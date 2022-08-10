@@ -18,7 +18,7 @@
  | 链接 | 预览 |
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者解决定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快在计算机科学课程中被教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可行的计划._ |
@@ -81,7 +81,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ### Reinforcement Learning
 
-- Q学习
+- Q Learning
 - SARSA (State-Action-Reward-State-Action) 算法
 - 时间差异学习
 
@@ -104,8 +104,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 卷积神经网络 (CNN)
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
-- Autoencoder
-- 生成对抗网络（GAN）
+- 自动编码器
+- 生成对抗网络 (GAN)
 - 自组织地图
 
 ## COLLEGES
@@ -180,6 +180,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
 - [Realtime deployment](https://www.microprediction.com/python-1) Python时间序列模型部署教程.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 
 ### Free Courses
 
@@ -187,7 +188,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础知识；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
 - [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多门免费在线数据科学课程
 
 
@@ -275,11 +276,12 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyMC3](https://docs.pymc.io/)  | 用于概率编程（贝叶斯推理和机器学习）的 Python 库 |
 | [PyStan](https://pypi.org/project/pystan/)  |  Stan 的 Python 接口（贝叶斯推理和建模）|
 | [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习和推理
-| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
+| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  |  ML 支持的分析引擎，用于异常值/异常检测和根本原因分析 |
 | [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器中发现、创建和启动多云应用程序.  |
 | [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
-| [LineaPy](https://github.com/LineaLabs/lineapy)  | 是否曾经因清理冗长、凌乱的 Jupyter 笔记本而感到沮丧？ 借助开源 Python 库 LineaPy，只需两行代码即可将凌乱的开发代码转换为生产管道.  |
+| [LineaPy](https://github.com/LineaLabs/lineapy)  | 是否曾经因清理冗长、凌乱的 Jupyter 笔记本而感到沮丧？ 使用开源 Python 库 LineaPy，只需两行代码即可将凌乱的开发代码转换为生产管道.  |
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
+| [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找热门和新图书馆、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表 |
 
 ## Machine Learning in General Purpose
 
@@ -719,7 +721,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 - [AI Digest](https://aidigest.net/) . 每周时事通讯，以了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
-- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的通讯. [Archive](https://roundup.getdbt.com/archive).
+- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的时事通讯. [Archive](https://roundup.getdbt.com/archive).
 
 
 ## Youtube Videos & Channels

@@ -45,6 +45,12 @@
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - VS Code 的官方 Playwright 测试扩展.
 - [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - IntelliJ 的剧作家插件.
 
+## Reporters
+
+- [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - 用于将测试结果从 Playwright 上传到 Tesults 的库.
+- [monocart-reporter](https://github.com/cenfun/monocart-reporter) - 剧作家测试记者，在 html 网格中显示套件/案例/步骤.
+- [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure 与 Playwright 测试框架的集成.
+
 ## Showcases
 
 - [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - 使用 Playwright 的各种测试场景，使用官方测试运行器和 TypeScript 编写的脚本.

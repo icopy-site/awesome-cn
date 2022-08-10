@@ -6,11 +6,11 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
+ **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如面向任务的、面向技术的和面向形而上学的. 最后，他决定专注于 ***The Sciences of Intelligence*** 的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence*** 的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行绑架和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
+显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行溯因和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
 
 ## Contributing
 
@@ -117,7 +117,7 @@
 
 #### Explanation
 
-* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于溯因的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于其将新思想引入当前知识的潜力.
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于绑架的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于它具有将新思想引入当前知识的潜力.
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的规范应用.
 
@@ -166,7 +166,7 @@
 
 * [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***合成***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
-* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***综合***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
+* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***合成***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***空间认知***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
 
@@ -233,7 +233,7 @@
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***行为和脑科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005) ]. 对小说中想象世界的合理化的评论.
+* [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***行为和脑科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005) ]. 对小说中想象世界的合理化的回顾.
 
 
 #### Applications in AI
@@ -252,7 +252,7 @@
 
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***逻辑编程杂志***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5) ].  ACLP 中的原始论文.
 
-* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***Computational Logic***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5) ].  ALP论文的修订版.
+* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***Computational Logic***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5) ].  ALP 论文的修订版.
 
 * [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198&hl=en&as_sdt=0,5)].
 
@@ -393,7 +393,7 @@
 
 * [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE 信息论汇刊***，1962 年. [[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864&hl=en&as_sdt=0,5)].
 
-* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM 研究与开发杂志***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5) ].  Chaitin 关于算法信息理论的原始论文.
+* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM 研究与开发杂志***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5) ].  Chaitin 关于算法信息论的原始论文.
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
 
@@ -578,7 +578,7 @@
 * [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***科学***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5) ].  Daniel Kahneman 的前瞻性理论的经典思想.
 
 
-* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类规划中理性问题表示的计算说明.
+* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类计划中理性问题表示的计算说明.
 
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***机器学习***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
@@ -895,7 +895,7 @@
 
 * [With or Without U? The Appropriate Test for a U-Shaped Relationship](https://mpra.ub.uni-muenchen.de/4823/1/MPRA_paper_4823.pdf) - ***牛津经济与统计公报***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=1574723532506536904&hl=en&as_sdt=0,5) ]. 从数据中测试U型关系的原始方法，与二次回归测试不同.
 
-* [Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions](https://journals.sagepub.com/doi/pdf/10.1177/2515245918805755) - ***心理科学方法和实践的进步***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=12010185803500406162&hl=en&as_sdt=0,5) ]. 测试 U 形关系统计显着性的另一种方法.
+* [Two lines: A valid alternative to the invalid testing of U-shaped relationships with quadratic regressions](https://journals.sagepub.com/doi/pdf/10.1177/2515245918805755) - ***心理科学方法和实践的进步***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=12010185803500406162&hl=en&as_sdt=0,5) ]. 测试 U 形关系的统计显着性的另一种方法.
 
 
 #### Scaling Up Behavioral Studies
@@ -967,6 +967,8 @@
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 
+* [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5) ]. 关于上下文 Meta-RL 的里程碑式论文.
+
 * [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](http://proceedings.mlr.press/v97/rakelly19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15379570585451726919&hl=en&as_sdt=0,5)].
 
 * [Balancing Constraints and Rewards with Meta-Gradient D4PG](https://openreview.net/forum?id=TQt98Ya7UMP) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=2805226315118298313&hl=en&as_sdt=0,5)].
@@ -1037,7 +1039,7 @@
 <span id = "tom"></span>
 ### Theory of Mind
 
-* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***.  Wikipedia on Theory of Mind (ToM)，一种估计他人目标、信念和欲望的认知能力.
+* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***. 关于心智理论 (ToM) 的维基百科，一种估计他人目标、信念和欲望的认知能力.
 
 <!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***柏拉图斯坦福***.
 
@@ -1068,7 +1070,7 @@
 
 * [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477&hl=en&as_sdt=0,5&as_ylo=2017)].
 
-* [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5) ]. 没有显式概率计算的人类概率建模观点.
+* [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5) ]. 没有显式概率计算的人类概率建模的观点.
 
 * [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
 
@@ -1120,7 +1122,7 @@
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 
-* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种关于类比的计算哲学解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
+* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种计算哲学对类比的解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=) ]. 关于隐喻的认知帐户.
 
@@ -1244,7 +1246,7 @@
 
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - *** ACM 通讯***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5) ]. 首次尝试从人类知识中构建大规模的常识知识库.
 
-* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
+* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 从人类在互联网上的活动中获取常识知识的第一次尝试.
 
 * [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM 联合国际会议&#39;02***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)].
 
@@ -1347,17 +1349,17 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两件事在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，它是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学帐户，它是对表达式“有必要”和“有可能”的演绎行为的研究.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对“这是必要的”和“有可能的”表达的演绎行为的研究.
 
-* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 关于认识逻辑的计算哲学帐户，它是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
+* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 认识逻辑的计算哲学帐户，这是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
 
 * [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic) - ***维基百科***.
 
@@ -1396,7 +1398,7 @@
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072) - ***认知***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302&hl=en&as_sdt=0,5)].
 
-* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思想和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
+* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思维和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
 
 * [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***心理评论***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
 
@@ -1445,7 +1447,7 @@
 
 * [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224) - ***儿童发展***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)].
 
-* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***发展心理学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)].
+* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***发展心理学***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)].
 
 * [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=9247917261616759689)].
 

@@ -276,7 +276,7 @@ Neovim 支持多种 UI.
 - [nxvu699134/vn-night.nvim](https://github.com/nxvu699134/vn-night.nvim)  - 用 Lua 编写的深色 Neovim 配色方案. 支持内置 LSP 和 Tree-sitter.
 - [adisen99/codeschool.nvim](https://github.com/adisen99/codeschool.nvim) - 用 Lua 编写的 Neovim 的 Codeschool 配色方案，带有 Tree-sitter 和内置 lsp 支持.
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme)  - 用 Lua 编写的 Neovim、kitty、alacritty 的 GitHub 主题. 支持内置 LSP 和 Tree-sitter.
-- [kdheepak/monochrome.nvim](https://github.com/kdheepak/monochrome.nvim) - 一个 16 位单色配色方案，它使用 hsluv 来感知不同的灰色，支持 Tree-sitter 和其他常用插件.
+- [kdheepak/monochrome.nvim](https://github.com/kdheepak/monochrome.nvim) - 一个 16 位单色配色方案，它使用 hsluv 感知不同的灰色，支持 Tree-sitter 和其他常用插件.
 - [rose-pine/neovim](https://github.com/rose-pine/neovim) - 全天然松木、人造毛皮和一点苏荷区风格，适合优雅的极简主义者.
 - [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - vim/neovim 配色方案的集合，旨在使用对比和字体变化来突出显示代码.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim)  - 温暖的中色调深色主题，展现你充满活力的自我！ 支持原生 LSP、Tree-sitter 等！
@@ -310,7 +310,7 @@ Neovim 支持多种 UI.
 
 这些配色方案可能不直接专门针对 Tree-sitter，而是用 Lua 编写的.
 
-- [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - 矿箱颜色.
+- [tjdevries/gruvbuddy.nvim](https://github.com/tjdevries/gruvbuddy.nvim) - 矿井颜色.
 - [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox 社区配色方案 Lua 端口.
 - [metalelf0/jellybeans-nvim](https://github.com/metalelf0/jellybeans-nvim) - Neovim 的软糖配色方案端口.
 - [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) - 使用 colorbuddy 的 Neovim 的钴色方案端口.
@@ -353,7 +353,7 @@ Neovim 支持多种 UI.
 
 ### Icon
 
-- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - 一个 Lua 分支 [vim-devicons](https://github.com/ryanoasis/vim-devicons).
+- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - 一个 Lua 分叉 [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) - nvim-web-devicons 的配置集合.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - Neovim 插件，可帮助您选择字体字符、符号 Σ、Nerd 字体图标  和表情符号✨.
 
@@ -391,6 +391,7 @@ Neovim 支持多种 UI.
 - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) - 另一个 neovim 插件模板，使用 GitHub 的模板功能.
 <!--lint ignore double-link-->
 - [echasnovski/mini.nvim#mini.test](https://github.com/echasnovski/mini.nvim#minitest)  - `mini.nvim` 模块，带有用于编写大量 Neovim 插件测试的框架. 支持分层测试、挂钩、参数化、过滤、屏幕测试、“破坏式”仿真、可定制的报告器等.
+- [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - 保险箱需要更换精美的物品.
 
 ### Fennel
 
@@ -429,7 +430,7 @@ Neovim 支持多种 UI.
 - [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim) - 受航空公司启发的星系线配置.
 <!--lint ignore double-link-->
 - [echasnovski/mini.nvim#mini.statusline](https://github.com/echasnovski/mini.nvim#ministatusline)  - `mini.nvim` 模块，用于最小和快速的状态行. 支持根据窗口宽度更改内容.
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 轻量级浮动状态栏，旨在与 Neovim 的新全局状态栏一起使用.
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 轻量级浮动状态线，用于 Neovim 的新全局状态线.
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim 是一个严肃的 Neovim Statusline 插件，围绕递归继承设计，非常快速和通用.
 
 ### Winbar and Statusline component
@@ -729,12 +730,12 @@ Neovim 支持多种 UI.
 ### Keybinding
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件，显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例，与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建一个图例，与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的`:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，它模仿 Neovim 的 `:map` 系列命令. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - Lua 插件创建键绑定并用望远镜观察它们.
-- [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - 一个非常有趣的替代键盘映射，用于工作人员键盘布局，具有 nvim 功能，如 LSP 支持，使用 lua 构建和配置.
+- [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - 一个非常有趣的替代键盘映射，用于具有 nvim 功能（如 LSP 支持）的 workman 键盘布局，使用 lua 构建和配置.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - 以更有条理的方式创建和管理键绑定和命令，并通过 Telescope 快速搜索它们.
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) - 浮动窗口中的键映射提示.
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim)  - 创建自定义子模式和菜单.  Emacs Hydra 端口.

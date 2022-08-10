@@ -79,14 +79,14 @@
 * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - 从 pandas DataFrame 对象创建 HTML 分析报告
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - 具有变形金刚的通用 1d/2d 数据容器.用于数据分析的功能 [The Alan Turing Institute](https://www.turing.ac.uk/).
 * [Arctic](https://github.com/manahl/arctic) - 用于时间序列和刻度数据的高性能数据存储.
-* [swifter](https://github.com/jmcarpenter2/swifter) - 以最快的可用方式有效地将任何功能应用于熊猫数据框或系列的包.
+* [swifter](https://github.com/jmcarpenter2/swifter) - 一个以最快的可用方式有效地将任何功能应用于熊猫数据框或系列的包.
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - 一个可以轻松编写自己风格的 Pandas 的包.
 * [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - 一个允许提供有关基本 pandas 操作的反馈并发现业务逻辑和性能问题的包.
 * [vaex](https://github.com/vaexio/vaex) - 用于 Python、ML 的核心外数据帧，以每秒 10 亿行的速度可视化和探索大表格数据.
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - 用于 pandas DataFrames 的 Sasy 管道.
-* [SSPipe](https://sspipe.github.io/) - Python 管道 (|) 运算符，支持 DataFrames 和 Numpy 和 Pytorch.
+* [SSPipe](https://sspipe.github.io/) - 支持 DataFrames 和 Numpy 和 Pytorch 的 Python 管道 (|) 运算符.
 * [Dataset](https://github.com/analysiscenter/dataset) - 帮助您方便地处理随机或连续批次的数据并定义数据处理.
 * [meza](https://github.com/reubano/meza) - 用于处理表格数据的 Python 工具包.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - 为数据科学管道构建系统.
@@ -165,7 +165,6 @@
 
 ## Probabilistic Methods
 * [PyMC](https://github.com/pymc-devs/pymc) - Python 中的贝叶斯随机建模.
-* [sampled](https://github.com/ColCarroll/sampled) - PyMC3 中可重用模型的装饰器.
 * [PyStan](https://github.com/stan-dev/pystan) - 使用 No-U-Turn 采样器（Python 接口）进行贝叶斯推理.
 * [pgmpy](https://github.com/pgmpy/pgmpy) - 用于处理概率图形模型的 python 库.
 * [emcee](https://github.com/dfm/emcee) - 用于仿射不变 MCMC 的 Python 集成采样工具包.
@@ -267,7 +266,7 @@
 * [CuPy](https://github.com/cupy/cupy) - 使用 CUDA 加速的类似 NumPy 的 API.
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - 用于多线性代数和张量分解的 Python 库.
 * [numdifftools](https://github.com/pbrod/numdifftools) - 解决一个或多个变量的自动数值微分问题.
-* [quaternion](https://github.com/moble/quaternion) - 为 numpy 添加对四元数的内置支持.
+* [quaternion](https://github.com/moble/quaternion) - 添加对四元数的内置支持到 numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - 用于对数学函数进行自适应和并行采样的工具.
 
 ## Spatial Analysis

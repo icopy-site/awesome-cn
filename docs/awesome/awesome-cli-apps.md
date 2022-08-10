@@ -8,7 +8,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 命令行应用程序的精选列表.
+&gt; 精选的命令行应用程序列表.
 
 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
@@ -37,7 +37,7 @@
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - mpd 客户端.
 - [moc](http://moc.daper.net/) - 适用于 Linux/UNIX 的控制台音频播放器.
-- [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+- [musikcube](https://github.com/clangen/musikcube) - 跨平台、基于终端的音乐播放器、音频引擎、元数据索引器和服务器.
 - [beets](https://github.com/beetbox/beets) - 音乐库管理器和标记器.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify 客户端.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify 歌词.
@@ -48,7 +48,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - 推特客户端.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上的智能和漂亮的 Twitter 客户端.
-- [tuir](https://gitlab.com/ajak/tuir) - 它付钱给你.
+- [tuir](https://gitlab.com/ajak/tuir) - 应该是 TUI.
 - [WeeChat](https://weechat.org/) - 快速、轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) - IRC 聊天客户端.
 - [kirc](https://github.com/mcpcpc/kirc) - 微型 IRC 客户端.
@@ -100,13 +100,14 @@
 - [neovim](https://github.com/neovim/neovim) - Vim fork 专注于可扩展性和可用性.
 - [kakoune](https://github.com/mawww/kakoune) - 受 vim 启发的模态编辑器.
 - [micro](https://github.com/zyedidia/micro) - 一个简单直观的编辑器.
+- [o](https://github.com/xyproto/o) - 免配置文本编辑器和 IDE.
 
 ### Web Development
 
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是否已启动.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
-- [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中删除注释.
+- [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中删除评论.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 将目录部署到网络.
 - [loadtest](https://github.com/alexfernandez/loadtest)  - 对选定的 URL 运行负载测试. 易于为您自己的目的最小限度地扩展.
@@ -186,7 +187,7 @@
 ## Productivity
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传屏幕截图到 imgur.
-- [bitly-client](https://github.com/specious/bitly-client) - 比特利客户.
+- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您所做的事情.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频叠加和多显示器支持的 ffmpeg 截屏视频.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 将图像上传到 imgur.
@@ -269,7 +270,7 @@
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - 管理 wifi 连接.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/id/等.
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换黑暗模式.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换暗模式.
 
 ### Terminal Sharing Utilities
 

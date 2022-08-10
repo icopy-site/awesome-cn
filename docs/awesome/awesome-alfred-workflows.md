@@ -41,12 +41,12 @@
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - 包回购搜索.
 - [Packagist](https://github.com/vinkla/alfred-packagist) - 搜索 PHP 包 [Packagist](https://packagist.org).
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出、搜索和开放源代码树存储库.
-- [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
+- [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - 使用 Alfred2 列出和控制 Vagrant 环境.
 - [VSCode](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - 使用 Visual Studio Code 打开文件或文件夹的 Alfred 4 工作流.
 
 ## Text Manipulation
 - [Encode / Decode](https://github.com/willfarrell/alfred-encode-decode-workflow) - 通过 base64、html、url 和 utf-8 编码/解码转换您的查询字符串.
-- [Funnel](http://www.packal.org/workflow/funnel) - 通过各种过滤器汇集选定的文本或文件.
+- [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [hl](https://github.com/importre/alfred-hl) - 剪贴板中的语法高亮代码.
 - [HTML Entity Lookup](https://github.com/ajgon/alfred2-html-entity-lookup) - 根据外观或名称搜索实体字符.
 - [Pandoctor](https://github.com/smargh/alfred_pandoctor) - 阿尔弗雷德接口 [pandoc](http://pandoc.org)，一种允许在文本格式（Markdown、LaTeX、DOC、DOCX、...）之间进行转换的工具.
@@ -73,7 +73,7 @@
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - 表情符号的片段包.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) - 从文本中查找相关的表情符号.
 - [Gitmoji](https://github.com/techouse/alfred-gitmoji) - 搜索 [Gitmojis](https://gitmoji.dev) 容易地.
-- [Lorem Ipsum](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - 从 Alfred 生成 Internet (...) 文本.
+- [Lorem Ipsum](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - 从 Alfred 生成 lorem ipsum(...) 文本.
 - [Kaomoji](https://github.com/vinkla/alfred-kaomoji) - 从文本中查找相关的颜文字.
 - [Moment](https://github.com/perfectworks/alfred-workflow-moment) - 高级时间实用程序，灵感来自 [moment.js](https://momentjs.com).
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - 直接截图到imgur.
@@ -90,6 +90,7 @@
 ## System
 - [AppFreeze](https://github.com/vitorgalvao/alfred-workflows/tree/master/AppFreeze) - 暂停和恢复最前面的应用程序的执行.
 - [AppScripts](https://github.com/deanishe/alfred-appscripts) - 搜索并运行活动应用程序的 JXA/AppleScripts.
+- [Bluetooth Controller](https://github.com/vegardinho/alfred_bluetooth_controller) - 管理蓝牙状态和设备连接.
 - [Copy Paths to Clipboard](https://github.com/franzheidl/copy-paths-to-clipboard) - 将当前文件路径作为 POSIX、HFS 或文件 URL 复制到剪贴板.
 - [Finder New item](https://github.com/danielbayley/alfred-finder-new-item) - 通过模板支持在 Finder 中快速创建新项目.
 - [Fkill](https://github.com/SamVerschueren/alfred-fkill) - 惊人的搜索和杀死进程.
@@ -121,8 +122,8 @@
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
-- [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
-- [PacMax](https://pacmax.org/) – Pacmax 是作为 Alfred 爱好者查找和分享他们最喜欢的工作流程、片段和主题的一种方式.
+- [Packal](http://www.packal.org/) - 找到工作流的最大地方.
+- [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 
 ## Contributing
