@@ -15,8 +15,9 @@
 谢谢你们 [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors) ，你太棒了，没有你，这份名单是不可能的！ 目标是建立一个分类的社区驱动的非常知名的资源集合.
 
 ### Versions
-此列表适用于 Umbraco v9 软件包. 但是，我们也有旧版本的列表！ 也检查一下.
+此列表适用于 Umbraco v10 软件包. 但是，我们也有旧版本的列表！ 也检查一下.
 
+[![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](https://github.com/umbraco-community/awesome-umbraco/blob/master/UMBRACO-V9.md)
 [![UmbracoV8](https://img.shields.io/badge/Umbraco-v8-blue)](https://github.com/umbraco-community/awesome-umbraco/blob/master/UMBRACO-V8.md)
 [![UmbracoV7](https://img.shields.io/badge/Umbraco-v7-blue)](https://github.com/umbraco-community/awesome-umbraco/blob/master/UMBRACO-V7.md)
 
@@ -47,23 +48,25 @@
 ## Backoffice extensions
 
 * [Plumber](https://our.umbraco.com/packages/backoffice-extensions/plumber-workflow-for-umbraco/) - 向 Umbraco 添加大量有用的点点滴滴，以允许多阶段的工作流程批准.
-* [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - 让您在 Umbraco 内处理翻译过程的所有步骤.
+* [Translation Manager*](https://our.umbraco.com/packages/backoffice-extensions/translation-manager/) - 让您在 Umbraco 中处理翻译过程的所有步骤.
 * [Page Not Found Manager](https://our.umbraco.com/packages/backoffice-extensions/hot-chilli-page-not-found-manager) - 从 Umbraco 管理您的站点 404 页面.
 * [Skybrud.Umbraco.Redirects](https://our.umbraco.com/packages/website-utilities/skybrud-redirects/) - 重定向 Umbraco 的经理.
 * [SimpleRedirects](https://our.umbraco.com/packages/backoffice-extensions/simpleredirects/) - 重定向 Umbraco 的经理.
 * [Newsletter Studio*](https://our.umbraco.com/packages/backoffice-extensions/newsletter-studio-the-email-studio/) - 响应式电子邮件编辑器为所有客户创建电子邮件.
 * [Backoffice Themes](https://our.umbraco.com/packages/backoffice-extensions/backoffice-themes/) - 允许在后台选择您自己的主题.
-* [MemberListView](https://our.umbraco.com/packages/backoffice-extensions/memberlistview/) - 为会员区添加仪表板，便于管理.
 
 ### Form Builders
 
-* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/)  - 新的 Contour，使用它向您的站点添加表单.  **（由 Umbraco 总部开发）**
+* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/)  - 一个可轻松将可定制表单添加到您的网站的软件包.  **（由 Umbraco 总部开发）**
 
 ### Property Editors
 
-* [Meganav](https://our.umbraco.com/packages/backoffice-extensions/umbnav/) - 一个灵活的、可拖动的链接选择器，用于构建网站导航菜单，无论大小.
-* [Switcher](https://our.umbraco.org/projects/backoffice-extensions/switcher/) - 一个简单的属性编辑器，可替代核心真/假数据类型.
-* [Open or closed](https://our.umbraco.com/packages/backoffice-extensions/open-or-closed/) - 允许设置营业时间的属性编辑器.
+* [Meganav](https://our.umbraco.com/packages/website-utilities/meganav/) - 一个灵活的、可拖动的链接选择器，用于构建网站导航菜单，无论大小.
+
+### SEO Tools
+
+* [SEO Checker*](https://soetemansoftware.nl/seo-checker) - 在您的 Umbraco 网站中查找常见的 SEO 问题.
+* [SeoToolkit](https://our.umbraco.com/packages/backoffice-extensions/seotoolkit/) - 提供 SEO 功能（如元字段、重定向等）的软件包.
 
 ## Developer tools
 
@@ -71,6 +74,7 @@
 * [Diplo God Mode](https://our.umbraco.com/packages/developer-tools/diplo-god-mode/) - 为开发人员公开大量信息.
 * [DateFolders](https://our.umbraco.com/packages/developer-tools/datefolders/) - 为 Umbraco 的指定文档类型创建日期文件夹（年/月（/日））
 * [AlphabetFolders](https://our.umbraco.com/packages/developer-tools/alphabetfolders/) - 为 Umbraco 的指定文档类型创建 AlphabetFolders
+* [Konstrukt*](https://our.umbraco.com/packages/backoffice-extensions/konstrukt/) - 通过代码的后台 UI 构建器.
 
 ### Deployment
 
@@ -85,13 +89,11 @@
 
 ## Website Utilities
 
-* [InboundLinkErrors](https://our.umbraco.com/packages/website-utilities/inbound-link-errors/) - 跟踪 404 响应，以便您轻松添加新的重定向.
 * [Full Text Search](https://our.umbraco.com/packages/website-utilities/full-text-search-for-umbraco/) - 为您的网站设置搜索的快速简便的方法.
 
 ## Code Libraries
 
-* [Skybrud.Umbraco.GridData](https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/) - 用于使 Umbraco 网格强类型化的包.
-
+还没有:(.但如果你有任何，那么请随时提出拉取请求！
 
 ---
 

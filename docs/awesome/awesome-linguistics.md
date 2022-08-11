@@ -3,32 +3,32 @@
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of anything remotely related to linguistics, sorted in alphabetical order.
+与语言学远程相关的任何内容的精选列表，按字母顺序排序.
 
 
 ### Programming
-*Libraries, frameworks and applications useful for developing applications.*
+*对开发应用程序有用的库、框架和应用程序.*
 
 ### Platforms and toolkits
-* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Haxe 的早期语言分析和自然语言处理库。
-* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
-* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
-* [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
-* [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
-* [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
-* [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Haxe 的早期语言分析和自然语言处理库.
+* [Natural](https://github.com/NaturalNode/natural) - Node.js 的通用自然语言工具.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - 用于构建 Python 程序以处理人类语言数据的最完整平台.
+* [Snowball](http://snowball.tartarus.org/) - Snowball 是一种可以轻松表示词干算法的语言.
+* [Spacy](https://spacy.io/) - Python 中工业级的国家语言处理.
+* [UBIAI](https://ubiai.tools/)  - 易于使用的文本注释工具，具有最全面的自动注释功能的团队. 支持 NER、关系和文档分类以及用于发票标签的 OCR 注释.
+* [UralicNLP](https://github.com/mikahama/uralicNLP)  - 一个开源 Python 库，用于处理形态丰富且大部分情况下濒临灭绝的乌拉尔语语言. 它可以对许多乌拉尔语语言进行形态分析、生成、词形还原、消歧和词法查找.
 
 ### Algorithms
-* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.
-* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
+* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自雪球的各种词干算法.
+* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 由作者 Martin Porter 编写和维护的 Porter Stemming Algorithm 分发的“官方”主页.
 
 ### Data sets
-* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON 格式的泛浪漫词列表.
 
 ### Resources
-* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
-* [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - 管理大型语言注释项目的指南.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - 用于保护、开发和记录低资源（人类）语言的资源清单.
+* [Language Science Press](https://langsci-press.org/) - 语言科学出版社是天生的数字学者主导的语言学开放获取出版商.
 
 
 ### On Wikipedia
@@ -44,16 +44,16 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
-* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
-* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - CC-licensed educational videos interconnected with Marburg University's e-learning platform of the same name.
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - 马里兰大学计算语言学课程的讲座.
+* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - 与马尔堡大学同名电子学习平台互联的 CC 许可教育视频.
 
 ### Books
-*Some of the more interesting and complete books.*
+*一些更有趣和完整的书籍.*
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - An introductory book.
+* [Essentials of Linguistics, 2nd edition](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/) - 介绍性书籍（第 2 版）.
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - The book from the NLTK package.
+* [Natural Language Processing with Python](http://www.nltk.org/book/) - 来自 NLTK 包的书.
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free

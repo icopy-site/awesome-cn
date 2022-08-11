@@ -55,6 +55,8 @@
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
+- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找所有语言的流行和新 Ruby 库的精选列表、顶级作者、趋势项目工具包、讨论、教程和学习资源. 
+
 
 [返回顶部][link_toc]
 
@@ -274,7 +276,7 @@
 - [diaper](https://github.com/rubyforgood/diaper)  - 尿布库的库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - 一个社交网络应用程序 - 使用 Rails 5.1 - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse)  - 社区讨论平台（使用 Rails 6.0）.  - [:earth_africa:](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - 农场管理应用程序（使用 Rails 4.2）.
+- [ekylibre](https://github.com/ekylibre/ekylibre) - 一个农场管理应用程序（使用 Rails 4.2）.
 - [postal](https://github.com/postalhq/postal) - 一个邮件传递平台（使用 Rails 5.2）.
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 具有加密支持的消息传递应用程序（使用 Rails 4.2）.
 - [eol](https://github.com/EOL/eol) - 一个百科全书应用程序 - 使用 Rails 3.2 - [:earth_africa:](https://eol.org/)
@@ -316,7 +318,7 @@
 - [planningalerts-app](https://github.com/openaustralia/planningalerts)  - 一个计划中的应用程序跟踪应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.planningalerts.org.au)
 - [popHealth](https://github.com/pophealth/popHealth) - 人口健康报告应用程序（使用 Rails 4.1）.
 - [publify](https://github.com/publify/publify) - 一个博客应用程序（使用 Rails 5.2）.
-- [quant](https://github.com/jdjkelly/quant) -  A personal health tracker (using Rails 4.1).
+- [quant](https://github.com/jdjkelly/quant) - 个人健康追踪器（使用 Rails 4.1）.
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - 一个自行车比赛组织应用程序（使用 Rails 5.2）.
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) - 援助工作者的信息提供者应用程序（使用 Rails 4.0）.
 - [redmine](https://github.com/edavis10/redmine)  - 一个项目管理应用程序（使用 Rails 5.2）.  - [:earth_africa:](http://demo.redmine.org)
@@ -470,7 +472,7 @@
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  - 用于创建下一个 Saas 产品的 Rails 6 样板. 预装了 graphQL、devise、JWT、CanCanCan、RailsAdmin、Rubocop、Rspec 等.
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template)  - Rails 6 项目的应用模板； 预装了 TDD、安全性、部署和开发人员生产力的最佳实践.
 - [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - 下一个 Rails 应用程序的模板
-- [rails-template(ackama)](https://github.com/ackama/rails-template)  - Rails 6.1 项目的应用模板； 预装了 TDD、安全性、部署和开发人员生产力的最佳实践.
+- [rails-template(ackama)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 - [rails-template(astrocket)](https://github.com/astrocket/rails-template) - Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let&#39;s Encrypt 的模板.
 - [rails-template(dao42)](https://github.com/dao42/rails-template) - 适合高级 Rails 开发人员的最佳、最新和最快的 Rails 6.x 模板.
 - [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - 使用 Le Wagon 最佳实践快速开始您的 Rails 开发.
@@ -479,7 +481,7 @@
 - [rails_new](https://github.com/lockstep/rails_new)  - 一个精心设计的模板，用于构建现代 Rails 应用程序. 在几分钟而不是几小时内开始.
 - [suspenders](https://github.com/thoughtbot/suspenders) - 带有我们标准默认设置的 Rails 模板，可以部署到 Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails 启动工具包 GitHub 模板，用于开发混合移动应用程序.
-- [rails_api_base](https://github.com/rootstrap/rails_api_base) - 用于 JSON RESTful API 的 Rails 6 样板项目.
+- [rails_api_base](https://github.com/rootstrap/rails_api_base) - 针对 JSON RESTful API 的 Rails 6 样板项目.
 - [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - 带有 Hotwire 的 Rails 6 样板项目，用于具有现代 SPA 体验的全栈应用程序.
 
 ## Other Rails Tools

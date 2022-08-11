@@ -41,7 +41,7 @@
 - [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - 可调节模型打印各种笔的适配器.
 - [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - 短和长标准绘图笔的准确 STL 模型.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - 适用于一般绘图仪滥用的笔列表.
-- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - 以鸡蛋和玻璃为重点的钢笔建议，但仍然是普遍适用的信息.
+- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - 以鸡蛋和玻璃为重点的钢笔建议，但仍然普遍适用的信息.
 - [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - 对许多白色墨水笔的全面审查，并附有其覆盖特征的图片.
 
 ## Software
@@ -72,7 +72,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [svg2gcode](https://github.com/vishpat/svg2gcode) - 用于快速 SVG 到 G 代码转换的 Python 实用程序.
 - [jscut](http://jscut.org/) - 用于将 SVG 转换为 G 代码的基于 Web 的实用程序.
 - [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - 基于 Java 的 grbl 兼容的跨平台 G 代码发送器.
-- [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - 模块化的基于网络的工作空间，用于可视化 G 代码和控制硬件.
+- [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - 基于 Web 的模块化工作区，用于可视化 G 代码和控制硬件.
 - [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing)  - 处理库，旨在从简单的形状创建 gcode.  （专为与 Creality CR10 一起使用而设计）
 - [gcodeplot](https://github.com/arpruss/gcodeplot) - 用于将 SVG 和 HPGL 转换为 3 轴 CNC 机床的 G 代码的 Python 实用程序.
 
@@ -91,7 +91,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Makeangelo 极谱仪机器人的固件.
 - [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 软件.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - 处理中 AxiDraw 的海龟图形.
-- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - 带有 SVG 和 DXF 导入的 grbl 控制器的绘图仪优化 Windows GUI，以及灵活的上/下笔控制.
+- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - 为带有 SVG 和 DXF 导入的 grbl 控制器的绘图仪优化的 Windows GUI，以及灵活的上/下笔控制.
 - [saxi](https://github.com/nornagon/saxi)  - AxiDraw 的驱动程序和库. 使用恒定加速度运动规划并自动调整到纸张大小.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - 用于将 HPGL 转换为 Graphtec 的 GPGL 格式的软件，以及用于 Graphtec 绘图笔适配器的 CAD 文件.
 
@@ -105,7 +105,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [ln](https://github.com/fogleman/ln) - 用 Go 编写的基于矢量的 3D 渲染器.
 - [autotrace](https://github.com/autotrace/autotrace) - 将位图图像转换为矢量图形.
 - [stipplegen](https://github.com/evil-mad/stipplegen)  - 从位图图像创建有趣的点画图.  ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-- [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - “SquiggleDraw 将从图像创建一个 SVG 文件，使用亮度来改变正弦波的幅度”.
+- [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - “SquiggleDraw 将从图像创建 SVG 文件，使用亮度来改变正弦波的幅度”.
 - [svgurt](https://svgurt.com) - 基于 Web 的 PNG 到 SVG 创意面条机.
 - [maptrace](https://github.com/mzucker/maptrace) - 通过跟踪光栅图像生成防水的多边形矢量图.
 - [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - 创建用于绘图机器人的 G 代码.
@@ -134,7 +134,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [svgsort](https://github.com/inconvergent/svgsort) - 用于绘制 SVG 文件的路径规划，减少了用笔移动所花费的时间.
 - [svgo](https://github.com/svg/svgo) - 基于 Node.js 的优化 SVG 文件的工具.
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - 优化极谱仪的绘图计划.
-- [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - 一个 SVG 优化器，它使用车辆路径求解器来最小化绘图时间.
+- [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - 一个 SVG 优化器，它使用车辆路线求解器来最小化绘图时间.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - 仅用于从 HTML 文档中提取 SVG 的 Chrome 小书签.
 - [vpype](https://github.com/abey79/vpype) - 以绘图仪为中心的基于 Python 的 CLI 实用程序，用于生成和操作 SVG，包括缩放和优化路径.
 - [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - 基于浏览器的工具，用于使用不同的基元、自定义形状或其他 SVG 裁剪 SVG.
@@ -150,7 +150,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - SVG 格式的单行字体，主要用于 [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape 插件.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - 基于浏览器的 Hershey 文本工具，可导出为 SVG.
 
-## Inspiration and Instruction
+## Inspiration, Instruction, and Research
 
 博客文章、文章、教程、画廊、视频等.
 
@@ -169,10 +169,11 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - 很多不错的提示，并非都是针对 Axidraw 的，还有一些笔评论和方便的 3D 打印工具.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - 很好地概述了 AxiDraw 及其克隆，以及一些 DIY 选项.
 - [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - 2022 年现代绘图仪的精彩视频介绍.
+- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - 关于绘图员社区新工作流程的研究论文（[Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
 
 ## Manuals and Ephemera
 
-扫描的绘图仪手册和营销蜉蝣，大部分来自 [Internet Archive](https://archive.org)
+扫描的绘图仪手册和营销蜉蝣，主要来自 [Internet Archive](https://archive.org)
 
 ### Manuals
 
@@ -184,6 +185,10 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Commodore 1520 Printer Plotter Manual](https://archive.org/details/1520PrinterPlotterusersManualStyleB)
 - [Control Data 165/165-2 Plotter Manual](https://archive.org/details/bitsavers_cdc160139c_4086972)
 - [Houston Instrument DMP-160 Plotter Operation Manual](https://archive.org/details/houston-instrument-dmp-160-series-plotters-operation-manual)
+- [Houston Instrument DM/PL Command Language (1984)](https://archive.org/details/hi-dmpl-command-language)
+- [Houston Instrument Stand Assembly Procedure DMP-50 Series Plotter](https://archive.org/details/hi-stand-assembly-procedure-dmp-50-series-plotter)
+- [Houston Instrument DMP-40V Operation Manual (1988)](https://archive.org/details/dmp-40v)
+- [Houston Instrument Interface Notes for DM/PL Intelligent Plotters (1983)](https://archive.org/details/hi-interface-notes-dm-pl-plotters)
 - [HP 7475A Graphics Plotter Operation and Interconnection Manual](https://archive.org/details/HP7475AOperationManual)
 - [HP 7570A DraftPro Plotter Hardware Support Manual](https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86)
 - [HP 7585B Drafting Plotter Service Manual (1983)](https://archive.org/details/bitsavers_hpplotter0_18190273)
@@ -223,6 +228,9 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - 一本关于绘图仪和数字化仪的书.
 - [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
 - [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - 展示平板 CalComp 绘图仪及其输出的宣传视频.
+- [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
+- [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
+
 
 ## Community
 

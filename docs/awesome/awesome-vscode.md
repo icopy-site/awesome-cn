@@ -229,8 +229,8 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 ### Linters
 
 - [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - 用于 Visual Studio 代码的 TSLint（使用 `&quot;tslint.jsEnable&quot;: true`）.
-- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 棉绒 [eslint](https://eslint.org/).
-- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - 棉绒 [XO](https://github.com/xojs/xo).
+- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 短绒太 [eslint](https://eslint.org/).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - 短绒太 [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - 片段 [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter、Formatter 和 Pretty 打印机 [Prettier](https://github.com/prettier/prettier-vscode).
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)  - Visual Studio Code 的拼写检查器（英文）. 还通过外部扩展支持其他语言.
@@ -327,7 +327,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ### Other extensions
 
-- [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)  - 格式化 PHP 文件中的 HTML. 在保存操作之前运行，因此您仍然可以使用 PHP 格式化程序.
+- [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)  - 格式化 PHP 文件中的 HTML. 在保存操作之前运行，因此您仍然可以拥有 PHP 格式化程序.
 
 ![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
 
@@ -410,19 +410,25 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
-&gt; 在 vs 代码编辑器中浏览你的数据库
+&gt; 在 vs 代码编辑器中浏览您的数据库
 
 ![Browse your database inside the vs code editor animation](https://media.giphy.com/media/fnK9fzP80e7YfO7JAq/giphy.gif)
 
 ## [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
 
-&gt; Azure IoT 开发所需的一切：与 Azure IoT Hub 交互、管理连接到 Azure IoT Hub 的设备以及使用 Azure IoT Hub 的代码片段进行开发
+&gt; Azure IoT 开发所需的一切：与 Azure IoT Hub 交互，管理连接到 Azure IoT Hub 的设备，并使用 Azure IoT Hub 的代码片段进行开发
 
 ![Code snippets for Azure IoT Hub screenshot](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/device-explorer.png)
 
 ## [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
 &gt; 标记线条并跳转到它们
+
+## [Browser Preview (deprecated)](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
+
+ &gt; VS Code 的浏览器预览使您能够在编辑器中打开一个可以调试的真实浏览器预览. 浏览器预览由 Chrome Headless 提供支持，并通过在新进程中启动无头 Chrome 实例来工作. 这提供了一种在 VS Code 中呈现 Web 内容的安全方式，并启用了有趣的功能，例如编辑器内调试等等！
+
+![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
@@ -499,7 +505,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
 
-&gt; 活动面板上类似 Atom 的 git 指示器
+&gt; 活动面板上的类似 Atom 的 git 指示器
 
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
@@ -558,7 +564,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
 
- &gt; ngrok 允许您将在本地计算机上运行的 Web 服务器公开到 Internet. 只需告诉 ngrok 您的 Web 服务器正在侦听的端口. 此扩展程序允许您控制 [ngrok](https://ngrok.com/) 从 VSCode 命令面板
+ &gt; ngrok 允许您将在本地计算机上运行的 Web 服务器公开到 Internet. 只需告诉 ngrok 您的 Web 服务器正在侦听的端口. 此扩展程序允许您控制 [ngrok](https://ngrok.com/) 来自 VSCode 命令面板
 
 ![ngrok for VSCode](https://raw.githubusercontent.com/philnash/ngrok-for-vscode/master/images/start.gif)
 
@@ -600,7 +606,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ### [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
-&gt; 推断 JSON 的结构并粘贴为许多编程语言中的类型
+&gt; 推断 JSON 的结构并粘贴与许多编程语言中的类型一样
 
 ![Paste JSON as Code](https://raw.githubusercontent.com/quicktype/quicktype-vscode/master/media/demo.gif)
 
@@ -653,7 +659,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
 
-&gt; 允许用户直接在 Visual Studio Code 中编辑来自远程服务器的文件.
+&gt; 允许用户直接在 Visual Studio Code 中从远程服务器编辑文件.
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
@@ -747,7 +753,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround)
 
-&gt; 一个简单而强大的扩展，用于在您的代码块周围添加包装模板.
+&gt; 一个简单而强大的扩展，用于在代码块周围添加包装模板.
 
 ![Wrap a template around a code block](https://raw.githubusercontent.com/yatki/vscode-surround/master/images/demo.gif)
 
@@ -795,12 +801,6 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 ## Uncategorized
-
-## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
-
- &gt; VS Code 的浏览器预览使您能够在编辑器中打开一个可以调试的真实浏览器预览. 浏览器预览由 Chrome Headless 提供支持，并通过在新进程中启动无头 Chrome 实例来工作. 这提供了一种在 VS Code 中呈现 Web 内容的安全方式，并启用了有趣的功能，例如编辑器内调试等等！
-
-![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
@@ -1053,7 +1053,7 @@ Wes Bos 的官方主题.
 
 ### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
 
-一个简单的主题，三种变体的明亮色彩——夜空、宁静和海洋，适合全天舒适的工作.
+一个简单的主题，三种变体的明亮色彩——夜空、宁静和海洋，适合一整天的舒适工作.
 
 <a href="https://vscodethemes.com/e/bogdanlazar.edge">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
@@ -1093,7 +1093,7 @@ Visual Studio Code 的 Jellybeans 主题.
 
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
 
-适用于 Visual Studio Code 的优雅多汁的类材料主题.
+用于 Visual Studio Code 的优雅多汁的类材料主题.
 
 <a href="https://vscodethemes.com/e/whizkydee.material-palenight-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/whizkydee.material-palenight-theme.png" width="600" />
@@ -1117,7 +1117,7 @@ Visual Studio Code 现在最史诗般的主题.
 
 ### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
 
-Monokai 灵感主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) 和 [Visual Studio IDE](https://github.com/pushqrdx/monokai).
+Monokai 启发主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) 和 [Visual Studio IDE](https://github.com/pushqrdx/monokai).
 
 <a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/moblique.png" width="600" />

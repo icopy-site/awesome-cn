@@ -12,7 +12,7 @@
 
 很棒的 MicroPython 库、框架、软件和资源的精选列表.
 
-[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精益高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
+[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精简和高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
 
 
 
@@ -98,7 +98,7 @@
 #### Cryptography
 
 * [mpyaes](https://github.com/iyassou/mpyaes) - 用于 AES 加密的 MicroPython 模块.
-* [micropython-aes](https://github.com/piaca/micropython-aes) - 具有纯 python 实现的 AES 算法.
+* [micropython-aes](https://github.com/piaca/micropython-aes) - 带有纯python实现的AES算法.
 * [ucrypto](https://github.com/dmazzella/ucrypto)  - 用于进行快速椭圆曲线加密的 MicroPython 包，特别是数字签名.  API 设计灵感来自 fastecdsa 和基于 tomsfastmath 的实现.
 * [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) - Microchip Crypto Authentication安全元素的轻量级驱动程序，用纯python为MicroPython编写.
 * [embit](https://github.com/diybitcoinhardware/embit) - MicroPython 和 Python3 的最小比特币库，专注于嵌入式系统.
@@ -187,8 +187,8 @@
 
 #### MQTT
 
-* [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt)  - “弹性”异步 MQTT 驱动程序. 加上使用 ESP8266 将 MQTT 带到非网络目标的方法.
-* [MQBoard](https://github.com/tve/mqboard) - 一个微框架，用于在 MicroPython 板上使用 MQTT 和 asyncio，主要在 ESP32 上.
+* [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt)  - “弹性”异步 MQTT 驱动程序. 加上一种使用 ESP8266 将 MQTT 带到非网络目标的方法.
+* [MQBoard](https://github.com/tve/mqboard) - 在 MicroPython 板上使用 MQTT 和 asyncio 的微框架，主要在 ESP32 上.
 * [pysmartnode](https://github.com/kevinkk525/pysmartnode) - MicroPython 智能家居框架.
 * [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - 使用 MicroPython 将 UMQTT 消息发布到 AWS IoT.
 * [sonoff-mqtt by davea](https://github.com/davea/sonoff-mqtt) - 使用 MQTT 控制 Sonoff/ESP8266 的 MicroPython 脚本.
@@ -303,7 +303,7 @@
 #### Web
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - 一个微型 HTTP Web 服务器，支持 WebSockets、html/python 语言模板和路由处理程序，用于 MicroPython（用于 Pycom 模块和 ESP32）.
-* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 用于物联网 (MicroPython) 或大型服务器 (CPython) 的最后一个微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
+* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 最后一个用于物联网 (MicroPython) 或大型服务器 (CPython) 的微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
 * [tinyweb](https://github.com/belyalov/tinyweb) - 用于 MicroPython 的简单轻量级 HTTP 异步服务器.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) websocket 服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) - MicroPython 的强制门户演示.
@@ -357,7 +357,7 @@
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - 基于 MicroPython 绑定的面向对象组件的高级 GUI 库.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - 用于 Pyboard 和 LCD160CR 彩色显示器的简单的基于触摸驱动事件的 GUI.
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - 用于基于 RA8875 的显示器的 MicroPython 设备驱动程序和 nano-GUI.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个小型的仅显示 GUI，具有一组有限的 GUI 对象（小部件），用于显示驱动程序是 framebuf 类的子类的显示器. 带有用于 TFT、ePaper 和 OLED 显示器的驱动程序.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个小型的仅显示 GUI，具有一组有限的 GUI 对象（小部件），用于显示驱动程序从 framebuf 类继承的显示器. 带有用于 TFT、ePaper 和 OLED 显示器的驱动程序.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) 源自 nano-gui 并支持相同的显示器和主机，这为用户提供
 通过按钮或导航操纵杆和可选的旋转编码器输入.
 * [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) 基于 SSD1963 控制器和 XPT2046 触摸控制器的大型显示器快速触摸 GUI.
@@ -449,6 +449,7 @@
 * [micropython_fastled](https://github.com/kdschlosser/micropython_fastled) - FastLED 到 MicroPython 的端口.
 * [micropython_quickled](https://github.com/thebaron88/micropython_quickled) - MicroPython 模块，允许 python 全速将数据泵入 ws2811 LED.
 * [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - 用 PWM 控制 RGB LED 的微型驱动器.
+* [micropython-dotstar](https://github.com/mattytrentini/micropython-dotstar) - Adafruit CircuitPython APA102/DotStar 库的 MicroPython 端口.
 
 #### OLED
 
@@ -519,7 +520,7 @@
 
 #### PWM
 
-* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - 用于在异步循环中控制 PWM 输出的 MicroPython 库，具有衰减和闪烁等功能.
+* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - 用于控制异步循环中的 PWM 输出的 MicroPython 库，具有衰减和闪烁等功能.
 
 #### Rotary Encoder
 
@@ -913,7 +914,7 @@
 
 * [rshell](https://github.com/dhylands/rshell) - 将文件复制或同步到 Boards，从终端输入 REPL.
 * [ampy](https://github.com/scientifichackers/ampy) - MicroPython Tool - 通过串行连接与 MicroPython 板交互的实用程序.
-* [mpfshell](https://github.com/wendlers/mpfshell) - 一个用于 ESP8266 和 WiPy 的简单的基于 shell 的文件浏览器.
+* [mpfshell](https://github.com/wendlers/mpfshell) - 一个简单的基于 shell 的文件浏览器，用于 ESP8266 和 WiPy.
 * [mpsync](https://github.com/Uhlo/mpsync) - 一个小工具，可在检测到更改时将文件夹同步到 MicroPython 板.
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md)  - 强大的官方shell，支持将宿主机当前目录挂载到目标机上. 在不更改目标文件系统的情况下运行代码.
 

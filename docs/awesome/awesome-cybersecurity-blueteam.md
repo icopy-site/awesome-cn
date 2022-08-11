@@ -4,7 +4,7 @@
 
 &gt; 为网络安全蓝队提供的一系列很棒的资源、工具和其他闪亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全漏洞、验证安全措施的有效性并监控系统以确保所实施的防御措施在未来仍然有效的个人群体. 虽然不是排他性的，但此列表严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和针对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全漏洞、验证安全措施的有效性并监控系统以确保实施的防御措施在未来保持有效的个人群体. 虽然不是排他性的，但此列表严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和针对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 本作品已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -86,7 +86,7 @@
 
 也可以看看 [ServiceMesh.es](https://servicemesh.es/).
 
-- [Consul](https://consul.io/) - 跨动态、分布式基础架构连接和配置应用程序的解决方案，并通过 Consul Connect 实现安全的服务到服务通信，并具有自动 TLS 加密和基于身份的授权.
+- [Consul](https://consul.io/) - 跨动态、分布式基础设施连接和配置应用程序的解决方案，并通过 Consul Connect 实现安全的服务到服务通信，并具有自动 TLS 加密和基于身份的授权.
 - [Istio](https://istio.io/) - 开放平台，用于提供统一的方式来集成微服务、管理跨微服务的流量、执行策略和聚合遥测数据.
 
 ## Communications security (COMSEC)
@@ -112,7 +112,7 @@
 - [DefectDojo](https://www.defectdojo.org/) - 为 DevOps 和持续安全集成构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) - 常规持续集成构建管道期间的渗透测试应用程序.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - 防止您将密码和其他敏感信息提交到 git 存储库.
-- [SOPS](https://github.com/mozilla/sops) - 加密文件的编辑器，支持 YAML、JSON、ENV、INI 和二进制格式，并使用 AWS KMS、GCP KMS、Azure Key Vault 和 PGP 进行加密.
+- [SOPS](https://github.com/mozilla/sops) - 支持 YAML、JSON、ENV、INI 和二进制格式并使用 AWS KMS、GCP KMS、Azure Key Vault 和 PGP 加密的加密文件的编辑器.
 - [Snyk](https://snyk.io/) - 查找并修复开源依赖项和容器映像中的漏洞和许可违规.
 - [SonarQube](https://sonarqube.org) - 持续检查工具，可在自动测试期间提供详细报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) - 用于容器和其他工件的简单而全面的漏洞扫描器，适用于持续集成管道.
@@ -147,7 +147,7 @@
 也可以看看 [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 * [Atheris](https://pypi.org/project/atheris/) - 基于 libFuzzer 的覆盖引导 Python 模糊测试引擎，支持 Python 代码的模糊测试，也支持为 CPython 编写的本机扩展.
-* [FuzzBench](https://google.github.io/fuzzbench/) - 免费服务，以 Google 规模评估各种真实世界基准测试中的模糊器.
+* [FuzzBench](https://google.github.io/fuzzbench/) - 免费服务，以 Google 规模评估各种真实世界的基准测试中的模糊器.
 * [OneFuzz](https://github.com/microsoft/onefuzz) - 自托管的 Fuzzing-as-a-Service (FaaS) 平台.
 
 ### Policy enforcement
@@ -172,7 +172,7 @@
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  - 自托管蜜令牌生成器和报告仪表板； 演示版可在 [CanaryTokens.org](https://canarytokens.org/).
 - [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
-- [Manuka](https://github.com/spaceraccoon/manuka) - 开源情报 (OSINT) 蜜罐，用于监控威胁参与者的侦察尝试，并为蓝队提供可操作的情报.
+- [Manuka](https://github.com/spaceraccoon/manuka) - 开源情报 (OSINT) 蜜罐，用于监控威胁参与者的侦察尝试并为蓝队提供可操作的情报.
 
 ### Tarpits
 
@@ -212,7 +212,7 @@
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - 基于 Viper 构建的脚本化数字取证和事件响应 (DFIR) 工具包.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
-- [Rekall](http://www.rekall-forensic.com/) - 先进的取证和事件响应框架.
+- [Rekall](http://www.rekall-forensic.com/) - 高级取证和事件响应框架.
 - [TheHive](https://thehive-project.org/) - 可扩展的免费安全事件响应平台旨在让 SOC、CSIRT 和 CERT 的生活更轻松，并与 MISP 紧密集成.
 - [threat_note](https://github.com/defpoint/threat_note) - 由 Defense Point Security 构建的 Web 应用程序，允许安全研究人员添加和检索与其研究相关的指标.
 
@@ -271,6 +271,7 @@
 - [Metta](https://github.com/uber-common/metta) - 进行对抗性模拟的自动化信息安全准备工具.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - 生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) - 基于 Ubuntu 的开放式虚拟设备 (`.ova`) 预配置了多个威胁仿真工具以及防御者工具包.
+- [tcpreplay](https://tcpreplay.appneta.com/) - 一套免费的开源实用程序，用于编辑和重放先前捕获的网络流量，这些流量最初旨在将恶意流量模式重播到入侵检测/预防系统.
 
 ## Security configurations
 
@@ -292,7 +293,7 @@
 
 - [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于 pynids 的解码器和 APT 交易检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) - 恶意网络流量检测系统.
-- [Moloch](https://github.com/aol/moloch) - 增强您当前的安全基础设施，以标准 PCAP 格式存储和索引网络流量，提供快速、索引访问.
+- [Moloch](https://github.com/aol/moloch) - 增强您当前的安全基础架构，以标准 PCAP 格式存储和索引网络流量，提供快速、索引访问.
 - [OwlH](https://www.owlh.net/) - 通过可视化 Suricata、Zeek 和 Moloch 生命周期，帮助大规模管理网络 IDS.
 - [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) - 用于网络流量分析的开源框架，可提取 Zeek 日志并检测信标、DNS 隧道等.
 - [Respounder](https://github.com/codeexpress/respounder) - 检测网络上是否存在 Responder LLMNR/NBT-NS/MDNS 毒药.
@@ -328,7 +329,7 @@
 
 也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
-- [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 一套基于 CIM/WMI 的工具，支持跨所有版本的 Windows 进行远程事件响应和搜寻操作.
+- [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 一套基于 CIM/WMI 的工具，支持跨所有 Windows 版本的远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell 模块，用于通过 Windows 事件日志进行分组搜索.
 - [GRR Rapid Response](https://github.com/google/grr) - 事件响应框架专注于远程实时取证，包括安装在资产上的 Python 代理和基于 Python 的服务器基础设施，使分析师能够快速分类攻击并远程执行分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - 基于 Elasticsearch、Logstash、Kafka 和 Kibana 的多合一免费软件威胁搜寻堆栈，具有各种内置分析集成，包括 Jupyter Notebook.
@@ -346,8 +347,8 @@
 - [AttackerKB](https://attackerkb.com/) - 免费和公开的众包漏洞评估平台，帮助优先考虑高风险补丁应用和对抗漏洞疲劳.
 - [DATA](https://github.com/hadojae/DATA) - 凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼 URL，或在观察到的包含此类 URL 的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) - 使用 Python3 构建的多线程威胁情报收集，具有简单的基于文本的配置和数据存储，易于使用和数据可移植性.
-- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过对您的 ICS/SCADA 网络拓扑和端点进行被动映射、说明和报告，提供工业控制系统 (ICS) 和监控与数据采集 (SCADA) 的 IP 网络态势感知.
-- [MLSec Combine](https://github.com/mlsecproject/combine) - 收集多个威胁情报源并将其组合成一种可定制的、标准化的基于 CSV 的格式.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过对您的 ICS/SCADA 网络拓扑和端点进行被动映射、计算和报告，提供工业控制系统 (ICS) 和监控与数据采集 (SCADA) 的 IP 网络态势感知.
+- [MLSec Combine](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集、存储、分发和共享网络安全指标的开源软件解决方案.
 - [Open Source Vulnerabilities (OSV)](https://osv.dev/) - 开源项目的漏洞数据库和分类基础设施，旨在帮助开源维护者和开源消费者.
 - [Sigma](https://github.com/Neo23x0/sigma) - SIEM 系统的通用签名格式，提供开放式签名格式，让您能够以直接的方式描述相关的日志事件.
@@ -367,7 +368,7 @@
 - [ESET's Malware IoCs](https://github.com/eset/malware-ioc) - 从 ESET 的各种调查中得出的妥协指标 (IOC).
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - 收集 Snort 和 YARA 规则以检测使用 FireEye 自己的 Red Team 工具进行的攻击，该工具在 FireEye 于 2020 年 12 月披露违规行为后首次发布.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) - 收集各种语言的 IoC，用于检测后门 SolarWinds Orion NMS 活动和相关漏洞.
-- [YARA Rules](https://github.com/Yara-Rules/rules) - Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.
+- [YARA Rules](https://github.com/Yara-Rules/rules) - 涵盖 IT 安全研究人员需要拥有一个单一存储库的项目，其中不同的 Yara 签名被编译、分类并尽可能保持最新.
 
 ## Tor Onion service defenses
 
@@ -387,7 +388,7 @@
 - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - 使用 IPsec/L2TP、Cisco IPsec 和 IKEv2 构建您自己的 IPsec VPN 服务器的脚本.
 - [Innernet](https://github.com/tonarino/innernet) - 在后台使用 WireGuard 的免费软件专用网络系统，可自托管.
 - [Nebula](https://github.com/slackhq/nebula) - 受 tinc 启发，完全开源、自托管、可扩展的覆盖网络工具，专注于性能、简单性和安全性.
-- [OpenVPN](https://openvpn.net/) - 长期存在的自由软件传统的基于 SSL/TLS 的虚拟专用网络.
+- [OpenVPN](https://openvpn.net/) - 长期免费软件传统的基于 SSL/TLS 的虚拟专用网络.
 - [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
 - [Tailscale](https://tailscale.com/) - 建立在 WireGuard 之上的托管免费增值网状 VPN 服务.
 - [WireGuard](https://www.wireguard.com/) - 使用最先进的加密技术的极其简单但快速且现代的 VPN.

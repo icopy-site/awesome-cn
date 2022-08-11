@@ -10,6 +10,16 @@
 
 <br>
 
+---
+
+<br>
+<br>
+<div align="center"><h3><a href="https://www.producthunt.com/posts/one-thing">看看我的新应用：一件事</a></h3></div>
+<br>
+<br>
+
+---
+
 <div align="center">
 	<p>
 		<p>
@@ -117,7 +127,7 @@
 
 - [Git-it](https://github.com/jlord/git-it-electron) - 教你 Git 和 GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - 非官方的 Facebook Messenger 应用程序.
-- [Simplenote](https://github.com/Automattic/simplenote-electron) - 记事本.
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
 - [Abricotine](https://github.com/brrd/Abricotine) - 带有内联预览的 Markdown 编辑器.
 - [Kap](https://github.com/wulkano/kap) - 支持 GIF 的屏幕录像机.
 - [Medis](https://github.com/luin/medis) - Redis 数据库管理.
@@ -134,7 +144,7 @@
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL 客户端.
 - [Light Table](https://github.com/LightTable/LightTable) - 具有即时反馈的代码编辑器.
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的 Google Play 音乐应用.
-- [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - 打包为应用程序的 Chrome DevTools.
+- [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools 打包为一个应用程序.
 - [Proton](https://github.com/steventhanna/proton) - 带有实时预览的 Markdown 编辑器.
 - [Hawkpass](https://github.com/kalpetros/hawkpass) - 密码生成器.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - 面向开发人员的 Markdown 注释和代码片段应用程序.
@@ -147,7 +157,7 @@
 - [YakYak](https://github.com/yakyak/yakyak) - 非官方的 Google Hangouts 应用程序.
 - [Museeks](https://github.com/KeitIG/museeks) - 音乐播放器.
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
-- [Wire](https://github.com/wireapp/wire-desktop) - 信使和通话应用.
+- [Wire](https://github.com/wireapp/wire-desktop) - 信使和通话应用程序.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终端.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu 系统优化器.
 - [Inpad](https://github.com/sarah-seo/Inpad) - 带有 GitHub 风格的 Markdown 的 Notes 应用程序.
@@ -212,7 +222,7 @@
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知器.
-- [Discord](https://discord.com) - Voice and text chat.
+- [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 为 Cocos2D-x 创建网页和原生游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的 Markdown 笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换比特币和以太坊等区块链资产.
@@ -322,7 +332,7 @@
 
 - [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 - [Official docs](https://electronjs.org/docs)
-- [Essential Electron](http://jlord.us/essential-electron/) - 简明扼要的概述.
+- [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
 
 ## Articles
 

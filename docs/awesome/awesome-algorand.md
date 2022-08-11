@@ -67,7 +67,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Tutorials
 
-- [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言构建借贷池的教程.
+- [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - Tutorial on how to build a lending pool using the Reach language.
 - [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部事务的教程.
 - [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil 平台构建用于铸造资产的 Web 应用程序.
@@ -163,6 +163,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
 - [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
+- [ASC Builder](https://ascbuilderapp.com) - 用于开发和部署 Algorand 智能合约的 GUI（拖放）工具 [Algoknox](https://twitter.com/Algoknox).
 
 ### Docker
 
@@ -173,7 +174,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
 - [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
-- [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
+- [irulan](https://irulan.dev/) - 用于部署 + 测试智能合约的 Web 应用程序（[open source! + PRs welcome](https://github.com/ncc/irulan)).
 
 ### Nodes and Indexers
 

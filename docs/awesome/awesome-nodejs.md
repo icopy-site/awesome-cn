@@ -7,7 +7,7 @@
 	</div>
 	<br>
 	<br>
-	<h2><a href="https://sindresorhus.com/velja">看看我的最新应用——Velja</a></h2>
+	<h2><a href="https://www.producthunt.com/posts/one-thing">看看我最新的应用程序——一件事</a></h2>
 	<br>
 	<br>
 	<br>
@@ -202,13 +202,13 @@
 - [npm-name](https://github.com/sindresorhus/npm-name) - 在 npm 上检查包名称的可用性.
 - [gh-home](https://github.com/sindresorhus/gh-home) - 在当前目录中打开 repo 的 GitHub 页面.
 - [npm-home](https://github.com/sindresorhus/npm-home) - 打开包的 npm 页面.
-- [trash](https://github.com/sindresorhus/trash) - `rm` 的更安全的替代品.
+- [trash](https://github.com/sindresorhus/trash) - `rm` 的更安全替代方案.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 测试您的互联网连接速度和 ping.
 - [pageres](https://github.com/sindresorhus/pageres) - 捕获网站截图.
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
 - [vtop](https://github.com/MrRio/vtop) - 更好的顶部，带有漂亮的图表.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
-- [is-up](https://github.com/sindresorhus/is-up) - 检查一个网站是打开还是关闭.
+- [is-up](https://github.com/sindresorhus/is-up) - 检查网站是否已启动或已关闭.
 - [is-online](https://github.com/sindresorhus/is-online) - 检查互联网连接是否正常.
 - [public-ip](https://github.com/sindresorhus/public-ip) - 获取您的公共 IP 地址.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 在终端上复制和粘贴.
@@ -252,14 +252,14 @@
 
 - [lodash](https://github.com/lodash/lodash)  - 提供一致性、自定义、性能和附加功能的实用程序库. 更好更快的 Underscore.js.
 - [immutable](https://github.com/immutable-js/immutable-js) - 不可变的数据集合.
-- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序启用的灵活功能组合. 避免变异数据.
+- [Ramda](https://github.com/ramda/ramda)  - 实用程序库，专注于通过自动柯里化和反转参数顺序实现的灵活功能组合. 避免变异数据.
 - [Mout](https://github.com/mout/mout) - 实用程序库与其他现有解决方案的最大区别是您可以选择仅加载您需要的模块/功能，没有额外的开销.
 - [RxJS](https://github.com/reactivex/rxjs) - 用于转换、组合和查询各种数据的功能性反应库.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 专注于高性能和低内存使用的反应式库.
 
 ### HTTP
 
-- [got](https://github.com/sindresorhus/got) - 更好的内置“http”模块界面.
+- [got](https://github.com/sindresorhus/got) - 更好的内置 `http` 模块界面.
 - [undici](https://github.com/nodejs/undici) - 从零开始编写的高性能 HTTP 客户端，具有零依赖性.
 - [ky-universal](https://github.com/sindresorhus/ky-universal) - 基于 Fetch 的通用 HTTP 客户端.
 - [node-fetch](https://github.com/node-fetch/node-fetch) - Node.js 的`window.fetch`.
@@ -286,7 +286,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得洞察力.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -326,7 +326,7 @@
 - [insight](https://github.com/yeoman/insight) - 通过向 Google Analytics 匿名报告使用指标，帮助您了解您的工具是如何被使用的.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - 切换 CLI 光标.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) - 列式 unicode 和 ansi-safe 文本列表.
-- [cfonts](https://github.com/dominikwilkowski/cfonts) - 用于控制台的性感 ASCII 字体.
+- [cfonts](https://github.com/dominikwilkowski/cfonts) - 控制台的性感 ASCII 字体.
 - [multispinner](https://github.com/codekirei/node-multispinner) - 多个、同时、单独可控的 CLI 微调器.
 - [omelette](https://github.com/f/omelette) - 外壳自动完成助手.
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台设置环境变量.
@@ -364,7 +364,7 @@
 
 ### Templating
 
-- [marko](https://github.com/marko-js/marko) - 基于 HTML 的模板引擎，将模板编译为 CommonJS 模块，并支持流式传输、异步渲染和自定义标签.
+- [marko](https://github.com/marko-js/marko) - 基于 HTML 的模板引擎，将模板编译为 CommonJS 模块并支持流式传输、异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承、异步控制等功能的模板引擎（受 jinja2 启发）.
 - [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Mustache 模板的超集，增加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单无主见的模板语言.
@@ -372,7 +372,7 @@
 
 ### Web frameworks
 
-- [Fastify](https://github.com/fastify/fastify) - 快速和低开销的网络框架.
+- [Fastify](https://github.com/fastify/fastify) - 快速且低开销的 Web 框架.
 - [Next.js](https://github.com/vercel/next.js) - 服务器渲染的通用 JavaScript Web 应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - 服务器渲染的 Vue.js 应用程序的简约框架.
 - [Hapi](https://github.com/hapijs/hapi) - 构建应用程序和服务的框架.
@@ -407,7 +407,7 @@
 - [del](https://github.com/sindresorhus/del) - 使用 glob 删除文件/文件夹.
 - [globby](https://github.com/sindresorhus/globby) - 支持多种模式的 Glob 文件.
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
-- [chokidar](https://github.com/paulmillr/chokidar) - 文件系统观察器，用于稳定来自 `fs.watch` 和 `fs.watchFile` 的事件，以及在 macOS 上使用本机 `fsevents`.
+- [chokidar](https://github.com/paulmillr/chokidar) - 文件系统观察器，可稳定来自 `fs.watch` 和 `fs.watchFile` 的事件，以及在 macOS 上使用本机 `fsevents`.
 - [find-up](https://github.com/sindresorhus/find-up) - 通过上层目录查找文件.
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间和机器间锁定文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - 读取并解析 JSON 文件.
@@ -490,9 +490,9 @@
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - 从字符串中的每一行去除前导空格.
-- [detect-indent](https://github.com/sindresorhus/detect-indent) - 检测代码的缩进.
+- [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [he](https://github.com/mathiasbynens/he) - HTML 实体编码器/解码器.
-- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+- [i18n-node](https://github.com/mashpie/i18n-node) - 具有动态 JSON 存储的简单翻译模块.
 - [babelfish](https://github.com/nodeca/babelfish) - i18n 具有非常简单的复数语法.
 - [matcher](https://github.com/sindresorhus/matcher) - 简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - 标准化视觉上相似的 unicode 字符.
@@ -550,11 +550,11 @@
 - [parse5](https://github.com/inikulin/parse5) - 快速的全功能规范兼容 HTML 解析器.
 - [@parcel/css](https://github.com/parcel-bundler/parcel-css) - 用 Rust 编写的 CSS 解析器、转换器和压缩器.
 - [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - 从 JSON 中删除评论.
-- [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - 从 CSS 中删除注释.
+- [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - 从 CSS 中删除评论.
 - [parse-json](https://github.com/sindresorhus/parse-json) - 用更多有用的错误解析 JSON.
-- [URI.js](https://github.com/medialize/URI.js) - 网址突变.
+- [URI.js](https://github.com/medialize/URI.js) - URL突变.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - 流式处理 JSON.parse 和 stringify.
-- [neat-csv](https://github.com/sindresorhus/neat-csv)  - 快速 CSV 解析器. 上述回调接口.
+- [neat-csv](https://github.com/sindresorhus/neat-csv)  - 快速 CSV 解析器. 上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 旨在比其他人更快的流式 CSV 解析器.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/matthewmueller/x-ray) - 网页抓取实用程序.
@@ -763,7 +763,7 @@
 
 ### Forum
 
-- [nodeBB](https://github.com/NodeBB/NodeBB) - 现代网络的论坛平台.
+- [nodeBB](https://github.com/NodeBB/NodeBB) - 现代网络论坛平台.
 
 ### Blogging
 
@@ -772,14 +772,14 @@
 
 ### Weird
 
-- [cows](https://github.com/sindresorhus/cows) - ASCII 奶牛.
+- [cows](https://github.com/sindresorhus/cows) - ASCII奶牛.
 - [superb](https://github.com/sindresorhus/superb) - 变得像话一样精湛.
 - [cat-names](https://github.com/sindresorhus/cat-names) - 获取流行的猫名.
 - [dog-names](https://github.com/sindresorhus/dog-names) - 获取流行的狗名.
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取超级恶棍的名字.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获取一些很酷的 ascii 面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈༝·͈˄₎◞̑̑ෆ⃛（=ↀωↀ=）✧（^·o·^）ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄ ͈༝ ͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特、星球大战和神奇宝贝等书呆子主题中获取数据.
 
 ### Serialization
@@ -834,7 +834,7 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些好的做法.
-- [The Node Way](https://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念可用于编写可维护的模块、可扩展的应用程序和真正易于阅读的代码.
+- [The Node Way](https://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念用于编写可维护的模块、可扩展的应用程序和真正易于阅读的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用少量简单库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
