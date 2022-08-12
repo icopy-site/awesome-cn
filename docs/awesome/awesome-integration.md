@@ -4,7 +4,7 @@
 
 &gt; 精选的系统集成软件、模式和资源列表.
 
-系统集成是将不同的 IT 系统（组件）连接在一起以实现整体功能协作的过程.
+系统集成是将不同的 IT 系统（组件）连接在一起以在功能上作为一个整体进行协作的过程.
 
   - [Data Mapping Solution](#data-mapping-solution) 
   - [iPaaS](#ipaas)  
@@ -36,7 +36,7 @@
 ### API Design
 *API 设计、文档和生命周期自动化工具.*
 - [OpenAPI Diff](https://github.com/OpenAPITools/openapi-diff) - 比较两个 OpenAPI 规范 (3.x) 并将差异呈现为 HTML 纯文本或 Markdown 文件.
-- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - 允许根据 OpenAPI 规范自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置（支持 2.0 和 3.0）.
+- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - Allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (both 2.0 and 3.0 are supported).
 - [OpenAPI Style Validator](https://github.com/OpenAPITools/openapi-style-validator) - 一个可定制的样式验证器，以确保您的 OpenAPI 规范符合您组织的标准.
 - [Spectral](https://github.com/stoplightio/spectral) - JSON/YAML linter，开箱即用，支持 OpenAPI 3.0 &amp; 2.0 和 AsyncAPI.
 - [Swagger Editor](https://swagger.io/tools/swagger-editor/) - 在第一个完全专用于基于 OpenAPI 的 API 的开源编辑器上设计、描述和记录您的 API.
@@ -108,7 +108,7 @@
 - [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - 编排更有效的流程、促进增长、提高成本效率并推动业务敏捷性.
 - [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - 全面的业务流程管理平台.
 - [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - 用于开发、管理和使用以业务流程为中心的业务应用程序的集成环境.
-- [Pega Platform](https://www.pega.com/products/platform) - 结合了业务流程管理和机器人流程自动化 (RPA) 平台，以及 Pegasystems 的高级劳动力分析.
+- [Pega Platform](https://www.pega.com/products/platform) - 结合了业务流程管理和机器人流程自动化 (RPA) 平台以及 Pegasystems 的高级劳动力分析.
 - [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - 一个应用程序开发平台，使开发人员和业务专家能够创建自动化业务运营的云原生应用程序.
 - [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - 业务流程管理产品和应用程序基础架构. 
 - [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - 具有流程自动化、流程文档、人力资本管理、流程模式和预测运营分析功能的业务流程管理平台.
@@ -194,8 +194,8 @@
 - [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - 托管 Apache Kafka 服务.
 
 ### Managed File Transfer
-*Managed file transfer (MFT) solutions.*
-- [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - 多合一企业级 MFT.
+*托管文件传输 (MFT) 解决方案.*
+- [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - 一体化企业级 MFT.
 - [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - 使文件传输服务易于使用.
 - [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - 具有高可用性和故障转移功能的企业 MFT 服务器解决方案可消除停机时间.
 - [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - 使用快速且可扩展的文件传输平台，每天传输超过 100 万个文件.
@@ -241,7 +241,7 @@
 *任何自助服务和公民集成工具.*
 
 - [IFTTT](https://ifttt.com/) - 允许在 Web 服务之间创建条件语句链，以使 Web 为您工作并提高您的工作效率.
-- [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - 自动执行云应用程序之间的任务.
+- [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - 自动化云应用程序之间的任务.
 - [Zapier](https://zapier.com/) - 自动化工具，可让您连接数百个 Web 服务并在流程之间创建自动化.
 
 ### Workflow engine
@@ -264,7 +264,7 @@
 ### API Specification
 - [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - AsyncAPI 规范为事件驱动架构 (EDA) 的更大更好的工具生态系统奠定了基础.
 - [GraphQL](https://github.com/graphql/graphql-spec) - API 的查询语言和使用现有数据完成这些查询的运行时.
-- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在无需访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
+- [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义一个与语言无关的标准接口，允许人类和计算机在不访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API 建模语言.
 - [WSDL](http://www.w3.org/TR/wsdl20) - 基于 SOAP 的服务的基于 XML 的接口描述语言.
 ### Articles
@@ -289,10 +289,10 @@
 - [Canonical Data Model](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html) - 在集成使用不同数据格式的应用程序时，如何最大限度地减少依赖关系？
 - [Channel Adapter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelAdapter.html) - 如何将应用程序连接到消息传递系统，以便它可以发送和接收消息？
 - [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 您如何防止频道上的“剩余”消息干扰测试或正在运行的系统？
-- [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少跨系统发送的消息的数据量？  
+- [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少跨系统发送消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
 - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多个消息？
-- [Composed Message Processor](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DistributionAggregate.html) - 在处理由多个元素组成的消息时，如何维护整个消息流，每个元素可能需要不同的处理？  
+- [Composed Message Processor](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DistributionAggregate.html) - 在处理由多个元素组成的消息时，您如何维护整个消息流，每个元素可能需要不同的处理？  
 - [Content Enricher](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html) - 如果消息发起者没有可用的所有必需数据项，我们如何与另一个系统通信？  
 - [Content Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentFilter.html) - 当您只对少数数据项感兴趣时，如何简化处理大型消息？  
 - [Content-Based Router](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentBasedRouter.html) - 我们如何处理单个逻辑功能（例如，库存检查）的实施分布在多个物理系统中的情况？  
@@ -327,7 +327,7 @@
 - [Messaging Bridge](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html) - 如何连接多个消息传递系统，以便在一个消息系统上可用的消息也可以在其他消息系统上可用？
 - [Messaging Gateway](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingGateway.html) - 您如何封装从应用程序的其余部分对消息系统的访问？
 - [Messaging Mapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingMapper.html) - 您如何在域对象和消息传递基础架构之间移动数据，同时保持两者相互独立？
-- [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - 您如何处理语义相同但格式不同的消息？
+- [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - 你如何处理语义相同但格式不同的消息？
 - [Pipes and Filters](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html) - 我们如何在保持独立性和灵活性的同时对消息进行复杂的处理？  
 - [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - 呼叫者如何确定只有一位接收者会收到文件或执行呼叫？
 - [Polling Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html) - 当应用程序准备就绪时，应用程序如何使用消息？  
@@ -338,7 +338,7 @@
 - [Resequencer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Resequencer.html) - 我们如何才能将相关但无序的消息流恢复到正确的顺序？
 - [Return Address](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ReturnAddress.html) - 回复者如何知道将回复发送到哪里？
 - [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) - 当步骤顺序在设计时未知并且可能因每条消息而异时，我们如何通过一系列处理步骤连续路由消息？  
-- [Scatter-Gather](https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html) - 当一条消息需要发送给多个收件人时，您如何维护整个消息流，每个收件人都可能发送回复？  
+- [Scatter-Gather](https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html) - 当一条消息需要发送给多个收件人时，您如何维护整个消息流，每个收件人都可能会发送回复？  
 - [Selective Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html) - 消息消费者如何选择它希望接收的消息？  
 - [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html) - 应用程序如何设计一项服务，以便通过各种消息传递技术和非消息传递技术调用？
 - [Smart Proxy](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html) - 您如何跟踪向请求者指定的返回地址发布回复消息的服务上的消息？
@@ -376,6 +376,7 @@
 ### Protocols
 - [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - 高级消息队列协议 (AMQP) 版本 0-9-1.
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - 高级消息队列协议 (AMQP) 1.0 版.
+- [CoAP](http://coap.technology/) - 受限应用协议 (CoAP) 是针对受限设备的专用互联网应用协议，如 RFC 7252 中所定义.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) - 超文本传输​​协议 (HTTP) 是分布式、协作、超媒体信息系统的应用层协议.
 - [JSON-RPC](https://www.jsonrpc.org/specification) - 设计简单，它是一种无状态、轻量级的远程过程调用 (RPC) 协议.
 - [MQTT](https://mqtt.org/mqtt-specification/) - 消息队列遥测传输 (MQTT) 是一种轻量级的发布订阅网络协议，可在设备之间传输消息.

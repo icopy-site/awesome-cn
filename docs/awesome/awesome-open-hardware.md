@@ -15,7 +15,7 @@
 * [Open Source Ecology](https://www.opensourceecology.org/) - 工业机器开放.
 * [SafeCast](https://safecast.org/) - 公共领域的环境测量.
 * [WikiHouse](https://www.wikihouse.cc/) - 数字设计的开放式外壳.
-* [RepRep](https://reprap.org/wiki/RepRap) - 人类第一台通用、自我复制的制造机器.
+* [RepRap](https://reprap.org/wiki/RepRap) - 人类第一台通用、自我复制的制造机器.
 * [OpenBCI](https://openbci.com/) - 脑机接口.
 * [OpenMV](https://github.com/openmv/openmv) - 开源、低成本的机器视觉平台.
 * [OpenSPIM](https://openspim.org/) - 三维 (3D) 显微镜的开放存取平台.
@@ -42,7 +42,7 @@
 
 * [What is the “Source” of Open Source Hardware?](https://doi.org/10.5334/joh.7) - Jérémy Bonvoisin、Robert Mies、Jean-François Boujut、Rainer Stark 的论文.
 * [Emerging Business Models for Open Source Hardware](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3331121) - Joshua M. Pearce 的论文.
-* [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - ITS Heikkinen、H. Savin、J. Partanen、J. Seppälä、M. Pearce 的论文.
+* [Towards national policy for open source hardware research: The case of Finland](https://doi.org/10.1016/j.techfore.2020.119986) - ITS Heikkinen、H. Savin、J. Partanen、J. SeppäläJ、M. Pearce 的论文.
 * [Open-Source Hardware in Education: A Systematic Mapping Study](http://dx.doi.org/10.1109/ACCESS.2018.2881929) - Ruben Heradio、Jesus Chacon、Hector Vargas、Daniel Galan、Jacobo Saenz、Luis De La Torre、Sebastian Dormido 的论文.
 * [Haves and have nots must find a better way: The case for open scientific hardware](https://doi.org/10.1371/journal.pbio.3000014) - Andre Maia Chagas 的论文
 * [Open Labware: 3-D Printing Your Own Lab Equipment](https://doi.org/10.1371/journal.pbio.1002086) - Tom Baden、Andre Maia Chagas、Greg Gage、Timothy Marzullo、Lucia L. Prieto-Godino、Thomas Euler 的论文

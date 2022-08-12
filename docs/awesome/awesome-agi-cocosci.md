@@ -8,9 +8,9 @@
 
  **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence*** 的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如面向任务的、面向技术的和面向形而上学的. 最后，他决定专注于 ***The Sciences of Intelligence*** 的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行溯因和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
+显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行绑架和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
 
 ## Contributing
 
@@ -195,7 +195,7 @@
 
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***斯普林格***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5) ]. 关于搜索作为科学思维的原著.
 
-* [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***麻省理工学院出版社***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5) ]. 将科学发现与绑架的创造力特征相结合的计算帐户.
+* [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***麻省理工学院出版社***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5) ]. 将科学发现与绑架的创造性特征相结合的计算帐户.
 
 * [Induction: Processes of Inference, Learning, and Discovery](https://hk1lib.org/book/701605/02b32a?id=701605&secret=02b32a) - ***麻省理工学院出版社***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=12402938838725132707&hl=en&as_sdt=0,5) ]. 科学发现的归纳帐户.
 
@@ -211,7 +211,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -578,7 +578,7 @@
 * [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***科学***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5) ].  Daniel Kahneman 的前瞻性理论的经典思想.
 
 
-* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类计划中理性问题表示的计算说明.
+* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类规划中理性问题表示的计算说明.
 
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***机器学习***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
@@ -827,7 +827,7 @@
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)]. [[Project](https://gradientscience.org/background/) ]. 图像背景的透视为前景分类提供了强有力的线索.
 
-* [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5) ]. 对不同神经网络中神经元的学习模式进行加工.
+* [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5) ]. 加工不同神经网络中神经元的学习模式.
 
 
 
@@ -1012,7 +1012,7 @@
 
 * [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)  - ***柏拉图斯坦福***. 关于有限理性的计算哲学解释，这是人类智能在心理学和生态学中的基本假设.
 
-* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 一种关于工具理性的计算哲学解释，一种关于代理人的决定是有意还是出于理性连贯性的说法.
+* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 关于工具理性的计算哲学解释，关于代理人的决定是有意做出还是出于理性连贯性的说法.
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)]. A comprehensive review on the rationality of Bayesian computational models.
 
@@ -1039,7 +1039,7 @@
 <span id = "tom"></span>
 ### Theory of Mind
 
-* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***. 关于心智理论 (ToM) 的维基百科，一种估计他人目标、信念和欲望的认知能力.
+* [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***.  Wikipedia on Theory of Mind (ToM)，一种估计他人目标、信念和欲望的认知能力.
 
 <!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***柏拉图斯坦福***.
 
@@ -1122,7 +1122,7 @@
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 
-* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种计算哲学对类比的解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
+* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种关于类比的计算哲学解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=) ]. 关于隐喻的认知帐户.
 
@@ -1337,7 +1337,7 @@
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图斯坦福***. 一种关于逻辑和本体的计算哲学解释，主要是关于逻辑和本体在许多重要哲学问题中的交叉点.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的笑声进行了解释，该假设提出思考发生在一种心理语言中.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的笑声进行了解释，该假设提出思维发生在一种心理语言中.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
 
@@ -1357,9 +1357,9 @@
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对“这是必要的”和“有可能的”表达的演绎行为的研究.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学帐户，它是对表达式“有必要”和“有可能”的演绎行为的研究.
 
-* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 认识逻辑的计算哲学帐户，这是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
+* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 关于认识逻辑的计算哲学帐户，它是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
 
 * [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic) - ***维基百科***.
 
@@ -1725,6 +1725,8 @@
 * [Yixin Zhu](https://yzhu.io/) - ***北京大学人工智能研究院人工智能学院***.
 
 * [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***约翰霍普金斯大学（JHU）心理与脑科学系***， [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
+
+* [Mark Ho](https://markkho.github.io/) - ***史蒂文斯理工学院计算机科学系***.
 
 
 <span id = "bk"></span>

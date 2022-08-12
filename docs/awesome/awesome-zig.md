@@ -32,6 +32,7 @@
 ## Audio
 * [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 * [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - ALSA (libasound) 的绑定.
+* [dantecatalfamo/sndio-zig](https://github.com/dantecatalfamo/sndio-zig) - 绑定 [sndio](https://sndio.org).
 
 
 ## Bootables
@@ -61,6 +62,8 @@
 * [squeek502/zua](https://github.com/squeek502/zua) - 用于学习目的的 Lua 5.1 实现.
 * [CurtisFenner/zsmol](https://github.com/CurtisFenner/zsmol) - 新的 Smol 编译器和参考.
 * [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - 脑残翻译.
+* [dantecatalfamo/mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) 绑定.
+* [dantecatalfamo/wren-zig](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) 绑定.
 
 
 ## Database
@@ -98,7 +101,7 @@
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - 用于使用 Nintendo DS rom 的库.
 * [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - 简单而强大的数独求解器.
 * [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - 使用 Zig 创建 Game Boy Advance 游戏的 SDK.
-* [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - 用于跨平台游戏、模拟、引擎和编辑器编程的模块 Monorepo.
+* [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - 用于编程跨平台游戏、模拟、引擎和编辑器的模块 Monorepo.
 
 
 ## Games

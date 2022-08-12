@@ -9,7 +9,7 @@
 
 ## [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-连接索引、地图和报告的列表，可帮助您更好地了解谁可以访问通信基础设施以及在哪些条件下. 公共领域的所有信息.
+连接索引、地图和报告的列表，可帮助您更好地了解谁可以访问通信基础设施以及以何种条件访问. 公共领域的所有信息.
 
 <sub>更多关于我的连接</sub> [website](https://manypossibilities.net) 或开 [twitter](https://twitter.com/stevesong).</sub>
 
@@ -22,6 +22,7 @@
 
 **[`^        back to top        ^`](#)**
 
+- 国际电联全球连通性报告 - ([2022](https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/)) - 对当前连接状态的详细评估.
  - 国际电联衡量数字发展：包含最重要的 ICT 指标概览，包括对当年的估计.  ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf)) 
 - 网络就绪指数 - ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf))([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) 来自 Portulans Institute 的涵盖 121 个经济体的网络就绪指数
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2021) 衡量各国针对移动互联网采用的四个推动因素：基础设施、可负担性、消费者准备情况和内容.
@@ -69,8 +70,8 @@
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) (2017)
 - [A4AI Affordability Report](http://a4ai.org/affordability-report/report/) - ([2020](https://a4ai.org/affordability-report/report/2020/)) ([2019](https://a4ai.org/affordability-report/report/2019/)) ([2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf)) ([2017](http://a4ai.org/affordability-report/report/2017)).
 - [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) - （2017 年第一季度）大型 CDN 公司的连接性报告.
-- [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) - (2016) 检查信息和通信技术 (ICT) 在推动创新中的作用，包括网络就绪指数.
-- 电子政务调查 [2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) [2016](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) - Global E–Government and E-Participation Development Index. 
+- [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) - (2016) 检查信息和通信技术 (ICT) 在推动创新方面的作用，包括网络就绪指数.
+- 电子政务调查 [2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) [2016](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) - 全球电子政务和电子参与发展指数. 
 - [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - 最新数据更新：2022 年 2 月 10 日.
 - [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - 全球南方 16 个发展中国家家庭和个人在公共领域的 ICT 接入和使用的全国代表性调查的信息图表亮点.
 - 国际电联衡量数字发展：ICT价格趋势 - [2019](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/prices2019/ITU_ICTpriceTrends_2019.pdf)  - 分析和比较移动语音服务、移动数据和固定宽带的价格数据. 取代“衡量信息社会报告”.
@@ -108,7 +109,7 @@
 - [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) -（2018 年 5 月）影响和推动全球互联网普及的趋势.
 - [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) 加速互联网接入和采用的框架.
 - [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab 是一个开放的、可验证的全球网络性能测量平台. 
-- [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - 交互式地图报告影响互联网性能的问题.
+- [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - Interactive map reporting issues that impact the performance of the Internet.
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - 全球移动网络的最新列表及其相关频率.
 - [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - 更新：2020 年 2 月 28 日.
   

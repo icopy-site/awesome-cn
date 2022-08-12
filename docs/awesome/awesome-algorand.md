@@ -67,7 +67,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Tutorials
 
-- [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - Tutorial on how to build a lending pool using the Reach language.
+- [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言构建借贷池的教程.
 - [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部事务的教程.
 - [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil 平台构建用于铸造资产的 Web 应用程序.
@@ -117,7 +117,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Java
 
-- [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) - Algorand Java SDK.
+- [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
 
 ### .NET
 
@@ -181,6 +181,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - 存档节点、索引器设置（等等）的开发说明.
 - [AlgoNode](https://algonode.cloud) - 节点运行常见问题解答、节点/索引器每日快照、免费节点/索引器 API.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - 用于远程 Algorand 节点管理的终端 UI.
+- [SubQuery](https://subquery.network) - 开放、快速、灵活、去中心化的 Algorand 跨链数据索引器（[getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
 ## NFT Marketplaces
 
@@ -254,7 +255,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源.
 - [daotools](https://daotools.org/) - 在一个 Dapp 中管理您的所有 DAO 投票会话.
-- [FORUM](https://forum.ax/) - Algorand 区块链上的股权证明社交网络.
+- [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
 - [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用、显示 NFT、账户分析等.
 - [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
