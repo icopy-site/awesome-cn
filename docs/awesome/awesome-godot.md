@@ -205,7 +205,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
 - [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - 一组基本节点扩展.
-- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - 用几个节点和几行代码制作程序声音和自适​​应/程序音乐.
+- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - 使用几个节点和几行代码制作程序声音和自适​​应/程序音乐.
 - [GodotOnReady](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 - [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
 - [godot-ply](https://github.com/jarneson/godot-ply) - 用于灰盒或原型 3D 关卡的编辑器盒建模.
@@ -225,7 +225,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - 2D 地形工具.
 - [Tree generator](https://github.com/Zylann/godot_tree_generator_plugin) - 生成树的工具.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - 编辑器中 UI 的直观设计工作流程.
-- [Universal Sky](https://github.com/7leodev/UniversalSky) - 添加动态天空和时间.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - 基于体素的体积光照和雾插件.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript 体素插件，用于在引擎和游戏中创建、导入和编辑体素内容.
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D 顶点绘画插件.
@@ -254,7 +253,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用 GDScript 编写的 Godot 实用程序.
 - [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender 插件可轻松将资产导入 Godot.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
-- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单工确定性噪声函数.
+- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - 构建图块集.
 
 ## Modules
@@ -329,7 +328,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *内置脚本编辑器的替代主题.*
 
 - [base16-godot](https://github.com/Calinou/base16-godot) - 全部 [base16](https://github.com/chriskempson/base16) 主题.
-- [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 个语法主题，包括 Ayu Mirage、Darcula、Gruvbox Dark、Monokai、One Dark、Solarized 等等.
+- [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 个语法主题，包括 Ayu Mirage、Darcula、Gruvbox Dark、Monokai、One Dark、Solarized 等.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester、Google Code Light 和 Monokai.
 
 ## Unofficial Godot builds
@@ -366,6 +365,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - 将 GDScript 翻译成 GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用 Node.js 与 Godot 客户端通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
-- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于使用 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
+- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于处理 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 为 RetroPie 安装 Godot“模拟器”的脚本模块.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.

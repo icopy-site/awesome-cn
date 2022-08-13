@@ -4,23 +4,25 @@
 
 <br/>
 <div align="center">
-<a href="https://awesomealgo.com" target="_blank"> <img width="100%" src="https://i.imgur.com/Z6kSoCr.png"> </a>
+<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://i.imgur.com/EMRYFqZ.png"></a>
 </div>
 <br/>
 <div align="center">
 ⚡ 与<a href='https://www.algorand.com/'>Algorand</a>区块链相关的精彩资源的精选列表.
 <br />
+<br />
 Algorand 是一个开源的权益证明区块链和智能合约计算平台.
-<br/>
-<a><img src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=green" /></a>
-<a href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Web 2.0-Website-yellow.svg" /></a>
-<a href="https://ipfs.io/ipfs/QmS6dTFMddKkNnPmixhXRLLCfhURYnnnWJupz5tRPbJg81" style="pointer-events: none;  cursor: default;"><img src="https://img.shields.io/badge/Web 3.0-Website-blue.svg"/></a>
-<a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-purple.svg" /></a>
-<br/>
-<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?style=social" /></a>
-<a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?style=social" /></a>
 </div>
-<br/>
+
+
+<p align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
+    <img  href="https://awesomealgo.com" src="https://img.shields.io/badge/Web2.0-Website-yellow.svg" />
+    <a href="https://anchor.fm/awesomealgo"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-teal.svg" /></a>
+    <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=gold" /></a>
+    <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=blue" /></a>
+</p>
+
 
 
 
@@ -37,7 +39,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Pera Wallet](https://github.com/perawallet)  - 用于移动设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的 Web 钱包和 JS 库.
-- [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件 Web Wallet 和 JS 库，用于在浏览器中签署交易.
+- [AlgoSigner](https://github.com/PureStake/algosigner) - 用于在浏览器中签署交易的浏览器插件 Web Wallet 和 JS 库.
 - [Method Wallet](https://methodwallet.app/) - 你会喜欢的 Algorand 钱包.
 
 ## Blockchain Explorers
@@ -117,11 +119,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Java
 
-- [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
+- [java-algorand-sdk](https://github.com/algorand/java-algorand-sdk) - Algorand Java SDK.
 
 ### .NET
 
-- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - 由创建的 Algorand .NET SDK [@RileyGe](https://github.com/RileyGe).
+- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 创建者 [@RileyGe](https://github.com/RileyGe).
 - [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 
@@ -174,7 +176,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
 - [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
-- [irulan](https://irulan.dev/) - 用于部署 + 测试智能合约的 Web 应用程序（[open source! + PRs welcome](https://github.com/ncc/irulan)).
+- [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
 
 ### Nodes and Indexers
 
@@ -255,7 +257,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源.
 - [daotools](https://daotools.org/) - 在一个 Dapp 中管理您的所有 DAO 投票会话.
-- [FORUM](https://forum.ax/) - A proof-of-stake social network on the Algorand blockchain.
+- [FORUM](https://forum.ax/) - Algorand 区块链上的股权证明社交网络.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
 - [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用、显示 NFT、账户分析等.
 - [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
@@ -264,7 +266,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## ARCs
 
 &gt; *finalized* ARC 中定义的标准和规范.
-&gt; 所有 ARC 的列表可以在 https://arc.algorand.foundation 上找到
+&gt; 可以找到所有 ARC 的列表 [here](https://arc.algorand.foundation).
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.
 - [ARC69](https://github.com/algokittens/arc69) - 在 Algor和 NFT 社区中流行的非官方 Algor和 标准资产参数约定，灵感来自 [Open Sea's metadata st和ards](https://docs.opensea.io/docs/metadata-st和ards) 和 [EIP-1155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1155.md#erc-1155-metadata-uri-json-schema)， 由...制作 [@algokittens](https://twitter.com/AlgoKittens).
@@ -291,14 +293,4 @@ License
 
 在法律允许的范围内， [@aorumbayev](https://github.com/aorumbayev) 已放弃“Awesome Algorand”的所有版权和相关或邻接权.
 
-有关完整许可证，请参阅 [LICENSE](https://github.com/aorumbayev/Awesome-Algorand/blob/main/LICENSE).
-
-Credits
-
-这个很棒的列表的灵感来自：
-
-- https://github.com/ghostbits/awesome-algorand
-
-- https://github.com/ttumiel/Awesome-Ethereum
-
-- https://github.com/igorbarinov/awesome-bitcoin
+有关完整许可证，请参阅 [LICENSE](https://github.com/aorumbayev/Awesome-Algorand/blob/main/LICENSE.md).

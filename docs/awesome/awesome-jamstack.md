@@ -24,7 +24,7 @@
   </p>
   <p>
     <i>
-      想贡献一些资源吗？ 伟大的！ 请在贡献之前阅读<a href="contributing.md">贡献指南</a>.
+      Want to contribute with some resource? Great! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
     </i>
   </p>
   <br /><br />
@@ -82,7 +82,7 @@
 ## Static Site Generators
 
 - [Gatsby](https://gatsbyjs.org) - 用于 React 的超快静态站点生成器.
-- [Next.js](https://nextjs.org/) - Lightweight framework for static and server-rendered applications.
+- [Next.js](https://nextjs.org/) - 用于静态和服务器渲染应用程序的轻量级框架.
 - [Hugo](https://gohugo.io) - Hugo 是一个用 Go 编写的静态站点生成器.
 - [Jekyll](https://jekyllrb.com) - Jekyll 是一个简单的、支持博客的、静态站点生成器，非常适合个人、项目或组织站点.
 - [Hexo](https://hexo.io) - 一个快速、简单且强大的博客框架，由 Node.js 提供支持.
@@ -95,7 +95,7 @@
 - [Astro](https://astro.build) - 构建更快的网站，同时减少甚至几乎没有 Javascript.
 - [FactorJS](https://www.factorjs.org) - 由 Vite 提供支持的下一代框架.
 
-*For a more complete list see [StaticGen](https://www.staticgen.com/).*
+*更完整的列表见 [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
 - [Cosmic](https://cosmicjs.com) - 带有 REST 和 GraphQL API 选项的无头 CMS.
@@ -105,6 +105,7 @@
 - [ButterCMS](https://buttercms.com/) - 无头 CMS 和内容 API.
 - [Scrivito](https://scrivito.com) - 为数字机构和大中型企业构建的基于云的 JavaScript CMS.
 - [GraphCMS](https://graphcms.com) - GraphQL 无头 CMS.
+- [Apito](https://apito.io) - 基于云的无头 CMS，具有 CDN、Webhook、团队协作、内容修订、云功能.
 - [Prismic](https://prismic.io) - 适用于开发人员和营销人员的无头 API CMS.
 - [Siteleaf](https://siteleaf.com) - 适用于您的静态网站的友好 CMS.
 - [DatoCMS](https://datocms.com) - 您的编辑会喜欢的基于 API 的 CMS.
@@ -134,7 +135,7 @@
 
 ### Comments
 
-- [Disqus](https://disqus.com) - 全球评论系统，可改善网站上的讨论并连接网络上的对话.
+- [Disqus](https://disqus.com) - 全球评论系统，改善网站上的讨论并连接网络上的对话.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 评论插件允许人们使用他们的 Facebook 帐户评论您网站上的内容.
 - [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、wiki 页面等.
 
@@ -151,6 +152,7 @@
 
 ### E-commerce
 
+- [Astro Snipcart](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart 允许开发人员使用 Astro 框架和 Snipcart 平台构建电子商务网站.
 - [Flatmarket](https://github.com/christophercliff/flatmarket) - Flatmarket 是一个免费、开源的静态网站电子商务平台.
 - [GoCommerce](https://www.gocommerceapi.org) - Jamstack 网站的无头电子商务.
 - [Snipcart](https://snipcart.com/) - 一个强大的开发者购物车平台.
@@ -188,7 +190,7 @@
 - [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify 允许您在没有 AWS 账户的情况下部署 Lambda 函数，并直接在 Netlify 中处理函数管理.
 - [Amazon Lambda](https://aws.amazon.com/lambda/) - 让您无需配置或管理服务器即可运行代码.
 - 微软天青
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础设施.
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础架构.
   - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - 简化构建跨云服务和本地系统集成应用程序和数据的自动化可扩展工作流.
 - 谷歌云
   - [App Engine](https://cloud.google.com/appengine/) - 完全抽象基础设施的无服务器应用程序，因此您只关注代码.
@@ -203,11 +205,11 @@
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - 基于自定义 Google 硬件（张量处理单元）自动扩展的无服务器机器学习服务.
 - [Serverless](https://serverless.com/) - 用于部署和操作无服务器架构的工具包.
 - [Cloudinary](https://cloudinary.com/)  - 无服务器媒体（图像/视频）管理平台. 为 Jamstack 提供每种流行语言的 SDK 和媒体小部件，以便轻松管理媒体、CDN、存储、转换等.
-- [imgix](https://www.imgix.com/)  - 无服务器图像交付和管理服务.  imgix 连接到您的图像存储位置（例如 S3、GCS、Web 文件夹），并使用简单而强大的 URL 参数转换、优化和智能地交付您的图像.
+- [imgix](https://www.imgix.com/)  - 无服务器图像交付和管理服务.  imgix 连接到您的图像存储位置（例如 S3、GCS、Web 文件夹）并使用简单而强大的 URL 参数转换、优化和智能地交付您的图像.
 - [Elastictable](https://www.elastictable.com) - 建立在 AWS 上的后端即服务解决方案，缺少提高在线业务的成功率.
 
 
-*For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
+*更完整的列表见 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
@@ -265,7 +267,7 @@
 ## Books
 - [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - Mathias Billmann 和 Phil Hawksworth（由 O&#39;Reilly 出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
-- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) ——克里斯托弗·佩科拉罗和文森佐·甘比诺
+- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino
 - [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) ——雷蒙德·卡姆登和布赖恩·里纳尔迪
 
 ## License
