@@ -153,6 +153,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ru.md)
 + [Sinhala / සිංහල](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-si.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-es.md)
++ [Tamil / தமிழ்](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ta.md)
 + [Thai / ภาษาไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-tr.md)
 + [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-uk.md)

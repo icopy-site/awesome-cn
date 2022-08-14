@@ -37,7 +37,7 @@
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - mpd 客户端.
 - [moc](http://moc.daper.net/) - 适用于 Linux/UNIX 的控制台音频播放器.
-- [musikcube](https://github.com/clangen/musikcube) - 跨平台、基于终端的音乐播放器、音频引擎、元数据索引器和服务器.
+- [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - 音乐库管理器和标记器.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify 客户端.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify 歌词.
@@ -97,10 +97,11 @@
 
 - [emacs](https://github.com/emacs-mirror/emacs) - 可扩展、可定制、免费/自由的文本编辑器——等等.
 - [vim](https://github.com/vim/vim) - Vim - 无处不在的文本编辑器.
-- [neovim](https://github.com/neovim/neovim) - Vim fork 专注于可扩展性和可用性.
+- [neovim](https://github.com/neovim/neovim) - 现代 vim.
 - [kakoune](https://github.com/mawww/kakoune) - 受 vim 启发的模态编辑器.
 - [micro](https://github.com/zyedidia/micro) - 一个简单直观的编辑器.
 - [o](https://github.com/xyproto/o) - 免配置文本编辑器和 IDE.
+- [helix](https://github.com/helix-editor/helix) - 受 kakoune 启发的模态编辑器.
 
 ### Web Development
 
@@ -146,7 +147,7 @@
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程管理器.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 syslog.
-- [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
+- [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 大小调整.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息传递平台和电子邮件发送消息/警报.
 
@@ -187,7 +188,7 @@
 ## Productivity
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传屏幕截图到 imgur.
-- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
+- [bitly-client](https://github.com/specious/bitly-client) - 比特利客户端.
 - [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您所做的事情.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频叠加和多显示器支持的 ffmpeg 截屏视频.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 将图像上传到 imgur.
@@ -449,7 +450,7 @@
 
 - [autojump](https://github.com/wting/autojump) - 一个学习的 cd 命令 - 从命令行轻松导航目录.
 - [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对文件和目录的快速访问，灵感来自 autojump、z 和 v.
-- [pm](https://github.com/Angelmmiguel/pm) - 在 shell 上切换到项目的简单方法.
+- [pm](https://github.com/Angelmmiguel/pm) - 在 shell 上切换到您的项目的简单方法.
 - [z](https://github.com/rupa/z) - z 是新的 j，哟.
 - [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker 会为您提供一个漂亮的 UI，以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) - z 的无缝模糊选项卡完成.

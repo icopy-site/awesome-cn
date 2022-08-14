@@ -45,7 +45,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Best of JavaScript](https://weekly.bestofjs.org/) . 与 Node.js 和 Web 平台相关的最受欢迎的开源项目的每周排名.
 - [JavaScript Kicks](https://javascriptkicks.com/) .  JavaScript 开发人员社区每周发送的最受好评的文章的精选列表.
 - [Bytes](https://bytes.dev/) . 成为更聪明的 JavaScript 开发人员. 随时了解 JavaScript 生态系统从未如此有趣. 每周一发货，免费.
-- [Deno Weekly](https://denoweekly.com/) . 来自 Deno 的新闻、教程和项目的每周综述，这是最新的 JavaScript 运行时.
+- [Deno Weekly](https://denoweekly.com/) . 来自 Deno 的新闻、教程和项目的每周综述，这是块上最新的 JavaScript 运行时.
 
 #### React
 
@@ -135,7 +135,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Active forks](https://activeforks.net) . 面向开源爱好者的每周通讯，其中包含存储库列表及其最近活跃的分叉.
 - [BaseClass](https://www.baseclass.io/) . 每两周一次的时事通讯在 5 分钟内解释基本计算主题.
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/) . 每周通讯，包含最新的 Rails + Javascript + 软件工程内容.
-- [GIMTEC](https://www.gimtec.io/) . 当我完成开发训练营时，我希望我有这份每周通讯.
+- [GIMTEC](https://www.gimtec.io/) . 当我完成开发训练营时，我希望我拥有每周通讯.
 - [A Byte of Coding](https://abyteofcoding.com) . 每日精选时事通讯，其中包含对所有软件工程的技术深入研究.
 - [Pointer](https://www.pointer.io/) . 了解当前和未来 CTO 正在阅读和思考的内容的窗口. 仅限超高质量工程相关内容.
 
@@ -181,7 +181,7 @@ The goal is to build a categorized community-driven collection of very well-know
 ### Ruby
 
 - [Ruby Weekly](https://rubyweekly.com/) . 每周一次的免费电子邮件汇总 Ruby 新闻和文章.
-- [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) .  Ruby 发表于 [Thoughtbot](https://thoughtbot.com)
+- [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) . 红宝石的帖子 [Thoughtbot](https://thoughtbot.com)
 - [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周来自 Rails 的有趣提交、拉取请求等的内幕消息，每周五发送到您的收件箱.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) . 一组很棒的 Ruby gem、工具、框架和软件.
 
@@ -200,7 +200,7 @@ The goal is to build a categorized community-driven collection of very well-know
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
 - [Weekly Python Newsletter](https://importpython.com/newsletter/) . 包含 Python 文章、项目、视频、推文的每周 Python 通讯在您的收件箱中发送. [Archive](https://importpython.com/newsletter/archive/).
-- [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向对 Python 开发和有关 Python 的各种主题感兴趣的人.
+- [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向那些对 Python 开发和有关 Python 的各种主题感兴趣的人.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周概述最流行的 Python 新闻、文章和包.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
 
@@ -264,6 +264,7 @@ The goal is to build a categorized community-driven collection of very well-know
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) . 每周最新的 MacMost 教程、提示和新闻都在您的收件箱中.
 - [NixOS Weekly](https://weekly.nixos.org) . 最新消息 [NixOS](https://nixos.org)
 - [Console Weekly](https://console.substack.com/) . 发现酷炫的开源项目，每周采访一位开发人员.
+- [FOSS Weekly](https://fossweekly.beehiiv.com/) . 跟上开源软件的最简单方法.
 
 ## Git
 
@@ -304,7 +305,7 @@ The goal is to build a categorized community-driven collection of very well-know
 
 ### Devops
 
-- [DevOps Weekly](https://www.devopsweekly.com/) . 每周一次的 devops 新闻.
+- [DevOps Weekly](https://www.devopsweekly.com/) . 每周一则 devops 新闻.
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/) . 本周最佳 DevOps 链接已发送到您的收件箱
   每个星期天以 DevOps 时事通讯的形式.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified) .  Sysadmin Casts - 一口大小的 sysadmin 截屏视频（每周发布）.
@@ -362,7 +363,7 @@ The goal is to build a categorized community-driven collection of very well-know
 
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是一份每日精选的时事通讯，其中包含科技领域最有趣故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) . 每天通过来自 Web 上的群发文章的电子邮件，随时了解当今最流行的科技新闻.
-- [The Morning Paper](https://blog.acolyer.org/) . 由 Adrian Colyer 选出的每个工作日早上来自 CS 世界的有趣/有影响/重要的论文.
+- [The Morning Paper](https://blog.acolyer.org/) . 由 Adrian Colyer 选出的每周工作日早上来自 CS 世界的有趣/有影响/重要的论文.
 - [TechMeme](https://www.techmeme.com/) .  Techmeme 是近乎实时的汇总、过滤、可归档的摘要，介绍了技术中的新事物并引发了对话.
 - [Unzip.dev](https://unzip.dev/) . 开发者趋势通讯，一次打开一个趋势.
 - [Daily Tech](https://dailytech.email) .  Daily Tech 是一份关于技术、初创公司、产品和软件工程的精选时事通讯.
@@ -386,11 +387,11 @@ The goal is to build a categorized community-driven collection of very well-know
 - [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际的新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于导航指数基金时代、了解经济和破解资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选的创业世界中的佼佼者.
-- [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，其中包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
+- [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
 
 ## Awesome news
 
-- [HackerNewsLetter](https://www.hackernewsletter.com/) . 关于初创公司、技术、编程等方面的最佳文章的每周通讯. 所有链接都是从流行的 Hacker News 网站手工策划的.
+- [HackerNewsLetter](https://www.hackernewsletter.com/) . 每周时事通讯，包含有关初创公司、技术、编程等方面的最佳文章. 所有链接都是从流行的 Hacker News 网站手工策划的.
 - [ChangeLog Weekly](https://changelog.com/weekly) . 每周通讯，涵盖所有触及开源雷达的内容.
 - [GitHub News](https://www.gitlogs.com/) . 在 GitHub 上发现由峰值检测算法检测到的热门存储库.
 - [TED](https://www.ted.com/newsletter) .  TED 收件箱中的灵感
@@ -424,14 +425,14 @@ The goal is to build a categorized community-driven collection of very well-know
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络上的声音感兴趣的人们提供的每周通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇数据集的每周通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周通讯，汇集了初创公司生态系统中的最佳资源.
-- [Changelog Nightly](https://changelog.com/nightly) . 每天晚上 10 点发送一封电子邮件，在 GitHub 上挖掘最热门的新存储库.
+- [Changelog Nightly](https://changelog.com/nightly) . 每天晚上 10 点发送一封电子邮件，在 GitHub 上挖掘出最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) . 每周一次的 Linux 内核邮件列表线程综述，但带有更多的讽刺意味.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中挑选了一个订阅者，其电子邮件提交将发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术迷的硬件和软件新闻.
-- [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最好的 Reddit 帖子的有关创业、增长、投资和创业的前沿新闻.
+- [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最好的 Reddit 帖子的有关创业、增长、投资和初创公司的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的简短每周通讯. 每期都包含一份与生产力相关的工具、文章和其他资源的简短列表，这些工具、文章和其他资源可以帮助各种技术相关领域的工作人员提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，关注最新的移动、网络、人工智能、UI/UX、工作/搬运工以及与开发人员和行业相关的任何内容.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周电子邮件，展示 GitHub 上的热门项目.

@@ -22,7 +22,7 @@
     - [Trax](https://raw.githubusercontent.com/google/trax) - “包括电池”深度学习库，专注于为常见工作负载提供解决方案. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     - [Jraph](https://raw.githubusercontent.com/deepmind/jraph) - 轻量级图神经网络库. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
     - [Neural Tangents](https://raw.githubusercontent.com/google/neural-tangents) - 用于指定有限和_infinite_宽度的神经网络的高级API. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
-    - [HuggingFace](https://raw.githubusercontent.com/huggingface/transformers) - 用于各种自然语言任务（Flax）的预训练变形金刚生态系统. <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
+    - [HuggingFace](https://raw.githubusercontent.com/huggingface/transformers) - 用于各种自然语言任务 (Flax) 的预训练 Transformer 生态系统. <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
     - [Equinox](https://raw.githubusercontent.com/patrick-kidger/equinox) - 可调用的 PyTrees 和过滤的 JIT/grad 转换 =&gt; JAX 中的神经网络. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
 - [NumPyro](https://raw.githubusercontent.com/pyro-ppl/numpyro) - 基于 Pyro 库的概率编程. <img src="https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social" align="center">
 - [Chex](https://raw.githubusercontent.com/deepmind/chex) - 编写和测试可靠 JAX 代码的实用程序. <img src="https://img.shields.io/github/stars/deepmind/chex?style=social" align="center">
@@ -47,7 +47,7 @@
     - [jax-resnet](https://raw.githubusercontent.com/n2cholas/jax-resnet/) - Flax 中 ResNet 变体的实现和检查点. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
     - [Parallax](https://raw.githubusercontent.com/srush/parallax) - JAX 的不可变 Torch 模块. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) - 图书馆实施 [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) 用于蛋白质机器学习应用. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
-- [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) - 规范 JAX 中的流程. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
+- [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) - 在 JAX 中规范化流程. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) - 使用 JAX 的“scikit-learn”内核矩阵. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
 - [jax-cosmo](https://raw.githubusercontent.com/DifferentiableUniverseInitiative/jax_cosmo) - 可微的宇宙学图书馆. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 - [efax](https://raw.githubusercontent.com/NeilGirdhar/efax) - JAX 中的指数族. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
@@ -81,6 +81,7 @@
 - [Mctx](https://raw.githubusercontent.com/deepmind/mctx) - 本机 JAX 中的蒙特卡洛树搜索算法. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
 - [KFAC-JAX](https://raw.githubusercontent.com/deepmind/kfac-jax) - 具有近似曲率的二阶优化神经网络. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
 - [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - 将函数/图形转换为 JAX 函数. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
+- [jwave](https://raw.githubusercontent.com/ucl-bug/jwave) - 可微分声学模拟库 <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 
 
 <a name="models-and-projects" />

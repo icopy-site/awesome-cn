@@ -78,6 +78,7 @@
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - 使用缓存快速打开后续 shell 的“nix-shell”替代品.
 * [Cachix](https://cachix.org/)  - 托管二进制缓存服务； 免费用于开源项目.
 * [devshell](https://github.com/numtide/devshell) - `mkShell` 带有额外的位和 toml 配置选项，以便能够加入非 nix 用户.
+* [dream2nix](https://github.com/nix-community/dream2nix) - 用于将包从其他构建系统自动转换为 Nix 的框架.
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用功能，以帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
@@ -86,6 +87,7 @@
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和符合 flake 的配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和你的 CI 上运行 linter/formatters.
+* [rnix-lsp](https://github.com/nix-community/rnix-lsp) - Nix 的语法检查语言服务器.
 * [robotnix](https://github.com/danielfullmer/robotnix) - 用于 Android (AOSP) 图像的声明性和可重现的构建系统.
 
 ## Programming Languages
@@ -112,7 +114,7 @@
 ### Node.js
 
 * [Napalm](https://github.com/nix-community/napalm) - 支持在 Nix 中使用轻量级 npm 注册表构建 npm 包.
-* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（存储为文件）.
+* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（以文件形式存储）.
 * [npmlock2nix](https://github.com/nix-community/npmlock2nix) - 从“package-lock.json”（内存中）生成 Nix 表达式，主要用于 Web 项目.
 
 ### PHP
@@ -140,6 +142,7 @@
 ### Rust
 
 * [cargo2nix](https://github.com/cargo2nix/cargo2nix) - 粒度缓存、开发外壳、Nix 和 Rust 集成.
+* [crane](https://github.com/ipetkov/crane) - 用于构建具有增量工件缓存的 Cargo 项目的 Nix 库.
 * [fenix](https://github.com/nix-community/fenix) - 适用于 nix 的 Rust 工具链和 Rust 分析器.
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
