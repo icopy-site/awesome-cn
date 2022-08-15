@@ -25,7 +25,7 @@
 - [Weer](https://weerdbg.com/) - HTTP协议调试器**（封闭源代码）**
 
 ### CPU profile
-- [call-trace](https://github.com/brendankenny/call-trace)  - 可以使用钩子检测您的 JS，然后生成完整（非采样）执行的“.cpuprofile”. 查看时间或通话次数.
+- [call-trace](https://github.com/brendankenny/call-trace)  - 可以使用钩子检测您的 JS，然后生成完整（非采样）执行的“.cpuprofile”. 查看时间或通话计数.
 - [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - 将各种分析/采样工具的输出转换为 `.cpuprofile` 格式.
 - [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - 分析数据可以导出为`.cpuprofile`.
 
@@ -74,7 +74,7 @@
 - 去： [gcd](https://github.com/wirepair/gcd)
 - 去： [godet](https://github.com/raff/godet)
 - 去： [Rod](https://github.com/go-rod/rod)
-- C#/.NET: [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp) - 木偶港口
+- C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - 木偶港口
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)  - 可以通过编辑车把模板来定制的协议包装器生成器. 包括 .Net Core 模板.
 - 红宝石： [Ferrum](https://github.com/route/ferrum) - 在 Ruby 中控制 Chrome 的高级 API
 - 红宝石： [Cuprite](https://github.com/machinio/cuprite) - 水豚司机
