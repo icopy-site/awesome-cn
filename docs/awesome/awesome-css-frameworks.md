@@ -148,7 +148,7 @@
 
 - [**Primer**](https://primer.style/) - 支持 GitHub 前端设计的 CSS 框架.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
-  [Docs](https://styleguide.github.com/primer/),
+  [Docs](https://primer.style/css/),
   [Repo](https://github.com/primer/css)
   | #SCSS
 
@@ -228,7 +228,7 @@
   [Repo](https://github.com/material-components/material-components-web)
   | #SCSS
 
-- [**MUI**](https://www.muicss.com) - 遵循 Google 材料设计指南的轻量级 CSS 框架.  
+- [**MUI**](https://www.muicss.com) - 遵循 Google 的 Material Design 指南的轻量级 CSS 框架.  
   ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
