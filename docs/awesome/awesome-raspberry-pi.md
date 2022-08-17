@@ -27,7 +27,7 @@
 - [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) （2017 年 2 月）
 - [Raspberry Pi 3, Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) （2018 年 3 月）
 - [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) （2018 年 11 月）
-- [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) （2019 年 6 月）
+- [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) (June, 2019)
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （2020 年 11 月）
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico) （2021 年 1 月）
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) （2021 年 10 月）
@@ -66,7 +66,7 @@
 - [OctoPi](https://octopi.octoprint.org/) - 3d 打印机的分发.
 - [OpenHABian](https://www.openhab.org/docs/installation/openhabian.html) - OpenHAB 家庭自动化软件的预配置版本. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) - OpenMediaVault 是基于 Debian Linux 的下一代网络附加存储 (NAS) 解决方案，包含 SSH、(S)FTP、SMB/CIFS、DAAP 媒体服务器、RSync、BitTorrent 客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，具有基于其稳定版 Leap 和滚动版 Tumbleweed 的映像. 可以找到许多 Pi 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4).
+- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  - openSUSE 是一个主要的 Linux 发行版，具有基于其稳定版 Leap 和滚动版 Tumbleweed 的映像. 可以找到许多 Pis 的图像，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4).
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
 - [OSMC](https://osmc.tv/) - 基于 Kodi 的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型 DVS 系统允许您使用时间码乙烯基控制数字音乐文件.
@@ -77,16 +77,17 @@
 - [Raspbian](http://www.raspbian.org/) - Raspbian 是基于 Debian 的免费操作系统，针对 Raspberry Pi 硬件进行了优化.
 - [RasPlex](http://www.rasplex.com/) - 用于 Raspberry Pi 的 Plex 客户端.
 - [Recalbox](https://www.recalbox.com) - 在 Raspberry Pi 上拖放轻量级复古游戏和媒体中心.
-- [RetroPie](https://retropie.org.uk/) - Retro-gaming on the Raspberry Pi.
+- [RetroPie](https://retropie.org.uk/) - Raspberry Pi 上的复古游戏.
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi) - 非 Linux 操作系统起源于开发 ARM 微处理器的小组.
 - [Rocket Show](https://rocketshow.net) - 在舞台上实时播放同步的背景音轨、视频和 DMX 灯光序列. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [RuneAudio](http://www.runeaudio.com/) - 将嵌入式硬件变成 Hi-Fi 音乐播放器的免费和开源操作系统.
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) - Drop&#39;n&#39;play 采样器：将 .WAV 采样放到 SD 卡上，然后开始播放！
 - [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - 代表 Raspberry Pi 上的 Slackware ARM.
-- [Snappy Ubuntu Core](https://developer.ubuntu.com/core/get-started/raspberry-pi-2-3) - 用于物联网的官方（最小）Ubuntu 发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Twister OS](https://twisteros.com/) - Raspberry Pi OS 的皮肤版本，预装了 box86 和 Retropie 等应用程序，将新手引入 Linux 和 Raspberry Pi. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core)  - 用于物联网的官方（最小）Ubuntu 发行版. 支持 Raspberry Pi 零 2 W. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
+- [Ubuntu Desktop](https://ubuntu.com/raspberry-pi/desktop)  - 用于 Raspberry Pi 的 Ubuntu 桌面发行版. 支持树莓派 4.
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - 基于 MATE 桌面的 Raspberry Pi 的 Ubuntu 发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
-- [Ubuntu Server](https://www.ubuntu.com/download/iot/raspberry-pi-2-3) - 用于 Raspberry Pi 的 Ubuntu 服务器分发版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Ubuntu Server](https://ubuntu.com/raspberry-pi/server)  - 用于 Raspberry Pi 的 Ubuntu 服务器分发版. 支持 Raspberry Pi 零 2 W. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Volumio](https://volumio.org/) - 无头发烧友音乐播放器，旨在以最高保真度播放音乐.
 - [Windows 10 ARM](https://worproject.ml/) - 社区在 Raspberry Pi 上维护 Windows 10. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Windows 10 IoT Core](https://docs.microsoft.com/nl-nl/windows/iot-core/downloads) - 适用于 IoT 的 Windows 10 分发版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
@@ -119,7 +120,7 @@
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - 一种将 Raspberry Pi OS 和其他操作系统安装到 SD 卡的简单方法，可与您的 Raspberry Pi 一起使用
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  - 在 Raspbian 上启动 QEMU 的简单工具，并对系统和内核进行必要的修改. 自动网络访问. 方便在您的 PC 中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 简单的应用程序/repo 将 Raspberry Pi 的 wlan0 接口桥接到通过以太网 (eth0) 插入其中的设备.
-- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都会启动完全配置并准备好工作. 或者玩.
+- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都启动完全配置并准备好工作. 或者玩.
 - [stressberry](https://github.com/nschloe/stressberry) - 对您的 Raspberry Pi 进行压力测试并绘制温度图.
 - [TorTiPi](https://github.com/r0hi7/tortipi) - 用于自动将 Raspberry Pi 转换为基于 Tor 的 wifi 热点的任务的 Shell 脚本.
 - [WebStation SYSMON](https://github.com/t0xic0der/sysmon) - 一个直观的可远程访问的系统性能监控和任务管理工具，适用于服务器和无头 Raspberry Pi 设置.
@@ -136,7 +137,7 @@
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - 为在学校使用 Chromebook 的学生提供定时充电站.
 - [Ceil](https://github.com/helmuthva/ceil) - 在裸机上运行 K8S 的自动配置 RPi 集群. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - 用于 Raspberry Pi 的 C++ 裸机环境.
-- [clockOS](https://github.com/iGerli/clockOS) - 使用 Raspberry Pi 显示器的简单智能桌面时钟.
+- [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - 可通过浏览器和触摸屏控制的高级鸡尾酒制作机.
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - Google 员工的一个开源项目，旨在将 Raspberry Pi 变成一个简单、微型的个人 Web 服务器和基于 Web 的开发环境.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky 几乎可以被任何带有 USB 端口的设备识别为 USB HID，因此您可以像运行键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
@@ -150,7 +151,7 @@
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - 一个 Raspberry Pi 供电的助听器原型. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Internet Chronometer](https://github.com/rothman857/chronometer) - 将您的 Raspberry Pi 变成 Internet Chronometer.
 - [Jasper](https://jasperproject.github.io/) - 灵活的开源个人助理.
-- [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
+- [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) - 在不到十分钟的时间内让您的 ARM 设备启动并运行 Kubernetes.
 - [Lightberry](https://lightberry.eu) - 专用于树莓派和您的电视的 LED 照明解决方案.
 - [Lomorage](https://github.com/lomorage/homepage) - 树莓派上的私有照片云主机，带有 Android/iOS/Web 客户端.
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - 音序器/鼓垫，如 Native Instruments 的 Pi 机器.
@@ -243,10 +244,10 @@
 - [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - 了解如何使用 Raspbian 命令和征服 Raspberry Pi 上的命令行，在自动化简单任务的同时简化复杂任务.
 - [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - 使用 GPIO 引脚和 Raspberry Pi 上的 GPIO Zero 库创建电子作品.
 - [Essentials - Learn to Code with C](https://magpi.raspberrypi.com/books/essentials-c-v1) - 了解如何在您的 Raspberry Pi 上使用构建 Linux 的大部分语言和 C 编程语言 Raspbian 进行编码.
-- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - 使用 Scratch 编码块语言来学习在您的 Raspberry Pi 上编程的基础知识.
+- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - Use the Scratch coding blocks language to learn the basics of programming on your Raspberry Pi.
 - [Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1) - 通过使用 Python 制作游戏，从简单的基于文本的游戏到带有声音和动画的成熟游戏，使用 Raspberry Pi 创建您自己的娱乐.
 - [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - 了解如何使用 API、GPIO 引脚、您的程序等与特殊的 Raspberry Pi 版本的我的世界进行交互.
-- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - 一本有用的实验书，可与 Sense HAT 一起使用，以及如何充分发挥它的潜力.
+- [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - 一本有用的实验书，可与 Sense HAT 一起使用，以及如何充分利用它.
 - [Getting Started with Java on the Raspberry Pi](https://leanpub.com/gettingstartedwithjavaontheraspberrypi/) - 关于 Java 本身以及如何在 Raspberry Pi 上安装和使用它的大量信息和历史以及大量示例项目.
 - [Getting Started with Raspberry Pi](https://magpi.raspberrypi.com/books/get-started) - 了解如何开始使用您的 **Raspberry Pi 3A+**. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Raspberry Pi Annual 2018](https://magpi.raspberrypi.com/books/annual-2018) - 一本面向所有年龄段儿童的教育书籍，用于介绍 Raspberry Pi.
@@ -274,7 +275,7 @@
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - 在 Raspberry Pi 上设置 ADC (DC++) 集线器的指南.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - 使用图像识别和 Google 的 Inception 来识别特定对象.
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - 关于如何使用 Docker 设置集群、使用 Docker Compose 分发服务以及使用 Letsencrypt 签署有效 SSL 证书的明确指南.
-- [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
+- [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - 使用 Beacon 技术的良好初学者指南.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - 在您的 Raspberry Pi 上设置 VPN 的简单、安全和详细的指南.
 - [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream 实施可将您的完整 Steam 游戏集从桌面流式传输到 Raspberry Pi.
 - [Raspbereum](https://github.com/jim380/Raspbereum) - 在 Raspberry Pi 上运行您自己的以太坊节点.

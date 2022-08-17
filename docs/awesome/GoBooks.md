@@ -54,7 +54,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://go101.org/article/res/101-front-cover-1400x.jpg" width="120px"/>
 
- Go 101 是一本专注于 Go 语法/语义和各种运行时相关的东西（Go 1.17-pre 准备好）的书，并试图帮助 gophers 对 Go 进行深入而透彻的理解. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
+ Go 101 是一本专注于 Go 语法/语义和各种运行时相关事物（Go 1.17-pre 就绪）的书，并试图帮助 gophers 深入和彻底地理解 Go. 本书还收集了 Go 和 Go 编程的许多细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
 
 ### [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
 <img src="https://d2sofvawe08yqg.cloudfront.net/go-from-the-beginning/s_hero?1651955611" width="120px">
@@ -140,7 +140,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <a href="https://link.springer.com/book/10.1007/978-1-4842-1188-5"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-1188-5" width="120px"/></a>
 
-使用问题解决方法解决您的围棋问题. 每个秘籍都是对 Go 中实际编程问题的自包含答案.  Go 食谱包含处理 Go 基础知识的食谱，允许您构建简单、可靠和高效的软件. 其他主题包括使用现代 NoSQL 数据库（如 MongoDB 和 RethinkDB）处理数据. 本书为在 Go 中为您的移动客户端应用程序和 Web 客户端应用程序构建高度可扩展的后端 API 提供了深入的指导.
+使用问题解决方法解决您的围棋问题. 每个秘籍都是对 Go 中实际编程问题的独立答案.  Go 食谱包含处理 Go 基础知识的食谱，允许您构建简单、可靠和高效的软件. 其他主题包括使用现代 NoSQL 数据库（如 MongoDB 和 RethinkDB）处理数据. 本书为在 Go 中为您的移动客户端应用程序和 Web 客户端应用程序构建高度可扩展的后端 API 提供了深入的指导.
 
 ### [Learning Go programming](https://www.packtpub.com/application-development/learning-go-programming)
 
@@ -315,7 +315,7 @@ Go 中的手动依赖注入采用务实的方法，重点关注代码、用户�
 
 <img src="https://static.packt-cdn.com/products/9781838554491/cover/smaller" width="120px"/>
 
-这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 将指导您完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持对大型链接图进行高效的核外处理. 
+This Golang book distills industry best practices for writing lean Go code that is easy to test and maintain, and helps you to explore its practical implementation by creating a multi-tier application called Links ‘R’ Us from scratch. You’ll be guided through all the steps involved in designing, implementing, testing, deploying, and scaling an application. Starting with a monolithic architecture, you’ll iteratively transform the project into a service-oriented architecture (SOA) that supports the efficient out-of-core processing of large link graphs. 
 
 您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包 Go 服务，并自动将它们部署到 Kubernetes 集群.
 
@@ -356,7 +356,7 @@ code.
 
 我们从上次停下的地方重新开始，为 Monkey 编写编译器和虚拟机.
 
-可运行且经过测试的代码前端和中心，从头开始，一步一步地构建——就像以前一样.
+可运行且经过测试的代码前端和中心，从头开始构建，一步一步 - 就像以前一样.
 
 但这一次，我们将定义字节码，编译 Monkey 并在我们自己的虚拟机中执行它.
 
@@ -451,10 +451,10 @@ This notebook has been designed to provide a reference to everything mentioned i
  - 在云对象存储和 SQL 数据库中存储数据
  - 使用惯用技术测试您的应用程序
  - 为您的应用程序添加可观察性
- - Managing configuration data from your applications
+ - 管理来自您的应用程序的配置数据
 
 您将学习使用结合现代实践编写的动手示例来实施最佳实践. 专注于使用 
-尽可能使用标准库包，Practical Go 将为你开发大型应用程序打下坚实的基础 
+尽可能使用标准库包，Practical Go 将为您开发大型应用程序打下坚实的基础 
 使用 Go 语言的最佳生态系统.
 
 **Web开发**
@@ -593,6 +593,14 @@ This e-book comprises 23 complete recipes with the code examples necessary to re
 - Wasm &amp; Go 与 Node.js
 - WasmEdge &amp; Go
 - 云中的 Wasm：你知道 Atmo 吗？ 
+
+### [Generative Art in Go](https://p5v.gumroad.com/l/generative-art-in-golang)
+
+<img src="https://preslav.me/img/pages/generative-art-in-golang/book-cover_hu28601a535f0407a9b32fcb414631175c_63095_1320x0_resize_q75_box.jpg" width="120px"/>
+
+生成艺术是一种独特的艺术表达形式，在计算机编程、随机性和视觉美学之间架起了一座桥梁. 
+
+这本简短的书将向新手和有经验的 Go 程序员介绍算法艺术和计算机图形学的美丽世界. 如果您正在寻找新的领域来应用您最喜欢的语言，那就去看看吧！
 
 Resources
 ====

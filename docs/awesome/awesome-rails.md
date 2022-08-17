@@ -55,7 +55,7 @@
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
-- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找所有语言的流行和新 Ruby 库的精选列表、顶级作者、趋势项目工具包、讨论、教程和学习资源. 
+- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表. 
 
 
 [返回顶部][link_toc]
@@ -70,6 +70,8 @@
 - [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
 - [rails jobs on weworkremotely.com](https://weworkremotely.com/remote-ruby-on-rails-jobs)
 - [reverse job board for rails devs - railsdevs.com](https://railsdevs.com)
+- [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
+- [rails jobs on web3.career](https://web3.career/ruby-jobs)
 
 &gt; 提示：您可以在以下位置找到远程工作板列表，包括 Rails 工作 [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
@@ -276,7 +278,7 @@
 - [diaper](https://github.com/rubyforgood/diaper)  - 尿布库的库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - 一个社交网络应用程序 - 使用 Rails 5.1 - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse)  - 社区讨论平台（使用 Rails 6.0）.  - [:earth_africa:](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - 一个农场管理应用程序（使用 Rails 4.2）.
+- [ekylibre](https://github.com/ekylibre/ekylibre) - 农场管理应用程序（使用 Rails 4.2）.
 - [postal](https://github.com/postalhq/postal) - 一个邮件传递平台（使用 Rails 5.2）.
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 具有加密支持的消息传递应用程序（使用 Rails 4.2）.
 - [eol](https://github.com/EOL/eol) - 一个百科全书应用程序 - 使用 Rails 3.2 - [:earth_africa:](https://eol.org/)
@@ -481,7 +483,7 @@
 - [rails_new](https://github.com/lockstep/rails_new)  - 一个精心设计的模板，用于构建现代 Rails 应用程序. 在几分钟而不是几小时内开始.
 - [suspenders](https://github.com/thoughtbot/suspenders) - 带有我们标准默认设置的 Rails 模板，可以部署到 Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails 启动工具包 GitHub 模板，用于开发混合移动应用程序.
-- [rails_api_base](https://github.com/rootstrap/rails_api_base) - 针对 JSON RESTful API 的 Rails 6 样板项目.
+- [rails_api_base](https://github.com/rootstrap/rails_api_base) - 用于 JSON RESTful API 的 Rails 6 样板项目.
 - [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - 带有 Hotwire 的 Rails 6 样板项目，用于具有现代 SPA 体验的全栈应用程序.
 
 ## Other Rails Tools

@@ -9,7 +9,7 @@
 ## Platforms
 
 - [Express Serverless](https://www.express-serverless.io/) - 一个开源、Kubernetes 原生、微服务和无服务器平台.
-- [Hook.io](https://hook.io) - 微服务和 webhook 托管的开源提供商.
+- [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - 开源的面向微服务的编程语言.
 - [KintoHub (c)](https://www.kintohub.com) - 微服务包管理器使开发人员能够轻松构建和共享云就绪功能.
 - [Lightbend (c)](https://www.lightbend.com/) - 用于在 JVM 上构建可扩展反应系统的平台.
@@ -18,7 +18,7 @@
 - [OpenWhisk](http://openwhisk.org/) - 无服务器的开源云平台，可以执行功能以响应任何规模的事件.
 - [Pulumi](https://pulumi.io/)  - 用于云原生基础设施即代码的 SDK. 使用您喜欢的语言来预览和管理您的应用程序和基础设施的更新，并持续部署到任何云（不需要 YAML）.
 - [STUPS](https://stups.io/) - Zalando 的一组工具和组件，为 AWS 上的多个自治团队提供方便且符合审计的 PaaS.
-- [Triton](https://github.com/joyent/triton) - 开源云管理平台，可跨一个或多个数据中心提供下一代、基于容器、面向服务的基础架构.
+- [Triton](https://github.com/joyent/triton) - 开源云管理平台，可跨一个或多个数据中心提供基于容器、面向服务的下一代基础架构.
 - [VAMP (c)](http://vamp.io/) - 轻松轻松地构建、部署和管理微服务.
 
 ## Frameworks / Runtimes
@@ -208,7 +208,7 @@
 - [Restify](http://restify.com/) - 专门构建的 Node.js 模块，使您能够构建正确的 REST Web 服务.
 - [Seneca](http://senecajs.org/) - Node.js 的微服务工具包
 - [Serverless](https://github.com/serverless/serverless) - 构建和维护在 AWS Lambda 和 API Gateway（以前称为 JAWS）上运行的 Web、移动和 IoT 应用程序.
-- [Steriods Framework](https://github.com/99xt/steroidslibrary) - Steroids 框架通过使开发人员能够更多地强调业务/领域逻辑而不是过多地关注技术细节，从而简化了使用 TypeScript 的 Serverless 微服务的开发.
+- [Steriods Framework](https://github.com/99xt/steroidslibrary) - Steroids 框架通过使开发人员能够更多地强调业务/域逻辑而不是过多地关注技术细节，从而简化了使用 TypeScript 的 Serverless 微服务的开发.
 
 ### Perl
 
@@ -331,7 +331,7 @@
 - [Conductor](https://github.com/Netflix/conductor) - 微服务编排引擎.
 - [Fission Workflows](https://github.com/fission/fission-workflows) - 用于无服务器功能的基于工作流的可靠功能组合.
 - [Temporal](https://github.com/temporalio/temporal) - 用于运行任何规模的关键任务代码的开源微服务编排平台.
-- [Zeebe](https://zeebe.io/) - 跨微服务定义、协调和监控业务流程.
+- [Zeebe](https://camunda.com/platform/zeebe/) - 跨微服务定义、协调和监控业务流程.
 
 ### Elasticity
 
@@ -411,10 +411,10 @@
 - [REST Commander](https://github.com/eBay/restcommander) - 快速并行异步 HTTP 客户端作为服务来监视和管理 HTTP 端点.
 - [Riemann](http://riemann.io/) - 监控分布式系统.
 - [Sensu](https://github.com/sensu) - 监控当今的基础设施.
-- [SkyWalking](https://skywalking.apache.org/) - 分布式系统的应用程序性能监控工具，专为微服务、云原生和基于容器的（Docker、K8s、Mesos）架构而设计.
+- [SkyWalking](https://skywalking.apache.org/) - 分布式系统的应用程序性能监控工具，专为微服务、云原生和基于容器（Docker、K8s、Mesos）架构而设计.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - 为微服务设计的可视化堆栈跟踪平台.
 - [Watcher](https://www.elastic.co/products/watcher) - 提醒 Elasticsearch.
-- [Zabbix](http://www.zabbix.com/) - Open source enterprise-class monitoring solution.
+- [Zabbix](http://www.zabbix.com/) - 开源企业级监控解决方案.
 - [Zipkin](http://zipkin.io) - 分布式追踪系统.
 
 ### Reactivity
@@ -558,7 +558,7 @@
 - [RFC7230](https://tools.ietf.org/html/rfc7230) - 消息语法和路由.
 - [RFC7231](https://tools.ietf.org/html/rfc7231) - 语义和内容.
 - [RFC7232](https://tools.ietf.org/html/rfc7232) - 有条件的请求.
-- [RFC7233](https://tools.ietf.org/html/rfc7233) - 范围请求.
+- [RFC7233](https://tools.ietf.org/html/rfc7233) - Range Requests.
 - [RFC7234](https://tools.ietf.org/html/rfc7234) - Caching.
 - [RFC7235](https://tools.ietf.org/html/rfc7235) - 验证.
 - [RFC7807](https://tools.ietf.org/html/rfc7807) - HTTP API 的问题详细信息.
@@ -588,9 +588,9 @@
 
 ### Security
 
-- [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol)  - 授予协商和授权协议定义了一种将授权委托给软件，并将该委托传递给软件的机制. 该委托可以包括访问一组 API 以及直接传递给软件的信息. <sup>草案</sup>
+- [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol)  - 授予协商和授权协议定义了一种将授权委托给软件，并将该委托传递给软件的机制. 该委托可以包括访问一组 API 以及直接传递给软件的信息. <sup>草稿</sup>
 - [OIDCONN](http://openid.net/connect/)  - OpenID Connect 1.0 是 OAuth 2.0 协议之上的一个简单身份层. 它允许客户端根据授权服务器执行的身份验证来验证最终用户的身份，并以可互操作和类似 REST 的方式获取有关最终​​用户的基本配置文件信息.
-- [PASETO](https://paseto.io/)  - Paseto 是您喜爱 JOSE（JWT、JWE、JWS）的一切，没有任何困扰 JOSE 标准的设计缺陷. <sup>草案</sup>
+- [PASETO](https://paseto.io/)  - Paseto 是您喜爱 JOSE（JWT、JWE、JWS）的一切，没有任何困扰 JOSE 标准的设计缺陷. <sup>草稿</sup>
 - [RFC5246](https://tools.ietf.org/html/rfc5246) - 传输层安全 (TLS) 协议版本 1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS 扩展.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) - 数据报传输层安全版本 1.2.
@@ -604,7 +604,7 @@
 
 ### Web APIs
 
-- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)  - JSON 超文本应用程序语言 (HAL) 是一种标准，它建立了用 JSON 表示超媒体控件（例如链接）的约定. <sup>草案</sup>
+- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)  - JSON 超文本应用程序语言 (HAL) 是一种标准，它建立了用 JSON 表示超媒体控件（例如链接）的约定. <sup>草稿</sup>
 - [Hydra](http://www.hydra-cg.com/) - 可互操作、超媒体驱动的 Web API 规范.
 - [OpenAPI](https://github.com/OAI/openapi-specification/) - OpenAPI 规范 (OAS) 为 REST API 定义了一个标准的、与编程语言无关的接口描述，它允许人类和计算机在不需要访问源代码、附加文档或检查网络的情况下发现和理解服务的功能交通.
 - [WADL](http://www.w3.org/Submission/wadl/) - Web 应用程序描述语言规范.
@@ -643,7 +643,7 @@
 
 - [Commercetools](https://commercetools.com/) - 无头商务平台.
 - [Elasticpath](https://www.elasticpath.com/) - 电子商务微服务.
-- [Equinox](https://www.infosysequinox.com/) - Infosys Equinox is a human-centric commerce and marketing platform that supports rich, hyper-personalized experiences across any channel and touchpoint.
+- [Equinox](https://www.infosysequinox.com/) - Infosys Equinox 是一个以人为本的商务和营销平台，支持跨任何渠道和接触点的丰富、超个性化体验.
 - [Flamingo](https://www.flamingo.me/) - 构建灵活和现代电子商务应用程序的框架.
 - [Medusa](https://medusajs.com/) - 无头开源商务平台.
 - [Predix](https://predix.io/) - 工业微服务平台.
@@ -655,12 +655,11 @@
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)  :star: - 一个更新和有组织的阅读列表，用于说明可扩展、可靠和高性能的大型系统的模式. 概念在著名工程师的文章和可靠的参考文献中进行了解释. 案例研究取自为数百万至数十亿用户提供服务的经过实战考验的系统.
 - [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - 简短的服务网格介绍.
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - 描述规模服务的模型.
-- [Benchmark Requirements for Microservices Architecture Research](https://goo.gl/14ElnV) :small_orange_diamond: <sup>PDF</sup> - 在选择社区拥有的架构基准以支持可重复的微服务研究时可能有用的一组要求.
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - 基于实际经验的实用概述，了解构建微服务需要了解的内容.
 - [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) :small_orange_diamond: <sup>PDF</sup> - 一致性作为逻辑单调性.
 - [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) - 降低在生产中引入新软件版本的风险的技术，方法是在将更改推广到整个基础架构并使其可供所有人使用之前，将更改缓慢地推广到一小部分用户.
-- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) - 指出分布式计算机系统不可能同时提供以下所有三个保证：一致性、可用性和分区容错性.
-- [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  :small_orange_diamond: <sup>PDF</sup> - 无服务器计算抽象暴露了几个低级操作细节，使程序员难以编写和推理他们的代码. 本文通过提出 λ 来阐明这个问题，λ 是无服务器计算本质的操作语义.
+- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) - 声明分布式计算机系统不可能同时提供以下所有三个保证：一致性、可用性和分区容错性.
+- [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  :small_orange_diamond: <sup>PDF</sup> - 无服务器计算抽象暴露了一些低级操作细节，使程序员难以编写和推理他们的代码. 本文通过提出 λ 来阐明这个问题，λ 是无服务器计算本质的操作语义.
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) - 介绍 Uber Engineering 微服务架构的通用方法，称为“面向领域的微服务架构”（DOMA）.
 - [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide) - You can use this guide to understand what Java microservices are, how you architect and build them. Also: A look at Java microservice libraries & common questions.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - 将软件应用程序设计为可独立部署的服务套件的特殊方式.

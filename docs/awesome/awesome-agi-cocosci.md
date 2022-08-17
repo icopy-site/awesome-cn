@@ -6,11 +6,11 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
+ **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如面向任务的、面向技术的和面向形而上学的. 最后，他决定专注于 ***The Sciences of Intelligence*** 的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行溯因和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
+显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行绑架和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
 
 ## Contributing
 
@@ -30,7 +30,7 @@
 
 * [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)  - ***麻省理工学院***.  Armando Solar-Lezama 的程序综合基础课程.
 
-* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***和***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf) ]. 关于应用结构、程序和元语言抽象来解决计算问题的经典课程.
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***和***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5) ]. 关于应用结构、程序和元语言抽象来解决计算问题的经典课程.
 
 
 ### Programming
@@ -48,7 +48,7 @@
 
 * [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)  - ***自然***. 撰写科学论文的自然指南.
 
-* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入具有可重复性保证的机器学习算法的指南.
+* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入机器学习算法并保证可重复性的指南.
 
 
 ### Paper Reading
@@ -166,7 +166,7 @@
 
 * [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***合成***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
-* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***合成***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
+* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***综合***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***空间认知***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
 
@@ -195,7 +195,7 @@
 
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***斯普林格***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5) ]. 关于搜索作为科学思维的原著.
 
-* [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***麻省理工学院出版社***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5) ]. 将科学发现与绑架的创造性特征相结合的计算帐户.
+* [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***麻省理工学院出版社***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5) ]. 将科学发现与绑架的创造力特征相结合的计算帐户.
 
 * [Induction: Processes of Inference, Learning, and Discovery](https://hk1lib.org/book/701605/02b32a?id=701605&secret=02b32a) - ***麻省理工学院出版社***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=12402938838725132707&hl=en&as_sdt=0,5) ]. 科学发现的归纳帐户.
 
@@ -211,7 +211,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -233,7 +233,7 @@
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***行为和脑科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005) ]. 对小说中想象世界的合理化的回顾.
+* [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***行为和脑科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005) ]. 对小说中想象世界的合理化的评论.
 
 
 #### Applications in AI
@@ -252,7 +252,7 @@
 
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***逻辑编程杂志***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5) ].  ACLP 中的原始论文.
 
-* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***计算逻辑***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5) ].  ALP 论文的修订版.
+* [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***计算逻辑***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5) ].  ALP论文的修订版.
 
 * [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198&hl=en&as_sdt=0,5)].
 
@@ -393,7 +393,7 @@
 
 * [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE 信息论汇刊***，1962 年. [[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864&hl=en&as_sdt=0,5)].
 
-* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM 研究与开发杂志***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5) ].  Chaitin 关于算法信息论的原始论文.
+* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM 研究与开发杂志***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5) ].  Chaitin 关于算法信息理论的原始论文.
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
 
@@ -578,7 +578,7 @@
 * [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***科学***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5) ].  Daniel Kahneman 的前瞻性理论的经典思想.
 
 
-* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类计划中理性问题表示的计算说明.
+* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类规划中理性问题表示的计算说明.
 
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***机器学习***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
@@ -954,7 +954,7 @@
 
 * [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***技术心理学：大数据时代的社会科学研究（第 155-193 页），美国心理学会***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021) ].  Jeremy Bailenson 对虚拟现实在行为研究中的应用的评论.
 
-* [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***媒体心理学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5) ]. 一项关于技术需要在多大程度上具有沉浸感才能产生存在感的元分析.
+* [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***媒体心理学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5) ]. 一项关于技术需要在何种程度上具有沉浸感以产生存在感的元分析.
 
 
 ### Meta-Level Considerations
@@ -1070,7 +1070,7 @@
 
 * [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477&hl=en&as_sdt=0,5&as_ylo=2017)].
 
-* [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5) ]. 没有显式概率计算的人类概率建模的观点.
+* [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5) ]. 没有显式概率计算的人类概率建模观点.
 
 * [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
 
@@ -1248,7 +1248,7 @@
 
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - *** ACM 通讯***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5) ]. 首次尝试从人类知识中构建大规模的常识知识库.
 
-* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 从人类在互联网上的活动中获取常识知识的第一次尝试.
+* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
 
 * [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM 联合国际会议&#39;02***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)].
 
@@ -1351,9 +1351,9 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两件事在 A 属性方面有所不同，而在 B 属性方面也有所不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，它是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1400,7 +1400,7 @@
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072) - ***认知***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302&hl=en&as_sdt=0,5)].
 
-* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思维和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
+* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思想和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
 
 * [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***Psychological Review***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
 
@@ -1449,7 +1449,7 @@
 
 * [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224) - ***儿童发展***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)].
 
-* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***发展心理学***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)].
+* [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***发展心理学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)].
 
 * [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=9247917261616759689)].
 
