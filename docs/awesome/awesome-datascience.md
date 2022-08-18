@@ -6,7 +6,7 @@
 
 **一个开源数据科学存储库，用于学习和应用于解决现实世界的问题.**
 
-This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
+这是开始学习**数据科学**的捷径. 只需按照步骤回答问题，“什么是数据科学，我应该学习什么来学习数据科学？”
 
 ## Sponsors
 
@@ -67,7 +67,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ### Unsupervised Learning
 - 聚类
   - 层次聚类
-  - k-均值
+  - k-means
   - 模糊聚类
   - 混合模型
 - 降维
@@ -113,7 +113,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络（GAN）
+- 生成对抗网络 (GAN)
 - 自组织地图
 
 ## COLLEGES
@@ -196,7 +196,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
 - [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多门免费在线数据科学课程
 
 
@@ -211,7 +211,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图上的表示学习.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，带有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace) | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code) |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的多合一 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如，Tensorflow、PyTorch）和开发工具（例如，Jupyter、VS Code）|
 | [Neptune.ai](https://neptune.ai)  | 支持数据科学家创建和共享机器学习模型的社区友好平台.  Neptune 有助于团队合作、基础设施管理、模型比较和可重复性.  |
 | [steppy](https://github.com/minerva-ml/steppy)  | 用于快速和可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
 | [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
@@ -222,7 +222,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
 | [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形用户界面 |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 机器学习 |
-| [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型、多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
+| [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
 | [SciPy](https://scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供了高效的例程.
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
@@ -269,7 +269,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
 | [Amazon Textract](https://aws.amazon.com/textract/)  | 自动从任何文档中提取打印文本、笔迹和数据.  |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规行为，以进行全面的质量控制.|
-| [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
+| [Amazon CodeGuru](https://aws.amazon.com/codeguru/) | Automate code reviews and optimize application performance with ML-powered recommendations.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于 Python 的推理统计、假设检验和回归框架 |
@@ -279,12 +279,12 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
 | [Shapley](https://github.com/benedekrozemberczki/shapley)  | 一种数据驱动的框架，用于量化机器学习集成中分类器的价值.  |
 | [DAGsHub](https://dagshub.com)  | 一个基于开源工具构建的平台，用于数据、模型和管道管理.  |
-| [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
+| [Deepnote](https://deepnote.com)  | 一种新型的数据科学笔记本. 与 Jupyter 兼容，具有实时协作并在云中运行.  |
 | [Valohai](https://valohai.com)  | 一个处理机器编排、自动再现性和部署的 MLOps 平台.  |
 | [PyMC3](https://docs.pymc.io/)  | 用于概率编程（贝叶斯推理和机器学习）的 Python 库 |
 | [PyStan](https://pypi.org/project/pystan/)  |  Stan 的 Python 接口（贝叶斯推理和建模）|
 | [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习和推理
-| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  |  ML 支持的分析引擎，用于异常值/异常检测和根本原因分析 |
+| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
 | [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器中发现、创建和启动多云应用程序.  |
 | [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
 | [LineaPy](https://github.com/LineaLabs/lineapy)  | 是否曾经因清理冗长、凌乱的 Jupyter 笔记本而感到沮丧？ 借助开源 Python 库 LineaPy，只需两行代码即可将凌乱的开发代码转换为生产管道.  |
@@ -536,7 +536,14 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Dive into Deep Learning](https://d2l.ai/)
 
+## Book Deals (Affiliated) 🛍
 
+- [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
+
+- [因果机器学习](https://www.manning.com/books/causal-machine-learning?utm_source=mikrobusiness&amp;utm_medium=affiliate&amp;utm_campaign=book_ness_causal_7_26_22&amp;a_aid=mikrobusiness&amp;a_bid=43a2198b
+)
+- [Managing ML Projects](https://www.manning.com/books/managing-machine-learning-projects?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_thompson_managing_6_14_22)
+- [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 
 ## Socialize
 
@@ -557,7 +564,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
 - [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部设在英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.
@@ -661,7 +668,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Big Data Combine](https://twitter.com/BigDataCombine)  | 为寻求将其模型货币化为交易策略的数据科学家提供快速、实时的试用 |
  | 大数据狂热 |  Data Viz Wiz , 数据记者 , 增长黑客 , Data Science for Dummies (2015) 作者 |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
- | 查理格林巴克 |  @ExploreAltamira 数据科学总监 |
+| Charlie Greenbacker | Director of Data Science at @ExploreAltamira |
 | [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 的数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
@@ -680,11 +687,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 工作@_GrubHub_ 关于数据和熊猫 |
 | [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD 和 SIGKDD 联合创始人，曾是 2 家初创公司的首席科学家，兼职哲学家.  |
-| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计兼职教授.  |
+| [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 的首席科学家，奥克兰大学、斯坦福大学和莱斯大学的统计副教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家 |
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel 常驻数据科学家.  |
 | [Jeff Hammerbacher](https://twitter.com/hackingdata)   | 转发关于数据科学的推文 |
-| [John Myles White](https://twitter.com/johnmyleswhite)  | Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only. |
+| [John Myles White](https://twitter.com/johnmyleswhite)   |  Facebook 的科学家和 Julia 开发者. 黑客机器学习和网站优化强盗算法的作者. 推文仅反映我的观点.  |
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist)  | 首席数据科学家@Microsoft 数据科学团队 |
 | [Julia Evans](https://twitter.com/b0rk)  | 黑客 - 熊猫 - 数据分析 |
 | [Kenneth Cukier](https://twitter.com/kncukier)  | 经济学人的数据编辑和大数据的合著者 (http://www.big-data-book.com/).  |
@@ -708,8 +715,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Rand Hindi](https://twitter.com/randhindi) |  |
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
 | [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学极客@UALR |
-| [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家、基因折纸师、硬件爱好者 |
-| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
+| [Ryan Orban](https://twitter.com/ryanorban) | Data scientist, genetic origamist, hardware aficionado |
+| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
 | [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
 | [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子 |
@@ -729,7 +736,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 - [AI Digest](https://aidigest.net/) . 每周时事通讯，以了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
-- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的时事通讯. [Archive](https://roundup.getdbt.com/archive).
+- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的通讯. [Archive](https://roundup.getdbt.com/archive).
 
 
 ## Youtube Videos & Channels

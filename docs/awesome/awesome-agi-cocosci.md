@@ -48,7 +48,7 @@
 
 * [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)  - ***自然***. 撰写科学论文的自然指南.
 
-* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入机器学习算法并保证可重复性的指南.
+* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入具有可重复性保证的机器学习算法的指南.
 
 
 ### Paper Reading
@@ -56,7 +56,7 @@
 * [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM 计算机通信评论***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5) ]. 阅读科学论文的综合教程.
 
 
-* [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***自然***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5)]. Nature perspective on reading scientific papers.
+* [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***自然***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5) ]. 阅读科学论文的自然视角.
 
 * [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)  - ***麻省理工学院***. 麻省理工学院关于在不同时间限制下阅读论文的策略指南.
 
@@ -119,7 +119,7 @@
 
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于溯因的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于其将新思想引入当前知识的潜力.
 
-* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的典型应用.
+* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的规范应用.
 
 * [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/)  - ***柏拉图斯坦福***. 关于科学还原的计算哲学帐户，它与解释没有明确的界限.
 
@@ -174,7 +174,7 @@
 
 * [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x) - ***新一代计算***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=6664745483675209831&hl=en&as_sdt=0,5)].
 
-* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯描述.
+* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***Frontiers in Psychology***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯描述.
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 用于解释溯因推理的概率观点.
 
@@ -229,7 +229,7 @@
 
 * [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311) - ***认知科学趋势***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226&hl=en&as_sdt=2005&sciodt=0,5) ]. 对合理化的全面审查.
 
-* [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于合理化的合理解释.
+* [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于合理化的合理解释.
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -340,7 +340,7 @@
 
 * [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444&hl=en&as_sdt=0,5)].
 
-* [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***认知心理学***，2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5) ]. 将基本规则建模为假设空间的贝叶斯帐户.
+* [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5) ]. 将基本规则建模为假设空间的贝叶斯帐户.
 
 
 <span id = "nonparametric-model"></span>
@@ -891,7 +891,7 @@
 
 * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***美国统计协会杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605) ]. 关于自然社会学研究的工具变量的原始论文.
 
-* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5) ]. 对行为研究的定量分析技术的全面回顾.
+* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***心理学年度回顾***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5) ]. 对行为研究的定量分析技术的全面回顾.
 
 * [With or Without U? The Appropriate Test for a U-Shaped Relationship](https://mpra.ub.uni-muenchen.de/4823/1/MPRA_paper_4823.pdf) - ***牛津经济与统计公报***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=1574723532506536904&hl=en&as_sdt=0,5) ]. 从数据中测试U型关系的原始方法，与二次回归测试不同.
 
@@ -954,7 +954,7 @@
 
 * [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***技术心理学：大数据时代的社会科学研究（第 155-193 页），美国心理学会***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021) ].  Jeremy Bailenson 对虚拟现实在行为研究中的应用的评论.
 
-* [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***媒体心理学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5) ]. 一项关于技术需要在何种程度上具有沉浸感以产生存在感的元分析.
+* [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***媒体心理学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5) ]. 一项关于技术需要在多大程度上具有沉浸感才能产生存在感的元分析.
 
 
 ### Meta-Level Considerations
@@ -1016,7 +1016,7 @@
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
 
-* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
+* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
 
 
 <span id = "cogarch"></span>
@@ -1120,7 +1120,7 @@
 <span id = "anl"></span>
 ### Analogy
 
-* [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图斯坦福***. 一种计算哲学对隐喻的描述，一种诗意或修辞上雄心勃勃的词语使用，一种比喻而不是文字的使用.
+* [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图斯坦福***. 关于隐喻的计算哲学解释，一种诗意或修辞上雄心勃勃的词语使用，一种比喻而不是文字的使用.
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种关于类比的计算哲学解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
 
@@ -1210,7 +1210,7 @@
 
 * [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***认知科学趋势***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5) ].  Tomer Ullman 对基于模拟的直观物理学的评论.
 
-* [Learning physical parameters from dynamic scenes](https://www.sciencedirect.com/science/article/abs/pii/S0010028517301822) - ***认知心理学***，2017. [[All Versions](https://scholar.google.com/scholar?cluster=5103729321433959736&hl=en&as_sdt=0,5)].
+* [Learning physical parameters from dynamic scenes](https://www.sciencedirect.com/science/article/abs/pii/S0010028517301822) - ***Cognitive Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5103729321433959736&hl=en&as_sdt=0,5)].
 
 * [Limits on Simulation Approaches in Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S0010028521000190) - ***认知心理学***，2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6329029167380621767) ].  Ernest Davis 反对直觉物理学的观点，认为物理推理是逻辑推理而不是直觉.
 
@@ -1248,7 +1248,7 @@
 
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - *** ACM 通讯***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5) ]. 首次尝试从人类知识中构建大规模的常识知识库.
 
-* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
+* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
 
 * [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM 联合国际会议&#39;02***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)].
 
@@ -1266,7 +1266,7 @@
 
 * [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 一阶模型理论的计算哲学帐户，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致性逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，都是超一致性的.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，就都是超一致的.
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图斯坦福***. 关于逻辑结果的计算哲学帐户，它是关于有效论证中前提和结论之间的关系.
 
@@ -1335,11 +1335,13 @@
 <span id = "kr"></span>
 ### Knowledge Representation
 
+* [Concepts](https://plato.stanford.edu/entries/concepts/)  - ***柏拉图斯坦福***. 关于概念的计算哲学辩论的集合.
+
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图斯坦福***. 一种关于逻辑和本体的计算哲学解释，主要是关于逻辑和本体在许多重要哲学问题中的交叉点.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的笑声进行了解释，该假设提出思考发生在一种心理语言中.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的嘲弄进行了解释，该假设提出思考发生在一种心理语言中.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
 
@@ -1373,7 +1375,7 @@
 
 * [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***麻省理工学院出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465) ].  Benjamin Kuipers 关于定性推理的综合书籍.
 
-* [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***Artificial Intelligence***, 1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9033452473914228535)].
+* [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***人工智能***，1997 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9033452473914228535)].
 
 * [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***合成***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
 
@@ -1402,7 +1404,7 @@
 
 * [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思想和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
 
-* [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***Psychological Review***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
+* [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***心理评论***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
 
 * [A taxonomy of inductive problems](http://www.charleskemp.com/papers/kempj_ataxonomyofinductiveproblems.pdf) - ***心理公告与评论***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=2571009743105592927&hl=en&as_sdt=0,5)].
 
@@ -1517,7 +1519,7 @@
 
 * [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151&hl=en&as_sdt=0,5)]. [[Project](https://github.com/JosephKJ/OWOD)].
 
-* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
 
 * [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf) - ***KR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003&hl=en&as_sdt=0,5)].
 

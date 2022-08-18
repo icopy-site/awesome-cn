@@ -284,7 +284,7 @@
 * [Carpe Diem 1](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/carpediem1>) - 在勒索软件计时器用完之前恢复您客户的加密文件.
 * [Borderlands](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/borderlands>) - 入侵外围主机并通过此网络进行枢转.
 * [Jeff](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/jeff>) - 侵入 Jeff 的网络服务器.
-* [Year of the [Owl](https://tryhackme.com/room/yearoftheowl) - 猫头鹰主题引导到根机器.
+* [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - 猫头鹰主题引导到根机器.
 * [Anonymous Playground](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/anonymousplayground>)  - 想成为匿名者的一员吗？ 他们对你有挑战.
 * [EnterPrize](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/enterprize>) - 以企业为主题的网络入侵.
 * [Racetrack Bank](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/racetrackbank>) - 是时候进行另一次抢劫了.

@@ -158,7 +158,6 @@
 
 - [3D Plans](https://3dplans.com) - 房地产市场的虚拟旅游和互动地图.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - 交互式 3D 家具配置器.
-- [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - 背包配置器.

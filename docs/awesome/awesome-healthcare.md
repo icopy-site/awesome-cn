@@ -33,7 +33,7 @@
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - 快速健康互操作性资源.
   * [OpenEHR](https://www.openehr.org) - 可以构建软件的开放规范.
-  * [Open mHealth](https://www.openmhealth.org) - 移动健康数据的开放标准.
+  * [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](https://docs.smarthealthit.org/) - 基于开放标准的技术平台.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - 健康记录格式的开放规范，旨在比现有格式更精确.
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - 护理文件规范的连续性（需要免费帐户）.
@@ -66,7 +66,8 @@
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - 用于 3 维图像导航、注释和自动分割的交互式软件，强调用户友好性.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) - LibreHealth Toolkit 的定制版本，带有用于放射学和成像专业人士的附加工具.
   * [Kaapana](https://github.com/kaapana/kaapana) - 用于医疗数据分析领域最先进平台配置的开源工具包.
-  * [OHIF](https://github.com/OHIF/Viewers) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+  * [Kheops](https://kheops.online) - 共享医学影像的开源平台
+  * [OHIF](https://github.com/OHIF/Viewers) - OHIF 零足迹 DICOM 查看器和肿瘤学专用病变跟踪器.
   * [OpenREM](https://openrem.org/) - 物理学家的辐射暴露监测.
   * [Orthanc](https://www.orthanc-server.com) - 用于医疗保健和医学研究的轻量级 DICOM 服务器.
   * [Papaya](https://github.com/rii-mango/Papaya) - 纯 JavaScript 医学研究图像查看器.
