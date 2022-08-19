@@ -33,7 +33,7 @@
 
 ## Communities
 
-- [Slack](https://graphql.slack.com/messages/general/)  - 在聊天中分享和帮助人们. 获取您的邀请 [here](https://graphql-slack.herokuapp.com/).
+- [Slack](https://graphql.slack.com/messages/general/)  - 在聊天中分享和帮助人们. 获得您的邀请 [here](https://graphql-slack.herokuapp.com/).
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 讨论、文章和知识共享的小组.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
@@ -86,7 +86,7 @@
 
 #### Clients
 
-- [apollo-client](https://github.com/apollographql/apollo-client) - 一个功能齐全、生产就绪的缓存 GraphQL 客户端，适用于每个 UI 框架和 GraphQL 服务器.
+- [apollo-client](https://github.com/apollographql/apollo-client) - 适用于每个 UI 框架和 GraphQL 服务器的功能齐全、生产就绪的缓存 GraphQL 客户端.
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - 适用于 Node 和浏览器的最小 GraphQL 客户端.
 - [typescript-graphql-request](https://graphql-code-generator.com/docs/plugins/typescript-graphql-request) - 将 GraphQL 请求用作完全类型化的 SDK.
 - [graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus 为“JavaScript”或“TypeScript”创建自动完成客户端库，为强类型查询提供自动完成功能.
@@ -99,7 +99,7 @@
 - [apollo-angular](https://github.com/kamilkisiela/apollo-angular) - 用于 Angular 和每个 GraphQL 服务器的功能齐全、生产就绪的缓存 GraphQL 客户端.
 - [svelte-apollo](https://github.com/timhall/svelte-apollo) - Apollo GraphQL 的 Svelte 集成.
 - [ember-apollo-client](https://github.com/ember-graphql/ember-apollo-client) - Apollo 客户端和 GraphQL 的 ember-cli 插件.
-- [apollo-elements](https://github.com/apollo-elements/apollo-elements) - 在任何前端框架中工作的 GraphQL Web 组件.
+- [apollo-elements](https://github.com/apollo-elements/apollo-elements) - 可在任何前端框架中工作的 GraphQL Web 组件.
 - [sveltekit-kitql](https://github.com/jycouet/kitql) - 一组工具，帮助您使用 SvelteKit 和 GraphQL 快速构建高效的应用程序.
 
 ###### React
@@ -154,7 +154,7 @@
 - [graphql-tools](https://github.com/apollographql/graphql-tools) - 用于构建和维护 GraphQL-JS 服务器的工具库.
 - [graphql-tag](https://github.com/apollographql/graphql-tag) - 解析 GraphQL 查询的 JavaScript 模板文字标签.
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
-- [graphql-modules](https://github.com/Urigo/graphql-modules) - 按模块或功能将 GraphQL 服务器分成更小的、可重用的部分.
+- [graphql-modules](https://github.com/Urigo/graphql-modules) - 按模块或功能将 GraphQL 服务器分成更小、可重用的部分.
 - [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
 - [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - 一个 webpack 加载器，用于直接从 GraphQL 文档导入受类型保护的代码生成结果
@@ -265,7 +265,7 @@
 - [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Tartiflette 的包装器，用于基于 aiohttp / 3.6+ / asyncio 通过 HTTP 公开 GraphQL API， [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
 - [Ariadne](https://github.com/mirumee/ariadne)  - 使用模式优先方法实现 GraphQL 服务器的库. 异步查询执行，包括用于 ASGI、WSGI 和流行网络框架的电池， [fully documented](https://ariadnegraphql.org).
 - [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth) - 使用 GraphQL 进行 Django 注册和身份验证.
-- [strawberry](https://github.com/strawberry-graphql/strawberry) - 用于 Python 的新 GraphQL 库.
+- [strawberry](https://github.com/strawberry-graphql/strawberry) - 一个新的 Python GraphQL 库.
 - [turms](https://github.com/jhnnsrs/turms) - 围绕 graphql-core 和 pydantic 构建的 pythonic graphql 代码生成器
 - [rath](https://github.com/jhnnsrs/rath) - 具有异步和同步接口的类似 apollo 的 graphql 客户端
 
@@ -389,7 +389,7 @@
 ### Elixir
 
 - [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - 功能齐全的 Elixir GraphQL 库.
-- [graphql-elixir](https://github.com/graphql-elixir/graphql)  - GraphQL Elixir.  （不再维护）
+- [graphql-elixir](https://github.com/graphql-elixir/graphql)  - GraphQL 灵丹妙药.  （不再维护）
 - [plug_graphql](https://github.com/graphql-elixir/plug_graphql) - GraphQL Elixir 的插件集成.
 - [graphql_relay](https://github.com/graphql-elixir/graphql_relay) - GraphQL Elixir 的中继助手.
 - [graphql_parser](https://github.com/graphql-elixir/graphql_parser) - 长生不老药绑定 [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
@@ -407,6 +407,7 @@
 ### Haskell
 
 - [graphql-haskell](https://github.com/jdnavarro/graphql-haskell) - GraphQL AST 和 Haskell 解析器.
+- [morpheus-graphql](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL Api、客户端和工具.
 
 <a name="sql" />
 
@@ -422,7 +423,7 @@
 
 ### Lua
 
-- [graphql-lua](https://github.com/bjornbytes/graphql-lua) - 用于 Lua 的 GraphQL.
+- [graphql-lua](https://github.com/bjornbytes/graphql-lua) - Lua 的 GraphQL.
 
 <a name="elm" />
 
