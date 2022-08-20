@@ -160,7 +160,7 @@
 * [feathers](https://github.com/feathersjs/feathers) - 适用于未来应用程序的极简实时 JavaScript 框架.
 * [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
-* [Alpine.js](https://github.com/alpinejs/alpine) - 以低得多的成本为您提供大型框架（如 Vue 或 React）的反应性和声明性.
+* [Alpine.js](https://github.com/alpinejs/alpine) - 以更低的成本为您提供 Vue 或 React 等大型框架的反应性和声明性.
 * [inferno](https://github.com/infernojs/inferno) - 一个用于构建现代用户界面的极快、类似 React 的 JavaScript 库.
 * [FoalTS](https://foalts.org) - 优雅且包罗万象的 Node.JS 框架，用于构建 Web 应用程序（TypeScript）.
 * [Lucia](https://github.com/aidenybai/lucia) - 用于小型 Web 应用程序的 3kb 库.
@@ -284,7 +284,7 @@
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable 是一个供开发人员使用的 JavaScript/HTML5 电子表格库
 * [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable 是一个简单、现代和交互式的数据表库，用于显示表格数据. 
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
- * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建令人惊叹的基于 Web 的交互式表格和与其他电子表格软件兼容的电子表格.
+ * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建与其他电子表格软件兼容的令人惊叹的基于 Web 的交互式表格和电子表格.
 
 ## Editors
 
@@ -309,7 +309,7 @@
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - 简单、漂亮的所见即所得编辑器
 * [wysihtml5](https://github.com/xing/wysihtml5)  - 基于 HTML5 和渐进增强方法的开源富文本编辑器. 使用复杂的安全概念，旨在通过防止无法维护的标签汤和内联样式来生成完全有效的 HTML5 标记.
 * [popline](https://github.com/kenshin54/popline) - Popline 是一个 HTML5 富文本编辑器工具栏.
-* [Summernote](https://github.com/summernote/summernote) - 超级简单的所见即所得编辑器.
+* [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 
 
 ## Documentation
@@ -684,7 +684,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用这个 jQuery 插件将一个简单的文本输入神奇地转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯 JavaScript 掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  - 用于样式复选框和单选按钮的 jQuery 插件. 有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 超轻量级、可用、漂亮的自动完成，零依赖.  - https://projects.verou.me/awesomplete/
+* [awesomplete](https://github.com/LeaVerou/awesomplete)  - 超轻量级、可用、美观的自动完成，零依赖.  - https://projects.verou.me/awesomplete/
 
 ### Calendar
 
@@ -784,7 +784,7 @@
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - 一个 jQuery 插件，用于创建基于 AJAX 的 CRUD 表.
-* [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+* [DataTables](https://www.datatables.net/) - （jQuery插件）它是一个高度灵活的工具，基于渐进增强的基础，将高级交互控件添加到任何HTML表格.
 * [Tabulator](http://olifolkerd.github.io/tabulator/) - （jQuery 插件）一个极其灵活的库，可以从任何 JSON 数据源或现有 HTML 表创建具有一系列交互功能的表.
 * [Bootstrap Table](https://bootstrap-table.com/) - 流行的 Bootstrap 框架的扩展，用于创建适合您网站风格的表格，无需额外的标记.
 * [floatThead](https://github.com/mkoryak/floatThead)  - （jQuery 插件）在正文中滚动时锁定任何表格的标题. 适用于任何表格，不需要自定义 html 或 css.
@@ -843,7 +843,6 @@
 ## Video/Audio
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - 为您的 YouTube 提供更漂亮的嵌入 - 具有不错的选项，例如高分辨率预览图像、嵌入选项的高级自定义以及可选的 FitVids 支持.
- * [html5media](https://github.com/etianen/html5media)  - 启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play&#39;em 是一个 JavaScript 组件，它管理音乐/视频轨道队列并通过在 HTML DIV 中嵌入多个播放器（包括 Youtube、Soundcloud 和 Vimeo）来播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
@@ -895,7 +894,7 @@
 * [Anime.js](https://animejs.com/) - JavaScript 动画引擎.
 * [Mo.js](http://mojs.io) - 用于网络的动态图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - 用于创建粒子的轻量级 JavaScript 库.
-* [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的改进版本的particles.js，包含错误修复和许多新功能.
+* [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的改进版本的particles.js，带有错误修复和许多新功能.
 * [particles-bg](https://github.com/lindelof/particles-bg) - 一个轻量级的 React 粒子动画背景组件.
 * [barbajs](https://github.com/barbajs/barba) - 它可以帮助您在网站页面之间创建流畅流畅的过渡.
 * [typicaljs](https://github.com/camwiegert/typical) - 动画输入约 400 字节的 JavaScript

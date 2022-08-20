@@ -17,7 +17,7 @@
 
  &gt; 首先，每个人都应该知道版本控制系统，也就是 VCS.  VCS 帮助我们跟踪文档中的更改以及文档上的协作. 不用说，版本控制是科学家最有用的工具之一.
 
-* **走**
+* **混帐**
 * svn
 * 水银
 
@@ -62,7 +62,7 @@
 * [Microsoft To Do](https://todo.microsoft.com/tasks) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`、`Win Store`、`Chrome OS`）：近乎完美的待办事项列表，合作共享.
 * [Google Keep](https://keep.google.com/)（`Cloud`、`Android`、`iOS`、`Chrome OS`）
 * [Evernote](https://evernote.com/) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`、`Win Store`）：不是那么轻巧，但仍然非常适合管理生活，特别是因为它已经从很多其他服务.
-* [Anydo](https://www.any.do/) （`Cloud`、`Mac`、`Android`、`iOS`）：很好，因为它有一个非常好的每日评论，可以帮助用户记住要做什么.
+* [Anydo](https://www.any.do/) （`Cloud`,`Mac`,`Android`,`iOS`）：很好，因为它有一个非常好的每日评论，可以帮助用户记住要做什么.
 * [Todoist](https://todoist.com/) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`）：Todoist 发明了记录已完成任务的业力系统.
 * [Taskade](https://taskade.com/) （`Cloud`、`Mac`、`Win`、`Chrome OS`、`Firefox`、`Android`、`iOS`）：Taskade 是团队项目的协作任务列表和大纲.
 * [Agenda](https://agenda.com/)(`Mac`)：以日期为中心的笔记.
@@ -262,7 +262,7 @@
 ### Editors
 
 &gt; Markdown、LaTeX 和 reStructuredText 是三种有用的语言.
-&gt; **在大多数情况下，可调整的文本编辑器，例如 [Visual Studio Code, aka vscode](https://code.visualstudio.com) 已经足够好了.** 事实上，vscode 附带了大量可用于构建您自己的 IDE 的扩展.
+> **In most cases, a tweakable text editor such as [Visual Studio Code, aka vscode](https://code.visualstudio.com) 已经足够好了.** 事实上，vscode 附带了大量可用于构建您自己的 IDE 的扩展.
 
 
 #### Markdown
@@ -276,7 +276,7 @@
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`)：只是另一个没有数学支持的 Markdown 编辑器.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): 又一个支持数学 (MathJax) 的 Markdown 编辑器.
 * [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown 编辑器，与 Evernote 集成，生成 pdf 并离线工作. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`)是中文版.
-* [Madoko](https://www.madoko.net/) (`Cloud`,`Chrome`)：支持数学的 Markdown 编辑器，一键轻松插入图像，而您的文件保存在 Dropbox、GitHub、OneDrive 或本地磁盘上. 它生成pdf和HTML页面，并使用浏览器的本地存储离线工作. 甚至可以导入 LaTeX 文件.
+* [Madoko](https://www.madoko.net/) （`Cloud`、`Chrome`）：一个支持数学的 Markdown 编辑器，可以一键轻松插入图片，而您的文件保存在 Dropbox、GitHub、OneDrive 或本地磁盘上. 它生成pdf和HTML页面，并使用浏览器的本地存储离线工作. 甚至可以导入 LaTeX 文件.
 * [Markx](http://markx.herokuapp.com/) (`Cloud`)：用于科学写作的 Markdown 编辑器. 包括电池.
 * [typora](https://www.typora.io/)(`Mac`,`Win`)：漂亮的 UI 和现场实时预览.
 * [Haroopad](http://pad.haroopress.com/) (`Mac`,`Win`,`Linux`)：一个强大的 github 风格的降价编辑器，带有有用的扩展. 支持数学 (mathjax).
@@ -336,7 +336,7 @@
 
 * 头脑管理器
 * XMind
-*要教
+* 多卡尔
 
 **Online**
 
@@ -462,7 +462,7 @@
 ### Sharing Slides
 
 * [GitHub pages](https://pages.github.com/): 对于基于 Html 的幻灯片.
-* [Speaker Deck](https://speakerdeck.com/) 由 GitHub 提供：PDF 幻灯片. 可以在线显示或嵌入.
+* [Speaker Deck](https://speakerdeck.com/) by GitHub: PDF slides. Can be displayed online or embeded.
 
 
 ## Programming
@@ -475,7 +475,7 @@
 * [Sublime Text](https://www.sublimetext.com/) （`免费评估`，`跨平台`，`插件`）：跨平台，快速，并带有插件. 不是免费的，但可以永远免费使用.
 * [JetBrains](https://www.jetbrains.com/)（`学生免费`，`跨平台`，`插件`）：漂亮的IDE，集成了许多调试和编辑模式.
 * [vim](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): 没有语言可以描述全能的 vim.
-  * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+  * [Vundle](https://github.com/VundleVim/Vundle.vim): vim 插件管理器
   * [vimrc from amix](https://github.com/amix/vimrc): &quot;终极 Vim 配置：vimrc&quot;
 
 
@@ -494,7 +494,7 @@
 ### Scientific Computing
 
 * [Python](https://www.python.org/)
-  * [scipy](https://www.scipy.org/): scientific computing made easy
+  * [scipy](https://www.scipy.org/): 科学计算变得容易
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/): python 调试和性能改进的好工具.
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
@@ -523,6 +523,7 @@
 * [Iris.ai](https://the.iris.ai/)：探索科学论文以及它们如何连接到您选择的论文.
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish)：检索和分析学术引文，旨在使个别学者能够充分展示他们的研究影响力.
 * [PubChase](http://pubchase.com/)：生命科学和医学文献推荐引擎.
+* [Connected Papers](https://www.connectedpapers.com/)：可视化连接的论文，支持节点颜色、大小和与原点的距离，以区分论文是否有用以及它的相关程度.
 
 ### Get Yourself A Citable Code for Anything
 
@@ -568,10 +569,10 @@
 * [Noisli](http://www.noisli.com/)  （`iOS`, `Android`, `Web`, `Chrome`）：自由混合多首曲目（类似于 Soundrown，但 UI 更好）. 用户可以保存自定义设置以供以后使用. 我个人认为这个比 soundrow 有更好的火音轨.
 * [Soundrown](http://soundrown.com/)(`Web`): 多首曲目的自由混音
 * [Muji Sleep](http://sleep.muji.net/)（`iOS`，`Android`）
-* [A Soft Murmur](http://asoftmurmur.com/)(`Web`): free mixing of multiple tracks; simple UI; Timer provided; Meander available
+* [A Soft Murmur](http://asoftmurmur.com/) (`Web`)：多轨自由混音； 简单的用户界面； 提供定时器； 提供蜿蜒曲折
 * [mynoise](https://mynoise.net/noiseMachines.php) (`iOS`, `Web`)：噪声发生器； 很多选择（实际上太多了）； 详细均衡器
 * [Rainy Cafe](http://rainycafe.com/)（`Web`）：没什么好说的，只是雨天的心情和 coffitivity 的结合
-* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) (`iOS`, `Mac`)：点击播放风格的预加载场景； 使用方便; 漂亮的设计
+* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) (`iOS`, `Mac`)：点击播放风格的预加载场景； 便于使用; 漂亮的设计
 * [A youtube audio track of coffee shop (really long)](https://www.youtube.com/watch?v=KZV9FmHOsRg)
 * [A youtube audio track of 10 hours rain fall](https://www.youtube.com/watch?v=s_2FDRtFOAw)
 * [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) （`Android`）：混音以集中注意力
@@ -723,7 +724,7 @@
 
 ### More
 
-* [QR Code Generator](https://www.unitag.io/qrcode)：在您的海报上添加二维码可以帮助您获得更多观众.
+* [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
 * [SHIELDS.io](http://shields.io/): 自己做一个漂亮的徽章.
 * [TitleCap](http://titlecapitalization.com/): 不知道标题中哪个单词要大写？ [TitleCap](http://titlecapitalization.com/) 适合你.
 * [On Being a Scientist](https://www.nap.edu/read/12192/): 负责任的研究行为指南.
