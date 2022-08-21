@@ -32,6 +32,7 @@
 - [pling.com](https://www.pling.com/) - 开放商店，创作者可以在其中发布他们的自由产品和创意内容，包括 AppImages.
 - [App Outlet](https://app-outlet.github.io/) - 适用于 AppImages、Flatpaks 和 Snaps 的通用应用商店.
 - [Linux App Store](https://linuxappstore.io/) - 适用于 AppImage、Flatpak 和 Snap 格式的 Linux 应用程序的通用应用程序商店（项目已放弃）.
+- [Manjaro Software Discover](https://software.manjaro.org/appimages) - 基于 Web 的应用商店，包含多种格式的应用程序，包括 AppImage.
 
 ### App centers
 
@@ -47,7 +48,7 @@
 
 ### Desktop integration
 
-- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - 详细解释如何在无需其他软件的情况下管理 AppImages.
+- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - Verbosely explains how to manage AppImages without the need for further software.
 - [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - 将 AppImages 集成到系统中的可选守护程序（实验性）.
 - [appimaged](https://github.com/AppImage/appimaged) - 将 AppImages 集成到系统中的可选守护程序（已弃用）.
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - 集成到用户系统并建立一个单一的`~/Applications`目录，帮助用户将AppImages移动到那里，并支持通过应用程序启动器更新和删除AppImages.
@@ -174,7 +175,7 @@
 ### Continuous integration
 
 - [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - 如何将使用 GitHub Actions 构建的 AppImages 上传到 GitHub Releases 的示例.
-- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
+- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - 更大、更复杂的示例，说明如何使用 GitHub Actions 构建和上传 AppImage.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - 使用 appimage-builder 生成 AppImages 的 GitHub 操作.
 - [jniltinho/packages](https://github.com/jniltinho/packages) - 使用 go-appimagetool 生成 AppImages 的 Drone.io 示例.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - 如何直接链接到 GitLab CI 上的最新构建工件的示例（可能很棘手）.
@@ -209,7 +210,7 @@
 
 ### Tutorials
 
-- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作捆绑_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且可以在比构建系统的_旧_系统上运行.
+- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作一个捆绑了_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且还可以在比构建系统的_旧_系统上运行.
 
 ### Articles
 
