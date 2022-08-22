@@ -37,7 +37,7 @@
 - [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript 新闻和文章的免费、每周一次的电子邮件汇总. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次的电子邮件通讯，为设计师和开发人员提供有用的提示、技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 一个快速的 JavaScript 提示，每隔一周发送到您的收件箱.
-- [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly 是一份专注于工具的前端开发和网页设计时事通讯.
+- [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 - [ES.next News](http://esnextnews.com/) . 每周有 5 个 ECMAScript.next 链接，由 Axel Raushmayer 博士和 Johannes Weber 策划.
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 每周最好的 TypeScript 链接，就在你的盒子里.
@@ -66,7 +66,7 @@
 
 - [Vue.js Newsletter](https://news.vuejs.org) . 每周精选的 Vue.js 新闻.
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers) . 每周精选的最佳文章、最新消息和最酷的 Vue 项目的出版物.
-- [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
+- [VueDose](https://vuedose.tips) . 为忙碌的开发者准备的关于 Vue 生态系统的提示和技巧. 每周出版.
 
 #### Svelte
 
@@ -100,7 +100,7 @@
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章结合了品牌、艺术和平面设计领域最优秀的现代表达和创新.
 - [Hack Design](https://hackdesign.org) . 一个易于学习的设计课程，适合那些做出了不起的事情的人.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
-- [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
+- [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI Animation Newsletter 让您了解最新的最佳 Web 动画、动作设计和 UX 资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与网络动画和动作设计的精彩世界有关的好东西！
 - [Design Systems News](http://news.design.systems/) . 有关设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
@@ -129,7 +129,7 @@
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) . 接收来自业内人士的每周编程新闻和见解.
 - [Programming Digest](https://programmingdigest.net/) . 面向软件工程师的每周通讯，其中包含前 5 个链接. [Archive](https://programmingdigest.net/digests).
 - [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三的每周电子邮件，其中包含来自的新软件开发技巧 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从 git 到职业，再到 Web 开发，再到个人发展和团队合作.
-- [LLVM Weekly](http://llvmweekly.org) . 每周通讯，涵盖 LLVM、Clang 和相关项目的发展.
+- [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 - [Discover dev](https://www.discoverdev.io) . 网络上最好的工程博客的每周摘要. [Archive](https://www.discoverdev.io/archive).
 - [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/) . 双周深入的代码审查相关的文章.
 - [Active forks](https://activeforks.net) . 面向开源爱好者的每周通讯，其中包含存储库列表及其最近活跃的分叉.
@@ -167,6 +167,7 @@
 - [iOS Goodies](https://ios-goodies.com) . 每周 iOS 通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) . 最佳 iOS 开发、营销、Swift、设计和 Xcode 链接.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) . 每周精选时事通讯，其中包含精选的最新链接、视频、工具和教程，供有兴趣使用 Swift 设计和开发自己的 iOS、macOS、watchOS 和 tvOS 应用程序的人们使用.
+- [iOS Dev Tools Newsletter](https://iosdev.tools/) .  iOS 开发者的最佳工具，每周更新.
 
 ### Go
 
@@ -258,7 +259,7 @@
 
 - [Lua Digest](https://luadigest.immortalin.com) .  Lua 编程语言的定期通讯.
 
-## OS
+## Open Source
 
 - [TinyOpenSource](https://tinyopensource.email) . 来自开源世界的 5 大更新，直接发送到您的收件箱. 短而甜.
 - [BSD Weekly](https://bsdweekly.com/) . 一份免费的、每周一次的 BSD 新闻和文章综合电子邮件.
@@ -402,7 +403,7 @@
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 - [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
-- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周时事通讯，包含与机器人技术相关的新闻、项目和研究.

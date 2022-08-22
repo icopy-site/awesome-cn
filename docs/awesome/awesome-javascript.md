@@ -56,6 +56,12 @@
 * [Snowpack](https://www.snowpack.dev/) - 一个闪电般快速的前端构建工具，专为现代网络而设计.
 
 
+## Minimizers
+
+* [Terser](https://github.com/terser/terser) - 用于 ES6+ 的解析器、管理器和压缩器工具包
+* [Uglify](https://github.com/mishoo/UglifyJS) - 解析器 / mangler / 压缩器 / 美化工具包
+
+
 ## Type Checkers
 
 * [TypeScript](https://www.typescriptlang.org/) - 一种类型化的 JavaScript 超集，可编译为纯 JavaScript.
@@ -77,7 +83,7 @@
 * [DalekJS](https://github.com/dalekjs/dalek) - 使用 JavaScript 自动进行跨浏览器功能测试
 * [Protractor](https://github.com/angular/protractor) - Protractor 是 AngularJS 应用程序的端到端测试框架.
 * [tape](https://github.com/substack/tape) - 为节点和浏览器生产测试工具.
-* [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+* [TestCafe](https://github.com/DevExpress/testcafe) - 用于现代 Web 开发堆栈的自动浏览器测试.
 * [ava](https://github.com/avajs/ava) - 未来的 JavaScript 测试运行器
 * [Cypress](https://www.cypress.io/) - 完整的端到端测试框架，适用于在浏览器及其他浏览器中运行的任何东西.
 
@@ -283,8 +289,8 @@
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable 是一个供开发人员使用的 JavaScript/HTML5 电子表格库
 * [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable 是一个简单、现代和交互式的数据表库，用于显示表格数据. 
-* [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
- * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建与其他电子表格软件兼容的令人惊叹的基于 Web 的交互式表格和电子表格.
+* [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet 是一个类似于 excel 的在线电子表格，功能强大、配置简单且完全开源.
+ * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建令人惊叹的基于 Web 的交互式表格和与其他电子表格软件兼容的电子表格.
 
 ## Editors
 
@@ -463,7 +469,7 @@
 
 * [i18next](https://github.com/i18next/i18next) - 使用 JavaScript 轻松实现国际化 (i18n).
 * [polyglot](https://github.com/airbnb/polyglot.js) - 微型 i18n 帮助程序库.
-* [babelfish](https://github.com/nodeca/babelfish/) - i18n 具有人性化的 API 和内置的复数支持.
+* [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 * [ttag](https://github.com/ttag-org/ttag) - 基于 ES6 标记模板和良好的旧 GNU gettext 的现代 javascript i18n 本地化库.
 * [attranslate](https://github.com/fkirc/attranslate) - 用于同步翻译文件的 JavaScript 工具，包括 JSON/YAML/XML 和其他格式.
 
@@ -475,7 +481,7 @@
 * [contra](https://github.com/bevacqua/contra/) - 具有功能性的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - 功能齐全的承诺库，专注于创新功能和性能.
 * [when](https://github.com/cujojs/when) - 一个可靠、快速的 Promises/A+ 和 when() 实现，以及其他异步好东西.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供一个添加对事件监听器支持的原型（与浏览器上可用的 DOMElements 中的 EventTarget 具有相同的行为）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供一个原型，添加对事件监听器的支持（与浏览器上可用的 DOMElements 中的 EventTarget 具有相同的行为）.
 * [sporadic](https://github.com/marcoonroad/sporadic) - 在 Promise 之上，用于 Node 和浏览器引擎的可组合并发抽象（例如流、协程和类似 Go 的通道）.
 
 
@@ -514,7 +520,7 @@
 ## Voice Command
 
 * [annyang](https://github.com/TalAter/annyang) - 一个 JavaScript 库，用于使用语音识别向您的站点添加语音命令.
-* [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+* [voix.js](https://github.com/pazguille/voix) - 一个 JavaScript 库，用于向您的网站、应用程序或游戏添加语音命令.
 
 
 ## API
@@ -624,7 +630,7 @@
 * [tourist](https://github.com/easelinc/tourist) - 为您的应用程序提供简单、灵活的导览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 为您的应用程序提供简单的叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
-* [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
+* [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能游览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将焦点放在 DOM 元素上，将覆盖层添加到页面的其余部分.
 * [driver.js](https://github.com/kamranahmedse/driver.js) - 强大而轻量级的原生 JavaScript 引擎，可将用户的注意力集中在整个页面上
@@ -689,7 +695,7 @@
 ### Calendar
 
 * [pickadate.js](https://github.com/amsul/pickadate.js) - 移动友好、响应迅速且轻量级的 jQuery 日期和时间输入选择器.
-* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - 从 Stefan Petre（来自 eyecon.ro）分叉的 @twitter bootstrap 的日期选择器，由 @eternicode 改进.
+* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - @twitter bootstrap 的日期选择器从 Stefan Petre（来自 eyecon.ro）的分支，由 @eternicode 改进.
 * [Pikaday](https://github.com/dbushell/Pikaday) - 一个令人耳目一新的 JavaScript Datepicker——轻量级、无依赖、模块化 CSS.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) - 全尺寸拖放事件日历（jQuery 插件）.
 * [rome](https://github.com/bevacqua/rome)  - 可自定义的日期（和时间）选择器. 无依赖，可选择加入的 UI.
@@ -734,7 +740,7 @@
 
 ## Modals and Popups
 
-* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - 专注于性能的轻量级响应式灯箱脚本.
+* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI 元素.
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - 一个带有新模式概念的 jQuery 插件，用于弹出窗口.
 * [vex](https://github.com/HubSpot/vex) - 一个高度可配置且易于设计的现代对话框库.
@@ -847,7 +853,7 @@
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的 HTML5 视频播放器
  <https://flowplayer.com/>
- * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有 Flash 和 Silverlight 垫片的播放器，模仿 HTML5 MediaElement API，在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>具有模仿 HTML5 MediaElement API 的 Flash 和 Silverlight 垫片的播放器，可在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使在网络上处理音频更容易的库. 它为在不同浏览器中播放音频提供了一致的 API.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于流体宽度视频嵌入.
@@ -929,8 +935,8 @@
  
 ## Full Text Search
 
-* [lunr](https://github.com/olivernn/lunr.js) - 在浏览器中使用的库，它索引 JSON 文档，并提供一个简单的搜索界面，用于检索最匹配文本查询的文档.
-* [flexsearch](https://github.com/nextapps-de/flexsearch) - 它是浏览器和 Node.js 的下一代全文搜索库.
+* [lunr](https://github.com/olivernn/lunr.js) - 在浏览器中使用的库，它索引 JSON 文档，并提供一个简单的搜索界面，用于检索与文本查询最匹配的文档.
+* [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - 该库基于 lunr.js，但更加灵活和定制.
  
 ## Misc
@@ -969,7 +975,7 @@ https://listjs.com
 ## Worth Reading
 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 可能是用现代 JavaScript 编写的最好的书，完全免费在线阅读，或者可以购买以支持作者.
-* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 关于 JS 最佳实践、公认的编码标准和 Web 链接的易于阅读的快速参考.
+* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费 JavaScript 电子书目录.
 * [Superhero.js](http://superherojs.com) - 关于创建、测试和维护大型 JavaScript 代码库的资源集合.
 * [SJSJ](https://github.com/KittyGiraudel/SJSJ) - 简化的 JavaScript 行话是一个社区驱动的尝试，用几个简单的词来解释当前 JavaScript 生态系统的流行语负载.

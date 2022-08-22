@@ -86,6 +86,10 @@
 
 ## Health
 
+- [Covid iOS Widget](https://github.com/Hider-alt/covid-widget) - 选定国家的 Covid-19 病例图.
+
+  <img src="https://raw.githubusercontent.com/Hider-alt/covid-widget/main/img/Mockup.png" width="800">
+
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) - 选定国家的 Covid-19 病例.
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - 德国的 Covid-19 发病率数据.

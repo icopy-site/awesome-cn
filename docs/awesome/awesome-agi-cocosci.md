@@ -174,7 +174,7 @@
 
 * [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x) - ***新一代计算***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=6664745483675209831&hl=en&as_sdt=0,5)].
 
-* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***Frontiers in Psychology***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯描述.
+* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯描述.
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 用于解释溯因推理的概率观点.
 
@@ -229,7 +229,7 @@
 
 * [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311) - ***认知科学趋势***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226&hl=en&as_sdt=2005&sciodt=0,5) ]. 对合理化的全面审查.
 
-* [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于合理化的合理解释.
+* [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于合理化的合理解释.
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -655,7 +655,7 @@
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)].
 
-* [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689) - ***ICRA&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7155333517647976638&hl=en&as_sdt=0,5)].
+* [Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460689) - ***ICRA'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7155333517647976638&hl=en&as_sdt=0,5)].
 
 * [Learning to act: qualitative learning of deterministic action models](https://academic.oup.com/logcom/article-abstract/28/2/337/4695480) - ***逻辑与计算杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=14570482854600886953&hl=en&as_sdt=0,5)].
 
@@ -726,7 +726,7 @@
 
 * [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6079567413300944995&hl=en&as_sdt=0,5) ]. 关于神经符号概率编程的原始论文.
 
-* [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172) - ***人工智能研究杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5) ]. 差分归纳逻辑编程的原始论文.
+* [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172) - ***人工智能研究杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5)]. The original paper for differential Inductive Logic Programming.
 
 * [Combining Logical Abduction and Statistical Induction: Discovering Written Primitives with Human Knowledge](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/aaai17lasin.pdf) - ***AAAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14477085725208589393&hl=en&as_sdt=0,5)].
 
@@ -844,7 +844,7 @@
 
 * [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231) - ***认知科学趋势***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=3612212926196611828&hl=en&as_sdt=0,5) ]. 人类工具使用的神经科学说明.
 
-* [Spontaneous Metatool Use by New Caledonian Crows](https://www.sciencedirect.com/science/article/pii/S0960982207017708) - ***当代生物学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=9263531730425342443&hl=en&as_sdt=0,5) ]. 一个证据表明智能动物可以利用 matatools 来制造解决问题的工具.
+* [Spontaneous Metatool Use by New Caledonian Crows](https://www.sciencedirect.com/science/article/pii/S0960982207017708) - ***当代生物学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=9263531730425342443&hl=en&as_sdt=0,5)]. A piece of evidence that intelligent animals can take advantage of matatools to make tools for problem solving.
 
 * [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962) - ***心理科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)].
 
@@ -1016,7 +1016,7 @@
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
 
-* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***Behavioral and Brain Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
+* [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
 
 
 <span id = "cogarch"></span>
@@ -1120,7 +1120,7 @@
 <span id = "anl"></span>
 ### Analogy
 
-* [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图斯坦福***. 关于隐喻的计算哲学解释，一种诗意或修辞上雄心勃勃的词语使用，一种比喻而不是文字的使用.
+* [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图斯坦福***. 一种计算哲学对隐喻的描述，一种诗意或修辞上雄心勃勃的词语使用，一种比喻而不是文字的使用.
 
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种关于类比的计算哲学解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
 
@@ -1337,11 +1337,13 @@
 
 * [Concepts](https://plato.stanford.edu/entries/concepts/)  - ***柏拉图斯坦福***. 关于概念的计算哲学辩论的集合.
 
+* [Theory-theory](https://en.wikipedia.org/wiki/Theory-theory)  - ***维基百科***. 理论理论的维基百科，一种将理论（或经验）系统中的概念语境化的观点.
+
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图斯坦福***. 一种关于逻辑和本体的计算哲学解释，主要是关于逻辑和本体在许多重要哲学问题中的交叉点.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的嘲弄进行了解释，该假设提出思考发生在一种心理语言中.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的笑声进行了解释，该假设提出思考发生在一种心理语言中.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
 
@@ -1519,7 +1521,7 @@
 
 * [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151&hl=en&as_sdt=0,5)]. [[Project](https://github.com/JosephKJ/OWOD)].
 
-* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
 
 * [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf) - ***KR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003&hl=en&as_sdt=0,5)].
 
@@ -1686,7 +1688,7 @@
 
 * [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***加州大学洛杉矶分校统计学系心理学系***.
 
-* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***加州大学洛杉矶分校计算机科学系***.
 
 
 ### UC Berkeley

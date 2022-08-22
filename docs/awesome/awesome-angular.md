@@ -8,7 +8,7 @@
 
 ## Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/PatrickJS/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/PatrickJS/awesome-angular)
 
-令人敬畏的名单 [Angular](https://angular.io/) 种子存储库、启动器、样板、示例、教程、组件、模块、视频以及 Angular 生态系统中的任何其他内容. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
+令人敬畏的名单 [Angular](https://angular.io/) 种子库、启动器、样板、示例、教程、组件、模块、视频以及 Angular 生态系统中的任何其他内容. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
 
 &gt; 如果您正在寻找 AngularJS（版本 1.xx），请访问 https://github.com/gianarb/awesome-angularjs
 
@@ -77,6 +77,7 @@
 * [@waterplea](https://twitter.com/waterplea)
 * [@marsibarsi](https://twitter.com/marsibarsi)
 * [@maciejtreder](https://twitter.com/maciejtreder)
+* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -114,6 +115,7 @@
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [Ankit](https://twitter.com/ankitsharma_007)
 * [Siddharth Ajmera](https://twitter.com/SiddAjmera)
+* [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
@@ -185,7 +187,7 @@ WebWorker 中的大多数核心 Angular 框架.
 
 ##### HTTP
 
- HttpClient 为 Angular 应用程序提供了一个简化的客户端 HTTP API，它依赖于浏览器公开的 XMLHttpRequest 接口.  HttpClient 的其他好处包括可测试性功能、类型化的请求和响应对象、请求和响应拦截、Observable api 和简化的错误处理.
+ HttpClient 为 Angular 应用程序提供了一个简化的客户端 HTTP API，它依赖于浏览器公开的 XMLHttpRequest 接口.  HttpClient 的其他好处包括可测试性功能、类型化请求和响应对象、请求和响应拦截、Observable api 和简化的错误处理.
 
 * [Official HttpClient](https://angular.io/guide/http)
 
@@ -239,7 +241,7 @@ WebWorker 中的大多数核心 Angular 框架.
     * [Domain Models and Dependency Injection](https://auth0.com/blog/angular-2-series-part-2-domain-models-and-dependency-injection/)
     * [Using Http](https://auth0.com/blog/angular-2-series-part-3-using-http/)
     * [Create a Desktop App with Angular 2 and Electron](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/)
-* 思想
+*思想
   * Angular 模板语法揭秘
     * [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 * [letsboot.com](https://medium.com/letsboot)
@@ -289,15 +291,16 @@ WebWorker 中的大多数核心 Angular 框架.
 
 * [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) 《忍者小队》
-* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
-* [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `曼宁出版物`
+* [Angular in Action](https://www.manning.com/books/angular-in-action) `曼宁出版物`
 * [Practical Angular 2](https://leanpub.com/practical-angular-2) “精益酒吧”
 * [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) `打包发布`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
-* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `Manning Publications`
+* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) `曼宁出版物`
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
+* [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `打包发布`
 
 #### On-Site Training
 
@@ -325,7 +328,7 @@ WebWorker 中的大多数核心 Angular 框架.
   * [Angular 2 Bits Unified Dependency Injection](https://vsavkin.tumblr.com/post/102965317996/angular-2-bits-unified-dependency-injection)
   * [Angular 2 Router](https://vsavkin.com/angular-2-router-d9e30599f9ea)
 
-* 思想
+*思想
 
   * [Developing a tabs component in Angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
   * [Developing a zippy component in Angular 2](https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
@@ -497,7 +500,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [@ctrl/ngx-droppable](https://github.com/typectrl/ngx-droppable) - 为任何元素或组件提供文件删除能力
 * [file-droppa](https://github.com/chenyukunJoshHub/fileDroppa) 带有文件列表的简单文件拖放和上传组件
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) 易于使用的文件上传指令
-* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) 用于上传文件的 Angular 库. 它支持：文件上传和预览（另外还可以预览带有灯箱的图像）、验证、图像裁剪器、具有多语言支持的拖放功能.
+* [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader) 用于上传文件的 Angular 库. 它支持：文件上传和预览（另外还可以预览带有灯箱的图像）、验证、图像裁剪器、支持多语言的拖放.
 * [ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) - 高度可定制的组件来处理文件删除和选择.
 * [ngx-flow](https://github.com/flowjs/ngx-flow) - Angular7+ 包装器 [flow.js](https://github.com/flowjs/flow.js) 用于文件上传
 
@@ -505,7 +508,7 @@ WebWorker 中的大多数核心 Angular 框架.
 
 * [@ctrl/ngx-emoji-mart](https://github.com/TypeCtrl/ngx-emoji-mart) - 用于 Angular 的可定制的类似 Slack 的表情符号选择器
 * [angular-imask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/angular-imask) Angular 4+ 输入掩码
-* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Web 应用程序的 Angular 2 多选下拉组件
+* [angular2-multiselect-dropdown](https://github.com/CuppaLabs/angular2-multiselect-dropdown) 用于 Web 应用程序的 Angular 2 多选下拉组件
 * [angular2-text-mask](https://github.com/text-mask/text-mask) Angular 2 输入掩码指令
 * [ng-fveh](https://github.com/guilhermewaess/ng-fveh) - 表单验证错误助手 - 一些帮助您进行表单验证的助手 :)
 * [ng-select](https://github.com/ng-select/ng-select) Angular ng-select - 多合一 UI 选择、多选和自动完成
@@ -531,6 +534,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [angular-clickable-click](https://github.com/DanielKucal/angular-clickable-click) - 使用标准 `(click)` 输出在元素上设置指针光标，并允许禁用此类事件
 * [angular-esc](https://github.com/DanielKucal/angular-esc) - 添加由 Escape 键触发的 `(esc)` 输出
 * [ngx-konami](https://github.com/lauthieb/ngx-konami) - 在 Angular 2+ 应用程序中添加复活节彩蛋的简单指令
+* [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - 库提供工具来处理焦点和可聚焦元素，以改善用户界面和可访问性
 
 #### Layout Components
 
@@ -540,9 +544,9 @@ WebWorker 中的大多数核心 Angular 框架.
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - 根据各种布局类型排列无限卡元素，如 Angular 的砌体.
 * [ng2-card](https://github.com/c-bata/ng2-card) - Angular2 的卡片视图组件
 * [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) 基于 fullPage.js 的 Angular2 全页滚动
-* [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2组件在工作表窗口中添加您的组件并重复
+* [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components 在工作表窗口中添加您的组件并重复
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Angular2的刷卡组件
-* [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop)  - 受 Material Design 启发的轻量级**按钮，用于页面的滚动到顶部**.  _没有依赖关系. 纯 Angular！_（兼容性：Angular 9、Ivy、Universal、`ng add`）
+* [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop)  - 受 Material Design 启发的轻量级**按钮，用于页面滚动到顶部**.  _没有依赖关系. 纯 Angular！_（兼容性：Angular 9、Ivy、Universal、`ng add`）
 * [od-virtualscroll](https://github.com/dinony/od-virtualscroll) Angular 中基于 Observable 的虚拟滚动实现
 
 #### Loaders
@@ -596,7 +600,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [ag-grid](https://www.ag-grid.com/) 纯 Javascript / AngularJS 1.x / AngularJS 2 / Web 组件的高级数据网格
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) 类似 Excel 的数据网格/电子表格
 * [ng2-smart-table](https://github.com/akveo/ng2-smart-table) 具有排序、过滤、分页和添加/编辑/删除功能的智能数据表库.
-* [ng2-table](https://github.com/valor-software/ng2-table) 具有排序、过滤、分页功能的简单表格扩展...适用于 Angular2 应用程序
+* [ng2-table](https://github.com/valor-software/ng2-table) 具有排序、过滤、分页功能的简单表格扩展......适用于 Angular2 应用程序
 * [ngfb-sortable-table](https://github.com/NodeArt/Angular-Firebase-Sortable-Table)  - Angular Firebase 可排序表. 能够使用自己的 firebase 查询工具过滤和排序数据.
 * [ngx-datatable](https://github.com/swimlane/ngx-datatable) 为 Angular2 及更高版本打造的功能丰富但轻量级的数据表！
 * [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - 数据网格、树形网格、分层网格 [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular) 提供excel风格的过滤、实时数据、排序、可拖动行和其他工具栏.
@@ -723,7 +727,7 @@ WebWorker 中的大多数核心 Angular 框架.
 
 * [Angular Seed](https://mgechev.github.io/angular-seed/) Angular 应用程序的种子项目
 * [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) 使用 TypeScript 和 SystemJS 加载器的最小 Angular2 游乐场
-* [Angular Lab](https://github.com/rol和jitsu/angular-lab) 一个简单的 Angular 2+ 设置使用 [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), 以及单元和 e2e 测试 [Travis CI](https://travis-ci.org) 和 [Saucelabs](https://saucelabs.com).
+* [Angular Lab](https://github.com/rol和jitsu/angular-lab) 使用简单的 Angular 2+ 设置 [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), 以及单元和 e2e 测试 [Travis CI](https://travis-ci.org) 和 [Saucelabs](https://saucelabs.com).
 * [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 示例组件
 * [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular-firebase)
 * [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) 基于Angular2的实际例子 [Rails tutorial](https://www.railstutorial.org/).
@@ -751,7 +755,7 @@ WebWorker 中的大多数核心 Angular 框架.
 * [Reboard](https://github.com/ksiabani/reboard) - 带有 ngx-charts 的 Angular 4 + Material 2 入门仪表板，基于 generator-ngx-rocket（Typescript、SASS、Webpack、Jasmine+Karma、Protractor、TSLint、Codelyzer、Stylelint、ngx-translate、Lodash、Angular Flex-Layout）
 * [Angular5 + Redux + Graphql + MySQL quickstart](https://github.com/rafaesc/fullstack-graphql-angular) - 使用 Angular CLI + Redux + Express + GraphQL + Sequelize 的简单全栈 GraphQL 应用程序（支持 MySQL、Postgres、Sqlite 和 MSSQL）.
 * [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + 一个非常好的路由器/模块结构，让你自己的变得如此简单
-* [angular-app-example](https://github.com/daixianceng/angular-app-example) - Angular 最新 + 材料 + sass 主题 + 更漂亮的功能，仪表板应用示例
+* [angular-app-example](https://github.com/daixianceng/angular-app-example) - Angular 最新 + 材质 + sass 主题 + 更多漂亮功能，仪表板应用示例
 * [NG-MATERO](https://github.com/ng-matero/ng-matero) - 这个 Angular 管理模板由 Material 组件组成.
 * [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - 为 Angular 创建开源库的入门项目
 * [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 一个完整的 Angular 10、NgRx、Angular CLI 和 Angular Material 入门项目
@@ -797,7 +801,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad 让您在零安装、零配置的环境中在线玩 Dart.
 * [Dart Organization (GitHub)](https://github.com/dart-lang) Dart 的官方 GitHub 组织
 * [Pub](https://pub.dartlang.org/) Dart 编程语言的软件包存储库.
-* [Dartisans](https://plus.google.com/communities/114566943291919232850) Dart Google+ 官方社区
+* [Dartisans](https://plus.google.com/communities/114566943291919232850) Dart 官方 Google+ 社区
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) Dart Slack 官方频道.
 
 #### Dart Seed Projects
@@ -818,7 +822,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Traceur 的官方 GitHub 存储库
+* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Tracer 的官方 GitHub 存储库
 
 #### Traceur Seed Projects
 
@@ -864,7 +868,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 ### Angular 2 in ES5
 
-&gt; 一种 ECMAScript 语言，包括结构化、动态、功能和基于原型的特性.
+&gt; 一种 ECMAScript 语言，包括结构化、动态、功能性和基于原型的特性.
 
 ##### ES5 General Resources
 
@@ -898,7 +902,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 ##### NativeScript General Resources
 
-* [NativeScript](https://www.nativescript.org/) NativeScript官方网站
+* [NativeScript](https://www.nativescript.org/) NativeScript 官方网站
 * [Using NativeScript](https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
 
 #### NativeScript Seed Projects
@@ -971,7 +975,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 ### Angular 2 components with Bit
 
- &gt; Bit 是一个开源虚拟存储库（代码库），旨在使组件在应用程序中易于管理和使用. 您可以在处理任何项目时将任何 Angular 组件从任何上下文快速导出到分布式范围.  Bit 的可重用组件环境减少了为导出每个新组件而配置构建和测试环境的开销.  Scope 是一个虚拟组件存储库，用于存储、组织、管理和测试您的组件. 一旦在 Scope 上建模，您的组件就可以很容易地在任何 Angular 应用程序中找到和使用. 组件可以组织在一起，并且仍然可以单独修改和使用，而无需拉入整个库.
+ &gt; Bit 是一个开源虚拟存储库（代码库），旨在使组件在应用程序中易于管理和使用. 您可以在处理任何项目时将任何 Angular 组件从任何上下文快速导出到分布式范围.  Bit 的可重用组件环境减少了为导出每个新组件而配置构建和测试环境的开销.  Scope 是一个虚拟组件存储库，用于存储、组织、管理和测试您的组件. 一旦在 Scope 上建模，您的组件就可以在任何 Angular 应用程序中轻松找到和使用. 组件可以组织在一起，并且仍然可以单独修改和使用，而无需拉入整个库.
 
 ##### Bit Resources
 
@@ -983,7 +987,7 @@ Apache Cordova 是一种流行的移动应用程序开发框架，它使用 CSS3
 
 #### Security
 
- * 所以你认为你使用 AngularJS 是安全的吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern 在 2017 年伦敦 OWASP 演讲
+ * 所以你认为你使用 AngularJS 是安全的吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
   #####验证
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
