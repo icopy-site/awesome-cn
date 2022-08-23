@@ -20,7 +20,7 @@
 - [Database .net](http://fishcodelib.com/Database.htm) - 多数据库管理工具，支持 20 多个数据库.
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 用于数据库和 SQL 的跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
-- [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+- [DBeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库管理器和 SQL 客户端.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - 用于 MySQL 和 MariaDB 数据库开发、管理和管理的通用 IDE.
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - 用于 Oracle 管理、管理和开发的强大 IDE.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - 用于管理和开发数据库和对象的 GUI 工具.
@@ -55,7 +55,7 @@
 - [JackDB](https://www.jackdb.com) - 直接 SQL 访问您的所有数据，无论它位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
 - [Malewicz](https://github.com/mgramin/malewicz) - 另一个用于 DB 模式探索和性能分析的 WEB 客户端，但最初是专门为破解和扩展而创建的.
-- [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，具有非技术用户的完整用户权限.
+- [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui)  - 对于 MySQL、MariaDB 和 Tarantool. 为 Linux 开发，但可以在 Windows 上运行.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - 用于数据库管理的 Web 工具.
 - [Pgweb](https://github.com/sosedoff/pgweb) - 基于 Web 的 PostgreSQL 数据库浏览器，用 Go 编写，可在 macOS、Linux 和 Windows 机器上运行.
@@ -115,7 +115,7 @@
 - [pg-osc](https://github.com/shayonj/pg-osc) - 用于在 PostgreSQL 中进行零停机模式更改和回填的简单 CLI 工具.
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明式数据库架构迁移工具，它使用声明式数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供将 PostgreSQL 数据库模式描述为 YAML 的实用程序.
-- [Reshape](https://github.com/fabianlindfors/reshape) - 一个易于使用、零停机时间的 Postgres 架构迁移工具.
+- [Reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
 - [Skeema](https://github.com/skeema/skeema) - MySQL 和 MariaDB 的声明式纯 SQL 模式管理系统，支持分片和外部在线模式更改工具.
 - [Sqitch](https://github.com/sqitchers/sqitch) - 明智的数据库原生变更管理，用于无框架开发和可靠部署.
@@ -124,7 +124,7 @@
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
 
 ### Diagrams
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
@@ -141,6 +141,7 @@
 - [DBDiagram](https://dbdiagram.io) - 一个免费、简单的工具，只需编写代码即可绘制 ER 图.
 - [DbSchema](https://dbschema.com/)  - 通用数据库设计器，用于开箱即用的模式管理、模式文档、团队设计以及在多个数据库上的部署.  DbSchema 具有用于编写和执行查询、探索数据、生成数据和构建报告的工具.
 - [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler)  - 用于高质量数据模型的易于使用的数据库建模软件. 它是面向数据建模师和数据架构师的完整数据建模解决方案.
+- [Moon Modeler](https://www.datensen.com)  - 适用于 noSQL 和关系数据库的数据建模工具. 适用于 Windows、Linux 和 macOS.
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - 一款功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念、逻辑和物理数据模型.
 - [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler 是一个免费的图形工具，可提高生产力并简化数据建模任务.
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - 为 PostgreSQL 设计的数据建模工具.
@@ -178,7 +179,7 @@
 ## Backup
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - PostgreSQL 的备份和恢复管理器.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - 可靠的 PostgreSQL 备份和恢复.
-- [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids).
+- [pgcopydb](https://github.com/dimitri/pgcopydb) - 将 Postgres 数据库复制到目标 Postgres 服务器（pg_dump | pg_restore on steroids）.
 
 ## Cloning
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Postgres 的即时精简克隆以扩展开发过程.
@@ -212,7 +213,7 @@
 - [pg_exporter](https://github.com/Vonng/pg_exporter) - 用于 PostgreSQL 和 Pgbouncer 的完全可定制的 Prometheus 导出器，具有细粒度的执行控制.
 
 ### Zabbix
-- [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
+- [Mamonsu](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 一起使用，为 Oracle 数据库提供多层监控、性能和可用性报告和测量，以及服务器性能指标.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - 这是 PostgreSQL 数据库的 Zabbix 监控模板.
 - [Pyora](https://github.com/bicofino/Pyora) - 用于监控 Oracle 数据库的 Python 脚本.
@@ -281,14 +282,14 @@
 
 ### Analyzers
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - 自动检测常见的 SQL 反模式.
-- [SQLFluff](https://github.com/sqlfluff/sqlfluff) - 方言灵活和可配置的 SQL linter.
+- [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - 用于描述、识别和报告 TSQL 脚本中存在的反模式的工具.
 
 ### Extensions
 - [PartiQL](https://partiql.org) - 对关系、半结构化和嵌套数据的 SQL 兼容访问.
 
 ### Frameworks
-- [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
+- [Apache Calcite](https://calcite.apache.org) - 具有高级 SQL 功能的动态数据管理框架.
 - [ZetaSQL](https://github.com/google/zetasql) - SQL 分析器框架.
 
 ### Formatters
@@ -365,7 +366,7 @@ SQL 的学习和谜题
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，用于快速生成有意义的数据库测试数据.
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
-- [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
+- [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充具有真实测试数据的选定表或整个数据库. 为 Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS 生成测试数据.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.

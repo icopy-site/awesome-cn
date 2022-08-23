@@ -67,7 +67,7 @@
 
 
 ## Database
-* [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - 为关键任务安全和性能而设计的分布式财务会计数据库.
+* [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - 为关键任务安全和性能设计的分布式财务会计数据库.
 * [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) - Redis 的哈希函数不可知 Cuckoo 过滤器.
 * [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) - Redis 6+ 的零分配客户端.
 * [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) - SQLite 绑定.
@@ -113,6 +113,7 @@
 * [tiehuis/zstack](https://github.com/tiehuis/zstack) - 线赛俄罗斯方块模式.
 * [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - 用于游戏和实时计算机图形的线性代数库.
 * [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - 一个吃豆人克隆.
+* [dantecatalfamo/OpenCSE](https://github.com/dantecatalfamo/OpenCSE) - 免费实施 Can&#39;t Stop Express 骰子游戏.
 
 
 ## GUI

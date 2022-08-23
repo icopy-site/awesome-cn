@@ -24,6 +24,7 @@
 * 对于使用网络档案的研究人员：
   * [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) - 也可以看看 [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
   * [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
+  * [Tutorial for Humanities researchers about how to explore Arquivo.pt](https://sobre.arquivo.pt/en/tutorial-for-humanities-researchers-about-how-to-use-arquivo-pt/)
 
 ## Resources for Web Publishers
 
@@ -43,7 +44,7 @@
 
 * [22120](https://github.com/c9fe/22120)  - 一种非 WARC 工具，可连接到 Chrome 浏览器并存档您浏览的所有内容，使其可用于离线重播.  *（开发中）*
 * [ArchiveBox](https://github.com/pirate/ArchiveBox)  - 使用 wget、Chrome 无头和其他方法（以前称为“书签存档器”）维护来自 RSS 提要、书签和链接的附加存档的工具.  *（开发中）*
-* [archivenow](https://github.com/oduwsdl/archivenow) - 一种 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将 Web 资源推送到按需 Web 档案中.  *（稳定的）*
+* [archivenow](https://github.com/oduwsdl/archivenow) - 一个 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将 Web 资源推送到按需 Web 档案中.  *（稳定的）*
 * [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重播网页并将其导出为 WARC 数据. 也可作为基于 Electron 的桌面应用程序使用.
 * [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真抓取系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的抓取.
 * [Brozzler](https://github.com/internetarchive/brozzler)  - 一个分布式网络爬虫（爬虫），它使用真实的浏览器（Chrome 或 Chromium）来获取页面和嵌入的 url 并提取链接.  *（稳定的）*
@@ -68,7 +69,7 @@
 * [twarc](https://github.com/docnow/twarc)  - 用于归档 Twitter JSON 数据的命令行工具和 Python 库.  *（稳定的）*
 * [WAIL](https://github.com/machawk1/wail) - 多个 Web 归档工具之上的图形用户界面 (GUI)，旨在用作任何人保存和重放网页的简便方法； [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail) .  *（稳定的）*
 * [Warcprox](https://github.com/internetarchive/warcprox)  - WARC 编写 MITM HTTP/S 代理.  *（稳定的）*
-* [WARCreate](http://matkelly.com/warcreate/) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/browser/) 用于将单个网页或网站存档到 WARC 文件的扩展名.  *（稳定的）*
+* [WARCreate](http://matkelly.com/warcreate/) - 一个 [Google Chrome](https://www.google.com/intl/en/chrome/browser/) 用于将单个网页或网站存档到 WARC 文件的扩展名.  *（稳定的）*
 * [Warcworker](https://github.com/peterk/warcworker)  - 基于 Squidwarc 的开源、dockerized、排队、高保真 Web 存档器，具有简单的 Web GUI.  *（稳定的）*
 * [Wayback](https://github.com/wabarc/wayback)  - 用于 Internet 存档、archive.today、IPFS 等的快照网页的工具包.  *（稳定的）*
 * [Waybackpy](https://github.com/akamhy/waybackpy) - Python中的Wayback Machine Save、CDX和可用性API接口和一个命令行工具*（稳定）*
@@ -91,7 +92,7 @@
 
 ### Search & Discovery
 
-* [Mink](https://github.com/machawk1/mink) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/) 用于在浏览和集成实时存档的 Web 导航时查询 Memento 聚合器的扩展.  *（稳定的）*
+* [Mink](https://github.com/machawk1/mink) - 一个 [Google Chrome](https://www.google.com/intl/en/chrome/) 用于在浏览和集成实时存档的 Web 导航时查询 Memento 聚合器的扩展.  *（稳定的）*
 * [playback](https://github.com/wabarc/playback) - 用于搜索存档网页的工具包 [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) 超越.  *（开发中）*
 * [SecurityTrails](https://securitytrails.com/)  - WHOIS 和 DNS 记录的基于 Web 的存档. 免费提供 REST API. 
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间的网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
@@ -109,7 +110,7 @@
 * [gowarcserver](https://github.com/nlnwa/gowarcserver) - [BadgerDB](https://github.com/dgraph-io/badger)基于捕获索引 (CDX) 和 WARC 记录服务器，用于索引和提供 WARC 文件 (Go).
 * [har2warc](https://github.com/webrecorder/har2warc) - 转换 HTTP 存档 (HAR) -&gt; Web 存档 (WARC) 格式 (Python).
 * [httpreserve.info](http://httpreserve.info/)  - 返回网页状态或将其保存到 Internet 存档的服务. 通过浏览器或命令行使用 GET（Golang 包）通过 CURL 返回 JSON.  *（稳定的）*
-* [HTTPreserve Workbench](https://github.com/httpreserve/workbench)  - 用于描述以简单 JSON 输出编码的网页状态的工具和 API，描述当前状态，以及 wayback.org 上最早和最新的链接. 将网页保存到 Internet 存档. 审核 URI 列表并输出带有上述数据的 CSV (Golang).  *（开发中）*
+* [HTTPreserve Workbench](https://github.com/httpreserve/workbench)  - 用于描述以简单 JSON 输出编码的网页状态的工具和 API，描述当前状态以及 wayback.org 上最早和最新的链接. 将网页保存到 Internet 存档. 审核 URI 列表并输出带有上述数据的 CSV (Golang).  *（开发中）*
 * [httrack2warc](https://github.com/nla/httrack2warc) - 将 HTTrack 档案转换为 WARC 格式 (Java).
 * [MementoMap](https://github.com/oduwsdl/MementoMap)  - 总结 Web 档案馆藏的工具 (Python).  *（开发中）*
 * [MemGator](https://github.com/oduwsdl/MemGator)  - Memento 聚合器 CLI 和服务器 (Golang).  *（稳定的）*
@@ -161,7 +162,7 @@
 
 ### Curation
 
-* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - 一种 [Zotero](https://www.zotero.org/) 提交到网络档案并从网络档案中读取的扩展. 来源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
+* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - 一个 [Zotero](https://www.zotero.org/) 提交到网络档案并从网络档案中读取的扩展. 资源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
 
 ## Community Resources
 

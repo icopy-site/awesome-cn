@@ -37,7 +37,7 @@
 - [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript 新闻和文章的免费、每周一次的电子邮件汇总. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次的电子邮件通讯，为设计师和开发人员提供有用的提示、技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 一个快速的 JavaScript 提示，每隔一周发送到您的收件箱.
-- [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
+- [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly 是一份专注于工具的前端开发和网页设计时事通讯.
 - [ES.next News](http://esnextnews.com/) . 每周有 5 个 ECMAScript.next 链接，由 Axel Raushmayer 博士和 Johannes Weber 策划.
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 一组很棒的浏览器端 JavaScript 库、资源和闪亮的东西.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 每周最好的 TypeScript 链接，就在你的盒子里.
@@ -100,7 +100,7 @@
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章结合了品牌、艺术和平面设计领域最优秀的现代表达和创新.
 - [Hack Design](https://hackdesign.org) . 一个易于学习的设计课程，适合那些做出了不起的事情的人.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
-- [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
+- [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI Animation Newsletter 让您了解最新的最佳 Web 动画、动作设计和 UX 资源.
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与网络动画和动作设计的精彩世界有关的好东西！
 - [Design Systems News](http://news.design.systems/) . 有关设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
@@ -129,7 +129,7 @@
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) . 接收来自业内人士的每周编程新闻和见解.
 - [Programming Digest](https://programmingdigest.net/) . 面向软件工程师的每周通讯，其中包含前 5 个链接. [Archive](https://programmingdigest.net/digests).
 - [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三的每周电子邮件，其中包含来自的新软件开发技巧 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从 git 到职业，再到 Web 开发，再到个人发展和团队合作.
-- [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
+- [LLVM Weekly](http://llvmweekly.org) . 每周通讯，涵盖 LLVM、Clang 和相关项目的发展.
 - [Discover dev](https://www.discoverdev.io) . 网络上最好的工程博客的每周摘要. [Archive](https://www.discoverdev.io/archive).
 - [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/) . 双周深入的代码审查相关的文章.
 - [Active forks](https://activeforks.net) . 面向开源爱好者的每周通讯，其中包含存储库列表及其最近活跃的分叉.
@@ -194,7 +194,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
 - [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
@@ -337,7 +337,6 @@
 - [Android Weekly](https://androidweekly.net/) . 免费时事通讯，可帮助您在 Android 开发方面保持领先地位.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) . 精选的 Android 软件包和资源列表.
 - [Weekly Xamarin](http://weeklyxamarin.com) .  Xamarin 开发.
-- [Flutter Weekly](https://flutterweekly.net/) .  Flutter 粉丝为 Flutter 粉丝提供的每周时事通讯.
 - [Mobile Developers Cafe](https://mobiledeveloperscafe.com) . 面向移动开发人员的每周通讯 - iOS、Android、Flutter 和 React Native.
 - [Flutter Croissants](https://flutter-croissants.com/) . 每周一接收有关 Flutter 和移动世界的所有新闻.
 - [Flutter Digest](https://flutter-digest.com/) . 关于 Flutter 和 Dart 的每周法语时事通讯.
@@ -374,7 +373,7 @@
 ## Leadership
 
 - [Software Lead Weekly](https://softwareleadweekly.com/) . 关于公司文化、领导力和一般软件构建的有见地的文章.
-- [Tech Lead Digest](https://techleaddigest.net/) . 每周时事通讯，其中包含关于组建团队、领导力和工程文化的五个有趣故事.
+- [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
 
 ## Marketing
 
@@ -403,7 +402,7 @@
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 - [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
-- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
+- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周时事通讯，包含与机器人技术相关的新闻、项目和研究.
@@ -419,6 +418,7 @@
 - [InfoSecSherpa](https://nuzzel.com/InfoSecSherpa) .  10 条信息安全新闻的每日摘要，不一定会引起很多关注.
 - [tl;dr sec](https://tldrsec.com/) . 每周精选最佳安全工具、博客文章和会议演讲，涵盖 AppSec、云和容器安全、DevSecOps 等.
 - [Advisory Week](https://advisoryweek.com/) . 每周电子邮件，其中包含主要软件供应商发布的安全公告摘要.
+- [Shift Security Left](https://shift-security-left.curated.co/) . 面向具有安全意识的开发人员的免费双周通讯，涵盖应用程序安全性、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）对破坏者有用. 与虚构的吉祥物和安全工程师 Felix 一起深入了解安全漏洞的原因、设计防御措施、发明和实施安全控制措施 [@cossacklabs](https://twitter.com/cossacklabs).
 
 ## Miscellaneous
 
