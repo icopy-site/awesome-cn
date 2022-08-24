@@ -42,7 +42,7 @@
 
 - [Falsehoods about Online Shopping](https://wiesmann.codiferes.net/wordpress/archives/22201) - 涵盖价格、货币和库存.
 - [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
-- [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+- [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行帐号不是国际的.
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学并不简单或理性.
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
 - [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司的座位图远比整齐排列的座位要复杂得多.
@@ -64,7 +64,7 @@
 - [The Long, Painful History of Time](http://naggum.no/lugm-time.html) - 计时中的大多数特质都可以在历史中找到解释.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar)  - 你的想法行不通. 这篇文章告诉你为什么.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) - 取消时区听起来可能是个好主意，但有很多复杂情况使其并非如此.
-- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 如果你能提供帮助，一个关于为什么你永远不应该处理时区的视频.
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
 - [\$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) - 错误的日历会计的后果.
 - [RFC-3339 vs ISO-8601](https://ijmacd.github.io/rfc3339-iso8601/) - 来自两个标准的巨大格式列表、它们如何重叠以及实时示例.
 - [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - 日期的字符串格式很难.
@@ -88,8 +88,7 @@
 ## Geography
 
 - [Falsehoods about Geography](https://wiesmann.codiferes.net/wordpress/archives/15187) - 采用地点、名称和位置.
-- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
-- [Falsehoods about Maps Data](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 地缘政治的复杂性需要在数据结构中具体化.
+- [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - 地理空间从业人员关于诊断和修复坐标系常见问题的指南.
 - [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “有一组特殊的汉字，即使是日本人也很难阅读：地名.”
 
@@ -148,7 +147,7 @@
 
 ## Phone Numbers
 
-- [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 涵盖电话号码、它们的表示和含义.
+- [Falsehoods about Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber)  - Google 的通用 Java、C++ 和 JavaScript 库，用于解析、格式化和验证国际电话号码. 也可用于 [C#](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C](https://github.com/iziz/libPhoneNumber-iOS), [Python](https://github.com/daviddrysdale/python-phonenumbers), [Ruby](https://github.com/sstephenson/global_phone) 和 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 ## Postal Addresses

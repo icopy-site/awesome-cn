@@ -76,7 +76,7 @@
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - 为 css 模块检查未定义或未使用的规则.
 - [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) - ESLint 情绪规则.
 - 样式化的组件
-  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
+  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - 自动修复 ESlint 样式化组件的规则.
   - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y 用于样式化组件.
 
 ### Deprecation
@@ -107,9 +107,10 @@
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - React Hooks 的 Linting 规则.
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native 特定的 linting 规则.
   - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux 特定的 linting 规则.
+- [Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) - Solid 和 JSX 的 Linting 规则.
 - [Svelte](https://github.com/sveltejs/eslint-plugin-svelte3) - Svelte v3 组件的 Linting 规则.
 - 见过
-  - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - VueJS 插件.
+  - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - VueJS 的插件.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - VueJS 中的 Scoped CSS 插件.
 
 ### Languages and Environments
@@ -208,7 +209,7 @@
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - 确保 JavaScript 文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - ESLint 的特定于切换案例的 linting 规则.
-- [padding](https://github.com/mu-io/eslint-plugin-padding) - 允许/禁止语句之间的填充.
+- [padding](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 
 ### Testing Tools
 

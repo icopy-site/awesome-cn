@@ -104,7 +104,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方学习而被介绍到编程的学生应该参加这门课程，以获得材料的味道. 如果您完成课程想要更多，计算机科学可能适合您！
+本课程将向您介绍计算机科学的世界. 已经通过上述课程或通过其他地方的学习了解编程的学生应该参加这门课程，以获得材料的味道. 如果您完成课程想要更多，计算机科学可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -114,7 +114,7 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ) |  9 周 |  15 小时/周 | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ) |  9 周 |  15 小时/周 | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
@@ -394,7 +394,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 OSS 大学以项目为中心.
 每门课程的作业和考试都是为了让您准备好利用您的知识解决现实世界的问题.
 
-在您完成所有核心 CS 和高级 CS 中与您相关的部分之后，您应该考虑一个可以使用您所获得的知识解决的问题.
+在你完成了所有核心 CS 和高级 CS 与你相关的部分之后，你应该考虑一个可以使用你所获得的知识来解决的问题.
 真实的项目工作不仅在简历上看起来很棒，而且该项目还将验证和巩固您的知识.
 您可以创建全新的东西，或者您可以通过网站找到需要帮助的现有项目，例如
 [CodeTriage](https://www.codetriage.com/)
@@ -469,7 +469,7 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.

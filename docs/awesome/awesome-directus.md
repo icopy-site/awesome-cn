@@ -19,6 +19,10 @@
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
+## Community Resources
+
+- [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
+
 ## Integration
 
 - [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - JS SDK 为基于 JavaScript 的项目（浏览器和 Node.js）中的 Directus API 提供了一个直观的界面.
@@ -27,6 +31,7 @@
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK 为 Directus API 提供接口.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK 提供对 Directus API 的轻松访问.
 - [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询构建器. 带上你自己的取件.
+- [Nuxtus](https://nuxtus.com) - 提供 Nuxt 样板和工具集，以从 Directus 集合自动创建 Nuxt 页面.
 
 ## Extensions
 
@@ -38,7 +43,7 @@
 - [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) - 将数据同步到搜索引擎索引中，支持 Algolia、ElasticSearch 和 Meil​​iSearch.
 - [Dictionary](https://github.com/georgexchelebiev/directus-dictionary) - 将键值对保存为带有完整性进度指示器的 JSON blob.
 - [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - 支持前缀和后缀的 Slug/Permalink 界面.
-- [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - 将超链接元数据存储到 DirectX.
+- [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - 将超链接元数据存储到 Direct.
 - [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - 将界面字段分组为可以通过按钮打开的模式.
 - [Display Link](https://github.com/jacoborus/directus-extension-display-link) - 使用“在新标签页中打开”按钮显示 URL.
 - [SQL Panel](https://github.com/harish2704/directus-sql-panel) - 将存储的 SQL 查询结果显示为表格的面板组件.
@@ -58,7 +63,7 @@
 
 如果您在开源项目中使用 Directus，非常欢迎您在此处链接该项目.
 
-- [Official Examples](https://github.com/directus/examples) - 与 DirectX 的集成示例.
+- [Official Examples](https://github.com/directus/examples) - 与 Direct 的集成示例.
 
 ## Contributing
 

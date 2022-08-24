@@ -33,6 +33,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - 为使用 Substrate 的有远见的团队提供白手套解决方案和专门的支持团队.
 - [Stack Exchange](https://substrate.stackexchange.com/) - 所有技术问题的最佳场所.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - 为生态系统发展提供资金.
+- [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - 通过对支出提案的投票分配国库资金.
 
 ## Social
 
@@ -95,7 +96,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 ## Client Libraries
 
 - [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - 由维护 [Usetech](https://usetech.com/blockchain/).
-- [.NET Standard API](https://github.com/dotmog/SubstrateNetApi) - 用于 [nuget](https://www.nuget.org/packages/SubstrateNetApi/)， 和 [Unity 3D integration example](https://github.com/darkfriend77/Unity3DExample) ; 维护者 [DOTMog](https://dotmog.com/).
+- [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) - 用于 [nuget](https://www.nuget.org/packages/Ajuna.NetApi/)， 和 [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo) ; 维护者 [Ajuna Network](https://ajuna.io/).
+- [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK)  - Substrate .NET 的工具链. 预生成 [SubstrateNET](https://github.com/ajuna-network/SubstrateNET) ; 维护者 [Ajuna Network](https://ajuna.io/).
 - [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - 从底层元数据生成去（反）序列化/客户端代码.
 - [`sube`](https://github.com/virto-network/sube) - 支持类型信息的轻量级 Rust 客户端库和 CLI.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - 官方 Rust 客户端.
@@ -111,13 +113,15 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Fearless Utils Android](https://github.com/soramitsu/fearless-utils-Android) - Android Substrate 工具.
 - [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS 基板工具.
+- [Nova Substrate SDK Android](https://github.com/nova-wallet/substrate-sdk-android) - 适用于 Android 的 Substrate SDK 和工具.
+- [Nova Substrate SDK iOS](https://github.com/nova-wallet/substrate-sdk-ios) - 适用于 iOS 的 Substrate SDK 和工具.
 - [Polkadot-Dart](https://github.com/Pocket4D/Polkadot-Dart) - 飞镖底物 API.
 - [PolkaWallet SDK](https://github.com/polkawallet-io/sdk) - 基于 Substrate 的应用程序的 Flutter SDK.
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) - React Native 的 Rust 库.
 
 ## Tools
 
-  [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election)，这是一种用于预测提名的股权证明选举的工具.
+- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election)，这是一种用于预测提名的股权证明选举的工具.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - 基材注入 [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 包含 Polkadot{JS} 库的独立 JS 包.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 用于启动本地 Polkadot 测试网络的简单 CLI 工具.
@@ -128,6 +132,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`srtool-cli`](https://github.com/chevdor/srtool-cli) - `srtool` Docker 镜像的 CLI 前端.
 - [`srtool`](https://github.com/paritytech/srtool) - 用于确定性构建运行时的 Docker 映像.
 - [`subsee`](https://github.com/ascjones/subsee) - CLI 以 JSON 格式检查 Substrate 节点的元数据.
+- [`subalfred`](https://github.com/hack-ink/subalfred) - 多合一的 Substrate 开发工具箱.
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - 细分您的 Substrate 帐户的余额.
 - [`substrate-balance-graph`](https://github.com/shawntabrizi/substrate-balance-graph) - 创建一个 Substrate 地址随时间推移的代币余额图表.
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) - 绘制框架托盘的基准输出.
@@ -147,6 +152,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Hydra](https://github.com/Joystream/hydra) - Substrate 节点的 GraphQL 框架.
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为 FRAME Con​​tracts 托盘和墨​​水编写的智能合约测试网！
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 生态系统的零知识工具.
+- [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - 包含静态信息和元数据以支持 Polkadot 生态系统中的客户端应用程序将其映射到各种网络.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC 的 Polkadot 节点监控和警报解决方案，兼容许多 Substrate 链. 
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于使用 Polkadot 和任何 Substrate 链进行开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
@@ -160,15 +166,17 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 用于解析和输出给定 Kusama 或 Polkadot 地址的质押奖励并将其与每日价格数据交叉引用的脚本.
 - [Subkey](https://substrate.dev/docs/en/knowledgebase/integrate/subkey) - 用于处理加密密钥的命令行实用程序.
 - [SubQuery](https://subquery.network) - 一个 GraphQL 索引器和查询服务，允许用户轻松创建索引数据源并免费在线托管它们.
+  - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - 用于操作历史和赌注分析的 SubQuery API 实现.
 - [Subscan](https://www.subscan.io/) - 基于 Substrate 的链的多网络浏览器.
 - [Subsquid](https://subsquid.io) - 一个索引框架（SDK + 基础设施），可快速轻松地将 Substrate 和 EVM 链上数据转换为 API 并托管它们.
-- [Substate](https://github.com/arrudagates/substate) - 100% 无标准/wasm 兼容 Rust 的 Substrate 存储密钥生成器库.
+- [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - 用于调试基于 Substrate 的链的工具和库的集合.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - 一组 Dockerfile 和 GitHub Actions，用于为基于 Substrate 的链自动构建和推送 Docker 映像.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - 用于开发目的的基于 Python 的水龙头.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - 基于 Substrate 的链的 GraphQL 索引器.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - 用于离线交易创建的有用库.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Visual Studio 代码插件.
+- [Polkaholic.io](https://polkaholic.io) - 多链区块浏览器，支持 40 多个平行链的 API 和 DeFi.
 
 ## Products and Services
 
@@ -184,8 +192,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [AssemblyScript](https://github.com/LimeChain/as-scale-codec) - 由 LimeChain 维护.
 - [C](https://github.com/MatthewDarnell/cScale) - 由马修达内尔维护.
-- [C++](https://github.com/soramitsu/scale-codec-cpp) --由Soramitsu维护.
-- [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - Official codec documentation.
+- [C++](https://github.com/soramitsu/scale-codec-cpp) -由Soramitsu维护.
+- [Codec Definition](https://docs.substrate.io/v3/advanced/scale-codec/) - 官方编解码器文档.
 - [Go](https://github.com/itering/scale.go) - 由维护 [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - 由维护 [Robonomics Network](https://robonomics.network/).
 - [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - 由维护 [Emerald](https://emerald.cash/).
@@ -197,4 +205,4 @@ Substrate 是一个构建可升级、模块化和高效的框架
   - [paritytech/parity-scale-codec-ts](https://github.com/paritytech/parity-scale-codec-ts) - 由 Parity Technologies 维护.
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.
   - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - 由 Josep M Sobrepere 维护.
-  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) --由Soramitsu维护. 
+  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) -由Soramitsu维护. 

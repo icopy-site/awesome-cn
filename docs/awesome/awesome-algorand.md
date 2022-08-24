@@ -39,7 +39,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Pera Wallet](https://github.com/perawallet)  - 用于移动设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的 Web 钱包和 JS 库.
-- [AlgoSigner](https://github.com/PureStake/algosigner) - 用于在浏览器中签署交易的浏览器插件 Web Wallet 和 JS 库.
+- [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件 Web Wallet 和 JS 库，用于在浏览器中签署交易.
 - [Method Wallet](https://methodwallet.app/) - 你会喜欢的 Algorand 钱包.
 
 ## Blockchain Explorers
@@ -84,6 +84,10 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 &gt; 很棒的客户端库、工具和社区实用程序，按实现语言排序.
 
+### C/C++
+
+- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
+
 ### Dart
 
 - [dart-algorand-sdk](https://pub.dev/packages/algorand_dart) - Dart Algorand SDK.
@@ -113,7 +117,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - Algorand JavaScript SDK 和示例.
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 - [algo-builder](https://github.com/scale-it/algo-builder) - 自动开发 Algorand 资产和智能合约的框架.
-- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Algo Builder 的 Dapps 模板.
+- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - 用于 Algo Builder 的 Dapps 模板.
 - [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapp（打字稿）的更简单的 Algo sdk.
 - [perawallet-connect](https://github.com/perawallet/connect) - 用于将 Pera Wallet 集成到 Web 应用程序的 JavaScript SDK.
 
@@ -136,9 +140,9 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorand-wallet](https://github.com/algorand/algorand-wallet) - Swift 中的 Algorand 钱包官方实现.
 - [swift-algorand-sdk](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - 用于与 Algorand 区块链交互的 Swift SDK.
 
-### Vertices
+### Ruby
 
-- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
+- [TEALrb](https://github.com/joe-p/TEALrb) - 用于编写 Algorand 智能合约的 Ruby DSL.
 
 ## IDEs
 
@@ -245,8 +249,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [TinyBar App](https://tinybar.app) - 一个小型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
-- [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
-- [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的批量铸币 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
+- [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand Realm 的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
+- [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的散装 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand Vanity 地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 编写的 Algorand 虚地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.

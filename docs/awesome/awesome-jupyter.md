@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="markusschanta/awesome-jupyter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkusschanta%2Fawesome-jupyter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 精选列表 [Jupyter](http://jupyter.org) 项目、图书馆和资源.  Jupyter 是一个开源 Web 应用程序，可让您创建和共享包含实时代码、方程式、可视化和叙述性文本的文档.
 
@@ -25,8 +25,8 @@
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Jupyter 的多用户服务器.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab 是 Jupyter 的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
-- [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 镜像.
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - Docker 映像，包括 Jupyter(Lab) 和用于数据科学/机器学习的各种包.
+- [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 映像.
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 包含 Jupyter(Lab) 和用于数据科学/机器学习的各种软件包的 Docker 映像.
 - [nteract](https://github.com/nteract/nteract) - 本机桌面笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) - 本机桌面笔记本前端.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - 本机桌面笔记本前端.
@@ -34,7 +34,7 @@
 
 ## Collaboration/Education
 
-- [callgraph](https://github.com/osteele/callgraph) - 显示函数调用图的魔术.
+- [callgraph](https://github.com/osteele/callgraph) - 显示函数调用图的魔法.
 - [IllumiDesk](https://github.com/IllumiDesk/illumidesk) - 基于 Docker 的 JupyterHub + LTI + nbgrader 教育分发版.
 - [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) - 在 Jupyter 中使用彩色网格练习 Python.
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - 用于 Jupyter 的 Google 驱动器.
@@ -56,7 +56,7 @@
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 在 Jupyter 中使用 cytoscape.js 进行交互式图形可视化的小部件.<!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.<!--lint enable double-link-->
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中 Leaflet.js 地图的交互式可视化库.
-- [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可设置样式的数据网格.
+- [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Jupyter 的树 UI 元素.
@@ -113,7 +113,7 @@
 - [git](https://github.com/jupyterlab/jupyterlab-git) - git 集成的扩展.
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Jupyter Notebooks 中的依赖管理和优化.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于区分和合并 Jupyter 笔记本的工具.
-- [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准 Python 代码质量工具.
+- [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准的 Python 代码质量工具.
 - [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - 版本、管理和共享项目中的笔记本检查点.
 - [ReviewNB](https://www.reviewnb.com/) - Jupyter Notebooks 的代码审查.
 
@@ -173,7 +173,7 @@
 - [GenePattern Notebook](http://genepattern-notebook.org) - 将基因组分析与交互式笔记本相结合.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - 探索性地理空间分析的扩展.
 - [Jupylet](https://github.com/nir/jupylet) - 在 Jupyter 笔记本中以交互方式创建 2D 和 3D 游戏、图形、现场音乐和声音.
-- [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - 用于大规模地理定位数据集的视觉探索的 Jupyter 扩展.
+- [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - Jupyter 扩展，用于大规模地理定位数据集的可视化探索.
 - [lolviz](https://github.com/parrt/lolviz) - 用于列表、列表、字典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - 基于 Jupyter 的金融研究平台.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - 在 Jupyter 笔记本中运行的 VPython 3D 引擎.
@@ -203,7 +203,7 @@
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) - 可用作 Jupyter 内核的所有编程语言的列表.
 - [JupyterLab documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
-- [Try Jupyter](https://try.jupyter.org) - 在您的浏览器中试用 Jupyter.
+- [Try Jupyter](https://try.jupyter.org) - 在浏览器中试用 Jupyter.
 
 ## Community Resources
 
@@ -212,7 +212,7 @@
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用 Jupyter 的大学机构地图.
-- [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、热门项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
+- [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、趋势项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - 派皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
 是 Jupyter 项目的 PyPI 宝库分类器.
