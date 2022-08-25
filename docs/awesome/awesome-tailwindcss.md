@@ -36,7 +36,7 @@
 - [Repository](https://github.com/tailwindcss/tailwindcss) - 官方 Tailwind CSS 存储库.
 - [Discussions](https://github.com/tailwindcss/tailwindcss/discussions) - 与其他社区成员就 Tailwind 进行联系的官方场所.
 - [Tailwind UI](https://tailwindui.com) - 使用 Tailwind CSS 制作的组件库.
-- [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全没有样式，完全可访问的 UI 组件.
+- [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全无样式、完全可访问的 UI 组件.
 - [Heroicons](https://heroicons.com/) - 精美的手工 SVG 图标.
 - [Play](https://play.tailwindcss.com/) - Tailwind CSS 的高级在线游乐场.
 - [Just-in-time](https://github.com/tailwindlabs/tailwindcss-jit) - Tailwind CSS 的即时编译器.
@@ -99,7 +99,7 @@
 - [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
 - [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - 添加 `grid-areas` 和 `grid-area` 实用程序.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
-- [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以仅对某些语言使用实用程序.
+- [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以便仅对某些语言使用实用程序.
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加匹配嵌套边界半径的变体.
 - [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 - [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 为样式列表和`提供实用程序<summary> ` 标记.
@@ -240,7 +240,7 @@
 **Legend**：官方资源·库·组件·模板
 
 - [Tailwind UI](https://tailwindui.com) - 使用 Tailwind CSS 制作的组件库.
-- [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全没有样式，完全可访问的 UI 组件.
+- [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全无样式、完全可访问的 UI 组件.
 - [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - 使用 Tailwind CSS 的 Vue.js UI 库.
 - [Tailwind Elements](https://tailwind-elements.com/) - 大量免费组件，得益于 Bootstrap 5，移动设备友好.
 - [Vechai UI](https://www.vechaiui.com/) - 使用 Tailwind CSS 的内置深色模式的高质量可访问 React 组件.
@@ -343,8 +343,9 @@
 - [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) - 使用 Tailwind CSS 和 Alpine JS 的仪表板布局.
 - [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - 使用 Jekyll 和 Tailwind CSS 的生产就绪、SEO 友好、高性能登陆网站样板.
 - [Next JS Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Next.js 和 Tailwind CSS 的样板.
-- [Vitailse](https://github.com/zynth17/vitailse) - 带有 Vue 3、TypeScript 和 Tailwind CSS 的 Opinionated Vite 入门模板.
+- [Vitailse](https://github.com/zynth17/vitailse) - 带有 Vue 3、TypeScript 和 Tailwind CSS 的自以为是的 Vite 入门模板.
 - [Vite-Boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse 模板.
+- [AstroWind](https://github.com/onwidget/astrowind) - 生产就绪且对 SEO 友好的模板，用于使用 Astro 和 Tailwind CSS 启动网站.
 
 ## Open-Source Projects
 

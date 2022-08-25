@@ -26,7 +26,7 @@ Fiber 框架中包含的中间件列表.
 - [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - 防止 CSRF 漏洞利用.
 - [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - 加密中间件，加密 cookie 值.
 - [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件让缓存更高效并节省带宽，因为如果内容没有更改，Web 服务器不需要重新发送完整响应.
-- [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - 通过其 HTTP 服务器运行时提供服务的 Expvar 中间件以 JSON 格式公开变体.
+- [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
 - [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - 如果提供了文件路径，则忽略日志中的网站图标或从内存中提供服务.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - 用于 Fiber 的 FileSystem 中间件，特别感谢 Alireza Salary.
 - [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter)  - 限速中间件. 用于限制对公共 API 和/或端点的重复请求，例如密码重置.
@@ -50,7 +50,7 @@ Fiber 框架中包含的中间件列表.
 - [rewrite](https://github.com/gofiber/rewrite)  - 重写中间件根据提供的规则重写 URL 路径. 它有助于向后兼容或只是创建更清晰和更具描述性的链接.
 - [storage](https://github.com/gofiber/storage) - 实现 Storage 接口的预制存储驱动程序，旨在与各种 Fiber 中间件一起使用.
 - [template](https://github.com/gofiber/template) - 此软件包包含 8 个模板引擎，可用于 Fiber v1.10.x Go 版本 1.13 或更高版本.
-- [websocket](https://github.com/gofiber/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
+- [websocket](https://github.com/gofiber/websocket) - 基于Fasthttp WebSocket for Fiber，支持Locals！
 
 ### ‍💻 Contrib
 由 Fiber 团队和社区维护的第三方中间件列表.
@@ -82,6 +82,7 @@ Fiber 社区创建的中间件列表.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - 用于光纤的 LDAP 身份验证中间件.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC，可作为中间件替代 Varnish.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制工作证明挑战的反 DDoS/Bot 中间件.
+- [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 为光纤提供 OPA 中间件集成.
 
 
 ## 🚧 Boilerplates
