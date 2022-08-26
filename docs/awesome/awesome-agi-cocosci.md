@@ -46,6 +46,8 @@
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)  - ***自然***.  Nature 官方摘要撰写指南.
 
+* [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***，2020 年. Nature 向老手和初学者讲述他们为使评论歌唱而做的工作.
+
 * [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)  - ***自然***. 撰写科学论文的自然指南.
 
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入具有可重复性保证的机器学习算法的指南.
@@ -119,7 +121,7 @@
 
 * [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于溯因的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于其将新思想引入当前知识的潜力.
 
-* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的规范应用.
+* [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的典型应用.
 
 * [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/)  - ***柏拉图斯坦福***. 关于科学还原的计算哲学帐户，它与解释没有明确的界限.
 
@@ -765,7 +767,7 @@
 
 * [An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=37732747764322837&hl=en&as_sdt=0,5)].
 
-* [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15299280949648915581&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对作为一般生产系统的槽注意力模型的看法.
+* [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15299280949648915581&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对作为通用生产系统的槽注意力模型的看法.
 
 * [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15612498612943317331&hl=en&as_sdt=0,5)].
 
@@ -956,7 +958,7 @@
 
 * [The psychology of virtual reality](https://psycnet.apa.org/record/2022-60836-006) - ***技术心理学：大数据时代的社会科学研究（第 155-193 页），美国心理学会***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=11535480055596209683&hl=en&as_sdt=0,5&as_ylo=2021) ].  Jeremy Bailenson 对虚拟现实在行为研究中的应用的评论.
 
-* [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***媒体心理学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5) ]. 一项关于技术需要在多大程度上具有沉浸感才能产生存在感的元分析.
+* [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***媒体心理学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5) ]. 一项关于技术需要在何种程度上具有沉浸感以产生存在感的元分析.
 
 
 ### Meta-Level Considerations
@@ -1014,7 +1016,7 @@
 
 * [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)  - ***柏拉图斯坦福***. 关于有限理性的计算哲学解释，这是人类智能在心理学和生态学中的基本假设.
 
-* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 关于工具理性的计算哲学解释，关于代理人的决定是有意做出还是出于理性连贯性的说法.
+* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 一种关于工具理性的计算哲学解释，一种关于代理人的决定是有意还是出于理性连贯性的说法.
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
 
@@ -1122,9 +1124,9 @@
 <span id = "anl"></span>
 ### Analogy
 
-* [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图斯坦福***. 关于隐喻的计算哲学解释，一种诗意或修辞上雄心勃勃的词语使用，一种比喻而不是文字的使用.
+* [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图斯坦福***. 一种计算哲学对隐喻的描述，一种诗意或修辞上雄心勃勃的词语使用，一种比喻而不是文字的使用.
 
-* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种计算哲学对类比的解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
+* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图斯坦福***. 一种关于类比的计算哲学解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=) ]. 关于隐喻的认知帐户.
 
@@ -1250,7 +1252,7 @@
 
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - *** ACM 通讯***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5) ]. 首次尝试从人类知识中构建大规模的常识知识库.
 
-* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
+* [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - *** AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5) ]. 第一次尝试从人类在互联网上的活动中获取常识性知识.
 
 * [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM 联合国际会议&#39;02***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)].
 
@@ -1268,7 +1270,7 @@
 
 * [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 一阶模型理论的计算哲学帐户，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，就都是超一致的.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致性逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，都是超一致性的.
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图斯坦福***. 关于逻辑结果的计算哲学帐户，它是关于有效论证中前提和结论之间的关系.
 
@@ -1345,7 +1347,7 @@
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图斯坦福***. 一种关于逻辑和本体的计算哲学解释，主要是关于逻辑和本体在许多重要哲学问题中的交叉点.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的嘲弄进行了解释，该假设提出思考发生在一种心理语言中.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的笑声进行了解释，该假设提出思考发生在一种心理语言中.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
 
@@ -1359,15 +1361,15 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，它是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对“这是必要的”和“有可能的”表达的演绎行为的研究.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学帐户，它是对表达式“有必要”和“有可能”的演绎行为的研究.
 
-* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 认识逻辑的计算哲学帐户，这是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
+* [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 关于认识逻辑的计算哲学帐户，它是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
 
 * [Epistemic Modal Logic](https://en.wikipedia.org/wiki/Epistemic_modal_logic) - ***维基百科***.
 

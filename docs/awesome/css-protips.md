@@ -173,7 +173,7 @@ H/T 感谢 Adam Argyle 分享了这个 protip 和 [demo](https://codepen.io/argy
 
 ### Set `:focus` for Form Elements
 
-有视力的键盘用户依靠焦点来确定键盘事件在页面中的位置. 让表单元素的焦点突出并保持一致，然后是浏览器的默认实现：
+有视力的键盘用户依靠焦点来确定键盘事件在页面中的位置. 使表单元素的焦点比浏览器的默认实现更加突出和一致：
 
 ```css
 a:focus,

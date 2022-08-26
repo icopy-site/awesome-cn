@@ -566,7 +566,7 @@
 * [reckless](https://github.com/mattiasflodin/reckless)  - 用于 C++ 的低延迟、高吞吐量、异步日志库.  [麻省理工学院]
 * [spdlog](https://github.com/gabime/spdlog) - 超快，仅标头，C++ 日志库.
 * [templog](http://www.templog.org/)  - 一个非常小且轻量级的 C++ 库，可用于将日志记录添加到 C++ 应用程序.  [促进]
-* [P7Baical](http://baical.net/p7.html)  - 一个开源和跨平台库，用于高速发送遥测和跟踪数据，CPU 和内存使用最少.  [LGPL]
+* [P7Baical](http://baical.net/p7.html)  - 一个开源和跨平台的库，用于高速发送遥测和跟踪数据，同时占用最少的 CPU 和内存.  [LGPL]
 * [Quill](https://github.com/odygrd/quill)  - 异步跨平台低延迟日志库.  [麻省理工学院]
 
 ## Machine Learning
@@ -599,7 +599,7 @@
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code)  - 用于线性代数和科学计算的快速 C++ 库.  [阿帕奇2] [website](http://arma.sourceforge.net/)
 * [autodiff](https://github.com/autodiff/autodiff)  - 用于自动区分的现代、快速和富有表现力的 C++ 库.  [麻省理工学院] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze)  - 用于密集和稀疏算术的高性能 C++ 数学库.  [BSD]
-* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  - 在 C++ 中提供更高范围/精度的整数、有理数和浮点类型，仅标头或带有 GMP/MPFR/LibTomMath 后端.  [促进]
+* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  - 在 C++ 中提供更高范围/精度的整数、有理数和浮点类型、仅标头或带有 GMP/MPFR/LibTomMath 后端.  [促进]
 * [ceres-solver](http://ceres-solver.org/)  - 用于建模和解决来自谷歌的大型复杂非线性最小二乘问题的 C++ 库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)  - 收集高效可靠的几何算法.  [LGPL&amp;GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)  - 用于游戏和图形的免费 C++ 数学库.  [促进]
@@ -621,7 +621,7 @@
 * [linmath.h](https://github.com/datenwolf/linmath.h)  - 一个精益线性数学库，针对图形编程.  [WTFPL]
 * [lp_solve](https://sourceforge.net/projects/lpsolve)  - 用于制定和解决线性规划问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS)  - 基于 GotoBLAS2 1.13 BSD 版本的优化 BLAS 库.  [BSD 3 条款] [website](http://www.openblas.net/)
-* [PCG-rand](https://www.pcg-random.org/)  - PCG 是一系列用于随机数生成的简单快速、节省空间、统计良好的算法. 与许多通用 RNG 不同，它们也很难预测.  [阿帕奇]
+* [PCG-rand](https://www.pcg-random.org/)  - PCG 是一系列用于随机数生成的简单快速、节省空间的统计良好算法. 与许多通用 RNG 不同，它们也很难预测.  [阿帕奇]
 * [QuantLib](https://github.com/lballabio/quantlib)  - 一个免费/开源的量化金融库.  [修改后的 BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats)  - 一个只有 C++ 头文件的统计分布函数库.  [阿帕奇2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine)  - 快速符号操作库，用 C++ 重写 SymPy 的核心.  [麻省理工学院]
@@ -968,7 +968,7 @@
 * [coliru](http://coliru.stacked-crooked.com/) - 支持各种 C++ 编译器的在线编译器/shell.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有可用汇编输出的交互式编译器.
 * [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - 在 Linux 上在线编译和执行 C++.
-* [Ideone](http://ideone.com/) - 一个在线编译器和调试工具，可让您以 60 多种编程语言编译源代码并在线执行.
+* [Ideone](http://ideone.com/) - 一个在线编译器和调试工具，可让您以 60 多种编程语言编译和在线执行源代码.
 * [repl.it](https://repl.it) - 一个强大而简单的工具和平台，适用于教育工作者、学习者和开发人员.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多种编译器（Clang、GCC、MSVC）和多种编辑器.
 * [Try It Online](https://tio.run/) - TIO 是一个在线解释器系列，用于不断增长的实用和娱乐编程语言列表.
@@ -1054,6 +1054,7 @@
 * [IKOS](https://github.com/NASA-SW-VnV/ikos)  - 基于抽象解释理论的 C/C++ 静态分析器.  [NOSA 1.3]
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
 * [OptView2](https://github.com/OfekShilon/optview2) - 检查错过的 Clang 优化
+* [Trunk](https://trunk.io) - 检查、测试、合并和监控代码的工具包. 
 
 ## Coding Style Tools
 

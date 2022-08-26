@@ -30,7 +30,7 @@
 - [react-directus](https://github.com/gremo/react-directus) - 一组用于 Directus Headless CMS 的 React 组件和实用程序.
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK 为 Directus API 提供接口.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK 提供对 Directus API 的轻松访问.
-- [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询构建器. 带上你自己的取件.
+- [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询构建器. 带上你自己的取物.
 - [Nuxtus](https://nuxtus.com) - 提供 Nuxt 样板和工具集，以从 Directus 集合自动创建 Nuxt 页面.
 
 ## Extensions
@@ -57,7 +57,7 @@
 
 ## Tools
 
-- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate) - 一个 CLI，用于根据真实实例中的更改自动生成 Directus 迁移.
+- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate)  - 一个 CLI，用于根据真实实例中的更改自动生成 Directus 迁移.  （不再维护，功能添加到核心）
 
 ## Examples / Showcases
 
