@@ -294,7 +294,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [port_midi](https://github.com/jimm/crystal_port_midi) - PortMIDI 跨平台 MIDI I/O 库的 Crystal C 绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 重试失败代码块的简单 DSL
  * [serf-handler.cr](https://github.com/wyhaines/serf-handler.cr) - 用于构建 Serf 处理程序的框架，具有一套有用​​的内置功能
- * [simple_retry](https://github.com/spider-gazelle/simple_retry) - Simple tool for retrying failed code blocks
+ * [simple_retry](https://github.com/spider-gazelle/simple_retry) - 重试失败代码块的简单工具
  * [sslscan.cr](https://github.com/NeuraLegion/sslscan.cr) - 包裹 rbsec/sslscan 实用程序的水晶碎片
  * [version_tools](https://github.com/anicholson/crystal-version-tools) - 版本相关的行为，在编译时指定
  * [wafalyzer](https://github.com/NeuraLegion/wafalyzer) - Web 应用程序防火墙 (WAF) 检测器 - shard + cli
@@ -313,6 +313,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
  * [jwt](https://github.com/crystal-community/jwt) - JWT（JSON Web Token）的实现
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS 服务发现和多播 DNS
+ * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - 一个快速轻量级的 MQTT 客户端
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - 消息包库
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth 消费者（水晶标准库）
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 客户端（水晶标准库）
@@ -447,7 +448,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且内聚的 Web 应用程序框架
  * [Athena](https://github.com/athena-framework/athena) - 由可重用的独立组件组成的 Web 框架
- * [grip](https://github.com/grip-framework/grip) - 用于编写强大的 Web 应用程序的微框架
+ * [grip](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
  * [kemal](https://github.com/kemalcr/kemal)  - 闪电般快速、超级简单的 Web 框架. 灵感来自辛纳屈
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上，而不是调试和编写测试
  * [runcobo](https://github.com/runcobo/runcobo) - 一个简单、直观、一致的 DSL 的 api 框架，使用 jbuilder 渲染 json
@@ -513,7 +514,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Editor Plugins
  * 极致：
-   * [acmecrystal](https://github.com/ilanpillemer/acmecrystal) - 在 acme 中重新格式化水晶代码
+   * [acmecrystal](https://github.com/ilanpillemer/acmecrystal) - 在 acme 中改革水晶代码
  * 原子
    * [crystal-tools](https://atom.io/packages/crystal-tools) - 在 Crystal 编译器中启用内置工具
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) - Atom 中的水晶语言支持
@@ -527,7 +528,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 高亮文本的水晶语法高亮
  * 文本伴侣
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) - Crystal 语法高亮、编译、格式化命令、片段
- * 维姆
+ * 为什么
    * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - 对 Crystal 的 Vim 文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) - 俚语模板引擎的 Vim 文件类型支持
  * 视觉工作室代码

@@ -26,7 +26,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - 使用对象逻辑的高阶抽象语法表示进行推理的系统.
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 实现和验证查询编译器的平台.
-- [VCFloat2](https://github.com/VeriNum/vcfloat) - 使用浮点计算验证 C 程序的框架.
+- [VCFloat](https://github.com/VeriNum/vcfloat) - 使用浮点计算验证 C 程序的框架.
 - [Verdi](https://github.com/uwplse/verdi) - 正式验证分布式系统实现的框架.
 - [VST](https://vst.cs.princeton.edu) - 用于在高阶并发、强制分离逻辑中验证 Coq 中的 C 代码的工具链，该逻辑与 CompCert 编译器的 Clight 语言相得益彰.
 
@@ -88,7 +88,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架，提供广泛的 API 来实现命令和策略.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤子工具，它结合了从以前的证明中学习与将问题转换为自动证明者和重建找到的证明.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
-- [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现有关浮点运算和舍入误差的目标的策略.
+- [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现有关浮点算术和舍入误差的目标的策略.
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - 用于基于打包类声明 Coq 层次结构的命令集合.
 - [Itauto](https://gitlab.inria.fr/fbesson/itauto) - 类似 SMT 的策略，用于关于函数符号、构造函数和算术的组合命题推理.
 - [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) - 类似于 Coq 的经典 Ltac 语言的实验类型策略语言.
@@ -117,7 +117,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
   - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
   - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
   - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提升许多白话命令和内部引理.
-  - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释，以便更快地进行并行证明.
+  - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释以加快并行证明.
 - [Cosette](https://github.com/uwdb/Cosette) - 用于推理 SQL 查询等价的自动求解器.
 - [hs-to-coq](https://github.com/plclub/hs-to-coq) - 从 Haskell 代码转换为等效的 Coq 代码.
 - [lngen](https://github.com/plclub/lngen) - 用于生成本地无名 Coq 定义和证明的工具.
@@ -185,6 +185,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
 - [Coq tag on Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq)
 - [Coq tag on Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/questions/tagged/coq)
+- [Coq keyword on Zenodo](https://zenodo.org/search?q=keywords%3A%22Coq%22)
 - [coq-community package maintenance project](https://github.com/coq-community/manifesto)
 - [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki)
 - [100 famous theorems proved using Coq](https://github.com/coq-community/coq-100-theorems)
@@ -207,13 +208,13 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 ### Books
 
 - [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/) - 第一本致力于 Coq 的书.
-- [Software Foundations](https://softwarefoundations.cis.upenn.edu) - 一系列基于 Coq 的关于逻辑、函数式编程和编程语言基础的教科书，旨在为初学者提供便利.
+- [Software Foundations](https://softwarefoundations.cis.upenn.edu) - 一系列基于 Coq 的关于逻辑、函数式编程和编程语言基础的教科书，旨在让初学者可以使用.
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) - 关于 Coq 实用工程的教科书，它教授高级实用技巧和非常具体的证明风格.
 - [Program Logics for Certified Compilers](https://www.cs.princeton.edu/~appel/papers/plcc.pdf) - 解释如何使用分离逻辑构造程序逻辑的书，并附有适用于 Clight 编程语言和其他示例的 Coq 形式模型.
 - [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - 同时提供关于程序正确性的形式逻辑推理的一般介绍以及为此目的使用 Coq 的书.
 - [Programs and Proofs](https://ilyasergey.net/pnp/) - 这本书对 Coq 中的交互式证明进行了简短且实用的介绍，强调了通过 SSReflect 证明语言中的一小部分原语对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - 描述如何使用 Flocq 库在 Coq 中正式指定和验证浮点算法的书.
-- [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向数学倾向用户的书籍，重点介绍数学组件库和 SSReflect 证明语言.
+- [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向数学倾向用户的书籍，侧重于数学组件库和 SSReflect 证明语言.
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - 涵盖使用 Coq 的计算逻辑主题的书籍，包括基础、规范案例研究和实用编程.
 - [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于 Kirby 和 Paris 的 hydra 战斗以及 Coq 中其他有趣的形式化数学的持续进行中的书籍，包括库代码和练习.
 
@@ -221,7 +222,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑推理 Coq 中的顺序命令式程序.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
-- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2020/) - 介绍使用 Coq 开发和验证程序.
+- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - 介绍使用 Coq 开发和验证程序.
 
 ### Tutorials and Hints
 

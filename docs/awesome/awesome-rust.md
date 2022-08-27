@@ -17,12 +17,13 @@ Rust 代码和资源的精选列表.
 也可以看看 [Rust — Production](https://www.rust-lang.org/production) 在生产中运行 Rust 的组织.
 
 * [alacritty](https://github.com/alacritty/alacritty) — 一个跨平台、GPU 增强的终端仿真器
-* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 rust 编写的交互式程序集 shell.
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 rust 编写的交互式程序集外壳.
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间 WireGuard VPN 实施 [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 * [datafusion](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion 和 Ballista 查询引擎
 * [denoland/deno](https://github.com/denoland/deno) — 使用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [![build badge](https://api.travis-ci.org/snowplow/factotum.svg?branch=master)](https://travis-ci.org/snowplow/factotum)
 * [fcsonline/drill](https://github.com/fcsonline/drill) — 受 Ansible 语法启发的 HTTP 负载测试应用程序 [![build badge](https://api.travis-ci.org/fcsonline/drill.svg?branch=master)](https://travis-ci.org/fcsonline/drill)
+* [fend](https://github.com/printfn/fend) - 任意精度单位感知计算器 [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 * [Fractalide](https://github.com/fractalide/fractalide) — 简单的 Rust 微服务
 * [habitat](https://github.com/habitat-sh/habitat) — Chef 创建的用于构建、部署和管理应用程序的工具.
 * [Herd](https://github.com/imjacobclark/Herd) — 一个实验性的 HTTP 负载测试应用程序
@@ -130,7 +131,7 @@ Rust 代码和资源的精选列表.
   * [mohanson/gameboy](https://github.com/mohanson/gameboy)  — 全功能跨平台 GameBoy 模拟器. 永远的男孩！
   * [mvdnes/rboy](https://github.com/mvdnes/rboy) — [![build badge](https://api.travis-ci.org/mvdnes/rboy.svg?branch=master)](https://travis-ci.org/mvdnes/rboy)
 * 游戏机前进
-  * [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) 支持. [![build badge](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
+  * [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng 是一款 Gameboy Advance 模拟器，具有桌面、Android 和 [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) 支持. [![build badge](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
 * Intel 8080 CPU
   * [mohanson/i8080](https://github.com/mohanson/i8080) — Rust 的 Intel 8080 cpu 模拟器
 * 因为
@@ -152,7 +153,7 @@ Rust 代码和资源的精选列表.
 * [mara214/rsnake](https://github.com/mara214/rsnake) — 用 Rust 编写的 Snake.
 * [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) — 一款小型 2D 回合制六角策略游戏 [![build badge](https://api.travis-ci.org/ozkriff/zemeroth.svg?branch=master)](https://travis-ci.org/ozkriff/zemeroth)
 * [rhex](https://github.com/dpc/rhex) — 六边形 ascii roguelike
-* [rsaarelm/magog](https://github.com/rsaarelm/magog) — Rust 中的 roguelike 游戏
+* [rsaarelm/magog](https://github.com/rsaarelm/magog) — A roguelike game in Rust
 * [SoftbearStudios/mk48](https://github.com/SoftbearStudios/mk48) — Mk48.io 是一款在线多人海战游戏
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) — 推箱子的实现
 * [thetawavegame/thetawave-legacy](https://github.com/thetawavegame/thetawave-legacy) - 一款太空射击游戏，力求成为新游戏开发者做出首次贡献的切入点. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
@@ -176,7 +177,7 @@ Rust 代码和资源的精选列表.
 
 ### Industrial automation
 
-* [locka99/opcua](https://github.com/locka99/opcua) — 纯锈 [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) 图书馆.
+* [locka99/opcua](https://github.com/locka99/opcua) — A pure rust [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/) 图书馆.
 * [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) - 一个 [tokio](https://tokio.rs)-based [modbus](https://modbus.org) 图书馆. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
 ### Observability
@@ -184,7 +185,7 @@ Rust 代码和资源的精选列表.
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) — 高性能可扩展 StatsD 兼容服务器.
 * [OpenTelemetry](https://crates.io/crates/opentelemetry)  — OpenTelemetry 提供一组 API、库、代理和收集器服务，以从您的应用程序中捕获分布式跟踪和指标. 您可以使用 Prometheus、Jaeger 和其他可观察性工具来分析它们. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
 * [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - 用于日志管理的云原生且极具成本效益的搜索引擎. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
-* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并支持设计系统和应用程序以提高可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
+* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并使设计系统和应用程序更具可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) — 高性能、日志、指标和事件路由器.
 
 ### Operating systems
@@ -258,7 +259,7 @@ Rust 代码和资源的精选列表.
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
 * [pueue](https://github.com/nukesor/pueue) — 管理您长时间运行的 shell 命令. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
-* [redox-os/ion](https://github.com/redox-os/ion) — Next-generation system shell [![build badge](https://api.travis-ci.org/redox-os/ion.svg?branch=master)](https://travis-ci.org/redox-os/ion)
+* [redox-os/ion](https://github.com/redox-os/ion) — 下一代系统外壳 [![build badge](https://api.travis-ci.org/redox-os/ion.svg?branch=master)](https://travis-ci.org/redox-os/ion)
 * [sharkdp/bat](https://github.com/sharkdp/bat) — 带翅膀的 cat(1) 克隆. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 * [sharkdp/fd](https://github.com/sharkdp/fd) — 一种简单、快速且用户友好的查找方式. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 * [sitkevij/hex](https://github.com/sitkevij/hex) — 一个彩色的 hexdump 终端实用程序. [![build badge](https://api.travis-ci.org/sitkevij/hex.svg?branch=master)](https://travis-ci.org/sitkevij/hex)
@@ -333,7 +334,7 @@ Rust 代码和资源的精选列表.
 
 * [cfal/tobaru](https://github.com/cfal/tobaru) - 具有允许列表、IP 和 TLS 基于 SNI/ALPN 规则的路由、iptables 支持、循环转发（负载平衡）和热重载的端口转发器.
 * [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) — fediverse 的链接聚合器/reddit 克隆 [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
-* [Plume-org/Plume](https://github.com/Plume-org/Plume) — ActivityPub 联合博客应用程序 [![build badge](https://api.travis-ci.org/Plume-org/Plume.svg?branch=master)](https://travis-ci.org/Plume-org/Plume)
+* [Plume-org/Plume](https://github.com/Plume-org/Plume) — ActivityPub federating blogging application [![build badge](https://api.travis-ci.org/Plume-org/Plume.svg?branch=master)](https://travis-ci.org/Plume-org/Plume)
 * [Revolt/backend](https://github.com/revoltchat/backend) - 使用现代网络技术构建的用户至上的聊天平台.
 * [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Reddit 的替代私人前端
 
@@ -358,27 +359,24 @@ Rust 代码和资源的精选列表.
 * [datanymizer/datanymizer](https://github.com/datanymizer/datanymizer) - 具有灵活规则的强大数据库匿名器 [![build badge](https://github.com/datanymizer/datanymizer/workflows/CI/badge.svg?branch=main)](https://github.com/datanymizer/datanymizer/actions?query=workflow%3ACI+branch%3Amain)
 * [delta](https://crates.io/crates/git-delta) — 用于 git 和 diff 输出的语法高亮显示[![build badge](https://github.com/dandavison/delta/workflows/Continuous%20Integration/badge.svg)](https://github.com/dandavison/delta//actions)
 * [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) — `.env` 文件的 Linter [![build badge](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
-* [dprint](https://github.com/dprint/dprint) — 可插拔且可配置的代码格式化平台 [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
 * [fw](https://github.com/brocode/fw) — 工作空间生产力助推器 [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
-* [geiger](https://github.com/rust-secure-code/cargo-geiger) — A program that list statistics related to usage of unsafe Rust code in a Rust crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1&branchName=master)
+* [geiger](https://github.com/rust-secure-code/cargo-geiger) — 列出与 Rust crate 中不安全 Rust 代码的使用相关的统计信息及其所有依赖项的程序 [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1&branchName=master)
 * [git-cliff](https://github.com/orhun/git-cliff) — 一个高度可定制的变更日志生成器，遵循传统的提交规范 ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
 * [git-journal](https://github.com/saschagrunert/git-journal/) — Git 提交消息和变更日志生成框架 [![build badge](https://api.travis-ci.org/saschagrunert/git-journal.svg?branch=master)](https://travis-ci.org/saschagrunert/git-journal)
 * [hot-lib-reloader](https://github.com/rksm/hot-lib-reloader-rs) — 热重载 Rust 代码 [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 * [just](https://github.com/casey/just) — 用于项目特定任务的便捷命令运行程序 [![build badge](https://api.travis-ci.org/casey/just.svg?branch=master)](https://travis-ci.org/casey/just)
 * [mask](https://github.com/jacobdeichert/mask) — 由一个简单的 markdown 文件定义的 CLI 任务运行器 [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
-* [Module Linker](https://github.com/fiatjaf/module-linker) —<a>在 GitHub 上的 `mod`、`use` 和 `extern crate` 语句中添加 ` ` 链接的扩展.</a>
+* [Module Linker](https://github.com/fiatjaf/module-linker) —<a>在 GitHub 上的 `mod`、`use` 和 `extern crate` 语句中添加了 ` ` 链接到引用的扩展.</a>
 * [ptags](https://github.com/dalance/ptags) — 用于 git 存储库的并行通用 ctags 包装器 [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
 * [Racer](https://github.com/racer-rust/racer) — Rust 的代码完成 [![build badge](https://api.travis-ci.org/racer-rust/racer.svg?branch=master)](https://travis-ci.org/racer-rust/racer)
-* [Rust Language Server](https://github.com/rust-lang/rls) — 在后台运行的服务器，为 IDE、编辑器和其他工具提供有关 Rust 程序的信息
 * [Rust Search Extension](https://github.com/huhu/rust-search-extension) — 一个方便的浏览器扩展，用于在地址栏（多功能框）中搜索 crates 和文档. [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 * [rust-lang/rustfix](https://github.com/rust-lang/rustfix)  — 自动应用 rustc 提出的建议
-* [rustfmt](https://github.com/rust-lang/rustfmt) — Rust 代码格式化程序 [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
 * [Rustup](https://github.com/rust-lang/rustup) — Rust 工具链安装程序 [![build badge](https://github.com/rust-lang/rustup/workflows/Linux%20(master)/badge.svg?branch=master)](https://github.com/rust-lang/rustup/actions)
 * [scriptisto](https://github.com/igor-petruk/scriptisto) 一种与语言无关的“shebang 解释器”，使您能够以编译语言编写一个文件脚本. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
 ### Build system
 
-* [Cargo](https://crates.io/) — Rust 包管理器
+* [Cargo](https://crates.io/) — the Rust package manager
   * [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - 一个可配置的子命令，用于简化所有功能组合的测试、构建等 [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
   * [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) — 一个比较 Rust 微基准的实用程序 [![build badge](https://api.travis-ci.org/BurntSushi/cargo-benchcmp.svg?branch=master)](https://travis-ci.org/BurntSushi/cargo-benchcmp)
   * [cargo-bitbake](https://crates.io/crates/cargo-bitbake) — 可以利用 meta-rust 中的类生成 BitBake 配方的货物扩展 [![build badge](https://api.travis-ci.org/cardoe/cargo-bitbake.svg?branch=master)](https://travis-ci.org/cardoe/cargo-bitbake)
@@ -414,7 +412,7 @@ Rust 代码和资源的精选列表.
 ### Debugging
 
 * GDB
-  * [gdbgui](https://github.com/cs01/gdbgui) — 基于浏览器的 gdb 前端，用于调试 C、C++、Rust 和 go. [![build badge](https://api.travis-ci.org/cs01/gdbgui.svg?branch=master)](https://travis-ci.org/cs01/gdbgui)
+  * [gdbgui](https://github.com/cs01/gdbgui) — Browser based frontend for gdb to debug C, C++, Rust, and go. [![build badge](https://api.travis-ci.org/cs01/gdbgui.svg?branch=master)](https://travis-ci.org/cs01/gdbgui)
 * LLDB
   * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — LLDB 扩展 [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -494,6 +492,12 @@ Rust 代码和资源的精选列表.
   * [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) — 一个促进 wasm 模块和 JS 之间高级交互的项目. [![build badge](https://api.travis-ci.com/rustwasm/wasm-bindgen.svg?branch=master)](https://travis-ci.org/rustwasm/wasm-bindgen)
   * [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) — :package: :sparkles: 打包 wasm 并将其发布到 npm！ [![build badge](https://api.travis-ci.com/rustwasm/wasm-pack.svg?branch=master)](https://travis-ci.org/rustwasm/wasm-pack)
 
+### Formatters
+
+* [dprint](https://github.com/dprint/dprint) — 可插拔且可配置的代码格式化平台 [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
+* [Prettier Rust](https://github.com/jinxdash/prettier-plugin-rust) — 一个自以为是的 Rust 代码格式化程序，可以自动修复错误的语法 ([Prettier](https://prettier.io/) 社区插件）
+* [rustfmt](https://github.com/rust-lang/rustfmt) — 由 Rust 团队维护并包含在 cargo 中的 Rust 代码格式化程序 [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
+
 ### IDEs
 
 也可以看看 [Are we (I)DE yet?](https://areweideyet.com/) 和 [Rust Tools](https://www.rust-lang.org/tools).
@@ -528,6 +532,7 @@ Rust 代码和资源的精选列表.
     * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - vscode 中的 TOML 支持
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — LLDB 扩展
     * [crates](https://github.com/serayuzgur/crates) — crates 是 crates.io 依赖项的扩展. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates) [![build badge](https://api.travis-ci.org/serayuzgur/crates.svg?branch=master)](https://travis-ci.org/serayuzgur/crates)
+    * [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — 自动修复错误语法的自以为是的 Rust 代码格式化程序（[Prettier](https://prettier.io/) 社区插件）
     * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — RLS 的替代 rust 语言服务器
     * [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — 对 Visual Studio Code 的 Rust 支持（同时支持 RLS 和 rust-analyzer）
 
@@ -565,7 +570,7 @@ Rust 代码和资源的精选列表.
   * [AlKass/polish](https://github.com/AlKass/polish) — 迷你测试/测试驱动框架 [![Build Status](https://api.travis-ci.org/AlKass/polish.svg?branch=master)](https://travis-ci.org/AlKass/polish) [![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
   * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 一个货物扩展，用于简化在智能手机和其他小型处理器设备上运行库测试和工作台.
   * [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg) ](https://crates.io/crates/cucumber) — Rust 的 Cucumber 测试框架的实现. 完全原生，没有外部测试运行程序或依赖项. [![Build Status](https://github.com/cucumber-rs/cucumber/workflows/CI/badge.svg?branch=master)](https://github.com/cucumber-rs/cucumber)
-  * [demonstrate](https://crates.io/crates/demonstrate) — 声明式测试框架 [![Build Status](https://github.com/CookieBaughter/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/CookieBaughter/demonstrate)
+  * [demonstrate](https://crates.io/crates/demonstrate) — 声明式测试框架 [![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
   * [rstest](https://crates.io/crates/rstest) — 基于 Fixture 的 Rust 测试框架 [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
   * [speculate](https://crates.io/crates/speculate) — 一个受 RSpec 启发的 Rust 最小测试框架
 * 模拟和测试数据
@@ -657,7 +662,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * [constantoine/totp-rs](https://github.com/constantoine/totp-rs) [[totp-rs](https://crates.io/crates/totp-rs)] — 2fa 库，用于生成和验证基于 TOTP 的令牌 ![Build Status](https://github.com/constantoine/totp-rs/workflows/Rust/badge.svg)
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) 生锈的图书馆  [![Build Status](https://api.travis-ci.org/Keats/jsonwebtoken.svg?branch=master)](https://travis-ci.org/Keats/jsonwebtoken)
-* [oauth2](https://github.com/ramosbugs/oauth2-rs) — Extensible, strongly-typed Rust OAuth2 client library [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
+* [oauth2](https://github.com/ramosbugs/oauth2-rs) — 可扩展的强类型 Rust OAuth2 客户端库 [![Build Status](https://api.travis-ci.org/ramosbugs/oauth2-rs.svg?branch=main)](https://travis-ci.org/ramosbugs/oauth2-rs)
 * [oxide-auth](https://github.com/HeroicKatora/oxide-auth) — 一个 OAuth2 服务器库，用于与 actix 或其他前端结合使用，具有一组可配置和可插入的后端 [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
 * [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流的异步库  [![Build Status](https://api.travis-ci.org/sgrust01/jwtvault.svg?branch=master)](https://travis-ci.org/sgrust01/jwtvault)
 * [yup-oauth2](https://github.com/dermesser/yup-oauth2) — 提供设备、已安装和服务帐户流的 oauth2 客户端实现 [![Build Status](https://api.travis-ci.org/dermesser/yup-oauth2.svg?branch=master)](https://travis-ci.org/dermesser/yup-oauth2)
@@ -698,7 +703,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [clap-rs](https://github.com/clap-rs/clap) [[clap](https://crates.io/crates/clap)] — 一个简单易用、功能齐全的命令行参数解析器 [![build badge](https://api.travis-ci.org/clap-rs/clap.svg?branch=master)](https://travis-ci.org/clap-rs/clap)
   * [docopt/docopt.rs](https://github.com/docopt/docopt.rs) [[docopt](https://crates.io/crates/docopt)] — 的 Rust 实现 [DocOpt](http://docopt.org) [![build badge](https://api.travis-ci.org/docopt/docopt.rs.svg?branch=master)](https://travis-ci.org/docopt/docopt.rs)
   * [google/argh](https://github.com/google/argh) [[argh](https://crates.io/crates/argh)] — 一个自以为是的基于 Derive 的参数解析器，针对代码大小进行了优化 [![build badge](https://github.com/google/argh/workflows/Argh/badge.svg?branch=master)](https://github.com/google/argh/actions)
-  * [killercup/quicli](https://github.com/killercup/quicli) [[quicli](https://crates.io/crates/quicli)] — quickly build cool CLI apps in Rust [![build badge](https://api.travis-ci.org/killercup/quicli.svg?branch=master)](https://travis-ci.org/killercup/quicli)
+  * [killercup/quicli](https://github.com/killercup/quicli) [[quicli](https://crates.io/crates/quicli)] — 在 Rust 中快速构建很酷的 CLI 应用程序 [![build badge](https://api.travis-ci.org/killercup/quicli.svg?branch=master)](https://travis-ci.org/killercup/quicli)
   * [ksk001100/seahorse](https://github.com/ksk001100/seahorse) [[seahorse](https://crates.io/crates/seahorse)] — 用 Rust 编写的最小 CLI 框架 [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
   * [TeXitoi/structopt](https://github.com/TeXitoi/structopt) [[structopt](https://crates.io/crates/structopt)] — 通过定义一个结构来解析命令行参数 [![build badge](https://api.travis-ci.org/TeXitoi/structopt.svg?branch=master)](https://travis-ci.org/TeXitoi/structopt)
 * 数据可视化
@@ -1347,7 +1352,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 
 ### Template engine
 
-* 车把
+* Handlebars
   * [botika/yarte](https://github.com/botika/yarte) — Yarte 代表 **Y**et **A**nother **R**ust **T**emplate **E**ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
   * [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) — Handlebars 模板引擎，具有继承、自定义助手支持. [![build badge](https://api.travis-ci.org/sunng87/handlebars-rust.svg?branch=master)](https://travis-ci.org/sunng87/handlebars-rust)
 * HTML
@@ -1439,7 +1444,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 * 各种各样
   * [cargonauts](https://github.com/cargonauts-rs/cargonauts) — 一个 Web 框架，用于构建可维护的、结构良好的 Web 应用程序.
   * [causal-agent/scraper](https://github.com/causal-agent/scraper) [[scraper](https://crates.io/crates/scraper)] - 使用 CSS 选择器进行 HTML 解析和查询. [![Build Status](https://github.com/causal-agent/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/causal-agent/scraper/actions)
-  * [homelyguy/dyer](https://github.com/HomelyGuy/dyer) [[dyer](https://crates.io/crates/dyer)] - Dyer 是为可靠、灵活和快速的基于请求响应的服务而设计的，包括数据处理、网络爬虫等，在不影响速度的情况下提供一些友好、灵活、全面的功能.
+  * [hominee/dyer](https://github.com/hominee/dyer) [[dyer](https://crates.io/crates/dyer)] - Dyer 是为可靠、灵活和快速的基于请求-响应的服务而设计的，包括数据处理、网络爬虫等，在不影响速度的情况下提供一些友好、灵活、全面的功能.
   * [osohq/oso](https://github.com/osohq/oso) [[oso](https://crates.io/crates/oso)] - 嵌入在您的应用程序中的授权策略引擎. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
   * [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [[soup](https://crates.io/crates/soup)] — 一个类似于 Python 的 BeautifulSoup 的库，旨在实现快速轻松地操作和查询 HTML 文档. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
   * [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) — 将静态资产嵌入到 rust 二进制文件中的宏
@@ -1487,7 +1492,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [Easy Rust](https://github.com/Dhghomon/easy_rust) - 用简单的英语学习 Rust.
   * [exercism.org](https://exercism.org/tracks/rust) — 帮助您学习 Rust 新概念的编程练习.
   * [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) - 通过制作游戏来学习 Rust 的实践指南 - 作者 [Herbert Wolverson](https://github.com/thebracket/) （有薪酬的）
-  * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —  A peer-reviewed collection of articles/talks/repos which teach idiomatic Rust.
+  * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) — 教授惯用 Rust 的经过同行评审的文章/谈话/repos 集合.
   * [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) — 通过实现几种不同类型的列表结构，深入探索 Rust 的内存管理规则.
   * [Little Book of Rust Books](https://lborb.github.io/book/) - 防锈书籍和操作方法的精选列表.
   * [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — 由编程社区投票推荐的资源列表.

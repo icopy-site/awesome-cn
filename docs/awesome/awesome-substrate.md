@@ -97,8 +97,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [.Net API](https://github.com/usetech-llc/polkadot_api_dotnet) - 由维护 [Usetech](https://usetech.com/blockchain/).
 - [.NET Substrate API](https://github.com/ajuna-network/Ajuna.NetApi) - 用于 [nuget](https://www.nuget.org/packages/Ajuna.NetApi/)， 和 [Unity Example](https://github.com/ajuna-network/SubstrateNET/tree/master/SubstrateNET.UnityDemo) ; 维护者 [Ajuna Network](https://ajuna.io/).
-- [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK)  - Substrate .NET 的工具链. 预生成 [SubstrateNET](https://github.com/ajuna-network/SubstrateNET) ; 维护者 [Ajuna Network](https://ajuna.io/).
-- [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - 从底层元数据生成去（反）序列化/客户端代码.
+- [.NET Toolchain/SDK](https://github.com/ajuna-network/Ajuna.SDK)  - Substrate .NET 的工具链. 预生成 [SubstrateNET](https://github.com/ajuna-network/SubstrateNET) ; 由 Ajuna Network 维护.
+- [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - 从 Substrate 元数据生成 Go（反）序列化/客户端代码.
 - [`sube`](https://github.com/virto-network/sube) - 支持类型信息的轻量级 Rust 客户端库和 CLI.
 - [`subxt`](https://github.com/paritytech/substrate-subxt) - 官方 Rust 客户端.
 - [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - 由 Usetech 维护.
@@ -121,7 +121,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 ## Tools
 
-- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election)，这是一种用于预测提名的股权证明选举的工具.
+- [`offline-election`](https://github.com/paritytech/substrate-debug-kit/tree/master/offline-election) - 预测提名的股权证明选举的工具.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - 基材注入 [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 包含 Polkadot{JS} 库的独立 JS 包.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 用于启动本地 Polkadot 测试网络的简单 CLI 工具.
@@ -141,6 +141,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`substrate-toml-lint`](https://github.com/shawntabrizi/substrate-toml-lint) - toml 解析器和检查器，以避免 Substrate 项目中的常见错误.
 - [`subwasm`](https://github.com/chevdor/subwasm)  - CLI 离线检查运行时 WASM blob. 它显示信息、元数据并可以比较运行时. 它还可以帮助您直接从节点获取运行时.
 - [`sup`](https://github.com/clearloop/sup) - 用于生成或升级 Substrate 节点的命令行工具.
+- [`scale-value`](https://github.com/paritytech/scale-value)  - 类似于 `serde_json` 但适用于 SCALE； 将任意 SCALE 编码字节解码为动态“值”的库，该类型信息来自 `scale-info`.
+- [`scale-decode`](https://github.com/paritytech/scale-decode) - 通过实现访问者特征将 SCALE 字节解码为任意自定义类型.
 - [Aleph.im](https://aleph.im) - 用于 Substrate 链等的可扩展、去中心化数据库、文件存储和计算服务.
 - [Archive](https://github.com/paritytech/substrate-archive) - Substrate 链的索引引擎.
 - [Dev Hub Utils](https://github.com/danforbes/substrate-devhub-utils) - _Unofficial_ 实用程序，用于使用官方 Substrate 开发者中心资源.
@@ -169,11 +171,12 @@ Substrate 是一个构建可升级、模块化和高效的框架
   - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - 用于操作历史和赌注分析的 SubQuery API 实现.
 - [Subscan](https://www.subscan.io/) - 基于 Substrate 的链的多网络浏览器.
 - [Subsquid](https://subsquid.io) - 一个索引框架（SDK + 基础设施），可快速轻松地将 Substrate 和 EVM 链上数据转换为 API 并托管它们.
-- [Substate](https://github.com/arrudagates/substate) - 100% no-std/wasm compatible Substrate storage key generator library for Rust.
+- [Substate](https://github.com/arrudagates/substate) - 100% 无标准/wasm 兼容 Rust 的 Substrate 存储密钥生成器库.
 - [Substrate debug-kit](https://github.com/paritytech/substrate-debug-kit) - 用于调试基于 Substrate 的链的工具和库的集合.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - 一组 Dockerfile 和 GitHub Actions，用于为基于 Substrate 的链自动构建和推送 Docker 映像.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - 用于开发目的的基于 Python 的水龙头.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - 基于 Substrate 的链的 GraphQL 索引器.
+- [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) - 帮助用户从合约 ABI（ink！）生成 typescript 类型，并生成运行时代码以与合约交互并部署它们.  
 - [TxWrapper](https://github.com/paritytech/txwrapper) - 用于离线交易创建的有用库.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Visual Studio 代码插件.
 - [Polkaholic.io](https://polkaholic.io) - 多链区块浏览器，支持 40 多个平行链的 API 和 DeFi.
@@ -186,7 +189,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Gossamer](https://github.com/ChainSafe/gossamer)  - 一个用 Go 实现的 Polkadot 客户端； 从 [ChainSafe](https://chainsafe.io/).
 - [Kagome](https://kagome.readthedocs.io/en/latest/)  - Polkadot 客户端的 C++17 实现； 从 [Soramitsu](http://www.soramitsu.co.jp/).
-- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime)  - 用 AssemblyScript 编写的基于帐户的 Substrate 概念验证运行时； 从 [LimeChain](https://limechain.tech/).
+- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) - An account-based Substrate proof-of-concept runtime written in AssemblyScript; from [LimeChain](https://limechain.tech/).
 
 ## SCALE Codec
 
