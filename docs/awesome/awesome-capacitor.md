@@ -8,7 +8,7 @@
 </div>
 <br/>
 <div align="center">
-⚡ 与<a href='https://www.capacitorjs.com/'>电容器</a>平台相关的精彩资源的精选列表.
+⚡ A curated list of awesome resources related to the <a href='https://www.capacitorjs.com/'>Capacitor</a> Platform.
 <br />
  Capacitor 是用于构建 Web Native 应用程序的开源原生运行时. 使用 JavaScript、HTML 和 CSS 创建跨平台 iOS、Android 和渐进式 Web 应用程序.
 <br/>
@@ -41,12 +41,12 @@
 - [Local Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - 提供一种在本地安排设备通知的方法（即无需服务器发送推送通知）.
 - [Motion](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - 跟踪加速度计和设备方向（罗盘方向等）.
 - [Network](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - 提供网络和连接信息.
+- [Preferences](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) - 为轻量级数据（例如存储）提供简单的键/值持久存储.
 - [Push Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - 提供对本机推送通知的访问.
 - [Screen Reader](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader)  - 提供对 TalkBack/VoiceOver/等的访问. 并为视觉可访问性提供简单的文本转语音功能.
 - [Share](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - 提供在用户可能已安装的任何支持共享的应用程序中共享内容的方法.
 - [Splash Screen](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - 提供显示或隐藏 Splash 图像的方法.
 - [Status Bar](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - 提供配置状态栏样式的方法，以及显示或隐藏它.
-- [Storage](https://github.com/ionic-team/capacitor-plugins/tree/main/storage) - 为轻量级数据提供简单的键/值持久存储.
 - [Text Zoom](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - 提供更改 Web 视图文本大小以实现视觉可访问性的能力.
 - [Toast](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - 提供原生通知弹出窗口，用于向用户显示重要信息.
 
@@ -60,31 +60,21 @@
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - 即使应用程序处于后台，也能接收地理位置更新.
 - [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 快速高效的电容器二维码/条形码扫描仪.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - 低功耗蓝牙.
-- [Browser react](https://github.com/capacitor-community/browser-react) - 电容器浏览器插件的 React Hooks.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - 相机预览.
-- [Camera react](https://github.com/capacitor-community/camera-react) - React Hooks for Capacitor Camera 插件.
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - 使用适用于 Android 和 iOS 的原生 Maps API 的插件.
-- [Clipboard react](https://github.com/capacitor-community/clipboard-react) - React Hooks for Capacitor Clipboard 插件.
 - [Contacts](https://github.com/capacitor-community/contacts) - 电容器的联系人插件.
 - [Date picker](https://github.com/capacitor-community/date-picker) - 用于电容器应用程序的本机日期时间选择器插件.
-- [Device react](https://github.com/capacitor-community/device-react) - React Hooks for Capacitor Device 插件.
-- 电子
-    - [Electron](https://github.com/capacitor-community/electron) - 支持电子平台.
-    - [Electron core](https://github.com/capacitor-community/electron-core) - 电容器社区电子平台的核心.
-    - [Electron platform](https://github.com/capacitor-community/electron-platform) - 支持电子平台.
+- [Electron](https://github.com/capacitor-community/electron) - 支持电子平台.
 - [Facebook Login](https://github.com/capacitor-community/facebook-login) - Facebook 登录的原生插件.
-- [Filesystem-react](https://github.com/capacitor-community/filesystem-react) - React Hooks for Capacitor Filesystem 插件.
 - 火力基地
     - [Analytics](https://github.com/capacitor-community/firebase-analytics) - Firebase 分析的本机插件.
     - [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
     - [Fcm](https://github.com/capacitor-community/fcm) - 为 Capacitor 应用启用 Firebase 云消息传递功能.
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - Firebase 远程配置的本机插件.
 - [Flipper](https://github.com/capacitor-community/flipper) - 鳍状肢调试器的本机插件.
-- [Geolocation react](https://github.com/capacitor-community/geolocation-react) - React Hooks for Capacitor GeoLocation 插件.
 - [Http](https://github.com/capacitor-community/http) - 用于无 CORS 请求和文件传输的本机 HTTP 插件.
 - [Intercom](https://github.com/capacitor-community/intercom) - 为电容器应用程序启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止您的屏幕进入睡眠状态.
-- [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard 插件.
 - [Media](https://github.com/capacitor-community/media) - 为 Capacitor 启用一些媒体功能，例如创建相册、保存视频、GIF 等等.
 - 微软
     - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - 应用中心 SDK.
@@ -92,16 +82,13 @@
     - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter 崩溃.
 - [Native audio](https://github.com/capacitor-community/native-audio) - 原生音频引擎的原生插件.
 - [Native market](https://github.com/capacitor-community/native-market) - 用于链接到 google play 或应用商店的本地市场插件.
-- [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network 插件.
 - [Photoviewer](https://github.com/capacitor-community/photoviewer) - 具有全屏和共享功能的 PhotoViewer 表格图像.
 - [Privacy screen](https://github.com/capacitor-community/privacy-screen) - 保护您的应用不会在最近屏幕/应用切换器中显示屏幕截图.
 - [React hooks](https://github.com/capacitor-community/react-hooks) - 用于电容器应用程序的 React Hooks.
 - [Realm](https://github.com/capacitor-community/realm) - MongoDB 领域的本机插件.
 - [Screen brightness](https://github.com/capacitor-community/screen-brightness) - 在 iOS 和 android 上控制屏幕亮度.
-- [Screen reader react](https://github.com/capacitor-community/screen-reader-react) - React Hooks for Capacitor ScreenReader 插件.
 - [Speech recognition](https://github.com/capacitor-community/speech-recognition) - 用于语音识别的本机插件.
 - [Sqlite](https://github.com/capacitor-community/sqlite) - 本机和电子 SQLite 数据库.
-- [Storage react](https://github.com/capacitor-community/storage-react) - React Hooks for Capacitor Storage 插件.
 - [Stripe](https://github.com/capacitor-community/stripe) - 用于电容器应用的 Stripe SDK 绑定.
 - [Tauri](https://github.com/capacitor-community/tauri) - 支持 Tauri 平台.
 - [Text to speech](https://github.com/capacitor-community/text-to-speech) - 从文本合成语音.
@@ -175,8 +162,10 @@
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
 - [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
-- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 电容器插件，允许用户编辑照片.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - 从系统相册中获取所有图像.
+- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - 浏览器在带有 urlChangeEvent 的应用浏览器中.
+- [Native geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - 本机正向和反向地理编码.
 
 ## Tools
 
@@ -214,9 +203,9 @@
 - [Creating a Local Plugin](https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/) - 使用电容器运行自定义原生 iOS 代码.
 - [Publishing Capacitor Plugin on NPM](https://www.joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm/) - 使用 Capacitor CLI 构建和发布独立的 Capacitor 插件.
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - 说明为什么将电容器应用称为“非本地”是不准确且令人困惑的术语.
-- [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
+- [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用中设置 Capacitor-updater 以向您的用户无缝发布更新.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 使用 GitHub 操作免费创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
 
 
 ### Books
@@ -226,7 +215,7 @@
 ### Case study
 
 - [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - 汉堡王如何将他们的设计系统带到移动设备上.
-- [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
+- [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - 本指南概述了 Capacitor 以及它如何与 Cordova 相提并论.
 - [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native 不是 Web 环境，因此团队不可能使用基于 Web 的 React 来部署本机应用程序，但他们可以使用 Capacitor.
 
 ## Demo apps

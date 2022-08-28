@@ -277,7 +277,7 @@
 * [cola.js](https://ialab.it.monash.edu/webcola/) - 使用基于约束的优化技术排列 HTML5 文档和图表的库
 * [jointjs](https://github.com/clientIO/joint) - 图表库，用于创建静态图表或完全交互式图表工具.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - 用于动画数据可视化和数据故事的库.
- 
+
 还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/)， 和 [lightning chart](https://www.arction.com/lightningchart-js/).
 
 ## Timeline
@@ -288,9 +288,9 @@
 ## Spreadsheet
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable 是一个供开发人员使用的 JavaScript/HTML5 电子表格库
-* [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable 是一个简单、现代和交互式的数据表库，用于显示表格数据. 
-* [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet 是一个类似于 excel 的在线电子表格，功能强大、配置简单且完全开源.
- * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建令人惊叹的基于 Web 的交互式表格和与其他电子表格软件兼容的电子表格.
+* [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable 是一个简单、现代和交互式的数据表库，用于显示表格数据.
+* [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+ * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet 是一个轻量级的 vanilla javascript 插件，用于创建与其他电子表格软件兼容的令人惊叹的基于 Web 的交互式表格和电子表格.
 
 ## Editors
 
@@ -321,9 +321,8 @@
 ## Documentation
 
 * [DevDocs](https://devdocs.io/) 是一个多合一的 API 文档阅读器，具有快速、有条理和一致的界面.
-* [dexy](http://www.dexy.it/) 是一个自由形式的文字文档工具，用于编写任何类型的包含代码的技术文档.
 * [docco](http://ashkenas.com/docco/) 是一个快速而肮脏的、一百行长的、有文化的编程风格的文档生成器.
-* [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
+* [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 * [Ronn](https://github.com/rtomayko/ronn) 建立手册. 它将简单的、人类可读的文本文件转换为用于终端显示的 roff，也转换为用于 Web 的 HTML.
 * [dox](https://github.com/tj/dox) 是一个用 node.js 编写的 JavaScript 文档生成器.  Dox 不再为您的文档生成固执己见的结构或样式，它只是为您提供 JSON 表示，允许您使用 markdown 和 JSDoc 样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是一个 JSDoc3 到 Markdown 文档生成器.
@@ -409,14 +408,14 @@
 * [underscore.string](https://github.com/epeli/underscore.string) - Underscore.js JavaScript 库的字符串操作扩展.
 * [string.js](https://github.com/jprichardson/string.js) - 额外的 JavaScript 字符串方法.
 * [he](https://github.com/mathiasbynens/he) - 用 Ja​​vaScript 编写的强大的 HTML 实体编码器/解码器.
-* [multiline](https://github.com/sindresorhus/multiline) - JavaScript 中的多行字符串.
+* [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 * [query-string](https://github.com/sindresorhus/query-string) - 解析和字符串化 URL 查询字符串.
 * [URI.js](https://github.com/medialize/URI.js/) - JavaScript URL 变异库.
 * [jsurl](https://github.com/Mikhus/domurl) - 使用 JavaScript 进行轻量级 URL 操作.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - 一个 sprintf 实现.
 * [url-pattern](https://github.com/snd/url-pattern)  - 比 url 和其他字符串的正则表达式字符串匹配模式更容易. 将字符串转换为数据或将数据转换为字符串.
 * [plexis](https://github.com/plexis-js/plexis) - 低保真、强大、社区驱动的字符串操作库.
-* [url-state-machine](https://github.com/anonrig/url-js) - 适用于 Node.js 的超快速符合规范的 URL 解析器状态机. 
+* [url-state-machine](https://github.com/anonrig/url-js) - 适用于 Node.js 的超快速符合规范的 URL 解析器状态机.
 
 ## Number
 
@@ -453,7 +452,8 @@
 * [Hoodie](https://github.com/hoodiehq/hoodie) - 离线第一个后端可以在没有互联网连接的情况下在浏览器中工作.
 * [NeDB](https://github.com/louischatriot/nedb) - 用于浏览器、nw.js、电子的嵌入式持久数据库.
 * [Lovefield](https://google.github.io/lovefield) - Lovefield 是一个用于网络应用程序的关系数据库，由 Google 提供.
- 
+* [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js 是 indexedDB 的包装库.
+
 ## Color
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - JavaScript 的颜色生成器.
@@ -469,7 +469,7 @@
 
 * [i18next](https://github.com/i18next/i18next) - 使用 JavaScript 轻松实现国际化 (i18n).
 * [polyglot](https://github.com/airbnb/polyglot.js) - 微型 i18n 帮助程序库.
-* [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+* [babelfish](https://github.com/nodeca/babelfish/) - i18n 具有人性化的 API 和内置的复数支持.
 * [ttag](https://github.com/ttag-org/ttag) - 基于 ES6 标记模板和良好的旧 GNU gettext 的现代 javascript i18n 本地化库.
 * [attranslate](https://github.com/fkirc/attranslate) - 用于同步翻译文件的 JavaScript 工具，包括 JSON/YAML/XML 和其他格式.
 
@@ -591,7 +591,7 @@
 * [progress.js](https://github.com/usablica/progress.js) - 为页面上的每个对象创建和管理进度条.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且响应迅速的进度条.
 * [pace](https://github.com/HubSpot/pace) - 自动向您的网站添加进度条.
-* [topbar](https://github.com/buunguyen/topbar) - 小巧美观的全站进度指示器.
+* [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 * [nanobar](https://github.com/jacoborus/nanobar)  - 非常轻量级的进度条. 没有 jQuery.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - 一组使用 CSS 动画的加载指示器.
 * [Ladda](https://github.com/hakimel/Ladda) - 带有内置加载指示器的按钮.
@@ -630,7 +630,7 @@
 * [tourist](https://github.com/easelinc/tourist) - 为您的应用程序提供简单、灵活的导览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 为您的应用程序提供简单的叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
-* [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
+* [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能游览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将焦点放在 DOM 元素上，将覆盖层添加到页面的其余部分.
 * [driver.js](https://github.com/kamranahmedse/driver.js) - 强大而轻量级的原生 JavaScript 引擎，可将用户的注意力集中在整个页面上
@@ -740,7 +740,7 @@
 
 ## Modals and Popups
 
-* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
+* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - 专注于性能的轻量级响应式灯箱脚本.
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI 元素.
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - 一个带有新模式概念的 jQuery 插件，用于弹出窗口.
 * [vex](https://github.com/HubSpot/vex) - 一个高度可配置且易于设计的现代对话框库.
@@ -762,7 +762,7 @@
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) - 一个简单而快速的 API，用于在您滚动时监控元素.
 * [headroom](https://github.com/WickyNilliams/headroom.js)  - 给你的页面一些空间. 隐藏你的标题，直到你需要它.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用 One Page Scroll 插件创建类似 Apple 的一页滚动网站（iPhone 5S 网站）.
-* [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform JavaScript scroller.
+* [iscroll](https://github.com/cubiq/iscroll) - iScroll 是一款高性能、占用空间小、无依赖、多平台的 JavaScript 滚动器.
 * [skrollr](https://github.com/Prinzhorn/skrollr)  - 用于移动（Android + iOS）和桌面的独立视差滚动库. 没有 jQuery.
 * [parallax](https://github.com/wagerfield/parallax) - 对智能设备的方向做出反应的视差引擎.
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - 视差滚动变得容易.
@@ -798,7 +798,7 @@
 * [Packery](https://packery.metafizzy.co/)  - 使用装箱算法的网格布局库. 可用于可拖动布局.
 * [Isotope](https://isotope.metafizzy.co/)  - 一个可过滤、可排序的网格布局库. 可以实现 Masonry、Packery 和其他布局.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - 基于 CSS3 flexbox 的网格.
- 
+
 
 ## Frameworks
 
@@ -807,13 +807,13 @@
 * [fluidity](https://github.com/mrmrs/fluidity) - 世界上最小的完全响应式 CSS 框架.
 * [Ink](https://github.com/sapo/Ink) - SAPO 使用的 HTML5/CSS3 框架，用于快速高效的网站设计和原型设计.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - 用于快速开发网站和 SPA 的最小 JavaScript 框架和独立组件.
-* [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
+* [EHTML](https://github.com/Guseyn/EHTML) - 允许您不编写 JavaScript 代码的 HTML 框架.
 
 ## Boilerplates
 
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 一个专业的前端模板，用于构建快速、健壮和适应性强的 Web 应用程序或网站.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - 一个前端模板，可帮助您构建快速、现代的移动 Web 应用程序.
- * [webplate](https://github.com/chrishumboldt/webplate) - 一个很棒的前端框架，让您可以专注于构建您的网站或应用程序，同时保持非常易于使用.
+ * [webplate](https://github.com/chrishumboldt/webplate) - 一个很棒的前端框架，让您专注于构建您的网站或应用程序，同时保持非常易于使用.
  * [Cerberus](https://github.com/TedGoas/Cerberus)  - 一些简单但可靠的响应式 HTML 电子邮件模式. 即使在 Outlook 中.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) - 一个带有全宽背景图像的介绍页面，一个大胆的动画菜单和导航后面的类似 iOS 的模糊效果.
  * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares) - 方形单位的流体网格.
@@ -932,13 +932,13 @@
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - 从工作和个人经验中提取的 JavaScript SDK 设计指南.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - 面向实体的 SDK 与 Spotify Web API 一起使用.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - 用于支付和其他 Square API 的 JavaScript 客户端库.
- 
+
 ## Full Text Search
 
-* [lunr](https://github.com/olivernn/lunr.js) - 在浏览器中使用的库，它索引 JSON 文档，并提供一个简单的搜索界面，用于检索与文本查询最匹配的文档.
+* [lunr](https://github.com/olivernn/lunr.js) - 在浏览器中使用的库，它索引 JSON 文档，并提供一个简单的搜索界面，用于检索最匹配文本查询的文档.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - 该库基于 lunr.js，但更加灵活和定制.
- 
+
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - 延迟加载具有 data-* 属性的图像.
@@ -975,7 +975,7 @@ https://listjs.com
 ## Worth Reading
 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - 可能是用现代 JavaScript 编写的最好的书，完全免费在线阅读，或者可以购买以支持作者.
-* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
+* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 关于 JS 最佳实践、公认的编码标准和 Web 链接的易于阅读的快速参考.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费 JavaScript 电子书目录.
 * [Superhero.js](http://superherojs.com) - 关于创建、测试和维护大型 JavaScript 代码库的资源集合.
 * [SJSJ](https://github.com/KittyGiraudel/SJSJ) - 简化的 JavaScript 行话是一个社区驱动的尝试，用几个简单的词来解释当前 JavaScript 生态系统的流行语负载.
