@@ -40,7 +40,7 @@
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
-- [Tanoshi](https://github.com/fadhlika/tanoshi-web) --Tachiyomi 式网络漫画阅读器.tanoshi 的前端.
+- [Tanoshi](https://github.com/fadhlika/tanoshi-web) - 类似立读的网络漫画阅读器.tanoshi 的前端.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
 - [Freecell](https://github.com/Stigjb/freecell) - 用 Rust 和 Yew 编写的耐心游戏.
 - [Daydream](https://github.com/MTRNord/Daydream) - 一个用 Rust 编写的小型 Matrix Web 客户端.
@@ -103,7 +103,7 @@
 - [muicss-yew](https://github.com/AlephAlpha/muicss-yew) - Yew 框架的 MUI-CSS 组件.
 - [yew-bulma](https://github.com/kellpossible/yew-bulma) - 一个 Rust 库，为使用 Yew 的项目提供基于 bulma css 库的组件.
 - [material-yew](https://github.com/hamza1311/material-yew) - 材料 Web 组件的 Yew 包装器.
-- [Yewprint](https://github.com/cecton/yewprint) - blueprintjs.com 到 Yew 的端口.
+- [Yewprint](https://github.com/yewprint/yewprint) - blueprintjs.com 到 Yew 的端口.
 - [ybc](https://github.com/thedodd/ybc) - 基于 Bulma CSS 框架的 Yew 组件库.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) - 用于 Yew 的 Patternfly 组件.
 - [yew-feather](https://github.com/pedrodesu/yew-feather) - Yew 的羽毛图标组件.

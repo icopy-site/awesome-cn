@@ -8,13 +8,15 @@
 </div>
 <br/>
 <div align="center">
-⚡ A curated list of awesome resources related to the <a href='https://www.capacitorjs.com/'>Capacitor</a> Platform.
+⚡ 与<a href='https://www.capacitorjs.com/'>电容器</a>平台相关的精彩资源的精选列表.
 <br />
  Capacitor 是用于构建 Web Native 应用程序的开源原生运行时. 使用 JavaScript、HTML 和 CSS 创建跨平台 iOS、Android 和渐进式 Web 应用程序.
 <br/>
 <a><img src="https://page-views.glitch.me/badge?page_id=riderx.awesome-capacitor&right_color=blue" /></a>
 </div>
-
+<div align="center">
+<h2><a href="https://capgo.app/">查看：Capgo — 电容器的即时更新</a></h2>
+</div>
 <br>
 
 <br>
@@ -106,9 +108,9 @@
 - [Badge](https://github.com/capawesome-team/capacitor-badge) - 访问和更新应用程序图标的徽章编号.
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - 适用于 iOS 和 Android 的原生 Brother Print SDK 实施. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - 使用生物识别技术确认设备所有者的存在或对用户进行身份验证.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - 为您的应用提供清晰的聊天 SDK.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - 监控对系统暗模式所做的更改.
-- [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - 为 IOS、Android 和 Electron 平台上的 SQLite 和 Web 平台上的 IndexedDB 提供字符串类型的简单数据的键值永久存储.
+- [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - 仅为 IOS、Android 和 Electron 平台上的 SQLite 和 Web 平台上的 IndexedDB 提供字符串类型的简单数据的键值永久存储.
 - [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - 扫描文档（笔记、作业、名片、收据或任何具有矩形形状的东西）.
 - [Dynamsoft Barcode Reader](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - 使用 Dynamsoft Barcode Reader 扫描条形码和二维码.
 - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - 在您的 Capacitor 应用程序中打开本机电子邮件编辑器.
@@ -181,7 +183,7 @@
 
 - [How Capacitor Works](https://capacitorjs.com/blog/how-capacitor-works) - Capacitor 采用现代 Web 应用程序，然后将其打包以在 iOS、Android 和 PWA 上运行.
 - [Creating Plugins](https://capacitorjs.com/docs/plugins/creating-plugins) - 本指南将帮助您开始创建将在 npm 上发布的可共享电容器插件.
-- [Creating Splash Screens and Icons](https://capacitorjs.com/docs/guides/splash-screens-and-icons) - 使用 cordova-res 为原生项目生成资源图像.
+- [Creating Splash Screens and Icons](https://capacitorjs.com/docs/guides/splash-screens-and-icons) - Use cordova-res to generate resource images for native projects.
 - [App Deployment and Realtime Updates](https://capacitorjs.com/docs/guides/deploying-updates) - 通过应用商店远程更新您的电容器应用程序.
 - [CI/CD for Capacitor Apps](https://capacitorjs.com/docs/guides/ci-cd) - 将移动 CI/CD 添加到您的电容器应用程序开发过程中.
 - [Data Storage in Capacitor](https://capacitorjs.com/docs/guides/storage) - 在电容器中存储少量到大量数据.
@@ -203,9 +205,9 @@
 - [Creating a Local Plugin](https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/) - 使用电容器运行自定义原生 iOS 代码.
 - [Publishing Capacitor Plugin on NPM](https://www.joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm/) - 使用 Capacitor CLI 构建和发布独立的 Capacitor 插件.
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - 说明为什么将电容器应用称为“非本地”是不准确且令人困惑的术语.
-- [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
+- [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用中设置 Capacitor-updater 以向您的用户无缝发布更新.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 使用 GitHub 操作免费创建您自己的 CI/CD 管道，以便在每次推送到 main 时部署您的应用程序.
 
 
 ### Books

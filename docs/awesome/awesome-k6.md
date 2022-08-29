@@ -38,27 +38,26 @@
 - [Load Testing with Azure DevOps and k6](https://medium.com/microsoftazure/load-testing-with-azure-devops-and-k6-839be039b68a) - 如何设置 Azure DevOps 以使用 k6、handleCallback 和 JUnit 执行自动负载测试.
 - [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) - 如何使用 handleSummary 回调将 k6 输出结果发送到 Slack.
 - [Load testing with k6](https://levelup.gitconnected.com/load-testing-with-k6-48488c7946bb) - 使用 k6 进行负载、浸泡、压力、尖峰和冒烟测试.
-- [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb)
+- [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb) - 在 Go 中构建一个 k6 扩展来测试 Tarantool.
 - [Load Testing. k6 + TypeScript + Azure DevOps](https://alex-klaus.com/load-test-k6-typescript-azure/)
 - [Performance testing with k6](https://blog.shanelee.name/2021/12/15/performance-testing-with-k6/) - 关于 API 性能测试，使用 Open API 和 TypeScript.
 - [k6 introduces browser automation and Prometheus support in k6 OSS](https://grafana.com/blog/2021/11/24/k6-introduces-browser-automation-and-prometheus-support-in-k6-oss/) - 来自 Grafana 博客：ObservabilityCON 2021 上的功能公告.
 - [How to build performance tests into your CI pipeline with k6, GitHub Actions, and Grafana](https://grafana.com/blog/2021/11/29/how-to-build-performance-tests-into-your-ci-pipeline-with-k6-github-actions-and-grafana/) - 来自 Grafana 博客：Matthew Churcher 的 ObservabilityCon 2021 演讲摘要，Vonage QA Architect.
 - [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - 来自 Grafana 博客：摩根大通平台工程执行总监 Vinodh Ravi 在 ObservabilityCON 2021 上的演讲摘要. 
 
-- [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - 对比 Umbraco v8 在 Azure 上测试 Umbraco v9 的性能，并比较 Windows 与 Linux.
+- [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - 针对 Umbraco v8 在 Azure 上测试 Umbraco v9 的性能，并比较 Windows 与 Linux.
 - [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - 维护具有挑战性的 k6 负载测试代码库的个人技巧.
-- [How to write three times fewer lines of code when doing load testing](https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb) - 在 Go 中构建一个 k6 扩展来测试 Tarantool.
 
 ## Videos
 
 - [k6 YouTube Channel](https://www.youtube.com/c/k6test)
-- [How to use k6 Cloud for load testing](https://www.youtube.com/watch?v=ncxCIuo5tUU&list=PLJdv3RhAQXNGkRCp7Q0k77n5jif4qjz2o) k6 Cloud 入门系列快速视频
+- [How to use k6 Cloud for load testing](https://www.youtube.com/watch?v=ncxCIuo5tUU&list=PLJdv3RhAQXNGkRCp7Q0k77n5jif4qjz2o) - 一系列快速入门 k6 Cloud 的视频.
 - [Intro to load testing with k6 and Grafana (k6 data source plugin and Prometheus Remote Write)](https://www.youtube.com/watch?v=tFsIgbqXbxM)
 - [From Grafana ObservabilityCON: Intro to using k6 load testing with the Grafana observability stack](https://grafana.com/go/observabilitycon/2021/k6-load-testing/)
 - [From Grafana ObservabilityCON: Building performance tests into your CI pipeline with k6 and Grafana, w/ Matthew Churcher, QA Engineer at Vonage](https://grafana.com/go/observabilitycon/2021/performance-testing-vonage/)
 - [EveryoneCanContribute cafe: Load Performance Testing with k6](https://youtu.be/_ty40gSaaw8)
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
-  - [What is K6 & How to get started with k6](https://www.youtube.com/watch?v=ZAq87eZ1w2U) - 通过“Is it Observable”使用 k6 Extensions for Observability 的教程
+  - [What is K6 & How to get started with k6](https://www.youtube.com/watch?v=ZAq87eZ1w2U) - 使用 k6 Extensions for Observability 的教程，通过“它是可观察的吗？”
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
   - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者 Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 简介. 
@@ -92,6 +91,7 @@
 - [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从 IDE 运行 k6 的市场扩展.
+- [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - 基于 IntelliJ 的插件，用于在本地或在本地运行 k6 测试 [k6 Cloud](https://app.k6.io/) 来自您的 IntelliJ IDE.
 - [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
 - [k6-junit](https://github.com/simbadltd/k6-junit) - k6 JUnit 摘要导出器库.
 - [k6-expect](https://github.com/simbadltd/k6-expect) - k6 库，通过为期望提供类似玩笑的语法，以功能方式简化编写测试.

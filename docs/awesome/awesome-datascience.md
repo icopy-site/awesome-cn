@@ -67,7 +67,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ### Unsupervised Learning
 - 聚类
   - 层次聚类
-  - k-means
+  - k-均值
   - 模糊聚类
   - 混合模型
 - 降维
@@ -290,6 +290,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [LineaPy](https://github.com/LineaLabs/lineapy)  | 是否曾经因清理冗长、凌乱的 Jupyter 笔记本而感到沮丧？ 借助开源 Python 库 LineaPy，只需两行代码即可将凌乱的开发代码转换为生产管道.  |
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找热门和新图书馆、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表 |
+| [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本化和部署 |
+
 
 ## Machine Learning in General Purpose
 
@@ -595,7 +597,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Dataists](https://www.dataists.com/)
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
-- [P-value](https://www.p-value.info/) - 对数据科学、机器学习和统计的思考.
+- [P-value](https://www.p-value.info/) - Musings on data science, machine learning and stats.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](https://tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)

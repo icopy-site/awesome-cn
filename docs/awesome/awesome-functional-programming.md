@@ -18,7 +18,7 @@
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
-尽管有这个名字，这篇文章实际上阐明了函数式编程的一些基本概念，解释了一些 FP 的历史和命令式语言中 FP 功能的实现，并讨论了声明式编程的所有大惊小怪以及为什么它在最近变得如此流行几年.
+尽管有这个名字，这篇文章实际上澄清了函数式编程的一些基本概念，解释了一些 FP 的历史和命令式语言中 FP 功能的实现，并谈到了声明式编程的所有大惊小怪以及为什么它在最近变得如此流行几年.
 - [A Monad in Practicality - Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 - [A Monad in Practicality - First Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
@@ -49,23 +49,25 @@
 - [Introduction to Programming using SML](http://catalogue.pearsoned.co.uk/educator/product/Introduction-to-Programming-using-SML/9780201398205.page) - 以非常数学的方式向您介绍编程设计. 
 - [How to Design Programs](http://www.htdp.org/) / [Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 - [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
-- [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - 关于 Haskell 的完美的第二本书，深入研究示例和应用场景，旨在教授 Haskell 如何工作以及如何正确应用它. 
+- [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - 关于 Haskell 的完美第二本书，深入研究示例和应用场景，旨在教授 Haskell 如何工作以及如何正确应用它. 
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - 使用真实场景从第一原理教授函数式编程.
 - [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - 国际畅销书修订，新练习、注释和对 Scala 3 的全面覆盖.
 - [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
 - [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - 函数式编程简介.
 - [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - 掌握函数式编程的技术和概念，以交付更安全、更简单、更有效的 Kotlin 代码.
-- [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture) - 使用函数式编程构建生产质量应用程序的设计模式和架构，并带有 Haskell 和其他 FP 语言的示例.
+- [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture) - 使用函数式编程构建生产质量应用程序的设计模式和架构，并提供 Haskell 和其他 FP 语言的示例.
 - [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp) - 在本书中，您将获得编写 Haskell 代码并将函数式编程应用于实际开发挑战的实践经验.
 - [Mastering Functional Programming](https://www.perlego.com/book/800653/mastering-functional-programming-functional-techniques-for-sequential-and-parallel-programming-with-scala-pdf) - 如果您具有命令式和 OOP 背景，本书将引导您了解函数式编程的世界，无论您使用哪种编程语言.
+- [Jax in Action](https://www.manning.com/books/jax-in-action) - 一本关于 JAX 数值计算库的书.
+- [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - 使用 PowerShell 脚本自动化复杂的任务和流程.
 
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - 社区专注于讨论研究、论文
 和学术界的热门话题. 非常高的技术讨论水平.
-- [FP Complete](https://www.fpcomplete.com/)  - 社区专注于帮助公司和学生在 Haskell 中学习和实施函数式编程. 最著名的 Haskell 学习中心之一的主持人： [School of Haskell](https://www.schoolofhaskell.com/school)
+- [FP Complete](https://www.fpcomplete.com/) - Community focused on helping companies and students on learning and implementing Functional Programming in Haskell. Hosters of one of the most famous Haskell learning centers: [School of Haskell](https://www.schoolofhaskell.com/school)
 - [Haskellers](http://www.haskellers.com/) - Haskell 程序员的聚会点
-- [ElixirLangMoscow](http://elixir-lang.moscow/) - Russian Elixir community
+- [ElixirLangMoscow](http://elixir-lang.moscow/) - 俄罗斯灵药社区
 
 ### Discussions (Quora, Stack Overflow, Reddit, etc)
 - [Why dont more programmers use Haskell](https://www.quora.com/Why-dont-more-programmers-use-Haskell)

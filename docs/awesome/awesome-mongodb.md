@@ -22,7 +22,7 @@
 
  - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
- - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) - 关于 MongoDB 设计模式的系列文章和每个设计模式的常见用例以及真实世界的示例.
+ - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) - 有关 MongoDB 设计模式的系列文章以及每种设计模式的常见用例以及真实世界的示例.
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - 规模 101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - 你需要/必须知道的关于索引的一切
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
@@ -163,7 +163,7 @@
 
 ## Tools
 ### Administration
- - [k8s-backup-mongodb](https://github.com/tuladhar/k8s-backup-mongodb) - 使用 Kubernetes CronJob 将 MongoDB 备份安排到 S3.
+ - [k8s-backup-mongodb](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
  - [mgob](https://github.com/stefanprodan/mgob) - 功能齐全的 MongoDB dockerized 备份代理
  - [mongoctl](https://github.com/mongolab/mongoctl) - 使用 JSON 配置管理 MongoDB 服务器和副本集
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - 生成随机数据集并对您的设置进行基准测试
@@ -205,6 +205,7 @@ Services:
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - 从 VS Code 连接到 MongoDB 和原型查询
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac 原生客户端
  - [Mongotron](http://mongotron.io/) - 使用 Electron 构建的跨平台和开源客户端
+ - [Moon Modeler](http://www.datensen.com/) - 用于 MongoDB 和关系数据库的数据建模工具
  - [NoSQLBooster](https://nosqlbooster.com) - 功能丰富但易于使用的跨平台 IDE（以前称为 MongoBooster）
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - 跨平台、自托管且易于使用的管理工具（以前称为 Mongoclient）
  - [QueryAssist](https://queryassist.com) - 现代而强大的 GUI 工具，跨平台且易于使用
@@ -266,7 +267,7 @@ Services:
  - [GrandNode](https://github.com/grandnode/grandnode) - 使用 ASP.NET 构建的多平台电子商务购物车
  - [Leanote](https://github.com/leanote/leanote) - 使用 Go 构建的 Evernote 克隆
  - [NodeBB](https://github.com/NodeBB/NodeBB) - 基于 Node.js 的论坛软件（“为现代网络构建”）
- - [Reaction](https://github.com/reactioncommerce/reaction) - Event-driven, real-time commerce platform built with ES6
+ - [Reaction](https://github.com/reactioncommerce/reaction) - 使用 ES6 构建的事件驱动的实时商务平台
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - SaaS 产品的样板，使用 TypeScript、React 和 Express 构建
  - [uptime](https://github.com/fzaninotto/uptime) - 使用 Node.js 和 Bootstrap 构建的远程监控应用程序
  - [WildDuck Mail Server](https://wildduck.email/) - 使用 MongoDB 进行电子邮件存储的可扩展高可用性电子邮件服务器

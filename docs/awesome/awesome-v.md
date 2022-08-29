@@ -46,6 +46,7 @@
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和情节 *[Is V still fast?](https://fast.vlang.io/)*.
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.
+- [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载器应用程序（CLI / Telegram Bot）.
 
 ### Graphics
 
@@ -133,7 +134,7 @@
 
 ### Database clients
 
-- [redis](https://github.com/patrickpissurno/vredis) - V 的 Redis 客户端，用 V 编写.
+- [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
 - [vsql](https://github.com/lydiandy/vsql) - V 的 sql 查询生成器.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - V 的 Memcached 客户端，用 V 编写.
 
@@ -164,7 +165,7 @@
 
 ### Telegram
 
-- [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
+- [vgram](https://github.com/dariotarantini/vgram) - 电报机器人库.
 
 ### Discord
 

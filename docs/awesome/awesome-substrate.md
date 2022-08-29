@@ -104,7 +104,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [C++ API](https://github.com/usetech-llc/polkadot_api_cpp) - 由 Usetech 维护.
 - [Go RPC Client](https://github.com/centrifuge/go-substrate-rpc-client/) - 由维护 [Centrifuge](https://centrifuge.io/).
 - [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - 由维护 [Nodle.io](https://github.com/NodleCode).
-- [Polkadot-JS API](https://github.com/polkadot-js/api/) - 基于 Substrate 的链的半官方 JavaScript 库.
+- [Polkadot-JS API](https://github.com/polkadot-js/api/) - Semi-official JavaScript library for Substrate-based chains.
 - [Python Interface](https://github.com/polkascan/py-substrate-interface) - 由维护 [Polkascan Foundation](https://polkascan.org/).
 - [Rust API Client](https://github.com/scs/substrate-api-client) - Rust 客户端由 [Supercomputing Systems AG](https://www.scs.ch/).
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 及更多，由 Subscan 开发.
@@ -154,6 +154,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Hydra](https://github.com/Joystream/hydra) - Substrate 节点的 GraphQL 框架.
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为 FRAME Con​​tracts 托盘和墨​​水编写的智能合约测试网！
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 生态系统的零知识工具.
+- [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - 一个自托管网页，显示任何给定网络的最新元数据和链规范.
 - [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - 包含静态信息和元数据以支持 Polkadot 生态系统中的客户端应用程序将其映射到各种网络.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC 的 Polkadot 节点监控和警报解决方案，兼容许多 Substrate 链. 
@@ -189,7 +190,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Gossamer](https://github.com/ChainSafe/gossamer)  - 一个用 Go 实现的 Polkadot 客户端； 从 [ChainSafe](https://chainsafe.io/).
 - [Kagome](https://kagome.readthedocs.io/en/latest/)  - Polkadot 客户端的 C++17 实现； 从 [Soramitsu](http://www.soramitsu.co.jp/).
-- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) - An account-based Substrate proof-of-concept runtime written in AssemblyScript; from [LimeChain](https://limechain.tech/).
+- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime)  - 用 AssemblyScript 编写的基于帐户的 Substrate 概念验证运行时； 从 [LimeChain](https://limechain.tech/).
 
 ## SCALE Codec
 
