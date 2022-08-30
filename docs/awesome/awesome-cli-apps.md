@@ -8,7 +8,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 精选的命令行应用程序列表.
+&gt; 命令行应用程序的精选列表.
 
 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
@@ -37,7 +37,7 @@
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - mpd 客户端.
 - [moc](http://moc.daper.net/) - 适用于 Linux/UNIX 的控制台音频播放器.
-- [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
+- [musikcube](https://github.com/clangen/musikcube) - 跨平台、基于终端的音乐播放器、音频引擎、元数据索引器和服务器.
 - [beets](https://github.com/beetbox/beets) - 音乐库管理器和标记器.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify 客户端.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify 歌词.
@@ -108,7 +108,7 @@
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是否已启动.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
-- [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中删除评论.
+- [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中删除注释.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 将目录部署到网络.
 - [loadtest](https://github.com/alexfernandez/loadtest)  - 对选定的 URL 运行负载测试. 易于为您自己的目的最小限度地扩展.
@@ -147,7 +147,7 @@
 - [pm2](https://pm2.io/runtime/) - Node.js 的生产流程管理器.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 syslog.
-- [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 大小调整.
+- [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息传递平台和电子邮件发送消息/警报.
 
@@ -188,7 +188,7 @@
 ## Productivity
 
 - [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传屏幕截图到 imgur.
-- [bitly-client](https://github.com/specious/bitly-client) - 比特利客户端.
+- [bitly-client](https://github.com/specious/bitly-client) - Bitly client.
 - [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您所做的事情.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频叠加和多显示器支持的 ffmpeg 截屏视频.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 将图像上传到 imgur.
@@ -259,6 +259,7 @@
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 在没有浏览器的情况下搜索很棒的列表.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git 集成备份工具.
 - [deadlink](https://github.com/nschloe/deadlink) - 在文件中查找死链接.
+- [crawley](https://github.com/s0rg/crawley) - Unix 方式的网络爬虫.
 
 ### macOS
 
@@ -271,7 +272,7 @@
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - 管理 wifi 连接.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/id/等.
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换暗模式.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换黑暗模式.
 
 ### Terminal Sharing Utilities
 
@@ -450,9 +451,9 @@
 
 - [autojump](https://github.com/wting/autojump) - 一个学习的 cd 命令 - 从命令行轻松导航目录.
 - [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对文件和目录的快速访问，灵感来自 autojump、z 和 v.
-- [pm](https://github.com/Angelmmiguel/pm) - 在 shell 上切换到您的项目的简单方法.
+- [pm](https://github.com/Angelmmiguel/pm) - 在 shell 上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) - z 是新的 j，哟.
-- [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker 会为您提供一个漂亮的 UI，以选择您感兴趣的文件.
+- [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker 会为您提供一个漂亮的用户界面来选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) - z 的无缝模糊选项卡完成.
 - [goto](https://github.com/iridakos/goto) - 具有自动完成功能的 shell 的目录别名.
 - [z.lua](https://github.com/skywind3000/z.lua) - `cd` 命令学习你的习惯.

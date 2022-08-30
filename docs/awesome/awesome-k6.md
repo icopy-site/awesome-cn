@@ -59,7 +59,7 @@
 - [Playlist - What others says about k6](https://www.youtube.com/playlist?list=PLJdv3RhAQXNExTjuYN9ukawFHB7ucuejp)
   - [What is K6 & How to get started with k6](https://www.youtube.com/watch?v=ZAq87eZ1w2U) - 使用 k6 Extensions for Observability 的教程，通过“它是可观察的吗？”
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
-  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者 Chris James.
+  - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - 开源负载和性能回归测试工具 k6 的演练，以及如何对您的 API 和网站进行负载测试，作者：Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 简介. 
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas 在 2021 年云峰会上.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf 使用 GitHub co-pilot 编写 k6 测试.
@@ -72,8 +72,9 @@
 - [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - 作为 Azure DevOps Pipeline 的一部分运行 k6 负载测试.
 - [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - 作为 Bitbucket Pipeline 构建的一部分运行 k6 负载测试.
 - [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - 使用 k6 对 websocket 进行性能测试的示例.
-- [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - 将 TypeScript 与 k6 一起使用的模板.
 - [k6-template-es6](https://github.com/grafana/k6-template-es6) - 用于将测试项目捆绑到可由 k6 运行的单个测试脚本的模板存储库.
+- [k6 templates](https://github.com/tom-miseur/k6-templates/) - 用于 k6 项目的自以为是的入门模板.
+- [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - 将 TypeScript 与 k6 一起使用的模板.
 - [example-data-generation](https://github.com/grafana/k6-example-data-generation) - 使用 faker 为 k6 生成真实数据.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances)  - 一个 .NET 混沌工程研讨会. 使用 Simmy 和 k6.
 - [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - 使用 cronjobs 在 Kubernetes 中持续运行 k6 测试.

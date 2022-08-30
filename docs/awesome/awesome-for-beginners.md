@@ -23,6 +23,7 @@
 ## C
 
 - [Neovim](https://github.com/neovim/neovim)  _（标签：好第一期）_<br>  Vim-fork 专注于可扩展性和敏捷性.
+- [Profanity](https://github.com/profanity-im/profanity)  _（标签：好第一期）_<br>  Ncurses XMPP 聊天客户端.
 
 ## C#
 
@@ -35,7 +36,7 @@
 ## C++
 
 - [electron](https://github.com/electron/electron)  _（标签：好第一期）_<br> 使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序
-- [Godot Engine](https://github.com/godotengine/godot) _(label: junior-job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [MoveIt](https://github.com/ros-planning/moveit)  _（标签：好第一期）_<br> 易于使用的开源机器人操作平台，用于开发商业应用程序、原型设计和基准测试算法.
 - [projectM](https://github.com/projectM-visualizer/projectm)  _（标签：好第一期）_<br> 使用 OpenGL 和 GLSL 的音乐可视化库. 拥有使用 Qt5、SDL、emscripten、iTunes、Kodi 的应用程序.
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit)  _（标签：需要帮助）_<br> 用于通过网络进行实时音频流传输的工具包.
@@ -57,6 +58,7 @@
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www)  _（标签：初学者）_<br> 一个涵盖 Dart 语言和通用库的网站，面向 Dart 库、Web 应用程序、服务器端代码和移动 (Flutter) 应用程序的开发人员.
+- [flutter](https://github.com/flutter/flutter)  _（标签：良好的首次贡献）_<br>  Flutter 是 Google 的 UI 工具包，用于从单个代码库为移动、Web、桌面和嵌入式设备构建漂亮的原生编译应用程序.
 
 ## Elixir
 
@@ -69,7 +71,7 @@
 - [Docker/CLI](https://github.com/docker/cli)  _（标签：经验/初学者）_<br> 码头工人 CLI
 - [Helm](https://github.com/kubernetes/helm)  _（标签：好第一期）_<br>  Kubernetes 包管理器
 - [httpexpect](https://github.com/gavv/httpexpect)  _（标签：需要帮助）_<br>  Go 的端到端 HTTP 和 REST API 测试.
-- [Hugo](https://github.com/spf13/hugo)  _（标签：经验/初学者）_<br> 用 GoLang 用爱构建的快速灵活的静态站点生成器
+- [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [Killgrave](https://github.com/friendsofgo/killgrave)  _（标签：好第一期）_<br> 在 Go 中生成模拟服务器的简单方法.
 - [Kubernetes](https://github.com/kubernetes/kubernetes)  _（标签：好第一期）_<br> 生产级集装箱调度管理系统
 - [lxd](https://github.com/lxc/lxd)  _（标签：简单）_<br> 系统容器和虚拟机管理器.
@@ -78,7 +80,7 @@
 - [Moby](https://github.com/moby/moby)  _（标签：经验/初学者）_<br> 开源应用容器引擎
 - [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue)  _（标签：不适用）_<br> 使用标准 Linux 网络和路由协议的 Kubernetes 负载均衡器编排器.
 - [script](https://github.com/bitfield/script)  _（标签：好第一期）_<br> 一个 Go 库，用于执行 shell 脚本擅长的任务：读取文件、执行子进程、计算行数、匹配字符串等. 非常欢迎初学者，他们将通过 PR 过程获得详细的代码审查和帮助.
-- [Terraform](https://github.com/hashicorp/terraform) _(label: good-first-issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
+- [Terraform](https://github.com/hashicorp/terraform)  _（标签：好第一期）_<br> 一种用于安全高效地构建、更改和版本控制基础架构的工具.
 - [TiDB](https://github.com/pingcap/tidb)  _(label: for-new-contributors)_<br> 分布式可扩展混合事务和分析处理 (HTAP) 数据库
 
 ## Java
@@ -91,7 +93,7 @@
 - [SirixDB](https://github.com/sirixdb/sirix)  _（标签：好第一期）_<br>  SirixDB 是一个进化的、版本化的 NoSQL 文档存储（XML 和 JSON），（大部分）用 Java 编写. 它在提交期间存储紧凑的快照，其中包含许多从 ZFS 和 Git 借来的概念. 每个修订都被索引，并且可以使用时间查询来查询文档存储. 它特别适合现代硬件.
 - [Strongbox](https://github.com/strongbox/strongbox)  _（标签：好第一期）_<br>  Strongbox 是一个用 Java 编写的工件存储库管理器.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates)  _（标签：好第一期）_<br>  TEAMMATES 是一个免费的在线工具，用于管理学生的同行评估和其他反馈路径.
-- [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good-first-issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
+- [Trino (formerly Presto SQL)](https://github.com/trinodb/trino)  _（标签：好第一期）_<br> 用于大数据的分布式 SQL 查询引擎. 寻求有关项目 Slack 的指导.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons)  _（标签：好第一期）_<br> 允许用户从他们的安卓手机/平板电脑上传图片到维基共享资源.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding)  _（标签：不适用）_<br>  XWiki 是一个用 Java 编写的免费 wiki 软件平台，其设计重点是可扩展性. 初学者应遵循入门 wiki.
 - [zerocode](https://github.com/authorjapps/zerocode)  _（标签：好第一期）_<br> 无需编码的 API 自动化，简单的 JSON 响应断言，测试 REST、SOAP、Kafka 和 Java/DB API，CI/Jenkins 友好.
@@ -100,19 +102,16 @@
 
 - [altair](https://github.com/imolorhe/altair)  _（标签：好第一期）_<br> 适用于所有平台的功能丰富的漂亮 GraphQL 客户端.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast)  _（标签：简单）_<br> 回合制策略游戏，您可以在其中 3D 打印一队具有独特能力的生物，以击败您的敌人.
-- [annyang](https://github.com/TalAter/annyang)  _（标签：仅限初学者）_<br> 一个流行的语音识别库，用于与从网站到智能镜子到飞行无人机的所有内容进行通信.
 - [appsmith](https://github.com/appsmithorg/appsmith)  _（标签：好第一期）_<br> 拖放内部工具生成器
-- [Atom](https://github.com/atom/atom)  _（标签：初学者）_<br> 可破解的文本编辑器
 - [AVA](https://github.com/sindresorhus/ava)  _（标签：适合初学者）_<br> 未来派测试赛跑者.
 - [Babel](https://github.com/babel/babel)  _（标签：好第一期）_<br> 用于编写下一代 JavaScript 的编译器.
 - [Binari](https://github.com/BrandonArmand/Binari)  _（标签：抢购）_<br> 具有实时二叉树视觉效果的交互式代码编辑器，旨在向新开发人员传授动态编程的基础知识.
-- [Botpress](https://github.com/botpress/botpress)  _（标签：好第一期）_<br> 构建出色机器人的唯一明智方法.
+- [Botpress](https://github.com/botpress/botpress)  _（标签：贡献者友好）_<br> 构建出色机器人的唯一明智方法.
 - [Brave Browser](https://github.com/brave/brave-browser)  _（标签：好第一期）_<br> 适用于 macOS、Windows 和 Linux 的桌面浏览器.
 - [cdnjs](https://github.com/cdnjs/cdnjs)  _（标签：好第一期）_<br> 最好的 FOSS Web 前端资源 CDN
 - [Check It Out](https://github.com/jwu910/check-it-out)  _（标签：好第一期）_<br>  Check It Out 是一个类似 ncurses 的 CLI，让用户可以交互地导航并选择一个 git 分支进行检查.
 - [Create React App](https://github.com/facebook/create-react-app)  _（标签：好第一期）_<br> 创建没有构建配置的 React 应用程序.
-- [cypress](https://github.com/cypress-io/cypress)  _（标签：仅限初学者）_<br> 对在浏览器中运行的任何东西进行快速、简单和可靠的测试.
-- [Dragula](https://github.com/bevacqua/dragula)  _（标签：仅限初学者）_<br> 拖放如此简单，它很痛.
+- [cypress](https://github.com/cypress-io/cypress)  _（标签：好第一期）_<br> 对在浏览器中运行的任何东西进行快速、简单和可靠的测试.
 - [electron](https://github.com/electron/electron)  _（标签：好第一期）_<br> 使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序
 - [Ember.js](https://github.com/emberjs/ember.js)  _(label: Good-for-New-Contributors)_<br> 用于创建雄心勃勃的 Web 应用程序的 JavaScript 框架.
 - [Ember.js Data](https://github.com/emberjs/data)  _(label: Good-for-New-Contributors)_<br>  Ember.js 的数据持久性库.
@@ -123,15 +122,12 @@
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby)  _（标签：好第一期）_<br> 使用 React 构建快速、现代的应用程序和网站.
 - [Ghost](https://github.com/TryGhost/Ghost)  _（标签：好第一期）_<br> 只是一个博客平台
 - [Habitica](https://github.com/HabitRPG/habitica)  _（标签：好第一期）_<br>  Habitica 是一个游戏化的任务管理器、webapp 和 android/ios 应用程序，真的很棒的氛围. 此处贡献指南（mongo、express、vue、webapp 的节点堆栈）
-- [history](https://github.com/rackt/history)  _（标签：适合初学者）_<br>  JavaScript 的最小功能历史库.
-- [Hoodie Camp](https://github.com/hoodiehq/camp)  _（标签：仅限初学者）_<br>  Hoodie Camp 是一个供新老贡献者使用的空间.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch)  _（标签：好第一期）_<br> 免费、快速、美观的 API 请求生成器.
 - [Hyper](https://github.com/zeit/hyper)  _（标签：好第一期）_<br>  JS/HTML/CSS 终端
 - [iD](https://github.com/openstreetmap/iD)  _（标签：好第一期）_<br>  JavaScript 中易于使用的 OpenStreetMap 编辑器.
 - [Jest](https://github.com/facebook/jest)  _（标签：好第一期）_<br> 一个完整且易于设置的 JavaScript 测试解决方案.
 - [json-editor](https://github.com/json-editor/json-editor)  _（标签：好第一期）_<br> 基于 JSON 模式的编辑器.  JSON Editor 采用 JSON Schema 并使用它来生成 HTML 表单. 它完全支持 JSON Schema 版本 3 和 4，并且可以与几个流行的 CSS 框架（bootstrap、spectre、tailwind）集成.
 - [Kap](https://github.com/wulkano/kap)  _（标签：好第一期）_<br> 使用 Web 技术构建的开源屏幕录像机
-- [keystonejs](https://github.com/keystonejs/keystone)  _（标签：好第一期）_<br> 用于在 Node.js 中开发数据库驱动的网站、应用程序和 API 的开源框架. 建立在 Express 和 MongoDB 之上.
 - [Kinto.js](https://github.com/Kinto/kinto.js)  _（标签：容易挑选）_<br> 一个离线优先的 JavaScript 客户端，利用 Kinto API 进行远程数据同步.
 - [Leaflet](https://github.com/Leaflet/Leaflet)  _（标签：好第一期）_<br> 用于移动友好的交互式地图的 JavaScript 库.
 - [Letra Extension](https://github.com/jayehernandez/letra-extension)  _（标签：好第一期）_<br> 每次打开新标签时都被动地学习一门新语言.
@@ -139,8 +135,6 @@
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go")  _（标签：不适用）_<br>  Golang 和 React 中的开源 Slack 替代方案
 - [md-page](https://github.com/oscarmorrison/md-page)  _（标签：好第一期）_<br> 只用 markdown 创建一个网页.
 - [Meteor](https://github.com/meteor/meteor)  _（标签：好第一期）_<br>  Meteor 是一个用于构建现代 Web 应用程序的超简单环境.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol)  _（标签：仅限初学者）_<br>  Mission Control 是一个自由开放的市场，将自动驾驶汽车（例如无人机）与寻求包裹递送等服务的用户联系起来.
-- [missions](https://github.com/davfoundation/missions)  _（标签：仅限初学者）_<br>  Missions 是一款移动网络应用程序，将希望运送包裹的 DAV 用户与在开放和自由市场中寻找工作的自主无人机连接起来.
 - [Mocha](https://github.com/mochajs/mocha)  _（标签：好第一期）_<br>  Node.js 和浏览器的 Javascript 测试框架.
 - [Moment.js](https://github.com/moment/moment)  _（标签：抢购）_<br> 用于解析、验证、操作和格式化日期的轻量级 JavaScript 日期库.
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index)  _（标签：好第一期）_<br>  OpenStreetMap 的规范通用品牌名称
@@ -150,12 +144,12 @@
 - [Node.js core](https://github.com/nodejs/node)  _（标签：好第一期）_<br> 基于 Chrome 的 V8 JavaScript 引擎构建的 JavaScript 运行时
 - [nuclear](https://github.com/nukeop/nuclear)  _（标签：好第一期）_<br> 从免费来源流式传输的多平台音乐播放器.
 - [p5.js](https://github.com/processing/p5.js)  _（标签：好第一期）_<br>  p5.j​​s 是一个客户端 JS 平台，它使艺术家、设计师、学生和任何人都能够在网络上学习编码和创造性地表达自己.
-- [pdf.js](https://github.com/mozilla/pdf.js)  _（标签：5-good-beginner-bug）_<br>  JavaScript 中的 PDF 阅读器
-- [pixi.js](https://github.com/pixijs/pixi.js)  _（标签：难度：-简单）_<br>  2D JavaScript 渲染器
-- [PouchDB](https://github.com/pouchdb/pouchdb)  _（标签：仅限初学者）_<br>  PouchDB 是一个袖珍型数据库.
+- [pixi.js](https://github.com/pixijs/pixi.js)  _(label: Good First PR)_<br>  2D JavaScript 渲染器
+- [PouchDB](https://github.com/pouchdb/pouchdb)  _（标签：需要帮助）_<br>  PouchDB 是一个袖珍型数据库.
 - [Predator](https://github.com/Zooz/predator)  _（标签：好第一期）_<br> 用于负载测试 API 的强大开源平台.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct)  _（标签：需要帮助）_<br>  Ramda Adjunct 是用于 Ramda 的最流行和最全面的功能实用程序集，提供各种有用的、经过良好测试的功能和出色的文档.
 - [React](https://github.com/facebook/react)  _（标签：好第一期）_<br> 用于构建用户界面的声明式、高效且灵活的 JavaScript 库.
+- [React Help Create](https://github.com/Omar-Belghaouti/react-help-create)  _（标签：仅限初学者）_<br> 这个命令行可以帮助你为你的 react 项目创建组件、页面甚至是 redux 实现.
 - [React Native](https://github.com/facebook/react-native)  _(label: Good-first-issue)_<br> 使用 React 构建本机应用程序的框架.
 - [React server](https://github.com/redfin/react-server)  _（标签：良好的第一贡献）_<br> 带有服务器渲染的 React 框架可实现极快的页面加载和浏览器中页面之间的无缝转换.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader)  _（标签：好第一期）_<br> 轻松创建自己的 react-content-loader 的工具.
@@ -164,18 +158,17 @@
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite)  _（标签：需要帮助）_<br> 用于增强 Reddit 浏览体验的浏览器扩展.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)  _（标签：好第一期）_<br>  Semantic UI 的官方 React 集成.
 - [serverless](https://github.com/serverless/serverless)  _（标签：好第一期）_<br> 无服务器框架
-- [SimplQ](https://github.com/SimplQ/simplQ-frontend)  _（标签：好第一期）_<br> 免费的在线队列管理器，可轻松、即时地控制人群. 贡献指南
+- [SimplQ](https://github.com/SimplQ/simplQ-frontend)  _（标签：好第一期）_<br> 免费的在线队列管理器，可轻松、即时地控制人群.
 - [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end)  _（标签：好第一期）_<br>  SirixDB 的基于 Svelte/Sapper 的 Web 前端，它是用 Java 编写的版本化 NoSQL 文档存储（XML 和 JSON）.
-- [squirrelly](https://github.com/nebrelbug/squirrelly)  _（标签：好第一期）_<br>  Squirrelly 是一个轻量级的模板引擎，支持助手、过滤器、部分等.
-- [stryker](https://github.com/stryker-mutator/stryker)  _（标签：初学者友好）_<br>  JavaScript 变异测试框架
+- [stryker](https://github.com/stryker-mutator/stryker)  _（标签：好第一期）_<br>  JavaScript 变异测试框架
+- [Superalgos](https://github.com/Superalgos/Superalgos)  _（标签：好第一期）_<br> 一个完全开源的加密交易机器人，通过 SA（Superalgos）-Token 奖励良好的贡献.
 - [Svelte](https://github.com/sveltejs/svelte)  _（标签：好第一期）_<br> 在构建时运行的组件框架，将您的组件转换为高效的命令式代码，以手术方式更新 DOM.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev)  _（标签：好第一期）_<br> 为开发人员提供赃物机会.
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli)  _（标签：贡献启动器）_<br>  Tessel 2 的命令行界面.
 - [Time to Leave](https://github.com/thamara/time-to-leave)  _（标签：好第一期）_<br> 基于 Electron 和 Javascript 的工作时间跟踪器应用程序.
-- [TodoMVC](https://github.com/tastejs/todomvc)  _（标签：首次贡献者）_<br> 通过在大量 JavaScript 应用程序中实现 Todo 来帮助您选择 MV* 框架.
 - [Vest](https://github.com/ealush/vest)  _（标签：好第一期）_<br> 受单元测试框架启发的验证框架.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App)  _（标签：好第一期）_<br>  Angular &amp; Electron 应用程序，用于在您的 PC 上浏览和搜索视频.
-- [Video.js](https://github.com/videojs/video.js)  _（标签：仅限初学者）_<br> 播放器框架
+- [Video.js](https://github.com/videojs/video.js)  _（标签：好第一期）_<br> 播放器框架
 - [Vue CLI](https://github.com/vuejs/vue-cli)  _（标签：好第一期）_<br>  Vue.js 开发的标准工具
 - [Vue Router](https://github.com/vuejs/vue-router)  _（标签：好第一期）_<br>  Vue.js 的官方路由器.
 - [Vue.js](https://github.com/vuejs/vue)  _（标签：好第一期）_<br> 渐进式 JavaScript 框架.
@@ -213,14 +206,14 @@
 - [Deployer](https://github.com/deployphp/deployer)  _（标签：适合初学者）_<br> 一个用 PHP 编写的部署工具，支持开箱即用的流行框架.
 - [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：不适用）_<br> 领先的开源 CMS，可实现跨多个渠道覆盖您的受众的雄心勃勃的数字体验.
 - [Flarum](https://github.com/flarum/core)  _(label: Good-first-issue)_<br> 用于建立伟大社区的简单论坛软件.
-- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter)  _（标签：好第一期）_<br> 一个包，它提供了一种将 MailChimp 与 Laravel 5 集成的简单方法.
+- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) _(label: good-first-issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 - [Matomo](https://github.com/matomo-org/matomo)  _（标签：需要帮助）_<br>  Matomo 是领先的免费/自由开放分析平台.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R)  _（标签：不适用）_<br> 为维基百科提供支持的免费开源 wiki 软件包.
 - [NextCloud Server](https://github.com/nextcloud/server)  _（标签：好第一期）_<br>  Nextcloud 服务器，所有数据的安全之家.
 - [OrgManager](https://github.com/orgmanager/orgmanager)  _（标签：仅限初学者）_<br> 为您的 GitHub 组织增压！
 - [PHP Censor](https://github.com/php-censor/php-censor)  _（标签：适合初学者）_<br> 用于 PHP 项目的开源自托管持续集成服务器.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin)  _（标签：新手）_<br> 用 PHP 编写的 MySQL 管理界面.
-- [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good-first-issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop)  _（标签：好第一期）_<br> 用于开始您的在线业务并开始在线销售的开源电子商务解决方案.
 - [Symfony](https://github.com/symfony/symfony)  _（标签：好第一期）_<br>  Symfony 是一个用于 Web 应用程序的 PHP 框架和一组可重用的 PHP 组件.
 
 ## Python
@@ -231,7 +224,8 @@
 - [BorgBackup](https://github.com/borgbackup/borg)  _（标签：简单）_<br> 使用压缩和经过身份验证的加密对备份程序进行重复数据删除.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki)  _（标签：好第一期）_<br> 为互联网时代建设更好的民主
 - [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee)  _（标签：不适用）_<br> 一个统一的命令行界面，用于检查和修复所有代码，无论您使用哪种编程语言.
-- [cookiecutter](https://github.com/audreyr/cookiecutter)  _（标签：低垂的果实）_<br> 从 cookiecutters（项目模板）创建项目的命令行实用程序. 例如 Python 包项目、jQuery 插件项目.
+- [Colossal-AI](https://github.com/hpcaitech/ColossalAI)  _（标签：好第一期）_<br> 一种用于大规模模型训练和推理的高效、低成本的开源深度学习系统.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter)  _（标签：好第一期）_<br> 从 cookiecutters（项目模板）创建项目的命令行实用程序. 例如 Python 包项目、jQuery 插件项目.
 - [Create aio app](https://github.com/aio-libs/create-aio-app)  _（标签：好第一期）_<br> 使用最佳实践创建 aiohttp 模板的命令行实用程序.
 - [datascience](https://github.com/data-8/datascience)  _（标签：好第一期）_<br> 用于介绍数据科学的 Jupyter 笔记本 Python 库.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django)  _（标签：hacktoberfest）_<br> 用于后端 Web 开发的 Python 实现.
@@ -247,11 +241,11 @@
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy)  _（标签：需要帮助）_<br> 一个交互式的支持 TLS 的拦截 HTTP 代理，供渗透测试人员和软件开发人员使用
 - [mygpo](https://github.com/gpodder/mygpo)  _（标签：入门问题）_<br>  gpodder.net 的网络服务，这是一个自由网络服务，允许用户管理他们的播客订阅和发现新内容.
 - [mypy](https://github.com/python/mypy)  _（标签：好第一期）_<br>  python的可选静态类型.
-- [numpy](https://github.com/numpy/numpy)  _（标签：好第一期）_<br> 它是科学计算的核心库，包含一个强大的 n 维数组对象.
 - [opsdroid](https://github.com/opsdroid/opsdroid)  _（标签：好第一期）_<br> 一个开源聊天操作机器人框架.
-- [pandas](https://github.com/pandas-dev/pandas)  _（标签：好第一期）_<br> 灵活而强大的 Python 数据分析/操作库，提供类似于 R 的数据结构的标记数据.frame 对象、统计函数等等
+- [pandas](https://github.com/pandas-dev/pandas)  _（标签：好第一期）_<br> 灵活而强大的 Python 数据分析/操作库，提供类似于 R 的数据结构、框架对象、统计函数等
 - [Pytest](https://github.com/pytest-dev/pytest)  _（标签：状态：-easy）_<br>  pytest 框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
 - [Python Babel](https://github.com/python-babel/babel)  _（标签：难度/低）_<br>  Python 国际化库.
+- [pythonping](https://github.com/alessandromaggio/pythonping)  _（标签：好第一期）_<br>  PythonPing 是一个简单的库，可以在 Python 中本地执行 ICMP ping，而无需生成 shell.
 - [Pytorch](https://github.com/pytorch/pytorch)  _（标签：好第一期）_<br>  PyTorch 是一个基于 Torch 库的开源机器学习库，用于计算机视觉和自然语言处理等应用.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn)  _（标签：好第一期）_<br>  Scikit-learn 是 Python 的机器学习库.
 - [scrapy](https://github.com/scrapy/scrapy)  _（标签：好第一期）_<br> 用于 Python 的快速高级 Web 抓取和抓取框架.
@@ -273,7 +267,7 @@
 - [JRuby](https://github.com/jruby/jruby)  _（标签：初学者）_<br>  Java 虚拟机上的 Ruby 实现.
 - [mapknitter](https://github.com/publiclab/mapknitter)  _（标签：仅限初学者）_<br> 上传您自己的航拍图像，将它们定位（橡皮图）在现有地图数据的网络界面中，并通过网络或合成共享并导出打印.
 - [Matestack](https://github.com/matestack/matestack-ui-core)  _（标签：好第一期）_<br> 用纯 Ruby 编写动态用户界面. 基于 Vue.js 构建的 Rails 引擎
-- [ohai](https://github.com/chef/ohai)  _（标签：类型：-跳入）_<br>  Ohai 配置您的系统并发出 JSON
+- [ohai](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
 - [open-build-service](https://github.com/openSUSE/open-build-service)  _(label: good-first-issue-:1st_place_medal:)_<br> 一个通用系统，以自动、一致和可重复的方式从源构建和分发包.
 - [osem](https://github.com/openSUSE/osem)  _（标签：好第一期）_<br> 开源事件管理器. 专为免费和开源软件会议量身定制的活动管理工具
 - [PublicLab.org](https://github.com/publiclab/plots2)  _（标签：仅限初学者）_<br> 环境项目的开源发布平台. 查看新的贡献者欢迎页面.
@@ -282,11 +276,13 @@
 
 ## Rust
 
+- [a-b-street](https://github.com/a-b-street/abstreet)  _（标签：好第一期）_<br> 交通规划和交通模拟软件，用于创建更适合步行、骑自行车和公共交通的城市.
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)  _（标签：好第一期）_<br>  .env 文件的闪电般快速的 linter. 用锈写
 - [Hyper](https://github.com/hyperium/hyper)  _（标签：E-easy）_<br> 一个快速、安全和正确的 Rust 低级 HTTP 库.
 - [Iron](https://github.com/iron/iron)  _（标签：简单）_<br> 一个可扩展的、并发的 Rust 网络框架
 - [nushell](https://github.com/nushell/nushell)  _（标签：好第一期）_<br> 用 Rust 编写的 GitHub 时代的现代 shell.
-- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy)  _（标签：好第一期）_<br> 一堆 lint 来捕捉常见错误并改进 Rust 代码
+- [Ockam](https://github.com/ockam-network/ockam)  _（标签：好第一期）_<br> 分布式应用程序的端到端加密和相互身份验证.
+- [Rust-Clippy](https://github.com/rust-lang/rust-clippy)  _（标签：好第一期）_<br> 一堆 lint 来捕捉常见错误并改进 Rust 代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt)  _（标签：好第一期）_<br> 根据样式指南格式化 Rust 代码的工具.
 - [Servo](https://github.com/servo/servo)  _（标签：E-easy）_<br> 为包括嵌入式使用在内的应用程序设计的浏览器引擎.
 - [TiKV](https://github.com/tikv/tikv)  _（标签：难度/容易）_<br> 分布式事务键值数据库
@@ -307,6 +303,7 @@
 
 ## TypeScript
 
+- [Amplication](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [Booster](https://github.com/boostercloud/booster)  _（标签：好第一期）_<br> 真正的无服务器框架，无需任何服务器配置文件即可在几秒钟内编写并部署代码.
 - [game-of-life](https://github.com/TroyTae/game-of-life)  _（标签：好第一期）_<br> 康威的生命游戏网页版！
 - [Graphback](https://github.com/aerogear/graphback)  _（标签：好第一期）_<br> 一个 CLI 和运行时框架，可在几秒钟内生成 GraphQL API.
@@ -314,8 +311,8 @@
 - [LitmusChaos](https://github.com/litmuschaos/litmus)  _（标签：好第一期）_<br>  Litmus 是用于进行云原生混沌工程的工具集.
 - [reatom](https://github.com/artalar/reatom)  _（标签：好第一期）_<br>  Reatom 是声明式和反应式状态管理器，专为简单和复杂的应用程序而设计.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)  _（标签：好第一期）_<br> 一个 0-legacy、微型和快速的 web 框架，作为 Express 的替代品.
-- [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules)  _(label: nice-first-contribution)_<br>  TSLint 的 ESLint 规则.
 - [TypeScript](https://github.com/Microsoft/TypeScript)  _（标签：好第一期）_<br>  JavaScript 的超集，可编译以清理 JavaScript 输出.
+- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)  _（标签：好第一期）_<br>  Monorepo 用于所有使 ESLint 支持 TypeScript 的工具.
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  _（标签：好第一期）_<br> 一种新型工具，将代码编辑器的简单性与开发人员核心编辑-构建-调试周期所需的功能相结合.
 
 
@@ -325,7 +322,7 @@
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>Thamara Andrade</b></sub></a></td></tr></table>
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉·安德拉德</b></sub></td></tr></table>
 
 ## License
 

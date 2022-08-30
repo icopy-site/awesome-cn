@@ -71,7 +71,7 @@
 
 #### Dart
 
-- [dart.webdriver](https://github.com/google/webdriver.dart)  - 为 Dart 提供 WebDriver 绑定. 这些使用 WebDriver JSON 接口，因此需要使用 WebDriver 远程服务器. 
+- [dart.webdriver](https://github.com/google/webdriver.dart)  - 为 Dart 提供 WebDriver 绑定. 这些使用 WebDriver JSON 接口，因此需要使用 WebDriver 远程服务器.
 
 ### CSS Regression Testing
 
@@ -103,7 +103,7 @@
 - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver 是一个独立的服务器，它为 Chromium 实现了 WebDriver 的有线协议.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - InternetExplorerDriver 是一个独立的服务器，它实现了 WebDriver 的有线协议.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - 用于 Edge 的 Microsoft Webdriver 服务器
-- [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver)  - SafariDriver 被实现为 Safari 浏览器扩展. 该驱动程序颠倒了传统的客户端/服务器关系，并使用 WebSockets 与 WebDriver 客户端通信（仅支持 Safari &lt;= v9，所有与 macOS Sierra 一起的新 Safari 版本都带有一个由 Apple 封闭源代码的集成 SafariDriver）.
+- [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver)  - SafariDriver 被实现为 Safari 浏览器扩展. 该驱动程序颠倒了传统的客户端/服务器关系，并使用 WebSockets 与 WebDriver 客户端通信（仅支持 Safari &lt;= v9，所有新的 Safari 版本与 macOS Sierra 一起带有一个集成的 SafariDriver，它由 Apple 封闭源代码）.
 - [Opera](https://github.com/operasoftware/operachromiumdriver/blob/master/README.md) - OperaDriver 是由 Opera Software 和志愿者开发的供应商支持的 WebDriver 实现，用于实现 Opera 的 WebDriver API.
 
 #### Mobile (browsers and apps)
@@ -134,7 +134,7 @@
 ### Selenium Grid
 
 - [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - 一个提供基本 Selenium Grid 之外的附加功能的框架，如视频录制.
-- [SeLion](https://github.com/paypal/SeLion) - 一个（Java）框架，用于运行 Selenium 测试，具有基本 Selenium Grid 功能之外的附加功能，特别是稳定性改进等.
+- [SeLion](https://github.com/paypal/SeLion) - 一个 (Java) 框架，用于运行 Selenium 测试，具有基本 Selenium Grid 功能之外的附加功能，特别是稳定性改进等.
 - [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) - Selenium Grid 的一组扩展，提供附加功能，例如远程运行 Sikuli 测试/自动化，在网格节点上上传/下载文件.
 
 ### Cloud Services
@@ -160,7 +160,7 @@
 ### Specifications
 
 - [The WebDriver Wire Protocol](https://www.selenium.dev/documentation/legacy/json_wire_protocol/) - 与浏览器或 RemoteWebDriver 服务器通信的所有 WebDriver 实现都应使用通用有线协议.
-- [WebDriver](http://www.w3.org/TR/webdriver/) - 该规范定义了 WebDriver API、平台和语言中立的接口和相关的有线协议，允许程序或脚本自省并控制 Web 浏览器的行为.
+- [WebDriver](http://www.w3.org/TR/webdriver/) - 本规范定义了 WebDriver API、平台和语言中立的接口和相关的有线协议，允许程序或脚本自省并控制 Web 浏览器的行为.
 
 ### Blogs
 
