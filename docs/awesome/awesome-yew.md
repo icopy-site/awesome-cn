@@ -81,6 +81,7 @@
 - [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - 使用 Rust 和 Yew 的 Rubix Cube 求解器， [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - 使用 Rust、Yew、Bulma 和 Tauri 构建的纸牌游戏洗牌实用程序.
 - [Rust Audio](https://github.com/austintheriot/audio) - 在浏览器中使用 Rust/WASM 进行实时音频处理/合成， [Live Demo](https://austintheriot.github.io/audio/).
+- [Kiomet](https://kiomet.com) - 一款在线实时战略游戏，您可以在其中通过占领塔来扩展您的领土.
 
 ## Templates
 
@@ -90,7 +91,7 @@
 - [yew-parcel-template](https://github.com/spielrs/yew-parcel-template) - 令人敬畏的 Yew 与 Yew-Router 和 Parcel 应用程序.
 - [yew-template-for-github-io](https://github.com/Ja-sonYun/yew-template-for-github-io) - 用于 github.io 的 yew 项目的可直接部署模板，使用 tailwind 和 webpack 进行 css，trunk 用于构建和服务.
 - [tailwindcss-yew-template](https://github.com/vvcaw/tailwindcss-yew-template) - 将 Tailwindcss 与 Yew 结合使用的简单布局.
-- [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - A starter project that sets up Axum and Yew for full stack Rust web apps.
+- [axum-yew-setup](https://github.com/rksm/axum-yew-setup) - 一个启动项目，为全栈 Rust Web 应用程序设置 Axum 和 Yew.
 - [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri，桌面应用程序的全栈 Rust 开发.
 - [Yew PWA Minimal](https://github.com/fkohlgrueber/yew-pwa-minimal) - 使用 Yew 的最小渐进式 Web 应用程序.
 - [Yew HTTP Starter](https://github.com/LeTurt333/yew_http_starter) - 带有简单 HTTP 消息和有用的帮助注释的 Yew 模板.
@@ -118,7 +119,7 @@
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - 当父组件改变宽度/高度时发出事件的 Yew 组件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - 用于虚拟滚动/滚动窗口的 Yew 组件.
 - [yew-oauth2](https://github.com/ctron/yew-oauth2/) - 一个普通的 Yew OAuth2/OpenIDConnect 组件，不依赖于任何 CSS 框架.
-- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - 红豆杉的自定义滚动区域.
+- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
 ### Hooks
 

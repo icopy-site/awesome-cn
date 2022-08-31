@@ -96,7 +96,7 @@
 如果您想改进 OpenStreetMap，本节是一个很好的起点.
 
 * [HOT Tasking Manager](https://tasks.hotosm.org/) - 映射任务以支持危机地区的人道主义任务.
-* [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
+* [MapRoulette](https://maproulette.org/)  - 进行小编辑以完成大任务的各种挑战.  ([Source Code](https://github.com/osmlab/maproulette3) / [Wiki](https://wiki.openstreetmap.org/wiki/MapRoulette))
 * [Pic4Review](https://pic4review.pavie.info/#/)  - 通过查看图像将对象添加到 OSM 的工具.  ([Source Code](https://framagit.org/Pic4Carto/Pic4Review) / [Wiki](https://wiki.openstreetmap.org/wiki/Pic4Review))
 * [Map Complete](https://mapcomplete.osm.be/)  - 用于在范围任务中进行映射的工具.  ([Wiki](https://wiki.openstreetmap.org/wiki/MapComplete))
 * [Damn Project](https://www.damn-project.org/)  - 通过将大区域划分为人类可绘制的小方块来绘制地图.  ([Source Code](https://git.sr.ht/~qeef/damn-deploy) / [Wiki](https://wiki.openstreetmap.org/wiki/Divide_and_map._Now.))
@@ -121,6 +121,8 @@
 * [Road Curvature](https://roadcurvature.com/map/)  - 帮助那些喜欢它们的人找到弯曲的道路.  ([Source Code](https://github.com/adamfranco/curvature))
 * [OpenLevelUp!](https://openlevelup.net/) - 基于 OSM 的室内查看器.（[Wiki](https://wiki.openstreetmap.org/wiki/OpenLevelUp))
 * [AccessMap](https://www.accessmap.io/)  - 一个网络地图项目，可为行动不便的人提供无障碍、安全的人行道旅行计划. 目前渲染华盛顿州的几个城市.  ([Source Code](https://github.com/accessmap))
+* [OSM Landuse](https://osmlanduse.org) - 基于 OSM 的土地利用和土地覆盖 WebGIS 应用程序.
+* [OsmAPP](https://osmapp.org)  - 可浏览的地图显示数据并提供简单的 POI 编辑功能.  ([Source Code](https://github.com/zbycz/osmapp))
 
 ### Mobile Maps
 
@@ -136,12 +138,18 @@
 
 ### Map Styles
 
-* [Terrain Classic](https://github.com/stamen/terrain-classic) - Stamen 经典地形风格的全球 CartoCSS 端口.
+* [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
 
 ### Map Games
 
 * [Back Of Your Hand](https://backofyourhand.com/)  - 一个网络地图游戏，通过让您在给定区域中找到一条街道来测试您的知识.  ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 * [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper)  - GPS游戏服务器，用于制作探索现实世界的手机游戏.  ([Source Code](https://github.com/drakewill-CRL/PraxisMapper))
+
+### Goal Tracking
+
+此类别中的服务允许您使用 OpenStreetMap 数据跟踪个人和健身目标.
+
+* [CityStrides](https://citystrides.com/)  - 一个鼓励用户跑遍他们所在城市的每条街道的网络平台. 根据你的 Strava 数据，它会显示你已经跑过和没有跑过的地方，提供挑战、排行榜和论坛.
 
 ## Libraries
 
@@ -166,6 +174,7 @@
 * [osmcha](https://github.com/willemarcel/osmcha) - 用于检测可疑 OSM 变更集的 Python 包.
 * [osmnx](https://github.com/gboeing/osmnx)  - 街道网络的可视化工具.  ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 * [python-mapnik](https://github.com/mapnik/python-mapnik) - mapnik 的 Python 包装器.
+* [prettymapp](https://github.com/chrieke/prettymapp) - 从 OpenStreetMap 数据创建精美的地图.
 
 ### Java
 

@@ -16,7 +16,7 @@
 * [BDR](https://github.com/2ndQuadrant/bdr) - 双向复制 - PostgreSQL 的多主机复制系统
 * [Patroni](https://github.com/zalando/patroni) - 带有 ZooKeeper 或 etcd 的 PostgreSQL HA 模板.
 * [Stolon](https://github.com/sorintlab/stolon) - 基于 Consul 或 etcd 的 PostgreSQL HA，与 Kubernetes 集成.
-* [pglookout](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
+* [pglookout](https://github.com/aiven/pglookout) - 复制监控和故障转移守护进程.
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - 用于管理 PostgreSQL 服务器集群中的复制和故障转移的开源工具套件.
 * [Slony-I](https://slony.info/) - 具有级联和故障转移的“主到多个从”复制系统.
 * [PAF](https://github.com/ClusterLabs/PAF) - PostgreSQL 自动故障转移：Postgres 的高可用性，基于 Pacemaker 和 Corosync.
@@ -107,7 +107,7 @@
 * [pg\_shard](https://github.com/citusdata/pg_shard) - 扩展实时读写.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - 扩展以将 CPU 密集型工作负载卸载到 GPU.
 * [pgxn](https://pgxn.org/) PostgreSQL 扩展网络 - 许多开源 PostgreSQL 扩展的中央分发点
-* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - 一个 PostgreSQL 扩展，在流上连续运行 SQL 查询，将结果增量存储在表中.
+* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - 允许检查 plpgsql 源代码的扩展.
 * [PostGIS](http://postgis.net/) - PostgreSQL 的空间和地理对象.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres 绑定作为加密库 Themis 的扩展，在 PgSQL 方面提供各种安全服务.
@@ -150,7 +150,7 @@
 * [pg_docs_bot](https://github.com/mchristofides/pg_docs_bot/) - 将 PostgreSQL 文档链接重定向到当前版本的浏览器扩展.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - 以简单的方式将 CSV 和 JSON 导入 PostgreSQL.
 * [PGInsight](http://pginsight.io/) - CLI 工具可轻松深入您的 PostgreSQL 数据库.
-* [pg_insights](https://github.com/lob/pg_insights) - 用于监控 Postgres 数据库运行状况的便捷 SQL.
+* [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用 COPY 流协议将数据加载到 PostgreSQL 中，并使用单独的线程来读取和写入数据.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - 可以部署到裸机、虚拟机或 Kubernetes 的 Postgres 指标收集和可视化.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池、复制、负载平衡和限制超出连接的中间件.
@@ -160,7 +160,7 @@
 * [PostgREST](https://github.com/PostgREST/postgrest) - 提供来自任何现有 PostgreSQL 数据库的完全 RESTful API.
 * [pREST](https://github.com/prest/prest) - 从任何 PostgreSQL 数据库 (Golang) 提供 RESTful API
 * [PostGraphile](https://github.com/graphile/postgraphile) - 用于 PostgreSQL 数据库的即时 GraphQL API 或 GraphQL 架构
-* [yoke](https://github.com/nanopack/yoke) - 具有自动故障转移和自动集群恢复的 PostgreSQL 高可用性集群.
+* [yoke](https://github.com/nanopack/yoke) - 具有自动故障转移和自动集群恢复功能的 PostgreSQL 高可用性集群.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - 建立在 `node-postgres` 之上的轻量级 PostgresSQL `LISTEN`/`NOTIFY` 守护进程.
 * [ZSON](https://github.com/postgrespro/zson) - 用于透明 JSONB 压缩的 PostgreSQL 扩展
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - 它是 PostgreSQL 的高速数据加载实用程序.
@@ -188,18 +188,19 @@
 * R： [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL)
 * 红宝石： [pg](https://github.com/ged/ruby-pg)
 *锈： [rust-postgresql](https://github.com/sfackler/rust-postgres)
-* 月亮： [luapgsql](https://github.com/arcapos/luapgsql)
+* 二： [luapgsql](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql)  - AWS、Azure、DigitalOcean、Google Cloud 和 UpCloud 中的 PostgreSQL 即服务； 计划范围从每月 19 美元的单节点实例到大型高可用性设置，免费试用两周.
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - 适用于 PostgreSQL 的 Amazon 关系数据库服务 (RDS)
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)  - Azure Database for PostgreSQL 提供完全托管、企业就绪的社区 PostgreSQL 数据库即服务. 它提供内置 HA、弹性缩放和与 Azure 生态系统的本机集成.
 * [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/)  - 来自 Postgres 专家的完全管理的 Postgres. 适用于所有主要云提供商：Amazon AWS、Google GCP、Microsoft Azure. 完全超级用户支持无锁定.
-* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
+* [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个生产就绪的云 PostgreSQL 服务器，每月 20 美元起备份、监控、补丁和 24/7 技术支持都包括在内.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)  - 完全托管的 PostgreSQL 数据库. 没有免费计划. 起价 15 美元/月. 具有时间点恢复的每日备份. 具有自动故障转移的备用节点.
 * [ElephantSQL](https://www.elephantsql.com/)  - 提供从小型项目和概念验证的共享服务器到企业级多服务器设置的数据库. 有最多 5 个数据库的免费计划，每个数据库 20 MB.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - 完全托管的数据库服务，可让您在 Google Cloud Platform 上轻松设置、维护、管理和管理您的 PostgreSQL 关系数据库.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)  - 从免费到庞大的计划，由 PostgreSQL 专家操作. 不需要在 Heroku 上运行您的应用程序. 免费计划包括 10,000 行、20 个连接、最多两个备份，并支持 PostGIS.
+* [Render Managed PostgreSQL](https://render.com/docs/databases)  - 安全、可靠和完全不干涉管理的 PostgreSQL. 所有计划都包含静态加密、自动备份和可扩展 SSD 存储.  256MB RAM 和 1GB 存储的计划起价为每月 7 美元（前 90 天免费）.
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/)  - 完全托管的 PostgreSQL 数据库，具有 HA、扩展和自动备份，托管在欧盟. 每月 10 欧元起.
 
 ### Docker images
@@ -213,7 +214,7 @@
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - 关于使用 wal-e 在 PostgreSQL 中设置连续归档的教程.
 * [PG Casts](https://www.pgcasts.com) - Hashrocket 每周免费提供 PostgreSQL 截屏视频.
 * [Postgres Guide](http://postgresguide.com/) - 旨在帮助初学者和有经验的用户查找特定提示和探索 PostgreSQL 中可用工具的指南.
-* [PostgreSQL Exercises](https://pgexercises.com/) - 通过练习轻松学习 PostgreSQL 的网站.
+* [PostgreSQL Exercises](https://pgexercises.com/) - 通过练习轻松学习 PostgreSQL 的站点.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - 非常广泛的 PostgreSQL 教程集合
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - 示例 postgres 模式的集合
 * [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - PostgreSQL 中最常用命令的集合
@@ -227,7 +228,7 @@
 * [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - 乔什·伯库斯的博客.
 * [Michael Paquier's blog](https://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
-* [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski 的博客.
+* [select * from depesz;](https://www.depesz.com/tag/postgresql/) - 休伯特 Lubaczewski 的博客.
 
 ### Articles
 

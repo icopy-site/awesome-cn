@@ -77,6 +77,7 @@
   - [Honeygrove](https://github.com/UHH-ISS/honeygrove) - 基于 Twisted 的多用途模块化蜜罐.
   - [Honeyport](https://github.com/securitygeneration/Honeyport) - 用 Bash 和 Python 编写的简单 Honeyport.
   - [Honeyprint](https://github.com/glaslos/honeyprint) - 打印机蜜罐.
+  - [ListenSSH](https://github.com/GhostSlayer/ListenSSH) - 轻松向 AbuseIPDB 报告任何端口上的所有连接尝试.
   - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - 现代高交互蜜罐框架.
   - [MICROS honeypot](https://github.com/Cymmetria/micros_honeypot) - 在 Oracle Hospitality Applications (MICROS) 的 Oracle Hospitality Simphony 组件中检测 CVE-2018-2636 的低交互蜜罐.
   - [RDPy](https://github.com/citronneur/rdpy) - 用 Python 实现的 Microsoft 远程桌面协议 (RDP) 蜜罐.
@@ -492,7 +493,7 @@
   - [Django-kippo](https://github.com/jedie/django-kippo) - 用于 kippo SSH 蜜罐的 Django 应用程序.
   - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - 功能齐全的脚本，用于可视化来自 Shockpot 蜜罐的统计数据.
   - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
-  - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - 功能齐全的脚本，用于可视化来自 Wordpot 蜜罐的统计数据.
+  - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - 功能齐全的脚本，用于可视化来自 Wordpot 蜜罐的统计信息.
   - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - 用于显示蜜罐警报的简化 UI.
   - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - Flask 网站，显示从 SSH 蜜罐收集的数据.
 
@@ -506,7 +507,7 @@
   - [HoneyMap](https://github.com/fw42/honeymap) - 精美的 SVG 世界地图上的 GPS 事件的实时 websocket 流.
   - [HoneyStats](https://sourceforge.net/projects/honeystats/) - 在 Honeynet 上记录的活动的统计视图.
   - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - 可视化应用程序来可视化 hpfeeds 日志.
-  - [IVRE](https://github.com/ivre/ivre)  - 网络侦察框架，由@cea-sec 和@ANSSI-FR 发布. 构建您自己的、自托管和完全控制的 Shodan / ZoomEye / Censys 和 GreyNoise 替代方案，运行您的被动 DNS 服务，从您的传感器收集和分析网络情报等等！
+  - [IVRE](https://github.com/ivre/ivre)  - 网络侦察框架，由@cea-sec 和@ANSSI-FR 发布. 构建您自己的、自托管和完全控制的 Shodan / ZoomEye / Censys 和 GreyNoise 替代方案，运行您的被动 DNS 服务，从您的传感器收集和分析网络情报，等等！
   - [Kippo stats](https://github.com/mfontani/kippo-stats) - Mojolicious 应用程序显示您的 kippo SSH 蜜罐的统计数据.
   - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - 用于可视化来自 Kippo SSH 蜜罐的统计数据的全功能脚本.
   - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - 从蜜罐创建可操作的信息.

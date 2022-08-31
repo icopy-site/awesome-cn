@@ -110,7 +110,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 
 ### Figma
 
-更好的设计方式. 使用 Figma 在浏览器中进行设计、原型设计和协作.
+更好的设计方式. 使用 Figma 在浏览器中进行设计、原型制作和协作.
 
 ![Figma](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-figma.gif)
 
@@ -209,7 +209,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - 经过 [Alice Boyes](https://twitter.com/draliceboyes).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - 经过 [Dave Girouard](https://www.linkedin.com/in/davegirouard).
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) - 经过 [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
-- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - 经过 [Marty Cagan](https://svpg.com/author/marty/).
+- [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - 经过 [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - 由杰克边缘.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) - 由概念团队.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) - 经过 [Charlie Kindel](https://twitter.com/ckindel).
@@ -289,7 +289,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用于构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品是困难的. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向知名产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品是困难的. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自谷歌、Slack、亚马逊、Airbnb、Netflix、Facebook 等的产品领导者. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司进行互动.
 
 ## Additional resources

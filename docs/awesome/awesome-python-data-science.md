@@ -86,11 +86,10 @@
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - 用于 pandas DataFrames 的 Sasy 管道.
-* [SSPipe](https://sspipe.github.io/) - 支持 DataFrames 和 Numpy 和 Pytorch 的 Python 管道 (|) 运算符.
+* [SSPipe](https://sspipe.github.io/) - Python 管道 (|) 运算符，支持 DataFrames 和 Numpy 和 Pytorch.
 * [Dataset](https://github.com/analysiscenter/dataset) - 帮助您方便地处理随机或连续批次的数据并定义数据处理.
 * [meza](https://github.com/reubano/meza) - 用于处理表格数据的 Python 工具包.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - 为数据科学管道构建系统.
-* [CircleCi](https://circleci.com/)：自动化您的软件构建、测试和部署.
 
 ## Feature Engineering
 
@@ -266,7 +265,7 @@
 * [CuPy](https://github.com/cupy/cupy) - 使用 CUDA 加速的类似 NumPy 的 API.
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) - 用于多线性代数和张量分解的 Python 库.
 * [numdifftools](https://github.com/pbrod/numdifftools) - 解决一个或多个变量的自动数值微分问题.
-* [quaternion](https://github.com/moble/quaternion) - 添加对四元数的内置支持到 numpy.
+* [quaternion](https://github.com/moble/quaternion) - 为 numpy 添加对四元数的内置支持.
 * [adaptive](https://github.com/python-adaptive/adaptive) - 用于对数学函数进行自适应和并行采样的工具.
 
 ## Spatial Analysis

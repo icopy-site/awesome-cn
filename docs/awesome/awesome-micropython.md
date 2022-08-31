@@ -12,7 +12,7 @@
 
 很棒的 MicroPython 库、框架、软件和资源的精选列表.
 
-[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精益高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
+[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精简高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
 
 
 
@@ -98,7 +98,7 @@
 #### Cryptography
 
 * [mpyaes](https://github.com/iyassou/mpyaes) - 用于 AES 加密的 MicroPython 模块.
-* [micropython-aes](https://github.com/piaca/micropython-aes) - 带有纯python实现的AES算法.
+* [micropython-aes](https://github.com/piaca/micropython-aes) - 具有纯 python 实现的 AES 算法.
 * [ucrypto](https://github.com/dmazzella/ucrypto)  - 用于进行快速椭圆曲线加密的 MicroPython 包，特别是数字签名.  API 设计灵感来自 fastecdsa 和基于 tomsfastmath 的实现.
 * [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) - Microchip Crypto Authentication安全元素的轻量级驱动程序，用纯python为MicroPython编写.
 * [embit](https://github.com/diybitcoinhardware/embit) - MicroPython 和 Python3 的最小比特币库，专注于嵌入式系统.
@@ -187,8 +187,8 @@
 
 #### MQTT
 
-* [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt)  - “弹性”异步 MQTT 驱动程序. 加上一种使用 ESP8266 将 MQTT 带到非网络目标的方法.
-* [MQBoard](https://github.com/tve/mqboard) - 在 MicroPython 板上使用 MQTT 和 asyncio 的微框架，主要在 ESP32 上.
+* [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt)  - “弹性”异步 MQTT 驱动程序. 加上使用 ESP8266 将 MQTT 带到非网络目标的方法.
+* [MQBoard](https://github.com/tve/mqboard) - 一个微框架，用于在 MicroPython 板上使用 MQTT 和 asyncio，主要在 ESP32 上.
 * [pysmartnode](https://github.com/kevinkk525/pysmartnode) - MicroPython 智能家居框架.
 * [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) - 使用 MicroPython 将 UMQTT 消息发布到 AWS IoT.
 * [sonoff-mqtt by davea](https://github.com/davea/sonoff-mqtt) - 使用 MQTT 控制 Sonoff/ESP8266 的 MicroPython 脚本.
@@ -357,7 +357,7 @@
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - 基于 MicroPython 绑定的面向对象组件的高级 GUI 库.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - 用于 Pyboard 和 LCD160CR 彩色显示器的简单的基于触摸驱动事件的 GUI.
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - 用于基于 RA8875 的显示器的 MicroPython 设备驱动程序和 nano-GUI.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个小型的仅显示 GUI，具有一组有限的 GUI 对象（小部件），用于显示驱动程序是 framebuf 类的子类的显示器. 带有用于 TFT、ePaper 和 OLED 显示器的驱动程序.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个小型的仅显示 GUI，具有一组有限的 GUI 对象（小部件），用于显示驱动程序从 framebuf 类继承的显示器. 带有用于 TFT、ePaper 和 OLED 显示器的驱动程序.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) 源自 nano-gui 并支持相同的显示器和主机，这为用户提供
 通过按钮或导航操纵杆和可选的旋转编码器输入.
 * [TFT-GUI](https://github.com/peterhinch/micropython-tft-gui) 基于 SSD1963 控制器和 XPT2046 触摸控制器的大型显示器快速触摸 GUI.
@@ -520,7 +520,7 @@
 
 #### PWM
 
-* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - 用于在异步循环中控制 PWM 输出的 MicroPython 库，具有衰减和闪烁等功能.
+* [upwmcontroller](https://gitlab.com/WiLED-Project/upwmcontroller) - 用于控制异步循环中的 PWM 输出的 MicroPython 库，具有衰减和闪烁等功能.
 
 #### Rotary Encoder
 
@@ -575,7 +575,7 @@
 * [adxl345_micropython](https://github.com/fanday/adxl345_micropython) - ADXL345 16g 3 轴加速度计的驱动程序.
 * [micropython-lis2hh12](https://github.com/tuupola/micropython-lis2hh12) - LIS2HH12 3 轴加速度计的 I2C 驱动程序.
 * [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) - MMA7660 1.5g 3 轴加速度计的驱动程序.
-* [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
+* [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自使用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
 
 #### Air Quality
 
@@ -761,6 +761,7 @@
 * [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - SHT25 温湿度传感器 API 的 MicroPython 实现.
 * [micropython-sht30](https://github.com/schinckel/micropython-sht30) - 基于 I2C 总线的纯 python 中的 SHT30 传感器驱动程序.
 * [micropython_ahtx0](https://github.com/targetblank/micropython_ahtx0) - AHT10 和 AHT20 温度和湿度传感器的 MicroPython 驱动程序.
+* [sht85](https://github.com/octaprog7/sht85) - MicroPython 驱动程序 [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) 湿度和温度传感器.
 
 #### Temperature IR
 
@@ -917,7 +918,7 @@
 
 * [rshell](https://github.com/dhylands/rshell) - 将文件复制或同步到 Boards，从终端输入 REPL.
 * [ampy](https://github.com/scientifichackers/ampy) - MicroPython Tool - 通过串行连接与 MicroPython 板交互的实用程序.
-* [mpfshell](https://github.com/wendlers/mpfshell) - 一个简单的基于 shell 的文件浏览器，用于 ESP8266 和 WiPy.
+* [mpfshell](https://github.com/wendlers/mpfshell) - 一个用于 ESP8266 和 WiPy 的简单的基于 shell 的文件浏览器.
 * [mpsync](https://github.com/Uhlo/mpsync) - 一个小工具，可在检测到更改时将文件夹同步到 MicroPython 板.
 * [mpremote](https://github.com/micropython/micropython/blob/master/tools/mpremote/README.md)  - 强大的官方shell，支持将宿主机当前目录挂载到目标机上. 在不更改目标文件系统的情况下运行代码.
 

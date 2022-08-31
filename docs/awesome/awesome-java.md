@@ -184,7 +184,7 @@ _高效而具体的数据结构._
 
 ### Database
 
-_简化与数据库交互的一切._
+_Everything that simplifies interactions with the database._
 
 - [Apache Calcite](https://calcite.apache.org)  - 动态数据管理框架. 它包含构成典型数据库管理系统的许多部分.
 - [Apache Drill](https://drill.apache.org) - 用于大数据探索的分布式、即时模式、ANSI SQL 查询引擎.
@@ -235,7 +235,7 @@ _与处理日期和时间相关的库._
 
 _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control) 范例._
 
-- [Apache DeltaSpike](https://deltaspike.apache.org) - CDI extension framework.
+- [Apache DeltaSpike](https://deltaspike.apache.org) - CDI 扩展框架.
 - [Dagger](https://dagger.dev/) - 没有反射的编译时注入框架.
 - [Feather](https://github.com/zsoltherpai/feather) - 超轻量级、符合 JSR-330 的依赖注入库.
 - [Governator](https://github.com/Netflix/governator) - 增强 Google Guice 的扩展程序和实用程序.
@@ -249,7 +249,7 @@ _从根本上增强开发过程._
 
 - [AspectJ](https://www.eclipse.org/aspectj/) - 无缝的面向方面的编程扩展.
 - [DCEVM](https://dcevm.github.io)  - JVM 修改允许在运行时无限制地重新定义加载的类.  （仅限 GPL-2.0）
-- [Faux Pas](https://github.com/zalando/faux-pas) - 通过规避 Java 运行时中的任何功能接口默认不允许抛出已检查异常的问题来简化错误处理的库.
+- [Faux Pas](https://github.com/zalando/faux-pas) - 通过规避默认情况下 Java 运行时中的任何功能接口都不允许抛出已检查异常的问题，简化了错误处理的库.
 - [HotswapAgent](https://github.com/HotswapProjects/HotswapAgent)  - 无限的运行时类和资源重新定义.  （仅限 GPL-2.0）
 - [JavaParser](https://github.com/javaparser/javaparser) - 解析、修改和生成 Java 代码.
 - [JavaSymbolSolver](https://github.com/javaparser/javasymbolsolver) - 符号求解器.
@@ -404,7 +404,7 @@ _帮助创建 HTTP 请求和/或绑定响应的库._
 - [Google HTTP Client](https://github.com/googleapis/google-http-java-client) - 可插入的 HTTP 传输抽象，支持 java.net.HttpURLConnection、Apache HTTP 客户端、Android、Google App Engine、XML、Gson、Jackson 和 Protobuf.
 - [methanol](https://github.com/mizosoft/methanol) - HTTP 客户端扩展库.
 - [restQL-java](https://github.com/b2wdigital/restQL-java) - 从多个服务中获取信息的微服务查询语言.
-- [Retrofit](https://square.github.io/retrofit/) - 类型安全的 REST 客户端.
+- [Retrofit](https://square.github.io/retrofit/) - Typesafe REST client.
 - [Ribbon](https://github.com/Netflix/ribbon) - 在云中经过实战测试的客户端 IPC 库.
 - [Riptide](https://github.com/zalando/riptide) - Spring 的 RestTemplate 的客户端响应路由.
 - [unirest-java](https://github.com/Kong/unirest-java) - 简化、轻量级的 HTTP 客户端库.
@@ -485,7 +485,7 @@ _用于从 Java 对象序列化和反序列化 JSON 的库._
 
 ### JVM and JDK
 
-_Current implementations of the JVM/JDK._
+_JVM/JDK 的当前实现._
 
 - [Adopt Open JDK](https://adoptopenjdk.net) - 社区驱动的 OpenJDK 构建，包括 HotSpot 和 OpenJ9.
 - [Avian](https://github.com/ReadyTalk/avian) - 具有 JIT、AOT 模式和 iOS 端口的 JVM.
@@ -493,7 +493,7 @@ _Current implementations of the JVM/JDK._
 - [Dragonwell8](https://github.com/alibaba/dragonwell8) - 针对在线电子商务、金融、物流应用优化的 OpenJDK 下游版本.
 - [Graal](https://github.com/oracle/graal)  - 多语言嵌入式 JVM.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
 - [Liberica JDK](https://bell-sw.com)  - 由 OpenJDK 构建，经过全面测试并通过了 JCK.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
-- [OpenJ9](https://github.com/eclipse/openj9) - 高性能、企业级、灵活许可、开放治理的跨平台 JVM 扩展和增强了 Eclipse OMR 和 OpenJDK 项目的运行时技术组件.
+- [OpenJ9](https://github.com/eclipse/openj9) - 高性能、企业级、灵活许可、开放管理的跨平台 JVM，扩展和增强了 Eclipse OMR 和 OpenJDK 项目的运行时技术组件.
 - [Open JDK](https://openjdk.java.net)  - 打开 JDK 社区主页.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  - 适用于 iOS 的具有非阻塞并发 GC 的 VM.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)  - RedHat 的 OpenJDK 发行版.  （仅 GPL-2.0 WITH Classpath-exception-2.0）
@@ -509,7 +509,7 @@ _记录应用程序行为的库._
 - [Graylog](https://www.graylog.org)  - 适用于扩展角色和权限管理的开源聚合器.  （仅限 GPL-3.0）
 - [Kibana](https://www.elastic.co/kibana)  - 分析和可视化日志文件. 有些功能需要付费.
 - [Logback](http://logback.qos.ch) - 强大的日志库，通过 Groovy 提供有趣的配置选项.
-- [Logbook](https://github.com/zalando/logbook) - 用于 HTTP 请求和响应日志记录的可扩展开源库.
+- [Logbook](https://github.com/zalando/logbook) - Extensible, open-source library for HTTP request and response logging.
 - [Logstash](https://www.elastic.co/logstash) - 用于管理日志文件的工具.
 - [p6spy](https://github.com/p6spy/p6spy) - 无需更改代码即可为所有 JDBC 事务启用日志记录.
 - [SLF4J](http://www.slf4j.org) - 抽象层/简单的日志记录外观.
@@ -589,6 +589,7 @@ _其他一切._
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) - Maven 的 Gradle Wrapper 的类似物，允许在不安装 maven 的情况下构建项目.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) - 开源、反向代理框架.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) - 轻量级、小型且可定制的 FTP 服务器.
+- [LittleProxy](https://github.com/adamfisk/LittleProxy) - Netty 基于事件的网络库上的高性能 HTTP 代理.
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) - 流行的 Java 8 指南.
 - [Modernizer](https://github.com/gaul/modernizer-maven-plugin) - 检测遗留 Java API 的使用.
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - 浏览器扩展，允许更有效地浏览 GitHub 上的代码.
@@ -753,7 +754,7 @@ _包含多个类别的多个库套件的框架._
 - [Exec](http://commons.apache.org/proper/commons-exec/) - 用于处理 Java 中的外部流程执行和环境管理的 API.
 - [FileUpload](http://commons.apache.org/proper/commons-fileupload/) - 为您的 servlet 和 Web 应用程序提供文件上传功能.
 - [Finder](http://commons.apache.org/sandbox/commons-finder/) - 受 UNIX find 命令启发的 Java 库.
-- [Flatfile](http://commons.apache.org/sandbox/commons-flatfile/) - Java library for working with flat data structures.
+- [Flatfile](http://commons.apache.org/sandbox/commons-flatfile/) - 用于处理平面数据结构的 Java 库.
 - [Functor](http://commons.apache.org/proper/commons-functor/) - 可以作为对象操作的函数，或表示单个通用函数的对象.
 - [Graph](http://commons.apache.org/sandbox/commons-graph/) - 通用图形 API 和算法.
 - [I18n](http://commons.apache.org/sandbox/commons-i18n/) - 添加由一个或多个本地化文本组成的本地化消息包的功能.
@@ -843,7 +844,7 @@ _用于科学计算、分析和可视化的库._
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化（主要是 Swing）和与节点边图交互的库.
 - [LogicNG](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 地球物理科学计算、可视化和数字信号分析库.
-- [Morpheus](https://github.com/zavtech/morpheus-core) - 提供一种通用的二维内存高效表格数据结构，称为 DataFrame，以实现在 JVM 上进行科学计算的高效内存分析.
+- [Morpheus](https://github.com/zavtech/morpheus-core) - 提供一种通用的二维内存高效表格数据结构，称为 DataFrame，以支持在 JVM 上进行科学计算的高效内存分析.
 - [Orson-Charts](https://github.com/jfree/orson-charts)  - 生成各种各样的 3D 图表，可以使用 Swing 和 JavaFX 显示或导出为 PDF、SVG、PNG 和 JPEG.  （仅限 GPL-3.0）
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) - 包括一个数据框、一个嵌入式列存储以及数百种转换、汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  - 用于绘制数据的轻量级库. 许多可定制的图表类型可用.
@@ -873,7 +874,7 @@ _处理安全、身份验证、授权或会话管理的库._
 - [Keywhiz](https://github.com/square/keywhiz) - 用于分发和管理秘密的系统.
 - [Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) - 高级密码强度估计.
 - [OACC](http://oaccframework.org) - 提供基于权限的授权服务.
-- [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - 根据 RFC 4226 (HOTP) 和 RFC 6238 (TOTP) 的一次性密码生成器库.
+- [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - 符合 RFC 4226 (HOTP) 和 RFC 6238 (TOTP) 的一次性密码生成器库.
 - [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
 - [Password4j](https://github.com/Password4j/password4j) - 用户友好的密码库，支持 Argon2、Bcrypt、Scrypt、PBKDF2 和各种其他密码散列函数.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 适用于 JCA 和 JSSE 类，尤其是 X.509 证书的 Fluent Builder API.
@@ -909,7 +910,7 @@ _在模板中替换表达式的工具._
 - [Handlebars.java](https://jknack.github.io/handlebars.java/) - 无逻辑和语义的 Mustache 模板.
 - [Jade4J](https://github.com/neuland/jade4j) - Pug（以前称为 Jade）的实现.
 - [Jamal](https://github.com/verhas/jamal) - 嵌入到 Maven/JavaDoc 中的可扩展模板引擎，支持多个扩展（Groovy、Ruby、JavaScript、JShell、PlantUml），并支持片段处理.
-- [jte](https://github.com/casid/jte) - 编译为类，并使用简单的语法，多种功能使开发更容易，并提供快速执行和小占用空间.
+- [jte](https://github.com/casid/jte) - 编译为类，并使用简单的语法，多种功能使开发更容易，并提供快速执行和占用空间小.
 - [Jtwig](https://github.com/jtwig/jtwig) - 模块化、可配置且经过全面测试的模板引擎.
 - [Pebble](https://pebbletemplates.io)  - 受到 Twig 的启发，并以其继承特性和易于阅读的语法将自己分开. 它带有内置的自动转义以确保安全，并且包括对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) - 优化、内存高效和快速的模板引擎，生成静态类型的普通对象.
@@ -1130,6 +1131,7 @@ _编程时可以看或听的东西._
 - [Arun Gupta](https://twitter.com/arungupta) - Java Champion、JavaOne Rockstar、JUG 领导者、Devoxx4Kids-er、Couchbase 开发者宣传副总裁.
 - [Brian Goetz](https://twitter.com/BrianGoetz) - Oracle 的 Java 语言架构师.
 - [Bruno Borges](https://twitter.com/brunoborges) - Oracle 的产品经理/Java Jock.
+- [Chris Engelbert](https://twitter.com/noctarius2k) - TimescaleDB 的开源爱好者、演讲者、开发者、开发者倡导者.
 - [Chris Richardson](https://twitter.com/crichardson) - 软件架构师、顾问和连续创业者、Java Champion、JavaOne Rock Star、\*POJOs in Action-作者.
 - [Ed Burns](https://twitter.com/edburns) - Oracle 技术人员的咨询成员.
 - [Eugen Paraschiv](https://twitter.com/baeldung) - Spring Security 课程的作者.

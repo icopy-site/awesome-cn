@@ -157,7 +157,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [AutoColliders](https://github.com/graycastle/godot-AutoColliders) - 允许为 Sprites 自动生成对撞机，并计划在未来扩展以处理 3D 网格（Godot 3.x）.
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 一个用许多着色器参数模拟 CRT 显示器的 Godot 着色器（Godot 3.x）.
-- [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x）.
+- [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x、4.x）.
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 指向&amp;点击冒险游戏框架（Godot 2.1、3.2+）.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
@@ -172,7 +172,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GUT](https://github.com/bitwes/Gut) - 在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘画、着色、孔、细节层次和草（Godot 3.x）.
 - [InGrid](https://github.com/Larpon/ingrid) - 无限滚动网格（Godot 3.x）.
-- [Input Helper](https://github.com/nathanhoad/godot_input_helper) - 检测输入设备和重新映射控件的助手（Godot 3.x）.
+- [Input Helper](https://github.com/nathanhoad/godot_input_helper) - 用于检测输入设备和重新映射控件的助手（Godot 3.x、4.x）.
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster 软件的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 1000× 中的编码体验更加荒谬（Godot 3.x）.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 用一行代码（Godot 3.x、4.0.alpha）制作漂亮且可定制的场景转换.
@@ -205,7 +205,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
 - [Godot NExt](https://github.com/godot-extended-libraries/godot-next) - 一组基本节点扩展.
-- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - 使用几个节点和几行代码制作程序声音和自适​​应/程序音乐.
+- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) - 用几个节点和几行代码制作程序声音和自适​​应/程序音乐.
 - [GodotOnReady](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 - [GodotRx](https://github.com/semickolon/GodotRx) - Reactive extensions for Godot C# (Mono).
 - [godot-ply](https://github.com/jarneson/godot-ply) - 用于灰盒或原型 3D 关卡的编辑器盒建模.
@@ -253,7 +253,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用 GDScript 编写的 Godot 实用程序.
 - [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender 插件可轻松将资产导入 Godot.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
-- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
+- [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单工确定性噪声函数.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - 构建图块集.
 
 ## Modules
@@ -328,7 +328,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 *内置脚本编辑器的替代主题.*
 
 - [base16-godot](https://github.com/Calinou/base16-godot) - 全部 [base16](https://github.com/chriskempson/base16) 主题.
-- [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 个语法主题，包括 Ayu Mirage、Darcula、Gruvbox Dark、Monokai、One Dark、Solarized 等.
+- [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 个语法主题，包括 Ayu Mirage、Darcula、Gruvbox Dark、Monokai、One Dark、Solarized 等等.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester、Google Code Light 和 Monokai.
 
 ## Unofficial Godot builds
