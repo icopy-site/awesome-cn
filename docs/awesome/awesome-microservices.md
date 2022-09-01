@@ -27,7 +27,7 @@
 - [Axon (c)](https://axoniq.io/) - 一个端到端的开发和基础设施平台，用于在 JVM 上轻松开发和运行任何 DDD、CQRS 和事件溯源应用程序.
 - [Ballerina](https://ballerina.io) - 云原生编程语言.
 - [Dapr](https://dapr.io) - 用于使用任何编程语言编写高性能微服务的开源运行时.
-- [Eclipse Microprofile](https://microprofile.io/) - 一个开放论坛，通过跨多个实现进行创新并在共同感兴趣的领域进行合作，以实现标准化为目标，为微服务架构优化 Enterprise Java.
+- [Eclipse Microprofile](https://microprofile.io/) - 一个开放论坛，通过跨多个实现进行创新并以标准化为目标在共同感兴趣的领域进行合作，为微服务架构优化 Enterprise Java.
 - [Erlang/OTP](https://github.com/erlang/otp) - 用于构建具有高可用性要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) - JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) - Flogo 是一个开源框架，用于简化构建高效和现代的无服务器功能和边缘微服务.
@@ -282,7 +282,7 @@
 - [Envoy](https://github.com/lyft/envoy) - 来自 Lyft 开发人员的开源边缘和服务代理.
 - [Express Gateway](https://www.express-gateway.io/) - 基于 Express.js 构建的微服务 API 网关.
 - [Fabio](https://github.com/eBay/fabio) - 一个快速、现代、零配置的负载平衡 HTTP/S 路由器，用于部署由 Consul 管理的微服务.
-- [Gravitee](https://github.com/gravitee-io/gravitee-gateway) - 网关能够根据您的需要对 HTTP 请求和响应应用策略（即规则），这意味着您可以通过添加转换、安全性和许多其他疯狂的功能来增强请求和响应处理！
+- [Gravitee](https://github.com/gravitee-io/gravitee-gateway) - 网关能够根据您的需要对 HTTP 请求和响应应用策略（即规则），这意味着您可以通过添加转换、安全性和许多其他疯狂的功能来增强请求和响应的处理！
 - [HAProxy](https://github.com/haproxy/haproxy) - 可靠、高性能的 TCP/HTTP 负载平衡器.
 - [Istio](https://istio.io/) - 一个连接、管理和保护微服务的开放平台.
 - [Janus](https://github.com/hellofresh/janus) - 用 Go 编写的 API 网关.
@@ -391,6 +391,7 @@
 - [Pulsar](https://pulsar.apache.org/) - 分布式发布-订阅消息系统.
 - [Qpid](https://qpid.apache.org/) - 基于 AMQP 构建的跨平台消息传递组件.
 - [RabbitMQ](https://www.rabbitmq.com/) - 开源的基于 Erlang 的消息代理，可以正常工作.
+- [Redpanda](https://github.com/redpanda-data/redpanda/) - 面向开发人员的流数据平台：兼容 Kafka API，速度提高 10 倍，无需 ZooKeeper 和 JVM.
 - [RocketMQ](https://github.com/apache/incubator-rocketmq) - 源自阿里巴巴海量消息业务的低延迟、可靠、可扩展、易于使用的面向消息的中间件.
 - [VerneMQ](https://verne.mq) - 开源、可扩展、基于 Erlang 的 MQTT 代理.
 
@@ -589,7 +590,7 @@
 ### Security
 
 - [GNAP](https://datatracker.ietf.org/doc/html/draft-ietf-gnap-core-protocol)  - 授予协商和授权协议定义了一种将授权委托给软件，并将该委托传递给软件的机制. 该委托可以包括访问一组 API 以及直接传递给软件的信息. <sup>草稿</sup>
-- [OIDCONN](http://openid.net/connect/)  - OpenID Connect 1.0 是 OAuth 2.0 协议之上的一个简单身份层. 它允许客户端根据授权服务器执行的身份验证来验证最终用户的身份，并以可互操作和类似 REST 的方式获取有关最终​​用户的基本配置文件信息.
+- [OIDCONN](http://openid.net/connect/)  - OpenID Connect 1.0 是 OAuth 2.0 协议之上的一个简单身份层. 它允许客户端根据授权服务器执行的身份验证验证最终用户的身份，并以可互操作和类似 REST 的方式获取有关最终​​用户的基本配置文件信息.
 - [PASETO](https://paseto.io/)  - Paseto 是您喜爱 JOSE（JWT、JWE、JWS）的一切，没有任何困扰 JOSE 标准的设计缺陷. <sup>草稿</sup>
 - [RFC5246](https://tools.ietf.org/html/rfc5246) - 传输层安全 (TLS) 协议版本 1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) - TLS 扩展.
@@ -657,9 +658,9 @@
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - 描述规模服务的模型.
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) - 基于实际经验的实用概述，了解构建微服务需要了解的内容.
 - [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) :small_orange_diamond: <sup>PDF</sup> - 一致性作为逻辑单调性.
-- [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) - 降低在生产中引入新软件版本的风险的技术，方法是在将更改推广到整个基础架构并使其可供所有人使用之前，将更改缓慢地推广到一小部分用户.
+- [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) - 降低在生产中引入新软件版本的风险的技术，方法是在将更改推广到整个基础架构并使其可供所有人使用之前，缓慢地将更改推广到一小部分用户.
 - [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) - 声明分布式计算机系统不可能同时提供以下所有三个保证：一致性、可用性和分区容错性.
-- [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  :small_orange_diamond: <sup>PDF</sup> - 无服务器计算抽象暴露了一些低级操作细节，使程序员难以编写和推理他们的代码. 本文通过提出 λ 来阐明这个问题，λ 是无服务器计算本质的操作语义.
+- [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  :small_orange_diamond: <sup>PDF</sup> - 无服务器计算抽象暴露了几个低级操作细节，使程序员难以编写和推理他们的代码. 本文通过提出 λ 来阐明这个问题，λ 是无服务器计算本质的操作语义.
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) - 介绍 Uber Engineering 微服务架构的通用方法，称为“面向领域的微服务架构”（DOMA）.
 - [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide) - You can use this guide to understand what Java microservices are, how you architect and build them. Also: A look at Java microservice libraries & common questions.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - 将软件应用程序设计为可独立部署的服务套件的特殊方式.
@@ -677,7 +678,7 @@
 
 ### Sites & Organizations
 
-- [Cloud Native Computing Foundation](https://www.cncf.io/) - 云原生计算基金会构建可持续的生态系统，并围绕一系列高质量项目培育社区，这些项目将容器编排为微服务架构的一部分.
+- [Cloud Native Computing Foundation](https://www.cncf.io/) - 云原生计算基金会建立可持续的生态系统，并围绕一系列高质量项目培育社区，这些项目将容器编排为微服务架构的一部分.
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - 云原生技术的交互式景观.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) - Martin Fowler 精选的文章、视频、书籍和播客，可以教您更多关于微服务架构风格的知识.
 - [Microservice Patterns](http://microservices.io/) - 微服务架构模式和最佳实践.

@@ -90,21 +90,22 @@
 
 - [com2ann](https://github.com/ilevkivskyi/com2ann) - 将类型注释转换为类型注释的工具.
 - [merge-pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - pytype 工具链的一部分，将存根文件应用于源代码.
+- [mypy-baseline](https://github.com/orsinium-labs/mypy-baseline)  - 将 mypy 与现有代码库集成. 一种 CLI 工具，用于过滤现有类型错误并仅报告新错误.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - 从 protobufs 生成 mypy 存根的工具.
 - [mypy-silent](https://github.com/whtsky/mypy-silent/) - 通过添加或删除代码注释使 mypy 静音.
 - [mypyc](https://github.com/python/mypy/tree/master/mypyc) - 将带有 mypy 注释的静态类型 Python 模块编译为 CPython C 扩展.
-- [retype](https://github.com/ambv/retype) - 另一个将存根应用于代码的工具.
 - [pep585-upgrade](https://github.com/snok/pep585-upgrade) - 预提交钩子配置为自动将您的类型提示升级到 PEP 585 中实现的新本机类型.
+- [retype](https://github.com/ambv/retype) - 另一个将存根应用于代码的工具.
 - [typeforce](https://github.com/orsinium-labs/typeforce) - CLI 工具，可通过类型注释丰富您的 Python 环境，增强 mypy.
+- [typesplainer](https://github.com/wasi-master/typesplainer) - Python 类型解释器.
 - [typing-inspect](https://github.com/ilevkivskyi/typing_inspect) - typing_inspect 模块定义了实验性 API，用于对 `typing` 模块中定义的类型进行运行时检查.
 - [typing-json](https://pypi.org/project/typing-json/) - 用于处理类型化对象和 JSON 的库.
-- [typesplainer](https://github.com/wasi-master/typesplainer) - Python 类型解释器.
 
 ### Helper tools to add annotations to existing code
 
 - [autotyping](https://github.com/JelleZijlstra/autotyping) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [infer-types](https://github.com/orsinium-labs/infer-types) - CLI 工具可自动推断类型注释并将其添加到 Python 代码中.
-- [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并且可以根据运行时收集的类型自动生成存根文件甚至直接将草稿类型注释添加到代码中.
+- [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并且可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据运行时观察到的调用参数和返回类型将注释插入到源代码中.
 - [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项提取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) - pytest 的 Pyannotate 插件.

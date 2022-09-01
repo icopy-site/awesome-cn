@@ -104,7 +104,7 @@
 
 在您的 README 中嵌入动画 gif 可以快速展示您的项目所做的事情并吸引读者的眼球. 以下是一些可以帮助您快速为项目创建 gif 的程序：
 
-- [Gifox](https://gifox.io) - **14.99 美元** - 干净的 UI、热键、许多高级功能.
+- [Gifox](https://gifox.app) - **14.99 美元** - 干净的 UI、热键、许多高级功能.
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) - **免费** - 比其他颜色更鲜艳，但仍然保持较小的尺寸.
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **免费** - 易于上传到 giphy.com，用户体验稍显烦人.
 - [LICEcap](https://www.cockos.com/licecap/) - **免费** - 不那么直观，功能更多.

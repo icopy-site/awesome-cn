@@ -6,7 +6,7 @@
    <img width="400px" alt="Analysis Tools" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/logo.png" />
  </a>
 
-该存储库列出了所有编程语言、构建工具、配置文件等的**静态分析工具**.  
+该存储库列出了所有编程语言、构建工具、配置文件等的**静态分析工具**. 重点是提高代码质量的工具，例如 linter 和 formatter. 
 官方网站， [analysis-tools.dev](https://analysis-tools.dev/) 基于此存储库，并为每个工具添加排名、用户评论和其他资源，例如视频.
 
 ![CI](https://github.com/analysis-tools-dev/static-analysis/workflows/CI/badge.svg)
@@ -165,7 +165,7 @@
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 - [code-cracker](http://code-cracker.github.io) — An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
-- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现异味，计算各种代码质量指标和趋势分析.
+- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — 宪兵检查包含 ECMA CIL 格式（Mono 和 .NET）代码的程序和库.
 - [Infer#](https://github.com/microsoft/infersharp) — InferSharp (also referred to as Infer#) is an interprocedural and  scalable static code analyzer for C#. Via the capabilities of Facebook's Infer,  this tool detects null pointer dereferences and resource leaks.
 - [NDepend](http://www.ndepend.com) :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
@@ -249,14 +249,14 @@
 <h2 id="elixir">灵药</h2>
 
 - [credo](https://github.com/rrrene/credo) — 专注于代码一致性和教学的静态代码分析工具.
-- [dialyxir](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) — 在 Elixir 项目中混合任务以简化 Dialyzer 的使用.
 - [sobelow](https://github.com/nccgroup/sobelow) — Phoenix 框架的以安全为中心的静态分析.
 
 
 <h2 id="elm">榆树</h2>
 
 - [elm-analyse](https://stil4m.github.io/elm-analyse) — 一个允许您分析 Elm 代码、识别缺陷和应用最佳实践的工具.
-- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — 分析整个 Elm 项目，重点关注用 Elm 编写的可共享和自定义规则，这些规则增加了 Elm 编译器无法提供的保证.
+- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
 
 
 <h2 id="erlang">二郎</h2>
@@ -475,7 +475,7 @@
 - [PhpDeprecationDetector](https://github.com/wapmorgan/PhpDeprecationDetector)  — PHP 代码分析器，用于在较新的解释器版本中搜索已弃用功能的问题. 它发现已删除的对象（函数、变量、常量和 ini 指令）、不推荐使用的函数功能以及禁止使用的名称或技巧（例如，较新版本中的保留标识符）.
 - [phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) — 使用 PHPDoc 注释向现有 PHP 项目添加标量类型提示和返回类型.
 - [phpDocumentor](https://www.phpdoc.org) — 分析 PHP 源代码以生成文档.
-- [phploc](https://github.com/sebastianbergmann/phploc) — A tool for quickly measuring the size and analyzing the structure of a PHP project.
+- [phploc](https://github.com/sebastianbergmann/phploc) — 用于快速测量 PHP 项目大小和分析结构的工具.
 - [PHPMD](https://phpmd.org) — 查找代码中可能存在的错误.
 - [PhpMetrics](http://www.phpmetrics.org) — 计算和可视化各种代码质量指标.
 - [phpmnd](https://github.com/povils/phpmnd) — 帮助检测幻数.
@@ -536,6 +536,7 @@
 - [pytype](https://google.github.io/pytype) — Python 代码的静态类型分析器.
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新类型的分析.
 - [radon](https://radon.readthedocs.io/en/latest) — 从源代码计算各种指标的 Python 工具.
+- [ruff](https://github.com/charliermarsh/ruff)  — 用 Rust 编写的快速 Python linter. 比现有的 linter 快 10-100 倍. 与 Python 3.10 兼容. 支持文件观察器.
 - [unimport](https://unimport.hakancelik.dev) — linter，格式化程序，用于查找和删除未使用的导入语句.
 - [vulture](https://github.com/jendrikseipp/vulture) — 在 Python 代码中查找未使用的类、函数和变量.
 - [wemake-python-styleguide](https://wemake-python-stylegui.de) — 有史以来最严格、最自以为是的 python linter.
@@ -702,7 +703,7 @@
 - [Codeac](https://www.codeac.io/?ref=awesome-static-analysis) :copyright: — Automated code review tool integrates with GitHub, Bitbucket and GitLab (even self-hosted). Available for JavaScript, TypeScript, Python, Ruby, Go, PHP, Java, Docker, and more. (open-source free)
 - [codeburner](http://groupon.github.io/codeburner) — 提供统一的界面来对发现的问题进行分类和处理.
 - [codechecker](https://codechecker.readthedocs.io/en/latest) — 带有 Web GUI 的 Clang 静态分析器的缺陷数据库和查看器扩展.
-- [CodeFactor](https://codefactor.io) :copyright: — GitHub 或 BitBucket 上 repos 的自动代码分析.
+- [CodeFactor](https://codefactor.io) :copyright: — Automated Code Analysis for repos on GitHub or BitBucket.
 - [CodeFlow](https://www.getcodeflow.com)  :copyright: — 处理技术深度的自动化代码分析工具. 与 Bitbucket 和 Gitlab 集成.  （开源项目免费）
 - [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方式来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — 由安全驱动的自动 SAST 代码审查，支持 15 多种语言并包括安全培训.
@@ -737,7 +738,7 @@
 - [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: — Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: — Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM](https://lgtm.com/)  :copyright: — 使用 CodeQL 查询源代码来查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费用于开源. 以前的semme. 它支持托管在 Bitbucket Cloud、GitHub.com、GitLab.com 上的公共 Git 存储库.
-- [lizard](https://github.com/terryyin/lizard)  — Lizard 是一种可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
+- [lizard](https://github.com/terryyin/lizard) — Lizard is an extensible Cyclomatic Complexity Analyzer for many programming languages  including C/C++ (doesn't require all the header files or Java imports).  It also does copy-paste detection (code clone detection/code duplicate detection) and many other forms of static code analysis. Counts lines of code without comments, CCN (cyclomatic complexity number), token count of functions, parameter count of functions.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter 可以处理任何类型的项目，这要归功于其 70 多个嵌入式 Linter，
  它的高级报告，可在任何 CI 系统或本地运行，
  通过辅助安装和配置，能够应用格式化和修复
@@ -766,7 +767,7 @@
 - [Scrutinizer](https://scrutinizer-ci.com) :copyright: — 可与 GitHub 集成的专有代码质量检查器.
 - [Security Code Scan](https://security-code-scan.github.io) — Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. Integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 - [Semgrep](https://semgrep.dev)  — 一种快速、开源的静态分析工具，用于在编辑器、提交和 CI 时发现错误并执行代码标准. 它的规则看起来像你已经编写的代码； 没有抽象语法树或正则表达式摔跤. 支持 17 多种语言.
-- [ShiftLeft](https://www.shiftleft.io)  :copyright: — 在您的代码库进入生产环境之前识别它们特有的漏洞. 利用代码属性图 (CPG) 在单个图表中同时运行其分析. 自动发现开发中的业务逻辑缺陷，例如硬编码的秘密和逻辑炸弹
+- [ShiftLeft](https://www.shiftleft.io) :copyright: — Identify vulnerabilities that are unique to your code base before they reach production. Leverages the Code Property Graph (CPG) to run its analyses concurrently in a single graph of graphs. Automatically finds business logic flaws in dev like hardcoded secrets and logic bombs
 - [ShiftLeft Scan](https://slscan.io)  — Scan 是一个免费的开源 DevSecOps 平台，用于检测源代码和依赖项中的安全问题. 它支持广泛的语言和 CI/CD 管道.
 - [shipshape](https://github.com/google/shipshape) :warning: — 允许自定义分析器通过通用接口插入的静态程序分析平台.
 - [Sider](https://sider.review)  :copyright: — 一种自动代码审查工具. 提高开发人员的生产力.
@@ -820,9 +821,9 @@
 <h2 id="archive">档案</h2>
 
 - [alquitran](https://github.com/ferivoz/alquitran) — 检查 tar 档案并尝试发现有关 POSIX 2017 pax 规范和常见 tar 实现的可移植性问题.
-This project is intended to be used by maintainers of projects who want to offer portable source code archives for as many systems as possible. Checking tar archives with alquitran before publishing them should help spotting issues before they reach distributors and users.
+该项目旨在供希望为尽可能多的系统提供可移植源代码存档的项目维护人员使用. 在发布之前使用 alquitran 检查 tar 档案应该有助于在问题到达分销商和用户之前发现问题.
 - [packj](https://packj.dev)  — Packj（发音为 package）是一个命令行 (CLI) 工具，用于审查开源软件包的“风险”属性，这些属性使它们容易受到供应链攻击. 这是我们大型安全分析平台 Packj.dev 背后的工具，它不断审查软件包并提供免费报告.
-- [pure](https://github.com/ronomon/pure) — Pure is a static analysis file format checker that checks ZIP files for dangerous compression ratios, spec deviations, malicious archive signatures, mismatching local and central directory headers, ambiguous UTF-8 filenames, directory and symlink traversals, invalid MS-DOS dates, overlapping headers, overflow, underflow,  sparseness, accidental buffer bleeds etc.
+- [pure](https://github.com/ronomon/pure) — Pure 是一种静态分析文件格式检查器，可检查 ZIP 文件中是否存在危险的压缩率、规格偏差、恶意存档签名、本地和中央目录标题不匹配、不明确的 UTF-8 文件名、目录和符号链接遍历、无效的 MS-DOS 日期、重叠标头、上溢、下溢、稀疏、意外缓冲区溢出等.
 
 
 <h2 id="arm">Azure 资源管理器</h2>
@@ -896,7 +897,7 @@ This project is intended to be used by maintainers of projects who want to offer
 - [foodcritic](http://www.foodcritic.io) — 检查 Chef 食谱中常见问题的 lint 工具.
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 - [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) — 检查您的 Puppet 清单是否符合样式指南.
@@ -908,7 +909,7 @@ This project is intended to be used by maintainers of projects who want to offer
 
 <h2 id="container">容器</h2>
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 - [clair](https://github.com/coreos/clair) — 容器的漏洞静态分析.
 - [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
@@ -919,7 +920,7 @@ This project is intended to be used by maintainers of projects who want to offer
 - [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — 更智能的 Dockerfile linter，可帮助您构建最佳实践 Docker 映像.
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 - [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
@@ -955,7 +956,7 @@ This project is intended to be used by maintainers of projects who want to offer
 - [oelint-adv](https://github.com/priv-kweihmann/oelint-adv) — 用于开放式嵌入式和 YOCTO 的 bitbake 配方的 Linter
 
 
-<h2 id="erb">嵌入式 Ruby（又名 ERB、eRuby）</h2>
+<h2 id="erb">Embedded Ruby (a.k.a. ERB, eRuby)</h2>
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — 整理您的 ERB 或 HTML 文件
 
@@ -993,7 +994,7 @@ This project is intended to be used by maintainers of projects who want to offer
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
 
@@ -1108,7 +1109,7 @@ This project is intended to be used by maintainers of projects who want to offer
 
 <h2 id="smart-contracts">智能合约</h2>
 
-- [mythril](https://github.com/ConsenSys/mythril) — 包含电池的符号执行框架，可用于自动查找和利用智能合约中的漏洞.
+- [mythril](https://github.com/ConsenSys/mythril) — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
 - [MythX](https://mythx.io)  :copyright: — MythX 是一个易于使用的分析平台，它集成了多种分析方法，如模糊测试、符号执行和静态分析，以高精度查找漏洞. 它可以与 Remix 或 VSCode 等工具链集成，也可以从命令行调用.
 - [slither](https://github.com/trailofbits/slither) — 运行一套漏洞检测器的静态分析框架，打印有关合同细节的可视信息，并提供一个 API 来轻松编写自定义分析.
 - [solhint](https://protofire.github.io/solhint)  — Solhint 是一个由 https://protofire.io 创建的开源项目. 它的目标是为 Solidity 代码提供一个 linting 实用程序.
@@ -1154,7 +1155,7 @@ This project is intended to be used by maintainers of projects who want to offer
 <h2 id="writing">写作</h2>
 
 - [After the Deadline](https://open.afterthedeadline.com) :warning: — 拼写、风格和语法检查器.
-- [alex](https://alexjs.com) — Catch insensitive, inconsiderate writing
+- [alex](https://alexjs.com) — 抓住麻木不仁、轻率的写作
 - [codespell](https://github.com/codespell-project/codespell) — 检查常见拼写错误的代码.
 - [languagetool](https://languagetool.org)  — 25 多种语言的样式和语法检查器. 它发现了许多简单的拼写检查器无法检测到的错误.
 - [misspell-fixer](https://github.com/vlajos/misspell-fixer) — 用于修复源代码中常见拼写错误和拼写错误的快速工具.

@@ -90,7 +90,7 @@
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - 适用于 Node 和浏览器的最小 GraphQL 客户端.
 - [typescript-graphql-request](https://graphql-code-generator.com/docs/plugins/typescript-graphql-request) - 将 GraphQL 请求用作完全类型化的 SDK.
 - [graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus 为“JavaScript”或“TypeScript”创建自动完成客户端库，为强类型查询提供自动完成功能.
-- [graphqurl](https://github.com/hasura/graphqurl)  - 带有自动完成、订阅和 GraphiQL 的 GraphQL 卷曲. 也是一个非常简单的通用 javascript GraphQL 客户端.
+- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - 由 Amazon 开发的用于缓存、分析等的客户端库，其中包括获取 GraphQL 查询的方法.
 
 ##### Frontend Framework Integrations
@@ -156,7 +156,7 @@
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
 - [graphql-modules](https://github.com/Urigo/graphql-modules) - 按模块或功能将 GraphQL 服务器分成更小、可重用的部分.
 - [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
-- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
+- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - 用于 Node.js 的具有查询复杂性分析的 GraphQL 限速库
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - 一个 webpack 加载器，用于直接从 GraphQL 文档导入受类型保护的代码生成结果
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - 所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
 - [graphql-cli](https://github.com/urigo/graphql-cli) - 用于常见 GraphQL 开发工作流程的命令行工具.
@@ -285,7 +285,7 @@
 - [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - 自动生成用于 GraphQL Java 的类型
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)  - 将 POJO 转换为 GraphQL Java 可查询对象集的模式生成和执行包. 允许使用注释将任何服务公开为 GraphQL 服务.
 - [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 为使用 GraphQL Java 的模式定义提供基于注释的语法.
-- [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools) - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers. Inspired by [graphql-tools](https://github.com/apollographql/graphql-tools) 对于 JS.
+- [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)  - Schema-first graphql-java 便利库，可以轻松地将您自己的实现作为数据解析器. 灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) 对于 JS.
 - [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin)  - 用于生成 Java 类型和解析器接口的模式优先 maven 插件. 与 graphql-java-tools 完美结合. 灵感来自 [swagger-codegen-maven-plugin](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin).
 - [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin)  - 用于生成 Java 类型和解析器接口的模式优先 gradle 插件. 与 graphql-java-tools 完美结合. 灵感来自 [gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin).
 - [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 一个与框架无关的 java servlet，用于通过 GET、POST 和分段上传公开 graphql-java 查询端点.
@@ -299,11 +299,12 @@
 - [Elide](https://elide.io)：一个 Java 库，可以将 JPA 注释数据模型公开为任何关系数据库上的 GraphQL 服务.
 - [federation-jvm](https://github.com/apollographql/federation-jvm) - JVM 上的阿波罗联盟.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - 为 graphql-java 提供字段和字段参数的扩展验证.
+- [dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - 一组用于常见格式化用例的实验性 DGS 指令.
 
 #### Custom Scalars
 
 - [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date 是一组符合 RFC 3339 的日期/时间标量类型，可与 graphql-java 一起使用.
-- [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - graphql-java 的扩展标量.
+- [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java.
 
 <a name="java-example" />
 
@@ -356,14 +357,14 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的 Relay 应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - A GraphQL schema and server that demonstrates GraphQL [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 
 <a name="scala" />
 
 ### Scala
 
 - [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL 服务器实现.
-- [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - 桑格利亚汽酒接力支持.
+- [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
 - [caliban](https://github.com/ghostdogpr/caliban) - Caliban 是一个纯函数库，用于在 Scala 中创建 GraphQL 后端.
 
 <a name="scala-example" />
@@ -571,6 +572,7 @@
 - [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - 最快的协作 GraphQL 游乐场.
 - [CraftQL](https://github.com/yamafaktory/craftql) - 一个 CLI 工具，用于可视化 GraphQL 模式并将图形数据结构输出为 graphviz .dot 格式.
 - [gqt](https://github.com/eerimoq/gqt) - 在终端中构建和执行 GraphQL 查询.
+- [Graph Proxy](https://graphproxy.com/) - Graph Proxy 检测并显示所有 GraphQL 网络流量.
 
 <a name="tool-security" />
 
@@ -589,7 +591,7 @@
 ### Tools - Browser Extensions
 
 - [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) - Chrome 开发者控制台中 Apollo 客户端的 GraphQL 调试工具
-- [GraphQL Network](https://github.com/Ghirro/graphql-network) - 用于调试 GraphQL 网络请求的 chrome 开发工具扩展.
+- [GraphQL Network Inspector](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln) - 用于 GraphQL 网络检查的简单而干净的 chrome 开发工具扩展.
 
 ### Tools - Prototyping
 
@@ -651,7 +653,7 @@
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器的后端即服务. 几分钟内您的 GraphQL 和 REST over GraphQL 后端.
 - [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
-- [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/quick_start-graphql.html) - 目前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
+- [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/qs-graphql-cql-first.html) - 目前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
 ### CDN
 
@@ -703,6 +705,7 @@
 - [Build a GraphQL Server](https://www.youtube.com/watch?v=PEcJxkylcRM&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
 - [GraphQL Tutorial](https://www.youtube.com/watch?v=Y0lDGjwRYKw&list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - [Five years of GraphQL](https://www.youtube.com/watch?v=s8meG38iZAM)
+- [GraphQL is for Everyone by Moon Highway](https://moonhighway.teachable.com/p/graphql-is-for-everyone)
 
 <a name="podcast" />
 

@@ -306,6 +306,8 @@
 
 #### Generative Model
 
+* [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***查普曼和霍尔/CRC***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689&hl=en&as_sdt=0,5) ]. 唐鲁宾关于贝叶斯模型的介绍性书籍.
+
 * [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***国际计算机视觉杂志***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240&hl=en&as_sdt=0,5) ].  Song-Chun Zhu 的关于基于能量的生成纹理建模的原始论文.
 
 * [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***心理学年度评论***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1611451804975333652) ].  Alan Yuille 对贝叶斯物体感知的评论.
@@ -405,7 +407,7 @@
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大型语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会的交易***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
 
 
 
@@ -736,7 +738,7 @@
 
 * [Two Forms of Knowledge Representations in the Human Brain](https://www.sciencedirect.com/science/article/pii/S0896627320302798) - ***神经元***，2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16941965185680116049) ]. 说明语言衍生和感官衍生的知识.
 
-* [Organizational Principles of Abstract Words in the Human Brain](http://bilab.bnu.edu.cn/paper/2018/Wang_2018_Cerebral_Cortex.pdf) - ***Cerebral Cortex***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272192531353715481)].
+* [Organizational Principles of Abstract Words in the Human Brain](http://bilab.bnu.edu.cn/paper/2018/Wang_2018_Cerebral_Cortex.pdf) - ***大脑皮层***，2018 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272192531353715481)].
 
 * [Different computational relations in language are captured by distinct brain systems](http://bilab.bnu.edu.cn/paper/2022/Fu_2022_CC.pdf) - ***大脑皮层***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=720215181903530260&hl=en&as_sdt=0,5)].
 
@@ -939,7 +941,7 @@
 
 * [Integrating explanation and prediction in computational social science](http://jakehofman.com/pdfs/integrating-prediction-and-explanation.pdf) - ***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=288245575125750925&hl=en&as_sdt=0,5)].
 
-* [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***Topics in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
+* [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***认知科学主题***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
 
 * [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5) ].  Pinterest 推荐系统开发中的大规模用户研究.
 
@@ -972,7 +974,7 @@
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622) - ***行为科学的当前观点***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)].
 
-* [Humans can decipher adversarial images](https://perception.jhu.edu/files/PDFs/19_Adversarial_Deciphering/ZhouFirestone-AdversarialDeciphering.pdf)  - ***自然通讯***.  2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4423950118844131054&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Humans can decipher adversarial images](https://perception.jhu.edu/files/PDFs/19_Adversarial_Deciphering/ZhouFirestone-AdversarialDeciphering.pdf) - ***Nature Communications***. 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4423950118844131054&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***自然神经科学***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593&hl=en&as_sdt=0,5)].
 
@@ -1386,7 +1388,7 @@
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
 
-* [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/)  - ***柏拉图斯坦福***. 关于科学表示的计算哲学帐户，重点关注科学模型如何表示其目标系统.
+* [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/) - ***Plato Stanford***. A computational philosophy account on scientific representation, focusing on how scientific models represent their target systems.
 
 * [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/)  - ***柏拉图斯坦福***. 一种关于自我知识的计算哲学解释，它通常指的是对自己的心理状态的了解——即一个人的感受或想法，或者一个人的信念或愿望.
 
@@ -1396,7 +1398,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于可追溯到希腊古代辩证法的研究传统，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 

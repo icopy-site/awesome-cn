@@ -25,7 +25,7 @@
 
  | 链接 | 预览 |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者解决定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快在计算机科学课程中被教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
@@ -113,7 +113,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络 (GAN)
+- 生成对抗网络（GAN）
 - 自组织地图
 
 ## COLLEGES
@@ -546,6 +546,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 )
 - [Managing ML Projects](https://www.manning.com/books/managing-machine-learning-projects?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_thompson_managing_6_14_22)
 - [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
+- [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
 ## Socialize
 
@@ -566,7 +567,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
 - [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部设在英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.

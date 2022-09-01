@@ -81,6 +81,7 @@
 
 ## Emails
 
+- [Falsehoods about Email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email) - 关于地址、内容和交付.
 - [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) - 提供复杂的示例，这些示例是根据 RFC-822 未怀疑的有效电子邮件地址.
 - [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - 展示极端情况的电子邮件地址以及为什么不应该使用正则表达式来解析它们.
 - [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html) - 电子邮件地址中允许的各种令人惊讶的事情的摘要.
