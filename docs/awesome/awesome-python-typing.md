@@ -61,6 +61,7 @@
 
 ## Backports and improvements
 
+- [future-typing](https://github.com/PrettyWood/future-typing)  - 标准集合和联合类型中类型提示泛型的向后移植为`X |  Y`.
 - [typed-ast](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 - [typing-extensions](https://github.com/python/typing/tree/master/typing_extensions) - 向后移植和实验类型提示.
 - [typing-utils](https://github.com/bojiang/typing_utils) - 向后移植 3.8+ 运行时键入工具（例如：get_origin）并添加 issubtype 等.

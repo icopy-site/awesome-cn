@@ -14,6 +14,7 @@
 	<hr>
 </div>
 
+
 &gt; 精选的 Magento 2 扩展和资源列表.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
@@ -22,6 +23,10 @@
 
 
 ---
+
+## Frontend
+
+- [hyvä](https://hyva.io/) - 唯一可行的 Magento 2 前端选项
 
 ## Tools
 
@@ -32,7 +37,7 @@
 - [Mage2Gen](https://mage2gen.com/) - 在线模块创建者.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - Magento 2 的必备 Chrome 扩展程序 [MageSpecialist](https://github.com/magespecialist).
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发者工具栏
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed)、MariaDB、PHP、Redis、带有 Magento 2 安装程序的 Elastic Search Configurator（更新：2020 年 4 月 19 日）
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - 带有 Magento 2 安装程序的 Nginx(Pagespeed)、MariaDB、PHP、Redis、Elastic Search Configurator（更新：2020 年 4 月 19 日）
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust 的 Magento Docker 配置
 - [Warden](https://github.com/davidalger/warden) - 用于与 docker-compose 环境一起使用的 CLI 实用程序 [David Alger](https://davidalger.com/)
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - 帮助脚本通过检测覆盖来帮助升级 magento 2 网站.
@@ -47,6 +52,7 @@
 
 ### Development Utilities
 
+- [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) - 用于 Magento 2 的社区驱动的 Cypress 测试套件
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - 基于 CLI 的配置管理.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - Magento 2 中 Cool Kids 的 PHP 例外.
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) - 更快地替换 bin/magento 缓存：Vinai Kopp 使用文件观察器清理](https://twitter.com/vinaikopp)
@@ -138,6 +144,7 @@
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 快速集成.
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Magento 2 的 Cron 作业管理器.
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok 集成
+- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - 提供有关媒体文件和潜在删除选项信息的模块.
 
 ---
 
@@ -204,7 +211,7 @@
 
 - [Magento Official Website](https://www.magento.com) - Magento 的官方网站.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - 官方开发者文档.
-- [Magento Forum](https://community.magento.com/) - Magento 的社区论坛.
+- [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
 - [Magento Github Repository](https://github.com/magento/magento2) - Github 存储库.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Magento 的开发者博客.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - 官方 Magento 1 到 Magento 2 迁移工具.
@@ -215,12 +222,12 @@
   - [Peter Jaap Blaakmeer](https://twitter.com/PeterJaap) - 首席技术官 [elgentos](https://www.elgentos.nl/)
   - Carmen Bremen - 自由职业者 [neoshops](http://neoshops.de/)
   - Tony Brown - 技术总监 [space48](http://www.space48.com/)
-  ——西广和
+  - 西博和
   ——布伦特·彼得森
   ——索尼娅·里斯特
   - 克里斯托夫·林格勒夫
   - 亚历山德罗·朗奇
-  - 马蒂亚斯·蔡斯
+  - 马蒂亚斯蔡司
   - 对于兹沃林斯基
   - 加布里埃尔瓜里诺
   - 菲利普杰克逊
@@ -279,7 +286,7 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，David Lambauer 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内，David Lambauer 放弃了本作品的所有版权和相关或邻接权.
 
 ---
 

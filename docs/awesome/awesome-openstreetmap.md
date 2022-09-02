@@ -42,6 +42,7 @@
 
 * [JOSM](https://josm.openstreetmap.de)  - 高级可扩展桌面编辑器.  ([Source Code](https://josm.openstreetmap.de/browser) / [Wiki](https://wiki.openstreetmap.org/wiki/JOSM))
 * [Potlatch 3](https://www.systemed.net/potlatch/)  - Adob​​e AIR 中内置的本机中级编辑器.  ([Source Code](https://github.com/systemed/potlatch3) / [Wiki](https://wiki.openstreetmap.org/wiki/Potlatch))
+* [Merkaartor](https://github.com/openstreetmap/merkaartor) - 一个开源 OSM 编辑器，用 C++ 和 Qt 编写
 
 ## Tools
 
@@ -121,7 +122,7 @@
 * [Road Curvature](https://roadcurvature.com/map/)  - 帮助那些喜欢它们的人找到弯曲的道路.  ([Source Code](https://github.com/adamfranco/curvature))
 * [OpenLevelUp!](https://openlevelup.net/) - 基于 OSM 的室内查看器.（[Wiki](https://wiki.openstreetmap.org/wiki/OpenLevelUp))
 * [AccessMap](https://www.accessmap.io/)  - 一个网络地图项目，可为行动不便的人提供无障碍、安全的人行道旅行计划. 目前渲染华盛顿州的几个城市.  ([Source Code](https://github.com/accessmap))
-* [OSM Landuse](https://osmlanduse.org) - 基于 OSM 的土地利用和土地覆盖 WebGIS 应用程序.
+* [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
 * [OsmAPP](https://osmapp.org)  - 可浏览的地图显示数据并提供简单的 POI 编辑功能.  ([Source Code](https://github.com/zbycz/osmapp))
 * [Tracesmap](https://tracesmap.com/) - 允许在 OsmCarto 和 OpenTopoMap 派生的视网膜地图上规划路线的地图.
 
@@ -139,7 +140,7 @@
 
 ### Map Styles
 
-* [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
+* [Terrain Classic](https://github.com/stamen/terrain-classic) - Stamen 经典地形风格的全球 CartoCSS 端口.
 
 ### Map Games
 
