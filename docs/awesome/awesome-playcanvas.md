@@ -141,14 +141,14 @@
 
 ## Automotive
 
-- [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - 旅行拖车可视化器.
+- [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
 - [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - 船配置器.
 - [BMW Car Design](https://www.bmw.com/en/design/car-design-the-keys-to-bmw-design.html) - BMW设计的互动探索.
 - [BMW i4 M50 Showcase](https://www.bmw.com/en/performance/electric-sports-car-BMWi4-M50-driving-dynamic-test.html) - 嵌入新 i4 技术概述的博客文章.
 - [BMW i8](http://car.playcanvas.com) - 汽车可视化器.
 - [DAB Motors](https://dabmotors.com/configurator/) - 摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
-- [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 英菲尼迪系列（中文）.
+- [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 Infiniti 系列（中文）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - 探索起亚的最新车型.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - 汽车可视化器.
 - [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - 以 3D 形式探索 Nissan 的 Arriya（日语 - 需要登录）.
@@ -158,9 +158,10 @@
 
 - [3D Plans](https://3dplans.com) - 房地产市场的虚拟旅游和互动地图.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - 交互式 3D 家具配置器.
-- [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
+- [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - 电梯配置器.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - 背包配置器.
+- [Iconic Nordic Rooms](https://www.inr.se/planera-badrum/planera-badrum-verktyg-3d/) - 淋浴和水槽配置器.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone 可视化工具.
 - [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - 万宝龙钢笔、手表、钱包和耳机的产品可视化工具.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - 壁橱配置器.

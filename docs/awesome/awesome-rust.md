@@ -17,11 +17,11 @@ Rust 代码和资源的精选列表.
 也可以看看 [Rust — Production](https://www.rust-lang.org/production) 在生产中运行 Rust 的组织.
 
 * [alacritty](https://github.com/alacritty/alacritty) — 一个跨平台、GPU 增强的终端仿真器
-* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 rust 编写的交互式程序集 shell.
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 一个用 rust 编写的交互式程序集外壳.
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间 WireGuard VPN 实施 [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 * [datafusion](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion 和 Ballista 查询引擎
 * [denoland/deno](https://github.com/denoland/deno) — 使用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
-* [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [![build badge](https://api.travis-ci.org/snowplow/factotum.svg?branch=master)](https://travis-ci.org/snowplow/factotum)
+* [Factotum](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplow.io/blog/introducing-factotum-data-pipeline-runner/) [![build badge](https://api.travis-ci.org/snowplow/factotum.svg?branch=master)](https://travis-ci.org/snowplow/factotum)
 * [fcsonline/drill](https://github.com/fcsonline/drill) — 受 Ansible 语法启发的 HTTP 负载测试应用程序 [![build badge](https://api.travis-ci.org/fcsonline/drill.svg?branch=master)](https://travis-ci.org/fcsonline/drill)
 * [fend](https://github.com/printfn/fend) - 任意精度单位感知计算器 [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 * [Fractalide](https://github.com/fractalide/fractalide) — 简单的 Rust 微服务
@@ -106,13 +106,14 @@ Rust 代码和资源的精选列表.
 * [ParityDB](https://github.com/paritytech/parity-db) — 快速可靠的数据库，针对读取操作进行了优化
 * [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB) — 事件溯源数据库引擎
 * [Qdrant](https://github.com/qdrant/qdrant) - 具有扩展过滤支持的开源向量相似性搜索引擎 [![Tests](https://github.com/qdrant/qdrant/workflows/Tests/badge.svg)](https://github.com/qdrant/qdrant/actions)
+* [RisingWaveLabs/RisingWave](https://github.com/RisingWaveLabs/risingwave) - 云中的下一代流式数据库 [![CI](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/RisingWaveLabs/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
 * [seppo0010/rsedis](https://github.com/seppo0010/rsedis) — Rust 中的 Redis 重新实现 [![build badge](https://api.travis-ci.org/seppo0010/rsedis.svg?branch=master)](https://travis-ci.org/seppo0010/rsedis)
-* [Singularity-Data/RisingWave](https://github.com/singularity-data/risingwave) - 云中的下一代流式数据库 [![CI](https://github.com/singularity-data/risingwave/actions/workflows/main.yml/badge.svg)](https://github.com/singularity-data/risingwave/actions/workflows/main.yml/badge.svg?branch=main)
 * [Skytable](https://github.com/skytable/skytable) — 多模型 NoSQL 数据库 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
 * [sled](https://crates.io/crates/sled) — 一个（测试版）现代嵌入式数据库 [![Build Status](https://github.com/spacejam/sled/workflows/Rust/badge.svg?branch=master)](https://github.com/spacejam/sled/actions?workflow=Rust)
+* [SurrealDB](https://github.com/surrealdb/surrealdb) — 一个可扩展的分布式文档图数据库 [![Build Status](https://img.shields.io/github/workflow/status/surrealdb/surrealdb/Continuous%20integration/main)](https://github.com/surrealdb/surrealdb/actions)
 * [TerminusDB](https://github.com/terminusdb/terminusdb-store) - 开源图形数据库和文档存储 [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 * [tikv](https://github.com/tikv/tikv) — Rust 中的分布式 KV 数据库 [![Build Status](https://ci.pingcap.net/job/tikv_ghpr_test/badge/icon)](https://ci.pingcap.net/job/tikv_ghpr_test/)
-* [vorot93/libmdbx-rs](https://github.com/vorot93/libmdbx-rs) [[mdbx-sys](https://crates.io/crates/mdbx-sys) ] — MDBX 的 Rust 绑定，一个“快速、紧凑、强大、嵌入式、事务性键值数据库，具有许可许可”. 这是 mozilla/lmdb-rs 的一个分支，带有补丁以使其与 libmdbx 一起工作.
+* [vorot93/libmdbx-rs](https://github.com/vorot93/libmdbx-rs) [[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 * [WooriDB](https://github.com/naomijub/wooridb) - 受 Crux 和 Datomic 启发的通用时间序列数据库.
 
 ### Emulators
@@ -263,6 +264,7 @@ Rust 代码和资源的精选列表.
 * [sharkdp/bat](https://github.com/sharkdp/bat) — 带翅膀的 cat(1) 克隆. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 * [sharkdp/fd](https://github.com/sharkdp/fd) — 一种简单、快速且用户友好的查找方式. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 * [sitkevij/hex](https://github.com/sitkevij/hex) — 一个彩色的 hexdump 终端实用程序. [![build badge](https://api.travis-ci.org/sitkevij/hex.svg?branch=master)](https://travis-ci.org/sitkevij/hex)
+* [trippy](https://github.com/fujiapple852/trippy) - 网络诊断工具 [![build badge](https://github.com/fujiapple852/trippy/workflows/CI/badge.svg)](https://github.com/fujiapple852/trippy/actions/workflows/ci.yml)
 * [uutils/coreutils](https://github.com/uutils/coreutils) — GNU coreutils 的跨平台 Rust 重写 [[![CICD](https://github.com/uutils/coreutils/actions/workflows/CICD.yml/badge.svg)](https://github.com/uutils/coreutils/actions/workflows/CICD.yml)
 * [watchexec](https://github.com/watchexec/watchexec) — 执行命令以响应文件修改 [![build badge](https://api.travis-ci.org/watchexec/watchexec.svg?branch=master)](https://travis-ci.org/watchexec/watchexec)
 * [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) — 计算代码行数 [![build badge](https://api.travis-ci.org/XAMPPRocky/tokei.svg?branch=master)](https://travis-ci.org/XAMPPRocky/tokei)
@@ -376,7 +378,7 @@ Rust 代码和资源的精选列表.
 
 ### Build system
 
-* [Cargo](https://crates.io/) — the Rust package manager
+* [Cargo](https://crates.io/) — Rust 包管理器
   * [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - 一个可配置的子命令，用于简化所有功能组合的测试、构建等 [![CI](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml/badge.svg)](https://github.com/frewsxcv/cargo-all-features/actions/workflows/ci.yml)
   * [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) — 一个比较 Rust 微基准的实用程序 [![build badge](https://api.travis-ci.org/BurntSushi/cargo-benchcmp.svg?branch=master)](https://travis-ci.org/BurntSushi/cargo-benchcmp)
   * [cargo-bitbake](https://crates.io/crates/cargo-bitbake) — 可以利用 meta-rust 中的类生成 BitBake 配方的货物扩展 [![build badge](https://api.travis-ci.org/cardoe/cargo-bitbake.svg?branch=master)](https://travis-ci.org/cardoe/cargo-bitbake)
@@ -914,6 +916,8 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
     * [redis-rs](https://github.com/redis-rs/redis-rs) — [Redis](https://redis.io/) Rust 中的库 [![Rust](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/redis-rs/redis-rs/actions/workflows/rust.yml)
   * [RocksDB](https://rocksdb.org/)
     * [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) — RocksDB 绑定 [![RocksDB CI](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/rust-rocksdb/rust-rocksdb/actions/workflows/rust.yml)
+  * [SurrealDB](https://surrealdb.com/)
+    * [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) — SurrealDB 嵌入式文档图数据库
   * [UnQLite](https://unqlite.org/)
     * [zitsen/unqlite.rs](https://github.com/zitsen/unqlite.rs) — UnQLite 绑定 [![build badge](https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master)](https://travis-ci.org/zitsen/unqlite.rs)
   * [ZooKeeper](https://zookeeper.apache.org/)
