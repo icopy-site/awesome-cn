@@ -15,7 +15,7 @@
 
 ## Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[AppImage](https://appimage.org) 是一种基于社区的格式，用于将应用程序分发到各种主流 Linux 发行版，而无需集中存储. 一个应用程序 = 一个文件！ 此列表包含使用 AppImages 的工具，例如为应用程序创建 AppImages 并将 AppImages 轻松集成到系统中. 随着 AppImage 周围充满活力的社区不断壮大，这个列表也在增长.
+[AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
 
 
 
@@ -89,7 +89,7 @@
 
 尽管 AppImage 格式经过精心设计，不需要 Linux 发行版的任何特殊支持，但仍有一些提供不同程度的 AppImage 友好性.
 
-- [Deepin](https://www.deepin.org/en/) - 当您双击 AppImage 或任何其他缺少执行权限的可执行文件时，一个用户友好的对话框会解释情况并要求您允许设置执行权限并执行可执行文件.
+- [Deepin](https://www.deepin.org/en/) - 当您双击 AppImage 或任何其他缺少执行权限的可执行文件时，一个用户友好的对话框会解释情况并要求您设置执行权限并执行可执行文件.
 - [Nitrux](https://nxos.org/) - 推广使用 AppImage 作为获取应用程序的主要格式，内置应用程序中心以 AppImages 为特色.
 - [Linux Mint](https://linuxmint.com/) - 有一个 [AppImage thumbnailer](https://github.com/linuxmint/xapp-thumbnailers) 在 AppImage 文件上显示应用程序图标.
 - [Zenwalk GNU Linux](http://www.zenwalk.org/) 是“AppImage ready”并以 AppImage 格式分发一些应用程序.
@@ -98,7 +98,7 @@
 
 ### Low-level tools
 
-- [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - Converts AppDirs into AppImages.
+- [appimagetool](https://github.com/AppImage/AppImageKit/releases/tag/continuous) - 将 AppDirs 转换为 AppImages.
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - 将 Nix 派生转换为 AppImage.
 
 ### Build systems
@@ -161,6 +161,7 @@
 - [make-portable](https://github.com/sudo-give-me-coffee/make-portable) - 将安装的应用程序部署到 AppDir，使用 strace 获取所有文件系统调用并将所有访问的文件复制到 AppDir，包括 glibc.
 - [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - 接受 strace.log 并将其转换为适合 AppImage 的目录的 Python 应用程序.
 - [Elements](https://gitlab.com/scottywz/elements) - 使用最小（约 3 MB 压缩）Alpine Linux rootfs 生成单文件、基于 runc 的 AppImage 的工具.
+- [arch2appimage](https://github.com/hanzala123/arch2appimage) - 用于将任何 Arch Linux 包（官方/AUR）转换为 AppImage 的 Python 脚本.
 
 ### Metadata tools
 
@@ -210,7 +211,7 @@
 
 ### Tutorials
 
-- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作一个捆绑了_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且还可以在比构建系统的_旧_系统上运行.
+- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作捆绑_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且可以在比构建系统的_旧_系统上运行.
 
 ### Articles
 

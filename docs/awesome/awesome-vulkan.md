@@ -16,6 +16,7 @@
 * **[Bindings](#bindings)**
 * **[Tools](#tools)**
 * **[Books](#books)**
+* **[Papers](#papers)**
 * **[Khronos](#khronos)**
 * **[Community](#community)**
 
@@ -86,7 +87,7 @@
     * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) （用于手机）
 * 史诗
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
-* 克罗诺斯
+* 计时码表
    * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 * [LunarG](https://lunarg.com)
     * [Vulkan SDK](https://vulkan.lunarg.com/)
@@ -117,6 +118,7 @@
 *  [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) - 巴尔德克.
 *  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos) .  [和]
 *  [Vulkan Guide](https://vkguide.dev) .  [和]
+*  [Vulkan Lecture Series](https://www.youtube.com/playlist?list=PLmIqTlJ6KsE1Jx5HV4sd2jOe3V1KMHHgn)  - 来自维也纳工业大学计算机图形研究部的 Johannes Unterguggenberger 的大学讲座. 涵盖基本和高级主题，例如：Vulkan 基本知识、交换链、资源和描述符、命令和命令缓冲区、管道和阶段、实时光线追踪和同步.
 
 ## Apps
 *  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - 克罗泰姆.
@@ -127,17 +129,17 @@
 *  [DDraceNetwork](https://github.com/ddnet/ddnet/) - 可选的合作 2D 平台游戏 [Vulkan backend](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - 通过 id 软件.
 *  [vkQuake](https://github.com/Novum/vkQuake)  - 基于 QuakeSpasm 的 Vulkan Quake 端口.  [通用公共许可证]
-*  [vkQuake2](https://github.com/kondrak/vkQuake2)  - id Software 的 Quake 2 v3.21 支持 Vulkan（Windows 和 Linux）.  [通用公共许可证]
+*  [vkQuake2](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). [GPL]
 *  [q2vkpt](https://github.com/cschied/q2vkpt/)  - 实时路径追踪器 VKPT 集成到 q2pro Quake 2 客户端.  [gpl]
 *  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR 建立在 Vulkan API 之上.
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API 开销测试.
 *  [Q2RTX](https://github.com/NVIDIA/Q2RTX) - NVIDIA 在 Quake II 中实施 RTX 光线追踪. [[LICENSE](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
 
 ## Samples
-* 克罗诺斯 [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
+* 计时码表 [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 * 萨沙·威廉斯 [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *（不完整）萨沙·威廉斯 [samples port](https://github.com/jvm-graphics-labs/Vulkan) 到科特林
-* 萨沙·威廉斯 [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  - 使用 glTF 2.0 模型使用 Vulkan 进行基于物理的渲染.  [麻省理工学院]
+* 萨沙·威廉斯 [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. [MIT]
 *  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 * 谷歌
     *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
@@ -151,7 +153,7 @@
 *  [LunarG's Samples](https://github.com/LunarG/VulkanSamples)
 *  [vkcube](https://github.com/krh/vkcube) - 来自 krh 的“vkcube”样本，可在 X、wayland 和 VT 控制台下使用
 drm/kms.
-*  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - Stardust 示例应用程序使用 Vulkan 图形 API 来有效地渲染动画粒子云. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 *  [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Overv 的 Port of Overv 教程 [SharpVk](https://github.com/FacticiusVir/SharpVk) [和]
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)  - VFPR - Vulkan Forward Plus 渲染器.  [和]
@@ -183,7 +185,7 @@ drm/kms.
 
 * 低级
    *  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)  - 易于集成 AMD 的 Vulkan 内存分配库.  [麻省理工学院]
-      *  [VulkanMemoryAllocator-Hpp] (https://github.com/malte-v/VulkanMemoryAllocator-Hpp) - C++ Bindings for VMA, like Vulkan-HPP
+      * [VulkanMemoryAllocator-Hpp] (https://github.com/malte-v/VulkanMemoryAllocator-Hpp) - VMA 的 C++ 绑定，如 Vulkan-HPP
    *  [Fossilize](https://github.com/Themaister/Fossilize)  - 各种持久 Vulkan 对象类型的序列化格式.  [麻省理工学院]
    *  [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap)  - C++ 实用程序库通过自动创建实例、物理设备、设备和交换链来快速启动 Vulkan 开发.  [麻省理工学院]
    *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)  - Vulkan 抽象库使用 C++11 进行内存、资源管理、类型和线程安全以及系统独立性.  [阿帕奇]
@@ -196,7 +198,7 @@ drm/kms.
    *  [Screen 13](https://github.com/attackgoat/screen-13)  - 一个易于使用的 Rust 的 Vulkan 渲染图.  [麻省理工学院]
 
 * 框架、引擎、更高级别的渲染
-   *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor)  - 来自 NVIDIA 的实时渲染框架，支持 DX12 和 Vulkan.  [BSD 3 条款]
+   *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor)  - 来自 NVIDIA 的实时渲染框架，主要支持 DX12，具有实验性 Vulkan 支持.  [BSD 3 条款]
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge)  - DirectX 12、Vulkan、macOS Metal 2 渲染框架.  [Apache 许可证 2.0]
    *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  - 一个现代的跨平台低级图形库，支持 OpenGL/GLES、Direct3D11/12 和 Vulkan.  [Apache 许可证 2.0]
    *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 跨平台演示框架，包括大量 Vulkan、OpenGL ES、OpenVX、OpenCL、OpenVG 和 OpenCV 示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
@@ -283,24 +285,32 @@ drm/kms.
 *  [MangoHud](https://github.com/flightlessmango/MangoHud)  - 用于监控 FPS、温度、CPU/GPU 负载的 Vulkan 和 OpenGL 覆盖.  [麻省理工学院]
 
 ## Books
-* [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) 作者：**Kenwright** - 使用 Vulkan API 从基础实用的角度向读者介绍计算机图形学这一激动人心的主题.
+* [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) 作者：**Kenwright** - 使用 Vulkan API 从基础实用的角度向读者介绍计算机图形这个令人兴奋的主题.
 * [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - **Parminder Singh** - 使用易于理解的示例开始使用 Vulkan API 及其编程技术.
   * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan)
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- 作者：**Pawel Lapinski** - 探索各种图形编程和 GPU 计算方法，以充分利用 Vulkan API.
   * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - 由 **Graham Sellers** 和 **John Kessenich** - 为许多领域介绍强大的 3D 开发技术.
 
+## Papers
+*  [The Road to Vulkan: Teaching Modern Low-Level APIs in Introductory Graphics Courses](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan) 作者：**Johannes Unterguggenberger**、**Bernhard Kerbl** 和 **Michael Wimmer**，Eurographics 2022 - 教育论文
+    * 直接链接到 [paper](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan/unterguggenberger-2022-vulkan-paper.pdf).
+    *预先录制的演示文稿 [YouTube](https://youtu.be/ZG0ct4V6c0k).
+
 ## Khronos
 * 规格
-    *  [Vulkan 1.0 Specification](https://www.khronos.org/registry/vulkan/specs/1.0/pdf/vkspec.pdf)
-    *  [Vulkan 1.0 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.0-extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.0 Specification with WSI Extensions](https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.1 Specification](https://www.khronos.org/registry/vulkan/specs/1.1/pdf/)
-    *  [Vulkan 1.1 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.1 Specification with KHR Extensions](https://www.khronos.org/registry/vulkan/specs/1.1-khr-extensions/pdf/)
-    *  [Vulkan 1.2 Specification](https://www.khronos.org/registry/vulkan/specs/1.2/pdf/vkspec.pdf)
-    *  [Vulkan 1.2 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/pdf/vkspec.pdf)
-    *  [Vulkan 1.2 Specification with KHR Extensions](https://www.khronos.org/registry/vulkan/specs/1.2-khr-extensions/pdf/vkspec.pdf)
+    * Vulkan 1.0 核心 API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.0/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.0/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.0/html/vkspec.html))
+    * Vulkan 1.0 核心 API + Khronos 定义的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.0-wsi_extensions/html/vkspec.html))
+    * Vulkan 1.0 核心 API + 所有注册的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.0-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.0-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.0-extensions/html/vkspec.html)) 
+    * Vulkan 1.1 核心 API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.1/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.1/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.1/html/vkspec.html))
+    * Vulkan 1.1 核心 API + Khronos 定义的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.1-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.1-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.1-khr-extensions/html/vkspec.html))
+    * Vulkan 1.1 核心 API + 所有注册的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.1-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.1-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.1-extensions/html/vkspec.html)) 
+    * Vulkan 1.2 核心 API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.2/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.2/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.2/html/vkspec.html))
+    * Vulkan 1.2 核心 API + Khronos 定义的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.2-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.2-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.2-khr-extensions/html/vkspec.html))
+    * Vulkan 1.2 核心 API + 所有注册的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.2-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.2-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.2-extensions/html/vkspec.html)) 
+    * Vulkan 1.3 核心 API ([Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3/html/vkspec.html))
+    * Vulkan 1.3 核心 API + Khronos 定义的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3-khr-extensions/html/vkspec.html))
+    * Vulkan 1.3 核心 API + 所有注册的扩展（[Chunked HTML](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/index.html)) ([PDF](https://registry.khronos.org/vulkan/specs/1.3-extensions/pdf/vkspec.pdf)) ([Single-file HTML](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html)) 
 * 快速参考表
     *  [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *  [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)

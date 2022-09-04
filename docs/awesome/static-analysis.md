@@ -726,7 +726,7 @@
 - [ESLint](https://github.com/eslint/eslint) — 一个 JS 的可扩展 linter，遵循 ECMAScript 标准.
 - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于对 Java Web 应用程序和 Android 应用程序进行安全审计的 SpotBugs 插件.  （也可以使用 Kotlin、Groovy 和 Scala 项目）
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
-- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
 - [goone](https://github.com/masibw/goone) — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
 - [graudit](http://www.justanotherhacker.com) — Grep 粗略审计——源代码审计工具.
 - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — 商业静态代码分析.
@@ -848,6 +848,7 @@
 - [Manalyze](https://github.com/JusticeRage/Manalyze) — 一种静态分析器，用于检查可移植可执行文件中的恶意内容.
 - [mcsema](https://github.com/lifting-bits/mcsema)  — 用于将 x86、amd64、aarch64、sparc32 和 sparc64 程序二进制文件提升到 LLVM 位码的框架. 它将可执行二进制文件从本机机器代码转换（“提升”）为 LLVM 位码，这对于执行程序分析方法非常有用.
 - [Nauz File Detector](https://github.com/horsicq/Nauz-File-Detector) — 适用于 Windows、Linux 和 MacOS 的静态链接器/编译器/工具检测器.
+- [rust-audit](https://github.com/Shnatsel/rust-audit)  — 审计 Rust 二进制文件中的已知错误或安全漏洞. 这通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分来实现.
 - [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
 - [VMware chap](https://github.com/vmware/chap)  — chap 分析未检测的 ELF 核心文件是否存在泄漏、内存增长和损坏. 它足够可靠，可以在自动化中用于在泄漏之前捕获泄漏. 作为一种交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
 - [zydis](https://zydis.re) — 快速、轻量级的 x86/x86-64 反汇编库
