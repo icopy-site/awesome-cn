@@ -265,7 +265,7 @@
 - [BSD Weekly](https://bsdweekly.com/) . 一份免费的、每周一次的 BSD 新闻和文章综合电子邮件.
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) . 每周最新的 MacMost 教程、提示和新闻都在您的收件箱中.
 - [NixOS Weekly](https://weekly.nixos.org) . 最新消息 [NixOS](https://nixos.org)
-- [Console Weekly](https://console.substack.com/) . 发现酷炫的开源项目，每周采访一位开发人员.
+- [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
 - [FOSS Weekly](https://fossweekly.beehiiv.com/) . 跟上开源软件的最简单方法.
 
 ## Git
@@ -373,7 +373,7 @@
 ## Leadership
 
 - [Software Lead Weekly](https://softwareleadweekly.com/) . 关于公司文化、领导力和一般软件构建的有见地的文章.
-- [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
+- [Tech Lead Digest](https://techleaddigest.net/) . 每周时事通讯，其中包含关于组建团队、领导力和工程文化的五个有趣故事.
 
 ## Marketing
 
@@ -389,6 +389,7 @@
 - [Capital minded](https://capitalminded.com) . 关于导航指数基金时代、了解经济和破解资本主义的每周情报简报.
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选的创业世界中的佼佼者.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，其中包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
+- [Unvalidated Ideas](https://unvalidatedideas.com) . 您可以每周拿出新的创业和 SaaS 创意并进行市场验证.
 
 ## Awesome news
 

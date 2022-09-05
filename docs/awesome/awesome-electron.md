@@ -63,15 +63,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://keygen.sh">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
-			</div>
-			<b>为开发人员构建的极其简单的软件许可和分发 API</b>
-		</a>
-		<br>
-		<br>
-		<br>
 		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
@@ -127,7 +118,7 @@
 
 - [Git-it](https://github.com/jlord/git-it-electron) - 教你 Git 和 GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - 非官方的 Facebook Messenger 应用程序.
-- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - 记事本.
 - [Abricotine](https://github.com/brrd/Abricotine) - 带有内联预览的 Markdown 编辑器.
 - [Kap](https://github.com/wulkano/kap) - 支持 GIF 的屏幕录像机.
 - [Medis](https://github.com/luin/medis) - Redis 数据库管理.
@@ -144,7 +135,7 @@
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) - SQL 客户端.
 - [Light Table](https://github.com/LightTable/LightTable) - 具有即时反馈的代码编辑器.
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的 Google Play 音乐应用.
-- [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools 打包为一个应用程序.
+- [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) - 打包为应用程序的 Chrome DevTools.
 - [Proton](https://github.com/steventhanna/proton) - 带有实时预览的 Markdown 编辑器.
 - [Hawkpass](https://github.com/kalpetros/hawkpass) - 密码生成器.
 - [Boostnote](https://github.com/BoostIO/Boostnote) - 面向开发人员的 Markdown 注释和代码片段应用程序.
@@ -172,7 +163,7 @@
 - [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) - 番茄计时器.
-- [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的可视化工具.
+- [Netron](https://github.com/lutzroeder/netron) - 深度学习和机器学习模型的可视化工具.
 - [Etcher](https://github.com/resin-io/etcher) - 将操作系统映像闪存到 SD 卡和 USB 驱动器.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 从 Unsplash 设置桌面壁纸.
@@ -240,14 +231,14 @@
 - [Notion](https://notion.so) - 用于笔记、任务、wiki 和数据库的一体化工作区.
 - [FATpick](https://www.fatpick.com) - 吉他指法谱查看器，可在您演奏时为您的演奏评分.
 - [Taskade](https://www.taskade.com) - 用于分布式团队的实时组织和协作工具，包括任务、笔记和聊天.
-- [Coloban](https://www.coloban.com) - 多合一的项目管理工具，包括聊天、看板、甘特图、通话、屏幕共享等.
+- [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - 无压力地跟上 GitHub 通知.
 - [RunJS](https://runjs.app) - JavaScript 和 TypeScript 的游乐场.
 
 ### Samples
 
-- [Electron API usage](https://github.com/hokein/electron-sample-apps) - 说明 Electron API 用法的示例应用程序.
+- [Electron API usage](https://github.com/hokein/electron-sample-apps) - 说明 Electron API 使用的示例应用程序.
 - [Screen Recorder](https://github.com/hokein/electron-screen-recorder) - WebRTC 屏幕录像机.
 - [Activity Monitor](https://electronjs.org/blog/simple-samples#activity-monitor) - 显示 CPU 系统、用户和空闲活动时间的圆环图.
 - [Hash](https://electronjs.org/blog/simple-samples#hash) - 显示使用不同算法输入文本的哈希值.
@@ -332,7 +323,7 @@
 
 - [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 - [Official docs](https://electronjs.org/docs)
-- [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
+- [Essential Electron](http://jlord.us/essential-electron/) - 简明扼要的概述.
 
 ## Articles
 

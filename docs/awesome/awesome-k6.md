@@ -14,7 +14,7 @@
 社区的内容集合，在（测试） <a href="https://k6.io/">k6</a>上.
 
 
-想要帮助使这个列表变得更好吗？ 耶，太棒了！ 在开始之前，请先看看我们 [code of conduct](https://github.com/grafana/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/grafana/awesome-k6/blob/master/contributing.md).
+Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](https://github.com/grafana/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/grafana/awesome-k6/blob/master/contributing.md).
 
 
 
@@ -47,6 +47,7 @@
 
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - 针对 Umbraco v8 在 Azure 上测试 Umbraco v9 的性能，并比较 Windows 与 Linux.
 - [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - 维护具有挑战性的 k6 负载测试代码库的个人技巧.
+- [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - 使用 k6-operator 和 Argo 工作流设置分布式执行. 
 
 ## Videos
 

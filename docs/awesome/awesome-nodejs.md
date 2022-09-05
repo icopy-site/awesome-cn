@@ -141,7 +141,7 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://sizzy.co?ref=sindre">
+		<a href="https://sizzy.co/?utm_campaign=github_repo&utm_source=github&utm_medium=referral&utm_content=awesome-nodejs&utm_term=sindre">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/sizzy-logo.png" width="240" alt="Sizzy">
 			</div>
@@ -368,7 +368,7 @@
 - [serialport](https://github.com/serialport/node-serialport) - 访问串行端口进行读写.
 - [usb](https://github.com/node-usb/node-usb) - USB 库.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C 串行总线访问.
-- [onoff](https://github.com/fivdi/onoff) - GPIO 访问和中断检测.
+- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI 串行总线访问.
 - [pigpio](https://github.com/fivdi/pigpio) - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理.
 - [gps](https://github.com/infusion/GPS.js) - 用于处理 GPS 接收器的 NMEA 解析器.
@@ -398,7 +398,7 @@
 - [ActionHero](https://github.com/actionhero/actionhero) - 为 TCP 套接字、WebSocket 和 HTTP 客户端制作可重用和可扩展的 API 的框架.
 - [seneca](https://github.com/senecajs/seneca) - 用于编写微服务的工具包.
 - [AdonisJs](https://github.com/adonisjs/core) - 一个真正的 Node.js MVC 框架，建立在依赖注入和 IoC 容器的坚实基础之上.
-- [Moleculer](https://github.com/moleculerjs/moleculer) - 快速而强大的微服务框架.
+- [Moleculer](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 - [Nest](https://github.com/nestjs/nest) - 受 Angular 启发的框架，用于构建高效且可扩展的服务器端应用程序.
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
 - [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - 现代且快速的类似 Express 的 Web 框架.
@@ -464,7 +464,7 @@
 - [pad-stream](https://github.com/sindresorhus/pad-stream) - 填充流中的每一行.
 - [multistream](https://github.com/feross/multistream) - 将多个流合并为一个流.
 - [stream-combiner2](https://github.com/substack/stream-combiner2) - 将管道变成单个流.
-- [readable-stream](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+- [readable-stream](https://github.com/nodejs/readable-stream) - 核心中 Streams2 和 Streams3 实现的镜像.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - 同时转换对象流.
 
 ### Real-time
@@ -487,7 +487,7 @@
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick 和 ImageMagick 包装器.
 - [lwip](https://github.com/EyalAr/lwip) - 不需要 ImageMagick 的轻量级图像处理器.
 - [pica](https://github.com/nodeca/pica)  - 纯 JS 中的高质量和快速调整大小 (lanczos3). 当不允许像素化时，可替代画布 drawImage().
-- [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
+- [jimp](https://github.com/oliver-moran/jimp) - 纯 JavaScript 中的图像处理.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - 无需完整下载即可获得大多数图像格式的大小.
 - [qrcode](https://github.com/soldair/node-qrcode) - 二维码和条形码生成器.
 - [ImageScript](https://github.com/matmen/ImageScript) - JavaScript 中的图像处理，利用 WebAssembly 来提高性能.
@@ -543,7 +543,7 @@
 - [speakingurl](https://github.com/pid/speakingurl) - 从带有音译的字符串生成 slug.
 - [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 Unicode 支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) - 比 URL 和其他字符串的正则表达式字符串匹配模式更容易.
-- [embedza](https://github.com/nodeca/embedza) - 使用来自 oEmbed、Open Graph、元标记的信息从 URL 创建 HTML 片段/嵌入.
+- [embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ### Data validation
 
@@ -667,7 +667,7 @@
 - [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - 端到端测试.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - 无头镀铬.
 - [Playwright](https://github.com/microsoft/playwright) - 使用单一 API 的无头 Chromium、WebKit 和 Firefox.
-- [nve](https://github.com/ehmicky/nve) - 在本地的多个版本的 Node.js 上运行任何命令.
+- [nve](https://github.com/ehmicky/nve) - 在本地运行多个版本的 Node.js 的任何命令.
 - [axe-core](https://github.com/dequelabs/axe-core) - 用于自动化 Web UI 测试的辅助功能引擎.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - 提供通用数据库、Selenium Web 浏览器或任何其他可以在 Docker 容器中运行的轻量级、一次性实例.
 
@@ -677,7 +677,7 @@
 - [themis](https://github.com/cossacklabs/themis) - 使典型加密方案易于使用的多语言框架：静态数据、经过身份验证的数据交换、传输保护、身份验证等.
 - [GuardRails](https://github.com/apps/guardrails) - 在拉取请求中提供安全反馈的 GitHub 应用程序.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - 蛮力和 DDoS 攻击保护.
-- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - 异步非阻塞哈希.
 - [jose-simple](https://github.com/davesag/jose-simple) - 使用 JOSE（JSON 对象签名和加密）标准对数据进行加密和解密.
 
 ### Benchmarking
@@ -797,7 +797,7 @@
 
 - [snappy](https://github.com/kesla/node-snappy) - Google 的 Snappy 压缩库的本机绑定.
 - [protobuf](https://github.com/protobufjs/protobuf.js) - 协议缓冲区的实现.
-- [compactr](https://github.com/compactr/compactr.js) - Compactr 协议的实现.
+- [compactr](https://github.com/compactr/compactr.js) - Compactr 协议的实施.
 
 ### Miscellaneous
 

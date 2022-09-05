@@ -29,6 +29,7 @@
   - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
+  - [ferret](https://ferret-lang.org)
 
 
 ## Awesome macros usage
@@ -41,7 +42,7 @@
   * [photon](https://github.com/venantius/photon) - 实时网络，如 Meteor，但用于 Clojure（脚本）
   * [metaclj](https://github.com/brandonbloom/metaclj) - 分阶段编译
   * [meander](https://github.com/noprompt/meander) - 使用数据结构模式匹配的透明数据转换
-  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只是学习如何将你的思想映射到不可变的世界）
+  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只是学习如何将您的思想映射到不可变的世界）
 ## Advanced datastructures
 
   * [specter](https://github.com/redplanetlabs/specter)：用于查询和转换嵌套和递归数据的优雅 API
@@ -271,6 +272,7 @@
   * [core.async](https://github.com/clojure/core.async/)
   * [pulsar](https://github.com/puniverse/pulsar)
   * [manifold](https://github.com/ztellman/manifold)
+  * [goose](https://github.com/nilenso/goose)
 
 ## Monads
 
@@ -470,6 +472,7 @@
   * [viz.cljc](https://github.com/jebberjeb/viz.cljc)
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
+  * [re-frame-flow](https://github.com/ertugrulcetin/re-frame-flow) - 用于重新构建事件链的基于图形的可视化工具 (ClojureScript)
 
 ## Guides
 
@@ -491,7 +494,7 @@
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 介绍一次一个函数
   * [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos)：与整个 clojure 生态系统相关的有趣且适合初学者的内容
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关 core.async、传感器、瞬态、逻辑编程和“每日功能”系列的更高级视频.
 
 ## Websites
 
