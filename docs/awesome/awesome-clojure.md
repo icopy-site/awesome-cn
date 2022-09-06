@@ -23,6 +23,8 @@
   - [Nightcode](https://github.com/oakes/Nightcode): Clojure 的 IDE（已归档）
   - [Nightlight](https://github.com/oakes/Nightlight): 文本编辑器（存档）
   - [Atea](https://github.com/pkamenarsky/atea)：MacOS 的简约菜单栏时间跟踪器（旧版，需要 jvm 1.6）
+  - [herfi](https://github.com/ertugrulcetin/herfi) - 用 Clojure 和 ClojureScript 编写的 3D 多人游戏原型
+  - [racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) - 使用 ClojureScript、React 和 ThreeJS 构建的 3D 赛车游戏
   - [Logseq](https://github.com/logseq/logseq)：知识管理和协作（开放式前端）
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
@@ -473,6 +475,10 @@
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
   * [re-frame-flow](https://github.com/ertugrulcetin/re-frame-flow) - 用于重新构建事件链的基于图形的可视化工具 (ClojureScript)
+
+## Game Development
+  * [jme-clj](https://github.com/ertugrulcetin/jme-clj) - 由 jMonkeyEngine 提供支持的 Clojure 3D 游戏引擎（包装器）
+  * [play-cljc](https://github.com/oakes/play-cljc) - Clojure 和 ClojureScript 游戏库
 
 ## Guides
 

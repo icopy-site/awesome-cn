@@ -42,7 +42,7 @@
 * [ulinalg](https://github.com/jalawson/ulinalg) - 小型矩阵处理模块，带有一些专门用于 MicroPython (Python3) 的线性代数运算.
 * [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - MicroPython 上的快速矩阵乘法和线性求解器.
 * [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - MicroPython 上的向量操作.
-* [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - Statistics module for MicroPython.
+* [MicroPython_Statistics](https://github.com/rcolistete/MicroPython_Statistics) - MicroPython 的统计模块.
 * [MicroPython-Matrix](https://gitlab.com/olivierlenoir/MicroPython-Matrix) - MicroPython 基本矩阵运算.
 
 ### Audio
@@ -110,13 +110,13 @@
 
 * [ICantBelieveItsNotDNS](https://github.com/yschaeff/ICantBelieveItsNotDNS)  - “我不敢相信这不是 DNS！”  (ICBIND) 是用 MicroPython 编写的 ESP8266 的权威 DNS 服务器.
 * [MicroDNSSrv](https://github.com/jczic/MicroDNSSrv) - MicroPython 的微型 DNS 服务器，用于简单地响应带有或不带有通配符的多域上的 A 查询（用于 Pycom 模块和 ESP32）.
-* [tinydns](https://github.com/belyalov/tinydns) - Very simple DNS async server for MicroPython.
+* [tinydns](https://github.com/belyalov/tinydns) - 用于 MicroPython 的非常简单的 DNS 异步服务器.
 * [micropython-captiveportal](https://github.com/metachris/micropython-captiveportal) - MicroPython 的最小异步强制门户（与 uasyncio v3/MicroPython 1.13+ 以及早期版本兼容）.
 * [Micropython-DNSServer-Captive-Portal](https://github.com/p-doyle/Micropython-DNSServer-Captive-Portal) - 带有 DNS 和 Web 服务器的 MicroPython WiFi AP 强制门户.
 
 #### Ethernet
 
-* [Official wiznet5k](https://github.com/micropython/micropython/tree/master/drivers/wiznet5k) - WIZnet5x00 系列以太网控制器的官方驱动程序.
+* [Official wiznet5k](https://github.com/andrewleech/wiznet_ioLibrary_Driver) - WIZnet5x00 系列以太网控制器的驱动程序.
 * [micropy-ENC28J60](https://github.com/przemobe/micropy-ENC28J60) - 用于 MicroPython (RP2) 的 ENC28J60 以太网芯片驱动程序.
 * [RP2040 Ethernet example](https://github.com/SteveSEK/Raspberry-Pi-Pico-MicroPython-Ethernet) - 以太网驱动程序、python 代码示例和 YouTube.
 
@@ -138,12 +138,12 @@
 
 * [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - 使用 pyboard 和 sim800l 的 gsm 手机.
 * [micropython-sim800](https://github.com/olablt/micropython-sim800) - 用于 sim800 的 MicroPython 驱动程序.
-* [sim800](https://github.com/basanovase/sim800) - 用于与 MicroPython 中的 SIM800 模块接口的库.
+* [sim800](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
 * [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - AM7020 窄带物联网 (NBIoT) 模块的 MicroPython 驱动程序.
 
 #### IoT
 
-* [microhomie](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
+* [microhomie](https://github.com/microhomie/microhomie) - 物联网的 Homie MQTT 约定的 MicroPython 实现.
 * [uPyEcho](https://github.com/lemariva/uPyEcho) - 在 ESP32 上使用 MicroPython 与 Amazon Echo (Alexa) 配合使用的模拟 Belkin WeMo 设备.
 * [SonosRemote](https://github.com/foosel/SonosRemote) - 在 ESP8266 上运行并使用 Sonos HTTP API 的 Sonos 安装遥控器.
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - 基于 MicroPython 的脚本可扩展您的家庭助理驱动的家庭自动化项目.
@@ -303,7 +303,7 @@
 #### Web
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - 一个微型 HTTP Web 服务器，支持 WebSockets、html/python 语言模板和路由处理程序，用于 MicroPython（用于 Pycom 模块和 ESP32）.
-* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 最后一个用于物联网 (MicroPython) 或大型服务器 (CPython) 的微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
+* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 用于物联网 (MicroPython) 或大型服务器 (CPython) 的最后一个微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
 * [tinyweb](https://github.com/belyalov/tinyweb) - 用于 MicroPython 的简单轻量级 HTTP 异步服务器.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) websocket 服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) - MicroPython 的强制门户演示.
@@ -691,7 +691,7 @@
 * [micropython-bno055](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU 传感器，I2C 接口.
 * [micropython-lsm9ds0](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force 线性加速度、高斯磁和 dps 角速率传感器.
 * [micropython-mpu9250](https://github.com/tuupola/micropython-mpu9250) - 用于 MPU9250 9 轴运动跟踪设备的 I2C 驱动程序.
-* [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) - InvenSense MPU9250 惯性测量单元的驱动程序.
+* [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - MPU6050 加速度计/陀螺仪的 ESP8266 驱动程序.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) - MPU6050 加速度计/陀螺仪的 ESP8266 驱动程序.
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - 用于 MPU6886 6 轴运动跟踪设备的 MicroPython I2C 驱动程序.

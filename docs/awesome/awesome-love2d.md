@@ -28,6 +28,7 @@
 * [Jumper](https://github.com/Yonaba/Jumper) - 基于网格的寻路库.
 * [Lua-star](https://github.com/wesleywerner/lua-star) - 简单而纯粹的 Lua A* 寻路.
 * [astar](https://github.com/xiejiangzhi/astar)  - 另一个 A* 库. 任何地图（网格、点、网格或无限地图）并支持路径成本.
+* [pathfun](https://github.com/apicici/pathfun) - 使用漏斗算法进行 2D 寻路的纯 Lua 库.
 
 ## Animation
 *动画和帧管理库*
@@ -115,7 +116,7 @@
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于对齐一次显示一个字符的文本的库.
 * [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
 * [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE/lua 端口.
-* [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE 框架的屏幕/状态管理.
+* [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework.
 * [shack](https://github.com/Ulydev/shack) - Shack 是一个 LÖVE 库，可让您轻松添加屏幕效果，例如摇晃和旋转.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - 平铺地图加载器和渲染器.
 * [Vivid](https://github.com/WetDesertRock/vivid) - 颜色数学、操作和转换库.
@@ -262,6 +263,7 @@
 *用户界面库*
 
 * [CatUI](https://github.com/wilhantian/catui) - LÖVE 的一个非常轻量级的 GUI 库.
+* [cimgui-love](https://github.com/apicici/cimgui-love) - 通过使用 LuaJIT FFI 包装 cimgui（以编程方式生成的 C-api）获得 Dear ImGui 的 LÖVE 模块，易于更新到最新的 Dear Imgui 版本.
 * [GOOi](https://github.com/tavuntu/gooi) - 面向 Android 的 GUI 库.
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - LÖVE 的有状态 GUI 库.
 * [Hanker](https://gitlab.com/Alloyed/hanker)  - 极简主义即时模式的 UI 元素； 游戏手柄友好.
@@ -272,7 +274,7 @@
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - LÖVE 游戏的轻量级即时模式 GUI.
 * [Lynx](https://gitlab.com/TSnake41/lynx) - 非常轻量级的基于列表的 UI 库.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - 灵活的布局库.
-* [Patchy](https://github.com/excessive/patchy) - 9patch library.
+* [Patchy](https://github.com/excessive/patchy) - 9patch 库.
 * [Slicy](https://github.com/wqferr/slicy) - 更新的 9patch/9slice 库修复了 Patchy 的一些问题.
 * [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 在 LÖVE 游戏引擎上运行的用 Lua 编写的高度可配置的文本编辑器/编码工具.
@@ -333,13 +335,13 @@
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开 Atom 即可为当前项目启动 LÖVE.
 	* [Löve IDE](https://atom.io/packages/love-ide) - 这个包自动安装了几个用于在 Atom 中编写 Love2D 游戏的实用程序.
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE 的自动完成和片段.
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - A Hyperclick provider for LÖVE which shows the wiki.
+		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - LÖVE 的 Hyperclick 提供程序，显示 wiki.
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Atom 中的 Lua 语法错误检查.
 * [Brackets](http://brackets.io/) - Adob​​e 的现代开源文本编辑器（已过时）.
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - 在括号中添加 Lua 语法高亮.
 	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - 提供 LÖVE 代码提示.
 	* [Run LÖVE](https://github.com/instilledbee/run-love2d) - 使用热键运行 LÖVE 项目.
-* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio 是一个轻量级的 Lua IDE，具有代码完成、语法高亮、实时编码、代码分析器和调试支持.
+* [ZeroBrane Studio](https://studio.zerobrane.com/) - ZeroBrane Studio 是一个轻量级的 Lua IDE，具有代码完成、语法突出显示、实时编码、代码分析器和调试支持.
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) - 将 LOVE API 语法高亮添加到 ZBS 的脚本.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 功能强大且符合人体工程学的 Java IDE.
 	* [EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua) - 用于 VSCode 的 Lua IDE/调试器插件.
@@ -373,4 +375,4 @@
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - 设计用于 LÖVE 的着色器集合.
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - PICO-8 资源、教程、工具等的精选列表.
 
-其他很棒的列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.

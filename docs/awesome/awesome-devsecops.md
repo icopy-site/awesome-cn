@@ -9,7 +9,7 @@
 </p>
 <hr/>
 
-> Curating the best DevSecOps resources and tooling.
+&gt; 策划最好的 DevSecOps 资源和工具.
 
 [DevSecOps](https://www.rapid7.com/fundamentals/devsecops/) 是的延伸 [DevOps](https://www.atlassian.com/devops) 旨在通过以开发人员为中心的安全工具和流程将安全实践带入开发生命周期的运动.
 
@@ -31,10 +31,17 @@
 
 - [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - 一个运行会议、博客、播客和专用于 DevSecOps 的 Slack 工作区的社区.
 
+### Newsletters
+
+- [Shift Security Left](https://shift-security-left.curated.co/)  - 为具有安全意识的开发人员提供的免费双周通讯，涵盖应用程序安全、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）对破坏者有用. 与虚构的吉祥物和安全工程师 Felix 一起深入了解安全漏洞的原因、设计防御措施、发明和实施安全控制措施 [(@cossaсklabs)](https://twitter.com/cossacklabs).
+
 ### Conferences
 
 - [AppSec Day](https://appsecday.io/) - _OWASP_ - 由 OWASP 举办的澳大利亚应用程序安全会议.
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - 由 Snyk 运行的 DevSecOps 会议网络.
+
+### Newsletters
+- [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - 面向安全意识开发人员的免费双周通讯，涵盖应用程序安全性、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）对破坏者有用. 
 
 ### Podcasts
 
@@ -57,7 +64,7 @@
 
 - [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - 通过观察和分析来自领先软件安全计划的数据创建的软件安全框架.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - 作为安全开发生命周期框架的工具和实践的集合.
-- [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - 一个由实践、任务和实施示例组成的框架，用于安全的开发生命周期.
+- [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - 衡量和改进安全开发生命周期成熟度的框架.
 
 ### Toolchains
@@ -93,7 +100,7 @@
 - [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2，强大的运行时漏洞扫描器，适用于 kubernetes、虚拟机和无服务器.
 - [Dependabot](https://dependabot.com/) - _GitHub_ - 自动扫描 GitHub 存储库中的漏洞并创建拉取请求以合并已修补的依赖项.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) - _OWASP_ - 使用 CLI 或构建服务器插件扫描依赖项以查找公开披露的漏洞.
-- [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - 随着时间的推移监控多个项目中易受攻击的依赖项的数量和严重性.
+- [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
 - [JFrog XRay](https://jfrog.com/xray/) - _JFrog_ - 存储在 JFrog Artifactory 中的工件的安全性和合规性分析.
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - npm CLI 中内置的节点包的漏洞包审计.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - 使用 CLI 或 git 存储库应用程序自动监控和更新多个框架和语言的软件依赖项.
@@ -102,7 +109,7 @@
 
 ### Dynamic Analysis
 
-动态分析安全测试 (DAST) 是一种黑盒安全测试形式，其中安全扫描程序与正在运行的应用程序实例交互，模拟恶意活动以发现常见漏洞.  DAST 工具通常用于渗透测试的初始阶段，可以发现跨站脚本、SQL 注入、跨站请求伪造和信息泄露等漏洞.
+动态分析安全测试 (DAST) 是一种黑盒安全测试形式，其中安全扫描器与正在运行的应用程序实例交互，模拟恶意活动以发现常见漏洞.  DAST 工具通常用于渗透测试的初始阶段，可以发现跨站脚本、SQL 注入、跨站请求伪造和信息泄露等漏洞.
 
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) - _Imperva_ - 根据 API 规范对 API 执行自动安全扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - _PortSwigger_ - BurpSuite 的 Web 应用程序漏洞扫描程序被渗透测试人员广泛使用，通过 CI/CD 集成和对多个 Web 应用程序的持续监控进行了修改.
@@ -113,7 +120,7 @@
 
 ### Infrastructure as Code Analysis
 
-基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础设施始终得到强化，而且还提供了一个静态和动态分析基础设施定义的机会，以发现易受攻击的依赖项、硬编码的秘密、不安全的配置和安全配置的意外更改. 以下工具有助于此分析.
+基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础设施始终得到强化，而且还提供了一个静态和动态分析基础设施定义的机会，以查找易受攻击的依赖项、硬编码的机密、不安全的配置和安全配置的意外更改. 以下工具有助于此分析.
 
 #### Multi-Platform
 
@@ -152,7 +159,7 @@
 
 ### Intentionally Vulnerable Applications
 
-Intentionally vulnerable applications are often useful when developing security tests and tooling to provide a place you can run tests and make sure they fail correctly. These applications can also be useful for understanding how common vulnerabilities are introduced into applications and let you practice your skills at exploiting them.
+在开发安全测试和工具以提供一个可以运行测试并确保它们正确失败的地方时，故意易受攻击的应用程序通常很有用. 这些应用程序还有助于了解如何将常见漏洞引入应用程序，并让您练习利用它们的技能.
 
 - [Bad SSL](https://github.com/chromium/badssl.com)  - _Chromium 项目_ - 一个运行多个 SSL / TLS 配置较差的网络服务器的容器. 对测试工具很有用.
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat)  - _Bridgecrew_ - Cloud Formation 模板，用于在 AWS 中创建故意不安全的服务堆栈. 非常适合将 Cloud Formation 基础设施作为上述代码分析工具进行测试.
@@ -214,7 +221,7 @@ Intentionally vulnerable applications are often useful when developing security 
 - [DevSkim](https://github.com/microsoft/DevSkim) - _Microsoft_ - 一组 IDE 插件、CLI 和其他工具，可为多种编程语言提供安全分析.
 - [Graudit](https://github.com/wireghoul/graudit/) - _Eldar Marcussen_ - 使用自定义或预配置正则表达式签名的潜在安全漏洞的 Grep 源代码.
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) - _Hawkeyesec_ - 用于项目安全、漏洞和一般风险突出显示的模块化 CLI 工具.
-- [LGTM](https://lgtm.com/) - _Semmle_ - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
+- [LGTM](https://lgtm.com/) - _Semmle_ - 使用自定义或内置 CodeQL 查询扫描和监控代码中的安全漏洞.
 - [RIPS](https://www.ripstech.com/) - _RIPS Technologies_ - PHP、Java 和 Node.js 项目的自动静态分析.
 - [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep 是一种快速、开源的静态分析工具，可在编辑器、提交和 CI 时发现错误并强制执行代码标准.
 - [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - 一个突出潜在安全安全问题、代码质量问题和错误的 IDE 插件. 
@@ -279,7 +286,7 @@ Intentionally vulnerable applications are often useful when developing security 
 
 供应链攻击有不同的形式，针对 SDLC 的固有第 3 方部分：CI 中的工具、已执行的外部代码等. 供应链安全工具可以防御此类攻击.
 
-- [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - 在 GitHub 托管的运行程序 (Ubuntu VM) 上安装安全代理，以防止凭据泄露、检测受损的依赖项和构建工具，并在构建期间检测源代码的篡改.
+- [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - 在 GitHub 托管的运行程序 (Ubuntu VM) 上安装安全代理，以防止凭据泄露、检测受损的依赖项和构建工具，并在构建期间检测对源代码的篡改.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - 帮助您验证脚本和可执行文件，以减轻 CI 和其他系统中的供应链攻击，例如最近 [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 - [Sigstore](https://www.sigstore.dev/) - sigstore 是一套免费使用和开源的工具，包括 [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) 和 [rekor](https://github.com/sigstore/rekor), h和ling digital signing, verification 和 checks for provenance needed to make it safer to distribute 和 use open source software.
 

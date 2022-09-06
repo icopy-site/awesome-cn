@@ -146,6 +146,7 @@
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - 医疗保健一体化的瑞士军刀.
   * [Open eHealth Integration Platform](https://github.com/oehf/ipf) - Apache Camel 路由和中介引擎的扩展
   * [OpenHIM](http://openhim.org/) - 健康信息调解员.
+  * [Zato](https://zato.io/en/industry/healthcare/index.html) - 基于 Python 的 ESB 和集成平台，用于医疗保健互操作性、自动化和编排.
 
 ### Hardware
   * [echOpen](https://www.echopen.org) - 低成本（经济实惠）的回声听诊器.

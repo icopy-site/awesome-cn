@@ -14,7 +14,6 @@
 Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 </div>
 
-
 <p align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
     <img  href="https://awesomealgo.com" src="https://img.shields.io/badge/Web2.0-Website-yellow.svg" />
@@ -25,13 +24,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 
 
-
 ## Official
 
 - [Algorand](https://www.algorand.com/) - 官方网站.
 - [Algorand Foundation](https://algorand.foundation/) - 基金会官方网站.
 - [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
-- [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
+- [Algorand Governance](https://governance.algorand.foundation/) - Official website of Algorand Governance program.
 - [Algorand Developer Portal](https://developer.algorand.com/) - 官方 Algorand 开发者门户.
 - [Algorand Discord](https://discord.com/invite/YgPTCVk) - 官方 Algorand Discord 服务器.
 
@@ -64,7 +62,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand 学校速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - Proof of Stake Blockchain Efficiency Framework.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 
 ### Tutorials
@@ -180,7 +178,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
 - [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
-- [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome](https://github.com/ncc/irulan)).
+- [irulan](https://irulan.dev/) - 用于部署 + 测试智能合约的 Web 应用程序（[open source! + PRs welcome](https://github.com/ncc/irulan)).
 
 ### Nodes and Indexers
 
@@ -216,6 +214,17 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Lofty.ai](https://www.lofty.ai/) - 代币化房地产投资平台.
 - [Folks.finance](https://folks.finance/) - 去中心化的资本市场协议.
 - [C3](https://c3.io/) - 跨保证金交叉抵押清算引擎协议.
+
+## Security Audits
+
+ &gt; 本节并非旨在宣传以下任何公司，请在研究可供审计的选项时尽职尽责. 相反，以下内容仅旨在强调为 Algorand 生态系统提供智能合约审计的越来越多的公司.
+
+- [Certik](https://www.certik.com/ecosystems/algorand) - CertiK 提供 web3 安全工具的黄金标准，从行业领先的智能合约审计到 Skynet 和 SkyTrace 等区块链分析工具，使其成为确保 Algorand 项目端到端安全的理想合作伙伴.
+- [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - AlgoBuilder 背后的团队提供咨询您的项目、由专业人员完成智能合约、编写自动化测试或审核您现有的项目.
+- [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - 位于波兰的区块链实验室，为 Algorand 智能合约提供审计服务.
+- [Runtime Verification](https://runtimeverification.com/smartcontract) - 由审计 Algofi、FolksFinance、Yieldly 和生态系统中其他著名 DeFi 平台等平台的团队进行智能合约分析和验证.
+- [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
+- [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地投入生产或转移到主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，以便您可以自信地利用安全作为这个动态市场的强大差异化因素.
 
 ## Bridges
 
@@ -269,7 +278,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## ARCs
 
-&gt; *finalized* ARC 中定义的标准和规范.
+&gt; _finalized_ ARC 中定义的标准和规范.
 &gt; 可以找到所有 ARC 的列表 [here](https://arc.algorand.foundation).
 
 - [ARC3](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - 可替代和不可替代代币的官方 Algorand 标准资产参数约定.

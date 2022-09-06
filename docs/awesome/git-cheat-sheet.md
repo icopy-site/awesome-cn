@@ -117,12 +117,12 @@ $ git clone http://domain.com/user/repo.git
 
 ##### Create a new local repository in the current directory:
 ```
-$ 混帐初始化
+$ git热
 ```
 
 ##### Create a new local repository in a specific directory:
 ```
-$ 混帐初始化<directory>
+$ git热<directory>
 ```
 
 <hr>
@@ -388,6 +388,10 @@ $ git 分支 -m<new_branch_name>
 ```
 $ git 分支 -D<branch>
 ```
+##### Apply specific commit from another branch:
+```
+git 樱桃采摘<commit hash>
+```
 
 ##### Mark `HEAD` with a tag:
 ```
@@ -511,7 +515,7 @@ $ git 分支 --merged
 <em><sub>不要变基已发布的提交！</sub></em>
 
 ```
-$ git rebase<branch>
+$ 混帐狐狸<branch>
 ```
 
 ##### Abort a rebase:
