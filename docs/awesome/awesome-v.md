@@ -47,6 +47,7 @@
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 花哨的统计数据和情节 *[Is V still fast?](https://fast.vlang.io/)*.
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载器应用程序（CLI / Telegram Bot）.
+- [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
 
 ### Graphics
 
@@ -70,7 +71,7 @@
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
-- [klonol](https://github.com/hungrybluedev/klonol)  - CLI 工具可帮助您“克隆所有”属于您的 git 存储库. 适用于 GitHub 和 Gitea.
+- [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
 
 ### Project management
 
@@ -134,7 +135,7 @@
 
 ### Database clients
 
-- [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [redis](https://github.com/patrickpissurno/vredis) - V 的 Redis 客户端，用 V 编写.
 - [vsql](https://github.com/lydiandy/vsql) - V 的 sql 查询生成器.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - V 的 Memcached 客户端，用 V 编写.
 
@@ -192,6 +193,7 @@
 - [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装器.
 - [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) 图形用户界面工具包.
 - [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) 图形用户界面工具包.
+- [mui](https://github.com/malisipi/mui) - 适用于 Windows、Linux、Android 和 Web 的跨平台 UI 库.
 
 ### Scientific computing
 

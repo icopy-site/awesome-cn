@@ -37,7 +37,7 @@
 - [Mage2Gen](https://mage2gen.com/) - 在线模块创建者.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - Magento 2 的必备 Chrome 扩展程序 [MageSpecialist](https://github.com/magespecialist).
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发者工具栏
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - 带有 Magento 2 安装程序的 Nginx(Pagespeed)、MariaDB、PHP、Redis、Elastic Search Configurator（更新：2020 年 4 月 19 日）
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed), MariaDB, PHP , Redis, Elastic Search Configurator with Magento 2 installer (updated: 19 April 2020)
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust 的 Magento Docker 配置
 - [Warden](https://github.com/davidalger/warden) - 用于与 docker-compose 环境一起使用的 CLI 实用程序 [David Alger](https://davidalger.com/)
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - 帮助脚本通过检测覆盖来帮助升级 magento 2 网站.
@@ -103,6 +103,7 @@
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - 简单但运行良好的博客扩展.
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - Magento 2 的免费博客模块，具有无限的博客文章和类别、SEO 友好、延迟加载和 AMP 支持.
+- [Opengento GDPR](https://github.com/opengento/magento2-gdpr)  - Magento 2 GDPR 模块是世界上使用的最大电子商务 CMS 的必备扩展. 该模块有助于符合 GDPR.
 
 ### Marketing
 
@@ -120,7 +121,7 @@
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - 提供强大的菜单编辑器来替换 Magento 2 中基于类别的菜单.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - 将即将到来的 404 保存在您的数据库中，并可以创建重定向.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) - Magento 2 的应用程序监控和错误跟踪软件
-- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - 配置 Magento 2 以使用 Google App、Gmail、Amazon Simple Email Service (SES)、Microsoft Office365 和其他 SMTP 服务器发送所有事务性电子邮件.
+- [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - 配置 Magento 2 以使用 Google App、Gmail、Amazon Simple Email Service (SES)、Microsoft Office365 和其他 SMTP 服务器发送所有交易电子邮件.
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - 通过 bin/magento 设置客户密码 [Vinai Kopp](https://github.com/Vinai/).
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - 快速轻松地将现有访客结账客户转换为注册客户.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - 重置 UI 书签允许管理员用户重置他们自己的 UI 书签，例如过滤器状态、列位置和应用排序（例如销售 &gt; 订单）.
@@ -178,6 +179,7 @@
 - [M.academy](https://m.academy/blog/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
+- [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
 
 #### Other
 
@@ -211,7 +213,7 @@
 
 - [Magento Official Website](https://www.magento.com) - Magento 的官方网站.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - 官方开发者文档.
-- [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
+- [Magento Forum](https://community.magento.com/) - Magento 的社区论坛.
 - [Magento Github Repository](https://github.com/magento/magento2) - Github 存储库.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Magento 的开发者博客.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - 官方 Magento 1 到 Magento 2 迁移工具.

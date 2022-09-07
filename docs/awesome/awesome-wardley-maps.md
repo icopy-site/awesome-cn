@@ -61,9 +61,10 @@
 ## Maps in the Wild
 
 博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.
+- [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  - 华金·佩纳·费尔南德斯.  2022 年 8 月 29 日.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  - 华金·佩尼亚·费尔南德斯.  9月16日，
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 为什么电子游戏将成为一个国家灵魂的新战场，西蒙·沃德利（Simon Wardley）.  2021 年 9 月 8 日.
-- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) 我们使用工作角色的方式容易产生偏见，阻碍创新，并减慢组织速度. 盖伊迪金森.  2021 年 6 月 13 日
+- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) 我们使用工作角色的方式容易产生偏见，阻碍创新，并减慢组织速度. 盖伊·狄金森.  2021 年 6 月 13 日
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 在你跳跃之前先看看西蒙沃德利.  2020 年 10 月 22 日.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - 2020 年 9 月 15 日.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  - 与西蒙·沃德利的对话.  2020 年 8 月 4 日.
@@ -91,7 +92,7 @@
 - [Exploring Culture](https://swardley.medium.com/mapping-culture-ac164c0e17f0)  - 映射文化.  2019 年 9 月 4 日.
 - [Building a working map of Ethereum 1.0](https://chainstrat.substack.com/p/building-a-working-map-of-ethereum)  - 10,000 英尺的以太坊用户需求和能力视图.  2019 年 8 月 13 日.
 - [What culture is right for you?](https://swardley.medium.com/what-culture-is-right-for-you-ba892f1f3bc5) - 2019 年 7 月 31 日.
-- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  - 绘制路易斯·格斯特纳 (Louis Gerstner) 的“谁说大象不会跳舞”.  2019 年 6 月 18 日.
+- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  - 绘制路易斯·格斯特纳 (Louis Gerstner) 的“谁说大象不会跳舞”的地图.  2019 年 6 月 18 日.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  - 映射推出新型支付解决方案的挑战.  2019 年 6 月 14 日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  - 通过 Wardley 地图了解加密生态系统.  2019 年 6 月 2 日.
 - [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/)  - 了解测试策略如何基于潜在环境.  2019 年 4 月 19 日
@@ -100,7 +101,7 @@
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  - 两个用例：让 NSO 访问（敏感）大数据的新来源； 并实现跨多个 NSO 的大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019 年 3 月 12 日.
 - [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  - Wardley 映射示例的精选图集.  2019 年 3 月 6 日 - 至今.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  - 将 Samo Burja 的帝国理论与一种类似于 Simon Wardley 开创的映射形式相结合.  2019 年 1 月 2 日.
-- [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  - 三种思考用户需求和用户研究的方法，以及 Wardley 地图如何帮助我们思考在哪里进行用户研究.  2018 年 11 月 2 日.
+- [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  - 考虑用户需求和用户研究的三种方式，以及 Wardley 地图如何帮助我们思考在哪里进行用户研究.  2018 年 11 月 2 日.
 - [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - 2018 年 10 月 31 日.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  - 如何通过专注于原则和支出控制来阻止组织主动伤害自己.  2018 年 10 月 30 日.
 - [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3)  - 在可再生能源背景下探索和设计平台.  2019 年 10 月 28 日.
@@ -112,12 +113,12 @@
 - [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a)  - 西蒙·沃德利.  2017 年 9 月 11 日.
 - [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b)  - Simon Wardley 的教义和教义阶段.  2017 年 5 月 25 日.
 - [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693)  - 西蒙·沃德利.  2017 年 5 月 12 日.
-- [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629)  ——詹姆斯·厄克特.  2017 年 3 月 24 日.
-- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270)  ——詹姆斯·厄克特.  2017 年 2 月 4 日. 
+- [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629)  - 詹姆斯厄克特.  2017 年 3 月 24 日.
+- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270)  - 詹姆斯厄克特.  2017 年 2 月 4 日. 
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974)  - 开拓者、定居者和城市规划师 (Wardley PST).  2017 年 1 月 31 日.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9)  - 我作为 Harmony 设计师的未来职业.  2017 年 1 月 17 日.
 - [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6)  - James Urquhart 如何从混乱的组件和价值关系中提取价值.  2017 年 1 月 12 日.
-- [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb)  - James Urquhart 从价值链构建沃德利地图以实现“实时业务自动化”.  2016 年 12 月 30 日.
+- [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb)  - James Urquhart 从“实时业务自动化”的价值链构建沃德利地图.  2016 年 12 月 30 日.
 - [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8)  - James Urquhart 使用数据流的基本架构探索价值链.  2016 年 12 月 22 日.
 - [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) - 2016 年 12 月 3 日.
 - [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) - 2016 年 12 月 1 日.

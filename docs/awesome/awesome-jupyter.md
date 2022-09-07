@@ -8,6 +8,8 @@
 	<br>
 	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
 	<br>
+	<br>
+我们有一个新的“姐妹”-asweome 列出与 Keras 相关的所有内容：您可以在<a href="https://github.com/markusschanta/awesome-keras"><strong>这里</strong></a>找到它！
 </div>
 
 
@@ -48,7 +50,7 @@
 
 ## Visualization
 
-- [Altair](https://github.com/altair-viz/altair) - Python 的声明性可视化库，基于 [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite).
+- [Altair](https://github.com/altair-viz/altair) - Python 的声明性可视化库，基于 [Vega](http://vega.github.io/vega) 和 [Vega-Lite](https://github.com/vega/vega-lite).
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 针对现代 Web 浏览器进行演示的交互式可视化库.
 - [bqplot](https://github.com/bloomberg/bqplot) - Jupyter 的基于图形的交互式绘图框架语法.
 - [Evidently](https://github.com/evidentlyai/evidently) - 在验证或生产监控期间分析机器学习模型的交互式报告.
@@ -83,7 +85,7 @@
 
 ## Rendering/Publishing/Conversion
 
-- [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
+- [Binder](http://mybinder.org) - 将 GitHub 存储库变成交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展可在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本、编辑和执行笔记本，并通过 REST 接口直接集成它们.
@@ -113,7 +115,7 @@
 - [git](https://github.com/jupyterlab/jupyterlab-git) - git 集成的扩展.
 - [jupyter-nbrequirements](https://github.com/thoth-station/jupyter-nbrequirements/) - Jupyter Notebooks 中的依赖管理和优化.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于区分和合并 Jupyter 笔记本的工具.
-- [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准的 Python 代码质量工具.
+- [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准 Python 代码质量工具.
 - [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - 版本、管理和共享项目中的笔记本检查点.
 - [ReviewNB](https://www.reviewnb.com/) - Jupyter Notebooks 的代码审查.
 
@@ -144,7 +146,7 @@
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - 扩展以保持 Python 代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) - 在 JupyterLab 中探索 CPython 字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) - 通过输入部分名称在 JupyterLab 中快速打开文件.
-- [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - 管理键盘快捷键的扩展.
+- [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - JupyterLab 的边车输出小部件.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - JupyterLab 的 SQL GUI.
 - [stickyland](https://github.com/xiaohk/stickyland) - 打破带有粘性单元格的笔记本的线性呈现.
@@ -191,7 +193,7 @@
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - 使用 Google Cloud Dataproc 的 Apache Spark 的 Jupyter 和 JupyterLab.
 - [Google Colaboratory](https://colab.research.google.com) - 针对机器学习教育和研究的基于云的 Jupyter 环境.<!--lint disable double-link-->
 - [Kyso](https://kyso.io) - 数据科学平台，可将 Jupyter 笔记本作为数据博客和 Web 应用程序发布和共享.<!--lint enable double-link-->
-- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
+- [Naas](https://naas.ai) - 具有魔术调度/通知功能和资产/依赖项/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与 Wikimedia wiki 交互而定制的 Jupyter 笔记本部署.
 - [Spell.run](https://spell.run) - 机器学习和深度学习的端到端平台.
@@ -212,7 +214,7 @@
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用 Jupyter 的大学机构地图.
-- [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、趋势项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
+- [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、热门项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - 派皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
 是 Jupyter 项目的 PyPI 宝库分类器.
@@ -240,4 +242,4 @@
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) first.

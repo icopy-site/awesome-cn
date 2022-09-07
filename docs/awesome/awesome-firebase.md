@@ -55,7 +55,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) - 官方 Stripe 订阅和发票扩展.
 - [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) - 官方 MessageBird 扩展，通过 MessageBird Conversations API 发送消息.
 - [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) - 官方 Algolia 扩展，可使用 Algolia 对 Cloud Firestore 进行全文搜索.
-- [Mailchimp Extensions](https://github.com/mailchimp/Firebase) - 官方 Mailchimp 扩展，用于同步 Firebase 身份验证事件以使用 Mailchimp 创建成员标签、合并字段和成员事件.
+- [Mailchimp Extensions](https://github.com/mailchimp/Firebase) - 官方 Mailchimp 扩展，用于同步 Firebase 身份验证事件，以使用 Mailchimp 创建成员标签、合并字段和成员事件.
 - [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) - 官方 Typesense 扩展在 Firestore 中添加全文搜索，通过将数据同步到 [Typesense](https://github.com/typesense/typesense)，Algolia 的 OSS 替代品.
 
 ## Web
@@ -88,6 +88,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase 支持多平台项目（`ios`、`android` 和 `js`）.
 - [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - 使用 Firebase Firestore 进行基于位置的查询和过滤.
 - [FirelordJS](https://github.com/tylim88/FirelordJS) - Firestore Web 的超高精度 Typescript 包装器.
+- [FireSageJS](https://github.com/tylim88/FireSageJS) - 实时数据库 Web 的极端类型安全.
 
 ## Mobile
 

@@ -68,7 +68,7 @@
 ### Data Validation and Serialization
 
 - [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Flask 和 marshmallow（一个对象序列化/反序列化库）的薄集成层，为 marshmallow 添加了附加功能.
-- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) 支持.
+- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/pydantic/pydantic) 支持.
 
 ### Databases
 
@@ -115,14 +115,14 @@
 
 #### Monitoring
 
-- [Airbrake](https://docs.airbrake.io/docs/platforms/flask/) - Airbrake Flask 集成.
+- [Airbrake](https://docs.airbrake.io/docs/platforms/framework/python/flask/) - Airbrake Flask 集成.
 - [Elastic APM Agent](https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html) - 弹性 APM Flask 集成.
 - [Flask Monitoring Dashboard](https://flask-monitoringdashboard.readthedocs.io) - 用于自动监控 Flask Web 服务的仪表板.
 - [Sentry Python SDK](https://sentry.io/for/flask/) - Sentry SDK Flask 集成.
 
 #### Tracing
 
-- [Flask-OpenTracing](https://github.com/opentracing-contrib/python-flask) - OpenTracing 仪器.
+- [Flask-OpenTracing](https://github.com/opentracing-contrib/python-flask) - 打开跟踪仪器.
 
 #### Testing
 
@@ -157,7 +157,7 @@
 - [Celery](https://docs.celeryproject.org/) - 用于处理异步任务和调度的最常用的 Python 库.
 - [Dramatiq](https://flask-dramatiq.rtfd.io/) - 芹菜的快速可靠替代品.
 - [Flask-RQ](https://github.com/mattupstate/flask-rq) - [RQ](https://python-rq.org/) （Redis 队列）集成.
-- [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)基于任务队列，旨在为执行任务提供一个简单而灵活的框架.
+- [Huey](https://huey.readthedocs.io) - [Redis](https://redis.io/)- 基于任务队列，旨在为执行任务提供一个简单但灵活的框架.
 
 ### Utils
 
@@ -206,7 +206,7 @@
 
 ### Conferences
 
-- [FlaskCon](https://flaskcon.com/) - 社区驱动的 Flask 活动，旨在让世界各地的演讲者和与会者参与与 Flask 相关的技术和福音派会议.
+- [FlaskCon](https://twitter.com/flaskcon) - 社区驱动的 Flask 活动，旨在让世界各地的演讲者和与会者参与与 Flask 相关的技术和福音派会议.
 - [PyConWeb](https://twitter.com/pyconweb)  - 涵盖 Django、Tornado、Flask、API 框架.  AsyncIO、网络、前端、JavaScript 和网络安全.
 - [Flask Conf Brazil](https://2019.flask.python.org.br/) - Flask 开发者和用户的会议.
 - [PyCon US](https://us.pycon.org/) - 使用和开发开源 Python 编程语言的社区最大的年度聚会.
