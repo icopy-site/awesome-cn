@@ -50,7 +50,7 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer): 高性能远程抓包收集工具，云原生环境的分布式tcpdump.
 
-* [Ngrep](https://github.com/jpr5/ngrep/) : 努力提供大部分 GNU grep 的通用特性，将它们应用到网络层.  ngrep 是一个 pcap 感知工具，它允许您指定扩展的正则或十六进制表达式以匹配数据包的数据有效负载. 它目前可以跨以太网、PPP、SLIP、FDDI、令牌环和空接口识别 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（例如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
+* [Ngrep](https://github.com/jpr5/ngrep/) : 努力提供大部分 GNU grep 的通用特性，将它们应用到网络层.  ngrep 是一个 pcap 感知工具，它允许您指定扩展的正则或十六进制表达式以匹配数据包的数据有效负载. 它目前可以跨以太网、PPP、SLIP、FDDI、令牌环和空接口识别 TCP、UDP 和 ICMP，并以与更常见的数据包嗅探工具（如 tcpdump 和 snoop）相同的方式理解 bpf 过滤器逻辑. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
 * [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) : `clj-net-pcap` 是 Clojure 的数据包捕获库.  clj-net-pcap 使用 jNetPcap 并在 jNetPcap 周围添加便利功能以简化可用性. 一个 [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6903107) 在 COMPSACW 2014 的范围内发布.
 
@@ -64,6 +64,8 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [OpenFPC](https://github.com/leonward/OpenFPC) ：OpenFPC 是一组脚本，它们结合起来提供了一个轻量级的全包网络流量记录器和缓冲工具. 其设计目标是允许非专家用户在 COTS 硬件上部署分布式网络流量记录器，同时集成到现有的警报和日志工具中.
 
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ：PCAPdroid 是一款 Android 应用程序，可让您在没有 root 的情况下监控和导出设备的网络流量. 流量可以以 PCAP 格式转储，以便使用 Wireshark 等流行工具进行分析，甚至是实时分析. 内置流量监视器可让您检测用户和系统应用程序建立的可疑连接.
+
 * [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/) : PF_RING 是一种新型的网络套接字，极大地提高了抓包速度. 适用于 Linux 内核 2.6.32 及更高版本. 无需修补内核.  PF_RING 感知驱动程序用于提高数据包捕获加速.
 
 * [TTT](https://www2.sonycsl.co.jp/person/kjc/kjc/software.html#ttt) : (Tele Traffic Tapper) 是 tcpdump 的另一个后代，但它能够实时、图形化和远程监控流量.  ttt 不会取代 tcpdump，相反，它可以帮助您找出使用 tcpdump 可以查看的内容.  ttt 监控网络并在时间窗口内自动获取流量的主要贡献者. 默认情况下，图表每秒更新一次.
@@ -72,7 +74,7 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [sharppcap](https://github.com/dotpcap/sharppcap) ：完全托管的跨平台（Windows、Mac、Linux）.NET 库，用于从实时和基于文件的设备中捕获数据包. 一个可靠且健壮的 libpcap 和 npcap 包装器.
 
-流量分析/检测<a name="analysis"></a>
+流量分析/检查<a name="analysis"></a>
 --------------------------------------------------
 * [Brim](https://www.brimsecurity.com/) ：边缘融合了 Zeek 原木的丰富性和包的细节. 这是两全其美的. 虽然 Zeek 日志可以快速回答您的大部分问题，但当您需要深入了解详细信息时，您仍然可以快速访问数据包.  Wireshark 始终只需单击一下即可. 
 
@@ -136,7 +138,7 @@ Linux 命令<a name="linuxcmds"></a>
 * [pyshark](https://kiminewt.github.io/pyshark/) : tshark 的 Python 包装器，允许使用 wireshark 解析器解析 Python 数据包. 有很多 python 数据包解析模块，这个不同，因为它实际上并不解析任何数据包，它只是使用 tshark（wireshark 命令行实用程序）的能力来导出 XML 以使用它的解析.
 
 
-* [Scapy](http://www.secdev.org/projects/scapy/) : Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码大量协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，例如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它在大多数其他工具无法处理的许多其他特定任务上也表现出色，例如发送无效帧、注入您自己的 802.11 帧、组合技术（VLAN 跳跃+ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）， ETC.
+* [Scapy](http://www.secdev.org/projects/scapy/) : Scapy 是一个强大的交互式数据包操作程序. 它能够伪造或解码大量协议的数据包，通过网络发送它们，捕获它们，匹配请求和回复等等. 它可以轻松处理大多数经典任务，如扫描、跟踪路由、探测、单元测试、攻击或网络发现（它可以替代 hping、85% 的 nmap、arpspoof、arp-sk、arping、tcpdump、tethereal、p0f 等）. 它在大多数其他工具无法处理的许多其他特定任务上也表现出色，例如发送无效帧、注入您自己的 802.11 帧、组合技术（VLAN 跳跃+ARP 缓存中毒、WEP 加密通道上的 VOIP 解码、. ..）， ETC.
 
 * [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html)：使 tcpdump 程序的输出更易于阅读和解析.
 
@@ -180,7 +182,7 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [yaraprocessor](https://github.com/MITRECND/yaraprocessor) ：使用 yaraprocessor YARA 可以针对单个数据包有效负载以及部分或全部有效负载的串联运行. 它最初是为在 Chopshop 中使用而编写的，但也可以在没有它的情况下使用.
 
-“Zeek 为网络流量分析提供了一个综合平台，特别关注大规模语义安全监控.虽然通常与经典的入侵检测/预防系统相比，Zeek 采取了完全不同的方法，为用户提供了一个灵活的框架，便于定制，深度监控远远超出传统系统的能力.在 90 年代中期，初始版本已经投入运营部署，Zeek 发现自己植根于 20 多年的研究.有关更多信息，请参阅 Zeek 概述和我们的宣传文件，为什么选择 Zeek？”
+“Zeek 为网络流量分析提供了一个综合平台，特别关注大规模语义安全监控.虽然与经典的入侵检测/预防系统相比，Zeek 采取了完全不同的方法，为用户提供了一个灵活的框架，便于定制、深度监控远远超出传统系统的能力.在 90 年代中期，初始版本已经投入运营部署，Zeek 发现自己植根于 20 多年的研究.有关更多信息，请参阅 Zeek 概述和我们的宣传文件，为什么选择 Zeek？”
 
 DNS 实用程序<a name="dnstools"></a>
 --------------------------------------------

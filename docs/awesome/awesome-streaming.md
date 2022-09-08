@@ -14,8 +14,8 @@
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - 大数据流和批处理的统一平台.
 - [Apache Ballista](https://github.com/apache/arrow-ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
-- [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
-- [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
+- [Apache Flink](https://github.com/apache/flink) [Java] - 支持有状态计算、数据驱动的窗口语义和迭代流处理的高吞吐量、低延迟数据流处理系统.
+- [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - a realtime, distributed, fault-tolerant stream processing engine from Twitter.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - 使构建可扩展的容错流应用程序变得容易.
 - [Apache Storm](https://github.com/apache/storm)  [Clojure/Java] - 分布式实时计算系统.  Storm 之于流处理就像 Hadoop 之于批处理. 
@@ -45,6 +45,7 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 ### Streaming Library
 
 - [Apache Kafka Streams](https://github.com/apache/kafka) [Java] - Apache Kafka 中包含的轻量级流处理库（从 0.10 版本开始）.
+- [Streamiz](https://github.com/LGouellec/kafka-streams-dotnet) [C#] - a .Net Stream Processing Library for Apache Kafka
 - [Akka Streams](https://github.com/akka/akka) [Scala] - Akka Actors 上的流处理库.
 - [Daggy](https://github.com/synacker/daggy) [C++] - 实时流聚合和捕获. 
 - [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos 是一种高性能和弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作、转换和过滤器
@@ -69,7 +70,7 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 ### IoT
 
 - [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - 用于物联网的轻量级流处理引擎.
-- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，可在网关和边缘设备上实现持续流式分析，这些设备可以与集中式系统配合使用，在整个物联网生态系统中提供高效和及时的分析：从中心到边缘，由 IBM 开源.
+- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，可在网关和边缘设备上实现持续流分析，这些设备可以与集中式系统一起使用，在整个物联网生态系统中提供高效和及时的分析：从中心到边缘，由 IBM 开源.
 - [Apache StreamPipes](https://github.com/apache/incubator-streampipes) [Java] - 一个自助（工业）物联网工具箱，使非技术用户能够连接、分析和探索物联网数据流.
 
 ### DSL
@@ -117,7 +118,7 @@ Mesos，专为需要灵活性和可控性的高性能数据处理作业而设计
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java] - 实时计算系统上的连续查询语言.
 - [ksqlDB](https://github.com/confluentinc/ksql) [Java] - 云原生、源代码可用 [database](https://ksqldb.io/) 专为流处理应用而设计
 - [Materialize](https://materialize.com) [Rust] - 一个源可用的流式 SQL 引擎，用于维护来自消息代理和数据库的数据的物化视图.
-- [Siddhi](https://github.com/siddhi-io/siddhi) [Java] - 云原生 Streaming 和复杂事件处理引擎，它了解 Streaming SQL 查询，以便从不同数据源捕获事件、处理它们、检测复杂条件并将输出实时发布到各种端点.
+- [Siddhi](https://github.com/siddhi-io/siddhi) [Java] - 云原生 Streaming 和复杂事件处理引擎，它了解 Streaming SQL 查询，以便捕获来自不同数据源的事件、处理它们、检测复杂条件并将输出实时发布到各种端点.
 
 ### Benchmark
 

@@ -4,7 +4,7 @@
 
 &gt; Nix 社区中最佳资源的精选列表.
 
-[Nix](https://github.com/nixos/nix) 是用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
+[Nix](https://github.com/nixos/nix) 是适用于 Linux 和其他 Unix 系统的强大包管理器，它使包管理可靠且可重复.
 
 *请阅读 [contribution guidelines](https://github.com/nix-community/awesome-nix/blob/master/CONTRIBUTING.md) 在贡献之前.*
 
@@ -40,7 +40,7 @@
 
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git 提交.
-* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 报告显示主要 Hydra 作业集有问题的依赖关系（导致构建失败最多的依赖关系）.
+* [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 报告显示主要 Hydra 作业集的有问题的依赖关系（导致构建失败最多的依赖关系）.
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已进入频道的跟踪器.
 
 ## Deployment Tools
@@ -64,7 +64,7 @@
 * [comma](https://github.com/nix-community/comma)  - 快速运行任何二进制文件； 将 `nix run` 和 `nix-index` 包装在一起.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - 用于 nixpkgs 的 Nix 代码格式化程序.
-* [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - 将您的包装表情打成形状.
+* [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Nixpkgs 包表达式的自以为是的 linter.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - 在 Nix/NixOS 上轻松运行未打补丁的二进制文件.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - 解释为什么两个 Nix 派生不同的工具.
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位具有特定文件的 Nix 包.
@@ -114,7 +114,7 @@
 ### Node.js
 
 * [Napalm](https://github.com/nix-community/napalm) - 支持在 Nix 中使用轻量级 npm 注册表构建 npm 包.
-* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（以文件形式存储）.
+* [node2nix](https://github.com/svanderburg/node2nix) - 从“package.json”（或“package-lock.json”）生成 Nix 表达式（存储为文件）.
 * [npmlock2nix](https://github.com/nix-community/npmlock2nix) - 从“package-lock.json”（内存中）生成 Nix 表达式，主要用于 Web 项目.
 
 ### PHP

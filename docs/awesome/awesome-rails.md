@@ -55,7 +55,7 @@
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
-- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表. 
+- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库的精选列表、顶级作者、趋势项目工具包、讨论、教程和学习资源. 
 
 
 [返回顶部][link_toc]
@@ -233,7 +233,8 @@
 - [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
 - [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
 - [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
-- 
+- [Implement SSR with React + Rails](https://github.com/shakacode/react_on_rails_demo_ssr_hmr)
+-
 
 [返回顶部][link_toc]
 
@@ -271,7 +272,7 @@
 - [crabgrass-core](https://0xacab.org/liberate/crabgrass) - 激进组织的协作平台（使用 Rails 4.2）.
 - [crowdAI](https://github.com/crowdAI/crowdai)  - 数据科学挑战应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - 一个众筹平台 - 使用 Rails 3.2
-- [cw-ovp](https://github.com/x1wins/CW-OVP) - 将视频打包到 *.m3u8 以在网站上使用 FFMPEG（使用 Rails 6.0）进行 HLS（HTTP 实时流）.
+- [cw-ovp](https://github.com/x1wins/CW-OVP) - video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
 - [danbooru](https://github.com/danbooru/danbooru) - 一个可标记的图像板应用程序（使用 Rails 6.0）.
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - 案例管理应用程序（使用 Rails 5.2）.
 - [dgidb](https://github.com/dgidb/dgidb) - 一个药物基因交互平台——使用Rails 5.1
@@ -388,7 +389,7 @@
 - [annotate](https://github.com/ctran/annotate_models) - 用模式和路线信息注释 Rails 类的 gem. [:red_circle:](https://rubygems.org/gems/annotate)
 - [anycable-rails](https://github.com/anycable/anycable-rails) - 处理 websocket 服务器的 gem. [:red_circle:](https://rubygems.org/gems/anycable-rails)
 - [apipie-rails](https://github.com/apipie/apipie-rails) - 一个 REST API 文档工具. [:red_circle:](https://rubygems.org/gems/apipie-rails)
-- [auther](https://github.com/bkuhlmann/auther) - 提供简单的、基于表单的身份验证的 gem. [:red_circle:](https://rubygems.org/gems/auther)
+- [auther](https://github.com/bkuhlmann/auther) - A gem to provide simple, form-based authentication. [:red_circle:](https://rubygems.org/gems/auther)
 - [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) - 将供应商前缀添加到样式表的 gem. [:red_circle:](https://rubygems.org/gems/autoprefixer-rails)
 - [avo](https://github.com/avo-hq/avo) - 基于配置、免维护、可扩展的 Ruby on Rails 管理面板. [rubygems](https://rubygems.org/gems/avo)
 - [better_errors](https://github.com/BetterErrors/better_errors) - 提供更好的错误页面的工具. [:red_circle:](https://rubygems.org/gems/better_errors)
@@ -417,7 +418,7 @@
 - [kaminari](https://github.com/kaminari/kaminari) - 提供分页的宝石. [:red_circle:](https://rubygems.org/gems/kaminari)
 - [kt-paperclip](https://github.com/kreeti/kt-paperclip) - 处理文件上传的 gem. [:red_circle:](https://rubygems.org/gems/kt-paperclip)
 - [lockbox](https://github.com/ankane/lockbox) - 处理加密的宝石. [:red_circle:](https://rubygems.org/gems/lockbox)
-- [lograge](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red_circle:](https://rubygems.org/gems/lograge)
+- [lograge](https://github.com/roidrage/lograge) - 在 Rails 应用程序中自定义记录器的 gem. [:red_circle:](https://rubygems.org/gems/lograge)
 - [mailkick](https://github.com/ankane/mailkick) - 处理邮件退订的工具. [:red_circle:](https://rubygems.org/gems/mailkick)
 - [marginalia](https://github.com/basecamp/marginalia) - 将注释附加到 ActiveRecord 的 SQL 查询的 gem. [:red_circle:](https://rubygems.org/gems/marginalia)
 - [metka](https://github.com/jetrockets/metka) - 使用 Postgresql 数组列管理标签的 gem. [:red_circle:](https://rubygems.org/gems/metka)
@@ -434,6 +435,8 @@
 - [ranked-model](https://github.com/mixonic/ranked-model) - 处理行排序的 gem. [:red_circle:](https://rubygems.org/gems/ranked-model)
 - [ransack](https://github.com/activerecord-hackery/ransack) - 提供搜索功能的宝石. [:red_circle:](https://rubygems.org/gems/ransack)
 - [react-rails](https://github.com/reactjs/react-rails) - 将 React.js 与 Rails 应用程序集成的 gem. [:red_circle:](https://rubygems.org/gems/react-rails)
+- [react_on_rails](https://github.com/shakacode/react_on_rails) - 将 React.js 与带有 SSR 的 Rails 应用程序集成的 gem. [:red_circle:](https://rubygems.org/gems/react_on_rails)
+- [cypress_on_rails](https://github.com/shakacode/cypress-on-rails) - 在您的 Rails 应用程序中使用 cypress.io 的 gem. [:red_circle:](https://rubygems.org/gems/cypress_on_rails)
 - [redisWebManager](https://github.com/OpenGems/redis_web_manager) - 可让您轻松管理 Redis 实例的 Web 界面. [:red_circle:](https://rubygems.org/gems/redis_web_manager)
 - [reform-rails](https://github.com/trailblazer/reform-rails) - 用 Rails 应用程序包装表单验证工具改革 gem 的 gem. [:red_circle:](https://rubygems.org/gems/reform-rails)
 - [rgeo-activerecord](https://github.com/rgeo/rgeo-activerecord) - 提供基于 RGeo 的空间适配器使用的常用工具的 gem. [:red_circle:](https://rubygems.org/gems/rgeo-activerecord)
@@ -459,6 +462,7 @@
 - [turbo-rails](https://github.com/hotwired/turbo-rails) - 在 Rails 应用程序中集成 Turbo.js 的 gem. [:red_circle:](https://rubygems.org/gems/turbo-rails)
 - [view_component](https://github.com/github/view_component) - 介绍视图组件的宝石. [:red_circle:](https://rubygems.org/gems/view_component)
 - [webpacker](https://github.com/rails/webpacker) - 使用 Webpack 捆绑 Web 资产的 gem. [:red_circle:](https://rubygems.org/gems/webpacker)
+- [shakapacker](https://github.com/shakacode/shakapacker) - 在 Rails 中使用 webpack 管理类似应用程序的 JavaScript 模块的 gem. [:red_circle:](https://rubygems.org/gems/shakapacker)
 - [zeitwerk](https://github.com/fxn/zeitwerk) - 处理线程安全代码加载的 gem. [:red_circle:](https://rubygems.org/gems/zeitwerk)
 
 [返回顶部][link_toc]
@@ -474,7 +478,7 @@
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  - 用于创建下一个 Saas 产品的 Rails 6 样板. 预装了 graphQL、devise、JWT、CanCanCan、RailsAdmin、Rubocop、Rspec 等.
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template)  - Rails 6 项目的应用模板； 预装了 TDD、安全性、部署和开发人员生产力的最佳实践.
 - [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - 下一个 Rails 应用程序的模板
-- [rails-template(ackama)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
+- [rails-template(ackama)](https://github.com/ackama/rails-template)  - Rails 6.1 项目的应用模板； 预装了 TDD、安全性、部署和开发人员生产力的最佳实践.
 - [rails-template(astrocket)](https://github.com/astrocket/rails-template) - Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let&#39;s Encrypt 的模板.
 - [rails-template(dao42)](https://github.com/dao42/rails-template) - 适合高级 Rails 开发人员的最佳、最新和最快的 Rails 6.x 模板.
 - [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - 使用 Le Wagon 最佳实践快速开始您的 Rails 开发.

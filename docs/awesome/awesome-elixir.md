@@ -203,7 +203,7 @@
 * [bodyguard](https://github.com/schrockwell/bodyguard) - Phoenix 应用程序的灵活授权库.
 * [canada](https://github.com/jarednorman/canada) - 一个简单的授权库，使用声明性权限规则提供友好的界面.
 * [canary](https://github.com/cpjk/canary)  - Elixir 应用程序的授权库，用于限制允许当前用户访问的资源.  ([Docs](https://hexdocs.pm/canary/api-reference.html)).
-* [speakeasy](https://github.com/coryodaniel/speakeasy) - 由 Bodyguard 提供支持的 Absinthe GraphQL 基于中间件的身份验证和授权.
+* [speakeasy](https://github.com/coryodaniel/speakeasy) - 基于中间件的 Absinthe GraphQL 身份验证和授权，由 Bodyguard 提供支持.
 * [terminator](https://github.com/MilosMosovsky/terminator)  - 基于数据库的授权 (ACL)，具有用于需要所需权限的自定义 DSL 规则.  ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ## Behaviours and Interfaces
@@ -283,7 +283,7 @@
 * [alice](https://github.com/alice-bot/alice) - Elixir 的 Slack 机器人框架.
 * [chatty](https://github.com/alco/chatty) - 一个对编写机器人最有用的基本 IRC 客户端.
 * [cog](https://github.com/operable/cog) - Cog 是一个开放的chatops 平台，可在您的聊天窗口中为您提供安全、协作的命令行.
-* [ExGram](https://github.com/rockneurotiko/ex_gram)  - 一个构建 Telegram Bots 的库，您可以使用低级方法和模型或使用包含的真正自以为是的框架.  ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
+* [ExGram](https://github.com/rockneurotiko/ex_gram)  - 构建 Telegram Bots 的库，您可以使用低级方法和模型或使用包含的真正自以为是的框架.  ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
 * [ExIrc](https://github.com/bitwalker/exirc) - Elixir 项目的 IRC 客户端适配器.
 * [ExMustang](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
 * [Guri](https://github.com/elvio/guri) - 使用聊天消息自动执行任务.
@@ -305,7 +305,7 @@
 * [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) - Riak CS API 客户端.
 * [fleet_api](https://github.com/jordan0day/fleet-api)  - Fleet (CoreOS) API 的简单包装器. 可以与 etcd 令牌或通过直接节点 URL 一起使用.
 * [Gandi](https://github.com/Ahamtech/elixir-Gandi) - 用于 Leaseweb 基础设施的 Gandi Wrapper.
-* [IElixir](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
+* [IElixir](https://github.com/pprzetacznik/IElixir) - 用于 Elixir 编程语言的 Jupyter 内核.
 * [k8s](https://github.com/coryodaniel/k8s) - 具有 CRD 支持、多集群支持、可插入身份验证和可配置中间件的 Kubernetes Elixir 客户端.
 * [Kazan](https://github.com/obmarg/kazan) - Elixir 的 Kubernetes 客户端，根据 k8s 开放 API 规范生成.
 * [Kubex](https://github.com/ingerslevio/kubex) - Kubernetes 客户端和 Elixir 集成，用纯 Elixir 编写.
@@ -314,7 +314,7 @@
 * [nodefinder](https://github.com/okeuday/nodefinder) - Erlang 中自动节点发现的策略.
 * [nomad](https://github.com/sashaafm/nomad)  - 创建云便携 Elixir 和 Phoenix 应用程序. 一次编写，到处使用！
 * [sidejob](https://github.com/basho/sidejob) - Erlang 的并行工作者和容量限制库.
-* [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask 是 Task.Supervisor 的替代方案，使用 Basho 的具有并行性和容量限制的 sidejob 库.
+* [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask 是 Task.Supervisor 的替代品，它使用 Basho 的具有并行性和容量限制的 sidejob 库.
 * [skycluster](https://github.com/Nebo15/skycluster)  - Elixir/Erlang 应用程序的自动 Erlang 集群形成、消息传递和管理. 与 Kubernetes 集成.
 
 ## Code Analysis
@@ -340,6 +340,7 @@
 * [getopt](https://github.com/jcomellas/getopt) - Erlang 的命令行选项解析器.
 * [loki](https://github.com/khusnetdinov/loki) - 用于创建交互式命令行应用程序的库.
 * [optimus](https://github.com/savonarola/optimus) - 受启发的 Elixir 命令行选项解析器 [clap.rs](https://clap.rs/).
+* [owl](https://github.com/fuelen/owl) - Owl 是一个用于在 Elixir 中编写命令行用户界面的工具包.
 * [phoenix-cli](https://phoenix-cli.github.io/) - Phoenix 框架的命令行界面，如 Rails 命令.
 * [progress_bar](https://github.com/henrik/progress_bar) - 命令行进度条和微调器.
 * [ratatouille](https://github.com/ndreynolds/ratatouille) - Elixir 的 TUI（终端 UI）套件.
@@ -859,7 +860,7 @@
 * [jsxn](https://github.com/talentdeficit/jsxn) - jsx 但带有地图.
 * [jwalk](https://github.com/jr0senblum/jwalk) - 用于处理 JSON 的 Erlang 表示的辅助模块.
 * [jwtex](https://github.com/mschae/jwtex) - 一个编码和解码的库 [JWT tokens](http://jwt.io/).
-* [poison](https://github.com/devinus/poison) - Poison 是 Elixir 的新 JSON 库，专注于极快的速度，同时不牺牲简单性、完整性或正确性.
+* [poison](https://github.com/devinus/poison) - Poison 是 Elixir 的新 JSON 库，专注于极快的速度，而不牺牲简单性、完整性或正确性.
 * [tiny](https://github.com/whitfin/tiny) - 用于 Elixir 的小巧、快速且完全兼容的 JSON 解析器.
 * [world_json](https://github.com/camshaft/world_json_ex) - 用于 elixir/erlang 的 topojson 国家和州/省集合.
 
@@ -1027,7 +1028,7 @@
 * [pool](https://github.com/slogsdon/pool) - Elixir 的套接字接受器池.
 * [reagent](https://github.com/meh/reagent) - 试剂是 Elixir 的套接字接受池.
 * [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) - Sockerl 是用于 TCP 协议的高级 Erlang/Elixir 套接字库，并为实现服务器、客户端和客户端连接池提供快速、有用且易于使用的 API.
-* [socket](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+* [socket](https://github.com/meh/elixir-socket) - Elixir 的套接字包装.
 * [sshex](https://github.com/rubencaro/sshex) - Elixir 的简单 SSH 助手.
 * [sshkit](https://github.com/bitcrowd/sshkit.ex) - 一个 Elixir 工具包，用于在一个或多个服务器上执行任务，构建在 Erlang 的 SSH 应用程序之上.
 * [torex](https://github.com/alexfilatov/torex) - 简单的 Tor 连接库.
@@ -1150,6 +1151,7 @@
 * [erlexec](https://github.com/saleyn/erlexec) - 从 Erlang/OTP 执行和控制操作系统进程.
 * [immortal](https://github.com/danielberkompas/immortal) - Immortal 是一个帮助模块的小集合，旨在使构建容错的 OTP 应用程序变得更容易.
 * [libex_config](https://github.com/reset/libex-config) - 访问 OTP 应用程序配置的助手.
+* [matcha](https://github.com/christhekeele/matcha) - Elixir 的一流匹配规格.
 
 ## Package Management
 *用于包和依赖管理的库和工具.*
@@ -1202,7 +1204,7 @@
 * [heapq](https://github.com/takscape/elixir-heapq) - Elixir 中基于堆的优先级队列实现.
 * [honeydew](https://github.com/koudelka/honeydew) - Honeydew 是 Elixir 的工人池库.
 * [hulaaki](https://github.com/suvash/hulaaki) - 一个用 Elixir 编写的 MQTT 3.1.1 客户端库.
-* [kaffe](https://github.com/spreedly/kaffe) - Elixir 的 Kafka 客户端库.
+* [kaffe](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ 客户端库、路由键、RPC over MQ 和其他东西.
 * [oban](https://github.com/sorentwo/oban) - 强大的异步作业处理器，由 Elixir 和现代 PostgreSQL 提供支持.
 * [opq](https://github.com/fredwu/opq) - Elixir 中具有工作池和速率限制的简单内存队列.
@@ -1224,7 +1226,7 @@
 * [changex](https://github.com/Gazler/changex) - 从 GIT 日志自动生成变更日志.
 * [distillery](https://github.com/bitwalker/distillery) - Erlang VM 的发布打包功能的纯 Elixir 实现.
 * [eliver](https://github.com/glasnoster/eliver) - Elixir 包的交互式语义版本控制.
-* [exrm](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+* [exrm](https://github.com/bitwalker/exrm) - 自动为您的 Elixir 项目生成一个版本.
 * [exrm_deb](https://github.com/johnhamelink/exrm_deb) - 轻松为您的 Elixir 版本创建一个 deb.
 * [exrm_heroku](https://github.com/epsanchezma/exrm-heroku) - 轻松地将您的 Elixir 版本发布到 Heroku.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - 轻松为您的 Elixir 版本创建 RPM.
@@ -1305,7 +1307,7 @@
 ## Testing
 *用于测试代码库和生成测试数据的库.*
 
-* [amrita](https://github.com/josephwilk/amrita) - Elixir 的礼貌、彬彬有礼和彻底正直的测试框架.
+* [amrita](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 * [apocryphal](https://github.com/coryodaniel/apocryphal) - ExUnit 基于 Swagger 的文档驱动开发.
 * [blacksmith](https://github.com/batate/blacksmith) - Elixir 的数据生成框架.
 * [blitzy](https://github.com/benjamintanweihao/blitzy) - Elixir 中的一个简单的 HTTP 负载测试器.
@@ -1662,7 +1664,7 @@
 * [xmlrpc](https://github.com/ewildgoose/elixir-xml_rpc) - 为客户端和服务器编码和解码 XML-RPC 的库.
 
 ## YAML
-*使用 YAML 的库和实现.*
+*Libraries and implementations working with YAML.*
 
 * [fast_yaml](https://github.com/processone/fast_yaml) - Fast YAML 是 libyaml &quot;C&quot; 库的 Erlang 包装器.
 * [yamerl](https://github.com/yakaz/yamerl) - Erlang 中的 YAML 1.2 解析器.
@@ -1680,7 +1682,7 @@
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - 将您的 Web API 升级到 GraphQL，利用其灵活的查询为您的用户提供支持，并利用其声明性结构来简化您的代码（2017 年）.
 * [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) - 这本书是由 Paulo A Pereira（2015 年）按主题分组的一组食谱.
 * [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) - （葡萄牙语）这本书介绍了 Tiago Davi（2014 年）使用 Elixir 进行的函数式和并发编程.
-* [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - Saša Jurić (2015) 对语言进行了简要介绍，然后更详细地介绍了在 Elixir 中构建生产就绪系统.
+* [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - Saša Jurić (2015) 对语言进行了简要介绍，然后更详细地介绍了如何在 Elixir 中构建生产就绪系统.
 * [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Wolfgang Loder (2016) 在功能概念的背景下介绍 Erlang 和 Elixir.
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - 这本书旨在成为 Fred Hebert（2014 年）在战争时期如何成为 Erlang 军医的小指南.
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - 向强大的新技术敞开大门，让您以全新的方式思考 Web 开发（2017 年）.

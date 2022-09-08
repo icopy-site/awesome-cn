@@ -239,6 +239,7 @@ _对于单页应用程序 (SPA) 等._
 - [tinro](https://github.com/AlexxNB/tinro) - 一个小型、无依赖且高度声明性的路由器.
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - 针对单页应用程序 (SPA) 进行了优化，具有基于哈希的路由和对参数的支持.
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte 客户端路由器是您在路由 SPA 时需要和想到的一切.
+- [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - 一个简单易用的 SPA 路由器，在开发时考虑了页面转换.
 
 
 ## Frameworks
