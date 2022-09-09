@@ -246,7 +246,7 @@
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - 一个公民基础设施检测应用程序（使用 Rails 4.2）.
 - [airCasting](https://github.com/HabitatMap/AirCasting)  - 使用智能手机（使用 Rails 5.2）记录、映射和共享健康和环境数据的平台.  - [:earth_africa:](https://www.habitatmap.org/aircasting)
 - [alaveteli](https://github.com/mysociety/alaveteli) - 一个公开信息请求自由的平台 - 使用 Rails 5.1 - [:earth_africa:](https://alaveteli.org)
-- [alonetone](https://github.com/sudara/alonetone)  - 一个音乐托管、管理和分发应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://alonetone.com)
+- [alonetone](https://github.com/sudara/alonetone)  - 一个音乐托管、管理和分发应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://alonetone.com)
 - [api.rss](https://github.com/davidesantangelo/api.rss) - RSS 提要转换（到 API）应用程序（使用 Rails 5.2）.
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite)  - 面向开发人员的实时聊天应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://www.codefirst.org/AsakusaSatellite/)
 - [askaway](https://github.com/askaway/askaway) - 专门研究政治的问答应用程序（使用 Rails 4.1）.

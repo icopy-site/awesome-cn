@@ -107,7 +107,7 @@ _用于处理音频的库._
 
 _用于实现身份验证方案的库._
 
-- [authboss](https://github.com/volatiletech/authboss)  - 用于网络的模块化身份验证系统. 它试图尽可能多地删除样板文件和“困难的东西”，以便每次在 Go 中启动一个新的 Web 项目时，您都可以将其插入、配置并开始构建您的应用程序，而无需每次都构建身份验证系统.
+- [authboss](https://github.com/volatiletech/authboss)  - 用于网络的模块化身份验证系统. 它试图尽可能多地删除样板文件和“困难的东西”，以便每次您在 Go 中启动一个新的 Web 项目时，您都可以将其插入、配置并开始构建您的应用程序，而无需每次都构建身份验证系统.
 - [branca](https://github.com/essentialkaos/branca) - 布兰卡令牌 [specification implementation](https://github.com/tuupola/branca-spec) 适用于 Golang 1.15+.
 - [casbin](https://github.com/hsluoyz/casbin) - 授权库，支持 ACL、RBAC、ABAC 等访问控制模型.
 - [cookiestxt](https://github.com/mengzhuo/cookiestxt) - 提供 cookies.txt 文件格式的解析器.
@@ -165,7 +165,7 @@ _用于构建和使用机器人的库._
 - [Kelp](https://github.com/stellar/kelp) - 官方交易和做市机器人 [Stellar](https://www.stellar.org/) 敏捷. 开箱即用，用 Golang 编写，与中心化交易所和自定义交易策略兼容.
 - [larry](https://github.com/ezeoleaf/larry) - Larry 是一个非常简单的 Twitter 机器人生成器，它从 Go 内置的 Github 发布随机存储库.
 - [margelet](https://github.com/zhulik/margelet) - 构建 Telegram 机器人的框架.
-- [micha](https://github.com/onrik/micha) - 前往图书馆获取 Telegram bot api.
+- [micha](https://github.com/onrik/micha) - 去图书馆获取 Telegram 但 api.
 - [olivia](https://github.com/olivia-ai/olivia) - 用人工神经网络构建的聊天机器人.
 - [slack-bot](https://github.com/innogames/slack-bot) - 准备为懒惰的开发人员使用 Slack Bot：自定义命令、Jenkins、Jira、Bitbucket、Github...
 - [slacker](https://github.com/shomali11/slacker) - 易于使用的框架来创建 Slack 机器人.
@@ -333,7 +333,7 @@ _用于配置解析的库._
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 用于管理来自环境变量的配置数据的库.
 - [koanf](https://github.com/knadh/koanf)  - 轻量级、可扩展的库，用于读取 Go 应用程序中的配置. 内置对 JSON、TOML、YAML、env、命令行的支持.
 - [konfig](https://github.com/lalamove/konfig) - 适用于分布式处理时代的 Go 的可组合、可观察和高性能配置处理.
-- [kong](https://github.com/alecthomas/kong) - 命令行解析器，支持任意复杂的命令行结构和其他配置源，如 YAML、JSON、TOML 等（“主销”的继承者）.
+- [kong](https://github.com/alecthomas/kong) - 命令行解析器，支持任意复杂的命令行结构和其他配置源，例如 YAML、JSON、TOML 等（“主销”的继承者）.
 - [mini](https://github.com/sasbury/mini) - 用于解析 ini 样式配置文件的 Golang 包.
 - [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - 用于读取环境变量的简单有用的包.
 - [nfigure](https://github.com/muir/nfigure)  - 从命令行（Posix 和 Go 风格）基于每个库结构标签的配置； 环境、JSON、YAML
@@ -394,7 +394,7 @@ _用于预处理 CSS 文件的库._
 - [bloom](https://github.com/yourbasic/bloom) - Golang 布隆过滤器实现.
 - [bloomfilter](https://github.com/OldPanda/bloomfilter) - Go 中的另一个 Bloomfilter 实现，与 Java 的 Guava 库兼容.
 - [boomfilters](https://github.com/tylertreat/BoomFilters) - 用于处理连续无界流的概率数据结构.
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合布谷鸟过滤器，与其他工具相比可配置和空间优化，原论文中提到的所有功能都可用.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个全面的布谷鸟过滤器，与其他工具相比可配置和空间优化，原论文中提到的所有功能都可用.
 - [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo 过滤器：Go 中实现的计数布隆过滤器的一个很好的替代方案.
 - [ring](https://github.com/TheTannerRyan/ring) - 执行高性能、线程安全的布隆过滤器.
 
@@ -528,6 +528,7 @@ _带有过期记录的数据存储、内存中分布式数据存储或基于文�
 - [Databunker](https://github.com/paranoidguy/databunker) - 符合 GDPR 和 CCPA 的个人身份信息 (PII) 存储服务.
 - [dgraph](https://github.com/dgraph-io/dgraph) - 可扩展、分布式、低延迟、高吞吐量的图形数据库.
 - [diskv](https://github.com/peterbourgon/diskv) - 本土磁盘支持的键值存储.
+- [dolt](https://github.com/dolthub/dolt) - Dolt – 这是用于数据的 Git.
 - [dtf](https://github.com/dtm-labs/dtf)  - 分布式事务管理器. 支持 XA、TCC、SAGA、可靠消息.
 - [eliasdb](https://github.com/krotik/eliasdb) - 具有 REST API、短语搜索和类似 SQL 的查询语言的无依赖、事务性图形数据库.
 - [godis](https://github.com/hdt3213/godis) - Golang 实现的高性能 Redis 服务器和集群.
@@ -1851,7 +1852,7 @@ _科学计算和数据分析库._
 - [gonum/plot](https://github.com/gonum/plot) - gonum/plot 提供了一个用于在 Go 中构建和绘制绘图的 API.
 - [goraph](https://github.com/gyuho/goraph) - 纯 Go 图论库（数据结构、算法可视化）.
 - [gosl](https://github.com/cpmech/gosl) - 用于线性代数、FFT、几何、NURBS、数值方法、概率、优化、微分方程等的科学图书馆.
-- [GoStats](https://github.com/OGFris/GoStats) - GoStats 是一个用于数学统计的开源 GoLang 库，主要用于机器学习领域，它涵盖了大多数统计测量函数.
+- [GoStats](https://github.com/OGFris/GoStats) - GoStats 是一个用于数学统计的开源 GoLang 库，主要用于机器学习领域，它涵盖了大多数统计度量函数.
 - [graph](https://github.com/yourbasic/graph) - 基本图算法库.
 - [jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) - 使用 graphviz 支持来操作 JSONL 图的工具.
 - [ode](https://github.com/ChristopherRabotin/ode) - 常微分方程 (ODE) 求解器，支持扩展状态和基于通道的迭代停止条件.
@@ -2003,7 +2004,7 @@ _用于模板和词法分析的库和工具._
 _用于测试代码库和生成测试数据的库._
 
 - 测试框架
-  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或 HTTP 处理程序的简单且可扩展的行为测试库，支持模拟外部 http 调用和呈现序列图.
+  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或 HTTP 处理程序的简单且可扩展的行为测试库，支持模拟外部 http 调用和序列图的呈现.
   - [assert](https://github.com/go-playground/assert) - 与原生 go 测试一起使用的基本断言库，具有自定义断言的构建块.
   - [badio](https://github.com/cavaliercoder/badio) - Go 的 `testing/iotest` 包的扩展.
   - [baloo](https://github.com/h2non/baloo) - 富有表现力和多功能的端到端 HTTP API 测试变得容易.
@@ -2319,11 +2320,11 @@ _使您的生活更轻松的通用实用程序和工具._
 - [clockwork](https://github.com/jonboulle/clockwork) - 一个简单的 golang 假时钟.
 - [cmd](https://github.com/SimonBaeumer/cmd) - 用于在 osx、windows 和 linux 上执行 shell 命令的库.
 - [command](https://github.com/txgruppi/command) - 带有线程安全串行和并行调度程序的 Go 命令模式.
-- [copy](https://github.com/gotidy/copy) - Package for fast copying structs of different types.
+- [copy](https://github.com/gotidy/copy) - 用于快速复制不同类型结构的包.
 - [copy-pasta](https://github.com/jutkko/copy-pasta) - 通用多工作站剪贴板，使用类似 S3 的后端进行存储.
 - [countries](https://github.com/biter777/countries) - 全面实施 ISO-3166-1、ISO-4217、ITU-T E.164、Unicode CLDR 和 IANA ccTLD 标准.
 - [create-go-app](https://github.com/create-go-app/cli) - 一个强大的 CLI，用于通过运行一个命令创建具有后端（Golang）、前端（JavaScript、TypeScript）和部署自动化（Ansible、Docker）的新生产就绪项目.
-- [cryptgo](https://github.com/Gituser143/cryptgo) - Crytpgo 是一个基于 TUI 的应用程序，纯粹用 Go 编写，用于实时监控和观察加密货币价格！
+- [cryptgo](https://github.com/Gituser143/cryptgo) - Crytpgo is a TUI based application written purely in Go to monitor and observe cryptocurrency prices in real time!
 - [ctop](https://github.com/bcicen/ctop) - [Top-like](https://ctop.sh) 容器指标的接口（例如 htop）.
 - [ctxutil](https://github.com/posener/ctxutil) - 上下文实用函数的集合.
 - [cvt](https://github.com/shockerli/cvt) - 轻松安全地将任何值转换为另一种类型.
@@ -2486,7 +2487,7 @@ _使用 UUID 的库._
 
 ## Validation
 
-_Libraries for validation._
+_用于验证的库._
 
 - [checkdigit](https://github.com/osamingo/checkdigit) - 提供校验位算法（Luhn、Verhoeff、Damm）和计算器（ISBN、EAN、JAN、UPC等）.
 - [gody](https://github.com/guiferpa/gody) - :balloon: Go 的轻量级结构验证器.
@@ -2715,7 +2716,7 @@ _源代码分析工具，也称为静态应用程序安全测试（SAST）工具
 - [golang-ifood-sdk](https://github.com/arxdsilva/golang-ifood-sdk) - iFood API SDK.
 - [golines](https://github.com/segmentio/golines) - 自动缩短 Go 代码中长行的格式化程序.
 - [GoLint](https://github.com/golang/lint) - Golint 是 Go 源代码的 linter.
-- [GoPlantUML](https://github.com/jfeliu007/goplantuml) - 库和 CLI 生成文本 Plantump 类图，其中包含有关结构和接口以及它们之间关系的信息.
+- [GoPlantUML](https://github.com/jfeliu007/goplantuml) - 库和 CLI 生成文本 Plantump 类图，其中包含有关结构和接口的信息以及它们之间的关系.
 - [goreturns](https://sourcegraph.com/github.com/sqs/goreturns) - 添加零值返回语句以匹配 func 返回类型.
 - [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - gosimple 是专门用于简化代码的 Go 源代码的 linter.
 - [gostatus](https://github.com/shurcooL/gostatus) - 命令行工具，显示包含 Go 包的存储库的状态.
@@ -2787,7 +2788,7 @@ _文本编辑器和 IDE 的插件._
 - [modver](https://github.com/bobg/modver) - 比较 Go 模块的两个版本以检查所需的版本号更改（主要、次要或补丁级别），根据 [semver](https://semver.org/) 规则.
 - [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用 GitHub 的 OctoLinker 浏览器扩展有效地浏览 go 文件.
 - [richgo](https://github.com/kyoh86/richgo) - 使用文本装饰丰富“go test”输出.
-- [roumon](https://github.com/becheran/roumon) - 通过命令行界面监控所有活动 goroutines 的当前状态.
+- [roumon](https://github.com/becheran/roumon) - Monitor current state of all active goroutines via a command line interface.
 - [rts](https://github.com/galeone/rts)  - RTS：对结构的响应. 从服务器响应生成 Go 结构.
 - [typex](https://github.com/dtgorski/typex) - 检查 Go 类型及其传递依赖项，或者将结果导出为 TypeScript 值对象（或类型）声明.
 
@@ -2799,7 +2800,7 @@ _用 Go 编写的软件._
 
 ### DevOps Tools
 
-- [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate 是一种将长字符串转换为具有可配置分隔符的较短字符串的工具，例如将分支名称嵌入部署堆栈 ID.
+- [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate 是将长字符串转换为具有可配置分隔符的较短字符串的工具，例如将分支名称嵌入部署堆栈 ID.
 - [aptly](https://github.com/smira/aptly) - aptly 是一个 Debian 存储库管理工具.
 - [aurora](https://github.com/xuri/aurora) - 跨平台的基于 Web 的 Beanstalkd 队列服务器控制台.
 - [awsenv](https://github.com/soniah/awsenv) - 为配置文件加载 Amazon (AWS) 环境变量的小型二进制文件.
@@ -2994,7 +2995,7 @@ _在哪里发现新的 Go 库._
 
 - [100 Go Mistakes: How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them)
 - [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
-- [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - 这本持续交付实用指南向您展示了如何快速建立自动化管道，以改善您的测试、代码质量和最终产品.
+- [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - 本持续交付实用指南向您展示如何快速建立自动化管道，以改善您的测试、代码质量和最终产品.
 - [For the Love of Go](https://bitfieldconsulting.com/books/love) - Go 初学者的入门书.
 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - 在 Go 中理解和使用泛型的指南.
 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools) - 在 Go 中编写命令行工具的指南.

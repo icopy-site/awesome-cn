@@ -45,11 +45,11 @@
 - [Robosense](http://www.robosense.ai/) - RoboSense（速腾创新科技有限公司）是一家位于深圳和北京（中国）的激光雷达传感器、人工智能算法和 IC 芯片组制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCYCK8j678N6d_ayWE_8F3rQ)
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
-- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家汽车行业/环境检测激光扫描仪/激光雷达制造商，总部位于德国汉堡.
+- [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家位于德国汉堡的汽车行业/环境检测激光扫描仪/激光雷达制造商.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 - [Innoviz](https://innoviz.tech/) - Innoviz 技术/专注于固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
-- [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 在测绘、工业自动化、运输和安全方面提供端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
+- [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 在测绘、工业自动化、运输和安全领域提供端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
 - [Cepton](https://www.cepton.com/index.html)  - Cepton（Cepton Technologies, Inc.）/无摩擦、无反光镜设计的先驱，自主研发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
@@ -80,7 +80,7 @@
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 广泛的公共数据集，主要关注计算机视觉应用，但也包含 LIDAR 点云.
 - [Semantic KITTI](http://semantic-kitti.org/) - 用于语义和全景场景分割的数据集.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
-- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - 用于在恶劣天气条件下（雪天）自动驾驶的公共大规模数据集.
+- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - 用于在恶劣天气条件下（下雪天气）自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50)  - 多伦多大学，autoronto 的自动驾驶汽车数据集，包含 GPS/IMU、3D LIDAR 和单目摄像头数据. 它可用于 3D 行人检测.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
@@ -89,13 +89,15 @@
   - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 - [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/)  - 在 1.5 年内每周在悉尼大学校园及周边地区收集的长期、大规模数据集. 它包括多种传感器模式并涵盖各种环境条件. 兼容 ROS
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
-- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - 捷克布尔诺自动驾驶汽车和自主机器人的导航和定位数据集.
+- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 - [Argoverse :octocat:](https://www.argoverse.org/) - 旨在支持自动驾驶汽车感知任务的数据集，包括在宾夕法尼亚州匹兹堡和美国佛罗里达州迈阿密收集的 3D 跟踪和运动预测.
   - [Paper :newspaper:](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=DM8jWfi69zM)
-
+- [Boreas Dataset](https://www.boreas.utias.utoronto.ca/)  - Boreas 数据集是通过在 1 年内重复行驶而收集的，导致明显的季节性变化. 总体而言，Boreas 包含超过 350 公里的驾驶数据，其中包括多个具有恶劣天气条件（如雨和大雪）的序列.  Boreas 数据采集平台采用独特的高品质传感器套件，配备 128 通道 Velodyne Alpha Prime 激光雷达、360 度 Navtech 雷达以及从 Applanix POSLV GPS/IMU 获得的准确地面真实位姿. 
+  - [Paper 📰](https://arxiv.org/abs/2203.10168)
+  - [GitHub repository :octocat:](https://github.com/utiasASRL/pyboreas)
 
 ## Libraries
 
@@ -162,9 +164,9 @@
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：激光雷达里程计和实时制图.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - 用于 ROS 兼容 UGV 的轻型和地面优化激光雷达里程计和测绘 (LeGO-LOAM) 系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 的实时同步定位和映射 (SLAM).
+- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 实时同步定位和映射 (SLAM).
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
-- [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - 基于激光雷达的语义 SLAM.
+- [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - 基于 LiDAR 的语义 SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
   - [YouTube video :red_circle:](https://youtu.be/uo3ZuLuFAzk)
 - [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) - 基于 LiDAR 的 SLAM 的闭环.
@@ -178,7 +180,7 @@
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Object detection and object tracking
-- [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976)  - 卡内基梅隆大学的 Peiyun Hu、David Held 和 Deva Ramanan.  IEEE 机器人与自动化快报，2020.
+- [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976)  - 卡内基梅隆大学的 Peiyun Hu、David Held 和 Deva Ramanan.  IEEE 机器人与自动化快报，2020 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
   - [GitHub repository :octocat:](https://github.com/peiyunh/opcseg)
 - [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf)  - 作者：Di Feng、Lars Rosenbaum、Fabian Timm、Klaus Dietmayer. 第 30 届 IEEE 智能汽车研讨会，2019.

@@ -32,7 +32,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [Blender 3D models](https://www.blender-models.com/) - 3D 模型、粒子系统/效果
 - ：money_with_wings： [CGTextures](http://www.textures.com) - 大量纹理.
 - ：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发者与才华横溢的资产创造者联系起来.
-- ：自由的： [Games-Icons Set](http://game-icons.net/) - 游戏的免费图标.
+- ：自由的： [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 - ：自由的： [Iconmonstr](http://iconmonstr.com/) - 另一个免费的游戏图标资源.
 - ：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 - ：自由的： [Liberated Pixel Cup assets](http://lpc.opengameart.org) - OpenGameArt 论坛举办的 Liberated Pixel Cup (LPC) 免费图形资源
@@ -97,7 +97,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 专注于 2D 动画，提供高效的工作流程，既可以创建令人惊叹的动画，也可以将其集成到您的游戏中.
 - ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 精灵动画的现代工具.
 - ：然后： [DragonBones](http://dragonbones.com) - Flash 的开源 2D 骨架动画解决方案
-- ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而成的动画数据.
+- ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而来的动画数据.
 - ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 3D人形模型的自动装配和动画工具，
 
 #### Vector/Image Editor
@@ -196,7 +196,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [ecs-lib](https://github.com/nidorx/ecs-lib#readme)  - **ecs-lib** 是一个小巧且易于使用的 ECS（实体组件系统）库，用于游戏编程. 它是用 Typescript 编写的，但您也可以在 node.js 和 Web 浏览器上使用.
 - ：然后： [Ejecta](http://impactjs.com/ejecta) - 适用于 iOS 的快速、开源 JavaScript、Canvas 和音频实现.
 - ：然后： [EnTT](https://github.com/skypjack/entt) - 游戏符合现代 C++、快速可靠的实体组件系统 (ECS) 等等
-- ：然后： [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
+- ：然后： [FXGL](https://github.com/AlmasB/FXGL) - 适用于 Win/Mac/Linux 的 JavaFX/Kotlin 游戏引擎.
 - ：然后： [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) - 具有真实物理响应的碰撞检测系统.
 - ：然后： [Flame](https://github.com/flame-engine/flame) - Flutter 的极简游戏引擎
 - ：然后： [FlashPunk](http://useflashpunk.net/) - 专为开发 2D Flash 游戏而设计的免费 ActionScript 3 库.
@@ -225,7 +225,7 @@ _一套游戏框架、引擎和平台_
 - ：自由的： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google 的 Android 的 3D 引擎.
 - ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净、轻量级的 2D 游戏框架
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中制作具有大块像素的 2D 游戏的框架
-- ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
+- ：然后： [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 - ：然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
 - ：然后： [KogGE](https://korge.soywiz.com)  - Kotlin 的现代多平台游戏引擎. 使用 Kotlin 立即为 JVM、JavaScript、Android 和 iOS 编写游戏.
 - ：money_with_wings： [Leadwerks](https://www.leadwerks.com/) - 易于学习的 3D 和 VR 游戏引擎.
@@ -259,7 +259,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 - ：然后： [Phaser](http://phaser.io/) - 免费且快速的 2D 游戏框架，用于为桌面和移动 Web 浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
 - ：然后： [phina.js](http://phinajs.com/) - 一个 JavaScript 游戏库，可以轻松创建游戏和工具.
-- ：然后： [Piston](http://www.piston.rs/) - 一个用 Rust 编写的模块化开源游戏引擎.
+- ：然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - ：然后： [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - ：然后： [PixiJS](http://www.pixijs.com/)  - 是一个新来的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 以获得更快的性能. 如果不支持 WebGL，引擎将回退到标准画布.
 - ：然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -274,21 +274,22 @@ _一套游戏框架、引擎和平台_
 - ：然后： [raylib](https://www.raylib.com/) - 一个简单易用的库，用于享受视频游戏编程，使用 OpenGL（1.1、2.1、3.3 或 ES 2.0）进行硬件加速
 - ：然后： [Ren'Py](http://www.renpy.org/)  - 一个使用 Python 语言的简化形式的开源视觉小说引擎. 它支持 Windows、Mac OS X、Linux、Android 和 iOS.
 - ：然后： [Rpgboss](http://rpgboss.com)  - 基于 scala 和 libgdx 的 2d rpg 游戏引擎和编辑器. 易于使用，无需编程知识.
+- ：自由的： [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple 专有的 3D 游戏引擎（适用于 macOS、iOS、iPadOS、tvOS 和 watchOS）.
 - ：然后： [Screen 13](https://github.com/attackgoat/screen-13)  - 一个易于使用的 Vulkan 渲染引擎. 为 Rust 提供渲染图.
 - ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问.
 - ：然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 - ：然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于易于迭代和使用.
-- ：然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
+- ：然后： [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
 - ：然后： [Spring](http://springrts.com/) - 一个强大的免费跨平台RTS引擎.
-- ：自由的： [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D 游戏引擎.
+- ：自由的： [SpriteKit](https://developer.apple.com/documentation/spritekit) - Apple 专有的 2D 游戏引擎（适用于 macOS、iOS、iPadOS、tvOS 和 watchOS）.
 - ：然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级快速 2D HTML5 渲染和布局引擎.
 - ：然后： [Starling](http://gamua.com/starling/) - GPU 驱动的 2D Flash API
-- ：money_with_wings： [Stencyl](http://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
+- ：money_with_wings： [Stencyl](http://www.stencyl.com/) - 一个游戏创建平台，允许用户为计算机、移动设备和网络创建 2D 视频游戏.
 - ：然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - ：然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作 2D/3D 游戏制作器
 - ：然后： [TIC-80](https://tic.computer/) - TIC-80 是一款用于制作、玩和分享小游戏的梦幻电脑.
 - ：然后： [Three.js](http://threejs.org/) - Javascript 3D 库.
-- ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供了构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有身临其境的 3D 效果和实时物理，打开了一个前所未有的非凡网络内容的全新世界.
+- ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供了构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有沉浸式 3D 效果和实时物理特性，打开了一个前所未有的非凡网络内容的全新世界.
 - ：然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅基于文本，还支持音乐、图像和声音效果. 基本文本冒险游戏所需的编码知识很少.
 - ：money_with_wings： [Unity 3D](http://unity3d.com/) - 用于创建 2D 和 3D 游戏和互动内容的开发引擎.
 - ：money_with_wings： [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games开发的全新游戏引擎技术.
@@ -329,7 +330,7 @@ _音频编辑器、声音收藏等等._
 - ：自由的： [FamiTracker](http://famitracker.com/) - 免费的 Windows 跟踪器，用于为 NES/Famicom 系统制作音乐.
 - ：然后： [jfxr](http://jfxr.frozenfractal.com) - Bfxr 音效生成器的 JavaScript 端口.
 - ：然后： [LMMS](https://lmms.io/) - 跨平台的音乐制作软件.
-- ：自由的： [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
+- ：自由的： [MadTracker](http://www.madtracker.org/main.php)  - 一种强大而有效的音乐制作方法. 全面的 VST™、ASIO™ 和 ReWire™ 支持保证了多功能性和兼容性.
 - ：然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - 适用于 Mac/Linux/Windows 平台的开源跟踪器.
 - ：然后： [musagi](http://www.drpetter.se/project_musagi.html) - 开源、相当大和复杂的音乐编辑器和合成器
 - ：然后： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - 开源 MIDI 音序器.
@@ -368,7 +369,7 @@ _博客、门户网站、杂志等_
 - [Lost Garden](http://www.lostgarden.com/)
 - [Polygon](http://www.polygon.com/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
-- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“顶级图表”.
+- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用商店和竞争激烈的“顶级排行榜”.
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
 - [TruePCGaming](http://truepcgaming.com/)
@@ -463,7 +464,7 @@ _我们还需要赚点钱，对吧？_
 
 - [AdMob by Google](https://www.google.com/admob/) - Google 的移动广告和获利服务.
 - [AdColony](http://www.adcolony.com/) - 移动视频广告服务.
-- [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+- [Appodeal](http://www.appodeal.com/) - 适用于移动应用的程序化广告中介解决方案.
 - [ChartBoost](https://www.chartboost.com/) - 货币化、分析平台.
 - [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D 官方广告 SDK.
 - [Vungle](https://vungle.com/) - 视频广告服务.
