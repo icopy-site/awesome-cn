@@ -67,7 +67,7 @@
 
 
 ## Database
-* [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - 为关键任务安全和性能设计的分布式财务会计数据库.
+* [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle) - 为关键任务安全和性能而设计的分布式财务会计数据库.
 * [kristoff-it/redis-cuckoofilter](https://github.com/kristoff-it/redis-cuckoofilter) - Redis 的哈希函数不可知 Cuckoo 过滤器.
 * [kristoff-it/zig-okredis](https://github.com/kristoff-it/zig-okredis) - Redis 6+ 的零分配客户端.
 * [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) - SQLite 绑定.
@@ -184,6 +184,7 @@
 
 ## Zig development tools
 * [marler8997/zigup](https://github.com/marler8997/zigup) - 下载和管理 zig 编译器.
+* [korandoru/setup-zig](https://github.com/korandoru/setup-zig) - 在 GitHub Actions 上设置特定版本的 Zig 环境.
 
 
 ### Package managers

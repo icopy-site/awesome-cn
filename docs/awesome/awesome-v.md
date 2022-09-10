@@ -71,7 +71,8 @@
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
-- [klonol](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
+- [klonol](https://github.com/hungrybluedev/klonol)  - CLI 工具可帮助您“克隆所有”属于您的 git 存储库. 适用于 GitHub 和 Gitea.
+- [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建 QR 码的 CLI.
 
 ### Project management
 
@@ -118,7 +119,7 @@
 ### Game development
 
 - [engine](https://github.com/LouisSchmieder/engine) - V 中的 WIP Vulkan.
-- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - 更新了 V 绑定 [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
+- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
 - [vraylib](https://github.com/MajorHard/vraylib) - C 游戏开发框架 raylib 的 V 包装器（绑定）.
 
 ### Web

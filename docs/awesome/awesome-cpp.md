@@ -107,7 +107,7 @@
 * [Vorbis](http://xiph.org/vorbis/)  - Ogg Vorbis 是一种完全开放、非专有、无专利和免版税的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  - 公共领域，仅标头 MP3 解码器，具有洁净室实施.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  - Verovio 是一个快速、轻量级的乐谱雕刻库.  [LGPL] [website](https://www.verovio.org)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，使用 ArrayFire 张量库和 flashlight 机器学习库来实现最高效率 [BSD]
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，并使用 ArrayFire 张量库和 flashlight 机器学习库来实现最高效率 [BSD]
 
 ## Biology
 *生物信息学、基因组学、生物技术*
@@ -173,6 +173,7 @@
 * [bit7z](https://github.com/rikyoz/bit7z)  - 一个 C++ 静态库，为 7-zip DLL 提供干净简单的接口.  [GPLv2]
 * [Brotli](https://github.com/google/brotli)  - Brotli 压缩格式. 由谷歌开发.  [麻省理工学院]
 * [bzip2](http://www.bzip.org/)  - 免费提供、无专利、高质量的数据压缩器.  [BSD]
+* [bzip3](https://github.com/kspalaiologos/bzip3)  - BZip2 更好更强的精神继承者.  [LGPL]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - 新一代熵编解码器：有限状态熵和 Huff0.
 * [PhysicsFS](https://icculus.org/physfs/)  - 提供对各种档案的抽象访问的图书馆. 它旨在用于视频游戏，设计灵感来自 Quake 3 的文件子系统.  [zlib]
 * [KArchive](https://api.kde.org/frameworks/karchive/html/index.html)  - 用于创建、读取、写入和操作 zip 和 tar 等文件存档的库. 它还通过 QIODevice 的子类使用 gzip 等格式提供透明的数据压缩和解压缩.  [LGPL]
@@ -428,7 +429,7 @@
 * [Sciter](http://sciter.com/)  - Sciter 是一个可嵌入的 HTML/CSS/脚本引擎，旨在用作现代桌面应用程序的 UI 层.  [免费/商业]
 * [Slint](https://github.com/slint-ui/slint)  - 用于桌面和嵌入式的轻量级 GUI 工具包.  [GPL/免费/商业] [website](https://slint-ui.com)
 * [wxWidgets](http://wxwidgets.org/)  - 一个 C++ 库，允许开发人员使用单一代码库创建适用于 Windows、Mac OS X、Linux 和其他平台的应用程序.  [拥有 LGPL]
-* [xtd](https://github.com/gammasoft71/xtd)  - 现代 C++17/20 框架，用于在 Windows、macOS、Linux、iOS 和 android 上创建控制台 (CLI)、表单（像 WinForms 的 GUI）和 tunit（像 Microsoft 单元测试框架这样的单元测试）应用程序.  [麻省理工学院]
+* [xtd](https://github.com/gammasoft71/xtd)  - 现代 C++17/20 框架，用于在 Windows、macOS、Linux、iOS 和 android 上创建控制台 (CLI)、表单（类似于 WinForms 的 GUI）和 tunit（类似于 Microsoft 单元测试框架的单元测试）应用程序.  [麻省理工学院]
 * [Yue](https://github.com/yue/yue)  - 用于创建本机跨平台 GUI 应用程序的库.  [LGPLv2]
 
 ## Graphics
@@ -637,7 +638,7 @@
 * [C Smart Pointers](https://github.com/Snaipe/libcsptr)  - (GNU) C 编程语言的智能指针.  [麻省理工学院]
 * [Hoard](https://github.com/emeryberger/Hoard)  - 适用于 Linux、Windows 和 Mac 的快速、可扩展和节省内存的 Malloc.  [GPL，商业] [website](http://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)  - 通用 malloc(3) 实现，强调避免碎片和可扩展的并发支持.  [BSD] [website](http://jemalloc.net/)
-* [memory](https://github.com/foonathan/memory)  - STL 兼容的 C++ 内存分配器库.  [ZLib]
+* [memory](https://github.com/foonathan/memory)  - STL 兼容 C++ 内存分配器库.  [ZLib]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators)  - 自定义内存分配器以提高动态内存分配的性能.  [麻省理工学院]
 * [mimalloc](https://github.com/microsoft/mimalloc)  - 具有出色性能的紧凑型通用分配器.  [麻省理工学院]
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐的内存分配器.[PublicDomain]
@@ -1016,7 +1017,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -1125,7 +1126,7 @@
 *精彩的 C 或 C++ 相关视频.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
-* [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 适合初学者和新程序员的详细 C 编程语言教程合集.
+* [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 针对初学者和新程序员的详细 C 编程语言教程合集.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 通过 VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过 VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston 官方 Buckys C++ 编程教程播放列表.

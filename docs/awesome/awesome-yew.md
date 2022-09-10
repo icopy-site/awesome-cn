@@ -37,13 +37,11 @@
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
-- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
-- [Tanoshi](https://github.com/fadhlika/tanoshi-web) - 类似立读的网络漫画阅读器.tanoshi 的前端.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
 - [Freecell](https://github.com/Stigjb/freecell) - 用 Rust 和 Yew 编写的耐心游戏.
-- [Daydream](https://github.com/MTRNord/Daydream) - 一个用 Rust 编写的小型 Matrix Web 客户端.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - 使用 Yew 进行的简单 WebRTC 聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
@@ -119,7 +117,7 @@
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - 当父组件改变宽度/高度时发出事件的 Yew 组件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - 用于虚拟滚动/滚动窗口的 Yew 组件.
 - [yew-oauth2](https://github.com/ctron/yew-oauth2/) - 一个普通的 Yew OAuth2/OpenIDConnect 组件，不依赖于任何 CSS 框架.
-- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
+- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - 红豆杉的自定义滚动区域.
 
 ### Hooks
 

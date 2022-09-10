@@ -15,7 +15,7 @@
 
 ## Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
+[AppImage](https://appimage.org) 是一种基于社区的格式，用于将应用程序分发到各种主流 Linux 发行版，而无需集中存储. 一个应用程序 = 一个文件！ 此列表包含使用 AppImages 的工具，例如为应用程序创建 AppImages 并将 AppImages 轻松集成到系统中. 随着 AppImage 周围充满活力的社区不断壮大，这个列表也在增长.
 
 
 
@@ -28,7 +28,7 @@
 
 ### App stores
 
-- [AppImageHub.com](https://www.appimagehub.com/) - 可下载的 AppImages，由 [Opendesktop.org](https://www.opendesktop.org/).
+- [AppImageHub.com](https://www.appimagehub.com/) - Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/).
 - [pling.com](https://www.pling.com/) - 开放商店，创作者可以在其中发布他们的自由产品和创意内容，包括 AppImages.
 - [App Outlet](https://app-outlet.github.io/) - 适用于 AppImages、Flatpaks 和 Snaps 的通用应用商店.
 - [Linux App Store](https://linuxappstore.io/) - 适用于 AppImage、Flatpak 和 Snap 格式的 Linux 应用程序的通用应用程序商店（项目已放弃）.
@@ -48,7 +48,7 @@
 
 ### Desktop integration
 
-- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - Verbosely explains how to manage AppImages without the need for further software.
+- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - 详细解释如何在无需其他软件的情况下管理 AppImages.
 - [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - 将 AppImages 集成到系统中的可选守护程序（实验性）.
 - [appimaged](https://github.com/AppImage/appimaged) - 将 AppImages 集成到系统中的可选守护程序（已弃用）.
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - 集成到用户系统并建立一个单一的`~/Applications`目录，帮助用户将AppImages移动到那里，并支持通过应用程序启动器更新和删除AppImages.
@@ -83,11 +83,11 @@
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - AppImages 和 Shell 脚本的包管理器.
 - [AppMan](https://github.com/ivan-hc/AppMan) - 像 APT 或 Pacman 一样工作的 AppImage 管理器.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
-- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一、静态、无依赖的二进制文件. 用围棋写的.
+- [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 
 ### Linux distributions
 
-尽管 AppImage 格式经过精心设计，不需要 Linux 发行版的任何特殊支持，但仍有一些提供不同程度的 AppImage 友好性.
+尽管 AppImage 格式经过精心设计，不需要 Linux 发行版的任何特殊支持，但仍有一些提供不同程度的开箱即用的 AppImage 友好性.
 
 - [Deepin](https://www.deepin.org/en/) - 当您双击 AppImage 或任何其他缺少执行权限的可执行文件时，一个用户友好的对话框会解释情况并要求您设置执行权限并执行可执行文件.
 - [Nitrux](https://nxos.org/) - 推广使用 AppImage 作为获取应用程序的主要格式，内置应用程序中心以 AppImages 为特色.
@@ -162,6 +162,7 @@
 - [AppImage cobbler](https://gitlab.com/brinkervii/appimage-cobbler) - 接受 strace.log 并将其转换为适合 AppImage 的目录的 Python 应用程序.
 - [Elements](https://gitlab.com/scottywz/elements) - 使用最小（约 3 MB 压缩）Alpine Linux rootfs 生成单文件、基于 runc 的 AppImage 的工具.
 - [arch2appimage](https://github.com/hanzala123/arch2appimage) - 用于将任何 Arch Linux 包（官方/AUR）转换为 AppImage 的 Python 脚本.
+- [appimage-bash](https://github.com/valicm/appimage-bash) - 用于从 .tar.gz 档案中的二进制文件创建 AppImage 版本的 GitHub 操作.
 
 ### Metadata tools
 
@@ -211,7 +212,7 @@
 
 ### Tutorials
 
-- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作捆绑_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且可以在比构建系统的_旧_系统上运行.
+- [Produce an AppImage that bundles everything with go-appimage](https://www.youtube.com/watch?v=XTGn_JqmDu0) - 如何制作一个捆绑了_所有_所需库的 AppImage，以便它不仅可以在较新的系统上运行，而且还可以在比构建系统的_旧_系统上运行.
 
 ### Articles
 

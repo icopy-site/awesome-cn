@@ -419,7 +419,7 @@ Neovim 支持多种 UI.
 
 ### Statusline
 
-- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim)  - Galaxyline 通过为每个文本区域提供一个提供程序来组件化 Vim 的状态行. 这意味着您可以使用galaxyline 提供的api 轻松创建您想要的状态线.
+- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim)  - Galaxyline 通过为每个文本区域提供一个提供程序来组件化 Vim 的状态行. 这意味着您可以使用galaxyline 提供的api 轻松创建您想要的状态行.
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - 支持协程、函数和作业.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - 快速且易于配置的 Neovim 状态栏.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - 使用 Lua 的 Neovim 的轻量级状态栏/表格插件.
@@ -437,7 +437,7 @@ Neovim 支持多种 UI.
 
 ### Winbar and Statusline component
 
-- [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - A simple statusline/winbar component that uses LSP to show your current code context.
+- [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - 一个简单的状态栏/winbar 组件，它使用 LSP 来显示您当前的代码上下文.
 
 ### Cursorline
 
@@ -531,6 +531,7 @@ Neovim 支持多种 UI.
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - 添加基于源文件的注释框.
 - [danymat/neogen](https://github.com/danymat/neogen)  - 更好的注释生成器. 支持多种语言和注释约定.
 - [echasnovski/mini.nvim#mini.comment](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-comment.md)  - 用于每行注释的`mini.nvim` 模块. 完全支持点重复.
+- [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - 使用方框和线条来澄清和美化您的评论.
 
 ### Collaborative Editing
 
@@ -668,7 +669,7 @@ Neovim 支持多种 UI.
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua 插件从剪贴板粘贴图像.
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 一个基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - Neovim 的远程控制 Reaper DAW.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
@@ -726,7 +727,7 @@ Neovim 支持多种 UI.
 ### Keybinding
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件，显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建一个图例，与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例，与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的`:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，它模仿 Neovim 的 `:map` 系列命令. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
@@ -782,4 +783,4 @@ Neovim 支持多种 UI.
 ## Resource
 
 - [Neovimcraft](https://neovimcraft.com) - 一个专门用于搜索 Neovim 特定插件和在 Lua 中构建插件的指南的站点.
-- [TWiN](https://this-week-in-neovim.org) - TWiN (this-week-in-neovim.org) 致力于提供有关 Neovim 及其生态系统的每周新闻.
+- [TWiN](https://this-week-in-neovim.org) - TWiN (this-week-in-neovim.org) is dedicated to providing weekly news about Neovim and its ecosystem.
