@@ -153,10 +153,10 @@
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [922⭐] - 一个漂亮的自定义刷新指示器 [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) 通过平滑的阻尼运动垂直和水平滑动 [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Direct Select](https://github.com/LanarsInc/direct-select-flutter) - 带有飘渺全屏模式弹出窗口的选择小部件 [Ivan Yatsouba](https://github.com/iyatsouba).
-- [Before After](https://github.com/xsahil03x/before_after) [580⭐] - 漂亮的滑块，可以更轻松地显示两个图像之间的差异，通过 [Sahil Kumar](https://github.com/xsahil03x).
+- [Before After](https://github.com/xsahil03x/before_after) [580⭐] - Beautiful slider which makes it easier to display the difference between two images, by [Sahil Kumar](https://github.com/xsahil03x).
 - [Scratcher](https://github.com/vintage/scratcher) [306⭐] - 临时向用户隐藏内容的刮刮卡小部件，通过 [Kamil Rykowski](https://github.com/vintage).
 - [Image Sequence Animator](https://github.com/aliyigitbireroglu/flutter-image-sequence-animator) [104⭐] - 一个简单的小部件，用于使用完全自定义控件为一组图像设置动画，作为使用 GIF 文件的替代方法 [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
-- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [452⭐] - 美化你的应用弹出窗口 [jaweii](https://github.com/jaweii).
+- [Beautiful_Popup](https://github.com/jaweii/Flutter_beautiful_popup) [452⭐] - 美化您的应用弹出窗口 [jaweii](https://github.com/jaweii).
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) [317⭐] - 动画信用卡输入表单 [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) 滑动的动画选择小部件 [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) [332⭐] - 具有不同自定义的标签 [Di Natale Antonino](https://github.com/Dn-a).
@@ -177,7 +177,7 @@
 #### Drawers
 
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [231⭐] - 美丽的抽屉模式菜单功能与透视动画 [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
-- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [385⭐] - 创建内部抽屉（左/右）的简单方法，您可以在其中输入列表菜单或其他 [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [385⭐] - 创建内部抽屉（左/右）的简单方法，您可以在其中输入列表菜单或其他方式 [Di Natale Antonino](https://github.com/Dn-a).
 
 #### Bottom bars
 
@@ -324,7 +324,7 @@
 
 - [GenLang](https://github.com/KingWu/gen_lang) [88⭐] - 国际化代码生成器 [King Wu](https://github.com/KingWu).
 - [Flutter Translate](https://github.com/bratan/flutter_translate) [279⭐] - 国际化 (i18n) 库 [Florin Bratan](http://bratan.me).
-- [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc).
+- [attranslate](https://github.com/fkirc/attranslate) - ARB 或 JSON 文件的半自动翻译 [fkirc](https://github.com/fkirc).
 
 
 ### Styling
@@ -351,7 +351,7 @@
 
 #### Voice
 
-- [Speech Recognition](https://github.com/rxlabz/speech_recognition) [323⭐] - 语音到文本 [Erick Ghaumez](https://twitter.com/rxlabz).
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) [323⭐] - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - 通过集成谷歌助手 [Marcin Szalek](https://marcinszalek.pl/).
 
 ### Storage
@@ -370,7 +370,7 @@
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) [464⭐] - 源自“应用内购买”的功能集 [react-native-iap](https://github.com/dooboolab/react-native-iap) 经过 [dooboolab](https://github.com/dooboolab).
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) - Admob 插件，使用原生平台视图显示横幅广告 [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) - Facebook Audience Network 广告插件，通过 [Dreamsoft Innovations](https://github.com/dreamsoftin).
-- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [283⭐] - 通过在您的应用程序中嵌入卡片输入表单来进行付款，该表单通过客户提供的卡片信息或数字钱包生成随机数 [Square](https://github.com/orgs/square).
+- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [283⭐] - 通过在您的应用程序中嵌入卡片输入表单来进行支付，该表单通过客户提供的卡片信息或数字钱包生成随机数 [Square](https://github.com/orgs/square).
 
 ## Templates
 
@@ -478,10 +478,10 @@
 
 #### Standard
 
-- [Bloc](https://github.com/felangel/bloc) [8181⭐] - 帮助实现 BLoC 设计模式的软件包集合 [Felix Angelov](https://github.com/felangel).
+- [Bloc](https://github.com/felangel/bloc) [8181⭐] - 帮助实现 BLoC 设计模式的包集合 [Felix Angelov](https://github.com/felangel).
 - [MobX](https://github.com/mobxjs/mobx.dart)  [2037⭐] - 使用透明功能响应式编程 (TFRP) 增强应用程序中的状态管理. 来自 Js/React 领域的 MobX 端口.
 - [Provider](https://github.com/rrousselGit/provider) [3974⭐] - Flutter 的状态管理库 [Remi Rousselet](https://github.com/rrousselGit).
-- [RiverPod](https://github.com/rrousselGit/river_pod) [2214⭐] - Provider, but different by [Remi Rousselet](https://github.com/rrousselGit).
+- [RiverPod](https://github.com/rrousselGit/river_pod) [2214⭐] - 提供者，但不同的是 [Remi Rousselet](https://github.com/rrousselGit).
 - [GetX](https://github.com/jonataslaw/getx) <!--jonataslaw/getx-->- 无上下文、状态管理和导航 [Jonny Borges](https://github.com/jonataslaw).
 - [Binder](https://github.com/letsar/binder) [167⭐] - 一种将应用程序状态与业务逻辑绑定的轻量级但功能强大的方法，通过 [Romain Rastel](https://github.com/letsar).
 
@@ -522,7 +522,7 @@
 - [Drawing Animation](https://github.com/biocarl/drawing_animation) [384⭐] - 根据 SVG 路径数据创建画线动画 [Carl Hauck](https://twitter.com/cahaucks).
 - [Simple Animations](https://github.com/felixblaschke/simple_animations) - 通过以下方式轻松创建真棒自定义动画 [Felix Blaschke](https://github.com/felixblaschke).
 - [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) [264⭐] - 轻松构建动画集 [efoxTeam](https://github.com/efoxTeam).
-- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [977⭐] - 轻松将交错动画添加到您的 ListView、GridView、Column 和 Row by [mobiten](https://mobiten.com/).
+- [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [977⭐] - 轻松添加交错动画到您的 ListView、GridView、Column 和 Row by [mobiten](https://mobiten.com/).
 - [Animate Do](https://pub.dev/packages/animate_do) - 受 Animate.css 启发的动画包 [Fernando Herrera](https://twitter.com/Fernando_Her85).
 - [Funvas](https://github.com/creativecreatorormaybenot/funvas) [361⭐] - 创建有趣的*基于时间的画布动画* [creativecreatorormaybenot](https://twitter.com/creativemaybeno).
 
@@ -709,7 +709,6 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### Communication
 
-- [Gitter](https://gitter.im/flutter/flutter) - 交流渠道.
 - [r/FlutterDev](https://www.reddit.com/r/FlutterDev/) - Reddit 社区 [u/JaapVermeulen](https://www.reddit.com/user/JaapVermeulen).
 - [Discord](https://discord.gg/N7Yshp4) - 不和谐服务器讨论并获得帮助 [Pritykin](https://twitter.com/AndrewPritykin).
 - [Flutter Community](https://github.com/fluttercommunity) - 社区制作包裹的中心位置.
@@ -718,7 +717,7 @@ This section contains libraries that take an experimental or unorthodox approach
 
 #### Misc
 
-- [Flutter Events](https://flutterevents.com) - Flutter 事件的开放列表 [@hillelcoren](https://twitter.com/hillelcoren).
+- [Flutter Events](https://flutterevents.com) - 打开 Flutter 事件列表 [@hillelcoren](https://twitter.com/hillelcoren).
 - [FlutterX](https://flutterx.com) - 可搜索的资源列表 [Hillel Coren](https://twitter.com/hillelcoren).
 
 ### 🇦🇴 Angola

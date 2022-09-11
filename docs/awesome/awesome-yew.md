@@ -62,7 +62,7 @@
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
 - [Sea_battle](https://github.com/MAE664128/sea_battle)  - 海战游戏的简单示例. 锈+紫杉.
 - [tide-async-graphql-mongodb](https://github.com/zzy/tide-async-graphql-mongodb) - 使用 wasm/yew 前端为 graphql 服务清洁样板.
-- [surfer](https://github.com/zzy/surfer) - 一个建立在 yew + graphql 上的博客，有 [live demo site](https://gaiding.com) .  graphql 服务的后端和 Web 应用程序的前端.
+- [surfer](https://github.com/zzy/surfer) - 一个建立在 yew + graphql 上的博客，有 [live demo site](https://niqin.com) .  graphql 服务的后端和 Web 应用程序的前端.
 - [qubit](https://abhimanyu003.github.io/qubit) - 一个方便的计算器，基于 Rust 和 WebAssembly， [Live Demo](https://abhimanyu003.github.io/qubit/).
 - [Paudle](https://github.com/pmsanford/paudle) - Josh Wardle 对优秀文字游戏 Wordle 的重新实现.
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 具有各种算法的交互式实现的网站（目前仅排序算法）.

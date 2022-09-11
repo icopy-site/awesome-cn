@@ -73,6 +73,7 @@
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
 - [klonol](https://github.com/hungrybluedev/klonol)  - CLI 工具可帮助您“克隆所有”属于您的 git 存储库. 适用于 GitHub 和 Gitea.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建 QR 码的 CLI.
+- [verve](https://github.com/MohammadMD1383/verve) - 简单快速的静态文件服务器.
 
 ### Project management
 

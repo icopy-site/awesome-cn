@@ -29,7 +29,7 @@
 </details>
 
 
-要更快地找到特定主题，您可以按“Ctrl + F”并键入要搜索的主题.
+要更快地找到特定主题，您可以按“Ctrl + F”并输入要搜索的主题.
 建议通过单击鼠标滚轮或右键单击链接并选择“在新选项卡中打开链接”来打开链接，这样您就可以将列表保存在单独的选项卡中.
 
 
@@ -47,8 +47,7 @@ Content about: Python, Other about tech \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容：数学、编程语言 \
-Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`. \
-<br />
+Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwVjl968ProbjWSmYNghqYxAG_EI0-3ZK6QNIHM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DonJonesConTech)
 
@@ -60,8 +59,7 @@ Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video 
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Corey Schafer**](https://www.youtube.com/c/Coreyms) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容关于：Python、后端\
-精选播放列表：“Python 教程”、“Django 教程”、“Flask 教程”、“Matplotlib 教程”、“SQL 教程”.  \
-<br />
+精选播放列表：“Python 教程”、“Django 教程”、“Flask 教程”、“Matplotlib 教程”、“SQL 教程”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyHn9zALlBP5HBxpaqVd9x00oZDRlLKSOJu4Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/briantwill)
 
@@ -91,8 +89,7 @@ Content about: C, C#, C++ \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Geek's Lesson**](https://www.youtube.com/c/GeeksLesson) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：后端，理论，数据\
-精选播放列表：“数据结构播放列表”、“后端编程语言视频”、“数学视频”.  \
-<br />
+精选播放列表：“数据结构播放列表”、“后端编程语言视频”、“数学视频”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxo5sxMK5En0bXdwzW65cLoDmmGYdoWWDnwlmd0zrw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/intellipaaat)
 
@@ -103,7 +100,7 @@ Content about: C, C#, C++ \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxg7ZDO-AqFL4bQWz38_7RZKYydoUQTpVuPAPzo=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ProgrammingKnowledge)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ProgrammingKnowledge**](https://www.youtube.com/c/ProgrammingKnowledge) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容关于：后端，API \
+内容关于：后端、API \
 精选播放列表：`Node.js 初学者教程`、`Python 3 初学者教程`、`C++ 初学者编程教程`、`其他有关不同编程语言的视频`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytmpnop1rJ8bYYGvdWXbs4er2kRUUmBT0udDAcIA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodingTech)
@@ -116,8 +113,7 @@ Content about: C, C#, C++ \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Simplified Coding**](https://www.youtube.com/c/SimplifiedcodingNetOfficial) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：Android，后端\
-精选播放列表：`PHP、MySQL 和 Firebase 视频`、`Kotlin 编程教程`、`更多视频和播放列表`.  \
-<br />
+精选播放列表：`PHP、MySQL 和 Firebase 视频`、`Kotlin 编程教程`、`更多视频和播放列表`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
@@ -139,12 +135,6 @@ Content about: C, C#, C++ \
 精选播放列表：“Python 教程”、“机器学习”、“Java 教程”.  \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxJwY29yXENbgxRO0WxVMtiWyt65BT9iF2mNgWJ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo/)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CS Dojo**](https://www.youtube.com/c/CSDojo/) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
-内容：Python 和一般概念 \
-精选播放列表：“数据结构和算法”、“绝对初学者的 Python 教程”、“编码面试问题和答案”.
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygbw5_NJRJv11GoqyEXvHiAoLVu3RPOeROEM9Z0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/sentdex)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**sentdex**](https://www.youtube.com/c/sentdex) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
@@ -154,7 +144,7 @@ Content about: C, C#, C++ \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlKpaj19DmFWS8cuYfwKNHY-k9vBmNlH0N72rGKQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaBrainsChannel)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Java Brains**](https://www.youtube.com/c/JavaBrainsChannel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容：Spring，Java \
+内容有关：Spring、Java \
 精选播放列表：“Spring 框架课程播放列表”、“Spring Boot 微服务 - 完整课程播放列表”、“Java EE 课程播放列表”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxRGfv1YCCh9tamNue4H4J1Ih_5i9hlr5cVtrGd=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/IAmTimCorey)
@@ -185,8 +175,7 @@ Featured playlists: `Python Programming`, `JavaScript playlist`, `C# Tutorials`,
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Sebastiaan Mathôt**](https://www.youtube.com/c/SebastiaanMath%C3%B4t) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：Python \
-精选播放列表：“Python 讲座”、“改进和优化 Python”、“其他一些 Python 播放列表！”.  \
-<br />
+精选播放列表：“Python 讲座”、“改进和优化 Python”、“其他一些 Python 播放列表！”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw7fYBQnfGgKdrlaYJWMcTtlZLobe00ebnq07-a=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngelSix)
 
@@ -294,7 +283,7 @@ Content about: C#, .NET, Azure, AWS, General Programming \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh-0HYxeTcEOIpQp5YM1OZbavRxUXaep7O1ivI=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Hackers Realm**](https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Python, 问题解决 \
+Content about: Python, Problem solving \
 精选播放列表：`Hackerrank Problem Solving`、`Machone/Deep learning Projects Tutorials`.  \
 <br />
 
@@ -364,6 +353,13 @@ Content about: C#, .NET, Discord \
 精选播放列表：“Spring Boot”.  \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/PF_5a9pF_CurRWcBpGxAvYv-uMc6bsK_LYpmgHDMDnG5tTzHbYU7Jz55pU_QXm1f0nVLTmlzZw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ArjanCodes**](https://www.youtube.com/c/ArjanCodes) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+内容关于：Python、软件设计 \
+精选播放列表：`Python 中的软件设计`、`Code Roasts`.  \
+<br/>
+
 
 ## Web development
 
@@ -373,7 +369,7 @@ Content about: C#, .NET, Discord \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容有关：React.js、JavaScript、TypeScript \
-精选播放列表：`React.js 初学者教程`、`React.js Hooks 教程`、`React.js Redux 教程`、`React.js Storybook 教程`、`React.js Formik 教程`、`实用React.js` .
+Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`, `React.js Redux Tutorial`, `React.js Storybook Tutorial`, `React.js Formik Tutorial`, `Practical React.js`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
 
@@ -398,8 +394,7 @@ Content about: 网页设计, 设计, 自由职业者 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：Web 开发，后端 \
-精选播放列表：`HTML 和 CSS 教程`、`JavaScript 教程`、`PHP 教程`、`jQuery 教程`.  \
-<br />
+精选播放列表：`HTML 和 CSS 教程`、`JavaScript 教程`、`PHP 教程`、`jQuery 教程`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
 
@@ -456,8 +451,7 @@ Content about: 网页设计, 设计, 自由职业者 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容：前端、React.js、网页设计\
-精选播放列表：“React.js 教程”、“HTML、CSS 和 JavaScript 教程”、“网页设计视频 (UI/UX)”.  \
-<br />
+精选播放列表：“React.js 教程”、“HTML、CSS 和 JavaScript 教程”、“网页设计视频 (UI/UX)”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
 
@@ -470,14 +464,13 @@ Content about: 网页设计, 设计, 自由职业者 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Academind**](https://www.youtube.com/c/Academind) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容：前端、JavaScript、网页设计 \
-精选播放列表：`React.js + Redux Basics`、`Vue.js 2 - Getting Started`、`Amazon Web Services Basics`.  \
-<br />
+精选播放列表：`React.js + Redux Basics`、`Vue.js 2 - Getting Started`、`Amazon Web Services Basics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Florin Pop**](https://www.youtube.com/c/FlorinPop) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：JavaScript、CSS \
-精选播放列表：`Learn JavaScript`、`Learn React.js`、`Learn CSS`、`JavaScript Array Methods`.  \
+Featured playlists: `Learn JavaScript`, `Learn React.js`, `Learn CSS`, `JavaScript Array Methods`. \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
@@ -527,8 +520,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Harry Wolff**](https://www.youtube.com/c/hswolff) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容：React.js, JavaScript \
-精选播放列表：`React Tutorials`、`Building a React Native App`、`JavaScript Tutorials`、`TypeScript playlist`.  \
-<br />
+精选播放列表：`React Tutorials`、`Building a React Native App`、`JavaScript Tutorials`、`TypeScript playlist`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyd7g6PJDaD3j2Ouariuf_U42P-yZZPQw6-E-B08Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CodingGarden)
 
@@ -569,7 +561,7 @@ Content about: Frontend, Backend, GraphQL, D3, Svelte, other technologies \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
 内容关于：JavaScript、CSS 和 CSS 预处理器、Next.js \
-精选播放列表：`CSS 动画系列`、`15 分钟学习 jQuery`、`Webflow From Scratch`、`正则表达式系列`.
+精选播放列表：`CSS Animations Series`、`Learn jQuery in 15 Minutes`、`Webflow From Scratch`、`Regular Expressions Series`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
@@ -587,15 +579,14 @@ Content about: Frontend, Backend, GraphQL, D3, Svelte, other technologies \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlhhukYsdgVeuIspbug5SNo_254oqP9ZyrY2E0=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Web Dev Simplified**](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容关于：一般 Web 开发、JavaScript、React、CSS、最佳实践和设计模式 \
+内容：一般 Web 开发、JavaScript、React、CSS \
 精选播放列表：“小项目”、“谁想成为兆比特（琐事游戏）”、“CSS 教程”、“Web 应用安全/身份验证”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzfIzn2ZRwWYX4ZbVUGR10ExZvzFXuJCdw0DWrthw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenAwad97/)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Ben Awad**](https://www.youtube.com/c/BenAwad97/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容：Web 开发、JavaScript、TypeScript、React、GraphQL \
-精选播放列表：`GraphQL 教程`、`React Hooks`、`Practical React`、`Typescript、Next.js 和 GraphQL 系列`.  \
-<br />
+精选播放列表：`GraphQL 教程`、`React Hooks`、`Practical React`、`Typescript、Next.js 和 GraphQL 系列`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwOIS7HSycIcJxcQClW1MqdHoCEG17H_9AuKauK6g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FaztCode)
 
@@ -607,14 +598,13 @@ Content about: Frontend, Backend, GraphQL, D3, Svelte, other technologies \
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-es.svg?sanitize=true" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**Bluuweb !**](https://www.youtube.com/c/Bluuweb) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：前端，后端\
-精选播放列表：`Vue.js Course`、`CSS3 和 Flexbox Complete Course`、`Bootstrap 4 Complete Course`、`JavaScript 和 React.js 视频`、`Firebase / Firestore Course from scratch`.
+精选播放列表：`Vue.js Course`、`CSS3 和 Flexbox Complete Course`、`Bootstrap 4 Complete Course`、`JavaScript 和 React.js 视频`、`Firebase / Firestore course from scratch`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjCNjtNKGVhvNY9Thj60vx_mgsd5CvPprH6HWBbIQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ebenezerdon/)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Ebenezer Don**](https://www.youtube.com/c/ebenezerdon/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 关于内容：HTML、CSS、JavaScript、Firebase、FastAPI、TypeScript \
-精选播放列表：`Web 开发入门`、`版本控制`、`前端数据库管理`.  \
-<br />
+精选播放列表：`Web 开发入门`、`版本控制`、`前端数据库管理`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwniHeNvUbV6ejNRe4_J-7r_VLLfJxD4cwoAJDtgr4_c=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ManuelMuñozMir)
 
@@ -633,14 +623,13 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-es.svg?sanitize=true" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**Soy Dalto**](https://www.youtube.com/c/soydalto) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：HTML、CSS、JavaScript、前端 \
-Featured playlists: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Desarrollo Web desde CERO (Completos)`, `Aprende a PROGRAMAR (Desde Cero)`.
+精选播放列表：“从零开始的网页设计课程（完成）”、“从零开始的网页开发课程（完成）”、“学习编程（从零开始）”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ1oqKIj6ngUGE7NmB2cHzjqpLMu1RBdh_hlc9I-Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
-关于内容：JavaScript、React、React-Native、Next.js、Node.js、Express、GraphQL、无服务器函数 \
-精选播放列表：“JavaScript 游戏演练”、“克隆”、“区块链”、“JavaScript 内置方法”.  \
-<br />
+关于内容：JavaScript、React、React-Native、Next.js、Node.js、Express、GraphQL \
+精选播放列表：“JavaScript 游戏演练”、“克隆”、“区块链”、“JavaScript 内置方法”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTJ0chZDvUfej-9AQi2HoKOzl6v-la1EIiZRQP2=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 
@@ -657,13 +646,13 @@ Featured playlists: `Curso de DISEÑO WEB desde CERO (Completo)`, `Cursos de Des
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQelvtRQ9bX4eu2G8kuazXvSUf6OoqdHkjCfcNQA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/zachstar)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Zach Star**](https://www.youtube.com/c/zachstar) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Math \
+内容：数学\
 精选播放列表：“应用数学”、“数学专业”、“计算机科学/计算机工程”、“电气工程”、“机械工程”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzn7b7O3zaktjJRfJx0qDfDw9TqLFIA_1BoAknkxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DomainofScience)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Domain of Science**](https://www.youtube.com/c/DomainofScience) \
-内容关于：数学，量子物理 \
+内容：数学、量子物理 \
 精选播放列表：“数学视频 - 科学领域”、“扩展的量子物理地图”、“我为 D-Wave 系统制作的视频”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymfSKeH0q1Kz4GL9ThzSi7l-E0BfKJ1twcudEF=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/nesoacademy)
@@ -721,8 +710,7 @@ Content about: 计算机科学与通用编程 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Socratica**](https://www.youtube.com/c/Socratica) \
 内容：数学、计算机、普通科学 \
-精选播放列表：“抽象代数”、“学习 Python 播放列表”、“学习视频”、“更多科学主题”.  \
-<br />
+精选播放列表：“抽象代数”、“学习 Python 播放列表”、“学习视频”、“更多科学主题”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngK_x_ibq6xRq-NExEjxP7EnPSYDhUbDHoacpgF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 
@@ -734,13 +722,13 @@ Content about: 计算机科学与通用编程 \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjxmp9I5SL4FJUX1HWlg0k3jZVimZ6aNmuhPDJL=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**mycodeschool**](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) \
-Content about: C/C++ language, Data structures, Algorithm \
+内容：C/C++语言、数据结构、算法\
 精选播放列表：“排序算法”、“数据结构”、“C/C++ 中的指针”、“C 语言编程简介”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnghnfeWSkURz0encxxAgmx5r-vl2jDviqvmYcC3=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GaryExplains)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Gary Explains**](https://www.youtube.com/c/GaryExplains) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容：概念、理论\
+内容：概念、理论 \
 精选播放列表：“Raspberry Pi”、“微控制器”、“编程”、“Linux”、“更多！”.  \
 <br />
 
@@ -780,22 +768,19 @@ Content about: C/C++ language, Data structures, Algorithm \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Abhishek Thakur**](https://www.youtube.com/c/AbhishekThakurAbhi) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容：实用视频，讲座\
-精选播放列表：`Applied Machine Learning Framework`、`Tips &amp; Tricks of machine learning`、`更多视频！`.  \
-<br />
+精选播放列表：`Applied Machine Learning Framework`、`Tips &amp; Tricks of machine learning`、`更多视频！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzcgfOw6DSoVxxHTvIKlZFG4MjZI9TbJGzAUNQC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AhladKumar)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Ahlad Kumar**](https://www.youtube.com/c/AhladKumar) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 Content about: 深度学习, 理论\
-精选播放列表：“深度学习”、“卷积神经网络”、“神经网络播放列表”、“更多播放列表！”.  \
-<br />
+精选播放列表：“深度学习”、“卷积神经网络”、“神经网络播放列表”、“更多播放列表！”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzv0OdI3kcpMnihQtHt9aJOSEzPNuXqxIV7mgPP3w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AladdinPersson)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Aladdin Persson**](https://www.youtube.com/c/AladdinPersson) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容：PyTorch、TensorFlow \
-精选播放列表：“PyTorch 教程”、“TensorFlow 2.0 初学者教程”、“机器学习算法”.  \
-<br />
+内容关于：PyTorch、TensorFlow \
+精选播放列表：“PyTorch 教程”、“TensorFlow 2.0 初学者教程”、“机器学习算法”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx7amajt6o275iRs_Pv-Rh_P73dM1b3C43ih0LtSsw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AndreasMueller)
 
@@ -868,8 +853,7 @@ Content about: 人工智能、神经网络 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ScriptersWar**](https://www.youtube.com/c/ScriptersWar) \
 关于内容：JavaScript、HTML5 \
-精选播放列表：`如何制作 HTML5 游戏：面向初学者的 JavaScript 教程 JS 指南`，`更多视频`.  \
-<br />
+精选播放列表：`如何制作 HTML5 游戏：面向初学者的 JavaScript 教程 JS 指南`，`更多视频`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwlfHgIE-uCnJ3F3kWlJUJwXwGaYu-lDiTrt56GZQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Brackeys)
 
@@ -881,8 +865,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
 内容关于：GameMaker Studio、提示和计划播放列表 \
-精选播放列表：`你会蜗牛吗？  - 全面开发.`、`游戏开发技巧`、`如何开始游戏开发.`.  \
-<br />
+精选播放列表：`你会蜗牛吗？  - 全面开发.`、`游戏开发技巧`、`如何开始游戏开发.`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytTySK0c9M6APiuFRUiyGrBVToA1aAUse95O6ZjQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RealTutsGML)
 
@@ -900,8 +883,7 @@ Content about: 游戏设计、动画\
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Chris Courses**](https://www.youtube.com/c/ChrisCourses) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 关于内容：HTML5 Canvas、JavaScript \
-精选播放列表：`HTML5 Canvas 初学者教程 | 成为 Canvas Pro`、`其他 JavaScript 相关视频`.  \
-<br />
+精选播放列表：`HTML5 Canvas 初学者教程 | 成为 Canvas Pro`、`其他 JavaScript 相关视频`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxr-B_J2JaFQFAWAGI62RfHmCFVvt6rQocEeopqEw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Zenva)
 
@@ -950,8 +932,7 @@ Content about: GODOT, 2D, GameMaker \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Meth Meth Method**](https://www.youtube.com/c/MethMethMethod) \
 内容关于：JavaScript \
-精选播放列表：`用 JavaScript 编写的超级马里奥兄弟`、`用 Javascript 创建俄罗斯方块在线多人游戏`.  \
-<br />
+精选播放列表：`用 JavaScript 编写的超级马里奥兄弟`、`用 Javascript 创建俄罗斯方块在线多人游戏`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhrvrwkYlzE7Ipcl_JHCJGWgObDB1Mm2wXx2F3_Ww=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg)
 
@@ -988,7 +969,7 @@ Content about: 电子游戏制作, 独立游戏开发的幕后\
 
 ## Cybersecurity
 
-安全是我们所有人都应该关心的事情. 了解如何保护自己免受攻击者或恶意软件的侵害. 通过道德黑客教程，还可以了解黑客是如何深入了解他们内部发生的事情的.
+Security is something we all should care about. Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxXEBqSlbr0Gm-VRnA6Q7alt4cZA_kfu1fkWdgr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DavidBombal)
 
@@ -1001,8 +982,7 @@ Content about: 电子游戏制作, 独立游戏开发的幕后\
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Andreas Kling**](https://www.youtube.com/c/AndreasKling) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：黑客\
-精选播放列表：`Browser hacking`、`DevTools hacking`、`OS hacking`、`SerenityOS`、`Emulator hacking`.  \
-<br />
+精选播放列表：`Browser hacking`、`DevTools hacking`、`OS hacking`、`SerenityOS`、`Emulator hacking`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzNrZ0R2UonwEPRLM-mu3cqjLu2SUVG2VSev7jtGw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
 
@@ -1020,8 +1000,7 @@ Content about: 电子游戏制作, 独立游戏开发的幕后\
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**LiveOverflow**](https://www.youtube.com/c/LiveOverflow) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容关于：道德黑客\
-精选播放列表：“浏览器开发”、“硬件安全研究/移动”、“二进制开发”.  \
-<br />
+精选播放列表：“浏览器开发”、“硬件安全研究/移动”、“二进制开发”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwX8qUlbr3ikiGsK_1TEe5i6ALRLhVXfDieN2ni=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 
@@ -1078,21 +1057,20 @@ Content about: 网络安全 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Network Direction**](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：网络\
-精选播放列表：“网络方向”、“网络基础”、“防火墙和 LAN 视频”.  \
+Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and LAN videos`. \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3fRhADkbhwzuqg1IdgIxpJBsmTpwPwEJ5yH4Jg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworKingInc)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容：网络，CCNA \
-Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
+精选播放列表：`全系列 |  200-301 CCNA |  2020 年免费思科视频培训 |  Networking Inc.`，`其他网络视频`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容：网络硬件与其他概念，有助于视觉效果. 还有关于 A+ 和 Net+ 的速成课程.  \
-精选播放列表：“信息技术”、“CompTIA 认证”.  \
-<br />
+精选播放列表：“信息技术”、“CompTIA 认证”.
 
 
 ## Software in general
@@ -1102,7 +1080,7 @@ Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容关于：谷歌电子表格\
+Content about: Google Spreadsheets \
 精选播放列表：`Google Sheets - 基本技能`、`Google Apps Scripts - Fundamental`.  \
 <br />
 
@@ -1172,7 +1150,7 @@ Content about: 理论视频 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ArmaganVideos**](https://www.youtube.com/c/armaganvideos) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Adob​​e Illustrator, 插图, 平面设计 \
-精选播放列表：“教程 - 插画家”、“教程 - After Effects”、“教程 - 平面设计”.  \
+精选播放列表：`Tutorials - Illustrator`、`Tutorials - After Effects`、`Tutorials - Flat Design`.  \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlxT8H3XaR4aTb9gpiNUAGid4XnpKk8Sk1N7BG=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TTTutorials)
@@ -1222,7 +1200,7 @@ Content about: Procreate, Ipad/平板绘图\
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSW8zG2RFieP7BLOdCwMe3LNFNrb4Yia3IViynleg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Charli Marie TV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容关于：网页、平面设计\
+内容关于：网页，平面设计\
 精选播放列表：“设计职业”、“工作流程”、“设计聊天”、“作为设计师的自由职业者”.  \
 <br />
 
@@ -1268,8 +1246,7 @@ Content about: After Effects, 动画 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 Content about: Blender, 3D 建模 \
-精选播放列表：`Blender 初学者教程系列`、`Blender 造型椅教程`、`沙发教程系列`.  \
-<br />
+精选播放列表：`Blender 初学者教程系列`、`Blender 造型椅教程`、`沙发教程系列`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/badgesgabbitt)
 
@@ -1309,6 +1286,20 @@ Content about: Blender, 3D 建模 \
 内容：所有硬件\
 精选播放列表：“构建指南、购买指南和终极指南”、“计算机系统和一体机”、“CPU、主板、内存视频”、“更多”.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-fScLPO4kV3revBwVIkhHokXoDyfVl4FKPquTuyg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GamersNexus)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Gamers Nexus**](https://www.youtube.com/c/GamersNexus) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+内容：所有硬件\
+精选播放列表：“硬件新闻”、“PC 机箱评论”、“预建游戏 PC 评论”、“更多”.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Jayztwocents)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**JayzTwoCents**](https://www.youtube.com/c/Jayztwocents) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+内容：所有硬件\
+精选播放列表：`PC Building`、`GPU`、`Custom Builds`.  \
+<br />
+
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzuLlqZ7x3U3Nbdg8BuL0GGAkQh00S9Sh87UTUV_Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Educ8s)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
@@ -1337,7 +1328,81 @@ Content about: Raspberry Pi, 电子产品, 操作系统 \
 <br />
 
 
-## Life skills and job searching
+## Job searching and competitive programming
+
+大多数公司的面试过程都涉及编码挑战. 竞争性编程就像在 Internet 上举行的一项运动，程序员将在其中相互竞争. 下面的列表包含一些您可以关注的频道，以提高您的竞争性编程技能.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-vxWUfyxiYaed6g7no_ja24Sk4bOQvqy3vOA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/tusharroy2525)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Tushar Roy - Coding Made Simple**](https://www.youtube.com/user/tusharroy2525) \
+Content about: 数据结构与算法、动态规划、Leetcode \
+精选播放列表：“动态编程”、“图形算法”、“二叉树”.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-4yBAeUqkQJoGr-uFZWKanliUJj6UjshqqAcBGMt0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GauravSensei)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Gaurav Sen**](https://www.youtube.com/c/GauravSensei) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: 系统设计、数据结构和算法 \
+精选播放列表：`System Design`、`Competitive Programming AZ`.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/efrVnDJbJOQ5XcXrrFhA9V2wTXh6gP_i0KycoYjqhN3nEh6VbCgqMQakAcFqEsguw7wxhHEjnA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ByteByteGo)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**ByteByteGo**](https://www.youtube.com/c/ByteByteGo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: 大型系统设计 \
+精选播放列表：“系统设计你应该知道的算法”、“系统设计基础”、“系统设计面试”.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9dupLKLe6WOebxccdC3Im4aHMfCR9M4GjydKOZ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**CS Dojo**](https://www.youtube.com/c/CSDojo) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+内容：数据结构和算法 \
+精选播放列表：“数据结构和算法”、“编码面试问题和答案”.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-mNYkWKdRO5UORKk8xmG_Gyb11N4PbiJ0BZlZW8Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BackToBackSWE)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Back To Back SWE**](https://www.youtube.com/c/BackToBackSWE) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Leetcode, 软件工程面试 \
+精选播放列表：“树、二叉树和二叉搜索树”、“排序、搜索和堆”、“动态编程、递归和回溯”、“图形、贪心算法和其他”. 
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8aa8BR8qGCyjKSHpnt5qCFReOEZ_xTtK3hqknPgA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Errichto)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Errichto**](https://www.youtube.com/c/Errichto) \
+内容：Leetcode, Codeforces \
+精选播放列表：`Codeforces Problems`、`Leetcode Coding Interview Problems`.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/FqiGBOsNpeWbNw20ULboW0jy88JdpqFO9a-YRJ0C2oc4lZ8uoHYJ38PWSkrjdC_zQgNW9pGU=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NeetCode)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**NeetCode**](https://www.youtube.com/c/NeetCode) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+Content about: Leetcode, 编程面试 \
+精选播放列表：`LeetCode East`、`LeetCode Medium`、`LeetCode Hard`.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/l6tytj3otBUbkVMXgsVo_FOrh4u0CVN9JV7yEOFFq2kKFsWOYs2LfKy7ib-aLd2lgZb6cZvZeQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Kevin Naughton Jr.**](https://www.youtube.com/c/KevinNaughtonJr) \
+Content about: Leetcode, 编程面试 \
+精选播放列表：“技术面试问题”.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/0B67SieAFdmemnoCm-AlJ80ZDGgIUA2dBo1KwwzFfXONnXT0oFPNKD11fT72LMXiqeWdKDSAVw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NickWhite)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Nick White**](https://www.youtube.com/c/NickWhite) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+Content about: Leetcode, HackerRank, Coding Interview \
+精选播放列表：`LeetCode 解决方案`、`HackerRank 解决方案`.  \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/piIn5ZHTD7ytOym1FFSGBrZdfnUD1OHwP4AbjDpyQWAWj4YRgur6vUJn2Qa3EVc2pHcQVlQrVQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PriyanshAgarwal)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Priyansh Agarwal**](https://www.youtube.com/c/PriyanshAgarwal) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
+关于内容：Code Chef、Codeforces \
+精选播放列表：`Codeforces Screencasts`.  \
+<br />
+
+
+## Life skills
 
 在观看这些教程时，您的专业方面可以得到加强. 重要的是要知道如何管理你的钱并跟踪它，以及获得你想要的工作或自己开始工作的技巧. 还可以找到编码/设计/技术公司的面试方法.
 
@@ -1350,9 +1415,8 @@ Content about: 求职, 一般技能, 生活小贴士 \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**mayuko**](https://www.youtube.com/c/hellomayuko) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-内容关于：工作提示，健康 \
-精选播放列表：`如何启动您的软件工程职业`、`职业`、`技术`、`健康`.  \
-<br />
+内容关于：工作提示，健康\
+精选播放列表：`如何启动您的软件工程职业`、`职业`、`技术`、`健康`.
 
 [<img align="left" height="94px" width="94px" alt="JChannel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsLfjQGNpQtVWS4hXGxM6F21cdArOL-sTIu9rOXw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/Tychos1)
 
@@ -1365,27 +1429,26 @@ Content about: 求职, 一般技能, 生活小贴士 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Joma Tech**](https://www.youtube.com/c/JomaOppa) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 关于内容：编程、工作机会、薪水、面试 \
-精选播放列表：`Path to Software Engineering`、`Tech Shows`、`Startup Series`、`Interviews`、`Data Science Analytics`.  \
-<br />
+精选播放列表：`Path to Software Engineering`、`Tech Shows`、`Startup Series`、`Interviews`、`Data Science Analytics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-es.svg?sanitize=true" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容关于：推荐、评论\
+内容：推荐、评论\
 精选播放列表：“大量不同的视频”.  \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3OKQ1KaMRIw4g29qkcpz2pC8JTop-9pyXhaY5Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BenjaminCode/)
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Benjamin Code**](https://www.youtube.com/c/BenjaminCode/) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容简介：网络世界普及频道\
+Content about: 网络世界普及频道 \
 精选播放列表：`AWWWARDS`、`Front End`、`Freelancing`.  \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnj1xq-Llm7ooeN_VpilJSoEd_mGg7DJDILT_G8HVw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/QuestcequetuGEEKes)
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Qu'est-ce que Tu GEEKes ?**](https://www.youtube.com/QuestcequetuGEEKes) \
-内容有关：通过来源创作、无权利且无广告的方式向好奇的公众普及计算.  \
+内容：通过来源创作、无权利且无广告的方式向好奇的公众普及计算.  \
 精选播放列表：`Man`、`Rumors`、`Hot`、`Questions GEEKes`.
 
 
@@ -1407,5 +1470,5 @@ Content about: 求职, 一般技能, 生活小贴士 \
 	<br />
 	awesome-youtubers 徽标和相应的徽章/README 图标由<a href="https://github.com/JoseDeFreitas/">José De Freitas</a>制作.
 	<br />
-	徽章/自述文件的创建没有遵循任何设计结构，尽管<a href="/badges/logo.svg">awesome-youtubers 标志</a>的灵感来自于<a href="https://github.com/sindresorhus/awesome/blob/main/badges/logo.svg">awesome 标志</a>和<a href="https://github.com/sindresorhus/awesome-nodejs/blob/master/badges/logo.svg">awesome-nodejs 标志</a>. 两个播放图标是在<a href="https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q">YouTube 徽标</a>的播放按钮之后创建的. 这只是一种表示，我没有使用 YouTube 徽标本身.
+	徽章/自述文件的创建没有遵循任何设计结构，尽管<a href="/badges/logo.svg">awesome-youtubers 标志</a>的灵感来自于<a href="https://github.com/sindresorhus/awesome/blob/main/badges/logo.svg">awesome 标志</a>和<a href="https://github.com/sindresorhus/awesome-nodejs/blob/master/badges/logo.svg">awesome-nodejs 标志</a>. 这两个播放图标是在<a href="https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q">YouTube 徽标</a>的播放按钮之后创建的. 这只是一个代表，我没有使用 YouTube 徽标本身.
 </details>

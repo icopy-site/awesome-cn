@@ -78,11 +78,11 @@
 - [picoDeploy](https://github.com/torch2424/picoDeploy) - 将 Pico-8 推车部署为桌面（电子）和移动（离子）上的独立应用程序.
 - [pico8Grunt](https://github.com/TeamNoComplyGames/pico8Grunt) - pico8 游戏的构建系统，使用 gruntjs.
 - [PICO-EC](https://github.com/JoebRogers/PICO-EC) - 为 PICO-8 梦幻控制台创建的小型场景实体组件库.
-- [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - 一个小型补间/缓动函数库，用于 PICO-8 幻想控制台，灵感来自 Robert Penner 的缓动函数.
+- [PICO-Tween](https://github.com/JoebRogers/PICO-Tween) - A small library of tweening/easing functions for use in the PICO-8 fantasy console, inspired by Robert Penner's easing functions.
 - [p8](https://github.com/jozanza/p8)  - 依赖管理器和构建工具. 让您共享代码/精灵、`require()` 依赖项，并在保存时自动重新加载购物车. 适用于任何外部代码编辑器并支持 [MoonScript](https://moonscript.org/).
 - [MIDI to PICO-8](https://github.com/andmatand/midi-to-pico8) - 将 MIDI 文件转换为 PICO-8 音乐的工具.
 - [midi2pico](https://github.com/gamax92/midi2pico) - 一个 MIDI 到 PICO-8 的转换器.
-- [Denote](https://bikibird.itch.io/denote) - Converts MIDI files into SFX data-- interactive and web based.
+- [Denote](https://bikibird.itch.io/denote) - 将 MIDI 文件转换为 SFX 数据——交互式和基于网络.
 - [Custom template](https://www.lexaloffle.com/bbs/?tid=31000) - 一个简单而干净的模板，可以解决全屏、鼠标问题，而且看起来不错.
 - [Fillp Tool](https://seansleblanc.itch.io/pico-8-fillp-tool) - 一个用于生成填充模式的简单辅助工具.
 - [Depict](https://bikibird.itch.io/depict) - 使用 PICO-8 颜色将图像转换为抖动图像，并将其减小到最大尺寸 128 x 128.
@@ -90,13 +90,14 @@
 - [pico8-deploy](https://github.com/tducasse/pico8-deploy) - 一种将 PICO-8 项目导出和部署到 itch.io 的简单方法
 - [yap8b](https://github.com/Enerccio/yap8b) - 用于从多个源文件创建 pico 购物车的构建工具.
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - 使用 TypeScript 创建 PICO-8 游戏.
+- [Shrinko8](https://github.com/thisismypassport/shrinko8)  - 一个积极缩小 Pico-8 代码大小的缩小器. 还包括一个 linter 和其他工具.
 
 ### Text Editors Language Support
 
 - 视觉工作室代码： [pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 语言服务器，为 Lua 的 PICO-8 方言提供完整的语言支持.
 - 原子： [language-pico8](https://atom.io/packages/language-pico8)
 - 崇高： [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - 用于 Sublime 文本编辑器的 PICO-8 插件（配色方案、字体、构建系统、代码完成、片段......）.
-- 维姆： [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
+- 因为： [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
 - Emacs： [pico8-mode](https://github.com/Kaali/pico8-mode)
 
 ### Programming Fonts
