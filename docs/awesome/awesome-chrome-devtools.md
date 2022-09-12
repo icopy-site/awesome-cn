@@ -116,7 +116,7 @@
 ## DevTools Extensions
 
 ### Accessibility (A11y)
-- [Chromelens](http://chromelens.xyz) - 了解您的 Web 应用程序对于具有不同视力类型的人的外观以及用户在浏览您的页面时的路径.
+- [Chromelens](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd) - 查看您的 Web 应用程序对于具有不同视觉类型的人的外观以及用户在浏览您的页面时的路径.
 
 ### Workflow
 - [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - 查看 PHP 应用程序分析数据.

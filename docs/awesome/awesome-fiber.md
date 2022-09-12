@@ -25,19 +25,20 @@ Fiber 框架中包含的中间件列表.
 - [CORS](https://github.com/gofiber/fiber/tree/master/middleware/cors) - 使用各种选项启用跨域资源共享 (CORS).
 - [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - 防止 CSRF 漏洞利用.
 - [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - 加密中间件，加密 cookie 值.
-- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件让缓存更高效并节省带宽，因为如果内容没有更改，Web 服务器不需要重新发送完整响应.
-- [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
+- [EnvVar](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - 通过提供可选配置来公开环境变量.
+- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件使缓存更高效并节省带宽，因为如果内容没有更改，Web 服务器不需要重新发送完整响应.
+- [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - 通过其 HTTP 服务器运行时提供服务的 Expvar 中间件以 JSON 格式公开变体.
 - [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - 如果提供了文件路径，则忽略日志中的网站图标或从内存中提供服务.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - 用于 Fiber 的 FileSystem 中间件，特别感谢 Alireza Salary.
 - [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter)  - 限速中间件. 用于限制对公共 API 和/或端点的重复请求，例如密码重置.
 - [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP 请求/响应记录器.
 - [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - 监控报告服务器指标的中间件，受 express-status-monitor 启发.
-- [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof 中间件，通过其 HTTP 服务器运行时分析数据以 pprof 可视化工具预期的格式提供服务.
+- [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof 中间件通过其 HTTP 服务器运行时分析数据以 pprof 可视化工具预期的格式提供服务.
 - [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - 允许您将请求代理到多个服务器.
 - [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - 恢复中间件从堆栈链中任何地方的恐慌中恢复，并将控制权交给集中式 ErrorHandler.
 - [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - 为每个请求添加一个 requestid.
 - [Session](https://github.com/gofiber/fiber/tree/master/middleware/session)  - 会话中间件. 注意：这个中间件使用我们的存储包.
-- [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - 跳过包装处理程序的跳过中间件是谓词为真.
+- [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
 - [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - 为请求添加最大时间，如果超过则转发给 ErrorHandler.
 
 ### 🔗 External
@@ -128,6 +129,7 @@ Fiber 的预制样板.
 - [Fiber v1.8. What's new, updated and re-thinked?](https://dev.to/koddr/fiber-v1-8-what-s-new-updated-and-re-thinked-339h)
 - [Fiber released v1.7! What\'s new and is it still fast, flexible and friendly?](https://dev.to/koddr/fiber-v2-is-out-now-what-s-new-and-is-he-still-fast-flexible-and-friendly-3ipf)
 - [Welcome to Fiber — an Express.js styled web framework written in Go with ❤️](https://dev.to/koddr/welcome-to-fiber-an-express-js-styled-fastest-web-framework-written-with-on-golang-497)
+- [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 
 ## 🤖 Benchmarks
 将 Fiber 与其他框架进行比较的几个基准.

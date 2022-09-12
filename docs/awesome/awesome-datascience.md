@@ -25,7 +25,7 @@
 
  | 链接 | 预览 |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者解决定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快在计算机科学课程中被教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
@@ -40,6 +40,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Algorithms
+**[`^        back to top        ^`](#awesome-data-science)**
 
 这些是一些机器学习和数据挖掘算法和模型，可帮助您理解数据并从中获得意义.
 
@@ -113,10 +114,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络（GAN）
+- 生成对抗网络 (GAN)
 - 自组织地图
 
 ## COLLEGES
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
@@ -137,6 +139,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [S2DS](https://www.s2ds.org/)
 
 ## MOOC's
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -175,6 +178,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Tutorials
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用 ipyton 在浏览器上运行.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) 针对 R 生态系统的每周数据项目.
@@ -201,6 +205,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Toolboxes - Environment
+**[`^        back to top        ^`](#awesome-data-science)**
 
  | 链接 | 说明 |
 | --- | --- |
@@ -294,6 +299,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Machine Learning in General Purpose
+**[`^        back to top        ^`](#awesome-data-science)**
 
 * [scikit-learn](https://scikit-learn.org/)
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
@@ -375,6 +381,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Visualization Tools - Environments
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [altair](https://altair-viz.github.io/)
 - [addepar](https://opensource.addepar.com/ember-charts/#/overview)
@@ -417,6 +424,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Journals, Publications and Magazines
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [ICML](https://icml.cc/2015/) - 机器学习国际会议
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议（GECCO）
@@ -433,6 +441,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [all AI news](https://allainews.com/) - AI/ML/大数据新闻聚合平台
 
 ## Presentations
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 - [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -447,6 +456,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Podcasts
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
@@ -476,6 +486,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 
 ## Books
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
@@ -549,9 +560,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
 ## Socialize
+**[`^        back to top        ^`](#awesome-data-science)**
 
 
 ## Bloggers
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - 韦斯麦金尼档案.
 - [Matthew Russell](https://miningthesocialweb.com/) - 挖掘社交网络.
@@ -567,7 +580,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
 - [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部设在英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.
@@ -640,6 +653,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Facebook Accounts
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -665,6 +679,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Twitter Accounts
+**[`^        back to top        ^`](#awesome-data-science)**
 
  | 推特 | 说明 |
 | --- | --- |
@@ -736,6 +751,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Newsletters
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [AI Digest](https://aidigest.net/) . 每周时事通讯，以了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
@@ -743,6 +759,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Youtube Videos & Channels
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -775,6 +792,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Telegram Channels
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Open Data Science](https://t.me/opendatascience)  – 第一个电报数据科学频道. 涵盖与数据科学相关的所有技术和受欢迎的员工：人工智能、大数据、机器学习、统计学、普通数学和前者的应用.
 - [Loss function porn](https://t.me/loss_function_porn) — 带有视频或图形可视化的 DS/ML 主题的精美帖子.
@@ -806,6 +824,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 
 ## Infographic
+**[`^        back to top        ^`](#awesome-data-science)**
 
  | 预览 | 说明 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -824,6 +843,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 一种简单而友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ## Data Sets
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -880,6 +900,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
 ## Comics
+**[`^        back to top        ^`](#awesome-data-science)**
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)

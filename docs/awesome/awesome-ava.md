@@ -41,6 +41,7 @@
 - [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) - 通过 Puppeteer 测试 Web 组件.
 - [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - 与 AVA 兼容的 JSON 输出.
 - [ava-typescript-worker](https://github.com/seamapi/ava-typescript-worker) - 在共享工作者中使用 TypeScript
+- [ava-postgres](https://github.com/seamapi/ava-postgres) - 为每个测试获取一个新的 Postgres 数据库
 - [pava](https://github.com/TomerAberbach/pava) - 参数化测试.
 
 ## Works with AVA

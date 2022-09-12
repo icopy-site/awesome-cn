@@ -22,7 +22,7 @@
 ## Browser automation
 
 - [Selenium](https://github.com/SeleniumHQ/selenium) - 浏览器自动化框架和生态系统.
-- [SlimerJS](https://github.com/laurentj/slimerjs) - 可编写脚本的浏览器，如 PhantomJS，基于 Firefox.
+- [SlimerJS](https://github.com/laurentj/slimerjs) - 基于 Firefox 的可编写脚本的浏览器，例如 PhantomJS.
 - [trifleJS](https://github.com/sdesalas/trifleJS) - Internet Explorer 的无头自动化.
 - [CasperJS](https://github.com/casperjs/casperjs) - PhantomJS 和 SlimerJS 的导航脚本和测试实用程序.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - W3C WebDriver 协议的 Node.js 绑定实现.
@@ -49,7 +49,7 @@
 - [Needle](https://github.com/python-needle/needle) - Needle 是一个使用 Selenium 和鼻子 (Python) 测试视觉效果的工具.
 - [gatling](https://github.com/gabrielrotbart/gatling) - 集成的可视化 RSpec 匹配器，使真正的可视化测试变得容易（Ruby）.
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) - 通过您网站的截图照片会话防止您的项目布局损坏的插件.
-- [vrtest](https://github.com/nathanmarks/vrtest) - JavaScript 库，用于通过 selenium 跨浏览器在组件上运行视觉回归测试.
+- [vrtest](https://github.com/nathanmarks/vrtest) - 用于通过 selenium 跨浏览器在组件上运行视觉回归测试的 JavaScript 库.
 - [Happo](https://github.com/Galooshi/happo) - 用户界面的 CI 中的视觉差异.
 - [reg-cli](https://github.com/bokuweb/reg-cli) - 可视化回归测试工具，输出易于阅读的单文件 html 报告.
 - [Nightmare](https://github.com/segmentio/nightmare) - 基于 Electron 的高级浏览器自动化库.
@@ -80,6 +80,7 @@
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com)  - 开源免费. 支持 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+- [BugBug.io](https://bugbug.io/)  - 用于 Web 应用程序的轻量级测试自动化工具. 易于学习，不需要编码. 它是免费的，有无限的测试. 支付额外的月费，您还可以获得云监控和 CI/CD 集成.
 - [HeadSpin](https://www.headspin.io/) - HeadSpin 的回归测试为您提供了一个强大的比较工具，用于分析新应用程序构建、操作系统版本、功能添加、位置等的退化.
 - [LambdaTest](https://www.lambdatest.com/) - 在线对 2000 多个真实浏览器和操作系统执行自动化和实时交互式跨浏览器测试.
 - [screener.io](https://screener.io) - 对于 React，看起来是开源的.
@@ -101,7 +102,7 @@
 - [Vidiff](https://vidiff.com) - 跨阶段的基于云的视觉回归测试.
 - [Reflect](https://reflect.run) - 视觉回归测试和测试自动化工具.
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - 用于视觉回归测试的开源自托管服务
-- [Micoo](https://github.com/Mikuu/Micoo) - 所有UI应用视觉回归解决方案的开源服务
+- [Micoo](https://github.com/Mikuu/Micoo) - 所有UI应用可视化回归解决方案的开源服务
 - [TestingBot](https://testingbot.com)  - 提供 +3600 个浏览器来运行自动化视觉测试. 开源免费.
 - [Preflight](https://preflight.com)  - 最简单的视觉回归测试和自动化 Web 测试工具.  （有限）免费使用.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - 在您的浏览器中创建 AI 驱动的赛普拉斯测试/POM 模型，并为赛普拉斯自动执行电子邮件和视觉测试.
@@ -125,7 +126,8 @@
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
 - [theheadless.dev](https://theheadless.dev) - 包含实用指南和 Playwright 和 Puppeteer 的可运行示例的博客.
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - 如何使用 BackstopJS 自动化 Hugo 的回归测试
-- [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - 介绍如何使用 Mioo 服务进行视觉回归测试 
+- [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - 介绍如何使用 Mioo 服务进行视觉回归测试
+- [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - 使用 PerfectPixel chrome 插件改进了手动视觉回归测试.
 
 ## Slideshows, talks and videos
 
@@ -136,7 +138,7 @@
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - 关于如何使用 Screenster 创建可视化自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - 演示 Look-alike Chrome 扩展是什么，它是如何工作的，以及它是如何以及为什么构建的.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - 如何用 CSS 评论家编写你的第一个 CSS 测试，让它通过，打破它，让它再次通过.
-- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者 Nikhil Verma - Badoo 中的移动 Web 团队如何将 PhantomCSS 转换并集成到他们的工作流程中，并将其连接到他们的 CI 流程.
+- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者 Nikhil Verma - Badoo 中的移动网络团队如何将 PhantomCSS 转换并集成到他们的工作流程中，并将其连接到他们的 CI 流程.
 - [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo&ab_channel=Fireship) - Fireship 的介绍视频. 
 
 ## Deprecated
@@ -174,4 +176,4 @@
 [![CC-BY-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 本作品已获得许可 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
-执照持有人是 [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).
+许可证持有人是 [all contributors](https://github.com/mojoaxel/awesome-regression-testing/graphs/contributors).

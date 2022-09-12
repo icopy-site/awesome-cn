@@ -33,7 +33,7 @@
 }
 ```
 
-现在元素将被去除边距和填充，并且 `box-sizing` 允许您使用 CSS 盒子模型管理布局.
+现在元素将被去除边距和填充，并且 `box-sizing` 允许您使用 CSS 盒模型管理布局.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
@@ -139,7 +139,7 @@ html {
     /* 全名 */
     本地（“潮湿的单声道”），
     /* 后记名称 */
-    本地（“潮湿的单声道”），
+    local(&quot;Dank-Mono&quot;),
      /* 否则，下载它！  */
     url(&quot;//...a.server/fonts/DankMono.woff&quot;);
 }

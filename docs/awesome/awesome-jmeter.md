@@ -87,6 +87,8 @@
 ### Conversion
 
 - [swaggerjmx](https://github.com/Pactortester/swaggerjmx) - 将 Swagger UI 规范转换为 JMeter 测试计划的工具.
+- [postman2jmx](https://github.com/Loadium/postman2jmx) - Postman 集合到 JMeter jmx 文件转换器.
+- [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) - 将 Postman 项目转换为 JMeter.
 
 ## CI
 
@@ -185,7 +187,7 @@
 
 <!--lint ignore double-link-->
 - InfluxDB &amp; Grafana
-  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) - 使用 InfluxDB 和 Grafana 收集和可视化实时测试结果和服务器监控统计数据的指南集合.
+  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test results and server monitoring stats using InfluxDB & Grafana.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   - [jmeterReports](https://github.com/kirillyu/jmeterReports) - 使用 Grafana 自定义仪表板自动生成的 JMeter 测试运行结果报告给 Confluence :ru:.
   - [InfluxDB Community Template for JMeter](https://github.com/influxdata/community-templates/tree/master/apache_jmeter) - 预打包的 InfluxDB 配置包含从仪表板和 Telegraf 配置到单个清单文件中的通知和警报的所有内容.
@@ -331,7 +333,7 @@
 - [JMeter: Performance and Load Testing (Feb 2019)](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - 通过领英学习.
 - [Advanced JMeter (Jul 2020)](https://www.linkedin.com/learning/advanced-jmeter) - 通过领英学习.
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - 通过 NobleProg.
-- [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
+- [BlazeMeter University](https://www.blazemeter.com/university/) - 通过 BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - 由 Udemy.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - 由实用测试实验室提供.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - 由 Ubik Ingenierie 提供.

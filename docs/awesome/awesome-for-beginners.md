@@ -230,6 +230,7 @@
 - [datascience](https://github.com/data-8/datascience)  _（标签：好第一期）_<br> 用于介绍数据科学的 Jupyter 笔记本 Python 库.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django)  _（标签：hacktoberfest）_<br> 用于后端 Web 开发的 Python 实现.
 - [Fabric](https://github.com/fabric/fabric)  _（标签：低垂的果实）_<br>  Pythonic 远程执行和部署.
+- [H2O Wave](https://github.com/h2oai/wave)  _（标签：好第一期）_<br> 适用于 Python 和 R 的实时 Web 应用程序和仪表板框架.适合（不仅）AI 受众.
 - [jarvis](https://github.com/sukeesh/Jarvis)  _（标签：难度/新人）_<br> 基于命令行界面的 Linux、MacO 和 Windows 个人助理.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)  _（标签：低挂水果）_<br> 一个社区驱动的 Python 机器人，旨在尽可能简单地为人类提供日常任务 http://m.me/JARVISon.Messenger
 - [Jupyter notebook](https://github.com/jupyter/notebook)  _（标签：好第一期）_<br>  Jupyter 交互式笔记本.
@@ -242,7 +243,7 @@
 - [mygpo](https://github.com/gpodder/mygpo)  _（标签：入门问题）_<br>  gpodder.net 的网络服务，这是一个自由网络服务，允许用户管理他们的播客订阅和发现新内容.
 - [mypy](https://github.com/python/mypy)  _（标签：好第一期）_<br>  python的可选静态类型.
 - [opsdroid](https://github.com/opsdroid/opsdroid)  _（标签：好第一期）_<br> 一个开源聊天操作机器人框架.
-- [pandas](https://github.com/pandas-dev/pandas)  _（标签：好第一期）_<br> 灵活而强大的 Python 数据分析/操作库，提供类似于 R 的数据结构、框架对象、统计函数等
+- [pandas](https://github.com/pandas-dev/pandas)  _（标签：好第一期）_<br> 灵活而强大的 Python 数据分析/操作库，提供类似于 R 的数据结构的标记数据.frame 对象、统计函数等等
 - [Pytest](https://github.com/pytest-dev/pytest)  _（标签：状态：-easy）_<br>  pytest 框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
 - [Python Babel](https://github.com/python-babel/babel)  _（标签：难度/低）_<br>  Python 国际化库.
 - [pythonping](https://github.com/alessandromaggio/pythonping)  _（标签：好第一期）_<br>  PythonPing 是一个简单的库，可以在 Python 中本地执行 ICMP ping，而无需生成 shell.
@@ -315,6 +316,10 @@
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)  _（标签：好第一期）_<br>  Monorepo 用于所有使 ESLint 支持 TypeScript 的工具.
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  _（标签：好第一期）_<br> 一种新型工具，将代码编辑器的简单性与开发人员核心编辑-构建-调试周期所需的功能相结合.
 
+## Typescript
+
+- [H2O Wave](https://github.com/h2oai/wave)  _（标签：好第一期）_<br> 适用于 Python 和 R 的实时 Web 应用程序和仪表板框架.适合（不仅）AI 受众.
+
 
 ## Contribute
 
@@ -322,7 +327,7 @@
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉·安德拉德</b></sub></td></tr></table>
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉安德拉德</b></sub></td></tr></table>
 
 ## License
 
