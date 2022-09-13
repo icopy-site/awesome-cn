@@ -14,7 +14,7 @@
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
-* [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
+* [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​跨多个团队进行大规模 RESTful 集成的经验教训.
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
@@ -39,7 +39,7 @@
 * [OData](http://www.odata.org/)  - 开放协议，允许创建和使用可查询和可互操作的 RESTful API. 相当复杂.
 * [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - 简单的格式，提供了一种一致且简单的方法来在 API 中的资源之间进行超链接（请参阅： [HATEOAS](#hateoas)).
 * [JSON-LD](http://json-ld.org/) - 在 JSON (W3C) 中描述关联数据和超媒体关系的标准.
-* [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的 Web API (W3C) 的词汇.
+* [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的 Web API (W3C) 词汇表.
 * [Schema.org](http://schema.org) - 描述通用数据模型的模式集合.
 * [OpenAPI](https://openapis.org/) - 以前称为 Swagger 规范，OpenAPI 规范是世界上用于定义 Restful API 的最流行的描述格式.
 
@@ -95,7 +95,7 @@
 * [Sails.js](http://sailsjs.org/) - 嵌入命令以自动生成 REST API 的 Node.js Web 框架.
 * [mers](https://github.com/jspears/mers) - 将 Mongoose 查找器公开为 RESTful API 的快速服务.
 * [Baucis](https://github.com/wprl/baucis) - 基于您的 Mongoose 实体构建可扩展的 REST API.
-* [flatiron/resourceful](https://github.com/flatiron/resourceful) - JavaScript 的同构资源引擎.
+* [flatiron/resourceful](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](http://loopback.io/) - 强大的 Node.js 框架，用于创建 API 并轻松连接到后端数据源.
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务 Web 框架，可让您通过 RESTful 资源、套接字和灵活的插件来控制您的数据.
 * [Expressa](https://github.com/thomas4019/expressa) - 使用简单的管理编辑器和权限模型从 JSON 模式创建 API 的快速中间件.
@@ -125,6 +125,10 @@
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - 构建一个遵循 Hydra/JSON-LD 规范的 REST API.
 * [API Platform](https://github.com/api-platform/api-platform) - 专门用于创建超媒体 REST API 的 Symfony 版本.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - 从注释为您的 REST API 生成文档.
+
+### PowerShell
+
+* [Pode](https://github.com/Badgerati/Pode) - Pode 是面向 PowerShell 开发人员的跨平台、开源、社区支持的 Web 服务器和 REST API 框架
 
 ### Python
 
@@ -231,7 +235,7 @@
 * [API Umbrella](https://github.com/NREL/api-umbrella) - 用于公开 Web 服务的 API 管理平台，带有 Web 界面和分析，用 Lua 编写.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - 具有轻量级网关和 API 生命周期管理的 API 管理工具，用 Java 编写.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) - 基于 ExpressJS (Node.js) 构建的微服务 API 网关.
-* [KrakenD](https://github.com/devopsfaith/krakend) Ultra performant API Gateway with middleware. Written in Go.
+* [KrakenD](https://github.com/devopsfaith/krakend) 带有中间件的超高性能 API 网关. 用围棋写的.
 
 ## SaaS Tools
 

@@ -6,7 +6,7 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
+ **Artificial General Intelligence** 的 **awesome &amp; curated** list **Artificial General Intelligence** 是一个新兴的跨学科领域，将人工智能和计算认知科学作为大多数学科结合在一起，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence ***的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
@@ -76,7 +76,7 @@
 
 * [Semantic Scholar](https://www.semanticscholar.org/)  - ***艾伦人工智能研究所***. 人工智能驱动的科学文献研究工具.
 
-* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 从原始纸质数据中提取特征和元数据的语义学者.
+* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5)]. Semantic Scholar with extracting feature and metadata from raw paper data.
 
 * [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5) ].  Semantic Sc​​holar 发布的学术论文的开放语料库.
 
@@ -162,13 +162,13 @@
 
 * [Patterns of abduction](https://link.springer.com/article/10.1007/s11229-007-9223-4) - ***合成***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=15230540023076470385&hl=en&as_sdt=0,5) ]. 纯粹哲学中的溯因分类.
 
-* [Abduction: A categorical characterization](https://www.sciencedirect.com/science/article/pii/S1570868314000895) - ***Journal of Applied Logic***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=17834260152484836885&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Abduction: A categorical characterization](https://www.sciencedirect.com/science/article/pii/S1570868314000895) - ***应用逻辑杂志***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=17834260152484836885&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) - ***科学哲学***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5)].
 
 * [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***合成***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
-* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***综合***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
+* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***Synthese***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***空间认知***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
 
@@ -304,6 +304,7 @@
 
 
 
+
 #### Generative Model
 
 * [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***查普曼和霍尔/CRC***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689&hl=en&as_sdt=0,5) ]. 唐鲁宾关于贝叶斯模型的介绍性书籍.
@@ -396,7 +397,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里 (Susan Carey) 的关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明和捍卫认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里关于儿童发展概念理论的扩展书.
 
@@ -516,7 +517,7 @@
 
 #### Visual Communication
 
-* [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5) ].  Nicolas Fay 关于象似性的原创论文.
+* [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***认知科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5) ].  Nicolas Fay 关于象似性的原创论文.
 
 * [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***语用学与认知***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567&hl=en&as_sdt=0,5) ].  Nicolas Fay 对标志性语言出现的描述.
 
@@ -881,7 +882,7 @@
 
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf) - ***行为和脑科学***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=4648150119820414671&hl=en&as_sdt=0,5)].
 
-* [The embodied mind extended: using words as social tools](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00214/full) - ***Frontiers in Psychology***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=14719988081062606352&hl=en&as_sdt=0,5)].
+* [The embodied mind extended: using words as social tools](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00214/full) - ***心理学前沿***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=14719988081062606352&hl=en&as_sdt=0,5)].
 
 * [Tool use as adaptation](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0408) - ***英国皇家学会哲学汇刊 B：生物科学***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=8060841461200774807&hl=en&as_sdt=0,5)].
 
@@ -931,6 +932,8 @@
 
 #### Scaling Up Behavioral Studies
 
+* [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
+
 * [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数主题来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
@@ -944,6 +947,11 @@
 * [Exploring human cognition using large image databases](https://cocosci.princeton.edu/josh/papers/griffiths-largeimagedatabases-topics2016.pdf) - ***认知科学主题***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=3629906005701226294&hl=en&as_sdt=0,5)].
 
 * [Visual Search at Pinterest](https://web.archive.org/web/20170809024454id_/http://www.kevinjing.com/visual_search_at_pinterest.pdf) - ***KDD&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=2051024301293529405&hl=en&as_sdt=0,5) ].  Pinterest 推荐系统开发中的大规模用户研究.
+
+
+#### Decision Making
+
+* [A computational process-tracing method for measuring people’s planning strategies and how they change over time](https://link.springer.com/article/10.3758/s13428-022-01789-5) - ***行为研究方法***，2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=10405935000926098041) ]. 基于模型的策略识别.
 
 
 #### Question Answering
@@ -1063,6 +1071,8 @@
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
+
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403) ].  Tom Griffiths 的评论通过人类局限性的三个方面来理解人类智能的独特性.
 
 
 <span id = "cogarch"></span>
@@ -1229,7 +1239,7 @@
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
-* [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***认知科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11606362305211066214&hl=en&as_sdt=0,5)].
 
@@ -1393,7 +1403,7 @@
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
 
-* [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/) - ***Plato Stanford***. A computational philosophy account on scientific representation, focusing on how scientific models represent their target systems.
+* [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/)  - ***柏拉图斯坦福***. 关于科学表示的计算哲学帐户，重点关注科学模型如何表示其目标系统.
 
 * [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/)  - ***柏拉图斯坦福***. 一种关于自我知识的计算哲学解释，它通常指的是对自己的心理状态的了解——即一个人的感受或想法，或者一个人的信念或愿望.
 
@@ -1419,7 +1429,7 @@
 
 * [Commonsense reasoning about causality: Deriving behavior from structure](https://www.sciencedirect.com/science/article/abs/pii/0004370284900390) - ***人工智能***，1984 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14940738362673077704)].
 
-* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***人工智能***，1986 年. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5) ].  Benjamin Kuipers 关于定性推理的原始论文.
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***人工智能***，1986 年. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
 
 * [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***麻省理工学院出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465) ].  Benjamin Kuipers 关于定性推理的综合书籍.
 
@@ -1442,7 +1452,7 @@
 * [A Rational Analysis of Rule-Based Concept Learning](https://onlinelibrary.wiley.com/doi/full/10.1080/03640210701802071) - ***认知科学***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=7765061503727822620&hl=en&as_sdt=0,5)].
 
 
-* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci&#39;08***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749&hl=en&as_sdt=0,5)]. 
+* [Theory Acquisition and the Language of Thought](http://www.charleskemp.com/papers/KempGT08.pdf) - ***CogSci'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=1839916602381147749&hl=en&as_sdt=0,5)]. 
 
 * [Theory Acquisition as Stochastic Search](http://web.mit.edu/tomeru/www/papers/tlss2010.pdf) - ***CogSci&#39;10***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=16324634056226561429&hl=en&as_sdt=0,5)].
 
@@ -1739,7 +1749,7 @@
 
 ### UC Berkeley
 
-* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS，伯克利***， [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***伯克利***.
+* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS，伯克利***， [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
 
 * [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***UCB***， [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***心理学系，UCB***.
 

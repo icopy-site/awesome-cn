@@ -38,6 +38,7 @@
 - [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标头、重定向 URL、模拟 API 响应、延迟/限制请求等.
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一个使用 HTTP 转储作为响应源的 Web 服务器. 此工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
 - [Keploy](https://github.com/keploy/keploy) - API 测试平台，自动生成单元测试用例以及来自 API 调用的依赖模拟（测试数据）.
+- [BugBug](https://bugbug.io)  - 用于 Web 应用程序的轻量级测试自动化工具. 易于学习，不需要编码. 它是免费的，有无限的测试. 支付额外的月费，您还可以获得云监控和 CI/CD 集成.
 - [Touca](https://github.com/trytouca/trytouca) - 开源持续回归测试，将软件的行为和性能与以前的基线版本进行比较.
 - [test-each](https://github.com/ehmicky/test-each) - 使用不同的输入重复测试（数据驱动测试）.
 
@@ -49,7 +50,7 @@
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - 为什么您可能希望将您的公司转移到敏捷，以及如何做到这一点的实用建议.
 - [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7)  - 关于如何改进测试以及为什么要这样做的很好的说明性示例. 伟大的作为赢得争论的证据！
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - 我去为刚接触测试的人预订.
-- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 为那些希望作为测试人员过渡到敏捷的人提供指南，以及作者如何在他们的敏捷团队中工作.
+- [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 为那些希望以测试人员身份过渡到敏捷的人提供指导，以及作者如何在他们的敏捷团队中工作.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 一本非常好的关于构建探索性测试和设计测试的书.
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解当今使用的最常见的测试技术，域测试（也称为边界分析和等价类分区），并提供大量示例以变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - 一本对可用性测试非常有用的书.
@@ -64,7 +65,7 @@
 - [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 为开发人员提供如何以系统和有效的方式创建高质量测试的实践指南.
 
 ## Training (Includes developer training for automation testers)
-- [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训清单
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 - [The Dojo](https://dojo.ministryoftesting.com/) - 直接来自测试社区的课程和讲座.
 - [Guru99](http://www.guru99.com/) - 通过经验学习，比视频培训更有趣.
 - [Coursera](https://www.coursera.org/) - 顶尖大学的在线课程.
@@ -80,7 +81,7 @@
 - [Automation Panda](https://automationpanda.com/)
 
 ## Newsletters
-- [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
+- [Software Testing Weekly](https://softwaretestingweekly.com/) - 每周五发布的最佳软件测试新闻和工具的精选集锦.
 
 ## Suggested Awesome Lists
 

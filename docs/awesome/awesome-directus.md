@@ -30,7 +30,7 @@
 - [react-directus](https://github.com/gremo/react-directus) - 一组用于 Directus Headless CMS 的 React 组件和实用程序.
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK 为 Directus API 提供接口.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK 提供对 Directus API 的轻松访问.
-- [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询构建器. 带上你自己的取物.
+- [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询构建器. 带上你自己的取件.
 - [Nuxtus](https://nuxtus.com) - 提供 Nuxt 样板和工具集，以从 Directus 集合自动创建 Nuxt 页面.
 
 ## Extensions
@@ -54,6 +54,7 @@
 - [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - Directus 9 的带有“顶点图表”的迷你图显示.
 - [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M 驱动标签接口.
 - [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - 上传/读取云图像的简单界面.
+- [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - 清理 Directus 的 HTML 输入.
 
 ## Tools
 
