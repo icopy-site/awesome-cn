@@ -46,7 +46,7 @@ _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie
 * [JensenLab](https://jensenlab.org/) - 位于丹麦哥本哈根大学的诺和诺德基金会蛋白质研究中心. 
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - NaCTeM 位于曼彻斯特大学，由 Sophia Ananiadou 教授领导，主要关注文本挖掘，但特别关注生物医学应用.
 * [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - 在过去的 20 年里，Mayo Clinic 的几个小组对 BioIE（例如 Apache cTAKES 平台）做出了重大贡献.
-* [Monarch Initiative](https://monarchinitiative.org/) - 俄勒冈州立大学、俄勒冈健康与科学大学、劳伦斯伯克利国家实验室、杰克逊实验室和其他几个小组的共同努力，寻求“使用语义整合生物信息，并以新颖的方式呈现它，利用表型弥合知识鸿沟”.
+* [Monarch Initiative](https://monarchinitiative.org/) - 俄勒冈州立大学、俄勒冈健康与科学大学、劳伦斯伯克利国家实验室、杰克逊实验室和其他几个小组的共同努力，寻求“使用语义整合生物信息，并以一种新颖的方式呈现它，利用表型弥合知识鸿沟”.
 * [TurkuNLP](https://turkunlp.org/) - 位于图尔库大学，主要关注自然语言处理，专注于生物自然语言处理和临床应用.
 * [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - 位于休斯顿德克萨斯大学健康科学中心生物医学信息学院，由徐华博士领导.
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - 位于弗吉尼亚联邦大学，由 Bridget McInnes 博士领导.
@@ -62,7 +62,7 @@ _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie
 
 ## Journals and Events
 
- BioIE 的跨学科性质意味着该领域的研究人员可以通过多种方式分享他们的发现和工具. 他们可以在期刊上发表论文，这在生物医学和生命科学领域很常见. 他们可以发表会议论文，并在被接受后，在活动中发表海报和/或口头报告； 这是计算机科学和工程领域的常见做法. 会议论文通常以论文集的形式发表. 预印本出版也是一种越来越流行和被机构接受的发表研究结果的方式. 围绕这些正式的书面产品是 [open science](https://en.wikipedia.org/wiki/Open_science)、开放数据和开源：BioIE 研究人员开发的代码、数据和软件是社区的宝贵资源.
+ BioIE 的跨学科性质意味着该领域的研究人员可以通过多种方式分享他们的发现和工具. 他们可能会在期刊上发表论文，这在生物医学和生命科学领域很常见. 他们可以发表会议论文，并在被接受后，在活动中发表海报和/或口头报告； 这是计算机科学和工程领域的常见做法. 会议论文通常以论文集的形式发表. 预印本出版也是一种越来越流行和被机构接受的发表研究结果的方式. 围绕这些正式的书面产品是 [open science](https://en.wikipedia.org/wiki/Open_science)、开放数据和开源：BioIE 研究人员开发的代码、数据和软件是社区的宝贵资源.
 
 ### Journals
 
@@ -97,7 +97,7 @@ BioIE 中的一些活动是围绕正式任务和挑战组织的，在这些任�
 ### Guides
 
 * [Getting Started in Text Mining](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040020)  - Cohen 和 Hunter 对生物文本挖掘的简要介绍. 十多年了，但仍然相当相关. 另见 [earlier paper by the same authors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/).
-* [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) - 2014 年的《分子生物学方法》（非免费）卷.章节涵盖文本挖掘中的介绍性原理、生物科学中的应用以及在临床或医疗安全场景中的潜在用途. 
+* [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) - 2014 年的《分子生物学方法》（非免费）卷.章节涵盖文本挖掘中的介绍性原理、生物科学中的应用以及在临床或医疗安全场景中的使用潜力. 
 
 ### Video Lectures and Online Courses
 
@@ -171,7 +171,7 @@ BioIE 中的一些活动是围绕正式任务和挑战组织的，在这些任�
 以下资源包含生物医学科学中的索引文本文档.
 * [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557)  - 1987 年至 1991 年间的 348,566 个 MEDLINE 条目（标题，有时是摘要）.包括 MeSH 标签. 主要具有历史意义.
 * [PubMed Central Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)  - 一组 PubMed Central 文章可根据传统版权以外的许可使用，但具体许可因出版物和来源而异. 文章以 PDF 和 XML 格式提供.
-* [CORD-19](https://pages.semanticscholar.org/coronavirus-research)  - 有关 COVID-19 的学术手稿语料库. 文章主要来自 PubMed Central 和预印本服务器，尽管该集合还包括关于论文的元数据，但没有全文可用性.
+* [CORD-19](https://github.com/allenai/cord19)  - 有关 COVID-19 的学术手稿语料库. 文章主要来自 PubMed Central 和预印本服务器，尽管该集合还包括关于论文的元数据，但没有全文可用性.
 
 ### Annotated Text Data
 

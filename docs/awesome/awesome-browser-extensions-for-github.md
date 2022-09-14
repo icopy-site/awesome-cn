@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-所有数字每天都会更新，包括扩展在所有浏览器中的总体使用情况、最后发布日期和 GitHub 存储库的星标！
+所有数字每天更新，包括所有浏览器中扩展的总体使用情况、最后发布日期和 GitHub 存储库的星标！
 
 ## Codeless contribution
 
@@ -26,7 +26,7 @@
 
 当您在 GitHub 上收到新通知时显示通知，并在弹出窗口中提供对所有通知的快速访问.
 
-安装：153 | 星数：72 | 最后更新：2022 年 6 月 4 日
+安装：154 | 星数：72 | 最后更新：2022 年 6 月 4 日
 
 
 通过自动将不值得查看的已查看文件标记为已查看的文件，消除拉取请求中的混乱情况.
@@ -44,9 +44,9 @@ GitHub 的下一级代码导航.
 安装：187 | 星数：12 | 最后更新：2022 年 4 月 26 日
 
 
-GitHub Chrome 扩展的 CoderStats 链接显示 GitHub 上当前显示的用户或组织配置文件页面的 CoderStats 页面的链接.
+GitHub Chrome 扩展的 CoderStats 链接显示了指向 GitHub 上当前显示的用户或组织配置文件页面的 CoderStats 页面的链接.
 
-安装：744 | 星数：18 | 最后更新：2020 年 11 月 20 日
+安装：743 | 星数：18 | 最后更新：2020 年 11 月 20 日
 
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
@@ -56,12 +56,12 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 显示每个文件的大小、下载链接以及将文件内容直接复制到剪贴板的选项
 
-安装：40608 | 星数：1650 | 最后更新：2021 年 12 月 25 日
+安装：40611 | 星数：1651 | 最后更新：2021 年 12 月 25 日
 
 
 轻松搜索 GIPHY 以将 GIF 添加到任何 GitHub 评论框中.
 
-安装：6360 | 星数：124 | 最后更新：2022 年 3 月 17 日
+安装：6362 | 星数：125 | 最后更新：2022 年 3 月 17 日
 
 
 为您的出色拉取请求找到最佳 GIF.
@@ -71,10 +71,10 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 从任何 git 存储库快速浏览文件的历史记录.
 
-安装：7257 | 星星：13030 | 最后更新：2020 年 5 月 6 日
+安装：7262 | 星星：13032 | 最后更新：2020 年 5 月 6 日
 
 
-GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
+ GitHub 提供了一个页面，该页面仅在拉取请求的 URL 末尾显示带有 .diff 的差异. 此浏览器扩展通过在该页面上使用 daff 可以更轻松地查看 csv 差异.
 
 安装：15 | 星数： 2 | 最后更新：2021 年 4 月 18 日
 
@@ -96,7 +96,7 @@ GitHub provides a page that only shows diffs with a .diff at the end of the URL 
 
 一个浏览器扩展，它在 GitHub 上为不同的文件类型提供不同的图标.
 
-安装：10000 | 星数：1139 | 最后更新：2022 年 6 月 30 日
+Installs: 10000 | Stars: 1139 | Last update: 30 Jun 2022
 
 
 在 GitHub 源视图中突出显示选定的单词，例如 Sublime Text.
@@ -104,19 +104,19 @@ GitHub provides a page that only shows diffs with a .diff at the end of the URL 
 安装：1000 | 星数：141 | 最后更新：2019 年 10 月 8 日
 
 
-Neat hovercards for GitHub.
+GitHub 的整洁悬停卡.
 
-安装：24674 | 星数：1710 | 最后更新：2021 年 5 月 12 日
+安装：24681 | 星数：1710 | 最后更新：2021 年 5 月 12 日
 
 
 着色问题和 PR 链接以查看其状态（打开、关闭、合并）.
 
-安装：964 | 星数：288 | 最后更新：2021 年 11 月 4 日
+安装：965 | 星数：289 | 最后更新：2021 年 11 月 4 日
 
 
 在 GitHub 上显示 npm 包统计信息
 
-安装：611 | 星数：53 | 最后更新：2020 年 5 月 31 日
+安装：607 | 星数：53 | 最后更新：2020 年 5 月 31 日
 
 
 将已关闭的 GitHub 问题从紫色恢复为红色
@@ -126,17 +126,17 @@ Neat hovercards for GitHub.
 
 自动将存储库大小添加到 GitHub 的存储库摘要.
 
-安装：10000 | 星数：1067 | 最后更新：2020 年 6 月 26 日
+安装：10000 | 星数：1068 | 最后更新：2020 年 6 月 26 日
 
 
 用于查看 GitHub 项目中的故事点的 Chrome 扩展程序.
 
-安装：758 | 星数：60 | 最后更新：2020 年 8 月 17 日
+安装：753 | 星数：60 | 最后更新：2020 年 8 月 17 日
 
 
 在用户个人资料页面上生成一个饼图，显示他们在其存储库中使用的语言的细分.
 
-安装：950 | 星数：41 | 最后更新：2022 年 6 月 16 日
+安装：949 | 星数：41 | 最后更新：2022 年 6 月 16 日
 
 
 此扩展为 GitHub 中的问题、评论、拉取请求、wiki 和讨论添加了所见即所得编辑的简单性. 它接受 Markdown 输入并提供高效的写作，从表格开始.
@@ -156,7 +156,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 
 扩展以恢复当前和最长的连续性.
 
-安装：682 | 星数：214 | 最后更新：2021 年 6 月 30 日
+安装：691 | 星数：214 | 最后更新：2021 年 6 月 30 日
 
 
 用 GitHub 趋势项目替换浏览器新选​​项卡屏幕.
@@ -171,7 +171,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 
 允许您在普通 GitHub 贡献图表和等距像素艺术版本之间切换.
 
-安装：10000 | 星星：3229 | 最后更新：2022 年 3 月 6 日
+安装：10000 | 星数：3230 | 最后更新：2022 年 3 月 6 日
 
 
 在浏览器中添加一个按钮并将此按钮链接到您将配置的 GitHub 存储库的 Chrome 扩展程序，然后在任何网页上只需单击此扩展程序按钮，它将在该存储库中添加带有页面标题的给定链接.
@@ -181,12 +181,12 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 
 查看存储库名称下星号最多的分叉.
 
-安装：1271 | 星数：466 | 最后更新：2021 年 9 月 1 日
+安装：1270 | 星数：466 | 最后更新：2021 年 9 月 1 日
 
 
 在存储库文件查看器中显示文件/文件夹的材料图标. 显示来自 vscode-material-icon-theme VSCode 扩展的相同图标.
 
-安装：5311 | 星数：223 | 最后更新：2022 年 8 月 22 日
+安装：5312 | 星数：224 | 最后更新：2022 年 8 月 22 日
 
 
 在 GitHub 上的源代码上创建指向导入模块（外部或内部）的直接链接的扩展. 支持多种语言，包括常见的 Rust、Go、Python 和 Ruby，以及奇怪的语言，如 Nim、Haskell、Julia 和 Elm.
@@ -204,26 +204,26 @@ Chrome 和 Firefox 扩展，无需离开当前页面即可在弹出窗口中快�
 安装：456 | 星数：137 | 最后更新：2022 年 5 月 9 日
 
 
-显示您的 GitHub 通知未读计数. 支持 GitHub Enterprise 以及仅显示您参与的问题的未读计数的选项.您可以单击该图标以快速查看未读通知.
+显示您的 GitHub 通知未读计数. 支持 GitHub Enterprise 和仅显示您参与的问题的未读计数的选项.您可以单击该图标以快速查看未读通知.
 
-安装：10477 | 星数：1578 | 最后更新：2022 年 3 月 2 日
+安装：10481 | 星数：1580 | 最后更新：2022 年 3 月 2 日
 
 
 过滤不同类别的拉取请求/问题，大大提高生产力. 还建议新的趋势存储库.
 
-安装：123 | 星数：117 | 最后更新：2020 年 3 月 5 日
+安装：123 | 星数：118 | 最后更新：2020 年 3 月 5 日
 
 
  OctoLinker 是在 GitHub 上的文件和项目之间导航的最简单和最好的方法. 它支持 JavaScript、Ruby、Go、PHP、JAVA 等语言. 它适用于 package.json 以及 Gemfiles.
 
-安装：31776 | 星数：5024 | 最后更新：2022 年 7 月 15 日
+安装：31781 | 星星：5025 | 最后更新：2022 年 7 月 15 日
 
 
- OctoPermalinker 是一个浏览器扩展，它在 GitHub 评论/文件中搜索指向分支上文件的链接，并添加一个指向在创建/更新评论/文件时分支指向的位置的链接. 这可以帮助您避免关注发布后损坏的链接. 对于上下文，这里有一些关于损坏的 GitHub 链接的讨论： [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
+OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches, and adds a link to where the branch pointed when the comment/file was made/updated. This helps you avoid following a link that was broken after being posted. For context, here's some discussion about broken GitHub links: [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
 
 例如，假设您正在查看链接到 repo 主分支上的文件的 gist. 在提出要点时，链接有效，但如果文件被删除，链接就会断开.  OctoPermalinker 使用 gist 创建日期来添加仍然有效的永久链接.
 
-安装：170 | 星数：18 | 最后更新：2017 年 5 月 20 日
+安装：174 | 星数：18 | 最后更新：2017 年 5 月 20 日
 
 
 GitHub 和 GitLab 缺少的 IntelliSense 提示
@@ -233,22 +233,22 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 
 对于经常在 GitHub 中阅读源代码并且不想下载或签出太多存储库的开发人员很有用.
 
-安装：437200 | 星星：22165 | 最后更新：2022 年 9 月 8 日
+安装：437225 | 星星：22166 | 最后更新：2022 年 9 月 8 日
 
 
 将 GitHub 的 UI 恢复为其经典外观（在 2020 年 6 月 23 日更新之前具有扁平、圆形和更多空白设计）.
 
-安装：323 | 星数：213 | 最后更新：2021 年 8 月 8 日
+安装：324 | 星数：213 | 最后更新：2021 年 8 月 8 日
 
 
 此浏览器扩展允许您直接从 GitHub 在 IDE 中打开文件，假设您正在处理的存储库已克隆在您的计算机上. 当显示文件的片段时，您的 IDE 会打开该文件并将光标放在所需的行上.
 
-安装：698 | 星数：49 | 最后更新：2022 年 8 月 19 日
+安装：696 | 星数：49 | 最后更新：2022 年 8 月 19 日
 
 
 帮助您跟踪传入和传出的 PR，并在您收到 GitHub 上的拉取请求时通知您.
 
-安装：708 | 星级：98 | 最后更新：2022 年 8 月 23 日
+安装：709 | 星级：98 | 最后更新：2022 年 8 月 23 日
 
 
 显示哪些拉取请求包含与文件相关的更改的浏览器扩展.
@@ -258,7 +258,7 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 
 简化 GitHub 界面并添加有用功能的扩展.
 
-安装：66834 | 星星：18833 | 最后更新：2022 年 9 月 9 日
+安装：66848 | 星星：18846 | 最后更新：2022 年 9 月 9 日
 
 
 它们是标签吗？ 它们是空间吗？ 多少？ 永远不要再怀疑了！ 在 GitHub 上的所有代码中，将空格呈现为`·`，将制表符呈现为`→`.
@@ -279,7 +279,7 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 4. 悬停工具提示
 5.文件树导航
 
-安装：101190 | 星星：6621 | 最后更新：2022 年 7 月 29 日
+安装：101196 | 星数：6627 | 最后更新：2022 年 9 月 14 日
 
 
 通过将制表符大小强制为 4 而不是 8，使制表符缩进代码更具可读性.
@@ -289,7 +289,7 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 
 帮助您轻松查看自上次访问 GitHub 以来发生了哪些活动.
 
-安装：185 | 星数：25 | 最后更新：不适用
+安装：186 | 星数：25 | 最后更新：不适用
 
 
 为您的 PR 生成一个神奇的链接并将其发布到共享的 Slack 频道，以吸引评论者更快地获取您的 PR！
@@ -304,12 +304,12 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 
 您的所有问题、PR、回购和其他工作文档都在您的新标签中
 
-安装：7090 | 星星：不适用 | 最后更新：2022 年 9 月 13 日
+安装：7090 | 星星：不适用 | 最后更新：2022 年 9 月 14 日
 
 
 github的文件树，不仅如此.
 
-安装：10721 | 星星：不适用 | 最后更新：2022 年 8 月 29 日
+安装：10722 | 星星：不适用 | 最后更新：2022 年 8 月 29 日
 
 
 在 1400px、1600px 和 1800px 处添加断点，以在大屏幕上获得完整的 GitHub 体验. 还删除了存储库浏览器中文件和目录名称的截断.
@@ -319,12 +319,12 @@ github的文件树，不仅如此.
 
 gitpod 通过在浏览器中提供现成的代码开发环境来简化开发人员的工作流程 - 由 vs code 提供支持.
 
-安装：62852 | 星数：97 | 最后更新：2022 年 5 月 17 日
+安装：62862 | 星数：97 | 最后更新：2022 年 5 月 17 日
 
 
-当在 github.com 上查看具有 package.json 文件的存储库时，此扩展将自省 package.json 中的依赖项并显示每个依赖项的链接和描述，就在 repo 的 README 下方.
+当查看 github.com 上包含 package.json 文件的存储库时，此扩展将自省 package.json 中的依赖项并显示每个依赖项的链接和描述，就在 repo 的 README 下方.
 
-安装：2094 | 星数：646 | 最后更新：2022 年 4 月 12 日
+安装：2095 | 星数：648 | 最后更新：2022 年 4 月 12 日
 
 
 使用数学、图表、嵌入式 YouTube 视频等扩展 GitHub 页面.

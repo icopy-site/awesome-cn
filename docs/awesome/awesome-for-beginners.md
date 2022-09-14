@@ -8,7 +8,7 @@
 
 灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
-如果您是开源项目的维护者，请将标签 `first-timers-only`（或类似标签）添加到您的项目并在此处列出，以便人们可以找到它.
+如果您是开源项目的维护者，请将标签 `first-timers-only`（或类似标签）添加到您的项目中并在此处列出，以便人们可以找到它.
 
 如果您不是程序员但想做出贡献，请查看 [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) 列表.
 
@@ -90,6 +90,7 @@
 - [elasticsearch](https://github.com/elastic/elasticsearch)  _（标签：好第一期）_<br> 开源、分布式、RESTful 搜索引擎.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF)  _（标签：好第一期）_<br> 一个将图像转换为 PDF 文件的安卓应用程序.
 - [JabRef](https://github.com/JabRef/jabref)  _（标签：好第一期）_<br> 使用现代 Java 功能（包括 JavaFX）管理文献参考的桌面应用程序. 致力于代码质量和建设性反馈：每个 Pull Request 都由两名开发人员审查，以提供高质量的反馈并确保新贡献的高质量.
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata)  _（标签：好第一期）_<br>  OpenMetadata 是一个用于数据发现、数据质量、可观察性、治理、数据沿袭和团队协作的一体化平台.
 - [SirixDB](https://github.com/sirixdb/sirix)  _（标签：好第一期）_<br>  SirixDB 是一个进化的、版本化的 NoSQL 文档存储（XML 和 JSON），（大部分）用 Java 编写. 它在提交期间存储紧凑的快照，其中包含许多从 ZFS 和 Git 借来的概念. 每个修订都被索引，并且可以使用时间查询来查询文档存储. 它特别适合现代硬件.
 - [Strongbox](https://github.com/strongbox/strongbox)  _（标签：好第一期）_<br>  Strongbox 是一个用 Java 编写的工件存储库管理器.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates)  _（标签：好第一期）_<br>  TEAMMATES 是一个免费的在线工具，用于管理学生的同行评估和其他反馈路径.
@@ -169,7 +170,7 @@
 - [Vest](https://github.com/ealush/vest)  _（标签：好第一期）_<br> 受单元测试框架启发的验证框架.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App)  _（标签：好第一期）_<br>  Angular &amp; Electron 应用程序，用于在您的 PC 上浏览和搜索视频.
 - [Video.js](https://github.com/videojs/video.js)  _（标签：好第一期）_<br> 播放器框架
-- [Vue CLI](https://github.com/vuejs/vue-cli)  _（标签：好第一期）_<br>  Vue.js 开发的标准工具
+- [Vue CLI](https://github.com/vuejs/vue-cli) _(label: good-first-issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router](https://github.com/vuejs/vue-router)  _（标签：好第一期）_<br>  Vue.js 的官方路由器.
 - [Vue.js](https://github.com/vuejs/vue)  _（标签：好第一期）_<br> 渐进式 JavaScript 框架.
 - [VuePress](https://github.com/vuejs/vuepress)  _（标签：好第一期）_<br> 简约的 Vue 驱动的静态站点生成器
@@ -242,6 +243,7 @@
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy)  _（标签：需要帮助）_<br> 一个交互式的支持 TLS 的拦截 HTTP 代理，供渗透测试人员和软件开发人员使用
 - [mygpo](https://github.com/gpodder/mygpo)  _（标签：入门问题）_<br>  gpodder.net 的网络服务，这是一个自由网络服务，允许用户管理他们的播客订阅和发现新内容.
 - [mypy](https://github.com/python/mypy)  _（标签：好第一期）_<br>  python的可选静态类型.
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata)  _（标签：好第一期）_<br>  OpenMetadata 是一个用于数据发现、数据质量、可观察性、治理、数据沿袭和团队协作的一体化平台.
 - [opsdroid](https://github.com/opsdroid/opsdroid)  _（标签：好第一期）_<br> 一个开源聊天操作机器人框架.
 - [pandas](https://github.com/pandas-dev/pandas)  _（标签：好第一期）_<br> 灵活而强大的 Python 数据分析/操作库，提供类似于 R 的数据结构的标记数据.frame 对象、统计函数等等
 - [Pytest](https://github.com/pytest-dev/pytest)  _（标签：状态：-easy）_<br>  pytest 框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
@@ -266,7 +268,7 @@
 - [Goby](https://github.com/nskins/goby)  _（标签：不适用）_<br> 用于开发文本角色扮演游戏的框架.
 - [Hanami](https://github.com/hanami/hanami)  _（标签：简单）_<br>  Ruby 的现代框架.
 - [JRuby](https://github.com/jruby/jruby)  _（标签：初学者）_<br>  Java 虚拟机上的 Ruby 实现.
-- [mapknitter](https://github.com/publiclab/mapknitter)  _（标签：仅限初学者）_<br> 上传您自己的航拍图像，将它们定位（橡皮图）在现有地图数据的网络界面中，并通过网络或合成共享并导出打印.
+- [mapknitter](https://github.com/publiclab/mapknitter)  _（标签：仅限初学者）_<br> 上传您自己的航拍图像，在现有地图数据的网络界面中定位（橡皮图），并通过网络或合成共享并导出打印.
 - [Matestack](https://github.com/matestack/matestack-ui-core)  _（标签：好第一期）_<br> 用纯 Ruby 编写动态用户界面. 基于 Vue.js 构建的 Rails 引擎
 - [ohai](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
 - [open-build-service](https://github.com/openSUSE/open-build-service)  _(label: good-first-issue-:1st_place_medal:)_<br> 一个通用系统，以自动、一致和可重复的方式从源构建和分发包.
@@ -319,6 +321,8 @@
 ## Typescript
 
 - [H2O Wave](https://github.com/h2oai/wave)  _（标签：好第一期）_<br> 适用于 Python 和 R 的实时 Web 应用程序和仪表板框架.适合（不仅）AI 受众.
+- [Node Efficientnet](https://github.com/ntedgi/node-efficientnet)  _（标签：好第一期）_<br>  Node JS 的 EfficientNet 图像识别模型（用 tensorflow.js 编写）.
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata)  _（标签：好第一期）_<br>  OpenMetadata 是一个用于数据发现、数据质量、可观察性、治理、数据沿袭和团队协作的一体化平台.
 
 
 ## Contribute
@@ -327,7 +331,7 @@
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉安德拉德</b></sub></td></tr></table>
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉·安德拉德</b></sub></td></tr></table>
 
 ## License
 

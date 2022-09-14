@@ -31,17 +31,13 @@
 
 - [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - 一个运行会议、博客、播客和专用于 DevSecOps 的 Slack 工作区的社区.
 
-### Newsletters
-
-- [Shift Security Left](https://shift-security-left.curated.co/)  - 为具有安全意识的开发人员提供的免费双周通讯，涵盖应用程序安全、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）对破坏者有用. 与虚构的吉祥物和安全工程师 Felix 一起深入了解安全漏洞的原因、设计防御措施、发明和实施安全控制措施 [(@cossaсklabs)](https://twitter.com/cossacklabs).
-
 ### Conferences
 
 - [AppSec Day](https://appsecday.io/) - _OWASP_ - 由 OWASP 举办的澳大利亚应用程序安全会议.
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - 由 Snyk 运行的 DevSecOps 会议网络.
 
 ### Newsletters
-- [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - 面向安全意识开发人员的免费双周通讯，涵盖应用程序安全性、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）对破坏者有用. 
+- [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - 面向具有安全意识的开发人员的免费双周通讯，内容涵盖应用程序安全、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）对破坏者有用. 
 
 ### Podcasts
 
@@ -64,12 +60,12 @@
 
 - [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - 通过观察和分析来自领先软件安全计划的数据创建的软件安全框架.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - 作为安全开发生命周期框架的工具和实践的集合.
-- [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
+- [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - 一个由实践、任务和实施示例组成的框架，用于安全的开发生命周期.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - 衡量和改进安全开发生命周期成熟度的框架.
 
 ### Toolchains
 
-- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - 一张海报，其中包含保护 Web 应用技术 (SWAT) 清单、SANS 云安全课程、云安全前 10 名、Kubernetes 威胁前 12 名和安全 DevOps 工具链.
+- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - 一张海报，其中包含保护 Web 应用技术 (SWAT) 清单、SANS 云安全课程、十大云安全、十大 Kubernetes 威胁和安全 DevOps 工具链.
 - [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - _XebiaLabs_ - 按工具功能分类的 DevSecOps 工具集合.
 
 ### Training
@@ -120,7 +116,7 @@
 
 ### Infrastructure as Code Analysis
 
-基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础设施始终得到强化，而且还提供了一个静态和动态分析基础设施定义的机会，以查找易受攻击的依赖项、硬编码的机密、不安全的配置和安全配置的意外更改. 以下工具有助于此分析.
+基础设施即代码允许将应用程序可靠地部署到一致的环境中. 这不仅可以确保基础设施始终得到强化，而且还提供了一个静态和动态分析基础设施定义的机会，以查找易受攻击的依赖项、硬编码的秘密、不安全的配置和安全配置的意外更改. 以下工具有助于此分析.
 
 #### Multi-Platform
 
@@ -135,7 +131,7 @@
 
 <!-- omit in toc -->
 #### Containers
-- [Anchore Engine](https://anchore.com/opensource/)  - _Anchore, Inc_ - 深度检查 Docker 映像的 CVE 并检查自定义策略. 他们的企业产品背后的引擎与注册表、编排器和 CI/CD 产品集成.
+- [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
 - [Clair](https://github.com/quay/clair) - _Quay_ - 扫描 App Container 和 Docker 容器以查找公开披露的漏洞.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - 将安装在 Docker 容器中的操作系统和软件依赖版本与公共漏洞数据库进行比较，并执行病毒扫描.
 - [Docker-Bench-Security](https://github.com/docker/docker-bench-security) - _Docker_ - Docker Bench for Security 是一个脚本，用于检查围绕在生产环境中部署 Docker 容器的数十种常见最佳实践.
@@ -187,7 +183,7 @@
 - [CredStash](https://github.com/fugue/credstash) - _Fugue_ - 使用 KMS 和 DynamoDB 在 AWS 中安全地存储机密.
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) - _Cyber​​Ark_ - 应用程序的秘密管理，包括秘密轮换和审计.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) - _Docker_ - 在 Docker 群中存储和管理对机密的访问.
-- [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - 扫描 git 存储库以查找在代码或提交消息中提交的秘密.
+- [Git Secrets](https://github.com/awslabs/git-secrets) - _Amazon AWS_ - Scan git repositories for secrets committed within code or commit messages.
 - [Gopass](https://github.com/gopasspw/gopass)  - _Gopass_ - 依赖 Git 和 gpg 的团队的密码管理器. 管理加密文件和存储库中的机密.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - _Google Cloud Platform_ - 在 GCP 中安全地存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - 通过 UI、CLI 或 HTTP API 安全地存储机密.

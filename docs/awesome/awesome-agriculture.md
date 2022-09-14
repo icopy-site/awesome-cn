@@ -17,6 +17,7 @@
 - [Earth Rover](https://github.com/earthrover) Ag AGV ROS1) 精准农业漫游车， 
 - [EcoTerra Bot](https://ecoterrabot.com/) 达美和罗孚
 - [FarmBot](https://github.com/farmbot) - 开源精准园艺项目.
+- [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - 用于自动农用车辆的稳健高效的覆盖路径.
 - [Romi project](https://media.romi-project.eu/documents/index.html) 欧洲资助的研究项目 
 - [ROS Agriculture](http://rosagriculture.org/) - 开源社区专注于使用机器人操作系统为农民提供机器人工具. 
 - [Weedinator](https://hackaday.io/project/53896-weedinator-2019) 巡线/除草机器人
@@ -60,7 +61,7 @@
 - [MyJohnDeereAPI-OAuth-NodeJS-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-NodeJS-Client) - Node.js MyJohnDeere API 客户端实现.
 - [MyJohnDeereAPI-OAuth-PHP-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-PHP-Client) - PHP MyJohnDeere API 客户端实现.
 - [MyJohnDeereAPI-OAuth-Python-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python-Client) - Python MyJohnDeere API 客户端实现.
-- [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API 客户端实现.
+- [MyJohnDeereAPI-OAuth-Python3-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Python3-Client) - Python3 MyJohnDeere API client implementation.
 - [MyJohnDeereAPI-OAuth-Ruby-Client](https://github.com/JohnDeere/MyJohnDeereAPI-OAuth-Ruby-Client) - Ruby MyJohnDeere API 客户端实现.
 - [OpenTeam](https://openteam.community/) - 开放的农业管理技术生态系统
 - [SampleData](https://github.com/JohnDeere/SampleData) - 可用于测试的示例数据卡、shapefile 和其他文件.
@@ -103,7 +104,7 @@
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - 使用 Ruby on Rails 构建的免费开放的农业和园艺知识数据库.
 
 ## Machine Learning and AI
-- [agridat](https://github.com/kwstat/agridat) - R package providing an extensive collection of datasets from agricultural experiments.
+- [agridat](https://github.com/kwstat/agridat) - R 包提供了大量来自农业实验的数据集.
 - [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - 基于遥感数据的作物产量预测的深度高斯过程.
 - [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - 基于深度学习的分析（主要）关于生物相关主题的教程.
 - [PlantCV](https://github.com/danforthcenter/plantcv) - 使用计算机视觉的植物表型分析软件.

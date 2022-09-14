@@ -4,7 +4,7 @@
 
 &gt; 为网络安全蓝队提供的一系列很棒的资源、工具和其他闪亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全漏洞、验证安全措施的有效性并监控系统以确保实施的防御措施在未来保持有效的个人群体. 虽然不是排他性的，但此列表严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和针对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全漏洞、验证安全措施的有效性并监控系统以确保所实施的防御措施在未来仍然有效的个人群体. 虽然不是排他性的，但此列表严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和针对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 本作品已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -52,7 +52,7 @@
 - [Falco](https://falco.org/) - 行为活动监视器旨在通过审核 Linux 内核并通过运行时数据（如 Kubernetes 指标）来检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用感觉和执行类似于容器的轻量级虚拟机保护容器运行时，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
 - [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) - 通过能够识别 AWS 账户或 AWS 组织的 AWS Identity and Access Management (IAM) 配置中的风险的脚本和库，快速评估 AWS 中的 IAM 权限.
-- [Prowler](https://github.com/toniblyx/prowler) - 基于 AWS-CLI 命令的工具，用于 Amazon Web Services 账户安全评估和强化.
+- [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - 开源多云安全审计工具，可对云环境进行安全态势评估.
 - [gVisor](https://github.com/google/gvisor) - 用 Go 编写的应用程序内核，它实现了 Linux 系统表面的大部分，以在应用程序和主机内核之间提供隔离边界.
 
@@ -116,7 +116,7 @@
 - [Snyk](https://snyk.io/) - 查找并修复开源依赖项和容器映像中的漏洞和许可违规.
 - [SonarQube](https://sonarqube.org) - 持续检查工具，可在自动测试期间提供详细报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) - 用于容器和其他工件的简单而全面的漏洞扫描器，适用于持续集成管道.
-- [Vault](https://www.vaultproject.io/) - 通过统一接口安全访问 API 密钥、密码或证书等秘密的工具.
+- [Vault](https://www.vaultproject.io/) - 用于通过统一接口安全访问 API 密钥、密码或证书等秘密的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  - git中的透明文件加密； 您选择保护的文件在提交时被加密，在签出时被解密.
 - [helm-secrets](https://github.com/jkroepke/helm-secrets) - Helm 插件，可帮助使用 Git 工作流程管理机密并将它们存储在任何地方，由 SOPS 支持.
 - [terrascan](https://runterrascan.io/) - 用于基础设施即代码工具的静态代码分析器，有助于在配置云原生资源之前检测合规性和安全违规行为以降低风险.
@@ -155,6 +155,7 @@
 - [AllStar](https://github.com/ossf/allstar) - 安装在组织或存储库上的 GitHub 应用程序以设置和执行安全策略.
 - [Conftest](https://conftest.dev/) - 帮助您针对结构化配置数据编写测试的实用程序.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - 跨云原生堆栈的统一工具集和策略框架.
+- [Regula](https://regula.dev/) - 使用 Open Policy Agent/Rego 将基础设施作为代码模板（Terraform、CloudFormation、K8s 清单）检查 AWS、Azure、Google Cloud 和 Kubernetes 的安全性和合规性.
 - [Tang](https://github.com/latchset/tang)  - 用于将数据绑定到网络存在的服务器； 仅当客户端在某个（安全）网络上时才向客户端提供数据.
 
 ### Supply chain security
@@ -171,7 +172,7 @@
 也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  - 自托管蜜令牌生成器和报告仪表板； 演示版可在 [CanaryTokens.org](https://canarytokens.org/).
-- [Kushtaka](https://kushtaka.org) - Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.
+- [Kushtaka](https://kushtaka.org) - 为资源不足的蓝队提供可持续的一体化蜜罐和蜜令牌协调器.
 - [Manuka](https://github.com/spaceraccoon/manuka) - 开源情报 (OSINT) 蜜罐，用于监控威胁参与者的侦察尝试并为蓝队提供可操作的情报.
 
 ### Tarpits
@@ -186,7 +187,7 @@
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - 适用于 Windows 系统的免费工具，旨在提醒您存在可能通过网络进行通信的恶意软件.
 - [Fail2ban](https://www.fail2ban.org/) - 入侵防御软件框架，保护计算机服务器免受暴力攻击.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源和免费、功能丰富、基于主机的入侵检测系统 (HIDS).
-- [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 符合 POSIX 标准的 Bash 脚本，可扫描主机以查找各种恶意软件迹象.
+- [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 
 ### Sandboxes
 
@@ -212,7 +213,7 @@
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - 基于 Viper 构建的脚本化数字取证和事件响应 (DFIR) 工具包.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.
-- [Rekall](http://www.rekall-forensic.com/) - 高级取证和事件响应框架.
+- [Rekall](http://www.rekall-forensic.com/) - 先进的取证和事件响应框架.
 - [TheHive](https://thehive-project.org/) - 可扩展的免费安全事件响应平台旨在让 SOC、CSIRT 和 CERT 的生活更轻松，并与 MISP 紧密集成.
 - [threat_note](https://github.com/defpoint/threat_note) - 由 Defense Point Security 构建的 Web 应用程序，允许安全研究人员添加和检索与其研究相关的指标.
 
@@ -222,7 +223,7 @@
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - 免费的 macOS 计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) - 适用于 macOS 的法医证据收集和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch 脚本和 Unix Bash 脚本，用于在事件响应期间全面收集主机取证数据.
-- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 命令行实用程序（适用于或不使用 Amazon EC2 实例）以并行化远程内存获取.
+- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 命令行实用程序（可使用或不使用 Amazon EC2 实例）以并行化远程内存获取.
 
 ## Network perimeter defenses
 
@@ -293,7 +294,7 @@
 
 - [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于 pynids 的解码器和 APT 交易检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) - 恶意网络流量检测系统.
-- [Moloch](https://github.com/aol/moloch) - 增强您当前的安全基础架构，以标准 PCAP 格式存储和索引网络流量，提供快速、索引访问.
+- [Moloch](https://github.com/aol/moloch) - 增强您当前的安全基础设施，以标准 PCAP 格式存储和索引网络流量，提供快速、索引访问.
 - [OwlH](https://www.owlh.net/) - 通过可视化 Suricata、Zeek 和 Moloch 生命周期，帮助大规模管理网络 IDS.
 - [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) - 用于网络流量分析的开源框架，可提取 Zeek 日志并检测信标、DNS 隧道等.
 - [Respounder](https://github.com/codeexpress/respounder) - 检测网络上是否存在 Responder LLMNR/NBT-NS/MDNS 毒药.
@@ -329,7 +330,7 @@
 
 也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
-- [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 一套基于 CIM/WMI 的工具，支持跨所有 Windows 版本的远程事件响应和搜寻操作.
+- [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 一套基于 CIM/WMI 的工具，支持跨所有版本的 Windows 进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell 模块，用于通过 Windows 事件日志进行分组搜索.
 - [GRR Rapid Response](https://github.com/google/grr) - 事件响应框架专注于远程实时取证，包括安装在资产上的 Python 代理和基于 Python 的服务器基础设施，使分析师能够快速分类攻击并远程执行分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - 基于 Elasticsearch、Logstash、Kafka 和 Kibana 的多合一免费软件威胁搜寻堆栈，具有各种内置分析集成，包括 Jupyter Notebook.
@@ -347,8 +348,8 @@
 - [AttackerKB](https://attackerkb.com/) - 免费和公开的众包漏洞评估平台，帮助优先考虑高风险补丁应用和对抗漏洞疲劳.
 - [DATA](https://github.com/hadojae/DATA) - 凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼 URL，或在观察到的包含此类 URL 的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) - 使用 Python3 构建的多线程威胁情报收集，具有简单的基于文本的配置和数据存储，易于使用和数据可移植性.
-- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过对您的 ICS/SCADA 网络拓扑和端点进行被动映射、计算和报告，提供工业控制系统 (ICS) 和监控与数据采集 (SCADA) 的 IP 网络态势感知.
-- [MLSec Combine](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过对您的 ICS/SCADA 网络拓扑和端点进行被动映射、说明和报告，提供工业控制系统 (ICS) 和监控与数据采集 (SCADA) 的 IP 网络态势感知.
+- [MLSec Combine](https://github.com/mlsecproject/combine) - 收集多个威胁情报源并将其组合成一种可定制的、标准化的基于 CSV 的格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集、存储、分发和共享网络安全指标的开源软件解决方案.
 - [Open Source Vulnerabilities (OSV)](https://osv.dev/) - 开源项目的漏洞数据库和分类基础设施，旨在帮助开源维护者和开源消费者.
 - [Sigma](https://github.com/Neo23x0/sigma) - SIEM 系统的通用签名格式，提供开放式签名格式，让您能够以直接的方式描述相关的日志事件.
@@ -388,7 +389,7 @@
 - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - 使用 IPsec/L2TP、Cisco IPsec 和 IKEv2 构建您自己的 IPsec VPN 服务器的脚本.
 - [Innernet](https://github.com/tonarino/innernet) - 在后台使用 WireGuard 的免费软件专用网络系统，可自托管.
 - [Nebula](https://github.com/slackhq/nebula) - 受 tinc 启发，完全开源、自托管、可扩展的覆盖网络工具，专注于性能、简单性和安全性.
-- [OpenVPN](https://openvpn.net/) - 长期免费软件传统的基于 SSL/TLS 的虚拟专用网络.
+- [OpenVPN](https://openvpn.net/) - 长期存在的自由软件传统的基于 SSL/TLS 的虚拟专用网络.
 - [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
 - [Tailscale](https://tailscale.com/) - 建立在 WireGuard 之上的托管免费增值网状 VPN 服务.
 - [WireGuard](https://www.wireguard.com/) - 使用最先进的加密技术的极其简单但快速且现代的 VPN.
