@@ -55,9 +55,9 @@
 - [appimage2desktop](https://github.com/me1ting/appimage2desktop) - 在系统中为 AppImage 创建桌面文件和图标，仅此而已.
 - [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - 用于创建、删除、控制和组织 AppImage 快捷方式的程序.
 - [LinuxPA](https://github.com/CalebQ42/LinuxPA) - 适用于具有 AppImage 支持的 Linux 的 PortableApps.com 类型启动器.
-- [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - 无需守护程序即可为 AppImages 创建菜单条目.
+- [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) - 为 GNOME 和 KDE 兼容桌面环境的文件管理器中显示的 AppImage 生成图标.
- - [XApp Thumbnailers] - GTK 桌面环境的缩略图，包括一个用于 AppImage 文件格式的缩略图. 使基于 Gtk 的文件管理器，如 Caja (MATE)、Nautilus (GNOME)、Nemo (Cinnamon)、PCManFM (LXDE) 和 Thunar (Xfce) 在 AppImages 上显示应用程序图标.
+- [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers)  - GTK 桌面环境的缩略图，包括一个用于 AppImage 文件格式的缩略图. 使基于 Gtk 的文件管理器，如 Caja (MATE)、Nautilus (GNOME)、Nemo (Cinnamon)、PCManFM (LXDE) 和 Thunar (Xfce) 在 AppImages 上显示应用程序图标.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - 从 Gnome 桌面监控和（卸载）安装 AppImages.
 
 ### Updaters
@@ -83,7 +83,7 @@
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - AppImages 和 Shell 脚本的包管理器.
 - [AppMan](https://github.com/ivan-hc/AppMan) - 像 APT 或 Pacman 一样工作的 AppImage 管理器.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
-- [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一、静态、无依赖的二进制文件. 用围棋写的.
 
 ### Linux distributions
 

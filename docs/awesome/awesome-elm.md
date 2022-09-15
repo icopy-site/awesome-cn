@@ -278,6 +278,7 @@
 * [elm-instant](https://atom.io/packages/elm-instant)  - 原子包从编辑器中尝试你的榆树代码. 提供可视化 REPL 和预览窗格.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - 在您的浏览器中构建快速、全栈的 Web 应用程序.
 * [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
+* [Elm Watch](https://github.com/lydell/elm-watch)  - 观看模式下的“榆树制作”. 快速可靠.
 
 
 ---

@@ -92,6 +92,9 @@
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - 使用 TypeScript 创建 PICO-8 游戏.
 - [Shrinko8](https://github.com/thisismypassport/shrinko8)  - 一个积极缩小 Pico-8 代码大小的缩小器. 还包括一个 linter 和其他工具.
 
+### Assets
+- [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - 自定义 SFX 乐器
+
 ### Text Editors Language Support
 
 - 视觉工作室代码： [pico8-ls](https://github.com/japhib/pico8-ls) - PICO-8 语言服务器，为 Lua 的 PICO-8 方言提供完整的语言支持.

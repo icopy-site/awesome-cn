@@ -6,7 +6,7 @@
 
 &gt; 精选的精选图片、视频和插图网站列表.
 
-我尽力维护此存储库并使其保持最新，但如果您发现损坏的链接或未列出的资源，请随时提出拉取请求.
+我尽力维护这个存储库并使其保持最新，但如果你发现一个损坏的链接或未列出的资源，请随时提出拉取请求.
 
 
 
@@ -29,7 +29,7 @@
 * [Freely Photos](https://freelyphotos.com/) - 完全免费的高质量基督教图库摄影.
 * [Furious Camera](http://furiouscamera.com/)  - 免费的 Life Hi-Fi 照片，可用于您的个人和商业项目. 每天都有新照片.
 * [Gratisography](https://gratisography.com/)  - 您可以在个人和商业项目中使用免费的高分辨率图片. 每周添加新图片.
-* [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
+* [Jay Mantri](http://jaymantri.com/)  - 免费图片. 做任何事情. 制造魔法.
 * [Jéshoots](http://jeshoots.com/) - 免费提供高分辨率的商业或个人使用照片.
 * [LibreShot](https://libreshot.com/) - 数百张用于个人或商业用途的高质量免费库存图片的集合.
 * [Life of Pix](http://www.lifeofpix.com/)  - 免费的高分辨率照片，没有版权限制. 每周添加照片.
@@ -55,7 +55,7 @@
 * [Stocksnap](https://stocksnap.io/) - 每周添加数百张高分辨率图像.
 * [Stokpic](http://stokpic.com/) - 免费图片用于商业用途.
 * [Streetwill](http://streetwill.co/) - 免费高分辨率复古照片，以您想要的任何方式使用.
-* [The Pic Pac](https://thepicpac.com/) - 周一新 pacs，周二至周日免费图片.
+* [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - 旅行摄影.
 * [Wesaturate](https://www.wesaturate.com/) - 一组完全免费的 RAW 和 JPG 格式的 CC0 图像.
 
@@ -151,6 +151,7 @@
 一系列提供高质量视频素材的网站.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 为您的主页提供精美、免费、CC0 许可的视频. 每周一7个新视频.
+* [FreeStockVideo](https://free-stock.video/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 免费美丽的视频和素材剪辑.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 免费的免版税视频、剪辑和循环.
 * [Mazwai](http://mazwai.com/)  - 大量免费的创作共用高清视频剪辑和镜头. 检查每个视频的许可条款.
 * [Mixkit](https://mixkit.co/free-stock-video/) - [:copyright:](https://mixkit.co/license/#videoFree) 完全免费的高质量股票视频.
@@ -187,7 +188,7 @@ CSS 和基于图像的模式资源的混合.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric 的免费字体.
 * [Font Squirrel](https://www.fontsquirrel.com) - 精选字体免费用于商业用途.
 * [Google Fonts](https://fonts.google.com/) - 用于网络字体的免费托管应用程序编程接口的交互式目录.
-* [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) 在无噪音环境中开源字体的新平台.
+* [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - 开源类型代工厂.
 
 ## Icons
@@ -227,9 +228,10 @@ CSS 和基于图像的模式资源的混合.
 * [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 为您的下一个项目免费提供 400 多个手工制作的图标.
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) 精心制作的图标集 [Daniel Bruce](http://www.danielbruce.se/).
 * [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons 是来自 Microsoft 的一系列熟悉、友好和现代的图标.
-* [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
+* [Free Icons](https://www.iconshock.com/freeicons/) - 来自所有可用的开源图标集合的集合.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) 越来越多的 SVG 图标集合主要针对视频游戏.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) 来自 Tailwind CSS 制造商的漂亮、免费的 SVG 图标.
+* [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) 一包 227 个简单、中性、精心制作的图标，您可以在个人和商业项目中免费使用.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) 大量 SVG 和 PNG 格式的图标可供选择.
 * [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) 一个简单而权威的开源图标库.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon 是世界上几乎每个国家/地区的免费地图集合，提供 11 种不同尺寸，从 16x16 像素到 1024x1024 像素，以及 .svg 格式.
@@ -282,6 +284,7 @@ CSS 和基于图像的模式资源的混合.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) 免费循环和音频剪辑.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) 一个包含高质量、合法音频下载的交互式图书馆，由 [WFMU](https://wfmu.org/)，美国最著名的自由格式广播电台.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) 音频片段、样本、录音和哔哔声的协作数据库.
+* [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) 对于 YouTube、电影制作人、游戏、播客以及在您的下一个视频项目中使用，免费！
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels 收集主机完整，可免费下载/流式传输.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) 独立的音乐社区，拥有大量的知识共享许可音乐.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) 机器学习支持免版税原创音乐.

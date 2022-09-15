@@ -24,10 +24,10 @@
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 首屏漂亮的小菜单，带有有用的链接. 里面的一个常见问题解答主要问题. 支持者. 好语言.
 - [chroline/well_app](https://github.com/chroline/well_app#readme)  - 具有引人注目的项目缩略图和干净的徽章，以及下载信息和快速导航链接. 组织成多个描述性部分，每个部分都有一个带有黄色表情符号的标题. 包括有关项目本身的详细信息，以及使用的技术和如何贡献.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 带有快速入门的清晰自述文件、易于理解的安装和使用手册、视频截屏、带有文档完善的项目功能的 ToC（带有终端中工作的演示记录）、项目理念说明（“为什么另一个”）、最常见的问题、和更多.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、徽标、TOC 等.以一篇关于技术、如何使用、背后的哲学以及它如何融入更大的生态系统的巨大、精心撰写的文章脱颖而出.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、标志、TOC 等.以一篇关于技术、如何使用、背后的哲学以及它如何融入更大的生态系统的巨大、精心撰写的文章脱颖而出.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  - 使用 GIF 截图清除自述文件以进行快速演示. 多个徽章、简洁的 ToC、在线游乐场、故事书、详细说明等等.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme)  - 项目横幅和标志. 徽章. 可扩展的演练部分. 简洁的描述和目的. 目录便于导航. 用于安装演示的 GIF. 多种信息丰富的视觉效果.
-- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - 项目徽标、信息徽章、有用的 TOC、清晰的描述、屏幕截图、分步安装和配置指南、贡献者指南、行为准则、UML 图、连贯的标签、问题和拉取请求模板，有据可查且良好-注释代码，示例.
+- [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - 项目标志、信息徽章、有用的目录、清晰的描述、屏幕截图、分步安装和配置指南、贡献者指南、行为准则、UML 图、连贯的标签、问题和拉取请求模板、文档齐全且良好-注释代码，示例.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme)  - 目录便于导航. 简洁的项目描述. 安装和使用部分. 输出示例. 很棒的功能概述. 替代品清单. 常问问题.
 - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme)  - 清晰的描述. 项目标志. 应用商店徽标. 目录干净的屏幕截图. 功能列表. 详细的安装过程. 登陆页面.
 - [gofiber/fiber](https://github.com/gofiber/fiber#readme)  - 清洁项目标志. 有用的徽章和链接（语言切换器、代码风格、测试封面、文档、Discord 频道）. 通过快速入门、基准图表、有据可查的代码示例（具有隐藏长内容的能力）、项目理念说明（“项目的原因”）、带有项目插件的表格、贡献者列表、星号，清楚地描述项目所做的事情增长统计等.
@@ -64,7 +64,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 建立徽章. 演示截图. 简单的安装和使用部分. 包括一个具有常见用途的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制的号召性用语徽章. 使用展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁标志. 发展的简要更新. 详细的贡献指南. 贡献建议.
-- [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme)  - 之所以脱颖而出，是因为它虽然只是一个简单的网站，但它是一个非常开放的项目，可供经验不足的开发人员开始使用，并具有友好、包容的语气和易于理解的设置说明. 包括在其他漂亮的自述文件中发现的许多常见元素.
+- [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme)  - 之所以脱颖而出，是因为它虽然只是一个简单的网站，但它是一个非常开放的项目，可供经验不足的开发人员开始使用，具有友好、包容的语气和易于理解的设置说明. 包括在其他漂亮的自述文件中发现的许多常见元素.
 - [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目标志，有用的徽章，在哪里可以找到更多信息和报告错误的明确说明，GIF 截图，很好地使用表情符号.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 一步一步的安装说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多图解的例子.
@@ -118,7 +118,6 @@
 
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme)  - 免费 README 编辑+反馈，让您的开源项目成长. 请参阅 README 成熟度模型以帮助您继续前进.
 - [maintainer.io](https://maintainer.io/) - 免费 README 标准化和反馈，如果您点击“预约审核”.
- - 这个存储库. 使用您的 README 提交 PR！
 
 ## Contribute
 

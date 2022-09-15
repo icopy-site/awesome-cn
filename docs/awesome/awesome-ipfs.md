@@ -53,7 +53,7 @@
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin 是一个加密的 pastebin，在 URL 片段中传递了解密密钥
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - 具有多种功能的 booru 风格的媒体标记应用程序，最近添加了基本的 ipfs 支持.
 - [InfiniteBooru](https://infinitebooru.com) - booru 风格的媒体标记应用程序和内容聚合器，所有媒体均由 IPFS 支持.
-- [infura.io](https://infura.io) - 基础设施：使用 API 和开发工具提供对以太坊和 IPFS 的安全、可靠和可扩展的访问，以帮助更轻松地构建去中心化应用程序.
+- [infura.io](https://infura.io) - 基础设施：使用 API 和开发人员工具提供对以太坊和 IPFS 的安全、可靠和可扩展的访问，以帮助更轻松地构建去中心化应用程序.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - 使用 IPFS 的 Web 存档 (WARC) 索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - 建立在 IPFS 之上的 Wiki
 - [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) - 一种实时服务，用于抓取 COVID-19 和 SARS-CoV-2，存储在 IPFS、DNSLink 上，并通过 LibP2P pubsub 进行流式传输
@@ -65,7 +65,7 @@
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  - IPFS 图像上传器和查看器.  Minerva 是 Apache Drill 的一个存储插件，连接 IPFS 的去中心化存储和 Drill 的灵活查询引擎. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat)  - 基于终端的加密聊天室. 允许私人消息传递和安全的聊天内文件/目录共享. 无服务器/无代理（无需信令/集合服务器）. 通过 LAN/互联网工作（带 NAT 穿越）.
-- [IPFS-forum](https://github.com/ReForum-ipfs/ReForum#readme) - 一个web3论坛.你可以从这个论坛获得新的想法、报告、讨论，虽然你可能在网络限制区，所有的内容都会被ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum)
+- [IPFS-forum](https://github.com/ReForum-ipfs/ReForum#readme) - 一个web3论坛.你可以从这个论坛获得新的想法、报告、讨论，虽然你可能处于网络限制区，所有的内容都会被ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum)
 - [IPFS-FPS](https://ipfs-fps.com/)  - 完全去中心化的第一人称射击游戏. 使用 Unity、Fleek、Unstoppable Domans 和 Pinata 构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - 基于 ipfs 和 markdown 构建您的 wiki 系统.
 - [ipfs-search](https://ipfs-search.com) - 自 2016 年开始探索宇宙.
@@ -94,7 +94,7 @@
 - [Peer Web Site](https://peerweb.site/)  - 点对点网站托管在您的指尖！ 从您的浏览器发送功能齐全的 HTML（包括 CSS、JS）站点并附加文件，例如. 视频、图像等 [Source](https://github.com/Weedshaker/PeerWebSite)
 - [Peergos](https://peergos.org) - 端到端加密的点对点文件存储和共享. [Source](https://github.com/Peergos/Peergos)
 - [Playback](https://mafintosh.github.io/playback/)  - IPFS 播放支持. 这允许将 IPFS 中的视频投射到 Chromecast.
-- [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - A ~76KB demo chat app that uses window.ipfs, provided by the IPFS Companion web extension [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
+- [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - 一个使用 window.ipfs 的约 76KB 演示聊天应用程序，由 IPFS Companion Web 扩展提供 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [Pugdit](https://github.com/zbyte64/pugdit) - 通过 IPFS 发现和分发的公告板服务
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk 让您可以编辑音频文章并使用 IPFS 发布它们.
 - [qri](https://qri.io) - 数据集版本控制、发现和协作工具（免费、开源）. [Source](https://github.com/qri-io/qri)
@@ -103,7 +103,7 @@
 - [RocketPad](https://rocketpad.aboutdavid.me/) - 使用所见即所得编辑器创建迷你文章/文档，并通过 IPFS 将它们发布到分布式网络. [Source](https://github.com/aboutDavid/rocketpad)
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - 一个推特机器人，它使用 IPFS 集群将你的推文添加、固定、取消固定到公共 IPFS 网络.
 - [Skiff](https://www.skiff.com) - 使用 IPFS 存储的隐私优先、端到端加密电子邮件、文件存储和协作平台. [Source](https://github.com/skiff-org/skiff-mail)
-- [Skyhook](https://github.com/deedeecx330/skyhook) - Send and receive files securely
+- [Skyhook](https://github.com/deedeecx330/skyhook) - 安全地发送和接收文件
 - [TallyLab](https://tallylab.com/) - 本地优先、端到端的加密数据日记应用程序，用于捕获、分析和共享有关任何事物的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) - Temporal 是一个易于使用的 API 和平台，用于将 IPFS 和其他分布式/去中心化存储技术集成到企业应用程序中
 - [Terrive](https://ipfs.io/ipns/terrive.one) - 使用 HIVE 区块链作为数据库和不可变图像/视频托管的照片和视频共享平台. [Source](https://github.com/appukuttan66/terrive)
@@ -165,7 +165,6 @@
 ## Services
 
 - [Boom.FYI](https://www.boom.fyi) - IPFS 链接缩短和访问控制服务.
-- [DWS](https://dws.datochain.com/) - 使用 DWS 部署现代静态网站，并在 IPFS 上享受安全和分散的存储.
 - [Eternum](https://www.eternum.io/) - 具有易于使用的 API 的付费固定服务.
 - [Fission](https://fission.codes) - 由 IPFS 提供支持的应用程序和网站托管，包括 DNS 自动化、身份和端到端加密.
 - [Fleek](http://fleek.co/) - 用于在 IPFS、Filecoin 和 Internet 计算机上构建、托管和存储站点和应用程序的开放 Web 开发平台. [Source](https://github.com/FleekHQ)
@@ -174,14 +173,13 @@
 - [Peergos](https://peergos.org)  - 您的私人但社交空间在线. 存储和编辑文档和媒体. 与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - 通过 Pinata 的 REST API 和 IPFS 工具包构建和管理你的 dapp.
 - [Robonomics Network](https://robonomics.network/) - 用于将网络物理系统集成到智能城市和工业 4.0 中的以太坊网络基础设施
-- [Space](https://space.storage/) - IPFS 和 Textile 上用户拥有的、加密的和开源的个人文件存储和共享，以及 Filecoin 中的分散备份. [Source](https://github.com/FleekHQ/space-web)
 - [Temporal](https://temporal.cloud) - 可扩展的 IPFS 基础设施，带有免费的入门包，具有交钥匙 API、工具包和存储.
 - [Unstoppable Domains](https://unstoppabledomains.com) - 区块链上的域
 
 ## Tools
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) - 解析 ENS 域，这让用户可以访问 .eth 网站，同时提供最大程度的去中心化. [Source](https://github.com/almonit/almonit-plugin)
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - 监控以太坊区块链的当前区块号，并设置警报（使用浏览器中的 PouchDB 本地存储）当超过某些区块高度时. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - Monitor the current block number of the Ethereum blockchain, and set alerts (stored locally using PouchDB in your browser) for when certain block heights are passed. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [Bubble IPFS From URL Plugin](https://bubble.io/plugin/ipfs-add-from-uri-1616424944051x638386852081172500) - IPFS 的气泡（无代码平台）插件来自 URL 集成
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - 捐赠 ipfs 网关来缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) - Dillo Web 浏览器的 IPFS 集成.
@@ -211,18 +209,18 @@
 - [ipfs-pinner](https://github.com/wabarc/ipfs-pinner) - 一个工具包帮助将文件上传到 IPFS 固定服务.
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) - 持续交付工具，用于将静态网站从 Git 提供商交付到 IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - 捕获屏幕截图，将它们发布到 IPFS，并将链接复制到剪贴板.
-- [ipfs-video-gateway](https://ipfs.video) - 在云提供商上云初始化您自己的 IPFS 网关，并通过简单的 Web 界面轻松固定内容. [Source](https://github.com/bneijt/ipfs-video-gateway)
+- [ipfs-video-gateway](https://ipfs.video) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface. [Source](https://github.com/bneijt/ipfs-video-gateway)
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - 抓取包含所有资产的网页并将其放入 IPFS
 - [ipfsecret](https://github.com/shlemph/ipfsecret) - 使用秘密密码加密和解密 IPFS 文件
 - [ipget](https://github.com/ipfs/ipget) - :satellite: wget for IPFS：通过 IPFS 检索文件并将它们保存在本地.
 - [IPLD Explorer](https://explore.ipld.io) - 在浏览器中舒适地探索默克尔森林 [Source](https://github.com/ipfs-shipyard/ipld-explorer)
-- [ipns-pin](https://github.com/justicenode/node-ipns-pin) - A command-line tool to pin stuff via ipns.
+- [ipns-pin](https://github.com/justicenode/node-ipns-pin) - 通过 ipns 固定内容的命令行工具.
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  - 用于将 IPFS/IPNS 地址重定向到本地网关的浏览器用户脚本. 这应该适用于尚未为其编写扩展并且支持用户脚本的任何浏览器.
 - [iprfc](https://github.com/RTradeLtd/iprfc) - IETF RFC 下载器，将 RFC 存储在 IPFS 上并使用 RTradeLtd/Lens 对其进行索引.
 - [ipscend](https://github.com/diasdavid/ipscend) - 在 IPFS 中托管 Web 应用程序和静态网站的工具
-- [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta 是针对您的微服务架构的即插即用服务，允许在 IPFS 上收集、存储和索引数据并提供搜索功能（全文、查询）.
+- [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta 是针对您的微服务架构的即插即用服务，允许在 IPFS 上收集、存储和索引数据，并提供搜索功能（全文、查询）.
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Multiverse 是一个分散的版本控制系统，支持点对点软件开发.
-- [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB 是一个无服务器、分布式的点对点数据库，它使用 IPFS 作为其数据存储和 IPFS Pubsub 来自动与对等点同步数据库.
+- [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB 是一个无服务器、分布式、点对点的数据库，它使用 IPFS 作为其数据存储和 IPFS Pubsub 来自动与对等点同步数据库.
 - [pinbot](https://github.com/whyrusleeping/pinbot) - 通过 IRC 固定内容
 - [Public gateway status checker](https://ipfs.fooock.com/) - 用于检查 IPFS 网关的公共状态的 Web 应用程序，包括延迟和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX 是一个与 IPFS 自定义集成的文件上传和操作工具

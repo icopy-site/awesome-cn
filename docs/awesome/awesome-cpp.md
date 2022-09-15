@@ -78,7 +78,7 @@
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)  - C++ 中 Actor 模型的开源实现.  [BSD-3-条款] [website](http://actor-framework.org/)
 * [Ichor](https://github.com/volt-software/ichor)  - 一个专注于线程安全并提供依赖注入的事件队列.  [麻省理工学院]
 * [libev](http://libev.schmorp.de/)  - 一个全功能和高性能的事件循环，它在 libevent 之后松散地建模，但没有它的限制和错误.  [BSD 和 GPL]
-* [libevent](http://libevent.org/) - An event notification library. [BSD]
+* [libevent](http://libevent.org/)  - 一个事件通知库.  [BSD]
 * [libhv](https://github.com/ithewei/libhv)  - 跨平台事件循环库.  [BSD]
 * [libuv](https://github.com/libuv/libuv)  - 跨平台异步 I/O.  [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp)  - 实现 Promise/A+ 标准的仅标头库.  【反996】
@@ -146,7 +146,7 @@
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)  - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
  * [Clara](https://github.com/catchorg/Clara)  - 适用于 C++ 11 及更高版本的简单易用、可组合的命令行解析器.  [BSL-1.0]
  * [cli](https://github.com/daniele77/cli)  - 用于交互式命令行界面（Cisco 风格）的跨平台标头仅限 C++14 库.  [促进]
- * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
+ * [CLI11](https://github.com/CLIUtils/CLI11)  - 用于简单和高级 CLI 解析的仅标头单文件或多文件 C++11 库.  [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)  - 从文档字符串生成选项解析器的库.  [麻省理工学院/助推器]
  * [FINAL CUT](https://github.com/gansm/finalcut)  - 使用基于文本的小部件创建终端应用程序的库.  [LGPL]
@@ -269,7 +269,7 @@
 *密码学和加密库*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/)  - 跨平台文件加密实用程序. 加密文件可在所有支持的操作系统和处理器上移植.  [BSD]
-* [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
+* [BeeCrypt](http://beecrypt.sourceforge.net/)  - 一个可移植且快速的密码库.  [LGPLv2.1+]
 * [Botan](http://botan.randombit.net/)  - C++ 的加密库.  [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)  - 一个免费的 C++ 加密方案类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)  - C++11 仅标头消息摘要（哈希）库.  [公共区域]
@@ -359,6 +359,7 @@
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有多平台网络视图的分析器.  [许可]
 * [MinUnit](https://github.com/siu/minunit)  - C 的最小单元测试框架自包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ 接缝和模拟对象的 Eclipse CDT 插件.
+* [nanobench](https://github.com/martinus/nanobench)  - 适用于 C++11/14/17/20 的简单、快速、准确的单头微基准测试功能.  [麻省理工学院] [website](https://nanobench.ankerl.com)
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)  - 一个简单的低开销跨平台计时器类，用于基准测试.  [zLib] [website](http://www.plflib.org/nanotimer.htm)
 * [Nonius](https://github.com/libnonius/nonius)  - C++ 微基准测试框架.  [抄送]
 * [Remotery](https://github.com/Celtoys/Remotery)  - 带有 Web 查看器的单个 C 文件分析器.  [阿帕奇2]
@@ -429,7 +430,7 @@
 * [Sciter](http://sciter.com/)  - Sciter 是一个可嵌入的 HTML/CSS/脚本引擎，旨在用作现代桌面应用程序的 UI 层.  [免费/商业]
 * [Slint](https://github.com/slint-ui/slint)  - 用于桌面和嵌入式的轻量级 GUI 工具包.  [GPL/免费/商业] [website](https://slint-ui.com)
 * [wxWidgets](http://wxwidgets.org/)  - 一个 C++ 库，允许开发人员使用单一代码库创建适用于 Windows、Mac OS X、Linux 和其他平台的应用程序.  [拥有 LGPL]
-* [xtd](https://github.com/gammasoft71/xtd)  - 现代 C++17/20 框架，用于在 Windows、macOS、Linux、iOS 和 android 上创建控制台 (CLI)、表单（类似于 WinForms 的 GUI）和 tunit（类似于 Microsoft 单元测试框架的单元测试）应用程序.  [麻省理工学院]
+* [xtd](https://github.com/gammasoft71/xtd)  - 现代 C++17/20 框架，用于在 Windows、macOS、Linux、iOS 和 android 上创建控制台 (CLI)、表单（像 WinForms 的 GUI）和 tunit（像 Microsoft 单元测试框架这样的单元测试）应用程序.  [麻省理工学院]
 * [Yue](https://github.com/yue/yue)  - 用于创建本机跨平台 GUI 应用程序的库.  [LGPLv2]
 
 ## Graphics
@@ -534,7 +535,7 @@
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  - 用于与 JSON 交互的 C++ 库.  [麻省理工学院]
 * [json-parser](https://github.com/udp/json-parser) - 用可移植 ANSI C 编写的占用空间极小的 JSON 解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  - 一个用于 C++11 的小型 JSON 库.  [麻省理工学院]
-* [json-struct](https://github.com/jorgen/json_struct) - High performance, single header JSON parser parsing to and from C++ structs. [MIT]
+* [json-struct](https://github.com/jorgen/json_struct)  - 高性能、单头 JSON 解析器解析到 C++ 结构和从 C++ 结构解析.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  - C++ 的 JSON 库. 支持 C++11. 没有依赖关系，快速且对开发人员友好.  [阿帕奇2]
 * [jute](https://github.com/amir-s/jute)  - 非常简单的 C++ JSON 解析器.  [公共区域]
 * [libjson](https://github.com/vincenthz/libjson)  - C 中的 JSON 解析器和打印机库.易于与任何模型集成.  [LGPL]
@@ -561,7 +562,7 @@
 * [G3log](https://github.com/KjellKod/g3log)  - 带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) - 谷歌日志模块的 C++ 实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)  - 用于灵活记录到文件、系统日志、IDSA 和其他目标的 C++ 类库.  [LGPL]
-* [log4cplus](https://github.com/log4cplus/log4cplus)  - 一个简单易用的 C++ 日志 API，提供对日志管理和配置的线程安全、灵活和任意粒度的控制.  [BSD 和 Apache2]
+* [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
 * [loguru](https://github.com/emilk/loguru)  - 轻量级 C++ 日志库.  [公共区域]
 * [plog](https://github.com/SergiusTheBest/plog)  - 少于 1000 行代码的便携式和简单的 C++ 日志.  [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)  - 用于 C++ 的低延迟、高吞吐量、异步日志库.  [麻省理工学院]
@@ -592,7 +593,7 @@
 * [sofia-ml](https://code.google.com/p/sofia-ml/)  - 一套用于机器学习的快速增量算法.  [阿帕奇2]
 * [VLFeat](https://github.com/vlfeat/vlfeat)  - VLFeat 开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2-条款] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost)  - 适用于 Python、R、Java、Scala、C++ 等的可扩展、可移植和分布式梯度提升（GBDT、GBRT 或 GBM）库. 在单机、Hadoop、Spark、Flink 和 DataFlow 上运行.  [阿帕奇2]
-* [ncnn](https://github.com/Tencent/ncnn)  - 针对移动平台优化的高性能神经网络推理计算框架.  [BSD]
+* [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]
 
 ## Math
 
@@ -638,7 +639,7 @@
 * [C Smart Pointers](https://github.com/Snaipe/libcsptr)  - (GNU) C 编程语言的智能指针.  [麻省理工学院]
 * [Hoard](https://github.com/emeryberger/Hoard)  - 适用于 Linux、Windows 和 Mac 的快速、可扩展和节省内存的 Malloc.  [GPL，商业] [website](http://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)  - 通用 malloc(3) 实现，强调避免碎片和可扩展的并发支持.  [BSD] [website](http://jemalloc.net/)
-* [memory](https://github.com/foonathan/memory)  - STL 兼容 C++ 内存分配器库.  [ZLib]
+* [memory](https://github.com/foonathan/memory)  - STL 兼容的 C++ 内存分配器库.  [ZLib]
 * [memory-allocators](https://github.com/mtrebi/memory-allocators)  - 自定义内存分配器以提高动态内存分配的性能.  [麻省理工学院]
 * [mimalloc](https://github.com/microsoft/mimalloc)  - 具有出色性能的紧凑型通用分配器.  [麻省理工学院]
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐的内存分配器.[PublicDomain]
@@ -899,7 +900,7 @@
 *有用的库或工具不属于上述类别或可能只是尚未分类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  - 一种计算对 c++ 程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) 又名 afl-fuzz - 疯狂的模糊测试工具，可以在给定时间和最少的示例输入的情况下自动发现错误.  [阿帕奇2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
 * [Better String](http://bstring.sourceforge.net)  - C 的字符串库的替代方案，功能更强大且没有缓冲区溢出溢出问题. 还包括一个 C++ 包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  - 托管信号和时隙系统的实现.  [促进]
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
@@ -939,7 +940,7 @@
 * [ub-canaries](https://github.com/regehr/ub-canaries) - 试图让编译器利用未定义行为的 C/C++ 程序集合.
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) 用于左值、右值等的 PDF 备忘单.  [詹克版权所有]
 * [VarTypes](https://github.com/szi/vartypes)  - 一个功能丰富、面向对象的框架，用于在 C++/Qt4 中管理变量.  [LGPL]
-* [ZBar](http://zbar.sourceforge.net/)  - 条码扫描器库，允许扫描照片/图像/视频流中的条码并返回其值.  [LGPL2]
+* [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/)  - 一个开源的、多格式的一维/二维条码图像处理库，用 Java 实现，可移植到其他语言.  [阿帕奇]
 * [pprint](https://github.com/p-ranav/pprint)  - 现代 C++ 的漂亮打印机.  [麻省理工学院]
 
@@ -964,7 +965,7 @@
 ## Online Compiler
 *在线 C 或 C++ 编译器列表*
 
-* [codechef](https://www.codechef.com/ide) - 一个简单的在线编译器 CodeChef.
+* [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
 * [codepad](http://codepad.org/) - 一个在线编译器/解释器和一个简单的协作工具.
 * [coliru](http://coliru.stacked-crooked.com/) - 支持各种 C++ 编译器的在线编译器/shell.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有可用汇编输出的交互式编译器.
@@ -984,7 +985,7 @@
 * [GDB](https://www.gnu.org/software/gdb/) - GNU 调试器.
 * [LLDB](http://lldb.llvm.org/) - LLDB 调试器.
 * [Metashell](https://metashell.readthedocs.org) - 包含 MDB 元调试器的交互式模板元编程外壳.
-* [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
+* [Valgrind](http://valgrind.org/) - 用于内存调试、内存泄漏检测和分析的工具.
 * [x64dbg](http://x64dbg.com/) - 适用于 Windows 的开源 x64/x32 调试器.
 
 ## Integrated Development Environment
@@ -1017,7 +1018,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]

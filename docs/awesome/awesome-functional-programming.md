@@ -60,6 +60,7 @@
 - [Mastering Functional Programming](https://www.perlego.com/book/800653/mastering-functional-programming-functional-techniques-for-sequential-and-parallel-programming-with-scala-pdf) - 如果您具有命令式和 OOP 背景，本书将引导您了解函数式编程的世界，无论您使用哪种编程语言.
 - [Jax in Action](https://www.manning.com/books/jax-in-action) - 一本关于 JAX 数值计算库的书.
 - [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - 使用 PowerShell 脚本自动化复杂的任务和流程.
+- [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
 
 
 ### Communities

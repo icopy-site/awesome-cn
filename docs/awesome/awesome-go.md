@@ -333,7 +333,7 @@ _用于配置解析的库._
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 用于管理来自环境变量的配置数据的库.
 - [koanf](https://github.com/knadh/koanf)  - 轻量级、可扩展的库，用于读取 Go 应用程序中的配置. 内置对 JSON、TOML、YAML、env、命令行的支持.
 - [konfig](https://github.com/lalamove/konfig) - 适用于分布式处理时代的 Go 的可组合、可观察和高性能配置处理.
-- [kong](https://github.com/alecthomas/kong) - 命令行解析器，支持任意复杂的命令行结构和其他配置源，例如 YAML、JSON、TOML 等（“主销”的继承者）.
+- [kong](https://github.com/alecthomas/kong) - 命令行解析器，支持任意复杂的命令行结构和其他配置源，如 YAML、JSON、TOML 等（“主销”的继承者）.
 - [mini](https://github.com/sasbury/mini) - 用于解析 ini 样式配置文件的 Golang 包.
 - [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - 用于读取环境变量的简单有用的包.
 - [nfigure](https://github.com/muir/nfigure)  - 从命令行（Posix 和 Go 风格）基于每个库结构标签的配置； 环境、JSON、YAML
@@ -435,7 +435,7 @@ _用于预处理 CSS 文件的库._
 - [gota](https://github.com/kniren/gota) - 为 Go 实现数据帧、系列和数据整理方法.
 - [hide](https://github.com/emvi/hide) - 带有编组到/从散列的 ID 类型，以防止向客户端发送 ID.
 - [hilbert](https://github.com/google/hilbert) - 用于将值映射到空间填充曲线和从空间填充曲线（例如 Hilbert 和 Peano 曲线）映射的包.
-- [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间缩减的 HyperLogLog 实施.
+- [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间减少的 HyperLogLog 实施.
 - [slices](https://github.com/srfrog/slices)  - 对切片进行操作的函数； 像`package strings`，但适用于切片.
 - [slices](https://github.com/twharmon/slices) - 切片的纯通用函数.
 
@@ -656,6 +656,7 @@ _用于构建和使用 SQL 的库._
 - [pq](https://github.com/lib/pq) - 用于数据库/sql 的纯 Go Postgres 驱动程序.
 - [Sqinn-Go](https://github.com/cvilsmeier/sqinn-go) - 纯 Go 的 SQLite.
 - [sqlhooks](https://github.com/qustavo/sqlhooks) - 将挂钩附加到任何数据库/sql 驱动程序.
+- [ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - 本机和数据库/sql 驱动程序 YDB（Yandex 数据库）
 
 ### NoSQL Database Drivers
 
@@ -1390,7 +1391,7 @@ _实现消息系统的库._
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster 是一个 go push 服务器集群.
 - [gorush](https://github.com/appleboy/gorush) - 使用推送通知服务器 [APNs2](https://github.com/sideshow/apns2) 和谷歌 [GCM](https://github.com/google/go-gcm).
 - [gosd](https://github.com/alexsniffin/gosd) - 用于调度何时向频道发送消息的库.
-- [guble](https://github.com/smancke/guble) - 消息服务器使用推送通知（Google Firebase 云消息传递、Apple 推送通知服务、SMS）以及 websockets，一个 REST API，具有分布式操作和消息持久性.
+- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase 云消息传递、Apple 推送通知服务、SMS）以及 websockets、REST API 的消息传递服务器，具有分布式操作和消息持久性.
 - [hare](https://github.com/leozz37/hare) - 用于发送消息和侦听 TCP 套接字的用户友好库.
 - [hub](https://github.com/leandro-lugaresi/hub) - Go 应用程序的消息/事件中心，使用发布/订阅模式，支持 rabbitMQ 交换等别名.
 - [jazz](https://github.com/socifi/jazz) - 一个简单的 RabbitMQ 抽象层，用于队列管理以及消息的发布和消费.
@@ -1609,7 +1610,7 @@ _使用人类语言的图书馆._
 - [icu](https://github.com/goodsign/icu)  - icu4c C 库检测和转换功能的 Cgo 绑定. 保证与版本 50.1 的兼容性.
 - [iuliia-go](https://github.com/mehanizm/iuliia-go) - 以各种可能的方式音译西里尔字母 → 拉丁语.
 - [spreak](https://github.com/vorlif/spreak) - 灵活的 Go 翻译和人性化库，基于 gettext 背后的概念.
-- [t](https://github.com/youthlin/t) - 另一个 golang 的 i18n pkg，遵循 GNU gettext 样式并支持 .po/.mo 文件：`tT (gettext)`、`tN (ngettext)` 等.它包含一个 cmd 工具 [xtemplate](https://github.com/youthlin/t/blob/main/cmd/xtemplate)，它可以从 text/html 模板中提取消息作为 pot 文件.
+- [t](https://github.com/youthlin/t) - golang 的另一个 i18n pkg，它遵循 GNU gettext 样式并支持 .po/.mo 文件：`tT (gettext)`、`tN (ngettext)` 等.它包含一个 cmd 工具 [xtemplate](https://github.com/youthlin/t/blob/main/cmd/xtemplate)，它可以从 text/html 模板中提取消息作为 pot 文件.
 
 ### Transliteration
 
@@ -1954,7 +1955,7 @@ _用于二进制序列化的库和工具._
 - [jackal](https://github.com/ortuman/jackal) - 一个用 Go 编写的 XMPP 服务器.
 - [lets-proxy2](https://github.com/rekby/lets-proxy2) - 用于处理 https 的反向代理，并从lets-encrypt 发出证书.
 - [minio](https://github.com/minio/minio) - Minio 是一个分布式对象存储服务器.
-- [Moxy](https://github.com/sinhashubham95/moxy) - Moxy 是一个简单的模拟程序和代理应用程序服务器，您可以创建模拟端点以及代理请求，以防端点不存在模拟.
+- [Moxy](https://github.com/sinhashubham95/moxy) - Moxy 是一个简单的模拟器和代理应用程序服务器，您可以创建模拟端点以及代理请求，以防端点不存在模拟.
 - [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) - Nginx 日志解析器和导出器到 Prometheus.
 - [nsq](https://nsq.io/) - 实时分布式消息传递平台.
 - [protoxy](https://github.com/camgraff/protoxy) - 将 JSON 请求正文转换为协议缓冲区的代理服务器.
@@ -2062,7 +2063,7 @@ _用于测试代码库和生成测试数据的库._
   - [testmd](https://godoc.org/github.com/tvastar/test/cmd/testmd) - 将 markdown 片段转换为可测试的 go 代码.
   - [testsql](https://github.com/zhulongcheng/testsql) - 测试前从 SQL 文件生成测试数据，完成后清除.
   - [testza](https://github.com/MarvinJWendt/testza) - 功能齐全的测试框架，带有漂亮的彩色输出.
-  - [trial](https://github.com/jgroeneveld/trial) - 快速简单的可扩展断言，无需引入太多样板.
+  - [trial](https://github.com/jgroeneveld/trial) - Quick and easy extendable assertions without introducing much boilerplate.
   - [Tt](https://github.com/vcaesar/tt) - 简单而多彩的测试工具.
   - [wstest](https://github.com/posener/wstest) - 用于对 websocket http.Handler 进行单元测试的 Websocket 客户端.
 
@@ -2113,7 +2114,7 @@ _用于解析和处理文本的库._
 - [bytes](https://github.com/labstack/gommon/tree/master/bytes) - 格式化和解析数字字节值（10K、2M、3G 等）.
 - [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) - 固定宽度的文本格式（带反射的编码器/解码器）.
 - [go-humanize](https://github.com/dustin/go-humanize) - 将时间、数字和内存大小格式化为人类可读格式.
-- [gotabulate](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
+- [gotabulate](https://github.com/bndr/gotabulate) - 使用 Go 轻松漂亮地打印您的表格数据.
 - [textwrap](https://github.com/isbm/textwrap)  - 在行尾换行. 从 Python 实现 `textwrap` 模块.
 
 ### Markup Languages
@@ -2801,7 +2802,7 @@ _用 Go 编写的软件._
 
 ### DevOps Tools
 
-- [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate 是一种将长字符串转换为具有可配置分隔符的较短字符串的工具，例如将分支名称嵌入部署堆栈 ID.
+- [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate 是将长字符串转换为具有可配置分隔符的较短字符串的工具，例如将分支名称嵌入部署堆栈 ID.
 - [aptly](https://github.com/smira/aptly) - aptly 是一个 Debian 存储库管理工具.
 - [aurora](https://github.com/xuri/aurora) - 跨平台的基于 Web 的 Beanstalkd 队列服务器控制台.
 - [awsenv](https://github.com/soniah/awsenv) - 为配置文件加载 Amazon (AWS) 环境变量的小型二进制文件.
