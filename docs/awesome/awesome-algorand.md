@@ -29,7 +29,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand](https://www.algorand.com/) - 官方网站.
 - [Algorand Foundation](https://algorand.foundation/) - 基金会官方网站.
 - [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
-- [Algorand Governance](https://governance.algorand.foundation/) - Official website of Algorand Governance program.
+- [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
 - [Algorand Developer Portal](https://developer.algorand.com/) - 官方 Algorand 开发者门户.
 - [Algorand Discord](https://discord.com/invite/YgPTCVk) - 官方 Algorand Discord 服务器.
 
@@ -62,7 +62,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand 学校速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - Proof of Stake Blockchain Efficiency Framework.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 
 ### Tutorials
@@ -168,6 +168,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的特定领域语言，可编译为 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 - [ASC Builder](https://ascbuilderapp.com) - 用于开发和部署 Algorand 智能合约的 GUI（拖放）工具 [Algoknox](https://twitter.com/Algoknox).
+- [tealish](https://github.com/Hipo/tealish)  - Tealish 是 Algorand 虚拟机的可读语言. 它使开发人员能够以针对可读性优化的程序风格编写 TEAL.
 
 ### Docker
 
@@ -260,7 +261,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand Realm 的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的散装 Algorand NFT. 用 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
-- [algovanity](https://algovanity.com/) - Algorand Vanity 地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
+- [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 编写的 Algorand 虚地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.

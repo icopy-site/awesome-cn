@@ -116,6 +116,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 自动编码器
 - 生成对抗网络 (GAN)
 - 自组织地图
+- 变压器
+- 条件随机场 (CRF)
 
 ## COLLEGES
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -175,6 +177,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是 Coursera 平台上专注于推荐系统的中级/高级专业.
+- [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 
 
 ## Tutorials
@@ -686,7 +689,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Big Data Combine](https://twitter.com/BigDataCombine)  | 为寻求将其模型货币化为交易策略的数据科学家提供快速、实时的试用 |
  | 大数据狂热 |  Data Viz Wiz , 数据记者 , 增长黑客 , Data Science for Dummies (2015) 作者 |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
-| Charlie Greenbacker | Director of Data Science at @ExploreAltamira |
+ | 查理格林巴克 |  @ExploreAltamira 数据科学总监 |
 | [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 的数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
@@ -714,7 +717,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Julia Evans](https://twitter.com/b0rk)  | 黑客 - 熊猫 - 数据分析 |
 | [Kenneth Cukier](https://twitter.com/kncukier)  | 经济学人的数据编辑和大数据的合著者 (http://www.big-data-book.com/).  |
  | 凯文达文波特 |  https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ 的组织者 |
-| [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师，创始人 [Data School](https://www.dataschool.io/) |
+| [Kevin Markham](https://twitter.com/justmarkham) | Data science instructor, and founder of [Data School](https://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据漫游者.  |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
  | 琳达·雷格伯 | 数据故事讲述者，可视化.  |

@@ -6,7 +6,7 @@
 >
  &gt; PlayCanvas 是一个用于构建交互式 Web 内容的开源平台. 它是用 JavaScript、HTML5、CSS3 和 WebGL 编写的.
 >
-&gt; 此列表是精选资源、工具、教程和项目的精选集合，这些资源、工具、教程和项目使用 PlayCanvas 引擎帮助开发人员制作 _awesome_ 游戏和可视化.
+&gt; 此列表是精选资源、工具、教程和项目的精选集合，这些资源、工具、教程和项目使用 PlayCanvas 引擎来帮助开发人员制作 _awesome_ 游戏和可视化.
 >
 &gt; 投稿_非常欢迎_但先看 [Contributing](#contributing).
 
@@ -43,7 +43,7 @@
 - [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) - 使用 PlayCanvas 和 Substance 为车辆配置器创建高端艺术品.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One 的 PlayCanvas 主题博客.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - 制作简单的基于物理的游戏的教程.
-- [Solar Games Mentorship](https://solargames.io/mentorship/) - 高级 PlayCanvas 培训和指导服务.
+- [Solar Games Mentorship](https://solargames.io/mentorship/) - Premium PlayCanvas training and mentorship services.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - 用于简短 PlayCanvas 教程的 YouTube 播放列表.
 
 ## Extensions and Utilities
@@ -141,14 +141,15 @@
 
 ## Automotive
 
-- [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
+- [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - 旅行拖车可视化器.
 - [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - 船配置器.
 - [BMW Car Design](https://www.bmw.com/en/design/car-design-the-keys-to-bmw-design.html) - BMW设计的互动探索.
 - [BMW i4 M50 Showcase](https://www.bmw.com/en/performance/electric-sports-car-BMWi4-M50-driving-dynamic-test.html) - 嵌入新 i4 技术概述的博客文章.
 - [BMW i8](http://car.playcanvas.com) - 汽车可视化器.
 - [DAB Motors](https://dabmotors.com/configurator/) - 摩托车配置器.
+- [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - Visionaries777 的配置器技术演示.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
-- [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 Infiniti 系列（中文）.
+- [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 英菲尼迪系列（中文）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - 探索起亚的最新车型.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - 汽车可视化器.
 - [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - 以 3D 形式探索 Nissan 的 Arriya（日语 - 需要登录）.
@@ -174,6 +175,7 @@
 - [Orange Room](https://playcanv.as/p/1ha5glKf/) - 一个高度逼真的室内环境，展示了房间规模的 VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - 来自 Karsten Weil 的演示场景风格的基于 WebXR 的主页.
 - [Raw: Paralympics XR](https://www.phoria.com.au/projects/paralympics-xr/) - Webby 2022 提名的 WebXR 360 视频体验.
+- [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - 有趣的 VR 游戏和 js13k WebXR 类别的获胜者.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - 用于 VR 交互实验的沙盒.
 
 ## Blockchain/Crypto/NFT
