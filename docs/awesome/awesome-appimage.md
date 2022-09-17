@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="AppImage/awesome-appimage"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<!--lint disable double-link-->
+
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/AppImage/awesome-appimage/master/media/logo.svg?sanitize=true" alt="Awesome AppImage">
@@ -15,7 +17,7 @@
 
 ## Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[AppImage](https://appimage.org) 是一种基于社区的格式，用于将应用程序分发到各种主流 Linux 发行版，而无需集中存储. 一个应用程序 = 一个文件！ 此列表包含使用 AppImages 的工具，例如为应用程序创建 AppImages 并将 AppImages 轻松集成到系统中. 随着 AppImage 周围充满活力的社区不断壮大，这个列表也在增长.
+[AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
 
 
 
@@ -28,7 +30,7 @@
 
 ### App stores
 
-- [AppImageHub.com](https://www.appimagehub.com/) - Downloadable AppImages, powered by [Opendesktop.org](https://www.opendesktop.org/).
+- [AppImageHub.com](https://www.appimagehub.com/) - 可下载的 AppImages，由 [Opendesktop.org](https://www.opendesktop.org/).
 - [pling.com](https://www.pling.com/) - 开放商店，创作者可以在其中发布他们的自由产品和创意内容，包括 AppImages.
 - [App Outlet](https://app-outlet.github.io/) - 适用于 AppImages、Flatpaks 和 Snaps 的通用应用商店.
 - [Linux App Store](https://linuxappstore.io/) - 适用于 AppImage、Flatpak 和 Snap 格式的 Linux 应用程序的通用应用程序商店（项目已放弃）.
@@ -92,7 +94,7 @@
 - [Deepin](https://www.deepin.org/en/) - 当您双击 AppImage 或任何其他缺少执行权限的可执行文件时，一个用户友好的对话框会解释情况并要求您设置执行权限并执行可执行文件.
 - [Nitrux](https://nxos.org/) - 推广使用 AppImage 作为获取应用程序的主要格式，内置应用程序中心以 AppImages 为特色.
 - [Linux Mint](https://linuxmint.com/) - 有一个 [AppImage thumbnailer](https://github.com/linuxmint/xapp-thumbnailers) 在 AppImage 文件上显示应用程序图标.
-- [Zenwalk GNU Linux](http://www.zenwalk.org/) 是“AppImage ready”并以 AppImage 格式分发一些应用程序.
+- [Zenwalk GNU Linux](http://www.zenwalk.org/) - “AppImage 准备就绪”并以 AppImage 格式分发一些应用程序.
 
 ## AppImage developer tools
 

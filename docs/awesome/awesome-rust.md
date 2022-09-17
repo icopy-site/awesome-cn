@@ -1516,7 +1516,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [Rustlings](https://github.com/rust-lang/rustlings) — 让您习惯阅读和编写 Rust 代码的小练习
   * [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) - 一个计算机科学课程，有助于练习在 Rust 中获得的学术知识
   * [stdx](https://github.com/brson/stdx) — 首先学习这些 crate 作为 std 的扩展
-  * [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/) - 奠定在 Rust 中构建快速有效程序所需的知识基础.
+  * [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - 奠定在 Rust 中构建快速有效程序所需的知识基础.
   * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
 *播客
   * [New Rustacean](https://newrustacean.com) — 关于学习 Rust 的播客

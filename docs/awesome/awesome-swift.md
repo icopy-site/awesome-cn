@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1092 |  2022 年 8 月 17 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1093 |  2022 年 9 月 17 日
 
 
 
@@ -30,7 +30,7 @@
 [back to top](#readme) 
 
 * [API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/) - 官方 Swift API 设计指南.
-* [Apple eBook](https://books.apple.com/us/book/the-swift-programming-language-swift-5-6/id881256329) - 面向 Swift 初学者的官方 Apple 电子书.
+* [Apple eBook](https://books.apple.com/us/book/the-swift-programming-language-swift-5-7/id881256329) - 面向 Swift 初学者的官方 Apple 电子书.
 * [Getting Started](https://www.swift.org/getting-started/) - 查找有关如何使用 Swift 编程语言的信息.
 
 ### Style Guides
@@ -55,7 +55,7 @@
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - Vincent Pradeilles 提供的一系列实用技巧.
 * [SwiftDoc](https://swiftdoc.org/) - 自动生成的文档.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - 中文书面指南.
-* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - John Sundell 收集的有用技巧.
+* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - John Sundell 收集的有用提示.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - Swift Web 开发人员的出版物.
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - 一个展示 Swift 4.0 新功能的 Xcode 游乐场.
 
@@ -754,7 +754,7 @@
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - 适用于移动应用程序的智能且易于使用的图像遮罩和剪切 SDK.
 * [Toucan](https://github.com/gavinbunney/Toucan) - 图像处理 API.
 * [UIImageColors](https://github.com/jathu/UIImageColors) - UIImage 的 iTunes 风格颜色提取器.
-* [Viewer](https://github.com/3lvis/Viewer) - 支持本地和远程视频和图像的图像查看器（或灯箱）.
+* [Viewer](https://github.com/3lvis/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - 具有优先权的多图像下载器.
 * [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 适用于 iOS 的类似 Instagram 的图像选择器和过滤器.
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - 以任何形状裁剪图像.
@@ -1078,7 +1078,7 @@
 
 * [AutoMockable](https://github.com/vincent-pradeilles/AutoMocker) - 利用类型系统让您轻松创建数据类型的模拟实例的框架.
 * [Cuckoo](https://github.com/Brightify/Cuckoo) - 第一个无样板的模拟框架.
-* [Mocker](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+* [Mocker](https://github.com/WeTransfer/Mocker) - 模拟 Alamofire 和 URLSession 请求，而无需触及您的代码实现
 * [Mockingbird](https://github.com/Farfetch/mockingbird) - 简化软件测试，通过使用 HTTP/HTTPS 轻松模拟任何系统，允许团队针对不完整、不稳定或仅重现计划案例的服务进行测试和开发.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - 一个优雅的库，用于轻松地存根 HTTP 请求.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - 一个简单的模拟框架，灵感来自著名的 Mockito for Java.
@@ -1137,6 +1137,7 @@
 * [BetterSafariView](https://github.com/stleamist/BetterSafariView) - 在 SwiftUI 中呈现 SFSafariViewController 或启动 ASWebAuthenticationSession 的更好方法.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用 SpriteKit 的可播放的拉动刷新视图.
 * [BulletinBoard](https://github.com/alexisakers/BulletinBoard) - 生成和管理显示在屏幕底部的上下文卡片.
+* [CapturePreventionKit](https://github.com/Jaesung-Jung/CapturePreventionKit) - 为“屏幕捕获预防”提供“标签”和“图像视图”.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) - macOS 应用程序的圆形进度指示器.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 经典风格的 UI 组件集合.
 * [ContainerController](https://github.com/mrustaa/ContainerController)  - 用户界面组件. 这是来自应用程序的复制滑动面板：Apple Maps, Stocks
@@ -1241,7 +1242,7 @@
 * [AwaitToast](https://github.com/k-lpmg/AwaitToast)  - 带有基本吐司的异步等待吐司. 灵感来自 facebook 发布吐司.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - 高度可定制的警报/通知/成功/错误/警报弹出窗口.
 * [CFNotify](https://github.com/JT501/CFNotify) - 一个可定制的框架，用于创建可拖动的警报视图.
-* [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
+* [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的 UIAlertController.
 * [GSMessage](https://github.com/wxxsw/GSMessages) - 适用于 iOS 7+ 的简单样式消息/通知.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - 一个很酷的有弹性动作表的库.
 * [Kamagari](https://github.com/tasanobu/Kamagari) - 简单的 UIAlertController 构建器类.
@@ -1527,14 +1528,14 @@
 * [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI 库，用于通过点击操作进行演练或入职流程.
 * [Gecco](https://github.com/yukiasai/Gecco) - 适用于 iOS 的 Spotlight 视图.
 * [Instructions](https://github.com/ephread/Instructions) - 创建应用程序演练和导游的图书馆.
-* [OnboardKit](https://github.com/NikolaKirev/OnboardKit) - 为您的 iOS 应用程序定制用户入职.
+* [OnboardKit](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 * [PaperOnboarding](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider.
 * [SuggestionsKit](https://github.com/huemae/SuggestionsKit) - 用于教育用户了解应用程序功能的库.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - 一个 iOS 框架，允许开发人员创建精美的入职体验.
 * [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - 在您的应用程序中创建出色的演练体验的最简单方法.
 
 ### Utility
-*一些有趣的实用程序可以帮助您完成项目* [back to top](#readme) 
+*Some interesting utilities to help you in your projects* [back to top](#readme) 
 
 * [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) - 开发自定义 Alexa 技能.
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) - 优雅地，使用方法链将样式应用于 UIKit.
@@ -1609,7 +1610,7 @@
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - 适用于 iOS 的基于模式的用户输入格式化程序、解析器和验证器.
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单、可扩展、灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - 基于规则的验证库.
-* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - iOS 的字符串验证（受 validator.js 启发）.
 * [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - 使用属性包装器轻松验证您的属性.
 * [Validator](https://github.com/adamwaite/Validator) - 为您的 iOS 应用程序添加用户输入验证.
 

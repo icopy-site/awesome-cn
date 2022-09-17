@@ -46,8 +46,8 @@
 * [claire](https://github.com/robotlolita/claire) – 一个基于属性的测试库，用于明确指定代码不变量和行为.
 * [FPO.js](https://github.com/getify/fpo)  – Kyle Simpson（又名 getify）的 JavaScript FP 库. 支持命名参数样式方法.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) – 受 Haskell 的 Parsec 启发的 Javascript 解析器组合器实现
-* [fun-task](https://github.com/rpominov/fun-task)  – 用于管理 JS 中的异步代码的抽象.  Tasks 类似于 Promises，关键区别在于 Tasks 可以表示计算，而 Promises 只能表示计算的结果. 附带流类型定义.
-* [most](https://github.com/cujojs/most) – 超高性能的反应式编程，可帮助您在值和事件流上组合异步操作，而不会出现副作用和可变共享状态的许多危害.
+* [fun-task](https://github.com/rpominov/fun-task)  – 用于管理 JS 中的异步代码的抽象.  Tasks 与 Promises 类似，关键区别在于 Tasks 可以表示计算，而 Promises 只能表示计算的结果. 附带流类型定义.
+* [most](https://github.com/cujojs/most) – 超高性能反应式编程，可帮助您在值和事件流上组合异步操作，而不会带来副作用和可变共享状态的许多危害.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ 最简单的信号库
 * [funfix](https://github.com/funfix/funfix)  – Funfix 是一个类型类和数据类型库，用于 JavaScript、TypeScript 和 Flow 中的函数式编程.  +CT，+TS.
 * [pico-lambda](https://github.com/trainyard/pico-lambda)  - 数组，字符串和事物的功能方式. 基于本机方法的 640b 函数库.  -TS.
@@ -71,7 +71,7 @@
 * [Ditox.js](https://github.com/mnasyrov/ditox)  - 用于构建模块化应用程序的强大依赖注入容器.  +TS
 * [RxEffects](https://github.com/mnasyrov/rx-effects)  - 使用 RxJS 进行反应式状态和效果管理.  +TS
 * [fxts](https://github.com/marpple/FxTS)  - 延迟评估和并发.  +TS
-* [ts-belt](https://mobily.github.io/ts-belt/)  - TypeScript 中用于 FP 的快速、现代且实用的实用程序库.  （使用数据优先的方法，如 remeda，但 [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) 比 remeda、ramda、rambda 和 lodash / fp.)
+* [ts-belt](https://mobily.github.io/ts-belt/)  - TypeScript 中用于 FP 的快速、现代且实用的实用程序库.  （使用数据优先的方法，如 remeda，但 [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) 比 remeda、ramda、rambda 和 lodash/fp.)
 * [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS 轻量级值-多方法实用程序
 * [true-myth](https://github.com/true-myth/true-myth) TypeScript 中用于安全、惯用的 null 和错误处理的库，具有“Maybe”和“Result”类型，支持函数式风格和更传统的方法调用风格
 
@@ -203,7 +203,7 @@
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC) – 使用 React 和 JavaScript 函数式编程构建“实用”Web 应用程序的系列.
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) – Underscore.js 声称是一个函数式编程库，但这是真的吗？
 * [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM) – 了解函子、应用程序和单子的实际用例.
-* [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen 将向您展示如何通过将循环抛在脑后并将函数作为抽象的主要单元来显着提升您的游戏.
+* [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen 将向您展示如何通过抛开循环并将函数作为抽象的主要单元来显着提升您的游戏.
 * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - 来自 YouTube 频道 FunFunFunction 的 Mattias Petter Johansson 的系列文章，专门介绍 JavaScript 中函数式编程的普及.
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - 简单易懂地介绍 javascript 中的函数式编程.
 * [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs) - 完整的 javascript 函数式编程介绍使 ES6 变得简单.
@@ -234,7 +234,7 @@
 
 ### Talk
 
-* [Functional Programming Slack channel](https://fpchat-invite.herokuapp.com/) – 社区拥有一个友好的 JavaScript 频道以及许多其他关于函数式编程的一般频道.
+* [Functional Programming Slack channel](https://fpslack.com/) – 社区拥有一个友好的 JavaScript 频道以及许多其他关于函数式编程的一般频道.
 
 
 ## Contribution

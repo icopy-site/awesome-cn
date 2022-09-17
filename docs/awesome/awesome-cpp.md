@@ -107,7 +107,7 @@
 * [Vorbis](http://xiph.org/vorbis/)  - Ogg Vorbis 是一种完全开放、非专有、无专利和免版税的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  - 公共领域，仅标头 MP3 解码器，具有洁净室实施.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  - Verovio 是一个快速、轻量级的乐谱雕刻库.  [LGPL] [website](https://www.verovio.org)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，并使用 ArrayFire 张量库和 flashlight 机器学习库来实现最高效率 [BSD]
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，使用 ArrayFire 张量库和 flashlight 机器学习库来实现最高效率 [BSD]
 
 ## Biology
 *生物信息学、基因组学、生物技术*
@@ -504,6 +504,7 @@
 ## Inter-process communication
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
+* [Boost.Interprocess](https://www.boost.org/doc/libs/1_80_0/doc/html/interprocess.html) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). [Boost] [website](https://www.boost.org/) 
 * [Cap'n Proto](https://github.com/capnproto/capnproto)  - 快速的数据交换格式和基于能力的 RPC 系统.  [麻省理工学院] [website](https://capnproto.org/)
 * [eCAL](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). [Apache2] [website](http://www.ecal.io/)
 * [gRPC](https://github.com/grpc/grpc)  - 一个高性能、开源、通用的 RPC 框架.  [BSD] [website](http://www.grpc.io/)
@@ -562,7 +563,7 @@
 * [G3log](https://github.com/KjellKod/g3log)  - 带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) - 谷歌日志模块的 C++ 实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)  - 用于灵活记录到文件、系统日志、IDSA 和其他目标的 C++ 类库.  [LGPL]
-* [log4cplus](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. [BSD & Apache2]
+* [log4cplus](https://github.com/log4cplus/log4cplus)  - 一个简单易用的 C++ 日志 API，提供对日志管理和配置的线程安全、灵活和任意粒度的控制.  [BSD 和 Apache2]
 * [loguru](https://github.com/emilk/loguru)  - 轻量级 C++ 日志库.  [公共区域]
 * [plog](https://github.com/SergiusTheBest/plog)  - 少于 1000 行代码的便携式和简单的 C++ 日志.  [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)  - 用于 C++ 的低延迟、高吞吐量、异步日志库.  [麻省理工学院]
@@ -593,7 +594,7 @@
 * [sofia-ml](https://code.google.com/p/sofia-ml/)  - 一套用于机器学习的快速增量算法.  [阿帕奇2]
 * [VLFeat](https://github.com/vlfeat/vlfeat)  - VLFeat 开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2-条款] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost)  - 适用于 Python、R、Java、Scala、C++ 等的可扩展、可移植和分布式梯度提升（GBDT、GBRT 或 GBM）库. 在单机、Hadoop、Spark、Flink 和 DataFlow 上运行.  [阿帕奇2]
-* [ncnn](https://github.com/Tencent/ncnn) - A high-performance neural network inference computing framework optimized for mobile platforms. [BSD]
+* [ncnn](https://github.com/Tencent/ncnn)  - 针对移动平台优化的高性能神经网络推理计算框架.  [BSD]
 
 ## Math
 
@@ -672,13 +673,13 @@
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 现代 C++ HTTP 请求库，具有简单但功能强大的接口. 仿照 Python 请求模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络.[麻省理工学院]
 * [ENet](https://github.com/lsalzman/enet)  - 可靠的 UDP 网络库.  [麻省理工学院] [website](http://enet.bespin.org/)
-* [evpp](https://github.com/Qihoo360/evpp)  - 使用 TCP/UDP/HTTP 协议的 C++ 高性能网络.  [BSD]
+* [evpp](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. [BSD]
 * [H2O](https://github.com/h2o/h2o)  - 优化的 HTTP 服务器，支持 HTTP/1.x 和 HTTP/2. 它也可以用作图书馆.  [麻省理工学院]
 * [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - C 的 http 请求/响应解析器. [麻省理工学院]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)  - 一种快速可靠的 ARQ 协议，可帮助应用程序减少网络延迟.  [麻省理工学院]
@@ -900,7 +901,7 @@
 *有用的库或工具不属于上述类别或可能只是尚未分类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  - 一种计算对 c++ 程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) 又名 afl-fuzz - 疯狂的模糊测试工具，可以在给定时间和最少的示例输入的情况下自动发现错误.  [阿帕奇2]
 * [Better String](http://bstring.sourceforge.net)  - C 的字符串库的替代方案，功能更强大且没有缓冲区溢出溢出问题. 还包括一个 C++ 包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  - 托管信号和时隙系统的实现.  [促进]
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
@@ -965,7 +966,7 @@
 ## Online Compiler
 *在线 C 或 C++ 编译器列表*
 
-* [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
+* [codechef](https://www.codechef.com/ide) - 一个简单的在线编译器 CodeChef.
 * [codepad](http://codepad.org/) - 一个在线编译器/解释器和一个简单的协作工具.
 * [coliru](http://coliru.stacked-crooked.com/) - 支持各种 C++ 编译器的在线编译器/shell.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有可用汇编输出的交互式编译器.
@@ -1018,7 +1019,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -1127,10 +1128,10 @@
 *精彩的 C 或 C++ 相关视频.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
-* [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 针对初学者和新程序员的详细 C 编程语言教程合集.
+* [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 适合初学者和新程序员的详细 C 编程语言教程合集.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 通过 VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过 VoidRealms.
-* [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston 官方 Buckys C++ 编程教程播放列表.
+* [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston Official Buckys C++ Programming Tutorials Playlist.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是thenewboston 的C++ 编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 带有 Qt 教程的新波士顿 C++ GUI 的官方播放列表.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - TheNewBoston 的所有 C 编程教程都在这里.
