@@ -48,6 +48,7 @@
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载器应用程序（CLI / Telegram Bot）.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
+- [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
 
 ### Graphics
 

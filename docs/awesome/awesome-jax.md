@@ -3,7 +3,7 @@
 <!--lint ignore double-link-->
 
 <!--lint ignore double-link-->
-[JAX](https://github.com/google/jax) 带来自动微分和 [XLA compiler](https://www.tensorflow.org/xla) together through a [NumPy](https://numpy.org/)- 用于在 GPU 和 TPU 等加速器上进行高性能机器学习研究的 API.
+[JAX](https://github.com/google/jax) 带来自动微分和 [XLA compiler](https://www.tensorflow.org/xla) 一起通过一个 [NumPy](https://numpy.org/)- 用于在 GPU 和 TPU 等加速器上进行高性能机器学习研究的 API.
 <!--lint enable double-link-->
 
 这是一个很棒的 JAX 库、项目和其他资源的精选列表. 欢迎投稿！
@@ -73,18 +73,19 @@
 - [evosax](https://raw.githubusercontent.com/RobertTLange/evosax) - 基于 JAX 的进化策略 <img src="https://img.shields.io/github/stars/RobertTLange/evosax?style=social" align="center">
 - [SymJAX](https://raw.githubusercontent.com/SymJAX/SymJAX) - 符号 CPU/GPU/TPU 编程. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 - [mcx](https://raw.githubusercontent.com/rlouf/mcx) - 表达和编译概率程序以进行性能推理. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
-- [Einshape](https://raw.githubusercontent.com/deepmind/einshape) - DSL-based reshaping library for JAX and other frameworks. <img src="https://img.shields.io/github/stars/deepmind/einshape?style=social" align="center">
+- [Einshape](https://raw.githubusercontent.com/deepmind/einshape) - 用于 JAX 和其他框架的基于 DSL 的重塑库. <img src="https://img.shields.io/github/stars/deepmind/einshape?style=social" align="center">
 - [ALX](https://github.com/google-research/google-research/tree/master/alx) - 使用交替最小二乘法进行分布式矩阵分解的开源库，更多信息见 [_ALX: Large Scale Matrix Factorization on TPUs_](https://arxiv.org/abs/2112.02194).
 - [Diffrax](https://raw.githubusercontent.com/patrick-kidger/diffrax) - JAX 中的数值微分方程求解器. <img src="https://img.shields.io/github/stars/patrick-kidger/diffrax?style=social" align="center">
 - [tinygp](https://raw.githubusercontent.com/dfm/tinygp) - JAX 中最小的高斯过程库. <img src="https://img.shields.io/github/stars/dfm/tinygp?style=social" align="center">
 - [gymnax](https://raw.githubusercontent.com/RobertTLange/gymnax) - 使用著名的健身房 API 强化学习环境. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
 - [Mctx](https://raw.githubusercontent.com/deepmind/mctx) - 本机 JAX 中的蒙特卡洛树搜索算法. <img src="https://img.shields.io/github/stars/deepmind/mctx?style=social" align="center">
 - [KFAC-JAX](https://raw.githubusercontent.com/deepmind/kfac-jax) - 具有近似曲率的二阶优化神经网络. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
-- [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - 将函数/图形转换为 JAX 函数. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
+- [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - Convert functions/graphs to JAX functions. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 - [jwave](https://raw.githubusercontent.com/ucl-bug/jwave) - 可微分声学模拟库 <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 - [GPJax](https://github.com/thomaspinder/GPJax) - JAX 中的高斯过程.
 - [Jumanji](https://raw.githubusercontent.com/instadeepai/jumanji) - 一套用 JAX 编写的行业驱动的硬件加速 RL 环境. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 - [Eqxvision](https://raw.githubusercontent.com/paganpasta/eqxvision) - Torchvision 的 Equinox 版本. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
+- [JAXFit](https://raw.githubusercontent.com/dipolar-quantum-gases/jaxfit) - 用于非线性最小二乘问题的加速曲线拟合库（参见 [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 
 <a name="models-and-projects" />
 
@@ -168,7 +169,7 @@
 - [Introduction to JAX](https://youtu.be/0mVmRHMaOJ4) - 在 JAX 中从头开始的简单神经网络.
 - [JAX: Accelerated Machine Learning Research | SciPy 2020 | VanderPlas](https://youtu.be/z-WSrQDXkuM) - JAX 的核心设计，它如何为新研究提供动力，以及如何开始使用它.
 - [Bayesian Programming with JAX + NumPyro — Andy Kitchen](https://youtu.be/CecuWGpoztw) - 介绍使用 NumPyro 进行贝叶斯建模.
-- [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX 介绍演示 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 车间.
+- [JAX: Accelerated machine-learning research via composable function transformations in Python | NeurIPS 2019 | Skye Wanderman-Milne](https://slideslive.com/38923687/jax-accelerated-machinelearning-research-via-composable-function-transformations-in-python) - JAX 介绍演示 [_Program Transformations for Machine Learning_](https://program-transformations.github.io) 作坊.
 - [JAX on Cloud TPUs | NeurIPS 2020 | Skye Wanderman-Milne and James Bradbury](https://drive.google.com/file/d/1jKxefZT1xJDUxMman6qrQVed7vWI0MIn/edit) - 演示 TPU 主机访问.
 - [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond | NeurIPS 2020](https://slideslive.com/38935810/deep-implicit-layers-neural-odes-equilibrium-models-and-beyond) - 由 Zico Kolter、David Duvenaud 和 Matt Johnson 使用 Colab 笔记本创建的教程 [_Deep Implicit Layers_](http://implicit-layers-tutorial.org).
 - [Solving y=mx+b with Jax on a TPU Pod slice - Mat Kelcey](http://matpalm.com/blog/ymxb_pod_slice/) - 包含 Colab 笔记本的四部分 YouTube 教程系列，从 Jax 基础知识开始，然后在 v3-32 TPU Pod 切片上使用数据并行方法进行训练.
@@ -195,7 +196,7 @@
 - [Tutorial: image classification with JAX and Flax Linen by 8bitmp3](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - 学习如何使用 Flax 的 Linen API 创建一个简单的卷积网络，并训练它识别手写数字.
 - [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - 在 Kaggle 花卉分类挑战中比较 Flax、Haiku 和 Objax.
 - [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - JAX 和元学习简介.
-- [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - 简洁的实现 [RealNVP](https://arxiv.org/abs/1605.08803).
+- [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - Concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
 - [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - 实现路径跟踪的教程.
 - [Ensemble networks by Mat Kelcey](http://matpalm.com/blog/ensemble_nets) - 集成网络是一种将模型集成表示为单个逻辑模型的方法.
 - [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - 实现不同的OOD检测方法.
@@ -205,7 +206,7 @@
 - [Evolving Neural Networks in JAX by Robert Tjarko Lange](https://roberttlange.github.io/posts/2021/02/cma-es-jax/) - 探索 JAX 如何为下一代可扩展的神经进化算法提供动力.
 - [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) - 演示如何使用 JAX 使用 SGD 和 Momentum 执行内部损失优化，使用梯度进行外部损失优化，以及使用进化策略执行外部损失优化.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - 使用 JAX 轻松、干净地实现自动微分变分推理 (ADVI).
-- [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练一个对不同分辨率的不同输入通道组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
+- [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练一个对不同分辨率的输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
 - [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab，它介绍了语言的各个方面并将它们应用于简单的 ML 问题.
 - [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - 关于在 JAX 中编写 MCMC 采样器的不同方法以及速度基准的教程.
 - [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - 关于如何使用 `host_callback` 模块向 JAX 中的已编译循环添加进度条的教程.
@@ -213,6 +214,12 @@
 - [Writing a Training Loop in JAX + FLAX by Saurav Maheshkar and Soumik Rakshit](https://wandb.ai/jax-series/simple-training-loop/reports/Writing-a-Training-Loop-in-JAX-FLAX--VmlldzoyMzA4ODEy) - 使用 JAX、Flax 和 Optax 编写简单的端到端培训和评估管道的教程.
 - [Implementing NeRF in JAX by Soumik Rakshit and Saurav Maheshkar](https://wandb.ai/wandb/nerf-jax/reports/Implementing-NeRF-in-JAX--VmlldzoxODA2NDk2?galleryTag=jax) - JAX 中由神经辐射场表示的场景的 3D 体积渲染教程.
 - [Deep Learning tutorials with JAX+Flax by Phillip Lippe](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html) - 一系列解释各种深度学习概念的笔记本，从基础知识（例如 JAX/Flax 简介、激活函数）到最新进展（例如 Vision Transformers、SimCLR），并翻译成 PyTorch.
+
+<a name="books" />
+
+## Books
+
+- [Jax in Action](https://www.manning.com/books/jax-in-action) - 使用 JAX 进行深度学习和其他数学密集型应用程序的实践指南.
 
 <a name="community" />
 

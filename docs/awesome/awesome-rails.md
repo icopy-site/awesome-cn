@@ -41,6 +41,8 @@
 - [RailsCasts](http://railscasts.com) *（自 2013 年起无效）
 - [GoRails](https://gorails.com) *（免费增值）
 - [Drifting Ruby](https://www.driftingruby.com/) *（免费增值）
+- [A curated list of Ruby on Rails courses](https://skillcombo.com/topic/ruby-on-rails/)
+
 
 #### Youtube channels
 
