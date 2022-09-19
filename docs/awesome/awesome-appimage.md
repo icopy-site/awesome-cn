@@ -17,7 +17,7 @@
 
 ## Awesome AppImage [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
+[AppImage](https://appimage.org) 是一种基于社区的格式，用于将应用程序分发到各种主流 Linux 发行版，而无需集中存储. 一个应用程序 = 一个文件！ 此列表包含使用 AppImages 的工具，例如为应用程序创建 AppImages 并将 AppImages 轻松集成到系统中. 随着 AppImage 周围充满活力的社区不断壮大，这个列表也在增长.
 
 
 
@@ -110,6 +110,7 @@
 - [KDE Craft](https://invent.kde.org/packaging/craft) - KDE 使用的构建系统，可以生成 AppImages 和其他格式.
 - [appimage-tooling](https://gitlab.com/sgclarkkde/appimage-tooling) - 用于生成 Appimages 的 Ruby 工具.
 - [AppImage.cmake](https://github.com/Ravbug/AppImage.cmake) - 有助于为 Linux 生成 AppImage 可执行文件的 CMake 脚本.
+- [rules_appimage](https://github.com/lalten/rules_appimage) - Bazel 规则将任何 lang_binary 目标打包为 AppImage.
 
 ### Deployment tools for compiled applications
 

@@ -140,6 +140,7 @@
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB 日志处理程序
  - [Motor](https://github.com/mongodb/motor) - Tornado 或 asyncio 的非阻塞 Python 驱动程序
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - 官方（和推荐的）Python 驱动程序
+ - [PyMongoExplain](https://github.com/mongodb-labs/pymongoexplain/) - PyMongo 的 Collection 对象的包装器，可以轻松地在您的查询上运行“解释”.
  - [minimongo](https://github.com/slacy/minimongo) - 轻量级、无模式、Pythonic 面向对象的接口
  - [ODMantic](https://github.com/art049/odmantic) - pydantic 之上的异步 ODM
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - Scrapy 的 MongoDB 管道
@@ -163,7 +164,7 @@
 
 ## Tools
 ### Administration
- - [k8s-backup-mongodb](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+ - [k8s-backup-mongodb](https://github.com/tuladhar/k8s-backup-mongodb) - 使用 Kubernetes CronJob 将 MongoDB 备份安排到 S3.
  - [mgob](https://github.com/stefanprodan/mgob) - 功能齐全的 MongoDB dockerized 备份代理
  - [mongoctl](https://github.com/mongolab/mongoctl) - 使用 JSON 配置管理 MongoDB 服务器和副本集
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - 生成随机数据集并对您的设置进行基准测试
@@ -228,7 +229,7 @@ Services:
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios 插件（在 Bash 中）
  - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - 简单的监控 CLI
  - [mongo-munin](https://github.com/erh/mongo-munin) - Munin插件的集合
- - [Mongoop](https://github.com/Lujeni/mongoop) - 长时间的操作监控和警报
+ - [Mongoop](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [mongomon](https://github.com/pcdummy/mongomon) - 更多 Munin 插件
  - [Motop](https://github.com/tart/motop) - MongoDB 顶级克隆
  - [mtop](https://github.com/beaufour/mtop) - 另一个顶级克隆

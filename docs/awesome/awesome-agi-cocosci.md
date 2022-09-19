@@ -6,7 +6,7 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **Artificial General Intelligence** 的 **awesome &amp; curated** list **Artificial General Intelligence** 是一个新兴的跨学科领域，将人工智能和计算认知科学作为大多数学科结合在一起，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
+ **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence ***的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
@@ -91,7 +91,7 @@
 
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization)  - ***维基百科***. 关于知识组织方法的维基百科.
 
-* [The Zettelkasten Method](https://zettelkasten.de/)  - ***比勒费尔德大学***. 将图表和多标签中的想法联系起来.
+* [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
 
 * [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)  - ***维基百科***.  Zettelkasten 方法的维基百科.
 
@@ -119,7 +119,7 @@
 
 #### Explanation
 
-* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于绑架的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于它具有将新思想引入当前知识的潜力.
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于溯因的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于其将新思想引入当前知识的潜力.
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的规范应用.
 
@@ -168,7 +168,7 @@
 
 * [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***合成***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
-* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***Synthese***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
+* [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***综合***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
 * [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***空间认知***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
 
@@ -195,6 +195,8 @@
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/)  - ***柏拉图斯坦福***. 关于科学发现的计算哲学解释，成功的科学探究的过程或产物，有时是一种类似绑架（解释）的思维模式.
 
+* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect)  - ***维基百科***. 维基百科关于尤里卡效应（又名啊哈！时刻），突然理解以前无法理解的问题或概念的常见人类经验.
+
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***斯普林格***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5) ]. 关于搜索作为科学思维的原著.
 
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***麻省理工学院出版社***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5) ]. 将科学发现与绑架的创造力特征相结合的计算帐户.
@@ -219,7 +221,7 @@
 
 * [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001) - ***心理评论***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001) - ***心理评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5) ]. 反对将搜索视为科学思维的观点.
+* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001) - ***心理评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]. A perspective against search as scientific thinking.
 
 
 
@@ -315,7 +317,7 @@
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计建模三大家族的回顾.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理的转变的统计说明.
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
 
 * [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
@@ -934,7 +936,7 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数主题来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
@@ -982,7 +984,7 @@
 
 * [Tasks for aligning human and machine planning](https://www.sciencedirect.com/science/article/pii/S2352154619300622) - ***行为科学的当前观点***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=8308872468787875598&hl=en&as_sdt=0,5)].
 
-* [Humans can decipher adversarial images](https://perception.jhu.edu/files/PDFs/19_Adversarial_Deciphering/ZhouFirestone-AdversarialDeciphering.pdf) - ***Nature Communications***. 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4423950118844131054&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Humans can decipher adversarial images](https://perception.jhu.edu/files/PDFs/19_Adversarial_Deciphering/ZhouFirestone-AdversarialDeciphering.pdf)  - ***自然通讯***.  2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4423950118844131054&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***自然神经科学***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593&hl=en&as_sdt=0,5)].
 
@@ -1146,7 +1148,7 @@
 
 * [Theory of Minds: Understanding Behavior in Groups through Inverse Planning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4574) - ***AAAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6755247312077985817&hl=en&as_sdt=0,5) ]. 多智能体设置中的逆向规划.
 
-* [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) - ***情感***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=9634378462684744548&hl=en&as_sdt=0,5)].
+* [Leveraging Facial Expressions and Contextual Information to Investigate Opaque Representations of Emotion](https://psycnet.apa.org/fulltext/2019-58384-001.pdf?auth_token=0859666184839448b848053cd7bdceb2bdf2745a) - ***Emotion***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9634378462684744548&hl=en&as_sdt=0,5)].
 
 * [Waiting and weighting: Information sampling is a balance between efficiency and error-reduction](https://linkinghub.elsevier.com/retrieve/pii/S0010027712002235) - ***认知***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=12787722822882067638&hl=en&as_sdt=0,5)].
 
@@ -1431,7 +1433,7 @@
 
 * [Commonsense reasoning about causality: Deriving behavior from structure](https://www.sciencedirect.com/science/article/abs/pii/0004370284900390) - ***人工智能***，1984 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14940738362673077704)].
 
-* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***人工智能***，1986 年. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.
+* [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***人工智能***，1986 年. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5) ].  Benjamin Kuipers 关于定性推理的原始论文.
 
 * [Qualitative Reasoning: Modeling and Simulation with Incomplete Knowledge](https://www.cs.utexas.edu/users/qr/QR-book.html) - ***麻省理工学院出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6634684154722677465) ].  Benjamin Kuipers 关于定性推理的综合书籍.
 
@@ -1751,7 +1753,7 @@
 
 ### UC Berkeley
 
-* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS，伯克利***， [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
+* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS，伯克利***， [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***伯克利***.
 
 * [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***UCB***， [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***心理学系，UCB***.
 
