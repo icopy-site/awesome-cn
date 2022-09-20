@@ -58,6 +58,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 
 ## Tutorials
 
+- [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
 - [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
 - [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
 - [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
@@ -77,7 +78,6 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 
 ## Examples
 
-- [Lit Basics](https://vaadin.com/docs/latest/fusion/application/lit) - 带有一些示例的一般 Lit 概念的概述.
 - [Lit Native](https://github.com/rodydavis/lit-native) - 在本机平台上重用 Lit Web 组件.
 - [Lit Node Editor](https://github.com/rodydavis/lit-node-editor) - 使用画布 API 和简单的图形数据结构构建的节点编辑器.
 - [Lit 3D Piano](https://github.com/rodydavis/lit-3d-piano/) - 使用 Lit、Three.js 和 Tone.js 构建的 3D 钢琴.
@@ -134,7 +134,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 自定义元素符合 Apollo GraphQL.
 - [Blackstone UI](https://github.com/kjantzer/bui) - 用于创建使用 lit-html 和 LitElement 构建的界面的 Web 组件.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - chartjs 的 Web 组件.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [Dile Components](https://github.com/Polydile/dile-components) - 一般用于网站和应用程序的 Web 组件.
@@ -200,7 +200,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 - [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - lit-html 模板字符串的语法高亮和 IntelliSense.
 - [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - lit-html 的语法高亮显示、类型检查和代码完成.
 - [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - 为 ES6 多行字符串中的 HTML 提供语法高亮的 VSCode 扩展.
-- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+- [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) - 标记模板文字内的 HTML 语法突出显示和缩进.
 
 ### TypeScript Plugins
 

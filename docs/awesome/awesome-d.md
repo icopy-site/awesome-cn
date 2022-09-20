@@ -79,15 +79,15 @@
 * [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自给自足的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数值库开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 位于柏林的公司，专门从事在线广告的实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 已将其代码库的大部分开源作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
-* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日，管理资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 曾赞助开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
+* [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日管理的资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 曾赞助开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
 * [HuntLabs](https://www.huntlabs.net)  - 使用 DLang 的技术组. 拥有快速开发服务器端应用程序和构建分布式系统服务的纯D语言实现.
 
 ## Books
-*D related books.* You can find another list of books on the [Books](https://wiki.dlang.org/Books) D 维基页面.
-* [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - * Andrei Alexandrescu 的 D 编程语言 *.
+*D related books.* You can find another list of books on the [Books](https://wiki.dlang.org/Books) 维基页面.
+* [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *Andrei Alexandrescu 的 D 编程语言*.
 * [Programming in D](https://ddili.org/ders/d.en/index.html)  - Ali Çehreli 编写的关于 D 语言编程的非常详细的书籍，涵盖了该语言的许多领域. 有一个免费的在线版本，适合初学者. 
-* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  - 一个包含实用任务的配方包装参考指南，简明扼要地解释，以开发和扩展用户使用 D 编程语言的能力. 亚当·D·鲁佩 (Adam D. Ruppe). 这里有一个有趣 [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
-* [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) - 本书适用于那些具有 C 家族语言背景的人，他们希望学习如何将他们的知识和经验应用于 D.（...）本书将帮助您快速掌握该语言并避免常见的将 C 家庭的经验转化为 D 时出现的陷阱.
+* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  - 一个包含实用任务的配方包装参考指南，简明扼要地解释以开发和扩展用户使用 D 编程语言的能力. 亚当·D·鲁佩 (Adam D. Ruppe). 这里有一个有趣 [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+* [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) - 本书适用于那些具有 C 家族语言背景的人，他们想学习如何将他们的知识和经验应用于 D.（...）本书将帮助您快速掌握该语言并避免常见的将 C 家庭的经验转化为 D 时出现的陷阱.
 * [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - 无论您是 D 世界的新手，还是已经在 D 中开发过应用程序，或者如果您想利用 D 的力量进行 Web 开发，那么这本书都是您的理想选择.
 
 ## Tutorials
@@ -145,7 +145,7 @@
 
 ## WIP Compilers
 
-* [sdc](https://github.com/snazzy-d/SDC)  - 愚蠢的 D 编译器. 写在 D. 每天都变得更聪明.
+* [sdc](https://github.com/snazzy-d/SDC)  - 时髦的 D 编译器. 写在 D. 每天都变得更聪明.
 
 
 ## Dev Tools
@@ -351,8 +351,8 @@
 	* SDL2_gfx - [bindbc-sdlgfx](https://github.com/aferust/bindbc-sdlgfx)
 	* SFML 2 - [bindbc-sfml](https://github.com/BindBC/bindbc-sfml)
 	* Imgui - 即时用户界面 - [bindbc-imgui](https://github.com/Inochi2D/bindbc-imgui)
-	* 核 - 即时用户界面 - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
-	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
+	* Nukear - 即时用户界面 - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
+	* 呻吟—— [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
 	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - 压缩 - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
@@ -372,13 +372,13 @@
 * [DerelictOrg](https://github.com/DerelictOrg) - 托管所有 Derelict 绑定的 GitHub 组织，包括：
 	* OpenGL 3 (DerelictGL3), 
 	* Bgfx (DerelictBgfx), 
-	* ENet（废弃的ENet）  
+	* ENet (DerelictENet),  
 	* SDL 2 (DerelictSDL2), 
 	* GLFW 3（废弃GLFW3）， 
 	* OpenGLES (DerelictGLES), 
 	* 免费图片 (DerelictFI), 
 	* Assimp3 (DerelictASSIMP3), 
-	libtheora (DerelictTheora)  
+	* libtheora (DerelictTheora),  
 	* libogg (DerelictOgg), 
 	* libvorbis (DerelictVorbis), 
 	* SFML 2 (DerelictSFML2), 

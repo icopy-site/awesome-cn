@@ -97,7 +97,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 专注于 2D 动画，提供高效的工作流程，既可以创建令人惊叹的动画，也可以将其集成到您的游戏中.
 - ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 精灵动画的现代工具.
 - ：然后： [DragonBones](http://dragonbones.com) - Flash 的开源 2D 骨架动画解决方案
-- ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而来的动画数据.
+- ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而成的动画数据.
 - ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 3D人形模型的自动装配和动画工具，
 
 #### Vector/Image Editor
@@ -161,8 +161,9 @@ _一套游戏框架、引擎和平台_
 
 - ：然后： [Allegro](http://liballeg.org/) - Allegro 4 &amp; 5 是跨平台的开源游戏编程库，主要面向 C 和 C++ 开发人员.
 - ：然后： [Amethyst](https://www.amethyst.rs/) - 使用 `gfx-rs` 用 Rust 编写的 2D 和 3D 数据驱动游戏引擎.
-- ：然后： [amulet](http://www.amulet.xyz/)  - 一个免费的基于 Lua 的音频/视频工具包，适用于小游戏和实验. 它可以在 Windows、Mac、Linux、HTML5 和 iOS 上运行.
+- ：然后： [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 - ：然后： [Astera](https://github.com/tek256/astera) - 2D C99 跨平台游戏库/框架
+- :tada [axys] (https://github.com/axys1/axys) - Cocos2d-x-4.0 的一个分支，它完全支持所有平台的 OpenAL，单纹理多 GPU 纹理处理程序和 C++ 17.
 - ：然后： [Azul3D](http://azul3d.org/) - 用 Go 编写的 3D 引擎.
 - ：然后： [Babylon.js](https://www.babylonjs.com/) - Javascript 3D 库.
 - ：然后： [Bevy](https://bevyengine.org/) - 使用 Rust 构建的令人耳目一新的简单数据驱动游戏引擎
@@ -210,7 +211,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Glide Engine](https://github.com/cocoatoucher/Glide) - 用 Swift 编程语言在 iOS、macOS 和 tvOS 上制作 2d 游戏的引擎，带有实际示例和教程.
 - ：然后： [Godot](http://www.godotengine.org/) - 先进的、功能丰富的多平台 2D 和 3D 开源游戏引擎.
 - ：然后： [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
-- ：然后： [Grid](http://www.planimeter.org/grid-sdk/) - Lua 多人游戏引擎.
+- ：然后： [Grid](https://github.com/Planimeter/game-engine-2d) - Lua 多人游戏引擎.
 - ：然后： [HaxeFlixel](http://haxeflixel.com/) - 更轻松、免费地创建跨平台游戏.
 - ：然后： [Heaps](https://heaps.io/) - 高性能游戏的跨平台图形.
 - ：然后： [Horde3D](http://www.horde3d.org/) - 小型开源 3D 渲染引擎.
@@ -225,7 +226,7 @@ _一套游戏框架、引擎和平台_
 - ：自由的： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google 的 Android 的 3D 引擎.
 - ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净、轻量级的 2D 游戏框架
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中制作具有大块像素的 2D 游戏的框架
-- ：然后： [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
+- ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
 - ：然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
 - ：然后： [KogGE](https://korge.soywiz.com)  - Kotlin 的现代多平台游戏引擎. 使用 Kotlin 立即为 JVM、JavaScript、Android 和 iOS 编写游戏.
 - ：money_with_wings： [Leadwerks](https://www.leadwerks.com/) - 易于学习的 3D 和 VR 游戏引擎.
@@ -372,7 +373,6 @@ _博客、门户网站、杂志等_
 - [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用商店和竞争激烈的“顶级排行榜”.
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
-- [TruePCGaming](http://truepcgaming.com/)
 - [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 - [iforce2d](http://www.iforce2d.net/)
 - [indiegames](http://indiegames.com/index.html)
