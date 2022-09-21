@@ -459,7 +459,7 @@
 * [akd](https://github.com/annkissam/akd) - Capistrano 类似、可配置且易于设置 Elixir 部署自动化框架.
 * [ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - 单命令设置和部署到服务器，对 Phoenix 应用程序提供一流的支持.
 * [bootleg](https://github.com/labzero/bootleg) - Elixir 的简单部署和服务器自动化.
-* [bottler](https://github.com/rubencaro/bottler) - Bottler 是一组工具，旨在帮助您生成版本、将它们发送到您的服务器、将它们安装在那里，并让它们在生产中运行.
+* [bottler](https://github.com/rubencaro/bottler) - Bottler 是一组工具，旨在帮助您生成版本、将它们发送到您的服务器、将它们安装在那里，并让它们在生产中上线.
 * [edeliver](https://github.com/boldpoker/edeliver) - Elixir 和 Erlang 的部署.
 * [elixir-on-docker](https://github.com/CrowdHailer/elixir-on-docker) - 开始为云环境开发集群 Elixir 应用程序的项目模板.
 * [exdm](https://github.com/joeyates/exdm) - 通过混合任务部署 Elixir 应用程序.
@@ -610,9 +610,9 @@
 * [format_parser.ex](https://github.com/ahtung/format_parser.ex) - Elixir 库，用于确定文件的类型和格式.
 * [fs](https://github.com/synrc/fs) - Erlang 文件系统监听器.
 * [fwatch](https://github.com/ryo33/fwatch-ex) - 基于 __fs__ 的基于回调的文件观察器.
-* [ivcu](https://github.com/elixir-ivcu/ivcu) - File Validator, Converter, and Uploader.
+* [ivcu](https://github.com/elixir-ivcu/ivcu) - 文件验证器、转换器和上传器.
 * [librex](https://github.com/ricn/librex) - 使用 LibreOffice 将办公文档转换为其他格式的 Elixir 库.
-* [Radpath](https://github.com/lowks/Radpath) - Elixir 的路径库，灵感来自 Python 的 Enhpath.
+* [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 * [sentix](https://github.com/whitfin/sentix) - 基于 fswatch 的 Elixir 跨平台文件观察器.
 * [sizeable](https://github.com/arvidkahl/sizeable) - 一个使文件大小易于阅读的 Elixir 库.
 * [waffle](https://github.com/elixir-waffle/waffle) - Elixir 灵活的文件上传和附件库.
@@ -708,7 +708,7 @@
 ## Frameworks
 *Web 开发框架.*
 
-* [exelli](https://github.com/pigmej/exelli) - 带有一些糖语法好东西的 Elli Elixir 包装器.
+* [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 * [kitto](https://github.com/kittoframework/kitto) - 交互式仪表板的框架.
 * [n2o](https://github.com/synrc/n2o) - 分布式应用服务器.
 * [nitro](https://github.com/synrc/nitro) - 与氮兼容的 Web 框架.
@@ -773,7 +773,7 @@
 * [modest_ex](https://github.com/f34nk/modest_ex) - 使用 CSS 选择器对 html 字符串进行可管道转换的库，例如 find()、prepend()、append()、replace() 等.
 * [myhtmlex](https://github.com/Overbryd/myhtmlex) - lexborisov 的 myhtml 的 Elixir/Erlang 绑定.
 * [readability](https://github.com/keepcosmos/readability) - 可读性用于提取和整理文章.
-* [texas](https://gitlab.com/dgmcguire/texas) - 德州是使用服务器端渲染和服务器端虚拟 DOM 差异/补丁更新客户端的强大抽象.
+* [texas](https://gitlab.com/dgmcguire/texas) - Texas is a powerful abstraction over updating your clients using server-side rendering and server-side Virtual DOM diff/patching.
 * [tidy_ex](https://github.com/f34nk/tidy_ex) - Elixir 绑定到 HTML 工具的祖父 [http://www.html-tidy.org](http://www.html-tidy.org).
 
 ## HTTP
@@ -801,6 +801,7 @@
 * [ivar](https://github.com/swelham/ivar) - 一个围绕 HTTPoison 的轻量级包装器，它提供了一种流畅且可组合的方式来构建 http 请求.
 * [lhttpc](https://github.com/talko/lhttpc) - 用 Erlang 实现的轻量级 HTTP/1.1 客户端.
 * [mint](https://github.com/ericmj/mint) - Elixir 的功能性 HTTP 客户端，支持 HTTP/1 和 HTTP/2.
+* [Mechanize](https://github.com/gushonorato/mechanize) - 在 Elixir 中轻松构建网络爬虫并自动与网站交互！
 * [mnemonic_slugs](https://github.com/devshane/mnemonic_slugs) - Elixir 中令人难忘的助记符生成器.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb 是一个 Erlang 库，用于构建轻量级 HTTP 服务器.
 * [neuron](https://github.com/uesteibar/neuron) - Elixir 的 GraphQL 客户端.
@@ -1382,7 +1383,7 @@
 * [kovacs](https://github.com/antp/kovacs) - 一个简单的 ExUnit 测试运行器.
 * [markdown_test](https://github.com/MainShayne233/markdown_test) - 一个库，可让您在 Markdown 文件中测试 Elixir 代码.
 * [meck](https://github.com/eproxus/meck) - Erlang 的模拟库.
-* [mecks_unit](https://github.com/archan937/mecks_unit) - A package to elegantly mock module functions within (asynchronous) ExUnit tests using [meck](https://github.com/eproxus/meck).
+* [mecks_unit](https://github.com/archan937/mecks_unit) - 在（异步）ExUnit 测试中优雅地模拟模块功能的包，使用 [meck](https://github.com/eproxus/meck).
 * [mix_erlang_tasks](https://github.com/alco/mix-erlang-tasks) - 使用 Mix 的 Erlang 项目的常见任务.
 * [mix_eunit](https://github.com/dantswain/mix_eunit) - 执行 eunit 测试的 Mix 任务.
 * [mix_test_interactive](https://github.com/influxdata/mix_test_interactive) - 交互式测试运行器，用于与手表模式混合测试.
@@ -1728,7 +1729,7 @@
 *很棒的书和电子书.*
 
 * [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)  - 将 Elixir 带入您的公司，并结合创建 Elixir 并成功大规模使用它的人们的真实策略. 这本书包含了将应用程序从概念转变为生产所需的所有信息（2017 年）.
-* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - 将您的 Web API 升级到 GraphQL，利用其灵活的查询为您的用户提供支持，并利用其声明式结构来简化您的代码（2017 年）.
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) - 将您的 Web API 升级到 GraphQL，利用其灵活的查询为您的用户提供支持，并利用其声明性结构来简化您的代码（2017 年）.
 * [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) - 这本书是由 Paulo A Pereira（2015 年）按主题分组的一组食谱.
 * [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) - （葡萄牙语）这本书介绍了 Tiago Davi（2014 年）使用 Elixir 进行的函数式和并发编程.
 * [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) - Saša Jurić (2015) 对语言进行了简要介绍，然后更详细地介绍了如何在 Elixir 中构建生产就绪系统.
@@ -1828,7 +1829,7 @@
 * [xElixir](https://github.com/exercism/xelixir) - Elixir 中的锻炼练习.
 
 ## Screencasts
-*Cool video tutorials.*
+*酷视频教程.*
 
 * [Alchemist Camp](https://alchemist.camp) - Alchemist.Camp 有许多小时免费的、基于项目的 Elixir 学习截屏视频.
 * [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir 相关的会议演讲.
@@ -1837,7 +1838,7 @@
 * [Elixir Sips](http://elixirsips.com/) - 用于学习 Elixir 的小屏幕录像.
 * [ElixirCasts.io](https://elixircasts.io/) - 帮助您学习 Elixir 和 Phoenix 的简单截屏视频.
 * [ExCasts](https://excasts.com) - 适用于所有技能水平的 Elixir 和 Phoenix 截屏视频.
-* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，如“Hands-on Elixir &amp; OTP: Cryptocurrency trading bot”系列.
+* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，例如“Hands-on Elixir &amp; OTP: Cryptocurrency trading bot”系列.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - 对初学者友好、深入、逐步的截屏视频.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - 了解如何使用 Phoenix 构建快速、可靠的 Web 应用程序.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - 浏览 José Valim 的 Elixir 的一些特性和概念.

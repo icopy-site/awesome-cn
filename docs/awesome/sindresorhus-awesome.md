@@ -15,7 +15,15 @@
 	<br>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/one-thing">签出：一件事 - 在菜单栏中放置一个任务或目标</a></h2>
+	<div>
+		<sub>查看我的最新应用</sub>
+		<br>
+		<h2>
+			<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小部件</a>
+			<br>
+			<sup>直接从 iPhone 锁定屏幕呼叫您最喜欢的人</sup>
+		</h2>
+	</div>
 	<br>
 	<br>
 	<br>
@@ -230,7 +238,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - 允许您为 Linux 系统编写更高效、更强大的跟踪和监控的虚拟机.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - 基于 Arch Linux 的 Linux 发行版和项目.
-	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - 将应用程序打包在一个文件中，适用于各种主流 Linux 发行版.
+	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - macOS - Apple Mac 电脑的操作系统.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -243,7 +251,7 @@
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P 超媒体协议.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子们编程，但功能更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台 GUI 应用程序框架.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
@@ -338,7 +346,7 @@
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
 - [Frege](https://github.com/sfischer13/awesome-frege#readme) - 用于 JVM 的 Haskell.
-- [CMake](https://github.com/onqtam/awesome-cmake#readme) - 构建、测试和打包软件.
+- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - 针对 Adob​​e AIR 的面向对象的语言.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) - JVM 的函数式编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - 具有受 Haskell 和 ML 影响的依赖类型的通用纯函数式编程语言.
@@ -463,7 +471,7 @@
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - 用于在代码中定义云基础设施的开源软件开发框架.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - 用户帐户、身份验证和授权.
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP 框架.
-- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - 基于 Fasthttp 构建的 Web 框架，这是 Go 中最快的 HTTP 引擎.
 
 ## Computer Science
 
@@ -773,7 +781,7 @@
 
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - 软件测试.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - 确保更改不会破坏功能或样式.
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - 开源浏览器自动化框架和生态系统.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - 应用程序的测试自动化工具.
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) - 测试任何协议.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - 负载测试和性能测量工具.
@@ -810,7 +818,7 @@
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
 - [OpenGL](https://github.com/eug/awesome-opengl#readme) - 用于渲染 2D 和 3D 图形的跨平台 API.
 - [GraphQL](https://github.com/chentsulin/awesome-graphql#readme)
-- [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
+- [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - 关于建筑环境和社区.
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
@@ -834,7 +842,7 @@
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字发行平台.
 - [Bots](https://github.com/hackerkid/bots#readme) - 构建机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - 建立和促进更具同情心的工程文化.
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态追踪框架.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - 神奇宝贝和神奇宝贝GO.
@@ -852,7 +860,7 @@
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - 面向设施、提供商、开发人员、政策专家和研究人员的开源医疗保健软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - 使用 PHP 构建的开源电子商务.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - TeX/LaTeX/ConTeXt 的图形绘图包.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - 研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - 无广告替代品.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - 为实验或笑话而不是实际使用而设计的编程语言.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.

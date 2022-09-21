@@ -209,11 +209,12 @@
 - [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - 协议实现的安全测试.
 - [MTF](https://github.com/artemiosv/etfa2015) - 用于测试互联工业系统的 Modbus/TCP Fuzzer
 - [MTF-Storm](https://github.com/ntinosk-mtf/etfa2018) - 用于 Modbus/TCP 的高性能模糊器.
+- [Scapy](https://github.com/secdev/scapy)  - 数据包处理程序和库. 可以模糊任何协议. 请参阅 `fuzz` 函数.
 ### Driver
 - [Charm](https://github.com/trusslab/charm) - 一种有助于对移动系统的设备驱动程序进行动态分析的系统解决方案.
 ## Platform
 - [certfuzz](https://github.com/CERTCC/certfuzz) - 它包含 CMU CERT 基本模糊测试框架 (BFF) 和 CERT 故障观察引擎 (FOE) 的源代码.
-- [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) - 一个自动化的安全测试平台，通过查找硬件和软件系统中的漏洞来防止零日攻击.
+- [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) - 一个自动化的安全测试平台，通过发现硬件和软件系统中的漏洞来防止零日攻击.
 - [Blackhat USA 2018 AFL workshop training materials](https://github.com/wrauner/afl-fuzzing-training) - 来自三星研究院的@wrauner.
 - [CI Fuzz](https://code-intelligence.com) - 一个与 CI/CD 无关的平台，用于对本机应用程序和 Java Web 应用程序进行基于反馈的模糊测试.
 

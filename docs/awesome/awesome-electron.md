@@ -14,7 +14,15 @@
 
 <br>
 <br>
-<div align="center"><h3><a href="https://www.producthunt.com/posts/one-thing">看看我的新应用：一件事</a></h3></div>
+<div align="center">
+	<sub>查看我的最新应用</sub>
+	<br>
+	<h2>
+		<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小部件</a>
+		<br>
+		<sup>直接从 iPhone 锁定屏幕呼叫您最喜欢的人</sup>
+	</h2>
+</div>
 <br>
 <br>
 
@@ -213,7 +221,7 @@
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知器.
-- [Discord](https://discord.com) - 语音和文字聊天.
+- [Discord](https://discord.com) - Voice and text chat.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 为 Cocos2D-x 创建网页和原生游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的 Markdown 笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换比特币和以太坊等区块链资产.
@@ -231,7 +239,7 @@
 - [Notion](https://notion.so) - 用于笔记、任务、wiki 和数据库的一体化工作区.
 - [FATpick](https://www.fatpick.com) - 吉他指法谱查看器，可在您演奏时为您的演奏评分.
 - [Taskade](https://www.taskade.com) - 用于分布式团队的实时组织和协作工具，包括任务、笔记和聊天.
-- [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.
+- [Coloban](https://www.coloban.com) - 多合一的项目管理工具，包括聊天、看板、甘特图、通话、屏幕共享等.
 - [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 - [Lotus](https://getlotus.app) - 无压力地跟上 GitHub 通知.
 - [RunJS](https://runjs.app) - JavaScript 和 TypeScript 的游乐场.
@@ -291,7 +299,7 @@
 - [electron-util](https://github.com/sindresorhus/electron-util) - 用于开发应用程序和模块的有用实用程序.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - 在开发过程中简单的自动重新加载.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（对路由很有用，例如 `react-router`）.
-- [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
+- [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium 的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行 Electron.
 - [debugtron](https://github.com/pd4d10/debugtron) - 调试生产中的基于 Electron 的应用程序.

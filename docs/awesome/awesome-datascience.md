@@ -114,7 +114,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络 (GAN)
+- 生成对抗网络（GAN）
 - 自组织地图
 - 变压器
 - 条件随机场 (CRF)
@@ -228,7 +228,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [R](https://www.r-project.org/)  | 是用于统计计算和图形的免费软件环境.  |
 | [RStudio](https://www.rstudio.com)  |  IDE – 强大的 R 用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
-| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形用户界面 |
+| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫 GUI |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 机器学习 |
 | [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
@@ -653,7 +653,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Loic Tetrel](https://ltetrel.github.io/) - 数据科学博客
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML 工程、MLOps 以及 ML 在初创公司中的使用
 - [Maria Khalusova](https://www.mariakhalusova.com/) - 数据科学博客
-
+- [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - 机器学习、深度学习、数据科学博客
 
 ## Facebook Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -792,6 +792,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
 - [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
 
 ## Telegram Channels

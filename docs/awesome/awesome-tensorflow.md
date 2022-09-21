@@ -39,6 +39,7 @@
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html)  - TensorFlow 官方教程的模块化实现.  ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) Estimator API 的概念概述，您何时使用它以及为什么使用它. 
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - TensorFlow 中的卷积神经网络，由 Coursera 提供
+* [TensorLayerX](https://tensorlayerx.readthedocs.io/en/latest/index.html#user-guide)  - 像 PyTorch 一样使用 TensorFlow.  ([Api docs](https://tensorlayerx.readthedocs.io/en/latest/index.html#))
 
 <a name="github-projects" />
 
@@ -98,11 +99,11 @@
 * [Unsupervised Object Counting](https://github.com/akosiorek/attend_infer_repeat) - 实施 ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 * [Tensorflow FastText](https://github.com/apcode/tensorflow_fasttext) - 一个简单的基于嵌入的文本分类器，灵感来自 Facebook 的 fastText.
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - 使用神经网络从 10 秒的声音流中对音乐流派进行分类.
-* [Kubeflow](https://github.com/kubeflow/kubeflow) - 用于轻松将 TensorFlow 与 Kubernetes 一起使用的框架.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) - 轻松将 TensorFlow 与 Kubernetes 一起使用的框架.
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40 多种具有预训练权重的流行计算机视觉模型.
 * [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - 在 Keras 和 Tensorflow 中实现半监督学习的梯形网络
 * [TF-Unet](https://github.com/juniorxsound/TF-Unet) - 在 Keras 中实现的通用 U-Network 用于图像分割
-* [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - 在干净、易于重用、Tensorflow 2 代码（Plain Autoencoder、VAE、VQ-VAE、PixelCNN、Gated PixelCNN、PixelCNN++、PixelSNAIL、条件神经过程）中实现的最新生成模型的长列表.
+* [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - 在干净、易于重用的 Tensorflow 2 代码（Plain Autoencoder、VAE、VQ-VAE、PixelCNN、Gated PixelCNN、PixelCNN++、PixelSNAIL、条件神经过程）中实现的最新生成模型的长列表.
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - 一个迁移学习库，简化了 TensorFlow Lite 模型的训练、评估和部署过程（支持：图像分类、对象检测、文本分类、BERT 问答、音频分类、推荐等； [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
 
 
@@ -144,6 +145,7 @@
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - 图形机器学习，一个用于对图形结构（网络结构）数据进行机器学习的 Python 库.
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - 用于实现通用架构堆栈的高级 Keras 补充，用作易于使用的即插即用模块
 * [Tensorflow-Probability](https://www.tensorflow.org/probability) - 基于 TensorFlow 构建的概率编程，可轻松在现代硬件上结合概率模型和深度学习.
+* [TensorLayerX](https://github.com/tensorlayer/TensorLayerX) - TensorLayerX：适用于所有硬件、后端和操作系统的统一深度学习框架，包括 TensorFlow.
 
 <a name="tools-utils" />
 
@@ -168,8 +170,8 @@
 * [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - Richard Socher 的 CS224d 自然语言处理深度学习
 * [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 俄勒冈州波特兰， [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) 作者：Julia Ferraioli、Amy Unruh、Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Jeff Dean 2016 年 Spark 峰会主题演讲
-* [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) ——马丁·戈尔纳
-* [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) ——马丁·戈尔纳
+* [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) ——马丁·戈纳
+* [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) ——马丁·戈纳
 * [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) ——亚历克斯·普留陶
 
 

@@ -118,7 +118,7 @@ Markdown 格式的笔记，具有基于标签的组织功能.
 |-----------|--------------------------------------|
  | 开发商 | [Figma](https://www.figma.com/blog/) |
  | 成本 | 免费增值（_$0-45/月_）|
-| Platform  | macOS, Windows, web                  |
+ | 平台 |  macOS、Windows、网络 |
  | 网址 |  https://www.figma.com |
 
 ### Taskade
@@ -181,7 +181,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
  | 物业 | 价值 |
 |-----------|--------------------------------------------------------------------|
  | 开发商 | [Hellonext, Inc.](https://hellonext.co)                            |
- | 成本 | 付费（19 美元/月）|
+ | 成本 | 免费增值（_$0-99/月_）|
  | 平台 | 网站 |
  | 网址 |  https://hellonext.co |
 
@@ -235,8 +235,8 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 
 ## Books
 
-- [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - 奇普希思和丹希思.
-- [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - 奇普希思和丹希思.
+- [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
+- [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
 - [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) ——史蒂夫·布兰克和鲍勃·多夫.
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - Alexander Osterwalder 和 Yves Pigneur 着.
 - [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) - Alexander Osterwalder 和 Yves Pigneur 着.
@@ -259,7 +259,7 @@ LogChimp 允许您跟踪客户反馈以构建更好的产品.
 - [Intercom on Product Management](https://www.intercom.com/resources/books/intercom-product-management)
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - 威尔·拉尔森.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - 理查德 W. 海明.
-- [Shape Up](https://basecamp.com/shapeup/webbook) - 瑞恩辛格.
+- [Shape Up](https://basecamp.com/shapeup) - 瑞恩辛格.
 - [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.chapters.indigo.ca/en-ca/books/outcomes-over-output-why-customer/9781393721772-item.html) ——约书亚·赛登.
 - [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - 道格拉斯·斯通.
 - [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) ——理查德·鲁梅尔特.

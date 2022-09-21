@@ -34,7 +34,7 @@
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) （强烈推荐谷歌浏览器） • Thid 演示使用球体环境映射技术渲染 Apple iPod 的 3d 模型.
 * [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • 布制 3D 效果叉.
 * [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments) ] • 实验展示如何生成随机粒子. 非常简单的同化代码.
-* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • 关于使用光线行进和距离场（也称为“球体追踪”）渲染技术生成程序3D 场景的GPU 渲染着色器实验示例.
+* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
 * [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • 关于使用画布的事件的简单示例.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous) ] • 简单的基于画布的动画； 在场上绘制随机线. 制作一个有趣的纸质图案，随着每次迭代变得越来越详细.
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes) ] • 从图像数据构建的交互式节点. 用鼠标玩.
@@ -77,6 +77,7 @@
 - [fabric.js](http://fabricjs.com) 在画布元素之上提供交互式对象模型
 并且还有 SVG 到画布（和画布到 SVG）解析器
 - [iio.js](https://github.com/iioinc/iio.js) - 一个 JavaScript 库，可加速 HTML5 Canvas 应用程序的创建和部署
+- [isomerjs](http://jdan.github.io/isomer/) - 用于 HTML5 画布的等距图形库
 - [Konva](https://github.com/konvajs/konva) - Konva.js 是一个 HTML5 Canvas JavaScript 框架，它通过为桌面和移动应用程序启用画布交互性来扩展 2d 上下文. 
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib 重新设计画布 API 接口
 - [p5.js](https://p5js.org) - p5.js 是一个用于创建图形和交互体验的 JS 客户端库
@@ -86,8 +87,9 @@
 - [Processingjs](http://ejohn.org/blog/processingjs/) 是一种数据可视化编程语言.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-- [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
+- [Proton](https://github.com/a-jie/Proton) 是一个轻量级和强大的javascript粒子引擎. 有了它，你可以轻松创造出无数炫酷的效果 
 - [Pts.js](https://ptsjs.org) - Pts 是一个用于可视化和创意编码的 javascript 库.
+- [Rough.js](https://roughjs.com/) - Rough.js 是一个图形库，可让您以粗略的手绘风格进行绘制
 - [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - 轻松地将多个响应式、可访问和交互式 &lt;canvas&gt; 元素添加到网页
 - [Sketch](https://github.com/soulwire/sketch.js) - 跨平台 JavaScript 创意编码框架
 - [Three.js](http://threejs.org/) 是一个在浏览器中制作 WebGL - 3D 的 javascript 库，但是你可以 [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)

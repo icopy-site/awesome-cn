@@ -62,6 +62,7 @@
 
 * [alejandra](https://github.com/kamadorueda/alejandra) - 一个固执己见的 Nix 代码格式化程序，针对速度和一致性进行了优化.
 * [comma](https://github.com/nix-community/comma)  - 快速运行任何二进制文件； 将 `nix run` 和 `nix-index` 包装在一起.
+* [manix](https://github.com/mlvzk/manix) - 查找 Nixpkgs、NixOS 和 Home Manager 的配置选项和功能文档.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - 用于 nixpkgs 的 Nix 代码格式化程序.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Nixpkgs 包表达式的自以为是的 linter.
@@ -79,6 +80,7 @@
 * [Cachix](https://cachix.org/)  - 托管二进制缓存服务； 免费用于开源项目.
 * [devshell](https://github.com/numtide/devshell) - `mkShell` 带有额外的位和 toml 配置选项，以便能够加入非 nix 用户.
 * [dream2nix](https://github.com/nix-community/dream2nix) - 用于将包从其他构建系统自动转换为 Nix 的框架.
+* [flake.parts](https://github.com/hercules-ci/flake-parts) - Flakes 的最小 Nix 模块框架：将您的 Flakes 拆分为模块并使用社区模块完成工作.
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用功能，以帮助编写薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
@@ -107,6 +109,7 @@
 ### Haskell
 
 * [cabal2nix](https://github.com/NixOS/cabal2nix) - 将 Cabal 文件转换为 Nix 构建表达式.
+* [haskell-flake](https://github.com/srid/haskell-flake) - 用于 Haskell 开发的 `flake-parts` Nix 模块.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Nixpkgs 的替代 Haskell 基础设施.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Emacs 中的自动 Haskell 设置.
 * [nixkell](https://github.com/pwm/nixkell) - 使用 Nix 和 direnv 的 Haskell 项目模板.
@@ -132,7 +135,7 @@
 ### Python
 
 * [mach-nix](https://github.com/DavHau/mach-nix) - 创建高度可重现的 python 环境的工具.
-* [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接从构建 Python 包 [Poetry's](https://python-poetry.org/)  `poetry.lock`. 无需转换步骤.
+* [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接从构建 Python 包 [Poetry's](https://python-poetry.org/)  `诗歌锁`. 无需转换步骤.
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - 为 Python 包生成 Nix 表达式.
 
 ### Ruby
@@ -160,7 +163,7 @@
 * [Home Manager](https://github.com/nix-community/home-manager) - 像 NixOS 一样管理您的用户配置.
 * [musnix](https://github.com/musnix/musnix) - 在 NixOS 中进行实时音频工作.
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - Nixpkgs 扩展，重点是易于部署网络相关技术.
-* [NixVim](https://github.com/pta2002/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
+* [NixVim](https://github.com/pta2002/nixvim) - 使用 Nix 模块和 Nixpkgs 构建的 NeoVim 发行版.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，使用 NixOS 模块进行管理.
 * [Stylix](https://github.com/danth/stylix) - NixOS 的系统范围的配色方案和排版.
 
@@ -179,5 +182,5 @@
 * [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - 获得帮助和讨论 Nix 相关主题的最佳场所.
-* [NixCon](https://nixcon.org/) - Nix 和 NixOS 的贡献者和用户的年度社区会议.
+* [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 * [Wiki (Unofficial)](https://nixos.wiki)

@@ -7,6 +7,19 @@
 	</div>
 	<br>
 	<br>
+	<br>
+	<div>
+		<sub>查看我的最新应用</sub>
+		<br>
+		<h2>
+			<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小部件</a>
+			<br>
+			<sup>直接从 iPhone 锁定屏幕呼叫您最喜欢的人</sup>
+		</h2>
+	</div>
+	<br>
+	<br>
+	<br>
 	<hr>
 	<p>
 		<p>
@@ -355,7 +368,7 @@
 
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的 Web 应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
-- [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块捆绑器.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 - [gulp](https://github.com/gulpjs/gulp) - 流式传输和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明式配置、快速增量编译和自以为是的工作流程.
@@ -368,7 +381,7 @@
 - [serialport](https://github.com/serialport/node-serialport) - 访问串行端口进行读写.
 - [usb](https://github.com/node-usb/node-usb) - USB 库.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C 串行总线访问.
-- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
+- [onoff](https://github.com/fivdi/onoff) - GPIO 访问和中断检测.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI 串行总线访问.
 - [pigpio](https://github.com/fivdi/pigpio) - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理.
 - [gps](https://github.com/infusion/GPS.js) - 用于处理 GPS 接收器的 NMEA 解析器.
@@ -398,7 +411,7 @@
 - [ActionHero](https://github.com/actionhero/actionhero) - 为 TCP 套接字、WebSocket 和 HTTP 客户端制作可重用和可扩展的 API 的框架.
 - [seneca](https://github.com/senecajs/seneca) - 用于编写微服务的工具包.
 - [AdonisJs](https://github.com/adonisjs/core) - 一个真正的 Node.js MVC 框架，建立在依赖注入和 IoC 容器的坚实基础之上.
-- [Moleculer](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
+- [Moleculer](https://github.com/moleculerjs/moleculer) - 快速而强大的微服务框架.
 - [Nest](https://github.com/nestjs/nest) - 受 Angular 启发的框架，用于构建高效且可扩展的服务器端应用程序.
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
 - [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - 现代且快速的类似 Express 的 Web 框架.
@@ -503,7 +516,7 @@
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - 从字符串中的每一行去除前导空格.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - 检测代码的缩进.
 - [he](https://github.com/mathiasbynens/he) - HTML 实体编码器/解码器.
-- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+- [i18n-node](https://github.com/mashpie/i18n-node) - 具有动态 JSON 存储的简单翻译模块.
 - [babelfish](https://github.com/nodeca/babelfish) - i18n 具有非常简单的复数语法.
 - [matcher](https://github.com/sindresorhus/matcher) - 简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - 标准化视觉上相似的 unicode 字符.
@@ -529,7 +542,7 @@
 ### Date
 
 - [Luxon](https://github.com/moment/luxon) - 用于处理日期和时间的库.
-- [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
+- [date-fns](https://github.com/date-fns/date-fns) - 现代日期实用程序.
 - [Day.js](https://github.com/iamkun/dayjs) - Moment.js 的不可变日期库替代品.
 - [dateformat](https://github.com/felixge/node-dateformat) - 日期格式.
 - [tz-format](https://github.com/samverschueren/tz-format) - 使用时区格式化日期：`2015-11-30T10:40:35+01:00`.
@@ -543,7 +556,7 @@
 - [speakingurl](https://github.com/pid/speakingurl) - 从带有音译的字符串生成 slug.
 - [linkify-it](https://github.com/markdown-it/linkify-it) - 具有完整 Unicode 支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) - 比 URL 和其他字符串的正则表达式字符串匹配模式更容易.
-- [embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+- [embedza](https://github.com/nodeca/embedza) - 使用来自 oEmbed、Open Graph、元标记的信息从 URL 创建 HTML 片段/嵌入.
 
 ### Data validation
 
@@ -565,7 +578,7 @@
 - [parse-json](https://github.com/sindresorhus/parse-json) - 用更多有用的错误解析 JSON.
 - [URI.js](https://github.com/medialize/URI.js) - 网址突变.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - 流式处理 JSON.parse 和 stringify.
-- [neat-csv](https://github.com/sindresorhus/neat-csv)  - 快速 CSV 解析器. 上述回调接口.
+- [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 旨在比其他人更快的流式 CSV 解析器.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/matthewmueller/x-ray) - 网页抓取实用程序.
@@ -614,7 +627,7 @@
 	- [LevelUP](https://github.com/Level/levelup) - 水平数据库.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL 客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB 客户端.
-	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike 客户端.
+	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase 客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB 驱动程序.
 - ODM / ORM
@@ -636,7 +649,7 @@
 	- [Lowdb](https://github.com/typicode/lowdb) - 由 Lodash 提供支持的小型 JavaScript 数据库.
 	- [Keyv](https://github.com/jaredwray/keyv) - 支持多个后端的简单键值存储.
 	- [Finale](https://github.com/tommybananas/finale) - 用于 Sequelize 模型的 RESTful 端点生成器.
-	- [database-js](https://github.com/mlaanderson/database-js) - 具有类 JDBC 连接的多个数据库的包装器.
+	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - 使用 JavaScript 和 JSON 文件填充 MongoDB 数据库.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - 使用纯 SQL 查询 PostgreSQL、MySQL 和 SQLite3，而不会冒 SQL 注入的风险.
 	- [pg-mem](https://github.com/oguimbal/pg-mem) - 用于测试的内存 PostgreSQL 实例.
@@ -845,7 +858,7 @@
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些好的做法.
-- [The Node Way](https://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念可用于编写可维护的模块、可扩展的应用程序和真正易于阅读的代码.
+- [The Node Way](https://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用少量简单库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
@@ -876,7 +889,7 @@
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - 垃圾谈论 V8 垃圾收集器.
+- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Node.js 的创建者对它的一些限制进行了富有洞察力的谈话.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - 关于如何使用 Node.js 制作 REST API 的视频课程.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - 在不使用 Express 等框架的情况下构建 REST API.
