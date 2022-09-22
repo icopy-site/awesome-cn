@@ -62,7 +62,7 @@
 * [Microsoft To Do](https://todo.microsoft.com/tasks) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`、`Win Store`、`Chrome OS`）：近乎完美的待办事项列表，合作共享.
 * [Google Keep](https://keep.google.com/)（`Cloud`、`Android`、`iOS`、`Chrome OS`）
 * [Evernote](https://evernote.com/) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`、`Win Store`）：不是那么轻巧，但仍然非常适合管理生活，特别是因为它已经从很多其他服务.
-* [Anydo](https://www.any.do/) （`Cloud`,`Mac`,`Android`,`iOS`）：很好，因为它有一个非常好的每日评论，可以帮助用户记住要做什么.
+* [Anydo](https://www.any.do/) （`Cloud`、`Mac`、`Android`、`iOS`）：很好，因为它有一个非常好的每日评论，可以帮助用户记住要做什么.
 * [Todoist](https://todoist.com/) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`）：Todoist 发明了记录已完成任务的业力系统.
 * [Taskade](https://taskade.com/) （`Cloud`、`Mac`、`Win`、`Chrome OS`、`Firefox`、`Android`、`iOS`）：Taskade 是团队项目的协作任务列表和大纲.
 * [Agenda](https://agenda.com/)(`Mac`)：以日期为中心的笔记.
@@ -77,12 +77,12 @@
 
 &gt; 有许多工具允许使用代码、执行数值计算或在线分析推导.
 
-* [Google Colab](https://colab.research.google.com/) : 免费的 jupyter notebook 在线.  Google Colab 还提供免费的 GPU 小时数.
+* [Google Colab](https://colab.research.google.com/): free jupyter notebook online. Google Colab also comes with free GPU hours.
   *免费且功能强大.
   * 在同一个笔记本上共享和协作.
   * 可以保存在 GitHub 或 Google Drive.
 * [NextJournal](https://nextjournal.com/): 可重复研究的笔记本.
-  * 基本上，NextJournal 几乎可以运行任何东西.
+  * Basically, NextJournal runs almost anything.
   * 专注于可重复性.
 * [Kaggle](https://www.kaggle.com/): kaggle 内置了免费的 jupyter notebook.
   * 还可以连接到 Google BigQuery 以访问大数据.
@@ -262,7 +262,7 @@
 ### Editors
 
 &gt; Markdown、LaTeX 和 reStructuredText 是三种有用的语言.
-> **In most cases, a tweakable text editor such as [Visual Studio Code, aka vscode](https://code.visualstudio.com) 已经足够好了.** 事实上，vscode 附带了大量可用于构建您自己的 IDE 的扩展.
+&gt; **在大多数情况下，可调整的文本编辑器，例如 [Visual Studio Code, aka vscode](https://code.visualstudio.com) is good enough.** In fact vscode comes with a enormous amount of extensions which can be used to build your own IDE.
 
 
 #### Markdown
@@ -300,8 +300,7 @@
 #### LaTeX
 
 
-* [ShareLaTeX](https://www.sharelatex.com/) (`Cloud`)：Dropbox和GitHub的集成、预览、合作、简单的UI. 它还提供了很多模板.
-* [Overleaf](https://www.overleaf.com/)(`Cloud`)：内置版本控制.
+* [Overleaf](https://www.overleaf.com/) (`Cloud`)：内置版本控制，Dropbox和GitHub集成，预览，协作，简单的UI. 它还提供了很多模板.
 * [Authorea](https://www.authorea.com/) (`Cloud`)：易于使用的 UI. 同时支持 Markdown 和 LaTeX.
 * [Papeeria](https://www.papeeria.com)(`Cloud`): 又一个在线 LaTeX 和 Markdown，带有绘图编译器和协作.
 * [JaxEdit](http://jaxedit.com/)(`Cloud`)：JaxEdit 不提供完整的 LaTeX 支持，但对于简单的 LaTeX 文档和幻灯片来说已经足够了.
@@ -309,8 +308,8 @@
 
 **您也可以使用自己的机器托管一个.**
 
-* [FlyLaTeX](https://github.com/alabid/flylatex)：sharelatex 的免费开源版本
-* [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex) : ShareLaTeX 开源了他们的代码. 我会说这是一个伟大的举措.
+
+* [Overleaf Source Code](https://github.com/overleaf/overleaf) : Overleaf 开源了他们的代码. 我会说这是一个伟大的举措.
 * [TeXStudio](http://www.texstudio.org) - 源自 TeXMaker 的跨平台 LaTeX 编辑器.
 * [WinEdt](http://www.winedt.com) - 许多人发誓的 LaTeX 编辑器.
 * [TeXnicCenter](http://www.texniccenter.org) - 一个相当古老但免费且体面的 LaTeX 编辑器.
@@ -438,9 +437,7 @@
 
 ### LaTeX Beamer
 
-* [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) ：随标准 LaTeX 安装一起提供. 已经发明了很多主题. 一键开始编辑
-  * [ShareLaTeX](https://www.sharelatex.com)
-  * [Overleaf](https://www.overleaf.com/)
+* [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) ：随标准 LaTeX 安装一起提供. 已经发明了很多主题. 一键开始编辑 [Overleaf](https://www.overleaf.com/)
 
 ### Mathematica
 
@@ -462,7 +459,7 @@
 ### Sharing Slides
 
 * [GitHub pages](https://pages.github.com/): 对于基于 Html 的幻灯片.
-* [Speaker Deck](https://speakerdeck.com/) by GitHub: PDF slides. Can be displayed online or embeded.
+* [Speaker Deck](https://speakerdeck.com/) 由 GitHub 提供：PDF 幻灯片. 可以在线显示或嵌入.
 
 
 ## Programming
@@ -560,7 +557,7 @@
 
 ## Pacifier
 
-> **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) 和 [Noisli](http://www.noisli.com/) 是推荐的.**
+> **[Rainy Mood](http://www.rainymood.com/), [Coffitivity](https://coffitivity.com/) and [Noisli](http://www.noisli.com/) 是推荐的.**
 
 * [Rainy Mood](http://www.rainymood.com/) (`iOS`, `Android`, `Web`): 阴雨天阴雨心情，简单但具有出色的白噪声； 每天都有新的优美配乐
 * [Coffitivity](http://coffitivity.com/) (`iOS`, `Android`, `Web`, `Mac`)：一个相当简单但有用的咖啡店噪音库； 溢价有更多的三个配乐； 优雅的用户界面； 以科学研究为动力
@@ -660,7 +657,7 @@
 * [GeoGebra](http://www.geogebra.org/)（`Cloud`、`Mac`、`Win`、`Linux`、`Android`、`iOS`、`Win Store`）：Geogebra 是一个非常酷的工具，可以制作 2D 和 3D 数学图.
 * [LaTeXDraw](https://github.com/arnobl/latexdraw)（`Linux`）：“LaTeX 的矢量绘图编辑器.”
 * [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
-* [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
+* [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`)：用于生成箱线图的网络工具.
 * [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`)：开源图形可视化软件.
 
  &gt; 为您的研究地块选择百分比准确的颜色. 为什么？  ([1](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
@@ -724,7 +721,7 @@
 
 ### More
 
-* [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
+* [QR Code Generator](https://www.unitag.io/qrcode)：在您的海报上添加二维码可以帮助您获得更多观众.
 * [SHIELDS.io](http://shields.io/): 自己做一个漂亮的徽章.
 * [TitleCap](http://titlecapitalization.com/): 不知道标题中哪个单词要大写？ [TitleCap](http://titlecapitalization.com/) 适合你.
 * [On Being a Scientist](https://www.nap.edu/read/12192/): 负责任的研究行为指南.

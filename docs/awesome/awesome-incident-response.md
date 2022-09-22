@@ -69,7 +69,7 @@
 ### Disk Image Creation Tools
 
 * [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager)  - 取证工具，其主要目的是从任何类型的磁盘预览可恢复的数据.  FTK Imager 还可以在 32 位和 64 位系统上获取实时内存和分页文件.
-* [Bitscout](https://github.com/vitaly-kamluk/bitscout) - Bitscout by Vitaly Kamluk helps you build your fully-trusted customizable LiveCD/LiveUSB image to be used for remote digital forensics (or perhaps any other task of your choice). It is meant to be transparent and monitorable by the owner of the system, forensically sound, customizable and compact.
+* [Bitscout](https://github.com/vitaly-kamluk/bitscout)  - Vitaly Kamluk 的 Bitscout 可帮助您构建完全受信任的可定制 LiveCD/LiveUSB 映像，以用于远程数字取证（或您选择的任何其他任务）. 它应该是透明的和系统所有者可监控的、合法的、可定制的和紧凑的.
 * [GetData Forensic Imager](http://www.forensicimager.com/) - 基于 Windows 的程序，它将获取、转换或验证以下常见取证文件格式之一的取证图像.
 * [Guymager](http://guymager.sourceforge.net) - 在 Linux 上用于媒体采集的免费取证成像器.
 * [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - Magnet Forensics 的 ACQUIRE 允许在 Windows、Linux 和 OS X 以及移动操作系统上执行各种类型的磁盘采集.
@@ -90,7 +90,7 @@
 
 * [Catalyst](https://github.com/SecurityBrewery/catalyst) - 一个免费的 SOAR 系统，有助于自动化警报处理和事件响应流程.
 * [CyberCPR](https://www.cybercpr.com) - 内置 Need-to-Know 的社区和商业事件管理工具，在处理敏感事件时支持 GDPR 合规性.
-* [Cyphon](https://medevel.com/cyphon/)  - Cyphon 通过单一平台简化大量相关任务，消除了事件管理的难题. 它接收、处理和分类事件，为您的分析工作流提供一个包罗万象的解决方案——聚合数据、捆绑和确定警报的优先级，以及授权分析师调查和记录事件.
+* [Cyphon](https://medevel.com/cyphon/)  - Cyphon 通过单一平台简化大量相关任务，消除了事件管理的难题. 它接收、处理和分类事件，为您的分析工作流提供一个包罗万象的解决方案——聚合数据、捆绑和优先级警报，以及授权分析师调查和记录事件.
 * [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto 安全编排、自动化和响应平台，具有完整的事件生命周期管理和许多集成以增强自动化.
 * [DFTimewolf](https://github.com/log2timeline/dftimewolf) - 用于协调取证收集、处理和数据导出的框架.
 * [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - 事件响应跟踪应用程序通过具有大量受影响系统和工件的案例和任务处理一个或多个事件.
@@ -99,6 +99,7 @@
 * [Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot)  - 专注于灵活性和易用性的事件响应协作和知识捕获工具. 我们的目标是在不增加用户负担的情况下为事件响应流程增加价值.
 * [Shuffle](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 * [threat_note](https://github.com/defpoint/threat_note) - 轻量级调查笔记本，让安全研究人员能够注册和检索与其研究相关的指标.
+* [Zenduty](https://www.zenduty.com) - Zenduty 是一个新颖的事件管理平台，提供端到端的事件警报、待命管理和响应编排，使团队能够更好地控制和自动化事件管理生命周期.
 
 ### Knowledge Bases
 
@@ -108,7 +109,7 @@
 
 ### Linux Distributions
 
-* [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA)  - 基于 VMware 的设备用于数字调查和采集，完全由公共领域软件构建.  ADIA 中包含的工具包括 Autopsy、Sleuth Kit、数字取证框架、log2timeline、Xplico 和 Wireshark. 大多数系统维护使用Webmin. 它专为中小型数字调查和收购而设计. 该设备在 Linux、Windows 和 Mac OS 下运行.  i386（32 位）和 x86_64（64 位）版本均可用.
+* [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA) - VMware-based appliance used for digital investigation and acquisition and is built entirely from public domain software. Among the tools contained in ADIA are Autopsy, the Sleuth Kit, the Digital Forensics Framework, log2timeline, Xplico, and Wireshark. Most of the system maintenance uses Webmin. It is designed for small-to-medium sized digital investigations and acquisitions. The appliance runs under Linux, Windows, and Mac OS. Both i386 (32-bit) and x86_64 (64-bit) versions are available.
 * [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) - 包含在分析过程中帮助调查人员的众多工具，包括法医证据收集.
 * [CCF-VM](https://github.com/rough007/CCF-VM) - CyLR CDQR 取证虚拟机 (CCF-VM)：用于解析收集的数据的一体化解决方案，通过内置的常用搜索使其易于搜索，可同时搜索单个和多个主机.
 * [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/)  - 用于计算机取证收集的 Linux 发行版. 它与 Windows 的数字高级响应工具包 (DART) 捆绑在一起. 还提供名为 DEFT Zero 的轻量版 DEFT，它主要专注于法医健全的证据收集.
@@ -146,7 +147,7 @@
 * [Evolve](https://github.com/JamesHabben/evolve) - 波动性内存取证框架的 Web 界面.
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - 具有嵌套管理程序支持的 Windows x64 高级内存分析.
 * [LiME](https://github.com/504ensicsLabs/LiME) - 可加载内核模块 (LKM)，它允许从 Linux 和基于 Linux 的设备（以前称为 DMD）获取易失性内存.
-* [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - MalConfScan is a Volatility plugin extracts configuration data of known malware. Volatility is an open-source memory forensics framework for incident response and malware analysis. This tool searches for malware in memory images and dumps configuration data. In addition, this tool has a function to list strings to which malicious code refers.
+* [MalConfScan](https://github.com/JPCERTCC/MalConfScan)  - MalConfScan 是一个 Volatility 插件，用于提取已知恶意软件的配置数据.  Volatility 是一个用于事件响应和恶意软件分析的开源内存取证框架. 该工具在内存映像中搜索恶意软件并转储配置数据. 此外，该工具还具有列出恶意代码引用的字符串的功能.
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html)  - 免费的内存取证软件，可帮助事件响应者在实时内存中发现邪恶.  Memoryze 可以获取和/或分析内存图像，并且在实时系统上，可以在其分析中包含页面文件.
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze.html)  - 适用于 Mac 的 Memoryze 是 Memoryze，但适用于 Mac. 但是，功能数量较少.
 * [Orochi](https://github.com/LDO-CERT/orochi) - Orochi 是一个用于协作取证内存转储分析的开源框架.
@@ -271,7 +272,7 @@
 * [DFIR ORC](https://dfir-orc.github.io/)  - DFIR ORC 是一组专门用于可靠解析和收集关键工件（如 MFT、注册表配置单元或事件日志）的专用工具.  DFIR ORC 收集数据，但不对其进行分析：它并不意味着对机器进行分类. 它提供了运行 Microsoft Windows 的机器的取证相关快照. 代码可以在 [GitHub](https://github.com/DFIR-ORC/dfir-orc).
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector)  - 在实时 Windows 系统上收集不同工件并将结果记录在 csv 文件中的工具. 通过对这些工件的分析，可以检测到早期的危害.
 * [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪 Windows 内核的工具.
-* [Hoarder](https://github.com/muteb/Hoarder) - 为取证或事件响应调查收集最有价值的文物.
+* [Hoarder](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
 * [IREC](https://binalyze.com/products/irec-free/)  - 多合一的 IR 证据收集器，可捕获 RAM 映像、$MFT、事件日志、WMI 脚本、注册表配置单元、系统还原点等等. 它是免费的，闪电般快速且易于使用.
 * [Invoke-LiveResponse](https://github.com/mgreen27/Invoke-LiveResponse) - Invoke-LiveResponse 是一个针对目标收集的实时响应工具.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)  - Mandiant 提供的免费工具，用于收集主机系统数据并报告入侵指标 (IOC) 的存在. 仅支持 Windows. 不再维护. 仅完全支持 Windows 7 / Windows Server 2008 R2.

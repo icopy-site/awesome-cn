@@ -67,9 +67,9 @@
 - [ledborg](https://github.com/node-red/node-red-nodes/tree/master/hardware/LEDborg) - [LEDborg](https://www.piborg.org/ledborg) 插入模块.
 - [makeymakey](https://github.com/node-red/node-red-nodes/tree/master/hardware/makey) - 从一个读 [MakeyMakey](http://www.makeymakey.com/) 输入设备.
 - [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) - 允许远程访问的默认 PI GPIO 节点的替代方案.
-- [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) - 通过 SPI 总线从 MCP300x 系列模数转换器芯片读取.
+- [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) - 通过 SPI 总线读取 MCP300x 系列模数转换器芯片.
 - [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) - 直接驱动一条 NeoPixels.
-- [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) - 控制 Pimorini Unicorn HAT 8x8 LED 显示屏.
+- [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) - Controls a Pimorini Unicorn HAT 8x8 LED display.
 - [pibrella](https://github.com/node-red/node-red-nodes/tree/master/hardware/Pibrella) - 控制一个 [Pibrella](https://pibrella.com/) 附加板.
 - [piface](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiFace) - [PiFace](https://www.piface.org.uk/) 接口模块.
 - [piliter](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiLiter) - 控制 Pimorini Pi-LITER 8 LED 附加板.
@@ -93,9 +93,15 @@
 - [wol](https://github.com/node-red/node-red-nodes/tree/master/io/wol) - 将 Wake-On-LAN 魔术包发送到指定的 mac 地址.
 - [xiaomi-ble](https://github.com/eschava/node-red-contrib-xiaomi-ble) - 从小米 BLE（蓝牙 4）获取所有已知数据的单个“小米 BLE”节点.
 
+### Image processing
+
+- [image-output](https://github.com/rikukissa/node-red-contrib-image-output)  - 简单的图像输出节点. 用于在流编辑器中预览图像（面部检测、对象识别等）.
+- [image-tools](https://flows.nodered.org/node/node-red-contrib-image-tools) - 编辑图像、构建和解码 2D 和 3D 条形码.
+
 ### Parsers
 
 - [base64](https://github.com/node-red/node-red-nodes/tree/master/parsers/base64) - 将有效负载转换为/从 base64 编码格式.
+- [buffer-parser](https://flows.nodered.org/node/node-red-contrib-buffer-parser)  - 在缓冲区/数组之间转换值. 支持 Big/Little Endian、BCD、字节交换等等.
 - [geohash](https://github.com/node-red/node-red-nodes/tree/master/parsers/geohash) - 将 lat、lon 有效负载转换为 geohash 格式/从 geohash 格式转换.
 - [msgpack](https://github.com/node-red/node-red-nodes/tree/master/parsers/msgpack) - 将有效负载转换为 msgpack 二进制打包格式/从 msgpack 二进制打包格式转换.
 - [what3words](https://github.com/node-red/node-red-nodes/tree/master/parsers/what3words) - 将 lat、lon 位置编码或解码为 what3words 文本格式.
@@ -108,7 +114,7 @@
     - [alexa-home-skill-v3-lambda](https://github.com/coldfire84/node-red-alexa-home-skill-v3-lambda) - node-red-alexa-home-skill-v3-web 的 Lambda 函数.
 - [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel)  - 与 Alexa API 交互. 模拟日常行为、控制和查询您的设备.
 - [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) - 通过 YNCA 协议集成和控制 YAMAHA™ 音频/视频接收器.
-- [ccu](https://github.com/rdmtc/node-red-contrib-ccu) - 连接 Homematic，这是制造商 eQ-3 的一系列智能家居自动化硬件，在德国尤其受欢迎.
+- [ccu](https://github.com/rdmtc/node-red-contrib-ccu) - 与制造商 eQ-3 的一系列智能家居自动化硬件 Homematic 连接，在德国尤其受欢迎.
 - [deconz](https://github.com/deconz-community/node-red-contrib-deconz) - 通过 deCONZ 访问 Zigbee 3.0 (Z30)、Zigbee 家庭自动化 (ZHA) 和 Zigbee Light Link (ZLL) 灯.
 - [fritz](https://github.com/bashgroup/node-red-contrib-fritz)  - 提供对您的 AVM Fritz!Box 的轻松访问. 读写配置，包括 VoIP 和 Dect 配置.
 - [fritzapi](https://github.com/dnknth/node-red-contrib-fritzapi) - 通过 AVM Fritz!Box 控制智能家居 DECT 设备和访客 wifi.
@@ -121,7 +127,7 @@
 - [huemagic](https://github.com/Foddy/node-red-contrib-huemagic) - 控制飞利浦 Hue 桥、灯、组、场景、规则、水龙头、开关、按钮、运动传感器、温度传感器和 Lux 传感器.
 - [lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) - 控制 LG webOS 智能电视.
 - [loxone](https://github.com/codmpm/node-red-contrib-loxone) - 连接到 Loxone 迷你服务器.
-- [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate) - Controls KNX intallation. With optional ETS group address importer and gateway simulation. 
+- [knx-ultimate](https://github.com/Supergiovane/node-red-contrib-knx-ultimate)  - 控制 KNX 安装. 带有可选的 ETS 组地址导入器和网关模拟. 
 - [openhab3](https://github.com/jeroenhendricksen/node-red-contrib-openhab3) - openHAB 项目状态和命令的集成.
 - [power-saver](https://power-saver.smoky.no/) - 自动节省可变电价的费用.
 - [smartnora](https://github.com/andrei-tatar/node-red-contrib-smartnora) - 通过 Smart NORA 集成 Google 智能家居操作.
@@ -165,7 +171,8 @@
 ### Time
 
 - [blindcontroller](https://github.com/alisdairjsmyth/node-red-contrib-blindcontroller) - 根据太阳的当前位置自动控制家用卷帘.
-- [bigtimer](https://github.com/scargill/node-red-contrib-bigtimer)  - 支持黄昏/日落黎明/日出和变化的时间节点以及日/周/月（和特殊日子）控制. 该节点提供适用于 MQTT、语音和数据库的输出.
+- [bigtimer](https://github.com/scargill/node-red-contrib-bigtimer)  - 时间节点支持黄昏/日落黎明/日出和变化以及日/周/月（和特殊日子）控制. 该节点提供适用于 MQTT、语音和数据库的输出.
+- [cron-plus](https://flows.nodered.org/node/node-red-contrib-cron-plus) - 具有完全动态控制和时区支持的灵活调度程序（cron、太阳能事件、简单日期）节点.
 - [suncalc](https://github.com/node-red/node-red-nodes/tree/master/time/suncalc) - 使用 suncalc 模块根据指定位置在日出和日落时生成输出. 
 - [simpletime](https://github.com/Paul-Reed/node-red-contrib-simpletime) - 添加具有各种格式选项的时间和日期有效负载，可以在流程中稍后检索和使用.
 - [sun-position](https://github.com/rdmtc/node-red-contrib-sun-position)  - 基于定时器的流量控制，包括黄昏、黎明（和变化）等等. 另外，您可以获得太阳和月亮位置或通过太阳或月亮位置控制流量.
@@ -184,7 +191,7 @@
 - [moment](https://github.com/totallyinformation/node-red-contrib-moment) - 使用 Moment.js 库生成格式良好的日期/时间字符串. 
 - [owntracks](https://github.com/hardillb/node-red-contrib-owntracks) - 将 Owntrack 消息转换为标准地理消息并处理加密位置.
 - [persist](https://github.com/DeanCording/node-red-contrib-persist) - 通过 Node-RED 重新启动和部署持久化数据.
-- [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) - 通过添加自我修复功能使 Node-RED 更具弹性.
+- [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) - Making Node-RED more resilient by adding self-healing capabilities.
 - [state-machine](https://github.com/DeanCording/node-red-contrib-state-machine) - 环绕 JavaScript 状态机以实现有限状态机.
 - [string](https://github.com/steveorevo/node-red-contrib-string) - 提供原生和扩展的可链接 JavaScript 字符串解析和操作方法.
 - [twc-weather](https://github.com/johnwalicki/node-red-contrib-twc-weather) - Weather Company 和 Weather Underground 个人气象站 API.
@@ -196,9 +203,10 @@
 - [browser-utils](https://github.com/ibm-early-programs/node-red-contrib-browser-utils) - 添加浏览器功能，例如文件上传、摄像头和麦克风.
 - [node-red-dashboard](https://github.com/node-red/node-red-dashboard) - 创建实时数据仪表板.
     - [https://flows.nodered.org/collection](https://flows.nodered.org/collection/590bc13ff3a5f005c7d2189bbb563976) - 仪表板额外节点.
+    - [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - 在仪表板中显示交互式 SVG（矢量图形）.
+    - [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - 在仪表板中显示弹出上下文菜单.
 - [flow-manager](https://flows.nodered.org/node/node-red-contrib-flow-manager) - 将流 json 分离到多个文件.
 - [iglass](https://www.npmjs.com/package/iglass-nodes) - 互动 [iGlass Automation](https://iglass.international) 块.
-- [image-output](https://github.com/rikukissa/node-red-contrib-image-output)  - 简单的图像输出节点. 用于在流编辑器中预览图像（面部检测、对象识别等）.
 - [uibuilder](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - 为方便起见，使用任何（或不使用）前端库创建动态 Web 界面.
 - [web-worldmap](https://github.com/dceejay/RedMap) - 提供用于绘制“事物”的世界地图网页.
 

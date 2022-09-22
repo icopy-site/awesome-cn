@@ -485,7 +485,7 @@
 * [FireHydrant Blog](https://www.firehydrant.io/blog) - 关于复杂系统、事件响应和 SRE 最佳实践的帖子.
 * [Rootly Blog](https://www.rootly.io/blog) - 事件管理最佳实践和指南.
 * [incident.io Blog](https://www.incident.io/blog) - 关于事件管理和响应的指南、建议和资源.
-* [Logit.io Blog](https://logit.io/blog) - 关于日志管理、SRE 和 devOps 的资源.
+* [Logit.io Blog](https://logit.io/blog) - 有关日志管理、SRE 和 devOps 的资源.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) - 关于 SRE、SysAdmin 和 DevOps 新闻、工具、教程和意见的每周通讯.
@@ -493,7 +493,8 @@
 * [SRE Weekly](https://sreweekly.com/) - 每周站点可靠性通讯.
 * [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - 每周系统工程和运营新闻以及来自业内人士的见解.
 * [ChaosEngineering.news](https://chaosengineering.news/)  - 混沌工程通讯. 混沌工程的所有内容，直接发送到您的收件箱！
-
+* [Monitoring Weekly](https://monitoring.love/)  - 监控有什么新变化？ 每周将精选的监控文章发送到您的收件箱.
+* [Observability news](https://o11y.news/) - 围绕可观察性 (o11y) 的更新，特别关注开源.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - 官方 SRE 会议.

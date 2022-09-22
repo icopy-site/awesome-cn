@@ -765,11 +765,17 @@
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - 由比特币保护的智能合约平台.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - 一个开源的权益证明区块链和智能合约计算平台.
 
-## Higher Education
+## Health and Social Science
 
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - 如何从非结构化的生物医学数据和文本中提取信息.
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - 使用计算方法研究神经系统的多学科科学.
+- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - 计算机辅助的历史科学调查.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - 使用 Markdown、reStructuredText 和 Jupyter 笔记本进行无干扰的科学写作.
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+- [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - 面向设施、提供商、开发人员、政策专家和研究人员的开源医疗保健软件.
+- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - 研究神经系统和大脑.
 
 ## Events
 
@@ -792,6 +798,7 @@
 
 ## Miscellaneous
 
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - 使用 Markdown、reStructuredText 和 Jupyter 笔记本进行无干扰的科学写作.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - 基于文本的数据交换格式.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
@@ -842,7 +849,6 @@
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字发行平台.
 - [Bots](https://github.com/hackerkid/bots#readme) - 构建机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态追踪框架.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - 神奇宝贝和神奇宝贝GO.
@@ -857,10 +863,8 @@
 - [Framer](https://github.com/podo/awesome-framer#readme) - 原型交互式 UI 设计.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - 标记语言.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - 有趣的开发者项目.
-- [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - 面向设施、提供商、开发人员、政策专家和研究人员的开源医疗保健软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - 使用 PHP 构建的开源电子商务.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - TeX/LaTeX/ConTeXt 的图形绘图包.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - 研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - 无广告替代品.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - 为实验或笑话而不是实际使用而设计的编程语言.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.
@@ -869,7 +873,6 @@
 - [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - 一项免费的开放网络标准服务，可让您直接在浏览器中汇款.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - 公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - 使用加密来规范单位生成和验证转移的数字货币.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - 为开源项目免费提供工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - 创造更好、更一致的设计和体验.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - 来自上座部佛教传统的教义.
@@ -879,13 +882,11 @@
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - 一种用于计算以确定用户是否为人类的挑战-响应测试.
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - 创建和共享包含代码、方程式、可视化和叙述性文本的文档.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - 国际高中机器人锦标赛.
-- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计社区的会议和聚会发言人.
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 适合所有人的桌面游戏乐趣.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 资助个人程序员或开源项目的开发.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主-病原体相互作用.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - GitHub 上与食品相关的项目.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - 开始接受比特币.
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - 使用计算机解决复杂的科学问题.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
@@ -900,7 +901,6 @@
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - 网站的广告和程序化媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - 寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - 正确命名计算机科学中的事物.
-- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - 如何从非结构化的生物医学数据和文本中提取信息.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - 努力为子孙后代保护网络.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - WordPress 的命令行界面.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人划分为风险等级的方法.

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/><br/>
 <div align="center">
-	<img width=450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada.svg" alt="Awesome">
+	<img width=450px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
 </div>
 
 <br><br>
@@ -205,7 +205,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Visual Studio 2017 的 Ada 语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时允许访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
+- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时支持访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源的 Gnu Emacs 主要模式.
@@ -323,12 +323,12 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS 是在 Ada 中开发基于 Web 的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的可立即使用和可扩展的模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
+- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的即用型和可扩展模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 学说模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
     - [ada-el](https://github.com/stcarrez/ada-el) - 该库支持接近 Java 统一表达式语言 (EL) 的简单表达式语言.
-    - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（参见 JSR 252、JSR 314 和 JSR 344）.
+    - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（请参阅 JSR 252、JSR 314 和 JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet 允许使用与 Java Servlet 相同的模式创建 Web 应用程序（参见 JSR 154、JSR 315）.
 - [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 对 Swagger 代码生成的支持：OpenAPI 生成器是一个代码生成器，它支持在给定 OpenAPI 规范的情况下自动生成 API 客户端库、服务器存根和文档.
 - [ews](https://github.com/simonjwright/ews) - Embedded Web Server 是一个 Web 服务器构建工具包，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
@@ -450,7 +450,7 @@
 - [radalib](https://github.com/sergio-gomez/Radalib) - 用于分析复杂网络等的 Ada 库和工具.
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它是作为集成到其他工具（IDE、静态分析器等）的构建块.
+- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它旨在作为集成到其他工具（IDE、静态分析器等）的构建块.
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 扫描仪和解析器生成器.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken 是一个 LALR、LR1 和 Packrat 解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - Ada 代码分析器.
@@ -583,7 +583,7 @@
 - [em-brick](https://github.com/it-cosmos/emBRICK) - emBRICK 驱动程序和对 Ada 中 emBRICK 的支持.
 - [dw1000](https://github.com/damaki/DW1000) - 适用于 DecaWave DW1000 超宽带 (UWB) 无线电芯片的 Ada/SPARK 驱动程序.
 - [evb1000](https://github.com/damaki/EVB1000) - 用于控制 DecaWave EVB1000 评估板的板载外设的 Ada/SPARK 驱动程序.
-- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - 这包含为 AdaPilot 实现 AdaRacer MCU 驱动程序的探索，使用来自 AdaCore 的 Ada 2012 的 Ravenscar 配置文件和使用 SVD2Ada 生成的设备绑定.
+- [multiplexed-io](https://github.com/simonjwright/multiplexed-io) - 这包含探索，对于 AdaPilot，实现 AdaRacer MCU 的驱动程序，使用来自 AdaCore 的 Ada 2012 的 Ravenscar 配置文件和使用 SVD2Ada 生成的设备绑定.
 
 #### Controllers
 - [solenoid-engine-controller](https://github.com/Fabien-Chouteau/solenoid-engine-controller) - 用于电磁发动机的软件控制器 (Ada/STM32F4).

@@ -60,7 +60,7 @@
 
 * [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***自然***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5) ]. 阅读科学论文的自然视角.
 
-* [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)  - ***麻省理工学院***. 麻省理工学院在不同时间限制下阅读论文的策略指南.
+* [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)  - ***麻省理工学院***. 麻省理工学院关于在不同时间限制下阅读论文的策略指南.
 
 
 ### Literature Management
@@ -76,7 +76,7 @@
 
 * [Semantic Scholar](https://www.semanticscholar.org/)  - ***艾伦人工智能研究所***. 人工智能驱动的科学文献研究工具.
 
-* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5)]. Semantic Scholar with extracting feature and metadata from raw paper data.
+* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 从原始纸质数据中提取特征和元数据的语义学者.
 
 * [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5) ].  Semantic Sc​​holar 发布的学术论文的开放语料库.
 
@@ -91,7 +91,7 @@
 
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization)  - ***维基百科***. 关于知识组织方法的维基百科.
 
-* [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
+* [The Zettelkasten Method](https://zettelkasten.de/)  - ***比勒费尔德大学***. 将图表和多标签中的想法联系起来.
 
 * [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)  - ***维基百科***.  Zettelkasten 方法的维基百科.
 
@@ -135,9 +135,9 @@
 
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***劳特利奇***，1956 年. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5) ]. 一本关于思维模式的经典书籍.
 
-* [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***斯普林格***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5) ]. 关于溯因推理的介绍性说明.
+* [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***斯普林格***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5)]. An introductory account on abductive reasoning.
 
-* [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***斯普林格***，2006 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=) ]. 关于溯因推理的介绍性说明.
+* [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***斯普林格***，2006 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=)]. An introductory account on abductive reasoning.
 
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6) - ***斯普林格***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)].
 
@@ -221,7 +221,7 @@
 
 * [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001) - ***心理评论***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001) - ***心理评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5)]. A perspective against search as scientific thinking.
+* [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001) - ***心理评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5) ]. 反对将搜索视为科学思维的观点.
 
 
 
@@ -296,7 +296,7 @@
 
 * [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf) ]. 用于少样本学习的贝叶斯程序归纳.
 
-* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***Behavioral and Brain Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5) ].  Brenden Lake 和 Josh Tenenbaum 对贝叶斯建模的评论.
+* [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***行为和脑科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5) ].  Brenden Lake 和 Josh Tenenbaum 对贝叶斯建模的评论.
 
 * [The rational basis of representativeness](http://web.mit.edu/cocosci/archive/Papers/cogsci01_final.pdf) - ***CogSci&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=11464039134248091466&hl=en&as_sdt=0,5)].
 
@@ -317,7 +317,7 @@
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计建模三大家族的回顾.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303)]. A statistical account for the shift from textons to texture.
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理的转变的统计说明.
 
 * [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
@@ -550,7 +550,7 @@
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5) ].  Noah Goodman 和 Micheal Frank 对理性言论法案的评论.
 
-* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***语义与语用学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***语义和语用学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***语义和语言理论***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579&hl=en&as_sdt=2005&sciodt=0,5) ]. 形容词理解作为上下文中的理性推理.
 
@@ -570,7 +570,7 @@
 
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***哲学研究***，2021年. [[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257&hl=en&as_sdt=0,5)].
 
-* [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
+* [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***自然人文社会科学传播***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
 
 
 #### Pointing & Pantomime
@@ -673,7 +673,7 @@
 
 * [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
 
-* [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***自然人类行为***，2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
+* [Multi-task reinforcement learning in humans](https://gershmanlab.com/pubs/Tomov21.pdf) - ***Nature Human Behavior***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14589018692074515644&hl=en&as_sdt=0,5)].
 
 
 
@@ -997,7 +997,7 @@
 
 * [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***人格与社会心理学杂志***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5) ]. 介绍隐式关联测试的原始论文.
 
-* [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 的第三年审查.
+* [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***Zeitschrift für Experimentelle Psychologie***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 的第三年审查.
 
 * [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***社会心理学和无意识：高等心理过程的自动性（第 265-292 页），心理学出版社***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT 的第 7 年审查.
 
@@ -1071,7 +1071,7 @@
 
 * [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)  - ***柏拉图斯坦福***. 关于有限理性的计算哲学解释，这是人类智能在心理学和生态学中的基本假设.
 
-* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 一种关于工具理性的计算哲学解释，一种关于代理人的决定是有意还是出于理性连贯性的说法.
+* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 关于工具理性的计算哲学解释，关于代理人的决定是有意做出还是出于理性连贯性的说法.
 
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
@@ -1103,23 +1103,23 @@
 
 * [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***.  Wikipedia on Theory of Mind (ToM)，一种估计他人目标、信念和欲望的认知能力.
 
-<!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***柏拉图斯坦福***.
+<!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***Plato Stanford***.
 
-* [Intentionality](https://plato.stanford.edu/entries/intentionality/) - ***柏拉图斯坦福***.
+* [Intentionality](https://plato.stanford.edu/entries/intentionality/) - ***Plato Stanford***.
 
-* [Epistemology](https://plato.stanford.edu/entries/epistemology/) - ***柏拉图斯坦福***.
+* [Epistemology](https://plato.stanford.edu/entries/epistemology/) - ***Plato Stanford***.
 
-* [The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/) - ***柏拉图斯坦福***.
+* [The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/) - ***Plato Stanford***.
 
-* [Mental Representation](https://plato.stanford.edu/entries/mental-representation/) - ***柏拉图斯坦福***.
+* [Mental Representation](https://plato.stanford.edu/entries/mental-representation/) - ***Plato Stanford***.
 
-* [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***柏拉图斯坦福***.
+* [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
 
-* [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/) - ***柏拉图斯坦福***.
+* [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/) - ***Plato Stanford***.
 
-* [The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) - ***柏拉图斯坦福***.
+* [The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/) - ***Plato Stanford***.
 
-* [Practical Reason](https://plato.stanford.edu/entries/practical-reason/) - ***柏拉图斯坦福***.
+* [Practical Reason](https://plato.stanford.edu/entries/practical-reason/) - ***Plato Stanford***.
 
 * [Memory](https://plato.stanford.edu/entries/memory/) - ***柏拉图斯坦福***.--&gt;
 
@@ -1201,13 +1201,13 @@
 
 * [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/~enric/papers/generalize_and_blend.pdf) - ***ICCC&#39;15***, [[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862&hl=en&as_sdt=0,5)].
 
-* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf) - ***ICML'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101&hl=en&as_sdt=0,5) ]. 类比在机器学习中的首次应用.
+* [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf) - ***ICML'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101&hl=en&as_sdt=0,5)]. The first application of analogy to machine learning.
 
 * [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NIPS&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654&hl=en&as_sdt=0,5)].
 
 * [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16686853801653819556&hl=en&as_sdt=0,5)].
 
-* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863) - ***人工智能***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1397905953174123757&hl=en&as_sdt=0,5) ]. 关于类比的数学说明.
+* [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863) - ***人工智能***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1397905953174123757&hl=en&as_sdt=0,5)]. A mathematical account on analogy.
 
 * [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138&hl=en&as_sdt=0,5)].
 
@@ -1340,7 +1340,7 @@
 
 * [The Emergence of First-Order Logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/)  - ***柏拉图斯坦福***. 计算哲学对一阶逻辑出现的解释，主要是关于一阶逻辑的自然回顾.
 
-* [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***柏拉图斯坦福***. 
+* [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***Plato Stanford***. 
 
 
 * [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5) ]. 关于二阶元规则的原始论文.
@@ -1409,21 +1409,21 @@
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图斯坦福***. 一种计算哲学对虽然假设的嘲弄进行了解释，该假设提出思考发生在一种心理语言中.
 
-* [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图斯坦福***.
+* [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***Plato Stanford***.
 
 * [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/)  - ***柏拉图斯坦福***. 关于科学表示的计算哲学帐户，重点关注科学模型如何表示其目标系统.
 
 * [Self-Knowledge](https://plato.stanford.edu/entries/self-knowledge/)  - ***柏拉图斯坦福***. 一种关于自我知识的计算哲学解释，它通常指的是对自己的心理状态的了解——即一个人的感受或想法，或者一个人的信念或愿望.
 
-* [Common Knowledge](https://plato.stanford.edu/entries/common-knowledge/) - ***柏拉图斯坦福***.
+* [Common Knowledge](https://plato.stanford.edu/entries/common-knowledge/) - ***Plato Stanford***.
 
-* [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图斯坦福***.
+* [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***Plato Stanford***.
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于可追溯到希腊古代辩证法的研究传统，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
 
-* [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
+* [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***Plato Stanford***. 
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
 
@@ -1529,7 +1529,7 @@
 
 * [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf) - ***儿童发展和行为进步***，2012 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)]. 
 
-* [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445) - ***认知发展***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432&hl=en&as_sdt=0,5)].
+* [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445) - ***Cognitive Development***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432&hl=en&as_sdt=0,5)].
 
 * [Infants make more attempts to achieve a goal when they see adults persist](https://www.science.org/doi/abs/10.1126/science.aan2317) - ***科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=2617011825272996810&hl=en&as_sdt=0,5)].
 
@@ -1606,6 +1606,19 @@
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5)].
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5)].
+
+
+### Science of Science
+
+* [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***维基百科***.
+
+* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***科学***，2018 年.评论.
+
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***PNAS***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型分析科学主题.
+
+* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***PNAS***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 科学中的偏见模式和风险因素分析.
+
+* [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***PNAS***，2021 年. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么一个领域每年发表的论文过多会导致停滞而不是进步. 
 
 
 <!--<span id = "te"></span>

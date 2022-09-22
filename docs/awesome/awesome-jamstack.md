@@ -64,6 +64,7 @@
 - [Storipress](https://storipress.com) - 具有集成站点构建器和工作流管理的多合一发布 + 博客平台.
 - [Draftbox](https://draftbox.co) - 为您的 WordPress 或 Ghost 博客提供闪电般快速、安全的前端，无需编码.
 - [Plasmic](https://www.plasmic.app/) - 强大的设计工具，用于直观地构建您的 React 组件和 Jamstack 网站.
+- [TeleportHQ](https://teleporthq.io/)  - 前端设计与开发平台.  TeleportHQ 是协作式前端平台，可即时创建和发布您的无头静态网站. 免费代码导出，3 个免费项目，无限合作者.
 
 ## Jamstack Sites Showcase
 
@@ -135,13 +136,13 @@
 
 ### Comments
 
-- [Disqus](https://disqus.com) - 全球评论系统，改善网站上的讨论并连接网络上的对话.
+- [Disqus](https://disqus.com) - 全球评论系统，可改善网站上的讨论并连接网络上的对话.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 评论插件允许人们使用他们的 Facebook 帐户评论您网站上的内容.
 - [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、wiki 页面等.
 
 ### Forms
 
-- [Fetch Forms](https://www.fetchforms.io/) - 以表单构建器的速度创建表单，并通过调用简单的 API 在您的应用程序中使用它们. 
+- [Fetch Forms](https://www.fetchforms.io/) - 以表单生成器的速度创建表单，并通过调用简单的 API 在您的应用程序中使用它们. 
 - [Formcarry](https://formcarry.com) - 为您的表单提供无忧的 HTML 表单端点、强大的仪表板、可靠的垃圾邮件拦截、附件上传和 Zapier 集成.
 - [Formcake](https://formcake.com) - 为开发人员构建的表单后端：Zapier 集成、零依赖、简单的 API 和无限的表单.
 - [Getform](https://getform.io)  - 设计师和开发人员的表单后端平台. 在几分钟内为您的静态站点设置表单端点，并通过 Zapier 集成和 Webhooks 支持扩展您的数据.
@@ -205,7 +206,7 @@
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - 基于自定义 Google 硬件（张量处理单元）自动扩展的无服务器机器学习服务.
 - [Serverless](https://serverless.com/) - 用于部署和操作无服务器架构的工具包.
 - [Cloudinary](https://cloudinary.com/)  - 无服务器媒体（图像/视频）管理平台. 为 Jamstack 提供每种流行语言的 SDK 和媒体小部件，以便轻松管理媒体、CDN、存储、转换等.
-- [imgix](https://www.imgix.com/)  - 无服务器图像交付和管理服务.  imgix 连接到您的图像存储位置（例如 S3、GCS、Web 文件夹）并使用简单而强大的 URL 参数转换、优化和智能地交付您的图像.
+- [imgix](https://www.imgix.com/)  - 无服务器图像交付和管理服务.  imgix 连接到您的图像存储位置（例如 S3、GCS、Web 文件夹），并使用简单而强大的 URL 参数转换、优化和智能地交付您的图像.
 - [Elastictable](https://www.elastictable.com) - 建立在 AWS 上的后端即服务解决方案，缺少提高在线业务的成功率.
 
 
