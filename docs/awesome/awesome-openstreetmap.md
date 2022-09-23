@@ -33,8 +33,8 @@
 <!--lint disable no-repeat-punctuation-->
 * [StreetComplete](https://github.com/westnordost/StreetComplete)  - 通过回答简单问题来改善 OSM 的应用程序.  ([Android](https://play.google.com/store/apps/details?id=de.westnordost.streetcomplete) / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
 * [Vespucci](https://vespucci.io/)  - 适用于 Android 的高级全数据模型编辑器.  ([Android](https://play.google.com/store/apps/details?id=de.blau.android) / [Source Code](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
-* [GoMap!!](https://apps.apple.com/app/id592990211)  - 适用于 iOS 的功能丰富的移动编辑器.  （iOS / [Source Code](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
-* [Every Door](https://every-door.app)  - Every Door 是一款 Android 和 iOS 应用程序，可让您在 OpenStreetMap 中创建和编辑对象. 它支持编辑节点和面要素，以及创建商店、长椅和建筑物入口等点要素.  ([Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) / [Source Code](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
+* [GoMap!!](http://gomaposm.com)  - 适用于 iOS 的功能丰富的移动编辑器.  ([iOS](https://apps.apple.com/app/id592990211) / [Source Code](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
+* [Every Door](https://every-door.app)  - Every Door 是一款 Android 和 iOS 应用程序，可让您在 OpenStreetMap 中创建和编辑对象. 它支持编辑节点和面要素，以及创建商店、长椅和建筑物入口等点要素.  ([Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) / [iOS](https://apps.apple.com/app/id1621945342) / [Source Code](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
 * [OSM Go!](https://github.com/DoFabien/OsmGo)  - OSM 去！ 是一个用于为 OpenStreetMap 做出贡献的 Android 应用程序和渐进式 Web 应用程序 (PWA).  ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [WebApp](https://osmgo.com/#/main) / [Source Code](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
 <!--lint enable no-repeat-punctuation-->
 

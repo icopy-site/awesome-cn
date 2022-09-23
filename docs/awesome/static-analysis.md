@@ -40,7 +40,7 @@
 
 
 <details>
- <summary>显示语言</summary>
+ <summary>Show languages</summary>
   <!-- Please use HTML syntax here so that it works for Github and mkdocs -->
   <ul>
     <li><a href="#abap">ABAP</a></li>
@@ -257,7 +257,7 @@
 <h2 id="erlang">二郎</h2>
 
 - [dialyzer](https://www.erlang.org/doc/man/dialyzer.html)  — DIALYZER，ERlang 程序的差异分析器.  Dialyzer 是一种静态分析工具，用于识别软件差异，例如明确的类型错误、由于编程错误而死或无法访问的代码，以及在单个 Erlang 模块或整个（一组）应用程序中的不必要测试.
-Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from Erlang source code. The file and line number of a discrepancy  is reported along with an indication of what the discrepancy is about.  Dialyzer bases its analysis on the concept of success typings,  which allows for sound warnings (no false positives).
+ Dialyzer 从调试编译的 BEAM 字节码或 Erlang 源代码开始分析. 报告差异的文件和行号以及差异的指示.  Dialyzer 的分析基于成功类型的概念，该概念允许声音警告（无误报）.
   - [elvis](https://github.com/inaka/elvis) — Erlang Style Reviewer.
   - [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) — 对 Erlang 源代码进行基本扫描并报告任何可能导致 Erlang 源代码不安全的函数调用的工具.
   
@@ -528,7 +528,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
   - [pydocstyle](http://www.pydocstyle.org) — 检查是否符合 Python 文档字符串约定.
   - [pyflakes](https://pypi.org/project/pyflakes) — 检查 Python 源文件是否有错误.
   - [pylint](http://pylint.pycqa.org/en/latest)  — 寻找编程错误，帮助执行编码标准并嗅探一些代码异味. 它还包括`pyreverse`（一个UML图生成器）和`symilar`（一个相似性检查器）.
-  - [pyre-check](https://pyre-check.org) — A fast, scalable type checker for large Python codebases.
+  - [pyre-check](https://pyre-check.org) — 用于大型 Python 代码库的快速、可扩展的类型检查器.
   - [pyright](https://github.com/Microsoft/pyright) — Python 的静态类型检查器，旨在解决现有工具（如 mypy）中的空白.
   - [pyroma](https://github.com/regebro/pyroma) — 评价 Python 项目在多大程度上符合 Python 打包生态系统的最佳实践，并列出可以改进的问题.
   - [Pysa](https://pyre-check.org/docs/pysa-basics.html) — 基于 Facebook 的 pyre-check 的工具，用于识别 Python 代码中的潜在安全问题，并通过污点分析识别.
@@ -594,7 +594,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
   - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — 使用 hunspell（就绪）和语言工具（预览版）检查所有文档的拼写和语法错误
   - [clippy](https://rust-lang.github.io/rust-clippy) — 用于捕捉常见错误并改进您的 Rust 代码的代码 linter.
   - [dylint](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy)  — 从动态库运行 Rust lints 的工具.  Dylint 使开发人员可以轻松维护自己的个人 lint 集合.
-  - [electrolysis](http://kha.github.io/electrolysis) — A tool for formally verifying Rust programs by transpiling them into definitions in the Lean theorem prover.
+  - [electrolysis](http://kha.github.io/electrolysis) — 通过将 Rust 程序转换为精益定理证明器中的定义来正式验证 Rust 程序的工具.
   - [herbie](https://github.com/mcarton/rust-herbie-lint) — 在使用数值不稳定的浮点表达式时向您的 crate 添加警告或错误.
   - [linter-rust](https://github.com/AtomLinter/linter-rust) — 使用 rustc 和 cargo 在 Atom 中整理你的 Rust 文件.
   - [MIRAI](https://github.com/facebookexperimental/MIRAI) — 以及在 Rust 的中级中间语言上运行的抽象解释器，并根据污点分析提供警告.
@@ -606,7 +606,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
   - [rust-audit](https://github.com/Shnatsel/rust-audit)  — 审计 Rust 二进制文件中的已知错误或安全漏洞. 这通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分来实现.
   - [rustfix](https://github.com/rust-lang/rustfix) — 阅读并应用 rustc（以及第三方 lints，如 clippy 提供的那些）提出的建议.
   - [rustfmt](https://github.com/rust-lang/rustfmt) — 根据样式指南格式化 Rust 代码的工具.
-  - [RustViz](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
+  - [RustViz](https://github.com/rustviz/rustviz)  — RustViz 是一个从简单的 Rust 程序生成可视化的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有与 mdbook 集成的图形指示器的 SVG 文件，以呈现 Rust 程序中数据流的可视化.
   - [warnalyzer](https://github.com/est31/warnalyzer) — 显示多箱 Rust 项目中未使用的代码
   
 
@@ -615,7 +615,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 - [dbcritic](https://github.com/channable/dbcritic) — dbcritic 发现数据库模式中的问题，例如表中缺少主键约束.
   - [sqlcheck](https://github.com/jarulraj/sqlcheck) — 自动识别 SQL 查询中的反模式.
   - [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
-  - [sqlint](https://github.com/purcell/sqlint) — 简单的 SQL 短绒.
+  - [sqlint](https://github.com/purcell/sqlint) — Simple SQL linter.
   - [squawk](https://squawkhq.com)  — Linter for PostgreSQL，专注于迁移. 防止数据库迁移导致的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
   - [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL 特定的 linter.
   - [TSqlRules](https://github.com/ashleyglee/TSqlRules) — SQL Server 的 TSQL 静态代码分析规则.
@@ -658,6 +658,8 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) — Angular 项目的 Linter
   - [Codelyzer](http://codelyzer.com) :warning: — 一组用于 Angular 2 TypeScript 项目的静态代码分析的 tslint 规则.
+  - [tslint](https://palantir.github.io/tslint/) :warning: — 自 2019 年起，TSLint 已被弃用.有关更多详细信息，请参阅此问题：typescript-eslint 现在是 linting TypeScript 的最佳选择.
+ TSLint 是一个可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
   - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
   - [tslint-microsoft-contrib](https://github.com/Microsoft/tslint-microsoft-contrib) :warning: — 一组 tslint 规则，用于对 Microsoft 维护的 TypeScript 项目进行静态代码分析.
   - [TypeScript Call Graph](https://github.com/whyboris/TypeScript-Call-Graph) — CLI 从您的 TypeScript 文件生成函数和调用的交互式图表
@@ -726,7 +728,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
   - [ESLint](https://github.com/eslint/eslint) — 一个 JS 的可扩展 linter，遵循 ECMAScript 标准.
   - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于对 Java Web 应用程序和 Android 应用程序进行安全审计的 SpotBugs 插件.  （也可以使用 Kotlin、Groovy 和 Scala 项目）
   - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
-  - [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
+  - [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
   - [goone](https://github.com/masibw/goone) — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
   - [graudit](http://www.justanotherhacker.com) — Grep 粗略审计——源代码审计工具.
   - [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — 商业静态代码分析.
@@ -910,7 +912,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
 
 <h2 id="container">容器</h2>
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
   - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
   - [clair](https://github.com/coreos/clair) — 容器的漏洞静态分析.
   - [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会改变资源配置.
@@ -928,7 +930,7 @@ Dialyzer starts its analysis from either debug-compiled BEAM bytecode  or from E
   - [OpenSCAP](https://www.open-scap.org/) — 一套自动化审计工具，用于按照 NIST 认证的安全内容自动化协议 (SCAP) 检查配置和已知漏洞.
   - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器原生应用程序保护，提供对容器化应用程序的可见性和控制.
   - [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在开源堆栈之上，提供 Docker 图像扫描并创建了 Falco，这是用于容器、Kubernetes 和云的运行时威胁检测的开放标准. 
-  - [Vuls](https://vuls.io/) — 基于 NVD、OVAL 等信息的无代理 Linux 漏洞扫描程序.它具有一些容器映像支持，尽管不是特定于容器的工具.
+  - [Vuls](https://vuls.io/) — Agent-less Linux vulnerability scanner based on information from NVD, OVAL, etc.  It has some container image support, although is not a container specific tool.
   
 
 <h2 id="ci">持续集成</h2>

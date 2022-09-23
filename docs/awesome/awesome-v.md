@@ -100,7 +100,7 @@
 
 ### Text processing
 
-- [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.
+- [v-regex](https://github.com/spytheman/v-regex) - A simple regex library for V.
 - [chalk](https://github.com/etienne-napoleone/chalk) - 在终端中为字符串着色.
 - [crayon](https://github.com/thecodrr/crayon)  - 像毕加索一样绘制你的终端输出.  ️
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
@@ -117,12 +117,14 @@
 - [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 包装器.
 - [V Earcut](https://github.com/Larpon/earcut) - 基于快速（实时）多边形三角剖分库 [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
 - [vgui](https://github.com/BenStigsen/vgui) - 最小、轻量级和跨平台的 GUI 库.
+- [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - sokol_gp 库的 AV 包装器，用于简单快速的 2d 图形.
 
 ### Game development
-
+- [V_ecs](https://github.com/mohamedLT/V_ecs) - 受 Bevy ECS 启发，用 V 制作的 ECS 库.
 - [engine](https://github.com/LouisSchmieder/engine) - V 中的 WIP Vulkan.
-- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
+- [raylib.v](https://github.com/irishgreencitrus/raylib.v) - 更新了 V 绑定 [raylib](https://www.raylib.com) 计划提供完整的跨平台支持.
 - [vraylib](https://github.com/MajorHard/vraylib) - C 游戏开发框架 raylib 的 V 包装器（绑定）.
+- [vraylib](https://github.com/mohamedLT/vraylib) - 很棒的 raylib 库的 AV 包装器.
 
 ### Web
 
@@ -146,7 +148,7 @@
 
 - [vave](https://github.com/thecodrr/vave) - 一个疯狂的简单库，用于在 V 中读取/写入 WAV 文件.
 - [vspeech](https://github.com/thecodrr/vspeech) - 为 Mozilla 的基于 DeepSpeech TensorFlow 的 Speech-to-Text 库完成 V 绑定.
-- [v-miniaudio](https://github.com/Larpon/v-miniaudio) - 优秀的 miniaudio C 音频库的绑定.
+- [miniaudio](https://github.com/Larpon/miniaudio) - 优秀的 miniaudio C 音频库的绑定.
 
 ### Operating system
 
