@@ -172,7 +172,7 @@ ZSH 微插件管理器.
 
 ZSH 的轻量级插件管理器，它是一个扩展了辉煌的分支 [zgen](https://github.com/tarjoilija/zgen) 并提供更多功能和错误修复，同时完全向后兼容.
 
-为了在新的终端会话期间保持快速加载，`zgenom` 会生成一个静态的 `init.zsh` 文件，它只会获取您的插件并将它们附加到您的 `fpath` 中.
+为了在新的终端会话期间保持快速加载，`zgenom` 会生成一个静态的 `init.zsh` 文件，它除了获取插件并将它们附加到您的 `fpath` 之外什么都不做.
 
 这通过在每个 shell 会话启动期间不必执行耗时的逻辑（插件检查、更新等）来最小化启动时间. 不利的一面是，每当您更新 `.zshrc` 中的插件列表时，都必须使用 `zgenom reset` 手动刷新 init 脚本.
 
@@ -366,7 +366,7 @@ Znap 可以：
 - [Getting started with oh-my-zsh](https://medium.com/@dienbui/using-oh-my-zsh-f65be6460d3f) - A beginners guide to oh-my-zsh by Dien Bui
 - [iTerm2 + Oh-My-ZSH: Supercharge Your Mac Terminal](https://catalins.tech/improve-mac-terminal) - Catalin Pit 关于在 macOS 上开始使用 Oh-My-ZSH 的教程.
 - [Learn Zsh in 80 Minutes macOS](https://www.youtube.com/watch?v=MSPu-lYF-A8) - Karl Hadwen 在 macOS 上使用 Oh My Zsh 的初学者指南
-- [Oh-My-Zsh! A Work of CLI Magic](https://medium.com/wearetheledger/oh-my-zsh-made-for-cli-lovers-installation-guide-3131ca5491fb) - Michiel Mulders Ubuntu 安装指南
+- [Oh-My-Zsh! A Work of CLI Magic](https://medium.com/wearetheledger/oh-my-zsh-made-for-cli-lovers-installation-guide-3131ca5491fb) - Michiel Mulder 的 Ubuntu 安装指南
 - [One Key Linux Setup](https://github.com/miracleyoo/one-key-linux-setup) - `zsh`、`oh-my-zsh`、`tmux`、`python` 支持和其他软件包的简单设置（仅限 ubuntu）.
 - [ZSH Gem 24](https://www.refining-linux.org/archives/59-ZSH-Gem-24-ZSH-frameworks.html)  - 2011 年 ZSH 降临日历的一部分. 涵盖 oh-my-zsh 和 zshuery.
 
@@ -428,7 +428,7 @@ Znap 可以：
 - [apache2](https://github.com/voronkovich/apache2.plugin.zsh) - 添加用于管理 Apache2 的别名和功能.
 - [apparix](https://github.com/micans/apparix) - 带有跳转到书签、子目录选项卡完成、远程列表等的命令行目录书签.
 - [apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) - 添加 MacBook Pro 触控栏支持 [iTerm 2](https://iterm2.com).
-- [appup](https://github.com/Cloudstek/zsh-plugin-appup)  - 在当前目录（例如您的应用程序）中检测到 `docker-compose.yml` 或 `Vagrantfile` 时添加 `start`、`stop`、`up` 和 `down` 命令. 只需运行 `up` 并开始编码！
+- [appup](https://github.com/Cloudstek/zsh-plugin-appup)  - 当在当前目录（例如您的应用程序）中检测到 `docker-compose.yml` 或 `Vagrantfile` 时添加 `start`、`stop`、`up` 和 `down` 命令. 只需运行 `up` 并开始编码！
 - [arc](https://github.com/anton-rudeshko/zsh-arc) - 为 Yandex 版本控制系统添加别名.
 - [archlinux](https://github.com/Junker/zsh-archlinux) - 基于 oh-my-zsh [archlinux](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) 插入. 定义辅助函数和别名.
 - [arduino](https://github.com/raghur/zsh-arduino)  - 添加脚本以从命令行构建、上传和监控 arduino 草图. 需要 [`jq`](https://stedolan.github.io/jq/).
@@ -476,7 +476,7 @@ Znap 可以：
 - [azure-subscription](https://github.com/dmakeienko/azure-subscription-prompt) - 显示有关 Azure 当前订阅和租户的信息.
 - [backcountry](https://github.com/jvzaniolo/zsh-backcountry) - 管理偏远地区的项目.
 - [background](https://github.com/zpm-zsh/background) - 在后台执行功能的 ZSH 插件.
-- [base16](https://github.com/base16-project/base16-shell)  - 添加一个脚本以允许您更改 shell 的默认 ANSI 颜色，但最重要的是，更改 shell 的 256 色空间的 17 到 21 色（如果您的终端支持）. 该脚本可以在为应用程序提供额外的 base16 颜色的同时，尊重 shell 的原始明亮颜色（例如，亮绿色仍然是绿色等等） [Vim](https://www.vim.org).
+- [base16](https://github.com/base16-project/base16-shell)  - 添加一个脚本以允许您更改 shell 的默认 ANSI 颜色，但最重要的是，更改 shell 的 256 色空间的 17 到 21 色（如果您的终端支持）. 这个脚本可以在为应用程序提供额外的 base16 颜色的同时，尊重 shell 的原始明亮颜色（例如，亮绿色仍然是绿色等等） [Vim](https://www.vim.org).
 - [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts)  - 在你的外壳中打印随机棒球相关的“有趣的事实”. 取决于安装的 `fortune` 和 `cowsay`.
 - [basex](https://github.com/dirkk/zsh-basex) - 增加了几个 [BaseX](http://basex.org/) 简化使用的别名.
 - [bash-quote](https://github.com/jtprog/bash-quote) - 从 Bash.im 获取随机报价.
@@ -749,7 +749,7 @@ Znap 可以：
 - [iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) - 在 MacbookPro TouchBar 中显示 iTerm2 反馈（当前目录、git 分支和状态）.
 - [iterm2-colors](https://github.com/shayneholmes/zsh-iterm2colors) - 从命令行管理您的 iTerm 2 的配色方案.
 - [iterm2-tabs](https://github.com/gimbo/iterm2-tabs.zsh) - 设置 iTerm 2 选项卡的颜色和标题.
-- [iterm2-utilities](https://github.com/decayofmind/zsh-iterm2-utilities) - 帮助下载各种 iTerm2 实用程序，让您无需克隆整个 iterm2 网站存储库或依赖其他可能不同步的存储库.
+- [iterm2-utilities](https://github.com/decayofmind/zsh-iterm2-utilities) - 帮助下载各种 iTerm2 实用程序，并让您省略整个 iterm2 网站存储库的克隆或依赖可能不同步的其他存储库.
 - [iterm2](https://github.com/laggardkernel/zsh-iterm2) - 将 iTerm 2 的 ZSH 集成脚本打包到 ZSH 插件中，以避免污染您的 $HOME 目录，仅增加 2ms 的时间可以忽略不计.
 - [jabba](https://github.com/2m/zsh-jabba) - 添加外壳集成代码和完成 [jabba](https://github.com/shyiko/jabba) Java 版本管理器.
 - [java-zsh-plugin](https://github.com/Xetius/java-zsh-plugin) - 添加 `setjdk` 命令，以便您可以在 jdk 的不同版本之间轻松切换.
@@ -1028,7 +1028,7 @@ Znap 可以：
 - [terminal-workload-report](https://github.com/LockonS/terminal-workload-report) - 计算并显示通过终端运行了多少命令的插件.
 - [termux](https://github.com/zpm-zsh/termux) - 增加兼容性 [Termux](https://termux.com/).
 - [terraform (hanjunlee)](https://github.com/hanjunlee/terraform-oh-my-zsh-plugin) - 添加 [terraform](https://www.terraform.io/) 提示的工作区.
-- [terraform (jsporna)](https://github.com/jsporna/terraform-zsh-plugin) - 扩展原来 [oh-my-zsh](https://ohmyz.sh/) 具有别名和制表符补全的插件. 添加工作区（非默认时）提示.
+- [terraform (jsporna)](https://github.com/jsporna/terraform-zsh-plugin) - 扩展原来 [oh-my-zsh](https://ohmyz.sh/) 具有别名和制表符补全的插件. 添加工作区（非默认时）以提示.
 - [terraform (macunha1)](https://github.com/macunha1/zsh-terraform) - 添加方便别名 [terraform](https://terraform.io/)，选项卡完成和辅助功能，以在提示中添加您的 terraform 工作区.
 - [terraform (pbar1)](https://github.com/pbar1/zsh-terraform) - ZSH 的 Terraform 便利函数和别名.
 - [terraform (ptavares)](https://github.com/ptavares/zsh-terraform)  - 添加别名、函数和制表符补全. 还安装 [terraform-docs](https://github.com/terraform-docs/terraform-docs), [tfsec](https://github.com/aquasecurity/tfsec) 和 [tflint](https://github.com/terraform-linters/tflint).
@@ -1472,6 +1472,7 @@ Znap 可以：
 - [buster](https://github.com/grantbuster/buster_zsh_theme)  - 与 WSL2 配合得很好. 基于 oh-my-zsh 的 Fox 和 Jonathan 主题.
 - [cactus](https://github.com/welksonramos/cactus) - 带有“git”状态装饰的极简主义主题.
 - [candy-light](https://github.com/NicolaiRuckel/oh-my-zsh-candy-light) - 糖果主题的轻量版.
+- [carriage-return](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) 加上回车.
 - [cayun](https://github.com/comeacrossyun/ys-cayun.zsh-theme) - 在提示中显示活动的 Python 版本和 `git` 装饰.
 - [celestialorb](https://github.com/celestialorb/zsh-theme)  - 受@celestialorb 启发的电力线主题. 包括 `git` 状态装饰、Kubernetes 集群信息（如果有）、当前 AWS 配置文件和区域以及活动的 virtualenv.
 - [cf-ps1](https://github.com/mdan16/cf-ps1) - 显示当前的基础和组织和空间 [Cloud Foundry](https://www.cloudfoundry.org/) 在您的提示中.
@@ -1593,7 +1594,7 @@ Znap 可以：
 - [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) - 基于的主题 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) 哦，我的 zsh 主题.
 - [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - 红色版本 [frisk](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/frisk.zsh-theme) 来自 oh-my-zsh 的主题.
 - [fritz](https://github.com/fritzccc/fritz-zsh-theme)  - 适用于深色背景. 包括 `git` 状态装饰.
-- [frlo](https://github.com/fiorillo/frlo) - 使用您计算机的主机名提出（希望）独特的三色主题以显示在您的提示中，因此您一眼就知道您登录的是哪台机器.
+- [frlo](https://github.com/fiorillo/frlo) - 使用您计算机的主机名提出（希望）独特的三色主题以显示在您的提示中，以便您一眼就知道您登录的是哪台机器.
 - [funkyberlin](https://github.com/Ottootto2010/funkyberlin-zsh-theme) - 支持 `git` 和 `svn` 的彩色两行主题.
 - [furio](https://github.com/hectorpalmatellez/furio-theme) - 叉子 [Cloud](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/cloud.zsh-theme) 哦，我的 zsh 主题. 用不同的颜色和表情符号.
 - [furry-umbrella](https://github.com/kb10uy/zsh-theme-furry-umbrella) - 彩色主题，在深色背景下效果更好.
@@ -1998,7 +1999,7 @@ Znap 可以：
 - [s7c](https://github.com/Samega7Cattac/s7c.zsh-theme)  - 适用于深色背景. 包括 `git` 状态装饰.
 - [samshell](https://github.com/samuelb/samshell) - 带有 `git`、kubernetes 和 python virtualenv 装饰的极简 ZSH 主题.
 - [saraiva](https://github.com/ruisaraiva19/saraiva-theme) - 包括 `git` 状态装饰，适用于深色终端背景.
-- [saturn](https://github.com/gantoreno/saturn-prompt) - 为那些热爱空间并希望在终端上拥有一点空间的人提供柔和简约的提示，具有酷炫的表情符号和高度可定制的提示元素（例如图标、颜色、时间格式等）.
+- [saturn](https://github.com/gantoreno/saturn-prompt) - 为热爱空间并希望在终端上拥有一点空间的用户提供柔和简约的提示，具有酷炫的表情符号和高度可定制的提示元素（例如图标、颜色、时间格式等）.
 - [schminitz-v2](https://github.com/mashdots/schminitz-v2) - 显示 `git` 状态、`user@host` 信息、最​​后一个命令的退出状态以及是否以 root 身份运行的装饰器.
 - [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - 当使用 `:sh` 命令时，显示 `vim` 是否在后台运行.
 - [scythe](https://github.com/kostoskistefan/scythe)  - 让人想起电力线的主题. 包括`git`，最后一个命令退出状态和目录装饰.
@@ -2018,7 +2019,7 @@ Znap 可以：
 - [shichi](https://github.com/arturoalviar/shichi-zsh-theme)  - 一个简单的主题，第一个字符是七（shichi/nana），数字 7.原色是红色，带有黄色调. 包括 `git` 状态装饰.
 - [shiftys](https://github.com/shifty0g/shiftys-zsh-theme/) - 调整版的kali 主题.
 - [shini](https://github.com/bashelled/shini)  - 一个小小的主题，只是大声喊叫. 包括目录、用户名、主机名、时间和 `git` 装饰.
-- [shinkansen](https://github.com/MRZ07/shinkansen.zsh-theme)  - 一个快速、可定制且易于扩展的主题. 在活动的 virtualenv 中包含 rhw python 版本的装饰器，如果您使用的是 `chruby`，则为当前的 ruby​​ 版本，当前的 node.js 版本，当前的 java 版本，当前的 go 版本，如果使用的是 `chperl`，则为当前的 perl 版本，当前的 elixir 版本， `git` 状态、时间、当前目录、最后一条命令的退出代码和执行时间，以及可选的自定义消息. 需要与电力线兼容的字体.
+- [shinkansen](https://github.com/MRZ07/shinkansen.zsh-theme)  - 一个快速、可定制且易于扩展的主题. 包括活动 virtualenv 中的 rhw python 版本的装饰器，如果您使用的是 `chruby`，则为当前的 ruby​​ 版本，当前的 node.js 版本，当前的 java 版本，当前的 go 版本，如果使用的是 `chperl`，则为当前的 perl 版本，当前的 elixir 版本， `git` 状态、时间、当前目录、最后一条命令的退出代码和执行时间，以及可选的自定义消息. 需要与电力线兼容的字体.
 - [shirnschall](https://github.com/shirnschall/shirnschall-zsh-theme) - 包括 `git` 状态和 `user@hostname` 装饰.
 - [shocm](https://github.com/ericvanjohnson/shocm-zsh-themes) - 分叉自 [sixlive](https://github.com/sixlive/sixlive-zsh-theme) . 有 `git` 装饰.
 - [short-ys](https://github.com/OREOmini/short-ys-zsh-theme) - 基于 [ys](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) 主题. 包括 `git` 和 `hg` 状态装饰.
@@ -2205,7 +2206,7 @@ Znap 可以：
 - [Input Mono](https://store.typenetwork.com/foundry/djr/series/input?family=input-mono)  - 专为代码设计的字体系列. 它提供等宽字体和比例字体，并包括电力线字形.
 - [Iosevka](https://github.com/be5invis/Iosevka)  - 编码器的字体，由代码构建. 高度可定制.
 - [Monoid](https://larsenwork.com/monoid/) - Monoid 可定制和优化，即使在低分辨率显示器上也能以 15 像素行高的位图锐度进行编码.
-- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)  - 收集超过 20 种修补字体（超过 2,000 种变体）和 FontForge 字体修补程序 python 脚本，用于 Powerline、Font Awesome、Octicons、Devions 和 Vim Devicons. 包括：Droid Sans、Meslo、源代码、AnonymousPro、Hack、ProFont、Inconsolata 等等.
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)  - 收集超过 20 种修补字体（超过 2,000 种变体）和 FontForge 字体修补程序 python 脚本，适用于 Powerline、Font Awesome、Octicons、Devions 和 Vim Devicons. 包括：Droid Sans、Meslo、源代码、AnonymousPro、Hack、ProFont、Inconsolata 等等.
 - [Powerline patched font collection](https://github.com/powerline/fonts) - 十几种字体的集合，经过修补，包括电力线字形.
 - [Terminus](http://files.ax86.net/terminus-ttf/) - 包含电力线字形的 Terminus 的 TTF 版本.
 

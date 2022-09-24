@@ -199,7 +199,7 @@ Tools
 
 * [str](https://github.com/vindarel/cl-str)  - 一个现代、简单且一致的字符串操作库.  [麻省理工学院][200].
 * [FSet](https://common-lisp.net/project/fset)  - 一个功能性的集合论集合数据结构库.  [LLGPL][8].
-* [trivial-extensible-sequences](https://github.com/Shinmera/trivial-extensible-sequences) - 可扩展序列协议的可移植库（[SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences) ).  [zlib][33].
+* [trivial-extensible-sequences](https://github.com/Shinmera/trivial-extensible-sequences) - 可扩展序列协议的可移植库（[SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences) ）.  [zlib][33].
 * [bst](https://github.com/glv2/bst)  - 二叉搜索树.  [GPL3][2].
 * [pileup](http://nikodemus.github.io/pileup/)  - Common Lisp 的可移植、高性能和线程安全的二进制堆.  [麻省理工学院][200].
 * [sycamore](https://github.com/ndantam/sycamore)  - 一个快速、纯功能的数据结构库.  [BSD_3 条款][15].
@@ -653,7 +653,7 @@ Community
 ### Interfaces to other package managers
 
 * [linux-packaging](https://gitlab.com/ralt/linux-packaging)  - 使用单个 ASDF 声明为您的应用程序构建 .deb、.rpm 或 .pkg 包. 在引擎盖下使用 fpm.  [麻省理工学院][200].
-* [qldeb](https://github.com/ralt/qldeb) - Quicklisp 系统到 debian 包，以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义一个 s 表达式来创建一个 debian 包）和一个介绍性 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) .  [麻省理工学院] [200].
+* [qldeb](https://github.com/ralt/qldeb) - Quicklisp 系统到 debian 包，以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义一个 s 表达式来创建一个 debian 包）和一个介绍性 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) . 两者[麻省理工学院][200].
 * [ql-to-deb](https://github.com/dimitri/ql-to-deb) -  Update cl-* debian packages from Quicklisp releases. WTFPL.
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  - debhelper 实用程序，让您几乎毫不费力地将基于 quicklisp 的 Common Lisp 代码编译为 .deb 中的 buildapp 二进制文件.  [麻省理工学院][200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  - 用于（命令行）通用 lisp 应用程序的自制公式生成器. 公共区域.
@@ -745,6 +745,8 @@ HTTP 服务器
 
 * [Snooze](https://github.com/joaotavora/snooze)  - 一个 RESTful Web 框架.  Web 服务器不可知. 目前支持 Hunchentoot 和 Clack. 路由只是函数，HTTP 条件只是 Lisp 条件.  [LLGPL][8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)  - 用于编写 REST Web API 的库. 使用模式进行验证，用于日志记录、缓存、权限或身份验证的注释，通过 Swagger 的文档等 [MIT][200].
+* [apispec](https://github.com/cxxxr/apispec)  - 用于处理 Web API 请求和响应的 Common Lisp 库.  [BSD_3 条款][15].
+  - 采用 OpenAPI3 yaml 规范并允许验证和解析 HTTP 请求标头、参数和正文.
 * [cl-odata-client](https://github.com/copyleft/cl-odata-client) - 用于访问的 Common Lisp 客户端库 [OData services](https://www.odata.org) .  [麻省理工学院][200].
 
 身份验证插件（除了上面的 Clack 插件）：
@@ -994,7 +996,7 @@ Utils
 * ⭐ [lparallel](https://github.com/lmj/lparallel)  - 用于并行编程的库.  [3 条款 BSD][15].
 * [lfarm](https://github.com/lmj/lfarm)  - 跨机器分配工作（在 lparallel 和 usocket 之上）.  [BSD_3 条款][15]
 * [calispel](https://github.com/hawkir/calispel) - [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes) - 类似普通 lisp 的频道. 具有阻塞、可选缓冲通道和“CSP 选择”语句.  ISC 风格.
-   - “它完整、灵活且易于使用.我会推荐 Calispel 而不是 Lparallel 和 ChanL.”  @Ambrevar. [discussion](https://github.com/CodyReichert/awesome-cl/issues/290)
+  - "It is complete, flexible and easy to use. I would recommend Calispel over Lparallel and ChanL." @Ambrevar. [discussion](https://github.com/CodyReichert/awesome-cl/issues/290)
 * [chanl](https://github.com/zkat/chanl)  - 可移植的、基于通道的并发.  [Expat][14]，部分在 [3-clause BSD][15] 下.
 * [cl-async](https://github.com/orthecreedence/cl-async)  - 用于通用、非阻塞编程的库.  [外籍人士][14].
 * [Moira](https://github.com/TBRSS/moira)  - 监控和重启后台线程.  In-lisp 进程主管.  [麻省理工学院][200].
@@ -1288,7 +1290,7 @@ Caching
 Configuration
 -------------
 
-* [py-configparser](https://common-lisp.net/project/py-configparser/) - reads and writes Python's ConfigParser-like configuration files. [MIT][200].
+* [py-configparser](https://common-lisp.net/project/py-configparser/)  - 读取和写入 Python 的类似 ConfigParser 的配置文件.  [麻省理工学院][200].
 * [envy](https://github.com/fukamachi/envy)  - 配置切换器.  [自由BSD][39].
 * [chameleon](https://github.com/sheepduke/chameleon/)  - 附带配置文件支持的配置管理库.  [麻省理工学院][200].
 
@@ -1385,7 +1387,7 @@ Lisp 核心.
 ---------------------
 
 * ⭐ [uiop](https://common-lisp.net/project/asdf/uiop.html) 及其 `pathname` 包
-  （替换 [cl-fad](http://weitz.de/cl-fad/) ).  uiop 是 ASDF3 的一部分
+  （替换 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop 是 ASDF3 的一部分
   并因此在许多实现中提供.  [麻省理工学院][200].
 * [osicat](https://common-lisp.net/project/osicat/) - 类 POSIX 系统上的轻量级操作系统接口（目录迭代和删除、环境变量、文件权限等）[Expat][14].
 * [pathname-utils](https://github.com/Shinmera/pathname-utils)  - 帮助进行路径名操作的实用程序集合.  [zlib][33].
@@ -1423,7 +1425,7 @@ i18n
 Linting，代码格式化
 ------------------------
 
-* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog（[slides](http://www.slideshare.net/fukamachi/sblint) ).  [BSD_2 条款][17].
+* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
 * [trivial-formatter](https://github.com/hyotang666/trivial-formatter)  - Common Lisp 的代码格式化程序.  [麻省理工学院][200].
 
 并且： [lisp-format](https://github.com/eschulte/lisp-format) and [cl-indentify](https://github.com/yitzchak/cl-indentify).
