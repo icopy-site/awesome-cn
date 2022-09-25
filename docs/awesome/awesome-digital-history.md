@@ -14,9 +14,9 @@
 
 ### Austria
 
-- [ANNO](https://anno.onb.ac.at/) - 奥地利在线报纸.
+- [ANNO](https://anno.onb.ac.at/) - Austrian Newspapers online.
 - [Digitarium](https://digitarium-app.acdh-dev.oeaw.ac.at/) - 历史维也纳报的数字版.
-- [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利文化和当代历史录音和视频档案.
+- [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利的文化和当代历史录音和视频档案.
 - [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) - 它基于 Felix Czeike 的《维也纳历史词典》，目前有 50,156 条贡献和 12,510 张图像.
 
 ### Europe
@@ -60,7 +60,6 @@
 ### Global
 
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - 计算机代码、参考手册和杂志.
-- [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - 地图、手稿和声音.
 - [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - 保存早期个人电脑杂志的信息.
 - [fxtop.com](https://fxtop.com/) - 自 1953 年以来的外汇汇率历史.
 - [gotpapers.scene.org](https://gotpapers.scene.org/?page_id=73) - 有关游戏历史、破解和演示场景的资源.
@@ -68,7 +67,7 @@
 - [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - 图书搜索引擎，用于在全球目录中查找数以亿计的媒体.
 - [Marxist Internet Archive](https://www.marxists.org/) - 你想知道的关于马克思（和其他重要的社会主义者）的一切.
 - [Mementoweb](http://timetravel.mementoweb.org/) - 在 Internet Archive、Archive-It、British Library、archive.today 和 GitHub 中查找存档网页.
-- [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
+- [OldMapsOnline](https://www.oldmapsonline.org/) - 地图，始于 17 世纪.
 - [OpenCat](https://opencat.io/) - 全球图书馆的搜索引擎.
 - [OpenHistoricalMap](https://openhistoricalmap.org/) - 由制图师和历史学家社区创建的时间旅行地图.
 - [Public Books Database](http://www.publicbooks.org/public-books-database/) - 开放获取学术文献.
@@ -77,8 +76,11 @@
 
 ### Great Britain
 
+- [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - 地图、手稿和声音.
 - [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - 伦敦中央刑事法院，1674 年至 1913 年.
+- [The National Archives](https://www.nationalarchives.gov.uk/) - 一个非部级部门，以及英国政府、英格兰和威尔士的官方档案和出版商. 
 - [NLS](https://data.nls.uk/data/) - 从苏格兰国家图书馆收集的数据.
+- [National Records of Scotland](https://www.nrscotland.gov.uk/) - 收集、保存和制作有关苏格兰人民和历史的信息，并将其提供给当代和后代.
 
 ### Netherlands
 
@@ -116,7 +118,7 @@
 - [e-rara](https://www.e-rara.ch/) - 来自瑞士图书馆的数字化珍本图书平台.
 - [histHub](https://histhub.ch/) - 所有主要标准化数据 API 的搜索引擎.
 - [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) - 瑞士历史百科全书.
-- [HSSO](https://hsso.ch/) - 瑞士在线历史统计.
+- [HSSO](https://hsso.ch/) - 瑞士在线历史统计数据.
 - [impresso](https://impresso-project.ch/) - 瑞士国家图书馆、卢森堡国家图书馆、Neue Zürcher Zeitung、Le Temps、瓦莱州档案馆和瑞士经济档案馆的历史报纸收藏.
 - [Industriekultur](https://industriekultur.ch/) - 瑞士国家工业文物清单.
 - [infoclio.ch Edition projects](http://www.infoclio.ch/en/edition-projects) - 包含瑞士当前历史版本项目的数据库.
@@ -139,7 +141,8 @@
 - [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 您将学习如何批判性地分析历史条件、发展、模式和断裂——或者，如何质疑这些.
 - [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.
-- [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评审的教程，帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.
+- [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评议的教程，帮助人文主义者学习广泛的数字工具、技术和工作流程，以促进研究和教学.
+- [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - Jupyter Book（德语版）面向正在寻找 Python 编程语言的第一个面向应用程序和交互式介绍的历史学家.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - 数字历史和数字人文领域的概述.
 - [We think History](https://wethink.hypotheses.org/) - 有关数字历史的新闻和创新.
 

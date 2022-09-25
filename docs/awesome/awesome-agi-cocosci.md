@@ -188,14 +188,14 @@
 
 * [The AHA! Experience: Creativity Through Emergent Binding in Neural Networks](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1551-6709.2010.01142.x) - ***认知科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=10006889101167052798&hl=en&as_sdt=0,5)].
 
-* [Explanation-seeking curiosity in childhood](https://www.sciencedirect.com/science/article/pii/S2352154620300851) - ***行为科学的当前观点***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=4167956555501133663&hl=en&as_sdt=2005)]. A piece of developmental pshchological evidence for Abduction in young children.
+* [Explanation-seeking curiosity in childhood](https://www.sciencedirect.com/science/article/pii/S2352154620300851) - ***行为科学的当前观点***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=4167956555501133663&hl=en&as_sdt=2005) ]. 幼儿绑架的发育心理学证据.
 
 
 #### Scientific Discovery
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/)  - ***柏拉图斯坦福***. 关于科学发现的计算哲学解释，成功的科学探究的过程或产物，有时是一种类似绑架（解释）的思维模式.
 
-* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect)  - ***维基百科***. 关于尤里卡效应（又名啊哈！时刻）的维基百科，即突然理解以前无法理解的问题或概念的常见人类体验.
+* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect)  - ***维基百科***. 维基百科关于尤里卡效应（又名啊哈！时刻），突然理解以前无法理解的问题或概念的常见人类经验.
 
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***斯普林格***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5) ]. 关于搜索作为科学思维的原著.
 
@@ -315,7 +315,7 @@
 
 * [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***心理学年度评论***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1611451804975333652) ].  Alan Yuille 对贝叶斯物体感知的评论.
 
-* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计建模三大家族的回顾.
+* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计建模三大家族的回顾.
 
 * [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理的转变的统计说明.
 
@@ -399,7 +399,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里 (Susan Carey) 的关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明和捍卫认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里关于儿童发展概念理论的扩展书.
 
@@ -609,7 +609,7 @@
 
 * [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***心理评论***，1958 年. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5) ]. 赫伯特西蒙关于人类问题解决的最初想法.
 
-* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs，新泽西州：Prentice-hall***，1972 年. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5) ].  Herbert Simon 将人类问题解决作为搜索的经典思想.
+* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5) ].  Herbert Simon 将人类问题解决作为搜索的经典思想.
 
 * [Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments](http://196.223.158.148/bitstream/handle/123456789/2978/596.pdf?sequence=1&isAllowed=y) - ***泰勒弗朗西斯***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=13262690779319271809&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -942,13 +942,13 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数主题来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
 * [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) - ***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350&hl=en&as_sdt=0,5)].
 
-* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) - ***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5)]. A piece of evidence for the merits brought by large-scale behavioral studies in social science.
+* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) - ***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5) ]. 社会科学中大规模行为研究带来的优点的一个证据.
 
 * [Integrating explanation and prediction in computational social science](http://jakehofman.com/pdfs/integrating-prediction-and-explanation.pdf) - ***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=288245575125750925&hl=en&as_sdt=0,5)].
 
@@ -1079,7 +1079,7 @@
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
 
-* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403) ].  Tom Griffiths 的评论通过人类局限性的三个方面来理解人类智能的独特性.
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
 
 <span id = "cogarch"></span>
@@ -1426,7 +1426,7 @@
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
-* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, which is a logic formalism designed for representing and reasoning about dynamical domains.
+* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
 
 * [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对“这是必要的”和“有可能的”表达的演绎行为的研究.
 
@@ -1552,7 +1552,7 @@
 
 * [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***英国皇家学会哲学汇刊 B：生物科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***自然通讯***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)].
+* [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)].
 
 * [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***儿童发展***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)].
 
@@ -1615,11 +1615,11 @@
 
 * [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***科学***，2018 年.评论.
 
-* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***PNAS***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型分析科学主题.
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型分析科学主题.
 
-* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***PNAS***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 科学中的偏见模式和风险因素分析.
+* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***Proceedings of the National Academy of Sciences***, 2017. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 科学中的偏见模式和风险因素分析.
 
-* [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***PNAS***，2021 年. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么一个领域每年发表的论文过多会导致停滞而不是进步. 
+* [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***美国国家科学院院刊***，2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么一个领域每年发表的论文过多会导致停滞而不是进步. 
 
 
 <!--<span id = "te"></span>

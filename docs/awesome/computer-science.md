@@ -386,7 +386,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  |  14 周 |  12 小时/周 | 并存：线性代数的本质 | [chat](https://discord.gg/k7nSWJH)
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) |  14 周 |  12 小时/周 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction)  |  10 周 |  4-8 小时/周 | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/)  |  10 周 |  4-8 小时/周 | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
 [Probability](https://projects.iq.harvard.edu/stat110/home)  |  24 周 |  12 小时/周 | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
 ## Final project
@@ -469,7 +469,7 @@ or
 ## How to show your progress
 
 1. 在中创建一个帐户 [Trello](https://trello.com/).
-1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人账户.
+1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.
@@ -486,7 +486,7 @@ or
 那些带有“Section”标签的卡片只是为了帮助组织完成列.
 您应该将 *Course&#39;s cards* 放在其各自的 *Section&#39;s card* 下方.
 
-该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们的进步的能力.
+该板的目的是为我们的学生提供一种跟踪他们的进步的方式，以及通过朋友、家人、雇主等的公共页面展示他们的进步的能力.
 您可以将董事会的状态更改为 *public* 或 *private*.
 
 ## Team
