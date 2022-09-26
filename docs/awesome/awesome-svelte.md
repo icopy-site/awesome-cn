@@ -92,7 +92,6 @@ _用于移动设备的 UI 框架._
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - 可访问的 Svelte 组件基元（也适用于 React、Vue 3 和 Angular）.
-- [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) - 一个深受 vuetify 启发的 Material UI 设计组件库.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - 引导 4 和 5 组件.
 - [Smelte](https://github.com/matyunya/smelte) - 带有使用 Tailwind CSS 构建的材质组件的 UI 框架.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - 材质 UI 组件.
@@ -100,6 +99,7 @@ _用于移动设备的 UI 框架._
 - [attractions](https://github.com/illright/attractions) - 一个非常酷和现代的 UI 套件
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota) - 使用超轻量级 CSS 框架 Chota 构建的组件库
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte 与 Ionic 的 UI 集成，用于移动应用程序开发，包括许多初学者.
+- [Svelte UI](https://www.svelteui.org/) - SvelteUI 是一个包罗万象的 Svelte 库.
 
 ## UI Components
 
@@ -240,6 +240,7 @@ _对于单页应用程序 (SPA) 等._
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - 针对单页应用程序 (SPA) 进行了优化，具有基于哈希的路由和对参数的支持.
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte 客户端路由器是您在路由 SPA 时需要和想到的一切.
 - [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - 一个简单易用的 SPA 路由器，在开发时考虑了页面转换.
+- [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - 另一个受 vue-router 启发的 Svelte 路由器.
 
 
 ## Frameworks

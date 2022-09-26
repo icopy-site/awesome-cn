@@ -203,7 +203,7 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
 <a name="clojure-data-visualization"></a>
 #### Data Visualization
 * [Hanami](https://github.com/jsa-aerial/hanami)  : Clojure(Script) 库和框架，用于创建基于 Vega-Lite (VGL) 和/或 Vega (VG) 规范的交互式可视化应用程序. 自动框架和布局以及用于抽象可视化规范的强大模板系统
-* [Saite](https://github.com/jsa-aerial/saite) - Clojure(Script) 客户端/服务器应用程序，用于动态交互式探索和创建实时共享文档，使用 Vega/Vega-Lite、CodeMirror、markdown 和 LaTeX 捕获它们
+* [Saite](https://github.com/jsa-aerial/saite) - Clojure（脚本）客户端/服务器应用程序，用于动态交互式探索和创建实时共享文档，使用 Vega/Vega-Lite、CodeMirror、markdown 和 LaTeX 捕获它们
 * [Oz](https://github.com/metasoarous/oz) - 使用 Vega/Vega-Lite 和 Hiccup 的数据可视化，以及用于文学编程的实时重载平台
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure 数据可视化库，基于 Statistiker 和 D3.
 * [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) - 基于 Gorilla-REPL 的 Clojure/Clojurescript 笔记本应用程序/-库
@@ -1013,7 +1013,7 @@ be
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - 用于贝叶斯隐马尔可夫模型 (HMM) 和显式持续时间隐半马尔可夫模型 (HSMM) 中的近似无监督推理库，专注于贝叶斯非参数扩展、HDP-HMM 和 HDP-HSMM，主要使用弱极限近似.
 * [SKLL](https://github.com/EducationalTestingService/skll) - 围绕 scikit-learn 的包装器，可以更轻松地进行实验.
 * [neurolab](https://github.com/zueve/neurolab)
-* [Spearmint](https://github.com/HIPS/Spearmint)  - Spearmint 是一个根据论文中概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek、Hugo Larochelle 和 Ryan P. Adams. 神经信息处理系统的进展，2012 年.**[已弃用]**
+* [Spearmint](https://github.com/HIPS/Spearmint)  - Spearmint 是根据论文中概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek、Hugo Larochelle 和 Ryan P. Adams. 神经信息处理系统的进展，2012 年.**[已弃用]**
 * [Pebl](https://github.com/abhik/pebl/)  - 用于贝叶斯学习的 Python 环境.  **[已弃用]**
 * [Theano](https://github.com/Theano/Theano/) - 在 Python 中优化 GPU 元编程代码生成面向数组的优化数学编译器.
 * [TensorFlow](https://github.com/tensorflow/tensorflow/) - 使用数据流图进行数值计算的开源软件库.
@@ -1094,6 +1094,7 @@ be
 * [Colossal-AI](https://github.com/hpcaitech/ColossalAI)：用于大规模模型训练和推理的高效、低成本的开源深度学习系统.
 * [dirty_cat](https://github.com/dirty-cat/dirty_cat)  - 促进对脏的、非策划类别的机器学习. 它提供了对形态变体（例如拼写错误）具有鲁棒性的转换器和编码器.
 * [Upgini](https://github.com/upgini/upgini)：用于机器学习的免费自动化数据和特征丰富库 - 自动搜索来自公共和社区共享数据源的数千个现成的特征，并仅通过提高准确性的特征来丰富您的训练数据集.
+* [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)：帮助机器学习研究人员在任何特定任务上自动获得具有最佳学习性能的优化机器学习模型的教程.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1511,7 +1512,7 @@ be
 * [ONNX-Scala](https://github.com/EmergentOrder/onnx-scala) - 一个 ONNX（开放神经网络交换）API 和后端，用于 Scala 中的类型化、功能性深度学习 (3).
 * [DeepLearning.scala](https://deeplearning.thoughtworks.school/) - 从面向对象和函数式编程结构创建静态类型的动态神经网络.
 * [Conjecture](https://github.com/etsy/Conjecture) - Scalding 中的可扩展机器学习.
-* [brushfire](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
+* [brushfire](https://github.com/stripe/brushfire) - Scala 中的分布式决策树集成学习.
 * [ganitha](https://github.com/tresata/ganitha)  - 热力机器学习.  **[已弃用]**
 * [adam](https://github.com/bigdatagenomics/adam)  - 使用 Apache Avro、Apache Spark 和 Parquet 构建的基因组学处理引擎和专用文件格式.  Apache 2 许可.
 * [bioscala](https://github.com/bioscala/bioscala) - Scala 编程语言的生物信息学
@@ -1586,7 +1587,7 @@ be
 * [guild.ai](https://guild.ai/)  - 记录、分析、比较和“优化”实验的工具. 它是跨平台和独立于框架的，并提供了集成的可视化工具，例如 tensorboard.
 * [Sacred](https://github.com/IDSIA/sacred)  - 帮助您配置、组织、记录和重现实验的 Python 工具. 就像化学/生物学背景下的笔记本实验室. 社区利用提议的标准构建了多个附加组件.
 * [Comet](https://www.comet.com/)  - 用于跟踪实验、超参数、工件等的 ML 平台. 它与超过 15 个深度学习框架和编排工具深度集成. 用户还可以使用该平台来监控他们在生产中的模型.
-* [MLFlow](https://mlflow.org/)  - 管理机器学习生命周期的平台，包括实验、再现性和部署. 框架和语言不可知，看看所有的内置集成.
+* [MLFlow](https://mlflow.org/) - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework and language agnostic, take a look at all the built-in integrations.
 * [Weights & Biases](https://www.wandb.com/) - 机器学习实验跟踪、数据集版本控制、超参数搜索、可视化和协作
 * 更多改善机器学习生命周期的工具： [Catalyst](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/) . 以下是类似 Github 和目标团队 [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - 一本关于通用机器学习技术回归、分类、无监督聚类、强化学习、自动编码器、卷积神经网络、RNN、LSTM 的书，使用 TensorFlow 1.14.1.
@@ -1600,7 +1601,7 @@ be
 <a name="books"></a>
 ## Books
 
-* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)   - 这本书教你如何将机器学习模型从你的个人笔记本电脑带到大型分布式集群. 您将探索成功的分布式机器学习系统背后的关键概念和模式，并直接从关键维护者和贡献者那里学习 TensorFlow、Kubernetes、Kubeflow 和 Argo Workflows 等技术，并提供真实场景和动手项目.
+* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)   - 这本书教你如何将机器学习模型从你的个人笔记本电脑带到大型分布式集群. 您将探索成功的分布式机器学习系统背后的关键概念和模式，并直接从关键维护者和贡献者那里学习 TensorFlow、Kubernetes、Kubeflow 和 Argo 工作流等技术，并提供真实场景和动手项目.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Grokking 机器学习教您如何仅使用标准 Python 代码和高中水平的数学将 ML 应用到您的项目中.
 * [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - 通过完成一组精心设计的真实世界项目来学习机器学习的基本知识.
 

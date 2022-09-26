@@ -71,6 +71,7 @@
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位具有特定文件的 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
+* [nvd](https://gitlab.com/khumba/nvd)  - 两个商店路径之间的差异包版本； 它对于比较重建时的 NixOS 代特别有用.
 * [statix](https://github.com/nerdypepper/statix) - 用于检查和修复 Nix 代码中的反模式的 linter/fixer.
 
 ## Development
@@ -82,6 +83,7 @@
 * [dream2nix](https://github.com/nix-community/dream2nix) - 用于将包从其他构建系统自动转换为 Nix 的框架.
 * [flake.parts](https://github.com/hercules-ci/flake-parts) - Flakes 的最小 Nix 模块框架：将您的 Flakes 拆分为模块并使用社区模块完成工作.
 * [flake-utils](https://github.com/numtide/flake-utils) - 纯 Nix 薄片实用功能，以帮助编写薄片.
+* [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - 用于无痛 NixOS 薄片配置的轻量级 Nix 库薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
 * [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于在任何地方以任何语言构建、测试和发布项目. 
@@ -90,7 +92,7 @@
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和你的 CI 上运行 linter/formatters.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - Nix 的语法检查语言服务器.
-* [robotnix](https://github.com/danielfullmer/robotnix) - 用于 Android (AOSP) 图像的声明性和可重现的构建系统.
+* [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
 
 ## Programming Languages
 
@@ -135,7 +137,7 @@
 ### Python
 
 * [mach-nix](https://github.com/DavHau/mach-nix) - 创建高度可重现的 python 环境的工具.
-* [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接从构建 Python 包 [Poetry's](https://python-poetry.org/)  `诗歌锁`. 无需转换步骤.
+* [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接从构建 Python 包 [Poetry's](https://python-poetry.org/)  `poetry.lock`. 无需转换步骤.
 * [pypi2nix](https://github.com/nix-community/pypi2nix) - 为 Python 包生成 Nix 表达式.
 
 ### Ruby
@@ -167,6 +169,17 @@
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，使用 NixOS 模块进行管理.
 * [Stylix](https://github.com/danth/stylix) - NixOS 的系统范围的配色方案和排版.
 
+## NixOS Configuration Editors
+
+### Desktop apps
+
+* [NixOS Configuration Editor](https://github.com/vlinkz/nixos-conf-editor)  - NixOS 配置的图形编辑器.  Rust 和 GTK 中的桌面应用程序.
+* [Nix Software Center](https://github.com/vlinkz/nix-software-center)  - 安装和管理 Nix 软件包.  Rust 和 GTK 中的桌面应用程序.
+
+### Webinterface
+
+* [MyNixOS](https://mynixos.com/)  - Nix 薄片的图形编辑器. 为 NixOS 和 Nix home-manager 创建和管理配置和模块. 与其说是 Nix 编辑器，不如说是 Nix 生成器，因为它不允许导入 Nix 文件.
+
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算套件.
@@ -182,5 +195,5 @@
 * [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
 * [Discord - Nix/Nixos (Unofficial)](https://discord.gg/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - 获得帮助和讨论 Nix 相关主题的最佳场所.
-* [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
+* [NixCon](https://nixcon.org/) - Nix 和 NixOS 的贡献者和用户的年度社区会议.
 * [Wiki (Unofficial)](https://nixos.wiki)

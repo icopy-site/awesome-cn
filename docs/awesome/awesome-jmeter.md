@@ -163,6 +163,7 @@
 - [RedLine13](https://redline13.com/) - 基于 AWS 的负载测试服务，支持 JMeter、Gatling 和 Selenium 场景.
 - [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus 基于云的 Web 和移动性能测试解决方案，具有 JMeter 和 Gatling 支持（以前称为 HP StormRunner Load）.
 - [Loadium](https://loadium.com/) - 基于 AWS 的负载测试服务，支持 JMeter 和 Selenium.
+- [Azure Microsoft](https://azure.microsoft.com/en-us/services/load-testing/) - Azure 负载测试服务使用 Apache JMeter.
 
 ## Results Processing
 
@@ -362,6 +363,7 @@
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert 博客.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole 博客.
 - [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - 若昂·法里亚斯.
+- [Azure Load Testing Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Azure%20Load%20Testing) - 由 Microsoft 技术社区提供.
 
 ### Forums
 

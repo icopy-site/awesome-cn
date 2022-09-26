@@ -14,7 +14,7 @@
 
 ### Austria
 
-- [ANNO](https://anno.onb.ac.at/) - Austrian Newspapers online.
+- [ANNO](https://anno.onb.ac.at/) - 奥地利在线报纸.
 - [Digitarium](https://digitarium-app.acdh-dev.oeaw.ac.at/) - 历史维也纳报的数字版.
 - [Österreichische Mediathek](https://www.mediathek.at/) - 奥地利的文化和当代历史录音和视频档案.
 - [Wien Geschichte Wiki](https://www.geschichtewiki.wien.gv.at/Wien_Geschichte_Wiki) - 它基于 Felix Czeike 的《维也纳历史词典》，目前有 50,156 条贡献和 12,510 张图像.
@@ -71,6 +71,7 @@
 - [OpenCat](https://opencat.io/) - 全球图书馆的搜索引擎.
 - [OpenHistoricalMap](https://openhistoricalmap.org/) - 由制图师和历史学家社区创建的时间旅行地图.
 - [Public Books Database](http://www.publicbooks.org/public-books-database/) - 开放获取学术文献.
+- [United Nations Archive](https://archives.un.org/) - 联合国关于秘书长、部门和特派团的档案和记录.
 - [WayBackMachine](https://archive.org/web/) - 探索随着时间的推移保存的超过 4860 亿个网页.
 - [World Historical Gazeteer](https://whgazetteer.org/) - 收集允许世界历史学家在全球和跨区域尺度的数据丰富的环境中进行空间和时间推理和可视化的内容和服务.
 
@@ -85,6 +86,7 @@
 ### Netherlands
 
 - [Delpher](https://www.delpher.nl/) - 超过 1 亿页来自荷兰的报纸、书籍和杂志.
+- [Nationaal Archief](https://www.nationaalarchief.nl/) - 荷兰国家档案馆包括 137 公里的文件、1500 万张照片、近 300,000 张历史地图和图画以及 800 TB 的数字文件.
 
 ### North America
 
@@ -96,6 +98,7 @@
 - [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - 国际 LGBTQ+ 关联数据词汇.
 - [Eugenics Archive](https://eugenicsarchive.ca/) - 挑战优生学的学者、幸存者、学生和社区合作伙伴.
 - [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - 超过 250,000 张地图.
+- [National Archives](https://www.archives.gov/) - 有关美国退伍军人记录、建国文件和总统图书馆的官方档案.
 - [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - 探索 1800 年至大萧条期间女性对美国经济生活的影响.
 - [World Digital Library](https://www.wdl.org/) - WDL 是由联合国教科文组织和美国国会图书馆运营的国际数字图书馆.
 
@@ -118,7 +121,7 @@
 - [e-rara](https://www.e-rara.ch/) - 来自瑞士图书馆的数字化珍本图书平台.
 - [histHub](https://histhub.ch/) - 所有主要标准化数据 API 的搜索引擎.
 - [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) - 瑞士历史百科全书.
-- [HSSO](https://hsso.ch/) - 瑞士在线历史统计数据.
+- [HSSO](https://hsso.ch/) - 瑞士在线历史统计.
 - [impresso](https://impresso-project.ch/) - 瑞士国家图书馆、卢森堡国家图书馆、Neue Zürcher Zeitung、Le Temps、瓦莱州档案馆和瑞士经济档案馆的历史报纸收藏.
 - [Industriekultur](https://industriekultur.ch/) - 瑞士国家工业文物清单.
 - [infoclio.ch Edition projects](http://www.infoclio.ch/en/edition-projects) - 包含瑞士当前历史版本项目的数据库.
@@ -127,7 +130,7 @@
 - [map.geo.admin.ch](https://map.geo.admin.ch/) - 通过瑞士地图穿越时空.
 - [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 个瑞士记忆机构的 415,634 份视听文件的访问.
 - [Schweizerisches Wirtschaftsarchiv](https://ub.unibas.ch/de/historische-bestaende/wirtschaftsarchive/) - 该收藏包括 500 多个从 1750 年至今的商业档案，重点放在巴塞尔地区.
-- [swisscollections](https://swisscollections.ch/) - 瑞士图书馆和档案馆中历史和现代收藏的元搜索引擎.
+- [swisscollections](https://swisscollections.ch/) - Meta search engine for historical and modern collections in Swiss libraries and archives.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - 联邦委员会向议会报告过去几年的收支情况.
 
 ## Learning

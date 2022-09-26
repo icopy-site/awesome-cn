@@ -312,20 +312,17 @@
 - [Booster](https://github.com/boostercloud/booster)  _（标签：好第一期）_<br> 真正的无服务器框架，无需任何服务器配置文件即可在几秒钟内编写并部署代码.
 - [game-of-life](https://github.com/TroyTae/game-of-life)  _（标签：好第一期）_<br> 康威的生命游戏网页版！
 - [Graphback](https://github.com/aerogear/graphback)  _（标签：好第一期）_<br> 一个 CLI 和运行时框架，可在几秒钟内生成 GraphQL API.
+- [H2O Wave](https://github.com/h2oai/wave)  _（标签：好第一期）_<br> 适用于 Python 和 R 的实时 Web 应用程序和仪表板框架.适合（不仅）AI 受众.
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)  _（标签：好第一期）_<br> 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp)  _（标签：好第一期）_<br>  JupyterLab 的编码帮助（代码导航 + 悬停建议 + linters + 自动完成 + 重命名）
 - [LitmusChaos](https://github.com/litmuschaos/litmus)  _（标签：好第一期）_<br>  Litmus 是用于进行云原生混沌工程的工具集.
+- [Node Efficientnet](https://github.com/ntedgi/node-efficientnet)  _（标签：好第一期）_<br>  Node JS 的 EfficientNet 图像识别模型（用 tensorflow.js 编写）.
+- [OpenMetadata](https://github.com/open-metadata/OpenMetadata)  _（标签：好第一期）_<br>  OpenMetadata 是一个用于数据发现、数据质量、可观察性、治理、数据沿袭和团队协作的一体化平台.
 - [reatom](https://github.com/artalar/reatom)  _（标签：好第一期）_<br>  Reatom 是声明式和反应式状态管理器，专为简单和复杂的应用程序而设计.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp)  _（标签：好第一期）_<br> 一个 0-legacy、微型和快速的 web 框架，作为 Express 的替代品.
 - [TypeScript](https://github.com/Microsoft/TypeScript)  _（标签：好第一期）_<br>  JavaScript 的超集，可编译以清理 JavaScript 输出.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)  _（标签：好第一期）_<br>  Monorepo 用于所有使 ESLint 支持 TypeScript 的工具.
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  _（标签：好第一期）_<br> 一种新型工具，将代码编辑器的简单性与开发人员核心编辑-构建-调试周期所需的功能相结合.
-
-## Typescript
-
-- [H2O Wave](https://github.com/h2oai/wave)  _（标签：好第一期）_<br> 适用于 Python 和 R 的实时 Web 应用程序和仪表板框架.适合（不仅）AI 受众.
-- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)  _（标签：好第一期）_<br> 在 Postgres 上快速、即时的实时 GraphQL API 具有细粒度的访问控制，还可以触发数据库事件的 webhook.
-- [Node Efficientnet](https://github.com/ntedgi/node-efficientnet)  _（标签：好第一期）_<br>  Node JS 的 EfficientNet 图像识别模型（用 tensorflow.js 编写）.
-- [OpenMetadata](https://github.com/open-metadata/OpenMetadata)  _（标签：好第一期）_<br>  OpenMetadata 是一个用于数据发现、数据质量、可观察性、治理、数据沿袭和团队协作的一体化平台.
 
 
 ## Contribute
