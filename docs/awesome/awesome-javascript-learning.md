@@ -1,13 +1,12 @@
 <div class="github-widget" data-repo="micromata/awesome-javascript-learning"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<!--lint ignore awesome-license awesome-git-repo-age-->
 ## Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 &gt; 一个很棒的列表，仅限于最好的 JavaScript 学习资源
 
 这个列表主要是关于 JavaScript - 语言. 与当今 JavaScript 生态系统的 API、工具、框架或其他方面无关.
 
-*请阅读 [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/contributing.md) 在贡献之前.*
+*请阅读 [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/.github/contributing.md) 在贡献之前.*
 
 
 
@@ -39,7 +38,7 @@
 - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/)  - 覆盖封闭. 从基础到用例. 有有用的评论.
 - [Understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript) - JavaScript中提升概念的详细解释.
 - [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) - 介绍 Array 的 map、reduce 和 filter 方法的用处.
-- [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - 一步一步学习承诺.
+- [Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - 一步一步地学习承诺.
 - [Async/Await](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) - 教程展示了通过异步函数使用 Promise 的优势.
 - [Pure functions](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) - 史诗般地回答问题»什么是纯函数？«.
 - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - 详细描述了如何使用 Fetch API 来接收和发送数据. 
@@ -56,7 +55,7 @@
 
 ## Books
 
-Thin books which you can get through in a few days.
+几天之内就能读完的薄薄的书.
 
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) - 仍然具有相关性的经典材料.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - 易于理解，对于具有基于类的 OOP 背景的人来说尤其有趣.
@@ -67,7 +66,7 @@ Thin books which you can get through in a few days.
 ## Blogs
 
 - [②ality](http://www.2ality.com) - 作者和培训师 Axel Rauschmayer 博士很好地解释了语言特性和 API.
-- [Pony Foo](https://ponyfoo.com) - 来自 Nicolás Bevacqua 的详细和高质量的帖子，都与 JavaScript 相关.
+- [Pony Foo](https://ponyfoo.com) - Nicolás Bevacqua 的详细且高质量的帖子都与 JavaScript 相关.
 
 ## Videos
 <!--lint ignore no-repeat-punctuation-->
@@ -79,7 +78,7 @@ Thin books which you can get through in a few days.
 <!--lint ignore no-dead-urls-->
 - [Promises Are So Passé](https://vimeo.com/181328943) - 展示异步下一步的发展方向、重要性以及今天将其付诸实践需要做些什么的谈话.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - 包含对 map/reduce 的最佳解释的谈话.
-- [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 分钟分为 8 个短视频，让您围绕“这个”展开.
+- [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) - 18 分钟分为 8 个短视频，让您围绕 `this` 展开.
 
 ## Interactive learning
 
@@ -87,7 +86,7 @@ Thin books which you can get through in a few days.
 - [Code School](https://www.codeschool.com/learn/javascript)  - 从基础到最佳实践. 与 JavaScript 相关的不同课程.
 - [Functional programming](http://reactivex.io/learnrx/) - 通过使用 map、filter、concatAll、reduce 和 zip 以交互方式学习函数式编程的基本原理.
 - [JavaScript30](https://javascript30.com) - 包含 30 个小型且自包含的教程的视频课程，用于使用纯 JavaScript 构建整洁的小东西.
-- [Learn JavaScript Online](https://learnjavascript.online) - 带有间隔重复抽认卡应用程序的交互式 JavaScript 课程.
+- [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - 锻炼免费提供个人练习和基于导师的学习.
 
 ## ES6 and above
@@ -96,7 +95,7 @@ Thin books which you can get through in a few days.
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) - 跟进 »Exploring ES6«.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - 要点概述，包括深入的文章.
 - [ES6 Katas](http://es6katas.org) - 通过在线解决单元测试来学习 ES6.
-- [Practical ES6](https://github.com/mjavascript/practical-es6) - 包含实际示例和建议的电子书.
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - 带有实际示例和建议的电子书.
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - 有用的 ES6 片段，你可以在 30 秒或更短的时间内理解.
 - [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - 消除了关于 ES6 和 JavaScript 的困惑.
 
@@ -118,9 +117,3 @@ Thin books which you can get through in a few days.
 ## Related
 
 [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - 一个很棒的列表，仅限于最好的 CSS 学习资源.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Michael Kühnel](http://micromata.de) 已放弃本作品的所有版权和相关或邻近权利.

@@ -5,7 +5,7 @@
 &gt; 测试软件、扩展和资源的精选列表
 
 ## Foreword
-这旨在为软件测试社区中的新人提供资源管理. 它不是针对特定领域（可用性/性能）或角色（自动化/管理）量身定制的. 这个想法是，您可以将此列表交给 CS 毕业生，这将大大提高他们的测试技能、效率和整体知识广度. 请注意，这适用于编写相关代码后的所有软件测试领域（没有单元测试/静态分析！）.
+这旨在为软件测试社区中的新人提供资源管理. 它不是针对特定领域（可用性/性能）或角色（自动化/管理）量身定制的. 想法是，您可以将此列表交给 CS 毕业生，这将大大提高他们的测试技能、效率和整体知识广度. 请注意，这适用于编写相关代码后的所有软件测试领域（没有单元测试/静态分析！）.
 
 最后，我相信每个阅读此列表的人都有他们想要添加的一件事. 请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 页面并添加到列表中.  :)
 
@@ -32,7 +32,7 @@
 - [recheck-web](https://github.com/retest/recheck-web) - 具有本地 Golden Masters 的开源更改比较工具、类似 git 的忽略语法和“牢不可破的硒”测试.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - 开源测试用例管理系统.
 - [Captura](https://github.com/MathewSachin/Captura) - 开源视频录制工具.
-- [QA Wolf](https://github.com/qawolf/qawolf) - 开源 Node.js 库，用于以 10 倍的速度创建浏览器测试.
+- [QA Wolf](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
 - [Online decision table service](http://decision-table.com/) - 通过使用简单的决策表技术生成案例来实现完整的测试覆盖率.
 - [Synth](https://github.com/getsynth/synth) - 开源测试数据生成器.
 - [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标头、重定向 URL、模拟 API 响应、延迟/限制请求等.
@@ -41,6 +41,7 @@
 - [BugBug](https://bugbug.io)  - 用于 Web 应用程序的轻量级测试自动化工具. 易于学习，不需要编码. 它是免费的，有无限的测试. 支付额外的月费，您还可以获得云监控和 CI/CD 集成.
 - [Touca](https://github.com/trytouca/trytouca) - 开源持续回归测试，将软件的行为和性能与以前的基线版本进行比较.
 - [test-each](https://github.com/ehmicky/test-each) - 使用不同的输入重复测试（数据驱动测试）.
+- [Replayable](https://replayable.io) - 桌面行车记录仪，可帮助您在手动测试期间捕获意外错误.
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - 立即模拟所有类型的色盲！
@@ -52,7 +53,7 @@
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - 我去为刚接触测试的人预订.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 为那些希望以测试人员身份过渡到敏捷的人提供指导，以及作者如何在他们的敏捷团队中工作.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 一本非常好的关于构建探索性测试和设计测试的书.
-- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解当今使用的最常见的测试技术，域测试（也称为边界分析和等价类分区），并提供大量示例以变得更好.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解当今使用的最常见的测试技术，域测试（也称为边界分析和等价类划分），并提供大量示例以变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - 一本对可用性测试非常有用的书.
 - [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - 最好的软件测试书籍之一，分为几节课，现在和出版时一样适用.
 - [UI is Communication](https://amzn.to/2vbiALY) - 如何制作直观的用户界面（UI 和可用性测试）.
@@ -60,12 +61,12 @@
 - [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - 一本关于如何设计和执行受控软件故障实验的书.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - 一本关于开发人员的 JavaScript 测试工具和技术的书.
 - [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - 一本教你设计和执行发现隐藏问题的受控实验的书.
-- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您逐步从第一个简单单元测试到构建可维护、可读且值得信赖的完整测试集的书.
+- [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您逐步从第一个简单单元测试到构建可维护、可读和值得信赖的完整测试集的书.
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - 通过实施自动化测试流程来保证 Web API 的质量和一致性.
 - [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 为开发人员提供如何以系统和有效的方式创建高质量测试的实践指南.
 
 ## Training (Includes developer training for automation testers)
-- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训清单
 - [The Dojo](https://dojo.ministryoftesting.com/) - 直接来自测试社区的课程和讲座.
 - [Guru99](http://www.guru99.com/) - 通过经验学习，比视频培训更有趣.
 - [Coursera](https://www.coursera.org/) - 顶尖大学的在线课程.

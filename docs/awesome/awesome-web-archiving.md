@@ -3,7 +3,7 @@
 <!--lint ignore awesome-github-->
 ## Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-网络存档是收集万维网部分的过程，以确保信息保存在档案中，以供未来的研究人员、历史学家和公众使用. 由于 Web 的大规模，Web 档案管理员通常使用 Web 爬虫进行自动捕获. 不断发展的 Web 标准要求归档工具不断发展，以跟上 Web 技术的变化，以确保可靠且有意义地捕获和重放已归档的网页.
+网络存档是收集万维网部分的过程，以确保信息保存在档案中，以供未来的研究人员、历史学家和公众使用. 由于 Web 的大规模，Web 档案管理员通常使用 Web 爬虫进行自动捕获. 不断发展的 Web 标准要求归档工具不断发展，以跟上 Web 技术的变化，以确保可靠和有意义地捕获和重放已归档的网页.
 
 
 
@@ -98,7 +98,7 @@
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间的网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) - 基于从 1996 年到 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不限于德语页面，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ）.  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及一些能够使用下面显示的索引的相关工具.  *（稳定的）*
-  * [Shine](https://github.com/ukwa/shine) - 与研究人员一起开发的原型网络档案探索 UI，作为 [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
+  * [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
   * [SolrWayback](https://github.com/netarchivesuite/solrwayback)  - 带有自由文本搜索和内置播放引擎的后端 Java 和前端 VUE JS 项目. 要求 Warc 文件已使用 Warc-Indexer 进行索引. 该 Web 应用程序还具有广泛的数据可视化工具和数据导出工具，可用于整个 Web 存档. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) 在易于安装的开箱即用解决方案中包含所有软件和依赖项.
   * [Warclight](https://github.com/archivesunleashed/warclight)  - 基于 Project Blacklight 的 Rails 引擎，支持发现以 WARC 和 ARC 格式保存的 Web 档案.  *（开发中）*
   * [Wasp](https://github.com/webis-de/wasp) - 一个功能齐全的个人原型 [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf) .  *（开发中）*
@@ -192,7 +192,7 @@
 
 * [IIPC Slack](https://iipc.slack.com/) - 问 [@netpreserve](https://twitter.com/NetPreserve?s=20) 访问.
 * [Archives Unleashed Slack](https://archivesunleashed.slack.com/) - [Fill out this request form](https://docs.google.com/forms/d/e/1FAIpQLScXPIH0Ssw63yWqyMkUqHVYmz2-ItBMzHiJQ-sOlJwTA8u5AQ/viewform?usp=sf_link) 用于访问使用网络档案的研究人员组.
-* [Archivers Slack](https://archivers.slack.com) - [Invite yourself](https://archivers-slack.herokuapp.com/) 为归档项目的多学科努力 [EDGI](https://envirodatagov.org/archiving/) and [Data Together](http://datatogether.org/).
+* [Archivers Slack](https://archivers.slack.com) - [Invite yourself](https://archivers-slack.herokuapp.com/) 为归档项目的多学科努力 [EDGI](https://envirodatagov.org/archiving/) 和 [Data Together](http://datatogether.org/).
 
 ### Twitter
 

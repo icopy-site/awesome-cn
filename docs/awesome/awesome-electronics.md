@@ -4,7 +4,7 @@
 
 &gt; 电子工程师和爱好者的精选资源清单
 
-电子工程 (EE) 是理解、设计和构建电子电路的实践. 它通常与电气工程不同，因为它主要处理低功率直流电子电路而不是大功率交流系统，但电子工程和电气工程之间有很多重叠.
+电子工程 (EE) 是理解、设计和构建电子电路的实践. 它通常与电气工程不同，因为它主要处理低功率直流电子电路而不是高功率交流系统，但电子工程和电气工程之间有很多重叠.
 
 尝试和构建电子电路也是一种流行的爱好，许多专业资源通常同样适用于爱好者，反之亦然.
 
@@ -51,7 +51,7 @@
 - [Qucs](http://qucs.sourceforge.net/) - 开源、跨平台、非基于 SPICE 的电路模拟器，具有 S 参数和谐波平衡功能.
 - [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - 免费、封闭源代码、仅限 Windows 的 Qucs 分支，具有类似的界面、新引擎和更多功能.
 - [Open Circuit Design Software](http://opencircuitdesign.com) - 开源、完整的 EDA 套件芯片设计套件，专注于跟上商业工具的步伐.
-- [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) 为德州仪器构建，与德州仪器模型捆绑在一起.
+- [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
 - [CppSim](https://www.cppsim.com/) - 免费的开源电路模拟器，利用 C++ 语言实现非常快的模拟时间.
 - [Scilab with Xcos](https://www.scilab.org/)  - 免费的开源数值计算替代 MATLAB.  Xcos 提供类似于 Simulink 的电气系统建模功能.
 - [iCircuit](http://icircuitapp.com/) - 易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时始终在线分析功能.
@@ -85,7 +85,7 @@
 - [gEDA](http://geda-project.org) - 另一个开源软件包，适合喜欢脚本和 makefile 的人，仅限 Linux 和 BSD.
 - [DipTrace](https://diptrace.com) - 具有（引脚和信号层受限）免费版本的高质量原理图捕获和 PCB 设计软件.
 - [LibrePCB](https://librepcb.org/) - 一个新的、强大的、直观的 EDA 工具，适用于所有人，跨平台和 GNU GPLv3.
-- [Horizon EDA](https://github.com/horizon-eda/horizon) - 一款专注于快捷操作的免费开源EDA工具.
+- [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ## CAD Specific
 
@@ -161,7 +161,7 @@
 
 ### Help
 - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - 专门用于帮助电子主题的 sub-reddit.
-- [Electronics Stack Exchange](https://electronics.stackexchange.com) - Question and answer site for electronics running on the popular Stack Overflow service.
+- [Electronics Stack Exchange](https://electronics.stackexchange.com) - 在流行的 Stack Overflow 服务上运行的电子产品的问答网站.
 - [EEVBlog beginners forum](https://www.eevblog.com/forum/beginners/) - 初学者提问的好地方，EEVblog 上的其他子论坛应该适合更高级主题的提问.
 
 
@@ -183,7 +183,7 @@
 - [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - 关于基本和复杂模拟硬件的优秀教程.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) - 以经典电子设备为重点的拆解、维修和修复.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) - 电子教程、项目和操作方法.
-- [Julian Ilett](https://www.youtube.com/user/julius256) - Buys cheapest electronic modules he can find and tries to do useful things with them.
+- [Julian Ilett](https://www.youtube.com/user/julius256) - 购买他能找到的最便宜的电子模块，并尝试用它们做有用的事情.
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) - 拆解、大型照明项目、X 射线等.
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) - 有关在面包板上构建 8 位计算机的系列视频，并对所有子电路进行了出色的解释.
 - [Robert Feranec](https://www.youtube.com/user/matarofe)  - 100 多个硬件设计技巧和窍门. 有关原理图设计和 PCB 布局的视频.
@@ -208,3 +208,4 @@
 - [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - 精选的开源 FPGA 板列表.
 - [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - 精选的硬件设计工具列表，重点关注芯片设计.
 - [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - 用于制作和学习开源硬件项目的有用项目.
+- [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) - 专门针对电力电子的开源软件列表.

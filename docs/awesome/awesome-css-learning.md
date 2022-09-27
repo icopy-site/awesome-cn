@@ -6,7 +6,7 @@
 
 这份清单主要是关于 [CSS](https://developer.mozilla.org/docs/Web/CSS)  – 语言和模块. 与命名约定、架构范例、框架、预处理器、后处理器、CSS-in-JS 或当今 CSS 生态系统的其他方面无关.
 
-*请阅读 [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/./contributing.md) 在贡献之前.*
+*请阅读 [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/.github/contributing.md) 在贡献之前.*
 
 
 
@@ -94,9 +94,3 @@
 ## Related
 
 [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - 一个小列表，仅限于最好的 JavaScript 学习资源.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Michael Kühnel](http://micromata.de) 已放弃本作品的所有版权和相关或邻近权利.

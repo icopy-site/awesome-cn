@@ -23,7 +23,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 
 ## GUI
 
-- [TDengineGUI](https://github.com/skye0207/TDengineGUI) - 一个简单的 TDengine 桌面管理器.
+- [TDengineGUI](https://github.com/arielyang/TDengineGUI) - 一个简单的 TDengine 桌面管理器.
 - [Taos.Studio](https://github.com/maikebing/Taos.Studio) - 用于查看和编辑 TDengine 数据的 GUI 工具.
 - [balloonfish](https://github.com/xielaoshi99/balloonfish) - 基于 Electron + Vue3 + Vite2.0 的 TDengine 时序数据库可视化管理工具.
 - [tdengine-client](https://github.com/wurong1420/tdengine-client) - 一个简单的 TDengine 界面.
@@ -57,6 +57,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful 客户端.
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - 这是 TDengine 的 Rust 绑定项目.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - 用于 Elixir 的 TDengine 连接器.
+- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
 
 ## Stack
 
@@ -75,7 +76,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 
 ## Data
 
-- [tsarchive](https://github.com/cenc-cea/tsarchive) - 消费来自 Kafka 主题的数据流，将数据包归档到 TDengine 时间序列数据库中.
+- [tsarchive](https://github.com/cenc-cea/tsarchive) - 使用来自 Kafka 主题的数据流，将数据包归档到 TDengine 时间序列数据库中.
 - [flink-connector-tdengine](https://github.com/echisan/flink-connector-tdengine)
 - [TD-Spark](https://github.com/liuyq-617/TD-Spark) - 一个 java 项目，从 TDengine 读取并写入 Spark 上的 TDengine.
 - [Integrate TDengine to YoMo](https://github.com/yomorun/yomo-sink-tdengine-example) - 演示如何将 TDengine 集成到 YoMo 并在流处理后将数据存储到 TDengine.
