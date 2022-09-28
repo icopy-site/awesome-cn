@@ -37,7 +37,7 @@
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
-- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的 Web 应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷.
@@ -117,7 +117,7 @@
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - 当父组件改变宽度/高度时发出事件的 Yew 组件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - 用于虚拟滚动/滚动窗口的 Yew 组件.
 - [yew-oauth2](https://github.com/ctron/yew-oauth2/) - 一个普通的 Yew OAuth2/OpenIDConnect 组件，不依赖于任何 CSS 框架.
-- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - 红豆杉的自定义滚动区域.
+- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
 ### Hooks
 
@@ -125,6 +125,11 @@
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 协调 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
 - [yewv](https://github.com/yewv/yewv) - 为 Yew 打造的闪电般快速的状态管理模块，以性能和简单性为第一要务.
+
+### Javascript Library Ports
+
+- [Plotly.rs](https://github.com/igiagkiozis/plotly) - 流行的 Rust 绑定 [Plotly](https://plotly.com/javascript/) 图表库.
+- [ag-grid-rs](https://github.com/mfreeborn/ag-grid-rs) - Rust 绑定 [AG Grid](https://www.ag-grid.com/javascript-data-grid/) 数据表库.
 
 ### Utils
 

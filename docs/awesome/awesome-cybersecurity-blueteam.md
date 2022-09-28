@@ -4,7 +4,7 @@
 
 &gt; 为网络安全蓝队提供的一系列很棒的资源、工具和其他闪亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ) 是识别信息技术系统中的安全漏洞、验证安全措施的有效性并监控系统以确保所实施的防御措施在未来仍然有效的个人群体. 虽然不是排他性的，但此列表严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和针对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) are groups of individuals who identify security flaws in information technology systems, verify the effectiveness of security measures, and monitor the systems to ensure that implemented defensive measures remain effective in the future. While not exclusive, this list is heavily biased towards [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目和针对专有产品或公司服务. 对于攻击性 TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 本作品已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -52,7 +52,7 @@
 - [Falco](https://falco.org/) - 行为活动监视器旨在通过审核 Linux 内核并通过运行时数据（如 Kubernetes 指标）来检测容器化应用程序、主机和网络数据包流中的异常活动.
 - [Kata Containers](https://katacontainers.io/) - 使用感觉和执行类似于容器的轻量级虚拟机保护容器运行时，但使用硬件虚拟化技术作为第二层防御提供更强的工作负载隔离.
 - [Principal Mapper (PMapper)](https://github.com/nccgroup/PMapper) - 通过能够识别 AWS 账户或 AWS 组织的 AWS Identity and Access Management (IAM) 配置中的风险的脚本和库，快速评估 AWS 中的 IAM 权限.
-- [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+- [Prowler](https://github.com/toniblyx/prowler) - 基于 AWS-CLI 命令的工具，用于 Amazon Web Services 账户安全评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - 开源多云安全审计工具，可对云环境进行安全态势评估.
 - [gVisor](https://github.com/google/gvisor) - 用 Go 编写的应用程序内核，它实现了 Linux 系统表面的大部分，以在应用程序和主机内核之间提供隔离边界.
 
@@ -187,7 +187,7 @@
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - 适用于 Windows 系统的免费工具，旨在提醒您存在可能通过网络进行通信的恶意软件.
 - [Fail2ban](https://www.fail2ban.org/) - 入侵防御软件框架，保护计算机服务器免受暴力攻击.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源和免费、功能丰富、基于主机的入侵检测系统 (HIDS).
-- [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
+- [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 符合 POSIX 标准的 Bash 脚本，可扫描主机以查找各种恶意软件迹象.
 
 ### Sandboxes
 
@@ -251,7 +251,7 @@
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) - SSLMate 的证书透明度日志监视器会在为您的域之一颁发 SSL/TLS 证书时提醒您.
 - [Gophish](https://getgophish.com/) - 强大的开源网络钓鱼框架，可以轻松测试您的组织对网络钓鱼的暴露程度.
-- [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
+- [King Phisher](https://github.com/securestate/king-phisher) - 通过模拟现实世界的网络钓鱼攻击来测试和提高用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) - Outlook 插件用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) - 有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - 允许创建和管理（虚假）网络钓鱼活动的平台，旨在培训人们识别可疑邮件. 
@@ -302,7 +302,7 @@
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) - 捕获欺骗性的 NetBIOS 名称服务 (NBNS) 响应并向电子邮件或日志文件发出警报.
 - [Stenographer](https://github.com/google/stenographer) - 完整的数据包捕获实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应.
 - [Suricata](https://suricata-ids.org/) - 免费、跨平台的 IDS/IPS，具有在线和离线分析模式和深度数据包检测功能，也可使用 Lua 编写脚本.
-- [Tsunami](https://github.com/google/tsunami-security-scanner) - 具有可扩展插件系统的通用网络安全扫描器，用于以高可信度检测高严重性漏洞. 
+- [Tsunami](https://github.com/google/tsunami-security-scanner) - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence. 
 - [VAST](https://github.com/tenzir/vast) - 用于数据驱动的安全调查的免费和开源网络遥测引擎.
 - [Wireshark](https://www.wireshark.org) - 用于网络故障排除或取证网络流分析的免费和开源数据包分析器.
 - [Zeek](https://zeek.org/) - 专注于安全监控的强大网络分析框架，原名Bro.
@@ -331,7 +331,7 @@
 也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 一套基于 CIM/WMI 的工具，支持跨所有版本的 Windows 进行远程事件响应和搜寻操作.
-- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell 模块，用于通过 Windows 事件日志进行分组搜索.
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
 - [GRR Rapid Response](https://github.com/google/grr) - 事件响应框架专注于远程实时取证，包括安装在资产上的 Python 代理和基于 Python 的服务器基础设施，使分析师能够快速分类攻击并远程执行分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) - 基于 Elasticsearch、Logstash、Kafka 和 Kibana 的多合一免费软件威胁搜寻堆栈，具有各种内置分析集成，包括 Jupyter Notebook.
 - [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理过程并促进事件处理人员的实时活动.
@@ -339,7 +339,7 @@
 - [PSRecon](https://github.com/gfoss/PSRecon) - 用于分析远程 Windows 系统的类似 PSHunt 的工具，该工具还可以生成一份关于其发现的自包含 HTML 报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 在一个基于 PowerShell 的平台上执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) - 多平台工具，用于同时对多个端点上的可疑 IOC 进行分类，并与防病毒控制台集成.
-- [Redline](https://www.fireeye.com/services/freeware/redline.html) - FireEye, Inc. 提供的免费端点审计和分析工具，提供基于主机的调查功能.
+- [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
 ## Threat intelligence
 
@@ -386,11 +386,12 @@
 
 ### Overlay and Virtual Private Networks (VPNs)
 
+- [Headscale](https://github.com/juanfont/headscale) - Tailscale 控制服务器的开源、自托管实施.
 - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - 使用 IPsec/L2TP、Cisco IPsec 和 IKEv2 构建您自己的 IPsec VPN 服务器的脚本.
 - [Innernet](https://github.com/tonarino/innernet) - 在后台使用 WireGuard 的免费软件专用网络系统，可自托管.
 - [Nebula](https://github.com/slackhq/nebula) - 受 tinc 启发，完全开源、自托管、可扩展的覆盖网络工具，专注于性能、简单性和安全性.
 - [OpenVPN](https://openvpn.net/) - 长期存在的自由软件传统的基于 SSL/TLS 的虚拟专用网络.
-- [OpenZITI](https://openziti.github.io/) - Open source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.
+- [OpenZITI](https://openziti.github.io/) - 开源计划专注于通过覆盖网络、调谐应用程序和众多 SDK 将零信任引入任何应用程序.
 - [Tailscale](https://tailscale.com/) - 建立在 WireGuard 之上的托管免费增值网状 VPN 服务.
 - [WireGuard](https://www.wireguard.com/) - 使用最先进的加密技术的极其简单但快速且现代的 VPN.
 - [tinc](https://tinc-vpn.org/) - 完全在用户空间中实施的免费软件网状 VPN，支持可扩展的网络空间、桥接以太网段等.

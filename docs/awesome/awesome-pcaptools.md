@@ -74,7 +74,7 @@ Linux 命令<a name="linuxcmds"></a>
 
 * [sharppcap](https://github.com/dotpcap/sharppcap) ：完全托管的跨平台（Windows、Mac、Linux）.NET 库，用于从实时和基于文件的设备中捕获数据包. 一个可靠且健壮的 libpcap 和 npcap 包装器.
 
-流量分析/检查<a name="analysis"></a>
+流量分析/检测<a name="analysis"></a>
 --------------------------------------------------
 * [Brim](https://www.brimsecurity.com/) ：边缘融合了 Zeek 原木的丰富性和包的细节. 这是两全其美的. 虽然 Zeek 日志可以快速回答您的大部分问题，但当您需要深入了解详细信息时，您仍然可以快速访问数据包.  Wireshark 始终只需单击一下即可. 
 
@@ -246,4 +246,4 @@ USB
 
 * [Traffic Data Repository at the WIDE Project](https://www2.sonycsl.co.jp/person/kjc/papers/freenix2000/) ：对于网络研究人员和运营商来说，了解网络流量的趋势并发现网络流量的异常变得越来越重要. 本文描述了 WIDE 项目中正在进行的一项工作，即收集一组免费工具来构建一个包含我们主干流量详细信息的流量数据存储库. 流量跟踪由 tcpdump 收集，在删除隐私信息后，跟踪向公众开放. 我们审查了有关用户隐私的问题，然后审查了用于构建 WIDE 流量存储库的工具. 我们将在 IPv6 部署的早期阶段报告当前状态和发现.
 
-* [Usenix93 Paper on BPF](https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z) : libpcap 接口支持基于 BSD 包过滤器架构的过滤机制.  BPF 在 1993 Winter Usenix 论文“The BSD Packet Filter: A New Architecture for User-level Packet Capture”中有描述.
+* [Usenix93 Paper on BPF](https://www.tcpdump.org/papers/bpf-usenix93.pdf) : libpcap 接口支持基于 BSD 包过滤器架构的过滤机制.  BPF 在 1993 Winter Usenix 论文“The BSD Packet Filter: A New Architecture for User-level Packet Capture”中有描述.

@@ -1,6 +1,5 @@
 <div class="github-widget" data-repo="pFarb/awesome-crypto-papers"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Crypto Papers  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选列表 [cryptography](https://en.wikipedia.org/wiki/Cryptography) 面向非密码学家的论文、文章、教程和操作指南.
 
@@ -46,7 +45,7 @@
 
 * [An Overview of Cryptography](http://www.garykessler.net/library/crypto.html) - 加里 C.凯斯勒.
 * [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf) -由Needham，Schroeder：这是基于加密的身份验证开始.
-* [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) - Claude Shannon 的基本密码学论文.
+* [Communication Theory of Secrecy Systems](http://web.archive.org/web/20201112040412/http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) - Claude Shannon 的基本密码学论文.
 
 #### General cryptographic interest
 
@@ -77,15 +76,15 @@
 * [New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba](https://eprint.iacr.org/2007/472.pdf) - Jean-Philippe Aumasson 等人对 Salsa20 密码家族的分析.
 * [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF 密码套件系列草案，由 Adam Langley 等人撰写.
 * [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Joan Daemen 和 Vincent Rijmen 的原始 Rijndael 提案.
-* [Ongoing Research Areas in Symmetric Cryptography](http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - ECRYPT Network of Excellence in Cryptology 对密钥加密和散列的持续研究概述.
+* [Ongoing Research Areas in Symmetric Cryptography](https://web.archive.org/web/20220209130448/https://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - ECRYPT Network of Excellence in Cryptology 对密钥加密和散列的持续研究概述.
 * [The Galois/Counter Mode of Operation (GCM)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
 * [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全性，更具体地说，是 AES GCM 模式，作者 David A. McGrew 和 John Viega.
-* [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) -- 一种针对具有较高反碰撞概率的 AES GCM 的随机数生成的分析和算法，作者 Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata.
+* [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata 为具有较高反碰撞概率的 AES GCM 生成随机数的分析和算法.
 * [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - Eugene Pilyankevich、Dmytro Kornieiev、Artem Storozhuk 对现有可搜索加密方案的概述，以及基于 AES-GCM、盲索引和布隆过滤器的方案分析.
 
 #### Cryptanalysis
 
-* [Differential Cryptanalysis of Salsa20/8](http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf) - Yukiyasu Tsunoo 等人的流密码密码分析的一个很好的例子.
+* [Differential Cryptanalysis of Salsa20/8](https://web.archive.org/web/20220710225943/https://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf) - Yukiyasu Tsunoo 等人的流密码密码分析的一个很好的例子.
 * [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - 将滑动攻击（块密码的典型密码分析技术）应用于哈希函数，M. Gorski 等人.
 * [Self-Study Course in Block Cipher Cryptanalysis](https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html) - 尝试以一种学生可以用来学习密码分析技术和破解新算法的方式来组织现有的分组密码密码分析文献，作者 Bruce Schneier.
 * [Statistical Cryptanalysis of Block Ciphers](http://crypto.junod.info/phdthesis.pdf) ——帕斯卡·朱诺.
@@ -148,7 +147,7 @@
 #### Post-quantum cryptography
 
 * [Post-quantum cryptography - dealing with the fallout of physics success](https://eprint.iacr.org/2017/314.pdf) - 简要观察可用于构建密码系统以抵御后量子计算机攻击的数学任务.
-* [Post-quantum cryptography](https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) - 后量子密码学简介.
+* [Post-quantum cryptography](https://web.archive.org/web/20210510200628/https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) - 后量子密码学简介.
 * [Post-quantum RSA](https://cr.yp.to/papers/pqrsa-20170419.pdf) - Daniel Bernshtein 对如何在后量子时代拯救 RSA 的见解.
 
 <hr>
@@ -158,7 +157,7 @@
 这似乎有点超出范围，不是吗？ 但这些都是完全免费在线提供的书籍. 如果愿意，可以将它们作为一系列论文阅读.
 
 * [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)  - 丹·博内 (Dan Boneh) 和维克多·舒普 (Victor Shoup). 一个平衡的密码学入门课程，一些密码分析和密码学相关的安全性.
-* [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Bart Van Rompay 对各种密码和散列函数的设计和密码分析的广泛概述.
+* [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Bart Van Rompay 对各种密码和散列函数的设计和密码分析的广泛概述.
 * [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - 主要以数学为导向的关于学习、使用和试验密码程序的信息.
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  - Alfred J. Menezes、Paul C. van Oorschot 和 Scott A. Vanstone. 密码学和密码学的经典介绍.
 * [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)  - 迈克·罗苏莱克. 很多基本的东西都涵盖得很好. 没有ECC.

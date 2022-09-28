@@ -4,7 +4,7 @@
 
 **用于 C++ 和 Python 专业机器人开发的工具列表，带有一点 ROS、自动驾驶和航空航天**
 
- &gt; 要停止重新发明轮子，您需要了解轮子. 该列表试图展示软件和硬件开发中各种开放和免费的工具，这些工具在专业机器人开发中很有用.
+ &gt; 要停止重新发明轮子，您需要了解轮子. 此列表试图展示软件和硬件开发中各种开放和免费的工具，这些工具在专业机器人开发中很有用.
 
 您的贡献对于保持此列表的活力、提高质量和扩展它是必要的. 您可以阅读更多关于它的起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) 和相关 [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics) . 所有新的项目条目都将有一条来自的推文 [protontypes](https://twitter.com/protontypes).
 
@@ -134,8 +134,8 @@
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace 团队软件堆栈 - 路径跟踪控制、速度控制、曲率控制和状态估计.
 * [Aslan](https://github.com/project-aslan/Aslan) - 用于低速环境的开源自动驾驶软件.
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - 一个基于 JPL 火星探测器的自建 6 轮探测器.
-* [pybotics](https://github.com/nnadeau/pybotics) - 用于机器人运动学和校准的开源和同行评审 Python 工具箱.
-* [makani](https://github.com/google/makani) - 包含工作中的 Makani 飞行模拟器、控制器（自动驾驶仪）、可视化器和指挥中心飞行监控工具.
+* [pybotics](https://github.com/engnadeau/pybotics) - 用于机器人运动学和校准的开源和同行评审 Python 工具箱.
+* [makani](https://github.com/google/makani) - 包含可用的 Makani 飞行模拟器、控制器（自动驾驶仪）、可视化器和指挥中心飞行监控工具.
 * [mir_robot](https://github.com/dfki-ric/mir_robot) - 这是一个将 MiR 机器人与 ROS 结合使用的社区项目.
 * [COMPAS](https://github.com/compas-dev/compas_fab) - COMPAS 框架的机器人制造包.
 * [JdeRobot Academy](https://github.com/JdeRobot/RoboticsAcademy) - JdeRobot Academy 是一个开源练习集，用于以实用的方式学习机器人技术.
@@ -253,8 +253,8 @@
 * [backward-cpp](https://github.com/bombela/backward-cpp) - 一个漂亮的 C++ 堆栈跟踪漂亮打印机.
 * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB 仪表板是使用 Python API 编写的独立 .gdbinit 文件，它启用模块化界面，显示有关正在调试的程序的相关信息.
 * [hotspot](https://github.com/KDAB/hotspot) - 用于性能分析的 Linux perf GUI.
-* [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - 一个python模块，用于监控进程的内存消耗以及对python程序的内存消耗进行逐行分析.
-* [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - 这个模糊器旨在帮助开发人员和研究人员通过对目标节点处理的主题执行模糊测试来发现 ROS 节点中的错误和漏洞.
+* [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - 一个python模块，用于监控进程的内存消耗以及对python程序的内存消耗的逐行分析.
+* [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - 该模糊器旨在帮助开发人员和研究人员通过对目标节点处理的主题执行模糊测试来发现 ROS 节点中的错误和漏洞.
 * [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - VS Code 的扩展，可在调试期间可视化数据.
 * [action-tmate](https://github.com/mxschmitt/action-tmate) - 通过 SSH 调试您的 GitHub 操作，使用 tmate 访问运行器系统本身.
 * [libstatistics_collector](https://github.com/ros-tooling/libstatistics_collector) - ROS 2 库提供类来收集测量值并计算它们的统计数据.
@@ -366,7 +366,7 @@
 * [opem](https://github.com/ECSIM/opem) - 开源 PEMFC 模拟工具 (OPEM) 是一种用于评估质子交换膜燃料电池性能的建模工具.
 * [pvlib-python](https://github.com/pvlib/pvlib-python) - 一个社区支持的工具，它提供了一组用于模拟光伏能源系统性能的函数和类.
 * [WireViz](https://github.com/formatc1702/WireViz) - 用于轻松记录电缆、线束和连接器引脚排列的工具.
-* [Horizon](https://github.com/horizon-eda/horizon) - EDA 是一个电子设计自动化软件包，支持用于印刷电路板设计的集成端到端工作流程，包括部件管理和原理图输入.
+* [Horizon](https://github.com/horizon-eda/horizon) - EDA 是一个电子设计自动化软件包，支持用于印刷电路板设计的集成端到端工作流程，包括零件管理和原理图输入.
 * [tigl](https://github.com/DLR-SC/tigl) - TiGL 几何库可用于计算和处理存储在 CPACS 文件中的飞机几何.
 * [foxBMS](https://github.com/foxBMS/foxbms) - 用于设计电池管理系统的免费、开放和灵活的开发环境.
 * [cadCAD](https://github.com/cadCAD-org/cadCAD) - 一个 Python 包，通过模拟协助设计、测试和验证复杂系统的过程，支持蒙特卡罗方法、A/B 测试和参数扫描.
@@ -446,7 +446,7 @@
 * [PYNQ](https://github.com/Xilinx/PYNQ) - 来自 Xilinx 的一个开源项目，使使用 Zynq All Programmable Systems on Chips 设计嵌入式系统变得容易.
 * [numba](https://github.com/numba/numba) - 使用 LLVM 的 NumPy 感知动态 Python 编译器.
 * [TensorRT](https://github.com/NVIDIA/TensorRT) - 用于在 NVIDIA GPU 和深度学习加速器上进行高性能推理的 C++ 库.
-* [libcudacxx](https://github.com/NVIDIA/libcudacxx) - 提供可在 CPU 和 GPU 代码中和之间使用的 C++ 标准库的异构实现.
+* [libcudacxx](https://github.com/NVIDIA/libcudacxx) - 提供可在 CPU 和 GPU 代码中以及在 CPU 和 GPU 代码之间使用的 C++ 标准库的异构实现.
 
 
 ### Image Processing
@@ -456,7 +456,7 @@
 * [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - 提供适用于 ROS 的神经网络运行时框架，可快速部署视觉推理应用程序和解决方案.
 * [vision_visp](https://github.com/lagadic/vision_visp) - 将ViSP视觉伺服库提供的ViSP移动边缘跟踪器封装到ROS包中.
 * [apriltag_ros](https://github.com/AprilRobotics/apriltag_ros) - AprilTag 3 视觉基准检测器的 ROS 包装器.
-* [deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - 深度物体姿势估计.
+* [deep_object_pose](https://github.com/NVlabs/Deep_Object_Pose) - 深度物体姿态估计.
 * [DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) - 检测和跟踪：高效姿势.
 * [SfMLearner](https://github.com/tinghuiz/SfMLearner) - 用于深度和自我运动估计的无监督学习框架.
 * [imgaug](https://github.com/aleju/imgaug) - 机器学习实验的图像增强.
@@ -523,7 +523,7 @@
 * [octomap](https://github.com/OctoMap/octomap) - 基于八叉树的高效概率 3D 映射框架.
 * [pptk](https://github.com/heremaps/pptk) - 来自 HEREMaps 的点处理工具包.
 * [gpu-voxels](https://www.gpu-voxels.org/) - GPU-Voxels 是一个基于 CUDA 的库，它允许在动画 3D 模型和来自各种 3D 传感器的实时点云之间进行高分辨率体积碰撞检测.
-* [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - 新的体素层利用现代 3D 图形工具使导航环境表示现代化.
+* [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) - 利用现代 3D 图形工具实现导航环境表示现代化的新体素层.
 * [LAStools](https://github.com/LAStools/LAStools) - 用于高效 LiDAR 处理的获奖软件.
 * [PCDet](https://github.com/sshaoshuai/PCDet) - 基于 PyTorch 的通用代码库，用于从点云进行 3D 对象检测.
 * [PDAL](https://github.com/PDAL/PDAL) - 用于翻译和操作点云数据的 C++ BSD 库.
@@ -811,7 +811,7 @@
 * [entwine](https://github.com/connormanning/entwine/) - 用于海量点云的数据组织库，旨在征服数万亿点的数据集以及桌面级点云.
 * [polyscope](https://github.com/nmwsharp/polyscope) - 用于 3D 数据（如网格和点云）的 C++ 和 Python 查看器.
 * [Pcx](https://github.com/keijiro/Pcx) - Unity 的点云导入器和渲染器.
-* [ImmersivePoints](https://github.com/rmeertens/ImmersivePoints) - 一个用于虚拟现实设备的网络应用程序，可以以最自然的方式探索 3D 数据.
+* [ImmersivePoints](https://github.com/rmeertens/ImmersivePoints) - 一个用于虚拟现实设备的网络应用程序，以最自然的方式探索 3D 数据.
 
 
 ### RViz
@@ -838,7 +838,7 @@
 * [gputil](https://github.com/anderskm/gputil) - 一个 Python 模块，用于在 Python 中以编程方式使用 nvidia-smi 从 NVIDA GPU 获取 GPU 状态.
 * [gpustat](https://github.com/wookayin/gpustat) - 用于查询和监控 GPU 状态的简单命令行实用程序.
 * [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop 之类的监控工具.
-* [ShellHub](https://www.shellhub.io)  - ShellHub 是一种现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
+* [ShellHub](https://www.shellhub.io)  - ShellHub 是一个现代 SSH 服务器，用于通过命令行（使用任何 SSH 客户端）或基于 Web 的用户界面远程访问 linux 设备，旨在替代 sshd. 将 ShellHub 视为边缘和云计算的集中式 SSH.
 * [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty 是为 Web 设计的 SSH 和 Telnet 连接器.
 * [spdlog](https://github.com/gabime/spdlog) - 非常快的、仅标头/编译的 C++ 日志库.
 * [ctop](https://github.com/bcicen/ctop) - 容器指标的类似顶部的界面.
@@ -1015,7 +1015,7 @@
 
 
 ## Security
-* [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) - Threat Dragon 是一款免费、开源、跨平台的威胁建模应用程序，包括系统图表和自动生成威胁/缓解措施的规则引擎.
+* [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) - Threat Dragon 是一个免费、开源、跨平台的威胁建模应用程序，包括系统图表和自动生成威胁/缓解措施的规则引擎.
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) - 可以定义在受限环境中运行节点的启动文件，例如 Docker 容器或具有有限权限的单独用户帐户.
 * [wolfssl](https://github.com/wolfSSL/wolfssl) - 一种小型、快速、可移植的 TLS/SSL 实施，用于将嵌入式设备移植到云端.
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) - 专有汽车协议的安全分析工具包.
@@ -1024,7 +1024,7 @@
 * [lynis](https://github.com/CISOfy/lynis)  - 适用于 Linux、macOS 和 UNIX 系统的安全审计工具. 协助进行合规性测试 (HIPAA/ISO27001/PCI DSS) 和系统强化.
 * [OpenVPN](https://github.com/OpenVPN/openvpn) - 一个开源 VPN 守护进程.
 * [openfortivpn](https://github.com/adrienverge/openfortivpn) - 用于 PPP+SSL VPN 隧道服务的客户端并与 Fortinet VPN 兼容.
-* [WireGuard](https://github.com/WireGuard/WireGuard) - WireGuard 是一种在 Linux 内核中运行并利用最先进的加密技术的新型 VPN.
+* [WireGuard](https://github.com/WireGuard/WireGuard) - WireGuard 是一种在 Linux 内核中运行并使用最先进的加密技术的新型 VPN.
 * [ssh-auditor](https://github.com/ncsa/ssh-auditor) - 扫描网络上的弱 ssh 密码.
 * [vulscan](https://github.com/scipag/vulscan) - 使用 Nmap NSE 进行高级漏洞扫描.
 * [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - 基于 Vulners.com API 的 NSE 脚本.

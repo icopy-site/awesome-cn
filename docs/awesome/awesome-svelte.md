@@ -76,7 +76,7 @@ _关于 Svelte 框架的研究和研究._
 
 - [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - PostCSS、SCSS、Less、Stylus、Coffeescript、TypeScript、Pug 等的预处理器.
 - [MDSveX](https://github.com/pngwn/MDsveX) - MDX 降价的预处理器.
-- [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
+- [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - 用 markdown 语法编写 Svelte 组件.
 - [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) - 预处理器更少.
 - [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - 对模块化 CSS 的预处理器支持.
 - [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - 使用 PostCSS 预处理 Svelte 组件中的样式.
@@ -89,6 +89,7 @@ _用于移动设备的 UI 框架._
 
 - [Svelte Native](https://svelte-native.technology/) - Svelte 通过 Nativescript 控制原生组件.
 - [Framework7](https://framework7.io/svelte/) - 用于构建 iOS 和 Android 应用程序的全功能 HTML 框架.
+- [Capacitor](https://capacitorjs.com/solution/svelte) - 使用 Web 技术和 Svelte 构建原生移动应用程序.
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - 可访问的 Svelte 组件基元（也适用于 React、Vue 3 和 Angular）.
@@ -139,7 +140,7 @@ _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - FullCalendar 的组件包装器.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
 
 ### Maps
@@ -170,31 +171,12 @@ _开关/开/关切换/复选框._
 
 ## Scaffold
 
-_模板/样板/种子/入门套件/堆栈合奏/ Yeoman generator._
+_模板/样板/入门套件/堆栈集成/ Yeoman generator._
 
-#### Client
-
-_仅在浏览器中渲染 Svelte 应用程序._
-
-- [sveltejs/template](https://github.com/sveltejs/template) - 使用汇总构建基本应用程序的模板.
+- [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - 为 vite + svelte 应用程序生成脚手架.
+- [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - 用于创建新 SvelteKit 项目的 CLI.
 - [component-template](https://github.com/sveltejs/component-template) - 构建可共享组件的基础.
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template) - 构建可共享组件的基础.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - 基于官方模板的 PWA 入门模板.
-- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) - 集成 Redux-Toolkit 的入门模板.
-- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) - 已激活 TS 且 ESLint 和 Prettier 协同工作的入门模板.
-- [svelte-typescript-jest](https://github.com/mszkb/svelte-typescript-jest) - 带有 Typescript 激活和 Jest 工作的入门模板.
-
-#### Universal
-
-_SSR 框架._
-
-- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) - 默认 Sapper 模板，可用于汇总.
-- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) - 默认 Sapper 模板，可用于 Webpack.
-- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) - 包含 Sapper、Firebase 函数和托管、TypeScript 和 TypeGraphQL、Tailwind CSS、ESLint 以及使用 GitHub Actions 自动构建和部署的模板.
-- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) - 带有 mdsvex 的默认 Sapper 模板.
-- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) - 带有 Tailwind CSS 的默认 Sapper 模板.
-- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) - 包含 Sapper、TypeScript 预处理和通过 TypeGraphQL 的 GraphQL 服务器的模板.
-- [sapper-start](https://github.com/matt3224/sapper-start) - Sapper Rollup 模板具有自以为是的默认值，例如 SCSS 支持、速记路径、更少的样板文件等等.
 
 ## Utilities
 
@@ -246,7 +228,6 @@ _对于单页应用程序 (SPA) 等._
 ## Frameworks
 
 - [SvelteKit](https://kit.svelte.dev/) - 构建 Svelte 应用程序的最快方式.
-- [Sapper](https://sapper.svelte.dev/) - Web 开发中的下一件小事，由 Svelte 提供支持.
 - [Elder.js](https://elderguide.com/tech/elderjs/) - 专为 Svelte 构建的自以为是的静态站点生成器和 Web 框架，并考虑到了 SEO.
 - [Routify](https://routify.dev/) - Svelte 的路线，由您的文件结构自动执行.
 - [JungleJS](https://www.junglejs.org/) - 带有 GraphQL 的 Svelte 的 Jamstack 框架.

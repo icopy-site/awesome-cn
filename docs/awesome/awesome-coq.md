@@ -87,7 +87,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写普遍量化方程、模结合性和某些运算符的交换性的策略.
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架，提供广泛的 API 来实现命令和策略.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤子工具，它结合了从以前的证明中学习与将问题转换为自动证明者和重建找到的证明.
-- [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
+- [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现有关浮点算术和舍入误差的目标的策略.
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - 用于基于打包类声明 Coq 层次结构的命令集合.
 - [Itauto](https://gitlab.inria.fr/fbesson/itauto) - 类似 SMT 的策略，用于关于函数符号、构造函数和算术的组合命题推理.
@@ -96,7 +96,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Mtac2](https://github.com/Mtac2/Mtac2) - 为反向推理添加类型化策略的插件.
 - [Paramcoq](https://github.com/coq-community/paramcoq) - 生成 Coq 术语的参数化翻译的插件.
 - [QuickChick](https://github.com/QuickChick/QuickChick) - 用于基于随机属性的测试的插件.
-- [SMTCoq](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
+- [SMTCoq](https://github.com/smtcoq/smtcoq) - 检查来自外部 SAT 和 SMT 求解器的证明证人的工具.
 - [Tactician](https://coq-tactician.github.io) - 交互式工具，它从所有已安装的 Coq 包中的先前编写的策略脚本中学习，并建议下一个要执行的策略或尝试完全自动化证明合成.
 - [Unicoq](https://github.com/unicoq/unicoq) - 用增强的统一算法替换现有统一算法的插件.
 
@@ -223,6 +223,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑推理 Coq 中的顺序命令式程序.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
 - [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - 介绍使用 Coq 开发和验证程序.
+- [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - 软件基础系列教科书的材料，包括一系列 YouTube 视频.
 
 ### Tutorials and Hints
 
