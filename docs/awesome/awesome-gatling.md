@@ -38,6 +38,7 @@
 - [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 - [Gatling – Scaling Out Your Load Tests](https://web.archive.org/web/20210625094528/http://www.nimrodstech.com/gatling-cluster-load-testing/)
 - [Distributed Gatling](https://github.com/Abiy/distGatling) - 在分布式/集群环境中运行 Gatling 模拟测试的解决方案.
+- [gatling-operator](https://github.com/st-tech/gatling-operator) - 使用 Kubernetes 算子自动化分布式 Gatling 负载测试.
 
 ## Tools
 

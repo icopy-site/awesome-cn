@@ -1044,6 +1044,13 @@ Content about: 网络安全 \
 内容：网络硬件与其他概念，有助于视觉效果. 还有关于 A+ 和 Net+ 的速成课程.  \
 精选播放列表：“信息技术”、“CompTIA 认证”.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
+
+[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
+内容关于：电子和通信 \
+精选播放列表：`BJT`、`Analog Electronics`、`Network Analysis`.  \
+<br />
+
 
 ## Software in general
 
@@ -1180,7 +1187,7 @@ Content about: Procreate, Ipad/平板绘图\
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Yes I'm a Designer**](https://www.youtube.com/c/YesImaDesigner) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for YouTubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容：设计原则、设计工具教程\
-Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutorials`, `Photoshop CC`. \
+精选播放列表：“创意 365 天”、“Illustrator CC”、“Indesing 教程”、“Photoshop CC”.  \
 <br />
 
 
@@ -1441,18 +1448,6 @@ Content about: 网络世界普及频道 \
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Qu'est-ce que Tu GEEKes ?**](https://www.youtube.com/QuestcequetuGEEKes) \
 内容：通过来源创作、无权利且无广告的方式向好奇的公众普及计算.  \
 精选播放列表：`Man`、`Rumors`、`Hot`、`Questions GEEKes`.
-
-
-## Electronics and communication
-
-市场上每个新旧电子元件的所有教程和视频. 如何开始使用电子产品、所有有用的资源，并从在该领域有更多经验的人那里获得建议/推荐使用哪种产品以及为什么.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
-
-[<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
-内容关于：电子和通信 \
-精选播放列表：`BJT`、`Analog Electronics`、`Network Analysis`.  \
-<br />
 
 
 <details>

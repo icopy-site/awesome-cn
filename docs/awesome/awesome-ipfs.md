@@ -36,6 +36,7 @@
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - 在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) - 与 git 类似接口和 FUSE 文件系统的文件同步. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - 一个 golang 应用程序，用于预设一个 threejs 界面并从 IPFS 中获取其所有资产.
+- [CoTNetwork](http://www.cotnetwork.com) - 基于ipfs的分布式计算网络
 - [dapple](https://github.com/nexusdev/dapple) - Dapple 是一款 Solidity 开发人员多功能工具，旨在管理日益复杂的互连智能合约系统.
 - [DeCommerce](https://www.ivyca.com/decommerce/)  - Web3 的去中心化电子商务. 允许人们在没有中间人的情况下进行业务交易. 没有中间人，没有银行，没有大型科技公司，没有政府.
 - [Diffuse](https://diffuse.sh) - 从您的 IPFS 节点或您使用的任何其他云/分布式存储服务播放音乐.
@@ -51,7 +52,7 @@
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - Gorilla 是笔记本风格的 Clojure 的丰富 REPL.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin 是一个加密的 pastebin，在 URL 片段中传递了解密密钥
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - 具有多种功能的 booru 风格的媒体标记应用程序，最近添加了基本的 ipfs 支持.
-- [infura.io](https://infura.io) - 基础设施：使用 API 和开发人员工具提供对以太坊和 IPFS 的安全、可靠和可扩展的访问，以帮助更轻松地构建去中心化应用程序.
+- [infura.io](https://infura.io) - 基础设施：使用 API 和开发工具提供对以太坊和 IPFS 的安全、可靠和可扩展的访问，以帮助更轻松地构建去中心化应用程序.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - 使用 IPFS 的 Web 存档 (WARC) 索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - 建立在 IPFS 之上的 Wiki
 - [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) - 一种实时服务，用于抓取 COVID-19 和 SARS-CoV-2，存储在 IPFS、DNSLink 上，并通过 LibP2P pubsub 进行流式传输
@@ -63,7 +64,7 @@
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  - IPFS 图像上传器和查看器.  Minerva 是 Apache Drill 的一个存储插件，连接 IPFS 的去中心化存储和 Drill 的灵活查询引擎. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat)  - 基于终端的加密聊天室. 允许私人消息传递和安全的聊天内文件/目录共享. 无服务器/无代理（无需信令/集合服务器）. 通过 LAN/互联网工作（带 NAT 穿越）.
-- [IPFS-forum](https://github.com/ReForum-ipfs/ReForum#readme) - 一个web3论坛.你可以从这个论坛获得新的想法、报告、讨论，虽然你可能处于网络限制区，所有的内容都会被ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum)
+- [IPFS-forum](https://github.com/ReForum-ipfs/ReForum#readme) - 一个web3论坛.你可以从这个论坛获得新的想法、报告、讨论，虽然你可能在网络限制区，所有的内容都会被ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum)
 - [IPFS-FPS](https://ipfs-fps.com/)  - 完全去中心化的第一人称射击游戏. 使用 Unity、Fleek、Unstoppable Domans 和 Pinata 构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - 基于 ipfs 和 markdown 构建您的 wiki 系统.
 - [ipfs-search](https://ipfs-search.com) - 自 2016 年开始探索宇宙.
@@ -81,6 +82,7 @@
 - [La Marque](https://marque.la/)  - 从您的手机生成和固定内容. 通过验证从其他人收到的图像来验证“La Marque”资产.
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - 基于 Pandoc 的标记编辑器/预览器/转换器，移植到 IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) - Minerva 是 Apache Drill 的存储插件，连接 IPFS 的去中心化存储和 Drill 的灵活查询引擎.
+- [Music For Programming](https://ipfs.io/ipns/mfp.jillejr.tech) - musicforprogramming.net 的非官方端口. [Source](https://github.com/jilleJr/musicforprogramming.ipfs)
 - [OpenBazaar](https://github.com/OpenBazaar) - OpenBazaar 是一个开源项目，在完全去中心化的市场中开发电子商务交易协议.
 - [Orbit](https://orbit.chat) - IPFS 上的分布式点对点聊天应用程序. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - 分布式共享经济市场，图像、元数据和 ERC 725 数据存储在 IPFS 上. [Source](https://github.com/OriginProtocol/demo-dapp)
@@ -141,10 +143,11 @@
 - [7-piece Syzygy tablebases](https://syzygy-tables.info/) - 最多 7 个棋子的所有国际象棋残局的解决方案. [Source](https://github.com/syzygy1/tb)
 - [alpine-linux 3.4 packages](https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS)  [Source](https://github.com/ipfs/archives/issues/83)
 - [arXiv](https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa)  [Source](https://github.com/ipfs/archives/issues/2)
-- [Brainwash Dataset](https://purl.stanford.edu/sx925dc9385)  - 斯图尔特，拉塞尔.  （2015 年）. 洗脑数据集.
+- [Brainwash Dataset](https://purl.stanford.edu/sx925dc9385)  - 斯图尔特，拉塞尔.  （2015）. 洗脑数据集.
 - [cdn.media.ccc.de](https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb)  [Source](https://github.com/ipfs/archives/issues/52)
 - [cdnjs](https://ipfs.io/ipfs/QmRrnfFUgx81KZR9ibEcxDXgevoj9e5DydB5v168yembnX)  [Source](https://github.com/ipfs/archives/issues/35)
 - [Cooking Recipes](https://ipfs.io/ipfs/QmTXo6GforwsuGAd8behjgvKCsMMBdG1xMZJF4qa9W7CHB) - 大约 50GB 的格式化和未格式化的烹饪食谱. [Source](https://old.reddit.com/r/opendirectories/comments/dsznin/50_gb_directory_of_cooking_recipes/)
+- [CrowdHuman Dataset](http://www.crowdhuman.org/)  - CrowdHuman 数据集. 在人群中检测人类的基准 [Source](http://www.crowdhuman.org/download.html)
 - [Geocities by Archive Team](https://ipfs.io/ipfs/QmVCjhoEFC9vwvaa8bKyJgwAByP4MXSogcyDGoz4Lkc3ox)  [Source](https://github.com/ipfs/archives/issues/182)
 - [haveibeenpwnd.com passwords](https://ipfs.io/ipfs/QmSRBDMksX7c5dfheGsYDdWrLdve5hBvXDQm7Yrov7KMJv)  [Source](https://github.com/ipfs/archives/issues/157)
 - [IETF RFC Archive](https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM)  [Source](https://github.com/ipfs/archives/issues/18)
@@ -216,11 +219,12 @@
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  - 用于将 IPFS/IPNS 地址重定向到本地网关的浏览器用户脚本. 这应该适用于尚未为其编写扩展并且支持用户脚本的任何浏览器.
 - [iprfc](https://github.com/RTradeLtd/iprfc) - IETF RFC 下载器，将 RFC 存储在 IPFS 上并使用 RTradeLtd/Lens 对其进行索引.
 - [ipscend](https://github.com/diasdavid/ipscend) - 在 IPFS 中托管 Web 应用程序和静态网站的工具
-- [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta 是针对您的微服务架构的即插即用服务，允许在 IPFS 上收集、存储和索引数据，并提供搜索功能（全文、查询）.
+- [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta 是针对您的微服务架构的即插即用服务，允许在 IPFS 上收集、存储和索引数据并提供搜索功能（全文、查询）.
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Multiverse 是一个分散的版本控制系统，支持点对点软件开发.
-- [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB 是一个无服务器、分布式、点对点的数据库，它使用 IPFS 作为其数据存储和 IPFS Pubsub 来自动与对等点同步数据库.
+- [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB 是一个无服务器、分布式的点对点数据库，它使用 IPFS 作为其数据存储和 IPFS Pubsub 来自动与对等点同步数据库.
 - [pinbot](https://github.com/whyrusleeping/pinbot) - 通过 IRC 固定内容
 - [Public gateway status checker](https://ipfs.fooock.com/) - 用于检查 IPFS 网关的公共状态的 Web 应用程序，包括延迟和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
+- [rivet](https://github.com/wabarc/rivet) - 工具包使将网页存档到 IPFS 变得更加容易.
 - [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) - ShareX 是一个与 IPFS 自定义集成的文件上传和操作工具
 - [Siderus Orion](https://orion.siderus.io) - 适用于 macOS、Windows 和 Linux 的易于使用的 IPFS 桌面客户端 [Source](https://github.com/Siderus/Orion)
 - [solid-ipfs](https://github.com/Eximua/solid-ipfs) - 使用 Solid 私下或公开存储 IPFS 哈希.

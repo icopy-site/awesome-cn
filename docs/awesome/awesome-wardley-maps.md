@@ -61,6 +61,7 @@
 ## Maps in the Wild
 
 博客文章和其他有趣的 Wardley 地图示例. 按日期排序，最新的在前.
+- [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/)  - Max Langenkamp 工程硕士论文的 4k 字摘要.  2022 年 9 月 27 日.
 - [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  - 华金·佩纳·费尔南德斯.  2022 年 8 月 29 日.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  - 华金·佩尼亚·费尔南德斯.  9月16日，
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 为什么电子游戏将成为一个国家灵魂的新战场，西蒙·沃德利（Simon Wardley）.  2021 年 9 月 8 日.

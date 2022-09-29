@@ -22,7 +22,7 @@
 * [Google Fonts](https://fonts.google.com/)
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
-  * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - 所有语言的国际化字体，对 CJK 和 emoji 的丰富支持
+  * [Noto Fonts](https://github.com/googlei18n/noto-fonts) - 所有语言的国际化字体，对 CJK 和表情符号的丰富支持
   * [Roboto](https://github.com/google/roboto) - Android 和 ChromeOS 上的默认字体，以及 Material Design 的推荐字体
 * [Indestructible Type](https://github.com/indestructible-type) - 一个开源字体代工厂
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - 开源类型运动
@@ -47,6 +47,7 @@
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - 让您的线框不会分散 Lorem Ipsum 的注意力
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
+* [Urbanist](https://github.com/coreyhu/Urbanist) - 几何无衬线可变字体
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
 
 
@@ -63,7 +64,7 @@
 * [emoji](https://github.com/leereilly/emoji) - GitHub 拉取请求、问题、评论、提交消息、markdown 文件等支持的所有表情符号
 * [emoji](https://github.com/muan/emoji) - 找到与您的想法相呼应的表情符号
 * [emoji](https://github.com/wpeterson/emoji)  - 一颗宝石. 对于表情符号. 给大家.
-* [emojidex](https://github.com/emojidex/emojidex) - 表情符号即服务提供商和工具集和资产
+* [emojidex](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 * [emojify.js](https://github.com/emojione/emojify.js) - 将表情符号关键字转换为图像的 Javascript 模块
 * [emojify](https://github.com/mrowa44/emojify) - 命令行上的表情符号
 * [emojilib](https://github.com/muan/emojilib) - 表情符号关键字库
@@ -72,7 +73,7 @@
 * [emojistatic](https://github.com/mroth/emojistatic) - 表情符号的 CDN 静态资产生成
 * [emojitracker](https://github.com/mroth/emojitracker) - 跟踪所有表情符号
 * [emojize](https://github.com/ded/emojize) - 高分辨率、unicode (emoji) 到 html 转换实用程序
-* [gemoji](https://github.com/github/gemoji) - Emoji images and names
+* [gemoji](https://github.com/github/gemoji) - 表情符号图像和名称
 * [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github 表情符号解析正确
 * [node-emoji](https://github.com/omnidan/node-emoji) - 对 Node.js 的简单表情符号支持
 * [megamoji](https://github.com/muan/megamoji) - 像专业人士一样制作巨型表情符号
@@ -148,7 +149,7 @@
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - Haskell、Agda、APL 等带有特殊连字的专有字体
 * [Dank Mono](https://dank.sh/) — 带有 Delightful ligatures 和斜体变体的高级编程字体
-* [Victor Mono](https://rubjo.github.io/victor-mono/) - 带有半连接斜体草书、符号连字以及拉丁文、西里尔文和希腊文字符的免费编程字体
+* [Victor Mono](https://rubjo.github.io/victor-mono/) - 带有半连体斜体、符号连字和拉丁文、西里尔文和希腊文字符的免费编程字体
 
 ## JavaScript libs
 * [Beatrix](https://github.com/funbox/beatrix) - 一种去除无用字体字形并将 TTF/OTF 转换为 WOFF 和 WOFF2 的工具

@@ -24,6 +24,10 @@
 
   <img src="https://raw.githubusercontent.com/dschablowsky/FordPassWidget/raw/master/fp-widget.jpg" width="400"/>
 
+- [SmarterTankenWidget.js](https://github.com/Martlgap/SmarterTankenWidget) - 不同国家的两个加油站的价格差异.
+ 
+  <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
+
 - [tankstellenpreise.js](https://github.com/Necriso/ScriptableWidgets/blob/main/tankstellenpreise.js) - 附近加油站的燃油价格.
 
   <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
@@ -161,6 +165,8 @@
 - [CFBWidget](https://github.com/jaydainn/CFBWidget) - NCAA 大学橄榄球队的最新成绩. 
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - FitX 健身房的工作量.
+
+- [nfl-team-schedule-widget](https://github.com/brianwalborn/nfl-team-schedule-widget) - NFL 球队当前的赛季时间表.
 
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - 最近的 McFit 健身房的容量.
 

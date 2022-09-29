@@ -19,7 +19,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [bisect](https://github.com/spider-gazelle/bisect) - 将值插入排序数组
  * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) 执行
  * [crie](https://github.com/c910335/crie) - 编译时特里
- * [CrOTP](https://github.com/philnash/crotp) - 用于两因素身份验证的 HOTP 和 TOTP 实现
+ * [CrOTP](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - 链表的实现
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - 一个纯向量数学库
  * [crystalg](https://github.com/tobyapi/crystalg) - 通用算法库
@@ -114,6 +114,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Cryptography
  * [cmac](https://github.com/spider-gazelle/cmac) - 基于密码的消息验证码 (CMAC) 的 Crystal 实现
+ * [ed25519](https://github.com/spider-gazelle/ed25519) - Ed25519椭圆曲线公钥签名系统
+在 [RFC 8032] 中描述
  * [monocypher.cr](https://github.com/konovod/monocypher.cr) - Monocypher 加密库的水晶包装器
  * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) - libsodium 加密 API 的水晶包装器
 
@@ -128,6 +130,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [HAR](https://github.com/NeuraLegion/har) - HAR（HTTP 存档）解析器
  * [INI](https://crystal-lang.org/api/INI.html) - INI 文件解析器 (Crystal stdlib)
  * [JSON](https://crystal-lang.org/api/JSON.html) - 解析和生成 JSON 文档（Crystal stdlib）
+ * [json-schema](https://github.com/spider-gazelle/json-schema) - 将 JSON 可序列化类转换为 [JSON Schema](https://json-schema.org/) 表示
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) - 轻松处理和修改 JSON 文档
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB 阅读器
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML 解析器
@@ -209,6 +212,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## GUI Development
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - 绑定到 [Dear ImGui](https://github.com/ocornut/imgui)，一个即时模式的图形用户界面库
+ * [GTK4.cr](https://github.com/hugopl/gtk4.cr) - 绑定 [GTK4](https://docs.gtk.org/gtk4/overview.html) 使用结晶 API
  * [Iu](https://github.com/grkek/iu) - 基于 UI 框架 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有自定义元素和修改后的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
 
 ## HTML Builders
@@ -266,7 +270,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - 人工智能（基于 https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/cadmiumcr/cadmium) - 大量基于 NLP 库 [natural](https://github.com/NaturalNode/natural)
- * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN（快速人工神经网络）绑定
  * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) - 绑定 [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet（纯晶体中的神经网络）
 
@@ -504,7 +508,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - 调试解析器和格式化程序的辅助工具
- * [crystal-base](https://github.com/ruivieira/crystal-base) - 用于 Crystal 开发的 CentOS 基础 docker 镜像
+ * [crystal-base](https://github.com/ruivieira/crystal-base) - 用于 Crystal 开发的 CentOS 基础 docker 映像
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) 文档集生成器
  * [public_suffix](https://github.com/toddsundsted/public_suffix) - 一个旨在使公共后缀列表 (https://publicsuffix.org/) 更易于使用的小型库
 

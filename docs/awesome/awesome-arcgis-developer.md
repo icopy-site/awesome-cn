@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developer/master/arcgis-platform-logo.svg?sanitize=true" align="right" width="100">
 
-&gt; 一组很棒的资源来帮助你 [ArcGIS Platform](http://developers.arcgis.com/) 开发、API、SDK、工具和位置服务.
+> An awesome set of resources to help you with [ArcGIS Platform](http://developers.arcgis.com/) 开发、API、SDK、工具和位置服务.
 
 ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应用程序，具有现成的位置服务、数据托管、API、工具和内容管理服务.
 
@@ -25,6 +25,8 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [ArcGIS API for Python](https://developers.arcgis.com/python/) - 使用 Python 进行制图、空间分析、数据科学、地理空间 AI 和自动化的指南、示例笔记本和 API 参考.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - 与 ArcGIS Earth 通信的指南、API 参考和示例.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - 扩展 ArcGIS Enterprise 的指南、API 参考和示例代码.
+- [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - 使用 ArcGIS 数据和服务为 Unity 开发的指南、API 参考和示例代码.
+- [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - 使用 ArcGIS 数据和服务为 Unreal Engine 开发的指南、API 参考和示例代码.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - 用于扩展 ArcGIS Pro Desktop 的文档、教程、API 参考、常见问题解答等.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - 有关 ArcGIS REST API 的一般文档：位置服务、内容管理、门户管理等.
 - [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman 集合与一些 REST API 一起使用：位置服务、托管要素图层、ArcGIS Online、ArcGIS Hub 等.
@@ -61,7 +63,9 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [ArcGIS API for JavaScript Sample Code](https://developers.arcgis.com/javascript/latest/sample-code/) - Esri 的官方 JavaScript API 产品团队示例.
 - [ArcGIS API for Python Sample Notebooks](https://developers.arcgis.com/python/sample-notebooks/) - Esri 的官方 Python API 产品团队示例.
 - [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - 在所有支持的配置文件中收集可重复使用的 Arcade 表达式.
-- [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - Search, browse, and use code, scripts, models, add-ins, widgets, and more.
+- [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - 搜索、浏览和使用代码、脚本、模型、加载项、小部件等.
+- [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unity 产品团队示例.
+- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队示例.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - 由 Esri 的 REST JS 维护人员构建的演示应用程序.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队示例.
 - [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
@@ -153,7 +157,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑程序构建的应用程序中延迟加载 ArcGIS API for JavaScript（即来自 CDN）.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - 用于将 ArcGIS API for JavaScript 与 esri-loader 一起使用的自定义 React 挂钩.
 - [react-arcgis](https://github.com/Esri/react-arcgis)  - 一个包含一些准备使用 React 组件的库（`<Map />  `, `<Scene />  `, `<WebMap />  `，和`<WebScene />  `) 让您开始在 React 应用程序中使用 ArcGIS API for JavaScript.
-- [react-sceneview](https://github.com/Esri/react-sceneview) - 基于 ArcGIS API for JavaScript 构建的简单 Esri SceneView 反应组件.
+- [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
 
 ## Map and data exploration
 
@@ -191,7 +195,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 ## Specifications
 
 - [Cartographic Information Model spec](https://github.com/Esri/cim-spec) - 用于保存和传输以 JSON 表示的 GIS 数据集的制图描述的地图内容规范.
-- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm) - JSON formats of the geometry and spatial reference objects as returned by ArcGIS REST API: Point, Multipoint, Polyline, Polygon and Envelope.
+- [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm) - ArcGIS REST API 返回的几何和空间参考对象的 JSON 格式：点、多点、折线、多边形和包络.
 - [GeoServices spec](https://github.com/koopjs/FeatureServer) - 开放的基于 Web Foundation REST 的 API，提供对 Esri 使用的结构化地理空间数据的完整访问.
 - [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec) - 任意大量地理数据的容器服务和包装标准.
 - [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) - GIS 软件的地理空间矢量数据格式规范.

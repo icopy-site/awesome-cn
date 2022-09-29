@@ -222,6 +222,7 @@
 - [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - 提供商来管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供者服务器.
 - [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Linode 的提供商.
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - OpenStack 插件.
+- [terraform-provider-panos](https://github.com/PaloAltoNetworks/terraform-provider-panos) - 提供者 [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
 - [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - 提供者来管理 Pingdom 资源.
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Rancher v2 的提供者.
 - [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) - 提供者 [Scalr](https://scalr.com)

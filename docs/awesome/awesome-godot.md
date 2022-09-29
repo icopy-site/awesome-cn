@@ -29,7 +29,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Godot 3.1
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) - 简单的自上而下的移动平台游戏.
-- [Circle Jump](https://github.com/kidscancode/circle_jump) - Mobile arcade game, addicting and enjoyable. How-to-made tutorial is available, so you can recreate it yourself and learn Godot.
+- [Circle Jump](https://github.com/kidscancode/circle_jump)  - 手机街机游戏，令人上瘾且令人愉快. 提供了如何制作的教程，因此您可以自己重新创建它并学习 Godot.
 - [Haldric](https://github.com/wesnoth/haldric) - 韦诺之战的官方正在进行中的重新实施.
 - [SealedBite](https://github.com/securas/SealedBite) - 2D 平台游戏，2019 年 GitHub Game Off jam 的获胜者.
 - [Unknown Horizons](https://github.com/unknown-horizons/godot-port) - Unknown Horizo​​​​ns的官方正在进行中的重新实施.
@@ -80,7 +80,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Projects
 
-*使用 Godot（工具/实用程序）制作的非游戏开源项目.*
+*Non-game Open source projects made with Godot (tools/utilities).*
 
 #### Godot 3.2+
 
@@ -90,6 +90,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Material Maker](https://github.com/RodZill4/material-maker) - 以程序方式创建 PBR 材质（类似于 Substance Designer）.
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - 2D 像素艺术编辑器.
 - [ProtonGraph](https://github.com/protongraph/protongraph)  - 用于程序内容创建的基于节点的工具. 类似于可视化脚本，但用于 3D 模型生成（需要自定义引擎模块）.
+- [vpuppr](https://github.com/virtual-puppet-project/vpuppr) - 具有多个跟踪后端的跨平台 VTuber 应用程序.
 
 ## Templates
 
@@ -116,7 +117,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.2+
 
-- [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - Official Godot demo projects (everything except the TPS demo).
+- [Godot Demo Projects](https://github.com/godotengine/godot-demo-projects) - 官方 Godot 演示项目（TPS 演示除外）.
 - [TPS Demo](https://github.com/godotengine/tps-demo) - 具有高质量图形的官方 Godot 第三人称射击游戏 (TPS) 演示.
 - [Godot experiments](https://github.com/MrEliptik/godot_experiments) - 几个 2D、3D 和 VR 实验.
 - [The Tower](https://github.com/Relintai/the_tower) - 基于体素的跑酷游戏，展示体素模块的功能.
@@ -180,7 +181,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 一个模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏（Godot 3.x）.
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - 对话和互动小说引擎（Godot 3.x）.
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) (Godot 3.x).
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) （戈多 3.x）.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建具有风格的图块集（Godot 3.x）.
 
 #### Godot 3.2+
@@ -194,7 +195,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Dialogic](https://github.com/coppolaemilio/dialogic) - 创建对话、角色和场景以显示对话.
 - [Dijkstra map for Godot](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - Godot 游戏引擎的 GDNative 项目，引入了 Dijktra Map 寻路节点.
 - [Discord.gd](https://github.com/3ddelano/discord.gd)  - Discord 机器人 API 包装器. 使用 100% GDScript 制作机器人.
-- [Funexpected Flash Tools](https://github.com/funexpected/flash-tools) - Adob​​e Animate (Flash) 插件，允许您为 Godot 引擎导出项目.
+- [Funexpected Flash Tools](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 - [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF 导出器完全用 GDScript 制作.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - 无需打开浏览器即可与 GitHub 交互.
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API [gotm.io](https://gotm.io/).
@@ -288,6 +289,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用的包装器方法和对 Godot 友好的类型 [PortAudio](http://www.portaudio.com).
 - [Speech to Text](https://github.com/menip/godot_speech_to_text) - 捕获用户的麦克风输入并将其转换为文本.
+- [spout-gd](https://github.com/you-win/spout-gd) - 通过您的 GPU 在 Windows 应用程序之间共享 OpenGL 纹理 [Spout](https://github.com/leadedge/Spout2).
 
 #### Godot 3.1
 
@@ -354,7 +356,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Shaders](https://godotshaders.com/) - 用于 Godot 游戏引擎的社区驱动的着色器库.
 - [Godotes](https://godotes.com/) - 每周关于 Godot 引擎及其生态系统的微观数据分析报告.
 - [Gotm.io](https://gotm.io/about) - 用于托管在 Godot 中制作的 HTML5 游戏的网站.
-- [This Week in Godot](https://thisweekingodot.com/) - 每周时事通讯，包含新闻、教程、游戏和演示版本等.
+- [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
 
 ## Other
 
