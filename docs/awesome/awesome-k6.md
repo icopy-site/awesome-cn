@@ -14,7 +14,7 @@
 社区的内容集合，在（测试） <a href="https://k6.io/">k6</a>上.
 
 
-Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](https://github.com/grafana/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/grafana/awesome-k6/blob/master/contributing.md).
+想要帮助使这个列表变得更好吗？ 耶，太棒了！ 在开始之前，请先看看我们 [code of conduct](https://github.com/grafana/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/grafana/awesome-k6/blob/master/contributing.md).
 
 
 
@@ -23,7 +23,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Articles
 
-- [k6 Workshop](https://github.com/grafana/k6-workshop) - 解释负载测试的原理和如何使用 k6 进行测试的实际示例.
+- [k6 Learn](https://github.com/grafana/k6-learn) - 解释负载测试的原理和如何使用 k6 进行测试的实际示例.
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - 多部分入门指南，帮助您开始使用 k6.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - 简要概述 k6 的特性和功能.
 - [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - 将 k6 的输出发送到 Apache Kafka.
@@ -42,7 +42,6 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Load Testing. k6 + TypeScript + Azure DevOps](https://alex-klaus.com/load-test-k6-typescript-azure/)
 - [Performance testing with k6](https://blog.shanelee.name/2021/12/15/performance-testing-with-k6/) - 关于 API 性能测试，使用 Open API 和 TypeScript.
 - [k6 introduces browser automation and Prometheus support in k6 OSS](https://grafana.com/blog/2021/11/24/k6-introduces-browser-automation-and-prometheus-support-in-k6-oss/) - 来自 Grafana 博客：ObservabilityCON 2021 上的功能公告.
-- [How to build performance tests into your CI pipeline with k6, GitHub Actions, and Grafana](https://grafana.com/blog/2021/11/29/how-to-build-performance-tests-into-your-ci-pipeline-with-k6-github-actions-and-grafana/) - 来自 Grafana 博客：Matthew Churcher 的 ObservabilityCon 2021 演讲摘要，Vonage QA Architect.
 - [Testing shift left observability with the Grafana Stack, OpenTelemetry, and k6](https://grafana.com/blog/2021/12/06/testing-shift-left-observability-with-the-grafana-stack-opentelemetry-and-k6/) - 来自 Grafana 博客：摩根大通平台工程执行总监 Vinodh Ravi 在 ObservabilityCON 2021 上的演讲摘要. 
 
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - 针对 Umbraco v8 在 Azure 上测试 Umbraco v9 的性能，并比较 Windows 与 Linux.
@@ -89,7 +88,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) - 用于生成 k6 HTML 报告的工具.
 - [har-to-k6](https://github.com/grafana/har-to-k6) - 用于将 HAR 录音转换为 k6 测试脚本的工具.
 - [postman-to-k6](https://github.com/grafana/postman-to-k6) - 将 Postman 集合转换为 k6 测试脚本的工具.
-- [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
+- [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 用于将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
 - [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从 IDE 运行 k6 的市场扩展.

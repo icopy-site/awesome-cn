@@ -12,7 +12,7 @@
 
 很棒的 MicroPython 库、框架、软件和资源的精选列表.
 
-[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精简高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
+[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精益高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
 
 
 
@@ -236,7 +236,7 @@
 * [micropython_remote](https://github.com/peterhinch/micropython_remote)  - 捕获和回放 433MHz 遥控代码. 控制远程开关电源适配器.
 * [micropython-ys-rf34t](https://github.com/mcauser/micropython-ys-rf34t) - 使用 YS-RF34T 433MHz ASK/OOK UART 收发器的 MicroPython 示例.
 * [FM_Talkie](https://github.com/Wei1234c/FM_Talkie) - 使用 RDA5820N 的 FM 对讲机.
-* [micropython-TEA5767](https://github.com/alankrantas/micropython-TEA5767) - MicroPython ESP8266/ESP32 driver for TEA5767 FM radio module.
+* [micropython-TEA5767](https://github.com/alankrantas/micropython-TEA5767) - 用于 TEA5767 FM 收音机模块的 MicroPython ESP8266/ESP32 驱动程序.
 * [micropython-ppm-decoder](https://github.com/dastultz/micropython-ppm-decoder) - 用于解码 R/C 接收器 PPM 帧信号的实用程序.
 * [ESP32-433Mhz-Receiver-and-Tools](https://github.com/Aschhoff/ESP32-433Mhz-Receiver-and-Tools) - 用 MicroPython 和 Windows 工具编写的 ESP32 433Mhz 接收器.
 
@@ -303,7 +303,7 @@
 #### Web
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - 一个微型 HTTP Web 服务器，支持 WebSockets、html/python 语言模板和路由处理程序，用于 MicroPython（用于 Pycom 模块和 ESP32）.
-* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 用于物联网 (MicroPython) 或大型服务器 (CPython) 的最后一个微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
+* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 最后一个用于物联网 (MicroPython) 或大型服务器 (CPython) 的微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
 * [tinyweb](https://github.com/belyalov/tinyweb) - 用于 MicroPython 的简单轻量级 HTTP 异步服务器.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) websocket 服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) - MicroPython 的强制门户演示.
@@ -783,6 +783,7 @@
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON 是一个基于时间的 MicroPython 任务调度程序.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON 是一个基于时间的任务调度程序，灵感来自著名的 Unix 系统 CRON 程序.
 * [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) 基于 uasyncio 的应用程序的调度程序. 在指定的时间和日期安排活动.
+* [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) 支持任务运行之间的深度睡眠的持久 uasyncio 调度程序.  
 
 ### Storage
 
@@ -912,7 +913,7 @@
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) - 一个简单的基于命令行的 MicroPython 外壳.
-* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - 用 Python 编写的用于 PyBoard、WiPy、ESP8266、ESP32、PyCom 和 Adafruit 设备的小型板载编辑器.
+* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for PyBoard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
 
 #### On Host
 
