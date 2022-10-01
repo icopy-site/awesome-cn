@@ -25,7 +25,7 @@
 
 ### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
-&gt; ...一次越野火车冒险，玩家在其中收集各种类型的火车车厢卡，使他们能够声称连接世界各国城市的铁路路线.
+&gt; ...一个越野火车冒险，玩家收集各种类型的火车车厢的卡片，使他们能够声称连接世界各国城市的铁路路线.
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
@@ -55,7 +55,7 @@
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
- &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能被禁足.这个游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息共同规划地形和构建真正的电路.
+ &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能会被禁足.Forbidden 游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息集体规划地形和构建真正的电路.
 
 ![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
 
@@ -77,7 +77,7 @@
 
 &gt; 玩家开始时都是盟友，探索充满危险、陷阱、物品和预兆的鬼屋.\
 &gt; 当玩家前往豪宅的新区域时，会随机选择房间瓷砖并放置在游戏板上.\
-&gt; 最终“出没”开始，一个玩家通常会“背叛”其他玩家并站在鬼魂、怪物或其他敌人的一边，而其余玩家则合作击败他们.
+&gt; 最终，“出没”开始，一个玩家通常会“背叛”其他玩家并站在鬼魂、怪物或其他敌人的一边，而其余玩家则合作击败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
@@ -189,7 +189,7 @@
 
 ### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
 
- &gt; Pachisi 是印度的国球，可追溯到公元 4 年，至今仍很流行.  Parcheesi 是西化的版本.  Parcheesi 通常使用两个骰子，每个玩家四个棋子和一个游戏板，游戏板在外面有一个轨道，四个角落空间和四个通向中心端空间的家庭路径. 将所有四个棋子移至本位即可赢得比赛.
+ &gt; Pachisi 是印度的国球，可追溯到公元 4 年，至今仍很流行.  Parcheesi 是西化的版本.  Parcheesi 通常使用两个骰子，每个玩家四个棋子和一个游戏板，游戏板在外面有一个轨道，四个角落空间和四个通向中央末端空间的家庭路径. 将所有四个棋子移至本位即可赢得比赛.
 
 ![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
 
@@ -199,7 +199,7 @@
 
 ### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
 
- &gt; 在东海道，每个玩家都是穿越日本最壮丽道路之一的“东海之路”的旅行者. 旅行时，你会遇到人，品尝美食，收集美丽的物品，发现美妙的全景，参观寺庙和荒野，但在一天结束时，当每个人都到达路的尽头时，你将不得不成为最主动的旅行者——这意味着你必须成为发现最有趣和最多样化事物的人. 东海道的所有动作都非常简单，结合独特的图形设计，东海道在游戏中为玩家提供了一种宁静的禅意.
+ &gt; 在东海道，每个玩家都是穿越日本最壮丽道路之一的“东海之路”的旅行者. 旅行时，你会遇到人，品尝美食，收集美丽的物品，发现美妙的全景，参观寺庙和荒野，但在一天结束时，当每个人都到达了路的尽头时，你将不得不成为最主动的旅行者——这意味着你必须成为发现最有趣和最多样化事物的人. 东海道的所有动作都非常简单，结合独特的图形设计，东海道在游戏中为玩家提供了一种宁静的禅意.
 
 ![Tokaido Image](https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png)
 
@@ -219,13 +219,13 @@
 
 ### [Sushi Draft](https://boardgamegeek.com/boardgame/144865/sushi-draft)
 
- &gt; Sushi Draft 是一款看起来很好吃的纸牌游戏！  Sushi Draft 包括一副 32 张寿司卡（8 ikura、7 ebi、6 maguro、5 tamago、4 kappa 和 2 个“wild”三元组）和 18 点代币（五种寿司各三张，甜点三张）； 积分代币的价值范围为 1-5，寿司菜肴越丰富，积分越多. 在三个回合中，玩家抽取寿司盘并收集寿司点，这些点是随机抽取的. 拥有最多样化菜单的玩家将获得甜点. 玩家计算他们的分数，得分最高的人获胜.  Sushi Draft 上手快，适合全家人一起玩耍，是经典的接传/纸牌游戏类型的完美介绍！
+ &gt; Sushi Draft 是一款看起来很好吃的纸牌游戏！  Sushi Draft 包括一副 32 张寿司卡（8 ikura、7 ebi、6 maguro、5 tamago、4 kappa 和 2 个“wild”三元组）和 18 点代币（五种寿司各三张，甜点三张）； 积分代币的价值范围为 1-5，寿司菜肴越丰富，积分越多. 在三个回合中，玩家抽取寿司盘并收集寿司点，这些点是随机抽取的. 拥有最多样化菜单的玩家将获得甜点. 玩家计算他们的分数，得分最高的人获胜.  Sushi Draft 上手快，适合全家人一起玩，是经典的接传/纸牌游戏类型的完美介绍！
 
 ![Sushi Draft image](https://cf.geekdo-images.com/VBF3tF7GdSMA0j1E6HPlvQ__itemrep/img/wAInfSxdweuNqVxnL5Qsq5P_wtk=/fit-in/246x300/filters:strip_icc()/pic2062272.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   3 - 5 |        8 |    15m |
+ |  3 - 5 |  8 |  15m |
 
 ### [PARKS](https://boardgamegeek.com/boardgame/266524/parks)
 
@@ -292,7 +292,7 @@
 
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
- &gt; 伟大的 7 Wonders 概念特别适合两名玩家. 感觉非常“七大奇迹”，并进行了一些改进，许多人将这些改进带到了主要游戏中，例如重新设计的军事和科学胜利以及新的商业动态. 玩游戏总是让我想再玩一次.
+ &gt; 伟大的 7 Wonders 概念特别适合两名玩家. 感觉非常“七大奇迹”，并进行了一些改进，许多人将其用于主要游戏，例如重新设计的军事和科学胜利以及新的商业动态. 玩游戏总是让我想再玩一次.
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
@@ -350,7 +350,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 |  9 |  30-60m |
+|       2 |        9 | 30-60m |
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
@@ -384,7 +384,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt; 一个腐败的城市，受制于邪恶和贪婪，处于邪恶人物的控制之下. 权力的宝座是空的，等着你去拿——除非别人先拿. 在 Complots 中，就像在原始游戏 Coup 中一样，你控制两个角色并从两个硬币开始，然后通过诡计、操纵和虚张声势，你想消灭所有其他阻碍你的玩家，可能通过让他们沿着方式.
+ &gt; 一个腐败的城市，受制于邪恶和贪婪，处于邪恶人物的控制之下. 权力的宝座是空的，等着你去拿——除非别人先拿. 在 Complots 中，就像在原始游戏 Coup 中一样，你控制两个角色并从两个硬币开始，然后通过诡计、操纵和虚张声势，你想消灭所有阻碍你的其他玩家，可能通过让他们沿着方法.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -495,7 +495,7 @@
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
-&gt; 波斯战争是一款卡片驱动的战争游戏，描绘了公元前 494 年至 466 年的希腊-波斯冲突 玩家控制波斯帝国及其将军 Xerxes、Artabazus、Artayntes、Artemisia 和 Mardonius，或者控制希腊城邦及其将军，雅典人 Xanthippus、Miltiades 和 Themistocles 和 Spartans、Leonidas 和 Pausanias.
+&gt; Persian Wars 是一款卡片驱动的战争游戏，描绘了公元前 494 年至 466 年的希腊-波斯冲突 玩家控制波斯帝国及其将军 Xerxes、Artabazus、Artayntes、Artemisia 和 Mardonius，或者控制希腊城邦及其将军雅典人 Xanthippus、Miltiades 和 Themistocles 和 Spartans、Leonidas 和 Pausanias.
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
@@ -525,7 +525,7 @@
 
 ### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
- &gt; 加入有史以来的战斗！ 从所有不同时代、物种和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
+ &gt; 加入有史以来的战斗！ 从所有不同时代、种族和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
 
 ![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
@@ -545,7 +545,7 @@
 
 ### [Axis & Allies](https://en.wikipedia.org/wiki/Axis_%26_Allies)
 
- &gt; 在描绘 1942 年春季地球政治地图的棋盘上，玩家扮演二战五个主要交战国中的一个或多个角色：德国和日本的轴心国； 以及苏联、英国和美国的同盟国. 回合在这些交战方之间轮换，他们控制着试图占领敌方领土的棋子军队，结果由掷骰子决定.
+ &gt; 在描绘 1942 年春季地球政治地图的棋盘上进行游戏，玩家扮演二战五个主要交战国中的一个或多个角色：德国和日本的轴心国； 以及苏联、英国和美国的同盟国. 回合在这些交战方之间轮换，他们控制着试图占领敌方领土的棋子军队，结果由掷骰子决定.
 
 ![Axis & Allies image](https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__itemrep/img/NfcWlfpNPWd9-AKDLRFHK8GZ-xI=/fit-in/246x300/filters:strip_icc()/pic24006.jpg)
 
@@ -625,7 +625,7 @@
 
 ### [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
 
- &gt; Rising Sun 是一款 3 到 5 名玩家的棋盘游戏，背景设定在传奇的封建日本. 随着神族从天而降，按照他们的形象重塑这片土地，每个玩家都有责任带领他们的部落走向胜利. 利用政治来推动你的事业，谈判寻求最有利可图的联盟，崇拜神来赢得他们的青睐，招募传说中的怪物来支持你的力量，并明智地利用你的资源在战斗中取得胜利.
+ &gt; Rising Sun 是一款 3 到 5 名玩家的棋盘游戏，背景设定在传奇的封建日本. 随着神族从天而降，按照他们的形象重塑这片土地，每个玩家都有责任带领他们的部落走向胜利. 利用政治来推进你的事业，谈判寻求最有利可图的联盟，崇拜神来赢得他们的青睐，招募传说中的怪物来支持你的力量，并明智地利用你的资源在战斗中取得胜利.
 
 ![Rising Sun image](https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__itemrep/img/QC2OAbicZssRpGJkUmp0Zbto-cs=/fit-in/246x300/filters:strip_icc()/pic3880340.jpg)
 
@@ -677,7 +677,7 @@
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
-> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+ &gt; Munchkin 是一款关于地牢冒险的热门纸牌游戏……没有那种愚蠢的角色​​扮演游戏. 您和您的朋友竞争杀死怪物并抢夺魔法物品. 还有什么魔法物品！ 戴上角质头盔和踢屁股的靴子. 使用凝固汽油弹之杖……或者血腥肢解的电锯. 从屠宰盆栽植物和流口水史莱姆开始，然后一路杀到钚龙……
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
@@ -687,7 +687,7 @@
 
 ### [Ludo](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Ludo_(board_game)>)
 
- &gt; 这个棋盘游戏可以在任何年龄组的最少 2 到最多 4 人之间进行. 两个骰子之一可用于移动令牌. 所有代币先到家的玩家为赢家. 玩家可以通过将他的令牌与同一个方格碰撞来杀死其他玩家的令牌. 其他玩家的令牌再次回到房子. 一些棋盘提供了特殊的方格，其中令牌是安全的并且不能被杀死. 玩家可以决定他们是否想要在获得 6 后获得额外回合来掷骰子的规则.更多令人兴奋的规则可以在 Wikipedia 链接上找到.
+ &gt; 这个棋盘游戏可以在任何年龄组的最少 2 到最多 4 人之间进行. 两个骰子之一可用于移动令牌. 所有代币先到家的玩家为赢家. 玩家可以通过将他的令牌与同一个方格碰撞来杀死其他玩家的令牌. 其他玩家的令牌再次回到房子. 一些棋盘提供了特殊的方格，其中令牌是安全的并且不能被杀死. 玩家可以决定他们是否想要在获得 6 时获得额外回合来掷骰子的规则.更多令人兴奋的规则可以在 Wikipedia 链接上找到.
 
 ![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
 
@@ -788,7 +788,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt; 《氰化物与幸福》的创作者推出了一款纸牌游戏，玩家可以在其中竞争完成一部糟糕的连环画.
- &gt; 创作者说：“网上有人曾经告诉我们，制作简笔画漫画很容易，而且我们又丑又笨.他们在所有方面都是对的.所以，在哭了几个小时之后，我们创造了Random Comic Generator 自 2014 年推出以来，已经通过计算机生成的喜剧娱乐了数百万人.在玩了 Random Comic Generator 几周后，我们开始怀疑它的数百个随机面板是否适合纸牌游戏，其中“你和你的朋友竞争完成一部带有有趣妙语的漫画.所以我们打印了所有的 RCG 面板并开始与他们一起玩.” 抽7张牌. 牌组打出第一张牌，选择法官打第二张牌，然后每个人选择第三张牌来制作三幅漫画. 法官选出获胜者. 该游戏包括一副 250 张独特的面板卡 - 即 1540 万种漫画组合！
+ &gt; 创作者说：“网上曾经有人告诉我们，制作简笔画漫画很容易，而且我们又丑又笨.他们在所有方面都是对的.所以，在哭了几个小时后，我们创造了Random Comic Generator 自 2014 年推出以来，已经通过其计算机生成的喜剧娱乐了数百万人.在玩了 Random Comic Generator 几周后，我们开始怀疑它的数百个随机面板是否适合纸牌游戏，其中“你和你的朋友竞争完成一部带有有趣妙语的漫画.所以我们打印了所有的 RCG 面板并开始与他们一起玩.” 抽7张牌. 套牌打出第一张牌，选择法官打第二张牌，然后每个人选择第三张牌来创建三幅漫画. 法官选出获胜者. 该游戏包括一副 250 张独特的面板卡 - 即 1540 万种漫画组合！
 
 ![Joking Hazard image](https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__itemrep/img/5CtvRcuyQMZZV1QYhGNeSGo4J7Q=/fit-in/246x300/filters:strip_icc()/pic6411897.png)
 
@@ -804,7 +804,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 - 6 |  8 |  40-75m |
+|   2 - 6 |        8 | 40-75m |
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 
@@ -838,7 +838,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt; “洗牌”游戏 Smash Up 从一个简单的前提开始：拿走两个阵营的 20 张牌，将它们洗成一副 40 张牌，然后竞争比对手粉碎更多的基地！ 每个派系都涉及不同的游戏机制——海盗移动纸牌，僵尸从弃牌堆中取回纸牌，恐龙拥有巨大的力量——每个派系组合都带来不同的游戏体验.
+ &gt; “洗牌”游戏 Smash Up 从一个简单的前提开始：拿走两个阵营的 20 张牌，将它们洗牌成 40 张牌，然后竞争比对手粉碎更多的基地！ 每个派系都涉及不同的游戏机制——海盗移动纸牌，僵尸从弃牌堆中取回纸牌，恐龙拥有巨大的力量——每个派系组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -848,7 +848,7 @@
 
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
- &gt; Gloomhaven 是一款以欧洲为灵感的战术战斗游戏，在不断变化的动机世界中进行. 玩家将扮演一个流浪冒险家的角色，拥有自己的特殊技能和前往世界这个黑暗角落的原因. 玩家必须在必要时共同努力，清除险恶的地牢和被遗忘的废墟. 在这个过程中，他们将通过经验和战利品来增强他们的能力，发现新的探索和掠夺地点，并扩展一个由他们做出的决定所推动的不断分支的故事.
+ &gt; Gloomhaven 是一款以欧洲为灵感的战术战斗游戏，在不断变化的动机世界中进行. 玩家将扮演一个流浪冒险家的角色，拥有自己的特殊技能和前往世界这个黑暗角落的理由. 玩家必须在必要时共同努力，清除险恶的地牢和被遗忘的废墟. 在这个过程中，他们将通过经验和战利品来增强他们的能力，发现新的探索和掠夺地点，并扩展一个由他们做出的决定推动的不断分支的故事.
 
 ![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
 
@@ -858,7 +858,7 @@
 
 ### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
 
- &gt; 每个玩家首先画出一个由掷骰决定的 TELESTRATIONS 单词. 老式的沙子计时器可能会限制他们执行草图的时间，但它肯定不会限制创造力！ 时间到！ 所有玩家同时将他们的草图传递给下一个玩家，下一个玩家必须猜出画的是什么. 玩家然后同时将他们的猜测 - 希望与原始单词匹配（或者是吗？？） - 给下一个必须尝试绘制他们看到的单词的玩家 - 等等.
+ &gt; 每个玩家首先画出一个由掷骰决定的 TELESTRATIONS 单词. 老式的沙子计时器可能会限制他们执行草图的时间，但它肯定不会限制创造力！ 时间到！ 所有玩家同时将他们的草图传递给下一个玩家，下一个玩家必须猜出画的是什么. 玩家然后同时将他们的猜测——希望与原始单词匹配（或者是吗？？）——给下一个必须尝试画出他们看到的单词的玩家——等等.
 
 ![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
 
@@ -922,7 +922,7 @@
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
- &gt; 在这个思维敏捷、节奏快的类别游戏中与你的对手和蜂鸣器对战. 在压力下，你能说出多少名演员、披萨馅料、红色的东西或狗的品种？  &#39;Pinch&#39; 和 &#39;pass&#39; 类别卡的不同之处在于，您试图通过从该类别中喊出一些东西来从其他玩家那里抢到捏卡，而您试图通过说出该类别中的某些内容来摆脱 pass 卡的烫手风格. 当蜂鸣器响起时，谁还拿着牌，谁就受益（捏牌）或受罚（通行牌）. 第一个到达终点线的玩家是赢家，但不要因为被抓到太多通行卡而被淘汰！ 每个玩家还可以召集另一名玩家进行正面交锋. 你只能做一次，所以让它计数！
+ &gt; 在这个思维敏捷、节奏快的类别游戏中与你的对手和蜂鸣器对战. 在压力下，你能说出多少名演员、披萨馅料、红色的东西或狗的品种？  &#39;Pinch&#39; 和 &#39;pass&#39; 类别卡的不同之处在于，您试图通过从该类别中喊出一些东西来从其他玩家那里抢到捏牌，而您试图通过说出该类别中的一些内容来摆脱 pass 卡的烫手风格. 当蜂鸣器响起时，谁还拿着牌，谁就受益（捏牌）或受罚（通行牌）. 第一个到达终点线的玩家是赢家，但不要因为被抓到太多通行卡而被淘汰！ 每个玩家还可以召集另一名玩家进行正面交锋. 你只能做一次，所以让它计数！
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
 
@@ -973,7 +973,7 @@
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
  &gt; 与城市中其他有影响力的家族竞争，通过熟练使用您可以使用的助手和资源来获得最尊贵的头衔. 成功做到最好的球员将成为马拉喀什的新“Obermufti”.
- &gt; 马拉喀什分三轮进行，每轮由四轮组成. 每回合，玩家同时从屏幕后面偷偷选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些在前一轮中被卡住但现在已经出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的未来行动. 行动可以让玩家获得财富，这些财富可以用来换取城市的影响力. 随着游戏的进行，执行各种动作也可以获得奖励并进一步增强动作. 游戏结束时得分最高的玩家获胜.
+ &gt; 马拉喀什分三轮进行，每轮由四轮组成. 每回合，玩家同时从屏幕后面偷偷选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些在前一轮卡住但现在出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的未来行动. 行动可以让玩家获得财富，这些财富可以用来换取城市的影响力. 随着游戏的进行，执行各种动作也可以获得奖励并进一步增强动作. 游戏结束时得分最高的玩家获胜.
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
@@ -1003,7 +1003,7 @@
 
 ### [Nine Men's Morris](https://en.wikipedia.org/wiki/Nine_men's_morris)
 
- &gt; 棋盘由一个带有二十四个交叉点或点的网格组成. 每个玩家有九个棋子，或“人”，通常是黑色和白色. 玩家尝试组成“磨坊”——三个自己的人水平或垂直排列——允许玩家将对手的人从游戏中移除. 玩家通过将对手减少为两块（他们无法再形成磨坊，因此无法获胜）或让他们没有合法移动而获胜.
+ &gt; 棋盘由一个带有二十四个交叉点或点的网格组成. 每个玩家有九个棋子，或“人”，通常是黑色和白色. 玩家尝试组成“磨坊”——他们自己的三个人水平或垂直排列——允许玩家将对手的人从游戏中移除. 玩家通过将对手减少为两块（他们不能再形成磨坊，因此无法获胜）或让他们没有合法移动而获胜.
 
 ![Nine Men's Morris image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nine_Men%27s_Morris_board_with_coordinates.svg/300px-Nine_Men%27s_Morris_board_with_coordinates.svg.png)
 
@@ -1056,7 +1056,7 @@
 
 ### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
 
-> Hit the road for a roller-coaster life of adventure, family, unexpected surprises, and pets! Want to take the family path, start a career, or venture down a risky road? In this game, players can make their own exciting choices as they move through the twists and turns of life. Move the car token around the gameboard from Start to Retirement, and experience unexpected surprises related to family, career, and other milestones of life. Players can adopt pets in this version of The Game of Life game. The player with the most money at the end of the game wins!
+ &gt; 踏上冒险、家庭、意外惊喜和宠物的过山车生活！ 想走家庭道路、开始事业，还是冒险冒险？ 在这款游戏中，玩家可以在人生的曲折中做出自己精彩的选择. 在游戏板上移动汽车代币，从 Start 到 Retirement，体验与家庭、事业和其他人生里程碑相关的意外惊喜. 玩家可以在此版本的 The Game of Life 游戏中收养宠物. 游戏结束时钱多的玩家获胜！
 &gt; 需要成人组装.
 &gt; 这个棋盘游戏也有数字应用版本.
 
@@ -1079,7 +1079,7 @@
 
 ### [Battleship](https://board-games-galore.fandom.com/wiki/Battleship)
 
- &gt; 在这个两人战略游戏中，玩家秘密地将他们的船只排列在一个字母和编号为 10x10 的网格上，然后尝试定位并摧毁对手的舰队. 每个玩家有两个网格. 一个网格用于放置您自己的船只并跟踪对您的攻击，而第二个网格用于标记针对您对手的攻击. 通过调用网格的一个情节点轮流射击. 如果命中没有击中船只，则视为未命中并与白色碎片挂钩. 如果命中与船只接触，则该打击将与红色挂钩. 每种船只在沉没之前可以承受的撞击次数是不同的. 经过一些初步的探索性射击后，您可能会开始找出对手船只的位置并开始进行致命一击. 这是公海上的战斗！
+ &gt; 在这个两人战略游戏中，玩家秘密地将他们的船只排列在一个字母和编号为 10x10 的网格上，然后尝试定位并摧毁对手的舰队. 每个玩家有两个网格. 一个网格用于放置您自己的船只并跟踪对您的攻击，而第二个网格用于标记针对您对手的攻击. 通过调用网格的一个情节点轮流射击. 如果命中没有击中船只，则视为未命中并与白色碎片挂钩. 如果命中与船只接触，则该打击将与红色挂钩. 每种船只在沉没之前可以承受的撞击次数是不同的. 在进行了一些初步的探索性射击之后，您可能会开始找出对手船只的位置并开始进行致命一击. 这是公海上的战斗！
 
 ![Battleship image](https://cf.geekdo-images.com/dUh-sb2V8CyDjBDvwzf-qg__itemrep/img/_U6cCRlORa_Ex4emUsVXE77bCbo=/fit-in/246x300/filters:strip_icc()/pic1293566.jpg)
 
@@ -1097,8 +1097,20 @@
 | ------: | -------: | -----: |
  |  2 - 6 |  5 |  20-30m |
 
+
+### [Ayoayo](https://en.wikipedia.org/wiki/Ayoayo)
+
+ &gt; Ayoayo（约鲁巴语：Ayò Ọlọ́pọ́n）是尼日利亚约鲁巴人演奏的传统曼卡拉. 它与随着大西洋奴隶贸易传播到美洲的Oware游戏非常接近. 在最常源自 Warri 的现代曼卡拉中，Kalah 是一个著名的曼卡拉，其规则与 Ayoayo 基本相同.
+ &gt; 非洲其他地区也有规则相同的游戏. 肯尼亚和坦桑尼亚的马赛人玩的 Endodoi 游戏就是其中之一.
+
+![Ayoayo image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Ayo_%28Olopon%29_game.jpg/180px-The_Ayo_%28Olopon%29_game.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  2 |  8 |  15-30m |
+
 ## Contribute
 
-欢迎和鼓励贡献！ 首先阅读[贡献指南][contrib-guide].
+Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
 
 [贡献指南]：贡献.md

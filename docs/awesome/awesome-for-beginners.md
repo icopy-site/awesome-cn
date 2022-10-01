@@ -49,10 +49,6 @@
 
 - [LightTable](https://github.com/LightTable/LightTable)  _（标签：好第一期）_<br> 下一代代码编辑器！  KickStarter 上资金最多的项目之一.
 
-## CSS
-
-- [sButtons](https://github.com/shahednasser/sbuttons)  _（标签：好第一期）_<br> 可以轻松用于下一个项目的简单按钮.
-
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www)  _（标签：初学者）_<br> 一个涵盖 Dart 语言和通用库的网站，面向 Dart 库、Web 应用程序、服务器端代码和移动 (Flutter) 应用程序的开发人员.
@@ -97,7 +93,7 @@
 - [Strongbox](https://github.com/strongbox/strongbox)  _（标签：好第一期）_<br>  Strongbox 是一个用 Java 编写的工件存储库管理器.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates)  _（标签：好第一期）_<br>  TEAMMATES 是一个免费的在线工具，用于管理学生的同行评估和其他反馈路径.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino)  _（标签：好第一期）_<br> 用于大数据的分布式 SQL 查询引擎. 寻求有关项目 Slack 的指导.
-- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good-first-issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
+- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons)  _（标签：好第一期）_<br> 允许用户从他们的安卓手机/平板电脑上传图片到维基共享资源.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding)  _（标签：不适用）_<br>  XWiki 是一个用 Java 编写的免费 wiki 软件平台，其设计重点是可扩展性. 初学者应遵循入门 wiki.
 - [zerocode](https://github.com/authorjapps/zerocode)  _（标签：好第一期）_<br> 无需编码的 API 自动化，简单的 JSON 响应断言，测试 REST、SOAP、Kafka 和 Java/DB API，CI/Jenkins 友好.
 
@@ -151,7 +147,7 @@
 - [PouchDB](https://github.com/pouchdb/pouchdb)  _（标签：需要帮助）_<br>  PouchDB 是一个袖珍型数据库.
 - [Predator](https://github.com/Zooz/predator)  _（标签：好第一期）_<br> 用于负载测试 API 的强大开源平台.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct)  _（标签：需要帮助）_<br>  Ramda Adjunct 是用于 Ramda 的最流行和最全面的功能实用程序集，提供各种有用的、经过良好测试的功能和出色的文档.
-- [React](https://github.com/facebook/react)  _（标签：好第一期）_<br> 用于构建用户界面的声明式、高效且灵活的 JavaScript 库.
+- [React](https://github.com/facebook/react) _(label: good-first-issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [React Help Create](https://github.com/Omar-Belghaouti/react-help-create)  _（标签：仅限初学者）_<br> 这个命令行可以帮助你为你的 react 项目创建组件、页面甚至是 redux 实现.
 - [React Native](https://github.com/facebook/react-native)  _(label: Good-first-issue)_<br> 使用 React 构建本机应用程序的框架.
 - [React server](https://github.com/redfin/react-server)  _（标签：良好的第一贡献）_<br> 带有服务器渲染的 React 框架可实现极快的页面加载和浏览器中页面之间的无缝转换.
@@ -214,20 +210,20 @@
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R)  _（标签：不适用）_<br> 为维基百科提供支持的免费开源 wiki 软件包.
 - [NextCloud Server](https://github.com/nextcloud/server)  _（标签：好第一期）_<br>  Nextcloud 服务器，所有数据的安全之家.
 - [OrgManager](https://github.com/orgmanager/orgmanager)  _（标签：仅限初学者）_<br> 为您的 GitHub 组织增压！
-- [PHP Censor](https://github.com/php-censor/php-censor)  _（标签：适合初学者）_<br> 用于 PHP 项目的开源自托管持续集成服务器.
+- [PHP Censor](https://github.com/php-censor/php-censor) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin)  _（标签：新手）_<br> 用 PHP 编写的 MySQL 管理界面.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop)  _（标签：好第一期）_<br> 用于开始您的在线业务并开始在线销售的开源电子商务解决方案.
 - [Symfony](https://github.com/symfony/symfony)  _（标签：好第一期）_<br>  Symfony 是一个用于 Web 应用程序的 PHP 框架和一组可重用的 PHP 组件.
 
 ## Python
 
-- [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
+- [Ansible](https://github.com/ansible/ansible)  _（标签：easyfix）_<br> 一个简单的 IT 自动化平台
 - [ArviZ](https://github.com/arviz-devs/arviz)  _（标签：初学者）_<br> 贝叶斯模型的探索性分析.
 - [Bokeh](https://github.com/bokeh/bokeh)  _（标签：好第一期）_<br>  Bokeh 是一个用于现代 Web 浏览器的交互式可视化库.
 - [BorgBackup](https://github.com/borgbackup/borg)  _（标签：简单）_<br> 使用压缩和经过身份验证的加密对备份程序进行重复数据删除.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki)  _（标签：好第一期）_<br> 为互联网时代建设更好的民主
 - [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee)  _（标签：不适用）_<br> 一个统一的命令行界面，用于检查和修复所有代码，无论您使用哪种编程语言.
-- [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+- [Colossal-AI](https://github.com/hpcaitech/ColossalAI)  _（标签：好第一期）_<br> 一种用于大规模模型训练和推理的高效、低成本的开源深度学习系统.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter)  _（标签：好第一期）_<br> 从 cookiecutters（项目模板）创建项目的命令行实用程序. 例如 Python 包项目、jQuery 插件项目.
 - [Create aio app](https://github.com/aio-libs/create-aio-app)  _（标签：好第一期）_<br> 使用最佳实践创建 aiohttp 模板的命令行实用程序.
 - [datascience](https://github.com/data-8/datascience)  _（标签：好第一期）_<br> 用于介绍数据科学的 Jupyter 笔记本 Python 库.
@@ -243,7 +239,7 @@
 - [matplotlib](https://github.com/matplotlib/matplotlib)  _（标签：好第一期）_<br>  Matplotlib 是一个综合库，用于在 Python 中创建静态、动画和交互式可视化.
 - [MindsDB](https://github.com/mindsdb/mindsdb)  _（标签：好第一期）_<br>  MindsDB 是现有数据库的开源 AI 层.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy)  _（标签：需要帮助）_<br> 一个交互式的支持 TLS 的拦截 HTTP 代理，供渗透测试人员和软件开发人员使用
-- [mygpo](https://github.com/gpodder/mygpo)  _（标签：入门问题）_<br>  gpodder.net 的网络服务，这是一个自由网络服务，允许用户管理他们的播客订阅和发现新内容.
+- [mygpo](https://github.com/gpodder/mygpo)  _（标签：启动问题）_<br>  gpodder.net 的 web 服务，这是一个自由的 web 服务，允许用户管理他们的播客订阅和发现新内容.
 - [mypy](https://github.com/python/mypy)  _（标签：好第一期）_<br>  python的可选静态类型.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata)  _（标签：好第一期）_<br>  OpenMetadata 是一个用于数据发现、数据质量、可观察性、治理、数据沿袭和团队协作的一体化平台.
 - [opsdroid](https://github.com/opsdroid/opsdroid)  _（标签：好第一期）_<br> 一个开源聊天操作机器人框架.
@@ -309,7 +305,7 @@
 ## TypeScript
 
 - [Amplication](https://github.com/amplication/amplication)  _（标签：好第一期）_<br>  Amplication 是一个开源开发工具. 它可以帮助您开发高质量的 Node.js 应用程序，而无需花费时间在重复的编码任务上.
-- [Booster](https://github.com/boostercloud/booster)  _（标签：好第一期）_<br> 真正的无服务器框架，无需任何服务器配置文件即可在几秒钟内编写并部署代码.
+- [Booster](https://github.com/boostercloud/booster) _(label: good-first-issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [game-of-life](https://github.com/TroyTae/game-of-life)  _（标签：好第一期）_<br> 康威的生命游戏网页版！
 - [Graphback](https://github.com/aerogear/graphback)  _（标签：好第一期）_<br> 一个 CLI 和运行时框架，可在几秒钟内生成 GraphQL API.
 - [H2O Wave](https://github.com/h2oai/wave)  _（标签：好第一期）_<br> 适用于 Python 和 R 的实时 Web 应用程序和仪表板框架.适合（不仅）AI 受众.
@@ -331,7 +327,7 @@
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉·安德拉德</b></sub></td></tr></table>
+<table><tr><td align="center"><a href="https://raw.githubusercontent.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>塔玛拉安德拉德</b></sub></td></tr></table>
 
 ## License
 

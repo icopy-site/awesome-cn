@@ -79,7 +79,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) - 使用 Gatsby 将您的 Firebase 数据直接查询到静态生成的页面中.
 - [Apollo Link Firebase](https://github.com/Canner/apollo-link-firebase)  - 为 RealtimeDB 提供本地 GraphQL 接口.  DB 在本地同步到设备，Apollo Link 提供对本地 DB 的查询.
 - [BuckleScript Bindings for Firebase](https://github.com/avohq/bs-firebase) - 在 ReasonML 项目中使用的 Firebase 的 BuckleScript 绑定.
-- [Angular Firebase PWA](https://github.com/codediodeio/angular-firestarter)  - 是由 Firebase 提供支持的 Angular PWA. 它可以作为学习此堆栈和推出更复杂功能的基础.
+- [Angular Firebase PWA](https://github.com/codediodeio/angular-firestarter) - Is an Angular PWA powered by Firebase. It can serve as a foundation to learn this stack and roll out more complex features.
 - [FireSQL](https://github.com/jsayol/FireSQL)  - 使用 SQL 语法查询 Firestore. 发出获取您请求的数据所需的最少查询量.
 - [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) - 自动删除旧版本的站点部署.
 - [Firestorter](https://github.com/IjzerenHein/firestorter) - 在 React 中使用 Firestore 零努力，使用 MobX（也适用于 react-native）.
@@ -87,8 +87,9 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [Typesaurus](https://github.com/kossnocorp/typesaurus) - Firestore 的类型安全 TypeScript-first ODM.
 - [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase 支持多平台项目（`ios`、`android` 和 `js`）.
 - [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - 使用 Firebase Firestore 进行基于位置的查询和过滤.
-- [FirelordJS](https://github.com/tylim88/FirelordJS) - Firestore Web 的超高精度 Typescript 包装器.
+- [FirelordJS](https://github.com/tylim88/FirelordJS)  - Firestore Web 的超高精度 Typescript 包装器.  ([Admin version](https://github.com/tylim88/Firelord))
 - [FireSageJS](https://github.com/tylim88/FireSageJS) - 实时数据库 Web 的极端类型安全.
+- [FireSword](https://github.com/tylim88/FireSword)  - 递归过滤 Firestore 和 RTDB 未知键或数据类型不正确的键，支持所有字段值和特殊数据类型.  （对于网络和管理员）
 
 ## Mobile
 
@@ -174,7 +175,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [Flamelink](https://flamelink.io/)  - Firebase 的 CMS. 支持 Firestore、RealtimeDatabase 和存储.
 - [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - 所有 Firebase 峰会 2018 会谈.
 - [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - 所有 Firebase 会谈 @ Google Cloud Next 2018.
-- [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
+- [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - 所有 Firebase 会谈 @ Google IO 2018.
 - [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 - [State of Firebase (mid 2019)](https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70) - Cloud Next 和 Google I/O 2019 更新！
 - [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) - 所有 Firebase 讲座 @ Google IO 2019.
