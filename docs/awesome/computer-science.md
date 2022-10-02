@@ -42,11 +42,11 @@ OSSU 课程是使用在线材料的**完整的计算机科学教育**.
 
  **组织**. 课程设计如下：
 - *介绍 CS*：让学生尝试 CS，看看它是否适合他们
-- *Core CS*：大致相当于计算机科学课程的前三年，参加所有专业都必须参加的课程
+- *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take
 - *Advanced CS*：大致相当于计算机科学课程的最后一年，根据学生的兴趣选修
 - *期末项目*：一个供学生验证、巩固和展示他们的知识的项目，供他们在世界各地的同龄人评估
 
- **期间**. 如果您仔细计划并每周投入大约 20 小时的学习时间，则可以在大约 2 年内完成学业. 学习者可以使用 [this spread
+ **期间**. 如果您仔细计划并每周投入大约 20 小时的学习时间，则可以在大约 2 年内完成学业. 学习者可以使用 [此电子表格
  ]（https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy）来估计他们的结束日期. 制作副本并在“时间线”表中输入您的开始日期和每周预计小时数. 当您完成课程时，您可以在“课程数据”表中输入您的实际课程完成日期，并获得更新的完成估计.
 
  **成本**. 所有或几乎所有课程材料都免费提供. 但是，某些课程可能会为要评分的作业/测试/项目收费.
@@ -140,7 +140,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 课程 | 持续时间 | 努力 | 先决条件 | 讨论
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)  |  7 周 |  8-10 小时/周 | 没有 | [chat](https://discord.gg/RfqAmGJ)
-[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm)
+[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)  |  6 周 |  8-10 小时/周 | 如何编码：简单数据 | [chat](https://discord.gg/kczJzpm)
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5 周 |  4-8 小时/周 | 如何编码 ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3 周 |  4-8 小时/周 | 编程语言，A 部分 | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3 周 |  4-8 小时/周 | 编程语言，B 部分 | [chat](https://discord.gg/8EZUVbA)
@@ -203,7 +203,7 @@ How to Code 课程以教科书为基础 [How to Design Programs](https://htdp.or
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/) ) |  6 周 |  7-13 小时/周 |  - | 类C编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6 周 |  12-18 小时/周 |  - | 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从 Nand 到俄罗斯方块第一部分 [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)  |  10-12 周 |  6-10 小时/周 |  - | 强大的C编程| [chat](https://discord.gg/wZNgpep)
+[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)  |  10-12 周 |  6-10 小时/周 |  - | [strong C programming](/https://github.com/ossu/computer-science/blob/masterhttps://github.com/ossu/computer-science/blob/master//coursepages/ostep/README.md#prerequisites) | [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  8 周 |  4–12 小时/周 | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)  | 代数、概率、基础 CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
@@ -432,7 +432,7 @@ or
 并获得倾听反馈的经验——无论是正面的还是负面的.
 
 最终项目评估有第二个目的：评估 OSSU、
-通过其社区和课程，成功地完成了指导独立学习者获得世界一流的计算机科学教育的使命.
+通过其社区和课程，成功地完成了指导独立学习者获得世界级计算机科学教育的使命.
 
 ### Cooperative work
 
@@ -472,7 +472,7 @@ or
 1. 复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登入您的个人帐户.
 了解如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
-现在您已经有了我们的官方板的副本，您只需在学习过程中将卡片传递到“正在做”列或“完成”列.
+现在您已经拥有了我们的官方版块，您只需在学习过程中将卡片传递到“Doing”列或“Done”列.
 
 我们还提供**标签**，以帮助您更好地控制整个过程.
 每个标签的含义是：
@@ -486,7 +486,7 @@ or
 那些带有“Section”标签的卡片只是为了帮助组织完成列.
 您应该将 *Course&#39;s cards* 放在其各自的 *Section&#39;s card* 下方.
 
-该板的目的是为我们的学生提供一种跟踪他们的进步的方式，以及通过朋友、家人、雇主等的公共页面展示他们的进步的能力.
+该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们的进步的能力.
 您可以将董事会的状态更改为 *public* 或 *private*.
 
 ## Team

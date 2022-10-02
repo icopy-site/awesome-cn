@@ -29,8 +29,9 @@
 - [SimpleLocalize](https://simplelocalize.io) - 软件项目的简单翻译管理.
 - [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接传递到您的源代码.
 - [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
-- [Tolgee](https://tolgee.io) - 开源、开发人员和翻译友好的平台，使用户能够直接在他们开发的应用程序中进行翻译.
+- [Tolgee](https://tolgee.io) - 开源、开发人员和翻译人员友好的平台，使用户能够直接在他们开发的应用程序中进行翻译.
 - [Lokalise](https://lokalise.com/) - 开发人员的翻译平台.
+- [Locize](https://locize.com/) - 持续的本地化管理平台，为您的开发和翻译提供动力.
 
 ## Apps
 
@@ -60,12 +61,13 @@
 - [Bergamot](https://github.com/browsermt) - 浏览器中的客户端翻译.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python 国际化 (i18n) 包.
 - [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - 旨在帮助团队轻松本地化网站的技术.
-- [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+- [attranslate](https://github.com/fkirc/attranslate) - 用于跨平台应用程序或网站的半自动翻译工具.
 - [Polyglot](https://github.com/untra/polyglot) - Jekyll 博客的快速、轻松、开源的国际化插件.
 - [Globalize](https://github.com/globalizejs/globalize) - 利用官方 Unicode CLDR JSON 数据进行国际化和本地化的 JavaScript 库.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - 用于在项目文件中查找翻译键的 CLI.
 - [Moment.js](https://momentjs.com/) - 在 JavaScript 中解析、验证、操作和显示日期和时间.
 - [WPML](https://wpml.org/) - 一个 WordPress 插件，允许通过单个 WordPress 安装运行多语言网站.
+- [FormatJS](https://formatjs.io/) - 用于国际化的 JavaScript 库的模块化集合，专注于格式化数字、日期和字符串以显示给人们.
 
 ## Articles
 
@@ -83,13 +85,14 @@
 - [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - 什么是“hreflang”属性以及它如何影响您的 SERP.
 - [In context translation with Respresso](https://blog.respresso.io/index.php/2020/06/22/in-context-translation-with-respresso/)  - 实时预览翻译在您的移动应用程序或网络中的外观. 无需等待下一次部署.
 - [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - 关于来自 Crowdin 的 l10n 和 I18n 之间区别的博客文章.
+- [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - 关于 ASP.NET Core 中的全球化和本地化的文章.
 
 ## Blogs
 
-- [Speakt](https://speakt.com/blog/) - 全面的资源，提供业内最优秀的专业人士提供的有关翻译相关一切的深入信息.
+- [Speakt](https://speakt.com/blog/) - 全面的资源，提供业内最优秀的专业人士提供的有关翻译的所有方面的深入信息.
 - [Lexico](https://www.lexico.com/)  - 提供英语和西班牙语词典的集合，以及对许多单词和语言的好奇心（在“探索”部分）. 它由牛津大学出版社出版.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - 包含适合初学者翻译的好技巧.
-- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家运营. 您可以收听包含他们对自由译者工作的提示和意见的音频文件.
+- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家运营. 您可以收听音频文件，其中包含他们对自由译者工作的提示和意见.
 - [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德英译者 Jayne Fox 经营. 它讨论了翻译人员的持续专业发展 (CPD) 以及使用技术（尤其是 CAT 工具/TEnT）来支持他们的工作.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - 对本地化管理、协作翻译平台、翻译管理系统、机器翻译以及本地化行业的最大参与者进行了极其详细的描述和意见.
 
@@ -106,7 +109,7 @@
 
 - [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information)  - 建立 NLP 和统计学的背景，然后将基础知识发展到当前的研究. 最终读者可以建立自己的翻译系统. 作者是 [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 - [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information)  - 机器翻译介绍从神经网络方法的基础开始，达到最先进的水平，同时提供历史、语言和应用背景.  Python 中的代码示例为实现提供了动手蓝图. 作者仍然是Philipp Koehn.
-- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8)  - 从各种语言和文化角度介绍翻译的理论和实践. 作者是 [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) 和 [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
+- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory 和 practice of translation from a variety of linguistic 和 cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) 和 [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
 ## Other
 
@@ -116,6 +119,8 @@
 - [Pontoon](https://pontoon.mozilla.org/) - 各种 Mozilla 本地化项目.
 - [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - IBM Cloud 上的一项服务，支持动态翻译新闻、专利或会话文档.
 - [Project Fluent](https://projectfluent.org) - 旨在释放自然语言翻译的全部表达能力的本地化范例.
+- [ICU - International Components for Unicode](https://icu.unicode.org/) - 一套成熟的、广泛使用的 C/C++ 和 Java 库，为软件应用程序提供 Unicode 和全球化支持.
+- [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Django 文档的一部分，专注于国际化和本地化.
 
 ## Contributing
 

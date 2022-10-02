@@ -50,7 +50,7 @@
 * [jsonapi-rb](http://jsonapi-rb.org) – 高效便捷的 JSON API（反）序列化库.
 * [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) - 用于 Ruby 对象的快速 JSON:API 序列化程序.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) - JSONAPI::Resources，或“JR”，提供了一个用于开发符合 JSON API 规范的服务器的框架.
-* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils 建立在 JSONAPI::Resources 之上，利用其资源驱动风格，并提供了一种构建现代 JSON API 的简单方法，无需或更少学习曲线.
+* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils 建立在 JSONAPI::Resources 之上，利用其资源驱动的风格，并提供了一种简单的方法来构建现代 JSON API，没有或更少的学习曲线.
 * [Jsonite](https://github.com/crepe/jsonite) - 一个小型的、符合 HAL 标准的 JSON 呈现器，用于您的 API.
 * [Pliny](https://github.com/interagent/pliny) - 有意见的模板 Sinatra 应用程序，用于在 Ruby 中编写出色的 API.
 * [rabl](https://github.com/nesquena/rabl) - 具有 json、bson、xml、plist 和 msgpack 支持的通用 ruby​​ 模板.
@@ -167,7 +167,7 @@
 * [Awesome Print](https://github.com/awesome-print/awesome_print) - 漂亮地打印您的 Ruby 对象 - 全彩和适当的缩进
 * [Betty](https://github.com/pickhardt/betty)  - 友好的类似英语的命令行界面. 不记得命令？ 问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加具有设置文本颜色、背景颜色和文本效果的方法的 ColorizedString.
-* [colorls](https://github.com/athityakumar/colorls) - 美化了 `ls` 命令，带有颜色和字体很棒的图标.
+* [colorls](https://github.com/athityakumar/colorls) - 美化了`ls`命令，带有颜色和字体很棒的图标.
 * [formatador](https://github.com/geemus/formatador) - STDOUT 文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置 ANSI 终端颜色的简单快捷方式.
 * [Pastel](https://github.com/peter-murach/pastel) - 具有直观和干净 API 的终端输出样式.
@@ -373,6 +373,7 @@
 * [business_time](https://github.com/bokmann/business_time) - 支持在工作时间和工作日进行时间数学.
 * [ByStar](https://github.com/radar/by_star) - 按年、月、两周、周等查找 ActiveRecord 对象！
 * [Chronic](https://github.com/mojombo/chronic) - 用纯 Ruby 编写的自然语言日期/时间解析器.
+* [date_range_formatter](https://github.com/darkleaf/date_range_formatter) - 使在 Ruby 中处理日期范围变得更加愉快的简单工具. 
 * [groupdate](https://github.com/ankane/groupdate) - 在 ActiveRecord、数组和哈希中对时间数据进行分组的最简单方法.
 * [holidays](https://github.com/holidays/holidays) - 处理法定和其他假期的 Ruby 方法集合.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - 一个日期重复库，可以轻松创建重复规则和快速查询.
@@ -442,7 +443,7 @@
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) - 每周一次关于编程的小组讨论，主要使用 Ruby.
 * [Ruby Weekly](https://rubyweekly.com/) - 每周一次的免费电子邮件汇总 Ruby 新闻和文章.
 * [The Ruby Bibliography](https://rubybib.org) - 关于 Ruby 的研究论文.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) - Ruby 和 Rails 插件、gem、工具和资源的综合目录，为 Ruby 开发人员提供基于 GitHub 观察者和 Gem 下载的流行度评级.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) - Ruby 和 Rails 插件、gem、工具和资源的综合目录，基于 GitHub 观察者和 Gem 下载的流行度评级，供 Ruby 开发人员使用.
 
 ## Documentation
 
@@ -634,7 +635,7 @@
 
 * [Accept Language](https://github.com/cyril/accept_language.rb) - 一个用于从浏览器解析“Accept-Language”标头的小型库（定义见 [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 * [excon](https://github.com/excon/excon)  - 可用、快速、简单的 Ruby HTTP 1.1. 它作为通用 HTTP(s) 客户端工作得很好，特别适合在 API 客户端中使用.
-* [Faraday](https://github.com/lostisland/faraday) - 一个 HTTP 客户端库，它在许多适配器（例如 Net::HTTP）上提供一个通用接口，并在处理请求/响应周期时包含 Rack 中间件的概念.
+* [Faraday](https://github.com/lostisland/faraday) - 一个 HTTP 客户端库，它为许多适配器（例如 Net::HTTP）提供一个通用接口，并在处理请求/响应周期时包含 Rack 中间件的概念.
 * [Device Detector](https://github.com/podigee/device_detector) - 精确快速的用户代理解析器和设备检测器，由最大和最新的用户代理数据库提供支持.
 * [Http Client](https://github.com/nahi/httpclient) - 在 Ruby 中提供类似于 libwww-perl (LWP) 的功能.
 * [HTTP](https://github.com/httprb/http) - HTTP Gem：用于发出 HTTP 请求的简单 Ruby DSL.
@@ -832,7 +833,7 @@
   * [Unread](https://github.com/ledermann/unread) - 管理 ActiveRecord 对象的已读/未读状态 - 而且速度很快.
 * 排序
   * [ActsAsList](https://github.com/swanandp/acts_as_list) - 提供对列表中的多个对象进行排序和重新排序的功能.
-  * [ranked-model](https://github.com/mixonic/ranked-model)  - ActiveRecord 的现代行排序库. 它积极地使用 ARel，并且比大多数其他库都得到了更好的优化.
+  * [ranked-model](https://github.com/mixonic/ranked-model)  - ActiveRecord 的现代行排序库. 它积极地使用 ARel，并且比大多数其他库进行了更好的优化.
 * 树
   * [ActsAsTree](https://github.com/amerine/acts_as_tree) - 扩展 ActiveRecord 以添加对将项目组织成父子关系的简单支持.
   * [Ancestry](https://github.com/stefankroes/ancestry) - 使用物化路径模式的变体将 ActiveRecord 模型组织成树结构.
