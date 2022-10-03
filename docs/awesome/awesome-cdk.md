@@ -41,7 +41,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 ### Ops
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK 组件，它使用 CloudWatch 规则创建实例以在一天结束时停止它.
-* [cdk-time-bomb](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct 可在一定时间后内爆您的 AWS CDK 堆栈.
+* [cdk-time-bomb](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
 
 ### Queue
 
@@ -117,7 +117,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 * [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset) - 构建 lambda 函数并生成具有依赖关系的 ZIP 文件的 CDK 资产.
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) - 关于 CDK 和最佳实践的开源指南.
 * [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk) - 使用 Fargate 和 Appmesh 的优秀示例项目.
-* [CDK Patterns](https://github.com/cdk-patterns/serverless) - An opensource collection of serverless architecture patterns built with CDK.
+* [CDK Patterns](https://github.com/cdk-patterns/serverless) - 使用 CDK 构建的无服务器架构模式的开源集合.
 * [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - 这 [cra-pipeline](https://github.com/sbstjn/cra-pipeline) GitHub 上的项目展示了使用 AWS CodeBuild 部署静态 React 应用程序的 AWS CodePipeline.
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - 这 [cra-serverless](https://github.com/sbstjn/cra-serverless) 项目是一个无服务器架构，用于向使用创建的 React 网站添加预渲染 [create-react-app](https://create-react-app.dev).
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) - 部署一个功能性公共 API，接收 HTML 表单（例如 /contact_us.html）POST 请求并将其数据传递给 Pushover 通知服务.
@@ -150,7 +150,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 * [tecRacer Amazon AWS Blog](https://aws-blog.de/tags/cdk.html) - Gernot Glawe 来自 aws-blog.de 的几篇博客文章.
 * [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) - 通过 ClouderDex.
 * [GitHub Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) - 通过 ClouderDex.
-* [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html) “这是一条雾鱼.”
+* [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html) - 这是一条雾鱼.
 * [Using the CDK to probe multiple accounts (sfn/lambda/sqs/sechub)](https://fudless.xyz/aws/seedecay/) - 博客文章来自 [fudless.xyz](https://fudless.xyz).
 * [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) - 马腾·托伦.
 * [GitHub Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) - 马腾·托伦.
@@ -171,6 +171,7 @@ AWS 云开发工具包 (AWS CDK) 是一个开源软件开发框架，用于在�
 * [jsii](https://github.com/awslabs/jsii) - JavaScript 互操作接口，CDK 用于创建语言绑定的技术（目前支持 .NET、Java 和 Python）.
 * [cdk8s](https://github.com/awslabs/cdk8s/) - 使用面向对象编程定义 Kubernetes 原生应用程序和抽象.
 * [cdktf](https://github.com/hashicorp/terraform-cdk) - 使用编程结构定义基础设施资源并使用 HashiCorp Terraform 进行配置.
+* [cdktg](https://github.com/hupe1980/cdk-threagile) - 敏捷威胁建模即代码.
 
 ## Tips & Tricks
 

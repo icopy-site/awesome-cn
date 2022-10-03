@@ -28,7 +28,7 @@
 - [Pinoccio](https://www.open-electronics.org/pinoccio-wifi-mesh-networking-for-arduino-and-iot-available-now/) - Pinoccio 是一种为所有物联网设备添加网状网络功能和 WiFi-Internet 访问的解决方案，它与 Arduino 兼容.
 - [Raspberry Pi](https://www.raspberrypi.org/)  - Raspberry Pi 是一款低成本、信用卡大小的计算机，可插入计算机显示器或电视，并使用标准键盘和鼠标. 它能够完成您期望台式计算机完成的所有工作，从浏览互联网和播放高清视频，到制作电子表格、文字处理和玩游戏.
 - [Tessel](https://tessel.io/)  - Tessel 是一个完全开源和社区驱动的物联网和机器人开发平台. 它包含开发板、硬件模块插件以及在其上运行的软件.
-- [UDOO](http://www.udoo.org) - UDOO is a single-board computer with an integrated Arduino 2 compatible microcontroller, designed for computer science education, the world of Makers and the Internet of Things.
+- [UDOO](http://www.udoo.org) - UDOO 是一款集成了 Arduino 2 兼容微控制器的单板计算机，专为计算机科学教育、创客世界和物联网而设计.
 
 ### Software
 
@@ -39,7 +39,7 @@
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - **注意：Android Things 已贬值.** Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置并与彼此以及您的智能手机无缝协作. 
- - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，足够小以适应家庭路由器中有限的存储空间和内存.
+ - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，小到足以适应家庭路由器中有限的存储空间和内存.
  - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy)  - Snappy Ubuntu Core 是带有事务更新的 Ubuntu 新版本. 它提供了一个最小的服务器映像，其中包含与今天的 Ubuntu 相同的库，但应用程序是通过更简单的机制提供的.
  - [Mbed OS](https://os.mbed.com/)  - 物联网 (IoT) Cortex-M 板的开源操作系统：低功耗、受限和连接.  Mbed OS 为其运行的微控制器提供了一个抽象层，因此开发人员可以编写在任何支持 Mbed 的板上运行的 C/C++ 应用程序.
  - [NodeOS](http://node-os.com/) - NodeOS 是一个完全用 Javascript 编写的操作系统，由 npm 在 Linux 内核之上管理.
@@ -58,7 +58,7 @@
  - [C++](https://en.wikipedia.org/wiki/C%2B%2B)  - 一种通用编程语言. 它具有命令式、面向对象和通用编程特性，同时还提供了低级内存操作的工具.
  - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉且易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
  - [Lua](http://www.lua.org/)  - Lua 是一种强大、快速、轻量级、可嵌入的脚本语言.  Lua 是动态类型的，通过解释基于寄存器的虚拟机的字节码运行，并具有自动内存管理和增量垃圾收集，使其成为配置、脚本和快速原型设计的理想选择.
- - [eLua](http://www.eluaproject.net/) - eLua 代表 Embedded Lua，该项目为嵌入式世界提供 Lua 编程语言的完整实现，并通过特定功能对其进行扩展，以实现高效和可移植的软件嵌入式开发.
+ - [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
  - [ELFE](http://c3d.github.io/elfe/)  - ELFE 是一种非常简单且小型的编程语言. 虽然它是一种通用编程语言，但它经过专门调整以促进对传感器或执行器等小型设备群的配置和控制.
  - [MicroPython](https://docs.micropython.org/) - 用于微控制器和受限系统的精简高效的 Python 实现
  - [PharoThings](https://github.com/pharo-iot/PharoThings) - 基于物联网项目的实时编程平台 [Pharo](https://pharo.org/) （一种纯面向对象的编程语言和强大的环境，专注于简单性和即时反馈）.
@@ -84,8 +84,8 @@
  - [OpenHAB](http://www.openhab.org/)  - openHAB 运行时是一组部署在 OSGi 框架 (Equinox) 上的 OSGi 包. 因此，它是一个纯 Java 解决方案，需要 JVM 才能运行. 基于 OSGi，它提供了高度模块化的架构，甚至允许在运行时添加和删除功能而无需停止服务.
  - [Gobot](http://gobot.io/) - Gobot 是一个用于机器人、物理计算和物联网的框架，用 Go 编程语言编写.
  - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant 是一个在 Python 3 上运行的家庭自动化平台.Home Assistant 的目标是能够跟踪和控制家中的所有设备，并提供一个用于自动化控制的平台.
- - [Lightweight MQTT Machine Network](http://lwmqn.github.io/)  - LWMQN是一个开源项目，遵循OMA LWM2M v1.0规范的一部分，使用基于IP的智能对象模型来满足机器网络管理的最低要求. 它提供了服务器端和机器端库，使使用 JavaScript 和 Node.js 进行全栈 IoT 开发成为可能. 参见：IPSO 联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
- - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - 开源物联网网关 - 使用 OPC-UA 和 MQTT 协议将连接到旧系统和第三方系统的设备与 Thingsboard 物联网平台集成.
+ - [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
+ - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
  - [Pimatic](https://pimatic.org/)  - Pimatic 是一个在 node.js 上运行的家庭自动化框架. 它为家庭控制和自动化任务提供了一个通用的可扩展平台.
  - [IOTA](https://iota.org/)  - 用于物联网的开源分布式账本协议. 使用有向无环图 (DAG) 而不是区块链.
  - [MyController](https://github.com/mycontroller-org/mycontroller)  - 开源控制器.  MyController.org 是一个物联网自动化控制器，适用于家庭、办公室或任何地方.
@@ -141,7 +141,7 @@
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button 是一款连接 Wi-Fi 的设备，只需按一下按钮即可重新订购您喜爱的商品.
  - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建器.
  - [Nebula](http://nebula.readthedocs.io) - 一个用于管理物联网设备的 docker 编排器.
- - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
+ - [Gladys](https://gladysassistant.com) - Gladys 是一个在树莓派上运行并集成到整个家庭网络系统中的开源程序.
  - [authBroker](https://github.com/authbroker/authbroker) - Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter，如 Aedes.
 ## Protocols and Networks
 
@@ -155,7 +155,7 @@
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BluetoothLogo.svg/770px-BluetoothLogo.svg.png" /> - [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) (Bluetooth Special Interest Group)
 
-Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization. - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth)
+蓝牙是一种无线技术标准，用于从固定和移动设备进行短距离数据交换（使用 ISM 频段 2.4 至 2.485 GHz 的短波长 UHF 无线电波），以及构建个人区域网络 (PAN). 它由电信供应商爱立信于 1994 年发明，最初被设想为 RS-232 数据电缆的无线替代品. 它可以连接多个设备，克服同步问题.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth)
 
 &gt; 蓝牙由蓝牙特别兴趣小组 (SIG) 管理，该组织在电信、计算、网络和消费电子领域拥有 25,000 多家成员公司.
 
@@ -172,7 +172,7 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
  &gt; EC-GSM-IOT网络试验已经开始，计划于2017年首次商用.在所有主要移动设备、芯片组和模块制造商的支持下，EC-GSM-IoT网络将与2G、3G和4G 移动网络. 它还将受益于所有安全和隐私的移动网络功能，例如支持用户身份机密性、实体认证、机密性、数据完整性和移动设备识别.
 
 
- LoRaWAN 广域网允许与连接对象进行低比特率通信，从而参与物联网、机器对机器 M2M 和智慧城市.  - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
+A LoRaWAN wide area network allows low bit rate communication from and to connected objects, thus participating to Internet of Things, machine-to-machine M2M, and smart city. - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
 
  &gt; 该技术由 LoRa 联盟标准化. 它最初由 Cycleo 开发，2012 年被 Semtech 收购.LoRaWAN 是 Long Range Wide-area network 的首字母缩写.
 
@@ -253,7 +253,7 @@ iBeacon 是 Apple 标准化的协议，并于 2013 年在 Apple 全球开发者�
 
  MQTT（以前称为 MQ Telemetry Transport）是一种基于发布-订阅的“轻量级”消息传递协议，用于在 TCP/IP 协议之上使用. 它专为与需要“小代码足迹”或网络带宽有限的远程位置的连接而设计.  - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
 
-> The publish-subscribe messaging pattern requires a message broker. The broker is responsible for distributing messages to interested clients based on the topic of a message. Andy Stanford-Clark and Arlen Nipper of Cirrus Link Solutions authored the first version of the protocol in 1999.
+ &gt; 发布-订阅消息模式需要消息代理. 代理负责根据消息的主题将消息分发给感兴趣的客户端.  Cirrus Link Solutions 的 Andy Stanford-Clark 和 Arlen Nipper 于 1999 年编写了该协议的第一个版本.
 
 
  PJON®（填充抖动操作网络）是一种与 Arduino 兼容的多主机多媒体网络协议. 它提出了一个标准，它被设计为一个框架并实现了一个完全软件模拟的网络协议栈，可以在许多架构上轻松交叉编译，如 ATtiny、ATmega、ESP8266、ESP32、STM32、Teensy、Raspberry Pi、Linux、Windows x86和苹果机器. 它是快速、全面地构建设备网络的有效工具. 访问 wiki 和文档以了解有关 PJON 标准的更多信息.
@@ -331,6 +331,10 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许工业环境语�
 #### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* [4.5]
 
  &gt; 这本书提供了关于设备如何使用 Ble 相互通信的可靠、高级概述. 您将学习有用的低成本工具来开发和测试支持 Ble 的移动应用程序和嵌入式固件，并获得使用各种开发平台的示例，包括适用于应用程序开发人员的 iO 和 Android，以及适用于产品设计师和硬件工程师的嵌入式平台.
+
+#### [IoT Inc: How Your Company Can Use the Internet of Things to Win in the Outcome Economy](https://www.amazon.com/IoT-Inc-Company-Internet-Outcome/dp/1260025896/ref=asc_df_1260025896/?tag=hyprod-20&linkCode=df0&hvadid=312243616995&hvpos=&hvnetw=g&hvrand=13286743199559517729&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014863&hvtargid=pla-332228957705&psc=1) (2017) *by [Bruce Sinclair](https://www.amazon.com/Bruce-Sinclair/e/B07258Z2L8/ref=dp_byline_cont_pop_book_1)* [4.6]
+
+ &gt; 本基本指南深入探讨了物联网——它是如何工作的以及它如何改变业务； 通过物联网的视角看待自己的业务、客户和竞争对手的方法，并深入了解如何制定和实施强大的物联网战略.
 
 #### [Smart Things: Ubiquitous Computing User Experience Design](http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992) (2010) *by [Mike Kuniavsky](http://www.amazon.com/Mike-Kuniavsky/e/B001K8LTGU/ref=dp_byline_cont_book_1)* [4.5]
 

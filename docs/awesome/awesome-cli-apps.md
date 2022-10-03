@@ -40,7 +40,7 @@
 - [moc](http://moc.daper.net/) - 适用于 Linux/UNIX 的控制台音频播放器.
 - [musikcube](https://github.com/clangen/musikcube) - 跨平台、基于终端的音乐播放器、音频引擎、元数据索引器和服务器.
 - [beets](https://github.com/beetbox/beets) - 音乐库管理器和标记器.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify 客户端.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify 歌词.
 - [dzr](https://github.com/yne/dzr) - deezer.com 播放器.
 
@@ -82,17 +82,22 @@
 
 ## Development
 
-- [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
-- [cgasm](https://github.com/bnagy/cgasm) - 提供 x86 汇编文档.
 - [legit](https://github.com/captainsafia/legit) - 将开源许可证生成为文件或文件头.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - 使用自定义信息轻松创建自定义许可证文件.
-- [rebound](https://github.com/shobrook/rebound) - 当您收到编译器错误时，Fetch Stack Overflow 会导致您的终端.
-- [bitwise](https://github.com/mellowcandle/bitwise) - ncurses 中的基础转换和位操纵器.
+- [rebound](https://github.com/shobrook/rebound) - 获取编译器错误时的堆栈溢出结果.
 - [foy](https://github.com/zaaack/foy) - 轻量级通用任务运行器/构建工具.
 - [just](https://github.com/casey/just) - 现代`make`-like命令运行器.
+- [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
+- [bitwise](https://github.com/mellowcandle/bitwise) - 基本转换和位操作.
+- [cgasm](https://github.com/bnagy/cgasm) - x86 汇编文档.
 - [grex](https://github.com/pemistahl/grex) - 从用户提供的测试用例生成正则表达式.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - GDB 的模块化可视化界面.
 - [iola](https://github.com/pvarentsov/iola) - 带有 REST API 的套接字客户端.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成 .gitignore.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查域是否已启动.
+- [reachable](https://github.com/italolelis/reachable) - 检查域是否已启动.
+- [loadtest](https://github.com/alexfernandez/loadtest) - 运行负载测试.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 从差异创建漂亮的 HTML.
 
 ### Text Editors
 
@@ -104,27 +109,12 @@
 - [o](https://github.com/xyproto/o) - 免配置文本编辑器和 IDE.
 - [helix](https://github.com/helix-editor/helix) - 受 kakoune 启发的模态编辑器.
 
-### Web Development
+### Frontend Development
 
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是否已启动.
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中删除注释.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
-- [surge](https://surge.sh) - 将目录部署到网络.
-- [loadtest](https://github.com/alexfernandez/loadtest)  - 对选定的 URL 运行负载测试. 易于为您自己的目的最小限度地扩展.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - 管理 WordPress 安装、更新插件、设置多站点安装等等.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将 git diff 解析为 JSON 并生成漂亮的 HTML.
-- [HTTPie](https://github.com/httpie/httpie) - 一个用户友好的 HTTP 客户端.
-- [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有 https、CORS 和 GZIP 压缩等功能.
-- [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成 .gitignore.
-- [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到 Amazon S3.
-- [reachable](https://github.com/italolelis/reachable) - 检查域是否已启动.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过 http 轻松提供本地目录.
-- [shell2http](https://github.com/msoap/shell2http) - 通过 HTTP 服务器执行 shell 命令.
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - 具有自动完成和语法突出显示的交互式 HTTP 客户端.
-- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 将静态网站部署到 [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
-- [ain](https://github.com/jonaslu/ain) - 具有简单格式的 HTTP 客户端来组织 API 端点.
+- [surge](https://surge.sh) - 免费发布静态网站.
 
 ### Mobile Development
 
@@ -151,6 +141,8 @@
 - [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 调整大小.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息传递平台和电子邮件发送消息/警报.
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 将静态网站部署到 [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
+- [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到 Amazon S3.
 
 ### Docker
 
@@ -170,7 +162,7 @@
 
 ### Npm
 
-- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - 检查 npm 上是否有包名.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - 获取 npm 用户的用户信息.
 - [npm-home](https://github.com/sindresorhus/npm-home) - 在当前目录打开包的npm页面.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到一个 npm 包的根目录.
@@ -186,18 +178,26 @@
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) - MEVN（Mongo Express Vue 节点）应用程序的光速设置.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - vanilla JS 的脚手架实用程序.
 
+### HTTP Server
+
+- [serve](https://github.com/vercel/serve) - 提供静态文件（https、CORS、GZIP 压缩等）.
+- [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过 HTTP 轻松提供本地目录.
+- [shell2http](https://github.com/msoap/shell2http) - 基于 Shell 脚本的 HTTP 服务器.
+
+### HTTP Client
+
+- [HTTPie](https://github.com/httpie/httpie) - 一个用户友好的 HTTP 客户端.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - 具有自动完成和语法突出显示的交互式 HTTP 客户端.
+- [ain](https://github.com/jonaslu/ain) - 具有简单格式的 HTTP 客户端来组织 API 端点.
+
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传屏幕截图到 imgur.
-- [bitly-client](https://github.com/specious/bitly-client) - 比特利客户.
 - [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您所做的事情.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频叠加和多显示器支持的 ffmpeg 截屏视频.
-- [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 将图像上传到 imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) - Meetup.com 客户端.
 - [NeoMutt](https://neomutt.org) - 电子邮件客户端.
 - [terjira](https://github.com/keepcosmos/terjira) - Jira 客户端.
 - [ipt](https://github.com/drselump14/ipt) - Pivotal Tracker 客户端.
-- [g3l](https://github.com/svtek/g3l) - 世界上最简单的 git cli！
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
 - [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
 - [papis](https://github.com/papis/papis) - 可扩展的文档和书目管理器.
@@ -253,6 +253,7 @@
 ## Utilities
 
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP、FTP、SFTP、BitTorrent 和 Metalink 下载实用程序.
+- [bitly-client](https://github.com/specious/bitly-client) - 比特利客户.
 - [deadlink](https://github.com/nschloe/deadlink) - 在文件中查找死链接.
 - [crawley](https://github.com/s0rg/crawley) - Unix 方式的网络爬虫.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签.
@@ -360,7 +361,7 @@
 
 ## Command Line Learning
 
-- [cmdchallenge](https://cmdchallenge.com) - 使用用户提交的解决方案提出小的 shell 挑战.
+- [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
 - [explainshell](https://www.explainshell.com/) - 键入片段以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) - 即时编码答案.
 - [how2](https://github.com/santinic/how2) - Howdoi 的 Node.js 实现.
@@ -390,6 +391,11 @@
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - 用于破解 JSON 和 Javascript 的实用工具带.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - 从 JSON 中删除评论.
 - [GROQ](https://github.com/sanity-io/groq-cli) – 带有查询和预测的 JSON 处理器.
+- [gron](https://github.com/tomnomnom/gron) - 使 JSON 变得更容易.
+
+### YAML
+
+- [dyff](https://github.com/homeport/dyff) - YAML 差异工具.
 
 ### Columns
 
@@ -451,10 +457,11 @@
 - [exa](https://github.com/ogham/exa) - `ls` 的改进版本.
 - [tre](https://github.com/dduan/tre) - 具有 git 意识、编辑器别名等的“树”.
 - [ll](https://github.com/antonmedv/ll) - `ls` 带有 git 状态.
+- [lsd](https://github.com/Peltoche/lsd) - 具有许多额外功能的`ls`.
 
 ### Directory Navigation
 
-- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line.
+- [autojump](https://github.com/wting/autojump) - 一个学习的 cd 命令 - 从命令行轻松导航目录.
 - [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对文件和目录的快速访问，灵感来自 autojump、z 和 v.
 - [pm](https://github.com/Angelmmiguel/pm) - 在 shell 上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) - z 是新的 j，哟.
@@ -514,6 +521,8 @@
 
 - [SVGO](https://github.com/svg/svgo) - 优化 SVG 文件.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成漂亮的代码图像.
+- [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 将图像上传到 imgur.
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
 
 ### Gif Creation
 
@@ -529,7 +538,7 @@
 
 - [imagemagick](https://imagemagick.org) - 任何图像的黄金标准.
 - [imgp](https://github.com/jarun/imgp) - 超快的批量图像缩放器和旋转器.
-- [korkut](https://github.com/oguzhaninan/korkut) - 快速简单的图像处理.
+- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 
 ## Screensavers
 
@@ -550,7 +559,7 @@
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 可配置的会说话的奶牛（和其他动物）.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在您的 CLI 中获取随机报价或当天报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机财富.
-- [ponysay](https://github.com/erkin/ponysay) - 小马重写了cowsay.
+- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.

@@ -57,10 +57,12 @@
 - [appimage2desktop](https://github.com/me1ting/appimage2desktop) - 在系统中为 AppImage 创建桌面文件和图标，仅此而已.
 - [appimagehelper](https://gitlab.com/posktomten/appimagehelper) - 用于创建、删除、控制和组织 AppImage 快捷方式的程序.
 - [LinuxPA](https://github.com/CalebQ42/LinuxPA) - 适用于具有 AppImage 支持的 Linux 的 PortableApps.com 类型启动器.
-- [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - Creates menu entries for AppImages without the need for a daemon.
+- [AppImage Desktop Maker](https://github.com/Alexsussa/AIDM) - 无需守护程序即可为 AppImages 创建菜单条目.
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) - 为 GNOME 和 KDE 兼容桌面环境的文件管理器中显示的 AppImage 生成图标.
 - [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers)  - GTK 桌面环境的缩略图，包括一个用于 AppImage 文件格式的缩略图. 使基于 Gtk 的文件管理器，如 Caja (MATE)、Nautilus (GNOME)、Nemo (Cinnamon)、PCManFM (LXDE) 和 Thunar (Xfce) 在 AppImages 上显示应用程序图标.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - 从 Gnome 桌面监控和（卸载）安装 AppImages.
+- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - 将 AppImages 集成到用 Qt6 编写的 Linux 桌面的简单程序.
+- [gnome_appimage_installer](https://github.com/knork-fork/gnome_appimage_installer)  - 有点用词不当（不需要“安装”AppImages），为您的 AppImage 文件创建一个遵循 freedesktop.org 规范的桌面文件； 用bash写的.
 
 ### Updaters
 
@@ -85,7 +87,8 @@
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - AppImages 和 Shell 脚本的包管理器.
 - [AppMan](https://github.com/ivan-hc/AppMan) - 像 APT 或 Pacman 一样工作的 AppImage 管理器.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
-- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一、静态、无依赖的二进制文件. 用围棋写的.
+- [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+- [leap](https://github.com/lnxcz/leap)  - 快速简单的 AppImage 管理器. 用 Rust 编写.
 
 ### Linux distributions
 
@@ -166,6 +169,8 @@
 - [Elements](https://gitlab.com/scottywz/elements) - 使用最小（约 3 MB 压缩）Alpine Linux rootfs 生成单文件、基于 runc 的 AppImage 的工具.
 - [arch2appimage](https://github.com/hanzala123/arch2appimage) - 用于将任何 Arch Linux 包（官方/AUR）转换为 AppImage 的 Python 脚本.
 - [appimage-bash](https://github.com/valicm/appimage-bash) - 用于从 .tar.gz 档案中的二进制文件创建 AppImage 版本的 GitHub 操作.
+- [Package-to-appimage](https://github.com/CausaPrincipalis71/package-to-appimage) - 使用 Docker 将 `.deb` 和 `.rpm` 包转换为 AppImage 格式的工具.
+- [GMAppImager](https://github.com/time-killer-games/GMAppImager) - 以图形方式将 GameMaker Studio 2 游戏转换为 AppImage 包.
 
 ### Metadata tools
 
@@ -191,6 +196,7 @@
 - [AppImageServices](https://github.com/azubieta/AppImageServices) - D-Bus 服务通过 AppImage 操作库为文件管理器、软件中心和其他工具提供高级接口.
 - [libappimage](https://github.com/AppImage/libappimage) - 实现处理 AppImage 文件的功能，使用 Boost 用 C++ 编写.
 - [libzsync-go](https://github.com/AppImageCrafters/libzsync-go) - 用 Go 编写的 Zsync 实现，可用于更新 AppImages.
+- [appenv](https://github.com/TheMarlboroMan/appenv) - 小型 C++ 库通过使用 `readlink(&quot;/proc/self/exe&quot;)`) 告诉应用程序数据驻留在哪里以及用户数据在哪里，从而允许 C++ 应用程序在文件系统中变得可重定位.
 
 ### Templates
 
@@ -211,7 +217,7 @@
 ### Documentation
 
 - [docs.appimage.org](https://docs.appimage.org/) - 官方 AppImage 文档.
-- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - appimage-builder 的文档，包括教程、示例等.
+- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - Documentation of appimage-builder, includes tutorials, examples, and more.
 
 ### Tutorials
 
