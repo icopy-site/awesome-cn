@@ -29,7 +29,7 @@
 
 ### AI
 
-* [MicroMLP](https://github.com/jczic/MicroMLP) - 用于 MicroPython 的微神经网络多层感知器（用于 ESP32 和 Pycom 模块）.
+* [MicroMLP](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
 * [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - MicroPython 的神经网络.
 
 ### Analytics
@@ -138,7 +138,7 @@
 
 * [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - 使用 pyboard 和 sim800l 的 gsm 手机.
 * [micropython-sim800](https://github.com/olablt/micropython-sim800) - 用于 sim800 的 MicroPython 驱动程序.
-* [sim800](https://github.com/basanovase/sim800) - Library for interfacing with SIM800 module in MicroPython.
+* [sim800](https://github.com/basanovase/sim800) - 用于与 MicroPython 中的 SIM800 模块接口的库.
 * [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - AM7020 窄带物联网 (NBIoT) 模块的 MicroPython 驱动程序.
 
 #### IoT
@@ -155,7 +155,7 @@
 
 #### IR
 
-* [micropython-necir](https://github.com/MattMatic/micropython-necir) - 用于 TL1838 IR 接收器 LED 的 NEC 红外捕获.
+* [micropython-necir](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
 * [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard 红外遥控嗅探和回放.
 * [micropython_ir](https://github.com/peterhinch/micropython_ir) - 非阻塞设备驱动程序从红外遥控器和红外“冲击波”应用程序接收.
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Grid-EYE 热红外阵列传感器 (Adafruit 3538) 的驱动程序.
@@ -303,7 +303,7 @@
 #### Web
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) - 一个微型 HTTP Web 服务器，支持 WebSockets、html/python 语言模板和路由处理程序，用于 MicroPython（用于 Pycom 模块和 ESP32）.
-* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 最后一个用于物联网 (MicroPython) 或大型服务器 (CPython) 的微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
+* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) - 用于物联网 (MicroPython) 或大型服务器 (CPython) 的最后一个微型 Web 服务器，它支持 WebSocket、路由、模板引擎并具有真正优化的架构（内存分配、异步 I/O）.
 * [tinyweb](https://github.com/belyalov/tinyweb) - 用于 MicroPython 的简单轻量级 HTTP 异步服务器.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) - MicroPython (ESP8266) websocket 服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) - MicroPython 的强制门户演示.
@@ -347,7 +347,7 @@
 #### Graphics
 
 * [micropython-stage](https://github.com/python-ugame/micropython-stage) - Stage 游戏库的 MicroPython 端口.
-* [micropython-png](https://github.com/Ratfink/micropython-png) - 用于 MicroPython 的 PyPNG 的衍生物.
+* [micropython-png](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
 * [mpy-img-decoder](https://github.com/remixer-dec/mpy-img-decoder) - 纯 MicroPython 中的 PNG 和 JPEG 解码器/解析器/渲染器.
 * [micropython-oled-progressbars](https://github.com/follower46/micropython-oled-progressbars) - 在 OLED 显示器上与 esp8266 和 esp32 一起使用的进度条集合.
 * [microplot](https://github.com/romilly/microplot) - 简单的 MicroPython 绘图包.
@@ -525,7 +525,7 @@
 #### Rotary Encoder
 
 * [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - 用于读取旋转编码器的 MicroPython 模块.
-* [uencoder](https://gitlab.com/WiLED-Project/uencoder) - 用于从旋转编码器读取的 MicroPython 库.
+* [uencoder](https://gitlab.com/WiLED-Project/uencoder) - A MicroPython library for reading from a rotary encoder.
 * [encodermenu](https://github.com/sgall17a/encodermenu) - 使用旋转编码器和基本显示器的 micropython 简单 GUI 菜单.
 * [encoderLib](https://github.com/BramRausch/encoderLib) - 处理旋转编码器的 MicroPython 库.
 * [rotary-encoder](https://github.com/gurgleapps/rotary-encoder) - 驱动 KY-040 旋转编码器的 MicroPython 代码.
@@ -691,7 +691,7 @@
 * [micropython-bno055](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU 传感器，I2C 接口.
 * [micropython-lsm9ds0](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force 线性加速度、高斯磁和 dps 角速率传感器.
 * [micropython-mpu9250](https://github.com/tuupola/micropython-mpu9250) - 用于 MPU9250 9 轴运动跟踪设备的 I2C 驱动程序.
-* [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
+* [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) - InvenSense MPU9250 惯性测量单元的驱动程序.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - MPU6050 加速度计/陀螺仪的 ESP8266 驱动程序.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) - MPU6050 加速度计/陀螺仪的 ESP8266 驱动程序.
 * [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - 用于 MPU6886 6 轴运动跟踪设备的 MicroPython I2C 驱动程序.
@@ -866,6 +866,7 @@
 * [micrOS](https://github.com/BxNxM/micrOS) - 基于 MicroPython 的物联网框架.
 * [terkin-datalogger](https://github.com/hiveeyes/terkin-datalogger) - 用于 MicroPython 和 CPython 的灵活数据记录器应用程序.
 * [perthensis](https://codeberg.org/scy/perthensis) - Perthensis：MicroPython 的异步框架.
+* [meerkat](https://github.com/crdietrich/meerkat) - I2C Data Acquisition for MicroPython and Raspberry Pi.
 
 ## Resources
 
@@ -913,7 +914,7 @@
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) - 一个简单的基于命令行的 MicroPython 外壳.
-* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - Small on-board editor for PyBoard, WiPy, ESP8266, ESP32, PyCom and Adafruit devices written in Python.
+* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - 用 Python 编写的用于 PyBoard、WiPy、ESP8266、ESP32、PyCom 和 Adafruit 设备的小型板载编辑器.
 
 #### On Host
 

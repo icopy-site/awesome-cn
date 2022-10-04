@@ -143,7 +143,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 单行矢量字体或“雕刻字体”.
 
-- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
+- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息和其他资源和字体的链接.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代矢量字体的“.fnt”格式. 包括对字体原始数据格式的一个很好的概述.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - 好时字体的 C 库和原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) - 一些单行字体可供购买的商业网站.
@@ -154,7 +154,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 博客文章、文章、教程、画廊、视频等.
 
-- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 有关开始使用旧 HPGL 绘图仪的好信息.
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters .
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 编程矢量路径的一些基础知识，包括排序、连接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣的算法的 13 部分精彩演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - 罗兰平板绘图仪快速入门指南.
@@ -170,6 +170,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - 很好地概述了 AxiDraw 及其克隆，以及一些 DIY 选项.
 - [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - 2022 年现代绘图仪的精彩视频介绍.
 - [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - 关于绘图员社区新工作流程的研究论文（[Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
+- [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - 一个身临其境的数字装置，带有火星地形的绘图仪输出.
 
 ## Manuals and Ephemera
 
@@ -261,7 +262,6 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 - [Michelle Chandra](https://www.dirtalleydesign.com/)
-- [Jessica In](https://www.jessicain.net/shop-originals)
 - [Pedro Alcocer](https://store.pedroalcocer.com/)
 - [AndyMakes](https://shop.andymakes.com/)
 - [Marcel Schwittlick](https://schwittlick.bigcartel.com/)

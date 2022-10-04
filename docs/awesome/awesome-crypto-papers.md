@@ -11,7 +11,7 @@
 
 此列表的目标是为不同级别的密码知识提供教育阅读材料. 我开始它是因为我的日常工作是在 [Cossack Labs](https://www.cossacklabs.com) 包括对他们进行密码学方面的教育，并就特定主题提供阅读建议，这涉及反复查找相同的材料. 希望它对其他人也有用. 
 
-它针对的是在更高级别的安全系统中使用密码学来实现数据库加密、安全共享、各种方案中的端到端加密的人们，并且应该了解它是如何工作的，它是如何失败的以及它是如何受到攻击的. 它不是著名/重要/具有历史意义的论文的列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都能更好地掌握他们需要什么），也不是针对想要成为密码学家的系统研究（他们最好在专业指导下遵循结构化方法）. 
+它针对的是在更高级别的安全系统中使用密码学来实现各种方案中的数据库加密、安全共享、端到端加密的人们，并且应该了解它是如何工作的，它是如何失败的以及它是如何受到攻击的. 它不是著名/重要/具有历史意义的论文的列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都更好地掌握了他们需要什么），也不是针对想要成为密码学家的系统研究（他们最好在专业指导下遵循结构化方法）. 
 
 随着我发现一些“必备”的价值，它将逐渐扩展. 非常欢迎拉取请求.
 
@@ -43,7 +43,7 @@
 
 #### Brief introductions
 
-* [An Overview of Cryptography](http://www.garykessler.net/library/crypto.html) - 加里 C.凯斯勒.
+* [An Overview of Cryptography](http://web.archive.org/web/20220918232416/https://www.garykessler.net/library/crypto.html) - 加里 C.凯斯勒.
 * [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf) -由Needham，Schroeder：这是基于加密的身份验证开始.
 * [Communication Theory of Secrecy Systems](http://web.archive.org/web/20201112040412/http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) - Claude Shannon 的基本密码学论文.
 
@@ -80,7 +80,7 @@
 * [The Galois/Counter Mode of Operation (GCM)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
 * [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全性，更具体地说，是 AES GCM 模式，作者 David A. McGrew 和 John Viega.
 * [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata 为具有较高反碰撞概率的 AES GCM 生成随机数的分析和算法.
-* [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - Eugene Pilyankevich、Dmytro Kornieiev、Artem Storozhuk 对现有可搜索加密方案的概述，以及基于 AES-GCM、盲索引和布隆过滤器的方案分析.
+* [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - An overview of existing searchable encryption schemes, and analysis of scheme built on AES-GCM, blind index and bloom filter by Eugene Pilyankevich, Dmytro Kornieiev, Artem Storozhuk.
 
 #### Cryptanalysis
 
@@ -88,7 +88,7 @@
 * [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - 将滑动攻击（块密码的典型密码分析技术）应用于哈希函数，M. Gorski 等人.
 * [Self-Study Course in Block Cipher Cryptanalysis](https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html) - 尝试以一种学生可以用来学习密码分析技术和破解新算法的方式来组织现有的分组密码密码分析文献，作者 Bruce Schneier.
 * [Statistical Cryptanalysis of Block Ciphers](http://crypto.junod.info/phdthesis.pdf) ——帕斯卡·朱诺.
-* [Cryptanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
+* [Cryptanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - Elad Pinhas Barkan.
 * [Too much crypto](https://eprint.iacr.org/2019/1492.pdf) - Jean-Philippe Aumasson 分析对称密码学原语的轮数，并建议减少轮数.
 * [How to Break MD5 and Other Hash Functions](https://iacr.org/archive/eurocrypt2005/34940019/34940019.pdf) - 2005 年关于 MD5、MD4 和其他散列函数的模差分碰撞攻击的论文，作者 Xiaoyun Wang 和 Hongbo Yu.
 * [New attacks on Keccak-224 and Keccak-256](https://www.iacr.org/archive/fse2012/75490447/75490447.pdf) - Itai Dinur、Orr Dunkelman、Adi Shamir 于 2012 年发表的一篇关于使用微分和代数技术组合对 SHA-3 进行碰撞攻击的论文.
@@ -122,6 +122,10 @@
 * [Curve25519: new Diffie-Hellman speed records](https://cr.yp.to/ecdh/curve25519-20060209.pdf) - Curve25519 上的论文.
 * [Software implementation of the NIST elliptic curves over prime fields](http://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf) - M. Brown 等人实施椭圆曲线加密的实际示例.
 * [High-speed high-security signatures](https://ed25519.cr.yp.to/ed25519-20110926.pdf) - Daniel J. Bernstein 等人关于 ed25519 曲线上的 EdDSA 签名的开创性论文.
+* [Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters (NIST SP 800-186)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186-draft.pdf)  - NIST 官方指南如何安全地实现椭圆曲线. 它还包括数学捷径、优化和错误算法实施可能带来的安全风险. [(October 2019)](https://csrc.nist.gov/publications/detail/sp/800-186/draft)
+* [Biased Nonce Sense: Lattice Attacks against Weak ECDSA Signatures in Cryptocurrencies](https://eprint.iacr.org/2019/023.pdf) - 通过分析和利用 ECDSA 随机数中的偏差来计算私钥.
+* [Minerva: The curse of ECDSA nonces](https://eprint.iacr.org/2020/728.pdf) - 利用时间/位长泄漏从 ECDSA 签名中恢复私钥
+* [LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage](https://eprint.iacr.org/2020/615.pdf) - 使用少于一位泄漏来打破 160 位曲线 ECDSA.
 
 #### Zero Knowledge Proofs
 
