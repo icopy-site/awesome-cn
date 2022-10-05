@@ -46,7 +46,7 @@ Audio
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一个
 [SuperCollider](http://supercollider.github.io/)  CommonLisp 的客户端. 带一个 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) and [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  - 声音和音乐计算系统. 包括用于 Common Lisp 的 CFFI 和 FFI 接口.
-* [CLM](https://ccrma.stanford.edu/software/clm/)  - Common Lisp Music 是 Music V 系列中的一个音乐合成和信号处理包. 它提供了与 Stk、Csound、SuperCollider、PD、CMix、cmusic 和 Arctic 大致相同的功能 — 一组创建和操纵声音的功能，主要针对作曲家（无论如何是 CLM 的情况）.
+* [CLM](https://ccrma.stanford.edu/software/clm/)  - Common Lisp Music 是 Music V 系列中的一个音乐合成和信号处理包. 它提供了与 Stk、Csound、SuperCollider、PD、CMix、cmusic 和 Arctic 大致相同的功能——创建和操纵声音的功能集合，主要针对作曲家（无论如何是 CLM 的情况）.
 * [cl-patterns](https://github.com/defaultxr/cl-patterns)  - 一个通过 Lisp 代码创作音乐的系统，深受 SuperCollider 模式系统的启发，旨在实现其中的大部分内容，但以更健壮、富有表现力、一致、反思和 lispy 的方式实现. 通过 SuperCollider 的音频输出，初步支持 Incudine，以及通过 ALSA 的 MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  - OpenAL 音频库的绑定. 公共区域.
 * [Common Music](https://github.com/ormf/cm) - the repository of an
@@ -489,7 +489,7 @@ Iteration
 * [doplus](https://github.com/alessiostalla/doplus) – 另一个可扩展的迭代库，类似于 :for.
 * [snakes](https://github.com/BnMcGn/snakes)  - 用于 Common Lisp 的 Python 样式生成器. 包括一个 itertools 的端口.  [阿帕奇2] [89].
 * [picl](https://github.com/anlsh/picl)  - Python 的 itertools 包的（几乎）完整端口，在适用的情况下具有惰性，并且不依赖于 cl-cont.  [麻省理工学院][200].
-* [gtwiwtg](https://github.com/cbeo/gtwiwtg)  - 一个惰性序列库. 类似于“系列”，但不完整. 然而，它有一个“现代”API，其中包含易于使用的 `take`、`filter`、`for`、`fold` 等内容.
+* [gtwiwtg](https://github.com/lisp-mirror/gtwiwtg)  - 一个惰性序列库. 类似于“系列”，但不完整. 然而，它有一个“现代”API，其中包含易于使用的 `take`、`filter`、`for`、`fold` 等内容.
 
 
 Lambda 速记
@@ -618,7 +618,7 @@ Advanced
 其他书籍
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 撰写，由 MIT Press 免费提供——这是一本在标准人工智能文本中独一无二的书籍，它结合了科学和工程、理论和工艺来描述 AI 推理系统的构建，并包括说明这些想法的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 撰写，由 MIT Press 免费提供——这是一本在标准人工智能文本中独一无二的书籍，它结合了科学与工程、理论和工艺来描述 AI 推理系统的构建，并包含说明这些想法的代码.
 
 Community
 ---------
@@ -894,7 +894,7 @@ Web 开发实用程序
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3 条款][15]. 不在 Quicklisp 中.
   * 提供带有 Hunchentoot Web 服务器、easy-routes、Djula 模板、基于 SQLite 的 Bulma 样式、迁移、示例表定义和使用 FiveAM 的测试套件的工作玩具 Web 应用程序.
 * [make-like](https://github.com/container-lisp/make-like)  - LIKE（Lisp In Kubernetes + Emacs）应用程序的应用程序模板构建器.  [Apache2.0][51].
-  * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的 easy-route 等.
+  * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的 easy-route 等等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的 Web 应用程序样板. 使用 Hunchentoot，cl-who，轻松部署到 Heroku.  [麻省理工学院][200].
 
 Others
@@ -960,7 +960,7 @@ Others
 * [cl-geometry](https://github.com/Ramarren/cl-geometry/)  - Common Lisp 的二维计算几何系统.  [麻省理工学院][200].
 * [Vellum](https://github.com/sirherrbatka/vellum)  - Common Lisp 的数据帧.  BSD_2 条款.
 * [rtg-math](https://github.com/cbaggers/rtg-math/)  - 在 lisp 中制作实时图形最常用的数学例程选择（2、3 和 4 分量向量、3x3 和 4x4 矩阵、四元数、球坐标和极坐标）.  BSD_2 条款.
-* [origin](https://github.com/mfiano/origin)  - 一个原生的 Lisp 图形数学库，强调性能和正确性. 包括：向量、矩阵（最大 4x4）、四元数、单/双浮点支持、破坏性/非破坏性操作、整形和交叉.  [麻省理工学院][200].
+* [origin](https://github.com/mfiano/origin)  - 一个原生的 Lisp 图形数学库，强调性能和正确性. 包括：向量、矩阵（最多 4x4）、四元数、单/双浮点支持、破坏性/非破坏性操作、整形和交叉.  [麻省理工学院][200].
 
 矩阵库
 ----------------
@@ -1069,7 +1069,7 @@ Scripting
   带有简洁的选项声明的选项解析器.  [麻省理工学院][200].
 * [Adopt](https://github.com/sjl/adopt/)  - 一个该死的 OPTion 解析库.  [麻省理工学院][200].
 * [Clingon](https://github.com/dnaeon/clingon) - 丰富的命令行选项解析器系统.
-  * 较新，它可能拥有最丰富的功能集：子命令、生成 bash 补全、支持各种选项（整数、布尔值、计数器、枚举……）、可扩展……
+  * 较新，它可能具有最丰富的功能集：子命令、生成 bash 补全、支持各种选项（整数、布尔值、计数器、枚举……）、可扩展……
 
 
 Readline、ncurses 和其他图形助手

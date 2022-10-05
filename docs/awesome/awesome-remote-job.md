@@ -124,7 +124,7 @@
   1. [Async Remote](https://products.arkency.com/async-remote/).
      作者：Robert Pankowecki 和 Andrzej Krzywda（Arkency），2014 年.
   1. [Distributed Teams](https://oduinn.com/book/).
-     约翰·奥杜因，2018 年.
+     约翰·奥邓恩，2018 年.
   1. [Remote: Office Not Required](https://37signals.com/remote).
      Jason Fried 和 David Heinemeier Hansson (37signals)，2013 年.
   1. [The Remote Jobseeker’s Handbook](https://cobyism.com/remotejobseeker/).
@@ -209,6 +209,7 @@
   1. [Meerkad](https://meerkad.com/) - 由来自最受欢迎的远程工作委员会、公司网站、Facebook 群组、Twitter 搜索、Reddit、StackOverflow、HackerNews、Dribbble、Behance 和许多其他人的社区工作精心挑选和策划  
   1. [Remote.io](https://www.remote.io/) - 远程工作的工作板和聚合器，主要是技术.
   1. [Remote 4 Me](https://remote4me.com/) - 技术和非技术远程工作的聚合器.
+  1. [Remote Index](https://remoteindex.co/) - 用于技术远程工作的工作板和聚合器.
   1. [Remote Leaf](https://remoteleaf.com) - 从 40 多个远程工作委员会、1500 多个公司职业页面、Twitter 提要、Linkedin、Reddit、黑客新闻招聘中精心挑选的远程工作，并且只发送适合您的工作.
   1. [Remote OK](https://remoteok.io/) - 为远程职位刮掉许多工作板提要.
   1. [Remote Python](https://www.remotepython.com/) - 专门用于远程 Python 作业的工作板和聚合器.
@@ -229,19 +230,19 @@
   1. [HubBOG](https://hubbog.com/)  - 共享办公空间 + 启动加速器. 哥伦比亚波哥大
   1. [Mokrin House](https://www.mokrinhouse.com/) - 塞尔维亚农村地区的共享空间和共享办公空间
   1. [Nest Copenhagen](https://nestcopenhagen.dk/) - 丹麦哥本哈根的共居空间
-  1. [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - 墨西哥的共居空间
+  1. [NoHatDigital](https://www.nohatdigital.com/mansionpage/) - 墨西哥的生活空间
   1. [Nomad House](https://nomadhouse.io) - 全球游牧住房网络
   1. [Roam](https://www.roam.co/) - 全球共生空间网络
   1. [Sende](https://sende.co/) - 西班牙北部的共享空间和共享办公空间
   1. [Sun Desk](https://www.sun-desk.com/) - 摩洛哥塔加祖特的共享空间和共享办公空间
   1. [Talent Garden](https://talentgarden.org/coworking/) - 共享办公空间主要在意大利，但在其他一些国家也有
   1. [The Surf Office](https://www.thesurfoffice.com/home/) - 葡萄牙、加那利群岛和加利福尼亚的共享办公和度假空间
-  1. [Work From Curacao](http://www.workfromcuracao.com/) - 库拉索的共居空间
+  1. [Work From Curacao](http://www.workfromcuracao.com/) - 库拉索的生活空间
   1. [Worldpackers](https://www.worldpackers.com) - 住房/工作交换
   1. [Anceu](https://anceu.com) - 西班牙加利西亚的农村共享空间和共享办公空间
 
 ## Relocation Incentives
-  1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/)  - 每年用于支付学生贷款的金额从您的州所得税中扣除. 州外居民必须在 2015 年之后获得学士学位或副学士学位才能获得资格.
+  1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/)  - 每年用于支付学生贷款的金额从您的州所得税中扣除. 州外居民必须在 2015 年之后获得学士或副学士学位才有资格.
   1. [Tulsa Remote](https://tulsaremote.com/) - 从塔尔萨工作获得 10,000 美元现金.
   1. [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/)  - 在佛蒙特州工作，每年最多可获得 5,000 美元. 每个人在该计划的整个生命周期内不得超过 10,000 美元.
   1. [Remote Shoals](https://remoteshoals.com/)  - 远程工作？ 从浅滩获得 10,000 美元来完成您的工作.
@@ -278,7 +279,7 @@
   1. [Distributed](https://distributed.blog/podcast/)  - Matt Mullenweg 的采访播客. 专注于分布式工作和在全球招聘人员的好处和挑战.
   1. [Free People Move Podcast](https://teleport.org/podcast/) - 主要采访创始人，从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  1. [Remote Works](https://remote.works) - Remote Works 播客每两周发布一次，主持人 Jonathan Sharp 讨论远程工作、远程团队、远程办公和数字游牧民族的机会、经验、文化和社区.
+  1. [Remote Works](https://remote.works) - Remote Works 播客每两周发布一次，主持人 Jonathan Sharp 讨论远程工作、远程团队、远程办公和数字游牧民的机会、经验、文化和社区.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - 双周播客：Jeff Robbins 采访了考虑分布式团队、远程工作以及如何支持快乐、高效、自由放养的员工的人们.
   1. [Wide Teams](https://www.wideteams.com/) - 每集都与远程工作人员进行一对一的采访，了解工作流程和实践
 
@@ -556,7 +557,7 @@
   1. [Fleep](https://fleep.io/) - 开发团队的内部聊天和协作工具
   1. [Floobits](https://floobits.com)  - 远程配对编程与屏幕共享. 与 Sublime、IntelliJ、Atom 等集成
   1. [Flowdock](https://www.flowdock.com/)  - 基于浏览器的团队群聊. 与 GitHub、Jira、Jenkins 等集成.
-  1. [Gather](https://gather.town/) - Gather 是一个视频通话空间，可让多人同时进行单独的对话，像在现实生活中一样轻松地进出这些对话.
+  1. [Gather](https://gather.town/) - Gather 是一个视频通话空间，可让多人同时进行单独的对话，就像在现实生活中一样轻松地进出这些对话.
   1. [IRCCloud](https://www.irccloud.com) – 基于浏览器的 IRC 客户端，具有永久存储功能.
   1. [Jitsi](https://jitsi.org) - 多平台开源视频会议
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix 是分布式团队的在线开源工作场所.

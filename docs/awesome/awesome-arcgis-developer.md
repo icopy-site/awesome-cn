@@ -1,10 +1,10 @@
 <div class="github-widget" data-repo="Esri/awesome-arcgis-developer"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome ArcGIS Developer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developer/master/arcgis-platform-logo.svg?sanitize=true" align="right" width="100">
 
-> An awesome set of resources to help you with [ArcGIS Platform](http://developers.arcgis.com/) 开发、API、SDK、工具和位置服务.
+&gt; 一组很棒的资源来帮助你 [ArcGIS Platform](http://developers.arcgis.com/) 开发、API、SDK、工具和位置服务.
 
 ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应用程序，具有现成的位置服务、数据托管、API、工具和内容管理服务.
 
@@ -82,6 +82,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 帮助所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android...）取得成功的社区示例.
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - 为使用 ArcGIS API for JavaScript 的开发人员提供的资源集合.
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - 如何在使用 React、Angular、Vue 和其他框架构建的应用程序中通过 esri-loader 使用 ArcGIS API for JavaScript 的示例.
+- [EsriDevSummit](https://github.com/esridevsummit/) - 支持 DevSummit 技术会议的补充源代码、示例项目和资源.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - 显示您可以使用的很酷的示例地图.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - 可重复使用的 Esri 荷兰脚本和片段.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - ArcGIS API for JavaScript 的代码片段集合.
@@ -141,7 +142,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 ## Developer guides
 
 - [Content management](https://developers.arcgis.com/documentation/mapping-apis-and-services/content-management/) - 存储、管理和访问私人和公共内容.
-- [Data hosting](https://developers.arcgis.com/documentation/mapping-apis-and-services/data-hosting/) - 以数据服务的形式存储、管理和访问您的数据.
+- [Data hosting](https://developers.arcgis.com/documentation/mapping-apis-and-services/data-hosting/) - Store, manage, and access your data as data services.
 - [Demographics](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/) - 使用 GeoEnrichment 服务发现当地事实和人口统计信息.
 - [Maps](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/) - 使用底图图层服务和数据服务显示 2D 地图和 3D 场景.
 - [Offline](https://developers.arcgis.com/documentation/mapping-apis-and-services/offline/) - 断开连接时显示、分析和编辑数据.
@@ -155,9 +156,9 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 用于在 ArcGIS API for JavaScript 4.x 中获取 3D Web 应用程序的相机位置 JSON 对象的 Web 应用程序.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) - 用于获取 ArcGIS API for JavaScript 4.x 中 Web 应用程序的地图范围 JSON 对象的 Web 应用程序.
 - [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑程序构建的应用程序中延迟加载 ArcGIS API for JavaScript（即来自 CDN）.
-- [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - 用于将 ArcGIS API for JavaScript 与 esri-loader 一起使用的自定义 React 挂钩.
+- [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
 - [react-arcgis](https://github.com/Esri/react-arcgis)  - 一个包含一些准备使用 React 组件的库（`<Map />  `, `<Scene />  `, `<WebMap />  `，和`<WebScene />  `) 让您开始在 React 应用程序中使用 ArcGIS API for JavaScript.
-- [react-sceneview](https://github.com/Esri/react-sceneview) - A simple Esri SceneView react component that builds on the ArcGIS API for JavaScript.
+- [react-sceneview](https://github.com/Esri/react-sceneview) - 基于 ArcGIS API for JavaScript 构建的简单 Esri SceneView 反应组件.
 
 ## Map and data exploration
 

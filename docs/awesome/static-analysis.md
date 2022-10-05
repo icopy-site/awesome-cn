@@ -770,7 +770,7 @@
 <h2 id="python">Python</h2>
 
 
-- [bandit](https://bandit.readthedocs.io/en/latest) — A tool to find common security issues in Python code.
+- [bandit](https://bandit.readthedocs.io/en/latest) — 在 Python 代码中查找常见安全问题的工具.
 
 - [bellybutton](https://github.com/hchasestevens/bellybutton) — 支持自定义项目特定规则的 linting 引擎.
 
@@ -932,7 +932,7 @@
 
 - [cargo-inspect](https://github.com/mre/cargo-inspect) — 检查没有语法糖的 Rust 代码，看看编译器在幕后做了什么.
 
-- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — 使用 hunspell（就绪）和语言工具（预览版）检查所有文档的拼写和语法错误
+- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
 
 - [clippy](https://rust-lang.github.io/rust-clippy) — 用于捕捉常见错误并改进您的 Rust 代码的代码 linter.
 
@@ -1012,7 +1012,7 @@
 
 - [shellcheck](https://www.shellcheck.net) — ShellCheck，一种静态分析工具，可为 bash/sh shell 脚本提供警告和建议.
 
-- [shellharden](https://github.com/anordal/shellharden) — 一个语法高亮工具和一个半自动化地重写脚本以符合 ShellCheck 的工具，主要集中在引用上.
+- [shellharden](https://github.com/anordal/shellharden) — A syntax highlighter and a tool to semi-automate the rewriting of scripts to ShellCheck conformance, mainly focused on quoting.
 
 
 <h2 id="swift">迅速</h2>
@@ -1043,7 +1043,7 @@
 - [Codelyzer](http://codelyzer.com) :warning: — 一组用于 Angular 2 TypeScript 项目的静态代码分析的 tslint 规则.
 
 - [tslint](https://palantir.github.io/tslint/) :warning: — 自 2019 年起，TSLint 已被弃用.有关更多详细信息，请参阅此问题：typescript-eslint 现在是 linting TypeScript 的最佳选择.
- TSLint 是一个可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
+TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
 
@@ -1169,7 +1169,7 @@
 
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 
-- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
 
 - [goone](https://github.com/masibw/goone) — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
 
@@ -1422,7 +1422,7 @@
 
 - [sass-lint](https://github.com/sasstools/sass-lint) :warning: — 适用于 sass 和 scss 语法的仅限节点的 Sass linter.
 
-- [scsslint](https://github.com/brigade/scss-lint) :warning: — SCSS 文件的 Linter.
+- [scsslint](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS 特异性图生成器.
 
@@ -1478,7 +1478,7 @@
 
 - [terraform-compliance](https://terraform-compliance.com) — 针对 Terraform 的轻量级、以合规性和安全性为重点的 BDD 测试框架.
 
-- [terrascan](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
+- [terrascan](https://github.com/cesar-rodriguez/terrascan) — 收集用于 Terraform 模板的静态代码分析的安全性和最佳实践测试.
 
 - [tflint](https://github.com/wata727/tflint) — Terraform linter，用于检测“terraform plan”无法检测到的错误.
 
@@ -1785,6 +1785,8 @@
 
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) — Lint 一个 npm 或 yarn lockfile 来分析和检测安全问题
 
+- [LunaSec](https://www.lunasec.io)  — 开源 AppSec 平台，可在下次发生 Log4Shell 或 node-ipc 等漏洞时自动通知您. 跟踪您的依赖关系并在集中式服务中构建.
+
 - [njsscan](https://opensecurity.in) — 一个静态应用程序测试 (SAST) 工具，可以使用来自 libsast 的简单模式匹配器和语法感知语义代码模式搜索工具 semgrep 在您的 node.js 应用程序中找到不安全的代码模式.
 
 - [NodeJSScan](https://opensecurity.in)  — 由 libsast 和 semgrep 提供支持的 Node.js 应用程序的静态安全代码扫描程序，构建在 njsscan cli 工具上. 它具有一个 UI，其中包含有关应用程序安全状态的各种仪表板.
@@ -1798,6 +1800,8 @@
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新类型的分析.
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 Java 安全漏洞的源代码分析工具.
+
+- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 

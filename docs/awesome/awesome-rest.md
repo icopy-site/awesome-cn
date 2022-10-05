@@ -16,7 +16,7 @@
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​跨多个团队进行大规模 RESTful 集成的经验教训.
-* [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
+* [HATEOAS](https://web.archive.org/web/20201111235328/timelessrepo.com/haters-gonna-hateoas) - 清楚解释 HATEOAS 是什么，以及为什么要使用它.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](http://www.restapitutorial.com/) - RestApiTutorial.com 致力于跟踪 REST API 最佳实践并提供资源，以便为开发人员提供快速参考和自我教育.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - 关于 REST API 安全的最佳实践
@@ -37,7 +37,7 @@
 * [RAML](http://raml.org/) - 描述 RESTful API 的简单明了的方式.
 * [JSend](http://labs.omniti.com/labs/jsend) - 简单的规范，为来自 Web 服务器的 JSON 响应的格式设置了一些规则.
 * [OData](http://www.odata.org/)  - 开放协议，允许创建和使用可查询和可互操作的 RESTful API. 相当复杂.
-* [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - 简单的格式，提供了一种一致且简单的方法来在 API 中的资源之间进行超链接（请参阅： [HATEOAS](#hateoas)).
+* [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - 简单的格式提供了一种一致且简单的方法来在 API 中的资源之间进行超链接.
 * [JSON-LD](http://json-ld.org/) - 在 JSON (W3C) 中描述关联数据和超媒体关系的标准.
 * [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的 Web API (W3C) 词汇表.
 * [Schema.org](http://schema.org) - 描述通用数据模型的模式集合.
@@ -95,7 +95,7 @@
 * [Sails.js](http://sailsjs.org/) - 嵌入命令以自动生成 REST API 的 Node.js Web 框架.
 * [mers](https://github.com/jspears/mers) - 将 Mongoose 查找器公开为 RESTful API 的快速服务.
 * [Baucis](https://github.com/wprl/baucis) - 基于您的 Mongoose 实体构建可扩展的 REST API.
-* [flatiron/resourceful](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
+* [flatiron/resourceful](https://github.com/flatiron/resourceful) - JavaScript 的同构资源引擎.
 * [loopback](http://loopback.io/) - 强大的 Node.js 框架，用于创建 API 并轻松连接到后端数据源.
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务 Web 框架，可让您通过 RESTful 资源、套接字和灵活的插件来控制您的数据.
 * [Expressa](https://github.com/thomas4019/expressa) - 使用简单的管理编辑器和权限模型从 JSON 模式创建 API 的快速中间件.
@@ -240,8 +240,8 @@
 ## SaaS Tools
 
 * [Nango](https://github.com/NangoHQ/nango) - 使用 REST API（开源）的本机集成框架.
-* [Runscope](https://www.runscope.com/) - 自动化 API 监控和测试.
-* [Ping-API](https://ping-api.com/) - 自动化 API 监控和测试.
+* [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
+* [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
 * [import.io Magic](https://magic.import.io/) - 一键从任何网站创建 REST API.
 * [Apiary](https://apiary.io/) - 协同设计、即时 API 模拟、生成文档、集成代码示例、调试和自动化测试.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Amazon API Gateway 是一项完全托管的服务，可让开发人员轻松创建、发布、维护、监控和保护任何规模的 API.

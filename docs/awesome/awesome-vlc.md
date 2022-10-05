@@ -12,7 +12,7 @@
 - [videolan.org](https://www.videolan.org/) - 一切开始的地方.
 - [LibVLC API docs](https://videolan.videolan.me/vlc/group__libvlc.html)  - LibVLC 引擎的文档.  C API.
 - [Wiki](https://wiki.videolan.org/) - 这里有很多很棒的信息.
-- [Code & Bug tracker](https://code.videolan.org/videolan/vlc/-/issues) - 最近从 Trac 移出，包含许多有关错误和功能请求的有价值信息.
+- [Code & Bug tracker](https://code.videolan.org/videolan/vlc/-/issues) - 最近从 Trac 移出，包含许多关于错误和功能请求的有价值信息.
 - [CLI flags](https://wiki.videolan.org/VLC_command-line_help)  - 所有 VLC 命令行标志的完整列表. 对于搜索您在野外遇到的随机标志非常有用.
 
 ## VLC native plugins
@@ -62,7 +62,7 @@
 
 ## Ebook
 
-- [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts)
+- [The Good Parts of LibVLC](https://mfkl.gumroad.com/l/libvlc-good-parts) - 关于 VideoLAN 非营利组织和开源 LibVLC 开发人员 SDK 的第一本电子书.
 
 ## Community
 

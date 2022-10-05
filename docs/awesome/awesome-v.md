@@ -17,6 +17,7 @@
 ### Command-line
 
 - [HN-top](https://github.com/BafS/hn-top) - 列出来自hacker-news 的最新消息的简单命令.
+- [portctl](https://github.com/apoprotsky/portctl) - 使用 Portainer API 管理 Docker Swarm 资源的 CLI 工具.
 - [klonol](https://github.com/hungrybluedev/klonol)  - CLI 工具可帮助您“克隆所有”属于您的 git 存储库. 适用于 GitHub 和 Gitea.
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
@@ -116,7 +117,7 @@
 ### Discord
 
 - [discord.v](https://github.com/Terisback/discord.v) - 用户友好的 Discord 机器人库.
-- [viscord](https://github.com/vlang/viscord) - Pretty basic library for connecting to the Discord gateway.
+- [viscord](https://github.com/vlang/viscord) - 用于连接 Discord 网关的非常基本的库.
 - [vord](https://github.com/9xN/vord) - 用于与用户帐户端点和网关（Self-bots、自定义客户端等）交互的库.
 
 ### Eventing
@@ -268,9 +269,9 @@
 
 ### Syntax highlighting
 
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V 语法高亮显示 [Kate](https://kate-editor.org/).
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - Atom 的 V 语言支持（vscode-vlang 的端口）.
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V 语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
 - [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的高质量语法突出显示.
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
 - [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
