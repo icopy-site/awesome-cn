@@ -238,6 +238,7 @@
 - [graphqlite](https://github.com/thecodingmachine/graphqlite) - 与框架无关的库，允许您通过注释 PHP 类来编写 GraphQL 服务器.
 - [siler](https://github.com/leocavalcante/siler) - 为具有订阅支持的 GraphQL 服务器提供声明性 API 的普通函数.
 - [graphql-request-builder](https://github.com/dpauli/php-graphql-request-builder) - 在 GraphQL 结构中构建请求负载.
+- [drupal/graphql](https://www.drupal.org/project/graphql) - 为 Drupal 8+ 制作和公开 GraphQL 模式.
 
 <a name="php-example" />
 

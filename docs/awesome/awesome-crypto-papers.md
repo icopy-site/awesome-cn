@@ -11,7 +11,7 @@
 
 此列表的目标是为不同级别的密码知识提供教育阅读材料. 我开始它是因为我的日常工作是在 [Cossack Labs](https://www.cossacklabs.com) 包括对他们进行密码学方面的教育，并就特定主题提供阅读建议，这涉及反复查找相同的材料. 希望它对其他人也有用. 
 
-它针对的是在更高级别的安全系统中使用密码学来实现各种方案中的数据库加密、安全共享、端到端加密的人们，并且应该了解它是如何工作的，它是如何失败的以及它是如何受到攻击的. 它不是著名/重要/具有历史意义的论文的列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都更好地掌握了他们需要什么），也不是针对想要成为密码学家的系统研究（他们最好在专业指导下遵循结构化方法）. 
+它针对的是在更高级别的安全系统中使用密码学来实现数据库加密、安全共享、各种方案中的端到端加密的人们，并且应该了解它是如何工作的，它是如何失败的以及它是如何受到攻击的. 它不是著名/重要/具有历史意义的论文的列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都能更好地掌握他们需要什么），也不是针对想要成为密码学家的系统研究（他们最好在专业指导下遵循结构化方法）. 
 
 随着我发现一些“必备”的价值，它将逐渐扩展. 非常欢迎拉取请求.
 
@@ -80,7 +80,7 @@
 * [The Galois/Counter Mode of Operation (GCM)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
 * [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全性，更具体地说，是 AES GCM 模式，作者 David A. McGrew 和 John Viega.
 * [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata 为具有较高反碰撞概率的 AES GCM 生成随机数的分析和算法.
-* [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - An overview of existing searchable encryption schemes, and analysis of scheme built on AES-GCM, blind index and bloom filter by Eugene Pilyankevich, Dmytro Kornieiev, Artem Storozhuk.
+* [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - Eugene Pilyankevich、Dmytro Kornieiev、Artem Storozhuk 对现有可搜索加密方案的概述，以及基于 AES-GCM、盲索引和布隆过滤器的方案分析.
 
 #### Cryptanalysis
 
@@ -107,6 +107,8 @@
 * [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) - 对攻击 RSA 及其内部结构的深入调查，作者 Dan Boneh. 
 * [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - D. Boneh, D. Brumley 攻击实际加密实施的一个例子.
 * [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - K. Bentahar.
+* [SoK: Password-Authenticated Key Exchange – Theory, Practice, Standardization and Real-World Lessons](https://eprint.iacr.org/2021/1492.pdf) - PAKE 算法的历史和分类.
+* [RSA, DH and DSA in the Wild](https://eprint.iacr.org/2022/048.pdf) - 收集导致利用不对称密码学的实施错误.
 
 #### Public key cryptography: Elliptic-curve crypto
 
@@ -164,7 +166,7 @@
 * [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Bart Van Rompay 对各种密码和散列函数的设计和密码分析的广泛概述.
 * [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - 主要以数学为导向的关于学习、使用和试验密码程序的信息.
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  - Alfred J. Menezes、Paul C. van Oorschot 和 Scott A. Vanstone. 密码学和密码学的经典介绍.
-* [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)  - 迈克·罗苏莱克. 很多基本的东西都涵盖得很好. 没有ECC.
+* [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 * [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - 由 Victor Shoup 撰写，关于密码学中普遍使用的数学的优秀入门书籍. 
 
 <hr>

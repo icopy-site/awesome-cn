@@ -8,7 +8,7 @@
 
 &gt; 令人敬畏的物联网项目和资源的精选列表.
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) list thing.
+灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
 
 
@@ -29,6 +29,7 @@
 - [Raspberry Pi](https://www.raspberrypi.org/)  - Raspberry Pi 是一款低成本、信用卡大小的计算机，可插入计算机显示器或电视，并使用标准键盘和鼠标. 它能够完成您期望台式计算机完成的所有工作，从浏览互联网和播放高清视频，到制作电子表格、文字处理和玩游戏.
 - [Tessel](https://tessel.io/)  - Tessel 是一个完全开源和社区驱动的物联网和机器人开发平台. 它包含开发板、硬件模块插件以及在其上运行的软件.
 - [UDOO](http://www.udoo.org) - UDOO 是一款集成了 Arduino 2 兼容微控制器的单板计算机，专为计算机科学教育、创客世界和物联网而设计.
+- [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)  - Raspberry Pi Pico 是一款小巧、快速、多功能的开发板，配备了由 Raspberry Pi Foundation 开发的 RP2040 微控制器芯片. 它还配备 2.4GHz 802.11n 无线 LAN 变体，非常适合物联网.
 
 ### Software
 
@@ -39,7 +40,7 @@
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - **注意：Android Things 已贬值.** Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置并与彼此以及您的智能手机无缝协作. 
- - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，小到足以适应家庭路由器中有限的存储空间和内存.
+ - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，足够小以适应家庭路由器中有限的存储空间和内存.
  - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy)  - Snappy Ubuntu Core 是带有事务更新的 Ubuntu 新版本. 它提供了一个最小的服务器映像，其中包含与今天的 Ubuntu 相同的库，但应用程序是通过更简单的机制提供的.
  - [Mbed OS](https://os.mbed.com/)  - 物联网 (IoT) Cortex-M 板的开源操作系统：低功耗、受限和连接.  Mbed OS 为其运行的微控制器提供了一个抽象层，因此开发人员可以编写在任何支持 Mbed 的板上运行的 C/C++ 应用程序.
  - [NodeOS](http://node-os.com/) - NodeOS 是一个完全用 Javascript 编写的操作系统，由 npm 在 Linux 内核之上管理.
@@ -52,11 +53,11 @@
 
 #### Programming languages
 
-&gt; 本节重新组合了所有与嵌入式开发相关的出色编程语言，无论是编译型、解释型还是 DSL.
+> This sections regroups every awesome programming language, whether it is compiled, interpreted or a DSL, related to embedded development.
 
  - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - 一种通用的命令式计算机编程语言，支持结构化编程、词法变量范围和递归，而静态类型系统可防止许多意外操作.
  - [C++](https://en.wikipedia.org/wiki/C%2B%2B)  - 一种通用编程语言. 它具有命令式、面向对象和通用编程特性，同时还提供了低级内存操作的工具.
- - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉且易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
+ - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉和易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
  - [Lua](http://www.lua.org/)  - Lua 是一种强大、快速、轻量级、可嵌入的脚本语言.  Lua 是动态类型的，通过解释基于寄存器的虚拟机的字节码运行，并具有自动内存管理和增量垃圾收集，使其成为配置、脚本和快速原型设计的理想选择.
  - [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
  - [ELFE](http://c3d.github.io/elfe/)  - ELFE 是一种非常简单且小型的编程语言. 虽然它是一种通用编程语言，但它经过专门调整以促进对传感器或执行器等小型设备群的配置和控制.
@@ -79,7 +80,7 @@
  - [Iotivity](https://iotivity.org/) - IoTivity 是一个开源软件框架，可实现设备到设备的无缝连接，以满足物联网的新兴需求.
  - [Kura](https://eclipse.org/kura/)  - Kura 旨在为在服务网关中运行的 M2M 应用程序提供基于 Java/OSGi 的容器.  Kura 为 M2M 应用程序所需的最常见服务提供或聚合开源实现.
  - [Lelylan](http://www.lelylan.com/)  - Lelylan 是一个基于轻量级微服务架构的物联网云平台.  Lelylan 平台既与硬件无关，也与平台无关. 这意味着您可以连接任何硬件，从 ESP8266 到最专业的嵌入式硬件解决方案以及介于两者之间的一切 - 它可以在任何公共云、您自己的私有数据中心甚至混合环境中运行，无论是虚拟化还是裸机.
- - [Macchina.io](https://github.com/macchina-io/macchina.io)  - macchina.io EDGE 是一个丰富的软件框架，用于快速构建在基于 Linux 的设备上运行的物联网设备应用程序.  macchina.io EDGE 实现了一个支持 Web 的、安全的、模块化的和可扩展的 JavaScript 和 C++ 运行时环境，并提供了即用型和经过行业验证的软件构建块. 这些使设备能够与各种传感器、其他设备和云服务通信，并在本地、边缘设备或本地网络内处理、分析和过滤传感器数据.
+ - [Macchina.io](https://github.com/macchina-io/macchina.io)  - macchina.io EDGE 是一个丰富的软件框架，用于快速构建在基于 Linux 的设备上运行的物联网设备应用程序.  macchina.io EDGE 实现了一个支持 Web 的、安全的、模块化和可扩展的 JavaScript 和 C++ 运行时环境，并提供了即用型和经过行业验证的软件构建块. 这些使设备能够与各种传感器、其他设备和云服务通信，并在本地、边缘设备或本地网络内处理、分析和过滤传感器数据.
  - [Mihini](https://wiki.eclipse.org/Mihini)  - Mihini 的主要目标是提供在 Linux 之上运行的嵌入式运行时，它公开用于构建 M2M 应用程序的高级 API.  Mihini 旨在通过促进对 M2M 系统的 I/O 的访问、提供通信层等来实现简单和可移植的开发.
  - [OpenHAB](http://www.openhab.org/)  - openHAB 运行时是一组部署在 OSGi 框架 (Equinox) 上的 OSGi 包. 因此，它是一个纯 Java 解决方案，需要 JVM 才能运行. 基于 OSGi，它提供了高度模块化的架构，甚至允许在运行时添加和删除功能而无需停止服务.
  - [Gobot](http://gobot.io/) - Gobot 是一个用于机器人、物理计算和物联网的框架，用 Go 编程语言编写.
@@ -139,7 +140,7 @@
 #### Miscellaneous
 
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button 是一款连接 Wi-Fi 的设备，只需按一下按钮即可重新订购您喜爱的商品.
- - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建器.
+ - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建者.
  - [Nebula](http://nebula.readthedocs.io) - 一个用于管理物联网设备的 docker 编排器.
  - [Gladys](https://gladysassistant.com) - Gladys 是一个在树莓派上运行并集成到整个家庭网络系统中的开源程序.
  - [authBroker](https://github.com/authbroker/authbroker) - Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter，如 Aedes.
@@ -163,7 +164,7 @@
 
 低功耗蓝牙（Bluetooth LE，BLE，作为蓝牙智能销售）是由蓝牙特别兴趣小组设计和销售的一种无线个人区域网络技术，旨在针对医疗保健、健身、信标、安全和家庭娱乐行业的新应用.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
 
- &gt; 与经典蓝牙相比，智能蓝牙旨在提供显着降低的功耗和成本，同时保持相似的通信范围. 蓝牙 SIG 预测，到 2018 年，超过 90% 的蓝牙智能手机将支持蓝牙智能.
+ &gt; 与经典蓝牙相比，智能蓝牙旨在显着降低功耗和成本，同时保持相似的通信范围. 蓝牙 SIG 预测，到 2018 年，超过 90% 的蓝牙智能手机将支持蓝牙智能.
 
 #### [EC-GSM-IoT](http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/) (EC-GSM-IoT Group)
 

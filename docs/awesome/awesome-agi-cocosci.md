@@ -207,11 +207,11 @@
 
 * [Dual Space Search During Scientific Reasoning](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1201_1) - ***认知科学***，1988 年. [[All Versions](https://scholar.google.com/scholar?cluster=17542852673494089523&hl=en&as_sdt=2005&sciodt=0,5) ]. 对偶空间搜索作为科学思维理论的原始论文.
 
-* [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf) - ***CogSci&#39;92***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974&hl=en&as_sdt=2005&sciodt=0,5)]. Advanced experiments on dual space search.
+* [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf) - ***CogSci&#39;92***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974&hl=en&as_sdt=2005&sciodt=0,5) ]. 双空间搜索的高级实验.
 
 * [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***国际人机研究杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678&hl=en&as_sdt=2005&sciodt=0,5) ]. 双空间搜索的迭代版本（深度和宽度）.
 
-* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***认知心理学***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5) ]. 一个证据表明儿童具有基本的科学思维能力.
+* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***Cognitive Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5) ]. 一个证据表明儿童具有基本的科学思维能力.
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
@@ -438,11 +438,11 @@
 
 #### Dimensionality Reduction
 
-* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907) ]. 关于频谱聚类的原始论文.
+* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907)]. The original paper on spectrum clustering.
 
 * [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
 
-* [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对表征学习的评论.
+* [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5)]. Yoshua Bengio's review on representation learning.
 
 * [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***统计及其应用年度回顾***，2020年. [[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293&hl=en&as_sdt=2005&sciodt=0,5) ].  Song-Chun Zhu 和 Ying Nian Wu 对表示学习的评论，在统计中.
 
@@ -609,7 +609,7 @@
 
 * [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***心理评论***，1958 年. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5) ]. 赫伯特西蒙关于人类问题解决的最初想法.
 
-* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs, NJ: Prentice-hall***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5) ].  Herbert Simon 将人类问题解决作为搜索的经典思想.
+* [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs，新泽西州：Prentice-hall***，1972 年. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5) ].  Herbert Simon 将人类问题解决作为搜索的经典思想.
 
 * [Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments](http://196.223.158.148/bitstream/handle/123456789/2978/596.pdf?sequence=1&isAllowed=y) - ***泰勒弗朗西斯***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=13262690779319271809&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -948,7 +948,7 @@
 
 * [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) - ***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350&hl=en&as_sdt=0,5)].
 
-* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) - ***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5) ]. 社会科学中大规模行为研究带来的优点的一个证据.
+* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) - ***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5)]. A piece of evidence for the merits brought by large-scale behavioral studies in social science.
 
 * [Integrating explanation and prediction in computational social science](http://jakehofman.com/pdfs/integrating-prediction-and-explanation.pdf) - ***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=288245575125750925&hl=en&as_sdt=0,5)].
 
@@ -1079,7 +1079,7 @@
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
 
-* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403) ].  Tom Griffiths 的评论通过人类局限性的三个方面来理解人类智能的独特性.
 
 
 #### Cognitive Architecture
@@ -1112,7 +1112,6 @@
 
 
 
-<span id = "tom"></span>
 ### Theory of Mind
 
 * [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind)  - ***维基百科***.  Wikipedia on Theory of Mind (ToM)，一种估计他人目标、信念和欲望的认知能力.
@@ -1282,7 +1281,7 @@
 
 #### Intuitive Physics
 
-* [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***认知科学趋势***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
+* [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***认知科学趋势***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203) ]. 鲁宏景对直觉物理学的评论.
 
 
 * [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***美国国家科学院院刊***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402&hl=en&as_sdt=0,5) ]. 人类大脑中直觉物理学功能部分的证据.
@@ -1333,7 +1332,7 @@
 
 * [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847&hl=en&as_sdt=0,5)].
 
-* [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - *** ACM 通讯***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553&hl=en&as_sdt=0,5)].
 
@@ -1481,7 +1480,7 @@
 
 * [Bootstrapping in a language of thought: A formal model of numerical concept learning](https://core.ac.uk/display/78064072) - ***认知***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=13046606910781656302&hl=en&as_sdt=0,5)].
 
-* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***Center for Brains, Minds, and Machines MEMO No.010***, 2014. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
+* [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***大脑、思想和机器中心备忘录第 010 号***，2014 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14593712389828476130)].
 
 * [Exploring the Conceptual Universe](http://www.charleskemp.com/papers/kemp_exploringtheconceptualuniverse.pdf) - ***心理评论***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=17824067813343816306&hl=en&as_sdt=0,5)].
 
@@ -1564,7 +1563,7 @@
 
 * [Childhood as a solution to explore–exploit tensions](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0502) - ***英国皇家学会哲学汇刊 B：生物科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11960188575664977017&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)].
+* [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***自然通讯***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)].
 
 * [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***儿童发展***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)].
 
@@ -1736,9 +1735,9 @@
 
 ### Princeton
 
-* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***普林斯顿***， [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***心理学系，普林斯顿***.
+* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***心理学系，普林斯顿***.
 
-* [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***普林斯顿***， [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***心理学系，计算机科学系，普林斯顿***.
+* [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***心理学系，计算机科学系，普林斯顿***.
 
 
 ### Harvard

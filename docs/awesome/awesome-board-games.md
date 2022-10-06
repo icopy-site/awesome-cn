@@ -13,6 +13,18 @@
 
 ## Family
 
+### [Dungeon Mayhem](https://boardgamegeek.com/boardgame/260300/dungeon-mayhem)
+
+&gt; 在这款动感十足的《龙与地下城》纸牌游戏中，您将通过成为最后一位站立的冒险家而获胜.
+> 
+ &gt; 扮演四个勇敢、古怪的角色之一——野蛮人、圣骑士、盗贼或巫师——在充满宝藏的地牢中与它战斗！ 随着魔法导弹的投掷、双匕首的投掷和尖刺的盾牌的叮当声，由你来证明你的冒险家有胆量把荣耀带回家！
+
+![Dungeon Mayhem](https://cf.geekdo-images.com/faJfKYz6tG8JvDYqYHBjHg__itemrep/img/KHoxN3JiwDTqAibJdkagE4T7n_M=/fit-in/246x300/filters:strip_icc()/pic5322689.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | ---: |
+ |  2 - 4 |  8 |  10m |
+
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
  &gt; 屋子里的幽灵 Balduin 在城堡的地窖里发现了一台旧相机. 他立即拍摄了他喜欢在他困扰时消失的一切——当然包括他自己. 不幸的是，魔法相机拍摄了许多颜色错误的照片. 有时绿瓶是白色的，有时是蓝色的. 看着照片，Balduin 已经不记得他接下来想让什么消失了. 你能帮助他解决他的困扰并快速命名正确的物品，甚至自己让它消失吗？ 如果你快速抓住正确的物品，你就有很大的获胜机会......
@@ -454,7 +466,7 @@
 
 ### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
 
- &gt; 辉煌让你置身于文艺复兴时期的富商，试图与他人竞争，以建立全欧洲最赚钱和最负盛名的珠宝业务. 玩家将相互竞争购买宝石矿、交通工具和店面，以增加自己的财富并积累最多的声望点. 随着你的名气和财富的增长，你甚至可能会引起当地贵族的注意......
+ &gt; Splendor 让您置身于文艺复兴时期的富商，试图与他人竞争，以建立全欧洲最赚钱和最负盛名的珠宝业务. 玩家将相互竞争购买宝石矿、交通工具和店面，以增加自己的财富并积累最多的声望点. 随着你的名气和财富的增长，你甚至可能会引起当地贵族的注意......
 
 ![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
 
@@ -525,7 +537,7 @@
 
 ### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
- &gt; 加入有史以来的战斗！ 从所有不同时代、种族和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
+ &gt; 加入有史以来的战斗！ 从所有不同时代、物种和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
 
 ![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
@@ -723,7 +735,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  3 - 10 |  8 |  10-15m |
+|  3 - 10 |        8 | 10-15m |
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
@@ -804,7 +816,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2 - 6 |        8 | 40-75m |
+ |  2 - 6 |  8 |  40-75m |
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 

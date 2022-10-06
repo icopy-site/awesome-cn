@@ -810,7 +810,7 @@
 
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) —（以前称为 `pep8`）根据 PEP 8 中的一些样式约定检查 Python 代码.
 
-- [pydocstyle](http://www.pydocstyle.org) — 检查是否符合 Python 文档字符串约定.
+- [pydocstyle](http://www.pydocstyle.org) — Check compliance with Python docstring conventions.
 
 - [pyflakes](https://pypi.org/project/pyflakes) — 检查 Python 源文件是否有错误.
 
@@ -1249,6 +1249,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Semgrep](https://semgrep.dev)  — 一种快速、开源的静态分析工具，用于在编辑器、提交和 CI 时发现错误并执行代码标准. 它的规则看起来像你已经编写的代码； 没有抽象语法树或正则表达式摔跤. 支持 17 多种语言.
 
+- [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain)  :copyright: — 快速查找并修复高优先级安全问题.  Semgrep 供应链优先考虑可从您的代码中访问的 2% 的漏洞.
+
 - [ShiftLeft](https://www.shiftleft.io)  :copyright: — 在您的代码库进入生产环境之前识别它们特有的漏洞. 利用代码属性图 (CPG) 在单个图表中同时运行其分析. 自动发现开发中的业务逻辑缺陷，例如硬编码的秘密和逻辑炸弹
 
 - [ShiftLeft Scan](https://slscan.io)  — Scan 是一个免费的开源 DevSecOps 平台，用于检测源代码和依赖项中的安全问题. 它支持广泛的语言和 CI/CD 管道.
@@ -1434,7 +1436,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [dotenv-linter](https://dotenv-linter.readthedocs.io/en/latest) — Linting dotenv 文件就像一个魅力.
 
-- [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/) — Lightning-fast linter for .env files. Written in Rust
+- [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/)  — 用于 .env 文件的闪电般快速的 linter. 用锈写
 
 - [gixy](https://github.com/yandex/gixy)  — 分析 Nginx 配置的工具. 主要目标是防止错误配置和自动化缺陷检测.
 
@@ -1488,7 +1490,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 <h2 id="container">容器</h2>
 
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 

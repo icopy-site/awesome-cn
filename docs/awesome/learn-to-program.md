@@ -3,15 +3,11 @@
 ## Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### Foundation in Web Development
 
- Internet 上充满了数量不断增加的课程、书籍和指南，供各种技能水平的程序员提高技能. 不幸的是，这些资源要么很难找到，要么质量低下.
+互联网上充斥着越来越多的课程、书籍和指南，供各种技能水平的程序员提高技能. 不幸的是，这些资源要么很难找到，要么质量低下.
 
 该列表旨在成为一组精选的高质量教育资源. 突出显示了平台上免费内容的可用性以及所涵盖的主要主题.
 
 ## Beginner
-
-#### [Mozilla Webmaker](https://webmaker.org/)
-**免费**社区和工具集来学习创建网页和应用程序\
-*（HTML、CSS、JavaScript？）*
 
 #### [Codecademy](https://www.codecademy.com/)
 **免费** 学习网络技术编码的平台\
@@ -63,7 +59,7 @@
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **免费**带有互动练习和测验的 SQL 课程\
-*(SQL, database concepts)*
+*（SQL，数据库概念）*
 
 #### [GitHub Learning Lab](https://lab.github.com/)
  **免费** 用于学习 Git 和 GitHub 的自定进度交互式项目. 由 GitHub 的培训团队创建和维护.\
@@ -92,7 +88,7 @@
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
-**免费**有关如何编程绘图、动画、游戏和网页以及更高级计算机科学主题的中级到高级课程\
+**免费**有关如何编程绘图、动画、游戏和网页以及更高级的计算机科学主题的中级到高级课程\
 *（HTML、CSS、JavaScript、算法、密码学）*
 
 #### [Udacity](https://www.udacity.com/)
@@ -133,7 +129,7 @@
 
 #### [CodingBat](https://codingbat.com/)
 **免费** Python和Java练习题\
-* (Python, Java) *
+*（Python，Java）*
 
 #### [Codewars](https://www.codewars.com/)
  **免费**代码挑战. 将您的解决方案与其他解决方案进行比较.\

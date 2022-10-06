@@ -58,6 +58,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) - 无法确定的问题和它们之间的减少库.
 - [Hahn](https://github.com/vafeiadis/hahn) - 用于推理列表和二元关系的库.
 - [Interaction Trees](https://github.com/DeepSpec/InteractionTrees) - 表示递归和不纯程序的库.
+- [LibHyps](https://github.com/Matafou/LibHyps) - Ltac 策略库，用于管理和操纵证明中的假设.
 - [MathComp Extra](https://github.com/thery/mathcomp-extra) - 数学组件库的额外材料，包括 AKS 素性测试和 RSA 加密和解密.
 - [Mczify](https://github.com/math-comp/mczify) - 在使用数学组件编号定义时，使 Micromega 算术求解器能够工作的库.
 - [Metalib](https://github.com/plclub/metalib) - 使用本地无名变量绑定表示的编程语言元理论库.
@@ -79,7 +80,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
 - [Dune](https://dune.build) - 用于 OCaml 和 Coq（前 jbuilder）的可组合和自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) - Linux 和其他 Unix 系统的包管理器，支持原子升级和回滚.
-- [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Nix 的 Coq 相关包的集合.
+- [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Collection of Coq-related packages for Nix.
 - [opam](https://opam.ocaml.org) - 灵活且对 Git 友好的 OCaml 和 Coq 包管理器，具有多种编译器支持.
 
 ### Plugins
@@ -87,7 +88,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写普遍量化方程、模结合性和某些运算符的交换性的策略.
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架，提供广泛的 API 来实现命令和策略.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤子工具，它结合了从以前的证明中学习与将问题转换为自动证明者和重建找到的证明.
-- [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
+- [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现有关浮点算术和舍入误差的目标的策略.
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - 用于基于打包类声明 Coq 层次结构的命令集合.
 - [Itauto](https://gitlab.inria.fr/fbesson/itauto) - 类似 SMT 的策略，用于关于函数符号、构造函数和算术的组合命题推理.

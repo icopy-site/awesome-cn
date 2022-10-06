@@ -111,7 +111,7 @@
 * [Stenodyon/blink](https://github.com/Stenodyon/blink) - 一个关于用激光构建逻辑的游戏.
 * [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) - 受 NetHack 启发的 Hack-n-slash roguelike.
 * [tiehuis/zstack](https://github.com/tiehuis/zstack) - 线赛俄罗斯方块模式.
-* [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - 用于游戏和实时计算机图形的线性代数库.
+* [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
 * [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - 一个吃豆人克隆.
 * [dantecatalfamo/OpenCSE](https://github.com/dantecatalfamo/OpenCSE) - 免费实施 Can&#39;t Stop Express 骰子游戏.
 
@@ -136,6 +136,7 @@
 
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Lua C API 的绑定.
+* [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) - OpenCV4 的绑定.
 * [BraedonWooding/Lazy-Zig](https://github.com/BraedonWooding/Lazy-Zig) - 林克.
 * [DutchGhost/maybeuninit](https://github.com/DutchGhost/maybeuninit) - 也许Uninit.
 * [emekoi/log.zig](https://github.com/emekoi/log.zig) - 一个线程安全的日志库.
@@ -171,7 +172,7 @@
 * [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) - 网络上的 Zig fmt.
 * [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) - 通用 WASM 运行时绑定到 C API.
 * [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Wasmer WebAssembly 运行时的绑定.
-* [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
+* [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Wasmtime 的绑定.
 * [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - 小胡子实施.
 
 

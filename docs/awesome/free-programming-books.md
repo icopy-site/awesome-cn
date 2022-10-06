@@ -133,6 +133,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ar.md)
 + [Bengali / বাংলা](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-bn.md)
 + [Bulgarian / български](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-bg.md)
++ [Chinese](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md)
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fi.md)
 + [French / français](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-fr.md)
@@ -182,6 +183,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 免费播客和截屏：
 
 + [Arabic / al Arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
++ [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-fi.md)

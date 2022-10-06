@@ -203,7 +203,7 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
 <a name="clojure-data-visualization"></a>
 #### Data Visualization
 * [Hanami](https://github.com/jsa-aerial/hanami)  : Clojure(Script) 库和框架，用于创建基于 Vega-Lite (VGL) 和/或 Vega (VG) 规范的交互式可视化应用程序. 自动框架和布局以及用于抽象可视化规范的强大模板系统
-* [Saite](https://github.com/jsa-aerial/saite) - Clojure（脚本）客户端/服务器应用程序，用于动态交互式探索和创建实时共享文档，使用 Vega/Vega-Lite、CodeMirror、markdown 和 LaTeX 捕获它们
+* [Saite](https://github.com/jsa-aerial/saite) - Clojure(Script) 客户端/服务器应用程序，用于动态交互式探索和创建实时共享文档，使用 Vega/Vega-Lite、CodeMirror、markdown 和 LaTeX 捕获它们
 * [Oz](https://github.com/metasoarous/oz) - 使用 Vega/Vega-Lite 和 Hiccup 的数据可视化，以及用于文学编程的实时重载平台
 * [Envision](https://github.com/clojurewerkz/envision) - Clojure 数据可视化库，基于 Statistiker 和 D3.
 * [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) - 基于 Gorilla-REPL 的 Clojure/Clojurescript 笔记本应用程序/-库
@@ -355,7 +355,7 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
 * [haskell-ml](https://github.com/ajtulloch/haskell-ml)  - 各种机器学习算法的 Haskell 实现.  **[已弃用]**
 * [HLearn](https://github.com/mikeizbicki/HLearn)  - 一套用于根据代数结构解释机器学习模型的库.  **[已弃用]**
 * [hnn](https://github.com/alpmestan/HNN) - Haskell 神经网络库.
-* [hopfield-networks](https://github.com/ajtulloch/hopfield-networks)  - 在 Haskell 中进行无监督学习的 Hopfield 网络.  **[已弃用]**
+* [hopfield-networks](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell. **[Deprecated]**
 * [DNNGraph](https://github.com/ajtulloch/dnngraph)  - 用于深度神经网络的 DSL.  **[已弃用]**
 * [LambdaNet](https://github.com/jbarrow/LambdaNet)  - Haskell 中的可配置神经网络.  **[已弃用]**
 
@@ -446,9 +446,9 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
 #### Natural Language Processing
 
 * [Twitter-text](https://github.com/twitter/twitter-text) - Twitter 文本处理库的 JavaScript 实现.
-* [natural](https://github.com/NaturalNode/natural) - 节点的一般自然语言设施.
+* [natural](https://github.com/NaturalNode/natural) - 节点的通用自然语言设施.
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - JS 中的自然语言处理器.
-* [Retext](https://github.com/retextjs/retext) - Extensible system for analyzing and manipulating natural language.
+* [Retext](https://github.com/retextjs/retext) - 用于分析和操作自然语言的可扩展系统.
 * [NLP Compromise](https://github.com/spencermountain/compromise) - 浏览器中的自然语言处理.
 * [nlp.js](https://github.com/axa-group/nlp.js) - 一个 NLP 库，内置于自然节点之上，具有实体提取、情感分析、自动语言识别等功能.
 
@@ -521,7 +521,7 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
 <a name="javascript-misc"></a>
 #### Misc
 
-* [stdlib](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+* [stdlib](https://github.com/stdlib-js/stdlib)  - JavaScript 和 Node.js 的标准库，重点是数值计算. 该库为数学、统计、流、实用程序等提供了一组强大的高性能库.
 * [sylvester](https://github.com/jcoglan/sylvester)  - JavaScript 的向量和矩阵数学.  **[已弃用]**
 * [simple-statistics](https://github.com/simple-statistics/simple-statistics)  - 描述性、回归和推理统计的 JavaScript 实现. 在没有依赖关系的文字 JavaScript 中实现，旨在在所有现代浏览器（包括 IE）以及 Node.js 中工作.
 * [regression-js](https://github.com/Tom-Alexander/regression-js) - 一个 javascript 库，包含一组最小二乘拟合方法，用于在一组数据中查找趋势.
@@ -573,7 +573,7 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
 * [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、变异感知的数据流 Dep 调度器； 适用于 Python、R、Julia、Go、Javascript 等.
 * [Merlin](https://github.com/hshindo/Merlin.jl) - Julia 中灵活的深度学习框架.
 * [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - 评估概率二元分类器的接收器操作特性和功能.
-* [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - 大规模高斯混合模型.
+* [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models.
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - scikit-learn API 的 Julia 实现.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç 大学深度学习框架.
 * [Flux](https://fluxml.ai/)  - 放松！  Flux 是不会让你张量的 ML 库
@@ -651,7 +651,7 @@ _如果你想为这个列表做出贡献（请做），请给我发送请求请�
   * [vowpalwabbit](https://github.com/clementfarabet/vowpal_wabbit)  - 火炬的旧 vowpalwabbit 界面.  **[已弃用]**
   * [OpenGM](https://github.com/clementfarabet/lua---opengm)  - OpenGM 是一个用于图形建模和推理的 C++ 库.  Lua 绑定提供了一种简单的方式来描述来自 Lua 的图形，然后使用 OpenGM 优化它们.  **[已弃用]**
   * [spaghetti](https://github.com/MichaelMathieu/lua---spaghetti) - @MichaelMathieu 为 torch7 提供的意大利面条（稀疏线性）模块 **[已弃用]**
-  * [LuaSHKit](https://github.com/ocallaco/LuaSHkit) - A lua wrapper around the Locality sensitive hashing library SHKit **[Deprecated]**
+  * [LuaSHKit](https://github.com/ocallaco/LuaSHkit) - 一个围绕局部敏感散列库 SHKit 的 lua 包装器**[已弃用]**
   * [kernel smoothing](https://github.com/rlowrance/kernel-smoothers)  - KNN，核加权平均，局部线性回归平滑器.  **[已弃用]**
   * [cutorch](https://github.com/torch/cutorch) - 火炬 CUDA 实施.
   * [cunn](https://github.com/torch/cunn) - Torch CUDA 神经网络实现.
@@ -867,7 +867,7 @@ be
 #### Computer Vision
 
 * [Scikit-Image](https://github.com/scikit-image/scikit-image) - Python 图像处理算法的集合.
-* [Scikit-Opt](https://github.com/guofei9987/scikit-opt) - Python中的群智能（Python中的遗传算法、粒子群优化、模拟退火、蚁群算法、免疫算法、人工鱼群算法）
+* [Scikit-Opt](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm,Artificial Fish Swarm Algorithm in Python)
 * [SimpleCV](http://simplecv.org/)  - 一个开源计算机视觉框架，可以访问多个高性能计算机视觉库，例如 OpenCV. 用 Python 编写，可在 Mac、Windows 和 Ubuntu Linux 上运行.
 * [Vigranumpy](https://github.com/ukoethe/vigra) - VIGRA C++ 计算机视觉库的 Python 绑定.
 * [OpenFace](https://cmusatyalab.github.io/openface/) - 使用深度神经网络的免费和开源人脸识别.
@@ -911,7 +911,7 @@ be
 * [spammy](https://github.com/tasdikrahman/spammy) - 基于 nltk 构建的电子邮件垃圾邮件过滤库
 * [loso](https://github.com/fangpenlin/loso)  - 另一个中文分词库.  **[已弃用]**
 * [genius](https://github.com/duanhongyi/genius) - 基于条件随机场的中文片段.
-* [KoNLPy](http://konlpy.org) - 用于韩国自然语言处理的 Python 包.
+* [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 * [nut](https://github.com/pprett/nut)  - 自然语言理解工具包.  **[已弃用]**
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - 文本处理工具和包装器（例如 Vowpal Wabbit）
 * [BLLIP Parser](https://pypi.org/project/bllipparser/)  - BLLIP 自然语言解析器（也称为 Charniak-Johnson 解析器）的 Python 绑定.  **[已弃用]**
@@ -963,6 +963,7 @@ be
 * [Couler](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 * [auto_ml](https://github.com/ClimbsRocks/auto_ml)  - 用于生产和分析的自动化机器学习. 让您专注于 ML 的有趣部分，同时输出可用于生产的代码以及数据集和结果的详细分析. 包括对 NLP、XGBoost、CatBoost、LightGBM 和深度学习的支持.
 * [dtaidistance](https://github.com/wannesm/dtaidistance) - 用于时间序列距离 (DTW) 和时间序列聚类的高性能库.
+* [einops](https://github.com/arogozhnikov/einops) - 重新发明了深度学习操作（用于 pytorch、tensorflow、jax 等）.
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - 自动构建包括 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), 和一组 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机. 相应的数据集存储到 SQL 数据库中，然后生成的用于预测的模型存储到 NoSQL 数据存储中.
 * [XGBoost](https://github.com/dmlc/xgboost) - 用于 eXtreme Gradient Boosting (Tree) Library 的 Python 绑定.
 * [ChefBoost](https://github.com/serengil/chefboost)  - 用于 Python 的轻量级决策树框架，具有分类特征支持，涵盖常规决策树算法，如 ID3、C4.5、CART、CHAID 和回归树； 还有一些先进的 bagging 和 boosting 技术，例如梯度提升、随机森林和 adaboost.
@@ -972,7 +973,7 @@ be
 * [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Spark 中的分布式机器学习库
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - 用于将 Apache Spark MLLib 机器学习模型部署为实时、批处理或反应式 Web 服务的服务.
 * [Towhee](https://towhee.io) - 将非结构化数据编码为嵌入的 Python 模块.
-* [scikit-learn](https://scikit-learn.org/) - 基于 SciPy 构建的用于机器学习的 Python 模块.
+* [scikit-learn](https://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [metric-learn](https://github.com/metric-learn/metric-learn) - 用于度量学习的 Python 模块.
 * [Intel(R) Extension for Scikit-learn](https://github.com/intel/scikit-learn-intelex) - 一种无缝的方式来加速您的 Scikit-learn 应用程序，而不会损失准确性和代码更改.
 * [SimpleAI](https://github.com/simpleai-team/simpleai)  《Artificial Intelligence, a Modern Approach》一书中描述的许多人工智能算法的 Python 实现. 它专注于提供一个易于使用、有据可查且经过测试的库.
@@ -1013,7 +1014,7 @@ be
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - 用于贝叶斯隐马尔可夫模型 (HMM) 和显式持续时间隐半马尔可夫模型 (HSMM) 中的近似无监督推理库，专注于贝叶斯非参数扩展、HDP-HMM 和 HDP-HSMM，主要使用弱极限近似.
 * [SKLL](https://github.com/EducationalTestingService/skll) - 围绕 scikit-learn 的包装器，可以更轻松地进行实验.
 * [neurolab](https://github.com/zueve/neurolab)
-* [Spearmint](https://github.com/HIPS/Spearmint)  - Spearmint 是根据论文中概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek、Hugo Larochelle 和 Ryan P. Adams. 神经信息处理系统的进展，2012 年.**[已弃用]**
+* [Spearmint](https://github.com/HIPS/Spearmint)  - Spearmint 是一个根据论文中概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek、Hugo Larochelle 和 Ryan P. Adams. 神经信息处理系统的进展，2012 年.**[已弃用]**
 * [Pebl](https://github.com/abhik/pebl/)  - 用于贝叶斯学习的 Python 环境.  **[已弃用]**
 * [Theano](https://github.com/Theano/Theano/) - 在 Python 中优化 GPU 元编程代码生成面向数组的优化数学编译器.
 * [TensorFlow](https://github.com/tensorflow/tensorflow/) - 使用数据流图进行数值计算的开源软件库.
@@ -1038,7 +1039,7 @@ be
 * [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) - 带有 scikit-learn API 的用于贝叶斯机器学习的 Python 包.
 * [fuku-ml](https://github.com/fukuball/fuku-ml) - 简单的机器学习库，包括 Perceptron、Regression、Support Vector Machine、Decision Tree 等，对初学者来说简单易学.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - 一个基于 Web 的应用程序，用于快速、可扩展和自动的超参数调整和堆叠集成.
-* [PyTorch](https://github.com/pytorch/pytorch) - 具有强大 GPU 加速功能的 Python 中的张量和动态神经网络
+* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - 用于高性能 AI 研究的轻量级 PyTorch 包装器.
 * [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - 用于 AI/ML 研究人员的模型、回调和数据集工具箱.
 * [skorch](https://github.com/skorch-dev/skorch) - 一个封装 PyTorch 的 scikit-learn 兼容神经网络库.
@@ -1216,7 +1217,7 @@ be
 #### Neural Networks
 
 * [nn_builder](https://github.com/p-christ/nn_builder) - nn_builder 是一个 python 包，可让您在 1 行中构建神经网络
-* [NeuralTalk](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+* [NeuralTalk](https://github.com/karpathy/neuraltalk) - NeuralTalk 是一个 Python+numpy 项目，用于学习用句子描述图像的多模态循环神经网络.
 * [Neuron](https://github.com/molcik/python-neuron)  - 神经元是时间序列预测的简单类. 它利用 LNU（线性神经单元）、QNU（二次神经单元）、RBF（径向基函数）、MLP（多层感知器）、MLP-ELM（多层感知器 - 极限学习机）神经网络通过梯度下降或 LeLevenberg 学习——马夸特算法.
 
 * [NeuralTalk](https://github.com/karpathy/neuraltalk2)  - NeuralTalk 是一个 Python+numpy 项目，用于学习用句子描述图像的多模态循环神经网络.  **[已弃用]**
@@ -1241,12 +1242,12 @@ be
 
 <a name="python-kaggle-competition-source-code"></a>
 #### Kaggle Competition Source Code
-* [open-solution-home-credit](https://github.com/neptune-ml/open-solution-home-credit) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) 为了 [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
-* [open-solution-googleai-object-detection](https://github.com/neptune-ml/open-solution-googleai-object-detection) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Google-AI-Object-Detection-Challenge) 为了 [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track).
-* [open-solution-salt-identification](https://github.com/neptune-ml/open-solution-salt-identification) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Salt-Detection) 为了 [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge).
-* [open-solution-ship-detection](https://github.com/neptune-ml/open-solution-ship-detection) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Ships) 为了 [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
-* [open-solution-data-science-bowl-2018](https://github.com/neptune-ml/open-solution-data-science-bowl-2018) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Data-Science-Bowl-2018) 为了 [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
-* [open-solution-value-prediction](https://github.com/neptune-ml/open-solution-value-prediction) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Santander-Value-Prediction-Challenge) 为了 [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge).
+* [open-solution-home-credit](https://github.com/neptune-ml/open-solution-home-credit) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Home-Credit-Default-Risk) for [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk).
+* [open-solution-googleai-object-detection](https://github.com/neptune-ml/open-solution-googleai-object-detection) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Google-AI-Object-Detection-Challenge) for [Google AI Open Images - Object Detection Track](https://www.kaggle.com/c/google-ai-open-images-object-detection-track).
+* [open-solution-salt-identification](https://github.com/neptune-ml/open-solution-salt-identification) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Salt-Detection) for [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge).
+* [open-solution-ship-detection](https://github.com/neptune-ml/open-solution-ship-detection) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Ships) for [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection).
+* [open-solution-data-science-bowl-2018](https://github.com/neptune-ml/open-solution-data-science-bowl-2018) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Data-Science-Bowl-2018) for [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018).
+* [open-solution-value-prediction](https://github.com/neptune-ml/open-solution-value-prediction) -&gt; 源代码和 [experiments results](https://app.neptune.ml/neptune-ml/Santander-Value-Prediction-Challenge) for [Santander Value Prediction Challenge](https://www.kaggle.com/c/santander-value-prediction-challenge).
 * [open-solution-toxic-comments](https://github.com/neptune-ml/open-solution-toxic-comments) -&gt; 源代码 [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge).
 * [wiki challenge](https://github.com/hammer/wikichallenge) - Dell Zhang 解决 Wikipedia 在 Kaggle 上的参与挑战的解决方案的实施.
 * [kaggle insults](https://github.com/amueller/kaggle_insults) - Kaggle 提交的“检测社会评论中的侮辱”.
@@ -1405,7 +1406,7 @@ be
 * [penalizedLDA](https://cran.r-project.org/web/packages/penalizedLDA/index.html)  - penalizedLDA：使用 Fisher 线性判别式的惩罚分类.  **[已弃用]**
 * [penalizedSVM](https://cran.r-project.org/web/packages/penalizedSVM/index.html) - penalizedSVM：使用惩罚函数的特征选择 SVM.
 * [quantregForest](https://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest：分位数回归森林.
-* [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest：Breiman 和 Cutler 用于分类和回归的随机森林.
+* [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 * [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC：用于生存、回归和分类的随机森林 (RF-SRC).
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html) - 拨浪鼓：R 中用于数据挖掘的图形用户界面.
 * [rda](https://cran.r-project.org/web/packages/rda/index.html) - rda：收缩质心正则化判别分析.
@@ -1518,7 +1519,7 @@ be
 * [bioscala](https://github.com/bioscala/bioscala) - Scala 编程语言的生物信息学
 * [BIDMach](https://github.com/BIDData/BIDMach) - CPU 和 GPU 加速的机器学习库.
 * [Figaro](https://github.com/p2t2/figaro) - 用于构建概率模型的 Scala 库.
-* [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O and Spark interoperability.
+* [H2O Sparkling Water](https://github.com/h2oai/sparkling-water) - H2O 和 Spark 互操作性.
 * [FlinkML in Apache Flink](https://ci.apache.org/projects/flink/flink-docs-master/dev/libs/ml/index.html) - Flink 中的分布式机器学习库.
 * [DynaML](https://github.com/transcendent-ai-labs/DynaML) - 用于机器学习研究的 Scala 库/REPL.
 * [Saul](https://github.com/CogComp/saul) - 灵活的声明式基于学习的编程.
@@ -1560,7 +1561,7 @@ be
 <a name="tensorflow-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 * [Awesome Keras](https://github.com/markusschanta/awesome-keras) - 很棒的 Keras 项目、库和资源的精选列表.
-* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow.
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - 与 TensorFlow 相关的所有内容的列表.
 
 <a name="tools"></a>
 ## Tools
@@ -1575,6 +1576,7 @@ be
 * [Qdrant](https://qdrant.tech) – Qdrant 是 [open source](https://github.com/qdrant/qdrant) 具有扩展过滤支持的向量相似性搜索引擎，用 Rust 编写.
 * [milvus](https://milvus.io) - 他是一只风筝 [open source](https://github.com/milvus-io/milvus) 用于生产 AI 的向量数据库，用 Go 和 C++ 编写，可扩展且速度极快，可用于数十亿个嵌入向量.
 * [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate 是一个 [open source](https://github.com/semi-technologies/weaviate) 矢量搜索引擎和矢量数据库.  Weaviate 使用机器学习来矢量化​​和存储数据，并找到自然语言查询的答案. 使用 Wea​​viate，您还可以将您的自定义 ML 模型用于生产规模.
+* [txtai](https://github.com/neuml/txtai) - 构建语义搜索应用程序和工作流程.
 * [MLReef](https://about.mlreef.com/) - MLReef 是一个端到端的开发平台，它利用 git 的强大功能为 ML 开发过程提供结构化和深度协作的可能性.
 * [Pinecone](https://www.pinecone.io/) - 用于需要实时、可扩展向量嵌入和相似性搜索的应用程序的向量数据库.
 * [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - 浏览器扩展（[Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) 和 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds 和 shows code implementations for machine learning papers anywhere: Google, Twitter, Arxiv, Scholar, etc.
@@ -1587,7 +1589,7 @@ be
 * [guild.ai](https://guild.ai/)  - 记录、分析、比较和“优化”实验的工具. 它是跨平台和独立于框架的，并提供了集成的可视化工具，例如 tensorboard.
 * [Sacred](https://github.com/IDSIA/sacred)  - 帮助您配置、组织、记录和重现实验的 Python 工具. 就像化学/生物学背景下的笔记本实验室. 社区利用提议的标准构建了多个附加组件.
 * [Comet](https://www.comet.com/)  - 用于跟踪实验、超参数、工件等的 ML 平台. 它与超过 15 个深度学习框架和编排工具深度集成. 用户还可以使用该平台来监控他们在生产中的模型.
-* [MLFlow](https://mlflow.org/) - platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. Framework and language agnostic, take a look at all the built-in integrations.
+* [MLFlow](https://mlflow.org/)  - 管理机器学习生命周期的平台，包括实验、再现性和部署. 框架和语言不可知，看看所有的内置集成.
 * [Weights & Biases](https://www.wandb.com/) - 机器学习实验跟踪、数据集版本控制、超参数搜索、可视化和协作
 * 更多改善机器学习生命周期的工具： [Catalyst](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/) . 以下是类似 Github 和目标团队 [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) - 一本关于通用机器学习技术回归、分类、无监督聚类、强化学习、自动编码器、卷积神经网络、RNN、LSTM 的书，使用 TensorFlow 1.14.1.
@@ -1601,7 +1603,7 @@ be
 <a name="books"></a>
 ## Books
 
-* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)   - 这本书教你如何将机器学习模型从你的个人笔记本电脑带到大型分布式集群. 您将探索成功的分布式机器学习系统背后的关键概念和模式，并直接从关键维护者和贡献者那里学习 TensorFlow、Kubernetes、Kubeflow 和 Argo 工作流等技术，并提供真实场景和动手项目.
+* [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)   - 这本书教你如何将机器学习模型从你的个人笔记本电脑带到大型分布式集群. 您将探索成功的分布式机器学习系统背后的关键概念和模式，并直接从关键维护者和贡献者那里学习 TensorFlow、Kubernetes、Kubeflow 和 Argo Workflows 等技术，并提供真实场景和动手项目.
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Grokking 机器学习教您如何仅使用标准 Python 代码和高中水平的数学将 ML 应用到您的项目中.
 * [Machine Learning Bookcamp](https://www.manning.com/books/machine-learning-bookcamp) - 通过完成一组精心设计的真实世界项目来学习机器学习的基本知识.
 
