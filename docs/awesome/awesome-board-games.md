@@ -17,7 +17,7 @@
 
 &gt; 在这款动感十足的《龙与地下城》纸牌游戏中，您将通过成为最后一位站立的冒险家而获胜.
 > 
- &gt; 扮演四个勇敢、古怪的角色之一——野蛮人、圣骑士、盗贼或巫师——在充满宝藏的地牢中与它战斗！ 随着魔法导弹的投掷、双匕首的投掷和尖刺的盾牌的叮当声，由你来证明你的冒险家有胆量把荣耀带回家！
+ &gt; 扮演四个勇敢、古怪的角色之一——野蛮人、圣骑士、盗贼或巫师——在充满宝藏的地牢中与它战斗！ 随着魔法导弹的投掷、双匕首的投掷和尖刺的盾牌的叮当声，你要证明你的冒险家有胆量把荣耀带回家！
 
 ![Dungeon Mayhem](https://cf.geekdo-images.com/faJfKYz6tG8JvDYqYHBjHg__itemrep/img/KHoxN3JiwDTqAibJdkagE4T7n_M=/fit-in/246x300/filters:strip_icc()/pic5322689.jpg)
 
@@ -57,7 +57,7 @@
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
-&gt; ...玩家扮演勇敢的冒险家，他们必须不顾一切，在酷热和狂风沙中生存下来，以便找回埋在古老沙漠城市下的传奇飞行器.
+> ...players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city.
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
@@ -67,7 +67,7 @@
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
- &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能会被禁足.Forbidden 游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息集体规划地形和构建真正的电路.
+ &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能被禁足.这个游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息共同规划地形和构建真正的电路.
 
 ![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
 
@@ -304,7 +304,7 @@
 
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
- &gt; 伟大的 7 Wonders 概念特别适合两名玩家. 感觉非常“七大奇迹”，并进行了一些改进，许多人将其用于主要游戏，例如重新设计的军事和科学胜利以及新的商业动态. 玩游戏总是让我想再玩一次.
+ &gt; 伟大的 7 Wonders 概念特别适合两名玩家. 感觉非常“七大奇迹”，并进行了一些改进，许多人将这些改进带到了主要游戏中，例如重新设计的军事和科学胜利以及新的商业动态. 玩游戏总是让我想再玩一次.
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
@@ -362,7 +362,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|       2 |        9 | 30-60m |
+ |  2 |  9 |  30-60m |
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
@@ -376,7 +376,7 @@
 
 ### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
- &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四个道路的标志性领袖角色，不仅为人民的至高无上和福祉而奋斗，而且为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
+ &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四道标志性领袖的角色，不仅为人民的至高无上和福祉而奋斗，还为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -735,7 +735,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|  3 - 10 |        8 | 10-15m |
+ |  3 - 10 |  8 |  10-15m |
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
@@ -749,7 +749,7 @@
 
 ### [Catan](https://www.catan.com/game/catan)
 
- &gt; 想象自己处于发现时代：经过漫长的极度贫困航行后，您的船只终于抵达了一个未知岛屿的海岸. 它的名字应该是卡坦！ 但你不是唯一的发现者. 其他无所畏惧的海员也登陆了卡坦海岸：定居该岛的竞赛已经开始！
+> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
 
 ![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg)
 
@@ -826,7 +826,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  1 - 5 |  10 |  45-60m |
+|   1 - 5 |       10 | 45-60m |
 
 ### [Terraforming Mars](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
@@ -985,7 +985,7 @@
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
  &gt; 与城市中其他有影响力的家族竞争，通过熟练使用您可以使用的助手和资源来获得最尊贵的头衔. 成功做到最好的球员将成为马拉喀什的新“Obermufti”.
- &gt; 马拉喀什分三轮进行，每轮由四轮组成. 每回合，玩家同时从屏幕后面偷偷选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些在前一轮卡住但现在出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的未来行动. 行动可以让玩家获得财富，这些财富可以用来换取城市的影响力. 随着游戏的进行，执行各种动作也可以获得奖励并进一步增强动作. 游戏结束时得分最高的玩家获胜.
+> Marrakesh is played over three rounds, with each round consisting of four turns. On each turn, players simultaneously and secretly choose three colored cylinders from behind their screen. Then, in turn order, they place matching colored assistants on their player board and perform the corresponding action, then all cylinders are placed in the cube tower. Then, in turn order, players select a color and take 1-2 of the cylinders that have passed through the tower (or those that were stuck from a previous round but have now emerged) and place them on their player boards. These cylinders will enhance future actions taken in the same color in future rounds. Actions allow players to gain wealth, which can be traded for influence in the city. Performing various actions also earns bonuses and enhances actions even more as the game proceeds. The player who scores the most points by the end of the game wins.
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
@@ -1001,7 +1001,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | --------:|
- |  2 - 6 |  6+ |  10m |
+|   2 - 6 |      6+  |      10m |
 
 ### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
 
@@ -1097,7 +1097,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   2  |        8+ | 30m around|
+ |  2 |  8+ |  30m左右|
 
 ### [Say What? Shiok Food Card Game](https://www.saywhatwithfriends.com/shop/say-what-singapores-shiok-food-card-game)
 
@@ -1133,8 +1133,30 @@
 | ------: | -------: | -----: |
  |  2 - 6 |  14 | 约45m |
 
+
+### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
+
+ &gt; 在 Decypto 中，由 2 到 4 名玩家组成的两支队伍进行比赛. 你的目标是在不让对方截获的情况下将代码传送给你的队友. 因此，你的沟通应该足够清晰，让你的团队理解，但又足够模糊，让你的对手感到困惑. 您还试图拦截对手的代码.
+
+![Decrypto image](https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__itemrep/img/9Kx83YFeiA7DeSjMxyfmv6-cGC8=/fit-in/246x300/filters:strip_icc()/pic3759421.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  3 - 8 |  12 |  15-45m |
+
+
+### [Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)
+
+ &gt; 奥什拉岛处于动荡之中. 皇帝死后，山地部落与帝国军队之间的冲突升级. 当水族试图在老对手之间保持平衡时，不死族的目标是升级战争. 所有的希望都寄托在皇帝的六个孩子身上：他们中的谁将继承王位？ 在 Hidden Leaders 中，您扮演六位秘密领袖之一的角色，他们每个人都与四个派系/颜色中的两个结盟. 通过公开或秘密地在你的画面中扮演英雄，你会影响冲突的结果. 游戏结束时，四个阵营中的一个将获胜：红色领先 &gt; 红色胜利 绿色领先 &gt; 绿色胜利 红绿平局 &gt; 蓝色胜利 战区红绿 &gt; 黑色胜利 每个与胜利结盟的玩家派系可以要求胜利. 但是，他们必须拥有比任何竞争对手更多的这种颜色的英雄.  Hidden Leaders 是一款快速、轻量级的策略纸牌游戏，与玩家直接互动. 它结合了构图和演绎元素及其独特的获胜机制. 这是一个非常紧张的游戏，没有停机时间，学习速度很快. 其独特的艺术品和角色名称会让您微笑.
+
+![Hidden Leaders](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc()/pic5845169.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+|--------:|---------:|-------:|
+ |  2 - 6 |  10 |  20-40m 
+
 ## Contribute
 
-Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
+欢迎和鼓励贡献！ 首先阅读[贡献指南][contrib-guide].
 
 [贡献指南]：贡献.md

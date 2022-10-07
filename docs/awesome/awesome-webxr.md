@@ -25,7 +25,7 @@
 
 *以艺术创作为中心的项目.*
 
-- [Brushwork VR](https://brushworkvr.com/) - 一个 VR 应用程序，它使用虚拟画布、调色板、颜色混合等来模拟绘画过程.
+- [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
 - [SoulPaint](https://hatsumi.netlify.app/) - 一个 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来说明生活体验.
 - [Obscura](https://obscura.world/) - 漂浮并探索受卡洛·斯卡帕建筑启发的结构.
 - [Silk Brush](https://www.silkbrush.app/) - 将 Tilt Brush 移植到 WebXR，并计划未来扩展.
@@ -38,8 +38,8 @@
 - [beats](https://beats.gatunes.com/) - 一个半协作的应用程序，带有不同的房间，任何人都可以在其中创建或修改现有的音乐循环.
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听方的录音部分仍然可以查看.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家的云.
-- [Helicon](https://www.helicon.live/) - 多节奏的沉浸式介绍.
-- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
+- [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
+- [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的沉浸式视听体验进行线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
@@ -110,7 +110,7 @@
 
 ### Engines
 
-- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - 基于three.js 和bitECS 构建的全栈MMO 引擎，支持WebXR.
 
 - [Godot](https://godotengine.org/) - 自 3.2.4 版起支持 WebXR 的跨平台开源引擎.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
@@ -195,7 +195,8 @@
 
 ### Realms
 
-- [Cryptovoxels](https://www.cryptovoxels.com/) - 一个由以太坊驱动的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等.
+- [Cryptovoxels](https://www.cryptovoxels.com/) - 一个由以太坊驱动的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等等.
+- [Hyperfy](https://hyperfy.io/)  - 一个平台，可托管多达 10,000 个可定制、跨平台和身临其境的虚拟世界. 建立在三个.js 之上，由以太坊提供支持.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - 一个网络查看器，可让您从 [Somnium Space](https://www.somniumspace.com/) 在您的浏览器中，Oculus Quest 浏览器支持 VR.
 - [vrland](https://vrland.io/) - 一个支持展示 NFT 的聚会和虚拟展示平台.
 - [Webaverse](https://webaverse.com/)  - 由以太坊提供支持的开源虚拟世界，支持自定义头像. 专注于数字所有权、开放经济和互操作性.

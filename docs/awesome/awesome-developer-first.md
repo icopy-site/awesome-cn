@@ -74,7 +74,6 @@
 
 ## Debugging 
 *有助于跟踪错误的工具.*
-* [Google Cloud's operations suite](https://cloud.google.com/products/operations) - 一组用于谷歌云的调试原语（捕获、日志注入等）.
 * [Lightrun](https://www.lightrun.com) - 使用支持 Java、Node.js 和 Python 的 IDE（本地或 SaaS）中的插件调试生产服务器.
 * [Rookout](https://www.rookout.com)  - 通过基于云的调试器调试生产服务器. 支持 Java、.Net、Node.js、Python 和 Ruby.
 
@@ -171,7 +170,7 @@
 ## Misc
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发者优先的工厂建设.
-* [ngrok](https://ngrok.com/) - 为内部服务器（在 NAT/防火墙后面）生成公共 URL.
+* [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙后面）.
 * [zigi](https://www.zigi.ai/) - 通过 Slack 处理普通非编码任务的开发人员助手.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像提高生产力的格子一样.
 * [Interval](https://interval.com/) - SDK 为您的产品构建内部工具和脚本.

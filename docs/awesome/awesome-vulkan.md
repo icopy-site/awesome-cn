@@ -129,7 +129,7 @@
 *  [DDraceNetwork](https://github.com/ddnet/ddnet/) - 可选的合作 2D 平台游戏 [Vulkan backend](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
 *  [Doom](https://en.wikipedia.org/wiki/Doom_(2016_video_game)) - 通过 id 软件.
 *  [vkQuake](https://github.com/Novum/vkQuake)  - 基于 QuakeSpasm 的 Vulkan Quake 端口.  [通用公共许可证]
-*  [vkQuake2](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). [GPL]
+*  [vkQuake2](https://github.com/kondrak/vkQuake2)  - id Software 的 Quake 2 v3.21 支持 Vulkan（Windows 和 Linux）.  [通用公共许可证]
 *  [q2vkpt](https://github.com/cschied/q2vkpt/)  - 实时路径追踪器 VKPT 集成到 q2pro Quake 2 客户端.  [gpl]
 *  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) - SteamVR 建立在 Vulkan API 之上.
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API 开销测试.
@@ -137,9 +137,9 @@
 
 ## Samples
 * 计时码表 [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
-* 萨沙·威廉斯 [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *（不完整）萨沙·威廉斯 [samples port](https://github.com/jvm-graphics-labs/Vulkan) 到科特林
-* 萨沙·威廉斯 [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - physical based rendering with Vulkan using glTF 2.0 models. [MIT]
+*  Sascha Willems's [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  - 使用 glTF 2.0 模型使用 Vulkan 进行基于物理的渲染.  [麻省理工学院]
 *  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 * 谷歌
     *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
@@ -198,6 +198,8 @@ drm/kms.
    *  [Screen 13](https://github.com/attackgoat/screen-13)  - 一个易于使用的 Rust 的 Vulkan 渲染图.  [麻省理工学院]
 
 * 框架、引擎、更高级别的渲染
+   *  [Auto-Vk](https://github.com/cg-tuwien/Auto-Vk)  - 现代 C++ 的 Vulkan 便利性和生产力层，位于 Vulkan-Hpp 之上，由 TU Wien 计算机图形研究部提供.  [麻省理工学院]
+   *  [Auto-Vk-Toolkit](https://github.com/cg-tuwien/Auto-Vk-Toolkit) - 围绕 C++ 框架 [Auto-Vk](https://github.com/cg-tuwien/Auto-Vk) 由 TU Wien 计算机图形学研究部负责快速原型设计、研究和教学.  [框架代码的麻省理工学院]
    *  [Falcor](https://github.com/NVIDIAGameWorks/Falcor)  - 来自 NVIDIA 的实时渲染框架，主要支持 DX12，具有实验性 Vulkan 支持.  [BSD 3 条款]
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge)  - DirectX 12、Vulkan、macOS Metal 2 渲染框架.  [Apache 许可证 2.0]
    *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  - 一个现代的跨平台低级图形库，支持 OpenGL/GLES、Direct3D11/12 和 Vulkan.  [Apache 许可证 2.0]
@@ -234,7 +236,7 @@ drm/kms.
    *  [gfx-portability](https://github.com/gfx-rs/portability) - Metal 和 D3D12 上的 Vulkan Portability 实现，基于 [gfx-rs](https://github.com/gfx-rs/gfx/).
 
 * 光线追踪
-   *  [Quartz](https://github.com/Nadrin/Quartz)  - 基于物理的 Vulkan RTX 路径跟踪器，具有类似 ES7 的声明性场景描述语言.  [LGPL-3.0]
+   *  [Quartz](https://github.com/Nadrin/Quartz) - Physically based Vulkan RTX path tracer with a declarative ES7-like scene description language. [LGPL-3.0]
 
 * 科学
    *  [datoviz](https://github.com/datoviz/datoviz)  - 使用 Vulkan 的高性能 GPU 交互式科学数据可视化.  [麻省理工学院]

@@ -315,7 +315,7 @@
 
 * [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***心理学年度评论***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1611451804975333652) ].  Alan Yuille 对贝叶斯物体感知的评论.
 
-* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计建模三大家族的回顾.
+* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***Quarterly of Applied Mathematics***, 2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计建模三大家族的回顾.
 
 * [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理的转变的统计说明.
 
@@ -438,7 +438,7 @@
 
 #### Dimensionality Reduction
 
-* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907)]. The original paper on spectrum clustering.
+* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907) ]. 关于频谱聚类的原始论文.
 
 * [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
 
@@ -1102,7 +1102,7 @@
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***维基百科***.
 
-* [Science of Science](https://www.science.org/doi/abs/10.1126/science.aao0185) - ***科学***，2018 年.对科学科学的全面大规模审查.
+* [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***科学***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5) ]. 对科学科学的全面大规模审查.
 
 * [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型分析科学主题.
 
@@ -1332,7 +1332,7 @@
 
 * [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847&hl=en&as_sdt=0,5)].
 
-* [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - ***Communications of the ACM***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Designing games with a purpose](https://dl.acm.org/doi/fullHtml/10.1145/1378704.1378719) - *** ACM 通讯***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=18332117920150730595&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553&hl=en&as_sdt=0,5)].
 
@@ -1437,7 +1437,7 @@
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
-* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
+* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, which is a logic formalism designed for representing and reasoning about dynamical domains.
 
 * [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对“这是必要的”和“有可能的”表达的演绎行为的研究.
 

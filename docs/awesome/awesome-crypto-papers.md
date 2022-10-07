@@ -89,11 +89,12 @@
 * [Self-Study Course in Block Cipher Cryptanalysis](https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html) - 尝试以一种学生可以用来学习密码分析技术和破解新算法的方式来组织现有的分组密码密码分析文献，作者 Bruce Schneier.
 * [Statistical Cryptanalysis of Block Ciphers](http://crypto.junod.info/phdthesis.pdf) ——帕斯卡·朱诺.
 * [Cryptanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - Elad Pinhas Barkan.
-* [Too much crypto](https://eprint.iacr.org/2019/1492.pdf) - Jean-Philippe Aumasson 分析对称密码学原语的轮数，并建议减少轮数.
+* [Too much crypto](https://eprint.iacr.org/2019/1492.pdf) - Analysis of number of rounds for symmetric cryptography primitives, and suggestions to do fewer rounds, by Jean-Philippe Aumasson.
 * [How to Break MD5 and Other Hash Functions](https://iacr.org/archive/eurocrypt2005/34940019/34940019.pdf) - 2005 年关于 MD5、MD4 和其他散列函数的模差分碰撞攻击的论文，作者 Xiaoyun Wang 和 Hongbo Yu.
 * [New attacks on Keccak-224 and Keccak-256](https://www.iacr.org/archive/fse2012/75490447/75490447.pdf) - Itai Dinur、Orr Dunkelman、Adi Shamir 于 2012 年发表的一篇关于使用微分和代数技术组合对 SHA-3 进行碰撞攻击的论文.
 * [A Single-Key Attack on the Full GOST Block Cipher](https://www.iacr.org/archive/fse2011/67330297/67330297.pdf) - 对 GOST 分组密码的攻击（“Reflection-Meet-inthe-Middle Attack”），允许通过 2^225 次计算和 2^32 个已知明文恢复密钥，作者 Takanori Isobe.
 * [Intro to Linear & Differential Cryptanalysis](http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf) - 一篇对初学者友好的论文，解释和演示线性和差分密码分析技术.
+* [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/pdf/mega-malleable-encryption-goes-awry.pdf)  - 对 MEGA 数据存储的攻击的概念验证版本. 展示它们的实用性和可利用性. [Official webpage](https://mega-awry.io/).
 
 #### Public key cryptography: General and DLP
 
@@ -155,6 +156,7 @@
 * [Post-quantum cryptography - dealing with the fallout of physics success](https://eprint.iacr.org/2017/314.pdf) - 简要观察可用于构建密码系统以抵御后量子计算机攻击的数学任务.
 * [Post-quantum cryptography](https://web.archive.org/web/20210510200628/https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) - 后量子密码学简介.
 * [Post-quantum RSA](https://cr.yp.to/papers/pqrsa-20170419.pdf) - Daniel Bernshtein 对如何在后量子时代拯救 RSA 的见解.
+* [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf)  - 油和醋签名方案，由 Patarin 于 1997 年提出，是最古老和最容易理解的多元二次签名方案之一. 它具有出色的性能和签名大小. 本文是关于在后量子时代增强该算法的使用. [Official website](https://pqmayo.org/).
 
 <hr>
 
@@ -166,7 +168,7 @@
 * [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Bart Van Rompay 对各种密码和散列函数的设计和密码分析的广泛概述.
 * [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - 主要以数学为导向的关于学习、使用和试验密码程序的信息.
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)  - Alfred J. Menezes、Paul C. van Oorschot 和 Scott A. Vanstone. 密码学和密码学的经典介绍.
-* [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
+* [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)  - 迈克·罗苏莱克. 很多基本的东西都涵盖得很好. 没有ECC.
 * [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - 由 Victor Shoup 撰写，关于密码学中普遍使用的数学的优秀入门书籍. 
 
 <hr>

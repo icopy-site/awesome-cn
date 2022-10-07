@@ -144,7 +144,7 @@
 
 - [CPAchecker](https://cpachecker.sosy-lab.org)  — 用于 C 程序的可配置软件验证的工具. 选择 CPAchecker 这个名称是为了反映该工具基于 CPA 概念并用于检查软件程序.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
+- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -230,7 +230,7 @@
 
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) — 测量 C 文件的大小和复杂性.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
+- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -327,7 +327,7 @@
 - [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是一个分析 D 源代码的工具.
 
 
-<h2 id="elixir">Elixir</h2>
+<h2 id="elixir">灵药</h2>
 
 
 - [credo](https://github.com/rrrene/credo) — 专注于代码一致性和教学的静态代码分析工具.
@@ -776,7 +776,7 @@
 
 - [Black](https://black.readthedocs.io/en/stable) — 毫不妥协的 Python 代码格式化程序.
 
-- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流畅 API，用于在代码中生成复杂的代码修改.
+- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流利的 API，用于在代码中生成复杂的代码修改.
 
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  — Linter、格式化程序和测试套件助手. 作为 linter，它是 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的包装器.
 
@@ -810,7 +810,7 @@
 
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) —（以前称为 `pep8`）根据 PEP 8 中的一些样式约定检查 Python 代码.
 
-- [pydocstyle](http://www.pydocstyle.org) — Check compliance with Python docstring conventions.
+- [pydocstyle](http://www.pydocstyle.org) — 检查是否符合 Python 文档字符串约定.
 
 - [pyflakes](https://pypi.org/project/pyflakes) — 检查 Python 源文件是否有错误.
 
@@ -898,7 +898,7 @@
 
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) — Ruby 类交互式依赖图生成器.
 
-- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Ruby 的静态代码分析.
+- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Static code analysis for Ruby.
 
 - [rubycritic](https://github.com/whitesmith/rubycritic) — Ruby 代码质量报告员.
 
@@ -1125,7 +1125,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [CodeFactor](https://codefactor.io) :copyright: — GitHub 或 BitBucket 上 repos 的自动代码分析.
 
-- [CodeFlow](https://www.getcodeflow.com) :copyright: — Automated code analysis tool to deal with technical depth. Integrates with Bitbucket and Gitlab. (free for Open Source Projects)
+- [CodeFlow](https://www.getcodeflow.com)  :copyright: — 处理技术深度的自动化代码分析工具. 与 Bitbucket 和 Gitlab 集成.  （开源项目免费）
 
 - [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方式来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
 
@@ -1221,7 +1221,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Putout](https://github.com/coderaiser/putout) — 可插入和可配置的代码转换器，内置 eslint，babel 插件支持 js、jsx typescript、flow、markdown、yaml 和 json.
 
-- [PVS-Studio](https://pvs-studio.com) :版权: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、MISRA 和 CERT 编码标准.
+- [PVS-Studio](https://pvs-studio.com) :版权: — A ([conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、OWASP ASVS、MISRA、AUTOSAR 和 SEI CERT 编码标准.
 
 - [pylama](https://klen.github.io/pylama/)  — 适用于 Python 和 JavaScript 的代码审计工具. 包装 pycodestyle、pydocstyle、PyFlakes、Mccabe、Pylint 等
 
@@ -1291,7 +1291,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [ThreatMapper](https://github.com/deepfence/ThreatMapper)  — 运行时容器、无服务器和主机的漏洞扫描器和风险评估.  ThreatMapper 从依赖项和操作系统包生成运行时 BOM，匹配多个威胁源，扫描未受保护的机密，并根据严重性和利用风险对问题进行评分.
 
-- [todocheck](https://github.com/preslavmihaylov/todocheck) — Linter 用于将带注释的 TODO 与您的问题跟踪器集成
+- [todocheck](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
 
 - [trivy](https://github.com/aquasecurity/trivy)  — 适用于 CI 的容器和其他工件的简单而全面的漏洞扫描程序.  Trivy 检测操作系统包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
@@ -1412,7 +1412,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [CSSLint](http://csslint.net) — 进行基本的语法检查并发现有问题的模式或效率低下的迹象.
 
-- [GraphMyCSS.com](https://graphmycss.com) — CSS 特异性图生成器.
+- [GraphMyCSS.com](https://graphmycss.com) — CSS Specificity Graph Generator.
 
 - [Nu Html Checker](https://validator.github.io/validator/) — 帮助您发现 HTML/CSS/SVG 中的问题
 
@@ -1426,7 +1426,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [scsslint](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 
-- [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS 特异性图生成器.
+- [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS Specificity Graph Generator.
 
 - [Stylelint](http://stylelint.io) — 用于 SCSS/CSS 文件的 Linter.
 
@@ -1490,7 +1490,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 <h2 id="container">容器</h2>
 
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 
@@ -1710,7 +1710,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [qark](https://github.com/linkedin/qark) — 用于查找多个与安全相关的 Android 应用程序漏洞的工具.
 
-- [redex](https://fbredex.com) — Redex provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes  that use this framework to improve the bytecode. An APK optimized by Redex should be smaller and faster.
+- [redex](https://fbredex.com)  — Redex 提供了一个用于读取、写入和分析 .dex 文件的框架，以及一组使用该框架改进字节码的优化通道.  Redex 优化的 APK 应该更小更快.
 
 
 <h2 id="nix">尼克斯</h2>

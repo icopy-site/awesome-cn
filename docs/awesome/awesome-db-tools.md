@@ -124,9 +124,10 @@
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - 从表数据推断 SQL DDL（数据定义语言）.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同文件中分离 DDL，输出格式漂亮.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到 ddl 初始化脚本集的命令行工具，能够过滤不需要的信息，在不同的文件中分离 DDL，漂亮的格式输出.
 
 ### Diagrams
+- [Azimutt](https://github.com/azimuttapp/azimutt) - 实体关系图 (ERD) 可视化工具，具有各种过滤器和输入，可帮助您了解数据库架构.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
 
 ### Documentations
@@ -283,6 +284,7 @@
 ### Analyzers
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - 自动检测常见的 SQL 反模式.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+- [SQLLineage](https://github.com/reata/sqllineage) - 由 Python 提供支持的 SQL 沿袭分析工具.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - 用于描述、识别和报告 TSQL 脚本中存在的反模式的工具.
 
 ### Extensions
@@ -372,7 +374,7 @@ SQL 的学习和谜题
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
 - [Litestream](https://github.com/benbjohnson/litestream) - SQLite 的流式复制.
 - [pgsync](https://github.com/ankane/pgsync) - 在数据库之间同步 Postgres 数据.
-- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像作为 JSONB 存储到 PostgreSQL 中.
+- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 用 Python 3 编写的 MySQL 到 PostgreSQL 副本系统.系统使用库 mysql-replication 从 MySQL 中提取行图像，这些图像以 JSONB 形式存储到 PostgreSQL 中.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - 使用 Postgres 逻辑解码功能通过 websocket 流式传输 Postgres 更改的 Golang 网络服务器至少一次.
 - [repmgr](https://github.com/2ndQuadrant/repmgr) - 最流行的 PostgreSQL 复制管理器.
 

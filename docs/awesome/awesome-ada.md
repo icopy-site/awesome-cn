@@ -223,6 +223,7 @@
 
 #### Build and Package
 - [alire](https://github.com/alire-project/alire)  - 一个即用型 Ada 库的目录以及一个命令行工具 (alr)，用于获取、编译并将它们合并到您自己的项目中. 它旨在完成与 Rust 的 cargo 或 OCaml 的 opam 类似的角色.
+- [aura](https://github.com/annexi-strayline/AURA)  - 一个集成的构建和源/包管理工具，具有更实用的版本控制方法. 替代 alire 和 gprbuild. 针对 CI/CD 管道进行了优化.
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore 多语言软件构建工具.
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Ravenports 的管理工具 http://www.ravenports.com.
 - [synth](https://github.com/jrmarino/synth) - 用于实时系统的 Next D/Ports 构建工具（Portmaster 和 Portupgrade 工具的替代品）.
@@ -286,6 +287,7 @@
 - [gnatcoll-json](https://github.com/persan/gnatcoll-json) - 这是一组用于编写 JSON 接口的助手，它包含大多数 Ada 运行时组件的 JSON 解析.
 - [gneiss](https://github.com/Componolit/gneiss)  - Gneiss 是一个接口集合，可与基于组件的系统的应用程序一起使用. 它旨在易于移植/平台独立，并与 [ada-runtime] 兼容
 - [lace](https://github.com/charlie5/lace) - 一组 Ada 组件，允许在 Ada 中进行 3D 模拟、游戏和 GUI.
+- [asap](https://github.com/annexi-strayline/ASAP)  - 一组通用库和厚绑定，用于 AURA 包管理/构建工具. 包括 TCP、TLS、HTTP、高性能 JSON 解析器/生成器和经过正式验证的 (SPARK) UTF-8 流解码器.
 
 #### Distributed
 - [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB 提供了一个统一的解决方案来构建依赖于中间件标准的分布式应用程序.
@@ -323,7 +325,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS 是在 Ada 中开发基于 Web 的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的即用型和可扩展模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
+- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的可立即使用和可扩展的模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 学说模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
