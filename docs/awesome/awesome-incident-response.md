@@ -16,7 +16,7 @@
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 映射到 MITRE ATT&amp;CK 框架的小型且高度便携的检测测试.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  - 自动化战术技术和程序. 手动重新运行复杂序列以进行回归测试、产品评估，为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 防御性安全培训软件，它将您的网络分析培训课程、事件响应演习和红队参与提升到一个新的水平.
-* [Caldera](https://github.com/mitre/caldera)  - 在 Windows Enterprise 网络中执行妥协后对抗行为的自动化对手仿真系统. 它使用基于对抗战术、技术和常识 (ATT&amp;CK™) 项目的计划系统和预先配置的对手模型在操作期间生成计划.
+* [Caldera](https://github.com/mitre/caldera)  - 在 Windows Enterprise 网络中执行妥协后对抗行为的自动化对手仿真系统. 它在操作期间使用计划系统和基于对抗战术、技术和常识 (ATT&amp;CK™) 项目的预配置对手模型生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 模块化的、菜单驱动的、跨平台的工具，用于构建可重复的、延时的、分布式的安全事件. 为蓝队演习和传感器/警报映射轻松创建自定义事件链. 红队可以制造诱饵事件、干扰和诱饵来支持和扩展他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 进行对抗模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
@@ -52,6 +52,7 @@
 ### Books
 
 * [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson 关于事件响应的书.
+* [Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - 检测 Windows、Linux 和 Mac 内存中的恶意软件和威胁.
 * [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406) - Jeff Bollinger、Brandon Enright 和 Matthew Valites.
 * [Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats](https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/183864900X) ——杰拉德·约翰森着.
 * [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - 斯科特 J. 罗伯茨.
@@ -66,7 +67,7 @@
 ### Communities
 
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek)  - 来自执法部门、私营部门和法医供应商的 8,000 多名在职专业人员组成的社区. 此外，还有很多学生和爱好者！ 指导 [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/). 
-* [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - SANS 为 DFIR 提供的邮件列表.
+* [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR.
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR 社区频道 - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
 
 ### Disk Image Creation Tools
@@ -116,7 +117,7 @@
 * [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) - 包含在分析过程中帮助调查人员的众多工具，包括法医证据收集.
 * [CCF-VM](https://github.com/rough007/CCF-VM) - CyLR CDQR 取证虚拟机 (CCF-VM)：用于解析收集的数据的一体化解决方案，通过内置的常用搜索使其易于搜索，可同时搜索单个和多个主机.
 * [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/)  - 用于计算机取证收集的 Linux 发行版. 它与 Windows 的数字高级响应工具包 (DART) 捆绑在一起. 还提供名为 DEFT Zero 的轻量版 DEFT，它主要专注于法医健全的证据收集.
-* [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux 发行版，其中包含大量对网络安全专业人员有用的同类最佳开源网络安全应用程序.
+* [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux 发行版，其中包括对网络安全专业人员有用的大量同类最佳开源网络安全应用程序.
 * [PALADIN](https://sumuri.com/software/paladin/)  - 修改了 Linux 发行版，以合理的方式执行各种取证任务. 它附带了许多开源取证工具.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - 针对具有高级分析工具的网络安全监控的特殊 Linux 发行版.
 * [SANS Investigative Forensic Toolkit (SIFT) Workstation](http://digital-forensics.sans.org/community/downloads) - 证明先进的事件响应能力和针对入侵的深入数字取证技术可以使用免费且经常更新的尖端开源工具来完成.
@@ -136,7 +137,7 @@
 * [Kaspersky CyberTrace](https://support.kaspersky.com/13850)  - 威胁情报融合和分析工具，将威胁数据馈送与 SIEM 解决方案集成. 用户可以立即利用威胁情报在其现有安全操作的工作流程中进行安全监控和事件报告 (IR) 活动.
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx)  - 针对结构化日志数据执行 SQL 查询：服务器日志、Windows 事件、文件系统、Active Directory、log4net 日志、逗号/制表符分隔的文本、XML 或 JSON 文件. 还为 Microsoft LogParser 2.2 提供了一个具有强大 UI 元素的 GUI：语法编辑器、数据网格、图表、数据透视表、仪表板、查询管理器等.
 * [Lorg](https://github.com/jensvoid/lorg) - 用于高级 HTTPD 日志文件安全分析和取证的工具.
-* [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的 CLI 实用程序和 Python API.
+* [Logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python API for analyzing log files and other data.
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - 通过可视化和分析 Windows 事件日志来调查恶意 Windows 登录的工具.
 * [Sigma](https://github.com/SigmaHQ/sigma) - 已包含大量规则集的 SIEM 系统的通用签名格式.
 * [StreamAlert](https://github.com/airbnb/streamalert) - 无服务器、实时日志数据分析框架，能够摄取自定义数据源并使用用户定义的逻辑触发警报.
@@ -171,7 +172,7 @@
 ### OSX Evidence Collection
 
 * [Knockknock](https://objective-see.com/products/knockknock.html) - 显示设置为在 OSX 上自动执行的持久项目（脚本、命令、二进制文件等）.
-* [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
+* [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - 基于插件的取证框架，用于在实时机器、磁盘映像或单个工件文件上工作的快速 mac 分类.
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - 免费的 Mac OS X 计算机取证工具.
 * [OSX Collector](https://github.com/yelp/osxcollector) - 用于实时响应的 OSX Auditor 分支.
 * [The ESF Playground](https://themittenmac.com/the-esf-playground/) - 实时查看 Apple Endpoint Security Framework (ESF) 中事件的工具.
@@ -228,7 +229,7 @@
 
 ### Sandboxing/Reversing Tools
 
-* [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) - Android Malware Analysis as a Service, executed in a native Android environment.
+* [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) - Android 恶意软件分析即服务，在原生 Android 环境中执行.
 * [Any Run](https://app.any.run/) - 交互式在线恶意软件分析服务，用于使用任何环境对大多数类型的威胁进行动态和静态研究.
 * [CAPEv2](https://github.com/kevoreilly/CAPEv2) - 恶意软件配置和有效负载提取.
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) - 开源高度可配置的沙盒工具.
@@ -245,6 +246,7 @@
 * [Reverse.IT](https://www.reverse.it/) - CrowdStrike 提供的混合分析工具的替代域.
 * [Rizin](https://github.com/rizinorg/rizin) - 类 UNIX 逆向工程框架和命令行工具集
 * [StringSifter](https://github.com/fireeye/stringsifter) - 一种机器学习工具，可根据字符串与恶意软件分析的相关性对字符串进行排名.
+* [Threat.Zone](https://app.threat.zone) - 基于云的威胁分析平台，包括沙箱、CDR 和研究人员的交互式分析. 
 * [Valkyrie Comodo](https://valkyrie.comodo.com) - Valkyrie 使用运行时行为和文件中的数百个特征来执行分析.
 * [Viper](https://github.com/viper-framework/viper) - 基于 Python 的二进制分析和管理框架，适用于 Cuckoo 和 YARA.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - 用于日志的开源可视化库和命令行工具（Cuckoo、Procmon 等）.

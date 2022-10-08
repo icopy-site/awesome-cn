@@ -88,7 +88,7 @@
 *音频、声音、音乐、数字化语音库*
 
 * [AudioFile](https://github.com/adamstark/AudioFile)  - 用于读取和写入音频文件的简单 C++ 库.  [GPL3]
-* [dr_libs](https://github.com/mackron/dr_libs)  - C 和 C++ 的单文件音频解码库.  [许可]
+* [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. [Unlicense]
 * [KFR](https://www.kfrlib.com/)  - 快速、现代的 C++ DSP 框架、FFT、FIR/IIR 滤波器、采样率转换.  [GPL/商业]
 * [LAME](https://lame.sourceforge.io/using.php)  - LAME 是一种高质量的 MPEG Audio Layer III (MP3) 编码器.  [LGPL]
 * [libsndfile](https://github.com/erikd/libsndfile/)  - 带有 C++ 包装器的 C 库，用于通过一个标准库接口读取和写入包含采样声音的文件.  [LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
@@ -411,7 +411,7 @@
 * [Boden](https://github.com/AshampooSystems/boden)  - 原生、移动、跨平台的 GUI 框架.  [GPL/LGPL/商业] [website](https://www.boden.io)
 * [CEGUI](http://cegui.org.uk/) - 灵活的跨平台 GUI 库.
 * [Elements](https://github.com/cycfi/elements)  - 轻量级、细粒度、独立于分辨率的模块化 GUI 库.  [麻省理工学院]
-* [FLTK](http://www.fltk.org/index.php)  - 快速、轻便、跨平台的 C++ GUI 工具包.  [GPL2]
+* [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI)  - GPU 加速的 C++ 用户界面，具有所见即所得的开发工具、XML 支持、内置数据绑定和 MVVM 功能.  [女士-PL]
 * [GTK+](http://www.gtk.org/)  - 用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)  - 流行的 GUI 库 GTK+ 的官方 C++ 接口.  [LGPL]
@@ -485,7 +485,7 @@
 * [OpenEXR](http://www.openexr.com/)  - 用于高动态范围成像的跨平台库.  [修改后的 BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)  - 强大的图像和纹理处理库，支持多种常见的有损和 RAW 格式.  [修改后的 BSD]
 * [SAIL](https://github.com/happy-sea-fox/sail)  - 易于使用的跨平台图像解码库，带有可插拔的图像编解码器.  [麻省理工学院]
-* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)、NEON for ARM.  [麻省理工学院]
+* [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)，用于 ARM 的 NEON.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  - STB 单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  - OCR 引擎.  [阿帕奇2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)  - 适用于 JPEG 的符合 ISO 标准的微型 C++ EXIF 和 XMP 解析库.  [麻省理工学院]
@@ -679,7 +679,7 @@
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络.[麻省理工学院]
 * [ENet](https://github.com/lsalzman/enet)  - 可靠的 UDP 网络库.  [麻省理工学院] [website](http://enet.bespin.org/)
-* [evpp](https://github.com/Qihoo360/evpp) - C++ high performance networking with TCP/UDP/HTTP protocols. [BSD]
+* [evpp](https://github.com/Qihoo360/evpp)  - 使用 TCP/UDP/HTTP 协议的 C++ 高性能网络.  [BSD]
 * [H2O](https://github.com/h2o/h2o)  - 优化的 HTTP 服务器，支持 HTTP/1.x 和 HTTP/2. 它也可以用作图书馆.  [麻省理工学院]
 * [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - C 的 http 请求/响应解析器. [麻省理工学院]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)  - 一种快速可靠的 ARQ 协议，可帮助应用程序减少网络延迟.  [麻省理工学院]
@@ -875,6 +875,7 @@
 * [Pistache](http://pistache.io/)  - Pistache 是一个用纯 C++11 编写的 C++ REST 框架，没有外部依赖.  [阿帕奇2]
 * [QDjango](https://github.com/jlaine/qdjango/)  - 一个用 C++ 编写并建立在 Qt 库之上的 Web 框架. 在可能的情况下，它会尝试遵循 django 的 API，因此得名.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)  - 基于C++和Qt的高速全栈Web应用框架，支持HTTP和WebSocket协议（带O/R映射）.  [BSD] [website](http://www.treefrogframework.org/)
+* [userver](https://github.com/userver-framework/userver)  - 具有一组丰富的抽象和数据库驱动程序的异步 C++17 框架，用于快速、舒适地创建高效的微服务、服务和实用程序.  [Apache-2.0] [website](https://userver.tech/)
 * [Wt](http://www.webtoolkit.eu/wt)  - 用于开发 Web 应用程序的 C++ 库.  [GPL/商业]
 
 ## XML
@@ -906,7 +907,7 @@
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  - 托管信号和时隙系统的实现.  [促进]
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  - 受 Python 内置函数和 itertools 库启发的基于范围的 for 循环插件.  [BSD-2-条款]
-* [D++ (DPP)](https://github.com/brainboxdotcc/DPP)  - 用于创建 Discord Bot 的轻量级、高性能和可扩展的 C++ 库.  [阿帕奇2] [website](https://dpp.dev)
+* [D++ (DPP)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] [website](https://dpp.dev)
 * [DynaMix](https://github.com/iboB/dynamix)  - 允许您在运行时组合和修改对象的库.  [麻省理工学院]
 * [fccf](https://github.com/p-ranav/fccf)  - 递归搜索目录以查找与搜索字符串匹配的 C/C++ 源代码的命令行工具.  [麻省理工学院]
 * [{fmt}](https://github.com/fmtlib/fmt)  :zap: - 小型、安全和快速的 C++ 格式化库.  [简化 BSD]
@@ -1019,7 +1020,7 @@
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
+* [Buck](https://github.com/facebook/buck)  - 一个快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用模块. 用 Java 编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台的免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -1036,7 +1037,7 @@
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) - 基于文件的构建系统，在后台监视更改的文件.
-* [Premake](http://premake.github.io) - 一个配置有 Lua 脚本的工具，用于为 Visual Studio、GNU Make、Xcode、Code::Blocks 等跨 Windows、Mac OS X 和 Linux 生成项目文件.
+* [Premake](http://premake.github.io) - 一个配置有 Lua 脚本的工具，用于为 Windows、Mac OS X 和 Linux 上的 Visual Studio、GNU Make、Xcode、Code::Blocks 等生成项目文件.
 * [Vcpkg](https://github.com/microsoft/vcpkg)  - 适用于 Windows、Linux 和 MacOS 的 C++ 库管理器.  [麻省理工学院]
 * [waf](https://github.com/waf-project/waf)  - 用于配置、编译和安装应用程序的基于 Python 的框架.  [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/)  - 基于 Lua 的 AC/C++ 跨平台构建实用程序.  [阿帕奇]
@@ -1137,7 +1138,7 @@
 * [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 针对初学者和新程序员的详细 C 编程语言教程合集.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 通过 VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过 VoidRealms.
-* [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston Official Buckys C++ Programming Tutorials Playlist.
+* [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston 官方 Buckys C++ 编程教程播放列表.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是thenewboston 的C++ 编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 带有 Qt 教程的新波士顿 C++ GUI 的官方播放列表.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - TheNewBoston 的所有 C 编程教程都在这里.

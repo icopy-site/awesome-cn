@@ -54,9 +54,9 @@
 - [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
 - [Patterns and Practices for Infrastructure as Code: With examples in Python and Terraform](https://www.manning.com/books/patterns-and-practices-for-infrastructure-as-code)
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
-- [Terraform Cookbook](https://www.amazon.fr/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
+- [Terraform Cookbook](https://www.amazon.com/Terraform-Cookbook-Efficiently-Infrastructure-platforms/dp/1800207557)
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
-- [Terraform: Up & Running, 2nd ed.](http://www.terraformupandrunning.com/?ref=gruntwork-blog-comprehensive-terraform)
+- [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 - [The Terraform Book](https://terraformbook.com/)
 
 ## Tutorials and Blog Posts

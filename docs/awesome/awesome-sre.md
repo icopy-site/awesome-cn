@@ -515,13 +515,12 @@
 * [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自 SRE 的相关帖子 [dev.to](https://dev.to).
 * [Twitter SRE](https://twitter.com/TwitterSRE) - Twitter SRE 团队的官方 Twitter 帐户.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - SRE Weekly Newsletter 官方推特账号.
-* [USENIX Association](https://twitter.com/usenix) - USENIX 官方推特账号.
+* [USENIX Association](https://twitter.com/usenix) - 官方 USENIX Twitter 帐户.
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - 现场可靠性和生产工程工具的精选列表
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 * [SRE cheat sheet](https://github.com/shibumi/SRE-cheat-sheet) - 站点可靠性工程原理和数字的备忘单
-* [SRE Capability Map](https://www.cruform.com/sre-capability-map/) - SRE所有事物的概述
 
 ## Podcasts
 * [Blameless / Resilience in Action](https://podcasts.apple.com/us/podcast/resilience-in-action/id1506828506)

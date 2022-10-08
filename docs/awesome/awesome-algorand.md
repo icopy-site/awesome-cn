@@ -31,7 +31,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
 - [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
 - [Algorand Developer Portal](https://developer.algorand.com/) - 官方 Algorand 开发者门户.
-- [Algorand Discord](https://discord.com/invite/YgPTCVk) - 官方 Algorand Discord 服务器.
+- [Algorand Discord](https://discord.com/invite/YgPTCVk) - Official Algorand Discord server.
 
 ## Wallets
 
@@ -65,6 +65,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - 介绍 Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）.
+
+### General courses
+
+ &gt; 请注意，这些适用于对与所有区块链系统相关的基础知识感兴趣的绝对初学者. 建立对区块链协议领域的理论理解是一个重要的先决条件，可以显着扩大您对 Algorand 技术的了解.
+
+- [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - 哥伦比亚大学计算机科学教授 Tim Roughgarden 的视频课程，重点介绍了区块链协议的基本原理、概念和属性.
 
 ### Tutorials
 
@@ -127,7 +133,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### .NET
 
 - [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 创建者 [@RileyGe](https://github.com/RileyGe).
-- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
+- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 
 ### Rust

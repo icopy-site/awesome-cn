@@ -25,7 +25,7 @@
 
  | 链接 | 预览 |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者解决定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力和迭代解决方案的能力相结合. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调理到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是分析数据并通过寻找创造性的方式来推动业务增长.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 1990 年代的华尔街“量化分析师”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们的稀有技能很快在计算机科学课程中被教授._ |
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
@@ -244,7 +244,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Apache Flink](https://flink.apache.org/)  | 用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您在 MapReduce 之外进行高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
-| [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.(免费 Matlab) |
+| [Octave](https://www.gnu.org/software/octave/) | GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab) |
 | [Apache Spark](https://spark.apache.org/)  | 闪电般的集群计算 |
 | [Hydrosphere Mist](https://github.com/Hydrospheredata/mist)  | 一种将 Apache Spark 分析作业和机器学习模型公开为实时、批处理或反应式 Web 服务的服务.  |
 | [Data Mechanics](https://www.datamechanics.co)  | 一个数据科学和工程平台，使 Apache Spark 对开发人员更加友好且更具成本效益.  |
@@ -256,7 +256,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
 | [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和深度学习模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
@@ -279,7 +279,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
 | [Amazon Textract](https://aws.amazon.com/textract/)  | 自动从任何文档中提取打印文本、笔迹和数据.  |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规行为，以进行全面的质量控制.|
-| [Amazon CodeGuru](https://aws.amazon.com/codeguru/) | Automate code reviews and optimize application performance with ML-powered recommendations.|
+| [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于 Python 的推理统计、假设检验和回归框架 |
@@ -554,6 +554,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - 免费的 GitHub 版本
 
 ## Book Deals (Affiliated) 🛍
 
@@ -586,7 +587,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
 - [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部设在英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.
@@ -617,7 +618,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Dataists](https://www.dataists.com/)
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
-- [P-value](https://www.p-value.info/) - Musings on data science, machine learning and stats.
+- [P-value](https://www.p-value.info/) - 对数据科学、机器学习和统计的思考.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](https://tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
@@ -746,7 +747,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子 |
 | [Talha Oz](https://twitter.com/tozCSS)  | 喜欢 ABM、SNA、DM、ML、NLP、HI、Python、Java. 最高百分位 kaggler/数据科学家 |
 | [Tasos Skarlatidis](https://twitter.com/anskarl)  | 复杂事件处理、大数据、人工智能和机器学习. 热爱编程和开源.  |
-| [Terry Timko](https://twitter.com/Terry_Timko)  | 信息政府； 大数据; 数据即服务； 数据科学； 开放、社交和商业数据融合 |
+| [Terry Timko](https://twitter.com/Terry_Timko) | InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence |
 | [Tony Baer](https://twitter.com/TonyBaer)  |  Ovum 的 IT 分析师涵盖大数据和数据管理以及一些系统工程.
 | [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist , Author , Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
 | [Vamshi Ambati](https://twitter.com/vambati) | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com ) |
