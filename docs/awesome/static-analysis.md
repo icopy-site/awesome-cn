@@ -14,7 +14,7 @@
 
 ## Sponsors
 
-如果没有我们赞助商的慷慨支持，这个项目是不可能实现的.
+This project would not be possible without the generous support of our sponsors.
 
 <table>
   <tr>
@@ -144,7 +144,7 @@
 
 - [CPAchecker](https://cpachecker.sosy-lab.org)  — 用于 C 程序的可配置软件验证的工具. 选择 CPAchecker 这个名称是为了反映该工具基于 CPA 概念并用于检查软件程序.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
+- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -192,7 +192,7 @@
 <h2 id="csharp">C#</h2>
 
 
-- [.NET Analyzers](https://github.com/DotNetAnalyzers) — 使用 .NET 编译器平台开发分析器（诊断和代码修复）的组织.
+- [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
 
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 
@@ -230,7 +230,7 @@
 
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) — 测量 C 文件的大小和复杂性.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
+- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -454,7 +454,7 @@
 
 - [safesql](https://github.com/stripe/safesql) — Golang 的静态分析工具，可防止 SQL 注入.
 
-- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
+- [shisho](https://docs.shisho.dev/) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
 - [staticcheck](https://staticcheck.io) — Go 静态分析，专门用于查找错误、简化代码和提高性能.
 
@@ -602,7 +602,7 @@
 <h2 id="julia">朱莉娅</h2>
 
 
-- [StaticLint](https://github.com/julia-vscode/StaticLint.jl) — Julia 的静态代码分析
+- [StaticLint](https://github.com/julia-vscode/StaticLint.jl) — Static Code Analysis for Julia
 
 
 <h2 id="kotlin">科特林</h2>
@@ -776,7 +776,7 @@
 
 - [Black](https://black.readthedocs.io/en/stable) — 毫不妥协的 Python 代码格式化程序.
 
-- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流利的 API，用于在代码中生成复杂的代码修改.
+- [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一个重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码可以编译和运行. 它提供了简单的命令行界面和 Python 中的流畅 API，用于在代码中生成复杂的代码修改.
 
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  — Linter、格式化程序和测试套件助手. 作为 linter，它是 `pep8`、`pydocstyle`、`flake8` 和 `pylint` 的包装器.
 
@@ -880,6 +880,8 @@
 
 - [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu)  — 用于测量 Ruby 类文件中代码复杂性的工具. 它的分析基于圈复杂度算法生成分数，没有添加“意见”.
 
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier)  — HTML 的规范化器/美化器，它也理解嵌入式 Ruby. 非常适合整理 Rails 模板.
+
 - [laser](https://github.com/michaeledgar/laser) :warning: — Ruby 代码的静态分析和样式 linter.
 
 - [pelusa](https://github.com/codegram/pelusa) — 静态分析 Lint 类型的工具，用于改进您的 OO Ruby 代码.
@@ -898,7 +900,7 @@
 
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) — Ruby 类交互式依赖图生成器.
 
-- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Static code analysis for Ruby.
+- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Ruby 的静态代码分析.
 
 - [rubycritic](https://github.com/whitesmith/rubycritic) — Ruby 代码质量报告员.
 
@@ -932,7 +934,7 @@
 
 - [cargo-inspect](https://github.com/mre/cargo-inspect) — 检查没有语法糖的 Rust 代码，看看编译器在幕后做了什么.
 
-- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
+- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — 使用 hunspell（就绪）和语言工具（预览版）检查所有文档的拼写和语法错误
 
 - [clippy](https://rust-lang.github.io/rust-clippy) — 用于捕捉常见错误并改进您的 Rust 代码的代码 linter.
 
@@ -1043,7 +1045,7 @@
 - [Codelyzer](http://codelyzer.com) :warning: — 一组用于 Angular 2 TypeScript 项目的静态代码分析的 tslint 规则.
 
 - [tslint](https://palantir.github.io/tslint/) :warning: — 自 2019 年起，TSLint 已被弃用.有关更多详细信息，请参阅此问题：typescript-eslint 现在是 linting TypeScript 的最佳选择.
-TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
+ TSLint 是一个可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
 
@@ -1169,7 +1171,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 
-- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
 
 - [goone](https://github.com/masibw/goone) — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
 
@@ -1291,7 +1293,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [ThreatMapper](https://github.com/deepfence/ThreatMapper)  — 运行时容器、无服务器和主机的漏洞扫描器和风险评估.  ThreatMapper 从依赖项和操作系统包生成运行时 BOM，匹配多个威胁源，扫描未受保护的机密，并根据严重性和利用风险对问题进行评分.
 
-- [todocheck](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
+- [todocheck](https://github.com/preslavmihaylov/todocheck) — Linter 用于将带注释的 TODO 与您的问题跟踪器集成
 
 - [trivy](https://github.com/aquasecurity/trivy)  — 适用于 CI 的容器和其他工件的简单而全面的漏洞扫描程序.  Trivy 检测操作系统包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
@@ -1359,7 +1361,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [angr](https://github.com/angr/angr) — 也支持符号执行的二进制代码分析工具.
 
-- [binbloom](https://github.com/quarkslab/binbloom) — Analyzes a raw binary firmware and determines features like endianness or the loading address.  The tool is compatible with all architectures.
+- [binbloom](https://github.com/quarkslab/binbloom)  — 分析原始二进制固件并确定字节序或加载地址等特性. 该工具与所有架构兼容.
 加载地址：binbloom 可以解析原始二进制固件并确定其加载地址. 字节序：binbloom 可以使用启发式方法来确定固件的字节序.  UDS 数据库：binbloom 可以解析原始二进制固件并检查它是否包含包含 UDS 命令 ID 的数组.
 
 - [BinSkim](https://github.com/Microsoft/binskim) — 一种二进制静态分析工具，可为 Windows 可移植可执行文件提供安全性和正确性结果.
@@ -1412,7 +1414,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [CSSLint](http://csslint.net) — 进行基本的语法检查并发现有问题的模式或效率低下的迹象.
 
-- [GraphMyCSS.com](https://graphmycss.com) — CSS Specificity Graph Generator.
+- [GraphMyCSS.com](https://graphmycss.com) — CSS 特异性图生成器.
 
 - [Nu Html Checker](https://validator.github.io/validator/) — 帮助您发现 HTML/CSS/SVG 中的问题
 
@@ -1426,7 +1428,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [scsslint](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 
-- [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS Specificity Graph Generator.
+- [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS 特异性图生成器.
 
 - [Stylelint](http://stylelint.io) — 用于 SCSS/CSS 文件的 Linter.
 
@@ -1487,10 +1489,10 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [tfsec](https://github.com/tfsec/tfsec)  — Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反 AWS、Azure 和 GCP 安全最佳实践建议.
 
 
-<h2 id="container">容器</h2>
+<h2 id="container">Containers</h2>
 
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 
@@ -1517,9 +1519,9 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 
 - [kubeconform](https://github.com/yannh/kubeconform) — 一个快速的 Kubernetes 清单验证器，支持自定义资源.
-它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支——它保证所有最新版本的 Kubernetes 的模式都是最新的.
+它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支 - 它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
-- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
+- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
@@ -1577,6 +1579,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — 整理您的 ERB 或 HTML 文件
 
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier)  — HTML 的规范化器/美化器，它也理解嵌入式 Ruby. 非常适合整理 Rails 模板.
+
 
 <h2 id="gherkin">小黄瓜</h2>
 
@@ -1602,6 +1606,8 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [HTML Tidy](http://www.html-tidy.org) — 通过修复标记错误并将遗留代码升级到现代标准来更正和清理 HTML 和 XML 文档.
 
 - [HTML-Validate](https://html-validate.org/) — 离线 HTML5 验证器.
+
+- [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier)  — HTML 的规范化器/美化器，它也理解嵌入式 Ruby. 非常适合整理 Rails 模板.
 
 - [HTMLHint](https://htmlhint.com) — HTML 的静态代码分析工具.
 
@@ -1636,7 +1642,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 - [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践. 
 
 - [kubeconform](https://github.com/yannh/kubeconform) — 一个快速的 Kubernetes 清单验证器，支持自定义资源.
-它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支——它保证所有最新版本的 Kubernetes 的模式都是最新的.
+它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支 - 它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
@@ -1858,7 +1864,7 @@ TruffleHog 是一个开源的秘密扫描引擎，可以解决公司整个技术
 
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
-- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
+- [shisho](https://docs.shisho.dev/) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
 
 
 <h2 id="translation">翻译</h2>

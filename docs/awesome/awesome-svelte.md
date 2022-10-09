@@ -87,7 +87,7 @@ _关于 Svelte 框架的研究和研究._
 
 _用于移动设备的 UI 框架._
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte 通过 Nativescript 控制原生组件.
+- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - 用于构建 iOS 和 Android 应用程序的全功能 HTML 框架.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - 使用 Web 技术和 Svelte 构建原生移动应用程序.
 
@@ -135,12 +135,13 @@ _Toaster/snackbar - 用一个无模式的临时小弹出通知用户._
 - [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - 图标组件.
 - [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - 图标，由 Tailwind CSS 的创建者制作.
 - [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - 它使在您的 Svelte 项目中使用 SVG 图标变得非常简单.
+- [svelte-unicons](https://github.com/devShamim/svelte-unicons) - 基于@iconscout/unicons 的 Svelte 的 Unicons svg 图标.
 
 ### Calendar
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - FullCalendar 的组件包装器.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
 
 ### Maps

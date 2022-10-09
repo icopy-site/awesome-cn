@@ -26,8 +26,6 @@
 - [Labnotes](https://labnotes.org/) . 每周发送一封关于软件开发、技术和其他有趣内容的电子邮件.
 - [Web Development Reading List](https://wdrl.info) . 此时事通讯分享 Web 开发方面的最新文章.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周时事通讯，围绕网络平台讨论有趣和热门话题. [Archive](https://ponyfoo.com/weekly/history).
-- [Dev Awesome](https://devawesome.io/) . 每两周在您的收件箱中获取最新的编程新闻、酷炫的库和生产力提示.
-- [Insnippets](https://insnippets.com) . 包含 TL;DR 的每日通讯，关于 Web 开发、DevOps 和分布式系统的有趣主题的信息.
 - [JAMstacked](https://jamstack.email/) . 关于不断发展的 JAMstack 生态系统的电子邮件更新.
 - [FreeCodeCamp](https://www.freecodecamp.org) . 每周从 FreeCodeCamp 学习平台精选五篇文章、视频或整个课程.
 - [Codrops](https://tympanus.net/codrops/) . 有关 Web 开发和设计方面的定性新项目和库的每周新闻.
@@ -162,7 +160,7 @@
 - [Swift Newsletter](https://swiftweekly.com/) . 代码示例、教程、截屏视频以及更多学习 Apple 新编程语言的内容.
 - [iOS Dev Weekly](https://iosdevweekly.com/) . 每周最好的 iOS 开发链接. [Archive](https://iosdevweekly.com/issues).
 - [Swift Weekly Brief](https://swiftweekly.github.io) . 社区驱动的关于 Swift.org 的每周通讯. 由 Jesse Squires 策划，每周四免费发布.
-- [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
+- [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter) . 精选的 Swift 库和资源列表.
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/) .  Sundell 每月时事通讯介绍 Swift！
 - [iOS Goodies](https://ios-goodies.com) . 每周 iOS 通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) . 最佳 iOS 开发、营销、Swift、设计和 Xcode 链接.
@@ -194,7 +192,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
 - [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
@@ -321,7 +319,7 @@
 - [Your weekly Azure news fix](https://azureweekly.info/) .  Azure Weekly 是 Microsoft Azure 生态系统本周头条新闻的摘要，以及值得一读的有趣历史内容.
 - [Serverless Status](https://serverless.email/) . 关于无服务器架构和范例、功能即服务、AWS Lambda 等的每周通讯.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) . 本 Google Cloud Weekly 是本周与 Google Cloud 生态系统相关的头条新闻、教程、视频、播客的摘要，非常值得一读.
-- [Last Week in AWS](https://www.lastweekinaws.com/) . 来自亚马逊云生态系统的每周新闻综述.
+- [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
 
 ### Kubernetes
 
@@ -363,7 +361,7 @@
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是一份每日精选的时事通讯，其中包含科技领域最有趣故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) . 每天通过来自 Web 上的群发文章的电子邮件，随时了解当今最流行的科技新闻.
 - [The Morning Paper](https://blog.acolyer.org/) . 由 Adrian Colyer 选出的每个工作日早上来自 CS 世界的有趣/有影响/重要的论文.
-- [TechMeme](https://www.techmeme.com/) .  Techmeme 是近乎实时的汇总、过滤、可归档的摘要，介绍了技术中的新事物并引发了对话.
+- [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 - [Unzip.dev](https://unzip.dev/) . 开发者趋势通讯，一次打开一个趋势.
 - [Daily Tech](https://dailytech.email) .  Daily Tech 是一份关于技术、初创公司、产品和软件工程的精选时事通讯.
 
@@ -371,7 +369,7 @@
 ## Leadership
 
 - [Software Lead Weekly](https://softwareleadweekly.com/) . 关于公司文化、领导力和一般软件构建的有见地的文章.
-- [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
+- [Tech Lead Digest](https://techleaddigest.net/) . 每周时事通讯，其中包含关于组建团队、领导力和工程文化的五个有趣故事.
 
 ## Marketing
 
@@ -439,7 +437,7 @@
 - [Trending Projects](https://www.trendingprojects.com/) . 每周电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四都会发送有关软件工程的文章.  （对于波斯用户）.
 - [Figures](https://joinfigures.com/) . 根据您的最低工资要求获得高薪技术工作.
-- [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术通讯，其中包含最新的 Web 开发文章、本周的练习技术面试问题、笑话、一些非技术内容等等，根据您在世界的哪个位置，每周日晚上/周一早上到达.
+- [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术通讯，包含最新的 Web 开发文章、本周的练习技术面试问题、笑话、一些非技术内容等等，根据您在世界的哪个位置，每周日晚上/周一早上到达.
 - [No-Code Shots](https://nocodeshots.com) . 精心策划的每周通讯，将为您带来有关如何提高无代码技能的新闻、更新和提示.
 
 ## License
