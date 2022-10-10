@@ -10,7 +10,7 @@
 ## Examples
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - 项目标志、清晰的描述、屏幕截图、分步安装说明.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme)  - 项目标志. 清楚地描述项目的作用. 演示截图. 目录便于导航. 带有屏幕截图的简单安装和设置部分. 进一步阅读的链接.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - 徽章、项目 GIF、简明描述、快速链接、逐步安装说明.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 目录便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
@@ -56,7 +56,7 @@
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目标志、现场演示链接、关键功能的 GIF 动画、TL;DR 用法.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  - 带有演示 GIF 的项目功能的清晰概述. 徽章. 可扩展目录. 使用说明和示例. 贡献指南. 详细发布.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
+- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  - GIF 演示. 带有屏幕截图的简单安装和设置部分. 建立徽章. 用例的好例子.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  - 清洁项目标志. 顶部简要说明. 桑基图、快速链接、徽章、操作系统特定图标、目录、详细的发布变更日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  - 项目标志. 建立徽章. 多种编程语言的文档结构. 用法示例.
 - [shama/gaze](https://github.com/shama/gaze#readme)  - 项目标志. 简洁的描述. 功能列表. 使用部分. 常问问题. 很棒的 AP​​I 文档. 发布历史.
@@ -89,7 +89,7 @@
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme)  - Node 的常见自述文件样式. 包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - 自述文件编辑和项目分析/反馈.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme)  - 为 README 动态生成可定制的 GitHub 卡片. 统计数据、额外引脚、热门语言和 WakaTime.
-- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  - 帮助在 README 上向 repo 贡献者表示认可. 具有新/趋势/顶级贡献者. 每小时更新一次.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/)  - 编写自述文件的指南. 包括带有实时 Markdown 渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - 一个复制粘贴你的 README.md 的地方
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - 生成漂亮的 README.md 文件的 CLI
@@ -112,7 +112,7 @@
 - [Recordit](https://recordit.co/) - **免费** - 简单、干净的 UI，但会自动上传到 Recordit.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **免费** - 开源、可定制的 UI 和可轻松编辑的 GIF，易于上手.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **免费** - 记录您的终端并生成动画 gif 图像或共享网络播放器.
-- [ttystudio](https://github.com/chjj/ttystudio#readme) - **免费** - 对于命令行工具，一个终端到 gif 的记录器可以消除头痛.
+- [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
 
 ## Get Feedback
 

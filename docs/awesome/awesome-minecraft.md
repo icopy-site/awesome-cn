@@ -87,7 +87,7 @@
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - 一个大型的末影主题模组，只是增加了许多新的有趣的东西.
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft)  - 添加火箭和新行星进行探索的模组. 可通过插件扩展.
 - [OpenComputers](https://ocdoc.cil.li) - OpenComputers 是一个在游戏中添加计算机和机器人的模组，可以在 Lua 5.3 中进行编程.
-- [ComputerCraft](https://www.computercraft.info) - 将基于 Lua（5.2 和 5.3）的计算机添加到 Minecraft 中.
+- [ComputerCraft](https://computercraft.cc) - 将基于 Lua（5.2 和 5.3）的计算机添加到 Minecraft 中.
 - [WarpDrive](https://www.curseforge.com/minecraft/mc-mods/warpdrive)  - 在游戏中添加星际迷航和其他特许经营权，如船舶、武器、运输车等. 还添加了新的行星（维度）.
 
 ### Farming And Food
@@ -116,7 +116,7 @@
 - [TNTUtils](https://github.com/ljfa-ag/TNTUtils) - 更好地控制 Minecraft 中的爆炸.
 - [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - 基于 Morph-o-Tool 的模组，主要提供合并不同模组文档书籍的能力.
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - 这个模组不会改变任何现有的机制，只是让现有的饥饿饱和度和疲惫程度在默认 GUI 中可见.
-- [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - 这个模组修复了 Minecraft 中处理盔甲点等属性的系统，因为许多其他模组在不经意间受到了这个系统限制的影响.
+- [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - 这个模组修复了 Minecraft 中处理盔甲点等属性的系统，因为许多其他模组在不经意间受到了这个系统的限制.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - 这个模组修改了 Minecraft 计算漏斗碰撞盒的方式，这样你就可以访问它后面的任何可见块.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - 修复了 Minecraft 代码的各个方面，通常使游戏更快.
 - [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - 显示当前查看的块（Hwyla 的较新版本）.
@@ -132,7 +132,7 @@
 
 ### Exploration
 
-- [Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world) - 这个模组增加了一个额外的维度，以采矿为目的，这意味着主世界不会再被诸如 Buildcraft 采石场之类的东西填满.
+- [Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world) - 这个模组增加了一个额外的维度，以采矿为目的，这意味着主世界将不再被诸如 Buildcraft 采石场之类的东西填满.
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) - 添加一个新的暮光森林维度，其中包含新的结构、老板和要完成的任务.
 
 ### Building
@@ -148,7 +148,7 @@
 - [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - 允许将较新的客户端连接到 Minecraft 服务器的较旧服务器版本.
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded)  - AdvancedKitsReloaded 是一个用于运行 Bukkit、CraftBukkit、Spigot 和 Paper (&gt;1.8) 的 Minecraft 服务器的套件管理插件. 使用此插件，您可以轻松创建/编辑/删除您的套件，并且可以根据需要对其进行自定义.
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard 让您和玩家可以保护土地免受恶意和不受欢迎的人的侵害，以及调整和禁用 Minecraft 的各种游戏功能.
-- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook 让您可以创建神奇的延伸桥梁、紧凑的红石电路、复杂的矿车机制等等——所有这些都无需客户端模块，并且可以由服务器完全自定义.
+- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook 让您可以创建神奇的延伸桥梁、紧凑的红石电路、复杂的矿车机制等等——所有这些都无需客户端模块，并且完全由服务器自定义.
 
 ## Resource Packs
 

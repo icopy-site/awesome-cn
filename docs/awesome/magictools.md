@@ -86,19 +86,22 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [ArrayPainter](http://arraypainter.com/) - Array Painter 是让 2D 数组准备好复制粘贴到您自己的程序中的最简单和最快的方法.
 - ：钱袋子： [AutoTileGen](http://pixelatto.com) - AutoTileGen 是用于 2D 游戏地形的自动图块集生成器.
 - ：然后： [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk 是一款面向独立开发者的开源 2D 关卡编辑器，非常注重用户友好性.
+- ：然后： [Material Maker](https://github.com/RodZill4/material-maker) - Godot制作的程序纹理创建器
 - ：然后： [OGMO Editor](https://ogmo-editor-3.github.io/)- 通用关卡编辑器.
 - ：然后： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - 具有与引擎无关的理念的 2D 关卡和 UI 编辑器.
 - ：然后： [Tiled](http://www.mapeditor.org/) - 免费、易于使用且灵活的平铺地图编辑器.
 
 #### Animation
 
-- ：钱袋子： [Fusion Character Animator](http://loopengo.free.fr/) - Clickteam Fusion 2.5 的小工具，方便开发人员制作 2D 角色精灵的动画.
-- [GraphicsDale](https://graphicsgale.com/us/) - 用于精灵和像素艺术的强大工具.
-- ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 专注于 2D 动画，提供高效的工作流程，既可以创建令人惊叹的动画，也可以将其集成到您的游戏中.
-- ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 精灵动画的现代工具.
+- ：money_with_wings： [Cascadeur](https://cascadeur.com/) - 强大的基于物理的 3D 角色动画
 - ：然后： [DragonBones](http://dragonbones.com) - Flash 的开源 2D 骨架动画解决方案
 - ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而成的动画数据.
+- ：钱袋子： [Fusion Character Animator](http://loopengo.free.fr/) - Clickteam Fusion 2.5 的小工具，方便开发人员制作 2D 角色精灵的动画.
+- [GraphicsDale](https://graphicsgale.com/us/) - 用于精灵和像素艺术的强大工具.
 - ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 3D人形模型的自动装配和动画工具，
+- ：然后： [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - 用于像素艺术的强大的基于节点的 VFX 编辑器
+- ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 专注于 2D 动画，提供高效的工作流程，既可以创建令人惊叹的动画，也可以将其集成到您的游戏中.
+- ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 精灵动画的现代工具.
 
 #### Vector/Image Editor
 
@@ -161,7 +164,7 @@ _一套游戏框架、引擎和平台_
 
 - ：然后： [Allegro](http://liballeg.org/) - Allegro 4 &amp; 5 是跨平台的开源游戏编程库，主要面向 C 和 C++ 开发人员.
 - ：然后： [Amethyst](https://www.amethyst.rs/) - 使用 `gfx-rs` 用 Rust 编写的 2D 和 3D 数据驱动游戏引擎.
-- ：然后： [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
+- ：然后： [amulet](http://www.amulet.xyz/)  - 一个免费的基于 Lua 的音频/视频工具包，适用于小游戏和实验. 它可以在 Windows、Mac、Linux、HTML5 和 iOS 上运行.
 - ：然后： [Astera](https://github.com/tek256/astera) - 2D C99 跨平台游戏库/框架
 - :tada [axys] (https://github.com/axys1/axys) - Cocos2d-x-4.0 的一个分支，它完全支持所有平台的 OpenAL，单纹理多 GPU 纹理处理程序和 C++ 17.
 - ：然后： [Azul3D](http://azul3d.org/) - 用 Go 编写的 3D 引擎.
@@ -177,7 +180,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Bullet](http://bulletphysics.org/wordpress/) - 实时物理模拟.
 - ：然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - ：然后： [Chipmunk2D](https://chipmunk-physics.net/) - 一个快速轻量级的 2D 游戏物理库.
-- ：然后： [Cinder](https://libcinder.org/) - Cinder 是一个社区开发的免费开源库，用于使用 C++ 进行专业品质的创意编码.
+- ：然后： [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - ：自由的： [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator，一款支持Cocos2d-js的免费跨平台游戏开发编辑器，帮助开发者快速高效地构建2D和3D游戏场景，编辑游戏UI等游戏资源.
 - ：然后： [Cocos2D](https://github.com/los-cocos/cocos) - 用于游戏和多媒体的图形库，用于 python 语言
 - ：然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++，但有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
@@ -224,10 +227,10 @@ _一套游戏框架、引擎和平台_
 - ：然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) - 一个 3D 开源游戏引擎，适合喜欢冒险的 Java 开发人员.
 - ：然后： [JNGL](https://github.com/jhasse/jngl)  - 2D 开源游戏引擎. 在 Linux、Windows、OS X 上开发.部署到 Nintendo Switch、Xbox、Linux、Windows、OS X、Web、Android、iOS 等.
 - ：自由的： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google 的 Android 的 3D 引擎.
-- ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净、轻量级的 2D 游戏框架
+- ：然后： [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中制作具有大块像素的 2D 游戏的框架
 - ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
-- ：然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
+- ：然后： [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 - ：然后： [KogGE](https://korge.soywiz.com)  - Kotlin 的现代多平台游戏引擎. 使用 Kotlin 立即为 JVM、JavaScript、Android 和 iOS 编写游戏.
 - ：money_with_wings： [Leadwerks](https://www.leadwerks.com/) - 易于学习的 3D 和 VR 游戏引擎.
 - ：然后： [LibGDX](https://libgdx.com/) - 用于 Java 的强大（完全免费）库，只需编写一次代码，即可在桌面、Android、Web 和 iOS 上运行游戏.
@@ -260,7 +263,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 - ：然后： [Phaser](http://phaser.io/) - 免费且快速的 2D 游戏框架，用于为桌面和移动 Web 浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
 - ：然后： [phina.js](http://phinajs.com/) - 一个 JavaScript 游戏库，可以轻松创建游戏和工具.
-- ：然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
+- ：然后： [Piston](http://www.piston.rs/) - 一个用 Rust 编写的模块化开源游戏引擎.
 - ：然后： [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - ：然后： [PixiJS](http://www.pixijs.com/)  - 是一个新来的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 以获得更快的性能. 如果不支持 WebGL，引擎将回退到标准画布.
 - ：然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -280,7 +283,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问.
 - ：然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 - ：然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于易于迭代和使用.
-- ：然后： [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
+- ：然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
 - ：然后： [Spring](http://springrts.com/) - 一个强大的免费跨平台RTS引擎.
 - ：自由的： [SpriteKit](https://developer.apple.com/documentation/spritekit) - Apple 专有的 2D 游戏引擎（适用于 macOS、iOS、iPadOS、tvOS 和 watchOS）.
 - ：然后： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级快速 2D HTML5 渲染和布局引擎.
@@ -429,7 +432,7 @@ _博客、门户网站、杂志等_
 - [CompoHub](http://compohub.net/) - 一个时间轴上许多游戏果酱的汇编网站.
 - [Game jams on itch.io](https://itch.io/jams) - itch.io 游戏堵塞列表
 - [Game Off](https://gameoff.github.com) - GitHub 的游戏果酱 :octocat:
-- [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - 流行的年度游戏果酱 
+- [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - 流行的年度游戏果酱
 - [Indie Game Jams](http://www.indiegamejams.com/) - 游戏果酱列表
 - [Ludum Dare](http://ludumdare.com/) - 非常受欢迎的游戏果酱
 - [One Hour Game Jam](http://onehourgamejam.com/) - 每周 1 小时游戏果酱

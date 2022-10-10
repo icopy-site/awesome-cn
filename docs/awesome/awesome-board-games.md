@@ -57,7 +57,7 @@
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
-> ...players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city.
+&gt; ...玩家扮演勇敢的冒险家，他们必须不顾一切，在酷热和狂风沙中生存下来，以便找回埋在古老沙漠城市下的传奇飞行器.
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
@@ -67,7 +67,7 @@
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
- &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能被禁足.这个游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息共同规划地形和构建真正的电路.
+ &gt; 在激动人心的合作冒险中翱翔到令人眼花缭乱的高度. 团队合作，探索漂浮在狂暴风暴中心的神秘平台. 连接电缆电路以发射秘密火箭——这一切都在你被闪电击中或被炸到下面的深处之前. 这是一个高强度的行为，将考验你的团队的勇气和合作能力. 一个错误的步骤，你们都可能会被禁足.Forbidden 游戏系列的最新一期将您带到新的高度，并面临几个新的挑战，包括仅使用有限的信息集体规划地形和构建真正的电路.
 
 ![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
 
@@ -83,7 +83,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  1 - 8 |  13 |  90m |
+|   1 - 8 |       13 |  90m |
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
@@ -141,7 +141,7 @@
 
 ### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
 
- &gt; 在废弃的小屋中避难并过夜后，你和你的朋友意识到有人用密码锁锁住了门. 摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推断出通往自由的组合.
+> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
@@ -270,6 +270,16 @@
 | ------: | -------: | -----: |
  |  2 - 6 |  5 |  5-15m |
 
+### [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada)
+
+ &gt; 每个玩家通过在他们的玩家板上建立一个骰子网格来构建一个彩色玻璃窗. 每块板对可以放置的骰子的颜色或阴影（值）都有一些限制. 相同色调或颜色的骰子永远不能放在一起. 骰子按玩家顺序抽选，起始玩家每轮轮换，在最后一个玩家抽出两个骰子后蜿蜒回来. 每场比赛的得分是可变的，具体取决于实现各种模式和位置​​变化......以及特定隐藏目标颜色的暗色调的奖励积分.
+
+![Sagrada game image](https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__itemrep/img/fLGFtsAiZgj3VwTDvgCn2yBIDYw=/fit-in/246x300/filters:strip_icc()/pic3525224.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  1 - 4 |  10 |  30-45m |
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -376,7 +386,7 @@
 
 ### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
- &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四道标志性领袖的角色，不仅为人民的至高无上和福祉而奋斗，还为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
+ &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏是通过一系列称为 Eras 的回合进行的，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四道标志性领袖的角色，不仅为人民的至高无上和福祉而奋斗，还为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -1001,7 +1011,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | --------:|
-|   2 - 6 |      6+  |      10m |
+ |  2 - 6 |  6+ |  10m |
 
 ### [Abalone](https://boardgamegeek.com/boardgame/526/abalone)
 

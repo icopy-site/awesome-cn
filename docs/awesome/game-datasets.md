@@ -238,7 +238,6 @@ API 是_“一组功能和过程，允许创建访问操作系统、应用程序
 ---
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>
+<a rel="license" href="LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>
 
-- 执照： [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
-- 由莱昂纳多毛罗创作~ [leomaurodesenv](https://github.com/leomaurodesenv/)
+- 执照： [Creative Commons Attribution-ShareAlike 4.0 International License](https://github.com/leomaurodesenv/game-datasets/blob/master/LICENSE)

@@ -192,14 +192,14 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
 - [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
 ### Python
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
-- [Weekly Python Newsletter](https://importpython.com/newsletter/) . 包含 Python 文章、项目、视频、推文的每周 Python 通讯在您的收件箱中发送. [Archive](https://importpython.com/newsletter/archive/).
+- [Weekly Python Newsletter](https://importpython.com/newsletter/). Weekly Python Newsletter containing Python Articles, Projects, Videos, Tweets delivered in your inbox. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向对 Python 开发和有关 Python 的各种主题感兴趣的人.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周概述最流行的 Python 新闻、文章和包.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
@@ -340,20 +340,18 @@
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
-- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/) . 一份免费的每周通讯，其中包含与数据科学相关的精选新闻、文章和工作.
-- [Data Eng Weekly](https://dataengweekly.com) . 您的每周数据工程新闻（原 Hadoop Weekly）. [Archive](https://dataengweekly.com/archive.html).
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周通讯. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
-- [The Wild Week in AI](https://www.getrevue.co/profile/wildml) . 每周 AI 和深度学习通讯. [Archive](https://www.getrevue.co/profile/wildml#archive).
 - [Machine Learnings](http://subscribe.machinelearnings.co/) . 每周一次的机器学习和人工智能新闻综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和失误. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收由机器学习专业人士策划的开源框架、教程和文章的更新. 深入了解机器学习可解释性、再现性、模型评估、特征分析等方面的最佳实践、工具和技术.
+- [True Positive Weekly](https://aiweekly.substack.com/) . 本周最重要的人工智能和机器学习环节.
 
 ## Blockchain / Cryptocurrencies
 
 - [Inside Cryptocurrency](https://inside.com/cryptocurrency) . 跟踪比特币和加密货币的趋势、新闻和分析.
-- [Crypto Weekly](https://cryptoweekly.co/) . 每周都会将最好的加密货币新闻和见解发送到您的收件箱.
+- [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 没有牛市的区块链技术——每周一剂区块链现实，对技术有很大的偏见.
 
 ## Technology in General
@@ -361,7 +359,7 @@
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR 是一份每日精选的时事通讯，其中包含科技领域最有趣故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) . 每天通过来自 Web 上的群发文章的电子邮件，随时了解当今最流行的科技新闻.
 - [The Morning Paper](https://blog.acolyer.org/) . 由 Adrian Colyer 选出的每个工作日早上来自 CS 世界的有趣/有影响/重要的论文.
-- [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
+- [TechMeme](https://www.techmeme.com/) .  Techmeme 是近乎实时的汇总、过滤、可归档的摘要，介绍了技术中的新事物并引发了对话.
 - [Unzip.dev](https://unzip.dev/) . 开发者趋势通讯，一次打开一个趋势.
 - [Daily Tech](https://dailytech.email) .  Daily Tech 是一份关于技术、初创公司、产品和软件工程的精选时事通讯.
 
@@ -398,8 +396,8 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
-- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周时事通讯，包含与机器人技术相关的新闻、项目和研究.
@@ -429,7 +427,7 @@
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) . 每周一次的 Linux 内核邮件列表线程综述，但带有更多的讽刺意味.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中挑选了一个订阅者，其电子邮件提交将发送给所有其他订阅者. 主题在主题和质量上各不相同.
-- [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
+- [Startup Watching](https://startupwatching.com/) . 为初创公司精心策划的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术迷的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最好的 Reddit 帖子的有关创业、增长、投资和创业的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的简短每周通讯. 每期都包含一份与生产力相关的工具、文章和其他资源的简短列表，这些工具、文章和其他资源可以帮助各种技术相关领域的工作人员提高生产力.
@@ -437,7 +435,7 @@
 - [Trending Projects](https://www.trendingprojects.com/) . 每周电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四都会发送有关软件工程的文章.  （对于波斯用户）.
 - [Figures](https://joinfigures.com/) . 根据您的最低工资要求获得高薪技术工作.
-- [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术通讯，包含最新的 Web 开发文章、本周的练习技术面试问题、笑话、一些非技术内容等等，根据您在世界的哪个位置，每周日晚上/周一早上到达.
+- [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术通讯，其中包含最新的 Web 开发文章、本周的练习技术面试问题、笑话、一些非技术内容等等，根据您在世界的哪个位置，每周日晚上/周一早上到达.
 - [No-Code Shots](https://nocodeshots.com) . 精心策划的每周通讯，将为您带来有关如何提高无代码技能的新闻、更新和提示.
 
 ## License

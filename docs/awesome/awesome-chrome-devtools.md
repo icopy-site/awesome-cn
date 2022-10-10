@@ -11,7 +11,9 @@
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - 大量提示作为动画 GIF.
 - [DevTools Tips](https://devtoolstips.org/) - 收集插图提示作为迷你教程.
-- [Can I DevTools?](https://www.canidev.tools/) - 各种工作流程，记录在案.
+- [Can I DevTools?](https://www.canidev.tools/)  - 各种工作流程，记录在案. 还有每周提示和技巧 [newsletter](https://canidevtools.substack.com/).
+- [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - 非开发人员的浏览器开发人员工具.
+- [Dear Console](https://codepo8.github.io/dearconsole) - 在浏览器控制台中使用的片段集合.
 
 ---
 
@@ -25,7 +27,7 @@
 - [Weer](https://weerdbg.com/) - HTTP协议调试器**（封闭源代码）**
 
 ### CPU profile
-- [call-trace](https://github.com/brendankenny/call-trace)  - 可以使用钩子检测您的 JS，然后生成完整（非采样）执行的“.cpuprofile”. 查看时间或通话计数.
+- [call-trace](https://github.com/brendankenny/call-trace)  - 可以使用钩子检测您的 JS，然后生成完整（非采样）执行的“.cpuprofile”. 查看时间或通话次数.
 - [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - 将各种分析/采样工具的输出转换为 `.cpuprofile` 格式.
 - [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - 分析数据可以导出为`.cpuprofile`.
 

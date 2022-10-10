@@ -14,7 +14,7 @@
 
 ## Sponsors
 
-This project would not be possible without the generous support of our sponsors.
+如果没有我们赞助商的慷慨支持，这个项目是不可能实现的.
 
 <table>
   <tr>
@@ -192,7 +192,7 @@ This project would not be possible without the generous support of our sponsors.
 <h2 id="csharp">C#</h2>
 
 
-- [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
+- [.NET Analyzers](https://github.com/DotNetAnalyzers) — 使用 .NET 编译器平台开发分析器（诊断和代码修复）的组织.
 
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 
@@ -200,7 +200,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 
-- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
+- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现异味，计算各种代码质量指标和趋势分析.
 
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — 宪兵检查包含 ECMA CIL 格式（Mono 和 .NET）代码的程序和库.
 
@@ -340,7 +340,7 @@ This project would not be possible without the generous support of our sponsors.
 <h2 id="elm">榆树</h2>
 
 
-- [elm-analyse](https://stil4m.github.io/elm-analyse) — 一个允许您分析 Elm 代码、识别缺陷和应用最佳实践的工具.
+- [elm-analyse](https://stil4m.github.io/elm-analyse) — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 
 - [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — 分析整个 Elm 项目，重点关注用 Elm 编写的可共享和自定义规则，这些规则增加了 Elm 编译器无法提供的保证.
 
@@ -454,7 +454,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [safesql](https://github.com/stripe/safesql) — Golang 的静态分析工具，可防止 SQL 注入.
 
-- [shisho](https://docs.shisho.dev/) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 - [staticcheck](https://staticcheck.io) — Go 静态分析，专门用于查找错误、简化代码和提高性能.
 
@@ -602,7 +602,7 @@ This project would not be possible without the generous support of our sponsors.
 <h2 id="julia">朱莉娅</h2>
 
 
-- [StaticLint](https://github.com/julia-vscode/StaticLint.jl) — Static Code Analysis for Julia
+- [StaticLint](https://github.com/julia-vscode/StaticLint.jl) — Julia 的静态代码分析
 
 
 <h2 id="kotlin">科特林</h2>
@@ -868,6 +868,8 @@ This project would not be possible without the generous support of our sponsors.
 
 - [cane](https://github.com/square/cane) — 作为构建的一部分的代码质量阈值检查.
 
+- [Churn](https://github.com/danmayer/churn)  — 为给定签入提供项目的流失文件、类和方法的项目. 随着时间的推移，该工具会将流失的历史加起来，以给出文件、类或方法在项目生命周期内发生变化的次数.
+
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner)  — 用于 Ruby 编写的 Web 应用程序的静态分析安全扫描器. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — 整理您的 ERB 或 HTML 文件
@@ -878,11 +880,13 @@ This project would not be possible without the generous support of our sponsors.
 
 - [flog](https://ruby.sadi.st/Flog.html)  — Flog 在一个易于阅读的痛苦报告中报告了最受折磨的代码. 分数越高，代码越痛苦.
 
-- [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu)  — 用于测量 Ruby 类文件中代码复杂性的工具. 它的分析基于圈复杂度算法生成分数，没有添加“意见”.
+- [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu) — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
 
 - [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier)  — HTML 的规范化器/美化器，它也理解嵌入式 Ruby. 非常适合整理 Rails 模板.
 
 - [laser](https://github.com/michaeledgar/laser) :warning: — Ruby 代码的静态分析和样式 linter.
+
+- [MetricFu](https://github.com/metricfu/metric_fu) — MetricFu 是一组工具，用于提供报告，显示代码的哪些部分可能需要额外的工作.
 
 - [pelusa](https://github.com/codegram/pelusa) — 静态分析 Lint 类型的工具，用于改进您的 OO Ruby 代码.
 
@@ -895,6 +899,8 @@ This project would not be possible without the generous support of our sponsors.
 - [rails_best_practices](https://rails-bestpractices.com) — Rails 项目的代码度量工具
 
 - [reek](https://github.com/troessner/reek) — Ruby 的代码气味检测器.
+
+- [Roodi](https://github.com/roodi/roodi)  — Roodi 代表 Ruby Object Oriented Design Inferometer. 它会解析您的 Ruby 代码，并根据已配置的检查向您发出有关设计问题的警告.
 
 - [RuboCop](https://docs.rubocop.org/rubocop) — 基于社区 Ruby 风格指南的 Ruby 静态代码分析器.
 
@@ -914,7 +920,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [Standard Ruby](https://github.com/testdouble/standard) — Ruby 风格指南，带有 linter 和自动代码修复器
 
-- [Steep](https://github.com/soutaro/steep) — Ruby 的渐进式打字.
+- [Steep](https://github.com/soutaro/steep) — Gradual Typing for Ruby.
 
 
 <h2 id="rust">锈</h2>
@@ -980,7 +986,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [sqlint](https://github.com/purcell/sqlint) — 简单的 SQL 短绒.
 
-- [squawk](https://squawkhq.com)  — Linter for PostgreSQL，专注于迁移. 防止数据库迁移导致的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
+- [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
 - [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL 特定的 linter.
 
@@ -1014,7 +1020,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [shellcheck](https://www.shellcheck.net) — ShellCheck，一种静态分析工具，可为 bash/sh shell 脚本提供警告和建议.
 
-- [shellharden](https://github.com/anordal/shellharden) — A syntax highlighter and a tool to semi-automate the rewriting of scripts to ShellCheck conformance, mainly focused on quoting.
+- [shellharden](https://github.com/anordal/shellharden) — 一个语法高亮工具和一个半自动化地重写脚本以符合 ShellCheck 的工具，主要集中在引用上.
 
 
 <h2 id="swift">迅速</h2>
@@ -1117,7 +1123,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [Codacy](https://www.codacy.com) :copyright: — 代码分析以更快地交付更好的代码.
 
-- [Code Intelligence](https://www.code-intelligence.com) :copyright: — 与 CI/CD 无关的 DevSecOps 平台，它结合了行业领先的 fuzzing 引擎，用于查找错误和可视化代码覆盖率
+- [Code Intelligence](https://www.code-intelligence.com) :copyright: — CI/CD-agnostic DevSecOps platform which combines industry-leading fuzzing engines for finding bugs and visualizing code coverage
 
 - [Codeac](https://www.codeac.io/?ref=awesome-static-analysis)  :copyright: — 自动代码审查工具与 GitHub、Bitbucket 和 GitLab 集成（甚至是自托管的）. 适用于 JavaScript、TypeScript、Python、Ruby、Go、PHP、Java、Docker 等.  （开源免费）
 
@@ -1173,7 +1179,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
 
-- [goone](https://github.com/masibw/goone) — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
+- [goone](https://github.com/masibw/goone) — Finds N+1 queries (SQL calls in a for loop) in go code
 
 - [graudit](http://www.justanotherhacker.com) — Grep 粗略审计——源代码审计工具.
 
@@ -1183,7 +1189,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [Hound CI](https://houndci.com)  — 对 GitHub 拉取请求中的样式违规的评论. 支持 Coffeescript、Go、HAML、JavaScript、Ruby、SCSS 和 Swift.
 
-- [imhotep](https://github.com/justinabrahms/imhotep) — Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
+- [imhotep](https://github.com/justinabrahms/imhotep) — 评论进入您的存储库的提交并检查语法错误和一般 lint 警告.
 
 - [include-gardener](https://github.com/feddischson/include_gardener) — A multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 
@@ -1233,7 +1239,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [ReSharper](https://www.jetbrains.com/resharper) :copyright: — Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 
-- [RIPS](https://www.ripstech.com) :copyright: — PHP 脚本漏洞的静态源代码分析器.
+- [RIPS](https://www.ripstech.com) :copyright: — A static source code analyser for vulnerabilities in PHP scripts.
 
 - [Rome](https://rome.tools/) — Rome 是一个 linter、编译器、捆绑器和 [more](https://rome.tools/#development-status) 适用于 JavaScript、TypeScript、JSON、HTML、Markdown 和 CSS.
 
@@ -1426,7 +1432,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [sass-lint](https://github.com/sasstools/sass-lint) :warning: — 适用于 sass 和 scss 语法的仅限节点的 Sass linter.
 
-- [scsslint](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
+- [scsslint](https://github.com/brigade/scss-lint) :warning: — SCSS 文件的 Linter.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS 特异性图生成器.
 
@@ -1484,12 +1490,12 @@ This project would not be possible without the generous support of our sponsors.
 
 - [terrascan](https://github.com/cesar-rodriguez/terrascan) — 收集用于 Terraform 模板的静态代码分析的安全性和最佳实践测试.
 
-- [tflint](https://github.com/wata727/tflint) — Terraform linter，用于检测“terraform plan”无法检测到的错误.
+- [tflint](https://github.com/wata727/tflint) — A Terraform linter for detecting errors that can not be detected by `terraform plan`.
 
 - [tfsec](https://github.com/tfsec/tfsec)  — Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反 AWS、Azure 和 GCP 安全最佳实践建议.
 
 
-<h2 id="container">Containers</h2>
+<h2 id="container">容器</h2>
 
 
 - [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
@@ -1521,7 +1527,7 @@ This project would not be possible without the generous support of our sponsors.
 - [kubeconform](https://github.com/yannh/kubeconform) — 一个快速的 Kubernetes 清单验证器，支持自定义资源.
 它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支 - 它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
-- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
+- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
@@ -1650,7 +1656,7 @@ This project would not be possible without the generous support of our sponsors.
 <h2 id="latex">乳胶</h2>
 
 
-- [ChkTeX](http://www.nongnu.org/chktex) — 用于 LaTex 的 linter，它可以捕获 LaTeX 监督的一些印刷错误.
+- [ChkTeX](http://www.nongnu.org/chktex) — A linter for LaTex which catches some typographic errors LaTeX oversees.
 
 - [lacheck](https://www.ctan.org/pkg/lacheck) — 用于查找 LaTeX 文档中常见错误的工具.
 
@@ -1809,7 +1815,7 @@ This project would not be possible without the generous support of our sponsors.
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 Java 安全漏洞的源代码分析工具.
 
-- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
+- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 的不可利用漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 
@@ -1864,7 +1870,7 @@ TruffleHog 是一个开源的秘密扫描引擎，可以解决公司整个技术
 
 - [kics](https://kics.io/)  — 在基础架构即代码中查找安全漏洞、合规性问题和基础架构错误配置. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
-- [shisho](https://docs.shisho.dev/) — A lightweight static code analyzer designed for developers and security teams. It allows you to analyze and transform source code with an intuitive DSL similar to sed, but for code.
+- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 
 <h2 id="translation">翻译</h2>
