@@ -38,6 +38,7 @@
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)  - TensorFlow howtos 和最佳实践. 涵盖基础知识和高级主题.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html)  - TensorFlow 官方教程的模块化实现.  ([CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) Estimator API 的概念概述，您何时使用它以及为什么使用它. 
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - Coursera 提供的 Tensorflow 简介
 * [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) - TensorFlow 中的卷积神经网络，由 Coursera 提供
 * [TensorLayerX](https://tensorlayerx.readthedocs.io/en/latest/index.html#user-guide)  - 像 PyTorch 一样使用 TensorFlow.  ([Api docs](https://tensorlayerx.readthedocs.io/en/latest/index.html#))
 
@@ -99,7 +100,7 @@
 * [Unsupervised Object Counting](https://github.com/akosiorek/attend_infer_repeat) - 实施 ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 * [Tensorflow FastText](https://github.com/apcode/tensorflow_fasttext) - 一个简单的基于嵌入的文本分类器，灵感来自 Facebook 的 fastText.
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - 使用神经网络从 10 秒的声音流中对音乐流派进行分类.
-* [Kubeflow](https://github.com/kubeflow/kubeflow) - 轻松将 TensorFlow 与 Kubernetes 一起使用的框架.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) - 用于轻松将 TensorFlow 与 Kubernetes 一起使用的框架.
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40 多种具有预训练权重的流行计算机视觉模型.
 * [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - 在 Keras 和 Tensorflow 中实现半监督学习的梯形网络
 * [TF-Unet](https://github.com/juniorxsound/TF-Unet) - 在 Keras 中实现的通用 U-Network 用于图像分割
@@ -210,7 +211,7 @@
 * [Using TensorBoard to Visualize Image Classification Retraining in TensorFlow](http://maxmelnick.com/2016/07/04/visualizing-tensorflow-retrain.html)
 * [TFRecords Guide](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/) 语义分割和处理 TFRecord 文件格式.
 * [TensorFlow Android Guide](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc) - Android TensorFlow 机器学习示例.
-* [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - 在英特尔/谷歌合作的基础上，在基于英特尔® 至强® 和英特尔® 至强融核™ 处理器的平台上引入 TensorFlow 优化.
+* [TensorFlow Optimizations on Modern Intel® Architecture](https://software.intel.com/en-us/articles/tensorflow-optimizations-on-modern-intel-architecture) - 基于英特尔/谷歌合作，在基于英特尔® 至强® 和英特尔® 至强融核™ 处理器的平台上引入 TensorFlow 优化.
 * [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) 可口可乐的产品代码图像识别神经网络与用户输入反馈循环.
 * [How Does The TensorFlow Work](https://www.letslearnai.com/2018/02/02/how-does-the-machine-learning-library-tensorflow-work.html) 机器学习库 TensorFlow 是如何工作的？
 

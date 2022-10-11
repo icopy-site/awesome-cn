@@ -131,6 +131,13 @@ Fiber 的预制样板.
 - [Welcome to Fiber — an Express.js styled web framework written in Go with ❤️](https://dev.to/koddr/welcome-to-fiber-an-express-js-styled-fastest-web-framework-written-with-on-golang-497)
 - [Blazing Fast Unit Tests - Fiber/fasthttp/http Internals](https://medium.com/trendyol-tech/golang-blazing-fast-unit-tests-fiber-fasthttp-http-internals-and-optimizing-http-server-tests-bbd1fe7b944b)
 
+
+## 📺 Videos
+社区创建的有关 Fiber 的视频教程.
+
+- [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
+
+
 ## 🤖 Benchmarks
 将 Fiber 与其他框架进行比较的几个基准.
 - [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=json) - 项目提供跨广泛的 Web 应用程序框架领域的性能度量.

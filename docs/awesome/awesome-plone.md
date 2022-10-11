@@ -16,7 +16,7 @@
 
 此列表仅涵盖适用于 Plone 最新主要版本（当前为 5.2 和 6）的附加组件，并且仅涵盖支持 Python 3 的附加组件.
 
- Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 plone.restapi 与 Plone 通信.  Volto 本身是非常可扩展的. 结帐 [awesome-volto list](https://github.com/collective/awesome-volto) 用于 Volto 的附加组件.
+ Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 `plone.restapi` 与 Plone 进行通信.  Volto 本身是非常可扩展的. 结帐 [awesome-volto list](https://github.com/collective/awesome-volto) for add-ons to Volto.
 
 
 
@@ -41,6 +41,7 @@ _为内容提供内容类型或附加功能的附加组件_
 ## Searching and Categorizing
 
 * [collective.bookmarks](https://github.com/collective/collective.bookmarks) - Plone 的书签/收藏夹/愿望清单.
+* [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) - 使用 ElasticSearch 作为 Plone 的搜索后端.
 * [collective.solr](https://github.com/collective/collective.solr) - 用于 Plone 的 Solr 搜索引擎集成.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) - 更改、合并和删除关键字/标签/主题）.
 
@@ -49,7 +50,7 @@ _为内容提供内容类型或附加功能的附加组件_
 
 _帮助开发人员和用户创建和管理站点布局的产品和资源._
 
-* [collective.cover](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
+* [collective.cover](https://github.com/collective/collective.cover)  - 封面允许创建围绕拖放界面构建的精美封面. 使用与 plone.app.mosaic 相同的块/瓷砖生态系统，但编辑方法不同.
 
 
 ## Tiles
@@ -117,7 +118,7 @@ _用于搜索引擎优化的附加组件._
 
 ## Authentication
 
-_身份验证插件列表，用于将 Plone 与外部用户、Importsources 和 Migrations.import 集成
+_身份验证插件列表，用于将 Plone 与外部用户、Importsources 和 Migrations.import_ 集成
 
 * [pas.plugins.ldap](https://github.com/collective/pas.plugins.ldap) - 提供来自 LDAP 目录的用户和组.
 * [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic) - 与 Plone 的自动 OAuth1/OAuth2/OpenID 登录集成.

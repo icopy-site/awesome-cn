@@ -6,11 +6,11 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **Artificial General Intelligence** 的 **awesome &amp; curated** list for **Artificial General Intelligence**，这是一个新兴的跨学科领域，将人工智能和计算认知科学作为多数，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
+ **Artificial General Intelligence** 的 **awesome &amp; curated** list **Artificial General Intelligence** 是一个新兴的跨学科领域，将人工智能和计算认知科学作为大多数学科结合在一起，仅与概率和数理统计、形式逻辑、认知和发展心理学相结合，计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获取灵感来促进高级机器智能，同时更深入地了解人类的认知. 我们相信，这种互惠研究是实现我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能代理.
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence ***的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起人在进行绑架和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
+显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系.
 
 ## Contributing
 
@@ -211,7 +211,7 @@
 
 * [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***国际人机研究杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678&hl=en&as_sdt=2005&sciodt=0,5) ]. 双空间搜索的迭代版本（深度和宽度）.
 
-* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***Cognitive Psychology***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5) ]. 一个证据表明儿童具有基本的科学思维能力.
+* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***认知心理学***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5) ]. 一个证据表明儿童具有基本的科学思维能力.
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
@@ -350,7 +350,7 @@
 * [Where do hypotheses come from?](https://gershmanlab.com/pubs/Dasgupta17.pdf) - ***认知心理学***，2017. [[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235&hl=en&as_sdt=2005&sciodt=0,5) ]. 将基本规则建模为假设空间的贝叶斯帐户.
 
 
-<span id = "nonparametric-model"></span>
+
 #### Nonparametric Model
 
 * [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***统计年鉴***，1973 年. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902&hl=en&as_sdt=0,5) ]. 关于非参数问题的经典评论.
@@ -399,7 +399,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里 (Susan Carey) 的关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明和捍卫认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里关于儿童发展概念理论的扩展书.
 
@@ -552,7 +552,7 @@
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5) ].  Noah Goodman 和 Micheal Frank 对理性言论法案的评论.
 
-* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***语义与语用学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***语义和语用学***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***语义和语言理论***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579&hl=en&as_sdt=2005&sciodt=0,5) ]. 形容词理解作为上下文中的理性推理.
 
@@ -1654,7 +1654,7 @@
   * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213)  - ***翻译. 中间***，2020 年.
   * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828)  - ***翻译.  CSVT***，2021 年.
   * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727) - ***IROS&#39;04***，2004 年. [[Project](http://gazebosim.org/)].
-  * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf) - ***CIG&#39;16***，2016 年. [[Project](http://vizdoom.cs.put.edu.pl/)].
+  * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf) - ***CIG'16***, 2016. [[Project](http://vizdoom.cs.put.edu.pl/)].
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
   * **视觉体验数据库** [[Project](http://visualexperiencedatabase.org/research.html)]. [[Publications](http://visualexperiencedatabase.org/publications.html)].
 

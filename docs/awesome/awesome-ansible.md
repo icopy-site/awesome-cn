@@ -87,6 +87,7 @@
 - [TD4A](https://github.com/cidrblock/td4a) - 用于构建和测试 jinja2 模板的设计辅助工具，将 yaml 格式的数据与 jinja2 模板组合并呈现输出.
 - [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - 用于创建表示 Ansible 剧本剧本、任务和角色的图形的命令行工具.
 - [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - 从 HTML 表单中的 Ansible 模块中提取文档的工具.
+- [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore 是 Ansible 的现代 UI.
 
 ## Blog posts and opinions
 
@@ -104,13 +105,14 @@
 
 ## Playbooks, Roles and Collections
 
-&gt; 令人敬畏的生产就绪剧本、角色和集合让您启动和运行.
+&gt; 令人敬畏的生产就绪剧本、角色和集合让您启动并运行.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
 - [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook 用于设置具有 Docker 守护程序的自我更新、强化的 Debian/Ubuntu 机器.
 - [DevSec Hardening Framework](https://dev-sec.io/) - DevSec 集合可帮助您强化基于 Linux 的操作系统以及 MySQL、NGINX 和 SSH 服务器/服务.
-- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 为开发环境和生产环境提供和部署 Docker Swarm 集群. 基础架构即代码和 DevOps 最佳实践.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).
+- [Robert de Bock](https://robertdebock.nl) - 广泛的 Ansible 角色集合.
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - 使用 AWS SSM 代理预置物理和虚拟主机的 ansible 角色.
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - 用于部署集群的 ansible 连贯角色集合.

@@ -28,6 +28,7 @@
 - [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) - Wagtail Django CMS 的博客应用程序.
 - [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - 为您的 Wagtail CMS 项目添加对 RSS 源、Facebook Instant Articles 和 Apple News Publisher 的支持.
 - [Snotra_RSS](https://github.com/olopost/snotra_rss) - Snotra_RSS 是 Wagtail 的 Atom 和 RSS 新闻聚合器应用程序.
+- [wagtail-live](https://github.com/wagtail/wagtail-live) - 使用 Wagtail 构建实时博客.
 
 ### Rich text editor extensions
 

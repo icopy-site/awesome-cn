@@ -64,8 +64,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand 学校速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
 - [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
-- [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - Understanding Algorand's working principles and its efficiency.
+- [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - 介绍 Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）.
+- [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（带有 [@matteojug](https://twitter.com/matteojug)).
+- [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws)  - 使用 PyTeal 在 Algorand 上开发 _ABI-compliant_ 智能合约. 最后的现场编码部分（与 [@_deanste](https://twitter.com/_deanste)).
+- [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY)  - 基于 PyTeal 的 Algorand 智能合约开发、客户端和测试框架. 实时编码会话（与 [@HGKimChris](https://twitter.com/HGKimChris)).
 
 ### General courses
 
@@ -160,7 +163,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### IntelliJ
 
-- [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ 插件.
+- [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ Plugin.
 
 ### VSCode
 
@@ -227,14 +230,14 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Security Audits
 
- &gt; 本节并非旨在宣传以下任何公司，请在研究可供审计的选项时尽职尽责. 相反，以下内容仅旨在强调为 Algorand 生态系统提供智能合约审计的越来越多的公司.
+> This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.
 
 - [Certik](https://www.certik.com/ecosystems/algorand) - CertiK 提供 web3 安全工具的黄金标准，从行业领先的智能合约审计到 Skynet 和 SkyTrace 等区块链分析工具，使其成为确保 Algorand 项目端到端安全的理想合作伙伴.
 - [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - AlgoBuilder 背后的团队提供咨询您的项目、由专业人员完成智能合约、编写自动化测试或审核您现有的项目.
 - [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - 位于波兰的区块链实验室，为 Algorand 智能合约提供审计服务.
 - [Runtime Verification](https://runtimeverification.com/smartcontract) - 由审计 Algofi、FolksFinance、Yieldly 和生态系统中其他著名 DeFi 平台等平台的团队进行智能合约分析和验证.
-- [Immunebytes](https://www.immunebytes.com) - Secure your Algorand Smart Contract with credible security auditing solutions.
-- [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地投入生产或转移到主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，以便您可以自信地利用安全作为这个动态市场的强大差异化因素.
+- [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
+- [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地投入生产或转移到主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，以便您可以自信地利用安全性作为这个动态市场中的强大差异化因素.
 
 ## Bridges
 

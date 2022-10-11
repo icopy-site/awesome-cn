@@ -151,7 +151,7 @@ _用于构建和使用机器人的库._
 - [Kelp](https://github.com/stellar/kelp) - 官方交易和做市机器人 [Stellar](https://www.stellar.org/) 敏捷. 开箱即用，用 Golang 编写，与中心化交易所和自定义交易策略兼容.
 - [larry](https://github.com/ezeoleaf/larry) - Larry 是一个非常简单的 Twitter 机器人生成器，它从 Go 内置的 Github 发布随机存储库.
 - [margelet](https://github.com/zhulik/margelet) - 构建 Telegram 机器人的框架.
-- [micha](https://github.com/onrik/micha) - 去图书馆获取 Telegram 但 api.
+- [micha](https://github.com/onrik/micha) - 前往图书馆获取 Telegram bot api.
 - [olivia](https://github.com/olivia-ai/olivia) - 用人工神经网络构建的聊天机器人.
 - [slack-bot](https://github.com/innogames/slack-bot) - 准备为懒惰的开发人员使用 Slack Bot：自定义命令、Jenkins、Jira、Bitbucket、Github...
 - [slacker](https://github.com/shomali11/slacker) - 易于使用的框架来创建 Slack 机器人.
@@ -320,7 +320,7 @@ _用于配置解析的库._
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - 用于管理来自环境变量的配置数据的库.
 - [koanf](https://github.com/knadh/koanf)  - 轻量级、可扩展的库，用于读取 Go 应用程序中的配置. 内置对 JSON、TOML、YAML、env、命令行的支持.
 - [konfig](https://github.com/lalamove/konfig) - 适用于分布式处理时代的 Go 的可组合、可观察和高性能配置处理.
-- [kong](https://github.com/alecthomas/kong) - 命令行解析器，支持任意复杂的命令行结构和其他配置源，例如 YAML、JSON、TOML 等（“主销”的继承者）.
+- [kong](https://github.com/alecthomas/kong) - 命令行解析器，支持任意复杂的命令行结构和其他配置源，如 YAML、JSON、TOML 等（“主销”的继承者）.
 - [mini](https://github.com/sasbury/mini) - 用于解析 ini 样式配置文件的 Golang 包.
 - [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - 用于读取环境变量的简单有用的包.
 - [nfigure](https://github.com/muir/nfigure)  - 从命令行（Posix 和 Go 风格）基于每个库结构标签的配置； 环境、JSON、YAML
@@ -424,7 +424,7 @@ additional ordered map implementations.
 - [gota](https://github.com/kniren/gota) - 为 Go 实现数据帧、系列和数据整理方法.
 - [hide](https://github.com/emvi/hide) - 带有编组到/从散列的 ID 类型，以防止向客户端发送 ID.
 - [hilbert](https://github.com/google/hilbert) - 用于将值映射到空间填充曲线和从空间填充曲线（例如 Hilbert 和 Peano 曲线）映射的包.
-- [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间减少的 HyperLogLog 实施.
+- [hyperloglog](https://github.com/axiomhq/hyperloglog) - 具有稀疏、LogLog-Beta 偏差校正和 TailCut 空间缩减的 HyperLogLog 实施.
 - [quadtree](https://github.com/s0rg/quadtree) - 通用、零分配、100% 测试覆盖的四叉树.
 - [slices](https://github.com/srfrog/slices)  - 对切片进行操作的函数； 像`package strings`，但适用于切片.
 - [slices](https://github.com/twharmon/slices) - 切片的纯通用函数.
@@ -453,7 +453,7 @@ additional ordered map implementations.
 
 - [bleve](https://github.com/blevesearch/bleve) - 现代文本索引库.
 - [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - 执行自适应基数树.
-- [go-edlib](https://github.com/hbollon/go-edlib) - 与 Unicode 兼容的 Go 字符串比较和编辑距离算法库（Levenshtein、LCS、Hamming、Damerau levenshtein、Jaro-Winkler 等）.
+- [go-edlib](https://github.com/hbollon/go-edlib) - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
 - [levenshtein](https://github.com/agext/levenshtein) - Levenshtein 距离和相似性度量，具有可定制的编辑成本和通用前缀的 Winkler 式奖金.
 - [levenshtein](https://github.com/agnivade/levenshtein) - 在 Go 中计算 levenshtein 距离的实现.
 - [mspm](https://github.com/BlackRabbitt/mspm) - 用于信息检索的多字符串模式匹配算法.
@@ -776,7 +776,7 @@ _用于更新动态 DNS 记录的工具._
 
 - [DDNS](https://github.com/skibish/ddns) - 以 Digital Ocean Networking DNS 作为后端的个人 DDNS 客户端.
 - [dyndns](https://gitlab.com/alcastle/dyndns) - 后台 Go 进程定期自动检查您的 IP 地址，并在您的地址更改时更新（一个或多个）Google 域的动态 DNS 记录.
-- [GoDNS](https://github.com/timothyye/godns) - 动态 DNS 客户端工具，支持 DNSPod 和 HE.net，用 Go 编写.
+- [GoDNS](https://github.com/timothyye/godns) - 一个动态的 DNS 客户端工具，支持 DNSPod 和 HE.net，用 Go 编写.
 
 
 ## Email
@@ -1035,6 +1035,7 @@ _管理和使用 Goroutines 的工具._
 - [conexec](https://github.com/ITcathyh/conexec)  - 一个并发工具包，可帮助以高效和安全的方式同时执行函数. 它支持指定整体超时以避免阻塞，并使用 goroutine 池来提高效率.
 - [cyclicbarrier](https://github.com/marusama/cyclicbarrier) - golang 的 CyclicBarrier.
 - [execpool](https://github.com/hexdigest/execpool)  - 围绕 exec.Cmd 构建的池，可提前启动给定数量的进程，并在需要时将标准输入和标准输出附加到它们. 与 FastCGI 或 Apache Prefork MPM 非常相似，但适用于任何命令.
+- [go-actor](https://github.com/vladopajic/go-actor) - 一个使用actor模型编写并发程序的小型库.
 - [go-floc](https://github.com/workanator/go-floc) - 轻松编排 goroutine.
 - [go-flow](https://github.com/kamildrazkiewicz/go-flow) - 控制 goroutines 的执行顺序.
 - [go-tools/multithreading](https://github.com/nikhilsaraf/go-tools) - 使用这个轻量级库和一个简单的 API 管理一个 goroutine 池.
@@ -1476,7 +1477,7 @@ _使用字符串的库._
 
 - [bexp](https://github.com/mkungla/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
 - [go-formatter](https://gitlab.com/tymonx/go-formatter) - 实现由大括号 `{}` 格式字符串包围的**替换字段**.
-- [gobeam/Stringy](https://github.com/gobeam/Stringy) - 字符串操作库，可将字符串转换为驼峰式、蛇式、烤肉串/slugify 等.
+- [gobeam/Stringy](https://github.com/gobeam/Stringy) - 字符串操作库，用于将字符串转换为驼峰式、蛇形、烤肉串/slugify 等.
 - [strutil](https://github.com/ozgio/strutil) - 字符串实用程序.
 - [sttr](https://github.com/abhimanyu003/sttr) - 跨平台，cli 应用程序对字符串执行各种操作.
 - [xstrings](https://github.com/huandu/xstrings) - 从其他语言移植的有用字符串函数的集合.
@@ -1863,7 +1864,7 @@ _科学计算和数据分析库._
 - [sparse](https://github.com/james-bowman/sparse) - Go Sparse 矩阵格式，用于支持科学和机器学习应用的线性代数，与 gonum 矩阵库兼容.
 - [stats](https://github.com/montanaflynn/stats) - Golang 标准库中缺少常用功能的统计包.
 - [streamtools](https://github.com/nytlabs/streamtools) - 用于处理数据流的通用图形工具.
-- [TextRank](https://github.com/DavidBelicza/TextRank) - Golang 中的 TextRank 实现，具有可扩展的功能（摘要、加权、短语提取）和多线程（goroutine）支持.
+- [TextRank](https://github.com/DavidBelicza/TextRank) - Golang 中的 TextRank 实现，具有可扩展的特性（摘要、加权、短语提取）和多线程（goroutine）支持.
 - [triangolatte](https://github.com/tchayen/triangolatte)  - 二维三角测量库. 允许将线和多边形（均基于点）转换为 GPU 的语言.
 
 
@@ -2390,7 +2391,7 @@ _使您的生活更轻松的通用实用程序和工具._
 - [handy](https://github.com/miguelpragier/handy) - 许多实用程序和助手，如字符串处理程序/格式化程序和验证器.
 - [hostctl](https://github.com/guumaster/hostctl) - 使用简单命令管理 /etc/hosts 的 CLI 工具.
 - [htcat](https://github.com/htcat/htcat) - 并行和流水线 HTTP GET 实用程序.
-- [hub](https://github.com/github/hub) - 使用附加功能包装 git 命令以从终端与 github 交互.
+- [hub](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
 - [hystrix-go](https://github.com/afex/hystrix-go) - 实现程序员定义的回退（即断路器）的 Hystrix 模式.
 - [immortal](https://github.com/immortal/immortal) - \*nix 跨平台（与操作系统无关）主管.
 - [intrinsic](https://github.com/mengzhuo/intrinsic) - 使用 x86 SIMD，无需编写任何汇编代码.
@@ -2725,7 +2726,7 @@ _源代码分析工具，也称为静态应用程序安全测试（SAST）工具
 - [golines](https://github.com/segmentio/golines) - 自动缩短 Go 代码中长行的格式化程序.
 - [GoLint](https://github.com/golang/lint) - Golint 是 Go 源代码的 linter.
 - [GoPlantUML](https://github.com/jfeliu007/goplantuml) - 库和 CLI 生成文本 Plantump 类图，其中包含有关结构和接口以及它们之间关系的信息.
-- [goreturns](https://sourcegraph.com/github.com/sqs/goreturns) - Adds zero-value return statements to match the func return types.
+- [goreturns](https://sourcegraph.com/github.com/sqs/goreturns) - 添加零值返回语句以匹配 func 返回类型.
 - [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - gosimple 是专门用于简化代码的 Go 源代码的 linter.
 - [gostatus](https://github.com/shurcooL/gostatus) - 命令行工具，显示包含 Go 包的存储库的状态.
 - [lint](https://github.com/surullabs/lint) - 运行 linter 作为测试的一部分.
@@ -2808,7 +2809,7 @@ _用 Go 编写的软件._
 
 ### DevOps Tools
 
-- [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate 是一种将长字符串转换为具有可配置分隔符的较短字符串的工具，例如将分支名称嵌入部署堆栈 ID.
+- [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate 是将长字符串转换为具有可配置分隔符的较短字符串的工具，例如将分支名称嵌入部署堆栈 ID.
 - [aptly](https://github.com/smira/aptly) - aptly 是一个 Debian 存储库管理工具.
 - [aurora](https://github.com/xuri/aurora) - 跨平台的基于 Web 的 Beanstalkd 队列服务器控制台.
 - [awsenv](https://github.com/soniah/awsenv) - 为配置文件加载 Amazon (AWS) 环境变量的小型二进制文件.
@@ -2960,7 +2961,7 @@ _在哪里发现新的 Go 库._
 
 ## Benchmarks
 
-- [autobench](https://github.com/davecheney/autobench) - Framework to compare the performance between different Go versions.
+- [autobench](https://github.com/davecheney/autobench) - 用于比较不同 Go 版本之间性能的框架.
 - [go-benchmark-app](https://github.com/mrLSD/go-benchmark-app)  - 强大的 HTTP 基准工具与 Аb、Wrk、Siege 工具混合. 为基准和比较结果收集统计数据和各种参数.
 - [go-benchmarks](https://github.com/tylertreat/go-benchmarks)  - 一些杂项 Go 微基准测试. 将某些语言功能与替代方法进行比较.
 - [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP 请求路由器基准和比较.
@@ -3003,7 +3004,7 @@ _在哪里发现新的 Go 库._
 
 - [100 Go Mistakes: How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them)
 - [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
-- [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - 本持续交付实用指南向您展示如何快速建立自动化管道，以改善您的测试、代码质量和最终产品.
+- [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - 这本持续交付实用指南向您展示了如何快速建立自动化管道，以改善您的测试、代码质量和最终产品.
 - [For the Love of Go](https://bitfieldconsulting.com/books/love) - Go 初学者的入门书籍.
 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - 在 Go 中理解和使用泛型的指南.
 - [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - Go 测试指南.

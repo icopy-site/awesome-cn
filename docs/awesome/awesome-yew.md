@@ -81,6 +81,7 @@
 - [Rust Audio](https://github.com/austintheriot/audio) - 在浏览器中使用 Rust/WASM 进行实时音频处理/合成， [Live Demo](https://austintheriot.github.io/audio/).
 - [Kiomet](https://kiomet.com) - 一款在线实时战略游戏，您可以在其中通过占领塔来扩展您的领土.
 - [Portfolio website](https://github.com/simbleau/website) - Spencer Imbleau 内置可访问性的投资组合 SPA.
+- [tchatche.rs](https://github.com/nag763/tchatchers) - 在 Yew 和 Axum 中构建的基于 Websocket 聊天的应用程序.
 
 ## Templates
 
@@ -118,7 +119,7 @@
 - [yew-component-size](https://github.com/AircastDev/yew-component-size) - 当父组件改变宽度/高度时发出事件的 Yew 组件.
 - [yew-virtual-scroller](https://github.com/AircastDev/yew-virtual-scroller) - 用于虚拟滚动/滚动窗口的 Yew 组件.
 - [yew-oauth2](https://github.com/ctron/yew-oauth2/) - 一个普通的 Yew OAuth2/OpenIDConnect 组件，不依赖于任何 CSS 框架.
-- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
+- [yew-scroll-area](https://github.com/MatchaChoco010/yew-scroll-area) - 红豆杉的自定义滚动区域.
 
 ### Hooks
 
@@ -142,6 +143,7 @@
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的范围 CSS.
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
+- [Yew-Template](https://github.com/INSAgenda/yew-template) - 使用 Yew 时用于分离 HTML 和 Rust 代码的 crate.
 
 ### Wasm
 
@@ -151,7 +153,7 @@
 ## Tooling
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - 你最喜欢的 Rust -&gt; WebAssembly 工作流工具.
-- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - 通过下载可执行文件来安装“wasm-pack”以加速 CI/CD 的 Github 操作.
+- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 - [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - 通过下载可执行文件来安装“wasm-bindgen”以加速 CI/CD 的 Github 操作.
 - [cargo-web](https://github.com/koute/cargo-web) - 客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑和发布你的 Rust Wasm 应用程序到网络.

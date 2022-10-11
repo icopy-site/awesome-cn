@@ -71,6 +71,8 @@
 - [XRay: Enhancing the Web's Transparency with Differential Correlation](https://www.usenix.org/node/184394) - （USENIX 安全性）*审核用于定位特定广告、推荐或价格的用户配置文件数据.*
 ### 2013
 - [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) - (WWW) *开发了一种衡量网络搜索结果个性化的方法.*
+- [Auditing: Active Learning with Outcome-Dependent Query Costs](https://www.cs.bgu.ac.il/~sabatos/papers/SabatoSarwate13.pdf) - (NIPS) *从只为负标签付费的二元分类器中学习.*
+
 ### 2012
 - [Query Strategies for Evading Convex-Inducing Classifiers](http://www.jmlr.org/papers/v13/nelson12a.html)  - (JMLR) *凸分类器的规避方法. 考虑规避复杂性.*
 ### 2008

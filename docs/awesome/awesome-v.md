@@ -26,7 +26,7 @@
 - [verve](https://github.com/MohammadMD1383/verve) - 简单快速的静态文件服务器.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
-- [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建 QR 码的 CLI.
+- [vqrcode](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
 
 ### Editors
@@ -74,6 +74,7 @@
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml)  - V-native YAML 阅读器，包括.  YAML 到 JSON 转换器.
 - [vproto](https://github.com/emily33901/vproto) - V 中的 Protobuf 编译器和运行时.
 - [v-toxml](https://github.com/radare/v-toxml) - V 的 XML 序列化库.
+- [vgura](https://github.com/gura-conf/vgura) - V 的官方 Gura 解析器.
 
 ### Web
 
@@ -145,6 +146,7 @@
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 包装器.
 - [vsdl](https://github.com/kjlaw89/vsdl) - 基于 C 的 SDL 库的 V 包装器.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL 是使用 V 使用 OpenCL 编写程序的高级方式.这些是针对 V 的高度自以为是的 OpenCL 绑定.它试图通过一些糖抽象、V 的并发性和通道来简化 GPU 计算.
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - sokol_gp 库的 AV 包装器，用于简单快速的 2d 图形.
 
 ### IRC
@@ -164,8 +166,8 @@
 ### Scientific computing
 
 - [vplot](https://github.com/erdetn/vplot) - GNU Plot 的 V 包装器（`gnuplot_i`）.
-- [vsl](https://github.com/vlang/vsl) - 具有多种功能的纯 V 科学库.
-- [vtl](https://github.com/vlang/vtl) - 支持 n 维数据结构的数值计算库，由 LAPACKE 和 OpenBLAS 支持.
+- [vsl](https://github.com/vlang/vsl)  - VSL 是一个具有多种不同模块的科学图书馆. 尽管大多数模块都提供纯 V 定义，但 VSL 还提供了将已知 C 库封装在其他后端之间的模块，这些后端允许高性能计算作为替代方案. 还为 OpenBLAS、LAPACKE、MPI、OpenCL 以及其他库提供自以为是的包装器.
+- [vtl](https://github.com/vlang/vtl) - V 张量库是一个支持 n 维数据结构的数值计算库，由 VSL 支持.
 
 ### Serial Communications
 
@@ -269,9 +271,9 @@
 
 ### Syntax highlighting
 
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V syntax highlighting for [Kate](https://kate-editor.org/).
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V 语法高亮显示 [Kate](https://kate-editor.org/).
 - [language-v](https://github.com/Cutlery-Drawer/language-v) - Atom 的 V 语言支持（vscode-vlang 的端口）.
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V syntax highlighting for [SciTE](https://www.scintilla.org/SciTE.html).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V 语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
 - [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的高质量语法突出显示.
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
 - [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
