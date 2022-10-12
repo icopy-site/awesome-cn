@@ -16,7 +16,7 @@
 
 此列表仅涵盖适用于 Plone 最新主要版本（当前为 5.2 和 6）的附加组件，并且仅涵盖支持 Python 3 的附加组件.
 
- Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 `plone.restapi` 与 Plone 进行通信.  Volto 本身是非常可扩展的. 结帐 [awesome-volto list](https://github.com/collective/awesome-volto) for add-ons to Volto.
+ Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 `plone.restapi` 与 Plone 进行通信.  Volto 本身是非常可扩展的. 结帐 [awesome-volto list](https://github.com/collective/awesome-volto) 用于 Volto 的附加组件.
 
 
 
@@ -44,6 +44,7 @@ _为内容提供内容类型或附加功能的附加组件_
 * [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) - 使用 ElasticSearch 作为 Plone 的搜索后端.
 * [collective.solr](https://github.com/collective/collective.solr) - 用于 Plone 的 Solr 搜索引擎集成.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) - 更改、合并和删除关键字/标签/主题）.
+* [zopyx.typesense](https://github.com/zopyx/zopyx.typesense)  - Plone 与外部 Typesense 搜索服务器的集成（开源）. 这是collective.solr 或Elasticsearch 的替代方案.
 
 
 ## Layout
@@ -80,7 +81,7 @@ _允许生成和使用表单的附加组件._
 * [collective.z3cform.datagridfield](https://github.com/collective/collective.z3cform.datagridfield) - 带有数据网格（表）的字段，其中每一行都是一个子表单.
 * [collective.z3cform.norobots](https://github.com/collective/collective.z3cform.norobots) - 基于问题/答案列表的“人类”验证码小部件.
 * [plone.formwidgets.hcaptcha](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha 小部件可保护 Plone 免受机器人、垃圾邮件和其他形式的自动滥用.
-* [yafowil.plone](https://github.com/bluedynamics/yafowil.plone)  - Yafowil 是 Python 的表单库. 这是它的克隆集成包.
+* [yafowil.plone](https://github.com/bluedynamics/yafowil.plone) - Yafowil is a form library for Python. This is its Plone Integration package.
 
 
 ## Multilingual

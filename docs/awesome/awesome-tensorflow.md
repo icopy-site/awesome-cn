@@ -104,7 +104,7 @@
 * [TensorNets](https://github.com/taehoonlee/tensornets) - 40 多种具有预训练权重的流行计算机视觉模型.
 * [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - 在 Keras 和 Tensorflow 中实现半监督学习的梯形网络
 * [TF-Unet](https://github.com/juniorxsound/TF-Unet) - 在 Keras 中实现的通用 U-Network 用于图像分割
-* [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - 在干净、易于重用的 Tensorflow 2 代码（Plain Autoencoder、VAE、VQ-VAE、PixelCNN、Gated PixelCNN、PixelCNN++、PixelSNAIL、条件神经过程）中实现的最新生成模型的长列表.
+* [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - 在干净、易于重用、Tensorflow 2 代码（Plain Autoencoder、VAE、VQ-VAE、PixelCNN、Gated PixelCNN、PixelCNN++、PixelSNAIL、条件神经过程）中实现的最新生成模型的长列表.
 * [Model Maker](https://www.tensorflow.org/lite/guide/model_maker) - 一个迁移学习库，简化了 TensorFlow Lite 模型的训练、评估和部署过程（支持：图像分类、对象检测、文本分类、BERT 问答、音频分类、推荐等； [API reference](https://www.tensorflow.org/lite/api_docs/python/tflite_model_maker)).
 
 
@@ -141,7 +141,7 @@
 * [tensorpack](https://github.com/ppwwyyxx/tensorpack) - TensorFlow 上的神经网络工具箱，专注于训练速度和大型数据集.
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - TensorFlow 之上的层，用于对加密数据进行机器学习
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - 将 PyTorch 模型转换为 Keras（带有 TensorFlow 后端）格式
-* [gluon2keras](https://github.com/nerox8664/gluon2keras) - 将 Gluon 模型转换为 Keras（使用 TensorFlow 后端）格式
+* [gluon2keras](https://github.com/stjordanis/gluon2keras) - 将 Gluon 模型转换为 Keras（使用 TensorFlow 后端）格式
 * [TensorIO](https://doc-ai.github.io/tensorio/) - 用于将 TensorFlow Lite 模型部署到移动设备的轻量级跨平台库. 
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - 图形机器学习，一个用于对图形结构（网络结构）数据进行机器学习的 Python 库.
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - 用于实现通用架构堆栈的高级 Keras 补充，用作易于使用的即插即用模块

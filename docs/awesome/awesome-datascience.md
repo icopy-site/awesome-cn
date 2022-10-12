@@ -114,7 +114,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络（GAN）
+- 生成对抗网络 (GAN)
 - 自组织地图
 - 变压器
 - 条件随机场 (CRF)
@@ -136,6 +136,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
 - [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
 - [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
+- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
 
 ## Intensive Programs
 - [S2DS](https://www.s2ds.org/)
@@ -229,7 +230,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [R](https://www.r-project.org/)  | 是用于统计计算和图形的免费软件环境.  |
 | [RStudio](https://www.rstudio.com)  |  IDE – 强大的 R 用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
-| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形用户界面 |
+| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫 GUI |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 机器学习 |
 | [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
@@ -256,7 +257,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
 | [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和深度学习模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
@@ -494,6 +495,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 ## Books
 **[`^        back to top        ^`](#awesome-data-science)**
 
+- [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)

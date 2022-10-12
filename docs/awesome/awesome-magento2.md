@@ -39,7 +39,7 @@ Magento 由一家名为 Varien 的公司创立，随着 Magento 版本 1（2008 
 Magento 版本 2 于 2015 年 11 月首次发布，但由于其复杂性而面临采用问题
 架构和过时的功能（KnockoutJS、RequireJS、Zend Framework 1）. 在店面部分，
 这导致了各种新的前端.  2018 年，Magento 被 Adob​​e 收购. 后来整合了Magento Enterprise
-作为 Adob​​e Commerce Cloud 进入 Adob​​e 云，而 Magento 社区版被重新标记为 Magento 开源. 在
+into the Adobe cloud as Adobe Commerce Cloud, while the Magento Community Edition was relabeled Magento Open Source. In
 社区，不确定 Adob​​e 是否会长期维护 Magento 开源
 社区会认为合适. 这种不确定性导致了一项名为 Mage-OS 的社区倡议.
 
@@ -62,9 +62,15 @@ Magento 版本 2 于 2015 年 11 月首次发布，但由于其复杂性而面�
 - [Meet Magento UK](https://uk.meet-magento.com/) - 认识 Magento UK 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - 认识 Magento Baltics
 
-## Frontend
+## Frontends
+Magento 2 的店面可以通过多种方式设计：
 
-- [hyvä](https://hyva.io/) - 唯一可行的 Magento 2 前端选项
+ - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更多时候，Luma 这个名称指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
+ - **Adobe PWA Studio** - 一个新的无头前端，由 Adob​​e/Magento 创建，基于 ReactJS. 它使 GraphQL 调用 Magento GraphQL API 来检索数据. 前端提供了 Venia（一个演示主题和 UI 组件库）、Peregrine（React hooks）、Buildpack（Webpack 配置）和 UPWARD（一个用于 SSR 和图像优化的中间件）. 
+- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代方案，它将 LESS/CSS 替换为 TailwindCSS，将 JavaScript 替换为 AlpineJS. 目前，它只能通过商业许可证获得. 但是为了这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越多才多艺.
+- **店面视图**
+- **神**
+- **ScandiPWA**
 
 ## Tools
 
@@ -125,9 +131,9 @@ Magento 版本 2 于 2015 年 11 月首次发布，但由于其复杂性而面�
 ### Deployment
 
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2
-  deployment recipe for [deployer](https://deployer.org/).
+  部署配方 [deployer](https://deployer.org/).
 - [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) - 基于 deployer.org 执行的工具
-  Magento 2 项目的零停机部署.
+  zero downtime deployments of Magento 2 projects.
 - [Github Actions for Magento2](https://github.com/extdn/github-actions-m2) - Magento 2 扩展的 GitHub 操作
 
 ### Localization

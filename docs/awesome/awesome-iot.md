@@ -17,7 +17,7 @@
 - [Arduino](https://www.arduino.cc/)  - Arduino 是一个基于易于使用的硬件和软件的开源电子平台. 它适用于任何制作交互式项目的人.
 - [BeagleBoard](http://beagleboard.org/) - BeagleBoard 是德州仪器与 Digi-Key 和 Newark element14 联合生产的低功耗开源硬件单板计算机.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)  - DragonBoard 410c 是艾睿电子的产品，是基于中端 Qualcomm® Snapdragon™ 410E 处理器的开发板. 它具有先进的处理能力、Wi-Fi、蓝牙连接和 GPS，所有这些都封装在一张信用卡大小的板上.
-- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的继任者.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代互联产品中的微控制器.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的继任者.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代连接产品中的微控制器.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard 是基于 1GHz 飞思卡尔 i.MX6 SoC 的三个支持 Linux 和 Android 的开源 SBC 系列，具有类似 Pi 的 26 针 I/O 连接器.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔® Galileo Gen 2 开发板是 Arduino* 认证开发和原型开发板系列中的第一款，基于英特尔® 架构，专为创客、学生、教育工作者和 DIY 电子爱好者设计.
 - [Microduino](https://www.microduino.cc/)  - Microduino 和 mCookie 为各个年龄段的制造商、设计师、工程师、学生和好奇的修补匠带来了强大、小巧、可堆叠的电子硬件. 构建开源项目或创建创新的新项目.
@@ -40,7 +40,7 @@
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - **注意：Android Things 已贬值.** Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置并与彼此以及您的智能手机无缝协作. 
- - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，足够小以适应家庭路由器中有限的存储空间和内存.
+ - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，小到足以适应家庭路由器中有限的存储空间和内存.
  - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy)  - Snappy Ubuntu Core 是带有事务更新的 Ubuntu 新版本. 它提供了一个最小的服务器映像，其中包含与今天的 Ubuntu 相同的库，但应用程序是通过更简单的机制提供的.
  - [Mbed OS](https://os.mbed.com/)  - 物联网 (IoT) Cortex-M 板的开源操作系统：低功耗、受限和连接.  Mbed OS 为其运行的微控制器提供了一个抽象层，因此开发人员可以编写在任何支持 Mbed 的板上运行的 C/C++ 应用程序.
  - [NodeOS](http://node-os.com/) - NodeOS 是一个完全用 Javascript 编写的操作系统，由 npm 在 Linux 内核之上管理.
@@ -135,12 +135,13 @@
  - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - 开源制造应用平台（结合各种开源解决方案并将它们打包在 Helm 图表中，例如 nodered、VerneMQ 和 timescaleDB）
  - [QuestDB](https://github.com/questdb/questdb)  - 用于实时分析和高性能应用程序的开源时间序列数据库. 支持通过 InfluxDB 线路协议和 SQL 作为查询语言的高吞吐量摄取.
  - [Chaos Genius](https://github.com/chaos-genius/chaos_genius)  - 用于异常值/异常检测和根本原因分析的开源 ML 分析引擎. 连接传感器数据，监控异常行为并收到警报.  
+ - [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - 在 kandi 上发现并查找热门和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表.
 
 
 #### Miscellaneous
 
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button 是一款连接 Wi-Fi 的设备，只需按一下按钮即可重新订购您喜爱的商品.
- - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建者.
+ - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建器.
  - [Nebula](http://nebula.readthedocs.io) - 一个用于管理物联网设备的 docker 编排器.
  - [Gladys](https://gladysassistant.com) - Gladys 是一个在树莓派上运行并集成到整个家庭网络系统中的开源程序.
  - [authBroker](https://github.com/authbroker/authbroker) - Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter，如 Aedes.
@@ -164,7 +165,7 @@
 
 低功耗蓝牙（Bluetooth LE，BLE，作为蓝牙智能销售）是由蓝牙特别兴趣小组设计和销售的一种无线个人区域网络技术，旨在针对医疗保健、健身、信标、安全和家庭娱乐行业的新应用.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
 
- &gt; 与经典蓝牙相比，智能蓝牙旨在显着降低功耗和成本，同时保持相似的通信范围. 蓝牙 SIG 预测，到 2018 年，超过 90% 的蓝牙智能手机将支持蓝牙智能.
+ &gt; 与经典蓝牙相比，智能蓝牙旨在提供显着降低的功耗和成本，同时保持相似的通信范围. 蓝牙 SIG 预测，到 2018 年，超过 90% 的蓝牙智能手机将支持蓝牙智能.
 
 #### [EC-GSM-IoT](http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/) (EC-GSM-IoT Group)
 

@@ -84,8 +84,7 @@
 * [Monban](https://github.com/halogenandtoast/monban) - 一个非常简单且可扩展的 Rails 用户身份验证库.
 * [OmniAuth](https://github.com/omniauth/omniauth) - 一个使用 Rack 中间件标准化多提供商身份验证的库.
 * [Rodauth](https://github.com/jeremyevans/rodauth) - Rack 应用程序的身份验证和帐户管理框架.
-* [Shield](https://github.com/cyx/shield) - 用于您的路由和模型上下文的身份验证协议.
-* [Sorcery](https://github.com/Sorcery/sorcery) - Rails 4 和 Rails 5 的神奇身份验证.
+* [Sorcery](https://github.com/Sorcery/sorcery) - 用于 Rails 的精简、简单的身份验证库.
 * [warden](https://github.com/hassox/warden) - 通用机架身份验证框架.
 * OAuth：
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - Rails 的 OAuth2 提供程序.
@@ -196,7 +195,7 @@
 
 ## Code Analysis and Metrics
 
-* [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
+* [Brakeman](https://github.com/presidentbeef/brakeman) - Ruby on Rails 应用程序的静态分析安全漏洞扫描程序.
 * [Coverband](https://github.com/danmayer/coverband) - 机架中间件，以帮助测量生产代码覆盖率.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个受 fast-ruby 和 Sferik 在 Baruco Conf 上的演讲高度启发的命令行工具，让您的 Ruby 运行得更快.
 * [Flay](https://github.com/seattlerb/flay)  - Flay 分析代码的结构相似性. 文字值、变量、类、方法名称、空格、编程风格、大括号与 do/end 等方面的差异都将被忽略. 使这完全是辐射.
@@ -326,7 +325,7 @@
 
 * [Chartkick](http://chartkick.com/) - 用一行 Ruby 创建漂亮的 Javascript 图表.
 * [GeoPattern](https://github.com/jasonlong/geo_pattern) - 从字符串创建漂亮的生成几何背景图像.
-* [LazyHighCharts](https://github.com/michelson/lazy_high_charts)  - 一种从 ruby​​ 代码中使用 HighCharts 的简单且极其灵活的方式. 在 Ruby on Rails、Sinatra 和 Nanoc 上进行了测试，但它也应该可以与其他人一起使用.
+* [LazyHighCharts](https://github.com/michelson/lazy_high_charts)  - 一种从 ruby​​ 代码中使用 HighCharts 的简单且极其灵活的方法. 在 Ruby on Rails、Sinatra 和 Nanoc 上进行了测试，但它也应该可以与其他人一起使用.
 * [ApexCharts.rb](https://github.com/styd/apexcharts.rb)  - 您的 ruby​​ 应用程序的精彩图表. 适用于任何 ruby​​ 应用程序，包括 Rails 应用程序. 它甚至适用于纯 HTML+ERB 文件.
 * [RailRoady](https://github.com/preston/railroady) - Ruby on Rails 3/4 模型和控制器 UML 类图生成器.
 * [Rails Erd](https://github.com/voormedia/rails-erd) - 为 Rails 应用程序生成实体关系图.
@@ -627,7 +626,7 @@
 * [HappyMapper](https://github.com/dam5s/happymapper) - 对象到 XML 映射库，使用 Nokogiri.
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) - HTML 处理过滤器和实用程序.
 * [Nokogiri](https://nokogiri.org) - 具有 XPath 和 CSS 选择器支持的 HTML、XML、SAX 和 Reader 解析器.
-* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，在各种平台上安装更容易、更快捷.
+* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，使得在各种平台上安装更容易、更快捷.
 * [Ox](https://github.com/ohler55/ox) - 一个快速的 XML 解析器和对象编组器.
 * [ROXML](https://github.com/Empact/roxml) - 通过 Nokogiri 或 LibXML，使用注释样式的类方法在 Ruby 和 XML 之间进行自定义映射和双向编组.
 
@@ -635,13 +634,13 @@
 
 * [Accept Language](https://github.com/cyril/accept_language.rb) - 一个用于从浏览器解析“Accept-Language”标头的小型库（定义见 [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 * [excon](https://github.com/excon/excon)  - 可用、快速、简单的 Ruby HTTP 1.1. 它作为通用 HTTP(s) 客户端工作得很好，特别适合在 API 客户端中使用.
-* [Faraday](https://github.com/lostisland/faraday) - 一个 HTTP 客户端库，它为许多适配器（例如 Net::HTTP）提供一个通用接口，并在处理请求/响应周期时包含 Rack 中间件的概念.
+* [Faraday](https://github.com/lostisland/faraday) - 一个 HTTP 客户端库，它在许多适配器（例如 Net::HTTP）上提供一个通用接口，并在处理请求/响应周期时包含 Rack 中间件的概念.
 * [Device Detector](https://github.com/podigee/device_detector) - 精确快速的用户代理解析器和设备检测器，由最大和最新的用户代理数据库提供支持.
 * [Http Client](https://github.com/nahi/httpclient) - 在 Ruby 中提供类似于 libwww-perl (LWP) 的功能.
 * [HTTP](https://github.com/httprb/http) - HTTP Gem：用于发出 HTTP 请求的简单 Ruby DSL.
 * [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - 纯 ruby​​ HTTP 客户端，支持 HTTP/2 和 HTTP/1、并发请求、扩展功能的插件系统（cookie、重试、跟随重定向、代理、流式传输......）.
 * [httparty](https://github.com/jnunemaker/httparty) - 让 http 再次变得有趣！
-* [Http-2](https://github.com/igrigorik/http-2) - HTTP/2 协议的纯 Ruby 实现
+* [Http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 * [Patron](https://github.com/toland/patron) - Patron 是一个基于 libcurl 的 Ruby HTTP 客户端库.
 * [RESTClient](https://github.com/rest-client/rest-client) - 用于 Ruby 的简单 HTTP 和 REST 客户端，受用于指定操作的微框架语法的启发.
 * [Savon](https://github.com/savonrb/savon) - Savon 是 Ruby 编程语言的 SOAP 客户端.
@@ -789,7 +788,7 @@
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - 用于 Ruby 的 RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) - Redis 的对象哈希映射库.
 * [Redis-Objects](https://github.com/nateware/redis-objects) - Redis Objects 通过 redis gem 上的薄层将 Redis 数据类型映射到 Ruby 对象，为 Redis 提供 Rubyish 接口.
-* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，其目标是在不限制数据存储的全部功能的情况下提供强大的对象映射功能.
+* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，旨在提供强大的对象映射功能，而不会限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel 是一个简单、灵活、强大的 Ruby 的 SQL 数据库访问工具包.
 
 ## ORM/ODM Extensions
@@ -925,7 +924,7 @@
 * [Backburner](https://github.com/nesquena/backburner) - Backburner 是一个由 beanstalkd 驱动的作业队列，可以处理大量作业.
 * [Bunny](https://github.com/ruby-amqp/bunny) - Bunny 是一个流行的、易于使用的、维护良好的 Ruby 客户端，适用于 RabbitMQ (3.3+).
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - 数据库支持的异步优先级队列.
-* [GoodJob](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+* [GoodJob](https://github.com/bensheldon/good_job) - GoodJob 是一个多线程、基于 Postgres 的 ActiveJob 后端，用于 Ruby on Rails.
 * [Gush](https://github.com/chaps-io/gush) - 仅使用 Redis 和 Sidekiq 的复杂工作流程的并行运行器.
 * [Karafka](https://github.com/karafka/karafka) - 用于简化基于 Apache Kafka（分布式流平台）的 Ruby 应用程序开发的框架.
 * [March Hare](https://github.com/ruby-amqp/march_hare) - 用于 RabbitMQ 的惯用、快速且维护良好的 JRuby 客户端.
@@ -999,7 +998,7 @@
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.
 * 具体
   * [BioRuby](https://github.com/bioruby/bioruby) - 用于开发生物信息学软件的库.
-  * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
+  * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - Ruby 中的 BloomFilter(s)：本机计数过滤器 + Redis 计数/非计数过滤器.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个 ruby​​ 库，它实现了用于决策树学习的 ID3（信息增益）算法.
 * 实用程序
   * [algorithms](https://github.com/kanwei/algorithms) - 包含有关何时使用特定结构/算法的文档的库.
@@ -1256,7 +1255,7 @@
 * [Rack](http://rack.github.io)  - 一个通用的 Ruby Web 服务器界面. 它本身只是一个规范和实用程序库，但所有 Ruby Web 服务器都实现了这个接口.
 * [Thin](https://github.com/macournoyer/thin) - 小巧、快速且有趣的 HTTP 服务器.
 * [TorqueBox](https://github.com/torquebox/torquebox) - 基于 JBoss AS7 和 JRuby 构建的 Ruby 应用服务器.
-* [Unicorn](http://unicorn.bogomips.org) - 用于快速客户端和 Unix 的机架式 HTTP 服务器.
+* [Unicorn](http://unicorn.bogomips.org) - Rack HTTP server for fast clients and Unix.
 
 ## WebSocket
 

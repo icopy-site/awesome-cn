@@ -51,7 +51,6 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [.NET Boxed Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core 扩展和 Helper NuGet 包
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - 具有最佳实践和最流行工具的新现代 ASP.NET MVC Web 应用程序的起点.
 * [ABP](https://github.com/abpframework/abp) - 下一代 ASP.NET Boilerplate Web 应用程序框架.
-* [Butterfly Server .NET](https://butterflyserver.io)  - 允许定义 Web API 和订阅 API，在连接的客户端之间自动同步数据集. 允许以最小的努力构建实时 Web 应用程序和本机应用程序.
 * [Orleans](https://github.com/dotnet/orleans) - Orleans 是一个框架，它提供了一种构建分布式大规模计算应用程序的直接方法，无需学习和应用复杂的并发或其他扩展模式
 * [Newbe.Claptrap](https://github.com/newbe36524/Newbe.Claptrap)  - 这是一套以响应式、事件溯源和Actor模式为基本理论的服务器端开发框架. 在此基础上，开发人员可以更简单地开发“分布式”、“横向扩展”和“易于测试”的应用程序.
 * [CoreFX](https://github.com/dotnet/corefx)  - corefx 存储库包含 .NET Core 的库实现（称为“CoreFX”）. 它包括 System.Collections、System.IO、System.Xml 和许多其他组件.
@@ -105,7 +104,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - 自动对焦# [Hawk](https://github.com/outmoded/hawk) 认证库
 * [IdentityModel](https://github.com/IdentityModel) - .NET 4.5 和 MVC4/Web API 中用于身份和访问控制的帮助程序库.
 * [IdentityServer](https://github.com/IdentityServer) - 可扩展的 OAuth2 和 OpenID Connect 提供程序框架.
-* [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - 一个非常轻量级的库，用于生成用 C 编写的 OAuth 1.0a 签名#
+* [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman 是一个在开发过程中利用 .NET Claims Identity 模拟用户的库.
 
 ## Blazor
@@ -211,9 +210,9 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 * [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - 专注于用户体验和适应性的网络 CMS
 * [N2CMS](https://github.com/n2cms/n2cms) - 开源、轻量级、代码优先的 CMS，能够无缝集成到任何 MVC 项目中.
-* [Orchard ](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
+* [Orchard ](https://github.com/OrchardCMS/Orchard) - 免费、开源、以社区为中心的项目，旨在在 ASP.NET 平台上交付应用程序和可重用组件
 * [Piranha CMS](https://github.com/PiranhaCMS/Piranha)  - Piranha 是一个有趣、快速和轻量级的 .NET 框架，用于开发基于 cms 的 Web 应用程序，并且具有额外的优势. 它建立在 ASP.NET MVC 和网页之上，并且与 Visual Studio 和 WebMatrix 完全兼容.  https://piranhacms.org
-* [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
+* [DotNetNuke](https://www.dnnsoftware.com/community/download)  - DNN 平台是我们免费的开源网络 CMS，是每个专业 DNN 解决方案的基础. 全球有超过 750,000 个组织建立了由 DNN 平台提供支持的网站.
 * [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - 简单但功能齐全的 ASP.NET 博客
 
 ## Code Analysis and Metrics
@@ -485,7 +484,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建 Material Design 风格的 WPF 应用程序的工具包
 * [Eto.Forms](https://github.com/picoe/Eto) - .NET 和 Mono 中的桌面和移动应用程序的跨平台 GUI 框架
-* [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕裂的 WPF 选项卡控件（类似于 Chrome），支持布局并且完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
+* [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动、可撕裂的 WPF 选项卡控件（类似于 Chrome），支持布局并完全可主题化，包括与 MahApps 和 Material Design 兼容的主题.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - Fluent Ribbon Control Suite 是一个为 WPF 实现类似 Office 和 Windows 8 的功能区的库.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) - 为 WinForms 实现 MS Office 功能区的库.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
@@ -604,7 +603,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Scrutor](https://github.com/khellang/Scrutor) - Microsoft.Extensions.DependencyInjection 的程序集扫描扩展.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Visual Studio 使用的托管可扩展性框架 (MEF) 实现.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - 一个易于使用、无忧无虑的控制反转容器，适用于小型项目、库和初学者等.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) - 用于基于 .NET 的解决方案的轻量级、可移植的依赖注入框架.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
 
 ## JavaScript Engines
 
@@ -628,7 +627,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK 用于 [Sentry](https://sentry.io/welcome/) 开源错误跟踪，可帮助开发人员实时监控和修复崩溃.
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的严肃日志库. 将最好的传统和结构化诊断日志记录在一个易于使用的包中.
 * [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional) - 用于 Stack Exchange 网络的错误处理程序
-* [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging)  - 扩展 System.Diagnostics.Tracing 命名空间（EventSource 类）的内置功能以记录到多个接收器，包括 Azure 表、数据库、文件（JSON、XML、文本）. 支持通过 ETW 进行进程内和进程外日志记录，并支持 Rx 实时过滤/聚合事件.
+* [Semantic Logging Application Block (SLAB)](https://github.com/MicrosoftArchive/semantic-logging)  - 扩展 System.Diagnostics.Tracing 命名空间（EventSource 类）的内置功能，以记录到多个接收器，包括 Azure 表、数据库、文件（JSON、XML、文本）. 支持通过 ETW 进行进程内和进程外日志记录，并支持 Rx 实时过滤/聚合事件.
 * [ULogViewer](https://github.com/carina-studio/ULogViewer)  - 跨平台（Windows/macOS/Linux）通用日志查看器，支持读取和解析各种类型的日志. 您还可以定义自己的配置文件来解析和显示日志.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#logging) - 一个流畅的日志 API，可用于在整个应用程序中记录消息.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - 无异常的 .NET 客户端
@@ -839,7 +838,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 
 * [Cloudmersive PDF](https://cloudmersive.com/pdf-api)  - Cloudmersive PDF 是一个原生 .NET Framework 和 .NET Core NuGet 库和 API 服务，可以创建、修改、加密或转换高保真度的 PDF 文档； 并且可以免费使用，没有过期**[免费]**
 * [Docotic.Pdf](https://bitmiracle.com/pdf-library/)  - PDF 库，用于在 .NET 和 .NET Core 应用程序中创建、阅读、编辑、绘制和打印 PDF 文档.  100% 托管，没有不安全的块.  **[$]** **[[Free for OSS](https://bitmiracle.com/pdf-library/free-pdf-library.aspx)]**
-* [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，可让您以可移植文档格式 (PDF) 创建、调整、检查和维护文档**[$]** **[OSS 免费]**
+* [ITextSharp](https://github.com/itext/itextsharp) - iText 是一个 PDF 库，允许您以可移植文档格式 (PDF) 创建、调整、检查和维护文档**[$]** **[OSS 免费]**
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer 是基于 PDFium 项目的 PDF 查看器.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
 * [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) . 一个 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可以轻松包含在您的项目中.**[$]**

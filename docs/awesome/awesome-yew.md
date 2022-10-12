@@ -49,14 +49,14 @@
 - [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) - 这是一个 Rust / Wasm 客户端 Web 应用程序，它是一个任务控制中心.
-- [note-to-yew](https://github.com/GalAster/note-to-yew) - 在线将您的标记转换为 Yew 宏，该宏也是由 Yew 制作的.
+- [note-to-yew](https://github.com/oovm/note-to-yew) - 在线将您的标记转换为 Yew 宏，该宏也是由 Yew 制作的.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 具有 ASCII 艺术奖励的儿童可配置刽子手游戏.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用 Yew，Rust 为后端 API 提供支持.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我通过 Yew/Wasm 用 Rust 编写的个人网站.
 - [KeyPress](https://github.com/rayylee/keypress) - 一个 Rust WebAssembly 网站示例，用于为中文练习英语.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的示例，代码风格非常像 React 函数组件.
-- [yew-d3-example](https://github.com/i-schuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
+- [yew-d3-example](https://github.com/ivanschuetz/yew-d3-example) - 用 Yew 显示 d3 图表.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 一个用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
 - [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) - 带有 Actix-web、Yew、Bulma CSS 和 Diesel 的全栈 Rust 应用程序（Connect5 游戏）.
@@ -67,7 +67,7 @@
 - [Paudle](https://github.com/pmsanford/paudle) - Josh Wardle 对优秀文字游戏 Wordle 的重新实现.
 - [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 具有各种算法的交互式实现的网站（目前仅排序算法）.
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - 软件开发人员组合， [Live Demo](https://maeurer.dev/).
-- [zzhack](https://github.com/youncccat/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/).
+- [zzhack](https://github.com/zzhack-stack/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/).
 - [Rquote](https://github.com/Altair-Bueno/rquote)  - Rquote 是一个使用 Rust 和 WebAssembly 构建的 Web 应用程序. 它从 Animechan API 获取动漫引语. [Live Demo](https://rquote.vercel.app/).
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 示例演示了Yew服务器端的潮汐和冲浪渲染，它需要Yew的**开发版本**.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示了使用 actix-web 和 reqwest 的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
