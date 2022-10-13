@@ -218,6 +218,7 @@
 - [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) - 将 Tailwind CSS 类转换为 CSS-in-JS 库的对象的 Babel 宏.
 - [twin.macro](https://github.com/ben-rogerson/twin.macro) - 在任何 CSS-in-JS 库中使用 Tailwind 类.
 - [tailwindcss-webpack-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - 开箱即用的 Tailwind CSS，支持“在 Devtools 中设计”模式并可视化 Tailwind CSS 配置.
+- [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Tailwind CSS 的 Vite 插件，支持“在 Devtools 中设计”模式并可视化 Tailwind CSS 配置.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - 用于可视化 Tailwind CSS 配置文件的本地 UI 工具.
 - [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的刀片表单组件.
 - [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.

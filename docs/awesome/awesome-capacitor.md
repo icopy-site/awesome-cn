@@ -68,6 +68,7 @@
 - [Date picker](https://github.com/capacitor-community/date-picker) - 用于电容器应用程序的本机日期时间选择器插件.
 - [Electron](https://github.com/capacitor-community/electron) - 支持电子平台.
 - [Facebook Login](https://github.com/capacitor-community/facebook-login) - Facebook 登录的原生插件.
+- [File opener](https://github.com/capacitor-community/file-opener) - 该插件能够打开给定 mimeType 和文件 uri 的文件.
 - 火力基地
     - [Analytics](https://github.com/capacitor-community/firebase-analytics) - Firebase 分析的本机插件.
     - [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
@@ -82,7 +83,7 @@
     - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - 应用中心 SDK.
     - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - 应用中心分析.
     - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter 崩溃.
-- [Native audio](https://github.com/capacitor-community/native-audio) - 原生音频引擎的原生插件.
+- [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - 用于链接到 google play 或应用商店的本地市场插件.
 - [Photoviewer](https://github.com/capacitor-community/photoviewer) - 具有全屏和共享功能的 PhotoViewer 表格图像.
 - [Privacy screen](https://github.com/capacitor-community/privacy-screen) - 保护您的应用不会在最近屏幕/应用切换器中显示屏幕截图.
@@ -125,7 +126,7 @@
 - [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - 电容插件，支持 Android 上的暗模式.
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
-- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 电容器插件，允许用户编辑照片.
 
 ## Other plugins
@@ -146,7 +147,7 @@
 - [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - 用于电容器的 Facebook 分析插件.
 
 - 火力基地
-    - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
+    - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - 允许使用本机 AppCheck 令牌.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase 动态链接.
     - [Push](https://github.com/EinfachHans/capacitor-firebase-push)  - 此插件用于 Firebase 推送消息. 它支持数据.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - 从 Android/iOS 设备和网络中选择文件.
@@ -155,7 +156,7 @@
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - 从 Google Fit 中检索数据.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - 识别一串文本的语言.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - 检测图像中的人脸，识别关键面部特征，并获取检测到的人脸轮廓.
-- [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - 从 HealthKit 中检索数据.
+- [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 - [Intent](https://github.com/IT-MikeS/capacitor-intents) - 支持多种广播接收intents，并在Android中发送BroadcastIntents.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - 通过免费、开源的 Jitsi 视频平台进行视频通话.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - 获取设备上的照度级别.

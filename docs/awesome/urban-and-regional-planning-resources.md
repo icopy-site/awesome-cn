@@ -37,7 +37,7 @@
 
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了包括大气、海洋、陆地和洪水数据在内的当前和历史数据，以及四次更新的全球模拟和同化办公室 (GMAO) 天气分析数据和预测日常的.
-- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含有关人身伤害和损失估计的统计数据.
+- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - United States storm data provided by the National Weather Service (NWS) and contain statistics on personal injuries and damage estimates.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google 地球）、CSV（逗号分隔）和 XML.
 - [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是气象数据的每小时和半小时值的连续完整集合，以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提取长期温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
@@ -186,6 +186,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Strava](https://developers.strava.com/)  - 适用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
 - [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
+- [Unacast](https://www.unacast.com/) - 提供与人们如何在 80 多个国家/地区移动相关的基于位置的分析，范围从人流量指标到交叉访问. 
 
 ## Planning Data Specifications
 城市规划相关数据规范和标准的集合，用作计划和项目的一部分.
@@ -378,7 +379,7 @@ R 包和相关资源.
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家公路合作研究计划是根据公路和运输部门的首席行政人员和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选出，并且每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
 - [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新的近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题并为决策者提供信息方面享有盛誉.
 - [TFResource](https://tfresource.org/) - A collection of best practices for travel demand forecasting and travel survey methods.
-- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），和 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes) (bimonthly). Current publications and archives of previous issues are available for free download for APA members.
+- [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - The Planning Advisory Service (PAS) is the American Planning Association's (APA) flagship research brand which is responsible for the following publications: [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），和 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 成员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表了 APA 在关键规划问题上的官方立场，并为规划者提供了倡导为所有人创造伟大社区的政策的工具.
 - [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome)  - 提供对来自国家交通图书馆的一系列全文当前和历史文件的访问. 可从所有交通方式以及气候变化研究等相关学科获得资源. 
 - [Automated Decision-Making and the Law Clearinghouse Project](https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/) - 因此，该票据交换所项目的目的是突出重点关注人工智能决策和法律问题的具有开创性和影响力的文章.

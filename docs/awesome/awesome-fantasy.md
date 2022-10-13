@@ -169,7 +169,7 @@ Books:
 
 会向任何幻想迷推荐整个系列和整个 Cosmere.  - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
-> The first three books are a trilogy to be read together.
+&gt; 前三本书是三部曲，可以一起阅读.
 >
  &gt; Mistborn 是一部史诗般的奇幻三部曲，是一部关于政治阴谋、惊喜和魔法武术动作的抢劫故事. 传奇敢于通过提出一个简单的问题来颠覆一种流派：如果预言中的英雄失败了怎么办？ 当黑魔王掌权时，会产生什么样的世界？
 >
@@ -275,7 +275,7 @@ Books:
 - [Royal Assassin](https://www.goodreads.com/book/show/68487.Royal_Assassin) [4.2]
 - [Assassin's Quest](https://www.goodreads.com/book/show/45112.Assassin_s_Quest) [4.2]
 
- &gt; 在遥远的土地上，王室成员以其所体现的美德而得名，一个小男孩将成为一个行走的谜. 骑士先知的儿子菲茨出生在床单的反面，是一个王室混蛋，被抛弃在这个世界上，没有朋友和孤独. 只有他与动物的神奇联系——被称为智慧的古老艺术——给了他安慰和陪伴. 但是，如果经常使用智慧，它是一种危险的魔法，并且被贵族所憎恶. 所以当菲茨最终被皇室收养时，他必须放弃旧有的生活方式，拥抱武器、文士、宫廷礼仪的新生活； 以及如何秘密杀死一个人，因为他训练成为一名皇家刺客.
+ &gt; 在遥远的土地上，王室成员以其所体现的美德而得名，一个小男孩将成为一个行走的谜. 骑士先知的儿子菲茨出生在床单的反面，是一个王室混蛋，被抛弃在这个世界上，没有朋友和孤独. 只有他与动物的神奇联系——被称为智慧的古老艺术——给了他安慰和陪伴. 但是，如果经常使用智慧，它是一种危险的魔法，并且被贵族所憎恶. 所以当菲茨最终被王室收养时，他必须放弃旧有的生活方式，拥抱武器、文士、宫廷风度的新生活； 以及如何秘密杀死一个人，因为他训练成为一名皇家刺客.
 
 #### [The First Law Trilogy](https://en.wikipedia.org/wiki/The_First_Law) (2006) _by [Joe Abercrombie](https://en.wikipedia.org/wiki/Joe_Abercrombie)_ [4.2] :fire:
 
@@ -387,7 +387,7 @@ Books:
 
 #### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) _by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)_ [3.8]
 
-将格伦·库克 (Glen Cook) 书籍的坚韧与现代奇幻元素混合在一起，这个系列比之前的任何系列都更加残酷. 许多哲学问题源于阅读即使是不太重要的章节，大量的人物使它需要很长很深的阅读. 正如埃里克森自己指出的那样，人们要么“爱它，要么恨它”. 作者现在正在写一个前传系列，之后会增加一个续集三部曲，总共16本书.  - [@Donearm](https://github.com/Donearm)
+将格伦·库克 (Glen Cook) 书籍的坚韧与现代奇幻元素混合在一起，这个系列比之前的任何系列都更加残酷. 许多哲学问题源于阅读不那么重要的章节，大量的人物使它需要很长很深的阅读. 正如埃里克森自己指出的那样，人们要么“爱它，要么恨它”. 作者现在正在写一个前传系列，之后会增加一个续集三部曲，总共16本书.  - [@Donearm](https://github.com/Donearm)
 
 Books:
 
@@ -423,7 +423,7 @@ Books:
 
 这是有史以来最荒谬的世界建设尝试之一. 有时，它读起来就像一本教科书，但有些部分非常强大，角色也很扣人心弦.  《精灵宝钻》比《指环王》需要更多的想象力和毅力，但值得付出努力，特别是如果你已经读过他的其他书几次并想要更多.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; 《精灵宝钻》旨在让《霍比特人》和《指环王》的粉丝更深入地了解中土世界的神话和传说，它是对托尔金世界第一纪元的远古时代的记述. 这是《指环王》中的人物回顾的古老戏剧，其中一些人，如埃尔隆德和加拉德瑞尔，都参与了其中.  《精灵宝钻》的故事发生在第一个黑魔王魔苟斯居住在中洲的时代，高等精灵为了夺回精灵宝钻而与他开战，这些宝石含有维林诺的纯净之光. 书中包含几部较短的作品.  Ainulindale 是创造的神话，在 Valaquenta 中描述了每个神的性质和力量.  Akallabeth 讲述了第二纪元末大岛王国努曼诺尔的垮台，而《权力的指环》则讲述了第三纪元末的重大事件，如指环王中所述. 这部关键著作以经过修订和更正的文本为特色，并在引言中包括托尔金在 1951 年写的一封引人入胜的信，他在信中全面解释了他如何构想中土早期时代.
+ &gt; 《精灵宝钻》旨在让《霍比特人》和《指环王》的粉丝更深入地了解中土世界的神话和传说，它是对托尔金世界第一纪元的远古时代的记述. 这是《指环王》中的人物回顾的古老戏剧，其中一些人，如埃尔隆德和加拉德瑞尔，都参与了其中.  《精灵宝钻》的故事发生在第一个黑魔王魔苟斯居住在中洲的时代，高等精灵为了夺回精灵宝钻而与他开战，这些宝石含有维林诺的纯净之光. 书中包含几部较短的作品.  Ainulindale 是创造的神话，在 Valaquenta 中描述了每个神的性质和力量.  Akallabeth 讲述了第二纪元末大岛王国努曼诺尔的垮台，而《权力的指环》则讲述了第三纪元末的重大事件，如指环王中所述. 这部关键著作以经过修订和更正的文本为特色，并在引言中包括托尔金在 1951 年写的一封引人入胜的信，他在信中全面解释了他如何构想早期的中土世界.
 
 #### [The Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.6]
 
@@ -431,7 +431,7 @@ Books:
 
 我完全同意，不管这些书有多长，这并不重要. 他们太棒了. 魔法系统很复杂，布兰登关注的角色都有自己的小弱点和令人敬畏的地方. 这是经典的 90 年代幻想，但仍然令人难以置信的好. 对于奇幻世界来说，这个世界也非常新颖——不再是类似英格兰的环境，而是一种不同的风景.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Brandon Sanderson 史诗般的奇幻循环讲述了 Roshar 的故事，一个充满石头和风暴的世界. 令人难以置信的力量的不可思议的暴风雨席卷了岩石地形. 十个被称为光辉骑士团的神圣骑士团倒台已经有几个世纪了，但他们的碎片之刃和碎片板甲仍然存在：神秘的剑和盔甲，可以将普通人变成近乎无敌的战士. 当残酷的战争肆虐这些魔法武器的控制权时，一部名为《王者之路》的古代文字讲述了远古时代，光辉骑士团，也许是战争的真正起因. 光辉骑士团必须重新站起来.
+ &gt; Brandon Sanderson 史诗般的奇幻循环讲述了 Roshar 的故事，一个充满石头和风暴的世界. 令人难以置信的力量的不可思议的暴风雨席卷了岩石地形. 十个被称为光辉骑士团的神圣骑士团倒台已经有几个世纪了，但他们的碎片之刃和碎片板甲仍然存在：神秘的剑和盔甲，可以将普通人变成近乎无敌的战士. 当残酷的战争肆虐这些魔法武器的控制权时，一部名为《王者之路》的古代文字讲述了远古时代，光辉骑士团，也许是战争的真正原因. 光辉骑士团必须重新站起来.
 
 Books:
 
@@ -503,7 +503,7 @@ Books:
 
 我读过的一些最好的短篇小说； 图书馆是我一直以来最喜欢的，以至于我都在争论要不要从那里纹身.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Ficciones 中的 17 首作品展示了博尔赫斯天才的旋风，并反映了他的智慧和创造力的精确性和力量、他尖锐的讽刺、他的怀疑态度以及他对幻想的痴迷. 博尔赫斯将我们带入了一个引人入胜、奇异而深刻共鸣的领域； 我们进入了帕斯卡深渊的可怕领域，书籍的超现实和文字迷宫，以及永恒回归的图像. 进入 Ficciones 中的世界就是进入 Jorge Luis Borges 的思想，天堂、地狱以及介于两者之间的一切都在其中.
+ &gt; Ficciones 中的 17 首作品展示了博尔赫斯天才的旋风，反映了他的智慧和创造力的精确性和力量、他的讽刺、他的怀疑和他对幻想的痴迷. 博尔赫斯将我们带入了一个引人入胜、奇异而深刻共鸣的领域； 我们进入了帕斯卡深渊的可怕领域，书籍的超现实和文字迷宫，以及永恒回归的图像. 进入 Ficciones 中的世界就是进入 Jorge Luis Borges 的思想，天堂、地狱以及介于两者之间的一切都在其中.
 
 #### [Grandma's Bag Of Stories](https://www.goodreads.com/book/show/13510813-grandma-s-bag-of-stories) (2012) _by [Sudha Murthy](https://en.wikipedia.org/wiki/Sudha_Murty)_ [4.21]
 
@@ -537,7 +537,7 @@ Books:
 
 这些都是美丽的，精心制作的短篇小说. 对我来说很少，我在完成后立即阅读了其中的一些，以确保我得到了更微妙的细节. 文笔绝对精彩.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Orsinia ... 一片拥有中世纪森林、石墙城市和延伸至古代众神居住的山区的铁路的土地. 一个生活艰辛，梦想温柔，人们感到被强大力量撕裂并为保持完整而奋斗的国家. 在这本迷人的系列中，乌苏拉·K·勒古恩为主流小说带来了同样令人信服的对言行、故事和人物、暴力和爱情的掌握，这使她获得了手推车奖、卡夫卡奖和国家图书奖.
+ &gt; Orsinia ... 一片拥有中世纪森林、石墙城市和延伸至古代众神居住的山区的铁路的土地. 一个生活艰辛，梦想温柔，人们感到被强大力量撕裂并为保持完整而奋斗的国家. 在这本迷人的合集中，乌苏拉·K·勒古恩 (Ursula K. Le Guin) 为主流小说带来了对言行、故事和人物、暴力和爱情的同样引人入胜的掌握，这使她获得了手推车奖、卡夫卡奖和国家图书奖.
 
 #### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) _by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)_ [4.14]
 
@@ -545,7 +545,7 @@ Books:
 
 &gt; 选择：快速死亡……或缓慢中毒……
 
-> About to be executed for murder, Yelena is offered an extraordinary reprieve. She'll eat the best meals, have rooms in the palace—and risk assassination by anyone trying to kill the Commander of Ixia.
+ &gt; 即将因谋杀罪被处决的叶莲娜获得了非凡的缓刑. 她会吃上最好的饭菜，在宫殿里有房间——并冒着被任何试图杀死伊克西亚指挥官的人暗杀的风险.
 
  &gt; 所以叶莲娜选择成为一名美食品尝师. 但是安全主管，没有任何机会，故意给她的蝴蝶之尘喂食——只有出现在她的日常解毒剂中，她才能推迟因毒药而痛苦的死亡.
 
@@ -578,7 +578,7 @@ Books:
 - [The Mage and the Master Spy](https://www.goodreads.com/book/show/15998999-the-mage-and-the-master-spy) _即将_
 - [Inherit the Night](https://www.goodreads.com/book/show/15999003-inherit-the-night) _即将_
 
- &gt; 在神秘的海岛城市卡莫尔，一个孤儿的生活很艰难，而且往往很短暂. 但年轻的洛克·拉莫拉（Locke Lamora）躲过了死亡和奴役，在一位天才骗子的指导下成为了一名小偷. 作为被称为绅士混蛋的轻巧兄弟乐队的领袖，洛克很快就臭名昭著，甚至愚弄了黑社会最可怕的统治者. 但在阴影中潜伏着一个更加雄心勃勃和致命的人. 面对一场血腥的政变，威胁要摧毁每个人和一切对他的雇佣兵生活有意义的事情，洛克发誓要在他自己的残酷游戏中击败敌人......或者死去.
+> An orphan’s life is harsh—and often short—in the mysterious island city of Camorr. But young Locke Lamora dodges death and slavery, becoming a thief under the tutelage of a gifted con artist. As leader of the band of light-fingered brothers known as the Gentleman Bastards, Locke is soon infamous, fooling even the underworld’s most feared ruler. But in the shadows lurks someone still more ambitious and deadly. Faced with a bloody coup that threatens to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the enemy at his own brutal game... or die trying.
 
 #### [The Hobbit](http://www.goodreads.com/book/show/5907.The_Hobbit) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.2] :star2: :fire:
 
@@ -701,7 +701,7 @@ Books:
 Books:
 
 - [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
-  这是 Discworld 系列的第一本书. 这些书可以按顺序阅读，也可以单独阅读. 有几个叙事线索经常交叉，创造有趣和愉快的阅读体验.
+  This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
 
   我喜欢这本书. 风格独具一格，幽默风趣，人物个性得到深入发展. 孤独的死亡是阅读这本书的一个很好的理由.  - [@fourlastor](https://github.com/fourlastor)
 
@@ -736,7 +736,7 @@ Books:
 
 A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf. - [@umadhatri](https://github.com/umadhatri)
 
- &gt; 这些书是我的童年. 我喜欢枯燥而讽刺的幽默，因为作者让这些孩子经历了难以置信的坎坷，他们找到了越来越聪明的方法来逃避邪恶的伯爵. 孩子们只是最可爱的角色，小时候我很喜欢他们在每本书中进行的冒险. 叙述者 Lemony Snicket 几乎喜欢以一种邪恶的方式重温孩子们的冒险故事.  Netflix 改编版和原著一样精彩. 人们可能不同意我的观点，但是，每个人都有自己的观点.
+ &gt; 这些书是我的童年. 我喜欢枯燥而讽刺的幽默，因为作者让这些孩子经历了难以置信的坎坷，他们找到了越来越聪明的方法来逃避邪恶的伯爵. 孩子们只是最可爱的角色，小时候我很喜欢他们在每本书中进行的冒险. 叙述者 Lemony Snicket 几乎喜欢以一种邪恶的方式重温孩子们的冒险故事.  Netflix 改编版和原著一样美味. 人们可能不同意我的观点，但是，每个人都有自己的观点.
 
 Books:
 - [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
@@ -822,6 +822,16 @@ Books:
 
  &gt; Sibylla 一直想要冒险，但她不知道它会以一头巨大的魔法公牛的形式出现. 他是人还是怪物？ 谁知道预言会如此真实？
 
+#### [The Miraculous Journey of Edward Tulane](https://www.goodreads.com/book/show/37186.The_Miraculous_Journey_of_Edward_Tulane) _by [Kate diCamillo](https://www.goodreads.com/author/show/13663.Kate_DiCamillo), [Bagram Ibatoulline](https://www.goodreads.com/author/show/1354902.Bagram_Ibatoulline)_ [4.36]
+
+一本温暖人心的书，它将教会成人和儿童去爱并让自己被爱. 
+
+凯特·迪卡米洛带我们踏上了一段非凡的旅程，从海洋深处到渔夫的网，从垃圾堆的顶部到流浪汉营地的炉边，从生病的孩子的床边到熙熙攘攘的街道.孟菲斯. 一路上，我们看到了一个真正的奇迹——即使是最易碎的心也能学会爱、失去和再次爱.  - [@e-costalmeida](https://github.com/e-costalmeida)
+
+ &gt; 曾经，在埃及街的一所房子里，住着一只名叫爱德华·杜兰的瓷兔. 兔子对自己非常满意，这是有充分理由的：他是一个名叫阿比林的女孩的主人，她对他非常照顾，完全崇拜他.
+>
+&gt; 然后，有一天，他迷路了.
+
 ## Movies
 
 #### [Interstellar](https://www.imdb.com/title/tt0816692/) [8.6]
@@ -900,7 +910,7 @@ Books:
 
 精美的绘画和美妙的艺术作品 - 真的，没有其他描述可以做到. 不要让动画的事实吓到你. 看看吧！  - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
 
-&gt; 举家搬到郊区，闷闷不乐的 10 岁女孩游荡到一个由神、女巫和神灵统治的世界，人类变成了野兽.
+&gt; 举家搬到郊区，闷闷不乐的 10 岁女孩游荡在一个由神、女巫和灵魂统治的世界，人类变成了野兽.
 
 #### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
 
