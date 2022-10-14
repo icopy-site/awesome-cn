@@ -12,7 +12,7 @@
 
 在以下位置搜索列表 [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/).
 
-此页面可作为易于阅读的网站使用. 通过点击访问它 [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
+此页面作为易于阅读的网站提供. 通过点击访问它 [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
 
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
@@ -157,6 +157,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Sinhala / සිංහල](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-si.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-es.md)
 + [Swedish / svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-sv.md)
++ [Telugu / తెలుగు](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-te.md)
 + [Tamil / தமிழ்](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ta.md)
 + [Thai / ภาษาไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-tr.md)
@@ -200,6 +201,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-tr.md)
++ [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-uk.md)
 
 
 ### Programming Playgrounds

@@ -96,7 +96,7 @@ Practical Go Lessons 有 41 章和 700 多页的插图.
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
- 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，呼吁特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+ 用 Go 编程汇集了评估 Go、用 Go 思考和用 Go 编写高性能软件所需的所有知识.  Summerfield 提供了多个成语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 在此过程中，他解释了从绝对基础到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -122,7 +122,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <a href="https://www.oreilly.com/library/view/introducing-go/9781491941997/"><img src="https://learning.oreilly.com/library/cover/9781491941997/250w/" width="120px"/></a>
 
-Perfect for beginners familiar with programming basics, this hands-on guide provides an easy introduction to Go, the general-purpose programming language from Google. Author Caleb Doxsey covers the language's core features with step-by-step instructions and exercises in each chapter to help you practice what you learn.
+这本动手指南非常适合熟悉编程基础的初学者，简单介绍了 Google 的通用编程语言 Go. 作者 Caleb Doxsey 介绍了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学内容.
 
 ### [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -243,7 +243,7 @@ Perfect for beginners familiar with programming basics, this hands-on guide prov
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
 这本书是基于一个 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
-Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
+章节通过项目的重构来展示常见的反模式以及如何避免它们.
 
 ### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
 
@@ -287,7 +287,7 @@ Chapters go through refactoring of the project to show common anti-patterns and 
  
 <img src="https://static.packt-cdn.com/products/9781786466204/cover/smaller" width="120px"/>
 
-使用 TDD 学习惯用、高效、干净和可扩展的 Go 设计和并发模式.
+Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
@@ -324,7 +324,7 @@ Go 中的手动依赖注入采用务实的方法，重点关注代码、用户�
 <img src="https://raw.githubusercontent.com/blasrodri/spaceship-go/master/src/img/cover.svg" width="120px"/>
 
  Spaceship Go 是通往 Go 标准库的旅程. 探索了几个关键包以便理解
-why they are useful, and also how they are implemented under the hood. It serves as a reference of some key
+为什么它们有用，以及它们是如何在幕后实现的. 它作为一些关键的参考
 该语言提供的可用工具和原语，这对于编写高性能和惯用语非常有帮助
 code.
 
@@ -469,6 +469,23 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
  Go 对测试的内置支持将测试置于任何软件项目的前沿和中心，从命令行工具到复杂的后端服务器和 API. 本书将向您介绍 Go 的所有测试工具，向您展示如何使用它们为最棘手的事情编写测试，并提炼 Go 社区关于测试 Go 程序的最佳实践的智慧. 这本书塞满了数百个代码示例，使用真实的测试和真实的问题，一步一步地向您展示究竟该做什么.
 
+### [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
+
+<a href="https://coreyscott.dev/book/"><img src="https://m.media-amazon.com/images/P/B0BCKBP3C5.01._SCLZZZZZZZ_SX500_.jpg" width="120px"/></a>
+
+您是一位经验丰富的 Go 开发人员，想要提高工作效率吗？ 您想编写更简洁、更快、更易于维护的代码吗？
+那么 Beyond Effective Go 系列丛书就是为您准备的. 本系列针对有能力的 Gophers. 它不会混淆基础知识，而是深入研究专业程序员面临的日常问题. 主要是如何编写快速、健壮的应用程序和服务，这些应用程序和服务可以随着需求的变化而维护和扩展.
+
+本书是该系列的第 1 部分，重点介绍实现高性能代码. 您将了解应用程序或代码的哪些方面需要关注以及何时关注. 您将拥有一套工具、软件模式和食谱，让您的生活更轻松. 阅读后，您将：
+
+- 了解并发和并行之间的区别.
+- 识别并避免并发问题，如死锁、饥饿、活锁和数据竞争.
+- 了解各种并发交互模式，并能够应用最适合手头问题的模式.
+- 深入研究 Go 的并发原语，能够熟练地应用它们，同时避免许多问题.
+- 能够使用 Go 的分析器、执行跟踪和基准测试工具诊断并发和性能问题.
+- 能够确定代码何时需要优化、什么需要优化以及如何优化.
+- 拥有可以快速应用于项目的并发和性能模式目录.
+
 **Web开发**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
@@ -579,7 +596,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
- Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算跳入这个迷人的世界，你必须知道 Go 如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序等等一些.  *用 GO 构建系统：Gopher 必须知道的一切*分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供示例和解释，说明可在任何 Go 中使用的最强大的库发展. 包含 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo)，这本书帮助早期采用者和经验丰富的开发人员对使用 Go 构建的系统有一个真实的了解.
+ Go 生态系统正在帮助开发人员有效地构建分布式和可扩展的系统. 如果你打算跳入这个迷人的世界，你必须知道 Go 如何帮助你构建 REST API、使用 SQL/NoSQL 数据库、数据流平台、gRPC、设计你自己的 CLI，或者如何有效地记录你的程序等等一些.  *用 GO 构建系统：Gopher 必须知道的一切*分为两个部分：第一个部分探索 Go 语言及其标准库，第二个部分为读者提供示例和解释，说明可在任何 Go 中使用的最强大的库发展. 包含 200 多个详细而直接的示例 [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 

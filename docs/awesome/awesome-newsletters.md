@@ -247,6 +247,7 @@
 
 - [Awesome Java Newsletter](https://java.libhunt.com/newsletter) . 精选的 Java 框架、库和软件的精选列表.
 - [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/) . 通过这份每周指南，了解 Java 世界的主要发展.
+- [Java Newsletter Insights](https://curatedjava.com/java-weekly-newsletter/) . 一个 Java 时事通讯，考虑从几十个来源策划的 Java 内容.
 
 ### Kotlin
 
@@ -396,7 +397,7 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供一些反思练习，以帮助您在日常生活中. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索到的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
+- [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高一般编程知识的链接. 目的不包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中解决问题的内容.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的存储库，允许在 GitHub 上以您最喜欢的编程语言跟踪趋势项目. 更新以每天或每周一次的 GitHub 通知的形式提供.
 - [HN Mail](https://hnmail.io) . 可定制的每周通讯，根据您的兴趣提供黑客新闻故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师思维方式的精选文章.

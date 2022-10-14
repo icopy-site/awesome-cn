@@ -222,12 +222,12 @@
 * [stockastic](https://github.com/shanewilton/stockastic) - Stockfighter API 的简单 Elixir 包装器.
 
 ## Benchmarking
-*运行代码以查看需要多长时间，哪个更快和/或是否已进行改进.*
+*运行代码以查看需要多长时间，哪个更快和/或是否进行了改进.*
 
 * [beamchmark](https://github.com/membraneframework/beamchmark) - 用于测量 EVM 性能的工具.
 * [benchee](https://github.com/PragTob/benchee) - Elixir 中简单且可扩展的基准测试！
 * [benchfella](https://github.com/alco/benchfella) - Elixir 的基准测试工具.
-* [bmark](https://github.com/joekain/bmark) - Elixir 的基准测试工具.
+* [bmark](https://github.com/joekain/bmark) - A benchmarking tool for Elixir.
 
 ## Bittorrent
 *Sharing is caring with Elixir*
@@ -404,7 +404,7 @@
 * [csv2sql](https://github.com/Arp-G/csv2sql) - 一个快速且全自动的 CSV 到数据库导入器.
 * [csvlixir](https://github.com/jimm/csvlixir) - Elixir 的 CSV 读/写应用程序.
 * [ecsv](https://github.com/erpuno/ecsv) - Elixir 的基于 libcs​​v 的快速流解析器.
-* [ex_csv](https://github.com/CargoSense/ex_csv) - 长生不老药的 CSV.
+* [ex_csv](https://github.com/CargoSense/ex_csv) - Elixir 的 CSV.
 * [nimble_csv](https://github.com/plataformatec/nimble_csv) - Elixir 的简单快速的 CSV 解析和转储库.
 
 ## Date and Time
@@ -612,7 +612,7 @@
 * [fwatch](https://github.com/ryo33/fwatch-ex) - 基于 __fs__ 的基于回调的文件观察器.
 * [ivcu](https://github.com/elixir-ivcu/ivcu) - 文件验证器、转换器和上传器.
 * [librex](https://github.com/ricn/librex) - 使用 LibreOffice 将办公文档转换为其他格式的 Elixir 库.
-* [Radpath](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
+* [Radpath](https://github.com/lowks/Radpath) - Elixir 的路径库，灵感来自 Python 的 Enhpath.
 * [sentix](https://github.com/whitfin/sentix) - 基于 fswatch 的 Elixir 跨平台文件观察器.
 * [sizeable](https://github.com/arvidkahl/sizeable) - 一个使文件大小易于阅读的 Elixir 库.
 * [waffle](https://github.com/elixir-waffle/waffle) - Elixir 灵活的文件上传和附件库.
@@ -708,7 +708,7 @@
 ## Frameworks
 *Web 开发框架.*
 
-* [exelli](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
+* [exelli](https://github.com/pigmej/exelli) - 带有一些糖语法好东西的 Elli Elixir 包装器.
 * [kitto](https://github.com/kittoframework/kitto) - 交互式仪表板的框架.
 * [n2o](https://github.com/synrc/n2o) - 分布式应用服务器.
 * [nitro](https://github.com/synrc/nitro) - 与氮兼容的 Web 框架.
@@ -1154,6 +1154,8 @@
 * [paper_trail](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 * [pillar](https://github.com/sofakingworld/pillar) - 基于 Clickhouse HTTP 的客户端.
 * [postgrex](https://github.com/elixir-ecto/postgrex) - Elixir 的 PostgreSQL 驱动程序.
+* [ravix](https://github.com/YgorCastor/ravix) - 用于 Elixir 的 RavenDB 驱动程序.
+* [ravix-ecto](https://github.com/YgorCastor/ravix-ecto) - 用于 Ecto 的 RavenDB Ravix 驱动程序适配器.
 * [red](https://github.com/rodrigues/red) - 以类似图形的方式在 Redis 中保持对象之间的关系.
 * [rediscl](https://github.com/akdilsiz/elixir-rediscl) - 带有连接池和管道查询构建器的最小 redis 客户端.
 * [redix](https://github.com/whatyouhide/redix) - 用于 Elixir 的超快、流水线、弹性 Redis 驱动程序.
@@ -1165,7 +1167,7 @@
 * [sql_dust](https://github.com/bettyblocks/sql_dust) - 使用神奇的 Elixir SQL 粉尘生成（复杂的）SQL 查询.
 * [sqlite_ecto](https://github.com/jazzyb/sqlite_ecto) - Ecto 的 SQLite3 适配器.
 * [sqlitex](https://github.com/mmmries/sqlitex)  - esqlite 周围的 Elixir 包装器. 允许访问 sqlite3 数据库.
-* [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - Elixir 的 ssdb 客户端，专注于性能.
+* [ssdb_elixir](https://github.com/lidashuang/ssdb-elixir) - ssdb client for Elixir, with focus on performance.
 * [tds](https://github.com/livehelpnow/tds) - 用于 Elixir 的 MSSQL / TDS 数据库驱动程序.
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - Ecto 的 MSSQL / TDS 适配器.
 * [timex_ecto](https://github.com/bitwalker/timex_ecto) - 将 Timex DateTimes 与 Ecto 一起使用的适配器.
@@ -1488,7 +1490,7 @@
 * [ua_parser2](https://github.com/nazipov/ua_parser2-elixir)  - ua-parser2 到 Elixir 的端口. 用户代理解析器库.
 * [unit_fun](https://github.com/meadsteve/unit_fun) - 尝试在 elixir 中为数字添加单位，以在处理数字数量时提供一些额外的类型安全性.
 * [uuid](https://github.com/zyro/elixir-uuid) - Elixir 的 UUID 生成器和实用程序.
-* [uuid_erl](https://github.com/okeuday/uuid) - Erlang 原生 UUID 生成.
+* [uuid_erl](https://github.com/okeuday/uuid) - Erlang Native UUID 生成.
 * [veritaserum](https://github.com/uesteibar/veritaserum) - 基于 afinn-165、表情符号和一些增强功能的情绪分析.
 
 ## Third Party APIs

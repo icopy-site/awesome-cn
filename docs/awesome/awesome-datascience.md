@@ -179,6 +179,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是 Coursera 平台上专注于推荐系统的中级/高级专业.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+- [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 
 
 ## Tutorials
@@ -739,7 +740,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Paul Miller](https://twitter.com/PaulMiller)  | 云计算/大数据/开放数据分析师和顾问. 作家、演讲者和主持人.  Gigaom 研究分析师.  |
 | [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动化任务和改进决策. 企业家，前首席数据科学家@LinkedIn. 机器学习、ProductRei、网络 |
 | [Prash Chan](https://twitter.com/MDMGeek)  |  IBM 解决方案架构师，主数据管理、数据质量和数据治理博​​主. 数据科学、Hadoop、大数据和云.  |
-| [Quora Data Science](https://twitter.com/q_datascience)   |  Quora 的数据科学专题 |
+| [Quora Data Science](https://twitter.com/q_datascience)   |  Quora 的数据科学话题 |
 | [R-Bloggers](https://twitter.com/Rbloggers)  | 发布来自 R 博客圈、数据科学会议和（！）为数据科学家开放的职位的推文.  |
 | [Rand Hindi](https://twitter.com/randhindi) |  |
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |

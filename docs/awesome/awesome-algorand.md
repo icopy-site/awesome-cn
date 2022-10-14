@@ -16,11 +16,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 <p align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
-    <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Browse-Website-yellow.svg" /></a>
+    <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Browse-Website-black.svg" /></a>
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/Browse-Repository-black.svg" /></a>
-    <a target="_blank" href="https://redcircle.com/shows/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-teal.svg" /></a>
-    <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=gold" /></a>
-    <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=blue" /></a>
+    <a target="_blank" href="https://redcircle.com/shows/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-black.svg" /></a>
+    <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=black" /></a>
+    <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=black" /></a>
 </p>
 
 
@@ -237,7 +237,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - 位于波兰的区块链实验室，为 Algorand 智能合约提供审计服务.
 - [Runtime Verification](https://runtimeverification.com/smartcontract) - 由审计 Algofi、FolksFinance、Yieldly 和生态系统中其他著名 DeFi 平台等平台的团队进行智能合约分析和验证.
 - [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
-- [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地投入生产或转移到主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，以便您可以自信地利用安全性作为这个动态市场中的强大差异化因素.
+- [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地投入生产或转移到主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，以便您可以自信地利用安全作为这个动态市场的强大差异化因素.
 
 ## Bridges
 
@@ -288,7 +288,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用、显示 NFT、账户分析等.
 - [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
-
+- [AlgoPing](https://github.com/aorumbayev/algoping) - 一个很小的 ​​cron 任务，它发出一个 [tweet](https://twitter.com/algoping) 如果公共 Algorand 节点（AlgoExplorer、AlgoNode 等）不健康.
 ## ARCs
 
 &gt; _finalized_ ARC 中定义的标准和规范.
