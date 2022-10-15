@@ -80,7 +80,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Projects
 
-*Non-game Open source projects made with Godot (tools/utilities).*
+*使用 Godot（工具/实用程序）制作的非游戏开源项目.*
 
 #### Godot 3.2+
 
@@ -95,6 +95,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 ## Templates
 
 *用作您自己游戏基础的项目.*
+
+#### Godot 3.5+
+
+- [bendn's Godot Template](https://github.com/bend-n/godot-template) - 游戏模板使用 [gpm](https://github.com/you-win/godot-package-manager) ，通过 itch.io 推送和构建自动化. 包括入门 CLI.
 
 #### Godot 3.2+
 
@@ -142,7 +146,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Tutorials
 
-> [**Notice:** *The list of tutorials has moved to the Godot documentation.*](https://docs.godotengine.org/en/latest/community/tutorials.html)
+&gt; **注意**
+>
+&gt; 该 [list of tutorials](https://docs.godotengine.org/en/latest/community/tutorials.html) 已移至 Godot 文档.
 
 ## Plugins and scripts
 
@@ -195,7 +201,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Dialogic](https://github.com/coppolaemilio/dialogic) - 创建对话、角色和场景以显示对话.
 - [Dijkstra map for Godot](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - Godot 游戏引擎的 GDNative 项目，引入了 Dijktra Map 寻路节点.
 - [Discord.gd](https://github.com/3ddelano/discord.gd)  - Discord 机器人 API 包装器. 使用 100% GDScript 制作机器人.
-- [Funexpected Flash Tools](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
+- [Funexpected Flash Tools](https://github.com/funexpected/flash-tools) - Adob​​e Animate (Flash) 插件，允许您为 Godot 引擎导出项目.
 - [GDGIFExporter](https://github.com/jegor377/godot-gdgifexporter) - GIF 导出器完全用 GDScript 制作.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) - 无需打开浏览器即可与 GitHub 交互.
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API [gotm.io](https://gotm.io/).
@@ -264,7 +270,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Various Godot versions
 
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - 用于复杂（可选多人）RPG（Godot 3.2、4.0）的实体和法术系统.
-- [godot-anl](https://github.com/Xrayez/godot-anl) - 一个包装器 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) 具有视觉噪声编辑支持.
+- [godot-anl](https://github.com/Xrayez/godot-anl) - 一个包装器 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 - [godot-python](https://github.com/touilleMan/godot-python) - 对 Godot 3 的 Python 支持.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - 创建体积世界的模块（Godot 3.1+）.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - Godot 3 的 ENet 包装器.
@@ -285,7 +291,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godotcord](https://github.com/drachenfrucht1/godotcord) - 一个包装器 [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 - [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - 在 Godot 中使用 Apple 登录的模块.
 - [godot-simple-state](https://github.com/tavurth/godot-simple-state) - 使用节点的最小有限状态机，非常适合 Jam 游戏.
-- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个港口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为戈多.
+- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用的包装器方法和对 Godot 友好的类型 [PortAudio](http://www.portaudio.com).
 - [Speech to Text](https://github.com/menip/godot_speech_to_text) - 捕获用户的麦克风输入并将其转换为文本.
@@ -340,6 +346,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - 主要是master分支，其他分支可以找到 [here](https://archive.hugo.pro/builds/godot/).
 - [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - 通过 Itch.io 分发（自动更新 [app](https://itch.io/app))，仅主分支.
 - [Raspberry Pi 4 builds](https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi) - ARM 为 Raspberry Pi 4 构建 Godot 引擎.
+- [bend-n's 2D builds](https://github.com/bend-n/godot-builds) - 戈多构建 [optimized for size](https://docs.godotengine.org/en/stable/development/compiling/optimizing_for_size.html) 和 [these modules disabled](https://github.com/bend-n/godot-builds/blob/main/.github/2d-build-modules.py) . 还包括杂项非破坏补丁.
 
 ## Bash scripts
 
@@ -366,7 +373,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 - [gdscript-pp](https://github.com/nonunknown/gdscript-pp) - 将 GDScript 翻译成 GDNative C++ (WIP).
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - 使用 Node.js 与 Godot 客户端通信.
+- [godot-actions](https://github.com/bend-n/godot-actions) - 通过 Github Actions 导出、设置和推送 Godot 项目到 itch.io 的复合操作.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于处理 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序（Godot 3.x）.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 为 RetroPie 安装 Godot“模拟器”的脚本模块.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.
+- [Godot Package Manager](https://github.com/you-win/godot-package-manager) - 使用 npm 的 Godot 包管理器.

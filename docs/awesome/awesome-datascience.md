@@ -4,6 +4,8 @@
 
 ## AWESOME DATA SCIENCE
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
 **一个开源数据科学存储库，用于学习和应用于解决现实世界的问题.**
 
 这是开始学习**数据科学**的捷径. 只需按照步骤回答问题，“什么是数据科学，我应该学习什么来学习数据科学？”
@@ -18,7 +20,11 @@
 
 <br>
 
+
+  - [Podcasts](#podcasts)]
+
 ## What is Data Science?
+**[`^        back to top        ^`](#awesome-data-science)**
 
 数据科学是当今计算机和互联网领域最热门的话题之一. 直到今天，人们已经从应用程序和系统中收集数据，现在是分析它们的时候了. 接下来的步骤是从数据中产生建议并创建对未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到 **Data Science** 的最大问题和数百个专家的答案.
 
@@ -33,115 +39,55 @@
 | [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是成熟的统计学学科与非常年轻的学科——计算机科学相结合的故事.  “数据科学”这个词最近才出现，专门指定一个新的职业，该职业有望理解大量的大数据存储. 但理解数据的历史由来已久，科学家、统计学家、图书馆员、计算机科学家和其他人多年来一直在讨论. 以下时间线追溯了“数据科学”一词的演变及其使用、尝试定义它以及相关术语._ |
 |[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) |数据科学家专注于通过探索性分析、统计和模型来理解数据. 软件开发人员使用不同的工具应用一组单独的知识. 尽管他们的关注点似乎无关，但数据科学团队可以从采用软件开发最佳实践中受益. 版本控制、自动化测试和其他开发技能有助于创建可重现的、生产就绪的代码和工具.|
 
-
-## Learn Data Science
-
-Our favorite programming language is _Python_ nowadays for #DataScience. Python's - [Pandas](https://pandas.pydata.org/) 图书馆具有收集和分析数据的全部功能. 我们用 [Anaconda](https://www.anaconda.com) 玩数据和创建应用程序.
-
-
-## Algorithms
+## Where do I Start?
 **[`^        back to top        ^`](#awesome-data-science)**
 
-这些是一些机器学习和数据挖掘算法和模型，可帮助您理解数据并从中获得意义.
+虽然不是绝对必要的，但拥有编程语言是作为数据科学家有效的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，它在各种领域都有应用.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
 
-### Supervised Learning
+ Python 是迄今为止科学界最流行的语言，这在很大程度上归功于它的易用性和用户生成的包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为`conda install`），一个强大的包管理器，可以为Python、R安装包，并且可以下载像Git这样的可执行文件. 
 
-- 回归
-- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- 普通最小二乘
-- 逻辑回归
-- 逐步回归
-- 多元自适应回归样条
-- 局部估计散点图平滑
-- 分类
-  - k-最近邻
-  - Support Vector Machines
-  - 决策树
-  - ID3算法
-  - C4.5算法
-- 合奏学习
-- 提升
-- 装袋
-- 随机森林
-- AdaBoost
+与 R 不同，Python 从头开始​​构建时并没有考虑到数据科学，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始数据科学之旅的一组不错的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用的数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是您会发现的许多常见算法背后的基本原理的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集和分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供了非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，具有许多开箱即用的良好默认值，以及一个展示如何生成许多常见数据可视化的图库.
 
-### Unsupervised Learning
-- 聚类
-  - 层次聚类
-  - k-均值
-  - 模糊聚类
-  - 混合模型
-- 降维
-  - 主成分分析（PCA）
-  - t-SNE
-- 神经网络
-- 自组织地图
-- 自适应共振理论
-- 隐马尔可夫模型 (HMM)
+ 在踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 各有利弊. 选择您喜欢的语言，然后查看其中一个 [Free courses](#free-courses) 我们在下面列出！
 
-### Semi-Supervised Learning
-
-- S3VM
-- 聚类
-- 生成模型
-- 低密度分离
-- 拉普拉斯正则化
-- 启发式方法
-
-### Reinforcement Learning
-
-- Q Learning
-- SARSA (State-Action-Reward-State-Action) 算法
-- 时间差异学习
-
-### Data Mining Algorithms
-
-- C4.5
-- k-均值
-- 支持向量机
-- 先验
-- 在
-- 网页排名
-- AdaBoost
-- kNN
-- 朴素贝叶斯
-- 购物车
-
-### Deep Learning architectures
-
-- 多层感知器
-- 卷积神经网络 (CNN)
-- 循环神经网络 (RNN)
-- 玻尔兹曼机器
-- 自动编码器
-- 生成对抗网络 (GAN)
-- 自组织地图
-- 变压器
-- 条件随机场 (CRF)
-
-## COLLEGES
+## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
-- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
-- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
-- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
-- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
-- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
-- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
-- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
-- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
-- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
-- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
-- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
-- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
-- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
+你如何学习数据科学？ 当然是通过数据科学！ 好的，好的 - 当你刚开始时，这可能不是特别有用. 在本节中，我们列出了一些学习资源，按照从最小到最大承诺的粗略顺序 - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs)， 和 [Colleges](#colleges).
 
-## Intensive Programs
-- [S2DS](https://www.s2ds.org/)
 
-## MOOC's
+### Tutorials
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用 ipyton 在浏览器上运行.
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) 针对 R 生态系统的每周数据项目.
+- [Data science your way](https://github.com/jadianes/data-science-your-way)
+- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
+- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
+- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
+- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
+- [Realtime deployment](https://www.microprediction.com/python-1) Python时间序列模型部署教程.
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+
+
+### Free Courses
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
+- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多门免费在线数据科学课程
+- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - 介绍机器学习，涵盖基础理论、算法和应用
+
+
+### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
@@ -182,36 +128,240 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 
 
-## Tutorials
+### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用 ipyton 在浏览器上运行.
-- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) 针对 R 生态系统的每周数据项目.
-- [Data science your way](https://github.com/jadianes/data-science-your-way)
-- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
-- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
-- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
-- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
-- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
-- [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
-- [Realtime deployment](https://www.microprediction.com/python-1) Python时间序列模型部署教程.
-- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
-- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
-
-### Free Courses
-
-- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
-- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
-- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论......）
-- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多门免费在线数据科学课程
-- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - 介绍机器学习，涵盖基础理论、算法和应用
+- [S2DS](https://www.s2ds.org/)
 
 
-## Toolboxes - Environment
+### Colleges
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+- [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
+- [Data Science Degree @ UVA](https://datascience.virginia.edu/)
+- [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
+- [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
+- [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
+- [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
+- [M.S. Management & Data Science @ Leuphana](https://www.leuphana.de/en/graduate-school/masters-programmes/management-data-science.html)
+- [Master of Data Science @ Melbourne University](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/#overview)
+- [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=902)
+- [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
+- [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
+- [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
+- [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
+- [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
+
+## The Data Science Toolbox
+**[`^        back to top        ^`](#awesome-data-science)**
+
+本节是数据科学世界中包、工具、算法和其他有用项目的集合.
+
+### Algorithms
+**[`^        back to top        ^`](#awesome-data-science)**
+
+这些是一些机器学习和数据挖掘算法和模型，可帮助您理解数据并从中获得意义.
+
+#### Supervised Learning
+
+- 回归
+- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+- 普通最小二乘
+- 逻辑回归
+- 逐步回归
+- 多元自适应回归样条
+- 局部估计散点图平滑
+- 分类
+  - k-最近邻
+  - 支持向量机
+  - 决策树
+  - ID3算法
+  - C4.5算法
+- 合奏学习
+- 提升
+- 装袋
+- 随机森林
+- AdaBoost
+
+#### Unsupervised Learning
+- 聚类
+  - 层次聚类
+  - k-均值
+  - 模糊聚类
+  - 混合模型
+- 降维
+  - 主成分分析（PCA）
+  - t-SNE
+- 神经网络
+- 自组织地图
+- 自适应共振理论
+- 隐马尔可夫模型 (HMM)
+
+#### Semi-Supervised Learning
+
+- S3VM
+- 聚类
+- 生成模型
+- 低密度分离
+- 拉普拉斯正则化
+- 启发式方法
+
+#### Reinforcement Learning
+
+- Q学习
+- SARSA (State-Action-Reward-State-Action) 算法
+- 时间差异学习
+
+#### Data Mining Algorithms
+
+- C4.5
+- k-均值
+- 支持向量机
+- Apriori
+- 在
+- 网页排名
+- AdaBoost
+- kNN
+- 朴素贝叶斯
+- 购物车
+
+#### Deep Learning architectures
+
+- 多层感知器
+- 卷积神经网络 (CNN)
+- 循环神经网络 (RNN)
+- 玻尔兹曼机器
+- 自动编码器
+- 生成对抗网络 (GAN)
+- 自组织地图
+- 变压器
+- 条件随机场 (CRF)
+
+### General Machine Learning Packages
+**[`^        back to top        ^`](#awesome-data-science)**
+
+* [scikit-learn](https://scikit-learn.org/)
+* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+* [scikit-feature](https://github.com/jundongl/scikit-feature)
+* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
+* [seqlearn](https://github.com/larsmans/seqlearn)
+* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
+* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
+* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
+* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
+* [scikit-image](https://github.com/scikit-image/scikit-image)
+* [scikit-opt](https://github.com/guofei9987/scikit-opt)
+* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
+* [pystruct](https://github.com/pystruct/pystruct)
+* [Shogun](https://www.shogun-toolbox.org/)
+* [xLearn](https://github.com/aksnzhy/xlearn)
+* [cuML](https://github.com/rapidsai/cuml)
+* [causalml](https://github.com/uber/causalml)
+* [mlpack](https://github.com/mlpack/mlpack)
+* [MLxtend](https://github.com/rasbt/mlxtend)
+* [modAL](https://github.com/modAL-python/modAL)
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
+* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
+* [dlib](https://github.com/davisking/dlib)
+* [RuleFit](https://github.com/christophM/rulefit)
+* [pyGAM](https://github.com/dswah/pyGAM)
+* [Deepchecks](https://github.com/deepchecks/deepchecks)
+
+### Deep Learning Packages
+
+#### PyTorch Ecosystem
+* [PyTorch](https://github.com/pytorch/pytorch)
+* [torchvision](https://github.com/pytorch/vision)
+* [torchtext](https://github.com/pytorch/text)
+* [torchaudio](https://github.com/pytorch/audio)
+* [ignite](https://github.com/pytorch/ignite)
+* [PyTorchNet](https://github.com/pytorch/tnt)
+* [PyToune](https://github.com/GRAAL-Research/poutyne)
+* [skorch](https://github.com/skorch-dev/skorch)
+* [PyVarInf](https://github.com/ctallec/pyvarinf)
+* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
+* [pyro](https://github.com/pyro-ppl/pyro)
+* [Catalyst](https://github.com/catalyst-team/catalyst)
+* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
+
+#### TensorFlow Ecosystem
+* [TensorFlow](https://github.com/tensorflow/tensorflow)
+* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
+* [TFLearn](https://github.com/tflearn/tflearn)
+* [Sonnet](https://github.com/deepmind/sonnet)
+* [tensorpack](https://github.com/tensorpack/tensorpack)
+* [TRFL](https://github.com/deepmind/trfl)
+* [Polyaxon](https://github.com/polyaxon/polyaxon)
+* [NeuPy](https://github.com/itdxer/neupy)
+* [tfdeploy](https://github.com/riga/tfdeploy)
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+* [TensorFlow Fold](https://github.com/tensorflow/fold)
+* [tensorlm](https://github.com/batzner/tensorlm)
+* [TensorLight](https://github.com/bsautermeister/tensorlight)
+* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
+* [Ludwig](https://github.com/ludwig-ai/ludwig)
+* [TF-Agents](https://github.com/tensorflow/agents)
+* [TensorForce](https://github.com/tensorforce/tensorforce)
+
+#### Keras Ecosystem
+
+* [Keras](https://keras.io)
+* [keras-contrib](https://github.com/keras-team/keras-contrib)
+* [Hyperas](https://github.com/maxpumperla/hyperas)
+* [Elephas](https://github.com/maxpumperla/elephas)
+* [Hera](https://github.com/keplr-io/hera)
+* [Spektral](https://github.com/danielegrattarola/spektral)
+* [qkeras](https://github.com/google/qkeras)
+* [keras-rl](https://github.com/keras-rl/keras-rl)
+* [Talos](https://github.com/autonomio/talos)
+
+#### Visualization Tools
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [altair](https://altair-viz.github.io/)
+- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
+- [amcharts](https://www.amcharts.com/)
+- [anychart](https://www.anychart.com/)
+- [bokeh](https://bokeh.org/)
+- [slemma](https://slemma.com/)
+- [cartodb](https://cartodb.github.io/odyssey.js/)
+- [Cube](https://square.github.io/cube/)
+- [d3plus](https://d3plus.org/)
+- [Data-Driven Documents(D3js)](https://d3js.org/)
+- [dygraphs](https://dygraphs.com/)
+- [ECharts](https://echarts.baidu.com/index-en.html)
+- [exhibit](https://www.simile-widgets.org/exhibit/)
+- [gephi](https://gephi.org/)
+- [ggplot2](https://ggplot2.tidyverse.org/)
+- [Glue](http://docs.glueviz.org/en/latest/index.html)
+- [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
+- [highcarts](https://www.highcharts.com/)
+- [import.io](https://www.import.io/)
+- [jqplot](https://www.jqplot.com/)
+- [Matplotlib](https://matplotlib.org/)
+- [nvd3](https://nvd3.org/)
+- [Netron](https://github.com/lutzroeder/netron)
+- [Openrefine](https://openrefine.org/)
+- [plot.ly](https://plot.ly/)
+- [raw](https://rawgraphs.io)
+- [Seaborn](https://seaborn.pydata.org/)
+- [techanjs](https://techanjs.org/)
+- [Timeline](https://timeline.knightlab.com/)
+- [variancecharts](https://variancecharts.com/index.html)
+- [vida](https://vida.io/)
+- [vizzu](https://github.com/vizzuhq/vizzu-lib)
+- [Wrangler](http://vis.stanford.edu/wrangler/)
+- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [NetworkX](https://networkx.org/)
+- [Redash](https://redash.io/)
+- [C3](https://c3js.org/)
+- [TensorWatch](https://github.com/microsoft/tensorwatch)
+
+### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
 
  | 链接 | 说明 |
@@ -237,7 +387,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 机器学习 |
 | [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型的多维数组和矩阵，并包括各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
-| [SciPy](https://scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供了高效的例程.
+| [SciPy](https://scipy.org/)  |  SciPy 与 NumPy 数组一起工作，并为数值积分和优化提供了高效的例程.  |
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
 | [Data Science Toolbox](https://datasciencetoolbox.org/)  | 博客 |
 | [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/)  | 获取数字、文本、图像、GIS 或其他数据并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由革命性的基于知识的 Wolfram 语言提供支持.  |
@@ -306,196 +456,12 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找热门和新图书馆、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表 |
 | [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本化和部署 |
 
-
-## Machine Learning in General Purpose
+## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 
-* [scikit-learn](https://scikit-learn.org/)
-* [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
-* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
-* [scikit-feature](https://github.com/jundongl/scikit-feature)
-* [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate)
-* [seqlearn](https://github.com/larsmans/seqlearn)
-* [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes)
-* [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-* [sklearn-deap](https://github.com/rsteca/sklearn-deap)
-* [sigopt_sklearn](https://github.com/sigopt/sigopt-sklearn)
-* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation)
-* [scikit-image](https://github.com/scikit-image/scikit-image)
-* [scikit-opt](https://github.com/guofei9987/scikit-opt)
-* [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
-* [pystruct](https://github.com/pystruct/pystruct)
-* [Shogun](https://www.shogun-toolbox.org/)
-* [xLearn](https://github.com/aksnzhy/xlearn)
-* [cuML](https://github.com/rapidsai/cuml)
-* [causalml](https://github.com/uber/causalml)
-* [mlpack](https://github.com/mlpack/mlpack)
-* [MLxtend](https://github.com/rasbt/mlxtend)
-* [modAL](https://github.com/modAL-python/modAL)
-* [Sparkit-learn](https://github.com/lensacom/sparkit-learn)
-* [hyperlearn](https://github.com/danielhanchen/hyperlearn)
-* [dlib](https://github.com/davisking/dlib)
-* [RuleFit](https://github.com/christophM/rulefit)
-* [pyGAM](https://github.com/dswah/pyGAM)
-* [Deepchecks](https://github.com/deepchecks/deepchecks)
+本节包括一些额外的阅读材料、观看的频道和听的谈话.
 
-
-## Deep Learning
-
-### pytorch
-* [PyTorch](https://github.com/pytorch/pytorch)
-* [torchvision](https://github.com/pytorch/vision)
-* [torchtext](https://github.com/pytorch/text)
-* [torchaudio](https://github.com/pytorch/audio)
-* [ignite](https://github.com/pytorch/ignite)
-* [PyTorchNet](https://github.com/pytorch/tnt)
-* [PyToune](https://github.com/GRAAL-Research/poutyne)
-* [skorch](https://github.com/skorch-dev/skorch)
-* [PyVarInf](https://github.com/ctallec/pyvarinf)
-* [pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
-* [GPyTorch](https://github.com/cornellius-gp/gpytorch)
-* [pyro](https://github.com/pyro-ppl/pyro)
-* [Catalyst](https://github.com/catalyst-team/catalyst)
-* [pytorch_tabular](https://github.com/manujosephv/pytorch_tabular)
-### tensorflow
-* [TensorFlow](https://github.com/tensorflow/tensorflow)
-* [TensorLayer](https://github.com/tensorlayer/TensorLayer)
-* [TFLearn](https://github.com/tflearn/tflearn)
-* [Sonnet](https://github.com/deepmind/sonnet)
-* [tensorpack](https://github.com/tensorpack/tensorpack)
-* [TRFL](https://github.com/deepmind/trfl)
-* [Polyaxon](https://github.com/polyaxon/polyaxon)
-* [NeuPy](https://github.com/itdxer/neupy)
-* [tfdeploy](https://github.com/riga/tfdeploy)
-* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
-* [TensorFlow Fold](https://github.com/tensorflow/fold)
-* [tensorlm](https://github.com/batzner/tensorlm)
-* [TensorLight](https://github.com/bsautermeister/tensorlight)
-* [Mesh TensorFlow](https://github.com/tensorflow/mesh)
-* [Ludwig](https://github.com/ludwig-ai/ludwig)
-* [TF-Agents](https://github.com/tensorflow/agents)
-* [TensorForce](https://github.com/tensorforce/tensorforce)
-
-### keras
-
-* [Keras](https://keras.io)
-* [keras-contrib](https://github.com/keras-team/keras-contrib)
-* [Hyperas](https://github.com/maxpumperla/hyperas)
-* [Elephas](https://github.com/maxpumperla/elephas)
-* [Hera](https://github.com/keplr-io/hera)
-* [Spektral](https://github.com/danielegrattarola/spektral)
-* [qkeras](https://github.com/google/qkeras)
-* [keras-rl](https://github.com/keras-rl/keras-rl)
-* [Talos](https://github.com/autonomio/talos)
-
-
-## Visualization Tools - Environments
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [altair](https://altair-viz.github.io/)
-- [addepar](https://opensource.addepar.com/ember-charts/#/overview)
-- [amcharts](https://www.amcharts.com/)
-- [anychart](https://www.anychart.com/)
-- [bokeh](https://bokeh.org/)
-- [slemma](https://slemma.com/)
-- [cartodb](https://cartodb.github.io/odyssey.js/)
-- [Cube](https://square.github.io/cube/)
-- [d3plus](https://d3plus.org/)
-- [Data-Driven Documents(D3js)](https://d3js.org/)
-- [dygraphs](https://dygraphs.com/)
-- [ECharts](https://echarts.baidu.com/index-en.html)
-- [exhibit](https://www.simile-widgets.org/exhibit/)
-- [gephi](https://gephi.org/)
-- [ggplot2](https://ggplot2.tidyverse.org/)
-- [Glue](http://docs.glueviz.org/en/latest/index.html)
-- [Google Chart Gallery](https://developers.google.com/chart/interactive/docs/gallery)
-- [highcarts](https://www.highcharts.com/)
-- [import.io](https://www.import.io/)
-- [jqplot](https://www.jqplot.com/)
-- [Matplotlib](https://matplotlib.org/)
-- [nvd3](https://nvd3.org/)
-- [Netron](https://github.com/lutzroeder/netron)
-- [Openrefine](https://openrefine.org/)
-- [plot.ly](https://plot.ly/)
-- [raw](https://rawgraphs.io)
-- [Seaborn](https://seaborn.pydata.org/)
-- [techanjs](https://techanjs.org/)
-- [Timeline](https://timeline.knightlab.com/)
-- [variancecharts](https://variancecharts.com/index.html)
-- [vida](https://vida.io/)
-- [vizzu](https://github.com/vizzuhq/vizzu-lib)
-- [Wrangler](http://vis.stanford.edu/wrangler/)
-- [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [NetworkX](https://networkx.org/)
-- [Redash](https://redash.io/)
-- [C3](https://c3js.org/)
-- [TensorWatch](https://github.com/microsoft/tensorwatch)
-
-
-## Journals, Publications and Magazines
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [ICML](https://icml.cc/2015/) - 机器学习国际会议
-- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议（GECCO）
-- [epjdatascience](https://epjdatascience.springeropen.com/)
-- [Journal of Data Science](https://jds-online.org/journal/JDS) - 一本致力于广泛应用统计方法的国际期刊
-- [Big Data Research](https://www.journals.elsevier.com/big-data-research)
-- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
-- [Big Data & Society](https://journals.sagepub.com/home/bds)
-- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
-- [datatau.com/news](https://www.datatau.com/news) - 像 Hacker News，但针对数据
-- [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/tag/data-science) - 媒体上的数据科学相关出版物
-- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) - 遗传算法相关的关于数据科学的出版物
-- [all AI news](https://allainews.com/) - AI/ML/大数据新闻聚合平台
-
-## Presentations
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
-- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
-- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
-- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
-- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
-- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
-- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
-- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
-- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
-
-
-## Podcasts
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
-- [AI Today](https://www.cognilytica.com/aitoday/)
-- [Adversarial Learning](https://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
-- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
-- [Data Science at Home](https://datascienceathome.com/)
-- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](https://datastori.es/)
-- [Datacast](https://jameskle.com/writes/category/Datacast)
-- [DataFramed](https://www.datacamp.com/community/podcast)
-- [DataTalks.Club](https://anchor.fm/datatalksclub)
-- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
-- [Learning Machines 101](https://www.learningmachines101.com/)
-- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
-- [Linear Digressions](https://lineardigressions.com/)
-- [Not So Standard Deviations](https://nssdeviations.com/)
-- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
-- [Partially Derivative](https://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [The Data Engineering Show](https://www.dataengineeringshow.com/)
-- [The Radical AI Podcast](https://www.radicalai.org/)
-- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [How AI Built This](https://how-ai-built-this.captivate.fm/)
-
-## Books
+### Books
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
@@ -561,7 +527,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - 免费的 GitHub 版本
 
-## Book Deals (Affiliated) 🛍
+#### Book Deals (Affiliated) 🛍
 
 - [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
 
@@ -571,11 +537,31 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
 - [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
 
-## Socialize
+### Journals, Publications and Magazines
 **[`^        back to top        ^`](#awesome-data-science)**
 
+- [ICML](https://icml.cc/2015/) - 机器学习国际会议
+- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议（GECCO）
+- [epjdatascience](https://epjdatascience.springeropen.com/)
+- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
+- [Big Data Research](https://www.journals.elsevier.com/big-data-research)
+- [Journal of Big Data](https://journalofbigdata.springeropen.com/)
+- [Big Data & Society](https://journals.sagepub.com/home/bds)
+- [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
+- [datatau.com/news](https://www.datatau.com/news) - 像 Hacker News，但针对数据
+- [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
+- [Medium Data Science Topic](https://medium.com/tag/data-science) - 媒体上的数据科学相关出版物
+- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) - 遗传算法相关的关于数据科学的出版物
+- [all AI news](https://allainews.com/) - AI/ML/大数据新闻聚合平台
 
-## Bloggers
+### Newsletters
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [AI Digest](https://aidigest.net/) . 每周时事通讯，以了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+- [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
+- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的通讯. [Archive](https://roundup.getdbt.com/archive).
+
+### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Wes McKinney](https://wesmckinney.com/archives.html) - 韦斯麦金尼档案.
@@ -590,7 +576,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Noah Iliinsky](https://complexdiagrams.com/) - 个人博客
 - [Matt Harrison](https://hairysun.com/) - 个人博客
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
-- [Prash Chan](https://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
+- [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
 - [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
@@ -608,7 +594,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [The Practical Quant](https://practicalquant.blogspot.com/) 大数据
 - [另一个数据博客](https://yet-another-data-blog.blogspot.com/) 另一个数据博客
 - [Spenczar](https://spenczar.com/)  _Twitch_ 的数据科学家. 我处理整个数据管道，从跟踪到模型构建再到报告.
-- [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
+- [KD Nuggets](https://www.kdnuggets.com/) 数据挖掘、分析、大数据、数据、科学不是博客门户
 - [Meta Brown](https://www.metabrown.com/blog/) - 个人博客
 - [Data Scientist](https://datascientists.net/) 正在建立数据科学家文化.
 - [WhatSTheBigData](https://whatsthebigdata.com/) 是上述的一些、全部或更多，这个博客探讨了它对信息技术、商业世界、政府机构和我们生活的影响.
@@ -664,7 +650,92 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Maria Khalusova](https://www.mariakhalusova.com/) - 数据科学博客
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - 机器学习、深度学习、数据科学博客
 
-## Facebook Accounts
+### Presentations
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
+- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
+- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
+
+### Podcasts
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
+- [AI Today](https://www.cognilytica.com/aitoday/)
+- [Adversarial Learning](https://adversariallearning.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+- [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
+- [Data Science at Home](https://datascienceathome.com/)
+- [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
+- [Data Skeptic](https://dataskeptic.com/)
+- [Data Stories](https://datastori.es/)
+- [Datacast](https://jameskle.com/writes/category/Datacast)
+- [DataFramed](https://www.datacamp.com/community/podcast)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
+- [Gradient Dissent](https://wandb.ai/fully-connected/gradient-dissent)
+- [Learning Machines 101](https://www.learningmachines101.com/)
+- [Let's Data (Brazil)](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM)
+- [Linear Digressions](https://lineardigressions.com/)
+- [Not So Standard Deviations](https://nssdeviations.com/)
+- [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- [Partially Derivative](https://partiallyderivative.com/)
+- [Superdatascience](https://www.superdatascience.com/podcast/)
+- [The Data Engineering Show](https://www.dataengineeringshow.com/)
+- [The Radical AI Podcast](https://www.radicalai.org/)
+- [The Robot Brains Podcast](https://www.therobotbrains.ai/)
+- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [How AI Built This](https://how-ai-built-this.captivate.fm/)
+
+### YouTube Videos & Channels
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
+- [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
+- [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
+- [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
+- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
+- [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
+- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - 数据科学教育
+- [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
+- [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
+- [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
+- [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
+- [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
+- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
+- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
+- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
+- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+- [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
+- [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
+- [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
+- [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
+- [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
+- [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
+- [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
+- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
+
+## Socialize
+**[`^        back to top        ^`](#awesome-data-science)**
+
+以下是一些社交媒体链接. 与其他数据科学家联系！
+
+
+
+### Facebook Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Data](https://www.facebook.com/data)
@@ -690,7 +761,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
 
-## Twitter Accounts
+### Twitter Accounts
 **[`^        back to top        ^`](#awesome-data-science)**
 
  | 推特 | 说明 |
@@ -725,11 +796,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist)  | 首席数据科学家@Microsoft 数据科学团队 |
 | [Julia Evans](https://twitter.com/b0rk)  | 黑客 - 熊猫 - 数据分析 |
 | [Kenneth Cukier](https://twitter.com/kncukier)  | 经济学人的数据编辑和大数据的合著者 (http://www.big-data-book.com/).  |
- | 凯文达文波特 |  https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ 的组织者 |
+| Kevin Davenport | Organizer of https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ |
 | [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师，创始人 [Data School](https://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据漫游者.  |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
- | 琳达·雷格伯 | 数据故事讲述者，可视化.  |
+| Linda Regber | Data story teller, visualizations. |
 | [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程，移动，网络. 人工智能、智能机器人机器学习、数据挖掘、自然语言处理、数据科学.  |
  | 马克史蒂文森 |  Salt (@SaltJobs) Analytics 的数据分析招聘专家 - 洞察力 - 大数据 - 数据科学 |
 | [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师的意见，目前正在玩数据科学家. 偶尔的父亲，丈夫，有机园艺.  |
@@ -745,7 +816,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Rand Hindi](https://twitter.com/randhindi) |  |
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
 | [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学极客@UALR |
-| [Ryan Orban](https://twitter.com/ryanorban) | Data scientist, genetic origamist, hardware aficionado |
+| [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家、基因折纸师、硬件爱好者 |
 | [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
 | [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
@@ -759,69 +830,25 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Wes McKinney](https://twitter.com/wesmckinn)  |  Pandas（Python 数据分析库）.  |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC 的数据新闻工作人员. 实践数据驱动的新闻，使其可视化并展示我们的工作.  |
-| [Alexey Grigorev](https://twitter.com/Al_Grigor)  | 数据科学作者 |
+| [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 
 
-## Newsletters
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [AI Digest](https://aidigest.net/) . 每周时事通讯，以了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
-- [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
-- [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的通讯. [Archive](https://roundup.getdbt.com/archive).
-
-
-## Youtube Videos & Channels
-**[`^        back to top        ^`](#awesome-data-science)**
-
-- [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
-- [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
-- [Data36 - Data Science for Beginners by Tomi Mester](https://www.youtube.com/c/TomiMesterData36comDataScienceForBeginners)
-- [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
-- [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
-- [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
-- [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
-- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - 数据科学教育
-- [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
-- [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
-- [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
-- [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
-- [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
-- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
-- [Mildlyoverfitted - Tutorials on intermediate ML/DL topics](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
-- [mlops.community - Interviews of industry experts about production ML](https://www.youtube.com/channel/UCYBSjwkGTK06NnDnFsOcR7g)
-- [ML Street Talk - Unabashedly technical and non-commercial, so you will hear no annoying pitches.](https://www.youtube.com/c/machinelearningstreettalk)
-- [Neural networks by 3Blue1Brown ](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Neural networks from scratch by Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-- [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
-- [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
-- [Ask Dr Chong: How to Lead in Data Science - Part 2](https://youtu.be/SzqIXV-O-ko)
-- [Ask Dr Chong: How to Lead in Data Science - Part 3](https://youtu.be/Ogwm7k_smTA)
-- [Ask Dr Chong: How to Lead in Data Science - Part 4](https://youtu.be/a9usjdzTxTU)
-- [Ask Dr Chong: How to Lead in Data Science - Part 5](https://youtu.be/MYdQq-F3Ws0)
-- [Ask Dr Chong: How to Lead in Data Science - Part 6](https://youtu.be/LOOt4OVC3hY)
-- [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
-- [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
-
-
-## Telegram Channels
+### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Open Data Science](https://t.me/opendatascience)  – 第一个电报数据科学频道. 涵盖与数据科学相关的所有技术和受欢迎的员工：人工智能、大数据、机器学习、统计学、普通数学和前者的应用.
 - [Loss function porn](https://t.me/loss_function_porn) — 带有视频或图形可视化的 DS/ML 主题的精美帖子.
-- [Machinelearning](https://t.me/ai_machinelearning_big_data) – 每日机器学习新闻.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 
-## Slack Communities
+### Slack Communities
 
 - [DataTalks.Club](https://datatalks.club)
 
-
-## Github Groups
+### GitHub Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
 
-
-## Competitions
+### Data Science Competitions
 
 部分数据挖掘竞赛平台
 
@@ -831,12 +858,11 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [InnoCentive](https://www.innocentive.com/)
 - [Microprediction](https://www.microprediction.com/python-1)
 
-
 ## Fun
 
 
 
-## Infographic
+### Infographics
 **[`^        back to top        ^`](#awesome-data-science)**
 
  | 预览 | 说明 |
@@ -855,7 +881,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 通过跳板 |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 一种简单而友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
-## Data Sets
+### Datasets
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
@@ -912,21 +938,13 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
-## Comics
+### Comics
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 - [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-
-## Awesome Data Science
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
-
-## Hobby
-- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
-
-## Other Lists
+## Other Awesome Lists
 
 - 可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -955,6 +973,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+
+### Hobby
+- [Awesome Music Production](https://github.com/ad-si/awesome-music-production)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL0RV0E5XZ"></script>

@@ -22,7 +22,6 @@
   </form>
 </div>
 
-
 ## Intro
 
 此列表最初是 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) Karan Bhangui 和 George Stocker 的贡献.
@@ -60,14 +59,16 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 </div>
 
-
 ## How to Share
 
-+ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
-+ [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
-+ [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
+<div align="left" markdown="1">
 
+<a href="http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">分享到Twitter</a><br>
+<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=">在脸书上分享</a><br>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=">在领英上分享</a><br>
+<a href="https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books">在电报上分享</a><br>
+
+</div>
 
 ## Resources
 
@@ -78,7 +79,6 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 [English, By Programming Language](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-langs.md)
 
 [English, By Subject](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md)
-
 
 #### Other Languages
 
@@ -122,11 +122,9 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-vi.md)
 
-
 ### Cheat Sheets
 
 + [All Languages](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-cheatsheets.md)
-
 
 ### Free Online Courses
 
