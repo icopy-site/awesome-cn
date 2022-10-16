@@ -1,12 +1,12 @@
 <div class="github-widget" data-repo="mmccaff/PlacesToPostYourStartup"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Places To Post Your Startup
 
 ##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
 
-最初是从 [this HN post](https://news.ycombinator.com/item?id=7248460) 其中引用了 [this HN post](https://news.ycombinator.com/item?id=6492109) . 特别感谢 TripHappy 让我使用他们的更新列表 [this blog post](https://triphappy.com/blog/131-startup-directories-to-promote-your-startup/1).
+最初是从 [this HN post](https://news.ycombinator.com/item?id=7248460) 其中引用了 [this HN post](https://news.ycombinator.com/item?id=6492109).
 
 单击链接可跳转到相应的部分. 这两个部分都按字母顺序排列.
 
@@ -31,12 +31,11 @@
 ## Websites
 
 * 10words - https://10words.io
-* 我所有的最爱 - http://www.allmyfaves.com/
+* 我所有的最爱 - https://www.allmyfaves.com/
 * 所有初创公司 - http://www.allstartups.info/Startups/Submit
 * 所有顶级初创公司 - http://alltopstartups.com/submit-startup/
 * 替代方案 - http://alternativeto.net/
 * Alternative.me - https://alternative.me/
-* 替代 (Github repo) - https://github.com/brentadamson/alternativeto
 * AngelList - https://angel.co/
 * 应用建议 - http://appadvice.com/page/about-us
 * 应用评分者 - https://apprater.net/add/
@@ -47,7 +46,6 @@
 * 应用列表 - http://appslisto.com/submit-your-app/
 * 应用妈妈 - http://appsmamma.com/submit-your-app/
 * AppsThunder - http://appsthunder.com/submit-your-app/
-* AppStorm - http://appstorm.net/
 * Appvita - http://www.appvita.com/
 * 北极创业公司 - http://arcticstartup.com/
 * 很棒的独立游戏 - https://awesomeindie.com
@@ -60,8 +58,6 @@
 * Broadwise.org - https://broadwise.org/
 * BuiltInChicago - http://www.builtinchicago.org/send-us-tip
 * Capterra - http://www.capterra.com/vendors/sign-up
-* CloudShowPlace - http://www.cloudshowplace.com/add-your-company/
-* Cnet - https://upload.cnet.com/
 * Collaborizm - https://www.collaborizm.com
 * 为初创公司疯狂 - http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk - https://vendor.crozdesk.com/user/signup
@@ -91,7 +87,7 @@
 *土地簿 - https://land-book.com/guidelines
 * 启动列表 - https://launchlister.com/submit-startup
 * 启动 - https://launched.io/SubmitStartup
-* 启动下一个 - http://www.launchingnext.com/submit/
+* 下一个启动 - https://www.launchingnext.com/submit/
 * 循环 - https://app.loopinput.com/
 * MakeUseOf - http://www.makeuseof.com/about/
 * 净额 - https://www.netted.net/contact-us/
@@ -100,13 +96,11 @@
 * Oye Startups - https://oyestartups.com/contact
 * 帕古 - http://www.paggu.com/submit-your-startup/
 * Postmake - https://postmake.io/submit
-* Postscapes - http://about.postscapes.com/tools
 * PreApps - http://www.preapps.com/
 * 产品搜寻 - http://www.producthunt.com/
 * 可编程网络 - https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * 孵化项目 - https://www.projecthatch.co/your-story/
 * Projectium 网络 - https://projectium.network
-* PublicityX - https://www.publicityx.com/startups/new
 * Robingood - http://tools.robingood.com/
 * SaaShub - https://www.saashub.com/
 * Saasified - https://saasified.co
@@ -117,7 +111,7 @@
 * SimilarSiteSearch - http://www.similarsitesearch.com/tips.html
 * 倾斜 - https://www.slant.co/
 * SnapMunk - https://www.snapmunk.com/submit-your-startup/
-* Software Advice - https://softwareadvice-markets.questionpro.com/
+* 软件建议 - https://softwareadvice-markets.questionpro.com/
 * Springwise - https://www.springwise.com/spotted/
 * 堆栈共享 - http://stackshare.io/
 * 入门故事 - https://starterstory.com/
@@ -125,16 +119,14 @@
 * 启动基地 - https://startupbase.io/submit
 * 启动节拍 - http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/
 * 启动基准测试 - https://www.startupbenchmarks.com/
-* 启动缓冲区 - http://startupbuffer.com
+* 启动缓冲区 - https://startupbuffer.com
 * 启动集合 - http://startupcollections.com/
-* 启动涂料 - http://startupdope.com/submit-news/
 * 创业灵感 - https://www.startupinspire.com/submit
-* 创业约翰 - https://www.startupjohn.com/
 * 启动电梯 - http://www.startuplift.com/
 * 创业排名 - http://www.startupranking.com/
 * 启动注册 - h​​ttp://startupregister.net/register-your-startup/
 * 启动资源 - https://startupresources.io
-* 启动存储 - http://startupstash.com/
+* Startup Stash - http://startupstash.com/
 * 启动选项卡 - http://startuptabs.com/
 * 启动跟踪器 - https://startuptracker.io/
 * StartupBlink - http://www.startupblink.com/

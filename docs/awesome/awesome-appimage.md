@@ -89,6 +89,7 @@
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
 - [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
 - [leap](https://github.com/lnxcz/leap)  - 快速简单的 AppImage 管理器. 用 Rust 编写.
+- [Bread](https://github.com/pegvin/bread) - 在命令行上从 GitHub 下载、更新、删除和运行 AppImages，并将应用程序集成到桌面.
 
 ### Linux distributions
 

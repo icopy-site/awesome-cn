@@ -114,7 +114,7 @@
 * [QOwnNotes](http://www.qownnotes.org/)  - 具有降价支持和待办事项列表管理器的开源记事本.  [![开源软件][OSS图标]](https://github.com/pbek/QOwnNotes) ![免费软件][免费软件图标]
 * [Quiver](http://happenapps.com/#quiver) - 程序员的笔记本，让您在一个笔记中轻松混合文本、代码、Markdown 和 LaTeX，使用出色的代码编辑器编辑代码并实时预览 Markdown 和 LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) - 云笔记知识管理、协作平台、基于Markdown的写作，支持嵌入式流程图、脑图、时序、代码渲染、画板创建、个人知识分享等.相比有道云笔记、印象笔记同类产品，包含所有功能，支持知识共享和更强大的创作、协作和编辑，来自阿里巴巴蚂蚁金服！[免费软件][免费软件图标]
-* [Skiff](https://skiff.com/)  - 端到端加密和去中心化电子邮件、实时文档协作以及采用零信任隐私设计的文件存储——可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS图标]](https://github.com/skiff-org)
+* [Skiff](https://skiff.com/)  - 端到端加密和分散式电子邮件、实时文档协作和采用零信任隐私设计的文件存储——可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS图标]](https://github.com/skiff-org)
 
 #### Journaling
 
@@ -260,6 +260,7 @@
 * [Proxie](https://proxieapp.com/)  - HTTP 调试代理.  [![App Store][app-store Icon]](https://itunes.apple.com/app/cellist/id897814548)
 * [Proxyman](https://proxyman.app)  - 适用于 macOS 的现代且直观的 HTTP 调试代理.  ![免费软件][免费软件图标]
 * [Wireshark](https://www.wireshark.org)  - 世界上最重要和广泛使用的网络协议分析仪.  [![开源软件][OSS图标]](https://github.com/wireshark/wireshark) ![免费软件][免费软件图标]
+* [Apidog](https://www.apidog.com/) - 用于 API 设计、文档、调试、模拟、测试的多合一工作区.
 
 #### Command Line Tools
 
@@ -370,7 +371,7 @@
 #### Databases
 
 * [Apache Directory Studio](https://directory.apache.org/studio/)  - LDAP 浏览器和 Active Directory 客户端.  [![开源软件][OSS图标]](https://directory.apache.org/sources.html) ![免费软件][免费软件图标]
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台数据库工具，用于 Microsoft 家庭内部部署和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台的数据库工具，用于微软家族的本地和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的redis桌面管理器.[![开源软件][OSS图标]](https://directory.apache.org/sources.html)！[免费软件][免费软件图标]
 * [Base 2](http://menial.co.uk/base/) - 用于创建、设计、编辑和浏览 SQLite 3 数据库文件的应用程序.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 流畅的 SQL 编辑器和数据库管理器 [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
@@ -640,7 +641,7 @@
 * [Stremio](https://www.stremio.com/)  - 电影、电视节目、连续剧、直播电视或 YouTube 和 Twitch.tv 等网络频道 - 您可以在 Stremio 上找到所有这些.  ![免费软件][免费软件图标]
 * [Stringed 2](http://stringed.buenosapps.com/) - 音乐练习软件，旨在帮助用户学习如何演奏自己喜欢的歌曲.
 * [Synfig Studio](http://synfig.org)  - Synfig Studio 是免费的开源 2D 动画软件.  [![开源软件][OSS图标]](https://github.com/synfig/synfig) ![免费软件][免费软件图标]
-* [VLC](http://www.videolan.org/index.html)  - 免费、开源、跨平台的多媒体播放器以及播放大多数多媒体文件、DVD、音频 CD、VCD 和各种流媒体协议的框架.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/videolan/vlc)
+* [VLC](http://www.videolan.org/index.html)  - 免费、开源、跨平台的多媒体播放器以及播放大多数多媒体文件、DVD、音频 CD、VCD 和各种流协议的框架.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player)  - 适用于 Mac 和 iPhone 的高清音频播放器. 音乐听起来更好！  ![免费软件][免费软件图标]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html)  - 解码、转换和播放各种“无损”音频文件的工具.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://code.google.com/archive/p/xld/source)
 * [MusicPlus](https://musicplus.io)  - 免费搜索、播放和下载音乐.  ![免费软件][免费软件图标]
@@ -669,7 +670,7 @@
 
 ## Cloud Storage
 
-*我建议在 Mac 客户端上使用在线存储*
+*我建议使用 Mac 客户端的在线存储*
 
 * [Arq](https://www.arqbackup.com/) - 支持 AWS、GCP、DropBox 等的云存储备份客户端.
 * [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) - Carbonite 可以保护您的 Mac 免受所有最常见形式的数据丢失.
@@ -854,7 +855,7 @@
 * [ActivityWatch](https://activitywatch.net/)  - 跨平台、可扩展且注重隐私的时间跟踪器.  [![开源软件][OSS图标]](https://github.com/ActivityWatch/activitywatch) ![免费软件][免费软件图标]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterMouse](https://better-mouse.com)  - 平滑滚动、光标加速禁止和强大的按钮/手势重新映射在一个实用程序中适用于第 3 方鼠标. 旨在取代那些笨重和侵入性的官方驱动程序.
-* [BetterTouchTool](https://folivora.ai/) - 功能丰富的出色应用程序，可让您为 Magic Mouse、Macbook 触控板、Magic Trackpad 以及普通鼠标的鼠标手势配置多种手势.
+* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，可让您为 Magic Mouse、Macbook 触控板、Magic Trackpad 以及普通鼠标的鼠标手势配置多种手势.
 * [Cerebro](https://cerebroapp.com/)  - 带大脑的开源生产力助推器.  [![开源软件][OSS图标]](https://github.com/cerebroapp/cerebro) ![免费软件][免费软件图标]
 * [Choosy](https://www.choosyosx.com) - UI、URL API 和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
 * [Clovery](https://clovery.app)  - 将您喜爱的所有 Google 服务与您的 Mac 紧密集成，让您快速访问这些服务并提高工作效率.  [![开源软件][OSS Icon]](https://github.com/webcatalog/neutron) [![App Store][app-store Icon]](https://apps.apple.com/我们/app/clovery-for-google-apps/id1552618413）
@@ -962,7 +963,7 @@
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)  - 显示有关 Mac 中电池的实时信息. 包括：生产日期、容量、循环次数、电池状态、温度、放电功率.
 * [Coolant](https://coolantformac.com) - 菜单栏应用程序可让您知道应用程序何时消耗 100% 的 CPU 或超过 1 GB 的内存（或您选择的任何任意限制）.
 * [DaisyDisk](https://daisydiskapp.com/)  - 提供磁盘使用情况的一个很好的概述. 还可以通过清理磁盘来提供更多可用磁盘空间.
-* [gfxCardStatus](https://gfx.io/)  - 用于 OS X 的不显眼的菜单栏应用程序，允许 MacBook Pro 用户通过使用更耗电的图形来查看哪些应用程序正在影响他们的电池寿命.  ![免费软件][免费软件图标]
+* [gfxCardStatus](https://gfx.io/)  - 适用于 OS X 的不显眼的菜单栏应用程序，允许 MacBook Pro 用户通过使用更耗电的图形来查看哪些应用程序正在影响他们的电池寿命.  ![免费软件][免费软件图标]
 * [Gray](https://github.com/zenangst/Gray)  - 只需单击一个按钮，即可在每个应用程序的基础上在浅色外观和深色外观之间进行选择.  ![免费软件][免费软件图标] [![开源软件][OSS图标]](https://github.com/zenangst/Gray)
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/)  - HTML 5 视频播放器. 防止您的 Mac “燃烧”.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 菜单栏上的高级 Mac 系统监视器.

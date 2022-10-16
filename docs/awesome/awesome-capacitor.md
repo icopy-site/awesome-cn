@@ -109,7 +109,6 @@
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - 记录屏幕并保存到pelicule.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - 使用 RevenueCat 轻松进行电容器应用内购买和订阅.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - 浏览器在带有 urlChangeEvent 的应用浏览器中.
-- [Native geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - 本机正向和反向地理编码.
 
 ## [Capawesome plugins](https://capawesome.io/)
 拥有的插件 [Capawesome organisation](https://github.com/capawesome-team) 并由 [@robingenz](https://github.com/robingenz).
@@ -126,7 +125,7 @@
 - [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - 电容插件，支持 Android 上的暗模式.
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
-- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
+- [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 电容器插件，允许用户编辑照片.
 
 ## Other plugins

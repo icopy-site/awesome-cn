@@ -204,7 +204,7 @@ Neovim 支持多种 UI.
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Lua 中的又一棵书呆子树.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree)  - Neovim 的文件管理器. 比NERDTree好.
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - Neovim 插件，可让您在 Neovim 中使用您最喜欢的终端文件管理器（和模糊查找器）.
-- [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neo-tree 是一个 Neovim 插件，用于浏览文件系统和其他树状结构，以适合您的任何样式，包括侧边栏、浮动窗口、netrw 拆分样式或同时浏览所有这些样式.
+- [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neo-tree 是一个 Neovim 插件，可以以任何适合您的风格浏览文件系统和其他类似树的结构，包括侧边栏、浮动窗口、netrw 拆分样式或同时浏览所有这些.
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - Neovim 的文件管理器，可让您像编辑文本一样编辑文件系统.
 - [theblob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - 用 Lua 编写的简单且可配置的文件浏览器.
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - 用 Lua 编写的 Neovim 的简单目录树查看器.
@@ -416,11 +416,12 @@ Neovim 支持多种 UI.
 - [NFrid/due.nvim](https://github.com/NFrid/due.nvim) - 将日期字符串的到期日期显示为虚拟文本.
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) - 在 Neovim 中绘制 ASCII 图表.
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) - Neovim 的 Google Keep 集成.
-- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - Neovim (lua) 插件，用于处理基于文本的 Markdown zettelkasten / wiki 并将其与基于望远镜.nvim 的期刊混合.
+- [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a text-based, markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim.
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - 用于 zk 的 Neovim 扩展，纯文本笔记助手.
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) - 阅读 Neovim 中的 Notion.so 注释.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 黑曜石的 Neovim 插件，用 Lua 编写.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - 从您最喜欢的编辑器中管理您的参考书目.
+- [ostralyan/scribe.nvim](https://github.com/ostralyan/scribe.nvim) - 轻松记笔记.
 
 ### Utility
 
@@ -433,6 +434,7 @@ Neovim 支持多种 UI.
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - 根据不同的条件删除多个 Vim 缓冲区.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - 将选择或缓冲区发布到在线粘贴箱.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - Neovim 的精美、可配置的通知管理器.
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 高度实验性的插件，完全取代了消息、命令行和弹出菜单的 UI.
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) - 为 Neovim 切换行尾的任何字符.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - 改进内置的 `vim.ui` 接口与望远镜、fzf 等.
 - [gaborvecsei/cryptoprice.nvim](https://github.com/gaborvecsei/cryptoprice.nvim) - 检查定义的加密货币的价格.
@@ -531,7 +533,7 @@ Neovim 支持多种 UI.
 - [Olical/conjure](https://github.com/Olical/conjure) - Neovim 的交互式评估（Clojure、Fennel、Janet、Racket、Hy、MIT Scheme、Guile）.
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Neovim 内无缝、透明的茴香.
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine：Neovim 的 Fennel 集成，旨在尽可能快.
-- [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: Fennel macro library for Neovim.
+- [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - 调味 :hibiscus：Neovim 的茴香宏库.
 
 ### Dependency management
 

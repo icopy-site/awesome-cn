@@ -240,7 +240,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Miscellaneous
 
 * [Can I use](https://caniuse.com/) - 浏览器支持 CSS、HTML5 和其他前端 Web 技术.
-* [Flexbox Patterns](https://flexboxpatterns.com/) 通过 cjcenizal
+* [Flexbox Patterns](https://flexboxpatterns.com/) 是一个场景
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - 为 glassmorphism 生成 CSS.
 * [GradientArt](https://gra.dient.art/) - 具有分层、设计工具和免费云存储的高级 CSS 渐变编辑器.
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - 适用于 Chrome、Firefox 和 Edge 的魔法 CSS 扩展.
@@ -283,7 +283,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Donovan Hutchinson](https://twitter.com/donovanh)  - 设计师、开发者、作家. 偶尔在 http://Hop.ie 上写博客，目前正在构建 @cssanimation.
 * [Dudley Storey](https://twitter.com/dudleystorey) - Web 开发作家、教师和演讲者.
 * [Eric Bidelman](https://twitter.com/ebidel) - Google 工程师，负责 Chrome、Web 组件和 Polymer.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计者.  @multimedial_utn HTML5 &amp; CSS Freak 教授. 临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5 &amp; CSS Freak 教授. 临时翻译.
 * [Guy Routledge](https://twitter.com/guyroutledge) - 前端开发人员，@GA_London 老师，http://www.atozcss.com 的 Screencaster，财产势利小人，美食家.
 * [Harry Roberts](https://twitter.com/csswizardry)- 顾问前端架构师：@google、@Etsy、@kickstarter、@BBC、@Deloitte、@FT 等.
 * [Heydon Pickering](https://twitter.com/heydonworks)  - 适度消费大米. 也是 UX 设计师、作者、@smashingmag 编辑器和程序员.
@@ -344,6 +344,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – 真正有助于将您的设计技能提升到一个全新的水平
 * [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – 日常网页设计问题的更好解决方案
 * [Every Layout: Relearn CSS Layout](https://every-layout.dev/) – 使用算法设计解决响应式布局问题.
+* [Tiny CSS Projects](https://www.manning.com/books/tiny-css-projects) – 在构建 12 个小型项目时改进编写 CSS 的方式.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -367,7 +368,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 [sotayamashita]：https://github.com/sotayamashita
 [Rishabh04-02]：https://github.com/Rishabh04-02
 
-[@sotayamashita] [sotayamashita]，[@Rishabh04-02] [Rishabh04-02] 还有你！
+[@sotayamashita][sotayamashita]、[@Rishabh04-02][Rishabh04-02] 还有你！
 
 
 ## Contribute

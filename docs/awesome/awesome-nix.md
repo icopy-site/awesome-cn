@@ -68,6 +68,7 @@
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Nixpkgs 包表达式的自以为是的 linter.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - 在 Nix/NixOS 上轻松运行未打补丁的二进制文件.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - 解释为什么两个 Nix 派生不同的工具.
+* [nix-du](https://github.com/symphorien/nix-du) - 可视化要删除哪些 gc-root 以释放 Nix 存储中的一些空间.
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位具有特定文件的 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
