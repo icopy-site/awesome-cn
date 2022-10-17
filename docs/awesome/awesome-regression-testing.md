@@ -76,6 +76,7 @@
 - [Selenide](https://github.com/selenide/selenide) - 由 Selenium WebDriver 提供支持的框架，用于在 Java 中编写易于阅读和易于维护的自动化测试.
 - [Karma](http://karma-runner.github.io/latest/index.html) - AngularJS 团队的测试运行器，满足我们的所有需求.
 - [Touca](https://github.com/trytouca/trytouca) - 开源连续回归测试，无需管理快照文件.
+- [Lost Pixel](https://github.com/lost-pixel/lost-pixel) - 对整页、组件（通过 Storybook 和 Ladle 集成）和自定义镜头（例如通过 Cypress）进行整体视觉回归测试.
 
 ## Online services
 

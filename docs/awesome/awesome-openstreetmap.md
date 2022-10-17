@@ -76,7 +76,7 @@
 
 ### Web Services
 
-* [osmcha](https://osmcha.mapbox.com)  - 可疑变更集的检测器.  ([Source Code](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
+* [osmcha](https://osmcha.org)  - 可疑变更集的检测器.  ([Source Code](https://github.com/mapbox/osmcha-frontend) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMCha))
 * [achavi](https://overpass-api.de/achavi/)  - 增强的更改查看器.  ([Source Code](https://github.com/nrenner/achavi/) / [Wiki](https://wiki.openstreetmap.org/wiki/Achavi))
 * [Osm Change Viz](https://resultmaps.neis-one.org/osm-change-viz) - 变更集可视化器在不同面板中显示有关添加/修改/删除元素的信息.
 * [changeset-map](http://osmlab.github.io/changeset-map/)  - 映射可视化所选变更集中的更改. 用于 OsmCha.  ([Source Code](https://github.com/osmlab/changeset-map))
@@ -190,6 +190,7 @@
 * [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/)  - 映射时间戳以复制序列.  ([Source Code](https://github.com/MaZderMind/replicate-sequences))
 * [planet.osm](http://planet.osm.org)  - 每分钟/每周/每年/完整转储 osm 数据.  ([Wiki](https://wiki.openstreetmap.org/wiki/Planet.osm))
 * [bbbike](https://extract.bbbike.org)  - 来自planet.osm 的自定义区域提取.  ([Wiki](https://wiki.openstreetmap.org/wiki/BBBike_@_World))
+* [OSMCha API](https://osmcha.org/api-docs/)  - 强大的 API，允许查询和检索变更集信息.  ([Source Code](https://github.com/willemarcel/osmcha-django))
 
 ## Miscellaneous
 

@@ -98,7 +98,7 @@
 
 ### Playlists
 
-* [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - 2019 年 9 月
+* [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - Sep 2019
 * [Elm Europe 2019](https://www.youtube.com/playlist?list=PL-cYi7I913S_oRLJEpsVbSTq_OOMSXlPD) - Jun 2019
 * [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
 * [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) - 2019 年 2 月
@@ -146,9 +146,8 @@
 
 *收听有关榆树的播客*
 
-* [Elm Town](https://elmtown.github.io/) - 关于 Elm 社区中人们的播客.
-* [Implementing Elm](https://www.implementingelm.com/) - 深入研究具体问题以帮助 Elm 社区.
 * [Elm Radio](https://elm-radio.com) - 调整 Elm 生态系统中的工具和技术.
+* [Elm Town](https://elmtown.github.io/) - 关于 Elm 社区中人们的播客（已过时）.
 
 ### Individual Podcast episodes
 
@@ -178,15 +177,20 @@
 
 ## Code generators
 
-* [HTML to Elm](http://mbylstra.github.io/html-to-elm/)  - 将 HTML 转换为 Elm Html. 将应用程序移植到 Elm 时很有用.
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - 为 Elm 生成 OpenApi 类型.
+* [Elm Bridge](https://github.com/agrafix/elm-bridge) - 从 Haskell 生成 Elm 类型
+* [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) - 生成 Elm 代码
 * [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - 在 Elm 和 TypeScript 之间建立编码器/解码器.
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - 从 Elm 生成 TypeScript 定义（`Elm TS Interop` 是它的改进版本）.
-* [Quicktype](https://github.com/quicktype/quicktype) - 从 JSON 生成 JSON 解码器和编码器
-* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - 从 JSON 模式规范生成 Elm 类型、JSON 解码器、JSON 编码器和模糊测试
-* [Elm Bridge](https://github.com/agrafix/elm-bridge) - 从 Haskell 生成 Elm 类型
+* [elm-gql](https://github.com/vendrinc/elm-gql) - 从 GraphQL 查询生成 GraphQl 客户端代码
+* [elm-graphql](https://github.com/dillonkearns/elm-graphql) - 从 GraphQL 模式生成 GraphQl 客户端代码
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - 从 Haskell 类型生成 Elm 类型、编码器和解码器
+* [HTML to Elm](http://mbylstra.github.io/html-to-elm/)  - 将 HTML 转换为 Elm Html. 将应用程序移植到 Elm 时很有用.
+* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - 从 JSON 模式规范生成 Elm 类型、JSON 解码器、JSON 编码器和模糊测试
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - 为 Elm 生成 OpenApi 类型.
 * [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - 在你的榆树里放一些顺风
+* [Protoc Gen Elm](https://github.com/andreasewering/protoc-gen-elm) - 从 .proto 文件生成 Protobuf En/Decoders
+* [Quicktype](https://github.com/quicktype/quicktype) - 从 JSON 生成 JSON 解码器和编码器
+* [Travelm Agency](https://github.com/andreasewering/travelm-agency) - 从翻译文件生成类型安全的 Elm 代码
 
 
 ---
@@ -241,8 +245,9 @@
 
 *为 Elm 带来框架方法的项目（脚手架、路线生成等）*
 
-- [elm-spa](https://www.elm-spa.dev/) - 单页应用程序变得简单
-- [Spades](https://github.com/rogeriochaves/spades) - 启动 Elm SPA，为现实世界做好准备
+- [elm-spa](https://www.elm-spa.dev/) - 在 Elm 中制作单页应用程序的框架.
+- [Elm Land](https://elm.land/) - 用于构建 Elm 应用程序的框架.
+- [Spades](https://github.com/rogeriochaves/spades) - 启动 Elm SPA，为现实世界做好准备.
 
 ---
 
@@ -285,9 +290,13 @@
 
 ## Compile and bundle
 
-* [elm-compiler](https://github.com/elm/compiler) - Elm 编程语言的编译器.
-* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Elm 编程语言的 Webpack 加载器.
-* [Parcel](https://parceljs.org/languages/elm/) - 使用包裹捆绑榆树
+* [elm-compiler](https://github.com/elm/compiler) - 官方 Elm 编译器.
+* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack 加载器 Elm.
+* [Parcel](https://parceljs.org/languages/elm/) - 使用包裹捆绑榆树.
+* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - Elm 的 Vite 插件.
+
+### Unmaintained
+
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - 将 Elm 文件编译为 JavaScript 的 Grunt 插件.
 
 
@@ -391,7 +400,7 @@
 ### Games
 
 * [elm-games](https://github.com/rofrol/elm-games) - Elm 制作的优秀游戏列表
-
+* [TheSpace App](https://github.com/thematters/thespace-app) - 像 DApp 这样的 reddit 地方，在 Elm 中集成了区块链和画布（通过端口）.
 
 
 ---
@@ -405,7 +414,7 @@
 * [Discourse](https://discourse.elm-lang.org/) - Elm Discourse 实例（官方论坛）.
 * [Reddit](https://www.reddit.com/r/elm) - reddit 上的榆树板.
 * [IRC](http://webchat.freenode.net/?channels=elm) - 在 elm freenode 上提问.
-* [Slack](http://elmlang.herokuapp.com/) - 榆树松弛社区.
+* [Slack](https://elm-lang.org/community/slack) - 榆树松弛社区.
 
 
 ---
@@ -434,7 +443,7 @@
 * [Redux](https://redux.js.org/introduction/prior-art) - JavaScript 应用程序的可预测状态容器.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET 多平台应用程序 UI
-* [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
+* [Oolong](https://oolong-kt.org/) - 受 Elm 启发的 Kotlin 多平台模型视图更新 (MVU) 实现.
 
 
 ---

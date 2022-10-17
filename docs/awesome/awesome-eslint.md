@@ -76,7 +76,7 @@
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - 为 css 模块检查未定义或未使用的规则.
 - [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) - ESLint 情绪规则.
 - 样式化的组件
-  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - 自动修复 ESlint 样式化组件的规则.
+  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - 自动修复 ESlint 的样式化组件规则.
   - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y 用于样式化组件.
 
 ### Deprecation
@@ -127,7 +127,7 @@
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  - 整理、格式化和自动修复您的 JSON 文件. 对您的“package.json”进行排序.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - 用于 JSON、JSONC 和 JSON5 的 ESLint 插件.
   - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - 使用 JSON Schema Validator 验证在 JavaScript、JSON、YAML 和 TOML 中定义的数据.
-- [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
+- [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - MDX 的 ESLint 解析器/插件.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) - 附加 ESLint 的 Node.js 规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - ESLint 的 SQL linting 规则.
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - TOML 的 ESLint 插件.
@@ -154,6 +154,7 @@
 ### Misc
 
 - [Diff](https://github.com/paleite/eslint-plugin-diff)  - 仅在您更改的行上运行 ESLint. 还支持CI！
+- [Misc](https://github.com/ilyub/eslint-plugin-misc) - 其他规则，包括用于创建自定义检查和包装（修改）第三方规则的规则.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 检查文件顶部并修复它们的 eslint 规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) - 将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) - 将所有规则转换为警告.
@@ -168,12 +169,14 @@
 - [Babel](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - 添加内置规则的替换以包含 Babel 功能.
 - [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - 确保项目检查文件结构和依赖项中的元素尊重您的架构边界.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - 关于 ESLint 指令注释的最佳实践（`/*eslint-disable*/` 等）.
+- [eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - 一个可帮助您实施六边形架构最佳实践的插件.
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - 在评论中执行良好的写作风格.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - 函数式编程的 ESLint 规则.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint 规则在 JavaScript 和 TypeScript 中禁用突变并提升 fp.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - 禁用 JavaScript 中的所有突变.
 - [import](https://github.com/benmosher/eslint-plugin-import) - ES2015+ 导入/导出语法的 Linting，并防止文件路径和导入名称拼写错误的问题.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用 `new` 抛出错误.
+- [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - 对诸如 `Math.max(...args)` 等表达式的 Lints 可能导致大型数组的堆栈溢出.
 - [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告使用 `this` 和 `bind` 或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - ESLint 的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 现在是 2019 年，你还在使用循环吗？
@@ -209,7 +212,7 @@
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - 确保 JavaScript 文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - ESLint 的特定于切换案例的 linting 规则.
-- [padding](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
+- [padding](https://github.com/mu-io/eslint-plugin-padding) - 允许/禁止语句之间的填充.
 
 ### Testing Tools
 
@@ -247,7 +250,7 @@
 <!-- ignore is to keep "github" lower-case -->
 <!--lint ignore awesome-spell-check-->
 
-- [badger](https://github.com/brettz9/eslint-formatter-badger) - 制作基于 SVG 的徽章来总结 ESLint 结果（例如，用于自述文件）.
+- [badger](https://github.com/brettz9/eslint-formatter-badger) - 制作基于 SVG 的徽章来总结 ESLint 结果（例如，用于 README）.
 - [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - 具有 Git Author、Date 和 Hash 的 ESLint 格式化程序.
 - [github](https://github.com/hipstersmoothie/eslint-formatter-github) - 直接在拉取请求中查看 ESLint 错误和警告.
 - [gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - 在 GitLab 代码质量结果中输出 ESLint 结果.
@@ -267,7 +270,7 @@
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - 为 `.eslintrc.js` 文件提供 `defineConfig` 函数.
 - [es-file-traverse](https://github.com/brettz9/es-file-traverse)  - 仅从一个或多个入口文件中获取基于导入和/或需要正在使用的文件的列表； 可传递给 ESLint 的列表. 打算特别. 用于检查 3rd 方依赖项.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - 查找自定义配置中没有的内置 ESLint 规则.
-- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI 用于在 ESLint 配置文件中查找和管理规则.
+- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
 - [eslint-interactive](https://github.com/mizdra/eslint-interactive) - 修复大量 ESLint 错误的 CLI 工具.
 - [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - 复用 eslint 结果和合并公共文件的结果.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 通过一次修复一条规则来轻松进入 ESLint.
@@ -296,4 +299,4 @@
 
 ## Installation and Setup
 
-- [Lintier](https://github.com/josh-stillman/lintier) - CLI 在 TypeScript 项目中快速搭建 ESLint 和 Prettier 设置.
+- [Lintier](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
