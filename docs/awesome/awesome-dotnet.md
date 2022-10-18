@@ -996,6 +996,7 @@ Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-ph
 * [Mustache Sharp](https://github.com/jehugaleahsa/mustache-sharp) - .NET 的 mustache 文本模板引擎的扩展.
 * [Scriban](https://github.com/lunet-io/scriban) - 用于 .NET 的快速、强大、安全和轻量级的文本模板语言和引擎
 * [Morestachio](https://github.com/JPVenson/morestachio) - 一个全尺寸的 {{mustache}} 模板引擎，专注于可扩展性.
+* [Fluid](https://github.com/sebastienros/fluid) - Fluid 是一个基于 Liquid 模板语言的开源 .NET 模板引擎.
 
 ## Testing
 

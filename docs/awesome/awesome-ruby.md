@@ -325,7 +325,7 @@
 
 * [Chartkick](http://chartkick.com/) - 用一行 Ruby 创建漂亮的 Javascript 图表.
 * [GeoPattern](https://github.com/jasonlong/geo_pattern) - 从字符串创建漂亮的生成几何背景图像.
-* [LazyHighCharts](https://github.com/michelson/lazy_high_charts)  - 一种从 ruby​​ 代码中使用 HighCharts 的简单且极其灵活的方法. 在 Ruby on Rails、Sinatra 和 Nanoc 上进行了测试，但它也应该可以与其他人一起使用.
+* [LazyHighCharts](https://github.com/michelson/lazy_high_charts)  - 一种从 ruby​​ 代码中使用 HighCharts 的简单且极其灵活的方式. 在 Ruby on Rails、Sinatra 和 Nanoc 上进行了测试，但它也应该可以与其他人一起使用.
 * [ApexCharts.rb](https://github.com/styd/apexcharts.rb)  - 您的 ruby​​ 应用程序的精彩图表. 适用于任何 ruby​​ 应用程序，包括 Rails 应用程序. 它甚至适用于纯 HTML+ERB 文件.
 * [RailRoady](https://github.com/preston/railroady) - Ruby on Rails 3/4 模型和控制器 UML 类图生成器.
 * [Rails Erd](https://github.com/voormedia/rails-erd) - 为 Rails 应用程序生成实体关系图.
@@ -626,7 +626,7 @@
 * [HappyMapper](https://github.com/dam5s/happymapper) - 对象到 XML 映射库，使用 Nokogiri.
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) - HTML 处理过滤器和实用程序.
 * [Nokogiri](https://nokogiri.org) - 具有 XPath 和 CSS 选择器支持的 HTML、XML、SAX 和 Reader 解析器.
-* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，使得在各种平台上安装更容易、更快捷.
+* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，在各种平台上安装更容易、更快捷.
 * [Ox](https://github.com/ohler55/ox) - 一个快速的 XML 解析器和对象编组器.
 * [ROXML](https://github.com/Empact/roxml) - 通过 Nokogiri 或 LibXML，使用注释样式的类方法在 Ruby 和 XML 之间进行自定义映射和双向编组.
 
@@ -788,7 +788,7 @@
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - 用于 Ruby 的 RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) - Redis 的对象哈希映射库.
 * [Redis-Objects](https://github.com/nateware/redis-objects) - Redis Objects 通过 redis gem 上的薄层将 Redis 数据类型映射到 Ruby 对象，为 Redis 提供 Rubyish 接口.
-* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，旨在提供强大的对象映射功能，而不会限制数据存储的全部功能.
+* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，其目标是在不限制数据存储的全部功能的情况下提供强大的对象映射功能.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel 是一个简单、灵活、强大的 Ruby 的 SQL 数据库访问工具包.
 
 ## ORM/ODM Extensions
@@ -1194,6 +1194,7 @@
 * [tweetstream](https://github.com/tweetstream/tweetstream) - 一个用于使用 Twitter 的 Streaming API 的简单库.
 * [twilio-ruby](https://github.com/twilio/twilio-ruby) - 用于使用 Twilio REST API 和生成有效 TwiML 的模块.
 * [twitter](https://github.com/sferik/twitter) - Twitter API 的 Ruby 接口.
+* [whatsapp-sdk](https://github.com/ignacio-chiazzo/ruby_whatsapp_sdk) - Whatsapp API 的 Ruby 客户端.
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) - 用于 Wikipedia API 的 Ruby 客户端.
 * [Yt](https://github.com/Fullscreen/yt) - YouTube API V3 的面向对象的 Ruby 客户端.
 

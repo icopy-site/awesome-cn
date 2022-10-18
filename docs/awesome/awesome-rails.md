@@ -64,7 +64,6 @@
 
 ### Jobs
 
-- [Stack Overflow](https://stackoverflow.com/jobs/developer-jobs-using-ruby-on-rails)
 - [railsjobs on Reddit](https://www.reddit.com/r/railsjobs/)
 - [rails jobs on indeed.com](https://www.indeed.com/q-Ruby-On-Rails-jobs.html)
 - [rails jobs on glassdoor.com](https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm)
@@ -74,6 +73,7 @@
 - [reverse job board for rails devs - railsdevs.com](https://railsdevs.com)
 - [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
 - [rails jobs on web3.career](https://web3.career/ruby-jobs)
+- [rails jobs on rubyonremote.com](https://rubyonremote.com/)
 
 &gt; 提示：您可以在以下位置找到远程工作板列表，包括 Rails 工作 [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
@@ -244,95 +244,95 @@
 
  &gt; 注意：这些应用程序的 Rails 版本以最新提交日期为准. 它们在 Gemfile 和/或 Gemfile.lock 中定义，可能已过时. 如果您发现它已过时，请不要忘记通过打开拉取请求来通知我们.
 
-- [activeWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理的智能流程和工作流自动化平台（使用 Rails 5.2）.
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - 一个公民基础设施检测应用程序（使用 Rails 4.2）.
-- [airCasting](https://github.com/HabitatMap/AirCasting)  - 使用智能手机（使用 Rails 5.2）记录、映射和共享健康和环境数据的平台.  - [:earth_africa:](https://www.habitatmap.org/aircasting)
-- [alaveteli](https://github.com/mysociety/alaveteli) - 一个公开信息请求自由的平台 - 使用 Rails 5.1 - [:earth_africa:](https://alaveteli.org)
+- [activeWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理的智能流程和工作流自动化平台（使用 Rails 6.0）.
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
+- [airCasting](https://github.com/HabitatMap/AirCasting)  - 使用智能手机（使用 Rails 6.1）记录、映射和共享健康和环境数据的平台.  - [:earth_africa:](https://www.habitatmap.org/aircasting)
+- [alaveteli](https://github.com/mysociety/alaveteli) - 一个公开信息请求自由的平台 - 使用 Rails 7.0 - [:earth_africa:](https://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone)  - 一个音乐托管、管理和分发应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://alonetone.com)
-- [api.rss](https://github.com/davidesantangelo/api.rss) - RSS 提要转换（到 API）应用程序（使用 Rails 5.2）.
+- [api.rss](https://github.com/davidesantangelo/api.rss) - 一个 RSS 提要转换（到 API）应用程序（使用 Rails 6.0）.
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite)  - 面向开发人员的实时聊天应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://www.codefirst.org/AsakusaSatellite/)
 - [askaway](https://github.com/askaway/askaway) - 专门研究政治的问答应用程序（使用 Rails 4.1）.
-- [autolab](https://github.com/autolab/Autolab)  - 一个课程管理应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://autolabproject.com/)
+- [autolab](https://github.com/autolab/Autolab)  - 课程管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://autolabproject.com/)
 - [beatstream](https://github.com/Darep/Beatstream) - 音乐流媒体应用 - 使用 Rails 3.2
-- [bike_index](https://github.com/bikeindex/bike_index)  - 一个自行车登记跟踪应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://bikeindex.org)
-- [blackCandy](https://github.com/aidewoode/black_candy) - 一个音乐流媒体应用程序（使用 Rails 6.0）.
+- [bike_index](https://github.com/bikeindex/bike_index)  - 一个自行车登记跟踪应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://bikeindex.org)
+- [blackCandy](https://github.com/aidewoode/black_candy) - 一个音乐流媒体应用程序（使用 Rails 7.0）.
 - [brimir](https://github.com/ivaldi/brimir)  - 一个电子邮件帮助台应用程序（使用 Rails 5.2）.  （存档）.
-- [calagator](https://github.com/calagator/calagator) - 一个社区日历应用程序（使用 Rails 4.2）.
-- [campo](https://github.com/chloerei/campo)  - 一个论坛应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://codecampo.com/)
+- [calagator](https://github.com/calagator/calagator) - 一个社区日历应用程序（使用 Rails 5.2）.
+- [campo](https://github.com/chloerei/campo)  - 一个论坛应用程序（使用 Rails 4.1）.  - [:earth_africa:](https://codecampo.com/)
 - [canvas-lms](https://github.com/instructure/canvas-lms) - 一个学习管理应用程序（使用 Rails 5.2）.
 - [catarse](https://github.com/catarse/catarse)  - 用于创意项目的众筹平台（使用 Rails 4.2）.  - [:earth_africa:](https://www.catarse.me/)
-- [chatwoot](https://github.com/chatwoot/chatwoot) - 一个简单优雅的实时聊天软件（使用 Rails 6.0）.
+- [chatwoot](https://github.com/chatwoot/chatwoot) - 一个简单优雅的实时聊天软件（使用 Rails 6.1）.
 - [ciao](https://github.com/brotandgames/ciao) - 一个 URL 状态检查应用程序（使用 Rails 6.0）.
 - [coRM](https://github.com/SIGIRE/CoRM) - 客户关系管理应用程序 - 使用 Rails 3.2 - [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) - 软件工程师的社交网络应用程序 - 使用 Rails 3.2
 - [coderwall (next)](https://github.com/coderwall/coderwall-next) - 软件工程师的社交网络应用程序 - 使用 Rails 5.0
-- [codetriage](https://github.com/codetriage/codetriage)  - 一个开源项目查找器应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://www.codetriage.com/)
+- [codetriage](https://github.com/codetriage/codetriage)  - 一个开源项目查找器应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://www.codetriage.com/)
 - [commudle](https://github.com/commudle/commudle) - 一个社区管理应用程序（使用 Rails 5.2）.
 - [contribulator](https://github.com/24pullrequests/contribulator) - 一个开源项目查找器应用程序 - 使用 Rails 5.1
-- [coursemology2](https://github.com/Coursemology/coursemology2) - 学习平台应用程序（使用 Rails 5.2）.
+- [coursemology2](https://github.com/Coursemology/coursemology2) - 学习平台应用程序（使用 Rails 6.0）.
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - 拼车应用程序 - 使用 Rails 5.0（存档）.
-- [crabgrass-core](https://0xacab.org/liberate/crabgrass) - 激进组织的协作平台（使用 Rails 4.2）.
+- [crabgrass-core](https://0xacab.org/liberate/crabgrass) - 激进组织的协作平台（使用 Rails 5.2）.
 - [crowdAI](https://github.com/crowdAI/crowdai)  - 数据科学挑战应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.crowdai.org/)
-- [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - 一个众筹平台 - 使用 Rails 3.2
-- [cw-ovp](https://github.com/x1wins/CW-OVP) - video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
-- [danbooru](https://github.com/danbooru/danbooru) - 一个可标记的图像板应用程序（使用 Rails 6.0）.
-- [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - 案例管理应用程序（使用 Rails 5.2）.
-- [dgidb](https://github.com/dgidb/dgidb) - 一个药物基因交互平台——使用Rails 5.1
-- [diaper](https://github.com/rubyforgood/diaper)  - 尿布库的库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://diaper.app/)
-- [diaspora](https://github.com/diaspora/diaspora) - 一个社交网络应用程序 - 使用 Rails 5.1 - [:earth_africa:](https://diasporafoundation.org)
-- [discourse](https://github.com/discourse/discourse)  - 社区讨论平台（使用 Rails 6.0）.  - [:earth_africa:](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - 农场管理应用程序（使用 Rails 4.2）.
+- [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - 一个众筹平台 - 使用 Rails 6.1
+- [cw-ovp](https://github.com/x1wins/CW-OVP) - 将视频打包到 \*.m3u8 以在网站上使用 FFMPEG（使用 Rails 6.0）进行 HLS（HTTP Live Streaming）.
+- [danbooru](https://github.com/danbooru/danbooru) - 一个可标记的图像板应用程序（使用 Rails 7.0）.
+- [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - 案例管理应用程序（使用 Rails 7.0）.
+- [dgidb](https://github.com/dgidb/dgidb) - 药物基因交互平台——使用Rails 6.0
+- [diaper](https://github.com/rubyforgood/diaper)  - 尿布库的库存管理应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://diaper.app/)
+- [diaspora](https://github.com/diaspora/diaspora) - 一个社交网络应用程序 - 使用 Rails 6.1 - [:earth_africa:](https://diasporafoundation.org)
+- [discourse](https://github.com/discourse/discourse)  - 社区讨论平台（使用 Rails 7.0）.  - [:earth_africa:](https://try.discourse.org/)
+- [ekylibre](https://github.com/ekylibre/ekylibre) - 一个农场管理应用程序（使用 Rails 5.0）.
 - [postal](https://github.com/postalhq/postal) - 一个邮件传递平台（使用 Rails 5.2）.
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 具有加密支持的消息传递应用程序（使用 Rails 4.2）.
 - [eol](https://github.com/EOL/eol) - 一个百科全书应用程序 - 使用 Rails 3.2 - [:earth_africa:](https://eol.org/)
-- [expertiza](https://github.com/expertiza/expertiza) - 一个学习资料共享应用程序（使用 Rails 4.2）.
+- [expertiza](https://github.com/expertiza/expertiza) - 学习资料共享应用程序（使用 Rails 5.1）.
 - [FAE](https://github.com/wearefine/fae/) - FINE 开发的现代 CMS（使用 Rails 5.2）
-- [fairmondo](https://github.com/fairmondo/fairmondo)  - 一个市场应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://www.fairmondo.de)
-- [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm)  - 一个开源的 Ruby on Rails 客户关系管理平台 (CRM)（使用 Rails 5.2）.  - [:earth_africa:](http://www.fatfreecrm.com/)
-- [feedbin](https://github.com/feedbin/feedbin)  - 一个 RSS 阅读器应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://feedbin.com)
+- [fairmondo](https://github.com/fairmondo/fairmondo)  - 一个市场应用程序（使用 Rails 5.1）.  - [:earth_africa:](https://www.fairmondo.de)
+- [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm)  - 一个开源的 Ruby on Rails 客户关系管理平台 (CRM)（使用 Rails 6.1）.  - [:earth_africa:](http://www.fatfreecrm.com/)
+- [feedbin](https://github.com/feedbin/feedbin)  - 一个 RSS 阅读器应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all)  - 一个 Twitter 帐户管理应用程序（使用 Rails 4.2）.  （存档）.
-- [forem](https://github.com/forem/forem)  - 专门用于 Web 开发的社交平台应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.forem.com)
-- [fromthepage](https://github.com/benwbrum/fromthepage)  - 一个类似于 wiki 的应用程序，用于众包手写文档的转录（使用 Rails 4.1）.  - [:earth_africa:](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - 代码协作应用程序（使用 Rails 6.0）.
+- [forem](https://github.com/forem/forem)  - 专门用于 Web 开发的社交平台应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://www.forem.com)
+- [fromthepage](https://github.com/benwbrum/fromthepage)  - 一个类似于 wiki 的应用程序，用于众包手写文档的转录（使用 Rails 6.0）.  - [:earth_africa:](https://www.fromthepage.com/)
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - 代码协作应用程序（使用 Rails 6.1）.
 - [graff_mags](https://github.com/dankleiman/graff_mags)  - 涂鸦杂志分享应用程序（使用 Rails 4.1）.  - [:earth_africa:](http://graffmags.herokuapp.com)
-- [growstuff](https://github.com/Growstuff/growstuff)  - 食品园丁的数据管理应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.growstuff.org/)
-- [hackershare](https://github.com/hackershare/hackershare)  - 黑客的社交书签网站（使用 Rails 6.0）.  - [:earth_africa:](https://hackershare.dev/en)
+- [growstuff](https://github.com/Growstuff/growstuff)  - 食品园丁的数据管理应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.growstuff.org/)
+- [hackershare](https://github.com/hackershare/hackershare)  - 黑客的社交书签网站（使用 Rails 7.0）.  - [:earth_africa:](https://hackershare.dev/en)
 - [hashrobot](https://github.com/rysmith/hashrobot)  - 一个社交媒体管理应用程序（使用 Rails 4.2）.  - [:earth_africa:](http://www.hashrobot.com)
 - [helpy](https://github.com/helpyio/helpy)  - 客户支持应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://helpy.io/)
-- [hitobito](https://github.com/hitobito/hitobito)  - 一个活动组织应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://hitobito.com/en)
+- [hitobito](https://github.com/hitobito/hitobito)  - 一个活动组织应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours)  - 时间跟踪应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://happyhours.io)
-- [inaturalist](https://github.com/inaturalist/inaturalist)  - 自然和相关内容的社区应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://www.inaturalist.org)
+- [inaturalist](https://github.com/inaturalist/inaturalist)  - 自然和相关内容的社区应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) - 用于应用部署的控制面板应用（使用 Rails 4.1）.
 - [kanban](https://github.com/seanomlor/kanban) - 一个 Trello 克隆（使用 Rails 4.2）.
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - 一个动漫发现平台（使用 Rails 4.1）.
 - [lavish](https://github.com/mquan/lavish) - 一个配色方案生成器（使用 Rails 4.2）.
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - 职业规划应用程序（使用 Rails 5.2）.
-- [lobsters](https://github.com/lobsters/lobsters)  - 一个链接聚合应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://lobste.rs)
-- [loomio](https://github.com/loomio/loomio)  - 协作决策应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.loomio.org)
-- [mastodon](https://github.com/tootsuite/mastodon)  - 一个微博应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://mastodon.social/about)
+- [lobsters](https://github.com/lobsters/lobsters)  - 一个链接聚合应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://lobste.rs)
+- [loomio](https://github.com/loomio/loomio)  - 协作决策应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.loomio.org)
+- [mastodon](https://github.com/tootsuite/mastodon)  - 一个微博应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://mastodon.social/about)
 - [obtvse2](https://github.com/natew/obtvse2) - 一个博客应用程序（使用 Rails 4.0）.
 - [onebody](https://github.com/seven1m/onebody) - 用于教堂的社交网络应用程序 - 使用 Rails 5.1
 - [openFarm](https://github.com/openfarmcc/OpenFarm)  - 有关农业和园艺的信息数据库（使用 Rails 5.2）.  -
 - [opencongress](https://github.com/sunlightlabs/opencongress) - 获取有关美国国会信息的网站 - 使用 Rails 3.0（已存档）.
-- [openproject](https://github.com/opf/openproject)  - 一个项目管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://www.openproject.org)
-- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)  - 地图查看应用程序（使用 Rails 6.0）.  -  [:earth_africa:](https://www.openstreetmap.org)
+- [openproject](https://github.com/opf/openproject)  - 一个项目管理应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://www.openproject.org)
+- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)  - 地图查看应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://www.openstreetmap.org)
 - [opensourcefriday](https://github.com/github/opensourcefriday)  - 一个项目贡献跟踪应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://opensourcefriday.com)
-- [otwarchive](https://github.com/otwcode/otwarchive) - 粉丝社交网络应用程序 - 使用 Rails 5.1 - [:earth_africa:](https://archiveofourown.org)
-- [passwordPusher](https://github.com/pglombardo/PasswordPusher)  - 一个密码传递应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://pwpush.com)
+- [otwarchive](https://github.com/otwcode/otwarchive) - 粉丝社交网络应用程序 - 使用 Rails 6.0 - [:earth_africa:](https://archiveofourown.org)
+- [passwordPusher](https://github.com/pglombardo/PasswordPusher)  - 一个密码传递应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) - 一个加密货币兑换应用程序（使用 Rails 4.0）.
-- [planningalerts-app](https://github.com/openaustralia/planningalerts)  - 一个计划中的应用程序跟踪应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.planningalerts.org.au)
+- [planningalerts-app](https://github.com/openaustralia/planningalerts)  - 一个计划中的应用程序跟踪应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.planningalerts.org.au)
 - [popHealth](https://github.com/pophealth/popHealth) - 人口健康报告应用程序（使用 Rails 4.1）.
-- [publify](https://github.com/publify/publify) - 一个博客应用程序（使用 Rails 5.2）.
+- [publify](https://github.com/publify/publify) - 一个博客应用程序（使用 Rails 6.1）.
 - [quant](https://github.com/jdjkelly/quant) - 个人健康追踪器（使用 Rails 4.1）.
-- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - 一个自行车比赛组织应用程序（使用 Rails 5.2）.
+- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - 一个自行车比赛组织应用程序（使用 Rails 6.1）.
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) - 援助工作者的信息提供者应用程序（使用 Rails 4.0）.
-- [redmine](https://github.com/edavis10/redmine)  - 一个项目管理应用程序（使用 Rails 5.2）.  - [:earth_africa:](http://demo.redmine.org)
+- [redmine](https://github.com/edavis10/redmine)  - 一个项目管理应用程序（使用 Rails 6.1）.  - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - 一个市场应用程序 -（使用 Rails 4.0）.
 - [reservations](https://github.com/YaleSTC/reservations)  - 一个库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](http://yalestc.github.io/reservations/)
 - [rletters](https://codeberg.org/rletters/rletters)  - 研究人员期刊文章数据库的前端（使用 Rails 6.0）.  - [:earth_africa:](https://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org)  - 一个 gem 托管平台（使用 Rails 7.0）.  - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - 一个帐户跟踪器（使用 Rails 4.2）.
-- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - 数字资产管理应用程序 - 使用 Rails 5.1
+- [scholarsphere](https://github.com/psu-stewardship/scholarsphere) - 数字资产管理应用程序 - 使用 Rails 6.1
 - [selfstarter](https://github.com/apigy/selfstarter) - 众筹应用程序（使用 Rails 4.0）.
 - [sharetribe](https://github.com/sharetribe/sharetribe)  - 点对点市场平台（使用 Rails 5.2）.  - [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) - 一个社交网络平台 - 使用 Rails 5.0
@@ -340,13 +340,12 @@
 - [spokenvote](https://github.com/Spokenvote/spokenvote) - 一个社交投票应用程序（使用 Rails 4.2）.
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) - 一个问答平台 - 使用 Rails 5.0
 - [teambox](https://github.com/redbooth/teambox) - 协作应用程序 - 使用 Rails 3.0 - [:earth_africa:](https://redbooth.com) （存档）.
-- [theodinproject](https://github.com/TheOdinProject/theodinproject)  - 一个教学平台（使用 Rails 5.2）.  - [:earth_africa:](https://www.theodinproject.com/)
-- [tracks](https://github.com/TracksApp/tracks)  - 一个目标跟踪应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.getontracks.org)
+- [theodinproject](https://github.com/TheOdinProject/theodinproject)  - 一个教学平台（使用 Rails 6.1）.  - [:earth_africa:](https://www.theodinproject.com/)
+- [tracks](https://github.com/TracksApp/tracks)  - 一个目标跟踪应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - 一个电子商务平台（使用 Rails 4.2）.
-- [vglist](https://github.com/connorshea/vglist)  - 一个视频游戏库跟踪网络应用程序（使用 Rails 6.0）.  - [:earth_africa:](https://vglist.co/)
-- [websiteOne](https://github.com/AgileVentures/WebsiteOne)  - 一个项目跟踪应用程序（使用 Rails 5.2）.  - [:earth_africa:](https://www.agileventures.org/)
-- [whitehall](https://github.com/alphagov/whitehall) - 英国政府使用的内容管理应用程序 - 使用 Rails 5.1
-
+- [vglist](https://github.com/connorshea/vglist)  - 一个视频游戏库跟踪网络应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://vglist.co/)
+- [websiteOne](https://github.com/AgileVentures/WebsiteOne)  - 一个项目跟踪应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.agileventures.org/)
+- [whitehall](https://github.com/alphagov/whitehall) - 英国政府使用的内容管理应用程序 - 使用 Rails 7.0
 [返回顶部][link_toc]
 
 ## Gems
@@ -391,7 +390,7 @@
 - [annotate](https://github.com/ctran/annotate_models) - 用模式和路线信息注释 Rails 类的 gem. [:red_circle:](https://rubygems.org/gems/annotate)
 - [anycable-rails](https://github.com/anycable/anycable-rails) - 处理 websocket 服务器的 gem. [:red_circle:](https://rubygems.org/gems/anycable-rails)
 - [apipie-rails](https://github.com/apipie/apipie-rails) - 一个 REST API 文档工具. [:red_circle:](https://rubygems.org/gems/apipie-rails)
-- [auther](https://github.com/bkuhlmann/auther) - A gem to provide simple, form-based authentication. [:red_circle:](https://rubygems.org/gems/auther)
+- [auther](https://github.com/bkuhlmann/auther) - 提供简单的、基于表单的身份验证的 gem. [:red_circle:](https://rubygems.org/gems/auther)
 - [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) - 将供应商前缀添加到样式表的 gem. [:red_circle:](https://rubygems.org/gems/autoprefixer-rails)
 - [avo](https://github.com/avo-hq/avo) - 基于配置、免维护、可扩展的 Ruby on Rails 管理面板. [rubygems](https://rubygems.org/gems/avo)
 - [better_errors](https://github.com/BetterErrors/better_errors) - 提供更好的错误页面的工具. [:red_circle:](https://rubygems.org/gems/better_errors)
@@ -430,6 +429,7 @@
 - [premailer-rails](https://github.com/fphilipe/premailer-rails) - 处理电子邮件样式的宝石. [:red_circle:](https://rubygems.org/gems/premailer-rails)
 - [prerender_rails](https://github.com/prerender/prerender_rails) - 预渲染 JavaScript 渲染页面的 gem. [:red_circle:](https://rubygems.org/gems/prerender_rails)
 - [rails-erd](https://github.com/voormedia/rails-erd) - 生成实体关系图的 gem. [:red_circle:](https://rubygems.org/gems/rails-erd)
+- [rails-mermaid_erd](https://github.com/koedame/rails-mermaid_erd) - 以图像或 Markdown 格式交互式生成实体关系图的 gem. [:red_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 - [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) - 将全局设置作为键值对进行管理的 gem. [:red_circle:](https://rubygems.org/gems/rails-settings-cached)
 - [rails_admin](https://github.com/sferik/rails_admin) - 为 Rails 应用程序创建和管理管理面板的 gem. [:red_circle:](https://rubygems.org/gems/rails_admin)
 - [rails_event_store](https://github.com/RailsEventStore/rails_event_store) - 在 Rails 中实现事件存储的 gem [:red_circle:](https://rubygems.org/gems/rails_event_store)
@@ -490,7 +490,7 @@
 - [suspenders](https://github.com/thoughtbot/suspenders) - 带有我们标准默认设置的 Rails 模板，可以部署到 Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails 启动工具包 GitHub 模板，用于开发混合移动应用程序.
 - [rails_api_base](https://github.com/rootstrap/rails_api_base) - 用于 JSON RESTful API 的 Rails 6 样板项目.
-- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - 带有 Hotwire 的 Rails 6 样板项目，用于具有现代 SPA 体验的全栈应用程序.
+- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## Other Rails Tools
 

@@ -45,7 +45,7 @@
 - [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - 专用于 GraphQL 的 Discord 服务器.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯，重点介绍来自 GraphQL 社区的资源和新闻.
 - [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - 跨 Javascript、Java、PHP、Go、Scala 等搜索 graphql 自定义标量.
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
 
 <a name="meetup" />
 
@@ -210,7 +210,7 @@
 - [graphql-client](https://github.com/github/graphql-client) - 用于声明、组合和执行 GraphQL 查询的 Ruby 库.
 - [graphql-batch](https://github.com/Shopify/graphql-batch) - graphql gem 的查询批处理执行器.
 - [graphql-auth](https://github.com/o2web/graphql-auth) - 与设计一起使用的 JWT 身份验证包装器.
-- [agoo](https://github.com/ohler55/agoo) - 实现 Facebook 的 GraphQL 的 Ruby Web 服务器.
+- [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 - [GQLi](https://github.com/contentful-labs/gqli.rb)  - GraphQL 客户端和 DSL. 允许在原生 Ruby 中编写查询.
 
 <a name="rb-example" />
@@ -275,6 +275,7 @@
 #### Python Examples
 
 - [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - 使用 GraphQL 模式和服务器 [Graphene](https://graphene-python.org).
+- [Python Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/python/) - 关于创建 GraphQL 服务器的教程 [Strawberry](https://strawberry.rocks/) 和一个客户 [Qlient](https://qlient-org.github.io/python-qlient/site/).
 
 <a name="java" />
 
@@ -305,7 +306,7 @@
 #### Custom Scalars
 
 - [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date 是一组符合 RFC 3339 的日期/时间标量类型，可与 graphql-java 一起使用.
-- [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java.
+- [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) - graphql-java 的扩展标量.
 
 <a name="java-example" />
 
@@ -317,6 +318,7 @@
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - 使用 GraphQL Java Kickstart 项目的示例.
 - [graphql-java-kickstart-federation-example](https://github.com/setchy/graphql-java-kickstart-federation-example) - GraphQL Java Kickstart 联合示例.
 - [dgs-federation-example](https://github.com/Netflix/dgs-federation-example) - Netflix DGS 联盟示例.
+- [Spring Boot backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/java/) - 使用 Spring Boot 和 Netflix DGS 创建 GraphQL 服务器和客户端的教程.
 
 <a name="kotlin" />
 
@@ -359,6 +361,7 @@
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的 Relay 应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
 - [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - 展示如何使用代码生成制作 Go GraphQL 服务器和客户端的教程.
 
 <a name="scala" />
 
@@ -385,6 +388,12 @@
 - [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
 - [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - 在数据模型之上构建 GraphQL API 的库，具有将多个数据源整合到单个 GraphQL 模式中的可扩展性.
 - [ZeroQL](https://github.com/byme8/ZeroQL) - 类型安全的 GraphQL 客户端，具有类似 Linq 的 C 接口#
+
+<a name="net-example" />
+
+#### .NET Examples
+
+- [.NET backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/dotnet/) - 使用 .NET 创建 GraphQL 服务器和客户端的教程.
 
 <a name="elixir" />
 

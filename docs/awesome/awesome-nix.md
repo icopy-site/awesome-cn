@@ -45,6 +45,7 @@
 
 ## Deployment Tools
 
+* [Cachix Deploy](https://docs.cachix.org/deploy) - 面向开发人员体验的 Nix 部署工具
 * [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为蓝本.
 * [deploy-rs](https://github.com/serokell/deploy-rs) - 一个简单的多配置文件 Nix-flake 部署工具.
 * [krops](https://cgit.krebsco.de/krops/about/) - 用于远程或本地部署 NixOS 系统的轻量级工具包.

@@ -8,8 +8,6 @@
 
 如果你想贡献，请阅读 [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/contributing.md).
 
-<!--lint disable double-link-->
-
 
 
 ## Configs
@@ -31,6 +29,7 @@
 
 - [Auto](https://github.com/davidjbradshaw/eslint-config-auto) - 根据项目的依赖自动配置 ESLint.
 - [Canonical](https://github.com/gajus/eslint-config-canonical) - 可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
+<!-- lint disable double-link -->
 - [Standard](https://github.com/feross/eslint-config-standard) - JavaScript 的可共享配置 [Standard Style](https://github.com/feross/standard).
 - [XO](https://github.com/xojs/eslint-config-xo) - 可共享的配置 [XO](https://github.com/xojs/xo).
 
@@ -76,7 +75,7 @@
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - 为 css 模块检查未定义或未使用的规则.
 - [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) - ESLint 情绪规则.
 - 样式化的组件
-  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - 自动修复 ESlint 的样式化组件规则.
+  - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - 自动修复 ESlint 样式化组件的规则.
   - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y 用于样式化组件.
 
 ### Deprecation
@@ -96,7 +95,7 @@
 - [Angular](https://github.com/angular-eslint/angular-eslint) - Angular (v2+) 的 Linting 规则.
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - 遵守的 Linting 规则 [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Astro](https://github.com/ota-meshi/eslint-plugin-astro) - 插件 [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
-- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Backbone 的 Linting 规则.
+- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
 - [Custom Elements](https://github.com/github/eslint-plugin-custom-elements) - GitHub 的自定义元素规则.
 - [Ember](https://github.com/ember-cli/eslint-plugin-ember) - Ember 的 Linting 规则.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - hapi 的 Linting 规则.
@@ -176,6 +175,7 @@
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - 禁用 JavaScript 中的所有突变.
 - [import](https://github.com/benmosher/eslint-plugin-import) - ES2015+ 导入/导出语法的 Linting，并防止文件路径和导入名称拼写错误的问题.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用 `new` 抛出错误.
+<!-- lint ignore awesome-spell-check -->
 - [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - 对诸如 `Math.max(...args)` 等表达式的 Lints 可能导致大型数组的堆栈溢出.
 - [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告使用 `this` 和 `bind` 或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - ESLint 的自定义规则，用于检查对象文字中的推断方法名称.
@@ -222,6 +222,7 @@
   - [with unused expressions](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
   - [permitted keywords](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
   - [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
+  <!-- lint disable double-link -->
   - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) - 黄瓜的皮毛规则.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - 赛普拉斯的 Linting 规则.
@@ -250,7 +251,7 @@
 <!-- ignore is to keep "github" lower-case -->
 <!--lint ignore awesome-spell-check-->
 
-- [badger](https://github.com/brettz9/eslint-formatter-badger) - 制作基于 SVG 的徽章来总结 ESLint 结果（例如，用于 README）.
+- [badger](https://github.com/brettz9/eslint-formatter-badger) - 制作基于 SVG 的徽章来总结 ESLint 结果（例如，用于自述文件）.
 - [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - 具有 Git Author、Date 和 Hash 的 ESLint 格式化程序.
 - [github](https://github.com/hipstersmoothie/eslint-formatter-github) - 直接在拉取请求中查看 ESLint 错误和警告.
 - [gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - 在 GitLab 代码质量结果中输出 ESLint 结果.
@@ -299,4 +300,4 @@
 
 ## Installation and Setup
 
-- [Lintier](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
+- [Lintier](https://github.com/josh-stillman/lintier) - CLI 在 TypeScript 项目中快速搭建 ESLint 和 Prettier 设置.

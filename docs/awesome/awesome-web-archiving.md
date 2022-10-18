@@ -56,6 +56,7 @@
 * [freeze-dry](https://github.com/WebMemex/freeze-dry)  - JavaScript 库将页面转换为静态的、自包含的 HTML 文档； 对浏览器扩展很有用.  *（开发中）*
 * [grab-site](https://github.com/ArchiveTeam/grab-site)  - 档案管理员的网络爬虫：WARC 输出、所有爬取的仪表板、动态忽略模式.  *（稳定的）*
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki)  - 一个开源、可扩展、网络规模、档案质量的网络爬虫.  *（稳定的）*
+  * [Heritrix Q&A](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) - 一个讨论论坛，用于提出问题并获得有关使用 Heritrix 的答案.
   * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) *（开发中）*
 * [html2warc](https://github.com/steffenfritz/html2warc)  - 将离线数据转换为单个 WARC 文件的简单脚本.  *（稳定的）*
 * [HTTrack](http://www.httrack.com/)  - 一个开源网站复制实用程序.  *（稳定的）*
@@ -134,7 +135,7 @@
 * [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压缩 WARC 和 WACZ 文件 (Python) 的命令行界面.
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARCHive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 归档 IO (Python) 的流式 WARC/ARC 库.
-* [warctools](https://github.com/internetarchive/warctools) - 使用 ARC 和 WARC 文件 (Python) 的库.
+* [warctools](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
 * [webarchive](https://github.com/richardlehane/webarchive) - 用于 ARC 和 WARC 网络存档格式的 Golang 阅读器（Golang）.
 
 ### Analysis
@@ -154,9 +155,9 @@
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - 浏览器扩展：在浏览器选项卡之间切换.
 * [FlameShot](https://github.com/lupoDharkael/flameshot) - Ubuntu 上的屏幕截图和注释.
 * [PlayOnLinux](https://www.playonlinux.com/en/) - 用于在 Ubuntu 上运行 Xenu 和 Notepad++.
-* [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
+* [PlayOnMac](https://www.playonmac.com/en/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
 * [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots)  - 用于部分屏幕捕获和注释的 Windows 内置. 在 macOS 上，您可以使用 Command + Shift + 4（用于获取部分屏幕截图的键盘快捷键）.
-* [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
+* [WineBottler](http://winebottler.kronenberg.org/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
 * [xDoTool](https://github.com/jordansissel/xdotool) - 在 Ubuntu 上单击自动化.
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) - 适用于 Windows 的桌面链接检查器.
 

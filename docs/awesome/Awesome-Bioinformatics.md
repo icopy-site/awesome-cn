@@ -69,6 +69,7 @@
 - **[Cromwell](https://github.com/broadinstitute/cromwell)** - 面向科学工作流程的工作流程管理系统. [ [web](https://cromwell.readthedocs.io) ]
 - **[Galaxy](https://github.com/galaxyproject) ** - 一个流行的开源、基于网络的平台，用于数据密集型生物医学研究. 具有多种功能，从数据分析到工作流管理再到可视化工具. [ [paper-2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030816) | [web](https://galaxyproject.org) ]
 - **[Nextflow](https://github.com/nextflow-io/nextflow) （推荐）** - 围绕 UNIX 管道概念建模的流畅 DSL，以可移植方式简化并行和可扩展管道的编写. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
+- **[redun](https://github.com/insitro/redun)** - 基于 python 的工作流管理器.
 - **[Ruffus](https://github.com/cgat-developers/ruffus)** - 广泛用于科学和生物信息学的 Python 计算管道库. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20847218) | [web](http://www.ruffus.org.uk) ]
 - **[SciPipe](https://github.com/scipipe/scipipe)** - Go 编程语言中嵌入的工作流库，专注于支持复杂的工作流构造，编译为单个二进制文件，为每个输出提供强大的文件命名和全面的审计报告 [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
 - **[SeqWare](https://github.com/SeqWare/seqware)** - 基于 Hadoop Oozie 的工作流系统，专注于云环境中的基因组数据分析. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/21210981) | [web](https://seqware.github.io) ]
@@ -271,7 +272,7 @@
 ### Sequencing
 
 - [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35] - 下一代和第三代测序技术的优秀（技术）概述，以及在癌症研究中的一些应用.
-- [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - 约 100 篇关于从转录到转座因子发现的各种测序技术和分析的论文列表.
+- [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - 约 100 篇关于各种测序技术和分析的论文列表，从转录到转座因子发现.
 - [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf)  (3456x5471) - Illumina 提供的大量信息图，说明了有多少测序技术有效. 技术涵盖蛋白质-蛋白质相互作用、RNA转录、RNA-蛋白质相互作用、RNA低水平检测、RNA修饰、RNA结构、DNA重排和标记、DNA低水平检测、表观遗传学和DNA-蛋白质相互作用. 包括参考资料.
 
 ### RNA-Seq
@@ -281,7 +282,7 @@
 - [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia 提供了关于 RNA-seq 和成功进行 RNA-seq 实验所需选择的精彩概述.
 - [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - 为 RNA-seq 计算分析提供了很棒的路线图，包括挑战/障碍和需要注意的事情，以及如何将 RNA-seq 数据与其他数据类型集成.
 - [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Lior Pachter 博士分享了他在著名 RNA-seq 分析软件 CuffDiff 和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
-- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - 维基百科上广泛列出分析所需的 RNA-seq 生物信息学工具，包括分析管道的所有部分，从质量控制、对齐、剪接分析和可视化.
+- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - 维基百科上的大量分析所需的 RNA-seq 生物信息学工具列表，涵盖分析流程的所有部分，从质量控制、比对、剪接分析和可视化.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)对进行 RNA-seq 分析时的各种步骤和注意事项的注释.
 
 ### ChIP-Seq
@@ -291,7 +292,7 @@
 ### YouTube Channels and Playlists
 
 - [Current Topics in Genome Analysis 2016](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/) - 在 NIH 就当前基因组学主题进行了 14 场精彩系列讲座，从序列分析到测序技术，甚至更多的转化主题，如基因组医学.
-- [GenomeTV](https://www.youtube.com/user/GenomeTV) - “GenomeTV 是 NHGRI 的官方视频资源集合，从讲座到新闻纪录片，再到解决基因组研究的研究、问题和临床应用的会议的完整视频集合.”
+- [GenomeTV](https://www.youtube.com/user/GenomeTV) - “GenomeTV 是 NHGRI 收集的官方视频资源，从讲座到新闻纪录片，再到解决基因组研究的研究、问题和临床应用的会议的完整视频集.”
 - [Leading Strand](https://www.youtube.com/user/LeadingStrand)  - 冷泉港实验室 (CSHL) 会议的主题演讲. 更多关于 [The Leading Strand](http://theleadingstrand.cshl.edu/).
 - [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) - “我们的研讨会致力于 GBM 的关键交叉点，深入研究将深刻塑造未来的‘前沿’技术和方法.”
 - [Rafael Irizarry's Channel](https://www.youtube.com/user/RafalabChannel/videos) - Rafael Irizarry 博士关于基因组学统计学的讲座和学术讲座.

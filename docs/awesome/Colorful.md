@@ -5,7 +5,7 @@
 </p>
 
 ## Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-__精选的精选资源列表，供您选择下一个配色方案.__
+__精选资源列表，供您选择下一个配色方案.__
 灵感来自 __[awesome](https://github.com/sindresorhus/awesome)_ _ 列表. 请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ 在贡献之前.
 
 
@@ -14,19 +14,19 @@ __精选的精选资源列表，供您选择下一个配色方案.__
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - 用于处理颜色的 JavaScript 库.
 - [pigment](https://github.com/satya164/pigment) - 颜色信息、转换和操作库
-- [GradStop.js](https://github.com/Siddharth11/gradStop.js) - 生成渐变色停止.
-- [Colorable](http://jxnblk.com/colorable/) - 调色板组合对比度测试仪.
+- [GradStop.js](https://github.com/Siddharth11/gradStop.js) - 生成渐变色标.
+- [Colorable](http://jxnblk.com/colorable/) - 调色板组合对比测试仪.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - 从图像中提取主色并应用于其父级（jQuery 插件）.
 - [Coloor](https://github.com/krasimir/coloor) - 图像预加载实用程序.
 - [Color Thief](https://github.com/lokesh/color-thief) - 从图像中获取调色板.
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) - 简单、可定制、小巧的 JavaScript 颜色提取器.
-- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - 用 CSS 制作的双色调滤镜.
-- [Polychrome](https://github.com/cdonohue/polychrome) - 用于解析和操作颜色的小型库.
-- [Palettable](https://github.com/jiffyclub/palettable) - Palettable（以前称为 brewer2mpl）是 Python 的调色板库
+- [Colofilter.css](https://github.com/LukyVj/colofilter.css) - 使用 CSS 制作的双色调滤镜.
+- [Polychrome](https://github.com/cdonohue/polychrome) - 一个用于解析和操作颜色的小型库.
+- [Palettable](https://github.com/jiffyclub/palettable) - Palettable（以前的 brewer2mpl）是 Python 的调色板库
 - [picocli](http://picocli.info/) - 用于创建具有 ANSI 颜色和样式的 Java 命令行应用程序的小型库.
-- [granim.js](https://github.com/sarcadass/granim.js) - 创建流畅的交互式渐变动画.
+- [granim.js](https://github.com/sarcadass/granim.js) - 创建流体和交互式渐变动画.
 - [tinygradient](https://github.com/mistic100/tinygradient) - 快速和小梯度操作.
-- [TinyColor](https://github.com/bgrins/TinyColor) - 用于 JavaScript 的快速、小型颜色操作和转换.
+- [TinyColor](https://github.com/bgrins/TinyColor) - 用于 JavaScript 的快速、小型的颜色处理和转换.
 - [Distinct Colors](https://github.com/internalfx/distinct-colors) - 生成视觉上不同颜色的调色板.
 - [color2k](https://github.com/ricokahler/color2k) - 颜色解析和操作库.
 
@@ -34,28 +34,28 @@ __精选的精选资源列表，供您选择下一个配色方案.__
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - 保持色度不变并轻松选择您的调色板.
 - [Colorbrewer2](http://colorbrewer2.org/) - 用于热图和数据可视化的多色调和单色调调色板.
 - [Coolors](https://coolors.co/) - 为您的设计生成无限调色板并分享.
-- [Flat UI Colors](http://flatuicolors.com/) - 用户界面颜色设置.
+- [Flat UI Colors](http://flatuicolors.com/) - 用户界面颜色集.
 - [Material Design Colors](http://www.materialui.co/) - 材料设计颜色、平面 UI 颜色和材料设计图标.
-- [Palettab](http://palettab.com/) - 每个标签都有新的调色板和字体灵感（Chrome 扩展程序）.
+- [Palettab](http://palettab.com/) - 每个标签（Chrome 扩展）都有新的调色板和字体灵感.
 - [Paletton](http://paletton.com) - 配色方案设计师.
-- [Pictaculous](http://www.pictaculous.com/) - 用图像生成调色板.
+- [Pictaculous](http://www.pictaculous.com/) - 使用图像生成调色板.
 - [Adobe Color Wheel](https://color.adobe.com/) - 使用色轮创建配色方案.
 - [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - 生成和自定义多个 css3 径向渐变.
 - [SassMe](https://github.com/jimniels/sassme) - 无需编译即可实时可视化 SASS 颜色函数.
-- [Shade](http://jxnblk.com/shade/) - 数学衍生的梯度浏览器.
+- [Shade](http://jxnblk.com/shade/) - 数学推导梯度浏览器.
 - [Colourco](http://www.colourco.de/) - 轻松直观地组合颜色.
 - [HSL Color Picker](http://hslpicker.com/) - HSL 颜色选择器.
 - [SVG Color Filter Playground](http://kazzkiq.github.io/svg-color-filter/) - 了解 feColorMatrix 的工作原理.
-- [Random A11y](http://www.randoma11y.com) - 生成一个对 a11y 友好的随机调色板.
+- [Random A11y](http://www.randoma11y.com) - 生成一个非常友好的随机调色板.
 - [Save My Palette](http://savemypalette.com/) - 保存、共享和导出您的调色板.
 - [Colordot](https://color.hailpixel.com) - 人类的颜色选择器.
-- [Material Palette](http://www.materialpalette.com/) - Material Design 调色板生成器.
-- [0to255](http://www.0to255.com/) - 查找任何颜色的变化.
+- [Material Palette](http://www.materialpalette.com/) - 材料设计调色板生成器.
+- [0to255](http://www.0to255.com/) - 查找任何颜色的变体.
 - [147 Colors](http://147colors.com/) - 学习 CSS 颜色名称.
 - [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - 使用光谱按颜色搜索图像.
-- [ColRD](http://colrd.com/) - 与世界创造和分享色彩灵感.
-- [CheckMyColours](http://www.checkmycolours.com/) - 检查所有 DOM 元素的颜色组合以获得足够的对比度.
-- [Contrast-A](http://www.dasplankton.de/ContrastA/) - 检查颜色组合以获得可接受的对比度和显示效果.
+- [ColRD](http://colrd.com/) - 创造并与世界分享色彩灵感.
+- [CheckMyColours](http://www.checkmycolours.com/) - 检查所有 DOM 元素的颜色组合是否有足够的对比度.
+- [Contrast-A](http://www.dasplankton.de/ContrastA/) - 检查颜色组合是否有可接受的对比度和显示.
 - [Palettable](http://www.palettable.io/) - 无需事先设计知识即可生成漂亮的调色板.
 - [Colorgorical](http://vrl.cs.brown.edu/color) - 生成具有 n 种颜色的调色板.
 - [Color Library](http://colorlibrary.ch/) - 自动分色.
@@ -63,34 +63,35 @@ __精选的精选资源列表，供您选择下一个配色方案.__
 - [ColorFavs](http://www.colorfavs.com/) - 创建和发现美丽的调色板和颜色.
 - [Colormind](http://www.colormind.io/) - Colormind 是一个使用深度学习的配色方案生成器.
 - [iColorpalette](https://icolorpalette.com) - 按颜色或主题创建、浏览或导出（aco、ase、svg、png、pdf）调色板.
-- [geenes](https://geenes.app/) - 在几秒钟内创建一个色标，然后将其导出到草图或代码.
+- [geenes](https://geenes.app/) - 在几秒钟内创建一个色标，然后将其导出为草图或代码.
 - [Tints and Shades](https://maketintsandshades.com/) - 以 10% 的增量显示给定十六进制颜色的色调和阴影.
 - [Sorted colors](https://enes.in/sorted-colors/) - 以将相关颜色显示在一起的方式对命名的 CSS 颜色进行排序.
 - [Croma](https://croma.app) - 从图像和颜色生成调色板
-- [Hexcolorpedia](https://hexcolorpedia.com/) - 十六进制颜色信息、颜色转换、阴影、色调、色调、Pantone 匹配、颜色混合和巨大的调色板集合.
+- [Hexcolorpedia](https://hexcolorpedia.com/) - 十六进制颜色信息、颜色转换、色调、色调、色调、Pantone 匹配、颜色混合和巨大的调色板集合.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - 具有快速预览功能的调色板.
 - [COLOURlovers](http://www.colourlovers.com/) - 创建调色板和图案设计的工具.
 - [Swiss Style Color Picker](http://www.swisscolors.net/) - 调色板集合.
-- [UI Gradients](http://uigradients.com/) - 精心挑选的美丽色彩渐变系列.
+- [UI Gradients](http://uigradients.com/) - 精心挑选的美丽颜色渐变系列.
 - [Color Hex Palettes](http://www.color-hex.com/color-palettes/) - 发现新的调色板.
 - [Color Palettes](http://colorpalettes.net/) - 用色彩创意装饰你的房子、公寓、卧室、厨房、客厅和婚礼.
-- [Design Seeds](http://www.design-seeds.com/) - 在自然界中发现的颜色和有目的的生活美学.
+- [Design Seeds](http://www.design-seeds.com/) - 在大自然中发现的颜色和有目的的生活美学.
 - [Gradients](http://thewebrocks.com/demos/gradientsio/v2.html) - 策划的渐变.
 - [Colour Names](http://colours.neilorangepeel.com/) - CSS 中的颜色名称列表.
 - [LOL Colors](http://www.lolcolors.com/palettes/popular) - 精心策划的调色板灵感.
-- [BrandColors](http://brandcolors.net/) - 世界最大品牌的官方颜色代码.
+- [BrandColors](http://brandcolors.net/) - 世界上最大品牌的官方颜色代码.
+- [Branition Colors](https://branition.com/colors) - 手工策划的最适合品牌推广的彩色托盘系列.
 - [Color Lisa](http://www.colorlisa.com/) - 世界上最伟大艺术家的调色板杰作.
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/) - 创建有凝聚力的配色方案的工具.
-- [Colordrop](https://colordrop.io/) - 一系列好看的调色板.
-- [ColorsWall](https://colorswall.com/) - 存放调色板和生成工具的地方.
+- [Colordrop](https://colordrop.io/) - 一组漂亮的调色板.
+- [ColorsWall](https://colorswall.com/) - 存放您的调色板和生成工具的地方.
 - [Open Color](https://yeun.github.io/open-color/) - 在 deuteranopia 和 protanopia 模式下测试的颜色.
 - [ColorClaim](http://www.vanschneider.com/colors) - 微妙的颜色组合.
-- [Color Farm](http://color.farm/) - 从流行的 Dribbble 镜头中精心挑选的颜色.
+- [Color Farm](http://color.farm/) - 从流行的 Dribbble 镜头中精心挑选颜色.
 - [WebGradients](https://webgradients.com/) - 180 个线性渐变的免费集合.
-- [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) -cubehelix 系列配色方案的资源.
-- [Color Name List](https://github.com/meodai/color-names/) - 独特的颜色名称的巨大策划列表.
+- [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - cubehelix 系列配色方案的资源.
+- [Color Name List](https://github.com/meodai/color-names/) - 巨大的独特颜色名称精选列表.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
