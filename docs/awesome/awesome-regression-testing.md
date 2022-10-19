@@ -129,6 +129,7 @@
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - 如何使用 BackstopJS 自动化 Hugo 的回归测试
 - [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - 介绍如何使用 Mioo 服务进行视觉回归测试
 - [Poor man's visual regression testing](https://idkshite.com/posts/compare-visual-changes) - 使用 PerfectPixel chrome 插件改进了手动视觉回归测试.
+- [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - 使用自 2022 年更新的工具介绍视觉回归测试. 
 
 ## Slideshows, talks and videos
 

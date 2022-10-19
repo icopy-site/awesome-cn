@@ -139,7 +139,7 @@
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
 - [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 的艾达.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
-- [telegram-ada](https://t.me/ada_lang) - Telegram 有一个小组.
+- [telegram-ada](https://t.me/ada_lang) - Telegram 上有群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
 - [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - 通过 Matrix 在 Gitter 有一个房间.
 
@@ -147,7 +147,7 @@
 - [adacore-blog](https://blog.adacore.com/) - 深入了解 AdaCore 生态系统.
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe 是一个国际组织，旨在促进 Ada 的使用.
 - [acm-sig-ada](https://www.sigada.org/) - 关于 Ada 的特别兴趣小组.
-- [ada-resource-association](http://www.adaic.org/community/) - 自 1990 年以来，Ada 资源协会的主要使命一直是“确保 Ada 用户的持续成功并促进 Ada 在软件行业的使用”.
+- [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](http://www.adaic.org/) - Ada 编程语言的新闻和资源.
 - [ada-planet](https://www.laeran.pl/adaplanet/i/)  - 来自 Ada 编程语言世界的新闻聚合器.  ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
@@ -255,7 +255,7 @@
 - [cxos](https://github.com/ajxs/cxos) - Ada 操作系统开发示例.
 - [havk](https://github.com/RavSS/HAVK) - 使用 SPARK 创建以 x86-64 为中心的安全操作系统.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS 是一个多处理器、64 位、（部分）正式验证的通用操作系统，目前用于 x86-64 架构.
-- [ironclad](https://github.com/streaksu/Ironclad) - 一个致力于 POSIX 兼容性的 x86_64 设备的内核，用于多个发行版，如 [Gloire](https://github.com/streaksu/Gloire).
+- [ironclad](https://nongnu.org/ironclad) - 用于多种架构的内核，努力实现 POSIX 兼容性，用于多个发行版，例如 [Gloire](https://github.com/streaksu/Gloire).
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) - 带有蒸汽朋克背景的天空 Roguelike.
@@ -325,7 +325,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) - AWS 是在 Ada 中开发基于 Web 的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的可立即使用和可扩展的模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
+- [awa](https://github.com/stcarrez/ada-awa)  - Ada Web 应用程序是在 Ada 2012 中构建 Web 应用程序的框架.该框架提供了许多可用于许多 Web 应用程序的即用型和可扩展模块. 这包括登录、身份验证、用户、权限、管理评论、标签、投票、文档、图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似休眠的 XML 描述、YAML 学说模型或 UML 模型生成 Ada Web 应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki 是一个提供 Wiki 引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护 Web 应用程序的 OAuth 2.0 客户端和服务器框架.
@@ -343,7 +343,7 @@
 语. 它在 JUnit 和 AUnit 的一些想法之后松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
-- [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
+- [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.
 
 #### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog 是 Ada 的可堆叠日志框架.
@@ -452,7 +452,7 @@
 - [radalib](https://github.com/sergio-gomez/Radalib) - 用于分析复杂网络等的 Ada 库和工具.
 
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
-- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它旨在作为集成到其他工具（IDE、静态分析器等）的构建块.
+- [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于解析和语义分析 Ada 代码的库. 它是作为集成到其他工具（IDE、静态分析器等）的构建块.
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 扫描仪和解析器生成器.
 - [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken 是一个 LALR、LR1 和 Packrat 解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - Ada 代码分析器.
@@ -492,7 +492,7 @@
 - [adhcp](https://codelabs.ch/adhcp/index.html) - ADHCP 是 Ada 中 DHCP 协议的实现.
 - [adasockets](https://github.com/samueltardieu/adasockets) - IPv4 套接字库（TCP、UDP 和多播）.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - D_Bus/Ada 库提供了与 D-Bus 消息总线系统的 Ada 绑定.
-- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - Binding to the ZeroMQ comunications-library.
+- [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - 绑定到 ZeroMQ 通信库.
 - [tomi-4-ada](https://sourceforge.net/projects/tomi4ada) - 各种客户端/服务器和发布/订阅消息协议（AMQP、STOMP 和 ZeroMQ）的包装器，专注于文本消息通信.
 - [mosquitto-ada](https://github.com/persan/mosquitto-ada) - MQTT 代理 Mosquitto 的绑定.
 - [tlsada](https://git.sr.ht/~nytpu/tlsada) - 绑定到 libtls TLS/SSL 库.
@@ -542,7 +542,7 @@
 
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
-- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
+- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
 - [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，可在 Ada 程序中输出到控制台.
@@ -551,7 +551,7 @@
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 将在 Ada Conformity Assessment Authority 上共享的 CVS 存储库导入 Git 存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  - 用于在 Ada 应用程序中透明地处理数据和配置文件访问的库和工具. 支持 MacOSX、Linux 和 Windows.
 - [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - 提供 GCC &#39;specs&#39; 文件以应对 SDK 策略更改.    
-- [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode 扩展字符串.
+- [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 - [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - 在 Ada 中 getopt(3) 的可移植实现.
 
 #### Robotics
@@ -568,7 +568,7 @@
 #### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
 - [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - Microsft NetFramework Api 的 Ada 绑定.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada 绑定到 Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 

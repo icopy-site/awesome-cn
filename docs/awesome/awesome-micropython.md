@@ -319,6 +319,7 @@
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - MicroPython 的微型 HTTP Web 客户端（用于 Pycom 模块和 ESP32）.
 * [micropython-configserver](https://github.com/carstenblt/micropython-configserver) - MicroPython 的强制门户，包括一个哑 DNS 服务器和一个用于配置 wifi 网络的网络服务器.
 * [micropython-aioweb](https://github.com/wybiral/micropython-aioweb) - MicroPython 的极简 asyncio Web 框架.
+* [thimble](https://github.com/DavesCodeMusings/thimble) - MicroPython 的小型 Web 框架.
 
 #### Zigbee
 
@@ -856,10 +857,10 @@
 * [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2)  ——查尔斯·贝尔. 国际标准书号 9781484281345.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  - 马尔万·阿尔萨巴格. 国际标准书号 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.mheducation.com.au/python-for-microcontrollers-getting-started-with-micropython-9781259644535-aus)  - 唐纳德诺里斯. 国际标准书号 9781259644535.
-* [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  - 尤里·玛格达. 国际标准书号 9781090900937 .
+* [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  - 尤里·玛格达. 国际标准书号 9781090900937.
 * [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  - 雅各布·贝宁戈. 国际标准书号 9781789958034.
 * [Get Started with MicroPython on Raspberry Pi Pico](https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico)  - Gareth Halfacree 和 Ben Everard 着. 国际标准书号 9781912047864.
-* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book)  - Günter Spanner. 国际标准书号 9783895764370.
+* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book)  - Günter Spanner 着. 国际标准书号 9783895764370.
 
 ## Frameworks
 

@@ -46,7 +46,7 @@
 
  Python 是迄今为止科学界最流行的语言，这在很大程度上归功于它的易用性和用户生成的包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为`conda install`），一个强大的包管理器，可以为Python、R安装包，并且可以下载像Git这样的可执行文件. 
 
-与 R 不同，Python 从头开始​​构建时并没有考虑到数据科学，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始数据科学之旅的一组不错的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用的数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是您会发现的许多常见算法背后的基本原理的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集和分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供了非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，具有许多开箱即用的良好默认值，以及一个展示如何生成许多常见数据可视化的图库.
+与 R 不同，Python 从头开始​​构建时并没有考虑到数据科学，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组不错的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用的数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是您会发现的许多常见算法背后的基本原理的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集和分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供了非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，具有许多开箱即用的良好默认值，以及一个展示如何生成许多常见数据可视化的图库.
 
  在踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 各有利弊. 选择您喜欢的语言，然后查看其中一个 [Free courses](#free-courses) 我们在下面列出！
 
@@ -270,6 +270,7 @@
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
+* [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 
 ### Deep Learning Packages
 
@@ -515,6 +516,7 @@
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Designing Cloud Data Platforms](https://www.manning.com/books/designing-cloud-data-platforms) - 抢先体验
 - [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+- [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 - [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com)
 - [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
@@ -579,7 +581,7 @@
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
 - [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部设在英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.

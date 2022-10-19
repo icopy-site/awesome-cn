@@ -258,6 +258,7 @@
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖图的交互式可视化.  ：颅骨：
 - [Checkov](https://github.com/bridgecrewio/checkov/) - Terraform 的 Terraform 静态分析工具&gt;=0.12
 - [Cloudrail](https://github.com/indeni/cloudrail-demo) - Terraform 和 Live Cloud 基于上下文的分析工具，用于 terraform&gt;=0.12 :heavy_dollar_sign:
+- [Coder](https://coder.com/) - Coder 通过 Terraform 在您的基础设施上提供软件开发环境.
 - [driftctl](https://github.com/snyk/driftctl) - 检测、跟踪和提醒基础设施漂移
 - [flora](https://github.com/ketchoop/flora) - Terraform 版本管理器.
 - [fogg](https://github.com/chanzuckerberg/fogg) - 用于消除管理 terraform 存储库的工作的工具.
@@ -373,7 +374,7 @@
 - [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube 频道提供每周直播，涵盖 Terraform 新闻、评论、采访、问答、实时编码和一些使用 Terraform 的黑客行为.
 - [Terraform explained in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE) - Terraform 在 15 分钟内解释.
 - [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - 自动化您的 AWS 云基础设施.
-- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对 Terraform 旨在解决的问题的简要而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
+- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对 Terraform 旨在解决的问题的简短而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
 - [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) - 演示 Terraform 如何通过使用托管 PostgreSQL 在 AWS 中部署 TeamCity 来实现基础设施即代码的实践.
 - [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用 Terraform 代码创建 Google 计算实例的示例.
 - [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 从本演练中了解如何为 Terraform 提供者做出贡献或创建自己的提供者.
