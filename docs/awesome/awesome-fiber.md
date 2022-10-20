@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Fiber Logo" align="right" style="margin-right: 25px" height=75>
 </a>
 
-&gt; **纤维**是一种 [Express](https://github.com/expressjs/express) 受启发的 **web 框架** 建立在 [Fasthttp](https://github.com/valyala/fasthttp)，**最快的** HTTP 引擎 [Go](https://golang.org/doc/) . 旨在为**快速**开发**缓解**事情，同时考虑**零内存分配**和**性能**.
+> **Fiber** is an [Express](https://github.com/expressjs/express) 受启发的 **web 框架** 建立在 [Fasthttp](https://github.com/valyala/fasthttp)，**最快的** HTTP 引擎 [Go](https://golang.org/doc/) . 旨在为**快速**开发**缓解**事情，同时考虑**零内存分配**和**性能**.
 
 精选的 Fiber 中间件、样板、食谱、文章和工具的精选列表.
 <br>
@@ -26,7 +26,7 @@ Fiber 框架中包含的中间件列表.
 - [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - 防止 CSRF 漏洞利用.
 - [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - 加密中间件，加密 cookie 值.
 - [EnvVar](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - 通过提供可选配置来公开环境变量.
-- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件使缓存更高效并节省带宽，因为如果内容没有更改，Web 服务器不需要重新发送完整响应.
+- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件让缓存更高效并节省带宽，因为如果内容没有更改，Web 服务器不需要重新发送完整响应.
 - [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - 通过其 HTTP 服务器运行时提供服务的 Expvar 中间件以 JSON 格式公开变体.
 - [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - 如果提供了文件路径，则忽略日志中的网站图标或从内存中提供服务.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - 用于 Fiber 的 FileSystem 中间件，特别感谢 Alireza Salary.
@@ -38,7 +38,7 @@ Fiber 框架中包含的中间件列表.
 - [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - 恢复中间件从堆栈链中任何地方的恐慌中恢复，并将控制权交给集中式 ErrorHandler.
 - [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - 为每个请求添加一个 requestid.
 - [Session](https://github.com/gofiber/fiber/tree/master/middleware/session)  - 会话中间件. 注意：这个中间件使用我们的存储包.
-- [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
+- [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - 跳过包装处理程序的跳过中间件是谓词为真.
 - [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - 为请求添加最大时间，如果超过则转发给 ErrorHandler.
 
 ### 🔗 External
@@ -91,6 +91,7 @@ Fiber 的预制样板.
 - [gofiber/boilerplate](https://github.com/gofiber/boilerplate) - 官方纤维样板.
 - [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - Fiber web 框架的样板.
 - [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate) - 带有许多中间件和功能的光纤网络框架顶部的样板.
+- [sujit-baniya/goravel](https://github.com/sujit-baniya/goravel) - Laravel 类似的样板 go Go，支持 Gofiber 或 Gin.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Create Go App CLI 的光纤后端模板.
 - [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - 简单且可扩展的样板，用于使用 Fiber 构建强大且有组织的 REST 项目. 
 - [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - 带有许多中间件的光纤样板 API.
