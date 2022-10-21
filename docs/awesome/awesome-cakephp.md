@@ -85,7 +85,7 @@
 *用于调试和本地开发的插件.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个用于将 Airbrake 与 CakePHP 无缝集成以处理错误和异常的插件.
-- [AssociationsDebugger plugin](https://github.com/zunnu/associations-debugger) - 一个将您的模型关联绘制为图表的插件.
+- ：草莓： [AssociationsDebugger plugin](https://github.com/zunnu/associations-debugger) - 一个将您的模型关联绘制为图表的插件.
 - ：草莓： [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) - 酷孩子的 PHP 错误和异常 [filp/whoops](https://github.com/filp/whoops).
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) - 调试的事实标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) - 将异常/错误信息通过电子邮件发送给您的开发团队的插件.
@@ -394,7 +394,7 @@
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) - 一个用于（CakePHP）应用程序的 docker 开发环境，可以自动设置，包括很多工具.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - docker 容器环境中的 CakePHP.
 - ：草莓： [Galley](https://gitlab.com/amayer5125/galley) - 一个用于 CakePHP 开发的小型 Docker 开发环境，其中包括一个简单的命令行实用程序.
-- [Mixer](https://github.com/CakeDC/mixer) - 一个用于发现和管理 CakePHP 插件的插件.
+- [Mixer](https://github.com/CakeDC/mixer) - 一个发现和管理 CakePHP 插件的插件.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) - 这个包在 NetBeans 8.1+ 中提供对 CakePHP 的支持.
 - [Oven](https://github.com/CakeDC/oven) - 使用 1 个文件和 1 次单击设置您最喜欢的框架.
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) - CakePHP 自动完成对 PhpStorm IDE 中控制台命令的支持.

@@ -127,7 +127,12 @@
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts)
+* [Respresso](https://respresso.io/)
 * [Brick](https://brick.im/)
+
+### Forms
+
+* [Form.taxi](https://form.taxi/)
 
 ### API Debugging
 
@@ -169,6 +174,13 @@
 * [StackBlitz](https://stackblitz.com/)
 * [FastSitePHP](https://www.fastsitephp.com/en/playground)
 * [DataFormsJS](https://www.dataformsjs.com/en/playground)
+* [AnyChart Playground](https://playground.anychart.com/)
 
 ### CheetSheet
 * [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+
+### UI Builders
+* [Windframe](https://www.devwares.com/windframe/)
+
+### Tools collection
+* [SmallDev.tools](https://smalldev.tools/)

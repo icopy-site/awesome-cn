@@ -128,7 +128,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 
 ### Template engine
-- [dejs](https://github.com/syumai/dejs) - deno 的 Ejs 模板引擎.
+- [dejs](https://github.com/syumai/dejs) - 用于 deno 的 Ejs 模板引擎.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - deno 的模板渲染器.
 - [eta](https://github.com/eta-dev/eta) - 快速、轻量级和可配置的嵌入式模板引擎.
 - [handlebars](https://github.com/alosaur/handlebars) - deno 的车把模板引擎
@@ -373,6 +373,11 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
 - [Matías Insaurralde - Deno：V8 互操作性的实验方法 [英文字幕] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
+
+## Resources
+
+### Books
+- [Modern Web Development with Deno](https://bpbonline.com/products/modern-web-development-with-deno)
 
 ## Resources in Other Languages
 

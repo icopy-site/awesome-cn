@@ -18,7 +18,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
     <img  src="https://visitor-badge.glitch.me/badge?page_id=aorumbayev.awesome-algorand&right_color=black" />
     <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/Browse-Website-black.svg" /></a>
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/Browse-Repository-black.svg" /></a>
-    <a target="_blank" href="https://redcircle.com/shows/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/AwesomeAlgo-Podcast-black.svg" /></a>
+    <a target="_blank" href="https://rss.com/podcasts/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/AwesomeAlgoPodcast-Listen-gold.svg" /></a>
     <a href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=black" /></a>
     <a  href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=black" /></a>
 </p>
@@ -163,12 +163,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### IntelliJ
 
-- [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ Plugin.
+- [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ 插件.
 
 ### VSCode
 
 - [Obsidian Labs/vscode-algorand](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS 代码扩展.
-- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - 在 VSCode 中使用最少的 AVM 配置调试蓝绿色.
+- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
 
 ## Tools
 
@@ -200,6 +200,10 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - 用于远程 Algorand 节点管理的终端 UI.
 - [SubQuery](https://subquery.network) - 开放、快速、灵活、去中心化的 Algorand 跨链数据索引器（[getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
+### Wallets
+
+- [use-wallet](https://github.com/txnlab/use-wallet)  - 用于将 Algorand 兼容的钱包与 Web 应用程序一起使用的 React 挂钩. 由开发 [txnlab](https://www.txnlab.dev/).
+
 ## NFT Marketplaces
 
 - [AB2](https://ab2.gallery/) - 在 Algorand 区块链上保护的加密艺术资产的去中心化市场，由 [@ab2_gallery](https://twitter.com/AB2_Gallery).
@@ -230,7 +234,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Security Audits
 
-> This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.
+ &gt; 本节并非旨在宣传以下任何公司，请在研究可供审计的选项时尽职尽责. 相反，以下内容仅旨在强调为 Algorand 生态系统提供智能合约审计的越来越多的公司.
 
 - [Certik](https://www.certik.com/ecosystems/algorand) - CertiK 提供 web3 安全工具的黄金标准，从行业领先的智能合约审计到 Skynet 和 SkyTrace 等区块链分析工具，使其成为确保 Algorand 项目端到端安全的理想合作伙伴.
 - [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - AlgoBuilder 背后的团队提供咨询您的项目、由专业人员完成智能合约、编写自动化测试或审核您现有的项目.
@@ -261,7 +265,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Projects
 
-- [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - 可用于铸造符合 ARC3 的 NFT 的 Dapp.
+- [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
 - [Auction Demo](https://github.com/algorand/auction-demo) - 使用智能合约进行链上 NFT 拍卖.
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - 会话钱包允许跨多个钱包的持久钱包连接.
 - [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - AlgoWorld 使用的所有智能合约的集合，用 PyTeal 编写.
