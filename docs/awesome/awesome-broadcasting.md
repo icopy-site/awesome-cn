@@ -61,13 +61,14 @@
 * [Aurena](https://github.com/thaytan/aurena) - 一种网络分布式媒体播放系统.
 * [Blender](https://developer.blender.org/diffusion/) - 3D 创作套件，支持 3D 建模、动画、运动跟踪、视频编辑等.
 * [CasparCG](http://www.casparcg.com/) - 专业的图形和视频播放软件，自 2006 年以来已在 24/7 广播中得到验证.
-* [ffplayout](https://github.com/ffplayout/ffplayout-engine) - 从文件夹或播放列表播放基于 Python 和 FFmpeg.
+* [ffplayout](https://github.com/ffplayout/ffplayout) - 从文件夹或播放列表播放基于 Rust 和 FFmpeg.
 * [Macadam](https://github.com/Streampunk/macadam) - 支持 HTML/CSS 的 Blackmagic Node.js 绑定（通过 [Electron](https://www.electronjs.org/)) 和 SVG (通过 [Sevruga](https://github.com/Streampunk/sevruga)) 图形.
 * [Nebula](https://github.com/nebulabroadcast) - 媒体资产管理和广播自动化系统.
 * [NodeCG](https://www.nodecg.dev/) - 使用 Node.js 在浏览器中渲染的广播图形.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - 基于 CasparCG 的 MCR 播放系统.
 * [ossia](https://ossia.io/) - 免费和开源的中间媒体音序器.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - 用于新闻广播的 MOS 驱动自动化系统，具有许多用于设备控制的库.
+* [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) - 带有 SDI、NDI 和 MPEG TS 输出的简单电视演播室播放器.
 
 ## Hybrid Radio
 
@@ -83,7 +84,7 @@
 
 * [butt](https://danielnoethen.de/)  - 使用此工具（对接）进行广播是一种易于使用的多操作系统流媒体工具. 它支持 SHOUTcast 和 Icecast.
 * [Cool Mic](https://coolmic.net/) - Android 音频直播 Icecast 源客户端应用.
-* [DarkIce](http://www.darkice.org/) - Live audio streamer that records and encodes from an audio interface and sends to a streaming server.
+* [DarkIce](http://www.darkice.org/) - 实时音频流媒体，从音频接口记录和编码并发送到流媒体服务器.
 * [EBU LIST](https://github.com/ebu/pi-list) - 实时 IP 软件工具包，帮助 EBU 成员实施基于 IP 的设施.
 * [Icecast](https://icecast.org/) - 支持 Ogg（Vorbis 和 Theora）、Opus、WebM 和 MP3 的流媒体（音频/视频）服务器.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - 一个在瑞典成立的项目，旨在发布用于专业无线电广播的开源软件.
@@ -123,7 +124,7 @@
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - 为主观音频质量评估创建基于浏览器的听力测试的框架.
 * [Jack Meter](https://github.com/njh/jackmeter) - 用于 JACK 的基于文本控制台的 DPM（数字峰值计）.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - JACK 的图形音频表集合（弹道学可能不正确）.
-* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - 用于 JACK 的图形音频表集合，包括 VU、PPM 和 [EBU R 128](https://tech.ebu.ch/publications/r128) 响度计.
+* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - 用于 JACK 的图形音频表集合，包括 VU、PPM 和 [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
 * [LTC-tools](https://github.com/x42/ltc-tools) - 一组用于处理线性时间码 (LTC) 并转换为 MIDI 时间码 (MTC) 的工具.
 * [MediaConch](https://mediaarea.net/MediaConch) - Matroska、FFV1 和 PCM 的实施检查器、策略检查器和报告器.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - 视频和音频文件最相关的技术和标签数据的方便统一显示.
@@ -146,8 +147,8 @@
 * [Dynamorse](https://github.com/Streampunk/node-red-contrib-dynamorse-core) - IT 瑞士军刀 - Node-RED 媒体管道构建器，添加专业媒体处理节点.
 * [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) - EBU ADM 渲染器的参考实现（[EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 * [FFmbc](https://github.com/bcoudurier/FFmbc) - 为广播和专业用途定制的 FFmpeg.
-* [FFmpeg](http://ffmpeg.org)  - 用于录制、转换和流式传输音频和视频的跨平台解决方案. 支持 SMPTE ST 2110.
-* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
+* [FFmpeg](http://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
+* [Flowblade](https://github.com/jliljebl/flowblade) - 多轨非线性视频编辑器.
 * [GStreamer](https://gstreamer.freedesktop.org/) - 用于构建媒体处理组件图的库.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS 纯 Javascript 模块，用于将 MXF 文件传输到 JSON 和从 JSON 传输.
 * [KFR](https://www.kfrlib.com/) - 快速、现代的 C++ DSP 框架、DFT/FFT、音频重采样、FIR/IIR、Biquad、EBU R 128.

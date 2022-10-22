@@ -278,7 +278,6 @@
 - [danbooru](https://github.com/danbooru/danbooru) - 一个可标记的图像板应用程序（使用 Rails 7.0）.
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - 案例管理应用程序（使用 Rails 7.0）.
 - [dgidb](https://github.com/dgidb/dgidb) - 药物基因交互平台——使用Rails 6.0
-- [diaper](https://github.com/rubyforgood/diaper)  - 尿布库的库存管理应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) - 一个社交网络应用程序 - 使用 Rails 6.1 - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse)  - 社区讨论平台（使用 Rails 7.0）.  - [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - 一个农场管理应用程序（使用 Rails 5.0）.
@@ -301,6 +300,7 @@
 - [helpy](https://github.com/helpyio/helpy)  - 客户支持应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://helpy.io/)
 - [hitobito](https://github.com/hitobito/hitobito)  - 一个活动组织应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours)  - 时间跟踪应用程序（使用 Rails 4.2）.  - [:earth_africa:](https://happyhours.io)
+- [human-essentials](https://github.com/rubyforgood/human-essentials)  - 必需品银行的库存管理系统（使用 Rails 7.0）.  - [:earth_africa:](https://humanessentials.app/)
 - [inaturalist](https://github.com/inaturalist/inaturalist)  - 自然和相关内容的社区应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) - 用于应用部署的控制面板应用（使用 Rails 4.1）.
 - [kanban](https://github.com/seanomlor/kanban) - 一个 Trello 克隆（使用 Rails 4.2）.

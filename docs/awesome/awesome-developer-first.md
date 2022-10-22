@@ -87,6 +87,9 @@
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用.
 * [Fly.io](https://fly.io/) - 通过位置感知服务（减少延迟）部署 dockerized 全栈应用程序.
 * [Railway](https://railway.app/) - 开箱即用的 git 部署自动缩放、数据库、机密和回滚.
+* [cyclic](https://www.cyclic.sh/) - 全栈应用托管（包括 dynamo db 和 s3）.
+* [Qoddi](https://qoddi.com/) - Git 连接的应用托管平台.
+* [Adaptable](https://adaptable.io/) - 通过通用模板部署应用程序和数据库.
 
 ## Discussions
 *评论和论坛.*
@@ -171,7 +174,7 @@
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发者优先的工厂建设.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙后面）.
-* [zigi](https://www.zigi.ai/) - 通过 Slack 处理普通非编码任务的开发人员助手.
+* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像提高生产力的格子一样.
 * [Interval](https://interval.com/) - SDK 为您的产品构建内部工具和脚本.
 

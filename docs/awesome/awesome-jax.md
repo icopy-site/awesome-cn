@@ -160,6 +160,10 @@
 
 - [Reformer](https://github.com/google/trax/tree/master/trax/models/reformer) - 实施改革者（高效变压器）架构.
 
+### NumPyro
+
+- [lqg](https://github.com/RothkopfLab/lqg) - 论文中线性二次高斯问题的贝叶斯逆最优控制的正式实现 [_Putting perception into action with inverse optimal control for continuous psychophysics_](https://elifesciences.org/articles/76635)
+
 
 <a name="videos" />
 
@@ -196,7 +200,7 @@
 - [Tutorial: image classification with JAX and Flax Linen by 8bitmp3](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - 学习如何使用 Flax 的 Linen API 创建一个简单的卷积网络，并训练它识别手写数字.
 - [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - 在 Kaggle 花卉分类挑战中比较 Flax、Haiku 和 Objax.
 - [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - JAX 和元学习简介.
-- [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - Concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
+- [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - 简洁的实现 [RealNVP](https://arxiv.org/abs/1605.08803).
 - [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - 实现路径跟踪的教程.
 - [Ensemble networks by Mat Kelcey](http://matpalm.com/blog/ensemble_nets) - 集成网络是一种将模型集成表示为单个逻辑模型的方法.
 - [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - 实现不同的OOD检测方法.
@@ -206,7 +210,7 @@
 - [Evolving Neural Networks in JAX by Robert Tjarko Lange](https://roberttlange.github.io/posts/2021/02/cma-es-jax/) - 探索 JAX 如何为下一代可扩展的神经进化算法提供动力.
 - [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) - 演示如何使用 JAX 使用 SGD 和 Momentum 执行内部损失优化，使用梯度进行外部损失优化，以及使用进化策略执行外部损失优化.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - 使用 JAX 轻松、干净地实现自动微分变分推理 (ADVI).
-- [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练一个对不同分辨率的输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
+- [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练一个对不同分辨率的不同输入通道组合具有鲁棒性的分类模型，然后使用遗传算法来确定特定损失的最佳组合.
 - [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab，它介绍了语言的各个方面并将它们应用于简单的 ML 问题.
 - [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - 关于在 JAX 中编写 MCMC 采样器的不同方法以及速度基准的教程.
 - [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - 关于如何使用 `host_callback` 模块向 JAX 中的已编译循环添加进度条的教程.

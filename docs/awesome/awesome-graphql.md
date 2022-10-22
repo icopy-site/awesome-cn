@@ -33,7 +33,7 @@
 
 ## Communities
 
-- [Slack](https://graphql.slack.com/messages/general/)  - 在聊天中分享和帮助人们. 获得您的邀请 [here](https://graphql-slack.herokuapp.com/).
+- [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/).
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 讨论、文章和知识共享的小组.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
@@ -45,7 +45,7 @@
 - [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - 专用于 GraphQL 的 Discord 服务器.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯，重点介绍来自 GraphQL 社区的资源和新闻.
 - [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - 跨 Javascript、Java、PHP、Go、Scala 等搜索 graphql 自定义标量.
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 
 <a name="meetup" />
 
@@ -90,7 +90,7 @@
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - 适用于 Node 和浏览器的最小 GraphQL 客户端.
 - [typescript-graphql-request](https://graphql-code-generator.com/docs/plugins/typescript-graphql-request) - 将 GraphQL 请求用作完全类型化的 SDK.
 - [graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus 为“JavaScript”或“TypeScript”创建自动完成客户端库，为强类型查询提供自动完成功能.
-- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+- [graphqurl](https://github.com/hasura/graphqurl)  - 带有自动完成、订阅和 GraphiQL 的 GraphQL 卷曲. 也是一个非常简单的通用 javascript GraphQL 客户端.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - 由 Amazon 开发的用于缓存、分析等的客户端库，其中包括获取 GraphQL 查询的方法.
 
 ##### Frontend Framework Integrations
@@ -110,7 +110,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小钩子优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 进行缓存.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
 
 #### Servers
 
@@ -169,7 +169,7 @@
 - [graphql-normalizr](https://github.com/monojack/graphql-normalizr) - 规范化 GraphQL 响应以持久保存在客户端缓存/状态中.
 - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - 编译 GraphQL 标记模板字符串的 Babel 插件.
 - [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - 一个 ESLint 插件，用于根据模式检查您的 GraphQL 字符串.
-- [graphql-ws](https://github.com/enisdenjo/graphql-ws) - 一致、零依赖、惰性、简单、GraphQL over WebSocket 协议兼容服务器和客户端.
+- [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 - [graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - 使用 JavaScript 的实时 GraphQL 实时查询.
 - [GraphVinci](https://github.com/Comcast/graphvinci) - GraphQL API 的交互式模式可视化工具.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - 扩展 [supertest](https://github.com/visionmedia/supertest) 轻松测试 GraphQL 端点
@@ -200,7 +200,8 @@
 - [Node.js API Starter](https://github.com/kriasoft/nodejs-api-starter) - 基于 Yarn v2 的 monorepo 模板（代码优先的 GraphQL API、PostgreSQL、PnP、零安装、无服务器）.
 - [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js 入门项目专注于开发人员体验.
 - [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - TypeScript + Node Express + Apollo GraphQL API 的样板.
-- [Mocked Managed Federation](https://github.com/setchy/apollo-server-3-mocked-federation) - 使用 Apollo Server 3.x 的模拟托管联合 supgraph
+- [Mocked Managed Federation - Apollo Server 3](https://github.com/setchy/apollo-server-3-mocked-federation) - 如何使用 Apollo Server 3.x 模拟托管联合 Supgraph 的示例
+- [Mocked Managed Federation - Apollo Server 4](https://github.com/setchy/apollo-server-4-mocked-federation) - 如何使用 Apollo Server 4.x 模拟托管联合 Supgraph 的示例
 
 <a name="rb" />
 
@@ -210,7 +211,7 @@
 - [graphql-client](https://github.com/github/graphql-client) - 用于声明、组合和执行 GraphQL 查询的 Ruby 库.
 - [graphql-batch](https://github.com/Shopify/graphql-batch) - graphql gem 的查询批处理执行器.
 - [graphql-auth](https://github.com/o2web/graphql-auth) - 与设计一起使用的 JWT 身份验证包装器.
-- [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
+- [agoo](https://github.com/ohler55/agoo) - 实现 Facebook 的 GraphQL 的 Ruby Web 服务器.
 - [GQLi](https://github.com/contentful-labs/gqli.rb)  - GraphQL 客户端和 DSL. 允许在原生 Ruby 中编写查询.
 
 <a name="rb-example" />
@@ -220,7 +221,7 @@
 - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - 使用 graphql-ruby 公开 Rails 应用程序.
 - [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用 GitHub 的 GraphQL API 的示例 Rails 应用程序.
 - [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 用于带有 Rails GraphQL 服务器的 Relay 应用程序的准系统入门套件.
-- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - 由 graphql、relay 和标准 rails 应用程序驱动的演示博客.
+- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 - [to_eat_app](https://github.com/jcdavison/to_eat_app) - 带有相关 3 部分文章系列的示例 graphql/rails/relay 应用程序.
 - [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用 Agoo 服务器演示一个简单的 GraphQL 应用程序.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - 带有设计、graphql 和 JWT 身份验证的 rails 6 样板.
@@ -368,7 +369,7 @@
 ### Scala
 
 - [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL 服务器实现.
-- [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
+- [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - 桑格利亚汽酒接力支持.
 - [caliban](https://github.com/ghostdogpr/caliban) - Caliban 是一个纯函数库，用于在 Scala 中创建 GraphQL 后端.
 
 <a name="scala-example" />
