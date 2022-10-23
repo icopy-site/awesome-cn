@@ -200,7 +200,7 @@
 
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 
-- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现异味，计算各种代码质量指标和趋势分析.
+- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
 
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — 宪兵检查包含 ECMA CIL 格式（Mono 和 .NET）代码的程序和库.
 
@@ -291,7 +291,7 @@
 - [Fixinator](https://fixinator.app)  :copyright: — ColdFusion 或 CFML 代码的静态安全代码分析. 设计用于在 CI 管道内或从开发人员终端工作.
 
 
-<h2 id="crystal">水晶</h2>
+<h2 id="crystal">Crystal</h2>
 
 
 - [ameba](https://crystal-ameba.github.io) — Crystal 的静态代码分析工具.
@@ -340,7 +340,7 @@
 <h2 id="elm">榆树</h2>
 
 
-- [elm-analyse](https://stil4m.github.io/elm-analyse) — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
+- [elm-analyse](https://stil4m.github.io/elm-analyse) — 一个允许您分析 Elm 代码、识别缺陷和应用最佳实践的工具.
 
 - [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — 分析整个 Elm 项目，重点关注用 Elm 编写的可共享和自定义规则，这些规则增加了 Elm 编译器无法提供的保证.
 
@@ -368,7 +368,7 @@
 - [i-Code CNES for Fortran](https://github.com/lequal/i-CodeCNES) — Fortran 77、Fortran 90 和 Shell 的开源静态代码分析工具.
 
 
-<h2 id="go">去</h2>
+<h2 id="go">Go</h2>
 
 
 - [aligncheck](https://gitlab.com/opennota/check) — 查找低效打包的结构.
@@ -859,7 +859,7 @@
 - [styler](https://styler.r-lib.org) — R 源代码文件的格式化和 R 代码的漂亮打印.
 
 
-<h2 id="ruby">红宝石</h2>
+<h2 id="ruby">Ruby</h2>
 
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描程序.
@@ -880,7 +880,7 @@
 
 - [flog](https://ruby.sadi.st/Flog.html)  — Flog 在一个易于阅读的痛苦报告中报告了最受折磨的代码. 分数越高，代码越痛苦.
 
-- [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu) — A tool for measuring code complexity in Ruby class files. Its analysis generates scores based on cyclomatic complexity algorithms with no added "opinions".
+- [Fukuzatsu](https://github.com/CoralineAda/fukuzatsu)  — 用于测量 Ruby 类文件中代码复杂性的工具. 它的分析基于圈复杂度算法生成分数，没有添加“意见”.
 
 - [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier)  — HTML 的规范化器/美化器，它也理解嵌入式 Ruby. 非常适合整理 Rails 模板.
 
@@ -986,7 +986,7 @@
 
 - [sqlint](https://github.com/purcell/sqlint) — 简单的 SQL 短绒.
 
-- [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
+- [squawk](https://squawkhq.com)  — Linter for PostgreSQL，专注于迁移. 防止数据库迁移导致的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
 
 - [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL 特定的 linter.
 
@@ -1161,7 +1161,7 @@
 
 - [cqc](https://github.com/xcatliu/cqc) — 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
 
-- [DeepCode](https://www.deepcode.ai)  :copyright: — DeepCode 基于 AI 发现错误、安全漏洞、性能和 API 问题.  DeepCode 的分析速度使我们能够实时分析您的代码并在您点击 IDE 中的保存按钮时提供结果. 支持的语言有 Java、C/C++、JavaScript、Python 和 TypeScript. 与 GitHub、BitBucket 和 Gitlab 集成.
+- [DeepCode](https://www.deepcode.ai) :copyright: — DeepCode 被 Snyk 收购，现在是 Snyk Code.
 
 - [DeepSource](https://deepsource.io)  :copyright: — 深入的静态分析，以发现错误风险、安全性、反模式、性能、文档和样式等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的原生集成. 低于 5% 的误报.
 
@@ -1171,13 +1171,15 @@
 
 - [Embold](https://embold.io) :copyright: — Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 
+- [emerge](https://github.com/glato/emerge)  — Emerge 是一个源代码和依赖关系可视化工具，可用于收集有关源代码结构、指标、依赖关系和软件项目复杂性的见解. 扫描项目的源代码后，它会为您提供一个交互式 Web 界面，以使用图形结构来探索和分析您的项目.
+
 - [ESLint](https://github.com/eslint/eslint) — 一个 JS 的可扩展 linter，遵循 ECMAScript 标准.
 
 - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于对 Java Web 应用程序和 Android 应用程序进行安全审计的 SpotBugs 插件.  （也可以使用 Kotlin、Groovy 和 Scala 项目）
 
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 
-- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
 
 - [goone](https://github.com/masibw/goone) — Finds N+1 queries (SQL calls in a for loop) in go code
 
@@ -1203,7 +1205,7 @@
 
 - [lizard](https://github.com/terryyin/lizard)  — Lizard 是一种可扩展的圈复杂度分析器，适用于包括 C/C++ 在内的许多编程语言（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算不带注释的代码行数、CCN（圈复杂度数）、函数的标记数、函数的参数数.
 
-- [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter 可以处理任何类型的项目，这要归功于其 70 多个嵌入式 Linter，
+- [Mega-Linter](https://nvuillam.github.io/mega-linter/) — Mega-Linter can handle any type of project thanks to its 70+ embedded Linters,
  它的高级报告，可在任何 CI 系统或本地运行，
  通过辅助安装和配置，能够应用格式化和修复
 
@@ -1239,7 +1241,7 @@
 
 - [ReSharper](https://www.jetbrains.com/resharper) :copyright: — Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 
-- [RIPS](https://www.ripstech.com) :copyright: — A static source code analyser for vulnerabilities in PHP scripts.
+- [RIPS](https://www.ripstech.com) :copyright: — PHP 脚本漏洞的静态源代码分析器.
 
 - [Rome](https://rome.tools/) — Rome 是一个 linter、编译器、捆绑器和 [more](https://rome.tools/#development-status) 适用于 JavaScript、TypeScript、JSON、HTML、Markdown 和 CSS.
 
@@ -1271,7 +1273,7 @@
 
 - [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — 一种工具，用于发现文件之间或文件内的相似性，以支持您遇到 DRY 原则违规行为.
 
-- [Snyk](https://snyk.io) :copyright: — node.js 应用程序依赖项的漏洞扫描程序（开源项目免费）.
+- [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to  analyse your code in real time and deliver results when you hit the save button in your IDE.  Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with  GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA,  containers and IaC.
 
 - [SonarCloud](https://sonarcloud.io)  :copyright: — 基于云的多语言静态代码分析. 历史、趋势、安全热点、拉取请求分析等. 开源免费.
 
@@ -1396,7 +1398,7 @@
 
 - [rust-audit](https://github.com/Shnatsel/rust-audit)  — 审计 Rust 二进制文件中的已知错误或安全漏洞. 这通过以 JSON 格式将有关依赖树 (Cargo.lock) 的数据嵌入到已编译可执行文件的专用链接器部分来实现.
 
-- [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
+- [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 - [VMware chap](https://github.com/vmware/chap)  — chap 分析未检测的 ELF 核心文件是否存在泄漏、内存增长和损坏. 它足够可靠，可以在自动化中用于在泄漏之前捕获泄漏. 作为一种交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
 
@@ -1498,7 +1500,7 @@
 <h2 id="container">容器</h2>
 
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 
@@ -1574,7 +1576,7 @@
 - [deno_lint](https://github.com/denoland/deno_lint) — Deno 的官方 linter.
 
 
-<h2 id="embedded">嵌入式</h2>
+<h2 id="embedded">Embedded</h2>
 
 
 - [oelint-adv](https://github.com/priv-kweihmann/oelint-adv) — 用于开放式嵌入式和 YOCTO 的 bitbake 配方的 Linter
@@ -1782,7 +1784,7 @@
 
 - [Datree](https://datree.io/) — 一个 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及组织的政策来防止 Kubernetes 错误配置
 
-- [detect-secrets](https://github.com/Yelp/detect-secrets) — An enterprise friendly way of detecting and preventing secrets in code.
+- [detect-secrets](https://github.com/Yelp/detect-secrets) — 一种企业友好的方式来检测和防止代码中的秘密.
 它通过针对启发式制作的正则表达式语句运行定期差异输出来做到这一点，以确定是否已提交任何新秘密. 这样，它就避免了挖掘所有 git 历史的开销，以及每次扫描整个存储库的需要.
 
 - [Enlightn](https://www.laravel-enlightn.com/)  — Laravel 应用程序的静态和动态分析工具，它提供建议以提高 Laravel 应用程序的性能、安全性和代码可靠性. 包含 120 个自动检查.
@@ -1815,7 +1817,7 @@
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 Java 安全漏洞的源代码分析工具.
 
-- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 的不可利用漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
+- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 
@@ -1834,7 +1836,7 @@ TruffleHog 是一个开源的秘密扫描引擎，可以解决公司整个技术
 <h2 id="smart-contracts">智能合约</h2>
 
 
-- [mythril](https://github.com/ConsenSys/mythril) — 包含电池的符号执行框架，可用于自动查找和利用智能合约中的漏洞.
+- [mythril](https://github.com/ConsenSys/mythril) — A symbolic execution framework with batteries included, can be used to find and exploit vulnerabilities in smart contracts automatically.
 
 - [MythX](https://mythx.io)  :copyright: — MythX 是一个易于使用的分析平台，它集成了多种分析方法，如模糊测试、符号执行和静态分析，以高精度查找漏洞. 它可以与 Remix 或 VSCode 等工具链集成，也可以从命令行调用.
 
@@ -1890,7 +1892,7 @@ TruffleHog 是一个开源的秘密扫描引擎，可以解决公司整个技术
 <h2 id="wasm">网络组装</h2>
 
 
-- [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
+- [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 
 <h2 id="writing">写作</h2>

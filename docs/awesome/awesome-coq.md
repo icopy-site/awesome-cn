@@ -8,7 +8,7 @@
 
 The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来编写数学定义、可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 第一的.
 
 
 
@@ -38,7 +38,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - Proof General 的 Coq 模式的 IDE 扩展.
 - [jsCoq](https://github.com/ejgallego/jscoq) - Coq 到 JavaScript 的移植，它允许在浏览器中运行 Coq 项目.
 - [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq 支持 Jupyter Notebook Web 环境.
-- [VsCoq](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
+- [VsCoq](https://github.com/coq-community/vscoq) - Visual Studio Code 和 VSCodium 编辑器的扩展.
 
 ### Libraries
 
@@ -80,7 +80,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
 - [Dune](https://dune.build) - 用于 OCaml 和 Coq（前 jbuilder）的可组合和自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) - Linux 和其他 Unix 系统的包管理器，支持原子升级和回滚.
-- [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Collection of Coq-related packages for Nix.
+- [Nix Coq packages](https://search.nixos.org/packages?channel=unstable&query=coqPackages) - Nix 的 Coq 相关包的集合.
 - [opam](https://opam.ocaml.org) - 灵活且对 Git 友好的 OCaml 和 Coq 包管理器，具有多种编译器支持.
 
 ### Plugins
@@ -129,6 +129,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Roosterize](https://github.com/EngineeringSoftware/roosterize) - 在 Coq 项目中建议引理名称的工具.
 - [Sail](https://github.com/rems-project/sail) - 用于指定处理器的指令集架构语义和生成 Coq 定义的工具.
 - [SerAPI](https://github.com/ejgallego/coq-serapi) - 工具和 OCaml 库，用于 Coq 代码与 JSON 和 S 表达式的（反）序列化.
+- [Trakt](https://github.com/ecranceMERCE/trakt) - 用于证明自动化策略的通用目标预处理工具.
 
 ### Type Theory and Mathematics
 
@@ -160,7 +161,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 - [Ceramist](https://github.com/certichain/ceramist) - 经验证的基于散列的近似成员结构，例如布隆过滤器.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - 加密原始代码生成.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - 验证 OCaml 实现的用于在图中进行增量循环检测的算法.
-- [Jasmin](https://github.com/jasmin-lang/jasmin) - 用于高保证和高速密码学的形式化语言和经过验证的编译器.
+- [Jasmin](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 - [JSCert](https://github.com/jscert/jscert) - 带有经过验证的参考解释器的 ECMAScript 5 (JavaScript) 的 Coq 规范.
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的形式模型，类型系统的逻辑关系，以及一些 Rust 库的安全证明.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
@@ -223,8 +224,9 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来�
 
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑推理 Coq 中的顺序命令式程序.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
-- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - 介绍使用 Coq 开发和验证程序.
+- [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - 形式化以支持计算理论的本科课程，包括语言和图灵机.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - 软件基础系列教科书的材料，包括一系列 YouTube 视频.
+- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - 介绍使用 Coq 开发和验证程序.
 
 ### Tutorials and Hints
 

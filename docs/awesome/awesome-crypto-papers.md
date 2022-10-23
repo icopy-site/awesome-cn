@@ -11,7 +11,7 @@
 
 此列表的目标是为不同级别的密码知识提供教育阅读材料. 我开始它是因为我的日常工作是在 [Cossack Labs](https://www.cossacklabs.com) 包括对他们进行密码学方面的教育，并就特定主题提供阅读建议，这涉及反复查找相同的材料. 希望它对其他人也有用. 
 
-它针对的是在更高级别的安全系统中使用密码学来实现数据库加密、安全共享、各种方案中的端到端加密的人们，并且应该了解它是如何工作的，它是如何失败的以及它是如何受到攻击的. 它不是著名/重要/具有历史意义的论文的列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都能更好地掌握他们需要什么），也不是针对想要成为密码学家的系统研究（他们最好在专业指导下遵循结构化方法）. 
+它针对的是在更高级别的安全系统中使用密码学来实现各种方案中的数据库加密、安全共享、端到端加密的人们，并且应该了解它是如何工作的，它是如何失败的以及它是如何受到攻击的. 它不是著名/重要/具有历史意义的论文的列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都更好地掌握了他们需要什么），也不是针对想要成为密码学家的系统研究（他们最好在专业指导下遵循结构化方法）. 
 
 随着我发现一些“必备”的价值，它将逐渐扩展. 非常欢迎拉取请求.
 
@@ -77,7 +77,7 @@
 * [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF 密码套件系列草案，由 Adam Langley 等人撰写.
 * [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Joan Daemen 和 Vincent Rijmen 的原始 Rijndael 提案.
 * [Ongoing Research Areas in Symmetric Cryptography](https://web.archive.org/web/20220209130448/https://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - ECRYPT Network of Excellence in Cryptology 对密钥加密和散列的持续研究概述.
-* [The Galois/Counter Mode of Operation (GCM)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
+* [The Galois/Counter Mode of Operation (GCM)](https://web.archive.org/web/20221007191258/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
 * [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全性，更具体地说，是 AES GCM 模式，作者 David A. McGrew 和 John Viega.
 * [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata 为具有较高反碰撞概率的 AES GCM 生成随机数的分析和算法.
 * [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - Eugene Pilyankevich、Dmytro Kornieiev、Artem Storozhuk 对现有可搜索加密方案的概述，以及基于 AES-GCM、盲索引和布隆过滤器的方案分析.
@@ -136,11 +136,11 @@
 * [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Goldreich、Micali 和 Wigderson 的经典论文.
 * [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - Goldreich、Micali 和 Wigderson，与上述有关. 
 * [A Survey of Noninteractive Zero Knowledge Proof System and Its Applications](https://www.hindawi.com/journals/tswj/2014/560484/).
-* [How to Prove a Theorem So No One Else Can Claim It](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.9048&rep=rep1&type=pdf) - 曼努埃尔·布鲁姆.
+* [How to Prove a Theorem So No One Else Can Claim It](https://web.archive.org/web/20211122040931/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.9048&rep=rep1&type=pdf) - 曼努埃尔·布鲁姆.
 * [Information Theoretic Reductions among Disclosure Problems](http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf) - Brassau 等人.
 * [Knowledge complexity of interactive proof systems](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf)  - GoldWasser、Micali 和 Rackoff. 在零知识证明中定义“知识”的计算复杂度. 
 * [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - 原始 ZKP 协议的精彩介绍.
-* [Zero Knowledge Protocols and Small Systems](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.186.4901&rep=rep1&type=pdf) - 零知识协议的一个很好的介绍.
+* [Zero Knowledge Protocols and Small Systems](https://web.archive.org/web/20220211100630/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.585&rep=rep1&type=pdf) - 零知识协议的一个很好的介绍.
 * [Multi-Theorem Preprocessing NIZKs from Lattices](https://link.springer.com/chapter/10.1007%2F978-3-319-96881-0_25) - Sam Kim 和 David J. Wu 使用基于格的预处理模型构建非交互式零知识 (NIZK) 证明.
 
 #### Key Management

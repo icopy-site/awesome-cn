@@ -10,7 +10,7 @@
 
 ## :tipping_hand_woman: About this List
 
-这是一个关于 **很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
+这是关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
 
  **Prisma 是一个开源 ORM**. 它通过类型安全和为 TypeScript 和 Node.js 自动生成的查询构建器使数据库访问变得容易.
 
@@ -89,6 +89,7 @@
 - [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
 - [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
 - [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
+- [Build A Pet Management System With Remix, Prisma, and Postgres](https://www.youtube.com/watch?v=wqyHGQlZcws&list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT)
 
 ### Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
@@ -117,6 +118,7 @@
 - [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - 使用 Prisma + Next.js + CI + 测试 + E2E 类型安全的入门项目 [tRPC](https://trpc.io)
 - [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - 使用 Prisma、next-auth、next.js、tailwindcss 和 graphql-shield 的全栈启动器
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp 是一种声明性的领域特定语言，用于以更少的代码开发、构建和部署现代 Javascript 全栈 Web 应用程序.
+- [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 
 ## Prisma 1
 
@@ -131,5 +133,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律可能的范围内，Catalin Miron 放弃了所有版权和
+在法律允许的范围内，Catalin Miron 放弃了所有版权和
 本作品的相关或邻接权.

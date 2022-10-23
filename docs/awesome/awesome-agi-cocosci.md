@@ -117,7 +117,7 @@
 
 #### Explanation
 
-* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于溯因的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于其将新思想引入当前知识的潜力.
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于绑架的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于它具有将新思想引入当前知识的潜力.
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的规范应用.
 
@@ -409,14 +409,14 @@
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到表示特征的多个维度的线上，从而恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到表示多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
 
 
 #### AI Concept Representation
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大型语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会的交易***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
 
 
 
@@ -601,7 +601,7 @@
 * [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci&#39;22***，2022 年.
 
 
-<span id = "probsol"></span>
+
 ### Problem Solving
 
 <span id = "hmprobsol"></span>
@@ -749,7 +749,7 @@
 
 * [Organizational Principles of Abstract Words in the Human Brain](http://bilab.bnu.edu.cn/paper/2018/Wang_2018_Cerebral_Cortex.pdf) - ***大脑皮层***，2018 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15272192531353715481)].
 
-* [Different computational relations in language are captured by distinct brain systems](http://bilab.bnu.edu.cn/paper/2022/Fu_2022_CC.pdf) - ***大脑皮层***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=720215181903530260&hl=en&as_sdt=0,5)].
+* [Different computational relations in language are captured by distinct brain systems](http://bilab.bnu.edu.cn/paper/2022/Fu_2022_CC.pdf) - ***大脑皮层***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=720215181903530260&hl=en&as_sdt=0,5)].
 
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***可视化实验杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
@@ -1447,13 +1447,13 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于可追溯到希腊古代辩证法的研究传统，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式，用于表示和推理动态域.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学帐户，它是对表达式“有必要”和“有可能”的演绎行为的研究.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对“这是必要的”和“有可能的”表达的演绎行为的研究.
 
 * [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 认识逻辑的计算哲学帐户，这是认识论的一个子领域，涉及知识、信念和相关概念的逻辑方法.
 
@@ -1555,7 +1555,7 @@
 
 * [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf) - ***儿童发展和行为进步***，2012 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)]. 
 
-* [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445) - ***认知发展***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432&hl=en&as_sdt=0,5)].
+* [Theory learning as stochastic search in the language of thought](https://www.sciencedirect.com/science/article/pii/S0885201412000445) - ***认知发展***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=8036476579458645432&hl=en&as_sdt=0,5)].
 
 * [Infants make more attempts to achieve a goal when they see adults persist](https://www.science.org/doi/abs/10.1126/science.aan2317) - ***科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=2617011825272996810&hl=en&as_sdt=0,5)].
 
@@ -1901,6 +1901,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence*** 的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有很多观点可以遵循，比如任务导向、技术导向和形而上学导向. 最后，他决定专注于 ***The Sciences of Intelligence ***的视角——每个主题都描述了一种智能现象或一种智能行为——它们展示了逆向工程人类智能以用于计算方法的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
 显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因和贝叶斯建模时文献评论的副产品，因此其他主题也或多或少地带有偏见. 绑架可能是人类用已知解释世界和发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
