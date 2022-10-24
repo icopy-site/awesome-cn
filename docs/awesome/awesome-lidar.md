@@ -106,7 +106,7 @@
 - [Open3D library](http://www.open3d.org/docs/release/)  - Open3D 库包含 3D 数据处理和可视化算法. 它是开源的，同时支持 C++ 和 Python.
   - [GitHub repository :octocat:](https://github.com/intel-isl/Open3D)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
-- [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - PyTorch 的几何深度学习扩展库.
+- [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
   - [GitHub repository :octocat:](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch3d](https://pytorch3d.org/) - PyTorch3d 是一个用于深度学习的库，其中包含由 Facebook AI 研究计算机视觉团队编写和维护的 3D 数据.
   - [GitHub repository :octocat:](https://github.com/facebookresearch/pytorch3d)
@@ -154,17 +154,28 @@
 - [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - 3D LIDAR 数据中的移动对象分割
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
-- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg)  - ROS兼容的地平面分割； 用于将平面拟合到 LIDAR 的库.
-  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
 - [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- 使用超点图进行大规模点云语义分割
   - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
+
+### Ground segmentation
+- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg)  - ROS兼容的地平面分割； 用于将平面拟合到 LIDAR 的库.
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
+- [LineFit Graph :newspaper:](https://ieeexplore.ieee.org/abstract/document/5548059)- 水平 3D LiDAR 数据的基于线拟合的快速地面分割
+  - [GitHub repository :octocat:](https://github.com/lorenwel/linefit_ground_segmentation)
+- [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- 用于 3D LiDAR 数据的基于区域平面拟合的稳健且快速的地面分割 
+  - [GitHub repository :octocat:](https://github.com/LimHyungTae/patchwork)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
+- [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf) - Patchwork 的改进版本.  Patchwork++ 也为深度学习用户提供了 pybinding
+  - [GitHub repository :octocat:](https://github.com/url-kaist/patchwork-plusplus-ros)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
+
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM：激光雷达里程计和实时制图.
 - [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - 用于 ROS 兼容 UGV 的轻型和地面优化激光雷达里程计和测绘 (LeGO-LOAM) 系统. 
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
-- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 实时同步定位和映射 (SLAM).
+- [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer 是 ROS 兼容系统，可跨多个平台和传感器配置提供 2D 和 3D 的实时同步定位和映射 (SLAM).
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - 基于 LiDAR 的语义 SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
@@ -224,7 +235,7 @@
 - [Awesome LIDAR-Camera calibration :octocat:](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
 ## Others
-- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
+- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit)  - 使用 5 美元的 Google Cardboard 复制 Microsoft Hololens. 托管用于研究的源代码 [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - 将来自空中激光雷达扫描的点云数据转换为用于 3D 打印的实体网格的工具.
 - [CloudCompare](https://cloudcompare.org/) - CloudCompare 是一款免费的跨平台点云编辑器软件.
   - [GitHub repository :octocat:](https://github.com/CloudCompare)

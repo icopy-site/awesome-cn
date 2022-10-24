@@ -319,6 +319,7 @@
 - [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) - Vue 3 的免费课程，来自 Vue Mastery 的直观解释
 - [Developing a web application with Vue.js 3 and Vite.js (French)](https://mickael-baron.fr/web/vuejs-miseenoeuvre-part2) 迈克尔·巴伦
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) 迈克尔·巴伦
+- [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) 耶稣黄
 
 ### Examples
 
@@ -461,7 +462,7 @@
 - [COVID19 Live Data Component](https://github.com/snturk/covid19-vue-component) - 显示全球实时 covid19 数据的简单组件.
 - [vue-stack-cesium](https://github.com/meschg/vue-stack-cesium) - 一个最小的示例配置项目 [CesiumJS](https://cesium.com/cesiumjs/) 以及所有很棒的 Vue 功能. 该项目包含许多示例如何组合和使用某些包来开始.
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - 使用 Vue、Vuex 和 Tailwind CSS 的 Shopify 主题开发入门
-- [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it)  - 适合 4 到 8 名玩家（理想情况下！）的派对游戏，您可以在其中通过图画和字幕改变短语，与您的朋友组成有趣的场景. 该项目是如何使用 Vue 构建点对点游戏的示例.
+- [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it)  - 适合 4 到 8 名玩家（理想情况下！）的派对游戏，您可以在其中通过图画和字幕改变一个短语，与您的朋友组成有趣的场景. 该项目是如何使用 Vue 构建点对点游戏的示例.
 - [vue3-webpack](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 启动器.
 - [laravel-vue-3-starter](https://github.com/boussadjra/laravel-vue-3-starter) 使用 Laravel 8 和 Vue 3 的预配置项目.
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - 使用 Vue 2 + Vuetify + Swiper 构建的滑动示例.
@@ -478,7 +479,7 @@
 - [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) 自动简历生成器 [Emre Coşkunçay](https://github.com/coskuncayemre)
 - [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) 一个简单但完整的 Vue 3 库模板，支持生成 `.vue.d.ts`
 - [Customizable Vue video chat app](https://github.com/daily-demos/vue-call-object) - 具有本地设备控制和屏幕共享功能的 Vue 视频通话演示应用程序.
-- [Vue3-Starter](https://github.com/cerino-ligutom/Vue3-Starter) 关于如何构建文件/文件夹的样板文件，其中包含一些示例，例如 **Vue Router** 导航防护、使用 **TailwindCSS** 进行主题化、使用 **Vuelidate** 进行表单验证、使用 ** 进行本地化流利**等
+- [Vue3-Starter](https://github.com/cerino-ligutom/Vue3-Starter) 一个样板文件，其中包含一些关于如何构建文件/文件夹的意见的示例，例如 **Vue Router** 导航守卫，使用 **TailwindCSS** 进行主题化，使用 **Vuelidate** 进行表单验证，使用 ** 进行本地化流利**等
 - [Text Editor](https://github.com/devisasari/text-editor-vue-3) 使用 Vue 3 Composition API、Bootstrap 和 Firebase 制作的文本编辑器 [İsa Sarı](https://github.com/devisasari)
 
 ### Books
@@ -696,7 +697,7 @@
 - [Vue CRUD](https://github.com/szczepanmasny/vue-crud)  - 基于 Vue.js 的 REST-ful CRUD 系统.  Vue CRUD 允许您轻松创建快速应用程序，例如 CMS 或 CRM.
 - [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/) – 由 Vue、Sass、Firestore 和 Netlify 提供支持的现代管理仪表板.
 - [MToDo](https://github.com/satriaajiputra/mtodo)  - 使用 Vue.js 和 JSON Server 作为数据模拟构建的具有简单身份验证的迷你待办事项列表. 非常适合任何寻找真实世界 Vue.js 参考的人的参考
-- [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy) - FireX 代理是用户值得信赖的 Chrome 和 Firefox 浏览器扩展程序，可让您解锁任何网站并私密安全地浏览网页.
+- [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy 是用户值得信赖的 Chrome 和 Firefox 浏览器扩展程序，可让您解除对任何网站的阻止并私密安全地浏览网页.
 - [VueSolitaire](https://github.com/silent-lad/VueSolitaire) - 在 Vue.js 中实现的纸牌（蜘蛛、克朗代克）.
 - [Thermal](https://thermal.codecarrot.net) - 一站式所有 Git 存储库.
 - [QMK Configurator](https://github.com/qmk/qmk_configurator) - Vue.js 中的 QMK 固件键盘配置 UI.
@@ -1275,7 +1276,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) - 一个简单易用的组件包装器，可帮助您从组件创建自定义和动态模式.
 - [@kouts/vue-modal](https://github.com/kouts/vue-modal) - 一个可定制、可堆叠和轻量级的模态组件，它遵循 W3C 的 WAI-ARIA 对话框（模态）部分中设置的准则.
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) Tailwind 友好、高度可定制、可堆叠的模态组件.
-- [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - 简单的模态窗口 Vue.js 组件，负责覆盖、居中、动画、外部单击/`Escape` 键/`X-mark` 关闭，并允许您只专注于其内容.
+- [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - 简单的模态窗口 Vue.js 组件，负责覆盖、居中、动画、外部点击/`Escape` 键/`X-mark` 关闭，并允许您只专注于其内容.
 - [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - 用于 Vue.js 的简单图像/（YouTube）视频灯箱组件.
 - [v3confirm](https://github.com/malekim/v3confirm) - 专用于 vue3 的插件，用于显示确认对话框模式.
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - 让您在 Vue 3（组合或选项 API）中轻松创建基于承诺的对话框！
@@ -1472,7 +1473,7 @@ _显示时间/日期/年龄_
 
 _在日历中显示不可编辑的事件_
 
-- [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar)  - Vue 日历 fullCalendar. 不需要 jQuery. 计划事件管理.
+- [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar)  - Vue 日历 fullCalendar. 不需要 jQuery. 安排事件管理.
 - [vue-event-calendar](https://github.com/GeoffZhu/vue-event-calendar) - 一个简单的 Vue2 事件日历，除了 Vue2 之外没有依赖项.
 - [vue-calendar-picker](https://github.com/FranckFreiburger/vue-calendar-picker) - 用于事件显示、期间选择和日期选择器的轻量级日历组件.
 - [vue-lunar-calendar](https://github.com/KimWooHyun/vue-lunar-calendar)  - 一个用于农历的 vue 组件. 使用 Moment.js 进行日期操作.
@@ -1620,7 +1621,7 @@ _在日历中显示不可编辑的事件_
 #### Social Sharing
 
 - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - 用于共享社交网络链接的无渲染 Vue.js 组件，与 SSR 兼容
-- [vue-goodshare](https://github.com/koddr/vue-goodshare)  - 用于社交分享的 Vue.js 组件，具有漂亮的按钮设计. 安装简单、文档丰富、开发人员支持、SEO 友好、干净的代码，无需脚本跟踪页面上的用户活动，速度快. 使用 Vue.js 2.x.
+- [vue-goodshare](https://github.com/koddr/vue-goodshare)  - 用于社交分享的 Vue.js 组件，具有漂亮的按钮设计. 安装简单，文档丰富，开发人员支持，SEO 友好，干净的代码，无需脚本跟踪页面上的用户活动，速度快. 使用 Vue.js 2.x.
 - [vue-socialmedia-share](https://github.com/mbj36/vue-socialmedia-share) - 一个用于共享社交网络链接的 Vue.js 组件，带有 Vue 2.X
 - [vue-picture-sharesheet](https://github.com/Onatcer/vue-picture-sharesheet) - 一个 Vue 图片共享表组件，深受 Apple 新闻编辑室中的图像共享表的启发
 - [vue-twitter](https://github.com/chiaweilee/vue-twitter) - 用于嵌入 twitter 小部件（例如时间线、按钮）的 Vue.js 组件
@@ -2481,7 +2482,7 @@ _处理用户事件（滚动、点击、击键，...）_
 - [vform](https://github.com/cretueusebiu/vform) - 在 Vue 中处理 Laravel 后端验证的简单方法.
 - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - 封装您的表单并处理其状态和验证的“提供者组件”.
 - [ps-validation](https://github.com/PrimitiveSocial/ps-validation) - 一个 Vue 插件，提供开箱即用的数据验证规则，非常受 Laravel 验证系统的启发.
-- [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - 一个 Vue.JS 插件，添加了一个全局 mixin，可用于从 laravel 错误响应中填充错误变量并将其显示为对象或数组，也可用作本地 mixin.
+- [vue-laravel-errors](https://github.com/Sohaib-Sherif/vue-laravel-errors) - 一个 Vue.JS 插件，它添加了一个全局 mixin，可用于从 laravel 错误响应中填充错误变量并将其显示为对象或数组，也可以用作本地 mixin.
 - [vue-input-validator](https://github.com/mediv0/vue-input-validator) -️ Vue 2 的高度可扩展和可定制的输入验证器
 - [@vuito/vue](https://github.com/mathix420/vuito) - 简单、轻量级、同构和基于模板的验证库.
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - 小（2.5KB 缩小）Vue 验证组合.
@@ -2919,7 +2920,7 @@ _本地存储等_
 - [vue-authenticate](https://github.com/dgrubelic/vue-authenticate) - 用于登录/注册和 OAuth (1.0/2.0) 身份验证的简单 Vue.js 身份验证库
 - [vue-facebook-account-kit](https://github.com/biessek/vue-facebook-account-kit) - 对 fb 帐户工具包库的简单 vue 包装器.
 - [casl-vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - 限制给定用户可以访问的资源
-- [vue-google-api](https://github.com/vertcitron/vue-google-api) - 一个包装器，用于轻松地将 Google 的 API 客户端集成到任何 vue.js 2 项目中，基于 Promise，内置 Oauth2“使用 Google 登录”设施.
+- [vue-google-api](https://github.com/vertcitron/vue-google-api) - 一个基于 Promise 的封装器，可轻松将 Google 的 API 客户端集成到任何 vue.js 2 项目中，并具有内置的 Oauth2“使用 Google 登录”功能.
 - [vue-auth](https://github.com/websanova/vue-auth) - 一个简单的 Vue.js 轻量级认证库
 - [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin) - 使用 typescript 的 Vue.js 的简单身份验证和授权库
 - [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) - 一个简单的 Vue 插件，可将 Google 登录按钮包含到您的 Web 应用程序中
@@ -3163,7 +3164,7 @@ _与服务或其他框架集成_
 - [vue-facebook-login-component](https://github.com/adi518/vue-facebook-login-component) - 用于集成 Facebook 登录的完全可定制的组件.
 - [vue-programmatic-invisible-google-recaptcha](https://github.com/promosis/vue-programmatic-invisible-google-recaptcha) - 一个简单的不可见的 Google reCAPTCHA 组件，仅专注于程序调用.
 - [vbuild](https://github.com/manatlan/vbuild)  - 它的主要目的是让您在您的 vuejs 应用程序中使用组件（.vue 文件），而无需完整的 nodejs 堆栈. 从 0.6 版本开始：您可以创建 [your component in pure python](https://github.com/manatlan/vbuild/blob/master/doc/PyComponent.md) !
-- [feathers-vuex](https://github.com/feathers-plus/feathers-vuex)  - 是 Feathers Client 和 Vuex 的一流集成. 它在后台实现了许多 Redux 最佳实践，消除了许多样板代码，并且仍然允许您轻松自定义 Vuex 商店.
+- [feathers-vuex](https://github.com/feathers-plus/feathers-vuex)  - 是 Feathers Client 和 Vuex 的一流集成. 它在底层实现了许多 Redux 最佳实践，消除了许多样板代码，并且仍然允许您轻松自定义 Vuex 商店.
 - [vue-nocaptcha](https://github.com/chiaweilee/vue-nocaptcha) - Vue.js 的阿里云 noCAPTCHA 组件
 - [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) - Ionic v4 的 Vue.js 集成
 - [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) - 0xcert 框架的 Vue.js 集成 - 一个开源库，提供用于构建强大的去中心化应用程序的工具

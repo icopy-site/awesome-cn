@@ -179,17 +179,18 @@
 
 ### Servers
 
-- [Paper](https://papermc.io/) - Spigot 和 BungeeCord 的其他补丁提供更好的性能和更多的配置选项.
+- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/)  - 以前称为 MCPC+. 实现 Forge 和 Bukkit API 的原始服务器.
+- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - 一个基岩版服务器，为支持 Nukkit API 的插件提供支持.
+- [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) - 使用 Docker 容器的自托管 Minecraft 服务器.
 - [Glowstone](https://glowstone.net/)  - 以前称为 Spout 和 BukkitContrib.  Spigot Server 替代方案从头开始编写，性能类似于 Paper.
+- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
+- [Mohist](https://mohistmc.com/) - 实现 Forge 和 Bukkit API 的服务器.
+- [Paper](https://papermc.io/) - Spigot 和 BungeeCord 的其他补丁提供更好的性能和更多的配置选项.
+- [PocketMine](https://www.pocketmine.net/) - 提供基本插件支持的基岩版服务器.
+- [PowerNukkit](https://powernukkit.org/) - Nukkit 的强大分支.
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit 的继任者为 Bukkit API 提供支持.
 - [Sponge](https://www.spongepowered.org/) - Minecraft 服务器提供对 Sponge API 的支持，并且可以扩展到 Forge API 和 Bukkit API.
-- [Mohist](https://mohistmc.com/) - 实现 Forge 和 Bukkit API 的服务器.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
-- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
-- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/)  - 以前称为 MCPC+. 实现 Forge 和 Bukkit API 的原始服务器.
-- [PowerNukkit](https://powernukkit.org/) - Nukkit 的强大分支.
-- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - 一个基岩版服务器，为支持 Nukkit API 的插件提供支持.
-- [PocketMine](https://www.pocketmine.net/) - 提供基本插件支持的基岩版服务器.
 
 ### Libraries
 

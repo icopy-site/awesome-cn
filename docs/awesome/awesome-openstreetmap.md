@@ -57,7 +57,7 @@
 * [taginfo](https://taginfo.openstreetmap.org/)  - 显示标签及其使用信息的网站.  ([Source Code](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
 * [Turn Restrictions](https://ahorn.lima-city.de/tr/) - 查看转弯限制和链接错误.
 * [NLMaps](https://nlmaps.gorgor.de/) - 允许使用简单英语查询 OSM 数据的网站.
-* [My Notes](https://my-notes.osm-hr.org/) - 搜索找到您未解决的旧笔记.
+* [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
 * [YoHours](https://projets.pavie.info/yohours/)  - 生成“opening_hours”标签的工具.  ([Source Code](https://framagit.org/PanierAvide/YoHours))
 * [OpenStreetMap Welcome Tool](https://welcome.osm.be/)  - 用于在您所在地区寻找新地图绘制者的工具.  ([Source Code](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/)  - 将人类可读的营业时间转换为“opening_hours”标签的工具.  ([Source Code](https://github.com/OSM-de/WebToOSMOH))
@@ -122,9 +122,10 @@
 * [Road Curvature](https://roadcurvature.com/map/)  - 帮助那些喜欢它们的人找到弯曲的道路.  ([Source Code](https://github.com/adamfranco/curvature))
 * [OpenLevelUp!](https://openlevelup.net/) - 基于 OSM 的室内查看器.（[Wiki](https://wiki.openstreetmap.org/wiki/OpenLevelUp))
 * [AccessMap](https://www.accessmap.io/)  - 一个网络地图项目，可为行动不便的人提供无障碍、安全的人行道旅行计划. 目前渲染华盛顿州的几个城市.  ([Source Code](https://github.com/accessmap))
-* [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
+* [OSM Landuse](https://osmlanduse.org) - 基于 OSM 的土地利用和土地覆盖 WebGIS 应用程序.
 * [OsmAPP](https://osmapp.org)  - 可浏览的地图显示数据并提供简单的 POI 编辑功能.  ([Source Code](https://github.com/zbycz/osmapp))
 * [Tracesmap](https://tracesmap.com/) - 允许在 OsmCarto 和 OpenTopoMap 派生的视网膜地图上规划路线的地图.
+* [Visit Sights](https://visitsights.com/) - 步行自助观光旅游的建议和世界各地各个景点的概览.
 
 ### Mobile Maps
 
@@ -195,6 +196,7 @@
 ## Miscellaneous
 
 * [OpenGeofiction](https://opengeofiction.net/)  - 一个完全虚构的用户制作的世界地图，使用 OSM 软件平台创建.  ([Wiki](https://wiki.openstreetmap.org/wiki/OpenGeofiction))
+* [OSM Monitor](https://osm-monitor.com/)  - 监控和显示新 OSM 编辑的网站.  ([Source Code](https://github.com/johanmorganti/osm-datadog))
 
 ## Video
 

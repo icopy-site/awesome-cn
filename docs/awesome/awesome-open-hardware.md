@@ -23,6 +23,7 @@
 * [Mutable Instruments](https://mutable-instruments.net/) - 开源 eurorack 经典.
 * [openUC2](https://github.com/openUC2/UC2-GIT) - 开源模块化显微镜工具箱.
 * [OpenFlexure](https://openflexure.org/) - 开源的 3D 打印显微镜，包括精密机械载物台.
+* [Open-Source-Rover](https://github.com/nasa-jpl/open-source-rover) - 六轮、自行构建、开源的漫游车.
 * [Biohack Academy](http://biohackacademy.github.io/) - 孵化器、热循环仪、离心机、显微镜等开源生物技术硬件.
 * [GaudiLab](http://www.gaudi.ch/GaudiLabs/?page_id=19) - 生物实验室的开源硬件项目.
 * [Winterbloom](https://winterbloom.com) - 开源 eurorack 模块，Thea 在她的博客上有一些出色的设计文章.
@@ -55,7 +56,7 @@
 
 ## Platforms
 
-* [Open Hardware Repository](https://ohwr.org/welcome) - 让实验物理设施的电子设计师在开放式硬件设计上进行协作.
+* [Open Hardware Repository](https://ohwr.org/welcome) - 供实验物理设施的电子设计师合作开发开放式硬件设计.
 * [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) - 可持续开放硬件的免费蓝图.
 * [Instructables](http://www.instructables.com/tag/type-id/category-technology/) - Instructables 是一个让您探索、记录和分享您的创作的地方.
 * [Hackaday.io](https://hackaday.io/) - Hackaday.io 是世界上最大的协作硬件开发社区.

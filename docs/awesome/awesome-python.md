@@ -571,7 +571,7 @@
 * [kivy](https://kivy.org/) - 用于创建 NUI 应用程序的库，可在 Windows、Linux、Mac OS X、Android 和 iOS 上运行.
 * [pyglet](https://github.com/pyglet/pyglet) - Python 的跨平台窗口和多媒体库.
 * [PyGObject](https://wiki.gnome.org/Projects/PyGObject) - GLib/GObject/GIO/GTK+ (GTK+3) 的 Python 绑定.
-* [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python 绑定 [Qt](https://www.qt.io/) 跨平台应用程序和 UI 框架.
+* [PyQt](https://doc.qt.io/qtforpython/) - Python 绑定 [Qt](https://www.qt.io/) 跨平台应用程序和 UI 框架.
 * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - tkinter、Qt、WxPython 和 Remi 的包装器.
 * [pywebview](https://github.com/r0x0r/pywebview/) - 围绕 webview 组件的轻量级跨平台原生包装器.
 * [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter 是 Python 的事实上的标准 GUI 包.
@@ -860,7 +860,7 @@
 *用于启动和与操作系统进程通信的库.*
 
 * [delegator.py](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) 对于人类 2.0.
-* [sarge](https://sarge.readthedocs.io/en/latest/) - 子进程的另一个包装器.
+* [sarge](https://sarge.readthedocs.io/en/latest/) - 子流程的另一个包装器.
 * [sh](https://github.com/amoffat/sh) - 一个成熟的 Python 子进程替代品.
 
 ## Recommender Systems

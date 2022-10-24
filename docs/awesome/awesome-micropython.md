@@ -139,7 +139,7 @@
 * [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - 使用 pyboard 和 sim800l 的 gsm 手机.
 * [micropython-sim800](https://github.com/olablt/micropython-sim800) - 用于 sim800 的 MicroPython 驱动程序.
 * [sim800](https://github.com/basanovase/sim800) - 用于与 MicroPython 中的 SIM800 模块接口的库.
-* [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - AM7020 窄带物联网 (NBIoT) 模块的 MicroPython 驱动程序.
+* [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - MicroPython driver for AM7020 Narrowband Internet of Things (NBIoT) module.
 
 #### IoT
 
@@ -155,7 +155,7 @@
 
 #### IR
 
-* [micropython-necir](https://github.com/MattMatic/micropython-necir) - NEC infrared capture for TL1838 IR receiver LEDs.
+* [micropython-necir](https://github.com/MattMatic/micropython-necir) - 用于 TL1838 IR 接收器 LED 的 NEC 红外捕获.
 * [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard 红外遥控嗅探和回放.
 * [micropython_ir](https://github.com/peterhinch/micropython_ir) - 非阻塞设备驱动程序从红外遥控器和红外“冲击波”应用程序接收.
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Grid-EYE 热红外阵列传感器 (Adafruit 3538) 的驱动程序.
@@ -348,7 +348,7 @@
 #### Graphics
 
 * [micropython-stage](https://github.com/python-ugame/micropython-stage) - Stage 游戏库的 MicroPython 端口.
-* [micropython-png](https://github.com/Ratfink/micropython-png) - Derivative of PyPNG for use with MicroPython.
+* [micropython-png](https://github.com/Ratfink/micropython-png) - 用于 MicroPython 的 PyPNG 的衍生物.
 * [mpy-img-decoder](https://github.com/remixer-dec/mpy-img-decoder) - 纯 MicroPython 中的 PNG 和 JPEG 解码器/解析器/渲染器.
 * [micropython-oled-progressbars](https://github.com/follower46/micropython-oled-progressbars) - 在 OLED 显示器上与 esp8266 和 esp32 一起使用的进度条集合.
 * [microplot](https://github.com/romilly/microplot) - 简单的 MicroPython 绘图包.
@@ -478,7 +478,7 @@
 * [ADS7818](https://github.com/robert-hh/ADS7818) - 连接 ADS7818 AD 转换器的 Python 类.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) - 用于德州仪器 ADS1219 ADC 的 MicroPython 模块.
 * [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - 用于 HX711 24 位模数转换器的 MicroPython 驱动程序.
-* [MicroPython-ADC_Cal](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC 驱动器使用来自 efuse 的参考电压校准值.
+* [MicroPython-ADC_Cal](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 * [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - 用于 PCF8591 ADC/DAC、I2C 接口的 MicroPython 驱动程序.
 
 #### DAC
@@ -784,7 +784,7 @@
 * [micropython-mcron](https://github.com/fizista/micropython-mcron) - MicroCRON 是一个基于时间的 MicroPython 任务调度程序.
 * [micropython-scron](https://github.com/fizista/micropython-scron) - SimpleCRON 是一个基于时间的任务调度程序，灵感来自著名的 Unix 系统 CRON 程序.
 * [Schedule](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) 基于 uasyncio 的应用程序的调度程序. 在指定的时间和日期安排活动.
-* [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) 支持任务运行之间的深度睡眠的持久 uasyncio 调度程序.  
+* [micropython-aioschedule](https://github.com/ThinkTransit/micropython-aioschedule) 支持任务运行之间的深度睡眠的持久 uasyncio 调度程序.
 
 ### Storage
 
@@ -857,10 +857,10 @@
 * [Beginning MicroPython with the Raspberry Pi Pico: Build Electronics and IoT Projects](https://link.springer.com/book/10.1007/978-1-4842-8135-2)  ——查尔斯·贝尔. 国际标准书号 9781484281345.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  - 马尔万·阿尔萨巴格. 国际标准书号 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.mheducation.com.au/python-for-microcontrollers-getting-started-with-micropython-9781259644535-aus)  - 唐纳德诺里斯. 国际标准书号 9781259644535.
-* [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  - 尤里·玛格达. 国际标准书号 9781090900937.
+* [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  - 尤里·玛格达. 国际标准书号 9781090900937 .
 * [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  - 雅各布·贝宁戈. 国际标准书号 9781789958034.
 * [Get Started with MicroPython on Raspberry Pi Pico](https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico)  - Gareth Halfacree 和 Ben Everard 着. 国际标准书号 9781912047864.
-* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book)  - Günter Spanner 着. 国际标准书号 9783895764370.
+* [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book)  - Günter Spanner. 国际标准书号 9783895764370.
 
 ## Frameworks
 
@@ -888,6 +888,7 @@
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) - 为不同的 MicroPython 固件生成和使用存根，以与 vscode 和/或 pylint 一起使用.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) - 为 Micropy-Cli 和其他任何人自动生成的存根包.
 * [micropython-extmod-generator](https://github.com/prusnak/micropython-extmod-generator) - 用 C 编写的 MicroPython 外部模块的生成器.
+* [micropython-package-template](https://github.com/brainelectronics/micropython-package-template) - GitHub 工作流支持 MicroPython 包模板，可部署到 [Python Package Index](https://pypi.org/) 在推送到主分支并测试部署到 [Test Python Package Index](https://test.pypi.org/) 在 PR 上.
 
 ### Debugging
 

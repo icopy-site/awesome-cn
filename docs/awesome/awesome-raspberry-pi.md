@@ -23,11 +23,11 @@
 - [Raspberry Pi 1, Model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model-a-plus/) （2014 年 11 月）
 - [Raspberry Pi 2, Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) （2015 年 2 月）
 - [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) （2015 年 11 月）
-- [Raspberry Pi 3, Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) (March, 2016)
+- [Raspberry Pi 3, Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) （2016 年 3 月）
 - [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) （2017 年 2 月）
 - [Raspberry Pi 3, Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) （2018 年 3 月）
 - [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) （2018 年 11 月）
-- [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) (June, 2019)
+- [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) （2019 年 6 月）
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （2020 年 11 月）
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico) （2021 年 1 月）
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) （2021 年 10 月）
@@ -70,7 +70,7 @@
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
 - [OSMC](https://osmc.tv/) - 基于 Kodi 的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型 DVS 系统允许您使用时间码乙烯基控制数字音乐文件.
-- [PiNet](http://pinet.org.uk/) - 管理树莓派教室的系统.
+- [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - 匿名离线移动文件共享和通信系统.
 - [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm 是一种将纯文本视觉或听觉转换为摩尔斯电码 (IMC) 的通信设备.
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/) - 官方支持的 Raspberry Pi OS（以前称为“Raspbian”），基于 Debian，可作为精简版使用.
@@ -115,12 +115,12 @@
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
 - [Pi-Apps](https://github.com/Botspot/pi-apps) - 最流行的树莓派电脑应用商店，100% 开源 bash 脚本.
 - [Processing](https://pi.processing.org/get-started/) - 在 Raspberry Pi 上运行的处理开发环境.
-- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi 是一款基于 AI 的 Wi-Fi 破解工具，可从其周围的 WiFi 环境中学习，以最大限度地利用其捕获的可破解 WPA 密钥材料.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - 一个简单的响应式 Web 界面，用于控制 Raspberry Pi 上的 wifi、hostapd 和相关服务.
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - 一种将 Raspberry Pi OS 和其他操作系统安装到 SD 卡的简单方法，可与您的 Raspberry Pi 一起使用
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  - 在 Raspbian 上启动 QEMU 的简单工具，并对系统和内核进行必要的修改. 自动网络访问. 方便在您的 PC 中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 简单的应用程序/repo 将 Raspberry Pi 的 wlan0 接口桥接到通过以太网 (eth0) 插入其中的设备.
-- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都启动完全配置并准备好工作. 或者玩.
+- [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都会启动完全配置并准备好工作. 或者玩.
 - [stressberry](https://github.com/nschloe/stressberry) - 对您的 Raspberry Pi 进行压力测试并绘制温度图.
 - [TorTiPi](https://github.com/r0hi7/tortipi) - 用于自动将 Raspberry Pi 转换为基于 Tor 的 wifi 热点的任务的 Shell 脚本.
 - [WebStation SYSMON](https://github.com/t0xic0der/sysmon) - 一个直观的可远程访问的系统性能监控和任务管理工具，适用于服务器和无头 Raspberry Pi 设置.
@@ -137,7 +137,7 @@
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - 为在学校使用 Chromebook 的学生提供定时充电站.
 - [Ceil](https://github.com/helmuthva/ceil) - 在裸机上运行 K8S 的自动配置 RPi 集群. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) - 用于 Raspberry Pi 的 C++ 裸机环境.
-- [clockOS](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
+- [clockOS](https://github.com/iGerli/clockOS) - 使用 Raspberry Pi 显示器的简单智能桌面时钟.
 - [CocktailMaker](https://github.com/alex9849/pi-cocktail-maker) - 可通过浏览器和触摸屏控制的高级鸡尾酒制作机.
 - [Coder for Raspberry Pi](http://googlecreativelab.github.io/coder/) - Google 员工的一个开源项目，旨在将 Raspberry Pi 变成一个简单、微型的个人 Web 服务器和基于 Web 的开发环境.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky 几乎可以被任何带有 USB 端口的设备识别为 USB HID，因此您可以像运行键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
@@ -187,6 +187,7 @@
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - 在 Raspberry Pi 上运行的大数据集群.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - 让您自己的闪电节点运行的最快和最便宜的方式.
 - [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Raspberry Pi 上的 ️⚡Lightning️⚡ 初学者指南.
+- [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - 使用软件无线电 (SDR) 从 GOES-16 卫星接收天气图像的高级项目. 
 - [Relayboard Control](https://github.com/leinir/relayboard-control) - 用于将 Waveshare 8 通道中继板连接到 MQTT 服务器的 Qt 应用程序.
 - [Rhasspy](https://rhasspy.readthedocs.io) - 开源、完全离线的语音助手服务集，可与 Home Assistant、Node-RED、MQTT 等配合使用.
 - [RPi Motor Library](https://github.com/gavinlyonsrepo/RpiMotorLib) - 用于将各种电机和伺服系统连接到 Pi 的 Python 3 库.
@@ -214,6 +215,8 @@
 
 ### Useful Apps
 
+#### Android
+
 - **AndFTP** - 替代 FTP 客户端应用程序. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 - **家庭远程控制** - 控制鼠标/键盘、音量、管理下载/上传文件、自定义命令、终端、将来执行任务、控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
@@ -227,10 +230,14 @@
 - **Turbo FTP** - 一个很好的 FTP 客户端应用程序，用于访问树莓派上的文件. [Android](https://play.google.com/store/apps/details?id=turbo.client)
 - **VNC 查看器** - 远程控制 Raspberry Pi 桌面. [Android](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
 
+#### iOS
+
+- **RaspController** - 允许您轻松地远程管理您的 Raspberry Pi、控制 GPIO 端口、直接通过终端发送命令等等. [iOS](https://apps.apple.com/app/raspcontroller/id1584315865)
+
 ### Articles
 
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - 有关为 pi 供电的不同和正确方法的信息.
-- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - 包含常见问题和陷阱链接的综合列表.
+- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - 介绍 Raspberry Pi 以及可以用它做什么.
 - [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - 为初学者设置 Raspberry Pi 的指南.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf)  - Pi 即安全最佳实践的广泛指南. 暴露在互联网上.
@@ -244,7 +251,7 @@
 - [Essentials - Conquer the Command Line (Version 2)](https://magpi.raspberrypi.com/books/command-line-second-edition) - 了解如何使用 Raspbian 命令和征服 Raspberry Pi 上的命令行，在自动化简单任务的同时简化复杂任务.
 - [Essentials - GPIO Zero Electronics](https://magpi.raspberrypi.com/books/essentials-gpio-zero-v1) - 使用 GPIO 引脚和 Raspberry Pi 上的 GPIO Zero 库创建电子作品.
 - [Essentials - Learn to Code with C](https://magpi.raspberrypi.com/books/essentials-c-v1) - 了解如何在您的 Raspberry Pi 上使用构建 Linux 的大部分语言和 C 编程语言 Raspbian 进行编码.
-- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - Use the Scratch coding blocks language to learn the basics of programming on your Raspberry Pi.
+- [Essentials - Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - 使用 Scratch 编码块语言来学习在您的 Raspberry Pi 上编程的基础知识.
 - [Essentials - Make Games with Python](https://magpi.raspberrypi.com/books/essentials-games-vol1) - 通过使用 Python 制作游戏，从简单的基于文本的游戏到带有声音和动画的成熟游戏，使用 Raspberry Pi 创建您自己的娱乐.
 - [Essentials - Making with Minecraft](https://magpi.raspberrypi.com/books/essentials-minecraft-v1) - 了解如何使用 API、GPIO 引脚、您的程序等与特殊的 Raspberry Pi 版本的我的世界进行交互.
 - [Essentials - Sense HAT Experiments](https://magpi.raspberrypi.com/books/essentials-sense-hat-v1) - 一本有用的实验书，可与 Sense HAT 一起使用，以及如何充分利用它.
@@ -277,7 +284,7 @@
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - 关于如何使用 Docker 设置集群、使用 Docker Compose 分发服务以及使用 Letsencrypt 签署有效 SSL 证书的明确指南.
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - 使用 Beacon 技术的良好初学者指南.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - 在您的 Raspberry Pi 上设置 VPN 的简单、安全和详细的指南.
-- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream 实施可将您的完整 Steam 游戏集从桌面流式传输到 Raspberry Pi.
+- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
 - [Raspbereum](https://github.com/jim380/Raspbereum) - 在 Raspberry Pi 上运行您自己的以太坊节点.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - 如何以 35 美元的价格构建 Raspberry Pi 复古游戏机.
 - [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Raspberry Pi 上 ssh 会话的无密码登录.

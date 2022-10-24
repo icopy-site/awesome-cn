@@ -155,6 +155,7 @@ _有助于开发 Plone 的附加组件_
 * [plone.reload](https://github.com/plone/plone.reload) - 无需重新启动服务器即可重新加载代码和配置.
 * [Products.PrintingMailHost](https://github.com/collective/Products.PrintingMailHost) - 记录邮件消息而不是发送邮件.
 * [experimental.gracefulblobmissing](https://github.com/collective/experimental.gracefulblobmissing/) - 优雅地处理 Plone 中丢失的二进制文件.
+* [collective.patchwatcher](https://github.com/collective/collective.patchwatcher) - 跟踪修补或覆盖文件的绝佳伴侣.
 * [collective.relationhelpers](https://github.com/collective/collective.relationhelpers)  - 在 Plone 5.x 中管理、创建、导出和重建关系的助手. 对于 Plone 6，这被合并到 Plone 核心中.
 
 

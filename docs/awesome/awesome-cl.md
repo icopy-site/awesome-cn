@@ -46,7 +46,7 @@ Audio
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一个
 [SuperCollider](http://supercollider.github.io/)  CommonLisp 的客户端. 带一个 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  - 声音和音乐计算系统. 包括用于 Common Lisp 的 CFFI 和 FFI 接口.
-* [CLM](https://ccrma.stanford.edu/software/clm/)  - Common Lisp Music 是 Music V 系列中的一个音乐合成和信号处理包. 它提供了与 Stk、Csound、SuperCollider、PD、CMix、cmusic 和 Arctic 大致相同的功能 — 一组创建和操纵声音的功能，主要针对作曲家（无论如何是 CLM 的情况）.
+* [CLM](https://ccrma.stanford.edu/software/clm/)  - Common Lisp Music 是 Music V 系列中的一个音乐合成和信号处理包. 它提供了与 Stk、Csound、SuperCollider、PD、CMix、cmusic 和 Arctic 大致相同的功能——创建和操纵声音的功能集合，主要针对作曲家（无论如何是 CLM 的情况）.
 * [cl-patterns](https://github.com/defaultxr/cl-patterns)  - 一个通过 Lisp 代码创作音乐的系统，深受 SuperCollider 模式系统的启发，旨在实现其中的大部分内容，但以更健壮、富有表现力、一致、反思和 lispy 的方式实现. 通过 SuperCollider 的音频输出，初步支持 Incudine，以及通过 ALSA 的 MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  - OpenAL 音频库的绑定. 公共区域.
 * [Common Music](https://github.com/ormf/cm) - the repository of an
@@ -329,7 +329,7 @@ GUI
   * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - 为 tkdocs 教程提供 LTk 示例.
   * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/)  - 围绕 tklib/plotchart 库的包装器，可与 LTk 一起使用. 这包括 20 多种不同的图表类型（xy 图、甘特图、3d 条形图等）.
   * [nodgui](https://notabug.org/cage/nodgui)  - Tk 工具包的绑定，基于 Ltk，带有语法糖和其他小部件.  [LLGPL][8].
-* [IUP](https://github.com/lispnik/iup/) - CFFI 绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA 之前）.  IUP 是跨平台的（Windows、macOS、GNU/Linux，带有新的 Android、iOs、Cocoa 和 Web Assembly 驱动程序），有许多小部件，有一个小的 api，并且正在积极开发.
+* [IUP](https://github.com/lispnik/iup/) - CFFI 绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA 之前）.  IUP 是跨平台的（Windows、macOS、GNU/Linux，带有新的 Android、iOs、Cocoa 和 Web Assembly 驱动程序），有许多小部件，有一个小的 api 并且正在积极开发.
 * [cl-gtk4](https://github.com/bohonghuang/cl-gtk4)  - 通用 Lisp 的 GTK4/Libadwaita/WebKit 绑定.  [LGPL3][9].
 * [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk)  - 绑定 GTK+3.  [GNU LGPL2.1][11].
   - 一个教程： [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
@@ -645,7 +645,7 @@ Community
 * [Quicksys](https://lisp.com.br/quicksys/)  - 从多个 Quicklisp 发行版安装系统.  [麻省理工学院][200].
 * [Quickutil](https://github.com/tarballs-are-good/quickutil)  - 实用程序管理器，类似于 Quicklisp，但用于小型实用程序而不是整个库.  [3 条款 BSD][15].
 
-might help:
+可能有帮助：
 
 * [quick-patch](https://github.com/tdrhq/quick-patch/)  - 无需使用 git 子模块即可轻松覆盖 quicklisp 项目.  MPL-2.0.
 * [print-licenses](https://github.com/vindarel/print-licenses)  - 打印项目及其依赖项使用的许可证.  [麻省理工学院][200].
@@ -894,7 +894,7 @@ Web 开发实用程序
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3 条款][15]. 不在 Quicklisp 中.
   * 提供带有 Hunchentoot Web 服务器、easy-routes、Djula 模板、基于 SQLite 的 Bulma 样式、迁移、示例表定义和使用 FiveAM 的测试套件的工作玩具 Web 应用程序.
 * [make-like](https://github.com/container-lisp/make-like)  - LIKE（Lisp In Kubernetes + Emacs）应用程序的应用程序模板构建器.  [Apache2.0][51].
-  * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的 easy-route 等等.
+  * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的 easy-route 等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的 Web 应用程序样板. 使用 Hunchentoot，cl-who，轻松部署到 Heroku.  [麻省理工学院][200].
 
 Others
@@ -936,7 +936,8 @@ Others
 * [humbler](https://github.com/Shinmera/humbler)  - 一个 Tumblr API 接口.  [zlib][33].
 * [multiposter](https://github.com/Shinmera/multiposter)  - 同时发布到多个服务.  [zlib][33].
 * [stripe](https://git.mfiano.net/mfiano/stripe)  - Stripe 支付系统的客户.  [麻省理工学院][200].
-* [lisp-pay](https://github.com/K1D77A/lisp-pay)  - 各种支付处理器的包装：Paypal、Stripe、Coinpayment.  [麻省理工学院][200].
+* [lisp-pay](https://github.com/K1D77A/lisp-pay)  - 各种支付处理器的包装：Paypal、Stripe、Coinpayments 和 BTCPayServer.  [麻省理工学院][200].
+* [lunamech-matrix-api](https://github.com/K1D77A/lunamech-matrix-api)  - 对客户端 -&gt; 服务器矩阵 API 的完整包装.  [麻省理工学院][200].
 
 
 数值和科学
@@ -1400,7 +1401,7 @@ Lisp 核心.
 * [ppath](https://github.com/fourier/ppath) - 普通 Lisp 
  Python 的 os.path 模块的实现.  [BSD][15].
 * [archive](https://github.com/froydnj/archive)  - 用于读取和创建归档（tar、cpio）文件的库.  [BSD_3 条款][15].  `tar` 程序的纯 Common Lisp 替代品.
-  * 查看它最近的分叉 [cl-tar](https://common-lisp.net/project/cl-tar/) (2021). [Announce](https://www.timmons.dev/posts/new-project-cl-tar.html).
+  * see its recent fork [cl-tar](https://common-lisp.net/project/cl-tar/) (2021). [Announce](https://www.timmons.dev/posts/new-project-cl-tar.html).
 * [mmap](https://github.com/Shinmera/mmap)  - 便携式 mmap 文件内存映射实用程序库.  [zlib][33].
 * [fof](https://gitlab.com/ambrevar/fof)  - 文件对象查找器 Common Lisp 库. 启用快速文件搜索、检查和操作.  [GPL3][2].
 
@@ -1431,7 +1432,7 @@ i18n
 Linting，代码格式化
 ------------------------
 
-* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog（[slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
+* [sblint](https://github.com/fukamachi/sblint) - 使用 SBCL 的 Common Lisp 源代码的 linter，适用于 Reviewdog ([slides](http://www.slideshare.net/fukamachi/sblint) ）.  [BSD_2 条款][17].
 * [trivial-formatter](https://github.com/hyotang666/trivial-formatter)  - Common Lisp 的代码格式化程序.  [麻省理工学院][200].
 
 并且： [lisp-format](https://github.com/eschulte/lisp-format) 和 [cl-indentify](https://github.com/yitzchak/cl-indentify).
