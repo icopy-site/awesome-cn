@@ -59,7 +59,6 @@
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-jmeter) - 最流行的脚本机制性能比较.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - 使用 JMeter 和 Groovy 进行负载测试.
-- [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter：忘记 BeanShell 采样器 :ru:.
 
 ## Automation
 
@@ -103,6 +102,7 @@
 - [Lightning](https://automatictester.github.io/lightning/) - 将 JMeter 非功能测试与 CI/CD 服务器集成的框架.
 - [Taurus JMeter Executor](https://gettaurus.org/docs/JMeter/) - Taurus 自动化框架中的 JMeter Executor.
 - [PerfAction for JMeter](https://github.com/marketplace/actions/perfaction-for-jmeter) - 使用 Apache JMeter 及其插件运行性能测试的 GitHub Action.
+- [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - 用于执行 Apache JMeter 性能测试的 GitHub 操作.
 
 ### Tutorials & Demo
 
@@ -121,7 +121,7 @@
 - 圈子CI
   - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/circleci-jmeter)
 -SonarQube
-  - [JMeter with Sonar](http://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
+  - [JMeter with Sonar](https://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
 
 ## Distributed Testing
 
@@ -131,7 +131,7 @@
 - 码头化
   - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) - 使用 Docker 和 JMeter 的分布式负载测试工作流程.
   - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
-  - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+  - [Distributed JMeter testing using Docker](https://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
   - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
   - [AutoMeter](https://github.com/intuit/autometer) - 基于 JMeter 主从架构，使用分布式从属扩展负载测试的自动化工具.
 - 云端测试
@@ -172,7 +172,7 @@
 ### Results Analysis
 
 - [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - JMeter 日志分析的建议和方法.
-- [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+- [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 - [JtlReporter](https://github.com/ludeknovy/jtl-reporter) - 在线报告应用程序，通过上传 JTL 文件生成报告.
 - [JAnalyser](http://janalyser.com/) - 基于浏览器的结果分析工具.
@@ -219,10 +219,10 @@
   - [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) - 一个 JMeter 插件，用于将测试结果发送到 New Relic Metrics API.
 - 自定义和弃用
   - [Using Matplotlib & Python](https://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - 使用 Matplotlib 绘图工具和 Python 绘制 JMeter 负载测试结果.
-  - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - 用于增强结果可视化的自定义统计聚合报告侦听器.
+  - [Statistical Aggregate Report](https://rubenlaguna.com/post/2007-01-02-better-jmeter-graphs/) - 用于增强结果可视化的自定义统计聚合报告侦听器.
   - [JChav](https://github.com/d6y/jchav) - JMeter 图表历史和可视化库.
-  - JMeter仪表板： [howto](http://seangkuan.blogspot.com/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - 实时监控JMeter负载测试.
-  - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com/2015/12/jmeter-create-graphs-with-cmdrunner.html) - 使用带有 powershell 并行执行的 CMDRunner 创建 JMeter 图.
+  - JMeter仪表板： [howto](https://seangkuan.blogspot.com/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - 实时监控JMeter负载测试.
+  - [Using CMDRunner & Powershell](https://performancewebautoamtionother.blogspot.com/2015/12/jmeter-create-graphs-with-cmdrunner.html) - 使用带有 powershell 并行执行的 CMDRunner 创建 JMeter 图.
   - [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - 使用 CMDRunner 和过滤结果工具创建图表和过滤结果的 Maven 插件 [JMeter Plugins](#plugins) ; 通常与 [JMeter Maven Plugin](#tools--plugins).
 
 ## Performance Testing
@@ -292,7 +292,7 @@
 - [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - JMeter 测试计划文件的基于 Web 的查看器和编辑器（部分 [JMeter Plugins](#plugins) 项目）.
 - [JEval](https://github.com/QAInsights/JEval) - 基于 Python 的实用程序，可评估 JMeter 测试计划并通过分析每个元素提供建议和最佳实践.
 - [JMX Enhancer](https://www.jmxenhancer.com/) - 加快 JMeter 测试计划准备的解决方案.
-- [jmx.js](http://www.vinodkd.org/jmx.js/) - JMeter JMX 文件的基于 Web 的编辑器.
+- [jmx.js](https://www.vinodkd.org/jmx.js/) - JMeter JMX 文件的基于 Web 的编辑器.
 
 ## APM Integration
 
@@ -313,7 +313,7 @@
 
 ## Tips & Tricks
 
-- [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) - JMeter 提示和技巧暂存器.
+- [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter 提示和技巧暂存器.
 
 ## Books
 
@@ -358,8 +358,8 @@
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - 另一个使用 JMeter 进行性能和自动化测试的博客.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - 关于 JMeter 和负载测试的 OctoPerf 博客.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - 关于 JMeter 的抽象博客.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) - 关于 Apache JMeter 和 Web 应用程序性能测试的博客.
-- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert 博客.
+- [JMeter Tips](https://jmeter-tips.blogspot.com/) - 关于 Apache JMeter 和 Web 应用程序性能测试的博客.
+- [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert 博客.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole 博客.
 - [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - 若昂·法里亚斯.
 - [Azure Load Testing Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Azure%20Load%20Testing) - 由 Microsoft 技术社区提供.
@@ -369,8 +369,6 @@
 <!--lint ignore double-link-->
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
-- [JMeter SQAforums 💀](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
-- [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Software-Testing.ru :ru: 的讨论板.
 
 ### Twitter
 

@@ -46,7 +46,7 @@
 
  Python 是迄今为止科学界最流行的语言，这在很大程度上归功于它的易用性和用户生成的包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为`conda install`），一个强大的包管理器，可以为Python、R安装包，并且可以下载像Git这样的可执行文件. 
 
-与 R 不同，Python 从头开始​​构建时并没有考虑到数据科学，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组不错的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用的数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是您会发现的许多常见算法背后的基本原理的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集和分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供了非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，具有许多开箱即用的良好默认值，以及一个展示如何生成许多常见数据可视化的图库.
+与 R 不同，Python 从头开始​​构建时并没有考虑到数据科学，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始数据科学之旅的一组不错的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用的数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是您会发现的许多常见算法背后的基本原理的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集和分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供了非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，具有许多开箱即用的良好默认值，以及一个展示如何生成许多常见数据可视化的图库.
 
  在踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 各有利弊. 选择您喜欢的语言，然后查看其中一个 [Free courses](#free-courses) 我们在下面列出！
 
@@ -59,7 +59,7 @@
 ### Tutorials
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用 ipyton 在浏览器上运行.
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用 IPython 在浏览器上运行.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) 针对 R 生态系统的每周数据项目.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -123,7 +123,6 @@
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 - [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-- [NLP Specialization Coursera](https://www.coursera.org/specializations/natural-language-processing)
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是 Coursera 平台上专注于推荐系统的中级/高级专业.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
@@ -234,7 +233,7 @@
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络 (GAN)
+- 生成对抗网络（GAN）
 - 自组织地图
 - 变压器
 - 条件随机场 (CRF)
@@ -412,7 +411,7 @@
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
 | [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和深度学习模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
@@ -439,7 +438,7 @@
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于 Python 的推理统计、假设检验和回归框架 |
-| [Gensim](https://radimrehurek.com/gensim/)  | 自然语言文本主题建模开源库|
+| [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
 | [spaCy](https://spacy.io/)  | 一个高性能的自然语言处理工具包 |
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
@@ -581,7 +580,7 @@
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - 万物数据科学
 - [Prash Chan](https://www.mdmgeek.com/) - 关于主数据管理和围绕它的每一个嗡嗡声的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部设在英国并在全球开展业务，可帮助客户了解将数据等内容带到云端的影响.
 - [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
   我们社区中有 3,190 多名数据科学家和数据极客.
@@ -799,7 +798,7 @@
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist)  | 首席数据科学家@Microsoft 数据科学团队 |
 | [Julia Evans](https://twitter.com/b0rk)  | 黑客 - 熊猫 - 数据分析 |
 | [Kenneth Cukier](https://twitter.com/kncukier)  | 经济学人的数据编辑和大数据的合著者 (http://www.big-data-book.com/).  |
-| Kevin Davenport | Organizer of https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ |
+ | 凯文达文波特 |  https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ 的组织者 |
 | [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师，创始人 [Data School](https://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据漫游者.  |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
@@ -841,7 +840,7 @@
 
 - [Open Data Science](https://t.me/opendatascience)  – 第一个电报数据科学频道. 涵盖与数据科学相关的所有技术和受欢迎的员工：人工智能、大数据、机器学习、统计学、普通数学和前者的应用.
 - [Loss function porn](https://t.me/loss_function_porn) — 带有视频或图形可视化的 DS/ML 主题的精美帖子.
-- [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) – 每日机器学习新闻.
 
 
 ### Slack Communities

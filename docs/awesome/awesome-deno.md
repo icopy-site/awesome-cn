@@ -82,6 +82,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - Deno 中的 React 框架，灵感来自 [Next.js](https://nextjs.org).
 - [fresh](https://github.com/lucacasonato/fresh)  - Preact，但超级前卫. 下一代网络框架.
+- [packup](https://github.com/kt3k/packup) - Deno 的零配置 Web 应用程序打包器.
 - [reflex](https://github.com/Industrial/reflex) - Deno 和 Oak 的 React 框架.
 - [ultra](https://github.com/exhibitionist-digital/ultra) - Deno 中的现代流式反应框架.
 
@@ -96,7 +97,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 ### Logging
 - [gardens](https://github.com/partheseas/gardens) - 适用于任何地方的 JavaScript 的有用日志记录实用程序.
 - [sentry_deno](https://github.com/GJZwiers/sentry_deno) - 用于 JavaScript 的 Sentry SDK 到 Deno 的非官方端口.
-- [dlog](https://github.com/dpmland/dlog) - 一个带有图标或简单版本的提示的完整记录器！
+- [dlog](https://github.com/dpmland/dlog) - A ussefull logger for the prompt with icons or simple version!
 
 ### Machine learning
 - [netsaur](https://github.com/denosaurs/netsaur) - 强大的机器学习，由 WebGPU 加速
@@ -128,7 +129,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 
 
 ### Template engine
-- [dejs](https://github.com/syumai/dejs) - 用于 deno 的 Ejs 模板引擎.
+- [dejs](https://github.com/syumai/dejs) - deno 的 Ejs 模板引擎.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) - deno 的模板渲染器.
 - [eta](https://github.com/eta-dev/eta) - 快速、轻量级和可配置的嵌入式模板引擎.
 - [handlebars](https://github.com/alosaur/handlebars) - deno 的车把模板引擎
@@ -221,7 +222,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [drash](https://github.com/drashland/deno-drash) - Deno 的 HTTP 服务器的 REST 微框架，具有零依赖性.
 - [fast](https://github.com/danteissaias/fast) - 具有接近原生性能的小型 Web 框架.
 - [faster](https://github.com/hviana/faster) - 具有一组有用的中间件的快速且优化的中间件服务器.
-- [microraptor](https://github.com/matteocrippa/microraptor) - Lightweight framework for easy network routing with validation.
+- [microraptor](https://github.com/matteocrippa/microraptor) - 轻量级框架，可通过验证轻松实现网络路由.
 - [oak](https://github.com/oakserver/oak) - Deno 网络服务器的中间件框架.
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Deno Oak HTTP 服务器的代理中间件.
 - [opine](https://github.com/asos-craigmorten/opine) - 从 ExpressJS 移植的快速、简约的 Web 框架.
@@ -283,7 +284,7 @@ __NOTICE__：Deno 有一些官方模块，可以在 [deno_std](https://deno.land
 - [clone](https://github.com/ekaragodin/clone) - 方便克隆的简单实用程序.
 - [decense](https://github.com/vinliao/decense) - 使用一个 `deno run` 命令生成许可证.
 - [dedep](https://github.com/egoist/dedep) - 管理依赖版本.
-- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流，使用任何 Deno 模块、Typescript/Javascript 代码
+- [denoflow](https://github.com/denoflow/denoflow) - 配置为代码，使用 YAML 编写在 Deno 上运行的自动化工作流程，使用任何 Deno 模块、Typescript/Javascript 代码
 - [denoify](https://github.com/garronej/denoify) - 对于希望支持 Deno 但不想编写和维护端口的 NPM 模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.

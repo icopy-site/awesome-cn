@@ -44,7 +44,6 @@
 - [Codever](https://www.codever.land/search?q=graphql)  - 开发书签. 使用标签 [graphql](https://www.codever.land/bookmarks/t/graphql).
 - [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - 专用于 GraphQL 的 Discord 服务器.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯，重点介绍来自 GraphQL 社区的资源和新闻.
-- [GraphQL Custom Scalars](https://www.graphqlscalars.com/) - 跨 Javascript、Java、PHP、Go、Scala 等搜索 graphql 自定义标量.
 - [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 
 <a name="meetup" />
@@ -156,7 +155,7 @@
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
 - [graphql-modules](https://github.com/Urigo/graphql-modules) - 按模块或功能将 GraphQL 服务器分成更小、可重用的部分.
 - [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
-- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - 用于 Node.js 的具有查询复杂性分析的 GraphQL 限速库
+- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - 一个 webpack 加载器，用于直接从 GraphQL 文档导入受类型保护的代码生成结果
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - 所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
 - [graphql-cli](https://github.com/urigo/graphql-cli) - 用于常见 GraphQL 开发工作流程的命令行工具.
@@ -169,7 +168,7 @@
 - [graphql-normalizr](https://github.com/monojack/graphql-normalizr) - 规范化 GraphQL 响应以持久保存在客户端缓存/状态中.
 - [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - 编译 GraphQL 标记模板字符串的 Babel 插件.
 - [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - 一个 ESLint 插件，用于根据模式检查您的 GraphQL 字符串.
-- [graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
+- [graphql-ws](https://github.com/enisdenjo/graphql-ws) - 一致、零依赖、惰性、简单、GraphQL over WebSocket 协议兼容服务器和客户端.
 - [graphql-live-query](https://github.com/n1ru4l/graphql-live-query) - 使用 JavaScript 的实时 GraphQL 实时查询.
 - [GraphVinci](https://github.com/Comcast/graphvinci) - GraphQL API 的交互式模式可视化工具.
 - [supertest-graphql](https://github.com/alexstrat/supertest-graphql) - 扩展 [supertest](https://github.com/visionmedia/supertest) 轻松测试 GraphQL 端点
@@ -198,10 +197,10 @@
 #### TypeScript Examples
 
 - [Node.js API Starter](https://github.com/kriasoft/nodejs-api-starter) - 基于 Yarn v2 的 monorepo 模板（代码优先的 GraphQL API、PostgreSQL、PnP、零安装、无服务器）.
-- [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js 入门项目专注于开发人员体验.
+- [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js starter project focused on developer experience.
 - [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - TypeScript + Node Express + Apollo GraphQL API 的样板.
 - [Mocked Managed Federation - Apollo Server 3](https://github.com/setchy/apollo-server-3-mocked-federation) - 如何使用 Apollo Server 3.x 模拟托管联合 Supgraph 的示例
-- [Mocked Managed Federation - Apollo Server 4](https://github.com/setchy/apollo-server-4-mocked-federation) - 如何使用 Apollo Server 4.x 模拟托管联合 Supgraph 的示例
+- [Mocked Managed Federation - Apollo Server 4](https://github.com/setchy/apollo-server-4-mocked-federation) - An example of how to mock a managed federation Supgraph using Apollo Server 4.x
 
 <a name="rb" />
 
@@ -221,7 +220,7 @@
 - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - 使用 graphql-ruby 公开 Rails 应用程序.
 - [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用 GitHub 的 GraphQL API 的示例 Rails 应用程序.
 - [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 用于带有 Rails GraphQL 服务器的 Relay 应用程序的准系统入门套件.
-- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
+- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - 由 graphql、relay 和标准 rails 应用程序驱动的演示博客.
 - [to_eat_app](https://github.com/jcdavison/to_eat_app) - 带有相关 3 部分文章系列的示例 graphql/rails/relay 应用程序.
 - [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用 Agoo 服务器演示一个简单的 GraphQL 应用程序.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - 带有设计、graphql 和 JWT 身份验证的 rails 6 样板.
@@ -585,6 +584,12 @@
 - [gqt](https://github.com/eerimoq/gqt) - 在终端中构建和执行 GraphQL 查询.
 - [Graph Proxy](https://graphproxy.com/) - Graph Proxy 检测并显示所有 GraphQL 网络流量.
 
+<a name="tool-testing" />
+
+### Tools - Testing
+
+- [Step CI](https://stepci.com) - 支持 GraphQL 的开源 API 测试和监控
+
 <a name="tool-security" />
 
 ### Tools - Security
@@ -664,7 +669,7 @@
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器的后端即服务. 几分钟内您的 GraphQL 和 REST over GraphQL 后端.
 - [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
-- [Stargate](https://stargate.io/docs/stargate/1.0/quickstart/qs-graphql-cql-first.html) - 目前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
+- [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 目前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
 ### CDN
 

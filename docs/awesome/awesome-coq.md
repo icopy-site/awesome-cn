@@ -115,7 +115,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
   - [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - 自动最小化产生错误的源文件，为 Coq 错误创建小测试用例.
   - [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - 处理源文件以使依赖项的加载对文件名的阴影具有鲁棒性.
   - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载，从开发中创建独立的源文件.
-  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
+  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - Removes loading of unused dependencies.
   - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
   - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提升许多白话命令和内部引理.
   - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释以加快并行证明.
@@ -144,7 +144,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Four Color Theorem](https://github.com/coq-community/fourcolor) - 四色定理的形式证明，图论的里程碑式结果.
 - [Gaia](https://github.com/coq-community/gaia) - 实施布尔巴基的数学元素书籍，包括集合论和数论.
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - 基于塔斯基公理系统的几何形式化.
-- [Goedel](https://github.com/coq-community/goedel) - Gödel-Rosser 不完备性定理的建设性证明.
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
 - [Homotopy Type Theory](https://github.com/HoTT/HoTT) - 发展同伦理论思想.
 - [Infotheo](https://github.com/affeldt-aist/infotheo) - 信息论和线性纠错码的形式化.
@@ -161,7 +160,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Ceramist](https://github.com/certichain/ceramist) - 经验证的基于散列的近似成员结构，例如布隆过滤器.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - 加密原始代码生成.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - 验证 OCaml 实现的用于在图中进行增量循环检测的算法.
-- [Jasmin](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+- [Jasmin](https://github.com/jasmin-lang/jasmin) - 用于高保证和高速密码学的形式化语言和经过验证的编译器.
 - [JSCert](https://github.com/jscert/jscert) - 带有经过验证的参考解释器的 ECMAScript 5 (JavaScript) 的 Coq 规范.
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的形式模型，类型系统的逻辑关系，以及一些 Rust 库的安全证明.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
@@ -218,7 +217,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) - 描述如何使用 Flocq 库在 Coq 中正式指定和验证浮点算法的书.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) - 面向数学倾向用户的书籍，侧重于数学组件库和 SSReflect 证明语言.
 - [Modeling and Proving in Computational Type Theory](https://github.com/uds-psl/MPCTT) - 涵盖使用 Coq 的计算逻辑主题的书籍，包括基础、规范案例研究和实用编程.
-- [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于 Kirby 和 Paris 的 hydra 战斗以及 Coq 中其他有趣的形式化数学的持续进行中的书籍，包括库代码和练习.
+- [Hydras & Co.](https://github.com/coq-community/hydra-battles) - 关于柯比和帕里斯的九头蛇战斗以及 Coq 中其他有趣的形式化数学的不断进行中的书籍和图书馆，包括哥德尔-罗塞尔第一不完备性定理的证明.
 
 ### Course Material
 

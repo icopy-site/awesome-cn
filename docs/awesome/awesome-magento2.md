@@ -271,6 +271,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento)
+- [OneStepCheckout](https://blog.onestepcheckout.com/)
 
 ### Other
 
@@ -367,6 +368,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
 - [FireBear Studio](https://firebearstudio.com/)
+- [OneStepCheckout](https://onestepcheckout.com/)
 
 &gt; **Magento 扩展开发者网络 (ExtDN)**
 &gt; Magento 扩展开发者网络 (ExtDN) 是一个经过审查的扩展开发者网络，其核心业务是

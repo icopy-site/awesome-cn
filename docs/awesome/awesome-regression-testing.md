@@ -10,7 +10,7 @@
 
 这是一份关于视觉回归测试的*不完整*资源列表. 它不是针对特定领域或角色（开发人员/质量保证/用户体验设计师）量身定制的. 请注意，这适用于所有回归软件测试领域*在*编写相关代码之后. 有关一般软件测试的精彩列表，请参见例如 [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
-最后，我相信每个阅读此列表的人都有他们想要添加的一件事. 请阅读 [How to Contribute](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) 页面和**随意添加到列表中！！**. 如果您认为这有帮助 **请给 Star ★**.
+最后，我相信每个阅读此列表的人都有他们想要添加的一件事. 请阅读 [How to Contribute](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) 页面和**随意添加到列表中！！**. 如果您认为这有帮助 **请给 Star ⭐️**.
 
 
 
@@ -23,11 +23,7 @@
 
 - [Selenium](https://github.com/SeleniumHQ/selenium) - 浏览器自动化框架和生态系统.
 - [SlimerJS](https://github.com/laurentj/slimerjs) - 基于 Firefox 的可编写脚本的浏览器，例如 PhantomJS.
-- [trifleJS](https://github.com/sdesalas/trifleJS) - Internet Explorer 的无头自动化.
-- [CasperJS](https://github.com/casperjs/casperjs) - PhantomJS 和 SlimerJS 的导航脚本和测试实用程序.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) - W3C WebDriver 协议的 Node.js 绑定实现.
-- [Navalia](https://github.com/joelgriffith/navalia) - 基于无头 Chrome 和 GraphQL 的浏览器自动化.
-- [Chromeless](https://github.com/graphcool/chromeless)  - Chrome 自动化变得简单. 在 AWS Lambda 上本地或无头运行.
 - [Cypress.io](https://www.cypress.io/) - 在浏览器中运行的自动化框架.
 
 ## Tools and frameworks
@@ -41,7 +37,7 @@
 - [Creevey](https://github.com/wKich/creevey)  - 使用魔法进行跨浏览器视觉测试. 具有 UI Runner、测试热重载、Docker 和 Storybook 集成的功能丰富的工具.
 - [CSSCritic](https://github.com/cburgmer/csscritic) - 轻量级 CSS 回归测试.
 - [Spectre](https://github.com/wearefriday/spectre) - 提供图像比较功能和管理屏幕截图的管理界面.
-- [Shoov](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+- [Shoov](https://github.com/shoov/shoov) - UI 回归和功能测试侧重于 Drupal 7 站点.
 - [qd_screenshottests](https://www.drupal.org/project/qd_screenshottests) - 基于 CasperJS 的 UI 回归和功能测试专注于 Drupal 8 站点.
 - [Look-alike](https://github.com/kdzwinel/Look-alike) - 用于截取和比较屏幕截图的 Chrome 扩展程序.
 - [Hardy](https://github.com/thingsinjars/Hardy) - Selenium 驱动、黄瓜驱动的 CSS 测试.
@@ -71,7 +67,7 @@
 - [Protractor](https://github.com/angular/protractor) - Angular 应用程序的 E2E 测试框架.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - 使用 Jest 和 puppeteer 对 React 组件进行视觉回归测试
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - 玩笑匹配器，使用执行图像比较 [pixelmatch](https://www.npmjs.com/package/pixelmatch)
-- [test-crawler](https://github.com/apiel/test-crawler) - 视觉回归测试，通过抓取网站并提供快照比较报告.
+- [test-crawler](https://github.com/apiel/test-crawler) - Visual regression testing, by crawling a website and providing snapshot comparison reports.
 - [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) - webdriver.io 的视觉回归工具
 - [Selenide](https://github.com/selenide/selenide) - 由 Selenium WebDriver 提供支持的框架，用于在 Java 中编写易于阅读和易于维护的自动化测试.
 - [Karma](http://karma-runner.github.io/latest/index.html) - AngularJS 团队的测试运行器，满足我们的所有需求.
@@ -136,7 +132,7 @@
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast：Wraith的基本介绍，一个截图比较工具.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - 如何设置 shoov 并编写您的第一个测试.
 - [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Jon Bellah 讲述如何在 wordpress 开发过程中使用 PhantomCSS.
-- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - 带有代码演示和最佳实践的截屏视频.
+- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - 关于如何使用 Screenster 创建可视化自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - 演示 Look-alike Chrome 扩展是什么，它是如何工作的，以及它是如何以及为什么构建的.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) - 如何用 CSS 评论家编写你的第一个 CSS 测试，让它通过，打破它，让它再次通过.
@@ -157,6 +153,10 @@
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS 位于 [Webdriver.io](https://github.com/webdriverio/webdriverio/) 并钩入 [Selenium](https://github.com/SeleniumHQ/selenium).
 - [Gemini](https://github.com/gemini-testing/gemini) - 功能丰富的框架，支持 [Selenium](https://github.com/SeleniumHQ/selenium) 和  [CasperJS](https://github.com/casperjs/casperjs) . 双子座已弃用，请改用赫敏.
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - 用途 [PhantomJS](https://github.com/ariya/phantomjs).
+- [trifleJS](https://github.com/sdesalas/trifleJS)  - Internet Explorer 的无头自动化.  （最后更新 2016 年）
+- [CasperJS](https://github.com/casperjs/casperjs)  - PhantomJS 和 SlimerJS 的导航脚本和测试实用程序.  （存档于 2018 年）
+- [Navalia](https://github.com/joelgriffith/navalia)  - 基于无头 Chrome 和 GraphQL 的浏览器自动化.  （存档于 2018 年）
+- [Chromeless](https://github.com/graphcool/chromeless)  - Chrome 自动化变得简单. 在 AWS Lambda 上本地或无头运行.  （存档于 2018 年）
 
 ## Miscellaneous
 

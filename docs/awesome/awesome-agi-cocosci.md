@@ -72,7 +72,7 @@
 
 * [Goodbye, Microsoft Academic – Hello, open research infrastructure?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/) - ***LSE Impact Blog***，2021 年.微软研究基础设施战略的解读.
 
-* [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
+* [Semantic Scholar](https://www.semanticscholar.org/)  - ***艾伦人工智能研究所***. 人工智能驱动的科学文献研究工具.
 
 * [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 从原始纸质数据中提取特征和元数据的语义学者.
 
@@ -1358,7 +1358,7 @@
 
 * [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 一阶模型理论的计算哲学帐户，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，就都是超一致的.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/) - ***Plato Stanford***. A computational philosophy account on Paraconsistent Logic, where any logic is paraconsistent as long as it is not explosive.
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图斯坦福***. 关于逻辑结果的计算哲学帐户，它是关于有效论证中前提和结论之间的关系.
 
@@ -1853,7 +1853,6 @@
 * [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275&secret=1452f8) - ***哈佛大学出版社***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5000469061641945144)].
 
 
-<span id = "jp"></span>
 ### Judea Pearl
 
 应用数学家，建议对连体贝叶斯网络进行因果干预. 
@@ -1881,7 +1880,6 @@
 * [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569&secret=f5e85a) - ***法拉尔·施特劳斯·吉鲁***，2011 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3255681708785115121)].
 
 
-<span id = "kpp"></span>
 ### Karl Popper
 
 科学哲学家，科学验证论的奠基人.
