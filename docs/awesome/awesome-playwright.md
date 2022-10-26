@@ -27,7 +27,7 @@
 - [playwright-python](https://github.com/microsoft/playwright-python) - 官方 Playwright 移植到 Python.
 - [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - 到 .NET 的官方 Playwright 端口.
 - [playwright-java](https://github.com/microsoft/playwright-java) - 官方 Playwright 移植到 Java.
-- [playwright-go](https://github.com/mxschmitt/playwright-go) - Golang 的剧作家端口.
+- [playwright-go](https://github.com/playwright-community/playwright-go) - Golang 的剧作家端口.
 - [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Ruby 的剧作家端口.
 - [playwright-cr](https://github.com/naqvis/playwright-cr) - Crystal 的剧作家端口.
 - [playwright-rust](https://github.com/octaltree/playwright-rust) - Rust 的剧作家端口.

@@ -17,6 +17,7 @@
 ## Frameworks
 
 - [MJML](https://mjml.io)  - MJML 是一种标记语言，旨在减少编写响应式电子邮件的痛苦.  ：火：
+- [JSX-email](https://jsx-mail.org/)  - Jsx Mail 是一个使用 React 创建电子邮件模板的电子邮件框架.  ：火：
 - [Foundation for Emails](https://github.com/zurb/foundation-emails)  - 快速创建适用于任何设备和客户端的响应式 HTML 电子邮件. 甚至展望.
 - [Email Framework](http://emailframe.work/) - 为帮助您构建响应式 HTML 电子邮件而开发的 HTML 电子邮件框架.
 - [HEML](https://heml.io) - HEML 是一种用于构建响应式电子邮件的开源标记语言.
@@ -91,7 +92,7 @@
 - [mailcow](https://mailcow.email/)  - 带有“moo”的邮件服务器套件. 一个易于使用的 dockerized 自托管电子邮件解决方案.
 - [Mailtrain](https://mailtrain.org/) - 基于 Nodemailer 构建的自托管通讯应用程序.
 - [Mautic](https://mautic.org/)  - Mautic 营销自动化. 借助易于学习、易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
-- [Modoboa](https://modoboa.org/) - 快速部署和管理完整电子邮件服务器的解决方案，与最新标准兼容并针对交付和声誉保护进行了优化.
+- [Modoboa](https://modoboa.org/) - 一种快速部署和管理完整电子邮件服务器的解决方案，与最新标准兼容并针对交付和声誉保护进行了优化.
 - [Poste.io](https://poste.io/) - 完整的邮件服务器内置在一个 docker 容器中.
 - [SimpleLogin](https://github.com/simple-login/app) - 自托管电子邮件别名解决方案.
 

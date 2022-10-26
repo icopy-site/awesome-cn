@@ -17,8 +17,9 @@
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 对它是什么的极简描述. 项目的 GIF 演示. 主要特征. 如何安装指南. 学分.
 - [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标志. 简要说明. 解释了所有功能. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 清晰的项目概述并附有示意图.  GIF 演示. 广泛的代码示例.
+- [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - 带有简短显示可以实现什么的项目徽标、便于导航的 TOC、重要的徽章、干净的安装指南以及显示如何使用该功能的多个代码片段.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 项目描述和用例说明图. 使用多种工具和集成说明进行构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题. 目录便于导航.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - 丰富的 Markdown 功能，现代布局，清晰的描述，符合推荐的社区标准.
+- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的屏幕截图. 简单的安装说明. 目录便于导航. 良好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 首屏漂亮的小菜单，带有有用的链接. 里面的一个常见问题解答主要问题. 支持者. 好语言.
@@ -56,7 +57,7 @@
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章、项目标志、现场演示链接、关键功能的 GIF 动画、TL;DR 用法.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  - 带有演示 GIF 的项目功能的清晰概述. 徽章. 可扩展目录. 使用说明和示例. 贡献指南. 详细发布.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)  - GIF 演示. 带有屏幕截图的简单安装和设置部分. 建立徽章. 用例的好例子.
+- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  - 清洁项目标志. 顶部简要说明. 桑基图、快速链接、徽章、操作系统特定图标、目录、详细的发布变更日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  - 项目标志. 建立徽章. 多种编程语言的文档结构. 用法示例.
 - [shama/gaze](https://github.com/shama/gaze#readme)  - 项目标志. 简洁的描述. 功能列表. 使用部分. 常问问题. 很棒的 AP​​I 文档. 发布历史.
@@ -89,7 +90,7 @@
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme)  - Node 的常见自述文件样式. 包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - 自述文件编辑和项目分析/反馈.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme)  - 为 README 动态生成可定制的 GitHub 卡片. 统计数据、额外引脚、热门语言和 WakaTime.
-- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme)  - 帮助在 README 上向 repo 贡献者表示认可. 具有新/趋势/顶级贡献者. 每小时更新一次.
 - [Make a README](https://www.makeareadme.com/)  - 编写自述文件的指南. 包括带有实时 Markdown 渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - 一个复制粘贴你的 README.md 的地方
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - 生成漂亮的 README.md 文件的 CLI
@@ -112,7 +113,7 @@
 - [Recordit](https://recordit.co/) - **免费** - 简单、干净的 UI，但会自动上传到 Recordit.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **免费** - 开源、可定制的 UI 和可轻松编辑的 GIF，易于上手.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **免费** - 记录您的终端并生成动画 gif 图像或共享网络播放器.
-- [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
+- [ttystudio](https://github.com/chjj/ttystudio#readme) - **免费** - 对于命令行工具，一个终端到 gif 的记录器可以消除头痛.
 
 ## Get Feedback
 

@@ -14,6 +14,7 @@
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - 缺失的 Symfony2 管理生成器
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) - 基于 AdminLTE 模板的管理主题
 * [Umbrella framework](https://github.com/acantepie/umbrella) - 管理组件和主题来创建管理后端.
+* [TablerBundle](https://github.com/kevinpapst/TablerBundle)  - 基于 Tabler 模板的管理主题. 它附带了许多 twig 助手（函数、过滤器、嵌入、宏和包含）.
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
@@ -200,7 +201,7 @@
 * [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - 一个包旨在提供一种简单的方法来支持需要使用作业队列的开发人员.
 * [HeriJobQueueBundle](https://github.com/heristop/HeriJobQueueBundle) - 这个 Symfony 包提供了 Zend 框架中 Zend Queue 的使用.
 * [JMSJobQueueBundle](http://jmsyst.com/bundles/JMSJobQueueBundle) - 允许将控制台命令安排为作业.
-* [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - Pheanstalk 的捆绑包，beantalkd 队列的 PHP 客户端.
+* [LeezyPheanstalkBundle](https://github.com/armetiz/LeezyPheanstalkBundle) - Beanstalk 捆绑包，beantalkd 队列的 PHP 客户端.
 * [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - QPush Bundle 依赖于消息队列的推送队列模型在您的应用程序中提供异步处理.
 * [RabbitMqBundle](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ 捆绑包.
 * [RSQueueBundle](https://github.com/mmoreram/RSQueueBundle) - 基于 Redis 的队列基础设施，具有生产者-消费者和发布者-订阅者

@@ -17,7 +17,7 @@
 
 &gt; 在这款动感十足的《龙与地下城》纸牌游戏中，您将通过成为最后一位站立的冒险家而获胜.
 > 
- &gt; 扮演四个勇敢、古怪的角色之一——野蛮人、圣骑士、盗贼或巫师——在充满宝藏的地牢中与它战斗！ 随着魔法导弹的投掷、双匕首的投掷和尖刺的盾牌的叮当声，你要证明你的冒险家有胆量把荣耀带回家！
+ &gt; 扮演四个勇敢、古怪的角色之一——野蛮人、圣骑士、盗贼或巫师——在充满宝藏的地牢中与它战斗！ 随着魔法导弹的投掷、双匕首的投掷和尖刺的盾牌的叮当声，由你来证明你的冒险家有胆量把荣耀带回家！
 
 ![Dungeon Mayhem](https://cf.geekdo-images.com/faJfKYz6tG8JvDYqYHBjHg__itemrep/img/KHoxN3JiwDTqAibJdkagE4T7n_M=/fit-in/246x300/filters:strip_icc()/pic5322689.jpg)
 
@@ -83,12 +83,12 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   1 - 8 |       13 |  90m |
+ |  1 - 8 |  13 |  90m |
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 &gt; 玩家开始时都是盟友，探索充满危险、陷阱、物品和预兆的鬼屋.\
-&gt; 当玩家前往豪宅的新区域时，会随机选择房间瓷砖并放置在游戏板上.\
+> As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
 &gt; 最终，“出没”开始，一个玩家通常会“背叛”其他玩家并站在鬼魂、怪物或其他敌人的一边，而其余玩家则合作击败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
@@ -105,7 +105,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
- |  3 - 8 |  8 |  30m |
+|   3 - 8 |        8 |  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -141,7 +141,7 @@
 
 ### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
 
-> After seeking shelter in an abandoned cabin and spending the night, you and your friends realize that someone has secured the door with a combination lock. The only way to escape your predicament is to work as a team, crack codes and solve various puzzles in order to deduct the combination that leads to freedom.
+ &gt; 在废弃的小屋中避难并过夜后，你和你的朋友意识到有人用密码锁锁住了门. 摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推断出通往自由的组合.
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
@@ -161,7 +161,7 @@
 
 ### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 
- &gt; 也称为 Snakes and Ladders，Chutes and Ladders 简单易玩，即使对于不识字的人也是如此. 上梯子，下坡道，孩子会（通过图片）了解善行的回报和淘气的后果.
+> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones.
 
 ![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
 
@@ -314,7 +314,7 @@
 
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
- &gt; 伟大的 7 Wonders 概念特别适合两名玩家. 感觉非常“七大奇迹”，并进行了一些改进，许多人将这些改进带到了主要游戏中，例如重新设计的军事和科学胜利以及新的商业动态. 玩游戏总是让我想再玩一次.
+ &gt; 伟大的 7 Wonders 概念特别适合两名玩家. 感觉非常“七大奇迹”，并进行了一些改进，许多人将其用于主要游戏，例如重新设计的军事和科学胜利以及新的商业动态. 玩游戏总是让我想再玩一次.
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
@@ -386,7 +386,7 @@
 
 ### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
- &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏是通过一系列称为 Eras 的回合进行的，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四道标志性领袖的角色，不仅为人民的至高无上和福祉而奋斗，还为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
+ &gt; Anachrony 是一款具有竞争力的欧式策略游戏，背景设定在一个按照四种不同意识形态路径重建的后世界末日世界. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四个道路的标志性领袖角色，不仅为人民的至高无上和福祉而奋斗，而且为他们的生存而奋斗. 在第四纪元之后，一颗小行星撞击地球，威胁要摧毁地球上最后一个独立城市——世界首都. 道路应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -416,13 +416,13 @@
 
 ### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
 
- &gt; 棋子放置游戏，玩家在其中绘制并放置一块带有法国南部风景的棋子. 建造你的城堡，将它们与道路和草地连接起来，将 meeples 分配给角色并得分.
+> Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
 
 ![Carcassonne game image](https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__itemrep/img/sT0kjr-Klona2rygvD8kURJgqdU=/fit-in/246x300/filters:strip_icc()/pic2337577.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 - 5 |  8 |  30-90m |
+|   2 - 5 |        8 | 30-90m |
 
 ### [Exploding Kittens](https://explodingkittens.com/)
 
@@ -466,7 +466,7 @@
 
 ### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
 
-> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+ &gt; 在诺丁汉警长中，每个玩家都扮演一个商人的角色，他希望在王子访问诺丁汉期间赚取可观的利润. 虽然从合法商品中获得可观的利润是可能的，但非法商品会让你在财富中畅游. 但要小心，以免诺丁汉警长抓住你！
 
 ![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
@@ -482,7 +482,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 4 |       10 |  30m |
+ |  2 - 4 |  10 |  30m |
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
@@ -537,7 +537,7 @@
 
 ### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
 
- &gt; Call to Adventure 是一款桌面游戏，玩家在其中竞争以打造拥有最伟大命运的英雄. 玩牌来塑造你的角色，施放符文来面对挑战，并选择是走英雄之路还是邪恶之路. 核心游戏模式是 2-4 人竞技游戏，但 Call to Adventure 也可以单人或合作玩！
+> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
 
 ![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
 
@@ -573,7 +573,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   2 - 5 |       12 | 180m |
+ |  2 - 5 |  12 |  180m |
 
 ### [Blokus](https://en.wikipedia.org/wiki/Blokus)
 
@@ -654,6 +654,26 @@
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ------: |
  |  3 - 5 |  14 |  90-120m |
+
+### [Pax Viking](https://boardgamegeek.com/boardgame/303954/pax-viking)
+
+ &gt; Pax Viking 是一款卡牌驱动的游戏，您可以在一个共同的市场上争夺卡牌，并结合地图上长船的战略移动. 您可以在您通过长船控制的地图位置玩您购买的卡片； 创建交易帖子，从事件中索取收益等等. 您还可以在您的 jarlboard 上打牌，通过朋友、盟友和神为您的玩家添加能力. 通过您的行动，您可以收集追随者，为您的最终出价赋予权力和影响力：成为瑞典的第一位国王.
+
+![Pax Viking image](https://spieltraum-shop.de/media/image/a3/40/05/show-id-1619527818652747_200x200.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | -------: |
+ |  1 - 6 |  12 |  60 - 90m |
+
+### [Dune: Imperium](https://boardgamegeek.com/boardgame/316554/dune-imperium)
+
+ &gt; 沙丘：帝国使用甲板建造来为传统的工人安置增加一个隐藏的信息角度. 您从一张独特的领导卡开始，以及与您的对手相同的套牌. 当您获得卡片并构建套牌时，您的选择将决定您的优势和劣势. 卡片允许您将代理发送到游戏板上的某些空间，因此您的套牌如何演变会影响您的策略.
+
+![Dune: Imperium image](https://ccdn.anyfinder.eu/assets/cQK9Bx79FSvDbwJQhJtnr5k7StyaUhOq7rBH00sbLEu0SSLFQQ8FcMoHNQMT36cf?height=200)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | ------: |
+ |  1 - 4 |  14 |  60-120m |
 
 ## Party
 
@@ -759,7 +779,7 @@
 
 ### [Catan](https://www.catan.com/game/catan)
 
-> Picture yourself in the era of discoveries: after a long voyage of great deprivation, your ships have finally reached the coast of an uncharted island. Its name shall be Catan! But you are not the only discoverer. Other fearless seafarers have also landed on the shores of Catan: the race to settle the island has begun!
+ &gt; 想象自己处于发现时代：经过漫长的极度贫困航行后，您的船只终于抵达了一个未知岛屿的海岸. 它的名字应该是卡坦！ 但你不是唯一的发现者. 其他无所畏惧的海员也登陆了卡坦海岸：定居该岛的竞赛已经开始！
 
 ![catan game image](https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__itemrep/img/IzYEUm_gWFuRFOL8gQYqGm5gU6A=/fit-in/246x300/filters:strip_icc()/pic2419375.jpg)
 
@@ -779,7 +799,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt; 在世界最遥远的地方，魔法仍然存在，它体现在大地、天空和每一种自然事物的精神中. 随着欧洲大国的殖民帝国越来越远，他们将不可避免地声称拥有一个精神仍然掌权的地方 - 当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
+> In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -836,7 +856,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
-|   1 - 5 |       10 | 45-60m |
+ |  1 - 5 |  10 |  45-60m |
 
 ### [Terraforming Mars](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game)>)
 
@@ -870,7 +890,7 @@
 
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
- &gt; Gloomhaven 是一款以欧洲为灵感的战术战斗游戏，在不断变化的动机世界中进行. 玩家将扮演一个流浪冒险家的角色，拥有自己的特殊技能和前往世界这个黑暗角落的原因. 玩家必须在必要时共同努力，清除险恶的地牢和被遗忘的废墟. 在这个过程中，他们将通过经验和战利品来增强他们的能力，发现新的探索和掠夺地点，并扩展一个由他们做出的决定推动的不断分支的故事.
+ &gt; Gloomhaven 是一款以欧洲为灵感的战术战斗游戏，在不断变化的动机世界中进行. 玩家将扮演一个流浪冒险家的角色，拥有自己的特殊技能和前往世界这个黑暗角落的理由. 玩家必须在必要时共同努力，清除险恶的地牢和被遗忘的废墟. 在这个过程中，他们将通过经验和战利品来增强他们的能力，发现新的探索和掠夺地点，并扩展一个由他们做出的决定推动的不断分支的故事.
 
 ![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
 
@@ -950,7 +970,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   3 - 6 |       12 |  30m |
+ |  3 - 6 |  12 |  30m |
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 
@@ -995,7 +1015,7 @@
 ### [Marrakesh](https://boardgamegeek.com/boardgame/342810/marrakesh)
 
  &gt; 与城市中其他有影响力的家族竞争，通过熟练使用您可以使用的助手和资源来获得最尊贵的头衔. 成功做到最好的球员将成为马拉喀什的新“Obermufti”.
-> Marrakesh is played over three rounds, with each round consisting of four turns. On each turn, players simultaneously and secretly choose three colored cylinders from behind their screen. Then, in turn order, they place matching colored assistants on their player board and perform the corresponding action, then all cylinders are placed in the cube tower. Then, in turn order, players select a color and take 1-2 of the cylinders that have passed through the tower (or those that were stuck from a previous round but have now emerged) and place them on their player boards. These cylinders will enhance future actions taken in the same color in future rounds. Actions allow players to gain wealth, which can be traded for influence in the city. Performing various actions also earns bonuses and enhances actions even more as the game proceeds. The player who scores the most points by the end of the game wins.
+ &gt; 马拉喀什分三轮进行，每轮由四轮组成. 每回合，玩家同时从屏幕后面偷偷选择三个彩色圆柱体. 然后，他们依次将匹配的彩色助手放在他们的玩家板上并执行相应的动作，然后将所有圆柱体放置在立方体塔中. 然后，按顺序，玩家选择一种颜色并取出 1-2 个穿过塔的圆柱体（或那些在前一轮卡住但现在出现的圆柱体）并将它们放在他们的玩家板上. 这些圆柱体将增强在未来回合中以相同颜色采取的未来行动. 行动可以让玩家获得财富，这些财富可以用来换取城市的影响力. 随着游戏的进行，执行各种动作也可以获得奖励并进一步增强动作. 游戏结束时得分最高的玩家获胜.
 
 ![Marrakesh image](https://cf.geekdo-images.com/zSMdU8DMBBvW2LIOjVCM7A__itemrep/img/-RnOaoGEX9YStxHqYm3x4Vvk8Nc=/fit-in/246x300/filters:strip_icc()/pic6289695.jpg)
 
@@ -1080,7 +1100,7 @@
 
  &gt; 踏上冒险、家庭、意外惊喜和宠物的过山车生活！ 想走家庭道路、开始事业，还是冒险冒险？ 在这款游戏中，玩家可以在人生的曲折中做出自己精彩的选择. 在游戏板上移动汽车代币，从 Start 到 Retirement，体验与家庭、事业和其他人生里程碑相关的意外惊喜. 玩家可以在此版本的 The Game of Life 游戏中收养宠物. 游戏结束时钱多的玩家获胜！
 &gt; 需要成人组装.
-&gt; 这个棋盘游戏也有数字应用版本.
+> This board game also has a digital app version.
 
 ![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
 
@@ -1157,13 +1177,34 @@
 
 ### [Hidden Leaders](https://boardgamegeek.com/boardgame/320718/hidden-leaders)
 
- &gt; 奥什拉岛处于动荡之中. 皇帝死后，山地部落与帝国军队之间的冲突升级. 当水族试图在老对手之间保持平衡时，不死族的目标是升级战争. 所有的希望都寄托在皇帝的六个孩子身上：他们中的谁将继承王位？ 在 Hidden Leaders 中，您扮演六位秘密领袖之一的角色，他们每个人都与四个派系/颜色中的两个结盟. 通过公开或秘密地在你的画面中扮演英雄，你会影响冲突的结果. 游戏结束时，四个阵营中的一个将获胜：红色领先 &gt; 红色胜利 绿色领先 &gt; 绿色胜利 红绿平局 &gt; 蓝色胜利 战区红绿 &gt; 黑色胜利 每个与胜利结盟的玩家派系可以要求胜利. 但是，他们必须拥有比任何竞争对手更多的这种颜色的英雄.  Hidden Leaders 是一款快速、轻量级的策略纸牌游戏，与玩家直接互动. 它结合了构图和演绎元素及其独特的获胜机制. 这是一个非常紧张的游戏，没有停机时间，学习速度很快. 其独特的艺术品和角色名称会让您微笑.
+> The island of Oshra is in turmoil. Following the death of the Emperor, the conflict between the Hill Tribes and the Imperial Army escalated. While the Water People try to maintain balance between the old rivals, the Undead aim to escalate the war. All hope rests on the six children of the Emperor: Who of them will claim the throne? In Hidden Leaders, you take the role of one of six secret leaders, each of them is allied with two of the four factions/colors. By playing heroes into your tableau, either openly or secretly, you influence the outcome of the conflict. At the end of the game, one of the four factions will win:Red leading > Red victory Green leading > Green victory Tie between Red & Green > Blue victory Red & Green in War Zone > Black victory Each player who is aligned with the winning faction can claim the victory. However, they must have more heroes of this color than any competitor. Hidden Leaders is a quick, light strategy card game with direct player interaction. It combines tableau building and deduction elements with its unique winning mechanism. This is a game of great tension with no-down time, that’s fast to learn. Its distinctive artwork and character names will make you smile.
 
 ![Hidden Leaders](https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__itemrep/img/mjljolaPV0Y9NUYBVU1YOmdnnBY=/fit-in/246x300/filters:strip_icc()/pic5845169.jpg)
 
  | 球员 | 分钟. 年龄 | 时间 |
 |--------:|---------:|-------:|
  |  2 - 6 |  10 |  20-40m 
+
+### [Muse](https://boardgamegeek.com/boardgame/234396/muse)
+
+&gt; Muse 是一款竞技或合作派对游戏，您可以在其中使用富有想象力的线索来激励您的队友，让他们正确猜出杰作. 
+ &gt; 作为缪斯，您需要发挥创造力，提供正确的线索，带领您的团队走向他们的杰作. 作为艺术家，你们一起工作以破译这一线索，并从阵容中正确选择杰作.
+
+![Muse image](https://cf.geekdo-images.com/6gDD73LSCMrr7ab1LHCXCg__itemrep/img/8JT5XGPKSWOt3VUGpjmfdkrBeSc=/fit-in/246x300/filters:strip_icc()/pic3719954.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  2 - 12 |  10 |  30m |
+
+### [Jackal](https://boardgamegeek.com/boardgame/42702/jackal)
+
+ &gt; 在 Jackal 中，玩家指挥海盗团在金银岛上登陆. 每个玩家每轮可以移动他们选择的海盗一次. 玩家探索岛屿以寻找宝藏以装载到他们的船上，同时试图从彼此手中夺回宝藏. 游戏的目的是在您的船上装载比任何其他玩家更多的金币.
+
+![Jackal image](https://cf.geekdo-images.com/LmNDNw-RdbcQzntcfQjmoQ__itemrep/img/kJZf7177r0fj_W9RmzJdX9t_3Cc=/fit-in/246x300/filters:strip_icc()/pic1638334.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | ----: |
+ |  2 - 4 |  8 |  120m |
 
 ## Contribute
 

@@ -185,6 +185,9 @@
 - [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周来自 Rails 的有趣提交、拉取请求等的内幕消息，每周五发送到您的收件箱.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) . 一组很棒的 Ruby gem、工具、框架和软件.
 - [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/) . 关于 Ruby on Rails 和 Web 的双月刊通讯. 提供英语、法语、西班牙语和意大利语版本.
+- [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
+- [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/) .  Hotwire 堆栈上的每月通讯：Turbo (Native)、Stimulus 和 Strada 文章、代码和课程.
+
 ### PHP
 
 - [PHP Weekly](http://www.phpweekly.com/) . 每周一次的免费时事通讯，包含一些精彩的文章、新闻和博客文章.
@@ -192,7 +195,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的 PHP 库和资源列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 关于现代 PHP 和 Laravel 的双周通讯.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自 Laravel 社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal... 由 Jesús Amieiro 手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周收集有关 PHP 及其生态系统的西班牙语新闻、教程和信息：Laravel、Symfony、WordPress、Drupal ......由 Jesús Amieiro 手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 两周一期的免费时事通讯，精选精彩文章、视频和新闻.
 - [PHP Annotated Monthly](https://info.jetbrains.com/PHP-Annotated-Subscription.html) . 一个免费的每月通讯，包含来自 PHP 社区的最新消息和来自网络的最有趣的 PHP 文章. [Archive](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 
@@ -201,7 +204,7 @@
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
 - [Weekly Python Newsletter](https://importpython.com/newsletter/) . 包含 Python 文章、项目、视频、推文的每周 Python 通讯在您的收件箱中发送. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) . 周五免费的每周电子邮件通讯，面向对 Python 开发和有关 Python 的各种主题感兴趣的人.
-- [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
+- [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周概述最流行的 Python 新闻、文章和包.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
 
 ### Groovy
@@ -262,7 +265,7 @@
 
 - [BSD Weekly](https://bsdweekly.com/) . 一份免费的、每周一次的 BSD 新闻和文章综合电子邮件.
 - [NixOS Weekly](https://weekly.nixos.org) . 最新消息 [NixOS](https://nixos.org)
-- [Console Weekly](https://console.substack.com/). Discover cool open-source projects and an interview with one of the developers every week.
+- [Console Weekly](https://console.substack.com/) . 发现酷炫的开源项目，每周采访一位开发人员.
 - [FOSS Weekly](https://fossweekly.beehiiv.com/) . 跟上开源软件的最简单方法.
 
 ## Git
@@ -391,7 +394,7 @@
 - [HackerNewsLetter](https://www.hackernewsletter.com/) . 关于初创公司、技术、编程等方面的最佳文章的每周通讯. 所有链接都是从流行的 Hacker News 网站手工策划的.
 - [ChangeLog Weekly](https://changelog.com/weekly) . 每周通讯，涵盖所有触及开源雷达的内容.
 - [GitHub News](https://www.gitlogs.com/) . 在 GitHub 上发现由峰值检测算法检测到的热门存储库.
-- [TED](https://www.ted.com/newsletter) .  TED 收件箱中的灵感
+- [TED](https://www.ted.com/newsletter). Inspiration in your inbox by TED
 - [KickStarter](https://www.kickstarter.com/newsletters) .  KickStarter 我们喜爱的项目存档
 - [Startup Digest](https://www.startupdigest.com/reading-lists) . 来自世界各地的精选阅读材料，根据您​​的兴趣定制.
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三都会为您带来全新的、鼓舞人心的晨间活动.
@@ -436,7 +439,7 @@
 - [Trending Projects](https://www.trendingprojects.com/) . 每周电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四都会发送有关软件工程的文章.  （对于波斯用户）.
 - [Figures](https://joinfigures.com/) . 根据您的最低工资要求获得高薪技术工作.
-- [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术通讯，包含最新的 Web 开发文章、本周的练习技术面试问题、笑话、一些非技术内容等等，根据您在世界的哪个位置，每周日晚上/周一早上到达.
+- [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术通讯，其中包含最新的 Web 开发文章、本周的练习技术面试问题、笑话、一些非技术内容等等，根据您在世界的哪个位置，每周日晚上/周一早上到达.
 - [No-Code Shots](https://nocodeshots.com) . 精心策划的每周通讯，将为您带来有关如何提高无代码技能的新闻、更新和提示.
 
 ## License

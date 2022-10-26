@@ -26,9 +26,9 @@ Cl-Who 上的喷丝板.
 list.
 
 这是根据 GNU 自由文档许可证发布的 - 它的文本
-在 LICENSE 文件中提供. 此存储库也反映在
+is provided in the LICENSE file. This repository is also mirrored on
 [NotABug](https://notabug.org/CodyReichert/awesome-cl) - **完全免费**（如在 libre 中）
- Github 的替代品. 优先考虑 [自由软件][13] 和
+alternative to Github.  Preference is given to [free software][13] and
 不为物质资源作恶的卖家.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
@@ -49,7 +49,7 @@ Audio
 * [CLM](https://ccrma.stanford.edu/software/clm/)  - Common Lisp Music 是 Music V 系列中的一个音乐合成和信号处理包. 它提供了与 Stk、Csound、SuperCollider、PD、CMix、cmusic 和 Arctic 大致相同的功能——创建和操纵声音的功能集合，主要针对作曲家（无论如何是 CLM 的情况）.
 * [cl-patterns](https://github.com/defaultxr/cl-patterns)  - 一个通过 Lisp 代码创作音乐的系统，深受 SuperCollider 模式系统的启发，旨在实现其中的大部分内容，但以更健壮、富有表现力、一致、反思和 lispy 的方式实现. 通过 SuperCollider 的音频输出，初步支持 Incudine，以及通过 ALSA 的 MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  - OpenAL 音频库的绑定. 公共区域.
-* [Common Music](https://github.com/ormf/cm) - the repository of an
+* [Common Music](https://github.com/ormf/cm) - 存储库
 Common Music 的古代版本（2.12.0 版），大概是最后一个
 在 2007-09 年左右在 Common Lisp 上运行的版本，之前
 Common Music 的工作转移到（基于方案的）cm3.
@@ -124,7 +124,7 @@ ORMs
 
 * ⭐ [clsql](http://www.cliki.net/CLSQL)  - 具有 Common Lisp 界面的 SQL 数据库.  [LLGPL][8].
 * [mito](https://github.com/fukamachi/mito) - 用于 Common Lisp 的 ORM，具有迁移、关系和 PostgreSQL 支持 [LLGPL][8].
-  *[mitho-auth](https://github.com/fukamachi/mito-auth), 一个使用授权的mixin类
+  * [mitho-auth](https://github.com/fukamachi/mito-auth), 一个使用授权的mixin类
   * [mito-attachment](https://github.com/fukamachi/mito-attachment)，用于 RDBMS 之外的文件管理的 mixin 类.
 * [cl-dbi](https://github.com/fukamachi/cl-dbi)  - Common Lisp 的独立于数据库的接口.  [LLGPL][8].
   * [dbd-oracle](https://github.com/sergadin/dbd-oracle)  - 用于 CL-DBI 的 Oracle 数据库驱动程序.  [LLGPL][8].
@@ -139,7 +139,8 @@ ORMs
   * 也见这个 [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
   * 使用 bknr.datastore 的示例 Web 应用程序： [screenshotbot-oss](https://github.com/screenshotbot/screenshotbot-oss).
 * [ubiquitous](https://github.com/Shinmera/ubiquitous)  - 提供易于使用的持久配置存储的库.  [zlib][33].
-* [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)  - 内存数据库系统. 对象流行的实现，其中业务对象保持在内存中，事务被记录以进行系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL][8]. 也可以看看 [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster), 同步多个 cl-prevalence 系统状态.
+* [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)  - 内存数据库系统. 对象流行的实现，其中业务对象保持在内存中，事务被记录以进行系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL][8].
+  * 也可以看看 [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster), 同步多个 cl-prevalence 系统状态.
 * [cl-naive-store](https://gitlab.com/Harag/cl-naive-store)  - 用于 Common Lisp 的天真持久、内存（延迟加载）、索引、文档存储.  [麻省理工学院][200].
   - 看 [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
   - 我们敢于添加：由作者公司用于生产（ASTN 集团，请参阅 awesome-lisp-companies）
@@ -171,7 +172,8 @@ Wrappers
 * [cl-redis](https://github.com/vseloved/cl-redis)  - Redis 客户端.  [外籍人士][14].
 * [cl-disque](https://github.com/CodyReichert/cl-disque)  - 客户磁盘.  [BSD 3 条款][15].
 * [cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb)  - RethinkDB 客户端.  [外籍人士][14].
-* [cl-mango](https://github.com/cmoore/cl-mango/)  - 一个极简的 CouchDB 2.x 数据库客户端.  BSD_3 条款. 也可以看看 [clouchdb](https://common-lisp.net/project/clouchdb/)  - 用于与 CouchDB 交互的库.  [自由BSD][39].
+* [cl-mango](https://github.com/cmoore/cl-mango/)  - 一个极简的 CouchDB 2.x 数据库客户端.  BSD_3 条款.
+  * 也可以看看 [clouchdb](https://common-lisp.net/project/clouchdb/)  - 用于与 CouchDB 交互的库.  [自由BSD][39].
 * [lmdb](https://github.com/antimer/lmdb) - 绑定到 [LMDB](http://www.lmdb.tech/doc/)，闪电内存映射数据库，具有多版本并发控制的 ACID 键值数据库.
 
 迁移工具
@@ -329,7 +331,7 @@ GUI
   * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - 为 tkdocs 教程提供 LTk 示例.
   * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/)  - 围绕 tklib/plotchart 库的包装器，可与 LTk 一起使用. 这包括 20 多种不同的图表类型（xy 图、甘特图、3d 条形图等）.
   * [nodgui](https://notabug.org/cage/nodgui)  - Tk 工具包的绑定，基于 Ltk，带有语法糖和其他小部件.  [LLGPL][8].
-* [IUP](https://github.com/lispnik/iup/) - CFFI 绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA 之前）.  IUP 是跨平台的（Windows、macOS、GNU/Linux，带有新的 Android、iOs、Cocoa 和 Web Assembly 驱动程序），有许多小部件，有一个小的 api 并且正在积极开发.
+* [IUP](https://github.com/lispnik/iup/) - CFFI 绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/) 便携式用户界面库（ALPHA 之前）.  IUP 是跨平台的（Windows、macOS、GNU/Linux，带有新的 Android、iOs、Cocoa 和 Web Assembly 驱动程序），有许多小部件，有一个小的 api，并且正在积极开发.
 * [cl-gtk4](https://github.com/bohonghuang/cl-gtk4)  - 通用 Lisp 的 GTK4/Libadwaita/WebKit 绑定.  [LGPL3][9].
 * [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk)  - 绑定 GTK+3.  [GNU LGPL2.1][11].
   - 一个教程： [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
@@ -387,7 +389,7 @@ Proprietary:
 也可以看看：
 
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  - 来自卡内基梅隆大学的实现. 公共区域.  SBCL 是 CMUCL 的一个分支.
-* [GNU CLISP](http://www.clisp.org/)  - 一个 GNU 实现； 包含一个编译器和一个解释器.  [标准一致性][6].  [GNU GPL3][2]. 他们开发 [https://gitlab.com/gnu-clisp/clisp](https://github.com/CodyReichert/awesome-cl/blob/master/on Gitlab).
+* [GNU CLISP](http://www.clisp.org/) - A GNU implementation; contains a compiler and an interpreter. [Standard conformance][6]. [GNU GPL3][2]. They develop [https://gitlab.com/gnu-clisp/clisp](https://github.com/CodyReichert/awesome-cl/blob/master/on Gitlab).
 * [Corman Lisp](https://github.com/sharplispers/cormanlisp)  - 在 Intel 平台上运行的 Microsoft Windows 的 Common Lisp 开发环境.  [麻省理工学院][200].
 
 JSON
@@ -417,7 +419,7 @@ YAML
 * [anaphora](https://common-lisp.net/project/anaphora/)  - 照应宏的集合. 公共区域.
 * ⭐ [trivia](https://github.com/guicho271828/trivia/)  - 优化的模式匹配库.  [LLGPL][8].
 * [arrow-macros](https://github.com/hipeta/arrow-macros)  - 类似 Clojure 的线程宏.  [麻省理工学院][200].
-* [dissect](https://shinmera.github.io/dissect)  - 当很多项目使用“trivial-backtrace”系统，只是给他们一个带有回溯的字符串时，Dissect 允许您捕获、步进和完全检查各种 Lisp 实现的堆栈跟踪. 对于日志记录和其他自动继续执行的情况也非常有用，但是当前堆栈的信息对于存储在某处仍然有用.  [zlib][33].
+* [dissect](https://shinmera.github.io/dissect) - when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. [zlib][33].
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)  - 标准 Common Lisp 函数的通用函数接口（相等、比较、算术、对象、迭代器、序列……）.  [麻省理工学院][200]. 另见更轻量级 [generic-comparability](https://github.com/pnathan/generic-comparability) .  [LLGPL][8].
 * [hu.dwim.walker](https://quickref.common-lisp.net/hu.dwim.walker.html)  - 代码 walker 和 unwalker（又名 AST 解析器和 unparser）.  [BSD][15]. 也可以看看 [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
@@ -442,7 +444,7 @@ YAML
 旨在为 lambdas、映射、访问器提供阅读器宏，
 哈希表和哈希集.  [麻省理工学院][200].
 
-For strings:
+对于字符串：
 
 * ⭐ [cl-interpol](https://github.com/edicl/cl-interpol/)  - 一组阅读器修改以允许字符串插值.  [BSD][15].
 * [mstrings](https://git.sr.ht/~shunter/mstrings)  - 一个阅读器宏，提供视觉上吸引人的多行块.  M-string 修剪前导空格，将行连接在一起，等等.[BSD_3Clause][15].
@@ -672,7 +674,7 @@ Community
 * [clml](https://github.com/mmaul/clml)  - 最初由日本公司 Mathematicl Systems Inc. 开发. 带一个 [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html) .  [LLGPL][8].
 * [antik](https://www.common-lisp.net/project/antik/)  - Common Lisp 中科学和工程计算的基础.  GPL. 还 [mgl-mat](https://github.com/melisgl/mgl-mat) 和 [LLA](https://github.com/tpapp/lla).
 
-Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
+学分：borretti.me [State of CL Ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
 
 
 自然语言处理
@@ -723,7 +725,7 @@ HTTP 服务器
 * [clack-errors](https://github.com/eudoxia0/clack-errors)  - Clack 的错误页面中间件.  [LLGPL][8].
 * [clath](https://github.com/BnMcGn/clath) - 单点登录
    Clack 的中间件. 它允许使用 OAuth1.0a、OAuth2 进行基本登录
-  and OpenID. At the time of writing, it supports authentication from
+  和 OpenID. 在撰写本文时，它支持来自
   谷歌、Twitter、LinkedIn、StackExchange、Reddit 和 Github.  [Apache2.0][89].
 * [clack-pretend](https://github.com/BnMcGn/clack-pretend) - 一个测试
   和clack的调试工具.  [Apache2.0][89].
@@ -1117,14 +1119,14 @@ Readline、ncurses 和其他图形助手
 其他脚本实用程序
 -------------------------
 
-* [WCL](https://github.com/wadehennessey/wcl) [陈旧] - 允许数百个 Lisp
+* [WCL](https://github.com/wadehennessey/wcl) [停滞] - 允许数百个 Lisp
 应用程序立即可用，同时允许
 其中几个同时运行.  WCL 通过
 提供 Common Lisp 作为 Unix 共享库，可以链接
  Lisp 和 C 代码可生成高效的应用程序. 例如，
 可执行的 Lisp 版本的规范 `Hello World!`
 程序在 32 位 x86 Linux 上只需要 20k 字节.  WCL 也
-supports a full development environment, including dynamic file
+支持完整的开发环境，包括动态文件
 加载和调试. 一个修改版的 GDB 用于调试 WCL
 程序，为混合语言调试提供支持.
 
@@ -1224,7 +1226,7 @@ supports a full development environment, including dynamic file
 ============
 
 * ⭐ [esrap](https://github.com/scymtym/esrap)  - Packrat 解析器.  [外籍人士][14].
-* [cl-yacc](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
+* [cl-yacc](https://github.com/jech/cl-yacc)  - LALR(1) 解析器生成器.  [麻省理工学院][200].
 * [cl-shlex](https://github.com/ruricolist/cl-shlex/)  - 用于类似 shell 的语法的简单词法分析器.  [麻省理工学院][200].
 * [smug](https://github.com/drewc/smug)  - Common Lisp 的解析器组合器.  SMUG 使创建快速可扩展的递归下降解析器变得简单，而没有时髦的语法或难以理解的宏观.  [麻省理工学院][200].
 * [parseq](https://github.com/mrossini-ethz/parseq)  - 用于使用解析表达式语法解析字符串和列表等序列的库. 受到Esrap的启发.  GPL2.
