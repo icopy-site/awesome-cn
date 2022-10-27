@@ -36,7 +36,7 @@
 * [Blockchain Insider](https://bi.11fs.com/) - 每周播客，专注于区块链、账本技术和加密货币.
 * [Boagworld Show](https://boagworld.com/show)  - Boagworld 是一个关于数字战略、管理和用户体验的播客. 它提供实用的建议、新闻、工具、评论和对网页设计社区领军人物的采访.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - 面向开发人员的读书俱乐部播客.
-* [Bootstrapped](http://bootstrapped.fm/) - Both Ian and Andrey are experienced startup founders, both have had major blows and successes in their career. You can learn a lot listening to them.
+* [Bootstrapped](http://bootstrapped.fm/)  - Ian 和 Andrey 都是经验丰富的初创公司创始人，在他们的职业生涯中都有过重大的打击和成功. 听他们说，你可以学到很多东西.
 * [Bootstrapped Web](http://bootstrappedweb.com/) - Bootstrapped Web 适合创业者引导他们的创业公司，他们相信到达我们要去的地方的最佳方式是边做边学.
 * [Breach](https://www.carbonite.com/podcasts/breach/) - Carbonite 探索数据泄露和网络安全的播客.
 * [BSDNow](http://www.bsdnow.tv/) - 每周 BSD 播客 - 新闻、采访和教程.
@@ -47,7 +47,7 @@
 * [Cloudcast](http://www.thecloudcast.net/) - 关于所有事物、云计算、AWS 生态系统、开源、DevOps、AppDev、SaaS 和 SDN 的获奖播客.
 * [CMOS](https://code-maven.com/cmos) - Code-Maven 开源播客通过采访这些项目的用户或开发人员，帮助您熟悉范围广泛的项目.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - 人们在编码之旅中的故事.
-* [Coding Over Cocktails](https://www.torocloud.com/podcast) - A podcast produced by Toro Cloud tackling issues faced by enterprises as they manage the process of digital transformation, application integration, low-code application development, data management, and business process automation.
+* [Coding Over Cocktails](https://www.torocloud.com/podcast) - Toro Cloud 制作的播客，解决企业在管理数字化转型、应用程序集成、低代码应用程序开发、数据管理和业务流程自动化过程中面临的问题.
 * [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen 的联合创始人谈论了运营网络软件业务的来龙去脉.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - 一个关于从命令行转变技术的人的新播客.
@@ -89,7 +89,7 @@
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - 在“硬核历史”中，非常规的丹·卡林将他的“火星人”、开箱即用的思维方式应用到过去.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/)  - 这是一个平行宇宙的故事，Petunia 嫁给了一位科学家. 哈利带着启蒙理想和实验精神进入了魔法世界.
-* [HaskellCast](http://www.haskellcast.com/) — 为在行业工作的 Haskell 开发人员提供的播客.
+* [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [Hello Internet](http://www.hellointernet.fm/) - 科学 youtubers CGP Gray 和 Brady Haran 讨论从旗帜设计到星球大战的所有内容.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/)  - 官方约翰逊航天中心 NASA 的播客. 每周举办一次，其主题通常是关于太空和国际空间站.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) - 在每个节目中，Jake 和 Paul 都选择了 Web 开发领域的热门话题并讨论了它的各个方面，同时提供了生活小窍门、课程和一些相当诚实的事实.
@@ -99,7 +99,7 @@
 * [Javascript Jabber](https://devchat.tv/podcasts/js-jabber/) - 每周关于前端和后端 Javascript 的播客讨论.
 * [JS Party](https://changelog.com/jsparty) – JavaScript 和网络的社区庆祝活动
 * [Ladybug Podcast](https://ladybug.dev/) – 面向所有开发人员的全女性主持的技术播客，围绕如何开始编码、当前的热门技术、如何获得第一份开发人员工作、冒名顶替综合症、如何编写 CSS 等进行了精彩的讨论.
-* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  - Facebook. 苹果. 亚马逊. 网飞. 谷歌. 这个播客探讨了它是如何获得力量的，它正在做什么，以及未来可能会发生什么.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - Laravel 新闻播客为您带来所有与 Laravel 相关的最新新闻和事件.
 * [Linear Digressions](http://lineardigressions.com/) - 通过真实世界的故事和示例，以易于理解的方式探索数据科学和机器学习的主题.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - 关于 Linux 和开源世界的每周新闻.
@@ -162,7 +162,7 @@
 * [Test and Code Podcast](https://testandcode.com/) - 关于软件开发、软件测试和 Python 的播客.
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - 关于软件测试实践的英国播客
 * [That Podcast](https://thatpodcast.io/) - Beau 和 Dave 谈论父亲、程序员和企业家的生活.
-* [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee 汇集了一群对敏捷方法和精益实践充满热情的从业者.
+* [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
 * [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - 重要的是网络.
 * [The Bike Shed](http://bikeshed.fm/) - 在自行车棚上，主持人 Derek Prior、Sean Griffin、Laila Winner 和嘉宾讨论了他们在 Ruby、Rails、JavaScript 以及其他任何本周引起他们注意、钦佩或愤怒的事物方面的开发经验和挑战.
@@ -221,7 +221,7 @@
 * [Hipsters ponto Tech](https://hipsters.tech/) - Caelum 关于初创公司、编程、用户体验、小工具和最新技术趋势的播客.
 * [Knowledge Cast](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw) - K21 关于敏捷性的播客
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) - Lambda3 播客
-* [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - 涉及领导力和企业家精神等主题的采访.
+* [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - 涉及领导力和企业家精神等主题的访谈.
 * [Like a Boss](https://www.likeaboss.com.br)  - Like a Boss 播客是面向企业家的播客. 成功的初创公司和公司的领导者和创始人与两位节目主持人坐在一起.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) - 思想开放的新闻
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - 播客有一个建议来解释几个主题，使用科学、哲学、历史等来支持答案.
@@ -237,7 +237,7 @@
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - 带有 rapadura 的电影人群播客，今天被认为是巴西流行文化的参考.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - 针对技术、科学、历史等各种主题的极客受众的播客.
 * [Reloading](http://reloading.com.br/) - 每周播客，带来视频游戏世界中最重要的新闻、事件和好奇心.
-* [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个以葡萄牙语专注于 Salesforce 世界的播客，我们在这里讨论开发、平台管理、Salesforce 产品以及职业等主题.
+* [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个以葡萄牙语专注于 Salesforce 世界的播客，除了职业等主题外，我们还讨论了开发、平台管理、Salesforce 产品.
 * [Start Coding](https://anchor.fm/start-coding)  - Start Coding 是一项在线计划，旨在让女性参与技术. 该播客介绍了该领域的计算和性别平等主题.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) - Tecnoblog 播客，关于技术.
 * [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - 政治，历史和时事.
@@ -316,10 +316,11 @@
 * [Blogue Linux](http://www.bloguelinux.ca/) - 法语（魁北克）播客谈论 Linux 技术.
 * [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) - 由开发人员主持并谈论视频游戏行业的每月播客.
 * [Les Cast Codeurs](https://lescastcodeurs.com)  — 由开发人员提供并为开发人员提供的播客. 有关 Java 生态系统和一般开发的最新消息. 由 Emmanuel Bernard（JBoss、Hibernate）、Arnaud Héritier（CloudBees、Jenkins）、Guillaume Laforge（Google、Groovy）、Antonio Goncalves（自由职业者、导演）、Vincent Massol（XWiki、Maven）、Audrey Neveu（Saagie、Devoxx4Kids）主持.
-* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
+* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - 用法语谈论 AWS 的播客.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/)  - 法语播客谈论使用 Microsoft 技术进行开发. 由 Mario Cardinal 和 Guy Barrette 主持.
 * [IFTTD – If This Then Dev](https://ifttd.io/)  - 每周法语播客采访各个技术领域（人工智能、区块链、安全、devops 等）的专家. 由布鲁诺·苏莱兹主持.
 * [Dev Café](https://dev-cafe.fr/)  - 每周一，找开发者看到的科技新闻！ 由爱德华·马尔克斯主持.
+* [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - 每周五，云新闻、反馈、帮助开发者的工具.
 
 ## In German
 

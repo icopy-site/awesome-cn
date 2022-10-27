@@ -105,7 +105,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ---: |
-|   3 - 8 |        8 |  30m |
+ |  3 - 8 |  8 |  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -125,7 +125,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 - 8 |  14 |  30-45m |
+|   2 - 8 |       14 | 30-45m |
 
 ### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
 
@@ -280,6 +280,20 @@
 | ------: | -------: | -----: |
  |  1 - 4 |  10 |  30-45m |
 
+
+### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
+
+&gt; Talisman 将带您踏上穿越神奇土地的旅程，努力夺回指挥之冠.
+&gt; 每个回合都会看到你的英雄前进、战斗、获得必要的知识和力量，以击败潜伏在权力之门和火焰谷之间的守卫者.
+
+![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__itemrep/img/qTes0WV8umHK5pLuKl5tZFpGYrU=/fit-in/246x300/filters:strip_icc()/pic818904.jpg)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | ------: |
+ |  2 -6 |  9 |  90-240m |
+
+
+
 ## Strategy
 
 ### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
@@ -290,7 +304,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ----: |
- |  2 |  5 |  5-60m |
+|       2 |        5 | 5-60m |
 
 ### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
 
@@ -537,7 +551,7 @@
 
 ### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
 
-> Call to Adventure is a tabletop game in which players compete to craft the hero with the greatest destiny. Play cards to build your character, cast runes to face challenges, and choose whether to follow a path of heroism or villainy. The core game mode is a 2-4 player competitive game, but Call to Adventure can also be played solo or cooperatively!
+ &gt; Call to Adventure 是一款桌面游戏，玩家在其中竞争以打造拥有最伟大命运的英雄. 玩牌来塑造你的角色，施放符文来面对挑战，并选择是走英雄之路还是邪恶之路. 核心游戏模式是 2-4 人竞技游戏，但 Call to Adventure 也可以单人或合作玩！
 
 ![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
 
@@ -547,7 +561,7 @@
 
 ### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
- &gt; 加入有史以来的战斗！ 从所有不同时代、物种和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
+ &gt; 加入有史以来的战斗！ 从所有不同时代、种族和战斗风格的部队中征召你的军队，然后在你和你的朋友创造的战场上作战. 共同努力完成包含的规则中列出的场景，或者在你们自己之间进行较量，看看谁是更强大的战场指挥官.
 
 ![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
 
@@ -699,7 +713,7 @@
 
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
- &gt; 这是一款小巧而简单的派对游戏，旨在让您在壁炉旁或任何地方唱歌. 两队使用预定的词语进行比赛. 一旦玩家唱出包含当前单词的歌曲的一部分，另一支球队必须找到另一首包含该单词的歌曲. 一旦一队失败，另一队将赢得这张牌.
+ &gt; 这是一款小巧而简单的派对游戏，旨在让您在壁炉旁或任何地方唱歌. 两支队伍使用预定的词语进行比赛. 一旦玩家唱出包含当前单词的歌曲的一部分，另一支球队必须找到另一首包含该单词的歌曲. 一旦一队失败，另一队将赢得这张牌.
 
 ![Shabadabada game image](https://cf.geekdo-images.com/itemrep/img/YqqT45T_SyzsmTPiVOfgqqpGLec=/fit-in/246x300/pic1646452.jpg)
 
@@ -799,7 +813,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
-> In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
+ &gt; 在世界最遥远的地方，魔法仍然存在，它体现在大地、天空和每一种自然事物的精神中. 随着欧洲大国的殖民帝国越来越远，他们将不可避免地声称拥有一个精神仍然掌权的地方 - 当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -920,7 +934,7 @@
 
 ### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
 
- &gt; 两名敌对间谍大师知道 25 名特工的秘密身份. 他们的队友只通过他们的代号认识特工.
+> Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.
 
 在 Codenames 中，两个团队竞争，看谁能首先与他们的所有代理取得联系.  Spymasters 给出一个单词的线索，可以指向板上的多个单词. 他们的队友试图猜测正确颜色的单词，同时避开属于对方球队的单词. 每个人都想避开刺客.
 
@@ -932,7 +946,7 @@
 
 ### [SuperFight](https://www.superfightgame.com/)
 
-&gt; 荒谬争论的游戏
+> A game of absurd arguments
 
  Superfight 是一款游戏，您可以在其中与朋友争论荒谬的战斗. 游戏非常简单. 玩家使用这些卡片来创造可笑的战士，并争论哪个角色会在战斗中获胜. 然后，桌子周围的每个人都投票选出获胜者. 正如你可以想象的那样，战斗是史诗般的和热闹的. 这对所有年龄段的人都很有趣，适用于所有类型的玩家.
 
@@ -954,7 +968,7 @@
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
- &gt; TZAAR 是 GIPF 系列抽象策略游戏中的第二款游戏. 每个玩家都有棋子类型（6 个 tzaars、9 个 tzaars 和 15 个 totts）. 玩家轮流尝试捕捉对手的棋子或堆叠他们的棋子. 堆叠棋子会使它们更强大，但会减少玩家在棋盘上的棋子数量. 如果玩家无法捕获对手的棋子，或者棋盘上每种棋子没有至少一种类型，则玩家将失败.
+ &gt; TZAAR 是 GIPF 系列抽象策略游戏中的第二款游戏. 每个玩家都有棋子类型（6 个 tzaars、9 个 tzaars 和 15 个 totts）. 玩家轮流尝试捕捉对手的棋子或堆叠他们的棋子. 堆叠棋子会使它们更强大，但会减少玩家在棋盘上的棋子数量. 如果玩家无法捕获对手的棋子，或者棋盘上没有至少一种类型的棋子，则玩家将失败.
 
 ![TZAAR image](https://cf.geekdo-images.com/83RmBw8qTkDJo7qC-YY8og__itemrep/img/MsIQXw5i3XfQPNqcsKM56bPS-So=/fit-in/246x300/filters:strip_icc()/pic3607816.jpg)
 
@@ -974,7 +988,7 @@
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 
- &gt; Cranium 自称是“全脑”游戏. 这是一款借鉴了近期许多其他流行派对游戏的派对游戏. 玩家必须成功完成四个部分中的每个部分的活动才能获胜.  1) 创意猫 - 玩家必须通过绘制、在粘土中雕刻或闭着眼睛绘制来向他或她的队友提示一个单词.  2）数据头 - 各种琐事问题.  3) Word Worm - 玩家解读单词、拼写具有挑战性的单词、猜测定义、识别遗漏字母的单词或拼写反词.  4) 明星表演者——玩家必须吹口哨、模仿名人或表演线索.  Cranium 具有类似于 Pictionary、Charades、Trivial Pursuit: Genus Edition、Celebrities、Huggermugger、Claymania 等的元素.
+ &gt; Cranium 自称是“全脑”游戏. 这是一款借鉴了近期许多其他流行派对游戏的派对游戏. 玩家必须成功完成四个部分中的每个部分的活动才能获胜.  1) 创意猫 - 玩家必须通过绘制、在粘土中雕刻或闭着眼睛绘制来向他或她的队友提示一个单词.  2）数据头 - 各种琐事问题.  3) Word Worm - 玩家解读单词、拼写具有挑战性的单词、猜测定义、识别遗漏字母的单词或向后拼写单词.  4) 明星表演者——玩家必须吹口哨、模仿名人或表演线索.  Cranium 具有类似于 Pictionary、Charades、Trivial Pursuit: Genus Edition、Celebrities、Huggermugger、Claymania 等的元素.
 
 ![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
 
@@ -1100,7 +1114,7 @@
 
  &gt; 踏上冒险、家庭、意外惊喜和宠物的过山车生活！ 想走家庭道路、开始事业，还是冒险冒险？ 在这款游戏中，玩家可以在人生的曲折中做出自己精彩的选择. 在游戏板上移动汽车代币，从 Start 到 Retirement，体验与家庭、事业和其他人生里程碑相关的意外惊喜. 玩家可以在此版本的 The Game of Life 游戏中收养宠物. 游戏结束时钱多的玩家获胜！
 &gt; 需要成人组装.
-> This board game also has a digital app version.
+&gt; 这个棋盘游戏也有数字应用版本.
 
 ![the game of life image](https://user-images.githubusercontent.com/61943677/138511931-aa1cdf9f-7d2a-4ab9-a3b7-f7f0d1a0f867.png)
 
@@ -1161,7 +1175,7 @@
 
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | -----: |
- |  2 - 6 |  14 | 约45m |
+|   2 - 6 |        14 | around 45m |
 
 
 ### [Decrypto](https://boardgamegeek.com/boardgame/225694/decrypto)
@@ -1205,6 +1219,16 @@
  | 球员 | 分钟. 年龄 | 时间 |
 | ------: | -------: | ----: |
  |  2 - 4 |  8 |  120m |
+
+### [Heist: One Team, One Mission](https://boardgamegeek.com/boardgame/282237/heist-one-team-one-mission)
+
+&gt; 在这个合作的电子游戏中，玩家扮演不同角色——金钱人、黑客、瞭望员或爆炸物专家——并共同努力打开一个电子保险箱，并在此过程中获取 5000 万美元的冷硬现金.
+
+![Heist game image](https://cf.geekdo-images.com/T7_1ABnRxbmZLtJak_qJJg__itemrep/img/BGg1fCo4ihT15QfxrgHaDv5131A=/fit-in/246x300/filters:strip_icc()/pic4821613.png)
+
+ | 球员 | 分钟. 年龄 | 时间 |
+| ------: | -------: | -----: |
+ |  2 - 4 |  7 |  5-15m |
 
 ## Contribute
 

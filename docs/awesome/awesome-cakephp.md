@@ -394,7 +394,7 @@
 - [Devilbox](https://devilbox.readthedocs.io/en/latest/) - 一个用于（CakePHP）应用程序的 docker 开发环境，可以自动设置，包括很多工具.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - docker 容器环境中的 CakePHP.
 - ：草莓： [Galley](https://gitlab.com/amayer5125/galley) - 一个用于 CakePHP 开发的小型 Docker 开发环境，其中包括一个简单的命令行实用程序.
-- [Mixer](https://github.com/CakeDC/mixer) - 一个发现和管理 CakePHP 插件的插件.
+- [Mixer](https://github.com/CakeDC/mixer) - 一个用于发现和管理 CakePHP 插件的插件.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) - 这个包在 NetBeans 8.1+ 中提供对 CakePHP 的支持.
 - [Oven](https://github.com/CakeDC/oven) - 使用 1 个文件和 1 次单击设置您最喜欢的框架.
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) - CakePHP 自动完成对 PhpStorm IDE 中控制台命令的支持.
@@ -458,6 +458,7 @@
 *必做教程.*
 
 - [Official Blog tutorial](https://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
+- ：草莓： [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
 ## CakePHP Reading and Listening
 *文档和 CakePHP 相关的阅读和听力材料.*
