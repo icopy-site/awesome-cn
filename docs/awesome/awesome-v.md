@@ -16,6 +16,7 @@
 
 ### Command-line
 
+- [crepl](https://github.com/l1mey112/crepl) - 在您键入时即时编译和执行 C 代码.
 - [HN-top](https://github.com/BafS/hn-top) - 列出来自hacker-news 的最新消息的简单命令.
 - [portctl](https://github.com/apoprotsky/portctl) - 使用 Portainer API 管理 Docker Swarm 资源的 CLI 工具.
 - [klonol](https://github.com/hungrybluedev/klonol)  - CLI 工具可帮助您“克隆所有”属于您的 git 存储库. 适用于 GitHub 和 Gitea.
@@ -23,10 +24,10 @@
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，生成 v 源文件到 AST json 文件.
 - [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
-- [verve](https://github.com/MohammadMD1383/verve) - 简单快速的静态文件服务器.
+- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
-- [vqrcode](https://github.com/carlosqsilva/vqrcode) - CLI for creating QR Codes.
+- [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建 QR 码的 CLI.
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （存档）
 
 ### Editors
@@ -49,8 +50,8 @@
 
 ### Interpreters/Compilers
 
+- [stas](https://github.com/l1mey112/stas)  - 基于堆栈的编译编程语言. 以现代语法从 Forth 中汲取灵感.
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在 V.
-- [Stas](https://github.com/l1mey112/stas) - 一种奇怪的基于堆栈的编程语言，用 V 编写，旨在学习编译器的来龙去脉.
 - [vbf](https://github.com/vpervenditti/vbf) - 一个脑残的解释器/编译器.
 - [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [v](https://github.com/vlang/v)  - V 本身. 用于开发可维护软件的简单、快速、安全的编译语言.

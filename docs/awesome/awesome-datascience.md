@@ -233,7 +233,7 @@
 - 循环神经网络 (RNN)
 - 玻尔兹曼机器
 - 自动编码器
-- 生成对抗网络（GAN）
+- 生成对抗网络 (GAN)
 - 自组织地图
 - 变压器
 - 条件随机场 (CRF)
@@ -411,14 +411,14 @@
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
 | [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和深度学习模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
 | [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 与 Jupyter 交互环境相结合的 Julia 语言后端 |
 | [Apache Zeppelin](https://zeppelin.apache.org/)  | 基于 Web 的笔记本，支持数据驱动的交互式数据分析和使用 SQL、Scala 等的协作文档 |
 | [Featuretools](https://github.com/alteryx/featuretools)  | 一个用python编写的自动化特征工程的开源框架|
-| [Optimus](https://github.com/hi-primus/optimus)  | 使用 PySpark 后端进行清理、预处理、特征工程、探索性数据分析和简单的机器学习.  |
+| [Optimus](https://github.com/hi-primus/optimus) | Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  |
 | [Albumentations](https://github.com/albumentations-team/albumentations)  |  - 快速且与框架无关的图像增强库，实现了多种增强技术. 支持开箱即用的分类、分割、检测. 曾在 Kaggle、Topcoder 和 CVPR 研讨会的一些深度学习竞赛中获胜.  |
 | [DVC](https://github.com/iterative/dvc)  | 一个开源数据科学版本控制系统. 它有助于跟踪、组织和使数据科学项目具有可重复性. 在其非常基本的场景中，它有助于版本控制和共享大型数据和模型文件.  |
 | [Lambdo](https://github.com/asavinov/lambdo)  | 是一个工作流引擎，它通过在一个分析管道中结合 (i) 特征工程和机器学习 (ii) 模型训练和预测 (iii) 表填充和列评估来显着简化数据分析.  |
@@ -802,7 +802,7 @@
 | [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师，创始人 [Data School](https://www.dataschool.io/) |
 | [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据漫游者.  |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
-| Linda Regber | Data story teller, visualizations. |
+ | 琳达·雷格伯 | 数据故事讲述者，可视化.  |
 | [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程，移动，网络. 人工智能、智能机器人机器学习、数据挖掘、自然语言处理、数据科学.  |
  | 马克史蒂文森 |  Salt (@SaltJobs) Analytics 的数据分析招聘专家 - 洞察力 - 大数据 - 数据科学 |
 | [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师的意见，目前正在玩数据科学家. 偶尔的父亲，丈夫，有机园艺.  |
@@ -888,6 +888,7 @@
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
+- [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - 飞机和自动相关监视广播 (ADS-B) 源的特定数据集.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - 美国政府公开数据之家
 - [United States Census Bureau](https://www.census.gov/)

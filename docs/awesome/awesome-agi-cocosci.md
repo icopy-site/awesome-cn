@@ -1872,7 +1872,6 @@
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=)].
 
 
-<span id = "dk"></span>
 ### Daniel Kahneman
 
 计算认知科学家和经济学家，为决策理论奠定了基础.

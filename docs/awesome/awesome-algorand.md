@@ -241,6 +241,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Runtime Verification](https://runtimeverification.com/smartcontract) - 由审计 Algofi、FolksFinance、Yieldly 和生态系统中其他著名 DeFi 平台等平台的团队进行智能合约分析和验证.
 - [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
 - [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地投入生产或转移到主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，以便您可以自信地利用安全性作为这个动态市场中的强大差异化因素.
+- [algorand-ecosystem-audits](https://github.com/blockshake-io/algorand-ecosystem-audits) - 由 Algorand 生态系统维护的越来越多的审计报告集合 [blockshake-io](https://blockshake.io).
 
 ## Bridges
 

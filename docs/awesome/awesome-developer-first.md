@@ -118,6 +118,7 @@
 * [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
 * [split](https://www.split.io/) - 具有数据分析功能的标志平台.
 * [Flagsmith](https://flagsmith.com/) - 简化了功能标志即服务平台.
+* [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台.
 
 ## GEO
 *位置服务.*

@@ -86,7 +86,7 @@
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个用于将 Airbrake 与 CakePHP 无缝集成以处理错误和异常的插件.
 - ：草莓： [AssociationsDebugger plugin](https://github.com/zunnu/associations-debugger) - 一个将您的模型关联绘制为图表的插件.
-- ：草莓： [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) - 酷孩子的 PHP 错误和异常 [filp/whoops](https://github.com/filp/whoops).
+- ：草莓： [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops).
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) - 调试的事实标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) - 将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - ：草莓： [Execution order](https://github.com/dereuromark/executionorder) - 一个演示应用程序，用于显示文件、方法和回调的执行顺序.
@@ -317,7 +317,7 @@
 - [StopSpam plugin](https://github.com/mirko-pagliai/cakephp-stop-spam) - 允许您检查用户名、电子邮件地址或 IP 地址是否已被报告为垃圾邮件发送者的插件.
 
 ## SEO
-*Search Engine Optimization.*
+*搜索引擎优化.*
 
 - ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  - 用于生成 slug 并通过 slug 查找记录的插件. 使用可插拔架构，允许使用您自己的 slug 生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) - 自动创建和管理您的 SEO 标签.
@@ -386,7 +386,7 @@
 *用于创建开发环境的软件.*
 
 ## Development Environment
-*Software and tools for creating a sandboxed development environment.*
+*用于创建沙盒开发环境的软件和工具.*
 
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - .gitignore 文件提案.
 - ：草莓： [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) - 用于 docker 和 kubernetes 设置的 cakephp/app 模板.
@@ -418,9 +418,10 @@
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) 使用 CRUD 插件构建的书签应用程序.
 - [CakeFest](http://cakefest.dereuromark.de/) - 围绕年度 CakePHP 大会“CakeFest”的演示应用程序.
 - [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x 演示
+- [Fluentd + Grafana Loki demo application](https://github.com/ishanvyas22/cakephp-loki-demo) - 将 CakePHP docker 容器日志发送到的演示应用程序 [Grafana Loki](https://grafana.com/logs/) 通过 [Fluentd](https://www.fluentd.org/).
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - 包含真实世界示例（CRUD、auth、高级模式等）的示例 CakePHP 代码库 [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规范和 API.
 - [Sandbox](https://sandbox.dereuromark.de) - 一个带有大量演示和插件展示的沙盒 CakePHP 应用程序.
-- [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.
+- [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - [Xeta](https://github.com/XetaIO/Xeta) - 帮助人们开始使用 CakePHP 的资源.
 - [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - CakePHP + VueJS 单页应用程序框架.
 

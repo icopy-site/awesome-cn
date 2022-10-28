@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developer/master/arcgis-platform-logo.svg?sanitize=true" align="right" width="100">
+<img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developer/master/esri-logo.png" align="right" width="100">
 
-&gt; 一组很棒的资源来帮助你 [ArcGIS Platform](http://developers.arcgis.com/) 开发、API、SDK、工具和位置服务.
+&gt; 一组很棒的资源来帮助你 [develop with ArcGIS Products](https://www.esri.com/en-us/arcgis/products/develop-with-arcgis/overview).
 
-ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应用程序，具有现成的位置服务、数据托管、API、工具和内容管理服务.
+ ArcGIS 产品使您可以访问 API、位置服务和工具来开发您自己的地图和空间分析应用程序. 使用供开发人员使用的地图产品为您自己、您的组织或其他组织构建 Web、本机、离线、桌面或集成解决方案. 访问一整套位置服务以提供底图图层、地理编码和路由功能以及其他地理空间功能. 在 ArcGIS 云中安全地托管和管理您的数据.
 
 ---
 
@@ -23,13 +23,15 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/) - 用于构建 2D 和 3D 交互式 Web 应用程序以解锁地理空间数据的指南、示例代码、API 参考和展示.
 - [ArcGIS API for Python](https://developers.arcgis.com/python/) - 使用 Python 进行制图、空间分析、数据科学、地理空间 AI 和自动化的指南、示例笔记本和 API 参考.
+- [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - 程序运行时 (PRT) 的 C++ API、文档和示例.
+- [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - CityEngine 的“程序运行时”(PRT) 的 Python 绑定.
 - [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - 与 ArcGIS Earth 通信的指南、API 参考和示例.
 - [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - 扩展 ArcGIS Enterprise 的指南、API 参考和示例代码.
 - [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - 使用 ArcGIS 数据和服务为 Unity 开发的指南、API 参考和示例代码.
 - [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - 使用 ArcGIS 数据和服务为 Unreal Engine 开发的指南、API 参考和示例代码.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - 用于扩展 ArcGIS Pro Desktop 的文档、教程、API 参考、常见问题解答等.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - 有关 ArcGIS REST API 的一般文档：位置服务、内容管理、门户管理等.
-- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman 集合与一些 REST API 一起使用：位置服务、托管要素图层、ArcGIS Online、ArcGIS Hub 等.
+- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - 用于访问位置服务、ArcGIS Online 和 ArcGIS Enterprise REST API 的 JavaScript 模块集合的关键概念、教程和 API 参考.
 - [ArcGIS Runtime API for .NET](https://developers.arcgis.com/net/) - 使用 .Net 构建桌面和移动应用程序的指南、示例代码和 API 参考.
 - [ArcGIS Runtime API for Android](https://developers.arcgis.com/android/) - 使用 Java 或 Kotlin 构建移动应用程序的指南、示例代码和 API 参考.
@@ -41,12 +43,12 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm) - 有关构成 ArcGIS 基础的组件对象模型 (COM) 组件库的 Java SDK 的文档.
 - [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - 有关在 ArcGIS Desktop 或 ArcGIS Enterprise 环境中执行地理数据分析、数据转换、数据管理和地图自动化的 python 包的文档.
 - [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) - 关键概念、教程、API 参考、插件、示例代码，可帮助您使用带有 ArcGIS 位置服务的 Leaflet 构建 Web 应用程序.
-- [Mapbox GL JS](https://developers.arcgis.com/mapbox-gl-js/) - 帮助您开始使用 Mapbox 和 ArcGIS 位置服务构建 Web 应用程序的指南和教程.
+- [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - 帮助您开始使用 MapLibre 和 ArcGIS 位置服务构建 Web 应用程序的指南和教程.
 - [OpenLayers](https://developers.arcgis.com/openlayers/) - 帮助您开始使用 OpenLayers 和 ArcGIS 位置服务构建 Web 应用程序的指南和教程.
 
 ## ArcGIS location services
 
-- [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - 与地理编码和搜索 API、路由和方向 API、人口统计和 GeoEnrichment API、数据托管等一起使用的官方邮递员集合.
+- [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - 邮递员收集，以促进与许多位置服务的工作.
 - [Basemap layer service](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - 访问街道、卫星和其他地图和场景的底图样式.
 - [Elevation and hydrology services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm) - 生成海拔剖面和视域，还可以追踪水流并生成分水岭.
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/) - 搜索世界各地的地址、企业和地点.
@@ -81,6 +83,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - 用于 ArcGIS API for JavaScript 的常见代码模式的 Visual Studio 代码片段集合.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 帮助所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android...）取得成功的社区示例.
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - 为使用 ArcGIS API for JavaScript 的开发人员提供的资源集合.
+- [Esri/pyprt-examples](https://github.com/Esri/pyprt-examples) - PyPRT 示例（CityEngine SDK 的 Python 绑定）.
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - 如何在使用 React、Angular、Vue 和其他框架构建的应用程序中通过 esri-loader 使用 ArcGIS API for JavaScript 的示例.
 - [EsriDevSummit](https://github.com/esridevsummit/) - 支持 DevSummit 技术会议的补充源代码、示例项目和资源.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - 显示您可以使用的很酷的示例地图.
@@ -142,7 +145,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 ## Developer guides
 
 - [Content management](https://developers.arcgis.com/documentation/mapping-apis-and-services/content-management/) - 存储、管理和访问私人和公共内容.
-- [Data hosting](https://developers.arcgis.com/documentation/mapping-apis-and-services/data-hosting/) - Store, manage, and access your data as data services.
+- [Data hosting](https://developers.arcgis.com/documentation/mapping-apis-and-services/data-hosting/) - 以数据服务的形式存储、管理和访问您的数据.
 - [Demographics](https://developers.arcgis.com/documentation/mapping-apis-and-services/demographics/) - 使用 GeoEnrichment 服务发现当地事实和人口统计信息.
 - [Maps](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/) - 使用底图图层服务和数据服务显示 2D 地图和 3D 场景.
 - [Offline](https://developers.arcgis.com/documentation/mapping-apis-and-services/offline/) - 断开连接时显示、分析和编辑数据.
@@ -156,7 +159,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
 - [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 用于在 ArcGIS API for JavaScript 4.x 中获取 3D Web 应用程序的相机位置 JSON 对象的 Web 应用程序.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) - 用于获取 ArcGIS API for JavaScript 4.x 中 Web 应用程序的地图范围 JSON 对象的 Web 应用程序.
 - [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑程序构建的应用程序中延迟加载 ArcGIS API for JavaScript（即来自 CDN）.
-- [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - Custom React hooks for using the ArcGIS API for JavaScript with esri-loader.
+- [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - 用于将 ArcGIS API for JavaScript 与 esri-loader 一起使用的自定义 React 挂钩.
 - [react-arcgis](https://github.com/Esri/react-arcgis)  - 一个包含一些准备使用 React 组件的库（`<Map />  `, `<Scene />  `, `<WebMap />  `，和`<WebScene />  `) 让您开始在 React 应用程序中使用 ArcGIS API for JavaScript.
 - [react-sceneview](https://github.com/Esri/react-sceneview) - 基于 ArcGIS API for JavaScript 构建的简单 Esri SceneView 反应组件.
 
@@ -242,7 +245,7 @@ ArcGIS 平台是 Esri 的平台即服务 (PaaS)，用于制图和位置分析应
  Esri 欢迎任何人和所有人的贡献. 你可以 [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) 提出更新，但在这样做之前，请：
 
 - 检查 [contributing guidelines for this repo](https://github.com/Esri/awesome-arcgis-developer/blob/main/CONTRIBUTING.md).
-- 看一眼 [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
+- Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
 
 有关更多信息，请参阅我们 [guidelines for contributing](https://github.com/esri/contributing).
 

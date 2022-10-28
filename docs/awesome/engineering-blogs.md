@@ -1,25 +1,6 @@
 <div class="github-widget" data-repo="kilimchoi/engineering-blogs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<div align="center">
-	<br>
-	<br>
-	<hr>
-	<p>
-		<sup>特别感谢：</sup>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=engblogs&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
-			</div>
-			<b>所有环境变量，集中在一处</b>
-			<div>
-				<sub>不要再为分散的 API 密钥而苦苦挣扎，不要再拼凑自制的工具了，</sub>
-				<br>
-				<sup>并避免访问控制.</sup> <sup>让您的团队和服务器与多普勒保持同步.</sup>
-			</div>
-		</a>
-	</p>
-</div>
 
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
@@ -141,7 +122,7 @@
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
 * 印象笔记 https://evernote.com/blog/
-* Evil Martians https://evilmartians.com/chronicles/
+* 邪恶的火星人 https://eilmartians.com/chronicles/
 * Expedia https://medium.com/expedia-group-tech
 
 #### F companies
@@ -311,7 +292,7 @@
 * Rightscale http://eng.rightscale.com/
 * 防暴游戏 https://engineering.riotgames.com/
 * RisingStack https://blog.risingstack.com/
-* Robert Elder Software http://blog.robertelder.org/
+* Robert Elder 软件 http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
 * Runtastic https://www.runtastic.com/blog/en/category/tech/
 
@@ -355,7 +336,7 @@
 * 缝合修复 http://multithreaded.stitchfix.com/blog/
 * Strava https://medium.com/strava-engineering/
 * 跨步 https://blog.stridenyc.com/
-* Stripe https://stripe.com/blog
+* 条纹 https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
 * Swiggy https://bytes.swiggy.com/
 
@@ -410,7 +391,7 @@
 * 微支付 https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * 翼化 http://engineering.wingify.com/
-* Wombat 安全技术 http://development.wombatsecurity.com/
+* Wombat Security Technologies http://development.wombatsecurity.com/
 * 旺加科技 http://tech.woga.com/
 * WyeWorks https://wyeworks.com/blog/
 
@@ -580,7 +561,7 @@
 *约翰·雷西格 https://johnresig.com/category/blog/
 *约翰维特瑙尔 http://www.johnwittenauer.net/
 *乔恩·肯西 http://www.jonkensy.com/
-*乔恩斯基特 https://codeblog.jonskeet.uk/
+* Jon Skeet https://codeblog.jonskeet.uk/
 *乔纳斯梅子 https://blog.cugu.eu/
 *乔纳森·德赫蒂尔 http://www.born2data.com/
 *乔纳森·斯努克 https://snook.ca/
@@ -618,7 +599,7 @@
 * 马克 Seaborn http://lackingrhoticity.blogspot.de/
 * 马丁福勒 https://martinfowler.com/
 * 玛丽·罗斯库克 https://maryrosecook.com/blog/
-* 马特·艾莫内蒂 https://matt.aimonetti.net/
+* Matt Aimonetti https://matt.aimonetti.net/
 * 马特·卡茨 https://www.mattcutts.com/blog/
 * 马特·梅特 http://matt.might.net/articles/
 * 马特·沃伦 http://mattwarren.org/
@@ -658,8 +639,8 @@
 * 帕梅拉福克斯 http://blog.pamelafox.org/
 * 帕特·肖内西 http://patshaughnessy.net/
 * 保罗·格雷厄姆 http://www.paulgraham.com/articles.html
-* Paul Irish https://www.paulirish.com/
-* Paul Lewis https://aerotwist.com/blog/
+* 保罗爱尔兰人 https://www.paulirish.com/
+* 保罗·刘易斯 https://aerotwist.com/blog/
 * Paweł Chudzik https://blog.pchudzik.com/
 * 彼得·诺维格 http://norvig.com/
 * 彼得·斯坦伯格 http://petersteinberger.com/
@@ -753,7 +734,7 @@
 * 水晶 https://crystal-lang.org/
 
 #### G technologies
-* 去 https://blog.golang.org/
+* Go https://blog.golang.org/
 
 #### I technologies
 * IPFS https://ipfs.io/blog/

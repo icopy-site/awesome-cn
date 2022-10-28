@@ -4,7 +4,7 @@
 
 [![Godot Engine logo](https://raw.githubusercontent.com/godotengine/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-精选列表 [free/libre](https://www.gnu.org/philosophy/free-sw.html) Godot 的游戏、插件、附加组件和脚本.
+精选列表 [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
 
 在 Godot 中寻找第三方编程语言支持？
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
@@ -80,7 +80,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Projects
 
-*使用 Godot（工具/实用程序）制作的非游戏开源项目.*
+*Non-game Open source projects made with Godot (tools/utilities).*
 
 #### Godot 3.2+
 
@@ -223,7 +223,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)  - 网格、灯光和粒子的详细程度附加组件. 可以提高大场景下的性能.
 - [Line Collider 2D](https://github.com/Kylogias/godot-line-collider-2d) - 一个脚本，它添加跟随 Line2Ds 数组的碰撞器（对原型有用）.
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-- [Mitigate-IK](https://github.com/Kylogias/godot-mitigate-ik) - 减轻 SkeletonIK 的缩放效果.
 - [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器动画骨骼.
 - [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统，旨在轻松使用适用于 iOS/Android 的本机库进行操作. 它还关注插件依赖关系并提供无忧的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：应用跟踪透明度，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  - 对 Godot 的 Quake `.map` 文件支持. 让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/) 用于关卡设计.
@@ -256,7 +255,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Camera2D 的屏幕抖动效果.
 - [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特彭纳方程的一个端口，用于缓动.
-- [GDSerCommPlugin](https://github.com/NangiDev/GDSerCommPlugin) - 一个读取 Arduino 串行输入的插件（需要自定义引擎模块）.
+- [GDSerCommPlugin](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用 GDScript 编写的 Godot 实用程序.
 - [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender 插件可轻松将资产导入 Godot.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
@@ -270,7 +269,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 #### Various Godot versions
 
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - 用于复杂（可选多人）RPG（Godot 3.2、4.0）的实体和法术系统.
-- [godot-anl](https://github.com/Xrayez/godot-anl) - 一个包装器 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+- [godot-anl](https://github.com/Xrayez/godot-anl) - 一个包装器 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) 具有视觉噪声编辑支持.
 - [godot-python](https://github.com/touilleMan/godot-python) - 对 Godot 3 的 Python 支持.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - 创建体积世界的模块（Godot 3.1+）.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - Godot 3 的 ENet 包装器.
@@ -291,7 +290,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godotcord](https://github.com/drachenfrucht1/godotcord) - 一个包装器 [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 - [godot-apple-id](https://github.com/Wild-Pluto/godot-apple-id) - 在 Godot 中使用 Apple 登录的模块.
 - [godot-simple-state](https://github.com/tavurth/godot-simple-state) - 使用节点的最小有限状态机，非常适合 Jam 游戏.
-- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为戈多.
+- [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个港口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用的包装器方法和对 Godot 友好的类型 [PortAudio](http://www.portaudio.com).
 - [Speech to Text](https://github.com/menip/godot_speech_to_text) - 捕获用户的麦克风输入并将其转换为文本.
@@ -363,7 +362,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Shaders](https://godotshaders.com/) - 用于 Godot 游戏引擎的社区驱动的着色器库.
 - [Godotes](https://godotes.com/) - 每周关于 Godot 引擎及其生态系统的微观数据分析报告.
 - [Gotm.io](https://gotm.io/about) - 用于托管在 Godot 中制作的 HTML5 游戏的网站.
-- [This Week in Godot](https://thisweekingodot.com/) - A weekly newsletter with news, tutorials, game and demo releases and more.
+- [The Godot Report](https://www.thegodotreport.com/) - 包含新闻、教程、游戏和演示版本等的时事通讯.
 
 ## Other
 
