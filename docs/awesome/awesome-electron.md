@@ -119,7 +119,7 @@
 
 - [WebTorrent](https://github.com/feross/webtorrent-app) - 流式洪流客户端.
 - [Min](https://github.com/minbrowser/min) - 最小的网络浏览器.
-- [Hyper](https://github.com/zeit/hyper) - 终端.
+- [Hyper](https://github.com/zeit/hyper) - Terminal.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - 跨平台IDE.
 
 ###### Other
@@ -157,7 +157,7 @@
 - [Museeks](https://github.com/KeitIG/museeks) - 音乐播放器.
 - [Sabaki](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
 - [Wire](https://github.com/wireapp/wire-desktop) - 信使和通话应用程序.
-- [Extraterm](https://github.com/sedwards2009/extraterm) - 终端.
+- [Extraterm](https://github.com/sedwards2009/extraterm) - Terminal.
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Ubuntu 系统优化器.
 - [Inpad](https://github.com/sarah-seo/Inpad) - 带有 GitHub 风格的 Markdown 的 Notes 应用程序.
 - [Cerebro](https://github.com/KELiON/cerebro) - 带有内联预览的启动器.
@@ -168,7 +168,7 @@
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 密码管理器.
 - [Mailspring](https://github.com/Foundry376/Mailspring)  - 可扩展的电子邮件客户端.  （Nylas Mail 的分叉）
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现、收集和收听来自 YouTube 的音乐.
-- [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
+- [Nuclear](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) - 番茄计时器.
 - [Netron](https://github.com/lutzroeder/netron) - 深度学习和机器学习模型的可视化工具.
@@ -221,7 +221,7 @@
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知器.
-- [Discord](https://discord.com) - Voice and text chat.
+- [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 为 Cocos2D-x 创建网页和原生游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的 Markdown 笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换比特币和以太坊等区块链资产.
@@ -299,7 +299,7 @@
 - [electron-util](https://github.com/sindresorhus/electron-util) - 用于开发应用程序和模块的有用实用程序.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - 在开发过程中简单的自动重新加载.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（对路由很有用，例如 `react-router`）.
-- [electron-timber](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+- [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) - Chromium 的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行 Electron.
 - [debugtron](https://github.com/pd4d10/debugtron) - 调试生产中的基于 Electron 的应用程序.
@@ -310,6 +310,7 @@
 - [electronmon](https://github.com/catdad/electronmon) - 在开发过程中监控和重新加载进程外的应用程序.
 - [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式.
 - [UpdateRocks!](https://www.update.rocks)  - 自动更新服务. 对开源项目免费.
+- [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - 构建可以通过插件扩展的应用程序.
 
 ### Using Electron
 

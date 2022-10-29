@@ -95,7 +95,7 @@
 - [Angular](https://github.com/angular-eslint/angular-eslint) - Angular (v2+) 的 Linting 规则.
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - 遵守的 Linting 规则 [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Astro](https://github.com/ota-meshi/eslint-plugin-astro) - 插件 [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
-- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
+- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Backbone 的 Linting 规则.
 - [Custom Elements](https://github.com/github/eslint-plugin-custom-elements) - GitHub 的自定义元素规则.
 - [Ember](https://github.com/ember-cli/eslint-plugin-ember) - Ember 的 Linting 规则.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - hapi 的 Linting 规则.
@@ -264,14 +264,14 @@
 - [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - 期望全局变量上的 `window` 限定符，否则可能会混淆为局部变量.
 - [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自 ESLint）
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
-- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - TestCafe 的“fixture”和“test”全局变量.
+- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
 
 ## Tools
 
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - 为 `.eslintrc.js` 文件提供 `defineConfig` 函数.
 - [es-file-traverse](https://github.com/brettz9/es-file-traverse)  - 仅从一个或多个入口文件中获取基于导入和/或需要正在使用的文件的列表； 可传递给 ESLint 的列表. 打算特别. 用于检查 3rd 方依赖项.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - 查找自定义配置中没有的内置 ESLint 规则.
-- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
+- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI 用于在 ESLint 配置文件中查找和管理规则.
 - [eslint-interactive](https://github.com/mizdra/eslint-interactive) - 修复大量 ESLint 错误的 CLI 工具.
 - [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - 复用 eslint 结果和合并公共文件的结果.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 通过一次修复一条规则来轻松进入 ESLint.
@@ -287,12 +287,13 @@
 
 ## Developing for ESLint
 
+- [eslint-doc-generator](https://github.com/bmish/eslint-doc-generator) - 为您的 ESLint 插件生成文档，包括自述文件的规则表和规则文档的标题.
 - [eslint-docs](https://github.com/j-f1/eslint-docs) - 使您的规则描述在存储库中保持最新.
 
 ## Tutorials
 
 - [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - 文章介绍了 ESLint 规则和插件的创建过程.
-- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - 介绍使用 ESLint 的好处的文章.
+- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint.
 - [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - 显示 ESLint 设置和基础知识的视频.
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - 展示如何将 React 和 JSX 与 ESLint 一起使用的视频.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - 关于如何将插件编写为包含模块化 mixin 配置的节点模块的文章.

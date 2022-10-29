@@ -4,7 +4,7 @@
 
 &gt; 与 eBPF 相关的精彩项目的精选列表.
 
- BPF，就像在_Berkeley Packet Filter_中一样，是一个运行从用户空间传递的程序的内核虚拟机. 最初在 BSD 上实现，然后是 Linux，（现在是传统的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起用于过滤内核中的数据包以避免对用户空间的无用副本. 最近，Linux 中的 BPF 基础架构已经完全重新设计并赋予“扩展 BPF”或 eBPF 生命，它获得了新特性（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务. 在非常低的级别（XDP）处理数据包，跟踪和监视系统上的事件，或者对 cgroup 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子.
+ BPF，就像在_Berkeley Packet Filter_中一样，是一个运行从用户空间传递的程序的内核虚拟机. 最初在 BSD 上实现，然后在 Linux 上实现，（现在是传统的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起用于过滤内核中的数据包以避免对用户空间的无用副本. 最近，Linux 中的 BPF 基础架构已经完全重新设计并赋予“扩展 BPF”或 eBPF 生命，它获得了新特性（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务. 在非常低的级别（XDP）处理数据包，跟踪和监视系统上的事件，或者对 cgroup 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子.
 
 Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网站，叫做 [ebpf.io](https://ebpf.io/) . 它与此列表的目的相似，具有 [an introduction to eBPF](https://ebpf.io/what-is-ebpf) and links to [related projects](https://ebpf.io/projects).
 
@@ -35,7 +35,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ### Other
 
 - [IO Visor's Unofficial eBPF spec](https://github.com/iovisor/bpf-docs/blob/master/eBPF.md) - eBPF 语法和操作代码摘要.
-- [Jesper Dangaard Brouer's documentation](https://prototype-kernel.readthedocs.io/en/latest/bpf/index.html) - 正在进行中，欢迎贡献.
+- [Jesper Dangaard Brouer's documentation](https://prototype-kernel.readthedocs.io/en/latest/bpf/index.html) - Work in progress, contributions welcome.
 - 从大卫米勒的电子邮件到 [xdp-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) 邮件列表：
 
   - [bpf.h and you...](https://www.spinics.net/lists/xdp-newbies/msg00179.html)
@@ -221,7 +221,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 - [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 内核树中还有一些其他工具，位于 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 在那之后：
 
-  - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和地图进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除地图，或附加和分离程序到 cgroups.
+  - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和地图交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除地图，或附加和分离程序到 cgroups.
   - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编器.
   - [`bpf_dbg`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_dbg.c) - 用于 cBPF 程序的小型调试器.
   - [`bpf_jit_disasm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_jit_disasm.c) - 两种 BPF 风格的反汇编器，对 JIT 调试非常有用.
@@ -304,6 +304,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor)  - 一组从 Linux 内核收集安全相关事件数据的 BPF 程序.  BPF 程序被组合成一个单独的 ELF 文件，根据运行的操作系统和内核版本，可以有选择地从中加载各个探测器.
 - [bpflock - Lock Linux machines](https://github.com/linux-lock/bpflock) - 一个 eBPF 驱动的安全工具，用于锁定和审计 Linux 机器.
 - [merbridge](https://github.com/merbridge/merbridge/)  - 使用 eBPF 加速您的服务网格.  Merbridge 用 eBPF 替换 iptables 规则来拦截流量. 它还结合了 msg_redirect 以减少延迟，并缩短了 sidecar 和服务之间的数据路径.
+- [parca-agent](https://github.com/parca-dev/parca-agent) - 基于 eBPF 的永远在线的持续分析器，用于分析 CPU 和内存使用情况，直至行号和整个时间.
 
 ## eBPF in Security
 
@@ -328,13 +329,13 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [linux/net/core/filter.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/core/filter.c)  - 与网络相关的功能和 eBPF 助手（TC、XDP 等）； 还包含将 cBPF 字节码迁移到 eBPF 的代码（所有 cBPF 程序在最近的内核中都被转换为 eBPF）.
 - [linux/kernel/trace/bpf_trace.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/trace/bpf_trace.c) - 与跟踪和监控相关的函数和 eBPF 助手（kprobes、tracepoints 等）.
 - JIT 编译器在各自架构的目录下，例如文件 [linux/arch/x86/net/bpf_jit_comp.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/arch/x86/net/bpf_jit_comp.c) 对于 x86\. 用于硬件卸载的 JIT 编译器例外，位于其驱动程序中，例如 [linux/drivers/net/ethernet/netronome/nfp/bpf/jit.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/drivers/net/ethernet/netronome/nfp/bpf/jit.c) 用于 Netronome NFP.
-- [linux/net/sched/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/sched) - 特别是在文件 `act_bpf.c` (action) 和 `cls_bpf.c` (filter) 中：与 BPF 操作和带有 TC 的过滤器相关的代码.
+- [linux/net/sched/](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/sched) - 特别是在文件 `act_bpf.c` (action) 和 `cls_bpf.c` (filter) 中：与 BPF 操作和 TC 过滤器相关的代码.
 - [linux/kernel/seccomp.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/kernel/seccomp.c)
 - [linux/net/core/dev.c](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/net/core/dev.c)  - 包含函数 `dev_change_xdp_fd()`，在从用户空间加载到内核后，通过 Netlink 命令调用该函数以将 XDP 程序挂接到设备. 该函数依次使用来自相关驱动程序的回调.
 
 ## Development and Community
 
-- [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  - BPF 补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git), which is itself merged for each release to Linus' tree.
+- [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  - BPF 补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身为每个版本合并到 Linus 的树.
 - [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - About contributions to BPF.
 - [The netdev mailing list](http://lists.openwall.net/netdev/)  - Linux 内核网络堆栈开发的邮件列表. 所有补丁都被发送到那里进行审查和包含.
 - [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - 专门用于 XDP 编程的邮件列表（用于架构或寻求帮助）.

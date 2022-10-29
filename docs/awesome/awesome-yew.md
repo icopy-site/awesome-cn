@@ -82,6 +82,7 @@
 - [Kiomet](https://kiomet.com) - 一款在线实时战略游戏，您可以在其中通过占领塔来扩展您的领土.
 - [Portfolio website](https://github.com/simbleau/website) - Spencer Imbleau 内置可访问性的投资组合 SPA.
 - [tchatche.rs](https://github.com/nag763/tchatchers) - 在 Yew 和 Axum 中构建的基于 Websocket 聊天的应用程序.
+- [viz.rs](https://github.com/viz-rs/viz-rs.github.io) - viz web 框架的网站， [Live Demo](https://viz.rs/).
 
 ## Templates
 

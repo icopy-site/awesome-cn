@@ -193,8 +193,6 @@
 
 * [Scientific Discovery](https://plato.stanford.edu/entries/scientific-discovery/)  - ***柏拉图斯坦福***. 关于科学发现的计算哲学解释，成功的科学探究的过程或产物，有时是一种类似绑架（解释）的思维模式.
 
-* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect)  - ***维基百科***. 维基百科关于尤里卡效应（又名啊哈！时刻），突然理解以前无法理解的问题或概念的常见人类经验.
-
 * [Models of Discovery: And Other Topics in the Methods of Science](https://hk1lib.org/book/2241843/c5d7b3?id=2241843&secret=c5d7b3) - ***斯普林格***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=9932701864897299105&hl=en&as_sdt=0,5) ]. 关于搜索作为科学思维的原著.
 
 * [Scientific discovery: Computational explorations of the creative processes](https://hk1lib.org/book/970300/6b0ff7?id=970300&secret=6b0ff7) - ***麻省理工学院出版社***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=11327000316248254911&hl=en&as_sdt=0,5) ]. 将科学发现与绑架的创造力特征相结合的计算帐户.
@@ -607,7 +605,7 @@
 <span id = "hmprobsol"></span>
 #### Human-Level Problem Solving
 
-* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5) ]. 赫伯特西蒙关于人类问题解决的最初想法.
+* [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***心理评论***，1958 年. [[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501&hl=en&as_sdt=0,5) ]. 赫伯特西蒙关于人类问题解决的最初想法.
 
 * [Human Problem Solving](https://psycnet.apa.org/record/1973-10478-000) - ***Englewood Cliffs，新泽西州：Prentice-hall***，1972 年. [[All Versions](https://scholar.google.com/scholar?cluster=3996229083126262536&hl=en&as_sdt=0,5) ].  Herbert Simon 将人类问题解决作为搜索的经典思想.
 
@@ -728,7 +726,7 @@
 
 * [Bayesian Inverse Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/416.pdf) - ***IJCAI'07***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=4154724070362583557&hl=en&as_sdt=0,5) ]. 经典逆强化学习的贝叶斯帐户.
 
-* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9128320307925997063&hl=en&as_sdt=0,5)].
+* [From Language to Goals: Inverse Reinforcement Learning for Vision-Based Instruction Following](https://arxiv.org/abs/1902.07742) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9128320307925997063&hl=en&as_sdt=0,5)].
 
 * [Few-shot Bayesian imitation learning with logical program policies.](https://arxiv.org/pdf/1904.06317.pdf) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5103854692762145813&hl=en&as_sdt=0,5)].
 
@@ -807,7 +805,7 @@
 
 * [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15612498612943317331&hl=en&as_sdt=0,5)].
 
-* [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=10619362619006891050&hl=en&as_sdt=0,5)].
+* [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=10619362619006891050&hl=en&as_sdt=0,5)].
 
 * [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://openreview.net/forum?id=BkxUvnEYDH)].
 
@@ -815,9 +813,9 @@
 
 * [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9452091824686227240&hl=en&as_sdt=0,5)].
 
-* [Neural Logic Machines](https://arxiv.org/pdf/1904.11694.pdf) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4525183211642569463&hl=en&as_sdt=0,5)].
+* [Neural Logic Machines](https://arxiv.org/pdf/1904.11694.pdf) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4525183211642569463&hl=en&as_sdt=0,5)].
 
-* [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=8837128214653317831&hl=en&as_sdt=0,5)].
+* [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8837128214653317831&hl=en&as_sdt=0,5)].
 
 * [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1888051343232298875&hl=en&as_sdt=0,5)].
 
@@ -1008,7 +1006,7 @@
 
 #### Virtual Reality
 
-* [Virtual reality in behavioral neuroscience and beyond](https://www.nature.com/articles/nn948) - ***自然神经科学***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12168354203281280346&hl=en&as_sdt=0,5)]. A classic review on the early applications of Virtual Reality to behavioral studies.
+* [Virtual reality in behavioral neuroscience and beyond](https://www.nature.com/articles/nn948) - ***自然神经科学***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=12168354203281280346&hl=en&as_sdt=0,5) ]. 对虚拟现实在行为研究中的早期应用的经典回顾.
 
 * [Virtual reality: A survival guide for the social scientist](https://stanfordvr.com/mm/2009/fox-jmp-vr-survival.pdf) - ***媒体心理学杂志***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=17318470193315023264&hl=en&as_sdt=0,5)].
 
@@ -1038,7 +1036,7 @@
 * [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
 
 
-#### Marr Levels of Analysis
+#### Marr's Levels of Analysis
 
 * [Vision: A Computational Investigation into the Human Representation and Processing of Visual Information](https://usa1lib.org/book/1223444/8e5ca8) - ***麻省理工学院出版社***，1982 年. [[All Versions](https://scholar.google.com/scholar?cluster=14386368570811483142&hl=en&as_sdt=0,44) ]. 大卫马尔关于分析水平的原著.
 
@@ -1066,6 +1064,11 @@
 * [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***实验心理学杂志***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Deep Learning: How the Mind Overrides Experience](https://hk1lib.org/book/1244721/20ddc5) - ***剑桥大学出版社***，2011 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=231021877034210140)]. 
+
+
+#### The Aha! Moment
+
+* [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect)  - ***维基百科***. 关于尤里卡效应（又名啊哈！时刻、洞察力和顿悟）的维基百科，即突然理解以前无法理解的问题或概念的常见人类体验.
 
 
 #### Rationality
@@ -1236,7 +1239,7 @@
 
 * [Analogy between concepts](https://www.sciencedirect.com/science/article/pii/S0004370218301863) - ***人工智能***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1397905953174123757&hl=en&as_sdt=0,5) ]. 关于类比的数学说明.
 
-* [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138&hl=en&as_sdt=0,5)].
+* [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120) - ***ICLR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138&hl=en&as_sdt=0,5)].
 
 * [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://aclanthology.org/2020.figlang-1.pdf#page=140) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5747285277687442001&hl=en&as_sdt=0,5)].
 
@@ -1358,7 +1361,7 @@
 
 * [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 一阶模型理论的计算哲学帐户，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
-* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/) - ***Plato Stanford***. A computational philosophy account on Paraconsistent Logic, where any logic is paraconsistent as long as it is not explosive.
+* [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 一种关于超一致逻辑的计算哲学说明，其中任何逻辑只要不是爆炸性的，就都是超一致的.
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图斯坦福***. 关于逻辑结果的计算哲学帐户，它是关于有效论证中前提和结论之间的关系.
 
@@ -1804,7 +1807,7 @@
 
 ### NYU
 
-* [Ernest Davis](https://cs.nyu.edu/~davise/) - ***纽约大学库朗数学科学研究所计算机科学系***.
+* [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
 
 * [Gary Marcus](http://garymarcus.com/index.html) - ***纽约大学心理学系***.
 
@@ -1865,7 +1868,7 @@
 <span id = "sc"></span>
 ### Susan Carey
 
-发展心理学家，提出*对象*作为人类智能的核心知识. 
+Developmental psychologist, proposed *object* as a core knowledge of human intelligence. 
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)].
 

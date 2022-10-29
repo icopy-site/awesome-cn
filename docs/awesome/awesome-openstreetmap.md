@@ -50,14 +50,14 @@
 
 * [OpenMapTiles](https://openmaptiles.org/)  - 用于自托管矢量地图和地图服务的工具集，带有 50 多种语言的标签.  ([Source Code](https://github.com/openmaptiles) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenMapTiles))
 * [OSMNames](http://osmnames.org/)  - 地理编码工具根据相应的维基百科页面流行度排名地方.  ([Source Code](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
-* [overpass-turbo](http://overpass-turbo.eu)  - 基于 Web 的 OpenStreetMap 数据挖掘工具，使用 Overpass API.  ([Source Code](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
+* [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
 * [hdyc](http://hdyc.neis-one.org)  - 任何 OSM 用户贡献的统计查看器.  ([Wiki](https://wiki.openstreetmap.org/wiki/How_did_you_contribute%3F)) <!-- markdown-link-check-disable-line -->
 * [Osmose](https://osmose.openstreetmap.fr)  - 用于修复 OpenStreetMap 数据中检测到的问题的 QA 工具.  ([Source Code](https://github.com/osm-fr?q=osmose) / [Wiki](https://wiki.openstreetmap.org/wiki/Osmose))
 * [opening_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/)  - 评估“opening_hours”标签的工具.  ([Source Code](https://github.com/opening-hours/opening_hours.js))
 * [taginfo](https://taginfo.openstreetmap.org/)  - 显示标签及其使用信息的网站.  ([Source Code](https://github.com/taginfo/taginfo/) / [Wiki](https://wiki.openstreetmap.org/wiki/Taginfo))
 * [Turn Restrictions](https://ahorn.lima-city.de/tr/) - 查看转弯限制和链接错误.
 * [NLMaps](https://nlmaps.gorgor.de/) - 允许使用简单英语查询 OSM 数据的网站.
-* [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
+* [My Notes](https://my-notes.osm-hr.org/) - 搜索找到您未解决的旧笔记.
 * [YoHours](https://projets.pavie.info/yohours/)  - 生成“opening_hours”标签的工具.  ([Source Code](https://framagit.org/PanierAvide/YoHours))
 * [OpenStreetMap Welcome Tool](https://welcome.osm.be/)  - 用于在您所在地区寻找新地图绘制者的工具.  ([Source Code](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/)  - 将人类可读的营业时间转换为“opening_hours”标签的工具.  ([Source Code](https://github.com/OSM-de/WebToOSMOH))
@@ -88,6 +88,7 @@
 * [Suspicious OSM Changesets](https://resultmaps.neis-one.org/osm-suspicious) - 查找可疑的 OSM 变更集.
 * [Changeset Text Search](https://resultmaps.neis-one.org/osm-changesets) - 按评论过滤 OSM 变更集.
 * [Latest Changeset Discussions](https://resultmaps.neis-one.org/osm-discussions) - 显示有关 OSM 变更集的最新讨论.
+* [latest-changes](https://rene78.github.io/latest-changes/#2/15.0/-15.0)  - 可视化特定地理边界内的最新 OSM 变更集. 包括一个简单的破坏检查器.  ([Source Code](https://github.com/rene78/latest-changes/))
 
 
 ## Tasking Managers
@@ -109,7 +110,6 @@
 
 ### Web Maps
 
-* [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0)  - 用于探索最新变更集的地图.  ([Source Code](https://github.com/tyrasd/latest-changes/))
 * [Baato Before-After Maps](https://beforeafter.baato.io/)  - 生成前后地图以可视化您当地社区所做的工作.  ([Source Code](https://github.com/baato/before-after))
 * [Show me the way](https://osmlab.github.io/show-me-the-way/)  - 实时地图显示航空影像的最新变化.  ([Source Code](https://github.com/osmlab/show-me-the-way/) / [Wiki](https://wiki.openstreetmap.org/wiki/Show_Me_The_Way))
 * [OSM In Realtime](https://osm-in-realtime.jwestman.net/)  - 对 OpenStreetMap 所做的更改进行可视化.  ([Source Code](https://gitlab.com/jwestman/osm-in-realtime) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM-in-realtime))
@@ -126,6 +126,7 @@
 * [OsmAPP](https://osmapp.org)  - 可浏览的地图显示数据并提供简单的 POI 编辑功能.  ([Source Code](https://github.com/zbycz/osmapp))
 * [Tracesmap](https://tracesmap.com/) - 允许在 OsmCarto 和 OpenTopoMap 派生的视网膜地图上规划路线的地图.
 * [Visit Sights](https://visitsights.com/) - 步行自助观光旅游的建议和世界各地各个景点的概览.
+* [Defikarte.ch](https://www.defikarte.ch)  - 显示瑞士和列支敦士登所有可用除颤器的地图，紧急调度中心和救援服务也使用该地图.  （ℹ️ 仅限德语）
 
 ### Mobile Maps
 

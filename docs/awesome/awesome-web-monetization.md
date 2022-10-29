@@ -124,6 +124,12 @@ _任何包/模块和插件_
 
 - [Is web monetized](https://github.com/jkga/is-web-monetized) - 一个非常简单的工具，用于检查是否启用了网络货币化.
 
+  &gt; ```重击
+  &gt; npm install is-web-monetized -g
+  &gt; 货币化 example.com 
+  > ```
+  &gt; 您还可以测试您的网站 [with the dependency](https://github.com/jkga/is-web-monetized#usage).
+
 - [Paytrackr](https://github.com/sorxrob/paytrackr) - 在一个地方跟踪和管理您的小额支付.
 
   &gt; PayTrackr 是跟踪和管理您对网络货币化网站的小额支付的最简单和最安全的方式，拥有网络货币化提供商会员资格.
