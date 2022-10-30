@@ -395,7 +395,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里 (Susan Carey) 的关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明和捍卫认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里关于儿童发展概念理论的扩展书.
 
@@ -414,7 +414,7 @@
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大型语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会的交易***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
 
 
 
@@ -1115,6 +1115,8 @@
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***美国国家科学院院刊***，2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么一个领域每年发表的论文过多会导致停滞而不是进步. 
 
+
+* [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***在线方法创新***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
 
 #### Literature Mining

@@ -35,6 +35,7 @@
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - 来自官方 V 示例的小型文本编辑器.
 - [ved](https://github.com/vlang/ved)  - 1 MB 用 V 编写的文本编辑器，带有硬件加速文本渲染. 在 &lt;1s 内编译.
 - [vee](https://github.com/Larpon/vee)  - V 编辑器引擎. 提供文本编辑器功能的 AV 模块. 附带一个 [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
+- [vPDF](https://github.com/vlang/pdf) - 使用 V 编程语言简化 PDF 文件创建的模块.
 
 ### Games
 
@@ -79,6 +80,7 @@
 
 ### Web
 
+- [Gitly](https://github.com/vlang/gitly) - 用 V 编写的 GitHub/GitLab 的轻量级 SCM 替代方案.
 - [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
@@ -147,7 +149,7 @@
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 包装器.
 - [vsdl](https://github.com/kjlaw89/vsdl) - 基于 C 的 SDL 库的 V 包装器.
-- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL 是使用 V 使用 OpenCL 编写程序的高级方式.这些是针对 V 的高度自以为是的 OpenCL 绑定.它试图通过一些糖抽象、V 的并发性和通道来简化 GPU 计算.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL 是一种使用 V 编写 OpenCL 程序的高级方法.这些是 V 的高度自以为是的 OpenCL 绑定.它试图通过一些糖抽象、V 的并发性和通道来简化 GPU 计算.
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - sokol_gp 库的 AV 包装器，用于简单快速的 2d 图形.
 
 ### IRC

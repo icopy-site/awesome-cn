@@ -46,6 +46,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 - [Badger](https://github.com/elfenware/badger) - 提醒自己不要久坐盯着屏幕.
 - [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - 一个漂亮的 GTK 4 终端.
+- [Dino](https://github.com/dino/dino) - 使用 GTK+/Vala 的现代 Jabber/XMPP 客户端.
 - [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 免费番茄定时器.
 - [geary](https://gitlab.gnome.org/GNOME/geary) - Geary 是一个围绕对话构建的电子邮件应用程序，适用于 GNOME 3 桌面.
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - GNOME 桌面的计算器应用程序.
@@ -54,7 +55,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 - [Notejot](https://github.com/lainsce/notejot) - 极其简单的笔记应用程序.
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown 注释编辑器和管理器.
 - [Paper](https://gitlab.com/posidon_software/paper/) - 在 Markdown 中做笔记.
-- [pdfpc](https://github.com/pdfpc/pdfpc) - 一个 GTK 演示者应用程序，支持 PDF 文件的多显示器.
+- [pdfpc](https://github.com/pdfpc/pdfpc) - GTK 演示者应用程序，支持 PDF 文件的多显示器.
 - [Planner](https://github.com/alainm23/planner) - 为 GNU/Linux 设计的具有 Todoist 支持的任务管理器.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - 现代 Linux 桌面的演示应用程序.
 
@@ -96,7 +97,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 ### Command-line
 
-- [console-command](https://github.com/naaando/console-command) - 将命令行参数路由到命令模式对象的库，当前实现包括通过继承或使用闭包进行扩展.
+- [console-command](https://github.com/naaando/console-command) - 将命令行参数路由到命令模式对象的库，当前实现涵盖通过继承或使用闭包的扩展.
 
 ### Concurrency
 
@@ -109,7 +110,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 ### Data Structures & Data Types
 
 - [Graphene](https://github.com/ebassi/graphene)  - 用于图形库的薄层类型. 它提供了处理 3D 变换所需的常用类型：点、三角形、矩形、四边形、四元数、向量、矩阵、球体等.
-- [Libgee](https://wiki.gnome.org/Projects/Libgee) - 一个实用程序库，为常用数据结构（列表、映射、队列、树等）提供基于 GObject 的接口和类.
+- [Libgee](https://wiki.gnome.org/Projects/Libgee) - 为常用数据结构（列表、地图、队列、树等）提供基于 GObject 的接口和类的实用程序库.
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib)  - 通过 GCC 扩展为 GLib（和 Vala）收集数字数据类型. 它包括 128 位整数和浮点数、复杂类型、矢量化操作和十进制类型.
 - [United](https://github.com/lcallarec/united) - 用于单位操作的库（如公斤、米等）.
 - [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - 一组用于 Vala 的实用程序库，添加：文本流处理（输入和输出）、JSON 序列化和反序列化，以及存档压缩和提取.

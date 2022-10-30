@@ -286,7 +286,7 @@
 - [got](https://github.com/sindresorhus/got) - 更好的内置“http”模块界面.
 - [undici](https://github.com/nodejs/undici) - 从零开始编写的高性能 HTTP 客户端，具有零依赖性.
 - [ky-universal](https://github.com/sindresorhus/ky-universal) - 基于 Fetch 的通用 HTTP 客户端.
-- [node-fetch](https://github.com/node-fetch/node-fetch) - Node.js 的`window.fetch`.
+- [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
 - [axios](https://github.com/axios/axios) - 基于 Promise 的 HTTP 客户端（也适用于浏览器）.
 - [superagent](https://github.com/visionmedia/superagent) - HTTP 请求库.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - 通过可配置的路由提供 JSON 文件或 JavaScript 对象的内容来构建假后端.
@@ -476,7 +476,6 @@
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - 转换流中的第一个块.
 - [pad-stream](https://github.com/sindresorhus/pad-stream) - 填充流中的每一行.
 - [multistream](https://github.com/feross/multistream) - 将多个流合并为一个流.
-- [stream-combiner2](https://github.com/substack/stream-combiner2) - 将管道变成单个流.
 - [readable-stream](https://github.com/nodejs/readable-stream) - 核心中 Streams2 和 Streams3 实现的镜像.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - 同时转换对象流.
 
@@ -856,9 +855,8 @@
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - 总结和管理 Node.js 最佳实践中排名靠前的内容，以多种语言提供.
 - [Nodeschool](https://github.com/nodeschool) - 通过交互式课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
-- [stream-handbook](https://github.com/substack/stream-handbook) - 如何使用流编写 Node.js 程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些好的做法.
-- [The Node Way](https://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
+- [The Node Way](https://thenodeway.io) - Node.js 最佳实践和指导原则的完整理念可用于编写可维护的模块、可扩展的应用程序和真正易于阅读的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Node.js 核心特性和异步 JavaScript 简介.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用少量简单库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
@@ -889,7 +887,7 @@
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
+- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - 垃圾谈论 V8 垃圾收集器.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Node.js 的创建者对它的一些限制进行了富有洞察力的谈话.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - 关于如何使用 Node.js 制作 REST API 的视频课程.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - 在不使用 Express 等框架的情况下构建 REST API.
