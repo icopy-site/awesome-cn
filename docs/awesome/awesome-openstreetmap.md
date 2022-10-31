@@ -50,7 +50,7 @@
 
 * [OpenMapTiles](https://openmaptiles.org/)  - 用于自托管矢量地图和地图服务的工具集，带有 50 多种语言的标签.  ([Source Code](https://github.com/openmaptiles) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenMapTiles))
 * [OSMNames](http://osmnames.org/)  - 地理编码工具根据相应的维基百科页面流行度排名地方.  ([Source Code](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
-* [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
+* [overpass-turbo](http://overpass-turbo.eu)  - 基于 Web 的 OpenStreetMap 数据挖掘工具，使用 Overpass API.  ([Source Code](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
 * [hdyc](http://hdyc.neis-one.org)  - 任何 OSM 用户贡献的统计查看器.  ([Wiki](https://wiki.openstreetmap.org/wiki/How_did_you_contribute%3F)) <!-- markdown-link-check-disable-line -->
 * [Osmose](https://osmose.openstreetmap.fr)  - 用于修复 OpenStreetMap 数据中检测到的问题的 QA 工具.  ([Source Code](https://github.com/osm-fr?q=osmose) / [Wiki](https://wiki.openstreetmap.org/wiki/Osmose))
 * [opening_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/)  - 评估“opening_hours”标签的工具.  ([Source Code](https://github.com/opening-hours/opening_hours.js))
@@ -59,7 +59,7 @@
 * [NLMaps](https://nlmaps.gorgor.de/) - 允许使用简单英语查询 OSM 数据的网站.
 * [My Notes](https://my-notes.osm-hr.org/) - 搜索找到您未解决的旧笔记.
 * [YoHours](https://projets.pavie.info/yohours/)  - 生成“opening_hours”标签的工具.  ([Source Code](https://framagit.org/PanierAvide/YoHours))
-* [OpenStreetMap Welcome Tool](https://welcome.osm.be/)  - 用于在您所在地区寻找新地图绘制者的工具.  ([Source Code](https://github.com/osmbe/osm-welcome-tool))
+* [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/)  - 将人类可读的营业时间转换为“opening_hours”标签的工具.  ([Source Code](https://github.com/OSM-de/WebToOSMOH))
 * [ohsome Dashboard](https://ohsome.org/apps/dashboard/)  - 可视化特定时间段内变化的工具.  ([Wiki](https://wiki.openstreetmap.org/wiki/Ohsome_Dashboard))
 
@@ -89,6 +89,8 @@
 * [Changeset Text Search](https://resultmaps.neis-one.org/osm-changesets) - 按评论过滤 OSM 变更集.
 * [Latest Changeset Discussions](https://resultmaps.neis-one.org/osm-discussions) - 显示有关 OSM 变更集的最新讨论.
 * [latest-changes](https://rene78.github.io/latest-changes/#2/15.0/-15.0)  - 可视化特定地理边界内的最新 OSM 变更集. 包括一个简单的破坏检查器.  ([Source Code](https://github.com/rene78/latest-changes/))
+* [OSM Inspector](https://tools.geofabrik.de/osmi/?view=geometry&lon=-12.00000&lat=25.00000&zoom=3&baselayer=Geofabrik%20Standard&overlays=long_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way%2Clong_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way)  - OSM Inspector（别名 OSMI）是 Geofabrik 为高级 OpenStreetMap 用户提供的基于 Web 的调试工具. 在地图上，您可以看到多个主题视图，每个视图都有多个图层，显示 OSM 数据的特定细节，通常带有突出显示的错误.
+* [Nominatim QA](https://nominatim.org/qa/#map=1.81/0.00/0.00)  - Nominatim 数据分析器是一种 QA 工具，用于扫描 nominatim 数据库并从中提取可疑数据. 然后，这些数据通过可视化界面呈现给制图员，以便他们可以直接更正它们.
 
 
 ## Tasking Managers
@@ -115,7 +117,7 @@
 * [OSM In Realtime](https://osm-in-realtime.jwestman.net/)  - 对 OpenStreetMap 所做的更改进行可视化.  ([Source Code](https://gitlab.com/jwestman/osm-in-realtime) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM-in-realtime))
 * [osm-livechanges](http://live.openstreetmap.fr/)  - 在 OpenStreetMap 数据库中近乎实时地显示编辑.  ([Source Code](https://github.com/cstenac/osm-livechanges))
 * [indoor=](https://indoorequal.org)  - 从 OpenStreetMap 查看室内数据的地图.  ([Wiki](https://wiki.openstreetmap.org/wiki/Indoor%3D)) <!-- markdown-link-check-disable-line -->
-* [Qwant Maps](https://www.qwant.com/maps)  - 具有 POI 搜索和路由功能的现代地图.  ([Wiki](https://wiki.openstreetmap.org/wiki/Qwant_Maps))
+* [Qwant Maps](https://www.qwant.com/maps) - Modern map with POI search and routing functionality. ([Wiki](https://wiki.openstreetmap.org/wiki/Qwant_Maps))
 * [F4map Demo](https://demo.f4map.com/)  - OpenStreetMap 数据的 3D 渲染演示.  ([Wiki](https://wiki.openstreetmap.org/wiki/F4_Map))
 * [FacilMap](https://facilmap.org/)  - 可以轻松过滤 POI 类型的地图.  ([Source Code](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
 * [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap)  - 德国柏林“Neukölln”区的高细节微图.  ([Wiki](https://wiki.openstreetmap.org/wiki/Micromapping#Stra.C3.9Fenraumkarte_Neuk.C3.B6lln))

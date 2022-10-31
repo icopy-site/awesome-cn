@@ -34,6 +34,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [DG-IoT](https://github.com/dgiot/dgiot-dashboard) - DG-IoT平台行业应用扩展插件.
 - [dgiot_tdengine](https://github.com/dgiot/dgiot_tdengine) - TDengine 适配器插件.
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - 用于 Node-RED 的 TDengine 连接器插件.
+- [IoTSharp](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp 是一个开源的物联网数据采集平台，支持将时序数据存储到TDengine. 
 
 ## ORM
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL 接口、标准、CriteriaBuilder、ResultMapBuilder.
@@ -43,6 +44,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [crown](https://github.com/machine-w/crown) - Crown 是 TDengine 的一个简单的小型 ORM.
 - [APIJSON](https://github.com/Tencent/APIJSON) - 无需编写任何代码即可提供 API 和文档的 JSON 传输协议和 ORM 库.
 - [ZORM](https://gitee.com/chunanyong/zorm) - ORM 通过 Go 支持 TDenging.
+ 
 ## Connector
 
 - [PDO_TAOS](https://github.com/bearlord/pdo_taos) - PDO 的 TDengine 驱动程序.
@@ -57,7 +59,8 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [taos-rs](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful 客户端.
 - [TDengine Rust bindings](https://github.com/songtianyi/tdengine-rust-bindings) - 这是 TDengine 的 Rust 绑定项目.
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - 用于 Elixir 的 TDengine 连接器.
-- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
+- [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+). 
+- [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)   - TDengine 的 ADO.Net 提供商.  （.Net Framework 4.6+、.Net Standard2.0+、.Net 5.0+）. 
 
 ## Stack
 
@@ -114,3 +117,4 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [auto_taos_cfg](https://github.com/glzhao89/auto_taos_cfg) - 自动生成 TDengine 日志/数据/cfg.
 - [Sentinel Console](https://github.com/wenhao/sentinel-dashboard-tdengine) - 带有 TDengine 的哨兵仪表板.
 - [Davinci](https://github.com/edp963/davinci) - Davinci 是一个 DVsaaS（数据可视化即服务）平台.
+- [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/)  - TDengine 的 HealthChecks 提供商.  （.Net 5.0+）. 

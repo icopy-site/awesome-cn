@@ -26,6 +26,7 @@
 * [Hound](https://search.nix.gsc.io) - 轻松搜索所有或选定的 Nix 相关存储库.
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - 查找频道中可用的软件包的所有版本以及可以从中下载的版本.
 * [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 包的数据库.
+* [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - 搜索所有 2000 多个家庭管理器选项并阅读如何使用它们.
 
 ### Newsletters
 
@@ -45,7 +46,6 @@
 
 ## Deployment Tools
 
-* [Cachix Deploy](https://docs.cachix.org/deploy) - 面向开发人员体验的 Nix 部署工具
 * [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为蓝本.
 * [deploy-rs](https://github.com/serokell/deploy-rs) - 一个简单的多配置文件 Nix-flake 部署工具.
 * [krops](https://cgit.krebsco.de/krops/about/) - 用于远程或本地部署 NixOS 系统的轻量级工具包.

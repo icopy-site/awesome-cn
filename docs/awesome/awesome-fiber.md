@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Fiber Logo" align="right" style="margin-right: 25px" height=75>
 </a>
 
-> **Fiber** is an [Express](https://github.com/expressjs/express) 受启发的 **web 框架** 建立在 [Fasthttp](https://github.com/valyala/fasthttp)，**最快的** HTTP 引擎 [Go](https://golang.org/doc/) . 旨在为**快速**开发**缓解**事情，同时考虑**零内存分配**和**性能**.
+&gt; **纤维**是一种 [Express](https://github.com/expressjs/express) 受启发的 **web 框架** 建立在 [Fasthttp](https://github.com/valyala/fasthttp)，**最快的** HTTP 引擎 [Go](https://golang.org/doc/) . 旨在为**快速**开发**缓解**事情，同时考虑**零内存分配**和**性能**.
 
 精选的 Fiber 中间件、样板、食谱、文章和工具的精选列表.
 <br>
@@ -39,7 +39,7 @@ Fiber 框架中包含的中间件列表.
 - [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - 为每个请求添加一个 requestid.
 - [Session](https://github.com/gofiber/fiber/tree/master/middleware/session)  - 会话中间件. 注意：这个中间件使用我们的存储包.
 - [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - 跳过包装处理程序的跳过中间件是谓词为真.
-- [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - 为请求添加最大时间，如果超过则转发给 ErrorHandler.
+- [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### 🔗 External
 外部托管的中间件模块列表并由 [Fiber team](https://github.com/orgs/gofiber/people).
@@ -84,7 +84,7 @@ Fiber 社区创建的中间件列表.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC，可作为中间件替代 Varnish.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制工作证明挑战的反 DDoS/Bot 中间件.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 为光纤提供 OPA 中间件集成.
-
+- [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - 基于 W3C Server-Timing Spec 添加 Server-Timing 标头的中间件.
 
 ## 🚧 Boilerplates
 Fiber 的预制样板.

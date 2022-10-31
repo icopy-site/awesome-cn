@@ -167,6 +167,7 @@
 - [Layout Designer for UICollectionView](https://github.com/amirdew/CollectionViewPagingLayout)  - 一个简单但功能强大的工具，可帮助您为 UICollectionView 制作复杂的布局.  ![swift_icon] 
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer)  - 检查系统粘贴板.  ![swift_icon] 
 - [Stringz](https://github.com/mohakapt/Stringz)  - 用于本地化 iOS、macOS、tvOS 和 watchOS 应用程序的轻量级且功能强大的编辑器.  ![swift_icon] 
+- [utmapp](https://github.com/utmapp/)  - 其他操作系统的虚拟化.  ![swift_icon] ![objective_c_icon] 
 
 #### Git
 - [Cashew](https://github.com/dhennessy/OpenCashew)  - Cashew macOS Github 问题跟踪器.  ![objective_c_icon] ![c_icon] 
@@ -204,7 +205,7 @@
 
 #### Web Development
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx)  - CoreOS VM 是 macOS 状态栏应用程序，可让您轻松控制 Mac 上的 CoreOS VM.  ![objective_c_icon] 
-- [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app)  - Corectl App 是一个 macOS 状态栏应用程序，它的工作方式类似于 corectl 命令行工具 corectld 的包装器，以控制服务器运行时进程.  ![swift_icon] 
+- [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app)  - Corectl App 是一个 macOS 状态栏应用程序，它的工作方式类似于 corectl 命令行工具 corectld 的包装器，用于控制服务器运行时进程.  ![swift_icon] 
 - [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop)  - HTTP Toolkit 是一个跨平台拦截、调试和模拟 HTTP 的工具.  ![typescript_icon] 
 - [Insomnia](https://github.com/Kong/insomnia)  - Insomnia 是一个跨平台的 REST 客户端，建立在 Electron 之上.  ![javascript_icon] 
 - [KubeMonitor](https://github.com/Daniel-Sanche/KubeMonitor)  - KubeMonitor 是一个 macOS 应用程序，可在菜单栏中显示有关活动 Kubernetes 集群的信息.  ![swift_icon] 
@@ -251,7 +252,7 @@
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)  - 用于在 iOS 和 Android 上测试推送通知的 macOS 应用程序.  ![javascript_icon] 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool)  - 这是一个适用于 macOS 的应用程序，它可以（重新）签署应用程序并将它们捆绑到准备安装在 iOS 设备上的 ipa 文件中.  ![objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr)  - 用于为 iOS 和 Android 应用程序创建 AppIcon 的 MacOS 应用程序.  ![swift_icon] 
-- [SmartPush](https://github.com/shaojiankui/SmartPush)  - iOS 推送通知调试应用程序.  ![objective_c_icon] 
+- [SmartPush](https://github.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon] 
 - [Stringz](https://github.com/mohakapt/Stringz)  - 用于本地化 iOS、macOS、tvOS 和 watchOS 应用程序的轻量级且功能强大的编辑器.  ![swift_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)  - 适用于 macOS 的 iOS/Android 应用程序部署工具.  ![swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC)  - 适用于 macOS 的非官方 WWDC 应用程序.  ![swift_icon] 
@@ -660,7 +661,7 @@
 - [Fanny](https://github.com/DanielStormApps/Fanny)  - 从通知中心监控 Mac 的风扇速度和 CPU 温度.  ![objective_c_icon] 
 - [HoRNDIS](https://github.com/jwise/HoRNDIS)  - 适用于 macOS 的 Android USB 网络共享驱动程序.  ![cpp_icon] 
 - [Juice](https://github.com/brianmichel/Juice)  - 让您的电池信息更有趣.  ![swift_icon] 
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.  ![objective_c_icon] 
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)  - 防止您的 Mac 进入睡眠状态.  ![objective_c_icon] 
 - [Latest](https://github.com/mangerlahn/Latest)  - 适用于 macOS 的小型实用程序应用程序，可确保您了解所使用应用程序的所有最新更新.  ![swift_icon] 
 - [Loading](https://github.com/BonzaiThePenguin/Loading)  - 适用于 macOS 的简单网络活动监视器.  ![objective_c_icon] 
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac)  - 连接 iPhone 时停止 iTunes 打开.  ![swift_icon] 
@@ -671,7 +672,7 @@
 - [Stats](https://github.com/exelban/stats) - 菜单栏中的 macOS 系统监视器！[swift_icon] 
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher)  - Turbo Boost Switcher 是一个适用于 Mac 电脑的小应用程序，它允许启用和/或禁用 Turbo Boost 功能.  ![objective_c_icon] 
 - [VerticalBar](https://github.com/DeromirNeves/VerticalBar)  - macOS 应用程序向 Dock 添加垂直条.  ![swift_icon] 
-- [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master)  - Wireshark 是世界上最重要和广泛使用的网络协议分析仪. 它可以让您在微观层面上查看网络上发生的事情，并且是许多商业和非营利企业、政府机构和教育机构的事实上（通常是法律上的）标准.  ![c_icon] ![c++_icon] 
+- [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master)  - Wireshark 是世界上最重要和广泛使用的网络协议分析仪. 它可以让您在微观层面上查看网络上正在发生的事情，并且是许多商业和非营利企业、政府机构和教育机构的事实上（通常是法律上）的标准.  ![c_icon] ![c++_icon] 
 - [eul](https://github.com/gao-sun/eul)  - 用 SwiftUI 编写的 macOS 状态监控应用程序.  ![swift_icon] 
 - [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper)  - 简单的 macOS GateKeeper 脚本. 它可以帮助您控制 GateKeeper.  ![shell_icon] 
 - [macOSLucidaGrande](https://github.com/LumingYin/macOSLucidaGrande)  - 一个将 Lucida Grande 设置为 Mac 系统 UI 字体的小实用程序.  ![objective_c_icon] 
@@ -742,7 +743,7 @@
 - [Music Bar](https://github.com/musa11971/Music-Bar/)  - Music Bar 是 macOS 应用程序，可将音乐控件直接放在菜单栏中.  ![swift_icon] 
 - [NVM](https://github.com/nvm-sh/nvm)  - 节点版本管理器.  ![shell_icon] 
 - [Nmap](https://github.com/nmap/nmap)  - Nmap - 网络映射器.  ![cpp_icon] 
-- [Nmap](https://github.com/wireshark/wireshark)  - Wireshark 是世界上最重要和广泛使用的网络协议分析仪. 它可以让您在微观层面上查看网络上发生的事情，并且是许多商业和非营利企业、政府机构和教育机构的事实上（通常是法律上的）标准.  ![cpp_icon] 
+- [Nmap](https://github.com/wireshark/wireshark)  - Wireshark 是世界上最重要和广泛使用的网络协议分析仪. 它可以让您在微观层面上查看网络上正在发生的事情，并且是许多商业和非营利企业、政府机构和教育机构的事实上（通常是法律上）的标准.  ![cpp_icon] 
 - [Nocturnal](https://github.com/joshjon/nocturnal)  - 菜单栏应用程序具有比黑暗更暗的调光、Night Shift 微调以及关闭 MacBook Pro 上的 TouchBar 的功能.  ![swift_icon] 
 - [NoiseBuddy](https://github.com/insidegui/NoiseBuddy)  - 在触控栏或菜单栏中控制 AirPods Pro 的聆听模式.  ![swift_icon] 
 - [Noti](https://github.com/jariz/Noti/)  - 在您的 Mac 上接收 Android 通知（使用 PushBullet）.  ![swift_icon] 

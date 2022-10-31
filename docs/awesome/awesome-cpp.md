@@ -11,7 +11,7 @@
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - 标准模板库 (STL).
 * [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) - POSIX 系统的 C 标准库规范.
 * [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - C++ 标准委员会. [website](http://www.open-std.org/JTC1/SC22/WG21/)
-* [The GNU C Library](https://www.gnu.org/software/libc/manual) - 本手册的目的是告诉您如何使用 GNU C 库的工具.
+* [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
 
 ## Frameworks
 *C++ 通用框架和库.*
@@ -107,7 +107,7 @@
 * [Vorbis](http://xiph.org/vorbis/)  - Ogg Vorbis 是一种完全开放、非专有、无专利和免版税的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  - 公共领域，仅标头 MP3 解码器，具有洁净室实施.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  - Verovio 是一个快速、轻量级的乐谱雕刻库.  [LGPL] [website](https://www.verovio.org)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，使用 ArrayFire 张量库和 flashlight 机器学习库来实现最高效率 [BSD]
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用 C++ 编写的快速开源语音处理工具包，并使用 ArrayFire 张量库和 flashlight 机器学习库来实现最高效率 [BSD]
 
 ## Biology
 *生物信息学、基因组学、生物技术*
@@ -252,7 +252,7 @@
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree)  - 一个基于 B 树数据结构实现有序内存容器的模板库.  [阿帕奇2]
 * [Colony](https://github.com/mattreecebentley/plf_colony)  - 一个无序的“袋子”型容器，它在高修改场景中优于标准容器，同时保持指向非擦除元素的永久指针，无论插入/擦除如何.  [zLib] [website](http://www.plflib.org/colony.htm)
-* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - 一个只有 C++17 标头的动态位集.  [麻省理工学院]
+* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - C++17 仅标头动态位集.  [麻省理工学院]
 * [Forest](https://github.com/xorz57/forest)  - 实现 AVL、二进制搜索、KD 和四叉树的模板库.  [麻省理工学院]
 * [Hashmaps](https://github.com/goossaert/hashmap)  - 在 C++ 中实现开放寻址哈希表算法.  [麻省理工学院]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)  - 一个快速的仅标头哈希映射，它使用跳房子哈希来解决冲突.  [麻省理工学院]
@@ -504,7 +504,7 @@
 ## Inter-process communication
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
-* [Boost.Interprocess](https://www.boost.org/doc/libs/1_80_0/doc/html/interprocess.html) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). [Boost] [website](https://www.boost.org/) 
+* [Boost.Interprocess](https://www.boost.org/doc/libs/1_80_0/doc/html/interprocess.html) - Header-only Boost library that supports kernel-level shared memory and memory-mapped files, with in-built synchronization mechanisms (semaphores, mutexes, and more). [Boost] [website](https://www.boost.org/)
 * [Cap'n Proto](https://github.com/capnproto/capnproto)  - 快速的数据交换格式和基于能力的 RPC 系统.  [麻省理工学院] [website](https://capnproto.org/)
 * [eCAL](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). [Apache2] [website](http://www.ecal.io/)
 * [gRPC](https://github.com/grpc/grpc)  - 一个高性能、开源、通用的 RPC 框架.  [BSD] [website](http://www.grpc.io/)
@@ -751,6 +751,7 @@
 * [clReflect](https://github.com/Celtoys/clReflect)  - 使用 clang 的 C++ 反射.  [麻省理工学院]
 * [CPFG](https://github.com/cpgf/cpgf)  - 用于反射、回调和脚本绑定的 C++03 库.  [阿帕奇2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)  - 使用 clang 的 C++ 反射.  [麻省理工学院]
+* [Easy Reflection](https://github.com/chocolacula/easy_reflection_cpp)  - 简单快速的反射 + 序列化解决方案，如 Rust、Java 或 Go.  [阿帕奇]
 * [Magic Enum](https://github.com/Neargye/magic_enum)  - 仅头文件的 C++17 库为枚举（到字符串、从字符串、迭代）提供静态反射，可以在没有任何宏或样板代码的情况下使用任何枚举类型.  [麻省理工学院]
 * [magic_get](https://github.com/apolukhin/magic_get)  - std::tuple 类似用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入性和无宏运行时反射系统.  [麻省理工学院]
@@ -908,7 +909,7 @@
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  - 托管信号和时隙系统的实现.  [促进]
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  - 受 Python 内置函数和 itertools 库启发的基于范围的 for 循环插件.  [BSD-2-条款]
-* [D++ (DPP)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] [website](https://dpp.dev)
+* [D++ (DPP)](https://github.com/brainboxdotcc/DPP)  - 用于创建 Discord Bot 的轻量级、高性能和可扩展的 C++ 库.  [阿帕奇2] [website](https://dpp.dev)
 * [DynaMix](https://github.com/iboB/dynamix)  - 允许您在运行时组合和修改对象的库.  [麻省理工学院]
 * [fccf](https://github.com/p-ranav/fccf)  - 递归搜索目录以查找与搜索字符串匹配的 C/C++ 源代码的命令行工具.  [麻省理工学院]
 * [{fmt}](https://github.com/fmtlib/fmt)  :zap: - 小型、安全和快速的 C++ 格式化库.  [简化 BSD]
@@ -1059,7 +1060,7 @@
 * [IKOS](https://github.com/NASA-SW-VnV/ikos)  - 基于抽象解释理论的 C/C++ 静态分析器.  [NOSA 1.3]
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
 * [OptView2](https://github.com/OfekShilon/optview2) - 检查错过的 Clang 优化
-* [Trunk](https://trunk.io) - 检查、测试、合并和监控代码的工具包. 
+* [Trunk](https://trunk.io) - 检查、测试、合并和监控代码的工具包.
 
 ## Coding Style Tools
 
@@ -1136,7 +1137,7 @@
 *精彩的 C 或 C++ 相关视频.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
-* [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 适合初学者和新程序员的详细 C 编程语言教程合集.
+* [Awesome C Programming Tutorials in Hi Def [HD]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 针对初学者和新程序员的详细 C 编程语言教程合集.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 通过 VoidRealms.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过 VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston 官方 Buckys C++ 编程教程播放列表.
@@ -1162,7 +1163,7 @@
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 * [C++ Hints](http://cpphints.com/) - 每个工作日都会提示最常见的 C++ 错误以及 PVS-Studio 团队解决这些错误的方法.
 * [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - 一个用户排名的在线教程库网站，显示了多个学习 C++ 的课程.
-* [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - 由训练有素的专家策划的 C++ 综合教程. 
+* [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - 由训练有素的专家策划的 C++ 综合教程.
 
 ## Weblogs
 *有用的 C 或 C++ 相关的博客.*

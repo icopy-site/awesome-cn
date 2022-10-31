@@ -86,7 +86,7 @@ Courses
 	- [Lectures](http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html)
 	- [Assignments](http://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html)
 - [CS 4410](http://www.cs.cornell.edu/courses/CS4410/2014fa/) **操作系统** *康奈尔大学* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	 - CS 4410 涵盖系统编程和介绍性操作系统设计和实施. 我们将介绍操作系统的基础知识，即结构、并发、调度、同步、内存管理、文件系统、安全性和网络. 该课程面向任何掌握 CS3410/ECE3140 材料的本科生开放.
+	 - CS 4410 涵盖系统编程和介绍性操作系统设计和实现. 我们将介绍操作系统的基础知识，即结构、并发、调度、同步、内存管理、文件系统、安全性和网络. 该课程面向任何掌握 CS3410/ECE3140 材料的本科生开放.
 	- [Syllabus](http://www.cs.cornell.edu/courses/CS4410/2014fa/slides/01-intro.pptx)
 	- [Lectures](http://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php)
 - [CS 4414](http://rust-class.org/index.html) **Operating Systems** *University of Virginia* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
@@ -171,7 +171,7 @@ Courses
 	- 介绍分布式系统，重点是通过用 Go 编程语言实现的项目来教授概念.
 	- [Assignments](http://www.cs.cmu.edu/~dga/15-440/F12/assignments.html)
 - [15-721](http://15721.courses.cs.cmu.edu/spring2016/) **数据库系统** *卡内基梅隆大学* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	 - 本课程是对现代数据库管理系统内部结构的综合研究. 它将涵盖高性能事务处理系统 (OLTP) 和大规模分析系统 (OLAP) 中使用的组件的核心概念和基础知识. 课程将强调实施这些想法的效率和正确性. 所有课程项目都将在一个真正的内存中、多核数据库系统的上下文中. 该课程适合软件系统专业的研究生和具有强大系统编程技能的高级本科生.
+	 - 本课程是对现代数据库管理系统内部结构的综合研究. 它将涵盖高性能事务处理系统 (OLTP) 和大型分析系统 (OLAP) 中使用的组件的核心概念和基础知识. 课程将强调实施这些想法的效率和正确性. 所有课程项目都将在一个真正的内存中、多核数据库系统的上下文中. 该课程适合软件系统专业的研究生和具有强大系统编程技能的高级本科生.
 	- [Assignments](http://15721.courses.cs.cmu.edu/spring2016/syllabus.html)
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O)
 	- [Readings](http://15721.courses.cs.cmu.edu/spring2016/schedule.html)
@@ -328,7 +328,7 @@ Courses
 - [CS 261](http://theory.stanford.edu/~tim/w16/w16.html) **算法第二门课程** *斯坦福大学* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	 - 网络优化算法：最大流、最小成本流、匹配、分配和最小切问题. 线性规划导论. 使用 LP 对偶性来设计和分析算法.  NP 完全问题的近似算法，例如施泰纳树、旅行推销员和调度问题. 随机算法. 在线算法简介.
 	- [Lecture Notes, Videos & Assignments](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
-- [CS 473/573](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/) **基本算法** *伊利诺伊大学厄巴纳-香槟分校* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CS 473/573](http://jeffe.cs.illinois.edu/teaching/algorithms/) **基本算法** *伊利诺伊大学厄巴纳-香槟分校* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	 - 涵盖递归、随机化、摊销、图形算法、网络流和硬度的算法类.  Erikson 教授的讲义内容很全面，足以成为一本书. 强烈推荐！
 	- [Lecture Notes](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-algorithms.pdf)
 	- [Labs and Exams](http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-hwex.pdf)
@@ -373,7 +373,7 @@ Courses
 	- [Syllabus](http://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf)
 	- [Assignments](http://web.cs.ucdavis.edu/~gusfield/cs222w11/)
 - [6.INT](https://courses.csail.mit.edu/iap/interview/index.php) **黑客谷歌面试** *麻省理工学院* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	 - 本课程在 2009 年的麻省理工学院独立活动期间教授，针对苹果、谷歌和 Facebook 等高选择性公司的软件工程师面试常见面试问题的常见解决方案进行了讨论. 它们涵盖了时间复杂度、哈希表、二叉搜索树和其他您应该在其他课程中已经涵盖的常见算法主题，但更深入地介绍了您在课堂上不会学到的东西——比如按位逻辑和问题解决技巧.
+	 - 本课程于 2009 年在麻省理工学院独立活动期间教授，针对苹果、谷歌和 Facebook 等高选择性公司的软件工程师面试常见面试问题的常见解决方案进行了讨论. 它们涵盖了时间复杂度、哈希表、二叉搜索树和其他您应该在其他课程中已经涵盖的常见算法主题，但更深入地介绍了您在课堂上不会学到的东西——比如按位逻辑和问题解决技巧.
 	- [Handouts](https://courses.csail.mit.edu/iap/interview/materials.php)
 	- [Topics Covered](https://courses.csail.mit.edu/iap/interview/calendar.php)
 - [6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) **算法简介** *麻省理工学院* <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.raw.githubusercontent.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />

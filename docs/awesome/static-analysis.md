@@ -798,7 +798,7 @@
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的封装.
 
-- [mypy](http://www.mypy-lang.org) — 一种静态类型检查器，旨在结合鸭子类型和静态类型的优点，经常与 [MonkeyType](https://github.com/Instagram/MonkeyType).
+- [mypy](http://www.mypy-lang.org) — A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType](https://github.com/Instagram/MonkeyType).
 
 - [prospector](https://github.com/PyCQA/prospector) — `pylint`、`pep8`、`mccabe` 等的封装.
 
@@ -941,6 +941,9 @@
 - [cargo-inspect](https://github.com/mre/cargo-inspect) — 检查没有语法糖的 Rust 代码，看看编译器在幕后做了什么.
 
 - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — 使用 hunspell（就绪）和语言工具（预览版）检查所有文档的拼写和语法错误
+
+- [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features)  — 查找潜在未使用的启用功能标志并修剪它们. 您可以从 json 生成简单的 HTML 报告，以便更轻松地检查结果.
+它删除了依赖项的一个特性，然后编译项目以查看它是否仍然可以编译. 如果是这样，则可能会删除功能标志，但它可能是误报.
 
 - [clippy](https://rust-lang.github.io/rust-clippy) — 用于捕捉常见错误并改进您的 Rust 代码的代码 linter.
 
@@ -1093,7 +1096,7 @@
 
 - [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) :copyright: — Static analysis for C/C++/C#, PHP and Java.
 
-- [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai) :copyright: — 商业静态代码分析，生成漏洞以验证漏洞.
+- [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai) :copyright: — Commercial Static Code Analysis which generates exploits to verify vulnerabilities.
 
 - [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) — 为特征检测创建超过 400 种规则模式的报告（例如，在应用程序中使用密码学或版本控制）.
 
@@ -1179,9 +1182,9 @@
 
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: — A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 
-- [Goodcheck](https://sider.github.io/goodcheck) - 基于正则表达式的可定制 linter.
+- [Goodcheck](https://sider.github.io/goodcheck) — 基于正则表达式的可定制 linter.
 
-- [goone](https://github.com/masibw/goone) — Finds N+1 queries (SQL calls in a for loop) in go code
+- [goone](https://github.com/masibw/goone) — 在 go 代码中查找 N+1 个查询（for 循环中的 SQL 调用）
 
 - [graudit](http://www.justanotherhacker.com) — Grep 粗略审计——源代码审计工具.
 
@@ -1492,7 +1495,7 @@
 
 - [terrascan](https://github.com/cesar-rodriguez/terrascan) — 收集用于 Terraform 模板的静态代码分析的安全性和最佳实践测试.
 
-- [tflint](https://github.com/wata727/tflint) — A Terraform linter for detecting errors that can not be detected by `terraform plan`.
+- [tflint](https://github.com/wata727/tflint) — Terraform linter，用于检测“terraform plan”无法检测到的错误.
 
 - [tfsec](https://github.com/tfsec/tfsec)  — Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反 AWS、Azure 和 GCP 安全最佳实践建议.
 
@@ -1500,7 +1503,7 @@
 <h2 id="container">容器</h2>
 
 
-- [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
+- [anchore](https://anchore.io)  — 发现、分析和验证容器映像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动容器映像验证和认证的服务 
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 
@@ -1576,7 +1579,7 @@
 - [deno_lint](https://github.com/denoland/deno_lint) — Deno 的官方 linter.
 
 
-<h2 id="embedded">Embedded</h2>
+<h2 id="embedded">嵌入式</h2>
 
 
 - [oelint-adv](https://github.com/priv-kweihmann/oelint-adv) — 用于开放式嵌入式和 YOCTO 的 bitbake 配方的 Linter

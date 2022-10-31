@@ -305,6 +305,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [bpflock - Lock Linux machines](https://github.com/linux-lock/bpflock) - 一个 eBPF 驱动的安全工具，用于锁定和审计 Linux 机器.
 - [merbridge](https://github.com/merbridge/merbridge/)  - 使用 eBPF 加速您的服务网格.  Merbridge 用 eBPF 替换 iptables 规则来拦截流量. 它还结合了 msg_redirect 以减少延迟，并缩短了 sidecar 和服务之间的数据路径.
 - [parca-agent](https://github.com/parca-dev/parca-agent) - 基于 eBPF 的永远在线的持续分析器，用于分析 CPU 和内存使用情况，直至行号和整个时间.
+- [rbperf](https://github.com/javierhonduco/rbperf) - Ruby 的采样分析器和跟踪器.
 
 ## eBPF in Security
 

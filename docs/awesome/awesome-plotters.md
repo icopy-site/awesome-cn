@@ -52,7 +52,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 并与串行绘图仪连接的 Python 库.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描 PDF 手册.
-- [djipco/hpgl](https://github.com/djipco/hpgl) - 一个 Node.js 库，用于与 HPGL 兼容的绘图仪和打印机进行通信.
+- [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可以在 X11 中用作预览.
 - [vec](https://github.com/anachrocomputer/vec) - 用于生成 HPGL 的示例 C 代码，带有海龟图形界面.
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) - HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
@@ -142,7 +142,7 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 
 单行矢量字体或“雕刻字体”.
 
-- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
+- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息和其他资源和字体的链接.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代矢量字体的“.fnt”格式. 包括对字体原始数据格式的一个很好的概述.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - 好时字体的 C 库和原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) - 一些单行字体可供购买的商业网站.
@@ -251,7 +251,6 @@ HPGL 是大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用
 - [Paul Rickards](https://shop.paulrickards.com)
 - [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 - [inconvergent](http://buy.inconvergent.net)
-- [Customized Streetart](https://www.literalstreetart.com) - 带有可选笔式绘图仪输出的可定制地图.
 - [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
 - [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 - [BustBright](https://mkt.com/bustbright)

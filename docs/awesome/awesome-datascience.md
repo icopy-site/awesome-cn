@@ -167,32 +167,36 @@
 
 - 回归
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- 普通最小二乘
-- 逻辑回归
-- 逐步回归
-- 多元自适应回归样条
+- [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression)
+- [Multivariate Adaptive Regression Splines](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
 - 局部估计散点图平滑
 - 分类
-  - k-最近邻
-  - 支持向量机
-  - 决策树
+  - [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  - [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
+  - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
   - ID3算法
   - C4.5算法
-- 合奏学习
-- 提升
-- 装袋
-- 随机森林
-- AdaBoost
+- [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
+  - 提升
+  - 堆叠
+  - 装袋
+  - 随机森林
+  - AdaBoost
 
 #### Unsupervised Learning
-- 聚类
-  - 层次聚类
-  - k-均值
+- [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
+  - [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+  - [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+  - [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
   - 模糊聚类
   - 混合模型
 - 降维
-  - 主成分分析（PCA）
-  - t-SNE
+  - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+  - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+  - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - 神经网络
 - 自组织地图
 - 自适应共振理论
@@ -411,7 +415,7 @@
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源的数据可视化平台，帮助大家创建简单、正确、可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
+| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包|
 | [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和深度学习模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
@@ -438,7 +442,7 @@
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松地将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于 Python 的推理统计、假设检验和回归框架 |
-| [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
+| [Gensim](https://radimrehurek.com/gensim/)  | 自然语言文本主题建模开源库|
 | [spaCy](https://spacy.io/)  | 一个高性能的自然语言处理工具包 |
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
@@ -456,6 +460,7 @@
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找热门和新图书馆、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表 |
 | [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本化和部署 |
+| [MLflow](https://mlflow.org/)  | 用于在整个生命周期内管理 ML 模型的 MLOps 框架 |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -841,7 +846,7 @@
 
 - [Open Data Science](https://t.me/opendatascience)  – 第一个电报数据科学频道. 涵盖与数据科学相关的所有技术和受欢迎的员工：人工智能、大数据、机器学习、统计学、普通数学和前者的应用.
 - [Loss function porn](https://t.me/loss_function_porn) — 带有视频或图形可视化的 DS/ML 主题的精美帖子.
-- [Machinelearning](https://t.me/ai_machinelearning_big_data) – 每日机器学习新闻.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 
 ### Slack Communities

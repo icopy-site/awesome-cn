@@ -43,9 +43,13 @@ Material-UI Design的官方项目和资源.
 
 Material-UI 设计系列项目.
 
-- [Material Theme Editor](https://material.io/resources/theme-editor/) - 创建和自定义您的 Material 主题.
+- [material-ui-theme-editor](https://in-your-saas.github.io/material-ui-theme-editor/) - 为您的 Material UI 应用程序生成主题的工具，具有实时预览功能.
+- [Material palette generator](https://m2.material.io/inline-tools/color/) - 官方的 Material Design 调色板生成器可用于为您选择的任何颜色生成调色板.
 - [Components Extra](https://github.com/alexandre-lelain/components-extra)  - 提供一组基于 Material-UI 构建的“分子”组件，例如 Footer、CookiesBanner、BackToTop 按钮和其他高度可定制的复杂元素，以帮助开发人员快速构建其 UI 的宏部分. 这些组件通常在站点之间重复 - 这个库解决了这个确切的问题.
 - [React Admin](https://marmelab.com/react-admin/) - 在 REST/GraphQL API 之上，使用 ES6、React 和 Material Design 构建在浏览器中运行的管理应用程序的前端框架.
+- [Material UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - 提供代码片段的 VSCode 扩展.
+- [Material UI Codemorphs](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-codemorphs) - 提供 codemods 的 VSCode 扩展.
+- [Eslint: detect unused classes](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) - ESLint 插件使用`@mui/styles` 检测未使用的样式类.
 
 ## Components
 
@@ -78,7 +82,7 @@ Material-UI 设计系列项目.
 
 使用 Material-UI 设计构建的成熟应用列表.
 
-- [bethesda.net](https://bethesda.net/) - Bethesda 的官方网站，《辐射》、《毁灭战士》、《耻辱》、《天际》、《德军总部》、《上古卷轴》等的发行商.
+- [Bethesda.net](https://bethesda.net/) - Bethesda 的官方网站，《辐射》、《毁灭战士》、《耻辱》、《天际》、《德军总部》、《上古卷轴》等的发行商.
 - [TagSpaces](https://www.tagspaces.org/) - 离线、开源、文件管理器.
 - [Builder Book](https://builderbook.org/) - 教您如何构建全栈、可用于生产的 Web 应用程序的书籍.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - 一个开源 Web 应用程序，可让您搜索 npm 注册表并浏览包详细信息.
@@ -89,11 +93,11 @@ Material-UI 设计系列项目.
 使用 Material-UI 设计构建的入门项目和样板列表.
 
 - [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) - 从官方 Material-UI 存储库创建 React App 示例.
-- [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) - 使用 Material-UI 表单提交示例的简单创建 React 应用程序.
-- [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - React 和 Material-UI 的入门套件.
-- [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - 使用 Material-UI 的 Gatsby 入门模板.
-- [saas](https://github.com/async-labs/saas)  - 用于构建您自己的 SaaS 产品的样板； 使用 TypeScript、React、Express、Material-UI 构建.
-- [create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) - 用于启动大型反应项目的现成样板.
+- [Create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) - 使用 Material-UI 表单提交示例的简单创建 React 应用程序.
+- [React-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) - React 和 Material-UI 的入门套件.
+- [Gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) - 使用 Material-UI 的 Gatsby 入门模板.
+- [Saas](https://github.com/async-labs/saas)  - 用于构建您自己的 SaaS 产品的样板； 使用 TypeScript、React、Express、Material-UI 构建.
+- [Create-react-app-material-typescript-redux](https://github.com/innFactory/create-react-app-material-typescript-redux) - 用于启动大型反应项目的现成样板.
 
 ## Contributing
 

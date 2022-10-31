@@ -61,7 +61,7 @@
 
 * [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - 一个完整的基于 Midi 的框架，用于自动生成背景音轨.
 * [Midifile](http://midifile.sapp.org/) - 用于解析标准 MIDI 文件的 C++ 库.
-* [Timidity](http://timidity.sourceforge.net/) - 一个播放 MIDI 文件的开源命令行合成器.
+* [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
 
@@ -90,7 +90,7 @@
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - 用于操作 LilyPond 文件的工具和库.
 * [Ripple](https://github.com/ciconia/ripple/) - Lilypond 的 DRY - 轻松生成乐谱和零件.
 * [Scorelib](http://scorelib.sapp.org/) - 用于解析 SCORE 数据文件的 C++ 库.
-* [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
+* [Tbon](https://github.com/Michael-F-Ellis/tbon) - 以排版节拍为导向的音乐符号.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond 迷你乐谱雕刻分享服务.
 * [Verovio](https://github.com/rism-ch/verovio) - 用于将 MEI 音乐符号刻入 SVG 的库和工具包.
 * [Vexflow](https://github.com/0xfe/vexflow) - 用于渲染音乐符号和吉他指法谱的 JavaScript 库.
@@ -99,11 +99,13 @@
 
 * [Alda](https://github.com/alda-lang/alda) - 音乐家的音乐编程语言.
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
+* [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧几里得节奏设计的小型 MIDI 音序器 DSL.
 * [Chuck](https://github.com/ccrma/chuck) - 强定时、并发和即时音乐编程语言.
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - HTML5 中用于实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
 * [Common Music](http://commonmusic.sourceforge.net/) - 一个开源的音乐创作系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.
+* [Gwion](https://github.com/Gwion/Gwion)  - 一种针对音乐创作的强定时编程语言. 深受 ChuckK 的启发.
 * [IanniX](https://github.com/iannix/IanniX) - 基于 Iannis Xenakis 作品的图形开源音序器，用于数字艺术.
 * [Inscore](http://inscore.sourceforge.net/) - 用于设计交互式、增强乐谱的环境.
 * [Leipzig](https://github.com/ctford/leipzig) - Overtone 的作曲库.
@@ -120,7 +122,7 @@
 * [Sonic Pi](http://sonic-pi.net/) - 一个强调教育用途的实时编码合成器.
 * [Sporth](https://pbat.ch/proj/sporth.html) - 基于小堆栈的音频语言.
 * [SuperCollider](http://supercollider.github.io/) - 一种用于实时音频合成和算法组合的编程语言.
-* [Tidal](http://tidal.lurk.org/) - 一种基于 Haskell 的语言，用于实时编码模式.
+* [Tidal](https://tidalcycles.org/) - 一种基于 Haskell 的语言，用于实时编码模式.
 
 ## Music Theory Teaching
 
@@ -153,4 +155,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sharon Rosner](http://github.com/ciconia) 已放弃本作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Sharon Rosner](http://github.com/ciconia) 已放弃本作品的所有版权和相关或邻近权利.
