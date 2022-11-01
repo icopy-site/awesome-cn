@@ -17,8 +17,8 @@
 - [Arduino](https://www.arduino.cc/)  - Arduino 是一个基于易于使用的硬件和软件的开源电子平台. 它适用于任何制作交互式项目的人.
 - [BeagleBoard](http://beagleboard.org/) - BeagleBoard 是德州仪器与 Digi-Key 和 Newark element14 联合生产的低功耗开源硬件单板计算机.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)  - DragonBoard 410c 是艾睿电子的产品，是基于中端 Qualcomm® Snapdragon™ 410E 处理器的开发板. 它具有先进的处理能力、Wi-Fi、蓝牙连接和 GPS，所有这些都封装在一张信用卡大小的板上.
-- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的继任者.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代连接产品中的微控制器.
-- [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard 是基于 1GHz 飞思卡尔 i.MX6 SoC 的三个支持 Linux 和 Android 的开源 SBC 系列，具有类似 Pi 的 26 针 I/O 连接器.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
+- [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔® Galileo Gen 2 开发板是 Arduino* 认证开发和原型开发板系列中的第一款，基于英特尔® 架构，专为创客、学生、教育工作者和 DIY 电子爱好者设计.
 - [Microduino](https://www.microduino.cc/)  - Microduino 和 mCookie 为各个年龄段的制造商、设计师、工程师、学生和好奇的修补匠带来了强大、小巧、可堆叠的电子硬件. 构建开源项目或创建创新的新项目.
 - [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html)  - NodeMCU 是一个开源的物联网平台. 它使用 Lua 脚本语言. 它基于 eLua 项目，基于 ESP8266 SDK 0.9.5 构建.
@@ -30,6 +30,7 @@
 - [Tessel](https://tessel.io/)  - Tessel 是一个完全开源和社区驱动的物联网和机器人开发平台. 它包含开发板、硬件模块插件以及在其上运行的软件.
 - [UDOO](http://www.udoo.org) - UDOO 是一款集成了 Arduino 2 兼容微控制器的单板计算机，专为计算机科学教育、创客世界和物联网而设计.
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)  - Raspberry Pi Pico 是一款小巧、快速、多功能的开发板，配备了由 Raspberry Pi Foundation 开发的 RP2040 微控制器芯片. 它还配备 2.4GHz 802.11n 无线 LAN 变体，非常适合物联网.
+- [WisBlock](https://www.rakwireless.com/en-us/products/wisblock)  - WisBlock 是一个模块化系统，可以轻松地将低功耗广域网 (LPWAN) 实施到物联网解决方案中.  WisBlock 由基板、核心计算模块和多个传感器模块的组合组成.
 
 ### Software
 
@@ -40,7 +41,7 @@
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - **注意：Android Things 已贬值.** Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置并与彼此以及您的智能手机无缝协作. 
- - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，小到足以适应家庭路由器中有限的存储空间和内存.
+ - [OpenWrt](https://openwrt.org/)  - OpenWrt 是一个基于 Linux 内核的操作系统（特别是嵌入式操作系统），主要用于嵌入式设备上路由网络流量. 主要组件是 Linux 内核、util-linux、uClibc 或 musl 和 BusyBox. 所有组件都针对尺寸进行了优化，足够小以适应家庭路由器中有限的存储空间和内存.
  - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy)  - Snappy Ubuntu Core 是带有事务更新的 Ubuntu 新版本. 它提供了一个最小的服务器映像，其中包含与今天的 Ubuntu 相同的库，但应用程序是通过更简单的机制提供的.
  - [Mbed OS](https://os.mbed.com/)  - 物联网 (IoT) Cortex-M 板的开源操作系统：低功耗、受限和连接.  Mbed OS 为其运行的微控制器提供了一个抽象层，因此开发人员可以编写在任何支持 Mbed 的板上运行的 C/C++ 应用程序.
  - [NodeOS](http://node-os.com/) - NodeOS 是一个完全用 Javascript 编写的操作系统，由 npm 在 Linux 内核之上管理.
@@ -53,13 +54,13 @@
 
 #### Programming languages
 
-> This sections regroups every awesome programming language, whether it is compiled, interpreted or a DSL, related to embedded development.
+&gt; 本节重新组合了所有与嵌入式开发相关的出色编程语言，无论是编译型、解释型还是 DSL.
 
  - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - 一种通用的命令式计算机编程语言，支持结构化编程、词法变量范围和递归，而静态类型系统可防止许多意外操作.
  - [C++](https://en.wikipedia.org/wiki/C%2B%2B)  - 一种通用编程语言. 它具有命令式、面向对象和通用编程特性，同时还提供了低级内存操作的工具.
- - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉和易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
+ - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉且易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
  - [Lua](http://www.lua.org/)  - Lua 是一种强大、快速、轻量级、可嵌入的脚本语言.  Lua 是动态类型的，通过解释基于寄存器的虚拟机的字节码运行，并具有自动内存管理和增量垃圾收集，使其成为配置、脚本和快速原型设计的理想选择.
- - [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
+ - [eLua](http://www.eluaproject.net/) - eLua 代表 Embedded Lua，该项目为嵌入式世界提供 Lua 编程语言的完整实现，并通过特定功能对其进行扩展，以实现高效和可移植的软件嵌入式开发.
  - [ELFE](http://c3d.github.io/elfe/)  - ELFE 是一种非常简单且小型的编程语言. 虽然它是一种通用编程语言，但它经过专门调整以促进对传感器或执行器等小型设备群的配置和控制.
  - [MicroPython](https://docs.micropython.org/) - 用于微控制器和受限系统的精简高效的 Python 实现
  - [PharoThings](https://github.com/pharo-iot/PharoThings) - 基于物联网项目的实时编程平台 [Pharo](https://pharo.org/) （一种纯面向对象的编程语言和强大的环境，专注于简单性和即时反馈）.
@@ -69,7 +70,7 @@
 #### Frameworks
 
  - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn 是一个开源软件框架，可让设备和应用程序轻松发现彼此并进行通信.
- - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit 是一个框架，用于与用户家中的连接配件进行通信和控制.
+ - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
  - [AREG SDK](https://github.com/aregtech/areg-sdk) - AREG SDK 是一个以接口为中心的实时异步通信引擎，可实现分布式和 [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)计算，连接的事物在其中交互并提供服务，就好像它们就像瘦分布式服务器一样.
  - [Astarte](https://github.com/astarte-platform/astarte)  - Astarte 是一个用 Elixir 编写的开源物联网平台. 它是一个交钥匙解决方案，包含将设备组连接到一组远程应用程序所需的一切. 它执行数据建模、自动数据缩减、实时事件，并为您提供您在现代物联网平台中可能期望的任何功能. 目前，Linux 和 ESP32 设备使用提供的 SDK 即可获得支持.
  - [Blynk](http://www.blynk.cc)  - Blynk 是一个为连接的事物创建 iOS 和 Android 应用程序的平台. 您可以通过简单地拖放小部件（就在智能手机上）轻松地为所有项目构建图形界面. 支持以太网、WiFi、蓝牙、GSM/GPRS、USB/串行连接，可与 Arduino、Raspberry、ARM mbed、Particle、RedBear 等各种原型平台连接.
@@ -85,8 +86,8 @@
  - [OpenHAB](http://www.openhab.org/)  - openHAB 运行时是一组部署在 OSGi 框架 (Equinox) 上的 OSGi 包. 因此，它是一个纯 Java 解决方案，需要 JVM 才能运行. 基于 OSGi，它提供了高度模块化的架构，甚至允许在运行时添加和删除功能而无需停止服务.
  - [Gobot](http://gobot.io/) - Gobot 是一个用于机器人、物理计算和物联网的框架，用 Go 编程语言编写.
  - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant 是一个在 Python 3 上运行的家庭自动化平台.Home Assistant 的目标是能够跟踪和控制家中的所有设备，并提供一个用于自动化控制的平台.
- - [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
- - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+ - [Lightweight MQTT Machine Network](http://lwmqn.github.io/)  - LWMQN是一个开源项目，遵循OMA LWM2M v1.0规范的一部分，使用基于IP的智能对象模型来满足机器网络管理的最低要求. 它提供了服务器端和机器端库，使使用 JavaScript 和 Node.js 进行全栈 IoT 开发成为可能. 参见：IPSO 联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
+ - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - 开源物联网网关 - 使用 OPC-UA 和 MQTT 协议将连接到旧系统和第三方系统的设备与 Thingsboard 物联网平台集成.
  - [Pimatic](https://pimatic.org/)  - Pimatic 是一个在 node.js 上运行的家庭自动化框架. 它为家庭控制和自动化任务提供了一个通用的可扩展平台.
  - [IOTA](https://iota.org/)  - 用于物联网的开源分布式账本协议. 使用有向无环图 (DAG) 而不是区块链.
  - [MyController](https://github.com/mycontroller-org/mycontroller)  - 开源控制器.  MyController.org 是一个物联网自动化控制器，适用于家庭、办公室或任何地方.
@@ -97,7 +98,7 @@
 #### Middlewares
 
  - [Corlysis](https://corlysis.com/)  - Corlysis 是一个平台，可帮助您存储和可视化您的时间序列数据. 它基于 SpaceX 使用的开源项目 Grafana 和 InfluxDB.
- - [IFTTT](https://ifttt.com/)  - IFTTT 是一项基于 Web 的服务，它允许用户创建称为“食谱”的简单条件语句链，这些语句是基于对其他 Web 服务（如 Gmail、Facebook、Instagram 和 Pinterest）的更改而触发的.  IFTTT 是“If This Then That”的缩写（读作“gift”，不带“g”）.
+ - [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
  - [OPC Router](https://www.opc-router.com/opc-router-details/) - 具有各种插件的物联网网关（OPC UA、Mqtt、SQL、REST、SAP、InfluxDB、打印机等）
  - [Huginn](https://github.com/cantino/huginn) - Huginn 是一个系统，用于构建代理，为您在线执行自动化任务.
  - [Kaa](http://www.kaaproject.org/) - 用于快速创建物联网解决方案的开源中间件平台.
@@ -111,7 +112,7 @@
  - [Thingspeak](https://thingspeak.com/)  - 一种开源物联网分析平台服务，可让您聚合、可视化和分析云中的实时数据流. 您可以从您的设备向 ThingSpeak 发送数据，创建实时数据的即时可视化，并发送警报.
  - [VerneMQ](https://github.com/erlio/vernemq)  - VerneMQ 是一个高性能的分布式 MQTT 代理，可连接 IoT、M2M、移动和 Web 应用程序. 它在商品硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle)  - 具有实时发布/订阅或地理围栏等高级功能的开源后端以及支持 MQTT、LoRaWAN 等的多协议接口.  ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
- - [DevicePilot](https://www.devicepilot.com) - 连接设备的操作分析（包括永久免费层）.
+ - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
  - [EMQX](https://www.emqx.io/)  - 一个超可扩展的开源 MQTT 代理. 在一个集群中连接 100M+ 台 IoT 设备，以 1M msg/s 的吞吐量和 1ms 的延迟移动和处理实时 IoT 数据.
  - [Waterstream](https://waterstream.io/) - MQTT 代理利用 Apache Kafka 作为自己的存储和分发引擎.
  - [NanoMQ](https://github.com/nanomq/nanomq) - 用于 IoT Edge 平台的轻量级和超快的 MQTT 代理.
@@ -174,7 +175,7 @@
  &gt; EC-GSM-IOT网络试验已经开始，计划于2017年首次商用.在所有主要移动设备、芯片组和模块制造商的支持下，EC-GSM-IoT网络将与2G、3G和4G 移动网络. 它还将受益于所有安全和隐私的移动网络功能，例如支持用户身份机密性、实体认证、机密性、数据完整性和移动设备识别.
 
 
-A LoRaWAN wide area network allows low bit rate communication from and to connected objects, thus participating to Internet of Things, machine-to-machine M2M, and smart city. - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
+ LoRaWAN 广域网允许与连接对象进行低比特率通信，从而参与物联网、机器对机器 M2M 和智慧城市.  - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
 
  &gt; 该技术由 LoRa 联盟标准化. 它最初由 Cycleo 开发，2012 年被 Semtech 收购.LoRaWAN 是 Long Range Wide-area network 的首字母缩写.
 
@@ -207,7 +208,7 @@ A LoRaWAN wide area network allows low bit rate communication from and to connec
 
 Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络上进行通信.
 
- &gt; 2014 年 7 月，谷歌公司的 Nest Labs 宣布与三星、ARM Holdings、飞思卡尔、Silicon Labs、Big Ass Fans 和锁具公司耶鲁等公司组成一个工作组，试图通过为产品提供 Thread 认证，让 Thread 成为行业标准. 当前使用的其他协议包括 ZigBee 和蓝牙智能.
+> In July 2014 Google Inc's Nest Labs announced a working group with the companies Samsung, ARM Holdings, Freescale, Silicon Labs, Big Ass Fans and the lock company Yale in an attempt to have Thread become the industry standard by providing Thread certification for products. Other protocols currently in use include ZigBee and Bluetooth Smart.
  Thread 使用 6LoWPAN，后者又使用 IEEE 802.15.4 无线协议和网状通信，ZigBee 和其他系统也是如此. 然而，Thread 是 IP 可寻址的，具有云访问和 AES 加密. 它支持网络上的 250 多个设备.
 
 

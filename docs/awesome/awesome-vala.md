@@ -26,6 +26,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 ### Games
 
+- [GameHub](https://github.com/tkashkin/GameHub) - 所有游戏的统一库.
 - [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - GNOME 桌面的复古游戏应用程序.
 - [Sage](https://github.com/antolius/sage) - 为基本操作系统制作的密码破解游戏.
 - [Warble](https://github.com/avojak/warble) - 在 Vala 和 Gtk 中为基本操作系统构建的本机 Linux 猜字游戏.
@@ -58,6 +59,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 - [pdfpc](https://github.com/pdfpc/pdfpc) - GTK 演示者应用程序，支持 PDF 文件的多显示器.
 - [Planner](https://github.com/alainm23/planner) - 为 GNU/Linux 设计的具有 Todoist 支持的任务管理器.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - 现代 Linux 桌面的演示应用程序.
+- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - 轻松地从图像中复制文本.
 
 ### System Tools
 

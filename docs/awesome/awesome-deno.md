@@ -155,7 +155,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您以极大的灵活性编写人类可读的 cron 语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 让 Deno 程序在后台运行.
 - deno-dotenv
-  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 处理.
+  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式.
@@ -221,6 +221,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [opine](https://github.com/asos-craigmorten/opine) - 从 ExpressJS 移植的快速、简约的 Web 框架.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Deno Opine HTTP 服务器的代理中间件.
 - [pogo](https://github.com/sholladay/pogo) - Deno 的服务器框架.
+- [wren](https://github.com/zaiste/wren) - 一个小而强大的 HTTP 库，具有用于创建可组合 Web 应用程序的功能旋转，为方便和简单而构建
 
 ### WebSocket
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 一个简单的 WebSocket 库，例如 node.js 库的 ws.
@@ -284,7 +285,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - Denoinit 为 Deno 项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) - 一个简单、无依赖的文件服务器，具有实时重新加载功能.
 - [denomander](https://github.com/siokas/denomander) - 受commander.js 启发的Deno 命令行界面.
-- [denon](https://github.com/denosaurs/denon)  - 一个守护程序脚本运行器，例如 nodemon. 为 Deno 内置.
+- [denon](https://github.com/denosaurs/denon)  - 一个守护程序脚本运行程序，如 nodemon. 为 Deno 内置.
 - [denopendabot](https://github.com/apps/denopendabot) - Deno 项目的 Dependencybot.
 - [denopkg](https://github.com/denopkg/denopkg.com) - 在你的 Deno 项目中使用来自 GitHub 的代码的更简单方法.
 - [denoversion](https://github.com/lucascaro/denoversion) - Deno 的 SemVer 和 git 版本管理.
@@ -327,7 +328,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - 边缘功能连接 Netlify 平台和工作流程.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - 边缘函数是服务器端 TypeScript 函数，分布在边缘全局.
-- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
+- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端渲染的 Astro 站点部署到 Deno Deploy.
 
 ## Articles
 

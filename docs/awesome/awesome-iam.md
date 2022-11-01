@@ -145,6 +145,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/)  - 密码不是用户身份验证的全部和全部. 这篇文章试图告诉你为什么.
 
+- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - 什么是魔术链接，它们的起源，优点和缺点.
+
 - [WebAuthn guide](https://webauthn.guide) - 一个非常易于访问的 WebAuthn 指南，该标准允许“服务器使用公钥加密而不是密码来注册和验证用户”，所有主要浏览器都支持.
 
 ### Security Key
@@ -182,6 +184,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [Getting 2FA Right in 2019](https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/) - 关于 2FA 的用户体验方面.
 
 - [2FA is missing a key feature](https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db) - “当我的 2FA 代码输入错误时，我想知道它”.
+
+- [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - 不起作用，因为南极洲的车站没有手机信号塔.
 
 - [Authelia](https://github.com/authelia/authelia) - 开源身份验证和授权服务器，通过 Web 门户为您的应用程序提供双因素身份验证和单点登录 (SSO).
 
@@ -261,7 +265,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - 从这些标准如何形成的历史背景开始，澄清词汇中的不准确之处，然后详细说明协议及其陷阱，以使其不那么令人生畏.
 
-- [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 一个很好的概述，其中包含有关 Teleport（一种开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实际案例研究.
+- [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - 关于 Teleport（开源远程访问工具）如何允许用户通过 GitHub SSO 登录的实用案例研究的一个很好的概述.
 
 - [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - 一张不错的摘要卡.
 
@@ -273,7 +277,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20)  - “他们这样做是为了提供消息级别的完整性.  OAuth 2 切换到传输级机密性/完整性.”  （由 TLS 提供）（[source](https://news.ycombinator.com/item?id=17486165)).
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以纳入自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的相关新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展 OAuth 2.0 安全威胁模型，以纳入自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而产生的新威胁”.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
@@ -294,6 +298,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 - [ZITADEL](https://github.com/zitadel/zitadel)  - 使用 Go 和 Angular 构建的开源解决方案，用于管理您的所有系统、用户和服务帐户及其角色和外部身份.  ZITADEL 为您提供 OIDC、OAuth 2.0、登录和注册流程、无密码和 MFA 身份验证. 所有这些都建立在事件源之上，并结合 CQRS 提供了一个很好的审计跟踪.
 
 - [a12n-server](https://github.com/curveball/a12n-server) - 一个简单的身份验证系统，仅实现 OAuth2 标准的相关部分.
+
+- [Logto](https://github.com/logto-io/logto) - 使用此基于 OIDC 的身份服务构建登录、身份验证和用户身份.
 
 ### SAML
 
@@ -317,6 +323,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues) - 关于单次注销实现的技术和用户体验问题.
 
+- [The SSO Wall of Shame](https://sso.tax)  - 记录在案的 SaaS 提供商为在其产品上激活 SSO 而采取的过高定价. 作者的观点是，作为一项核心安全功能，SSO 的价格应该合理，而不是专有层的一部分.
+
 ## Authorization
 
 既然我们知道你就是你，你可以做你想做的事吗？
@@ -325,11 +333,11 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Policy models
 
-作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 到 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
+作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 至 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
 
-- [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - 因为它需要在很多地方都需要的强制执行、决策架构上将业务逻辑与授权逻辑分开，以及建模以平衡权力和复杂性的多重权衡.
+- [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - 因为它需要在许多地方都需要的强制执行、决策架构上将业务逻辑与授权逻辑分开，以及建模以平衡权力和复杂性方面进行多重权衡.
 
-- [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - 一个简单的基于角色的授权模型是不够的，并且由于产品包装、数据本地化、企业组织和合规性而迅速变得复杂.
+- [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - 基于角色的简单授权模型是不够的，并且由于产品包装、数据本地化、企业组织和合规性而迅速变得复杂.
 
 - [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)  - 我们如何从 DAC（unix 权限、秘密 URL）到 MAC（DRM、MFA、2FA、SELinux）再到 RBAC. 详细说明后者如何更好地对策略、ACL、用户和组进行建模.
 
@@ -359,7 +367,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Open Policy Administration Layer](https://github.com/permitio/opal)  - OPA 的开源管理层，实时检测策略和策略数据的更改，并将实时更新推送到 OPA 代理.  OPAL 将开放策略提高到实时应用程序所需的速度.
 
-- [Gubernator](https://github.com/mailgun/gubernator) - 高性能限速微服务和库.
+- [Gubernator](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/)  - 饼干融合了来自 cookie、JWT、macaroon 和 Open Policy Agent 的概念.  “它提供了一种基于 Datalog 的逻辑语言来编写授权策略. 它可以存储数据，比如 JWT，或者像 Macaroon 这样的小条件，但它也能够表示更复杂的规则，比如基于角色的访问控制、委托、层次结构.”
 
@@ -371,13 +379,13 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 专门针对 [AWS IAM policies](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) 生态系统.
 
-- [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊将近 5 年的时间里，我每天、每周都会抽出一点时间浏览论坛、客户票，以找出人们遇到问题的地方.”
+- [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊将近 5 年的时间里，我每天、每周都抽出一点时间浏览论坛、客户票，试图找出人们在哪里遇到了麻烦.”
 
-- [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - 安全评估工具，可识别违反最低权限并生成风险优先级报告.
+- [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - 安全评估工具，可识别最低权限违规并生成风险优先级报告.
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  - 手动编写具有安全意识的 IAM 策略可能非常乏味且效率低下.  Policy Sentry 可帮助用户在几秒钟内创建最低权限策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - 用于在 AWS 上强制执行最低权限的 Netflix 工具. 这个想法是，对新事物的默认策略是全部拒绝，然后它会监控 cloudtrail 的权限故障并重新配置 IAM 以允许尽可能小的权限来摆脱该拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - 用于在 AWS 上强制执行最低权限的 Netflix 工具. 这个想法是，对新事物的默认策略是全部拒绝，然后它会监视 cloudtrail 的权限故障并重新配置 IAM 以允许尽可能小的权限来摆脱该拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) - 快速评估权限.
 
@@ -385,17 +393,17 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 - [IAM Floyd](https://github.com/udondan/iam-floyd)  - 具有流畅界面的 AWS IAM 策略语句生成器. 通过 IntelliSense 提供条件和 ARN 生成，帮助创建类型安全的 IAM 策略并编写更具限制性/安全性的语句. 适用于 Node.js、Python、.Net 和 Java.
 
-- [ConsoleMe](https://github.com/Netflix/consoleme) - 适用于 AWS 的自助服务工具，根据其跨多个账户管理权限的授权级别，为最终用户和管理员提供对已注册账户的凭证和控制台访问权限，同时鼓励最低权限.
+- [ConsoleMe](https://github.com/Netflix/consoleme) - 适用于 AWS 的自助服务工具，根据其跨多个账户管理权限的授权级别，为最终用户和管理员提供对已注册账户的凭证和控制台访问权限，同时鼓励最低权限权限.
 
 ### Macaroons
 
 分发和委托授权的聪明好奇心.
 
-- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果给了我一个 Macaroon 授权我在某些限制下执行某些操作，我可以非交互地构建第二个具有更严格限制的 Macaroon，然后我可以给你.
+- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果给我一个 Macaroon 授权我在某些限制下执行某些操作，我可以非交互地构建第二个具有更严格限制的 Macaroon，然后我可以给你.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
-- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463)  - 作为杏仁饼的消费者/验证者，它们允许您（通过第三方警告）将某些授权决定推迟给其他人.  JWT 没有.
+- [Google paper's author compares Macaroons and JWTs](https://news.ycombinator.com/item?id=14294463)  - 作为蛋白杏仁饼干的消费者/验证者，它们允许您（通过第三方警告）将某些授权决定推迟给其他人.  JWT 没有.
 
 ## Secret Management
 
@@ -421,7 +429,7 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期.
 
 HSM 是在硬件级别保证秘密管理安全的物理设备.
 
-- [HSM: What they are and why it's likely that you've (indirectly) used one today](https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - Really basic overview of HSM usages.
+- [HSM: What they are and why it's likely that you've (indirectly) used one today](https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - HSM 用法的真正基本概述.
 
 - [Tidbits on AWS Cloud HSM hardware](https://news.ycombinator.com/item?id=16759383) - AWS CloudHSM Classic 由 SafeNet 的 Luna HSM 提供支持，当前的 CloudHSM 依赖于 Cavium 的 Nitrox，它允许可分区的“虚拟 HSM”.
 
@@ -451,7 +459,7 @@ HSM 是在硬件级别保证秘密管理安全的物理设备.
 
 ### User Identity
 
-Most businesses do not collect customer's identity to create user profiles to sell to third party, no. But you still have to: local laws require to keep track of contract relationships under the large [Know You Customer (KYC)](https://en.wikipedia.org/wiki/Know_your_customer) 横幅.
+大多数企业不会收集客户的身份来创建用户配置文件以出售给第三方，不. 但您仍然必须：当地法律要求跟踪大合同下的合同关系 [Know You Customer (KYC)](https://en.wikipedia.org/wiki/Know_your_customer) 横幅.
 
 - [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - 本文是否针对身份元系统，它的定律仍然在较小的范围内提供了很好的见解，尤其是第一定律：始终允许用户控制并征求同意以赢得信任.
 
@@ -495,7 +503,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 如何检测、揭露和分类攻击性在线活动. 大多数情况下，这些都是由安全、网络和/或基础设施工程团队监控的. 尽管如此，这些对于 T&amp;S 和 IAM 人员来说都是很好的资源，他们可能需要额外的专业知识来分析和处理威胁.
 
-- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - “威胁情报的简明定义：基于证据的知识，包括背景、机制、指标、影响和可操作的建议，关于现有或新出现的威胁或资产危害，可用于为有关主体对该威胁的反应的决策提供信息或危险.”
+- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - “威胁情报的简明定义：基于证据的知识，包括背景、机制、指标、影响和可操作的建议，关于现有或新出现的威胁或对资产的危害，可用于为有关主体对该威胁的反应的决策提供信息或危险.”
 
 - [SpiderFoot](https://github.com/smicallef/spiderfoot)  - 开源智能 (OSINT) 自动化工具. 它与几乎所有可用的数据源集成，并使用一系列数据分析方法，使数据易于导航.
 
@@ -623,7 +631,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 著名的欧洲隐私框架
 
-- [GDPR Tracker](https://gdpr.eu) - 欧洲的参考网站.
+- [GDPR Tracker](https://gdpr.eu) - Europe's reference site.
 
 - [GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - 开发人员的最佳实践.
 
@@ -641,7 +649,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 ## UX/UI
 
-作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计它. 这里有一些指南可以帮助您完善这种体验.
+作为 IAM 堆栈的利益相关者，您将在后端实现构建注册隧道和用户入职所需的大部分原语. 这是客户从您的产品中获得的第一印象，不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
 
 - [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - 涵盖用户入职的所有重要方面.
 
@@ -659,7 +667,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 - [Why are the username and password on two different pages?](https://www.twilio.com/blog/why-username-and-password-on-two-different-pages)  - 支持 SSO 和基于密码的登录. 现在，如果分两步打破登录漏斗对用户来说太恼火了，请像 Dropbox 一样解决这个问题： [an AJAX request when you enter your username](https://news.ycombinator.com/item?id=19174355).
 
-- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的`<input>  ` 元素和 HTML 属性将有助于加快我们用户的双因素身份验证体验”.
+- [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的`<input>  ` 元素和 HTML 属性，这将有助于加快我们用户的双因素身份验证体验”.
 
 - [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了删除密码屏蔽对消费者信任的影响.
 

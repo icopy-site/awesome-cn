@@ -12,7 +12,7 @@
 
 很棒的 MicroPython 库、框架、软件和资源的精选列表.
 
-[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精益高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
+[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精简高效实现，其中包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
 
 
 
@@ -29,7 +29,7 @@
 
 ### AI
 
-* [MicroMLP](https://github.com/jczic/MicroMLP) - A micro neural network multilayer perceptron for MicroPython (used on ESP32 and Pycom modules).
+* [MicroMLP](https://github.com/jczic/MicroMLP) - 用于 MicroPython 的微神经网络多层感知器（用于 ESP32 和 Pycom 模块）.
 * [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - MicroPython 的神经网络.
 
 ### Analytics
@@ -446,7 +446,7 @@
 * [micropython-ws2801](https://github.com/HeMan/micropython-ws2801) - 与 WS2801 RGB LED 串连接的 MicroPython 库.
 * [tlc5947-rgb-micropython](https://gitlab.com/peterzuger/tlc5947-rgb-micropython) - TLC5947 24 通道 12 位 PWM LED 驱动器的驱动器.
 * [Hybotics_Micropython_HT16K33](https://github.com/hybotics/Hybotics_Micropython_HT16K33) - 用于 HT16K33 的 MicroPython 驱动程序、LED 矩阵、7 段数字和 14 段字母数字显示驱动器 IC.
-* [micropython-rgbled](https://github.com/Warringer/micropython-rgbled) - 这个包装模块旨在减少使用 NeoPixel (WS2812) 和 DotStar (APA102) RGB LED 灯条和矩阵所需的工作.
+* [micropython-rgbled](https://github.com/Warringer/micropython-rgbled) - This wrapper module aims to reduce the work needed to work with NeoPixel (WS2812) and DotStar (APA102) RGB LED strips and matrixes.
 * [micropython_fastled](https://github.com/kdschlosser/micropython_fastled) - FastLED 到 MicroPython 的端口.
 * [micropython_quickled](https://github.com/thebaron88/micropython_quickled) - MicroPython 模块，允许 python 全速将数据泵入 ws2811 LED.
 * [micropython-rgb-led-driver](https://gitlab.com/Athanaze/micropython-rgb-led-driver) - 用 PWM 控制 RGB LED 的微型驱动器.
@@ -526,7 +526,7 @@
 #### Rotary Encoder
 
 * [micropython-rotary](https://github.com/miketeachman/micropython-rotary) - 用于读取旋转编码器的 MicroPython 模块.
-* [uencoder](https://gitlab.com/WiLED-Project/uencoder) - A MicroPython library for reading from a rotary encoder.
+* [uencoder](https://gitlab.com/WiLED-Project/uencoder) - 用于从旋转编码器读取的 MicroPython 库.
 * [encodermenu](https://github.com/sgall17a/encodermenu) - 使用旋转编码器和基本显示器的 micropython 简单 GUI 菜单.
 * [encoderLib](https://github.com/BramRausch/encoderLib) - 处理旋转编码器的 MicroPython 库.
 * [rotary-encoder](https://github.com/gurgleapps/rotary-encoder) - 驱动 KY-040 旋转编码器的 MicroPython 代码.
@@ -574,6 +574,7 @@
 
 * [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) - ADXL345 16g 3 轴加速度计的驱动程序.
 * [adxl345_micropython](https://github.com/fanday/adxl345_micropython) - ADXL345 16g 3 轴加速度计的驱动程序.
+* [MicroPython-LIS3DH](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - LIS3DH 3 轴加速度计的 I²C 驱动程序.
 * [micropython-lis2hh12](https://github.com/tuupola/micropython-lis2hh12) - LIS2HH12 3 轴加速度计的 I2C 驱动程序.
 * [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) - MMA7660 1.5g 3 轴加速度计的驱动程序.
 * [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自使用 MicroPython 闪存的 MCU 的“Analog Devices ADXL345”加速度计进行交互的库.
@@ -790,7 +791,7 @@
 
 #### Database
 
-* [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - 纯 uPython MySQL 客户端.
+* [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure uPython MySQL Client.
 * [micropython-redis](https://github.com/dwighthubbard/micropython-redis) - 设计用于 MicroPython 的 redis 客户端实现.
 * [picoredis](https://github.com/SpotlightKid/picoredis) - MicroPython 的一个非常小的 Redis 客户端（不仅仅是）.
 * [micropg](https://github.com/nakagami/micropg) - MicroPython 的 PostgreSQL 数据库驱动程序.
