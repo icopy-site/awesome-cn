@@ -11,7 +11,7 @@
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - 标准模板库 (STL).
 * [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) - POSIX 系统的 C 标准库规范.
 * [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - C++ 标准委员会. [website](http://www.open-std.org/JTC1/SC22/WG21/)
-* [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
+* [The GNU C Library](https://www.gnu.org/software/libc/manual) - 本手册的目的是告诉您如何使用 GNU C 库的工具.
 
 ## Frameworks
 *C++ 通用框架和库.*
@@ -23,6 +23,7 @@
 * [Boost](https://github.com/boostorg)  :zap: - 大量通用 C++ 库.  [促进] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde)  - 来自彭博实验室的 BDE 开发环境.  [阿帕奇2]
 * [C++ Workflow](https://github.com/sogou/workflow)  - C++ 并行计算和异步网络引擎.  [阿帕奇2]
+* [CGraph](https://github.com/ChunelFeng/CGraph)  - 基于 C++ 的跨平台 DAG 框架，没有任何第三方.  [麻省理工学院]
 * [Cinder](https://libcinder.org/)  - 一个社区开发的免费开源库，用于专业品质的创意编码.  [BSD]
 * [Coost](https://github.com/idealvin/coost)  - C++11 中的一个小型 boost 库.  [麻省理工学院]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  - 一个小型的、仅包含标头的库，可将各种工具从最新的 C++ 标准向后移植到 C++03 及更高版本.  [麻省理工学院]
@@ -252,7 +253,7 @@
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree)  - 一个基于 B 树数据结构实现有序内存容器的模板库.  [阿帕奇2]
 * [Colony](https://github.com/mattreecebentley/plf_colony)  - 一个无序的“袋子”型容器，它在高修改场景中优于标准容器，同时保持指向非擦除元素的永久指针，无论插入/擦除如何.  [zLib] [website](http://www.plflib.org/colony.htm)
-* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - C++17 仅标头动态位集.  [麻省理工学院]
+* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - 一个只有 C++17 标头的动态位集.  [麻省理工学院]
 * [Forest](https://github.com/xorz57/forest)  - 实现 AVL、二进制搜索、KD 和四叉树的模板库.  [麻省理工学院]
 * [Hashmaps](https://github.com/goossaert/hashmap)  - 在 C++ 中实现开放寻址哈希表算法.  [麻省理工学院]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)  - 一个快速的仅标头哈希映射，它使用跳房子哈希来解决冲突.  [麻省理工学院]
@@ -1039,7 +1040,7 @@
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) - 基于文件的构建系统，在后台监视更改的文件.
-* [Premake](http://premake.github.io) - 一个配置有 Lua 脚本的工具，用于为 Windows、Mac OS X 和 Linux 上的 Visual Studio、GNU Make、Xcode、Code::Blocks 等生成项目文件.
+* [Premake](http://premake.github.io) - 一个配置有 Lua 脚本的工具，用于为 Visual Studio、GNU Make、Xcode、Code::Blocks 等跨 Windows、Mac OS X 和 Linux 生成项目文件.
 * [Vcpkg](https://github.com/microsoft/vcpkg)  - 适用于 Windows、Linux 和 MacOS 的 C++ 库管理器.  [麻省理工学院]
 * [waf](https://github.com/waf-project/waf)  - 用于配置、编译和安装应用程序的基于 Python 的框架.  [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/)  - 基于 Lua 的 AC/C++ 跨平台构建实用程序.  [阿帕奇]
@@ -1066,7 +1067,7 @@
 
 * [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - 格式化 C/C++/Obj-C 代码的工具.
-* [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - 基于 Clang 的 C++ linter 工具.
+* [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - Clang-based C++ linter tool.
 * [EditorConfig](https://editorconfig.org/) - EditorConfig 有助于在不同的编辑器和 IDE 之间保持一致的编码风格.
 * [Uncrustify](https://github.com/uncrustify/uncrustify) - 代码美化器.
 

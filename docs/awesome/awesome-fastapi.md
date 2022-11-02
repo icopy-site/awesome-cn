@@ -36,6 +36,7 @@
 #### ORMs
 
 - [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) - FastAPI 和 [SQLAlchemy](https://www.sqlalchemy.org/).
+- [Fastapi-SQLA](https://github.com/dialoguemd/fastapi-sqla) - FastAPI 的 SQLAlchemy 扩展，支持分页、异步和 pytest.
 - [FastAPIwee](https://github.com/Ignisor/FastAPIwee) - 一种创建基于 REST API 的简单方法 [PeeWee](https://github.com/coleifer/peewee) 楷模.
 - [GINO](https://github.com/python-gino/gino) - 基于 SQLAlchemy 核心构建的轻量级异步 ORM，用于 Python asyncio.
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
@@ -74,7 +75,7 @@
 
 - [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) - 从 OpenAPI 文件创建 FastAPI 应用程序，支持模式驱动的开发.
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) - 从 OpenAPI 规范生成对 mypy 和 IDE 友好的 API 客户端.
-- [FastAPI MVC](https://github.com/rszamszur/fastapi-mvc) - 用于制作高质量 FastAPI 生产就绪 API 的开发人员生产力工具.
+- [FastAPI MVC](https://github.com/fastapi-mvc/fastapi-mvc) - 用于制作高质量 FastAPI 生产就绪 API 的开发人员生产力工具.
 - [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) - 一个 joerick/pyinstrument 的 FastAPI 中间件，用于检查您的服务性能.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) - API 版本控制.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) - 将您的 Jupyter 笔记本作为 RESTful API 端点运行.
@@ -89,7 +90,7 @@
 
 - [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) - 请求 ID 记录中间件.
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - 一个简单的轻量级缓存系统.
-- [FastAPI Cache](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
+- [FastAPI Cache](https://github.com/long2ice/fastapi-cache) - 一个缓存 FastAPI 响应和函数结果的工具，支持 Redis、Memcached、DynamoDB 和内存后端.
 - [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 向 FastAPI 添加了 Chameleon 模板语言的集成.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 自以为是的实用程序集：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - 一个 FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
@@ -132,13 +133,13 @@
 
 ### Podcasts
 
-- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) ——在本期节目中 [Podcast Init](https://www.pythonpodcast.com/)，FastAPI的创建， [Sebastián Ramirez](https://tiangolo.com/)，分享了他构建 FastAPI 的动机以及它是如何工作的.
+- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - In this episode of [Podcast Init](https://www.pythonpodcast.com/)，FastAPI的创建， [Sebastián Ramirez](https://tiangolo.com/)，分享了他构建 FastAPI 的动机以及它是如何工作的.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - 很好的项目概述.
 
 ### Articles
 
 - [FastAPI has Ruined Flask Forever for Me](https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da)
-- [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - 深入了解您可能想要从 Flask 迁移到 FastAPI 的原因.
+- [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - 深入了解您可能想要从 Flask 迁移到 FastAPI 的原因.
 
 ### Tutorials
 
@@ -200,7 +201,7 @@
 - [Heroku](https://www.heroku.com/) ([Step-by-step tutorial](https://tutlinks.com/create-and-deploy-fastapi-app-to-heroku/), [ML model on Heroku tutorial](https://testdriven.io/blog/fastapi-machine-learning/))
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
 - [Deta](https://www.deta.sh/) ([example](https://dev.to/athulcajay/fastapi-deta-ni5))
 
 ### IaaS
@@ -224,7 +225,7 @@ Compute:
 
 - [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code](https://github.com/iwpnd/fastapi-aws-lambda-example))
 - [Google Cloud Functions](https://cloud.google.com/functions/)
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+- [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 - [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthonycorletti/cloudrun-fastapi))
 
 ## Projects

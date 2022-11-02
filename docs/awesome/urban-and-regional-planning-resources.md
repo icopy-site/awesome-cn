@@ -217,9 +217,9 @@
 - [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - 该标准为用户提供实时的公交数据更新，极大地提升了用户的公交服务体验. 
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但将与符合欧洲标准的硬件和网络系统兼容.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
-- [GBFS](https://github.com/NABSA/gbfs) - 通用共享单车馈送规范是共享移动系统可用性的标准化数据馈送.
+- [GBFS](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，用于实现移动公司和地方政府之间的通信.
-- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
+- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 管理和收费车道馈送规范旨在供管理车道和收费行业用于动态收费率的标准化和共享，以及任何管理车道用途，包括但不限于匝道计量、公交专用车道、快速车道，尤其是在动态定价资源的情况下.
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
 ## Planning Coding Resources
@@ -240,7 +240,7 @@ Python 库和相关资源.
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
 - [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
-- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+- [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一组 Python 函数，用于从 OpenStreetMap 数据中绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic 是一个 Python 包，它使用 HERE 提供的 API 抓取您喜欢的路线、城市的交通流量数据.
@@ -281,7 +281,7 @@ R 包和相关资源.
 
 - [Bootstrap](https://getbootstrap.com/)  - 广泛使用的、有据可查的库，用于快速设计和定制网站. 附加信息： [Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 - [Chart.js](https://www.chartjs.org/)  - 为 Web 和移动设备创建简单（或高级）的数据可视化. 附加信息： [GitHub](https://github.com/chartjs/Chart.js).
-- [Leaflet](https://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps. Plugins available to extend functionality (e.g., storymaps, heatmaps, animation). Additional Information: [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
+- [Leaflet](https://leafletjs.com/)  - 用于移动友好的交互式地图的开源 JavaScript 库. 可用于扩展功能的插件（例如，故事图、热图、动画）. 附加信息： [Quickstart Guide](https://leafletjs.com/examples/quick-start/).
 - [Turf.js](https://turfjs.org/) - Advanced geospatial analysis for browsers and Node.js. Additional Information: [GitHub](https://github.com/Turfjs/turf).
 - [GTFS-Js](https://github.com/WSDOT-GIS/GTFS-JS)  - 用于处理 GTFS 数据的 JavaScript 库. 附加信息： 未经许可：WSDOT.
 
@@ -303,6 +303,7 @@ R 包和相关资源.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供并以透明方式开发. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是促进中小型社区的数据知情适应规划过程，几乎没有资源来规划气候变化影响.
 - [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 分析和优化城市能源系统的工具. 
+- [EPA WARM Model](https://www.epa.gov/warm) - EPA 创建了废物减少模型 (WARM)，以提供对几种不同废物管理实践的潜在温室气体 (GHG) 减排、节能和经济影响的高级估计. 
 
 ### Geospatial Data and Visualization
 用于地理空间可视化的软件、工具和平台. 
@@ -348,7 +349,7 @@ R 包和相关资源.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划者和建模者设计，用于生成长期、小区域社会经济预测，使用 [UrbanSim](https://github.com/UDST/urbansim) 通知区域交通计划. 
 
 ### Transportation Planning Tools and Platforms
-旨在协助运输规划任务和流程的软件、工具和平台. 
+Software, tools, and platforms intended to assist with transportation planning tasks and processes. 
 - [Remix](https://www.remix.com/)  - 一个平台，使城市能够规划最佳的交通系统——从公共交通到更安全的街道，再到不断增加的新交通方式.  Remix 提供了编辑和测试 GTFS、生成多模式街道和探索相关数据的工具.
 - [Streetmix](https://streetmix.net/)  - 用于城市设计的协作式公民参与平台. 使用 Streetmix 设计、混音和分享您的社区街道.
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过对所有模式的交通模拟探索效果，并使用生成的可视化来传达建议. 获得 Apache 许可，可在任何地方使用 OpenStreetMap 运行，并可在 Web 上运行或作为离线下载.

@@ -132,7 +132,7 @@ ORMs
 * [datafly](https://github.com/fukamachi/datafly)  - 一个轻量级的数据库库.  [3 条款 BSD][15].
 * [sxql](https://github.com/fukamachi/sxql)  - 用于生成 SQL 的 DSL.  [3 条款 BSD][15].
 
-持久对象数据库
+Persistent object databases
 ---------------------------
 
 * [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) - RAM 中基于 CLOS 的仅 lisp 数据库，具有事务日志记录持久性. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html) .  [许可证][208].
@@ -153,7 +153,7 @@ ORMs
 
 * [cl-agraph](https://github.com/vseloved/cl-agraph), 一个最小的客户端 [AllegroGraph](https://allegrograph.com/) .  AllegroGraph 是一种水平分布、多模型（文档和图）、实体-事件知识图谱技术. 它是专有的，有一个免费版本，限制为 500 万个三元组.
 * [neo4cl](https://github.com/equill/neo4cl)  - 一个与 Neo4J 交互的库. 将 Cypher 查询发送到 Neo4J 服务器，并将响应解码为对 CL 处理有用的内容.  [阿帕奇2] [89].
-  * 有可能： [cl-neo4j](https://github.com/kraison/cl-neo4j) - 一个瘦neo4j RESTFUL 客户端界面.
+  * and maybe: [cl-neo4j](https://github.com/kraison/cl-neo4j) - 一个瘦neo4j RESTFUL 客户端界面.
 * [vivace-graph](https://github.com/kraison/vivace-graph-v3)  - 图形数据库和 Prolog 实现. 从 CouchDB、neo4j 和 AllegroGraph 中汲取设计灵感. 它使用用户定义的索引和 map-reduce 视图实现了符合 ACID 的对象图模型. 它还实现了用于冗余和水平读取扩展的主/从复制方案. 查询图形是通过许多 Lisp 方法或通过类似 Prolog 的查询语言来完成的.  [麻省理工学院][200].
 
 并且：
@@ -175,6 +175,7 @@ Wrappers
 * [cl-mango](https://github.com/cmoore/cl-mango/)  - 一个极简的 CouchDB 2.x 数据库客户端.  BSD_3 条款.
   * 也可以看看 [clouchdb](https://common-lisp.net/project/clouchdb/)  - 用于与 CouchDB 交互的库.  [自由BSD][39].
 * [lmdb](https://github.com/antimer/lmdb) - 绑定到 [LMDB](http://www.lmdb.tech/doc/)，闪电内存映射数据库，具有多版本并发控制的 ACID 键值数据库.
+* [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) - 绑定到 C++ NDB API [RonDB](https://www.rondb.com/), “世界上最快的键值存储”, by [Dydra](https://dydra.com/home) .  GPLv2.
 
 迁移工具
 ---------------
@@ -502,7 +503,7 @@ Lambda 速记
 * [cl-punch](https://github.com/windymelt/cl-punch/)  - 类似 Scala 的匿名 lambda 文字.  `(mapcar ^(* 2 _) &#39;(1 2 3 4 5))`.  [麻省理工学院][200].
 
 
-另见 CL21 和 [Rutils](https://github.com/vseloved/rutils).
+See also CL21 and [Rutils](https://github.com/vseloved/rutils).
 
 
 
@@ -521,7 +522,7 @@ Lambda 速记
 反应式编程
 --------------------
 
-* [Cells](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/) . 和 [documentation](https://github.com/stefano/cells-doc/) .  Lisp LGPL.
+* [Cells](https://github.com/kennytilton/cells)  - 数据流编程范式的实现，CLOS 的反应式电子表格般的表现力. 用于构建一个 [algebra learning system](http://tiltontec.com/) . 和 [documentation](https://github.com/stefano/cells-doc/) .  Lisp LGPL.
 
 合约编程
 --------------------
@@ -894,7 +895,7 @@ Web 开发实用程序
 ### Web project skeletons and generators
 
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3 条款][15]. 不在 Quicklisp 中.
-  * 提供带有 Hunchentoot Web 服务器、easy-routes、Djula 模板、基于 SQLite 的 Bulma 样式、迁移、示例表定义和使用 FiveAM 的测试套件的工作玩具 Web 应用程序.
+  * 提供一个工作玩具网络应用程序，带有 Hunchentoot 网络服务器、easy-routes、Djula 模板、Bulma 样式、基于 SQLite、迁移、示例表定义和使用 FiveAM 的测试套件.
 * [make-like](https://github.com/container-lisp/make-like)  - LIKE（Lisp In Kubernetes + Emacs）应用程序的应用程序模板构建器.  [Apache2.0][51].
   * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的 easy-route 等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的 Web 应用程序样板. 使用 Hunchentoot，cl-who，轻松部署到 Heroku.  [麻省理工学院][200].
@@ -1038,7 +1039,7 @@ Utils
 --------------
 
 
-* [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围的事件调度程序.
+* [SBCL's timers](http://www.sbcl.org/manual/#Timers), system-wide event schedulers.
 * [psychiq](https://github.com/fukamachi/psychiq)  - Common Lisp 应用程序的基于 redis 的后台作业处理. 受 Ruby 的 Sidekiq 启发并兼容其 Web UI.  [LLGPL][8].
 * [cl-cron](https://github.com/ciel-lang/cl-cron)  - 一个提供类似 cron 的工具的简单工具.  [GPL3][2].
 * [clerk](https://github.com/tsikov/clerk)  - 一个类似 cron 的调度器，带有健全的 DSL.  [麻省理工学院][200].
@@ -1068,11 +1069,10 @@ Scripting
 命令行选项解析器
 ----------------------------
 
-* [Unix-opts](https://github.com/libre-man/unix-opts) - 命令行
-  带有简洁的选项声明的选项解析器.  [麻省理工学院][200].
-* [Adopt](https://github.com/sjl/adopt/)  - 一个该死的 OPTion 解析库.  [麻省理工学院][200].
 * [Clingon](https://github.com/dnaeon/clingon) - 丰富的命令行选项解析器系统.
-  * 较新，它可能具有最丰富的功能集：子命令、生成 bash 补全、支持各种选项（整数、布尔值、计数器、枚举……）、可扩展……
+  * 它可能拥有最丰富的功能集：子命令、生成 bash 补全、支持各种选项（整数、布尔值、计数器、枚举……）、可扩展……
+* [Adopt](https://github.com/sjl/adopt/)  - 一个该死的 OPTion 解析库.  [麻省理工学院][200].
+* [Unix-opts](https://github.com/libre-man/unix-opts)  - 带有简洁的选项声明的命令行选项解析器.  [麻省理工学院][200].
 
 
 Readline、ncurses 和其他图形助手
@@ -1315,21 +1315,21 @@ CSV
 -------------
 
 * ⭐ [local-time](https://common-lisp.net/project/local-time/)  - 用于以半标准方式处理日期和时间信息的开发库.  [3 条款 BSD][15].
-* [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser)  - 自由地解析日期时间字符串. 隐藏日期时间格式之间的差异，并允许将日期和时间作为一种日期时间格式进行管理.  [麻省理工学院][200].
+* [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT][200].
 * [chronicity](https://github.com/chaitanyagupta/chronicity)  - 自然语言日期和时间解析，解析字符串，如“从现在起 3 天”.  [BSD_3 条款][15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
 建立在本地时间之上的持续时间处理库.  [麻省理工学院][200].
   * 见这个分叉： [humanize-duration](https://github.com/40ants/humanize-duration) ，仅输出持续时间对象的重要部分. 具有本地化支持.
 * [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date)  - Common Lisp 中的其他日期例程，基于 ISO 8601 字符串表示.  [LLGPL][8].
 * [calendar-date](https://github.com/takagi/calendar-date)  - 一个公历日期库.  [麻省理工学院][200].
-* [periods](https://github.com/jwiegley/periods) - manipulating date/time objects at a higher level. With series-compatible data structure. [BSD_3Clause][15].
+* [periods](https://github.com/jwiegley/periods)  - 在更高级别操作日期/时间对象. 具有系列兼容的数据结构.  [BSD_3 条款][15].
 
 另见本书 [Calendrical calculations](https://www.cambridge.org/us/academic/subjects/computer-science/computing-general-interest/calendrical-calculations-ultimate-edition-4th-edition?format=HB#resources) , 爱德华 M. Reingold，Nachum Dershowitz，剑桥出版社. 它提供 Lisp 源代码.
 
 数据验证
 ---------------
 
-* [ratify](https://github.com/Shinmera/ratify) - A collection of utilities to ratify, validate and parse inputs. [zlib][33].
+* [ratify](https://github.com/Shinmera/ratify)  - 用于批准、验证和解析输入的实用程序集合.  [zlib][33].
 * [clavier](https://github.com/mmontone/clavier)  - Common Lisp 的通用验证库.  [麻省理工学院][200].
 * [json-schema](https://github.com/fisxoj/json-schema) - 用于根据草案 4、6、7 和 2019-09 的模式验证数据的库 [JSON Schema](https://json-schema.org/) 标准.  [LLGPL][8].
 * [sanity-clause](https://github.com/fisxoj/sanity-clause)  - Common Lisp 的数据序列化/合同库. 模式可以是属性列表或基于类，允许在“make-instance”期间检查插槽的类型.  [LLGPL][8].
@@ -1416,8 +1416,7 @@ Git
 
 * [cl-git](https://github.com/russell/cl-git)  - libgit2 库的 CFFI 接口.  [LGPL3][9].
 * [legit](https://shinmera.github.io/legit/)  - Git 二进制文件的接口.  [zlib][33].
-* [git-api](https://github.com/fourier/git-api) - 通用 Lisp 库
-访问 git 存储库. 它不需要安装 git 或 libgit.  [BSD][15].
+* [git-api](https://github.com/fourier/git-api)  - 用于访问 git 存储库的 Common Lisp 库. 它不需要安装 git 或 libgit.  [BSD][15].
 
 i18n
 ----
@@ -1439,7 +1438,7 @@ Linting，代码格式化
 
 并且： [lisp-format](https://github.com/eschulte/lisp-format) 和 [cl-indentify](https://github.com/yitzchak/cl-indentify).
 
-Literate programming
+文学编程
 --------------------
 
 * [literate-lisp](https://github.com/jingtaozf/literate-lisp)  - 从 Emacs 的 Org 文件加载 Common Lisp 代码块.  [麻省理工学院][200].
@@ -1532,7 +1531,7 @@ Other
 Contributing
 ============
 随时欢迎您的贡献！ 请提交拉取请求或创建
-an issue to add a new framework, library or software to the list.
+将新框架、库或软件添加到列表中的问题.
 
 我们（试图）遵守的规则如下：
 

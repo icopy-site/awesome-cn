@@ -147,7 +147,7 @@
 
 * [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465&hl=en&as_sdt=0,5) ]. 说明归纳偏差对解释至关重要.
 
-* [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
+* [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***Cognition***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
 * [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
@@ -250,7 +250,7 @@
 
 * [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext) - ***逻辑计算杂志***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518&hl=en&as_sdt=0,5) ].  ALP 中的原始论文.
 
-* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***The Journal of Logic Programming***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5) ].  ACLP 中的原始论文.
+* [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***逻辑编程杂志***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5) ].  ACLP 中的原始论文.
 
 * [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***计算逻辑***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5) ].  ALP论文的修订版.
 
@@ -290,13 +290,13 @@
 * [Word learning as Bayesian inference](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf) - ***心理评论***，2007 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5476233692839102256)]. [[APA](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245) ]. 徐飞对贝叶斯词学习的评论.
 
 
-* [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf) ]. 用于少样本学习的贝叶斯程序归纳.
+* [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf) ]. 用于少样本学习的贝叶斯程序归纳.
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***行为和脑科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5) ].  Brenden Lake 和 Josh Tenenbaum 对贝叶斯建模的评论.
 
 * [The rational basis of representativeness](http://web.mit.edu/cocosci/archive/Papers/cogsci01_final.pdf) - ***CogSci&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=11464039134248091466&hl=en&as_sdt=0,5)].
 
-* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NIPS&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
+* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NIPS'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
 
 * [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766&hl=en&as_sdt=0,5)].
 
@@ -395,7 +395,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里 (Susan Carey) 的关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明和捍卫认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里关于儿童发展概念理论的扩展书.
 
@@ -407,7 +407,7 @@
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到表示特征的多个维度的线上，从而恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到表示多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
 
 
 #### AI Concept Representation
@@ -462,63 +462,6 @@
 
 
 
-### Learning with Cognitive Plausibility
-
-* [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)  - ***维基百科***. 维基百科关于准确性和精确度之间的区别和权衡.
-
-* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***心理学年度评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)].
-
-* [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5) ]. 关于按成分识别理论的原始论文.
-
-* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) - ***自然***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092&hl=en&as_sdt=0,5)].
-
-* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***工程***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161&hl=en&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
-
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5) ]. 通过近乎自然的共现频率估计进行概念学习.
-
-* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338&hl=en&as_sdt=0,5)].
-
-* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917&hl=en&as_sdt=0,5)].
-
-* [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390&hl=en&as_sdt=0,5)].
-
-* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477&hl=en&as_sdt=0,5)].
-
-* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***认知***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915&hl=en&as_sdt=0,5) ]. 关于课程学习理念的原创论文.
-
-* [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***认知***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166&hl=en&as_sdt=0,5)].
-
-* [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405&hl=en&as_sdt=0,5) ]. 将课程学习的思想应用于机器学习的原始论文.
-
-* [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279) - ***ICCV'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=5979196784405021658&hl=en&as_sdt=0,5)].
-
-* [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624&hl=en&as_sdt=0,5) ]. 关于从视频中发现潜在状态的原始论文.
-
-
-* [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801&hl=en&as_sdt=0,5)].
-
-* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS&#39;13***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729&hl=en&as_sdt=0,5)].
-
-* [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172) - ***ICRA&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210&hl=en&as_sdt=0,5)].
-
-
-* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255&hl=en&as_sdt=0,5)].
-
-
-
-* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147&hl=en&as_sdt=0,5)].
-
-* [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772) - ***CVPR'09***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174&hl=en&as_sdt=0,5)].
-
-* [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257&hl=en&as_sdt=0,5)].
-
-* [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***实验心理学杂志***，1995. [[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472&hl=en&as_sdt=0,5)].
-
-* [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529&hl=en&as_sdt=0,5)].
-
-
-
-
 ### Communications
 
 #### Visual Communication
@@ -556,7 +499,7 @@
 
 * [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***计算语言学协会的交易***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***儿童发展***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920&hl=en&as_sdt=0,5) ]. 儿童社会语用能力的一个证据.
+* [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920&hl=en&as_sdt=0,5) ]. 儿童社会语用能力的一个证据.
 
 * [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
 
@@ -614,7 +557,7 @@
 * [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***科学***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5) ].  Daniel Kahneman 的前瞻性理论的经典思想.
 
 
-* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类规划中理性问题表示的计算说明.
+* [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***自然***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789&hl=en&as_sdt=0,5) ]. 关于人类规划中理性问题表示的计算说明.
 
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***机器学习***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
@@ -699,7 +642,7 @@
 
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)].
 
-* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)]. A formal treatment on the generalization problem in reinforcement learning.
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5) ]. 强化学习中泛化问题的形式化处理.
 
 * [Learning to Perform Physics Experiments via Deep Reinforcement Learning](https://openreview.net/forum?id=r1nTpv9eg) - ***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=13142558595749186250&hl=en&as_sdt=0,5)].
 
@@ -940,7 +883,7 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数主题来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑和行为科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
@@ -975,7 +918,7 @@
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***心理评论***，1972 年. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5) ].  Herbert Simon 早期的计算机辅助行为研究实验.
 
-* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***知识与认知***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
+* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
 
 
 
@@ -995,7 +938,7 @@
 
 #### Association Test
 
-* [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***人格与社会心理学杂志***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5) ]. 介绍隐式关联测试的原始论文.
+* [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***Journal of Personality and Social Psychology***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5) ]. 介绍隐式关联测试的原始论文.
 
 * [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 的第三年审查.
 
@@ -1070,15 +1013,19 @@
 
 * [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect)  - ***维基百科***. 关于尤里卡效应（又名啊哈！时刻、洞察力和顿悟）的维基百科，即突然理解以前无法理解的问题或概念的常见人类体验.
 
+* [Insight](https://en.wikipedia.org/wiki/Insight)  - ***维基百科***. 维基百科，免费的百科全书.
+
+* [Epiphany](https://en.wikipedia.org/wiki/Epiphany_(feeling) ) - ***维基百科***. 维基百科上顿悟，“感觉”当了啊哈！ 时刻到了.
+
 
 #### Rationality
 
 * [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)  - ***柏拉图斯坦福***. 关于有限理性的计算哲学解释，这是人类智能在心理学和生态学中的基本假设.
 
-* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 关于工具理性的计算哲学解释，关于代理人的决定是有意做出还是出于理性连贯性的说法.
+* [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 一种关于工具理性的计算哲学解释，一种关于代理人的决定是有意还是出于理性连贯性的说法.
 
 
-* [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
+* [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5) ]. 贝叶斯计算模型合理性的综合评述.
 
 * [Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources](https://cocosci.princeton.edu/papers/lieder_resource.pdf) - ***行为和脑科学***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=1642626865293965288&hl=en&as_sdt=0,5) ]. 关于解释人类智能的资源理性说明.
 
@@ -1172,7 +1119,7 @@
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025&hl=en&as_sdt=0,5)]. 
 
-* [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768)  - ***博士论文麻省理工学院***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224&hl=en&as_sdt=0,5)]. Chris Baker's Ph.D. dissertation, a comprehensive review on Bayesian modeling of Theory of Mind.
+* [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768)  - ***博士论文麻省理工学院***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224&hl=en&as_sdt=0,5) ]. 克里斯贝克博士论文，对心理理论的贝叶斯建模进行了全面回顾.
 
 * [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477&hl=en&as_sdt=0,5&as_ylo=2017)].
 
@@ -1239,7 +1186,7 @@
 * [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***心理评论***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5) ]. 对类比作为跨领域概括的观点的综合评述.
 
 
-* [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253&hl=en&as_sdt=0,5)]. Explaining the analogy capability in word embeddings.
+* [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253&hl=en&as_sdt=0,5) ]. 解释词嵌入中的类比能力.
 
 * [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246&hl=en&as_sdt=0,5)].
 
@@ -1464,7 +1411,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于可追溯到希腊古代辩证法的研究传统，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/) - ***Plato Stanford***. A computational philosophy account on dialogical logic, which is a dialogue-based approach to logic and argumentation rooted in a research tradition that goes back to dialectics in Greek Antiquity, when problems were approached through dialogues in which opposing parties discussed a thesis through questions and answers.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1490,7 +1437,7 @@
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***知识获取***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
 
-* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR&#39;99***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5) ]. 关于答案集编程 (ASP) 的原始论文.
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5) ]. 关于答案集编程 (ASP) 的原始论文.
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***逻辑编程范式***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)]. 
 
@@ -1550,7 +1497,7 @@
 
 * [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***心理公报***，2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 对发展研究的建构主义思想的评论.
 
-* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***心理评论***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]. Fei Xu's review extending Gopnik's view of constructivism, with the rationality as constraint.
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***心理评论***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5) ]. 徐飞的评论扩展了戈普尼克的建构主义观点，以理性为约束.
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***认知科学趋势***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5) ]. 劳拉舒尔茨对儿童探索性游戏的评论.
 
@@ -1558,11 +1505,11 @@
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001) - ***发展心理学***，1981. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)].
 
-* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224) - ***Children Development***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)].
+* [Detecting Blickets: How Young Children Use Information about Novel Causal Powers in Categorization and Induction](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/1467-8624.00224) - ***儿童发展***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=9049737233568227380&hl=en&as_sdt=0,5)].
 
 * [Serious fun: Preschoolers engage in more exploratory play when evidence is confounded](http://eccl.scripts.mit.edu/papers/bonawitzandschulzseriousfun.pdf) - ***发展心理学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=3033619407322882147&hl=en&as_sdt=0,5)].
 
-* [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=9247917261616759689)].
+* [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?start=10&hl=en&as_sdt=0,5&cluster=9247917261616759689)].
 
 * [Word, thought, and deed: the role of object categories in children's inductive inferences and exploratory play](https://psycnet.apa.org/record/2008-12114-008) - ***发展心理学***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13947689064550390312&hl=en&as_sdt=0,5)].
 
@@ -1648,6 +1595,62 @@
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5)].
 
 * [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300&hl=en&as_sdt=0,5)].
+
+
+### Learning with Cognitive Plausibility
+
+* [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)  - ***维基百科***. 维基百科关于准确性和精确度之间的区别和权衡.
+
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***心理学年度评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)].
+
+* [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5) ]. 关于按成分识别理论的原始论文.
+
+* [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) - ***自然***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092&hl=en&as_sdt=0,5)].
+
+* [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***工程***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161&hl=en&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
+
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5) ]. 通过近乎自然的共现频率估计进行概念学习.
+
+* [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338&hl=en&as_sdt=0,5)].
+
+* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917&hl=en&as_sdt=0,5)].
+
+* [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390&hl=en&as_sdt=0,5)].
+
+* [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477&hl=en&as_sdt=0,5)].
+
+* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***认知***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915&hl=en&as_sdt=0,5) ]. 关于课程学习理念的原创论文.
+
+* [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***认知***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166&hl=en&as_sdt=0,5)].
+
+* [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405&hl=en&as_sdt=0,5) ]. 将课程学习的思想应用于机器学习的原始论文.
+
+* [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279) - ***ICCV'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=5979196784405021658&hl=en&as_sdt=0,5)].
+
+* [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624&hl=en&as_sdt=0,5) ]. 关于从视频中发现潜在状态的原始论文.
+
+
+* [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801&hl=en&as_sdt=0,5)].
+
+* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS&#39;13***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729&hl=en&as_sdt=0,5)].
+
+* [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172) - ***ICRA&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210&hl=en&as_sdt=0,5)].
+
+
+* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255&hl=en&as_sdt=0,5)].
+
+
+
+* [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147&hl=en&as_sdt=0,5)].
+
+* [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5206772) - ***CVPR'09***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174&hl=en&as_sdt=0,5)].
+
+* [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257&hl=en&as_sdt=0,5)].
+
+* [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***实验心理学杂志***，1995. [[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472&hl=en&as_sdt=0,5)].
+
+* [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529&hl=en&as_sdt=0,5)].
+
 
 
 <!--<span id = "te"></span>
@@ -1902,7 +1905,7 @@
 
 * [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***劳特利奇***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 
-* [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***劳特利奇***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
+* [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
 
 ### John Hopcroft
