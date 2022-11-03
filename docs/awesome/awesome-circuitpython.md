@@ -39,10 +39,10 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - 介绍和讨论 Circuit Playground Express，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
+- [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或从您的订单中购买 [the Adafruit store](https://www.adafruit.com/product/3944)) - Circuit Playground Express 的介绍和讨论，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)  - 本书帮助您开始使用 CircuitPython 开发. 本书使用 Adafruit ItsyBitsy M0 Express 板进行开发.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 将于 2019 年 9 月从 [TechBookFest](https://techbookfest.org/).
-- [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论 MicroPython 语言.
+- [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - Discusses the MicroPython language.
 - [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - 包含许多使用 CircuitPython 的可穿戴项目.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd) - 日本人.
 - [Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath](https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361)
@@ -62,6 +62,7 @@
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - Raspberry Pi 和其他运行 Linux 的兼容单板计算机 (SBC) 上的 CircuitPython 库.
 - [Awesome List for the RP2040 Macropad](https://github.com/prcutler/awesome-macropad) - 很棒的 Macropad 应用程序、宏、3D 打印计划等列表.
 - [Tod Kurt's CircuitPython Tips and Tricks](https://github.com/todbot/circuitpython-tricks)  - CircuitPython 的提示和技巧集合. 也可作为 Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+
 ## Frameworks
 
 - [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - 也 [video](https://youtu.be/NYpcjDBA6xw)， 开发中.
@@ -73,7 +74,8 @@
 - [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Visual Studio Code 中的 Virtual Circuit Playground Express 和 CircuitPython 编程.
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/)  - 专为 Chromebook 设计的浏览器内编辑器. 适用于几乎任何可以运行基于 Chromium 的浏览器的计算机.
 - [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - VS Code 的全功能扩展，可自动下载最新的 CircuitPython 包，包括访问串行控制台和自动完成.
-- [PewPew workshops](https://pewpew.rtfd.io) - 以最少的问题运行 Python 游戏编程和电子研讨会的材料、示例、库和硬件.
+- [PewPew workshops](https://pewpew.rtfd.io) - 用于运行 Python 游戏编程和电子研讨会的材料、示例、库和硬件，并且问题最少.
+- [CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/) - River Wang 为 CircuitPython 开发的基于浏览器的 IDE
 
 ## Hardware
 
@@ -131,7 +133,7 @@
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.com/articles/adafruit-circuit-playground-express-review) - Raspberry Pi 评论 Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) - 对斯科特·肖克罗夫特的采访.
 - [CircuitPython on Hackaday](https://hackaday.com/blog/?s=circuitpython) - 与 CircuitPython 相关的 Hackaday 帖子.
-- [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - Posts on hackster.io related to CircuitPython.
+- [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - hackster.io 上与 CircuitPython 相关的帖子.
 - [CircuitPython on MAKE](https://makezine.com/?s=circuitpython) - 关于 MAKE 的 CircuitPython 相关内容.
 
 ## Art
@@ -160,12 +162,14 @@
 ## Events
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - CircuitPython 的 Discord 聊天空间，会议通常在东部时间星期一下午 2 点举行.
-- [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - 每周的 Adafruit Show-and-tell 计划经常展示与 CircuitPython 相关的项目.
+- [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - 每周的 Adafruit Show-and-tell 计划经常展示与 CircuitPython 相关的项目.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - 最长的关于电子产品的 YouTube 直播节目，每周在“硬件部分的 Python”期间提供有关 CircuitPython 的信息.
-- [PyCon 2022](https://us.pycon.org/2022/) - 美国犹他州盐湖城，2022 年 4 月 27 日至 5 月 5 日.
+- [PyCon 2023](https://us.pycon.org/2023/) - 美国犹他州盐湖城，2023 年 4 月 19 日至 4 月 27 日.
+- [John Park's CircuitPython Parsec, Thursdays 4pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - John Park 分享 CircuitPython 提示和技巧.
 
 ## Swag
 
+- [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython 发布版本 8 海报.
 - [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython 发布版本 7 海报.
 - [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython 发布版本 6 海报.
 - [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython 发布版本 5 海报.
@@ -194,7 +198,7 @@
 - [VIDEO: PyCascades – Light Up Your Life – With Python and LEDs](https://blog.adafruit.com/2019/02/25/video-pycascades-light-up-your-life-with-python-and-leds-nnja-pycascades2019-pycascades-pycascades/) - 尼娜扎哈连科.
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - 澳大利亚 PyCon 的 Damien George 编写快速高效的 MicroPython.
 - [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) -PyCon 2021 上的 Nina Zakharenko.
-
+- [EuroPython 2022 talk video: Radomir Dopieralski - Game Development with CircuitPython](https://www.youtube.com/watch?v=2i6qhfq5u78) ——拉多米尔·多皮拉尔斯基
 
 ## Contributing
 
@@ -210,7 +214,7 @@
 1. 取遥控器.
 1.合并adafruit或main.
 1. 创建一个分支.
-1. 做出改变.
+1. Make a change.
 1. 提交并推送到您的仓库.
 1. 在官方 repo 上创建一个 pull request.
 1. 一旦被接受，重复从官方 repo 合并到你的 fork 的 master，然后重新分支.
@@ -223,4 +227,4 @@
 
 在法律允许的范围内，作者已放弃本作品的所有版权和相关或邻接权.
 
-最后更新：2022 年 3 月 3 日
+最后更新：2022 年 11 月 2 日
