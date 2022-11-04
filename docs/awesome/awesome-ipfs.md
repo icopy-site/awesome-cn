@@ -67,7 +67,7 @@
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) - IPFS with TiddyWiki 是一个 TiddlyWiki 插件，旨在帮助开发人员、编辑或用户通过 IPFS 保存他们的 wiki 和附件.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat)  - 基于终端的加密聊天室. 允许私人消息传递和安全的聊天内文件/目录共享. 无服务器/无代理（无需信令/集合服务器）. 通过 LAN/互联网工作（带 NAT 穿越）.
 - [IPFS-forum](https://github.com/ReForum-ipfs/ReForum#readme) - 一个web3论坛.你可以从这个论坛获得新的想法、报告、讨论，虽然你可能处于网络限制区，所有的内容都会被ipfs快速更新. [Source](https://github.com/ReForum-ipfs/ReForum)
-- [IPFS-FPS](https://ipfs-fps.com/)  - 完全去中心化的第一人称射击游戏. 使用 Unity、Fleek、Unstoppable Domans 和 Pinata 构建.
+- [IPFS-FPS](https://ipfs-fps-website.on.fleek.co/)  - 完全去中心化的第一人称射击游戏. 使用 Unity、Fleek、Unstoppable Domans 和 Pinata 构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - 基于 ipfs 和 markdown 构建您的 wiki 系统.
 - [ipfs-search](https://ipfs-search.com) - 自 2016 年开始探索宇宙.
 嗅探 DHT 八卦并索引文件和目录哈希. 元数据和搜索 API 可用. [Source](https://github.com/ipfs-search/ipfs-search)

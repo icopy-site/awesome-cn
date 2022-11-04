@@ -183,7 +183,7 @@
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - 基于 JAMon 的 JMeter HTML 报告生成器.
 
-### Results Visualization
+### Reporting & Visualization
 
 <!--lint ignore double-link-->
 - InfluxDB &amp; Grafana
@@ -217,6 +217,8 @@
   - [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) - 将 JMeter 测试结果发送到 Datadog.
   - [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) - 一个 JMeter 后端侦听器实现，用于通过 Dynatrace MINT 指标摄取将记录的负载测试指标发送到配置的 Dynatrace 监控环境.
   - [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) - 一个 JMeter 插件，用于将测试结果发送到 New Relic Metrics API.
+- AWS 云观察
+  - [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) - 用于将 JMeter 测试结果发布到 AWS CloudWatch Logs 的 CloudFormation 模板.
 - 自定义和弃用
   - [Using Matplotlib & Python](https://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - 使用 Matplotlib 绘图工具和 Python 绘制 JMeter 负载测试结果.
   - [Statistical Aggregate Report](https://rubenlaguna.com/post/2007-01-02-better-jmeter-graphs/) - 用于增强结果可视化的自定义统计聚合报告侦听器.

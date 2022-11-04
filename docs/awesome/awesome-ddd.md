@@ -14,7 +14,7 @@
 
 这个词是由埃里克埃文斯在他的同名书中创造的.
 
-**[Command Query Responsibility Segregation (CQRS)](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) ** 只是在以前只有一个的情况下创建两个对象. 分离基于方法是命令还是查询（Meyer 在命令和查询分离中使用的定义相同，命令是改变状态的任何方法，查询是返回值的任何方法）.
+**[Command Query Responsibility Segregation (CQRS)](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) ** 只是在以前只有一个的情况下创建两个对象. 分离基于方法是命令还是查询（与 Meyer 在命令和查询分离中使用的定义相同，命令是改变状态的任何方法，查询是返回值的任何方法）.
 
 **[Event Sourcing](http://www.martinfowler.com/eaaDev/EventSourcing.html)** 事件溯源的基本思想是确保应用程序状态的每一次更改都被捕获到一个事件对象中，并且这些事件对象本身按照它们被应用的顺序存储，其生命周期与应用程序状态本身相同.
 
@@ -27,7 +27,7 @@
 
 - [Applying Domain Driven Design with CQRS and Event Sourcing](https://buildplease.com/pages/now-what/) - 使用 EventStorming 和其他建模技术为虚构的业务领域构建基于 CQRS 和事件溯源的原型的演练.
 - [CQRS](https://leanpub.com/cqrs)  - Mark Nijhof 的笔记来自他从 Greg Young 那里学习 DDD 和 CQRS 的经验. 本书附带了一个广泛的示例项目.
-- [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215) - The canonical book that coined the term Domain-Driven Design.  Also known as the "Blue Book."
+- [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215)  - 创造术语领域驱动设计的规范书籍. 又称“蓝皮书”.
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - 阅读前非常好的入门书 [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) 或者 [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215).
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - 用 PHP 编写的真实示例，展示 DDD 架构风格、战术设计和限界上下文集成.
 - [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) - Domain-Driven Rails 描述了 11 种技术（从限界上下文到事件溯源），您可以在新旧 Rails 应用程序中单独或一起使用这些技术，以实现更好的架构.
@@ -46,6 +46,7 @@
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning)  - 您在对事件源系统进行版本控制时遇到过问题吗？ 第一次进入新的事件源系统？ 这本书是关于如何长时间处理版本控制的权威指南.
 - [What is Domain-Driven Design?](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/) - 快速阅读，探索领域驱动设计的核心模式和原则，以及在棕地项目中应用 DDD 的策略.
 - [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) - 编写出色的规范是一个示例丰富的教程，它教您如何编写良好的 Gherkin 规范文档，以利用通过示例进行规范的好处.
+- 
 
 ## Free eBooks
 
@@ -70,7 +71,7 @@
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - 使用我们与域驱动设计 (DDD) 原著作者 Eric Evans 的视频课程，自学发展实用模型的技术，从而改进您的软件——而不仅仅是您的文档.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - 这些视频包括 Greg Young 的 DDD、CQRS 和事件溯源课程的全部内容.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) - Vaughn Vernon 的在线培训课程.
-- [Advanced Distributed Systems Design](https://learn-particular.thinkific.com/courses/adsd-online) - Online training course from Udi Dahan.  Udi's live training schedule can be found [here](http://udidahan.com/training/).
+- [Advanced Distributed Systems Design](https://learn-particular.thinkific.com/courses/adsd-online)  - Udi Dahan 的在线培训课程. 可以找到 Udi 的现场训练时间表 [here](http://udidahan.com/training/).
 - [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - 事件溯源和 CQRS 简介.
 - [Event Sourcery](https://eventsourcery.com/) - DDD、CQRS 和事件溯源简介.
 - [Mixter](https://github.com/DevLyon/mixter) - CQRS 和事件溯源 Koans.
@@ -82,6 +83,7 @@
 - [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/)  - 使用 DDD 将问题域分解为可管理的部分. 了解这些部分如何成为反应式微服务和反应式架构的基础. 免费，在线，自定进度. 完成后提供证书.
 - [Reactive Architecture: CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs/)  - 本课程将讨论我们使用 CQRS/ES 的原因，它为我们带来的好处，以及使用它的成本. 我们将看到 CQRS/ES 如何影响我们应用程序的可扩展性、一致性和可用性.
 - [DDD Workshop by Xebia](https://xebia.com/academy/en/search?query=Domain-driven%20design) - 从基础到专业水平的公共和内部领域驱动设计研讨会.
+- [Spatie's Event Sourcing Course](https://spatie.be/products/event-sourcing-in-laravel)  - 学习如何使用 Spatie 的事件源包在 Laravel 中构建事件源应用程序. 有 2 小时的视频内容和随附的电子书.
 
 ## Video Collections
 
@@ -154,7 +156,7 @@
 - [Martin Havlišta](https://xhafan.com/blog/) - DDD, CQRS, TDD blog posts with code samples in C# .NET
 - [Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design) - DDD系列介绍及谈如何用TypeScript实现DDD
 - [Kenny Baas-Schwegler](https://baasie.com/) - DDD、BDD、社会技术、EventStorming 和持续交付博客.
-- [João Rosa](https://joaorosa.io)  - 关于领域驱动设计、视觉协作、领导力和组织设计的个人博客. 以及介于两者之间的其他事情. 策展人 [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools/) 和主持人 [Software Crafts Podcast](https://www.softwarecraftspodcast.com/)
+- [João Rosa](https://joaorosa.io)  - 关于领域驱动设计、视觉协作、领导力和组织设计的个人博客. 以及介于两者之间的其他事情. 策展人 [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools/) and host of the [Software Crafts Podcast](https://www.softwarecraftspodcast.com/)
 - [GlobalAppTesting engineering](https://gat.engineering) - GlobalAppTesting 的工程博客，包含有关实用 DDD 和 CQRS 的材料.
 
 ## Sample Projects
@@ -176,7 +178,7 @@
 - [DDD-starter-dotnet](https://github.com/itlibrium/DDD-starter-dotnet)  - 构建 DDD 应用程序的各种方法的示例实现和比较. 作为快速启动 DDD .net 项目的基准非常有用.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
-- [DotNet CQRS Intro](https://github.com/asc-lab/dotnet-cqrs-intro) - 使用事件溯源的 CQRS 实施示例 - 进化方法（无 CQRS、具有相同模型的单独模型和命令、具有单独模型的单独模型和命令、单独的存储引擎、事件溯源）.
+- [DotNet CQRS Intro](https://github.com/asc-lab/dotnet-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 - [EISK](https://github.com/eisk) - 具有简单用例的 .NET CLI 和 VS 模板，可在具有架构最佳实践（DDD、洋葱架构等）的 .net 核心之上构建可扩展的应用程序.
 - [EmailMaker](https://github.com/xhafan/emailmaker) - 电子邮件营销 ASP.NET Core MVC 和 ASP.NET MVC 演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) 用法
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - 具有清洁架构、DDD、CQRS 和事件溯源概念的完整 ASP.NET Core 3.1 应用程序
@@ -212,14 +214,14 @@
 
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - 在 Scala-Akka 中实现 CQRS 和事件溯源模式的演示项目.
-- [DDD By Examples - Library](https://github.com/ddd-by-examples/library)  - 由真实业务需求驱动的库示例项目. 在 DDD、BDD、EventStorming、示例映射、CQRS 等帮助下实现的模块化单体.
+- [DDD By Examples - Library](https://github.com/ddd-by-examples/library)  - 由真实业务需求驱动的库示例项目. 在 DDD、BDD、EventStorming、示例映射、CQRS 等的帮助下实现的模块化单体.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS 示例 v2.0 项目，可帮助您开始使用 Spring、JPA 和测试进行高级域建模.
 - [DDD Workshop - Project Manager](https://github.com/mkopylec/project-manager)  - “自己动手”DDD 研讨会和示例 DDD 应用程序同时进行. 基于项目管理域.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) - Java 代码的事件溯源和 CQRS 实现的简化（在内存中）示例（为银行领域用例建模）.
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - Java 中事件溯源和 CQRS 的实用应用，对常见相关问题有很好的参考，例如事件排序和幂等性.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - 具有命令查询职责分离的示例事件源应用程序
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - 这些是 Vaughn Vernon 的“实施领域驱动设计”一书中的示例限界上下文.
-- [Java CQRS Intro](https://github.com/asc-lab/java-cqrs-intro) - 使用事件溯源的 CQRS 实施示例 - 进化方法（无 CQRS、具有相同模型的单独模型和命令、具有单独模型的单独模型和命令、单独的存储引擎、事件溯源）.
+- [Java CQRS Intro](https://github.com/asc-lab/java-cqrs-intro) - Examples of implementation CQRS with Event Sourcing - evolutionary approach (no CQRS, separate models and commands with the same model, separate models and commands with separate models, separate storage engines, event sourcing).
 - [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - 用 Kotlin 编写的示例 DDD/CQRS 项目.
 - [EventStormingWorkshop - Designing Cloud Native Microservices On AWS](https://github.com/humank/EventStormingWorkShop/) - 通过 EventStorming 研讨会并在 Java 中实现 DDD 战术设计模式的具体示例，应用 AWS 云原生服务来构建基于业务 Event 的 Coffeeshop 场景.
 - [DDDSample](https://github.com/citerus/dddsample-core) - 使用 Spring Boot 的示例 DDD 项目（最初托管在 http://dddsample.sourceforge.net/ 中）
@@ -280,7 +282,7 @@
 - [Serialized](https://serialized.io) - 事件溯源和 CQRS 的完整平台.
 
 ### Elixir
-- [Commanded](https://github.com/slashdotdash/commanded) - CQRS/ES 应用程序的命令处理中间件，聚合和流程管理器的纯功能数据结构，点对点消息路由，以及 Elixir (Erlang VM) 中的更多功能 - 全部在 Actor 并发模型中.
+- [Commanded](https://github.com/slashdotdash/commanded) - 用于 CQRS/ES 应用程序的命令处理中间件、用于聚合和流程管理器的纯功能数据结构、点对点消息路由以及 Elixir (Erlang VM) 中的更多功能 - 全部在 Actor 并发模型中.
 - [Event Bus](https://github.com/otobus/event_bus) - Elixir 的可追溯、可扩展和极简的事件总线实现，具有基于 ETS 的内置事件存储和事件观察器.
 - [eventstore](https://github.com/slashdotdash/eventstore) - CQRS 事件存储使用 PostgreSQL 进行持久化.
 
@@ -304,7 +306,7 @@
 - [Ecotone](http://ecotone.tech) - 在 PHP 中启用消息驱动架构，并提供构建块以遵循 DDD 和 CQRS 原则.
 
 ### Python
-- [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing)  - 用于事件溯源和 DDD 的成熟、稳定的 Python 库. 支持各种数据库、不同类型的域事件排序、应用程序级加密、快照、乐观并发控制和处理事件. 应用程序和整个应用程序系统可以独立于基础设施进行定义，并以不同的方式（单线程、多线程、时钟、步进、多进程、参与者模型）和不同的基础设施运行.
+- [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing)  - 用于事件溯源和 DDD 的成熟、稳定的 Python 库. 支持各种数据库、不同类型的域事件排序、应用程序级加密、快照、乐观并发控制和处理事件. 应用程序和整个应用程序系统可以独立于基础架构进行定义，并以不同的方式（单线程、多线程、时钟、步进、多进程、参与者模型）和不同的基础架构运行.
 - [dry-python](https://github.com/dry-python) - 一组用于可插拔业务逻辑组件的库.
 
 ### Ruby

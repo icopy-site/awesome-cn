@@ -22,7 +22,7 @@
 - [Email Framework](http://emailframe.work/) - 为帮助您构建响应式 HTML 电子邮件而开发的 HTML 电子邮件框架.
 - [HEML](https://heml.io) - HEML 是一种用于构建响应式电子邮件的开源标记语言.
 - [Acorn](https://docs.thememountain.com/acorn/) - 基于黄金比例排版网格的响应式电子邮件框架.
-- [Pine](https://docs.thememountain.com/pine/) - 一个 12 列的网格，响应式电子邮件框架.
+- [Pine](https://docs.thememountain.com/pine/) - 12 列网格，响应式电子邮件框架.
 - [Maizzle](https://maizzle.com) - 使用 Tailwind CSS 和高级的电子邮件特定后处理快速原型化 HTML 电子邮件.
 
 ## Cheatsheets
@@ -31,6 +31,7 @@
 
 ## Templates
 
+- [Responsive templates](https://templates.emailoctopus.com/) - 来自 EmailOctopus 的免费 HTML 模板，可用于任何提供商.
 - [Campaign](https://github.com/bevacqua/campaign) - 轻松编写响应式电子邮件模板，用模型填充它们，然后发送出去.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - 开源电子邮件模板
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - 电子邮件蓝图是 HTML 电子邮件模板的集合，可以作为电子邮件设计的坚实基础和起点.
@@ -72,7 +73,8 @@
 
 ## Services
 
-- [Mailchimp](https://mailchimp.com/) - Mailchimp 为全球超过 1500 万人提供电子邮件营销服务.
+- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得容易.
+- [Mailchimp](https://mailchimp.com/) - MailChimp 为全球超过 1500 万人提供电子邮件营销服务.
 - [Mailjet](https://mailjet.com/) - 允许企业发送营销、交易电子邮件和电子邮件自动化的多合一电子邮件服务提供商.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor 可让您轻松创建、发送和优化您的电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) - 通过一个可靠的平台发送您的交易和营销电子邮件.
@@ -98,7 +100,7 @@
 
 ## Workflows
 
-- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
+- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - 我的精彩 HTML 电子邮件工作流程，使用 MJML 和 MDX 响应电子邮件由 Josh W. Comeau
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - 使用 SCSS 设计和测试响应式 HTML 电子邮件模板的 Grunt 工作流程.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator 是受 Lee Munroe 的 grunt-email-design 工作流程启发的 gulp 工作流程.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - Sitepoint 的典型电子邮件开发工作流程.
@@ -117,6 +119,7 @@
 
 ## Blogs
 
+- [EmailOctopus Blog](https://emailoctopus.com/blog/)
 - [Litmus Blog](https://litmus.com/blog/)
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
 - [Myemma Blog](http://myemma.com/content-hub)
@@ -134,6 +137,7 @@
 
 ## Resources
 
+- [Email marketing regulations](https://github.com/threeheartsdigital/email-marketing-regulations) - 全球电子邮件营销法规指南.
 - [Email toolbox](http://email-toolbox.com/) - 为电子邮件营销人员和设计师精心挑选的资源.
 - [Mailchimp](http://mailchimp.com/resources/) - 来自 Mailchimp 的超棒资源
 - [Litmus Resources](https://litmus.com/resources) - 通过 Litmus 资源了解最新的电子邮件新闻和趋势.
@@ -160,7 +164,7 @@
 
 ## Testing
 
-- [PutsMail](https://putsmail.com/) - 在发送之前测试您的 HTML 电子邮件的免费工具！
+- [PutsMail](https://putsmail.com/) - Free tool to test your HTML emails before sending them!
 - [Litmus](https://litmus.com/) - 使用 Litmus 测试和跟踪您的电子邮件
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - 使用 Campaign Monitor 在所有不同的电子邮件客户端中测试您的设计.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 使用 grunt 向 Litmus 发送电子邮件测试
