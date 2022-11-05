@@ -17,12 +17,7 @@
 	</div>
 </div>
 
-<br />
-<br />
-
 &gt; 观看 YouTube 用户提供的技术视频教程.
-
-<sub>请注意，这<strong>不是</strong>任何形式的促销清单.</sub>
 
 
 要更快地找到特定主题，您可以按“Ctrl + F”并输入要搜索的主题.
@@ -389,7 +384,7 @@ Content about: 网页设计, 设计, 自由职业者 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Raw Coding**](https://www.youtube.com/c/RawCoding) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容有关：ASP.NET、.NET \
-精选播放列表：`Modern Web Development Series`、`Vue.js Beginner Guide with ASP.NET Core`、`ASP.NET Core Tutorials`、`更多 .NET tutorials！`.
+精选播放列表：`Modern Web Development Series`、`Vue.js Beginner Guide with ASP.NET Core`、`ASP.NET Core Tutorials`、`更多 .NET 教程！`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxuVxCsvMR6SMjZPTk-JBRuI6kX9rUaAfkSM0o7BA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LayoutLand)
 
@@ -452,7 +447,7 @@ Content about: 网页设计, 设计, 自由职业者 \
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-es.svg?sanitize=true" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**Bluuweb !**](https://www.youtube.com/c/Bluuweb) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：前端，后端\
-精选播放列表：“Vue.js 课程”、“CSS3 和 Flexbox 完整课程”、“Bootstrap 4 完整课程”、“JavaScript 和 React.js 视频”、“Firebase / Firestore 从零开始的课程”.
+精选播放列表：`Vue.js Course`、`CSS3 和 Flexbox Complete Course`、`Bootstrap 4 Complete Course`、`JavaScript 和 React.js 视频`、`Firebase / Firestore course from scratch`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjCNjtNKGVhvNY9Thj60vx_mgsd5CvPprH6HWBbIQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ebenezerdon/)
 
@@ -686,7 +681,7 @@ Content about: 机器学习 \
 
 [<img height="16px" width="16px" alt="Badge for English-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-en.svg?sanitize=true" title="This YouTuber speaks English"/>](badges/README.md#english-speaking-youtubers) [**Jeremy Howard**](https://www.youtube.com/user/howardjeremyp) \
 Content about: 深度学习, 理论\
-精选播放列表：`Deep Learning from the Foundations`、`Introduction to Machine Learning for Coders`、`Practical Deep Learning for Coders (2018, 2019, 2020)`.
+精选播放列表：“基础深度学习”、“程序员机器学习简介”、“程序员实用深度学习（2018、2019、2020）”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzgLvUqKsklv4UY8i9ugnQnD70igloV2GO6aK0V=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RasaHQ)
 
@@ -890,7 +885,7 @@ Content about: GODOT, 2D, GameMaker \
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Développeuse Du Dimanche**](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg) \
 Content about: 电子游戏制作, 独立游戏开发的幕后\
-精选播放列表：`Tutorial`、`Our Conferences`、`Why it&#39;s cool?`、`Journal de bord`.  \
+精选播放列表：`Tuto`、`Our Conferences`、`Why it&#39;s cool?`、`Journal de bord`.  \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhzSBts9V7Ejj7f8uMAqqN8T0MsQ5kSYC5pq9tWaQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ClearCode)
@@ -1440,7 +1435,7 @@ Content about: 求职, 一般技能, 生活小贴士 \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwng4gbbjmz9Ya7pRTkeKtD3vS4eB-hH-jpAeJTmi=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/HolaMundoDev)
 
 [<img height="16px" width="16px" alt="Badge for Spanish-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-es.svg?sanitize=true" title="This YouTuber speaks Spanish"/>](badges/README.md#spanish-speaking-youtubers) [**HolaMundo**](https://www.youtube.com/c/HolaMundoDev) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容：推荐、评论\
+内容关于：推荐、评论\
 精选播放列表：“大量不同的视频”.  \
 <br />
 
@@ -1460,6 +1455,8 @@ Content about: 网络世界普及频道 \
 
 <details>
 	<summary>学分</summary>
+	<sub>请注意，这<strong>不是</strong>任何形式的促销清单.</sub>
+	<br />
 	<sub>列表样式深受<a href="https://github.com/mhxion">mhxion</a>创建的<a href="https://github.com/mhxion/awesome-discord-communities">awesome-discord-communities</a>的启发.</sub> <sub>这个存储库是我的灵感，因为我认为<a href="https://github.com/JoseDeFreitas/awesome-youtubers">这个列表</a>在这个文件中使用相同的表格样式，以及有用的<a href="/badges/README.md">badges/README</a>看起来也不错.</sub>
 	<br />
 	awesome-youtubers 徽标和相应的徽章/README 图标由<a href="https://github.com/JoseDeFreitas/">José De Freitas</a>制作.

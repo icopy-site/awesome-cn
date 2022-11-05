@@ -177,6 +177,7 @@
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用 `new` 抛出错误.
 <!-- lint ignore awesome-spell-check -->
 - [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - 对诸如 `Math.max(...args)` 等表达式的 Lints 可能导致大型数组的堆栈溢出.
+- [no-comments](https://github.com/wisniewski94/eslint-plugin-no-comments) - 如果不使用捆绑程序，防止将注释泄漏到生产中，并阻止开发人员注释掉旧代码行.
 - [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告使用 `this` 和 `bind` 或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - ESLint 的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 现在是 2019 年，你还在使用循环吗？
@@ -194,14 +195,14 @@
 - [clean-regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex) - JavaScript regex linter，旨在通过指出错误和建议改进来帮助编写更好的正则表达式.
 - [DOM](https://github.com/amilajack/eslint-plugin-dom)
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
-- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-st和ard) 和 [Config](https://github.com/Raynos/eslint-config-perf-st和ard)
+- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
 
 ### Security
 
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - 一个检测潜在秘密/凭证的 eslint 插件.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - 检查“innerHTML”、“outerHTML”等.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii)  - 检查并强制执行代码的 PII 合规性. 即评论或字符串文字中没有电子邮件地址、出生日期、IP 地址或电话号码.
--ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
+-ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的 ESLint 规则.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在代码库中的 XSS 问题最终投入生产之前检测它们.
 
@@ -293,7 +294,7 @@
 ## Tutorials
 
 - [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - 文章介绍了 ESLint 规则和插件的创建过程.
-- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - Article walking through the benefits of using ESLint.
+- [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) - 介绍使用 ESLint 的好处的文章.
 - [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - 显示 ESLint 设置和基础知识的视频.
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - 展示如何将 React 和 JSX 与 ESLint 一起使用的视频.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - 关于如何将插件编写为包含模块化 mixin 配置的节点模块的文章.

@@ -6,7 +6,7 @@
 
 Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并内置于 Rust.
 
-这个列表是最好的 Deno 模块和资源的集合.
+This list is a collection of the best Deno modules and resources.
 
 
 
@@ -155,7 +155,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您以极大的灵活性编写人类可读的 cron 语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 让 Deno 程序在后台运行.
 - deno-dotenv
-  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - Dotenv handling for deno.
+  - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 处理.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个非常简单的 JavaScript 解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式.
@@ -329,6 +329,11 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - 边缘功能连接 Netlify 平台和工作流程.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - 边缘函数是服务器端 TypeScript 函数，分布在边缘全局.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端渲染的 Astro 站点部署到 Deno Deploy.
+
+## Blogs/Newsletters
+- [Craig's Deno Diary](https://deno-blog.com) - 一个专注于 Deno 技术和 lib howtos 的博客.
+- [Deno Blog](https://deno.com/blog) - Deno 公司的官方博客.
+- [Deno News](https://deno.news) - Deno 文章、新闻和酷项目的时事通讯.
 
 ## Articles
 

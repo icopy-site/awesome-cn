@@ -6,7 +6,7 @@
 
 [Lit](https://github.com/lit/lit) — 一个用于构建快速、轻量级 Web 组件的简单库.
 
-Lit 的核心是一个消除样板代码的组件基类，它提供反应状态、作用域样式和一个小巧、快速且富有表现力的声明性模板系统.
+Lit 的核心是一个消除样板的组件基类，它提供反应状态、作用域样式和一个小巧、快速且富有表现力的声明性模板系统.
 
 
 
@@ -39,7 +39,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 使用 Lit 用 TypeScript 编写的简单入门 Web 组件.
 - [Lit Sass JavaScript Starter](https://github.com/e111077/lit-sass-js-starter) - 使用 Rollup 对 SASS + JS + Lit 进行简单设置的项目.
 - [Lit Sass TypeScript Starter](https://github.com/e111077/lit-sass-ts-starter) - 使用 Rollup 对 SASS + TS + Lit 进行简单设置的项目.
-- [Lit Webpack Starter](https://github.com/andrewlevada/webpack-lit-template) - 使用 Webpack 的带有 Lit 和 Typescript 的多页应用程序的启动器.  
+- [Lit Webpack Starter](https://github.com/andrewlevada/webpack-lit-template) - 使用 Webpack 的带有 Lit 和 Typescript 的多页应用程序的启动器.
 - [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - 基于开放 Web 组件推荐的入门应用.
 - [pwa-starter](https://github.com/pwa-builder/pwa-starter) - PWABuilder pwa-starter 的 LitElement 版本.
 - [pwa-lit-template](https://github.com/IBM/pwa-lit-template) - 按照现代 Web 标准构建渐进式 Web 应用程序.
@@ -150,6 +150,7 @@ Lit 的核心是一个消除样板代码的组件基类，它提供反应状态�
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - 使用 Web 组件的无服务器代码体验.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Stripe.js v3 元素的自定义元素包装器.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Leavitt Group Enterprises 使用的轻量级 Web 组件的集合.
+- [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - 为 Umbraco CMS 收集用户界面 Web 组件.
 - [Vidstack Elements](https://github.com/vidstack/vds-elements) - 符合规范的可定制、可扩展、可访问和通用的媒体元素.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - 用于创建使用 Webview API 的 VSCode 扩展的组件.
 - [Web Components for TEI Publisher](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的 Web 组件及其生成的应用程序.
