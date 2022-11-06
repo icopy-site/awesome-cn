@@ -122,6 +122,7 @@ API 是_“一组功能和过程，允许创建访问操作系统、应用程序
 - [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - 来自 Apple App Store 的策略游戏.
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - 参加世界杯的球队的球队详细信息.
 - [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) - 猜数字的真实游戏数据.
+- [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - 225.000 场 AoE2 比赛中有关比赛、结果和比赛状态的数据. 
 - [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - 物品、村民、衣服、鱼/虫等的综合清单.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - 来自棋盘游戏的数据.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - 棋盘游戏的属性和评分 [BoardGameGeek](https://www.boardgamegeek.com/).
@@ -164,7 +165,7 @@ API 是_“一组功能和过程，允许创建访问操作系统、应用程序
 - [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - 百科全书口袋妖怪.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - 带有统计数据和类型的口袋妖怪数据.
 - [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Pokemon Moon 版本的奇迹交易结果.
-- [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - 口袋妖怪的战斗数据.
+- [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - 口袋妖怪和战斗数据.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - 随着时间的推移，口袋妖怪会出现在 PokemonGo 中.
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - 匹配数据.
@@ -179,7 +180,7 @@ API 是_“一组功能和过程，允许创建访问操作系统、应用程序
 - [StarData](https://github.com/TorchCraft/StarData) - 比赛、视频等 [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - 这个游戏的卡片.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - 游戏日志和统计数据.
-- [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - Pokemon data from all generations.
+- [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - 来自各个世代的口袋妖怪数据.
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) - 收集 345 个类别的 5000 万张图纸.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - 建筑物的时间、成本和奖金.
 - [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - 收集记录. [Website](http://mmnet.iis.sinica.edu.tw/dl/wowah/).

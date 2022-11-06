@@ -284,6 +284,7 @@
 - [regula](https://github.com/fugue/regula) - 在部署之前评估 Terraform 基础设施即代码的潜在 AWS、Azure 和 Google Cloud 安全配置错误和合规违规行为.
 - [rover](https://github.com/im2nguyen/rover) - 交互式 Terraform 状态和配置浏览器.
 - [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - 用于调用 terraform 命令的简单 Ruby 包装器.
+- [sato](https://github.com/JamesWoolfenden/sato) - Sato 帮助您将旧的 Cloudformation 转换为 Terraform.
 - [scenery](https://github.com/dmlittle/scenery)  - 另一个 Terraform 计划输出美化器.  ：鬼：
 - [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) - 帮助模块开发的简单 Python 工具 - 从 `main.tf` 中提取 vars 以生成 `variables.tf` 并从 `variables.tf` 制作模块使用存根.
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf 是一个自以为是的开源框架，用于使用 Terraform 在 AWS 上开发、构建、部署和保护无服务器应用程序和基础设施. [Read more](https://github.com/antonbabenko/serverless.tf).
@@ -307,7 +308,7 @@
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *（仅 0.11 和更早版本）* 改进 Terraform 的计划输出，使其更易于阅读和理解.
 - [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - 用于处理 Terraform 操作的 Kubernetes CRD.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser)  - 命令行实用程序和 JavaScript API，用于从 `terraform plan` 解析标准输出并将其转换为 JSON.  ：鬼：
-- [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - 用于管理相同 Terraform 脚本的多个规定的工具.
+- [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
 - [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - 用于管理 terraform 计划的共享 Rake 任务.
 
 - [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
@@ -332,7 +333,7 @@
 - [tfenv](https://github.com/tfutils/tfenv) - 受 rbenv 启发的 Terraform 版本管理器.
 - [tfjson](https://github.com/palantir/tfjson)  - 读取 Terraform 计划文件并将其转储为 JSON 的实用程序.  ：颅骨：
 - [tflint](https://github.com/terraform-linters/tflint) - Terraform linter 用于检测“terraform plan”无法检测到的错误
-- [tfmask](https://github.com/cloudposse/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
+- [tfmask](https://github.com/cloudposse/tfmask) - Terraform 实用程序，用于屏蔽来自“terraform plan”和“terraform apply”的选择输出
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - 适用于 GitOps 的 Terraform 状态迁移工具.
 - [tfmigrator](https://github.com/tfmigrator/cli) - Go 库和 CLI 迁移 Terraform 配置和状态
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 terraform 托管 AWS 基础设施的框架.
@@ -374,7 +375,7 @@
 - [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube 频道提供每周直播，涵盖 Terraform 新闻、评论、采访、问答、实时编码和一些使用 Terraform 的黑客行为.
 - [Terraform explained in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE) - Terraform 在 15 分钟内解释.
 - [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - 自动化您的 AWS 云基础设施.
-- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对 Terraform 旨在解决的问题的简短而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
+- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对 Terraform 旨在解决的问题的简要而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
 - [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) - 演示 Terraform 如何通过使用托管 PostgreSQL 在 AWS 中部署 TeamCity 来实现基础设施即代码的实践.
 - [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用 Terraform 代码创建 Google 计算实例的示例.
 - [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 从本演练中了解如何为 Terraform 提供者做出贡献或创建自己的提供者.

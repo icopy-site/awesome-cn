@@ -189,7 +189,7 @@ Rust 代码和资源的精选列表.
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) — 高性能可扩展 StatsD 兼容服务器.
 * [OpenTelemetry](https://crates.io/crates/opentelemetry)  — OpenTelemetry 提供一组 API、库、代理和收集器服务，以从您的应用程序中捕获分布式跟踪和指标. 您可以使用 Prometheus、Jaeger 和其他可观察性工具来分析它们. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
 * [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - 用于日志管理的云原生且极具成本效益的搜索引擎. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
-* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并使设计系统和应用程序更具可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
+* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并支持设计系统和应用程序以提高可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) — 高性能、日志、指标和事件路由器.
 
 ### Operating systems
@@ -340,9 +340,9 @@ Rust 代码和资源的精选列表.
 
 * [cfal/tobaru](https://github.com/cfal/tobaru) - 具有允许列表、IP 和 TLS 基于 SNI/ALPN 规则的路由、iptables 支持、循环转发（负载平衡）和热重载的端口转发器.
 * [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) — fediverse 的链接聚合器/reddit 克隆 [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+* [libreddit](https://github.com/libreddit/libreddit) - Reddit 的替代私人前端
 * [Plume-org/Plume](https://github.com/Plume-org/Plume) — ActivityPub 联合博客应用程序 [![build badge](https://api.travis-ci.org/Plume-org/Plume.svg?branch=master)](https://travis-ci.org/Plume-org/Plume)
 * [Revolt/backend](https://github.com/revoltchat/backend) - 使用现代网络技术构建的用户至上的聊天平台.
-* [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Reddit 的替代私人前端
 
 ### Web Servers
 
@@ -465,8 +465,6 @@ Rust 代码和资源的精选列表.
   * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — Rust 绑定生成器
 * 二郎
   * [rusterlium/rustler](https://github.com/rusterlium/rustler) — 用于创建 Erlang NIF 函数的安全 Rust 桥 [![build badge](https://api.travis-ci.org/rusterlium/rustler.svg?branch=master)](https://travis-ci.org/rusterlium/rustler)
-* 哈斯克尔
-  * [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) — 弥合 Haskell 和 Rust 之间的差距
 * 爪哇
   * [bennettanderson/rjni](https://github.com/benanders/rjni) — 使用 Rust 中的 Java
   * [drrb/java-rust-example](https://github.com/drrb/java-rust-example) — 使用来自 Java 的 Rust [![build badge](https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master)](https://travis-ci.org/drrb/java-rust-example)
@@ -637,7 +635,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * [fitsio](https://crates.io/crates/fitsio) — 适合接口库包装 cfitsio [![build badge](https://api.travis-ci.org/mindriot101/rust-fitsio.svg?branch=master)](https://travis-ci.org/mindriot101/rust-fitsio)
 * [flosse/rust-sun](https://github.com/flosse/rust-sun) [[sun](https://crates.io/crates/sun)] — JS 库 suncalc 的 rust 端口 [![build badge](https://api.travis-ci.org/flosse/rust-sun.svg?branch=master)](https://travis-ci.org/flosse/rust-sun)
-* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — Rust 的天文学 [![build badge](https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master)](https://travis-ci.org/saurvs/astro-rust)
+* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — astronomy for Rust [![build badge](https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master)](https://travis-ci.org/saurvs/astro-rust)
 
 ### Asynchronous
 
@@ -1220,7 +1218,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 ### Macro
 
 * 可爱
-  * [mattgathu/cute](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+  * [mattgathu/cute](https://github.com/mattgathu/cute) — Rust 中 Python 式列表推导的宏. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 * [Linq-in-Rust](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ### Markup language

@@ -115,7 +115,7 @@
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
 - [Pi-Apps](https://github.com/Botspot/pi-apps) - 最流行的树莓派电脑应用商店，100% 开源 bash 脚本.
 - [Processing](https://pi.processing.org/get-started/) - 在 Raspberry Pi 上运行的处理开发环境.
-- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi 是一款基于 AI 的 Wi-Fi 破解工具，可从其周围的 WiFi 环境中学习，以最大限度地利用其捕获的可破解 WPA 密钥材料.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) - 一个简单的响应式 Web 界面，用于控制 Raspberry Pi 上的 wifi、hostapd 和相关服务.
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - 一种将 Raspberry Pi OS 和其他操作系统安装到 SD 卡的简单方法，可与您的 Raspberry Pi 一起使用
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  - 在 Raspbian 上启动 QEMU 的简单工具，并对系统和内核进行必要的修改. 自动网络访问. 方便在您的 PC 中创建图像.
@@ -244,7 +244,7 @@
 
 ### Books
 
-- [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - 教您如何使用 Docker Compose、MQTT 和 TLS 将 Raspberry Pi 转变为安全、模块化、开源和自托管的家庭自动化网关.
+- [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
 - [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - 使用 Google 的 AIY 项目工具包，了解如何在您的 Raspberry Pi 中使用人工智能. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - 如何将 Raspberry Pi Foundation 的相机模块与 Raspberry Pi 一起使用.
 - [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - 了解如何通过在 Raspberry Pi 上使用 Sonic Pi 进行编码来创作音乐.
@@ -265,7 +265,7 @@
 - [Raspberry Pi Beginner's Guide v4](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - 了解如何开始使用您的 **Raspberry Pi 4 和 Raspberry Pi 400**.
 - [Raspberry Pi Camera Guide](https://magpi.raspberrypi.com/books/camera-guide) - 了解如何将您的高质量相机或相机模块与您的 Raspberry Pi 一起使用.
 - [Raspberry Pi Projects Book 1](https://magpi.raspberrypi.com/books/projects-1) - 一系列 Raspberry Pi 项目，包含项目指南和 Raspberry Pi 产品评论.
-- [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - 第二个 Raspberry Pi 项目集合，包含项目指南和 Raspberry Pi 产品评论.
+- [Raspberry Pi Projects Book 2](https://magpi.raspberrypi.com/books/projects-2) - A second collection of Raspberry Pi projects with project guides and reviews of Raspberry Pi products.
 - [Raspberry Pi Projects Book 3](https://magpi.raspberrypi.com/books/projects-3) - 第三个 Raspberry Pi 项目集合，包含项目指南和 Raspberry Pi 产品评论.
 - [Raspberry Pi Projects Book 4](https://magpi.raspberrypi.com/books/projects-4) - Raspberry Pi 项目的第四个集合，包含项目指南和 Raspberry Pi 产品评论.
 - [Raspberry Pi Projects Book 5](https://magpi.raspberrypi.com/books/projects-5) - 第五个 Raspberry Pi 项目集合，包含项目指南和 Raspberry Pi 产品评论.
@@ -284,7 +284,7 @@
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - 关于如何使用 Docker 设置集群、使用 Docker Compose 分发服务以及使用 Letsencrypt 签署有效 SSL 证书的明确指南.
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - 使用 Beacon 技术的良好初学者指南.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - 在您的 Raspberry Pi 上设置 VPN 的简单、安全和详细的指南.
-- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
+- [Moonlight](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream 实施可将您的完整 Steam 游戏集从桌面流式传输到 Raspberry Pi.
 - [Raspbereum](https://github.com/jim380/Raspbereum) - 在 Raspberry Pi 上运行您自己的以太坊节点.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - 如何以 35 美元的价格构建 Raspberry Pi 复古游戏机.
 - [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Raspberry Pi 上 ssh 会话的无密码登录.
@@ -298,8 +298,9 @@
 ### Swift programming
 
 - [BuildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - 在 RaspberryPi 或其他 ARM 板上构建 Swift 所需的一切，更新到 Swift 4.1.3.
-- [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - 快速教程，分享帮助设置使用 Xcode 编译 Raspberry Pi 代码的方法.
-- [Setup Swift environment on Raspbian](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/) - 帮助在 Raspbian stretch (lite) 上设置 Swift 环境的快速指南.
+- [Compile Swift for Raspberry Pi by Visual Studio Code](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-visual-studio-code-3f303e32d34e) - 快速教程，分享帮助设置使用 Visual Studio Code 编译 Raspberry Pi 代码的方法.
+- [Compile Swift for Raspberry Pi by Xcode](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-xcode-406ac26b63ec) - 快速教程，分享帮助设置使用 Xcode 编译 Raspberry Pi 代码的方法.
+- [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - 帮助在 Raspbian stretch (lite) 上设置 Swift 环境的快速指南.
 - [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - 用于 Linux/ARM 板上硬件项目的 Swift 库，支持 GPIO/SPI/I2C/PWM/UART/1Wire.
 - [Swish](https://github.com/thomaspaulmann/Swish) - 在 Xcode 中的远程机器上构建 Swift 项目.
 

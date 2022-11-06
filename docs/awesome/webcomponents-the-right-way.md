@@ -69,35 +69,14 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 
-### Polyfills
-
-### Custom Elements polyfills
-
-- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polymer 团队的自定义元素 polyfill.
-- [document-register-element](https://github.com/WebReflection/document-register-element) - Andrea Giammarchi 的自定义元素 polyfill.
-
-### Customized Built-in Elements polyfills
-
-- [@corpuscule/custom-builtin-elements](https://github.com/corpusculejs/custom-builtin-elements) - 定制的内置元素 polyfill [CorpusculeJS](https://github.com/corpusculejs).
-- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - 定制的内置元素 polyfill [ungap project](https://ungap.github.io).
-
-### Shadow DOM shims
-
-- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 垫片.
-- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM 样式封装垫片.
-- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill 由 [LWC](https://lwc.dev).
-
-### HTML Templates polyfills
-
-- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)  - ` 的最小 polyfill<template>  `.
-- [@ungap/import-node](https://github.com/ungap/import-node) - IE11 的 `importNode` polyfill [ungap project](https://ungap.github.io).
-
 ## Guides
 
 ### Accessibility
 
 - [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+- [Dialogs and shadow DOM: can we make it accessible?](https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/)
 - [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
+- [Managing focus in the shadow DOM](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
 - [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
@@ -137,7 +116,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Examples
 
-- [generic-components](https://github.com/thepassle/generic-components) - 以可访问性和易用性为重点的通用 Web 组件的集合.
+- [generic-components](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - 实现常见 Web UI 模式的 Web 组件的集合.
 - [Nude UI](https://github.com/LeaVerou/nudeui) - 可访问、可定制、超轻量级 Web 组件的集合.
 - [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - 收集用于开发 Web 组件的最佳实践和设计模式.
@@ -175,11 +154,15 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Styling
 
+- [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
+- [Eschewing Shadow DOM](https://every-layout.dev/blog/eschewing-shadow-dom/)
+- [How Nordhealth uses Custom Properties in Web Components](https://web.dev/custom-properties-web-components/)
 - [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
+- [Style scoping versus shadow DOM: which is fastest?](https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
-- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+- [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
 - [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
 
 ## Real World
@@ -209,7 +192,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - Web 组件的 API 文档和现场操场.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - 独立的棋盘网络组件.
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - 使用 CSS 绘制图案的 Web 组件.
-- [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows to create a dark mode toggle or switch.
+- [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - 允许创建暗模式切换或切换的自定义元素.
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - 轻量级的表情选择器，作为 Web 组件分发.
 - [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - 可访问的模式对话框 Web 组件.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - 使用 Svelte 构建的用于查看文件的 Web 组件.
@@ -282,7 +265,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - 基于 Web 组件的碳设计系统变体.
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - 基于变色龙设计系统的框架无关元素的集合.
 - [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - 来自 Clarity Design System 的 Web 组件套件.
-- [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+- [Crayons](https://github.com/freshdesk/crayons) - 遵循 Freshworks 设计系统的 Web 组件集合.
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - 基于 FAST 设计语言的 Web 组件库.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - 支持 Microsoft 的 Fluent 设计语言的 Web 组件库.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - 遵循 Forge 设计系统的 Web 组件库.
@@ -324,6 +307,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [DNA](https://github.com/chialab/dna) - 渐进式 Web 组件库.
 - [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - 用于构建高性能、节省内存、符合标准的 Web 组件的轻量级库.
 - [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - 构建 Forge Web 组件时使用的构建块和实用程序.
+- [Joist](https://github.com/joist-framework/joist) - 一组小型库，旨在为 Web 组件添加最低限度的内容，以提高您的工作效率.
 - [Lit](https://lit.dev) - 用于构建快速、轻量级 Web 组件的简单库.
 - [Lightning Web Components](https://github.com/salesforce/lwc) - 超快速的企业级 Web 组件基础.
 - [Omi](https://github.com/Tencent/omi) - 4kb JavaScript 中的下一代 Web 框架（Web 组件 + JSX + 代理 + 存储 + 路径更新）.
@@ -335,7 +319,6 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - 用于使用函数和钩子创建基于 Web 组件的界面的小型库.
-- [fuco](https://github.com/wtnbass/fuco) - 像 React 一样的功能组件，但用于 Web 组件.
 - [haunted](https://github.com/matthewp/haunted) - 为 Web 组件实现的 React 的 Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于创建具有简单和功能 API 的 Web 组件的 UI 库.
 - [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - 扩展 Solid 添加自定义 Web 组件和扩展的库.
@@ -345,6 +328,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [ember-custom-elements](https://github.com/Ravenstine/ember-custom-elements) - 使用自定义元素渲染 Ember 和 Glimmer 组件.
 - [preact-custom-element](https://github.com/preactjs/preact-custom-element) - 从 preact 组件生成/注册自定义元素.
 - [@adobe/react-webcomponent](https://github.com/adobe/react-webcomponent) - 在自定义元素中自动包装 React 组件.
+- [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - 将您的项目组件导出为自定义元素以集成到外部页面.
 - [react-shadow](https://github.com/Wildhoney/ReactShadow) - 在 React 中利用 Shadow DOM 以及样式封装的所有好处.
 - [reactify-wc](https://github.com/BBKolton/reactify-wc) - 使用具有 React 属性和功能的 Web 组件.
 - [remount](https://github.com/rstacruz/remount) - 使用自定义元素将 React 组件安装到 DOM.
@@ -369,8 +353,10 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 ### React
 
 - [3 Approaches to Integrate React with Custom Elements](https://css-tricks.com/3-approaches-to-integrate-react-with-custom-elements/)
+- [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
 - [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
 - [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
+- [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
 
 ### Vue
 
@@ -520,32 +506,62 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Vaadin Directory](https://vaadin.com/directory) - 发布、讨论和评价 Web 组件
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 
-## History
+## Archive
+
+### Polyfills
+
+现代浏览器支持 Web 组件标准，没有下面列出的任何 polyfill.
+The only notable exception is that customized built-in elements are rejected by WebKit (Safari).
+
+#### Custom Elements polyfills
+
+- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Polymer 团队的自定义元素 polyfill.
+- [document-register-element](https://github.com/WebReflection/document-register-element) - Andrea Giammarchi 的自定义元素 polyfill.
+
+#### Customized Built-in Elements polyfills
+
+- [@corpuscule/custom-builtin-elements](https://github.com/corpusculejs/custom-builtin-elements) - 定制的内置元素 polyfill [CorpusculeJS](https://github.com/corpusculejs).
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - 定制的内置元素 polyfill [ungap project](https://ungap.github.io).
+
+#### Shadow DOM shims
+
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 垫片.
+- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM 样式封装垫片.
+- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill 由 [LWC](https://lwc.dev).
+
+#### HTML Templates polyfills
+
+- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)  - ` 的最小 polyfill<template>  `.
+- [@ungap/import-node](https://github.com/ungap/import-node) - IE11 的 `importNode` polyfill [ungap project](https://ungap.github.io).
+
+
+### History
 
 下面的文章代表了 Web 组件规范走向标准化的漫长故事.
 其中一些引用了早期的所谓“v0”Shadow DOM 和自定义元素规范，并放弃了 HTML 导入规范.
 这些资料在这里仅出于历史原因，它们按年份分组并按时间顺序列出.
 
-### 2019
+#### 2019
 
 - [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
-### 2018
+#### 2018
 
 - [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 
-### 2017
+#### 2017
 
+- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
 - [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 - [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
 
-### 2016
+#### 2016
 
 - [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
@@ -554,7 +570,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
-### 2015
+#### 2015
 
 - [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 - [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
@@ -562,7 +578,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
 - [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
 
-### 2014
+#### 2014
 
 - [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
 - [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
@@ -573,7 +589,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
 - [A Detailed Introduction To Custom Elements](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
 
-### 2013
+#### 2013
 
 - [Performance and Custom Elements](https://www.stevesouders.com/blog/2013/11/26/performance-and-custom-elements/)
 - [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
@@ -581,13 +597,13 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 - [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
-### 2012
+#### 2012
 
 - [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
 - [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
 - [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
-### 2011
+#### 2011
 
 - [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
