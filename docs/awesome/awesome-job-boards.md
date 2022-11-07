@@ -22,6 +22,7 @@
 * [Blockchain Works](https://blockchain.works-hub.com/) - 通过 **Blockchain Works** 发现**最好的**区块链机会和文章
 * [Web3 Jobs](https://web3.career)  - 寻找 web3 工作？  Web3 Jobs 拥有 8,387 多个 web3 远程和离线工作，例如 Web3 开发人员、智能合约开发人员、Solidity 开发人员等等. 将您的职业生涯切换到 Web3 并加入未来！
 * [My Web3 Jobs](https://myweb3jobs.com)  - 立即查找或发布 web3 工作！ 每周精心挑选新的 web3 区块链、开发人员和设计师职位.
+* [Woody3](https://www.woody3.xyz/) - 在 Web3 中找到您梦寐以求的非技术工作
 
 ## Cloud
 

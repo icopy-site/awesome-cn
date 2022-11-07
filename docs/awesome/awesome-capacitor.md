@@ -75,7 +75,7 @@
     - [Fcm](https://github.com/capacitor-community/fcm) - 为 Capacitor 应用启用 Firebase 云消息传递功能.
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - Firebase 远程配置的本机插件.
 - [Flipper](https://github.com/capacitor-community/flipper) - 鳍状肢调试器的本机插件.
-- [Http](https://github.com/capacitor-community/http) - 用于无 CORS 请求和文件传输的本机 HTTP 插件.
+- [Http](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
 - [Intercom](https://github.com/capacitor-community/intercom) - 为电容器应用程序启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止您的屏幕进入睡眠状态.
 - [Media](https://github.com/capacitor-community/media) - 为 Capacitor 启用一些媒体功能，例如创建相册、保存视频、GIF 等等.
@@ -105,10 +105,14 @@
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - 为您的应用提供清晰的聊天 SDK.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - 切换设备的手电筒/手电筒.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - 检测静音模式和静音音频.
+- [Native audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - 本机正向和反向地理编码.
+- [Native market](https://github.com/Cap-go/native-market) - 适用于 Play Store/App Store 本地市场的电容器社区插件.
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - 记录屏幕并保存到pelicule.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - 使用 RevenueCat 轻松进行电容器应用内购买和订阅.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - 浏览器在带有 urlChangeEvent 的应用浏览器中.
+- [Camera preview](https://github.com/Cap-go/camera-preview) - 允许从 HTML 代码（fork）进行相机交互的电容器插件.
+
 
 ## [Capawesome plugins](https://capawesome.io/)
 拥有的插件 [Capawesome organisation](https://github.com/capawesome-team) 并由 [@robingenz](https://github.com/robingenz).
@@ -139,7 +143,7 @@
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - 使用生物识别技术确认设备所有者的存在或对用户进行身份验证.
 
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - 监控对系统暗模式所做的更改.
-- [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - 为 IOS、Android 和 Electron 平台上的 SQLite 和 Web 平台上的 IndexedDB 提供字符串类型的简单数据的键值永久存储.
+- [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - 仅为 IOS、Android 和 Electron 平台上的 SQLite 和 Web 平台上的 IndexedDB 提供字符串类型的简单数据的键值永久存储.
 - [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - 扫描文档（笔记、作业、名片、收据或任何具有矩形形状的东西）.
 - [Dynamsoft Barcode Reader](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - 使用 Dynamsoft Barcode Reader 扫描条形码和二维码.
 - [Dynamsoft Camera Preview](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - 使用 Dynamsoft Camera Enhancer 访问相机.
@@ -173,10 +177,10 @@
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - 截取当前视图的屏幕截图.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - 当另一个应用程序通过 Android 共享菜单或共享表向您的电容器应用程序发送数据时，在您的 JavaScript 应用程序中公开一个侦听器.
 - [Sentry](https://github.com/getsentry/sentry-capacitor) - 为 Capacitor 应用程序添加 Sentry 错误跟踪和性能监控.
-- [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 电容器的条纹端子插件.
+- [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 用于电容器的条纹端子插件.
 - [Sprig](https://github.com/crabbydavis/sprig) - 多合一的产品研究平台.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - 为电容器启用方形付款.
-- [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
+- [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp 移动 SDK.
 - [UDP](https://github.com/brugsel/capacitor-udp) - 支持 IPv6 和 IPv4，组播和广播.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - 在 IOS、Android、Web 和 Electron 平台上全屏播放视频.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - 用于电容器的 Zalo 登录插件.
@@ -201,7 +205,7 @@
 - [CI/CD for Capacitor Apps](https://capacitorjs.com/docs/guides/ci-cd) - 将移动 CI/CD 添加到您的电容器应用程序开发过程中.
 - [Data Storage in Capacitor](https://capacitorjs.com/docs/guides/storage) - 在电容器中存储少量到大量数据.
 - [Security Best Practices for Capacitor](https://capacitorjs.com/docs/guides/security) - 您的电容器应用程序的安全最佳实践.
-- [Using Push Notifications with Firebase](https://capacitorjs.com/docs/guides/push-notifications-firebase) - Learn how to get Firebase Cloud Messaging working on iOS and Android.
+- [Using Push Notifications with Firebase](https://capacitorjs.com/docs/guides/push-notifications-firebase) - 了解如何让 Firebase 云消息传递在 iOS 和 Android 上运行.
 - [Saving Plugin Calls](https://capacitorjs.com/docs/core-apis/saving-calls) - 如何在 Capacitor 中保存插件调用.
 - [Mocking Capacitor Plugins](https://capacitorjs.com/docs/guides/mocking-plugins) - 如何为电容器插件创建模拟对象.
 - [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor) - 一个非常流行的用于构建响应式 Web 应用程序的堆栈是 Vercel 的 Tailwind CSS 和 Next.js.

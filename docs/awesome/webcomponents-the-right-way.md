@@ -116,7 +116,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Examples
 
-- [generic-components](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+- [generic-components](https://github.com/thepassle/generic-components) - 以可访问性和易用性为重点的通用 Web 组件的集合.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - 实现常见 Web UI 模式的 Web 组件的集合.
 - [Nude UI](https://github.com/LeaVerou/nudeui) - 可访问、可定制、超轻量级 Web 组件的集合.
 - [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - 收集用于开发 Web 组件的最佳实践和设计模式.
@@ -215,7 +215,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 用于将 Apollo GraphQL 与各种 Web 组件库一起使用的自定义元素.
 - [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - 使用 Web 组件构建的 AXA CH UI 组件库.
 - [Blackstone UI](https://github.com/kjantzer/bui) - Blackstone Publishing 用于创建界面的 Web 组件.
-- [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - 由 Blaze CSS 提供支持的 Web 组件集.
+- [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - 用于构建 Brightspace 应用程序的 Web 组件集合.
 - [Clever components](https://github.com/CleverCloud/clever-components) - Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
@@ -259,14 +259,14 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Design Systems
 
-- [Amber Components](https://github.com/bitrockteam/amber-components) - Amber 设计系统的 Web 组件实现.
+- [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - 使用已建立的交互模式构建丰富的空间应用程序体验的组件集.
+- [Auro Design System](https://auro.alaskaair.com) - 阿拉斯加航空公司的设计系统，以创新想法并就未来进行合作.
 - [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig 和 Web 组件驱动的 UI 组件、可重用的视觉样式和工具.
 - [Calcite Components](https://github.com/Esri/calcite-components) - 用于 Esri 的 Calcite 设计框架的共享 Web 组件.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - 基于 Web 组件的碳设计系统变体.
-- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - 基于变色龙设计系统的框架无关元素的集合.
 - [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - 来自 Clarity Design System 的 Web 组件套件.
-- [Crayons](https://github.com/freshdesk/crayons) - 遵循 Freshworks 设计系统的 Web 组件集合.
-- [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - 基于 FAST 设计语言的 Web 组件库.
+- [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+- [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - 基于 FAST 设计语言的 Web 组件库.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - 支持 Microsoft 的 Fluent 设计语言的 Web 组件库.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - 遵循 Forge 设计系统的 Web 组件库.
 - [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - 一组使用 GOV.UK 设计系统的封装 Web 组件.
@@ -275,16 +275,16 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Lyne Components](https://github.com/lyne-design-system/lyne-components) - Lyne 设计系统的构建块基于 Web 组件.
 - [Material Web Components](https://github.com/material-components/material-web) - 作为 Web 组件实现的材料设计.
 - [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - 基于 Momentum 设计的 UI 组件集.
+- [Nord](https://nordhealth.design) - Nordhealth 的产品、数字体验和品牌设计系统.
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) - 基于 Web 组件和运行时 CSS 生成的 HTML 框架和设计系统.
 - [OutlineJS](https://github.com/phase2/outline) - 基于 Web 组件的设计系统入门套件.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - 基于统一设计工具包的灵活和轻量级 Web 组件的集合.
-- [Pearson Web Components](https://github.com/pearson-ux/web-components) - Pearson 实现 Gravity 设计系统的可共享组件库.
 - [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR 的设计系统可创造凝聚力、支持性和美好体验.
 - [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - 使用红帽品牌构建统一体验的 Web 组件.
 - [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - 实现 Siemens iX 设计系统的 Web 组件.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - 使用 Web 组件构建的 Adob​​e Spectrum 设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 一组实施 SAP Fiori 设计指南的可重用 UI 元素.
-- [U-M Library Design System](https://github.com/mlibrary/design-system) - 密歇根大学图书馆设计系统.
+- [U-M Library Design System](https://design-system.lib.umich.edu) - 密歇根大学图书馆设计系统.
 - [Zooplus web components](https://github.com/zooplus/zoo-web-components) - 一组实现 Z+ 商店风格指南的 Web 组件.
 
 ### Use Cases
@@ -511,7 +511,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 ### Polyfills
 
 现代浏览器支持 Web 组件标准，没有下面列出的任何 polyfill.
-The only notable exception is that customized built-in elements are rejected by WebKit (Safari).
+唯一值得注意的例外是定制的内置元素被 WebKit (Safari) 拒绝.
 
 #### Custom Elements polyfills
 

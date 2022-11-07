@@ -6,7 +6,7 @@
 
 Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，它使用 V8 并内置于 Rust.
 
-This list is a collection of the best Deno modules and resources.
+这个列表是最好的 Deno 模块和资源的集合.
 
 
 
@@ -164,7 +164,7 @@ This list is a collection of the best Deno modules and resources.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - 用于管理 Deno 原生插件依赖项的库.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - 帮助生成随机间隔.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - deno 的简单标记器.
-- [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 样式.
+- [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-validation](https://github.com/ethandunford/deno-validation) - Deno 的通用验证库.
 - [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的微型库.
 - [durationjs](https://github.com/retraigo/duration.js) - 从时间戳或人类可读的字符串中获取格式化的持续时间.
@@ -207,6 +207,7 @@ This list is a collection of the best Deno modules and resources.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - 具有许多装饰器的 Deno Web 框架.
 - [attain](https://github.com/aaronwlee/Attain)  - Deno 的中间件 Web 框架，它使用受 express 和 Oak 启发的 http 标准库. 使用适当的内存快速稳定.
 - [aqua](https://github.com/l2ig/aqua) - Deno 的最小且快速的 Web 框架.
+- [danet](https://github.com/Savory/Danet) - 深受启发的 Deno 的 Savory Web 框架 [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express 移植到 Deno.
 - [denotrain](https://github.com/Caesar2011/denotrain) - 多合一 Web 框架，例如用于 Node.js 的 express 或 fastify，具有中间件支持.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra 喜欢用于 deno 的轻量级 Web 应用程序框架.

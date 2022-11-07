@@ -32,7 +32,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [Blender 3D models](https://www.blender-models.com/) - 3D 模型、粒子系统/效果
 - ：money_with_wings： [CGTextures](http://www.textures.com) - 大量纹理.
 - ：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发者与才华横溢的资产创造者联系起来.
-- ：自由的： [Games-Icons Set](http://game-icons.net/) - free icons for your games.
+- ：自由的： [Games-Icons Set](http://game-icons.net/) - 游戏的免费图标.
 - ：自由的： [Iconmonstr](http://iconmonstr.com/) - 另一个免费的游戏图标资源.
 - ：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 - ：自由的： [Liberated Pixel Cup assets](http://lpc.opengameart.org) - OpenGameArt 论坛举办的 Liberated Pixel Cup (LPC) 免费图形资源
@@ -95,7 +95,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 
 - ：money_with_wings： [Cascadeur](https://cascadeur.com/) - 强大的基于物理的 3D 角色动画
 - ：然后： [DragonBones](http://dragonbones.com) - Flash 的开源 2D 骨架动画解决方案
-- ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而成的动画数据.
+- ：然后： [LWF](http://gree.github.io/lwf/)  - 轻量级 SWF.  LWF是一个动画引擎，可以播放HTML5、Unity、Cocos2d-x、iOS UIKit等FLASH内容转换而来的动画数据.
 - ：钱袋子： [Fusion Character Animator](http://loopengo.free.fr/) - Clickteam Fusion 2.5 的小工具，方便开发人员制作 2D 角色精灵的动画.
 - [GraphicsDale](https://graphicsgale.com/us/) - 用于精灵和像素艺术的强大工具.
 - ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 3D人形模型的自动装配和动画工具，
@@ -125,7 +125,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [REXPaint](https://www.gridsagegames.com/rexpaint/) - 功能强大且用户友好的 ASCII 艺术编辑器.
 - ：然后： [rx](https://rx.cloudhead.io/) - 现代简约的像素编辑器
 - ：自由的： [Tilemancer](https://led.itch.io/tilemancer) - 专为像素艺术游戏设计的快速程序瓷砖创建器.
-- ：自由的： [Timanthes](http://csdb.dk/release/?id=75871) - 在 Windows 上运行的 Commodore 64 计算机的像素艺术编辑器
+- ：自由的： [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 - [Charas](http://charas-project.net/index.php) - Charas 是 RPG Maker 的字符集生成器.
 - ：自由的： [Spritemate](http://www.spritemate.com) - Commodore 64 Sprites 的在线编辑器
 - ：钱袋子： [Pixelator](http://pixelatorapp.com) - 将任何图像变成精美的像素艺术
@@ -166,7 +166,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Amethyst](https://www.amethyst.rs/) - 使用 `gfx-rs` 用 Rust 编写的 2D 和 3D 数据驱动游戏引擎.
 - ：然后： [amulet](http://www.amulet.xyz/)  - 一个免费的基于 Lua 的音频/视频工具包，适用于小游戏和实验. 它可以在 Windows、Mac、Linux、HTML5 和 iOS 上运行.
 - ：然后： [Astera](https://github.com/tek256/astera) - 2D C99 跨平台游戏库/框架
-- :tada [axys] (https://github.com/axys1/axys) - Cocos2d-x-4.0 的一个分支，它完全支持所有平台的 OpenAL，单纹理多 GPU 纹理处理程序和 C++ 17.
+- :tada: [axys] (https://github.com/axys1/axys) - Cocos2d-x-4.0 的一个分支，它完全支持所有平台的 OpenAL，单纹理多 GPU 纹理处理程序和 C++ 17.
 - ：然后： [Azul3D](http://azul3d.org/) - 用 Go 编写的 3D 引擎.
 - ：然后： [Babylon.js](https://www.babylonjs.com/) - Javascript 3D 库.
 - ：然后： [Bevy](https://bevyengine.org/) - 使用 Rust 构建的令人耳目一新的简单数据驱动游戏引擎
@@ -180,7 +180,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Bullet](http://bulletphysics.org/wordpress/) - 实时物理模拟.
 - ：然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - ：然后： [Chipmunk2D](https://chipmunk-physics.net/) - 一个快速轻量级的 2D 游戏物理库.
-- ：然后： [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+- ：然后： [Cinder](https://libcinder.org/) - Cinder 是一个社区开发的免费开源库，用于使用 C++ 进行专业品质的创意编码.
 - ：自由的： [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator，一款支持Cocos2d-js的免费跨平台游戏开发编辑器，帮助开发者快速高效地构建2D和3D游戏场景，编辑游戏UI等游戏资源.
 - ：然后： [Cocos2D](https://github.com/los-cocos/cocos) - 用于游戏和多媒体的图形库，用于 python 语言
 - ：然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++，但有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
@@ -193,7 +193,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
 - ：然后： [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - 使用纹理、法线贴图、glTF、OBJ、STL 支持从真实数据生成地形
 - ：然后： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - 支持 Direct3D11、Direct3D12、OpenGL/GLES 和 Vulkan 的现代跨平台低级图形库.
-- ：然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - 八位通用角色扮演引擎
+- ：然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
 - ：然后： [ENGi](https://github.com/ajhager/engi) - 用于围棋的多平台 2D 游戏库.
 - ：然后： [engo](https://engoengine.github.io/) - Engo 是一个用 Go 编写的开源 2D 游戏引擎.
 - ：然后： [Ebiten](https://ebiten.org/) - Go 中一个简单的 2D 游戏库.
@@ -222,15 +222,15 @@ _一套游戏框架、引擎和平台_
 - ：然后： [ImpactJS](http://impactjs.com/) - Impact 是一个 JavaScript 游戏引擎，可让您为桌面和移动浏览器开发令人惊叹的 HTML5 游戏.
 - ：自由的： [Inform7](http://inform7.com/) - 基于自然语言的互动小说设计系统.
 - ：然后： [Ink](http://www.inklestudios.com/ink/) - 用于编写交互式叙述的脚本语言.
-- ：然后： [Irrlicht](http://irrlicht.sourceforge.net/) - 用 C++ 编写的开源高性能实时 3D 引擎.
+- ：然后： [Irrlicht](http://irrlicht.sourceforge.net/) - open source high performance realtime 3D engine written in C++.
 - ：然后： [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 - ：然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) - 一个 3D 开源游戏引擎，适合喜欢冒险的 Java 开发人员.
 - ：然后： [JNGL](https://github.com/jhasse/jngl)  - 2D 开源游戏引擎. 在 Linux、Windows、OS X 上开发.部署到 Nintendo Switch、Xbox、Linux、Windows、OS X、Web、Android、iOS 等.
 - ：自由的： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google 的 Android 的 3D 引擎.
-- ：然后： [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
+- ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净、轻量级的 2D 游戏框架
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中制作具有大块像素的 2D 游戏的框架
 - ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
-- ：然后： [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
+- ：然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
 - ：然后： [KogGE](https://korge.soywiz.com)  - Kotlin 的现代多平台游戏引擎. 使用 Kotlin 立即为 JVM、JavaScript、Android 和 iOS 编写游戏.
 - ：money_with_wings： [Leadwerks](https://www.leadwerks.com/) - 易于学习的 3D 和 VR 游戏引擎.
 - ：然后： [LibGDX](https://libgdx.com/) - 用于 Java 的强大（完全免费）库，只需编写一次代码，即可在桌面、Android、Web 和 iOS 上运行游戏.
@@ -292,6 +292,7 @@ _一套游戏框架、引擎和平台_
 - ：然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - ：然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作 2D/3D 游戏制作器
 - ：然后： [TIC-80](https://tic.computer/) - TIC-80 是一款用于制作、玩和分享小游戏的梦幻电脑.
+- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一个小型的、完全公共领域的定点物理不准确的纯 C 标头仅 3D 物理引擎，可在嵌入式甚至裸机等微型计算机上运行.
 - ：然后： [Three.js](http://threejs.org/) - Javascript 3D 库.
 - ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供了构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有沉浸式 3D 效果和实时物理特性，打开了一个前所未有的非凡网络内容的全新世界.
 - ：然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅基于文本，还支持音乐、图像和声音效果. 基本文本冒险游戏所需的编码知识很少.
@@ -325,7 +326,7 @@ _音频编辑器、声音收藏等等._
 
 ### Music and Audio Editors
 
-- ：然后： [Audacity](http://sourceforge.net/projects/audacity/) - 用于录制和编辑声音的开源、跨平台软件.
+- ：然后： [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 - ：自由的： [Audiosauna](http://www.audiosauna.com/) - 将您的网络浏览器转变为一个快速灵活的音乐制作工作室，内置合成器和现场效果器.
 - ：自由的： [Audiotool](http://www.audiotool.com/app) - 在线音乐制作人.
 - ：自由的： [Bfxr](http://www.bfxr.net/) - 为电脑游戏制作音效的工具.
@@ -373,7 +374,7 @@ _博客、门户网站、杂志等_
 - [Lost Garden](http://www.lostgarden.com/)
 - [Polygon](http://www.polygon.com/)
 - [Real-Time Rendering](http://www.realtimerendering.com/)
-- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用商店和竞争激烈的“顶级排行榜”.
+- [Slidedb](http://www.slidedb.com/) - 在 Slide DB 上，我们为开发人员提供了一个社区，他们可以分享他们的想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“顶级图表”.
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
 - [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
@@ -452,6 +453,7 @@ _博客、门户网站、杂志等_
 - ：然后： [Doom](https://github.com/id-Software/DOOM)
 - ：然后： [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
 - ：然后： [NetHack](https://github.com/NetHack/NetHack)
+- ：然后： [OpenRA](https://github.com/OpenRA/OpenRA)
 - ：然后： [OpenTTD](https://github.com/OpenTTD/OpenTTD)
 - ：然后： [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 - ：然后： [Quake 2](https://github.com/id-Software/Quake-2)

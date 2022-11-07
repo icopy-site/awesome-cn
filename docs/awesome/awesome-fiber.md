@@ -39,14 +39,14 @@ Fiber 框架中包含的中间件列表.
 - [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - 为每个请求添加一个 requestid.
 - [Session](https://github.com/gofiber/fiber/tree/master/middleware/session)  - 会话中间件. 注意：这个中间件使用我们的存储包.
 - [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - 跳过包装处理程序的跳过中间件是谓词为真.
-- [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
+- [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - 为请求添加最大时间，如果超过则转发给 ErrorHandler.
 
 ### 🔗 External
 外部托管的中间件模块列表并由 [Fiber team](https://github.com/orgs/gofiber/people).
 - [adaptor](https://github.com/gofiber/adaptor) - net/http 处理程序与 Fiber 请求处理程序之间的转换器.
 - [helmet](https://github.com/gofiber/helmet) - 通过设置各种 HTTP 标头来帮助保护您的应用程序.
 - [jwt](https://github.com/gofiber/jwt) - JWT 返回一个 JSON Web Token (JWT) 身份验证中间件.
-- [keyauth](https://github.com/gofiber/keyauth) - Key auth 中间件提供基于密钥的身份验证.
+- [keyauth](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
 - [redirect](https://github.com/gofiber/redirect) - 为 Fiber 重定向中间件.
 - [rewrite](https://github.com/gofiber/rewrite)  - 重写中间件根据提供的规则重写 URL 路径. 它有助于向后兼容或只是创建更清晰和更具描述性的链接.
 - [storage](https://github.com/gofiber/storage) - 实现 Storage 接口的预制存储驱动程序，旨在与各种 Fiber 中间件一起使用.
@@ -95,6 +95,7 @@ Fiber 的预制样板.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Create Go App CLI 的光纤后端模板.
 - [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - 简单且可扩展的样板，用于使用 Fiber 构建强大且有组织的 REST 项目. 
 - [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - 带有许多中间件的光纤样板 API.
+- [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template)  - 一个生产就绪、容器优先的自以为是的 gofiber 项目模板. 通过 envvars 进行配置，通过 go.uber.org/fx 进行 DI，通过 uptrace/bun 进行数据库，具有开箱即用的 MVC 文件夹结构和 CI/CD 支持.
 
 
 ## 📁 Recipes
