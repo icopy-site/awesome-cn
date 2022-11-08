@@ -56,6 +56,8 @@
 
 ### Education 
 
+-[Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE 提供对人口统计和学校相关地理数据的访问，例如位置和地区. 
+
 - [National Center for Educational Statistics](https://nces.ed.gov/datalab/index.aspx)  - 国家教育统计中心 (NCES) 是收集和分析与教育相关的数据的主要联邦实体. 他们的数据实验室提供对其他 30 多个教育数据集的访问，并为用户提供快速报告和图表功能. 
   
 ### Employment
@@ -177,7 +179,7 @@
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥挤、更可持续和更公平. 
 - [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠且快速的方式量化建筑环境中发生的事件. 
 - [Vade](https://www.vadepark.com/) - 使用定制的物联网摄像头和计算机视觉，通过基于 Web 的 API 轻松查询实时停车可用性. 
-- [StreetSimplified](https://www.streetsimplified.com/) - 部署利用计算机视觉的临时摄像头来检查各种交通行为，如超速、交叉规则合规和闯红灯.  
+- [StreetSimplified](https://www.streetsimplified.com/) - 部署利用计算机视觉的临时摄像头来检查各种交通行为，例如超速、交叉规则合规和闯红灯.  
 
 ### Travel Behavior
 
@@ -187,7 +189,7 @@
 - [StreetLight Data](https://www.streetlightdata.com/)  - 使用智能手机作为传感器提供数据，以测量北美的车辆、自行车和行人. 在预算内按时执行任务，24/7 全天候访问计数、OD 和您需要的其他指标.
 - [Strava](https://developers.strava.com/)  - 适用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
-- [Inrix](https://inrix.com/) - 为汽车和交通行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
+- [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新的数据产品，例如实时停车和交通信息解决方案. 
 - [Unacast](https://www.unacast.com/) - 提供与人们如何在 80 多个国家/地区移动相关的基于位置的分析，范围从人流量指标到交叉访问. 
 
 ## Planning Data Specifications

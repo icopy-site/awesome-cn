@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 真棒|  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1095 |  2022 年 11 月 7 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  :企鹅: |  1095 |  2022 年 11 月 8 日
 
 
 
@@ -23,7 +23,6 @@
 [back to top](#readme) 
 
 * [Open Source Updates for Swift Projects](https://www.getrevue.co/profile/ossp_updates/) - 双周时事通讯，为您提供有关 Swift 编写或相关的流行和未知开源项目的最新更新.
-* [Swift Developments](https://andybargh.com/swiftdevelopments/) - 每周精选的时事通讯，包含有兴趣设计和开发自己的 iOS、watchOS 和 Apple TV 应用程序的人们.
 * [Swift Weekly Brief](https://swiftweeklybrief.com/) - 多作者策划的时事通讯.
 
 ### Official Guides
@@ -39,7 +38,7 @@
 * [Airbnb](https://github.com/airbnb/swift) - Airbnb 的官方风格指南.
 * [Google](https://google.github.io/swift/) - 本样式指南基于 Apple 出色的 Swift 标准库样式，还结合了 Google 内多个 Swift 项目的使用反馈.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn 的官方风格指南.
-* [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich 指南，必读.
+* [Raywenderlich](https://github.com/kodecocodes/swift-style-guide) - Raywenderlich 指南，必读.
 
 ### Third party Guides
 [back to top](#readme) 
@@ -50,17 +49,17 @@
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 在原生 macOS 应用中观看会议视频.
 * [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Paul Hegarty 的斯坦福课程.
 * [Hacking With Swift](https://www.hackingwithswift.com) - 完整的培训课程，通过 30 个实践项目教授应用程序开发，免费.
-* [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.raywenderlich.com) - 高质量的编程教程.
+* [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - 高质量的编程教程.
 * [Swift Education](https://github.com/swifteducation) - 一个教育工作者社区，共享用于教授 Swift 和应用程序开发的材料.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - Vincent Pradeilles 提供的一系列实用技巧.
 * [SwiftDoc](https://swiftdoc.org/) - 自动生成的文档.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - 中文书面指南.
-* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - John Sundell 收集的有用提示.
+* [SwiftTips](https://github.com/JohnSundell/SwiftTips) - John Sundell 收集的有用技巧.
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) - 一个展示 Swift 4.0 新功能的 Xcode 游乐场.
 
 ## Boilerplates
 
-* [iOS project template](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+* [iOS project template](https://github.com/messeb/ios-project-template) - iOS 项目模板，带有 fastlane 通道、Travis CI 作业和 Codecov 的 GitHub 集成、用于 SwiftLint 和 Danger 的 HoundCI.
 * [Model-View-Presenter template](https://github.com/onl1ner/ios-mvp-template) - 基于 MVP 模式创建的一个灵活且简单的模板，用于加快您的 iOS 应用程序的开发.
 * [Swift Module Template](https://github.com/fulldecent/swift5-module-template) - 令人敬畏的、可重用模块的自以为是的起点.
 
@@ -828,7 +827,7 @@
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如 Localizable.strings 中的正则表达式本地化应用程序.
 * [Locheck](https://github.com/Asana/locheck) - 验证 .strings 和 .stringsdict 文件是否有错误
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)  - 去掉字符串插值中的“Optional(...)”和“nil”. 容易多元化.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有 Localizable.strings 键自动生成“枚举”的工具（如果这些字符串包含 printf 格式的占位符，如 `%@`，则具有适当的关联值）.
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有 Localizable.strings 键自动生成 `enums` 的工具（如果这些字符串包含 printf 格式的占位符，如 `%@`，则具有适当的关联值）.
 * [Translatio](https://github.com/andrealufino/Translatio) - 超轻量级库，可帮助您本地化字符串，甚至直接在情节提要中.
 
 ### Location
@@ -862,7 +861,7 @@
 [back to top](#readme) 
 
 * [Cluster](https://github.com/efremidze/Cluster) - 简单的地图注释聚类.
-* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 使您能够以零努力在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - FlyoverKit 让您可以零努力地在 MKMapView 上呈现令人惊叹的 360° 天桥视图，同时保持完整的配置可能性.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - 使使用地理模型和计算交叉点、重叠、投影等变得更容易.
 * [LocoKit](https://github.com/sobri909/LocoKit) - iOS 的位置和活动记录框架.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  - 使用任何自定义视图作为具有酷动画的 MKMapView 的自定义标注视图. 使用任何图像作为注释视图.
@@ -908,6 +907,7 @@
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 用闭包替代 Apple 的可达性.
 * [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI)  - 借助 RxSwift 的强大功能，依靠 URLSession 编写干净、简洁和声明性的网络代码. 灵感来自改造.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - 一个非侵入式框架，用于拦截您的应用程序和服务器之间的任何传出请求和传入响应以进行调试.
+* [RxNetworks](https://github.com/yangKJ/RxNetworks) - 使用 RxSwift + Moya + HandyJSON + 插件的网络 API.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 快速隧道代理，可帮助您绕过防火墙.
 * [Siesta](https://bustoutsolutions.github.io/siesta/)  - REST API 的优雅抽象，可以解开有状态的混乱. 基于回调和委托的网络的替代方案.
 * [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) - 优雅的网络抽象层.

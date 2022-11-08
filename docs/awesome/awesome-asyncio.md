@@ -61,6 +61,7 @@ Asyncio 并不是真正的全新技术，但它似乎在几年前就非常流行
 * [Databases](https://github.com/encode/databases) - SQLAlchemy 核心的异步数据库访问，支持 PostgreSQL、MySQL 和 SQLite.
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - 由 Pydantic 提供支持并专门为您的模式量身定制的自动生成的、完全类型安全的 ORM - 支持 SQLite、PostgreSQL、MySQL、MongoDB、MariaDB 等.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) - 一个可以在异步和同步模式下工作的 ORM / 查询构建器，具有漂亮的管理 GUI 和 ASGI 中间件.
+* [Beanie](https://beanie-odm.dev) - 一个异步 MongoDB ODM 建立在 [motor](https://github.com/mongodb/motor) 和 [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## Networking
 
