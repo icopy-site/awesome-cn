@@ -48,6 +48,7 @@
 * [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行工作、工作市场.
 * [Gitlab](https://gitlab.com/) - 具有类似 Github 功能的开源 CI 和托管解决方案.
 * [Gitpod](https://www.gitpod.io/) - 自动化的云开发环境. 
+* [Spacelift](https://spacelift.io/) - 基础设施即代码的 CI/CD 平台，目前支持 Terraform、Pulumi、AWS CloudFormation 和 Kubernetes.
 
 ## CMS (headless)
 * [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 构建器.
@@ -175,7 +176,7 @@
 *可能没有类别的不同产品.*
 * [Actyx](https://www.actyx.com/) - 开发者优先的工厂建设.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙后面）.
-* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
+* [zigi](https://www.zigi.ai/) - 通过 Slack 处理普通非编码任务的开发人员助手.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像提高生产力的格子一样.
 * [Interval](https://interval.com/) - SDK 为您的产品构建内部工具和脚本.
 
@@ -239,7 +240,7 @@
 ## Testing
 *测试工具.*
 * [Testim](https://www.testim.io/) - 前端测试.
-* [Applitools](https://applitools.com/) - 自动化视觉测试.
+* [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - 持续的视觉测试.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的可视化 UI 测试.

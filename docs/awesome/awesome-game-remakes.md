@@ -37,7 +37,7 @@
 - [OpenJazz](https://github.com/AlisterT/openjazz) - 经典 Jazz Jackrabbit™ 游戏的免费开源版本.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - 重写邪教足球游戏 Kick Off 2 的尝试.
 - [OpenTyrian](https://github.com/opentyrian/opentyrian) - 从 Turbo Pascal 到 C 的 Tyrian 开源端口.
-- [Taisei](https://github.com/taisei-project/taisei) - 东方系列的粉丝制作的开源克隆.
+- [Taisei](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series.
 - [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) - 经典 ZX Spectrum 游戏 The Great Escape 便携式 C.
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - 一个游戏和编辑工具，可让您创建自定义的塞尔达传说任务.
 
@@ -80,6 +80,7 @@
 - [RuneLite](https://github.com/runelite/runelite) - 开源老式 RuneScape 客户端.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core 包含用于制作商业 MMORPG Ryzom 的全部代码（客户端、服务器、工具）.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - 空间站 14 是对空间站 13 重制的重新尝试.
+- [2009scape](https://2009scape.org) - 2009 年 RuneScape 的免费开源重制版.
 
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - 第一人称角色扮演游戏 Arx Fatalis 的跨平台移植.
@@ -144,7 +145,7 @@
 - [KeeperRL](https://github.com/miki151/keeperrl) - 受矮人要塞启发的 Roguelike 地牢建造者.
 - [openage](https://github.com/SFTtech/openage) - 帝国时代 II 引擎的克隆.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) - 重建 X-COM：天启引擎.
-- [openblack](https://github.com/openblack/openblack) - Reimplementation of Black & White.
+- [openblack](https://github.com/openblack/openblack) - 重新实现黑白.
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - 流行游戏沙丘 II 的娱乐.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Cannon Fodder 的开源实现.
 - [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) - Gremlin 的 Hogs of War 游戏.

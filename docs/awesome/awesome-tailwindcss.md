@@ -90,7 +90,7 @@
 - [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) - 注入 SVG 作为具有颜色变体的背景图像.
 - [Background Unsplash](https://github.com/shorwood/tailwindcss-unsplash) - 申请 [unsplash.com](https://unsplash.com) 图像作为背景.
 - [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) - 为背景、边框和文本添加各种品牌颜色.
-- [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - 生成 Bootstrap 风格的 flexbox 网格系统.
+- [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) - Generates Bootstrap's style flexbox grid system.
 - [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) - 添加实用程序来修剪文本空白，使用 [Capsize](https://github.com/seek-oss/capsize).
 - [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) - 添加 `scrollbar-hide` 类用于视觉隐藏滚动条.
 - [Downwind CSS Easings](https://github.com/downwindcss/easings) - 扩展 `transition-timing-function` 实用程序.
@@ -118,7 +118,7 @@
 - [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - 导出自定义 CSS 变量（支持深色模式）.
 - [Perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - 添加“透视”实用程序.
 
-> 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
+&gt; - _以下插件提供的功能现已在 Tailwind CSS 中完全或部分实现._
 
 - [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) - 添加“插入符号”颜色实用程序.
 - [Caret Color](https://github.com/naoray/tailwind-caret-color) - 添加“插入符号”颜色实用程序.
@@ -199,7 +199,7 @@
 - [Tailwind Shift](https://github.com/awssat/tailwind-shift) - 从 Tailwind CSS v0.7 升级到 v1.0 的升级工具.
 - [RustyWind](https://github.com/avencera/rustywind) - 用于对 Tailwind CSS 类进行排序的 CLI 工具.
 - [Windy](https://usewindy.com) - 将 HTML 元素转换为 Tailwind CSS 的浏览器扩展.
-- [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native 类型系统.
+- [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
 - [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - Tailwind CSS 的 TypeScript 类型.
 - [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Gatsby 的 Tailwind CSS 集成.
 - [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Gridsome 的 Tailwind CSS 集成.
@@ -208,7 +208,7 @@
 - [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) - 将 Tailwind CSS 添加到项目中的 Vue CLI 插件.
 - [Tailwind CSS Figma Kit](https://github.com/ecklf/tailwindcss-figma-kit) - 适用于 Tailwind CSS 的 Figma 套件.
 - [Tailwind CSS Figma UI Design Kit](https://flowbite.com/figma/) - 适用于 Tailwind CSS 的 Figma UI 设计工具包.
-- [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+- [Tailwind CSS Figma Plugin](https://github.com/ecklf/tailwindcss-figma-plugin) - 集成 Tailwind CSS 的 Figma 插件.
 - [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) - 用于 NuxtJS 的 Tailwind CSS 模块，带有 PurgeCSS 和现代 CSS（预设 env 1）.
 - [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) - Preact 的 Tailwind CSS 集成.
 - [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) - NPM 库，提供对 Tailwind CSS 类进行排序的实用程序.
@@ -228,6 +228,7 @@
 - [twined-components](https://github.com/lowfront/twined-components) - 样式化组件的扩展组件，它优先考虑在 Tailwind CSS 中使用的类名.
 - [Tails Devtools](https://github.com/vechai/tails-devtools) - Tailwind CSS 的多合一浏览器扩展.
 - [Impulse.dev](https://impulse.dev) – Tailwind CSS 和 React 的 UI 编辑器，用于编辑您的代码.
+- [Supertweak](https://supertweak.dev) - Tailwind CSS 的可视化开发工具.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.

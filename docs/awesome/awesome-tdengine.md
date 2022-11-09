@@ -35,6 +35,8 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [dgiot_tdengine](https://github.com/dgiot/dgiot_tdengine) - TDengine 适配器插件.
 - [node-red-contrib-tdengine](https://github.com/kp45-tech/node-red-contrib-tdengine) - 用于 Node-RED 的 TDengine 连接器插件.
 - [IoTSharp](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp 是一个开源的物联网数据采集平台，支持将时序数据存储到TDengine. 
+- [WumeiSmart](https://github.com/kerwincui/wumei-smart) - 物美智能是智能生活物联网平台.
+- [JetLinks](https://github.com/jetlinks/jetlinks-community) - JetLinks 是一个完全响应的企业级物联网平台.
 
 ## ORM
 - [sqli](https://github.com/x-ream/sqli) - ORM SQL 接口、标准、CriteriaBuilder、ResultMapBuilder.
@@ -61,6 +63,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [TDenginex](https://github.com/lizhaochao/TDenginex) - 用于 Elixir 的 TDengine 连接器.
 - [DBUtility.TDengine](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+). 
 - [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)   - TDengine 的 ADO.Net 提供商.  （.Net Framework 4.6+、.Net Standard2.0+、.Net 5.0+）. 
+- [taos-odbc](https://github.com/freemine/taos_odbc) - TDengine 3.0 的 ODBC 驱动程序，非常早期.
 
 ## Stack
 

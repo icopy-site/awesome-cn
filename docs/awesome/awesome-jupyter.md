@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkusschanta%2Fawesome-jupyter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-精选列表 [Jupyter](http://jupyter.org) 项目、图书馆和资源.  Jupyter 是一个开源 Web 应用程序，可让您创建和共享包含实时代码、方程式、可视化和叙述性文本的文档.
+精选列表 [Jupyter](http://jupyter.org) 项目、图书馆和资源.  Jupyter 是一个开源 Web 应用程序，允许您创建和共享包含实时代码、方程式、可视化和叙述性文本的文档.
 
 <div align="center" style="border-bottom: 0px;">
 	<br>
@@ -117,7 +117,7 @@
 - [nbdime](https://github.com/jupyter/nbdime) - 用于区分和合并 Jupyter 笔记本的工具.
 - [nbQA](https://github.com/nbQA-dev/nbQA) - 从命令行或通过预提交在 Jupyter Notebook 上运行任何标准 Python 代码质量工具.
 - [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - 版本、管理和共享项目中的笔记本检查点.
-- [ReviewNB](https://www.reviewnb.com/) - Jupyter Notebooks 的代码审查.
+- [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
 ## JupyterLab Extensions
 
@@ -126,6 +126,7 @@
 - [debugger](https://github.com/jupyterlab/debugger) - Jupyter 笔记本、控制台和源文件的可视化调试器.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) - 显示 drawio/mxgraph 图的扩展.
 - [elyra](https://github.com/elyra-ai/elyra) - 用于在本地或远程创建和运行笔记本（或 Python 脚本）管道的可视化编辑器.
+- [genv](https://github.com/run-ai/jupyterlab_genv) - 在 JupyterLab 中管理 GPU 环境的扩展.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到 JupyterLab 中的变量或函数定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google Drive 集成的扩展.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - 在 Jupyter 中用于多个后端的类似文件系统的内容管理器.
@@ -146,7 +147,7 @@
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - 扩展以保持 Python 代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) - 在 JupyterLab 中探索 CPython 字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) - 通过输入部分名称在 JupyterLab 中快速打开文件.
-- [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - An extension for managing keyboard shortcuts.
+- [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) - 管理键盘快捷键的扩展.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) - JupyterLab 的边车输出小部件.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) - JupyterLab 的 SQL GUI.
 - [stickyland](https://github.com/xiaohk/stickyland) - 打破带有粘性单元格的笔记本的线性呈现.

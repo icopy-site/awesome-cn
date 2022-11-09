@@ -114,7 +114,7 @@
 
 ### Linux Distributions
 
-* [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA)  - 基于 VMware 的设备用于数字调查和采集，完全由公共领域软件构建.  ADIA 中包含的工具包括 Autopsy、Sleuth Kit、数字取证框架、log2timeline、Xplico 和 Wireshark. 大多数系统维护使用Webmin. 它专为中小型数字调查和采集而设计. 该设备在 Linux、Windows 和 Mac OS 下运行.  i386（32 位）和 x86_64（64 位）版本均可用.
+* [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA)  - 基于 VMware 的设备用于数字调查和采集，完全由公共领域软件构建.  ADIA 中包含的工具包括 Autopsy、Sleuth Kit、数字取证框架、log2timeline、Xplico 和 Wireshark. 大多数系统维护使用Webmin. 它专为中小型数字调查和收购而设计. 该设备在 Linux、Windows 和 Mac OS 下运行.  i386（32 位）和 x86_64（64 位）版本均可用.
 * [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) - 包含在分析过程中帮助调查人员的众多工具，包括法医证据收集.
 * [CCF-VM](https://github.com/rough007/CCF-VM) - CyLR CDQR 取证虚拟机 (CCF-VM)：用于解析收集的数据的一体化解决方案，通过内置的常用搜索使其易于搜索，可同时搜索单个和多个主机.
 * [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/)  - 用于计算机取证收集的 Linux 发行版. 它与 Windows 的数字高级响应工具包 (DART) 捆绑在一起. 还提供名为 DEFT Zero 的轻量版 DEFT，它主要专注于法医健全的证据收集.
@@ -219,7 +219,7 @@
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - 反作用的剧本收藏.
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 一系列网络事件响应手册战斗卡
 * [IRM](https://github.com/certsocietegenerale/IRM) - CERT 法国兴业银行的事件响应方法.
-* [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  - 不同的通用事件响应工作流程，例如恶意软件爆发、数据盗窃、未经授权的访问……每个工作流程都包含七个步骤：准备、检测、分析、遏制、根除、恢复、事件后处理. 工作流程可在线获取或下载.
+* [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/)  - 不同的通用事件响应工作流程，例如恶意软件爆发、数据盗窃、未经授权的访问……每个工作流程都包含七个步骤：准备、检测、分析、遏制、根除、恢复、事件后处理. 工作流程可在线获取或下载.
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/)  - 描述 PagerDuty 事件响应流程部分的文件. 它不仅提供了有关准备事件的信息，还提供了在事件发生期间和之后应该做什么的信息. 来源可在 [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - 用于 Splunk 的 Phantom 社区手册，但也可针对其他用途进行定制.
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - 帮助开发狩猎活动的技术和假设的剧本.

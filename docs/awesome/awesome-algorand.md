@@ -86,7 +86,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - 使用 Algorand Multisignature Account 的去中心化合作联盟.
 - [Algorand on RaspberryPi](https://developer.algorand.org/tutorials/development-on-algorand-using-raspberry-pi-part-1/) - 使用 Raspberry Pi 在 Algorand 上进行开发.
 - [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - 使用 Python 读取和写入交易记录字段.
-- [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - 使用有状态智能合约创建 Algorand 标准资产.
+- [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - Using Stateful Smart Contract To Create Algorand Standard Asset.
 
 ## Development
 
@@ -103,7 +103,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### Go
 
 - [go-algorand](https://github.com/algorand/go-algorand) - Algorand 在 Go 中的官方实现.
-- [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - Algorand Golang SDK.
+- [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
 
 ### PHP
 
@@ -167,7 +167,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### VSCode
 
 - [Obsidian Labs/vscode-algorand](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS 代码扩展.
-- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
+- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - 在 VSCode 中使用最少的 AVM 配置调试蓝绿色.
+
+### Visual Studio
+
+- [Algorand Visual Studio Extension](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
 ## Tools
 
@@ -265,7 +269,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Projects
 
-- [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
+- [arc3.xyz](https://github.com/barnjamin/arc3.xyz) - 可用于铸造符合 ARC3 的 NFT 的 Dapp.
 - [Auction Demo](https://github.com/algorand/auction-demo) - 使用智能合约进行链上 NFT 拍卖.
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - 会话钱包允许跨多个钱包的持久钱包连接.
 - [AlgoWorld-Contracts](https://github.com/algoworldNFT/algoworld-contracts) - AlgoWorld 使用的所有智能合约的集合，用 PyTeal 编写.
