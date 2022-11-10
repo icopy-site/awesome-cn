@@ -88,13 +88,17 @@
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - 用于无痛 NixOS 薄片配置的轻量级 Nix 库薄片.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最完整且易于使用的 .gitignore 集成.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的“nix-shell”，用于增强 direnv 的开发.
-* [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于在任何地方以任何语言构建、测试和发布项目. 
 * [niv](https://github.com/nmattia/niv/) - 使用包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和符合 flake 的配置.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和你的 CI 上运行 linter/formatters.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - Nix 的语法检查语言服务器.
 * [robotnix](https://github.com/danielfullmer/robotnix) - A declarative and reproducible build system for Android (AOSP) images.
+
+## DevOps
+
+* [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于在任何地方以任何语言构建、测试和发布项目. 
+* [Standard](https://github.com/divnix/std) - 一个固执己见的 Nix Flakes 框架，用于保持大型项目中的 Nix 代码井井有条，并附带一个针对 DevOps 场景的友好 CLI/TUI.
 
 ## Programming Languages
 

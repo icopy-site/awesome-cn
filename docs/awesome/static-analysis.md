@@ -200,7 +200,7 @@
 
 - [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) — C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 
-- [Designite](http://www.designite-tools.com) :copyright: — Designite supports detection of various architecture, design, and implementation smells, computation of various code quality metrics, and trend analysis.
+- [Designite](http://www.designite-tools.com) :copyright: — Designite 支持检测各种架构、设计和实现气味，计算各种代码质量指标和趋势分析.
 
 - [Gendarme](https://www.mono-project.com/docs/tools+libraries/tools/gendarme) — 宪兵检查包含 ECMA CIL 格式（Mono 和 .NET）代码的程序和库.
 
@@ -538,8 +538,6 @@
 
 - [qulice](https://www.qulice.com) — 结合了一些（预配置的）静态分析工具（checkstyle、PMD、Findbugs，...）.
 
-- [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 Java 安全漏洞的源代码分析工具.
-
 - [Soot](https://soot-oss.github.io/soot) — 用于分析和转换 Java 和 Android 应用程序的框架.
 
 - [Spoon](http://spoon.gforge.inria.fr)  — Spoon 是一个元编程库，用于分析和转换 Java 源代码（包括 Java 9、10、11、12、13、14）. 它解析源文件以构建具有强大分析和转换 API 的精心设计的 AST. 可以集成在 Maven 和 Gradle 中.
@@ -583,6 +581,8 @@
 - [plato](https://github.com/es-analysis/plato) :warning: — 可视化 JavaScript 源代码的复杂性.
 
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) — Web 组件的静态分析框架.
+
+- [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
 - [retire.js](http://retirejs.github.io/retire.js) — 扫描程序检测到使用具有已知漏洞的 JavaScript 库.
 
@@ -828,7 +828,7 @@
 
 - [pytype](https://google.github.io/pytype) — Python 代码的静态类型分析器.
 
-- [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新类型的分析.
+- [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
 - [radon](https://radon.readthedocs.io/en/latest) — 从源代码计算各种指标的 Python 工具.
 
@@ -1358,7 +1358,7 @@
 
 - [packj](https://packj.dev)  — Packj（发音为 package）是一个命令行 (CLI) 工具，用于审查开源软件包的“风险”属性，这些属性使它们容易受到供应链攻击. 这是我们大型安全分析平台 Packj.dev 背后的工具，它不断审查软件包并提供免费报告.
 
-- [pure](https://github.com/ronomon/pure) — Pure 是一个静态分析文件格式检查器，可检查 ZIP 文件是否存在危险的压缩率、规范偏差、恶意存档签名、本地和中央目录标题不匹配、不明确的 UTF-8 文件名、目录和符号链接遍历、无效的 MS-DOS 日期、重叠标头、上溢、下溢、稀疏、意外缓冲区溢出等.
+- [pure](https://github.com/ronomon/pure) — Pure 是一种静态分析文件格式检查器，可检查 ZIP 文件中是否存在危险的压缩率、规格偏差、恶意存档签名、本地和中央目录标题不匹配、不明确的 UTF-8 文件名、目录和符号链接遍历、无效的 MS-DOS 日期、重叠标头、上溢、下溢、稀疏、意外缓冲区溢出等.
 
 
 <h2 id="arm">Azure 资源管理器</h2>
@@ -1533,7 +1533,7 @@
 
 - [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的数字不会随着时间的推移而变得更糟.
 
-- [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新类型的分析.
+- [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
 - [Reviewdog](https://github.com/haya14busa/reviewdog) — 在任何代码托管服务中发布来自任何 linter 的评论评论的工具.
 
@@ -1621,12 +1621,12 @@
 
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源 linter. 您定义了一个要针对您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
 
-- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
+- [kube-linter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 
 - [kubeconform](https://github.com/yannh/kubeconform) — 一个快速的 Kubernetes 清单验证器，支持自定义资源.
-它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支——它保证所有最新版本的 Kubernetes 的模式都是最新的.
+它的灵感来自，包含来自的代码并旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支 - 它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
 - [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，可检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序符合最佳实践.
 
@@ -1791,11 +1791,11 @@
 
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器原生应用程序保护，提供对容器化应用程序的可见性和控制.
 
-- [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新类型的分析.
+- [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) :warning: — Automated code review & repair. It helps you to keep track of issues and metrics in your software projects, and can be easily extended to support new types of analyses.
 
-- [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 Java 安全漏洞的源代码分析工具.
+- [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
-- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 的不可利用漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
+- [Rezilion](https://www.rezilion.com/) :copyright: — 发现环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建修复计划并打开票证以升级违反安全策略的组件和/或在 CI 中自动修补.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 

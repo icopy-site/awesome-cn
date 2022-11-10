@@ -104,6 +104,7 @@
 - [Preflight](https://preflight.com)  - 最简单的视觉回归测试和自动化 Web 测试工具.  （有限）免费使用.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - 在您的浏览器中创建 AI 驱动的赛普拉斯测试/POM 模型，并为赛普拉斯自动执行电子邮件和视觉测试.
 - [Meticulous.ai](https://meticulous.ai)  - 无需编写代码即可轻松创建前端测试. 使用 Meticulous 在您的 Web 应用程序上记录工作流程. 然后，您可以在新的前端代码上重放这些流程，并通过区分两个重放来创建测试.
+- [testRigor](https://testrigor.com) - 用于 Web、移动和桌面测试的 E2E 功能测试自动化工具.
 
 ## Blog posts
 

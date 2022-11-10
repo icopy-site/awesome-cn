@@ -113,7 +113,7 @@
 * [QOwnNotes](http://www.qownnotes.org/)  - 具有降价支持和待办事项列表管理器的开源记事本.  [![开源软件][OSS图标]](https://github.com/pbek/QOwnNotes) ![免费软件][免费软件图标]
 * [Quiver](http://happenapps.com/#quiver) - 程序员的笔记本，让您在一个笔记中轻松混合文本、代码、Markdown 和 LaTeX，使用出色的代码编辑器编辑代码并实时预览 Markdown 和 LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) - 云笔记知识管理、协作平台、基于Markdown的写作，支持嵌入式流程图、脑图、时序、代码渲染、画板创建、个人知识分享等.相比有道云笔记、印象笔记同类产品，包含所有功能，支持知识共享和更强大的创作、协作和编辑，来自阿里巴巴蚂蚁金服！[免费软件][免费软件图标]
-* [Skiff](https://skiff.com/)  - 端到端加密和分散式电子邮件、实时文档协作和采用零信任隐私设计的文件存储——可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS图标]](https://github.com/skiff-org)
+* [Skiff](https://skiff.com/)  - 端到端加密和去中心化电子邮件、实时文档协作以及采用零信任隐私设计的文件存储——可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS图标]](https://github.com/skiff-org)
 
 #### Journaling
 
@@ -370,7 +370,7 @@
 #### Databases
 
 * [Apache Directory Studio](https://directory.apache.org/studio/)  - LDAP 浏览器和 Active Directory 客户端.  [![开源软件][OSS图标]](https://directory.apache.org/sources.html) ![免费软件][免费软件图标]
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台的数据库工具，用于微软家族的本地和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 跨平台数据库工具，用于 Microsoft 家庭内部部署和云数据平台，如 MSSQL Server！[免费软件][免费软件图标]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一个更快、更好、更稳定的redis桌面管理器.[![开源软件][OSS图标]](https://directory.apache.org/sources.html)！[免费软件][免费软件图标]
 * [Base 2](http://menial.co.uk/base/) - 用于创建、设计、编辑和浏览 SQLite 3 数据库文件的应用程序.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - 流畅的 SQL 编辑器和数据库管理器 [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
@@ -848,7 +848,7 @@
 * [ActivityWatch](https://activitywatch.net/)  - 跨平台、可扩展且注重隐私的时间跟踪器.  [![开源软件][OSS图标]](https://github.com/ActivityWatch/activitywatch) ![免费软件][免费软件图标]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterMouse](https://better-mouse.com)  - 平滑滚动、光标加速禁止和强大的按钮/手势重新映射在一个实用程序中适用于第 3 方鼠标. 旨在取代那些笨重和侵入性的官方驱动程序.
-* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，可让您为 Magic Mouse、Macbook 触控板、Magic Trackpad 以及普通鼠标的鼠标手势配置多种手势.
+* [BetterTouchTool](https://folivora.ai/) - 功能丰富的出色应用程序，可让您为 Magic Mouse、Macbook 触控板、Magic Trackpad 以及普通鼠标的鼠标手势配置多种手势.
 * [Cerebro](https://cerebroapp.com/)  - 带大脑的开源生产力助推器.  [![开源软件][OSS图标]](https://github.com/cerebroapp/cerebro) ![免费软件][免费软件图标]
 * [Choosy](https://www.choosyosx.com) - UI、URL API 和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
 * [Clovery](https://clovery.app)  - 将您喜爱的所有 Google 服务与您的 Mac 紧密集成，让您快速访问这些服务并提高工作效率.  [![开源软件][OSS Icon]](https://github.com/webcatalog/neutron) [![App Store][app-store Icon]](https://apps.apple.com/我们/app/clovery-for-google-apps/id1552618413）
@@ -932,6 +932,7 @@
 
 * [Actions](https://github.com/sindresorhus/Actions)  - 为快捷方式应用程序提供许多有用的操作.  [![开源软件][OSS图标]](https://github.com/sindresorhus/Actions) ![免费软件][免费软件图标] [![App Store][app-store图标]](https: //apps.apple.com/app/id1586435171)
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/)  - 按住 ⌘-Key 可获取当前应用程序的所有活动快捷方式的列表. 就这么简单.  ![免费软件][免费软件图标]
+* [DisplayBuddy](https://displaybuddy.app) - 直接从 Mac 控制外部显示器的亮度、对比度、输入源等.
 * [f.lux](https://justgetflux.com/)  - 使计算机显示屏的颜色适应一天中的时间.  ![免费软件][免费软件图标]
 * [Lunar](https://lunar.fyi/)  - 帮助您调整外接显示器的亮度、对比度和音量.  [![开源软件][OSS图标]](https://github.com/alin23/Lunar) ![免费软件][免费软件图标]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)  - 一个开源 macOS 应用程序，可让您直接从菜单栏或使用键盘快捷键 (⌥⌘G) 快速切换灰度过滤器.  [![开源软件][OSS图标]](https://github.com/rkbhochalya/grayscale-mode) ![免费软件][免费软件图标]
@@ -954,7 +955,7 @@
 * [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner)  - 通过删除不需要和已弃用的文件，帮助您加快 Xcode.  [![开源软件][OSS图标]](https://github.com/waylybaye/XcodeCleaner) ![免费软件][免费软件图标]
 * [coconutBattery](https://www.coconut-flavour.com/coconutbattery/)  - 显示有关 Mac 中电池的实时信息. 包括：生产日期、容量、循环次数、电池状态、温度、放电功率.
 * [DaisyDisk](https://daisydiskapp.com/)  - 提供磁盘使用情况的一个很好的概述. 还可以通过清理磁盘来提供更多可用磁盘空间.
-* [gfxCardStatus](https://gfx.io/)  - 适用于 OS X 的不显眼的菜单栏应用程序，允许 MacBook Pro 用户通过使用更耗电的图形来查看哪些应用程序正在影响他们的电池寿命.  ![免费软件][免费软件图标]
+* [gfxCardStatus](https://gfx.io/)  - 用于 OS X 的不显眼的菜单栏应用程序，允许 MacBook Pro 用户通过使用更耗电的图形来查看哪些应用程序正在影响他们的电池寿命.  ![免费软件][免费软件图标]
 * [Gray](https://github.com/zenangst/Gray)  - 只需单击一个按钮，即可在每个应用程序的基础上在浅色外观和深色外观之间进行选择.  ![免费软件][免费软件图标] [![开源软件][OSS图标]](https://github.com/zenangst/Gray)
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - 菜单栏上的高级 Mac 系统监视器.
 * [iStats](https://github.com/Chris911/iStats)  - 命令行工具，可让您轻松获取 OSX 上的 CPU 温度、风扇速度和电池信息.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/Chris911/iStats)

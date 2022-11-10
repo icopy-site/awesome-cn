@@ -360,9 +360,6 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Vue
 
-- [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
-- [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
-- [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 - [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
 ### Svelte
@@ -550,8 +547,12 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 - [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
+- [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+- [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
 - [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
+- [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
+- [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
 
 #### 2017
 
@@ -567,7 +568,8 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
-- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
+- [What's New in Shadow DOM v1 (by examples)](https://hayatoito.github.io/2016/shadowdomv1/)
+- [Why web components are so important](https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
 #### 2015
@@ -582,7 +584,11 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 - [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
 - [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
+- [Why Web Components Are Ready For Production](https://www.telerik.com/blogs/web-components-ready-production)
 - [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
+- [An Addendum to Why Web Components Aren't Ready for Production Yet](https://www.tjvantoll.com/2014/07/18/an-addendum-to-why-web-components-arent-ready-for-production-yet/)
+- [Why Web Components Aren't Ready for Production... Yet](https://www.telerik.com/blogs/web-components-arent-ready-production-yet)
+- [Component Interop With React And Custom Elements](https://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 - [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
 - [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)

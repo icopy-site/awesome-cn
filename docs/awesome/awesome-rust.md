@@ -131,7 +131,7 @@ Rust 代码和资源的精选列表.
   * [Ruffle](https://github.com/ruffle-rs/ruffle)  — Ruffle 是一个用 Rust 编程语言编写的 Adob​​e Flash Player 模拟器.  Ruffle 使用 WebAssembly 面向桌面和 Web. [![Build Status Rust](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Rust?label=Rust%20Build&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Rust)[![Build Status Web](https://img.shields.io/github/workflow/status/ruffle-rs/ruffle/Test%20Web?label=Web%20Build&logo=github)](https://github.com/ruffle-rs/ruffle/actions?workflow=Test%20Web)
 * 掌上游戏机
   * [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) — [![build badge](https://api.travis-ci.org/Gekkio/mooneye-gb.svg?branch=master)](https://travis-ci.org/Gekkio/mooneye-gb)
-  * [mohanson/gameboy](https://github.com/mohanson/gameboy) — Full featured Cross-platform GameBoy emulator. Forever boys!.
+  * [mohanson/gameboy](https://github.com/mohanson/gameboy)  — 全功能跨平台 GameBoy 模拟器. 永远的男孩！
   * [mvdnes/rboy](https://github.com/mvdnes/rboy) — [![build badge](https://api.travis-ci.org/mvdnes/rboy.svg?branch=master)](https://travis-ci.org/mvdnes/rboy)
 * 游戏机前进
   * [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng 是一款 Gameboy Advance 模拟器，具有桌面、Android 和 [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) 支持. [![build badge](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
@@ -190,7 +190,7 @@ Rust 代码和资源的精选列表.
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) — 高性能可扩展 StatsD 兼容服务器.
 * [OpenTelemetry](https://crates.io/crates/opentelemetry)  — OpenTelemetry 提供一组 API、库、代理和收集器服务，以从您的应用程序中捕获分布式跟踪和指标. 您可以使用 Prometheus、Jaeger 和其他可观察性工具来分析它们. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
 * [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - 用于日志管理的云原生且极具成本效益的搜索引擎. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
-* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并支持设计系统和应用程序以提高可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
+* [Scaphandre](https://github.com/hubblo-org/scaphandre)  - 功耗监控代理，用于跟踪主机和每个服务的功耗，并使设计系统和应用程序更具可持续性. 旨在适合任何监控工具链（已经支持 prometheus、warp10、riemann...）.
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) — 高性能、日志、指标和事件路由器.
 
 ### Operating systems
@@ -247,7 +247,7 @@ Rust 代码和资源的精选列表.
 * [gitui](https://github.com/extrawurst/gitui) - 用 Rust 编写的 git 的极速终端客户端. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 * [Kondo](https://github.com/tbillington/kondo) - 用于删除软件项目工件和回收磁盘空间的 CLI 和 GUI 工具
 * [lotabout/rargs](https://github.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] — xargs + awk 支持模式匹配 [![build badge](https://api.travis-ci.org/lotabout/rargs.svg?branch=master)](https://travis-ci.org/lotabout/rargs)
-* [lotabout/skim](https://github.com/lotabout/skim) — 纯锈中的模糊探测器 [![build badge](https://api.travis-ci.org/lotabout/skim.svg?branch=master)](https://travis-ci.org/lotabout/skim)
+* [lotabout/skim](https://github.com/lotabout/skim) — A fuzzy finder in pure rust [![build badge](https://api.travis-ci.org/lotabout/skim.svg?branch=master)](https://travis-ci.org/lotabout/skim)
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) — 灵活快速的 BitTorrent 守护程序. [![Build Status](https://api.travis-ci.org/Luminarys/synapse.svg?branch=master)](https://travis-ci.org/Luminarys/synapse)
 * [m4b/bingrep](https://github.com/m4b/bingrep) — 对来自各种操作系统和架构的二进制文件进行 Greps，并为它们着色. [![build badge](https://api.travis-ci.org/m4b/bingrep.svg?branch=master)](https://travis-ci.org/m4b/bingrep)
 * [mitnk/cicada](https://github.com/mitnk/cicada) — 一个类似 bash 的 Unix shell [![build badge](https://api.travis-ci.org/mitnk/cicada.svg?branch=master)](https://travis-ci.org/mitnk/cicada)
@@ -426,7 +426,7 @@ Rust 代码和资源的精选列表.
 
 ### Deployment
 
-* 码头工人
+* Docker
   * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — 用于使用 musl-libc 和 musl-gcc 编译静态 Rust 二进制文件的 Docker 映像，以及有用的 C 库的静态版本
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) — 一个非常小的 rust docker 镜像的示例项目 [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) — 多个版本（使用 musl 工具）Rust Docker 映像
@@ -636,7 +636,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * [fitsio](https://crates.io/crates/fitsio) — 适合接口库包装 cfitsio [![build badge](https://api.travis-ci.org/mindriot101/rust-fitsio.svg?branch=master)](https://travis-ci.org/mindriot101/rust-fitsio)
 * [flosse/rust-sun](https://github.com/flosse/rust-sun) [[sun](https://crates.io/crates/sun)] — JS 库 suncalc 的 rust 端口 [![build badge](https://api.travis-ci.org/flosse/rust-sun.svg?branch=master)](https://travis-ci.org/flosse/rust-sun)
-* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — astronomy for Rust [![build badge](https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master)](https://travis-ci.org/saurvs/astro-rust)
+* [saurvs/astro-rust](https://github.com/saurvs/astro-rust) — Rust 的天文学 [![build badge](https://api.travis-ci.org/saurvs/astro-rust.svg?branch=master)](https://travis-ci.org/saurvs/astro-rust)
 
 ### Asynchronous
 
@@ -1219,7 +1219,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 ### Macro
 
 * 可爱
-  * [mattgathu/cute](https://github.com/mattgathu/cute) — Rust 中 Python 式列表推导的宏. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
+  * [mattgathu/cute](https://github.com/mattgathu/cute) — Macro for Python-esque list comprehensions in Rust. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 * [Linq-in-Rust](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
 ### Markup language
@@ -1242,7 +1242,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [bluez/bluer](https://github.com/bluez/bluer) [[bluer](https://crates.io/crates/bluer)] — Rust 的官方 BlueZ 绑定. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 * CoAP
   * [Covertness/coap-rs](https://github.com/Covertness/coap-rs) - 一个 [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) Rust 的库. [![build badge](https://api.travis-ci.org/Covertness/coap-rs.svg?branch=master)](https://travis-ci.org/Covertness/coap-rs)
-* 码头工人
+* Docker
   * [fussybeaver/bollard](https://github.com/fussybeaver/bollard) — Rust 中的 Docker 守护程序 API
 * FTP
   * [mattnenterprise/rust-ftp](https://github.com/mattnenterprise/rust-ftp) - 一个 [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) Rust 的客户端 [![build badge](https://api.travis-ci.org/mattnenterprise/rust-ftp.svg?branch=master)](https://travis-ci.org/mattnenterprise/rust-ftp)
@@ -1346,7 +1346,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [metacall/core](https://github.com/metacall/core) [[metacall](https://crates.io/crates/metacall)] — Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. [![build badge](https://gitlab.com/metacall/core/badges/master/pipeline.svg)](https://gitlab.com/metacall/core)
 * [mun](https://github.com/mun-lang/mun) — 一种编译的、静态类型的脚本语言，具有一流的热重载支持 [![build badge](https://api.travis-ci.org/mun-lang/mun.svg?branch=master)](https://travis-ci.org/mun-lang/mun)
 * [murarth/ketos](https://github.com/murarth/ketos) — 一种 Lisp 方言函数式编程语言，用作 rust 的脚本和扩展语言
-* [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) — A rusty dynamically typed scripting language
+* [PistonDevelopers/dyon](https://github.com/PistonDevelopers/dyon) — 一种生锈的动态类型脚本语言
 * [rhaiscript/rhai](https://github.com/rhaiscript/rhai) — 一种小型且快速的嵌入式脚本语言，类似于 JavaScript 和 Rust 的组合 [![build badge](https://github.com/rhaiscript/rhai/workflows/Build/badge.svg)](https://github.com/rhaiscript/rhai/actions)
 * [rune-rs/rune](https://github.com/rune-rs/rune) — 一种可嵌入的 Rust 动态编程语言
 
@@ -1458,6 +1458,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [cargonauts](https://github.com/cargonauts-rs/cargonauts) — 一个 Web 框架，用于构建可维护的、结构良好的 Web 应用程序.
   * [causal-agent/scraper](https://github.com/causal-agent/scraper) [[scraper](https://crates.io/crates/scraper)] - 使用 CSS 选择器进行 HTML 解析和查询. [![Build Status](https://github.com/causal-agent/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/causal-agent/scraper/actions)
   * [hominee/dyer](https://github.com/hominee/dyer) [[dyer](https://crates.io/crates/dyer)] - Dyer 是为可靠、灵活和快速的基于请求-响应的服务而设计的，包括数据处理、网络爬虫等，在不影响速度的情况下提供一些友好、灵活、全面的功能.
+  * [juhaku/utoipa](https://github.com/juhaku/utoipa) - 简单、快速、代码优先和编译时生成的 Rust OpenAPI 文档 [![crates.io](https://img.shields.io/crates/v/utoipa.svg?label=crates.io&color=orange&logo=rust)](https://crates.io/crates/utoipa) [![Utoipa build](https://github.com/juhaku/utoipa/actions/workflows/build.yaml/badge.svg)](https://github.com/juhaku/utoipa/actions/workflows/build.yaml)
   * [osohq/oso](https://github.com/osohq/oso) [[oso](https://crates.io/crates/oso)] - 嵌入在您的应用程序中的授权策略引擎. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
   * [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [[soup](https://crates.io/crates/soup)] — 一个类似于 Python 的 BeautifulSoup 的库，旨在实现快速轻松地操作和查询 HTML 文档. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
   * [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) — 将静态资产嵌入到 rust 二进制文件中的宏

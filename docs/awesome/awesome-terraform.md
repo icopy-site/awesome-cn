@@ -303,6 +303,7 @@
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle)  - 轻松构建包含 Terraform 二进制文件和提供程序二进制文件的包. 对于 CI 和气隙 Terraform Enterprise 很有用.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - 用于 Terraform 的 CDK（云开发工具包）允许开发人员使用熟悉的编程语言来定义云基础设施并通过 HashiCorp Terraform 进行配置.
 - [terraform-credentials-vault](https://github.com/oulman/terraform-credentials-vault) - 一个 Terraform “凭证助手”插件，允许通过环境变量为 Terraform 本地服务（私有模块注册表、Terraform 云等）提供凭证.
+- [terraform-diff](https://github.com/contentful-labs/terraform-diff) - 始终知道您需要在哪里运行 Terraform 计划并申请！
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs) - 从 terraform 模块生成文档的快速实用程序.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - 命令行工具允许将 terraform graph 命令的几乎不可用的输出转换为更有意义和解释性的东西.
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *（仅 0.11 和更早版本）* 改进 Terraform 的计划输出，使其更易于阅读和理解.

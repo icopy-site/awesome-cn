@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Rails
 
-&gt; 与 Ruby on Rails 相关的精彩内容精选列表 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+&gt; 与 Ruby on Rails 相关的精彩内容精选列表 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![awesome-rails](https://raw.githubusercontent.com/gramantin/awesome-rails/master/./.github/assets/awesome-rails.png)
 
@@ -51,13 +51,14 @@
 - [TechmakerTV](https://www.youtube.com/c/TechmakerTV/videos)
 - [Deanin](https://www.youtube.com/c/Deanin/videos)
 - [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
+- [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
 
 #### Other external resources
 
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
-- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库的精选列表、顶级作者、趋势项目工具包、讨论、教程和学习资源. 
+- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表. 
 
 
 [返回顶部][link_toc]
@@ -74,6 +75,7 @@
 - [rails jobs on remoteok.io](https://remoteok.io/remote-ruby-on-rails-jobs)
 - [rails jobs on web3.career](https://web3.career/ruby-jobs)
 - [rails jobs on rubyonremote.com](https://rubyonremote.com/)
+- [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
 
 &gt; 提示：您可以在以下位置找到远程工作板列表，包括 Rails 工作 [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
@@ -85,6 +87,7 @@
 - [rails on Reddit](https://www.reddit.com/r/rails/)
 - [Ruby on Rails Discussions](https://discuss.rubyonrails.org/)
 - [Gorails forum](https://gorails.com/forum)
+- [WIP Ruby (Telegram group)](https://t.me/wipruby)
 
 [返回顶部][link_toc]
 

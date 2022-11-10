@@ -23,7 +23,6 @@
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的 vlang 工具，生成 v 源文件到 AST json 文件.
-- [vcredits](https://github.com/zakuro9715/vcredits) - 从依赖项的许可证文件创建信用的工具.
 - [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
@@ -149,7 +148,7 @@
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - libSDL2 包装器.
 - [vsdl](https://github.com/kjlaw89/vsdl) - 基于 C 的 SDL 库的 V 包装器.
-- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL 是一种使用 V 编写 OpenCL 程序的高级方法.这些是 V 的高度自以为是的 OpenCL 绑定.它试图通过一些糖抽象、V 的并发性和通道来简化 GPU 计算.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL 是使用 V 使用 OpenCL 编写程序的高级方式.这些是针对 V 的高度自以为是的 OpenCL 绑定.它试图通过一些糖抽象、V 的并发性和通道来简化 GPU 计算.
 - [V_sokol_gp](https://github.com/mohamedLT/V_sokol_gp) - sokol_gp 库的 AV 包装器，用于简单快速的 2d 图形.
 
 ### IRC
@@ -196,6 +195,7 @@
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
 - [strfmt](https://github.com/BenStigsen/strfmt) - 小巧快速的字符串格式化库，非常适合模板化.
 - [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.
+- [text-processing](https://github.com/ArtemkaKun/text-processing) - V 文本处理库，包含处理文本数据的常用工具.
 
 ### User Interface toolkits
 

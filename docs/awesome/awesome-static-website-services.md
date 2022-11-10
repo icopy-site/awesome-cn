@@ -43,7 +43,7 @@
 
 - [Prezi](https://prezi.com/) - 具有可以缩放和旋转的真正过渡的在线演示文稿.
 - [Reveal.js](http://lab.hakim.se/reveal-js/) - HTML 演示框架.
-- [Slides.com](http://slides.com/) - 创建、展示和共享幻灯片的地方.
+- [Slides.com](http://slides.com/) - 创建、展示和分享幻灯片的地方.
 - [SpeakerDeck](https://speakerdeck.com/) - 将您的幻灯片以 PDF 格式上传，并获得在线、可共享的演示文稿.
 
 ## Video
@@ -94,6 +94,7 @@
 - [Muut.com](https://muut.com/)  - 可嵌入的评论、论坛和私人消息. 很多功能，但在您的网站上留下的足迹真的很小.
 - [Gitment](https://github.com/imsun/gitment) - 基于 GitHub Issues 的评论系统，无需任何服务器端实现即可在前端使用.
 - [giscus](https://github.com/laymonage/giscus) - 基于 GitHub 讨论的评论小部件.
+- [utterances](https://github.com/utterance) - 基于 GitHub 问题构建的轻量级评论小部件. 
 
 ### Forms
 
@@ -147,6 +148,7 @@
 - [tawk.co](https://www.tawk.to/) - 让您监控并与您网站上的访问者聊天.
 - [WebsiteAlive](https://www.websitealive.com/) - 为您的网站和社交网络实时聊天.
 - [Zopim](https://www.zopim.com/) - 免费试用实时聊天.
+- [Tiledesk](https://tiledesk.com) - 与开源聊天机器人构建器的免费实时聊天. 
 
 ### Newsletters
 
