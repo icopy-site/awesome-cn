@@ -91,7 +91,7 @@
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) - 将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - ：草莓： [Execution order](https://github.com/dereuromark/executionorder) - 一个演示应用程序，用于显示文件、方法和回调的执行顺序.
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) - 一个插件，可帮助检测实时数据库和夹具中的不匹配，以使基于夹具的测试更可靠，部署更安全.
-- ：草莓： [Sentry plugin](https://github.com/Connehito/cake-sentry) 一个插件，用于将 Sentry 与 CakePHP 无缝集成以处理错误和异常.
+- ：草莓： [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) 用于无缝集成 Sentry 以处理错误和异常的插件.
 - ：草莓： [Setup plugin](https://github.com/dereuromark/cakephp-setup) - 包含调试和维护工具的轻量级设置插件.
 
 ## Dependency Injection
@@ -106,7 +106,7 @@
 - [PaypalWPP plugin](https://github.com/cpierce/paypal-wpp) - 用于与 Paypal Web Payments Pro 进行通信以获取有关您帐户的交易和信息.
 
 ## Email
-*用于发送和解析电子邮件的插件.*
+*Plugins for sending and parsing email.*
 
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) - 用于通过 Elastic Email API 发送电子邮件的电子邮件传输插件.
 - ：草莓： [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) - 带有预览和发件人外壳的电子邮件队列插件.
@@ -421,7 +421,7 @@
 - [Fluentd + Grafana Loki demo application](https://github.com/ishanvyas22/cakephp-loki-demo) - 将 CakePHP docker 容器日志发送到的演示应用程序 [Grafana Loki](https://grafana.com/logs/) 通过 [Fluentd](https://www.fluentd.org/).
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - 包含真实世界示例（CRUD、auth、高级模式等）的示例 CakePHP 代码库 [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规范和 API.
 - [Sandbox](https://sandbox.dereuromark.de) - 一个带有大量演示和插件展示的沙盒 CakePHP 应用程序.
-- [Query Examples](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
+- [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.
 - [Xeta](https://github.com/XetaIO/Xeta) - 帮助人们开始使用 CakePHP 的资源.
 - [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) - CakePHP + VueJS 单页应用程序框架.
 

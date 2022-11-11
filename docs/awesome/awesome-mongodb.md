@@ -45,7 +45,8 @@
 ### Tutorials
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - 在 Kubernetes 上部署基本 Node.js 和 MongoDB Web 堆栈的教程
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
- 
+ - [Sharded Cluster with Docker Compose](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
  - [MongoDB University](https://university.mongodb.com/) - 认证和免费在线课程
