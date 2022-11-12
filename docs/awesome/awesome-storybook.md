@@ -38,6 +38,7 @@
 - [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - 关于如何在使用 Create React App 生成的应用程序中添加 Storybook 的教程.
 - [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - 关于如何创建组件并在故事书中公开它们的教程.
 - [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - 关于如何将 Storybook 的暗模式切换与您的 React 组件集成的教程.
+- [使用 React 介绍 Storybook [教程和示例]](https://snipcart.com/blog/storybook-react-tutorial-example) - 了解如何使用 React 在 Storybook 中构建 UI 组件，以实现从设计到实施的更好协作.
 
 ## Presentations
 
@@ -51,7 +52,7 @@
 - [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o) - 一组有用的提示，可帮助您管理 Storybook 项目.
 - [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111) - 世界一流的设计系统基础设施.
 - [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf) - 美丽的文档，立即.
-- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a) - 把故事变成活生生的文件.
+- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a) - 把故事变成活生生的文档.
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - 关于迄今为止最大版本的功能展示.
 - [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - Storybook 中提供的可访问性测试工具的全面概述.
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - 了解如何使用 Vue 和 Storybook 构建组件库，以创建模块化和可重用的组件.

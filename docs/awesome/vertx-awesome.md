@@ -66,7 +66,7 @@
 * NoSQL 数据库
   * [MongoDB](https://github.com/vert-x3/vertx-mongo-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 用于与 MongoDB 数据库交互的异步客户端.
   * [Redis](https://github.com/vert-x3/vertx-redis-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 与 Redis 交互的异步 API.
-  * [Cassandra](https://github.com/vert-x3/vertx-cassandra-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 允许应用程序与 Cassandra 服务交互的 Vert.x 客户端.
+  * [Cassandra](https://github.com/vert-x3/vertx-cassandra-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 一个允许应用程序与 Cassandra 服务交互的 Vert.x 客户端.
   * [Cassandra](https://github.com/englishtown/vertx-cassandra) - 与 Cassandra 和 Cassandra 映射交互的异步 API.
   * [OrientDB](https://github.com/cstamas/vertx-orientdb) - 非阻塞 OrientDB 服务器集成.
   * [Bitsy](https://github.com/cstamas/vertx-bitsy) - 非阻塞 Bitsy Graph 服务器集成.
@@ -115,7 +115,7 @@
 
 * JavaEE
   * [JCA adaptor](https://github.com/vert-x3/vertx-jca) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 用于 Vert.x 事件总线的 Java 连接器架构适配器.
-  * [Weld](https://github.com/weld/weld-vertx) - 将 CDI 编程模型引入 Vert.x 生态系统（将 CDI 观察者方法注册为 Vert.x 消息消费者、CDI 驱动的 Verticles、以声明性方式定义路由等）.
+  * [Weld](https://github.com/weld/weld-vertx) - 将 CDI 编程模型引入 Vert.x 生态系统（将 CDI 观察者方法注册为 Vert.x 消息消费者、CDI 驱动的 Verticles、以声明方式定义路由等）.
 
 *流星
   * [Meteor](https://github.com/jmusacchio/vertxbus/) - 通过 Vert.x 事件总线支持 Meteor 集成.
@@ -238,11 +238,11 @@
 ## Dependency Injection
 
 * [Vert.x Guice](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
-* [Vert.x HK2](https://github.com/englishtown/vertx-hk2) - 用于 HK2 依赖注入的 Vert.x 垂直工厂.
+* [Vert.x HK2](https://github.com/englishtown/vertx-hk2) - Vert.x verticle factory for HK2 dependency injection.
 * [Spring Vert.x Extension](https://github.com/amoAHCP/spring-vertx-ext) - 用于 Spring DI 注入的 Vert.x 垂直工厂.
 * [Vert.x Beans](https://github.com/rworsnop/vertx-beans) - 将 Vert.x 对象作为 bean 注入到您的 Spring 应用程序中.
 * [QBit](https://github.com/advantageous/qbit)  - QBit 适用于 Spring DI 和 Spring Boot（当然还有 Vert.x）. 允许您在同一应用程序中使用 QBit、Vert.x、Spring DI 和 Spring Boot.
-* [Vert.x Eclipse SISU](https://github.com/cstamas/vertx-sisu) - Vert.x 与 [Eclipse SISU](https://www.eclipse.org/sisu/) DI container.
+* [Vert.x Eclipse SISU](https://github.com/cstamas/vertx-sisu) - Vert.x 与 [Eclipse SISU](https://www.eclipse.org/sisu/) 容器.
 * [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) - 一个 Vert.x Verticle Factory，它使用 Spring 来获取和配置 Verticle.
 * [Glue](https://github.com/vinscom/glue)  - 基于 Java 和 Vert.x 的应用程序的经过验证和自以为是的编程和配置模型. 受 ATG Nucleus 启发，使用简单的属性文件提供强大的层基础配置管理.
 
@@ -267,7 +267,7 @@
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) - 一个兼容 OpenStack Swift 的分布式对象存储服务器，可以使用使用 Vert.x 实现的最少资源来服务和安全地存储数十亿个大小文件.
 * [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
 * [GDH](https://github.com/maxamel/GDH) - 基于 Vert.x 构建的通用 Diffie-Hellman 密钥交换 Java 库.
-* [vertx-values](https://github.com/imrafaelmerino/vertx-values) - 发送不可变和持久的 JSON [json-values](https://github.com/imrafaelmerino/json-values) 穿过事件总线.
+* [vertx-values](https://github.com/imrafaelmerino/vertx-values) - 从发送不可变和持久的 JSON [json-values](https://github.com/imrafaelmerino/json-values) 穿过事件总线.
 
 ## Distribution
 

@@ -52,13 +52,14 @@
 - [Deanin](https://www.youtube.com/c/Deanin/videos)
 - [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
 - [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
+- [SupeRails](https://www.youtube.com/c/SupeRails/videos)
 
 #### Other external resources
 
 - [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
-- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表. 
+- [探索 Ruby] (https://kandi.openweaver.com/explore/ruby) - 发现并查找涵盖所有语言的流行和新 Ruby 库的精选列表、顶级作者、趋势项目工具包、讨论、教程和学习资源. 
 
 
 [返回顶部][link_toc]
