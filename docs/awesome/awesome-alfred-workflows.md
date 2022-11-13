@@ -41,6 +41,7 @@
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - 包回购搜索.
 - [Packagist](https://github.com/vinkla/alfred-packagist) - 搜索 PHP 包 [Packagist](https://packagist.org).
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出、搜索和开放源代码树存储库.
+- [Tailwind CSS Docs](https://github.com/techouse/alfred-tailwindcss-docs) - 搜索 [Tailwind CSS](https://tailwindcss.com/docs/) 文档.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - 使用 Alfred2 列出和控制 Vagrant 环境.
 - [VSCode](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - 使用 Visual Studio Code 打开文件或文件夹的 Alfred 4 工作流.
 
@@ -122,8 +123,8 @@
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) - 阿尔弗雷德工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) - 来自 Github 用户“ctwise”的工作流程.
-- [Packal](http://www.packal.org/) - 找到工作流的最大地方.
-- [PacMax](https://pacmax.org/) – Pacmax 的组装是为了让 Alfred 爱好者找到并分享他们最喜欢的工作流程、片段和主题.
+- [Packal](http://www.packal.org/) - 找到工作流程的最大地方.
+- [PacMax](https://pacmax.org/) – Pacmax 是作为 Alfred 爱好者查找和分享他们最喜欢的工作流程、片段和主题的一种方式.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) - 来自 Github 用户“vitorgalvao”的工作流程.
 
 ## Contributing

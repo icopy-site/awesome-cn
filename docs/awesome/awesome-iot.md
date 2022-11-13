@@ -17,8 +17,8 @@
 - [Arduino](https://www.arduino.cc/)  - Arduino 是一个基于易于使用的硬件和软件的开源电子平台. 它适用于任何制作交互式项目的人.
 - [BeagleBoard](http://beagleboard.org/) - BeagleBoard 是德州仪器与 Digi-Key 和 Newark element14 联合生产的低功耗开源硬件单板计算机.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)  - DragonBoard 410c 是艾睿电子的产品，是基于中端 Qualcomm® Snapdragon™ 410E 处理器的开发板. 它具有先进的处理能力、Wi-Fi、蓝牙连接和 GPS，所有这些都封装在一张信用卡大小的板上.
-- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
-- [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的继任者.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代互联产品中的微控制器.
+- [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard 是基于 1GHz 飞思卡尔 i.MX6 SoC 的三个支持 Linux 和 Android 的开源 SBC 系列，具有类似 Pi 的 26 针 I/O 连接器.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔® Galileo Gen 2 开发板是 Arduino* 认证开发和原型开发板系列中的第一款，基于英特尔® 架构，专为创客、学生、教育工作者和 DIY 电子爱好者设计.
 - [Microduino](https://www.microduino.cc/)  - Microduino 和 mCookie 为各个年龄段的制造商、设计师、工程师、学生和好奇的修补匠带来了强大、小巧、可堆叠的电子硬件. 构建开源项目或创建创新的新项目.
 - [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html)  - NodeMCU 是一个开源的物联网平台. 它使用 Lua 脚本语言. 它基于 eLua 项目，基于 ESP8266 SDK 0.9.5 构建.
@@ -36,7 +36,7 @@
 
 #### Operating systems
 
- - [Apache Mynewt](https://mynewt.apache.org/)  - Apache Mynewt 是一个实时、模块化的操作系统，适用于需要在电源、内存和存储限制下长时间运行的联网 IoT 设备. 提供的第一个连接堆栈是 BLE 4.2.
+ - [Apache Mynewt](https://mynewt.apache.org/) - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
  - [ARM mbed](http://www.mbed.com/) - ARM® mbed™ 物联网设备平台提供操作系统、云服务、工具和开发者生态系统，使大规模创建和部署基于标准的商业物联网解决方案成为可能.
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到互联网.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
@@ -45,20 +45,21 @@
  - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy)  - Snappy Ubuntu Core 是带有事务更新的 Ubuntu 新版本. 它提供了一个最小的服务器映像，其中包含与今天的 Ubuntu 相同的库，但应用程序是通过更简单的机制提供的.
  - [Mbed OS](https://os.mbed.com/)  - 物联网 (IoT) Cortex-M 板的开源操作系统：低功耗、受限和连接.  Mbed OS 为其运行的微控制器提供了一个抽象层，因此开发人员可以编写在任何支持 Mbed 的板上运行的 C/C++ 应用程序.
  - [NodeOS](http://node-os.com/) - NodeOS 是一个完全用 Javascript 编写的操作系统，由 npm 在 Linux 内核之上管理.
- - [Raspbian](https://raspbian.org/) - Raspbian 是基于 Debian 的免费操作系统，针对 Raspberry Pi 硬件进行了优化.
+ - [Raspbian](https://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
  - [RIOT](http://www.riot-os.org/) - 物联网友好的操作系统.
  - [Tiny OS](https://github.com/tinyos/tinyos-main) - TinyOS 是一个开源的、获得 BSD 许可的操作系统，专为低功耗无线设备而设计，例如用于传感器网络、普适计算、个人区域网络、智能建筑和智能电表的设备.
+ - [Toit](https://toit.io/) - Toit 平台结合了以稳健、有弹性的方式为您的设备提供服务的功能，让您可以控制您的设备和数据，以及在您的网络上随时可用的无线固件和应用程序更新- 连接的嵌入式设备.
  - [UBOS](https://ubos.net/)  - UBOS 是一个 Linux 发行版，专注于简化家庭服务器和运行 Web 应用程序的独立物联网设备的系统管理.  Arch Linux 的衍生产品，可在 PC、Raspberry Pis、ESPRESSObin 和云上运行.
  - [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT 是 Windows 10 版本系列，面向广泛的智能设备，从小型工业网关到更大更复杂的设备，如销售点终端和 ATM.
-  - [Zephyr Project](https://www.zephyrproject.org/) - Zephyr™ 项目是一个可扩展的实时操作系统 (RTOS)，支持多种硬件架构，针对资源受限的设备进行了优化，并在构建时考虑了安全性.
+  - [Zephyr Project](https://www.zephyrproject.org/) - The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
 #### Programming languages
 
 &gt; 本节重新组合了所有与嵌入式开发相关的出色编程语言，无论是编译型、解释型还是 DSL.
 
- - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - 一种通用的命令式计算机编程语言，支持结构化编程、词法变量范围和递归，而静态类型系统可防止许多意外操作.
- - [C++](https://en.wikipedia.org/wiki/C%2B%2B)  - 一种通用编程语言. 它具有命令式、面向对象和通用编程特性，同时还提供了低级内存操作的工具.
- - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉且易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
+ - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+ - [C++](https://en.wikipedia.org/wiki/C%2B%2B) - A general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+ - [Groovy](http://www.groovy-lang.org/)  - Groovy 是一种强大的、可选类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉和易于学习的语法提高开发人员的生产力.  SmartThings 开发环境使用它来创建智能应用程序.
  - [Lua](http://www.lua.org/)  - Lua 是一种强大、快速、轻量级、可嵌入的脚本语言.  Lua 是动态类型的，通过解释基于寄存器的虚拟机的字节码运行，并具有自动内存管理和增量垃圾收集，使其成为配置、脚本和快速原型设计的理想选择.
  - [eLua](http://www.eluaproject.net/) - eLua 代表 Embedded Lua，该项目为嵌入式世界提供 Lua 编程语言的完整实现，并通过特定功能对其进行扩展，以实现高效和可移植的软件嵌入式开发.
  - [ELFE](http://c3d.github.io/elfe/)  - ELFE 是一种非常简单且小型的编程语言. 虽然它是一种通用编程语言，但它经过专门调整以促进对传感器或执行器等小型设备群的配置和控制.
@@ -66,11 +67,12 @@
  - [PharoThings](https://github.com/pharo-iot/PharoThings) - 基于物联网项目的实时编程平台 [Pharo](https://pharo.org/) （一种纯面向对象的编程语言和强大的环境，专注于简单性和即时反馈）.
  - [Rust](https://www.rust-lang.org/)  - Rust 是一门专注于性能、可靠性和生产力的语言. 它以安全着称，它是内存安全的，它使用借用检查器，并发性也是安全的.
  - [TinyGo](https://tinygo.org/)  - TinyGo 是一个通过创建基于 LLVM 的新编译器将 Go 编程语言引入微控制器和现代 Web 浏览器的项目. 您可以在许多不同的微控制器板上编译和运行 TinyGo 程序，例如 BBC micro:bit 和 Arduino Uno.
+ - [Toitlang](https://toitlang.org/)  - 是一种高级语言，其语法非常接近 Python. 由于它是根据微控制器的第一原理构建的，因此它至少比 MicroPython 快 20 倍. 他们还构建了一个巧妙的 IDE 集成.
 
 #### Frameworks
 
  - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn 是一个开源软件框架，可让设备和应用程序轻松发现彼此并进行通信.
- - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
+ - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit 是一个框架，用于与用户家中的连接配件进行通信和控制.
  - [AREG SDK](https://github.com/aregtech/areg-sdk) - AREG SDK 是一个以接口为中心的实时异步通信引擎，可实现分布式和 [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)计算，连接的事物在其中交互并提供服务，就好像它们就像瘦分布式服务器一样.
  - [Astarte](https://github.com/astarte-platform/astarte)  - Astarte 是一个用 Elixir 编写的开源物联网平台. 它是一个交钥匙解决方案，包含将设备组连接到一组远程应用程序所需的一切. 它执行数据建模、自动数据缩减、实时事件，并为您提供您在现代物联网平台中可能期望的任何功能. 目前，Linux 和 ESP32 设备使用提供的 SDK 即可获得支持.
  - [Blynk](http://www.blynk.cc)  - Blynk 是一个为连接的事物创建 iOS 和 Android 应用程序的平台. 您可以通过简单地拖放小部件（就在智能手机上）轻松地为所有项目构建图形界面. 支持以太网、WiFi、蓝牙、GSM/GPRS、USB/串行连接，可与 Arduino、Raspberry、ARM mbed、Particle、RedBear 等各种原型平台连接.
@@ -98,9 +100,9 @@
 #### Middlewares
 
  - [Corlysis](https://corlysis.com/)  - Corlysis 是一个平台，可帮助您存储和可视化您的时间序列数据. 它基于 SpaceX 使用的开源项目 Grafana 和 InfluxDB.
- - [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
+ - [IFTTT](https://ifttt.com/)  - IFTTT 是一项基于 Web 的服务，它允许用户创建称为“食谱”的简单条件语句链，这些语句是基于对其他 Web 服务（如 Gmail、Facebook、Instagram 和 Pinterest）的更改而触发的.  IFTTT 是“If This Then That”的缩写（读作“gift”，不带“g”）.
  - [OPC Router](https://www.opc-router.com/opc-router-details/) - 具有各种插件的物联网网关（OPC UA、Mqtt、SQL、REST、SAP、InfluxDB、打印机等）
- - [Huginn](https://github.com/cantino/huginn) - Huginn 是一个系统，用于构建代理，为您在线执行自动化任务.
+ - [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
  - [Kaa](http://www.kaaproject.org/) - 用于快速创建物联网解决方案的开源中间件平台.
  - [Losant](https://losant.com)  - Losant 是一个易于使用且功能强大的开发者平台，旨在帮助您快速安全地构建复杂的连接解决方​​案.  Losant 使用 REST 和 MQTT 等开放通信标准来提供从一台到数百万台设备的连接.  Losant 提供强大的数据收集、聚合和可视化功能，以帮助理解和量化大量传感器数据.  Losant 的拖放式工作流编辑器允许您触发操作、通知和机器对机器通信，而无需编程.
  - [MicroServiceBus.com](https://microservicebus.com)  - MicroServiceBus.com 是 Azure、AWS 和 IBM IoT Hub 的设备管理平台，与 GitHub、ServiceNow、Cisco Jasper 等集成. 它与企业产品一起提供免费（有限）版本.
@@ -112,7 +114,7 @@
  - [Thingspeak](https://thingspeak.com/)  - 一种开源物联网分析平台服务，可让您聚合、可视化和分析云中的实时数据流. 您可以从您的设备向 ThingSpeak 发送数据，创建实时数据的即时可视化，并发送警报.
  - [VerneMQ](https://github.com/erlio/vernemq)  - VerneMQ 是一个高性能的分布式 MQTT 代理，可连接 IoT、M2M、移动和 Web 应用程序. 它在商品硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle)  - 具有实时发布/订阅或地理围栏等高级功能的开源后端以及支持 MQTT、LoRaWAN 等的多协议接口.  ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
- - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
+ - [DevicePilot](https://www.devicepilot.com) - 连接设备的操作分析（包括永久免费层）.
  - [EMQX](https://www.emqx.io/)  - 一个超可扩展的开源 MQTT 代理. 在一个集群中连接 100M+ 台 IoT 设备，以 1M msg/s 的吞吐量和 1ms 的延迟移动和处理实时 IoT 数据.
  - [Waterstream](https://waterstream.io/) - MQTT 代理利用 Apache Kafka 作为自己的存储和分发引擎.
  - [NanoMQ](https://github.com/nanomq/nanomq) - 用于 IoT Edge 平台的轻量级和超快的 MQTT 代理.
@@ -142,7 +144,7 @@
 #### Miscellaneous
 
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button 是一款连接 Wi-Fi 的设备，只需按一下按钮即可重新订购您喜爱的商品.
- - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建器.
+ - [Freeboard](http://freeboard.io/) - 实现直观拖放界面的实时交互式仪表板和可视化创建者.
  - [Nebula](http://nebula.readthedocs.io) - 一个用于管理物联网设备的 docker 编排器.
  - [Gladys](https://gladysassistant.com) - Gladys 是一个在树莓派上运行并集成到整个家庭网络系统中的开源程序.
  - [authBroker](https://github.com/authbroker/authbroker) - Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter，如 Aedes.
@@ -158,7 +160,7 @@
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BluetoothLogo.svg/770px-BluetoothLogo.svg.png" /> - [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) (Bluetooth Special Interest Group)
 
-蓝牙是一种无线技术标准，用于从固定和移动设备进行短距离数据交换（使用 ISM 频段 2.4 至 2.485 GHz 的短波长 UHF 无线电波），以及构建个人区域网络 (PAN). 它由电信供应商爱立信于 1994 年发明，最初被设想为 RS-232 数据电缆的无线替代品. 它可以连接多个设备，克服同步问题.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth)
+蓝牙是一种无线技术标准，用于从固定和移动设备进行短距离数据交换（使用 ISM 波段 2.4 至 2.485 GHz 的短波长 UHF 无线电波），以及构建个人区域网络 (PAN). 它由电信供应商爱立信于 1994 年发明，最初被设想为 RS-232 数据电缆的无线替代品. 它可以连接多个设备，克服同步问题.  - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth)
 
 &gt; 蓝牙由蓝牙特别兴趣小组 (SIG) 管理，该组织在电信、计算、网络和消费电子领域拥有 25,000 多家成员公司.
 
@@ -186,7 +188,7 @@
 &gt; NB-IoT 是专为物联网 (IoT) 设计的窄带无线电技术，是由第三代合作伙伴计划 (3GPP) 标准化的一系列移动物联网 (MIoT) 技术之一.
 
 
- Sigfox 是一家法国公司，它建立无线网络以连接低能耗物体，例如电表、智能手表和洗衣机，这些物体需要持续开启并发出少量数据. 它的基础设施旨在为所谓的物联网 (IoT) 做出贡献.  - [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
+Sigfox is a French firm that builds wireless networks to connect low-energy objects such as electricity meters, smart watches, and washing machines, which need to be continuously on and emitting small amounts of data. Its infrastructure is intended to be a contribution to what is known as the Internet of Things (IoT). - [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
 
  &gt; SIGFOX 将自己描述为“第一家也是唯一一家为物联网提供全球蜂窝连接的公司”. 它的基础设施“完全独立于现有网络，例如电信网络”.  SIGFOX 旨在为“部署数十亿个对象和数千个新用途”提供手段，其长期目标是“让日常对象产生 PB 级的数据”.
 
@@ -201,14 +203,14 @@
 
  6LoWPAN 是 IPv6 over Low power Wireless Personal Area Networks 的首字母缩写词.  6LoWPAN 是 IETF 互联网领域已结束工作组的名称.  - [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
-> The 6LoWPAN concept originated from the idea that "the Internet Protocol could and should be applied even to the smallest devices,"and that low-power devices with limited processing capabilities should be able to participate in the Internet of Things.
+&gt; 6LoWPAN 概念源于“互联网协议可以而且应该应用于最小的设备”的理念，处理能力有限的低功耗设备应该能够参与物联网.
  6LoWPAN 组定义了封装和报头压缩机制，允许通过基于 IEEE 802.15.4 的网络发送和接收 IPv6 数据包.  IPv4 和 IPv6 是用于局域网、城域网和广域网（如 Internet）的数据传输的工作平台. 同样，IEEE 802.15.4 设备在无线域中提供传感通信能力. 但是，这两个网络的固有性质是不同的.
 
 #### <img width="50" src="https://www.threadgroup.org/portals/0/images/contact/img1.svg" /> - [Thread](http://threadgroup.org/) (Thread Group)
 
 Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络上进行通信.
 
-> In July 2014 Google Inc's Nest Labs announced a working group with the companies Samsung, ARM Holdings, Freescale, Silicon Labs, Big Ass Fans and the lock company Yale in an attempt to have Thread become the industry standard by providing Thread certification for products. Other protocols currently in use include ZigBee and Bluetooth Smart.
+ &gt; 2014 年 7 月，谷歌公司的 Nest Labs 宣布与三星、ARM Holdings、飞思卡尔、Silicon Labs、Big Ass Fans 和锁具公司耶鲁等公司组成一个工作组，试图通过为产品提供 Thread 认证，让 Thread 成为行业标准. 当前使用的其他协议包括 ZigBee 和蓝牙智能.
  Thread 使用 6LoWPAN，后者又使用 IEEE 802.15.4 无线协议和网状通信，ZigBee 和其他系统也是如此. 然而，Thread 是 IP 可寻址的，具有云访问和 AES 加密. 它支持网络上的 250 多个设备.
 
 
@@ -305,8 +307,8 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许工业环境语�
 ### Alliances
 
 - [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - 物联网创新 (AIOTI) 旨在加强不同物联网参与者（工业、中小企业、初创公司）和部门之间的联系并建立新的关系.
-- [Bluetooth Special Interest Group](https://www.bluetooth.com/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
-- [IPSO Alliance](http://www.ipso-alliance.org/) - IPSO 联盟通过培养意识、提供教育、促进行业、开展研究以及更好地理解知识产权及其在物联网中的作用，为行业发展奠定了基础.
+- [Bluetooth Special Interest Group](https://www.bluetooth.com/) - 蓝牙特别兴趣小组 (SIG) 是监督蓝牙标准开发以及蓝牙技术和商标向制造商许可的机构.
+- [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
 - [LoRa Alliance](https://www.lora-alliance.org/)  - LoRa 联盟是一个开放的、非营利的成员协会，它相信物联网时代已经到来. 它由行业领导者发起，其使命是标准化世界各地部署的低功耗广域网 (LPWAN)，以支持物联网 (IoT)、机器对机器 (M2M) 和智慧城市以及工业应用.
 - [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/)  - OPC 基金会的使命是管理一个全球性组织，用户、供应商和联盟在该组织中协作，为工业自动化中的多供应商、多平台、安全和可靠的互操作性创建数据传输标准. 为了支持这一使命，OPC 基金会
 创建和维护规范，通过认证测试确保符合 OPC 规范，并与行业领先的标准组织合作.

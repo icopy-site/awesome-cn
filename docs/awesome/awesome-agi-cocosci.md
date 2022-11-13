@@ -117,7 +117,7 @@
 
 #### Explanation
 
-* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于溯因的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于其将新思想引入当前知识的潜力.
+* [Abduction](https://plato.stanford.edu/entries/abduction/index.html)  - ***柏拉图斯坦福***. 一个关于绑架的计算哲学帐户，是除归纳和演绎之外的三种思维模式之一，其独特之处在于它具有将新思想引入当前知识的潜力.
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图斯坦福***. 关于科学解释的计算哲学帐户，是绑架的规范应用.
 
@@ -307,7 +307,7 @@
 
 * [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***查普曼和霍尔/CRC***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689&hl=en&as_sdt=0,5) ]. 唐鲁宾关于贝叶斯模型的介绍性书籍.
 
-* [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***国际计算机视觉杂志***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240&hl=en&as_sdt=0,5) ].  Song-Chun Zhu 的关于基于能量的生成纹理建模的原始论文.
+* [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***国际计算机视觉杂志***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240&hl=en&as_sdt=0,5)]. Song-Chun Zhu's original paper on energy-based generative texture modeling.
 
 * [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***心理学年度评论***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1611451804975333652) ].  Alan Yuille 对贝叶斯物体感知的评论.
 
@@ -395,7 +395,9 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里 (Susan Carey) 的关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种关于知识和意义起源的观点对认知科学的广泛影响.
+
+* [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ].  Alison Gopnik 关于理论理论的原始论文.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里关于儿童发展概念理论的扩展书.
 
@@ -414,7 +416,7 @@
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大型语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会的交易***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
 
 
 
@@ -837,7 +839,7 @@
 
 * [Intensive tool-practice and skillfulness facilitate the extension of body representations in humans](https://www.sciencedirect.com/science/article/pii/S0028393214000232) - ***神经心理学***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=10578024091098127929&hl=en&as_sdt=0,5)].
 
-* [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027) - ***心理评论***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=3284942486402374505&hl=en&as_sdt=0,5) ]. 关于人类工具使用和可供性的经典评论.
+* [Tool use and affordance: Manipulation-based versus reasoning-based approaches](https://psycnet.apa.org/doiLanding?doi=10.1037%2Frev0000027) - ***心理评论***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=3284942486402374505&hl=en&as_sdt=0,5)]. A classic review on human tool use and affordance.
 
 * [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://escholarship.org/uc/item/5gf0m7x3) - ***CogSci&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9713842177532954702)].
 
@@ -1238,7 +1240,7 @@
 
 * [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理评论***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ].  Thomas Griffiths 对因果贝叶斯理论归纳的评论.
 
-* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5)]. A computatinoal account on causal transfer.
+* [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
 * [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***认知科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -1281,7 +1283,7 @@
 
 * [Representations of Commonsense Knowledge](https://www.sciencedirect.com/book/9781483207704/representations-of-commonsense-knowledge) - ***摩根考夫曼***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=8861902735724600978&hl=en&as_sdt=0,5) ]. 一本关于常识知识的经典书籍.
 
-* [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5)]. The original paper on visual commonsense.
+* [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5) ]. 关于视觉常识的原始论文.
 
 * [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - *** ACM 通讯***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203&hl=en&as_sdt=0,5) ].  Gary Marcus 对人工智能常识知识的评论.
 
@@ -1415,7 +1417,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种计算哲学对附带性的解释，其中一组属性 A 附带在另一组 B 上，以防万一没有两个事物在 A 属性方面有所不同，而在 B 属性方面也有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于一种研究传统，可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对方通过问答来讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 一种关于对话逻辑的计算哲学帐户，这是一种基于对话的逻辑和论证方法，这种方法植根于可追溯到希腊古代辩证法的研究传统，当时问题是通过对话来解决的，在对话中，对方通过问答讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1557,7 +1559,7 @@
 
 * [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X) - ***数学心理学杂志***，2017年. [[All Versions](https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8036476579458645432&scipsc=)].
 
-* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5) ]. 零样本学习的全面回顾.
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5)]. A comprehensive review on zero-shot learning.
 
 * [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM 计算调查***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464&hl=en&as_sdt=0,5)].
 

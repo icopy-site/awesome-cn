@@ -8,7 +8,7 @@
 
 The [Coq proof assistant](https://coq.inria.fr) 提供了一种形式语言来编写数学定义、可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) 第一的.
 
 
 
@@ -38,7 +38,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - Proof General 的 Coq 模式的 IDE 扩展.
 - [jsCoq](https://github.com/ejgallego/jscoq) - Coq 到 JavaScript 的移植，它允许在浏览器中运行 Coq 项目.
 - [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq 支持 Jupyter Notebook Web 环境.
-- [VsCoq](https://github.com/coq-community/vscoq) - Visual Studio Code 和 VSCodium 编辑器的扩展.
+- [VsCoq](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
 
 ### Libraries
 
@@ -115,7 +115,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
   - [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - 自动最小化产生错误的源文件，为 Coq 错误创建小测试用例.
   - [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - 处理源文件以使依赖项的加载对文件名的阴影具有鲁棒性.
   - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载，从开发中创建独立的源文件.
-  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - Removes loading of unused dependencies.
+  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
   - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
   - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提升许多白话命令和内部引理.
   - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释以加快并行证明.
@@ -159,6 +159,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [CompCert](http://compcert.inria.fr) - 几乎所有 C 语言 (ISO C99) 的高保证编译器，为 PowerPC、ARM、RISC-V 和 x86 处理器生成高效代码.
 - [Ceramist](https://github.com/certichain/ceramist) - 经验证的基于散列的近似成员结构，例如布隆过滤器.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - 加密原始代码生成.
+- [Functional Algorithms Verified in SSReflect](https://github.com/clayrat/fav-ssr) - 用于搜索、排序和其他基本问题的算法的纯功能验证实现.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - 验证 OCaml 实现的用于在图中进行增量循环检测的算法.
 - [Jasmin](https://github.com/jasmin-lang/jasmin) - 用于高保证和高速密码学的形式化语言和经过验证的编译器.
 - [JSCert](https://github.com/jscert/jscert) - 带有经过验证的参考解释器的 ECMAScript 5 (JavaScript) 的 Coq 规范.
@@ -182,7 +183,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Official Coq wiki](https://github.com/coq/coq/wiki)
 - [Official Coq Twitter](https://twitter.com/CoqLang)
 - [Coq Zulip chat archive](https://coq.gitlab.io/zulip-archive/)
-- [Coq subreddit](https://www.reddit.com/r/coq/)
+- [Coq subreddit](https://www.reddit.com/r/Coq/)
 - [Coq tag on Stack Overflow](https://stackoverflow.com/questions/tagged/coq)
 - [Coq tag on Theoretical Computer Science Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq)
 - [Coq tag on Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/questions/tagged/coq)
@@ -221,11 +222,11 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 ### Course Material
 
-- [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑推理 Coq 中的顺序命令式程序.
+- [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - Introduction to using separation logic to reason about sequential imperative programs in Coq.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
 - [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - 形式化以支持计算理论的本科课程，包括语言和图灵机.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - 软件基础系列教科书的材料，包括一系列 YouTube 视频.
-- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2021/) - 介绍使用 Coq 开发和验证程序.
+- [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2022/) - 介绍使用 Coq 开发和验证程序.
 
 ### Tutorials and Hints
 

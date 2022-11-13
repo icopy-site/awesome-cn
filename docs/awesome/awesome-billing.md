@@ -10,7 +10,7 @@
 
 <p>任何公司都需要在某一时刻从客户那里获得资金. 那时我们开发人员的事情变得一团糟，因为我们试图协调业务的复杂性与我们的软件堆栈.</p>
 
-<p>这<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
+<p>这个<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
 
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
@@ -26,31 +26,31 @@
 
 <!--lint disable double-link-->
 
-该知识库涵盖了云堆栈右侧的第一个柱状边界. 它是生态系统的横向支柱之一，客户、产品和业务在这里相遇. 这 [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/).
+计费是生态系统的横向支柱之一，客户、产品和业务在这里相遇. 这 [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/).
 
 <!--lint enable double-link-->
 
-在这里，我们列出了全局：域的定义和战略重要性，以及一些关键特征.
+这凸显了该领域的战略重要性，不仅对于云提供商，而且对于几乎所有企业，尤其是那些以软件为中心的企业.
 
-- [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) - 链接到*计费和成本管理* 部分.
-
-- [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - 为了优化投资回报率，将所有常规工作负载保留在传统架构中，并为弹性和实验性项目保留云计算.
+- [Pricing, my only growth hack at Qonto](https://getlago.substack.com/p/pricing-my-only-growth-hack-at-qonto?s=r)  - 大多数企业不知道如何迭代定价：销售团队在没有负责实施的人员参与的情况下决定定价，这最终让所有人都感到沮丧. 这就是为什么您需要将计费视为您组织的一项关键功能.
 
 - [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/)  - 对计费系统各个方面的精彩介绍，从货币到发票，包括有关计划更改逻辑的精彩插图. 所有这些主题稍后将在下面的专门部分中详细介绍.
 
- - 如何招聘该领域的软件工程师？  “诀窍是让会计/计费/支付部门成为数据工程的反面.”  ([source](https://twitter.com/kdeldycke/status/1422564355799924736))
+- [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) - 链接到*计费和成本管理* 部分，该部分详细说明了云提供商计费的广泛特征.
+
+ - 如何招聘该领域的软件工程师？  “诀窍是让会计/计费/支付部门成为数据工程的前厅.”  ([source](https://twitter.com/kdeldycke/status/1422564355799924736))
 
 ## Pricing
 
 从每月订阅到类似商品的移动消费，有很多方案来构建您的产品定价. 包括旧的购物车漏斗.
 
-- [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - 不仅是庞大而完整的定价方案集合，还有对收入模型的心理效应和影响.
+- [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - 庞大而完整的定价方案集合，以及它们对收入模型的心理影响和影响.
 
-- [Business Model Patterns](https://reasonstreet.co/business-model-library/) - 销售产品和服务的 11 种不同方式的列表.
+- [Business Model Patterns](https://reasonstreet.co/business-model-library/) - 列出 15 种不同的产品和服务销售方式.
 
 - [Axial - Business models](https://axial.substack.com/p/axial-business-models) - 38 种灵感模型.
 
-- [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6种依靠网络效应的变现模式.
+- [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 models of monetization relying on network effect.
 
 ### Usage-based Pricing
 
@@ -58,11 +58,15 @@
 
 - [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商为每个人的最大利益行事.” 还详细说明了其他定价模型的问题.
 
+- [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - 基于使用的定价对云服务更有意义的原因是：优化投资回报率，将所有常规工作负载保留在传统架构中，并为弹性和实验性项目保留云计算.
+
 - [Socially Optimal Pricing of Cloud Computing Resources](https://webee.technion.ac.il/people/shimkin/PAPERS/Menache-CloudPricing-Conf2011.pdf)  - “社会最优运营点是独一无二的，可以通过线性的、基于使用的关税来维持，该关税对每单位资源和单位时间收取固定价格.” 本文证明了基于使用的云资源定价是合理的.
 
 - [A Survey of Profit Optimization Techniques for Cloud Providers](https://dl.acm.org/doi/fullHtml/10.1145/3376917) - “首先讨论提高用户服务质量的策略，然后讨论云资源的定价策略以最大化收入.”
 
  - “计费并不是故意复杂的：这是为弹性付出的代价.”  ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - 或者为什么如果选择公用事业定价方案，您可能会收到源源不断的抱怨用户：虽然精确到（毫）美分，但这种模式对于没有准备好花时间掌握基本概念的客户来说是令人沮丧的.
+
+- [Octane's Meter Types](https://docs.getoctane.io/docs/meter-types#gauges) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
 
 - [Riemann sum](https://en.wikipedia.org/wiki/Riemann_sum) - 关于使用量化的起点.
 
@@ -76,13 +80,17 @@
 
 - [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - 基于使用的定价更加优化和公平：它“允许客户以低成本开始，最大限度地减少开始时的摩擦，同时仍然保留随着时间的推移通过客户获利的能力”.
 
-- [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform&part=691)  - 在云之前，还有另一种按使用量定价的计量资源：电力. 这是国际电工委员会对其词汇量的详细（和多语言）分类.
+- [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform&part=691)  - 在云之前，还有另一种按使用量定价的计量资源：电力. 这是国际电工委员会对其词汇的详细（和多语言）分类.
+
+- [Lago](https://github.com/getlago/lago) - 开源计量和基于使用的计费.
 
 ### Subscription Plans
 
 在 SaaS 企业中非常受欢迎，订阅计划很容易理解.
 
-- [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “在低接触 SaaS 中，最常见的软件包呈现方式是定价网格中的不同列，每一列对应于一个计划，以不同的价格提供，具有对功能的不同访问权限或沿某个轴的最大允许使用量对企业来说很有趣.”
+- [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “在低接触 SaaS 中，最常见的软件包呈现方式是定价网格中的不同列，每一列对应于一个计划，以不同的价格提供，具有不同的功能访问权限或沿某个轴的最大允许使用量对企业来说很有趣.”
+
+- [Lotus](https://github.com/uselotus/lotus) - 管理定价和包装基础设施的开源项目.
 
 - [`f-license`](https://github.com/furkansenharputlu/f-license) - Go 中的开源许可证密钥生成和验证工具.
 
@@ -90,7 +98,7 @@
 
 不常见的定价方案.
 
-- [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费层组件.
+- [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费层级.
 
 - [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - 上限实际值：每月滚动，优化的定价方案，以限制来自客户的惊喜，我们或多或少地销售配额.
 
@@ -103,6 +111,8 @@
 - [Pricing Psychology](https://www.nickkolenda.com/psychological-pricing-strategies/)  - 你应该使用哪些数字？ 应该多高？ 应该是圆的吗？ 本指南有 42 个技巧可帮助您选择最优惠的价格.
 
 - [The 7 factors to consider when pricing your startup product](https://tomtunguz.com/how-to-price-your-startups-product/) - 定价是一种令人反感的工具，可以增强您的产品价值并强调公司的核心营销信息.
+
+- [The Anatomy of SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) - 解释如何围绕产品战略阐明 SaaS 业务的定价.
 
 - [The cup-of-coffee pricing fallacy](https://blog.gingerlime.com/2020/the-cup-of-coffee-pricing-fallacy/) - 解释为什么这是一个草率的类比.
 
@@ -124,7 +134,7 @@
 
 ## Product Catalog
 
-可供客户购买的所有可用服务、产品、变体、选项和定价的中央存储库. 云服务的目录大部分时间都是量身定制的，但也有一些经典的 PDM 解决方案（[Product Data Management](https://en.wikipedia.org/wiki/Product_information_management)，又名用于产品信息管理的 PIM）可能符合要求.
+The central repository of all available services, products, variants, options and pricing available to the customer to purchase. Catalogs for cloud services are most of the time tailor-made, but there is some classic PDM solutions ([Product Data Management](https://en.wikipedia.org/wiki/Product_information_management)，又名用于产品信息管理的 PIM）可能符合要求.
 
 - [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - 所有 GCP SKU 作为 API 提供.
 
@@ -134,7 +144,7 @@
 
 - [OpenPIM](https://www.openpim.org) - 一个精简的开源项目，专注于 PIM-only 功能.
 
-- [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - Comparative study of the 3 projects above.
+- [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - 上述三个项目的比较研究.
 
 ## Calculator
 
@@ -154,7 +164,7 @@
 
 - [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) - 讨论 Uber 如何在其财务规划平台中应用数据科学和机器学习.
 
-- [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪一个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/))，似乎值得检查以在考虑季节性的同时实施成本预测工具.
+- [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/))，似乎值得检查以在考虑季节性的同时实施成本预测工具.
 
 - [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb)  - 关于如何使用过去数据进行时间前向预测的教程. 并阅读 [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) 上面提到的.
 
@@ -188,7 +198,7 @@
 
 - [Pricing of Service in Clouds: Optimal Response and Strategic Interactions](http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf)  - “消费者应如何调节其需求以优化其利润？  （……）供应商和消费者应如何协商他们将采用的具体定价结构？” 涵盖非线性模型、分层定价、弹性需求、消费者和供应商策略.
 
-- [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf) - “Amazon's spot price is unlikely to be set according to market supply and demand. Rather, price oscillates within a very narrow band most of the time, which is more likely to be an artifact of some pricing algorithm with predetermined reserve price.”
+- [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf)  - “亚马逊的现货价格不太可能根据市场供求情况而定. 相反，价格大部分时间都在一个非常窄的区间内波动，这更有可能是某些定价算法的产物，具有预定的底价.”
 
 - [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf)  - “我们研究了云计算中的供需经济学.  （……）这些结果解释了为什么目前固定价格占主导地位，尽管似乎需要时变动态. 检查实际的 CPU 利用率为未来提供了一个视角.  (...) 需求波动将与动态定价很重要的三个经典行业（酒店、电力、航空公司）相提并论，而动态价格对效率至关重要.”
 
@@ -198,15 +208,15 @@
 
  - “你总是支付现货市场价格，而不是你的出价.”  ([source](https://news.ycombinator.com/item?id=20347716)) - 投标机制的简单说明.
 
-- [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一个应对这一挑战的云提供商，它允许客户竞标备用容量，并在竞标者的出价超过定期变化的现货价格时向他们提供资源.”
+- [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf)  - “拥有大量备用容量的云提供商必须要么激励客户购买它，要么遭受损失. 亚马逊是第一个应对这一挑战的云提供商，它允许客户竞标备用容量，并在竞标者的出价超过定期变化的现货价格时向竞标者授予资源.”
 
-- [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “Google's prices are fixed, whereas AWS uses a market model”.
+- [GCP Preemptible VMs vs AWS Spot Instances](https://news.ycombinator.com/item?id=9564287) - “谷歌的价格是固定的，而 AWS 使用的是市场模式”.
 
  - “查看 3 个月的现货价格历史记录以估算成本并发现可用区和实例类型与额外容量的组合.”  ([source](https://news.ycombinator.com/item?id=16071684)) - 用户正在寻求现货市场的更多透明度.
 
 - [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html) - 当你足够大时 [creating an internal secondary market](https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5) 例如，具有经济意义.
 
-- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances.
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - 可轻松可靠地将（所有）现有 AutoScaling 组转换为更便宜的 Spot 实例的工具.
 
 ### Online Ads
 
@@ -228,7 +238,7 @@
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中实现.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表的形式查看会计，然后这些变动如何在小公司的财务报表中实现.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它增加了报告和实施细节.
 
@@ -240,11 +250,13 @@
 
 - [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护企业交易的日常操作.
 
+- [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/)  - “对账是一个业务流程，几乎完全是因为在企业之间传递资金的管道中缺乏结构化数据.” 简化流程的技巧是：添加任意折扣以产生唯一的尾随小数，设置几个虚拟银行账户作为代理，
+
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - 广泛的开源个人理财项目列表，这些项目可能非常适合寻找复式记账和簿记的灵感.
 
 - 以及图形会计工具列表： [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) （C）， [Firefly III](https://firefly-iii.org) （PHP）.
 
-- [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
+- [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - 使用 GnuCash 进行个人财务跟踪的完整教程.
 
 - [Frappe Books](https://github.com/frappe/books) - 适用于小型企业和自由职业者的免费桌面簿记软件.
 
@@ -265,6 +277,8 @@
 - [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html)  - 计费和会计系统背后的设计决策. 要点：一些公司仍然通过支票付款； 不要使用花车； 复杂的客户工作流程； 日期和时间问题； 可变数据.
 
 - [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - 解释在 Square 内部使用 Google Spanner 的复式记账系统的基本数据模型.
+
+- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - 一个分布式财务会计数据库，以确保资金要么移动，要么不动，它不会在两者之间的某个地方丢失.
 
 - [Django Hordak](https://django-hordak.readthedocs.io) - Django 复式记账系统的核心功能.
 
@@ -324,7 +338,7 @@
 
 - [Global VAT & GST on digital services](https://www.avalara.com/vatlive/en/global-vat-gst-on-e-services.html) - 要求对外国提供的在线服务征税的国家名单.
 
- - “英国超市（……）向您收取后端卡处理费用，但他们会从您的结账价格中扣除该费用.”  ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
+- “British supermarkets (…) charge you a fee for their backend card processing, but they subtract that fee from your checkout price.” ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
 
 - [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - 一项美国多州倡议，旨在实现销售税会计和征收的自动化和标准化.
 
@@ -340,11 +354,23 @@
 
 发票实现消费的服务或购买的产品，等待通过支付交易结算.
 
-- [On GCP invoiced billing](https://news.ycombinator.com/item?id=17517479) - [Invoiced billing](https://cloud.google.com/billing/docs/how-to/invoiced-billing) （客户在使用服务并开具发票后进行 B2B 友好付款）是 GCP 的一个痛点.
+- [On GCP invoiced billing](https://news.ycombinator.com/item?id=17517479) - [Invoiced billing](https://cloud.google.com/billing/docs/how-to/invoiced-billing) 是在使用服务并开具发票后发生的 B2B 友好型付款. 在 GCP 上设置似乎很痛苦，但我怀疑这是试图减少（代价高昂的）欺诈的结果.
+
+### Structure
+
+- [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - 关于增值税共同制度的理事会指令 2006/112/EC 第 226 条第 4 节（发票内容）详细说明了欧盟发票所需的信息.
+
+### Integrity
+
+一旦开具，发票必须是不可变的.
 
 - [Digital signatures: how Sleek leverages Cloud HSM to guarantee the integrity of legal documents](https://medium.com/google-developers/digital-signatures-how-sleek-leverages-cloud-hsm-to-guarantee-the-integrity-of-legal-documents-a7bd3b82faf6)  - 这是依靠 GCP 的 HSM 对文档进行数字签名并提供不可变审计跟踪的好方法. 可能适用于发票和合同协议.
 
 - [OpenTimestamps](https://opentimestamps.org) - 超越上述解决方案，直接在比特币区块链上为不可变文档添加时间戳.
+
+- [Credit note](https://en.wikipedia.org/wiki/Credit_note) - 因为发票是不可变的，所以完全或部分取消发票的唯一方法是出示贷方票据.
+
+### Generators
 
 - [Manta](https://github.com/hql287/Manta) - 灵活的发票桌面应用程序，带有漂亮和可定制的模板.
 
@@ -358,7 +384,11 @@
 
 - [Refact](http://en.userstudio.fr/projects/refact/) - 一个试图用信息图表修改电话账单的设计项目.
 
+### Extrators
+
 - [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - 深度神经网络从发票文件中提取智能信息.
+
+### Electronic invoices
 
 - [Factur-X](https://github.com/akretion/factur-x) - Python 库支持法国和德国的电子发票标准.
 
@@ -396,7 +426,7 @@
 
 - [The humble receipt gets a brilliant redesign](https://www.fastcompany.com/90347782/the-humble-receipt-gets-a-brilliant-redesign) - 当 Netflix 数据工程师重新访问收据时.
 
-- [The long, long history of long, long CVS receipts](https://www.vox.com/the-goods/2018/10/10/17956950/why-are-cvs-pharmacy-receipts-so-long) - “CVS is a drugstore much like other drugstores, with one important difference: The receipts are very long.”
+- [The long, long history of long, long CVS receipts](https://www.vox.com/the-goods/2018/10/10/17956950/why-are-cvs-pharmacy-receipts-so-long) - “CVS 是一家药店，和其他药店很像，但有一个重要区别：收据很长.”
 
 ### Credit Cards
 
@@ -406,7 +436,7 @@
 
 - [Strong Customer Authentication](https://stripe.com/guides/strong-customer-authentication) - [Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive) 2、解释.
 
-- [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - 一种检查客户帐单地址与信用卡相关帐单地址匹配的系统.
+- [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - 检查客户帐单地址与信用卡关联的帐单地址是否匹配的系统.
 
 - [pci-blackbox](https://github.com/trustly/pci-blackbox) - 基于 PostgreSQL 和 PL/pgSQL 的 PCI-DSS 兼容卡系统.
 
@@ -426,7 +456,9 @@
 
 通常的汇款服务.
 
-- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付接口. 一项已有四年历史的支付方案已占印度数字支付的 40-45%.”
+- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
+
+- [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)  - 过去 2 年的支付 API 中出现的所有错误，现在仍然存在. 本文中暴露的任何未解决的问题最终都将成为赃款.
 
 - [The untold story of Stripe](https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook) - 我们在其中了解到“一旦营业额达到一定水平，Paypal 会自动将业务置于 21 至 60 天的滚动储备中，这意味着公司高达 30% 的收入可能会被锁定长达两个月.”
 
@@ -468,7 +500,7 @@
 
 基于信号集合的综合评分通常是用户可信度的最佳代表. 大多数时候，客户支持依靠他们在这些操作没有自动触发时采取行动.
 
-- [The Secret Trust Scores Companies Use to Judge Us All](https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206) - 我们购买的几乎所有东西、我们购买的方式以及我们从哪里购买的东西都会被秘密地输入人工智能驱动的验证服务，帮助公司防范信用卡和其他形式的欺诈.
+- [The Secret Trust Scores Companies Use to Judge Us All](https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206) - 我们购买的几乎所有东西、我们如何购买以及我们从哪里购买都被秘密地输入到人工智能驱动的验证服务中，帮助公司防范信用卡和其他形式的欺诈.
 
 - [GCP improved account management policies to better support customers](https://cloudplatform.googleblog.com/2018/07/improving-our-account-management-policies-to-better-support-customers.html) - 或者为什么过度依赖欺诈自动化可能会导致用户不满.
 
@@ -492,7 +524,7 @@
 
 - [More than 600 million users installed Android 'fleeceware' apps from the Play Store](https://www.zdnet.com/article/more-than-600-million-users-installed-android-fleeceware-apps-from-the-play-store/) - 一种新的欺诈行为，在试用期结束后，应用程序会默默地向用户收费.
 
-- [CEO Fraud](https://www.knowbe4.com/ceo-fraud) - 负责收取付款的计费团队是此类欺诈的牺牲品，其中 CEO 被冒充以赞扬特殊的付款交易.
+- [CEO Fraud](https://www.knowbe4.com/ceo-fraud) - 负责收取付款的计费团队是这种欺诈的牺牲品，其中 CEO 被冒充以赞扬特殊的付款交易.
 
 - [The Challenges of Operating a Computing Cloud and Charging for its Use](https://web.stanford.edu/class/cs349d/docs/theimer.pdf)  - 跳过 AWS VP 演示的前 90%（关于一般系统可靠性）. 最后四张幻灯片很好地总结了计费云服务的含义，尤其是使用软配额来限制欺诈.
 
@@ -504,7 +536,7 @@
 
 - [Apple Subscriptions HIG](https://developer.apple.com/design/human-interface-guidelines/subscriptions/overview/) - 如何制作的指南和建议 [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) 方便使用的.
 
-- [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - 首先关注购物车中的其他内容，例如通过在信用卡和完成步骤附近添加保证（信任标记、推荐）以及您可能在产品探索早期使用的一些保证语言来缓解焦虑和事后猜测过程.
+- [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - Focus first on other things in the cart, like easing anxiety and second-guessing by adding reassurance (trust marks, testimonials) near the credit card and completion steps, as well as some guarantee language that you may have used earlier in the product exploration process.
 
 ## Business Intelligence
 
@@ -530,11 +562,13 @@
 
 ### Customer Lifetime Value
 
-您为每位客户创造了多少净价值？ 客户生命周期价值（CLV，或 LTV）量化了这一点，理解并采取行动是您企业销售工作中最重要的部分.
+您为每位客户创造了多少净价值？ 客户生命周期价值（CLV，或 LTV 的生命周期价值）量化了这一点. 了解并采取行动是您企业销售工作中最重要的部分.
 
-- [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992)  - “从表面上看，流失率似乎是客户生命周期变化的自然代表. 让我们深入研究为什么这是不正确的.” 流失率不是计算 CLV 的有意义的指标，因为在客户生命周期内，流失概率不是恒定的. 大部分时间是因为您的免费试用和优惠券.
+- [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992)  - “从表面上看，流失率似乎是客户生命周期变化的自然代表. 让我们深入研究为什么这是不正确的.” 流失率不是计算 CLV 的有意义的指标：在客户生命周期中，流失概率不是恒定的. 大部分时间是因为您的免费试用和优惠券. 本文说明了用于对客户退出概率建模的分布的影响.
 
-- [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - 一篇开创性的论文，与上述相比具有更强的方法： [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319)，更适合月度合同.
+- [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - 一篇开创性的论文，与上述相比具有更强的方法： [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319)，它更适合于像月度合同这样的离散时间间隔，前者更适合于连续时间过程.
+
+- [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - 说明如何使用生存函数更好地模拟留存率，例如 [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 
 - [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - CLV 的改进模型，用于根据新近度、频率和货币价值对用户进行细分.
 
@@ -582,11 +616,11 @@
 
 一堆资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
 
+### Cloud providers
+
 - [AWS Cost Management announcements](https://aws.amazon.com/about-aws/whats-new/aws-cost-management/) - 添加到计费边界的所有新功能的来源.
 
-- [AWS reserved instances vs saving plan](https://www.prosperops.com/assets/img/blog/ris_and_savings_plans.png) - 不同方案的特征矩阵及其平均折扣.
-
-- [EC2 Spot Price Tracker](https://github.com/grosskur/ec2price) - 收集和绘制 EC2 现货价格的 Web 应用程序.
+- [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/ris_and_savings_plans.png) - 不同方案的特征矩阵及其平均折扣.
 
 - [GCP billing release notes](https://cloud.google.com/billing/docs/release-notes) - GCP 计费功能的最新变化.
 
@@ -594,33 +628,9 @@
 
 - [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - 最近 GCP 定价功能的总结.
 
-- [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - DO 上的所有最新账单更新.
-
-## Commercial Solutions
-
 - [Orbitera](https://www.orbitera.com) - GCP 的计费子公司.
 
-- [16 Online Subscription Billing Tools](https://www.analyzo.com/search/online-subscription-billing-tools/106) - 订阅和定期计费服务的最新列表.
-
-- [OpenCell](https://opencellsoft.com) - 源自开源电信计费项目的货币化平台.
-
-- [Laravel Spark](https://spark.laravel.com) - 为您不想编码的所有内容提供脚手架的软件包：订阅和团队计费、发票，还有用户帐户功能.
-
-- [Bullet Train](https://bullettrain.co) - 与上述相同，但适用于 Ruby on Rails.
-
-- [ASP.NET Zero](https://aspnetzero.com) - 多租户、身份验证和授权、发票和付款.
-
-- [Nextless JS](https://nextlessjs.com) - 使用 React 和无服务器在 Node.js 中构建 SaaS 产品所需的一切：身份验证和授权、发票和付款.
-
-- [Chargebee](https://www.chargebee.com) - 订阅计费和收入操作.
-
-- [Armatic Billing & Invoicing Software](https://www.armatic.com/billing) - 发票、应收账款.
-
-- [Sensus Billing Access Application](https://sensus.com/products/billing-access/) - 公用事业公司的计费和计量解决方案.
-
-- [Quaderno](https://quaderno.io)  - 计算销售税、增值税和消费税； 自动收据.
-
-- [keygen](https://keygen.sh) - 销售和管理许可证密钥.
+- [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - DO 上的所有最新账单更新.
 
 ## History
 

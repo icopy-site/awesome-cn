@@ -82,7 +82,7 @@
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了负担能力的综合视图，包括住房成本和社区层面的交通成本. 由社区技术中心提供.
 - [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新（2022 年）城市土地研究所特威利格中心家庭可达性指数. 了解房地产市场在多大程度上为区域劳动力提供了一系列选择的资源，为美国选定的社区提供了对广泛因素的见解.
 - [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供社区层面的家庭住房和交通成本估算以及建筑环境和人口统计数据的构成数据来缩小这一差距.  
-- [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
+- [Opportunity Atlas](https://www.opportunityatlas.org/) - 这些 [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
 - [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 将地理校正的房主贷款公司 (HOLC) 地图分层到美国现代底图上的交互式地图. 这些彩色编码的 HOLC 地图是被称为 *redlining* 的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国下 48 个州的主要都市区（1935-1940）.
 - [Justice40](https://screeningtool.geoplatform.gov/en/methodology)  - 该工具的目的是帮助联邦机构识别被边缘化、服务不足和污染负担过重的弱势社区. 在人口普查区域级别结合八类标准的多个数据源. 
 
@@ -126,6 +126,7 @@
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是 FEMA 的在线地图应用程序，用于识别最容易受到 18 种自然灾害影响的社区.
 - [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - 该站点在开放的公共领域提供国家基金会级地理空间数据，可用于支持社区准备、弹性、研究等. 
 - [RAPT](https://rapt-fema.hub.arcgis.com/pages/data)  - 弹性分析和规划工具 (RAPT) 让每个人都可以轻松访问与社区弹性相关的重要社区数据和分析工具.  RAPT 中的社区弹性指标来自社区弹性指标分析 (CRIA).
+- [Adaptation Clearinghouse](https://www.adaptationclearinghouse.org/) - 由乔治城气候中心维护，这是一个广泛的在线数据库和网络站点，为政策制定者和其他致力于帮助社区适应气候变化的人提供服务.
 
 
 ### Transportation
@@ -241,7 +242,7 @@ Python 库和相关资源.
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个建立城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息： 许可证：BSD 许可证：提供者：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据进行地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
-- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+- [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 中抓取共享单车数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
 - [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ）. 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一组 Python 函数，用于从 OpenStreetMap 数据中绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 为 HERE API 提供 Python 接口的库. 
@@ -301,7 +302,7 @@ R 包和相关资源.
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和缓解规划的软件、工具和平台. 
 
-- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 复原力和适应气候图 (CMRA) 整合了来自联邦政府的信息，以帮助人们考虑当地面临的气候相关灾害. 在社区组织或地方、部落、州或联邦政府工作的人们可以使用该网站来帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 该网站还为用户提供了用于气候适应力项目的联邦拨款资金，包括通过《两党基础设施​​法》获得的资金. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
+- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 复原力和适应气候图 (CMRA) 整合了来自联邦政府的信息，以帮助人们考虑当地面临的气候相关灾害. 在社区组织或公共机构工作的人可以使用该网站帮助他们制定公平的气候复原计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的益处和价值. 基于同行评审的美国农业部森林服务研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供并以透明方式开发. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是促进中小型社区的数据知情适应规划过程，几乎没有资源来规划气候变化影响.
@@ -338,7 +339,7 @@ R 包和相关资源.
 
 - [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)  - CityEngine 是先进的 3D 建模软件，与传统建模技术相比，它可以在更短的时间内创建巨大的、交互式的、身临其境的城市环境. 您使用 CityEngine 创建的城市可以基于真实世界的 GIS 数据和有助于快速创建的程序规则 [streets](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 - [SketchUp](https://www.sketchup.com/)  - 易于使用的交互式 3D 建模软件，用于规划和设计应用程序. 由丰富的资产库支持，用于创建社区设计. 
-- [Rhino](https://www.rhino3d.com/)  - 这是一个商业3D计算机图形和计算机辅助设计应用软件.  Rhino 在其上构建了多个插件，包括 Grasshopper 和城市网络分析工具箱，以实现复杂的建模和分析. 
+- [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis. 
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 收集了 20 多种桌面和移动应用程序和服务，用于摄影、设计、视频、Web、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
 - [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，可用于 GNU/Linux、macOS、Windows 和更多操作系统.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形操作工具，通常用作 GIMP 的对应物.
@@ -431,7 +432,7 @@ R 包和相关资源.
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，公民技术领域指南的资源集合已由来自全球 100 多个国家/地区的公民技术从业者众包.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究了新的移动性、自动驾驶汽车、电子商务和其他创新将对城市和社区产生的潜在影响，并对与之相关的各种资源和工具进行分类.
 - [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并提供了如何理解其应用的分类法. 
-- [Digital.Gov](https://digital.gov/) - 关于在政府中建立更好的数字服务的指导和资源.
+- [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
 
 ---
 

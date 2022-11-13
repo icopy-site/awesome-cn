@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="danielecook/Awesome-Bioinformatics"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![URL Check](https://github.com/danielecook/Awesome-Bioinformatics/workflows/URL%20Check/badge.svg) ![TOC](https://github.com/danielecook/Awesome-Bioinformatics/workflows/TOC/badge.svg)
+## Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check URLs](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/url-check.yml/badge.svg)](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/url-check.yml) [![Generate TOC](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/toc.yml/badge.svg)](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/toc.yml)
 
  &gt; 生物信息学是一个跨学科领域，开发用于理解生物数据的方法和软件工具.  — [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
@@ -213,7 +213,7 @@
 
 - **[canu](https://github.com/marbl/canu)** - 用于大小基因组的单分子序列组装器.
 - **[flye](https://github.com/fenderglass/Flye)** - 使用重复图进行单分子测序读取的从头组装器. 
-- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确高保真读取的单倍型解析汇编程序.
+- **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确高保真读取的单倍型解析汇编器.
 - **[wtdbg2](https://github.com/ruanjue/wtdbg2)** - 一种用于长噪声读取组装的模糊 Bruijn 图方法
 
 ## Visualization
@@ -223,7 +223,7 @@
 以下工具可用于可视化基因组数据或构建基因组数据的定制可视化，包括来自 DNA-Seq、RNA-Seq 和 ChIP-Seq、变体等的序列数据.
 
 - **[Squiggle](https://github.com/Lab41/squiggle)** - 易于使用的 DNA 序列可视化工具，可将 FASTA 文件转换为基于浏览器的可视化. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30247632) | [web](https://squiggle.readthedocs.io/en/latest/) ]
-- **[biodalliance](https://github.com/dasmoth/dalliance) ** - 嵌入式基因组查看器. 集成来自各种来源的数据，并且可以直接从流行的基因组学文件格式（包括 bigWig、BAM 和 VCF）加载数据.
+- **[biodalliance](https://github.com/dasmoth/dalliance) ** - 可嵌入的基因组查看器. 集成来自各种来源的数据，并且可以直接从流行的基因组学文件格式（包括 bigWig、BAM 和 VCF）加载数据.
   [ [paper-2011](https://pubmed.ncbi.nlm.nih.gov/21252075) | [web](http://www.biodalliance.org) ]
 - **[BioJS](https://github.com/biojs/biojs)** - BioJS 是一个包含一百多个 JavaScript 组件的库，使您能够使用当前的 Web 技术可视化和处理数据. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075290/) | [web](http://biojs.net/) ]
 - **[Circleator](https://github.com/jonathancrabtree/Circleator)** - 使用 BioPerl 和 SVG 对基因组相关数据进行灵活的循环可视化. [ [paper-2014](https://pubmed.ncbi.nlm.nih.gov/25075113) ]
@@ -258,7 +258,7 @@
 - [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)
 - [A 10-Step Guide to Party Conversation For Bioinformaticians](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104) - 当被问到“那么，你是做什么的？”时，这是一个关于如何向不参与该领域的人传达概念的分步指南.
 - [A History Of Bioinformatics (In The Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) - C. Titus Brown 发表的关于他回顾 2039 年生物信息学的演讲.可以找到他的演讲笔记 [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
-- [A farewell to bioinformatics](http://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html) - 对生物信息学现状的批判性看法.
+- [A farewell to bioinformatics](https://madhadron.com/science/farewell_to_bioinformatics.html) - 对生物信息学现状的批判性看法.
 - [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) - Keith Bradnam 博士“认为向一群著名的生物信息学家提出一系列简单的问题，以评估他们对当前生物信息学研究状态的感受，并可能获得他们对什么有用的任何提示，这可能是有启发性的.生物信息学职业.”
 - [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) - 对于那些想要在自己的时间免费完成生物信息学课程的人来说，这是一条坚实的道路，课程来自世界上最好的大学.
 - [Rosalind](http://rosalind.info/) - Rosalind 是一个通过解决问题来学习生物信息学的平台.
