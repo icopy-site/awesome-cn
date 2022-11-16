@@ -37,7 +37,7 @@
 
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了精选的数据集，包括当前和历史的大气、海洋、陆地和洪水数据，以及全球建模和同化办公室 (GMAO) 的运营天气分析数据和四次更新的预报日常的.
-- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - United States storm data provided by the National Weather Service (NWS) and contain statistics on personal injuries and damage estimates.
+- [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含人身伤害和损失估计的统计数据.
 - [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
 - [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一系列完整的每小时和半小时气象数据值以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼了长时间温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
@@ -50,7 +50,7 @@
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助地方官员、社区领袖和企业了解他们社区正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 提供者： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可以轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及从 1790 年到现在的所有级别的 GIS 兼容边界文件美国人口普查地理，包括州、县、地区和街区.
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop) - 这一全球人口层基于遥感土地覆盖分类和欧盟提供的全国人口普查. 
 
@@ -71,7 +71,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -170,7 +170,7 @@
 ### Resilience and Natural Hazards
 
 - [Climate Engine](https://climateengine.com/) - 提供数据和见解，以支持不断变化的地球在各种气候相关灾害中的财务和运营弹性.
-- [FloodFactor](https://firststreet.org/flood-factor/)  - 由 First Street Foundation 提供，该工具可以轻松确定房产是否因过去的重大事件而被洪水淹没，目前是否处于危险之中，以及该风险如何随时间变化. 它还可以帮助估算与洪水相关的损失成本.
+- [RiskFactor](https://firststreet.org/risk-factor/)  - 该工具由第一街基金会提供，使用户能够了解洪水、野火和酷热对房产造成的环境风险. 该工具根据同行评审研究传达历史事件、当前风险和对财产的未来预测. 附加信息： [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
 - [Jupiter Intelligence](https://jupiterintel.com/) - 提供到 2100 年各种灾害（洪水、降水、风、热/冷、野火、雷暴、干旱）的全球高分辨率气候预测，以及资产层面的损害和经济损失估计.
 
 ### Urban Observation
@@ -234,7 +234,7 @@ This is a curated list of Python, R, or other open-source libraries or programmi
 Python 库和相关资源.
 
 - [Pandas](https://pandas.pydata.org/) - 灵活而强大的 Python 数据分析/操作库，提供类似于 R data.frame 对象、统计函数等的标记数据结构.
-- [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方法来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
+- [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务可以交互运行并使用脚本. 该库支持在 ArcGIS 平台中轻松使用 pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
@@ -273,6 +273,8 @@ R 包及相关资源.
 - [Stars](https://cran.r-project.org/web/packages/stars/index.html) - 在“R”中读取、操作、写入和绘制时空数组（栅格和矢量数据立方体）.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - 交通规划工具，重点是空间交通数据和非机动模式，包括 OD 数据处理和其他功能. 
 - [Tmap](https://cran.r-project.org/web/packages/tmap/)  - 专题地图是空间数据分布可视化的地理地图. 该软件包提供了一种灵活、基于图层且易于使用的方法来创建专题地图，例如等值线图和气泡图.
+- [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - 一种访问和操作 GTFS 数据的简洁方法，包括公交路线、时间表和站点.
+- [tidycensus](https://walker-data.com/tidycensus/) - 一种从美国人口普查局 API 访问数据以进行操作或空间分析的简洁方法.
 
 ### Other
 其他编码库和资源.
@@ -293,7 +295,7 @@ R 包及相关资源.
 - [Urban Informatics & Visualization-Berkeley](https://github.com/waddell/urban-informatics-and-visualization)  - 城市信息学和可视化（加州大学伯克利分校 CP255）类 Jupyter Noteboom 示例. 为在规划环境中应用 Python 提供各种资源. 
 - [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/)  - 本课程提供使用 Python 所需的构建块. 您将使用这些构建块创建和运行脚本，并且可以将它们直接应用到 ArcGIS 内部和您自己的工作流中.
 - [Coding for Planners: Up and Running with Python](https://courses.planetizen.com/course/coding-for-planners-python)  - Planetizen 课程通过 10 个视频课程教授 Python 基础知识和规划应用程序. 需要每月订阅. 
-- [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics) - Planetizen course teaching the basics of big data processing, analysis, and visualization. Monthly subscription required. 
+- [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics)  - Planetizen 课程教授大数据处理、分析和可视化的基础知识. 需要每月订阅. 
 
 ## Platforms and Software Resources
 面向规划人员和对建筑环境感兴趣的人员的软件和平台. 
@@ -414,7 +416,7 @@ R 包及相关资源.
 ---
 
 ### Other GitHub Resource Lists
-此页面已注册为 [awesome-list](https://github.com/topics/awesome-list) , 但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源管理策展. 
+此页面已注册为 [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型交通工具和数据资源的集合.
