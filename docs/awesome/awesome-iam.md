@@ -121,7 +121,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Password-based
 
-- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性指南.
+- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性准则.
 
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - 减缓离线攻击的唯一方法是仔细选择尽可能占用资源的哈希算法.
 
@@ -305,7 +305,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 安全断言标记语言 (SAML) 2.0 是一种在服务之间交换授权和身份验证的方法，例如上面的 OAuth/OpenID 协议.
 
-典型的 SAML 身份提供者是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供者是运行数据孤岛的科技公司.
+典型的 SAML 身份提供商是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供商是运行数据孤岛的科技公司.
 
 - [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/)  - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场. 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室.”
 

@@ -124,7 +124,7 @@
 
 - [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method)  - 用于调查以确定新产品或服务的价格. 结果可用于生成需求图表和收入曲线.
 
-- [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter) - PSM is a market technique for determining consumer price preferences. Allows for drawing a revenue curve to estimate the price point delivering the maximum revenue.
+- [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter)  - PSM 是一种用于确定消费者价格偏好的市场技术. 允许绘制收入曲线以估计提供最大收入的价格点.
 
 - [Pricing niche products](https://kevinlynagh.com/notes/pricing-niche-products/)  - “然而，反对简单地选择价格的最有说服力的论据是，它限制了你对市场的了解程度.” 然后作者设置了 vickrey 拍卖来发现价格.
 
@@ -220,7 +220,7 @@ The central repository of all available services, products, variants, options an
 
 ### Online Ads
 
-有针对性的在线广告市场与传统的云市场有很多共同点. 那里有一些很好的灵感，从概念到技术.
+有针对性的在线广告市场与传统的云市场有很多共同之处. 那里有一些很好的灵感，从概念到技术.
 
 - [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - 用于有针对性的在线广告的预算进度资源集合.
 
@@ -250,7 +250,7 @@ The central repository of all available services, products, variants, options an
 
 - [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护企业交易的日常运作.
 
-- [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/)  - “对账是一种业务流程，它的出现几乎完全是因为在企业之间传送资金的管道中缺乏结构化数据.” 简化流程的技巧是：添加任意折扣以产生唯一的尾随小数，设置几个虚拟银行账户作为代理，
+- [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/)  - “对账是一个业务流程，它的出现几乎完全是因为在企业之间传送资金的管道中缺乏结构化数据”. 有一些 hack 可以简化流程，比如添加任意折扣以产生唯一的尾随小数，或者设置几个虚拟银行账户作为代理.
 
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - 广泛的开源个人理财项目列表，可以很好地研究复式记账和簿记方面的灵感.
 
@@ -346,7 +346,11 @@ The central repository of all available services, products, variants, options an
 
 - [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01) - “如果你认为你可以像我们一样设置一个简单的 Stripe 集成并继续前进，那你就大错特错了.”
 
+<!--lint disable double-link-->
+
 - [Council Directive 2006/112/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL) - 欧盟关于增值税共同制度的参考资料.
+
+<!--lint enable double-link-->
 
 - [What does the "Reverse Charge" refer to?](https://news.ycombinator.com/item?id=8767388) - 答案：企业将增值税处理责任转移给客户的规定.
 
@@ -358,7 +362,11 @@ The central repository of all available services, products, variants, options an
 
 ### Structure
 
+<!--lint disable double-link-->
+
 - [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - 关于增值税共同制度的理事会指令 2006/112/EC 第 226 条第 4 节（发票内容）详细说明了欧盟发票上所需的信息.
+
+<!--lint enable double-link-->
 
 ### Integrity
 
@@ -390,7 +398,7 @@ The central repository of all available services, products, variants, options an
 
 ### Electronic invoices
 
-- [Factur-X](https://github.com/akretion/factur-x) - 支持法国和德国电子发票标准的 Python 库.
+- [Factur-X](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 - [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - 大多数发票软件可以读写UBL文件（XML）进行数据传输.
 

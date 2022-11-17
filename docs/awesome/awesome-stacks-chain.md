@@ -19,15 +19,27 @@
 
 - [Stacks Wallet for Desktop](https://www.hiro.so/wallet/install-desktop) - 用于管理 STX 和单独或在池中堆叠的桌面钱包应用程序.
 - [Stacks Wallet for Web](https://www.hiro.so/wallet/install-web) - 用于连接 Stacks 网络应用程序的网络钱包.
-- [Xverse Wallet](https://www.secretkeylabs.com/) - 用于管理 STX 和堆叠的移动钱包应用程序.
+- [Xverse Wallet](https://www.secretkeylabs.com/) - 用于管理 STX 和堆叠的移动钱包应用程序（非开源）.
 
 ### Stacks Web Applications
 
 - [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) - 用于审查 Stacks 区块链上的交易的应用程序.
 - [Boom.money](https://boom.money) - 专注于 NFT 和自定义令牌的网络钱包.
-- [Send Many](https://sendstx.com/) - 在一次交易中将 STX 发送给多个收件人的应用程序.
-- [MIA Block explorer](http://miamining.com/) - 一个网络应用程序，用于为所有和个人账户排除 MIA 硬币交易.
+- [Send Many](https://sendstx.com) - 在一次交易中将 STX 发送给多个收件人的应用程序.
+- [MIA Block explorer](http://miamining.com) - 一个网络应用程序，用于为所有和个人账户排除 MIA 硬币交易.
 - [Speed Spend](https://speed-spend.org) - 一套在测试网上运行的 Clarity 实验（[source](https://github.com/friedger/speed-spend)).
+
+#### Blockchain Name System
+- [btc.us](https://btc.us) - .btc 名称的应用程序.
+- [stx.name](https://stx.name) - BNS名称注册申请（非开源）.
+- [BNS search](https://www.bnssearch.com/) - 搜索注册 BNS 名称的应用程序.
+- [BNS transfer](https://www.bnstransfer.com) - 转移 BNS 名称的应用程序.
+- [Owl.link](https://owl.link) - 为 BNS 名称创建链接页面的应用程序.
+
+#### DeFi
+- [Alex Lab](https://app.alexlab.co) - DeFi 服务平台
+- [Lydian](https://app.lydian.xyz) - 去中心化的资金管理协议
+- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - 基于自还贷款的稳定币（USDA）
 
 ## Clarity Resources
 
@@ -36,7 +48,7 @@
 - [Clarinet](https://github.com/hirosystems/clarinet) - 打包为 CLI 的 Clarity 运行时，有助于 Clarity 智能合约的开发和测试.
 - [Clarigen](https://github.com/obylabs/clarigen) - 一种用于编写与 Clarity 智能合约交互的 TypeScript 代码的工具.
 - [clarity.tools](https://clarity.tools) - 浏览器内 Clarity REPL.
-- [search-clarity.dev](https://search-clarity.dev) - 用于搜索已部署的 Clarity 合约的应用程序.
+- [Source of Clarity](https://source-of-clarity.com) - 在主网上列出所有已部署的 Clarity 合约并附上一些评论.
 
 ### Libraries
 
@@ -74,11 +86,12 @@
 
 ### Frontend Libraries
 
-- [Stacks.js](https://github.com/blockstack/stacks.js) - 用于与 Stacks 区块链交互的 JavaScript 库的 Monorepo.
+- [Stacks.js](https://github.com/hirosystems/stacks.js) - 用于与 Stacks 区块链交互的 JavaScript 库的 Monorepo.
+- [micro-stacks](https://github.com/fungible-systems/micro-stacks/) - 用于与 Stacks 区块链交互的 JavaScript 库的 Monorepo.
 
 ### CLI
 
-- [@stacks/cli](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - 用于与身份验证、存储和事务交互的命令行界面.
+- [@stacks/cli](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - 用于与身份验证、存储和事务交互的命令行界面.
 
 ### Storage
 
@@ -92,6 +105,7 @@
 
 - [Official Stacks documentation](https://docs.stacks.co/) - 用于学习的文档和开发人员教程
   清晰度和开发 Stacks 应用程序.
+- [Hiro documentation](https://docs.hiro.so/) - 专注于开发人员的文档
 - [Stacks 101](https://stacks101.com) - 社区策划的 STX 知识.
 
 ### Videos

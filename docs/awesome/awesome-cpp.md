@@ -619,7 +619,7 @@
 * [GMTL](http://ggt.sourceforge.net/)  - 图形数学模板库是一组以通用方式实现图形基元的工具.  [GPL2]
 * [GMP](https://gmplib.org/)  - 用于任意精度算术的 AC 库，对有符号整数、有理数和浮点数进行运算.  [LGPL3 和 GPL2]
 * [Klein](https://github.com/jeremyong/klein)  - 一个快速的、SIMD 优化的 C++17 几何代数库，用于点、线和平面投影、相交、连接、刚体运动等.  [麻省理工学院] [website](https://jeremyong.com/klein)
-* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短矢量数学库.  [未授权]
+* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短向量数学库.  [未授权]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  - 多精度整数和有理算术密码库.  [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp)  - Python Numpy 库的模板化标头仅 C++ 实现.  [麻省理工学院]
 * [muparser](http://beltoforion.de/article.php?a=muparser)  - muParser 是一个用 C++ 编写的可扩展的高性能数学表达式解析器库.  [麻省理工学院]
@@ -649,7 +649,7 @@
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐内存分配器. [PublicDomain]
 * [snmalloc](https://github.com/microsoft/snmalloc)  - 基于消息传递的高性能分配器.  [麻省理工学院]
 * [TCMalloc](https://github.com/google/tcmalloc)  - Google 的快速、多线程 malloc 实现.  [Apache-2.0] [website](https://google.github.io/tcmalloc/)
-* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的小型垃圾收集器.  [BSD]
+* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的微型垃圾收集器.  [BSD]
 
 ## Multimedia
 
@@ -693,6 +693,7 @@
 * [libquic](https://github.com/devsisters/libquic)  - 从 Chromium 的 QUIC 实现中提取的 QUIC 协议库.  [BSD]
 * [librdkafka](https://github.com/edenhill/librdkafka)  - 用于 C 和 C++ 的 Apache Kafka 客户端库.  [BSD-2-条款]
 * [libwebsockets](https://github.com/warmcat/libwebsockets)  - 提供客户端和服务器库的轻量级纯 C WebSocket 实现.  【LGPL2.1+静态链接异常】 [website](https://libwebsockets.org/)
+* [Lithium](https://matt-42.github.io/lithium/)  - 无需成为 C++ 专家即可构建高性能 C++ HTTP 服务器.  [麻省理工学院]
 * [lwIP](http://savannah.nongnu.org/projects/lwip/)  - 轻量级 TCP/IP 堆栈.  [修改后的 BSD]
 * [Mongoose](https://github.com/cesanta/mongoose)  - 极其轻量级的网络服务器.  [GPL2]
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C)  - 适用于嵌入式系统和 PC 的便携式 MQTT C 客户端.  [麻省理工学院] [website](https://liambindle.ca/MQTT-C)
@@ -707,7 +708,6 @@
 * [RakNet](https://github.com/OculusVR/RakNet)  - 面向游戏程序员的跨平台、开源、C++ 网络引擎.  [BSD]
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp)  - C++ 的简单 REST 客户端. 它为 HTTP 请求包装 libcurl.  [麻省理工学院]
 * [Seasocks](https://github.com/mattgodbolt/seasocks)  - 具有 WebSockets 支持的简单、小型、C++ 可嵌入网络服务器.  [BSD]
-* [Silicon](http://siliconframework.org)  - 高性能、面向中间件的 C++14 http web 框架.  [麻省理工学院]
 * [tlse](https://github.com/eduardsui/tlse) - 单个 C 文件 TLS 1.2/1.3 实现，使用 tomcrypt 作为加密库 [BSD-2-Clause]
 * [Tufão](https://github.com/vinipsmaker/tufao)  - 基于 Qt 构建的 C++ 异步 Web 框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  - 严格符合 RFC 3986 的 URI 解析和处理库.  [BSD-3-条款]
