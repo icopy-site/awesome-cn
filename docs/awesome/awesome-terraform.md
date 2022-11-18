@@ -6,7 +6,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
 由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
@@ -17,7 +17,7 @@
 ## Legend
 
 - 不兼容 _terraform &gt;= 0.12_ :ghost:
-- Abandoned :skull:
+- 被遗弃：头骨：
 - 货币化：heavy_dollar_sign：
 
 ## Official Resources
@@ -81,7 +81,7 @@
 - [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - 说明如何将 Terraform 合并到微服务部署管道中.
 - [Terraform for a Highly Available VPN between AWS and Azure](https://web.archive.org/web/20210616132857/https://deployeveryday.com/2020/04/13/vpn-aws-azure-terraform.html) - 用于在 AWS 和 Azure 之间部署高度可用的 VPN 的 Terraform 代码.
 - [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - 1Password 如何从 CloudFormation 迁移到 Terraform.
-- [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
+- [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用 OpenStack Terraform 提供程序部署 Web 服务器是多么容易.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - 确保基础设施的零停机时间.
 - [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - 展示如何使用 Terraform 创建安全的 Google Kubernetes 集群、Google Cloud Run 服务和其他基础设施元素 [10$](https://nufailtd.github.io/budget-gcp/) 一个月.
 
@@ -249,8 +249,8 @@
 ## Tools
 
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM 是一种用于 AWS IAM 的工具，用于最小权限 Terraform 执行框架.
-- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
-- [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
+- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
+- [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
 - [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
@@ -368,6 +368,7 @@
 - [env0](https://env0.com) - 具有 OPA 集成、自定义流程和 Terragrunt 支持的 Terraform Cloud/Enterprise 替代方案：heavy_dollar_sign：
 - [modulehub](https://www.modulehub.io) - 私有 Terraform 模块注册表和状态后端.
 - [Brainboard](https://www.brainboard.co) - 从任何云提供商 - AWS、GCP、Azure 开始，以可视化方式设计、部署和管理现代云基础设施：heavy_dollar_sign：
+- [OTF](https://github.com/leg100/otf) - Open Terraforming Framework，Terraform Enterprise 的开源替代品，具有完整的 Terraform CLI 集成.
 - [Terrakube](https://terrakube.org) - Terraform Enterprise 的开源替代品，具有私有注册表、远程状态、自定义流、预定工作区和视觉状态.
 - [Spacelift](https://spacelift.io/)  - 替代 Terraform 云/企业.  Terraform 的协作基础设施交付平台：heavy_dollar_sign：
 
@@ -376,7 +377,7 @@
 - [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube 频道，每周直播一次，内容涵盖 Terraform 新闻、评论、采访、问答、现场编码和一些 Terraform 黑客攻击.
 - [Terraform explained in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE) - 在 15 分钟内解释了 Terraform.
 - [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - 自动化您的 AWS 云基础设施.
-- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对创建 Terraform 以解决什么问题的简要而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
+- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules, but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (~39 min, October 2017).
 - [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) - 演示 Terraform 如何通过使用托管的 PostgreSQL 在 AWS 中部署 TeamCity 来实现基础设施即代码的实践.
 - [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用 Terraform 代码创建 Google 计算实例的示例.
 - [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 从本演练中了解如何为 Terraform 提供者做出贡献或创建您自己的提供者.

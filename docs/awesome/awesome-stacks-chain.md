@@ -10,7 +10,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Apps
@@ -29,17 +28,17 @@
 - [MIA Block explorer](http://miamining.com) - 一个网络应用程序，用于为所有和个人账户排除 MIA 硬币交易.
 - [Speed Spend](https://speed-spend.org) - 一套在测试网上运行的 Clarity 实验（[source](https://github.com/friedger/speed-spend)).
 
-#### Blockchain Name System
+### Blockchain Name System
 - [btc.us](https://btc.us) - .btc 名称的应用程序.
 - [stx.name](https://stx.name) - BNS名称注册申请（非开源）.
 - [BNS search](https://www.bnssearch.com/) - 搜索注册 BNS 名称的应用程序.
 - [BNS transfer](https://www.bnstransfer.com) - 转移 BNS 名称的应用程序.
 - [Owl.link](https://owl.link) - 为 BNS 名称创建链接页面的应用程序.
 
-#### DeFi
-- [Alex Lab](https://app.alexlab.co) - DeFi 服务平台
-- [Lydian](https://app.lydian.xyz) - 去中心化的资金管理协议
-- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - 基于自还贷款的稳定币（USDA）
+### DeFi
+- [Alex Lab](https://app.alexlab.co) - DeFi 服务平台.
+- [Lydian](https://app.lydian.xyz) - 去中心化的资金管理协议.
+- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - 基于自还贷款的稳定币（USDA）.
 
 ## Clarity Resources
 
@@ -105,7 +104,7 @@
 
 - [Official Stacks documentation](https://docs.stacks.co/) - 用于学习的文档和开发人员教程
   清晰度和开发 Stacks 应用程序.
-- [Hiro documentation](https://docs.hiro.so/) - 专注于开发人员的文档
+- [Hiro documentation](https://docs.hiro.so/) - 专注于开发人员的文档.
 - [Stacks 101](https://stacks101.com) - 社区策划的 STX 知识.
 
 ### Videos
