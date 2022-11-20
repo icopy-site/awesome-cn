@@ -154,7 +154,7 @@
 			<b>使数据发挥作用的文书工作.</b>
 			<div>
 				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
 				<br>
 				将文书工作自动化构建到您的产品中的最简单方法.
 				</sub>
@@ -168,7 +168,7 @@
 			<b>使数据发挥作用的文书工作.</b>
 			<div>
 				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
 				<br>
 				将文书工作自动化构建到您的产品中的最简单方法.
 				</sub>
@@ -308,7 +308,7 @@
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Python 的可选静态类型.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 用于微控制器的 Python 3 的精简高效实现.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -321,7 +321,7 @@
 - [Elixir](https://github.com/h4cc/awesome-elixir#readme)
 - [Elm](https://github.com/sporto/awesome-elm#readme)
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
-- [Julia](https://github.com/svaksha/Julia.jl#readme) - 旨在满足高性能数值分析和计算科学需求的高级动态编程语言.
+- [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - 偏向系统编程和嵌入式资源受限软件的通用语言.
@@ -424,7 +424,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -466,7 +466,7 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java 网络应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础设施的工具.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python 网络应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python 网络应用程序框架.
@@ -500,7 +500,7 @@
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
-	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
+	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - 用于训练和部署模型的 WebGL 加速机器学习 JavaScript 库.
 	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 为设备上的机器学习优化 TensorFlow 模型的框架.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 被引用次数最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
@@ -582,6 +582,7 @@
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
 - [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
+- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 
 ## Development Environment
 
@@ -697,7 +698,7 @@
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS 专注于灵活性和用户体验.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - 基于 PHP 的轻量级 CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - 可扩展的基于 PHP 的 CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - 内容优先的 CMS.
 - [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET 数字营销平台，将 CMS 与管理多个网站的工具相结合.
 - [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - 用作经典或无头 CMS 的 PHP MVC 框架.
@@ -772,7 +773,7 @@
 
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - 如何从非结构化生物医学数据和文本中提取信息.
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - 使用计算方法研究神经系统的多学科科学.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样性的技术社区.
+- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - 计算机辅助的历史科学研究.
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - 建立和促进更富有同情心的工程文化.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - 面向设施、提供商、开发人员、政策专家和研究人员的开源医疗保健软件.
@@ -910,13 +911,13 @@
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
 - [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.
-- [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+- [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 让以植物为基础的生活方式变得简单易行.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - 将文本的含义从一种语言转移到另一种语言.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - 用于 JavaScript 自动化的 iOS 应用程序.
 - [WebXR](https://github.com/msub2/awesome-webxr#readme) - 在网络上启用身临其境的虚拟现实和增强现实内容.
 - [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - 几何问题的计算方法.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - 许多应用程序和设备使用的开放数据映射项目.
-- [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
+- [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - 应用于生物学问题的计算方法.
 
 ## Related
 

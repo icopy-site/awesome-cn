@@ -320,6 +320,10 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 特别感谢所有对存储库进行分叉或加星标的人❤️
 
+[![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
+
+[![Forkers repo roster for @aorumbayev/AwesomeAlgorand](https://reporoster.com/forks/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/network/members)
+
 ---
 
 License
