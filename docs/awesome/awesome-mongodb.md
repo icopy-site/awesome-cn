@@ -36,8 +36,8 @@
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/)  - 高级 MongoDB 提示和技巧，由 MongoDB 公司提供. 工程师
  - [Builder Book](https://builderbook.org) - 了解如何从头开始构建全栈 JavaScript 网络应用程序
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
- - [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - 如何开发有效和优化的数据操作和分析管道
- - [The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) - 基本介绍
+ - [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - 免费电子书：如何开发有效和优化的数据操作和分析管道
+ - [The Little MongoDB Book](https://github.com/mongodb-developer/the-little-mongodb-book) - 基本介绍
  - [SaaS Boilerplate Book](https://builderbook.org/book) - 了解如何从头开始构建生产就绪的 SaaS Web 应用程序
 
 ### Talks
@@ -52,7 +52,7 @@
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
- - [MongoDB University](https://university.mongodb.com/) - 认证和免费在线课程
+ - [MongoDB University](https://learn.mongodb.com/) - 认证和免费在线课程
  - [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - 面向初学者的免费自定进度的 MongoDB 课程
 
 ## Libraries
@@ -113,6 +113,9 @@
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C 驱动程序绑定
+ 
+### Kotlin
+- [kmongo](https://github.com/Litote/kmongo) - 基于 Java 驱动程序的 Kotlin 工具包
 
 ### Lisp
  - [cl-mongo](https://github.com/fons/cl-mongo) - 社区 Common Lisp 接口
@@ -123,18 +126,16 @@
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - 社区 Mathematica 驱动程序
 
 ### PHP
- - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - 建立在 laravel-mongodb 之上的存储库实现
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Laravel 的 Eloquent 模型和查询构建器
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - 存储库实现
  - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - 官方 PHP 驱动程序
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - 基于 PHP Mongo PECL 扩展的 ODM
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - 基于PHPMongo ODM的迁移工具
- - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - 官方 PHP 驱动程序
  - [yadm](https://github.com/formapro/yadm) - 快速无模式 ODM
 
 ### Python
- - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的迁移
+ - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - 与 Django ORM 兼容的 Django 的 MongoDB 连接器
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - 将 PyMongo 支持添加到 Flask 的 Flask 扩展
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 惯用且友好但功能强大的 ODM（无模式）

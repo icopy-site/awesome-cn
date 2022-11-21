@@ -70,7 +70,7 @@ Famously...
 ## Programming Languages
 
 - [Clojure](https://clojure.org/) - 一种广泛使用**闭包**但带有**j**的函数式语言，因为它在 Java 虚拟机上运行.
-- [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - **C** 的后继者，由标志性的递增运算符 **++** 表示.
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links)  - 虽然 C 肯定是个坏名字，但 C++ 非常聪明. 标志性的增量运算符 **++** 表示 **C++** 是后继者.
 
 ## User Interface Design
 

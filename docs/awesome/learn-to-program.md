@@ -49,17 +49,13 @@
  **混合** 课程、视频和其他网络开发和编程学习资源目录. 质量可能会有所不同.\
 *（HTML、CSS、JavaScript、AngularJS、Rails）*
 
-#### [Platzi](https://courses.platzi.com/)
- **免费** 设计、营销、启动和代码课程的平台. 了解网络的未来.\
-*（RethinkDB、SailsJs、NodeJS、Git、启动类等）*
-
 #### [Free Code Camp](https://www.freecodecamp.org/)
  **免费** 学习编码并帮助非营利组织. 一个开源社区，由学习编码和帮助非营利组织的人组成.\
 *（HTML、CSS、JavaScript、数据库、Git 和 GitHub、Node.js、React.js、D3.js）*
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **免费** SQL 课程，包含互动练习和测验\
-*(SQL, database concepts)*
+*（SQL，数据库概念）*
 
 #### [GitHub Learning Lab](https://lab.github.com/)
  **免费** 用于学习 Git 和 GitHub 的自定进度的交互式项目. 由 GitHub 的培训团队创建和维护.\
@@ -83,7 +79,7 @@
 
 #### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
 **免费**通过创建逐步构建的小型应用程序来教授 Java 编程\
-*（Java、OOP、Gradle、Maven、Spring Boot）*
+*(Java, OOP, Gradle, Maven, Spring Boot)*
 
 #### [Cratecode](https://cratecode.com/)
 **免费**在线平台，通过互动课程教授编程\

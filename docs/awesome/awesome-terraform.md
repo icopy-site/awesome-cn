@@ -84,6 +84,7 @@
 - [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用 OpenStack Terraform 提供程序部署 Web 服务器是多么容易.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - 确保基础设施的零停机时间.
 - [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - 展示如何使用 Terraform 创建安全的 Google Kubernetes 集群、Google Cloud Run 服务和其他基础设施元素 [10$](https://nufailtd.github.io/budget-gcp/) 一个月.
+- [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?sk=495131c5831bc9276369150da5f3bc2c) - 如何在 Terraform 开发期间使用 Infracost 作为管理云成本的护栏.
 
 ### Multi-Environment Configuration
 
@@ -105,7 +106,7 @@
 ### Google Cloud
 - [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/architecture/managing-infrastructure-as-code) - 使用 Terraform、Cloud Build 和 GitOps 设置和管理基础架构即代码.
 - [Getting started with Terraform on Google Cloud](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform) - 使用 Terraform 在 Google Cloud 中创建虚拟机并启动基本的 Python Flask 服务器.
-- [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - 使用 Terraform 部署 Kubernetes 负载均衡器服务，使用 Terraform 部署基于 HTTPS 内容的负载均衡器，使用 Terraform 进行模块化负载均衡 - 区域负载均衡器，使用 Terraform 的自定义提供程序，使用 Terraform 的 Cloud SQL，使用 Terraform 在 Google Cloud 和 AWS 之间构建 VPN.
+- [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - Deploy Kubernetes Load Balancer Service with Terraform,HTTPS Content-Based Load Balancer with Terraform,Modular Load Balancing with Terraform - Regional Load Balancer, Custom Providers with Terraform, Cloud SQL with Terraform,Building a VPN Between Google Cloud and AWS with Terraform.
 - [Hashicorp Terraform Tutorials for Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) - 开始在 Google Cloud 上使用 Terraform.
 
 ### Miscellaneous
@@ -249,7 +250,7 @@
 ## Tools
 
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM 是一种用于 AWS IAM 的工具，用于最小权限 Terraform 执行框架.
-- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
+- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
 - [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
@@ -290,12 +291,12 @@
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf 是一个自以为是的开源框架，用于使用 Terraform 在 AWS 上开发、构建、部署和保护无服务器应用程序和基础设施. [Read more](https://github.com/antonbabenko/serverless.tf).
 - [Shisho](https://github.com/flatt-security/shisho) - 用于 Terraform 的轻量级静态分析器.
 - [Styra Declarative Authorization Service (DAS)](https://www.styra.com/terraform-cloud-config-management-with-styra-das-and-open-policy-agent) - 提供托管 [Open Policy Agent (OPA)](https://www.openpolicyagent.org) 适用于应用程序和基础设施用例的平台，包括 Terraform、Terraform Cloud 和 Kubernetes. 在开发期间、CI/CD 管道中和部署时实施策略护栏.  Styra DAS Free 提供多个系统和用户、策略影响分析、决策记录和回放，以及对 Styra 的 Terraform 策略库的访问.
-- [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Ansible 和 Terraform 的强大功能 + Docker Swarm 的简单性 = 基础架构即代码和 DevOps 最佳实践.
+- [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
 - [tau](https://github.com/avinor/tau) - Tau 是 Terraform 之上的薄包装器，用于管理多个部署、依赖项和机密.
 - [terraboard](https://github.com/camptocamp/terraboard) - 用于检查 Terraform 状态的 Web 仪表板.
 - [terraboot](https://github.com/MastodonC/terraboot) - DSL 生成地形配置并运行它.
-- [terracognita](https://github.com/cycloidio/terracognita) - 从现有云提供商（反向 Terraform）读取并在 Terraform 配置上生成您的基础设施即代码.
-- [terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
+- [terracognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
+- [terracost](https://github.com/cycloidio/terracost) - CLI 中 Terraform 的云成本估算.
 - [TerraDepot](https://github.com/derBroBro/TerraDepot)  Terraform 状态存储库，基于默认的 http 远程后端. 允许在 AWS S3 上集中管理 tfstates.
 - [terradozer](https://github.com/jckuester/terradozer) - Terraform 在没有配置文件的情况下销毁.
 - [terrafile](https://github.com/coretech/terrafile) - 系统地管理来自 Github 的外部模块以用于 Terraform（用 Go 编写）.
@@ -326,7 +327,7 @@
 - [terratag](https://github.com/env0/terratag) - Terratag 是一个 CLI 工具，它使 Terraform 的用户能够在他们的整套 AWS、Azure 和 GCP 资源中自动创建和维护标签.
 - [tf-init-booster](https://github.com/hayorov/terraform-init-booster) - 一个 Pre-terraform 例程，可加速 terraform 模块下载庞大的蓝图.
 - [tf-summarize](https://github.com/dineshba/tf-summarize) - 用于打印地形规划摘要的命令行实用程序
-- [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions collection for Opinionated Terraform Workflow
+- [tfaction](https://github.com/suzuki-shunsuke/tfaction) - GitHub Actions for Opinionated Terraform Workflow 集合
 - [tfautomv](https://github.com/padok-team/tfautomv) - 自动生成 Terraform `moved` 块以进行无痛重构
 - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) - CLI 通知计划结果并申请作为合并请求评论.
 - [tfedit](https://github.com/minamijoyo/tfedit) - Terraform 的重构工具.
@@ -377,7 +378,7 @@
 - [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube 频道，每周直播一次，内容涵盖 Terraform 新闻、评论、采访、问答、现场编码和一些 Terraform 黑客攻击.
 - [Terraform explained in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE) - 在 15 分钟内解释了 Terraform.
 - [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - 自动化您的 AWS 云基础设施.
-- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules, but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (~39 min, October 2017).
+- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对创建 Terraform 以解决什么问题的简要而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
 - [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) - 演示 Terraform 如何通过使用托管的 PostgreSQL 在 AWS 中部署 TeamCity 来实现基础设施即代码的实践.
 - [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用 Terraform 代码创建 Google 计算实例的示例.
 - [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 从本演练中了解如何为 Terraform 提供者做出贡献或创建您自己的提供者.

@@ -111,7 +111,7 @@
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - 录制屏幕并保存到 pelicule.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - 浏览器在带有 urlChangeEvent 的应用程序浏览器中.
-- [Camera preview](https://github.com/Cap-go/camera-preview) - 允许从 HTML 代码（fork）进行相机交互的电容器插件.
+- [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
 
 ## [Capawesome plugins](https://capawesome.io/)
@@ -130,18 +130,17 @@
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
-- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 允许用户编辑照片的电容器插件.
 
 ## Other plugins
 
 此处列出了独立插件.
 
-- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - 在您的应用程序中获取 Apple Pay 付款
+- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - 在您的应用程序中获取 Apple Pay 付款.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency)  - 请求用户授权访问应用程序相关数据以跟踪用户或设备. 仅限 iOS.
 
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - 适用于 iOS 和 Android 的本机 Brother Print SDK 实现. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - 使用生物识别技术确认设备所有者的存在或对用户进行身份验证.
-
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - 监控对系统暗模式所做的更改.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - 为IOS、Android和Electron平台上的SQLite和Web平台上的IndexedDB提供仅字符串类型的简单数据的key-value永久存储.
 - [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - 扫描文档（笔记、家庭作业、名片、收据或任何矩形形状的东西）.
@@ -160,6 +159,7 @@
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - 从 Android/iOS 设备和网络中选择文件.
 - 谷歌
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - 用于 Capacitor 的 Google 授权插件.
+    - [Availability](https://github.com/cartona/capacitor-google-play-availability) - 验证是否安装并启用了 Google Play 服务，并请求在设备上启用 Google Play 服务.
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - 从 Google Fit 检索数据.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - 识别文本字符串的语言.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - 检测图像中的人脸，识别关键面部特征，并获取检测到的人脸的轮廓.

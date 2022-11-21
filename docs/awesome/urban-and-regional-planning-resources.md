@@ -321,7 +321,7 @@ R 包及相关资源.
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一个与数据无关、支持 WebGL 的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流量图. 可视化位置之间的移动次数（起点-终点数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成制图，其大小根据数据扭曲的几何图形. 
-- [Omnisci](https://www.omnisci.com/) - 启用 Geotemporal 的高性能数据库能够执行 GPU 加速查询.
+- [Heavy.AI](https://www.heavy.ai/) - 启用 Geotemporal 的高性能数据库能够执行 GPU 加速查询.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
 - [Felt](https://felt.com/) - 基于 Web 的地图应用程序，使多个用户能够实时协同编辑和查看数据. 
 
