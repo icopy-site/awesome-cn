@@ -76,7 +76,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ### Frontend framework
 - [aleph.js](https://github.com/postui/aleph.js) - Deno 中的 React 框架，灵感来自 [Next.js](https://nextjs.org).
-- [fresh](https://github.com/lucacasonato/fresh)  - Preact，但超级前卫. 下一代网络框架.
+- [fresh](https://github.com/denoland/fresh) - 下一代网络框架.
 - [packup](https://github.com/kt3k/packup) - Deno 的零配置 Web 应用程序打包器.
 - [ultra](https://github.com/exhibitionist-digital/ultra) - Deno 中的现代流式 React 框架.
 
@@ -133,10 +133,10 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [expect](https://github.com/allain/expect) - 在 deno 中编写像 expect 测试这样的笑话的助手.
 - [merlin](https://github.com/crewdevio/merlin) - deno 的测试和基准测试框架 ‍♂️
 - [pretty_benching](https://github.com/littletof/prettyBenching) - 一个小型库，使您的 Deno 基准测试进度和结果看起来很漂亮.
-- [rhum](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
+- [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - 用于测试 Deno HTTP 服务器的超级代理驱动库.
 - [superoak](https://github.com/asos-craigmorten/superoak) - Oak 的 HTTP 断言通过 SuperDeno 变得简单.
-- [tepi](https://deno.land/x/tepi) - 一个 .http 测试运行器
+- [tepi](https://deno.land/x/tepi) - 一个 .http 测试运行程序
 - [tincan](https://github.com/gcaptn/tincan) - 一个类似 Jest 的 Deno 测试库.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
@@ -165,7 +165,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - 用于管理 Deno 原生插件依赖项的库.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) - 帮助生成随机间隔.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) - 一个简单的 deno 分词器.
-- [deno-using](https://github.com/hayd/deno-using) - 带有 deno 语句的 python 风格.
+- [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-validation](https://github.com/ethandunford/deno-validation) - Deno 的通用验证库.
 - [dinoenv](https://deno.land/x/dinoenv) - 使用 deno 管理环境变量的小型库.
 - [durationjs](https://github.com/retraigo/duration.js) - 从时间戳或人类可读的字符串中获取格式化的持续时间.
@@ -328,7 +328,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ## Integrations
 
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
-- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流程.
+- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions 是服务器端的 TypeScript 函数，分布在全球边缘.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端呈现的 Astro 站点部署到 Deno Deploy.
 

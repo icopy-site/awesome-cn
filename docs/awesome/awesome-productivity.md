@@ -20,7 +20,7 @@
 
 ## Books
 
-- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - 深度工作是一种专注于认知要求高的任务的能力.
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) - 深度工作是专注于一项认知要求高的任务而不会分心的能力.
 - [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) - 一种非常简单有效的时间管理方法.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) - 处理优先级排序、调度、技术和能源管理的全方位生产力方法.
 
@@ -109,6 +109,7 @@
 - [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 - [Logseq](https://logseq.com/)  - Logseq 是一个隐私优先的开源知识库，可在本地纯文本 Markdown 和 Org 模式文件之上运行. 用它来书写、组织和分享您的想法，保留您的待办事项清单，并构建您自己的数字花园. 
 
-### Miscellaneous
+### Screen Capture
 
 - [ShareX](https://getsharex.com/) - 屏幕截图、文件共享和生产力工具.
+- [Replayable](https://replayable.io)  - 倒回屏幕. 回放和分享 Replayable 的桌面回放缓冲区到底发生了什么.

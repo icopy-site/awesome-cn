@@ -409,7 +409,7 @@
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
 
 
 #### AI Concept Representation
@@ -1078,6 +1078,8 @@
 
 
 #### Literature Mining
+
+* [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***人工智能元***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5) ]. 在大规模科学语料库上训练的大型语言模型.
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
@@ -1756,9 +1758,9 @@
 
 * [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***和***， [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
 
-* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
 
 
 ### Stanford
