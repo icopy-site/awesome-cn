@@ -50,7 +50,9 @@
 
 - [Axial - Business models](https://axial.substack.com/p/axial-business-models) - 38 种灵感模型.
 
-- [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 models of monetization relying on network effect.
+- [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 种依赖网络效应的货币化模式.
+
+- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程实践，并作为系统的灵活属性实施.
 
 ### Usage-based Pricing
 
@@ -238,7 +240,7 @@ The central repository of all available services, products, variants, options an
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中具体化.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何体现在小公司的财务报表中.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
@@ -338,7 +340,7 @@ The central repository of all available services, products, variants, options an
 
 - [Global VAT & GST on digital services](https://www.avalara.com/vatlive/en/global-vat-gst-on-e-services.html) - 要求对国外提供的在线服务征税的国家名单.
 
-- “British supermarkets (…) charge you a fee for their backend card processing, but they subtract that fee from your checkout price.” ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
+ - “英国超市 (...) 向您收取后端卡处理费用，但他们会从您的结账价格中扣除该费用.”  ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
 
 - [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - 美国的一项多州倡议，旨在实现销售税会计和征收的自动化和标准化.
 
@@ -524,7 +526,7 @@ The central repository of all available services, products, variants, options an
 
 - [Integer percentages as electoral falsification fingerprints](https://arxiv.org/pdf/1410.6059.pdf)  - 本着与上述相同的精神，本文表明选举中报告轮数的频率是人为异常的信号. 可能适用于某些反欺诈领域.
 
-- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “稳健回归中使用的损失函数，与平方误差损失相比，它对数据中的异常值不太敏感.”
+- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “A loss function used in robust regression, that is less sensitive to outliers in data than the squared error loss.”
 
 - [Peak Detection in the Python World](https://blog.ytotech.com/2015/11/01/findpeaks-in-python/) - 检测异常值的简单方法.
 
@@ -574,7 +576,7 @@ The central repository of all available services, products, variants, options an
 
 - [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.
 
-- [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - 一篇开创性的论文，与上述论文相比采用了更强大的方法： [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), 更适合月合约等离散时间间隔，前者更适合连续时间过程.
+- [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - A seminal paper, with a stronger approach compared to the one above: [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), 更适合月合约等离散时间间隔，前者更适合连续时间过程.
 
 - [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - 说明如何使用生存函数更好地模拟保留 [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 

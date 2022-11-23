@@ -95,6 +95,7 @@
 - [Ruby on Rails Discussions](https://discuss.rubyonrails.org/)
 - [Gorails forum](https://gorails.com/forum)
 - [WIP Ruby (Telegram group)](https://t.me/wipruby)
+- [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
 
 [返回顶部][link_toc]
 

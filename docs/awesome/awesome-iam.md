@@ -55,7 +55,7 @@
 
 - [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（配置错误、访问控制不当、共享租户漏洞和供应链漏洞）”.
 
-- [Cartography](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+- [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于映射服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
 - [Open guide to AWS Security and IAM](https://github.com/open-guides/og-aws#security-and-iam)
 
@@ -85,8 +85,6 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html)  - 为非密码学工程师的开发人员提供的一组最新建议. 甚至还有一个 [shorter summary](https://news.ycombinator.com/item?id=16749140) 可用的.
 
-- [Security Recommendations for Any Device that Depends on Randomly-Generated Numbers](https://www.av8n.com/computer/htm/secure-random.htm)  - “短语‘随机数生成器’应该解析如下：它是一个随机数生成器. 它不是随机数生成器.”
-
 - [Real World Crypto Symposium](https://rwc.iacr.org) - 旨在将密码学研究人员与开发人员聚集在一起，专注于在互联网、云和嵌入式设备等现实环境中的使用.
 
 - [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)  - “本文有两个主要目的. 首先是定义基本密码方法背后的一些术语和概念，并提供一种方法来比较当今使用的无数密码方案. 第二个是提供一些当今使用的密码学的真实例子.”
@@ -94,6 +92,18 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - 密码学基础论文.
 
 - [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “如果你使用哈希比较来为恶意用户提供的数据生成地址，你应该有一个计划，每隔几年迁移到一个新的哈希”.
+
+### Identifiers
+
+令牌、主键、UUID……无论最终用途是什么，您都必须生成具有一些随机性和唯一性属性的这些数字.
+
+- [Security Recommendations for Any Device that Depends on Randomly-Generated Numbers](https://www.av8n.com/computer/htm/secure-random.htm)  - “短语‘随机数生成器’应该解析如下：它是一个随机数生成器. 它不是随机数生成器.”
+
+- [RFC #4122: UUID - Security Considerations](https://www.rfc-editor.org/rfc/rfc4122#section-6)  - “不要假设 UUID 很难猜； 它们不应用作安全功能（仅拥有即可授予访问权限的标识符）”.  UUID 被设计为唯一的，而不是随机的或不可预测的：不要将 UUID 用作秘密.
+
+- [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - 所有标识符格式的基准.
+
+- [Awesome GUID](https://github.com/secretGeek/AwesomeGUID) - 有趣的独特标识符的全球方面.
 
 ## Zero-trust Network
 
@@ -103,7 +113,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90)  - 越来越多的公司添加了额外的 VPN、防火墙、限制和限制层，导致糟糕的体验和轻微的安全增益. 有更好的方法.
 
-- [oathkeeper](https://github.com/ory/oathkeeper) - Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.
+- [oathkeeper](https://github.com/ory/oathkeeper)  - 身份和访问代理和访问控制决策 API，用于验证、授权和改变传入的 HTTP 请求. 灵感来自 BeyondCorp / 零信任白皮书.
 
 - [transcend](https://github.com/cogolabs/transcend) - BeyondCorp 启发的访问代理服务器.
 
@@ -121,7 +131,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Password-based
 
-- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性准则.
+- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性指南.
 
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - 减缓离线攻击的唯一方法是仔细选择尽可能占用资源的哈希算法.
 
@@ -169,7 +179,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Beyond Passwords: 2FA, U2F and Google Advanced Protection](https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/) - 全面了解所有这些技术.
 
-- [A Comparative Long-Term Study of Fallback Authentication](https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
+- [A Comparative Long-Term Study of Fallback Authentication](https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf)  - 要点：“基于电子邮件和短信的方案更有用. 另一方面，基于指定受托人和个人知识问题的机制在便利性和效率方面都存在不足.”
 
 - [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)  - “我们的分析证实，秘密问题通常提供的安全级别远低于用户选择的密码.  (...) 令人惊讶的是，我们发现造成这种不安全感的一个重要原因是用户通常不会如实回答.  (...) 在可用性方面，我们表明秘密答案的记忆力出奇地差”.
 
@@ -221,7 +231,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [`lemur`](https://github.com/Netflix/lemur) - 充当 CA 和环境之间的代理，为开发人员提供中央门户以颁发具有“正常”默认值的 TLS 证书.
 
-- [CFSSL](https://github.com/cloudflare/cfssl)  - CloudFlare 的 PKI/TLS 瑞士军刀. 用于签署、验证和捆绑 TLS 证书的命令行工具和 HTTP API 服务器.
+- [CFSSL](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
 - [JA3](https://github.com/salesforce/ja3) - 创建 SSL/TLS 客户端指纹的方法，该指纹应该易于在任何平台上生成，并且可以轻松共享以获取威胁情报.
 
@@ -255,7 +265,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### OAuth2 & OpenID
 
-[OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) 是一个授权框架. [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) 是在其之上的身份验证层.
+[OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) is an authorization framework. [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) 是在其之上的身份验证层.
 
 旧的 *OpenID* 已死； 新的 *OpenID Connect* 还没有死.
 
@@ -359,7 +369,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 如果您希望推出自己的政策实施，请收集开源项目.
 
-- [Keto](https://github.com/ory/keto) - Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.
+- [Keto](https://github.com/ory/keto)  - 政策决策点. 它使用一组访问控制策略，类似于 AWS 策略，以确定主体是否有权对资源执行特定操作.
 
 - [Ladon](https://github.com/ory/ladon) - 受 AWS 启发的访问控制库.
 
@@ -385,7 +395,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 专门针对的工具和资源 [AWS IAM policies](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) 生态系统.
 
-- [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊工作近 5 年的时间里，我每天、每周都会抽出一点时间浏览论坛、客户票，试图找出人们遇到问题的地方.”
+- [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊工作近 5 年的时间里，我每天、每周都会抽出一点时间浏览论坛、客户工单，试图找出人们遇到问题的地方.”
 
 - [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - 安全评估工具，可识别对最小特权的侵犯并生成风险优先报告.
 
@@ -443,7 +453,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Keystone](https://keystone-enclave.org) - 用于基于 RISC-V 架构构建具有安全硬件飞地的可信执行环境 (TEE) 的开源项目.
 
-- [Project Oak](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
+- [Project Oak](https://github.com/project-oak/oak) - 数据安全传输、存储和处理的规范和参考实施.
 
 - [Everybody be cool, this is a robbery!](https://www.sstic.org/2019/presentation/hsm/) - HSM 漏洞和可利用性的案例研究（法语，抱歉）.
 
@@ -613,7 +623,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Have I been Pwned?](https://haveibeenpwned.com) - 数据泄露指数.
 
-- [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf)  - 第三方依赖项中的已知漏洞允许大多数隐私泄露. 下面介绍如何通过 CI/CD 的方式检测它们.
+- [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf) - Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.
 
 - [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) - 随着世界变得越来越紧密，电子邮件营销监管格局变得越来越复杂.
 
@@ -657,7 +667,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 ## UX/UI
 
-作为 IAM 堆栈的利益相关者，您将在后端实施构建注册隧道和用户入职所需的大部分原语. 这是客户对您的产品的第一印象，不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
+As stakeholder of the IAM stack, you're going to implement in the backend the majority of the primitives required to build-up the sign-up tunnel and user onboarding. This is the first impression customers will get from your product, and can't be overlooked: you'll have to carefully design it with front-end experts. Here is a couple of guides to help you polish that experience.
 
 - [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - 涵盖用户入职的所有重要方面.
 
@@ -677,7 +687,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的 `<input>  ` 元素和 HTML 属性将有助于加快我们用户的双因素身份验证体验”.
 
-- [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了消除密码屏蔽对消费者信任的影响.
+- [Remove password masking](http://passwordmasking.com) - Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221)  - 通知很难. 真的很难.
 
@@ -703,7 +713,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 

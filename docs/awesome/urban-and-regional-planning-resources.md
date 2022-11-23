@@ -38,7 +38,7 @@
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了精选的数据集，包括当前和历史的大气、海洋、陆地和洪水数据，以及全球建模和同化办公室 (GMAO) 的运营天气分析数据和四次更新的预报日常的.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含人身伤害和损失估计的统计数据.
-- [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
+- [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
 - [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一系列完整的每小时和半小时气象数据值以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼了长时间温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 来自人口普查区的温度数据 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国人口群体的城市供暖负担分布.
@@ -56,7 +56,7 @@
 
 ### Education 
 
--[Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE 提供对人口统计和学校相关地理数据的访问，例如位置和地区. 
+- [Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE 提供对人口统计和学校相关地理数据的访问，例如位置和地区. 
 
 - [National Center for Educational Statistics](https://nces.ed.gov/datalab/index.aspx)  - 国家教育统计中心 (NCES) 是收集和分析教育相关数据的主要联邦实体. 他们的数据实验室提供对其他 30 多个教育数据集的访问，并为用户提供快速报告和图表功能. 
   
@@ -70,8 +70,8 @@
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
-- [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
+- [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -134,7 +134,7 @@
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一组全国（美国）交通设施和网络公共空间信息地理数据库； 交通网络中的人流、货物流、车辆流和工艺流； 影响交通网络或受交通网络影响的社会、经济和环境条件.
 - [City Access Map](https://www.cityaccessmap.com/)  - CityAccessMap 由城市科学家为城市规划者开发. 它使用来自 OpenStreetMap 和全球人类住区层 (GHSL) 的开放数据，对世界上任何城市的各种服务的步行可达性进行量化和可视化.
 - [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家到工作的 FLOWS 数据和小型地理区域的基于 WORKPLACE 的数据.
-- [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - HPMS 是国家级公路信息系统，包括有关国家公路范围、状况、性能、使用和运营特征的数据.
+- [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - HPMS 是国家级公路信息系统，包括有关国家公路范围、状况、性能、使用和运营特征的数据.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家公交运营商收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表指定年份平均每年一天的全国潜在噪声水平. 
 - [National Transit Database](https://www.transit.dot.gov/ntd/ntd-data) - 美国运输机构需要向联邦运输管理局报告的运营、财务和资产数据的存储库. 
@@ -179,7 +179,7 @@
 - [Transoft](https://safety.transoftsolutions.com/)  - Transoft ITS Safety 解决方案利用计算机视觉来识别街道上的“未遂”行为. 这项技术被 Planning Magazine 刊登在 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥堵，更可持续，更公平. 
 - [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠的方式快速量化建筑环境中发生的事件. 
-- [Vade](https://www.vadepark.com/) - 使用定制的物联网摄像头和计算机视觉，通过基于网络的 API 轻松查询实时停车位可用性. 
+- [Vade](https://www.vade.ai/) - 使用定制的物联网摄像头和计算机视觉，通过基于网络的 API 轻松查询实时停车位可用性. 
 - [StreetSimplified](https://www.streetsimplified.com/) - 部署利用计算机视觉的临时摄像头来检查各种交通行为，例如超速、穿越规则合规性和闯红灯.  
 
 ### Travel Behavior
@@ -208,7 +208,7 @@
 - [IFC](https://technical.buildingsmart.org/standards/ifc/)  - IFC 是对建筑环境（包括建筑物和民用基础设施）的标准化、数字化描述. 它是一个开放的国际标准 (ISO 16739-1:2018).
 
 ### Environmental 
-- [EPA Data Standards](https://www.epa.gov/data-standards/epa-data-standards) - 包含 EPA 采用的多种数据标准链接的图表.
+- [EPA Data Standards](https://www.epa.gov/data-standards) - 包含 EPA 采用的多种数据标准链接的图表.
 
 ### Transportation
 
