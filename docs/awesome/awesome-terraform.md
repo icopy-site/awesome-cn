@@ -6,7 +6,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
 由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
@@ -250,7 +250,7 @@
 ## Tools
 
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM 是一种用于 AWS IAM 的工具，用于最小权限 Terraform 执行框架.
-- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
+- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
 - [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
@@ -291,7 +291,7 @@
 - [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) - serverless.tf 是一个自以为是的开源框架，用于使用 Terraform 在 AWS 上开发、构建、部署和保护无服务器应用程序和基础设施. [Read more](https://github.com/antonbabenko/serverless.tf).
 - [Shisho](https://github.com/flatt-security/shisho) - 用于 Terraform 的轻量级静态分析器.
 - [Styra Declarative Authorization Service (DAS)](https://www.styra.com/terraform-cloud-config-management-with-styra-das-and-open-policy-agent) - 提供托管 [Open Policy Agent (OPA)](https://www.openpolicyagent.org) 适用于应用程序和基础设施用例的平台，包括 Terraform、Terraform Cloud 和 Kubernetes. 在开发期间、CI/CD 管道中和部署时实施策略护栏.  Styra DAS Free 提供多个系统和用户、策略影响分析、决策记录和回放，以及对 Styra 的 Terraform 策略库的访问.
-- [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - The power of Ansible and Terraform + the simplicity of Docker Swarm = Infrastructure as Code and DevOps best practices.
+- [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Ansible 和 Terraform 的强大功能 + Docker Swarm 的简单性 = 基础架构即代码和 DevOps 最佳实践.
 - [tau](https://github.com/avinor/tau) - Tau 是 Terraform 之上的薄包装器，用于管理多个部署、依赖项和机密.
 - [terraboard](https://github.com/camptocamp/terraboard) - 用于检查 Terraform 状态的 Web 仪表板.
 - [terraboot](https://github.com/MastodonC/terraboot) - DSL 生成地形配置并运行它.
@@ -303,11 +303,12 @@
 - [terrafile](https://github.com/dxw/terrafile) - 系统地管理来自 Github 的外部模块以用于 Terraform（用 Ruby 编写）.
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle)  - 轻松构建包含 Terraform 二进制文件和提供程序二进制文件的捆绑包. 对 CI 和气隙 Terraform Enterprise 很有用.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Terraform 的 CDK（云开发工具包）允许开发人员使用熟悉的编程语言来定义云基础设施并通过 HashiCorp Terraform 进行配置.
+- [terraform-iam-policy-validator](https://github.com/awslabs/terraform-iam-policy-validator) - CLI 根据 AWS IAM 最佳实践验证 Terraform 模板中的 AWS IAM 策略.
 - [terraform-credentials-vault](https://github.com/oulman/terraform-credentials-vault) - 一个 Terraform“凭证助手”插件，允许通过环境变量为 Terraform 本地服务（私有模块注册表、Terraform Cloud 等）提供凭证.
 - [terraform-diff](https://github.com/contentful-labs/terraform-diff) - 始终知道您需要在哪里运行 Terraform 计划和申请！
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs) - 从 Terraform 模块生成文档的快速实用程序.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - 命令行工具允许将 terraform graph 命令几乎不可用的输出转换为更有意义和解释性的内容.
-- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *（仅 0.11 及更早版本）* 改进 Terraform 的计划输出，使其更易于阅读和理解.
+- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
 - [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - 用于处理 Terraform 操作的 Kubernetes CRD.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser)  - 用于从“terraform plan”解析标准输出并将其转换为 JSON 的命令行实用程序和 JavaScript API.  ：鬼：
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - 用于管理相同 Terraform 脚本的多个条款的工具.
@@ -338,8 +339,10 @@
 - [tfmask](https://github.com/cloudposse/tfmask) - 用于屏蔽“terraform plan”和“terraform apply”的选择输出的 Terraform 实用程序
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - GitOps 的 Terraform 状态迁移工具.
 - [tfmigrator](https://github.com/tfmigrator/cli) - 转到库和 CLI 以迁移 Terraform 配置和状态
+- [tfproviderlint](https://github.com/bflad/tfproviderlint) - Terraform 提供程序 Lint 工具.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 Terraform 管理的 AWS 基础设施的框架.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Terraform 提供商的模式检查器.
+- [tftree](https://github.com/busser/tftree) - 在您的终端中显示您的 Terraform 模块调用堆栈.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - 更新 Terraform 配置中的版本限制.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv 从 HashiCorp Vault 中读取秘密，并使用这些秘密为各种 Terraform 提供者输出环境变量.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem 为正常运行 Hashicorp Terraform 提供 rake 任务.

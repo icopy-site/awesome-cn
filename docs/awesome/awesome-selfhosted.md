@@ -74,7 +74,7 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 - [Episodes](https://github.com/guptachetan1997/Episodes)  `⚠` - 使用 django、bootstrap4 构建的自托管电视节目剧集跟踪器和推荐器.  `麻省理工学院``蟒蛇`
 - [Exadel CompreFace](https://exadel.com/solutions/compreface/)  - 人脸识别系统，提供人脸识别、人脸检测等人脸服务的REST API，使用docker轻松部署. 有适用于 Python 和 JavaScript 语言的 SDK. 可以在没有机器学习技能的情况下使用.  ([Source Code](https://github.com/exadel-inc/CompreFace))`Apache-2.0``Docker/Java/Nodejs`
 - [feed2toot](https://feed2toot.readthedocs.io/en/latest/)  - Feed2toot 解析 RSS 提要，提取最后的条目并将它们发送到 Mastodon.  ([Source Code](https://gitlab.com/chaica/feed2toot))`GPL-3.0``Python`
-- [feedmixer](https://github.com/cristoper/feedmixer)  - FeedMixer 是一个 WSGI (Python3) 微型 Web 服务，它获取提要 URL 列表并返回一个新提要，该提要由每个给定提要中的最新 n 个条目组成（返回 Atom、RSS 或 JSON）.  ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1))`WTFPL``Python`
+- [feedmixer](https://github.com/cristoper/feedmixer)  - FeedMixer 是一个 WSGI (Python3) 微型 Web 服务，它获取提要 URL 列表并返回一个新提要，其中包含每个给定提要的最新 n 个条目（返回 Atom、RSS 或 JSON）.  ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1))`WTFPL``Python`
 - [Headphones](https://github.com/rembo10/headphones)  - 用于 NZB 和 Torrent 的自动音乐下载器，用 Python 编写. 它支持 SABnzbd、NZBget、Transmission、µTorrent、Deluge 和 Blackhole.  `GPL-3.0` `Python`
 - [Healthchecks](https://healthchecks.io/)  - 侦听 ping 并在 ping 延迟时发送警报的 Django 应用程序.  ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 - [homebank-converter](https://github.com/Binnette/homebank-converter)  - 将导出银行文件转换为兼容的 Homebank csv 的 Web 应用程序.  ([Demo](https://binnette.github.io/homebank-converter/)) `AGPL-3.0` `HTML5`
@@ -701,7 +701,7 @@ _Related: [Content Management Systems (CMS)](#content-management-systems-cms), [
 
 _Related: [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)_
 
-- [Aimeos](https://aimeos.org/)  - 超快速的开源电子商务框架，用于构建自定义在线商店、市场和复杂的 B2B 应用程序，可使用 Laravel 扩展到数十亿件商品.  ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos))`LGPL-3.0/MIT``PHP`
+- [Aimeos](https://aimeos.org/)  - 超快速的开源电子商务框架，用于构建自定义在线商店、市场和复杂的 B2B 应用程序，使用 Laravel 扩展到数十亿个项目.  ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos))`LGPL-3.0/MIT``PHP`
 - [Attendize](https://www.attendize.com/)  - 门票销售和活动管理平台.  ([Source Code](https://github.com/attendize/attendize)) `旧` `Docker/PHP`
 - [Bagisto](https://bagisto.com/en/)  - 领先的 Laravel 开源电子商务框架，具有多库存来源、税收、本地化、直销和更多令人兴奋的功能.  ([Demo](https://demo.bagisto.com/), [Source Code](https://github.com/bagisto/bagisto)) `WITH` `PHP`
 - [CoreShop](https://www.coreshop.org)  - CoreShop 是 Pimcore 的电子商务插件.  ([Source Code](https://github.com/coreshop/CoreShop))`GPL-3.0``PHP`
@@ -808,7 +808,7 @@ _Related: [Groupware](#groupware)_
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Object storage](https://en.wikipedia.org/wiki/Object_storage) 是一种计算机数据存储，将数据作为对象进行管理，这与其他存储架构（如文件系统将数据作为文件层次结构进行管理）和块存储将数据作为扇区和磁道中的块进行管理不同.
+[Object storage](https://en.wikipedia.org/wiki/Object_storage) 是一种将数据作为对象进行管理的计算机数据存储，这与其他存储架构（如文件系统将数据作为文件层次结构进行管理）和块存储将数据作为扇区和磁道中的块进行管理不同.
 
 - [GarageHQ](https://garagehq.deuxfleurs.fr/)  - 一种开源地理分布式存储服务，您可以自行托管以满足许多需求 - S3 兼容.  ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `生锈`
 - [Minio](https://min.io/)  - Minio 是一个兼容 Amazon S3 API 的开源对象存储服务器.  ([Source Code](https://github.com/minio/minio))`AGPL-3.0``去`
@@ -914,7 +914,7 @@ _Related: [Groupware](#groupware)_
 - [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth)  - 韦诺之战是一款开放源代码的回合制战术策略游戏，具有高度幻想的主题，具有单人游戏和在线/热座多人战斗.  `GPL-2.0` `C++`
 - [Word Mastermind](https://github.com/clupasq/word-mastermind)  - Wordle 克隆. 一款类似 Mastermind 的游戏，但您需要猜词而不是颜色.  ([Demo](https://word-mastermind.glitch.me/))`麻省理工学院``Nodejs`
 - [Wordle](https://reactle.vercel.app/)  - 一个开源文字游戏. 猜六次单词. 每个猜测必须是一个有效的五个字母的单词.  ([Source Code](https://github.com/cwackerfuss/react-wordle))`麻省理工学院``Nodejs`
-- [Zero-K](https://zero-k.info/)  - 在 Springrts 引擎上开源.  Zero-K 是一款传统的实时战略游戏，专注于通过地形操纵、物理和大量独特单位来发挥玩家的创造力 - 同时平衡以支持竞争性游戏.  ([Source Code](https://github.com/ZeroK-RTS/Zero-K))`GPL-2.0``第二`
+- [Zero-K](https://zero-k.info/)  - 在 Springrts 引擎上开源.  Zero-K 是一款传统的实时战略游戏，专注于通过地形操纵、物理和大量独特单位来发挥玩家的创造力——同时平衡以支持竞争性游戏.  ([Source Code](https://github.com/ZeroK-RTS/Zero-K))`GPL-2.0``第二`
 
 
 ### Games - Administrative Utilities & Control Panels
@@ -1509,14 +1509,14 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 
 A [proxy](https://en.wikipedia.org/wiki/Proxy_server) 是一个服务器应用程序，充当请求资源的客户端和提供该资源的服务器之间的中介.
 
-- [imgproxy](https://imgproxy.net/)  - 用于调整远程图像大小和转换的快速且安全的独立服务器. 当您需要即时调整多个图像的大小而不准备大量缓存的调整大小的图像或每次设计更改时都重新执行时，它非常有用.  ([Source Code](https://github.com/imgproxy/imgproxy)) `WITH` `Go/Docker`
+- [imgproxy](https://imgproxy.net/)  - 用于调整远程图像大小和转换的快速且安全的独立服务器. 当您需要即时调整多个图像的大小而不准备大量缓存的调整大小的图像或每次设计更改时重新执行时，它非常有用.  ([Source Code](https://github.com/imgproxy/imgproxy)) `WITH` `Go/Docker`
 - [inlets](https://inlets.dev/)  - 通过 Kubernetes 集成、Docker 镜像和可用的 CLI，将您的本地端点暴露在互联网上.  `MIT` `Go/Docker`
 - [iodine](https://code.kryo.se/iodine/)  - IPv4 over DNS 隧道解决方案，使您能够启动 socks5 代理侦听器.  ([Source Code](https://github.com/yarrick/iodine))`ISC``C`
 - [microproxy](https://github.com/thekvs/microproxy)  - 轻量级非缓存 HTTP/HTTPS 代理服务器.  `麻省理工学院``去`
 - [Nginx Proxy Manager](https://nginxproxymanager.com/)  - Nginx 代理管理器是一种通过 SSL 终止完成反向代理主机的简单方法.  ([Source Code](https://github.com/jc21/nginx-proxy-manager)) `WITH` `Nodejs/Docker`
 - [Outline Server](https://getoutline.org/)  - 为每个访问密钥运行 Shadowsocks 实例的代理服务器和用于管理访问密钥的 REST API.  ([Source Code](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
 - [PHP-Proxy](https://www.php-proxy.com/)  - 专为快速、易于修改和支持 YouTube 等视频网站而构建的 Web 代理脚本.  ([Demo](https://unblockvideos.com/), [Source Code](https://github.com/Athlon1600/php-proxy-app)) `WITH` `PHP`
-- [Pomerium](https://www.pomerium.io)  - 身份感知反向代理，现在已过时的 oauth_proxy 的继承者. 它在将你的请求代理到后端之前插入一个 OAuth 步骤，这样你就可以安全地将你的自托管网站暴露给公共互联网.  ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
+- [Pomerium](https://www.pomerium.io)  - 身份感知反向代理，现在已过时的 oauth_proxy 的继承者. 它在将您的请求代理到后端之前插入一个 OAuth 步骤，这样您就可以安全地将您的自托管网站暴露给公共互联网.  ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
 - [Pound](https://www.apsis.ch/pound.html)  - 用于 HTTP/HTTPS 的轻量级反向代理和负载均衡器.  `GPL-2.0` `C`
 - [Privoxy](https://www.privoxy.org)  - 具有高级过滤功能的非缓存 Web 代理，用于增强隐私、修改网页数据和 HTTP 标头、控制访问以及删除广告和其他令人讨厌的互联网垃圾.  `GPL-2.0` `C`
 - [Redbird](https://github.com/OptimalBits/redbird)  - 一个现代的节点反向代理，包括集群、HTTP2、LetsEncrypt 和 Docker 支持.  `BSD-2-Clause` `Javascript`
@@ -1642,7 +1642,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)） 是
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Software development](https://en.wikipedia.org/wiki/Software_development) 是在创建和维护应用程序、框架或其他软件组件时涉及的构思、指定、设计、编程、记录、测试和错误修复的过程.
+[Software development](https://en.wikipedia.org/wiki/Software_development) 是在创建和维护应用程序、框架或其他软件组件时涉及的构思、指定、设计、编程、文档化、测试和错误修复的过程.
 
 **请拜访 [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Low Code](#software-development---low-code), [Software Development - Project Management](#software-development---project-management), [Software Development - Testing](#software-development---testing)**
 
@@ -1682,6 +1682,7 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)） 是
 [Serverless computing - Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing).
 
 - [Appwrite](https://appwrite.io)  - 面向 Web、本机和移动开发人员的端到端后端服务器.  ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`
+- [Coolify](https://coolify.io/)  - 一个开源和可自托管的 Heroku / Netlify 替代方案（甚至更多）.  ([Demo](https://demo.coolify.io/), [Source Code](https://github.com/coollabsio/coolify))`Apache-2.0``Docker`
 - [fx](https://github.com/metrue/fx)  - 一种帮助您在自己的服务器上轻松实现功能即服务的工具.  `麻省理工学院``去`
 - [IronFunctions](https://github.com/iron-io/functions) - 无服务器微服务平台 [iron.io](https://www.iron.io/) .  `Apache-2.0``去`
 - [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code](https://github.com/localstack/localstack)) `Apache-2.0` `Python/其他`
@@ -1872,7 +1873,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [Helpy](https://helpy.io)  - Helpy 是一个现代的开源帮助台客户支持应用程序. 功能包括知识库、社区讨论和与电子邮件集成的支持票.  ([Demo](https://demo.helpy.io), [Source Code](https://github.com/helpyio/helpy)) `WITH` `Ruby`
 - [Iguana](https://github.com/iguana-project/iguana) - Iguana is an open source issue management system with a kanban board. `CC-BY-SA-4.0` `Python/Docker`
 - [MantisBT](https://www.mantisbt.org/)  - 自托管错误跟踪器，最适合软件开发.  ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code](https://github.com/mantisbt/mantisbt))`GPL-2.0``PHP`
-- [OpenSupports](https://www.opensupports.com/)  - 具有常见问题解答、角色管理、指标和预设响应功能的多语言票务系统.  ([Demo](https://www.opensupports.com/demo/), [Source Code](https://github.com/opensupports/opensupports))`GPL-3.0``PHP`
+- [OpenSupports](https://www.opensupports.com/)  - 具有常见问题解答、角色管理、指标和预设响应功能的多语言票证系统.  ([Demo](https://www.opensupports.com/demo/), [Source Code](https://github.com/opensupports/opensupports))`GPL-3.0``PHP`
 - [osTicket](https://osticket.com/)  - 在一个地方管理、组织和归档您的所有支持请求和响应.  ([Source Code](https://github.com/osTicket/osTicket))`GPL-2.0``PHP`
 - [OTOBO](https://otobo.de/en/)  - 灵活的基于网络的票务系统，用于客户服务、帮助台、IT 服务管理.  ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code](https://github.com/RotherOSS/otobo))`GPL-3.0``Perl`
 - [Pachno](https://pach.no/)  - 将您的团队聚集在一起，使用适合您和您的团队并在需要时进行调整的工具来设计、构建和交付您的项目.  ([Source Code](https://github.com/pachno/pachno))`MPL-2.0``PHP`

@@ -211,7 +211,7 @@ Tools
 无锁、并发、键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [麻省理工][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  - 数据结构和算法的可移植集合（主要是字典和序列，具有一些统计功能）.  [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  - 受 Haskell 的 Data.List 启发的列表操作库.  [LLGPL][8].
-* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便利库
+* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便捷库
 * [cl-containers](https://common-lisp.net/project/cl-containers/) - 一个广泛的数据结构和实用程序库 - 队列、树、堆、双向链表、集合、包……[MIT][200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  - 用于竞争性编程的 Common Lisp 算法集合. 公共领域、CCO 或 MIT.
 
@@ -228,7 +228,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -495,7 +495,7 @@ CLOS 扩展
 功能扩展
 -------------------
 
-* [cl-hooks](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
+* [cl-hooks](https://github.com/scymtym/architecture.hooks/)  - 挂钩扩展点机制（众所周知，例如，来自 GNU Emacs）.  LGPL.
 * [method-hooks](https://gitlab.com/Gnuxie/method-hooks)  - 当 CLOS 方法组合只允许每个方法有一个挂钩时，该库允许任意数量的挂钩.  Mozilla 公共许可证.
 * [cl-advice](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md)  - SBCL、CCL、LispWorks 和 Allegro 的可移植层建议库的尝试. 不在 Quicklisp 中.
 * [nhooks](https://github.com/atlas-engineer/nhooks) - 具有重要改进的挂钩（扩展点）的增强实现.
@@ -916,7 +916,7 @@ Websockets
 
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3条款][15]. 不在 Quicklisp 中.
   * 提供一个工作玩具网络应用程序，带有 Hunchentoot 网络服务器、简单路由、Djula 模板，使用 Bulma 设计样式，基于 SQLite，带有迁移、示例表定义和使用 FiveAM 的测试套件.
-* [make-like](https://github.com/container-lisp/make-like)  - LIKE（Kubernetes + Emacs 中的 Lisp）应用程序的应用程序模板构建器.  [Apache2.0][51].
+* [make-like](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0][51].
   * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的简易路由等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的网络应用样板. 使用 Hunchentoot、cl-who，可以轻松部署到 Heroku.  [麻省理工][200].
 
@@ -961,6 +961,7 @@ Others
 服务 (S3) 和 CloudFront 服务.  [BSD][15].
 * [cl-ses](https://github.com/CodyReichert/cl-ses/)  - AWS SES 库.  [外籍人士][14].
 * [north](https://shinmera.github.io/north)  - South (Simple OaUTH) 库的继承者，在客户端和服务器端实现了完整的 oAuth 1.0a 协议. 使用 North，您可以轻松成为 oAuth 提供者或消费者.  [zlib][33].
+* [Ciao](https://github.com/kjinho/ciao)  - 一个易于使用的 Common Lisp OAuth 2.0 客户端库. 它是 Racket OAuth 2.0 客户端到 Common Lisp 的端口.  [LGPL3][9].
 * [avatar-api](https://github.com/eudoxia0/avatar-api)  - 从 Google+、Gravatar 等获取头像.  [外籍人士][14].
 * [chirp](https://github.com/Shinmera/chirp)  - 一个 Twitter 客户端库.  [zlib][33].
 * [tooter](https://github.com/Shinmera/tooter)  - 为 Mastodon 实现完整 v1 REST API 协议的客户端库.  [zlib][33].
@@ -1115,7 +1116,7 @@ Readline、ncurses 和其他图形助手
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   函数在输入时编辑行，维护列表
   以前输入的命令行，调用并重新编辑它们，
-  perform csh-like history expansion.  Emacs and vi editing
+  执行类似 csh 的历史扩展.  Emacs 和 vi 编辑
   模式.  [GPL3][2].
 * [Linedit](https://common-lisp.net/project/linedit) - 阅读风格
   提供可定制行编辑的库
@@ -1153,7 +1154,7 @@ Readline、ncurses 和其他图形助手
 其他脚本实用程序
 -------------------------
 
-* [WCL](https://github.com/wadehennessey/wcl) [停滞] - 允许数百个 Lisp
+* [WCL](https://github.com/wadehennessey/wcl) [stalled] - allow hundreds of Lisp
 应用程序可立即实际使用，同时允许
 其中几个同时运行.  WCL 通过
 提供 Common Lisp 作为 Unix 共享库，可以与
@@ -1214,7 +1215,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 
 * [Sublime Text](http://www.sublimetext.com/3) （专有）有
   Common Lisp 支持及其 SublimeREPL 和
-  [Slyblime](https://github.com/s-clerc/slyblime) 包裹. 狡猾的人
+  [Slyblime](https://github.com/s-clerc/slyblime) 包. 狡猾的人
   是 SLY 的一个实现，它使用相同的后端 (SLYNK). 它
   附带高级功能，包括带有堆栈框架的调试器
   检查.
@@ -1234,7 +1235,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 
 * [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)  - Jupyter 的 Common Lisp 内核以及用于构建 Jupyter 内核的库，基于 Robert Dodier 的 Maxima-Jupyter，它基于 Frederic Peschanski 的 cl-jupyter.  [麻省理工][200].
   * [jupyterlab-debugger-restarts](https://github.com/yitzchak/jupyterlab-debugger-restarts) - JupyterLab 调试器的重启功能.
-  * [Cytoscape widget](https://github.com/yitzchak/cytoscape-clj) -  Cytoscape.js widget for common-lisp-jupyter.
+  * [Cytoscape widget](https://github.com/yitzchak/cytoscape-clj) - 用于 common-lisp-jupyter 的 Cytoscape.js 小部件.
   * [Kekule widget](https://github.com/yitzchak/kekule-clj) - 用于 common-lisp-jupyter 的 Kekule.js 小部件.
   * [molecule viewer](https://github.com/yitzchak/jupyterlab-molviewer) - 使用 ngl 的 JupyterLab 分子查看器.
   * [ngl widget](https://github.com/yitzchak/ngl-clj) - 用于 common-lisp-jupyter 的 ngl 小部件（蛋白质查看器）.
@@ -1296,7 +1297,7 @@ Tools
 单元测试
 ============
 
-* ⭐ [FiveAM](https://github.com/sionescu/fiveam)  - 简单的回归测试框架.  [FreeBSD][39].
+* ⭐ [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
   * [fiveam-matchers](https://github.com/tdrhq/fiveam-matchers/)  - 用于 fiveam 的可扩展、可组合的匹配器库.  [Apache2.0][89].
 * [CLUnit2](https://notabug.org/cage/clunit2/)  - 单元测试库.  [麻省理工][200].
 * [Parachute](https://github.com/Shinmera/parachute)  - 一个可扩展和交叉兼容的测试框架. 具有测试依赖性、条件、固定装置和重新启动.  [zlib][33].

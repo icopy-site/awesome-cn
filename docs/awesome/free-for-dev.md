@@ -21,7 +21,7 @@
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
+    * App Engine - 每天 28 个前端实例小时，每天 9 个后端实例小时
     * Cloud Firestore - 1GB 存储空间，每天 50,000 次读取、20,000 次写入、20,000 次删除
     * Compute Engine - 1 个非抢占式 e2-micro、30GB HDD、5GB 快照存储（仅限于某些地区）、每月从北美到所有地区目的地（不包括中国和澳大利亚）的 1GB 网络出口
     * 云存储 - 5GB，1GB 网络出口
@@ -200,7 +200,7 @@
   * [ipapi](https://ipapi.co/)  - Kloudend, Inc 的 IP 地址定位 API - 一个可靠的地理定位 API，建立在 AWS 上，受到财富 500 强的信任.免费层提供每月 3 万次查询（1 千次/天），无需注册. 联系我们获取更高限额的试用计划.
   * [IPinfo](https://ipinfo.io/)  — 快速、准确且免费（每月最多 50k）的 IP 地址数据 API. 提供包含地理位置、公司、运营商、IP 范围、域、滥用联系人等详细信息的 API. 所有付费API均可免费试用.
   * [IPList](https://www.iplist.cc)  — 查找有关任何 IP 地址的详细信息，例如地理 IP 信息、Tor 地址、主机名和 ASN 详细信息. 对个人和企业用户免费.
-  * [BigDataCloud](https://www.bigdatacloud.com/) - 为 IP 地理定位、反向地理编码、网络洞察、电子邮件和电话验证、客户信息等现代网络提供快速、准确和免费（无限制或高达 10K-50K/月）API.
+  * [BigDataCloud](https://www.bigdatacloud.com/) - 为现代网络提供快速、准确和免费（无限制或高达 10K-50K/月）API，如 IP 地理定位、反向地理编码、网络洞察、电子邮件和电话验证、客户信息等.
   * [IPTrace](https://iptrace.io) — 一个令人尴尬的简单 API，可为您的企业提供可靠且有用的 IP 地理定位数据.
   * [JSON2Video](https://json2video.com) - 一个视频编辑 API，用于以编程方式或无代码自动化视频营销和社交媒体视频.
   * [JSON IP](https://getjsonip.com)  — 返回请求它的客户端的公共 IP 地址. 免费套餐无需注册. 可以直接从浏览器使用客户端 JS 请求使用 CORS 数据. 对于服务监控客户端和服务器 IP 的变化很有用. 无限请求.
@@ -233,10 +233,10 @@
   * [Preset Cloud](https://preset.io/)  - 托管的 Apache Superset 服务. 最多 5 个用户的团队永远免费，具有无限的仪表板和图表、无代码图表生成器和协作 SQL 编辑器.
   * [PromptLoop](https://www.promptloop.com/)  - 使用 AI 和大型语言模型（如 GPT-3）和一个简单的电子表格公式来转换、理解和分析 Google 表格中的文本. 每月前 2,000 个积分免费.
   * [ProxyCrawl](https://proxycrawl.com/)  — 无需代理、基础设施或浏览器即可抓取和抓取网站. 我们为您解决验证码并防止您被阻止. 前 1000 次通话免费.
-  * [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — 免费公共 API 列表.
+  * [Public-Apis Github Repo](https://github.com/public-apis/public-apis) — A list of free public APIs.
   * [Supportivekoala](https://supportivekoala.com/)  — 允许您通过模板输入自动生成图像. 免费计划允许您每周创建多达 100 张图像.
   * [QuickMocker](https://quickmocker.com/)  — 在您自己的子域下管理在线假 API 端点，将请求转发到本地主机 URL 以进行 webhook 开发和测试，使用 RegExp 和多种 HTTP 方法作为 URL 路径，优先端点，超过 100 个短代码（动态或假响应值）用于响应模板，从 JSON 格式的 OpenAPI (Swagger) 规范导入，代理请求，通过 IP 地址和授权标头限制端点. 免费帐户提供 1 个随机子域、10 个端点、5 个 RegExp URL 路径、每个端点 50 个短代码、每天 100 个请求、请求日志中的 50 条历史记录.
-  * [Rapidapi](https://rapidapi.com/) - 世界上最大的 API 中心 数百万开发人员发现并连接到数以千计的 API，使用有趣的挑战（带有解决方案！）和交互式示例进行 API 开发.
+  * [Rapidapi](https://rapidapi.com/) - 世界上最大的 API 中心数百万开发人员发现并连接到数以千计的 API，使用有趣的挑战（带有解决方案！）和交互式示例进行 API 开发.
   * [RequestBin.com](https://requestbin.com)  — 创建一个可以向其发送 HTTP 请求的免费端点. 发送到该端点的任何 HTTP 请求都将与关联的有效负载和标头一起记录，以便您可以观察来自 webhook 和其他服务的请求.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark 使任何 API、应用程序或数据所有者都能通过直观的浏览器界面在几分钟内成为 API 提供者.
   * [Roboflow](https://roboflow.com)  - 创建和部署自定义计算机视觉模型，无需先前的机器学习经验. 免费层包括多达 1,000 个免费源图像.
@@ -322,7 +322,7 @@
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free)  — Microsoft Teams 是一个基于聊天的数字中心，它将对话、内容和应用集中在一个地方，所有这些都来自一次体验. 最多 50 万用户免费.
   * [Miro](https://miro.com/)  - 适用于分布式团队的可扩展、安全、跨设备和企业级团队协作白板. 使用免费增值计划.
   * [nootiz](https://www.nootiz.com/) - 在任何网站上收集和管理视觉反馈的首选工具
-  * [Notion](https://www.notion.so/)  - Notion 是一个笔记和协作应用程序，具有 markdown 支持，还集成了任务、wiki 和数据库. 该公司将这款应用描述为一个集笔记、项目管理和任务管理于一体的工作空间. 除了跨平台应用程序之外，它还可以通过大多数网络浏览器访问.
+  * [Notion](https://www.notion.so/)  - Notion 是一个笔记和协作应用程序，具有 markdown 支持，还集成了任务、wiki 和数据库. 该公司将这款应用描述为一个集笔记、项目管理和任务管理于一体的工作区. 除了跨平台应用程序之外，它还可以通过大多数网络浏览器访问.
   * [Nuclino](https://www.nuclino.com)  - 一个轻量级的协作 wiki，用于您团队的所有知识、文档和笔记. 具有所有基本功能的免费计划，最多 50 个项目，5GB 总存储空间.
   * [Quidlo Timesheets](https://www.quidlo.com/timesheets)  - 一个简单的团队时间表和时间跟踪应用程序. 免费计划具有时间跟踪和生成报告功能，最多可供 10 个用户使用.
   * [PageShare.dev](https://www.pageshare.dev)  - 无需部署网站即可在 GitHub Pull Requests 中添加视觉评论功能. 每月最多免费提供 10 页，总共 100MB 的存储空间.
@@ -348,7 +348,7 @@
   * [typetalk.com](https://www.typetalk.com/) — Share and discuss ideas with your team through instant messaging on the web or on your mobile
   * [Tugboat](https://tugboat.qa)  - 自动和按需预览每个拉取请求. 对所有人免费，为非营利组织提供免费的 Nano 层级.
   * [whereby.com](https://whereby.com/) — 一键视频对话，免费（以前称为 appear.in）
-  * [windmill.dev](https://windmill.dev/)  - Windmill 是一个开源开发人员平台，可以从最少的 Python 和 Typescript 脚本快速构建生产级多步骤自动化和内部应用程序. 免费用户，您最多可以创建 3 个非高级工作区并成为其成员.
+  * [windmill.dev](https://windmill.dev/)  - Windmill 是一个开源开发人员平台，可从最少的 Python 和 Typescript 脚本快速构建生产级多步骤自动化和内部应用程序. 免费用户，您最多可以创建 3 个非高级工作区并成为其成员.
   * [vadoo.tv](https://vadoo.tv/)  — 视频托管和营销变得简单. 单击一下即可上传视频. 记录、管理、分享等. 免费层提供最多 10 个视频、1 GB 存储空间、10 GB 带宽/月
   * [vspace](https://vvv.space/) — 私人/公共空间的免费链接管理器，包括 slack 和 google docs 集成以及 chrome 插件.
   * [userforge.com](https://userforge.com/)  - 相互关联的在线角色、用户故事和上下文映射. 帮助保持设计和开发同步，最多可免费供 3 个角色和 2 个协作者使用.
@@ -385,7 +385,7 @@
 
 ## Code Quality
 
-  * [SoftaCheck](https://www.softacheck.com/)  — 一款在线工具，使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析，并使用doxygen为用户自动生成代码文档. 该工具可免费使用.
+  * [SoftaCheck](https://www.softacheck.com/)  — 在线工具，使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析，并使用doxygen为用户自动生成代码文档. 该工具可免费使用.
   * [beanstalkapp.com](https://beanstalkapp.com/) — 编写、审查和部署代码的完整工作流程），1 个用户的免费帐户和 1 个存储空间为 100 MB 的存储库
   * [browserling.com](https://www.browserling.com/) — 实时交互式跨浏览器测试，在 Vista 下以 1024 x 768 分辨率与 MS IE 9 进行仅 3 分钟的免费会话
   * [codacy.com](https://www.codacy.com/) — PHP、Python、Ruby、Java、JavaScript、Scala、CSS 和 CoffeeScript 的自动代码审查，免费用于无限的公共和私人存储库
@@ -438,7 +438,7 @@
   * [AccessLint](https://github.com/marketplace/accesslint)  — AccessLint 将自动 Web 可访问性测试引入您的开发工作流程. 它对于开源和教育目的是免费的.
   * [appcircle.io](https://appcircle.io)  — 带有在线设备模拟器的 iOS 和 Android 自动化移动 CI/CD/CT.  20 分钟构建超时（开源 60 分钟），单并发免费.
   * [appveyor.com](https://www.appveyor.com/) — Windows CD 服务，开源免费
-  * [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 支持在 Kubernetes 和 Lambda 环境中部署自定义和第三方应用程序. 免费层允许为 5 个环境和 2 个用户进行无限制的应用程序和部署.
+  * [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 支持在 Kubernetes 和 Lambda 环境中部署自定义和第三方应用程序. 免费层允许为 5 个环境和 2 个用户进行无限制的应用程序和部署.
   * [bitrise.io](https://www.bitrise.io/)  — 适用于本机或混合移动应用程序的 CI/CD. 每月 200 个免费构建，10 分钟构建时间和两名团队成员.  OSS 项目获得 45 分钟的构建时间、+1 的并发性和无限的团队规模.
   * [buddy.works](https://buddy.works/) — 具有 5 个免费项目和 1 个并发运行的 CI/CD（120 次执行/月）
   * [buddybuild.com](https://www.buddybuild.com/) — 在一个无缝的迭代系统中为您的 iOS 和 Android 应用程序构建、部署和收集反馈
@@ -537,7 +537,7 @@
   * [Ubiq Security](https://ubiqsecurity.com/)  — 使用 3 行代码和自动密钥管理来加密和解密数据.  1 个应用程序免费，每月最多 1,000,000 次加密.
   * [Virgil Security](https://virgilsecurity.com/)  — 用于在您的数字解决方案中实施端到端加密、数据库保护、物联网安全等的工具和服务. 最多 250 个用户的应用程序免费.
   * [Virushee](https://virushee.com/)  — 由混合启发式和 AI 辅助引擎提供支持的面向隐私的文件/数据扫描. 可以使用内部动态沙箱分析. 每个文件上传限制为 50MB
-  * [Escape GraphQL Quickscan](https://escape.tech/)  - 一键式安全扫描您的 GraphQL 端点. 免费，无需登录.
+  * [Escape GraphQL Quickscan](https://escape.tech/) - One-click security scan of your GraphQL endpoints. Free, no login required.
 
 
 
@@ -816,7 +816,7 @@
 
 ## Forms
   * [Form-Data](https://form-data.com)  - 无代码表单后端. 垃圾邮件过滤器、电子邮件通知和自动回复、webhooks、zapier、重定向、AJAX 或 POST 等等. 免费计划提供无限制的表单、每月 20 次提交和额外的 2000 次带有表单数据徽章的提交.
-  * [FabForm](https://fabform.io/)  - 为智能开发者构建后端平台. 免费计划允许每月提交 250 份表格. 友好的现代图形用户界面. 与 Google 表格、Airtable、Slack、电子邮件等集成.
+  * [FabForm](https://fabform.io/) - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email and others.
   * [Form.taxi](https://form.taxi/)  — HTML 表单提交的端点. 具有通知、垃圾邮件拦截器和符合 GDPR 的数据处理. 基本使用的免费计划.
   * [Formcake.com](https://formcake.com)  - 开发人员的表单后端，免费计划允许无限表单、100 次提交、Zapier 集成. 不需要库或依赖项.
   * [Formcarry.com](https://formcarry.com) - HTTP POST 表单端点，免费计划允许每月提交 100 次.
@@ -825,7 +825,7 @@
   * [formlets.com](https://formlets.com/) — 在线表格，无限制的单页表格/月，100 次提交/月，电子邮件通知.
   * [formspark.io](https://formspark.io/) - 表格到电子邮件服务，免费计划允许无限制表格，每月 250 次提交，由客户协助团队提供支持.
   * [Formspree.io](https://formspree.io/)  — 使用 HTTP POST 请求发送电子邮件. 免费套餐限制为每个表单每月提交 50 次.
-  * [Formsubmit.co](https://formsubmit.co/) — Easy form endpoints for your HTML forms. Free Forever. No registration required.
+  * [Formsubmit.co](https://formsubmit.co/)  — HTML 表单的简易表单端点. 永远免费. 无需注册.
   * [getform.io](https://getform.io/) - 面向设计师和开发人员的表单后台平台，1个表单，50个提交，单个文件上传，100MB文件存储.
   * [HeroTofu.com](https://herotofu.com/)  - 形成具有机器人检测和加密存档的后端. 通过 UI 将提交转发到电子邮件、Slack 或 Zapier. 使用您自己的前端，无需服务器代码. 免费计划提供无限的表格和每月 100 次提交.
   * [HeyForm.net](https://heyform.net/)  - 拖放在线表单生成器. 免费层可让您创建无限的表单并收集无限的提交. 附带预建模板、反垃圾邮件和 100MB 文件存储空间.
@@ -917,7 +917,7 @@
 
   * [back4app.com](https://www.back4app.com) - Back4App 是一个基于 Parse 平台的易于使用、灵活且可扩展的后端.
   * [backendless.com](https://backendless.com/) — Mobile 和 Web BaaS，免费提供 1 GB 文件存储空间，推送通知 50000 条/月，表中有 1000 个数据对象.
-  * [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp)  — BMC Developer Program 提供文档和资源来为您的企业构建和部署数字创新. 访问全面的个人沙箱，其中包括平台、SDK 和可用于构建和定制应用程序的组件库.
+  * [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp)  — BMC Developer Program 提供文档和资源来为您的企业构建和部署数字创新. 访问全面的个人沙盒，其中包括平台、SDK 和可用于构建和定制应用程序的组件库.
   * [convex.dev](https://convex.dev/)  - 响应式后端即服务，托管您的数据（具有关系的文档和可序列化的 ACID 事务）、无服务器功能和用于将更新流式传输到各种客户端的 websockets. 小型项目免费 - 最多 100 万条记录，每月 500 万次函数调用.
   * [darklang.com](https://darklang.com/)  - 托管语言与编辑器和基础设施相结合. 测试期间免费，测试后计划提供慷慨的免费套餐.
   * [Firebase](https://firebase.com)  — Firebase 可帮助您构建和运行成功的应用程序. 免费 Spark 计划提供身份验证、托管、Firebase ML、实时数据库、云存储、测试实验室.  A/B 测试、分析、应用分发、应用索引、云消息传递 (FCM)、Crashlytics、动态链接、应用内消息传递、性能监控、预测和远程配置始终免费.
@@ -1290,7 +1290,7 @@
 
    * [IP Geolocation](https://ipgeolocation.io/) — 免费的 DEVELOPER 计划提供每月 3 万个请求.
    * [carto.com](https://carto.com/) — 从您的数据和公共数据创建地图和地理空间 API.
-   * [developers.arcgis.com](https://developers.arcgis.com)  — 用于地图、地理空间数据存储、分析、地理编码、路由等跨 Web、桌面和移动设备的 API 和 SDK.  2,000,000 个免费底图图块、20,000 个未存储的地理编码、20,000 条简单路线、5,000 次行驶时间计算、每月 5GB 免费图块+数据存储空间.
+   * [developers.arcgis.com](https://developers.arcgis.com)  — 用于地图、地理空间数据存储、分析、地理编码、路由等跨 Web、桌面和移动设备的 API 和 SDK.  2,000,000 个免费底图图块、20,000 个未存储的地理编码、20,000 条简单路线、5,000 次行驶时间计算、每月 5GB 免费图块 + 数据存储空间.
    * [Foursquare](https://developer.foursquare.com/) - 来自 Places API 和 Pilgrim SDK 的位置发现、场地搜索和上下文感知内容.
    * [geoapify.com](https://www.geoapify.com/)  - 矢量和栅格地图图块、地理编码、地点、路线、等值线 API. 每天 3000 个免费请求.
    * [geocod.io](https://www.geocod.io/)  — 通过 API 或 CSV 上传进行地理编码. 每天 2,500 个免费查询.
@@ -1370,6 +1370,7 @@
 ## Analytics, Events and Statistics
 
    * [Statvoo Analytics](https://analytics.statvoo.com/) — 永远免费为您的所有网站提供客户分析，每月有无限次活动
+   * [Hightouch](https://hightouch.com/)  - Hightouch 是一个反向 ETL 平台，可帮助您将客户数据从数据仓库同步到 CRM、营销和支持工具. 免费套餐，为您提供一个同步数据的目的地.
    * [Avo](https://avo.app/)  — 简化的分析发布工作流程. 单一真实来源跟踪计划、类型安全分析跟踪库、应用程序内调试器、数据可观察性以在发布之前捕获所有数据问题.  2 名工作区成员和 1 小时数据可观察性回顾免费.
    * [Branch](https://branch.io)  — 移动分析平台. 免费套餐为多达 10,000 名移动应用程序用户提供深度链接和其他服务.
    * [Cauldron](https://cauldron.io)  — 分析开源解决方案，允许用户将来自多个协作平台的信息聚合为不同类型的数据源（Git、Github、Gitlab...）. 免费层包括无限数量的报告.
@@ -1514,7 +1515,7 @@
   * [Osano](https://www.osano.com/)  - 同意管理和合规平台，包括从 GDPR 表示到 cookie 横幅的一切. 免费套餐提供基本功能.
   * [Iubenda](https://www.iubenda.com/)  - 隐私和 cookie 政策以及同意管理. 免费层提供有限的隐私和 cookie 政策以及 cookie 横幅.
   * [Cookiefirst](https://cookiefirst.com/)  - Cookie 横幅、审计和多语言同意管理解决方案. 免费层提供一次性扫描和单个横幅.
-  * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. Free tier offers most features with a limited visitor count.
+  * [Ketch](https://www.ketch.com/)  - 同意管理和隐私框架工具. 免费套餐提供大多数功能，但访问者人数有限.
 
 
 ## Miscellaneous
@@ -1582,7 +1583,7 @@
 ## Other Free Resources
 
   * [get.localhost.direct](https://get.localhost.direct) — 更好的 `*.localhost.direct` 通配符公共 CA 签名 SSL 证书，用于支持子域的本地主机开发
-  * [Framacloud](https://degooglisons-internet.org/en/list/) — 法国非营利组织的免费/自由开源软件和 SaaS 列表 [Framasoft](https://framasoft.org/en/).
+  * [Framacloud](https://degooglisons-internet.org/en/list/) — 法国非营利组织的免费/自由开源软件和 SaaS 清单 [Framasoft](https://framasoft.org/en/).
   * [getawesomeness](https://getawesomeness.herokuapp.com) — 从 GitHub 中检索所有令人惊叹的东西......必看
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — 面向开发人员的免费和开源软件中心.
   * [GitHub Education](https://education.github.com/pack)  ——为学生收集免费服务. 需要注册.

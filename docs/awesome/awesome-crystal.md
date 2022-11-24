@@ -34,7 +34,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [markov](https://github.com/mccallofthewild/markov) - 构建马尔可夫链并运行马尔可夫过程
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - 多重集的实现
  * [qr-code](https://github.com/spider-gazelle/qr-code) - 二维码生成器
- * [radix](https://github.com/luislavena/radix) - 基数树实现
+ * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
  * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) 用于空间索引
  * [secure-remote-password](https://github.com/spider-gazelle/secure-remote-password) - 用于在不安全网络上进行身份验证的 SRP-6a 协议
  * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - 符合Hash ducktype的Splay Tree实现
@@ -286,7 +286,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - 富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) - 信号/槽通知库
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Crystal 的 Web 框架，在 Github 上获得最多的关注
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [defined](https://github.com/wyhaines/defined.cr) - 用于根据常量定义、版本要求或环境变量设置进行条件编译的宏
@@ -453,9 +453,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且有凝聚力的 Web 应用程序框架
  * [Athena](https://github.com/athena-framework/athena) - 由可重复使用的独立组件组成的网络框架
- * [grip](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+ * [grip](https://github.com/grip-framework/grip) - 用于编写功能强大的 Web 应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  - 快如闪电，超级简单的网络框架. 灵感来自 Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上而不是调试和编写测试
+ * [marten](https://github.com/martenframework/marten) - 使构建 Web 应用程序变得简单、高效和有趣的 Web 框架
  * [runcobo](https://github.com/runcobo/runcobo) - 一个具有简单、直观和一致的DSL的api框架，使用jbuilder渲染json
  * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) - 基于组件的 MVC web 框架，用于 crystal 目标良好的代码结构、模块化和性能
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - 一个 Rails 风格的网络框架，专注于速度和可扩展性
@@ -504,7 +505,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [icr](https://github.com/crystal-community/icr) - Crystal 的交互式控制台（如 Ruby 的 IRB）
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
@@ -537,7 +538,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - Crystal 的 Vim 文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) - 对俚语模板引擎的 Vim 文件类型支持
  * 视觉工作室代码
-   * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
+   * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) - `cr` 和 `ecr` 文件的格式化程序、linter 和语法突出显示
 
 ## LSP Language Server Protocol Implementations
  * [crystalline](https://github.com/elbywan/crystalline) - Crystalline 是用 Crystal 语言编写并为 Crystal 语言编写的语言服务器协议的实现

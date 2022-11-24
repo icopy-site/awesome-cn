@@ -49,7 +49,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
 
 ## Portfolio Trackers
 
@@ -254,6 +254,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [QUIGON](https://bridge.quigon.com/) - 中心化跨链 NFT 桥.
 - [GlitterFinance](https://glitter.finance/) - Solana、Polygon、Terra 和 Cudos 到 Algorand 的集中式（很快将在 TEAL 6 上分散）桥接.
 - [ptokens](https://dapp.ptokens.io/swap?asset=btc&from=btc&to=algorand) - pNetwork 正式推出 Algorand 跨链桥.
+- [Messina](https://messina.one/) - ALGO — ETH 双向 Messina.one 的桥将为以太坊和 ERC-20 代币与 Algorand 之间的互操作性打开大门.
 
 ## Oracles
 
