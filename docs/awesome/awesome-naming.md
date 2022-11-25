@@ -35,7 +35,7 @@ Famously...
 ## Design Patterns and Anti Patterns
 
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) - 允许具有不兼容接口的类通过将其自己的接口包装在已经存在的类的接口周围来一起工作.
-- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - 类似于建筑中的立面，立面是一个对象，用作掩盖更复杂的底层结构的前端界面.
+- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - 类似于建筑中的立面，立面是一个对象，用作掩盖更复杂的底层结构的前置界面.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises)  - 表示将来可用的结果，除非有错误. 就像在现实中一样，承诺有时会被打破.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - 一种编程反模式，在这种模式下，只需一次更改，您就可以在代码库的任何地方疯狂地添加代码.
 
@@ -112,4 +112,5 @@ Famously...
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - 一个进程永远被拒绝资源来完成它的工作的问题.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - 通过源代码回到过去以了解执行情况，有时甚至可以更改历史记录.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - 摇动依赖树，直到所有死部分都脱落，你最终得到一棵漂亮的瘦树.
+- [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - 输出所有偶数然后输出所有奇数的程序会生成不公平的自然数枚举，因为某些数字永远不会达到. 
 - [Yoda condition](https://eslint.org/docs/latest/rules/yoda) - 当你写 `if (&quot;red&quot; === color) {` 而不是 `if (color === &quot;red&quot;) {` 时，因为它读作“如果红色等于颜色”，类似于星球大战角色尤达说话.

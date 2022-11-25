@@ -132,7 +132,7 @@
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) — 免费的 1GB 云和 Git、Mercurial 或 SVN 存储库.
   * [pijul.com](https://pijul.com/)  - 无限免费和开源分布式版本控制系统. 其显着特点是基于完善的补丁理论，易学易用，真正分布式. 解决了 git/hg/svn/darcs 的诸多问题.
   * [plasticscm.com](https://plasticscm.com/) — 对个人、OSS 和非营利组织免费
-  * [projectlocker.com](https://projectlocker.com) — 一个 50 MB 空间的免费私人项目（Git 和 Subversion）
+  * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB space
   * [RocketGit](https://rocketgit.com)  — 基于 Git 的存储库托管. 无限的公共和私人存储库.
   * [savannah.gnu.org](https://savannah.gnu.org/) - 用作自由软件项目（针对 GNU 项目）的协作软件开发管理系统
   * [savannah.nongnu.org](https://savannah.nongnu.org/) - 用作自由软件项目（非 GNU 项目）的协作软件开发管理系统
@@ -294,7 +294,7 @@
   * [Braid](https://www.braidchat.com/)  — 专为团队设计的聊天应用程序. 对公共访问组、无限用户、历史记录和集成免费. 它还提供可自我托管的开源版本.
   * [cally.com](https://cally.com/)  — 找到会议的最佳时间和日期. 使用简单，适用于小型和大型团体.
   * [Calendly](https://calendly.com)  — Calendly 是连接和安排会议的工具. 免费计划为每位用户提供 1 个日历连接和无限次会议. 还提供了桌面和移动应用程序.
-  * [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
+  * [Discord](https://discord.com/)  — 与公共/私人房间聊天.  Markdown 文本、语音、视频和屏幕共享功能. 免费供无限用户使用.
   * [Telegram](https://telegram.org/)  — Telegram 适用于所有想要快速可靠的消息传递和通话的人. 业务用户和小型团队可能喜欢大型群组、用户名、桌面应用程序和强大的文件共享选项.
   * [Duckly](https://duckly.com/)  — 与您的团队实时交谈和协作. 与任何 IDE 配对编程，终端共享，语音、视频和屏幕共享. 小型团队免费.
   * [Dyte](https://dyte.io)  - 对开发人员最友好的实时视频和音频 SDK，具有协作插件以提高生产力和参与度. 免费套餐包括每月 10,000 分钟的实时视频/音频使用.
@@ -302,7 +302,6 @@
   * [Fibery](https://fibery.io/)  — 互联工作区平台. 单用户免费，最多 2 GB 磁盘空间.
   * [Filestash](https://www.filestash.app) — 一个类似 Dropbox 的文件管理器，连接到一系列协议和平台：S3、FTP、SFTP、Minio、Git、WebDAV、Backblaze、LDAP 等等.
   * [flock.com](https://flock.com)  — 一种让您的团队更快沟通的方式. 免费无限消息、频道、用户、应用程序和集成
-  * [Flowdash](https://flowdash.com/)  — 自动化业务工作流程. 最多 3 个用户、1000 个任务和 3 个工作流的免费套餐.
   * [Gather](https://www.gather.town/)  - 更好的在线见面方式.  Gather 以完全可定制的空间为中心，让您与社区共度时光就像在现实生活中一样轻松. 最多 25 个并发用户免费.
   * [flat.social](https://flat.social)  - 用于团队会议和欢乐时光社交的交互式可定制空间. 无限次会议，最多可同时容纳 8 位用户.
   * [GitDailies](https://gitdailies.com)  - 您团队在 GitHub 上的提交和拉取请求活动的每日报告. 包括推送可视化工具、同行识别系统、自定义警报生成器. 免费层有无限用户、3 个回购、3 个警报配置.

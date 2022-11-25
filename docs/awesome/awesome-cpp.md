@@ -308,6 +308,7 @@
 * [hiberlite](https://github.com/paulftw/hiberlite)  - sqlite3 的 C++ 对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)  - Redis 数据库的简约 C 客户端库.  [BSD]
 * [LevelDB](https://github.com/google/leveldb)  - 由 Google 编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
+* [libpqxx](https://github.com/jtv/libpqxx)  - PostgreSQL 的官方 C++ 客户端 API.  [BSD-3-条款]
 * [LMDB](http://symas.com/mdb/)  - 具有完整 ACID 语义的非常快速的嵌入式键/值存储.  [OpenLDAP]
 * [LMDB++](https://github.com/bendiken/lmdbxx)  - LMDB 嵌入式数据库库的 C++11 包装器.  [公共区域]
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) - 用于 C 的 MongoDB 客户端库 [Apache2]
@@ -326,7 +327,7 @@
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)  - SQLite ORM light header only library for modern C++.  [AGPL + 付费 MIT]
 * [sqlpp11](https://github.com/rbock/sqlpp11)  - 一种类型安全的嵌入式域特定语言，用于 C++ 中的 SQL 查询和结果.  [BSD-2-条款]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)  - 快速密集和稀疏多维数组 DBMS.  [麻省理工学院] [website](https://tiledb.io/)
-* [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
+* [UnQLite](https://github.com/symisc/unqlite)  - 一个独立的、无服务器的、零配置的、事务性的 NoSQL 引擎.  [BSD-2-条款] [website](https://unqlite.org/)
 * [upscaledb](https://upscaledb.com)  - 具有内置查询界面的嵌入式“类型化”键/值存储.  [GPLv3]
 
 ## Data visualization
@@ -803,13 +804,13 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
 * [libffi](https://github.com/libffi/libffi)  - 一个可移植的外部函数接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  - 用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
-* [LuaBridge](https://github.com/vinniefalco/LuaBridge)  - 用于将 Lua 绑定到 C++ 的轻量级、无依赖性库.  [麻省理工学院]
+* [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++. [MIT]
 * [luacxx](https://github.com/dafrito/luacxx)  - 用于创建 Lua 绑定的 C++11 API.  [麻省理工学院]
 * [nbind](https://github.com/charto/nbind)  - 使您的 C++ 库可从 JavaScript 访问的神奇标头.  [麻省理工学院]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)  - 使用 C++ 构建 PHP 扩展的库.  [阿帕奇2] [website](http://www.php-cpp.com/)
@@ -921,6 +922,7 @@
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)  - 用于调试目的的小型打印库.  [麻省理工学院]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - 一个简单的头文件，供开发人员从应用程序中禁止不安全的 C/C++ 函数.
+* [jwt-cpp](https://github.com/Thalhammer/jwt-cpp)  - 用于在 C++ 中创建和验证 JSON Web 令牌的仅标头库.  [麻省理工学院]
 * [Kangaru](https://github.com/gracicot/kangaru)  - C++11 和 C++14 的依赖注入容器.  [麻省理工学院]
 * [Klib](https://github.com/attractivechaos/klib)  - 通用算法和数据结构的小型轻量级实现.  [麻省理工学院]
 * [libsigc++](https://github.com/libsigcplusplus/libsigcplusplus)  - 标准 C++ 的类型安全回调系统.  [LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
@@ -939,7 +941,7 @@
 * [sigslot](http://sigslot.sourceforge.net/)  - C++ 信号/槽库.  [公共区域]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal)  - 高性能 C++11 信号.  [公共区域]
 * [Stage](https://github.com/rtv/Stage)  - 移动机器人模拟器.  [GPL2]
-* [stdman](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). [MIT]
+* [stdman](https://github.com/jeaye/stdman) 格式化的 C++11/14 stdlib 手册页（来自 cppreference）.  [麻省理工学院]
 * [stb](https://github.com/nothings/stb)  :zap: - 一系列用于 C/C++ 的单文件库.  [公共区域]
 * [StrTk](http://www.partow.net/programming/strtk/index.html)  - 由高性能字符串处理例程组成的 C++ 库.  [麻省理工学院]
 * [Tulip Indicators](https://tulipindicators.org)  - 超过 100 个金融技术分析指标的 AC 库.  [LGPL]
@@ -1037,7 +1039,7 @@
 * [MesonBuild](http://mesonbuild.com) - 一个开源构建系统意味着速度非常快，更重要的是，它尽可能对用户友好.
 * [Ninja](https://ninja-build.org/) - 一个专注于速度的小型构建系统.
 * [Scons](http://www.scons.org/) - 一个用Python脚本配置的软件构建工具.
-* [Sconsolidator](http://www.sconsolidator.com/) - Scons 为 Eclipse CDT 构建系统集成.
+* [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [Spack](https://spack.io/)  - 一个灵活的包管理器，支持多个版本、配置、平台和编译器.  [Apache-2.0/麻省理工学院]
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.

@@ -65,9 +65,9 @@ Meet Magento Events 将商家、开发人员、解决方案和技术提供商等
 ## Frontends
 Magento 2 的店面可以通过多种方式设计：
 
- - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更常见的是，Luma 这个名字指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
+ - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更多时候，Luma 这个名字指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
  - **Adobe PWA Studio** - 一个新的无头前端，由 Adob​​e/Magento 创建，基于 ReactJS. 它使 GraphQL 调用 Magento GraphQL API 来检索数据. 前端提供 Venia（一个演示主题和 UI 组件库）、Peregrine（React hooks）、Buildpack（Webpack 配置）和 UPWARD（用于 SSR 和图像优化的中间件）. 
-- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
+- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但是对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
 - **店面视图**
 - **神明**
 - **ScandiPWA**
@@ -157,6 +157,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack) - 斯洛伐克语语言包.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si) - 斯洛文尼亚语语言包.
 - [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) :gb: - 英国语言包.
+- [hr_HR](https://marketplace.magento.com/inchoo-language-hr-hr.html) :croatia: - 克罗地亚语语言包.
 
 ### Search
 

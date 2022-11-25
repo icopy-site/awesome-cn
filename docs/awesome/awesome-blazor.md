@@ -255,7 +255,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor Highcharts](https://github.com/Allegiance-Consulting/blazor-highcharts) - ![last commit](https://img.shields.io/github/last-commit/Allegiance-Consulting/blazor-highcharts?style=flat-square&cacheSeconds=86400) 流行的 Highcharts 库的一个端口. [Demo](https://allegiance-consulting.github.io/blazor-highcharts/).
 * [Blazor.LazyStyleSheet](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square&cacheSeconds=86400) 延迟加载 CSS 样式表.
 * [Blazor.ScriptInjection](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square&cacheSeconds=86400) Blazor 组件中的智能脚本标签，非常适合延迟加载 javascript 文件.
-* [DnetIndexedDb](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square&cacheSeconds=86400) IndexedDB DOM API 的 Blazor 库.
+* [DnetIndexedDb](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 * [BlazorIndexedDbJs](https://github.com/kattunga/BlazorIndexedDbJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorIndexedDbJs?style=flat-square&cacheSeconds=86400) BlazorIndexedDbJs 是 IndexedDB DOM API 的包装器，支持 Blazor WASM 和服务器.
 * [Blazor-Color-Picker](https://github.com/tossnet/Blazor-Color-Picker) - ![last commit](https://img.shields.io/github/last-commit/tossnet/Blazor-Color-Picker?style=flat-square&cacheSeconds=86400) 打开包含 Blazor 应用程序的材质颜色的调色板.
 * [Blazm.Bluetooth](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square&cacheSeconds=86400) 用于使用蓝牙连接到设备的 Blazor 库.
@@ -351,6 +351,8 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2021](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2021.md#videos), [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [Maintenance release: Blazorise 1.1.4](https://blazorise.com/news/release-notes/114)  - 2022 年 11 月 24 日 - 这个新的 Blazorise 1.1.4 是一个修补程序版本，用于解决此问题以及同时修复的其他一些小问题.  Blazorise 1.1.4 是所有 Blazorise 1.1 和 Blazorise 1.1.3 用户的推荐升级.
+* [Blazor WebAssembly: Debugging gRPC-Web with Custom Chrome Developer Tools](https://www.thinktecture.com/blazor/blazor-wasm-debugging-grpc-web/) - November 17, 2022 - If you are working with Blazor, gRPC is a big issue for transferring data from APIs to clients. One issue of developing with gRPC-Web is debugging the transmitted data because the data is in an efficient binary message format. This article shows you how to solve this problem with the help of my NuGet. 
 * [Release: Blazorise 1.1.3](https://blazorise.com/news/release-notes/113)  - 2022 年 11 月 8 日 - 此 Blazorise 版本应该只是一个次要维护版本. 相反，我们获得了一些相对较大的功能和公告，支持 .NET 7. 
 * [Containerized Blazor: Microsoft Ponders New Client-Side Hosting](https://visualstudiomagazine.com/articles/2022/11/02/blazor-docker.aspx)  - 2022 年 11 月 2 日 - Microsoft 正在探索对客户端 Blazor WebAssembly 应用程序的内置容器支持.  Visual Studio 杂志上的文章.
 * [Resize images before uploading in Blazor Web Assembly](https://www.mikesdotnetting.com/article/361/resize-images-before-uploading-in-blazor-web-assembly) - 2022 年 10 月 31 日 - 在 Blazor Web Assembly 中上传之前调整图像大小.
@@ -468,7 +470,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [I Love DotNet](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - 这是一个 .NET 知识共享平台，提供由开发人员为热爱使用 .NET Blazor 的开发人员制作的现场演示. [ilovedotnet.org](https://www.ilovedotnet.org).
 * [Learn Blazor](https://learn-blazor.com/) - 关于 Blazor 的社区文档.
 * [Blazor Help Website](https://blazorhelpwebsite.com/) - 主要涵盖服务器端 Blazor 的博客和代码示例.
-* [Practical samples of Blazor](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Practical samples of Blazor.
+* [Practical samples of Blazor](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - Blazor 的实用示例.
 * [Practical samples of Blazor Server-Side](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) - Blazor 服务器端的实用示例.
 * [Reddit](https://www.reddit.com/r/Blazor/) - Blazor 版块.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) - Blazor 问题来自 Stack Overflow.
