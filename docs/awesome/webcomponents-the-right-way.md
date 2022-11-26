@@ -4,13 +4,13 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 精选的 Web Components 资源列表.
+&gt; 精选的 Web 组件资源列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — 一套不同的技术，允许您创建可重用的自定义元素 — 将它们的功能封装在您的其余代码之外 — 并在您的 Web 应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — 一套不同的技术，允许您创建可重用的自定义元素——将它们的功能封装在其余代码之外——并在您的 Web 应用程序中使用它们.
 
 
 
-&gt; Web Components The Right Way 是由 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt; Web Components the Right Way 是用爱制作 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Introduction
 
@@ -24,7 +24,7 @@
 
 ### Custom Elements
 
-自定义元素为作者提供了一种构建自己的功能齐全的 DOM 元素的方法.
+自定义元素为作者提供了一种构建自己的全功能 DOM 元素的方法.
 
 - [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
@@ -51,7 +51,7 @@ Shadow DOM 描述了一种将多个 DOM 树组合成一个层次结构的方法�
 
 ### HTML Templates
 
- `<template>  ` 元素用于声明可以通过脚本克隆并插入到文档中的 HTML 片段.
+ `<template>  ` 元素用于声明可以通过脚本克隆和插入文档的 HTML 片段.
 
 - [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 - [MDN - &lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
@@ -60,7 +60,7 @@ Shadow DOM 描述了一种将多个 DOM 树组合成一个层次结构的方法�
 
 ### CSS Shadow Parts
 
-CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行样式设置.
+CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于样式目的.
 
 - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 - [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
@@ -116,12 +116,12 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Examples
 
-- [generic-components](https://github.com/thepassle/generic-components) - 以可访问性和易用性为重点的通用 Web 组件的集合.
-- [howto-components](https://github.com/GoogleChromeLabs/howto-components) - 实现常见 Web UI 模式的 Web 组件的集合.
-- [Nude UI](https://github.com/LeaVerou/nudeui) - 可访问、可定制、超轻量级 Web 组件的集合.
+- [generic-components](https://github.com/thepassle/generic-components) - 专注于可访问性和易用性的通用 Web 组件集合.
+- [howto-components](https://github.com/GoogleChromeLabs/howto-components) - 实现常见 Web UI 模式的 Web 组件集合.
+- [Nude UI](https://github.com/LeaVerou/nudeui) - 可访问、可自定义、超轻型 Web 组件的集合.
 - [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - 收集用于开发 Web 组件的最佳实践和设计模式.
-- [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - 不推荐使用 HTML 标记的 Vanilla JS UI 组件库.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - 一系列 Web 组件示例，与 MDN Web 组件文档相关.
+- [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - HTML 弃用标签的 Vanilla JS UI 组件库.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - 一系列网络组件示例，与 MDN 网络组件文档相关.
 
 ## Articles
 
@@ -189,21 +189,21 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Components
 
-- [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - Web 组件的 API 文档和现场操场.
+- [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - Web 组件的 API 文档和实时游乐场.
 - [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - 独立的棋盘网络组件.
-- [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - 使用 CSS 绘制图案的 Web 组件.
-- [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - 允许创建暗模式切换或切换的自定义元素.
-- [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - 轻量级的表情选择器，作为 Web 组件分发.
+- [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - 用于使用 CSS 绘制图案的 Web 组件.
+- [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - 允许创建暗模式切换或开关的自定义元素.
+- [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - 轻量级表情符号选择器，作为网络组件分发.
 - [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - 可访问的模式对话框 Web 组件.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - 使用 Svelte 构建的用于查看文件的 Web 组件.
-- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 在树视图中可视化 JSON 数据的 Web 组件.
-- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - Lite YouTube 嵌入，专注于视觉表现.
+- [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 用于在树视图中可视化 JSON 数据的 Web 组件.
+- [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - 专注于视觉性能的精简版 YouTube 嵌入.
 - [`<midi-player>`](https://github.com/cifkao/html-midi-player) - MIDI 文件播放器和可视化 Web 组件.
-- [`<model-viewer>`](https://github.com/google/model-viewer) - 用于渲染交互式 3D 模型的 Web 组件.
-- [`<player-x>`](https://github.com/playerxo/playerx) - 媒体播放器 Web 组件.
-- [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element) - 自定义元素逐步增强图像占位符.
+- [`<model-viewer>`](https://github.com/google/model-viewer) - 用于呈现交互式 3D 模型的 Web 组件.
+- [`<player-x>`](https://github.com/playerxo/playerx) - 媒体播放器网络组件.
+- [`<progressive-image>`](https://github.com/andreruffert/progressive-image-element) - 自定义元素以逐步增强图像占位符.
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element) - 具有键盘支持的可访问范围滑块自定义元素.
-- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - 用于从 OpenAPI 规范创建文档的 Web 组件.
+- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - 用于根据 OpenAPI 规范创建文档的 Web 组件.
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - 用于编写和渲染着色器的 Web 组件.
 - [`<trix-editor>`](https://github.com/basecamp/trix) - 用于日常写作的富文本编辑器自定义元素.
 - [`<vime-player>`](https://github.com/vime-js/vime) - 可定制、可扩展、可访问且与框架无关的媒体播放器.
@@ -212,80 +212,80 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 ### Component Libraries
 
 - [AMP](https://github.com/ampproject/amphtml) - 用于轻松创建用户至上的网站、故事、广告、电子邮件等的 Web 组件框架.
-- [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 用于将 Apollo GraphQL 与各种 Web 组件库一起使用的自定义元素.
+- [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 将 Apollo GraphQL 与各种 Web 组件库结合使用的自定义元素.
 - [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - 使用 Web 组件构建的 AXA CH UI 组件库.
-- [Blackstone UI](https://github.com/kjantzer/bui) - Blackstone Publishing 用于创建界面的 Web 组件.
+- [Blackstone UI](https://github.com/kjantzer/bui) - 由 Blackstone Publishing 创建界面的 Web 组件.
 - [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - 用于构建 Brightspace 应用程序的 Web 组件集合.
-- [Clever components](https://github.com/CleverCloud/clever-components) - Clever Cloud 制作的 Web 组件集合.
+- [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - 用于 SPA 路由、显示来自 Web 服务的数据等的独立组件.
 - [Dile Components](https://github.com/Polydile/dile-components) - 一般用于网站和应用程序的 Web 组件.
-- [elements-sk](https://github.com/google/elements-sk) - 为“点菜”网络开发收集自定义元素.
+- [elements-sk](https://github.com/google/elements-sk) - 为“a la carte”网络开发定制元素的集合.
 - [github-elements](https://github.com/github/github-elements) - GitHub 的 Web 组件集合.
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量、可定制的 Web 组件.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - 企业就绪的 Web 组件集，最适合与 Eclipse Furo 配合使用.
 - [Fusion Web Components](https://github.com/equinor/fusion-web-components) - Equinor Fusion 使用的一系列 Web 组件.
 - [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) - 来自 Infragistics 的完整 UI 组件库.
-- [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) - 用于嵌入沉浸式（VR 和 AR）内容的 Web 组件集.
-- [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) - Joomla 4 自定义元素的编译.
+- [Immersive Custom Elements](https://github.com/MozillaReality/immersive-custom-elements) - 一组用于嵌入沉浸式（VR 和 AR）内容的 Web 组件.
+- [Joomla UI custom elements](https://github.com/joomla-projects/custom-elements) - 编译 Joomla 4 自定义元素.
 - [Ketch.UP](https://github.com/smeup/ketchup) - Sme.UP 的 Web 组件库.
 - [Lion Web Components](https://github.com/ing-bank/lion) - 一组高性能、可访问且灵活的 Web 组件.
-- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN 为任何项目生成 Web 组件.
-- [Lume](https://github.com/lume/lume) - 用于定义使用 CSS3D 或 WebGL 渲染的 2D 或 3D 场景的自定义元素.
+- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN 为任何项目制作了网络组件.
+- [Lume](https://github.com/lume/lume) - 用于定义使用 CSS3D 或 WebGL 呈现的 2D 或 3D 场景的自定义元素.
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - 用于快速开发 openEHR 和 FHIR 系统的 Web 组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Microsoft Graph 的 Web 组件集合.
-- [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - 使用 Web 组件进行突变测试结果的模式以将其可视化.
+- [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - 用于变异测试结果的模式，使用 Web 组件将其可视化.
 - [Nightingale](https://github.com/ebi-webcomponents/nightingale) - 用于生命科学的数据可视化 Web 组件.
 - [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) - 使用 Web 组件使用 Nuxeo 构建 Web 应用程序的组件.
-- [One Platform Components](https://github.com/1-Platform/op-components) - Red Hat One Platform 的一组 Web 组件.
-- [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) - 为业务应用程序设计的 Web 组件的集合.
-- [Pixano Elements](https://github.com/pixano/pixano-elements) - 专用于数据注释任务的可重复使用的 Web 组件.
+- [One Platform Components](https://github.com/1-Platform/op-components) - 一套用于 Red Hat One Platform 的网络组件.
+- [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) - 专为业务应用程序设计的 Web 组件集合.
+- [Pixano Elements](https://github.com/pixano/pixano-elements) - 专用于数据注释任务的可重用网络组件.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - 使用 Web 组件的无服务器代码体验.
-- [Shoelace](https://github.com/shoelace-style/shoelace) - 具有前瞻性的 Web 组件库.
-- [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - 用于业务应用程序的 Web 组件.
+- [Shoelace](https://github.com/shoelace-style/shoelace) - 具有前瞻性的网络组件库.
+- [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - 业务应用程序的 Web 组件.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Stripe.js v3 元素的自定义元素包装器.
-- [TEI Publisher Components](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的 Web 组件及其生成的应用程序的集合.
-- [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Leavitt Group Enterprises 使用的轻量级 Web 组件的集合.
+- [TEI Publisher Components](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的网络组件及其生成的应用程序的集合.
+- [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Leavitt Group Enterprises 使用的轻量级 Web 组件集合.
 - [Tradeshift Elements](https://github.com/Tradeshift/elements) - 可重用的 Tradeshift UI 组件作为 Web 组件.
-- [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - 为 Umbraco CMS 收集用户界面 Web 组件.
-- [Vaadin components](https://github.com/vaadin/web-components) - 用于构建业务 Web 应用程序的不断发展的高质量 Web 组件集.
+- [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) - Umbraco CMS 的用户界面 Web 组件集合.
+- [Vaadin components](https://github.com/vaadin/web-components) - 用于构建业务 Web 应用程序的一组不断发展的高质量 Web 组件.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - 用于创建使用 Webview API 的 VSCode 扩展的组件.
-- [Warp View](https://github.com/senx/warpview) - Warp 10 的图表 Web 组件集合.
-- [Webmarkets web components](https://github.com/Webmarkets/wm-web-components) - Webmarkets 的公共网络组件集.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - 一组具有手绘粗略外观的常见 UI 元素.
-- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Arduino 和各种电子零件的 Web 组件.
-- [XWeather](https://github.com/kherrick/x-weather) - 实现部分 OpenWeatherMap API 的 Web 组件的集合.
+- [Warp View](https://github.com/senx/warpview) - Warp 10 的图表网络组件集合.
+- [Webmarkets web components](https://github.com/Webmarkets/wm-web-components) - 一组 Webmarkets 的公共 Web 组件.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - 一组具有手绘、粗略外观的常用 UI 元素.
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Arduino 和各种电子部件的 Web 组件.
+- [XWeather](https://github.com/kherrick/x-weather) - 实现部分 OpenWeatherMap API 的 Web 组件集合.
 
 ### Design Systems
 
-- [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - 使用已建立的交互模式构建丰富的空间应用程序体验的组件集.
-- [Auro Design System](https://auro.alaskaair.com) - 阿拉斯加航空公司的设计系统，以创新想法并就未来进行合作.
+- [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - 一组组件，用于通过已建立的交互模式构建丰富的空间应用程序体验.
+- [Auro Design System](https://auro.alaskaair.com) - 阿拉斯加航空公司设计系统，以创新理念和合作未来.
 - [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig 和 Web 组件驱动的 UI 组件、可重用的视觉样式和工具.
-- [Calcite Components](https://github.com/Esri/calcite-components) - 用于 Esri 的 Calcite 设计框架的共享 Web 组件.
-- [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - 基于 Web 组件的碳设计系统变体.
-- [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - 来自 Clarity Design System 的 Web 组件套件.
+- [Calcite Components](https://github.com/Esri/calcite-components) - Esri 方解石设计框架的共享 Web 组件.
+- [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Web 组件之上的 Carbon Design System 变体.
+- [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - 来自 Clarity Design System 的网络组件套件.
 - [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - 基于 FAST 设计语言的 Web 组件库.
-- [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - 支持 Microsoft 的 Fluent 设计语言的 Web 组件库.
+- [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - 支持 Microsoft Fluent 设计语言的 Web 组件库.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - 遵循 Forge 设计系统的 Web 组件库.
 - [GOV.UK Web Components](https://github.com/tgreyuk/govuk-webcomponents) - 一组使用 GOV.UK 设计系统的封装 Web 组件.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) - Helix 设计系统的 Web 组件库.
-- [Liquid](https://github.com/emdgroup-liquid/liquid) - 基于 Liquid 设计系统的 UI 组件库.
+- [Liquid](https://github.com/emdgroup-liquid/liquid) - 基于 Liquid Design System 的 UI 组件库.
 - [Lyne Components](https://github.com/lyne-design-system/lyne-components) - Lyne 设计系统的构建块基于 Web 组件.
-- [Material Web Components](https://github.com/material-components/material-web) - 作为 Web 组件实现的材料设计.
-- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - 基于 Momentum 设计的 UI 组件集.
+- [Material Web Components](https://github.com/material-components/material-web) - 作为 Web 组件实现的 Material Design.
+- [Momentum UI Web Components](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - 一组基于 Momentum Design 的 UI 组件.
 - [Nord](https://nordhealth.design) - Nordhealth 的产品、数字体验和品牌设计系统.
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) - 基于 Web 组件和运行时 CSS 生成的 HTML 框架和设计系统.
-- [OutlineJS](https://github.com/phase2/outline) - 基于 Web 组件的设计系统入门套件.
-- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - 基于统一设计工具包的灵活和轻量级 Web 组件的集合.
-- [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR 的设计系统可创造凝聚力、支持性和美好体验.
-- [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - 使用红帽品牌构建统一体验的 Web 组件.
-- [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - 实现 Siemens iX 设计系统的 Web 组件.
+- [OutlineJS](https://github.com/phase2/outline) - 基于网络组件的设计系统入门工具包.
+- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - 基于统一设计工具包的灵活轻量级 Web 组件集合.
+- [Pharos Design System](https://github.com/ithaka/pharos) - JSTOR 的设计系统可创造有凝聚力、支持性和美好体验.
+- [Red Hat Design System](https://github.com/RedHat-UX/red-hat-design-system) - 用于构建 Red Hat 品牌统一体验的 Web 组件.
+- [Siemens iX Web Components](https://github.com/siemens/ix/tree/main/packages/core) - 实施西门子 iX 设计系统的 Web 组件.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) - 使用 Web 组件构建的 Adob​​e Spectrum 设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 一组实施 SAP Fiori 设计指南的可重用 UI 元素.
 - [U-M Library Design System](https://design-system.lib.umich.edu) - 密歇根大学图书馆设计系统.
-- [Zooplus web components](https://github.com/zooplus/zoo-web-components) - 一组实现 Z+ 商店风格指南的 Web 组件.
+- [Zooplus web components](https://github.com/zooplus/zoo-web-components) - 一套实施 Z+ 商店风格指南的网络组件.
 
 ### Use Cases
 
@@ -305,22 +305,22 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 ### Class Based
 
 - [DNA](https://github.com/chialab/dna) - 渐进式 Web 组件库.
-- [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - 用于构建高性能、节省内存、符合标准的 Web 组件的轻量级库.
+- [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - 用于构建高性能、内存高效、符合标准的 Web 组件的轻量级库.
 - [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - 构建 Forge Web 组件时使用的构建块和实用程序.
-- [Joist](https://github.com/joist-framework/joist) - 一组小型库，旨在为 Web 组件添加最低限度的内容，以提高您的工作效率.
+- [Joist](https://github.com/joist-framework/joist) - 一组小型库，旨在将最低限度添加到 Web 组件，以提高您的工作效率.
 - [Lit](https://lit.dev) - 用于构建快速、轻量级 Web 组件的简单库.
-- [Lightning Web Components](https://github.com/salesforce/lwc) - 超快速的企业级 Web 组件基础.
+- [Lightning Web Components](https://github.com/salesforce/lwc) - 快速的企业级 Web 组件基础.
 - [Omi](https://github.com/Tencent/omi) - 4kb JavaScript 中的下一代 Web 框架（Web 组件 + JSX + 代理 + 存储 + 路径更新）.
-- [Panel](https://github.com/mixpanel/panel) - Web 组件 + 虚拟 DOM：强大 UI 的 Web 标准.
-- [slim.js](https://github.com/slimjs/slim.js) - 基于现代标准的快速和强大的前端微框架.
+- [Panel](https://github.com/mixpanel/panel) - Web Components + Virtual DOM：强大 UI 的 Web 标准.
+- [slim.js](https://github.com/slimjs/slim.js) - 基于现代标准的快速稳健的前端微框架.
 - [Stencil](https://github.com/ionic-team/stencil) - 用于生成 Web 组件的编译器.
 - [Tonic](https://github.com/optoolco/tonic) - 极简、稳定、审计友好的组件框架.
 
 ### Functional
 
-- [atomico](https://github.com/atomicojs/atomico) - 用于使用函数和钩子创建基于 Web 组件的界面的小型库.
+- [atomico](https://github.com/atomicojs/atomico) - 用于使用函数和挂钩创建基于 Web 组件的界面的小型库.
 - [haunted](https://github.com/matthewp/haunted) - 为 Web 组件实现的 React 的 Hooks API.
-- [hybrids](https://github.com/hybridsjs/hybrids) - 用于创建具有简单和功能 API 的 Web 组件的 UI 库.
+- [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单实用的 API 创建 Web 组件的 UI 库.
 - [Solid Element](https://github.com/solidjs/solid/tree/main/packages/solid-element) - 扩展 Solid 添加自定义 Web 组件和扩展的库.
 
 ### Integrations
@@ -328,17 +328,17 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [ember-custom-elements](https://github.com/Ravenstine/ember-custom-elements) - 使用自定义元素渲染 Ember 和 Glimmer 组件.
 - [preact-custom-element](https://github.com/preactjs/preact-custom-element) - 从 preact 组件生成/注册自定义元素.
 - [@adobe/react-webcomponent](https://github.com/adobe/react-webcomponent) - 在自定义元素中自动包装 React 组件.
-- [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - 将您的项目组件导出为自定义元素以集成到外部页面.
-- [react-shadow](https://github.com/Wildhoney/ReactShadow) - 在 React 中利用 Shadow DOM 以及样式封装的所有好处.
+- [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - 将您的项目组件导出为自定义元素以集成到外部页面中.
+- [react-shadow](https://github.com/Wildhoney/ReactShadow) - 在 React 中使用 Shadow DOM，享受样式封装的所有好处.
 - [reactify-wc](https://github.com/BBKolton/reactify-wc) - 使用具有 React 属性和功能的 Web 组件.
-- [remount](https://github.com/rstacruz/remount) - 使用自定义元素将 React 组件安装到 DOM.
+- [remount](https://github.com/rstacruz/remount) - 使用自定义元素将 React 组件挂载到 DOM.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) - 使用 Riot.js 创建香草自定义元素的简单 API.
 
 ### Benchmarks
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - 使用各种示例对 Web 组件技术进行基准测试.
-- [web-components-todo](https://wc-todo.firebaseapp.com/) - 相同的待办事项应用程序内置在不同的 Web 组件库中，用于基准测试.
+- [web-components-todo](https://wc-todo.firebaseapp.com/) - 在不同的 Web 组件库中构建相同的待办事项应用程序以用于基准测试.
 
 ## Frameworks
 
@@ -374,29 +374,29 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 - [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web 组件项目脚手架.
 - [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) - 用于创建自定义元素的样板.
-- [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 用 TypeScript 编写的简单的入门 hello world web 组件.
-- [nutmeg](https://github.com/abraham/nutmeg) - 构建、测试和发布带有一点香料的香草 Web 组件.
+- [hello-web-components](https://github.com/fernandopasik/hello-web-components) - 用 TypeScript 编写的简单入门 hello world web 组件.
+- [nutmeg](https://github.com/abraham/nutmeg) - 构建、测试和发布带有一点香料的普通 Web 组件.
 
 ### Tools
 
-- [Backlight](https://backlight.dev/) — Backlight 以开发人员和设计师之间的协作为核心，是一个非常完整的编码平台，团队可以在其中构建、记录、发布、扩展和维护设计系统.
-- [Custom Elements Locator](https://github.com/open-wc/locator) - 用于在页面上查找自定义元素的 Chrome 扩展程序.
+- [Backlight](https://backlight.dev/) — 以开发人员和设计师之间的协作为核心，Backlight 是一个非常完整的编码平台，团队可以在其中构建、记录、发布、扩展和维护设计系统.
+- [Custom Elements Locator](https://github.com/open-wc/locator) - 用于在页面上查找自定义元素的 Chrome 扩展.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - 可以穿透 Shadow DOM 根的 querySelector，对自动化测试很有用.
 - [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) - 使用 Selenium 的 Shadow DOM 自动化.
-- [shadow-dom-utils](https://github.com/43081j/shadow-dom-utils) - 一组用于处理影子 DOM 的有用实用程序，主要用于测试环境.
+- [shadow-dom-utils](https://github.com/43081j/shadow-dom-utils) - 一组有用的实用程序，用于处理影子 DOM，主要用于测试环境.
 - [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - 用于纯 Web 组件片段的 UI 开发环境.
 - [webcomponents.dev](https://webcomponents.dev) - 面向 Web 平台开发人员的组件 IDE.
-- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - 分析 Web 组件并发出文档/诊断的 CLI.
-- [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Web 组件的 Codemods.
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - 分析网络组件并发出文档/诊断的 CLI.
+- [Web Components Codemods](https://github.com/kcmr/web-components-codemods) - Web 组件的 Codemod.
 
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell 的书，可在 Manning 早期发布计划中获得.
-- [Web Component Essentials](https://leanpub.com/web-component-essentials) - Cory Rylan 的书，Leanpub 提供早期预览版.
+- [Web Component Essentials](https://leanpub.com/web-component-essentials) - Cory Rylan 的书，Leanpub 提供的早期预览版.
 
 ## Tutorials
 
-- “**让我们构建 Web 组件！**” by [Benny Powers](https://github.com/bennypowers)
+- “**让我们构建 Web 组件！**”作者： [Benny Powers](https://github.com/bennypowers)
   - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
   - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
   - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
@@ -405,12 +405,12 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
   - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
   - [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
-- “**Web 组件：从零到英雄**” by [Pascal Schilp](https://github.com/thepassle)
+- “**Web 组件：从零到英雄**”，作者： [Pascal Schilp](https://github.com/thepassle)
   - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
-- “**现代 JavaScript 教程**” by [Ilya Kantor](https://github.com/iliakan)
+- “**现代 JavaScript 教程**”，作者： [Ilya Kantor](https://github.com/iliakan)
   - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
   - [Part 2: Custom Elements](https://javascript.info/custom-elements)
   - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
@@ -419,20 +419,20 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
   - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
   - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
-- “**HowTo：组件**” by [Web Fundamentals](https://web.dev)
+- “**HowTo：组件**”作者 [Web Fundamentals](https://web.dev)
   - [Overview](https://web.dev/components-examples-overview/)
   - [`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
   - [`<howto-tabs>`](https://web.dev/components-howto-tabs/)
   - [`<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
 
-- **CSS 技巧** 系列文章作者 [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
+- **CSS 技巧** 文章系列，作者： [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
   - [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
   - [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
   - [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
   - [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
-- **Angular Elements** 系列文章作者 [Manfred Steyer](https://www.angulararchitects.io/about/)
+- **Angular Elements** 文章系列，作者： [Manfred Steyer](https://www.angulararchitects.io/about/)
   - [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)
   - [Part II: Lazy and External Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-ii/)
   - [Part III: Angular Elements Without Zone.Js](https://www.angulararchitects.io/aktuelles/angular-elements-part-iii/)
@@ -443,7 +443,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Podcasts
 
-- [代码[ish]，第 38 集：使用 Web 组件构建](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)
+- [Code[ish]，第 38 集：使用 Web 组件构建](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Labs Talk - Web Components with Peter Muessig](https://labstalk.buzzsprout.com/993481/3932975-web-components-with-peter-muessig)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
@@ -507,7 +507,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 ### Polyfills
 
-现代浏览器支持 Web 组件标准，没有下面列出的任何 polyfill.
+现代浏览器支持 Web 组件标准，无需下面列出的任何 polyfill.
 唯一值得注意的例外是定制的内置元素被 WebKit (Safari) 拒绝.
 
 #### Custom Elements polyfills
@@ -517,31 +517,36 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 #### Customized Built-in Elements polyfills
 
-- [@corpuscule/custom-builtin-elements](https://github.com/corpusculejs/custom-builtin-elements) - 定制的内置元素 polyfill [CorpusculeJS](https://github.com/corpusculejs).
-- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - 定制的内置元素 polyfill [ungap project](https://ungap.github.io).
+- [@corpuscule/custom-builtin-elements](https://github.com/corpusculejs/custom-builtin-elements) - 自定义内置元素 polyfill [CorpusculeJS](https://github.com/corpusculejs).
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - 自定义内置元素 polyfill [ungap project](https://ungap.github.io).
 
 #### Shadow DOM shims
 
 - [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 垫片.
-- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM 样式封装垫片.
-- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill 由 [LWC](https://lwc.dev).
+- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM 风格的封装垫片.
+- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill [LWC](https://lwc.dev).
 
 #### HTML Templates polyfills
 
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)  - ` 的最小 polyfill<template>  `.
-- [@ungap/import-node](https://github.com/ungap/import-node) - IE11 的 `importNode` polyfill [ungap project](https://ungap.github.io).
+- [@ungap/import-node](https://github.com/ungap/import-node) - 用于 IE11 的 `importNode` polyfill [ungap project](https://ungap.github.io).
 
 
 ### History
 
-下面的文章代表了 Web 组件规范走向标准化的漫长故事.
-其中一些引用了早期的所谓“v0”Shadow DOM 和自定义元素规范，并放弃了 HTML 导入规范.
-这些资料在这里仅出于历史原因，它们按年份分组并按时间顺序列出.
+下面的文章讲述了 Web Components 规范走向标准化的漫长故事.
+其中一些参考了早期所谓的“v0”Shadow DOM 和自定义元素规范，并放弃了 HTML 导入规范.
+这些材料仅出于历史原因放在这里，它们按年份分组并按时间顺序列出.
 
 #### 2019
 
 - [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
-- [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
+- [Web Components for Cross-Framework Component Libraries](https://codeburst.io/web-components-for-cross-framework-component-libraries-2647741f9470)
+- [Web Components in 2019: Part 1](https://codeburst.io/web-components-in-2019-part-1-6bd7251edce5)
+- [Web Components in 2019: Part 2](https://codeburst.io/web-components-in-2019-part-2-a7de8c770c5a)
+- [Web Components in 2019: Part 3](https://codeburst.io/web-components-in-2019-part-3-e725b781a414)
+- [Web Components in 2019: Part 4](https://codeburst.io/web-components-in-2019-part-4-7fe8e63a4dee)
+- [Developments in Web Components I’m excited about in 2019](https://medium.com/angular-in-depth/developments-in-web-components-im-excited-about-in-2019-3ae7751c2f64)
 
 #### 2018
 
@@ -549,7 +554,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 - [6 Reasons You Should Use Native Web Components](https://codeburst.io/6-reasons-you-should-use-native-web-components-b45e18e069c2)
-- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- [Web Components in 2018](https://www.sitepen.com/blog/web-components-in-2018)
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Extending Native DOM Elements with Web Components](https://medium.com/revillweb/extending-native-dom-elements-with-web-components-233350c8e86a)
@@ -666,7 +671,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
       <td align="center">
         <a href="https://twitter.com/serhiikulykov">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
-          <div>谢尔盖·库利科夫</div>
+          <div>谢尔盖·库雷科夫</div>
         </a>
       </td>
     </tr>
@@ -677,7 +682,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以进行
 
 版权所有 2014-2018，保留所有权利.
 
-根据以下许可授权的代码：
+获得许可的代码：
 [MIT license](http://mateusortiz.mit-license.org)
 
-@作者马特乌斯·奥尔蒂斯<mteusortiz@gmail.com>
+@作者马特乌斯奥尔蒂斯<mteusortiz@gmail.com>

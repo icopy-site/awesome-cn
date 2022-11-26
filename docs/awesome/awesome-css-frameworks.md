@@ -5,7 +5,7 @@
 很棒的 CSS 框架列表.  
 随意地 [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
 
-**支持 [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
+**支持者 [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
 
 <a href="https://frontaid.io/?pk_campaign=cssfw"><img
   src=&quot;https://raw.githubusercontent.com/troxler/awesome-css-frameworks/master/media/frontaid.png&quot;
@@ -21,7 +21,7 @@
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
 
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - 规范化浏览器的默认样式.  
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - 标准化浏览器的默认样式.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
@@ -31,12 +31,12 @@
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - 微小的重置，您可以将其用作 CSS 项目的基础.  
+- [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - 可以用作 CSS 项目基础的微小重置.  
   ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social&label=Star)
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展、可扩展、基于 Sass 的 OOCSS 框架，适用于大型和持久的 UI 项目.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展、可缩放、基于 Sass 的 OOCSS 框架，适用于大型且持久的 UI 项目.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -55,12 +55,12 @@
 
 使用语义 HTML 且不依赖于类的框架.
 
-- [**Water.css**](https://watercss.kognise.dev/) - 只需添加 CSS 样式集合，让简单的网站变得更好看.  
+- [**Water.css**](https://watercss.kognise.dev/) - 只需添加 CSS 样式集合，即可让简单的网站变得更漂亮.  
   ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
   [Repo](https://github.com/kognise/water.css)
   | #CSS
 
-- [**MVP.css**](https://andybrewer.github.io/mvp/) - HTML 元素的简约样式表.  
+- [**MVP.css**](https://andybrewer.github.io/mvp/) - HTML 元素的极简样式表.  
   ![](https://img.shields.io/github/stars/andybrewer/mvp.svg?style=social&label=Star)
   [Docs](https://andybrewer.github.io/mvp/#docs),
   [Repo](https://github.com/andybrewer/mvp/)
@@ -77,7 +77,7 @@
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
 
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css/) - 用于没有类、属性等的语义 HTML 标记的 CSS 库.  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css/) - 没有类、属性等的语义 HTML 标记的 CSS 库.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/elements.html),
   [Repo](https://github.com/igoradamenko/awsm.css)
@@ -86,23 +86,23 @@
 
 ## Very Lightweight
 
-小于约 5KB 的框架.
+小于 ~5KB 的框架.
 
-- [**Pure**](https://purecss.io) - 一组小型的响应式 CSS 模块，您可以在每个 Web 项目中使用它们.  
+- [**Pure**](https://purecss.io) - 您可以在每个 Web 项目中使用的小型响应式 CSS 模块集.  
   ![](https://img.shields.io/github/stars/pure-css/pure.svg?style=social&label=Star)
   [Demo](https://purecss.io/layouts/),
   [Docs](https://purecss.io/start/),
   [Repo](https://github.com/pure-css/pure)
   | #CSS
 
-- [**Milligram**](https://milligram.io) - 极简的 CSS 框架.  
+- [**Milligram**](https://milligram.io) - 极简 CSS 框架.  
   ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social&label=Star)
   [Demo](https://milligram.io/showcase.html),
   [Docs](https://milligram.io/#getting-started),
   [Repo](https://github.com/milligram/milligram)
   | #Sass
 
-- [**Picnic CSS**](https://picnicss.com) - 轻巧美观的图书馆.  
+- [**Picnic CSS**](https://picnicss.com) - 轻巧漂亮的图书馆.  
   ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social&label=Star)
   [Demo](https://picnicss.com/tests),
   [Docs](https://picnicss.com/documentation),
@@ -111,7 +111,7 @@
 
 - [**Chota**](https://jenil.github.io/chota/) - 非常小的 CSS 框架.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
-  [Demo](https://cdn.rawgit.com/jenil/chota/master/test/index.html),
+  [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
   [Docs](https://jenil.github.io/chota/#docs),
   [Repo](https://github.com/jenil/chota)
   | #CSS
@@ -152,19 +152,19 @@
   [Repo](https://github.com/primer/css)
   | #SCSS
 
-- [**Carbon Components**](https://www.carbondesignsystem.com/) - IBM 碳设计系统背后的组件库.  
+- [**Carbon Components**](https://www.carbondesignsystem.com/) - IBM Carbon Design System 背后的组件库.  
   ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social&label=Star)
   [Docs](https://www.carbondesignsystem.com/components/overview/),
   [Repo](https://github.com/carbon-design-system/carbon)
   | #SCSS
 
-- [**Fomantic-UI**](https://fomantic-ui.com/) - 使用简洁的 HTML、直观的 javascript 和简化的调试快速构建漂亮的网站.  
+- [**Fomantic-UI**](https://fomantic-ui.com/) - 使用简洁的 HTML、直观的 javascript 和简化的调试，快速构建漂亮的网站.  
   ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/fomantic/fomantic-ui/)
   | #LESS
 
-- [**Pico.css**](https://picocss.com/) - 所有原生 HTML 元素的优雅风格，自动启用暗模式.  
+- [**Pico.css**](https://picocss.com/) - 所有原生 HTML 元素的优雅样式，暗模式自动启用.  
   ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social&label=Star)
   [Demo](https://picocss.com/#examples),
   [Docs](https://picocss.com/docs/),
@@ -178,13 +178,13 @@
   [Repo](https://github.com/BlazeSoftware/atoms)
   | #SCSS
 
-- [**Base**](https://getbase.org) - 坚如磐石的响应式 HTML/CSS 框架.  
+- [**Base**](https://getbase.org) - 坚如磐石、响应迅速的 HTML/CSS 框架.  
   ![](https://img.shields.io/github/stars/getbase/base.svg?style=social&label=Star)
   [Docs](https://github.com/getbase/base/blob/master/readme.md#documentation),
   [Repo](https://github.com/getbase/base)
   | #SCSS #LESS
 
-- [**Cirrus**](https://cirrus-ui.netlify.app/) - 为快速原型设计而设计的以组件和实用程序为中心的 SCSS 框架.  
+- [**Cirrus**](https://cirrus-ui.netlify.app/) - 专为快速原型制作而设计的以组件和实用程序为中心的 SCSS 框架.  
   ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
   [Demo](https://cirrus-ui.netlify.app/getting-started/examples),
   [Docs](https://cirrus-ui.netlify.app/getting-started/setup),
@@ -198,7 +198,7 @@
   [Repo](https://github.com/turretcss/turretcss)
   | #CSS
 
-- [**Vanilla Framework**](https://vanillaframework.io/)  - 简单、可扩展的 CSS 框架. 由 Canonical Web 团队编写.  
+- [**Vanilla Framework**](https://vanillaframework.io/)  - 简单、可扩展的 CSS 框架. 由 Canonical Web 团队撰写.  
   ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social&label=Star)
   [Demo](https://vanillaframework.io/docs/examples),
   [Docs](https://vanillaframework.io/docs/),
@@ -221,7 +221,7 @@
 
 ## Material Design
 
-- [**Material Components Web**](https://material.io/components/web/) - 适用于 Web 的模块化和可定制的 Material Design UI 组件.  
+- [**Material Components Web**](https://material.io/components/web/) - 用于网络的模块化和可定制的 Material Design UI 组件.  
   ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social&label=Star)
   [Demo](https://material.io/components?platform=web),
   [Docs](https://material.io/develop/web/getting-started),
@@ -243,7 +243,7 @@
   [Repo](https://github.com/tailwindlabs/tailwindcss)
   | #CSS
 
-- [**Tachyons**](https://tachyons.io) - 无需编写 CSS 即可快速构建和设计新 UI.  
+- [**Tachyons**](https://tachyons.io) - 无需编写 CSS 即可快速构建和设计新的 UI.  
   ![](https://img.shields.io/github/stars/tachyons-css/tachyons.svg?style=social&label=Star)
   [Demo](https://tachyons.io/gallery/),
   [Docs](https://tachyons.io/docs/),
@@ -272,7 +272,7 @@
   [Repo](https://github.com/jdan/98.css)
   | #CSS
 
-- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - 将您的网页设计为 Edward Tufte 的讲义.  
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) - 像 Edward Tufte 的讲义一样设计您的网页.  
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
   [Repo](https://github.com/edwardtufte/tufte-css)
   | #CSS
@@ -299,7 +299,7 @@
 ## Toolkits
 
 工具包更接近于库而不是框架.
-它们不提供实际样式，而是提供可以在 CSS 预处理器中使用的实用程序（例如 mixins）.
+它们不提供实际的样式，而是提供您可以在 CSS 预处理器中使用的实用程序（例如 mixins）.
 
 - [**Bourbon**](https://www.bourbon.io/) - 轻量级 Sass 工具集.  
   ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
@@ -311,8 +311,8 @@
 
 ## Stalled Development
 
-大约一年多没有看到任何实际开发或正式被弃用的框架已被弃用.
-我们将它们保留在这里以供参考/启发并希望复兴.
+超过一年或正式没有看到任何真正发展的框架已被弃用.
+我们将它们留在这里以供参考/启发，并希望复兴.
 
 <details>
   <summary><strong>显示部分</strong></summary>
@@ -328,14 +328,14 @@
   [Repo](https://github.com/necolas/normalize.css/)
   | #CSS
 
-- [**Materialize**](https://materializecss.com) - 基于材料设计的 CSS 框架.  
+- [**Materialize**](https://materializecss.com) - 基于材料设计的CSS框架.  
   ![](https://img.shields.io/github/stars/Dogfalo/materialize.svg?style=social&label=Star)
   [Demo](https://materializecss.com/showcase.html),
   [Docs](https://materializecss.com/getting-started.html),
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
 
-- [**Spectre.css**](https://picturepan2.github.io/spectre/) - 轻量级、响应式和现代的 CSS 框架.  
+- [**Spectre.css**](https://picturepan2.github.io/spectre/) - 轻量级、响应式和现代 CSS 框架.  
   ![](https://img.shields.io/github/stars/picturepan2/spectre.svg?style=social&label=Star)
   [Docs](https://picturepan2.github.io/spectre/getting-started.html),
   [Repo](https://github.com/picturepan2/spectre)
@@ -356,7 +356,7 @@
   [Repo](https://github.com/thoughtbot/neat)
   | #SCSS
 
-- [**mini.css**](https://minicss.org) - 最小的、响应式的、与样式无关的 CSS 框架.  
+- [**mini.css**](https://minicss.org) - 最小的、响应式的、风格不可知的 CSS 框架.  
   ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
   [Docs](https://minicss.org/docs),
   [Repo](https://github.com/Chalarangelo/mini.css)
@@ -368,27 +368,27 @@
   [Repo](https://github.com/mobi-css/mobi.css)
   | #CSS
 
-- [**Wing**](https://kbrsh.github.io/wing/) - 为极简主义者设计的精美 CSS 框架.  
+- [**Wing**](https://kbrsh.github.io/wing/) - 为极简主义者设计的漂亮的 CSS 框架.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
 
-- [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - 开始您的项目，以弥补 CSS 的技术债务.  
+- [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - 用 CSS 技术债务的补救措施开始你的项目.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)
   | #CSS
 
-- [**Cutestrap**](https://www.cutestrap.com) - Sassy，固执己见的 CSS 框架，Bootstrap 的小替代品.  
+- [**Cutestrap**](https://www.cutestrap.com) - 活泼、自以为是的 CSS 框架，是 Bootstrap 的一个小替代品.  
   ![](https://img.shields.io/github/stars/tylerchilds/cutestrap.svg?style=social&label=Star)
   [Repo](https://github.com/tylerchilds/cutestrap)
 
-- [**unsemantic**](https://unsemantic.com) - 适用于移动设备、平板电脑和台式机的流体网格.  
+- [**unsemantic**](https://unsemantic.com) - 适用于手机、平板电脑和台式机的流体网格.  
   ![](https://img.shields.io/github/stars/nathansmith/unsemantic.svg?style=social&label=Star)
   [Demo](https://unsemantic.com/demo-responsive),
   [Docs](https://unsemantic.com/css-documentation),
   [Repo](https://github.com/nathansmith/unsemantic)
 
-- [**Propeller**](https://propeller.in) - 基于 Google 的 Material Design 标准和 Bootstrap 的前端响应式框架.  
+- [**Propeller**](https://propeller.in) - 基于 Google 的 Material Design 标准和 Bootstrap 的前端响应框架.  
   ![](https://img.shields.io/github/stars/digicorp/propeller.svg?style=social&label=Star)
   [Docs](https://propeller.in/frameworks/open-source/get-started/),
   [Repo](https://github.com/digicorp/propeller)
@@ -400,13 +400,13 @@
   [Repo](https://github.com/ConciseCSS/concise.css)
   | #SCSS
 
-- [**Responsive Boilerplate**](https://responsivebp.com) - 用于构建响应式网站的强大、可访问、对开发人员友好的框架.  
+- [**Responsive Boilerplate**](https://responsivebp.com) - 用于构建响应式网站的强大、易于访问、开发人员友好的框架.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
   [Docs](https://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
 
-- [**Centurion**](https://www.centurionframework.com) - 用于快速原型设计和构建大型 Web 项目的基于 Web 的框架.  
+- [**Centurion**](https://www.centurionframework.com) - 基于 Web 的框架，用于快速制作原型和构建更大的 Web 项目.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
   [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
   [Repo](https://github.com/justinhough/Centurion)
@@ -418,6 +418,6 @@
 ## License
 License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
-&gt; 您可以复制、修改、分发和执行作品，甚至用于商业目的，无需征得许可.
+&gt; 您可以复制、修改、分发和执行作品，甚至用于商业目的，所有这些都无需征得许可.
 
-GitHub 星星的图片由提供 [Shields](https://github.com/badges/shields).
+GitHub star 图片由 [Shields](https://github.com/badges/shields).

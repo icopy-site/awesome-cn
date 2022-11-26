@@ -133,7 +133,7 @@
 
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***劳特利奇***，1956 年. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5) ]. 一本关于思维模式的经典书籍.
 
-* [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***施普林格***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5) ]. 关于溯因推理的介绍性说明.
+* [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5) ]. 关于溯因推理的介绍性说明.
 
 * [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***施普林格***，2006 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=) ]. 关于溯因推理的介绍性说明.
 
@@ -147,9 +147,9 @@
 
 * [Explanatory Preferences Shape Learning and Inference](https://scholar.princeton.edu/sites/default/files/cognition/files/explanatory_prefs_tics.pdf) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=2040551538203889465&hl=en&as_sdt=0,5) ]. 表明归纳偏差对解释至关重要的说明.
 
-* [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***Cognition***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
+* [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
 * [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***实验心理学杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201) ]. 绑架的主观概率说明.
 
@@ -211,7 +211,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -242,7 +242,7 @@
 
 * [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) - ***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=6286436358625670901&hl=en&as_sdt=0,5) ]. 基于观察和解释的方法在蛋白质结构预测中的典型应用，而不是基于第一性原理的方法.
 
-* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub) - ***人工智能***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5)]. A computational account on interpretation as Abduction.
+* [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub) - ***人工智能***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5) ]. 关于解释为绑架的计算帐户.
 
 * [Probabilistic Horn abduction and Bayesian networks](https://www.sciencedirect.com/science/article/abs/pii/000437029390061F?via%3Dihub) - ***人工智能***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=7728248035489349629&hl=en&as_sdt=0,5) ]. 贝叶斯网络中的偶然绑架.
 
@@ -264,7 +264,7 @@
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)].
 
-* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
+* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
 
 * [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250) - ***麻省理工学院博士论文***，2018 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=) ]. 绑架在异常检测中的应用.
 
@@ -291,13 +291,13 @@
 
 * [How to Grow a Mind: Statistics, Structure, and Abstraction](https://cocosci.princeton.edu/tom/papers/growamind.pdf) - ***科学***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097&hl=en&as_sdt=0,5) ].  Josh Tenenbaum 对贝叶斯理论归纳的评论.
 
-* [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. Bayesian program induction for few-shot learning.
+* [Human-level concept learning through probabilistic program induction.](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf) - ***科学***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506&hl=en&as_sdt=0,5)]. [[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf) ]. 小样本学习的贝叶斯程序归纳.
 
 * [Building Machines That Learn and Think Like People](https://arxiv.org/abs/1604.00289) - ***行为与脑科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287&hl=en&as_sdt=0,5) ].  Brenden Lake 和 Josh Tenenbaum 对贝叶斯建模的评论.
 
 * [The rational basis of representativeness](http://web.mit.edu/cocosci/archive/Papers/cogsci01_final.pdf) - ***CogSci&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=11464039134248091466&hl=en&as_sdt=0,5)].
 
-* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NIPS'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
+* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NIPS&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
 
 * [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766&hl=en&as_sdt=0,5)].
 
@@ -312,7 +312,7 @@
 
 * [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***心理学年度回顾***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1611451804975333652) ].  Alan Yuille 对贝叶斯对象感知的评论.
 
-* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ].  Ying Nian Wu 对统计建模的三个家族的评论.
+* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
 
 * [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计说明.
 
@@ -408,6 +408,8 @@
 #### Human Concept Representation
 
 
+* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表示.
+
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
 * [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
@@ -496,7 +498,7 @@
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5) ]. 诺亚·古德曼 (Noah Goodman) 和迈克尔·弗兰克 (Micheal Frank) 对理性言语行为的评论.
 
-* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***语义与语用***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***语义学和语言理论***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579&hl=en&as_sdt=2005&sciodt=0,5) ]. 形容词理解作为上下文中的理性推理.
 
@@ -512,7 +514,7 @@
 
 * [How young children integrate information sources to infer the meaning of words](https://www.nature.com/articles/s41562-021-01145-1) - ***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=10144794357802769844&hl=en&as_sdt=0,5)].
 
-* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf) - ***Semantics and Pragmatics***, 1998. [[All Versions](https://scholar.google.com/scholar?cluster=9127222314768938599&hl=en&as_sdt=0,5)].
+* [Information Structure in Discourse: Towards an Integrated Formal Theory of Pragmatics](https://semprag.org/index.php/sp/article/view/sp.5.6/pdf) - ***语义学和语用学***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=9127222314768938599&hl=en&as_sdt=0,5)].
 
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***哲学研究***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257&hl=en&as_sdt=0,5)].
 
@@ -602,7 +604,7 @@
 
 #### Intrinsic Motivation
 
-* [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NIPS&#39;04***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5)]. A comprehensive review on intrinsic reward functions in classic reinforcement learning.
+* [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NIPS&#39;04***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5) ]. 对经典强化学习中内在奖励函数的全面回顾.
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***神经机器人学前沿***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
@@ -850,7 +852,7 @@
 
 * [Behavior-grounded representation of tool affordances](https://www.cc.gatech.edu/ai/robot-lab/online-publications/StoytchevICRA2005.pdf) - ***ICRA&#39;05***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=6115815663915603675&hl=en&as_sdt=0,5)].
 
-* [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1) - ***ILP'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=18374178227592386332&hl=en&as_sdt=0,5)].
+* [A Relational Approach to Tool-Use Learning in Robots](https://link.springer.com/chapter/10.1007/978-3-642-38812-5_1) - ***ILP&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=18374178227592386332&hl=en&as_sdt=0,5)].
 
 * [Relational affordances for multiple-object manipulation](https://link.springer.com/article/10.1007/s10514-017-9637-x) - ***自主机器人***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=6357646940615855682&hl=en&as_sdt=0,5)].
 
@@ -1059,7 +1061,7 @@
 
 #### Science of Science
 
-* [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***芝加哥大学出版社：芝加哥***，1970 年. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
+* [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***芝加哥大学出版社：芝加哥***，1970 年. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5) ]. 托马斯·库恩 (Thomas Kuhn) 关于科学范式转变的原著.
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***维基百科***.
 
@@ -1132,7 +1134,7 @@
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025&hl=en&as_sdt=0,5)]. 
 
-* [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768)  - ***博士麻省理工学院论文***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224&hl=en&as_sdt=0,5) ].  Chris Baker 博士论文，对心智理论的贝叶斯建模的全面回顾.
+* [Bayesian Theory of Mind : modeling human reasoning about beliefs, desires, goals, and social relations](https://dspace.mit.edu/handle/1721.1/73768) - ***Ph.D. Dissertation MIT***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16053170661075048224&hl=en&as_sdt=0,5) ].  Chris Baker 博士论文，对心智理论的贝叶斯建模的全面回顾.
 
 * [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477&hl=en&as_sdt=0,5&as_ylo=2017)].
 
@@ -1196,7 +1198,7 @@
 
 * [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***美国心理学家***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830&hl=en&as_sdt=0,5) ]. 一个统一类比和相似判断的视角.
 
-* [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***心理评论***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5) ]. 将类比视为跨域泛化的视角综合评述.
+* [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5) ]. 将类比视为跨域泛化的视角综合评述.
 
 
 * [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253&hl=en&as_sdt=0,5) ]. 解释词嵌入中的类比能力.
@@ -1408,9 +1410,9 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/) - ***Plato Stanford***. A computational philosophy account on the laugnage of though hypothesis, which proposes that thinking occurs in a mental language.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图·斯坦福***.
 
@@ -1422,7 +1424,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -1450,7 +1452,7 @@
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***知识获取***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
 
-* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5) ]. 关于答案集编程 (ASP) 的原始论文.
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR&#39;99***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5) ]. 关于答案集编程 (ASP) 的原始论文.
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***逻辑编程范式***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)]. 
 
@@ -1758,22 +1760,22 @@
 
 * [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***和***， [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
 
-* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
 
 
 ### Stanford
 
 * [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***计算机科学系，以人为中心的人工智能研究所，斯坦福***， [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***斯坦福***.
 
-* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***斯坦福大学***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***斯坦福大学计算机科学系心理学系***.
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***斯坦福大学计算机科学系心理学系***.
 
-* [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***斯坦福大学***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***斯坦福大学心理学系***.
+* [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***斯坦福大学心理学系***.
 
-* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***斯坦福大学***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***斯坦福大学心理学系***.
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***斯坦福大学心理学系***.
 
-* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***斯坦福大学***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福大学***.
+* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福大学***.
 
 * [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***传播系，斯坦福大学***， [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***斯坦福***.
 
@@ -1933,6 +1935,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** ---每个主题都描述了一种智能现象，或者一种智能行为---它们展示了计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
 显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

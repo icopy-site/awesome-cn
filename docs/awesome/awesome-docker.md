@@ -45,6 +45,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Docker Documentation](https://docs.docker.com/): 官方文档.
 -   [Docker for beginners](https://github.com/groda/big_data/blob/master/docker_for_beginners.md) : 面向需要学习 Docker 基础知识的初学者的教程——来自“Hello world!” 到与容器的基本交互，以及对基本概念的简单解释.
 -   [Docker for novices](https://www.youtube.com/watch?v=xsjSadjKXns) 为从未使用过 Docker 的开发人员和测试人员介绍 Docker.  （视频 1h40，录制于 linux.conf.au 2019 — 新西兰基督城），作者：Alex Clews.
+-  [Docker Latest Tutorial](https://www.techgeekbuzz.com/tutorial/docker/what-is-docker/) — 这是一系列最新的 docker 教程，在这里您可以了解什么是 docker、docker 生命周期、如何在 Docker 中运行 Nginx Web Server？、如何在 docker 容器上运行 mysql、如何在 doceker 上使用 Python 以及许多其他重要主题.  
 -   [Docker simplified in 55 seconds](https://www.youtube.com/watch?v=vP_4DlOH1G4) ：Docker 的动画高级介绍. 将其视为视觉 tl;dr，可以更轻松地研究更复杂的学习材料.
 -   [Docker Training](https://training.mirantis.com) :heavy_dollar_sign:
 -   [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)  — 在本 Docker 教程中，您将学习所有基础知识并学习如何容器化 Node.js 和 Go 应用程序. 即使您不熟悉这些语言，您也应该可以轻松地按照本教程进行操作并使用任何其他语言.
@@ -53,6 +54,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Practical Guide about Docker Commands in Spanish](https://github.com/brunocascio/docker-espanol) 本西班牙语指南包含基本 docker 命令的使用和现实生活中的示例.
 -   [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction) 容器技术的前景不仅仅局限于 docker. 如果不能很好地掌握术语，就很难掌握 docker 和（选择你最喜欢的 CRI-O、rkt、lxc/lxd）之间的主要区别，或者理解 Open Container Initiative 正在做些什么来标准化容器技术.
 -   [The Docker Handbook](https://docker-handbook.farhan.dev/) 一本教您基础知识、最佳实践和一些中级 Docker 功能的开源书籍. 本书托管于 [fhsinchy/the-docker-handbook](https://github.com/fhsinchy/the-docker-handbook) 并且项目托管在 [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) 存储库.
+   
 
 **备忘单**
 
@@ -134,7 +136,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Grafeas](https://github.com/grafeas/grafeas)  - 关于容器元数据的通用 API，从图像和构建细节到安全漏洞. 经过 [grafeas](https://github.com/grafeas)
 -   [Longshoreman](https://github.com/longshoreman/longshoreman)  ：skull： - Longshoreman 使用 Docker 自动化应用程序部署. 只需创建一个 Docker 存储库（或使用服务），使用 AWS 或 Digital Ocean（或任何你喜欢的）配置集群，并使用类似 Heroku 的 CLI 工具部署应用程序. 经过 [longshoreman](https://github.com/longshoreman)
 -   [SwarmManagement](https://github.com/hansehe/SwarmManagement)  - Swarm Management 是一个 python 应用程序，使用 pip 安装. 该应用程序通过配置单个 yaml 文件来轻松管理 Docker Swarm，该文件描述要部署的堆栈以及要创建的网络、配置或机密.
--   [werf](https://github.com/werf/werf) - werf 是一个 CI/CD 工具，用于高效构建 Docker 镜像并使用 GitOps 将它们部署到 Kubernetes [@flant](https://github.com/flant)
+-   [werf](https://github.com/werf/werf) - werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps by [@flant](https://github.com/flant)
 
 ### Monitoring
 
@@ -207,7 +209,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Empire](https://github.com/remind101/empire) - 构建在 Amazon EC2 容器服务 (ECS) 之上的 PaaS
 -   [Exoframe](https://github.com/exoframejs/exoframe) - 一种自托管工具，允许使用 Docker 进行简单的单命令部署
 -   [Flynn](https://github.com/flynn/flynn) :skull: - 下一代开源平台即服务
--   [Hephy Workflow](https://github.com/teamhephy/workflow)  - Kubernetes 的开源 PaaS，它向任何 Kubernetes 集群添加了一个开发人员友好的层，使部署和管理应用程序变得容易. 的叉子 [Deis Workflow](https://github.com/deis/workflow)
+-   [Hephy Workflow](https://github.com/teamhephy/workflow)  - Kubernetes 的开源 PaaS，它为任何 Kubernetes 集群添加了一个开发人员友好的层，使部署和管理应用程序变得容易. 的叉子 [Deis Workflow](https://github.com/deis/workflow)
 -   [Krane](https://github.com/krane/krane) - 用于管理远程服务器上的容器工作负载的工具集
 -   [Nanobox](https://github.com/nanobox-io/nanobox) ：heavy_dollar_sign：- 一个应用程序开发平台，可创建本地环境，然后可以在云中部署和扩展.
 - [OpenShift][openshift] - 基于 [Kubernetes][kubernetes] 构建的开源 PaaS，并针对 Dockerized 应用程序开发和部署进行了优化 [Red Hat](https://www.redhat.com/en)
@@ -242,7 +244,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 
 -   [Anchor Engine](https://github.com/anchore/anchore) - 分析 CVE 漏洞和自定义安全策略的图像 [@Anchor](https://github.com/anchore)
 -   [Aqua Security](https://www.aquasec.com) ：heavy_dollar_sign：- 在任何平台上保护基于容器的应用程序从开发到生产
--   [bane](https://github.com/genuinetools/bane) - AppArmor profile generator for Docker containers by [@genuinetools][genuinetools]
+-   [bane](https://github.com/genuinetools/bane) - [@genuinetools][genuinetools] 的 Docker 容器 AppArmor 配置文件生成器
 -   [CIS Docker Benchmark](https://github.com/dev-sec/cis-docker-benchmark)  - 此 [InSpec][inspec] 合规配置文件以自动化方式实施 CIS Docker 1.12.0 基准测试，以在生产环境中提供围绕 Docker 守护程序和容器的安全最佳实践测试. 经过 [@dev-sec](https://github.com/dev-sec)
 -   [Checkov](https://github.com/bridgecrewio/checkov)  - 基础设施作为代码清单（Terraform、Kubernetes、Cloudformation、Helm、Dockerfile、Kustomize）的静态分析发现安全错误配置并修复它们. 经过 [@bridgecrew](https://github.com/bridgecrewio)
 -   [Clair](https://github.com/quay/clair)  - Clair 是一个开源项目，用于对 appc 和 docker 容器中的漏洞进行静态分析. 通过 [@coreos][coreos]
@@ -393,7 +395,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [lstags](https://github.com/ivanilves/lstags) - 跨注册表同步 Docker 镜像 [@ivanilves](https://github.com/ivanilves)
 -   [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) - [@NVIDIA][nvidia] 的 Docker NVIDIA 容器运行时
 -   [su-exec](https://github.com/ncopa/su-exec)  - 这是一个简单的工具，可以简单地执行具有不同权限的程序. 该程序将直接执行，而不是像 su 和 sudo 那样作为子程序运行，从而避免了 TTY 和信号问题. 为什么要重塑 gosu？ 这或多或少与 gosu 完全相同，但它只有 10kb 而不是 1.8MB. 经过 [ncopa](https://github.com/ncopa)
--   [sue](https://github.com/theAkito/sue)  - 以与运行 sue 的用户不同的用户身份执行程序. 这是 ncopa/su-exec 的可维护替代品，后者是更好的 tianon/gosu. 这个比原来的 gosu 好得多（性能更高，体积更小），但是它比用普通 C 编写的 su-exec 更容易维护.由 [Akito][akito] 制作
+-   [sue](https://github.com/theAkito/sue)  - 以与运行 sue 的用户不同的用户身份执行程序. 这是 ncopa/su-exec 的可维护替代品，后者是更好的 tianon/gosu. 这个比原来的 gosu 好得多（性能更高，体积更小），但是它比用纯 C 编写的 su-exec 更容易维护.由 [Akito][akito] 制作
 -   [supercronic](https://github.com/aptible/supercronic) - 与 crontab 兼容的作业运行器，专为在容器中运行而设计 [@aptible](https://github.com/aptible/)
 -   [TrivialRC](https://github.com/vorakl/TrivialRC) - 容器的简约运行时配置系统和进程管理器 [@vorakl](https://github.com/vorakl)
 
@@ -571,6 +573,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [footloose](https://github.com/weaveworks/footloose) - 旋转看起来像虚拟机的容器 - 作者 [@dlespiau](https://github.com/dlespiau)
 -   [forward2docker](https://github.com/bsideup/forward2docker) :skull: - 将端口从本地主机自动转发到在 boot2docker VM 中运行的 Docker 容器上的端口的实用程序 [@bsideup](https://github.com/bsideup)
 -   [Gebug](https://github.com/moshebe/gebug) - 通过无缝启用调试器和热重载功能，使 Dockerized Go 应用程序的调试变得超级容易的工具.
+-   [Kitt](https://github.com/senges/kitt)  - 基于 Docker 和 Nix 的便携式一次性 Shell 环境. 经过 [@senges](https://github.com/senges)
 -   [Lando](https://github.com/lando/lando)  - Lando 适用于希望快速指定并轻松启动开发项目所需的服务和工具的开发人员. 经过 [Tandem](https://thinktandem.io/)
 -   [Vagga](https://github.com/tailhook/vagga)  - Vagga 是一个没有守护进程的容器化工具. 它是受 Vagrant 和 Docker 启发的全用户空间容器引擎，专门用于开发环境 [@tailhook](https://github.com/tailhook/)
 -   [Zsh-in-Docker](https://github.com/deluan/zsh-in-docker)  - 只需一行即可在 Docker 容器中安装 Zsh、Oh-My-Zsh 和插件！ 经过 [Deluan](https://www.deluan.com)
@@ -683,7 +686,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 ## Awesome Lists
 
 -   [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd) - 不特定于 docker 但相关.
--   [Awesome Compose](https://github.com/docker/awesome-compose) - Docker 组合示例
+-   [Awesome Compose](https://github.com/docker/awesome-compose) - Docker 组合样本
 -   [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 通过 [@ramitsurana][ramitsurana]
 -   [Awesome Linux Container](https://github.com/Friz-zy/awesome-linux-containers) 关于容器比这个 repo 更一般，通过 [@Friz-zy](https://github.com/Friz-zy).
 -   [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 自由软件网络服务和 Web 应用程序的列表，它们可以通过以经典方式运行（设置本地 Web 服务器并从那里运行应用程序）或在 Docker 容器中运行来本地托管. 经过 [@Kickball](https://github.com/Kickball)
