@@ -15,7 +15,7 @@
 
 * [DataJobs.com](https://datajobs.com/)
 * [Data Yoshi](https://www.datayoshi.com/) - 数据科学、分析、人工智能和机器学习方面的工作
-* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习工作
+* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习的工作
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - 数据科学、分析和工程领域的工作，您知道自己真正会做什么
 
 ## Blockchain
@@ -24,7 +24,7 @@
 * [Crypto Jobs](https://www.cryptojobs.co/) - CryptoJobs.co 是网络上增长最快的加密工作发现平台.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - 区块链和加密货币工作的领先工作板
 * [Blockchain Works](https://blockchain.works-hub.com/) - 通过 **Blockchain Works** 发现**最好的**区块链机会和文章**
-* [Web3 Jobs](https://web3.career)  - 寻找 web3 工作？  Web3 工作有 8,387 多个 web3 远程和离线工作，如 Web3 开发人员、智能合约开发人员、Solidity 开发人员等等. 将您的职业切换到 Web3，加入未来！
+* [Web3 Jobs](https://web3.career)  - 寻找 web3 工作？  Web3 Jobs 有 8,387 多个 web3 远程和离线工作，如 Web3 开发人员、智能合约开发人员、Solidity 开发人员等等. 将您的职业切换到 Web3，加入未来！
 * [My Web3 Jobs](https://myweb3jobs.com)  - 立即查找或发布 web3 工作！ 每周精心挑选新的 web3 区块链、开发人员和设计师职位.
 * [Woody3](https://www.woody3.xyz/) - 在 Web3 中找到你梦想的非技术工作
 
@@ -127,6 +127,7 @@
 
 ### Python
 
+* [PyJobs](https://www.pyjobs.com)
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [Python Developer Jobs](https://pythonjob.xyz)
@@ -134,6 +135,7 @@
 ### Ruby
 
 * [RubyNow](https://jobs.rubynow.com/)
+* [RubyOnRemote](https://rubyonremote.com) - Ruby 开发人员的远程工作
 
 ### Rust
 
