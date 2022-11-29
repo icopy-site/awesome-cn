@@ -67,7 +67,7 @@
 
 ### Environment and Ecosystem Services
 
-- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
+- [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节农作物覆盖率的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
@@ -121,7 +121,7 @@
 
 ### Resilience and Natural Hazards
 
-- [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA 提供的地图查看器旨在为联邦、州和地方沿海资源管理人员和规划人员提供海平面上升和沿海洪水影响的初步了解.
+- [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
 - [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA 提供的数据包括可追溯到公元前 2150 年的重大地震的全球记录，以提供地理信息.
 - [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - 国家风险指数是 FEMA 的在线地图应用程序，可识别面临 18 种自然灾害风险最高的社区.
 - [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - 该网站在开放的公共领域内提供国家基础级地理空间数据，可用于支持社区准备、弹性、研究等. 
@@ -163,7 +163,7 @@
 ### Land Use and Land Cover
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的地块数据，提供对详细财产特征、销售记录、估价和当前县评估员文件的数字副本的即时访问.
-- [Regrid](https://regrid.com/) - 为您的地图、应用程序和空间分析提供地块和位置上下文数据的领先提供商.
+- [Regrid](https://regrid.com/) - A leading provider of land parcels and location context data for your maps, apps and spatial analysis.
 - [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用 AI 将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑物足迹. 
 
@@ -226,7 +226,7 @@
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - 通用建模网络规范定义了一种通用的人类和机器可读格式，用于共享可路由的道路网络文件.
 
 ## Planning Coding Resources
-This is a curated list of Python, R, or other open-source libraries or programming tools can be useful for urban planning applications. 
+这是 Python、R 或其他开源库或编程工具的精选列表，可用于城市规划应用程序. 
 
 ---
 
@@ -237,7 +237,7 @@ Python 库和相关资源.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务可以交互运行并使用脚本. 该库支持在 ArcGIS 平台中轻松使用 pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
-- [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using pandas DataFrames.
+- [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个用于构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息：许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据的地理空间和时间邻域分析.
@@ -269,6 +269,7 @@ R 包及相关资源.
 - [Motif](https://cran.r-project.org/web/packages/motif/index.html)  - 描述任何定义的规则和不规则区域的分类栅格数据的空间模式. 它支持对空间模式执行搜索、变化检测和聚类等空间分析.
 - [Raster](https://cran.r-project.org/web/packages/raster/index.html)  - 空间数据的读取、写入、操作、分析和建模. 该包实现了栅格数据和矢量数据操作（如交叉点）的基本和高级功能. 
 - [Rgee](https://github.com/r-spatial/rgee) - 是一个 R 绑定包，用于从 R 中调用 Google Earth Engine API.实现了各种功能以简化与 R 空间生态系统的连接.
+- [r5r](https://github.com/ipeaGIT/r5r) - 是一个 R 包，用于利用 Conveyal R5 路由引擎在多式联运网络（步行、自行车、公共交通和汽车）上快速逼真的路由. 
 - [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - 提供一种整洁的空间网络分析方法. 
 - [Stars](https://cran.r-project.org/web/packages/stars/index.html) - 在“R”中读取、操作、写入和绘制时空数组（栅格和矢量数据立方体）.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - 交通规划工具，重点是空间交通数据和非机动模式，包括 OD 数据处理和其他功能. 
@@ -309,7 +310,7 @@ R 包及相关资源.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供且开发透明. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是在几乎没有或没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
 - [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 用于分析和优化城市能源系统的工具. 
-- [EPA WARM Model](https://www.epa.gov/warm) - EPA 创建了废物减少模型 (WARM)，以提供对潜在温室气体 (GHG) 减排、节能和几种不同废物管理实践的经济影响的高级估计. 
+- [EPA WARM Model](https://www.epa.gov/warm) -  EPA created the Waste Reduction Model (WARM) to provide high-level estimates of potential greenhouse gas (GHG) emissions reductions, energy savings, and economic impacts from several different waste management practices. 
 - [ENCORE](https://encore.naturalcapital.finance/en) - 联合国赞助的资源旨在探索对我们世界自然资本储备的依赖和影响.
 
 ### Geospatial Data and Visualization
@@ -328,7 +329,7 @@ R 包及相关资源.
 ### Public Engagement Tools and Platforms
 旨在帮助公众参与和外展活动的软件、工具和平台. 
 - [bangthetable](https://www.bangthetable.com/) - 提供对集中社区参与的平台的访问，从而可以通过一个平台轻松捕获、分析和报告全市范围的参与.
-- [Metroquest](https://metroquest.com/) - Comprehensive community engagement platform, providing surveys, games, and interactive maps to engage the public around planning issues. 
+- [Metroquest](https://metroquest.com/) - 全面的社区参与平台，提供调查、游戏和交互式地图，让公众参与规划问题. 
 - [PollEverywhere](https://www.polleverywhere.com/) - 提供在多个平台上为交互式参与生成民意调查和问题的能力. 
 - [NJTPA Engage](https://engage.njtpa.org/)  - 包含 300 多种公众参与工具、技术和软件的数据库. 可在多个级别上搜索. 
 - [Ushahidi](https://www.ushahidi.com/) - 开源众包制图工具，旨在通过收集公民的意见帮助世界各地的社区解决他们自己的问题.
@@ -388,7 +389,7 @@ R 包及相关资源.
 ### Literature Resources
 链接到同行评审期刊或感兴趣的联邦研究聚合器的资源. 这些不是特定的论文，而是它们的策展人. 
 - [NCHRP](http://www.trb.org/NCHRP/NCHRP.aspx)  - 国家合作公路研究计划是根据公路和运输部门的首席行政官和其他工作人员、AASHTO 委员会和 FHWA 确定的研究需求制定的. 最高价值的主题由 AASHTO 研究与创新特别委员会 (R&amp;I) 选择，每年 R&amp;I 的建议都会提交给 AASHTO 董事会、国家科学院和 FHWA.
-- [TCRP](http://www.trb.org/TCRP/TCRP.aspx)  - 由联邦交通管理局赞助的交通合作研究计划 (TCRP) 是公共交通行业开发创新的近期解决方案以满足对其需求的主要手段之一.  TCRP 在提供有用的报告和其他工具以帮助公共交通从业者解决问题并为决策者提供信息方面享有盛誉.
+- [TCRP](http://www.trb.org/TCRP/TCRP.aspx) - Sponsored by the Federal Transit Administration, the Transit Cooperative Research Program (TCRP) serves as one of the principal means by which the public transportation industry can develop innovative near-term solutions to meet demands placed on it. The TCRP has an established reputation for providing useful reports and other tools to help public transportation practitioners solve problems and inform decision makers.
 - [TFResource](https://tfresource.org/) - A collection of best practices for travel demand forecasting and travel survey methods.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 会员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表 APA 在关键规划问题上的官方立场，并为规划者提供工具来倡导为所有人创造伟大社区的政策.
@@ -399,7 +400,7 @@ R 包及相关资源.
 有关城市规划、建筑环境或社区的网站和新闻资源.
 - [Planopedia](https://www.planetizen.com/planopedia) - 由规划新闻聚合器组织 [Planetizen](https://www.planetizen.com/) 这本小型规划百科全书探讨了各种城市规划概念和术语.
 - [ULI](https://uli.org/) - ULI 是世界上历史最悠久、规模最大的跨学科房地产和土地使用专家网络.
-- [Streetsblog](https://www.streetsblog.org/) - 有关步行、骑自行车和交通的新闻的博客. 
+- [Streetsblog](https://www.streetsblog.org/) - Blog for news related to walking, biking, and transit. 
 
 ### Podcasts
 涉及建筑环境或社区的播客. 
@@ -407,7 +408,7 @@ R 包及相关资源.
 - [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
 - [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在经济上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
-- [The Urban Planner's Podcast](https://www.gigitheplanner.com/podcast) - 此播客面向城市规划人员、城市规划学生和对城市规划主题感兴趣的人.
+- [The Urban Planner's Podcast](https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446) - 此播客面向城市规划人员、城市规划学生和对城市规划主题感兴趣的人.
 
 
 ## Other Resources

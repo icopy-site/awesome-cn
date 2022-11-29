@@ -81,10 +81,10 @@
 - [Rust Audio](https://github.com/austintheriot/audio) - 在浏览器中使用 Rust/WASM 进行实时音频处理/合成， [Live Demo](https://austintheriot.github.io/audio/).
 - [Kiomet](https://kiomet.com) - 一款在线即时战略游戏，您可以在其中通过占领塔来扩大领土.
 - [Portfolio website](https://github.com/simbleau/website) - Spencer Imbleau 内置可访问性的组合 SPA.
-- [tchatche.rs](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
+- [tchatche.rs](https://github.com/nag763/tchatchers) - 在 Yew 和 Axum 中构建的基于 Websocket 聊天的应用程序.
 - [viz.rs](https://github.com/viz-rs/viz-rs.github.io) - 可视化 Web 框架的网站， [Live Demo](https://viz.rs/).
-- [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - Yew 框架的真实世界实现. [Live at theiskaa.com](https://theiskaa.com)
-- [live-ask.com](https://github.com/liveask/liveask) - 实时活动/聚会问答平台. [Live at live-ask.com](https://live-ask.com)
+- [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - Yew 框架的真实世界实现. [Live at theiskaa.com](https://theiskaa.com).
+- [live-ask.com](https://github.com/liveask/liveask) - 实时活动/聚会问答平台. [Live at live-ask.com](https://live-ask.com).
 
 ## Templates
 
@@ -114,7 +114,7 @@
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder)  - 使用 docker-compose 为 Yew 构建 Tailwind CSS. 还支持中继.
 - [yew-components](https://github.com/angular-rust/yew-components) - Yew 框架的材料设计组件.
 - [yew-chart](https://github.com/titanclass/yew-chart) - 基于 Yew 的图表库，提供基于 SVG 的组件来渲染图表.
-- [tailyew](https://github.com/fuzzycloud/tailyew) - 围绕 DaisyUI（基于 tailwindcss）组件的 Yew 包装器.
+- [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ### Components
 
@@ -129,7 +129,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 调和 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
-- [yewv](https://github.com/yewv/yewv) - Yew 的闪电般快速状态管理模块，以性能和简单性为第一要务.
+- [yewv](https://github.com/yewv/yewv) - 以性能和简单性为第一要务的 Yew 闪电般快速状态管理模块.
 
 ### Javascript Library Ports
 
@@ -152,6 +152,7 @@
 
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - 促进 WebAssembly 模块和 JavaScript 之间的高级交互.
 - [stdweb](https://github.com/koute/stdweb) - 为 Web API 提供 Rust 绑定，并允许 Rust 和 JavaScript 之间的高度互操作性.
+- [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - 对使用 wasm-bindgen 的项目的 Tauri API 的原始绑定.
 
 ## Tooling
 
@@ -163,6 +164,7 @@
 - [trunk-action](https://github.com/jetli/trunk-action) - 通过下载可执行文件以加速 CI/CD 来安装 `Trunk` 的 Github 操作.
 - [wabt](https://github.com/WebAssembly/wabt) - WebAssembly 二进制工具包，用于 `wasm-strip` 和 `wasm-objdump` 工具以减少 .wasm 文件的大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) - WebAssembly 的编译器基础设施和工具链库，用于减少 .wasm 文件大小的 `wasm-opt` 工具.
+- [Tauri](https://github.com/tauri-apps/tauri)  - Tauri 是一个框架，用于为所有主要桌面平台构建小巧、速度极快的二进制文件. 开发人员可以集成任何编译为 HTML、JS 和 CSS 的前端框架来构建他们的用户界面. 应用程序的后端是一个 rust-sourced 二进制文件，带有前端可以与之交互的 API.
 
 ## Articles
 
@@ -201,7 +203,7 @@ Yew 团队喜欢与其他项目分享想法，并相信我们可以互相帮助�
 - [Draco](https://github.com/utkarshkukreti/draco) - 用于使用 WebAssembly 构建客户端 Web 应用程序的 Rust 库.
 - [Percy](https://github.com/chinedufn/percy) - 用于使用 Rust + WebAssembly 构建同构 Web 应用程序的模块化工具包.
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
-- [Seed](https://github.com/seed-rs/seed) - 用于创建网络应用程序的 Rust 框架.
+- [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 - [Smithy](https://github.com/rbalicki2/smithy) - 用于在 Rust 中构建 WebAssembly 应用程序的框架.
 - [Dioxus](https://github.com/DioxusLabs/dioxus) - 优雅的类似 React 的库，用于为桌面、Web、移动、SSR、liveview 等构建用户界面.
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - 用于在 Rust 和 WebAssembly 中创建 Web 应用程序的反应式库.

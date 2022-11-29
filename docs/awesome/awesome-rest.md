@@ -13,7 +13,7 @@
 基于网络的软件架构的设计](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding 定义 REST 的论文
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
+* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - 解决安全性、分页、过滤、版本控制、部分答案、CORS 等问题的完整指南.
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​从跨多个团队进行大规模 RESTful 集成中吸取的经验教训.
 * [HATEOAS](https://web.archive.org/web/20201111235328/timelessrepo.com/haters-gonna-hateoas) - 关于什么是 HATEOAS 以及为什么要使用它的清晰解释.
@@ -28,7 +28,7 @@
 * [Cisco REST API Guide](https://github.com/CiscoDevNet/api-design-guide) - 思科 REST API 设计指南.
 * [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Google 在设计 Cloud API 和其他 Google API（REST API 和 gRPC API）时遵循的准则.
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - 由 Haufe-Lexware CTO 团队创建的指南.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - Microsoft REST API 指南作为设计原则，鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - 作为设计原则，Microsoft REST API 指南鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
 * [Restful API Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines) - 开发 Restful API：一套综合指南.
 
 ## Standards
@@ -137,10 +137,10 @@
 * [flask-restful](http://flask-restful.readthedocs.org/) - Flask 的扩展，增加了对快速构建 REST API 的支持.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask 扩展，用于为使用 SQLAlchemy（或 Flask-SQLAlchemy）定义的数据库模型生成 ReSTful API.
 * [hug](http://www.hug.rest/) - 轻量级和快速的 API 框架.
-* [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
+* [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动化 REST API.
 * [restless](http://restless.readthedocs.org/en/latest/) - 基于从 TastyPie 中吸取的经验教训的框架不可知的 REST 框架.
 * [Python Eve](http://python-eve.org/)  - Eve 是一个为人类设计的开源 Python REST API 框架. 它允许毫不费力地构建和部署高度可定制、功能齐全的 RESTful Web 服务.
-* [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从中生成生产就绪的 API，使 RAML 文件可执行.
+* [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从 RAML 文件生成生产就绪的 API 来使它们可执行.
 * [Flask-Potion](https://github.com/biosustain/potion)  - Flask-Potion 是一个强大的 Flask 扩展，用于构建 RESTful JSON API. 它还提供了多个客户端，以便更轻松地访问 API.
 * [apistar](https://github.com/encode/apistar) - 专为 Python 3 设计的智能 Web API 框架. 
 * [Falcon](https://github.com/falconry/falcon) - Falcon 是一个裸机 Python Web API 框架，用于构建高性能微服务、应用程序后端和更高级别的框架.
@@ -195,6 +195,7 @@
 * [TestMace](https://testmace.com) - 用于 API 自动化测试的跨平台简单但功能强大的 IDE.
 * [Milkman](https://github.com/warmuuh/milkman) - 可扩展的跨平台请求/响应工作台，不仅适用于 http 调用.
 * [Schemathesis](https://github.com/schemathesis/schemathesis) - 基于属性的测试工具，适用于使用 Open API 和 GraphQL 规范构建的 Web 应用程序.
+* [Step CI](https://github.com/stepci/stepci) - 用于 API 质量保证的开源框架，它根据开放 API 规范自动测试 REST、GraphQL 和 gRPC.
 
 ### Mocking
 
@@ -217,7 +218,7 @@
 * [Marvel Comics API](http://developer.marvel.com/) - 查询关于漫威超级英雄的人物、故事、事件.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - 免费的在线 REST 服务，您可以在需要一些虚假数据时使用.
 * [APIs.guru](http://APIs.guru) - Web API 的维基百科，每个 API 都有 OpenAPI/Swagger 描述.
-* [The Cat API](http://theCatAPI.com) - 猫图片、事实和笑话的公共 API.
+* [The Cat API](http://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
 
 ## Documentation
 
@@ -230,7 +231,7 @@
 
 ## API Gateway
 
-* [Kong](https://github.com/Kong/kong) - 由 Nginx 支持的可扩展、分布式和面向插件的 API 网关.
+* [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - 具有分析日志记录的轻量级 API 网关，用 Go 编写.
 * [API Umbrella](https://github.com/NREL/api-umbrella) - 用于公开 Web 服务的 API 管理平台，带有 Web 界面和分析，用 Lua 编写.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - 具有轻量级网关和 API 生命周期管理的 API 管理工具，用 Java 编写.
@@ -264,4 +265,4 @@
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-本作品已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+这项工作已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

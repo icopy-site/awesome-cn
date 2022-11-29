@@ -33,7 +33,7 @@
 
 ## Communities
 
-- [Slack](https://graphql.slack.com/messages/general/) - Share and help people on the chat. Get your invite [here](https://graphql-slack.herokuapp.com/).
+- [Slack](https://graphql.slack.com/messages/general/)  - 在聊天中分享和帮助人们. 得到你的邀请 [here](https://graphql-slack.herokuapp.com/).
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 小组讨论、文章和知识共享.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
@@ -81,7 +81,7 @@
 ### JavaScript/TypeScript
 
 - [graphql-js](https://github.com/graphql/graphql-js) - 用于 JavaScript 的 GraphQL 的参考实现.
-- [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - 使用 JIT 编译器执行 GraphQL.
+- [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
 
 #### Clients
 
@@ -109,7 +109,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小挂钩优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
 
 #### Servers
 
@@ -155,7 +155,7 @@
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
 - [graphql-modules](https://github.com/Urigo/graphql-modules) - 通过模块或功能将 GraphQL 服务器分成更小的、可重用的部分.
 - [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
-- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
+- [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - 具有 Node.js 查询复杂性分析的 GraphQL 限速库
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - 一个 webpack 加载器，用于直接从 GraphQL 文档导入受类型保护的代码生成结果
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - 所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
 - [graphql-cli](https://github.com/urigo/graphql-cli) - 用于常见 GraphQL 开发工作流程的命令行工具.
@@ -220,7 +220,7 @@
 - [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - 使用 graphql-ruby 公开 Rails 应用程序.
 - [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用 GitHub 的 GraphQL API 的示例 Rails 应用程序.
 - [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 用于带有 Rails GraphQL 服务器的中继应用程序的准系统入门套件.
-- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
+- [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) - 一个 graphql、中继和标准 rails 应用程序支持的演示博客.
 - [to_eat_app](https://github.com/jcdavison/to_eat_app) - 一个示例 graphql/rails/relay 应用程序以及相关的 3 部分文章系列.
 - [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用 Agoo 服务器演示一个简单的 GraphQL 应用程序.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql) - 带有设计、graphql 和 JWT 身份验证的 Rails 6 样板.
@@ -263,7 +263,7 @@
 - [graphene-django](https://github.com/graphql-python/graphene-django) - 石墨烯的 Django 集成.
 - [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - 受 flask-jwt-extended 启发的 Flask 身份验证库.
 - [tartiflette](https://github.com/dailymotion/tartiflette) - GraphQL 实现，SDL First，适用于 python 3.6+ / asyncio.
-- [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Tartiflette 的包装器基于 aiohttp / 3.6+ / asyncio 通过 HTTP 公开 GraphQL API， [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
+- [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio, [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
 - [Ariadne](https://github.com/mirumee/ariadne)  - 使用模式优先方法实现 GraphQL 服务器的库. 异步查询执行，包含用于 ASGI、WSGI 和流行的网络框架的电池， [fully documented](https://ariadnegraphql.org).
 - [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth) - 使用 GraphQL 的 Django 注册和身份验证.
 - [strawberry](https://github.com/strawberry-graphql/strawberry) - 一个新的 Python GraphQL 库.
@@ -360,7 +360,7 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的中继应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 架构和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 - [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - 展示如何使用代码生成制作 Go GraphQL 服务器和客户端的教程.
 
 <a name="scala" />
@@ -594,7 +594,7 @@
 
 ### Tools - Security
 
-- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - 用于 GraphQL 的多合一自动化渗透测试工具包，用 Python 编写
+- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 - [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键式安全扫描您的 GraphQL 端点. 免费，无需登录.
 - [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
@@ -652,6 +652,7 @@
 
 ## Databases
 
+- [Cube](https://cube.dev) - [Headless BI](https://cube.dev/blog/headless-bi) 用于使用 SQL、REST 和 [GraphQL API](https://cube.dev/docs/backend/graphql) . 连接任何数据库或数据仓库，立即获得具有亚秒级延迟的 GraphQL API.  - [Source Code](https://github.com/cube-js/cube.js)
 - [Dgraph](https://dgraph.io/) - 可扩展、分布式、低延迟、高吞吐量的图形数据库，以 GraphQL 作为查询语言
 - [EdgeDB](https://edgedb.com/) - 具有原生 GraphQL 支持的下一代对象关系数据库.
 - [FaunaDB](https://fauna.com) - 关系型 NoSQL 数据库 [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) 通过无服务器按使用付费定价支持连接、索引和多区域 ACID 事务.
@@ -761,6 +762,8 @@
 
 ## Posts
 
+- [GraphQL federation example with Apollo Federation and Apollo GraphOS](https://cube.dev/blog/graphql-federation-example-with-apollo-federation-and-apollo-graphos)
+- [GraphQL federation with Hasura GraphQL Engine and Cube](https://cube.dev/blog/graphql-federation-with-hasura-graphql-engine)
 - [Using DataLoader to batch GraphQL requests](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433)
 - [Introducing Relay and GraphQL](https://reactjs.org/blog/2015/02/20/introducing-relay-and-graphql.html)
 - [GraphQL Introduction](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)

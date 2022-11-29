@@ -249,7 +249,7 @@
 ### Java
 
 - [Awesome Java Newsletter](https://java.libhunt.com/newsletter) . 精选的 Java 框架、库和软件列表.
-- [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/) . 通过这份每周指南了解 Java 世界的主要发展.
+- [Baeldung Weekly Review](https://www.baeldung.com/java-web-weekly) . 通过这份每周指南了解 Java 世界的主要发展.
 - [Java Newsletter Insights](https://curatedjava.com/java-weekly-newsletter/) . 一份 Java 时事通讯，考虑从数十个来源中精选的 Java 内容.
 
 ### Kotlin
