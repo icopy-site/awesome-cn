@@ -25,7 +25,7 @@
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
-* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
+* [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型 Web 分析.
 * [PoeticMetric](https://poeticmetric.com/) - 隐私至上、合规、速度极快的分析工具.
 
@@ -188,9 +188,7 @@
 * [KeenIO](https://keen.io/) - 事件流媒体平台.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
 * [LogRocket](https://logrocket.com/) - 重播用户的错误.
-* [Dashbird](https://dashbird.io/) - 无服务器实时监控.
-* [Statuspal](https://statuspal.io) - 具有集成服务的公共/私人状态页面.
-* [instatus](https://instatus.com) - 极简主义的 Jamstack 状态页面.
+
 
 ## Natural Language Processing
 *与自然语言的互动.*
@@ -242,7 +240,7 @@
 ## Testing
 *测试工具.*
 * [Testim](https://www.testim.io/) - 前端测试.
-* [Applitools](https://applitools.com/) - 自动化视觉测试.
+* [Applitools](https://applitools.com/) - Automated visual testing.
 * [Percy](https://percy.io/) - 连续视觉测试.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.

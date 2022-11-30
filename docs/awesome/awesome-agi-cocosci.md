@@ -149,7 +149,7 @@
 
 * [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
 * [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***实验心理学杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201) ]. 绑架的主观概率说明.
 
@@ -162,7 +162,7 @@
 
 * [Abduction: A categorical characterization](https://www.sciencedirect.com/science/article/pii/S1570868314000895) - ***应用逻辑杂志***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=17834260152484836885&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) - ***科学哲学***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5)].
+* [Defending Abduction](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) - ***Philosophy of Science***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=13895790050138832555&hl=en&as_sdt=0,5)].
 
 * [On the distinction between Peirce's abduction and Lipton's Inference to the best explanation](https://link.springer.com/article/10.1007/s11229-009-9709-3) - ***合成***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=7865291004729010145&hl=en&as_sdt=0,5)]. 
 
@@ -211,7 +211,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -229,7 +229,7 @@
 
 * [How We Know What Not To Think](https://www.sciencedirect.com/science/article/pii/S1364661319302311) - ***认知科学趋势***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=13106919756521743226&hl=en&as_sdt=2005&sciodt=0,5) ]. 全面审查合理化.
 
-* [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***行为与脑科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于合理化的合理性解释.
+* [Rationalization is rational](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/rationalization-is-rational/2A13B99ED09BD802C0924D3681FEC55B) - ***行为与脑科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5165464589274056844&hl=en&as_sdt=2005&sciodt=0,5)]. A rationality account on rationalization.
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -1414,7 +1414,7 @@
 
 * [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
-* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/) - ***Plato Stanford***. A computational philosophy account on the laugnage of though hypothesis, which proposes that thinking occurs in a mental language.
+* [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
 * [The Analysis of Knowledge](https://plato.stanford.edu/entries/knowledge-analysis/) - ***柏拉图·斯坦福***.
 
@@ -1749,7 +1749,6 @@
 *[Back to Top](#c)-->
 
 
-<span id = "r&l"></span>
 ## Institute & Researcher
 
 ### MIT

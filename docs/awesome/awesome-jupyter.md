@@ -6,11 +6,27 @@
 
 <div align="center" style="border-bottom: 0px;">
 	<br>
-	<img width="400" src="https://raw.githubusercontent.com/adebar/awesome-jupyter/master/logo.png" alt="Jupyter logo">
+	<img width="400" src="https://raw.githubusercontent.com/markusschanta/awesome-jupyter/master/assets/logo.png" alt="Jupyter logo">
 	<br>
 	<br>
-我们有一个新的“姐妹”-asweome 列表，其中包含与 Keras 相关的所有内容：您可以在<a href="https://github.com/markusschanta/awesome-keras"><strong>这里</strong></a>找到它！
 </div>
+
+---
+
+<div align="center" style="border-bottom: 0px;">
+	<sub>Awesome Jupyter 得到了我们赞助商的大力支持：</sub>
+	<br>
+	<br>
+	<a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter"><img width="300" src="https://raw.githubusercontent.com/markusschanta/awesome-jupyter/master/assets/deepnote.jpeg" alt="Deepnote logo"></a>
+	<br>
+	<br>
+	<b>Deepnote 是一款专为团队打造的协作数据科学笔记本.</b>
+	<div>
+	<sub>在浏览器中使用 Python 和 SQL 探索数据.</sub> <sub>通过数据可视化和富文本编辑添加上下文.</sub> <sub>只需发送一个链接即可分享您的作品.</sub>  <sub><a href="https://deepnote.com/?utm_source=github&utm_medium=promo&utm_campaign=awesomejupyter">在 Deepnote 免费计划中查看.</a></sub>
+	</div>
+</div>
+
+---
 
 
 <!--lint ignore awesome-toc alphabetize-lists-->
@@ -57,7 +73,7 @@
 - [ipychart](https://github.com/nicohlr/ipychart) - Jupyter 中的交互式 Chart.js 绘图.
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 使用 cytoscape.js 在 Jupyter 中进行交互式图形可视化的小部件.<!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.<!--lint enable double-link-->
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中用于 Leaflet.js 地图的交互式可视化库.
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
@@ -85,7 +101,7 @@
 
 ## Rendering/Publishing/Conversion
 
-- [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
+- [Binder](http://mybinder.org) - 将 GitHub 存储库变成交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，用于在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本化、编辑和执行笔记本，并通过 REST 接口直接集成它们.
@@ -213,7 +229,7 @@
 - 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
-- Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
+- 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用 Jupyter 的大学机构地图.
 - [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、热门项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
@@ -243,4 +259,4 @@
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/adebar/awesome-jupyter/blob/master/CONTRIBUTING.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/markusschanta/awesome-jupyter/blob/master/CONTRIBUTING.md) 第一的.

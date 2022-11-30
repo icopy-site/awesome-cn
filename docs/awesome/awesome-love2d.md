@@ -66,6 +66,7 @@
 * [LÖVE Build](https://github.com/nhartland/love-build) - 用于自动化跨平台构建的 GitHub Action.
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - 使用 TypeScript 编写 LÖVE 游戏.
 * [lovelier](https://github.com/patrixr/lovelier) - 支持 Moonscript 的 LÖVE 实时加载器.
+* [loveprofiler](https://github.com/dknight/loveprofiler) - LoveProfiler 是一个极其简单的记录器和分析器.
 
 ## Drawing
 *绘制特定库，简化绘图过程*
@@ -116,7 +117,7 @@
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于一次显示一个字符的文本对齐的库.
 * [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
 * [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE/lua 端口.
-* [ScreenManager](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework.
+* [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE 框架的屏幕/状态管理.
 * [shack](https://github.com/Ulydev/shack) - Shack 是一个 LÖVE 库，可让您轻松添加摇动和旋转等屏幕效果.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - 平铺地图加载器和渲染器.
 * [Vivid](https://github.com/WetDesertRock/vivid) - 颜色数学、操作和转换库.
@@ -146,7 +147,7 @@
 
 * [Bresenham](https://github.com/rm-code/Bresenham) - 用 Lua 编写的 Bresenham 直线算法.
 * [brinevector](https://github.com/novemberisms/brinevector) - 独立的轻量级 luajit ffi 加速 2D 矢量库，性能卓越.
-* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - 专为游戏设计的数学/交叉点库.
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games.
 * [delaunay](https://github.com/Yonaba/delaunay) - 凸多边形的 Delaunay 三角剖分.
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - 强大的二维矢量类.
 * [MLib](https://github.com/davisdude/mlib)  - 用 Lua 编写的数学和形状相交检测库. 它的目标是健壮且易于使用.
@@ -308,7 +309,7 @@
 * [Optikon](https://optikon.co.uk/) - 所见即所得的视觉关卡设计器.
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - LÖVE 的粒子编辑器.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - 一个基本的 LÖVE 粒子系统编辑器.
-* [require.lua](https://github.com/premek/require.lua) - 要求文件夹中的所有文件.
+* [require.lua](https://github.com/premek/require.lua) - 需要文件夹中的所有文件.
 * [splashy](https://github.com/videah/splashy) - 启动画面库.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - 使用加速度计数据进行用 Lua 编写的振动设备检测.
 * [tick](https://github.com/bjornbytes/tick) - 对 LÖVE 的运行循环进行有用的时间调整.
