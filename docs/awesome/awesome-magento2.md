@@ -39,7 +39,7 @@ Magento 由一家名为 Varien 的公司创立，随着 Magento 版本 1（于 2
 Magento 版本 2 于 2015 年 11 月首次发布，但由于其复杂性而面临采用问题
 体系结构和过时的功能（KnockoutJS、RequireJS、Zend Framework 1）. 在店面部分，
 这导致了各种新的前端.  2018 年，Magento 被 Adob​​e 收购. 后来整合了Magento Enterprise
-into the Adobe cloud as Adobe Commerce Cloud, while the Magento Community Edition was relabeled Magento Open Source. In
+作为 Adob​​e Commerce Cloud 进入 Adob​​e 云，而 Magento Community Edition 被重新标记为 Magento Open Source. 在
 社区，从长远来看，Adobe 是否会以这种方式维护 Magento 开源存在不确定性
 社区会认为合适. 这种不确定性导致了一项名为 Mage-OS 的社区倡议.
 
@@ -67,7 +67,7 @@ Magento 2 的店面可以通过多种方式设计：
 
  - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更多时候，Luma 这个名字指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
  - **Adobe PWA Studio** - 一个新的无头前端，由 Adob​​e/Magento 创建，基于 ReactJS. 它使 GraphQL 调用 Magento GraphQL API 来检索数据. 前端提供 Venia（一个演示主题和 UI 组件库）、Peregrine（React hooks）、Buildpack（Webpack 配置）和 UPWARD（用于 SSR 和图像优化的中间件）. 
-- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但是对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
+- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
 - **店面视图**
 - **神明**
 - **ScandiPWA**
@@ -129,6 +129,8 @@ Magento 2 的店面可以通过多种方式设计：
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) - 启用可配置的 CORS 标头
   Magento GraphQL API.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - PHPStan 的 Magento 特定扩展
+- [Dot Env](https://github.com/zepgram/magento-dotenv) - Magento 2 环境变量组件 - 实施 Symfony Dotenv.
+- [Rest Client](https://github.com/zepgram/module-rest) - Magento 2 技术模块提供简单的开发模式、配置和优化，以基于 Guzzle Client 向外部服务发出 REST API 请求.
 
 ### Deployment
 
@@ -163,8 +165,8 @@ Magento 2 的店面可以通过多种方式设计：
 
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) - Algolia 搜索 (SaaS) 集成.
 - [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) - 弹性套件集成.
-- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) -Magento 2 ImportExport 的包装器
-  功能，从数组中导入产品和客户.
+- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Magento 2 ImportExport 功能的包装器，可从数组中导入产品和客户.
+- [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - 禁用类别搜索的 Elasticsearch 和全文索引.
 
 ### CMS
 
@@ -208,7 +210,7 @@ Magento 2 的店面可以通过多种方式设计：
   结帐客户到注册客户.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - 重置 UI 书签允许管理员用户
   重置他们自己的 UI 书签，例如过滤器状态、列位置和应用的排序（例如销售 &gt; 订单）.
-- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - 将第 3 方扩展合并到一个菜单中.
+- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 网格颜色模块
   着色管理网格. 支持借助网格的书签保存状态.
   经过 [Dmitry Shkoliar](https://shkoliar.com/)
@@ -232,11 +234,11 @@ Magento 2 的店面可以通过多种方式设计：
 
 ### Infrastructure
 
-- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 快速集成.
+- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron 作业管理器
   马根托 2.
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok 集成
-- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media
+- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - 提供有关媒体信息的模块
   文件和潜在的删除选项.
 
 ---
