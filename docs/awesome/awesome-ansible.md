@@ -81,7 +81,7 @@
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - Ansible 的基于文本的用户界面 (TUI).
 - [squest](https://hewlettpackard.github.io/squest/) - Ansible Tower 作业模板的自助服务门户.
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - 使用 Ansible 剧本弯曲容器并将其转换为容器图像的工具.
-- [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 Python 库，在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器图像接口、作为独立工具还是作为可以导入的 Python 模块.
+- [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 Python 库，可在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器图像接口、作为独立工具还是作为可导入的 Python 模块.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/)  - 使用依赖于非默认依赖项的 Ansible 内容可能会很棘手. 包必须安装在每个节点上，与主机系统上安装的其他软件很好地配合使用，并保持同步.
 - [kics](https://github.com/Checkmarx/kics) - SAST 工具，可将您的 ansible 基础设施扫描为代码手册，以查找安全漏洞、合规性问题和错误配置.
 - [php-ansible Library](https://github.com/maschmann/php-ansible) - Ansible 的 OOP-Wrapper，使 Ansible 在 PHP 中可用.
@@ -104,6 +104,10 @@
 ### German
 
 - [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - 作者喜欢 Ansible Ad-Hoc 模式的意见.
+
+### French
+
+- [Apprendre et Maitriser Ansible l'outil de gestion de configuration](https://blog.stephane-robert.info/post/introduction-ansible/) - 大量关于 Ansible 的法语课程.
 
 ## Playbooks, Roles and Collections
 

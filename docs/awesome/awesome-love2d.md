@@ -111,6 +111,7 @@
 * [shard](https://github.com/MineGame159/shard) - 有用的迷你模块的集合.
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - 用于虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - Lua LÖVE 引擎的状态切换器类.
+* [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua 有限状态机.
 * [lue](https://github.com/Ulydev/lue) - Lue 是一个 LÖVE 库，可让您在游戏中显示色调颜色效果.
 * [lume](https://github.com/rxi/lume/) - Lua 函数集合，面向游戏开发.
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
@@ -309,7 +310,7 @@
 * [Optikon](https://optikon.co.uk/) - 所见即所得的视觉关卡设计器.
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - LÖVE 的粒子编辑器.
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) - 一个基本的 LÖVE 粒子系统编辑器.
-* [require.lua](https://github.com/premek/require.lua) - 需要文件夹中的所有文件.
+* [require.lua](https://github.com/premek/require.lua) - 要求文件夹中的所有文件.
 * [splashy](https://github.com/videah/splashy) - 启动画面库.
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - 使用加速度计数据进行用 Lua 编写的振动设备检测.
 * [tick](https://github.com/bjornbytes/tick) - 对 LÖVE 的运行循环进行有用的时间调整.

@@ -49,7 +49,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
 
 ## Portfolio Trackers
 
@@ -104,7 +104,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ### Go
 
 - [go-algorand](https://github.com/algorand/go-algorand) - Algorand 在 Go 中的官方实现.
-- [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+- [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) - Algorand Golang SDK.
 
 ### PHP
 
@@ -196,6 +196,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
 - [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
 - [irulan](https://irulan.dev/) - 用于部署+测试智能合约的网络应用程序（[open source! + PRs welcome](https://github.com/ncc/irulan)).
+- [algojig](https://github.com/Hipo/algojig) - 用于测试 Algorand 智能合约的工具.
 
 ### Nodes and Indexers
 
@@ -235,6 +236,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Lofty.ai](https://www.lofty.ai/) - 代币化房地产投资平台.
 - [Folks.finance](https://folks.finance/) - 去中心化资本市场协议.
 - [C3](https://c3.io/) - 交叉保证金交叉抵押清算引擎协议.
+- [Cometa.farm](https://cometa.farm/) - 去中心化的流动性即服务.
 
 ## Security Audits
 

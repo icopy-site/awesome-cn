@@ -4,7 +4,7 @@
 
 精选的时事通讯列表.
 
-灵感来自 GitHub 上的“awesome-*”趋势.
+灵感来自 GitHub 上的 `awesome-*` 趋势.
 
 目标是建立一个分类的社区驱动的非常知名的资源集合.
 
@@ -35,7 +35,7 @@
 - [JavaScript Weekly](https://javascriptweekly.com/) . 每周一次的免费 JavaScript 新闻和文章电子邮件汇总. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次通过电子邮件发送时事通讯，为设计师和开发人员提供有用的提示、技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 一个快速的 JavaScript 技巧，每隔一周发送到您的收件箱.
-- [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
+- [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly 是一份专注于工具的前端开发和网页设计时事通讯.
 - [ES.next News](http://esnextnews.com/) . 每周有 5 个 ECMAScript.next 链接，由 Axel Raushmayer 博士和 Johannes Weber 策划.
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 很棒的浏览器端 JavaScript 库、资源和闪亮事物的集合.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 每周最好的 TypeScript 链接，就在您的盒子里.
@@ -100,7 +100,7 @@
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
-- [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
+- [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和优秀的设计相关内容来自最好的 subreddits.
@@ -129,7 +129,7 @@
 - [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三的每周电子邮件，其中包含来自 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从 git 到职业，再到 Web 开发，再到个人发展和团队合作.
 - [LLVM Weekly](http://llvmweekly.org) . 每周通讯，涵盖 LLVM、Clang 和相关项目的发展.
 - [Discover dev](https://www.discoverdev.io) . 来自网络的最佳工程博客每周摘要. [Archive](https://www.discoverdev.io/archive).
-- [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
+- [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/) . 双周深度代码审查相关文章.
 - [Active forks](https://activeforks.net) . 面向开源爱好者的每周时事通讯，其中包含存储库列表及其最近活跃的分支.
 - [BaseClass](https://www.baseclass.io/) . 每两周一次的时事通讯，在 5 分钟内解释基本的计算主题.
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/) . 每周时事通讯，包含最新的 Rails + Javascript + 软件工程内容.
@@ -318,6 +318,7 @@
 - [SRE Weekly](http://sreweekly.com/) .  SRE Weekly 是一份时事通讯，专门介绍与尽可能一致地保持站点或服务可用相关的所有内容.
 - [StatusCode Weekly](https://weekly.statuscode.com/) . 关于 Web 操作、基础设施、性能和工具的每周时事通讯，从浏览器到硬件.
 - [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter) . 关于 Kubernetes 上策划的聚会、会议、培训和网络研讨会的每周时事通讯.
+- [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly) . 以 Kubernetes 为重点的精选文章、教程、项目和活动.
 
 ### Cloud Development
 
@@ -423,7 +424,7 @@
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，其中包含精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
+- [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，内容包括精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简报，包含 WebRTC 上的所有最新消息和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络声音感兴趣的人们提供的每周时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
@@ -435,9 +436,9 @@
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中选择了一个订阅者，该订阅者的电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业精选的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
-- [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳 Reddit 帖子的有关创业、成长、投资和初创公司的前沿新闻.
+- [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
-- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、用户界面/用户体验、工作/职业以及与开发人员和行业相关的任何方面的最新信息.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.
 - [Figures](https://joinfigures.com/) . 根据您的最低工资要求获得高薪技术工作.

@@ -18,7 +18,7 @@
 	<sub>查看我的最新应用</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小部件</a>
+		<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小工具</a>
 		<br>
 		<sup>直接从 iPhone 锁定屏幕呼叫您最喜欢的人</sup>
 	</h2>
@@ -108,7 +108,7 @@
 - [WebTorrent](https://github.com/feross/webtorrent-app) - 流媒体客户端.
 - [Min](https://github.com/minbrowser/min) - 最小的网络浏览器.
 - [Hyper](https://github.com/zeit/hyper) - 终端.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - 跨平台集成开发环境.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ###### Other
 
@@ -158,7 +158,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现、收集和收听来自 YouTube 的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
-- [Pomotroid](https://github.com/Splode/pomotroid) - 定时器番茄.
+- [Pomotroid](https://github.com/Splode/pomotroid) - 计时器番茄.
 - [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的可视化工具.
 - [Etcher](https://github.com/resin-io/etcher) - 将操作系统映像闪存到 SD 卡和 USB 驱动器.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记记录.
@@ -182,6 +182,7 @@
 - [VIR](https://github.com/TommyX12/VIR) - 具有自动计划功能的智能时间管理器.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - macOS 的浏览器提示器.
 - [linked](https://github.com/lostdesign/linked) - 日报.
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代文件管理器.
 
 ### Closed Source
 
@@ -207,7 +208,7 @@
 - [Remember](https://rememberapp.co.kr)  - 名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
-- [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
+- [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知程序.
 - [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 用于为 Cocos2D-x 创建网络和本机游戏的游戏编辑器.

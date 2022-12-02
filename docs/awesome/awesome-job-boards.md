@@ -50,7 +50,6 @@
 
 ## DevOps
 
-* [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Careers](https://kube.careers) — 精选 Kubernetes 岗位，薪资区间清晰，直投企业.
 
 ## Gaming
@@ -159,6 +158,7 @@
 * [Werkington](https://www.werkington.com/)
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - 来自远程优先公司的工作
+* [Teletravail.guru](https://teletravail.guru/) - 法国人的远程工作
 
 ### Aggregator
 
@@ -204,3 +204,6 @@
 ## Writing
 
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - 为关心文档的人提供的工作
+
+## Various
+* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关工作
