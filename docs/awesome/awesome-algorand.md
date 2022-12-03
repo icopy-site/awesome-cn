@@ -214,7 +214,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AB2](https://ab2.gallery/) - 在 Algorand 区块链上保护加密艺术资产的去中心化市场 [@ab2_gallery](https://twitter.com/AB2_Gallery).
 - [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) 资源管理器和市场开发者 [Chris Antaki](https://github.com/ChrisAntaki).
 - [AlgoGems](https://algogems.io/) - 面向 NFT 收藏家的 Algorand 标准资产 (ASA) 市场和交易平台.
-- [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和画廊 [@millionalgosfather](https://twitter.com/millionalgos).
+- [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和画廊 [@aorumbayev](https://twitter.com/aorumbayev).
 - [AlgoMart](https://github.com/deptagency/algomart) - 开源 NFT 市场白标解决方案.
 - [The GIF Economy](https://gifeconomy.com/) - 去中心化 NFT 浏览器、铸造和交易.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
