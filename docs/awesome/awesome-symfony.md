@@ -117,13 +117,13 @@
 * [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - 使用我们的条码生成器基础库进行条码渲染的捆绑包.
 * [BlogBundle](https://github.com/stfalcon/BlogBundle) - 简单的博客模块.
 * [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - 通过提供模板、Twig 扩展、服务和命令将 Bootstrap 集成到 Symfony2 中.
-* [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - 一个小面包屑包.
+* [BreadcrumbsBundle](https://github.com/mhujer/BreadcrumbsBundle) - 一个小面包屑包.
 * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - 捆绑访问 browscap 信息.
 * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - 捆绑以在 Symfony2 中集成 cachetool 库（从命令行清除 acp/opcache）.
 * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - 该包提供了将请求数据转换为 Carbon 对象的机会.
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - 检查已安装但未在 AppKernel 捆绑包中激活.
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - 能够备份您的数据库并将其上传到云端.
-* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
+* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - 浏览器中的命令行界面.
 * [EightPointsGuzzleBundle](https://github.com/8p/EightPointsGuzzleBundle) - 将 Guzzle 6.x（一种 PHP HTTP 客户端）集成到 Symfony 2-4 中，并提供插件以扩展基本功能.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - 在 Symfony 中捆绑集成 Guzzle &gt;=4.0.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - 将 phpleague/csv 集成到 Symfony 中.
@@ -161,11 +161,12 @@
 * [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - 集成 libphonenumber.
 * [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - 在 Symfony2 中集成 prezent/grid 库.
 * [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) - Symfony 中的 QueryBus 集成.
+* [request-object-resolver-bundle](https://github.com/mops1k/request-object-resolver-bundle) - 去规范化并验证 DTO 对象中的传入请求.
 * [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS 和 Atom 捆绑包.
 * [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - 狮身人面像搜索包.
 * [SettingsBundle](https://github.com/dmishh/SettingsBundle)  - 以数据库为中心的配置管理. 支持全局和每用户设置.
 * [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - 为您的项目提供短网址.
-* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - 用于简单标签管理的 Symfony 2 包，基于 doctrine 2 simple_array 类型.
+* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
 * [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - 自动将 Doctrine 实体同步到 Sphinx 实时索引的包.
 * [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - 提供使用 Sphinx 搜索.
 * [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - 此捆绑包允许您在实体属性上自动生成唯一的随机字符串，这对创建密钥很有用.
@@ -177,7 +178,7 @@
 * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - 用于传输 API 客户端的捆绑包.
 * [versioning-bundle](https://github.com/shivas/versioning-bundle) - 版本的简单方法（语义版本控制 2.0.0）.
 * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - 用于 PHP 包访问者的 Symfony Bundle.
-* [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - 捆绑使用 Pagerfanta.
+* [BabDevPagerfantaBundle](https://github.com/BabDev/BabDevPagerfantaBundle) - 捆绑使用 Pagerfanta.
 * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - 为控制器类添加注解配置.
 * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - 用于管理多个域的短捆绑包.
 
@@ -222,19 +223,19 @@
 
 * [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - 在 YAML、XML 和 INI 之间转换服务配置的简单服务.
 * [Twigfiddle](http://twigfiddle.com/) - 在线开发、运行、存储和访问 Twig 代码的小型开发环境.
+* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - 现代项目中经常遇到的一些 Php 知识备忘单.
 
 ## Service Container
 
 * [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - 管理存储在数据库中的配置设置，并使它们可以通过 Symfony 2 项目中的服务访问.
-* [JMDSettingsBundle](https://github.com/mops1k/settings-bundle) - 数据库中存储配置的简单服务，可通过项目中的服务和树枝访问.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - 提供高级依赖注入功能.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - 一个为服务参数提供自动装配的包.
 * [PHP-DI](http://php-di.org) - 人类的依赖注入容器.
 
 ## Storage
 
-* [AliceBundle](https://github.com/hautelook/AliceBundle) - 一个 Symfony2 包，以帮助与 Alice 一起加载 Doctrine Fixtures.
-* [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - A Symfony2 bundle for using Alice and Faker with data fixtures.
+* [AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice.
+* [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - 用于将 Alice 和 Faker 与数据夹具一起使用的 Symfony2 包.
 * [AvSpoolMailerBundle](https://github.com/AppVentus/AvSpoolMailerBundle) - 将您的邮件存储为假脱机并发送交易直接邮件或将其存储在数据库中.
 * [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - 动态数据库路由.
 * [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) - Bundle 允许您创建具有字段的学说实体，这些字段将受到 AES 等加密算法的保护.
@@ -245,7 +246,7 @@
 * [FeedBundle](https://github.com/eko/FeedBundle) - 从您的实体构建 RSS 提要的捆绑包.
 * [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) - 此捆绑包添加了标签，能够将标签与任意数量的不同实体相关联.
 * [GaufretteBrowserBundle](https://github.com/digitalkaoz/GaufretteBrowserBundle) - 该捆绑包允许您像 Doctrine Connection 一样浏览 Gaufrette 文件系统.
-* [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
+* [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - 集成晶圆.
 * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - Doctrine 的 MySQL 函数：RAND()、ROUND() DATE()、DATE_FORMAT().
 * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - 集成 Flysystem.
 * [RelationBundle](https://github.com/Ph3nol/RelationBundle)  - 捆绑管理模型/实体之间的关系.  （不再维护）
@@ -257,7 +258,7 @@
 ## Template Engine
 
 * [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - 该捆绑包允许您在 Twig 模板中使用 Kint 库.
-* [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - 处理（添加/显示）Symfony flash 消息的简化方法.
+* [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - 处理（添加/显示）Symfony flash 消息的简化方式.
 * [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - 简单包装到 gravatar API.
 * [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - 为时间操纵提供帮手.
 * [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - 提供 css 内联功能的 Swiftmailer 插件.
@@ -280,7 +281,7 @@
 ## User Management
 
 * [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle)  - OAuth 客户端集成. 同时支持 OAuth1.0a 和 OAuth2.
-* [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) - 该捆绑包将 AutoLogin 库与 Symfony2 集成在一起，它实现了一个安全防火墙侦听器，可以根据单个查询参数对用户进行身份验证.
+* [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) - 该捆绑包将 AutoLogin 库与 Symfony2 集成在一起，后者实现了一个安全防火墙侦听器，可根据单个查询参数对用户进行身份验证.
 * [JMSSecurityExtraBundle](http://jmsyst.com/bundles/JMSSecurityExtraBundle) - 通过几个新功能增强了安全组件.
 * [SamlBundle](https://github.com/pdias/SamlBundle) - SamlBundle 在 Symfony2 中添加了对 SAML 2.0 服务提供商的支持.
 * [two-factor-bundle](https://github.com/scheb/two-factor-bundle) - 此 Symfony2 捆绑包为您的网站提供双因素身份验证.
@@ -289,7 +290,7 @@
 
 * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - 提供 FilterService 允许用户使用 Annotations 在实体中实现输入过滤.
 * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - 确保强密码的验证器.
-* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - 用于 VATIN 库的 Symfony2 包（验证增值税识别号）.
+* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
 
 ## Web Services
 
@@ -299,7 +300,6 @@
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - 捆绑构建超媒体驱动的 REST API.
 * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - 服务器端 OAuth2 包.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - 提供各种工具来快速开发 RESTful API 和应用程序.
-* [JMDRestBundle](https://github.com/mops1k/JMDRestBundle) - 提供快速简单的方法来为您的项目实体生成 REST api，而无需编辑配置和创建任何控制器.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - 轻松序列化和反序列化任何复杂的数据.
 * [JSONApiBundle](https://github.com/nilportugues/symfony-jsonapi) - 支持格式化 REST 响应以遵循 JSON API 规范的捆绑包.
 * [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - 提供一项服务，允许您根据验证元数据生成 json 模式.

@@ -253,6 +253,7 @@ Lodash
 <!-- ignore is to keep "github" lower-case -->
 <!--lint ignore awesome-spell-check-->
 
+- [html](https://github.com/shuoshubao/eslint-formatter-html) - 增强的 ESLint 格式化程序
 - [badger](https://github.com/brettz9/eslint-formatter-badger) - 制作基于 SVG 的徽章总结 ESLint 结果（例如，用于自述文件）.
 - [git-log](https://github.com/JamieMason/eslint-formatter-git-log) - 具有 Git 作者、日期和哈希的 ESLint 格式化程序.
 - [github](https://github.com/hipstersmoothie/eslint-formatter-github) - 直接在拉取请求中查看 ESLint 错误和警告.

@@ -146,7 +146,7 @@
   [Repo](https://github.com/uikit/uikit)
   | #LESS #SCSS
 
-- [**Primer**](https://primer.style/) - 支持 GitHub 前端设计的 CSS 框架.  
+- [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://primer.style/css/),
   [Repo](https://github.com/primer/css)
@@ -234,6 +234,12 @@
   [Repo](https://github.com/muicss/mui)
   | #SCSS
 
+- [**Materialize**](https://materializecss.github.io/materialize/) - 基于谷歌材料设计的响应式前端库.  
+  ![](https://img.shields.io/github/stars/materializecss/materialize.svg?style=social&label=Star)
+  [Docs](https://materializecss.github.io/materialize/getting-started.html),
+  [Repo](https://github.com/materializecss/materialize)
+  | #SCSS
+
 
 ## Utility-based
 
@@ -283,6 +289,11 @@
   [Docs](https://github.com/BafS/Gutenberg#what-does-the-framework-do-)
   | #SCSS
 
+- [**XP.css**](https://botoxparty.github.io/XP.css/) - 用于构建类似于 Windows XP 的界面的 CSS 库.  
+  ![](https://img.shields.io/github/stars/botoxparty/XP.css.svg?style=social&label=Star)
+  [Repo](https://github.com/botoxparty/XP.css)
+  | #PostCSS
+
 - [**Bojler**](https://bojler.slicejack.com) - 用于开发响应式和轻量级电子邮件模板的电子邮件框架.  
   ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social&label=Star)
   [Docs](https://bojler.slicejack.com/documentation/getting-started/),
@@ -295,6 +306,10 @@
   [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
   | #SCSS
 
+- [**7.css**](https://khang-nd.github.io/7.css/) - 用于构建看起来像 Windows 7 界面的 CSS 库.  
+  ![](https://img.shields.io/github/stars/khang-nd/7.css.svg?style=social&label=Star)
+  [Repo](https://github.com/khang-nd/7.css)
+  | #PostCSS
 
 ## Toolkits
 
@@ -323,7 +338,7 @@
   [Repo](https://github.com/semantic-org/semantic-ui)
   | #LESS
 
-- [**normalize.css**](https://necolas.github.io/normalize.css/) - Modern, HTML5-ready alternative to CSS resets.  
+- [**normalize.css**](https://necolas.github.io/normalize.css/) - CSS 重置的现代、HTML5 就绪替代方案.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
   | #CSS
