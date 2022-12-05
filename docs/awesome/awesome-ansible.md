@@ -23,10 +23,23 @@
 &gt; 与 Ansible 社区聊天的地方
 
 - 关于代码 - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) 和 [GitHub.com/ansible-community](https://github.com/ansible-community).
-- [IRC](https://docs.ansible.com/ansible/latest/community/communication.html#irc-channels) - #ansible, #ansible-devel and #ansible-community amongst others on [libera.chat](https://libera.chat/).
 - [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - Ansible subreddit.
 - [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - Ansible 不和谐.
 - [ansible.com/community](https://ansible.com/community) - Twitter、邮件列表、聚会等等.
+
+上还有许多 Ansible IRC 频道 [libera.chat](https://libera.chat/) 被桥接到 [Matrix](https://matrix.org/).
+您可以在官方文档中找到完整列表以及如何连接 [documentation](https://docs.ansible.com/ansible/latest/community/communication.html) 但这里有一些：
+
+ | 互联网资源中心 | 矩阵 | 话题 |
+|--------------------|------------------------|----------------------------------------------------------------------------------|
+| #ansible           | #users:ansible.com     | General Ansible user support and discussion                                      |
+| #ansible-devel     | #devel:ansible.com     | Developer discussions around code, bugs and features                             |
+| #ansible-community | #community:ansible.com | Community working group, wide range of topics including weekly meetings          |
+| #ansible-docs      | #docs:ansible.com      | Documentation working group, discuss docs and participate in weekly meetings     |
+| #ansible-devtools  | #devtools:ansible.com  | For devtools such as ansible-lint, molecule and the vscode plugin                |
+| #ansible-awx       | #awx:ansible.com       | For the AWX open source project, upstream of Ansible Tower/Automation controller |
+| #ansible-network   | #network:ansible.com   | For general support and discussion around network automation with Ansible        |
+| #ansible-fr        | #francais:ansible.com  | For discussion about Ansible in french                                           |
 
 ## Tutorials
 
@@ -114,13 +127,13 @@
 &gt; 出色的生产就绪 Playbook、角色和集合，让您启动并运行.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - 使用 Vagrant 部署到本地 VM 的 Ansible 示例.
-- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+- [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible 剧本，用于使用 Docker 守护程序设置自我更新、强化的 Debian/Ubuntu 机器.
 - [DevSec Hardening Framework](https://dev-sec.io/) - DevSec 集合可帮助您强化基于 Linux 的操作系统以及 MySQL、NGINX 和 SSH 服务器/服务.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  - 将 Docker Swarm 集群配置和部署到开发环境和生产环境. 基础架构即代码和 DevOps 最佳实践.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).
 - [Robert de Bock](https://robertdebock.nl) - 广泛的 Ansible 角色集合.
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbook.
-- [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - 使用 AWS SSM 代理配置物理和虚拟主机的可靠角色.
+- [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - 用于部署集群的可靠的连贯角色集合.
 
 ## Editor and IDE Integrations

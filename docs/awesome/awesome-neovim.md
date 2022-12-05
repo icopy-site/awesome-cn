@@ -33,6 +33,7 @@ Neovim 支持多种 UI.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 用 Lua 编写的 Neovim 包管理器.
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim)  - 用 Lua 编写的 Neovim 配置切换器. 灵感来自化学.
 - [chiyadev/dep](https://github.com/chiyadev/dep)  - packer.nvim 的替代品. 它被构建为更好、更易于使用. 可以找到上下文 [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
+- [rktjmp/pact.nvim](https://github.com/rktjmp/pact.nvim) - 语义版本感知插件管理器.
 
 ### LSP
 
@@ -248,7 +249,7 @@ Neovim 支持多种 UI.
 - [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - 深色午夜配色方案，支持包括 Tree-sitter 在内的现代 Neovim.
 - [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) - 具有现代 Neovim 支持（包括 Tree-sitter）的深色木炭配色方案.
 - [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - 具有 Tree-sitter 支持的 Nvcode、onedark、nord 配色方案.
-- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 一个用 Lua 编写的干净、深色和浅色的 Neovim 主题，支持 LSP、Tree-sitter 和许多插件.
+- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - 基于 Monokai Pro 的高对比度和生动的配色方案.
 - [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - 源自 palenight 和 carbonight 的深色配色方案.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - 海洋下一个主题.
@@ -690,7 +691,7 @@ Neovim 支持多种 UI.
 
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 缩进插件.
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Lua 中的 IndentLine 替换具有更多功能和 treesitter 支持.
-- [echasnovski/mini.nvim#mini.indentscope](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-indentscope.md) - Module of `mini.nvim` for visualizing and operating on indent scope. Supports customization of debounce delay, animation style, and different granularity of options for scope computing algorithm.
+- [echasnovski/mini.nvim#mini.indentscope](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-indentscope.md)  - `mini.nvim` 模块，用于缩进范围的可视化和操作. 支持自定义debounce delay、动画风格、范围计算算法选项的不同粒度.
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - 自动压痕风格检测.
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - 用 Lua 编写的愚蠢的自动快速缩进检测.
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - 项目的根目录和文档缩进检测器，带有基于项目的配置加载器.

@@ -62,7 +62,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -178,7 +178,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Smart Contracts
 
-- [reach](https://docs.reach.sh) - 一种用于构建跨链去中心化应用程序 (DApps) 的特定领域语言.
+- [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于编译为 TEAL 代码的 Algorand 区块链的富有表现力的高级语言.
 - [algoml](https://github.com/petitnau/algoml) - 一种用于指定 Algorand 智能合约的特定领域语言，可编译成 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
@@ -283,7 +283,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [TinyBar App](https://tinybar.app) - 一个微型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
-- [algorealm](https://github.com/cusma/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
+- [algorealm](https://github.com/algorealm/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
+- [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的网络 CLI 模拟器版本.
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的大量铸造 Algorand NFT. 由 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 语言编写的 Algorand 虚拟地址生成器.

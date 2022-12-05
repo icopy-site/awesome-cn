@@ -70,6 +70,7 @@
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 针对现代网络浏览器进行演示的交互式可视化库.
 - [bqplot](https://github.com/bloomberg/bqplot) - Jupyter 基于图形的交互式绘图框架的语法.
 - [Evidently](https://github.com/evidentlyai/evidently) - 用于在验证或生产监控期间分析机器学习模型的交互式报告.
+- [hvplot](https://hvplot.holoviz.org/) - 一个熟悉的高级 API，用于 Jupyter 中的数据探索和可视化.
 - [ipychart](https://github.com/nicohlr/ipychart) - Jupyter 中的交互式 Chart.js 绘图.
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 使用 cytoscape.js 在 Jupyter 中进行交互式图形可视化的小部件.<!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.<!--lint enable double-link-->
@@ -234,7 +235,7 @@
 - [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、热门项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - 皮皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
-是用于 Jupyter 项目的 PyPI trove 分类器.
+is the PyPI trove classifier for Jupyter projects.
 - Reddit - 子版块： [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
 - 堆栈溢出 - 标签： [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
 

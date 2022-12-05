@@ -155,7 +155,7 @@
 - [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
 - [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的“深色”变体.
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的 `dark` 变体.
-- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - 为现有颜色添加不透明度变体.
+- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - 将自定义变体添加到 Tailwind CSS 的配置中.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - 添加一个微调器组件.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - 添加“间隔”组件，为所有容器项目添加固定边距.
@@ -303,6 +303,7 @@
 - [Material Tailwind Dashboard React](https://www.creative-tim.com/product/material-tailwind-dashboard-react) - 免费的 Tailwind CSS 和 React 管理模板.
 - [Admin One Vue 3](https://github.com/justboil/admin-one-vue-tailwind) - 免费的 Vue.js 3 Tailwind CSS 管理模板，支持 Vite 和 Vue CLI.
 - [Cruip](https://cruip.com/) - 设计精美的 HTML、React 和 Vue.js 模板.
+- [Admin One React](https://github.com/justboil/admin-one-react-tailwind) - 带有 Next.js 和 TypeScript 的免费 React.js Tailwind CSS 管理模板.
 
 ## Starters & Themes
 
@@ -374,7 +375,7 @@
 - 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - 使用 Vue.js 和 Tailwind CSS 重建 Acquia 的托管仪表板.
 - 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - 使用 Vue.js 和 Tailwind CSS 制作的导航栏.
 - 🧪 [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - 使用 Tailwind CSS 进行切换.
-- 🧪 [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - “Open” landing page template by Cruip built with Tailwind CSS Boilerplate.
+- 🧪 [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - Cruip 使用 Tailwind CSS Boilerplate 构建的“打开”登陆页面模板.
 - [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - 如何使用 Jest 测试 Tailwind CSS 插件.
 - [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - 如何使用 PostCSS 和 Webpack 设置 Tailwind CSS.
 - [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - 如何将 Tailwind CSS 与 CSS-in-JS 一起使用.
