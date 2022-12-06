@@ -20,6 +20,7 @@
   * [HOSxP](https://hosxp.net/joomla25/) - 泰国医院信息系统，旨在简化健康中心和中心医院的医疗保健工作流程.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - 以临床为重点的电子健康记录系统.
   * [MedinTux](https://medintux.org/) - 法国医疗实践管理系统.
+  * [Medplum](https://github.com/medplum/medplum) - 支持灵活快速开发医疗保健应用程序的开发人员平台.
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - 全民健康和医院信息系统.
   * [OpenClinic](https://github.com/jact/openclinic) - 病历系统.
   * [OpenEMR](https://www.open-emr.org) - 电子健康记录和医疗实践管理应用程序.
@@ -126,6 +127,7 @@
   * [Python 835 Parser](https://github.com/keironstoddart/edi-835-parser) - EDI 835 医疗保健索赔付款和汇款通知文件的简单易用的 Python 接口.
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) - Ruby 中的 FHIR 客户端实现.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) - 红宝石 HL7 库.
+  * [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) - 用于 HL7 FHIR 的 Rust SDK
   * [TorchXRayVision](https://github.com/mlmed/torchxrayvision)  - 胸部 X 光数据集和模型库. 包括预训练模型.
   * [Z-Anatomy](https://www.z-anatomy.com) - 自由解剖图集
 
@@ -162,6 +164,7 @@
   * [Wregex](https://ehubio.ehu.eus/wregex/) - 带有可选位置特异性评分矩阵的氨基酸基序搜索软件.
 
 ### Data
+  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) 统一的报表库.
   * [Caisis](http://www.caisis.org/) - 带有患者数据管理系统的肿瘤学研究软件.
   * [Cedar](https://projectcedar.org/) - 用于测试电子临床质量测量强度的开源工具.
   * [cTAKES](https://ctakes.apache.org/) - 用于从电子病历临床自由文本中提取信息的自然语言处理系统.

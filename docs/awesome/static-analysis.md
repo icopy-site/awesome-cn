@@ -162,6 +162,8 @@
 
 - [Frama-C](http://frama-c.com) — 用于 C 代码的可靠且可扩展的静态分析器.
 
+- [GCC](https://gcc.gnu.org/onlinedocs/gcc/Static-Analyzer-Options.html)  — GCC 编译器自版本 10 起具有静态分析功能.此选项仅在 GCC 配置为启用分析器支持时可用. 它还可以将其诊断信息输出到 SARIF 格式的 JSON 文件（从 v13 开始）.
+
 - [Goblint](https://goblint.in.tum.de)  — 用于分析多线程 C 程序的静态分析器. 它的主要重点是检测数据竞争，但它也报告其他运行时错误，例如缓冲区溢出和空指针取消引用.
 
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  :copyright: — 嵌入式软件的企业级静态分析. 支持 MISRA、CERT 和 AUTOSAR 编码标准.
@@ -273,7 +275,7 @@
 - [vera++](https://bitbucket.org/verateam/vera/wiki/Introduction) — Vera++ 是一个用于验证、分析和转换 C++ 源代码的可编程工具.
 
 
-<h2 id="clojure">Clojure</h2>
+<h2 id="clojure">Clojure 语言</h2>
 
 
 - [clj-kondo](https://github.com/borkdude/clj-kondo)  — 激发喜悦的 Clojure 代码 linter. 它会在您打字时通知您潜在的错误.
@@ -327,7 +329,7 @@
 - [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是分析D 源代码的工具.
 
 
-<h2 id="elixir">灵药</h2>
+<h2 id="elixir">长生不老药</h2>
 
 
 - [credo](https://github.com/rrrene/credo) — 专注于代码一致性和教学的静态代码分析工具.
@@ -362,7 +364,7 @@
 - [FSharpLint](http://fsprojects.github.io/FSharpLint) — Lint tool for F#.
 
 
-<h2 id="fortran">Fortran</h2>
+<h2 id="fortran">语言</h2>
 
 
 - [i-Code CNES for Fortran](https://github.com/lequal/i-CodeCNES) — Fortran 77、Fortran 90 和 Shell 的开源静态代码分析工具.
@@ -493,7 +495,7 @@
 - [Weeder](https://github.com/ocharles/weeder) — 用于检测 Haskell 代码中死导出或包导入的工具.
 
 
-<h2 id="haxe">混合</h2>
+<h2 id="haxe">混合的</h2>
 
 
 - [Haxe Checkstyle](http://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html) — 一种静态分析工具，可帮助开发人员编写符合编码标准的 Haxe 代码.
@@ -599,7 +601,7 @@
 - [yardstick](https://github.com/calmh/yardstick) :warning: — Javascript 代码指标.
 
 
-<h2 id="julia">朱莉娅</h2>
+<h2 id="julia">茱莉亚</h2>
 
 
 - [StaticLint](https://github.com/julia-vscode/StaticLint.jl) — Julia 的静态代码分析
@@ -612,7 +614,7 @@
 
 - [diktat](https://diktat.saveourtool.com) — 严格的 Kotlin 编码标准和检测并自动修复代码异味的 linter.
 
-- [ktlint](https://ktlint.github.io) — 带有内置格式化程序的反自行车脱落 Kotlin linter.
+- [ktlint](https://ktlint.github.io) — 一个带有内置格式化程序的反 bikeshedding Kotlin linter.
 
 
 <h2 id="lua">二</h2>
@@ -625,7 +627,7 @@
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — 用于静态类型 Lua 开发的 IDE.
 
 
-<h2 id="matlab">MATLAB</h2>
+<h2 id="matlab">软件</h2>
 
 
 - [mlint](https://mathworks.com/help/matlab/ref/mlint.html) :copyright: — 检查 MATLAB 代码文件是否存在可能的问题.
@@ -794,7 +796,7 @@
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -908,7 +910,7 @@
 
 - [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Ruby 的静态代码分析.
 
-- [rubycritic](https://github.com/whitesmith/rubycritic) — A Ruby code quality reporter.
+- [rubycritic](https://github.com/whitesmith/rubycritic) — 一位 Ruby 代码质量报告者.
 
 - [rufo](https://github.com/ruby-formatter/rufo) — 一个自以为是的 ruby​​ 格式化程序，旨在通过命令行用作文本编辑器插件，以在保存或按需时自动格式化文件.
 
@@ -982,7 +984,7 @@
 - [warnalyzer](https://github.com/est31/warnalyzer) — 显示多箱 Rust 项目中未使用的代码
 
 
-<h2 id="sql">SQL</h2>
+<h2 id="sql">数据库</h2>
 
 
 - [dbcritic](https://github.com/channable/dbcritic) — dbcritic 发现数据库模式中的问题，例如表中缺少主键约束.
@@ -1040,7 +1042,7 @@
 - [Tailor](https://sleekbyte.github.io/tailor) :warning: — 以 Apple 的 Swift 编程语言编写的源代码的静态分析和 lint 工具.
 
 
-<h2 id="tcl">Tcl</h2>
+<h2 id="tcl">TCL</h2>
 
 
 - [Frink](http://catless.ncl.ac.uk/Programs/Frink) — 一个 Tcl 格式化和静态检查程序（可以美化程序、最小化、混淆或只是完整性检查）.
@@ -1078,7 +1080,7 @@
 
 - [svls](https://github.com/dalance/svls) — Verilog 和 SystemVerilog 的语言服务器协议实现，包括 lint 功能.
 
-- [verible-linter-action](https://github.com/chipsalliance/verible-linter-action) — 在 Verible 的帮助下，github 操作中的自动 SystemVerilog linting 用于自动检查 Verilog 和 SystemVerilog 源文件，并自动注释 Pull Requests 中的错误代码行.
+- [verible-linter-action](https://github.com/chipsalliance/verible-linter-action) — Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
 
 - [Verilator](https://www.veripool.org/verilator)  — 将 Verilog 转换为 C++ 或 SystemC 中的周期精确行为模型的工具. 执行 lint 代码质量检查.
 
@@ -1154,7 +1156,7 @@
 
 - [CodeScan](https://www.codescan.io/)  :copyright: — Salesforce 开发人员的代码质量和安全性.  CodeScan 的代码分析解决方案专为 Salesforce 平台打造，可让您全面了解代码的健康状况.
 
-- [CodeScene](https://codescene.com)  :copyright: — CodeScene 是一种高质量的软件可视化工具. 确定技术债务的优先级、检测交付风险并衡量组织方面. 全自动.
+- [CodeScene](https://codescene.com)  :copyright: — CodeScene 是一种高质量的软件可视化工具. 确定技术债务的优先级、检测交付风险并衡量组织方面. 完全自动化.
 
 - [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 
@@ -1172,7 +1174,7 @@
 
 - [DeepSource](https://deepsource.io)  :copyright: — 深入的静态分析，以发现错误风险、安全性、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的原生集成. 误报率低于 5%.
 
-- [Depends](https://github.com/multilang-depends/depends) — Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.
+- [Depends](https://github.com/multilang-depends/depends) — 分析了Java、C/C++、Ruby 代码元素的综合依赖性.
 
 - [DevSkim](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
@@ -1278,7 +1280,7 @@
 
 - [Sigrid](https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/) :copyright: — Sigrid 通过测量系统的代码质量帮助您改进软件，然后将结果与数千个行业系统的基准进行比较，为您提供可以改进的领域的具体建议.
 
-- [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — 一种发现文件之间或文件内部相似性的工具，以支持您遇到违反 DRY 原则的情况.
+- [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — 一种查找文件之间或文件内部相似性的工具，以支持您遇到违反 DRY 原则的情况.
 
 - [Snyk Code](https://snyk.io) :copyright: — Snyk Code finds security vulnerabilities based on AI. Its speed of analysis allow us to  analyse your code in real time and deliver results when you hit the save button in your IDE.  Supported languages are Java, JavaScript, Python, PHP, C#, Go and TypeScript. Integrations with  GitHub, BitBucket and Gitlab. It is free to try and part of the Snyk platform also covering SCA,  containers and IaC.
 
@@ -1342,7 +1344,7 @@
 
 
 
-<h2 id="angular">角</h2>
+<h2 id="angular">有角的</h2>
 
 
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) — Angular 项目的 Linter
@@ -1492,7 +1494,7 @@
 - [tfsec](https://github.com/tfsec/tfsec)  — Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反了 AWS、Azure 和 GCP 安全最佳实践建议.
 
 
-<h2 id="container">容器</h2>
+<h2 id="container">集装箱</h2>
 
 
 - [anchore](https://anchore.io)  — 发现、分析和验证容器镜像. 一种分析 Docker 映像并应用用户定义的接受策略以允许自动进行容器映像验证和认证的服务 
@@ -1608,7 +1610,7 @@
 - [Spectral](https://stoplight.io/open-source/spectral) — 灵活的 JSON/YAML linter，开箱即用地支持 OpenAPI v2/v3 和 AsyncAPI v2.
 
 
-<h2 id="kubernetes">Kubernetes</h2>
+<h2 id="kubernetes">库伯内斯</h2>
 
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
@@ -1647,7 +1649,7 @@
 - [TeXLab](https://texlab.netlify.app) — TeX/LaTeX 的语言服务器协议实现，包括 lint 功能.
 
 
-<h2 id="laravel">拉拉维尔</h2>
+<h2 id="laravel">拉维</h2>
 
 
 - [Enlightn](https://www.laravel-enlightn.com/)  — Laravel 应用程序的静态和动态分析工具，提供建议以提高 Laravel 应用程序的性能、安全性和代码可靠性. 包含 120 个自动检查.
@@ -1849,7 +1851,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 - [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
 
 
-<h2 id="terraform">地形</h2>
+<h2 id="terraform">地貌</h2>
 
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible

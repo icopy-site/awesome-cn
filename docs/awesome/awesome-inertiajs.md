@@ -11,7 +11,7 @@
   <br />
 </p>
 
-<h2 align="center">很棒的惯性.js</h2>
+<h2 align="center">很棒的 Inertia.js</h2>
 
 <p align="center">
   使用经典服务器端路由和控制器构建单页应用程序的工具.
@@ -32,7 +32,7 @@
 
 ## Useful Links
 
-**传奇**：``官方·`⭐`精选
+**图例**：``官方·`⭐`精选
 
 - [Documentation](http://inertiajs.com) - 官方网站和文档.
 - [Twitter](https://twitter.com/inertiajs) - 官方推特账号.
@@ -81,22 +81,22 @@
 ### Presets
 
 - ⭐ [Laravel Inertia Preset](https://github.com/laravel-presets/inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的单命令 Laravel 预设.
-- [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel 的官方认证脚手架，带有 Tailwind CSS 和 Inertia.js.
-- [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
-- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - 用于 Inertia.js 的 Laravel 前端预设.
+- [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel 的官方身份验证脚手架，带有 Tailwind CSS 和 Inertia.js.
+- [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用程序脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
+- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Inertia.js 的 Laravel 前端预设.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Titanium](https://github.com/usetitanium/inertia) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Breeze React](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork 与 Tailwind CSS、Inertia.js 和 React.
 
 ### Packages
 
-- [Page loader](https://github.com/ycs77/inertia-plugin) - 用于从配置的命名空间加载 Inertia 页面的插件.
-- [Flash](https://github.com/igerslike/inertia-flash) - Laravel 包，用于从任何地方共享属性.
+- [Page loader](https://github.com/ycs77/inertia-plugin) - 取消用于从配置的名称空间加载惯性页面的插件.
+- [Flash](https://github.com/igerslike/inertia-flash) - 用于从任何地方共享属性的 Laravel 包.
 - [Dry requests](https://github.com/dive-be/laravel-dry-requests) - 用于实时表单验证的通用 Laravel 包.
 - [Kakunin](https://github.com/Juhlinus/kakunin) - 用于实时表单验证的 Laravel 包.
 - [Resource Links](https://github.com/spatie/laravel-resource-links) - 用于添加 API 资源链接的 Laravel 包.
 - [Navigation](https://github.com/spatie/laravel-navigation) - 用于生成菜单、面包屑和其他导航元素的 Laravel 包.
-- [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - 提供与集成的 DataTable 组件 [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
+- [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - 提供一个 DataTable 组件与集成 [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
 
 ### Articles
 
@@ -115,14 +115,15 @@
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - 使用 CakePHP 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - 使用 Masonite 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - 使用 Laravel React 制作的演示应用程序.
-- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - 使用 Clojure 和试剂制作的演示应用程序.
+- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - 使用 Clojure 和 Reagent 制作的演示应用程序.
 - [Ping CRM / Flask](https://github.com/j0ack/pingcrm-flask) - 使用 Flask 和 Vue.js 制作的演示应用程序.
 - [Ping CRM / Echo](https://github.com/kohkimakimoto/pingcrm-echo) - 使用 Echo 和 Vue.js 制作的演示应用程序.
+- [Ping CRM / Preact](https://github.com/jrson83/pingcrm-preact) - 使用 Laravel Preact 制作的演示应用程序.
 
 ### Other
 
-- [Built with Inertia](https://builtwithinertia.com/) - 使用 Inertia.js 构建的产品展示.
-- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - Inertia.js 的 PhpStorm/Intellij Ultimate 插件.
+- [Built with Inertia](https://builtwithinertia.com/) - 展示使用 Inertia.js 构建的产品.
+- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - 用于 Inertia.js 的 PhpStorm/Intellij Ultimate 插件.
 
 <p align="center">
   <br />
