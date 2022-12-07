@@ -23,7 +23,7 @@
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的vlang工具，生成v源文件到AST json文件.
-- [verve](https://github.com/MohammadMD1383/verve) - 简单快速的静态文件服务器.
+- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建二维码的 CLI.
@@ -34,7 +34,7 @@
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - 来自官方 V 示例的小型文本编辑器.
 - [ved](https://github.com/vlang/ved)  - 用 V 编写的 1 MB 文本编辑器，具有硬件加速文本渲染. 在 &lt;1 秒内编译.
 - [vee](https://github.com/Larpon/vee)  - V 编辑器引擎. 提供文本编辑器功能的 AV 模块. 附带一个 [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
-- [vPDF](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+- [vPDF](https://github.com/vlang/pdf) - 使用 V 编程语言简化 PDF 文件创建的模块.
 
 ### Games
 
@@ -195,6 +195,7 @@
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
 - [strfmt](https://github.com/BenStigsen/strfmt) - 非常适合模板化的小巧快速的字符串格式化库.
 - [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.
+- [vxml](https://github.com/walkingdevel/vxml) - 用于将 XML 解析为 DOM 的纯 V 库.
 - [text-processing](https://github.com/ArtemkaKun/text-processing) - V 文本处理库，包含处理文本数据的常用工具.
 
 ### User Interface toolkits

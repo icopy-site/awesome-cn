@@ -180,6 +180,7 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 
 - [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - 将身份归于软件版本可能比想象的要难.
 - [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html)  - 构建软件很难. 构建构建软件的软件更难.
+- [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - 调用未定义的行为可能导致*任何*发生，因为“任何事情”的定义比人们想象的要广泛得多.
 - [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - 创建和记录 API 时要注意的陷阱.
 - [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - 虽然 RFC4180 存在，但它远非确定性的并且在很大程度上被忽略了.
 - [Falsehoods about Package Managers](https://kdeldycke.github.io/meta-package-manager/falsehoods.html) - 涵盖包裹及其经理.

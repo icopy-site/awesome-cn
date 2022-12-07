@@ -471,7 +471,7 @@
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - 一个 Rails 电子商务平台.
 * [Solidus](https://github.com/solidusio/solidus) - 面向大批量零售商的开源电子商务应用程序.
 * [Spree](https://github.com/spree/spree) - Spree 是 Ruby on Rails 的完整开源电子商务解决方案.
-* [SquareConnect](https://github.com/square/connect-ruby-sdk) - 用于支付和其他 Square API 的 Square SDK.
+* [SquareConnect](https://github.com/square/connect-ruby-sdk) - Square 用于支付和其他 Square API 的 SDK.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - 条纹 Ruby 绑定.
 * [Workarea](https://github.com/workarea-commerce/workarea) - 一个可扩展的高性能电子商务平台，受到一些世界顶级零售商的依赖.
 
@@ -580,6 +580,7 @@
 * [Gosu](http://www.libgosu.org) - 用于 Ruby 和 C++ 编程语言的 2D 游戏开发库.
 * [Mittsu](https://github.com/jellymann/mittsu) - Mittsu 通过在 OpenGL 上提供抽象使 3D 图形更容易，并且主要基于 THREE.js.
 * [Ruby 2D](https://github.com/ruby2d/ruby2d) - 轻松创建跨平台 2D 应用程序、游戏和可视化.
+* [Taylor](https://github.com/HellRok/Taylor) - Taylor 是一个使用 mruby 和 raylib 构建的游戏引擎.
 
 ## Gem Generators
 
@@ -768,7 +769,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -992,7 +993,7 @@
 * [SciRuby](https://github.com/sciruby/sciruby) - Ruby/Rails 中的科学计算工具.
   * [IRuby](https://github.com/SciRuby/iruby) - 用于 Jupyter 的 Ruby 内核.
   * [statsample](https://github.com/sciruby/statsample) - 用于 Ruby 基本和高级统计的套件.
-  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby 统计样本时间序列.
+  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) - Statsample 的广义线性模型扩展.
   * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.

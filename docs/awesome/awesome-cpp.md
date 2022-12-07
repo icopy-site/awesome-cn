@@ -148,6 +148,7 @@
  * [Clara](https://github.com/catchorg/Clara)  - 一个简单易用、可组合的命令行解析器，适用于 C++ 11 及更高版本.  [BSL-1.0]
  * [cli](https://github.com/daniele77/cli)  - 用于交互式命令行界面（Cisco 风格）的跨平台头文件 C++14 库.  [促进]
  * [CLI11](https://github.com/CLIUtils/CLI11)  - 仅标头的单文件或多文件 C++11 库，用于简单和高级 CLI 解析.  [BSD]
+ * [clipp](https://github.com/muellan/clipp)  - 单个头文件中包含的 C++11/14/17 易于使用、功能强大且富有表现力的命令行参数处理.  [麻省理工学院]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser. [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)  - 从文档字符串生成选项解析器的库.  [麻省理工学院/助推器]
  * [FINAL CUT](https://github.com/gansm/finalcut)  - 用于使用基于文本的小部件创建终端应用程序的库.  [LGPL]
@@ -288,7 +289,7 @@
 * [s2n](https://github.com/awslabs/s2n)  - TLS/SSL 协议的实现.  [阿帕奇]
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  - 用于检测文件中 SHA-1 冲突的库和命令行工具.  [麻省理工学院]
 * [Tink](https://github.com/google/tink)  - 一个多语言、跨平台的库，提供安全、易于正确使用且难以（呃）滥用的加密 API.  [Apache-2.0]
-* [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. [PublicDomain]
+* [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - C 中的小型便携式 AES128/192/256. [PublicDomain]
 * [Themis](https://github.com/cossacklabs/themis)  - 用于无痛数据安全的加密库，提供对称和非对称加密，具有前向保密的安全套接字，适用于移动和服务器平台.  [阿帕奇2]
 * [HEhub](https://github.com/primihub/HEhub)  - 用于同态加密及其应用的库.  [阿帕奇2]
 
@@ -306,7 +307,7 @@
 
 * [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp)  - ClickHouse DBMS 的 C++ 客户端.  [阿帕奇2]
 * [hiberlite](https://github.com/paulftw/hiberlite)  - sqlite3 的 C++ 对象关系映射.  [BSD]
-* [Hiredis](https://github.com/redis/hiredis)  - Redis 数据库的简约 C 客户端库.  [BSD]
+* [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [LevelDB](https://github.com/google/leveldb)  - 由 Google 编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
 * [libpqxx](https://github.com/jtv/libpqxx)  - PostgreSQL 的官方 C++ 客户端 API.  [BSD-3-条款]
 * [LMDB](http://symas.com/mdb/)  - 具有完整 ACID 语义的非常快速的嵌入式键/值存储.  [OpenLDAP]
@@ -358,7 +359,7 @@
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
 * [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆可用于跟踪内存错误.  [BSD]
-* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试.[GPL2]
+* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有多个平台的网络视图的分析器.  [未授权]
 * [MinUnit](https://github.com/siu/minunit)  - 一个最小的单元测试框架，用于 C 自包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ Seams 和模拟对象的 Eclipse CDT 插件.
@@ -377,7 +378,7 @@
 *用于解析和操作字体文件的库.*
 
 * [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和自定义库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
-* [FreeType](https://www.freetype.org/) - FreeType is a freely available software library to render fonts. [FTL & GPLv2]
+* [FreeType](https://www.freetype.org/)  - FreeType 是一个免费提供的字体渲染软件库.  [FTL &amp; GPLv2]
 * [otfcc](https://github.com/caryll/otfcc)  - 用于解析和编写 OpenType 字体文件的 AC 库和实用程序.  [Apache-2.0]
 
 ## Game Engine
@@ -386,7 +387,7 @@
 * [Allegro](http://liballeg.org/)  - 主要针对视频游戏和多媒体编程的跨平台库.  [zlib]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  - 用于构建 2d 游戏、交互式书籍、演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  - 用纯 C、SDL 和 OpenGL 编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  - Crown 是一种通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
+* [crown](https://github.com/dbartolini/crown)  - Crown 是一个通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  - 强大的模拟平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  - 游戏与现代 C++ 相遇.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  - 用于创建 2D/3D 移动和桌面游戏的跨平台原生 C++ 游戏框架.  [阿帕奇2]
@@ -421,7 +422,7 @@
 * [imgui](https://github.com/ocornut/imgui)  - 具有最小依赖性的即时模式图形用户界面.  [麻省理工学院]
 * [implot](https://github.com/epezent/implot)  - 用于 imgui 的即时模式绘图小部件.  [麻省理工学院]
 * [iup](https://www.tecgraf.puc-rio.br/iup)  - 用于构建图形用户界面的多平台工具包.  [麻省理工学院]
-* [libui](https://github.com/andlabs/libui)  - 简单且可移植（但并非不灵活）的 C GUI 库，它使用它支持的每个平台的本机 GUI 技术.  [麻省理工学院]
+* [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
 * [MyGUI](http://mygui.info/)  - 快速、灵活和简单的 GUI.  [麻省理工学院]
 * [nana](http://nanapro.org/en-us/)  - Nana 是用于现代 C++ 风格的 GUI 编程的跨平台库.  [促进]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui)  - 用于 OpenGL 3.x 或更高版本的简约跨平台小部件库.  [BSD]
@@ -491,7 +492,7 @@
 * [Simd](https://github.com/ermig1979/Simd)  - 使用 SIMD 的 C++ 图像处理库：SSE、SSE2、SSE3、SSSE3、SSE4.1、SSE4.2、AVX、AVX2、AVX-512、VMX(Altivec) 和 VSX(Power7)、NEON for ARM.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  - STB 单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  - OCR 引擎.  [阿帕奇2]
-* [TinyEXIF](https://github.com/cdcseacave/TinyEXIF) - Tiny ISO-compliant C++ EXIF and XMP parsing library for JPEG. [MIT]
+* [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)  - 用于 JPEG 的微型符合 ISO 标准的 C++ EXIF 和 XMP 解析库.  [麻省理工学院]
 * [Video++](https://github.com/matt-42/vpp)  - C++14 高性能视频和图像处理库.  [麻省理工学院]
 * [VIGRA](https://github.com/ukoethe/vigra)  - 用于图像分析的通用 C++ 计算机视觉库.  [麻省理工学院 X11]
 * [VTK](http://www.vtk.org/)  - 用于 3D 计算机图形、图像处理和可视化的开源、免费软件系统.  [BSD]
@@ -538,7 +539,7 @@
 * [json-c](https://github.com/json-c/json-c) - C 中的 JSON 实现. [MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  - 用于 JSON 和类似 JSON 的二进制格式的 C++ 标头库，带有 JSONPointer、JSONPatch、JSONPath 和 JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  - 用于与 JSON 交互的 C++ 库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) - 用可移植的 ANSI C 编写的占用空间非常小的 JSON 解析器. [BSD]
+* [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11)  - 用于 C++11 的小型 JSON 库.  [麻省理工学院]
 * [json-struct](https://github.com/jorgen/json_struct)  - 高性能、单头 JSON 解析器解析到 C++ 结构和从 C++ 结构解析.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  - C++ 的 JSON 库. 支持 C++11. 没有依赖性，快速且对开发者友好.  [阿帕奇2]
@@ -656,7 +657,7 @@
 
 * [GStreamer](http://gstreamer.freedesktop.org/)  - 用于构建媒体处理组件图的库.  [LGPL]
 * [libass](https://github.com/libass/libass)  - 适用于 ASS/SSA 字幕格式的便携式字幕渲染器.  [国际学习中心]
-* [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
+* [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)  - 使用开放标准协议（RTP/RTCP、RTSP、SIP）的多媒体流媒体库.  [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC)  - libVLC (VLC SDK) 媒体框架.  [通用公共许可证]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)  - 方便地统一显示视频和音频文件的最相关技术和标签数据.  [BSD]
 * [QtAv](https://github.com/wang-bin/QtAV)  - 基于Qt和FFmpeg的多媒体播放框架，轻松编写播放器.  [LGPL] [website](http://wang-bin.github.io/QtAV/)
@@ -804,7 +805,7 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
@@ -838,8 +839,8 @@
 * [nanopb](https://github.com/nanopb/nanopb) - ANSI C 中的小型代码大小协议缓冲区实现. [Zlib]
 * [protobuf](https://github.com/protocolbuffers/protobuf)  - Protocol Buffers - Google 的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - C 中的 Protocol Buffers 实现 [BSD]
-* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)  - 为低延迟应用程序以二进制格式编码和解码应用程序消息.  [阿帕奇2]
-* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现.[BSD]
+* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现. [BSD]
 * [YAS](https://github.com/niXman/yas)  - 非常快的 **Y**et **A**nother **S** 序列化库支持二进制/文本/json 格式.  [促进]
 
 ## Sorting

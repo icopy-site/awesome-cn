@@ -80,6 +80,7 @@
 * [Maid64](https://github.com/adekto/maid64) - LÖVE 的低分辨率缩放器.
 * [Push](https://github.com/Ulydev/push) - LÖVE 的简单分辨率处理库.
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的正交行星渲染.
+* [Resolution Solution](https://github.com/Vovkiv/resolution_solution) - 缩放库，可帮助您为游戏添加分辨率支持！
 * [svglover](https://github.com/globalcitizen/svglover) - 在 LÖVE 中导入和显示简单 SVG 的库.
 * [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - 以像素艺术为中心的缩放器，用于图形、位置、屏幕捕获和着色器.
 * [Sölar](https://github.com/JanWerder/soelar) - 一个相当简单的太阳系模拟器.
@@ -93,6 +94,7 @@
 
 * [adorbs](https://github.com/JosephShering/adorbs) - 最小的功能实体组件系统.
 * [Concord](https://github.com/Tjakka5/Concord) - 功能齐全的 ECS 库.
+* [ecs-lua](https://github.com/nidorx/ecs-lua) - ECS Lua 是一种用于游戏开发的快速且易于使用的 ECS（实体组件系统）引擎.
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - 极简功能型 ECS.
 * [nata](https://github.com/tesselode/nata) - 混合 OOP/ECS 实体管理.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - 简单、灵活且有用的 Lua 实体组件系统.
@@ -116,8 +118,9 @@
 * [lume](https://github.com/rxi/lume/) - Lua 函数集合，面向游戏开发.
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于一次显示一个字符的文本对齐的库.
-* [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
+* [roomy](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
 * [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE/lua 端口.
+* [Scenery](https://github.com/paltze/scenery) - 一个非常简单的场景/状态管理系统.
 * [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE 框架的屏幕/状态管理.
 * [shack](https://github.com/Ulydev/shack) - Shack 是一个 LÖVE 库，可让您轻松添加摇动和旋转等屏幕效果.
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - 平铺地图加载器和渲染器.
@@ -148,7 +151,7 @@
 
 * [Bresenham](https://github.com/rm-code/Bresenham) - 用 Lua 编写的 Bresenham 直线算法.
 * [brinevector](https://github.com/novemberisms/brinevector) - 独立的轻量级 luajit ffi 加速 2D 矢量库，性能卓越.
-* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games.
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - 专为游戏设计的数学/交叉点库.
 * [delaunay](https://github.com/Yonaba/delaunay) - 凸多边形的 Delaunay 三角剖分.
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - 强大的二维矢量类.
 * [MLib](https://github.com/davisdude/mlib)  - 用 Lua 编写的数学和形状相交检测库. 它的目标是健壮且易于使用.
@@ -180,7 +183,7 @@
 * [30log](https://github.com/Yonaba/30log)  - Lua 面向对象的缩小框架. 它具有命名（和未命名）类、单一继承和对混合的基本支持.
 * [classic](https://github.com/rxi/classic/)  - Lua 的微型类模块. 尝试通过避免不必要的过度抽象来保持简单并提供良好的性能.
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) - 具有多重继承（class-commons）的小型、快速类/原型实现.
-* [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+* [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - 提供单一继承和构造函数的极小基类.
 * [middleclass](https://github.com/kikito/middleclass)  - 用于 Lua 的简单 OOP 库； 具有继承、元方法（运算符）、类变量和弱混合支持（类公共）.
 * [muun](https://github.com/megagrump/muun) - Moonscript 兼容类实现.
 * [selene](https://github.com/novafacing/selene) - 无需预编译即可在 Moonscript 而不是 Lua 中编写游戏的项目模板.
@@ -225,7 +228,7 @@
 * [arson](https://github.com/flamendless/arson.lua) - 用于注册可由 json.lua 编码和解码的自定义数据类型的配套库.
 * [binser](https://github.com/bakpakin/binser) - 可定制的 Lua 序列化程序.
 * [bitser](https://github.com/gvx/bitser) - 使用 LuaJIT 序列化和反序列化 Lua 值.
-* [cdata](https://github.com/excessive/cdata) - 使用 LuaJIT 的 FFI 在 Lua 数据和 C 数据之间序列化.
+* [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI.
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - 将数据序列化为 Lua 脚本.
 * [Lady](https://github.com/gvx/Lady)  - 保存和加载存档游戏； 基于Ser.
 * [moonblob](https://github.com/megagrump/moonblob) - 二进制序列化和数据解析库.
@@ -244,7 +247,7 @@
 ## Testing
 *用于单元测试的库和工具*
 
-* [busted](https://github.com/Olivine-Labs/busted) - Simple unit-testing framework with customizable assertions.
+* [busted](https://github.com/Olivine-Labs/busted) - 具有可定制断言的简单单元测试框架.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - 无夹具测试框架.
 * [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的、可定制的测试扩展 `assert()`.
 * [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit 风格的随机单元测试框架.
@@ -284,6 +287,7 @@
 * [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
 * [SUIT](https://github.com/vrld/SUIT) - 小型即时模式 GUI 库.
 * [YALG](https://github.com/sasszem/yalg) - 一个非常简单的跨平台反应式 UI，适用于最后一分钟的 UI.
+* [YUI](https://gitea.it/1414codeforge/yui) - LÖVE 的声明式 UI 库.
 
 ## Utilities
 *非游戏特定的库和工具*
@@ -292,7 +296,7 @@
 * [cargo](https://github.com/bjornbytes/cargo) - 资产经理.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - 用于生成随机数据的库.
 * [colorchanger](https://github.com/santoslove/colorchanger) - 更改 LÖVE 游戏中的颜色.
-* [Flirt](https://github.com/Alloyed/flirt)  - LÖVE 版本管理器； 允许在同一台机器上的多个引擎版本之间切换.
+* [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine.
 * [GifCat](https://github.com/WetDesertRock/GifCat) - 一个用于保存来自 LÖVE 的 gif 的简单模块.
 * [hex2color](https://github.com/S-Walrus/hex2color/) - 使用十六进制颜色值的单一函数.
 * [i18n](https://github.com/excessive/i18n) - 旨在帮助本地化您的游戏的国际化库.

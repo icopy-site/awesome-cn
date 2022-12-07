@@ -57,6 +57,7 @@
 * [GBIF Backbone Taxonomy](https://www.gbif.org/en/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c) - 动物、细菌、原生动物和病毒的分类学聚合和同义词，综合了 56 个分类源.
 * [ICTV](https://talk.ictvonline.org/taxonomy/) - 具有优秀档案的病毒分类学权威和 [open reports](https://talk.ictvonline.org/ictv-reports/).
 * [IUCN Redlist](http://www.iucnredlist.org/)  - 提供野生宿主分类信息的在线数据库. 您可以使用 R 包 `rredlist` 和 [API](http://apiv3.iucnredlist.org/api/v3/docs) 直接访问数据. 
+* [Mammal Diversity Database](https://www.mammaldiversity.org/)  - 由美国哺乳动物学会维护的哺乳动物分类学权威. 版本在 Zenodo 上更新和记录. 完整说明 [Burgin et al. (2018)](https://academic.oup.com/jmammal/article/99/1/1/4834091?login=false). 
 * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) - 分类数据库是公共序列数据库中所有生物（包括寄生虫和宿主）的精选分类和命名法.
 
 ## Scientific Journals 

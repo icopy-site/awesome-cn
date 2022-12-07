@@ -158,7 +158,7 @@ Lodash
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 检查文件顶部并修复它们的 eslint 规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) - 将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) - 将所有规则转换为警告.
-- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - 集成了 ESLint 插件 [putout](https://github.com/coderaiser/putout) linter 到 ESLint.
+- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout](https://github.com/coderaiser/putout) linter 到 ESLint.
 - [TypeLint](https://github.com/yarax/eslint-plugin-typelint) - 基于现有模式（Swagger、Redux）和对对象属性的 linting 访问引入类型，防止“未定义”错误.
 - [Woke](https://github.com/amwmedia/eslint-plugin-woke) - 帮助捕捉不敏感的词，促进包容性代码库.
 
@@ -193,17 +193,16 @@ Lodash
 
 ### Performance
 
-- [clean-regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex) - JavaScript regex linter，旨在通过指出错误和提出改进建议来帮助编写更好的正则表达式.
 - [DOM](https://github.com/amilajack/eslint-plugin-dom)
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
-- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
+- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-st和ard) 和 [Config](https://github.com/Raynos/eslint-config-perf-st和ard)
 
 ### Security
 
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - 检测潜在秘密/凭证的 eslint 插件.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - 检查“innerHTML”、“outerHTML”等.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii)  - 检查并执行代码的 PII 合规性. 即评论或字符串文字中没有电子邮件地址、出生日期、IP 地址或电话号码.
-- 扫描JS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
+- 扫描JS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的 ESLint 规则.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在最终投入生产之前检测代码库中的 XSS 问题.
 
@@ -267,14 +266,14 @@ Lodash
 - [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - 期望在全局变量上使用 `window` 限定符，否则可能会与局部变量混淆.
 - [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自 ESLint）
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
-- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
+- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - TestCafe 的`fixture` 和`test` 全局变量.
 
 ## Tools
 
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - 为 .eslintrc.js 文件提供一个 defineConfig 函数.
 - [es-file-traverse](https://github.com/brettz9/es-file-traverse)  - 仅获取基于导入和/或从一个或多个条目文件中需要的那些正在使用的文件的列表； 列表可传递给 ESLint. 有意特别是用于检查第 3 方依赖项.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - 查找自定义配置中没有的内置 ESLint 规则.
-- [eslint-index](https://github.com/wagerfield/eslint-index) - 用于在 ESLint 配置文件中查找和管理规则的 CLI.
+- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
 - [eslint-interactive](https://github.com/mizdra/eslint-interactive) - 修复大量 ESLint 错误的 CLI 工具.
 - [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - 复用 eslint 结果并合并常见文件的结果.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 通过一次修复一个规则来轻松使用 ESLint.

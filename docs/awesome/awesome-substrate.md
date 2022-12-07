@@ -109,6 +109,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Python Interface](https://github.com/polkascan/py-substrate-interface) - 由维护 [Polkascan Foundation](https://polkascan.org/).
 - [Rust API Client](https://github.com/scs/substrate-api-client) - 维护的 Rust 客户端 [Supercomputing Systems AG](https://www.scs.ch/).
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+- [Sub-Api](https://github.com/kodadot/packages/tree/main/sub-api) - 由 KodaDot 维护的 Polkadot.js API 的友好包装器.
 
 ## Mobile
 
@@ -156,10 +157,11 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为 FRAME Con​​tracts pallet 和 ink! 编写的智能合约测试网.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 生态系统的零知识工具.
 - [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - 一个自托管网页，显示任何给定网络的最新元数据和链规范.
+- [Minimark](https://github.com/kodadot/packages) - 由 KodaDot 维护的 RMRK NFT v1/v2 协议的实现
 - [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - 包含静态信息和元数据以支持 Polkadot 生态系统中的客户端应用程序将其映射到各种网络.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC Polkadot节点监控告警解决方案，兼容多条Substrate链. 
-- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于 Polkadot 和任何 Substrate 链开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于使用 Polkadot 和任何 Substrate 链进行开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - 基于 Substrate 的链的半官方区块浏览器和前端.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 用于与基于 Substrate 的链进行交互的浏览器扩展.
 - [Polkascan](https://polkascan.io/) - 由 Polkascan 基金会维护的多链区块浏览器.

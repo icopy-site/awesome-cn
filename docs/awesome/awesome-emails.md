@@ -53,6 +53,7 @@
 
 ## Tools
 
+- [Mailing](https://www.mailing.run/) - 在 React 中构建电子邮件，从任何地方发送.
 - [Can I Email](https://www.caniemail.com/) - 我可以通过电子邮件发送电子邮件吗？支持电子邮件中的 HTML 和 CSS 表格.
 - [Topol](https://topol.io/) - 在一分钟内创建令人惊叹的响应式 HTML 电子邮件.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML 官方桌面应用程序.

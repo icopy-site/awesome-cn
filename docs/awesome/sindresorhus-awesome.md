@@ -19,7 +19,7 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小部件</a>
+			<a href="https://www.producthunt.com/products/favorites-widget">收藏夹小工具</a>
 			<br>
 			<sup>直接从 iPhone 锁定屏幕呼叫您最喜欢的人</sup>
 		</h2>
@@ -379,7 +379,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -395,6 +395,7 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 收集可重复使用的组件，以确保一致性和速度的规则为指导.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - 在不构建 API 的情况下制作单页应用程序.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - 用于快速构建网站的模板、布局、组件和小部件.
+- [Master CSS](https://github.com/master-co/awesome-master-css#readme) - 一种具有增强语法的虚拟 CSS 语言.
 - [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - 用于使用 React 构建 Shopify 店面的边缘优先框架.
 
 ## Back-End Development

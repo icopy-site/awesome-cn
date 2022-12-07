@@ -97,14 +97,14 @@
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - 实时调整 React 组件
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - 用于加载具有承诺的组件的高阶组件
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React 代码拆分变得简单
-- [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
+- [reactotron](https://github.com/skellock/reactotron) - 用于检查 React 和 React Native 项目的桌面应用程序
 - [storybook](https://github.com/storybookjs/storybook) - UI组件开发和测试
 - [docz](https://github.com/doczjs/docz) - 零配置，使用 Markdown + JSX 实时重新加载文档
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - 带有生活风格指南的独立 React 组件开发环境
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用 React 组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - 为 ESLint 反应特定的 linting 规则
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - 用于 JSX 元素的 a11y 规则的静态 AST 检查器
-- [@axe-core/react](https://github.com/dequelabs/axe-core-npm) - React 应用程序的可访问性审计
+- [@axe-core/react](https://github.com/dequelabs/axe-core-npm) - React 应用程序的可访问性审核
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - 小型 JavaScript 编译器，可直接在网页上快速将 JSX 转换为 JS
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey 修补 React 以通知您有关可避免的重新渲染.
 - [Divjoy](https://divjoy.com) - React 代码库和 UI 生成器以加速开发（付费）
@@ -211,7 +211,7 @@
 - [data-source](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - 为 Facebook 的 Flipper 中使用的流数据可视化提供支持的库
 - [react-text-mask](https://github.com/text-mask/text-mask) - React 的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - 创建自动适应您的应用程序的骨架屏幕
-- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - 一组加载指示器，使用 CSS for React 动画
+- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
 - [rheostat](https://github.com/airbnb/rheostat) - 使用 React 构建的可访问滑块组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) - 用于 React 的 QR 组件
 - [react-archer](https://github.com/pierpo/react-archer) - 在 React 元素之间绘制箭头
@@ -260,10 +260,10 @@
 - [AtlasKit](https://atlaskit.atlassian.com/) - Atlassian 的 React UI 库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) - Elasticsearch 的 UI 组件库
 - [Slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于构建富文本编辑器.
-- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - 通过将 JSON 定义映射到您公开的 React 组件，从 JSON 构建 React 元素.
+- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - 通过将 JSON 定义映射到您公开的 React 组件，从 JSON 构造 React 元素.
 - [react-lodash](https://github.com/typicode/react-lodash) - Lodash 作为 React 组件
 - [react-helmet](https://github.com/nfl/react-helmet) - React 文档主管
-- [react-snap](https://github.com/stereobooster/react-snap) - SPA 的零配置框架不可知静态预渲染
+- [react-snap](https://github.com/stereobooster/react-snap) - SPA 的零配置框架不可知静态预呈现
 - [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的 React 框架
 - [refract](https://github.com/fanduel-oss/refract) - 利用反应式编程的力量来增强您的组件
 - [react-desktop](https://github.com/gabrielbull/react-desktop) - 使用 React 构建的 OS X 和 Windows UI 组件
@@ -281,7 +281,7 @@
 - [ReasonReact](https://reasonml.github.io/reason-react/)
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
-- [om](https://github.com/swannodette/om) - ClojureScript 界面
+- [om](https://github.com/swannodette/om) - ClojureScript 接口
 - [Reagent](https://github.com/reagent-project/reagent) - React.js 的简约 ClojureScript 接口
 - [Express React views](https://github.com/reactjs/express-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
@@ -336,13 +336,14 @@
 - [react-query](https://github.com/tannerlinsley/react-query) - 用于在 React 中获取、缓存和更新异步数据的钩子
 - [flux](http://facebook.github.io/flux/) - 用于构建用户界面的应用程序架构
 - [recoil](https://github.com/facebookexperimental/Recoil) - React 应用程序的实验状态管理库
+- [jotai](https://github.com/pmndrs/jotai) - 使用原子模型进行 React 状态管理的自下而上方法
 - [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - 现代网络的状态机和状态图
 - [zustand](https://github.com/pmndrs/zustand) - 承担 React 中状态管理的必需品
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - React 的素食友好状态
 - [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且速度极快的状态管理
 - [effector](https://github.com/zerobias/effector) - 快速而强大的反应状态管理器
 - [reactn](https://github.com/CharlesStover/reactn) - React，但具有内置的全局状态管理
-- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - 基于可观察的状态管理，用于在 React 中构建的高性能游戏 UI
+- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
 ##### React AR and VR
 
@@ -418,7 +419,7 @@
 
 ##### Charts
 
-- [vx](https://github.com/airbnb/visx) - Visualization components
+- [vx](https://github.com/airbnb/visx) - 可视化组件
 - [victory](https://github.com/FormidableLabs/victory) - 一组可组合的 React 组件，用于构建交互式数据可视化
 - [react-vis](https://github.com/uber/react-vis) - 数据可视化组件
 - [recharts](https://github.com/recharts/recharts) - 重新定义了用 React 和 D3 构建的图表库
