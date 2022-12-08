@@ -5,7 +5,7 @@
 
 &gt; 精选的代码和内容列表 [Move](https://github.com/move-language/move) 编程语言社区.
 
- Move 是一种用于编写安全智能合约的编程语言，最初由 Facebook 开发，用于为 Libra 区块链提供支持.  Move 旨在成为一种与平台无关的语言，以支持跨具有截然不同的数据和执行模型的不同区块链的通用库、工具和开发人员社区.  Move 的野心是成为无处不在的“web3 的 JavaScript”——当开发者想要快速编写涉及资产的安全代码时，应该用 Move 编写.
+ Move 是一种用于编写安全智能合约的编程语言，最初由 Facebook 开发，用于为 Libra 区块链提供支持.  Move 旨在成为一种与平台无关的语言，以支持跨具有截然不同的数据和执行模型的不同区块链的通用库、工具和开发人员社区.  Move 的野心是成为无所不在的“web3 的 JavaScript”——当开发者想要快速编写涉及资产的安全代码时，应该用 Move 编写.
 
 
 
@@ -19,7 +19,7 @@
 - [Sui](https://github.com/MystenLabs/sui) - 具有高吞吐量、低延迟和由 Move 编程语言支持的面向资产的编程模型的下一代智能合约平台（在 [devnet](https://medium.com/mysten-labs/sui-devnet-public-release-a2be304ff36b)).
 - [0L](https://github.com/OLSF/libra)  - 中立复制状态机的参考实现. 从 Libra/Diem 技术中分叉出来（在 [mainnet](https://0l.network/)).
 - [Starcoin](https://github.com/starcoinorg/starcoin) - 通过分层扩展的智能合约区块链网络（在 [mainnet](https://stcscan.io/)).
-- [Aptos](https://github.com/aptos-labs/aptos-core) - Aptos-core 致力于成为最安全和最具可扩展性的第一层区块链解决方案（在 [testnet](https://aptos.dev/)).
+- [Aptos](https://github.com/aptos-labs/aptos-core) - Aptos-core 致力于成为最安全和最具可扩展性的第一层区块链解决方案（在 [mainnet](https://explorer.aptoslabs.com/?network=mainnet)).
 - [Pontem](https://github.com/pontem-network/pontem) - 基于 Substrate 的平行链，带有板载 MoveVM（在 [testnet](https://polkadot.js.org/apps/?rpc=wss://testnet.pontem.network/ws#/explorer)).
 - [Celo](https://github.com/celo-org/celo-blockchain) - 带有 EVM 和 MoveVM 的区块链 ([coming soon](https://www.businesswire.com/news/home/20210921006104/en/Celo-Sets-Sights-On-Becoming-Fastest-EVM-Chain-Through-Collaboration-With-Mysten-Labs)).
 - [Diem](https://github.com/diem/diem) - 来自 Meta 的基于 Move 的原始区块链（形成.Facebook 的 Libra）（已停产）.
@@ -62,7 +62,7 @@
 - [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move)  - 为 AMM+DEX 生态系统提供动力的 Starswap dApp 的治理代币. 部署在星币上.
 - [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XUSDT.move) - 星币上USDT的映射资产.
 - [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XETH.move) - 星币上 ETH 的映射资产.
-- [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - Deployed on Starcoin.
+- [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - 部署在星币上.
 - [FAI stablecoin](https://github.com/BFlyFinance/FAI) - 部署在 Starcoin 上的超额抵押稳定币.
 - [FLY stablecoin](https://github.com/BFlyFinance/FLY) - 部署在 Starcoin 上的分叉 OHM 的实现.
 - [Synthetic token backed by a basket containing a reserve of other tokens](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/XDX.move) - 来自吴庭艳.
@@ -83,6 +83,7 @@
 
 ### Decentralized Identity
 - [aptos-cid](https://github.com/coming-chat/aptos-cid) - 在 Aptos 上的去中心化身份，Aptos 是 ComingChat 的基础账户系统.
+- [MoveDID](https://github.com/NonceGeek/MoveDID)  - MoveDID 是一种 DID 协议，兼容基于 Move 的区块链网络，包括 Aptos、Sui 和 Starcoin. 维护者 [NonceGeek](https://github.com/NonceGeek).
 
 
 ### DeFi
@@ -95,8 +96,9 @@
 - [SuiRedPacket](https://github.com/coming-chat/sui-red-packet) - 一款集私聊和加密钱包于一身的红包社交APP.
 - [AptosAMMswap](https://github.com/OmniBTC/Aptos-AMM-swap) - 由 OmniBTC 团队实施的 Aptos AMM Swap.
 - [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) - 由 OmniBTC 团队实施的 Sui AMM Swap.
-- [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - 基于跨链互通协议虫洞，aptos与EVM链（如ETH/BSC/AVAX等）一键切换.
+- [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
 - [DolaProtocol](https://github.com/OmniBTC/DolaProtocol) - 以各公链单一币池为核心，Wormhole、Layerzero等跨链消息协议为桥梁，Sui公链为结算中心的去中心化全链流动性聚合协议.
+- [ObjectMarket](https://github.com/coming-chat/object-market) - Sui 网络中独特的对象交易市场.
 
 ### SocialFi
 - [Dmens](https://github.com/coming-chat/Dmens) - Decentralized Moments 是建立在 Sui 网络上的区块链 Twitter 协议.

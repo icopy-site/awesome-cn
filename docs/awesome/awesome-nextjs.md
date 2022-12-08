@@ -111,7 +111,7 @@
 * [Next UserAgent](https://github.com/tokuda109/next-useragent) - Next.js 的 UserAgent 解析器
 * [Next Cookie](https://github.com/tokuda109/next-cookie) - Next.js 的 Cookie 序列化器和反序列化器库.
 * [Nextein](https://github.com/elmasse/nextein) - 基于 Next.js 的静态站点生成器.
-* [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松将博客添加到任何基于 next.js 的项目
+* [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 * [next-i18next](https://github.com/isaachinman/next-i18next) - 翻译 NextJs 应用程序的最简单方法.
 * [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - 一个 NextJS 路由中间件
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
@@ -130,7 +130,7 @@
 * [Destack for Next.js](https://github.com/liveduo/destack) - Next.js 扩展以可视化方式在本地构建登陆页面.
 
 ## Apps
-* [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+* [CourseLit](https://github.com/codelit/courselit) - Thinkific、Teachable 等的开源替代品.
 * [Feednext](https://github.com/feednext/feednext) - 一个开源社交媒体应用程序.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - 展示《权力的游戏》角色的简单 Next.js 应用程序.
 * [Relate](https://github.com/RelateNow/relate) - 正念社区 - React、GraphQL、Next.js.
@@ -166,9 +166,10 @@
 * [Slow TV Map](https://slowtvmap.com)  - 一种发现轻松虚拟体验的有趣方式.  Next.js + Chakra UI + MySQL 托管在 Vercel 上.
 
 ## Books
-* [Hands On Next.js](https://www.honext.io/) - 一本关于 React 应用程序通用（服务器）渲染的实用全栈书.
+* [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - 一本关于 React 应用程序通用（服务器）渲染的实用全栈书.
 * [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - 使用 Next.js 创建、构建和部署通用 JavaScript 应用程序
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - 构建一个前端 React 应用程序，为您透明地处理服务器端渲染.
+* [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - 使用 Next.js 无服务器功能访问数据库并在您的 React 应用程序中对用户进行身份验证
 
 ## Videos
 
