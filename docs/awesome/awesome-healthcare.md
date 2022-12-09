@@ -56,7 +56,7 @@
   * [dcm4che](https://www.dcm4che.org/) - 临床图像和对象管理.
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle 是一个可扩展的、独立于平台的开源 PACS
   * [Drishti](https://github.com/nci/drishti/wiki) - 为科学家和外行人提供断层扫描和电子显微镜数据可视化工具.
-  * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - 具有 DICOMweb/WADO 服务的 RESTful 实现的独立 DICOMweb 服务器.
+  * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - DICOMweb 标准的 OSS 实施.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - 基于 JavaScript/HTML5 的 DICOM 查看器，带有标准工具并专注于支持各种屏幕尺寸.
   * [Fiji](https://imagej.net/software/fiji/) - 用于生物图像分析的开源平台.
@@ -70,8 +70,11 @@
   * [OHIF](https://github.com/OHIF/Viewers) - OHIF 零足迹 DICOM 查看器和肿瘤学特定病变追踪器.
   * [Omero](https://github.com/ome/openmicroscopy) - 用 Ja​​va 编写的开源客户端/服务器系统，用于可视化、管理和注释显微镜图像和元数据
   * [OpenREM](https://openrem.org/) - 物理学家的辐射暴露监测.
+  * [OpenSlide](https://github.com/openslide/openslide) - 是一个用于读取整个幻灯片图像文件的 C 库.
   * [Orthanc](https://www.orthanc-server.com) - 用于医疗保健和医学研究的轻量级 DICOM 服务器.
   * [Papaya](https://github.com/rii-mango/Papaya) - 纯 JavaScript 医学研究图像查看器.
+  * [Slim](https://github.com/herrmannlab/slim) - 用于计算病理学的可互操作网络查看器和注释工具.
+  * [Viv](https://github.com/hms-dbmi/viv) - 网络上高分辨率多路复用生物成像数据的多尺度可视化.
   * [VTK](https://vtk.org) - 支持各种算法和建模技术的 3 维可视化工具包.
 
 ### Dental
@@ -136,7 +139,7 @@
   * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) - 儿科生长图表.
 
 ### PHR
-  * [Tidepool](https://github.com/tidepool-org) - Data platform to reduce the burden of Type 1 Diabetes.
+  * [Tidepool](https://github.com/tidepool-org) - 减轻 1 型糖尿病负担的数据平台.
   * [HealthLocker](https://github.com/healthlocker/healthlocker) - 基于长生不老药的个人健康记录.
 
 ### Research
@@ -159,14 +162,14 @@
 
 ### Bioinformatics
   * [ADAM](https://github.com/bigdatagenomics/adam) - 基因组学分析平台.
-  * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - 经过验证、可扩展、社区开发的变体调用、RNA-seq 和小 RNA 分析.
+  * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - 用于数据密集型生物医学研究的开放式网络平台.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - 带有可选位置特异性评分矩阵的氨基酸基序搜索软件.
 
 ### Data
   * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) 统一的报表库.
   * [Caisis](http://www.caisis.org/) - 带有患者数据管理系统的肿瘤学研究软件.
-  * [Cedar](https://projectcedar.org/) - 用于测试电子临床质量测量强度的开源工具.
+  * [Cedar](https://github.com/mitre/cedar) - 用于测试电子临床质量测量强度的开源工具.
   * [cTAKES](https://ctakes.apache.org/) - 用于从电子病历临床自由文本中提取信息的自然语言处理系统.
   * [IHRIS](https://www.ihris.org/toolkit-new/) - 用于卫生人力资源管理的卫生信息系统.
   * [Inferno](https://github.com/onc-healthit/inferno) - 测试患者是否可以通过标准接口访问其健康数据的开源工具.
