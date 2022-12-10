@@ -162,7 +162,7 @@ Neovim 支持多种 UI.
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - 用 Lua 编写的片段引擎.
 - [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Convert snippets between the most common snippet formats and modify them using a few lines of Lua code.
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - 用 Lua 编写的代码片段插件，支持 [vim-snippets](https://github.com/honza/vim-snippets).
-- [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - 直接从 Neovim 创建漂亮的代码片段.
+- [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
 ### Register
 
@@ -266,7 +266,7 @@ Neovim 支持多种 UI.
 - [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - 受 spacemacs 启发的深色和浅色配色方案.
 - [yonlu/omni.vim](https://github.com/yonlu/omni.vim) - Vim 的 Omni 配色方案.
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 支持 Tree-sitter 和 LSP 的 24 位深色主题.
-- [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight_blue, darksolar.
+- [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - 现代 Neovim 配色方案的集合：材料、月光、德古拉（血）、莫诺凯、马里亚纳、祖母绿、早夏、午夜蓝、暗太阳.
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - 用 Lua 编写的 Monokai 主题.
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - 旨在感觉像 Sublime Text 的 Monokai 主题.
 - [savq/melange](https://github.com/savq/melange) - 深色配色方案和 Vim️.
@@ -403,7 +403,7 @@ Neovim 支持多种 UI.
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - 用于从剪贴板粘贴图像的 Neovim Lua 插件.
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - 来自 Neovim 的远程控制 Reaper DAW.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
@@ -430,6 +430,7 @@ Neovim 支持多种 UI.
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - 黑曜石插件，用 Lua 编写.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - 从您最喜欢的编辑器中管理您的书目.
 - [ostralyan/scribe.nvim](https://github.com/ostralyan/scribe.nvim) - 轻松做笔记.
+- [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - 树木的力量触手可及.
 
 ### Utility
 
@@ -597,7 +598,7 @@ Neovim 支持多种 UI.
 ### Keybinding
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的 `:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的 `:map` 命令系列. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.

@@ -27,7 +27,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## Official
 
 - [Algorand](https://www.algorand.com/) - 官方网站.
-- [Algorand Foundation](https://algorand.foundation/) - 基金会官方网站.
+- [Algorand Foundation](https://algorand.foundation/) - Official website of the Foundation.
 - [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
 - [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
 - [Algorand Developer Portal](https://developer.algorand.com/) - 官方 Algorand 开发者门户.
@@ -49,7 +49,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
 
 ## Portfolio Trackers
 
@@ -62,7 +62,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -178,7 +178,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### Smart Contracts
 
-- [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
+- [reach](https://docs.reach.sh) - 一种用于构建跨链去中心化应用程序 (DApps) 的特定领域语言.
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 一种用于编译为 TEAL 代码的 Algorand 区块链的富有表现力的高级语言.
 - [algoml](https://github.com/petitnau/algoml) - 一种用于指定 Algorand 智能合约的特定领域语言，可编译成 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
@@ -226,6 +226,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Dahai](https://www.dahai.uk/) - NFT 艺术画廊和市场.
 - [Aorist](https://aorist.art/) - NFT 艺术画廊和市场.
 - [ZestBloom](https://zestbloom.com/) - 数字媒体 NFT 市场，提供宣传艺术家贡献的方式.
+- [ASA cafe](https://asa.cafe/) - Algorand 标准资产平台和去中心化市场由 [@CryptoRUSHGav](https://github.com/CryptoRUSHGav) .  ASA cafe 允许用户使用最现代的标准（例如 ARC-19）在 Algo、USDC 或 ASA cafe 不断扩大的精选非网络代币列表中自由铸造和交易.
 
 ## DeFi Platforms
 

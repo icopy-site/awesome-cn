@@ -264,7 +264,7 @@
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)].
 
-* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
+* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
 
 * [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250) - ***麻省理工学院博士论文***，2018 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=) ]. 绑架在异常检测中的应用.
 
@@ -358,7 +358,7 @@
 
 * [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***统计科学***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
-* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
+* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
 
@@ -1071,7 +1071,7 @@
 
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***科学***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5) ]. 对科学的科学进行全面的大规模审查.
 
-* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
 
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
 
@@ -1288,6 +1288,8 @@
 * [Limits on Simulation Approaches in Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S0010028521000190) - ***认知心理学***，2021 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6329029167380621767) ].  Ernest Davis反对直觉物理学的观点，认为物理推理是逻辑推理而不是直觉.
 
 * [Partial Mental Simulation Explains Fallacies in Physical Reasoning](https://psyarxiv.com/y4a8x/download?format=pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15541954459060383152&hl=en&as_sdt=2005)]. 
+
+* [PHYRE: A New Benchmark for Physical Reasoning](https://proceedings.neurips.cc/paper/2019/hash/4191ef5f6c1576762869ac49281130c9-Abstract.html) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9555658528231205655&hl=en&as_sdt=0,5) ].  AI 物理推理的基准.
 
 
 #### AI Commonsense Reasoning

@@ -52,7 +52,7 @@
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助地方官员、社区领袖和企业了解他们社区正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松浏览和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松浏览和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可以轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及从 1790 年到现在的所有级别的 GIS 兼容边界文件美国人口普查地理，包括州、县、地区和街区.
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop) - 这一全球人口层基于遥感土地覆盖分类和欧盟提供的全国人口普查. 
 
@@ -99,7 +99,7 @@
 ### Historic Preservation
 
 - [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家史迹名录是国家值得保护的历史名胜的官方名单.
-- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产是联合国教科文组织世界遗产委员会维护的财产清单上的一个地点，被称为世界遗产名录“它认为具有突出的普遍价值”.
+- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产地是联合国教科文组织世界遗产委员会维护的财产清单上的一个地点，被称为世界遗产名录“它认为具有突出的普遍价值”.
 
 ### Land Use and Land Cover
 
@@ -241,6 +241,7 @@ Python 库和相关资源.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务可以交互运行并使用脚本. 该库支持在 ArcGIS 平台中轻松使用 pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
+- [Peartree](https://github.com/kuanb/peartree) - Peartree 帮助探索 GTFS 数据及其网络特征. 
 - [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个用于构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息：许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据的地理空间和时间邻域分析.
@@ -250,7 +251,7 @@ Python 库和相关资源.
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一小组 Python 函数，用于从 OpenStreetMap 数据绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 一个为 HERE API 提供 Python 接口的库. 
 - [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
-- [PySAL](https://pysal.org) - Python 空间分析库是一组用于探索空间相关性和其他空间关系的算法.
+- [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 - [city-seer-api](https://cityseer.benchmarkurbanism.com/) - 基于行人规模网络的城市分析包：网络分析、城市形态、土地利用、可达性和统计聚合.
 - [Geemap](https://github.com/giswqs/geemap) - 用于与 Google Earth Engine、ipyleaflet 和 ipywidgets 进行交互式映射的 Python 包.
 - [Geoplot](https://residentmario.github.io/geoplot/)  - Geoplot 是一个高级 Python 地理空间绘图库. 它是对 cartopy 和 matplotlib 的扩展，使制图变得容易：就像用于地理空间的 seaborn 一样.
@@ -302,7 +303,7 @@ R 包及相关资源.
 - [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics)  - Planetizen 课程教授大数据处理、分析和可视化的基础知识. 需要每月订阅. 
 
 ## Platforms and Software Resources
-面向规划人员和对建筑环境感兴趣的人员的软件和平台. 
+Software and platforms for planners and those interested in the built environment. 
 
 ---
 ### Environmental and Climate Planning Tools and Platforms
@@ -430,7 +431,7 @@ Other types of planning data & technology resources. They are a good source of i
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
 
 ### Other Technology Resource Aggregators
-These are other aggregators that bring together different planning related tools, software, data, and related resources.
+这些是其他聚合器，汇集了不同的规划相关工具、软件、数据和相关资源.
 
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.
