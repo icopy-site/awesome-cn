@@ -154,6 +154,10 @@
 - [stdweb](https://github.com/koute/stdweb) - 为 Web API 提供 Rust 绑定，并允许 Rust 和 JavaScript 之间的高度互操作性.
 - [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) - 对使用 wasm-bindgen 的项目的 Tauri API 的原始绑定.
 
+### Frameworks
+
+- [stackable](https://github.com/futursolo/stackable) - Yew 的框架体验.
+
 ## Tooling
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - 你最喜欢的 Rust -&gt; WebAssembly 工作流工具.

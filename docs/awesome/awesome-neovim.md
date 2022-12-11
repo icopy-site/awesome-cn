@@ -601,7 +601,7 @@ Neovim 支持多种 UI.
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的 `:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的 `:map` 命令系列. 与 which-key.nvim 集成.
-- [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
+- [LionC/nest.nvim](https://github.com/LionC/nest.nvim) - Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) - 用于创建键绑定并用望远镜观察它们的 Lua 插件.
 - [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - 一个非常有趣的替代键盘映射，用于 workman 键盘布局，具有 Neovim 功能，如 LSP 支持，使用 Lua 构建和配置.
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - 以更有条理的方式创建和管理键绑定和命令，并通过 Telescope 快速搜索它们.
@@ -779,6 +779,7 @@ Neovim 支持多种 UI.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - 个人 Neovim 配置的启动点.
 - [cunderw/nvim](https://github.com/cunderw/nvim)  - Neovim 自定义配置，专注于 JS/TS、Go 和 Java 开发. 非常喜欢IDE.
 - [otavioschwanck/mood-nvim](https://github.com/otavioschwanck/mood-nvim) - 准备好使用 Ruby on Rails、JavaScript 和 Typescript 的配置.
+- [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) - 深受 VSCode 启发的全功能 IDE 层. 
 
 ## External
 

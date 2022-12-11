@@ -279,11 +279,11 @@
 
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***自然***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744&hl=en&as_sdt=0,5) ].  Zoubin Ghahramani 对贝叶斯机器学习的评论.
 
-* [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***行为与脑科学***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5) ].  Josh Tenenbaum 对贝叶斯泛化的评论.
+* [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***行为与脑科学***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian generalization.
 
-* [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NIPS&#39;98***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1) ]. 关于贝叶斯泛化的原始论文.
+* [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS&#39;98***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1) ]. 关于贝叶斯泛化的原始论文.
 
-* [Rules and Similarity in Concept Learning](https://cowles.yale.edu/sites/default/files/files/conf/2007/crp_tenenbaum2.pdf) - ***NIPS&#39;99***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417&hl=en&as_sdt=0,5) ]. 通过贝叶斯泛化统一基于规则和基于相似性的泛化.
+* [Rules and Similarity in Concept Learning](https://cowles.yale.edu/sites/default/files/files/conf/2007/crp_tenenbaum2.pdf) - ***NeurIPS&#39;99***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417&hl=en&as_sdt=0,5) ]. 通过贝叶斯泛化统一基于规则和基于相似性的泛化.
 
 * [Theory-based Bayesian models of inductive learning and reasoning](https://cocosci.princeton.edu/tom/papers/theoriestics.pdf) - ***认知科学趋势***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446&hl=en&as_sdt=0,5) ].  Josh Tenenbaum 对贝叶斯理论归纳的评论.
 
@@ -297,7 +297,7 @@
 
 * [The rational basis of representativeness](http://web.mit.edu/cocosci/archive/Papers/cogsci01_final.pdf) - ***CogSci&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=11464039134248091466&hl=en&as_sdt=0,5)].
 
-* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NIPS&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
+* [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NeurIPS&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
 
 * [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766&hl=en&as_sdt=0,5)].
 
@@ -312,7 +312,7 @@
 
 * [Object Perception as Bayesian Inference](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf) - ***心理学年度回顾***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1611451804975333652) ].  Alan Yuille 对贝叶斯对象感知的评论.
 
-* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774)]. Ying Nian Wu's review on three families of statistical modeling.
+* [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ].  Ying Nian Wu 对统计建模的三个家族的评论.
 
 * [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计说明.
 
@@ -320,7 +320,7 @@
 
 * [Cooperative Training of Descriptor and Generator Networks](https://ieeexplore.ieee.org/ielaam/34/8922815/8519332-aam.pdf) - ***关于模式分析和机器智能的 IEEE 汇刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=18202808849093155435&hl=en&as_sdt=0,5)].
 
-* [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9945264852135249894)]. [[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. [[Code](https://github.com/bpucla/latent-space-EBM-prior) ]. 关于潜在能量模型的里程碑论文.
+* [Learning Latent Space Energy-Based Prior Model](https://proceedings.neurips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9945264852135249894)]. [[Project](https://bpucla.github.io/latent-space-ebm-prior-project/)]. [[Code](https://github.com/bpucla/latent-space-EBM-prior) ]. 关于潜在能量模型的里程碑论文.
 
 * [Learning Energy-Based Models by Diffusion Recovery Likelihood](https://openreview.net/forum?id=v_1Soh8QUNc) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4399294843209736764)]. [[Code](https://github.com/ruiqigao/recovery_likelihood)].
 
@@ -334,7 +334,7 @@
 
 * [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***关于模式分析和机器智能的 IEEE 汇刊***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491&hl=en&as_sdt=0,5) ]. 通过生成建模进行图像分割的经典方法.
 
-* [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NIPS&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760&hl=en&as_sdt=0,5)].
+* [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760&hl=en&as_sdt=0,5)].
 
 * [A Tutorial on Energy-Based Learning](http://yann.lecun.com/exdb/publis/orig/lecun-06.pdf) - ***预测结构化数据，麻省理工学院出版社***，2006 年. [[All Versiosn](https://scholar.google.com/scholar?cluster=8819502341081664768&hl=en&as_sdt=0,5) ].  Yann LeCun 关于基于能量的学习的教程.
 
@@ -360,7 +360,7 @@
 
 * [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
 
-* [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
+* [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
 
 * [Learning Systems of Concepts with an Infinite Relational Model](https://www.aaai.org/Papers/AAAI/2006/AAAI06-061.pdf) - ***AAAI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3207350432755252565&hl=en&as_sdt=0,5)].
 
@@ -381,7 +381,7 @@
 
 * [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583&hl=en&as_sdt=0,5)]. 
 
-* [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NIPS&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705&hl=en&as_sdt=0,5) ]. 将贝叶斯优化应用于机器学习超参数选择的原始论文.
+* [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NeurIPS&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705&hl=en&as_sdt=0,5) ]. 将贝叶斯优化应用于机器学习超参数选择的原始论文.
 
 * [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - *** IEEE 论文集***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437&hl=en&as_sdt=0,5)].
 
@@ -396,7 +396,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -436,7 +436,7 @@
 
 * [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM 研究与开发杂志***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5) ].  Chaitin 关于算法信息论的原始论文.
 
-* [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
+* [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
 
 
 #### Dimensionality Reduction
@@ -536,7 +536,7 @@
 
 * [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) - ***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5) ]. 关于多代理强化学习中出现语言的原始论文.
 
-* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808&hl=en&as_sdt=0,5)].
+* [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808&hl=en&as_sdt=0,5)].
 
 * [Emergent communication through negotiation](https://arxiv.org/abs/1804.03980) - ***ICLR&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=8825869866742501521&hl=en&as_sdt=0,5)].
 
@@ -573,7 +573,7 @@
 
 * [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
 
-* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)].
+* [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893&hl=en&as_sdt=0,5)].
 
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236) - ***行为科学的当前观点***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)].
 
@@ -604,7 +604,7 @@
 
 #### Intrinsic Motivation
 
-* [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NIPS&#39;04***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5) ]. 对经典强化学习中内在奖励函数的全面回顾.
+* [Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2004/hash/4be5a36cbaca8ab9d2066debfe4e65c1-Abstract.html) - ***NeurIPS&#39;04***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=9736217847061704054&hl=en&as_sdt=0,5) ]. 对经典强化学习中内在奖励函数的全面回顾.
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***神经机器人学前沿***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
@@ -616,7 +616,7 @@
 
 * [Causal Curiosity: RL Agents Discovering Self-supervised Experiments for Causal Representation Learning](https://arxiv.org/abs/2010.03110) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4880520597219138666&hl=en&as_sdt=0,5)].
 
-* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NIPS&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5) ]. 关于赋权作为内在动机的原始论文.
+* [Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning](https://proceedings.neurips.cc/paper/2015/hash/e00406144c1e7e35240afed70f34166a-Abstract.html) - ***NeurIPS&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9262504233068870193&hl=en&as_sdt=0,5) ]. 关于赋权作为内在动机的原始论文.
 
 * [Intrinsic Exploration as Empowerment in a Richly Structured Online Game](https://psyarxiv.com/ybs7g/) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12321757821600526668)].
 
@@ -638,7 +638,7 @@
 
 * [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf) ].  Sergey Levine 关于概率处理强化学习的教程.
 
-* [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765&hl=en&as_sdt=0,5)].
+* [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765&hl=en&as_sdt=0,5)].
 
 * [Solving Compositional Reinforcement Learning Problems via Task Reduction](https://openreview.net/forum?id=9SS69KwomAM) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15628616147808752058&hl=en&as_sdt=0,5)].
 
@@ -648,7 +648,7 @@
 
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)].
 
-* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5) ]. 强化学习中泛化问题的正式处理.
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5) ]. 强化学习中泛化问题的正式处理.
 
 * [Learning to Perform Physics Experiments via Deep Reinforcement Learning](https://openreview.net/forum?id=r1nTpv9eg) - ***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=13142558595749186250&hl=en&as_sdt=0,5)].
 
@@ -656,7 +656,7 @@
 
 * [A Survey of Preference-Based Reinforcement Learning Methods](https://www.jmlr.org/papers/volume18/16-634/16-634.pdf) - ***机器学习研究杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=13278778479251450967&hl=en&as_sdt=0,5)].
 
-* [On the Expressivity of Markov Reward](https://papers.nips.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5) ]. 强化学习建模中任务和奖励的正式处理.
+* [On the Expressivity of Markov Reward](https://papers.NeurIPS.cc/paper/2021/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4524686816939437211&hl=en&as_sdt=0,5) ]. 强化学习建模中任务和奖励的正式处理.
 
 * [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5) ]. 关于约束强化学习（安全强化学习）的原始论文.
 
@@ -700,7 +700,7 @@
 
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***可视化实验杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
-* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***神经元***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
+* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
 
 * [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966&hl=en&as_sdt=0,5)].
 
@@ -711,7 +711,7 @@
 
 * [Symbolic data analysis: what is it?](https://link.springer.com/chapter/10.1007/978-3-7908-1709-6_20) - ***计算统计论文集***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=3730437602749399283&hl=en&as_sdt=0,5)].
 
-* [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6079567413300944995&hl=en&as_sdt=0,5) ]. 关于神经符号概率编程的原始论文.
+* [DeepProbLog: Neural Probabilistic Logic Programming](https://arxiv.org/abs/1805.10872) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6079567413300944995&hl=en&as_sdt=0,5) ]. 关于神经符号概率编程的原始论文.
 
 * [Learning Explanatory Rules from Noisy Data](https://www.jair.org/index.php/jair/article/view/11172) - ***人工智能研究杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=2553893814364678772&hl=en&as_sdt=0,5) ]. 差分归纳逻辑编程的原始论文.
 
@@ -719,13 +719,13 @@
 
 * [Neural Logic Reinforcement Learning](https://arxiv.org/pdf/1904.10729.pdf) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=18074632043038701502&hl=en&as_sdt=0,5)].
 
-* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288&hl=en&as_sdt=0,5)]. [[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. [[Code](https://github.com/AbductiveLearning/ABL-HED) ]. 关于 Abductive Learning 的原始论文，一种用于神经符号学习的无导数方法.
+* [Bridging Machine Learning and Logical Reasoning by Abductive Learning.](http://papers.NeurIPS.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1518342375288126288&hl=en&as_sdt=0,5)]. [[Slides](https://daiwz.net/org/slides/ABL-meetup.html#/slide-title)]. [[Code](https://github.com/AbductiveLearning/ABL-HED) ]. 关于 Abductive Learning 的原始论文，一种用于神经符号学习的无导数方法.
 
 * [Abductive learning: towards bridging machine learning and logical reasoning](https://link.springer.com/article/10.1007/s11432-018-9801-4) - ***中国科学信息科学***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=8541635351775190855&hl=en&as_sdt=0,5)].
 
 * [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7027142960863064076&hl=en&as_sdt=0,5)].
 
-* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7361406080192630148&hl=en&as_sdt=0,5)].
+* [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7361406080192630148&hl=en&as_sdt=0,5)].
 
 * [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855) - ***人工智能***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11875529139573472578&hl=en&as_sdt=0,5)].
 
@@ -742,31 +742,31 @@
 * [Hybrid computing using a neural network with dynamic external memory](http://clgiles.ist.psu.edu/IST597/materials/slides/papers-memory/2016-graves.pdf) - ***自然***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=8100274942961380405&hl=en&as_sdt=0,5)].
 
 
-* [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=12691103404451941071&hl=en&as_sdt=0,5)].
+* [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.NeurIPS.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=12691103404451941071&hl=en&as_sdt=0,5)].
 
 * [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13160160974887139307&hl=en&as_sdt=0,5)].
 
-* [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=937882599430270789&hl=en&as_sdt=0,5)].
+* [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=937882599430270789&hl=en&as_sdt=0,5)].
 
 * [An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=37732747764322837&hl=en&as_sdt=0,5)].
 
 * [Neural Production Systems](https://arxiv.org/pdf/2103.01937.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15299280949648915581&hl=en&as_sdt=0,5) ].  Yoshua Bengio 将槽注意力模型视为通用生产系统的观点.
 
-* [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15612498612943317331&hl=en&as_sdt=0,5)].
+* [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15612498612943317331&hl=en&as_sdt=0,5)].
 
 * [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=10619362619006891050&hl=en&as_sdt=0,5)].
 
 * [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://openreview.net/forum?id=BkxUvnEYDH)].
 
-* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=3160670555314650508&hl=en&as_sdt=0,5)].
+* [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=3160670555314650508&hl=en&as_sdt=0,5)].
 
-* [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9452091824686227240&hl=en&as_sdt=0,5)].
+* [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9452091824686227240&hl=en&as_sdt=0,5)].
 
 * [Neural Logic Machines](https://arxiv.org/pdf/1904.11694.pdf) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4525183211642569463&hl=en&as_sdt=0,5)].
 
 * [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf) - ***ICLR&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=8837128214653317831&hl=en&as_sdt=0,5)].
 
-* [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1888051343232298875&hl=en&as_sdt=0,5)].
+* [Visual Concept-Metaconcept Learning](https://papers.NeurIPS.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=1888051343232298875&hl=en&as_sdt=0,5)].
 
 * [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=16735976343684307244&hl=en&as_sdt=0,5)].
 
@@ -794,7 +794,7 @@
 
 * [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007&hl=en&as_sdt=0,5)]. [[Project](https://github.com/LAMDA-NJU/Deep-Forest)].
 
-* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819&hl=en&as_sdt=0,5)]. [[code](https://github.com/alvinwan/neural-backed-decision-trees) ]. 通过神经网络显式决策树的决策过程.
+* [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819&hl=en&as_sdt=0,5)]. [[code](https://github.com/alvinwan/neural-backed-decision-trees) ]. 通过神经网络显式决策树的决策过程.
 
 
 #### Explainable Deep Learning
@@ -806,14 +806,14 @@
 
 * [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/) - ***提炼***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9053581372570691569&hl=en&as_sdt=0,5) ]. 将神经网络视为电路的观点.
 
-* [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738&hl=en&as_sdt=0,5)]. [[Project](https://github.com/jayelm/compexp) ]. 网络解剖的概念组合版本.
+* [Compositional Explanations of Neurons](https://proceedings.neurips.cc/paper/2020/hash/c74956ffb38ba48ed6ce977af6727275-Abstract.html) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15725346730266402738&hl=en&as_sdt=0,5)]. [[Project](https://github.com/jayelm/compexp) ]. 网络解剖的概念组合版本.
 
-* [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719&hl=en&as_sdt=0,5)].
+* [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.NeurIPS.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719&hl=en&as_sdt=0,5)].
 
 
 * [Noise or Signal: The Role of Backgrounds in Image Classification](https://arxiv.org/pdf/2006.09994.pdf) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=14729938011425134088&hl=en&as_sdt=0,5)]. [[Project](https://gradientscience.org/background/) ]. 图像背景的透视为前景分类提供了强有力的线索.
 
-* [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5) ]. 在不同的神经网络中处理神经元的学习模式.
+* [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation](https://proceedings.neurips.cc/paper/2018/hash/5fc34ed307aac159a30d81181c99847e-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=401428033641216502&hl=en&as_sdt=0,5) ]. 在不同的神经网络中处理神经元的学习模式.
 
 
 
@@ -973,7 +973,7 @@
 
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878) ].  Chelsea Finn 关于模型无关元学习 (MAML) 的原始论文.
 
-* [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
+* [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 
 * [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5) ]. 关于上下文元强化学习的里程碑论文.
 
@@ -983,7 +983,7 @@
 
 * [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730&hl=en&as_sdt=0,5)].
 
-* [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
+* [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105&hl=en&as_sdt=0,5)].
 
 
 #### Marr's Levels of Analysis
@@ -1176,7 +1176,7 @@
 * [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y) - ***科学***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925&hl=en&as_sdt=0,5) ]. 儿童在 ToM 上的能力的一个证据.
 
 
-* [Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others](https://static1.squarespace.com/static/595a9f155016e1f7ead6edf1/t/61eeb3e7bbc41a23cd288f8a/1643033708945/Gandhi_etal_2021.pdf) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16514364601966350574)]. 
+* [Baby Intuitions Benchmark (BIB): Discerning the goals, preferences, and actions of others](https://static1.squarespace.com/static/595a9f155016e1f7ead6edf1/t/61eeb3e7bbc41a23cd288f8a/1643033708945/Gandhi_etal_2021.pdf) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16514364601966350574)]. 
 
 * [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142&hl=en&as_sdt=0,5) ]. 一个关于人类在社交媒体上有意发布的图像的大型数据库.
 
@@ -1200,7 +1200,7 @@
 
 * [Structure mapping in analogy and similarity](https://cogsci.ucsd.edu/~coulson/203/gentner-markman-97.pdf) - ***美国心理学家***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=3497411606978611830&hl=en&as_sdt=0,5) ]. 一个统一类比和相似判断的视角.
 
-* [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***Psychological Review***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5) ]. 将类比视为跨域泛化的视角综合评述.
+* [A theory of relation learning and cross-domain generalization](https://psycnet.apa.org/record/2022-26663-001) - ***心理评论***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8559821723107269122&hl=en&as_sdt=0,5) ]. 将类比视为跨域泛化的视角综合评述.
 
 
 * [Analogies Explained: Towards Understanding Word Embeddings](https://proceedings.mlr.press/v97/allen19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15445529659618849253&hl=en&as_sdt=0,5) ]. 解释词嵌入中的类比能力.
@@ -1211,7 +1211,7 @@
 
 * [Analogy-preserving Semantic Embedding for Visual Object Categorization](http://proceedings.mlr.press/v28/juhwang13.pdf) - ***ICML'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=9332855910734484101&hl=en&as_sdt=0,5) ]. 类比在机器学习中的首次应用.
 
-* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NIPS&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654&hl=en&as_sdt=0,5)].
+* [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NeurIPS&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654&hl=en&as_sdt=0,5)].
 
 * [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16686853801653819556&hl=en&as_sdt=0,5)].
 
@@ -1289,7 +1289,7 @@
 
 * [Partial Mental Simulation Explains Fallacies in Physical Reasoning](https://psyarxiv.com/y4a8x/download?format=pdf) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15541954459060383152&hl=en&as_sdt=2005)]. 
 
-* [PHYRE: A New Benchmark for Physical Reasoning](https://proceedings.neurips.cc/paper/2019/hash/4191ef5f6c1576762869ac49281130c9-Abstract.html) - ***NIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9555658528231205655&hl=en&as_sdt=0,5) ].  AI 物理推理的基准.
+* [PHYRE: A New Benchmark for Physical Reasoning](https://proceedings.neurips.cc/paper/2019/hash/4191ef5f6c1576762869ac49281130c9-Abstract.html) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9555658528231205655&hl=en&as_sdt=0,5) ].  AI 物理推理的基准.
 
 
 #### AI Commonsense Reasoning
@@ -1404,7 +1404,7 @@
 
 * [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833&hl=en&as_sdt=0,5)].
 
-* [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NIPS&#39;21 AIPLANS 研讨会***，2021 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State&btnG=)].
+* [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NeurIPS&#39;21 AIPLANS 研讨会***，2021 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State&btnG=)].
 
 * [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***自然通讯***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159&hl=en&as_sdt=0,5)].
 
@@ -1496,7 +1496,7 @@
 
 * [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338) - ***人工智能***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=10854895617698839149&hl=en&as_sdt=0,5)].
 
-* [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NIPS_2013.pdf) - ***NIPS&#39;13***，2013 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4354984630817844670)].
+* [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS&#39;13***，2013 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4354984630817844670)].
 
 * [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)].
 
@@ -1586,7 +1586,7 @@
 
 * [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=2640432662088551010&hl=en&as_sdt=0,5)].
 
-* [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576&hl=en&as_sdt=0,5)]. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
+* [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576&hl=en&as_sdt=0,5)]. [[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
 
 
 * [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993&hl=en&as_sdt=0,5)].
@@ -1609,7 +1609,7 @@
 
 * [Symmetry and Group in Attribute-Object Compositions](https://ieeexplore.ieee.org/document/9156505) - ***CVPR'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16870815556752021056&hl=en&as_sdt=0,5)].
 
-* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2543173389101020482&hl=en&as_sdt=0,5)].
+* [A causal view of compositional zero-shot recognition](https://proceedings.neurips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2543173389101020482&hl=en&as_sdt=0,5)].
 
 * [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509&hl=en&as_sdt=0,5)].
 
@@ -1628,11 +1628,11 @@
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***工程***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161&hl=en&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
 
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
 
 * [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338&hl=en&as_sdt=0,5)].
 
-* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917&hl=en&as_sdt=0,5)].
+* [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917&hl=en&as_sdt=0,5)].
 
 * [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390&hl=en&as_sdt=0,5)].
 
@@ -1649,14 +1649,14 @@
 * [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624&hl=en&as_sdt=0,5) ]. 关于从视频中发现潜在状态的原始论文.
 
 
-* [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801&hl=en&as_sdt=0,5)].
+* [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801&hl=en&as_sdt=0,5)].
 
-* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS&#39;13***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729&hl=en&as_sdt=0,5)].
+* [Distributed Representations of Words and Phrases and their Compositionality](https://papers.NeurIPS.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NeurIPS&#39;13***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729&hl=en&as_sdt=0,5)].
 
 * [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197172) - ***ICRA&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210&hl=en&as_sdt=0,5)].
 
 
-* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255&hl=en&as_sdt=0,5)].
+* [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255&hl=en&as_sdt=0,5)].
 
 
 
@@ -1677,14 +1677,14 @@
 
 #### Dataset Aggregation
   * [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://link.springer.com/chapter/10.1007%2F978-3-030-01249-6_44) - ***ECCV'18***, 2018. [[Project](https://github.com/google/cog)].
-  * [PHYRE: A New Benchmark for Physical Reasoning](https://research.fb.com/wp-content/uploads/2019/08/PHYRE-A-New-Benchmark-for-Physical-Reasoning-v4.pdf) - ***NIPS&#39;19***，2019 年.
+  * [PHYRE: A New Benchmark for Physical Reasoning](https://research.fb.com/wp-content/uploads/2019/08/PHYRE-A-New-Benchmark-for-Physical-Reasoning-v4.pdf) - ***NeurIPS&#39;19***，2019 年.
   * [CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning](https://openreview.net/forum?id=HJgzt2VKPB) - ***ICLR&#39;20***，2020 年. [[Project](https://rohitgirdhar.github.io/CATER/)].
   * [CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning](https://arxiv.org/abs/2010.04296), 2020.
 
 #### Embodied AI Environment
   * [ThreeDWorld](http://www.threedworld.org/) - ***与 IBM ***. [[Paper](https://arxiv.org/abs/2007.04954)].
   * [Rearrangement: A Challenge for Embodied AI](https://arxiv.org/pdf/2011.01975.pdf), 2020.
-  * [iGibson](http://svl.stanford.edu/igibson/) - ***斯坦福***. [[Paper](https://ieeexplore.ieee.org/document/8954627)].
+  * [iGibson](http://svl.stanford.edu/igibson/) - ***Stanford***. [[Paper](https://ieeexplore.ieee.org/document/8954627)].
   * [AI2-THOR](https://ai2thor.allenai.org/ithor) - ***艾伦研究所***. [[Paper](https://arxiv.org/abs/1712.05474)].
   * [Robo-THOR](https://ai2thor.allenai.org/robothor) - ***艾伦研究所***. [[Paper](https://arxiv.org/abs/2004.06799)].
   * [Manipula-THOR](https://ai2thor.allenai.org/manipulathor) - ***艾伦研究所***. [[Paper](https://arxiv.org/abs/2104.11213)].
@@ -1763,24 +1763,24 @@
 
 * [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***和***， [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
 
-* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
 
 
 ### Stanford
 
-* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***计算机科学系，以人为中心的人工智能研究所，斯坦福***， [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***斯坦福***.
+* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***计算机科学系，以人为中心的人工智能研究所，斯坦福***， [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
 
-* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***Stanford***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***斯坦福大学计算机科学系心理学系***.
+* [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***斯坦福大学***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***斯坦福大学计算机科学系心理学系***.
 
-* [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***Stanford***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***斯坦福大学心理学系***.
+* [Michael Frank](https://web.stanford.edu/~mcfrank/) - ***斯坦福大学***, [The Stanford Language and Cognition Lab](http://langcog.stanford.edu/) - ***斯坦福大学心理学系***.
 
-* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***Stanford***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***斯坦福大学心理学系***.
+* [Tobias Gerstenberg](https://cicl.stanford.edu/member/tobias_gerstenberg/) - ***斯坦福大学***, [Causality in Cognition Lab (CICL)](https://cicl.stanford.edu/) - ***斯坦福大学心理学系***.
 
-* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***Stanford***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福大学***.
+* [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***斯坦福大学***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福大学***.
 
-* [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***传播系，斯坦福大学***， [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***斯坦福***.
+* [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***传播系，斯坦福大学***， [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
 
 * [Jiajun Wu](https://jiajunwu.com/) - ***计算机科学系，斯坦福大学***.
 

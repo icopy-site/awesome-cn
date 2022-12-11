@@ -96,7 +96,7 @@
 * [Concord](https://github.com/Tjakka5/Concord) - 功能齐全的 ECS 库.
 * [ecs-lua](https://github.com/nidorx/ecs-lua) - ECS Lua 是一种用于游戏开发的快速且易于使用的 ECS（实体组件系统）引擎.
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - 极简功能型 ECS.
-* [nata](https://github.com/tesselode/nata) - 混合 OOP/ECS 实体管理.
+* [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - 简单、灵活且有用的 Lua 实体组件系统.
 
 ## Helpers
@@ -118,7 +118,7 @@
 * [lume](https://github.com/rxi/lume/) - Lua 函数集合，面向游戏开发.
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于一次显示一个字符的文本对齐的库.
-* [roomy](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
+* [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
 * [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE/lua 端口.
 * [Scenery](https://github.com/paltze/scenery) - 一个非常简单的场景/状态管理系统.
 * [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE 框架的屏幕/状态管理.
@@ -132,6 +132,7 @@
 
 * [baton](https://github.com/tesselode/baton) - LÖVE 的输入库，弥合了键盘和游戏手柄控制之间的差距.
 * [input](https://github.com/xiejiangzhi/input)  - 简单而强大的输入库. 支持查看操作时间、顺序.
+* [Kazari](https://github.com/MikuAuahDark/Kazari) - 多点触控手势和输入库.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) - 对 LÖVE 的简单麦克风支持.
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) - 一个简单的输入处理库，可以为您跟踪事物.
 * [Swipe](https://github.com/zombrodo/swipe) - 一个简单的径向键盘库.
@@ -261,6 +262,7 @@
 * [Flux](https://github.com/rxi/flux) - 一个快速、轻量级的 Lua 补间库.
 * [hump.timer](https://hump.readthedocs.io/en/latest/timer.html) - 具有灵活补间方法的定时器和补间库.
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - 轻松创建定时器和补间.
+* [NAniTe](https://github.com/MikuAuahDark/NPad93/blob/master/nanite.lua) - 基于时间轴的动画系统，支持向前和向后更新.
 * [tick](https://github.com/rxi/tick) - 用于延迟函数调用的 Lua 模块.
 * [tween.lua](https://github.com/kikito/tween.lua) - 受 jQuery 动画方法启发的 Lua 补间/缓动/插值函数.
 
