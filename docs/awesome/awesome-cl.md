@@ -211,7 +211,7 @@ Tools
 无锁、并发、键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [麻省理工][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  - 数据结构和算法的可移植集合（主要是字典和序列，具有一些统计功能）.  [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  - 受 Haskell 的 Data.List 启发的列表操作库.  [LLGPL][8].
-* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便捷库
+* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便利库
 * [cl-containers](https://common-lisp.net/project/cl-containers/) - 一个广泛的数据结构和实用程序库 - 队列、树、堆、双向链表、集合、包……[MIT][200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  - 用于竞争性编程的 Common Lisp 算法集合. 公共领域、CCO 或 MIT.
 
@@ -228,7 +228,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -469,7 +469,7 @@ YAML
 * ⭐ [cl-interpol](https://github.com/edicl/cl-interpol/)  - 一组阅读器修改以允许字符串插值.  [BSD][15].
 * [mstrings](https://git.sr.ht/~shunter/mstrings)  - 阅读器宏，提供视觉上吸引人的多行块.  M 字符串修剪前导空格、将行连接在一起等 [BSD_3Clause][15].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)  - 受 Python 的三引号字符串启发的简单且不显眼的读表修改.  [BSD_3条款][15].
-* [cl-heredoc](https://github.com/outergod/cl-heredoc) - a ["heredocs"](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3][2]. Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`
+* [cl-heredoc](https://github.com/outergod/cl-heredoc) - 一个 ["heredocs"](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3][2]. Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`
 
 
 CLOS 扩展
@@ -495,7 +495,7 @@ CLOS 扩展
 功能扩展
 -------------------
 
-* [cl-hooks](https://github.com/scymtym/architecture.hooks/)  - 挂钩扩展点机制（众所周知，例如，来自 GNU Emacs）.  LGPL.
+* [cl-hooks](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
 * [method-hooks](https://gitlab.com/Gnuxie/method-hooks)  - 当 CLOS 方法组合只允许每个方法有一个挂钩时，该库允许任意数量的挂钩.  Mozilla 公共许可证.
 * [cl-advice](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md)  - SBCL、CCL、LispWorks 和 Allegro 的可移植层建议库的尝试. 不在 Quicklisp 中.
 * [nhooks](https://github.com/atlas-engineer/nhooks) - 具有重要改进的挂钩（扩展点）的增强实现.
@@ -528,7 +528,7 @@ Lambda 简写
 非确定性、逻辑编程
 ------------------------------------
 
-* [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  - 来自 Common Lisp 的 ISO Prolog 实现的通用接口.  [麻省理工][200].
+* [cl-prolog2](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT][200].
 * [Screamer](https://github.com/nikodemus/screamer) - 增加普通
   Lisp 几乎具有 Prolog 和
   约束逻辑规划
@@ -716,7 +716,7 @@ See [Cliki](http://www.cliki.net/Web) 更多.
 HTTP客户端
 ------------
 * [Dexador](https://github.com/fukamachi/dexador)  - 一个 HTTP 客户端，旨在取代 Drakma.  [麻省理工][200].
-* [Carrier](https://github.com/orthecreedence/carrier)  - 构建在 cl-async 和 fast-http 之上的轻量级异步 HTTP 客户端.  [麻省理工][200].
+* [Carrier](https://github.com/orthecreedence/carrier) - A lightweight, async HTTP client built on top of cl-async and fast-http. [MIT][200].
 * [fast-http](https://github.com/fukamachi/fast-http)  - Common Lisp 的快速 HTTP 请求/响应解析器.  [麻省理工][200].
 
 
@@ -763,7 +763,9 @@ HTTP 服务器
 
 * [Caveman](https://github.com/fukamachi/caveman)  - 一个强大的网络框架.  [LLGPL][8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
-* [ningle](https://github.com/fukamachi/ningle)  - 超微型网络框架.  [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，一个扩展的和新手友好的 ningle（主要是更容易处理查询参数）.  [麻省理工][200].
+* [ningle](https://github.com/fukamachi/ningle)  - 超微型网络框架.  [LLGPL][8].
+  - [jingle](https://github.com/dnaeon/cl-jingle) - 在ningle的基础上，增加了一些花里胡哨的东西，比如中间件.
+    - 包括 OpenAPI 和 Swagger UI 演示.
 * [radiance](https://github.com/Shirakumo/radiance)  - Web 应用程序环境和框架.  [zlib][33].
 
 以 REST 为中心的框架：
@@ -865,7 +867,7 @@ Monitoring
 ----------
 
 * [prometheus.cl](https://github.com/deadtrickster/prometheus.cl)  - Prometheus.io 客户端.  SBCL 和 Hunchentoot 指标（内存、线程、每秒请求数等）的 Grafana 仪表板.  [麻省理工][200].
-* [cl-sentry-client](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT][200].
+* [cl-sentry-client](https://github.com/mmontone/cl-sentry-client)  - 用于基于云的错误监控系统 Common Lisp 的哨兵客户端.  [麻省理工][200].
 * [rollbar.lisp](https://github.com/adventuring/rollbar.lisp) - 接口 [Rollbar.com](https://rollbar.com/)，一个错误跟踪软件.
 
 
@@ -892,7 +894,7 @@ Websockets
 
 ### Browser tests
 
-* [cl-webdriver-client](https://github.com/copyleft/cl-webdriver-client/) - a binding library to WebDriver (supports Selenium 4.0).
+* [cl-webdriver-client](https://github.com/copyleft/cl-webdriver-client/) - WebDriver 的绑定库（支持 Selenium 4.0）.
 
 ### Form handling
 
@@ -916,7 +918,7 @@ Websockets
 
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3条款][15]. 不在 Quicklisp 中.
   * 提供一个工作玩具网络应用程序，带有 Hunchentoot 网络服务器、简单路由、Djula 模板，使用 Bulma 设计样式，基于 SQLite，带有迁移、示例表定义和使用 FiveAM 的测试套件.
-* [make-like](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0][51].
+* [make-like](https://github.com/container-lisp/make-like)  - LIKE（Kubernetes + Emacs 中的 Lisp）应用程序的应用程序模板构建器.  [Apache2.0][51].
   * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的简易路由等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的网络应用样板. 使用 Hunchentoot、cl-who，可以轻松部署到 Heroku.  [麻省理工][200].
 
@@ -963,7 +965,7 @@ Others
 * [north](https://shinmera.github.io/north)  - South (Simple OaUTH) 库的继承者，在客户端和服务器端实现了完整的 oAuth 1.0a 协议. 使用 North，您可以轻松成为 oAuth 提供者或消费者.  [zlib][33].
 * [Ciao](https://github.com/kjinho/ciao)  - 一个易于使用的 Common Lisp OAuth 2.0 客户端库. 它是 Racket OAuth 2.0 客户端到 Common Lisp 的端口.  [LGPL3][9].
 * [avatar-api](https://github.com/eudoxia0/avatar-api)  - 从 Google+、Gravatar 等获取头像.  [外籍人士][14].
-* [chirp](https://github.com/Shinmera/chirp)  - 一个 Twitter 客户端库.  [zlib][33].
+* [chirp](https://github.com/Shinmera/chirp) - A Twitter client library. [zlib][33].
 * [tooter](https://github.com/Shinmera/tooter)  - 为 Mastodon 实现完整 v1 REST API 协议的客户端库.  [zlib][33].
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/)  - IRC 客户端库.  [外籍人士][14].
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)  - MediaWiki api 的包装器.  [麻省理工][200].
@@ -1059,7 +1061,7 @@ Utils
 * [memento-mori](https://github.com/zkat/memento-mori) - 一个用于编写健壮的、基于参与者的系统的库. 它从 Erlang/OTP 以及 Akka 中汲取灵感，尤其是其对高可用性系统的崩溃优先方法.  [麻省理工][200].
 
 
-事件处理
+Event processing
 ----------------
 
 * [simple-tasks](https://github.com/Shinmera/simple-tasks)  - 一个非常简单的任务调度框架.  [zlib][33].
@@ -1116,7 +1118,7 @@ Readline、ncurses 和其他图形助手
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   函数在输入时编辑行，维护列表
   以前输入的命令行，调用并重新编辑它们，
-  执行类似 csh 的历史扩展.  Emacs 和 vi 编辑
+  perform csh-like history expansion.  Emacs and vi editing
   模式.  [GPL3][2].
 * [Linedit](https://common-lisp.net/project/linedit) - 阅读风格
   提供可定制行编辑的库
@@ -1154,7 +1156,7 @@ Readline、ncurses 和其他图形助手
 其他脚本实用程序
 -------------------------
 
-* [WCL](https://github.com/wadehennessey/wcl) [stalled] - allow hundreds of Lisp
+* [WCL](https://github.com/wadehennessey/wcl) [停滞] - 允许数百个 Lisp
 应用程序可立即实际使用，同时允许
 其中几个同时运行.  WCL 通过
 提供 Common Lisp 作为 Unix 共享库，可以与
@@ -1305,7 +1307,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].
@@ -1525,7 +1527,7 @@ Plotting
 * [vgplot](https://github.com/volkers/vgplot) - 一个接口
   gnuplot 绘图实用程序，旨在类似于某些
    octave 或 matlab 的绘图命令.  [GPL3][2].
-* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - a
+* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
    lispy，无结构的 Gnuplot 库. 与其
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL][8]
 * [kai](https://github.com/komi1230/kai)  - 用于 Common Lisp 的高级绘图仪库. 一个包装器 [Plotly](https://plotly.com/javascript/)  JS库.  [麻省理工][200].

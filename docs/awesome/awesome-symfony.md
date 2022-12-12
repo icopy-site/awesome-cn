@@ -26,7 +26,6 @@
 * Facebook - 著名、庞大且活跃的 Facebook 群组：
     * [1](https://fb.com/groups/7672226565)
     * [2](https://fb.com/groups/symfony2.framework)
-* [Google+](https://plus.google.com/communities/109013871316146116610) - Google+ 上的大型活跃群组.
 * 互联网资源中心：
     * [#symfony](http://irc.lc/freenode/symfony) - Symfony 支持的官方 IRC 频道.
     * [#symfony-docs](http://irc.lc/freenode/symfony) - 讨论 Symfony 文档的频道.
@@ -65,7 +64,7 @@
 * [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - 使用随时可用的统计信息轻松监控您的 symfony2 生产环境.
 * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - 集成 TagDebug 库以检查和调试标签.
 * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - 显示 Twig 中的内容.
-* [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - 轻松开发定制的、用户友好的错误页面.
+* [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
 * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - 在网络分析器中添加路由、容器、资产和树枝信息.
 * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) -XHProf 包.
 
@@ -142,7 +141,7 @@
 * [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - 集成 PHP Highcharts.
 * [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier 是一个用 PHP 编写的符合标准的 HTML 过滤器库.
 * [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - 给 Symfony2 控制器一个带有注释的简单向导/工作流.
-* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop 允许您在 Symfony 应用程序中裁剪图像，这个包添加了一个新的表单域类型.
+* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop 允许您在 Symfony 应用程序中裁剪图像，这个包添加了一个新的表单字段类型.
 * [JMDUnoconvBundle](https://github.com/mops1k/JMDUnoconvBundle) - 提供通过 unoconv (LibreOffice) 通过 php-unoconv 库将文件从一种格式转换为另一种格式的门的捆绑包.
 * [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - 该包将 Essence 库（一个 oEmbed 库）集成到 Symfony 2 中.
 * [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - 这个包提供了一个简单的数据网格包.
@@ -166,7 +165,7 @@
 * [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - 狮身人面像搜索包.
 * [SettingsBundle](https://github.com/dmishh/SettingsBundle)  - 以数据库为中心的配置管理. 支持全局和每用户设置.
 * [shorturl-bundle](https://github.com/fabstei/shorturl-bundle) - 为您的项目提供短网址.
-* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - Symfony 2 bundle for simple tags management, based on doctrine 2 simple_array type.
+* [SimpleArrayBundle](https://github.com/EmanueleMinotto/SimpleArrayBundle) - 用于简单标签管理的 Symfony 2 包，基于 doctrine 2 simple_array 类型.
 * [sphinx-realtime-bundle](https://github.com/camdram/sphinx-realtime-bundle) - 自动将 Doctrine 实体同步到 Sphinx 实时索引的包.
 * [SphinxsearchBundle](https://github.com/IAkumaI/SphinxsearchBundle) - 提供使用 Sphinx 搜索.
 * [StringGeneratorBundle](https://github.com/vivait/StringGeneratorBundle) - 此捆绑包允许您在实体属性上自动生成唯一的随机字符串，这对创建密钥很有用.
@@ -234,7 +233,7 @@
 
 ## Storage
 
-* [AliceBundle](https://github.com/hautelook/AliceBundle) - A Symfony2 bundle to help load Doctrine Fixtures with Alice.
+* [AliceBundle](https://github.com/hautelook/AliceBundle) - 一个 Symfony2 包，以帮助与 Alice 一起加载 Doctrine Fixtures.
 * [AliceFixturesBundle](https://github.com/h4cc/AliceFixturesBundle) - 用于将 Alice 和 Faker 与数据夹具一起使用的 Symfony2 包.
 * [AvSpoolMailerBundle](https://github.com/AppVentus/AvSpoolMailerBundle) - 将您的邮件存储为假脱机并发送交易直接邮件或将其存储在数据库中.
 * [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - 动态数据库路由.
@@ -249,7 +248,7 @@
 * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - 集成晶圆.
 * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - Doctrine 的 MySQL 函数：RAND()、ROUND() DATE()、DATE_FORMAT().
 * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - 集成 Flysystem.
-* [RelationBundle](https://github.com/Ph3nol/RelationBundle)  - 捆绑管理模型/实体之间的关系.  （不再维护）
+* [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) - 捆绑以将 Redis 集成到您的应用程序中.
 * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - 这个包提供了 DoctrineExtensions 的集成.
 * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - 一个为 ORM 和 ODM 实体和面向对象的 javascript 地图渲染提供地理特征的包.
@@ -309,7 +308,7 @@
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - 添加了基于简单的 ACL 样式的每个 URL 配置添加与 CORS 相关的标头的能力.
 * [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) - 通过注释轻松地为您的控制器/操作添加速率限制.
 * [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - 使用此捆绑包，您可以轻松限制对您的应用程序的请求.
-* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - 有助于开发 REST API 的捆绑软件.
+* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - 有助于开发 REST API 的捆绑包.
 * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - 一个简单的包，提供一种简单的方法来发送带有注释的序列化对象的 json/xml/yaml 响应.
 * [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - 一个 symfony 包，用于处理 REST API 上的多种上传方式.
 

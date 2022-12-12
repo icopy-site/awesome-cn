@@ -111,7 +111,7 @@
 * [SideNotes](https://www.apptorium.com/sidenotes)  - 屏幕侧的快速笔记. 在使用其他应用程序时做笔记. 使用 Markdown 进行文本格式化.
 * [Standard Notes](https://standardnotes.com/)  - 面向数字专家和专业人士的端到端加密笔记应用程序.  [![开源软件][OSS 图标]](https://github.com/standardnotes/app) ![免费软件][免费软件图标]
 * [QOwnNotes](http://www.qownnotes.org/)  - 具有降价支持和待办事项列表管理器的开源记事本.  [![开源软件][OSS 图标]](https://github.com/pbek/QOwnNotes) ![免费软件][免费软件图标]
-* [Quiver](http://happenapps.com/#quiver) - 程序员的笔记本，让您轻松地在一个笔记中混合文本、代码、Markdown 和 LaTeX，使用超棒的代码编辑器编辑代码并实时预览 Markdown 和 LaTeX.
+* [Quiver](http://happenapps.com/#quiver) - 程序员的笔记本，让您轻松地在一个笔记中混合文本、代码、Markdown 和 LaTeX，使用很棒的代码编辑器编辑代码并实时预览 Markdown 和 LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) - 云笔记知识管理、协作平台，基于Markdown写作，支持内嵌流程图、脑图、时序、代码渲染、画板创建、个人知识分享等.相比有道云笔记和印象笔记同类产品，包括其所有功能，支持知识共享，更强大的创作、协作和编辑，来自阿里巴巴蚂蚁金服！[免费软件][免费软件图标]
 * [Skiff](https://skiff.com/)  - 采用零信任隐私设计的端到端加密和去中心化电子邮件、实时文档协作和文件存储——可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS 图标]](https://github.com/skiff-org)
 
@@ -124,7 +124,7 @@
 
 #### Ebooks
 
-* [Calibre](http://calibre-ebook.com/)  - 免费和开源的电子书计算机软件应用程序套件，可在多个平台上运行，允许用户管理电子书收藏以及创建、编辑和阅读电子书.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/kovidgoyal/calibre)
+* [Calibre](http://calibre-ebook.com/)  - 免费开源的电子书计算机软件应用程序套件，运行在多个平台上，允许用户管理电子书收藏以及创建、编辑和阅读电子书.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/kovidgoyal/calibre)
 * [Clearview](http://www.clearview-reader.com/clearview/)  - 适用于 PDF、EPUB（无 DRM）、CHM 和 MOBI 的选项卡式电子书阅读器.  [![应用商店][应用商店图标]](https://apps.apple.com/us/app/clearview/id557090104?mt=12)
 * [iChm](https://github.com/NSGod/ichm)  - 用于 CHM（Microsoft 编译的 HTML 帮助）文件的电子书阅读器.  [![开源软件][OSS 图标]](https://github.com/NSGod/ichm) ![免费软件][免费软件图标]
 * [Kindle App](https://www.amazon.com/l/16571048011) - 亚马逊kindle官方阅读应用.
@@ -140,7 +140,7 @@
 * [Reeder 5](http://reederapp.com)  - Feedbin、Feedly、Feed Wrangler 等新闻阅读器.  [![应用商店][应用商店图标]](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
 * [Vienna](http://viennarss.github.io/) - 适用于 Mac OS X 的 RSS/Atom 阅读器.[![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/ViennaRSS/vienna-rss)
 * [Feedy](https://krillapps.com/feedy/)  - 适用于 Mac 的优雅轻巧的 RSS 客户端和新闻阅读器.  [![应用商店][应用商店图标]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&amp;mt=12)
-* [Elytra](https://elytra.app) - 一个简单且私密的 RSS 订阅阅读器，具有适用于 macOS 和 iOS 的本机呈现 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&amp;ct =很棒的mac&amp;mt=8)
+* [Elytra](https://elytra.app) - 一个简单且私密的 RSS Feed 阅读器，具有适用于 macOS 和 iOS 的本机呈现 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&amp;ct =很棒的mac&amp;mt=8)
 
 #### Others
 
@@ -420,7 +420,7 @@
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 这是一款专门针对字体、排版、文本模型和各种艺术文本效果进行调整的图形设计软件.
 * [Blender](https://www.blender.org/)  - 免费开放的3D创作软件.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/)  - Colorpicker 是一个完整的开源颜色操作工具，带有拾取功能！  [![开源软件][OSS 图标]](https://github.com/toinane/colorpicker) ![免费软件][免费软件图标]
-* [Figma](https://www.figma.com/)  - 协作界面设计工具，用于矢量图形和 UI 原型设计.  ![免费软件][免费软件图标]
+* [Figma](https://www.figma.com/)  - 协作界面设计工具，用于矢量图形和 UI 原型制作.  ![免费软件][免费软件图标]
 * [FontForge](http://fontforge.github.io/)  - 免费的开源字体编辑器.  [![开源软件][OSS 图标]](https://github.com/fontforge) ![免费软件][免费软件图标]
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [inklet](https://tenonedesign.com/inklet.php) - 将您的 Mac 触控板变成绘图板.
@@ -851,7 +851,7 @@
 * [ActivityWatch](https://activitywatch.net/) - Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterMouse](https://better-mouse.com)  - 平滑滚动、光标加速禁止和强大的按钮/手势重新映射在一个用于第 3 方鼠标的实用程序中. 旨在取代那些笨重和侵入性的官方驱动程序.
-* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，可让您为 Magic Mouse、Macbook Trackpad、Magic Trackpad 以及普通鼠标的鼠标手势配置许多手势.
+* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，允许您为 Magic Mouse、Macbook Trackpad、Magic Trackpad 以及普通鼠标的鼠标手势配置许多手势.
 * [Cerebro](https://cerebroapp.com/)  - 具有大脑的开源生产力助推器.  [![开源软件][OSS 图标]](https://github.com/cerebroapp/cerebro) ![免费软件][免费软件图标]
 * [Choosy](https://www.choosyosx.com) - UI、URL API 和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
 * [Clovery](https://clovery.app)  - 将您最喜爱的所有 Google 服务与您的 Mac 紧密集成，让您快速访问这些服务并提高工作效率.  [![开源软件][OSS 图标]](https://github.com/webcatalog/neutron) [![App Store][app-store 图标]](https://apps.apple.com/我们/app/clovery-for-google-apps/id1552618413）
@@ -950,7 +950,7 @@
 
 * [AlDente](https://apphousekitchen.com/)  - 适用于 MacBook 的充电限制器应用程序可让您的电池更长时间保持健康.  [![开源软件][OSS 图标]](https://github.com/davidwernhart/AlDente)
 * [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704)  - 覆盖您的节能设置并让您的 Mac 保持唤醒状态.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://itunes.apple.com/us/app/amphetamine/id937984704)
-* [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject)  - 适用于 macOS 和 iOS 的全新免费广告拦截器：停止在 Safari 中看到烦人的广告. 更快地打开网站. 更安全地浏览网页！[免费软件][免费软件图标] [![App Store][应用商店图标]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218&amp;ct= GitHub&amp;mt=8)
+* [AdBlock One](https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject)  - 适用于 macOS 和 iOS 的全新免费广告拦截器：停止在 Safari 中看到烦人的广告. 打开网站更快. 更安全地浏览网页！[免费软件][免费软件图标] [![App Store][应用商店图标]](https://apps.apple.com/app/apple-store/id1491889901?pt=444218&amp;ct= GitHub&amp;mt=8)
 * [AppCleaner](http://freemacsoft.net/appcleaner/)  - 可让您彻底卸载不需要的应用程序的小型应用程序.  ![免费软件][免费软件图标]
 * [Apple Silicon App Test](https://doesitarm.com/apple-silicon-app-test/)  - 用于在购买 M1 Mac 之前检查 Apple Silicon 应用程序兼容性的基于浏览器的工具.  [![开源软件][OSS 图标]](https://github.com/ThatGuySam/doesitarm) ![免费软件][免费软件图标]
 * [Background Music](https://github.com/kyleneideck/BackgroundMusic)  - 自动暂停您的音乐、设置各个应用程序的音量和录制系统音频.  [![开源软件][OSS图标]](https://github.com/kyleneideck/BackgroundMusic)
@@ -971,6 +971,7 @@
 * [OmniDiskSweeper](https://www.omnigroup.com/more)  - 显示您驱动器上的文件，按大小排序. 它可用于查找和删除未使用的文件.  ![免费软件][免费软件图标]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html)  - 用于验证磁盘和文件、运行清理和系统维护任务、配置隐藏选项等的多功能实用程序.  ![免费软件][免费软件图标]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 macOS Sierra 中对 NTFS 进行读/写访问.
+* [RemoveX](https://removex.io)  - RemoveX 是 Mac 电脑的卸载工具.  RemoveX 有一个漂亮的用户界面，使用 MacOS 的原生设计. 节省数小时的时间并在几秒钟内删除您的应用程序. 不要让你思考.  ![免费软件][免费软件图标]
 * [Sensei](https://sensei.app/) - Sensei 是一款用于 Mac 性能的多功能工具，具有跨越硬件和软件的功能.
 * [Core Tunnel](https://codinn.com/tunnel/)  - 用于管理 SSH 连接的应用程序.  [![应用商店][应用商店图标]](https://apps.apple.com/us/app/core-tunnel/id1354318707)
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控、风扇控制和硬件诊断可帮助您的 Mac 保持凉爽和健康.
@@ -1036,7 +1037,7 @@
 
 ### Pirated software download site blacklist
 
- *拒绝盗版. 软件供应商可以去这些地方的权利.*
+ *拒绝我的盗版. 软件供应商可以去这些地方的权利.*
 
 * AppKed：~~`http://www.macbed.com`~~
 * Softasm：~~`https://softasm.com/`~~
