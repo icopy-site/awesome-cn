@@ -60,7 +60,7 @@ Neovim 支持多种 UI.
 - [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) - 通过定义任意数量的自定义 LaTeX 构建引擎并使用魔术注释选择它们来增强 Texlab 的 lspconfig 设置.
 - [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) - LSP 功能的基本包装器.
 - [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - 用于代码操作的浮动弹出菜单，用于显示代码操作信息和差异预览.
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - 一个异步 linter 插件，与内置的语言服务器协议支持相辅相成.
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - 提供对 [SchemaStore](https://github.com/SchemaStore/schemastore) 目录.
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) - Neovim 缺少的 IDE 功能.
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 用于 LSP 进度的独立 UI.
@@ -404,7 +404,7 @@ Neovim 支持多种 UI.
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - 用于从剪贴板粘贴图像的 Neovim Lua 插件.
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - 来自 Neovim 的远程控制 Reaper DAW.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
@@ -416,7 +416,7 @@ Neovim 支持多种 UI.
 
 ### Note Taking
 
-- [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - 缩写提醒（Neovim &gt;= 0.5）.
+- [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminders (Neovim >= 0.5).
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - 流畅的 Markdown 笔记本导航和管理（创建链接、跟踪链接、创建和管理待办事项列表、参考书目文件等）.
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - 注意与 telescope.nvim 集成的神经元插件.
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) - 记下你的科学笔记.
@@ -589,6 +589,7 @@ Neovim 支持多种 UI.
 - [linty-org/readline.nvim](https://github.com/linty-org/readline.nvim) - Readline 键盘快捷键.
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) - 基于搜索的导航与快速跳转功能相结合.
 - [Weissle/easy-action](https://github.com/Weissle/easy-action) - 轻松地在您可以看到的地方执行操作.
+- [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim)  - 建立并增强现有的跳转列表动作（即`<c-i>  ` 和 `<c-o>  `）.
 
 #### Treesitter Based
 

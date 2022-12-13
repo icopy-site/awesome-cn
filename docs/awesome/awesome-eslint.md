@@ -20,6 +20,7 @@
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - 用于 React/Vue/TypeScript 项目的渐进式 ESLint 配置.
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - 包含用于 ESLint 团队维护的项目的 ESLint 配置.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Facebook 风格指南的可共享配置.
+- [Feedzai](https://github.com/feedzai/eslint-config-feedzai) - Feedzai 用于 JavaScript/React 项目的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) - 可共享的配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - 可共享配置 [React](https://reactjs.org) 项目.
 - [Shopify](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) - 可共享的配置 [Shopify's style guide](https://github.com/Shopify/javascript).
@@ -158,7 +159,7 @@ Lodash
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 检查文件顶部并修复它们的 eslint 规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) - 将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) - 将所有规则转换为警告.
-- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout](https://github.com/coderaiser/putout) linter 到 ESLint.
+- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - 集成了 ESLint 插件 [putout](https://github.com/coderaiser/putout) linter 到 ESLint.
 - [TypeLint](https://github.com/yarax/eslint-plugin-typelint) - 基于现有模式（Swagger、Redux）和对对象属性的 linting 访问引入类型，防止“未定义”错误.
 - [Woke](https://github.com/amwmedia/eslint-plugin-woke) - 帮助捕捉不敏感的词，促进包容性代码库.
 
@@ -195,14 +196,14 @@ Lodash
 
 - [DOM](https://github.com/amilajack/eslint-plugin-dom)
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
-- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-st和ard) 和 [Config](https://github.com/Raynos/eslint-config-perf-st和ard)
+- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
 
 ### Security
 
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - 检测潜在秘密/凭证的 eslint 插件.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - 检查“innerHTML”、“outerHTML”等.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii)  - 检查并执行代码的 PII 合规性. 即评论或字符串文字中没有电子邮件地址、出生日期、IP 地址或电话号码.
-- 扫描JS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
+- 扫描JS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的 ESLint 规则.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在最终投入生产之前检测代码库中的 XSS 问题.
 
@@ -266,14 +267,14 @@ Lodash
 - [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - 期望在全局变量上使用 `window` 限定符，否则可能会与局部变量混淆.
 - [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自 ESLint）
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
-- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - TestCafe 的`fixture` 和`test` 全局变量.
+- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
 
 ## Tools
 
 - [eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - 为 .eslintrc.js 文件提供一个 defineConfig 函数.
 - [es-file-traverse](https://github.com/brettz9/es-file-traverse)  - 仅获取基于导入和/或从一个或多个条目文件中需要的那些正在使用的文件的列表； 列表可传递给 ESLint. 有意特别是用于检查第 3 方依赖项.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) - 查找自定义配置中没有的内置 ESLint 规则.
-- [eslint-index](https://github.com/wagerfield/eslint-index) - CLI for finding and managing rules in ESLint config files.
+- [eslint-index](https://github.com/wagerfield/eslint-index) - 用于在 ESLint 配置文件中查找和管理规则的 CLI.
 - [eslint-interactive](https://github.com/mizdra/eslint-interactive) - 修复大量 ESLint 错误的 CLI 工具.
 - [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - 复用 eslint 结果并合并常见文件的结果.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - 通过一次修复一个规则来轻松使用 ESLint.

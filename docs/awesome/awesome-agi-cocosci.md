@@ -396,7 +396,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -817,7 +817,7 @@
 
 
 
-<span id = "ei"></span>
+
 ### Embodied Intelligence
 
 * [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/)  - ***柏拉图·斯坦福***. 一种关于具身认知的计算哲学解释，它强调了代理人的身体在认知能力中的重要性.
@@ -888,7 +888,7 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
@@ -1414,7 +1414,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
