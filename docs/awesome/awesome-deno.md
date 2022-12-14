@@ -25,9 +25,6 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ### Online Playgrounds
 
-- [Deno Playground](https://deno-playground.now.sh)
-  - [maman/deno-playground](https://github.com/maman/deno-playground)
-- [DenoBR Playground](https://playground.denobr.com/)
 - [myCompiler.io](https://www.mycompiler.io/new/deno)
 - [Repl.it](https://repl.it/languages/deno)
 
@@ -57,7 +54,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [dangoDB](https://github.com/oslabs-beta/dangoDB) - 用于 Deno 的 MongoDB ODM.
 - [denodb](https://github.com/eveningkid/denodb) - 用于 Deno 的 MySQL、SQLite、MariaDB、PostgreSQL 和 MongoDB ORM.
 - [deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB 数据库驱动程序.
-- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL 数据库驱动程序.
+- [deno_mysql](https://github.com/denodrivers/mysql) - MySQL database driver.
 - [dndb](https://github.com/denyncrawford/dndb) - 为 Deno 编写的持久且可嵌入的 NoSQL 数据库引擎.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) - 使用 JSON 格式的非常简单的持久键值数据库.
 - [dso](https://github.com/manyuanrong/dso) - 基于 mysql 的简单 ORM 库.
@@ -136,7 +133,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - 用于测试 Deno HTTP 服务器的超级代理驱动库.
 - [superoak](https://github.com/asos-craigmorten/superoak) - Oak 的 HTTP 断言通过 SuperDeno 变得简单.
-- [tepi](https://deno.land/x/tepi) - 一个 .http 测试运行程序
+- [tepi](https://deno.land/x/tepi) - 一个 .http 测试运行器
 - [tincan](https://github.com/gcaptn/tincan) - 一个类似 Jest 的 Deno 测试库.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
@@ -145,13 +142,13 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [beno](https://github.com/dpmland/beno) - 为 Deno 键入和更快的配置管理器 **受 Golang 的 Viper 启发**
 - [buckets](https://github.com/jacoborus/deno-buckets) - 将资产和脚本捆绑在一个可执行文件中.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - 格式化字节（Uint8Array、ArrayBufferView 等）输出，在调试 IO 函数时很有用.
-- [canonify](https://github.com/truestamp/truestamp-canonify) - 将数据结构字符串化为确定性排序的 JSON，以实现每个 JCS 的一致散列和数字签名 [RFC8785](https://datatracker.ietf.org/doc/html/rfc8785).
 - [coffee](https://github.com/irandeno/coffee) - Deno 配置 - 一种类型安全、易于使用的 Deno 配置管理器.
+- [colors](https://github.com/retraigo/colors) - TypeScript 中的颜色转换和操作.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi 喜欢 Typescript 和 Deno 的验证器.
 - [cubic-bezier](https://github.com/retraigo/cubic-bezier) - 获取三次贝塞尔曲线中的点数组或在画布中可视化.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno 缓存清理，下次运行时重新加载 deps.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - 带有等待生成器的文件观察器.
-- [deno-config](https://github.com/yooneskh/deno-config) - Utility to streamline deno app configuration management through cli, .env and json files
+- [deno-config](https://github.com/yooneskh/deno-config) - 通过 cli、.env 和 json 文件简化 deno 应用程序配置管理的实用程序
 - [deno-context](https://github.com/code-hex/deno-context)  - 将截止日期、取消和其他请求范围的值传播到多个承诺. 该行为就像 Go 的上下文.
 - [deno_cron](https://github.com/rbrahul/deno_cron) - 一个 cron 作业调度程序，允许您非常灵活地编写人类可读的 cron 语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) - 让 Deno 程序在后台运行.
@@ -180,6 +177,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [invert-kv](https://github.com/denorg/invert-kv) - 在 Deno 中反转键值对.
 - [lazy](https://github.com/luvies/lazy) - 一个类似 linq 的惰性评估迭代模块.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - 用于生成、解决、分析和显示迷宫的 Javascript 模块.
+- [monke](https://github.com/retraigo/monke) - TypeScript 中的颜色量化和抖动.
 - [ms](https://github.com/denolib/ms) - 轻松将各种时间格式转换为毫秒.
 - [online](https://github.com/denorg/online) - 检查您当前是否在 Deno 中在线.
 - [optionals](https://github.com/OliverBrotchie/optionals) - 类似 Rust 的错误处理和具有详尽模式匹配的选项.
@@ -267,7 +265,6 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ## Showcases
 
-- [AuthCompanion](https://github.com/pmprosociety/authcompanion) - 基于令牌的用户管理服务器.
 - [Deno Rest](https://github.com/vicky-gonsalves/deno_rest) - 用于 deno RESTful api 的样板.
 - [Deno Seed](https://github.com/tamasszoke/deno-seed)  - 用于开发的完整样板.  ：幼苗：
 - [Edrys](https://github.com/edrys-org/edrys) - 远程教学软件
@@ -328,7 +325,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ## Integrations
 
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
-- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流.
+- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流程.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions 是服务器端的 TypeScript 函数，分布在全球边缘.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端呈现的 Astro 站点部署到 Deno Deploy.
 
@@ -349,14 +346,9 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
 - [Building API's using Deno, Oak and MYSQL](https://codeforgeek.com/building-api-server-using-deno-and-mysql/)
-- [使用 Deno 创建交互式邮件实用程序 CLI 工具
-](https://www.soubai.me/posts/create-interactive-mail-utility-cli-with-deno)
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
-- [How to create and validate JSON Web Tokens in Deno](https://www.loginradius.com/engineering/blog/jwt-authentication-with-deno/)
 - [Build A Simple Covid19 CLI Tool using Deno](https://blog.loginradius.com/engineering/build-a-cli-tool-using-deno/)
-- [Creating a Web Application using Deno](https://www.loginradius.com/engineering/blog/a-webapp-in-deno/)
-- [Read and Write in a local file with Deno](https://www.loginradius.com/engineering/blog/read-and-write-in-a-local-file-with-deno/)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API 与 Oak 教程系列 [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)

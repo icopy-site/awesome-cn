@@ -256,7 +256,7 @@
  &gt; 注意：这些应用程序的 Rails 版本以最新提交日期为准. 它们在它们的 Gemfile 和/或 Gemfile.lock 中定义，它们可能已过时. 如果您发现它已过时，请不要忘记通过打开请求请求来通知我们.
 
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理（使用Rails 6.0）的智能流程和工作流自动化平台.
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - 市政基础设施检测应用程序（使用 Rails 4.2）.
 - [airCasting](https://github.com/HabitatMap/AirCasting)  - 一个使用智能手机（使用 Rails 6.1）记录、映射和共享健康和环境数据的平台.  - [:earth_africa:](https://www.habitatmap.org/aircasting)
 - [alaveteli](https://github.com/mysociety/alaveteli) - 一个用于公开信息自由请求的平台 - 使用 Rails 7.0 - [:earth_africa:](https://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone)  - 音乐托管、管理和分发应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://alonetone.com)
@@ -340,6 +340,7 @@
 - [redmine](https://github.com/edavis10/redmine)  - 项目管理应用程序（使用 Rails 6.1）.  - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - 市场应用程序 -（使用 Rails 4.0）.
 - [reservations](https://github.com/YaleSTC/reservations)  - 库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](http://yalestc.github.io/reservations/)
+- [retrospring](https://github.com/retrospring/retrospring) - 遵循 Q/A（问答）原则的社交网络 - [:earth_africa:](https://retrospring.net)
 - [rletters](https://codeberg.org/rletters/rletters)  - 研究人员期刊文章数据库的前端（使用 Rails 6.0）.  - [:earth_africa:](https://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org)  - 一个 gem 托管平台（使用 Rails 7.0）.  - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) - 帐户跟踪器（使用 Rails 4.2）.
@@ -430,7 +431,7 @@
 - [kaminari](https://github.com/kaminari/kaminari) - 提供分页的 gem. [:red_circle:](https://rubygems.org/gems/kaminari)
 - [kt-paperclip](https://github.com/kreeti/kt-paperclip) - 处理文件上传的 gem. [:red_circle:](https://rubygems.org/gems/kt-paperclip)
 - [lockbox](https://github.com/ankane/lockbox) - 处理加密的 gem. [:red_circle:](https://rubygems.org/gems/lockbox)
-- [lograge](https://github.com/roidrage/lograge) - 在 Rails 应用程序中自定义记录器的 gem. [:red_circle:](https://rubygems.org/gems/lograge)
+- [lograge](https://github.com/roidrage/lograge) - A gem to customize logger in Rails apps. [:red_circle:](https://rubygems.org/gems/lograge)
 - [mailkick](https://github.com/ankane/mailkick) - 处理邮件退订的工具. [:red_circle:](https://rubygems.org/gems/mailkick)
 - [marginalia](https://github.com/basecamp/marginalia) - 将注释附加到 ActiveRecord 的 SQL 查询的 gem. [:red_circle:](https://rubygems.org/gems/marginalia)
 - [metka](https://github.com/jetrockets/metka) - 使用 Postgresql 数组列管理标签的 gem. [:red_circle:](https://rubygems.org/gems/metka)
@@ -491,7 +492,7 @@
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  - 用于创建下一个 Saas 产品的 Rails 6 样板. 预加载了 graphQL、devise、JWT、CanCanCan、RailsAdmin、Rubocop、Rspec 等.
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template)  - Rails 6 项目的应用程序模板； 预加载了 TDD、安全性、部署和开发人员生产力的最佳实践.
 - [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - 下一个 Rails 应用程序的模板
-- [rails-template(ackama)](https://github.com/ackama/rails-template)  - Rails 6.1 项目的应用程序模板； 预加载了 TDD、安全性、部署和开发人员生产力的最佳实践.
+- [rails-template(ackama)](https://github.com/ackama/rails-template) - Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 - [rails-template(astrocket)](https://github.com/astrocket/rails-template) - Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let&#39;s Encrypt 模板.
 - [rails-template(dao42)](https://github.com/dao42/rails-template) - 适合高级 Rails 开发人员的最佳、最新和最快的 Rails 6.x 模板.
 - [rails-templates(lewagon)](https://github.com/lewagon/rails-templates) - 通过 Le Wagon 最佳实践快速开始您的 Rails 开发.
@@ -501,7 +502,7 @@
 - [suspenders](https://github.com/thoughtbot/suspenders) - 具有我们标准默认值的 Rails 模板，准备部署到 Heroku.
 - [vuejs-rails-starterkit](https://github.com/jetthoughts/vuejs-rails-starterkit) - Vue.js + Rails Starting Kit GitHub 模板，用于开发混合移动应用程序.
 - [rails_api_base](https://github.com/rootstrap/rails_api_base) - 用于 JSON RESTful API 的 Rails 6 样板项目.
-- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
+- [rails_hotwire_base](https://github.com/rootstrap/rails_hotwire_base) - 带有 Hotwire 的 Rails 6 样板项目，用于具有现代 SPA 体验的全栈应用程序.
 
 ## Other Rails Tools
 

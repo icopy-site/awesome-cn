@@ -194,7 +194,7 @@
 * [ueberauth_auth0](https://hex.pm/packages/ueberauth_auth0) - 使用 Auth0 对用户进行身份验证的 Ueberauth 策略.
 * [ueberauth_cas](https://github.com/marceldegraaf/ueberauth_cas) - Überauth 的中央认证服务策略.
 * [ueberauth_facebook](https://github.com/ueberauth/ueberauth_Facebook) - 适用于 Überauth 的 Facebook OAuth2 策略.
-* [ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare) - 适用于 Überauth 的 Foursquare OAuth2 策略.
+* [ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare) - Überauth 的 Foursquare OAuth2 策略.
 * [ueberauth_github](https://github.com/ueberauth/ueberauth_github) - Überauth 的 GitHub 策略.
 * [ueberauth_google](https://github.com/ueberauth/ueberauth_google) - 针对 Überauth 的 Google 策略.
 * [ueberauth_identity](https://github.com/ueberauth/ueberauth_identity) - Überauth 的简单用户名/密码策略.
@@ -322,11 +322,12 @@
 * [Kubex](https://github.com/ingerslevio/kubex) - Elixir 的 Kubernetes 客户端和集成，用纯 Elixir 编写.
 * [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) - 用于 Leaseweb 基础设施的 Elixir Wrapper.
 * [libcluster](https://github.com/bitwalker/libcluster) - Elixir 应用程序的自动集群形成/修复.（[Docs](https://hexdocs.pm/libcluster/readme.html)).
-* [nodefinder](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
+* [nodefinder](https://github.com/okeuday/nodefinder) - Erlang 中的自动节点发现策略.
 * [nomad](https://github.com/sashaafm/nomad)  - 创建云便携式 Elixir 和 Phoenix 应用程序. 一次编写，到处使用！
 * [sidejob](https://github.com/basho/sidejob) - Erlang 的并行工作者和容量限制库.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask 是 Task.Supervisor 的替代品，它使用 Basho 的具有并行性和容量限制的副业库.
 * [skycluster](https://github.com/Nebo15/skycluster)  - Elixir/Erlang 应用程序的自动 Erlang 集群形成、消息传递和管理. 与 Kubernetes 集成.
+* [vercel](https://github.com/Bounceapp/elixir-vercel) - Vercel 的 API 的 Elixir 包装器.
 
 ## Code Analysis
 *用于代码库分析、解析和操作的库和工具.*
@@ -576,10 +577,10 @@
 * [portal](https://github.com/josevalim/portal) - 用于 Elixir 中分布式门户数据传输应用程序的射击容错门.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - 长生不老药/凤凰实施 [RealWorld.io](https://realworld.io/) 后端规格 - 中型克隆.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir library using a Pratt Parser algorithm to calculate dice rolls.
-* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行器.
+* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行程序.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix 应用程序可与随机选择的陌生人匿名聊天.
 * [tilex](https://github.com/hashrocket/tilex) - 使用 Phoenix 1.3 构建的 Hashrocket TIL 网站的源代码.
-* [weather](https://github.com/tacticiankerala/elixir-weather) - 使用 Elixir 构建的命令行天气应用程序.
+* [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
 
 ## Feature Flags and Toggles
 *管理功能切换的库（AKA 功能标志）：可以在运行时通过某些界面切换的 ON/OFF 值*
@@ -854,7 +855,7 @@
 * [exometer](https://github.com/Feuerlabs/exometer) - Erlang 中的基本测量对象和探针行为.
 * [folsom_ddb](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB 后端存储 folsom 指标.
 * [graphitex](https://github.com/msoedov/graphitex) - Elixir 的石墨/碳客户端.
-* [instream](https://github.com/mneudert/instream) - 用于 Elixir 的 InfluxDB 驱动程序.
+* [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - 一个 Elixir 客户端 [Instrumental](https://instrumentalapp.com/).
 * [newrelic.ex](https://github.com/romul/newrelic.ex) - 从您的 Elixir/Phoenix 应用程序收集指标并将它们发送到 [NewRelic](https://newrelic.com/).
 * [prometheus](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) Erlang 中的监控系统和时间序列数据库客户端.
@@ -1017,6 +1018,7 @@
 * [notifier](https://hex.pm/packages/notifier) - 用于桌面通知的可插入架构.
 * [onetime](https://github.com/ryo33/onetime-elixir) - Elixir 的一次性键值存储.
 * [pact](https://github.com/BlakeWilliams/pact) - Elixir 中更好的依赖注入，以实现更清晰的代码和测试.
+* [passbook](https://github.com/Bounceapp/ex_passbook) - 用于创建 Apple 钱包 (.pkpass) 文件的 Elixir 库.
 * [phone](https://github.com/fcevado/phone) - 从电话号码中获取有用信息的解析器.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain 实现了一种更明智的方法来启动 Elixir 的外部操作系统进程并与之通信.
 * [presentex](https://github.com/Cobenian/Presentex) - Elixir 到基于 HTML/JavaScript 的演示框架.
@@ -1052,7 +1054,7 @@
 * [asn](https://github.com/ephe-meral/asn) - 可用于从 IP 映射到 AS 再到 ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) - 基于 UDP 多播和 TCP 混合的安全消息广播.
 * [download](https://github.com/asiniy/download) - 轻松地从互联网下载文件.
-* [eio](https://github.com/falood/eio) - Elixir server of engine.io.
+* [eio](https://github.com/falood/eio) - engine.io 的 Elixir 服务器.
 * [ExPcap](https://github.com/cobenian/expcap) - 用 Elixir 编写的 PCAP 解析器.
 * [Firezone](https://github.com/firezone/firezone)  - 基于 WireGuard 构建的适用于 Linux 的开源 VPN 服务器和出口防火墙.  Firezone 易于设置（感谢 Chef Omnibus，所有依赖项都捆绑在一起）、安全、高性能且可自托管.
 * [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - 用 elixir 编写的 dyndns 服务器.
@@ -1308,7 +1310,7 @@
 * [code_signing](https://github.com/benknowles/code_signing) - 使用 Ed25519 签名签署和验证 BEAM 文件.
 * [Ockam](https://github.com/ockam-network/ockam) - 一套工具、编程库和基础架构，可以轻松构建与云服务和其他设备进行安全、私密和可信通信的设备. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - 检查您的密码是否已被破解.
-* [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助功能.
+* [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助函数.
 * [sobelow](https://github.com/nccgroup/sobelow) - 针对 Phoenix Framework 的以安全为中心的静态分析.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Erlang 的 ssl 验证函数集合.
 
@@ -1428,7 +1430,7 @@
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - 巴西文件的编号格式和验证 (CPF/CNPJ).
 * [caustic](https://github.com/agro1986/caustic)  - 用于比特币、以太坊和其他区块链的 Elixir 加密货币库. 包括密码学、数论（质数、同余）和用于探索性数学的通用数学库.
 * [ccc](https://github.com/Joe-noh/ccc) - 字符代码转换器.
-* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带声调或不带声调的 slug）.
+* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带或不带声调的 slug）.
 * [cidr](https://github.com/c-rack/cidr-elixir) - Elixir 的无类域间路由 (CIDR).
 * [cirru_parser](https://github.com/Cirru/parser.ex) - Elixir 中的 Cirru 解析器.
 * [colorful](https://github.com/Joe-noh/colorful) - 用于装饰 CUI 上的字符的 Elixir 宏.
@@ -1570,7 +1572,7 @@
 * [kane](https://github.com/peburrows/kane) - 一个 [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) - 一个 Keen.io API 客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 用于使用 Google 的 URL Shortener API 创建短 URL 的 Elixir 库.
-* [m2x](https://github.com/attm2x/m2x-elixir)  - 用于 AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  - AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) - MailChimp API 版本 3 的基本 Elixir 包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun 客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - Elixir 的山魈包装纸.
@@ -1843,7 +1845,7 @@
 * [Elixir Sips](http://elixirsips.com/) - 学习 Elixir 的小截屏视频.
 * [ElixirCasts.io](https://elixircasts.io/) - 帮助您学习 Elixir 和 Phoenix 的简单截屏视频.
 * [ExCasts](https://excasts.com) - 所有技能水平的 Elixir 和 Phoenix 截屏视频.
-* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，例如“Elixir 和 OTP 的实践：加密货币交易机器人”系列.
+* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，如“动手 Elixir 和 OTP：加密货币交易机器人”系列.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - 初学者友好，深入，一步一步的截屏.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - 了解如何使用 Phoenix 构建快速、可靠的 Web 应用程序.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - 通过 José Valim 了解 Elixir 的一些特性和概念.

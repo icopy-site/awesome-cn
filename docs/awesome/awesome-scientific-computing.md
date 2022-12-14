@@ -53,7 +53,7 @@ them.
 - [Netgen/NGSolve](https://ngsolve.org) - 高性能多物理场有限元软件.
   （C++，LGPL 2.1， [GitHub](https://github.com/NGSolve/netgen))
 - [Firedrake](https://www.firedrakeproject.org) - 使用有限元法求解偏微分方程的自动化系统.
-  (Python, LGPL 3, [GitHub](https://github.com/firedrakeproject/firedrake))
+  （蟒蛇，LGPL 3， [GitHub](https://github.com/firedrakeproject/firedrake))
 - [MOOSE](https://mooseframework.inl.gov/) - 多物理场面向对象仿真环境.
   （C++，LGPL 2.1， [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) - 用于有限元方法的免费、轻量级、可扩展的 C++ 库.
@@ -84,7 +84,7 @@ them.
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - 优质四面体网格生成器和 3D Delaunay 三角剖分器.
   （C++，AGPLv3）
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - 二维质量网格生成器和 Delaunay 三角剖分器.
-  （C，_非自由软件_）
+  (C, _nonfree software_)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - 用于非结构化三角形和四面体网格的简单生成器.
   （MATLAB，GPL 3）
 - [trimesh](https://trimsh.org/) - 加载和使用三角形网格，重点是水密表面.
@@ -162,6 +162,7 @@ them.
   (C++, BSD, [GitHub](https://github.com/f3d-app/f3d))
 - [TTK](https://topology-tool-kit.github.io/) - 拓扑数据分析和可视化.
   (C++/Python, BSD, [GitHub](https://github.com/topology-tool-kit/ttk))
+- [morphologica](https://github.com/ABRG-Models/morphologica)  - 仅标头的现代 OpenGL 代码可在运行时可视化数值模拟.  （C++、阿帕奇 2.0、GitHub）
 
 ## Other libraries and tools
 

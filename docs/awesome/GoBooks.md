@@ -180,7 +180,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 - 学习如何在 Go 中编写地道的代码并设计一个 Go 项目
 - 了解 Go 中设计决策的原因
-- Set up a Go development environment for a solo developer or team
+- 为独立开发者或团队设置 Go 开发环境
 - 了解如何以及何时使用反射、不安全和 cgo
 - 探索 Go 的特性如何让语言高效运行
 - 知道哪些 Go 特性你应该少用或根本不用
@@ -212,6 +212,15 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 <img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
 
 在过去的十年里，我们听说过有关从单体应用到微服务的转变的故事，我们可能认为这种转变解决了组织中的大部分问题. 但是，如果您不了解此转换的最佳实践，它可能会以一团糟告终，因为微服务架构带来了挑战. 在本书中，我们开始介绍微服务架构的生产级最佳实践，并解释何时使用它. 然后我们讲到gRPC登场的微服务通信模式. 您将看到用 Go 编写的完整示例，并将六边形架构应用于项目结构. 您不仅将学习如何实施微服务，还将了解如何编写测试、使用适当的 CI 保持质量、部署到 Kubernetes 环境并最终设置一个可观察的系统以更好地监控您的应用程序.
+
+
+### [Go Faster](https://leanpub.com/gofaster)
+
+<img src="https://golangatspeed.com/images/go-faster-w120.png" alt="Picture of book cover for Go Faster" width="120px"/>
+
+有人说 Go 是一种简单的语言，它确实只有 25 个关键字. 但是，要有效地使用 Go 需要熟练和理解，而不仅仅是简单的语法. 开发人员可能需要数月甚至数年才能获得这种经验，但本书旨在缩短该过程并让您更快地到达那里！
+
+借助我的《Go Faster》一书，您可以缩短学习曲线并成为一名熟练的 Go 程序员，从初学者迅速成为专家. 更快地学习 Go 并加入由熟练的 Go 开发人员组成的蓬勃发展的社区！
 
 **进阶书籍**
 ---
@@ -339,7 +348,7 @@ Go 中的动手依赖注入采用务实的方法，重点关注代码、用户�
 
 这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 您将被引导完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持对大型链接图进行高效的核外处理.
 
-您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包您的 Go 服务，并将它们自动部署到 Kubernetes 集群.
+您将了解各种前沿和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包您的 Go 服务，并将它们自动部署到 Kubernetes 集群.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
 
@@ -432,7 +441,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://learning.oreilly.com/library/cover/9781492076322/120w/" width="120px"/>
 
- Docker、Kubernetes 和 Prometheus 有什么共同点？ 所有这些云原生技术都是用 Go 编程语言编写的.
+What do Docker, Kubernetes, and Prometheus have in common? All of these cloud native technologies are written in the Go programming language.
 这本实用的书向您展示了如何利用 Go 的优势开发可扩展和有弹性的云原生服务，即使在不可预测的环境中也是如此.
 您将探索这些应用程序的组成和构造，从 Go 的低级功能到中级设计模式再到高级架构考虑因素.
 
@@ -468,7 +477,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
  - 编写命令行应用程序
  - 编写 HTTP 服务和客户端
- - 使用 gRPC 编写 RPC 服务和客户端
+ - Writing RPC services and clients using gRPC
  - 为网络客户端和服务器编写中间件
  - 在云对象存储和 SQL 数据库中存储数据
  - 使用惯用技术测试您的应用程序
@@ -500,10 +509,10 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 本书是该系列的第 1 部分，着重于实现高性能代码. 您将了解应关注应用程序或代码的哪些方面以及何时关注. 您将拥有一套工具、软件模式和方法供您使用，让您的生活更轻松. 阅读后，您将：
 
-- 了解并发和并行之间的区别.
+- 了解并发和并行之间的差异.
 - 识别并避免并发问题，例如死锁、饥饿、活锁和数据竞争.
 - 了解各种并发交互模式，并能够应用最适合手头问题的模式.
-- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多问题.
+- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多陷阱.
 - 能够使用 Go 的分析器、执行跟踪和基准测试工具诊断并发和性能问题.
 - 能够确定代码何时需要优化、什么需要优化以及如何优化.
 - 拥有可以快速应用于项目的并发和性能模式目录.
@@ -612,7 +621,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的基本要素开始，通过客户端和服务器的网络工作，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些将使您在日常工作或业余项目中的编码变得更容易、更快和更有趣.
+通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的最基本要素开始，通过客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些将使您在日常工作或业余项目中的编码变得更容易、更快和更有趣.
 
 ### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
 
@@ -651,7 +660,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 生成艺术是一种独特的艺术表达形式，在计算机编程、随机性和视觉美学之间架起了桥梁.
 
-This short book will introduce novice and experienced Go programmers to the beautiful world of algorithmic art and computer graphics. If you are looking for new areas to apply your favorite language, go check it out!
+这本简短的书将向新手和有经验的 Go 程序员介绍算法艺术和计算机图形学的美丽世界. 如果你正在寻找新的领域来应用你最喜欢的语言，那就去看看吧！
 
 Resources
 ====

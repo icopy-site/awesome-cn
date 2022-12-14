@@ -423,7 +423,7 @@ Rust 代码和资源的精选列表.
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — an example project showing usage of CMake with Rust [![build badge](https://api.travis-ci.org/SiegeLord/RustCMake.svg?branch=master)](https://travis-ci.org/SiegeLord/RustCMake)
 * [Fleet](https://github.com/dimensionhq/fleet) [[fleet-rs](https://crates.io/crates/fleet-rs)] - Rust 的快速构建工具.
 * Github 动作
-  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 动作
+  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 行动
   * [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook 的 GitHub 操作
 
 ### Debugging
@@ -440,7 +440,7 @@ Rust 代码和资源的精选列表.
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) — 非常小的 rust docker 镜像的示例项目 [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) — 多版本（使用 musl 工具）Rust Docker 镜像
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - 用于缓存编译 Docker 构建之间的远程依赖项的工具和预构建图像.
-  * [messense/rust-musl-cross](https://github.com/messense/rust-musl-cross) — 用于使用 musl-cross 编译静态 Rust 二进制文件的 Docker 镜像 [![build badge](https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master)](https://travis-ci.org/messense/rust-musl-cross)
+  * [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) — 用于使用 musl-cross 编译静态 Rust 二进制文件的 Docker 镜像 [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
   * [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust) — 官方 Rust Docker 图像
 * Github 页面
   * [wasm-template-rust](https://github.com/sn99/wasm-template-rust) — Rust 的 wasm 模板，无需 npm-deploy 即可发布到 gh-pages
@@ -486,7 +486,7 @@ Rust 代码和资源的精选列表.
   * [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) — Rust 的 Lua 5.3 绑定 [![build badge](https://api.travis-ci.org/jcmoyer/rust-lua53.svg?branch=master)](https://travis-ci.org/jcmoyer/rust-lua53)
   * [lilyball/rust-lua](https://github.com/lilyball/rust-lua) — Lua 5.1 的安全 Rust 绑定 [![build badge](https://api.travis-ci.org/lilyball/rust-lua.svg?branch=master)](https://travis-ci.org/lilyball/rust-lua)
   * [tickbh/td_rlua](https://github.com/tickbh/td_rlua) [[td_rlua](https://crates.io/crates/td_rlua)] — 用于 Rust 的零成本高级 lua 5.3 包装器 [![build badge](https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master)](https://travis-ci.org/tickbh/td_rlua)
-  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 接口的 Rust 库 [![build badge](https://api.travis-ci.org/tomaka/hlua.svg?branch=master)](https://travis-ci.org/tomaka/hlua)
+  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 交互的 Rust 库 [![build badge](https://api.travis-ci.org/tomaka/hlua.svg?branch=master)](https://travis-ci.org/tomaka/hlua)
 * 姆鲁比
   * [anima-engine/mrusty](https://github.com/anima-engine/mrusty) — Rust 的 mruby 安全绑定 [![build badge](https://api.travis-ci.org/anima-engine/mrusty.svg?branch=master)](https://travis-ci.org/anima-engine/mrusty)
 * 节点.js
@@ -623,7 +623,7 @@ Rust 代码和资源的精选列表.
 * [innoave/genevo](https://github.com/innoave/genevo) — 以可定制和可扩展的方式执行遗传算法 (GA) 模拟.
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust 中的遗传算法库. 处于维护模式.
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决了 N = 255 的 N Queens 问题，并且使用了不到 1 MB 的 RAM.
-* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够针对有监督、无监督和强化学习问题发展解决方案. 附带完整且可自定义的 NEAT 和 Evtree 实现. [![Build Status](https://api.travis-ci.com/pkalivas/radiate.svg?branch=master)](https://app.travis-ci.com/github/pkalivas/radiate)![Crates.io](https://img.shields.io/crates/v/radiate)
+* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够为有监督、无监督和强化学习问题发展解决方案. 附带完整且可自定义的 NEAT 和 Evtree 实现. [![Build Status](https://api.travis-ci.com/pkalivas/radiate.svg?branch=master)](https://app.travis-ci.com/github/pkalivas/radiate)![Crates.io](https://img.shields.io/crates/v/radiate)
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — Rust 的进化算法 [![Build Status](https://api.travis-ci.org/willi-kappler/darwin-rs.svg?branch=master)](https://travis-ci.org/willi-kappler/darwin-rs)
 
 #### Machine learning
@@ -1172,7 +1172,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) - 一个可移植的、高性能的、符合人体工程学的框架，用于在 Rust 中构建跨平台用户界面. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 * [Druid](https://github.com/linebender/druid) [[druid](https://crates.io/crates/druid)] — [Druid](https://linebender.org/druid/)，一个数据优先的 Rust 原生 UI 设计工具包. [![build badge](https://github.com/linebender/druid/workflows/.github/workflows/ci.yml/badge.svg)](https://github.com/linebender/druid/actions)
 * [emilk/egui](https://github.com/emilk/egui)  - 用于 Rust 的简单、快速和高度可移植的即时模式 GUI 库.  egui 在 Web 上本地运行，并在您最喜欢的游戏引擎中运行. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
-* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型制作
+* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型设计
 * [FLTK](https://www.fltk.org/)
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) — FLTK Rust 绑定 [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)
@@ -1540,7 +1540,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start)  - 一个致力于回答问题的回购协议：“那么，Rust.我该如何_开始_？”. 初学者唯一的精选资源和学习轨道.
   * [rust-learning](https://github.com/ctjhoa/rust-learning) — 学习 Rust 的有用资源集合
   * [Rustlings](https://github.com/rust-lang/rustlings) — 让你习惯阅读和编写 Rust 代码的小练习
-  * [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) - 帮助实践获得的 Rust 学术知识的计算机科学课程
+  * [Rusty CS](https://github.com/omaritan/Rusty-CS) - 帮助实践获得的 Rust 学术知识的计算机科学课程
   * [stdx](https://github.com/brson/stdx) — 首先学习这些 crates 作为 std 的扩展
   * [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - 奠定您在 Rust 中构建快速有效程序所需的知识基础.
   * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)

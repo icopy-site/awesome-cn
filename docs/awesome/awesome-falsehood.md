@@ -44,8 +44,6 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 - [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
 - [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行帐号不是国际的.
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学并不简单或理性.
-- [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
-- [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐排列的座位复杂得多.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 类型在会计软件中的重要性：缺少小数点会导致 100 倍的超额收费.
 - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)  - 与上述 Google Ads 相同的错误，或者将您的便士与美元分开的危险，是 250 美元的内部优惠券变成了 25,000 美元. 我的建议： [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) , 黑客利用它们注册 `\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和 `SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
@@ -108,7 +106,6 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 世界各地的人名有何不同，对网络有何影响？
 - [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - 有趣的是，谎言的实施可能会导致安全漏洞.
 - [Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers](https://www.wired.com/2015/11/null/) - 关于实施虚假信息如何对某人的生活产生负面影响的真实示例.
-- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 `MR` 后缀视为 `Mister` 并将其删除.
 - [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - 用于表示人名的灵活数据模型.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) - 人名组成部分的本地化表示.
 
@@ -127,7 +124,7 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员花太多时间在 `Latin-1` 上，他们忘记了其他人的脚本怪癖.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很困难，当每个破碎的数据输入层添加自己的香料时更是如此.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - 为单元测试和 QA 编译真实的国际和多样化的名称数据.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试你的软件.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试您的软件.
 
 ## Management
 
@@ -146,7 +143,6 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 - [Falsehoods about Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - 涵盖 TCP、DHCP、DNS、VLAN 和 IPv4/v6.
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - 刚接触分布式应用程序的程序员总是做出的假设.
 - [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - 地址的某些部分是可选的，注意十进制和八进制符号，以及 [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 任何一个.
-- [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - 一个 URL 中有很多组件，并且都有自己的逻辑.
 - [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - 尝试在 Python 中验证主机名.
 
 ## Phone Numbers
@@ -181,7 +177,6 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 - [Falsehoods about Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - 将身份归于软件版本可能比想象的要难.
 - [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html)  - 构建软件很难. 构建构建软件的软件更难.
 - [Falsehoods about Undefined Behavior](https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/) - 调用未定义的行为可能导致*任何*发生，因为“任何事情”的定义比人们想象的要广泛得多.
-- [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - 创建和记录 API 时要注意的陷阱.
 - [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - 虽然 RFC4180 存在，但它远非确定性的并且在很大程度上被忽略了.
 - [Falsehoods about Package Managers](https://kdeldycke.github.io/meta-package-manager/falsehoods.html) - 涵盖包裹及其经理.
 - [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - 试图建立一份关于测试的谎言清单.
@@ -198,9 +193,15 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
 - [Floating Point Math](https://0.30000000000000004.com)  - “你的语言没有问题，它在做浮点数学.  (...) 这就是为什么，&#39;0.1 + 0.2 != 0.3&#39;.”
-- [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  - 下载您在浏览器选项卡中看到的那个小图标应该是一个简单的练习. 事实证明它比你想象的要复杂得多. 警惕你不是在给牦牛剃毛.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - 挪威的 ISO 国家代码对于 False 也是有效的 YAML.
 - [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - 即使在应该是准系统的标记系统中也存在边缘情况.
+
+## Transportation
+
+- [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
+- [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐排列的座位复杂得多.
+- [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - 有多个国际和国家机构试图调和历史、实用性和物流，使代码遵循神秘的规则.
+- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 `MR` 后缀视为 `Mister` 并将其删除.
 
 ## Typography
 
@@ -210,6 +211,12 @@ A *falsehood* is an ***idea* that you initially believed was true**, but in real
 ## Video Games
 
 - [The Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) - 所有你没有考虑在游戏中为你的门实现的东西.
+
+## Web
+
+- [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - 创建和记录 API 时要注意的陷阱.
+- [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - 一个 URL 中有很多组件，并且都有自己的逻辑.
+- [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  - 下载您在浏览器选项卡中看到的那个小图标应该是一个简单的练习. 事实证明它比你想象的要复杂得多. 警惕你不是在给牦牛剃毛.
 
 ## Contributing
 
