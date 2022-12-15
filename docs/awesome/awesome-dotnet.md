@@ -99,7 +99,7 @@
 ## Authentication and Authorization
 
 * [ASP.NET Identity](https://github.com/aspnet/Identity/) - ASP.NET 应用程序的新会员系统
-* [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+* [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - 对 ASP.NET 应用程序的 SAML 身份验证支持
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - 自动对焦# [Hawk](https://github.com/outmoded/hawk) 认证库
 * [IdentityModel](https://github.com/IdentityModel) - .NET 4.5 和 MVC4/Web API 中用于身份和访问控制的帮助程序库.
@@ -434,7 +434,7 @@
  * [SharpMap](https://github.com/SharpMap) 一个易于使用的映射库，用于 Web 和桌面应用程序
  * [OsmSharp](https://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
  * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - 从 Entity Framework 空间数据或 Well-Known Text (WKT) 输入创建 GeoJSON 的库.
- * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - GeoJSON 类型和相应的 Json.Net（反）序列化程序的 .Net 库
+ * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
  * [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - 轻松解析或转换坐标格式并计算基于位置的太阳/月球信息.
  * [DEM Net Elevation API](https://github.com/dem-net/dem.net) - 用于数字高程模型的 .Net 库，允许以 glTF / STL 格式生成 3D 地形.
 
@@ -468,7 +468,7 @@
 * [RealTimeGraphX](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX 是一个数据类型不可知的高性能绘图库，适用于 WPF、UWP 以及即将推出的 Xamarin Forms.
 
 ## GraphQL
-* [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) - 实施 [Facebook's GraphQL](https://github.com/graphql/graphql-spec) 在.Net
+* [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) - 实施 [Facebook's GraphQL](https://github.com/graphql/graphql-spec) in .Net
 * [HotChocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL 服务器兼容所有 GraphQL 兼容客户端，如 Strawberry Shake、Relay、Apollo Client 以及各种其他客户端和工具.
 * [graphql-net](https://github.com/chkimes/graphql-net) - GraphQL 到 IQueryable for .NET.
 * [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - 在数据模型之上构建 GraphQL API 的库，具有可扩展性，可以轻松地将多个数据源集中在单个 GraphQL 模式中（EF 不是必需的 - 任何与 LinqProvider 一起使用的 ORM 或内存中的对象都可以工作）.
@@ -529,8 +529,8 @@
 * [Flurl](https://flurl.dev) - 流畅、可移植、可测试的 REST/HTTP 客户端库
 * [EasyHttp](https://github.com/EasyHttp/EasyHttp) - C 的 HTTP 库#
 * [Refit](https://github.com/reactiveui/refit) - 适用于 Xamarin 和 .NET 的自动类型安全 REST 库
-* [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可自定义. 深受 Refit 启发
-* [RestLess](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+* [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可定制. 深受 Refit 启发
+* [RestLess](https://github.com/letsar/RestLess) - .Net Standard 的自动类型安全无反射 REST API 客户端库.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - 与 `HttpClient` 一起工作的实用程序
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 ## IDE
@@ -935,7 +935,7 @@
 * [Azure PowerShell](https://github.com/Azure/azure-powershell) - 一组供开发人员和管理员开发、部署和管理 Microsoft Azure 应用程序的 PowerShell cmdlet
 * [Countly SDK for Windows](https://github.com/Countly/countly-sdk-windows/) - 适用于产品和营销经理的 Countly 分析和营销平台的 Windows SDK
 * [Octokit.NET](https://github.com/octokit/octokit.net) - .NET 的 GitHub API 客户端库
-* [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - Dropbox API 的官方 .NET SDK
+* [Dropbox.NET](https://github.com/dropbox/dropbox-sdk-dotnet) - Official .NET SDK for the Dropbox API
 * [Getty Images API SDK](https://github.com/gettyimages/gettyimages-api_dotnet) - 用于 Getty Images 和 iStock API 的 SDK
 * [Cloudmersive APIs](https://api.cloudmersive.com/csharp-client.asp) - .NET 的 API 客户端库 **[专有][免费]**
 
@@ -953,7 +953,7 @@
 * [CsvExport](https://github.com/jitbit/CsvExport) - 非常简单和轻量级的 CSV 导出器，Excel 友好，转义文本和引号等.
 * [Protobuf.NET](https://github.com/protobuf-net/protobuf-net) - Protocol buffers is the name of the binary serialization format used by Google for much of their data communications
 * [Json.NET](https://github.com/JamesNK/Newtonsoft.Json) - 适用于 .NET 的流行高性能 JSON 框架
-* [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - servicestack.net 中使用的 JSON、JSV 和 CSV 文本序列化程序
+* [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - servicestack.net 中使用的 JSON、JSV 和 CSV 文本序列化器
 * [Msgpack-Cli](https://github.com/msgpack/msgpack-cli) - 公共语言基础设施的 MessagePack 实现
 * [Jil](https://github.com/kevin-montrose/Jil) - 基于 Sigil 构建的快速 .NET JSON 序列化程序（由 StackOverflow 使用）
 * [ProtoBuf](https://github.com/SilentOrbit/protobuf) - Generate C# code for protocol buffer serialization from a .proto specification.
@@ -1032,11 +1032,11 @@
 * [NSubstitute](https://nsubstitute.github.io/) - .NET 模拟框架的友好替代品
 * [NUnit](https://github.com/nunit/nunit) - 适用于所有 .NET 语言的单元测试框架
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) - .NET 的动态模拟框架
-* [TestContainers dotnet](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers 是一个 dotnet 标准 2.0 库，支持 NUnit 和 XUnit 测试，提供通用数据库或任何其他可以在 Docker 容器中运行的轻量级一次性实例.
+* [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) - 一个库，用于支持对所有兼容的 .NET Standard 版本使用 Docker 容器的一次性实例进行测试.
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时又简单明了.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - .NET Core 和.NET Framework 快照测试工具
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - 将业务需求绑定到 .Net 代码
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的变异测试
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的突变测试
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - 用于使用自然语言描述测试的 xUnit.net 扩展.
 * [xUnit.net](https://github.com/xunit/xunit) - 适用于 .NET Framework 的免费、开源、以社区为中心的单元测试工具.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework

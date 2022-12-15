@@ -53,7 +53,7 @@
 ### Task Management
 
 - [Airtable](https://airtable.com/) - 混合电子表格和数据库以帮助组织工作.
-- [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin 结合了行为心理学的原理来帮助克服拖延症、控制一切并完成待办事项清单.
+- [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin 结合了行为心理学的原理来帮助克服拖延症、控制一切并完成待办事项列表.
 - [Any.do](http://www.any.do/) - 简单的界面，丰富的功能，目前最受欢迎的待办事项列表管理器 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [GitHub Projects](https://github.com/features/project-management/) - GitHub 的一个鲜为人知的功能，可以轻松地将项目管理流程与代码联系起来.
 - [Hitask](https://hitask.com) - 团队的简单项目和任务管理.
@@ -74,6 +74,7 @@
 - [Trello](https://trello.com) - 看板方法任务板.
 - [Tweek](https://tweek.so) - 超级简单的待办事项列表和每周任务管理.
 - [VivifyScrum](https://www.vivifyscrum.com)  - 适用于交付团队的敏捷项目管理应用程序. 可定制的 Scrum 和看板.
+- [Bordio](https://bordio.com/) - 用于在一块板上管理任务和事件的每日计划器.
 
 ### Habit Trackers
 
@@ -91,7 +92,7 @@
 - [IFTTT](https://ifttt.com) - 允许您在 Web 服务之间创建条件语句链（称为 _recipes_），以使 Web 为您工作并提高您的工作效率.
 - [n8n](https://n8n.io) - 用于连接 Web 服务的开源工作流程自动化，可选择自托管.
 - [Qbserve](https://qotoqot.com/qbserve/) - Mac 时间跟踪自动化：自由项目跟踪、时间表、发票和实时生产力反馈.
-- [Parabola](https://parabola.io) - 拖放工具以构建自定义报告、工作流和集成，以自动化您的手动流程.
+- [Parabola](https://parabola.io) - Drag and drop tool to build custom reports, workflows, and integrations to automate your manual processes.
 - [Tasker](http://tasker.dinglisch.net/) - 可以执行上下文相关的自定义任务的 Android 应用程序（_例如_ 到家时自动打开 wifi）.
 - [Zapier](https://zapier.com/) - 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化.
 
@@ -106,7 +107,7 @@
 
 - [Obie.ai](https://obie.ai/) - 将所有知识和文档整合到一处的 AI 平台.
 - [Obsidian.md](https://obsidian.md/)  - 适用于本地 Markdown 文件的知识库工具. 它允许您在不同的笔记之间创建链接.
-- [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
+- [Scribe](https://scribehow.com/)  - 自动为任何流程创建分步指南. 只需点击“记录”，Scribe 就会根据您的操作生成包含屏幕截图的详细指南，随时可以与同事、客户和朋友分享.
 - [Logseq](https://logseq.com/)  - Logseq 是一个隐私优先的开源知识库，可在本地纯文本 Markdown 和 Org 模式文件之上运行. 用它来书写、组织和分享您的想法，保留您的待办事项清单，并构建您自己的数字花园. 
 
 ### Screen Capture

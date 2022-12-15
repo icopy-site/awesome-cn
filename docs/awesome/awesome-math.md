@@ -64,6 +64,7 @@
 * [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 * [Free Math](https://freemathapp.org)
 * [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
+* [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
 ## Questions and Answers
 
@@ -113,7 +114,7 @@
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - 他舔 (1917)
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - WS 安德鲁斯 (1917)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - 斯蒂芬博伊德和利文范登伯格
-* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - 许多主题的研究和讲义，包括叶状流形上的扩散、随机微积分、狄利克雷空间中的全局分析等.
+* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - 许多主题的研究和讲义，包括叶状流形上的扩散、随机微积分、狄利克雷空间中的全局分析等等.
 
 ## Lecture Notes
 
@@ -125,7 +126,7 @@
 ### Set Theory
 
 * [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch, Günther Gediga
-* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - 威廉 AR 魏斯
+* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) - 威廉 AR 韦斯
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/) - 西尔万·波里埃
 * [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
