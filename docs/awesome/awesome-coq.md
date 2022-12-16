@@ -103,7 +103,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Tools
 
-- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集合.
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集.
 - [Autosubst 2](https://github.com/uds-psl/autosubst2) - 生成 Coq 代码的工具，用于在语法中处理绑定程序，例如重命名和替换.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - 用于在分离逻辑中证明 OCaml 程序属性的工具.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
@@ -228,6 +228,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - 有关软件基础系列教科书的材料，包括一系列 YouTube 视频.
 - [Mechanized Semantics](https://github.com/xavierleroy/cdf-mech-sem) - 法兰西学院编程语言语义课程的 Coq 资源.
 - [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2022/) - 介绍使用 Coq 开发和验证程序.
+- [MathComp School](https://github.com/gares/math-comp-school-2022) - 介绍 SSReflect 证明语言和数学组件库的课程和练习的 Coq 资源.
 
 ### Tutorials and Hints
 
