@@ -200,6 +200,7 @@
 - [Porting a GO Game Boy emulator to WebAssembly](https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/)
 - [About swotGB](https://mitxela.com/projects/swotgb/about) - 关于用 JavaScript 开发 Game Boy 模拟器的说明.
 - [List of open source emulators](EMULATORS.md)
+- [Game Boy Doctor](https://github.com/robert/gameboy-doctor)  - 一个命令行工具，用于将来自您的模拟器的日志与来自已知正确的模拟器的日志进行比较. 对于 Blargg 的测试 ROM 的逐行调试很有用.
 
 ### Testing
 
@@ -268,12 +269,14 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) - 扩展 gbdk 的 C 库.
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - Michael Hope 的 Game Boy 开发工具包的一小部分资源和工具.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 用于 Game Boy 编程的 IDE，使用称为 GBL 的类 C 语言，具有许多其他功能，如瓦片和地图提取、WLA-DX 汇编等.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 用于 Game Boy 编程的 IDE，使用称为 GBL 的类 C 语言，具有许多其他功能，如瓦片和地图提取、WLA-DX 组装等.
 - [mgbdis](https://github.com/mattcurrie/mgbdis) - 具有 RGBDS 兼容输出的 Game Boy ROM 反汇编程序.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - 检查和修改 ROM 标头数据（包括徽标）的在线工具.
 - [romusage](https://github.com/bbbbbr/romusage)  - 用于从 .map、.noi 或 ihx 文件估算 Game Boy ROM 使用情况（可用空间）的命令行工具. 适用于 GBDK-2020 和 RGBDS.
 - [awake](https://github.com/devdri/awake) - 游戏男孩反编译器.
 - [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) - 用 Node.js 编写的用于文本操作和翻译 Game Boy ROM 的工具集.
+- [evscript](https://github.com/eievui5/evscript) - 用于 Game Boy 的脚本语言，可用于敌方 AI、对话、动画和协程.
+- [evunit](https://github.com/eievui5/evunit) - 汇编代码的单元测试程序.
 
 #### Graphics utilities
 
@@ -366,7 +369,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) - Notepad+- 和 gedit 用于 RGBDS 汇编的语法高亮文件.
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - RGBDS 汇编的 Vim 语法突出显示.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - 另一个用于 RGBDS 汇编的 Vim 语法高亮文件.
-- [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - A Sublime Text 3 package for RGBDS, including syntax highlighting and some completion snippets.
+- [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - 用于 RGBDS 的 Sublime Text 3 包，包括语法突出显示和一些完成片段.
 - [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode)
 - [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) - 用于 RGBDS GBZ80 程序集的 Visual Studio Code 语言扩展.
 - [rgbds-mode](https://github.com/japanoise/rgbds-mode) - 用于 RGBDS 汇编的 Emacs 主要模式.
@@ -514,7 +517,7 @@ Game Boy 打印机仿真（例如从相机中检索图像）：
 
 - [Arduino Gameboy Printer Emulator](https://github.com/mofosyne/arduino-gameboy-printer-emulator) - 通过 gameboy 链接电缆模拟 gameboy 打印机. 
 - [ESP8266 Game Boy Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 一种模拟 Gameboy 打印机并让您使用由 ESP8266 供电的 WiFi 检索图像的设备.
-- [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator) - 一个 GameBoy 打印机模拟器，它通过 WiFi 连接提供接收到的数据.
+- [WiFi GBP Emulator](https://github.com/HerrZatacke/wifi-gbp-emulator) - A GameBoy printer emulator which provides the received data over a WiFi connection.
 - [Game Boy WiFi Printer - D1 Mini Shield](https://github.com/cristofercruz/gbp-esp-shield-pcb) - 适用于 D1 mini/mini Pro ESP8266 板的 Game Boy 打印机接口屏蔽. 
 - [Game Boy Printer Sniffer](https://github.com/mofosyne/GameboyPrinterSniffer) - 嗅探 Game Boy 和打印机之间的数据包通信.
 
@@ -553,7 +556,7 @@ Game Boy 打印机仿真（例如从相机中检索图像）：
 - [Virtual Game Boy Printer with an STM32F4](https://dhole.github.io/post/gameboy_serial_2/)
 - [Printing on the Game Boy Printer using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/)
 - [Programming Game Boy Chinese cartridges with an STM32F4](https://dhole.github.io/post/gameboy_cartridge_rw_1/)
-- [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊码.
+- [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊代码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - 绕过任天堂标志检查.
  - 2017 年制作 Game Boy 游戏：“Sheep It Up!” 验尸（[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
 - [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒都必须显示真实标识才能被视为有效并可以运行，但显然有些公司设法利用了检查系统.
@@ -592,7 +595,7 @@ Game Boy 打印机仿真（例如从相机中检索图像）：
 ### License
 
 根据 **GPLv3** 获得许可.
-See [LICENSE](LICENSE) 了解更多信息.
+See [LICENSE](LICENSE) 想要查询更多的信息.
 
 ### Acknowledgements
 

@@ -22,7 +22,7 @@
 
 这本书是对使用 Go 语言进行计算机编程的简短介绍.  Go 由 Google 设计，是一种通用编程语言，具有现代功能、简洁的语法和强大的文档齐全的通用库，使其成为您学习第一门编程语言的理想语言.
 
-这本书是免费 [read online](http://www.golang-book.com/) 或者 [pdf f或者m](http://www.golang-book.com/public/pdf/gobook.pdf).
+这本书是免费 [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -90,13 +90,13 @@ Practical Go Lessons 共有 41 章和 700 多页插图.
 
 <img src="https://static.packt-cdn.com/products/9781786468949/cover/smaller" width="120px"/>
 
-本书向您展示了如何构建强大的系统，并让您置身于现实世界中. 规模、性能和高可用性是我们项目的核心，贯穿本书的经验教训将为您提供构建世界级解决方案所需的一切.
+This book shows you how to build powerful systems and drops you into real-world situations. Scale, performance, and high availability lie at the heart of our projects, and the lessons learned throughout this book will arm you with everything you need to build world-class solutions.
 
 ### [Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
-  Go 编程汇集了评估 Go、用 Go 思考以及使用 Go 编写高性能软件所需的所有知识.  Summerfield 展示了多种习语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 一路上，他解释了从绝对基础知识到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+  Go 编程汇集了评估 Go、用 Go 思考以及使用 Go 编写高性能软件所需的所有知识.  Summerfield 展示了多种习语比较，准确地展示了 Go 是如何改进旧语言的，呼吁特别关注 Go 的关键创新. 一路上，他解释了从绝对基础知识到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -116,7 +116,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 以及广泛的应用.
 源代码可从本书的配套网站免费下载
 [gopl.io](http://gopl.io/),
-并且可以使用“go get”命令方便地获取、构建和安装.
+and may be conveniently fetched, built, and installed using the `go get` command.
 
 ### [Introducing Go: Build Reliable, Scalable Programs](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
 
@@ -271,10 +271,10 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 <a href="https://threedots.tech/go-with-the-domain/"><img src="https://threedots.tech/img/go-with-domain-cover-160-retina.jpg" width="120px"/></a>
 
 *Go with the Domain* 是一本关于构建以惯用方式解决复杂问题的 Go 应用程序的书.
-It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
+它采用领域驱动设计、简洁架构、CQRS（命令查询责任分离）和其他模式等技术.
 
 本书基于一个 [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
-章节通过项目的重构来展示常见的反模式以及如何避免它们.
+Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
 
@@ -346,9 +346,9 @@ Go 中的动手依赖注入采用务实的方法，重点关注代码、用户�
 
 <img src="https://static.packt-cdn.com/products/9781838554491/cover/smaller" width="120px"/>
 
-这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 您将被引导完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持对大型链接图进行高效的核外处理.
+这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 您将被引导完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，以支持大型链接图的高效核外处理.
 
-您将了解各种前沿和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包您的 Go 服务，并将它们自动部署到 Kubernetes 集群.
+您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包您的 Go 服务，并将它们自动部署到 Kubernetes 集群.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
 
@@ -399,7 +399,7 @@ code.
 
 Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
-通过这本书，您将学习如何编写更加惯用和高性能的代码，重点关注微观层面的工程决策.
+With this book, you will learn how to write more idiomatic and performant code with a focus on micro-level engineering decisions.
 
 这本笔记本旨在为课堂上提到的所有内容提供参考，就好像它们是您自己的个人笔记一样.
 
@@ -441,7 +441,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 <img src="https://learning.oreilly.com/library/cover/9781492076322/120w/" width="120px"/>
 
-What do Docker, Kubernetes, and Prometheus have in common? All of these cloud native technologies are written in the Go programming language.
+ Docker、Kubernetes 和 Prometheus 有什么共同点？ 所有这些云原生技术都是用 Go 编程语言编写的.
 这本实用的书向您展示了如何利用 Go 的优势开发可扩展和有弹性的云原生服务，即使在不可预测的环境中也是如此.
 您将探索这些应用程序的组成和构造，从 Go 的低级功能到中级设计模式再到高级架构考虑因素.
 
@@ -449,7 +449,7 @@ What do Docker, Kubernetes, and Prometheus have in common? All of these cloud na
 
 <img src="https://images.manning.com/360/480/resize/book/d/d1322d1-6dff-4475-9f70-fba20aef2281/Boring-OS-MEAP-HI.png" width="120px"/>
 
-通过使用 Go 和 Docker API 构建您自己的编排系统，深入了解 Kubernetes 和其他编排系统.
+Understand Kubernetes and other orchestration systems deeply by building your own using Go and the Docker API.
 
 像 Kubernetes 这样的编排系统协调其他软件子系统和服务来创建一个完整的有组织的系统. 尽管编排工具以复杂着称，但它们是围绕几个适用于软件开发许多方面的重要模式设计的. 在 Go 中构建编排器通过指导您使用 Go SDK 设计和实现自己的编排框架来揭示编排框架的内部工作原理. 在创建自己的编排框架时，您将加深对 Kubernetes 及其在分布式系统设计中的作用的理解. 当开箱即用的解决方案不适合时，您还将培养设计自定义编排解决方案所需的技能.
 
@@ -477,7 +477,7 @@ What do Docker, Kubernetes, and Prometheus have in common? All of these cloud na
 
  - 编写命令行应用程序
  - 编写 HTTP 服务和客户端
- - Writing RPC services and clients using gRPC
+ - 使用 gRPC 编写 RPC 服务和客户端
  - 为网络客户端和服务器编写中间件
  - 在云对象存储和 SQL 数据库中存储数据
  - 使用惯用技术测试您的应用程序
@@ -485,7 +485,7 @@ What do Docker, Kubernetes, and Prometheus have in common? All of these cloud na
  - 管理应用程序的配置数据
 
 您将学习使用以现代实践编写的实践示例来实施最佳实践. 专注于使用
-尽可能使用标准库包，实用围棋给你开发大型应用打下坚实的基础
+the standard library packages as far as possible, Practical Go will give you a solid foundation for developing large applications
 使用 Go 来充分利用该语言的生态系统.
 
 ### [Know Go: Generics](https://bitfieldconsulting.com/books/generics)
@@ -512,10 +512,18 @@ What do Docker, Kubernetes, and Prometheus have in common? All of these cloud na
 - 了解并发和并行之间的差异.
 - 识别并避免并发问题，例如死锁、饥饿、活锁和数据竞争.
 - 了解各种并发交互模式，并能够应用最适合手头问题的模式.
-- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多陷阱.
+- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多问题.
 - 能够使用 Go 的分析器、执行跟踪和基准测试工具诊断并发和性能问题.
 - 能够确定代码何时需要优化、什么需要优化以及如何优化.
 - 拥有可以快速应用于项目的并发和性能模式目录.
+
+### [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
+
+<a href="(https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
+
+使用 Golang 创建简单、可维护的系统来解决复杂的业务问题.
+
+领域驱动设计 (DDD) 是业界最抢手的技能之一. 本书为您提供了对基本概念和实际示例的逐步解释，您将很快在您的 Go 项目中引入 DDD. 使用 Golang 进行领域驱动设计首先帮助您对 DDD 有一个基本的了解，然后涵盖所有重要的模式，例如限界上下文、通用语言和聚合. 本书的后半部分涉及 DDD 模式的实际实现，并教你如何在应用 DDD 原则的同时构建两个系统，这将是对你的投资组合的宝贵补充. 最后，您将了解如何构建微服务，以及了解基于 DDD 的微服务如何成为更大的分布式系统的一部分. 尽管本书的重点是 Golang，但在本书结束时，您将能够自信地在 Go 之外使用 DDD 模式，并将它们应用于其他语言甚至分布式系统.
 
 **Web开发**
 ----
@@ -551,7 +559,7 @@ What do Docker, Kubernetes, and Prometheus have in common? All of these cloud na
 
 <img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
 
-Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
+ Go Web Programming 教您如何使用现代设计原则在 Go 中构建 Web 应用程序. 您将通过大量示例介绍处理请求和发送响应、模板引擎和数据持久性等核心概念. 您还将深入研究更高级的主题，例如并发性、Web 应用程序测试以及部署到准系统服务器和 PaaS 提供商.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796)
 
@@ -621,7 +629,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 
 <img src="https://pragprog.com/titles/tjgo/distributed-services-with-go/tjgo.jpg" width="120px"/>
 
-通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的最基本要素开始，通过客户端和服务器联网，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些将使您在日常工作或业余项目中的编码变得更容易、更快和更有趣.
+通过学习如何设计、开发和部署分布式服务，将您的 Go 技能提升到一个新的水平. 从存储处理的基本要素开始，通过客户端和服务器的网络工作，将单节点应用程序转变为具有服务发现和共识的分布式系统，然后将您的服务部署到云中. 所有这些将使您在日常工作或业余项目中的编码变得更容易、更快和更有趣.
 
 ### [Build Systems with Go: Everything a Gopher Must Know](https://www.amazon.com/dp/B091FX4CZX)
 
@@ -649,7 +657,7 @@ Go Web Programming teaches you how to build web applications in Go using modern 
 您将学习如何使用 GoLang 生成 WebAssembly 应用程序，以及如何在浏览器中和浏览器外运行 WebAssembly.
 
 这本电子书包含 23 个完整的方法以及重现这些方法所需的代码示例：
-- Wasm & Go in your browser
+- 在您的浏览器中使用 Wasm &amp; Go
 - 使用 Node.js 的 Wasm 和 Go
 - WasmEdge &amp; Go
 - 云中的 wasm：你知道 Atmo 吗？

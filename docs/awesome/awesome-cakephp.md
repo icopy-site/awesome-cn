@@ -282,6 +282,7 @@
 ## REST and API
 *用于开发 REST-ful API 的插件和网络工具.*
 
+- ：草莓： [CRUD plugin](https://github.com/FriendsOfCake/crud) - 类固醇的 CakePHP 应用程序开发 - 快速原型制作/脚手架和生产就绪代码.
 - ：草莓： [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - 使用 swagger-php 和 swagger-ui 的 CakePHP API 的 Swagger 2.0 文档.
 - [Alt3/ValidationExposer plugin](https://github.com/alt3/cakephp-validation-exposer) - 轻松公开您的应用程序的验证规则.
 - [ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) - 将来自 CakePHP 分页器的分页信息注入到序列化的 JsonView 和 XmlView 响应中.
@@ -328,7 +329,6 @@
 *围绕应用程序骨架的插件和存储库.*
 
 - ：草莓： [App template](https://github.com/cakephp/app) - 与作曲家一起使用的空 CakePHP 项目.
-- ：草莓： [Crud plugin](https://github.com/FriendsOfCake/crud) - 类固醇的 CakePHP 应用程序开发 - 快速原型制作/脚手架和生产就绪代码.
 - ：草莓： [MixerApi/Bake](https://github.com/mixerapi/bake) - 用于生成 RESTful 控制器的烘焙主题.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) - 创建 Cake3 插件的框架示例.
 

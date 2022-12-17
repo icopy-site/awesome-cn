@@ -145,7 +145,6 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息以及指向其他资源和字体的链接.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代矢量字体的 .fnt 格式. 包括对字体原始数据格式的良好概述.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - Hershey 字体的 C 库和原始字体数据.
-- [OneLineFonts.com](https://www.onelinefonts.com) - 商业网站提供一些可供购买的单行字体.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - SVG 格式的单行字体，主要用于 [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape 插件.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - 基于浏览器的 Hershey Text 工具，可导出为 SVG.
 
@@ -243,7 +242,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（到目前为止，在旧金山和纽约），有演讲和策划艺术画廊.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 具有活跃社区的 Discord 论坛.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 拥有活跃社区的 Discord 论坛.
 - [PlotterFiles](https://plotterfiles.com/) - 为绘图仪共享 SVG 文件的社区.
 - #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 

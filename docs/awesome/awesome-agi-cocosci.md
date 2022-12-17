@@ -1231,7 +1231,7 @@
 * [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***心理科学***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784&hl=en&as_sdt=0,5)].
 
 
-<span id = "caus"></span>
+
 ### Causality
 
 * [Causality](https://en.wikipedia.org/wiki/Causality)  - ***维基百科***. 关于因果关系的维基百科，这是一个事件、过程、状态或对象（原因）对另一个事件、过程、状态或对象（结果）的产生的影响，其中原因对结果负部分责任，效果部分取决于原因.

@@ -31,7 +31,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于对图形结构化数据进行采样的库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动机器学习 python 库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动化机器学习 python 库.
 * [AutoGluon](https://github.com/awslabs/autogluon) - 用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 ### Ensemble Methods
@@ -51,13 +51,13 @@
 ## Deep Learning
 
 ### PyTorch
-* [PyToune](https://github.com/GRAAL-Research/pytoune) - 用于 PyTorch 的类似 Keras 的框架和实用程序.
 
 ### TensorFlow
 
 ### MXNet
 
 ### Others
+* [jax](https://github.com/google/jax) - Python+NumPy 程序的可组合转换：微分、矢量化、JIT 到 GPU/TPU 等.
 * [Tangent](https://github.com/google/tangent) - 纯 Python 中的源到源可调试派生.
 * [autograd](https://github.com/HIPS/autograd) - 高效计算 numpy 代码的导数.
 * [Myia](https://github.com/mila-udem/myia) - 深度学习框架（pre-alpha）.
@@ -84,6 +84,8 @@
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - 一个可以轻松编写你自己的 Pandas 风格的包.
 * [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - 允许提供有关基本 pandas 操作的反馈并发现业务逻辑和性能问题的软件包.
 * [vaex](https://github.com/vaexio/vaex) - 用于 Python、ML 的核外数据帧，以每秒十亿行的速度可视化和探索大表格数据.
+* [xarray](https://github.com/pydata/xarray) - Xarray 结合了 NumPy 和 pandas 的最佳特性，用于多维数据选择，通过用命名维度补充数值轴标签，实现更直观、简洁和不易出错的索引例程.
+
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - 熊猫数据帧的 Sasy 管道.
@@ -91,11 +93,15 @@
 * [Dataset](https://github.com/analysiscenter/dataset) - 帮助您方便地处理随机或顺序批次的数据并定义数据处理.
 * [meza](https://github.com/reubano/meza) - 用于处理表格数据的 Python 工具包.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - 为数据科学管道构建系统.
+* [Hamilton](https://github.com/stitchfix/hamilton) - 用于数据帧生成的微框架，它应用由延迟评估的 Python 函数流指定的有向无环图.
 
 ### Data-centric AI
 * [cleanlab](https://github.com/cleanlab/cleanlab) - 标准的以数据为中心的 AI 包，用于数据质量和机器学习，具有混乱的真实世界数据和标签. 
 * [snorkel](https://github.com/snorkel-team/snorkel) - 一种在弱监督下快速生成训练数据的系统.
 * [dataprep](https://github.com/sfu-db/dataprep) - 使用几行代码在 Python 中收集、清理和可视化您的数据.
+
+### Synthetic Data
+
 
 ## Feature Engineering
 
@@ -109,7 +115,7 @@
 ### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - 用 Python 绘图.
 * [seaborn](https://github.com/mwaskom/seaborn) - 使用 matplotlib 的统计数据可视化.
-* [prettyplotlib](https://github.com/olgabot/prettyplotlib) - 轻松创建漂亮的 matplotlib 图.
+* [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
 * [python-ternary](https://github.com/marcharper/python-ternary) - 带有 matplotlib 的 python 的三元绘图库.
 * [missingno](https://github.com/ResidentMario/missingno) - 缺少 Python 的数据可视化模块.
 * [chartify](https://github.com/spotify/chartify/) - Python 库，可让数据科学家轻松创建图表.
@@ -126,7 +132,7 @@
 ### Automatic Plotting
 * [HoloViews](https://github.com/ioam/holoviews) - 停止绘制您的数据 - 注释您的数据并让它可视化.
 * [AutoViz](https://github.com/AutoViML/AutoViz)：用 1 行代码自动可视化数据（非常适合机器学习）
-* [SweetViz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+* [SweetViz](https://github.com/fbdesignpro/sweetviz)：使用一行代码可视化和比较数据集、目标值和关联.
 
 ### NLP
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis)：可视化交互式主题模型
@@ -134,12 +140,13 @@
 
 ## Deployment
 * [datapane](https://datapane.com/) - 将脚本和笔记本转换为交互式报告的 API 集合.
-* [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
+* [binder](https://mybinder.org/) - 启用共享和执行 Jupyter 笔记本
 * [fastapi](https://fastapi.tiangolo.com/) - 用于使用 Python 构建 API 的现代、快速（高性能）Web 框架
 * [streamlit](https://www.streamlit.io/) - 轻松部署机器学习模型
 
 
 ## Model Explanation
+
 * [Shapley](https://github.com/benedekrozemberczki/shapley) - 一个数据驱动的框架，用于量化机器学习集成中分类器的价值. 
 * [Alibi](https://github.com/SeldonIO/alibi) - 用于监控和解释机器学习模型的算法.
 * [anchor](https://github.com/marcotcr/anchor) - “高精度模型不可知论解释”论文的代码.
@@ -196,6 +203,7 @@
 * [POT](https://github.com/rflamary/POT) - Python 最佳传输库.
 * [Talos](https://github.com/autonomio/talos) - Keras 模型的超参数优化.
 * [nlopt](https://github.com/stevengj/nlopt) - 非线性优化库（全局和局部，受约束或不受约束）.
+* [OR-Tools](https://developers.google.com/optimization)  - 由谷歌优化的开源软件套件； 为六个求解器提供统一的编程接口：SCIP、GLPK、GLOP、CP-SAT、CPLEX 和 Gurobi.
 
 ## Time Series
 * [darts](https://github.com/unit8co/darts) - 一个用于轻松操作和预测时间序列的 python 库.
@@ -215,7 +223,6 @@
 * [NLTK](https://github.com/nltk/nltk) - 支持自然语言处理研究和开发的模块、数据集和教程.
 * [CLTK](https://github.com/cltk/cltk) - 经典语言工具包.
 * [gensim](https://radimrehurek.com/gensim/) - 人类主题建模.
-* [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) - 自然语言处理工具包.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) -<a href="https://github.com/morfologik/morfologik-stemming">形态学</a>的 Python 绑定.
 * [Phonemizer](https://github.com/bootphon/phonemizer) - 多种语言的简单文本到音素转换器.
 * [flair](https://github.com/zalandoresearch/flair) - 最先进的 NLP 的非常简单的框架.
@@ -254,11 +261,15 @@
 * [Distributed](https://github.com/dask/distributed) - Python 中的分布式计算.
 
 ## Experimentation
+* [mlflow](https://github.com/mlflow/mlflow) - 机器学习生命周期的开源平台.
+* [Neptune](https://neptune.ai) - 轻量级 ML 实验跟踪、结果可视化和管理工具.
+* [dvc](https://github.com/iterative/dvc)  - 数据版本控制 | 用于数据和模型的 Git | 机器学习实验管理.
 * [envd](https://github.com/tensorchord/envd) - ️ 数据科学和 AI/ML 工程团队的机器学习开发环境.
 * [Sacred](https://github.com/IDSIA/sacred) - 一个帮助您配置、组织、记录和重现实验的工具.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - 一个基于 Web 的应用程序，用于快速、可扩展和自动化的超参数调整和堆叠集成.
 * [Persimmon](https://github.com/AlvarBer/Persimmon) - 一种用于 sklearn 的可视化数据流编程语言.
 * [Neptune](https://neptune.ai) - 轻量级 ML 实验跟踪、结果可视化和管理工具.
+
 
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - 用于评估推荐系统的有用指标和图表库.
@@ -273,17 +284,20 @@
 * [numdifftools](https://github.com/pbrod/numdifftools) - 解决一个或多个变量的自动数值微分问题.
 * [quaternion](https://github.com/moble/quaternion) - 为 numpy 添加对四元数的内置支持.
 * [adaptive](https://github.com/python-adaptive/adaptive) - 数学函数的自适应和并行采样工具.
+* [NumExpr](https://github.com/pydata/numexpr) - NumPy 的快速数值表达式求值器，带有集成计算虚拟机，可通过避免为中间结果分配内存来加快计算速度.
 
 ## Spatial Analysis
 * [PySal](https://github.com/pysal/pysal) - Python 空间分析库.
 
 ## Quantum Computing
+* [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/Qiskit/qiskit) - Qiskit 是一个开源 SDK，用于在电路、算法和应用程序模块级别与量子计算机配合使用.
+* [cirq](https://github.com/quantumlib/Cirq) - 用于创建、编辑和调用噪声中级量子 (NISQ) 电路的 python 框架. 
 * [PennyLane](https://github.com/XanaduAI/pennylane) - 量子机器学习、自动微分和混合量子经典计算的优化.
 * [QML](https://github.com/qmlcode/qml) - 用于量子机器学习的 Python 工具包.
 
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估计器转换为 C、Java、JavaScript 和其他语言.
-* [ONNX](https://github.com/onnx/onnx) - 打开神经网络交换.
+* [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) - 一组帮助用户在不同深度学习框架之间进行互操作的工具.
 
 ## Related Resources

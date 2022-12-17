@@ -232,7 +232,7 @@
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能协作.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - 允许业务专业人员自行解决他们的需求，几乎不需要编码技能.
-- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - 用于构建 Web Native 应用程序的跨平台开源运行时.
+- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - 面向开发人员的地图和位置分析平台.
 
 ## Programming Languages
@@ -379,7 +379,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -591,6 +591,7 @@
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - 逻辑数据库，将庞大而复杂的数据网络组织为一个知识体系.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - 开源、分布式、宽列存储、NoSQL 数据库管理系统.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - 具有高性能、可扩展性和 SQL 支持的开源时间序列数据库.
+- [Supabase](https://github.com/lyqht/awesome-supabase#readme) - Firebase 的开源替代品.
 
 ## Media
 
@@ -638,7 +639,7 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在引诱攻击者尝试破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的艺术.
 - [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统中安全漏洞的个人群体.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 涉及提供伪随机生成的输入数据的自动化软件测试技术.
@@ -687,6 +688,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
 
 ## Work
 
