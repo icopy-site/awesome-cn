@@ -27,6 +27,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [csuuid](https://github.com/wyhaines/csuuid.cr) - 按时间顺序排序的 UUID
  * [edits.cr](https://github.com/tcrouch/edits.cr) - 编辑距离算法集合
  * [fzy](https://github.com/hugopl/fzy) - 很棒的 Fzy 项目模糊查找器算法的水晶端口
+ * [Goban](https://github.com/soya-daizu/goban) - 快速高效的二维码实施
  * [graphlb](https://github.com/mettuaditya/graphlb) - 图形数据结构和算法的集合
  * [haversine](https://github.com/geocrystal/haversine) - Haversine 公式的实现
  * [kd_tree](https://github.com/geocrystal/kd_tree) - “K-维树”和“N-最近邻”的实现
@@ -34,7 +35,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [markov](https://github.com/mccallofthewild/markov) - 构建马尔可夫链并运行马尔可夫过程
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - 多重集的实现
  * [qr-code](https://github.com/spider-gazelle/qr-code) - 二维码生成器
- * [radix](https://github.com/luislavena/radix) - Radix Tree implementation
+ * [radix](https://github.com/luislavena/radix) - 基数树实现
  * [s2_cells](https://github.com/spider-gazelle/s2_cells) - [S2 Geometry](https://s2geometry.io/devguide/s2cell_hierarchy.html) 用于空间索引
  * [secure-remote-password](https://github.com/spider-gazelle/secure-remote-password) - 用于在不安全网络上进行身份验证的 SRP-6a 协议
  * [splay_tree_map](https://github.com/wyhaines/splay_tree_map.cr) - 符合Hash ducktype的Splay Tree实现
@@ -164,7 +165,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` 用于 `pp` 风格调试的宏
 
 ## Dependency Injection
- * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
+ * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - 健壮的依赖注入服务容器框架
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - 轻量级 DI 容器
  * [HardWire](https://github.com/jerometwell/hardwire) - 编译时非侵入式依赖注入系统
  * [syringe](https://github.com/Bonemind/syringe) - 一个简单而基本的水晶依赖注入碎片
@@ -263,7 +264,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Rosetta](https://github.com/wout/rosetta) - 一个快速国际化 (i18n) 库，具有支持 YAML 和 JSON 格式的编译时密钥查找
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
+ * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
  * [fiber_metrics.cr](https://github.com/didactic-drunk/fiber_metrics.cr) - 跟踪每个“Fiber”、方法或块的运行时间、等待时间或内存分配
  * [Log](https://crystal-lang.org/api/Log.html) - 日志实用程序（Crystal stdlib）
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) 客户端库
@@ -286,7 +287,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - 富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) - 信号/槽通知库
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Crystal 的 Web 框架，在 Github 上获得最多的关注
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [defined](https://github.com/wyhaines/defined.cr) - 用于根据常量定义、版本要求或环境变量设置进行条件编译的宏
@@ -373,8 +374,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [alea](https://github.com/nin93/alea) - 可重复抽样、CDF 和其他用于处理概率分布的实用程序
  * [ishi](https://github.com/toddsundsted/ishi) - 具有小型 API 和由 gnuplot 提供支持的合理默认值的图形绘图包
  * [linalg](https://github.com/konovod/linalg) - 受 MATLAB 和 SciPy.linalg 启发的线性代数库
- * [num.cr](https://github.com/crystal-data/num.cr) - 支持N维数据的数值计算库
- * [predict.cr](https://github.com/RX14/predict.cr) - 使用sgp4模型的卫星预测库
+ * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+ * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [quartz](https://github.com/RomainFranceschini/quartz) - 建模和仿真框架
 
 ## Search
@@ -452,7 +453,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且有凝聚力的 Web 应用程序框架
- * [Athena](https://github.com/athena-framework/athena) - 由可重复使用的独立组件组成的网络框架
+ * [Athena](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
  * [grip](https://github.com/grip-framework/grip) - 用于编写功能强大的 Web 应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  - 快如闪电，超级简单的网络框架. 灵感来自 Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上而不是调试和编写测试
@@ -505,7 +506,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [icr](https://github.com/crystal-community/icr) - Crystal 的交互式控制台（如 Ruby 的 IRB）
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
