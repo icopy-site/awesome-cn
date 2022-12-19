@@ -1,16 +1,17 @@
 <div class="github-widget" data-repo="mateusortiz/webcomponents-the-right-way"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Web Components the Right Way
+## Awesome Web Components
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 精选的 Web 组件资源列表.
+很棒的 Web 组件资源的精选列表.
+
+&gt; **注意**
+&gt; 这个项目之前被命名为“Web Components the Right Way”
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — 一套不同的技术，允许您创建可重用的自定义元素——将它们的功能封装在其余代码之外——并在您的 Web 应用程序中使用它们.
 
 
-
-&gt; Web Components the Right Way 是用爱制作 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Introduction
 
@@ -122,7 +123,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [generic-components](https://github.com/thepassle/generic-components) - 专注于可访问性和易用性的通用 Web 组件集合.
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) - 实现常见 Web UI 模式的 Web 组件集合.
 - [Nude UI](https://github.com/LeaVerou/nudeui) - 可访问、可自定义、超轻型 Web 组件的集合.
-- [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - 收集用于开发 Web 组件的最佳实践和设计模式.
+- [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - Collection of best practices and design patterns for developing web components.
 - [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - HTML 弃用标签的 Vanilla JS UI 组件库.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - 一系列网络组件示例，与 MDN 网络组件文档相关.
 
@@ -208,6 +209,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [`<range-slider>`](https://github.com/andreruffert/range-slider-element) - 具有键盘支持的可访问范围滑块自定义元素.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - 用于根据 OpenAPI 规范创建文档的 Web 组件.
 - [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - 用于编写和渲染着色器的 Web 组件.
+- [`<theme-switch>`](https://github.com/mahozad/theme-switch) - 动画切换按钮可在浅色、深色和系统主题之间切换.
 - [`<trix-editor>`](https://github.com/basecamp/trix) - 用于日常写作的富文本编辑器自定义元素.
 - [`<vime-player>`](https://github.com/vime-js/vime) - 可定制、可扩展、可访问且与框架无关的媒体播放器.
 - [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - 带来 [web vitals](https://github.com/GoogleChrome/web-vitals) 使用自定义元素快速进入您的页面.
@@ -268,7 +270,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Calcite Components](https://github.com/Esri/calcite-components) - Esri 方解石设计框架的共享 Web 组件.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Web 组件之上的 Carbon Design System 变体.
 - [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - 来自 Clarity Design System 的网络组件套件.
-- [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+- [Crayons](https://github.com/freshdesk/crayons) - 符合 Freshworks 设计系统的网络组件集合.
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - 基于 FAST 设计语言的 Web 组件库.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - 支持 Microsoft Fluent 设计语言的 Web 组件库.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - 遵循 Forge 设计系统的 Web 组件库.
@@ -742,11 +744,11 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
   <tbody>
 </table>
 
+## Maintainers
+
+- 由...制作 [@mateusortiz](https://github.com/mateusortiz) 2014年.
+- 由维护 [@web-padawan](https://github.com/web-padawan) 自 2018 年以来.
+
 ## License
 
-版权所有 2014-2018，保留所有权利.
-
-获得许可的代码：
-[MIT license](http://mateusortiz.mit-license.org)
-
-@作者马特乌斯奥尔蒂斯<mteusortiz@gmail.com>
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

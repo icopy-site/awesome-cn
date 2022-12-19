@@ -134,7 +134,7 @@
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir 是一种 Ruby DSL，它使序列化和缓存对象变得轻而易举.
 * [Readthis](https://github.com/sorentwo/readthis) - 使用 Redis 的高性能、池化、ActiveSupport 兼容缓存.
 * [Record Cache](https://github.com/orslumen/record-cache) - 在 Rails 3 中缓存活动模型记录.
-* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及名称空间.
+* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及命名空间.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) - ActiveRecord 4 的直写和直读缓存库.
 
 ## Captchas and anti-spam
@@ -166,7 +166,7 @@
 * [Awesome Print](https://github.com/awesome-print/awesome_print) - 漂亮地打印你的 Ruby 对象的风格——全彩色和适当的缩进
 * [Betty](https://github.com/pickhardt/betty)  - 友好的类似英语的命令行界面. 不记得一个命令？ 问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加带有方法的 ColorizedString 来设置文本颜色、背景颜色和文本效果.
-* [colorls](https://github.com/athityakumar/colorls) - 美化了 ls 命令，颜色和字体很棒的图标.
+* [colorls](https://github.com/athityakumar/colorls) - 美化了 ls 命令，带有颜色和字体很棒的图标.
 * [formatador](https://github.com/geemus/formatador) - STDOUT 文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置 ANSI 终端颜色的简单快速的方法.
 * [Pastel](https://github.com/peter-murach/pastel) - 具有直观和干净的 API 的终端输出样式.
@@ -350,7 +350,7 @@
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner 是一组用于在 Ruby 中清理数据库的策略.
 * [Database Consistency](https://github.com/djezzzl/database_consistency) - 检查应用程序约束和数据库约束是否同步的简单方法.
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - 将外键助手添加到迁移并将外键正确转储到 schema.rb.
-* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 模式迁移.
+* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 架构迁移.
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描您的模型并显示可能应该编制索引的列列表.
 * [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的真实世界数据.
 * [PgHero](https://github.com/ankane/pghero) - Postgres 见解变得简单.
@@ -394,7 +394,7 @@
 * [pry-rails](https://github.com/rweng/pry-rails)  - 避免重复自己，使用 pry-rails 而不是将初始化程序复制到每个 rails 项目. 这是一个小宝石，它会导致 Rails 控制台打开撬. 因此，它取决于撬.
 * [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) - 显示文件中每一行代码的结果.
 * [tapping_device](https://github.com/st0012/tapping_device) - 一种允许您从对象的角度检查您的程序的工具.
-* [Xray](https://github.com/brentd/xray-rails) - A development tool that reveals your UI's bones.
+* [Xray](https://github.com/brentd/xray-rails) - 揭示用户界面骨架的开发工具.
 
 ## Decorators
 
@@ -471,7 +471,7 @@
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - 一个 Rails 电子商务平台.
 * [Solidus](https://github.com/solidusio/solidus) - 面向大批量零售商的开源电子商务应用程序.
 * [Spree](https://github.com/spree/spree) - Spree 是 Ruby on Rails 的完整开源电子商务解决方案.
-* [SquareConnect](https://github.com/square/connect-ruby-sdk) - Square 用于支付和其他 Square API 的 SDK.
+* [SquareConnect](https://github.com/square/connect-ruby-sdk) - 用于支付和其他 Square API 的 Square SDK.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - 条纹 Ruby 绑定.
 * [Workarea](https://github.com/workarea-commerce/workarea) - 一个可扩展的高性能电子商务平台，受到一些世界顶级零售商的依赖.
 
@@ -769,7 +769,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -1069,6 +1069,7 @@
 * [Discourse](https://github.com/discourse/discourse)  - 社区讨论的平台. 免费、开放、简单.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - 用于 Rails 应用程序的私人消息系统.
 * [Mastodon](https://github.com/Gargron/mastodon) - 与 GNU 社交兼容的微博服务器.
+* [Retrospring](https://github.com/Retrospring/retrospring) - 遵循 Q/A（问答）原则的社交网络.
 * [Social Shares](https://github.com/Timrael/social_shares) - 一个 gem 来检查 url 在社交网络中被共享了多少次.
 * [Thredded](https://github.com/thredded/thredded)  - Rails 4.2+ 论坛/留言板引擎. 它的目标是尽可能简单和功能丰富.
 
@@ -1132,7 +1133,7 @@
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
   * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
-* 假数据
+* Fake Data
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
   * [factory_bot](https://github.com/thoughtbot/factory_bot) - 用于将 Ruby 对象设置为测试数据的库.
   * [Fake Person](https://github.com/adamcooke/fake-person) - 使用美国和英国一些最流行的名字和姓氏.
@@ -1147,9 +1148,9 @@
   * [TestXml](https://github.com/alovak/test_xml) - TestXml 是一个用于测试 XML/HTML 的小扩展.
   * [WebMock](https://github.com/bblimke/webmock) - 用于对 HTTP 请求进行存根和设置期望的库.
 * 网络驱动程序
-  * [Selenium WebDriver](https://github.com/SeleniumHQ/selenium/tree/master/rb) - WebDriver 的 Ruby 绑定.
-  * [API Taster](https://github.com/fredwu/api_taster) - 一种快速简便的可视化测试 Rails 应用程序 API 的方法.
+  * [Ferrum](https://github.com/rubycdp/ferrum) - 在 Ruby 中控制 Chrome 的高级 API.
   * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - 水豚的 PhantomJS 驱动程序.
+  * [Selenium WebDriver](https://github.com/SeleniumHQ/selenium/tree/master/rb) - WebDriver 的 Ruby 绑定.
   * [Watir](https://github.com/watir/watir/) - Ruby 中的 Web 应用程序测试.
 * 额外
   * [Appraisal](https://github.com/thoughtbot/appraisal) - Appraisal 与 bundler 和 rake 集成，以针对不同版本的依赖项测试您的库.

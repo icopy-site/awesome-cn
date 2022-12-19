@@ -21,7 +21,7 @@
 
 OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 它不仅仅是为了职业培训或专业发展.
-It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
+它适用于那些想要对所有计算学科的基础概念有一个适当的、*全面的*基础的人，
 对于那些有纪律、意志和（最重要的！）良好习惯的人来说，他们主要靠自己获得这种教育，
 但在全球学习者社区的支持下.
 
@@ -38,7 +38,7 @@ It's for those who want a proper, *well-rounded* grounding in concepts fundament
 
 当没有课程符合上述标准时，课程作业将辅以一本书.
 当有课程或书籍不适合课程但质量很高时，
-他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 或者 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
+他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 要么 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
 
  **组织**. 课程设计如下：
 - *Intro CS*：让学生尝试 CS，看看它是否适合他们
@@ -104,7 +104,7 @@ It's for those who want a proper, *well-rounded* grounding in concepts fundament
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学的世界. 通过上述课程或通过在其他地方学习而接触到编程的学生应该学习这门课程，以便对即将到来的材料有所了解. 如果您完成课程后想要更多，计算机科学很可能适合您！
+本课程将向您介绍计算机科学的世界. 通过上述课程或通过在其他地方学习而接触过编程的学生应该学习这门课程，以便对即将到来的材料有所了解. 如果您完成课程后想要更多，计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -201,7 +201,7 @@ It's for those who want a proper, *well-rounded* grounding in concepts fundament
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/) ) |  6 周 |  7-13 小时/周 |  - | 类C编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6 周 |  12-18 小时/周 |  - | 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), 从 Nand 到俄罗斯方块第一部分 | [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)  |  10-12 周 |  6-10 小时/周 |  - | [strong C programming](/https://github.com/ossu/computer-science/blob/masterhttps://github.com/ossu/computer-science/blob/master//coursepages/ostep/README.md#prerequisites) | [chat](https://discord.gg/wZNgpep)
+[Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md)  |  10-12 周 |  6-10 小时/周 |  - |  Nand 到俄罗斯方块第二部分 | [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |  8 周 |  4–12 小时/周 | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php)  | 代数、概率、基础CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
@@ -302,10 +302,10 @@ It's for those who want a proper, *well-rounded* grounding in concepts fundament
 **涵盖的主题**：
 `调试理论与实践`
 `面向目标的编程`
-`并行计算`
+`parallel computing`
 `面向对象的分析与设计`
 `UML`
-`大型软件架构与设计`
+`大型软件架构和设计`
 `还有更多`
 
 课程 | 持续时间 | 努力 | 先决条件
@@ -484,7 +484,7 @@ or
 那些带有“Section”标签的卡片只是为了帮助组织 Done 列.
 您应该将*课程的卡片*放在其各自的*部门的卡片*下方.
 
-该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们进步的能力.
+这个板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们进步的能力.
 您可以将看板的状态更改为 *public* 或 *private*.
 
 ## Team

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg)](https://github.com/manuzhang/awesome-streaming/actions)
 
-A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 框架、应用程序、阅读材料和其他资源. 灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
+精选清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 框架、应用程序、阅读材料和其他资源. 灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
 
 ## Website
 
@@ -26,7 +26,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java] - 一个通用的分布式数据处理引擎，建立在 Hazelcast 之上.
 - [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell] - 基于 Storm 的具有精确一次语义的分布式流处理.
 - [Maki Nage](https://github.com/maki-nage/makinage) [Python] - 基于 Kafka 和 ReactiveX 的数据科学家流处理框架.
-- [mantis](https://github.com/Netflix/mantis) [Java] - Netflix's platform to build an ecosystem of realtime stream processing applications
+- [mantis](https://github.com/Netflix/mantis) [Java] - Netflix 构建实时流处理应用生态系统的平台
 - [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala/Java] - 用于处理快速/流数据的 mapReduce 风格的框架.
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure] - 分布式、无主、高性能、容错数据处理.
 - [s4](https://github.com/apache/incubator-s4) [Java] - 通用、分布式、可伸缩、容错、可插入的平台，允许程序员轻松开发用于处理连续无界数据流的应用程序.
@@ -39,7 +39,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Trill](https://github.com/Microsoft/trill) [.NET/C#] - Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research.
 - [Wallaroo](https://github.com/WallarooLabs/wallaroo)  [Python] - 一个快速的流处理框架.  Wallaroo 使实时对数据做出反应变得容易. 通过消除基础设施的复杂性，从原型到生产变得前所未有的简单.
 - [LightSaber](https://github.com/lsds/LightSaber)  [C++] - 多核基于窗口的流处理引擎.  LightSaber 使用代码生成来实现高效的窗口聚合.
-- [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - 为物联网数据存储和实时处理而构建的流式数据库.
+- [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - The streaming database built for IoT data storage and real-time processing.
 - [Kuiper](https://github.com/emqx/kuiper) [Golang] - 由 Golang 实现的边缘轻量级物联网数据分析/流媒体软件，可以在各种资源受限的边缘设备上运行.
 - [WindFlow](https://paragroup.github.io/WindFlow) [C++] - 用于多核和 GPU 的 C++17 数据流处理并行库
 
@@ -62,16 +62,17 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - 用于 Java 的完全可嵌入的数据流引擎和流处理 API.
 - [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 python 库. 支持使用模仿复杂事件处理器的 python 生成器构建的同步、反应式数据流，以及延迟评估的非循环图和函数式 currying 流.
 - [YoMo](https://github.com/yomorun/yomo)  [Go] - 用于构建低延迟地理分布式系统的开源流式无服务器框架.  YoMo 建立在 [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) 和功能反应式编程接口. 
+- [Mediapipe](https://github.com/google/mediapipe) - 适用于直播和流媒体的跨平台、可定制的 ML 解决方案.
 
 ### Streaming Application
 
-- [straw](https://github.com/rwalk/straw) [Python/Java] - 实时流式搜索平台.
+- [straw](https://github.com/rwalk/straw) [Python/Java] - A platform for real-time streaming search.
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) [Java] - 基于 Apache Storm 的网络爬虫 SDK.
 
 ### IoT
 
 - [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - 用于物联网的轻量级流处理引擎.
-- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，支持在网关和边缘设备上进行连续流分析，这些设备可以与集中式系统一起工作，以在整个物联网生态系统中提供高效及时的分析：从中心到边缘，由 IBM 开源.
+- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，支持在网关和边缘设备上进行连续流分析，可以与集中式系统一起工作，在整个物联网生态系统中提供高效及时的分析：从中心到边缘，由 IBM 开源.
 - [Apache StreamPipes](https://github.com/apache/incubator-streampipes) [Java] - 一个自助服务（工业）IoT 工具箱，使非技术用户能够连接、分析和探索 IoT 数据流.
 
 ### DSL
@@ -147,7 +148,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  [Python/Java/Scala] - 分布式处理和实时分析平台. 提供开箱即用的高级分析工具包，如地理空间、时间序列等.
 - [jubatus](http://jubat.us/en/) [C++] - 分布式处理框架和流式机器学习库.
 - [millwheel](http://research.google.com/pubs/pub41378.html) - 构建谷歌广泛使用的低延迟数据处理应用程序的框架.
-
+- [NVIDIA Deep Stream](https://developer.nvidia.com/deepstream-sdk) [Python/C/C++] - 实时图像、视频和音频处理平台，最好在边缘设备或云端使用.
 
 ### Readings
 
