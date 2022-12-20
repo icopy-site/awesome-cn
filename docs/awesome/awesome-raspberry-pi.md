@@ -120,6 +120,7 @@
 - [Raspberry Pi Imager](https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/) - 一种将 Raspberry Pi OS 和其他操作系统安装到 SD 卡的简单方法，可以与您的 Raspberry Pi 一起使用
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  - 在 Raspbian 上启动 QEMU 的简单工具，对系统和内核进行必要的修改. 自动网络访问. 方便地在您的 PC 中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 将 Raspberry Pi 的 wlan0 接口桥接到通过以太网 (eth0) 插入其中的设备的简单应用程序/repo.
+- [rpi-cookstrap](https://github.com/heeplr/rpi-cookstrap) - 一个轻量级的、基于插件的 bakery shell 脚本框架，用于自定义、引导和提供 raspberry pi OS 磁盘映像.
 - [sdm](https://github.com/gitbls/sdm)  - 轻松且完全自定义 RasPiOS 图像. 安装应用程序、配置设置等，然后从单个映像为许多不同的系统刻录 SSD/SD 卡，每个系统都会启动完全配置并准备好工作. 或者玩.
 - [stressberry](https://github.com/nschloe/stressberry) - 对您的 Raspberry Pi 进行压力测试并绘制温度图.
 - [TorTiPi](https://github.com/r0hi7/tortipi) - 用于自动将 Raspberry Pi 转换为基于 tor 的 wifi 热点的任务的 Shell 脚本.
@@ -169,7 +170,7 @@
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - 捕获图像，与谷歌物联网云平台生态系统集成.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - 基于RFID的支付模块.
 - [Pi-hole](https://pi-hole.net/) - 互联网广告的黑洞.
-- [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP，通过 Web UI 或 VNC 使用全高清视频、鼠标、虚拟驱动器、IPMI、局域网唤醒和许多其他功能管理远程计算机.
+- [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - 来自 Rclone 远程存储服务等的远程无头多功能 PiCamera 操作.
 - [Pi4j Project](http://pi4j.com) - Raspberry Pi 的 Java I/O 库.
 - [PiAware](https://uk.flightaware.com/adsb/piaware/install) - 使用 Raspberry Pi 进行实时航班跟踪.
@@ -221,8 +222,8 @@
 - **家庭远程控制** - 控制鼠标/键盘、音量、管理下载/上传文件、自定义命令、终端、执行未来任务、控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi Check** - 检查 Pi 统计数据 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，查看来自连接的摄像头的图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
-- **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容，播放本地媒体文件，在您的 Raspberry Pi 上播放播放列表（m3u，请）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的摄像头查看图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
+- **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放来自播放列表（m3u，请）的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 - **Termius** - Pi 最干净的 SSH 客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
@@ -238,7 +239,7 @@
 
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - 有关为 pi 供电的不同和正确方法的信息.
 - [10 Years of Raspberry Pi](https://kandi.openweaver.com/collections/educational-service-providers/10-years-of-raspberry-pi) - Raspberry Pi 10 年系列，展示了爱好者用例、家庭自动化、物联网、操作系统和实用程序中最受欢迎的库.
-- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+- [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - 包含常见问题和陷阱链接的综合列表.
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - 介绍 Raspberry Pi 以及它可以做什么.
 - [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - 为初学者设置 Raspberry Pi 的指南.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf)  - 有关 Pi ie 安全最佳实践的广泛指南. 暴露在互联网上.

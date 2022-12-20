@@ -184,6 +184,7 @@
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - deeplearning-biology repo 中的化学信息学和药物发现部分.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - 另一个列表侧重于与化学相关的 Python 内容.
 * [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) - 用于小分子药物发现的机器学习的论文、数据集和其他资源列表.
+* [awesome-molecular-docking](https://github.com/yangnianzu0515/awesome-molecular-docking) - 分子对接软件、数据集和其他密切相关资源的精选列表.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 ＊[Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 

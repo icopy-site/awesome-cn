@@ -28,6 +28,7 @@
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand) - 使用 wardley 映射了解 google 约会.
 - [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras) - 介绍什么是技术战略.
 - [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/) - 描述了战略架构计划，该框架允许产品窥视者和技术人员通过一致的自主权在重大技术改进方面取得进展.
+- [ADR: Deep Dive into Architecture Decision Records](https://okorkmaz.medium.com/adr-deep-dive-into-architecture-decision-records-8c110ce7d74e) - 介绍什么是架构决策记录，描述术语，如何记录最终架构，并通过呈现真实场景关注最佳实践.
 
 
 ## Templates

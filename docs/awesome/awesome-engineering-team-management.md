@@ -59,6 +59,8 @@
 
 - [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - 经理（负责）和工程师（负责）之间最大的区别：“&#39;坏事&#39;发生在负责人身上，而负责人可以继续下一个项目.”
 
+ - “计算机永远不会被追究责任. 因此，计算机绝不能做出管理决策.”  - 一个 [IBM slide from 1979](https://twitter.com/mit_csail/status/1604884273789603842).
+
 - “It is a job where your goal is to try disappoint people most slowly.” ([source](https://news.ycombinator.com/item?id=18222488)).
 
  - “所以诀窍基本上是让他们（你的直接下属）负责，而不是你. 你是配角，他们可以向你要东西. 但目标需要非常明确.”  ([source](https://news.ycombinator.com/item?id=23973859)) - 关于如何与你的直接下属一起工作的秘诀，来自 [7 habits of highly effective people](https://amzn.com/B01069X4H0/?tag=kevideld-20).
@@ -87,7 +89,7 @@
 
 - [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - 释义 [Andy Grove's book, High Output Management](https://amzn.com/0679762884/?tag=kevideld-20) ，“高管的工作是：为整个组织定义和实施文化和价值观，并批准正确的决策.” 文章还详细介绍了 CEO 的失败模式：将自己的决定强加于下游，或者各种不解决冲突的方式.
 
-- [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - Refines the concept above adapting [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
+- [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - 提炼上述适应的概念 [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 
 - [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - 建立并描述领导者应该是什么和做什么.
 
@@ -205,7 +207,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 高增长公司都需要在某一时刻实现招聘流程的工业化.
 
-- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html)  - 如果世界上任何其他人都可以客观地评估候选人是一名伟大的球员，那么您和您的初创公司将无法雇用该球员. 有人会从你那里偷走候选人. 这就是为什么你必须追求那些未经证实的人. 简而言之，你需要非常擅长预测人才.
+- [Hire people who aren't proven](https://leonardofed.io/blog/startups-hiring.html)  - 如果世界上任何其他人都可以客观地评估候选人是否是一名出色的球员，那么您和您的初创公司将无法雇用该球员. 有人会从你那里偷走候选人. 这就是为什么你必须追求那些未经证实的人. 简而言之，你需要非常擅长预测人才.
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 雇用男性的 5 条简单规则，自 1924 年起.一个世纪以来情况并没有太大变化.
 
@@ -215,7 +217,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs 发布了他们的流程，“让候选人熟悉并解决偏见，从而带来更好的候选人体验和雇用决策.”
 
-- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “在程序员实际上并不擅长的事情上测试他们，并期望了解他们在贵公司的工作方式是一种妄想，我认为这种面试只会让招聘团队感觉更聪明，并确保具有传统 CS 背景的工程师可以获得更好的结果.”
+- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “在程序员实际上不擅长的事情上测试他们，并期望了解他们在贵公司的工作方式是一种妄想，我认为这种面试只会让招聘团队感觉更聪明，并确保具有传统 CS 背景的工程师可以获得更好的结果.”
 
 ### Interview
 
@@ -419,7 +421,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - “社区已经存在，你只是为它创建一个交流平台”（[source](https://news.ycombinator.com/item?id=21828666)) - 或者为什么尝试从头开始创建社区可能不是正确的看待事物的方式：更好、更微妙的策略是增强现有渠道的能力并使它们可见.
 
-- [OpenTeams](https://openteam.info)  - “团队可以可视化他们的交互网络，还可以将这些数据与有关团队的人口统计、专业和心理特征的信息交叉.” 作为经理，确保这些指标为团队带来积极的结果. 出于政治原因很容易将它们工具化.
+- [OpenTeams](https://openteam.info)  - “团队可以可视化他们的交互网络，并且还可以将这些数据与有关团队的人口统计、专业和心理特征的信息交叉.” 作为经理，确保这些指标为团队带来积极的结果. 出于政治原因很容易将它们工具化.
 
 ## Engineering
 
@@ -427,7 +429,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 ### The Technical Engineering Manager
 
-你不应该花时间编码. 把它留给工程师：你的价值现在在别处. 但这是否意味着您必须忘记所有技术方面的东西？ 答案是令人震惊的 *NO*. 以下是一些论点：
+你不应该花时间编码. 把它留给工程师：你的价值现在在别处. 但这是否意味着您必须忘记所有技术方面的东西？ 答案是一个令人震惊的 *NO*. 以下是一些论点：
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/)  - 是的.  “展望未来 30 年的管理趋势，只有几件事似乎是确定的：管理者应该是技术人员，而技术人员的定义将不断变化.”
 
@@ -499,7 +501,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course) - 编写简单的规则和流程来引导远程团队.
 
-- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)  - “GitLab 是世界上最大的全远程公司”. 这是它的含义和工作原理.
+- [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/) - “GitLab is the world's largest all-remote company”. Here is what it means and how it works.
 
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - “远程工作人员比办公室工作人员更有效率.”
 
@@ -681,7 +683,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - 这篇文章中有一张有趣的表格，介绍了公司的刻板印象、他们的融资模式、主要工程参与者和他们的核心方法.
 
-- [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)  - 因为专注于短期的 Scrum 流程“似乎适合特定类型的开发，最显着的是咨询或合同编程，其中客户在组织外部，因为他们为开发付费而主持节目，并且可以改变主意任何时候”. 尽管如此，谷歌工程师已经实践了一种类似于最初的 10 点敏捷宣言的文化. 但仅此而已.
+- [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)  - 因为专注于短期的 Scrum 流程“似乎适合特定类型的开发，最显着的是咨询或合同编程，其中客户在组织外部，因为他们为开发付费而主持节目，并且可以改变主意随时”. 尽管如此，谷歌工程师已经实践了一种类似于最初的 10 点敏捷宣言的文化. 但仅此而已.
 
 - [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - 美国国防部指南，用于检测真正使用敏捷开发的软件项目与那些披着敏捷外衣的简单瀑布式或螺旋式开发（“agile-scrum-fall”）.
 
@@ -919,7 +921,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Circulation of elite](https://en.wikipedia.org/wiki/Circulation_of_elite) - “政权更迭、革命等不会发生在统治者被从下推翻时，而是发生在一个精英取代另一个精英时.”
 
-- [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs)  - “聪明的关键支持者将始终关注权力的平衡，如果统治者看起来是不断变化的联盟网络中的失败者，他们会随时准备改变效忠.  (...) 尽你所能购买忠诚，因为在各种独裁组织中，忠诚就是一切.”
+- [The Rules for Rulers](https://www.youtube.com/watch?v=rStL7niR7gs)  - “聪明的关键支持者将始终关注权力平衡，如果统治者看起来是联盟网络变化中的失败者，他们会随时准备改变效忠.  (...) 尽你所能购买忠诚，因为在各种独裁组织中，忠诚就是一切.”
 
 - “玩好游戏现在是重中之重”（[source](https://news.ycombinator.com/item?id=21925738)), 或者为什么 [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) 缺少关于办公室政治的部分.
 
@@ -927,13 +929,13 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “It behooves organizations that want to develop highly authentic supervisors or organizational climates to seek to hire supervisors that are lower (or at least not higher) on symbolized moral identity.”
 
- - “高层管理人员实际掌握的权力通常与其管理的组织规模成反比.”  （资源： [comment](https://news.ycombinator.com/item?id=20260498) 上 [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
+ - “高层管理人员实际掌握的权力通常与其管理的组织规模成反比.”  （资源： [comment](https://news.ycombinator.com/item?id=20260498) 在 [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 
  - “削减成本会让你加薪. 交付一个大项目是晋升的途径.”  ([source](https://news.ycombinator.com/item?id=21230771))
 
  - “当你读到有关你应该拥有的功能的新闻时，你就知道你的游戏失败了.”  ([source](https://news.ycombinator.com/item?id=20220484) ). 一个团队在与公众同时了解其路线图的情况下，肯定会出现问题.
 
- - “在高度政治化的环境中，有两种方式可以创造变革，一种是通过公开操纵，即为自己收集政治权力，然后运用它来实施变革，另一种是隐蔽操纵，即巧妙地实施变革足以让政治有机体不做出反应.  （有时称为“触发抗体”）.  ([source](https://news.ycombinator.com/item?id=5541517)).
+ - “在一个高度政治化的环境中，有两种方法可以创造变化，一种是通过公开操纵，即为自己收集政治权力，然后运用它来实施改变，另一种是隐蔽操纵，即巧妙地实施改变足以让政治有机体不做出反应.  （有时称为“触发抗体”）.  ([source](https://news.ycombinator.com/item?id=5541517)).
 
 - [Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)  - “大多数初创公司的大多数事情都在不断地火上浇油，但如果你能接受这一点，就会有很多值得喜欢的东西. 一个众所周知的例子是：在一家快速成长的初创公司，一个勤奋、有才华的人在公司领导层的支持下，通常可以很快获得一个令人印象深刻的头衔（或者至少是很多事实上的权力）.”
 
@@ -1023,7 +1025,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Average tenure of a CISO is just 26 months due to high stress and burnout](https://www.zdnet.com/article/average-tenure-of-a-ciso-is-just-26-months-due-to-high-stress-and-burnout/) - “如今，CISO 的工作预算低、工作时间长、执行委员会缺乏权力、他们可以雇用的训练有素的专业人员越来越少，而且还面临着没有采取足够措施保护公司基础设施免受网络攻击的持续压力- 攻击，新出现的威胁带来的持续压力，以及对所做的出色工作的一点感谢，但如果一切都出错了，那就全怪了.”
 
-- [What makes you resilient?](https://www.skylyte.io/self-assessment) - 快速测试以分析您的能量来源、您处理压力的方式以及它如何影响您的团队.
+- [What makes you resilient?](https://www.skylyte.io/self-assessment) - 一个快速测试来分析您的能量来源、您处理压力的方式以及它如何影响您的团队.
 
 ## Setbacks and Failures
 
@@ -1033,7 +1035,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Early-career setback and future career impact](https://www.nature.com/articles/s41467-019-12189-3) - “尽管早期遭遇挫折，但从长远来看，近乎失败的人系统地胜过那些以微弱优势获胜的人.”
 
-- [Huge success in business is largely based on luck](https://theconversation.com/huge-success-in-business-is-largely-based-on-luck-new-research-130843) - “管理研究和教育应该关注可以帮助商业从业者从‘无能到成功’的规范性理论，而不是关注那些解决如何从‘优秀到卓越’的理论.”
+- [Huge success in business is largely based on luck](https://theconversation.com/huge-success-in-business-is-largely-based-on-luck-new-research-130843) - “管理研究和教育应该侧重于可以帮助商业从业者从‘无能到好’的规范性理论，而不是关注那些解决如何从‘优秀到卓越’的理论.”
 
 - [How Complex Systems Fail](https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf)  - “关于失败本质的简短论文； 如何评估失败； 如何将失败归因于近因； 以及由此产生的对患者安全的新认识”.
 
@@ -1069,7 +1071,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
  - “根据我的经验，没有一次离开会产生任何影响. 大规模离职确实如此，趋势确实如此，但一个人从来没有这样做过，即使那个人是创始人也是如此.”  ([source](https://news.ycombinator.com/item?id=4324615)).
 
-- [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8)  - Hideo Kojima 如何创造性地使用可玩的预告片作为绕过 NDA 的方式，并讲述他在 Konami 的动荡导致他离开公司的故事. 但这只有在您是有影响力且受欢迎的游戏设计师时才有效.
+- [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8)  - Hideo Kojima 如何创造性地使用一个可玩的预告片作为绕过 NDA 的方式，并讲述他在 Konami 的动荡导致他离开公司的故事. 但这只有在您是有影响力且受欢迎的游戏设计师时才有效.
 
 - [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf)  - “今天有很多关于高管“中年危机”的讨论. 这主要是无聊. 大多数高管在 45 岁时就已经达到了他们商业生涯的顶峰并且知道这一点.” 在第五段，你会发现为什么知识工作者需要自我管理，并为他们的后半生做计划.
 

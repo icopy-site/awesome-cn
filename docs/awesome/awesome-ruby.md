@@ -22,7 +22,7 @@
 * [ActiveAdmin](http://activeadmin.info) - 用于为网站管理创建优雅后端的 Ruby on Rails 框架.
 * [ActiveScaffold](https://github.com/activescaffold/active_scaffold)  - ActiveScaffold 为 Rails 应用程序的 CRUD（创建、读取、更新、删除）操作提供快速而强大的用户界面. 它非常适合生成管理界面、管理数据密集型应用程序、创建小部件或快速制作原型.  ActiveScaffold 是完全可定制的，并提供了一系列附加功能，包括搜索、分页、布局控制以及字段、表单和模板的覆盖.
 * [Administrate](https://github.com/thoughtbot/administrate) - 一个 Rails 引擎，可以帮助您将一个超级灵活的管理仪表板组合在一起，由 Thoughtbot 提供.
-* [Avo](https://avohq.io)  - Avo 是下一代框架，它使开发人员和团队能够在数小时而不是数天或数周内为 Ruby on Rails 项目创建出色的管理面板. 快速、可扩展、具有对开发人员友好的 API，开箱即用.
+* [Avo](https://avohq.io)  - Avo 是下一代框架，它使开发人员和团队能够在数小时而不是数天或数周内为 Ruby on Rails 项目创建出色的管理面板. 快速、可扩展、具有开发人员友好的 API，开箱即用.
 * [bhf](http://antpaw.github.io/bhf/) - 一个易于使用的 Rails-Engine-Gem，为受信任的用户提供管理界面.
 * [MotorAdmin](https://github.com/motor-admin/motor-admin-rails)  - 低代码管理面板和商业智能 Rails 引擎. 无 DSL - 可从 UI 配置.
 * [RailsAdmin](https://github.com/sferik/rails_admin) - 一个 Rails 引擎，提供易于使用的界面来管理您的数据.
@@ -134,7 +134,7 @@
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir 是一种 Ruby DSL，它使序列化和缓存对象变得轻而易举.
 * [Readthis](https://github.com/sorentwo/readthis) - 使用 Redis 的高性能、池化、ActiveSupport 兼容缓存.
 * [Record Cache](https://github.com/orslumen/record-cache) - 在 Rails 3 中缓存活动模型记录.
-* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及命名空间.
+* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及名称空间.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) - ActiveRecord 4 的直写和直读缓存库.
 
 ## Captchas and anti-spam
@@ -166,7 +166,7 @@
 * [Awesome Print](https://github.com/awesome-print/awesome_print) - 漂亮地打印你的 Ruby 对象的风格——全彩色和适当的缩进
 * [Betty](https://github.com/pickhardt/betty)  - 友好的类似英语的命令行界面. 不记得一个命令？ 问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) - 扩展 String 类或添加带有方法的 ColorizedString 来设置文本颜色、背景颜色和文本效果.
-* [colorls](https://github.com/athityakumar/colorls) - 美化了 ls 命令，带有颜色和字体很棒的图标.
+* [colorls](https://github.com/athityakumar/colorls) - 美化了 ls 命令，颜色和字体很棒的图标.
 * [formatador](https://github.com/geemus/formatador) - STDOUT 文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置 ANSI 终端颜色的简单快速的方法.
 * [Pastel](https://github.com/peter-murach/pastel) - 具有直观和干净的 API 的终端输出样式.
@@ -635,7 +635,7 @@
 
 * [Accept Language](https://github.com/cyril/accept_language.rb) - 一个用于从浏览器解析“Accept-Language”标头的小型库（定义于 [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 * [excon](https://github.com/excon/excon)  - 可用、快速、简单的 Ruby HTTP 1.1. 它作为通用的 HTTP(s) 客户端工作得很好，特别适合在 API 客户端中使用.
-* [Faraday](https://github.com/lostisland/faraday) - 一个 HTTP 客户端库，它在许多适配器（例如 Net::HTTP）上提供通用接口，并在处理请求/响应周期时包含 Rack 中间件的概念.
+* [Faraday](https://github.com/lostisland/faraday) - 一个 HTTP 客户端库，在许多适配器（如 Net::HTTP）上提供通用接口，并在处理请求/响应周期时包含 Rack 中间件的概念.
 * [Device Detector](https://github.com/podigee/device_detector) - 一个精确快速的用户代理解析器和设备检测器，由最大和最新的用户代理数据库支持.
 * [Http Client](https://github.com/nahi/httpclient) - 在 Ruby 中提供类似于 libwww-perl (LWP) 的功能.
 * [HTTP](https://github.com/httprb/http) - HTTP Gem：用于发出 HTTP 请求的简单 Ruby DSL.
@@ -769,7 +769,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -1120,7 +1120,7 @@
       * [Fuubar](https://github.com/thekompanee/fuubar) - 安装失败的 RSpec 进度条格式化程序.
       * [Nyan Cat](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat 启发了 RSpec 格式化程序！
   * [Aruba](https://github.com/cucumber/aruba) - 使用 Cucumber 和 rspec 测试命令行应用程序.
-  * [Bacon](https://github.com/chneukirchen/bacon) - 一个小的 RSpec 克隆.
+  * [Bacon](https://github.com/chneukirchen/bacon) - 一个小型的 RSpec 克隆.
   * [Capybara](https://github.com/teamcapybara/capybara) - Web 应用程序的验收测试框架.
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD 首先与领域专家交谈，然后再与代码交谈.
   * [Cutest](https://github.com/djanowski/cutest) - Ruby 中的独立测试.
@@ -1131,7 +1131,7 @@
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * Fake Data
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
@@ -1210,6 +1210,7 @@
 
 * [Cells](https://github.com/trailblazer/cells) - 查看 Rails 的组件.
 * [Komponent](https://github.com/komposable/komponent) - 一种基于组件在 Rails 中组织前端代码的固执己见的方式.
+* [Phlex](https://github.com/joeldrapper/phlex) - 在 Ruby 中构建面向对象视图的框架.
 * [ViewComponent](https://github.com/github/view_component) - 查看 Rails 的组件.
 
 ## View helpers
