@@ -80,7 +80,7 @@
 ### Web
 
 - [Gitly](https://github.com/vlang/gitly) - 用 V 编写的 GitHub/GitLab 的轻便快速的 SCM 替代品.
-- [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
+- [Heroku Buildpack for V](https://github.com/zztkm/heroku-buildpack-v) - 在 Heroku 上部署 V 应用程序.
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速和响应迅速的博客系统.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.

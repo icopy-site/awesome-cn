@@ -183,11 +183,12 @@
 ## Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) - 组合蜜罐、文件系统监视器和警报系统，旨在保护 Linux 和 Windows 操作系统.
-- [chkrootkit](http://chkrootkit.org/) - 在 GNU/Linux 系统上本地检查 rootkit 的迹象.
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) - 适用于 Windows 系统的免费工具，旨在提醒您注意可能通过网络进行通信的恶意软件的存在.
 - [Fail2ban](https://www.fail2ban.org/) - 保护计算机服务器免受暴力攻击的入侵防御软件框架.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源、免费、功能丰富、基于主机的入侵检测系统 (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 兼容 POSIX 的 Bash 脚本，可扫描主机以查找各种恶意软件迹象.
+- [USB Keystroke Injection Protection](https://github.com/google/ukip) - 用于在 Linux 系统上阻止 USB 击键注入设备的守护进程.
+- [chkrootkit](http://chkrootkit.org/) - 在 GNU/Linux 系统上本地检查 rootkit 的迹象.
 
 ### Sandboxes
 

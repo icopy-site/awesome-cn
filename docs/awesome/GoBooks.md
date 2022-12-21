@@ -54,7 +54,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://go101.org/article/res/101-front-cover-1400x.jpg" width="120px"/>
 
- Go 101 是一本专注于 Go 语法/语义和各种运行时相关事物的书（Go 1.17-pre ready），并试图帮助 gophers 深入和透彻地理解 Go. 本书还收集了很多 Go 和 in Go 编程的细节. 希望本书对初学者和有经验的 Go 程序员都有帮助.
+Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go. This book also collects many details of Go and in Go programming. It is expected that this book is helpful for both beginner and experienced Go programmers.
 
 ### [Go, from the beginning](https://leanpub.com/go-from-the-beginning) *Free*
 <img src="https://d2sofvawe08yqg.cloudfront.net/go-from-the-beginning/s_hero?1651955611" width="120px">
@@ -80,6 +80,15 @@ Practical Go Lessons 共有 41 章和 700 多页插图.
 每章都包含带有详细答案的试题.
  HTML 版本是免费的. 您可以通过购买 PDF 或纸质版本来支持作者.
 
+### [Go Programming Language Persian](https://book.gofarsi.ir/) *Free*
+
+<img src="https://book.gofarsi.ir/gofarsi-book-cover.jpg" width="120px"/>
+
+第一本关于 golang 深度学习的波斯语开源书籍.
+在本书中，我们讨论了与 Go 语言相关的所有深度话题， 
+从基础到高级，目的是增加伊朗的 Gopher 社区.
+
+
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
@@ -96,7 +105,7 @@ This book shows you how to build powerful systems and drops you into real-world 
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
-  Go 编程汇集了评估 Go、用 Go 思考以及使用 Go 编写高性能软件所需的所有知识.  Summerfield 展示了多种习语比较，准确地展示了 Go 是如何改进旧语言的，呼吁特别关注 Go 的关键创新. 一路上，他解释了从绝对基础知识到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+  Go 编程汇集了评估 Go、用 Go 思考以及使用 Go 编写高性能软件所需的所有知识.  Summerfield 展示了多种习语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 一路上，他解释了从绝对基础知识到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -116,13 +125,13 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 以及广泛的应用.
 源代码可从本书的配套网站免费下载
 [gopl.io](http://gopl.io/),
-and may be conveniently fetched, built, and installed using the `go get` command.
+并且可以使用“go get”命令方便地获取、构建和安装.
 
 ### [Introducing Go: Build Reliable, Scalable Programs](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
 
 <a href="https://www.oreilly.com/library/view/introducing-go/9781491941997/"><img src="https://learning.oreilly.com/library/cover/9781491941997/250w/" width="120px"/></a>
 
-本实用指南非常适合熟悉编程基础知识的初学者，它简单介绍了 Google 的通用编程语言 Go. 作者 Caleb Doxsey 涵盖了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学知识.
+本实用指南非常适合熟悉编程基础知识的初学者，它简单介绍了 Google 的通用编程语言 Go. 作者 Caleb Doxsey 涵盖了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学内容.
 
 ### [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -340,13 +349,13 @@ Go 中的动手依赖注入带您踏上旅程，教您如何使用 Go 中提供�
 
 在本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，有些是非常规的，例如即时或配置注入. 对每种方法都进行了详细解释，重点介绍了它们的优点和缺点，并附有如何应用它的分步示例. 通过大量示例，您将了解如何利用 DI 将代码转换为简单灵活的代码.
 
-Go 中的动手依赖注入采用务实的方法，重点关注代码、用户体验以及如何通过增量更改获得长期利益.
+Hands-On Dependency Injection in Go takes a pragmatic approach and focuses heavily on the code, user experience, and how to achieve long-term benefits through incremental changes.
 
 ### [Hands-On Software Engineering with Golang](https://www.packtpub.com/gb/programming/hands-on-software-engineering-with-golang)
 
 <img src="https://static.packt-cdn.com/products/9781838554491/cover/smaller" width="120px"/>
 
-这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 您将被引导完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，以支持大型链接图的高效核外处理.
+这本 Golang 书籍提炼了编写易于测试和维护的精益 Go 代码的行业最佳实践，并通过从头开始创建名为 Links &#39;R&#39; Us 的多层应用程序来帮助您探索其实际实现. 您将被引导完成设计、实施、测试、部署和扩展应用程序所涉及的所有步骤. 从单体架构开始，您将迭代地将项目转换为面向服务的架构 (SOA)，该架构支持对大型链接图进行高效的核外处理.
 
 您将了解各种尖端和高级软件工程技术，例如构建可扩展的数据处理管道、使用 gRPC 设计 API 以及大规模运行分布式图形处理算法. 最后，您将学习如何使用 Docker 编译和打包您的 Go 服务，并将它们自动部署到 Kubernetes 集群.
 
@@ -509,10 +518,10 @@ the standard library packages as far as possible, Practical Go will give you a s
 
 本书是该系列的第 1 部分，着重于实现高性能代码. 您将了解应关注应用程序或代码的哪些方面以及何时关注. 您将拥有一套工具、软件模式和方法供您使用，让您的生活更轻松. 阅读后，您将：
 
-- 了解并发和并行之间的差异.
+- 了解并发和并行之间的区别.
 - 识别并避免并发问题，例如死锁、饥饿、活锁和数据竞争.
 - 了解各种并发交互模式，并能够应用最适合手头问题的模式.
-- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多问题.
+- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多陷阱.
 - 能够使用 Go 的分析器、执行跟踪和基准测试工具诊断并发和性能问题.
 - 能够确定代码何时需要优化、什么需要优化以及如何优化.
 - 拥有可以快速应用于项目的并发和性能模式目录.
@@ -648,7 +657,7 @@ the standard library packages as far as possible, Practical Go will give you a s
 <img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
 
 本书首先介绍了 Go 的数据结构和算法. 您将学习如何使用链表、数组、堆栈和队列来存储数据. 继续前进，您将发现如何实现排序和搜索算法，然后是二叉搜索树. 本书还将通过在算法设计中串接数据类型和实现散列结构来帮助您提高应用程序的性能. 最后，您将能够应用传统数据结构来解决实际问题.
-到本书结束时，您将熟练地在 Go 中实现经典的数据结构和算法，推动您成为一名自信的 Go 程序员.
+到本书结束时，您将熟练地使用 Go 实现经典的数据结构和算法，推动您成为一名自信的 Go 程序员.
 
 ### [Wasm Cooking with Golang](https://k33g.gumroad.com/l/wasmcooking)
 

@@ -128,6 +128,7 @@
 - [Rollem](https://rollem.io/) - 引导你的仓鼠以最快的速度到达障碍赛的尽头.
 - [Tank Royale](https://tankroyale.io/) - 卡通快节奏自上而下的多人射击游戏.
 - [TANX](https://tanx.io) - 在线多人坦克大战游戏.
+- [Tribals](https://tribals.io/) - 第一人称多人生存游戏.
 - [Venge](https://venge.io/) - 3D 多人 FPS 射击游戏.
 - [Warbands](https://www.warbands.io/) - 3D 多人 FPS 射击游戏.
 
