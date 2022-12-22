@@ -18,7 +18,7 @@
 - [Engine](https://github.com/playcanvas/engine) - 获得麻省理工学院许可的 PlayCanvas 运行时的完整源代码.
 - [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 兼容模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
-- [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
+- [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas 用户指南.
 
@@ -43,7 +43,7 @@
 - [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) - 使用 PlayCanvas 和 Substance 为车辆配置器创建高端艺术品.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One 的 PlayCanvas 主题博客.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - 制作简单的基于物理的游戏的教程.
-- [Solar Games Mentorship](https://solargames.io/mentorship/) - Premium PlayCanvas training and mentorship services.
+- [Solar Games Mentorship](https://solargames.io/mentorship/) - 高级 PlayCanvas 培训和指导服务.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - 简短的 PlayCanvas 教程的 YouTube 播放列表.
 
 ## Extensions and Utilities
@@ -187,6 +187,7 @@
 - [Doge Temple](https://www.dogetemple.io/) - 专门用于狗狗币的在线微宇宙.
 - [The Crypt](https://www.crypt.art/) - 稀有艺术品和收藏品画廊.
 - [RareRooms](https://www.rarerooms.io/) - NFT 收藏的 3D 虚拟房间.
+- [Somnium Space](https://somniumspace.com/parcel/) - 建立在以太坊区块链上的虚拟现实世界.
 
 ## Contributing
 

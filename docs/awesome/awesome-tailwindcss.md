@@ -108,7 +108,7 @@
 - [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 - [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - 为 FormKit 添加输入和表单状态的变体.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 成分.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加一个 `responsive-embed` 组件.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 添加基于 Bootstrap 表格的表格组件.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.
@@ -257,6 +257,7 @@
 - [Svelte Headless UI](https://github.com/rgossiaux/svelte-headlessui) - Headless UI 的非官方 Svelte 端口.
 - [Xtend UI](https://xtendui.com/) - 具有高级交互和动画的 Tailwind CSS 组件.
 - [Headless UI Float](https://headlessui-float.vercel.app) - Headless UI 的浮动 UI 集成.
+- [Vanilla Components](https://vanilla-components.com) - 一组完全可定制的 Vue 组件.
 - [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多种不同的即用型 Tailwind CSS 块.
 - [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.

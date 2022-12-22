@@ -106,7 +106,7 @@
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，用于在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本化、编辑和执行笔记本，并通过 REST 接口直接集成它们.
-- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文件.
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文档.
 - [jupyterlab_nbconvert_nocode](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - 用于 PDF/HTML 导出的 NBConvert 导出器，无需代码单元.
 - [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 在终端中很好地显示笔记本.
@@ -147,7 +147,8 @@
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到 JupyterLab 中变量或函数定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google 云端硬盘集成扩展.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - 用于 Jupyter 中多个后端的类似文件系统的内容管理器.
-- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔法.
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔术.
+- [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
 - [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元格完成浏览器通知.
@@ -192,7 +193,7 @@
 - [ArcGIS](https://developers.arcgis.com/python/) - 用于处理地图和地理空间数据的库，由 Web GIS 提供支持.
 - [GenePattern Notebook](http://genepattern-notebook.org) - 将基因组分析与交互式笔记本相结合.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - 探索性地理空间分析的扩展.
-- [Jupylet](https://github.com/nir/jupylet) - 在 Jupyter Notebook 中以交互方式创建 2D 和 3D 游戏、图形、现场音乐和声音.
+- [Jupylet](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
 - [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - 用于大规模地理定位数据集可视化探索的 Jupyter 扩展.
 - [lolviz](https://github.com/parrt/lolviz) - 列表、列表、字典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - 基于 Jupyter 的金融研究平台.
@@ -235,7 +236,7 @@
 - [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - 发现流行的 Jupyter 库、顶级作者、热门项目工具包、讨论、教程和学习资源.<!--lint disable double-link-->
 - 邮件列表 - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 - 皮皮 - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
-is the PyPI trove classifier for Jupyter projects.
+是用于 Jupyter 项目的 PyPI trove 分类器.
 - Reddit - 子版块： [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
 - 堆栈溢出 - 标签： [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
 

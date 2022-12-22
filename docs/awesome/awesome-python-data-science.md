@@ -31,7 +31,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于对图形结构化数据进行采样的库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动化机器学习 python 库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动机器学习 python 库.
 * [AutoGluon](https://github.com/awslabs/autogluon) - 用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 ### Ensemble Methods
@@ -75,7 +75,7 @@
 
 ## Data Manipulation
 
-### Data Containers
+### Data Frames
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) - 强大的 Python 数据分析工具包.
 * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - 从 pandas DataFrame 对象创建 HTML 分析报告
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - 具有 Transformers 的通用 1d/2d 数据容器.用于数据分析的功能 [The Alan Turing Institute](https://www.turing.ac.uk/).
@@ -115,13 +115,13 @@
 ### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - 用 Python 绘图.
 * [seaborn](https://github.com/mwaskom/seaborn) - 使用 matplotlib 的统计数据可视化.
-* [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
+* [prettyplotlib](https://github.com/olgabot/prettyplotlib) - 轻松创建漂亮的 matplotlib 图.
 * [python-ternary](https://github.com/marcharper/python-ternary) - 带有 matplotlib 的 python 的三元绘图库.
 * [missingno](https://github.com/ResidentMario/missingno) - 缺少 Python 的数据可视化模块.
 * [chartify](https://github.com/spotify/chartify/) - Python 库，可让数据科学家轻松创建图表.
 * [physt](https://github.com/janpipek/physt) - 改进的直方图.
 ### Interactive plots
-* [animatplot](https://github.com/t-makaro/animatplot) - 一个基于 matplotlib 的动画绘图的 python 包.
+* [animatplot](https://github.com/t-makaro/animatplot) - 一个基于 matplotlib 的动画绘图 python 包.
 * [plotly](https://plot.ly/python/) - 一个 Python 库，可以制作交互式和出版质量的图表.
 * [Bokeh](https://github.com/bokeh/bokeh) - Python 的交互式网络绘图.
 * [Altair](https://altair-viz.github.io/)  - Python 的声明性统计可视化库. 可以轻松地在代码中进行许多数据转换以创建图形
@@ -192,7 +192,7 @@
 * [Spearmint](https://github.com/HIPS/Spearmint) - 贝叶斯优化.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - 用于优化的启发式算法.
 * [SMAC3](https://github.com/automl/SMAC3) - 基于序列模型的算法配置.
-* [Optunity](https://github.com/claesenm/optunity) - 是一个包含用于超参数调整的各种优化器的库.
+* [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Python 中的分布式异步超参数优化.
 * [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - 使用高斯过程进行全局优化的 Python 实现.
 * [SafeOpt](https://github.com/befelix/SafeOpt) - 安全贝叶斯优化.
@@ -211,7 +211,7 @@
 * [mlforecast](https://github.com/Nixtla/mlforecast) - 基于可扩展机器学习的时间序列预测.
 * [neuralforecast](https://github.com/Nixtla/neuralforecast) - 基于可扩展机器学习的时间序列预测.
 * [greykite](https://github.com/linkedin/greykite) - 一个灵活、直观和快速的预测库.
-* [Prophet](https://github.com/facebook/prophet) - 自动预测程序.
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 * [PyFlux](https://github.com/RJT1990/pyflux) - Python 的开源时间序列库.
 * [bayesloop](https://github.com/christophmark/bayesloop) - 促进时变参数模型的目标模型选择的概率编程框架.
 * [luminol](https://github.com/linkedin/luminol) - 异常检测和关联库.
@@ -266,10 +266,12 @@
 * [dvc](https://github.com/iterative/dvc)  - 数据版本控制 | 用于数据和模型的 Git | 机器学习实验管理.
 * [envd](https://github.com/tensorchord/envd) - ️ 数据科学和 AI/ML 工程团队的机器学习开发环境.
 * [Sacred](https://github.com/IDSIA/sacred) - 一个帮助您配置、组织、记录和重现实验的工具.
-* [Xcessiv](https://github.com/reiinakano/xcessiv) - 一个基于 Web 的应用程序，用于快速、可扩展和自动化的超参数调整和堆叠集成.
-* [Persimmon](https://github.com/AlvarBer/Persimmon) - 一种用于 sklearn 的可视化数据流编程语言.
-* [Neptune](https://neptune.ai) - 轻量级 ML 实验跟踪、结果可视化和管理工具.
 
+## Data Validation
+* [great_expectations](https://github.com/great-expectations/great_expectations) - 始终了解对数据的期望.
+* [pandera](https://github.com/unionai-oss/pandera) - 一个轻量级、灵活且富有表现力的统计数据测试库.
+* [evidently](https://github.com/evidentlyai/evidently) - 评估和监控从验证到生产的 ML 模型.
+* [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) - 用于探索和验证机器学习数据的库.
 
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - 用于评估推荐系统的有用指标和图表库.
@@ -297,7 +299,7 @@
 
 ## Conversion
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估计器转换为 C、Java、JavaScript 和其他语言.
-* [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
+* [ONNX](https://github.com/onnx/onnx) - 打开神经网络交换.
 * [MMdnn](https://github.com/Microsoft/MMdnn) - 一组帮助用户在不同深度学习框架之间进行互操作的工具.
 
 ## Related Resources
