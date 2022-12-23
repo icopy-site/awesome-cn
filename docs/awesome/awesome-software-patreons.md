@@ -30,7 +30,7 @@ _使用开源许可证发布的项目._
 - [DIGImend](https://www.patreon.com/spbnick) - 改进 Linux 对（非 Wacom）绘图板的支持.
 - [DokuWiki](https://www.patreon.com/dokuwiki) - 维基应用程序.
 - [Duplicati](https://opencollective.com/duplicati) - 备份客户端.
-- [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - 适用于 Android 平台的 FOSS 应用程序的可安装目录.
+- [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - 适用于 Android 平台的 FOSS 应用程序的可安装目录.
 - [Firezone](https://github.com/orgs/firezone/sponsoring) - 使用 WireGuard 的自托管 VPN 服务器.
 - [Flarum](https://opencollective.com/flarum/) - 论坛平台.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) - 参数化 3D 建模器主要用于设计任何大小的现实生活中的对象.
@@ -50,7 +50,7 @@ _使用开源许可证发布的项目._
 - [LibrePCB](https://www.patreon.com/librepcb) - 开发印刷电路板的软件. 
 - [LogSeq](https://opencollective.com/logseq) - 知识管理
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - 适合所有人的廉价、简单、自托管的云.
-- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
+- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - 联合社交网络服务器.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - 用于安全、去中心化通信的开放网络.
 - [Memcode](https://www.patreon.com/memcode) - 抽认卡平台
 - [MissKey](https://www.patreon.com/syuilo) - 联合微博平台.
@@ -78,11 +78,11 @@ _使用开源许可证发布的项目._
 - [postActiv](https://www.patreon.com/postActiv) - 微博平台.
 - [Project Lombok](https://www.patreon.com/lombok) - Java 编辑器插件.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit 浏览器扩展.
-- [Remmina](https://remmina.org/donations/) - 远程桌面客户端.
+- [Remmina](https://remmina.org/donations/) - Remote desktop client.
 - [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - 遵循 Q/A（问答）原则的社交网络.
 - [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - 分布式和安全的点对点协议和社交网络.
 - [ShareX Team](https://www.patreon.com/ShareX) - 屏幕截图和屏幕共享工具.
-- [Synfig](https://www.patreon.com/synfig) - 二维动画软件.
+- [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 二维动画软件.
 - [SysV init](https://www.patreon.com/sysvinit) - 系统 V 初始化实现.
 - [Termux](https://www.patreon.com/termux) - 安卓终端模拟器.
 - [The Lounge](https://opencollective.com/thelounge) - 现代网络 IRC 客户端. 
@@ -95,7 +95,7 @@ _使用开源许可证发布的项目._
 - [Weblate](https://liberapay.com/Weblate) - 具有紧密版本控制集成的本地化工具.
 - [Webpack](https://opencollective.com/webpack) - JavaScript 模块捆绑器.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - 使用 Node.js 构建的 Wiki 平台.
-- [WireGuard](https://www.patreon.com/zx2c4) - 下一代安全网络隧道.
+- [WireGuard](https://www.patreon.com/zx2c4), [#2](https://github.com/sponsors/zx2c4) - 下一代安全网络隧道.
 - [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - 类 UNIX 操作系统的桌面环境.
 - [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - 优先考虑稳健性、最优性和清晰性的系统编程语言.
 - [Zrythm](https://liberapay.com/Zrythm) - 高度自动化和直观的数字音频工作站.
@@ -157,8 +157,11 @@ _游戏和游戏相关项目._
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于 Windows 的 Xbox 模拟器.
 - [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/龙与地下城和 NPC 生成器.
+- [Fheroes2](https://www.patreon.com/fheroes2) - 免费英雄无敌 II 引擎.
+- [Heroic Games Launcher](https://www.patreon.com/heroicgameslauncher), [#2](https://github.com/sponsors/Heroic-Games-Launcher), [#3](https://ko-fi.com/heroicgames) - 开源 GOG 和 Epic Games 启动器.
 - [Libretro Team](https://www.patreon.com/libretro) - 书柜、RetroArch 和编号. 
-- [Lutris](https://www.patreon.com/lutris) - 游戏启动器和平台.
+- [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - 游戏启动器和平台.
+- [MelonDS](https://www.patreon.com/m/Arisotura) - 任天堂 DS 模拟器.
 - [Play!](https://www.patreon.com/jpd002) - PS2模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.
 - [Ryujinx](https://www.patreon.com/ryujinx) - 任天堂开关模拟器.

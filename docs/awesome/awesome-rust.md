@@ -57,7 +57,7 @@ Rust 代码和资源的精选列表.
 * [Polaris](https://github.com/agersant/polaris) — 音乐流媒体应用程序.  [![build badge](https://api.travis-ci.org/agersant/polaris.svg?branch=master)](https://travis-ci.org/agersant/polaris)
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) — 用 Rust 编写的终端的 Spotify 客户端. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
 * [Spotifyd](https://github.com/Spotifyd/spotifyd) — 作为 UNIX 守护进程运行的开源 Spotify 客户端. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
-* [WhatBPM](https://github.com/sergree/whatbpm) — A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
+* [WhatBPM](https://github.com/sergree/whatbpm)  — 为电子舞曲制作人提供的每日静态生成的信息资源. 使用 Beatport 和 Spotify 等公开可用数据，提供有关每种 EDM 流派最常用值的每日分析：速度、键、根音符等. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
 
 ### Cryptocurrencies
 
@@ -256,7 +256,7 @@ Rust 代码和资源的精选列表.
 * [fselect](https://crates.io/crates/fselect) — 使用类似 SQL 的查询查找文件 [![build badge](https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master)](https://travis-ci.org/jhspetersson/fselect)
 * [gitui](https://github.com/extrawurst/gitui) - 用 Rust 编写的 git 的快速终端客户端. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 * [Kondo](https://github.com/tbillington/kondo) - 用于删除软件项目工件和回收磁盘空间的 CLI 和 GUI 工具
-* [lotabout/rargs](https://github.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] — 具有模式匹配支持的 xargs + awk [![build badge](https://api.travis-ci.org/lotabout/rargs.svg?branch=master)](https://travis-ci.org/lotabout/rargs)
+* [lotabout/rargs](https://github.com/lotabout/rargs) [[rargs](https://crates.io/crates/rargs)] — xargs + awk 支持模式匹配 [![build badge](https://api.travis-ci.org/lotabout/rargs.svg?branch=master)](https://travis-ci.org/lotabout/rargs)
 * [lotabout/skim](https://github.com/lotabout/skim) — 纯铁锈色的模糊取景器 [![build badge](https://api.travis-ci.org/lotabout/skim.svg?branch=master)](https://travis-ci.org/lotabout/skim)
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) — 灵活快速的 BitTorrent 守护进程. [![Build Status](https://api.travis-ci.org/Luminarys/synapse.svg?branch=master)](https://travis-ci.org/Luminarys/synapse)
 * [m4b/bingrep](https://github.com/m4b/bingrep) — Greps 各种操作系统和架构的二进制文件，并为它们着色. [![build badge](https://api.travis-ci.org/m4b/bingrep.svg?branch=master)](https://travis-ci.org/m4b/bingrep)
@@ -343,7 +343,7 @@ Rust 代码和资源的精选列表.
 
 ### Virtualization
 
-* [containers/youki](https://github.com/containers/youki) — A container runtime in Rust [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
+* [containers/youki](https://github.com/containers/youki) — Rust 中的容器运行时 [![build badge](https://github.com/containers/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/containers/youki/actions)
 * [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) — 用于容器工作负载的轻量级虚拟机  [Firecracker Microvm](https://firecracker-microvm.github.io/)
 * [tailhook/vagga](https://github.com/tailhook/vagga) — 没有守护进程的容器化工具 [![build badge](https://api.travis-ci.org/tailhook/vagga.svg?branch=master)](https://travis-ci.org/tailhook/vagga)
 
@@ -626,7 +626,7 @@ Rust 代码和资源的精选列表.
 * [innoave/genevo](https://github.com/innoave/genevo) — 以可定制和可扩展的方式执行遗传算法 (GA) 模拟.
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust 中的遗传算法库. 处于维护模式.
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决了 N = 255 的 N Queens 问题，并且使用了不到 1 MB 的 RAM.
-* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够为有监督、无监督和强化学习问题发展解决方案. 附带完整且可自定义的 NEAT 和 Evtree 实现. [![Build Status](https://api.travis-ci.com/pkalivas/radiate.svg?branch=master)](https://app.travis-ci.com/github/pkalivas/radiate)![Crates.io](https://img.shields.io/crates/v/radiate)
+* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够针对有监督、无监督和强化学习问题发展解决方案. 附带完整且可自定义的 NEAT 和 Evtree 实现. [![Build Status](https://api.travis-ci.com/pkalivas/radiate.svg?branch=master)](https://app.travis-ci.com/github/pkalivas/radiate)![Crates.io](https://img.shields.io/crates/v/radiate)
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — Rust 的进化算法 [![Build Status](https://api.travis-ci.org/willi-kappler/darwin-rs.svg?branch=master)](https://travis-ci.org/willi-kappler/darwin-rs)
 
 #### Machine learning
@@ -1180,6 +1180,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) — FLTK Rust 绑定 [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)
   * [flutter-rs](https://github.com/flutter-rs/flutter-rs) — 在 dart &amp; rust 中构建 flutter 桌面应用程序.
+  * [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) — 用于 Flutter/Dart &lt;-&gt; Rust 的高级内存安全绑定生成器
 * [fschutt/azul](https://github.com/fschutt/azul) — 一个免费的、功能性的、面向 IMGUI 的 GUI 框架，用于快速开发用 Rust 编写的桌面应用程序，由 Mozilla WebRender 渲染引擎支持. [![build badge](https://api.travis-ci.org/fschutt/azul.svg?branch=master)](https://travis-ci.org/fschutt/azul)
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
   * [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - GTK3 防锈绑定 ![CI](https://github.com/gtk-rs/gtk3-rs/workflows/CI/badge.svg)
@@ -1270,7 +1271,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * IP网络
   * [achanda/ipnetwork](https://github.com/achanda/ipnetwork) — 在纯 Rust 中处理 IP 网络的库 [![build badge](https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master)](https://travis-ci.org/achanda/ipnetwork)
   * [candrew/netsim](https://github.com/canndrew/netsim) — 用于网络模拟和测试的 Rust 库 [![build badge](https://api.travis-ci.org/canndrew/netsim.svg?branch=master)](https://travis-ci.org/canndrew/netsim)
-  * [jesusprubio/online](https://github.com/jesusprubio/online) — 检查您的互联网连接的图书馆 [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
+  * [jesusprubio/online](https://github.com/jesusprubio/online) — Library to check your Internet connectivity [![CI](https://github.com/jesusprubio/online/actions/workflows/ci.yml/badge.svg)](https://github.com/jesusprubio/online/actions/workflows/ci.yml)
 * 低水平
   * [actix/actix](https://github.com/actix/actix) — Rust 的 Actor 库 [![build badge](https://api.travis-ci.org/actix/actix.svg?branch=master)](https://travis-ci.org/actix/actix)
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) — 自定义 TCP/UDP 协议定义
@@ -1280,7 +1281,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 *消息IO
   * [lemunozm/message-io](https://github.com/lemunozm/message-io)  — 事件驱动的消息库，轻松快速地构建网络应用程序. 支持 TCP、UDP 和 WebSockets. [![build badge](https://img.shields.io/github/workflow/status/lemunozm/message-io/message-io%20ci)](https://github.com/lemunozm/message-io/actions?query=workflow%3A%22message-io+ci%22)
 * MQTT
-  * [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - A library for developers to build applications that communicate with the [MQTT protocol](https://mqtt.org) 通过 TCP 和 WebSockets，有或没有 TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
+  * [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) - 供开发人员构建与 [MQTT protocol](https://mqtt.org) 通过 TCP 和 WebSockets，有或没有 TLS. [![Build and Test](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml/badge.svg)](https://github.com/bytebeamio/rumqtt/actions/workflows/build.yml)
 * 纳米信息
   * [thehydroimpulse/nanomsg.rs](https://github.com/thehydroimpulse/nanomsg.rs) — [nanomsg](https://nanomsg.org/) 绑定 [![build badge](https://api.travis-ci.org/thehydroimpulse/nanomsg.rs.svg?branch=master)](https://travis-ci.org/thehydroimpulse/nanomsg.rs)
 * 国家统计局
@@ -1301,7 +1302,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [b23r0/rust-raknet](https://github.com/b23r0/rust-raknet) — Rust 的 RakNet 协议实现 [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 * 远程过程调用
   * [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc) [[remoc](https://crates.io/crates/remoc)] - Remoc 提供类似于 Tokio 的频道（广播、mpsc、oneshot、观看），并通过任何远程传输进行特征调用. [![build badge](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml)
-  * [smallnest/rpcx-rs](https://github.com/smallnest/rpcx-rs) — 用于 Rust 的 RPC 库，用于以简单易行的方式开发微服务. [![build badge](https://api.travis-ci.org/smallnest/rpcx-rs.svg?branch=master)](https://travis-ci.org/smallnest/rpcx-rs)
+  * [smallnest/rpcx-rs](https://github.com/smallnest/rpcx-rs) — A RPC library for Rust for developing microservices in easy and simple way. [![build badge](https://api.travis-ci.org/smallnest/rpcx-rs.svg?branch=master)](https://travis-ci.org/smallnest/rpcx-rs)
 * Socket.io
   * [1c3t3a/rust-socketio](https://github.com/1c3t3a/rust-socketio) [[rust_socketio](https://crates.io/crates/rust_socketio)] — 一个实现 [socket.io](https://socket.io) 用 Rust 编写的客户端. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 * SSH

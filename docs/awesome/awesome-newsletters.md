@@ -4,7 +4,7 @@
 
 精选的时事通讯列表.
 
-灵感来自 GitHub 上的 `awesome-*` 趋势.
+灵感来自 GitHub 上的“awesome-*”趋势.
 
 目标是建立一个分类的社区驱动的非常知名的资源集合.
 
@@ -62,7 +62,7 @@
 
 #### VueJS
 
-- [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
+- [Vue.js Newsletter](https://news.vuejs.org) . 每周精选的 Vue.js 新闻.
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers) . 每周精选的最佳文章、最新消息和最酷的 Vue 项目.
 - [VueDose](https://vuedose.tips) . 关于 Vue 生态系统的提示和技巧，适合忙碌的开发人员. 每周出版.
 
@@ -185,7 +185,7 @@
 - [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周从 Rails 获取有趣的提交、拉取请求和更多信息，每周五发送到您的收件箱.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) . 很棒的 Ruby gem、工具、框架和软件的集合.
 - [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/) . 有关 Ruby on Rails 和网络的双月刊时事通讯. 提供英语、法语、西班牙语和意大利语版本.
-- [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
+- [Short Ruby Newsletter](https://newsletter.shortruby.com) . 关于 Ruby 世界中发生的一切的可视化每周时事通讯.
 - [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/) . 关于 Hotwire 堆栈的每月通讯：Turbo（本地）、Stimulus 和 Strada 文章、代码和课程.
 
 ### PHP
@@ -348,7 +348,7 @@
 ## Artificial Intelligence / Machine Learning / Big Data
 
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周时事通讯. [Archive](https://dataelixir.com/newsletters/).
-- [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
+- [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 - [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻每周综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和犯规. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
@@ -421,6 +421,7 @@
 - [tl;dr sec](https://tldrsec.com/) . 每周精选最佳安全工具、博客文章和会议演讲，涵盖 AppSec、云和容器安全、DevSecOps 等.
 - [Advisory Week](https://advisoryweek.com/) . 每周一封电子邮件，其中包含主要软件供应商发布的安全建议摘要.
 - [Shift Security Left](https://shift-security-left.curated.co/) . 面向具有安全意识的开发人员的免费双周通讯，内容涵盖应用程序安全、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）破坏者都有用. 更深入地了解安全漏洞的原因、设计防御、发明和实施安全控制——与 Felix 一起，一个虚构的吉祥物和一名安全工程师 [@cossacklabs](https://twitter.com/cossacklabs).
+- [RTC Security Newsletter](https://www.rtcsec.com/newsletter/) .  Enable Security 的实时通信安全新闻、研究和不定期更新的月度通讯.
 
 ## Miscellaneous
 
@@ -428,7 +429,7 @@
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简报，包含 WebRTC 上的所有最新消息和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络声音感兴趣的人们提供的每周时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
-- [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周时事通讯，汇集了初创公司生态系统中的最佳资源.
+- [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 - [Changelog Nightly](https://changelog.com/nightly) . 每晚 10 点 CT 发送一封电子邮件，发掘 GitHub 上最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
@@ -437,7 +438,7 @@
 - [Startup Watching](https://startupwatching.com/) . 为初创企业精选的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
-- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
+- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的工作人员提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates). A weekly newsletter focussing on latest in mobile, web, AI, UI/UX, jobs/carrers and anything related to developers and the industry.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.

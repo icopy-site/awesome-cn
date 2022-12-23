@@ -20,12 +20,13 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 *用于构建 Web 应用程序的库.*
 
 * [FastAPI](https://github.com/tiangolo/fastapi)  - 基于类型提示的高性能 Python 3.6+ API 框架. 由 Starlette 和 Pydantic 提供支持.
+* [Django](https://www.djangoproject.com/) - 具有庞大社区和生态系统的成熟的高级 Python Web 框架.
 * [Starlette](https://github.com/encode/starlette) - 用于构建高性能服务的轻量级 ASGI 框架/工具包.
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - asyncio 的 HTTP 客户端/服务器（PEP-3156）.
 * [sanic](https://github.com/channelcat/sanic) - 专为快速运行而编写的 Python 3.5+ Web 服务器.
 * [Quart](https://github.com/pallets/quart) - 具有与 Flask 相同 API 的异步 Web 微框架.
 * [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket 和 WAMP 支持客户端和服务器的 asyncio 和 Twisted.
-* [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+* [websockets](https://github.com/aaugustin/websockets/) - 一个用于在 Python 中构建 WebSocket 服务器和客户端的库，重点是正确性和简单性.
 * [Tornado](http://www.tornadoweb.org/en/stable/) - 高性能网络框架和异步网络库.
 * [uvicorn](https://github.com/encode/uvicorn) - 快如闪电的 ASGI 服务器.
 
@@ -61,7 +62,7 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 * [Databases](https://github.com/encode/databases) - SQLAlchemy 核心的异步数据库访问，支持 PostgreSQL、MySQL 和 SQLite.
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - 一个自动生成的、完全类型安全的 ORM，由 Pydantic 提供支持，专门为您的模式量身定制——支持 SQLite、PostgreSQL、MySQL、MongoDB、MariaDB 等.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) - 一个 ORM / 查询生成器，可以在异步和同步模式下工作，具有漂亮的管理 GUI 和 ASGI 中间件.
-* [Beanie](https://beanie-odm.dev) - 基于异步 MongoDB ODM [motor](https://github.com/mongodb/motor) 和 [Pydantic](https://pydantic-docs.helpmanual.io).
+* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor](https://github.com/mongodb/motor) 和 [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## Networking
 

@@ -46,11 +46,12 @@
 - [Sentry](https://sentry.io/) - Sentry 提供自托管和基于云的错误监控，可帮助所有软件团队实时发现、分类错误并确定错误的优先级.
 - [Shake](https://www.shakebugs.com/)  - 应用内反馈和错误报告工具. 通过详细的设备数据、重现步骤、视频录制、黑盒数据、网络请求和自定义日志记录，修复应用程序错误的速度最高可提高 50 倍.
 
+
 ## App Routing
 
   *优雅的 URL 路由、导航框架、深层链接等*
 
-- [WAAppRouting](https://github.com/Wasappli/WAAppRouting)  - iOS 路由正确. 使用已解析的参数处理 URL 识别和控制器显示. 全部在一行中，控制器堆栈自动保存！
+- [WAAppRouting](https://github.com/Wasappli/WAAppRouting)  - iOS 路由正确完成. 使用已解析的参数处理 URL 识别和控制器显示. 全部在一行中，控制器堆栈自动保存！
 - [DeepLinkKit](https://github.com/button/DeepLinkKit) - 一种出色的路由匹配、基于块的方式来处理您的深层链接.
 - [IntentKit](https://github.com/intentkit/IntentKit) - 在 iOS 应用程序中处理第三方 URL 方案的更简单方法.
 - [JLRoutes](https://github.com/joeldev/JLRoutes) - 具有简单的基于块的 API 的 iOS URL 路由库.
@@ -71,6 +72,7 @@
 - [LiteRoute](https://github.com/SpectralDragon/LiteRoute) - 在纯 Swift 上实现的 VIPER 模块之间的轻松转换.
 - [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - 一个开源库，用于构建可深度链接的 SwiftUI 应用程序，同时考虑组合、测试和人体工程学
 - [SwiftCurrent](https://github.com/wwt/SwiftCurrent) - 用于管理复杂工作流的库.
+
 
 ## Apple TV
 
@@ -559,7 +561,7 @@
 
 - [Forbind](https://github.com/ulrikdamm/Forbind) - Swift 中的功能链接和承诺.
 - [Funky](https://github.com/brynbellomy/Funky) - Swift 中的函数式编程工具和实验.
-- [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备的功能性 Swift 工具集.
+- [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备的功能性 Swift 工具集合.
 - [Oriole](https://github.com/tptee/Oriole) - 作为 Swift 协议扩展实现的功能实用工具带.
 - [Prelude](https://github.com/robrix/Prelude) - 简单函数式编程工具的 Swift µframework.
 - [Swiftx](https://github.com/typelift/Swiftx) - 任何项目的功能数据类型和功能.
@@ -907,7 +909,7 @@
 - [VectorMath](https://github.com/nicklockwood/VectorMath) - 适用于 Mac 和 iOS 的 Swift 库，可实现常见的 2D 和 3D 矢量和矩阵函数，对游戏或基于矢量的图形很有用.
 - [Expression](https://github.com/nicklockwood/Expression) - 用于在运行时评估数值表达式的 Mac 和 iOS 库.
 - [Metron](https://github.com/toineheuvelmans/Metron) - Metron 是几何函数和类型的综合集合，扩展了 CoreGraphics 提供的 2D 几何基元.
-- [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex 补充了 Swift 标准库中提供的数字功能.
+- [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex 补充了 Swift 标准库中提供的数字工具.
 - [Matft](https://github.com/jjjkkkjjj/Matft)  - Matft 是 Swift 中类似 Numpy 的库.  Matft 允许我们在 Swift 中轻松处理 n 维数组.
 
 ## Media
@@ -1062,7 +1064,7 @@
 
 ### Media Processing
 - [SwiftOCR](https://github.com/garnele007/SwiftOCR) - 用 Swift 编写的快速简单的 OCR 库.
-- [QR Code Scanner](https://www.appcoda.com/qr-code-ios-programming-tutorial/) - 二维码实施.
+- [QR Code Scanner](https://www.appcoda.com/qr-code-ios-programming-tutorial/) - QR码实施.
 - [QRCode](https://github.com/aschuch/QRCode) - 用 Swift 编写的 QRCode 生成器.
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - 一种更好的在Swift中操作二维码的方法.
 - [NSFWDetector](https://github.com/lovoo/NSFWDetector) - 带有 CoreML 的 NSFW（又名色情）检测器.
@@ -1373,7 +1375,7 @@
 - [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - 一个简单而优雅的 3D-Flyover 位置请求屏幕，用 Swift 编写.
 - [PAPermissions](https://github.com/pascalbros/PAPermissions) - 在 iOS 上请求权限的统一 API.
 - [AREK](https://github.com/ennioma/arek) - AREK 是一个干净且易于使用的包装器，可以覆盖任何类型的 iOS 权限.
-- [SPPermissions](https://github.com/ivanvorobei/SPPermissions)  - 在 Swift 上询问权限. 可用列表、对话框和本机界面. 可以检查状态权限.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions)  - 在 Swift 上询问权限. 可用列表、对话框和本机界面. 可以检查状态许可.
 
 ## Reactive Programming
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Swift 中的反应式编程.
@@ -1462,7 +1464,7 @@
 - [Stripe](https://github.com/stripe/stripe-ios) 适用于 iOS 和 macOS 的条纹绑定.
 - [AWS](https://github.com/aws-amplify/aws-sdk-ios) 适用于 iOS 的亚马逊网络服务移动 SDK.
 - [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) 适用于 iOS 的 Zendesk 移动 SDK.
-- [Dropbox](https://www.dropbox.com/lp/developers) 用于 Drop-ins 和 Dropbox Core API 的 SDK.
+- [Dropbox](https://www.dropbox.com/lp/developers) 用于 Drop-ins 和 Dropbox 核心 API 的 SDK.
 - [Firebase](https://firebase.google.com/docs/ios/setup) 移动（和网络）应用程序开发平台.
 - [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit 是一个开源软件框架，可以轻松地为医学研究或其他研究项目创建应用程序.
 - [Primer](https://www.goprimer.com/) - 用于在具有内置 a/b/n 测试和分析的可视化编辑器上创建个性化登陆屏幕、注册和登录流程的简单 SDK.
@@ -2689,7 +2691,7 @@
 - [Otafuku](https://github.com/tasanobu/Otafuku) - Otafuku 提供实用程序类以在 Swift 中使用 WKWebView.
 - [SwiftWebVC](https://github.com/meismyles/SwiftWebVC) - 适用于 Swift iOS 应用程序的嵌入式内联浏览器.
 - [SVWebViewController](https://github.com/TransitApp/SVWebViewController) - 适用于您的 iOS 应用程序的嵌入式内联浏览器.
-- [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView 是一个简单好用的 iOS WebView，可以弹出，有很多自定义项.
+- [PTPopupWebView](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView 是一个简单好用的iOS WebView，可以弹出，有很多自定义项.
 
 ## Utility
  * [Underscore.m](https://github.com/robb/Underscore.m) - 用于数据操作的 DSL.
@@ -2867,7 +2869,7 @@
 - [Peek](https://github.com/shaps80/Peek) - 查看您的申请.
 - [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的小框架和命令行工具，用于与 SourceKit 交互.
 - [xcbuild](https://github.com/facebook/xcbuild) - Xcode 兼容的构建工具.
-- [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段的可执行文件，将 // TODO: 或 // SERIOUS: 等注释标记为警告或错误，以便它们显示在 Xcode Issue Navigator 中.
+- [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段的可执行文件，将 // TODO: 或 // SERIOUS: 等注释标记为警告或错误，以便它们显示在 Xcode 问题导航器中.
 - [SwiftCompilationPerformanceReporter](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) - 为特定目标中的慢速 Swift 编译路径生成自动报告.
 - [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 为 Swift 构建时间分析器.
 - [Duration](https://github.com/SwiftStudies/Duration) - 一个简单的 Swift 包，用于测量和报告操作所花费的时间.
@@ -2987,7 +2989,7 @@
 
 - [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/#common-app-rejections) - 突出显示了导致应用程序被拒绝的一些最常见问题.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - 让您根据关键词和竞争对手跟踪您的 App Store 知名度.
-- [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - 在发布这个花了很长时间才完成的惊人应用程序之前要仔细检查的清单，但你不想匆忙离开，以防你犯了一个小学生错误，最终会让你看起来比实际情况更笨.
+- [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - 在发布这个需要很长时间才能完成的惊人应用程序之前，需要仔细检查的清单，但你不想匆忙离开，以防你犯了一个小学生错误，最终会让你看起来比实际情况更笨.
 - [Harpy](https://github.com/ArtSabintsev/Harpy) - 当您的 iOS 应用程序有新版本可用时通知用户，并通过 App Store 链接提示他们.
 - [appirater](https://github.com/arashpayan/appirater) - 提醒您的 iPhone 应用程序用户查看该应用程序的实用程序.
 - [Siren](https://github.com/ArtSabintsev/Siren) - 当您的应用程序有新版本可用时通知用户并提示他们升级.
@@ -3221,7 +3223,7 @@
 - [example-ios-apps](https://github.com/jogendra/example-ios-apps) - 在 Swift 中开发的开源示例 iOS 应用程序的精选列表.
 - [Curated-Resources-for-Learning-Swift](https://hackr.io/tutorials/learn-ios-swift) - 开发人员推荐的精选资源列表.
 - [ClassicProblemSolvingAndDataStructuresInSwift](https://github.com/smalam119/classic-problem-solving-algorithms-and-data-structures-in-swift) - 在 Swift 4 中收集流行的算法、数据结构和问题解决方案.
-- [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) - 适用于 macOS 的出色开源应用程序列表.
+- [Awesome list of open source applications for macOS](https://github.com/serhii-londar/open-source-mac-os-apps) - 很棒的 macOS 开源应用程序列表.
 - [Awesome iOS Interview question list](https://github.com/dashvlas/awesome-ios-interview)  - 采访者和受访者指南. 查看这些 iOS 面试问题 - 并在此过程中获得一些实用技巧.
 - [Top App Developers](https://github.com/app-developers/top) - 顶级 iOS 应用开发者名单.
 - [awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) - 对 ios 开发人员有用的知识和东西.
