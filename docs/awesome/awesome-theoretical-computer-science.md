@@ -49,6 +49,8 @@
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - 一本通俗易懂、以算法为导向、以研究为中心的最新指南，介绍复杂性理论中一些最有趣的技术.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html)  - 研究计算机算法的性能和局限性的知识体系. 涵盖的主题包括：归约和 NP 完整性、密码学​​和协议、随机算法、优化问题的近似性、电路复杂性、P=NP 问题的结构方面、并行计算和多项式层次结构.
 ### Communication Complexity<a name=theory_of_computation_computational_complexity_communication_complexity></a>
+#### Lecture Notes<a name=theory_of_computation_computational_complexity_communication_complexity_lecture_notes></a>
+- [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/)  - 一门研究生课程，介绍该领域的基本成果和技术以及一些研究前沿问题. 主题包括：通信模型和通信复杂性动物园、信息与通信、查询到通信的提升以及应用程序
 #### Books<a name=theory_of_computation_computational_complexity_communication_complexity_books></a>
 - [Rao & Yehudayoff. Communication Complexity and Applications](https://www.cambridge.org/core/books/communication-complexity/5F44993E3B2597174B71D3F21E748443) - 一本关于通信复杂性领域的优秀且可读性很强的入门教科书.
 ### Circuit Complexity<a name=theory_of_computation_computational_complexity_circuit_complexity></a>
@@ -130,7 +132,7 @@
 ## Lecture Notes<a name=game_theory_lecture_notes></a>
 - [Tim Roughgarden. Complexity Theory, Game Theory, and Economics: The Barbados Lectures](https://arxiv.org/abs/1801.00734)  - 双重目标的迷你课程笔记：迷你课程是双重的：(i) 解释复杂性理论如何帮助阐明经济学和博弈论中的几个障碍；  (ii) 说明博弈论问题如何导致新的有趣的复杂性理论，包括最近的几项突破.
 - [Eva Tardos. Algorithmic Game Theory](http://www.cs.cornell.edu/courses/cs6840/2012sp/)  - 它将算法思维与博弈论，或者更一般地说，经济概念相结合. 该课程将在此界面上研究一系列主题. 该课程的唯一先决条件是数学思维.
-- [Chekuri. Topics in Algorithms: Algorithmic Game Theory](https://chekuri.cs.illinois.edu/teaching/spring2008/agt.htm)  - 广泛的研究生水平介绍：拍卖、游戏和市场中均衡的存在和计算、算法机制设计、无政府状态的价格和稳定的价格、与网络和电子商务相关的游戏. 重点将放在概念思想和算法方面. 假定您不熟悉博弈论或经济学.
+- [Chekuri. Topics in Algorithms: Algorithmic Game Theory](https://chekuri.cs.illinois.edu/teaching/spring2008/agt.htm)  - 广泛的研究生水平介绍：拍卖、博弈和市场均衡的存在和计算、算法机制设计、无政府状态的价格和稳定的价格、与网络和电子商务相关的博弈. 重点将放在概念思想和算法方面. 假定您不熟悉博弈论或经济学.
 - [Penna. Algorithmic Game Theory](https://ml2.inf.ethz.ch/courses/agt/) - 本课程讨论博弈论的算法方面，例如博弈论的一般介绍、拍卖、机制、中央控制最优成本与自私代理下均衡的成本，以及计算均衡的算法和复杂性.
 - [Brown. Resources list for game theory](http://cs.brown.edu/courses/cs1951k/lectures/) - 助教在很大程度上基于 Tim Roughgarden 在斯坦福的 CS 364A 和 CS 364B 课程的讲义和随附视频，以及 Jason Hartline 的机制设计和近似教科书.
 - [Fang. Advanced Topics in Machine Learning and Game Theory](https://feifang.info/advanced-topics-in-machine-learning-and-game-theory-fall-2021/) - 涵盖机器学习和博弈论交叉主题的研究生课程.

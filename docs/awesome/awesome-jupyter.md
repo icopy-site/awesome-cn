@@ -45,7 +45,9 @@
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 图像.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 包含 Jupyter(Lab) 和各种数据科学/机器学习包的 Docker 镜像.
-- [nteract](https://github.com/nteract/nteract) - 本机桌面笔记本前端.
+- [nteract](https://github.com/nteract/nteract) - 本机桌面笔记本前端.<!--lint disable double-link-->
+- [Panel](https://github.com/holoviz/panel) - 作为静态文件或交互式和独立服务器/客户端（通过 pyodide）应用程序的笔记本.
+- [PaneLite](https://panelite.holoviz.org) - 分布 [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) 与 [Panel](https://panel.holoviz.org) 和 [HoloViz](https://holoviz.org) 生态系统.<!--lint enable double-link-->
 - [Stencila](https://github.com/stencila/stencila) - 本机桌面笔记本前端.
 - [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - 本机桌面笔记本前端.
 - [voila](https://github.com/voila-dashboards/voila) - 作为交互式独立网络应用程序的笔记本.
@@ -74,7 +76,7 @@
 - [ipychart](https://github.com/nicohlr/ipychart) - Jupyter 中的交互式 Chart.js 绘图.
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 使用 cytoscape.js 在 Jupyter 中进行交互式图形可视化的小部件.<!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.<!--lint enable double-link-->
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中用于 Leaflet.js 地图的交互式可视化库.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
@@ -106,7 +108,7 @@
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，用于在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本化、编辑和执行笔记本，并通过 REST 接口直接集成它们.
-- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文档.
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文件.
 - [jupyterlab_nbconvert_nocode](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - 用于 PDF/HTML 导出的 NBConvert 导出器，无需代码单元.
 - [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 在终端中很好地显示笔记本.
@@ -147,8 +149,8 @@
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到 JupyterLab 中变量或函数定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google 云端硬盘集成扩展.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - 用于 Jupyter 中多个后端的类似文件系统的内容管理器.
-- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔术.
-- [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔术.<!--lint disable double-link-->
+- [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
 - [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元格完成浏览器通知.
@@ -157,7 +159,7 @@
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - 从 JupyterLab 中通过电子邮件发送笔记本及其内容.
 - [jupyterlab_iframe](https://github.com/timkpaine/jupyterlab_iframe) - 在 JupyterLab 中将 HTML 视为嵌入式 iframe.
-- [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - VS Code 的 SynthWave &#39;84 和 JupyterLab 的霓虹夜主题的组合.
+- [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) - JupyterLab 中的笔记本模板.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - 实时编辑 LaTeX 文档的扩展.
 - [lineapy](https://github.com/LineaLabs/lineapy) - 使用两行代码将杂乱的 Jupyter 笔记本转换为生产就绪管道的扩展.
@@ -193,7 +195,7 @@
 - [ArcGIS](https://developers.arcgis.com/python/) - 用于处理地图和地理空间数据的库，由 Web GIS 提供支持.
 - [GenePattern Notebook](http://genepattern-notebook.org) - 将基因组分析与交互式笔记本相结合.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - 探索性地理空间分析的扩展.
-- [Jupylet](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound interactively in a Jupyter notebook.
+- [Jupylet](https://github.com/nir/jupylet) - 在 Jupyter Notebook 中以交互方式创建 2D 和 3D 游戏、图形、现场音乐和声音.
 - [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - 用于大规模地理定位数据集可视化探索的 Jupyter 扩展.
 - [lolviz](https://github.com/parrt/lolviz) - 列表、列表、字典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - 基于 Jupyter 的金融研究平台.
@@ -228,7 +230,7 @@
 
 ## Community Resources
 
-- 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
