@@ -155,7 +155,7 @@
 - [Prefers Dark Mode](https://github.com/javifm86/tailwindcss-prefers-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的变体.
 - [Dark Mode](https://github.com/danestves/tailwindcss-darkmode) - 添加基于 CSS 类的“深色”变体.
 - [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - 添加基于 `prefers-color-scheme` 媒体查询的 `dark` 变体.
-- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - Adds opacity variants to existing colors.
+- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) - 为现有颜色添加不透明度变体.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) - 将自定义变体添加到 Tailwind CSS 的配置中.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) - 添加一个微调器组件.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) - 添加“间隔”组件，为所有容器项目添加固定边距.
@@ -224,6 +224,7 @@
 - [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 - [Gust](https://www.getgust.com) - 为 WordPress 拖放页面构建器.
 - [clb](https://github.com/crswll/clb) - clb（类列表构建器）是一个实用函数，它基于一个类列表构建一个类列表 [Stitches](https://stitches.dev/) 像 API.
+- [react-with-class](https://github.com/antomics/react-with-class) - 用于创建具有一组类、道具或变体的原始 React 组件的实用函数.
 - [Inspect Flow](https://inspectflow.io) - 完整的 Tailwind CSS 开发工具.
 - [twined-components](https://github.com/lowfront/twined-components) - 样式组件的扩展组件，优先考虑在 Tailwind CSS 中使用的类名.
 - [Tails Devtools](https://github.com/vechai/tails-devtools) - Tailwind CSS 的多合一浏览器扩展.
@@ -263,7 +264,7 @@
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 - [Meraki UI Components](https://merakiui.com) - 支持 RTL 语言的漂亮的 Tailwind CSS 组件.
 - [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - 越来越多的文本/图像卡片.
-- [Tailwind Templates](https://www.tailwindtemplates.io) - 模板和组件的集合.
+- [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - [Treact](https://treact.owaiskhan.me) - 使用 Tailwind CSS 构建的 React UI 模板和组件.
 - [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - 使用 Tailwind CSS 的管理模板.
 - [themes.dev](https://www.themes.dev/) - 手工制作的免费和高级 Tailwind CSS 主题和组件.
