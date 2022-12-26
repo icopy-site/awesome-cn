@@ -379,7 +379,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -537,7 +537,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 
 ## Development Environment
@@ -649,6 +649,7 @@
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - 打包和解包可执行格式.
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - 对手用来在重启后保持对系统的访问的技术.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - 了解以太坊虚拟机安全生态系统.
+- [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - 从系统中以加密形式存储或传输的数据中恢复密码的过程.
 
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)

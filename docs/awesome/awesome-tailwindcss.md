@@ -69,6 +69,7 @@
 - [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - 使用 CSS 变量的主题，支持媒体查询.
 - [Themeable](https://github.com/upupming/tailwindcss-themeable) - 添加对 Tailwind CSS 的多主题支持.
 - [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - 添加对带有 CSS 变量和变体的 Tailwind CSS 的主题支持.
+- [Accent](https://github.com/enjidev/tailwindcss-accent) - 添加“强调”颜色以实现更动态和更灵活的颜色利用.
 - [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - 利用 Tailwind CSS 的配置来创建实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - 添加“图像渲染”实用程序.
@@ -143,7 +144,7 @@
 - [Scroll Snap](https://github.com/innocenzi/tailwindcss-scroll-snap) - 添加 `scroll-snap` 实用程序.
 - [Scroll Behavior](https://github.com/lukewarlow/tailwind-scroll-behavior) - 添加 `scroll-smooth` 和 `scroll-auto` 类来控制平滑滚动.
 - [Accent Color](https://github.com/lukewarlow/tailwind-accent-color) - 添加强调色实用程序.
-- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
+- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - 添加“文本缩进”实用程序.
 - [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - 添加 `text-decoration-color` 实用程序.
 - [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
 - [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
@@ -266,7 +267,7 @@
 - [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - 越来越多的文本/图像卡片.
 - [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
 - [Treact](https://treact.owaiskhan.me) - 使用 Tailwind CSS 构建的 React UI 模板和组件.
-- [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - 使用 Tailwind CSS 的管理模板.
+- [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 - [themes.dev](https://www.themes.dev/) - 手工制作的免费和高级 Tailwind CSS 主题和组件.
 - [Kutty](https://kutty.netlify.app) - Web 应用程序中常用的可访问和可重用组件.
 - [Sail UI](https://sailui.github.io/) - 基于 Tailwind CSS 构建的基本 UI 组件集合.

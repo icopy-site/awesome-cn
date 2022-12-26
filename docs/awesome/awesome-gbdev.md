@@ -269,7 +269,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) - 扩展 gbdk 的 C 库.
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - Michael Hope 的 Game Boy 开发工具包的一小部分资源和工具.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 用于 Game Boy 编程的 IDE，使用称为 GBL 的类 C 语言，具有许多其他功能，如瓦片和地图提取、WLA-DX 组装等.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 用于 Game Boy 编程的 IDE，使用称为 GBL 的类 C 语言，具有许多其他功能，如瓦片和地图提取、WLA-DX 汇编等.
 - [mgbdis](https://github.com/mattcurrie/mgbdis) - 具有 RGBDS 兼容输出的 Game Boy ROM 反汇编程序.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - 检查和修改 ROM 标头数据（包括徽标）的在线工具.
 - [romusage](https://github.com/bbbbbr/romusage)  - 用于从 .map、.noi 或 ihx 文件估算 Game Boy ROM 使用情况（可用空间）的命令行工具. 适用于 GBDK-2020 和 RGBDS.
@@ -365,7 +365,6 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 #### Syntax highlighting packages
 
-- [Atom language package for RGBASM](https://atom.io/packages/language-rgbasm) - RGBDS 汇编的原子语法突出显示.
 - [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) - Notepad+- 和 gedit 用于 RGBDS 汇编的语法高亮文件.
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - RGBDS 汇编的 Vim 语法突出显示.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - 另一个用于 RGBDS 汇编的 Vim 语法高亮文件.

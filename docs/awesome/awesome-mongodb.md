@@ -73,7 +73,7 @@
 
 ### Elixir
  - [mongodb](https://github.com/kobil-systems/mongodb) - 社区 Elixir 驱动程序
- - [mongodb_ecto](https://github.com/kobil-systems/mongodb_ecto) - Ecto 数据库包装器的适配器
+ - [mongodb_ecto](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - 社区 Erlang 驱动程序
@@ -135,10 +135,10 @@
  - [yadm](https://github.com/formapro/yadm) - 快速无模式 ODM
 
 ### Python
- - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
+ - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的迁移
  - [Djongo](https://github.com/nesdis/djongo) - 与 Django ORM 兼容的 Django 的 MongoDB 连接器
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - 将 PyMongo 支持添加到 Flask 的 Flask 扩展
- - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 惯用且友好但功能强大的 ODM（无模式）
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 适用于 MongoDB 和 Python 的强大无模式 ODM（同步 + 异步）
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - PyMongo 之上的 ODM
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB 日志处理程序
  - [Motor](https://github.com/mongodb/motor) - 用于 Tornado 或 asyncio 的官方非阻塞 Python 驱动程序
