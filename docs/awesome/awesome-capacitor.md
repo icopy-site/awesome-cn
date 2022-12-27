@@ -15,7 +15,7 @@
 <a><img src="https://page-views.glitch.me/badge?page_id=riderx.awesome-capacitor&right_color=blue" /></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/">查看：Capgo——电容器的即时更新</a></h2>
+<h2><a href="https://capgo.app/">查看：Capgo — 电容器的实时更新</a></h2>
 </div>
 <br>
 
@@ -111,7 +111,7 @@
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - 录制屏幕并保存到 pelicule.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - 浏览器在带有 urlChangeEvent 的应用程序浏览器中.
-- [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+- [Camera preview](https://github.com/Cap-go/camera-preview) - 允许从 HTML 代码（fork）进行相机交互的电容器插件.
 
 
 ## [Capawesome plugins](https://capawesome.io/)
@@ -227,7 +227,7 @@
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - 说明为什么将 Capacitor 应用称为“非本机”是不准确且令人困惑的术语.
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用程序中设置 Capacitor-updater，以便为您的用户无缝发布更新.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到主应用程序时部署您的应用程序.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub actions for free, to deploy your app every time you push to main.
 
 
 ### Books

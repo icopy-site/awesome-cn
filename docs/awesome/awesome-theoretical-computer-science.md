@@ -140,7 +140,7 @@
 - [Tim Roughgarden. Foundations of Blockchains](https://timroughgarden.github.io/fob21/)  - 区块链协议的科学和技术以及建立在它们之上的应用程序，重点是基本原则而不是特定协议.  - 也可以看看 [Lecture Videos](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 ## Books<a name=game_theory_books></a>
 - [Apt & Grädel. Lectures in Game Theory for Computer Scientists](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lectures-game-theory-computer-scientists) - 游戏为互动提供了数学模型，计算机科学中的许多任务都可以用博弈论的术语来表述.
-- [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 关于均衡算法方法、机制设计和组合拍卖的基本章节之后是关于重要博弈论应用的章节，如激励和定价、成本分摊、信息市场和密码学和安全.
+- [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 关于均衡算法方法、机制设计和组合拍卖的基本章节之后是关于重要博弈论应用的章节，如激励和定价、成本分摊、信息市场以及密码学和安全.
 ## Workshops<a name=game_theory_workshops></a>
 - [Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015)  - 交集的动机是大规模数字拍卖和市场等应用，以及纳什均衡的计算复杂性和机制设计中的复杂性和近似性等基本问题. 此外，为了有效地建模和研究互联网及其新颖的计算现象，可以从博弈论和经济理论中获得模型和见解. 另一方面，计算的观点对于理解一个市场是网络化的世界和经济交易的默认平台是算法的世界是必不可少的.
 - [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - 交集表现为（1）机器学习算法的数据输入是由利己方生成的，（2）机器学习用于优化经济系统或行为，（3）关键系统中使用的机器学习模型变得容易对抗性攻击，以及（4）几种机器学习方法可以被构建为寻找游戏的平衡.
@@ -205,12 +205,12 @@
 ### MOOC<a name=mathlogic_preliminaries_discrete_mathematics_mooc></a>
 - [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics)  - 学习计算机科学的语言. 学习定义计算机科学的数学，并通过数学证明和 Python 代码练习应用它.
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
-- 它已经被策划 [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - 介绍性证明和数学成熟度.
+ - 韦勒曼. 如何证明：结构化方法.  - 它通过教他们阅读和编写证明所需的技术，从解决问题过渡到证明定理.
 ## Surveys & Monographs<a name=surveys__monographs></a>
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - 计算复杂性的历史概述.
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作以及他们的工作对密码学基础的影响.
 - [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - 庆祝 Laszlo Lovasz 的作品集，将离散数学与计算机科学联系起来.
-- [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6) - A collection of survey papers in the fields of entropy, search and complexity. It includes also search theory and quantum source coding. Recommended to both researchers and students.
+- [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6)  - 熵、搜索和复杂性领域的调查论文集. 它还包括搜索理论和量子源编码. 推荐给研究人员和学生.
 - [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - 关于计算复杂性和量子计算交叉的调查.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - 一篇关于量子霸权的非凡论文.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - 计算复杂性的历史概述.
@@ -258,7 +258,7 @@
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - 关于数学学术职业问题的各种建议的集合，大致按建议最相关的职业阶段排列.
 - [Igor Pak. How to Start a Paper](https://igorpak.wordpress.com/2022/10/26/how-to-start-a-paper/) - 你为什么要介绍一个概念性的初步来激发你论文的故事.
 ## Special Magazines and Workshops<a name=other_resources_special_magazines_and_workshops></a>
-- [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM 的学生杂志计算理论特刊.
+- [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation.
 - [TCS Visioning Workshop 2020 Report](https://cra.org/ccc/wp-content/uploads/sites/2/2021/07/TCS-Visioning-Workshop-Report-2020.pdf) - TCS 领域的近期成就和新挑战.
 ## Popular Science Books<a name=other_resources_popular_science_books></a>
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - 对 P-NP 的非技术性介绍、其丰富的历史以及它对我们使用计算机及其他方面所做的一切的算法影响.

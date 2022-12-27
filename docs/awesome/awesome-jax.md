@@ -34,7 +34,7 @@
 - [cvxpylayers](https://raw.githubusercontent.com/cvxgrp/cvxpylayers) - 构建可区分的凸优化层. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 - [TensorLy](https://raw.githubusercontent.com/tensorly/tensorly) - 张量学习变得简单. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 - [NetKet](https://raw.githubusercontent.com/netket/netket) - 量子物理学机器学习工具箱. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
-
+- [Fortuna](https://raw.githubusercontent.com/awslabs/fortuna) - 用于深度学习中不确定性量化的 AWS 库. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 
 <a name="new-libraries" />
 
@@ -65,7 +65,7 @@
 - [exojax](https://raw.githubusercontent.com/HajimeKawahara/exojax) - 与 JAX 兼容的系外行星/褐矮星的自动可微光谱建模. <img src="https://img.shields.io/github/stars/HajimeKawahara/exojax?style=social" align="center">
 - [JAXopt](https://raw.githubusercontent.com/google/jaxopt) - JAX 中的硬件加速 (GPU/TPU)、可批处理和可区分的优化器. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 - [PIX](https://raw.githubusercontent.com/deepmind/dm_pix) - PIX 是 JAX 中的图像处理库，用于 JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
-- [bayex](https://raw.githubusercontent.com/alonfnt/bayex) - Bayesian Optimization powered by JAX. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
+- [bayex](https://raw.githubusercontent.com/alonfnt/bayex) - 由 JAX 提供支持的贝叶斯优化. <img src="https://img.shields.io/github/stars/alonfnt/bayex?style=social" align="center">
 - [JaxDF](https://raw.githubusercontent.com/ucl-bug/jaxdf) - 具有任意离散化的可区分模拟器的框架. <img src="https://img.shields.io/github/stars/ucl-bug/jaxdf?style=social" align="center">
 - [tree-math](https://raw.githubusercontent.com/google/tree-math) - 将对数组进行操作的函数转换为对 PyTrees 进行操作的函数. <img src="https://img.shields.io/github/stars/google/tree-math?style=social" align="center">
 - [jax-models](https://raw.githubusercontent.com/DarshanDeshpande/jax-models) - 最初没有代码或使用 JAX 以外的框架编写的代码的研究论文的实现. <img src="https://img.shields.io/github/stars/DarshanDeshpande/jax-modelsa?style=social" align="center">
@@ -203,7 +203,7 @@
 - [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - 在 Kaggle 花分类挑战中比较 Flax、Haiku 和 Objax.
 - [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - JAX 和元学习的介绍.
 - [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - 简洁的实施 [RealNVP](https://arxiv.org/abs/1605.08803).
-- [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - 实施路径追踪教程.
+- [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - Tutorial on implementing path tracing.
 - [Ensemble networks by Mat Kelcey](http://matpalm.com/blog/ensemble_nets) - 集成网络是一种将模型集成表示为单个逻辑模型的方法.
 - [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - 实施不同的 OOD 检测方法.
 - [Understanding Autodiff with JAX by Srihari Radhakrishna](https://www.radx.in/jax.html) - 了解 autodiff 如何使用 JAX 工作.

@@ -120,6 +120,7 @@
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于一次显示一个字符的文本对齐的库.
 * [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
 * [rotLove](https://github.com/paulofmandown/rotLove)  - LÖVE 中的 Roguelike 工具包.  rot.js 的 LÖVE/lua 端口.
+* [YAS](https://github.com/kithf/yas) - 另一个屏幕管理器.
 * [Scenery](https://github.com/paltze/scenery) - 一个非常简单的场景/状态管理系统.
 * [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE 框架的屏幕/状态管理.
 * [shack](https://github.com/Ulydev/shack) - Shack 是一个 LÖVE 库，可让您轻松添加摇动和旋转等屏幕效果.
