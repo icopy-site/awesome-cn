@@ -7,7 +7,7 @@
  </a>
 
 这个存储库列出了所有编程语言、构建工具、配置文件等的**静态分析工具**. 重点是提高代码质量的工具，例如 linters 和格式化程序.
-官方网站， [analysis-tools.dev](https://analysis-tools.dev/) 基于此存储库，并为每个工具添加排名、用户评论和其他资源（如视频）.
+The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于此存储库，并为每个工具添加排名、用户评论和其他资源（如视频）.
 
 [![Website](https://img.shields.io/badge/Website-Online-2B5BAE)](https://analysis-tools.dev)
 ![CI](https://github.com/analysis-tools-dev/static-analysis/workflows/CI/badge.svg)
@@ -107,7 +107,7 @@
 - [abapOpenChecks](https://docs.abapopenchecks.org) — 通过新的和可定制的检查增强了 SAP 代码检查器.
 
 
-<h2 id="ada">有</h2>
+<h2 id="ada">存在</h2>
 
 
 - [Codepeer](http://www.adacore.com/codepeer) :copyright: — 检测运行时和逻辑错误.
@@ -210,7 +210,7 @@
 
 - [NDepend](http://www.ndepend.com) :copyright: — 衡量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
-- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDPi、加密、反序列化等）提供实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) — Puma Scan provides real time secure code analysis for common vulnerabilities (XSS, SQLi, CSRF, LDAPi, crypto, deserialization, etc.) as development teams write code in Visual Studio.
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
@@ -287,7 +287,7 @@
 - [coffeelint](http://www.coffeelint.org) — 一种有助于保持 CoffeeScript 代码整洁和一致的样式检查器.
 
 
-<h2 id="coldfusion">ColdFusion</h2>
+<h2 id="coldfusion">冷聚变</h2>
 
 
 - [Fixinator](https://fixinator.app)  :copyright: — ColdFusion 或 CFML 代码的静态安全代码分析. 设计用于在 CI 管道或开发人员终端中工作.
@@ -334,7 +334,7 @@
 
 - [credo](https://github.com/rrrene/credo) — 专注于代码一致性和教学的静态代码分析工具.
 
-- [dialyxir](https://github.com/jeremyjh/dialyxir) — 混合任务以简化 Dialyzer 在 Elixir 项目中的使用.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
 - [sobelow](https://github.com/nccgroup/sobelow) — Phoenix Framework 的以安全为中心的静态分析.
 
@@ -370,7 +370,7 @@
 - [i-Code CNES for Fortran](https://github.com/lequal/i-CodeCNES) — Fortran 77、Fortran 90 和 Shell 的开源静态代码分析工具.
 
 
-<h2 id="go">去</h2>
+<h2 id="go">走</h2>
 
 
 - [aligncheck](https://gitlab.com/opennota/check) — 查找低效打包的结构.
@@ -470,7 +470,7 @@
 
 - [unparam](https://github.com/mvdan/unparam) — 查找未使用的函数参数.
 
-- [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
+- [varcheck](https://gitlab.com/opennota/check) — 查找未使用的全局变量和常量.
 
 - [wsl](https://github.com/bombsimon/wsl) — 在正确的地方强制使用空行.
 
@@ -584,7 +584,7 @@
 
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) — Web 组件的静态分析框架.
 
-- [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing JavaScript security vulnerabilities.
+- [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
 - [retire.js](http://retirejs.github.io/retire.js) — 检测使用具有已知漏洞的 JavaScript 库的扫描程序.
 
@@ -690,7 +690,7 @@
 
 - [PHP Coding Standards Fixer](https://cs.symfony.com) — 根据 PSR-1、PSR-2 和 Symfony 标准等标准修复您的代码.
 
-- [PHP Insights](https://phpinsights.com) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
+- [PHP Insights](https://phpinsights.com)  — 从您的控制台进行即时 PHP 质量检查. 代码质量和编码风格的分析以及代码架构及其复杂性的概述.
 
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622-php-inspections-ea-extended-) — PHP 的静态代码分析器.
 
@@ -710,7 +710,7 @@
 
 - [PHP_CodeSniffer](https://pear.php.net/package/PHP_CodeSniffer) — 检测是否违反一组已定义的编码标准.
 
-- [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) — 查找非内置扩展的用法.
+- [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) — Finds usage of non-built-in extensions.
 
 - [phpcpd](https://github.com/sebastianbergmann/phpcpd) — PHP 代码的复制/粘贴检测器.
 
@@ -742,7 +742,7 @@
 
 - [PHPStan](https://phpstan.org) — PHP 静态分析工具 - 无需运行即可发现代码中的错误！
 
-- [Progpilot](https://github.com/designsecurity/progpilot) — 用于安全目的的静态分析工具.
+- [Progpilot](https://github.com/designsecurity/progpilot) — A static analysis tool for security purposes.
 
 - [Psalm](https://psalm.dev) — 用于查找 PHP 应用程序中的类型错误的静态分析工具.
 
@@ -776,7 +776,7 @@
 
 - [bellybutton](https://github.com/hchasestevens/bellybutton) — 支持自定义项目特定规则的 linting 引擎.
 
-- [Black](https://black.readthedocs.io/en/stable) — 不妥协的 Python 代码格式化程序.
+- [Black](https://black.readthedocs.io/en/stable) — The uncompromising Python code formatter.
 
 - [Bowler](https://pybowler.io/)  — 现代 Python 的安全代码重构.  Bowler 是一种重构工具，用于在语法树级别操作 Python. 它支持安全、大规模的代码修改，同时保证生成的代码能够编译和运行. 它在 Python 中提供了简单的命令行界面和流畅的 API，用于在代码中生成复杂的代码修改.
 
@@ -796,7 +796,7 @@
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -977,7 +977,7 @@
 
 - [rustfix](https://github.com/rust-lang/rustfix) — 阅读并应用 rustc 提出的建议（以及第三方 lints，如 clippy 提供的）.
 
-- [rustfmt](https://github.com/rust-lang/rustfmt) — A tool for formatting Rust code according to style guidelines.
+- [rustfmt](https://github.com/rust-lang/rustfmt) — 根据样式指南格式化 Rust 代码的工具.
 
 - [RustViz](https://github.com/rustviz/rustviz)  — RustViz 是一个从简单的 Rust 程序生成可视化的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有图形指示器的 SVG 文件，这些指示器与 mdbook 集成以呈现 Rust 程序中数据流的可视化.
 
@@ -1080,7 +1080,7 @@
 
 - [svls](https://github.com/dalance/svls) — Verilog 和 SystemVerilog 的语言服务器协议实现，包括 lint 功能.
 
-- [verible-linter-action](https://github.com/chipsalliance/verible-linter-action) — Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
+- [verible-linter-action](https://github.com/chipsalliance/verible-linter-action) — 在 Verible 的帮助下，github 操作中的自动 SystemVerilog linting 用于自动检查 Verilog 和 SystemVerilog 源文件，并自动注释 Pull Requests 中的错误代码行.
 
 - [Verilator](https://www.veripool.org/verilator)  — 将 Verilog 转换为 C++ 或 SystemC 中的周期精确行为模型的工具. 执行 lint 代码质量检查.
 
@@ -1111,6 +1111,8 @@
 - [ArchUnit](https://www.archunit.org) — 对您的 Java 或 Kotlin 架构进行单元测试.
 
 - [Atom-Beautify](https://atom.io/packages/atom-beautify) — Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor.
+
+- [autocorrect](https://huacnlee.github.io/autocorrect) — 一种 linter 和格式化程序，可帮助您改进 CJK（中文、日语、韩语）之间的文案写​​作、更正空格、单词、标点符号.
 
 - [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: — Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95.
 
@@ -1150,7 +1152,9 @@
 
 - [codeql](https://github.com/github/codeql) — 深度代码分析——支持 VSCode 插件的多种语言的语义查询和数据流.
 
-- [Coderrect](https://coderrect.com/) :copyright: — Advanced static analyzer for multi-threaded software. Supports OpenMP, Pthreads, std::thread, and GPU/CUDA.
+- [CodeQue](https://codeque.co)  — 用于结构匹配 JavaScript 和 TypeScript 代码的生态系统. 提供了解代码结构的搜索工具. 作为 CLI 工具和 Visual Studio Code 扩展可用. 它有助于更​​快、更准确地搜索代码，使您的工作流程更有效. 很快它将提供 ESLint 插件来在几分钟内创建您自己的规则，以帮助确保代码库质量.
+
+- [Coderrect](https://coderrect.com/)  :copyright: — 用于多线程软件的高级静态分析器. 支持 OpenMP、Pthreads、std::thread 和 GPU/CUDA.
 
 - [CodeRush](https://www.devexpress.com/products/coderush) :copyright: — 在 Visual Studio 2015 及更高版本中使用 Roslyn 引擎的代码创建、调试、导航、重构、分析和可视化工具.
 
@@ -1182,7 +1186,7 @@
 
 - [emerge](https://github.com/glato/emerge)  — Emerge 是一个源代码和依赖项可视化工具，可用于收集有关软件项目的源代码结构、指标、依赖项和复杂性的见解. 扫描项目的源代码后，它会为您提供一个交互式 Web 界面，以使用图形结构探索和分析您的项目.
 
-- [ESLint](https://github.com/eslint/eslint) — 一个可扩展的 JS linter，遵循 ECMAScript 标准.
+- [ESLint](https://github.com/eslint/eslint) — An extensible linter for JS, following the ECMAScript standard.
 
 - [Find Security Bugs](https://find-sec-bugs.github.io)  — 用于 Java Web 应用程序和 Android 应用程序安全审计的 SpotBugs 插件.  （也适用于 Kotlin、Groovy 和 Scala 项目）
 
@@ -1240,7 +1244,7 @@
 
 - [Putout](https://github.com/coderaiser/putout) — 可插入和可配置的代码转换器，内置 eslint，支持 js、jsx typescript、flow、markdown、yaml 和 json 的 babel 插件.
 
-- [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
+- [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、OWASP ASVS、MISRA、AUTOSAR 和 SEI CERT 编码标准.
 
 - [pylama](https://klen.github.io/pylama/)  — Python 和 JavaScript 的代码审计工具. 包装 pycodestyle、pydocstyle、PyFlakes、Mccabe、Pylint 等
 
@@ -1268,7 +1272,7 @@
 
 - [Semgrep](https://semgrep.dev)  — 一种快速、开源的静态分析工具，用于在编辑器、提交和 CI 时查找错误并强制执行代码标准. 它的规则看起来像您已经编写的代码； 没有抽象语法树或正则表达式摔跤. 支持 17 种以上的语言.
 
-- [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain)  :copyright: — 快速查找并修复高优先级安全问题.  Semgrep Supply Chain 优先考虑可从您的代码中获取的 2% 的漏洞.
+- [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
 - [ShiftLeft](https://www.shiftleft.io)  :copyright: — 在您的代码库进入生产环境之前识别它们所特有的漏洞. 利用代码属性图 (CPG) 在单个图形图中同时运行其分析. 自动发现开发中的业务逻辑缺陷，如硬编码秘密和逻辑炸弹
 
@@ -1409,7 +1413,7 @@
 
 - [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
 
-- [VMware chap](https://github.com/vmware/chap)  — chap 分析未检测的 ELF 核心文件是否存在泄漏、内存增长和损坏. 它足够可靠，可以用于自动化以在泄漏发生之前捕获它们. 作为一种交互式工具，它有助于解释内存增长，可以识别某些形式的损坏，并通过提供各种内存位置的状态来补充调试器. 
+- [VMware chap](https://github.com/vmware/chap) — chap analyzes un-instrumented ELF core files for leaks, memory growth, and corruption.  It is sufficiently reliable that it can be used in automation to catch leaks before  they are committed. As an interactive tool, it helps explain memory growth,  can identify some forms of corruption, and supplements a debugger  by giving the status of various memory locations. 
 
 - [zydis](https://zydis.re) — 快速轻量级的 x86/x86-64 反汇编程序库
 
@@ -1477,7 +1481,7 @@
 
 - [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle 是一种基于 RuboCop Ruby linting 工具的 linting 工具，适用于 Chef 食谱.
 
-- [foodcritic](http://www.foodcritic.io) — 检查 Chef 食谱中是否存在常见问题的 lint 工具.
+- [foodcritic](http://www.foodcritic.io) — A lint tool that checks Chef cookbooks for common problems.
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
@@ -1523,7 +1527,7 @@
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
 
 - [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
@@ -1644,7 +1648,7 @@
 
 - [ChkTeX](http://www.nongnu.org/chktex) — 用于 LaTex 的 linter，它可以捕获 LaTeX 监督的一些印刷错误.
 
-- [lacheck](https://www.ctan.org/pkg/lacheck) — A tool for finding common mistakes in LaTeX documents.
+- [lacheck](https://www.ctan.org/pkg/lacheck) — 用于查找 LaTeX 文档中常见错误的工具.
 
 - [TeXLab](https://texlab.netlify.app) — TeX/LaTeX 的语言服务器协议实现，包括 lint 功能.
 
@@ -1670,7 +1674,7 @@
 
 - [mdformat](https://mdformat.rtfd.io) — CommonMark 兼容的 Markdown 格式化程序
 
-- [mdl](https://github.com/mivok/markdownlint) — 检查 Markdown 文件和标记样式问题的工具.
+- [mdl](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 
 - [remark-lint](https://remark.js.org) — 用 Ja​​vaScript 编写的可插入 Markdown 代码样式 linter.
 
@@ -1799,13 +1803,13 @@
 
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新型分析.
 
-- [Reshift](https://www.reshiftsecurity.com) :copyright: — A source code analysis tool for detecting and managing JavaScript security vulnerabilities.
+- [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
 - [Rezilion](https://www.rezilion.com/) :copyright: — 发现您环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建补救计划和开票以升级违反安全策略的组件和/或在 CI 中自动打补丁.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 
-- [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/)  :copyright: — 识别 Github、Google Code、MS CodePlex、SourceForge 等托管的开源代码项目中的漏洞. 该工具带有 130 多个默认搜索，可识别 SQL 注入、跨站点脚本 (XSS)、不安全的远程和本地文件包含、硬编码密码等. 
+- [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/) :copyright: — Identifies vulnerabilities in open source code projects  hosted on Github, Google Code, MS CodePlex, SourceForge, and more.  The tool comes with over 130 default searches that identify SQL injection,  cross-site scripting (XSS), insecure remote and local file includes, hard-coded passwords, etc. 
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
 
@@ -1824,11 +1828,11 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [MythX](https://mythx.io)  :copyright: — MythX 是一个易于使用的分析平台，它集成了多种分析方法，如模糊测试、符号执行和静态分析，以高精度发现漏洞. 它可以与 Remix 或 VSCode 等工具链集成，也可以从命令行调用.
 
-- [slither](https://github.com/trailofbits/slither) — Static analysis framework that runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses.
+- [slither](https://github.com/trailofbits/slither) — 运行一套漏洞检测器的静态分析框架，打印关于合约细节的视觉信息，并提供一个 API 来轻松编写自定义分析.
 
 - [solhint](https://protofire.github.io/solhint)  — Solhint 是由 https://protofire.io 创建的开源项目. 它的目标是为 Solidity 代码提供一个 linting 实用程序.
 
-- [solium](https://ethlint.readthedocs.io/en/latest) — Solium is a linter to identify and fix style and security issues in Solidity smart contracts.
+- [solium](https://ethlint.readthedocs.io/en/latest) — Solium 是一种 linter，用于识别和修复 Solidity 智能合约中的样式和安全问题.
 
 
 <h2 id="support">支持</h2>
@@ -1848,7 +1852,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [slim-lint](https://github.com/sds/slim-lint) — 用于分析 Slim 模板的可配置工具.
 
-- [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+- [yamllint](https://yamllint.readthedocs.io) — 检查 YAML 文件的语法有效性、键重复和外观问题，例如行长、尾随空格和缩进.
 
 
 <h2 id="terraform">地貌</h2>
@@ -1873,7 +1877,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  — VS Code 的 Vue 工具，由 vls（vue 语言服务器）提供支持.  Vetur 支持格式化嵌入式 HTML、CSS、SCSS、JS、TypeScript 等.  Vetur 只有一个“整个文档格式化程序”，不能格式化任意范围.
 
 
-<h2 id="wasm">网页组装</h2>
+<h2 id="wasm">Webassembly</h2>
 
 
 - [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.
@@ -1896,7 +1900,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [proselint](http://proselint.com) — 专注于写作风格而非语法的英语散文 linter.
 
-- [vale](https://docs.errata.ai/vale/about) — A syntax-aware linter for prose built with speed and extensibility in mind.
+- [vale](https://docs.errata.ai/vale/about) — 一种语法感知的 linter，用于散文，考虑到速度和可扩展性.
 
 - [write-good](https://github.com/btford/write-good) — 专注于消除“黄鼠狼的话”的 linter.
 
@@ -1906,7 +1910,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [Spectral](https://stoplight.io/open-source/spectral) — 灵活的 JSON/YAML linter，开箱即用地支持 OpenAPI v2/v3 和 AsyncAPI v2.
 
-- [yamllint](https://yamllint.readthedocs.io) — Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+- [yamllint](https://yamllint.readthedocs.io) — 检查 YAML 文件的语法有效性、键重复和外观问题，例如行长、尾随空格和缩进.
 
 
 <h2 id="git">混帐</h2>
@@ -1933,4 +1937,4 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 用于格式化和显示该内容的底层源代码已获得 MIT 许可.
 
 
-标题图片 [Designed by Freepik](http://www.freepik.com).
+Title image [Designed by Freepik](http://www.freepik.com).

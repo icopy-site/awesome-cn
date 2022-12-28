@@ -51,27 +51,27 @@
 
   *优雅的 URL 路由、导航框架、深层链接等*
 
-- [WAAppRouting](https://github.com/Wasappli/WAAppRouting)  - iOS 路由正确完成. 使用已解析的参数处理 URL 识别和控制器显示. 全部在一行中，控制器堆栈自动保存！
+- [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator 是处理导航流的对象，并在切换到下一个链后为下一个协调器共享流的处理.
+- [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动并深入链接到外部应用程序，如果未安装则回退到 Web.
+- [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - 一个开源库，用于构建可深度链接的 SwiftUI 应用程序，同时考虑组合、测试和人体工程学
+- [CoreNavigation](https://github.com/aronbalog/CoreNavigation) - 轻松在视图控制器之间导航.
+- [Crossroad](https://github.com/giginet/Crossroad)  - Crossroad 是一个专注于处理自定义 URL 方案的 URL 路由器. 使用它，您可以路由多个 URL 方案并轻松获取参数和参数.
 - [DeepLinkKit](https://github.com/button/DeepLinkKit) - 一种出色的路由匹配、基于块的方式来处理您的深层链接.
+- [DZURLRoute](https://github.com/yishuiliunian/DZURLRoute) - iOS应用的通用路由引擎，它可以处理应用程序之间的URLScheme和UIViewController之间的页面路由.
+- [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme 路由器支持为关联的 url 参数自动创建 UIViewControllers 以允许创建导航堆栈
 - [IntentKit](https://github.com/intentkit/IntentKit) - 在 iOS 应用程序中处理第三方 URL 方案的更简单方法.
 - [JLRoutes](https://github.com/joeldev/JLRoutes) - 具有简单的基于块的 API 的 iOS URL 路由库.
-- [IKRouter](https://github.com/IanKeen/IKRouter) - URLScheme 路由器支持为关联的 url 参数自动创建 UIViewControllers 以允许创建导航堆栈
-- [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动并深入链接到外部应用程序，如果未安装则回退到 Web.
-- [URLNavigator](https://github.com/devxoul/URLNavigator) - Swift 的优雅 URL 路由
-- [Marshroute](https://github.com/avito-tech/Marshroute) - Marshroute 是一个 iOS 库，可使您的路由器简单但功能强大.
-- [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于 iOS 的 URL 路由器.
-- [Router](https://github.com/freshOS/Router) - 适用于 iOS 的简单导航.
-- [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator 是处理导航流的对象，并在切换到下一个链后为下一个协调器共享流的处理.
-- [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - 基于 Reactive Flow Coordinator 模式的 iOS 应用程序导航框架.
 - [Linker](https://github.com/MaksimKurpa/Linker) - 处理 iOS 内部和外部深度链接的轻量级方法.
-- [CoreNavigation](https://github.com/aronbalog/CoreNavigation) - 轻松在视图控制器之间导航.
-- [DZURLRoute](https://github.com/yishuiliunian/DZURLRoute) - iOS应用的通用路由引擎，它可以处理应用程序之间的URLScheme和UIViewController之间的页面路由.
-- [Crossroad](https://github.com/giginet/Crossroad)  - Crossroad 是一个专注于处理自定义 URL 方案的 URL 路由器. 使用它，您可以路由多个 URL 方案并轻松获取参数和参数.
-- [ZIKRouter](https://github.com/Zuikyo/ZIKRouter)  - 一个面向接口的路由器，用于在 OC 和 Swift、iOS 和 macOS 中发现模块并使用协议注入依赖项. 以类型安全的方式处理路由.
-- [RouteComposer](https://github.com/ekazaev/route-composer) - 有助于处理视图控制器组合、路由和深度链接任务的库.
 - [LiteRoute](https://github.com/SpectralDragon/LiteRoute) - 在纯 Swift 上实现的 VIPER 模块之间的轻松转换.
-- [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - 一个开源库，用于构建可深度链接的 SwiftUI 应用程序，同时考虑组合、测试和人体工程学
+- [Marshroute](https://github.com/avito-tech/Marshroute) - Marshroute 是一个 iOS 库，可使您的路由器简单但功能强大.
+- [RouteComposer](https://github.com/ekazaev/route-composer) - 有助于处理视图控制器组合、路由和深度链接任务的库.
+- [Router](https://github.com/freshOS/Router) - 适用于 iOS 的简单导航.
+- [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - 基于 Reactive Flow Coordinator 模式的 iOS 应用程序导航框架.
 - [SwiftCurrent](https://github.com/wwt/SwiftCurrent) - 用于管理复杂工作流的库.
+- [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于 iOS 的 URL 路由器.
+- [URLNavigator](https://github.com/devxoul/URLNavigator) - Swift 的优雅 URL 路由
+- [WAAppRouting](https://github.com/Wasappli/WAAppRouting)  - iOS 路由正确完成. 使用已解析的参数处理 URL 识别和控制器显示. 全部在一行中，控制器堆栈自动保存！
+- [ZIKRouter](https://github.com/Zuikyo/ZIKRouter)  - 一个面向接口的路由器，用于在 OC 和 Swift、iOS 和 macOS 中发现模块并使用协议注入依赖项. 以类型安全的方式处理路由.
 
 
 ## Apple TV
@@ -350,7 +350,7 @@
 - [Skopelos](https://github.com/albertodebortoli/Skopelos)  - 核心数据上 Active Record 的简约、线程安全、非样板和超级易用版本. 做 Core Data 所需的一切.
 - [Cadmium](https://github.com/jmfieldman/cadmium) - 一个完整的快速框架，包装了 CoreData 并有助于促进最佳实践.
 - [DataKernel](https://github.com/mrdekk/DataKernel) - 简化操作的简单 CoreData 包装器.
-- [DATAStack](https://github.com/3lvis/DATAStack)  - 100% Swift 简单样板免费核心数据栈.  NSPersistentContainer.
+- [DATAStack](https://github.com/3lvis/DATAStack)  - 100% Swift 简单样板免费核心数据堆栈.  NSPersistentContainer.
 - [JustPersist](https://github.com/justeat/JustPersist) - JustPersist 是在 iOS 上使用开箱即用的核心数据支持进行持久化的最简单和最安全的方法.
 - [PrediKit](https://github.com/KrakenDev/PrediKit)  - 适用于 iOS、macOS、tvOS 和 watchOS 的 NSPredicate DSL. 受到 SnapKit 的启发，并用 Swift 精心编写.
 - [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) - 编写令人惊叹的、强类型和易于阅读的 NSPredicate，让您编写可流动的 NSPredicate，而无需猜测属性名称、谓词操作或编写错误的参数类型.
@@ -568,7 +568,7 @@
 
 - [Forbind](https://github.com/ulrikdamm/Forbind) - Swift 中的功能链接和承诺.
 - [Funky](https://github.com/brynbellomy/Funky) - Swift 中的函数式编程工具和实验.
-- [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备的功能性 Swift 工具集.
+- [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备的功能性 Swift 工具集合.
 - [Oriole](https://github.com/tptee/Oriole) - 作为 Swift 协议扩展实现的功能实用工具带.
 - [Prelude](https://github.com/robrix/Prelude) - 简单函数式编程工具的 Swift µframework.
 - [Swiftx](https://github.com/typelift/Swiftx) - 任何项目的功能数据类型和功能.
@@ -702,7 +702,7 @@
 *快速操作以及偷看和流行的互动*
 
 - [QuickActions](https://github.com/ricardopereira/QuickActions) - 用于 iOS 主屏幕快速操作（应用程序图标快捷方式）的 Swift 包装器.
-- [JustPeek](https://github.com/justeat/JustPeek) - JustPeek 是一个 iOS 库，它在本机不支持此类交互的设备上添加了对类似 Force Touch 的 Peek 和 Pop 交互的支持.
+- [JustPeek](https://github.com/justeat/JustPeek) - JustPeek 是一个 iOS 库，它在本机不支持这种交互的设备上添加了对类似 Force Touch 的 Peek 和 Pop 交互的支持.
 - [PeekView](https://github.com/itsmeichigo/PeekView) - PeekView 支持不具备 3D Touch 功能的 iOS 设备的查看、弹出和预览操作.
 
 ### iBeacon
@@ -883,7 +883,7 @@
 - [Serrano](https://github.com/pcpLiu/Serrano) - 适用于 iOS 和 macOS 的深度学习库.
 - [Swift-AI](https://github.com/Swift-AI/Swift-AI) - Swift 机器学习库.
 - [TensorSwift](https://github.com/qoncept/TensorSwift) - 一个在 Swift 中计算张量的轻量级库，它具有与 TensorFlow 类似的 API.
-- [DL4S](https://github.com/palle-k/DL4S) - Swift 的深度学习：基于反向模式自动微分的加速张量运算和动态神经网络，适用于可以运行 Swift 的每个设备.
+- [DL4S](https://github.com/palle-k/DL4S) - Swift 深度学习：基于反向模式自动微分的加速张量运算和动态神经网络，适用于可以运行 Swift 的每个设备.
 - [SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - 用于在 Swift 中创建和导出 CoreML 模型的 Swift 库.
 
 
@@ -916,7 +916,7 @@
 - [VectorMath](https://github.com/nicklockwood/VectorMath) - 适用于 Mac 和 iOS 的 Swift 库，可实现常见的 2D 和 3D 矢量和矩阵函数，对游戏或基于矢量的图形很有用.
 - [Expression](https://github.com/nicklockwood/Expression) - 用于在运行时评估数值表达式的 Mac 和 iOS 库.
 - [Metron](https://github.com/toineheuvelmans/Metron) - Metron 是几何函数和类型的综合集合，扩展了 CoreGraphics 提供的 2D 几何基元.
-- [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex 补充了 Swift 标准库中提供的数字功能.
+- [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex 补充了 Swift 标准库中提供的数字工具.
 - [Matft](https://github.com/jjjkkkjjj/Matft)  - Matft 是 Swift 中类似 Numpy 的库.  Matft 允许我们在 Swift 中轻松处理 n 维数组.
 
 ## Media
@@ -1330,7 +1330,7 @@
 - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - 使用 Swift 的“可编码”协议的 XML 编码器和解码器.
 
 ### Other Parsing
-- [WKZombie](https://github.com/mkoehnke/WKZombie)  - WKZombie 是一个适用于 iOS/macOS 的 Swift 框架，无需用户界面或 API 即可在网站内导航和收集数据，也称为无头浏览器. 它可用于运行自动化测试或使用 Javascript 操作网站.
+- [WKZombie](https://github.com/mkoehnke/WKZombie)  - WKZombie 是适用于 iOS/macOS 的 Swift 框架，无需用户界面或 API 即可在网站内导航和收集数据，也称为无头浏览器. 它可用于运行自动化测试或使用 Javascript 操作网站.
 - [URLPreview](https://github.com/itsmeichigo/URLPreview) - 用于显示网页预览信息的 NSURL 扩展.
 - [FeedKit](https://github.com/nmdias/FeedKit) - 用 Swift 编写的 RSS 和 Atom 提要解析器.
 - [Erik](https://github.com/phimage/Erik)  - Erik 是一个基于 WebKit 的无头浏览器. 无头浏览器允许运行功能测试，使用 javascript 访问和操作网页.
@@ -1554,7 +1554,7 @@
 - [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Swift 中的优雅加密工具包.
 - [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) - Swift 中的 RSA 公钥/私钥加密.
 - [EnigmaKit](https://github.com/mikaoj/EnigmaKit) - Swift 中的 Enigma 加密.
-- [Themis](https://github.com/cossacklabs/themis) - 高级密码库，提供基本的非对称加密、前向保密的安全消息传递和安全数据存储，支持 iOS/macOS、Android 和不同的服务器端平台.
+- [Themis](https://github.com/cossacklabs/themis) - 高级密码库，提供基本的非对称加密、前向保密的安全消息传递和安全的数据存储，支持 iOS/macOS、Android 和不同的服务器端平台.
 - [Obfuscator-iOS](https://github.com/pjebs/Obfuscator-iOS) - 通过混淆所有硬编码的安全敏感字符串来保护您的应用程序.
 - [swift-sodium](https://github.com/jedisct1/swift-sodium) - 安全且易于使用的 iOS 加密货币.
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - 以 Swift 编程语言实现的 Swift 加密相关函数和助手.
@@ -1665,7 +1665,7 @@
 - [RealTimeCurrencyFormatter](https://github.com/kaiomedau/realtime-currency-formatter-objc) - ObjC 国际货币格式化实用程序.
 - [Down](https://github.com/iwasrobbed/Down) - 基于 cmark 构建的 Swift 中快速的 Markdown 渲染.
 - [Marky Mark](https://github.com/m2mobi/Marky-Mark) - Highly customizable Markdown parsing and native rendering in Swift.
-- [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - 适用于 iOS 的降价视图.
+- [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS 的降价视图.
 - [Highlighter](https://github.com/younatics/Highlighter)  - 突出你想要的任何东西！  Highlighter 会神奇地在您的 UITableViewCell 或其他类中找到 UI 对象，例如 UILabel、UITextView、UITexTfield、UIButton.
 - [Sprinter](https://github.com/nicklockwood/Sprinter) - 用于在 iOS 和 macOS 上格式化字符串的库.
 - [Highlightr](https://github.com/raspu/Highlightr) - iOS 和 macOS 语法荧光笔，支持 176 种语言并带有 79 种样式.
@@ -2248,7 +2248,7 @@
 - [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel/)  - Swift UIView，用于在更改值时显示带有递增和递减步长动画的数字标签. 对于显示货币等场景很有用.
 - [JSLabel](https://github.com/jogendra/JSLabel) - UILabel 上的一个简单的可设计子类，具有额外的 IBDesignable 和 Blinking 功能.
 - [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)  - 动画蒙版标签是一个很好的渐变动画标签. 这是一种向应用程序中的任何视图添加闪烁效果的简单方法.
-- [STULabel](https://github.com/stephan-tolksdorf/STULabel) - 比 UILabel 更快的标签视图，支持异步渲染、与 UIDragInteraction 的链接、非常灵活的文本截断、自动布局、UIAccessibility 等.
+- [STULabel](https://github.com/stephan-tolksdorf/STULabel) - 比 UILabel 更快并支持异步渲染的标签视图、与 UIDragInteraction 的链接、非常灵活的文本截断、自动布局、UIAccessibility 等等.
 
 ### Login
 - [LFLoginController](https://github.com/awesome-labs/LFLoginController) - 可自定义的登录屏幕，用 Swift 编写.
@@ -2319,7 +2319,7 @@
 
 ### Navigation Bar
 - [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) - 在用户滚动时轻松隐藏和显示视图控制器的导航栏（和标签栏）
-- [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 一个嵌入式通用库可帮助您管理导航栏样式，并在为所有方向推送或弹出视图控制器时使不同导航栏样式之间的过渡动​​画平滑.
+- [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 嵌入式通用库可帮助您管理导航栏样式，并在为所有方向推送或弹出视图控制器时使不同导航栏样式之间的过渡动​​画平滑.
 - [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) - UINavigationBar 类别，允许您动态更改其外观
 - [BusyNavigationBar](https://github.com/gmertk/BusyNavigationBar) - 显示加载效果的 UINavigationBar 扩展
 - [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - 一个 UINavigationController 子类，支持隐藏或显示的弹出式交互式 UINavigationbar.
@@ -2409,7 +2409,7 @@
 -  [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll 是一个轻量级的 UICollectionView 动画布局，完全用 Swift 4 编写，兼容 iOS 11 和 Xcode 9
 -  [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS 自定义视图以显示书架上的书籍
 -  [SlideController](https://github.com/touchlane/SlideController)  - SlideController 是完全用 Swift 编写的简单灵活的 UI 组件. 它是使用泛型类型构建的 UIPageViewController 的一个很好的替代方案.
-- [CrownControl](https://github.com/huri000/CrownControl) - 受 Apple Watch Digital Crown 的启发，CrownControl 是一个微型附件视图，无需抬起拇指即可滚动浏览可滚动的内容.
+- [CrownControl](https://github.com/huri000/CrownControl) - 受 Apple Watch Digital Crown 的启发，CrownControl 是一个微型附件视图，无需抬起拇指即可滚动浏览可滚动内容.
 - [SegementSlide](https://github.com/Jiar/SegementSlide) - 多层 UIScrollView 嵌套滚动解决方案.
 
 ### Segmented Control
@@ -2564,7 +2564,7 @@
 - [SwiftSpreadSheet](https://github.com/stuffrabbit/SwiftSpreadsheet)  - Swift 中的电子表格 CollectionViewLayout. 完全可定制.
 - [GenericDataSource](https://github.com/GenericDataSource/GenericDataSource) - 一个通用的小型可重用组件，用于 Swift 中 UITableView/UICollectionView 的数据源实现.
 - [PagingView](https://github.com/KyoheiG3/PagingView) - 无限分页，智能自动布局，类似UIKit的界面.
-- [PJFDataSource](https://github.com/square/PJFDataSource) - PJFDataSource 是一个小型库，它为您的应用程序提供一个简单、干净的架构来管理其数据源，同时为常见的内容状态（即加载、加载、空和错误）提供一致的用户界面.
+- [PJFDataSource](https://github.com/square/PJFDataSource) - PJFDataSource 是一个小型库，它为您的应用程序提供一个简单、干净的架构来管理其数据源，同时为常见内容状态（即加载、加载、空和错误）提供一致的用户界面.
 - [DataSources](https://github.com/muukii/DataSources)  - 类型安全的数据驱动的 List-UI 框架.  （我们也可以使用 ASCollectionNode）
 - [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 跨多个 UICollectionView 拖放数据.
 - [SectionScrubber](https://github.com/3lvis/SectionScrubber) - 在集合视图部分之间快速滚动的组件
@@ -2650,7 +2650,7 @@
 - [MBAutoGrowingTextView](https://github.com/MatejBalantic/MBAutoGrowingTextView) - 一个自动布局基础 UITextView 子类，它会随着用户输入自动增长，并且可以受到最大和最小高度的限制 - 所有这些都不需要一行代码.
 - [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - 受 Codrops 启发的自定义 UITextFields 效果，使用 Swift 构建.
 - [Reel Search](https://github.com/Ramotion/reel-search) - RAMReel 是一个控制器，允许您从列表中选择选项.
-- [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField) - UITextField 的子类，其行为类似于典型的 UITextField，但有一个明显的例外：它管理一个自动完成建议的下拉表，该表会随着用户键入而更新.
+- [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField) - UITextField 的子类，其行为类似于典型的 UITextField，但有一个明显的例外：它管理一个自动完成建议的下拉表，该建议会随着用户键入而更新.
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)  - “浮动标签模式”的美观灵活的文本字段控件实现. 用斯威夫特写的.
 - [VMaskTextField](https://github.com/viniciusmo/VMaskTextField) - VMaskTextField 是一个为 iOS 创建输入掩码的库.
 - [TJTextField](https://github.com/tejas-ardeshna/TJTextField) - 带有下划线和左图的 UITextField.
@@ -2922,7 +2922,7 @@
 - [Zolang](https://github.com/Zolang/Zolang) - 一种用于在 iOS、Android 和工具之间共享逻辑的编程语言.
 - [xavtool](https://github.com/gabrielrobert/xavtool) - 自动增加 iOS / Android 应用程序版本的命令行实用程序.
 - [Cutter](https://cutter.albemala.me/) - 从单个模板开始为所有屏幕尺寸生成 iOS 启动图像（启动画面）的工具.
-- [nef](https://github.com/bow-swift/nef) - 一组用于 Xcode Playground 的命令行工具：让您可以对编写为 Xcode Playgrounds 的文档进行编译时验证，生成 markdown 文件，与 Jekyll 集成以构建微型站点，并与 Carbon 集成以导出代码片段.
+- [nef](https://github.com/bow-swift/nef) - 一组用于 Xcode Playground 的命令行工具：让您可以对编写为 Xcode Playgrounds 的文档进行编译时验证，生成 markdown 文件，与 Jekyll 集成以构建微型网站，并与 Carbon 集成以导出代码片段.
 - [Pecker](https://github.com/woshiccm/Pecker) - CodePecker 是一种检测未使用代码的工具.
 - [Speculid](https://speculid.com) - 从 SVG、PNG 和 JPEG 文件生成图像集和应用程序图标
 - [SkrybaMD](https://github.com/robertherdzik/SkrybaMD)  - 降价文档生成器. 如果您的团队需要一种简单的方法来维护和创建文档，那么此生成器非常适合您.
@@ -2996,7 +2996,7 @@
 
 - [Apple's Common App Rejections Styleguide](https://developer.apple.com/app-store/review/#common-app-rejections) - 突出显示了导致应用程序被拒绝的一些最常见问题.
 - [Free App Store Optimization Tool](https://www.mobileaction.co) - 让您根据关键词和竞争对手跟踪您的 App Store 知名度.
-- [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - 在发布这个花了很长时间才完成的惊人应用程序之前要仔细检查的清单，但你不想匆忙离开，以防你犯了一个小学生错误，最终会让你看起来比实际情况更笨.
+- [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - 在发布这个需要很长时间才能完成的惊人应用程序之前，需要仔细检查的清单，但你不想匆忙离开，以防你犯了一个小学生错误，最终会让你看起来比实际情况更笨.
 - [Harpy](https://github.com/ArtSabintsev/Harpy) - 当您的 iOS 应用程序有新版本可用时通知用户，并通过 App Store 链接提示他们.
 - [appirater](https://github.com/arashpayan/appirater) - 提醒您的 iPhone 应用程序用户查看该应用程序的实用程序.
 - [Siren](https://github.com/ArtSabintsev/Siren) - 当您的应用程序有新版本可用时通知用户并提示他们升级.

@@ -16,9 +16,9 @@
 
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 就像 Let&#39;s Play，但用于晦涩的软件文档.
 * [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
-* [Nix Pills](https://nixos.org/guides/nix-pills/) - 最好的学习方式，有例子.
+* [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
-* [nix.dev](https://nix.dev/) - 针对开发人员使用 Nix 生态系统完成工作的自以为是的指南.
+* [nix.dev](https://nix.dev/) - 为开发人员提供的关于使用 Nix 生态系统完成工作的自以为是的指南.
 * [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线交互式教程.
 
 ### Discovery
@@ -175,6 +175,7 @@
 * [NixVim](https://github.com/pta2002/nixvim) - 使用 Nix 模块和 Nixpkgs 构建的 NeoVim 发行版.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - 一个完整的邮件服务器，由 NixOS 模块管理.
 * [Stylix](https://github.com/danth/stylix) - 适用于 NixOS 的全系统配色方案和排版.
+* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 具有更高层协议的比特币节点的模块和包，重点是安全性.
 
 ## NixOS Configuration Editors
 
@@ -185,12 +186,11 @@
 
 ### Webinterface
 
-* [MyNixOS](https://mynixos.com/) - Graphical editor for Nix flakes. Create and manage configurations and modules for NixOS and Nix home-manager. Rather a Nix generator than a Nix editor, because it does not allow to import Nix files.
+* [MyNixOS](https://mynixos.com/)  - Nix 薄片的图形编辑器. 为 NixOS 和 Nix home-manager 创建和管理配置和模块.  Nix 生成器而不是 Nix 编辑器，因为它不允许导入 Nix 文件.
 
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算套件.
-* [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - 用于比特币节点的 Nix 包和 NixOS 模块，具有更高层协议，强调安全性.
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 像在 NixOS 上一样管理 macOS 配置.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - 为 macOS 自动更新 Firefox 二进制包.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 前沿的 Wayland 软件包.
