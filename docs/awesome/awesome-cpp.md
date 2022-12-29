@@ -46,12 +46,12 @@
 * [Reason](http://code.google.com/p/reason/)  - 一个跨平台框架，旨在为需要 C++ 的性能和强度的开发人员带来 Java、.Net 或 Python 的易用性.  [GPL2]
 * [ROOT](https://root.cern.ch/)  - 一组 OO 框架，具有以非常有效的方式处理和分析大量数据所需的所有功能. 在欧洲核子研究中心使用.  [LGPL]
 * [Seastar](https://github.com/scylladb/seastar)  - 用于现代硬件上的高性能服务器应用程序的高级开源 C++ 框架.  [Apache-2.0 许可证] [seastar.io](http://seastar.io/)
-* [STLport](http://www.stlport.org/)  - STL 的示例版本.  [自由的]
+* [STLport](http://www.stlport.org/)  - STL 的示例版本.  [自由]
 * [STXXL](http://stxxl.sourceforge.net/)  - 超大数据集的标准模板库.  [促进]
 * [tbox](https://github.com/tboox/tbox)  - 一个类似 glib 的多平台 c 库.  [阿帕奇2] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/)  - 一个C++跨平台快速应用开发框架.  [BSD]
 * [uSTL](http://msharov.github.io/ustl/)  - 小型 STL 库.  [麻省理工学院]
-* [Windows Template Library](http://sourceforge.net/projects/wtl/)  - 用于开发 Windows 应用程序和 UI 组件的 C++ 库.  [上市]
+* [Windows Template Library](http://sourceforge.net/projects/wtl/)  - 用于开发 Windows 应用程序和 UI 组件的 C++ 库.  [民众]
 * [Yomm2](https://github.com/jll63/yomm2)  - 快速、正交、开放的多方法. 取代 [Yomm11](https://github.com/jll63/yomm11) [促进]
 
 ## Artificial Intelligence
@@ -228,7 +228,7 @@
 * [OpenMP](http://openmp.org/) - OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor)  - 事件循环友好的 C++ actor 微框架.  [麻省理工学院]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  - 在一个相当小的 C++ 框架中实现 Actor、发布-订阅和 CSP 模型.  [BSD-3-条款]
-* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建于 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建在 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - RaftLib C++ 库，通过 C++ iostream 类运算符实现流/数据流并发 [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)  - 用于 C++ 的快速单生产者、单消费者无锁队列.  [BSD]
 * [stdgpu](https://github.com/stotko/stdgpu)  - GPU 上高效的类似 STL 的数据结构.  [阿帕奇2]
@@ -359,7 +359,7 @@
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
 * [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆可用于跟踪内存错误.  [BSD]
-* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试. [GPL2]
+* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试.[GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有多个平台的网络视图的分析器.  [未授权]
 * [MinUnit](https://github.com/siu/minunit)  - 一个最小的单元测试框架，用于 C 自包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ Seams 和模拟对象的 Eclipse CDT 插件.
@@ -621,7 +621,7 @@
 * [GMTL](http://ggt.sourceforge.net/)  - 图形数学模板库是一组以通用方式实现图形基元的工具.  [GPL2]
 * [GMP](https://gmplib.org/)  - 用于任意精度算术的 AC 库，对有符号整数、有理数和浮点数进行运算.  [LGPL3 和 GPL2]
 * [Klein](https://github.com/jeremyong/klein)  - 一个快速的、SIMD 优化的 C++17 几何代数库，用于点、线和平面投影、相交、连接、刚体运动等.  [麻省理工学院] [website](https://jeremyong.com/klein)
-* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短向量数学库.  [未授权]
+* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短矢量数学库.  [未授权]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  - 多精度整数和有理算术密码库.  [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp)  - Python Numpy 库的模板化标头仅 C++ 实现.  [麻省理工学院]
 * [muparser](http://beltoforion.de/article.php?a=muparser)  - muParser 是一个用 C++ 编写的可扩展的高性能数学表达式解析器库.  [麻省理工学院]
@@ -651,7 +651,7 @@
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐内存分配器. [PublicDomain]
 * [snmalloc](https://github.com/microsoft/snmalloc)  - 基于消息传递的高性能分配器.  [麻省理工学院]
 * [TCMalloc](https://github.com/google/tcmalloc)  - Google 的快速、多线程 malloc 实现.  [Apache-2.0] [website](https://google.github.io/tcmalloc/)
-* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的微型垃圾收集器.  [BSD]
+* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的小型垃圾收集器.  [BSD]
 
 ## Multimedia
 
@@ -805,7 +805,7 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
@@ -954,6 +954,7 @@
 * [ZBar](http://zbar.sourceforge.net/)  - 条码扫描器库，允许扫描照片/图像/视频流中的条码并返回它们的值.  [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/)  - 一个用 Java 实现的开源、多格式 1D/2D 条形码图像处理库，具有其他语言的端口.  [阿帕奇]
 * [pprint](https://github.com/p-ranav/pprint)  - 适用于现代 C++ 的漂亮打印机.  [麻省理工学院]
+* [pspsdk](https://github.com/pspdev/pspsdk)  - 用于 PSP 自制软件开发的开源 SDK.  [BSD/GNU GPL3]
 
 ## Software
 *用于创建开发环境的软件.*
@@ -1047,7 +1048,7 @@
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) - 基于文件的构建系统，在后台监视更改的文件.
-* [Premake](http://premake.github.io) - 一种配置有 Lua 脚本的工具，用于为 Visual Studio、GNU Make、Xcode、Code::Blocks 等跨 Windows、Mac OS X 和 Linux 生成项目文件.
+* [Premake](http://premake.github.io) - 配置有 Lua 脚本的工具，用于为 Visual Studio、GNU Make、Xcode、Code::Blocks 等跨 Windows、Mac OS X 和 Linux 生成项目文件.
 * [Vcpkg](https://github.com/microsoft/vcpkg)  - 适用于 Windows、Linux 和 MacOS 的 C++ 库管理器.  [麻省理工学院]
 * [waf](https://github.com/waf-project/waf)  - 基于 Python 的框架，用于配置、编译和安装应用程序.  [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/)  - 基于 Lua 的 AC/C++ 跨平台构建实用程序.  [阿帕奇]

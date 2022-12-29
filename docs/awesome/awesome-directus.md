@@ -4,7 +4,7 @@
 
 ## Awesome Directus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 与 Directus 相关的精彩内容的精选列表
+&gt; 与 Directus 相关的精选清单
 
 [Directus](https://directus.io) 是用于管理 SQL 数据库内容的实时 API 和应用程序仪表板.
 
@@ -25,13 +25,14 @@
 
 ## Integration
 
-- [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - JS SDK 为基于 JavaScript 的项目（浏览器和 Node.js）中的 Directus API 提供了一个直观的界面.
-- [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - 用于从 Directus API 将数据拉入 Gatsby 的源插件.
+- [Offical JS SDK](https://www.npmjs.com/package/@directus/sdk) - JS SDK 在 JavaScript 支持的项目（浏览器和 Node.js）中为 Directus API 提供了一个直观的界面.
+- [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - 用于将数据从 Directus API 拉入 Gatsby 的源插件.
 - [react-directus](https://github.com/gremo/react-directus) - 一组用于 Directus Headless CMS 的 React 组件和实用程序.
 - [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK 为 Directus API 提供接口.
 - [PHP SDK](https://github.com/alantiller/directus-php-sdk) - PHP SDK 提供对 Directus API 的轻松访问.
-- [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询构建器. 带上你自己的取件.
-- [Nuxtus](https://nuxtus.com) - 提供 Nuxt 样板和工具集，以从 Directus 集合自动创建 Nuxt 页面.
+- [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询生成器. 带上你自己的取物.
+- [Nuxt Directus](https://github.com/directus-community/nuxt-directus) - 一流的 Nuxt 3 模块，用于连接 Directus 实例.
+- [Nuxtus](https://nuxtus.com) - 提供 Nuxt 样板和一组工具，以从 Directus Collections 自动创建 Nuxt 页面.
 
 ## Extensions
 
@@ -42,23 +43,30 @@
 - [Date Picker Interface](https://github.com/u12206050/directus-9-date-picker-interface) - 原始 Directus DateTime 界面的替代日期选择器界面.
 - [Search Sync](https://github.com/dimitrov-adrian/directus-extension-searchsync) - 将数据同步到搜索引擎索引中，支持 Algolia、ElasticSearch 和 Meil​​iSearch.
 - [Dictionary](https://github.com/georgexchelebiev/directus-dictionary) - 将键值对保存为带有完整性进度指示器的 JSON blob.
-- [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - 支持前缀和后缀的 Slug/Permalink 界面.
-- [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - 将超链接元数据存储到 Direct.
-- [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - 将界面字段分组为可以通过按钮打开的模式.
-- [Display Link](https://github.com/jacoborus/directus-extension-display-link) - 使用“在新标签页中打开”按钮显示 URL.
+- [WordPress-like Slug](https://github.com/dimitrov-adrian/directus-extension-wpslug-interface) - 支持前缀和后缀的 Slug/Permalink 接口.
+- [Link Meta](https://github.com/dimitrov-adrian/directus-extension-linkmeta) - 将超链接元数据存储到 Direct 中.
+- [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - 将界面字段分组为可以使用按钮打开的模态.
+- [Display Link](https://github.com/jacoborus/directus-extension-display-link) - 显示带有“在新标签页中打开”按钮的 URL.
 - [SQL Panel](https://github.com/harish2704/directus-sql-panel) - 将存储的 SQL 查询结果显示为表格的面板组件.
 - [Websocket Subscribe](https://github.com/br41nslug/directus-websocket-subscribe) - 通过 websocket 订阅 Directus 更新的扩展. 
 - [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - 从 SVG 地图框中选择一个值.
 - [SES](https://github.com/ryntab/Directus-SES) - 使用 AWS SES 发送电子邮件的扩展.
-- [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - Directus 9 的数据网格接口宽度 `@revolist/vue3-datagrid`.
-- [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - Directus 9 的带有“顶点图表”的迷你图显示.
+- [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - Directus 9 的数据网格界面宽度“@revolist/vue3-datagrid”.
+- [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - 用于 Directus 9 的带有“apexcharts”的迷你图显示.
 - [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M 驱动标签接口.
 - [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - 上传/读取云图像的简单界面.
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - 清理 Directus 的 HTML 输入.
+- [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - 使用 LogSnag 将您的事件从 Directus 直接发送到您的手机.
 
 ## Tools
 
-- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate)  - 一个 CLI，用于根据真实实例中的更改自动生成 Directus 迁移.  （不再维护，功能添加到核心）
+- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate)  - 根据真实实例的变化自动生成 Directus 迁移的 CLI.  （不再维护，功能添加到核心）
+
+## Articles
+
+- [Directus Guides (Official)](https://directus.io/guides/)
+- [Learn Directus](https://learndirectus.com/)
+- [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
 
 ## Examples / Showcases
 
