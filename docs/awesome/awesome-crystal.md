@@ -245,6 +245,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) - 使用 DSL 创建 SVG 图像
+ * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - 与 StumpyPNG 一起使用以提取帧的 FFmpeg 绑定
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - 读写PNG图像
 
 ## Implementations/Compilers
@@ -358,7 +359,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Queues and Messaging
  * [mosquito](https://github.com/mosquito-cr/mosquito/) - Redis 支持定期和临时作业处理
- * [NATS.io](https://github.com/nats-io/nats.cr) - NATS客户端
+ * [NATS.io](https://github.com/nats-io/nats.cr) - NATS client
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - 简单、高效的作业处理
 
 ## Routing
@@ -422,6 +423,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [webmock.cr](https://github.com/manastech/webmock.cr) - 存根 `HTTP::Client` 请求的库
 
 ## Third-party APIs
+ * [amazonite](https://github.com/rjnienaber/amazonite) - 支持流行的 AWS API 的非官方 SDK
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - 这个库使用 AWS v4 签署你的 HTTP 请求
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 接口
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - 签署 HTTP::Request 对象并生成预签名的帖子表单
@@ -453,7 +455,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且有凝聚力的 Web 应用程序框架
- * [Athena](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+ * [Athena](https://github.com/athena-framework/athena) - 由可重复使用的独立组件组成的网络框架
  * [grip](https://github.com/grip-framework/grip) - 用于编写功能强大的 Web 应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  - 快如闪电，超级简单的网络框架. 灵感来自 Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上而不是调试和编写测试

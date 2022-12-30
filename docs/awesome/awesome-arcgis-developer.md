@@ -67,18 +67,18 @@
 - [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - 在所有支持的配置文件中收集可重复使用的 Arcade 表达式.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - 搜索、浏览和使用代码、脚本、模型、加载项、小部件等.
 - [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unity 产品团队示例.
-- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队示例.
+- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队样本.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - 由 Esri 的 REST JS 维护者构建的演示应用程序.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队示例.
-- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
+- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
 - [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri 的官方 ArcGIS Runtime Java 产品团队示例.
-- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
-- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
+- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
+- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Java 示例.
 - [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Kotlin 示例.
 - [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri 的官方 ArcGIS Runtime iOS 产品团队示例.
-- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 样本.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 样本.
+- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 示例.
+- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 示例.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - 开始使用 ArcGIS API for JavaScript 4.x 的样板集合.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - 用于 ArcGIS API for JavaScript 的通用代码模式的 Visual Studio 代码片段集合.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 有助于成功使用所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android……）的社区示例.
@@ -156,11 +156,10 @@
 
 ## Helpers
 
-- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 在 ArcGIS API for JavaScript 4.x 中为 3D 网络应用程序获取摄像机位置 JSON 对象的网络应用程序.
+- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 在 ArcGIS API for JavaScript 4.x 中为 3D 网络应用程序获取相机位置 JSON 对象的网络应用程序.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) - 用于在 ArcGIS API for JavaScript 4.x 中为 Web 应用程序获取地图范围 JSON 对象的 Web 应用程序.
 - [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑器构建的应用程序中延迟加载 ArcGIS API for JavaScript（即从 CDN）.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - 自定义 React 挂钩，用于将 ArcGIS API for JavaScript 与 esri-loader 结合使用.
-- [react-arcgis](https://github.com/Esri/react-arcgis)  - 一个包含一些随时可用的 React 组件的库 (`<Map />  `, `<Scene />  `, `<WebMap />  ` 和 `<WebScene />  `) 让您开始在 React 应用程序中使用 ArcGIS API for JavaScript.
 - [react-sceneview](https://github.com/Esri/react-sceneview) - 基于 ArcGIS API for JavaScript 构建的简单 Esri SceneView 反应组件.
 
 ## Map and data exploration

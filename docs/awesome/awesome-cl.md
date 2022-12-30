@@ -229,7 +229,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -440,7 +440,7 @@ YAML
 * [rutils](https://github.com/vseloved/rutils)  - Common Lisp 的激进但合理的句法实用程序.  [麻省理工][200].
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)  - 标准 Common Lisp 函数（相等、比较、算术、对象、迭代器、序列等）的通用函数接口.  [麻省理工][200]. 又见更轻量级 [generic-comparability](https://github.com/pnathan/generic-comparability) .  [LLGPL][8].
 * [anaphora](https://common-lisp.net/project/anaphora/)  - 照应宏的集合. 公共区域.
-* ⭐ [trivia](https://github.com/guicho271828/trivia/)  - 优化的模式匹配库.  [LLGPL][8].
+* ⭐ [trivia](https://github.com/guicho271828/trivia/) - Optimized pattern-matching library. [LLGPL][8].
 * [arrow-macros](https://github.com/hipeta/arrow-macros)  - 类似 Clojure 的线程宏.  [麻省理工][200].
 * [hu.dwim.walker](https://quickref.common-lisp.net/hu.dwim.walker.html) - a code walker and unwalker (aka AST parser and unparser). [BSD][15]. See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
@@ -459,7 +459,7 @@ YAML
 * [cl21](https://github.com/cl21/cl21)  - 将 Common Lisp 带入 21 世纪的实验项目.  [外籍人士][14].
 * [clamp](https://github.com/malisper/Clamp)  - Arc 语言相对于 Common Lisp 的简洁明了.  [艺术许可证 2.0][51].
   * 还 [arc-compat](https://github.com/g000001/arc-compat)  - 弧兼容包.  Perl 基金会的艺术许可证 2.0.
-* [cl-syntax](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8].
+* [cl-syntax](https://github.com/m2ym/cl-syntax)  - 读者语法约定.  [LLGPL][8].
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax)  - 缩进敏感的阅读器系统. 在 Quicklisp 上不可用. 公共区域.
 * [cl-annot](https://github.com/m2ym/cl-annot)  - Common Lisp 的类似 Python 的注释.  [LLGPL][8].
   * [cl-annot-revisit](https://github.com/y2q-actionman/cl-annot-revisit/)  - 重新实施 cl-annot.  WTFPL.
@@ -498,7 +498,7 @@ CLOS 扩展
 功能扩展
 -------------------
 
-* [cl-hooks](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
+* [cl-hooks](https://github.com/scymtym/architecture.hooks/)  - 挂钩扩展点机制（众所周知，例如，来自 GNU Emacs）.  LGPL.
 * [method-hooks](https://gitlab.com/Gnuxie/method-hooks)  - 当 CLOS 方法组合只允许每个方法有一个挂钩时，该库允许任意数量的挂钩.  Mozilla 公共许可证.
 * [cl-advice](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md)  - SBCL、CCL、LispWorks 和 Allegro 的可移植层建议库的尝试. 不在 Quicklisp 中.
 * [nhooks](https://github.com/atlas-engineer/nhooks) - 具有重要改进的挂钩（扩展点）的增强实现.
@@ -645,7 +645,7 @@ Advanced
 其他书籍
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 合着，由麻省理工学院出版社免费提供——这是一本在标准人工智能文本中独一无二的书，结合了科学与工程、理论与工艺来描述 AI 推理系统的构建，并包括说明这些想法的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 合着，由麻省理工学院出版社免费提供——这是一本在标准人工智能文本中独一无二的书，结合了科学与工程、理论与工艺来描述 AI 推理系统的构造，并包括说明这些想法的代码.
 
 Community
 ---------
@@ -664,7 +664,7 @@ Community
 图书馆经理
 ===============
 
-* ⭐ [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
+ * ⭐ [Quicklisp][16] - 包含许多库的库管理器，具有简单的依赖管理.  [外籍人士][14].
 * [CLPM](https://gitlab.common-lisp.net/clpm/clpm)  - Common Lisp 的包管理器，它努力将包管理器进程本身与使用它的客户端映像完全分开.  [BSD_2条款][17].
 * [Ultralisp](http://ultralisp.org/)  - 一种 Quicklisp 发行版，每 5 分钟更新一次，只需单击一下即可将其项目添加到其中.  [BSD][15].
 *[Roswell](https://github.com/roswell/roswell)  - Lisp 实现安装程序、脚本启动器等.  [麻省理工][200].
@@ -912,7 +912,7 @@ Websockets
   - 可选地使用确认令牌创建用户（适用于邮寄给用户），
 * [mito-email-auth](https://github.com/40ants/mito-email-auth) - 通过电子邮件向网站用户发送唯一代码，帮助他们验证网站用户的身份.
 
-* [cl-cas](https://github.com/fferrere/cl-cas) - 一个图书馆来帮助 [CAS authenticaton](https://apereo.github.io/cas/6.0.x/protocol/CAS-Protocol.html) 到 Common Lisp Web 应用程序. 不在 Quicklisp 中.
+* [cl-cas](https://github.com/fferrere/cl-cas) - 一个图书馆来帮助 [CAS authenticaton](https://apereo.github.io/cas/6.0.x/protocol/CAS-Protocol.html) 到 Common Lisp 网络应用程序. 不在 Quicklisp 中.
   * [cas-middleware](https://github.com/fferrere/cas-middleware) - 穴居人的 CAS 身份验证中间件.
   * [cas-demo](https://github.com/fferrere/cas-demo) - 一个演示项目.
 
@@ -922,7 +922,7 @@ Websockets
 
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3条款][15]. 不在 Quicklisp 中.
   * 提供一个工作玩具网络应用程序，带有 Hunchentoot 网络服务器、简单路由、Djula 模板，使用 Bulma 设计样式，基于 SQLite，带有迁移、示例表定义和使用 FiveAM 的测试套件.
-* [make-like](https://github.com/container-lisp/make-like)  - LIKE（Kubernetes + Emacs 中的 Lisp）应用程序的应用程序模板构建器.  [Apache2.0][51].
+* [make-like](https://github.com/container-lisp/make-like) - an application template builder for LIKE (Lisp In Kubernetes + Emacs) applications. [Apache2.0][51].
   * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置了健康检查的简易路由等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的网络应用样板. 使用 Hunchentoot、cl-who，可以轻松部署到 Heroku.  [麻省理工][200].
 
@@ -1003,7 +1003,7 @@ Others
 * [cl-geometry](https://github.com/Ramarren/cl-geometry/)  - 用于 Common Lisp 的二维计算几何系统.  [麻省理工][200].
 * [Vellum](https://github.com/sirherrbatka/vellum)  - Common Lisp 的数据框架.  BSD_2条款.
 * [rtg-math](https://github.com/cbaggers/rtg-math/)  - 在 lisp 中制作实时图形最常用的数学例程选择（2、3 和 4 分量向量、3x3 和 4x4 矩阵、四元数、球坐标和极坐标）.  BSD_2条款.
-* [origin](https://github.com/mfiano/origin)  - 一个原生的 Lisp 图形数学库，强调性能和正确性. 包括：向量、矩阵（最多 4x4）、四元数、单/双浮点数支持、破坏性/非破坏性操作、整形和交叉.  [麻省理工][200].
+* [origin](https://github.com/mfiano/origin)  - 一个原生的 Lisp 图形数学库，强调性能和正确性. 包括：矢量、矩阵（最多 4x4）、四元数、单/双浮点数支持、破坏性/非破坏性操作、整形和交叉.  [麻省理工][200].
 
 矩阵库
 ----------------
@@ -1064,6 +1064,13 @@ Utils
 * [common-lisp-actors](https://github.com/naveensundarg/Common-Lisp-Actors)  - 一个简单易用的Actor系统.  [BSD_2条款][17].
 * [memento-mori](https://github.com/zkat/memento-mori) - 一个用于编写健壮的、基于参与者的系统的库. 它从 Erlang/OTP 以及 Akka 中汲取灵感，尤其是其对高可用性系统的崩溃优先方法.  [麻省理工][200].
 
+也可以看看：
+
+* [lisp-actors](https://github.com/dbmcclain/Lisp-Actors)，“对 Common Lisp 中 Actor 模型的使用的持续调查，它已经在实际应用中受益”.
+  * 这是的一部分 [Emotiq blockchain](https://github.com/emotiq/emotiq/blob/dev/src/test/blockchain-test.lisp) （一个停止的项目）
+  * 做远程处理，包括一个类似于 Bordeaux-Threads 的线程抽象层库.
+   *！ 它缺乏单元测试.
+
 
 事件处理
 ----------------
@@ -1122,7 +1129,7 @@ Readline、ncurses 和其他图形助手
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   函数在输入时编辑行，维护列表
   以前输入的命令行，调用并重新编辑它们，
-  perform csh-like history expansion.  Emacs and vi editing
+  执行类似 csh 的历史扩展.  Emacs 和 vi 编辑
   模式.  [GPL3][2].
 * [Linedit](https://common-lisp.net/project/linedit) - 阅读风格
   提供可定制行编辑的库
@@ -1160,7 +1167,7 @@ Readline、ncurses 和其他图形助手
 其他脚本实用程序
 -------------------------
 
-* [WCL](https://github.com/wadehennessey/wcl) [停滞] - 允许数百个 Lisp
+* [WCL](https://github.com/wadehennessey/wcl) [stalled] - allow hundreds of Lisp
 应用程序可立即实际使用，同时允许
 其中几个同时运行.  WCL 通过
 提供 Common Lisp 作为 Unix 共享库，可以与
@@ -1258,6 +1265,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 ## Online editors ##
 
 * [Judge0 IDE](https://ide.judge0.com/?lUpj) 是一个支持 Common Lisp (SBCL) 的在线编辑器.  [麻省理工][200].
+* [Riju](https://riju.codes/commonlisp)，“每种编程语言的快速在线游乐场”，支持 Common Lisp (SBCL).
 
 ## Apps ##
 
@@ -1270,7 +1278,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 * [cl-yacc](https://github.com/jech/cl-yacc)  - LALR(1) 解析器生成器.  [麻省理工][200].
 * [cl-shlex](https://github.com/ruricolist/cl-shlex/)  - 用于类 shell 语法的简单词法分析器.  [麻省理工][200].
 * [smug](https://github.com/drewc/smug)  - Common Lisp 的解析器组合器.  SMUG 使创建快速可扩展的递归下降解析器变得简单，而无需时髦的语法或难以理解的宏观.  [麻省理工][200].
-* [parseq](https://github.com/mrossini-ethz/parseq)  - 一个使用解析表达式语法解析字符串和列表等序列的库. 灵感来自 Esrap.  GPL2.
+* [parseq](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using parsing expression grammars. Inspired by Esrap. GPL2.
 * [texp](https://github.com/eugeneia/texp/)  - 生成 TeX 的 DSL.  [AGPL-3.0][agpl3].
 
 文本处理
