@@ -211,7 +211,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -264,7 +264,7 @@
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)].
 
-* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
+* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
 
 * [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250) - ***麻省理工学院博士论文***，2018 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=) ]. 绑架在异常检测中的应用.
 
@@ -358,7 +358,7 @@
 
 * [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***统计科学***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
-* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
+* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
 
@@ -396,7 +396,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -700,7 +700,7 @@
 
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***可视化实验杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
-* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
+* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***神经元***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
 
 * [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966&hl=en&as_sdt=0,5)].
 
@@ -1073,7 +1073,7 @@
 
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***科学***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5) ]. 对科学的科学进行全面的大规模审查.
 
-* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
 
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
 
@@ -1418,7 +1418,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1432,7 +1432,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -1906,7 +1906,7 @@
 * [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
 
-<span id = "sc"></span>
+
 ### Susan Carey
 
 发展心理学家，提出*对象*作为人类智能的核心知识. 
@@ -1942,6 +1942,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** ---每个主题都描述了一种智能现象，或者一种智能行为---它们展示了计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
 显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

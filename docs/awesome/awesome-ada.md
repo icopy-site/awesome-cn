@@ -105,7 +105,7 @@
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - 适用于 C++ 或 Java 开发人员的 Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - 采用 SPARK 的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  - 安全可靠的软件.  Ada 2012 的邀请.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - A book going from beginner to advanced concepts in Ada 95, complete with source files.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初级概念到高级概念的书，包括源文件.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810091/81341/cover/9781009181341.jpg">[Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.)](https://www.cambridge.org/core/books/programming-in-ada-2012-with-a-preview-of-ada-2022/AD30275F35CCECB97EAB80ABC32B019C#) - 综合的.  
@@ -137,7 +137,7 @@
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.									   
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) -Reddit 上的 Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 上的 Ada.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
@@ -147,7 +147,7 @@
 - [adacore-blog](https://blog.adacore.com/) - 深入了解 AdaCore 生态系统.
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe 是一个国际组织，旨在促进 Ada 的使用.
 - [acm-sig-ada](https://www.sigada.org/) - Ada 特别兴趣小组.
-- [ada-resource-association](http://www.adaic.org/community/) - Since 1990 the Ada Resource Association’s principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
+- [ada-resource-association](http://www.adaic.org/community/) - 自 1990 年以来，Ada 资源协会的主要使命一直是“确保 Ada 用户的持续成功并促进 Ada 在软件行业中的使用”.
 - [ada-information-clearinghouse](http://www.adaic.org/) - Ada 编程语言的新闻和资源.
 - [ada-planet](https://www.laeran.pl/adaplanet/i/)  - 来自 Ada 编程语言世界的新闻聚合器.  ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
 
@@ -249,7 +249,7 @@
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是一个用于嵌入式应用程序的硬实时操作系统，遵循最小实时 POSIX.13 子集. 它提供了一个易于使用和受控的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) - 用于高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
-- [bare-bones](https://github.com/Lucretia/bare_bones) - 的 Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小的 32 位 x86 内核.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - 的 Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace 致力于使用 Ada 2012 语言编写类 Unix 操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada_KALINDA 是一种用 Ada95 编写的类似于 Mac Plus 的操作系统.
 - [cxos](https://github.com/ajxs/cxos) - Ada 操作系统开发示例.
@@ -352,8 +352,10 @@
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - 模糊机器学习框架.
 
 #### Automation
-- [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) - 为 Ada 应用程序设计高质量工业控制小部件提供的软件包集合.
+- [aicwl] - 为 Ada 应用程序设计高质量工业控制小部件而提供的软件包集合.
 - [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) - A4A 是使用 Ada 语言设计工业自动化应用程序的框架.
+
+[aicwl]：http://www.dmitry-kazakov.de/ada/aicwl.htm
 
 ## Tools
 
@@ -504,7 +506,7 @@
 - [adare-net](https://gitlab.com/daresoft/network/adare_net)  - 这是一个小巧、便携且易于使用的 Ada 网络库. 它支持 ipv4 ipv6 udp 和 tcp，也可以“监听”ipv6.
 
 #### Chatting and Communication
-- [axmpp](https://github.com/coopht/axmpp) - With the AXMPP library you can connect to a Jabber server to send and receive messages.
+- [axmpp](https://github.com/coopht/axmpp) - 使用 AXMPP 库，您可以连接到 Jabber 服务器以发送和接收消息.
 - [weechat-ada](https://github.com/onox/weechat-ada) - 用于 WeeChat 插件的 Ada 2012 库.
 - [weechat-canberra](https://github.com/onox/weechat-canberra) - 用 Ada 2012 编写的 WeeChat 插件，使用 Canberra 播放声音.
 - [weechat-emoji](https://github.com/onox/weechat-emoji) - 一个用 Ada 2012 编写的显示表情符号的 WeeChat 插件.
@@ -538,17 +540,20 @@
 - [canberra-ada](https://github.com/onox/canberra-ada) - libcanberra 的 Ada 2012 绑定，XDG 声音主题和名称规范的实现.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) - libsoundio 的 Ada 绑定.
 - [oto](https://github.com/darkestkhan/oto) - Ada 绑定到 OpenAL，它在使用 Ada 类型时试图模仿原始 API.
+- [coreland-openal-ada] - 有与 OpenAL 的绑定
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
-- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - 简单的音频合成库.
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [scala](http://www.huygens-fokker.org/scala) - Scala 是一款功能强大的软件工具，用于实验音乐调音，例如纯音调音阶、平均和历史音律、微调和大调音阶以及非西方音阶.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound)  - 用于 Ada 应用程序的 linux 声音播放包，可以异步启动和停止音乐循环，以及启动瞬态声音. 适合游戏.
+
+[coreland-openal-ada]：https://github.com/io7m/coreland-openal-ada
 
 #### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - 允许将应用程序消息外部化到属性文件中的 Ada 包.
 
 #### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - 资源管理的引用计数方法.
-- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Stream utilities for Ada2005 and 2012.
+- [a-stream-tools](https://github.com/persan/a-stream-tools.git) - Ada2005 和 2012 的流实用程序.
 - [ssprep](https://github.com/persan/ssprep.git) - 类似于 jinja 的可扩展模板引擎，但使用 [template-parser] 并用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) - Ada 的开源许可库.
 - [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的日志记录工具，用于输出到 Ada 程序中的控制台.
@@ -556,8 +561,8 @@
 - [cstrings](https://github.com/mosteo/cstrings) - 方便子程序与 C 字符串交互.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 将 Ada 合格评定机构共享的 CVS 存储库导入 Git 存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  - 用于在 Ada 应用程序中透明处理数据和配置文件访问的库和工具. 支持 MacOSX、Linux 和 Windows.
-- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - 提供 GCC“规范”文件以应对 SDK 策略更改.    
-- [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
+- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.    
+- [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode 扩展字符串.
 - [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Ada 中 getopt(3) 的可移植实现.
 
 #### Robotics
@@ -601,7 +606,7 @@
 
 #### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza 试图成为嵌入式平台的简单小部件工具包.
-- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - 简单的音频合成库.
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - Simple audio synthesis library.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE 是一个 sprite 和 tile 2D 渲染引擎，设计用于在微控制器上运行.
 - [sancta](https://github.com/mosteo/sancta) - SANCTA多机器人任务分配库.
 
@@ -611,7 +616,7 @@
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - 在 SPARK/Ada 中模拟铁路网络.
 - [micro-tem-pi](https://github.com/jklmnn/MicroTemPi) - 使用 BBC Micro:Bit 作为温度传感器的 Raspberry Pi.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker 是一款开源袖珍合成器.
-- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - 与 AdaFruit BNO055 分线板交互以将方向数据发送到主机的程序.
+- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo)  - 用火车、开关和信号模拟铁路网络的程序. 信号系统经过 SPARK/Ada 验证，确保火车不会相撞.
 - [etherscope](https://github.com/stcarrez/etherscope) - STM32F746 板上的以太网流量监视器.
 
@@ -637,7 +642,6 @@
 - [yass](https://github.com/yet-another-static-site-generator/yass) - 另一个静态站点生成器（如 Jekyll 或 Hugo）.
 
 #### Multimedia
-- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - 阿波罗 11 号月球着陆器模拟器 ([gtkada]/开罗).
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - 一个简单的 3DS Max 模型渲染器.
 - [canta](https://sourceforge.net/projects/canta/) - 一个帮助唱歌的工具.
 
@@ -648,9 +652,12 @@
 [最大家庭自动化]：https://sourceforge.net/projects/max-home-automation/
 
 #### Simulation
+- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - 阿波罗 11 号月球着陆器模拟器 ([gtkada]/开罗).
 - [ghdl](https://github.com/ghdl/ghdl) - VHDL 2008/93/87 模拟器.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) - 传输网络的分布式模拟.
 - [covid-19-simulator](https://github.com/ohenley/COVID-19_Simulator)  - 多引擎/算法 COVID-19 模拟器.  Ada，引擎盖下的 Qt 代码.
+- [mars-mpl](https://github.com/Jellix/mars_mpl) - 火星极地着陆器（坠毁）模拟器（[gtkada]、[aicwl]）
+- [doppler-effect-sample2](https://github.com/moriyasum/GtkAda_OpenAL_Doppler_Effect_Sample2) - 移动飞机会导致立体声多普勒效应 ([gtkada]).
 
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) - Ada95 库单元规范的 HTML 生成器.

@@ -13,7 +13,7 @@
 ### Wikipedia
 
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain) - “区块链是一个不断增长的记录列表，称为块，它们使用密码学链接.”
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - “在计算机科学领域，人工智能 (AI)，有时也称为机器智能，是机器展示的智能，与人类和其他动物展示的自然智能形成对比.”
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - “机器学习 (ML) 是对算法和统计模型的科学研究，计算机系统使用这些算法和统计模型有效地执行特定任务，而无需使用明确的指令，而是依赖于模式和推理.”
 
 ### Blockchain, AI and Machine Learning
@@ -34,6 +34,7 @@
 - [MATRIX AI](https://www.matrix.io/)  - Matrix AI Network 是一条将人工智能技术与区块链技术相结合的公链，旨在解决目前阻碍区块链技术发展和采用的主要挑战.  Matrix 准备使用区块链驱动的去中心化计算平台彻底改变人工智能领域并使之民主化.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs 是一个去中心化的人工智能平台，带有一个虚拟机，可以让你在链上执行人工智能程序.
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai 是一个基于分布式账本的去中心化机器学习平台，可实现基于全球任何数据的安全共享、连接和交易.
+- [Oraichain](https://orai.io/) - Oraichain 是世界上第一个针对新兴 Web3、可扩展 Dapps 和去中心化 AI 的智能和安全解决方案.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - 基于区块链的协议，用于在以太坊等公共区块链上评估和购买 ML 模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -71,10 +72,10 @@
 - [Convergence of AI and DLT](https://doi.org/10.1109/ACCESS.2020.2981447)  - Pandl, KD、Thiebes, S.、Schmidt-Kraepelin, M. 和 Sunyaev, A.（2020 年）. 关于人工智能和分布式账本技术的融合：范围界定审查和未来研究议程.  *IEEE 访问*，8，57075-57095.
 - [Proof of Learning](https://arxiv.org/abs/2007.15145)  - Lan, Y.、Liu, Y. 和 Li, B. (2020). 学习证明 (PoLe)：通过在区块链上建立共识来增强机器学习能力.  *arXiv 预印本 arXiv:2007.15145*.
 - [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057)  - Harris, JD 和 Waggoner, B.（2019 年 7 月）. 区块链上的分散式协作 AI.  *2019 年 IEEE 区块链国际会议 (Blockchain)*（第 368-375 页）.  IEEE.
-- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 斯普林格，查姆.
+- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 施普林格，查姆.
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023)  - Mittal, A., &amp; Aggarwal, S. (2020). 使用区块链中可持续的工作量证明进行超参数优化.  *区块链前沿*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773)  - Qu, X., Wang, S., Hu, Q., &amp; Cheng, X. (2021). 联邦学习的证明：一种新颖的能量回收共识算法.  *关于并行和分布式系统的 IEEE 事务*，32(8)，2074-2085.
-- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067)  - Li, B., Lu, Q., Jiang, W., Jung, T., &amp; Shi, Y.（2021 年 5 月）. 一种用于新型神经架构证明共识的矿池解决方案.  *2021 年 IEEE 区块链和加密货币国际会议 (ICBC)*（第 1-3 页）.  IEEE.
+- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
 ## License
 

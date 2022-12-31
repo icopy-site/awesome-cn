@@ -43,6 +43,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的网络钱包和 JS 库.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件网络钱包和 JS 库，用于在浏览器中签署交易.
 - [Method Wallet](https://methodwallet.app/) - 您会喜欢的 Algorand 钱包.
+- [Defly Wallet](https://defly.app/) - Defly 是一款 Algorand 钱包，具有出色的集成 DeFi 功能.
+- [Exodus](https://www.exodus.com/) - Exodus 是一款支持 Algorand 的多加密货币钱包.
 
 ## Blockchain Explorers
 
@@ -144,6 +146,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Algo Builder 的 Dapps 模板.
 - [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapps（打字稿）的更简单的 Algo sdk.
 - [perawallet-connect](https://github.com/perawallet/connect) - 用于将 Pera 钱包集成到 Web 应用程序的 JavaScript SDK.
+- [defly-connect](https://github.com/blockshake-io/defly-connect) - 用于将 Defly 钱包集成到 Web 应用程序的 JavaScript SDK.
 
 #### Java
 
@@ -183,7 +186,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 #### VSCode
 
 - [Obsidian Labs/vscode-algorand](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS 代码扩展.
-- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
+- [optio-labs/teal-debugger-extension](https://github.com/optio-labs/teal-debugger-extension) - 在 VSCode 中使用最少的 AVM 配置调试蓝绿色.
 
 #### Visual Studio
 
@@ -265,7 +268,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
  &gt; 本节并非旨在宣传以下任何公司，请在研究可用于审计的选项时尽职调查. 相反，以下只是旨在强调越来越多的公司为 Algorand 生态系统提供智能合约审计.
 
 - [Certik](https://www.certik.com/ecosystems/algorand) - CertiK 提供 web3 安全工具的黄金标准，从其行业领先的智能合约审计到其区块链分析工具（如 Skynet 和 SkyTrace），使其成为确保 Algorand 项目端到端安全的理想合作伙伴.
-- [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - AlgoBuilder 背后的团队提供咨询您的项目、由专业人员完成智能合约、编写自动化测试或审计您现有的项目.
+- [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - The team behind AlgoBuilder offering to consult your project, have smart contracts done by professionals, write automated tests or audit your existing project.
 - [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - 位于波兰的区块链实验室，为 Algorand 智能合约提供审计服务.
 - [Runtime Verification](https://runtimeverification.com/smartcontract) - 由审计 Algofi、FolksFinance、Yieldly 和生态系统中其他著名 DeFi 平台等平台的团队进行智能合约分析和验证.
 - [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
