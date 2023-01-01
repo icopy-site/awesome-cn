@@ -172,7 +172,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 通知中心 (Godot 3.x).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix Framework (Godot 3.*) Channels API 的 GDScript 和 Godot Engine 实现.
 - [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - 用着色器代码编写的径向菜单以提高性能.
-- [Godot Recipes](http://godotrecipes.com/) - 大量教程和技巧，有大有小.
+- [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - 大量教程和技巧，有大有小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，使您可以在项目中使用 SQLite 数据库作为数据存储 (Godot 3.2+).
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在 RPG 对话中）（Godot 2.x、3.x）.
@@ -208,7 +208,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API 用于 [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用 libccd 在 Godot 中进行快速 3D 碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - 绕行/绕行人群库的 GDNative 实现.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与像 godotcord 之类的自定义引擎模块相反）.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持而无需重新编译引擎（与像 godotcord 这样的自定义引擎模块相反）.
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - 允许玩家使用他们的移动设备作为控制器.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
