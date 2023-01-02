@@ -74,12 +74,13 @@
 - [Adidas ZX Game](https://zx-game.de) - 品牌节奏动作游戏（德语）.
 - [Ally Racing](https://www.allyracer.com/) - Ally Bank 的复古 NASCAR 赛车广告游戏.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - 以使命召唤为主题的促销 3D 体验.
+- [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - 慈善家庭为每个孩子举办的虚拟艺术展.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Visionaries777 的宣传网站.
 - [DOOH Invaders](https://vimeo.com/136313614) - 世界上最大的太空侵略者克隆人在戛纳国际创意节上亮相.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - 由皇家歌剧院的 Dumbworld 打造的互动歌剧体验.
 - [How Not To Suck At Money](https://hntsam.com/) - Invesco 关于个人理财的教育游戏.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - 慈善家庭为每个孩子举办的虚拟艺术展.
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - 流行手机游戏的交互式 3D 广告.
+- [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - 流行手机游戏的交互式 3D 广告.
 - [Party Space](https://www.party.space/) - 虚拟活动平台.
 - [Pocketverse](https://pocketverse.net/) - 程序生成的恒星系统.
 - [Ride Along 2](https://vimeo.com/152996271) - 使用 WebGL 来宣传好莱坞电影的发行.

@@ -42,6 +42,7 @@
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - 主要的 Jupyter notebook 运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Jupyter 的多用户服务器.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab 是 Jupyter 的下一代用户界面.
+- [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) - 基于 Electron 的 JupyterLab 桌面应用程序.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 图像.
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - 包含 Jupyter(Lab) 和各种数据科学/机器学习包的 Docker 镜像.
@@ -149,7 +150,7 @@
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到 JupyterLab 中变量或函数定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google 云端硬盘集成扩展.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - 用于 Jupyter 中多个后端的类似文件系统的内容管理器.
-- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔术.<!--lint disable double-link-->
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔法.<!--lint disable double-link-->
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
@@ -159,7 +160,7 @@
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - 从 JupyterLab 中通过电子邮件发送笔记本及其内容.
 - [jupyterlab_iframe](https://github.com/timkpaine/jupyterlab_iframe) - 在 JupyterLab 中将 HTML 视为嵌入式 iframe.
-- [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
+- [jupyterlab_miami_nights](https://github.com/timkpaine/jupyterlab_miami_nights) - VS Code 的 SynthWave &#39;84 和 JupyterLab 的霓虹夜主题的组合.
 - [jupyterlab_templates](https://github.com/jpmorganchase/jupyterlab_templates) - JupyterLab 中的笔记本模板.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - 实时编辑 LaTeX 文档的扩展.
 - [lineapy](https://github.com/LineaLabs/lineapy) - 使用两行代码将杂乱的 Jupyter 笔记本转换为生产就绪管道的扩展.
@@ -174,7 +175,7 @@
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - 显示系统指标的扩展.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI 自动完成扩展.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - Jupyterlab 的漂亮 Darcula 主题.
-- [toc](https://github.com/jupyterlab/jupyterlab-toc) - 为笔记本提供目录的扩展.
+- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) - JupyterLab 的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - 显示变量及其值的变量检查器扩展.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim 笔记本单元绑定.

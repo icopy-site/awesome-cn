@@ -53,7 +53,7 @@
 - [jax-cosmo](https://raw.githubusercontent.com/DifferentiableUniverseInitiative/jax_cosmo) - 可区分的宇宙学库. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 - [efax](https://raw.githubusercontent.com/NeilGirdhar/efax) - JAX 中的指数族. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 - [mpi4jax](https://raw.githubusercontent.com/PhilipVinc/mpi4jax) - 将 MPI 操作与 CPU 和 GPU 上的 Jax 代码相结合. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
-- [imax](https://raw.githubusercontent.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
+- [imax](https://raw.githubusercontent.com/4rtemi5/imax) - 图像增强和转换. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
 - [FlaxVision](https://raw.githubusercontent.com/rolandgvc/flaxvision) - 亚麻版的 TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 - [Oryx](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - 基于程序转换的概率编程语言.
 - [Optimal Transport Tools](https://github.com/google-research/ott) - 捆绑实用程序以解决最佳运输问题的工具箱.
@@ -88,6 +88,7 @@
 - [Eqxvision](https://raw.githubusercontent.com/paganpasta/eqxvision) - 火炬视觉的 Equinox 版本. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 - [JAXFit](https://raw.githubusercontent.com/dipolar-quantum-gases/jaxfit) - 用于非线性最小二乘问题的加速曲线拟合库（参见 [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 - [econpizza](https://raw.githubusercontent.com/gboehl/econpizza) - 使用 JAX 解决具有异构代理的宏观经济模型. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
+- [SPU](https://raw.githubusercontent.com/secretflow/spu) - 特定领域的编译器和运行时套件，用于使用 MPC（安全多方计算）运行 JAX 代码. <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 
 <a name="models-and-projects" />
 
@@ -102,7 +103,7 @@
 - [Accurate Quantized Training](https://github.com/google-research/google-research/tree/master/aqt) - 用于在 JAX 和 Flax 中运行和分析神经网络量化实验的工具和库.
 - [BNN-HMC](https://github.com/google-research/google-research/tree/master/bnn_hmc) - 论文的实施 [_What Are Bayesian Neural Network Posteriors Really Like?_](https://arxiv.org/abs/2104.14421).
 - [JAX-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) - JAX中的一维密度泛函理论（DFT），实现 [_Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics_](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401).
-- [Robust Loss](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - 论文参考代码 [_A General and Adaptive Robust Loss Function_](https://arxiv.org/abs/1701.03077).
+- [Robust Loss](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - Reference code for the paper [_A General and Adaptive Robust Loss Function_](https://arxiv.org/abs/1701.03077).
 - [Symbolic Functionals](https://github.com/google-research/google-research/tree/master/symbolic_functionals) - 示范来自 [_Evolving symbolic density functionals_](https://arxiv.org/abs/2203.02540).
 - [TriMap](https://github.com/google-research/google-research/tree/master/trimap) - 官方 JAX 实现 [_TriMap: Large-scale Dimensionality Reduction Using Triplets_](https://arxiv.org/abs/1910.00204).
 
@@ -203,7 +204,7 @@
 - [Plugging Into JAX by Nick Doiron](https://medium.com/swlh/plugging-into-jax-16c120ec3302) - 在 Kaggle 花分类挑战中比较 Flax、Haiku 和 Objax.
 - [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - JAX 和元学习的介绍.
 - [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - 简洁的实施 [RealNVP](https://arxiv.org/abs/1605.08803).
-- [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - Tutorial on implementing path tracing.
+- [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - 实施路径追踪教程.
 - [Ensemble networks by Mat Kelcey](http://matpalm.com/blog/ensemble_nets) - 集成网络是一种将模型集成表示为单个逻辑模型的方法.
 - [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - 实施不同的 OOD 检测方法.
 - [Understanding Autodiff with JAX by Srihari Radhakrishna](https://www.radx.in/jax.html) - 了解 autodiff 如何使用 JAX 工作.

@@ -16,9 +16,9 @@
 
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 就像 Let&#39;s Play，但用于晦涩的软件文档.
 * [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
-* [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
+* [Nix Pills](https://nixos.org/guides/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
-* [nix.dev](https://nix.dev/) - 为开发人员提供的关于使用 Nix 生态系统完成工作的自以为是的指南.
+* [nix.dev](https://nix.dev/) - 针对开发人员使用 Nix 生态系统完成工作的自以为是的指南.
 * [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线交互式教程.
 
 ### Discovery
@@ -55,10 +55,14 @@
 * [Nixery](https://github.com/tazjin/nixery) - 兼容 Docker 的容器注册表，可通过 Nix 临时构建映像.
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) - 一个 Nix flake 库，用于提供用于通过 SSH 管理现有 NixOS 主机的应用程序输出.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
-* [nixos-shell](https://github.com/Mic92/nixos-shell) - 使用 Nix 的简单无头 VM 配置（类似于 Vagrant）.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
-* [terraform-nixos](https://github.com/tweag/terraform-nixos) - 一组用于部署 NixOS 的 Terraform 模块.
+* [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统编写您的 Terraform 代码.
+
+## Virtualisation
+* [nixos-shell](https://github.com/Mic92/nixos-shell) - 使用 Nix 的简单无头 VM 配置（类似于 Vagrant）.
+* [extra-container](https://github.com/erikarvstedt/extra-container) - 从命令行运行声明式 NixOS 容器.
+* [microvm](https://github.com/astro/microvm.nix) - 基于 NixOS 的 MicroVM.
 
 ## Command-Line Tools
 
@@ -74,6 +78,7 @@
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位带有特定文件的 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
+* [nurl](https://github.com/nix-community/nurl) - 从存储库 URL 生成 Nix 提取器调用.
 * [nvd](https://gitlab.com/khumba/nvd)  - 两个商店路径之间的差异包版本； 它对于比较重建时的 NixOS 代特别有用.
 * [statix](https://github.com/nerdypepper/statix) - 用于检查和修复 Nix 代码中的反模式的 linter/fixer.
 
@@ -89,8 +94,10 @@
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - 一个轻量级的 Nix 库薄片，用于无痛的 NixOS 薄片配置.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最齐全且易于使用的 .gitignore 集成.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的 `nix-shell` 用于增强 direnv 的开发.
+* [nil](https://github.com/oxalica/nil) - NIx 语言服务器，用于在 Nix 中编写的增量分析助手.
 * [niv](https://github.com/nmattia/niv/) - 通过包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和 flake 兼容配置.
+* [nix-update](https://github.com/Mic92/nix-update) - 更新版本/nix 包的源散列.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和在您的 CI 上运行 linters/formatters.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - Nix 的语法检查语言服务器.

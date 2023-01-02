@@ -260,6 +260,7 @@
 - [Xtend UI](https://xtendui.com/) - 具有高级交互和动画的 Tailwind CSS 组件.
 - [Headless UI Float](https://headlessui-float.vercel.app) - Headless UI 的浮动 UI 集成.
 - [Vanilla Components](https://vanilla-components.com) - 一组完全可定制的 Vue 组件.
+- [Sailboat UI](https://sailboatui.com/) - Tailwind CSS 的现代 UI 框架.
 - [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多种不同的即用型 Tailwind CSS 块.
 - [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.

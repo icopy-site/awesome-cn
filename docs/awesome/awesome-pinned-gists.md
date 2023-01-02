@@ -15,50 +15,54 @@
 
 在固定要点中显示来自外部服务的数据.
 
-- [bird-box](https://github.com/matchai/bird-box) - 更新固定要点以包含 Twitter 用户的最新推文.
-- [waka-box](https://github.com/matchai/waka-box) - 更新固定要点以包含您的每周 WakaTime 统计数据.
-- [waka-box-go](https://github.com/YouEclipse/waka-box-go)  - waka-box 的 Golang 实现. 更新固定要点以包含您的每周 WakaTime 统计数据.
-- [strava-box](https://github.com/JohnPhamous/strava-box) - 更新固定要点以包含来自 Strava 的 YTD 锻炼指标.
-- [music-box](https://github.com/jacc/music-box) - 更新固定要点以包含您在 Last.fm 上的每周收听报告.
-- [spotify-box](https://github.com/izayl/spotify-box) - 更新固定要点以包含您在 Spotify 上的每周热门曲目.
-- [netease-music-box](https://github.com/Leecason/netease-music-box) - 更新固定要点以包含您在网易云音乐上的每周收听报告.
 - [bilibili-box](https://github.com/KeJunMao/bilibili-box) - 更新固定要点以包含您最新的 Bilibili 视频.
-- [rescue-box](https://github.com/joshghent/rescue-box) - 更新固定要点以包含 RescueTime 的每日生产力统计数据.
-- [neko-box](https://github.com/RangerDigital/neko-box) - 更新固定要点以包含来自 AniList 的最新活动.
-- [mal-box](https://github.com/jckli/mal-box) - 更新固定要点以包含您在 MyAnimeList 中的最新活动.
-- [douban-box](https://github.com/CodeDaraW/douban-box) - 更新固定要点以包含有关豆瓣书籍/电影/音乐的最新用户状态.
-- [movie-box](https://github.com/LuisAlejandro/movie-box) - 更新固定要点以包含来自 Trakt.tv 的媒体中心统计信息.
-- [covid-box](https://github.com/puf17640/covid-box) - 更新要点以包含全球或国家特定的冠状病毒统计数据.
-- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 更新固定要点以包含随机 IDE 快捷方式
-- [youtube-box](https://github.com/SinaKhalili/youtube-box) - 更新固定要点以显示您最新的 YouTube 视频
-- [book-box](https://github.com/amorriscode/book-box) - 更新固定要点以包含您从 goodreads 中最新阅读的内容
-- [goodreads-box](https://github.com/mdluo/goodreads-box) - 更新固定要点以显示您当前阅读的书籍和 Goodreads 上的进度.
-- [toggl-box](https://github.com/tobimori/toggl-box) - 更新固定要点以包含您每周的 Toggl 时间跟踪统计数据
-- [steam-box](https://github.com/YouEclipse/steam-box) - 更新固定要点以包含您的 Steam 游戏时间排行榜.
-- [codestats-box](https://github.com/Ancientwood/codestats-box) - 更新固定要点以包含您的日常 Code::Stats.
-- [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  - codestats-box 的 Python 实现. 更新固定要点以包含您的 Code::Stats 统计信息.
-- [typeracer-box](https://github.com/tobimori/typeracer-box) - 更新固定要点以包含您最新的 TypeRacer 比赛
-- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评分.
+- [bird-box](https://github.com/matchai/bird-box) - 更新固定要点以包含 Twitter 用户的最新推文.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - 更新固定要点以显示您最新的 dev.to 博客文章.
-- [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - 更新固定要点以显示您的媒体统计数据和最新文章.
+- [book-box](https://github.com/amorriscode/book-box) - 更新固定要点以包含您从 goodreads 中最新阅读的内容
+- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评级.
+- 代码::统计 (https://codestats.net/)
+    - [codestats-box](https://github.com/Ancientwood/codestats-box) - 更新固定要点以包含您的日常 Code::Stats.
+    - [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  - codestats-box 的 Python 实现. 更新固定要点以包含您的 Code::Stats 统计信息.
+- [covid-box](https://github.com/puf17640/covid-box) - 更新要点以包含全球或国家特定的冠状病毒统计数据.
+- [douban-box](https://github.com/CodeDaraW/douban-box) - 更新固定要点以包含有关豆瓣书籍/电影/音乐的最新用户状态.
+- [goodreads-box](https://github.com/mdluo/goodreads-box) - 更新固定要点以显示您当前阅读的书籍和 Goodreads 上的进度.
 - [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - 更新固定要点以包含随机 hitokoto.
-- [spotify-box](https://github.com/Aveek-Saha/spotify-box) - 更新固定要点以显示您每周/每月/所有时间的顶级 Spotify 曲目/艺术家.
-- [spotify-gist](https://github.com/mporracindie/spotify-gist) - 更新固定要点以包含您在 Spotify 上的每月顶级艺术家.
-- [leetcode-box](https://github.com/puiiyuen/leetcode-box) - 更新固定要点以显示您的 LeetCode 统计数据.
-- [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - 更新固定要点，其中包含观察到的最常用端口 [Shodan](https://www.shodan.io/).
-- [trivia-box](https://github.com/ChrisCarini/trivia-box) - 使用来自 Open Trivia DB 的每日琐事问题更新固定要点.
-- [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - 更新固定要点以显示 leetcode 已解决的问题.
-- [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - 更新固定要点以显示堆栈溢出统计信息.
+- 力扣 (https://leetcode.com/)
+    - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - 更新固定要点以显示您的 LeetCode 统计数据.
+    - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - 更新固定要点以显示 leetcode 已解决的问题.
+- [mal-box](https://github.com/jckli/mal-box) - 更新固定要点以包含您在 MyAnimeList 中的最新活动.
 - [mdl-watching-box](https://github.com/facalz/mdl-watching-box) - 更新固定要点以包含您当前正在观看的内容.
+- [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - 更新固定要点以显示您的媒体统计数据和最新文章.
+- [movie-box](https://github.com/LuisAlejandro/movie-box) - 更新固定要点以包含来自 Trakt.tv 的媒体中心统计信息.
+- [music-box](https://github.com/jacc/music-box) - 更新固定要点以包含您在 Last.fm 上的每周收听报告.
+- [neko-box](https://github.com/RangerDigital/neko-box) - 更新固定要点以包含来自 AniList 的最新活动.
+- [netease-music-box](https://github.com/Leecason/netease-music-box) - 更新固定要点以包含您在网易云音乐上的每周收听报告.
+- [rescue-box](https://github.com/joshghent/rescue-box) - 更新固定要点以包含 RescueTime 的每日生产力统计数据.
+- [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - 更新固定要点，其中包含观察到的最常用端口 [Shodan](https://www.shodan.io/).
+- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 更新固定要点以包含随机 IDE 快捷方式
+- Spotify (https://spotify.com/)
+    - [spotify-box](https://github.com/izayl/spotify-box) - 更新固定要点以包含您在 Spotify 上的每周热门曲目.
+    - [spotify-box](https://github.com/Aveek-Saha/spotify-box) - 更新固定要点以显示您每周/每月/所有时间的顶级 Spotify 曲目/艺术家.
+    - [spotify-gist](https://github.com/mporracindie/spotify-gist) - 更新固定要点以包含您在 Spotify 上的每月顶级艺术家.
+- [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - 更新固定要点以显示堆栈溢出统计信息.
+- [steam-box](https://github.com/YouEclipse/steam-box) - 更新固定要点以包含您的 Steam 游戏时间排行榜.
+- [strava-box](https://github.com/JohnPhamous/strava-box) - 更新固定要点以包含来自 Strava 的 YTD 锻炼指标.
+- [toggl-box](https://github.com/tobimori/toggl-box) - 更新固定要点以包含您每周的 Toggl 时间跟踪统计数据
+- [trivia-box](https://github.com/ChrisCarini/trivia-box) - 使用来自 Open Trivia DB 的每日琐事问题更新固定要点.
+- [typeracer-box](https://github.com/tobimori/typeracer-box) - 更新固定要点以包含您最新的 TypeRacer 比赛
+- WakaTime (https://wakatime.com/)
+    - [waka-box](https://github.com/matchai/waka-box) - 更新固定要点以包含您的每周 WakaTime 统计数据.
+    - [waka-box-go](https://github.com/YouEclipse/waka-box-go)  - waka-box 的 Golang 实现. 更新固定要点以包含您的每周 WakaTime 统计数据.
+- [youtube-box](https://github.com/SinaKhalili/youtube-box) - 更新固定要点以显示您最新的 YouTube 视频
 
 ## GitHub
 
 在固定要点中显示更详细的 GitHub 用户数据.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) - 更新固定要点以包含 GitHub 用户的最新活动.
-- [productive-box](https://github.com/maxam2017/productive-box) - 更新固定要点以包含您一天中最有效率的时间.
 - [github-stats-box](https://github.com/bokub/github-stats-box) - 更新固定要点以包含您的 GitHub 统计信息.
 - [lang-box](https://github.com/inokawa/lang-box) - 更新固定要点以包含您最近在 GitHub 中提交的语言
+- [productive-box](https://github.com/maxam2017/productive-box) - 更新固定要点以包含您一天中最有效率的时间.
 
 ## Resources
 

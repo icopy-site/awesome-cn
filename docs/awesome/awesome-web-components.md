@@ -14,12 +14,13 @@
 ## Introduction
 
 - [An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-- [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
-- [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
 - [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
-- [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
+- [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
+- [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
+- [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
+- [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
 ## Standards
 
@@ -246,7 +247,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Pixano Elements](https://github.com/pixano/pixano-elements) - 专用于数据注释任务的可重用网络组件.
 - [Playground Elements](https://github.com/PolymerLabs/playground-elements) - 使用 Web 组件的无服务器代码体验.
 - [Shoelace](https://github.com/shoelace-style/shoelace) - 具有前瞻性的网络组件库.
-- [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - 用于业务应用程序的 Web 组件.
+- [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) - 业务应用程序的 Web 组件.
 - [Stripe Elements](https://github.com/bennypowers/stripe-elements) - Stripe.js v3 元素的自定义元素包装器.
 - [TEI Publisher Components](https://github.com/eeditiones/tei-publisher-components) - TEI Publisher 使用的网络组件及其生成的应用程序的集合.
 - [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) - Leavitt Group Enterprises 使用的轻量级 Web 组件集合.

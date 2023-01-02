@@ -41,7 +41,7 @@
 * [JSON-LD](http://json-ld.org/) - 在 JSON (W3C) 中描述关联数据和超媒体关系的标准.
 * [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的 Web API (W3C) 的词汇表.
 * [Schema.org](http://schema.org) - 描述通用数据模型的模式集合.
-* [OpenAPI](https://openapis.org/) - 以前称为 Swagger 规范，OpenAPI 规范是世界上最流行的用于定义 Restful API 的描述格式.
+* [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
 
 ## Clients
 
@@ -140,7 +140,7 @@
 * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动化 REST API.
 * [restless](http://restless.readthedocs.org/en/latest/) - 基于从 TastyPie 中吸取的经验教训的框架不可知的 REST 框架.
 * [Python Eve](http://python-eve.org/)  - Eve 是一个为人类设计的开源 Python REST API 框架. 它允许毫不费力地构建和部署高度可定制、功能齐全的 RESTful Web 服务.
-* [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从 RAML 文件生成生产就绪的 API 来使它们可执行.
+* [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从中生成生产就绪的 API，使 RAML 文件可执行.
 * [Flask-Potion](https://github.com/biosustain/potion)  - Flask-Potion 是一个强大的 Flask 扩展，用于构建 RESTful JSON API. 它还提供了多个客户端，以便更轻松地访问 API.
 * [apistar](https://github.com/encode/apistar) - 专为 Python 3 设计的智能 Web API 框架. 
 * [Falcon](https://github.com/falconry/falcon) - Falcon 是一个裸机 Python Web API 框架，用于构建高性能微服务、应用程序后端和更高级别的框架.
@@ -196,6 +196,7 @@
 * [Milkman](https://github.com/warmuuh/milkman) - 可扩展的跨平台请求/响应工作台，不仅适用于 http 调用.
 * [Schemathesis](https://github.com/schemathesis/schemathesis) - 基于属性的测试工具，适用于使用 Open API 和 GraphQL 规范构建的 Web 应用程序.
 * [Step CI](https://github.com/stepci/stepci) - 用于 API 质量保证的开源框架，它根据开放 API 规范自动测试 REST、GraphQL 和 gRPC.
+* [RestQA](https://github.com/restqa/restqa) - 基于 BDD / Gherkin 的 REST API 测试框架，用于管理微服务本地测试.
 
 ### Mocking
 
@@ -218,7 +219,7 @@
 * [Marvel Comics API](http://developer.marvel.com/) - 查询关于漫威超级英雄的人物、故事、事件.
 * [JSON Placeholder](http://jsonplaceholder.typicode.com/) - 免费的在线 REST 服务，您可以在需要一些虚假数据时使用.
 * [APIs.guru](http://APIs.guru) - Web API 的维基百科，每个 API 都有 OpenAPI/Swagger 描述.
-* [The Cat API](http://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
+* [The Cat API](http://theCatAPI.com) - 猫图片、事实和笑话的公共 API.
 
 ## Documentation
 
@@ -231,11 +232,11 @@
 
 ## API Gateway
 
-* [Kong](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
+* [Kong](https://github.com/Kong/kong) - 由 Nginx 支持的可扩展、分布式和面向插件的 API 网关.
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - 具有分析日志记录的轻量级 API 网关，用 Go 编写.
 * [API Umbrella](https://github.com/NREL/api-umbrella) - 用于公开 Web 服务的 API 管理平台，带有 Web 界面和分析，用 Lua 编写.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - 具有轻量级网关和 API 生命周期管理的 API 管理工具，用 Java 编写.
-* [Express Gateway](https://github.com/ExpressGateway/express-gateway) - 建立在 ExpressJS (Node.js) 之上的微服务 API 网关.
+* [Express Gateway](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 * [KrakenD](https://github.com/devopsfaith/krakend) 带中间件的超高性能 API 网关. 用围棋写的.
 
 ## SaaS Tools
