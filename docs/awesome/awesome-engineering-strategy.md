@@ -4,7 +4,7 @@
 
 &gt; 如何为技术领导设计和执行工程战略.
 
-工程策略是社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
+工程策略是由社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
 
 欢迎投稿！ 查看将项目添加到列表的贡献指南.
 
@@ -29,7 +29,10 @@
 - [What is a Strategy? Why do you need one in Tech?](https://www.linkedin.com/pulse/what-strategy-why-do-you-need-one-tech-rui-felgueiras) - 介绍什么是技术战略.
 - [Delivering on an Architecture Strategy](https://blog.thepete.net/blog/2019/12/09/delivering-on-an-architecture-strategy/) - 描述了战略架构计划，该框架允许产品窥视者和技术人员通过一致的自主权在重大技术改进方面取得进展.
 - [ADR: Deep Dive into Architecture Decision Records](https://okorkmaz.medium.com/adr-deep-dive-into-architecture-decision-records-8c110ce7d74e) - 介绍什么是架构决策记录，描述术语，如何记录最终架构，并通过呈现真实场景关注最佳实践.
+- [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - 为愿景、使命、目标、目的、路线图、计划、里程碑、政策建立共同语言.
+- [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - 关于战略原因、方式和内容的系列文章的第一篇.
 
+## Videos
 
 ## Templates
 

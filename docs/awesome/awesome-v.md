@@ -244,7 +244,9 @@
 ### Editor plugins
 
 - [sublime-v](https://github.com/onerbs/sublime-v) - 用于 V 编程语言的全功能 Sublime Text 3 包.
+- [vscode-vlang](https://github.com/vlang/vscode-vlang) - Visual Studio Code 的 V 语言扩展.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - Vim 的 V 工具，包括自动格式化.
+- [IntelliJ V](https://github.com/intellij-v/intellij-v) - 适用于 IntelliJ IDEA 和其他 JetBrains IDE 的插件.
 
 ### Forums
 
@@ -262,7 +264,8 @@
 
 ### Online IDEs with V
 
-- [V Playground](https://v-wasm.now.sh/)
+- [V Playground](https://play.vlang.io)
+- [V Playground (old)](https://v-wasm.now.sh/)
 
 ### Operating Systems & OS Development Examples
 
@@ -270,6 +273,7 @@
 
 ### Programming contests
 
+- [Advent of Code 2022](https://github.com/vlang/adventofcode) - V 中代码 2022 的出现解决方案.
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中代码 2019 的出现解决方案.
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - V 中 Rosetta 代码的解决方案.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - 在 V 中实施 SoloLearn 编码挑战.
@@ -283,7 +287,6 @@
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
 - [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
 - [v-mode](https://github.com/damon-kwok/v-mode) - V 编程语言的 Emacs 主要模式.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) - Visual Studio Code 的 V 语言扩展.
 - [v-vim](https://github.com/ollykel/v-vim) - 支持 Vim 中的 V 语法突出显示.
 
 ### Tutorials

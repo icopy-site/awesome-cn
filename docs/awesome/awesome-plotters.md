@@ -52,7 +52,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 和与串行绘图仪接口的 Python 库.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描版 PDF 手册.
-- [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+- [djipco/hpgl](https://github.com/djipco/hpgl) - 一个 Node.js 库，用于与 HPGL 兼容的绘图仪和打印机进行通信.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可以用作 X11 中的预览.
 - [vec](https://github.com/anachrocomputer/vec) - 用于生成 HPGL 的示例 C 代码，带有海龟图形界面.
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) - HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
@@ -96,7 +96,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 
 ### Vector Creation
 
-从头开始或通过从其他格式转换来创建矢量图的工具.
+Tools to create vector artwork from scratch or by conversion from other formats.
 
 - [Inkscape](https://inkscape.org) - 流行的跨平台开源矢量图形编辑器.
 - [p5.js](https://p5js.org) - “使艺术家、设计师、教育工作者和初学者可以访问编码的 JavaScript 库”.
@@ -153,6 +153,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 博客文章、文章、教程、画廊、视频等.
 
 - [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 关于开始使用旧 HPGL 绘图仪的好信息.
+- [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - 另一篇关于现代笔式绘图仪的入门文章.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 编程矢量路径的一些基础知识，包括排序、连接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪快速入门指南.
@@ -245,7 +246,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（到目前为止，在旧金山和纽约），有演讲和策划艺术画廊.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 拥有活跃社区的 Discord 论坛.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 具有活跃社区的 Discord 论坛.
 - [PlotterFiles](https://plotterfiles.com/) - 为绘图仪共享 SVG 文件的社区.
 - #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 

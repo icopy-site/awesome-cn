@@ -72,6 +72,7 @@ Neovim 支持多种 UI.
 - [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - 内联诊断弹出突出显示很像 coc-nvim，但基于 `vim.diagnostic`.
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) - Neovim 与 Haskell 开发工具（如 haskell-language-server 和 Hoogle）的无缝集成.
 - [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - 使用 ccls LSP 的非规范扩展并浏览 AST.
+- [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) - 将 LSP 功能添加到特定的 Neovim 缓冲区.
 
 ##### LSP Installer
 
@@ -440,6 +441,7 @@ Neovim 支持多种 UI.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - 从您最喜欢的编辑器中管理您的书目.
 - [ostralyan/scribe.nvim](https://github.com/ostralyan/scribe.nvim) - 轻松做笔记.
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) - 树木的力量触手可及.
+- [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - 就地快速做笔记.
 
 ### Utility
 
@@ -494,6 +496,7 @@ Neovim 支持多种 UI.
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) - 使用 ANSI 转义序列（8、16、256 或 TrueColor）为文本着色.
 - [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - 从终端缓冲区开始自动取消嵌套 Neovim 会话.
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - 为每个 **缓冲区** 附加一个终端，现在具有稳定的切换和惊人的光标恢复.
+- [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) - 从 Lua 协同程序操作 Neovim 作业.
 
 ### Debugging
 
@@ -532,6 +535,7 @@ Neovim 支持多种 UI.
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) - 专注于与构建系统集成的有状态任务管理器.
 - [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - 嵌入了 30 多种语言的交互式 REPL.
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) -CMake 集成.
+- [idanarye/nvim-moonicipal](https://github.com/idanarye/nvim-moonicipal) - 专注于快速变化的个人任务的任务运行器.
 
 ### Neovim Lua Development
 

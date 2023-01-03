@@ -82,7 +82,6 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 
 #### Tile/Level Editors
 
-- ：自由： [ArrayPainter](http://arraypainter.com/) - Array Painter 是使二维数组准备好复制粘贴到您自己的程序中的最简单和最快的方法.
 - ：钱袋子： [AutoTileGen](http://pixelatto.com) - AutoTileGen 是用于 2D 游戏地形的自动图块集生成器.
 - ：然后： [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk 是一款面向独立开发者的开源 2D 关卡编辑器，非常注重用户友好性.
 - ：然后： [Material Maker](https://github.com/RodZill4/material-maker) - 用 Godot 制作的程序纹理创建器
@@ -278,7 +277,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Rpgboss](http://rpgboss.com)  - 基于 scala 和 libgdx 的 2d rpg 游戏引擎和编辑器. 易于使用，无需编程知识.
 - ：自由： [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple 专有的 3D 游戏引擎（适用于 macOS、iOS、iPadOS、tvOS 和 watchOS）.
 - ：然后： [Screen 13](https://github.com/attackgoat/screen-13)  - 易于使用的 Vulkan 渲染引擎. 为 Rust 提供渲染图.
-- ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
+- ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问.
 - ：然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 - ：然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于迭代和使用的便利性.
 - ：然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
@@ -290,7 +289,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - ：然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作式 2D/3D 游戏制作工具
 - ：然后： [TIC-80](https://tic.computer/) - TIC-80 是一款用于制作、玩和分享小游戏的奇幻计算机.
-- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一个小型的、完全公共领域的固定点物理上不准确的纯 C 头文件的 3D 物理引擎，专为在微型计算机（例如嵌入式计算机甚至裸机）上运行而构建.
+- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一个小型的、完全公共领域的定点物理上不准确的纯 C 头文件的 3D 物理引擎，专为在微型计算机（例如嵌入式计算机甚至裸机）上运行而构建.
 - ：然后： [Three.js](http://threejs.org/) - Javascript 3D 库.
 - ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有身临其境的 3D 效果和实时物理效果，打开了一个前所未有的非凡网络内容的全新世界.
 - ：然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅基于文本，还支持音乐、图像和声音效果. 基本的文字冒险游戏只需要很少的编码知识.

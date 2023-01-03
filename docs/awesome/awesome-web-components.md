@@ -197,7 +197,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - 用于使用 CSS 绘制图案的 Web 组件.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - 允许创建暗模式切换或开关的自定义元素.
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - 轻量级表情符号选择器，作为网络组件分发.
-- [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - 可访问的模式对话框 Web 组件.
+- [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - Accessible modal dialog web component.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - 使用 Svelte 构建的用于查看文件的 Web 组件.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 用于在树视图中可视化 JSON 数据的 Web 组件.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - 专注于视觉性能的精简版 YouTube 嵌入.
@@ -219,7 +219,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Apollo Elements](https://github.com/apollo-elements/apollo-elements) - 将 Apollo GraphQL 与各种 Web 组件库结合使用的自定义元素.
 - [AXA Pattern Library](https://github.com/axa-ch-webhub-cloud/pattern-library) - 使用 Web 组件构建的 AXA CH UI 组件库.
 - [Blackstone UI](https://github.com/kjantzer/bui) - 由 Blackstone Publishing 创建界面的 Web 组件.
-- [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
+- [Blaze UI Atoms](https://github.com/BlazeSoftware/atoms) - 一组由 Blaze CSS 提供支持的网络组件.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) - 用于构建 Brightspace 应用程序的 Web 组件集合.
 - [Clever components](https://github.com/CleverCloud/clever-components) - 由 Clever Cloud 制作的 Web 组件集合.
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
@@ -257,7 +257,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - 用于创建使用 Webview API 的 VSCode 扩展的组件.
 - [Warp View](https://github.com/senx/warpview) - Warp 10 的图表网络组件集合.
 - [Webmarkets web components](https://github.com/Webmarkets/wm-web-components) - 一组 Webmarkets 的公共 Web 组件.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - 一组具有手绘、粗略外观的常用 UI 元素.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) - Arduino 和各种电子部件的 Web 组件.
 - [XWeather](https://github.com/kherrick/x-weather) - 实现部分 OpenWeatherMap API 的 Web 组件集合.
 
@@ -269,7 +269,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Calcite Components](https://github.com/Esri/calcite-components) - Esri 方解石设计框架的共享 Web 组件.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Web 组件之上的 Carbon Design System 变体.
 - [Clarity Core Web Components](https://github.com/vmware-clarity/core/tree/main/projects/core) - 来自 Clarity Design System 的网络组件套件.
-- [Crayons](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+- [Crayons](https://github.com/freshdesk/crayons) - 符合 Freshworks 设计系统的网络组件集合.
 - [FAST Components](https://github.com/microsoft/fast/tree/master/packages/web-components) - 基于 FAST 设计语言的 Web 组件库.
 - [Fluent UI Web Components](https://github.com/microsoft/fluentui/tree/master/packages/web-components) - 支持 Microsoft Fluent 设计语言的 Web 组件库.
 - [Forge Components](https://github.com/tyler-technologies-oss/forge) - 遵循 Forge 设计系统的 Web 组件库.
@@ -309,6 +309,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 ### Class Based
 
 - [DNA](https://github.com/chialab/dna) - 渐进式 Web 组件库.
+- [element-js](https://github.com/webtides/element-js) - 具有漂亮 API 的 Web 组件的简单轻量级基类.
 - [FAST Element](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - 用于构建高性能、内存高效、符合标准的 Web 组件的轻量级库.
 - [Forge Core](https://github.com/tyler-technologies-oss/forge-core) - 构建 Forge Web 组件时使用的构建块和实用程序.
 - [Joist](https://github.com/joist-framework/joist) - 一组小型库，旨在将最低限度添加到 Web 组件，以提高您的工作效率.
@@ -373,6 +374,15 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
 ## Ecosystem
+
+## Meta Frameworks
+
+- [AMP](https://github.com/ampproject/amphtml) - Web 组件框架，可轻松创建用户至上的 Web 体验.
+- [Enhance](https://enhance.dev/docs/) - 基于 Web 标准的 HTML 框架，用于构建轻量级 Web 应用程序.
+- [luna-js](https://github.com/webtides/luna-js) - 使使用 WebComponents 标准变得轻而易举的 SSR 框架.
+- [Rocket](https://rocket.modern-web.dev) - 带有少量 JavaScript 的静态站点的现代 Web 设置.
+- [Web Components Compiler](https://github.com/ProjectEvergreen/wcc) - 使本机 Web 组件的服务器端呈现更容易的编译器.
+- [WebC](https://github.com/11ty/webc) - 独立于框架的独立 HTML 序列化程序，用于为 Web 组件生成标记.
 
 ### Starter Kits
 
@@ -528,7 +538,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 
 - [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 垫片.
 - [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM 风格的封装垫片.
-- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill [LWC](https://lwc.dev).
+- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill 由 [LWC](https://lwc.dev).
 
 #### HTML Templates polyfills
 

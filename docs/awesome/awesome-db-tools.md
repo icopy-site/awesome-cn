@@ -49,12 +49,12 @@
 - [Arctype](https://arctype.com) - 使用起来很有趣的 SQL 客户端和数据库管理工具.
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 中使用 SQL Server、PostgreSQL、Azure SQL DB 和 SQL DW.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺保护隐私.
-- [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等的数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
+- [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
 - [DB Lens](https://github.com/dblens/app) - 开源 Postgres GUI - 自动 ER 图、内部数据库洞察、磁盘利用率、性能指标、索引使用、顺序扫描计数等.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接通过 SQL 访问您的所有数据，无论数据位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
-- [Malewicz](https://github.com/mgramin/malewicz) - 另一个用于数据库模式探索和性能分析的 WEB 客户端，但最初是专门为黑客攻击和扩展而创建的.
+- [Malewicz](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
 - [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui)  - 适用于 MySQL、MariaDB 和 Tarantool. 为 Linux 开发，但可以在 Windows 上运行.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - 用于数据库管理的 Web 工具.
@@ -70,7 +70,7 @@
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - 在您自己的私有云中运行的基于 Web 的 SQL 编辑器.
-- [SQLPro](https://www.macpostgresclient.com) - 一个简单、强大的 macOS Postgres 管理器.
+- [SQLPro](https://www.macpostgresclient.com) - A simple, powerful Postgres manager for macOS.
 - [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - 用 Ja​​va 编写的图形 SQL 客户端，允许您查看 JDBC 兼容数据库的结构、浏览表中的数据、发出 SQL 命令等.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - VSCode 的数据库管理.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整和易于使用的 MySQL GUI.
@@ -90,7 +90,7 @@
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是 Oracle 数据库的免费命令行界面.
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等等.
 - [SQLLine](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 向关系数据库发布 SQL 的命令行 shell.
-- [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
+- [usql](https://github.com/xo/usql) - 用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
 
 ### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以自动完成和语法高亮.
@@ -127,7 +127,7 @@
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到一组 ddl init 脚本的命令行实用程序，能够过滤不需要的信息、在不同文件中分离 DDL、漂亮的格式输出.
 
 ### Diagrams
-- [Azimutt](https://github.com/azimuttapp/azimutt) - 实体关系图 (ERD) 可视化工具，具有各种过滤器和输入，可帮助理解您的数据库架构.
+- [Azimutt](https://github.com/azimuttapp/azimutt) - 实体关系图 (ERD) 可视化工具，具有各种过滤器和输入，可帮助理解您的数据库模式.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
 
 ### Documentations
@@ -201,7 +201,7 @@
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - 从正在运行的 PostgreSQL 服务器收集和显示信息和统计数据.
 - [pgMonitor](https://github.com/CrunchyData/pgmonitor) - 多合一工具，可轻松创建环境以可视化 PostgreSQL 集群的健康状况和性能.
 - [pgMustard](https://www.pgmustard.com) - Postgres 解释计划的用户界面，以及提高性能的提示.
-- [pgstats](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
+- [pgstats](https://github.com/gleu/pgstats) - 收集 PostgreSQL 统计信息，并将它们保存在 CSV 文件中或打印在标准输出上.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
 - [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 用于提取和提供 PostgreSQL 数据库指标的服务.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户深入分析 Postgres 数据库的健康状况.
@@ -283,7 +283,7 @@
 
 ### Analyzers
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - 自动检测常见的 SQL 反模式.
-- [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+- [SQLFluff](https://github.com/sqlfluff/sqlfluff) - 方言灵活且可配置的 SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - 由 Python 提供支持的 SQL 沿袭分析工具.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - 一种用于描述、识别和报告 TSQL 脚本中反模式存在的工具.
 
@@ -370,6 +370,7 @@ SQL 的学习和谜题
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充选定的表或整个数据库，并使用真实的测试数据. 为以下对象生成测试数据：Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS.
+- [Synthesized](https://www.synthesized.io) - 创建、验证和安全共享用于软件测试、模型训练和数据分析的高质量数据，无需任何手动配置.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.

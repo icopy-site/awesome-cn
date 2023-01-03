@@ -50,6 +50,7 @@
 * [Gitlab](https://gitlab.com/) - 具有类似 Github 能力的开源 CI 和托管解决方案.
 * [Gitpod](https://www.gitpod.io/) - 自动化云开发环境. 
 * [Spacelift](https://spacelift.io/) - 用于基础设施即代码的 CI/CD 平台，目前支持 Terraform、Pulumi、AWS CloudFormation 和 Kubernetes.
+* [Depot](https://depot.dev) - 直接替换以在 CI 中更快地构建 Docker 映像.
 
 ## CMS (headless)
 * [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 生成器.
@@ -87,7 +88,7 @@
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展的服务器.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署并且不关心基础设施，适用于所有主要框架.
-* [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
+* [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
 * [Fly.io](https://fly.io/) - 通过位置感知服务部署 dockerized 全栈应用程序（减少延迟）.
 * [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动缩放、数据库、秘密和回滚.
 * [cyclic](https://www.cyclic.sh/) - 全栈应用程序托管（包括 dynamo db 和 s3）.
@@ -187,7 +188,7 @@
 * [Sentry](https://sentry.io/) - 应用程序监控错误和性能.
 * [KeenIO](https://keen.io/) - 事件流媒体平台.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
-* [LogRocket](https://logrocket.com/) - 重播用户的错误.
+* [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 
 
 ## Natural Language Processing
@@ -240,7 +241,7 @@
 ## Testing
 *测试工具.*
 * [Testim](https://www.testim.io/) - 前端测试.
-* [Applitools](https://applitools.com/) - Automated visual testing.
+* [Applitools](https://applitools.com/) - 自动化视觉测试.
 * [Percy](https://percy.io/) - 连续视觉测试.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.
