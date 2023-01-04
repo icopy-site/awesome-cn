@@ -209,7 +209,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Empire](https://github.com/remind101/empire) - 构建在 Amazon EC2 容器服务 (ECS) 之上的 PaaS
 -   [Exoframe](https://github.com/exoframejs/exoframe) - 一种自托管工具，允许使用 Docker 进行简单的单命令部署
 -   [Flynn](https://github.com/flynn/flynn) :skull: - 下一代开源平台即服务
--   [Hephy Workflow](https://github.com/teamhephy/workflow)  - Kubernetes 的开源 PaaS，它为任何 Kubernetes 集群添加了一个开发人员友好的层，使部署和管理应用程序变得容易. 的叉子 [Deis Workflow](https://github.com/deis/workflow)
+-   [Hephy Workflow](https://github.com/teamhephy/workflow)  - Kubernetes 的开源 PaaS，它向任何 Kubernetes 集群添加了一个开发人员友好的层，使部署和管理应用程序变得容易. 的叉子 [Deis Workflow](https://github.com/deis/workflow)
 -   [Krane](https://github.com/krane/krane) - 用于管理远程服务器上的容器工作负载的工具集
 -   [Nanobox](https://github.com/nanobox-io/nanobox) ：heavy_dollar_sign：- 一个应用程序开发平台，可创建本地环境，然后可以在云中部署和扩展.
 - [OpenShift][openshift] - 基于 [Kubernetes][kubernetes] 构建的开源 PaaS，并针对 Dockerized 应用程序开发和部署进行了优化 [Red Hat](https://www.redhat.com/en)
@@ -259,7 +259,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [oscap-docker](https://github.com/OpenSCAP/openscap)  - OpenSCAP 提供了用于扫描 Docker 容器和镜像的 oscap-docker 工具. 经过 [OpenSCAP](https://github.com/OpenSCAP)
 -   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: -（以前的 Twistlock 安全套件）检测漏洞，强化容器映像，并在应用程序的整个生命周期中实施安全策略.
 -   [Sysdig Falco](https://github.com/falcosecurity/falco)  - Sysdig Falco 是一个开源容器安全监视器. 它可以监控应用程序、容器、主机和网络活动，并对未经授权的活动发出警报.
--   [Sysdig Secure](https://sysdig.com/products/secure/runtime-security/) ：heavy_dollar_sign：-Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
+-   [Sysdig Secure](https://sysdig.com/use-cases/cloud-threat-detection-and-response/) ：heavy_dollar_sign： - Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
 -   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy_dollar_sign: - Trend Micro DeepSecurity 为容器工作负载和主机提供运行时保护，以及图像的运行前扫描以识别漏洞、恶意软件和硬编码秘密等内容.
 -   [Trivy](https://github.com/aquasecurity/trivy) - Aqua Security 的开源简单而全面的容器漏洞扫描器（适用于 CI）.
 
@@ -291,7 +291,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 #### IDE integrations
 
 - JetBrains IDE（IntelliJ IDEA、GoLand、WebStorm、CLion 等）具有 [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
-- 日食 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
+- 日蚀 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
 -   [docker.vim](https://github.com/skanehira/docker.vim)  - 在 Vim 中管理 docker 容器和图像. 通过 [@skanehira]
 -   [docker.el](https://github.com/Silex/docker.el) 通过 Emacs 管理 docker [@Silex](https://github.com/Silex)
 
@@ -443,7 +443,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph)  - 可视化您的多阶段 Dockerfile. 经过 [@PatrickHoefler](https://github.com/patrickhoefler)
 -   [Dockershelf](https://github.com/Dockershelf/dockershelf)  - 一个存储库，用作通用、高效和苗条的 docker 食谱的收集器. 图像通过 Travis cron 作业每天更新、测试和发布. 维护者 [@CollageLabs](https://github.com/CollageLabs).
 -   [dockmoor](https://github.com/MeneDev/dockmoor)  ：构造： - 管理 docker 图像引用并帮助使用 Docker 创建可重现的构建. 经过 [@MeneDev](https://github.com/MeneDev)
--   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 图像
+-   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 镜像
 
 示例：
 
@@ -730,6 +730,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Ten Docker Image Security Best Practices Cheat Sheet](https://snyk.io/blog/10-docker-image-security-best-practices/)
 -   [Top ten most popular docker images each contain at least 30 vulnerabilities](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/)
 -   [Tuning Docker with the newest security enhancements](https://opensource.com/business/15/3/docker-security-tuning)
+-   [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
 
 ## Videos
 
@@ -786,8 +787,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 
 ## Contributor over time
 
-[![Contributor over time](https://api7.ai/contributor-graph?chart=contributorOverTime&repo=veggiemonk/awesome-docker)
-
 [贡献]：https://github.com/veggiemonk/awesome-docker/blob/master/.github/CONTRIBUTING.md
 [akito]: https://github.com/theAkito
 [印花布]：https://github.com/projectcalico/calico
@@ -804,7 +803,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 [泊坞窗]：https://github.com/docker
 [editreadme]：https://github.com/veggiemonk/awesome-docker/edit/master/README.md
 [fgrehm]：https://github.com/fgrehm
-[gesellschaftlix]: https://github.com/gesellschaftlix
+[gesellschaftlix]：https://github.com/gesellschaftlix
 [genuinetools]: https://github.com/genuinetools
 [滑翔机实验室]：https://github.com/gliderlabs
 [语法]：https://github.com/grammarly

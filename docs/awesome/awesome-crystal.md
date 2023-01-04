@@ -80,10 +80,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [climate](https://github.com/Sija/climate.cr) - 使 CLI 输出彩色化的小工具
  * [coin](https://github.com/caian-org/coin) - 通过执行货币转换的命令行应用程序 [Fixer API](https://fixer.io)
  * [cride](https://github.com/j8r/cride) - 轻型 CLI 文本编辑器/IDE
+ * [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - 在 Hetzner Cloud 中快速创建和管理 Kubernetes 集群的 CLI 工具
  * [lff](https://github.com/mkdika/lff-cr) - 命令行中简单明了的大文件查找器实用程序
  * [meet](https://github.com/ryanprior/meet) - 从舒适的命令行快速开始 jitsi 会议
  * [oq](https://github.com/Blacksmoke16/oq)  - 一个高性能的、可移植的 jq 包装器，以促进 JSON 以外格式的消费和输出； 使用 [jq](https://github.com/stedolan/jq) 用于转换数据的过滤器
- * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 一个简单且可定制的进度条
+ * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [tablo](https://github.com/hutou/tablo) - 灵活的终端表生成器
  * [tallboy](https://github.com/epoch/tallboy) - 生成 ASCII 字符表，支持跨越多列的单元格
 
@@ -208,7 +209,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [CrSFML](https://github.com/oprypin/crsfml) - 绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - 绑定到 [Chipmunk](http://chipmunk-physics.net/), 一个快速轻量级的 2D 游戏物理库
  * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) - 要集成的绑定 [Dear ImGui](https://github.com/ocornut/imgui) 进入一个 [SFML](https://www.sfml-dev.org/) 项目
- * [entitas.cr](https://github.com/spoved/entitas.cr) - Crystal 的实体组件系统框架
+ * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
  * [MyECS](https://github.com/konovod/myecs) - 一个用于 Crystal 的稀疏实体组件系统框架
  * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - 直接（不安全）绑定到 [SDL2](https://www.libsdl.org/), 用于编写自己的游戏库
 
@@ -359,7 +360,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Queues and Messaging
  * [mosquito](https://github.com/mosquito-cr/mosquito/) - Redis 支持定期和临时作业处理
- * [NATS.io](https://github.com/nats-io/nats.cr) - NATS client
+ * [NATS.io](https://github.com/nats-io/nats.cr) - NATS客户端
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - 简单、高效的作业处理
 
 ## Routing
@@ -375,7 +376,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [alea](https://github.com/nin93/alea) - 可重复抽样、CDF 和其他用于处理概率分布的实用程序
  * [ishi](https://github.com/toddsundsted/ishi) - 具有小型 API 和由 gnuplot 提供支持的合理默认值的图形绘图包
  * [linalg](https://github.com/konovod/linalg) - 受 MATLAB 和 SciPy.linalg 启发的线性代数库
- * [num.cr](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+ * [num.cr](https://github.com/crystal-data/num.cr) - 支持N维数据的数值计算库
  * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [quartz](https://github.com/RomainFranceschini/quartz) - 建模和仿真框架
 

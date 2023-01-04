@@ -38,13 +38,13 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - Proof General 的 Coq 模式的 IDE 扩展.
 - [jsCoq](https://github.com/ejgallego/jscoq) - Coq 到 JavaScript 的端口，可以在浏览器中运行 Coq 项目.
 - [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq 支持 Jupyter Notebook 网络环境.
-- [VsCoq](https://github.com/coq-community/vscoq) - Extension for the Visual Studio Code and VSCodium editors.
+- [VsCoq](https://github.com/coq-community/vscoq) - Visual Studio Code 和 VSCodium 编辑器的扩展.
 
 ### Libraries
 
 - [ALEA](https://github.com/coq-community/alea) - 用于推理随机算法的库.
 - [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - 数学组件的环形和场战术.
-- [Bignums](https://github.com/coq/bignums) - 任意大数字的图书馆.
+- [Bignums](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
 - [Bedrock Bit Vectors](https://github.com/mit-plv/bbv) - 用于推理固定精度机器字的库.
 - [CertiGraph](https://github.com/Salamari/CertiGraph) - 用于推理有向图及其在分离逻辑中的嵌入的库.
 - [CoLoR](https://github.com/fblanqui/color) - 关于重写理论、lambda 演算和终止的库，以及关于扩展 Coq 标准库的通用数据结构的子库.
@@ -76,7 +76,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Coq Platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
 - [coq-community Templates](https://github.com/coq-community/templates) - 为 Coq 项目生成配置文件的模板.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) - 适用于许多 Coq 版本的 Docker 镜像.
-- [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - 用于 Coq 和数学组件库的多种版本组合的 Docker 图像.
+- [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - Docker images for many combinations of versions of Coq and the Mathematical Components library.
 - [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
 - [Dune](https://dune.build) - 适用于 OCaml 和 Coq（前身为 jbuilder）的可组合和自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) - Linux 和其他 Unix 系统的包管理器，支持原子升级和回滚.
@@ -86,7 +86,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 ### Plugins
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些算子的普遍量化方程、模结合律和交换律的策略.
-- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和战术.
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和策略.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转化为自动证明和重建已找到的证明相结合.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现浮点运算和舍入误差目标的策略.
@@ -95,15 +95,25 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) - 类似于 Coq 的经典 Ltac 语言的实验性类型策略语言.
 - [MetaCoq](https://github.com/MetaCoq/metacoq) - 项目在 Coq 中对 Coq 进行形式化，并提供用于操作 Coq 术语和开发认证插件的工具.
 - [Mtac2](https://github.com/Mtac2/Mtac2) - 添加用于向后推理的类型策略的插件.
-- [Paramcoq](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms.
+- [Paramcoq](https://github.com/coq-community/paramcoq) - 用于生成 Coq 术语的参数化翻译的插件.
 - [QuickChick](https://github.com/QuickChick/QuickChick) - 用于基于属性的随机测试的插件.
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - 检查来自外部 SAT 和 SMT 求解器的证明证人的工具.
 - [Tactician](https://coq-tactician.github.io) - 交互式工具，它从所有已安装的 Coq 包中先前编写的策略脚本中学习，并建议下一个要执行的策略或尝试完全自动化证明合成.
 - [Unicoq](https://github.com/unicoq/unicoq) - 用增强的统一算法替换现有统一算法的插件.
 
+### Puzzles and Games
+
+- [Coqoban](https://github.com/coq-community/coqoban) - 日本仓库管理员游戏推箱子的 Coq 实现.
+- [Hanoi](https://github.com/thery/hanoi) - Coq 中的汉诺塔难题，包括关于配置的概括和定理.
+- [Mini-Rubik](https://github.com/thery/minirubik) - 2x2x2 版魔方拼图的 Coq 形式化和求解器.
+- [Name the Biggest Number](https://github.com/codyroux/name-the-biggest-number) - 用于提交经过验证的 Coq 中最大数字标题竞争者的存储库.
+- [Natural Number Game](https://github.com/uncomputable/natural-number-game) - 为精益证明者开发的自然数游戏的 Coq 版本.
+- [Sudoku](https://github.com/coq-community/sudoku) - Coq 中数独数字放置难题的形式化和求解器.
+- [T2048](https://github.com/thery/T2048) - 2048 滑动方块游戏的 Coq 版本.
+
 ### Tools
 
-- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集.
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集合.
 - [Autosubst 2](https://github.com/uds-psl/autosubst2) - 生成 Coq 代码的工具，用于在语法中处理绑定程序，例如重命名和替换.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - 用于在分离逻辑中证明 OCaml 程序属性的工具.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
@@ -226,9 +236,9 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
 - [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - 形式化以支持计算理论的本科课程，包括语言和图灵机.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - 有关软件基础系列教科书的材料，包括一系列 YouTube 视频.
+- [MathComp School](https://github.com/gares/math-comp-school-2022) - 介绍 SSReflect 证明语言和数学组件库的课程和练习的 Coq 资源.
 - [Mechanized Semantics](https://github.com/xavierleroy/cdf-mech-sem) - 法兰西学院编程语言语义课程的 Coq 资源.
 - [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2022/) - 介绍使用 Coq 开发和验证程序.
-- [MathComp School](https://github.com/gares/math-comp-school-2022) - 介绍 SSReflect 证明语言和数学组件库的课程和练习的 Coq 资源.
 
 ### Tutorials and Hints
 

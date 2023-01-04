@@ -27,6 +27,9 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 
 ## Articles
 
+- [Instant Site Updates with On-Demand Revalidation and Directus](https://echobind.com/post/instant-site-updates-with-on-demand-revalidation-and-directus)
+- [Dynamic CMS-driven Redirects with Next.js](https://echobind.com/post/dynamic-cms-driven-redirects)
+- [Getting Started with Next.js, GraphQL and React Query](https://echobind.com/post/getting-started-with-nextjs-graphl-and-react-query)
 - [Using Next.js with FaunaDB: How to Query the Database from Your App](https://snipcart.com/blog/nextjs-faunadb)
 - [How to Build a Serverless Next.js Blog with ButterCMS](https://buttercms.com/blog/next-js-cms-tutorial)
 - [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
@@ -55,6 +58,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 - [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
 - [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
+- [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
 
 ## Boilerplates
 
@@ -116,7 +120,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next UserAgent](https://github.com/tokuda109/next-useragent) - Next.js 的 UserAgent 解析器
 - [Next Cookie](https://github.com/tokuda109/next-cookie) - Next.js 的 Cookie 序列化器和反序列化器库.
 - [Nextein](https://github.com/elmasse/nextein) - 基于 Next.js 的静态站点生成器.
-- [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松将博客添加到任何基于 next.js 的项目
+- [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 - [next-i18next](https://github.com/isaachinman/next-i18next) - 翻译 NextJs 应用程序的最简单方法.
 - [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - 一个 NextJS 路由中间件
 - [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
@@ -136,7 +140,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 
 ## Apps
 
-- [CourseLit](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+- [CourseLit](https://github.com/codelit/courselit) - Thinkific、Teachable 等的开源替代品.
 - [Feednext](https://github.com/feednext/feednext) - 一个开源社交媒体应用程序.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - 展示《权力的游戏》角色的简单 Next.js 应用程序.
 - [Relate](https://github.com/RelateNow/relate) - 正念社区 - React、GraphQL、Next.js.
@@ -177,6 +181,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - 使用 Next.js 创建、构建和部署通用 JavaScript 应用程序
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - 构建一个前端 React 应用程序，为您透明地处理服务器端渲染.
 - [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - 使用 Next.js 无服务器功能访问数据库并在您的 React 应用程序中对用户进行身份验证
+- [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - 使用 Next.js、Prisma ORM、Cloudinary API、Chakra-UI 和 React Hook Form 构建全栈软件即服务应用程序. 
 
 ## Videos
 

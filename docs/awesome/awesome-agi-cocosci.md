@@ -168,7 +168,7 @@
 
 * [Abduction − the context of discovery + underdetermination = inference to the best explanation](https://link.springer.com/article/10.1007/s11229-019-02337-z) - ***合成***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4261649938116694095&hl=en&as_sdt=0,5)].
 
-* [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***空间认知***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
+* [Towards an Architecture for Cognitive Vision Using Qualitative Spatio-temporal Representations and Abduction](https://link.springer.com/chapter/10.1007%2F3-540-45004-1_14) - ***Spatial Cognition***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=8072265283930278310&hl=en&as_sdt=0,5)].
 
 * [Abductive inference within a pragmatic framework](https://link.springer.com/article/10.1007/s11229-018-1824-6) - ***合成***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=10285954503043361393&hl=en&as_sdt=0,5)].
 
@@ -264,7 +264,7 @@
 
 * [Probabilistic Sufficient Explanations](https://arxiv.org/pdf/2105.10118.pdf) - ***IJCAI'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=1874102360688341104&hl=en&as_sdt=0,5)].
 
-* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
+* [Machine Translation Using Abductive Inference](https://www.aclweb.org/anthology/H91-1024.pdf) - ***COLING***，1990 年. [[All Versions](https://scholar.google.com/scholar?cluster=15275163177548183539&hl=en&as_sdt=0,5) ]. 溯因推理在语言翻译中的应用.
 
 * [Anomaly detection through explanations](https://dspace.mit.edu/handle/1721.1/129250) - ***麻省理工学院博士论文***，2018 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+detection+through+explanations&btnG=) ]. 绑架在异常检测中的应用.
 
@@ -358,7 +358,7 @@
 
 * [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***统计科学***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
-* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
+* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
 
@@ -396,7 +396,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -700,7 +700,7 @@
 
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***可视化实验杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
-* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***神经元***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
+* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
 
 * [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966&hl=en&as_sdt=0,5)].
 
@@ -862,6 +862,8 @@
 
 * [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf) - ***RSS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251&hl=en&as_sdt=0,5)].
 
+
+* [3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans](https://arxiv.org/abs/2002.06289) - ***RSS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=4428742298455436054&hl=en&as_sdt=0,5) ]. 用于在多个级别（度量语义网格、对象和代理、位置和结构、房间和建筑物）建模 3D 动态场景图的系统.
 
 
 ### Evolutionary Intelligence
@@ -1073,7 +1075,7 @@
 
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***科学***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5) ]. 对科学的科学进行全面的大规模审查.
 
-* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
 
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
 
@@ -1688,7 +1690,7 @@
 #### Embodied AI Environment
   * [ThreeDWorld](http://www.threedworld.org/) - ***与 IBM ***. [[Paper](https://arxiv.org/abs/2007.04954)].
   * [Rearrangement: A Challenge for Embodied AI](https://arxiv.org/pdf/2011.01975.pdf), 2020.
-  * [iGibson](http://svl.stanford.edu/igibson/) - ***Stanford***. [[Paper](https://ieeexplore.ieee.org/document/8954627)].
+  * [iGibson](http://svl.stanford.edu/igibson/) - ***斯坦福***. [[Paper](https://ieeexplore.ieee.org/document/8954627)].
   * [AI2-THOR](https://ai2thor.allenai.org/ithor) - ***艾伦研究所***. [[Paper](https://arxiv.org/abs/1712.05474)].
   * [Robo-THOR](https://ai2thor.allenai.org/robothor) - ***艾伦研究所***. [[Paper](https://arxiv.org/abs/2004.06799)].
   * [Manipula-THOR](https://ai2thor.allenai.org/manipulathor) - ***艾伦研究所***. [[Paper](https://arxiv.org/abs/2104.11213)].
@@ -1774,7 +1776,7 @@
 
 ### Stanford
 
-* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***计算机科学系，以人为中心的人工智能研究所，斯坦福***， [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***Stanford***.
+* [Li Fei-Fei](https://profiles.stanford.edu/fei-fei-li) - ***计算机科学系，以人为中心的人工智能研究所，斯坦福***， [Stanford Vision and Learning Lab](https://svl.stanford.edu/) - ***斯坦福***.
 
 * [Noah Goodman](https://cocolab.stanford.edu/ndg.html) - ***斯坦福大学***, [Computation & Cognition Lab (CoCoLab)](https://cocolab.stanford.edu/) - ***斯坦福大学计算机科学系心理学系***.
 
@@ -1784,7 +1786,7 @@
 
 * [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) - ***斯坦福大学***, [Intelligence through Robotic Interaction at Scale (IRIS Group)](https://irislab.stanford.edu/) - ***计算机科学系，斯坦福大学***.
 
-* [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***传播系，斯坦福大学***， [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***Stanford***.
+* [Jeremy Bailenson](https://comm.stanford.edu/faculty-bailenson/) - ***传播系，斯坦福大学***， [Virtual Human Interaction Lab (VHIL)](https://stanfordvr.com/) - ***斯坦福***.
 
 * [Jiajun Wu](https://jiajunwu.com/) - ***计算机科学系，斯坦福大学***.
 

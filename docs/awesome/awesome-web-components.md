@@ -19,6 +19,7 @@
 - [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 - [Web Components 101](https://nhswd.com/blog/web-components-101-what-are-web-components/)
+- [Web Components: From the orbital height](https://javascript.info/webcomponents-intro)
 - [What are browser-native web components?](https://gomakethings.com/what-are-browser-native-web-components/)
 - [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
@@ -28,11 +29,13 @@
 
 自定义元素为作者提供了一种构建自己的全功能 DOM 元素的方法.
 
-- [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
+- [Custom elements](https://javascript.info/custom-elements)
 - [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
+- [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
 - [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
+- [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 - [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
@@ -40,15 +43,22 @@
 
 Shadow DOM 描述了一种将多个 DOM 树组合成一个层次结构的方法，以及这些树如何在文档中相互交互，从而实现更好的 DOM 组合.
 
-- [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
+- [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 - [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+- [Mind the document.activeElement!](https://dev.to/open-wc/mind-the-document-activeelement-2o9a)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
+- [Shadow DOM](https://javascript.info/shadow-dom)
+- [Shadow DOM and events](https://javascript.info/shadow-dom-events)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
+- [Shadow DOM slots, composition](https://javascript.info/slots-composition)
+- [Shadow DOM styling](https://javascript.info/shadow-dom-style)
 - [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Understanding Slot Updates with Web Components](https://coryrylan.com/blog/understanding-slot-updates-with-web-components)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
+- [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
+- [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
 ### HTML Templates
@@ -56,8 +66,13 @@ Shadow DOM 描述了一种将多个 DOM 树组合成一个层次结构的方法�
  `<template>  ` 元素用于声明可以通过脚本克隆和插入文档的 HTML 片段.
 
 - [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+- [HTML templates with vanilla JavaScript](https://gomakethings.com/html-templates-with-vanilla-javascript/)
 - [MDN - &lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [MDN - Using templates and slots](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+- [Template element](https://javascript.info/template-element)
+- [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
+- [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
+- [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
 ### CSS Shadow Parts
@@ -124,7 +139,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Nude UI](https://github.com/LeaVerou/nudeui) - 可访问、可自定义、超轻型 Web 组件的集合.
 - [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - 收集用于开发 Web 组件的最佳实践和设计模式.
 - [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) - HTML 弃用标签的 Vanilla JS UI 组件库.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - 一系列网络组件示例，与 MDN 网络组件文档相关.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ## Articles
 
@@ -197,7 +212,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [`<css-doodle>`](https://github.com/css-doodle/css-doodle) - 用于使用 CSS 绘制图案的 Web 组件.
 - [`<dark-mode-toggle>`](https://github.com/GoogleChromeLabs/dark-mode-toggle) - 允许创建暗模式切换或开关的自定义元素.
 - [`<emoji-picker>`](https://github.com/nolanlawson/emoji-picker-element) - 轻量级表情符号选择器，作为网络组件分发.
-- [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - Accessible modal dialog web component.
+- [`<fg-modal>`](https://github.com/filamentgroup/fg-modal) - 可访问的模式对话框 Web 组件.
 - [`<file-viewer>`](https://github.com/avipunes/file-viewer) - 使用 Svelte 构建的用于查看文件的 Web 组件.
 - [`<json-viewer>`](https://github.com/alenaksu/json-viewer) - 用于在树视图中可视化 JSON 数据的 Web 组件.
 - [`<lite-youtube>`](https://github.com/paulirish/lite-youtube-embed) - 专注于视觉性能的精简版 YouTube 嵌入.
@@ -424,15 +439,6 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
-- “**现代 JavaScript 教程**”，作者： [Ilya Kantor](https://github.com/iliakan)
-  - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
-  - [Part 2: Custom Elements](https://javascript.info/custom-elements)
-  - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
-  - [Part 4: Template element](https://javascript.info/template-element)
-  - [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
-  - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
-  - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
-
 - “**HowTo：组件**”作者 [Web Fundamentals](https://web.dev)
   - [Overview](https://web.dev/components-examples-overview/)
   - [`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
@@ -538,7 +544,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 
 - [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 垫片.
 - [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM 风格的封装垫片.
-- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill 由 [LWC](https://lwc.dev).
+- [@lwc/synthetic-shadow](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill [LWC](https://lwc.dev).
 
 #### HTML Templates polyfills
 
