@@ -157,6 +157,7 @@ Neovim 支持多种 UI.
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - 用于添加/更改/删除周围分隔符对的插件.
 - [echasnovski/mini.nvim#mini.surround](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-surround.md)  - 用于处理文本环境（添加、删除、替换、查找、突出显示）的 `mini.nvim` 模块. 支持点重复、不同的搜索方法、“last”/“next”扩展映射、tree-sitter 集成等.
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) - 使用 Treesitter 突出显示参数的定义和用法.
+- [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) - 对 nushell 语言的基本编辑器支持.
 
 ### Snippet
 
@@ -203,7 +204,7 @@ Neovim 支持多种 UI.
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) - 用 Lua 编写的文件管理器.
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - 一个简单但令人惊叹的文件浏览器.
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Lua 中的另一个 Nerdtree.
-- [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree)  - 文件管理器. 比 NERDTree 好.
+- [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree)  - 文件管理器. 比 NERDTree 更好.
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - Neovim 插件，可让您使用自己喜欢的终端文件管理器（和模糊查找器）.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neo-tree 是一个 Neovim 插件，用于以适合您的任何样式浏览文件系统和其他树状结构，包括侧边栏、浮动窗口、netrw 拆分样式，或同时浏览所有这些.
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - 一个文件管理器，可让您像编辑文本一样编辑文件系统.
@@ -413,7 +414,7 @@ Neovim 支持多种 UI.
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - 用于从剪贴板粘贴图像的 Neovim Lua 插件.
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - 来自 Neovim 的远程控制 Reaper DAW.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
@@ -449,16 +450,16 @@ Neovim 支持多种 UI.
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - 漂亮且最小的缓冲区切换器窗口.
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) - Acid + 即兴曲 = 爵士乐.
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - 可搜索备忘单.
-- [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits)  - 什锦饼干的 Neovim 端口. 最终也有更多支持的语言.
+- [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
 - [Pocco81/AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) - 管理 Vim 缩写.
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - 根据不同条件删除多个 Vim 缓冲区.
-- [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Post selections or buffers to online paste bins.
+- [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - 将选择或缓冲区发布到在线粘贴箱.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - 一个奇特的、可配置的、通知管理器.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 高度实验性的插件，完全取代了消息、命令行和弹出菜单的 UI.
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) - 切换行尾的任何字符.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - 使用望远镜、fzf 等改进内置的 `vim.ui` 界面.
 - [gaborvecsei/cryptoprice.nvim](https://github.com/gaborvecsei/cryptoprice.nvim) - 检查定义的加密货币的价格.
-- [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+- [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) 循环折叠打开或关闭.
 - [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - 打开当前缓冲区的替代文件.
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - 缓冲、标记、标签页切换器.
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 浏览当前缓冲区中的所有 URL.
@@ -645,7 +646,7 @@ Neovim 支持多种 UI.
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 显示交互式滚动条.
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - 显示诊断和搜索结果的可扩展滚动条.
 - [echasnovski/mini.nvim#mini.map](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-map.md) - `mini.nvim` 模块显示带有缓冲区文本概览、滚动条和高亮显示的浮动窗口.
-- [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - Minimap 插件，与 treesitter 和内置 LSP 紧密集成，以向用户显示更多信息.
+- [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
 ### Editing Support
 
@@ -701,7 +702,7 @@ Neovim 支持多种 UI.
 - [danymat/neogen](https://github.com/danymat/neogen)  - 更好的注释生成器. 支持多种语言和注释约定.
 - [echasnovski/mini.nvim#mini.comment](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-comment.md)  - 用于每行注释的 `mini.nvim` 模块. 完全支持点重复.
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - 使用方框和线条澄清和美化您的评论.
-- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)  - 根据光标在文件中的位置设置 `commentstring` 选项. 通过 treesitter 查询检查位置.
+- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Sets the `commentstring` option based on the cursor location in the file. The location is checked via treesitter queries.
 
 ### Formatting
 
@@ -748,7 +749,7 @@ Neovim 支持多种 UI.
 
 - [~henriquehbr/ataraxis.lua](https://sr.ht/~henriquehbr/ataraxis.lua) - 用于提高 Neovim 代码可读性的禅宗模式.
 - [gitlab.com/yorickpeterse/nvim-window](https://gitlab.com/yorickpeterse/nvim-window) - 在 Neovim 窗口之间轻松跳转.
-- [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
+- [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - 轻松重新排列您的窗口.
 - [beauwilliams/focus.nvim](https://github.com/beauwilliams/focus.nvim)  - 用 Lua 编写的自动对焦和自动调整分割/窗口大小！  Vim 在类固醇上分裂.
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - 窗口打开/关闭事件的稳定窗口内容.
 - [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim)  - 自动扩展当前窗口的宽度. 最大化并恢复它. 所有这一切都带有漂亮的动画！

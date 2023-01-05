@@ -24,7 +24,7 @@
 ### Command Line Tools
 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - 化学工具箱旨在使用多种化学数据语言.
-* [MayaChemTools](http://www.mayachemtools.org/index.html) - 支持日常计算发现需求的 Perl 和 Python 脚本、模块和类的集合.
+* [MayaChemTools](http://www.mayachemtools.org/index.html) - Collection of Perl and Python scripts, modules, and classes that support day-to-day computational discovery needs.
 * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) - 通过包装优化进行分子动力学模拟的初始配置.
 * [BCL::Commons](http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1)
 
@@ -88,7 +88,7 @@
 * [ChemML](https://github.com/hachmannlab/chemml)  - ChemML 是一个机器学习和信息学程序套件，用于化学和材料数据的分析、挖掘和建模.  （基于张量流）
 * [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - 使用统一 API 进行分子特性预测，适用于各种模型和表示，
   具有集成的不确定性量化、可解释性和超参数/架构调整.
-* [OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
+* [OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem 是一个深度学习工具包，用于具有 PyTorch 后端的计算化学.
 * [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - DGL-LifeSci 是一个 [DGL](https://www.dgl.ai/)基于图形神经网络的生命科学中各种应用程序包.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - 生物学和化学深度学习图书馆.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - PyTorch 库提供了许多图形卷积算法的实现.
@@ -102,13 +102,15 @@
 * [PubChemPy](http://pubchempy.readthedocs.io) - PubChem PUG REST API 的 Python 包装器.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) - ChemSpider API 的 Python 包装器.
 * [CIRpy](http://cirpy.readthedocs.org/) - Python包装器 [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
-* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 在 [Tornado](http://www.tornadoweb.org/en/stable/).
 * [chemminetools](https://github.com/girke-lab/chemminetools) - 基于 Django 的用于小分子分析的开源 Web 框架.
+* [ambit](http://ambit.sourceforge.net/) - 通过 REST 网络服务提供化学信息学功能.
 
 <a id="lib-db"></a>
 ### Databases
 
 * [razi](https://github.com/rvianello/razi) - SQLAlchemy 数据库的化学信息扩展.
+* [Chemical Translation Service](https://bitbucket.org/fiehnlab/fiehnlab-cts/src/master/) - 的源代码 [Chemical Translation Service](https://cts.fiehnlab.ucdavis.edu/) 网络服务.
 
 <a id="lib-dock"></a>
 ### Docking
@@ -122,6 +124,7 @@
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - 专为大型生物分子系统的高性能模拟而设计的并行分子动力学代码.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - 分子动力学轨迹分析.
 * [cclib](https://github.com/cclib/cclib) - 计算化学日志文件的解析器和算法.
+* [ProDy](https://github.com/prody/ProDy) - 用于蛋白质动力学分析的 Python 包 
 
 <a id="lib-others"></a>
 ### Others
@@ -130,6 +133,9 @@
 * [OPSIN](https://github.com/dan2097/opsin) - 用于系统 IUPAC 命名法的开放解析器
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - 用于分子计算化学软件包的以 Python 为中心的 Cookiecutter [MolSSL](https://molssi.org/)
 * [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) - 用于生成和存储有机分子 DFT 计算的自动化工作流程.
+* [Gypsum-DL](https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl) - 将 2D SMILES 字符串转换为 3D 模型的程序.
+* [RDchiral](https://github.com/connorcoley/rdchiral) - RDKit 的 RunReactants 的包装器以改进立体化学处理
+* [confgen](https://github.com/Et9797/confgen-webapp) - 用于生成构象器的 Webapp
  
  
 ## Journals

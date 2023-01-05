@@ -95,7 +95,7 @@
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - 用于嵌入式 Linux 的类似 make 的构建工具.
 * [buildout](http://www.buildout.org/en/latest/) - 用于创建、组装和部署来自多个部分的应用程序的构建系统.
 * [PlatformIO](https://github.com/platformio/platformio-core) - 用于使用不同开发平台构建代码的控制台工具.
-* [pybuilder](https://github.com/pybuilder/pybuilder) - 用纯 Python 编写的持续构建工具.
+* [pybuilder](https://github.com/pybuilder/pybuilder) - 用纯 Python 编写的连续构建工具.
 * [SCons](http://www.scons.org/) - 软件构建工具.
 
 ## Built-in Classes Enhancement
@@ -156,12 +156,11 @@
     * [isort](https://github.com/timothycrosley/isort) - 用于对导入进行排序的 Python 实用程序/库.
     * [yapf](https://github.com/google/yapf) - 来自谷歌的另一个 Python 代码格式化程序.
 * 静态类型检查器，另见 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
-    * [mypy](http://mypy-lang.org/) - 在编译时检查变量类型.
+    * [mypy](http://mypy-lang.org/) - 在编译期间检查变量类型.
     * [pyre-check](https://github.com/facebook/pyre-check) - 性能类型检查.
     * [typeshed](https://github.com/python/typeshed) - Python 库存根的集合，具有静态类型.
 * 静态类型注解生成器
     * [MonkeyType](https://github.com/Instagram/MonkeyType) - 一个通过收集运行时类型生成静态类型注释的 Python 系统.
-    * [pyannotate](https://github.com/dropbox/pyannotate) - 自动生成 PEP-484 注释.
     * [pytype](https://github.com/google/pytype) - Pytype 检查并推断 Python 代码的类型 - 无需类型注释.
 
 ## Command-line Interface Development
@@ -196,7 +195,7 @@
     * [PathPicker](https://github.com/facebook/PathPicker) - 从 bash 输出中选择文件.
     * [percol](https://github.com/mooz/percol) - 为 UNIX 上的传统管道概念添加交互式选择的风格.
     * [thefuck](https://github.com/nvbn/thefuck) - 更正您之前的控制台命令.
-    * [tmuxp](https://github.com/tony/tmuxp) - 一个 [tmux](https://github.com/tmux/tmux) 会话管理器.
+    * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
     * [try](https://github.com/timofurrer/try) - 一个非常简单的 CLI 来尝试 python 包 - 它从未如此简单.
 * CLI 增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) - 命令行 HTTP 客户端，用户友好的 cURL 替代品.
@@ -310,7 +309,7 @@
 *用于连接和操作数据库的库.*
 
 * MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
-    * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - 支持 Python 3 的 MySQL 连接器 ([mysql-python](https://sourceforge.net/projects/mysql-python/) 叉子）.
+    * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) - 支持 Python 3 的 MySQL 连接器 ([mysql-python](https://sourceforge.net/projects/mysql-python/) 叉）.
     * [PyMySQL](https://github.com/PyMySQL/PyMySQL) - 与 mysql-python 兼容的纯 Python MySQL 驱动程序.
 * PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
     * [psycopg2](http://initd.org/psycopg/) - 最流行的 Python PostgreSQL 适配器.
@@ -545,7 +544,7 @@
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 与 Django 的集成.
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - 一个 Django 应用程序，可让您以非常优雅和 DRY 的方式创建漂亮的表单.
 * [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - 独立于平台的 Django 表单序列化程序.
-* [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和渲染库.
+* [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和呈现库.
 
 ## Functional Programming
 
@@ -659,7 +658,7 @@
 * [imgSeek](https://sourceforge.net/projects/imgseek/) - 一个使用视觉相似性搜索图像集合的项目.
 * [nude.py](https://github.com/hhatto/nude.py) - 裸体检测.
 * [pagan](https://github.com/daboth/pagan) - 基于输入字符串和散列的复古标识（头像）生成.
-* [pillow](https://github.com/python-pillow/Pillow) - 枕头很友好 [PIL](http://www.pythonware.com/products/pil/) 叉子.
+* [pillow](https://github.com/python-pillow/Pillow) - 枕头很友好 [PIL](http://www.pythonware.com/products/pil/) 叉.
 * [python-barcode](https://github.com/WhyNotHugo/python-barcode) - 在没有额外依赖的情况下在 Python 中创建条形码.
 * [pygram](https://github.com/ajkumar25/pygram) - 类似 Instagram 的图像过滤器.
 * [PyMatting](http://github.com/pymatting/pymatting) - 用于 alpha 抠图的库.

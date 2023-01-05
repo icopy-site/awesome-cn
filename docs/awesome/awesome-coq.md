@@ -23,6 +23,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [FCF](https://github.com/adampetcher/fcf) - 密码学证明框架.
 - [Fiat](https://github.com/mit-plv/fiat) - 主要是自动合成正确的构造程序.
 - [FreeSpec](https://github.com/lthms/FreeSpec) - 用于模块化验证具有效果和效果处理程序的程序的框架.
+- [Hoare Type Theory](https://github.com/imdea-software/htt/) - 作为类型理论制定的顺序分离逻辑的浅嵌入.
 - [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - 使用对象逻辑的高阶抽象语法表示进行推理的系统.
 - [Iris](https://iris-project.org) - 高阶并发分离逻辑框架.
 - [Q\*cert](https://github.com/querycert/qcert) - 用于实施和验证查询编译器的平台.
@@ -76,7 +77,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Coq Platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
 - [coq-community Templates](https://github.com/coq-community/templates) - 为 Coq 项目生成配置文件的模板.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) - 适用于许多 Coq 版本的 Docker 镜像.
-- [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - Docker images for many combinations of versions of Coq and the Mathematical Components library.
+- [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - 用于 Coq 和数学组件库的多种版本组合的 Docker 图像.
 - [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - 可与 Docker-Coq 或 Docker-MathComp 一起使用的 GitHub 容器操作.
 - [Dune](https://dune.build) - 适用于 OCaml 和 Coq（前身为 jbuilder）的可组合和自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) - Linux 和其他 Unix 系统的包管理器，支持原子升级和回滚.
@@ -86,7 +87,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 ### Plugins
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些算子的普遍量化方程、模结合律和交换律的策略.
-- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和策略.
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和战术.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转化为自动证明和重建已找到的证明相结合.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现浮点运算和舍入误差目标的策略.
@@ -113,7 +114,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Tools
 
-- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集合.
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集.
 - [Autosubst 2](https://github.com/uds-psl/autosubst2) - 生成 Coq 代码的工具，用于在语法中处理绑定程序，例如重命名和替换.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - 用于在分离逻辑中证明 OCaml 程序属性的工具.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
@@ -145,7 +146,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 - [Analysis](https://github.com/math-comp/analysis) - 与数学组件兼容的经典实分析库.
 - [Category Theory in Coq](https://github.com/jwiegley/category-theory) - 范畴论的无公理形式化.
-- [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - 逻辑 K、K*、CTL 和 PDL 的可靠性、完整性和可判定性.
+- [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K*, CTL, and PDL.
 - [CoqPrime](https://github.com/thery/coqprime) - 使用 Pocklington 和椭圆曲线证书证明素数的库.
 - [CoRN](https://github.com/coq-community/corn) - 建设性实分析和代数图书馆.
 - [Coqtail Math](https://github.com/coq-community/coqtail-math) - 从算术到实数和复数分析的数学结果库.

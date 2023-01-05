@@ -9,7 +9,6 @@
 
 <!-- MarkdownTOC depth=4 -->
 
-- [awesome-graphql ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-graphql-)
 
 <!-- /MarkdownTOC -->
 
@@ -33,16 +32,15 @@
 
 ## Communities
 
-- [Slack](https://graphql.slack.com/messages/general/)  - 在聊天中分享和帮助人们. 得到你的邀请 [here](https://graphql-slack.herokuapp.com/).
+- [Discord](https://discord.graphql.org/) - 官方 GraphQL.org discord 频道.
 - [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 小组讨论、文章和知识共享.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
-- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题和解答. 使用标签 `graphql`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题与解答. 使用标签 `graphql`.
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共 GraphQL API 的集合列表.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - 用于有趣且信息丰富的 GraphQL 内容和讨论的 Subreddit.
 - [GraphQL Jobs](https://graphql.jobs) - 全球初创公司中基于 GraphQL 的工作列表.
 - [Codever](https://www.codever.land/search?q=graphql)  - 开发书签. 使用标签 [graphql](https://www.codever.land/bookmarks/t/graphql).
-- [Everything GraphQL - Curated by The Guild](https://discord.gg/xud7bH9) - 专用于 GraphQL 的 Discord 服务器.
 - [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯重点介绍来自 GraphQL 社区的资源和新闻.
 - [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 
@@ -109,7 +107,7 @@
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小挂钩优先 GraphQL 客户端.
 - [gqless](https://github.com/samdenty/gqless) - 没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
-- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 组件. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
 
 #### Servers
 
@@ -155,6 +153,7 @@
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 允许您通过插件从不同数据源构建灵活的 graphql 模式的工具.
 - [graphql-modules](https://github.com/Urigo/graphql-modules) - 通过模块或功能将 GraphQL 服务器分成更小的、可重用的部分.
 - [graphql-shield](https://github.com/maticzav/graphql-shield) - 帮助为 graphql api 创建权限层的库.
+- [graphql-shield-generator](https://github.com/omar-dulaimi/graphql-shield-generator) - 从您的 GraphQL 架构发出 GraphQL 盾牌.
 - [graphqlgate](https://github.com/oslabs-beta/GraphQL-Gate) - 具有 Node.js 查询复杂性分析的 GraphQL 限速库
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - 一个 webpack 加载器，用于直接从 GraphQL 文档导入受类型保护的代码生成结果
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - 所有 GraphQL 工具的一种配置（大多数工具、编辑器和 IDE 都支持）.
@@ -274,7 +273,7 @@
 
 #### Python Examples
 
-- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - GraphQL 模式和服务器使用 [Graphene](https://graphene-python.org).
+- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](https://graphene-python.org).
 - [Python Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/python/) - 创建 GraphQL 服务器的教程 [Strawberry](https://strawberry.rocks/) 和一个客户 [Qlient](https://qlient-org.github.io/python-qlient/site/).
 
 <a name="java" />
@@ -283,7 +282,7 @@
 
 - [graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java 实现.
 - [DGS Framework](https://github.com/Netflix/dgs-framework) - 由 Netflix 开发的用于 Spring Boot 的 GraphQL 服务器框架.
-- [graphql-java-generator](https://github.com/graphql-java-generator) - 一个 [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) 和一个 [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) 可以生成 **Client** 和 **Server**（POJO 和实用程序类）. 服务器部分基于 graphql-java，并隐藏了所有样板代码.
+- [graphql-java-generator](https://github.com/graphql-java-generator) - 一种 [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) 和一个 [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) 可以生成 **Client** 和 **Server**（POJO 和实用程序类）. 服务器部分基于 graphql-java，并隐藏了所有样板代码.
 - [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - 自动生成用于 GraphQL Java 的类型
 - [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)  - 将 POJO 转换为 GraphQL Java 可查询对象集的模式生成和执行包. 允许使用注释将任何服务公开为 GraphQL 服务.
 - [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 为使用 GraphQL Java 的模式定义提供基于注释的语法.
@@ -639,7 +638,7 @@
 - [Prisma](https://github.com/prisma/prisma)  - 将您的数据库变成 GraphQL API.  Prisma 可让您设计数据模型并在几分钟内在线获得可用于生产的 GraphQL API.
 - [Typetta](https://github.com/twinlogix/typetta)  - 用 TypeScript 为类型爱好者编写的 Node.js ORM.  Typetta 是 GraphQL + NodeJS + Typescript 堆栈的完美 ORM.
 - [tuql](https://github.com/bradleyboy/tuql) - 从任何 sqlite 数据库自动创建一个 GraphQL 服务器.
-- [Bit](https://github.com/teambit/bit) - 将 GraphQL API 组织为组件，供 NPM 使用或从任何项目修改， [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
+- [Bit](https://github.com/teambit/bit) - 将 GraphQL API 组织为与 NPM 一起使用或从任何项目修改的组件， [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 - [openapi-to-graphql](https://github.com/ibm/openapi-to-graphql) - 采用任何 OpenAPI 规范 (OAS) 或 swagger 并创建一个 GraphQL 接口 - 两分钟的视频和资源 [here](https://developer.ibm.com/open/projects/openapi-to-graphql/)
 - [Retool](https://retool.com/) – 在 GraphQL APIs + GraphQL IDE 之上的内部工具构建器，带有模式浏览器.
 - [dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 一个自以为是的 JavaScript 库，用于在一组资源（例如 HTTP 端点）上自动生成可预测的、类型安全的 DataLoader.
