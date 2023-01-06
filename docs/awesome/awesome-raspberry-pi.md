@@ -18,7 +18,7 @@
 
 完整的（消费者）Raspberry Pi 模型集合包括：
 
-- Raspberry Pi 1，A 型和 B 型（2012 年，停产）
+- Raspberry Pi 1, Model A & Model B (2012, discontinued)
 - [Raspberry Pi 1, Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) （2014 年 7 月）
 - [Raspberry Pi 1, Model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model-a-plus/) （2014 年 11 月）
 - [Raspberry Pi 2, Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) （2015 年 2 月）
@@ -37,6 +37,7 @@
 
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi) - 基于 musl libc 和 busybox 的面向安全的轻量级 Linux 发行版.
 - [Arch Linux ARM](https://archlinuxarm.org/) - 试图保持简单的轻量级和灵活的 Linux 发行版.
+- [Armbian](https://www.armbian.com/rpi4b/) - 其他项目可以信赖的单板计算机 (SBC) 基础操作系统平台.
 - [balenaOS](https://www.balena.io/os/) - 开源操作系统，用于在嵌入式设备上运行 Docker 容器，该设备专为可靠性而设计并在生产中得到验证.
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - 引导加载程序/通用操作系统安装程序，支持 VNC 和 HDMI-CEC.
 - [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - 树莓派上的 CentOS. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
@@ -54,6 +55,7 @@
 - [HypriotOS](http://blog.hypriot.com/about/) - 基于 Debian 的最小操作系统，经过优化以运行 Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - 用于 ARM 设备的渗透测试和道德黑客 Linux 发行版.
 - [Kano OS](https://help.kano.me/hc/en-us/articles/360001063620-How-to-Install-Reinstall-Kano-OS-for-Raspberry-Pi) - 用于探索、创造和玩耍的开源操作系统——免费用于 Raspberry Pi 和新的 Pi 3.
+- [KonstaKANG](https://konstakang.com/devices/rpi4/) - 为 Raspberry Pi 构建的非官方 LineageOS 和 AOSP. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Lakka](http://lakka.tv) - 在完全基于 RetroArch 构建的 Raspberry Pi 上进行复古游戏.
 - [LibreELEC](https://libreelec.tv/) - 刚好够用的 Kodi 操作系统
 - [Manjaro](https://manjaro.org/download/) - 适用于 Raspberry Pi 的友好开源 Linux 发行版.
@@ -70,7 +72,7 @@
 - [OpenWRT](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) - OpenWrt 被描述为用于网络管理的嵌入式设备的 Linux 发行版.
 - [OSMC](https://osmc.tv/) - 基于 Kodi 的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型 DVS 系统允许您使用时间码黑胶唱片控制数字音乐文件.
-- [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
+- [PiNet](http://pinet.org.uk/) - 管理树莓派教室的系统.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - 匿名离线移动文件共享和通信系统.
 - [RasComm RaspberryPi MorseCode Translator](https://github.com/Defcon27/RasComm-RaspberryPi-MorseCode-Translator) - RasComm 是一种通信设备，可将纯文本以视觉或听觉方式转换为摩尔斯电码 (IMC).
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/) - 官方支持的 Raspberry Pi OS（以前称为“Raspbian”），基于 Debian，可作为精简版使用.
@@ -103,16 +105,16 @@
 - [Hardened Kernel Builder for RPi](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - 使用单个命令为 Raspberry Pi 交叉编译具有增强安全性的 Linux 内核.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT，包括重要的健康监测，如心电图、呼吸、脉搏血氧仪和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - 8MB 的 Wifi AP + 客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), 使用 REST API 同时控制 wifi 客户端和站模式. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [ndm](https://github.com/gitbls/ndm) - 用于轻松管理 DNS 和 DHCP 服务器的命令行工具.
+- [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - 将 Raspberry Pi 设置为 OpenVPN 服务器的 Shell 脚本.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Python 中单板计算机的控制功能.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  - 用于创建 raspberrypi.org Raspbian 图像的工具. 这可用于创建您自己的自定义图像，并安装特定的软件包等.
 - [PiBakery](http://www.pibakery.org/) - 基于块的、易于使用的 Raspberry Pi 设置工具.
 - [Pieman](https://github.com/tolstoyevsky/pieman) - 用于创建基于 Raspbian、Devuan、Ubuntu 和 Alpine Linux 的自定义图像的脚本.
-- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 图像.
+- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 映像.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - 自动缩小 pi 图像的 Bash 脚本，然后在启动时将其调整为 SD 卡的最大大小.
 - [pistrong](https://github.com/gitbls/pistrong)  - 管理受证书保护的 strongSwan VPN. 用于客户端-服务器、站点到站点和主机到主机 VPN 的安装程序和命令行工具.
-- [PiVPN](https://pivpn.io) - Create a full-featured OpenVPN/WireGuard VPN Server with a single bash command.
+- [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
 - [Pi-Apps](https://github.com/Botspot/pi-apps) - Raspberry Pi 计算机最受欢迎的应用程序商店，100% 开源 bash 脚本.
 - [Processing](https://pi.processing.org/get-started/) - 在 Raspberry Pi 上运行的处理开发环境.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi 是一种基于 AI 的 Wi-Fi 破解工具，它可以从周围的 WiFi 环境中学习，以最大限度地利用它捕获的可破解 WPA 密钥材料.
@@ -144,7 +146,7 @@
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky 被几乎所有带有 USB 端口的东西识别为 USB HID，因此您可以像键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - 用于监控 DOCSIS 有线网络下游负载的工具.
 - [Drumbooth controller with touch interface](https://github.com/FDelporte/DrumBoothController) - 使用 Java、JavaFX、Pi4J 和 Arduino 来控制 8 个继电器和 LED 灯条的项目.
-- [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA 哈希抓取蓝牙外设/Android 应用程序.
+- [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
 - [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - 婴儿监视器，包括自定义案例、服务器和客户端源代码. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Gaussmeter](https://github.com/gaussmeter/gaussmeter) - 项目利用 Raspberry Pi Zero W、WS2812B LED 和 Tesla API 来收集和显示 Tesla 的状态. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - 使用 7&quot; Raspberry Pi 显示器模仿哈利波特的预言家日报.
@@ -161,7 +163,7 @@
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D 打印迷你 MIDI 控制器.
 - [Movel](https://github.com/stevelacy/movel) - 树莓派车载电脑.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - 使用 Raspberry Pi 集群板展示 Cassandra 的始终在线、容错特性.
-- [NALIVATOR-9000](https://github.com/fote/nalivator9000) - Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.
+- [NALIVATOR-9000](https://github.com/fote/nalivator9000) - 机器人调酒师，用于在 Golang 上使用 Telegram 机器人界面和语音合成制作鸡尾酒.
 - [Nerves Project](https://github.com/nerves-project) - 在 Elixir 中制作和部署防弹嵌入式软件.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - 设置 Pi Zero 以扫描 WiFi 网络上的设备并使用它来确定谁在“家”.
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) - 由 Raspberry Pi 驱动的数码管时钟.
@@ -170,7 +172,7 @@
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) - 捕获图像，与谷歌物联网云平台生态系统集成.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) - 基于RFID的支付模块.
 - [Pi-hole](https://pi-hole.net/) - 互联网广告的黑洞.
-- [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+- [Pi-KVM](https://github.com/pikvm/pikvm) - DIY KVM over IP，通过 Web UI 或 VNC 使用全高清视频、鼠标、虚拟驱动器、IPMI、局域网唤醒和许多其他功能管理远程计算机.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - 来自 Rclone 远程存储服务等的远程无头多功能 PiCamera 操作.
 - [Pi4j Project](http://pi4j.com) - Raspberry Pi 的 Java I/O 库.
 - [PiAware](https://uk.flightaware.com/adsb/piaware/install) - 使用 Raspberry Pi 进行实时航班跟踪.
@@ -303,7 +305,7 @@
 - [BuildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - 在 RaspberryPi 或其他 ARM 板上构建 Swift 所需的一切，已更新至 Swift 4.1.3.
 - [Compile Swift for Raspberry Pi by Visual Studio Code](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-visual-studio-code-3f303e32d34e) - 快速教程分享如何帮助设置使用 Visual Studio Code 编译 Raspberry Pi 代码.
 - [Compile Swift for Raspberry Pi by Xcode](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-xcode-406ac26b63ec) - 快速教程分享如何帮助设置使用 Xcode 编译 Raspberry Pi 代码.
-- [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - 帮助在 Raspbian stretch (lite) 上设置 Swift 环境的快速指南.
+- [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - Quick guide to help setup Swift environment on Raspbian stretch (lite).
 - [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - 用于 Linux/ARM 板上硬件项目的 Swift 库，支持 GPIO/SPI/I2C/PWM/UART/1Wire.
 - [Swish](https://github.com/thomaspaulmann/Swish) - 在 Xcode 中的远程机器上构建 Swift 项目.
 

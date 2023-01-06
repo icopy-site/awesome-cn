@@ -133,7 +133,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [rhum](https://github.com/drashland/rhum) - Deno 的轻量级测试框架.
 - [superdeno](https://github.com/asos-craigmorten/superdeno) - 用于测试 Deno HTTP 服务器的超级代理驱动库.
 - [superoak](https://github.com/asos-craigmorten/superoak) - Oak 的 HTTP 断言通过 SuperDeno 变得简单.
-- [tepi](https://deno.land/x/tepi) - 一个 .http 测试运行器
+- [tepi](https://deno.land/x/tepi) - 一个 .http 测试运行程序
 - [tincan](https://github.com/gcaptn/tincan) - 一个类似 Jest 的 Deno 测试库.
 - [unexpected](https://github.com/unexpectedjs/unexpected) - 可扩展的 BDD 断言工具包.
 
@@ -176,6 +176,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.
 - [invert-kv](https://github.com/denorg/invert-kv) - 在 Deno 中反转键值对.
 - [lazy](https://github.com/luvies/lazy) - 一个类似 linq 的惰性评估迭代模块.
+- [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - 国际化/本地化/翻译 (i18n/l10n/t9n) 库，带有 Fresh 包装器并支持复数和动态替换.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - 用于生成、解决、分析和显示迷宫的 Javascript 模块.
 - [monke](https://github.com/retraigo/monke) - TypeScript 中的颜色量化和抖动.
 - [ms](https://github.com/denolib/ms) - 轻松将各种时间格式转换为毫秒.

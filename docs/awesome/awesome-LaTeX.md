@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="egeerardyn/awesome-LaTeX"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome LaTeX [![awesome]](https://github.com/sindresorhus/awesome) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
+## Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 [![LaTeX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png)](https://www.latex-project.org/)
 
@@ -9,7 +9,6 @@
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [很棒的 LaTeX [![很棒]](https://github.com/sindresorhus/awesome) ![License: CC BY-SA 4.0](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/#awesome-latex-awesome-)
 
 <!-- /TOC -->
 
@@ -20,9 +19,9 @@
 
 ## Distributions
 
-- [MacTeX](https://tug.org/mactex/)  - 最常见的 macOS LaTeX 发行版，基本上是添加了一些 Mac 特定工具的 TeXLive.  ！[苹果]
+- [MacTeX](https://tug.org/mactex/)  - 最常见的 macOS LaTeX 发行版，基本上是添加了一些 Mac 专用工具的 TeXLive.  ！[苹果]
 - [TeX Live](https://www.tug.org/texlive/)  - 最常见的用于类 Unix 操作系统的 LaTeX 发行版，包括 GNU/Linux. 也适用于 Windows.  ![Linux] ![窗户]
-- [MikTeX](https://miktex.org) - Most common LaTeX distribution for Windows, but also available for Mac, Linux or as Docker image.  ![linux] ![windows] ![mac] ![foss]
+- [MikTeX](https://miktex.org)  - 适用于 Windows 的最常见 LaTeX 发行版，但也适用于 Mac、Linux 或作为 Docker 映像.  ![linux] ![windows] ![mac] ![foss]
 
 ## Docker Images
 
@@ -53,7 +52,7 @@
 
 因为用记事本编辑 LaTeX 代码并不牛逼.
 那里有很多编辑器，下面是最棒的编辑器.
-完整的 LaTeX 编辑器列表收集于 [tex.stackexchange.com](https://tex.stackexchange.com/) 作为 [big list of LaTeX Editors/IDEs](https://tex.stackexchange.com/q/339/9075).
+LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stackexchange.com/) 作为 [big list of LaTeX Editors/IDEs](https://tex.stackexchange.com/q/339/9075).
 
 - [List of popular LaTeX editors](https://tex.stackexchange.com/questions/339/latex-editors-ides) - 社区维护的流行 LaTeX 编辑器列表，包括屏幕截图和简短描述.
 
@@ -112,10 +111,10 @@
 
 ## Bibliography tools
 
-- [JabRef](https://www.jabref.org)  - 非常强大的跨平台 (Java) bibtex 编辑器. 不过，GUI 看起来很过时.  ![mac] ![windows] ![linux] ![foss]
+- [JabRef](https://www.jabref.org)  - 非常强大的跨平台 (Java) bibtex 编辑器.  ![mac] ![windows] ![linux] ![foss]
 - [Papis](https://github.com/papis/papis) - 高度可定制，
   强大而简单的跨平台（Python）库管理器. 它有一个非常
-  complete Command-Line-Interface, several GUIs and scripting capability.
+  完整的命令行界面、多个 GUI 和脚本功能.
   ![linux] ![mac] ![foss]
 - [Bibdesk](http://bibdesk.sourceforge.net) - 很棒的 ![mac] 参考书目编辑器.
 - [Zotero](https://www.zotero.org)  - 浏览器的参考管理器，它也可以导出到 bibtex 并与许多 LaTeX 编辑器集成.  ![mac] ![windows] ![linux] ![foss]
@@ -156,6 +155,7 @@
 - [GeoGebra](https://www.geogebra.org/)  - 可输出到 TikZ 的跨平台几何工具.  ![源代码]
 - [Dia](https://wiki.gnome.org/Apps/Dia)  - 可以导出到 PSTricks 和 MetaPost 代码的跨平台图表工具.  ![源代码]
 - [TikZiT](https://tikzit.GitHub.io)  - 使用 PGF/TikZ 创建图形和字符串图的 GUI 工具.  ![windows] ![linux] ![mac] ![foss]
+- [LaTeXDraw](https://latexdraw.sourceforge.net/)  - 以 LaTeX 作为一等公民的基于矢量的绘图工具.  ![windows] ![linux] ![mac] ![foss]
 
 ## Packages
 
@@ -236,6 +236,7 @@ TikZ 是一个很棒的软件包，包含许多插件，可让您从 LaTeX 文�
 - [Showcase of beautiful invitations in TeX](https://tex.stackexchange.com/q/281415/9075) - 使用 LaTeX 排版的邀请函展示.
 - [Showcase of "programming your document" paradigm](https://tex.stackexchange.com/q/219774/9075) - 演示 LaTeX 如何像编程语言一样使用的 LaTeX 文档集.
 - [TUG: TeX showcase](https://www.tug.org/texshowcase/) - 来自 TUG 的网站显示了 LaTeX 可以做什么的一些例子.
+- [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) - 使用 LaTeX 的学术绘图示例精选列表
 
 ## Tutorials
 
@@ -273,7 +274,7 @@ TikZ 是一个很棒的软件包，包含许多插件，可让您从 LaTeX 文�
 
 ## Meta Awesome-LaTeX
 
-如果你想贡献，请阅读我们 [CONTRIBUTING](https://github.com/egeerardyn/awesome-LaTeX/blob/master/CONTRIBUTING.md) 准则.
+如果你想贡献，请阅读我们 [CONTRIBUTING](https://github.com/egeerardyn/awesome-LaTeX/blob/master/CONTRIBUTING.md) guidelines.
 
 ## Legend
 
@@ -291,7 +292,7 @@ TikZ 是一个很棒的软件包，包含许多插件，可让您从 LaTeX 文�
 所有商标均为其各自所有者的财产.
 
 [mac]: https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
-[Linux]: https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
+[linux]: https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
 [窗户]：https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
 [源码]：https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
 [很棒]：https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
