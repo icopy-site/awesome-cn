@@ -40,7 +40,7 @@
 - [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) （每个模板都是响应式的，并且每个模板都已经在所有流行的电子邮件客户端中进行了测试.）
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) - Antwort 为电子邮件提供响应式布局，既适合并适应客户端宽度.
-- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
+- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板设计用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
 - [HTML Email Templates](https://www.htmlemailtemplates.net/) - 适用于初创公司和 SaaS 的响应式 HTML 电子邮件模板.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个预先测试过的模板，适用于任何邮寄服务
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的 Grunt 模板.
@@ -178,6 +178,7 @@
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端隐私功能的工具（加载远程内容）
 - [Mail Tester](https://www.mail-tester.com/) - 测试您的电子邮件的垃圾邮件
 - [Sendtest.email](https://sendtest.email/)  - 在发送前测试您的 HTML 电子邮件、⚡4email 或文本版本. 注重隐私，无需注册！
+- [Mailsnag](https://mailsnag.com/) - 为您的所有 SMTP 需求测试电子邮件服务器 - 模拟延迟和错误、预览和共享电子邮件等 - 所有这些都无需向实际客户发送电子邮件
 
 ## Learning
 

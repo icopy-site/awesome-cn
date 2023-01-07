@@ -121,7 +121,7 @@
 * [chartify](https://github.com/spotify/chartify/) - Python 库，可让数据科学家轻松创建图表.
 * [physt](https://github.com/janpipek/physt) - 改进的直方图.
 ### Interactive plots
-* [animatplot](https://github.com/t-makaro/animatplot) - 一个基于 matplotlib 的动画绘图 python 包.
+* [animatplot](https://github.com/t-makaro/animatplot) - 一个基于 matplotlib 的动画绘图的 python 包.
 * [plotly](https://plot.ly/python/) - 一个 Python 库，可以制作交互式和出版质量的图表.
 * [Bokeh](https://github.com/bokeh/bokeh) - Python 的交互式网络绘图.
 * [Altair](https://altair-viz.github.io/)  - Python 的声明性统计可视化库. 可以轻松地在代码中进行许多数据转换以创建图形
@@ -139,11 +139,11 @@
 
 
 ## Deployment
-* [datapane](https://datapane.com/) - 将脚本和笔记本转换为交互式报告的 API 集合.
-* [binder](https://mybinder.org/) - 启用共享和执行 Jupyter 笔记本
 * [fastapi](https://fastapi.tiangolo.com/) - 用于使用 Python 构建 API 的现代、快速（高性能）Web 框架
 * [streamlit](https://www.streamlit.io/) - 轻松部署机器学习模型
-
+* [gradio](https://github.com/gradio-app/gradio) - 在 3 分钟内用 Python 为您的机器学习模型创建 UI.
+* [datapane](https://datapane.com/) - 将脚本和笔记本转换为交互式报告的 API 集合.
+* [binder](https://mybinder.org/) - 启用共享和执行 Jupyter 笔记本
 
 ## Model Explanation
 

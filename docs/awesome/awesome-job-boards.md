@@ -5,17 +5,19 @@
 精选的利基职位列表.
 
 
+- [eCommerce] (#ecommerce)
 
 ## Artificial Intelligence (AI)
 
 * [AI Jobs](https://aijobs.app) – 人工智能 (AI) 领域的工作
 * [ai-jobs.net](https://ai-jobs.net/) - 人工智能和大数据领域的工作
+* [thrive](https://thriveml.com) - 顶级人工智能公司和初创公司的工作
 
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
 * [Data Yoshi](https://www.datayoshi.com/) - 数据科学、分析、人工智能和机器学习方面的工作
-* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习的工作
+* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习工作
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - 数据科学、分析和工程领域的工作，您知道自己真正会做什么
 
 ## Blockchain
@@ -51,6 +53,14 @@
 ## DevOps
 
 * [Kube Careers](https://kube.careers) — 精选 Kubernetes 岗位，薪资区间清晰，直投企业.
+
+## eCommerce
+
+ * [eComPortal] (https://ecomportal.co) - 电子商务行业的工作板. 大量的前端和全栈开发人员工作机会. 提供远程和薪水. 
+
+## Finance
+
+* [OpenQuant](https://openquant.co) - 找到量化金融领域的最佳工作
 
 ## Gaming
 

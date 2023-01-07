@@ -38,7 +38,7 @@
 ### Virtual Machine
 
 * [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - 使用开源软件（Ubuntu、PostgreSQL、RDKit）构建的 ChEMBL 版本
-* [3D e-Chem Virtual Machine](https://github.com/3D-e-Chem/3D-e-Chem-VM) - 
+* [3D e-Chem Virtual Machine](https://github.com/3D-e-Chem/3D-e-Chem-VM) - 带有所有软件和样本数据的虚拟机，用于运行 3D-e-Chem Knime 工作流程
 
 ## Libraries
 
@@ -150,7 +150,7 @@
 * [Learncheminformatics.com](http://learncheminformatics.com/) - 印第安纳大学“化学信息学：化学数据世界导航”课程.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - 使用开源包和数据的计算机辅助药物设计 (CADD) 教学平台.
-* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of the University of Arkansas at Little Rock by Robert Belford 教授
+* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of the University of Arkansas at Little Rock by Robert Belford 的化学信息学课程
 * [BigChem](http://bigchem.eu/alllectures) - 所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID 项目，提供大型化学数据分析方面的创新教育.）
 * [Molecular modeling course](https://dasher.wustl.edu/chem478/) - 博士 [Jay Ponder](https://dasher.wustl.edu/)，华盛顿大学圣路易斯教授.
 * [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - 博士 [Jay Ponder](https://dasher.wustl.edu/)，华盛顿大学圣路易斯教授.

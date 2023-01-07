@@ -17,6 +17,7 @@
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio 是适用于数据库开发人员、DBA 和分析师的生产力软件.
+- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - 面向分析师和分析工程师的现代 IDE，具有强大的脚本和网格功能.
 - [Database .net](http://fishcodelib.com/Database.htm) - 支持 20 多个数据库的多数据库管理工具.
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 的数据库和 SQL 跨平台 IDE.
 - [DataStation](https://github.com/multiprocessio/datastation) - 轻松查询、编写脚本和可视化来自每个数据库、文件和 API 的数据.
@@ -49,7 +50,7 @@
 - [Arctype](https://arctype.com) - 使用起来很有趣的 SQL 客户端和数据库管理工具.
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - 一种数据管理工具，可以在 Windows、macOS 和 Linux 中使用 SQL Server、PostgreSQL、Azure SQL DB 和 SQL DW.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - 开源 SQL 编辑器和数据库管理器，在其使命声明中承诺保护隐私.
-- [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
+- [DbGate](https://github.com/dbgate/dbgate)  - MySQL、PostgreSQL、SQL Server、MongoDB、SQLite 等的数据库管理器. 在 Windows、Linux、Mac 下运行或作为 Web 应用程序运行.
 - [DB Lens](https://github.com/dblens/app) - 开源 Postgres GUI - 自动 ER 图、内部数据库洞察、磁盘利用率、性能指标、索引使用、顺序扫描计数等.
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接通过 SQL 访问您的所有数据，无论数据位于何处.
@@ -62,7 +63,7 @@
 - [phpLiteAdmin](https://www.phpliteadmin.org) - 基于 Web 的 SQLite 数据库管理工具，用 PHP 编写，支持 SQLite3 和 SQLite2.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL 和 MariaDB 的 Web 界面.
 - [psequel](http://www.psequel.com) - PSequel 为您提供了一个干净简单的界面来快速执行常见的 PostgreSQL 任务.
-- [PopSQL](https://popsql.com) - 适合您团队的现代协作 SQL 编辑器.
+- [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
 - [Postico](https://eggerapps.at/postico) - 适用于 Mac 的现代 PostgreSQL 客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（原Robomongo）是一个以shell为中心的跨平台MongoDB管理工具.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 用于 macOS 的 MySQL/MariaDB 数据库管理.
@@ -70,7 +71,7 @@
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - 在您自己的私有云中运行的基于 Web 的 SQL 编辑器.
-- [SQLPro](https://www.macpostgresclient.com) - A simple, powerful Postgres manager for macOS.
+- [SQLPro](https://www.macpostgresclient.com) - 一个简单、强大的 macOS Postgres 管理器.
 - [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - 用 Ja​​va 编写的图形 SQL 客户端，允许您查看 JDBC 兼容数据库的结构、浏览表中的数据、发出 SQL 命令等.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - VSCode 的数据库管理.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整和易于使用的 MySQL GUI.
@@ -90,7 +91,7 @@
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是 Oracle 数据库的免费命令行界面.
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等等.
 - [SQLLine](https://github.com/julianhyde/sqlline) - 用于通过 JDBC 向关系数据库发布 SQL 的命令行 shell.
-- [usql](https://github.com/xo/usql) - 用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
+- [usql](https://github.com/xo/usql) - 适用于 PostgreSQL、MySQL、Oracle 数据库、SQLite3、Microsoft SQL Server 和许多其他数据库（包括 NoSQL 和非关系数据库）的通用命令行界面！
 
 ### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI 是 AWS Athena 服务的 CLI 工具，可以自动完成和语法高亮.
@@ -127,7 +128,7 @@
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - 用于将 Oracle 模式导出到一组 ddl init 脚本的命令行实用程序，能够过滤不需要的信息、在不同文件中分离 DDL、漂亮的格式输出.
 
 ### Diagrams
-- [Azimutt](https://github.com/azimuttapp/azimutt) - 实体关系图 (ERD) 可视化工具，具有各种过滤器和输入，可帮助理解您的数据库模式.
+- [Azimutt](https://github.com/azimuttapp/azimutt) - 实体关系图 (ERD) 可视化工具，具有各种过滤器和输入，可帮助理解您的数据库架构.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
 
 ### Documentations
@@ -183,7 +184,7 @@
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - 将 Postgres 数据库复制到目标 Postgres 服务器（pg_dump | pg_restore on steroids）.
 
 ## Cloning
-- [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
+- [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - 用于 Postgres 的即时瘦克隆以扩展开发过程.
 - [clone_schema](https://github.com/denishpatel/pg-clone-schema) - Postgres 克隆模式实用程序，无需离开数据库.
 - [Spawn](https://spawn.cc/)  - 为开发和 CI 创建即时数据库副本的云服务. 不再需要本地数据库安装、即时恢复到任意保存点、每个功能分支或测试的独立副本. 无论数据库大小如何，即时供应.
 
@@ -204,6 +205,7 @@
 - [pgstats](https://github.com/gleu/pgstats) - 收集 PostgreSQL 统计信息，并将它们保存在 CSV 文件中或打印在标准输出上.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活的独立 PostgreSQL 指标监控/仪表板解决方案.
 - [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - 用于提取和提供 PostgreSQL 数据库指标的服务.
+- [Postgres Monitor](https://postgresmonitor.com) - 一种易于使用的 PostgreSQL 监控服务，提供警报、仪表板、查询统计信息和动态建议.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户深入分析 Postgres 数据库的健康状况.
 - [Promscale](https://github.com/timescale/promscale) - 由 SQL 提供支持的指标和跟踪的开源可观察性后端.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - 为您的 postgres 数据库提供指标.
@@ -349,7 +351,7 @@ SQL 的学习和谜题
 - [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
 - [Postgres cheat sheet](https://postgrescheatsheet.com)  - 有用的 SQL 脚本和命令<timescale.com> .
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) - 缺少对 Postgres DBA 和所有工程师有用的工具集.
-- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - 有用的 PostgreSQL 查询和命令.
+- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
 - [TPT](https://github.com/tanelpoder/tpt-oracle) - 这些 sqlplus 脚本用于 Oracle 数据库性能优化和故障排除.
 
 
