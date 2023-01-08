@@ -6,7 +6,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
 由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
 
@@ -132,7 +132,7 @@
 - [terraform-aws-customer-gateway](https://github.com/terraform-aws-modules/terraform-aws-customer-gateway) - 在 AWS 上创建客户网关.
 - [terraform-aws-datadog-forwarders](https://github.com/clowdhaus/terraform-aws-datadog-forwarders) - 在 AWS 上创建资源以将日志/指标转发给 Datadog.
 - [terraform-aws-dms](https://github.com/clowdhaus/terraform-aws-dms) - 在 AWS 上创建 AWS DMS（数据库迁移服务）资源.
-- [terraform-aws-dynamodb-table](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table) - 在 AWS 上创建 DynamoDB 表.
+- [terraform-aws-dynamodb-table](https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table) - Creates DynamoDB table on AWS.
 - [terraform-aws-ec2-instance](https://github.com/terraform-aws-modules/terraform-aws-ec2-instance) - 在 AWS 上创建 EC2 实例.
 - [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - 在 AWS ECR 上管理 Docker 容器注册表.
 - [terraform-aws-ecs](https://github.com/terraform-aws-modules/terraform-aws-ecs) - 在 AWS 上创建 AWS ECS 资源.
@@ -251,10 +251,10 @@
 
 - [AIaC](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM 是一种用于 AWS IAM 的工具，用于最小权限 Terraform 执行框架.
-- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
+- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command. :ghost:
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfy](https://github.com/Azure/aztfy) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -309,7 +309,7 @@
 - [terraform-diff](https://github.com/contentful-labs/terraform-diff) - 始终知道您需要在哪里运行 Terraform 计划和申请！
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs) - 从 Terraform 模块生成文档的快速实用程序.
 - [terraform-graph-beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - 命令行工具允许将 terraform graph 命令几乎不可用的输出转换为更有意义和解释性的内容.
-- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *(only 0.11 and earlier)* Improve Terraform's plan output to be easier to read and understand.
+- [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *（仅 0.11 及更早版本）* 改进 Terraform 的计划输出，使其更易于阅读和理解.
 - [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - 用于处理 Terraform 操作的 Kubernetes CRD.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser)  - 用于从“terraform plan”解析标准输出并将其转换为 JSON 的命令行实用程序和 JavaScript API.  ：鬼：
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - 用于管理相同 Terraform 脚本的多个条款的工具.
@@ -321,7 +321,7 @@
 - [Terraform-Visual](https://github.com/hieven/terraform-visual) 一个简单但功能强大的可视化 Terraform 计划的工具.
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt 是 Terraform 的薄包装器，它提供了额外的工具来保持 Terraform 配置干燥、使用多个 Terraform 模块以及管理远程状态.
 - [terrahelp](https://github.com/opencredo/terrahelp) - 旨在提供补充功能的命令行实用程序，有时在使用 Terraform 时证明是有用的.
-- [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 Terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时地形执行，以及历史地形运行的审计和报告功能.  :heavy_dollar_sign:
+- [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 Terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时 terraform 执行，以及历史 terraform 运行的审计和报告功能.  :heavy_dollar_sign:
 - [terramate](https://github.com/mineiros-io/terramate) - 用于管理多个 Terraform 堆栈的工具，支持更改检测和代码生成
 - [terrascan](https://github.com/accurics/terrascan) - Terraform 模板静态代码分析的安全和最佳实践测试合集
 - [terraspace](https://terraspace.cloud) - Terraform 框架
@@ -376,6 +376,7 @@
 - [OTF](https://github.com/leg100/otf) - Open Terraforming Framework，Terraform Enterprise 的开源替代品，具有完整的 Terraform CLI 集成.
 - [Terrakube](https://terrakube.org) - Terraform Enterprise 的开源替代品，具有私有注册表、远程状态、自定义流、预定工作区和视觉状态.
 - [Spacelift](https://spacelift.io/)  - 替代 Terraform 云/企业.  Terraform 的协作基础设施交付平台：heavy_dollar_sign：
+- [Terrateam](https://terrateam.io)  - 具有成本估算、静态分析、访问控制、偏差检测和自定义工作流的 Terraform GitOps.  :heavy_dollar_sign:
 
 ## Videos
 

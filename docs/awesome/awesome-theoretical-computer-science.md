@@ -84,6 +84,7 @@
 ## Lecture Videos Playlists<a name=algorithms_lecture_videos_playlists></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - 一个用实际方法证明问题不能有效解决的课程.
 ## Lecture Notes<a name=algorithms_lecture_notes></a>
+- [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Mitzenmacher &amp; Upfals 和 Motwani &amp; Raghavan 对标准书籍的补充说明.
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/)  - 特别使用随机性、近似值、高维几何等思想. 面临不确定性、处理大数据的方法、处理棘手问题、启发式方法等.
 ## Books<a name=algorithms_books></a>
 - [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)  - Garey 和 Johnson 的《计算机与棘手性：NP 完全性指南》的续集. 新主题包括参数化复杂性、近似下限、其他困难假设（ETH、3SUM 猜想、APSP 猜想、UGC 等）、在线算法、流式算法、多项式奇偶校验参数和并行性.

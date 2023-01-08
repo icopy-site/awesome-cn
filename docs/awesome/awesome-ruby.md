@@ -350,7 +350,7 @@
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner 是一组用于在 Ruby 中清理数据库的策略.
 * [Database Consistency](https://github.com/djezzzl/database_consistency) - 检查应用程序约束和数据库约束是否同步的简单方法.
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - 将外键助手添加到迁移并将外键正确转储到 schema.rb.
-* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 模式迁移.
+* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 架构迁移.
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描您的模型并显示可能应该编制索引的列列表.
 * [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的真实世界数据.
 * [PgHero](https://github.com/ankane/pghero) - Postgres 见解变得简单.
@@ -1036,6 +1036,7 @@
 * [Pipal](https://github.com/digininja/pipal) - 密码分析器和统计生成器
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - 用于阻止和限制滥用请求的机架中间件.
 * [Rack::Protection](https://github.com/sinatra/sinatra/tree/master/rack-protection) - 用于防止典型 Web 攻击的机架中间件.
+* [Ronin](https://github.com/ronin-rb/ronin) - 用于漏洞研究和漏洞利用开发的 Ruby 平台.
 * [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - 网站指纹识别器.
 * [WPscan](http://wpscan.org/) - WordPress 漏洞扫描器.
 

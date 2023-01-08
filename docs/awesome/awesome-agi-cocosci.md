@@ -279,7 +279,7 @@
 
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***自然***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744&hl=en&as_sdt=0,5) ].  Zoubin Ghahramani 对贝叶斯机器学习的评论.
 
-* [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***行为与脑科学***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian generalization.
+* [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***行为与脑科学***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5) ].  Josh Tenenbaum 对贝叶斯泛化的评论.
 
 * [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS&#39;98***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1) ]. 关于贝叶斯泛化的原始论文.
 
@@ -396,7 +396,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -776,6 +776,8 @@
 
 * [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346&hl=en&as_sdt=0,5)]. [[Project](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
+* [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***机器学习***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485&hl=en&as_sdt=0,5) ]. 将元策略学习集成到归纳逻辑编程中的神经符号框架.
+
 
 ### Explainability
 
@@ -827,7 +829,7 @@
 
 * [Cognitive engineering: Human problem solving with tools](https://www.researchgate.net/profile/David-Woods-19/publication/242545872_Cognitive_Engineering_Human_Problem_Solving_with_Tools/links/542becf70cf29bbc126ac097/Cognitive-Engineering-Human-Problem-Solving-with-Tools.pdf) - ***人为因素***，1988 年. [[All Versions](https://scholar.google.com/scholar?cluster=14194840995416222723&hl=en&as_sdt=0,5) ]. 调查 huamn 工具在问题解决中的使用的最初想法.
 
-* [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000) - ***剑桥大学出版社***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5) ]. 将人类工具使用与文明进化联系起来的经典观点.
+* [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000) - ***剑桥大学出版社***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5)]. A classic perspective correlating human tool use with the evolution of civilization.
 
 
 * [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231) - ***认知科学趋势***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=3612212926196611828&hl=en&as_sdt=0,5) ]. 人类工具使用的神经科学说明.
@@ -1434,7 +1436,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -1944,6 +1946,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** ---每个主题都描述了一种智能现象，或者一种智能行为---它们展示了计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题的收集也或多或少带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
+显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

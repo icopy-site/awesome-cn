@@ -4,7 +4,7 @@
 
 &gt; 精心挑选的 Python asyncio 框架、库、软件和资源列表.
 
-巨蟒 [asyncio](https://docs.python.org/3/library/asyncio.html) Python 3.4 引入标准库的模块为使用协程编写单线程并发代码、通过套接字和其他资源进行多路复用 I/O 访问、运行网络客户端和服务器以及其他相关原语提供了基础设施.
+巨蟒 [asyncio](https://docs.python.org/3/library/asyncio.html) Python 3.4 标准库中引入的模块为使用协程编写单线程并发代码、通过套接字和其他资源进行多路复用 I/O 访问、运行网络客户端和服务器以及其他相关原语提供了基础设施.
 
 Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——尤其是在 Python 社区以及 2014 年 3 月发布的 Python 3.4 中.
 因此，很难让自己了解最新的最棒的软件包.
@@ -62,7 +62,7 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 * [Databases](https://github.com/encode/databases) - SQLAlchemy 核心的异步数据库访问，支持 PostgreSQL、MySQL 和 SQLite.
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - 一个自动生成的、完全类型安全的 ORM，由 Pydantic 提供支持，专门为您的模式量身定制——支持 SQLite、PostgreSQL、MySQL、MongoDB、MariaDB 等.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) - 一个 ORM / 查询生成器，可以在异步和同步模式下工作，具有漂亮的管理 GUI 和 ASGI 中间件.
-* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor](https://github.com/mongodb/motor) 和 [Pydantic](https://pydantic-docs.helpmanual.io).
+* [Beanie](https://beanie-odm.dev) - 基于异步 MongoDB ODM [motor](https://github.com/mongodb/motor) 和 [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## Networking
 
@@ -87,7 +87,7 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 
 * [aiomock](https://github.com/nhumrich/aiomock/) - 一个支持异步方法的 python 模拟库.
 * [asynctest](https://github.com/Martiusweb/asynctest/)  - 使用测试功能增强标准单元测试包. 异步库
-* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest 支持异步.
+* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 * [aresponses](https://github.com/CircleUp/aresponses)  - 异步 http 模拟. 类似于 [responses](https://github.com/getsentry/responses) 图书馆用于 [requests](https://github.com/requests/requests).
 * [aioresponses](https://github.com/pnuckowski/aioresponses) - Python aiohttp 包中模拟/伪造 Web 请求的帮助程序.
 
@@ -111,9 +111,11 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 * [aioserial](https://github.com/changyuheng/aioserial) - 直接替换 [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - 使用 zipkin 的 asyncio 分布式跟踪工具
 * [asgiref](https://github.com/django/asgiref) - 用于 ASGI 到 WSGI 集成的后端实用程序，包括 sync_to_async 和 async_to_sync 函数包装器.
+* [async_property](https://github.com/ryananguiano/async_property) - 异步属性的 Python 装饰器.
 * [ruia](https://github.com/howie6879/ruia) - 基于 asyncio 的异步网络抓取微框架.
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Kubernetes 的异步客户端库.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - `asyncio` 的杂项实用程序.
+* [taskiq](https://taskiq-python.github.io/) - 异步分布式任务管理器（像芹菜，但异步）. 
 
 ## Writings
 
@@ -141,7 +143,7 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 
 ## Alternatives to asyncio
 
-*在 Python 中进行异步编程的替代方法，其中一些尝试支持与 `asyncio` 的某些兼容性，另一些则根本不兼容.*
+*在 Python 中进行异步编程的替代方法，其中一些尝试支持与 `asyncio` 的某些兼容性，其他方法则根本不兼容.*
 
 * [curio](https://github.com/dabeaz/curio) - 协程并发库.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - 基本 curio -&gt; asyncio 协程桥.

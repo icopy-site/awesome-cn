@@ -44,7 +44,7 @@
 
 虽然并非绝对必要，但拥有编程语言是成为数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，其应用领域非常广泛.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
 
- Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
+ Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
 
 与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
@@ -181,7 +181,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 套袋
+  - 装袋
   - 随机森林
   -AdaBoost
 
@@ -443,7 +443,7 @@
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 一个基于 Python 的推论统计、假设检验和回归框架 |
-| [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库 |
+| [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
 | [spaCy](https://spacy.io/)  | 一个高性能的自然语言处理工具包 |
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid Studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
@@ -457,11 +457,13 @@
 | [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
 | [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器发现、创建和启动多云应用程序.  |
 | [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
-| [LineaPy](https://github.com/LineaLabs/lineapy)  | 曾经因为清理又长又乱的 Jupyter 笔记本而感到沮丧吗？ 使用开源 Python 库 LineaPy，只需两行代码即可将杂乱的开发代码转换为生产流水线.  |
+| [LineaPy](https://github.com/LineaLabs/lineapy) | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines. |
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找流行和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表 |
 | [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本控制和部署 |
 | [MLflow](https://mlflow.org/)  | 用于在整个生命周期内管理 ML 模型的 MLOps 框架 |
+| [cleanlab](https://github.com/cleanlab/cleanlab)  | 用于以数据为中心的 AI 并自动检测 ML 数据集中的各种问题的 Python 库 |
+| [AutoGluon](https://github.com/awslabs/autogluon)  |  AutoML 可轻松为图像、文本、表格、时间序列和多模态数据生成准确的预测 |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -553,7 +555,7 @@
 - [ICML](https://icml.cc/2015/) - 机器学习国际会议
 - [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议 (GECCO)
 - [epjdatascience](https://epjdatascience.springeropen.com/)
-- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
+- [Journal of Data Science](https://jds-online.org/journal/JDS) - 一本致力于统计方法应用的国际期刊
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
 - [Journal of Big Data](https://journalofbigdata.springeropen.com/)
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
@@ -840,7 +842,7 @@
 | [Wes McKinney](https://twitter.com/wesmckinn)  |  Pandas（Python 数据分析库）.  |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC 的数据新闻团队. 实践数据驱动的新闻，使其可视化并展示我们的工作.  |
-| [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
+| [Alexey Grigorev](https://twitter.com/Al_Grigor)  | 数据科学作者 |
 
 
 ### Telegram Channels
@@ -848,7 +850,7 @@
 
 - [Open Data Science](https://t.me/opendatascience)  – 第一个电报数据科学频道. 涵盖所有与数据科学相关的技术人员和热门人员：人工智能、大数据、机器学习、统计学、普通数学和前者的应用.
 - [Loss function porn](https://t.me/loss_function_porn) — 带有视频或图形可视化的关于 DS/ML 主题的精美帖子.
-- [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) – 每日 ML 新闻.
 
 
 ### Slack Communities
@@ -889,7 +891,7 @@
 | [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](https://scikit-learn.org/stable/_static/ml_map.png)                                                                                                            | 选择合适的估算器 |
 | [<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png)                                                                                                                                                 | 数据科学行业：谁做什么 |
 | [<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png)                                                                                                                                                 | 数据科学 ~~维恩~~ 欧拉图 |
-| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色来自 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 通过跳板 |
+| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色来自 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard                                                                                             |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 一种简单友好的方式来教授非数据科学家/非统计学家的同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自 Geckoboard  [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets

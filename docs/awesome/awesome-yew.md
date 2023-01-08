@@ -65,7 +65,7 @@
 - [surfer](https://github.com/zzy/surfer) - 一个基于 yew + graphql 的博客，带有 [live demo site](https://niqin.com) .  graphql 服务的后端和 Web 应用程序的前端.
 - [qubit](https://abhimanyu003.github.io/qubit) - 一个方便的计算器，基于 Rust 和 WebAssembly， [Live Demo](https://abhimanyu003.github.io/qubit/).
 - [Paudle](https://github.com/pmsanford/paudle) - 重新实现了 Josh Wardle 的优秀文字游戏 Wordle.
-- [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 一个具有各种算法交互式实现的网站（目前只有排序算法）.
+- [Rust algorithms](https://github.com/Jondolf/rust-algorithms) - 具有各种算法交互式实现的网站.
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - 软件开发人员组合， [Live Demo](https://maeurer.dev/).
 - [zzhack](https://github.com/zzhack-stack/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/).
 - [Rquote](https://github.com/Altair-Bueno/rquote)  - Rquote 是一个使用 Rust 和 WebAssembly 构建的 Web 应用程序. 它从 Animechan API 获取动漫名言. [Live Demo](https://rquote.vercel.app/).
@@ -130,7 +130,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 调和 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
-- [yewv](https://github.com/yewv/yewv) - 以性能和简单性为第一要务的 Yew 闪电般快速状态管理模块.
+- [yewv](https://github.com/yewv/yewv) - Yew 的闪电般快速状态管理模块，以性能和简单性为第一要务.
 
 ### Javascript Library Ports
 
