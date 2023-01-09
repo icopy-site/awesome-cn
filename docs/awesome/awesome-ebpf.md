@@ -6,7 +6,7 @@
 
  BPF，如_Berkeley Packet Filter_，是一个内核虚拟机，运行从用户空间传递的程序. 最初在 BSD 上实现，然后是 Linux，（现在是遗留的）“经典 BPF”或 cBPF 机器将与 tcpdump 等工具一起使用，用于在内核中过滤数据包，以避免向用户空间无用的复制. 最近，Linux 中的 BPF 基础设施已经完全改造并赋予了“扩展 BPF”或 eBPF 生命，它获得了新的特性（安全和终止检查、程序的 JIT 编译、持久映射、标准库、硬件卸载支持等），现在用于许多任务. 在非常低的级别 (XDP) 处理数据包、跟踪和监视系统上的事件，或对 cgroups 实施访问控制只是 eBPF 带来性能、可编程性和灵活性的几个例子.
 
-Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网站，叫做 [ebpf.io](https://ebpf.io/) . 它的目的与此列表类似， [an introduction to eBPF](https://ebpf.io/what-is-ebpf) and links to [related projects](https://ebpf.io/projects).
+Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网站，叫做 [ebpf.io](https://ebpf.io/) . 它的目的与此列表类似， [an introduction to eBPF](https://ebpf.io/what-is-ebpf) 和链接到 [related projects](https://ebpf.io/projects).
 
  &gt; 注意：eBPF 是一项令人兴奋的技术，其生态系统在不断发展. 我们很乐意得到_you_的帮助，使这个很棒的列表保持最新，并尽我们所能提高它的信噪比. 请随时离开 [any feedback](https://github.com/zoidbergwill/awesome-ebpf/issues).
 
@@ -30,7 +30,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 - [`bpf(2)`](http://man7.org/linux/man-pages/man2/bpf.2.html) - 关于 `bpf()` 系统调用的手册页，用于管理来自用户空间的 BPF 程序和映射.
 - [`tc-bpf(8)`](http://man7.org/linux/man-pages/man8/tc-bpf.8.html) - 关于将 BPF 与 tc 一起使用的手册页，包括示例命令和代码示例.
-- [`bpf-helpers(7)` man page](http://man7.org/linux/man-pages/man7/bpf-helpers.7.html) - 构成 BPF 标准库的内核辅助函数的描述.
+- [`bpf-helpers(7)` man page](http://man7.org/linux/man-pages/man7/bpf-helpers.7.html) - Description of the in-kernel helper functions forming the BPF standard library.
 
 ### Other
 
@@ -66,7 +66,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [Linux BPF Superpowers](http://www.slideshare.net/brendangregg/linux-bpf-superpowers) - 介绍主要涵盖跟踪方面，第一部分是火焰图.
 - [IO Visor](https://www.socallinuxexpo.org/sites/default/files/presentations/Room%20211%20-%20IOVisor%20-%20SCaLE%2014x.pdf) - 还介绍 [IO Visor project](https://www.iovisor.org/).
 - [BPF -- in-kernel virtual machine](http://vger.kernel.org/netconf2015Starovoitov-bpf_collabsummit_2015feb20.pdf) - eBPF 作者的演讲.
-- [Extending extended BPF](https://lwn.net/Articles/603983/) - 2014 年的一篇关于 BPF 开发的博文，并演示了它可以做什么，使用了一个通过将 eBPF 程序附加到套接字来进行有状态套接字过滤的示例.
+- [Extending extended BPF](https://lwn.net/Articles/603983/) - 2014 年的一篇关于 BPF 开发的博文并演示了它可以做什么，使用了一个通过将 eBPF 程序附加到套接字来进行有状态套接字过滤的示例.
 - Greg Marsden 制作了一些关于 eBPF 的文档：
   - [A Tour of Program Types](https://blogs.oracle.com/linux/notes-on-bpf-1) - 对 BPF 程序类型的所有现有钩子及其兴趣的描述.
   - [BPF helper functions](https://blogs.oracle.com/linux/notes-on-bpf-2) - 回顾可以从 eBPF 程序中调用的内核函数.
@@ -103,14 +103,14 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ### XDP
 
 - [The eXpress Data Path](https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/) - 非常容易理解的 XDP 介绍，提供示例代码来展示如何处理数据包.
-- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，由 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller 撰写，他们都是重要的 eBPF 和 XDP 贡献者.
+- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，作者是 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller，他们都是重要的 eBPF 和 XDP 贡献者.
 - [Work-in-progress documentation for XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html)
 - [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - 来自 Cilium 项目的指南.
 - [XDP Project overview](https://www.iovisor.org/technology/xdp)
 - [eXpress Data Path (XDP)](https://github.com/iovisor/bpf-docs/raw/master/Express_Data_Path.pdf) - 关于 XDP 的第一个演示.
 - [BoF - What Can BPF Do For You?](https://events.linuxfoundation.org/sites/events/files/slides/iovisor-lc-bof-2016.pdf)
 - [eXpress Data Path](http://www.slideshare.net/IOVisor/express-data-path-linux-meetup-santa-clara-july-2016) - 包含一些使用 mlx4 驱动程序获得的基准测试结果.
-- Jesper Dangaard Brouer 有几组幻灯片描述了 XDP 的内部结构：
+- Jesper Dangaard Brouer has several sets of slides describing the internals of XDP:
 
   - [XDP − eXpress Data Path, Intro and future use-cases](http://people.netfilter.org/hawk/presentations/xdp2016/xdp_intro_and_use_cases_sep2016.pdf)  - Linux 内核与 DPDK 的斗争.  XDP 的未来计划（截至撰写本文时）以及与 DPDK 的比较.
   - [Network Performance Workshop](http://netdevconf.org/1.2/session.html?jesper-performance-workshop) - 关于 XDP 内部结构和预期演变的其他提示.
@@ -188,7 +188,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ### bcc
 
 - [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监控. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
-- [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - C 的另一种替代方案，甚至是 bcc 中使用的大多数 Python 代码的替代方案.
+- [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - Another alternative to C, and even to most of the Python code used in bcc.
 
 ### iproute2
 
@@ -213,13 +213,17 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [aya](https://github.com/aya-rs/aya)  - 用于编写、加载和管理 eBPF 对象的纯 Rust 库，注重开发者体验和可操作性. 它支持用 Rust 编写 eBPF 程序，并通过 crates.io 分发库代码以在 eBPF 程序之间共享.  Aya 不依赖于 libbpf.
 - [aya-template](https://github.com/aya-rs/aya-template) - 在 Aya 中编写 BPF 应用程序的模板，可以与 [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
 
+### eunomia-bpf
+
+- [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf)  - 一个编译框架和运行时库，用于以多种语言和 WebAssembly 构建、分发、动态加载和运行 CO-RE eBPF 应用程序. 它支持仅编写 eBPF 内核代码（构建简单的 CO-RE libbpf eBPF 应用程序），以 BCC 和 libbpf 两种风格编写内核部分，并在 WASM 模块中以多种语言编写用户空间并使用简单的 JSON 数据或 WASM OCI 进行分发图片. 运行时仅基于 libbpf，并在不依赖 LLVM 库的情况下为 BCC 样式的 eBPF 程序提供 CO-RE.
+
 ### oxidebpf
 
 - [oxidebpf](https://github.com/redcanaryco/oxidebpf)  - 用于管理 eBPF 程序的纯 Rust 库，专为安全用例而设计. 该功能集比其他库更受限制，但强调在广泛的内核和向后兼容的大多数地方编译一次运行的稳定性.
 
 ### bpftool and Other Tools from the Kernel Tree
 
-- [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 在那之后：
+- [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 之后：
 
   - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和映射进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除映射，或附加和分离程序到 cgroups.
   - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编器.
@@ -245,7 +249,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - P4 与 eBPF 有一些交互：
 
   - [P4 on the Edge](https://schd.ws/hosted_files/2016p4workshop/1d/Intel%20Fastabend-P4%20on%20the%20Edge.pdf) - 带 eBPF 的 P4 可创建高性能可编程开关.
-  - [OvS Orbit episode (#11), called P4 on the Edge](https://ovsorbit.org/#e11) - Related to the former item. Audio interview of John Fastabend by Ben Pfaff, one of the core maintainers of Open vSwitch.
+  - [OvS Orbit episode (#11), called P4 on the Edge](https://ovsorbit.org/#e11)  - 与前一项有关.  Open vSwitch 的核心维护者之一 Ben Pfaff 对 John Fastabend 的音频采访.
   - [P4, EBPF and Linux TC Offload](https://open-nfp.org/m/documents/Open_NFP_P4_EBPF_Linux_TC_Offload_FINAL_5JHLETS.pdf) - P4 包含一些与 Netronome 的 NFP（网络流处理器）架构上的 eBPF 硬件卸载相关的元素.
   - [Old documentation for P4 usage with eBPF](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4)  - 来自 bcc 存储库； 由下面链接的 P4_16 后端弃用.
   - [P4_16 backend for eBPF](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md)
@@ -338,7 +342,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ## Development and Community
 
 - [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  - BPF 补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身会为每个版本合并到 Linus 的树中.
-- [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - About contributions to BPF.
+- [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - 关于对 BPF 的贡献.
 - [The netdev mailing list](http://lists.openwall.net/netdev/)  - 用于 Linux 内核网络堆栈开发的邮件列表. 所有补丁都发送到那里以供审查和包含.
 - [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - 专门用于 XDP 编程的邮件列表（用于架构或寻求帮助）.
 - [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF 是项目的核心，并定期在邮件列表中进行讨论.
@@ -363,4 +367,4 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权.
+在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权利.

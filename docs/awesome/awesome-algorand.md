@@ -334,6 +334,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - 一个微小的 cron 作业，它发出一个 [tweet](https://twitter.com/algoping) 如果公共 Algorand 节点（AlgoExplorer、AlgoNode 等）不健康.
+- [SliceSwap](https://app.sliceswap.com)  - 一个在主要 Dex 之间交易您的资产的地方. 所有交换均由@deflexfi 提供支持.
+
 ## Algorand Request for Comments
 
 &gt; _finalized_ ARC 中定义的标准和规范.

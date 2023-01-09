@@ -82,7 +82,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用 Next.js、Firebase Firestore、styled-components 和 mobx-state-tree 构建的简单 CMS 博客.
 - [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 具有 Express、Redux 和 PostCSS 的 Next.js 启动器.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 带有 Redux 和 Material UI 的样板 NextJS.
-- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库 _and_ 最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
+- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库_和_最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
 - [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS、Styled-jsx、Redux、PostCSS、可配置的 SEO
 - [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - 外部 CSS 和 Sass + 从任何地方导入图像 + Prettier 和 Eslint + 环境变量和更多功能.
 - [next-starter](https://github.com/YuriBrunetto/next-starter) - 一个完整而简单的样板文件，内置 `sass (.scss)` 和 `postcss`.
@@ -108,6 +108,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) - express 上的附加服务器与 nextjs 一起运行，并根据 STR API 的请求重新生成站点地图（带有索引站点地图）和 robots.txt 文件.
 - [superplate](https://github.com/pankod/superplate) - superplate 使用 TypeScript、styled-components、SWR、Storybook 和 35+ 插件在几秒钟内创建 Next.js 应用程序.
 - [Hydrogen](https://statichunt.com/themes/next-hydrogen)  - Hydrogen 是一个带有 tailwindCss 和 MDX 支持的 Nextjs 博客入门模板构建. 它具有开箱即用的所有必要的 MDX 简码.
+- [Next-Fire-Auth](https://github.com/hrushikedar33/next-fire-auth) - 一个很棒的启动应用程序样板，使用 Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks 进行身份验证
 
 ## Extensions
 
@@ -200,7 +201,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 - [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 - [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- [Mastering Next.js](https://masteringnextjs.com/) - 50 多节课的视频课程，用于使用 Next.js 和 React 构建应用程序.
+- [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - 深入的 Next.js 教程.
 - [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - 2020 Next.js 大会的所有视频
 

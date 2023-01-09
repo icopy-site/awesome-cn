@@ -40,7 +40,7 @@
 
 ## Community
 
-- [Move Language Discord](https://discord.gg/9K7ca8Vnr7)
+- [Move Language Discord](https://discord.gg/cPUmhe24Mz)
 - [Move @ Sui by Mysten Labs Discord](https://discord.gg/sui)
 - [Move @ 0L Discord](https://discord.gg/0lnetwork)
 - [Move @ Starcoin Discord](https://discord.gg/starcoin)
@@ -59,7 +59,7 @@
 - [Token](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Token.move)  - 另一个类似 ERC20 的代币. 部署在星币上.
 - [GAS](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/GAS.move)  - 实例化上述 Diem 标准的代币. 部署在 0L 上.
 - [STC](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/STC.move)  - 实例化上述星币标准的代币. 部署在星币上.
-- [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move)  - 为 AMM+DEX 生态系统提供动力的 Starswap dApp 的治理代币. 部署在星币上.
+- [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move) - A governance token of Starswap dApp that powers the AMM+DEX ecosystem. Deployed on Starcoin.
 - [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XUSDT.move) - 星币上USDT的映射资产.
 - [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XETH.move) - 星币上 ETH 的映射资产.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - 部署在星币上.
@@ -74,7 +74,7 @@
 - [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) - 来自 Sui 的多个 NFT 示例实现.
 - [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move)  - 类似 ERC721 的代币. 部署在星币上.
 - [Merkle Airdrop](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/MerkleNFT.move)  - 用于空投大量 NFT 的实用程序. 部署在星币上.
-- [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move)  - 混合型 ERC721/ERC1155 代币的实现. 来自迪姆.
+- [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move)  - 混合 ERC721/ERC1155 类令牌的实现. 来自迪姆.
 - [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move)  - 实例化该混合标准的 NFT. 来自迪姆.
 - [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move)  - 类似 ERC1155 的代币. 来自迪姆.
 - [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move)  - 用于持有多个相同类型的 NFT 的实用程序. 来自迪姆.
@@ -96,7 +96,7 @@
 - [SuiRedPacket](https://github.com/coming-chat/sui-red-packet) - 一款集私聊和加密钱包于一身的红包社交APP.
 - [AptosAMMswap](https://github.com/OmniBTC/Aptos-AMM-swap) - 由 OmniBTC 团队实施的 Aptos AMM Swap.
 - [SuiAMMswap](https://github.com/OmniBTC/Sui-AMM-swap) - 由 OmniBTC 团队实施的 Sui AMM Swap.
-- [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - One-click swap between aptos and EVM chains (such as ETH/BSC/AVAX, etc.) based on the cross-chain interoperability protocol wormhole.
+- [AptosOmniSwap](https://github.com/OmniBTC/OmniSwap/tree/main/aptos) - 基于跨链互通协议虫洞，aptos与EVM链（如ETH/BSC/AVAX等）一键切换.
 - [DolaProtocol](https://github.com/OmniBTC/DolaProtocol) - 以各公链单一币池为核心，Wormhole、Layerzero等跨链消息协议为桥梁，Sui公链为结算中心的去中心化全链流动性聚合协议.
 - [ObjectMarket](https://github.com/coming-chat/object-market) - Sui 网络中独特的对象交易市场.
 
@@ -151,6 +151,7 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 ### Miscellaneous
 
 - [Move-on-EVM](https://github.com/move-language/move/tree/main/language/evm) - 将 Move 源代码编译为 EVM 字节码的实验项目.
+- [aoc-move](https://github.com/whonore/aoc-move) - Move 中代码解决方案的出现，带有一些形式验证.
 
 ## Tools
 
@@ -180,6 +181,7 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 - [bcs-js](https://github.com/pontem-network/lcs-js) - JavaScript 实现 [BCS](https://github.com/diem/bcs) Move 使用的序列化方案，可能对实现钱包很有用.
 - [ComingChat](https://coming.chat/)  - 去中心化的社会金融/web3 门户. 支持公链钱包，如Sui、Aptos钱包.
 - [Suiet Wallet](https://github.com/suiet/suiet)  - Sui 的开源钱包.  ([Chrome Webstore](https://chrome.google.com/webstore/detail/suiet/khpkpbbcccdmmclmpigdgddabeilkdpd), [Website](https://suiet.app)) 
+- [Ethos Wallet](https://github.com/EthosWallet/chrome-extension) - Sui 的开源 chrome 扩展钱包 ([Chrome Webstore](https://chrome.google.com/webstore/detail/ethos-sui-wallet/mcbigmjiafegjnnogedioegffbooigli), [Website](https://ethoswallet.xyz/)).
 
 ### Wallet Adapters
 
@@ -189,6 +191,7 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 ### Wallet Kits
 
 - [Suiet Wallet Kit](https://github.com/suiet/wallet-kit) - 一个包支持所有具有可定制用户界面的 Sui 钱包.
+- [Ethos Connect](https://github.com/EthosWallet/ethos-connect) - 带有内置钱包适配器和电子邮件选项的 UI，用于支持 Sui 上的所有钱包和无钱包用户.
 
 ## SDKs
 - [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
@@ -213,8 +216,16 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 
 ## Videos
 
+- [The Move Programming Language](https://github.com/MystenLabs/awesome-move/blob/master/youtu.be/J1U_0exNFu0)
+- [Move on Sui](https://www.youtube.com/watch?v=xMsE1X4wio4)
+- [Move on Aptos](https://www.youtube.com/watch?v=gvRJdJTQd8U)
 - [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - 谈话来自 [@sblackshear](https://github.com/sblackshear) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
 - [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - 谈话来自 [@DavidLDill](https://github.com/DavidLDill) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
+- [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) 从 [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary)
+
+## Slides
+- [Move deep dive](https://docs.google.com/presentation/d/1Tb2iZD0xrQSlwXIJNL1djNYc0_p0szfB2STgURgHgls/edit?usp=sharing)
+- [Move overview](https://docs.google.com/presentation/d/1gU-M42Juz7ARc61unPXphJ_BX1OlQrBwR1VdaPT4M5w/edit?usp=sharing) 从 [Reasoning About Financial Systems](https://reasoningaboutfinancialsystems.org/) 车间在 [SBC '22](https://cbr.stanford.edu/sbc22/)
 
 ## Podcasts
 

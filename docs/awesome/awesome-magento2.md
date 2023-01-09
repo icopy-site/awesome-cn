@@ -83,8 +83,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - 必备的 Chrome 扩展程序
   Magento 2 通过 [MageSpecialist](https://github.com/magespecialist).
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发者工具栏
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed)、MariaDB、PHP、Redis、弹性搜索
-  带有 Magento 2 安装程序的配置器（更新时间：2020 年 4 月 19 日）
+- [magento2docker](https://github.com/aliuosio/magento2docker) - MariaDB、PHP、Redis、ElasticSearch 在一个 dockerfile 中用于快速演示和开发环境
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust 的 Docker 配置
   洋红色
 - [Warden](https://github.com/davidalger/warden) - 用于处理 docker-compose 环境的 CLI 实用程序
@@ -92,7 +91,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
     - 帮助脚本通过检测覆盖来帮助升级 magento 2 网站.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - 官方 PhpStorm Magento2
-  扩大.
+  延期.
 - [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP 质量检查（使用 Magento2 预设）
 - [Tango](https://github.com/roma-glushko/tango) - 用于分析访问日志的 CLI
 - [Masquerade](https://github.com/elgentos/masquerade) - Faker 驱动，基于配置，与平台无关，
@@ -116,7 +115,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 开发者工具栏.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 模板提示助手.
 - Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - 在商店配置中显示附加信息
-  [Andreas von Studnitz.
+  [安德烈亚斯·冯·斯图德尼茨.
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - 最初由创建的 Magento 模块
   CTI Digital 使用文件创建和维护数据库变量.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 模块自动刷新缓存.
@@ -171,7 +170,7 @@ Magento 2 的店面可以通过多种方式设计：
 ### CMS
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - 简单但运作良好的博客
-  扩大.
+  延期.
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - 用于 Magento 2 的免费博客模块
   无限的博客帖子和类别、SEO 友好、延迟加载和 AMP 支持.
 - [Opengento GDPR](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR 模块是必须具有的扩展
@@ -181,7 +180,7 @@ Magento 2 的店面可以通过多种方式设计：
 
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - 有据可查的多用途 SEO 扩展.
 - [Magento 2 PDF](https://github.com/staempfli/magento2-module-pdf) - 基于 PDF 生成器
-  上 [wkhtmltopdf](http://wkhtmltopdf.org/).
+  在 [wkhtmltopdf](http://wkhtmltopdf.org/).
 - [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - 带有数据的谷歌标签管理器（GTM）
   Magento2 的图层.
 
@@ -229,12 +228,12 @@ Magento 2 的店面可以通过多种方式设计：
 
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) - PAYONE 支付集成.
 - [Stripe](https://github.com/pmclain/module-stripe) -Magento 2 的条纹支付.
-- [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) - 官方 Braintree 整合
+- [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) - 官方 Braintree 集成
   对于 Magento2.
 
 ### Infrastructure
 
-- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 快速集成.
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron 作业管理器
   马根托 2.
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok 集成

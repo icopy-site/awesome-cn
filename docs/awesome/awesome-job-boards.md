@@ -17,7 +17,7 @@
 
 * [DataJobs.com](https://datajobs.com/)
 * [Data Yoshi](https://www.datayoshi.com/) - 数据科学、分析、人工智能和机器学习方面的工作
-* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习工作
+* [Deep Learning Jobs](https://www.deeplearningjobs.com/) - 深度学习的工作
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - 数据科学、分析和工程领域的工作，您知道自己真正会做什么
 
 ## Blockchain
@@ -169,6 +169,7 @@
 * [Just Remote](https://justremote.co/remote-jobs)
 * [Dynamite Jobs](https://dynamitejobs.com/) - 来自远程优先公司的工作
 * [Teletravail.guru](https://teletravail.guru/) - 法国人的远程工作
+* [Devremote](https://devremote.io/) - 远程第一家公司的远程开发人员工作
 
 ### Aggregator
 
