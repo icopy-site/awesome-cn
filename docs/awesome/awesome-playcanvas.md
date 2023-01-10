@@ -154,6 +154,7 @@
 - [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - 来自 Visionaries777 的配置器技术演示.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 Infiniti 系列（中文）.
+- [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - 起亚配置器（韩语）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - 探索起亚最新的汽车系列.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - 汽车可视化.
 - [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - 以 3D 方式探索 Nissan 的 Arriya（日语 - 需要登录）.
@@ -192,4 +193,4 @@
 
 ## Contributing
 
-请参见 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 了解详情.
+请参阅 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 了解详情.

@@ -53,7 +53,7 @@
 ### Task Management
 
 - [Airtable](https://airtable.com/) - 混合电子表格和数据库以帮助组织工作.
-- [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin 结合了行为心理学的原理来帮助克服拖延症、控制一切并完成待办事项列表.
+- [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin 结合了行为心理学的原理来帮助克服拖延症、控制一切并完成待办事项清单.
 - [Any.do](http://www.any.do/) - 简单的界面，丰富的功能，目前最受欢迎的待办事项列表管理器 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [GitHub Projects](https://github.com/features/project-management/) - GitHub 的一个鲜为人知的功能，可以轻松地将项目管理流程与代码联系起来.
 - [Hitask](https://hitask.com) - 团队的简单项目和任务管理.
@@ -75,6 +75,7 @@
 - [Tweek](https://tweek.so) - 超级简单的待办事项列表和每周任务管理.
 - [VivifyScrum](https://www.vivifyscrum.com)  - 适用于交付团队的敏捷项目管理应用程序. 可定制的 Scrum 和看板.
 - [Bordio](https://bordio.com/) - 用于在一块板上管理任务和事件的每日计划器.
+- [OpenProject](https://www.openproject.org/) - 一个内部部署的开源项目管理解决方案，带有免费的社区版和企业版.
 
 ### Habit Trackers
 

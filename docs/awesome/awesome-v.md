@@ -192,6 +192,7 @@
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
 - [crayon](https://github.com/thecodrr/crayon)  - 像毕加索一样绘制你的终端输出.  ️
 - [iconv](https://github.com/fanlia/iconv) - 为 vlang 包装 iconv.
+- [pcre2](https://github.com/srackham/pcre2) - 用于处理 PCRE 正则表达式的库.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
 - [strfmt](https://github.com/BenStigsen/strfmt) - 非常适合模板化的小巧快速的字符串格式化库.
 - [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.

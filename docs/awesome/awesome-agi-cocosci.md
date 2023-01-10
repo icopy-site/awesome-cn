@@ -87,6 +87,8 @@
 
 ### Knowledge Management
 
+* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html)  - ***国会图书馆***. 美国的分类系统.
+
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization)  - ***维基百科***. 关于知识组织方法的维基百科.
 
 * [The Zettelkasten Method](https://zettelkasten.de/)  - ***比勒费尔德大学***. 在图表和多标签中关联想法.

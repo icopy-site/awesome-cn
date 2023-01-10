@@ -88,7 +88,6 @@ Practical Go Lessons 共有 41 章和 700 多页插图.
 在本书中，我们讨论了与 Go 语言相关的所有深度话题， 
 从基础到高级，目的是增加伊朗的 Gopher 社区.
 
-
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
@@ -131,7 +130,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 <a href="https://www.oreilly.com/library/view/introducing-go/9781491941997/"><img src="https://learning.oreilly.com/library/cover/9781491941997/250w/" width="120px"/></a>
 
-本实用指南非常适合熟悉编程基础知识的初学者，它简单介绍了 Google 的通用编程语言 Go. 作者 Caleb Doxsey 涵盖了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学内容.
+本实用指南非常适合熟悉编程基础知识的初学者，它简单介绍了 Google 的通用编程语言 Go. 作者 Caleb Doxsey 涵盖了该语言的核心功能，并在每章中提供了分步说明和练习，以帮助您练习所学知识.
 
 ### [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -201,7 +200,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 从基础开始，构建最先进和最复杂的功能. 您将了解 Go 如何构建在简单且一致的类型系统上，以创建全面且高效的开发体验，从而生成可跨平台运行的快速且强大的应用程序.
 
-- Gain a solid understanding of the Go language and tools
+- 深入了解 Go 语言和工具
 - 深入了解 Go 标准库
 - 将 Go 用于并发/并行任务
 - 使用 Go 进行客户端和服务器端开发
@@ -212,7 +211,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
  Go 是 DevOps 库和服务的首选语言，没有它，实现快速安全的自动化是一项挑战. 在 Go for DevOps 的帮助下，您将学习如何轻松安全地交付服务，并在此过程中成为更好的 DevOps 工程师.
 
-本书将教给你的一些关键内容是如何编写 Go 软件来自动化配置管理、更新远程机器、在 GitHub Actions 中创建自定义自动化以及与 Kubernetes 交互. 随着章节的推进，您将探索如何使用软件开发工具包 (SDK) 实现云自动化，使用 Go 扩展 HashiCorp 的 Terraform 和 Packer，使用 gRPC 和 REST 开发您自己的 DevOps 服务，设计系统代理，以及构建健壮的工作流系统.
+Some of the key things this book will teach you are how to write Go software to automate configuration management, update remote machines, author custom automation in GitHub Actions, and interact with Kubernetes. As you advance through the chapters, you'll explore how to automate the cloud using software development kits (SDKs), extend HashiCorp's Terraform and Packer using Go, develop your own DevOps services with gRPC and REST, design system agents, and build robust workflow systems.
 
 读完这本 Go for DevOps 书后，您将了解如何将开发原则应用于自动化操作并使用 Go 提供操作见解，这将使您能够在客户意识到出现问题之前快速做出反应以解决系统故障.
 
@@ -221,7 +220,9 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 <img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
 
 在过去的十年里，我们听说过有关从单体应用到微服务的转变的故事，我们可能认为这种转变解决了组织中的大部分问题. 但是，如果您不了解此转换的最佳实践，它可能会以一团糟告终，因为微服务架构带来了挑战. 在本书中，我们开始介绍微服务架构的生产级最佳实践，并解释何时使用它. 然后我们讲到gRPC登场的微服务通信模式. 您将看到用 Go 编写的完整示例，并将六边形架构应用于项目结构. 您不仅将学习如何实施微服务，还将了解如何编写测试、使用适当的 CI 保持质量、部署到 Kubernetes 环境并最终设置一个可观察的系统以更好地监控您的应用程序.
+### [Learn Go with Pocket-Sized Projects](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
 
+ Learn Go with Pocket-Sized Projects 教你通过创建方便的工具和有趣的应用程序来编写专业级的 Go 代码. 每个独立的小项目都介绍了重要的实用技能，包括确保您的代码经过全面测试和记录！ 您将为您的项目做出架构决策并以可维护的方式组织您的代码. 你学到的一切都很容易扩展到全尺寸的 Go 应用程序.
 
 ### [Go Faster](https://leanpub.com/gofaster)
 
@@ -239,7 +240,7 @@ Alan AA Donovan 和 Brian W. Kernighan 向您展示如何清晰地书写
 
 在 Shipping Go 中，您将学习如何：
  - 根据客户的反馈开发更好的软件
- - 创建一个将反馈转化为功能的开发管道
+ - Create a development pipeline that turns feedback into features
  - 通过在部署之前验证代码的管道自动化减少错误
  - 为卓越的代码质量建立持续测试
  - 无服务器、基于容器和基于服务器的部署
@@ -484,7 +485,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 本书是 Go 开发人员的实用示例、课程和技术的汇编. 这些主题涵盖软件生命周期，从学习基础知识到软件测试，再到分发和监控.
 
 - 学习单元测试
-- Make lovely CLIs
+- 制作可爱的 CLI
 - 监控服务
 - 使用 GitHub Actions 发布
 - 使用 Docker 发送
@@ -533,7 +534,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 
 本书是该系列的第 1 部分，着重于实现高性能代码. 您将了解应关注应用程序或代码的哪些方面以及何时关注. 您将拥有一套工具、软件模式和方法供您使用，让您的生活更轻松. 阅读后，您将：
 
-- 了解并发和并行之间的区别.
+- 了解并发和并行之间的差异.
 - 识别并避免并发问题，例如死锁、饥饿、活锁和数据竞争.
 - 了解各种并发交互模式，并能够应用最适合手头问题的模式.
 - 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多问题.

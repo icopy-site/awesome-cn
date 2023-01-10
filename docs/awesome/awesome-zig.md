@@ -12,13 +12,13 @@
 ## Algorithms and data structures
 * [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
-* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的数组.
+* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) - 适用于任何 C ABI 兼容目标的生产就绪布谷鸟过滤器.
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort 实施.
 * [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) - 容器库.
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - 稀疏集，同时支持 SOA 和 AOS 风格.
-* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
+* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor 过滤器，用于检查一个键是否是一个集合的一部分.
 * [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - UTF-8 字符串数据结构.
 
 
@@ -95,8 +95,9 @@
 
 
 ## Game tools and libraries
-* [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) 绑定.
+* [hexops/mach](https://github.com/hexops/mach) - 游戏引擎和图形工具包.
 * [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) - DirectX 12 游戏开发生态系统.
+* [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) 绑定.
 * [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) - 一套用于修改和随机化神奇宝贝游戏的工具.
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - 用于处理 Nintendo DS rom 的库.
 * [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - 简单而强大的数独解算器.
@@ -118,12 +119,15 @@
 
 ## GUI
 * [capy-ui/capy](https://github.com/capy-ui/capy) - 用于制作真正的本机 GUI 的跨平台库.
+* [david-vanderson/gui](https://github.com/david-vanderson/gui) - Zig 的即时模式 GUI.
+* [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - Zig 窗口库.
+* [prime31/zig-upaya](https://github.com/prime31/zig-upaya) - 图形用户界面工具包.
+* [fubark/cosmic](https://github.com/fubark/cosmic) - 图形用户界面工具包.
+* [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - IUP 便携式用户界面工具包的 Zig 惯用和类型检查绑定.
 * [andrewrk/zig-sdl](https://github.com/andrewrk/zig-sdl) - 用于 Zig 的独立 SDL2 包.
 * [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) - Vulkan 绑定生成器.
 * [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) - 使用 Vulkan 和 GLFW 的玩具渲染器.
 * [andrewrk/zig-vulkan-triangle](https://github.com/andrewrk/zig-vulkan-triangle) - 使用 Vulkan、GLFW 和 Zig 显示的简单三角形.
-* [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - IUP 便携式用户界面工具包的 Zig 惯用和类型检查绑定.
-* [zenith391/zgt](https://github.com/zenith391/zgt) - Zig GUI 工具包：用于在 Zig 中制作本机 GUI 的便携式库.
 * [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML 绑定.
 * [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) 教程移植到 Zig.
 * [ifreund/river](https://github.com/ifreund/river) - 从 dwm 和 bspwm 中汲取灵感的动态 Wayland 合成器.
@@ -217,6 +221,7 @@
 * [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - 网络字符串解析器.
 * [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - 利用 Zig 的 comptime 实施 Protocol Buffers v3.
 * [iddev5/inon](https://github.com/iddev5/inon) - 数据配置文件格式.
+* [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 解析器并将 TOML 转换为 JSON.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - 学习 Zig 的小项目和教程的集合.
@@ -225,10 +230,10 @@
 
 ## Other
 * [All Your Codebase](https://allyourcodebase.com/) - Zig及其生态系统的发展状况.
-* [fubark/cosmic](https://github.com/fubark/cosmic) - Javascript/WASM 的通用运行时.
+* [zig.pm](https://zig.pm/) - 社区维护的 Zig 软件包存储库.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito 在 Zig 中重写.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - 用于组装 x86 的库.
-* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - 国际劳工组织许可证密钥库.
+* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
 * [vegecode/svd2zig](https://github.com/vegecode/svd2zig) - 将系统视图描述 (svd) 文件转换为用于裸机开发的 Zig 标头.
 * [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) - MQTT IotMonitor 工具，节省监控 mqtt 代理或设备的时间.
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) 客户.
