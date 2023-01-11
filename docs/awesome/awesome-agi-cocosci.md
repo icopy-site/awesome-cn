@@ -1097,6 +1097,8 @@
 
 * [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***生物信息学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403&hl=en&as_sdt=0,5)].
 
+* [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL&#39;21 演示曲目***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5) ]. 一种在文献检索中构建和可视化查询关键字知识图谱的工具.
+
 
 #### Literature Visualization
 
@@ -1638,7 +1640,7 @@
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***工程***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161&hl=en&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
 
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5) ]. 通过近乎自然的共现频率估计进行概念学习.
 
 * [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338&hl=en&as_sdt=0,5)].
 
@@ -1767,15 +1769,15 @@
 
 * [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***美国国家科学基金会***.
 
-* [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***和***， [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***大脑与认知科学系，CSAIL，麻省理工学院***.
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***大脑与认知科学系，CSAIL，麻省理工学院***.
 
-* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***和***， [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
 
-* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***和***， [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
+* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***脑与认知科学系，麻省理工学院***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***和***， [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
 
-* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***和***， [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***麻省理工学院 CSAIL 电气工程与计算机科学系***.
 
 
 ### Stanford

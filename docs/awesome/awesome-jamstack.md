@@ -39,6 +39,7 @@
 - [Jamstack](https://jamstack.org/)
 - [Jamstack resources](https://jamstack.org/resources/) - 关于 Jamstack 的视频和文章.
 - [the New Dynamic](https://www.thenewdynamic.org/)  - 在我们的目录中挑选工具来使用 Jamstack. 浏览我们的展示柜并获得灵感.
+- [Statichunt](https://statichunt.com/) - Jamstack 主题和资源目录.
 
 ## Chats
 
@@ -53,7 +54,7 @@
 - [Appernetic](https://appernetic.io) - 静态网站的可视化内容管理，使用 Hugo 和 GitHub Pages.
 - [Netlify](https://netlify.com) - 用于自动化现代 Web 项目的多合一平台.
 - [Vercel](https://vercel.com) - 用于现代 Web 应用程序的多合一无服务器平台，具有免配置工具和工作流.
-- [Layer0](https://layer0.co) - 一体化 Jamstack 平台，通过集成的 CDN、EdgeJS、预测预取和性能监控，专注于大型动态网站和一流的性能.
+- [Layer0](https://layer0.co) - 一体化 Jamstack 平台通过集成的 CDN、EdgeJS、预测预取和性能监控专注于大型动态网站和一流的性能.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - 全栈无服务器托管，具有集成的 CI/CD 工作流、身份验证、CDN 等.
 - [Stormkit](https://stormkit.io)  - 适用于现代 JavaScript 应用程序的强大多合一基础架构. 它与您的 git 流程集成，并无缝构建、部署和扩展您的应用程序.
 
