@@ -107,7 +107,8 @@
 - [Bootstrap ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
 - [Unused Palettes](https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM)
 - [Colorization palettes in the BIOS](https://forums.nesdev.com/viewtopic.php?p=114388&sid=c3d4ce08cfd9d9c834958d4f148750c3#p114388)
-- [ROM Disassembly](https://gist.github.com/drhelius/6063265)
+- [Boot ROM Disassembly](https://gist.github.com/drhelius/6063265)
+- [GBC Hicolour notes](https://romhack.github.io/doc/gbcHiColour/) - 关于 Game Boy Color 的 Hicolour 模式技巧及其在 GBC 游戏“Crystalis”中的实现的技术说明.
 
 ### Hardware
 
@@ -234,7 +235,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 #### Experimental/Proof of Concepts
 
 - [RGBDS-Live](https://daid.github.io/rgbds-live/) - 用于试用 RGBDS 的浏览器内编码环境.
-- [Wiz](https://github.com/wiz-lang/wiz) - 一种高级汇编语言，用于在复古控制台平台（Game Boy、NES、Atari 2600 等）上编写自制程序.
+- [Wiz](https://github.com/wiz-lang/wiz) - 一种高级汇编语言，用于在复古控制台平台（Game Boy、NES、Atari 2600 等）上编写自制软件.
 - [gbforth](https://github.com/ams-hackers/gbforth) - 基于 Forth 的 Game Boy 开发工具包.
 - [gbasm-rs](https://gitlab.com/BonsaiDen/gbasm-rs) - 用于 Game Boy z80 汇编代码的基于 Rust 的固执己见的编译器.
 - [gbasm](https://github.com/BonsaiDen/gbasm) - 用于 Game Boy z80 汇编代码的基于 JavaScript 的编译器.

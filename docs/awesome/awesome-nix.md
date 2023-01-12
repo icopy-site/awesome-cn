@@ -25,6 +25,7 @@
 
 * [Hound](https://search.nix.gsc.io) - 轻松搜索所有或选定的 Nix 相关存储库.
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - 查找频道中可用的软件包的所有版本以及您可以从中下载它的修订版.
+* [Noogle](https://noogle.dev/) - Nix API 搜索引擎允许根据类型和其他属性搜索函数.
 * [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 包的数据库.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - 搜索所有 2000 多个 Home Manager 选项并阅读如何使用它们.
 

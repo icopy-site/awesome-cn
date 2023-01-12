@@ -23,11 +23,12 @@
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的vlang工具，生成v源文件到AST json文件.
-- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
+- [verve](https://github.com/MohammadMD1383/verve) - 简单快速的静态文件服务器.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建二维码的 CLI.
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （已存档）
+- [vcli](https://github.com/changhz/vcli) - 一个 CLI 工具，根据 [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 
 ### Editors
 
@@ -130,7 +131,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
-- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
+- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Game development
 

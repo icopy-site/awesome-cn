@@ -84,6 +84,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *使用 Godot（工具/实用程序）制作的非游戏开源项目.*
 
+#### Godot 3.5+
+
+ - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - 用于生成 2x2 和 3x3 自动图块集的工具，无论大小和颜色如何.
+
 #### Godot 3.2+
 
 - [Arrow](https://github.com/mhgolkar/Arrow) - 一种使用节点设计游戏叙事的工具.
@@ -167,10 +171,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 模拟 CRT 显示器的 Godot 着色器，具有许多着色器参数 (Godot 3.x).
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x、4.x）.
-- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
+- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架（Godot 2.1、3.2+）.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center (Godot 3.x).
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 通知中心 (Godot 3.x).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix Framework (Godot 3.*) Channels API 的 GDScript 和 Godot Engine 实现.
 - [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - 用着色器代码编写的径向菜单以提高性能.
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - 大量教程和技巧，有大有小.
@@ -185,7 +189,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster Software 的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 中的编码体验提升 1000 倍（Godot 3.x）.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 在一行代码（Godot 3.x，4.0.alpha）中进行漂亮且可定制的场景转换.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 滚动背景节点 (Godot 2.1,3.x).
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏 (Godot 3.x).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - 对话和交互式小说引擎 (Godot 3.x).
@@ -225,10 +229,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)  - 网格、灯光和粒子的细节级别附加组件. 可以提高大场景下的性能.
 - [Line Collider 2D](https://github.com/Kylogias/godot-line-collider-2d) - 添加跟随 Line2D 数组的碰撞器的脚本（对原型很有用）.
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-- [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器制作骨骼动画.
+- [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
 - [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统旨在轻松使用 iOS/Android 的本机库进行操作. 它还关注插件依赖性并提供无障碍的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：App Tracking Transparency，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  - Quake `.map` 文件支持 Godot. 让你使用 [TrenchBroom](https://kristianduske.com/trenchbroom/) 用于关卡设计.
-- [Scatter](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
+- [Scatter](https://github.com/HungryProton/scatter) - 用道具或其他场景随机填充一个区域.
 - [Shell Fur](https://github.com/Arnklit/ShellFurGodot) - Godot 的 3D 毛皮节点.
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - 二维地形工具.
 - [Tree generator](https://github.com/Zylann/godot_tree_generator_plugin) - 生成树的工具.
@@ -266,7 +270,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Modules
 
-*Stuff integrated into Godot core (C++).*
+*东西集成到 Godot 核心（C++）中.*
 
 #### Various Godot versions
 

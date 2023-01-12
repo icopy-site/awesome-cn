@@ -31,7 +31,7 @@
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - 提供对本机操作表的访问.
 - [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - 处理高级应用程序状态和事件. 
 - [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - 允许检查应用程序是否可以打开并打开它.
-- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的功能.
+- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的能力.
 - [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - 提供使用相机拍照或从相册中选择现有照片的功能.
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - 启用复制和粘贴到/从系统剪贴板.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - 公开有关设备的内部信息，如型号和操作系统版本，以及用户信息，如唯一 ID.
@@ -60,7 +60,7 @@
 - [App-icon](https://github.com/capacitor-community/app-icon) - 用于更改应用程序图标的电容器社区插件.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - 电容器登录苹果.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - 即使应用程序处于后台，也能接收地理位置更新.
-- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描器.
+- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描仪.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - 低功耗蓝牙.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - 相机预览.
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - 使用适用于 Android 和 iOS 的原生 Maps API 的插件.
@@ -102,14 +102,14 @@
 拥有的插件 [Capgo organisation](https://github.com/Cap-go) 并由维护 [@riderx](https://github.com/riderx) 和 Open collective 的社区成员.
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的无线更新.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - 适用于您的应用程序的 Crisp 聊天 SDK.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - 切换设备的手电筒/手电筒.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - 检测静音模式和静音音频.
 - [Native audio](https://github.com/Cap-go/native-audio) - 用于本机音频引擎（叉）的电容器插件.
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - 本机正向和反向地理编码.
 - [Native market](https://github.com/Cap-go/native-market) - 适用于 Play Store/App Store 本地市场的 Capacitor 社区插件.
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - 录制屏幕并保存到 pelicule.
-- [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+- [Purchases](https://github.com/Cap-go/capacitor-purchases) - 使用 RevenueCat 可以轻松进行电容器应用内购买和订阅.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - 浏览器在带有 urlChangeEvent 的应用程序浏览器中.
 - [Camera preview](https://github.com/Cap-go/camera-preview) - 允许从 HTML 代码（fork）进行相机交互的电容器插件.
 
@@ -126,11 +126,17 @@
     - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - 用于 Firebase 性能监控的电容器插件.
     - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics 的电容器插件.
 - [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - 锁定/解锁屏幕方向.
-- [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - 电容器插件以支持 Android 上的暗模式.
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 允许用户编辑照片的电容器插件.
+
+## [Transistor Software plugins](https://www.transistorsoft.com//)
+拥有的插件 [Transistor Software plugins](https://github.com/transistorsoft) 并由维护 [@christocracy](https://github.com/christocracy).
+
+- [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - 最复杂的后台位置跟踪和地理围栏模块，具有适用于 iOS 和 Android 的电池感知运动检测智能.
+- [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) - IOS 和 Android 后台定期回调.
+- [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - 用于电容器背景地理定位的 Firebase 适配器.
 
 ## Other plugins
 
@@ -227,7 +233,7 @@
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - 说明为什么将 Capacitor 应用称为“非本机”是不准确且令人困惑的术语.
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用程序中设置 Capacitor-updater，以便为您的用户无缝发布更新.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub actions for free, to deploy your app every time you push to main.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到主应用程序时部署您的应用程序.
 
 
 ### Books
@@ -259,4 +265,4 @@
 
 ## Contributing
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/riderx/awesome-capacitor/blob/master/contributing.md) - 第一的.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/riderx/awesome-capacitor/blob/master/contributing.md) - first.

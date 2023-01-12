@@ -73,7 +73,7 @@
 - [How to choose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - 取决于您在 SI 秒、地球自转同步、避免闰秒之间的优先级.
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - 臭名昭著的 Stack Overflow 回答关于复杂的历史时区，以及历史日期如何被新版本的软件重新解释.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 Unix 纪元的 32 位秒溢出，根据系统需要注意的特殊日期列表.
- - “我要去佛蒙特州的一个公社，将处理比一个季节更短的时间单位.”  - 是 70 年代一位辞职的工程师在他的终端上留下的便条，在亚秒级计时问题上付出了太多努力之后. 资源： [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/?tag=kevideld-20).
+ - “我要去佛蒙特州的一个公社，将处理比一个季节更短的时间单位.”  - 是 70 年代一位辞职的工程师在他的终端上留下的便条，在亚秒级计时问题上付出了太多努力之后. 来源： [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/?tag=kevideld-20).
 
 ## Education
 
@@ -194,7 +194,7 @@
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
 - [Floating Point Math](https://0.30000000000000004.com)  - “你的语言没有问题，它在做浮点数学.  (...) 这就是为什么，&#39;0.1 + 0.2 != 0.3&#39;.”
-- [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - 挪威的 ISO 国家代码对于 False 也是有效的 YAML.
+- [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML 充满了晦涩的复杂性，例如意外数字和非字符串键.
 - [I am endlessly fascinated with content tagging systems](https://twitter.com/hillelogram/status/1534301374166474752) - 即使在应该是准系统的标记系统中也存在边缘情况.
 - [Falsehoods about Quantum Technology](https://github.com/gottfriedsz/falsehoods-quantum) - 关于量子技术和计算机的常见误解.
 
