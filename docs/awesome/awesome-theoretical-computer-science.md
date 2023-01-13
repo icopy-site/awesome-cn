@@ -197,6 +197,7 @@
 ### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - 荣誉离散数学讲义 - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 ### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
+- [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953)  - 组合数学概率方法研究人员的标准参考. 还显示了与理论计算机科学的联系.
 - [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - 一本规范的离散数学教科书，即使是高中生也可以使用.
 - [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - 对离散数学的几乎所有主题及其与计算和通信工程的相关性的全面调查.
 - [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - 编写的组合技术主要着眼于它们在 TCS 中的应用，而且主要是复杂性

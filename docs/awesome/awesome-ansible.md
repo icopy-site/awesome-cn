@@ -16,7 +16,7 @@
 
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Ansible 的最新用户指南和文档.
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Ansible Roles 的官方存储库和社区站点.
-- [Ansible Blog](https://www.ansible.com/blog) - 官方 Ansible 博客.
+- [Ansible Blog](https://www.ansible.com/blog) - Official Ansible blog.
 
 ## Community
 
@@ -30,7 +30,7 @@
 上还有许多 Ansible IRC 频道 [libera.chat](https://libera.chat/) 被桥接到 [Matrix](https://matrix.org/).
 您可以在官方文档中找到完整列表以及如何连接 [documentation](https://docs.ansible.com/ansible/latest/community/communication.html) 但这里有一些：
 
- | 互联网资源中心 | 矩阵 | 话题 |
+ | 互联网资源中心 | 矩阵 | 主题 |
 |--------------------|------------------------|----------------------------------------------------------------------------------|
 | #ansible           | #users:ansible.com     | General Ansible user support and discussion                                      |
 | #ansible-devel     | #devel:ansible.com     | Developer discussions around code, bugs and features                             |
@@ -79,7 +79,7 @@
 
 &gt; 用于和使用 Ansible 的工具.
 
-- [Ansible Tower](https://www.ansible.com/products/tower)  - Red Hat 的 Ansible Tower 可帮助您扩展 IT 自动化、管理复杂的部署并提高生产力. 将 Ansible 的力量扩展到您的整个团队.
+- [Automation Controller](https://www.ansible.com/products/controller)  - Red Hat 的自动化控制器（正式名称为 Ansible Tower）可帮助您扩展 IT 自动化、管理复杂的部署并提高生产力. 将 Ansible 的力量扩展到您的整个团队.
 - [AWX](https://github.com/ansible/awx)  - AWX 提供基于 Web 的用户界面、REST API 和构建在 Ansible 之上的任务引擎. 它是AWX商业衍生品Tower的上游项目.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - 检查 Playbook 中可能改进的最佳实践和行为.
 - [Ansible Later](https://github.com/thegeeklab/ansible-later)  - 另一个最佳实践扫描仪. 检查 Playbooks 和 Roles 以获得可能改进的最佳实践和行为.
@@ -88,7 +88,7 @@
 - [ARA](https://github.com/ansible-community/ara) - ARA 记录 Ansible 剧本，并通过报告 API、UI 和 CLI 使它们更易于理解和故障排除.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - 使用 Mitogen 大幅加速 Ansible.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule 有助于 Ansible 角色的开发和测试.
-- [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - 此 Provisioner 可用于通过 Packer 和 Ansible 自动创建 VM 映像.
+- [Packer Ansible Provisioner](https://www.packer.io/plugins/provisioners/ansible/ansible-local) - 此 Provisioner 可用于通过 Packer 和 Ansible 自动创建 VM 映像.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - 将任何 Excel 电子表格转换为 Ansible 库存.
 - [terraform.py](https://github.com/mantl/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - Ansible 的基于文本的用户界面 (TUI).
@@ -133,7 +133,7 @@
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - 用于部署的 Ansible 剧本 [OpenStack](https://www.openstack.org/).
 - [Robert de Bock](https://robertdebock.nl) - 广泛的 Ansible 角色集合.
 - [DebOps](https://docs.debops.org/en/master/) - 大量基于 Debian 的 Ansible Playbook.
-- [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
+- [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - 使用 AWS SSM 代理配置物理和虚拟主机的可靠角色.
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - 用于部署集群的可靠的连贯角色集合.
 
 ## Editor and IDE Integrations

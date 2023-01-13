@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 太棒了 |  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  ：企鹅：|  1032 |  2022 年 12 月 30 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1033 | January 13, 2023
 
 
 
@@ -36,7 +36,7 @@
 [back to top](#readme) 
 
 * [Airbnb](https://github.com/airbnb/swift) - Airbnb 的官方风格指南.
-* [Google](https://google.github.io/swift/) - 本风格指南基于 Apple 出色的 Swift 标准库风格，还结合了来自 Google 多个 Swift 项目的使用反馈.
+* [Google](https://google.github.io/swift/) - 本风格指南基于 Apple 出色的 Swift 标准库风格，还结合了 Google 内部多个 Swift 项目的使用反馈.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn 的官方风格指南.
 * [Raywenderlich](https://github.com/kodecocodes/swift-style-guide) - Raywenderlich 指南，必读.
 
@@ -138,6 +138,7 @@
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
 * [Toybox](https://github.com/giginet/Toybox) - Xcode 游乐场管理变得简单.
 * [Tuist](https://github.com/tuist/tuist) - 一个开源命令行工具，用于大规模创建、维护 Xcode 项目并与之交互.
+* [xc](https://github.com/s2mr/xc) - 按指定版本打开Xcode工程文件的工具.
 * [xcbeautify](https://github.com/tuist/xcbeautify) - xcodebuild 的小美化工具.
 * [XcodeGen](https://github.com/yonaskolb/XcodeGen) - 用于从 YAML 文件和项目目录生成 Xcode 项目的工具.
 * [xcodeproj](https://github.com/tuist/xcodeproj) - 用于读取、更新和编写 Xcode 项目和工作区的库.
@@ -212,7 +213,7 @@
 ### App Routing
 *内部应用程序路由系统.* [back to top](#readme) 
 
-* [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动外部应用程序和深度链接.
+* [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动外部应用程序和深层链接.
 * [Crossroad](https://github.com/giginet/Crossroad) - :oncoming_bus: Crossroad 是一个专注于处理自定义 URL 方案的 URL 路由器.
 * [LightRoute](https://github.com/SpectralDragon/LiteRoute) - VIPER 模块之间的路由.
 * [Linker](https://github.com/MaksimKurpa/Linker) - 处理 iOS 内部和外部深度链接的轻量级方法.
@@ -250,7 +251,7 @@
 ### Augmented Reality
 [back to top](#readme) 
 
-* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - 使用 5 美元 Google Cardboard 复制 Microsoft Hololens 的高级框架.
+* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - 将 AR 的高精度与 GPS 数据的规模相结合.
 * [ARKit-Navigation](https://github.com/chriswebb09/ARKitNavigationDemo) - 使用 MapKit 在增强现实中导航.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - 捕捉和录制 ARKit 视频、照片、实况照片和 GIF.
@@ -381,7 +382,7 @@
 #### Firebase
 [back to top](#readme) 
 
-* [Ballcap](https://github.com/1amageek/Ballcap-iOS) - Ballcap 是 Cloud Firestore 的数据库架构设计框架.
+* [Ballcap](https://github.com/1amageek/Ballcap-iOS) - Ballcap 是 Cloud Firestore 的数据库模式设计框架.
 
 #### GraphQL
 [back to top](#readme) 
@@ -541,7 +542,7 @@
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) - 填补缺失部分的 UIDevice 扩展.
 
 ### Documentation
-*Generate documentation for Swift code* [back to top](#readme) 
+*为 Swift 代码生成文档* [back to top](#readme) 
 
 * [jazzy](https://github.com/realm/jazzy/) - 深情的文档.
 * [SourceDocs](https://github.com/SourceDocs/SourceDocs) - 生成与您的代码一起使用的 Markdown 参考文档.
@@ -708,7 +709,7 @@
 * [ImageDetect](https://github.com/Feghal/ImageDetect) - 使用 iOS 11 Vision API 检测和裁剪图像中的人脸、条形码和文本.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - 适用于 iOS 的轻量级快速图像加载器.
 * [ImageScout](https://github.com/kaishin/ImageScout) - 实施 [fastimage](https://pypi.org/project/fastimage/0.2.1/) - 支持 PNG、GIF 和 JPEG.
-* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - 类似 Twitter 的图像查看器.
+* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - 图像查看器 à la Twitter.
 * [ImgixSwift](https://github.com/imgix/imgix-swift) - 轻松更新图像 url 以快速响应.
 * [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) - 一个 UIImageView 允许您在其上添加多个标签（支持多行文本），您可以用一根手指根据需要编辑、旋转、调整标签大小，然后在图像上渲染文本.
 * [Kanvas](https://github.com/tumblr/kanvas-ios) - 一个 iOS 库，用于添加效果、绘图、文本、贴纸，以及从现有媒体或相机制作 GIF.
@@ -1199,7 +1200,7 @@
 * [CFNotify](https://github.com/JT501/CFNotify) - 一个可定制的框架，用于创建可拖动的警报视图.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的 UIAlertController.
 * [GSMessage](https://github.com/wxxsw/GSMessages) - 适用于 iOS 7+ 的简单样式消息/通知.
-* [Kamagari](https://github.com/tasanobu/Kamagari) - 简单的 UIAlertController 构建器类.
+* [Kamagari](https://github.com/tasanobu-zz/Kamagari) - 简单的 UIAlertController 构建器类.
 * [Loaf](https://github.com/schmidyy/Loaf) - 一个简单的 iOS Toasts 框架.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 在 iOS 中显示高度可定制的应用程序通知横幅的最简单方法.
 * [PMAlertController](https://github.com/pmusolino/PMAlertController) - PMAlertController 是 UIAlertController 的出色且可自定义的替代品.
@@ -1306,7 +1307,7 @@
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - 带有图像和块（闭包）支持的 `UIMenuItem`.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - 启用分页的视图控制器.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) - PagingKit 提供可定制的菜单 UI.
-* [Panels](https://github.com/antoniocasero/Panels) - Panels is a framework to easily add sliding panels to your application.
+* [Panels](https://github.com/antoniocasero/Panels) - Panels 是一个框架，可以轻松地将滑动面板添加到您的应用程序中.
 * [Parchment](https://github.com/rechsteiner/Parchment) - 基于 UICollectionView 构建的具有高度可定制菜单的分页视图控制器.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 适用于 iOS 的炫酷且可自定义的弹出式样式操作表.
 * [SideMenu](https://github.com/jonkykong/SideMenu)  - 受 Facebook 启发的 iOS 简单侧边菜单控件. 右侧和左侧. 无需编码.
@@ -1433,7 +1434,7 @@
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView)  - 优雅的屏幕幻灯片库. 它对制作 Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders 非常有帮助.
 * [Gliding Collection](https://github.com/Ramotion/gliding-collection) - 滑动集合是 UICollectionView 控制器的平滑、流畅、可定制的决定.
 * [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - 标准 UICollectionView 流布局的漂亮替代品.
-* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - 用于显示书架上书籍的 iOS 自定义视图.
+* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS 自定义视图以显示书架上的书籍.
 * [SimpleSource](https://github.com/Squarespace/simple-source ) - 简单且类型安全的 iOS 表格和集合视图.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - 完全可定制的电子表格 CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - 带有左对齐、居中对齐和右对齐的标签的 UICollectionView 布局.
