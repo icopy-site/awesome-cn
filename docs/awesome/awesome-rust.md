@@ -100,7 +100,7 @@ Rust 代码和资源的精选列表.
 * [Solana](https://github.com/solana-labs/solana) — 使用历史证明的极快、高度可扩展的区块链.
 * [Substrate](https://github.com/paritytech/substrate) — 用 Rust 编写的通用模块化区块链模板
 * [svm-rs](https://github.com/roynalnaruto/svm-rs) - Solidity-编译器版本管理器.
-* [tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
+* [tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Tendermint 区块链数据结构和客户端的 Rust 实现
 * [wagyu](https://github.com/AleoHQ/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — 用于生成加密货币钱包的 Rust 库 [![build badge](https://api.travis-ci.com/AleoHQ/wagyu.svg?branch=master)](https://api.travis-ci.com/AleoHQ/wagyu.svg?branch=master)
 * [zcash](https://github.com/zcash/zcash) — Zcash 是“Zerocash”协议的一个实现.
 
@@ -385,7 +385,7 @@ Rust 代码和资源的精选列表.
 * [geiger](https://github.com/rust-secure-code/cargo-geiger) — 一个列出与 Rust crate 及其所有依赖项中不安全 Rust 代码的使用相关的统计信息的程序 [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1&branchName=master)
 * [git-cliff](https://github.com/orhun/git-cliff) — 高度可定制的变更日志生成器，遵循常规提交规范 ![https://github.com/orhun/git-cliff/actions](https://img.shields.io/github/workflow/status/orhun/git-cliff/Continuous%20Integration/main?label=build)
 * [git-journal](https://github.com/saschagrunert/git-journal/) — Git 提交消息和变更日志生成框架 [![build badge](https://api.travis-ci.org/saschagrunert/git-journal.svg?branch=master)](https://travis-ci.org/saschagrunert/git-journal)
-* [hot-lib-reloader](https://github.com/rksm/hot-lib-reloader-rs) — 热重载 Rust 代码 [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
+* [hot-lib-reloader](https://github.com/rksm/hot-lib-reloader-rs) — Hot reload Rust code [![build badge](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/rksm/hot-lib-reloader-rs/actions/workflows/ci.yml)
 * [just](https://github.com/casey/just) — 用于项目特定任务的便捷命令运行器 [![build badge](https://api.travis-ci.org/casey/just.svg?branch=master)](https://travis-ci.org/casey/just)
 * [mask](https://github.com/jacobdeichert/mask) — 由简单的 markdown 文件定义的 CLI 任务运行器 [![build badge](https://github.com/jacobdeichert/mask/workflows/CI/badge.svg?branch=master)](https://github.com/jacobdeichert/mask/actions?query=workflow%3ACI)
 * [Module Linker](https://github.com/fiatjaf/module-linker) —<a>在 GitHub 的 `mod`、`use` 和 `extern crate` 语句中添加 ` 链接到引用的扩展.</a>
@@ -414,6 +414,7 @@ Rust 代码和资源的精选列表.
   * [cargo-graph](https://crates.io/crates/cargo-graph)  — 更新了带有附加功能的 `cargo-dot` 的分支. 未维护，请参阅 `cargo-deps` [![build badge](https://api.travis-ci.org/kbknapp/cargo-graph.svg?branch=master)](https://travis-ci.org/kbknapp/cargo-graph)
   * [cargo-info](https://crates.io/crates/cargo-info) — 从命令行查询 crates.io 以获取板条箱的详细信息 [![build badge](https://api.travis-ci.org/imp/cargo-info.svg?branch=master)](https://travis-ci.org/imp/cargo-info)
   * [cargo-license](https://crates.io/crates/cargo-license) — 用于快速查看所有依赖项许可证的 cargo 子命令. [![build badge](https://api.travis-ci.org/onur/cargo-license.svg?branch=master)](https://travis-ci.org/onur/cargo-license)
+  * [cargo-limit](https://crates.io/crates/cargo-limit) — 噪音较小的货物：跳过警告，直到错误得到修复，Neovim 集成等. [![build badge](https://github.com/alopatindev/cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/alopatindev/cargo-limit/actions)
   * [cargo-make](https://crates.io/crates/cargo-make) — Rust 任务运行器和构建工具. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions)
   * [cargo-modules](https://crates.io/crates/cargo-modules) — 一个 cargo 插件，用于显示板条箱模块的树状概览. [![build badge](https://api.travis-ci.org/regexident/cargo-modules.svg?branch=master)](https://travis-ci.org/regexident/cargo-modules)
   * [cargo-multi](https://crates.io/crates/cargo-multi) — 在多个 crate 上运行指定的 cargo 命令 [![build badge](https://api.travis-ci.org/imp/cargo-multi.svg?branch=master)](https://travis-ci.org/imp/cargo-multi)
@@ -548,7 +549,7 @@ Rust 代码和资源的精选列表.
   * [Vim](https://vim.sourceforge.io/) — 无处不在的文本编辑器
     * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) 客户. 用 Rust 实现并支持开箱即用的 rls.
     * [crates.nvim](https://github.com/Saecki/crates.nvim) - 有助于管理 crates.io 依赖项的插件.
-    * [rust.vim](https://github.com/rust-lang/rust.vim) — 提供文件检测、语法突出显示、格式化、Syntastic 集成等.
+    * [rust.vim](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     * [vim-racer](https://github.com/racer-rust/vim-racer) — 允许 vim 使用 [Racer](https://github.com/racer-rust/racer) 用于 Rust 代码完成和导航.
   * 视觉工作室
     * [dgriffen/rls-vs2017](https://github.com/ZoeyR/rls-vs2017) — 对 Visual Studio 2017 预览版的 Rust 支持 [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
@@ -1024,7 +1025,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * BSON
   * [mongodb/bson-rust](https://github.com/mongodb/bson-rust) — 在 Rust 中对 BSON 的编码和解码支持
 * 字节交换
-  * [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) — Supports big-endian, little-endian and native byte orders [![build badge](https://api.travis-ci.org/BurntSushi/byteorder.svg?branch=master)](https://travis-ci.org/BurntSushi/byteorder)
+  * [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) — 支持大端、小端和本机字节顺序 [![build badge](https://api.travis-ci.org/BurntSushi/byteorder.svg?branch=master)](https://travis-ci.org/BurntSushi/byteorder)
 * Cap&#39;n Proto
   * [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) — [![build badge](https://api.travis-ci.org/capnproto/capnproto-rust.svg?branch=master)](https://travis-ci.org/capnproto/capnproto-rust)
 * 中央银行同业拆息
@@ -1132,7 +1133,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * Tcod-rs
   * [tomassedovic/tcod-rs](https://github.com/tomassedovic/tcod-rs) — Rust 的 Libtcod 绑定.
   * 警告：不再维护
-* 锦标赛-rs
+* 比赛-rs
   * [vityafx/toornament-rs](https://github.com/vityafx/toornament-rs) - 用于 Rust 的 Toornament.com API 绑定. [![CI](https://github.com/vityafx/toornament-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/toornament-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/toornament.svg)](https://crates.io/crates/toornament)
 *维克多
   * [VictoremWinbringer/Victorem](https://github.com/VictoremWinbringer/Victorem) [[Victorem](https://crates.io/crates/Victorem)] — Easy UDP 游戏服务器和 UDP 客户端框架，用于创建简单的 2D 和 3D 在线游戏原型 [![build badge](https://api.travis-ci.org/VictoremWinbringer/Victorem.svg?branch=master)](https://travis-ci.org/VictoremWinbringer/Victorem)
@@ -1184,7 +1185,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) - 一个可移植的、高性能的、符合人体工程学的框架，用于在 Rust 中构建跨平台用户界面. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 * [Druid](https://github.com/linebender/druid) [[druid](https://crates.io/crates/druid)] — [Druid](https://linebender.org/druid/)，一个数据优先的 Rust 原生 UI 设计工具包. [![build badge](https://github.com/linebender/druid/workflows/.github/workflows/ci.yml/badge.svg)](https://github.com/linebender/druid/actions)
 * [emilk/egui](https://github.com/emilk/egui)  - 用于 Rust 的简单、快速和高度可移植的即时模式 GUI 库.  egui 在 Web 上本地运行，并在您最喜欢的游戏引擎中运行. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
-* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型设计
+* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型制作
 * [FLTK](https://www.fltk.org/)
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) — FLTK Rust 绑定 [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)

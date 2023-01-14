@@ -48,7 +48,7 @@ Neovim 支持多种 UI.
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - 该插件向 Neovim LSP 补全添加了类似 vscode 的图标.
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - 使 LSP 客户端使用 FZF 的小插件.
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) - 为 LSP 内置的 Neovim 启用 FZF 模糊搜索的功能.
-- [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint when you type.
+- [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - 键入时 LSP 签名提示.
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) - 提供基于 Neovim 的命令预览功能的增量 LSP 重命名命令.
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) - 在浮动窗口中预览本机 LSP 的 goto 定义调用.
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - 将类型注释显示为虚拟文本.
@@ -266,7 +266,7 @@ Neovim 支持多种 UI.
 - [sainnhe/sonokai](https://github.com/sainnhe/sonokai) - 基于 Monokai Pro 的高对比度和生动的配色方案.
 - [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - 源自 palenight 和 carbonight 的深色配色方案.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - 海洋下一个主题.
-- [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - 支持树保姆的深色配色方案.
+- [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - 具有树保姆支持的深色配色方案.
 - [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - 手工支持 LSP、Tree-sitter 的配色方案.
 - [jim-at-jibba/ariake-vim-colors](https://github.com/jim-at-jibba/ariake-vim-colors)  - 伟大的 Atom 主题的端口. 有 Tree-sitter 支持的黑暗和光明.
 - [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy) - 光暗原子同一个主题.
@@ -276,7 +276,7 @@ Neovim 支持多种 UI.
 - [bkegley/gloombuddy](https://github.com/bkegley/gloombuddy) - Gloom 启发主题.
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - 受原子一号启发的深色和浅色配色方案.
 - [PHSix/nvim-hybrid](https://github.com/PHSix/nvim-hybrid) - 用 Lua 编写的 Neovim 配色方案.
-- [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - 受 spacemacs 启发的深色和浅色配色方案.
+- [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
 - [yonlu/omni.vim](https://github.com/yonlu/omni.vim) - Vim 的 Omni 配色方案.
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 支持 Tree-sitter 和 LSP 的 24 位深色主题.
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - 现代 Neovim 配色方案的集合：材料、月光、德古拉（血）、莫诺凯、马里亚纳、祖母绿、早夏、午夜蓝、暗太阳.
@@ -416,7 +416,7 @@ Neovim 支持多种 UI.
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - 用于从剪贴板粘贴图像的 Neovim Lua 插件.
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - 来自 Neovim 的远程控制 Reaper DAW.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
@@ -509,7 +509,7 @@ Neovim 支持多种 UI.
 - [rcarriga/nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - nvim-dap 的用户界面.
 - [Pocco81/DAPInstall.nvim](https://github.com/Pocco81/DAPInstall.nvim) - 为 nvim-dap 管理多个调试器.
 - [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) - nvim-dap 的永久断点.
-- [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) - 在 nvim-dap 的断点之间循环.
+- [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - 调试 print() 方式.
 
 #### Quickfix
@@ -568,7 +568,7 @@ Neovim 支持多种 UI.
 
 - [Olical/aniseed](https://github.com/Olical/aniseed) - 使用茴香配置和扩展 Neovim（Lisp 到 Lua）.
 - [Olical/conjure](https://github.com/Olical/conjure) - 交互式评估（Clojure、Fennel、Janet、Racket、Hy、MIT Scheme、Guile）.
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Seamless, transparent Fennel inside Neovim.
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Neovim 内的无缝、透明茴香.
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - Sweet :tangerine: 茴香整合，旨在尽可能快.
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) - Flavored :hibiscus: 茴香宏库.
 
@@ -692,7 +692,7 @@ Neovim 支持多种 UI.
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - 将当前聚焦的缓冲区居中到终端的中间.
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - 一个望远镜扩展，用于可视化您的撤消树和其中的模糊搜索更改.
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - 捆绑了大约十几个自定义文本对象.
-- [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) - 很棒的文本对象插件与 nvim-surround 一起工作.
+- [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) - 很棒的文本对象插件与 nvim-surround 一起使用.
 
 #### Comment
 
@@ -718,7 +718,7 @@ Neovim 支持多种 UI.
 - [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - 每次保存时清除文件末尾的尾随空格和空行.
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - 更漂亮的整合.
 - [echasnovski/mini.nvim#mini.align](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - 用于交互式对齐文本的 `mini.nvim` 模块（有或没有即时预览）.
-- [emileferreira/nvim-strict](https://github.com/emileferreira/nvim-strict) - 通过暴露深层嵌套、超长行、尾随空格、尾随空行和不一致的缩进，严格执行可配置的最佳实践代码风格.
+- [emileferreira/nvim-strict](https://github.com/emileferreira/nvim-strict) - 严格的本机代码样式格式，可暴露深层嵌套、超长行、尾随空格、尾随空行、待办事项和不一致的缩进.
 
 #### Indent
 
