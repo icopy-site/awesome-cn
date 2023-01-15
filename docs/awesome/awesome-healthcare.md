@@ -29,6 +29,7 @@
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - 为 NHS 设计的完整患者管理系统.
   * [OpenMRS](https://openmrs.org) - 企业电子病历系统平台.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster 项目.
+  * [Ozone HIS](http://www.ozone-his.com) - 使用OpenMRS 3构建的企业级综合健康信息系统
   * [Ripple](https://www.ripple.foundation) - NHS 资助、社区主导的倡议，致力于建立一个集成的数字护理记录平台.
 
 ### Specifications
@@ -38,7 +39,7 @@
   * [SMART on FHIR](https://docs.smarthealthit.org/) - 基于开放标准的技术平台.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - 开放健康记录格式规范，旨在比现有格式更精确.
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - 护理文档规范的连续性（需要免费帐户）.
-  * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - 旧式 CCD 的规格 - 有时称为“C32”.
+  * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - HL7v2 所有版本的规范（需要免费帐户）.
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - 许多医疗保健概念的标准化数据模型，很棒的 Github 存在，包括许多主要关系数据库的脚本.
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - 通过建立健康数据标准化的单一目标提供高质量、可计算的患者信息源.
@@ -110,6 +111,7 @@
   * [Datamol](https://github.com/datamol-org/datamol)  - 分子操作变得简单. 在 RDKit 之上构建的轻型 Python 包装器.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM 工具包.
   * [dicom](https://github.com/suyashkumar/dicom) - GoLang 中的高性能 DICOM 医学图像解析器.
+  * [ehrapy](https://github.com/theislab/ehrapy/) - Python 中的电子健康记录分析.
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - 适用于 .NET、.NET Core、通用 Windows、Android、iOS、Mono 和 Unity 的 DICOM.
   * [FHIRKit Client](https://github.com/Vermonster/fhir-kit-client) - 节点 FHIR 客户端库.
@@ -162,7 +164,7 @@
 
 ### Bioinformatics
   * [ADAM](https://github.com/bigdatagenomics/adam) - 基因组学分析平台.
-  * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+  * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - 经过验证、可扩展、社区开发的变体调用、RNA-seq 和小 RNA 分析.
   * [Galaxy](https://galaxyproject.org/) - 用于数据密集型生物医学研究的开放式网络平台.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - 带有可选位置特异性评分矩阵的氨基酸基序搜索软件.
 

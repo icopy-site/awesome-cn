@@ -73,7 +73,7 @@ Fiber 社区创建的中间件列表.
 - [arsmn/fastgql](https://github.com/arsmn/fastgql) - 用于构建 GraphQL 服务器的 Go 库，无需大惊小怪，但具有 fasthttp 支持.
 - [kiyonlin/fiber_limiter](https://github.com/kiyonlin/fiber_limiter) - 限制器基于 golang.org/x/time/rate 的分叉率.
 - [juandiii/go-jwk-security](https://github.com/juandiii/go-jwk-security) - 用于光纤的 JWT 中间件. 
-- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的普罗米修斯中间件.
+- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的 Prometheus 中间件.
 - [LdDl/fiber-long-poll](https://github.com/LdDl/fiber-long-poll) - Golang 长轮询库，用于名为 Fiber 的基于 fasthttp 的 Web 框架.
 - [K0enM/fiber_vhost](https://github.com/K0enM/fiber_vhost) - 用于 Fiber 的 Vhost（虚拟主机）中间件，它允许使用基于主机头的虚拟主机.
 - [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth 中间件.
@@ -85,6 +85,7 @@ Fiber 社区创建的中间件列表.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制的工作证明挑战的反 DDoS/机器人中间件.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 为光纤提供 OPA 中间件集成.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - 基于 W3C 服务器计时规范添加服务器计时标头的中间件.
+- [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - 报告性能数据（路由统计）的 Airbrake 中间件.
 
 ## 🚧 Boilerplates
 Fiber 的预制样板.
@@ -109,7 +110,6 @@ Fiber 的预制样板.
 
 ## 🛠️ Tools
 几个使 Fiber 使用更容易的工具.
-- [gofiber/cli](https://github.com/gofiber/cli) - 光纤命令行界面.
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn 是一个自以为是的 web 框架，它提供了在 Fiber 之上的快速开发能力.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - 为 Fiber 或 Gin REST API 生成样板 + 端点.
 

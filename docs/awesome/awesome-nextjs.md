@@ -109,6 +109,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [superplate](https://github.com/pankod/superplate) - superplate 使用 TypeScript、styled-components、SWR、Storybook 和 35+ 插件在几秒钟内创建 Next.js 应用程序.
 - [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen)  - Hydrogen 是一个带有 tailwindCss 和 MDX 支持的 Nextjs 博客入门模板构建. 它具有开箱即用的所有必要的 MDX 简码.
 - [Next-Fire-Auth](https://github.com/hrushikedar33/next-fire-auth) - 一个很棒的启动应用程序样板，使用 Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks 进行身份验证
+- [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack)  - 以 Chargebee 为中心的 T3 堆栈，集成了用户订阅、身份验证和测试. 由 Prisma ORM 驱动.
 
 ## Extensions
 
@@ -122,11 +123,11 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next UserAgent](https://github.com/tokuda109/next-useragent) - Next.js 的 UserAgent 解析器
 - [Next Cookie](https://github.com/tokuda109/next-cookie) - Next.js 的 Cookie 序列化器和反序列化器库.
 - [Nextein](https://github.com/elmasse/nextein) - 基于 Next.js 的静态站点生成器.
-- [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
+- [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松将博客添加到任何基于 next.js 的项目
 - [next-i18next](https://github.com/isaachinman/next-i18next) - 翻译 NextJs 应用程序的最简单方法.
-- [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - 一个 NextJS 路由中间件
+- [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 - [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
-- [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - 使用 Terraform 部署您的应用程序
+- [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 - [next-session](https://github.com/hoangvvo/next-session) - Next.js 的会话中间件
 - [next-iron-session](https://github.com/vvo/next-iron-session) - Next.js 无状态会话实用程序使用签名和加密的 cookie 来存储数据
 - [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - 轻松整合 [Purgecss](https://www.purgecss.com/)，它可以帮助您从包中删除未使用的 CSS.
@@ -201,7 +202,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 - [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 - [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
+- [Mastering Next.js](https://masteringnextjs.com/) - 50 多节课的视频课程，用于使用 Next.js 和 React 构建应用程序.
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - 深入的 Next.js 教程.
 - [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - 2020 Next.js 大会的所有视频
 

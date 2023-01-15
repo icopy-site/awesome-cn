@@ -49,6 +49,7 @@
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi 是使用 Raspberry Pi 摄像头模块的开源 3D 激光扫描仪. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - 为 Pi 构建的 Linux Fedora 发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) - FreeBSD 是一种先进的计算机操作系统，用于为现代服务器、台式机和嵌入式平台提供动力.
+- [FreedomBox](https://www.freedombox.org) - FreedomBox 是非专家的私人家庭服务器. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) - 适用于 Raspberry Pi 的 Gentoo Stage 3 tarball.
 - [Gladys Assistant](https://gladysassistant.com) - Gladys，隐私至上的开源家庭助理. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Hass.io](https://home-assistant.io/hassio/installation/) - 用于嵌入式设备的家庭自动化操作系统/应用程序，也可单独使用.
@@ -312,6 +313,7 @@
 ## Community
 
 - [`@Raspberry_Pi` on Twitter](https://twitter.com/Raspberry_Pi)
+- [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 - [`#raspberrypi` on Freenode](https://webchat.freenode.net/?channels=%23raspberrypi)
 - [`Raspberry Pi` on YouTube](https://www.youtube.com/channel/UCFIjVWFZ__KhtTXHDJ7vgng)
 - [`raspberry-pi` on Spectrum](https://spectrum.chat/raspberry-pi)

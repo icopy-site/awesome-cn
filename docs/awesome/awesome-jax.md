@@ -142,6 +142,7 @@
 - [GIFT](https://github.com/google-research/google-research/tree/master/gift) - 正式实施 [_Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent_](https://arxiv.org/abs/2106.06080).
 - [Light Field Neural Rendering](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - 正式实施 [_Light Field Neural Rendering_](https://arxiv.org/abs/2112.09687).
 - [Sharpened Cosine Similarity in JAX by Raphael Pisoni](https://colab.research.google.com/drive/1KUKFEMneQMS3OzPYnWZGkEnry3PdzCfn?usp=sharing) - 锐化余弦相似度层的 JAX/Flax 实现.
+- [GNNs for Solving Combinatorial Optimization Problems](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) - 一个 JAX + Flax 实现 [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
 
 ### Haiku
 
