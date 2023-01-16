@@ -229,7 +229,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -359,7 +359,7 @@ GUI
 * [ceramic](https://ceramic.github.io/)  - 使用 Electron 的桌面网络应用程序.  [外籍人士][14].
   * [Electron-lisp-boilerplate](https://github.com/mikelevins/electron-lisp-boilerplate) - 用于构建带有嵌入式 Lisp 辅助进程的 Electron 应用程序的基本样板.
   * 电子应用骨架： [electron-sbcl-sqlite](https://github.com/mikelevins/electron-sbcl-sqlite/)
-   * 注意：在 Electron 中嵌入 lisp web 应用程序的主要思想是将 lisp web 服务器作为异步进程启动，并将 Electron 窗口指向本地主机 URL. 而已.
+   * 注意：在 Electron 中嵌入 lisp web 应用程序的主要思想是将 lisp web 服务器作为异步进程启动，并将 Electron 窗口指向本地主机 URL. 就是这样.
 
 但这还不是全部：
 
@@ -442,7 +442,7 @@ YAML
 * [anaphora](https://common-lisp.net/project/anaphora/)  - 照应宏的集合. 公共区域.
 * ⭐ [trivia](https://github.com/guicho271828/trivia/)  - 优化的模式匹配库.  [LLGPL][8].
 * [arrow-macros](https://github.com/hipeta/arrow-macros)  - 类似 Clojure 的线程宏.  [麻省理工][200].
-* [hu.dwim.walker](https://quickref.common-lisp.net/hu.dwim.walker.html) - a code walker and unwalker (aka AST parser and unparser). [BSD][15]. See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
+* [hu.dwim.walker](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD][15]. See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
 可移植层
 ------------------
@@ -685,7 +685,7 @@ Community
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  - debhelper 实用程序，让您几乎毫不费力地将基于 quicklisp 的 Common Lisp 代码编译成 .deb 中的 buildapp 二进制文件.  [麻省理工][200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  - 用于（命令行）常见 lisp 应用程序的自制公式生成器. 公共区域.
 * [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) - 一个 BuildStream 项目，用于为 Common Lisp 应用程序构建基于 Flatpak 的运行时环境.
-* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 以及更高版本的 MacOSX 和 iOS 捆绑格式.
+* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 和更高版本的 MacOSX 和 iOS 捆绑格式.
 
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，通用包管理器的插件.
@@ -1185,7 +1185,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 
 这包含各种文本编辑器的插件和其他好东西.
 
-* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）都可以使用它.
+* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 它可用于许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）.
 
 ## Emacs ##
 
@@ -1229,7 +1229,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 
 * [Sublime Text](http://www.sublimetext.com/3) （专有）有
   Common Lisp 支持及其 SublimeREPL 和
-  [Slyblime](https://github.com/s-clerc/slyblime) 包裹. 狡猾的人
+  [Slyblime](https://github.com/s-clerc/slyblime) 包. 狡猾的人
   是 SLY 的一个实现，它使用相同的后端 (SLYNK). 它
   附带高级功能，包括带有堆栈框架的调试器
   检查.
@@ -1320,7 +1320,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].

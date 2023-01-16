@@ -14,7 +14,6 @@
   * [EHRBase](https://ehrbase.org) OpenEHR 临床数据存储库.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHR 服务器.
   * [ERPNext](https://erpnext.com/open-source-healthcare) - 帮助管理患者、预约、咨询、实验室测试和计费的模块.
-  * [EtherCIS](https://ethercis.org) - 企业临床数据存储库.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) - 电子病历软件.
   * [HospitalRun](https://hospitalrun.io) - 帮助为资源最少的环境提供最现代的医院信息系统.
   * [HOSxP](https://hosxp.net/joomla25/) - 泰国医院信息系统，旨在简化健康中心和中心医院的医疗保健工作流程.
@@ -29,7 +28,7 @@
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - 为 NHS 设计的完整患者管理系统.
   * [OpenMRS](https://openmrs.org) - 企业电子病历系统平台.
   * [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster 项目.
-  * [Ozone HIS](http://www.ozone-his.com) - 使用OpenMRS 3构建的企业级综合健康信息系统
+  * [Ozone HIS](https://www.ozone-his.com) - 使用OpenMRS 3构建的企业级综合健康信息系统
   * [Ripple](https://www.ripple.foundation) - NHS 资助、社区主导的倡议，致力于建立一个集成的数字护理记录平台.
 
 ### Specifications
@@ -74,7 +73,7 @@
   * [OpenSlide](https://github.com/openslide/openslide) - 是一个用于读取整个幻灯片图像文件的 C 库.
   * [Orthanc](https://www.orthanc-server.com) - 用于医疗保健和医学研究的轻量级 DICOM 服务器.
   * [Papaya](https://github.com/rii-mango/Papaya) - 纯 JavaScript 医学研究图像查看器.
-  * [Slim](https://github.com/herrmannlab/slim) - 用于计算病理学的可互操作网络查看器和注释工具.
+  * [Slim](https://github.com/ImagingDataCommons/slim) - 用于计算病理学的可互操作网络查看器和注释工具.
   * [Viv](https://github.com/hms-dbmi/viv) - 网络上高分辨率多路复用生物成像数据的多尺度可视化.
   * [VTK](https://vtk.org) - 支持各种算法和建模技术的 3 维可视化工具包.
 
@@ -122,6 +121,7 @@
   * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - 用于 HL7 FHIR 客户端和服务器的 Java API.
   * [Hearth](https://github.com/jembi/hearth) - 一个快速的 FHIR 兼容服务器，专注于纵向数据存储.
   * [Health data standards](https://github.com/projectcypress/health-data-standards)  - 用于生成和使用各种医疗保健相关格式的 Ruby 库. 其中包括 HITSP C32、QRDA I 类和 QRDA III 类.
+  * [Hermes](https://github.com/wardle/hermes) - SNOMED CT 术语服务器. 
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)) - 医学成像交互工具包.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - 与 Java Hapi HL7 库桥接的节点模块.
   * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) - Redox 的 HL7 v2 到模式化 JSON 解析器的开源版本.

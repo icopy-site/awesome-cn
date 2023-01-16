@@ -110,9 +110,8 @@
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - 将 Raspberry Pi 设置为 OpenVPN 服务器的 Shell 脚本.
 - [Orangetool](https://github.com/Moduland/Orangetool) - Python 中单板计算机的控制功能.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  - 用于创建 raspberrypi.org Raspbian 图像的工具. 这可用于创建您自己的自定义图像，并安装特定的软件包等.
-- [PiBakery](http://www.pibakery.org/) - 基于块的、易于使用的 Raspberry Pi 设置工具.
 - [Pieman](https://github.com/tolstoyevsky/pieman) - 用于创建基于 Raspbian、Devuan、Ubuntu 和 Alpine Linux 的自定义图像的脚本.
-- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 映像.
+- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 图像.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - 自动缩小 pi 图像的 Bash 脚本，然后在启动时将其调整为 SD 卡的最大大小.
 - [pistrong](https://github.com/gitbls/pistrong)  - 管理受证书保护的 strongSwan VPN. 用于客户端-服务器、站点到站点和主机到主机 VPN 的安装程序和命令行工具.
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.

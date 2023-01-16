@@ -762,6 +762,7 @@
 - [Snippets.Ninja](https://github.com/dd3v/snippets.ninja)  - 用于代码片段管理的渐进式 Web 应用程序. 先下线. 开源.  App 使用 IndexedDB 作为本地存储.
 - [lishuuro.org](https://github.com/uros-5/ui-lishuuro) - 将 Vue3 用于 UI 和 Pinia 用于管理应用程序状态的小型国际象棋变体应用程序.
 - [ZuiOJ](https://github.com/DaZuiZui/ZuiOJ) - 使用Vue2的UI和Java开发的ZuiOJ系统.
+- [Insurance-system](https://github.com/DaZuiZui/Insurance-system) - springboot和vue制作的保险系统.
 
 ### Commercial Products
 
@@ -899,7 +900,7 @@
 - [Scrumpy](https://scrumpy.io/) - 一个漂亮的敏捷团队项目管理工具
 - [Spektrum](https://spektrummedia.com/) - Spektrum Media Agency 网站
 - [SPK](https://www.spk.rocks/) SPK生态系统网站
-- [IDDEF](https://www.iddef.org/) ☪️ The Associations of Associations that Value Humanity 的网页、CMS、CRM 和 Donation 以及所有电子商务页面均使用 Vue.js、Vuex 和纯 JavaScript 设计
+- [IDDEF](https://www.iddef.org/) ☪️ The Associations that Value Humanity 的网页、CMS、CRM 和 Donation 以及所有电子商务页面均使用 Vue.js、Vuex 和纯 JavaScript 设计
 - [Roast](https://roastandbrew.coffee/) 一款旨在帮助咖啡爱好者在学习 Laravel + Vue.js 的同时找到下一杯咖啡的应用程序.
 - [YBR](https://yangonbusreport.org)  - 中央 YBS 公共电子投诉管理系统.  (全SPA)
 - [Regex Fiddler](https://regexfiddler.com/)
@@ -1034,7 +1035,7 @@
 - Ele.me
 - 优化
 - Expedia
-- 优视网络
+- 优视网
 - 线
 - 任天堂
 - 塞尔特拉
@@ -1470,7 +1471,7 @@ _显示时间/日期/年龄_
 - [vue-clock2](https://github.com/bestvist/vue-clock2) - 显示 Vue 的时钟组件.
 - [vuemodoro](https://github.com/P3trur0/vuemodoro) - 作为单文件 Vue 组件的番茄钟计时器.
 - [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) - ️基于 Vue 构建的数字时钟模拟.
-- [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - 另一种响应式 boostrap-vue 时间线
+- [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - 另一种响应式 boostrap-vue 时间轴
 - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - 一个简单但可定制的反应式时间轴 vue 组件
 - [vue-moment](https://github.com/brockpetrie/vue-moment) - 为您的 Vue.js 项目提供方便的 Moment.js 过滤器.
 - [v-idle](https://github.com/malekim/v-idle) - 用于检测空闲/非活动用户的 Vue.js 插件.
@@ -1772,7 +1773,7 @@ _在日历中显示不可编辑的事件_
 - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - 用于 vue js 的滚动动画投资组合查看器组件：灯泡：
 - [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - 一个简单的 vue 指令 (2+)，如果内容太长，它会将内容夹在元素的中间.
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - 文档/帮助系统组件.
-- [vue-turnjs](https://github.com/Reidond/vue-turnjs) - 一个组件库，可以为您的应用程序添加图书体验.
+- [vue-turnjs](https://github.com/Reidond/vue-turnjs) - 一个组件库，可以为您的应用程序添加书籍体验.
 - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - 顶部导航栏的滑动标题.
 - [tsParticles](https://github.com/matteobruni/tsparticles) - 一个轻量级的 Javascript 库，可以轻松创建高度可配置和交互式的粒子动画
 - [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Vue 3 的 Book 组件.它提供简单、灵活的 API 和出色的可定制性.
@@ -2126,7 +2127,7 @@ _显示图片_
 - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - 用于 Google Maps Places API 的 Vue.js (2.x) 自动建议组件.
 - [vue-default-value](https://github.com/termosa/vue-default-value) - Vue.js 2.x 指令为可编辑元素设置默认值而不影响模型状态
 - [vue-model-autoset](https://github.com/outluch/vue-model-autoset) - 一个 Vue.js 插件，用于解决 Vue 在使用 v-model 指令观察动态添加的属性时的限制
-- [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - 加载的简单实现（[1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) 不到 90 行代码，没有依赖项.
+- [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - Load 的简单实现（[1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) 不到 90 行代码，没有依赖项.
 - [vue-rate](https://github.com/SinanMtl/vue-rate) - Vue 的评分组件
 - [vuetify-google-autocomplete](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - 适用于 Google Maps Places API 的 Vuetify 就绪 Vue.js (2.x) 自动建议组件.
 - [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - 作为 Vue 指令的材料涟漪效应.
@@ -2547,7 +2548,7 @@ _检测组件何时进入视口_
 - [vue-scrollmonitor](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - 一个 Vue 插件，用于观察视口内元素的可见性状态，支持多种浏览器（使用 provide/inject so compat vue@2.2.x）
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - 一个很棒的 CSS3 列表滚动效果组件，适用于 Vue.js 2.x.
 - [navscroll-js](https://github.com/nash403/navscroll-js)  - 滚动时突出显示菜单项，并在单击菜单项时滚动到某个部分. 用作 vue 组件、vue 指令或与 vanilla js 一起使用.
-- [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) - 检测滚动事件的轻型插件，当元素进入视口时自定义回调，公开“scrollTo”api 以滚动到特定元素.使用 vue 指令.
+- [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) - 一个检测滚动事件的轻型插件，当元素进入视口时自定义回调，公开&#39;scrollTo&#39;api以滚动到特定元素.使用vue指令.
 - [vue-check-view](https://github.com/vtimofeev/vue-check-view)  - 检查元素是否在视口中的插件. 快速，小巧，没有依赖性，现场演示.
 - [vue-stickto](https://github.com/JALBAA/vue-stickto) - 支持多个 DOM 节点的 vue 指令自动粘在顶部
 - [vue2-scrollspy](https://github.com/ibufu/vue2-scrollspy) - 一个 scrollspy 插件和动画滚动到.
@@ -3437,9 +3438,9 @@ _包括后端样板文件_
 
 #### Electron
 
-- [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - 一个 Electron &amp; Vue.js 快速入门样板，带有 vue-cli 脚手架、常见的 Vue 插件、electron-packager/electron-builder、单元/e2e 测试、vue-devtools 和 webpack.
+- [Electron Vue](https://github.com/SimulatedGREG/electron-vue) - Electron &amp; Vue.js 快速入门样板，带有 vue-cli 脚手架、常见的 Vue 插件、electron-packager/electron-builder、单元/e2e 测试、vue-devtools 和 webpack.
 - [VuePack](https://github.com/egoist/vuepack) - 使用 Vue 2、Vuex、Vue-router 和 Webpack 2（甚至 Electron）的现代启动器.
-- [vue-flexible-link](https://github.com/saintplay/vue-flexible-link)  - 用于 Electron 的微型 Vue 组件，用于在浏览器中打开链接. 跨环境应用程序的理想选择（网络和本地）
+- [vue-flexible-link](https://github.com/saintplay/vue-flexible-link)  - 用于 Electron 的微型 Vue 组件，用于在浏览器中打开链接. 跨环境应用程序的理想选择（网络和原生）
 - [vuelectron](https://github.com/rachmanzz/vuelectron) - electronjs starter kits for vue.
 - [vue-design](https://github.com/L-Chris/vue-design) - 使用 Vue 和 Electron 的最佳网站可视化构建器.
 - [dapp](https://github.com/fritx/dapp) - 用于堆叠 Vue/Parcel/Electron 的样板.
@@ -3473,7 +3474,7 @@ _应用程序的脚手架部分_
 ### Prerendering
 
 - [react-snap](https://github.com/stereobooster/react-snap) - SPA 的零配置静态预渲染器
-- [prerender-plugin](https://github.com/mubaidr/prerender-plugin) - 一个 Node.js/webpack 插件，用于在单页应用程序 (SPA) 中预呈现静态 HTML.
+- [prerender-plugin](https://github.com/mubaidr/prerender-plugin) - 一个 Node.js/webpack 插件，用于在单页应用程序 (SPA) 中预渲染静态 HTML.
 - [vue-prerender](https://github.com/eldarc/vue-prerender) - 一个 Vue.js 定制插件，它实现了使用无头 chrome 预渲染 Vue.js 页面的三种策略.
 - [Rendora](https://github.com/rendora/rendora) - 动态 SSR（服务器端渲染）使用 headless Chrome 轻松解决现代 javascript 网站的 SEO 问题
 - [pre-vue](https://github.com/mtlynch/pre-vue) - 样板 Vue + Nuxt 项目，为 OpenGraph 标签、Google Analytics、站点地图和 robots.txt 提供内置支持.

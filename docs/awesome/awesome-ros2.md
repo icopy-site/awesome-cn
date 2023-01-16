@@ -76,7 +76,7 @@
 ### Application layer
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy 将自治算法作为单独的构建块提供，并与 Autoware.Auto 兼容.
-- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件栈.
+- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件堆栈.
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制 (`ros2_controllers`) 的上下文中阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - ros_controllers 的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的 ROS 包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
@@ -153,7 +153,7 @@
 - [HRIM](https://github.com/AcutronicRobotics/HRIM) - 机器人模块的标准接口.
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 可集成工具，专注于 ROS2 和 FIWARE 之间的相互通信. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - ROS2 上的 Linorobot. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
-- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于 MiniRys 机器人的 ROS2 软件栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
+- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于 MiniRys 机器人的 ROS2 软件堆栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) - 用于将 PX4 与 ROS 通信的 ROS2/ROS 包. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
 - [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - 用于 MultiWii 和 Cleanflight 飞行控制器的 ROS2 节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ydlidar 的 ROS2 包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
@@ -306,6 +306,22 @@
 - [ROS2-Industrial training material](https://github.com/ros-industrial/ros2_i_training)
 
 ## Presentations
+
+### ROSCon 2022
+
+[Program announcement](https://roscon.ros.org/2022/#program)（幻灯片+视频）
+
+### ROSCon 2021
+
+[Program announcement](https://roscon.ros.org/world/2021/#program)（幻灯片+视频）
+
+### ROSCon Jp 2021
+
+[Program announcement](https://roscon.ros.org/jp/2021/#program)（幻灯片+视频）
+
+### ROSCon 2020
+
+[Program announcement](https://roscon.ros.org/world/2020/#program)（幻灯片+视频）
 
 ### ROSCon 2019
 
