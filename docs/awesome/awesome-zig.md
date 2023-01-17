@@ -10,7 +10,7 @@
 
 
 ## Algorithms and data structures
-* [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
+* [ziglibs/s2s](https://github.com/ziglibs/s2s) - Binary serialization format and library.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
 * [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
@@ -151,6 +151,8 @@
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - libVLC 媒体框架的 Zig 绑定.
 
 ## Network
+* [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - 围绕 TCP 和 UDP 的小型网络抽象层.
+* [dantecatalfamo/zig-dns](https://github.com/dantecatalfamo/zig-dns) - 在 zig 中实现的实验性 DNS 库.
 * [euantorano/ip.zig](https://github.com/euantorano/ip.zig) - 用于处理 IP 地址的库.
 * [lun-4/zigdig](https://github.com/lun-4/zigdig) - 朴素的 DNS 客户端库.
 * [marler8997/netpunch](https://github.com/marler8997/netpunch) - 出站代理协议.
@@ -233,7 +235,7 @@
 * [zig.pm](https://zig.pm/) - 社区维护的 Zig 软件包存储库.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito 在 Zig 中重写.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - 用于组装 x86 的库.
-* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
+* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - 国际劳工组织许可证密钥库.
 * [vegecode/svd2zig](https://github.com/vegecode/svd2zig) - 将系统视图描述 (svd) 文件转换为用于裸机开发的 Zig 标头.
 * [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) - MQTT IotMonitor 工具，节省监控 mqtt 代理或设备的时间.
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) 客户.

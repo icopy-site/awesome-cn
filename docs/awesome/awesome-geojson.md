@@ -33,6 +33,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): 在 GeoJSON 中提取多边形的共享边界
 * [geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels): 从 GeoJSON 多边形生成点标签
 * [geojsontools](https://github.com/micolous/geojsontools): 用于操作 GeoJSON 文件的 Python 工具
+* [geojson-indoor-tools](https://github.com/armanjr/geojson-indoor-tools): 用于编辑室内 GeoJSON 功能的 Python 工具：添加房间高度、建筑墙壁和创建门
 
 
 ### editors & viewers

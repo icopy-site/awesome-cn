@@ -200,6 +200,7 @@
 - [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - 具有高可用性和故障转移功能的企业 MFT 服务器解决方案，可消除停机时间.
 - [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - 使用快速且可扩展的文件传输平台，每天移动超过 100 万个文件.
 - [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - 启用安全的文件交换和管理.
+- [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - 从一个集中管理的 MFT 平台安全地支持所有文件传输用例.
 
 ### Master Data Management
 *主数据管理解决方案.*
@@ -316,7 +317,7 @@
 - [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示消息何时应被视为过时且因此不应处理？
 - [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - 使用不同数据格式的系统如何使用消息传递相互通信？  
 - [Message Broker](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html) - 如何将消息的目的地与发送者分离并保持对消息流的集中控制？
-- [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么架构可以让独立的应用程序协同工作，但又以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序？  
+- [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么是使独立的应用程序能够一起工作的体系结构，但以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序？  
 - [Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageChannel.html) - 一个应用程序如何使用消息传递与另一个应用程序通信？
 - [Message Endpoint](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageEndpoint.html) - 应用程序如何连接到消息通道以发送和接收消息？
 - [Message Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html) - 组件如何避免接收无趣的消息？

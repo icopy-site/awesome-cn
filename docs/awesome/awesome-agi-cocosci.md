@@ -89,6 +89,8 @@
 
 * [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html)  - ***国会图书馆***. 美国的分类系统（仅 PDF）.
 
+* [Chinese Library Classification](http://cct.nlc.cn/)  - ***中国国家图书馆***. 中国分类系统（中文在线用户界面）. [[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. [[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)].
+
 * [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)  - ***德意志国家图书馆***. 基于 Deway Decimal Classification (DDC) 的德国分类系统（在线用户界面）. [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
 
 * [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html)  - ***日本国立国会图书馆***. 日本的分类系统（仅 PDF）.
@@ -402,7 +404,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -984,7 +986,7 @@
 
 * [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5) ]. 对 AutoRL 的全面回顾.
 
-* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878) ].  Chelsea Finn 关于模型无关元学习 (MAML) 的原始论文.
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)]. Chelsea Finn's original paper on Model-Agnostic Meta-Learning (MAML).
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 
@@ -1072,7 +1074,7 @@
 * [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972&hl=en&as_sdt=0,5)].
 
 
-### Metascience
+### Science Logology
 
 #### Science of Science
 
@@ -1089,7 +1091,6 @@
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***美国国家科学院院刊***，2021 年. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么每年在一个领域发表太多论文会导致停滞而不是进步. 
-
 
 * [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***在线创新方法***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
@@ -1122,6 +1123,9 @@
 
 
 * [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906&hl=en&as_sdt=0,5) ]. 介绍信息锚定理论 (IAT) 作为 AIF 替代方案的原始论文. 
+
+#### Science Education
+
 
 
 ### Theory of Mind
@@ -1447,7 +1451,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -1749,7 +1753,7 @@
   * [Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft](https://arxiv.org/abs/2106.14876), 2021.
   * [Learning to execute instructions in a Minecraft dialogue](https://www.aclweb.org/anthology/2020.acl-main.232/) - ***ACL&#39;20***，2020 年.
   * [Collaborative Dialogue in Minecraft](https://www.aclweb.org/anthology/P19-1537.pdf) - ***ACL&#39;19***，2019 年.
-  * [Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision](http://web.mit.edu/tslvr/www/papers/genplan20_camera_ready.pdf) - ***AAAI GenPlan Workshop***, 2020.
+  * [Learning Skill Hierarchies from Predicate Descriptions and Self-Supervision](http://web.mit.edu/tslvr/www/papers/genplan20_camera_ready.pdf) - ***AAAI GenPlan 研讨会***，2020 年.
   * [AMRL: Aggregated Memory for Reinforcement Learning](https://openreview.net/pdf?id=Bkl7bREtDr) - ***ICLR&#39;20***，2020 年.
   * [MineRL: A Large-Scale Dataset of Minecraft Demonstrations](https://www.ijcai.org/Proceedings/2019/0339.pdf) ***IJCAI'19***, 2019. [[2020 Competition](https://arxiv.org/abs/2106.03748)].
   * [Design Mining for Minecraft Architecture](http://www.cs.cornell.edu/~eland/papers/aiide2018.pdf) - ***AAAI'18***, 2018.

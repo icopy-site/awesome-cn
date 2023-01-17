@@ -124,6 +124,7 @@
 
 - [Built with Inertia](https://builtwithinertia.com/) - 展示使用 Inertia.js 构建的产品.
 - [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - 用于 Inertia.js 的 PhpStorm/Intellij Ultimate 插件.
+- [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Inertia.js 的 Visual Studio 代码扩展.
 
 <p align="center">
   <br />

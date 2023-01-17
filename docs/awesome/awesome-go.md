@@ -386,7 +386,7 @@ _用于预处理 CSS 文件的库._
 - [bloom](https://github.com/yourbasic/bloom) - Golang 布隆过滤器实现.
 - [bloomfilter](https://github.com/OldPanda/bloomfilter) - Go 中的另一个 Bloomfilter 实现，与 Java 的 Guava 库兼容.
 - [boomfilters](https://github.com/tylertreat/BoomFilters) - 用于处理连续、无界流的概率数据结构.
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合的布谷鸟过滤器，与其他工具相比，它是可配置的和空间优化的，并且提供了原论文中提到的所有功能.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合的布谷鸟过滤器，与其他工具相比，它是可配置的和空间优化的，并且提供了原始论文中提到的所有功能.
 - [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo 过滤器：Go 中实现的计数布隆过滤器的一个很好的替代品.
 - [ring](https://github.com/TheTannerRyan/ring) - 执行高性能、线程安全的布隆过滤器.
 
@@ -395,7 +395,7 @@ _用于预处理 CSS 文件的库._
 - [algorithms](https://github.com/shady831213/algorithms) - 算法和数据结构.CLRS 研究.
 - [go-datastructures](https://github.com/Workiva/go-datastructures) - 有用的、高性能的和线程安全的数据结构的集合.
 - [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMaps、树、HashSet 等.
-- [gostl](https://github.com/liyue201/gostl) - go的数据结构和算法库，旨在提供类似于C++ STL的功能.
+- [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 
 ### Iterators
 
@@ -1198,11 +1198,11 @@ _物联网编程设备库._
 _用于调度作业的库._
 
 - [cdule](https://github.com/deepaksinghvi/cdule) - 具有数据库支持的作业调度程序库
-- [cheek](https://github.com/datarootsio/cheek) - 一个简单的 crontab 类调度程序，旨在提供一种 KISS 方法来进行作业调度.
+- [cheek](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 - [clockwerk](https://github.com/onatm/clockwerk) - Go 包使用简单、流畅的语法来安排定期作业.
 - [cronticker](https://github.com/krayzpipes/cronticker) - 支持 cron 计划的自动收报机实施.
 - [Dagu](https://github.com/dagu-go/dagu)  - 无代码工作流执行器. 它执行以简单的 YAML 格式定义的 DAG.
-- [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以在特定日期和时间以不同的时间间隔执行闭包或函数，从每秒一次到每年一次. 主要用于 Web 应用程序和长时间运行的守护进程.
+- [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以以不同的时间间隔执行闭包或函数，从每秒一次到每年一次在特定日期和时间执行. 主要用于 Web 应用程序和长时间运行的守护进程.
 - [go-quartz](https://github.com/reugn/go-quartz) - 用于 Go 的简单、零依赖的调度库.
 - [gocron](https://github.com/go-co-op/gocron)  - 简单流畅的 Go 作业调度. 这是一个积极维护的分支 [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron).
 - [goflow](https://github.com/fieldryand/goflow) - 用于快速制作 ETL/ML/AI 管道原型的工作流编排器和调度器.
@@ -1233,7 +1233,7 @@ _用于处理 JSON 的库._
 - [gojq](https://github.com/elgs/gojq) - Golang 中的 JSON 查询.
 - [gojson](https://github.com/ChimeraCoder/gojson) - 从示例 JSON 自动生成 Go (golang) 结构定义.
 - [JayDiff](https://github.com/yazgazan/jaydiff) - 用 Go 编写的 JSON diff 实用程序.
-- [jettison](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
+- [jettison](https://github.com/wI2L/jettison) - 用于 Go 的快速灵活的 JSON 编码器.
 - [jscan](https://github.com/romshark/jscan) - 高性能零分配 JSON 迭代器.
 - [JSON-to-Go](https://mholt.github.io/json-to-go/) - 将 JSON 转换为 Go 结构.
 - [JSON-to-Proto](https://json-to-proto.github.io/) - 在线将 JSON 转换为 Protobuf.
@@ -1559,7 +1559,7 @@ _这些图书馆被放在这里是因为其他类别似乎都不合适._
 
 ## Natural Language Processing
 
-_用于处理人类语言的库._
+_Libraries for working with human languages._
 
 也可以看看 [Text Processing](#text-processing) 和 [Text Analysis](#text-analysis).
 
@@ -1913,6 +1913,7 @@ _用于帮助提高应用程序安全性的库._
 - [simple-scrypt](https://github.com/elithrar/simple-scrypt) - 具有简单、明显的 API 和内置的自动成本校准的 Scrypt 包.
 - [ssh-vault](https://github.com/ssh-vault/ssh-vault) - 使用 ssh 密钥加密/解密.
 - [sslmgr](https://github.com/adrianosela/sslmgr) - SSL 证书通过围绕 acme/autocert 的高级包装器变得容易.
+- [teler-waf](https://github.com/kitabisa/teler-waf)  - teler-waf 是一个 Go HTTP 中间件，它提供 teler IDS 功能以防止基于 Web 的攻击并提高基于 Go 的 Web 应用程序的安全性. 它具有高度可配置性，易于集成到现有的 Go 应用程序中.
 - [themis](https://github.com/cossacklabs/themis) - 用于解决典型数据安全任务（安全数据存储、安全消息传递、零知识证明身份验证）的高级密码库，支持 14 种语言，最适合多平台应用程序.
 
 
@@ -2015,7 +2016,7 @@ _用于测试代码库和生成测试数据的库._
 
 - 测试框架
 
-  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序的简单且可扩展的行为测试库.
+  - [apitest](https://apitest.dev) - 简单且可扩展的行为测试库，用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序.
   - [assert](https://github.com/go-playground/assert) - 与原生 go 测试一起使用的基本断言库，以及用于自定义断言的构建块.
   - [badio](https://github.com/cavaliercoder/badio) - Go 的 `testing/iotest` 包的扩展.
   - [baloo](https://github.com/h2non/baloo) - 富有表现力和多功能的端到端 HTTP API 测试变得简单.
@@ -2568,7 +2569,7 @@ _全栈网络框架._
 - [aah](https://aahframework.org) - 适用于 Go 的可扩展、高性能、快速开发 Web 框架.
 - [Aero](https://github.com/aerogo/aero) - 用于 Go 的高性能 Web 框架，在 Lighthouse 中获得最高分.
 - [Air](https://github.com/aofei/air) - 一个理想完善的 Go 网络框架.
-- [anoweb](https://github.com/go-the-way/anoweb) - The lightweight and powerful web framework using the new way for Go.Another go the way.
+- [anoweb](https://github.com/go-the-way/anoweb) - 轻量级强大的Web框架，采用Go的新方式.另一种方式.
 - [appy](https://github.com/appist/appy) - 一个自以为是的高效网络框架，有助于更轻松地扩展业务.
 - [Atreugo](https://github.com/savsgio/atreugo) - 高性能和可扩展的微型 Web 框架，热路径中的内存分配为零.
 - [Banjo](https://github.com/nsheremet/banjo) - 非常简单快速的 Go 网络框架.
@@ -2668,7 +2669,7 @@ _全栈网络框架._
 - [Goji](https://github.com/goji/goji) - Goji 是一个简约而灵活的 HTTP 请求多路复用器，支持 `net/context`.
 - [GoLobby/Router](https://github.com/golobby/router) - GoLobby Router 是用于 Go 编程语言的轻量级但功能强大的 HTTP 路由器.
 - [goroute](https://github.com/goroute/route) - 简单而强大的 HTTP 请求多路复用器.
-- [GoRouter](https://github.com/vardius/gorouter) - GoRouter 是一个服务器/API 微框架、HTTP 请求路由器、多路复用器、多路复用器，它为请求路由器提供支持 `net/context` 的中间件.
+- [GoRouter](https://github.com/vardius/gorouter) - GoRouter 是一个服务器/API 微框架、HTTP 请求路由器、多路复用器、mux，它为请求路由器提供支持 `net/context` 的中间件.
 - [gowww/router](https://github.com/gowww/router) - 闪电般快速的 HTTP 路由器与 net/http.Handler 接口完全兼容.
 - [httprouter](https://github.com/julienschmidt/httprouter)  - 高性能路由器. 使用这个和标准的 http 处理程序来形成一个非常高性能的 web 框架.
 - [httptreemux](https://github.com/dimfeld/httptreemux)  - 用于 Go 的高速、灵活的基于树的 HTTP 路由器. 来自 httprouter 的灵感.
@@ -2733,7 +2734,7 @@ _源代码分析工具，也称为静态应用程序安全测试 (SAST) 工具._
 - [errcheck](https://github.com/kisielk/errcheck) - Errcheck 是一个用于检查 Go 程序中未检查错误的程序.
 - [gcvis](https://github.com/davecheney/gcvis) - 实时可视化 Go 程序 GC 跟踪数据.
 - [go-checkstyle](https://github.com/qiniu/checkstyle)  - checkstyle 是一个类似java checkstyle 的样式检查工具. 这个工具的灵感来自 java checkstyle，golint. 风格参考了 Go Code Review Comments 中的一些要点.
-- [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - 创建 go-cleanarch 是为了验证 Clean Architecture 规则，例如 The Dependency Rule 和 Go 项目中包之间的交互.
+- [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch 的创建是为了验证 Clean Architecture 规则，例如 The Dependency Rule 和 Go 项目中包之间的交互.
 - [go-critic](https://github.com/go-critic/go-critic) - 源代码 linter，带来当前未在其他 linter 中实现的检查.
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - 一种查找 Go 项目过时依赖项的简单方法.
 - [go-outdated](https://github.com/firstrow/go-outdated) - 显示过时包的控制台应用程序.
@@ -2982,7 +2983,7 @@ _在哪里可以发现新的 Go 库._
 - [go-benchmark-app](https://github.com/mrLSD/go-benchmark-app)  - 强大的 HTTP 基准测试工具与 Аb、Wrk、Siege 工具相结合. 为基准和比较结果收集统计数据和各种参数.
 - [go-benchmarks](https://github.com/tylertreat/go-benchmarks)  - 很少有杂项 Go 微基准测试. 将一些语言特性与替代方法进行比较.
 - [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - Go HTTP 请求路由器基准测试和比较.
-- [go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) - Go JSON benchmark.
+- [go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) - 转到 JSON 基准.
 - [go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) - Go 中机器学习推理的基准.
 - [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - 去网络框架基准.
 - [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) - Go 序列化方法的基准.
@@ -3170,7 +3171,7 @@ _在此处添加您所在城市/国家/地区的群组（发送 **PR**）_
 
 - [Awesome Go @LibHunt](https://go.libhunt.com) - 您的首选 Go 工具箱.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) - 精选的 golang 研讨会列表.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作列表. 他们中的很多人都在寻找 Go 黑客.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作清单. 他们中的很多人都在寻找 Go 黑客.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 其他令人惊叹的列表列表.
 - [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - 解析 awesome-go README 文件并生成一个带有 repo 信息的新 README 文件.
 - [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - 软件工程师和博客@codewithmukesh.com.

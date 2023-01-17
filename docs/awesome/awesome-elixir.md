@@ -518,7 +518,7 @@
 * [pop3mail](https://hex.pm/packages/pop3mail) - Pop3 客户端通过命令行或 Elixir API 从收件箱下载电子邮件（包括附件）.
 * [ravenx](https://github.com/acutario/ravenx) - Elixir 应用程序的通知调度库.
 * [smoothie](https://github.com/jfrolich/smoothie) - 平滑电子邮件模板的内联样式，并从 HTML 生成纯文本版本.
-* [swoosh](https://github.com/swoosh/swoosh) - 使用 SMTP、Sendgrid、Mandrill、Mailgun、Postmark 和许多其他适配器在 Elixir 中轻松撰写、发送和测试您的电子邮件（带附件！），加上 Phoenix 与邮箱预览的集成.
+* [swoosh](https://github.com/swoosh/swoosh) - 使用 SMTP、Sendgrid、Mandrill、Mailgun、Postmark 和许多其他适配器，以及 Phoenix 与邮箱预览的集成，在 Elixir 中轻松撰写、发送和测试您的电子邮件（带附件！）.
 
 ## Embedded Systems
 *嵌入式系统开发.*
@@ -577,7 +577,7 @@
 * [portal](https://github.com/josevalim/portal) - 用于 Elixir 中分布式门户数据传输应用程序的射击容错门.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - 长生不老药/凤凰实施 [RealWorld.io](https://realworld.io/) 后端规格 - 中型克隆.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir 库使用 Pratt Parser 算法来计算骰子掷骰.
-* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行器.
+* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行程序.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix 应用程序可与随机选择的陌生人匿名聊天.
 * [tilex](https://github.com/hashrocket/tilex) - 使用 Phoenix 1.3 构建的 Hashrocket TIL 网站的源代码.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
@@ -875,7 +875,7 @@
 * [exjson](https://github.com/guedes/exjson) - Elixir 中的 JSON 解析器和生成器.
 * [ja_serializer](https://github.com/AgilionApps/ja_serializer) - Elixir 中的 JSONAPI.org 序列化.
 * [jason](https://github.com/michalmuskala/jason) - 纯 Elixir 中超快的 JSON 解析器和生成器.
-* [jazz](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+* [jazz](https://github.com/meh/jazz) - 另一个在 Elixir 中处理 JSON 的库.
 * [joken](https://github.com/bryanjos/joken) - 编码和解码 JSON Web 令牌.
 * [jose](https://github.com/potatosalad/erlang-jose) - 用于 Erlang 和 Elixir 的 JSON 对象签名和加密 (JOSE).
 * [json](https://github.com/cblage/elixir-json) - Elixir 的原生 JSON 库.
@@ -1324,6 +1324,7 @@
 * [blogit](https://github.com/meddle0x53/blogit) - 一个 OTP 应用程序，用于从包含降价文件的 git 存储库生成博客.
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - 用于中型站点的静态站点生成器.
 * [medusa](https://github.com/Vesuvium/medusa) - 支持 Pug 的 Elixir 静态站点生成器.
+* [NimblePublisher](https://github.com/dashbitco/nimble_publisher) - 最小的基于文件系统的发布者，具有降价和语法突出显示.
 * [obelisk](https://github.com/BennyHallett/obelisk) - 静态博客和网站生成器.
 * [serum](https://github.com/Dalgona/Serum) - 用 Elixir 编写的简单静态网站生成器.
 
@@ -1431,7 +1432,7 @@
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - 巴西文件的编号格式和验证 (CPF/CNPJ).
 * [caustic](https://github.com/agro1986/caustic)  - 用于比特币、以太坊和其他区块链的 Elixir 加密货币库. 包括密码学、数论（质数、同余）和用于探索性数学的通用数学库.
 * [ccc](https://github.com/Joe-noh/ccc) - 字符代码转换器.
-* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带声调或不带声调的 slug）.
+* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带或不带声调的 slug）.
 * [cidr](https://github.com/c-rack/cidr-elixir) - Elixir 的无类域间路由 (CIDR).
 * [cirru_parser](https://github.com/Cirru/parser.ex) - Elixir 中的 Cirru 解析器.
 * [colorful](https://github.com/Joe-noh/colorful) - 用于装饰 CUI 上的字符的 Elixir 宏.
@@ -1573,7 +1574,7 @@
 * [kane](https://github.com/peburrows/kane) - 一种 [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) - 一个 Keen.io API 客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 用于使用 Google 的 URL Shortener API 创建短 URL 的 Elixir 库.
-* [m2x](https://github.com/attm2x/m2x-elixir)  - 用于 AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  - AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) - MailChimp API 版本 3 的基本 Elixir 包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun 客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - Elixir 的山魈包装纸.
@@ -1584,7 +1585,7 @@
 * [mmExchangeRate](https://github.com/Arkar-Aung/mmExchangeRate) - 基于缅甸中央银行 Api 的简单汇率检查器和计算器.
 * [nacha](https://github.com/RiverFinancial/nacha) - 用于为美国 ACH 传输生成和解析 NACHA 文件的 Elixir 库.
 * [nadia](https://github.com/zhyu/nadia) - 用 Elixir 编写的 Telegram Bot API 包装器.
-* [omise](https://github.com/teerawat1992/omise-elixir) - Elixir 的 Omise 客户端库.
+* [omise](https://github.com/omise/omise-elixir) - Elixir 的 Omise 客户端库.
 * [opbeat](https://github.com/teodor-pripoae/opbeat) - Opbeat 的 Elixir 客户端.
 * [pagexduty](https://github.com/ride/pagexduty) - Elixir 的 Pagerduty 客户端.
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - 用于 parse.com REST API 的 Elixir 客户端.
@@ -1808,7 +1809,7 @@
 * [ElixirWeekly](https://elixirweekly.net) - Elixir 社区时事通讯，涵盖您容易错过的内容，分享于 [ElixirStatus](http://elixirstatus.com) 和网络.
 
 ## Other Awesome Lists
-*可以在以下位置找到其他非常棒的列表 [jnv/lists](https://github.com/jnv/lists#lists-of-lists) 要么 [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness).*
+*可以在以下位置找到其他非常棒的列表 [jnv/lists](https://github.com/jnv/lists#lists-of-lists) 或者 [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness).*
 
 * [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) - 很棒的 Elixir 和命令查询责任分离 (CQRS) 和事件源资源的精选列表.
 * [Awesome Elixir by LibHunt](https://elixir.libhunt.com) - 很棒的 Elixir 和 Erlang 包和资源的精选列表.
@@ -1846,7 +1847,7 @@
 * [Elixir Sips](http://elixirsips.com/) - 学习 Elixir 的小截屏视频.
 * [ElixirCasts.io](https://elixircasts.io/) - 帮助您学习 Elixir 和 Phoenix 的简单截屏视频.
 * [ExCasts](https://excasts.com) - 所有技能水平的 Elixir 和 Phoenix 截屏视频.
-* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，如“动手 Elixir 和 OTP：加密货币交易机器人”系列.
+* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，例如“Elixir 和 OTP 的实践：加密货币交易机器人”系列.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - 初学者友好，深入，一步一步的截屏.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - 了解如何使用 Phoenix 构建快速、可靠的 Web 应用程序.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - 通过 José Valim 了解 Elixir 的一些特性和概念.
@@ -1876,8 +1877,8 @@
 * [Elixir Recipes](http://elixir-recipes.github.io/) - 收集 Elixir 中常见问题的模式和解决方案.
 * [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - 来自 Hashrocket 团队的关于 Elixir 的小帖子.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Jose Valim 对 Elixir 的解释和介绍.
-* [Learning Elixir](http://learningelixir.joekain.com/) - 一个关于专业软件工程师学习 Elixir 的博客.
+* [Learning Elixir](http://learningelixir.joekain.com/) - A blog about a Professional Software Engineer learning Elixir.
 * [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - 来自 Classpert 在线课程搜索的 Elixir 在线课程列表（有些是免费的）
 
 ## Contributing
-请参见 [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) 了解详情.
+请参阅 [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) 了解详情.

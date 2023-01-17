@@ -21,6 +21,8 @@
 - [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - 中继兼容的 GraphQL 服务器规范.
 - [OpenCRUD](https://github.com/opencrud/opencrud) - OpenCRUD 是数据库的 GraphQL CRUD API 规范.
 - [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - 阿波罗联邦规范
+- [GraphQXL](https://gabotechs.github.io/graphqxl/) - GraphQXL 是 GraphQL 语言的扩展，具有一些有助于创建大型且可扩展的服务器端模式的附加功能.
+- [GraphQL Scalars](https://www.graphql-scalars.com/) - 托管社区定义的自定义标量规范以与@specifiedBy 一起使用.
 
 <a name="foundation" />
 
@@ -32,17 +34,17 @@
 
 ## Communities
 
-- [Discord](https://discord.graphql.org/) - 官方 GraphQL.org discord 频道.
-- [Discord](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
+- [Discord - GraphQL](https://discord.graphql.org/) - 官方 GraphQL.org discord 频道.
+- [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯重点介绍来自 GraphQL 社区的资源和新闻.
+- [Apollo GraphQL Community](https://community.apollographql.com/) - 与其他开发人员联系并分享有关 Apollo GraphQL 平台每个部分的知识.
+- [Discord - Reactiflux](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
 - [Facebook](https://www.facebook.com/groups/795330550572866/) - 小组讨论、文章和知识共享.
 - [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
-- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题与解答. 使用标签 `graphql`.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题和解答. 使用标签 `graphql`.
 - [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共 GraphQL API 的集合列表.
 - [/r/GraphQL](https://old.reddit.com/r/graphql/) - 用于有趣且信息丰富的 GraphQL 内容和讨论的 Subreddit.
 - [GraphQL Jobs](https://graphql.jobs) - 全球初创公司中基于 GraphQL 的工作列表.
 - [Codever](https://www.codever.land/search?q=graphql)  - 开发书签. 使用标签 [graphql](https://www.codever.land/bookmarks/t/graphql).
-- [GraphQL Weekly](https://www.graphqlweekly.com/) - 每周通讯重点介绍来自 GraphQL 社区的资源和新闻.
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 
 <a name="meetup" />
 
@@ -79,7 +81,7 @@
 ### JavaScript/TypeScript
 
 - [graphql-js](https://github.com/graphql/graphql-js) - 用于 JavaScript 的 GraphQL 的参考实现.
-- [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
+- [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - 使用 JIT 编译器执行 GraphQL.
 
 #### Clients
 
@@ -188,7 +190,7 @@
 - [Next.js TypeScript and GraphQL Example](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - 运行 Next.js 的受类型保护的 GraphQL 示例 [graphql-codegen](https://graphql-code-generator.com/) 在引擎盖下
 - [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) – 一个实时的、可编辑的演示在大约 2 秒内旋转并在浏览器中运行.
 - [NAPERG](https://github.com/alan345/naperg)  - 全栈样板 GraphQL. 使用 React &amp; Prisma + 身份验证和角色制作.
-- [VulcanJS](http://vulcanjs.org) - 全栈React+GraphQL框架
+- [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 - [RAN Toolkit](https://github.com/sly777/ran) - 支持 GraphQL、SSR、热重载、CSS-in-JS、缓存等的生产就绪工具包/样板.
 
 <a name="ts-example" />
@@ -262,7 +264,7 @@
 - [graphene-django](https://github.com/graphql-python/graphene-django) - 石墨烯的 Django 集成.
 - [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - 受 flask-jwt-extended 启发的 Flask 身份验证库.
 - [tartiflette](https://github.com/dailymotion/tartiflette) - GraphQL 实现，SDL First，适用于 python 3.6+ / asyncio.
-- [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio, [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
+- [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) - Tartiflette 的包装器基于 aiohttp / 3.6+ / asyncio 通过 HTTP 公开 GraphQL API， [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
 - [Ariadne](https://github.com/mirumee/ariadne)  - 使用模式优先方法实现 GraphQL 服务器的库. 异步查询执行，包含用于 ASGI、WSGI 和流行的网络框架的电池， [fully documented](https://ariadnegraphql.org).
 - [django-graphql-auth](https://github.com/PedroBern/django-graphql-auth) - 使用 GraphQL 的 Django 注册和身份验证.
 - [strawberry](https://github.com/strawberry-graphql/strawberry) - 一个新的 Python GraphQL 库.
@@ -273,7 +275,7 @@
 
 #### Python Examples
 
-- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](https://graphene-python.org).
+- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - GraphQL 模式和服务器使用 [Graphene](https://graphene-python.org).
 - [Python Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/python/) - 创建 GraphQL 服务器的教程 [Strawberry](https://strawberry.rocks/) 和一个客户 [Qlient](https://qlient-org.github.io/python-qlient/site/).
 
 <a name="java" />
@@ -359,7 +361,7 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的中继应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 架构和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 - [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - 展示如何使用代码生成制作 Go GraphQL 服务器和客户端的教程.
 
 <a name="scala" />
@@ -375,7 +377,7 @@
 #### Scala Examples
 
 - [sangria-akka-http-example](https://github.com/sangria-graphql/sangria-akka-http-example) - 使用 akka-http 和编写的示例 GraphQL 服务器 [sangria](https://sangria-graphql.github.io/)
-- [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - 使用 Play 和 sangria 编写的 GraphQL 服务器示例.
+- [sangria-playground](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
 <a name="dotnet" />
 
@@ -478,7 +480,7 @@
 
 #### Android Examples
 
-- [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - 适用于 Android 的 Apollo“hello world”应用程序.
+- [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android.
 
 <a name="ios" />
 
@@ -595,7 +597,7 @@
 
 - [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 - [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键式安全扫描您的 GraphQL 端点. 免费，无需登录.
-- [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
+- [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 - [Tinfoil Security - GraphQL Security Scanner](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 - [InQL Scanner](https://github.com/doyensec/inql) - 用于 GraphQL 安全测试的 Burp 扩展
@@ -638,7 +640,7 @@
 - [Prisma](https://github.com/prisma/prisma)  - 将您的数据库变成 GraphQL API.  Prisma 可让您设计数据模型并在几分钟内在线获得可用于生产的 GraphQL API.
 - [Typetta](https://github.com/twinlogix/typetta)  - 用 TypeScript 为类型爱好者编写的 Node.js ORM.  Typetta 是 GraphQL + NodeJS + Typescript 堆栈的完美 ORM.
 - [tuql](https://github.com/bradleyboy/tuql) - 从任何 sqlite 数据库自动创建一个 GraphQL 服务器.
-- [Bit](https://github.com/teambit/bit) - 将 GraphQL API 组织为与 NPM 一起使用或从任何项目修改的组件， [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
+- [Bit](https://github.com/teambit/bit) - 将 GraphQL API 组织为组件，供 NPM 使用或从任何项目修改， [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 - [openapi-to-graphql](https://github.com/ibm/openapi-to-graphql) - 采用任何 OpenAPI 规范 (OAS) 或 swagger 并创建一个 GraphQL 接口 - 两分钟的视频和资源 [here](https://developer.ibm.com/open/projects/openapi-to-graphql/)
 - [Retool](https://retool.com/) – 在 GraphQL APIs + GraphQL IDE 之上的内部工具构建器，带有模式浏览器.
 - [dataloader-codegen](https://github.com/Yelp/dataloader-codegen) - 一个自以为是的 JavaScript 库，用于在一组资源（例如 HTTP 端点）上自动生成可预测的、类型安全的 DataLoader.
@@ -668,7 +670,7 @@
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
 - [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它会为您的模型自动生成一个 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器后端即服务. 您的 GraphQL 和 REST over GraphQL 后端只需几分钟.
-- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代品
+- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 当前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
@@ -752,6 +754,7 @@
 
 ### Blogs - Security
 
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 了解 GraphQL 安全性、性能、测试以及使用 GraphQL 生态系统的最新工具和最佳实践构建生产就绪 API.
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
@@ -795,13 +798,14 @@
 - [make your graphql api easier to adopt through components](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)
 - [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 
-<a name="workshopper" />
+<a name="tutorials" />
 
-## Workshoppers
+## Tutorials
 
 - [How to GraphQL](https://www.howtographql.com) - Fullstack 教程网站，包含所有主要框架和语言的轨道，包括 React、Apollo、Relay、JavaScript、Ruby、Java、Elixir 等等.
 - [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo 的免费互动学习平台.
 - [learning-graphql](https://github.com/mugli/learning-graphql) - 尝试学习 GraphQL.
+- [GraphQL Roadmap](https://roadmap.sh/graphql/) - 学习 GraphQL 的分步指南.
 
 ## License
 
