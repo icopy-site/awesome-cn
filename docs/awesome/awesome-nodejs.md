@@ -12,9 +12,9 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+			<a href="https://www.producthunt.com/posts/any-text">任何文字</a>
 			<br>
-			<sup>直接从 iPhone 锁定屏幕呼叫您最喜欢的人</sup>
+			<sup>将任何文本放在 iPhone 的锁定屏幕上</sup>
 		</h2>
 	</div>
 	<br>
@@ -59,15 +59,6 @@
 			<b>Strapi 是领先的开源无头 CMS.</b>
 			<div>
 				<sup>它是 100% JavaScript、完全可定制且开发人员优先.</sup>
-			</div>
-		</a>
-		<br>
-		<a href="https://oss.capital">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
-			</div>
-			<div>
-				 <sup>OSS Capital成立于2018年，是第一家也是唯一一家专注于风险投资的平台</sup><sup><br></sup><sup>专门支持早期 COSS（商业开源）初创公司创始人.</sup>
 			</div>
 		</a>
 		<br>
@@ -159,7 +150,7 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - 流媒体客户端.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 寻求将所有计算设备与同一文件系统连接起来的分布式文件系统.
 - [stackgl](https://github.com/stackgl) - 建立在 browserify 和 npm 之上的 WebGL 开放软件生态系统.
-- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+- [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将 Torrent 视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
 - [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币库.
@@ -265,7 +256,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -347,7 +338,7 @@
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承、异步控制等功能的模板引擎（受 jinja2 启发）.
 - [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Mustache 模板的超集，它添加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单的无主见的模板语言.
-- [Pug](https://github.com/pugjs/pug) - 深受 Haml 影响的高性能模板引擎.
+- [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
 ### Web frameworks
 
@@ -370,7 +361,7 @@
 - [Nest](https://github.com/nestjs/nest) - 用于构建高效且可扩展的服务器端应用程序的受 Angular 启发的框架.
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
 - [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - 现代且快速的类似 Express 的 Web 框架.
-- [Marble.js](https://github.com/marblejs/marble) - 基于 TypeScript 和 RxJS 构建服务器端应用程序的功能性反应框架.
+- [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - [Lad](https://github.com/ladjs/lad) - 由前 Express TC 和 Koa 成员制作的框架，它捆绑了网络、API、作业和代理服务器.
 - [Ts.ED](https://github.com/tsedio/tsed) - 用于在 Express.js 或 Koa.js 之上构建服务器端应用程序的直观 TypeScript 框架. 
 
@@ -515,7 +506,7 @@
 ### Data validation
 
 - [joi](https://github.com/sideway/joi) - JavaScript 对象的对象模式描述语言和验证器.
-- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - 使用代码生成速度极快的 JSON 模式验证器.
 - [property-validator](https://github.com/nettofarah/property-validator) - Express 的简单属性验证.
 - [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API 清理和验证.
 - [ajv](https://github.com/ajv-validator/ajv)  - 最快的 JSON 模式验证器. 支持 v5、v6 和 v7 提案.
@@ -539,7 +530,7 @@
 - [nearley](https://github.com/kach/nearley) - 简单、快速、强大的 JavaScript 解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从 JSON 缓冲区中提取值而不解析整个内容.
 - [Stylecow](https://github.com/stylecow/stylecow)  - 解析、操作和转换现代 CSS 以使其与所有浏览器兼容. 可通过插件扩展.
-- [js-yaml](https://github.com/nodeca/js-yaml) - 非常快速的 YAML 解析器.
+- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML 到 JavaScript 对象转换器.
 - [Jison](https://github.com/zaach/jison)  - 友好的 JavaScript 解析器生成器. 它与 Bison、Yacc 和家族共享基因.
 - [google-libphonenumber](https://github.com/ruimarinho/google-libphonenumber) - 解析、格式化、存储和验证电话号码.
@@ -686,13 +677,13 @@
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能 Redis 支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能 Redis 消息队列.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 在没有样板的情况下构建基于 Amazon Simple Queue Service (SQS) 的应用程序.
-- [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+- [better-queue](https://github.com/diamondio/better-queue) - 无法使用 Redis 时的简单高效的作业队列.
 - [bullmq](https://github.com/taskforcesh/bullmq) - 持久作业和消息队列.
 
 ### Node.js management
 
 - [n](https://github.com/tj/n) - Node.js 版本管理.
-- [nave](https://github.com/isaacs/nave) - Node.js 的虚拟环境.
+- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - 与 Python 的 virtualenv 兼容的 Node.js 虚拟环境.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Windows 的版本管理.
 - [nodenv](https://github.com/nodenv/nodenv)  - 类似于 Ruby 的 rbenv 的版本管理器. 它支持自动版本切换.
@@ -811,7 +802,7 @@
 - [Nodeschool](https://github.com/nodeschool) - 通过交互式课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些良好做法.
-- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
+- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和实际上令人愉悦阅读的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
@@ -893,7 +884,7 @@
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展.
 - [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型制作.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型设计.
 
 ### Community
 
