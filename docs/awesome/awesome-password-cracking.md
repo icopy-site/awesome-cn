@@ -31,7 +31,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Cloudtopolis](https://github.com/JoelGMSec/Cloudtopolis) - 一种有助于在 Google Cloud Shell 平台上安装和配置 Hashtopolis 的工具，快速且完全无人值守（而且免费！）.
 - [NPK](https://github.com/c6fc/npk) - NPK 是一个分布式哈希破解平台，完全由 AWS 中的无服务器组件构建，包括 Cognito、DynamoDB 和 S3.
 - [Penglab](https://github.com/mxrch/penglab) - 滥用 Google Colab 破解哈希.
-- [Rook](https://github.com/JumpsecLabs/Rook) - 自动创建用于基于 GPU 的密码破解的 AWS p3 实例.
+- [Rook](https://github.com/JumpsecLabs/Rook) - Automates the creation of AWS p3 instances for use in GPU-based password cracking.
 
 
 ## Conversion
@@ -71,17 +71,18 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [CrackLord](https://github.com/jmmcatee/cracklord) - 用于破解密码的队列和资源系统.
 - [fitcrack](https://github.com/nesfit/fitcrack) - 基于hashcat的分布式密码破解系统.
 - [Hashtopolis](https://github.com/hashtopolis/server) - 用于将 hashcat 任务分发到多台计算机的多平台客户端-服务器工具.
-- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI) - 用于 Hashtopolis API 的 CLI 工具，将一些 API 功能合并到动态 Python 包装器中.
+- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI)) - 用于 Hashtopolis API 的 CLI 工具，将一些 API 功能合并到动态 Python 包装器中.
 - [Kraken](https://github.com/arcaneiceman/kraken) - 多平台分布式暴力密码破解系统.
 
 ### Rules
 - [clem9669 rules](https://github.com/clem9669/hashcat-rule) - hashcat 或 john 的规则.
 - [hashcat rules collection](https://github.com/narkopolo/hashcat-rules-collection) - 可能是目前最大的 hashcat 规则集.
-- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns.
+- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - 基于统计和行业规律的Hashcat密码破解规则.
 - [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - 来自 Kaonashi 项目（RootedCON 2019）的词汇表、规则和掩码.
 - [nsa-rules](https://github.com/NSAKEY/nsa-rules) - 从破解密码生成的hashcat密码破解规则和掩码.
 - [nyxgeek-rules](https://github.com/nyxgeek/nyxgeek-rules) - Hashcat 和 John the Ripper 的自定义密码破解规则.
 - [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) - “破解所有密码的一条规则.或者至少我们希望如此.”
+- [OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - “我原来的 OneRuleToRuleThemAll hashcat 规则的改进和更新版本.”
 - [pantagrule](https://github.com/rarecoil/pantagrule) - 从现实世界中泄露的密码生成的大型 hashcat 规则集.
 - [squid rules](https://github.com/jakewnuk/HIBP-578M) - 根据 HIBPv7 测试的有效性排序的 Hashcat 规则.
 
@@ -93,7 +94,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [crackerjack](https://github.com/ctxis/crackerjack) - CrackerJack 是用 Python 开发的 Hashcat 的 Web GUI.
 - [CrackQ](https://github.com/f0cker/crackq) - 一个Python Hashcat破解队列系统.
 - [hashpass](https://github.com/dj-zombie/hashpass) - hashcat 的哈希破解 WebApp 和服务器.
-- [Hashview](https://github.com/hashview/hashview) - 用于密码破解和分析的 Web 前端.
+- [Hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics.
 - [Wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone 的 Web 界面，用于使用 hashcat 破解密码.
 - [WebHashCat](https://github.com/hegusung/WebHashcat) - WebHashcat 是一个非常简单但高效的网页界面的 hashcat 密码破解工具.
 
@@ -114,31 +115,33 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ### People to Follow
-- 水解 ([GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze))
-- NSAKEY ([GitHub](https://github.com/NSAKEY) / [Twitter](https://twitter.com/_NSAKEY) / [Website](https://abigisp.com/))
-- 空模式 ([GitHub](https://github.com/NullMode) / [Mastodon](https://infosec.exchange/@nullmode_@twtr.plus) / [Twitter](https://twitter.com/nullmode_))
-- 修理工 （[GitHub](https://github.com/th3mechanic) / [Twitter](https://twitter.com/th3_m3chan1c))
-- 有毒的 （[Twitter](https://twitter.com/yiannistox))
 - Alotdv ([Twitter](https://twitter.com/AlongExc))
+- Clem9669 ([GitHub](https://github.com/clem9669))
 - Coolbry95 ([GitHub](https://github.com/coolbry95) / [Twitter](https://twitter.com/coolbry95))
 - 达基基拉 ([GitHub](https://github.com/dakykilla) / [Twitter](https://twitter.com/dakykilla))
 - Droppermit ([GitHub](https://github.com/dropdeadfu) / [Twitter](https://twitter.com/dropdeadfu))
 - Epixoip ([GitHub](https://github.com/epixoip) / [Mastodon](https://infosec.exchange/@epixoip) / [Twitter](https://twitter.com/jmgosney))
 - 邪恶之魔 ([GitHub](https://github.com/evilmog/) / [Mastodon](https://infosec.exchange/@evilmog) / [Twitter](https://twitter.com/Evil_Mog))
+- 水解 ([GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze))
+- JakeWnuk ([GitHub](https://github.com/jakewnuk) / [Mastodon](https://infosec.exchange/@JakeWnuk)
 - 对比 23 ([GitHub](https://github.com/kontrast23) / [Twitter](https://twitter.com/marco_preuss))
 - M3g9tr0n ([GitHub](https://github.com/m3g9tr0n) / [Twitter](https://twitter.com/m3g9tr0n))
 - 矩阵 （[GitHub](https://github.com/matrix) / [Twitter](https://twitter.com/gm4tr1x))
 - 荆棘 ([Twitter](https://twitter.com/mingadotcom))
 - 诺科沃 ([GitHub](https://github.com/n0kovo) / [Mastodon](https://infosec.exchange/@n0kovo) / [Twitter](https://twitter.com/n0kovos))
+- NSAKEY ([GitHub](https://github.com/NSAKEY) / [Twitter](https://twitter.com/_NSAKEY) / [Website](https://abigisp.com/))
+- 空模式 ([GitHub](https://github.com/NullMode) / [Mastodon](https://infosec.exchange/@nullmode_@twtr.plus) / [Twitter](https://twitter.com/nullmode_))
+- Paule965 ([Twitter](https://twitter.com/paule965))
 - 哲学家 ([GitHub](https://github.com/philsmd) / [Twitter](https://twitter.com/philsmd))
 - 罗伊斯威廉姆斯 ([GitHub](https://github.com/roycewilliams) / [Mastodon](https://infosec.exchange/@tychotithonus) / [Twitter](https://twitter.com/TychoTithonus))
 - RuraPenthe ([GitHub](https://github.com/bitcrackcyber) / [Mastodon](https://infosec.exchange/@rurapenthe) / [Twitter](https://twitter.com/RuraPenthe0))
 - S3in!c ([GitHub](https://github.com/s3inlc) / [Mastodon](https://infosec.exchange/@s3inlc) / [Twitter](https://twitter.com/s3inlc))
 - Tehnlulz（[GitHub](https://github.com/tehnlulz) / [Twitter](https://twitter.com/tehnlulz))
+- 修理工 （[GitHub](https://github.com/th3mechanic) / [Twitter](https://twitter.com/th3_m3chan1c))
+- 有毒的 （[Twitter](https://twitter.com/yiannistox))
 - 亡灵 ([GitHub](https://github.com/undeath))
 - Unix 忍者 ([GitHub](https://github.com/unix-ninja) / [Mastodon](https://infosec.exchange/@unix_ninja@twitterbridge.jannis.rocks) / [Twitter](https://twitter.com/unix_ninja))
 - 汗 ([GitHub](https://github.com/Xanadrel) / [Mastodon](https://infosec.exchange/@Xanadrel) / [Twitter](https://twitter.com/Xanadrel))
-- Paule965 ([Twitter](https://twitter.com/paule965))
 
 
 
@@ -151,7 +154,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Lookup services
 - [CMD5](https://www.cmd5.org/) - 提供在线MD5/sha1/mysql/sha256加解密服务.
-- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词列表.
+- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词表.
 - [Hashes.com](https://hashes.com/) - 具有付费功能的哈希查找服务.
 - [Hashkiller](https://hashkiller.io/) - 带有论坛的散列查找服务.
 - [Online Hash Crack](https://www.onlinehashcrack.com/) - 云密码恢复服务.
@@ -197,7 +200,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ## Wordlists
 ### Laguage specific
 - [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) - 名字、姓氏和一些阿尔巴尼亚文学的混合体.
-- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的单词列表.对于破解密码或模糊丹麦语目标很有用.
+- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的词表.对于破解密码或模糊丹麦语目标很有用.
 - [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) - 用于破解丹麦语密码的丹麦语词汇表集合.
 - [French Wordlists](https://github.com/clem9669/wordlists) - 该项目旨在提供有关人们可以用作基本密码的所有内容的法语单词列表.
 
@@ -205,7 +208,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Packet Storm Wordlists](https://packetstormsecurity.com/Crackers/wordlists/page1/) - 多种语言的大量不同单词列表.
 - [Rocktastic](https://labs.nettitude.com/tools/rocktastic/) - 包括许多在野外观察到的密码和模式排列.
 - [RockYou2021](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt 是一个由各种其他单词列表编译而成的 MASSIVE WORDLIST.
-- [WeakPass](https://weakpass.com/) - Collection of large wordlists.
+- [WeakPass](https://weakpass.com/) - 大型词汇表的集合.
 
 
 

@@ -4,7 +4,7 @@
 
 &gt; 如何为技术领导设计和执行工程战略.
 
-工程策略是由社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
+工程策略是社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
 
 欢迎投稿！ 查看将项目添加到列表的贡献指南.
 
@@ -18,6 +18,7 @@
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - 一本关于业务战略、人员、文化、数据和架构及其如何推动云速度的高级书籍.
 - [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy)  - 一组有关 IT 的 wardley 地图. 将态势感知带到不同的环境中.
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966) - 了解战略的核心组成部分.
+- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect?ac=1&from_search=true&qid=donxleC2tR&rank=1) - 使用 Wardley Mapping 和其他意义建构方法来帮助组织预测市场变化和用户需求.
 
 ## Posts
 
@@ -33,6 +34,8 @@
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - 关于战略原因、方式和内容的系列文章的第一篇.
 
 ## Videos
+
+- [Experimentation and Evolution with Wardley Maps](https://www.youtube.com/watch?v=gAh7rK2F9pk) - Cat 如何使用 Wardley Maps 来告知她不断发展的 Ticketmaster 核心票务平台现代化战略，不仅在技术能力和架构方面，而且在流程成熟度、组织设计等方面.
 
 ## Templates
 

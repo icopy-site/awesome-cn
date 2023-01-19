@@ -87,9 +87,13 @@ _Svelte框架的学习和研究._
 
 _移动用户界面框架._
 
-- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
+- [Svelte Native](https://svelte-native.technology/) - 通过 Nativescript Svelte 控制本机组件.
 - [Framework7](https://framework7.io/svelte/) - 用于构建 iOS 和 Android 应用程序的全功能 HTML 框架.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - 使用网络技术和 Svelte 构建原生移动应用程序.
+
+## State Libraries
+- [Svelte-Domain](https://github.com/thegenius/svelte-domain) - 苗条的状态管理.
+- [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - 支持异步值的 Svelte 存储合约.
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - 可访问的 Svelte 组件原语（也适用于 React、Vue 3 和 Angular）.
@@ -170,6 +174,7 @@ _开关/开/关切换/复选框._
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - 用于呈现树视图的轻量级组件.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - 用于格式化和显示版权声明的 Svelte 组件.
+- [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - MathJax 的 Svelte 组件.
 
 ## Scaffold
 
@@ -210,7 +215,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化.
-- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Svelte 的国际化库.
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
 - [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - 用于整合 [i18n](https://www.npmjs.com/package/i18n) SvelteKit 中的样式本地化.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - 基于 Web 的本地化工具，使用户能够直接在他们开发的 Svelte 应用程序中进行翻译.
 

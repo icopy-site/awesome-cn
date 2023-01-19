@@ -34,15 +34,15 @@
 
 - [Responsive templates](https://templates.emailoctopus.com/) - 来自 EmailOctopus 的免费 HTML 模板，可与任何提供商一起使用.
 - [Campaign](https://github.com/bevacqua/campaign) - 轻松编写响应式电子邮件模板，用模型填充它们，然后发送出去.
-- [Sendwithus](https://www.sendwithus.com/resources/templates) - 开源电子邮件模板
+- [Sendwithus](https://www.sendwithus.com/resources/templates) - 开源电子邮件模板.
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - 电子邮件蓝图是一组 HTML 电子邮件模板，可以作为电子邮件设计的坚实基础和起点.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - 轻松创建精美的品牌电子邮件营销活动.
 - [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) （每个模板都是响应式的，并且每个模板都已经在所有流行的电子邮件客户端中进行了测试.）
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) - Antwort 为电子邮件提供响应式布局，既适合并适应客户端宽度.
-- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板设计用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
+- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
 - [HTML Email Templates](https://www.htmlemailtemplates.net/) - 适用于初创公司和 SaaS 的响应式 HTML 电子邮件模板.
-- [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个预先测试过的模板，适用于任何邮寄服务
+- [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个经过预测试的模板，适用于任何邮寄服务.
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的 Grunt 模板.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - 响应式电子邮件的模式和模块的集合.
 - [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - 用于发送格式良好的消息的电子邮件样板.
@@ -50,6 +50,7 @@
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - 用于应用程序的坚如磐石的电子邮件模板.
 - [Stripo](https://stripo.email/templates/) - 带有 Stripo 的一组丰富的响应式、交互式精美电子邮件模板.
 - [Postcards](https://designmodo.com/postcards/) - 无需编码知识即可在线设计响应式电子邮件模板.
+- [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - 用于使用 SCSS 设计和测试响应式 HTML 电子邮件模板的 Grunt 工作流.
 
 ## Tools
 
@@ -75,9 +76,10 @@
 
 ## Services
 
-- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得简单.
+- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得容易.
 - [Mailchimp](https://mailchimp.com/) - MailChimp 为全球超过 1500 万人提供电子邮件营销服务.
 - [Mailjet](https://mailjet.com/) - 多合一电子邮件服务提供商，允许企业发送营销、交易电子邮件和电子邮件自动化.
+- [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - 人工智能驱动的电子邮件营销平台，允许使用内置组件设计电子邮件.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor 使您可以轻松创建、发送和优化您的电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) - 通过一个可靠的平台发送您的交易和营销电子邮件.
 - [Postal](https://github.com/atech/postal) - 一个功能齐全的开源邮件传送平台，用于传入和传出电子邮件.
@@ -85,13 +87,13 @@
 - [Mautic](https://mautic.com/)  - Mautic 营销自动化. 借助易于学习、易于使用且易于迭代的营销自动化，构建更智能的营销活动并更快地构建它们.
 - [Mailgun](https://www.mailgun.com/) - 面向开发人员的交易电子邮件 API 服务.
 - [eSputnik](https://esputnik.com/en) - eSputnik 是一个营销自动化系统，受到全球 3 万多名忠实客户的信赖，每月发送超过 10 亿封电子邮件.
-- [Postmark](https://postmarkapp.com)  - 闪电般快速发送您的申请电子邮件.  Postmark 每次都按时将您的交易电子邮件发送给客户
+- [Postmark](https://postmarkapp.com)  - 闪电般快速发送您的申请电子邮件.  Postmark 每次都按时将您的交易电子邮件发送给客户.
 - [ImprovMX](https://improvmx.com/) - 为您的域名创建免费的电子邮件别名.
 - [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 
 ## Self-Hosted Services
 
-- [iRedMail](https://iredmail.org/) - 易于安装的开源邮件服务器解决方案
+- [iRedMail](https://iredmail.org/) - 易于安装的开源邮件服务器解决方案.
 - [Mail-in-a-box](https://mailinabox.email/) - 让您通过几个简单的步骤成为您自己的邮件服务提供商.
 - [Mailcow](https://mailcow.email/)  - 带有“moo”的邮件服务器套件. 一个易于使用的 dockerized 自托管电子邮件解决方案.
 - [Mailtrain](https://mailtrain.org/) - 基于 Nodemailer 构建的自托管时事通讯应用程序.
@@ -100,17 +102,13 @@
 - [Poste.io](https://poste.io/) - 内置在一个 docker 容器中的完整邮件服务器.
 - [SimpleLogin](https://github.com/simple-login/app) - 自托管电子邮件别名解决方案.
 
-## Workflows
-
-- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow，使用 MJML 和 MDX 响应式电子邮件，作者：Josh W. Comeau
-- [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - 用于使用 SCSS 设计和测试响应式 HTML 电子邮件模板的 Grunt 工作流.
-- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator 是一个受 Lee Munroe 的 grunt-email-design 工作流程启发的 gulp 工作流程.
-- [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - Sitepoint 的典型电子邮件开发工作流程.
-
 ## Articles
 
+- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow，使用 MJML 和 MDX 响应电子邮件.
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) - Lee Munroe 的电子邮件设计工作流程.
-- [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - 撰写有效电子邮件的技巧
+- [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - 撰写有效电子邮件的技巧.
+- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator 是一个受 Lee Munroe 的 grunt-email-design 工作流程启发的 gulp 工作流程.
+- [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - Sitepoint 的典型电子邮件开发工作流程.
 
 ## Design
 
@@ -178,7 +176,7 @@
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端隐私功能的工具（加载远程内容）
 - [Mail Tester](https://www.mail-tester.com/) - 测试您的电子邮件的垃圾邮件
 - [Sendtest.email](https://sendtest.email/)  - 在发送前测试您的 HTML 电子邮件、⚡4email 或文本版本. 注重隐私，无需注册！
-- [Mailsnag](https://mailsnag.com/) - 为您的所有 SMTP 需求测试电子邮件服务器 - 模拟延迟和错误、预览和共享电子邮件等 - 所有这些都无需向实际客户发送电子邮件
+- [Mailsnag](https://mailsnag.com/) - 针对您的所有 SMTP 需求测试电子邮件服务器 - 模拟延迟和错误、预览和共享电子邮件等 - 所有这些都无需向实际客户发送电子邮件
 
 ## Learning
 

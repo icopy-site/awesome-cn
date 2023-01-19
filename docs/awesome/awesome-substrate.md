@@ -31,7 +31,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 ## Support
 
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - 为使用 Substrate 的有远见的团队提供白手套解决方案和专门的支持团队.
-- [Stack Exchange](https://substrate.stackexchange.com/) - 所有技术问题的最佳地点.
+- [Stack Exchange](https://substrate.stackexchange.com/) - 所有技术问题的最佳场所.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - 为生态系统发展提供资金.
 - [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - 国库资金通过对支出提案的投票进行分配.
 
@@ -56,6 +56,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Parity YouTube](https://www.youtube.com/c/paritytech)
   - [Substrate Seminar (YouTube Archive)](https://www.youtube.com/playlist?list=PLp0_ueXY_enXRfoaW7sTudeQH10yDvFOS)
+  - [Sub0 Conference Nov. 2022](https://youtube.com/playlist?list=PLOyWqupZ-WGvywLqJDsMIYdCn8QEa2ShQ)
   - [Sub0 Conference Oct. 2020](https://www.youtube.com/playlist?list=PLp0_ueXY_enUZk1RuEAU9ly5h0wy5FuLs)
   - [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
   - [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
@@ -127,7 +128,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - 基质注入 [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 包含 Polkadot{JS} 库的独立 JS 包.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 用于启动本地 Polkadot 测试网络的简单 CLI 工具.
-- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一个 [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
+- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一种 [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
 - [`polkadot-scripts`](https://github.com/paritytech/polkadot-scripts) - Parity 用于诊断 Polkadot/Kusama 的脚本集合.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地 Polkadot 测试网络的工具，重点是运行大型测试网络的能力.
 - [`srtool-actions`](https://github.com/chevdor/srtool-actions) - GitHub 操作可轻松使用 `srtool` Docker 映像构建您自己的运行时.
@@ -161,12 +162,12 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - 包含静态信息和元数据以支持 Polkadot 生态系统中的客户端应用程序将其映射到各种网络.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC Polkadot节点监控告警解决方案，兼容多条Substrate链. 
-- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于使用 Polkadot 和任何 Substrate 链进行开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于 Polkadot 和任何 Substrate 链开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - 基于 Substrate 的链的半官方区块浏览器和前端.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 用于与基于 Substrate 的链进行交互的浏览器扩展.
 - [Polkascan](https://polkascan.io/) - 由 Polkascan 基金会维护的多链区块浏览器.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - 演示基于 Substrate 原语构建的安全、方便和灵活的热钱包架构.
-- [Redspot](https://github.com/patractlabs/redspot) - 一个 [Truffle](https://www.trufflesuite.com/truffle)- 用于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
+- [Redspot](https://github.com/patractlabs/redspot) - 一种 [Truffle](https://www.trufflesuite.com/truffle)- 用于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - 与 Substrate 节点一起运行的 REST 服务.
 - [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - 显示带有所有 SS58 前缀的密钥收件人.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 一个脚本，用于解析和输出给定 Kusama 或 Polkadot 地址的质押奖励，并将它们与每日价格数据交叉引用.

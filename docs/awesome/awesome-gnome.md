@@ -20,11 +20,11 @@
 
 ### Internet and Networking
 
-- [GNOME Web](https://wiki.gnome.org/Apps/Web)  - GNOME 的官方网络浏览器项目.  ![GNOME 核心][GNOME 核心]
-- [Fragments](https://gitlab.gnome.org/World/Fragments)  - BT 客户端.  ![GNOME 圈子][GNOME 圈子]
-- [Newsflash](https://gitlab.com/news-flash/news_flash_gtk)  - RSS 提要阅读器.  ![GNOME 圈子][GNOME 圈子]
-- [Font Downloader](https://github.com/GustavoPeredo/font-downloader)  - 从谷歌字体获取字体.  ![GNOME 圈子][GNOME 圈子]
-- [Tangram](https://github.com/sonnyp/Tangram)  - 将您的网络应用程序分组到一个应用程序中.  ![GNOME 圈子][GNOME 圈子]
+- [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/)  - GNOME 的官方网络浏览器项目.  ![GNOME 核心][GNOME 核心]
+- [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/)  - BT 客户端.  ![GNOME 圈子][GNOME 圈子]
+- [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/)  - RSS 提要阅读器.  ![GNOME 圈子][GNOME 圈子]
+- [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/)  - 从谷歌字体获取字体.  ![GNOME 圈子][GNOME 圈子]
+- [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/)  - 将您的网络应用程序分组到一个应用程序中.  ![GNOME 圈子][GNOME 圈子]
 - [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直标签的网络浏览器.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - 现代邮件客户端，最初由 Yorba 创建.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - RSS/Atom 订阅阅读器.
@@ -34,7 +34,7 @@
 
 ### Office
 
-- [Apostrophe](https://gitlab.gnome.org/World/apostrophe)  - 无干扰的 Markdown 编辑器.  ![GNOME 圈子][GNOME 圈子]
+- [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/)  - 无干扰的 Markdown 编辑器.  ![GNOME 圈子][GNOME 圈子]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) - NFO 文件的简单查看器，具有预设字体和编码设置以及可点击超链接支持的文本编辑器.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 用于扫描文档和 PDF 的个人文档管理器.
 - [Foliate](https://github.com/johnfactotum/foliate) - 简单而现代的电子书阅读器.
@@ -45,21 +45,21 @@
 ### Productivity and Time
 
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo)  - 最小的任务管理器.  ![GNOME 核心][GNOME 核心]
-- [Solanum](https://gitlab.gnome.org/World/Solanum)  - 平衡工作时间和休息时间.  ![GNOME 圈子][GNOME 圈子]
+- [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/)  - 平衡工作时间和休息时间.  ![GNOME 圈子][GNOME 圈子]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - 用于跟踪时间的简单应用程序.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - 简单的番茄钟计时器.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - 时间跟踪器.
 
 ### Well Being
 
-- [Blanket](https://flathub.org/apps/details/com.rafaelmardojai.Blanket)  - 聆听不同的声音.  ![GNOME 圈子][GNOME 圈子]
-- [Health](https://flathub.org/apps/details/dev.Cogitri.Health) - 健康追踪.
+- [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/)  - 聆听不同的声音.  ![GNOME 圈子][GNOME 圈子]
+- [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - 健康追踪.
 
 ### Multimedia
 
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave)  - 基于网络的广播客户端.  ![GNOME 圈子][GNOME 圈子]
-- [Cozy](https://github.com/geigi/cozy)  - 有声读物播放器.  ![GNOME 圈子][GNOME 圈子]
-- [Video Trimer](https://gitlab.gnome.org/YaLTeR/video-trimmer)  - 快速修剪视频.  ![GNOME 圈子][GNOME 圈子]
+- [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/)  - 基于网络的广播客户端.  ![GNOME 圈子][GNOME 圈子]
+- [Cozy](https://apps.gnome.org/app/com.github.geigi.cozy/)  - 有声读物播放器.  ![GNOME 圈子][GNOME 圈子]
+- [Video Trimer](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/)  - 快速修剪视频.  ![GNOME 圈子][GNOME 圈子]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - 基于 Web 的音乐流服务的运行时，提供更原生的用户体验并与 Linux 桌面环境集成.
 - [Vocal](https://github.com/needle-and-thread/vocal) - 适用于现代免费桌面的强大、美观且简单的播客客户端.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - mpv 的简单前端.
@@ -75,8 +75,8 @@
 ### Graphics
 
 - [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail)  - 简单实用的图像压缩器.  ![GNOME 圈子][GNOME 圈子]
-- [Drawing](https://github.com/maoschanz/drawing)  - 响应绘图应用程序.  ![GNOME 圈子][GNOME 圈子]
-- [Identity](https://gitlab.gnome.org/YaLTeR/identity)  - 比较图像和视频.  ![GNOME 圈子][GNOME 圈子]
+- [Drawing](https://apps.gnome.org/app/com.github.maoschanz.drawing/)  - 响应绘图应用程序.  ![GNOME 圈子][GNOME 圈子]
+- [Identity](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/)  - 比较图像和视频.  ![GNOME 圈子][GNOME 圈子]
 - [Coulr](https://github.com/Huluti/Coulr) - 在颜色的 RGB 和十六进制代码之间转换.
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle，适用于 X11 和 Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - 强大而先进的应用程序来管理您的照片和图像.
@@ -88,8 +88,8 @@
 
 ### System and Customization
 
-- [Pika Backup](https://gitlab.gnome.org/World/pika-backup)  - 基于 borg 的简单备份.  ![GNOME 圈子][GNOME 圈子]
-- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup)  - 简单的备份工具.  ![GNOME 圈子][GNOME 圈子]
+- [Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/)  - 基于 borg 的简单备份.  ![GNOME 圈子][GNOME 圈子]
+- [Déjà Dup Backups](https://apps.gnome.org/app/org.gnome.DejaDup/)  - 简单的备份工具.  ![GNOME 圈子][GNOME 圈子]
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - 高级 GNOME 设置的图形界面.
 - [Tilix](https://github.com/gnunn1/terminix/) - 平铺终端模拟器.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - 如果您使用 Arc 或应用程序菜单等传统应用程序菜单，请管理您的应用程序类别.
@@ -100,8 +100,8 @@
 
 ### Utilities
 
-- [Dialect](https://flathub.org/apps/details/com.github.gi_lom.dialect)  - 翻译文本.  ![GNOME 圈子][GNOME 圈子]
-- [Markets](https://flathub.org/apps/details/com.bitstower.Markets)  - 股票、货币和加密货币追踪器.  ![GNOME 圈子][GNOME 圈子]
+- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/)  - 翻译文本.  ![GNOME 圈子][GNOME 圈子]
+- [Markets](https://apps.gnome.org/app/com.bitstower.Markets/)  - 跟踪您的投资.  ![GNOME 圈子][GNOME 圈子]
 - [GPaste](https://github.com/Keruspe/GPaste) - 剪贴板管理器（由一个应用程序和一个 gnome-shell 扩展组成）.
 - [Peek](https://github.com/phw/peek) - 简单的屏幕录像机，将您的录音保存为 GIF.
 - [Catfish](https://launchpad.net/catfish-search) - 简单的搜索应用程序.
@@ -114,32 +114,32 @@
 
 ### Security and Privacy
 
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/)  - 检查私人信息.  ![GNOME 圈子][GNOME 圈子]
-- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner)  - 查看和清理文件中的元数据.  ![GNOME 圈子][GNOME 圈子]
-- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe)  - 与 Keepass 兼容的密码管理器.  ![GNOME 圈子][GNOME 圈子]
+- [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/)  - 检查私人信息.  ![GNOME 圈子][GNOME 圈子]
+- [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/)  - 查看和清理文件中的元数据.  ![GNOME 圈子][GNOME 圈子]
+- [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/)  - 与 Keepass 兼容的密码管理器.  ![GNOME 圈子][GNOME 圈子]
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - 与自由桌面机密兼容的密码管理器.
 
 ### Development and Design
 
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder)  - 用于创建 GNOME 应用程序的官方 IDE.  ![GNOME 核心][GNOME 核心]
+- [GNOME Builder](https://apps.gnome.org/app/org.gnome.Builder/)  - 用于创建 GNOME 应用程序的官方 IDE.  ![GNOME 核心][GNOME 核心]
 - [Gaphor](https://gaphor.org)  - 用于 UML 和 SysML 的简单建模工具.  ![GNOME 圈子][GNOME 圈子]
-- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)  - 轻松创建@font-face 工具包.  ![GNOME 圈子][GNOME 圈子]
+- [Webfont Kit Generator](https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/)  - 轻松创建@font-face 工具包.  ![GNOME 圈子][GNOME 圈子]
 - [Commit](https://apps.gnome.org/app/re.sonny.Commit/)  - 提交消息编辑器.  ![GNOME 圈子][GNOME 圈子]
-- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof3/) - 配置应用程序或整个系统.
+- [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/)  - 学习 GNOME 技术并制作原型.  ![GNOME 圈子][GNOME 圈子]
+- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - 配置应用程序或整个系统.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - 用于浏览和搜索 API 文档的开发人员工具.
-- [Workbench](https://github.com/sonnyp/Workbench) - 学习 GNOME 技术并制作原型.
 
 #### Design Tooling
 
-- [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - 预览图标的简单实用程序.
-- [Palette](https://gitlab.gnome.org/World/design/palette) - 用于查看 GNOME 调色板的工具.
-- [Contrast](https://gitlab.gnome.org/World/design/contrast) - 检查两种颜色之间的对比度.
+- [App Icon Preview](https://apps.gnome.org/app/org.gnome.design.AppIconPreview/) - 预览图标的简单实用程序.
+- [Palette](https://apps.gnome.org/app/org.gnome.design.Palette/) - 用于查看 GNOME 调色板的工具.
+- [Contrast](https://apps.gnome.org/app/org.gnome.design.Contrast/) - 检查两种颜色之间的对比度.
 - [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - 您的应用程序的符号图标.
 - [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - 符号变得容易.
 
 ### Others
 
-- [Boxes](https://wiki.gnome.org/Apps/Boxes) - 查看、访问和管理远程和虚拟系统.
+- [Boxes](https://apps.gnome.org/en/app/org.gnome.Boxes/) - 查看、访问和管理远程和虚拟系统.
 
 ## Third-party Apps Plugins
 
@@ -170,7 +170,7 @@
 - [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE 连接实施.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) - 用于管理 docker 容器的扩展
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator 系统托盘.
-- [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+- [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) - 在所有 gnome 安装中同步 gnome shell 键绑定、调整设置和扩展及其配置.
 
 ### Windows
 - [PaperWM](https://github.com/paperwm/PaperWM) - 平铺可滚动窗口管理.
@@ -227,7 +227,7 @@
 
 ### Cursors
  - [ComixCursors](https://www.gnome-look.org/p/999996/) - 具有漫画感觉的X11鼠标主题.
- - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - 基于 Silm 材质的光标主题.
+ - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)  - 受 macOS 启发并基于 KDE Breeze 的 x 光标主题. 专为搭配 La Capitaine 标志而设计.
 
 ## Community
@@ -240,7 +240,7 @@
 - [Planet GNOME](http://planet.gnome.org/) - GNOME 开发者博客联合会.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
-- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用 GNOME IRC 频道 ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
+- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用 GNOME IRC 频道（[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 
 ### GNOME Communities
 
