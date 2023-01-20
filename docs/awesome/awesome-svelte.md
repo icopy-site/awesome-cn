@@ -61,6 +61,7 @@
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - 拉德文.
 - [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint，由 Chrome DevTools 工程师 @Jack_Franklin 提供.
 - [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin（Github）.
+- [Typescript + Svelte Cheatsheet](https://github.com/ivanhofer/sveltekit-typescript-showcase) - Svelte 和 SvelteKit 的所有 TypeScript 相关主题的概述 - @ivanhofer (Github).
 
 ### Studies
 
@@ -174,6 +175,7 @@ _开关/开/关切换/复选框._
 
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - 用于呈现树视图的轻量级组件.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - 用于格式化和显示版权声明的 Svelte 组件.
+- [svelte-splitpanes](https://github.com/orefalo/svelte-splitpanes) - 全功能可调整大小的视图面板
 - [mathjax-svelte](https://github.com/WoolDoughnut310/mathjax-svelte) - MathJax 的 Svelte 组件.
 
 ## Scaffold
@@ -198,6 +200,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [felte](https://felte.dev/) - 可扩展的表单库，内置 Yup、Zod、Vest 和 Superstruct 验证.
 - [vest](https://github.com/ealush/vest) - 受单元测试启发的声明式表单验证框架.
 - [svelte-formly](https://github.com/arabdevelop/svelte-formly) - 使用具有自定义样式的核心和自定义规则来生成和控制动态表单的良好解决方案.
+- [svelte-form-builder](https://github.com/pragmatic-engineering/svelte-form-builder-community) - 为 Svelte 构建的无代码拖放表单生成器
 
 ### WebGL
 

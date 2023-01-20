@@ -6,7 +6,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
-&gt; 精选的物联网项目和资源清单.
+&gt; 精选的物联网项目和资源列表.
 
 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
@@ -333,6 +333,10 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许对工业环境�
 #### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1) (2013) *by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)* [4.0]
 
  &gt; 无论是物理计算、普适计算还是物联网，都是技术领域的热门话题：如何引导内心的史蒂夫·乔布斯，成功地将硬件、嵌入式软件、网络服务、电子产品和炫酷的设计结合起来，创造出切割-有趣、互动且实用的边缘设备. 如果你想创造下一个必备产品，这本独特的书是完美的起点.
+
+#### [Edge Computing Technology and Application](https://www.manning.com/books/edge-computing-technology-and-applications) (2023) *by [Perry Lea](https://www.linkedin.com/in/perrylea/) 
+
+&gt; 这本来自资深技术专家 Perry Lea 的严肃指南剖析了流行语，揭示了边缘计算如何影响您的业务和 IT 决策，从硬件和软件系统到您与客户、客户和员工的互动方式.
 
 #### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* [4.5]
 

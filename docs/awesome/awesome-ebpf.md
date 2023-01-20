@@ -66,7 +66,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [Linux BPF Superpowers](http://www.slideshare.net/brendangregg/linux-bpf-superpowers) - 介绍主要涵盖跟踪方面，第一部分是火焰图.
 - [IO Visor](https://www.socallinuxexpo.org/sites/default/files/presentations/Room%20211%20-%20IOVisor%20-%20SCaLE%2014x.pdf) - 还介绍 [IO Visor project](https://www.iovisor.org/).
 - [BPF -- in-kernel virtual machine](http://vger.kernel.org/netconf2015Starovoitov-bpf_collabsummit_2015feb20.pdf) - eBPF 作者的演讲.
-- [Extending extended BPF](https://lwn.net/Articles/603983/) - 2014 年的一篇关于 BPF 开发的博文并演示了它可以做什么，使用了一个通过将 eBPF 程序附加到套接字来进行有状态套接字过滤的示例.
+- [Extending extended BPF](https://lwn.net/Articles/603983/) - 2014 年的一篇关于 BPF 开发的博文，并演示了它可以做什么，使用了一个通过将 eBPF 程序附加到套接字来进行有状态套接字过滤的示例.
 - Greg Marsden 制作了一些关于 eBPF 的文档：
   - [A Tour of Program Types](https://blogs.oracle.com/linux/notes-on-bpf-1) - 对 BPF 程序类型的所有现有钩子及其兴趣的描述.
   - [BPF helper functions](https://blogs.oracle.com/linux/notes-on-bpf-2) - 回顾可以从 eBPF 程序中调用的内核函数.
@@ -103,14 +103,14 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ### XDP
 
 - [The eXpress Data Path](https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/) - 非常容易理解的 XDP 介绍，提供示例代码来展示如何处理数据包.
-- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，作者是 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller，他们都是重要的 eBPF 和 XDP 贡献者.
+- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，由 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller 撰写，他们都是重要的 eBPF 和 XDP 贡献者.
 - [Work-in-progress documentation for XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html)
 - [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - 来自 Cilium 项目的指南.
 - [XDP Project overview](https://www.iovisor.org/technology/xdp)
 - [eXpress Data Path (XDP)](https://github.com/iovisor/bpf-docs/raw/master/Express_Data_Path.pdf) - 关于 XDP 的第一个演示.
 - [BoF - What Can BPF Do For You?](https://events.linuxfoundation.org/sites/events/files/slides/iovisor-lc-bof-2016.pdf)
 - [eXpress Data Path](http://www.slideshare.net/IOVisor/express-data-path-linux-meetup-santa-clara-july-2016) - 包含一些使用 mlx4 驱动程序获得的基准测试结果.
-- Jesper Dangaard Brouer has several sets of slides describing the internals of XDP:
+- Jesper Dangaard Brouer 有几组幻灯片描述了 XDP 的内部结构：
 
   - [XDP − eXpress Data Path, Intro and future use-cases](http://people.netfilter.org/hawk/presentations/xdp2016/xdp_intro_and_use_cases_sep2016.pdf)  - Linux 内核与 DPDK 的斗争.  XDP 的未来计划（截至撰写本文时）以及与 DPDK 的比较.
   - [Network Performance Workshop](http://netdevconf.org/1.2/session.html?jesper-performance-workshop) - 关于 XDP 内部结构和预期演变的其他提示.
@@ -187,8 +187,8 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ### bcc
 
-- [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监控. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
-- [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - Another alternative to C, and even to most of the Python code used in bcc.
+- [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监视. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
+- [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - C 的另一种替代方案，甚至是 bcc 中使用的大多数 Python 代码的替代方案.
 
 ### iproute2
 
@@ -226,7 +226,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 之后：
 
   - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和映射进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除映射，或附加和分离程序到 cgroups.
-  - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编器.
+  - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编程序.
   - [`bpf_dbg`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_dbg.c) - 用于 cBPF 程序的小型调试器.
   - [`bpf_jit_disasm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_jit_disasm.c) - 两种 BPF 风格的反汇编器，对 JIT 调试非常有用.
 
@@ -270,7 +270,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
   - [Coupling the Flexibility of OVN with the Efficiency of IOVisor](http://openvswitch.org/support/ovscon2016/7/1245-bertrone.pdf)
 
 - [Katran](https://code.fb.com/open-source/open-sourcing-katran-a-scalable-network-load-balancer/) - 基于 XDP 的第 4 层负载均衡器，由 Facebook 开源.
-- [XDP in practice: integrating XDP in our DDoS mitigation pipeline](http://netdevconf.org/2.1/session.html?bertin) - 在 Cloudflare 使用 XDP 防御 DDoS.
+- [XDP in practice: integrating XDP in our DDoS mitigation pipeline](http://netdevconf.org/2.1/session.html?bertin) - Protection against DDoS with XDP at Cloudflare.
 - [Droplet: DDoS countermeasures powered by BPF + XDP](http://netdevconf.org/2.1/session.html?zhou) - 在 Facebook 使用 XDP 防御 DDoS.
 - [DPDK has a poll-mode driver (PMD) based on AF_XDP](https://dpdkuserspace2018.sched.com/event/G45Z/dpdk-pmd-for-afxdp)
 - [CETH for XDP](http://www.slideshare.net/IOVisor/ceth-for-xdp-linux-meetup-santa-clara-july-2016) - 用于更快网络 I/O 的通用以太网驱动程序框架，这是一项由 Mellanox 发起的技术.
@@ -311,6 +311,9 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [merbridge](https://github.com/merbridge/merbridge/)  - 使用 eBPF 来加速您的服务网格.  Merbridge 用 eBPF 替换 iptables 规则来拦截流量. 它还结合了 msg_redirect 以通过缩短边车和服务之间的数据路径来减少延迟.
 - [parca-agent](https://github.com/parca-dev/parca-agent) - 基于 eBPF 的始终在线的连续分析器，用于分析 CPU 和内存使用情况，细化到行号和整个时间.
 - [rbperf](https://github.com/javierhonduco/rbperf) - Ruby 的采样分析器和跟踪器.
+- [Tetragon](https://github.com/cilium/tetragon) - Kubernetes 感知、基于 eBPF 的安全可观察性和运行时执行.
+- [Hubble](https://github.com/cilium/hubble) - 使用 eBPF 的 Kubernetes 网络、服务和安全可观察性.
+- [Caretta](https://github.com/groundcover-com/caretta) - 由 eBPF 生成的即时 Kubernetes 服务依赖关系图，直接指向 Grafana 实例.
 
 ## eBPF in Security
 
@@ -344,7 +347,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  - BPF 补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身会为每个版本合并到 Linus 的树中.
 - [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - 关于对 BPF 的贡献.
 - [The netdev mailing list](http://lists.openwall.net/netdev/)  - 用于 Linux 内核网络堆栈开发的邮件列表. 所有补丁都发送到那里以供审查和包含.
-- [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - 专门用于 XDP 编程的邮件列表（用于架构或寻求帮助）.
+- [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - A mailing list specially dedicated to XDP programming (both for architecture or for asking for help).
 - [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF 是项目的核心，并定期在邮件列表中进行讨论.
 - [@IOVisor Twitter account](https://twitter.com/IOVisor)
 - [The XDP Collaboration Project](https://github.com/xdp-project/xdp-project) - 一个 GitHub 存储库，其中包含有关 XDP 未来发展的注释和想法.
@@ -367,4 +370,4 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权利.
+在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权.

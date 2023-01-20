@@ -70,7 +70,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Docker Quick Tutorial](https://vegibit.com/docker-quick-tutorial/) 向您介绍使用 Windows 10 和 Hyper-V 的官方入门教程.
 -   [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://docs.mirantis.com/containers/v3.0/dockeree-ref-arch/app-dev/modernize-dotnet-apps.html) - 您将学习识别适合容器化的 .NET Framework 应用程序类型，容器化的“提升和转移”方法.
 -   [Docker with Microsoft SQL 2016 + ASP.NET](https://blog.alexellis.io/docker-does-sql2016-aspnet/) 在 Docker 中运行 ASP.NET 和 SQL Server 工作负载的演示
--   [Exploring ASP.NET Core with Docker in both Linux and Windows Containers](https://www.hanselman.com/blog/exploring-aspnet-core-with-docker-in-both-linux-and-windows-containers) Running ASP.NET Core apps in Linux and Windows containers, using [Docker for Windows][docker-for-windows]
+-   [Exploring ASP.NET Core with Docker in both Linux and Windows Containers](https://www.hanselman.com/blog/exploring-aspnet-core-with-docker-in-both-linux-and-windows-containers) 使用 [Docker for Windows][docker-for-windows] 在 Linux 和 Windows 容器中运行 ASP.NET Core 应用程序
 -   [Running a Legacy ASP.NET App in a Windows Container](https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/) 对旧版 ASP.NET 应用进行 Docker 化并作为 Windows 容器运行的步骤
 -   [Windows Containers and Docker: The 101](https://www.youtube.com/watch?v=N7SG2wEyQtM) :movie_camera: - 20 分钟的概述，使用 Docker 运行 PowerShell、ASP.NET Core 和 ASP.NET 应用程序
 -   [Windows Containers Quick Start](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/) Windows 容器概述，深入了解 Windows 10 和 Windows Server 2016 快速入门
@@ -191,7 +191,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [ManageIQ](https://github.com/ManageIQ/manageiq)  - 发现、优化和控制您的混合 IT. 经过 [ManageIQ](https://github.com/ManageIQ)
 -   [Mantl](https://github.com/mantl/mantl) - Mantl 是一个用于快速部署全球分布式服务的现代平台
 -   [Marathon](https://github.com/mesosphere/marathon)  - Marathon 是一个基于 Mesos 构建的私有 PaaS. 它会自动处理硬件或软件故障并确保应用程序“始终在线”
--   [Mesos](https://github.com/apache/mesos) - Resource/Job scheduler for containers, VM's and physical hosts [@apache](https://mesos.apache.org/)
+-   [Mesos](https://github.com/apache/mesos) - 容器、虚拟机和物理主机的资源/作业调度程序 [@apache](https://mesos.apache.org/)
 -   [Nebula](https://github.com/nebula-orchestrator) - 旨在管理大规模分布式集群的 Docker 编排工具.
 -   [Nomad](https://github.com/hashicorp/nomad)  - 轻松部署任何规模的应用程序. 一个分布式的、高可用的、数据中心感知的调度器 [@hashicorp](https://github.com/hashicorp)
 -   [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) :skull: - 一个开源项目，使部署复杂的容器化应用程序像 [@CenturyLinkLabs][centurylinklabs] 的拖放一样简单.
@@ -259,9 +259,9 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [oscap-docker](https://github.com/OpenSCAP/openscap)  - OpenSCAP 提供了用于扫描 Docker 容器和镜像的 oscap-docker 工具. 经过 [OpenSCAP](https://github.com/OpenSCAP)
 -   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: -（以前的 Twistlock 安全套件）检测漏洞，强化容器映像，并在应用程序的整个生命周期中实施安全策略.
 -   [Sysdig Falco](https://github.com/falcosecurity/falco)  - Sysdig Falco 是一个开源容器安全监视器. 它可以监控应用程序、容器、主机和网络活动，并对未经授权的活动发出警报.
--   [Sysdig Secure](https://sysdig.com/use-cases/cloud-threat-detection-and-response/) ：heavy_dollar_sign： - Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
+-   [Sysdig Secure](https://sysdig.com/use-cases/cloud-threat-detection-and-response/) ：heavy_dollar_sign：-Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
 -   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy_dollar_sign: - Trend Micro DeepSecurity 为容器工作负载和主机提供运行时保护，以及图像的运行前扫描以识别漏洞、恶意软件和硬编码秘密等内容.
--   [Trivy](https://github.com/aquasecurity/trivy) - Aqua Security 的开源简单而全面的容器漏洞扫描器（适用于 CI）.
+-   [Trivy](https://github.com/aquasecurity/trivy) - Aqua Security's open source simple and comprehensive vulnerability scanner for containers (suitable for CI).
 
 ### Service Discovery
 
@@ -291,7 +291,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 #### IDE integrations
 
 - JetBrains IDE（IntelliJ IDEA、GoLand、WebStorm、CLion 等）具有 [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
-- 日蚀 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
+- 日食 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
 -   [docker.vim](https://github.com/skanehira/docker.vim)  - 在 Vim 中管理 docker 容器和图像. 通过 [@skanehira]
 -   [docker.el](https://github.com/Silex/docker.el) 通过 Emacs 管理 docker [@Silex](https://github.com/Silex)
 
@@ -408,7 +408,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [BuildKit](https://github.com/moby/buildkit) - 并发、高速缓存高效且与 Dockerfile 无关的构建器工具包，作者： [@moby project](https://github.com/moby)
 -   [cekit](https://github.com/cekit/cekit) - openshift 使用不同的构建引擎构建基础镜像的工具 [@cekit](https://github.com/cekit).
 -   [container-diff](https://github.com/GoogleContainerTools/container-diff) - [@GoogleContainerTools][googlecontainertools] 用于比较和分析容器图像的图像工具
--   [container-factory](https://github.com/mutable/container-factory) - 从应用程序源代码的压缩包中生成 Docker 镜像 [@mutable](https://github.com/mutable)
+-   [container-factory](https://github.com/mutable/container-factory) - Produces Docker images from tarballs of application source code by [@mutable](https://github.com/mutable)
 -   [copy-docker-image](https://github.com/mdlavin/copy-docker-image) - 在没有完整 Docker 安装的情况下在注册表之间复制 Docker 映像 [@mdlavin](https://github.com/mdlavin)
 -   [Derrick](https://github.com/alibaba/derrick)  - 一个工具可以帮助您通过扫描代码自动生成 Dockerfile 和 dockerize 应用程序. 经过 [@alibaba](https://github.com/alibaba).
 -   [dlayer](https://github.com/orisano/dlayer) - docker层分析器 [@orisano](https://github.com/orisano)
@@ -443,7 +443,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph)  - 可视化您的多阶段 Dockerfile. 经过 [@PatrickHoefler](https://github.com/patrickhoefler)
 -   [Dockershelf](https://github.com/Dockershelf/dockershelf)  - 一个存储库，用作通用、高效和苗条的 docker 食谱的收集器. 图像通过 Travis cron 作业每天更新、测试和发布. 维护者 [@CollageLabs](https://github.com/CollageLabs).
 -   [dockmoor](https://github.com/MeneDev/dockmoor)  ：构造： - 管理 docker 图像引用并帮助使用 Docker 创建可重现的构建. 经过 [@MeneDev](https://github.com/MeneDev)
--   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 镜像
+-   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 图像
 
 示例：
 
@@ -485,6 +485,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Docker Hub](https://hub.docker.com/) 由 Docker Inc. 提供
 - [Docker Registry v2][distribution] - 用于打包、运送、存储和交付内容的 Docker 工具集
 -   [Docket](https://github.com/netvarun/docket) - 允许通过 bittorrent 进行闪电般快速部署的自定义 docker 注册表 [@netvarun](https://github.com/netvarun/)
+-   [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) - 基于p2p技术提供高效、稳定、安全的文件分发和图片加速.
 -   [GCE Container Registry :heavy_dollar_sign:](https://cloud.google.com/container-registry/) Google Cloud Platform 上快速、私有的 Docker 镜像存储
 -   [GitLab Container Registry](https://docs.gitlab.com/ee/user/packages/container_registry/) - Registry 专注于在 GitLab CI 中使用其图像
 -   [Harbor](https://github.com/goharbor/harbor) 一个开源的可信云原生注册表项目，用于存储、签名和扫描内容. 支持复制、用户管理、访问控制和活动审计. 经过 [CNCF](https://github.com/veggiemonk/awesome-docker/blob/master/Sandbox) 以前是 [VMWare][vmware]
@@ -686,7 +687,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 ## Awesome Lists
 
 -   [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd) - 不特定于 docker 但相关.
--   [Awesome Compose](https://github.com/docker/awesome-compose) - Docker 组合样本
+-   [Awesome Compose](https://github.com/docker/awesome-compose) - Docker 组合示例
 -   [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 通过 [@ramitsurana][ramitsurana]
 -   [Awesome Linux Container](https://github.com/Friz-zy/awesome-linux-containers) 关于容器比这个 repo 更一般，通过 [@Friz-zy](https://github.com/Friz-zy).
 -   [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) 自由软件网络服务和 Web 应用程序的列表，它们可以通过以经典方式运行（设置本地 Web 服务器并从那里运行应用程序）或在 Docker 容器中运行来本地托管. 经过 [@Kickball](https://github.com/Kickball)
@@ -803,7 +804,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 [泊坞窗]：https://github.com/docker
 [editreadme]：https://github.com/veggiemonk/awesome-docker/edit/master/README.md
 [fgrehm]：https://github.com/fgrehm
-[gesellschaftlix]：https://github.com/gesellschaftlix
+[gesellschaftlix]: https://github.com/gesellschaftlix
 [genuinetools]: https://github.com/genuinetools
 [滑翔机实验室]：https://github.com/gliderlabs
 [语法]：https://github.com/grammarly

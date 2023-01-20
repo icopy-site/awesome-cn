@@ -23,7 +23,7 @@
 - [runner](https://github.com/Naheel-Azawy/runner) - 一种自动运行/编译以各种编程语言编写的代码的工具.
 - [symlinker](https://github.com/serkonda7/symlinker) - 一个用于管理符号链接的小型 Linux 工具.
 - [vast](https://github.com/lydiandy/vast) - 一个简单的vlang工具，生成v源文件到AST json文件.
-- [verve](https://github.com/MohammadMD1383/verve) - 简单快速的静态文件服务器.
+- [verve](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建二维码的 CLI.
@@ -131,7 +131,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
-- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
+- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
 
 ### Game development
 
@@ -245,9 +245,32 @@
 
 ### Editor plugins
 
+#### Atom
+
+- [language-v](https://github.com/Cutlery-Drawer/language-v) - 对 Atom 的 V 语言支持（vscode-vlang 的端口）.
+
+#### Emacs
+
+- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
+- [v-mode](https://github.com/damon-kwok/v-mode) - V 编程语言的 Emacs 主要模式.
+
+#### Sublime Text 3
+
 - [sublime-v](https://github.com/onerbs/sublime-v) - 用于 V 编程语言的全功能 Sublime Text 3 包.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
+
+#### VS Code
+
 - [vscode-vlang](https://github.com/vlang/vscode-vlang) - Visual Studio Code 的 V 语言扩展.
+
+#### Vim
+
+- [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的质量语法突出显示.
+- [v-vim](https://github.com/ollykel/v-vim) - 支持 Vim 中的 V 语法突出显示.
 - [vim-vtools](https://github.com/zakuro9715/vim-vtools) - Vim 的 V 工具，包括自动格式化.
+
+#### IntelliJ & CLion & GoLand etc
+
 - [IntelliJ V](https://github.com/intellij-v/intellij-v) - 适用于 IntelliJ IDEA 和其他 JetBrains IDE 的插件.
 
 ### Forums
@@ -277,19 +300,13 @@
 
 - [Advent of Code 2022](https://github.com/vlang/adventofcode) - V 中代码 2022 的出现解决方案.
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) - V 中代码 2019 的出现解决方案.
-- [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) - V 中 Rosetta 代码的解决方案.
+- [Rosetta Code in V](https://rosettacode.org/wiki/Category:V_(Vlang)) - V 中 Rosetta 代码的解决方案.
 - [SoloLearn Coding Challenges](https://github.com/Serkonda/v-sololearn-coding-challenges) - 在 V 中实施 SoloLearn 编码挑战.
 
 ### Syntax highlighting
 
 - [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) - V 语法高亮显示 [Kate](https://kate-editor.org/).
-- [language-v](https://github.com/Cutlery-Drawer/language-v) - 对 Atom 的 V 语言支持（vscode-vlang 的端口）.
 - [scite-v-support](https://github.com/sunnylcw/scite-v-support) - V 语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
-- [vim-v](https://github.com/cheap-glitch/vim-v) - V 编程语言的质量语法突出显示.
-- [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) - V 编程语言的 Emacs 主要模式.
-- [vlang-sublime](https://github.com/oversoul/vlang-sublime) - Sublime text 3 支持 Vlang 编程语言.
-- [v-mode](https://github.com/damon-kwok/v-mode) - V 编程语言的 Emacs 主要模式.
-- [v-vim](https://github.com/ollykel/v-vim) - 支持 Vim 中的 V 语法突出显示.
 
 ### Tutorials
 
