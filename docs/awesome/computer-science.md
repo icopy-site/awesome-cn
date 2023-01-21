@@ -38,7 +38,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 当没有课程符合上述标准时，课程作业将辅以一本书.
 当有课程或书籍不适合课程但质量很高时，
-他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 要么 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
+他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 或者 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
 
  **组织**. 课程设计如下：
 - *Intro CS*：让学生尝试 CS，看看它是否适合他们
@@ -305,7 +305,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 `parallel computing`
 `面向对象的分析与设计`
 `UML`
-`大型软件架构和设计`
+`大型软件架构与设计`
 `还有更多`
 
 课程 | 持续时间 | 努力 | 先决条件
@@ -363,7 +363,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
-[Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) ) |  8 周 |  10 小时/周 | 离散数学、逻辑、算法
+[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alt](http://aduni.org/courses/theory/index.php?view=cw) ) |  13 周 |  10 小时/周 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), 逻辑, 算法
 [Computational Geometry](https://www.edx.org/course/computational-geometry)  |  16 周 |  8 小时/周 | 算法，C++
 [Game Theory](https://www.coursera.org/learn/game-theory-1)  |  8 周 |  3 小时/周 | 数学思维，概率，微积分
 
@@ -384,8 +384,8 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  |  14 周 |  12 小时/周 | 并存课程：线性代数的本质| [chat](https://discord.gg/k7nSWJH)
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm) |  14 周 |  12 小时/周 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/)  |  10 周 |  4-8 小时/周 | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
-[Probability](https://projects.iq.harvard.edu/stat110/home)  |  24 周 |  12 小时/周 | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/)  |  10 周 |  4-8 小时/周 | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
+[Probability](https://projects.iq.harvard.edu/stat110/home)  |  15 周 |  5-10 小时/周 | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
 ## Final project
 

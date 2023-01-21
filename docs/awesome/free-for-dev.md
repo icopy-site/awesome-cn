@@ -322,7 +322,7 @@
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free)  — Microsoft Teams 是一个基于聊天的数字中心，它将对话、内容和应用集中在一个地方，所有这些都来自一次体验. 最多 50 万用户免费.
   * [Miro](https://miro.com/)  - 适用于分布式团队的可扩展、安全、跨设备和企业级团队协作白板. 使用免费增值计划.
   * [nootiz](https://www.nootiz.com/) - 在任何网站上收集和管理视觉反馈的首选工具
-  * [Notion](https://www.notion.so/)  - Notion 是一个笔记和协作应用程序，具有 markdown 支持，还集成了任务、wiki 和数据库. 该公司将这款应用描述为一个集笔记、项目管理和任务管理于一体的工作空间. 除了跨平台应用程序之外，它还可以通过大多数网络浏览器访问.
+  * [Notion](https://www.notion.so/)  - Notion 是一个笔记和协作应用程序，具有 markdown 支持，还集成了任务、wiki 和数据库. 该公司将这款应用描述为一个集笔记、项目管理和任务管理于一体的工作区. 除了跨平台应用程序之外，它还可以通过大多数网络浏览器访问.
   * [Nuclino](https://www.nuclino.com)  - 一个轻量级的协作 wiki，用于您团队的所有知识、文档和笔记. 具有所有基本功能的免费计划，最多 50 个项目，5GB 总存储空间.
   * [Quidlo Timesheets](https://www.quidlo.com/timesheets)  - 一个简单的团队时间表和时间跟踪应用程序. 免费计划具有时间跟踪和生成报告功能，最多可供 10 个用户使用.
   * [PageShare.dev](https://www.pageshare.dev)  - 无需部署网站即可在 GitHub Pull Requests 中添加视觉评论功能. 每月最多免费提供 10 页，总共 100MB 的存储空间.
@@ -340,7 +340,7 @@
   * [talky.io](https://talky.io/)  — 免费群组视频聊天. 匿名的. 点对点. 无需插件、注册或付款
   * [Teamhood](https://teamhood.com/)  - 免费的项目、任务和问题跟踪软件. 通过泳道和完整的 Scrum 实施支持看板. 具有集成的时间跟踪.  5 个用户和 3 个项目组合免费.
   * [Teamplify](https://teamplify.com)  - 通过 Team Analytics 和 Smart Daily Standup 改进团队开发流程. 包括面向远程优先团队的全功能休假管理. 最多 5 个用户的小型团队免费.
-  * [Tefter](https://tefter.io)  - 具有强大的 Slack 集成的书签应用程序. 对开源团队免费.
+  * [Tefter](https://tefter.io)  - 具有强大的 Slack 集成功能的书签应用程序. 对开源团队免费.
   * [TeleType](https://teletype.oorja.io/)  ——共享终端、语音、代码、白板等. 无需登录，为开发人员提供端到端的加密协作.
   * [TimeCamp](https://www.timecamp.com/)  - 无限用户的免费时间跟踪软件. 轻松与 Jira、Trello、Asana 等 PM 工具集成.
   * [twist.com](https://twist.com)  — 一个异步友好的团队沟通应用程序，其中的对话保持井井有条且切题. 提供免费和无限计划. 为符合条件的团队提供折扣.
@@ -387,10 +387,10 @@
 
 ## Code Quality
 
-  * [SoftaCheck](https://www.softacheck.com/)  — 在线工具，使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析，并使用doxygen为用户自动生成代码文档. 该工具可免费使用.
-  * [beanstalkapp.com](https://beanstalkapp.com/) — 编写、审查和部署代码的完整工作流程），1 个用户的免费帐户和 1 个存储空间为 100 MB 的存储库
+  * [SoftaCheck](https://www.softacheck.com/)  — 一款在线工具，使用cppcheck、clang-tidy等开源工具对C/C++代码进行静态分析，并使用doxygen为用户自动生成代码文档. 该工具可免费使用.
+  * [beanstalkapp.com](https://beanstalkapp.com/) — A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage
   * [browserling.com](https://www.browserling.com/) — 实时交互式跨浏览器测试，在 Vista 下以 1024 x 768 分辨率与 MS IE 9 进行仅 3 分钟的免费会话
-  * [codacy.com](https://www.codacy.com/) — PHP、Python、Ruby、Java、JavaScript、Scala、CSS 和 CoffeeScript 的自动代码审查，免费用于无限的公共和私人存储库
+  * [codacy.com](https://www.codacy.com/) — PHP、Python、Ruby、Java、JavaScript、Scala、CSS 和 CoffeeScript 的自动代码审查，免费用于无限制的公共和私人存储库
   * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  - 作为 DevOps 代码审查工具的自动化基础架构与 GitHub、Bitbucket 和 GitLab（甚至是自托管）集成. 除了标准语言外，它还分析 Ansible、Terraform、CloudFormation、Kubernetes 等.  （开源免费）
   * [CodeBeat](https://codebeat.co)  — 适用于多种语言的自动代码审查平台. 通过 Slack 和电子邮件集成，永久免费使用公共存储库.
   * [codeclimate.com](https://codeclimate.com/)  — 自动代码审查，免费用于开源和无限制的组织拥有的私人回购（最多 4 个合作者）. 对学生和机构也免费.
@@ -848,7 +848,7 @@
   * [Typeform.com](https://www.typeform.com/)  — 在网站上包含设计精美的表格. 免费计划只允许每个表单 10 个字段和每月 100 个回复.
   * [WaiverStevie.com](https://waiverstevie.com)  - 带有 REST API 的电子签名平台. 使用 webhook 接收通知. 免费计划水印签名文件，但允许无限制的信封+签名.
   * [Web3Forms](https://web3forms.com)  - 静态和 JAMStack 网站的联系表格，无需编写后端代码. 免费计划允许无限表单、无限域和每月 250 次提交.
-  * [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account, 100 responses per month, 10 elements per survey.
+  * [WebAsk](https://webask.io)  - 调查和表格生成器. 免费计划每个账户有 3 个调查，每月 100 个回复，每个调查 10 个元素.
   * [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
   * [formpost.app](https://formpost.app)  - 免费、无限制的表格到电子邮件服务. 免费设置自定义重定向、自动响应、webhooks 等.
   * [Formester.com](https://formester.com)  - 在您的网站上共享和嵌入外观独特的表格——创建的表格数量或计划限制的功能没有限制. 每月最多可免费提交 100 篇文章.
@@ -964,6 +964,7 @@
   * [BudiBase](https://budibase.com/)  — Budibase 是一个开源低代码平台，可在几分钟内创建内部应用程序. 支持 PostgreSQL、MySQL、MSSQL、MongoDB、Rest API、Docker、K8s
   * [appsmith](https://www.appsmith.com/)  — 用于构建管理面板、内部工具和仪表板的低代码项目. 与超过 15 个数据库和任何 API 集成.
   * [ToolJet](https://www.tooljet.com/)  — 用于构建业务应用程序的可扩展低代码框架. 连接到数据库、云存储、GraphQL、API 端点、Airtable 等，并使用拖放式应用程序构建器构建应用程序.
+  * [ReTool](https://retool.com/)  — 用于构建内部应用程序的低代码平台.  Retool 是高度可破解的. 如果您可以使用 JavaScript 和 API 编写它，则可以在 Retool 中构建它. 免费套餐每月最多允许五个用户、无限的应用程序和 API 连接.
 
 
 ## Web Hosting
@@ -980,7 +981,7 @@
   * [Freehostia](https://www.freehostia.com)  — FreeHostia 提供免费托管服务，包括. 业界最佳的控制面板和 50 多个免费应用程序的一键式安装. 即时设置. 没有强制广告.
   * [Neocities](https://neocities.org) — 静态、1 GB 免费存储空间和 200 GB 带宽.
   * [Netlify](https://www.netlify.com/) — 为 100 GB 数据和 100 GB/月带宽免费构建、部署和托管静态站点/应用程序.
-  * [pantheon.io](https://pantheon.io/)  — Drupal 和 WordPress 托管、自动化 DevOps 和可扩展的基础设施. 对开发商和机构免费. 没有自定义域.
+  * [pantheon.io](https://pantheon.io/)  — Drupal 和 WordPress 托管、自动化 DevOps 和可扩展的基础架构. 对开发商和机构免费. 没有自定义域.
   * [readthedocs.org](https://readthedocs.org/) — 带有版本控制、PDF 生成等功能的免费文档托管
   * [render.com](https://render.com) — 使用免费 SSL、全球 CDN、专用网络、Git 自动部署以及完全免费的 Web 服务、数据库和静态网页计划构建和运行应用程序和站点的统一云.
   * [SourceForge](https://sourceforge.net/) — 免费查找、创建和发布开源软件
@@ -1244,7 +1245,7 @@
   * [Gradientos](https://www.gradientos.app) - 使选择渐变变得快速和容易.
   * [Icon Horse](https://icon.horse) – 从我们简单的 API 获取任何网站的最高分辨率图标.
   * [Icons8](https://icons8.com)  — 图标、插图、照片、音乐和设计工具. 免费计划提供较低分辨率的有限格式. 使用我们的资产时链接到 Icons8.
-  * [Invision App](https://www.invisionapp.com)  - UI 设计和原型制作工具. 提供桌面和网络应用程序. 免费与 1 个活动原型一起使用.
+  * [Invision App](https://www.invisionapp.com)  - UI 设计和原型制作工具. 桌面和网络应用程序可用. 免费与 1 个活动原型一起使用.
   * [landen.co](https://www.landen.co)  — 为您的初创公司生成、编辑和发布漂亮的网站和登陆页面. 全部没有代码. 免费层允许您拥有一个网站，完全可定制并在网络上发布.
   * [lensdump.com](https://lensdump.com/) - 免费云图像托管.
   * [Lorem Picsum](https://picsum.photos/)  - 免费工具，易于使用的时尚占位符. 只需在我们的网址后添加您想要的图片尺寸（宽度和高度），您就会得到一张随机图片.
@@ -1412,7 +1413,7 @@
    * [Expensify](https://www.expensify.com/) — 费用报告，免费的个人报告审批流程
    * [getinsights.io](https://getinsights.io) - 以隐私为中心、无 cookie 的分析，每月最多可免费处理 5000 个事件.
    * [heap.io](https://heap.io)  — 自动捕获 iOS 或网络应用程序中的每个用户操作. 每月最多 5,000 次免费访问
-   * [Hotjar](https://hotjar.com) — Website Analytics and Reports . Free Plan allows 2000 pageviews/day. 100 snapshots/day (max capacity: 300). 3 snapshot heatmaps which can be stored for 365 days. Unlimited Team Members.
+   * [Hotjar](https://hotjar.com)  — 网站分析和报告. 免费计划允许 2000 次页面浏览/天. 每天 100 个快照（最大容量：300）.  3 张快照热图，可存储 365 天. 无限的团队成员.
    * [Keen](https://keen.io/)  — 用于数据收集、分析和可视化的自定义分析. 每月 50,000 个事件免费
    * [Yandex.Metrica](https://metrica.yandex.com/) — 无限制的免费分析
    * [Mixpanel](https://mixpanel.com/) — 每月 100,000 名跟踪用户、无限数据历史和席位、美国或欧盟数据驻留
@@ -1443,7 +1444,7 @@
    * [LogRocket.com](https://www.logrocket.com) - 1,000 个会话/月，保留 30 天，错误跟踪，实时模式
    * [FullStory.com](https://www.fullstory.com)  — 1,000 个会话/月，数据保留 1 个月和 3 个用户席位. 更多信息 [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
    * [hotjar.com](https://www.hotjar.com/) — 每个站点：1,050 页浏览量/月，无限热图，数据存储 3 个月，...
-   * [inspectlet.com](https://www.inspectlet.com/) — 1 个网站每月 2,500 个会话免费
+   * [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for 1 website
    * [Microsoft Clarity](https://clarity.microsoft.com/) - 会话录制完全免费，“无流量限制”，无项目限制，无采样
    * [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for 1 website
    * [mousestats.com](https://www.mousestats.com/) — 1 个网站每月 100 个会话免费
@@ -1608,7 +1609,7 @@
 ## Other Free Resources
 
   * [get.localhost.direct](https://get.localhost.direct) — 更好的 `*.localhost.direct` 通配符公共 CA 签名 SSL 证书，用于支持子域的本地主机开发
-  * [Framacloud](https://degooglisons-internet.org/en/list/) — 法国非营利组织的免费/自由开源软件和 SaaS 清单 [Framasoft](https://framasoft.org/en/).
+  * [Framacloud](https://degooglisons-internet.org/en/list/) — 法国非营利组织的免费/自由开源软件和 SaaS 列表 [Framasoft](https://framasoft.org/en/).
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — 面向开发人员的免费和开源软件中心.
   * [GitHub Education](https://education.github.com/pack)  ——为学生收集免费服务. 需要注册.
   * [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program)  — 获取为 Microsoft 365 平台构建解决方案所需的免费沙盒、工具和其他资源. 订阅期为 90 天 [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5)  （Windows 除外）可再生. 如果您积极参与开发（使用遥测数据和算法测量），它会被更新.

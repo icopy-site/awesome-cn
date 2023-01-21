@@ -15,7 +15,7 @@
 - [MafiaUnity](https://github.com/MafiaHub/MafiaUnity) - 开源黑手党游戏框架.
 - [OpenJK](https://github.com/JACoders/OpenJK) - Raven Software 维护和改进 Jedi Academy 和 Jedi Outcast 的社区努力.
 - [OpenLara](https://github.com/XProger/OpenLara) - 经典古墓丽影开源引擎.
-- [OpenMB](https://github.com/cookgreen/OpenMB) - 用于 Taleworlds 的骑马与砍杀系列的角色扮演游戏引擎.
+- [OpenMB](https://github.com/cookgreen/OpenMB) - Taleworlds 的骑马与砍杀系列角色扮演游戏引擎.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - 原始的古墓丽影 1-5 体验与现代更新、功能和添加.
 - [re3](https://github.com/td512/re3) - GTA III 和 GTA：罪恶都市的反向源代码.
 - [remc2](https://github.com/turican0/remc2) - 来自 Assembler 的 Magic Carpet 2 逆向工程.
@@ -32,7 +32,7 @@
 ## Arcade
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Barbarian: The Ultimate Warrior 的开源克隆.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - 经典的架空跑枪游戏.
-- [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - RetroArch/Libretro 的 8 人炸弹人克隆.
+- [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
 - [OpenClonk](https://github.com/openclonk/openclonk) - 多人动作游戏，您可以在其中控制小巧灵活的类人动物.
 - [OpenJazz](https://github.com/AlisterT/openjazz) - 经典 Jazz Jackrabbit™ 游戏的免费开源版本.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - 改写邪教足球比赛 Kick Off 2 的尝试.
@@ -66,7 +66,7 @@
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - 具有柔和阴影的 Doom 3 BFG 版本、清理源代码、Linux 和 64 位支持.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - 乡下人横冲直撞的港口.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) - 高级 DOOM 源端口.
-- [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - 用于现代系统的 Jedi 引擎和使用该引擎的游戏 - Dark Forces 和 Outlaws.
+- [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - 用于现代系统的 Jedi 引擎和使用该引擎的游戏 - 黑暗势力和亡命之徒.
 - [Tyrquake](https://github.com/libretro/tyrquake) - Tyrquake 的 Libretro 端口.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - id Software 的 Quake II 的增强客户端，专注于离线和合作游戏.
 - [vkQuake](https://github.com/Novum/vkQuake) - 使用 Vulkan 而不是 OpenGL 进行渲染的 Quake 端口.
@@ -126,7 +126,7 @@
 ## Racing
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) - 死亡拉力赛引擎重新实现.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - 尝试重现经典的极品飞车游戏 (1-6).
-- [Vangers](https://github.com/KranX/Vangers) - 赛车/RPG 混合由其创建者开源，用 C++ 编写.
+- [Vangers](https://github.com/KranX/Vangers) - 赛车/角色扮演游戏混合由其创建者开源，用 C++ 编写.
 - [Vange-rs](https://github.com/kvark/vange-rs) - 这个项目的想法是复制 Vangers 的旧外观和行为，但对图形进行本地硬件加速.
 
 ## Simulator
@@ -145,7 +145,7 @@
 - [Julius](https://github.com/bvschaik/julius) - 凯撒 III 的重新实现.
 - [KaM Remake](https://github.com/Kromster80/kam_remake) - 从头开始​​用 Delphi 编写的骑士与商人的 RTS 游戏重制版.
 - [KeeperRL](https://github.com/miki151/keeperrl) - 受矮人要塞启发的 Roguelike 地牢建造者.
-- [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
+- [openage](https://github.com/SFTtech/openage) - 帝国时代 II 引擎的克隆.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) - 重建 X-COM：启示录引擎.
 - [openblack](https://github.com/openblack/openblack) - 黑白的重新实现.
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - 流行游戏 Dune II 的娱乐.
@@ -165,6 +165,7 @@
 - [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) - 用 C++ 编写的 Settlers II 重制版.
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - 七大王国的 GPL 版本：古代对手.
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - 由 Firefly Studios 实施 Stronghold.
+- [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - 基于 Firefly studios 的原始 Stronghold，使用 LÖVE 制作的实时战略游戏.
 - [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - 命令与征服和红色警戒原始发布源端口基于 remaster 源代码下降.
 - [VCMI](https://github.com/vcmi/vcmi) - 魔法门之英雄无敌 III 的引擎.
 - [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - Java 重制魔兽争霸：兽人与人类.

@@ -54,7 +54,7 @@
 - [rosbag2](https://github.com/ros2/rosbag2) - ROS2 原生 rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
 - [rviz](https://github.com/ros2/rviz) - 3D 机器人展示台. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
 - [urdfdom](https://github.com/ros/urdfdom) - URDF（U-Robot 描述格式）库，提供核心数据结构和简单的 XML 解析器 ![urdfdom](https://img.shields.io/github/stars/ros/urdfdom.svg)
-- [urdfdom_headers](https://github.com/ros/urdfdom_headers) - Headers for URDF parsers. ![urdfdom_headers](https://img.shields.io/github/stars/ros/urdfdom_headers.svg)
+- [urdfdom_headers](https://github.com/ros/urdfdom_headers) - URDF 解析器的标头. ![urdfdom_headers](https://img.shields.io/github/stars/ros/urdfdom_headers.svg)
 - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 命令行工具. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos 运动学和动力学 C++ 库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - 用于 Vortex Lite 和 OpenSplice 的简单 DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
@@ -76,7 +76,7 @@
 ### Application layer
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy 将自治算法作为单独的构建块提供，并与 Autoware.Auto 兼容.
-- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件堆栈.
+- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件栈.
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制 (`ros2_controllers`) 的上下文中阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - ros_controllers 的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的 ROS 包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
@@ -85,7 +85,7 @@
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的 2D 和 3D 实时同时定位和映射 (SLAM). ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - ROS2 的大满贯 Gmapping. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 - [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam 工具箱，用于使用 ROS 在潜在的大型地图中进行终身映射和定位. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 使用 ndt/gicp 注册和姿势优化的 3D 激光雷达 slam 的 ROS2 包. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
 - [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 从 LIO-SAM 引用的紧耦合激光雷达惯性 ndt/gicp slam 的 ROS2 包. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 - [octomap_server2](https://github.com/iKrishneel/octomap_server2)  - 用于使用 OctoMap 进行映射的 ROS2 堆栈.  ROS1的端口 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) 包裹. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - 用于将 ROS2 与 OpenCV 连接的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
@@ -103,7 +103,7 @@
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) - 可能是一个抓取库 :). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) - 用于 AprilTag 检测的 ROS2 节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) - 将您的浏览器桥接到 ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
-- [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters 根据过滤器需要满足的条件混合各种消息，并派生自 ROS message_filters 的 ROS2 移植. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
+- [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - Tensorflow 中用于计算机视觉任务的 ROS2 节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - PyTorch 中用于计算机视觉任务的 ROS2 节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [ros2_pytorch_cuda](https://github.com/slabban/ros2_pytorch_cuda) - 的扩展 [ros2_pytorch](https://github.com/klintan/ros2_pytorch) 适用于容器化的 CUDA 设备.
@@ -148,7 +148,7 @@
 - [ros2_usb_camera](https://github.com/klintan/ros2_usb_camera) - ROS2 通用 USB 摄像头驱动程序. ![ros_astra_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
 - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - 多个 Android 传感器的 ROS2 驱动程序集合. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - 用于英特尔® 实感™ 设备的 ROS2 包装器. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
-- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - Raspberry Pi 相机模块的 ROS2 节点. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
+- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
 - [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - 用于 TrackIMU IMU 传感器的 ROS2 节点![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
 - [HRIM](https://github.com/AcutronicRobotics/HRIM) - 机器人模块的标准接口.
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 可集成工具，专注于 ROS2 和 FIWARE 之间的相互通信. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
@@ -158,7 +158,7 @@
 - [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - 用于 MultiWii 和 Cleanflight 飞行控制器的 ROS2 节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ydlidar 的 ROS2 包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ZED SDK 的 ROS 2 包装测试版.
-- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso 雷达驱动器.
+- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso 雷达驱动程序.
 - [sick_scan2](https://github.com/SICKAG/sick_scan2) - 用于 SICK TiM 系列激光扫描仪 (TiM551/TiM561/TiM571) 的 ROS2 驱动程序.
 - [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - Ouster OS-1 激光雷达的 ROS2 驱动程序. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - 有关微型 ROS 项目中使用和支持的硬件平台的信息和文档.
@@ -183,7 +183,7 @@
 
 ### Client libraries common
 
-- [rcl](https://github.com/ros2/rcl) - Library to support implementation of language specific ROS Client Libraries. ![rcl](https://img.shields.io/github/stars/ros2/rcl.svg)
+- [rcl](https://github.com/ros2/rcl) - 支持特定语言 ROS 客户端库的实现的库. ![rcl](https://img.shields.io/github/stars/ros2/rcl.svg)
 - [system_tests](https://github.com/ros2/system_tests) - 测试 rclcpp 和 rclpy. ![system_tests](https://img.shields.io/github/stars/ros2/system_tests.svg)
 - [rcl_interfaces](https://github.com/ros2/rcl_interfaces) - ROS 客户端库使用的消息和服务存储库. ![rcl_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
 
@@ -310,6 +310,33 @@
 ### ROSCon 2022
 
 [Program announcement](https://roscon.ros.org/2022/#program)（幻灯片+视频）
+- 面板：ROS 2 开发者体验 [video](https://vimeo.com/showcase/9954564/video/767155188)
+- 可穿戴 ROS：使用 ROS 2 开发可穿戴机器人系统 [video](https://vimeo.com/showcase/9954564/video/767140298) [slides](http://download.ros.org/downloads/roscon/2022/Wearable%20ROS%20Development%20of%20wearable%20robot%20system%20using%20ROS2.pdf)
+- 使用 C++ 构建支持 ROS 2 的 Android 应用程序 [video](https://vimeo.com/showcase/9954564/video/767161955) [slides](http://download.ros.org/downloads/roscon/2022/Building%20ROS%202%20enabled%20Android%20apps%20with%20C++.pdf)
+- 带有虚幻引擎的分布式机器人模拟器 [video](https://vimeo.com/showcase/9954564/video/767139975) [slides](http://download.ros.org/downloads/roscon/2022/Distributed%20Robotics%20Simulator%20with%20Unreal%20Engine.pdf)
+- 提高 ROS 2 可认证性的工具和流程 [video](https://vimeo.com/showcase/9954564/video/767150613) [slides](http://download.ros.org/downloads/roscon/2022/Tools%20and%20processes%20for%20improving%20the%20certifiability%20of%20ROS%202.pdf)
+- 故障转移 ROS 框架：基于共识的节点冗余 [video](https://vimeo.com/showcase/9954564/video/767156308) [slides](http://download.ros.org/downloads/roscon/2022/Failover%20ROS%20Framework%20Consensus-based%20node%20redundancy.pdf)
+- ROS 2 和 Gazebo 集成最佳实践 [video](https://vimeo.com/showcase/9954564/video/767127300) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20and%20Gazebo%20Integration%20Best%20Practices.pdf)
+- 链感知 ROS 评估工具 (CARET) [video](https://vimeo.com/showcase/9954564/video/767150288) [slides](http://download.ros.org/downloads/roscon/2022/Chain-Aware%20ROS%20Evaluation%20Tool%20(CARET).pdf)
+- ROS 2网络监控 [video](https://vimeo.com/showcase/9954564/video/767140681) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20network%20monitoring.pdf)
+- 如何在 Open-RMF 中定义、分配和执行自定义任务 [video](https://vimeo.com/showcase/9954564/video/767157210) [slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf)
+- ros2_control 从业者指南 [video](https://vimeo.com/showcase/9954564/video/767139648) [slides](http://download.ros.org/downloads/roscon/2022/A%20practitioner_s%20guide%20to%20ros2_control.pdf)
+- Zenoh：如何使 ROS 2 在任何规模下工作并与任何东西集成 [video](https://vimeo.com/769972405) [slides](http://download.ros.org/downloads/roscon/2022/Zenoh%20How%20to%20Make%20ROS2%20Work%20at%20any%20Scale%20and%20Integrate%20with%20Anything.pdf)
+- 使用 MoveIt2 和 ros2_control 进行光学制造的案例研究 [video](https://vimeo.com/showcase/9954564/video/767140351) [slides](http://download.ros.org/downloads/roscon/2022/A%20case%20study%20in%20optics%20manufacturing%20with%20MoveIt2%20and%20ros2_control.pdf)
+- 20/20 Robot Vision - 如何使用 camera_aravis 在 ROS 1 和 ROS 2 中设置相机 [video](https://vimeo.com/showcase/9954564/video/767140329) [slides](http://download.ros.org/downloads/roscon/2022/20%20-%2020%20Robot%20Vision%20-%20How%20to%20setup%20cameras%20in%20ROS%201%20&%20ROS%202%20using%20camera_aravis.pdf)
+- 过滤您的 ROS 2 内容 [video](https://vimeo.com/767166447) [slides](http://download.ros.org/downloads/roscon/2022/Filter%20your%20ROS%202%20content.pdf)
+- 随着时间的推移不断发展的消息类型和其他接口 [video](https://vimeo.com/showcase/9954564/video/767140015) [slides](http://download.ros.org/downloads/roscon/2022/Evolving%20Message%20Types,%20and%20Other%20Interfaces,%20Over%20Time.pdf)
+- 从 ROS1 迁移到 ROS 2 - 选择正确的桥 [video](https://vimeo.com/showcase/9954564/video/767140113) [slides](http://download.ros.org/downloads/roscon/2022/Migrating%20from%20ROS1%20to%20ROS2%20-%20choosing%20the%20right%20bridge.pdf)
+- 关于 Nav2 Smac Planners 的使用 [video](https://vimeo.com/showcase/9954564/video/767157646) [slides](http://download.ros.org/downloads/roscon/2022/On%20Use%20of%20Nav2%20Smac%20Planners.pdf)
+- Bazel 和 ROS 2 – 构建大规模安全应用程序 [video](https://vimeo.com/showcase/9954564/video/767139879) [slides](http://download.ros.org/downloads/roscon/2022/Bazel%20and%20ROS%202%20%E2%80%93%20building%20large%20scale%20safety%20applications.pdf)
+- ROS 2 的原生 Rust 组件 [video](https://vimeo.com/showcase/9954564/video/767140150) [slides](http://download.ros.org/downloads/roscon/2022/Native%20Rust%20components%20for%20ROS2.pdf)
+- The ROS build farm and you：你发布的 ROS 包如何变成二进制包. [video](https://vimeo.com/showcase/9954564/video/767169376) [slides](http://download.ros.org/downloads/roscon/2022/The%20ROS%20build%20farm%20and%20you%20How%20ROS%20packages%20you%20release%20become%20binary%20packages.pdf)
+- mROS 2：嵌入式设备上的另一个运行时环境 [video](https://vimeo.com/showcase/9954564/video/767150435) [slides](http://download.ros.org/downloads/roscon/2022/mROS%202%20yet%20another%20runtime%20environment%20onto%20embedded%20devices.pdf)
+- ROS 2 和 Edge Impulse：机器人应用中的嵌入式 AI [video](https://vimeo.com/showcase/9954564/video/767140724) [slides](http://download.ros.org/downloads/roscon/2022/ROS2%20_%20Edge%20Impulse%20Embedded%20AI%20in%20robotics%20applications.pdf)
+- 微型 ROS 走向汽车：支持基于 AUTOSAR 的微控制器 [video](https://vimeo.com/769963507) [slides](http://download.ros.org/downloads/roscon/2022/micro-ROS%20goes%20Automotive%20supporting%20AUTOSAR-based%20microcontrollers.pdf)
+- ROS 2 中硬件加速的开放架构 [video](https://vimeo.com/769967795) [slides](http://download.ros.org/downloads/roscon/2022/An%20open%20architecture%20for%20Hardware%20Acceleration%20in%20ROS%202.pdf)
+- ROS 2 和 Crazyflie：带有微型飞行机器人的空中蜂群和自治 [video](https://vimeo.com/showcase/9954564/video/767140197) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20and%20the%20Crazyflie%20Aerial%20swarms%20and%20Autonomy%20with%20a%20tiny%20flying%20robot.pdf)
+- 带有 ROS 2 + RT 和可定制图像生成器的 Raspberry Pi 图像 [video](https://vimeo.com/showcase/9954564/video/767139709) [slides](http://download.ros.org/downloads/roscon/2022/A%20Raspberry%20Pi%20image%20with%20ROS%202%20%2B%20RT%20and%20a%20customizable%20image%20builder.pdf)
 
 ### ROSCon 2021
 
@@ -349,7 +376,7 @@
 
 - 动手 ROS 2：演练
 - 自动驾驶汽车上的 ROS 2
-- RViz – The tale of a migration to ROS 2.0
+- RViz——迁移到 ROS 2.0 的故事
 - 启动 ROS 2
 - 参与 ROS 2 开发
 - 计划到计划：插件一路向下

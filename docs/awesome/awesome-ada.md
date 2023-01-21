@@ -105,7 +105,7 @@
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - 适用于 C++ 或 Java 开发人员的 Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - 采用 SPARK 的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  - 安全可靠的软件.  Ada 2012 的邀请.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初级概念到高级概念的书，包括源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初学者到高级概念的书，包含源文件.
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810091/81341/cover/9781009181341.jpg">[Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.)](https://www.cambridge.org/core/books/programming-in-ada-2012-with-a-preview-of-ada-2022/AD30275F35CCECB97EAB80ABC32B019C#) - 综合的.  
@@ -137,7 +137,7 @@
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.									   
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 上的 Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) -Reddit 上的 Ada.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
@@ -258,7 +258,7 @@
 - [ironclad](https://nongnu.org/ironclad) - 一个用于多个架构的内核，争取 POSIX 兼容性，用于多个发行版，例如 [Gloire](https://github.com/streaksu/Gloire).
 
 ## Games
-- [steamsky](https://thindil.github.io/steamsky) - 具有蒸汽朋克背景的 Roguelike 天空游戏.
+- [steamsky](https://www.laeran.pl/repositories/steamsky) - 具有蒸汽朋克背景的 Roguelike 天空游戏.
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - 俄罗斯方块，在 Ada 中，用于 Unity 游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) - 用 SPARK/Ada 编写和验证的井字游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate 是适用于 Windows、OS-X 和 Linux 的 Stargate / Portal 幻想设置中的第一人称 3D 推箱子益智游戏.
@@ -267,7 +267,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) - MiniPac 是 Pacman 的儿童友好型 ascii 字符版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面！ 是一款“match-3”类型的游戏，在 [gnoga] 中实现.
+- [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是一款“match-3”类型的游戏，在 [gnoga] 中实现.
 - [buttons](https://github.com/andreacervetti/buttons) - 一个简单的 [gtkada] Button Mania 游戏.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - 探雷器：无需猜测的探雷游戏.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 畅玩 2048！ 是流行的 2048 游戏的克隆，在 Ada 中使用 [asfml] 用于图形和 [ada-toml] 用于保存状态.
@@ -340,7 +340,7 @@
 
 #### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven 是一个用于 Ada 编程的简单单元测试库和框架.
-语. 它大致仿照 JUnit 和 AUnit 的一些想法.
+语言. 它大致仿照 JUnit 和 AUnit 的一些想法.
 - [aunit](http://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.

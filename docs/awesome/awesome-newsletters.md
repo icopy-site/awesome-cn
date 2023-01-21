@@ -96,7 +96,7 @@
 - [UI Movement](https://uimovement.com) . 只有最好的 UI 设计灵感，就在您的收件箱中.
 - [Designer News](https://www.designernews.co) . 设计界聚会的地方.
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章结合了来自品牌、艺术和平面设计领域的最佳现代表达和创新.
-- [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
+- [Hack Design](https://hackdesign.org) . 一个简单易懂的设计课程，适合那些做令人惊奇的事情的人.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
@@ -345,12 +345,13 @@
 - [Flutter Croissants](https://flutter-croissants.com/) . 每周一接收有关 Flutter 和移动世界的所有新闻.
 - [Flutter Digest](https://flutter-digest.com/) . 关于 Flutter 和 Dart 的每周法语时事通讯.
 - [Android Croissants](https://android-croissants.com/) . 每个星期一早上，接收有关 Android 的最新消息、教程、技巧…….
+- [Flutter Tap](https://fluttertap.com/) .  Flutter Tap 是一份免费的每周时事通讯，可帮助您在 Flutter 开发方面保持领先地位.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周时事通讯. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
-- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻每周综述.
+- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻的每周综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和犯规. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收由机器学习专业人士策划的开源框架、教程和文章的更新. 深入了解机器学习的可解释性、可重复性、模型评估、特征分析等方面的最佳实践、工具和技术.
@@ -400,7 +401,7 @@
 - [GitHub News](https://www.gitlogs.com/) . 在 GitHub 上发现由峰值检测算法检测到的热门存储库.
 - [TED](https://www.ted.com/newsletter) .  TED 收件箱中的灵感
 - [KickStarter](https://www.kickstarter.com/newsletters) .  KickStarter 的 Projects We Love 存档
-- [Startup Digest](https://www.startupdigest.com/reading-lists) . 来自世界各地的精选阅读材料，根据您​​的兴趣定制.
+- [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三为您带来全新的、鼓舞人心的早晨例程.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供了一些反思练习，以帮助您进行日常生活. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
