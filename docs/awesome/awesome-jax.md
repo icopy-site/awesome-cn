@@ -89,6 +89,7 @@
 - [JAXFit](https://raw.githubusercontent.com/dipolar-quantum-gases/jaxfit) - 用于非线性最小二乘问题的加速曲线拟合库（参见 [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 - [econpizza](https://raw.githubusercontent.com/gboehl/econpizza) - 使用 JAX 解决具有异构代理的宏观经济模型. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
 - [SPU](https://raw.githubusercontent.com/secretflow/spu) - 特定领域的编译器和运行时套件，用于使用 MPC（安全多方计算）运行 JAX 代码. <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
+- [jax-tqdm](https://raw.githubusercontent.com/jeremiecoullon/jax-tqdm) - 添加一个 tqdm 进度条到 JAX 扫描和循环. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
 
 <a name="models-and-projects" />
 

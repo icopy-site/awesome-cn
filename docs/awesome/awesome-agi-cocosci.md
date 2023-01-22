@@ -89,11 +89,12 @@
 
 * [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html)  - ***国会图书馆***. 美国的分类系统（仅 PDF）.
 
-* [Chinese Library Classification](http://cct.nlc.cn/)  - ***中国国家图书馆***. 中国分类系统（中文在线用户界面）. [[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. [[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)].
+* [Chinese Library Classification](http://cct.nlc.cn/)  - ***中国国家图书馆***. 中国分类系统（中文在线用户界面）. [[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. [[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
 
 * [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online)  - ***德意志国家图书馆***. 基于 Deway Decimal Classification (DDC) 的德国分类系统（在线用户界面）. [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
 
-* [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html)  - ***日本国立国会图书馆***. 日本的分类系统（仅 PDF）.
+* [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html)  - ***日本国立国会图书馆***. 日本的分类系统（仅 PDF）. 
+
 
 * [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization)  - ***维基百科***. 关于知识组织方法的维基百科.
 
@@ -219,7 +220,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
