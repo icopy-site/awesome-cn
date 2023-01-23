@@ -31,7 +31,7 @@
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - 提供对本机操作表的访问.
 - [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - 处理高级应用程序状态和事件. 
 - [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - 允许检查应用程序是否可以打开并打开它.
-- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的能力.
+- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的功能.
 - [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - 提供使用相机拍照或从相册中选择现有照片的功能.
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - 启用复制和粘贴到/从系统剪贴板.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - 公开有关设备的内部信息，如型号和操作系统版本，以及用户信息，如唯一 ID.
@@ -76,7 +76,7 @@
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - Firebase 远程配置的原生插件.
 - [Flipper](https://github.com/capacitor-community/flipper) - 脚蹼调试器的本机插件.
 - [Http](https://github.com/capacitor-community/http) - 用于无 CORS 请求和文件传输的本机 HTTP 插件.
-- [Intercom](https://github.com/capacitor-community/intercom) - 为 Capacitor 应用启用对讲功能.
+- [Intercom](https://github.com/capacitor-community/intercom) - 为 Capacitor 应用程序启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止屏幕进入睡眠状态.
 - [Media](https://github.com/capacitor-community/media) - 为 Capacitor 启用一些媒体功能，例如创建相册、保存视频、gif 等.
 - 微软
@@ -102,7 +102,7 @@
 拥有的插件 [Capgo organisation](https://github.com/Cap-go) 并由维护 [@riderx](https://github.com/riderx) 和 Open collective 的社区成员.
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的无线更新.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - 适用于您的应用程序的 Crisp 聊天 SDK.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - 切换设备的手电筒/手电筒.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - 检测静音模式和静音音频.
 - [Native audio](https://github.com/Cap-go/native-audio) - 用于本机音频引擎（叉）的电容器插件.
@@ -126,7 +126,7 @@
     - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - 用于 Firebase 性能监控的电容器插件.
     - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics 的电容器插件.
 - [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - 锁定/解锁屏幕方向.
-- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
+- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 允许用户编辑照片的电容器插件.
@@ -190,10 +190,38 @@
 - [Sprig](https://github.com/crabbydavis/sprig) - 一体化产品研究平台.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - 为电容器启用平方支付.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - 总结移动 SDK.
-- [UDP](https://github.com/brugsel/capacitor-udp) - 同时支持 IPv6 和 IPv4，多播和广播.
+- [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - 在 IOS、Android、Web 和 Electron 平台上全屏播放视频.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Capacitor 的 Zalo 登录插件.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - 从系统相册中获取所有图片.
+
+## Cordova plugins
+
+### Compatible
+此列表即将升级
+
+- [NPM search](https://www.npmjs.com/search?q=cordova-plugin%20capacitor)
+
+### Incompatible
+
+-   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) （不需要，Capacitor 内置了 Swift 支持）
+-   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details](https://github.com/ionic-team/capacitor/issues/1101))
+-   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details](https://github.com/ionic-team/capacitor/issues/1415))
+-   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details](https://github.com/microsoft/code-push/issues/615))
+-   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) （没有必要）
+-   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) （不需要，电容器有自己的）
+-   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) （电容器不允许更改网络视图）
+-   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details](https://github.com/ionic-team/capacitor/issues/584))
+-   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details](https://github.com/ionic-team/capacitor/issues/815))
+-   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) （不需要，电容器有它自己的）
+-   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) （不需要，Capacitor使用WKWebView）
+-   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) （导致构建失败，跳过）
+-   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details](https://github.com/ionic-team/capacitor/issues/1213))
+-   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) （不需要，电容器有自己的）
+-   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) （不需要，电容器有自己的）
+-   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) （不需要，Capacitor使用WKWebView）
+-   [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) （导致 iOS 上的构建失败，仅针对 iOS 跳过）
+
 
 ## Tools
 
@@ -265,4 +293,8 @@
 
 ## Contributing
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/riderx/awesome-capacitor/blob/master/contributing.md) - first.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/riderx/awesome-capacitor/blob/master/contributing.md) - 第一的.
+
+## Author
+
+<a href="https://capgo.app/">Capgo — 电容器的实时更新</a>

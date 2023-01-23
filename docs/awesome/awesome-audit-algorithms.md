@@ -12,7 +12,8 @@
 
 ## Papers
 ### 2022
-- [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) -（ICML）*研究基于查询的审计算法，可以以高效查询的方式估计 ML 模型的人口统计奇偶性.*
+- [A zest of lime: towards architecture-independent model distances](https://openreview.net/pdf?id=OUz_9TiTv9j) - (ICLR) *使用 LIME 测量两个远程模型之间的距离.*
+- [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) -（ICML）*研究基于查询的审计算法，可以以查询高效的方式估计 ML 模型的人口统计奇偶性.*
 - [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis](https://proceedings.neurips.cc/paper/2021/file/da94cbeff56cfda50785df477941308b-Paper.pdf) - (NeurIPS) *Sobol 索引提供了一种有效的方法来捕获图像区域之间的高阶交互及其通过方差透镜对（黑盒）神经网络预测的贡献.*
 - [Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf) - (arxiv) *推断 Amazon Echo 系统和广告定位算法之间的联系.*
 ### 2021

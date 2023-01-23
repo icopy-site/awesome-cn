@@ -43,6 +43,7 @@
 - [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - 树莓派上的 CentOS. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) - 直接启动进入全屏 Chrome 的图像，非常适合仪表板和构建监视器. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Channels DVR Server](https://getchannels.com/raspberry-pi/) - 频道 DVR 服务器的自定义图像，它提供了一个完整的家庭 DVR 系统.
+- [Debian](https://raspi.debian.net) - Raspberry Pi 的非官方 Debian 映像（由 Debian 开发人员维护）.
 - [DietPi](https://github.com/Fourdee/DietPi) - 设计为适合 2GB SD 卡的最小图像，具有大量可配置设置和脚本.
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) - WifiBroadcast 扩展，真正替代 DJI Lightbridge 和其他类似系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) - 经济实惠的无线数字高清视频传输变得简单. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)

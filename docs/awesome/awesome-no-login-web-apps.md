@@ -105,7 +105,7 @@
 * [Cloud Convert](https://cloudconvert.com/)  - 从任何东西转换成任何东西，包括音频、视频、字体、文档等等. 与 Google Drive 和 Dropbox 等云存储服务完美集成. 直接链接.
 * [Online Convert](http://www.online-convert.com/)  - 音频、视频、图像、文档、电子书和存档转换器的集合. 转换后没有文件大小限制和直接下载链接.
 * [PDF <=> EPUB](http://pdfepub.com/) - PDF 到 EPUB 转换器，反之亦然.
-* [Pandoc Try](https://pandoc.org/try/) - Inter markup conversion using Pandoc. Supported - Latex, Markdown, HTML, RST and lots more.
+* [Pandoc Try](https://pandoc.org/try/)  - 使用 Pandoc 的内部标记转换. 支持 - Latex、Markdown、HTML、RST 等等.
 * [Print Friendly](https://www.printfriendly.com/)  - 将任何网页转换为简单格式. 然后下载或打印为 PDF.
 * [OnlineOCR](https://www.onlineocr.net/) - 将扫描的 PDF 转换为 DOC、XLS 或 TXT.
 * [GifDeck](http://gifdeck.in/) - 将幻灯片从 slideshare 转换为 GIF.
@@ -136,8 +136,8 @@
 * [agar.io](https://agar.io/) - 目标是通过吃比玩家细胞小的琼脂和细胞来获得尽可能多的质量，同时避免吃比玩家细胞大的琼脂和细胞.
 * [paper-io](http://paper-io.com)  - 游戏的目标是控制 100% 的竞技场. 您将扮演一个不断移动的小方块，并有一个与您的方块颜色相对应的小起始区域.
 * [diep.io](https://diep.io/)  - Diepio 是一款你扮演坦克并射击东西的游戏. 射击形状以升级您的坦克，然后射击玩家以获得大量积分.
-* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但没有说出它是什么，而其他玩家必须识别它.
-* [surviv.io](https://surviv.io/)  - Surviv.io 是一款 2D 大逃杀游戏. 每场比赛你只有一个活人，没有重生.
+* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但不说是什么，而其他玩家必须识别它.
+* [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
 * [nitrome](https://www.nitrome.com/)  - 收集免费的像素艺术游戏. 新游戏不需要 Flash.
 * [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋中的方块以填满棋盘.
 
@@ -147,12 +147,12 @@
 * [PhotoPea](https://www.photopea.com/) - 看起来像 Photoshop 的图像编辑器，具有它的大部分功能.
 * [Pixlr Editor](https://pixlr.com/editor/)  - Pixlr 的图像编辑器. 很多功能.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - 具有大量过滤器和效果的图像编辑器.
-* [Logo Makr](https://logomakr.com/)  - 带有精美 SVG 集合的徽标制作器. 需要付费才能将徽标导出为 SVG（PNG 是免费的）.
+* [Logo Makr](https://logomakr.com/)  - 带有精美 SVG 集合的徽标制作工具. 需要付费才能将徽标导出为 SVG（PNG 是免费的）.
 * [Online Logo Maker](https://www.onlinelogomaker.com/)  - 在线制作标志. 额外的用户帐户功能来保存创作.
 * [Coolors](https://coolors.co/) - 调色板生成器.
 * [Tiny PNG](https://tinypng.com/) - 智能 PNG 和 JPEG 压缩.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - 大面积、屏幕共享、视频和语音通信的协作黑板.
-* [ezGIF](https://ezgif.com/) - GIF 图像编辑器（裁剪、缩放、优化等）.
+* [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
 * [Adobe Color CC](https://color.adobe.com/) - 配色方案设计师.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - 删除图像背景并立即在 Facebook 或 Twitter 上分享的工具，登录后可将编辑后的图像下载为 PNG 或 JPEG.
 * [IcoMoon](https://icomoon.io/app/) - 一个平台，可帮助您查找矢量图标包，将图标托管为 SVG 或字体，并生成所选图标的 SVG + PNG + 图标字体.
@@ -245,9 +245,9 @@
 * [pForm](http://www.phpform.org/) - 通过简单的所见即所得 GUI 创建 HTML 表单并下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  - 用于处理 CSS 中供应商前缀的后处理器. 只需粘贴常规 CSS 即可立即获得供应商前缀处理的 CSS.
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
-* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
+* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图像.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
-* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
+* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅键入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - 测试站点速度和 Core Web Vitals.
 
@@ -261,7 +261,7 @@
 * [Similar Sites](http://www.similarsites.com/) - 查找与您输入的网站相似的网站.
 * [Google Fonts](https://www.google.com/webfonts) - 由谷歌收集的开源字体.
 * [ChooseMyPC](https://choosemypc.net/) - 在给定预算下考虑您对 PC 的要求，搜索最佳部件组合.
-* [Flaticon](https://www.flaticon.com/) - Largest search engine for free icons.
+* [Flaticon](https://www.flaticon.com/) - 最大的免费图标搜索引擎.
 * [icon8](https://icons8.com/) - 设计师，免费下载设计素材——图标、照片、用户体验插图和视频音乐.
 
 
@@ -315,6 +315,7 @@
 * [Mailinator](https://www.mailinator.com/) - 一次性电子邮件服务.
 * [Randommer](https://randommer.io/) - 随机数据生成器和验证器.
 * [Meditation Timer](https://meditation.koti.cloud/) - 一个冥想计时器来跟踪你的会话.
+* [Bucket Listy](https://bucketlisty.com/) - 具有独特想法的遗愿清单管理器，您可以在其中添加自己的想法.
 
 
 ### Miscellaneous

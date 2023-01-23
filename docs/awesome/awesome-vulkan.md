@@ -137,14 +137,14 @@
 
 ## Samples
 *计时 [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
-*  Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+* Sascha Willems  [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 *（不完整）Sascha Willems  [samples port](https://github.com/jvm-graphics-labs/Vulkan) 到科特林
-*  Sascha Willems's [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  - 使用 glTF 2.0 模型的 Vulkan 基于物理的渲染.  [麻省理工学院]
+* Sascha Willems  [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  - 使用 glTF 2.0 模型的 Vulkan 基于物理的渲染.  [麻省理工学院]
 *  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 * 谷歌
     *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
     *  [android tutorials](https://github.com/googlesamples/android-vulkan-tutorials).
-*  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks 样本. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+*  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks 示例. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
     *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - 简单的 vulkan 渲染示例.
     *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL 和 Vulkan 比较使用各种技术渲染 CAD 场景和 [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) 关于它.
     *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - 使用“工作线程”渲染 3D 的 Vulkan 示例.
@@ -247,7 +247,7 @@ drm/kms.
    *  [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - 用于反射 spirv 的库，简化 Vulkan 管道布局的创建 [Apache-2.0 许可]
 
 ## Bindings
-*  [ash](https://github.com/MaikKlein/ash)  - Rust 的火山债券.  [方法]
+*  [ash](https://github.com/MaikKlein/ash)  - Rust 的火山键.  [方法]
 *  [gfx-rs](https://github.com/gfx-rs/gfx)  - 用于 Rust 的类似 Vulkan 的低开销 GPU API.  [Apache 许可证 2.0]
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Vulkan 的 Lua 绑定.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - 为 Vulkan 自动生成 D 绑定.
@@ -275,7 +275,7 @@ drm/kms.
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)  - 来自 KhronosGroup.  [Apache 许可证 2.0]
 *  [renderdoc](https://github.com/baldurk/renderdoc)  - 由 baldurk 开发，一个独立的图形调试工具.  [麻省理工学院]
     * [RDCtoVkCpp](https://github.com/azhirnov/RDCtoVkCpp)  - 将 RenderDoc Vulkan 捕获转换为可编译和可执行的 C++ 代码.  [麻省理工学院]
-*  [VulkanTools](https://github.com/LunarG/VulkanTools)  - LunarG 的工具包括图层、`vktrace` 和 `vkreplay`.  [Apache 许可证 2.0]
+*  [VulkanTools](https://github.com/LunarG/VulkanTools)  - LunarG 的工具包括图层和配置器.  [Apache 许可证 2.0]
 *  [VKtracer](https://www.vktracer.com) - 通用且易于使用的 Vulkan 分析器.
 *  [CodeXL](https://github.com/GPUOpen-Tools/CodeXL)  - CodeXL 开源.  [麻省理工学院]
 *  [Qualcomm Adreno GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools) - 示例、Adreno 推荐层、Adreno GPU 的最佳实践文档.
@@ -354,4 +354,4 @@ drm/kms.
 这项工作已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Contributing
-请参见 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 了解详情.
+请参阅 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 了解详情.

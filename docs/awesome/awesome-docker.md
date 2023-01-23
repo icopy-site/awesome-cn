@@ -291,7 +291,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 #### IDE integrations
 
 - JetBrains IDE（IntelliJ IDEA、GoLand、WebStorm、CLion 等）具有 [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
-- 日食 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
+- 日蚀 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
 -   [docker.vim](https://github.com/skanehira/docker.vim)  - 在 Vim 中管理 docker 容器和图像. 通过 [@skanehira]
 -   [docker.el](https://github.com/Silex/docker.el) 通过 Emacs 管理 docker [@Silex](https://github.com/Silex)
 
@@ -673,9 +673,9 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [Become a Docker Power User with Visual Studio Code](https://www.thebyte.io/become-docker-power-user-with-vs-code) - :heavy_dollar_sign: 帮助你成为 Visual Studio Code 的 Docker Power 用户的培训课程
 -   [Cloud Native Landscape](https://github.com/cncf/landscape)
 -   [Discover Docker courses](https://bestcourses.io/results?q=docker&size=n_20_n) - 从各种流行的在线学习平台轻松发现 Docker 课程.
--   [Docker Certification](https://intellipaat.com/docker-training-course/) :heavy_dollar_sign: 将帮助您通过实践项目和案例研究学习 Docker 容器化、运行 Docker 容器、图像创建、Dockerfile、Docker 编排、安全最佳实践等，并有助于清除 Docker Certified Associate.
+-   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy_dollar_sign: 将帮助您通过实践项目和案例研究学习 Docker 容器化、运行 Docker 容器、图像创建、Dockerfile、Docker 编排、安全最佳实践等，并有助于清除 Docker Certified Associate.
 -   [Docker Community on Hashnode](https://hashnode.com/n/docker)
--   [Docker dev bookmarks](https://www.codever.land/search?q=docker) - 使用标签 [docker](https://www.codever.land/bookmarks/t/docker)
+-   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - 使用标签 [docker](https://www.codever.dev/bookmarks/t/docker)
 -   [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 -   [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
 -   [Docker Newsletter](https://www.docker.com/newsletter-subscription/) 定期更新的 Docker 时事通讯

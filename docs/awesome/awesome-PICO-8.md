@@ -60,7 +60,7 @@
 
 ### Tools
 
-- [Sprite Editor](https://www.lexaloffle.com/bbs/?tid=2462) - 与 Pico-8 和 PicoLove 兼容的外部精灵编辑器.
+- [Sprite Editor](https://www.lexaloffle.com/bbs/?tid=51270) - 只有键盘的 8x8 像素艺术工具.
 - [pico2png](https://github.com/briacp/pico2png) - 用 perl 编写的 Spritesheet 提取.
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - 使用 PICO-8 调色板编译作品资产和工具.
 - [Pico8Utils](https://github.com/josefnpat/pico8utils) - 编译基于 unix 哲学的 lua 脚本，用于处理 .p8 文件.
@@ -152,4 +152,4 @@
 
 在法律允许的范围内， [Felipe Bueno](https://twitter.com/felipebueno) 已放弃该作品的所有版权和相关或邻接权.
 
-See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 了解更多信息.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 想要查询更多的信息.

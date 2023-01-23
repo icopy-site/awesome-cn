@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/) 是 Linux 和 Unixes 的桌面环境，旨在让用户控制并完成工作. 它的应用程序使用 GTK，官方桌面 shell 使用 Clutter 和 JavaScript.
 
-&gt; 标有 ![GNOME Core][GNOME Core] 的项目是由 GNOME 项目官方维护和分发的应用程序，作为核心应用程序和工具集的一部分，或者作为经典模式的一部分维护和分发的扩展.
+&gt; 标有 ![GNOME Core][GNOME Core] 的项目是由 GNOME 项目作为核心应用程序和工具集的一部分正式维护和分发的应用程序，或者作为经典模式的一部分维护和分发的扩展.
 
 &gt; 标有 ![GNOME Circle][GNOME Circle] 的项目是由 [GNOME Circle](https://circle.gnome.org/) 旨在展示 GNOME 最佳应用程序和库的倡议.
 
@@ -28,29 +28,26 @@
 - [Polari](https://apps.gnome.org/app/org.gnome.Polari/)  - 与 IRC 上的人交谈.  ![GNOME 圈子][GNOME 圈子]
 - [Wrap](https://apps.gnome.org/app/app.drey.Warp/)  - 快速安全的文件传输.  ![GNOME 圈子][GNOME 圈子]
 - [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/)  - 搜索和阅读维基百科文章.  ![GNOME 圈子][GNOME 圈子]
-- [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直标签的网络浏览器.
 - [Geary](https://wiki.gnome.org/Apps/Geary) - 现代邮件客户端，最初由 Yorba 创建.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) - RSS/Atom 订阅阅读器.
 - [Cawbird](https://ibboard.co.uk/cawbird/) - 推特客户端.
-- [Jami](https://jami.net/) - Jami 的客户端，一种安全的通信工具.
 - [Haguichi](https://www.haguichi.net/) - Hamachi 的图形前端.
 
 ### Office
 
 - [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/)  - 无干扰的 Markdown 编辑器.  ![GNOME 圈子][GNOME 圈子]
 - [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/)  - 管理您的书目.  ![GNOME 圈子][GNOME 圈子]
-- [NFO Viewer](https://github.com/otsaloma/nfoview) - NFO 文件的简单查看器，具有预设字体和编码设置以及可点击超链接支持的文本编辑器.
+- [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - NFO 文件的简单查看器，具有预设字体和编码设置以及可点击超链接支持的文本编辑器.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 用于扫描文档和 PDF 的个人文档管理器.
 - [Foliate](https://github.com/johnfactotum/foliate) - 简单而现代的电子书阅读器.
 - [Pdftag](https://github.com/arrufat/pdftag) - 简单的 PDF 元数据编辑器.
-- [PDF Slicer](https://junrrein.github.io/pdfslicer/) - 提取、合并、旋转和重新排序 PDF 文档页面的简单应用程序.
 - [Marker](https://github.com/fabiocolacio/Marker) - 带有集成预览器的 Markdown 编辑器.
 
 ### Productivity and Time
 
-- [GNOME Todo](https://wiki.gnome.org/Apps/Todo)  - 最小的任务管理器.  ![GNOME 核心][GNOME 核心]
 - [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/)  - 平衡工作时间和休息时间.  ![GNOME 圈子][GNOME 圈子]
 - [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/)  - 记录完成任务所花费的时间.  ![GNOME 核心][GNOME 核心]
+- [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - 管理你的任务.
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - 用于跟踪时间的简单应用程序.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - 简单的番茄钟计时器.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - 时间跟踪器.
@@ -69,15 +66,13 @@
 - [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/)  - 在几秒钟内识别任何歌曲.  ![GNOME 圈子][GNOME 圈子]
 - [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/)  - 收听您最喜爱的播客.  ![GNOME 圈子][GNOME 圈子]
 - [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/)  - 从音板播放声音.  ![GNOME 圈子][GNOME 圈子]
-- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - 基于 Web 的音乐流服务的运行时，提供更原生的用户体验并与 Linux 桌面环境集成.
 - [Vocal](https://github.com/needle-and-thread/vocal) - 适用于现代免费桌面的强大、美观且简单的播客客户端.
 - [Celluloid](https://github.com/celluloid-player/celluloid) - mpv 的简单前端.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - 美妙的音乐应用.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - 专门用于转录的音频播放器.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - 为 PulseAudio 应用程序提供限制器、压缩器、混响、均衡器和自动音量效果.
-- [Curlew](https://curlew.sourceforge.io/) - 多媒体转换器.
+- [Easy Effects](https://github.com/wwmm/easyeffects) - PipeWire 应用程序的音频效果.
 - [Pitivi](http://www.pitivi.org/) - 美丽而强大的视频编辑器.
-- [Spot](https://github.com/xou816/spot) - Spotify 客户端.
+- [Spot](https://github.com/xou816/spot) - Spotify Client.
 - [Clapper](https://github.com/Rafostar/clapper) - 简单而现代的媒体播放器.
 
 ### Graphics
@@ -105,9 +100,8 @@
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - 高级 GNOME 设置的图形界面.
 - [Tilix](https://github.com/gnunn1/terminix/) - 平铺终端模拟器.
 - [Menulibre](https://smdavis.us/projects/menulibre/) - 如果您使用 Arc 或应用程序菜单等传统应用程序菜单，请管理您的应用程序类别.
-- [HydraPaper](https://gitlab.com/gabmus/HydraPaper) - 为每台显示器设置不同的背景.
+- [HydraPaper](https://hydrapaper.gabmus.org/) - 为每台显示器设置不同的背景.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - 用于编辑 GNOME 的 XML 壁纸的实用程序
-- [Unifydmin](https://gitlab.com/gabmus/unifydmin) - 异构 Linux 服务器的统一管理面板.
 - [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - MacOS 画廊，如动态壁纸，以及安装它们的简单脚本
 
 ### Utilities
@@ -121,18 +115,16 @@
 - [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/)  - 优雅地记录您的屏幕.  ![GNOME 圈子][GNOME 圈子]
 - [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/)  - 保持节奏.  ![GNOME 圈子][GNOME 圈子]
 - [GPaste](https://github.com/Keruspe/GPaste) - 剪贴板管理器（由一个应用程序和一个 gnome-shell 扩展组成）.
-- [Peek](https://github.com/phw/peek) - 简单的屏幕录像机，将您的录音保存为 GIF.
 - [Catfish](https://launchpad.net/catfish-search) - 简单的搜索应用程序.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - 用于删除重复文件的简单快速工具.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - 烹饪应用.
-- [RecApp](https://github.com/amikha1lov/RecApp) - 用户友好的开源屏幕播放器.
 - [Sunflower](http://sunflower-fm.org) - 小型且高度可定制的双面板文件管理器.
 
 ### Security and Privacy
 
 - [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/)  - 检查私人信息.  ![GNOME 圈子][GNOME 圈子]
 - [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/)  - 查看和清理文件中的元数据.  ![GNOME 圈子][GNOME 圈子]
-- [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
+- [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/)  - 与 Keepass 兼容的密码管理器.  ![GNOME 圈子][GNOME 圈子]
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/)  - 生成双因素代码.  ![GNOME 圈子][GNOME 圈子]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/)  - 检查文件的哈希值.  ![GNOME 圈子][GNOME 圈子]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/)  - 安全地删除您的文件.  ![GNOME 圈子][GNOME 圈子]
@@ -189,6 +181,7 @@
 - [Fly-Pie](https://extensions.gnome.org/extension/3433/fly-pie/) - 基于鼠标的菜单.
 
 ### Applets
+- [RunCat](https://github.com/win0err/gnome-runcat) — 猫通过运行速度告诉你 CPU 使用率.
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - 让您停用 GNOME 锁定屏幕的小程序.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - 状态菜单显示您的可移动驱动器.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - 天气小程序.
