@@ -5,7 +5,7 @@
 
 &gt; 精选的代码和内容列表 [Move](https://github.com/move-language/move) 编程语言社区.
 
- Move 是一种用于编写安全智能合约的编程语言，最初由 Facebook 开发，用于为 Libra 区块链提供支持.  Move 旨在成为一种与平台无关的语言，以支持跨具有截然不同的数据和执行模型的不同区块链的通用库、工具和开发人员社区.  Move 的野心是成为无所不在的“web3 的 JavaScript”——当开发者想要快速编写涉及资产的安全代码时，应该用 Move 编写.
+ Move 是一种用于编写安全智能合约的编程语言，最初由 Facebook 开发，用于为 Libra 区块链提供支持.  Move 旨在成为一种与平台无关的语言，以支持跨具有截然不同的数据和执行模型的不同区块链的通用库、工具和开发人员社区.  Move 的野心是成为无处不在的“web3 的 JavaScript”——当开发者想要快速编写涉及资产的安全代码时，应该用 Move 编写.
 
 
 
@@ -74,7 +74,7 @@
 - [NFT examples](https://github.com/MystenLabs/sui/tree/main/sui_programmability/examples/nfts) - 来自 Sui 的多个 NFT 示例实现.
 - [NFT](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/NFT.move)  - 类似 ERC721 的代币. 部署在星币上.
 - [Merkle Airdrop](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/MerkleNFT.move)  - 用于空投大量 NFT 的实用程序. 部署在星币上.
-- [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move)  - 混合 ERC721/ERC1155 类令牌的实现. 来自迪姆.
+- [NFT](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFT.move)  - 混合型 ERC721/ERC1155 代币的实现. 来自迪姆.
 - [BARS](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/BARS.move)  - 实例化该混合标准的 NFT. 来自迪姆.
 - [MultiToken](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/MultiToken.move)  - 类似 ERC1155 的代币. 来自迪姆.
 - [NFTGallery](https://github.com/diem/diem/blob/main/diem-move/diem-framework/experimental/sources/NFTGallery.move)  - 用于持有多个相同类型的 NFT 的实用程序. 来自迪姆.
@@ -216,16 +216,16 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 
 ## Videos
 
-- [The Move Programming Language](https://github.com/MystenLabs/awesome-move/blob/master/youtu.be/J1U_0exNFu0)
+- [The Move Programming Language](https://youtu.be/J1U_0exNFu0)
 - [Move on Sui](https://www.youtube.com/watch?v=xMsE1X4wio4)
 - [Move on Aptos](https://www.youtube.com/watch?v=gvRJdJTQd8U)
 - [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - 谈话来自 [@sblackshear](https://github.com/sblackshear) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
 - [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - 谈话来自 [@DavidLDill](https://github.com/DavidLDill) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
-- [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) 从 [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary)
+- [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) - 在 [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary).
 
 ## Slides
 - [Move deep dive](https://docs.google.com/presentation/d/1Tb2iZD0xrQSlwXIJNL1djNYc0_p0szfB2STgURgHgls/edit?usp=sharing)
-- [Move overview](https://docs.google.com/presentation/d/1gU-M42Juz7ARc61unPXphJ_BX1OlQrBwR1VdaPT4M5w/edit?usp=sharing) 从 [Reasoning About Financial Systems](https://reasoningaboutfinancialsystems.org/) 车间在 [SBC '22](https://cbr.stanford.edu/sbc22/)
+- [Move overview](https://docs.google.com/presentation/d/1gU-M42Juz7ARc61unPXphJ_BX1OlQrBwR1VdaPT4M5w/edit?usp=sharing) - 幻灯片来自 [Reasoning About Financial Systems](https://reasoningaboutfinancialsystems.org/) 车间在 [SBC '22](https://cbr.stanford.edu/sbc22/).
 
 ## Podcasts
 

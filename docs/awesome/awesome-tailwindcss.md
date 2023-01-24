@@ -232,6 +232,7 @@
 - [Impulse.dev](https://impulse.dev) – 编辑代码的 Tailwind CSS 和 React UI 编辑器.
 - [Tailiscope.nvim](https://github.com/danielvolchek/tailiscope.nvim) - Neovim 中集成的 Tailwind CSS 备忘单.
 - [Supertweak](https://supertweak.dev) - 用于 Tailwind CSS 的可视化开发工具.
+- [Tailscan](https://tailscan.com) - 用于 Tailwind CSS v3 的终极开发工具，能够检查 CSS 并将其转换为 Tailwind CSS 类.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.

@@ -31,13 +31,13 @@ Substrate 是一个构建可升级、模块化和高效的框架
 ## Support
 
 - [Builders Program](https://substrate.io/ecosystem/substrate-builders-program/) - 为使用 Substrate 的有远见的团队提供白手套解决方案和专门的支持团队.
-- [Stack Exchange](https://substrate.stackexchange.com/) - 所有技术问题的最佳场所.
+- [Stack Exchange](https://substrate.stackexchange.com/) - 所有技术问题的最佳地点.
 - [Web3 Foundation Grants](https://web3.foundation/grants) - 为生态系统发展提供资金.
 - [Polkadot Treasury](https://wiki.polkadot.network/docs/learn-treasury#creating-a-treasury-proposal) - 国库资金通过对支出提案的投票进行分配.
 
 ## Social
 
-- [Substrate Devs Chat (Telegram)](https://t.me/substratedevs) - 与其他 Substrate 开发人员聊天，也桥接到 [matrix](https://matrix.to/#/#substratedevs:matrix.org).
+- [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - 与其他 Substrate 开发人员聊天，也桥接到 [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 - [Twitter](https://twitter.com/substrate_io) - 关注我们以了解最新信息.
 
 ## Events
@@ -61,8 +61,9 @@ Substrate 是一个构建可升级、模块化和高效的框架
   - [Sub0 Conference Dec. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWZ4UZE7rM0hdT8Z_ZTjU5V)
   - [Sub0 Conference Apr. 2019](https://www.youtube.com/playlist?list=PLp0_ueXY_enWqrfP_vR4PLhzQj76fLT8y)
 - [Polkadot Network Technical Explainers](https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
-- [Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - 即将发生的事件和最新的录音.
-  - [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - 仅存档.
+- [Substrate Seminar Twitch](https://www.twitch.tv/polkadotdev) - 由 Polkadot Developers Twitch 主持的双周直播.
+  - [Old Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar-2/) - 研讨会档案.
+  - [Older Seminar Crowdcast](https://www.crowdcast.io/e/substrate-seminar/) - 较旧的研讨会档案.
 - [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
 
 ## Templates
@@ -73,7 +74,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot-JS API 和 [React](https://reactjs.org/) 为基于 Substrate 的链构建前端的应用程序.
 - [Parachain](https://github.com/substrate-developer-hub/substrate-parachain-template) - 启用 Cumulus 的 Substrate 节点，源自 [upstream](https://github.com/paritytech/cumulus/tree/master/parachain-template).
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - 包含质押和治理功能的 Substrate 节点模板.
-- [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - 一个模板项目，用于在“@polkadot/api”之上启动黑客攻击
+- [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - 一个模板项目，用于在“@polkadot/api”之上启动黑客攻击.
+- [INK!athon](https://inkathon.xyz/)  - 带墨水的全栈 dApp 样板！ 智能合约和 React 前端使用 `useInkathon`（下面列出）钩子库维护 [Scio Labs](https://scio.xyz).
 
 ## FRAME Pallets
 
@@ -108,9 +110,10 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Kotlin Client](https://github.com/NodleCode/substrate-client-kotlin) - 由维护 [Nodle.io](https://github.com/NodleCode).
 - [Polkadot-JS API](https://github.com/polkadot-js/api/) - 用于基于 Substrate 的链的半官方 JavaScript 库.
 - [Python Interface](https://github.com/polkascan/py-substrate-interface) - 由维护 [Polkascan Foundation](https://polkascan.org/).
-- [Rust API Client](https://github.com/scs/substrate-api-client) - 维护的 Rust 客户端 [Supercomputing Systems AG](https://www.scs.ch/).
-- [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+- [Rust API Client](https://github.com/scs/substrate-api-client) - 维护的 Rust 客户端 [Supercomputers Systems AG](https://www.scs.ch/).
+- [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 等，由 Subscan 开发.
 - [Sub-Api](https://github.com/kodadot/packages/tree/main/sub-api) - 由 KodaDot 维护的 Polkadot.js API 的友好包装器.
+- [`useInkathon`](https://github.com/scio-labs/use-inkathon)  - Polkadot.js 的 Typesafe React Hooks 库抽象功能，用于处理基于 Substrate 的网络和墨水！ 由 Scio Labs 维护的智能合约.
 
 ## Mobile
 
@@ -158,11 +161,11 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为 FRAME Con​​tracts pallet 和 ink! 编写的智能合约测试网.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 生态系统的零知识工具.
 - [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - 一个自托管网页，显示任何给定网络的最新元数据和链规范.
-- [Minimark](https://github.com/kodadot/packages) - 由 KodaDot 维护的 RMRK NFT v1/v2 协议的实现
+- [Minimark](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.
 - [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - 包含静态信息和元数据以支持 Polkadot 生态系统中的客户端应用程序将其映射到各种网络.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
-- [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC Polkadot节点监控告警解决方案，兼容多条Substrate链. 
-- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于 Polkadot 和任何 Substrate 链开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
+- [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC Polkadot节点监控告警解决方案，兼容多条Substrate链.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于使用 Polkadot 和任何 Substrate 链进行开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - 基于 Substrate 的链的半官方区块浏览器和前端.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 用于与基于 Substrate 的链进行交互的浏览器扩展.
 - [Polkascan](https://polkascan.io/) - 由 Polkascan 基金会维护的多链区块浏览器.
@@ -181,7 +184,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - 一组 Dockerfiles 和 GitHub Actions，用于为基于 Substrate 的链自动构建和推送 Docker 镜像.
 - [Substrate Faucet Bot](https://github.com/starkleytech/substrate-faucet) - 用于开发目的的基于 Python 的水龙头.
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - 用于基于 Substrate 的链的 GraphQL 索引器.
-- [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) - 帮助用户从合约 ABI（墨水！）生成打字稿类型并生成运行时代码以与合约交互并部署它们.  
+- [Typechain-Polkadot](https://github.com/Supercolony-net/typechain-polkadot) - 帮助用户从合约 ABI（墨水！）生成打字稿类型并生成运行时代码以与合约交互并部署它们.
 - [TxWrapper](https://github.com/paritytech/txwrapper) - 用于离线交易创建的有用库.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Visual Studio 代码插件.
 - [Polkaholic.io](https://polkaholic.io) - 多链区块浏览器，支持 40 多个平行链的 API 和 DeFi.
@@ -189,6 +192,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 ## Products and Services
 
 - [OnFinality](https://onfinality.io) - 为共享的基于 Substrate 的节点提供免费和付费服务.
+- [PrivHost](https://privhost.laissez-faire.trade/) - 公共 Tor .onion 支持 Polkadot、Kusama 和 Edgeware 的节点.
+- [Substrate Devops Guide](https://paritytech.github.io/devops-guide/) - Parity devops 团队在部署、监控和维护节点基础设施方面的配置和指导.
 
 ## Alternative Implementations
 
@@ -213,4 +218,4 @@ Substrate 是一个构建可升级、模块化和高效的框架
   - [paritytech/parity-scale-codec-ts](https://github.com/paritytech/parity-scale-codec-ts) - 由 Parity Technologies 维护.
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.
   - [scale-ts](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - 由 Josep M Sobrepere 维护.
-  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - 由 Soramitsu 维护. 
+  - [soramitsu/scale-codec-js-library](https://github.com/soramitsu/scale-codec-js-library) - 由 Soramitsu 维护.

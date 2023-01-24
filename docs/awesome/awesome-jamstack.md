@@ -54,7 +54,7 @@
 - [Appernetic](https://appernetic.io) - 静态网站的可视化内容管理，使用 Hugo 和 GitHub Pages.
 - [Netlify](https://netlify.com) - 用于自动化现代 Web 项目的多合一平台.
 - [Vercel](https://vercel.com) - 用于现代 Web 应用程序的多合一无服务器平台，具有免配置工具和工作流.
-- [Layer0](https://layer0.co) - 一体化 Jamstack 平台通过集成的 CDN、EdgeJS、预测预取和性能监控专注于大型动态网站和一流的性能.
+- [Layer0](https://layer0.co) - 一体化 Jamstack 平台，通过集成的 CDN、EdgeJS、预测预取和性能监控，专注于大型动态网站和一流的性能.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - 全栈无服务器托管，具有集成的 CI/CD 工作流、身份验证、CDN 等.
 - [Stormkit](https://stormkit.io)  - 适用于现代 JavaScript 应用程序的强大多合一基础架构. 它与您的 git 流程集成，并无缝构建、部署和扩展您的应用程序.
 
@@ -70,7 +70,7 @@
 ## Jamstack Sites Showcase
 
 - [React](https://reactjs.org/) - 建立在盖茨比之上.
-- [Squoosh.app](https://squoosh.app/) - Hosted on Netlify, demonstrates advanced features from a modern Web Application.
+- [Squoosh.app](https://squoosh.app/) - 托管在 Netlify 上，演示现代 Web 应用程序的高级功能.
 - [Hopper](https://travel.hopper.com/) - 基于 Gatsby 构建并托管在 Netlify 上.
 - [VSCode Power User Course](https://vscode.pro/) - PWA 建立在 Gatsby 之上并托管在 Netlify 上.
 - [CloudyCam](https://CloudyCam.dev/) - PWA 建立在 Next.js 上并托管在 Zeit Now v2 无服务器平台上.
@@ -137,7 +137,7 @@
 
 ### Comments
 
-- [Disqus](https://disqus.com) - Global comment system that improves discussion on websites and connects conversations across the web.
+- [Disqus](https://disqus.com) - 全球评论系统，可改善网站上的讨论并连接网络上的对话.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 评论插件让人们可以使用他们的 Facebook 帐户对您网站上的内容发表评论.
 - [Utterances](https://utteranc.es/)  - 基于 GitHub 问题构建的轻量级评论小部件. 将 GitHub 问题用于博客评论、wiki 页面等.
 
@@ -145,7 +145,7 @@
 
 - [Fetch Forms](https://www.fetchforms.io/) - 以表单生成器的速度创建表单，并通过调用简单的 API 在您的应用程序中使用它们. 
 - [Formcarry](https://formcarry.com) - 用于表单的无障碍 HTML 表单端点、强大的仪表板、可靠的垃圾邮件拦截、附件上传和 Zapier 集成.
-- [Formcake](https://formcake.com) - 为开发人员构建的表单后端：Zapier 集成、零依赖、简单的 API 和无限的表单.
+- [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io)  - 为设计师和开发人员形成后端平台. 在几分钟内为您的静态站点设置表单端点，并通过 Zapier 集成和 Webhooks 支持扩展您的数据.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - 通过在部署时直接解析 HTML 文件，在构建时内置表单处理.
 - [StaticKit](https://statickit.com) - 静态站点的现代形式，带有用于 React 和 HTML 的客户端库.
@@ -159,7 +159,7 @@
 - [GoCommerce](https://www.gocommerceapi.org) - Jamstack 站点的无头电子商务.
 - [Snipcart](https://snipcart.com/) - 一个强大的开发者购物车平台.
 - [Moltin](https://moltin.com/) - 面向开发人员的电子商务 API.
-- [Trolley](https://trolley.link) - 专为 Jamstack 设计的购物车.
+- [Trolley](https://trolley.link) - A shopping cart designed for the Jamstack.
 - [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) - Shopify 无头电子商务解决方案.
 - [Commerce.js](https://commercejs.com/) - 面向开发人员的 API 优先电子商务平台.
 - [CartQL](https://cartql.com/) - 为 Jamstack 构建的 GraphQL 购物车和结帐 API，可与任何框架和库存一起使用.
@@ -178,6 +178,7 @@
 - [Graphcool](https://graph.cool) - 开源和自托管后端即服务，用于开发无服务器 GraphQL 后端.
 - [FaunaDB](https://fauna.com) - 关系型 NoSQL 数据库，在云端或本地具有连接、索引和多区域 ACID 事务.
 - [Jexia DataSet](https://jexia.com) - REST API Schema &amp; Schemaless 云数据存储，内置验证器、关系、聚合功能.
+- [Tigris](https://www.tigrisdata.com) - 具有数据库的开源数据平台、用于实时搜索的自动搜索索引、缓存和实时发布/订阅.
 
 ### File management
 - [Jexia FileSet](https://jexia.com) - 具有索引和额外功能的应用程序的 REST API 文件管理器.
