@@ -149,6 +149,7 @@
 * [Runhyve](https://runhyve.app)  - Runhyve 是 FreeBSD 上 bhyve 的完整虚拟机管理器. 它是用 Elixir 编写的，并使用 Phoenix 框架.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - 神经网络的轻量级库.
+* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver 是 Elixir 和 Zig 中的 LLVM/MLIR 工具包.
 
 ## Audio and Sounds
 *处理声音和音调的库.*
@@ -577,7 +578,7 @@
 * [portal](https://github.com/josevalim/portal) - 用于 Elixir 中分布式门户数据传输应用程序的射击容错门.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - 长生不老药/凤凰实施 [RealWorld.io](https://realworld.io/) 后端规格 - 中型克隆.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir 库使用 Pratt Parser 算法来计算骰子掷骰.
-* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行程序.
+* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行器.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix 应用程序可与随机选择的陌生人匿名聊天.
 * [tilex](https://github.com/hashrocket/tilex) - 使用 Phoenix 1.3 构建的 Hashrocket TIL 网站的源代码.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
@@ -993,6 +994,7 @@
 * [ex_phone_number](https://github.com/socialpaymentsbv/ex_phone_number) - 格式化、标准化和验证电话号码.
 * [ex_rated](https://github.com/grempe/ex_rated) - 对 API 或任何东西进行简单灵活的速率限制.
 * [exfcm](https://github.com/Hajto/ExFCM) - 用于发布 Firebase 云消息的简单包装器.
+* [exisbn](https://github.com/solar05/exisbn) - ISBN 验证和格式化库. 
 * [exldap](https://github.com/jmerriweather/exldap) - 用于使用 Elixir 中的 LDAP 的模块.
 * [exlibris](https://github.com/pragdave/exlibris) - 随机库函数的集合.
 * [expool](https://github.com/whitfin/expool) - 用于 Elixir 中并行任务的小型进程池库.
@@ -1137,7 +1139,7 @@
 * [extreme](https://github.com/exponentially/extreme) - 使用的 Elixir 库 [Eventstore](https://geteventstore.com) 用于聚合生成的事件的持久性 (CQRS).
 * [exts](https://github.com/meh/exts) - Elixir 条款存储，ets 包装器.
 * [github_ecto](https://github.com/wojtekmach/github_ecto) - GitHub API 的 Ecto 适配器.
-* [gremlex](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir 客户端.
+* [gremlex](https://github.com/Revmaker/gremlex) - Apache Tinkerpop Gremlin Elixir Client.
 * [hstore](https://github.com/senecasystems/hstore) - 对 Postgrex 的 Hstore 支持.
 * [inquisitor](https://github.com/dockyard/inquisitor) - Ecto 的可组合查询构建器.
 * [isn](https://github.com/Frost/isn) - postgreSQL 的 Ecto 类型是扩展.
@@ -1180,6 +1182,7 @@
 * [triplex](https://github.com/ateliware/triplex) - 用于 Elixir 应用程序的带有 postgres 模式的数据库多租户！
 * [triton](https://github.com/blitzstudios/triton) - 建立在 Xandra 之上的 Pure Elixir Cassandra ORM.
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - 一个自以为是的 InfluxDB UDP 客户端.
+* [unreal](https://github.com/cart96/unreal) - Elixir 的非官方 SurrealDB 驱动程序.
 * [xandra](https://github.com/lexhide/xandra) - Cassandra 驱动程序在 Elixir 中原生构建，专注于速度、简单性和稳健性.
 * [yar](https://github.com/dantswain/yar) - Elixir 的另一个 Redis 客户端.
 
@@ -1574,7 +1577,7 @@
 * [kane](https://github.com/peburrows/kane) - 一种 [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) - 一个 Keen.io API 客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 用于使用 Google 的 URL Shortener API 创建短 URL 的 Elixir 库.
-* [m2x](https://github.com/attm2x/m2x-elixir)  - AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  - 用于 AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) - MailChimp API 版本 3 的基本 Elixir 包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun 客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - Elixir 的山魈包装纸.
@@ -1591,7 +1594,7 @@
 * [parse_client](https://github.com/elixircnx/parse_elixir_client) - 用于 parse.com REST API 的 Elixir 客户端.
 * [parsex](https://github.com/maarek/ParsEx) - ParsEx 是一个 Elixir HTTP 客户端，用于与 Parse.com 的 Restful API 进行通信.
 * [particle](https://github.com/jeffutter/particle-elixir) - 用于 Particle IoT 平台的 HTTP API 的 Elixir 客户端.
-* [pathway](https://github.com/novabyte/pathway) - 一个 Erlang/Elixir 客户端 [Trak.io](http://trak.io/) REST API.
+* [pathway](https://github.com/novabyte/pathway) - 一个 Erlang/Elixir 客户端 [Trak.io](http://trak.io/) 休息API.
 * [pay](https://github.com/era/pay) - 处理 Paypal 和其他支付解决方案的 Elixir Lib.
 * [pay_pal](https://github.com/zensavona/paypal) - 用于使用 PayPal REST API 的 Elixir 库.
 * [pigeon](https://github.com/codedge-llc/pigeon) - 用于发送 iOS 和 Android 推送通知的 HTTP2 兼容包装器.

@@ -35,7 +35,7 @@
 * [Album O'Rama](https://github.com/phalcon/album-o-rama) - Phalcon 框架的示例模块化应用程序
 * [Base App](https://github.com/mruz/base-app) - Phalcon 框架中的基础应用程序
 * [INVO Application](https://github.com/phalcon/invo) - Phalcon 框架的示例应用程序
-* [MVC](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+* [MVC](https://github.com/phalcon/mvc) - Phalcon MVC 文件结构示例
 * [Phalcon Composer](https://github.com/xxtime/phalcon) - Phalcon with Composer 支持 MySql MongoDb Redis，干净+美观
 * [Vökuró](https://github.com/phalcon/vokuro) - Phalcon Framework 示例应用程序（Acl、Auth、Security）
 * [Webird](https://github.com/perchlabs/webird) - 创建 Webird 是为了将最新的 PHP 和 Node.js 创新合并到一个应用程序堆栈中
@@ -61,13 +61,14 @@
 * [Yona CMS](https://github.com/alexander-torosh/yona-cms) - 基于具有模块化结构的Phalcon Framework的CMS
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - 一个基于 Phalcon 框架的博客
 * [Hummingbird CMS](https://github.com/mvanvu/hummingbird-cms) - 基于 Phalcon 4 的 CMS，具有许多强大的功能
+* [Element CMF](https://github.com/odvapro/element) - 一切的管理面板 [Demo](https://element-demo.odva.pro/element/) （管理员 | 管理员密码）
 
 
 ## Command Line
 
 *命令行应用程序和工具.*
 
-* [phalcon-console](https://github.com/viebig/phalcon-console) - 使用出色的 Phalcon 框架的命令行应用程序示例引导应用程序
+* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon Framework
 * [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Phalcon 的 Cron 组件
 
 

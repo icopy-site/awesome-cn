@@ -84,7 +84,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [lff](https://github.com/mkdika/lff-cr) - 命令行中简单明了的大文件查找器实用程序
  * [meet](https://github.com/ryanprior/meet) - 从舒适的命令行快速开始 jitsi 会议
  * [oq](https://github.com/Blacksmoke16/oq)  - 一个高性能的、可移植的 jq 包装器，以促进 JSON 以外格式的消费和输出； 使用 [jq](https://github.com/stedolan/jq) 用于转换数据的过滤器
- * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
+ * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 一个简单且可定制的进度条
  * [tablo](https://github.com/hutou/tablo) - 灵活的终端表生成器
  * [tallboy](https://github.com/epoch/tallboy) - 生成 ASCII 字符表，支持跨越多列的单元格
 
@@ -247,6 +247,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Image processing
  * [celestine](https://github.com/celestinecr/celestine) - 使用 DSL 创建 SVG 图像
  * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - 与 StumpyPNG 一起使用以提取帧的 FFmpeg 绑定
+ * [Pluto](https://github.com/phenopolis/pluto) - 一个快速方便的图像处理库
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) - 读写PNG图像
 
 ## Implementations/Compilers
@@ -417,7 +418,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - 单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Crystal 模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) - 规范框架（Crystal stdlib）
- * [spectator](https://gitlab.com/arctic-fox/spectator) - 使用现代期望语法的功能丰富的规范框架
+ * [spectator](https://gitlab.com/arctic-fox/spectator) - Feature rich spec framework that uses the modern expect syntax
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)  - 用于模拟 `Time.now` 的库. 灵感来自 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) - 水晶的 HTTP 捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  - 页面对象库. 灵感来自 Ruby  [WatirPump](https://github.com/bwilczek/watir_pump)

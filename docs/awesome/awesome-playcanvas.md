@@ -18,7 +18,7 @@
 - [Engine](https://github.com/playcanvas/engine) - 获得麻省理工学院许可的 PlayCanvas 运行时的完整源代码.
 - [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 兼容模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
-- [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
+- [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas 用户指南.
 
@@ -44,7 +44,7 @@
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One 的 PlayCanvas 主题博客.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - 制作简单的基于物理的游戏的教程.
 - [Solar Games Mentorship](https://solargames.io/mentorship/) - 高级 PlayCanvas 培训和指导服务.
-- [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - 简短的 PlayCanvas 教程的 YouTube 播放列表.
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 
 ## Extensions and Utilities
 
@@ -57,6 +57,7 @@
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - PlayCanvas 与 Vue.js 的集成.
 - [tween.js](https://github.com/tweenjs/tween.js/) - 流行的 JavaScript 补间库，可轻松与 PlayCanvas 集成.
 - [Pirron One](https://pic.pirron-rodon.one) - 实现后期效果、地形创建等的编辑器扩展.
+- [PlayBuild](https://github.com/wearekuva/playbuild) - 支持 TypeScript 和 JSX 的集成捆绑器和包管理器.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - PlayCanvas API 的 Sublime Text 自动完成.
 
 ## Technical Demos
