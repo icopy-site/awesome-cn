@@ -213,7 +213,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API 用于 [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用 libccd 在 Godot 中进行快速 3D 碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - 绕行/绕行人群库的 GDNative 实现.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与像 godotcord 之类的自定义引擎模块相反）.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持而无需重新编译引擎（与像 godotcord 这样的自定义引擎模块相反）.
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - 允许玩家使用他们的移动设备作为控制器.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
@@ -241,6 +241,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript 体素插件，用于在引擎和游戏中创建、导入和编辑体素内容.
 - [VPainter](https://github.com/tomankirilov/VPainter) - 3D顶点绘画插件.
 - [Waterways](https://github.com/Arnklit/WaterGenGodot) - 使用基于贝塞尔曲线的流量和泡沫图生成河流网格的工具.
+- [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise 音频中间件集成.
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) - 用于创建视觉小说游戏的集成编辑器.
 
 #### Godot 3.1

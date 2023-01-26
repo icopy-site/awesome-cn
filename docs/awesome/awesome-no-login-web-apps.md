@@ -92,7 +92,7 @@
 * [Witeboard](https://witeboard.com/)  - 为您的团队准备的实时白板. 无需注册.
 * [Draw.io](https://www.draw.io/)  - 流程图和 UML 绘图工具. 有很多绘图样式可供选择. 导出为 PNG 并与 Google 云端硬盘集成.
 * [AutoDraw](https://www.autodraw.com/)  - 借助 Google 的机器学习，绘制精美的草图. 图纸可以下载为 PNG.
-* [kleki](http://kleki.com/) - MS Paint like interface in browser.
+* [kleki](http://kleki.com/) - 浏览器中类似 MS Paint 的界面.
 * [JSPaint](https://jspaint.app)  - 浏览器中 1990 年代 MS Paint 的复制品. 开源.
 * [bubbl](https://bubbl.us/) - 创建思维导图，在浏览器中集思广益.
 * [ScribbleMaps](http://www.scribblemaps.com/) - 创建自定义谷歌地图.
@@ -136,9 +136,9 @@
 * [agar.io](https://agar.io/) - 目标是通过吃比玩家细胞小的琼脂和细胞来获得尽可能多的质量，同时避免吃比玩家细胞大的琼脂和细胞.
 * [paper-io](http://paper-io.com)  - 游戏的目标是控制 100% 的竞技场. 您将扮演一个不断移动的小方块，并有一个与您的方块颜色相对应的小起始区域.
 * [diep.io](https://diep.io/)  - Diepio 是一款你扮演坦克并射击东西的游戏. 射击形状以升级您的坦克，然后射击玩家以获得大量积分.
-* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但没有说出它是什么，而其他玩家必须识别它.
+* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但不说是什么，而其他玩家必须识别它.
 * [surviv.io](https://surviv.io/)  - Surviv.io 是一款 2D 大逃杀游戏. 每场比赛你只有一个活人，没有重生.
-* [nitrome](https://www.nitrome.com/)  - 收集免费的像素艺术游戏. 新游戏不需要 Flash.
+* [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋中的方块以填满棋盘.
 * [Gidd.io](https://gidd.io/) - 经典游戏合集，如 UNO、Yatzy、Scattergories 和 GeoGuess.
 
@@ -147,12 +147,12 @@
 * [PhotoPea](https://www.photopea.com/) - 看起来像 Photoshop 的图像编辑器，具有它的大部分功能.
 * [Pixlr Editor](https://pixlr.com/editor/)  - Pixlr 的图像编辑器. 很多功能.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - 具有大量过滤器和效果的图像编辑器.
-* [Logo Makr](https://logomakr.com/)  - 带有精美 SVG 集合的徽标制作工具. 需要付费才能将徽标导出为 SVG（PNG 是免费的）.
+* [Logo Makr](https://logomakr.com/)  - 带有精美 SVG 集合的徽标制作器. 需要付费才能将徽标导出为 SVG（PNG 是免费的）.
 * [Online Logo Maker](https://www.onlinelogomaker.com/)  - 在线制作标志. 额外的用户帐户功能来保存创作.
 * [Coolors](https://coolors.co/) - 调色板生成器.
 * [Tiny PNG](https://tinypng.com/) - 智能 PNG 和 JPEG 压缩.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - 大面积、屏幕共享、视频和语音通信的协作黑板.
-* [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
+* [ezGIF](https://ezgif.com/) - GIF 图像编辑器（裁剪、缩放、优化等）.
 * [Adobe Color CC](https://color.adobe.com/) - 配色方案设计师.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - 删除图像背景并立即在 Facebook 或 Twitter 上分享的工具，登录后可将编辑后的图像下载为 PNG 或 JPEG.
 * [IcoMoon](https://icomoon.io/app/) - 一个平台，可帮助您查找矢量图标包，将图标托管为 SVG 或字体，并生成所选图标的 SVG + PNG + 图标字体.
@@ -161,6 +161,7 @@
 * [doka.photo](https://doka.photo/)  - 易于使用的照片编辑器. 您可以裁剪、旋转、翻转、添加滤镜、调整大小和注释.
 * [CleanIcons](https://cleanicons.xyz) - 下载 Font Awesome 图标字体为 PNG.
 * [Mancer](https://mancer.app)  - 从浏览器设计、分享和订购 T 恤. 设计可以导出为 PNG.
+* [Branition Colors](https://branition.com/colors) - 手工精选的最适合品牌化的彩色托盘系列.
 
 
 ### Internet Downloaders
@@ -245,7 +246,7 @@
 * [pForm](http://www.phpform.org/) - 通过简单的所见即所得 GUI 创建 HTML 表单并下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  - 用于处理 CSS 中供应商前缀的后处理器. 只需粘贴常规 CSS 即可立即获得供应商前缀处理的 CSS.
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
-* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图像.
+* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
 * [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
@@ -255,7 +256,7 @@
 ### Search Engines
 
 * [Iconfinder](https://www.iconfinder.com/) - 在一个地方下载所有您喜欢的图标.
-* [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - 智能表情符号搜索引擎.
+* [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
 * [RSS Feed Search](http://ctrlq.org/rss/) - 从搜索词中查找 RSS 提要.
 * [IWantMyName](https://iwantmyname.com/) - 帮助您搜索所有 TLD 中的域.
 * [Similar Sites](http://www.similarsites.com/) - 查找与您输入的网站相似的网站.

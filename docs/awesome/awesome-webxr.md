@@ -115,12 +115,18 @@
 - [Godot](https://godotengine.org/) - 从版本 3.2.4 开始支持 WebXR 的跨平台开源引擎.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
+- [Needle](https://needle.tools/) - Blender 和 Unity 的引擎和导出器.
+  - [Official Documentation](https://engine.needle.tools/docs/)
+
 - [nunuStudio](https://www.nunustudio.org/) - 基于 three.js 构建的多平台开源引擎，可以在本地或浏览器中使用.
   - [Official Documentation](https://www.nunustudio.org/docs/)
 
 - [PlayCanvas](https://playcanvas.com/) - 基于浏览器的 WebGL 引擎，支持 WebXR 内容、移动浏览器、协作编辑等.
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
+- [Rogue Engine](https://rogueengine.io/) - 基于 Three.js 和 TypeScript 的 HTML5 游戏引擎.
+  - [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/) 
+  
 - [Unity](https://unity.com/) - 一个非常流行的游戏引擎，带有社区包，可以为 WebXR 导出内容.
   - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - 出口商 [De-Panther](https://github.com/De-Panther/)
   - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - 出口商 [Rufus31415](https://github.com/Rufus31415)

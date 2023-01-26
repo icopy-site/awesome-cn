@@ -241,12 +241,11 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 在哪里可以找到其他绘图仪和绘图机器人朋友.
 
-- [#plottertwitter](https://twitter.com/hashtag/plottertwitter) - 带有很多情节的 Twitter 标签.
 - [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（到目前为止，在旧金山和纽约），有演讲和策划艺术画廊.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 具有活跃社区的 Discord 论坛.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 拥有活跃社区的 Discord 论坛.
 - [PlotterFiles](https://plotterfiles.com/) - 为绘图仪共享 SVG 文件的社区.
 - #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 
