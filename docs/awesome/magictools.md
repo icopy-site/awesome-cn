@@ -41,6 +41,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [OpenGameArt](http://opengameart.org/) - 旨在与免费软件游戏项目一起使用的媒体存储库.
 - ：钱袋子： [Oryx Design Lab](http://oryxdesignlab.com/) - 便宜的高质量免版税精灵
 - ：money_with_wings： [PlainTextures](http://www.plaintextures.com/) - 免费高分辨率纹理、画笔和照片
+- ：自由： [Pixelicious](https://www.pixelicious.xyz/) - 图像到像素艺术转换器.
 - ：自由： [Poly Pizza](https://poly.pizza) - 6000 多个免费低多边形模型
 - ：自由： [Reiner's Tilesets](http://www.reinerstilesets.de/) - 带有免费 2D 和 3D 图形的博客.
 - ：自由： [Sketchfab](https://sketchfab.com/) - 发布和嵌入交互式 3D 模型.
@@ -122,7 +123,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由： [REXPaint](https://www.gridsagegames.com/rexpaint/) - 功能强大且用户友好的 ASCII 艺术编辑器.
 - ：然后： [rx](https://rx.cloudhead.io/) - 现代简约的像素编辑器
 - ：自由： [Tilemancer](https://led.itch.io/tilemancer) - 专为像素艺术游戏设计的快速程序图块创建器.
-- ：自由： [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
+- ：自由： [Timanthes](http://csdb.dk/release/?id=75871) - 用于在 Windows 上运行的 Commodore 64 计算机的像素艺术编辑器
 - [Charas](http://charas-project.net/index.php) - Charas 是 RPG Maker 的字符集生成器.
 - ：自由： [Spritemate](http://www.spritemate.com) - Commodore 64 精灵的在线编辑器
 - ：钱袋子： [Pixelator](http://pixelatorapp.com) - 将任何图像变成精美的像素艺术
@@ -159,6 +160,7 @@ _游戏框架、引擎和平台集_
 
 ### Engines and Frameworks
 
+- ：然后： [6502 Unit Test executor](https://github.com/AsaiYusuke/6502_test_executor)  - 用于 MOS 6502 组装的跨平台单元测试工具.  （即红白机）
 - ：然后： [Allegro](http://liballeg.org/) - Allegro 4 和 5 是跨平台的开源游戏编程库，主要面向 C 和 C++ 开发人员.
 - ：然后： [Amethyst](https://www.amethyst.rs/) - 使用 `gfx-rs` 为 2D 和 3D 用 Rust 编写的数据驱动游戏引擎.
 - ：然后： [amulet](http://www.amulet.xyz/)  - 一个免费的基于 Lua 的音频/视觉工具包，适用于小游戏和实验. 它可以在 Windows、Mac、Linux、HTML5 和 iOS 上运行.
@@ -177,11 +179,11 @@ _游戏框架、引擎和平台集_
 - ：然后： [Bullet](http://bulletphysics.org/wordpress/) - 实时物理模拟.
 - ：然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - ：然后： [Chipmunk2D](https://chipmunk-physics.net/) - 一个快速轻量级的 2D 游戏物理库.
-- ：然后： [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+- ：然后： [Cinder](https://libcinder.org/) - Cinder 是一个社区开发的免费开源库，用于使用 C++ 进行专业品质的创意编码.
 - ：自由： [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator 是一款免费的跨平台游戏开发编辑器，支持 Cocos2d-js，帮助开发者快速高效地构建 2D 和 3D 游戏场景，编辑游戏 UI 和其他游戏资源.
 - ：然后： [Cocos2D](https://github.com/los-cocos/cocos) - 用于游戏和多媒体的图形库，用于 python 语言
 - ：然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++ 但具有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
-- ：钱袋子： [Construct](https://www.scirra.com/)  - 一个 HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
+- ：钱袋子： [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 - ：money_with_wings： [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体式 3D 游戏引擎.非常易于使用.
 - ：然后： [Coquette](http://coquette.maryrosecook.com/)  - 用于 JavaScript 游戏的微框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
 - ：然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过其可视化工具、良好的文档和灵活的模块化库使学习编程变得有趣和游戏开发变得容易.
@@ -190,7 +192,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
 - ：然后： [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - 从具有纹理、法线贴图、glTF、OBJ、STL 支持的真实数据生成地形
 - ：然后： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - 支持 Direct3D11、Direct3D12、OpenGL/GLES 和 Vulkan 的现代跨平台低级图形库.
-- ：然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - 八位通用角色扮演引擎
+- ：然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
 - ：然后： [ENGi](https://github.com/ajhager/engi) - 用于围棋的多平台 2D 游戏库.
 - ：然后： [engo](https://engoengine.github.io/) - Engo 是一个用 Go 编写的开源 2D 游戏引擎.
 - ：然后： [Ebiten](https://ebiten.org/) - Go 中一个非常简单的 2D 游戏库.
@@ -224,7 +226,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) - 面向富有冒险精神的 Java 开发人员的 3D 开源游戏引擎.
 - ：然后： [JNGL](https://github.com/jhasse/jngl)  - 一个 2D 开源游戏引擎. 在 Linux、Windows、OS X 上开发.部署到 Nintendo Switch、Xbox、Linux、Windows、OS X、Web、Android、iOS 等.
 - ：自由： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google Android 的 3D 引擎.
-- ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净轻便的 2D 游戏框架
+- ：然后： [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中使用大块像素制作 2D 游戏的框架
 - ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
 - ：然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
@@ -242,7 +244,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Magnum](http://magnum.graphics/) - 用 C++11 编写的轻量级模块化 2D/3D 图形/游戏引擎
 - ：然后： [Matter.js](http://brm.io/matter-js/) - 用于网络的 2D 物理引擎.
 - ：然后： [MelonJS](http://melonjs.org) - 开源轻量级 HTML5 游戏引擎.
-- ：自由： [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro 是一款梦幻电脑，用于制作、播放和分享以现代语言编写的 2D 游戏和程序 [MiniScript](https://miniscript.org) 语.
+- ：自由： [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro 是一款梦幻电脑，用于制作、播放和分享以现代语言编写的 2D 游戏和程序 [MiniScript](https://miniscript.org) 语言.
 - ：然后： [Monogame](http://www.monogame.net/) - Microsoft XNA 4 Framework 的开源实现.
 - ：然后： [Nakama](https://github.com/heroiclabs/nakama) - 用于社交和实时游戏和应用程序的分布式服务器.
 - ：然后： [nCine](https://ncine.github.io/) - 一个强调性能的跨平台 2D 游戏引擎，用 C++11 编写，可选择在 Lua 中编写脚本.
@@ -260,7 +262,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 - ：然后： [Phaser](http://phaser.io/) - 免费快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
 - ：然后： [phina.js](http://phinajs.com/) - 一个 JavaScript 游戏库，可以轻松创建游戏和工具.
-- ：然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
+- ：然后： [Piston](http://www.piston.rs/) - 用 Rust 编写的模块化开源游戏引擎.
 - ：然后： [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - ：然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 来提高性能. 如果不支持 WebGL，引擎会回退到标准画布.
 - ：然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -289,12 +291,12 @@ _游戏框架、引擎和平台集_
 - ：然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - ：然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作式 2D/3D 游戏制作工具
 - ：然后： [TIC-80](https://tic.computer/) - TIC-80 是一款用于制作、玩和分享小游戏的奇幻计算机.
-- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一个小型的、完全公共领域的定点物理上不准确的纯 C 头文件的 3D 物理引擎，专为在微型计算机（例如嵌入式计算机甚至裸机）上运行而构建.
+- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一个小型的、完全公共领域的固定点物理上不准确的纯 C 头文件的 3D 物理引擎，专为在微型计算机（例如嵌入式计算机甚至裸机）上运行而构建.
 - ：然后： [Three.js](http://threejs.org/) - Javascript 3D 库.
 - ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有身临其境的 3D 效果和实时物理效果，打开了一个前所未有的非凡网络内容的全新世界.
 - ：然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅基于文本，还支持音乐、图像和声音效果. 基本的文字冒险游戏只需要很少的编码知识.
 - ：money_with_wings： [Unity 3D](http://unity3d.com/) - 用于创建 2D 和 3D 游戏和交互式内容的开发引擎.
-- ：money_with_wings： [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games 开发的新游戏引擎技术.
+- ：money_with_wings： [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 - ：然后： [Urho3D](http://urho3d.github.io/) - 跨平台渲染和游戏引擎.
 - ：然后： [ursina](https://www.ursinaengine.org/) - 由 python 和 panda3d 驱动的游戏引擎.
 - ：然后： [Vassal](http://www.vassalengine.org/)  - Vassal 是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编. 在 Internet 上或通过电子邮件进行现场直播.  Vassal 可在所有平台上运行，并且是免费的开源软件.
@@ -323,7 +325,7 @@ _音频编辑器、声音收藏等等._
 
 ### Music and Audio Editors
 
-- ：然后： [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
+- ：然后： [Audacity](http://sourceforge.net/projects/audacity/) - 用于录制和编辑声音的开源跨平台软件.
 - ：自由： [Audiosauna](http://www.audiosauna.com/) - 将您的网络浏览器转变为具有内置合成器和现场效果器的快速灵活的音乐制作工作室.
 - ：自由： [Audiotool](http://www.audiotool.com/app) - 在线音乐制作人.
 - ：自由： [Bfxr](https://www.bfxr.net/) - 为电脑游戏制作音效的工具.

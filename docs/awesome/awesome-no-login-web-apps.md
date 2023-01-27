@@ -98,6 +98,7 @@
 * [ScribbleMaps](http://www.scribblemaps.com/) - 创建自定义谷歌地图.
 * [Sketchpad](https://sketch.io/sketchpad/) - 创建数字艺术作品并导出为流行的图像格式 JPEG、PNG、SVG 和 PDF.
 * [Piskel](https://www.piskelapp.com/) - 动画精灵和像素艺术的免费在线编辑器
+* [PixelCraft](https://pixelcraft.web.app) - 像素艺术编辑器和动画创作工具
 
 
 ### File Converters
@@ -138,7 +139,7 @@
 * [diep.io](https://diep.io/)  - Diepio 是一款你扮演坦克并射击东西的游戏. 射击形状以升级您的坦克，然后射击玩家以获得大量积分.
 * [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但不说是什么，而其他玩家必须识别它.
 * [surviv.io](https://surviv.io/)  - Surviv.io 是一款 2D 大逃杀游戏. 每场比赛你只有一个活人，没有重生.
-* [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
+* [nitrome](https://www.nitrome.com/)  - 收集免费的像素艺术游戏. 新游戏不需要 Flash.
 * [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋中的方块以填满棋盘.
 * [Gidd.io](https://gidd.io/) - 经典游戏合集，如 UNO、Yatzy、Scattergories 和 GeoGuess.
 
@@ -246,9 +247,9 @@
 * [pForm](http://www.phpform.org/) - 通过简单的所见即所得 GUI 创建 HTML 表单并下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  - 用于处理 CSS 中供应商前缀的后处理器. 只需粘贴常规 CSS 即可立即获得供应商前缀处理的 CSS.
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
-* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
+* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图像.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
-* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
+* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅键入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - 测试站点速度和 Core Web Vitals.
 
@@ -256,7 +257,7 @@
 ### Search Engines
 
 * [Iconfinder](https://www.iconfinder.com/) - 在一个地方下载所有您喜欢的图标.
-* [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - Intelligent emoji search engine.
+* [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - 智能表情符号搜索引擎.
 * [RSS Feed Search](http://ctrlq.org/rss/) - 从搜索词中查找 RSS 提要.
 * [IWantMyName](https://iwantmyname.com/) - 帮助您搜索所有 TLD 中的域.
 * [Similar Sites](http://www.similarsites.com/) - 查找与您输入的网站相似的网站.
@@ -278,6 +279,7 @@
 * [OEIS®](http://oeis.org/) - Integer Sequences® 在线百科全书，有助于密码学以及制定奇怪的序列.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - 绘制带或不带边值和物理的有向图系统.
 * [Abc-Map](https://abc-map.fr) - 创建地理地图、从数据存储中挑选数据、处理数据以创建可视化效果、导出或在线共享您的地图. 
+* [KeepFormula](https://keepformula.github.io/) - Keep Formula 是一款简单的应用程序，可让您的计算更轻松.
 
 
 <a name="text-tools"></a>
@@ -306,7 +308,7 @@
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - 从图像中确定字体名称.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - 查看任何图像的隐藏数据（元数据）.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - 查找任何网站的虚拟主机.
-* [TypingWeb](https://www.typing.com/student/start) - 轻松掌握盲打.
+* [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 * [Acronym Creator](http://acronymcreator.net/) - 为组织、算法或至少有两个词的任何事物创建首字母缩写词.
 * [TallTweets](http://talltweets.com/) - 发送超过 140 个字符的推文.
 * [Postify](http://postfity.com/) `[Account]` - 在 Facebook、Twitter 和 LinkedIn 上安排帖子.
@@ -321,7 +323,7 @@
 
 ### Miscellaneous
 
-* [rollApp](https://www.rollapp.com/) `[Account]` - 在任何设备上运行桌面应用程序.
+* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
 * [is.gd](https://is.gd/) - 带有自定义 URL 和开放 API（无令牌）的链接缩短器.
 * [Bitly](https://bitly.com/) - 带有 REST API 的强大 URL 缩短器.
 * [Superbetize](http://superbetize.com/) - 分类您的购物清单.

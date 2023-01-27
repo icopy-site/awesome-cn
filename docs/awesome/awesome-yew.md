@@ -45,7 +45,7 @@
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - 使用 Yew 进行的简单 WebRTC 聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
-- [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - 使用 Rust、Wasm 和 Yew 编写的单页应用程序 (SPA).
+- [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
 - [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以在其中找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) - 这是一个 Rust / Wasm 客户端网络应用程序，它是一个任务控制中心.
@@ -86,6 +86,7 @@
 - [theiskaa.com](https://github.com/theiskaa/theiskaa.com) - Yew 框架的真实世界实现. [Live at theiskaa.com](https://theiskaa.com).
 - [live-ask.com](https://github.com/liveask/liveask) - 实时活动/聚会问答平台. [Live at live-ask.com](https://live-ask.com).
 - [Sumi](https://github.com/vgwidt/sumi) - 使用 Yew &amp; Actix 构建的多用户问题跟踪和知识库应用程序.
+- [hurlurl](https://github.com/lucasmerlin/hurlurl) - 随机链接缩短器， [Live Demo](https://hurlurl.com/).
 
 ## Templates
 
@@ -116,6 +117,7 @@
 - [yew-components](https://github.com/angular-rust/yew-components) - Yew 框架的材料设计组件.
 - [yew-chart](https://github.com/titanclass/yew-chart) - 基于 Yew 的图表库，提供基于 SVG 的组件来渲染图表.
 - [tailyew](https://github.com/fuzzycloud/tailyew) - 围绕 DaisyUI（基于 tailwindcss）组件的 Yew 包装器.
+- [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui)  - Duskmoon UI 组件库. 这个包使用 `stylist` 在组件中嵌入 css，所以不需要额外的 CSS 文件. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 
 ### Components
 
@@ -130,7 +132,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 调和 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
-- [yewv](https://github.com/yewv/yewv) - Yew 的闪电般快速状态管理模块，以性能和简单性为第一要务.
+- [yewv](https://github.com/yewv/yewv) - 以性能和简单性为第一要务的 Yew 闪电般快速状态管理模块.
 
 ### Javascript Library Ports
 
@@ -161,9 +163,9 @@
 
 ## Tooling
 
-- [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite Rust -> WebAssembly workflow tool.
+- [wasm-pack](https://github.com/rustwasm/wasm-pack) - 你最喜欢的 Rust -&gt; WebAssembly 工作流工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - 通过下载可执行文件以加速 CI/CD 来安装 `wasm-pack` 的 Github 操作.
-- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - 通过下载可执行文件以加速 CI/CD 来安装 `wasm-bindgen` 的 Github 操作.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
 - [cargo-web](https://github.com/koute/cargo-web) - 用于客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑并将您的 Rust Wasm 应用程序发送到网络.
 - [trunk-action](https://github.com/jetli/trunk-action) - 通过下载可执行文件以加速 CI/CD 来安装 `Trunk` 的 Github 操作.
@@ -195,7 +197,7 @@
 
 ## Books
 
-- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
+- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - 使用网络并生成 .wasm 文件.
 - [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - 如何绑定 Rust 和 JavaScript API.
 - [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - 如何构建和使用 rust 生成的 WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 包括关于使用 Yew 创建应用程序的“与 Yew 的高级 JavaScript 集成”一章.

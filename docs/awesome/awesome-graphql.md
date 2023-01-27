@@ -95,7 +95,7 @@
 ##### Frontend Framework Integrations
 
 - [vue-apollo](https://github.com/vuejs/vue-apollo) - 用于 VueJS 的 Apollo/GraphQL 集成.
-- [apollo-angular](https://github.com/kamilkisiela/apollo-angular) - 用于 Angular 和每个 GraphQL 服务器的功能齐全、生产就绪的缓存 GraphQL 客户端.
+- [apollo-angular](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
 - [svelte-apollo](https://github.com/timhall/svelte-apollo) - Apollo GraphQL 的 Svelte 集成.
 - [ember-apollo-client](https://github.com/ember-graphql/ember-apollo-client) - 用于 Apollo Client 和 GraphQL 的 ember-cli 插件.
 - [apollo-elements](https://github.com/apollo-elements/apollo-elements) - 适用于任何前端框架的 GraphQL Web 组件.
@@ -187,7 +187,7 @@
 - [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - 用于构建 GraphQL 服务器和连接到 SQL、MongoDB 和 REST 端点的文档、教程和示例.
 - [F8 App 2017](https://github.com/fbsamples/f8app) - 2016 年官方 F8 应用程序的源代码，由 React Native 和其他 Facebook 开源项目提供支持.
 - [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - 使用示例 Apollo React for Github GraphQL API with create-react-app.
-- [Next.js TypeScript and GraphQL Example](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - 运行 Next.js 的受类型保护的 GraphQL 示例 [graphql-codegen](https://graphql-code-generator.com/) 在引擎盖下
+- [Next.js TypeScript and GraphQL Example](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) 在引擎盖下
 - [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) – 一个实时的、可编辑的演示在大约 2 秒内旋转并在浏览器中运行.
 - [NAPERG](https://github.com/alan345/naperg)  - 全栈样板 GraphQL. 使用 React &amp; Prisma + 身份验证和角色制作.
 - [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
@@ -301,6 +301,7 @@
 - [Light Java GraphQL](https://github.com/networknt/light-graphql-4j)：一个轻量级、快速的微服务框架，解决了所有横切关注点并准备好插入 GraphQL 模式.
 - [Elide](https://elide.io)：一个 Java 库，可以将 JPA 注释数据模型公开为任何关系数据库上的 GraphQL 服务.
 - [federation-jvm](https://github.com/apollographql/federation-jvm) - JVM 上的 Apollo Federation.
+- [graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway 库，支持模式拼接和 Apollo Federation 指令，将来自多个 GraphQL 微服务的模式组合成一个单一的统一模式.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - 为 graphql-java 提供字段和字段参数的扩展验证.
 - [dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - 一组用于常见格式化用例的实验性 DGS 指令.
 
@@ -313,7 +314,7 @@
 
 #### Java Examples
 
-- [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) - Light Java GraphQL 示例和教程.
+- [light-java-graphql examples](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
 - [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - 使用 Spring MVC 和 GraphQL-SPQR 编写的示例 GraphQL 服务器.
 - [manifold-graphql sample](https://github.com/manifold-systems/manifold-sample-graphql-app) - 一个简单的应用程序，包括客户端和服务器，演示了 Manifold GraphQL 库.
 - [graphql-java-kickstart_samples](https://github.com/graphql-java-kickstart/samples) - 使用 GraphQL Java Kickstart 项目的示例.
@@ -480,7 +481,7 @@
 
 #### Android Examples
 
-- [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android.
+- [apollo-frontpage-android-app](https://github.com/rnitame/apollo-frontpage-android-app) - 适用于 Android 的 Apollo“hello world”应用程序.
 
 <a name="ios" />
 
@@ -595,9 +596,9 @@
 
 ### Tools - Security
 
-- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
+- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - 用于 GraphQL 的多合一自动化渗透测试工具包，用 Python 编写
 - [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键式安全扫描您的 GraphQL 端点. 免费，无需登录.
-- [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – Blazing fast GraphQL endpoints finder using subdomain enumeration, scripts analysis and bruteforce.
+- [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
 - [Tinfoil Security - GraphQL Security Scanner](https://www.tinfoilsecurity.com/blog/graphql-security-scanning) - [Tinfoil Security](https://www.tinfoilsecurity.com/solutions/api-scanner)
 - [InQL Scanner](https://github.com/doyensec/inql) - 用于 GraphQL 安全测试的 Burp 扩展
