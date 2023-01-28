@@ -22,6 +22,7 @@
 <br>
 
 
+- [Cordova plugins](#cordova-plugins) 
 
 
 ## Official plugins
@@ -60,7 +61,7 @@
 - [App-icon](https://github.com/capacitor-community/app-icon) - 用于更改应用程序图标的电容器社区插件.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - 电容器登录苹果.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - 即使应用程序处于后台，也能接收地理位置更新.
-- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描仪.
+- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描器.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - 低功耗蓝牙.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - 相机预览.
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - 使用适用于 Android 和 iOS 的原生 Maps API 的插件.
@@ -76,7 +77,7 @@
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - Firebase 远程配置的原生插件.
 - [Flipper](https://github.com/capacitor-community/flipper) - 脚蹼调试器的本机插件.
 - [Http](https://github.com/capacitor-community/http) - 用于无 CORS 请求和文件传输的本机 HTTP 插件.
-- [Intercom](https://github.com/capacitor-community/intercom) - 为 Capacitor 应用程序启用对讲功能.
+- [Intercom](https://github.com/capacitor-community/intercom) - 为 Capacitor 应用启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止屏幕进入睡眠状态.
 - [Media](https://github.com/capacitor-community/media) - 为 Capacitor 启用一些媒体功能，例如创建相册、保存视频、gif 等.
 - 微软
@@ -204,23 +205,23 @@
 
 ### Incompatible
 
--   [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) （不需要，Capacitor 内置了 Swift 支持）
--   [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details](https://github.com/ionic-team/capacitor/issues/1101))
--   [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details](https://github.com/ionic-team/capacitor/issues/1415))
--   [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details](https://github.com/microsoft/code-push/issues/615))
--   [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) （没有必要）
--   [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) （不需要，电容器有自己的）
--   [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) （电容器不允许更改网络视图）
--   [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details](https://github.com/ionic-team/capacitor/issues/584))
--   [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details](https://github.com/ionic-team/capacitor/issues/815))
--   [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) （不需要，电容器有它自己的）
--   [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) （不需要，Capacitor使用WKWebView）
--   [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) （导致构建失败，跳过）
--   [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details](https://github.com/ionic-team/capacitor/issues/1213))
--   [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) （不需要，电容器有自己的）
--   [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) （不需要，电容器有自己的）
--   [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) （不需要，Capacitor使用WKWebView）
--   [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) （导致 iOS 上的构建失败，仅针对 iOS 跳过）
+- [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) （不需要，Capacitor 内置了 Swift 支持）
+- [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details](https://github.com/ionic-team/capacitor/issues/1101))
+- [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details](https://github.com/ionic-team/capacitor/issues/1415))
+- [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details](https://github.com/microsoft/code-push/issues/615))
+- [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) （没有必要）
+- [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) （不需要，电容器有自己的）
+- [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) （电容器不允许更改网络视图）
+- [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details](https://github.com/ionic-team/capacitor/issues/584))
+- [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ([see details](https://github.com/ionic-team/capacitor/issues/815))
+- [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) （不需要，电容器有它自己的）
+- [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) （不需要，Capacitor使用WKWebView）
+- [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) （导致构建失败，跳过）
+- [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ([see details](https://github.com/ionic-team/capacitor/issues/1213))
+- [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) （不需要，电容器有自己的）
+- [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) （不需要，电容器有自己的）
+- [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) （不需要，Capacitor使用WKWebView）
+- [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) （导致 iOS 上的构建失败，仅针对 iOS 跳过）
 
 
 ## Tools

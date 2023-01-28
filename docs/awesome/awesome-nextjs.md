@@ -83,7 +83,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用 Next.js、Firebase Firestore、styled-components 和 mobx-state-tree 构建的简单 CMS 博客.
 - [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 具有 Express、Redux 和 PostCSS 的 Next.js 启动器.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 带有 Redux 和 Material UI 的样板 NextJS.
-- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库_和_最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
+- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库 _and_ 最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
 - [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS、Styled-jsx、Redux、PostCSS、可配置的 SEO
 - [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - 外部 CSS 和 Sass + 从任何地方导入图像 + Prettier 和 Eslint + 环境变量和更多功能.
 - [next-starter](https://github.com/YuriBrunetto/next-starter) - 一个完整而简单的样板文件，内置 `sass (.scss)` 和 `postcss`.
@@ -141,6 +141,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [next-joi](https://github.com/codecoolture/next-joi) - 使用 _joi_ 验证 Next.js API 路由.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules)  - 从 node_modules 转译代码的 Next.js 插件. 对 monorepos 有用.
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js 扩展以可视化方式在本地构建登陆页面.
+- [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks 和 Next.js API 路由，使将 Sign-In with Ethereum 添加到您的应用程序变得非常容易.
 
 ## Apps
 
@@ -148,7 +149,6 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Feednext](https://github.com/feednext/feednext) - 一个开源社交媒体应用程序.
 - [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - 展示《权力的游戏》角色的简单 Next.js 应用程序.
 - [Relate](https://github.com/RelateNow/relate) - 正念社区 - React、GraphQL、Next.js.
-- [Next News](https://github.com/now-examples/next-news) - 用 Next.js 编写的 HackerNews.
 - [Password](https://github.com/dotcypress/password) - 一个密码，正确的方式.
 - [Next Todos](https://github.com/lipp/next-todos) - 用 Next.js 编写的待办事项列表.
 - [Hacker News](https://github.com/lipp/hackernews) - 另一个用 Next.js 编写的黑客新闻.
@@ -174,7 +174,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Docker Success Center](https://success.docker.com) - Docker 成功中心
 - [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - 根据 GPLv3 获得许可的德国法律信息系统.
 - [TikTok's HomePage](https://www.tiktok.com/) - TikTok 的主页
-- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 集成.
+- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 整合.
 - [caseconverter.pro](https://caseconverter.pro) - 文本大小写转换器.
 - [Tottem](https://github.com/poulainv/tottem) - 使用 NextJs / Auth0 / Apollo Tools / Prisma2 构建的类固醇书签管理器
 - [Slow TV Map](https://slowtvmap.com)  - 一种发现轻松虚拟体验的有趣方式.  Next.js + Chakra UI + MySQL 托管在 Vercel 上.

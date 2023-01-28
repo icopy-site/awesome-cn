@@ -19,7 +19,7 @@
 - [bird-box](https://github.com/matchai/bird-box) - 更新固定要点以包含 Twitter 用户的最新推文.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - 更新固定要点以显示您最新的 dev.to 博客文章.
 - [book-box](https://github.com/amorriscode/book-box) - 更新固定要点以包含您从 goodreads 中最新阅读的内容
-- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评级.
+- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评分.
 - 代码::统计 (https://codestats.net/)
     - [codestats-box](https://github.com/Ancientwood/codestats-box) - 更新固定要点以包含您的日常 Code::Stats.
     - [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  - codestats-box 的 Python 实现. 更新固定要点以包含您的 Code::Stats 统计信息.
@@ -63,6 +63,12 @@
 - [github-stats-box](https://github.com/bokub/github-stats-box) - 更新固定要点以包含您的 GitHub 统计信息.
 - [lang-box](https://github.com/inokawa/lang-box) - 更新固定要点以包含您最近在 GitHub 中提交的语言
 - [productive-box](https://github.com/maxam2017/productive-box) - 更新固定要点以包含您一天中最有效率的时间.
+
+## User Defined
+
+在固定要点中显示来自用户定义（例如在 GitHub Action 输入参数中配置）内容的数据.
+
+- [date-box](https://github.com/kf-liu/date-box) - 更新固定要点以包含您的周年纪念日和倒计时天数（或小时数）.
 
 ## Resources
 

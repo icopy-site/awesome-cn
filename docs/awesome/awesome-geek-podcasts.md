@@ -120,7 +120,7 @@
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall 是 PHP 开发人员每周与不同的嘉宾就 PHP 社区中的当前事件（或即将发生的事情）提出问题的一种方式.
 * [Podcast.\__init__](https://www.pythonpodcast.com/) - 关于 Python 和让它变得伟大的人的播客.
 * [Practical AI](https://changelog.com/practicalai) – 使人工智能变得实用、高效并为所有人所用.
-* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - 这个每周一次的播客提出了一些想法，可以帮助您成为数字隐身者、远离网络威胁并使您成为更好的在线调查员.
+* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - 这个每周一次的播客提出了一些想法，可以帮助您变得数字隐形，远离网络威胁，并使您成为更好的在线调查员.
 * [Python Bytes](https://pythonbytes.fm/) - Python 头条新闻直接发送到您的耳塞.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab)  - Radiolab 是一个关于好奇心的节目. 声音照亮思想，科学、哲学和人类经验之间的界限模糊.
 * [React Podcast](https://reactpodcast.com/) - 关于 React.js 的播客
@@ -171,7 +171,7 @@
 * [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - HackerSploit 播客旨在教育任何对信息安全、黑客或网络安全感兴趣的人. 
 * [The Hanselminutes podcast](https://hanselminutes.com/) - 开发人员的新鲜空气.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - Laravel 播客为您带来 Laravel 和 PHP 开发新闻和讨论.
-* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Jim Al-Khalili 教授与顶尖科学家谈论他们的生活和工作，找出是什么激发和激励他们，并询问他们的发现可能对人类有什么帮助.
+* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Jim Al-Khalili 教授与顶尖科学家谈论他们的生活和工作，找出启发和激励他们的因素，并询问他们的发现可能对人类有何帮助.
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth 和 Matt Frost 结合他们作为 Web 开发人员数十年的经验来谈论开发人员的生活.
 * [The Manifest](https://manifest.fm) - 一个关于包管理的播客.
 * [The Ship Show](http://theshipshow.com/) - 构建工程、DevOps、发布管理以及介于两者之间的一切！
@@ -198,7 +198,7 @@
 * [10deploys](https://www.10deploys.com/) - 讨论 DevOps 背后的起源、趋势、影响和概念，以帮助组织将自己转变为高性能组织.
 * [99Vidas](http://99vidas.com.br/) - 怀旧、有趣和对电子游戏的很多看法.
 * [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - 关于系统开发和 ArchCode 技术的播客.
-* [Amarelo Criativo](https://soundcloud.com/amarelocriativo)  - Yellow Creative 的所有播客. 整个星期都有不同的节目，带来有关创意市场、极客世界和黄色幽默的信息.
+* [Amarelo Criativo](https://soundcloud.com/amarelocriativo)  - Yellow Creative 的所有播客. 整个星期都有不同的节目，以黄色幽默带来有关创意市场、极客世界的信息.
 * [CapyCast](https://soundcloud.com/rdshipit/) - Results 数字产品团队的播客，讲述他们在开发和设计中学到的知识.
 * [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - 坎皮纳格兰德联邦大学计算机科学课程监护人小组的播客.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - 第一个关于数据库的巴西播客.
@@ -216,7 +216,7 @@
 * [Knowledge Cast](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw) - K21 的敏捷播客
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) - Lambda3 的播客
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) - 涉及领导力和企业家精神等主题的访谈.
-* [Like a Boss](https://www.likeaboss.com.br)  - The Like a Boss 播客是为企业家准备的播客. 成功的初创公司和公司的领导者和创始人与两位节目主持人坐在一起.
+* [Like a Boss](https://www.likeaboss.com.br)  - Like a Boss 播客是为企业家准备的播客. 成功的初创公司和公司的领导者和创始人与两位节目主持人坐在一起.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) - 开诚布公的新闻
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - 播客有一个解释几个主题的建议，使用科学、哲学、历史等来支持答案.
 * [NautilusLink](https://soundcloud.com/nautiluslink) - 关于电子游戏的播客.
@@ -238,8 +238,7 @@
 * [Zone Of Front-Enders](https://zofe.com.br/) - 专注于前端 Web 开发的播客.  
 * [Dragões de Garagem](http://dragoesdegaragem.com/) - 科学外展播客，希望以一种易于理解和轻松的方式谈论科学，鼓励好奇心和批判性思维.
 * [Opencast](https://anchor.fm/opencast) - 轻松聊天中的技术、免费软件和创新，充满对类 unix 世界的参考.
-* [Flow Games](https://www.youtube.com/c/FlowGamesPodcast) - 由 Schaeppi 主持的播客，谈论各种游戏主题..
-* [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - 播客 Alura，谈论各种技术主题.
+* [Hipstercast](https://www.alura.com.br/podcasts/hipsterstech) - Podcast Alura，谈论各种技术主题.
 
 ## In Spanish
 

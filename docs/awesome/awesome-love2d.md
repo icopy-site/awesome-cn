@@ -29,6 +29,7 @@
 * [Lua-star](https://github.com/wesleywerner/lua-star) - 简单而纯粹的 Lua A* 寻路.
 * [astar](https://github.com/xiejiangzhi/astar)  - 另一个 A* 库. 任何地图（网格、点、网格或无限地图）并支持路径成本.
 * [pathfun](https://github.com/apicici/pathfun) - 使用漏斗算法进行二维寻路的纯 Lua 库.
+* [beehive.lua](https://github.com/drhayes/beehive.lua) - 功能行为树实现.
 
 ## Animation
 *动画和帧管理库*
@@ -252,7 +253,7 @@
 * [busted](https://github.com/Olivine-Labs/busted) - 具有可定制断言的简单单元测试框架.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - 无夹具测试框架.
 * [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的、可定制的测试扩展 `assert()`.
-* [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit 风格的随机单元测试框架.
+* [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework.
 * [lust](https://github.com/bjornbytes/lust) - 最小的测试框架.
 * [Specl](http://gvvaughan.github.io/specl/) - 行为驱动开发 (BDD) 工具.
 * [Telescope](http://norman.github.io/telescope/) - 高度可定制的 BDD 风格的测试库.
@@ -299,7 +300,7 @@
 * [cargo](https://github.com/bjornbytes/cargo) - 资产经理.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - 用于生成随机数据的库.
 * [colorchanger](https://github.com/santoslove/colorchanger) - 更改 LÖVE 游戏中的颜色.
-* [Flirt](https://github.com/Alloyed/flirt) - LÖVE version manager; allows to switch between multiple versions of engine on same machine.
+* [Flirt](https://github.com/Alloyed/flirt)  - LÖVE 版本管理器； 允许在同一台机器上的多个引擎版本之间切换.
 * [GifCat](https://github.com/WetDesertRock/GifCat) - 一个用于保存来自 LÖVE 的 gif 的简单模块.
 * [hex2color](https://github.com/S-Walrus/hex2color/) - 使用十六进制颜色值的单一函数.
 * [i18n](https://github.com/excessive/i18n) - 旨在帮助本地化您的游戏的国际化库.

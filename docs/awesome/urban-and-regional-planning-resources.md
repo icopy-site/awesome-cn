@@ -32,7 +32,7 @@
 ---
 ### Built Environment
 
-- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是一个全国性的地理数据资源，用于衡量位置效率. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
+- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内的开放建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些建筑物足迹是使用我们在卫星图像上的计算机视觉算法得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 - [National Structures Inventory](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation) - 一个数据集，旨在提供对一致的、全国可用的基于点的结构清单的访问，并附有属性以支持对自然和人为灾害后果的评估.
 
@@ -51,8 +51,8 @@
 
 ### Demographic
 
-- [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助地方官员、社区领袖和企业了解他们社区正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松浏览和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助当地官员、社区领袖和企业了解他们社区正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
+- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松浏览和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可以轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及从 1790 年到现在的所有级别的 GIS 兼容边界文件美国人口普查地理，包括州、县、地区和街区.
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop) - 这一全球人口层基于遥感土地覆盖分类和欧盟提供的全国人口普查. 
 
@@ -99,7 +99,7 @@
 ### Historic Preservation
 
 - [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家史迹名录是国家值得保护的历史名胜的官方名单.
-- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产地是联合国教科文组织世界遗产委员会维护的财产清单上的一个地点，被称为世界遗产名录“它认为具有突出的普遍价值”.
+- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产是联合国教科文组织世界遗产委员会维护的财产清单上的一个地点，被称为世界遗产名录“它认为具有突出的普遍价值”.
 
 ### Land Use and Land Cover
 
@@ -250,15 +250,14 @@ Python 库和相关资源.
 - [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一小组 Python 函数，用于从 OpenStreetMap 数据绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 一个为 HERE API 提供 Python 接口的库. 
-- [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
-- [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
+- [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic是一个Python包，使用HERE提供的API爬取你喜欢的路线、城市的交通流量数据.
+- [PySAL](https://pysal.org) - Python 空间分析库是一组用于探索空间相关性和其他空间关系的算法.
 - [city-seer-api](https://cityseer.benchmarkurbanism.com/) - 基于行人规模网络的城市分析包：网络分析、城市形态、土地利用、可达性和统计聚合.
 - [Geemap](https://github.com/giswqs/geemap) - 用于与 Google Earth Engine、ipyleaflet 和 ipywidgets 进行交互式映射的 Python 包.
 - [Geoplot](https://residentmario.github.io/geoplot/)  - Geoplot 是一个高级 Python 地理空间绘图库. 它是对 cartopy 和 matplotlib 的扩展，使制图变得容易：就像用于地理空间的 seaborn 一样.
 - [Urbansprawl](https://github.com/lgervasoni/urbansprawl)  - urbansprawl 项目提供了一个开源框架，用于使用开放数据评估城市蔓延. 它使用 OpenStreetMap (OSM) 数据来计算其庞大的指数，分为可达性、土地利用组合和分散性.
 - [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial 使用 Numba 实现常用的栅格分析功能，并提供易于安装、易于扩展的栅格分析代码库.
 - [Momepy](http://docs.momepy.org/en/stable/)  - Momepy 是一个用于城市形态定量分析的库 - 城市形态计量学. 它是 PySAL（Python 空间分析库）的一部分，构建在 GeoPandas、其他 PySAL 模块和 networkX 之上.
-- [global indicators](https://github.com/global-healthy-liveable-cities/global-indicators) - 全球健康和可持续城市指标合作.
 - [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - 地理信息系统使用 GeoTIFF 和其他格式来组织和存储网格栅格数据集，例如卫星图像和地形模型.
 
 
@@ -282,9 +281,10 @@ R 包及相关资源.
 - [tidycensus](https://walker-data.com/tidycensus/) - 一种从美国人口普查局 API 访问数据以进行操作或空间分析的简洁方法.
 
 ### Other
-其他编码库和资源.
+其他编码特殊项目和/或其他资源.
 
 - [civic-tech-patterns](https://github.com/codeforamerica/civic-tech-patterns)  - 公民技术和公民应用程序的常见模式和反模式. 附加信息：由美国代码提供.
+- [global-indicators](https://github.com/global-healthy-liveable-cities/global-indicators) - 案例研究预计致力于发展全球健康和可持续的城市指标合作.
 
 ### Web and JS
 前端网络相关的包和资源.
@@ -303,13 +303,13 @@ R 包及相关资源.
 - [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics)  - Planetizen 课程教授大数据处理、分析和可视化的基础知识. 需要每月订阅. 
 
 ## Platforms and Software Resources
-Software and platforms for planners and those interested in the built environment. 
+面向规划人员和对建筑环境感兴趣的人员的软件和平台. 
 
 ---
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和缓解规划的软件、工具和平台. 
 
-- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 恢复力和适应性气候制图 (CMRA) 整合了来自整个联邦政府的信息，以帮助人们考虑当地对气候相关危害的暴露程度. 在社区组织或公共机构工作的人可以使用该站点来帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
+- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 恢复力和适应性气候测绘 (CMRA) 整合了来自整个联邦政府的信息，以帮助人们考虑当地对气候相关危害的暴露程度. 在社区组织或公共机构工作的人可以使用该网站帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的效益和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供且开发透明. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是在几乎没有或没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
@@ -409,7 +409,7 @@ Software and platforms for planners and those interested in the built environmen
 ### Podcasts
 涉及建筑环境或社区的播客. 
 - [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways 播客是一个关于交通和城市设计的每周播客.
-- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
+- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
 - [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在经济上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
 - [The Urban Planner's Podcast](https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446) - 此播客面向城市规划人员、城市规划学生和对城市规划主题感兴趣的人.
@@ -431,9 +431,9 @@ Other types of planning data & technology resources. They are a good source of i
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
 
 ### Other Technology Resource Aggregators
-这些是其他聚合器，汇集了不同的规划相关工具、软件、数据和相关资源.
+These are other aggregators that bring together different planning related tools, software, data, and related resources.
 
-- [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
+- [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的流动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - Harvard Dataverse 是研究数据的存储库. 它包含跨越科学的各种数据集，其中许多具有公共领域的奉献精神. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包.

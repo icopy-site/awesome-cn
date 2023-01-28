@@ -5,17 +5,9 @@
 
 &gt; 精心策划的精彩清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要针对初学者/中级的资源.
 
-创意编码与编程系统是一门不同的学科. 目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**、**信息可视化**和**生成艺术**都是不同类型的创意编码——这已经成为描述**以代码形式表达的艺术作品**的家喻户晓的术语.
+创意编码与编程系统是一门不同的学科. 目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**、**信息可视化**和**生成艺术**都是不同类型的创意编码——这已成为描述**以代码形式表达的艺术作品**的家喻户晓的术语.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
-
----
-
-⭐ **不知道从哪里开始？** 查看 **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
-
-**想要更深入？**查看**[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**.
-
----
 
 
 
@@ -167,6 +159,7 @@
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - 用于 javascript 的轻量级 3d 物理引擎
 - [Ammo.js](https://github.com/kripken/ammo.js/) - 使用 Emscripten 将 Bullet 物理引擎直接移植到 JavaScript
 - [Theatre.js](https://github.com/ariaminaei/theatre) - 带有可视化工具的运动设计库
+- [GraphicsJS](http://www.graphicsjs.org) - 用于图形和动画 (SVG/VML) 的轻量级开源 JavaScript 库.
 
 ### Projection Mapping • VJing
 
@@ -185,11 +178,11 @@
 - [Shadertoy](https://www.shadertoy.com/) - 构建着色器并与世界分享并获得灵感.
 - [Shader Park](https://shaderpark.com/) - 用于创建交互式程序 2D 和 3D 着色器的 JavaScript 库.
 - [GLSLbin](http://glslb.in/) - 支持 glslify 的片段着色器沙箱.
-- [GLSL Sandbox](http://glslsandbox.com/) - 在线着色器编辑器和画廊.
+- [GLSL Sandbox](http://glslsandbox.com/) - 在线着色器编辑器和图库.
 - [Shdr Editor](http://shdr.bkcore.com/) - 在线着色器编辑器.
 - [CodePen](http://codepen.io/) - 展示具有可编辑源代码的高级技术案例.
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - 用于编程 GPU 着色器的接口.
-- [Vertexshaderart](https://www.vertexshaderart.com/) - 在线着色器编辑器和画廊.
+- [Vertexshaderart](https://www.vertexshaderart.com/) - 在线着色器编辑器和图库.
 - [Cyos](http://cyos.babylonjs.com/) - 在线着色器编辑器.
 - [GlslEditor](http://editor.thebookofshaders.com/) - 简单的 WebGL 片段着色器编辑器.
 - [OpenProcessing](https://www.openprocessing.org/) - 创建并试验算法设计、处理和 P5.js.
@@ -249,7 +242,7 @@
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - 关于顶点着色器的 YouTube 播放列表.
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - 深入 three.js 的 YouTube 播放列表.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - 教你如何制作着色器的 YouTube 播放列表，从使用 shadertoy 的零知识开始.
-- [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
+- [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - 与 Greg Tatum 一起介绍 WebGL 闪电.
 
 ### Talks
 
@@ -262,7 +255,7 @@
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - 我是如何学会停止担心并热爱线性代数的.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - Steven Wittens 谈论 WebGL、GPU 和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Zach Lieberman 鼓舞人心的演讲.
-- [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - Matt DesLauriers 关于他对生成艺术的热情的 FITC 谈话.
+- [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - FITC talk by Matt DesLauriers about his passion for generative art.
 
 ### Articles • Tutorials
 
@@ -477,7 +470,7 @@
 - [Raven Kwok](https://ravenkwok.tumblr.com/) - 视觉艺术家 Raven Kwok 的 Tumblr.
 - [P5Art](http://p5art.tumblr.com/) - 非常好的处理实验集合.
 - [Echophon](http://echophon.tumblr.com/) - 具有视觉灵感的 Tumblr.
-- [Bees & Bombs](https://beesandbombs.tumblr.com/) - 由 Dave 提供的带有 gif 的 Tumblr.
+- [Bees & Bombs](https://beesandbombs.tumblr.com/) - 由 Dave 提供的带有 gif 图像的 Tumblr.
 - [DevArt](https://devart.withgoogle.com/) - 庆祝艺术家用代码创造的艺术，推动创造力的可能性.
 - [Folds2d](http://folds2d.tumblr.com/) - 带有曲线、曲面、标量和矢量场的 Tumblr.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) - W:Blut 收集的 gif、链接和图像.
@@ -545,10 +538,6 @@
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - 2013 年精选清单.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - 用于 3D 机器学习的资源库.
 - [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - 创意技术团体、公司、工作室、集体等的精选列表.
-
-## Special Thanks
-
-[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 ## License
 
