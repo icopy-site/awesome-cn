@@ -184,7 +184,7 @@
 
 * [Disjunctive Abduction](https://link.springer.com/article/10.1007/s00354-019-00059-x) - ***新一代计算***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=6664745483675209831&hl=en&as_sdt=0,5)].
 
-* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5)]. A non-Bayesian account of Abduction.
+* [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯解释.
 
 * [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 解释溯因推理的概率观点.
 
@@ -221,7 +221,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -452,7 +452,7 @@
 
 #### Dimensionality Reduction
 
-* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907) ]. 关于频谱聚类的原始论文.
+* [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907)]. The original paper on spectrum clustering.
 
 * [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
 
@@ -505,7 +505,7 @@
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/)  - ***柏拉图·斯坦福***. 语用学的计算哲学说明，它研究特定上下文中的话语.
 
-* [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5) ]. 关于理性言语行为 (RSA) 的原始论文.
+* [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5) ]. 关于理性言语行为 (RSA) 的原始论文.
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5) ]. 诺亚·古德曼 (Noah Goodman) 和迈克尔·弗兰克 (Micheal Frank) 对理性言语行为的评论.
 
@@ -534,13 +534,13 @@
 
 #### Pointing & Pantomime
 
-* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***认知***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5) ]. 关于儿童指点的原始论文.
+* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5) ]. 关于儿童指点的原始论文.
 
 
 
 #### Language Compositionality
 
-* [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***. A computational philosophy account on compositionality, one of the distinctive feature of language.
+* [Compositionality](https://plato.stanford.edu/entries/compositionality/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了组合性，这是语言的显着特征之一.
 
 
 * [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***语言会议演变的论文集&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5) ]. 关于组合性出现的原始论文.
@@ -601,7 +601,7 @@
 
 * [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)].
 
-* [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939&hl=en&as_sdt=0,5)].
+* [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939&hl=en&as_sdt=0,5)].
 
 
 #### Planning
@@ -610,7 +610,7 @@
 
 * [Integrated Task and Motion Planning](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-091420-084139) - ***控制、机器人和自治系统年度回顾***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=478421650694199529&hl=en&as_sdt=0,5) ].  Leslie Kaelbling 对 Task-and-Motion-Planning (TAMP) 的评论.
 
-* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626) - ***机器人：科学与系统***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)].
+* [Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning](https://dspace.mit.edu/handle/1721.1/126626) - ***Robotics: Science and Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=10342169019935480143&hl=en&as_sdt=0,5)].
 
 * [Learning to act by integrating mental simulations and physical experiments](https://gershmanlab.com/pubs/Dasgupta18_simulation.pdf) - ***CogSci&#39;21***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)].
 
@@ -679,7 +679,7 @@
 
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
-* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5) ].  Richard Sutton 对强化学习研究未来方向的看法.
+* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***关于强化学习和决策的多学科会议&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5) ].  Richard Sutton 对强化学习研究未来方向的看法.
 
 * [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214&hl=en&as_sdt=0,5)].
 
@@ -887,9 +887,9 @@
 
 ### Evolutionary Intelligence
 
-* [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080&hl=en&as_sdt=0,5) ]. 一篇将生物权衡与帕累托最优演化相关联的经典论文.
+* [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080&hl=en&as_sdt=0,5) ]. 一篇将生物权衡与帕累托最优演化相关联的经典论文.
 
-* [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***应用数学与优化***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354&hl=en&as_sdt=0,5) ]. 关于多目标问题中帕累托最优的原始论文.
+* [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***应用数学与优化***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354&hl=en&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 
 * [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***关于系统、人和控制论的 IEEE 汇刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429&hl=en&as_sdt=0,5) ]. 全面回顾帕累托最优在多目标机器学习中的应用.
 
@@ -998,7 +998,7 @@
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 
-* [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5)]. The milestone paper on context Meta-RL.
+* [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5) ]. 关于上下文元强化学习的里程碑论文.
 
 * [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](http://proceedings.mlr.press/v97/rakelly19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15379570585451726919&hl=en&as_sdt=0,5)].
 
@@ -1065,6 +1065,8 @@
 
 * [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403) ]. 汤姆·格里菲斯 (Tom Griffiths) 对通过人类局限性的三个方面来理解人类智能的独特性所做的评论.
 
+* [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405&hl=en&as_sdt=0,5) ]. 有证据表明人们具有“直觉能力分析”的一些基础，这有助于人们使用直觉统计推理和元认知策略来估计他们可能需要多少信息来解决不同的歧视问题.
+
 
 #### Cognitive Architecture
 
@@ -1073,7 +1075,7 @@
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***人工智能***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
 
 
-* [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530) - ***Artificial Intelligence***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)].
+* [Metacognition in computation: A selected research review](https://www.sciencedirect.com/science/article/pii/S0004370205001530) - ***人工智能***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=4240334051245008914&hl=en&as_sdt=0,5)].
 
 * [Basic functional trade-offs in cognition: An integrative framework](https://www.sciencedirect.com/science/article/pii/S0010027718301604) - ***认知***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11475742130443069967&hl=en&as_sdt=0,5)].
 
@@ -1175,7 +1177,7 @@
 
 * [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5) ]. 没有显式概率计算的人类概率建模的观点.
 
-* [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
+* [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
 
 * [The Bayesian Brain: An Introduction to Predictive Processing](https://www.mindcoolness.com/blog/bayesian-brain-predictive-processing/) - 2018. 
 
@@ -1387,7 +1389,7 @@
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***柏拉图·斯坦福***. 
 
 
-* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)]. The original paper on second-order metarules.
+* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5) ]. 关于二阶元规则的原始论文.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
 
@@ -1449,7 +1451,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1569,7 +1571,7 @@
 
 * [Where science starts: Spontaneous experiments in preschoolers' exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***认知***，2011 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)].
 
-* [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)].
+* [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)].
 
 * [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf) - ***儿童发展和行为进展***，2012 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)]. 
 
@@ -1778,7 +1780,7 @@
   
 #####  **Cognitive Science**
   * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139) - ***DiGRA***，2018 年.
-  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) - ***Spatial Cognition'20***, 2020.
+  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) - ***空间认知&#39;20***，2020 年.
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf) - ***ICCC&#39;20***,
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial&#39;20***，2020 年.

@@ -15,7 +15,7 @@
 - [MafiaUnity](https://github.com/MafiaHub/MafiaUnity) - 开源黑手党游戏框架.
 - [OpenJK](https://github.com/JACoders/OpenJK) - Raven Software 维护和改进 Jedi Academy 和 Jedi Outcast 的社区努力.
 - [OpenLara](https://github.com/XProger/OpenLara) - 经典古墓丽影开源引擎.
-- [OpenMB](https://github.com/cookgreen/OpenMB) - Taleworlds 的骑马与砍杀系列角色扮演游戏引擎.
+- [OpenMB](https://github.com/cookgreen/OpenMB) - 用于 Taleworlds 的骑马与砍杀系列的角色扮演游戏引擎.
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - 原始的古墓丽影 1-5 体验与现代更新、功能和添加.
 - [re3](https://github.com/td512/re3) - GTA III 和 GTA：罪恶都市的反向源代码.
 - [remc2](https://github.com/turican0/remc2) - 来自 Assembler 的 Magic Carpet 2 逆向工程.
@@ -66,7 +66,7 @@
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - 具有柔和阴影的 Doom 3 BFG 版本、清理源代码、Linux 和 64 位支持.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - 乡下人横冲直撞的港口.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) - 高级 DOOM 源端口.
-- [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - 用于现代系统的 Jedi 引擎和使用该引擎的游戏 - 黑暗势力和亡命之徒.
+- [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - 用于现代系统的 Jedi 引擎和使用该引擎的游戏 - Dark Forces 和 Outlaws.
 - [Tyrquake](https://github.com/libretro/tyrquake) - Tyrquake 的 Libretro 端口.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - id Software 的 Quake II 的增强客户端，专注于离线和合作游戏.
 - [vkQuake](https://github.com/Novum/vkQuake) - 使用 Vulkan 而不是 OpenGL 进行渲染的 Quake 端口.
@@ -97,6 +97,7 @@
 - [FreeFT](https://github.com/nadult/FreeFT) - 受 Fallout Tactics 启发的实时等距动作游戏引擎.
 - [GemRB](https://github.com/gemrb/gemrb) - Infinity Engine 的便携式开源重新实现（用于 Baldur&#39;s Gate、Icewind Dale 等）.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - 暗黑破坏神 2 的开源重新实现.
+- [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - 使用原始数据和代码重制魔法门 VI-VIII 引擎.
 - [OpenGothic](https://github.com/Try/OpenGothic) - 重新实现哥特式 2：乌鸦之夜.
 - [OpenMW](https://github.com/OpenMW/openmw) - 重新实现晨风游戏引擎.
 - [OpenNox](https://github.com/noxworld-dev/opennox) - 扩展 Nox 引擎的合作项目.
@@ -126,7 +127,7 @@
 ## Racing
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) - 死亡拉力赛引擎重新实现.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - 尝试重现经典的极品飞车游戏 (1-6).
-- [Vangers](https://github.com/KranX/Vangers) - 赛车/角色扮演游戏混合由其创建者开源，用 C++ 编写.
+- [Vangers](https://github.com/KranX/Vangers) - 赛车/RPG 混合由其创建者开源，用 C++ 编写.
 - [Vange-rs](https://github.com/kvark/vange-rs) - 这个项目的想法是复制 Vangers 的旧外观和行为，但对图形进行本地硬件加速.
 
 ## Simulator

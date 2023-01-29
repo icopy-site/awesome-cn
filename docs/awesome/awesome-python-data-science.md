@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="krzjoa/awesome-python-data-science"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-	<a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="https://raw.githubusercontent.com/krzjoa/awesome-python-data-science/master/img/py-datascience.png" alt="pyds"></a>
-	<br>
-	<br>
-	<br>
+    <a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="https://raw.githubusercontent.com/krzjoa/awesome-python-data-science/master/img/py-datascience.png" alt="pyds"></a>
+    <br>
+    <br>
+    <br>
 </div>
 
 <h1 align="center">
-	很棒的 Python 数据科学
+    很棒的 Python 数据科学
 </h1>
 <div align="center"><a href="https://github.com/sindresorhus/awesome">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" border="0">
@@ -16,22 +16,22 @@
 </div>
 </br>
 
-&gt; 可能是 Python 中最好的数据科学软件列表
+&gt; 可能是 Python 中精选的数据科学软件列表
 
 
 ## Machine Learning
 
-### General Purpouse Machine Learning
+### General Purpose Machine Learning
 * [Shogun](http://www.shogun-toolbox.org/) - 机器学习工具箱.
 * [xLearn](https://github.com/aksnzhy/xlearn) - 高性能、易于使用且可扩展的机器学习包.
 * [mlpack](https://github.com/mlpack/mlpack) - 可扩展的 C++ 机器学习库（Python 绑定）.
 * [dlib](https://github.com/davisking/dlib) - 用于在 C++（Python 绑定）中制作真实世界机器学习和数据分析应用程序的工具包.
 * [pyGAM](https://github.com/dswah/pyGAM) - Python 中的广义加法模型.
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - 用于图形结构化数据的无监督机器学习库.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - 用于图形结构数据的无监督机器学习库.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于对图形结构化数据进行采样的库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动机器学习 python 库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动化机器学习 python 库.
 * [AutoGluon](https://github.com/awslabs/autogluon) - 用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 ### Ensemble Methods
@@ -68,10 +68,10 @@
 
 ## Web Scraping
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): 最容易为初学者抓取静态网站的库
-* [Scrapy](https://scrapy.org/) ：快速且可扩展的抓取库. 可以在不接触课程的情况下编写规则并创建定制的抓取工具
+* [Scrapy](https://scrapy.org/) ：快速且可扩展的抓取库. 可以在不触及核心的情况下编写规则并创建定制的爬虫
 * [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction)：使用 Selenium Python API 以像真实用户一样直观的方式访问 Selenium WebDriver 的所有功能.
 * [Pattern](https://github.com/clips/pattern) : 为谷歌、推特和维基百科等知名网站进行高级抓取. 还有 NLP、机器学习算法和可视化
-* [twitterscraper](https://github.com/taspinar/twitterscraper): 高效的库来抓取推特
+* [twitterscraper](https://github.com/taspinar/twitterscraper): 抓取 Twitter 的高效库
 
 ## Data Manipulation
 
@@ -80,23 +80,24 @@
 * [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - 从 pandas DataFrame 对象创建 HTML 分析报告
 * [xpandas](https://github.com/alan-turing-institute/xpandas) - 具有 Transformers 的通用 1d/2d 数据容器.用于数据分析的功能 [The Alan Turing Institute](https://www.turing.ac.uk/).
 * [Arctic](https://github.com/manahl/arctic) - 用于时间序列和滴答数据的高性能数据存储.
-* [swifter](https://github.com/jmcarpenter2/swifter) - 以最快的可用方式有效地将任何功能应用于熊猫数据框或系列的包.
-* [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - 一个可以轻松编写你自己的 Pandas 风格的包.
-* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - 允许提供有关基本 pandas 操作的反馈并发现业务逻辑和性能问题的软件包.
+* [swifter](https://github.com/jmcarpenter2/swifter) - 一个以最快的方式有效地将任何功能应用于熊猫数据框或系列的包.
+* [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - 一个允许轻松编写自己的 Pandas 风格的包.
+* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - 一个允许提供有关基本 pandas 操作的反馈并发现业务逻辑和性能问题的包.
 * [vaex](https://github.com/vaexio/vaex) - 用于 Python、ML 的核外数据帧，以每秒十亿行的速度可视化和探索大表格数据.
 * [xarray](https://github.com/pydata/xarray) - Xarray 结合了 NumPy 和 pandas 的最佳特性，用于多维数据选择，通过用命名维度补充数值轴标签，实现更直观、简洁和不易出错的索引例程.
+* [polars](https://github.com/pola-rs/polars) - 一个快速的多线程、混合核外 DataFrame 库.
 
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) - 熊猫数据帧的 Sasy 管道.
-* [SSPipe](https://sspipe.github.io/) - 支持 DataFrames 和 Numpy 和 Pytorch 的 Python 管道 (|) 运算符.
+* [SSPipe](https://sspipe.github.io/) - 支持 DataFrames 和 Numpy 以及 Pytorch 的 Python 管道 (|) 运算符.
 * [Dataset](https://github.com/analysiscenter/dataset) - 帮助您方便地处理随机或顺序批次的数据并定义数据处理.
 * [meza](https://github.com/reubano/meza) - 用于处理表格数据的 Python 工具包.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - 为数据科学管道构建系统.
 * [Hamilton](https://github.com/stitchfix/hamilton) - 用于数据帧生成的微框架，它应用由延迟评估的 Python 函数流指定的有向无环图.
 
 ### Data-centric AI
-* [cleanlab](https://github.com/cleanlab/cleanlab) - 标准的以数据为中心的 AI 包，用于数据质量和机器学习，具有混乱的真实世界数据和标签. 
+* [cleanlab](https://github.com/cleanlab/cleanlab) - 标准的以数据为中心的 AI 包，用于数据质量和机器学习，具有混乱的真实世界数据和标签.
 * [snorkel](https://github.com/snorkel-team/snorkel) - 一种在弱监督下快速生成训练数据的系统.
 * [dataprep](https://github.com/sfu-db/dataprep) - 使用几行代码在 Python 中收集、清理和可视化您的数据.
 
@@ -109,19 +110,19 @@
 * [Featuretools](https://github.com/Featuretools/featuretools) - 自动化特征工程.
 
 ### Feature Selection
-* [scikit-feature](https://github.com/jundongl/scikit-feature) - python 中的特征选择存储库.
+* [scikit-feature](https://github.com/jundongl/scikit-feature) - Python 中的特征选择存储库.
 
 ## Visualization
 ### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - 用 Python 绘图.
 * [seaborn](https://github.com/mwaskom/seaborn) - 使用 matplotlib 的统计数据可视化.
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) - 轻松创建漂亮的 matplotlib 图.
-* [python-ternary](https://github.com/marcharper/python-ternary) - 带有 matplotlib 的 python 的三元绘图库.
+* [python-ternary](https://github.com/marcharper/python-ternary) - 带有 matplotlib 的 Python 三元绘图库.
 * [missingno](https://github.com/ResidentMario/missingno) - 缺少 Python 的数据可视化模块.
 * [chartify](https://github.com/spotify/chartify/) - Python 库，可让数据科学家轻松创建图表.
 * [physt](https://github.com/janpipek/physt) - 改进的直方图.
 ### Interactive plots
-* [animatplot](https://github.com/t-makaro/animatplot) - 一个基于 matplotlib 的动画绘图的 python 包.
+* [animatplot](https://github.com/t-makaro/animatplot) - 一个 python 包，用于在 matplotlib 上构建动画图.
 * [plotly](https://plot.ly/python/) - 一个 Python 库，可以制作交互式和出版质量的图表.
 * [Bokeh](https://github.com/bokeh/bokeh) - Python 的交互式网络绘图.
 * [Altair](https://altair-viz.github.io/)  - Python 的声明性统计可视化库. 可以轻松地在代码中进行许多数据转换以创建图形
@@ -139,15 +140,15 @@
 
 
 ## Deployment
-* [fastapi](https://fastapi.tiangolo.com/) - 用于使用 Python 构建 API 的现代、快速（高性能）Web 框架
-* [streamlit](https://www.streamlit.io/) - 轻松部署机器学习模型
+* [fastapi](https://fastapi.tiangolo.com/) - 现代、快速（高性能）的 web 框架，用于使用 Python 构建 API
+* [streamlit](https://www.streamlit.io/) - 使部署机器学习模型变得容易
 * [gradio](https://github.com/gradio-app/gradio) - 在 3 分钟内用 Python 为您的机器学习模型创建 UI.
 * [datapane](https://datapane.com/) - 将脚本和笔记本转换为交互式报告的 API 集合.
 * [binder](https://mybinder.org/) - 启用共享和执行 Jupyter 笔记本
 
 ## Model Explanation
 
-* [Shapley](https://github.com/benedekrozemberczki/shapley) - 一个数据驱动的框架，用于量化机器学习集成中分类器的价值. 
+* [Shapley](https://github.com/benedekrozemberczki/shapley) - 一个数据驱动的框架，用于量化机器学习集成中分类器的价值.
 * [Alibi](https://github.com/SeldonIO/alibi) - 用于监控和解释机器学习模型的算法.
 * [anchor](https://github.com/marcotcr/anchor) - “高精度模型不可知论解释”论文的代码.
 * [aequitas](https://github.com/dssg/aequitas) - 偏见和公平审计工具包.
@@ -162,7 +163,7 @@
 * [lucid](https://github.com/tensorflow/lucid) - 用于研究神经网络可解释性的基础设施和工具的集合.
 * [Netron](https://github.com/lutzroeder/Netron) - 用于深度学习和机器学习模型的可视化工具（没有 Python 代码，但可视化来自大多数 Python 深度学习框架的模型）.
 * [FlashLight](https://github.com/dlguys/flashlight) - 神经网络的可视化工具.
-* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - 用于 pytorch（和 chainer、mxnet、numpy 等）的 Tensorboard.
+* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - 用于 PyTorch 的 Tensorboard（以及 chainer、mxnet、numpy 等）.
 
 ## Reinforcement Learning
 * [OpenAI Gym](https://github.com/openai/gym) - 用于开发和比较强化学习算法的工具包.
@@ -192,7 +193,7 @@
 * [Spearmint](https://github.com/HIPS/Spearmint) - 贝叶斯优化.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - 用于优化的启发式算法.
 * [SMAC3](https://github.com/automl/SMAC3) - 基于序列模型的算法配置.
-* [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
+* [Optunity](https://github.com/claesenm/optunity) - 是一个包含用于超参数调整的各种优化器的库.
 * [hyperopt](https://github.com/hyperopt/hyperopt) - Python 中的分布式异步超参数优化.
 * [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - 使用高斯过程进行全局优化的 Python 实现.
 * [SafeOpt](https://github.com/befelix/SafeOpt) - 安全贝叶斯优化.
@@ -207,11 +208,11 @@
 
 ## Time Series
 * [darts](https://github.com/unit8co/darts) - 一个用于轻松操作和预测时间序列的 python 库.
-* [statsforecast](https://github.com/Nixtla/statsforecast) - 使用统计和计量经济学模型进行闪电般的快速预测. 
-* [mlforecast](https://github.com/Nixtla/mlforecast) - 基于可扩展机器学习的时间序列预测.
-* [neuralforecast](https://github.com/Nixtla/neuralforecast) - 基于可扩展机器学习的时间序列预测.
-* [greykite](https://github.com/linkedin/greykite) - 一个灵活、直观和快速的预测库.
-* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+* [statsforecast](https://github.com/Nixtla/statsforecast) - 使用统计和计量经济学模型进行闪电般的快速预测.
+* [mlforecast](https://github.com/Nixtla/mlforecast) - 可扩展的基于机器学习的时间序列预测.
+* [neuralforecast](https://github.com/Nixtla/neuralforecast) - 可扩展的基于机器学习的时间序列预测.
+* [greykite](https://github.com/linkedin/greykite) - 接下来是一个灵活、直观、快速的预测库.
+* [Prophet](https://github.com/facebook/prophet) - 自动预测程序.
 * [PyFlux](https://github.com/RJT1990/pyflux) - Python 的开源时间序列库.
 * [bayesloop](https://github.com/christophmark/bayesloop) - 促进时变参数模型的目标模型选择的概率编程框架.
 * [luminol](https://github.com/linkedin/luminol) - 异常检测和关联库.
@@ -224,7 +225,7 @@
 * [CLTK](https://github.com/cltk/cltk) - 经典语言工具包.
 * [gensim](https://radimrehurek.com/gensim/) - 人类主题建模.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) -<a href="https://github.com/morfologik/morfologik-stemming">形态学</a>的 Python 绑定.
-* [Phonemizer](https://github.com/bootphon/phonemizer) - 多种语言的简单文本到音素转换器.
+* [Phonemizer](https://github.com/bootphon/phonemizer) - 用于多种语言的简单文本到音素转换器.
 * [flair](https://github.com/zalandoresearch/flair) - 最先进的 NLP 的非常简单的框架.
 * [spaCy](https://spacy.io/) - 工业级自然语言处理.
 
@@ -244,7 +245,7 @@
 * [imgaug](https://github.com/aleju/imgaug) - 用于机器学习实验的图像增强.
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - imgaug 的额外增强.
 * [Augmentor](https://github.com/mdbloice/Augmentor) - 用于机器学习的 Python 图像增强库.
-* [albumentations](https://github.com/albu/albumentations) - 快速图像增强库和易于使用的其他库包装器.
+* [albumentations](https://github.com/albu/albumentations) - 快速图像增强库和其他库的易于使用的包装器.
 
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Python 中的统计建模和计量经济学.
@@ -276,7 +277,7 @@
 ## Evaluation
 * [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - 用于评估推荐系统的有用指标和图表库.
 * [Metrics](https://github.com/benhamner/Metrics) - 机器学习评估指标.
-* [AI Fairness 360](https://github.com/IBM/AIF360) - 数据集和 ML 模型的公平性指标、解释和算法，以减轻数据集和模型中的偏差.
+* [AI Fairness 360](https://github.com/IBM/AIF360) - 数据集和 ML 模型、解释和算法的公平性指标，以减轻数据集和模型中的偏差.
 
 ## Computations
 * [numpy](http://www.numpy.org/) - 使用 Python 进行科学计算所需的基础包.
@@ -293,12 +294,12 @@
 
 ## Quantum Computing
 * [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/Qiskit/qiskit) - Qiskit 是一个开源 SDK，用于在电路、算法和应用程序模块级别与量子计算机配合使用.
-* [cirq](https://github.com/quantumlib/Cirq) - 用于创建、编辑和调用噪声中级量子 (NISQ) 电路的 python 框架. 
+* [cirq](https://github.com/quantumlib/Cirq) - 用于创建、编辑和调用噪声中级量子 (NISQ) 电路的 python 框架.
 * [PennyLane](https://github.com/XanaduAI/pennylane) - 量子机器学习、自动微分和混合量子经典计算的优化.
 * [QML](https://github.com/qmlcode/qml) - 用于量子机器学习的 Python 工具包.
 
 ## Conversion
-* [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估计器转换为 C、Java、JavaScript 和其他语言.
+* [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
 * [ONNX](https://github.com/onnx/onnx) - 打开神经网络交换.
 * [MMdnn](https://github.com/Microsoft/MMdnn) - 一组帮助用户在不同深度学习框架之间进行互操作的工具.
 
@@ -313,6 +314,6 @@
 本作品根据 Creative Commons Attribution 4.0 International License 获得许可 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div align="center">
-	<a href="other/deprecated.md">弃用的库</a>
-	<a href="other/waiting-room.md">等候室</a>
+    <a href="other/deprecated.md">弃用的库</a>
+    <a href="other/waiting-room.md">等候室</a>
 <div>

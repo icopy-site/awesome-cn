@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/ellisonleao/magictools/actions/workflows/validatelinks.yml/badge.svg" alt="build"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ellisonleao/magictools/actions/workflows/validate-links.yml/badge.svg" alt="build"/></a>
 </p>
 
 一份精选的游戏开发资源清单，可让**神奇**发生.
@@ -58,7 +58,6 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：然后： [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - 内置于 Libgdx 中的纹理打包器
 - ：自由： [Littera](http://kvazars.com/littera) - 位图字体生成器
 - ：自由： [ShoeBox](http://renderhjs.net/shoebox/) - 基于 Adob​​e Air 的应用程序，带有游戏和 UI 相关工具.
-- ：然后： [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - 将多个图像组合成一个精灵表并生成它的 txt 地图.
 - ：money_with_wings： [TexturePacker](https://www.codeandweb.com/texturepacker) - 很棒的 spritesheet 创建编辑器.
 - ：然后： [Tilesplit](https://github.com/AlexPoulsen/tilesplit)  - 基于 CLI 文本的 tilesheet 拆分器和命名器. 将 spritesheet 转换为许多单独的文件，这些文件的名称由您选择，如果您不在乎，也可以不使用. 支持大小不一的模板和纹理.
 
@@ -226,7 +225,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) - 面向富有冒险精神的 Java 开发人员的 3D 开源游戏引擎.
 - ：然后： [JNGL](https://github.com/jhasse/jngl)  - 一个 2D 开源游戏引擎. 在 Linux、Windows、OS X 上开发.部署到 Nintendo Switch、Xbox、Linux、Windows、OS X、Web、Android、iOS 等.
 - ：自由： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google Android 的 3D 引擎.
-- ：然后： [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
+- ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净轻便的 2D 游戏框架
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中使用大块像素制作 2D 游戏的框架
 - ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
 - ：然后： [Kivy](http://kivy.org) - 用于为 Linux、Windows、OS X、Android 和 iOS 创建应用程序和游戏的跨平台 Python 框架
@@ -261,8 +260,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 二维物理库
 - ：然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 - ：然后： [Phaser](http://phaser.io/) - 免费快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
-- ：然后： [phina.js](http://phinajs.com/) - 一个 JavaScript 游戏库，可以轻松创建游戏和工具.
-- ：然后： [Piston](http://www.piston.rs/) - 用 Rust 编写的模块化开源游戏引擎.
+- ：然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - ：然后： [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - ：然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 来提高性能. 如果不支持 WebGL，引擎会回退到标准画布.
 - ：然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -467,7 +465,7 @@ _我们还需要赚钱，对吧？_
 - [AdColony](http://www.adcolony.com/) - 移动视频广告服务.
 - [Appodeal](http://www.appodeal.com/) - 适用于移动应用程序的程序化广告中介解决方案.
 - [ChartBoost](https://www.chartboost.com/) - 货币化、分析平台.
-- [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D 官方广告 SDK.
+- [Unity Ads](https://unity.com/products/unity-ads) - Unity3D 官方广告 SDK.
 - [Vungle](https://vungle.com/) - 视频广告服务.
 
 ## Learn

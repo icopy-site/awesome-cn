@@ -18,8 +18,13 @@
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud by  Jonathan Allen, Thomas Blood, Werner Vogels, Adrian Cockcroft, Mark Schwartz](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - 一本关于业务战略、人员、文化、数据和架构及其如何推动云速度的高级书籍.
 - [UN Global Platform Handbook on Information Technology Strategy by  Mark Craddock, Rob McLellan, Simon Wardley, Matjaz Jug, Jan Murdoch](https://www.goodreads.com/book/show/55047345-un-global-platform-handbook-on-information-technology-strategy)  - 一组有关 IT 的 wardley 地图. 将态势感知带到不同的环境中.
 - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/en/book/show/11721966) - 了解战略的核心组成部分.
-- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect) - 使用 Wardley Mapping 和其他意义建构方法来帮助组织预测市场变化和用户需求.
+- [The Value Flywheel Effect: Power the Future and Accelerate Your Organization to the Modern Cloud](https://www.goodreads.com/book/show/61167316-the-value-flywheel-effect?ac=1&from_search=true&qid=donxleC2tR&rank=1) - 使用 Wardley Mapping 和其他意义建构方法来帮助组织预测市场变化和用户需求.
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies) - 团队拓扑是一种实用的、循序渐进的自适应模型，用于基于四种基本团队类型和三种团队交互模式的组织设计和团队交互.
+- [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
+- [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
+- [Domain-Driven Design Distilled](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
+- [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
 
 ## Posts
 
@@ -40,6 +45,12 @@
 - [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley 研究了态势感知问题并解释了它如何应用于技术.
 - [Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
 - [Systems are communication structures - Diana Montalion](https://www.youtube.com/watch?v=U_0B-aY_L0c)
+
+## Courses and Workshops
+
+- [Pragmatic Wardley Mapping](https://learn.hiredthought.com/p/wardley-mapping)
+- [Implementing Domain-Driven Design](https://kalele.io/training/iddd/)
+- [Fast Flow of Change](https://kalele.io/fast-flow-of-change/) - 结合 Wardley 映射、DDD 和团队拓扑，本研讨会将帮助您进行适应性设计.
 
 ## Templates
 
