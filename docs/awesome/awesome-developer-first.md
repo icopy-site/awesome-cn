@@ -25,9 +25,10 @@
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
-* [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
+* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型 Web 分析.
 * [PoeticMetric](https://poeticmetric.com/) - 隐私至上、合规、速度极快的分析工具.
+* [Plausible](https://plausible.io/) - 简单、隐私友好且开源的网络分析工具.
 
 ## Authentication & Identity
 *为您处理身份验证和用户身份的产品.*
@@ -88,7 +89,7 @@
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展的服务器.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署并且不关心基础设施，适用于所有主要框架.
-* [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+* [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
 * [Fly.io](https://fly.io/) - 通过位置感知服务部署 dockerized 全栈应用程序（减少延迟）.
 * [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动缩放、数据库、秘密和回滚.
 * [cyclic](https://www.cyclic.sh/) - 全栈应用程序托管（包括 dynamo db 和 s3）.
@@ -188,7 +189,7 @@
 * [Sentry](https://sentry.io/) - 应用程序监控错误和性能.
 * [KeenIO](https://keen.io/) - 事件流媒体平台.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
-* [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
+* [LogRocket](https://logrocket.com/) - 重播用户的错误.
 
 
 ## Natural Language Processing

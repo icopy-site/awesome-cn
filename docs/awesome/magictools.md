@@ -136,7 +136,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：钱袋子： [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 - ：钱袋子： [modo](https://www.foundry.com/products/modo)
 - ：自由： [Clara.io](https://clara.io/)
-- ：钱袋子： [ZBrush](http://pixologic.com/)
+- ：钱袋子： [ZBrush](https://pixologic.com/)
 
 #### Terrain Generators
 
@@ -265,7 +265,6 @@ _游戏框架、引擎和平台集_
 - ：然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 来提高性能. 如果不支持 WebGL，引擎会回退到标准画布.
 - ：然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
 - ：money_with_wings： [PlayCanvas](https://playcanvas.com/) - WebGL 游戏引擎.
-- ：然后： [Polycode](http://polycode.org) - 用于在 C++ 中创建游戏的开源框架（使用 Lua 绑定）.
 - ：然后： [Processing](https://www.processing.org/) - Processing 是一种编程语言，是艺术家、设计师和研究人员的开发环境.
 - ：然后： [PuzzleScript](http://www.puzzlescript.net/) - 开源 HTML5 益智游戏引擎.
 - ：然后： [PyGame](http://pygame.org/hifi.html) - Python 中的 2D 游戏引擎.
@@ -415,7 +414,6 @@ _博客、门户网站、杂志等_
 
 - ：自由： [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 - ：自由： [IndieMag](https://www.indiemag.fr/)
-- ：自由： [Making Games](http://www.makinggames.biz/)
 
 ### Videos/Podcasts
 

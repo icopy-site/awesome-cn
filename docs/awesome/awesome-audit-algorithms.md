@@ -3,7 +3,7 @@
 ## Awesome Audit Algorithms [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 用于审计黑盒算法的精选算法列表.
-如今，许多算法（推荐、评分、分类）都在第三方提供商处运行，而用户或机构对他们如何操作其数据没有任何见解. 因此，此列表中的审计算法适用于此设置，创造了“黑盒”设置，其中一位审计员希望对这些远程算法有一些了解.
+如今，许多算法（推荐、评分、分类）都是在第三方提供商处运行的，用户或机构对他们如何操作自己的数据一无所知. 因此，此列表中的审计算法适用于此设置，创造了“黑盒”设置，其中一位审计员希望对这些远程算法有一些了解.
 
 <img src="https://raw.githubusercontent.com/erwanlemerrer/awesome-audit-algorithms/blob/main/resources/audit.png" width="600" alt="banner" class="center">
 
@@ -12,8 +12,9 @@
 
 ## Papers
 ### 2022
+- [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) -（信息科学杂志） [(Code)](https://github.com/gesiscss/WebBot) *使用虚拟代理的模拟浏览行为审核多个搜索引擎.*
 - [A zest of lime: towards architecture-independent model distances](https://openreview.net/pdf?id=OUz_9TiTv9j) - (ICLR) *使用 LIME 测量两个远程模型之间的距离.*
-- [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) -（ICML）*研究基于查询的审计算法，可以以查询高效的方式估计 ML 模型的人口统计奇偶性.*
+- [Active Fairness Auditing](https://proceedings.mlr.press/v162/yan22c/yan22c.pdf) -（ICML）*研究基于查询的审计算法，可以以高效查询的方式估计 ML 模型的人口统计奇偶性.*
 - [Look at the Variance! Efficient Black-box Explanations with Sobol-based Sensitivity Analysis](https://proceedings.neurips.cc/paper/2021/file/da94cbeff56cfda50785df477941308b-Paper.pdf) - (NeurIPS) *Sobol 索引提供了一种有效的方法来捕获图像区域之间的高阶交互及其通过方差透镜对（黑盒）神经网络预测的贡献.*
 - [Your Echos are Heard: Tracking, Profiling, and Ad Targeting in the Amazon Smart Speaker Ecosystem](https://arxiv.org/pdf/2204.10920.pdf) - (arxiv) *推断 Amazon Echo 系统和广告定位算法之间的联系.*
 ### 2021
@@ -37,7 +38,7 @@
 ### 2019
 - [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (神经计算与应用) [(Alternative implementation)](https://github.com/dunky11/adversarial-frontier-stitching) *检查远程机器学习模型是否“泄露”：通过对远程模型的标准 API 请求，提取（或不提取）零位水印，该水印被插入到水印有价值的模型（例如，大型深度神经网络）中.*
 - [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) -（CVPR）*询问对手可以在多大程度上仅基于黑盒交互窃取此类“受害者”模型的功能：图像输入，预测输出.*
-- [Opening Up the Black Box:Auditing Google's Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) - (Flairs-32) * 对 Google 的热门故事面板的审计，该面板提供了对其用于选择和排名新闻发布者的算法选择的见解 *
+- [Opening Up the Black Box:Auditing Google's Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) - (Flairs-32) * 对 Google 的热门故事面板的审核，该面板提供了对其用于选择和排名新闻发布者的算法选择的见解 *
 - [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) -（arXiv）*研究对手如何最佳地使用其查询预算来针对深度神经网络进行有针对性的规避攻击.*
 - [Online Learning for Measuring Incentive Compatibility in Ad Auctions](https://research.fb.com/wp-content/uploads/2019/05/Online-Learning-for-Measuring-Incentive-Compatibility-in-Ad-Auctions.pdf) -（WWW）*衡量黑盒拍卖平台的激励兼容（IC）机制（遗憾）.* 
 - [TamperNN: Efficient Tampering Detection of Deployed Neural Nets](https://arxiv.org/abs/1903.00317) -（ISSRE）*制作输入的算法可以检测远程执行的分类器模型的篡改.*

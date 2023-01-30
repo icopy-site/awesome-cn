@@ -91,7 +91,7 @@
 * [Boostnote](https://boostnote.io/)  - 为程序员制作的笔记应用程序.  [![开源软件][OSS图标]](https://github.com/BoostIO/Boostnote)
 * [Craft](https://www.craft.do/)  - 记笔记和写作变得美丽.  [![应用商店][应用商店图标]](https://apps.apple.com/se/app/craft-docs-and-notes-editor/id1487937127)
 * [Dnote](https://www.getdnote.com/)  - 具有多设备同步和 Web 界面的简单命令行笔记本.  [![开源软件][OSS 图标]](https://github.com/dnote/dnote) ![免费软件][免费软件图标]
-* [Evernote](https://evernote.com/)  - 臭名昭著的笔记应用程序，可在许多平台上使用.  ![免费软件][免费软件图标]
+* [Evernote](https://evernote.com/) - Infamous note-taking app, available on many platforms. ![Freeware][Freeware Icon]
 * [FSNotes](https://fsnot.es/)  - 文件系统笔记是一个现代的笔记管理器，原生于 macOS 和 iOS.  [![开源软件][OSS 图标]](https://github.com/glushchenko/fsnotes) [![App Store][app-store 图标]](https://apps.apple.com/ gb/app/fsnotes/id1277179284?mt=12)
 * [Gooba](https://goobapp.com/) - 使用简单的交互设计编写应用程序和任务管理器.
 * [Inkdrop](https://www.inkdrop.info/) - 基于 Electron 的 Markdown 爱好者的笔记本应用程序.
@@ -200,13 +200,14 @@
 * [Conduktor](https://www.conduktor.io)  - 卡夫卡桌面客户端.  ![免费软件][免费软件图标]
 * [CubicBezier](https://github.com/isaced/CubicBezier)  - 适用于 macOS 的 CubicBezier 生成器.  [![开源软件][OSS 图标]](https://github.com/isaced/CubicBezier) ![免费软件][免费软件图标] [![App Store][app-store 图标]](https: //itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [Dash](https://kapeli.com/dash) - 很棒的 AP​​I 文档浏览器和代码片段管理器.
+* [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink 管理器，由开发人员为开发人员制作.
 * [DiffMerge](http://sourcegear.com/diffmerge/)  - 可视化比较和合并文件的应用程序.  ![免费软件][免费软件图标]
 * [EnvPane](https://github.com/hschmidt/EnvPane)  - 环境变量的 OS X 首选项面板.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo)  - 从 Finder 快速打开终端.  [![免费软件][免费软件图标] ![开源软件][OSS 图标]](https://github.com/onmyway133/FinderGo)
 * [Finicky](https://johnste.github.io/finicky/)  - 允许您设置规则的应用程序，这些规则决定为每个将打开默认浏览器的链接打开哪个浏览器.  [![开源软件][OSS 图标]](https://github.com/johnste/finicky) ![免费软件][免费软件图标]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 适用于 Mac OS X 的简单主机文件管理器.[![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - 智能重复文件查找器.
-* [Hex Fiend](https://ridiculousfish.com/hexfiend/)  - 快速而聪明的开源十六进制编辑器.  [![开源软件][OSS 图标]](https://github.com/ridiculousfish/HexFiend/) ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://github.com/ridiculousfish/HexFiend/) //itunes.apple.com/app/hex-fiend/id1342896380）
+* [Hex Fiend](https://ridiculousfish.com/hexfiend/)  - 快速而聪明的开源十六进制编辑器.  [![开源软件][OSS 图标]](https://github.com/ridiculousfish/HexFiend/) ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://github.com/ridiculousfish/HexFiend/) //itunes.apple.com/app/hex-fiend/id1342896380)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane)  - 用于管理主机文件的系统偏好面板.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://en.toolinbox.net/iHosts/)  - Mac App Store 上唯一的 `/etc/hosts` 编辑器.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://itunes.apple.com/app/id1102004240?mt=12)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
@@ -234,7 +235,7 @@
 * [Timelane](http://timelane.tools)  - 直观地分析您的异步代码.  [![开源软件][OSS 图标]](https://github.com/icanzilb/Timelane) ![免费软件][免费软件图标]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)  - 在任何 Mac 上使用 Touch Bar.  ![开源软件][OSS 图标] ![免费软件][免费软件图标]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - 用于敏捷、EA TOGAF ADM 流程管理的一体化 UML、SysML、BPMN 建模平台.
-* [Woodpecker](http://www.woodpeck.cn)  - 在 Mac 上查看 iOS 应用程序的沙盒文件、UserDefaults、Keychain 项目.  [![应用商店][应用商店图标]](https://itunes.apple.com/app/woodpecker/id1333548463)
+* [Woodpecker](http://www.woodpeck.cn)  - 在 Mac 上查看 iOS 应用程序的沙箱文件、UserDefaults、Keychain 项目.  [![应用商店][应用商店图标]](https://itunes.apple.com/app/woodpecker/id1333548463)
 * [WWDC](https://github.com/insidegui/WWDC)  - Mac OS 非官方 WWDC 应用程序.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp)  - 安装和切换多个版本的 Xcode.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/RobotsAndPencils/XcodesApp)
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp)  - 探索来自 Swift 和 iOS 社区的代码片段，查看和编辑代码片段，然后再将它们方便地添加到 Xcode.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/MarcoEidinger/XCSnippetsApp)
@@ -298,7 +299,7 @@
 * [kitty](https://github.com/kovidgoyal/kitty)  - 跨平台、快速、功能齐全、基于 GPU 的终端仿真器.  [![开源软件][OSS 图标]](https://github.com/kovidgoyal/kitty) ![免费软件][免费软件图标]
 * [lnav](http://lnav.org)  - 日志文件导航器.  [![开源软件][OSS 图标]](https://github.com/tstack/lnav) ![免费软件][免费软件图标]
 * [m-cli](https://github.com/rgcr/m-cli)  - 适用于 macOS 的瑞士军刀.  [![开源软件][OSS 图标]](https://github.com/rgcr/m-cli) ![免费软件][免费软件图标]
-* [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software][OSS Icon]](https://github.com/guarinogabriel/Mac-CLI) ![Freeware][Freeware Icon]
+* [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)  - 管理 Mac 的终极工具. 自动化您的 OS X 系统的使用.  [![开源软件][OSS 图标]](https://github.com/guarinogabriel/Mac-CLI) ![免费软件][免费软件图标]
 * [Magic Wormhole](https://magic-wormhole.readthedocs.io/en/latest/)  - 安全地将东西从一台计算机转移到另一台计算机.  [![开源软件][OSS 图标]](https://github.com/guarinogabriel/Mac-CLI) ![免费软件][免费软件图标]
 * [mas](https://github.com/mas-cli/mas)  - Mac App Store 的简单命令行界面.  [![开源软件][OSS 图标]](https://github.com/mas-cli/mas) ![免费软件][免费软件图标]
 * [Miller](https://miller.readthedocs.io/en/latest/)  - 类似于 awk、sed、剪切、连接和排序名称索引数据，例如 CSV、TSV 和表格 JSON.  [![开源软件][OSS 图标]](https://github.com/johnkerl/miller) ![免费软件][免费软件图标]
@@ -886,7 +887,7 @@
 * [Strategr](https://khrykin.github.io/strategr/)  - 简单的时间管理应用程序.  Stategr 可帮助您最大限度地提高工作效率，为您提供最快、最有效的方式来安排一天的时间.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/khrykin/StrategrDesktop)
 * [Time Out](https://www.dejal.com/timeout/)  - 简单的休息提醒，如果需要，可以使用微休息和灵活的定制.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 * [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 如果您按小时计费，可帮助您保持工作正常，并确保不会损失计费时间.
-* [Trello](https://trello.com) - 将项目组织到看板中的协作工具.！[免费软件][免费软件图标][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
+* [Trello](https://trello.com) - 一种协作工具，可将您的项目组织到看板中.！[免费软件][免费软件图标][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器.
 * [xScope](http://xscopeapp.com/) - 一套功能强大的工具，非常适合测量、检查和测试屏幕上的图形和布局.
 * [Z](https://github.com/rupa/z) - 通过在终端中仅键入一串目录名称而不是键入目录的确切位置来轻松导航的强大方法.

@@ -17,7 +17,7 @@ _简化 bean 映射的框架._
 - [MapStruct](https://github.com/mapstruct/mapstruct) - 基于约定优于配置的方法简化不同 bean 类型之间映射的代码生成器.
 - [ModelMapper](https://github.com/modelmapper/modelmapper) - 智能对象映射库，自动将对象相互映射.
 - [Orika](https://github.com/orika-mapper/orika) - JavaBean 映射框架，递归地将数据从一个对象复制（以及其他功能）到另一个对象.
-- [reMap](https://github.com/remondis-it/remap) - Lambda 和方法基于句柄的映射，如果对象具有不同的名称，则需要代码而不是注释.
+- [reMap](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 - [Selma](https://github.com/xebia-france/selma) - 基于注释处理器的 bean 映射器.
 
 ### Build
@@ -45,7 +45,7 @@ _以编程方式操作字节码的库._
 
 ### Caching
 
-_提供缓存设施的图书馆._
+_Libraries that provide caching facilities._
 
 - [cache2k](https://cache2k.org) - 内存中高性能缓存库.
 - [Caffeine](https://github.com/ben-manes/caffeine) - 高性能、近乎最优的缓存库.
@@ -60,7 +60,7 @@ _所有与 CLI 相关的库._
 - [Airline](https://github.com/airlift/airline) - 基于注释的框架，用于解析类似 Git 的命令行参数.
 - [args4j](http://args4j.kohsuke.org) - 用于解析命令行参数的小型库.
 - [Jansi](https://github.com/fusesource/jansi) - 用于格式化控制台输出的 ANSI 转义码.
-- [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形基元.
+- [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形原语.
 - [JCommander](http://jcommander.org) - 具有自定义类型的命令行参数解析框架，并通过实现接口进行验证.
 - [jbock](https://github.com/jbock-java/jbock) - 无反射命令行解析器.
 - [Jexer](https://gitlab.com/klamonte/jexer)  - 高级控制台（和 Swing）文本用户界面 (TUI) 库，具有鼠标可拖动窗口、内置终端窗口管理器和六像素图像支持. 好像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
@@ -83,13 +83,16 @@ _提供指标和质量测量的工具._
 
 - [Checkstyle](https://github.com/checkstyle/checkstyle)  - 编码约定和标准的静态分析.  （LGPL-2.1 或更高版本）
 - [Error Prone](https://github.com/google/error-prone) - 将常见的编程错误捕获为编译时错误.
+- [Error Prone Support](https://github.com/PicnicSupermarket/error-prone-support) - 容易出错的扩展：额外的错误检查器和大量 Refaster 模板.
 - [Infer](https://github.com/facebook/infer) - 用于验证代码正确性的现代静态分析工具.
 - [jQAssistant](https://jqassistant.org)  - 使用基于 Neo4J 的查询语言进行静态代码分析.  （仅限 GPL-3.0）
 - [NullAway](https://github.com/uber/NullAway) - 以低构建时开销消除 NullPointerExceptions.
 - [PMD](https://github.com/pmd/pmd) - 用于查找不良编码做法的源代码分析.
+- [p3c](https://github.com/alibaba/p3c) - 提供阿里巴巴PMD、IDEA、Eclipse编码指南.
 - [SonarJava](https://github.com/SonarSource/sonar-java)  - SonarQube 和 SonarLint 的静态分析器.  （仅限 LGPL-3.0）
 - [Spoon](https://github.com/INRIA/spoon) - 用于分析和转换 Java 源代码的库.
 - [Spotbugs](https://github.com/spotbugs/spotbugs)  - 字节码的静态分析以发现潜在的错误.  （仅限 LGPL-2.1）
+
 
 ### Code Coverage
 
@@ -119,7 +122,7 @@ _为重复代码生成模式以减少冗长和错误倾向的工具._
 
 ### Compiler-compiler
 
-_Frameworks that help to create parsers, interpreters or compilers._
+_有助于创建解析器、解释器或编译器的框架._
 
 - [ANTLR](https://www.antlr.org) - 用于自上而下解析的复杂全功能框架.
 - [JavaCC](https://javacc.github.io/javacc/)  - 生成自上而下解析器的解析器生成器. 允许词法状态切换并允许扩展 BNF 规范.
@@ -208,6 +211,7 @@ _简化与数据库交互的一切._
 - [Jinq](https://github.com/my2iu/Jinq) - 通过 Java 8 Lambdas 的符号执行（在 JPA 或 jOOQ 之上）进行类型安全的数据库查询.
 - [jOOQ](https://www.jooq.org) - 生成基于 SQL 模式的类型安全代码.
 - [Leaf](https://github.com/Meituan-Dianping/Leaf) - 分布式ID生成服务.
+- [Lettuce](https://lettuce.io/) - Lettuce 是一个可扩展的 Redis 客户端，用于构建非阻塞的 Reactive 应用程序.
 - [Liquibase](http://www.liquibase.org) - 独立于数据库的库，用于跟踪、管理和应用数据库架构更改.
 - [MapDB](http://www.mapdb.org) - 嵌入式数据库引擎，提供在磁盘或堆外内存中支持的并发集合.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) - 无需安装或外部依赖项的 MariaDB 启动器.
@@ -221,7 +225,7 @@ _简化与数据库交互的一切._
 - [Speedment](https://github.com/speedment/speedment) - 利用 Java 8 的 Stream API 进行查询的数据库访问库.
 - [Spring Data JPA MongoDB Expressions](https://github.com/mhewedy/spring-data-jpa-mongodb-expressions) - 允许您使用 MongoDB 查询语言来查询您的关系数据库.
 - [Trino](https://trino.io) - 用于大数据的分布式 SQL 查询引擎.
-- [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
+- [Vibur DBCP](https://www.vibur.org) - 具有高级性能监控功能的 JDBC 连接池库.
 - [Xodus](https://github.com/JetBrains/xodus) - 高度并发的事务性无模式和符合 ACID 的嵌入式数据库.
 
 ### Date and Time
@@ -268,7 +272,7 @@ _用于编写分布式和容错应用程序的库和框架._
 - [Apache Geode](https://geode.apache.org) - 内存数据管理系统，提供可靠的异步事件通知和有保证的消息传递.
 - [Apache Storm](https://storm.apache.org) - 实时计算系统.
 - [Apache ZooKeeper](https://zookeeper.apache.org) - 为大型分布式系统提供分布式配置、同步和命名注册表的协调服务.
-- [Atomix](https://atomix.io) - 容错分布式协调框架.
+- [Atomix](https://atomix.io) - Fault-tolerant distributed coordination framework.
 - [Axon](https://axoniq.io) - 用于创建 CQRS 应用程序的框架.
 - [Dropwizard Circuit Breaker](https://github.com/mtakaki/dropwizard-circuitbreaker)  - Dropwizard 的断路器设计模式.  （仅限 GPL-2.0）
 - [Failsafe](https://github.com/jhalterman/failsafe) - 通过重试和断路器进行简单的故障处理.
@@ -400,7 +404,7 @@ _关于高性能计算的一切，从集合到特定库._
 
 ### HTTP Clients
 
-_帮助创建 HTTP 请求和/或绑定响应的库._
+_Libraries that assist with creating HTTP requests and/or binding responses._
 
 - [Apache HttpComponents](https://hc.apache.org/) - 专注于 HTTP 和相关协议的低级 Java 组件工具集.
 - [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) - 异步 HTTP 和 WebSocket 客户端库.
@@ -438,7 +442,7 @@ _协助创建、评估或操作图形图像的库._
 - [Imgscalr](https://github.com/rkalla/imgscalr) - 以纯 Java 2D 实现的简单、高效和硬件加速的图像缩放库.
 - [Tess4J](https://github.com/nguyenq/tess4j) - Tesseract OCR API 的 JNA 包装器.
 - [Thumbnailator](https://github.com/coobird/thumbnailator) - 高质量的缩略图生成库.
-- [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) - Collection of plugins that extend the number of supported image file formats.
+- [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) - 扩展支持的图像文件格式数量的插件集合.
 - [ZXing](https://github.com/zxing/zxing) - 多格式一维/二维条码图像处理库.
 - [image-comparison](https://github.com/romankh3/image-comparison)  - 比较 2 个相同大小的图像并通过绘制矩形直观地显示差异的库. 图像的某些部分可以从比较中排除.
 
@@ -458,7 +462,7 @@ _有助于使 Java 内省和反射 API 更容易和更快地使用的库._
 _用于调度后台作业的库._
 
 - [JobRunr](https://github.com/jobrunr/jobrunr)  - 作业调度库，它利用 lambdas 进行即发即弃、延迟和重复作业. 使用乐观锁定保证由单个调度程序实例执行. 具有持久性、最小依赖性和可嵌入的特性.
-- [Quartz](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
+- [Quartz](https://github.com/quartz-scheduler/quartz) - 功能丰富的开源作业调度库，几乎可以集成到任何 Java 应用程序中.
 - [Sundial](https://github.com/knowm/Sundial) - 用于简单定义作业、定义触发器和启动调度程序的轻量级框架.
 - [Wisp](https://github.com/Coreoz/Wisp) - 具有最小占用空间和简单 API 的简单库.
 - [db-scheduler](https://github.com/kagkarlsson/db-scheduler) - 持久且集群友好的调度程序.
@@ -529,6 +533,7 @@ _提供特定统计算法以从数据中学习的工具._
 - [Deeplearning4j](https://deeplearning4j.org) - 分布式和多线程深度学习库.
 - [DJL](https://djl.ai) - 用于深度学习的高级和引擎不可知框架.
 - [H2O ![c]](https://www.h2o.ai) - 用于大数据统计的分析引擎.
+- [Intelligent java](https://github.com/Barqawiz/IntelliJava) - 以编程方式与远程深度学习和语言模型无缝集成.
 - [JSAT](https://github.com/EdwardRaff/JSAT)  - 支持多线程执行的预处理、分类、回归和聚类算法.  （仅限 GPL-3.0）
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 将模型转换为本机代码的 CLI 工具.
 - [oj! Algorithms](https://www.ojalgo.org/) - 数据科学、机器学习和科学计算所需的高性能数学、线性代数和优化.
@@ -641,7 +646,7 @@ _在生产中监控应用程序的工具._
 - [nudge4j](https://github.com/lorenzoongithub/nudge4j) - 通过字节码注入从 Java 8 浏览器远程开发人员控制台.
 - [Pinpoint](https://github.com/naver/pinpoint) - 开源 APM 工具.
 - [Prometheus](https://github.com/prometheus/client_java) - Provides a multi-dimensional data model, DSL, autonomous server nodes and much more.
-- [Sentry ![c]](https://github.com/getsentry/sentry-java) - 集成 [Sentry](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
+- [Sentry ![c]](https://github.com/getsentry/sentry-java) - 集成 [Sentry](https://github.com/getsentry/sentry)，一个应用程序错误跟踪和性能分析平台.
 - [SPM ![c]](https://github.com/sematext/sematext-agent-java) - 为 JVM 应用程序分配事务跟踪的性能监视器.
 - [Stagemonitor](https://github.com/stagemonitor/stagemonitor) - JVM 应用程序的开源性能监控和事务跟踪.
 - [Sysmon](https://github.com/palantir/Sysmon) - 用于 Java 虚拟机的轻量级平台监控工具.
@@ -717,7 +722,7 @@ _帮助处理 PDF 文件的工具._
 - [Apache FOP](https://xmlgraphics.apache.org/fop/) - 从 XSL-FO 创建 PDF.
 - [Apache PDFBox](https://pdfbox.apache.org) - 用于创建和操作 PDF 的工具箱.
 - [Dynamic Jasper](http://dynamicjasper.com)  - JasperReports 的抽象层.  （仅限 LGPL-3.0）
-- [DynamicReports](https://github.com/dynamicreports/dynamicreports)  - 简化 JasperReports.  （仅限 LGPL-3.0）
+- [DynamicReports](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
 - [Eclipse BIRT](https://www.eclipse.org/birt) - 使用基于 Eclipse 的可视化编辑器创建 PDF 和其他格式（DOCX、XLSX、HTML 等）的报告引擎.
 - [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer)  - XML/XHTML 和 CSS 2.1 渲染器.  （LGPL-2.1 或更高版本）
 - [iText ![c]](https://itextpdf.com/en) - 以编程方式创建 PDF 文件.
@@ -791,7 +796,7 @@ _框架是包含多个类别的多个库的套件._
 - [Performance](http://commons.apache.org/sandbox/commons-performance/) - 用于微基准测试客户端的小型框架，具有 Commons DBCP 和 Pool 的实现.
 - [Pipeline](http://commons.apache.org/sandbox/commons-pipeline/) - 提供一组围绕工作队列设计的管道实用程序，这些工作队列并行运行以顺序处理数据对象.
 - [Pool](http://commons.apache.org/proper/commons-pool/) - 通用对象池组件.
-- [Proxy](http://commons.apache.org/proper/commons-proxy/) - Library for creating dynamic proxies.
+- [Proxy](http://commons.apache.org/proper/commons-proxy/) - 用于创建动态代理的库.
 - [RDF](https://commons.apache.org/proper/commons-rdf/) - 可以由 JVM 上的系统实现的 RDF 1.1 的通用实现.
 - [RNG](https://commons.apache.org/proper/commons-rng/) - Commons Rng 提供伪随机数生成器的实现.
 - [SCXML](http://commons.apache.org/proper/commons-scxml/) - 旨在创建和维护 Java SCXML 引擎的状态图 XML 规范的实施.
@@ -963,7 +968,7 @@ _测试源自 TDD 并深受 DDD 和 OOAD 影响的软件开发过程._
 
 _与随机数据的创建和处理相关的一切._
 
-- [Beanmother](https://github.com/keepcosmos/beanmother) - 从 YAML 固定装置设置 bean.
+- [Beanmother](https://github.com/keepcosmos/beanmother) - Sets up beans from YAML fixtures.
 - [Fixture Factory](https://github.com/six2six/fixture-factory) - 从模板生成假对象.
 - [jFairy](https://github.com/Devskiller/jfairy) - 假数据生成器.
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - JUnit 测试运行器和插件，用于运行具有伪随机性的 JUnit 测试.
@@ -982,7 +987,7 @@ _提供环境以针对特定用例运行测试._
 - [JUnit](https://junit.org/junit5/) - 通用测试框架.
 - [jqwik](https://jqwik.net) - 基于 JUnit 5 构建的基于属性的测试引擎.
 - [Pact JVM](https://github.com/DiUS/pact-jvm) - 消费者驱动的合同测试.
-- [PIT](http://pitest.org) - 用于评估现有 JUnit 或 TestNG 测试套件的故障检测能力的快速突变测试框架.
+- [PIT](http://pitest.org) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
 
 #### Matchers
 
@@ -1003,7 +1008,7 @@ _其他与测试相关的东西._
 - [LogCaptor](https://github.com/Hakky54/log-captor) - 为单元测试目的捕获日志条目.
 - [log-capture](https://github.com/dm-drogeriemarkt/log-capture) - 捕获日志条目并为单元和集成测试提供断言.
 - [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector) - 报告给定类的实例是否不可变.
-- [raml-tester](https://github.com/nidi3/raml-tester) - Tests if a request/response matches a given RAML definition.
+- [raml-tester](https://github.com/nidi3/raml-tester) - 测试请求/响应是否匹配给定的 RAML 定义.
 - [TestContainers](https://github.com/testcontainers/testcontainers-java) - 提供通用数据库、Selenium Web 浏览器或任何其他可以在 Docker 容器中运行的一次性实例.
 - [pojo-tester](https://www.pojo.pl)  - 自动对基本 POJO 方法执行测试.  （仅限 LGPL-3.0）
 
@@ -1065,7 +1070,7 @@ _处理 Web 应用程序各层之间通信的框架._
 - [ActiveJ](https://activej.io) - 从头开始​​构建的轻量级异步框架，用于开发高性能 Web 应用程序.
 - [Apache Tapestry](https://tapestry.apache.org) - 面向组件的框架，用于创建动态、健壮、高度可扩展的 Web 应用程序.
 - [Apache Wicket](https://wicket.apache.org) - 类似于 Tapestry 的基于组件的 Web 应用程序框架，具有状态 GUI.
-- [Blade](https://github.com/lets-blade/blade) - Lightweight, modular framework that aims to be elegant and simple.
+- [Blade](https://github.com/lets-blade/blade) - 轻量级、模块化框架，旨在优雅和简单.
 - [Bootique](https://bootique.io) - 可运行应用程序的最小固执己见的框架.
 - [Firefly](http://www.fireflysource.com) - 用于快速开发高性能 Web 应用程序的异步框架.
 - [Javalin](https://javalin.io/) - Web 应用程序的微框架.
@@ -1134,11 +1139,11 @@ _编程时要看或听的东西._
 
 - [140 Second Ducklings](https://twitter.com/debugagent/status/1491075324805001219) - Twitter 上的简短视频深入解释了 Java 调试.
 - [A Bootiful Podcast](https://bootifulpodcast.fm)
+- [Foojay Podcast](https://foojay.io/today/category/podcast/)
 - [Inside Java](https://inside.java/podcast) （官方的）
 - [Java Off Heap](http://www.javaoffheap.com)
 - [The Java Council](https://virtualjug.com/#podcast)
 - [The Java Posse](http://www.javaposse.com) - 自 02/2015 起停产.
-- [Friends of OpenJDK](https://foojay.io/)
 
 ### People
 
@@ -1147,7 +1152,7 @@ _编程时要看或听的东西._
  _要关注的活动帐户. 来自 Twitter 的描述.
 
 - [Adam Bien](https://twitter.com/AdamBien) - 自由作家、JavaOne Rockstar 演讲者、顾问、Java Champion.
-- [Aleksey Shipilëv](https://twitter.com/shipilev) - 性能极客、基准测试沙皇、并发错误猎人.
+- [Aleksey Shipilëv](https://twitter.com/shipilev) - 性能极客、基准测试沙皇、并发错误猎手.
 - [Antonio Goncalves](https://twitter.com/agoncal) - Java Champion，JUG Leader，Devoxx France，Java EE 6/7，JCP，作者.
 - [Arun Gupta](https://twitter.com/arungupta) - Java Champion、JavaOne Rockstar、JUG 领导者、Devoxx4Kids-er、Couchbase 开发人员宣传副总裁.
 - [Brian Goetz](https://twitter.com/BrianGoetz) - Oracle 的 Java 语言架构师.
@@ -1167,7 +1172,7 @@ _编程时要看或听的东西._
 - [Lukas Eder](https://twitter.com/lukaseder) - Java Champion、演讲者、创始人兼 CEO Data Geekery (jOOQ).
 - [Mani Sarkar](https://twitter.com/theNeomatrix369)  - Java 冠军、通晓多种语言、参与@graalvm、AI/ML/DL、数据科学、开发人员社区、演讲者和博主的软件工匠. 像这样的几个很棒的列表的创建者.
 - [Mario Fusco](https://twitter.com/mariofusco) - RedHatter，JUG 协调员，经常演讲者和作者.
-- [Mark Heckler](https://twitter.com/MkHeck) - 关键首席技术专家和开发倡导者、会议发言人、出版作者和 Java Champion，专注于物联网和云.
+- [Mark Heckler](https://twitter.com/MkHeck) - Pivotal Principal Technologist and Developer Advocate, conference speaker, published author, and Java Champion, focusing on Internet of Things and the cloud.
 - [Mark Reinhold](https://twitter.com/mreinhold) - 甲骨文 Java 平台组首席架构师.
 - [Markus Eisele](https://twitter.com/myfear) - Java EE 布道者，Red Hat.
 - [Martijn Verburg](https://twitter.com/karianna) - 伦敦 JUG 联合领导人、演讲者、作者、Java Champion 等等.

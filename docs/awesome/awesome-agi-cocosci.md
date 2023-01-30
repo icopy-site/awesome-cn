@@ -1435,7 +1435,7 @@
 
 * [Leveraging Language for Abstraction and Program Search](https://vigilworkshop.github.io/static/papers-2021/25.pdf) - ***ICML'20***, 2020. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Language+for+Abstraction+and+Program+Search&btnG=)].
 
-* [Program Synthesis Guided Reinforcement Learning](https://arxiv.org/abs/2102.11137) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)].
+* [Program Synthesis Guided Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/f7e2b2b75b04175610e5a00c1e221ebb-Abstract.html) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=17353674428642875269&hl=en&as_sdt=0,5)].
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf) - ***CogSci&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?lookup=0&q=Learning+Part-Based+Abstractions+for+Visual+Object+Concepts&hl=en&as_sdt=0,5)].
 
@@ -1465,7 +1465,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
