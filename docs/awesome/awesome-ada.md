@@ -176,7 +176,7 @@
 
 - [fsf-gnat](http://www.getadanow.com/)  - Ada 编程语言的自由软件基金会编译器，构成 GNU 编译器集合的一部分. 它支持该语言的所有版本，即 Ada 2012、Ada 2005、Ada 95 和 Ada 83.
 
-##### Other / unknown licence 
+##### MIT 
 
 - [hac](https://github.com/zertovitch/hac) - HAC Ada Compiler - 一个完全在 Ada 中的小型、快速的 Ada 编译器.
 - [byron](https://github.com/OneWingedShark/Byron) - Byron 项目是一个社区驱动的 Ada 编译器、工具链和 IDE 系统.

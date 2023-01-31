@@ -54,6 +54,7 @@
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - 当你真的需要知道如何做贝塞尔曲线时，一本免费的书.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - 实时着色技术的分步指南.
 - [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - WebGL 分步指南.
+- [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - Diego Inácio 创作的一套关于创意编码和计算机艺术的基本 Python 食谱.
 - [WebGL Academy](http://www.webglacademy.com)  - 以渐进和交互的方式学习 WebGL 和 3D 算法.  （存档）
 
 ## Courses
@@ -401,7 +402,7 @@
 ## Math
 
 - [Math as code](https://github.com/Jam3/math-as-code) - 代码形式的数学符号备忘单.
-- [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
+- [Coding Math](https://www.youtube.com/user/codingmath) - 教你作为程序员需要理解的数学.
 - [Math snippets](https://github.com/terkelg/math) - 考虑到图形编程的数学片段.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - 用数学绘画的原理.
 - [Learning Maths again](https://github.com/silviopaganini/maths) - JS 和 GLSL 数学片段的集合.
@@ -500,7 +501,7 @@
 ## Schools • Workshops
 
 - [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - 伦敦的研究生课程，通过创造性计算的表现世界发展你的艺术实践
-- [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - 伦敦的学校在创造力和计算技术的交叉点工作
+- [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - school in London working at the intersection of creativity and computational technologies
 - [School for Poetic Computation](http://sfpc.io/) - 纽约的学校探索代码、设计、硬件和理论的交叉点.
 - [Copenhagen Institute of Interaction Design](http://ciid.dk/) - 举办一系列教育活动，最著名的是交互设计计划和 CIID 暑期学校.
 - [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - 世界各地的住院医师、奖学金和暑期学校的大量列表（使用左下角的选项卡导航）.

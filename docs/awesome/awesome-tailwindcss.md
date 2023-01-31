@@ -291,6 +291,7 @@
 - [Snippets](https://snippets.alexandru.so/) - 为 Tailwind CSS 制作的动画片段的开源集合.
 - [Fancy Tailwind](https://fancytailwind.com/) - 大量 Tailwind CSS UI 组件 (700+).
 - [Myna UI](https://mynaui.com/) - 使用 Tailwind CSS 制作的开源 UI 组件和营销元素.
+- [Sira UI](https://sira.riccox.com) - 可定制和可访问的设计系统，提供 TailwindCSS 组件类名称库来构建现代 UI.
 - [Vue Notus](https://www.creative-tim.com/product/vue-notus) - 开源 Tailwind CSS 和 Vue.js UI 工具包.
 - [Red Pixel Themes](https://redpixelthemes.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 - [EasyTailwind](https://easytailwind.now.sh) - 免费增值，使用 Tailwind CSS 制作的易于定制的模板.

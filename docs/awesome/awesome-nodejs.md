@@ -12,7 +12,7 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/any-text">任何文字</a>
+			<a href="https://www.producthunt.com/posts/any-text">任何文本</a>
 			<br>
 			<sup>将任何文本放在 iPhone 的锁定屏幕上</sup>
 		</h2>
@@ -153,7 +153,7 @@
 - [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将 Torrent 视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
-- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币库.
+- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币图书馆.
 - [PDFKit](https://github.com/foliojs/pdfkit) - PDF生成库.
 - [turf](https://github.com/Turfjs/turf) - 模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) - 使用使用 GitHub 私钥/公钥进行身份验证的 WebRTC 通过网络进行 p2p 管道传输.
@@ -256,7 +256,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -511,6 +511,7 @@
 - [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API 清理和验证.
 - [ajv](https://github.com/ajv-validator/ajv)  - 最快的 JSON 模式验证器. 支持 v5、v6 和 v7 提案.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - 在 JavaScript（和 TypeScript）中验证数据的简单且可组合的方法.
+- [yup](https://github.com/jquense/yup) - 对象模式验证.
 
 ### Parsing
 
@@ -652,7 +653,7 @@
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - 简单、不引人注目的身份验证.
+- [Passport](https://github.com/jaredhanson/passport) - 简单、不显眼的身份验证.
 - [Grant](https://github.com/simov/grant) - 用于 Express、Koa、Hapi、Fastify、AWS Lambda、Azure、Google Cloud、Vercel 等的 OAuth 提供商.
 
 ### Authorization

@@ -224,7 +224,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 - ：然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) - 面向富有冒险精神的 Java 开发人员的 3D 开源游戏引擎.
 - ：然后： [JNGL](https://github.com/jhasse/jngl)  - 一个 2D 开源游戏引擎. 在 Linux、Windows、OS X 上开发.部署到 Nintendo Switch、Xbox、Linux、Windows、OS X、Web、Android、iOS 等.
-- ：自由： [JPCT](http://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google Android 的 3D 引擎.
+- ：自由： [JPCT](https://www.jpct.net/) - jPCT 是用于桌面 Java 和 Google Android 的 3D 引擎.
 - ：然后： [Juno](https://github.com/digitsensitive/juno) - 用 TypeScript 编写的干净轻便的 2D 游戏框架
 - ：然后： [Juno](https://github.com/rxi/juno) - 在 Lua 中使用大块像素制作 2D 游戏的框架
 - ：然后： [Kivent](http://kivent.org/) - Kivy 的 2D 游戏框架.
@@ -276,7 +276,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Rpgboss](http://rpgboss.com)  - 基于 scala 和 libgdx 的 2d rpg 游戏引擎和编辑器. 易于使用，无需编程知识.
 - ：自由： [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple 专有的 3D 游戏引擎（适用于 macOS、iOS、iPadOS、tvOS 和 watchOS）.
 - ：然后： [Screen 13](https://github.com/attackgoat/screen-13)  - 易于使用的 Vulkan 渲染引擎. 为 Rust 提供渲染图.
-- ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问.
+- ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
 - ：然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 - ：然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于迭代和使用的便利性.
 - ：然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.

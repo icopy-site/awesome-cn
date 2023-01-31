@@ -1,24 +1,28 @@
 <div class="github-widget" data-repo="jonathandion/awesome-emails"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
-	<br>
-	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
-	<br>
-	<br>
-	<br>
+<br>
+很棒的电子邮件 ☉ ✨
+<br>
 </h1>
+<h4 align="center" >一组很棒的框架、模板、工具、工作流等，用于构建更好的电子邮件.</h4>
+<br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-&gt; 一系列很棒的框架、模板、工具、工作流程等，用于构建更好的电子邮件.
 
 
 
 ## Frameworks
 
-- [React Email](https://react.email/)  - 一组高质量、无样式的组件，用于使用 React 和 TypeScript 创建漂亮的电子邮件.  ：火：
-- [MJML](https://mjml.io)  - MJML 是一种标记语言，旨在减少编写响应式电子邮件的痛苦.  ：火：
-- [JSX-email](https://jsx-mail.org/)  - Jsx Mail 是一个使用 React 创建电子邮件模板的电子邮件框架.  ：火：
+### React
+
+- [React Email](https://react.email/) - 一组高质量、无样式的组件，用于使用 React 和 TypeScript 创建漂亮的电子邮件.
+- [Mailing](https://www.mailing.run/) - 在 React 中构建电子邮件，从任何地方发送.
+- [JSX-email](https://jsx-mail.org/) - JSX Mail 是一个使用 React 创建电子邮件模板的电子邮件框架. 
+
+### Misc
+
+- [MJML](https://mjml.io) - MJML 是一种标记语言，旨在减少编写响应式电子邮件的痛苦.
 - [Foundation for Emails](https://github.com/zurb/foundation-emails)  - 快速创建适用于任何设备和客户端的响应式 HTML 电子邮件. 甚至展望.
 - [Email Framework](http://emailframe.work/) - 为帮助您构建响应式 HTML 电子邮件而开发的 HTML 电子邮件框架.
 - [HEML](https://heml.io) - HEML 是一种用于构建响应式电子邮件的开源标记语言.
@@ -28,7 +32,7 @@
 
 ## Cheatsheets
 
-- [Rico's cheatsheet](https://devhints.io/html-email) - Rico 的 HTML 电子邮件备忘单
+- [Rico's cheatsheet](https://devhints.io/html-email) - Rico 的 HTML 电子邮件备忘单.
 
 ## Templates
 
@@ -37,10 +41,10 @@
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - 开源电子邮件模板.
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - 电子邮件蓝图是一组 HTML 电子邮件模板，可以作为电子邮件设计的坚实基础和起点.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - 轻松创建精美的品牌电子邮件营销活动.
-- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) （每个模板都是响应式的，并且每个模板都已经在所有流行的电子邮件客户端中进行了测试.）
+- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) - 每个模板都是响应式的，并且每个模板都已经在所有流行的电子邮件客户端中进行了测试.
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) - Antwort 为电子邮件提供响应式布局，既适合并适应客户端宽度.
-- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
+- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板设计用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
 - [HTML Email Templates](https://www.htmlemailtemplates.net/) - 适用于初创公司和 SaaS 的响应式 HTML 电子邮件模板.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个经过预测试的模板，适用于任何邮寄服务.
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的 Grunt 模板.
@@ -54,7 +58,6 @@
 
 ## Tools
 
-- [Mailing](https://www.mailing.run/) - 在 React 中构建电子邮件，从任何地方发送.
 - [Can I Email](https://www.caniemail.com/) - 我可以通过电子邮件发送电子邮件吗？支持电子邮件中的 HTML 和 CSS 表格.
 - [Topol](https://topol.io/) - 在一分钟内创建令人惊叹的响应式 HTML 电子邮件.
 - [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML 官方桌面应用程序.
@@ -73,12 +76,14 @@
 - [Tabifier](https://tools.arantius.com/tabifier)  - 与 HTML Crush 相反 - 一种美化 HTML 文件缩进的工具. 适用于混合输入源，包括您的 ESP 模板标签.
 - [Email Link Builder](https://email-link-builder.samcarlton.com/) - 创建 mailto 链接，打开带有预填收件人、主题、正文等的电子邮件草稿.
 - [email-verifier](https://github.com/AfterShip/email-verifier) - 无需发送任何电子邮件即可进行电子邮件验证的工具.
+- [DevMail](https://devmail.email/)  - 软件开发人员的电子邮件沙箱. 从您的开发、暂存、QA 或 CI 环境捕获电子邮件.
+- [Disposable Email Check API](https://open.kickbox.com/)  - 一个免费的 API，用于检查电子邮件地址是否是一次性的. 无需注册.
 
 ## Services
 
-- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得容易.
+- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得简单.
 - [Mailchimp](https://mailchimp.com/) - MailChimp 为全球超过 1500 万人提供电子邮件营销服务.
-- [Mailjet](https://mailjet.com/) - 多合一电子邮件服务提供商，允许企业发送营销、交易电子邮件和电子邮件自动化.
+- [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - 人工智能驱动的电子邮件营销平台，允许使用内置组件设计电子邮件.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor 使您可以轻松创建、发送和优化您的电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) - 通过一个可靠的平台发送您的交易和营销电子邮件.
@@ -89,7 +94,8 @@
 - [eSputnik](https://esputnik.com/en) - eSputnik 是一个营销自动化系统，受到全球 3 万多名忠实客户的信赖，每月发送超过 10 亿封电子邮件.
 - [Postmark](https://postmarkapp.com)  - 闪电般快速发送您的申请电子邮件.  Postmark 每次都按时将您的交易电子邮件发送给客户.
 - [ImprovMX](https://improvmx.com/) - 为您的域名创建免费的电子邮件别名.
-- [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
+- [Reacher](https://reacher.email)  - 检查电子邮件是否存在而不发送任何电子邮件. 用 Rust 编写，100% 开源.
+- [Kickbox](https://kickbox.com) - 电子邮件验证服务（检查电子邮件是否存在）. 
 
 ## Self-Hosted Services
 
@@ -113,7 +119,7 @@
 ## Design
 
 - [CSS Support](https://www.campaignmonitor.com/css/) - 对地球上每个流行的移动、Web 和桌面电子邮件客户端的 CSS 支持的完整细分.
-- [Email Template Guide](https://blocksedit.com/email-template-guide/) - 使用模块化的电子邮件模板系统
+- [Email Template Guide](https://blocksedit.com/email-template-guide/) - 使用模块化的电子邮件模板系统.
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - 本指南简要总结了我们从管理邮件服务器中学到的电子邮件最佳实践.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/)  - 我查看了 50 封响应式零售电子邮件的导航. 这是我发现的模式的细分.
 
@@ -128,7 +134,7 @@
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - 电子邮件营销和电子邮件设计博客.
 - [HTML Email Blog](https://htmlemail.io/blog/)
-- [Build Better Blog](https://blocksedit.com/content-code/) - 电子邮件营销中的设计和内容制作
+- [Build Better Blog](https://blocksedit.com/content-code/) - 电子邮件营销中的设计和内容制作.
 - [Email Design Blog](https://designmodo.com/design/email-design/) - 所有电子邮件极客的文章、教程和灵感.
 
 ## Copy
@@ -139,12 +145,12 @@
 
 - [Email marketing regulations](https://github.com/threeheartsdigital/email-marketing-regulations) - 全球电子邮件营销法规指南.
 - [Email toolbox](http://email-toolbox.com/) - 为电子邮件营销人员和设计师精心挑选的资源.
-- [Mailchimp](http://mailchimp.com/resources/) - 来自 Mailchimp 的超棒资源
+- [Mailchimp](http://mailchimp.com/resources/) - 来自 Mailchimp 的超棒资源.
 - [Litmus Resources](https://litmus.com/resources) - 通过 Litmus 资源了解最新的电子邮件新闻和趋势.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor 资源将让您立即成为专家.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
-- [Mailchimp](http://templates.mailchimp.com/) - Mailchimp 电子邮件设计参考
-- [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - 关于如何构建自己的电子邮件服务器的教程
+- [Mailchimp](http://templates.mailchimp.com/) - Mailchimp 电子邮件设计参考.
+- [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - 关于如何构建自己的电子邮件服务器的教程.
 
 ## Inspirations
 
@@ -159,24 +165,25 @@
 
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) - Emma, Inc. 现代电子邮件营销人员必须了解的 18 项统计数据
 - [Mailchimp Research](http://mailchimp.com/resources/research/) - Mailchimp 的研究人员不断分析数据，以帮助您充分利用电子邮件营销活动.
-- [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015年报告：电子邮件营销的新规则
-- [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 年报告：Campaign Monitor 2016 年度回顾
+- [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) - 2015 年报告：电子邮件营销的新规则.
+- [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 年报告：Campaign Monitor 2016 年度回顾.
 
 ## Testing
 
 - [PutsMail](https://putsmail.com/) - 在发送之前测试您的 HTML 电子邮件的免费工具！
-- [Litmus](https://litmus.com/) - 使用 Litmus 测试和跟踪您的电子邮件
+- [Litmus](https://litmus.com/) - 使用 Litmus 测试和跟踪您的电子邮件.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - 使用 Campaign Monitor 在所有不同的电子邮件客户端中测试您的设计.
-- [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 使用 grunt 将电子邮件测试发送到 Litmus
-- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - 使用 gulp 将电子邮件测试发送到 Litmus
+- [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 使用 grunt 将电子邮件测试发送到 Litmus.
+- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - 使用 gulp 将电子邮件测试发送到 Litmus.
 - [MailTrap](https://mailtrap.io) - 一个假的 SMTP 服务器，用于测试、查看和共享电子邮件，而不会向真实客户发送垃圾邮件.
 - [testmail.app](https://testmail.app) - 一个带有无限邮箱的假 SMTP 服务器和一个用于自动化端到端测试的 GraphQL API.
-- [MailHog](https://github.com/mailhog/MailHog) 本地假 SMTP 服务器（基于 Go）
-- [MailCatcher](https://mailcatcher.me/) 本地假 SMTP 服务器（基于 Ruby）
-- [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端隐私功能的工具（加载远程内容）
-- [Mail Tester](https://www.mail-tester.com/) - 测试您的电子邮件的垃圾邮件
+- [MailHog](https://github.com/mailhog/MailHog) 本地假 SMTP 服务器（基于 Go）.
+- [MailCatcher](https://mailcatcher.me/) 本地假 SMTP 服务器（基于 Ruby）.
+- [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端隐私功能（加载远程内容）的工具.
+- [Mail Tester](https://www.mail-tester.com/) - 测试您的电子邮件的垃圾邮件.
 - [Sendtest.email](https://sendtest.email/)  - 在发送前测试您的 HTML 电子邮件、⚡4email 或文本版本. 注重隐私，无需注册！
-- [Mailsnag](https://mailsnag.com/) - 针对您的所有 SMTP 需求测试电子邮件服务器 - 模拟延迟和错误、预览和共享电子邮件等 - 所有这些都无需向实际客户发送电子邮件
+- [Mailsnag](https://mailsnag.com/) - 为您的所有 SMTP 需求测试电子邮件服务器 - 模拟延迟和错误、预览和共享电子邮件等等 - 所有这些都无需向实际客户发送电子邮件.
+- [Email Spam Tester](https://kickbox.com/email-spam-tester/) - 免费工具来检查您的电子邮件是否最终会进入垃圾邮件文件夹.
 
 ## Learning
 

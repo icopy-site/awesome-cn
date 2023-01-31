@@ -61,8 +61,8 @@
 
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - 计算机代码、参考手册和杂志.
 - [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - 保存早期个人计算机杂志中的信息.
-- [fxtop.com](https://fxtop.com/) - 自 1953 年以来的外汇汇率历史.
-- [gotpapers.scene.org](https://gotpapers.scene.org/?page_id=73) - 有关游戏历史、破解和演示的资源.
+- [Fxtop.com](https://fxtop.com/) - 自 1953 年以来的外汇汇率历史.
+- [Got Papers?](https://gotpapers.scene.org/?page_id=73) - 有关游戏历史、破解和演示的资源.
 - [Internet Archive](https://archive.org/) - 包含数百万本免费书籍、电影、软件、音乐、网站等的非营利性图书馆.
 - [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - 用于在全球目录中查找数亿媒体的图书搜索引擎.
 - [Marxist Internet Archive](https://www.marxists.org/) - 你想知道的关于马克思（和其他重要的社会主义者）的一切.
@@ -86,7 +86,7 @@
 ### Netherlands
 
 - [Delpher](https://www.delpher.nl/) - 超过 1 亿页的荷兰报纸、书籍和杂志.
-- [Nationaal Archief](https://www.nationaalarchief.nl/) - 荷兰国家档案馆包括 137 公里的文件、1500 万张照片和近 300,000 幅历史地图和图纸以及 800 TB 的数字文件.
+- [Nationaal Archief](https://www.nationaalarchief.nl/) - 荷兰国家档案馆包括 137 公里的文件、1500 万张照片和近 30 万张历史地图和图纸以及 800 兆字节的数字文件.
 
 ### North America
 
