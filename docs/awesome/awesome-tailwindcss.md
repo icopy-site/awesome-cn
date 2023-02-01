@@ -60,7 +60,7 @@
 **图例**：官方插件·主题·实用程序·变体·组件·弃用
 
 - [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加一个“散文”类.
-- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的宽高比实用程序.
+- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
 - [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供用于在固定行数后可视化截断文本的实用程序.
 - [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 - [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量的主题，支持深色模式.
@@ -69,7 +69,7 @@
 - [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - 使用 CSS 变量的主题，支持媒体查询.
 - [Themeable](https://github.com/upupming/tailwindcss-themeable) - 添加对 Tailwind CSS 的多主题支持.
 - [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - 添加对带有 CSS 变量和变体的 Tailwind CSS 的主题支持.
-- [Accent](https://github.com/enjidev/tailwindcss-accent) - 添加“强调”颜色以实现更动态和更灵活的颜色利用.
+- [Accent](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
 - [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - 利用 Tailwind CSS 的配置来创建实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - 添加“图像渲染”实用程序.
@@ -105,7 +105,7 @@
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加用于匹配嵌套边框半径的变体.
 - [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 - [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 为样式列表和`提供实用程序<summary> ` 标记.
-- [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
+- [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - 为 Tailwind CSS 默认没有的伪类和伪元素添加变体.
 - [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 - [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - 为 FormKit 添加输入和表单状态的变体.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
@@ -147,7 +147,7 @@
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - 添加“文本缩进”实用程序.
 - [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - 添加 `text-decoration-color` 实用程序.
 - [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
-- [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
+- [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - Adds `capitalize-first` utilities.
 - [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - 添加“纵横比”实用程序.
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - 添加基于配置颜色的“box-shadow”实用程序.
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体实用程序.
@@ -267,9 +267,9 @@
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.
 - [Meraki UI Components](https://merakiui.com) - 支持 RTL 语言的漂亮的 Tailwind CSS 组件.
 - [Tailwind Cards](https://github.com/hasinhayder/tailwind-cards) - 越来越多的文本/图像卡片.
-- [Tailwind Templates](https://www.tailwindtemplates.io) - Collection of templates and components.
+- [Tailwind Templates](https://www.tailwindtemplates.io) - 模板和组件的集合.
 - [Treact](https://treact.owaiskhan.me) - 使用 Tailwind CSS 构建的 React UI 模板和组件.
-- [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
+- [Jakarta LTE](https://github.com/zeroblack-c/jakarta-lte) - 使用 Tailwind CSS 的管理模板.
 - [themes.dev](https://www.themes.dev/) - 手工制作的免费和高级 Tailwind CSS 主题和组件.
 - [Kutty](https://kutty.netlify.app) - Web 应用程序中常用的可访问和可重用组件.
 - [Sail UI](https://sailui.github.io/) - 基于 Tailwind CSS 构建的基本 UI 组件集合.
@@ -292,6 +292,7 @@
 - [Fancy Tailwind](https://fancytailwind.com/) - 大量 Tailwind CSS UI 组件 (700+).
 - [Myna UI](https://mynaui.com/) - 使用 Tailwind CSS 制作的开源 UI 组件和营销元素.
 - [Sira UI](https://sira.riccox.com) - 可定制和可访问的设计系统，提供 TailwindCSS 组件类名称库来构建现代 UI.
+- [RippleUI](https://www.ripple-ui.com/) - 干净、现代和漂亮的 Tailwind CSS 组件.
 - [Vue Notus](https://www.creative-tim.com/product/vue-notus) - 开源 Tailwind CSS 和 Vue.js UI 工具包.
 - [Red Pixel Themes](https://redpixelthemes.com/) - 使用 Tailwind CSS 制作的对开发人员友好的付费模板.
 - [EasyTailwind](https://easytailwind.now.sh) - 免费增值，使用 Tailwind CSS 制作的易于定制的模板.

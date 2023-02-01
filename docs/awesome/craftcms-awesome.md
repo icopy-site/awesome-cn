@@ -1,18 +1,15 @@
 <div class="github-widget" data-repo="craftcms/awesome"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<div align="center">
-  <img width="400" src="https://raw.githubusercontent.com/craftcms/awesome/master/awesome-craft.svg?sanitize=true" alt="Awesome Craft CMS">
-  <br><br>
-</div>
+## Craft CMS ![Awesome](https://badgen.net/badge/icon/Resources?icon=awesome&label=Craft%20CMS&labelColor=red&color=black)
 
-## Awesome Craft CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+官方名单 [awesome](https://github.com/topics/awesome) 制作 CMS 资源、文章和其他闪亮的东西.
 
-&gt; 精心策划的精彩 Craft CMS 文章、资源和闪亮事物列表.
+&gt; **注意**  
+&gt; 缺少什么？ [Edit this page](https://github.com/craftcms/awesome/edit/main/README.md)!
 
-[Craft CMS](https://craftcms.com) 是面向开发人员、设计人员和 Web 专业人员的专注内容管理系统，它为客户融合了灵活性、强大功能和易用性. 在不影响内容作者易用性的情况下，构建为尽可能具有出色的可扩展性和灵活性.
 
 ### Contributing
-请快速浏览一下 [contribution guidelines](https://github.com/craftcms/awesome/blob/master/CONTRIBUTING.md) 第一的. 如果您在此处看到不再维护或不合适的文章或资源，请提交拉取请求以改进此文件. 另外，更多类别的想法 [are needed](https://github.com/chasegiunta/awesome-craft/issues/2) ！ 感谢所有贡献者； 你摇滚！
+请看一下 [contribution guidelines](https://github.com/craftcms/awesome/blob/master/CONTRIBUTING.md) . 如果您在此处看到不再维护或不合适的文章或资源，请提交拉取请求. 我们感谢您的意见！
 
 <!-- PLEASE USE `doctoc --maxlevel 3 README.md` TO KEEP THE TOC TO AN APPROPRIATE SIZE -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -25,21 +22,18 @@
 ## Official Links
 
 - **网站** - [craftcms.com](https://craftcms.com)
+- **时事通讯** - [craftcms.com/newsletter](https://craftcms.com/newsletter)
 - **工艺品贸易** - [craftcms.com/commerce](https://craftcms.com/commerce)
-- **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
-- **工艺 + 工艺商务演示** - [craftcms.com/demo](https://craftcms.com/demo)
-- **工艺 CMS 教程** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
-- **Craft CMS 3 文档** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
-- **Craft CMS 2 文档** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
-- **Craft Commerce 3 文档** - [craftcms.com/docs/commerce/3.x](https://craftcms.com/docs/commerce/3.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v3)
-- **Craft Commerce 2 文档** - [craftcms.com/docs/commerce/2.x](https://craftcms.com/docs/commerce/2.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v2)
-- **Craft Commerce 1 文档** - [craftcms.com/docs/commerce/1.x](https://craftcms.com/docs/commerce/1.x/)
-- **Craft Nitro 2 文档** - [craftcms.com/docs/nitro/2.x](https://craftcms.com/docs/nitro/2.x/)
+- **演示** - [craftcms.com/demo](https://craftcms.com/demo)
+- **教程** - [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
+- **Craft CMS 4 文档** - [craftcms.com/docs/4.x](https://craftcms.com/docs/4.x/) - [Class Reference](https://docs.craftcms.com/api/v4)
+- **商务 4 文档** - [craftcms.com/docs/commerce/4.x](https://craftcms.com/docs/commerce/4.x/) - [Class Reference](https://docs.craftcms.com/commerce/api/v4)
 - **知识库** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
 - **伙伴** - [craftcms.com/partners](https://craftcms.com/partners)
-- **许可证管理** - [id.craftcms.com](https://id.craftcms.com)
+- **工艺控制台** - [console.craftcms.com](https://console.craftcms.com)
 - **存储库** - [github.com/craftcms/cms](https://github.com/craftcms/cms)
-- **点所有会议** - [dotall.com](http://dotall.com)
+- **入门项目** - [github.com/craftcms/craft](https://github.com/craftcms/craft)
+- **点所有会议** - [craftcms.com/events](https://craftcms.com/events)
 
 ---
 
@@ -47,20 +41,14 @@
 
 - [Craft Coding Challenge](https://craftcodingchallenge.com/) - Craft CMS 开发人员测试和提高编码技能的培训基地.
 - [Craft Cookbook](https://craftcookbook.net/) - 常见 Craft CMS 问题的快速解决方案.
-- [Craft Link List](http://craftlinklist.com/) - 精选出版物收集有趣的链接.
 - [CraftQuest](https://craftquest.io/) - 无限制地参加工艺培训（以及更多）.
-- [CraftX](https://craftx.io/) - 基于 Craft 3 构建的开源站点，以及托管视频群聊的网络专业人士社区.
 - [Discord](https://discord.me/craftcms) - Craft CMS 的官方 Discord 社区.
-- [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - 查找视频和在线课程来帮助您学习.
 - [Facebook](https://www.facebook.com/craftcms/) - 喜欢官方 Craft CMS Facebook 页面.
-- [Issues & Feedback](https://github.com/craftcms/cms/issues) - 发布功能想法和错误报告.
+- [Issues, Feedback, Discussions](https://github.com/craftcms/cms/issues) - 在 GitHub 上发布功能想法和错误报告.
 - [Meetups](https://craftcms.com/meetups) - 寻找当地的 Craft 聚会.
-- [Mijingo](https://mijingo.com/craft) - 学习手艺的视频课程和指南文章.
-- [Professionals](https://straightupcraft.com/professionals) - 寻找熟练且热衷于使用 Craft 的人.
-- [Slack](https://craftcms.com/slack) - 加入专门讨论 Craft CMS 的 Slack 小组.
 - [StackExchange](https://craftcms.stackexchange.com) - 针对管理员、最终用户、开发人员和设计人员的问答.
-- [Straight Up Craft](http://straightupcraft.com/) - 教程、插件目录、事件列表等.
 - [Twitter](https://twitter.com/craftcms) - 关注对话，官方社区标签是 [`#craftcms`](https://twitter.com/hashtag/craftcms).
+- [Mastodon](https://mastodon.social/@CraftCMS) - Latest news, on the newest network.
 - [Work With Craft](https://www.workwithcraft.com/) - 专门的工作委员会旨在将雇主与工艺专业人士联系起来.
 
 ---
@@ -69,9 +57,8 @@
 
 - [Craft 4 Plugins](https://plugins.craftcms.com/?craft4)
 - [Craft 3 Plugins](https://plugins.craftcms.com/?craft3)
-- [Submit Craft 3 Plugins](https://id.craftcms.com)
-- [Craft 2 Plugins](https://craftplug.in/)
-- [Plugin Factory](https://pluginfactory.io/)
+- [Developer Portal](https://console.craftcms.com/)
+- [Generator](https://github.com/craftcms/generator/)
 
 ---
 
@@ -417,7 +404,7 @@
 - [Intel: Managed Service Providers](http://msp.intel.com)
 - [Klipsch](http://www.klipsch.com)
 - [LA Marathon](http://lamarathon.com)
-- [Layer Tennis](http://www.layertennis.com) - 一个 [Coudal Partners](http://coudal.com/) 生产赞助 [Adobe](https://www.adobe.com/).
+- [Layer Tennis](http://www.layertennis.com) - 一种 [Coudal Partners](http://coudal.com/) 生产赞助 [Adobe](https://www.adobe.com/).
 - [Medialoot](https://medialoot.com)
 - [Mini: Miles Ahead](http://www.bemilesahead.net/)
 - [Mixmag Media](http://mixmag.net)

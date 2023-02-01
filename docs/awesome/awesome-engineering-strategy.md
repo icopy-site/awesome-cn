@@ -4,7 +4,7 @@
 
 &gt; 如何为技术领导设计和执行工程战略.
 
-工程策略是由社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
+工程策略是社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
 
 欢迎投稿！ 查看将项目添加到列表的贡献指南.
 
@@ -67,5 +67,3 @@
 - [Qatium Product Market Fit](https://learnings.aleixmorgadas.dev/p/post-product-market-fit-open-engineering) - 当产品验证产品市场适合性并且工程未改进实践以满足新产品需求时的工程策略.
 
 ## Open Architectures
-
-- [Gitpod Architecture](https://gitpod.notion.site/Architecture-0e39e570b10f4e8ba7b259629ee3cb74#496a63099c8e430291de3fb9576525f6) - Gitpod 架构符合他们的战略.

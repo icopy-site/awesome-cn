@@ -39,6 +39,7 @@
 * [libPhenom](https://github.com/facebook/libphenom) - libPhenom 是一个事件框架，用于在 C 中构建高性能和高可扩展性系统.[Apache2]
 * [LibSourcey](https://github.com/sourcey/libsourcey)  - 用于实时视频流和高性能网络应用程序的 C++11 事件 IO.  [LGPL]
 * [LibU](https://github.com/koanlogic/libu) - 用 C 编写的多平台实用程序库. [BSD]
+* [libxutils](https://github.com/kala13x/libxutils)  - 简单而强大的跨平台 C 库，提供数据结构、算法等.  [麻省理工学院]
 * [Loki](http://loki-lib.sourceforge.net/)  - 一个 C++ 设计库，包含通用设计模式和习惯用法的灵活实现.  [麻省理工学院]
 * [MiLi](https://github.com/MariadeAnton/MiLi)  - 最小的仅标头 C++ 库.  [促进]
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks)  - 用于 C++ 创意编码的跨平台开源工具包.  [麻省理工学院] [website](http://www.openframeworks.cc/)
@@ -228,7 +229,7 @@
 * [OpenMP](http://openmp.org/) - OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor)  - 事件循环友好的 C++ actor 微框架.  [麻省理工学院]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  - 在一个相当小的 C++ 框架中实现 Actor、发布-订阅和 CSP 模型.  [BSD-3-条款]
-* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建在 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建于 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - RaftLib C++ 库，通过 C++ iostream 类运算符实现流/数据流并发 [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)  - 用于 C++ 的快速单生产者、单消费者无锁队列.  [BSD]
 * [stdgpu](https://github.com/stotko/stdgpu)  - GPU 上高效的类似 STL 的数据结构.  [阿帕奇2]
@@ -360,7 +361,7 @@
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
 * [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆可用于跟踪内存错误.  [BSD]
-* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试.[GPL2]
+* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有多个平台的网络视图的分析器.  [未授权]
 * [MinUnit](https://github.com/siu/minunit)  - 一个最小的单元测试框架，用于 C 自包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ Seams 和模拟对象的 Eclipse CDT 插件.
@@ -680,7 +681,7 @@
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
 * [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
-* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python 请求模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
+* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python Requests 模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3-Clause &amp; GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络 [MIT]
@@ -806,7 +807,7 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
@@ -841,7 +842,7 @@
 * [protobuf](https://github.com/protocolbuffers/protobuf)  - Protocol Buffers - Google 的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - C 中的 Protocol Buffers 实现 [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)  - 为低延迟应用程序以二进制格式编码和解码应用程序消息.  [阿帕奇2]
-* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现. [BSD]
+* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现.[BSD]
 * [YAS](https://github.com/niXman/yas)  - 非常快的 **Y**et **A**nother **S** 序列化库支持二进制/文本/json 格式.  [促进]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits)  - 实际上，最快的现代 **S** 序列化库. 只需检查 [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 

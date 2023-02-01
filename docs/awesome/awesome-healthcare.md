@@ -38,7 +38,7 @@
   * [SMART on FHIR](https://docs.smarthealthit.org/) - 基于开放标准的技术平台.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - 开放健康记录格式规范，旨在比现有格式更精确.
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - 护理文档规范的连续性（需要免费帐户）.
-  * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - Specifications for the older form of CCD - sometimes called a "C32".
+  * [Continuity of Care Record](httsp://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - 旧式 CCD 的规格 - 有时称为“C32”.
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - HL7v2 所有版本的规范（需要免费帐户）.
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - 许多医疗保健概念的标准化数据模型，很棒的 Github 存在，包括许多主要关系数据库的脚本.
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - 通过建立健康数据标准化的单一目标提供高质量、可计算的患者信息源.
@@ -105,7 +105,7 @@
 
 ### Libraries
   * [Android FHIR SDK](https://github.com/google/android-fhir) - Android FHIR SDK 
-  * [Archie](https://github.com/openehr/archie) - 用 Ja​​va 编写的 OpenEHR 库.
+  * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
   * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
   * [Datamol](https://github.com/datamol-org/datamol)  - 分子操作变得简单. 在 RDKit 之上构建的轻型 Python 包装器.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM 工具包.
@@ -118,6 +118,7 @@
   * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) - HL7 FHIR 的官方 .NET API.
   * [fhir.js](https://github.com/FHIR/fhir.js) - FHIR 的 JavaScript 客户端.
   * [FHIR protocol buffers](https://github.com/google/fhir) - 用于 FHIR 的协议缓冲区的 Google 实现.
+  * [Graphir](https://github.com/microsoft/graphir) - 基于 FHIR API 的 GraphQL 接口
   * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) - 用于 HL7 FHIR 客户端和服务器的 Java API.
   * [Hearth](https://github.com/jembi/hearth) - 一个快速的 FHIR 兼容服务器，专注于纵向数据存储.
   * [Health data standards](https://github.com/projectcypress/health-data-standards)  - 用于生成和使用各种医疗保健相关格式的 Ruby 库. 其中包括 HITSP C32、QRDA I 类和 QRDA III 类.

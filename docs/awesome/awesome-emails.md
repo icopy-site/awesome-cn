@@ -44,7 +44,7 @@
 - [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) - 每个模板都是响应式的，并且每个模板都已经在所有流行的电子邮件客户端中进行了测试.
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) - Antwort 为电子邮件提供响应式布局，既适合并适应客户端宽度.
-- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板设计用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
+- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其响应支持媒体查询的智能手机.
 - [HTML Email Templates](https://www.htmlemailtemplates.net/) - 适用于初创公司和 SaaS 的响应式 HTML 电子邮件模板.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个经过预测试的模板，适用于任何邮寄服务.
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的 Grunt 模板.
@@ -95,7 +95,8 @@
 - [Postmark](https://postmarkapp.com)  - 闪电般快速发送您的申请电子邮件.  Postmark 每次都按时将您的交易电子邮件发送给客户.
 - [ImprovMX](https://improvmx.com/) - 为您的域名创建免费的电子邮件别名.
 - [Reacher](https://reacher.email)  - 检查电子邮件是否存在而不发送任何电子邮件. 用 Rust 编写，100% 开源.
-- [Kickbox](https://kickbox.com) - 电子邮件验证服务（检查电子邮件是否存在）. 
+- [Kickbox](https://kickbox.com) - 电子邮件验证服务（检查电子邮件是否存在）.
+- [Forward Email](https://forwardemail.net) - 100% 开源和注重隐私的电子邮件服务.
 
 ## Self-Hosted Services
 
