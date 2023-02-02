@@ -8,7 +8,6 @@
 ![Github Forks](https://img.shields.io/github/forks/brunopulis/awesome-a11y?style=flat-square)
 ![Liberapay](https://img.shields.io/liberapay/patrons/brunopulis.svg)
 
-
 <a href="https://www.producthunt.com/posts/awesome-accessibility?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome&#0045;accessibility" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=339140&theme=light" alt="Awesome&#0032;Accessibility&#0032; - A&#0032;curate&#0032;list&#0032;about&#0032;A11Y | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 _有关此文件的葡萄牙语版本，请参阅 [README.pt-BR](https://github.com/brunopulis/awesome-a11y/blob/master/README-pt-br.md)._
@@ -17,7 +16,7 @@ _有关此文件的葡萄牙语版本，请参阅 [README.pt-BR](https://github.
 
 图片是插图 [Heydon Pickering](http://www.heydonworks.com/) 你可以 [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
-&gt; 精选的可访问性工具、文章和资源的精选列表.
+&gt; 精选的无障碍工具、文章和资源列表.
 &gt; 灵感来自 [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) 和 [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 _请阅读 [contribution guidelines](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md) 在贡献之前._
@@ -41,3 +40,7 @@ _请阅读 [contribution guidelines](https://github.com/brunopulis/awesome-a11y/
 - [Talks](https://github.com/brunopulis/awesome-a11y/blob/master/topics/talks.md)
 - [Tools](https://github.com/brunopulis/awesome-a11y/blob/master/topics/tools.md)
 - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
+
+## Support me
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4IDQTS)

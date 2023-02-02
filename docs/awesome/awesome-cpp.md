@@ -21,7 +21,7 @@
 * [APR](http://apr.apache.org/)  - Apache 便携式运行时. 另一个跨平台实用函数库.  [阿帕奇2]
 * [ASL](http://stlab.adobe.com/)  - Adob​​e Source Libraries 提供经过同行评审和可移植的 C++ 源库.  [麻省理工学院]
 * [Boost](https://github.com/boostorg)  :zap: - 大量通用 C++ 库.  [促进] [website](http://www.boost.org/)
-* [BDE](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. [Apache2]
+* [BDE](https://github.com/bloomberg/bde)  - 来自彭博实验室的 BDE 开发环境.  [阿帕奇2]
 * [C++ Workflow](https://github.com/sogou/workflow)  - C++ 并行计算和异步网络引擎.  [阿帕奇2]
 * [CGraph](https://github.com/ChunelFeng/CGraph)  - 基于 C++ 的跨平台 DAG 框架，无需任何第三方.  [麻省理工学院]
 * [Cinder](https://libcinder.org/)  - 社区开发的免费开源库，用于专业品质的创意编码.  [BSD]
@@ -41,7 +41,7 @@
 * [LibU](https://github.com/koanlogic/libu) - 用 C 编写的多平台实用程序库. [BSD]
 * [libxutils](https://github.com/kala13x/libxutils)  - 简单而强大的跨平台 C 库，提供数据结构、算法等.  [麻省理工学院]
 * [Loki](http://loki-lib.sourceforge.net/)  - 一个 C++ 设计库，包含通用设计模式和习惯用法的灵活实现.  [麻省理工学院]
-* [MiLi](https://github.com/MariadeAnton/MiLi)  - 最小的仅标头 C++ 库.  [促进]
+* [MiLi](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. [Boost]
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks)  - 用于 C++ 创意编码的跨平台开源工具包.  [麻省理工学院] [website](http://www.openframeworks.cc/)
 * [Qt](https://www.qt.io/download-open-source/)  :zap: - 跨平台应用程序和 UI 框架.  [GPL/LGPL/商业]
 * [Reason](http://code.google.com/p/reason/)  - 一个跨平台框架，旨在为需要 C++ 的性能和强度的开发人员带来 Java、.Net 或 Python 的易用性.  [GPL2]
@@ -165,13 +165,13 @@
  * [replxx](https://github.com/AmokHuginnsson/replxx)  - 支持 UTF-8、语法突出显示、提示的 readline 和 libedit 替代品，适用于 Unix 和 Windows.  [BSD]
  * [tabulate](https://github.com/p-ranav/tabulate) - 现代 C++ 的制表机 [麻省理工学院]
  * [TCLAP](http://tclap.sourceforge.net)  - 一个成熟、稳定且功能丰富的库，用于在 ANSI C++ 中定义和访问命令行参数.  [麻省理工学院]
- * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
+ * [termbox](https://github.com/nsf/termbox)  - 用于编写基于文本的用户界面的 AC 库.  [麻省理工学院]
  * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  - 用于编写多平台终端应用程序的小型头文件 C++ 库.  [麻省理工学院]
  * [FTXUI](https://github.com/ArthurSonzogni/FTXUI)  - C++ 功能终端用户界面.  [麻省理工学院]
  * [imtui](https://github.com/ggerganov/imtui) - 即时模式基于文本的用户界面 [麻省理工学院]
 
 ## Compression
-*Compression and Archiving Libraries*
+*压缩和归档库*
 
 * [bit7z](https://github.com/rikyoz/bit7z)  - 一个 C++ 静态库，为 7-zip DLL 提供干净简单的接口.  [GPLv2]
 * [Brotli](https://github.com/google/brotli)  - Brotli 压缩格式. 由谷歌开发.  [麻省理工学院]
@@ -229,7 +229,7 @@
 * [OpenMP](http://openmp.org/) - OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor)  - 事件循环友好的 C++ actor 微框架.  [麻省理工学院]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  - 在一个相当小的 C++ 框架中实现 Actor、发布-订阅和 CSP 模型.  [BSD-3-条款]
-* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建于 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建在 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - RaftLib C++ 库，通过 C++ iostream 类运算符实现流/数据流并发 [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)  - 用于 C++ 的快速单生产者、单消费者无锁队列.  [BSD]
 * [stdgpu](https://github.com/stotko/stdgpu)  - GPU 上高效的类似 STL 的数据结构.  [阿帕奇2]
@@ -264,7 +264,7 @@
 * [plf::list](https://github.com/mattreecebentley/plf_list)  - 一个 std::list 实现，它删除了范围拼接以启用对缓存更友好的结构，从而产生显着的性能提升.  [zLib] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack)  - std::stack 容器适配器的替换容器，比堆栈上下文中的任何 std 容器具有更好的性能.  [zLib] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite)  - Arthur O&#39;Dwyer 的 ring_span 实现的简化实现，即. 循环缓冲区视图.  [麻省理工学院]
-* [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. [MIT]
+* [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing)  - 基于 C++14 的罗宾汉哈希的快速和内存高效哈希表.  [麻省理工学院]
 * [robin-map](https://github.com/Tessil/robin-map)  - 使用罗宾汉哈希的快速哈希映射和哈希集.  [麻省理工学院]
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  - 用于 C++ 的快速、内存高效的哈希映射.  [BSD 3 子句]
 
@@ -273,7 +273,7 @@
 
 * [Bcrypt](http://bcrypt.sourceforge.net/)  - 跨平台文件加密实用程序. 加密文件可在所有支持的操作系统和处理器之间移植.  [BSD]
 * [BeeCrypt](http://beecrypt.sourceforge.net/)  - 一个便携式和快速的密码学库.  [LGPLv2.1+]
-* [Botan](http://botan.randombit.net/)  - C++ 的加密库.  [BSD-2]
+* [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)  - 一个免费的密码方案 C++ 类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)  - C++11 仅标头消息摘要（哈希）库.  [公共区域]
 * [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. [GPL]
@@ -324,7 +324,7 @@
 * [RocksDB](https://github.com/facebook/rocksdb)  - 用于从 facebook 快速存储的嵌入式键值存储.  [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - 高性能、共享内存、无锁、跨平台、单文件、最小依赖、C++11 键值存储 [Apache2]
 * [SOCI](https://github.com/SOCI/soci)  - C++ 的数据库抽象层.  [BSL-1.0]
-* [SQLite](http://www.sqlite.org/)  - 一个完全嵌入式、功能齐全的关系数据库，大小为几十万，您可以将其直接包含到您的项目中.  [公共区域]
+* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)  - SQLiteC++ (SQLiteCpp) 是一个智能且易于使用的 C++ SQLite3 包装器.  [麻省理工学院]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)  - 仅标头围绕 sqlite 库的 C++14 包装器.  [麻省理工学院]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)  - SQLite ORM light header only library for modern C++.  [AGPL + 付费 MIT]
@@ -426,12 +426,12 @@
 * [iup](https://www.tecgraf.puc-rio.br/iup)  - 用于构建图形用户界面的多平台工具包.  [麻省理工学院]
 * [libui](https://github.com/andlabs/libui)  - 简单且可移植（但并非不灵活）的 C GUI 库，它使用它支持的每个平台的本机 GUI 技术.  [麻省理工学院]
 * [MyGUI](https://github.com/MyGUI/mygui)  - 快速、灵活和简单的 GUI.  [麻省理工学院]
-* [nana](http://nanapro.org/en-us/)  - Nana 是用于现代 C++ 风格的 GUI 编程的跨平台库.  [促进]
+* [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui)  - 用于 OpenGL 3.x 或更高版本的简约跨平台小部件库.  [BSD]
 * [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  - 单头 ANSI C gui 库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)  - 无需进一步依赖的 Qt 绘图小部件.  [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/)  - 用于技术应用的 Qt 小部件.  [自己基于LGPL]
-* [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
+* [QwtPlot3D](http://qwtplot3d.sourceforge.net/)  - 一个功能丰富的基于 Qt/OpenGL 的 C++ 编程库，本质上提供了一堆 3D 小部件.  [zlib]
 * [RmlUi](https://github.com/mikke89/RmlUi)  - 发展了 HTML/CSS 用户界面库.  libRocket 的分支.  [麻省理工学院]
 * [Sciter](http://sciter.com/)  - Sciter 是一个可嵌入的 HTML/CSS/脚本引擎，旨在用作现代桌面应用程序的 UI 层.  [免费/商业]
 * [Slint](https://github.com/slint-ui/slint)  - 用于桌面和嵌入式的轻量级 GUI 工具包.  [GPL/免费/商业] [website](https://slint-ui.com)
@@ -453,13 +453,13 @@
 * [Harfang 3D](https://github.com/harfang3d/harfang3d) 可在 C++、Python、Lua 和 Go 中使用的 3D 可视化库. 基于 BGFX.  [GPLv3/LGPLv3/商业] [website](https://www.harfang3d.com)
 * [herebedragons](https://github.com/kosua20/herebedragons)  - 使用各种引擎、框架或 API 实现的基本 3D 场景.  [麻省理工学院] [website](http://simonrodriguez.fr/dragon/)
 * [Horde3D](https://github.com/horde3d/Horde3D)  - 小型 3D 渲染和动画引擎.  [英超]
-* [Ion](https://github.com/google/ion)  - 一组小型高效的库，用于构建使用 3D 图形的跨平台客户端或服务器应用程序.  [阿帕奇2] [website](https://google.github.io/ion/)
+* [Ion](https://github.com/google/ion) - A small and efficient set of libraries for building cross-platform client or server applications that use 3D graphics. [Apache2] [website](https://google.github.io/ion/)
 * [Irrlicht](http://irrlicht.sourceforge.net/)  - 用 C++ 编写的高性能实时 3D 引擎.  [zlib]
 * [libigl](https://github.com/libigl/libigl)  - 简单的 C++ 几何处理库.  [MPL2]
 * [LLGL](https://github.com/LukasBanana/LLGL)  - 低级图形库 (LLGL) 是现代图形 API 的薄抽象层.  [BSD-3-条款]
 * [magnum](https://github.com/mosra/magnum)  - 用于游戏和数据可视化的轻量级和模块化 C++11/C++14 图形中间件.  [麻省理工学院] [website](http://magnum.graphics)
 * [NanoVG](https://github.com/memononen/nanovg)  - 用于 UI 和可视化的 OpenGL 之上的抗锯齿二维矢量绘图库.  [Zlib]
-* [Ogre 3D](http://www.ogre3d.org/)  :zap: - 用 C++ 编写的面向场景的、实时的、灵活的 3D 渲染引擎（与游戏引擎相对）.  [麻省理工学院]
+* [Ogre 3D](http://www.ogre3d.org/) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/)  - 开源高性能 3D 图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)  - 用于在 CPU 和 GPU 上评估和渲染细分曲面的 Pixar 库.  [修改Apache2]
 * [OpenVDB](http://www.openvdb.org/)  - 用于存储、编辑和渲染体积数据集的库和工具.  [MPL2]
@@ -517,16 +517,16 @@
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [iceoryx](https://github.com/eclipse-iceoryx/iceoryx)  - 用于安全关键系统的真正零拷贝进程间通信框架，具有 C、Rust 的绑定. 在 Linux、QNX、Windows、Mac OS、FreeBSD 上运行.  [阿帕奇2] [website](https://iceoryx.io/)
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)  - 用于 C++ 服务器和客户端的 JSON-RPC 框架.  [麻省理工学院]
-* [nanomsg](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
+* [nanomsg](https://github.com/nanomsg/nanomsg)  - 几个“可扩展性协议”的简单高性能实现.  [麻省理工学院] [website](http://nanomsg.org/)
 * [nng](https://github.com/nanomsg/nng)  - nanomsg-next-generation，一个轻量级的无代理消息传递库.  [麻省理工学院] [website](https://nanomsg.github.io/nng/)
 * [rpclib](https://github.com/rpclib/rpclib)  - 现代 C++ msgpack-RPC 服务器和客户端库.  [麻省理工学院]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)  - C/C++ 函数的简单 RPC 包装器生成器.  [BSD]
 * [WAMP](http://wamp.ws/)  - 提供 RPC 和发布/订阅消息传递模式.  （各种实现，各种语言）
-* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
+* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/)  - 基于 XML 和 HTTP 的轻量级 RPC 库.  [BSD]
 
 ## JSON
 
-* [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
+* [Boost.PropertyTree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
 * [cJSON](https://github.com/DaveGamble/cJSON) - ANSI C 中的超轻量级 JSON 解析器. [MIT]
 * [frozen](https://github.com/cesanta/frozen)  - 用于 C/C++ 的 JSON 解析器和生成器.  [GPL 和 GPL2]
 * [Glaze](https://github.com/stephenberry/glaze)  - 速度极快，在内存、JSON 和现代 C++ 的接口库中.  [麻省理工学院]
@@ -624,6 +624,7 @@
 * [GMP](https://gmplib.org/)  - 用于任意精度算术的 AC 库，对有符号整数、有理数和浮点数进行运算.  [LGPL3 和 GPL2]
 * [Klein](https://github.com/jeremyong/klein)  - 一个快速的、SIMD 优化的 C++17 几何代数库，用于点、线和平面投影、相交、连接、刚体运动等.  [麻省理工学院] [website](https://jeremyong.com/klein)
 * [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短矢量数学库.  [未授权]
+* [MatX](https://github.com/NVIDIA/MatX) - 一个 GPU 加速的 C++17 数值计算库，具有类似 MATLAB/Python 的语法 [BSD 3-clause]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  - 多精度整数和有理算术密码库.  [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp)  - Python Numpy 库的模板化标头仅 C++ 实现.  [麻省理工学院]
 * [muparser](http://beltoforion.de/article.php?a=muparser)  - muParser 是一个用 C++ 编写的可扩展的高性能数学表达式解析器库.  [麻省理工学院]
@@ -681,7 +682,7 @@
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
 * [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
-* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python Requests 模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
+* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python 请求模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3-Clause &amp; GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络 [MIT]
@@ -728,7 +729,7 @@
 
 * [libharu](https://github.com/libharu/libharu)  - 用于生成 PDF 的免费、跨平台、开源软件库.  [zlib]
 * [MuPDF](https://mupdf.com/)  - 轻量级的 PDF、XPS 和电子书查看器.  [AGPL/商业]
-* [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. [LGPL]
+* [PoDoFo](http://podofo.sourceforge.net/)  - 处理 PDF 文件格式的库.  [LGPL]
 * [Poppler](https://poppler.freedesktop.org/)  - 基于 xpdf-3.0 代码库的开源多后端 PDF 渲染库.  [GPLv2/GPLv3]
 * [Xpdf](https://www.xpdfreader.com/)  - Xpdf 是一个免费的 PDF 查看器和工具包，包括文本提取器、图像转换器、HTML 转换器等.  [GPL v2/GPL v3]
 * [DynaPDF](http://www.dynaforms.com/)  - 易于使用的 PDF 生成库.  [商业的]
@@ -807,7 +808,7 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
@@ -854,7 +855,7 @@
 
 ## Video
 
-* [libvpx](http://www.webmproject.org/code/)  - VP8/VP9 编解码器 SDK.  [BSD]
+* [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)  - 一个完整的跨平台解决方案，用于录制、转换和流式传输音频和视频.  [LGPL2/GPL2]
 * [libde265](https://github.com/strukturag/libde265)  - 打开 h.265 视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265_git/src)  - 打开 h.265 视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/master/)
@@ -873,7 +874,7 @@
 * [Civetweb](https://github.com/civetweb/civetweb)  - 提供易于使用、功能强大、可嵌入 C/C++ 的 Web 服务器，并支持可选的 CGI、SSL 和 Lua.  [麻省理工学院]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)  - Microsoft 项目，用于使用现代异步 C++ API 设计以本机代码进行基于云的客户端-服务器通信.  [麻省理工学院]
 * [CppCMS](http://cppcms.com/)  - 免费的高性能 Web 开发框架（不是 CMS）.  [LGPLv3]
-* [Crow](https://github.com/CrowCpp/Crow) - Crow is a C++ microframework for running web services. It uses routing similar to Python's Flask. [BSD] [website](https://crowcpp.org)
+* [Crow](https://github.com/CrowCpp/Crow)  - Crow 是一个用于运行 Web 服务的 C++ 微框架. 它使用类似于 Python 的 Flask 的路由.  [BSD] [website](https://crowcpp.org)
 * [Cutelyst](https://github.com/cutelyst/cutelyst)  - 基于 Qt 构建的 C++ Web 框架，使用 Catalyst (Perl) 框架的简单方法.  [LGPLv2.1+] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon)  - 基于 C++14/17 的高性能 HTTP 应用程序框架.  [麻省理工学院]
 * [facil.io](https://github.com/boazsegev/facil.io)  - 支持 HTTP、WebSockets、SSE 等的事件式高性能 C Web 框架.  [麻省理工学院] [website](http://facil.io)
@@ -893,7 +894,7 @@
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
 * [Expat](http://www.libexpat.org/) - 用 C 语言编写的 XML 解析器库.[麻省理工学院]
 * [Libxml2](http://xmlsoft.org/)  - Gnome 的 XML C 解析器和工具包.  [麻省理工学院]
-* [libxml++](http://libxmlplusplus.sourceforge.net/)  - C++ 的 XML 解析器.  [LGPL2]
+* [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. [LGPL2]
 * [Mini-XML](https://github.com/michaelrsweet/mxml) - 一个用 ANSI C 编写的小型 XML 解析库.[LGPL2 有例外]
 * [PugiXML](http://pugixml.org/)  - 轻量级、简单且快速的 C++ XML 解析器，支持 XPath.  [麻省理工学院]
 * [RapidXml](http://rapidxml.sourceforge.net/)  - 尝试尽可能创建最快的 XML 解析器，同时保持可用性、可移植性和合理的 W3C 兼容性.  [促进]
@@ -939,7 +940,7 @@
 * [Mach7](https://github.com/solodon4/Mach7)  - C++ 的模式匹配库.  [BSD]
 * [mio](https://github.com/mandreyel/mio)  - 用于内存映射文件 IO 的跨平台 C++11 仅标头库.  [麻省理工学院]
 * [PEGTL](https://github.com/taocpp/PEGTL)  - 解析表达式语法模板库.  [麻省理工学院]
-* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
+* [Remote Call Framework](http://www.deltavsoft.com/)  - C++ 的进程间通信框架.  [GPL2/商业]
 * [Scintilla](http://scintilla.org/)  - 免费的源代码编辑组件.  [麻省理工学院]
 * [SDS](https://github.com/antirez/sds) - C 的简单动态字符串库. [BSD]
 * [semver.c](https://github.com/h2non/semver.c) - 一个 semver 解析器并在 ANSI C 中呈现.[麻省理工学院]
@@ -952,7 +953,7 @@
 * [StrTk](http://www.partow.net/programming/strtk/index.html)  - 由高性能字符串处理例程组成的 C++ 库.  [麻省理工学院]
 * [Tulip Indicators](https://tulipindicators.org)  - 超过 100 个金融技术分析指标的 AC 库.  [LGPL]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - 一组试图让编译器利用未定义行为的 C/C++ 程序.
-* [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) 左值、右值等的 PDF 备忘单.  [简版左版]
+* [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
 * [VarTypes](https://github.com/szi/vartypes)  - 一个功能丰富的面向对象的框架，用于管理 C++/Qt4 中的变量.  [LGPL]
 * [ZBar](http://zbar.sourceforge.net/)  - 条码扫描器库，允许扫描照片/图像/视频流中的条码并返回它们的值.  [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/)  - 一个用 Java 实现的开源、多格式 1D/2D 条形码图像处理库，具有其他语言的端口.  [阿帕奇]
@@ -978,7 +979,7 @@
 * [TCC](http://bellard.org/tcc/)  - 微型 C 编译器.  [LGPL]
 
 ## Online Compiler
-*List of online C or C++ compilers*
+*在线 C 或 C++ 编译器列表*
 
 * [codechef](https://www.codechef.com/ide) - 一个简单的在线编译器 CodeChef.
 * [codepad](http://codepad.org/) - 在线编译器/解释器和简单的协作工具.
@@ -988,16 +989,16 @@
 * [Ideone](http://ideone.com/) - 在线编译器和调试工具，允许您编译源代码并在线执行 60 多种编程语言.
 * [repl.it](https://repl.it) - 面向教育工作者、学习者和开发人员的强大而简单的工具和平台.
 * [Rextester](http://rextester.com/runcode) - 提供多种编译器（Clang、GCC、MSVC）和多种编辑器的在线编译器.
-* [Try It Online](https://tio.run/) - TIO 是一个在线解释器系列，适用于不断增长的实用和娱乐编程语言列表.
-* [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
+* [Try It Online](https://tio.run/) - TIO is a family of online interpreters for an evergrowing list of practical and recreational programming languages.
+* [Wandbox](http://melpon.org/wandbox/) - 带有 Boost 的在线 Clang/GCC 编译器.
 * [paiza.io](https://paiza.io/en) - 一个在线 C/C++ 编译器，具有多文件支持功能、Github(gist) 集成和协作编辑.
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - 一个简单易用的在线 C++ 编译器.
 
 ## Debugger
-*List of C or C++ debuggers*
+*C 或 C++ 调试器列表*
 
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
-* [GDB](https://www.gnu.org/software/gdb/) - GNU 调试器.
+* [GDB](https://www.gnu.org/software/gdb/) - GNU Debugger.
 * [LLDB](http://lldb.llvm.org/) - LLDB 调试器.
 * [Metashell](https://metashell.readthedocs.org) - 一个交互式模板元编程 shell，其中包括 MDB 元调试器.
 * [Valgrind](http://valgrind.org/) - 用于内存调试、内存泄漏检测和分析的工具.
@@ -1045,7 +1046,7 @@
 * [Hunter](https://www.github.com/ruslo/hunter)  - CMake 驱动的 C++ 跨平台包管理器.  [BSD-2]
 * [MesonBuild](http://mesonbuild.com) - 一个开源构建系统意味着速度非常快，更重要的是，它尽可能对用户友好.
 * [Ninja](https://ninja-build.org/) - 一个专注于速度的小型构建系统.
-* [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
+* [Scons](http://www.scons.org/) - 一个用Python脚本配置的软件构建工具.
 * [Sconsolidator](http://www.sconsolidator.com/) - Scons 为 Eclipse CDT 构建系统集成.
 * [Spack](https://spack.io/)  - 一个灵活的包管理器，支持多个版本、配置、平台和编译器.  [Apache-2.0/麻省理工学院]
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
@@ -1059,7 +1060,7 @@
 ## Static Code Analysis
 *通过代码分析提高质量和减少缺陷的工具列表*
 
-* [Cppcheck](http://cppcheck.sourceforge.net/)  - 静态 C/C++ 代码分析工具.  - [source](https://github.com/danmar/cppcheck)
+* [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
 * [CppDepend](https://www.cppdepend.com/) - 通过分析和可视化代码依赖性、定义设计规则、进行影响分析以及比较不同版本的代码，简化管理复杂的 C/C++ 代码库.
 * [cpplint](https://github.com/cpplint/cpplint) - 遵循 Google 的 C++ 风格指南的 C++ 风格检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
@@ -1150,8 +1151,8 @@
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 * [高清 C 编程教程 [高清]](https://www.youtube.com/playlist?list=PLCB9F975ECF01953C) - 面向初学者和新程序员的详细 C 编程语言教程集.
-* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 来自 VoidRealms.
-* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 来自 VoidRealms.
+* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
+* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) - TheNewBoston 官方 Buckys C++ 编程教程播放列表.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是 thenewboston 的 C++ 编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 带有 Qt 教程的新波士顿 C++ GUI 的官方播放列表.

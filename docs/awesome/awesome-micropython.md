@@ -12,7 +12,7 @@
 
 精选的 MicroPython 库、框架、软件和资源列表.
 
-[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精简高效实现，包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
+[MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 
 
 
@@ -30,7 +30,7 @@
 ### AI
 
 * [MicroMLP](https://github.com/jczic/MicroMLP) - 用于 MicroPython 的微神经网络多层感知器（用于 ESP32 和 Pycom 模块）.
-* [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - MicroPython 的神经网络.
+* [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
 
 ### Analytics
 
@@ -53,7 +53,7 @@
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - 使用 UART 的 DFPlayer Mini 驱动程序.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - 用于 MicroPython 开发板的 WAV 播放器.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - VS1053b MP3 播放器的异步驱动程序.
-* [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - MicroPython 的 MIDI 实现示例.
+* [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A MIDI implementation example for MicroPython.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) - 用于铃声文本传输语言 (RTTTL) 的 Python 解析器.
 * [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - 运行 MicroPython 的微控制器上的 I2S 支持示例.
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - 用于 MicroPython 的最小 OSC 客户端和服务器库.
@@ -83,7 +83,7 @@
 * [MicroPythonBLEHID](https://github.com/Heerkog/MicroPythonBLEHID) - 用于 MicroPython 的低功耗蓝牙 (BLE) GATT 库上的人机接口设备 (HID).
 * [upyble](https://github.com/Carglglz/upyble) - 蓝牙低功耗 MicroPython 设备的命令行工具.
 * [micropython-xiaomi-ble-adv-parse](https://codeberg.org/scy/micropython-xiaomi-ble-adv-parse) - 从一些小米低功耗蓝牙 (BLE) 传感器被动检索传感器数据.
-* [mijia-temphum-upy](https://codeberg.org/scy/mijia-temphum-upy) - MicroPython library to read certain Xiaomi Mijia BLE temperature & humidity sensors.
+* [mijia-temphum-upy](https://codeberg.org/scy/mijia-temphum-upy) - 用于读取某些小米米家 BLE 温度和湿度传感器的 MicroPython 库.
 
 #### CAN
 
@@ -170,7 +170,7 @@
 * [SX127x_driver_for_MicroPython_on_ESP8266](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - 用于 ESP8266/ESP32/Raspberry Pi 上的 (Micro)Python 的 SX127x（LoRa 收发器）驱动程序.
 * [LightLora_MicroPython](https://github.com/MZachmann/LightLora_MicroPython) - 用于 MicroPython 的轻量级中断驱动的 Semtech SX127x 库.
 * [u-lora](https://github.com/martynwheeler/u-lora) - 用于 MicroPython 的 Raspi-lora.
-* [sx127x_esp](https://github.com/azorg/sx127x_esp) - Connect Ra-01 module base on LoRaTM sx127x chip to ESP8266/ESP32 under MicroPython.
+* [sx127x_esp](https://github.com/azorg/sx127x_esp) - 将基于 LoRaTM sx127x 芯片的 Ra-01 模块连接到 MicroPython 下的 ESP8266/ESP32.
 * [nanoserver](https://github.com/gradoj/nanoserver) - MicroPython 嵌入式 LoRaWAN 服务器.
 * [micropySX126X](https://github.com/ehong-tl/micropySX126X) - 用于 MicroPython 和 CircuitPython 的 Semtech SX126X LoRa 驱动程序.
 
@@ -226,7 +226,7 @@
 
 * [micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - MicroPython 的 OTA 更新程序.
 * [Micropython-ESP32-OTA](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - 基于 rdehuyss/micropython-ota-updater 的 MicroPython 更新程序.
-* [senko](https://github.com/RangerDigital/senko) - Simplest OTA update solution for your MicroPython projects.
+* [senko](https://github.com/RangerDigital/senko) - 适用于您的 MicroPython 项目的最简单的 OTA 更新解决方案.
 
 #### Radio
 
@@ -323,7 +323,7 @@
 
 #### Zigbee
 
-* [ZbPy](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee 解析器.
+* [ZbPy](https://github.com/osresearch/ZbPy) - MicroPython IEEE802.15.4 / Zigbee parser.
 
 ### Display
 
@@ -428,8 +428,8 @@
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
 * [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动器.
-* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动器.
-* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动程序.
+* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动程序.
+* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动器.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 用于由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动程序.
 
@@ -550,7 +550,7 @@
 
 #### DC Motor
 
-* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动程序.
+* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动器.
 * [MicroPython-L298](https://gitlab.com/olivierlenoir/MicroPython-L298) - 使用 MicroPython 驱动 L298 双 H 桥.
 
 #### Servo
@@ -730,7 +730,7 @@
 
 #### Temperature Analog
 
-* [micropython-max31855](https://github.com/mcauser/deshipu-micropython-max31855) - Thermocouple amplifier, SPI interface.
+* [micropython-max31855](https://github.com/mcauser/deshipu-micropython-max31855) - 热电偶放大器，SPI 接口.
 * [max31856](https://github.com/alinbaltaru/max31856) - 具有线性化、SPI 接口的精密热电偶到数字转换器.
 * [mcp9700](https://gitlab.com/CrispyCrafter/mcp9700) - 用于 MCP9700 的通用 MicroPython 驱动程序.
 
@@ -739,9 +739,9 @@
 * [bme680-mqtt-micropython](https://github.com/robmarkcole/bme680-mqtt-micropython) - BME680 气体、压力、温度和湿度传感器的驱动程序.
 * [LM75-MicroPython](https://github.com/OldhamMade/LM75-MicroPython) - LM75 数字温度传感器驱动程序，I2C 接口.
 * [micropython-am2320](https://github.com/mcauser/micropython-am2320) - 奥松AM2320温湿度传感器，I2C接口.
-* [micropython-dht12](https://github.com/mcauser/micropython-dht12) - Aosong DHT12 temperature and humidity sensor, I2C interface.
+* [micropython-dht12](https://github.com/mcauser/micropython-dht12) - 奥松DHT12温湿度传感器，I2C接口.
 * [micropython-hdc1008](https://github.com/kfricke/micropython-hdc1008) - 德州仪器 HDC1008 湿度和温度传感器的驱动程序.
-* [micropython-mcp9808](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
+* [micropython-mcp9808](https://github.com/kfricke/micropython-mcp9808) - Microchip MCP9808 温度传感器的驱动程序.
 * [micropython-mpl115a2](https://github.com/khoulihan/micropython-mpl115a2) - MPL115A2 大气压力传感器的 Pyboard 驱动程序.
 * [micropython-sht30](https://github.com/rsc1975/micropython-sht30) - SHT30温湿度传感器驱动.
 * [micropython-sht31](https://github.com/kfricke/micropython-sht31) - SHT31温湿度传感器的驱动程序.
@@ -778,7 +778,7 @@
 
 #### Touch Resistive
 
-* [XPT2046-touch-pad-driver](https://github.com/robert-hh/XPT2046-touch-pad-driver) - 许多 TFT 模块中使用的 XPT2046 触摸板控制器的驱动程序.
+* [XPT2046-touch-pad-driver](https://github.com/robert-hh/XPT2046-touch-pad-driver) - Driver for XPT2046 touch pad controller used in many TFT modules.
 
 ### Scheduling
 
@@ -809,7 +809,7 @@
 #### Flash
 
 * [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - 一个 Python 3 实用程序，用于将任意二进制文件转换为 Python 源代码，以便在 Flash 中冻结为字节码.
-* [micropython-winbond](https://github.com/brainelectronics/micropython-winbond) - 通过 SPI 与华邦 W25Q 闪存芯片交互.
+* [micropython-winbond](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
 
 #### FRAM
 
@@ -851,6 +851,8 @@
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/category/MicroPython) - MicroPython 和物联网.
 * [Bhavesh Kakwani](https://bhave.sh/) - MicroPython 视频 + 书面教程.
 * [CoderDojo Twin Cities MicroPython](https://www.coderdojotc.org/micropython/) - 用于向儿童教授 MicroPython 的完整编码课程.
+* [MicroPython Tutorials for ESP32 boards](https://www.upesy.com/blogs/tutorials/tutorials-for-esp32-with-micropython-code) - 带有代码示例的教程，用于学习使用 ESP32 板的 MicroPython 基础知识.
+* [Learn MicroPython with a Pi Pico board](https://www.upesy.com/blogs/tutorials/tutorials-for-rpi-pi-pico-with-micropython-code) - 使用 Raspberry Pi Pico / RP240 开发板的 MicroPython 教程.
 
 ## Books
 

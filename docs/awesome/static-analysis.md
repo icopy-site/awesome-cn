@@ -210,7 +210,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [NDepend](http://www.ndepend.com) :copyright: — 衡量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
-- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDPi、加密、反序列化等）提供实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDAPI、加密、反序列化等）提供实时安全代码分析.
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
@@ -516,13 +516,16 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [DesigniteJava](http://www.designite-tools.com/designitejava) :copyright: — DesigniteJava 支持检测各种体系结构、设计和实现气味以及各种代码质量指标的计算.
 
+- [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue 是一家软件公司，为软件开发团队提供基于 AI 的代码分析和测试解决方案.
+它的技术可帮助开发人员在其软件开发过程中实现自动化测试、查找错误并减少人工劳动. 该公司的主要产品 Diffblue Cover 使用 AI 为 Java 代码生成和运行单元测试，有助于发现错误并提高代码质量.
+
 - [Doop](https://bitbucket.org/yanniss/doop)  — Doop 是一个用于 Java/Android 程序静态分析的声明式框架，以指针分析算法为中心.  Doop 提供了种类繁多的分析以及周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
 
 - [Error-prone](https://errorprone.info) — 将常见的 Java 错误捕获为编译时错误.
 
 - [fb-contrib](http://fb-contrib.sourceforge.net) — 带有附加错误检测器的 FindBugs 插件.
 
-- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  — 检测并禁止调用特定方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
+- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 
 - [google-java-format](https://github.com/google/google-java-format) — 谷歌样式重新格式化.
 
@@ -676,7 +679,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -716,7 +719,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [phpdcd](https://github.com/sebastianbergmann/phpdcd) :warning: — PHP 代码的死代码检测器 (DCD).
 
-- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) — Builds a dependency graph for a project.
+- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) — 为项目构建依赖关系图.
 
 - [PhpDeprecationDetector](https://github.com/wapmorgan/PhpDeprecationDetector)  — PHP 代码分析器，用于搜索较新解释器版本中已弃用功能的问题. 它会发现已删除的对象（函数、变量、常量和 ini 指令）、已弃用的函数功能以及禁止使用的名称或技巧（例如，新版本中的保留标识符）.
 
@@ -730,7 +733,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [PhpMetrics](http://www.phpmetrics.org) — 计算和可视化各种代码质量指标.
 
-- [phpmnd](https://github.com/povils/phpmnd) — 有助于检测幻数.
+- [phpmnd](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 
 - [PHPQA](https://edgedesigncz.github.io/phpqa) — 用于运行 QA 工具（phploc、phpcpd、phpcs、pdepend、phpmd、phpmetrics）的工具.
 
@@ -995,7 +998,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [SQLFluff](https://www.sqlfluff.com/) — 多方言 SQL linter 和格式化程序.
 
-- [sqlint](https://github.com/purcell/sqlint) — Simple SQL linter.
+- [sqlint](https://github.com/purcell/sqlint) — 简单的 SQL linter.
 
 - [squawk](https://squawkhq.com)  — Linter for PostgreSQL，专注于迁移. 防止由数据库迁移引起的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
 
@@ -1294,7 +1297,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [SonarLint for Visual Studio](https://vs.sonarlint.org) — SonarLint 是 Visual Studio 2015 和 2017 的扩展，它向开发人员提供有关注入到 .NET 代码中的新错误和质量问题的即时反馈.
 
-- [SonarQube](http://www.sonarqube.org) — SonarQube is an open platform to manage code quality.
+- [SonarQube](http://www.sonarqube.org) — SonarQube 是一个管理代码质量的开放平台.
 
 - [Sonatype](https://www.sonatype.com) :copyright: — 报告常见依赖项中的已知漏洞并推荐更新包以尽量减少破坏性更改
 
@@ -1302,7 +1305,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: — Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 
-- [sqlvet](https://github.com/houqp/sqlvet)  — 对 Go 代码库中的原始 SQL 查询执行静态分析，以发现潜在的运行时错误. 它检查 SQL 语法错误，识别可能导致 SQL 注入的不安全查询，确保列数与 INSERT 语句中的值数相匹配，并验证表名和列名.
+- [sqlvet](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
 
 - [Super-Linter](https://github.com/github/super-linter) — 组合多个 linter 以作为 GitHub 操作安装.
 
@@ -1537,6 +1540,9 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Codecov](https://about.codecov.io/) :copyright: — Codecov 是一家为开发人员和工程负责人提供代码覆盖率工具以了解其代码覆盖率的公司.
 他们提供灵活统一的报告、无缝的覆盖洞察力和强大的覆盖控制.  Codecov 支持 20 多种语言，并且与 CI/CD 无关. 超过 29,000 个组织和 100 万开发人员使用 Codecov.  Codecov 最近加入了 Sentry.
+
+- [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue 是一家软件公司，为软件开发团队提供基于 AI 的代码分析和测试解决方案.
+它的技术可帮助开发人员在其软件开发过程中实现自动化测试、查找错误并减少人工劳动. 该公司的主要产品 Diffblue Cover 使用 AI 为 Java 代码生成和运行单元测试，有助于发现错误并提高代码质量.
 
 - [exakat](https://www.exakat.io) — PHP 的自动代码审查引擎.
 

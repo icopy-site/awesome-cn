@@ -66,6 +66,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Boom](https://github.com/FelicePollano/Boom) - 一个非常简单、老式的 FPS，正在开发中但可以玩.
 - [Broken Seals](https://github.com/Relintai/broken_seals) - 正在进行中的第三人称动作角色扮演游戏，支持多人游戏（需要自定义引擎模块）.
 - [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - 一款免费/开源的派对游戏，旨在复制马里奥派对等游戏的感觉.
+- [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - 体素艺术中的免费回合制等距策略游戏.
 - [Thrive](https://github.com/Revolutionary-Games/Thrive/) - 关于生命进化的免费开源游戏 (Mono).
 
 #### Godot 3.1
@@ -171,9 +172,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 模拟 CRT 显示器的 Godot 着色器，具有许多着色器参数 (Godot 3.x).
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x、4.x）.
-- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
+- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架（Godot 2.1、3.2+）.
-- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅里叶变换.
+- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅立叶变换.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 通知中心 (Godot 3.x).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix Framework (Godot 3.*) Channels API 的 GDScript 和 Godot Engine 实现.
@@ -181,7 +182,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - 大量教程和技巧，有大有小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，使您可以在项目中使用 SQLite 数据库作为数据存储 (Godot 3.2+).
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在 RPG 对话中）（Godot 2.x、3.x）.
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
 - [gterm](https://github.com/TeddyDD/gterm) - 绘制类似于 \*nix 终端仿真器 (Godot &gt;= 2.1) 的 GUI 控件.
 - [GUT](https://github.com/bitwes/Gut) - 用于在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘画、着色、孔洞、细节层次和草地 (Godot 3.x).
@@ -214,7 +215,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API 用于 [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用 libccd 在 Godot 中进行快速 3D 碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - 绕行/绕行人群库的 GDNative 实现.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与像 godotcord 之类的自定义引擎模块相反）.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持而无需重新编译引擎（与像 godotcord 这样的自定义引擎模块相反）.
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - 允许玩家使用他们的移动设备作为控制器.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
@@ -230,7 +231,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Level of Detail (LOD)](https://github.com/Calinou/godot-lod)  - 网格、灯光和粒子的细节级别附加组件. 可以提高大场景下的性能.
 - [Line Collider 2D](https://github.com/Kylogias/godot-line-collider-2d) - 添加跟随 Line2D 数组的碰撞器的脚本（对原型很有用）.
 - [MDFramework](https://github.com/DoubleDeez/MDFramework) - A C# multiplayer framework with additional tools (Mono).
-- [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - Animate Skeletons with a Microsoft Kinect sensor.
+- [NI mate Motion Capture](https://github.com/hoontee/godot-ni-mate-motion-capture) - 使用 Microsoft Kinect 传感器制作骨骼动画.
 - [NativeLib](https://github.com/DrMoriarty/nativelib)  - 插件管理系统旨在轻松使用 iOS/Android 的本机库进行操作. 它还关注插件依赖性并提供无障碍的本机库更新. 归因和分析：Adjust、Amplitude、AppsFlyer、Flurry、GameAnalytics、Tenjin. 广告网络和中介：AdColony、AppLovin、TapDaq.  GDPR 和隐私：App Tracking Transparency，Ogury. 社交：脸书. 通用后端解决方案：Firebase.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  - Quake `.map` 文件支持 Godot. 让你使用 [TrenchBroom](https://kristianduske.com/trenchbroom/) 用于关卡设计.
 - [Scatter](https://github.com/HungryProton/scatter) - 用道具或其他场景随机填充一个区域.
@@ -302,7 +303,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个端口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为了戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用包装方法和 Godot 友好类型 [PortAudio](http://www.portaudio.com).
-- [Speech to Text](https://github.com/menip/godot_speech_to_text) - 捕获用户的麦克风输入并将其转换为文本.
+- [Speech to Text](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 - [spout-gd](https://github.com/you-win/spout-gd) - 通过您的 GPU 使用跨 Windows 应用程序共享 OpenGL 纹理 [Spout](https://github.com/leadedge/Spout2).
 
 #### Godot 3.1

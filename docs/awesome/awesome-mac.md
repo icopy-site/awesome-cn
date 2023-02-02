@@ -210,6 +210,7 @@
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/)  - 快速而聪明的开源十六进制编辑器.  [![开源软件][OSS 图标]](https://github.com/ridiculousfish/HexFiend/) ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://github.com/ridiculousfish/HexFiend/) //itunes.apple.com/app/hex-fiend/id1342896380)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane)  - 用于管理主机文件的系统偏好面板.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://en.toolinbox.net/iHosts/)  - Mac App Store 上唯一的 `/etc/hosts` 编辑器.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://itunes.apple.com/app/id1102004240?mt=12)
+* [ILLA Cloud](https://www.illacloud.com/)  - 低代码内部工具生成器.  [![开源软件][OSS图标]](https://github.com/illacloud/illa-builder)
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
 * [Kaleidoscope](https://www.kaleidoscopeapp.com/)  - 强大的文本、图像和文件夹比较工具. 与 git、svn 或其他版本控制工具完美配合.
 * [Koala](http://koala-app.com)  - 用于 Less、Sass、Compass 和 CoffeeScript 编译的 GUI 应用程序.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/oklai/koala/)
@@ -235,7 +236,7 @@
 * [Timelane](http://timelane.tools)  - 直观地分析您的异步代码.  [![开源软件][OSS 图标]](https://github.com/icanzilb/Timelane) ![免费软件][免费软件图标]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)  - 在任何 Mac 上使用 Touch Bar.  ![开源软件][OSS 图标] ![免费软件][免费软件图标]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - 用于敏捷、EA TOGAF ADM 流程管理的一体化 UML、SysML、BPMN 建模平台.
-* [Woodpecker](http://www.woodpeck.cn)  - 在 Mac 上查看 iOS 应用程序的沙箱文件、UserDefaults、Keychain 项目.  [![应用商店][应用商店图标]](https://itunes.apple.com/app/woodpecker/id1333548463)
+* [Woodpecker](http://www.woodpeck.cn)  - 在 Mac 上查看 iOS 应用程序的沙盒文件、UserDefaults、Keychain 项目.  [![应用商店][应用商店图标]](https://itunes.apple.com/app/woodpecker/id1333548463)
 * [WWDC](https://github.com/insidegui/WWDC)  - Mac OS 非官方 WWDC 应用程序.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp)  - 安装和切换多个版本的 Xcode.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/RobotsAndPencils/XcodesApp)
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp)  - 探索来自 Swift 和 iOS 社区的代码片段，查看和编辑代码片段，然后再将它们方便地添加到 Xcode.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/MarcoEidinger/XCSnippetsApp)
@@ -426,7 +427,7 @@
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 这是一款专门针对字体、排版、文本模型和各种艺术文本效果进行调整的图形设计软件.
 * [Blender](https://www.blender.org/)  - 免费开放的3D创作软件.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/)  - Colorpicker 是一个完整的开源颜色操作工具，带有拾取功能！  [![开源软件][OSS 图标]](https://github.com/toinane/colorpicker) ![免费软件][免费软件图标]
-* [Figma](https://www.figma.com/)  - 协作界面设计工具，用于矢量图形和 UI 原型制作.  ![免费软件][免费软件图标]
+* [Figma](https://www.figma.com/)  - 协作界面设计工具，用于矢量图形和 UI 原型设计.  ![免费软件][免费软件图标]
 * [FontForge](http://fontforge.github.io/)  - 免费的开源字体编辑器.  [![开源软件][OSS 图标]](https://github.com/fontforge) ![免费软件][免费软件图标]
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [inklet](https://tenonedesign.com/inklet.php) - 将您的 Mac 触控板变成绘图板.
@@ -887,7 +888,7 @@
 * [Strategr](https://khrykin.github.io/strategr/)  - 简单的时间管理应用程序.  Stategr 可帮助您最大限度地提高工作效率，为您提供最快、最有效的方式来安排一天的时间.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/khrykin/StrategrDesktop)
 * [Time Out](https://www.dejal.com/timeout/)  - 简单的休息提醒，如果需要，可以使用微休息和灵活的定制.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 * [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 如果您按小时计费，可帮助您保持工作正常，并确保不会损失计费时间.
-* [Trello](https://trello.com) - 一种协作工具，可将您的项目组织到看板中.！[免费软件][免费软件图标][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
+* [Trello](https://trello.com) - 将项目组织到看板中的协作工具.！[免费软件][免费软件图标][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器.
 * [xScope](http://xscopeapp.com/) - 一套功能强大的工具，非常适合测量、检查和测试屏幕上的图形和布局.
 * [Z](https://github.com/rupa/z) - 通过在终端中仅键入一串目录名称而不是键入目录的确切位置来轻松导航的强大方法.

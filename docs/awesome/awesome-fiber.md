@@ -45,8 +45,8 @@ Fiber 框架中包含的中间件列表.
 外部托管的中间件模块列表，由 [Fiber team](https://github.com/orgs/gofiber/people).
 - [adaptor](https://github.com/gofiber/adaptor) - net/http 处理程序与 Fiber 请求处理程序之间的转换器.
 - [helmet](https://github.com/gofiber/helmet) - 通过设置各种 HTTP 标头帮助保护您的应用程序.
-- [jwt](https://github.com/gofiber/jwt) - JWT 返回一个 JSON Web 令牌 (JWT) 身份验证中间件.
-- [keyauth](https://github.com/gofiber/keyauth) - Key auth middleware provides a key based authentication.
+- [jwt](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
+- [keyauth](https://github.com/gofiber/keyauth) - 密钥授权中间件提供基于密钥的身份验证.
 - [redirect](https://github.com/gofiber/redirect) - 为 Fiber 重定向中间件.
 - [rewrite](https://github.com/gofiber/rewrite)  - 重写中间件根据提供的规则重写 URL 路径. 它有助于向后兼容或只是创建更清晰和更具描述性的链接.
 - [storage](https://github.com/gofiber/storage) - 实现存储接口的预制存储驱动程序，旨在与各种光纤中间件一起使用.
@@ -73,7 +73,7 @@ Fiber 社区创建的中间件列表.
 - [arsmn/fastgql](https://github.com/arsmn/fastgql) - 用于构建 GraphQL 服务器的 Go 库，无需大惊小怪，但具有 fasthttp 支持.
 - [kiyonlin/fiber_limiter](https://github.com/kiyonlin/fiber_limiter) - 限制器基于 golang.org/x/time/rate 的分叉率.
 - [juandiii/go-jwk-security](https://github.com/juandiii/go-jwk-security) - 用于光纤的 JWT 中间件. 
-- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的 Prometheus 中间件.
+- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的普罗米修斯中间件.
 - [LdDl/fiber-long-poll](https://github.com/LdDl/fiber-long-poll) - Golang 长轮询库，用于名为 Fiber 的基于 fasthttp 的 Web 框架.
 - [K0enM/fiber_vhost](https://github.com/K0enM/fiber_vhost) - 用于 Fiber 的 Vhost（虚拟主机）中间件，它允许使用基于主机头的虚拟主机.
 - [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth 中间件.
@@ -112,6 +112,7 @@ Fiber 的预制样板.
 几个使 Fiber 使用更容易的工具.
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn 是一个自以为是的 web 框架，它提供了在 Fiber 之上的快速开发能力.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - 为 Fiber 或 Gin REST API 生成样板 + 端点.
+- [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve 是一个轻量级应用程序或 docker 镜像，用于为前端和负载均衡器应用程序提供服务.
 
 ## 📖 Articles
 社区撰写的有关 Fiber 的文章.

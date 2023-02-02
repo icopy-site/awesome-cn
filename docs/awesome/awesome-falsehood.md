@@ -30,7 +30,7 @@
 ## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/)  - 常见谎言的简要清单. 对谎言世界的一个很好的概述和快速介绍.
-- [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 关于编程和程序员本身的谦逊而有趣的列表.
+- [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 关于编程和程序员本身的谦逊而有趣的清单.
 - [Falsehoods about Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) - 关于不应如何处理这些谎言的元评论.
 
 ## Arts
@@ -50,6 +50,11 @@
 - [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - 特拉华州和美国国税局的规则如何不相交.
 - [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 由于叛乱、入侵、新宪法和计划采用缓慢，货币有效期范围重叠.
 - [`tax`](https://github.com/commerceguys/tax) - 一个 PHP 5.4+ 税务管理库.
+
+## Cryptocurrency
+
+- [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - 关于比特币的错误观点列表.
+- [Falsehoods about Ethereum](https://gist.github.com/spalladino/a349f0ca53dbb5fc3914243aaf7ea8c6) - 合约编程中的误解和常见陷阱.
 
 ## Dates and Time
 
@@ -100,7 +105,7 @@
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上面文章的重温版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能真正用严格的规则来定义一个家庭.
-- 关于性别的谬误： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
+- Falsehoods about Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
 - [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - 姓名、性别和国际化的交叉问题.
 - [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 如何在解决大多数关于性别、命名和关系的谎言的同时将婚姻存储在数据库中.
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 世界各地的人名有何不同，对网络有何影响？
@@ -124,7 +129,7 @@
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员花太多时间在 `Latin-1` 上，他们忘记了其他人的脚本怪癖.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很困难，当每个破碎的数据输入层添加自己的香料时更是如此.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - 为单元测试和 QA 编译真实的国际和多样化的名称数据.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试你的软件.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试您的软件.
 
 ## Management
 
@@ -141,7 +146,7 @@
 ## Networks
 
 - [Falsehoods about Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - 涵盖 TCP、DHCP、DNS、VLAN 和 IPv4/v6.
-- [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - Assumptions that programmers new to distributed applications invariably make.
+- [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - 刚接触分布式应用程序的程序员总是做出的假设.
 - [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - 地址的某些部分是可选的，注意十进制和八进制符号，以及 [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 任何一个.
 - [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) - 域名中的国际字符意味着支持同形异义词.
 - [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - 尝试在 Python 中验证主机名.
@@ -183,7 +188,6 @@
 - [Falsehoods about Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) - 试图建立一份关于测试的谎言清单.
 - [Falsehoods about Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) - 为什么搜索（包括分析、标记化、突出显示）看似复杂.
 - [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) - 关于实施搜索引擎的困难的更好来源的文章.
-- [Falsehoods about Bitcoin](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - 关于比特币的错误观点列表.
 - [Falsehoods about Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 为什么你的分页算法让某人（可能是你）头疼.
 - [Falsehoods about garbage collection](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - 对垃圾收集的可预测性和性能的误解.
 - [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - 文件系统和操作系统的多样性使文件路径比我们想象的要难一些.
@@ -203,11 +207,11 @@
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
 - [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐排列的座位复杂得多.
 - [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - 有多个国际和国家机构试图调和历史、实用性和物流，使代码遵循神秘的规则.
-- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 `MR` 后缀视为 `Mister` 并将其删除.
+- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
 ## Typography
 
-- [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
+- [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - 关于网络和桌面应用程序排版的假设.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 关于大小写主题（如大写和小写文本）的错误格式的完全反转.
 
 ## Video Games

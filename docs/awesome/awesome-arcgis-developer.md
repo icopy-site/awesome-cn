@@ -31,12 +31,12 @@
 - [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - 构建解锁地理空间数据的 2D 和 3D 交互式 Web 应用程序的指南、示例代码、API 参考和展示.
 - [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - 使用 Kotlin 构建移动应用程序的指南、示例代码和 API 参考.
 - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) - 构建移动和桌面应用程序的指南、示例代码和 API 参考.
-- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - 使用 Swift 构建移动应用程序的指南、示例代码和 API 参考.
+- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes and API reference to build mobile apps using Swift.
 - [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - 使用 ArcGIS 数据和服务为 Unity 开发的指南、API 参考和示例代码.
 - [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - 使用 ArcGIS 数据和服务为虚幻引擎开发的指南、API 参考和示例代码.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - 用于扩展 ArcGIS Pro Desktop 的文档、教程、API 参考、常见问题解答等.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - 关于 ArcGIS REST API 的一般文档：位置服务、内容管理、门户管理等.
-- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman 集合可与某些 REST API 一起使用：位置服务、托管要素图层、ArcGIS Online、ArcGIS Hub 等.
+- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - 用于访问位置服务、ArcGIS Online 和 ArcGIS Enterprise REST API 的 JavaScript 模块集合的关键概念、教程和 API 参考.
 - [ArcGIS Urban API](https://developers.arcgis.com/arcgis-urban-api/) - 可用于直接与 ArcGIS Urban 数据交互的公共 GraphQL Web 服务.
 - [ArcObjects SDK for .Net](https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#RoadmapToExtendingArcObjects.htm) - 有关构成 ArcGIS 基础的组件对象模型 (COM) 组件库的 .Net SDK 的文档.
@@ -67,25 +67,25 @@
 - [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - 在所有支持的配置文件中收集可重复使用的 Arcade 表达式.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - 搜索、浏览和使用代码、脚本、模型、加载项、小部件等.
 - [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unity 产品团队示例.
-- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队样本.
+- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队示例.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - 由 Esri 的 REST JS 维护者构建的演示应用程序.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队示例.
-- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
+- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
 - [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri 的官方 ArcGIS Runtime Java 产品团队示例.
-- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
-- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
+- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
+- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Java 示例.
 - [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Kotlin 示例.
 - [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri 的官方 ArcGIS Runtime iOS 产品团队示例.
-- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 示例.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 示例.
+- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 样本.
+- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 样本.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - 开始使用 ArcGIS API for JavaScript 4.x 的样板集合.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - 用于 ArcGIS API for JavaScript 的通用代码模式的 Visual Studio 代码片段集合.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 有助于成功使用所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android……）的社区示例.
 - [Esri/jsapi-resources](https://github.com/Esri/jsapi-resources) - 为使用 ArcGIS API for JavaScript 的开发人员提供的资源集合.
 - [Esri/pyprt-examples](https://github.com/Esri/pyprt-examples) - PyPRT 示例（CityEngine SDK 的 Python 绑定）.
 - [esri-loader Examples](https://github.com/Esri/esri-loader#examples) - 如何在使用 React、Angular、Vue 和其他框架构建的应用程序中通过 esri-loader 使用 ArcGIS API for JavaScript 的示例.
-- [EsriDevSummit](https://github.com/esridevsummit/) - 支持 DevSummit 技术会议的补充源代码、示例项目和资源.
+- [EsriDevEvents](https://github.com/esridevevents) - Supplemental source code, example projects, and resources supporting Esri Developer Summits, Developer Day at Esri UC, FedGIS, #GeoDev webinars, meetups, etc.
 - [esrinederland/CoolMaps](https://github.com/esrinederland/CoolMaps) - 显示您可以使用的很酷的示例地图.
 - [esrinederland/CoolScripts](https://github.com/esrinederland/CoolScripts) - Esri Netherlands 脚本和片段以供重用.
 - [RalucaNicola/code-snippets-arcgis-api-js](https://github.com/RalucaNicola/code-snippets-arcgis-api-js) - ArcGIS API for JavaScript 的代码片段集合.
@@ -105,7 +105,7 @@
 - [Koop](https://koopjs.github.io)  - 用于连接空间 API 的 JavaScript 工具包. 动态转换地理空间数据并用作 GeoJSON、矢量切片、要素服务等.
 - [loam](https://github.com/azavea/loam) - 浏览器中 GDAL 的 JavaScript 包装器.
 - [PostGIS ST_Simplify](https://postgis.net/docs/ST_Simplify.html) - 此操作使用 Douglas-Peucker 算法返回给定几何的“简化”版本.
-- [terraformer](https://github.com/terraformer-js/terraformer) - Convert ArcGIS JSON to and from GeoJSON, convert WKT geometries to and from GeoJSON geometries, and other formats.
+- [terraformer](https://github.com/terraformer-js/terraformer) - 将 ArcGIS JSON 与 GeoJSON 相互转换，将 WKT 几何与 GeoJSON 几何和其他格式相互转换.
 - [togeojson](https://mapbox.github.io/togeojson/) - 轻松将 KML 和 GPX 转换为 GeoJSON.
 - [tokml](https://github.com/mapbox/tokml) - 将 GeoJSON 转换为 KML.
 
@@ -156,7 +156,7 @@
 
 ## Helpers
 
-- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 在 ArcGIS API for JavaScript 4.x 中为 3D 网络应用程序获取相机位置 JSON 对象的网络应用程序.
+- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 在 ArcGIS API for JavaScript 4.x 中为 3D 网络应用程序获取摄像机位置 JSON 对象的网络应用程序.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) - 用于在 ArcGIS API for JavaScript 4.x 中为 Web 应用程序获取地图范围 JSON 对象的 Web 应用程序.
 - [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑器构建的应用程序中延迟加载 ArcGIS API for JavaScript（即从 CDN）.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - 自定义 React 挂钩，用于将 ArcGIS API for JavaScript 与 esri-loader 结合使用.
@@ -244,7 +244,7 @@
  Esri 欢迎任何人的贡献. 你可以 [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) 提出更新建议，但在这样做之前，请：
 
 - 检查 [contributing guidelines for this repo](https://github.com/Esri/awesome-arcgis-developer/blob/main/CONTRIBUTING.md).
-- Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
+- 看一眼 [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
 
 有关更多信息，请参阅我们 [guidelines for contributing](https://github.com/esri/contributing).
 
