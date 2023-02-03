@@ -15,17 +15,17 @@
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简主义描述. 项目的 GIF 演示. 主要特征. 如何安装指南. 学分.
-- [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标志. 简要说明. 所有功能解释. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
+- [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标识. 简要说明. 所有功能解释. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 清晰的项目概览并附有示意图.  GIF 演示. 广泛的代码示例.
-- [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - 带有简短显示可以实现的目标的项目徽标、用于轻松导航的目录、重要徽章、干净的安装指南以及显示如何使用该功能的多个代码片段.
+- [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - 带有简短显示的项目徽标、用于轻松导航的 TOC、重要徽章、干净的安装指南以及显示如何使用该功能的多个代码片段.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 带有解释图形的项目和用例描述. 使用多种工具和集成说明进行构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题.  TOC 便于导航.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Markdown 功能丰富，布局现代，描述清晰，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 带有有用链接的漂亮小菜单. 其中包含针对主要问题的常见问题解答. 支持者. 好语言.
 - [chroline/well_app](https://github.com/chroline/well_app#readme)  - 具有引人注目的项目缩略图和干净的徽章，以及下载信息和快速导航链接. 分为多个描述性部分，每个部分都有一个带有黄色表情符号的标题. 包括有关项目本身的详细信息，以及使用的技术和贡献方式.
-- [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 带有快速入门的清晰自述文件、易于理解的安装和使用手册、视频截屏、具有详细记录的项目功能的 ToC（在终端中有工作的演示记录）、项目哲学说明（“为什么另一个”）、最常见的问题、和更多.
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、徽标、TOC 等.作为一篇关于技术、如何使用它、它背后的哲学以及它如何适应更大的生态系统的巨型、写得很好的文章而脱颖而出.
+- [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 带有快速入门的清晰自述文件、易于理解的安装和使用手册、视频截屏、具有详细记录的项目功能的 ToC（在终端中有工作的演示记录）、项目哲学注释（“为什么另一个”）、最常见的问题、和更多.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、徽标、TOC 等.作为一篇关于技术、如何使用它、它背后的哲学以及它如何适应更大的生态系统的一篇写得很好的文章而脱颖而出.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core#readme) - 项目横幅、超清晰的描述（对产品新手友好）、工具生成的文档截图，以及指向其他综合页面的简明链接，解释入门、加入 dbt 社区、错误报告、代码贡献和代码行为准则
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  - 使用 GIF 屏幕截图清除自述文件以进行快速演示. 多个徽章、简洁的 ToC、在线游乐场、故事书、详细描述等等.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme)  - 项目横幅和标志. 徽章. 可扩展的演练部分. 简明的描述和目的.  TOC 便于导航. 用于安装演示的 GIF. 多种信息视觉效果.
@@ -67,7 +67,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 制作徽章. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制号召性用语徽章. 用法展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁徽标. 关于发展的简要更新. 详细的贡献指南. 投稿建议.
-- [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme)  - 之所以脱颖而出，是因为虽然它只是一个简单的网站，但它作为一个非常开放的项目呈现给经验不足的开发人员，以友好、包容的语气和易于理解的设置说明来磨练他们的实力. 包括许多在其他漂亮的自述文件中找到的常见元素.
+- [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme)  - 脱颖而出，因为虽然只是一个简单的网站，但它作为一个非常开放的项目呈现给经验不足的开发人员，以友好、包容的语气和易于理解的设置说明来磨练他们的牙齿. 包括许多在其他漂亮的自述文件中找到的常见元素.
 - [sulu/sulu](https://github.com/sulu/sulu#readme) - 项目徽标、有用的徽章、关于在哪里可以找到更多信息和报告错误的明确说明、GIF 屏幕截图、很好地使用表情符号.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 安装分步说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多图例.
@@ -116,6 +116,7 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **免费** - 开源、可自定义的 UI 和易于编辑的 GIF，易于上手.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **免费** - 记录您的终端并生成动画 gif 图像或共享网络播放器.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **免费** - 对于命令行工具，终端到 gif 的记录器减少了麻烦.
+- [vhs](https://github.com/charmbracelet/vhs) - **免费** - 使用简单的脚本语言生成漂亮的终端 gif
 
 ## Get Feedback
 

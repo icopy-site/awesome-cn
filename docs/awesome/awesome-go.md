@@ -36,7 +36,7 @@ _特别感谢_
 <img src="https://avelino.run/sponsors/workos-logo-white-bg.svg" width="200" alt="WorkOS"><br/>
 <b>您的企业级应用.</b><br/>
 <sub>只需几行代码即可开始向企业客户销售产品.</sub><br/>
-<sup>在几分钟而不是几个月内添加单点登录（以及更多）.</sup>
+<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
 </a>
 </td>
 <td>
@@ -386,7 +386,7 @@ _用于预处理 CSS 文件的库._
 - [bloom](https://github.com/yourbasic/bloom) - Golang 布隆过滤器实现.
 - [bloomfilter](https://github.com/OldPanda/bloomfilter) - Go 中的另一个 Bloomfilter 实现，与 Java 的 Guava 库兼容.
 - [boomfilters](https://github.com/tylertreat/BoomFilters) - 用于处理连续、无界流的概率数据结构.
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合的布谷鸟过滤器，与其他工具相比，它是可配置的和空间优化的，并且提供了原始论文中提到的所有功能.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合的布谷鸟过滤器，与其他工具相比，它是可配置的和空间优化的，并且提供了原论文中提到的所有功能.
 - [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo 过滤器：Go 中实现的计数布隆过滤器的一个很好的替代品.
 - [ring](https://github.com/TheTannerRyan/ring) - 执行高性能、线程安全的布隆过滤器.
 
@@ -395,7 +395,7 @@ _用于预处理 CSS 文件的库._
 - [algorithms](https://github.com/shady831213/algorithms) - 算法和数据结构.CLRS 研究.
 - [go-datastructures](https://github.com/Workiva/go-datastructures) - 有用的、高性能的和线程安全的数据结构的集合.
 - [gods](https://github.com/emirpasic/gods)  - 去数据结构. 容器、集合、列表、堆栈、地图、BidiMaps、树、HashSet 等.
-- [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
+- [gostl](https://github.com/liyue201/gostl) - go的数据结构和算法库，旨在提供类似于C++ STL的功能.
 
 ### Iterators
 
@@ -409,7 +409,7 @@ _用于预处理 CSS 文件的库._
 
 - [cmap](https://github.com/lrita/cmap) - 用于 go 的线程安全并发映射，支持使用 `interface{}` 作为键和自动扩展分片.
 - [dict](https://github.com/srfrog/dict) - 用于 Go 的类似 Python 的字典 (dict).
-- [goradd/maps](https://github.com/goradd/maps)  - Go 1.18+ 地图通用地图界面； 安全地图； 有序地图； 有序、安全的地图； 等等
+- [goradd/maps](https://github.com/goradd/maps)  - Go 1.18+ 地图通用地图界面； 安全地图； 有序地图； 有序、安全的地图；  ETC.
 
 ### Miscellaneous Data Structures and Algorithms
 
@@ -511,7 +511,7 @@ _具有过期记录的数据存储、内存分布式数据存储或基于文件�
 
 - [badger](https://github.com/dgraph-io/badger) - Go 中的快速键值存储.
 - [bbolt](https://github.com/etcd-io/bbolt) - Go 的嵌入式键/值数据库.
-- [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask 是一种可嵌入、持久且快速的键值 (KV) 数据库，采用纯 Go 编写，具有可预测的读/写性能、低延迟和高吞吐量，这要归功于 bitcask 磁盘布局 (LSM+WAL).
+- [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask 是一种可嵌入、持久且快速的键值 (KV) 数据库，采用纯 Go 语言编写，具有可预测的读/写性能、低延迟和高吞吐量，这要归功于 bitcask 磁盘布局 (LSM+WAL).
 - [buntdb](https://github.com/tidwall/buntdb) - 具有自定义索引和空间支持的快速、可嵌入、内存中的键/值数据库.
 - [clover](https://github.com/ostafen/clover) - 用纯 Golang 编写的轻量级面向文档的 NoSQL 数据库.
 - [cockroach](https://github.com/cockroachdb/cockroach) - 可扩展、异地复制、交易数据存储.
@@ -1198,7 +1198,7 @@ _物联网编程设备库._
 _用于调度作业的库._
 
 - [cdule](https://github.com/deepaksinghvi/cdule) - 具有数据库支持的作业调度程序库
-- [cheek](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
+- [cheek](https://github.com/datarootsio/cheek) - 一个简单的 crontab 类调度程序，旨在提供一种 KISS 方法来进行作业调度.
 - [clockwerk](https://github.com/onatm/clockwerk) - Go 包使用简单、流畅的语法来安排定期作业.
 - [cronticker](https://github.com/krayzpipes/cronticker) - 支持 cron 计划的自动收报机实施.
 - [Dagu](https://github.com/dagu-go/dagu)  - 无代码工作流执行器. 它执行以简单的 YAML 格式定义的 DAG.
@@ -1314,7 +1314,7 @@ _用于生成和使用日志文件的库._
 - [xlog](https://github.com/rs/xlog) - 用于具有灵活调度的“网络/上下文”感知 HTTP 处理程序的结构化记录器.
 - [xylog](https://github.com/xybor-x/xylog) - 分级和结构化日志记录、动态字段、高性能、区域管理、简单配置和可读语法.
 - [yell](https://github.com/jfcg/yell) - 另一个简约的日志库.
-- [zap](https://github.com/uber-go/zap) - Go 中快速、结构化、分级的日志记录.
+- [zap](https://github.com/uber-go/zap) - 快速、结构化、分级的 Go 日志记录.
 - [zerolog](https://github.com/rs/zerolog) - 零分配 JSON 记录器.
 - [zkits-logger](https://github.com/edoger/zkits-logger) - 一个强大的零依赖 JSON 记录器.
 
@@ -1396,7 +1396,7 @@ _实现消息传递系统的库._
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster 是一个去推送服务器集群.
 - [gorush](https://github.com/appleboy/gorush) - 推送通知服务器使用 [APNs2](https://github.com/sideshow/apns2) 和谷歌 [GCM](https://github.com/google/go-gcm).
 - [gosd](https://github.com/alexsniffin/gosd) - 用于安排何时将消息发送到频道的库.
-- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase Cloud Messaging、Apple Push Notification 服务、SMS）以及 websockets 和 REST API 的消息服务器，具有分布式操作和消息持久性的特点.
+- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase Cloud Messaging、Apple Push Notification 服务、SMS）以及 websockets 的消息服务器，一个 REST API，具有分布式操作和消息持久性.
 - [hare](https://github.com/leozz37/hare) - 一个用户友好的库，用于发送消息和监听 TCP 套接字.
 - [hub](https://github.com/leandro-lugaresi/hub) - 用于 Go 应用程序的消息/事件中心，使用发布/订阅模式，支持别名，如 rabbitMQ 交换.
 - [jazz](https://github.com/socifi/jazz) - 一个简单的 RabbitMQ 抽象层，用于队列管理以及消息的发布和消费.
@@ -1471,7 +1471,7 @@ _**非官方**一套用于构建项目的模式._
 - [go-starter](https://github.com/allaboutapps/go-starter) - 一个自以为是的生产就绪的 RESTful JSON 后端模板，与 VSCode DevContainers 高度集成.
 - [go-todo-backend](https://github.com/Fs02/go-todo-backend) - 使用产品微服务的模块化项目布局的 Go Todo 后端示例.
 - [gobase](https://github.com/wajox/gobase) - golang 应用程序的简单框架，具有真正 golang 应用程序的基本设置.
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout)  - Go 生态系统中的一组常见的历史和新兴项目布局模式. 注意：尽管有组织名称，但它们并不代表官方的 golang 标准，请参阅 [this issue](https://github.com/golang-standards/project-layout/issues/117) 想要查询更多的信息. 尽管如此，有些人可能会发现布局很有用.
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout)  - Go 生态系统中的一组常见的历史和新兴项目布局模式. 注意：尽管有组织名称，但它们并不代表官方的 golang 标准，请参阅 [this issue](https://github.com/golang-standards/project-layout/issues/117) 了解更多信息. 尽管如此，有些人可能会发现布局很有用.
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go 应用程序 GitHub 存储库模板.
 - [insidieux/inizio](https://github.com/insidieux/inizio) - 带有插件的 Golang 项目布局生成器.
 - [modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Go 应用程序样板和应用现代实践的示例.
@@ -1559,7 +1559,7 @@ _这些图书馆被放在这里是因为其他类别似乎都不合适._
 
 ## Natural Language Processing
 
-_Libraries for working with human languages._
+_用于处理人类语言的库._
 
 也可以看看 [Text Processing](#text-processing) 和 [Text Analysis](#text-analysis).
 
@@ -2241,7 +2241,7 @@ _用于访问第三方 API 的库._
 - [gami](https://github.com/bit4bit/gami) - 用于 Asterisk 管理器界面的 Go 库.
 - [gcm](https://github.com/Aorioli/gcm) - 谷歌云消息传递库.
 - [geo-golang](https://github.com/codingsince1985/geo-golang) - 去图书馆访问 [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](https://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](https://opencagedata.com/api), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/)， 和 [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) 地理编码/反向地理编码 API.
-- [github](https://github.com/google/go-github) - 用于访问 GitHub REST API v3 的 Go 库.
+- [github](https://github.com/google/go-github) - Go library for accessing the GitHub REST API v3.
 - [githubql](https://github.com/shurcooL/githubql) - 用于访问 GitHub GraphQL API v4 的 Go 库.
 - [go-atlassian](https://github.com/ctreminiom/go-atlassian) - 去图书馆访问 [Atlassian Cloud](https://www.atlassian.com/enterprise/cloud) 服务（Jira、Jira Service Management、Jira Agile、Confluence、Admin Cloud）
 - [go-aws-news](https://github.com/circa10a/go-aws-news) - 转到应用程序和库以从 AWS 获取新内容.
@@ -2539,7 +2539,7 @@ _用于版本控制的库._
 - [git2go](https://github.com/libgit2/git2go) - 绑定 libgit2.
 - [githooks](https://github.com/gabyx/githooks) - 每个仓库和共享的 Git 挂钩，具有版本控制和自动更新功能.
 - [go-git](https://github.com/go-git/go-git) - 在纯 Go 中高度可扩展的 Git 实现.
-- [go-vcs](https://github.com/sourcegraph/go-vcs) - 在 Go 中操作和检查 VCS 存储库.
+- [go-vcs](https://github.com/sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go.
 - [hercules](https://github.com/src-d/hercules) - 从 Git 存储库历史中获得高级见解.
 - [hgo](https://github.com/beyang/hgo) - Hgo 是 Go 包的集合，提供对本地 Mercurial 存储库的读取访问权限.
 
@@ -3027,6 +3027,7 @@ _在哪里可以发现新的 Go 库._
 - [Creative DIY Microcontroller Project With TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208) - 介绍 TinyGo 编译器以及涉及 Arduino 和 WebAssembly 的项目.
 - [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - 解锁Go对程序设计的独特视角，开始编写简单、可维护、可测试的Go代码.
 - [For the Love of Go](https://bitfieldconsulting.com/books/love) - Go 初学者的入门书.
+- [Go Faster](https://leanpub.com/gofaster) - 本书旨在缩短您的学习曲线，帮助您更快地成为一名熟练的 Go 程序员.
 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - 在 Go 中理解和使用泛型的指南.
 - [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - Go 测试指南.
 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools) - 在 Go 中编写命令行工具的指南.

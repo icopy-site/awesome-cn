@@ -36,6 +36,7 @@
 
 ## Templates
 
+- [Cerberusemail](https://www.cerberusemail.com/) - 响应式 HTML 电子邮件模板的模式.
 - [Responsive templates](https://templates.emailoctopus.com/) - 来自 EmailOctopus 的免费 HTML 模板，可与任何提供商一起使用.
 - [Campaign](https://github.com/bevacqua/campaign) - 轻松编写响应式电子邮件模板，用模型填充它们，然后发送出去.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - 开源电子邮件模板.
@@ -81,7 +82,7 @@
 
 ## Services
 
-- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得简单.
+- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得容易.
 - [Mailchimp](https://mailchimp.com/) - MailChimp 为全球超过 1500 万人提供电子邮件营销服务.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - 人工智能驱动的电子邮件营销平台，允许使用内置组件设计电子邮件.

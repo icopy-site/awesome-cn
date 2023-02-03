@@ -19,7 +19,7 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/any-text">任何文字</a>
+			<a href="https://www.producthunt.com/posts/any-text">任何文本</a>
 			<br>
 			<sup>将任何文本放在 iPhone 的锁定屏幕上</sup>
 		</h2>
@@ -156,7 +156,7 @@
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter 帐户</a>以获取有关新列表添加的更新.</b>
 </div>
 
 <br>
@@ -171,7 +171,7 @@
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于 Chrome 的 V8 JavaScript 引擎构建的异步非阻塞事件驱动的 JavaScript 运行时.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在 Node.js 上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - 适用于 Apple 手机和平板电脑的移动操作系统.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - 由谷歌开发的移动操作系统.
@@ -219,7 +219,7 @@
 - [ESP](https://github.com/agucova/awesome-esp#readme) - 具有 WiFi 和广泛物联网应用的低成本微控制器.
 - [Deno](https://github.com/denolib/awesome-deno#readme) - 使用 V8 并在 Rust 中构建的 JavaScript 和 TypeScript 的安全运行时.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 用于基于 x86 的个人计算机的操作系统，在 1980 年代和 90 年代初期流行.
-- [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Nix](https://github.com/nix-community/awesome-nix#readme) - Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重现.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能协作.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - 允许业务专业人员自行解决他们的需求，几乎不需要编码技能.
@@ -519,6 +519,7 @@
 - [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - 游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙盒视频游戏.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - 游戏中人工智能的材料和数据集.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - 一种用于生成跨平台本机代码的高级强类型编程语言.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java游戏框架.
@@ -533,7 +534,7 @@
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - 适用于 macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
@@ -630,7 +631,7 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在引诱攻击者尝试破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的艺术.
 - [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统中安全漏洞的个人群体.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 涉及提供伪随机生成的输入数据的自动化软件测试技术.
@@ -680,7 +681,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程战略.
 
 ## Work
 
@@ -709,7 +710,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - 开源分布式结算网络.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源去中心化微博网络.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - 用于智能合约开发的分布式计算平台.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 支持工业规模应用程序的去中心化操作系统.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为企业设计的开源区块链平台.
@@ -860,7 +861,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人分为风险类别的方法.
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 让以植物为基础的生活方式变得简单易行.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - 将文本的含义从一种语言转移到另一种语言.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - 用于 JavaScript 自动化的 iOS 应用程序.

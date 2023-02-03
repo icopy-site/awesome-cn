@@ -28,7 +28,7 @@ _有助于编写 SNMP 应用程序._
 
 ### Go
 - [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp)  - 用 Go 编写的 SNMP 库. 它提供了 Get、GetNext、GetBulk、Walk、BulkWalk、Set 和 Traps. 它支持 IPv4/IPv6，使用 SNMP v1/v2c/v3.
-- [sleepinggenius2/gosmi)](https://github.com/sleepinggenius2/gosmi) - Go 语言的 MIB 解析器.
+- [sleepinggenius2/gosmi](https://github.com/sleepinggenius2/gosmi) - Go 语言的 MIB 解析器.
 - [posteo/go-agentx](https://github.com/posteo/go-agentx) - 具有 AgentX 协议的纯 Go 实现的库.
 
 ### Java

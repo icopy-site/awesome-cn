@@ -27,7 +27,8 @@ platform.
 - [Turbo C++ 1.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tcpp101.zip) - Borland 于 1991 年发布的 C++ IDE 和编译器.
 - [DIV Games Studio 2](https://archive.org/details/div2_iso)  - 用于开发 2d、模式 7 和 3d 的 DOS 游戏的 IDE.  1998 年上映.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
-- [T3X](https://t3x.org/t3x/#t3x7) - Nils M. Holm 的一种小型、可移植、过程、块结构、递归、几乎无类型且在某种程度上面向对象的编程语言.
+- [T3X](https://t3x.org/t3x/#t3x7) - Nils M. Holm 的一种小型、可移植、过程化、块结构、递归、几乎无类型且在某种程度上面向对象的编程语言.
+- [SmallerC](https://github.com/alexfru/SmallerC.git) - 能够为多种平台生成可执行文件的便携式自托管 C 编译器，包括实模式和保护模式 DOS 程序，由 Alexei A. Frounze 编写.
 
 ### Memory managers
 
@@ -38,7 +39,7 @@ platform.
 - [DOjS](https://github.com/SuperIlu/DOjS) - 适用于 MS-DOS、FreeDOS 或任何基于 DOS 的 Windows（如 95、98、ME）的 JavaScript 编程环境.
 - [Lua for DOS](https://archive.org/details/lua5.3.5) - Lua 5.3.5 的在线演示，在 Intel 80486 处理器上为 MS-DOS 编译.
 - [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc 模块 [micropython](https://github.com/micropython/micropython).
-- [perldos](https://perldoc.perl.org/perldos) - 用于 DOS 的 Perl.
+- [perldos](https://perldoc.perl.org/perldos) - 适用于 DOS 的 Perl.
 - [PythonD](http://www.caddit.net/pythond/) - 适用于 DOS 的 Python，包括多线程、网络和 OpenGL.
 
 ## Tutorials and programming resources
@@ -163,13 +164,13 @@ platform.
 - [Dungeons of Noudar](https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar)  - 保护模式下的第一人称 2.5D 地牢探索者. 用 C++ 编写，包括软件渲染、定点数学、测试范围和声音（PC 扬声器、Adlib、OPL2LPT）.
 - [Emeritus Pong](https://sourceforge.net/projects/empong/)  - 适用于 DOS、Windows 和 Linux 的 Pong 克隆. 在 DOS 上使用 PC 扬声器播放声音.
 - [Floppy Bird](https://github.com/icebreaker/floppybird)  - 用 16 位汇编编写的 Flappy Bird 克隆. 不是 DOS 程序，而是 PC-Booter 应用程序（尽管也可以为 DOS 构建 COM 可执行文件）.
-- [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/~geotz/dos/) - Turbo Pascal with few games in C and C++. Games include Nibbles, Connect Four, Ms Pacman clone and two arcade/platform games. One of them (ra2) was written using Allegro. Utilities are all written in Turbo Pascal, these include game system routines, file and disk utilities and terminate-and-stay-resident programs (TSR).
+- [George M. Tzoumas's collection of MS-DOS games and utilities](http://web.archive.org/web/20191225101138/http://cgi.di.uoa.gr/~geotz/dos/)  - Turbo Pascal，带有少量 C 和 C++ 游戏. 游戏包括 Nibbles、Connect Four、Ms Pacman clone 和两款街机/平台游戏. 其中之一 (ra2) 是使用 Allegro 编写的. 实用程序全部用 Turbo Pascal 编写，包括游戏系统例程、文件和磁盘实用程序以及终止和驻留程序 (TSR).
 - [Gridfighter 3D](https://porta2note.itch.io/gridfighter-3d)  - 用 Quickbasic 编写的 80 年代风格街机射击游戏. 也是已知的第一个支持 Oculus Rift VR 耳机的 DOS 游戏.
   - [GitHub repository](https://github.com/porta2note/gridfighter3d)
 - [Hangman](https://sourceforge.net/projects/hangman-dos/)  - 用 Basic 编写的 Hangman 克隆. 在至少 80286 处理器上运行并使用 EGA 图形.
 - [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 以代数为题材的CGA图形3D迷宫游戏.
   - [Source code download link](http://www.doshaven.eu/downloads/537)
-- [NetHack](https://github.com/NetHack/NetHack) - 原始人的后代 [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike 游戏于 1987 年首次发布，可在多个平台上使用.
+- [NetHack](https://github.com/NetHack/NetHack) - 原始人的后代 [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
 - [Piskworks](https://github.com/berk76/piskworks) - 用 C 编写的 Gomoku 克隆.适用于 DOS、ZX Spectrum、ZX81、ZX80、APPLE1、AS400 和 Windows.
 - [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) - 用C编写的架空益智游戏.网页版使用 [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) 将 DOSBox 嵌入到 HTML5 中. 但是，原始可执行文件也可以使用 Open Watcom 下载和构建.
 - [Ptakovina](https://github.com/berk76/tetris) - 用 C 语言编写的俄罗斯方块克隆版.可在 DOS、Unix/Linux、ZX Spectrum 和 Windows 上运行.
@@ -202,11 +203,11 @@ platform.
   - [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
 - [Heretic](https://github.com/OpenSourcedGames/Heretic) - 在 id Software 的 Doom 引擎上运行的黑暗幻想 FPS.
 - [Hexen: Beyond Heretic](https://github.com/OpenSourcedGames/Hexen) - Heretic 的间接续集.
-  - 原来 [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
+  - 原版 [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 - [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D)  - 由 id Software 开发的 FPS. 在 Catacomb 3D 和 Wolfeinstein 3D 之前，采用光线投射技术的伪 3D 图形. 用 C 语言和汇编语言编写.
 - [Quake](https://github.com/id-Software/Quake)  - 由 id Software 开发的 FPS 设置在全 3D 世界中. 用 C 编写.用 DJGPP 为 DOS 编译.
   - [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Fabien Sanglard 的代码分析.
 - [Rise of the Triad: Dark War](https://github.com/videogamepreservation/rott)  - Apogee 开发的第一人称射击游戏. 它是作为 Wolfenstein 3D 的后续游戏开发的，但经过修改并成为一款独立游戏. 使用经过大量修改的 Wolfenstein 3D 引擎. 用C写的.
-- [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - 由 David L. Clark 于 1984 年创建的横向卷轴射击游戏.该游戏涉及驾驶 Sopwith 双翼飞机，试图轰炸敌方建筑物，同时避开敌机和其他各种障碍物的火​​力.
+- [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - 由 David L. Clark 于 1984 年创建的横向卷轴射击游戏.该游戏涉及驾驶 Sopwith 双翼飞机，试图轰炸敌方建筑物，同时避开敌机和各种其他障碍物的火​​力.
   - [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - MaiZure 的代码分析.
 - [Wolfenstein 3D](https://github.com/id-Software/wolf3d)  - 由 id Software 开发的第一人称射击游戏，场景设置在纳粹德国监狱德军总部. 具有采用光线投射技术的伪 3D 图形. 用 C 语言和汇编语言编写.

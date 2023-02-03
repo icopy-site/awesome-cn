@@ -54,13 +54,14 @@
 - [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) - Neovim 的 IntelliSense 扩展.
 - [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) - 探索项目的 Tailwind CSS 设置中可用的类.
 - [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - 突出显示 Visual Studio Code 的实用程序扩展.
+- [CSS to TailwindCSS converter for Code](https://github.com/Jackardios/vscode-css-to-tailwindcss) - Visual Studio Code 的 CSS 到 Tailwind CSS 转换器扩展.
 
 ## Plugins
 
 **图例**：官方插件·主题·实用程序·变体·组件·弃用
 
 - [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加一个“散文”类.
-- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的宽高比实用程序.
 - [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供用于在固定行数后可视化截断文本的实用程序.
 - [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 - [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量的主题，支持深色模式.
@@ -109,7 +110,7 @@
 - [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 - [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - 为 FormKit 添加输入和表单状态的变体.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 组件.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) - 添加 [Hero Patterns](https://www.heropatterns.com) 成分.
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加一个 `responsive-embed` 组件.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 添加基于 Bootstrap 表格的表格组件.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.
@@ -147,7 +148,7 @@
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - 添加“文本缩进”实用程序.
 - [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) - 添加 `text-decoration-color` 实用程序.
 - [Downwind CSS Text Decoration](https://github.com/downwindcss/text-decoration) - 添加可组合的“文本装饰”实用程序.
-- [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - Adds `capitalize-first` utilities.
+- [Capitalize first letter](https://github.com/riderx/capitalize-first-tailwind) - 添加“大写优先”实用程序.
 - [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) - 添加“纵横比”实用程序.
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) - 添加基于配置颜色的“box-shadow”实用程序.
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha) - 添加 alpha 颜色变体实用程序.
@@ -221,7 +222,7 @@
 - [tailwindcss-webpack-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - 开箱即用的 Tailwind CSS，支持“Design in Devtools”模式并可视化 Tailwind CSS 配置.
 - [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Tailwind CSS 的 Vite 插件，支持“Design in Devtools”模式，可视化 Tailwind CSS 配置.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - 用于可视化 Tailwind CSS 配置文件的本地 UI 工具.
-- [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的刀片表单组件.
+- [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 - [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 - [Gust](https://www.getgust.com) - 为 WordPress 拖放页面构建器.
 - [clb](https://github.com/crswll/clb) - clb（类列表构建器）是一个实用函数，它基于一个类列表构建一个类列表 [Stitches](https://stitches.dev/) 像 API.
@@ -387,7 +388,7 @@
 - [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - 如何使用 Jest 测试 Tailwind CSS 插件.
 - [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - 如何使用 PostCSS 和 Webpack 设置 Tailwind CSS.
 - [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - 如何将 Tailwind CSS 与 CSS-in-JS 一起使用.
-- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - 如何在 Laravel 项目中设置 Tailwind CSS.
+- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
 - [Tailwind CSS with Ember](https://github.com/raytiley/tailwind-ember-example) - 如何将 Tailwind CSS 添加到 Ember 应用程序.
 - [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - 如何在 Sage 中设置 Tailwind CSS.
 - [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - 如何在 Gatsby 中使用 Tailwind CSS.
