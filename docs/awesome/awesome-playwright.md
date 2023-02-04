@@ -53,7 +53,7 @@
 - [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - 用于将测试结果上传到 Playwright 的 Tesults 的库.
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - 剧作家测试记者，在 html 网格中显示套件/案例/步骤.
 - [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - 与 Playwright 测试框架的 Allure 集成.
-- [playwright-xray](https://github.com/inluxc/playwright-xray) - 剧作家 Xray Reporter，将测试执行发送到 Jira / Xray
+- [playwright-xray](https://github.com/inluxc/playwright-xray) - 剧作家 Xray Reporter，将测试执行发送到 Jira / Xray.
 
 ## Showcases
 

@@ -68,6 +68,7 @@
 - [Moment.js](https://momentjs.com/) - 在 JavaScript 中解析、验证、操作和显示日期和时间.
 - [WPML](https://wpml.org/) - 允许通过单个 WordPress 安装运行多语言网站的 WordPress 插件.
 - [FormatJS](https://formatjs.io/) - 用于国际化的 JavaScript 库的模块化集合，专注于格式化数字、日期和字符串以显示给人们.
+- [Crowdin MT](https://store.crowdin.com/crowdin-mt) - 基于 Crowdin Global 翻译记忆库翻译的机器学习翻译器.
 
 ## Articles
 
@@ -78,7 +79,7 @@
 - [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - 本地化和国际化，有什么区别？
 - [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - i18n/l10n/g11n 之间的实际区别是什么，具体来说每个区别对开发意味着什么？
 - [W3C](https://www.w3.org/International/questions/qa-i18n) - 本地化与国际化.
-- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - 国际化 Flutter 应用程序.
+- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
 - [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation)  - CAT（计算机辅助翻译）工具通常被理解为专门促进实际翻译过程的程序. 本文介绍：翻译记忆库软件、语言搜索引擎软件、术语管理软件、对齐软件、交互式机器翻译、增强翻译.
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - 关于机器翻译不同技术的论文综述.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611)  - 一篇将现代 NMT 架构的起源追溯到单词和句子嵌入以及编码器-解码器网络系列的早期示例的论文评论. 最后将对该领域的最新趋势进行简短调查.
@@ -109,7 +110,7 @@
 
 - [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information)  - 建立 NLP 和统计学的背景，然后将基础知识发展到当前的研究. 到最后，读者可以构建自己的翻译系统. 作者是 [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
 - [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information)  - 机器翻译简介从神经网络方法的基础开始，达到最先进的水平，同时提供历史、语言和应用背景.  Python 中的代码示例提供了实践蓝图. 作者仍然是 Philipp Koehn.
-- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory 和 practice of translation from a variety of linguistic 和 cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) 和 [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
+- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8)  - 从各种语言和文化角度介绍翻译理论和实践. 作者是 [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) 和 [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
 ## Other
 
@@ -122,6 +123,8 @@
 - [ICU - International Components for Unicode](https://icu.unicode.org/) - 一套成熟的、广泛使用的 C/C++ 和 Java 库，为软件应用程序提供 Unicode 和全球化支持.
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Django 文档的一部分，专注于国际化和本地化.
 - [GILT Forum](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - 本地化和全球化专业人士指南.
+- [DeepL Translator](https://www.deepl.com/) - 神经机器翻译服务于 2017 年 8 月推出，由位于科隆的 DeepL SE 所有.
+- [Amazon Translate](https://aws.amazon.com/translate/) - 一种神经机器翻译服务，可提供快速、高质量、价格合理且可定制的语言翻译.
 
 ## Contributing
 
