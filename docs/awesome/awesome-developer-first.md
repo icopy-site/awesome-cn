@@ -81,6 +81,7 @@
 *有助于跟踪错误的工具.*
 * [Lightrun](https://www.lightrun.com) - 使用支持 Java、Node.js 和 Python 的 IDE（本地或 SaaS）中的插件调试生产服务器.
 * [Rookout](https://www.rookout.com)  - 通过基于云的调试器调试生产服务器. 支持 Java、.Net、Node.js、Python 和 Ruby.
+* [Linear](https://linear.app/) - 为开发人员构建的问题跟踪.
 
 ## Deployment Hosting
 *帮助您部署应用程序/网站的产品.*

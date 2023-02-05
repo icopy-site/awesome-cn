@@ -128,7 +128,7 @@
 ### General
 
 - [ArmorPlus](https://www.curseforge.com/minecraft/mc-mods/armorplus) - 这个模组从字面上为游戏添加了大量的盔甲，以及不同的制作方式.
-- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) - 这个模组为玩家物品栏添加了七个新槽位，可以装上其他模组添加的各种物品，如护身符、腰带、戒指等.
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) - 这个模组在玩家库存中增加了七个新的插槽，可以安装其他模组添加的各种物品，如护身符、腰带、戒指等.
 
 ### Exploration
 
@@ -185,6 +185,7 @@
 - [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) - 使用 Docker 容器的自托管 Minecraft 服务器.
 - [Glowstone](https://glowstone.net/)  - 以前称为 Spout 和 BukkitContrib. 从头开始编写的 Spigot 服务器替代方案，性能类似于 Paper.
 - [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
+- [Minestom](https://minestom.net/) - 轻量级的从头开始的服务器实现.
 - [Mohist](https://mohistmc.com/) - 实现 Forge 和 Bukkit API 的服务器.
 - [Paper](https://papermc.io/) - Spigot 和 BungeeCord 的各种补丁提供了更好的性能和更多的配置选项.
 - [PocketMine](https://www.pocketmine.net/) - 提供基本插件支持的基岩版服务器.

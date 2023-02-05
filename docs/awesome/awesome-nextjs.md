@@ -64,7 +64,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 
 ## Boilerplates
 
-- [Kaminari Template](https://kaminari.vercel.app/)  - 强大的 Next.js 和 Tailwind CSS 模板. 考虑到开发人员的经验而构建. 包含 Husky、CommitLint、Pretter、Eslint 等配置.  ✨
+- [Kaminari Template](https://kaminari.vercel.app/)  - 强大的 Next.js 和 Tailwind CSS 模板. 考虑到开发人员的经验而构建. 包含 Husky、CommitLint、Prettier、Eslint 等配置.  ✨
 - [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - 由 Cosmic Headless CMS 提供支持的 Next.js 静态博客
 - [NextJS Headless CMS Powered Blog Starter](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 - [Next.js App with AWS Lambda](https://github.com/mattdamon108/nextjs-with-lambda) - 使用 Apex Up 将 Next.js 应用程序部署到 AWS Lambda.
@@ -82,9 +82,9 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [phox](https://github.com/herschel666/phox) - 创建一个静态照片博客.
 - [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - 使用 Next、Express、react-bootstrap、SCSS 和带有 eslint 的 SSR 构建的全栈应用程序的样板.
 - [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用 Next.js、Firebase Firestore、styled-components 和 mobx-state-tree 构建的简单 CMS 博客.
-- [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 具有 Express、Redux 和 PostCSS 的 Next.js 启动器.
+- [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 带有 Redux 和 Material UI 的样板 NextJS.
-- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库 _and_ 最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
+- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库_和_最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
 - [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS、Styled-jsx、Redux、PostCSS、可配置的 SEO
 - [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - 外部 CSS 和 Sass + 从任何地方导入图像 + Prettier 和 Eslint + 环境变量和更多功能.
 - [next-starter](https://github.com/YuriBrunetto/next-starter) - 一个完整而简单的样板文件，内置 `sass (.scss)` 和 `postcss`.
@@ -129,7 +129,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [next-i18next](https://github.com/isaachinman/next-i18next) - 翻译 NextJs 应用程序的最简单方法.
 - [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
 - [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
-- [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
+- [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - 使用 Terraform 部署您的应用程序
 - [next-session](https://github.com/hoangvvo/next-session) - Next.js 的会话中间件
 - [next-iron-session](https://github.com/vvo/next-iron-session) - Next.js 无状态会话实用程序使用签名和加密的 cookie 来存储数据
 - [Next PurgeCSS](https://github.com/lucleray/next-purgecss) - 轻松整合 [Purgecss](https://www.purgecss.com/)，它可以帮助您从包中删除未使用的 CSS.
@@ -215,7 +215,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 
 ## Contributing
 
-找到很棒的包、文章、博客、视频等？ 向我发送请求请求！ 只需按照 [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md) . 谢谢！
+找到很棒的包、文章、博客、视频等？ 向我发送请求请求！ 只需按照 [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md) . 谢谢你！
 
 ---
 

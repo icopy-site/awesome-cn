@@ -32,7 +32,7 @@
 ---
 ### Built Environment
 
-- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD) -  The Smart Location Database is a nationwide geographic data resource for measuring location efficiency. It includes more than 90 attributes summarizing characteristics such as housing density, diversity of land use, neighborhood design, destination accessibility, transit service, employment, and demographics. Most attributes are available for every census block group in the United States. 
+- [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是一个全国性的地理数据资源，用于衡量位置效率. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
 - [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内的开放建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些建筑物足迹是使用我们在卫星图像上的计算机视觉算法得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 - [National Structures Inventory](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation) - 一个数据集，旨在提供对一致的、全国可用的基于点的结构清单的访问，并附有属性以支持对自然和人为灾害后果的评估.
 
@@ -65,7 +65,7 @@
 ### Employment
 
 - [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划结合了这些行政数据以及来自人口普查和调查的数据. 根据这些数据，该程序可以在地理和行业的详细级别以及不同人口群体中创建有关就业、收入和工作流的统计数据. 附加信息： [On The Map Download Page](https://onthemap.ces.census.gov/).
-- [Bureau of Labor Statistics](https://www.bls.gov/) - 劳工统计局衡量并提供有关美国经济中劳动力市场活动、工作条件、价格变化和生产率的数据，以支持公共和私人决策.
+- [Bureau of Labor Statistics](https://www.bls.gov/) - The Bureau of Labor Statistics measures and provides access to data on labor market activity, working conditions, price changes, and productivity in the U.S. economy to support public and private decision making.
 
 ### Environment and Ecosystem Services
 
@@ -73,7 +73,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -82,7 +82,6 @@
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社区的社会脆弱性水平确定在灾难发生之前、期间或之后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)  - EJSCREEN 使用地图和报告来呈现三种信息：环境指标、人口指标和 EJ 索引. 附加信息： [Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了一个全面的负担能力视图，包括社区级别的住房成本和交通成本. 由邻里技术中心提供.
-- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列可供选择的选择，从而深入了解美国选定社区的各种因素.
 - [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供邻里级别的家庭住房和交通成本估算以及建筑环境和人口统计数据来缩小这一差距.  
 - [Opportunity Atlas](https://www.opportunityatlas.org/) - 这些 [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
 - [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 将经过地理校正的房主贷款公司 (HOLC) 地图叠加到美国现代底图上的交互式地图. 这些颜色编码的 HOLC 地图是被称为*红线*的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国本土 48 个州的主要大都市区 (1935-1940).
@@ -91,7 +90,7 @@
 ### Health
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
-- [HealthData.gov](https://healthdata.gov/) - 本网站致力于让美国的高价值健康数据更容易被企业家、研究人员和政策制定者获取，以期为所有人带来更好的健康结果.  
+- [HealthData.gov](https://healthdata.gov/) - 本网站致力于让美国的高价值健康数据更容易被企业家、研究人员和决策者获取，以期为所有人带来更好的健康结果.  
 - [CDC Places](https://www.cdc.gov/places/index.html) - 与 CDC 合作，无论人口规模和城乡状况如何，地方卫生部门和辖区都可以更好地了解其所在地区与健康相关的结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 - [USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) - 2010 年至 2015 年美国大部分人口普查区的出生时预期寿命估计值，即一个人预期可活的平均年数.
 - [WHO Data](https://www.who.int/data) - 世界卫生组织 (WHO) 的健康数据集，包括关于健康指标和相关数据的国际数据集. 
@@ -100,6 +99,11 @@
 
 - [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家史迹名录是国家值得保护的历史名胜的官方名单.
 - [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产是联合国教科文组织世界遗产委员会维护的财产清单上的一个地点，被称为世界遗产名录“它认为具有突出的普遍价值”.
+
+### Housing
+
+- [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads)  - 联邦住房金融局提供了一系列关于美国住房和抵押贷款的公共数据集. 它包括所有州，通过其房价指数、再融资报告、止赎预防报告、抵押贷款收购数据集和绩效报告了解美国抵押贷款市场的活动.
+- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列可供选择的选择，从而深入了解美国选定社区的各种因素.
 
 ### Land Use and Land Cover
 
@@ -178,7 +182,7 @@
 
 ### Urban Observation
 
-- [Numina](https://numina.co/)  - 利用边缘计算设备测量各种路边活动.  Numina 以匿名和汇总的方式提供旅行者和街道上物体的数量、路径和交通行为.
+- [Numina](https://numina.co/)  - 利用边缘计算设备测量各种路边活动.  Numina 以匿名和聚合的方式提供了街道上旅行者和物体的数量、路径和交通行为.
 - [Transoft](https://safety.transoftsolutions.com/)  - Transoft ITS Safety 解决方案利用计算机视觉来识别街道上的“未遂”行为. 这项技术被 Planning Magazine 刊登在 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥堵，更可持续，更公平. 
 - [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠的方式快速量化建筑环境中发生的事件. 
@@ -309,7 +313,7 @@ R 包及相关资源.
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和缓解规划的软件、工具和平台. 
 
-- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 恢复力和适应性气候测绘 (CMRA) 整合了来自整个联邦政府的信息，以帮助人们考虑当地对气候相关危害的暴露程度. 在社区组织或公共机构工作的人可以使用该网站帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
+- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 恢复力和适应性气候制图 (CMRA) 整合了来自整个联邦政府的信息，以帮助人们考虑当地对气候相关危害的暴露程度. 在社区组织或公共机构工作的人可以使用该站点来帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的效益和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供且开发透明. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是在几乎没有或没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
@@ -324,7 +328,7 @@ R 包及相关资源.
 - [QGIS](https://qgis.org/en/site/) - 这个开源 GIS 套件允许用户在 Windows、Mac、Linux、BSD 和移动设备上创建、编辑、可视化、分析和发布地理空间信息.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更高效的交付路线、更好的行为营销、战略性商店布局等等.
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一个与数据无关、支持 WebGL 的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
-- [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流量图. 可视化位置之间的移动次数（起点-终点数据）.
+- [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流量图. 可视化位置之间的移动次数（起点-目的地数据）.
 - [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成制图，其大小根据数据扭曲的几何图形. 
 - [Heavy.AI](https://www.heavy.ai/) - 启用 Geotemporal 的高性能数据库能够执行 GPU 加速查询.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
@@ -350,7 +354,7 @@ R 包及相关资源.
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 的 20 多个桌面和移动应用程序和服务的集合，用于摄影、设计、视频、Web、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
 - [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，适用于 GNU/Linux、macOS、Windows 和更多操作系统.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
-- [TestFit](https://testfit.io/) - TestFit 具有算法和共同创造工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑场地规划.
+- [TestFit](https://testfit.io/) - TestFit 具有算法和共同创建工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑场地规划.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Delve 使用生成式设计和 AI 为您的项目优先级和站点设计指标揭示最佳选择. 
 
 ### Urban Planning Tools and Platforms
@@ -366,7 +370,7 @@ R 包及相关资源.
 - [Streetmix](https://streetmix.net/)  - 城市设计的协作公民参与平台. 使用 Streetmix 设计、重新混合和分享您的街区街道.
 - [A/B Street](https://www.abstreet.org)  - 编辑街道和十字路口，通过交通模拟探索所有模式的影响，并使用由此产生的可视化效果来传达建议.  Apache 许可，可在任何地方使用 OpenStreetMap 运行，可在网络上使用或作为离线下载使用.
 - [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
-- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim)  - 综合交通和健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于对城市和国家层面的交通情景和政策的健康影响进行综合评估. 这个页面指向不同的文献，R代码，和 [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
+- [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim)  - 综合交通和健康影响模型 (ITHIM) 是指一系列相关模型和工具，旨在对城市和国家层面的交通情景和政策的健康影响进行综合评估. 这个页面指向不同的文献，R代码，和 [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
 ### Planning Management and Administrative Tools and Platforms
 旨在帮助规划管理和管理的软件、工具和平台. 这包括用于许可、开发审查、数字计划开发和其他规划管理任务的软件. 
@@ -409,7 +413,7 @@ R 包及相关资源.
 ### Podcasts
 涉及建筑环境或社区的播客. 
 - [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways 播客是一个关于交通和城市设计的每周播客.
-- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
+- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
 - [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在经济上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
 - [The Urban Planner's Podcast](https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446) - 此播客面向城市规划人员、城市规划学生和对城市规划主题感兴趣的人.
@@ -433,7 +437,7 @@ Other types of planning data & technology resources. They are a good source of i
 ### Other Technology Resource Aggregators
 These are other aggregators that bring together different planning related tools, software, data, and related resources.
 
-- [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的流动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
+- [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - Harvard Dataverse 是研究数据的存储库. 它包含跨越科学的各种数据集，其中许多具有公共领域的奉献精神. 
 - [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包.

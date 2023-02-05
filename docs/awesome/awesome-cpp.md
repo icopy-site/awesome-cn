@@ -166,7 +166,7 @@
  * [tabulate](https://github.com/p-ranav/tabulate) - 现代 C++ 的制表机 [麻省理工学院]
  * [TCLAP](http://tclap.sourceforge.net)  - 一个成熟、稳定且功能丰富的库，用于在 ANSI C++ 中定义和访问命令行参数.  [麻省理工学院]
  * [termbox](https://github.com/nsf/termbox)  - 用于编写基于文本的用户界面的 AC 库.  [麻省理工学院]
- * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  - 用于编写多平台终端应用程序的小型头文件 C++ 库.  [麻省理工学院]
+ * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  - 用于编写多平台终端应用程序的小型标头 C++ 库.  [麻省理工学院]
  * [FTXUI](https://github.com/ArthurSonzogni/FTXUI)  - C++ 功能终端用户界面.  [麻省理工学院]
  * [imtui](https://github.com/ggerganov/imtui) - 即时模式基于文本的用户界面 [麻省理工学院]
 
@@ -229,7 +229,7 @@
 * [OpenMP](http://openmp.org/) - OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor)  - 事件循环友好的 C++ actor 微框架.  [麻省理工学院]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  - 在一个相当小的 C++ 框架中实现 Actor、发布-订阅和 CSP 模型.  [BSD-3-条款]
-* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建在 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建于 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - RaftLib C++ 库，通过 C++ iostream 类运算符实现流/数据流并发 [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)  - 用于 C++ 的快速单生产者、单消费者无锁队列.  [BSD]
 * [stdgpu](https://github.com/stotko/stdgpu)  - GPU 上高效的类似 STL 的数据结构.  [阿帕奇2]
@@ -276,7 +276,7 @@
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)  - 一个免费的密码方案 C++ 类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)  - C++11 仅标头消息摘要（哈希）库.  [公共区域]
-* [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. [GPL]
+* [GnuPG](https://www.gnupg.org/)  - OpenPGP 标准的完整和免费实施.  [通用公共许可证]
 * [GnuTLS](http://www.gnutls.org/)  - 实现 SSL、TLS 和 DTLS 协议的安全通信库.  [LGPL2.1]
 * [Libgcrypt](http://www.gnu.org/software/libgcrypt/)  - 最初基于 GnuPG 代码的通用密码库.  [LGPLv2.1+]
 * [LibreSSL](http://www.libressl.org/) - 2014 年从 OpenSSL 分叉出来的 SSL/TLS 协议的免费版本.[?]
@@ -391,7 +391,7 @@
 * [Allegro](http://liballeg.org/)  - 主要针对视频游戏和多媒体编程的跨平台库.  [zlib]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  - 用于构建 2d 游戏、交互式书籍、演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  - 用纯 C、SDL 和 OpenGL 编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  - Crown 是一种通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
+* [crown](https://github.com/dbartolini/crown)  - Crown 是一个通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  - 强大的模拟平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  - 游戏与现代 C++ 相遇.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  - 用于创建 2D/3D 移动和桌面游戏的跨平台原生 C++ 游戏框架.  [阿帕奇2]
@@ -448,7 +448,7 @@
 * [Blend2D](https://github.com/blend2d/blend2d)  - 由 JIT 编译器提供支持的 2D 矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  - 用于开发实时图形应用程序的现代 C++14 库.  [麻省理工学院]
 * [Cairo](http://www.cairographics.org/)  - 支持多种输出设备的 2D 图形库.  [LGPL2 或 Mozilla MPL]
-* [C-Turtle](https://github.com/walkerje/C-Turtle)  - 充当 CImg 包装器的 C++11 仅标头海龟图形库.  [麻省理工学院]
+* [C-Turtle](https://github.com/walkerje/C-Turtle) - A C++11 header-only turtle graphics library acting as a CImg wrapper. [MIT]
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  - 现代跨平台低级 3D 图形库.  [阿帕奇2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)  - 用于在 C++ 中编写 DirectX 11.x 代码的辅助类集合.  [麻省理工学院]
 * [GLFW](https://github.com/glfw/glfw)  - 一个简单的跨平台 OpenGL 争论库.  [zlib/libpng]
@@ -475,6 +475,7 @@
 ## Image Processing
 
 * [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - 通用图像库.
+* [BitmapPlusPLus](https://github.com/baderouaich/BitmapPlusPlus)  - 简单快速的标头仅位图 C++ 库.  [麻省理工学院]
 * [CImg](http://cimg.eu/)  - 用于图像处理的小型开源 C++ 工具包.  [拥有 LGPL 或 GPL]
 * [CxImage](https://www.codeproject.com/Articles/1300/CxImage)  - 一个图像处理和转换库，用于加载、保存、显示、转换 BMP、JPEG、GIF、PNG、TIFF、MNG、ICO、PCX、TGA、WMF、WBMP、JBG、J2K 图像.  [zlib]
 * [Dlib](https://github.com/davisking/dlib)  :zap: - 现代 C++11 机器学习、计算机视觉、数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
@@ -764,7 +765,7 @@
 * [Easy Reflection](https://github.com/chocolacula/easy_reflection_cpp)  - 简单快速的反射 + 序列化解决方案，如 Rust、Java 或 Go.  [阿帕奇]
 * [Magic Enum](https://github.com/Neargye/magic_enum)  - 仅标头的 C++17 库为枚举（到字符串、从字符串、迭代）提供静态反射，可与任何枚举类型一起使用，无需任何宏或样板代码.  [麻省理工学院]
 * [magic_get](https://github.com/apolukhin/magic_get)  - std::tuple 类用户定义类型的方法，没有任何宏或样板代码.  [促进]
-* [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入式和无宏的运行时反射系统.  [麻省理工学院]
+* [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入式和无宏运行时反射系统.  [麻省理工学院]
 * [Nameof](https://github.com/Neargye/nameof)  - Header-only C++17库提供nameof宏和函数来获取变量、类型、函数、宏和枚举的简单名称.  [麻省理工学院]
 * [Ponder](https://github.com/billyquith/ponder)  - 用于反射的 C++11 库.  [麻省理工学院]
 * [RTTR](https://github.com/rttrorg/rttr)  - 用于反射的 C++11 库.  [麻省理工学院] [website](http://www.rttr.org)
@@ -846,7 +847,7 @@
 * [protobuf](https://github.com/protocolbuffers/protobuf)  - Protocol Buffers - Google 的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - C 中的 Protocol Buffers 实现 [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)  - 为低延迟应用程序以二进制格式编码和解码应用程序消息.  [阿帕奇2]
-* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现.[BSD]
+* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现. [BSD]
 * [YAS](https://github.com/niXman/yas)  - 非常快的 **Y**et **A**nother **S** 序列化库支持二进制/文本/json 格式.  [促进]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits)  - 实际上，最快的现代 **S** 序列化库. 只需检查 [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 
@@ -1055,7 +1056,7 @@
 * [SW](https://software-network.org/)  - 跨平台 C++（和其他语言）构建系统和包管理器，有很多可用的包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统旨在为非常大的软件项目提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) - 基于文件的构建系统，在后台监视更改的文件.
-* [Premake](http://premake.github.io) - 一种配置有 Lua 脚本的工具，用于为 Visual Studio、GNU Make、Xcode、Code::Blocks 等跨 Windows、Mac OS X 和 Linux 生成项目文件.
+* [Premake](http://premake.github.io) - 配置有 Lua 脚本的工具，用于为 Visual Studio、GNU Make、Xcode、Code::Blocks 等跨 Windows、Mac OS X 和 Linux 生成项目文件.
 * [Vcpkg](https://github.com/microsoft/vcpkg)  - 适用于 Windows、Linux 和 MacOS 的 C++ 库管理器.  [麻省理工学院]
 * [waf](https://gitlab.com/ita1024/waf)  - 基于 Python 的框架，用于配置、编译和安装应用程序.  [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/)  - 基于 Lua 的 AC/C++ 跨平台构建实用程序.  [阿帕奇]
