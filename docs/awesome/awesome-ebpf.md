@@ -30,7 +30,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 - [`bpf(2)`](http://man7.org/linux/man-pages/man2/bpf.2.html) - 关于 `bpf()` 系统调用的手册页，用于管理来自用户空间的 BPF 程序和映射.
 - [`tc-bpf(8)`](http://man7.org/linux/man-pages/man8/tc-bpf.8.html) - 关于将 BPF 与 tc 一起使用的手册页，包括示例命令和代码示例.
-- [`bpf-helpers(7)` man page](http://man7.org/linux/man-pages/man7/bpf-helpers.7.html) - Description of the in-kernel helper functions forming the BPF standard library.
+- [`bpf-helpers(7)` man page](http://man7.org/linux/man-pages/man7/bpf-helpers.7.html) - 构成 BPF 标准库的内核辅助函数的描述.
 
 ### Other
 
@@ -56,7 +56,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
   - [Part 1: Introduction](https://www.collabora.com/news-and-blog/blog/2019/04/05/an-ebpf-overview-part-1-introduction/)
   - [Part 2: Machine & Bytecode](https://www.collabora.com/news-and-blog/blog/2019/04/15/an-ebpf-overview-part-2-machine-and-bytecode/)
 
-- [Ferris Ellis's blog posts about eBPF](https://ferrisellis.com/tags/ebpf/) - They have a few posts about eBPF:
+- [Ferris Ellis's blog posts about eBPF](https://ferrisellis.com/tags/ebpf/) - 他们有一些关于 eBPF 的帖子：
   - [Part 1: Past, Present, and Future](https://ferrisellis.com/content/ebpf_past_present_future/)
   - [Part 2: Syscall and Map Types](https://ferrisellis.com/content/ebpf_syscall_and_maps/)
 - [A BPF reference guide](https://github.com/iovisor/bcc/blob/master/docs/reference_guide.md) - 关于 BPF C 和 bcc Python 助手，来自 bcc 存储库.
@@ -66,7 +66,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [Linux BPF Superpowers](http://www.slideshare.net/brendangregg/linux-bpf-superpowers) - 介绍主要涵盖跟踪方面，第一部分是火焰图.
 - [IO Visor](https://www.socallinuxexpo.org/sites/default/files/presentations/Room%20211%20-%20IOVisor%20-%20SCaLE%2014x.pdf) - 还介绍 [IO Visor project](https://www.iovisor.org/).
 - [BPF -- in-kernel virtual machine](http://vger.kernel.org/netconf2015Starovoitov-bpf_collabsummit_2015feb20.pdf) - eBPF 作者的演讲.
-- [Extending extended BPF](https://lwn.net/Articles/603983/) - 2014 年的一篇关于 BPF 开发的博文，并演示了它可以做什么，使用了一个通过将 eBPF 程序附加到套接字来进行有状态套接字过滤的示例.
+- [Extending extended BPF](https://lwn.net/Articles/603983/) - A blog post from 2014 on the development of BPF and demonstrating what can be done with it, using an example of stateful socket filtering by attaching an eBPF program to a socket.
 - Greg Marsden 制作了一些关于 eBPF 的文档：
   - [A Tour of Program Types](https://blogs.oracle.com/linux/notes-on-bpf-1) - 对 BPF 程序类型的所有现有钩子及其兴趣的描述.
   - [BPF helper functions](https://blogs.oracle.com/linux/notes-on-bpf-2) - 回顾可以从 eBPF 程序中调用的内核函数.
@@ -103,7 +103,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ### XDP
 
 - [The eXpress Data Path](https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/) - 非常容易理解的 XDP 介绍，提供示例代码来展示如何处理数据包.
-- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，由 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller 撰写，他们都是重要的 eBPF 和 XDP 贡献者.
+- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，作者是 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller，他们都是重要的 eBPF 和 XDP 贡献者.
 - [Work-in-progress documentation for XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html)
 - [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - 来自 Cilium 项目的指南.
 - [XDP Project overview](https://www.iovisor.org/technology/xdp)
@@ -208,6 +208,12 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [libbpf](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/lib/bpf)  - 用于处理 BPF 对象（程序和映射）以及操作包含它们的 ELF 对象文件的 AC 库. 它随内核一起提供，并且 [mirrored on GitHub](https://github.com/libbpf/libbpf).
 - [libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - 使用 libbpf 和 BPF CO-RE 为 BPF 应用程序开发搭建脚手架.
 
+### Go libraries
+
+- [cilium/ebpf](https://github.com/cilium/ebpf) - Pure-Go 库，用于读取、修改和加载 eBPF 程序并将它们附加到 Linux 内核中的各种挂钩.
+- [libbpfgo](https://github.com/aquasecurity/libbpfgo) - 用于 Go 的 eBPF 库，由 libbpf 提供支持.
+- [gobpf](https://github.com/iovisor/gobpf) - Go bindings for BCC for creating eBPF programs.
+
 ### Aya
 
 - [aya](https://github.com/aya-rs/aya)  - 用于编写、加载和管理 eBPF 对象的纯 Rust 库，注重开发者体验和可操作性. 它支持用 Rust 编写 eBPF 程序，并通过 crates.io 分发库代码以在 eBPF 程序之间共享.  Aya 不依赖于 libbpf.
@@ -223,7 +229,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ### bpftool and Other Tools from the Kernel Tree
 
-- [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 之后：
+- [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 在那之后：
 
   - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和映射进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除映射，或附加和分离程序到 cgroups.
   - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编程序.
@@ -239,12 +245,18 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [oster](https://github.com/grantseltzer/oster)  - 用 Go 编写. 通过将 eBPF 附加到 uprobes 来跟踪 Go 程序执行的工具.
 - [wachy](https://rubrikinc.github.io/wachy/)  - 一个跟踪分析器，旨在使基于 eBPF uprobe 的调试更易于使用. 这是通过在源代码旁边的 UI 中显示跟踪并允许交互式向下钻取分析来完成的.
 
+### eBPF on Other Platforms
+
+- [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) - 这个项目是一个正在进行的工作，它允许使用现有的 eBPF 工具链和 Linux 生态系统中熟悉的 API 来在 Windows 上使用.
+
 ### Testing in Virtual Environments
 
 - [A Vagrant setup](https://github.com/iovisor/xdp-vagrant)  - 轻松测试 XDP. 现在通用 XDP（独立于驱动程序，主要用于测试）的存在不太有用.
 - [bcc in a Docker container](https://github.com/zlim/bcc-docker)
 
 ## Projects Related to eBPF
+
+### Networking
 
 - P4 与 eBPF 有一些交互：
 
@@ -270,11 +282,11 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
   - [Coupling the Flexibility of OVN with the Efficiency of IOVisor](http://openvswitch.org/support/ovscon2016/7/1245-bertrone.pdf)
 
 - [Katran](https://code.fb.com/open-source/open-sourcing-katran-a-scalable-network-load-balancer/) - 基于 XDP 的第 4 层负载均衡器，由 Facebook 开源.
-- [XDP in practice: integrating XDP in our DDoS mitigation pipeline](http://netdevconf.org/2.1/session.html?bertin) - Protection against DDoS with XDP at Cloudflare.
+- [XDP in practice: integrating XDP in our DDoS mitigation pipeline](http://netdevconf.org/2.1/session.html?bertin) - 在 Cloudflare 使用 XDP 防御 DDoS.
 - [Droplet: DDoS countermeasures powered by BPF + XDP](http://netdevconf.org/2.1/session.html?zhou) - 在 Facebook 使用 XDP 防御 DDoS.
 - [DPDK has a poll-mode driver (PMD) based on AF_XDP](https://dpdkuserspace2018.sched.com/event/G45Z/dpdk-pmd-for-afxdp)
 - [CETH for XDP](http://www.slideshare.net/IOVisor/ceth-for-xdp-linux-meetup-santa-clara-july-2016) - 用于更快网络 I/O 的通用以太网驱动程序框架，这是一项由 Mellanox 发起的技术.
-- Suricata，一个开源入侵检测系统， [relies on eBPF components](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/) 因其“捕获旁路”功能：
+- Suricata，一个开源入侵检测系统， [relies on eBPF components](https://www.stamus-networks.com/2016/09/28/suricata-bypass-feature/) for its "capture bypass" features:
 
   - ["eBPF and XDP" section of Suricata documentation](http://suricata.readthedocs.io/en/latest/capture-hardware/ebpf-xdp.html?highlight=XDP#ebpf-and-xdp)
   - [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - 极限性能调整指南 - Mark II.
@@ -282,8 +294,33 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
   - [The adventures of a Suricate in eBPF land](http://netdevconf.org/1.2/slides/oct6/10_suricata_ebpf.pdf)
   - [eBPF and XDP seen from the eyes of a meerkat](https://www.slideshare.net/ennael/kernel-recipes-2017-ebpf-and-xdp-eric-leblond)
 
+- [Project Calico](https://projectcalico.docs.tigera.io/about/about-calico)  - Calico 是一种开源网络和网络安全解决方案，适用于容器、虚拟机和基于主机的本地工作负载.  Calico 的 eBPF 数据平面通过丰富的网络安全策略模型提供低延迟、高吞吐量的数据平面.
+  - [Enabling eBPF data plane with Calico](https://projectcalico.docs.tigera.io/maintenance/ebpf/enabling-bpf)
+- [merbridge](https://github.com/merbridge/merbridge/)  - 使用 eBPF 来加速您的服务网格.  Merbridge 用 eBPF 替换 iptables 规则来拦截流量. 它还结合了 msg_redirect 以通过缩短边车和服务之间的数据路径来减少延迟.
+
+### Observability
+
 - [InKeV: In-Kernel Distributed Network Virtualization for DCN](https://github.com/iovisor/bpf-docs/blob/master/university/sigcomm-ccr-InKev-2016.pdf)
-- [gobpf - utilizing eBPF from Go](https://fosdem.org/2017/schedule/event/go_bpf/) - 从 Go 创建、加载和使用 eBPF 程序的库.
+- [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - 帮助测量服务器的功耗，并使用 eBPF 程序在内核中聚合数据.
+- [pixie](https://github.com/pixie-io/pixie)  - 使用 eBPF 的 Kubernetes 可观察性. 功能包括协议跟踪、应用程序分析和对分布式 bpftrace 部署的支持.
+- [SkyWalking Rover](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) 是一个开源应用程序性能监控（APM）平台，专为具有微服务、云原生和基于容器（Kubernetes）架构的分布式系统而设计.  SkyWalking Rover 是一个基于 eBPF 的分析器和指标收集器，适用于 C、C++、Golang 和 Rust 应用程序.
+- [parca-agent](https://github.com/parca-dev/parca-agent) - 基于 eBPF 的始终在线的连续分析器，用于分析 CPU 和内存使用情况，细化到行号和整个时间.
+- [rbperf](https://github.com/javierhonduco/rbperf) - Ruby 的采样分析器和跟踪器.
+- [Hubble](https://github.com/cilium/hubble) - 使用 eBPF 的 Kubernetes 网络、服务和安全可观察性.
+- [Caretta](https://github.com/groundcover-com/caretta) - 由 eBPF 生成的即时 Kubernetes 服务依赖关系图，直接指向 Grafana 实例.
+
+### Security
+
+- [Falco](https://falco.org/) - 用作 Kubernetes 威胁检测引擎的云原生运行时安全项目.
+- [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  - 安全监控工具. 这取决于 [SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF).
+- [Red Canary Linux Agent](https://redcanary.com/blog/ebpf-for-security) - Red Canary 已经开始将 eBPF 合并到他们的 Linux 安全传感器中. 
+- [Tracee](https://github.com/aquasecurity/tracee) - 用于 Linux 的运行时安全和取证工具，它使用 eBPF 技术在运行时跟踪系统和应用程序，并分析收集到的事件以检测可疑的行为模式.
+- [redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor)  - 一组从 Linux 内核收集安全相关事件数据的 BPF 程序.  BPF 程序被合并到一个单独的 ELF 文件中，根据运行的操作系统和内核版本，可以从中选择性地加载各个探测器.
+- [bpflock - Lock Linux machines](https://github.com/linux-lock/bpflock) - 一个 eBPF 驱动的安全工具，用于锁定和审计 Linux 机器.
+- [Tetragon](https://github.com/cilium/tetragon) - Kubernetes 感知、基于 eBPF 的安全可观察性和运行时执行.
+
+### Tools
+
 - [ply](https://wkz.github.io/ply/) - 用于 Linux 的小型但灵活的开源动态跟踪器，具有类似于 bcc 工具的功能，但具有受 awk 和 DTrace 启发的更简单的语言.
 - [bpftrace](https://bpftrace.org/)  - 使用自己的高级跟踪语言进行跟踪的工具. 它足够灵活，可以被设想为 DTrace 和 SystemTap 的 Linux 替代品.
   - [bpftrace Cheat Sheet](https://www.brendangregg.com/BPF/bpftrace-cheat-sheet.html)  - bpftrace 中编程的摘要和备忘单. 包含有关语法、探针类型、变量和函数的信息.
@@ -294,26 +331,8 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [adeb](https://github.com/joelagnel/adeb) - 一个 Linux shell 环境，用于在带有 BPFd 的 Android 上使用跟踪工具.
 - [greggd](https://github.com/olcf/greggd) - 系统守护程序，用于编译 eBPF 程序并将其加载到内核中，并将程序输出转发到套接字以进行度量聚合.
 - [FUSE](https://events.linuxfoundation.org/wp-content/uploads/2017/11/When-eBPF-Meets-FUSE-Improving-Performance-of-User-File-Systems-Ashish-Bijlani-Georgia-Tech.pdf) - 考虑使用 eBPF.
-- [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - 帮助测量服务器的功耗，并使用 eBPF 程序在内核中聚合数据.
 - [upf-bpf](https://github.com/navarrothiago/upf-bpf) - 基于 XDP 的内核内解决方案，用于 5G UPF.
 - [redbpf](https://github.com/foniod/redbpf) - 在 Rust 中高效编写 eBPF 代码的工具和框架.
-- [pixie](https://github.com/pixie-io/pixie)  - 使用 eBPF 的 Kubernetes 可观察性. 功能包括协议跟踪、应用程序分析和对分布式 bpftrace 部署的支持.
-- [Project Calico](https://projectcalico.docs.tigera.io/about/about-calico)  - Calico 是一种开源网络和网络安全解决方案，适用于容器、虚拟机和基于主机的本地工作负载.  Calico 的 eBPF 数据平面通过丰富的网络安全策略模型提供低延迟、高吞吐量的数据平面.
-  - [Enabling eBPF data plane with Calico](https://projectcalico.docs.tigera.io/maintenance/ebpf/enabling-bpf)
-- [Falco](https://falco.org/) - 用作 Kubernetes 威胁检测引擎的云原生运行时安全项目.
-- [SkyWalking Rover](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) 是一个开源应用程序性能监控（APM）平台，专为具有微服务、云原生和基于容器（Kubernetes）架构的分布式系统而设计.  SkyWalking Rover 是一个基于 eBPF 的分析器和指标收集器，适用于 C、C++、Golang 和 Rust 应用程序.
-- [Sysmon for Linux](https://github.com/Sysinternals/SysmonForLinux)  - 安全监控工具. 这取决于 [SysinternalsEBPF](https://github.com/Sysinternals/SysinternalsEBPF).
-- [Red Canary Linux Agent](https://redcanary.com/blog/ebpf-for-security) - Red Canary 已经开始将 eBPF 合并到他们的 Linux 安全传感器中. 
-- [Tracee](https://github.com/aquasecurity/tracee) - 用于 Linux 的运行时安全和取证工具，它使用 eBPF 技术在运行时跟踪系统和应用程序，并分析收集到的事件以检测可疑的行为模式.
-- [eBPF for Windows](https://github.com/microsoft/ebpf-for-windows) - 这个项目是一个正在进行的工作，它允许使用现有的 eBPF 工具链和 Linux 生态系统中熟悉的 API 来在 Windows 上使用.
-- [redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor)  - 一组从 Linux 内核收集安全相关事件数据的 BPF 程序.  BPF 程序被合并到一个单独的 ELF 文件中，根据运行的操作系统和内核版本，可以从中选择性地加载各个探测器.
-- [bpflock - Lock Linux machines](https://github.com/linux-lock/bpflock) - 一个 eBPF 驱动的安全工具，用于锁定和审计 Linux 机器.
-- [merbridge](https://github.com/merbridge/merbridge/)  - 使用 eBPF 来加速您的服务网格.  Merbridge 用 eBPF 替换 iptables 规则来拦截流量. 它还结合了 msg_redirect 以通过缩短边车和服务之间的数据路径来减少延迟.
-- [parca-agent](https://github.com/parca-dev/parca-agent) - 基于 eBPF 的始终在线的连续分析器，用于分析 CPU 和内存使用情况，细化到行号和整个时间.
-- [rbperf](https://github.com/javierhonduco/rbperf) - Ruby 的采样分析器和跟踪器.
-- [Tetragon](https://github.com/cilium/tetragon) - Kubernetes 感知、基于 eBPF 的安全可观察性和运行时执行.
-- [Hubble](https://github.com/cilium/hubble) - 使用 eBPF 的 Kubernetes 网络、服务和安全可观察性.
-- [Caretta](https://github.com/groundcover-com/caretta) - 由 eBPF 生成的即时 Kubernetes 服务依赖关系图，直接指向 Grafana 实例.
 
 ## eBPF in Security
 
@@ -347,7 +366,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [The bpf-next tree](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/)  - BPF 补丁落在这棵树上. 它定期合并到 [net-next](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git)，它本身会为每个版本合并到 Linus 的树中.
 - [Kernel documentation](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/Documentation/bpf/bpf_devel_QA.rst) - 关于对 BPF 的贡献.
 - [The netdev mailing list](http://lists.openwall.net/netdev/)  - 用于 Linux 内核网络堆栈开发的邮件列表. 所有补丁都发送到那里以供审查和包含.
-- [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - A mailing list specially dedicated to XDP programming (both for architecture or for asking for help).
+- [XDP-newbies](http://vger.kernel.org/vger-lists.html#xdp-newbies) - 专门用于 XDP 编程的邮件列表（用于架构或寻求帮助）.
 - [IO Visor mailing list](http://lists.iovisor.org/pipermail/iovisor-dev/) - BPF 是项目的核心，并定期在邮件列表中进行讨论.
 - [@IOVisor Twitter account](https://twitter.com/IOVisor)
 - [The XDP Collaboration Project](https://github.com/xdp-project/xdp-project) - 一个 GitHub 存储库，其中包含有关 XDP 未来发展的注释和想法.
@@ -360,7 +379,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ## Acknowledgement
 
-感谢 Quentin Monnet 和 Daniel Borkmann 的原创工作 [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) 这成为了这份名单的基础.
+Thank you to Quentin Monnet and Daniel Borkmann for their original work on [Dive into BPF: A List of Reading Material](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) 这成为了这份名单的基础.
 
 ## Contributing
 

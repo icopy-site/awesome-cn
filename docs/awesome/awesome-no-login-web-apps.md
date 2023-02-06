@@ -35,6 +35,7 @@
 * [AI Vocal Remover](https://vocalremover.org) - 通过人工智能将声音与音乐分开.
 * [Ambient Mixer](https://www.ambient-mixer.com/) - 聆听免费的音频氛围（例如苏格兰雨/斯莱特林公共休息室）或在线混合您自己的环境声音.
 * [Vileo](https://lukasbach.github.io/vileo/) - 录制您的屏幕或网络摄像头并从您的浏览器中下载视频.
+* [Youtube Dynamic Playlists](https://youtube.ndo.dev) - 创建 YouTube 视频的即时播放列表.
 
 
 ### Business and Finance
@@ -248,9 +249,9 @@
 * [pForm](http://www.phpform.org/) - 通过简单的所见即所得 GUI 创建 HTML 表单并下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  - 用于处理 CSS 中供应商前缀的后处理器. 只需粘贴常规 CSS 即可立即获得供应商前缀处理的 CSS.
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
-* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
+* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图像.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
-* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
+* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅键入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - 测试站点速度和 Core Web Vitals.
 

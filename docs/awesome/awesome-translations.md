@@ -17,21 +17,27 @@
 
 ## Platforms
 
-**I18n.**
+### Localization and translation platforms
 
 - [Crowdin](https://crowdin.com/) - 基于云的闭源本地化技术和服务公司.
-- [GitLocalize](https://gitlocalize.com/) - 强大的本地化平台，可与您的 GitHub 存储库同步并让您持续翻译其内容.
 - [LocaleApp](https://www.localeapp.com/) - 有效的应用程序本地化和翻译.
 - [Transifex](https://www.transifex.com/) - 专有的、基于网络的翻译平台、全球化管理系统 (GMS).
-- [Weblate](https://weblate.org/) - 最积极和最强大的自由软件社区之一的平台.
-- [Zanata](http://zanata.org/) - 基于 Web 的翻译平台，供翻译人员、内容创建者和开发人员管理本地化项目.
-- [Traduora](https://github.com/traduora/traduora) - 用于管理团队翻译工作流程的平台.
+- [Weblate](https://weblate.org/) - Copylefted libre 基于网络的连续翻译平台.
 - [SimpleLocalize](https://simplelocalize.io) - 软件项目的简单翻译管理.
-- [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接传送到您的源代码.
-- [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
 - [Tolgee](https://tolgee.io) - 开源、开发者和翻译者友好的平台，使用户能够直接在他们开发的应用程序中进行翻译.
 - [Lokalise](https://lokalise.com/) - 开发人员的翻译平台.
-- [Locize](https://locize.com/) - 为您的开发和翻译提供支持的持续本地化管理平台.
+- [Locize](https://locize.com/) - 专有翻译平台.
+
+### Project management
+
+- [Zanata](http://zanata.org/) - 基于 Web 的翻译平台，供翻译人员、内容创建者和开发人员管理本地化项目.
+- [Traduora](https://github.com/traduora/traduora) - 用于管理团队翻译工作流程的平台.
+
+### Platform-specific tools
+
+- [GitLocalize](https://gitlocalize.com/) - 强大的本地化平台，可与您的 GitHub 存储库同步并让您持续翻译其内容.
+- [Respresso](https://respresso.io/) - 用于本地化、图像、颜色等的协作在线资源管理器，可生成特定于平台的文件并将它们直接传送到您的源代码.
+- [PO file editor](https://pofile.net/free-po-editor) - 用于翻译 PO 文件以使用 Gettext 进行本地化的免费工具.
 
 ## Apps
 
@@ -57,7 +63,7 @@
 - [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - 在 Swift 中使用 Google 的云翻译 API 的框架.
 - [Translate](https://github.com/translate/translate) - 一套软件和文档，旨在帮助本地化人员提高工作效率并减少挫败感.
 - [Pootle](https://github.com/translate/pootle)  - 具有翻译界面的在线翻译管理工具，专注于应用程序图形用户界面的本地化. 它由 LibreOffice 使用.
-- [Translator](https://github.com/UlionTse/translators) - 基于Google、Yandex、微软（Bing）、百度、阿里巴巴、腾讯、网易（有道）、搜狗、Deepl等翻译界面的翻译库.
+- [Translator](https://github.com/UlionTse/translators) - 基于谷歌、Yandex、微软（Bing）、百度、阿里巴巴、腾讯、网易（有道）、搜狗、Deepl等翻译接口的翻译库.
 - [Bergamot](https://github.com/browsermt) - 浏览器中的客户端翻译.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python 国际化 (i18n) 包.
 - [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - 旨在帮助团队轻松本地化网站的技术.
@@ -94,7 +100,7 @@
 - [Lexico](https://www.lexico.com/)  - 提供英语和西班牙语词典的集合，以及对许多单词和语言的好奇心（在“探索”部分）. 它由牛津大学出版社出版.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - 包含适合初学者翻译的好技巧.
 - [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家经营. 您可以收听音频文件，其中包含他们对兼职翻译工作的提示和意见.
-- [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德语翻译成英语的 Jayne Fox 运营. 它讨论了翻译人员的持续专业发展 (CPD) 和使用技术（尤其是 CAT 工具/TEnT）来支持他们的工作.
+- [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德语翻译成英语的 Jayne Fox 运营. 它讨论了译员的持续专业发展 (CPD) 和使用技术（尤其是 CAT 工具/TEnT）来支持他们的工作.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - 提供关于本地化管理、协作翻译平台、翻译管理系统、机器翻译以及本地化行业最大参与者的极其详细的描述和意见.
 
 ## Online Courses
@@ -119,7 +125,7 @@
 - [LocalizationLab](https://www.localizationlab.org/) - 由 7000 多名贡献者组成的全球社区，他们支持互联网自由工具的翻译和本地化.
 - [Pontoon](https://pontoon.mozilla.org/) - 各种 Mozilla 本地化项目.
 - [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - IBM Cloud 上的一项服务，支持动态翻译新闻、专利或对话文档.
-- [Project Fluent](https://projectfluent.org) - 旨在释放自然语言翻译的全部表达能力的本地化范式.
+- [Project Fluent](https://projectfluent.org) - 旨在释放自然语言翻译的全部表达能力的本地化范例.
 - [ICU - International Components for Unicode](https://icu.unicode.org/) - 一套成熟的、广泛使用的 C/C++ 和 Java 库，为软件应用程序提供 Unicode 和全球化支持.
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Django 文档的一部分，专注于国际化和本地化.
 - [GILT Forum](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - 本地化和全球化专业人士指南.

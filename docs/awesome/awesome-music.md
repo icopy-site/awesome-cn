@@ -18,8 +18,9 @@
 ## Audio Libraries
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js 是一个嵌入式 javascript 库，允许在任何地方使用 HTML5 的 &lt;audio&gt; 标签.
+* [chord-mark](https://github.com/no-chris/chord-mark) - ChordMark 的参考实现，ChordMark 是一种用于歌词、和弦和节奏的文本符号格式.
 * [howler.js](https://github.com/goldfire/howler.js) - 用于现代网络的 Javascript 音频库.
-* [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
+* [JSyn](http://www.softsynth.com/jsyn/) - 用于 Java 的音频合成软件 API.
 * [Librosa](https://github.com/librosa/librosa) - 用于音乐和音频分析的 python 包，提供创建音乐信息检索系统所需的构建块.
 * [midi.js](https://github.com/mudcube/MIDI.js) - 用于创建基于 Web 的 MIDI 应用程序的框架.
 * [mxml](https://github.com/venturemedia/mxml) - MusicXML 解析和布局库.
@@ -39,7 +40,7 @@
 * [Lame](http://lame.sourceforge.net/) - 高质量、免费和开源的 MP3 编码器.
 * [lltag](https://github.com/bgoglin/lltag) - 自动命令行 mp3/ogg/flac 文件标记器和重命名器.
 * [matchering](https://github.com/sergree/matchering) - 用于自动参考音频母带处理的容器化 Web 应用程序和库.
-* [MusicBrainz](https://musicbrainz.org) - 开放的音乐信息和元数据百科全书，为所有内容提供唯一ID
+* [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - 未来的音频制作平台（硬件支持、API、主机、插件等）
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - 是用于类 Unix 操作系统的安全数字音频提取应用程序（“cd ripper”）.
 * [SoX](http://sox.sourceforge.net/) - 用于播放、转换和操作音频文件的免费开源命令行实用程序.
@@ -66,6 +67,7 @@
 ## Music Notation
 
 * [Abjad](http://abjad.mbrsi.org/) - 基于 Lilypond 的用于形式化分数控制的 Python API.
+* [ChordMark](https://chordmark.netlify.app/) - 基于文本的歌词、和弦和节奏记谱法.
 * [Denemo](http://www.denemo.org/) - 基于 Lilypond 的免费乐谱编辑器.
 * [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - 用于显示乐谱的免费网络应用程序.
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - 不同音乐字体的列表和视觉比较.
@@ -102,7 +104,7 @@
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
 * [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧氏节奏设计的小型 MIDI 音序器 DSL.
 * [Chuck](https://github.com/ccrma/chuck) - 强时序、并发和动态的音乐编程语言.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法合成的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
 * [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐作曲系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.
