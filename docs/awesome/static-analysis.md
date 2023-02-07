@@ -284,7 +284,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="coffeescript">咖啡脚本</h2>
 
 
-- [coffeelint](http://www.coffeelint.org) — 一种有助于保持 CoffeeScript 代码整洁和一致的样式检查器.
+- [coffeelint](https://coffeelint.github.io/) — 一种有助于保持 CoffeeScript 代码整洁和一致的样式检查器.
 
 
 <h2 id="coldfusion">冷聚变</h2>
@@ -679,7 +679,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -1151,7 +1151,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [CodeFlow](https://www.getcodeflow.com)  :copyright: — 处理技术深度的自动代码分析工具. 与 Bitbucket 和 Gitlab 集成.  （开源项目免费）
 
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方法来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方式来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
 
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — 由安全驱动的自动化 SAST 代码审查，支持 15 种以上的语言并包括安全培训.
 
@@ -1281,7 +1281,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [ShiftLeft](https://www.shiftleft.io)  :copyright: — 在您的代码库进入生产环境之前识别它们所特有的漏洞. 利用代码属性图 (CPG) 在单个图形图中同时运行其分析. 自动发现开发中的业务逻辑缺陷，如硬编码秘密和逻辑炸弹
 
-- [ShiftLeft Scan](https://slscan.io)  — Scan 是一个免费的开源 DevSecOps 平台，用于检测源代码和依赖项中的安全问题. 它支持广泛的语言和 CI/CD 管道.
+- [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)  — Scan 是一个免费的开源 DevSecOps 平台，用于检测源代码和依赖项中的安全问题. 它支持广泛的语言和 CI/CD 管道.
 
 - [shipshape](https://github.com/google/shipshape) :warning: — 允许自定义分析器通过通用接口插入的静态程序分析平台.
 
@@ -1524,7 +1524,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 
-- [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在一个开源堆栈上，提供 Docker 图像扫描并创建了 Falco，这是容器、Kubernetes 和云的运行时威胁检测的开放标准. 
+- [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在开源堆栈之上，提供 Docker 图像扫描并创建了 Falco，这是容器、Kubernetes 和云的运行时威胁检测的开放标准. 
 
 - [Vuls](https://vuls.io/) — 基于 NVD、OVAL 等信息的无代理 Linux 漏洞扫描器.它有一些容器图像支持，尽管不是容器特定的工具.
 
@@ -1816,7 +1816,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
-- [Rezilion](https://www.rezilion.com/) :copyright: — 发现您环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建补救计划和开票以升级违反安全策略的组件和/或在 CI 中自动打补丁.
+- [Rezilion](https://www.rezilion.com/) :copyright: — 发现您环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建补救计划和公开票证以升级违反您的安全策略和/或在 CI 中自动修补的组件.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 
@@ -1849,7 +1849,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 <h2 id="support">支持</h2>
 
 
-- [LibVCS4j](https://github.com/uni-bremen-agst/libvcs4j) — 一个 Java 库，它允许现有工具通过为不同的版本控制系统和问题跟踪器提供通用 API 来分析软件系统的演变.
+- [LibVCS4j](https://github.com/uni-bremen-agst/libvcs4j) — 一个 Java 库，通过为不同版本控制系统和问题跟踪器提供通用 API，允许现有工具分析软件系统的演变.
 
 - [Violations Lib](https://github.com/tomasbjerre/violations-lib)  — 用于从静态代码分析中解析报告文件的 Java 库. 由一堆 Jenkins、Maven 和 Gradle 插件使用.
 

@@ -579,7 +579,7 @@
 * [portal](https://github.com/josevalim/portal) - 用于 Elixir 中分布式门户数据传输应用程序的射击容错门.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - 长生不老药/凤凰实施 [RealWorld.io](https://realworld.io/) 后端规格 - 中型克隆.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir 库使用 Pratt Parser 算法来计算骰子掷骰.
-* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行器.
+* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行程序.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix 应用程序可与随机选择的陌生人匿名聊天.
 * [tilex](https://github.com/hashrocket/tilex) - 使用 Phoenix 1.3 构建的 Hashrocket TIL 网站的源代码.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - A command line weather app built using Elixir.
@@ -795,7 +795,7 @@
 * [explode](https://github.com/pkinney/explode) - 一个简单的实用程序，用于在基于插件和基于 Phoenix 的应用程序中响应标准 HTTP/JSON 错误负载.
 * [exvcr](https://github.com/parroty/exvcr) - 受 VCR 启发的 Elixir 的 HTTP 请求/响应记录库.
 * [finch](https://github.com/keathley/finch) - 一个专注于性能的 HTTP 客户端，构建在 Mint 和 NimblePool 之上.
-* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex)  - 用于解析、构建和通配符匹配 URL 的 Elixir 库. 也可用于 [Ruby](https://github.com/gamache/fuzzyurl.rb) 和 [JavaScript](https://github.com/gamache/fuzzyurl.js).
+* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex)  - 用于解析、构建和通配符匹配 URL 的 Elixir 库. 也可用于 [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript](https://github.com/gamache/fuzzyurl.js).
 * [gun](https://github.com/ninenines/gun) - 用于 Erlang/OTP 的 HTTP/1.1、HTTP/2 和 Websocket 客户端.
 * [hackney](https://github.com/benoitc/hackney) - 用 Erlang 编写的简单 HTTP 客户端.
 * [http](https://github.com/slogsdon/http) - Elixir 的 HTTP 服务器.
@@ -912,6 +912,7 @@
 *记录信息和消息.*
 
 * [bunyan](https://github.com/bunyan-logger/bunyan) - Bunyan：长生不老药记录器.
+* [ecto_dev_logger](https://github.com/fuelen/ecto_dev_logger) - Ecto 查询的替代记录器，有助于调试.
 * [exlager](https://github.com/khia/exlager) - 贮藏啤酒的 Elixir 绑定.
 * [exsentry](https://github.com/appcues/exsentry) - 错误记录到 [Sentry](https://getsentry.com/).
 * [gelf_logger](https://github.com/jschniper/gelf_logger) - 将生成 Graylog 扩展日志格式 (GELF) 消息的记录器后端.
@@ -1022,7 +1023,7 @@
 * [onetime](https://github.com/ryo33/onetime-elixir) - Elixir 的一次性键值存储.
 * [pact](https://github.com/BlakeWilliams/pact) - Elixir 中更好的依赖注入，以实现更清晰的代码和测试.
 * [passbook](https://github.com/Bounceapp/ex_passbook) - 用于创建 Apple 钱包 (.pkpass) 文件的 Elixir 库.
-* [phone](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+* [phone](https://github.com/fcevado/phone) - 从电话号码中获取有用信息的解析器.
 * [porcelain](https://github.com/alco/porcelain) - Porcelain 实现了一种更明智的方法来启动 Elixir 的外部操作系统进程并与之通信.
 * [presentex](https://github.com/Cobenian/Presentex) - Elixir 到基于 HTML/JavaScript 的演示框架.
 * [quarantine](https://github.com/leorog/quarantine) - Quarantine 是一个用于功能切换的微型 OTP 应用程序.
@@ -1215,14 +1216,14 @@
 *特殊协议和格式库.*
 
 * [borsh](https://github.com/alexfilatov/borsh) - 长生不老药实施 [BORSH](https://borsh.io) 二进制序列化器.
-* [elixir_radius](https://github.com/bearice/elixir-radius) - 长生不老药上的 RADIUS 协议.
+* [elixir_radius](https://github.com/bearice/elixir-radius) - 关于 Elixir 的 RADIUS 协议.
 * [ex_hl7](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) 是一种旨在以电子方式建模和传输健康相关数据的协议.
 * [ex_marshal](https://github.com/gaynetdinov/ex_marshal) - 在 Elixir 中实现的 Ruby Marshal 格式.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Elixir 中的协议缓冲区，变得简单.
 * [grpc-elixir](https://github.com/tony612/grpc-elixir) - gRPC 的 Elixir 实现.
 * [message_pack](https://github.com/mururu/msgpack-elixir) - Elixir 的 MessagePack 实现.
 * [msgpax](https://github.com/lexmag/msgpax) - Elixir 的 MessagePack（反）序列化器实现.
-* [protox](https://github.com/ahamez/protox) - Elixir implementation for Protocol Buffers.
+* [protox](https://github.com/ahamez/protox) - Protocol Buffers 的 Elixir 实现.
 * [riffed](https://github.com/pinterest/riffed) - 为 Apache Thrift 提供惯用的 Elixir 绑定.
 * [Sippet](https://github.com/balena/elixir-sippet) - 一个 Elixir 库，旨在用作 SIP 协议中间件.
 * [SMPPEX](https://github.com/savonarola/smppex) - Elixir 中的 SMPP 3.4 协议和框架实现.
@@ -1299,7 +1300,7 @@
 * [versionary](https://github.com/sticksnleaves/versionary) - Elixir Plug 和 Phoenix 的 API 版本控制.
 
 ## Search
-*与搜索索引、搜索算法和搜索客户端相关的库.*
+*Libraries related to search indexing, search algorithms and search clients.*
 
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - 用于 Elixir 的简单、严肃的 Elasticsearch 库.
 * [elasticsearch_elixir_bulk_processor](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - 一种高效灵活的插入 Elasticsearch 的方式.
@@ -1578,7 +1579,7 @@
 * [kane](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) - 一个 Keen.io API 客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 用于使用 Google 的 URL Shortener API 创建短 URL 的 Elixir 库.
-* [m2x](https://github.com/attm2x/m2x-elixir)  - 用于 AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  - AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) - MailChimp API 版本 3 的基本 Elixir 包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun 客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - Elixir 的山魈包装纸.
@@ -1851,7 +1852,7 @@
 * [Elixir Sips](http://elixirsips.com/) - 学习 Elixir 的小截屏视频.
 * [ElixirCasts.io](https://elixircasts.io/) - 帮助您学习 Elixir 和 Phoenix 的简单截屏视频.
 * [ExCasts](https://excasts.com) - 所有技能水平的 Elixir 和 Phoenix 截屏视频.
-* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，如“动手 Elixir 和 OTP：加密货币交易机器人”系列.
+* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，例如“Elixir 和 OTP 的实践：加密货币交易机器人”系列.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - 初学者友好，深入，一步一步的截屏.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - 了解如何使用 Phoenix 构建快速、可靠的 Web 应用程序.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - 通过 José Valim 了解 Elixir 的一些特性和概念.
@@ -1885,4 +1886,4 @@
 * [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - 来自 Classpert 在线课程搜索的 Elixir 在线课程列表（有些是免费的）
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) 了解详情.
+请参见 [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) 了解详情.

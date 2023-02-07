@@ -36,7 +36,7 @@
 - [Sitecore.Boost](https://github.com/cardinal252/Sitecore.Boost) - 此存储库包含大量潜在补丁，用于改进 Sitecore 平台的性能改进，其中大部分都在 Sitecore 的生产实例中运行.
 - [Sitecore.Cleanup](https://github.com/martinrayenglish/Sitecore.Cleanup) - 该模块由 3 个代理组成，它们将分别监控事件队列、发布队列和历史表，以确保它们不超过设定的阈值.
 - [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG)  - 来自 SitecoreUML 系列的 Sitecore 模板架构可视化和文档工具. 利用与 StarUML（SitecoreUML 也基于它）关联的开源 API，SitecoreDXG 支持从任何现有的 Sitecore 实例（支持 PaaS 和非 PaaS）生成模板数据模型架构图和 HTML 文档，该实例具有 SitecoreUML Sitecore 服务.
-- [sitecore-assembly-lists](https://github.com/richardszalay/sitecore-assembly-lists) - Sitecore 从 8.2 Update 5 开始为 Sitecore 版本提供汇编列表信息.该项目提供用于验证 Sitecore 汇编列表的工具，包括安装和开发过程.
+- [sitecore-assembly-lists](https://github.com/richardszalay/sitecore-assembly-lists) - 从 8.2 Update 5 开始，Sitecore 开始为 Sitecore 版本提供汇编列表信息.该项目提供用于验证 Sitecore 汇编列表的工具，包括安装和开发过程.
 
 ## Azure
 
@@ -107,9 +107,12 @@
 - [VS Solution Example for Content Hub](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - 一个 Visual Studio 解决方案示例，可下载任何内容中心开发并以此为基础，具有智能感知、脚本同步、调试和单元测试.
 
 
+- [Sitecore.Demo.CHONE](https://github.com/Sitecore/Sitecore.Demo.CHONE) - 由 Sitecore 演示解决方案团队构建的所有 Content Hub ONE 演示的存储库.
+
+
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons)  - 实施 Linq 扩展，以便能够查询在 solr 索引中拦截 GeoJson 多边形的点. 该演示提供了一个带有空间字段的模板，几个示例项目以及来自覆盖某些城市的 openstreetmap 的多边形； 以及从查询字符串中读取纬度和经度并返回找到的项目的多边形的控制器渲染（例如，大本钟的坐标返回伦敦）.
 - [Sitecore Solr Schema](https://github.com/konabos/solr-sitecore-schema) - Solr 8.1.1 和 8.4.0 的 Sitecore 配置集（模式）.
-- [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - A tool for rebuilding search indexes from outside the Sitecore web app especially good for very long-running builds.
+- [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - 一种用于从 Sitecore 网络应用程序外部重建搜索索引的工具，特别适合长时间运行的构建.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell 脚本库有助于在 Windows 上安装 SolrCloud 集群. 
 - [Docker SolrCloud for Sitecore 10](https://github.com/jermdavis/Sitecore-SolrCloud-Docker)  - 创建一个 SolrCloud 容器，该容器可与 Docker 下的 Sitecore 10 实例一起使用. 这些文件已根据 Sitecore Docker 示例存储库中的 Solr 容器文件进行了调整. 可以使用这些文件替换 Sitecore 提供的默认“solr”服务.
 - [Sitecore SolrProxy](https://github.com/Antonytm/Sitecore.SolrProxy) - 如果您只能访问 Sitecore CM，则该工具可轻松访问 Solr 管理控制台.
@@ -120,7 +123,7 @@
 ## Data
 
 - [SitecoreDataImporter](https://github.com/markstiles/SitecoreDataImporter) - 用于将数据库数据和 Sitecore 内容导入 Sitecore.
-- [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - 使用 SPEAK UI 的 Sitecore CMS 数据导入工具.
+- [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - Data Import tool for Sitecore CMS using SPEAK UI.
 
 ## Data Exchange Framework
 
@@ -176,12 +179,12 @@
 ## Fields
 
 - [Sitecore.Foundation.Fields](https://github.com/MartinMiles/Sitecore.Foundation.Fields) - 一组可与您的 Sitecore 解决方案一起使用的自定义字段.
-- [LinkList](https://github.com/josedbaez/Monoco.CMS.FieldTypes) - Sitecore 链接列表字段类型.
+- [LinkList](https://github.com/josedbaez/Monoco.CMS.FieldTypes) - Sitecore LinkList Field Type.
 - [CrossDatabaseTreeListField](https://github.com/ivansharamok/CrossDatabaseTreeListField) - 一个扩展的 Treelist 字段以支持跨数据库引用.
 - [LimitedText Field](https://github.com/ParTech/LimitedText-Field-Controls)  - 向 Sitecore 内容编辑器添加两种新的字段类型，单行文本限制和多行文本限制. 两者都继承了现有文本字段控件的所有功能，并增加了为字段配置最大允许值的可能性，还在用户编辑时通知用户剩余字符数.
 - [CustomFields](https://github.com/AlexanderDavyduk/CustomFields) - NameValueDropLists、NameValueDropListsField、NameValueDroplist、NameValueDroplistField、SortableMultilist、SortableMultilistField、TimeZonesDropList 字段的选择.
 - [YouTube Video Picker Field](https://github.com/pveller/BrainJocks.YouTubeVideoField) - 适用于 Sitecore 的 YouTube 视频选择器字段的完全可行的解决方案.
-- [Hide Dependent Fields Controls](https://github.com/jammykam/Hide-Dependent-Fields)  - 向 Sitecore 内容编辑器添加新的 Checkbox、Droplist 和 Droplink 字段类型，这取决于所选的值将隐藏后续的同级字段. 所有控件都继承自其等效的 Sitecore 对应控件，并添加了所需的 UI 增强功能.
+- [Hide Dependent Fields Controls](https://github.com/jammykam/Hide-Dependent-Fields)  - 向 Sitecore 内容编辑器添加新的 Checkbox、Droplist 和 Droplink 字段类型，这取决于所选的值将隐藏进行中的同级字段. 所有控件都继承自其等效的 Sitecore 对应控件，并添加了所需的 UI 增强功能.
 - [icon-selector-field](https://github.com/Wesley-Lomax/icon-selector-field) - Sitecore 的自定义图标选择器字段.
 - [ImageSelector](https://github.com/markvanaalst/Sitecore.SharedSource.ImageSelector) - Sitecore 的图像选择器字段，允许基于 TreeListEx 字段选择和预览多个图像.
 
@@ -189,7 +192,7 @@
 
 - [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - 向表单创建器添加一些功能，例如发送邮件、时间跨度验证、订阅列表、条件、Azure Blob 存储提供程序等等.
 - [WFFM Conversion Tool](https://github.com/afaniuolo/WFFM-Conversion-Tool) - 一个控制台应用程序，它提供了一个自动化解决方案，用于将 Web Forms For Marketers (WFFM) 项目及其数据转换和迁移到 Sitecore Forms.
-- [SendMail for Experience Forms](https://github.com/KayeeNL/Sitecore.ExperienceForms.Modules.SendMail) - 为 Sitecore 9 Forms 带来了一个新的发送电子邮件操作，允许使用 MainUtil.SendMail 方法提交电子邮件，该方法将使用 SMTP 服务器以 HTML 或纯文本格式提交电子邮件.
+- [SendMail for Experience Forms](https://github.com/KayeeNL/Sitecore.ExperienceForms.Modules.SendMail) - 为 Sitecore 9 Forms 带来了新的发送电子邮件操作，支持使用 MainUtil.SendMail 方法提交电子邮件，该方法将使用 SMTP 服务器以 HTML 或纯文本格式提交电子邮件.
 - [Forms Cloud Upload](https://github.com/jbluemink/Sitecore-Forms-Cloud-Upload) - 使用 Azure Storage Queue 和 Azure Storage Blob 存储 Sitecore 9.3+ Forms 上传加密，使用来自 Azure Key Fault 的密钥 - 一旦用户上传敏感数据，这对于合规性很方便.
 
 ## Frameworks
@@ -290,7 +293,7 @@
 - [BLAZOR + SITECORE](https://github.com/GoranHalvarsson/SitecoreBlazor) - 允许您运行 Sitecore 应用程序的客户端，也遵循 HELIX 概念，干净的方式.
 - [Sitecore.SampleMvc](https://github.com/coreyasmith/Sitecore.SampleMvc) - 开箱即用的 Sitecore 示例站点代码的 MVC 版本（默认情况下，Sitecore 附带一个基于 Web 表单和 XSLT 构建的示例站点）.
 - [Sitecore TokenManager](https://github.com/JeffDarchuk/SCTokenManager) - 旨在允许将任何类型的内容动态注入 RTE 字段的框架.
-- [sxp-notifications](https://github.com/michaellwest/westco-sxp-notifications) - 向 Sitecore 中的用户发送浏览器通知.
+- [sxp-notifications](https://github.com/michaellwest/westco-sxp-notifications) - Sends browser notifications to users in Sitecore.
 - [Sitecore Redis Session Provider](https://github.com/boro2g/Sitecore-Redis-Session-Provider) - Sitecore Redis 会话提供程序实施.
 
 ## Packaging
@@ -312,7 +315,7 @@
 - [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) - 增强的标准发布对话框.
 - [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - 用于在您的 Sitecore Azure PaaS 环境中安装 Sitecore 发布服务的 ARM 模板和用于创建必要的 Web 部署包的脚本.
 - [SIF scripts to install Publishing Service](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell 脚本均使用 Sitecore 安装框架 (SIF) 自动安装发布服务并在 ContentManagement 实例或 StandAlone 实例之上自动安装发布模块. 
-- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) - 允许您监控 Sitecore Publishing CM 服务器上的发布队列，查看其当前状态并在需要时取消发布作业（即排队时间、发布作业开始时间、队列持续时间、发布项目数、平均发布时间）一个项目，来自发布作业的所有消息）.
+- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) - 允许您监控 Sitecore Publishing CM Server 上的发布队列，查看其当前状态并在需要时取消发布作业（即排队时间、发布作业开始时间、队列持续时间、发布项目数、平均发布时间）一个项目，来自发布作业的所有消息）.
 - [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  - 强制发布项目的发布按钮，无论发布限制中项目选项卡上的可发布选项的状态如何.  1) 此功能不会发布您站点中未发布的链接页面，而只会发布媒体库项目和项目字段中使用的数据源等资源，因为这些资源是正确显示您要发布的项目所必需的. 如果尚未完成，此方法甚至会发布当前项目使用的模板和布局.  2) 取消发布按钮使您可以通过单击取消发布项目. 它将更改发布限制，因为它取消选中项目选项卡上的可发布选项，然后使用不带子项目的完整重新发布发布项目.  3) 发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但该项目之后发生了更改，则会显示一个橙色点（因此它已发布，但不是最新的）. 如果当前项根本不存在于发布目标中，则会显示一个红点. 此功能使内容编辑器能够针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
@@ -347,7 +350,7 @@
 ## Serialization
 
 - [Rainbow](https://github.com/SitecoreUnicorn/Rainbow) - Sitecore 的高级序列化库，旨在完全替代 Sitecore 序列化格式和文件系统组织，并支持跨源项目比较.
-- [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) - Sitecore 的实用程序，通过将 Sitecore 项目的序列化副本与代码一起写入磁盘，解决了在 Sitecore 实例之间移动模板、渲染和其他数据库项目的问题——这样，给定代码库的必要数据库项目的副本在源代码管理中伴随它.
+- [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) - Sitecore 的实用程序，通过将 Sitecore 项目的序列化副本与代码一起写入磁盘，解决了在 Sitecore 实例之间移动模板、渲染和其他数据库项目的问题 - 这样，给定代码库的必要数据库项目的副本在源代码管理中伴随它.
 - [Sidekick](https://github.com/JeffDarchuk/SitecoreSidekick) - 基于 angularjs 的微服务架构操作框架.
 - [Rhino](https://github.com/kamsar/Rhino) - Sitecore 的实验性序列化数据提供程序.
 
@@ -423,11 +426,11 @@
 - [Experience Generator](https://github.com/Sitecore/xGenerator) - 为具有可配置模式的 Sitecore 网站生成“逼真的”流量.
 - [xconnect-odata-proxy](https://github.com/ianjohngraham/xconnect-odata-proxy) - 一个简单的 Node.js 代理，用于访问 Sitecore 9 中的 xConnect 的 oData API.
 - [xConnectDeployer](https://github.com/boro2g/xConnectDeployer) - 可用于部署营销自动化引擎的示例控制台应用程序.
-- [Right To Be Forgotten](https://github.com/steviemcg/SitecoreComms.RTBF) - A "Execute Right To Be Forgotten" plugin for Marketing Automation Action.
+- [Right To Be Forgotten](https://github.com/steviemcg/SitecoreComms.RTBF) - 用于营销自动化操作的“执行被遗忘权”插件.
 
 ## XM Cloud
 
 - [Next.js Styleguide for XM Cloud](https://github.com/sitecorelabs/XmCloudNextJsJssStyleguide) - 旨在帮助开发人员学习和快速开始使用 Sitecore 容器、Sitecore Next.js SDK 和 Sitecore 内容序列化的解决方案.
 - [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - 播放 XM Cloud、Content Hub DAm、CMP、Next.js 和 Versel 托管等功能的 Summit 演示.
-- [XM Cloud Starter Kit](https://github.com/sitecorelabs/xmcloud-foundation-head) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
+- [XM Cloud Starter Kit](https://github.com/sitecorelabs/xmcloud-foundation-head) - 旨在帮助开发人员学习并快速开始使用 XMCLoud + SXA + Next.js 的解决方案.
 - [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) - 由 Sitecore 技术营销团队管理的一系列 XM Cloud 站点的代码库：新的 MVP 网站以及 3 个 SUGCON 活动网站.

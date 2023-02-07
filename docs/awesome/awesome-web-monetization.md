@@ -24,7 +24,6 @@
 ---
 
 - [Interledger : Open protocol suite for sending payments across different ledgers](https://interledger.org/)
-- [Coil : Web monetized content in your browser while supporting sites you love in real time.](https://coil.com)
 
 ## How to start monetize my website
 
@@ -32,22 +31,22 @@
 
 <details><summary>有关钱包和提供商帐户的更多详细信息</summary>
 <p>
-  
+
 ---
-  
-  
-| **Wallets** |                                  |                                                         |                                              |                                                      |
-| :---------: | :------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :--------------------------------------------------: |
- | 名称 | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) |           [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/)           | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+
+ |  **钱包** |  |  |  |  |
+| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+ | 名称 | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
  | 费用 | 无 |  SEPA：1.00 欧元 &lt; 50,000 欧元<br>电汇：最低 15 美元（最高 150 美元）|  \$3 取款费 |  |
-  
+
 如果您已经在使用 XRP Tipbot， [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
  |  **付款** |  |
-| ------------ |   --------------------------------------------------------------------------      |
- | 名称 | [![Coil](https://webmonetization.org/img/coil_logo.svg)](https://coil.com/signup) |
+| ------------ | ------ |
+ | 名称 | 空的.  |
 
 ---
+
 </p>
 </details>
 
@@ -96,7 +95,7 @@ _任何包/模块和插件_
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app)  - 项目演示了在 Electron App 中启用网络货币化的基本设置.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/electron.png)
 - [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  - 具有播放和付费政策的网络组件，并根据观看的视频量向您收费.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/)  - 确保 JavaScript Web Monetization API 可用，即使在启用了内容安全策略的环境中也是如此.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
-- [web-monetization-video-ads](https://github.com/thomasbnt/awesome-web-monetization/blob/master/ https://www.npmjs.com/package/web-monetization-video-ads)  - 将 Web Monetization 与视频广告联系起来，以允许为 Web Monetization 实施免费增值业务模型.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
+- [web-monetization-video-ads](https://www.npmjs.com/package/web-monetization-video-ads)  - 将 Web Monetization 与视频广告联系起来，以允许为 Web Monetization 实施免费增值业务模型.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share)  - 通过智能合约自动将资金重新分配给社区.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - 精彩 JavaScript 游戏精选列表！[](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [mediadisclosures](https://github.com/oofdere/mediadisclosures)  - 一个开源的、不断发展的、通用的内容评级系统.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
@@ -126,8 +125,9 @@ _任何包/模块和插件_
 
   &gt;```狂欢
   &gt; npm 安装是-web-货币化-g
-  &gt; 货币化 example.com 
+  &gt; 货币化 example.com
   > ```
+  >
   &gt; 您也可以测试您的网站 [with the dependency](https://github.com/jkga/is-web-monetized#usage).
 
 - [Paytrackr](https://github.com/sorxrob/paytrackr) - 在一个地方跟踪和管理您的小额支付.
@@ -143,7 +143,7 @@ _任何包/模块和插件_
    &gt; Open Monetization Wallet (OMW) 使大规模接受 Web Monetization API 付款变得更加容易. 一些特点：
   >
   &gt; - 自定义钱包 URL：拥有自己的“支付指针”，例如 $wallet.signalnerve.com，而不是 $pay.stronghold.co/abcdef123
-  &gt; - 无需停机即可在钱包/供应商之间切换
+  > - Change between wallets/providers with no downtime
   &gt; - 收到付款请求的日志
   &gt; - 多个钱包之间的收入共享，例如多个团队成员
   &gt; - 使用无服务器技术无限扩展
@@ -166,13 +166,13 @@ _任何包/模块和插件_
 
 如果要添加新的小图标，高度必须是**16px**. 放入 `assets/small_icons/NAME.png`. 只接受 PNG 格式.
 
-## Donate 
+## Donate
+
 随时提供帮助 [me](https://github.com/thomasbnt) 为了维护这个项目！
 感谢所有 **GitHub 上的赞助商**！
 
 [![Github Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)](https://github.com/sponsors/thomasbnt)
 
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-white?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=%23FFDD00)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)
-
 
 [![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://netlify.com)
