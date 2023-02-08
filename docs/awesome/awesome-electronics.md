@@ -39,6 +39,9 @@
 
 ## Documentation
 - [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Inkscape 的电路图符号
+- [Tabula](http://tabula.ondata.it/) - 从 pdf 中提取表格数据，对于从数据表中提取引脚表或零件特性非常有用.
+- [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - 从绘图、图表等中提取数据，对于从数据表中获取零件性能曲线非常有用.
+- [WaveDrom](https://wavedrom.com/) - 从 JSON 描述文件创建波形和时序图.
 
 ## Simulators
 
@@ -82,7 +85,7 @@
 - [Eagle](https://www.autodesk.com/products/eagle/overview) - 最受欢迎的 EDA 软件包之一，因为它是（电路板尺寸受限的）免费版本.
 - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - 没有限制的免费 EDA 包，由 RS Components 赞助.
 - [Altium CircuitMaker](https://circuitmaker.com/) - 来自 go to pro 软件制造商的免费软件包.
-- [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
+- [gEDA](http://geda-project.org) - 另一个开源包，适合喜欢脚本和 makefile 的人，仅限 Linux 和 BSD.
 - [DipTrace](https://diptrace.com) - 具有（引脚和信号层限制）免费版本的优质原理图捕获和 PCB 设计软件.
 - [LibrePCB](https://librepcb.org/) - 一个新的、强大的和直观的 EDA 工具，适用于所有人、跨平台和 GNU GPLv3.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) - 一款专注于快捷操作的免费开源EDA工具.
@@ -134,7 +137,7 @@
 - [1-click BOM](https://kitspace.org/1-click-bom/) - 自动购买和零件搜索的浏览器扩展.
 - [PartsBox](https://partsbox.io) - Web 服务通过漂亮的用户界面和 Octopart 集成来管理您的零件库存.
 - [PartKeepr](https://partkeepr.org) - 用于通过参数搜索和自动数据表导入管理零件库存的开源 Web 服务.
-- [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+- [Part-DB](https://github.com/Part-DB/Part-DB) - 另一个开源网络服务，用于使用许可系统和良好的条形码生成器管理零件库存.
 
 ## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com)  - 带有免费符号和足迹的零件库.  （兼容 Eagle、KiCad、Altium、OrCad、Allegro 等）
@@ -147,7 +150,7 @@
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - 可能是最受欢迎的博客，涵盖电子和硬件黑客技术，拥有全体作者.
-- [bunniestudios.com](https://www.bunniestudios.com) - Andrew &#39;Bunnie&#39; Huang 涵盖硬件黑客、开放硬件、制造等.
+- [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
 - [Bald Engineer](https://www.baldengineer.com) - James Lewis 撰写的有关电子和嵌入式软件的项目日志、教程和文章.
 - [Rheingold Heavy](https://rheingoldheavy.com) - 更多关于电子和嵌入式软件的项目日志、教程和文章，这些是 Dan Hienzsch 的文章.
 - [Hackster.io](https://www.hackster.io/news) - 另一个涵盖电子产品的博客.
@@ -158,7 +161,7 @@
 ## Forums
 
 ### Discussion
-- [EEVBlog forum](https://www.eevblog.com/forum/) - 可能是讨论电子工程主题的最大和最活跃的论坛.
+- [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
 - [/r/electronics](https://www.reddit.com/r/electronics/) 和 [/r/ECE](https://www.reddit.com/r/ECE/) 是 EE 主题的两个最活跃的子版块.
 
 ### Help

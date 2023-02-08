@@ -216,6 +216,7 @@ Services:
  - [Moon Modeler](http://www.datensen.com/) - MongoDB 和关系数据库的数据建模工具
  - [NoSQLBooster](https://nosqlbooster.com) - 功能丰富但易于使用的跨平台 IDE（以前称为 MongoBooster）
  - [QueryAssist](https://queryassist.com) - 现代而强大的 GUI 工具，跨平台且易于使用
+ - [Studio 3T](https://studio3t.com/) - 跨平台图形用户界面，稳定而强大（以前是 MongoChef 和 Robo 3T）
  - [TablePlus](https://tableplus.com/) - macOS 上的原生轻量级 GUI
 
 ### Development
