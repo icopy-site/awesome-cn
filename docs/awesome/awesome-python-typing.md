@@ -106,6 +106,7 @@
 
 - [autotyping](https://github.com/JelleZijlstra/autotyping) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [infer-types](https://github.com/orsinium-labs/infer-types) - 用于自动推断类型注释并将其添加到 Python 代码中的 CLI 工具.
+- [jsonschema-gentypes](https://github.com/camptocamp/jsonschema-gentypes) - 根据 JSON 模式中的 TypedDict 生成 Python 类型.
 - [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据在运行时观察到的调用参数和返回类型，将注释插入到您的源代码中.
 - [PyTypes](https://github.com/pvs-hd-tea/PyTypes) - 通过 Python 跟踪推断类型.

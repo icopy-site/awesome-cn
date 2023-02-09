@@ -25,7 +25,7 @@
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
-* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
+* [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型 Web 分析.
 * [PoeticMetric](https://poeticmetric.com/) - 隐私至上、合规、速度极快的分析工具.
 * [Plausible](https://plausible.io/) - 简单、隐私友好且开源的网络分析工具.
@@ -76,6 +76,7 @@
 * [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
 * [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放.
 * [upstash](https://upstash.com/) - 无服务器定制的 redis 供应商.
+- [Apitable](https://apitable.com/) - 面向 API 的 Airtable 替代品.
 
 ## Debugging 
 *有助于跟踪错误的工具.*
@@ -120,7 +121,7 @@
 * [Ubiq](https://www.ubiqsecurity.com/) - 具有秘密管理功能的加密 API
 
 ## Feature Flags
-*使用代码中的条件标志控制生产功能.*
+*Control production features with conditional flags in your code.*
 * [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
 * [split](https://www.split.io/) - 具有数据分析功能的标志平台.
 * [Flagsmith](https://flagsmith.com/) - 简化了功能标志即服务平台.

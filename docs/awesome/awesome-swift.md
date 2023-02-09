@@ -4,7 +4,7 @@
  
 <!-- 
 
-请不要更新此文件，而是更新 CONTENTS.JSON. 谢谢你 ：-）
+请不要更新此文件，而是更新 CONTENTS.JSON. 谢谢 ：-）
 
  -->
 
@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 太棒了 |  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1033 | January 13, 2023
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  ：企鹅：|  1034 |  2023 年 2 月 9 日
 
 
 
@@ -144,7 +144,7 @@
 * [xcodeproj](https://github.com/tuist/xcodeproj) - 用于读取、更新和编写 Xcode 项目和工作区的库.
 
 ## Libs
-*Here you can find a list of snippets and libs for your Swift projects.* 
+*在这里您可以找到您的 Swift 项目的片段和库列表.* 
 
 ### Accessibility
 [back to top](#readme) 
@@ -219,7 +219,7 @@
 * [Linker](https://github.com/MaksimKurpa/Linker) - 处理 iOS 内部和外部深度链接的轻量级方法.
 * [MonarchRouter](https://github.com/nikans/MonarchRouter)  - 声明式状态和基于 URL 的路由器. 复杂的自动视图控制器层次结构转换. 经过时间考验的服务器端约定.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow 是一个基于 Reactive Flow Coordinator 模式的 iOS 应用程序导航框架.
-* [SwiftCurrent](https://github.com/wwt/SwiftCurrent)  - 在可以构建 Swift 的任何地方管理复杂的工作流程. 它内置了对 UIKit、故事板和 SwiftUI 的支持.
+* [SwiftCurrent](https://github.com/wwt/SwiftCurrent)  - 在可以构建 Swift 的任何地方管理复杂的工作流. 它内置了对 UIKit、故事板和 SwiftUI 的支持.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于 iOS 的 URL 路由器.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - 优雅的 URL 路由.
 
@@ -228,7 +228,7 @@
 
 * [Apphud](https://github.com/apphud/ApphudSDK) - 轻量级库，无需后端即可轻松处理自动续订订阅.
 * [AppReview](https://github.com/mezhevikin/AppReview) - 一个通过 SKStoreReviewController 请求在 AppStore 上进行审查的小型库.
-* [InAppPurchase](https://github.com/jinSasaki/InAppPurchase) - 用于应用内购买的简单、轻量级和安全框架.
+* [InAppPurchase](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 * [merchantkit](https://github.com/benjaminmayo/merchantkit) - 适用于 iOS 的现代应用内购买管理框架.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - 轻量级应用内购买框架.
 
@@ -251,7 +251,7 @@
 ### Augmented Reality
 [back to top](#readme) 
 
-* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level framework for using $5 Google Cardboard to replicate Microsoft Hololens.
+* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - 使用 5 美元 Google Cardboard 复制 Microsoft Hololens 的高级框架.
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - 将 AR 的高精度与 GPS 数据的规模相结合.
 * [ARKit-Navigation](https://github.com/chriswebb09/ARKitNavigationDemo) - 使用 MapKit 在增强现实中导航.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - 捕捉和录制 ARKit 视频、照片、实况照片和 GIF.
@@ -382,7 +382,7 @@
 #### Firebase
 [back to top](#readme) 
 
-* [Ballcap](https://github.com/1amageek/Ballcap-iOS) - Ballcap 是 Cloud Firestore 的数据库模式设计框架.
+* [Ballcap](https://github.com/1amageek/Ballcap-iOS) - Ballcap is a database schema design framework for Cloud Firestore.
 
 #### GraphQL
 [back to top](#readme) 
@@ -504,7 +504,7 @@
 ### Date
 *轻松处理日期格式.* [back to top](#readme) 
 
-* [AnyDate](https://github.com/Kawoou/AnyDate) - 受 Java 8 DateTime API 启发的日期和时间 API.
+* [AnyDate](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
 * [Chronology](https://github.com/davedelong/time) - 构建更好的日期/时间库.
 * [DateHelper](https://github.com/melvitax/DateHelper) - 简单的约会助手.
 * [Datez](https://github.com/SwiftKitz/Datez) - 用于处理“NSDate”、“NSCalendar”、“NSDateComponents”和“NSTimeInterval”的库.
@@ -580,12 +580,12 @@
 * [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 用于反应式和单向应用程序架构的框架.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - 微软响应式扩展 (Rx).
-* [Signals](https://github.com/artman/Signals) - 替换委托和通知.
+* [Signals](https://github.com/artman/Signals) - 替换代表和通知.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 针对 iOS 优化的发布/订阅事件总线.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - 受 Redux 和 MVVM 启发的 iOS 开发整体方法.
 * [Tokamak](https://github.com/TokamakUI/Tokamak) - 类似 React 的声明式 API，用于构建具有易于使用的单向数据绑定的本机 UI 组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) - 轻量级承诺.
-* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - 发布-订阅设计模式实现框架，能够按主题发布事件.
+* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic.
 * [VueFlux](https://github.com/ra1028/VueFlux) - 单向数据流状态管理架构 - 受 Vuex 和 Flux 启发.
 * [When](https://github.com/vadymmarkov/When) - Promises 的轻量级实现.
 
@@ -692,7 +692,7 @@
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) - AlamofireImage 是 Alamofire 的图像组件库.
 * [APNGKit](https://github.com/onevcat/APNGKit) - 在 iOS 中使用 APNG 格式的高性能和令人愉快的方式.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - 具有多种预定义过渡样式的图像幻灯片查看器，并且能够轻松创建新的过渡.
-* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - iPhone/iPad 照片库查看器，可用于查看大量（或少量！）照片.
 * [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) - 独特的块状标识/个人资料图片生成器.
 * [Brightroom](https://github.com/muukii/Brightroom) - 使用 CoreImage 的图像编辑器和引擎.
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 显示带有触摸或基于运动的控件的球形或圆柱形全景图的库.
@@ -709,7 +709,7 @@
 * [ImageDetect](https://github.com/Feghal/ImageDetect) - 使用 iOS 11 Vision API 检测和裁剪图像中的人脸、条形码和文本.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) - 适用于 iOS 的轻量级快速图像加载器.
 * [ImageScout](https://github.com/kaishin/ImageScout) - 实施 [fastimage](https://pypi.org/project/fastimage/0.2.1/) - 支持 PNG、GIF 和 JPEG.
-* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - 图像查看器 à la Twitter.
+* [ImageViewer](https://github.com/Krisiacik/ImageViewer) - 类似 Twitter 的图像查看器.
 * [ImgixSwift](https://github.com/imgix/imgix-swift) - 轻松更新图像 url 以快速响应.
 * [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) - 一个 UIImageView 允许您在其上添加多个标签（支持多行文本），您可以用一根手指根据需要编辑、旋转、调整标签大小，然后在图像上渲染文本.
 * [Kanvas](https://github.com/tumblr/kanvas-ios) - 一个 iOS 库，用于添加效果、绘图、文本、贴纸，以及从现有媒体或相机制作 GIF.
@@ -792,7 +792,7 @@
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints) - TinyConstraints 是使自动布局更适合人类使用的语法糖.
 
 ### Localization
-*Frameworks that helps with localizing your app* [back to top](#readme) 
+*有助于本地化您的应用程序的框架* [back to top](#readme) 
 
 * [BartyCrouch](https://github.com/FlineDev/BartyCrouch) - 从代码和故事板/XIB 中增量更新/翻译您的字符串文件.
 * [CrowdinSDK](https://github.com/crowdin/mobile-sdk-ios) - 立即将 Crowdin 项目的所有新翻译交付给应用程序.
@@ -953,10 +953,11 @@
 
 * [AnyLint](https://github.com/Flinesoft/AnyLint) ：penguin： - 通过结合 Swift 和正则表达式的力量来检查任何东西.
 * [IBLinter](https://github.com/IBDecodable/IBLinter) - Interface Builder 的 linter 工具.
+* [L10nLint](https://github.com/s2mr/L10nLint) - Localizable.strings 的 linter 工具.
 * [swift-mod](https://github.com/ra1028/swift-mod) - 在代码生成和格式化之间进行 Swift 代码修改的工具.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) - 受 Ruby On Rails Active Record 验证清晰度启发的验证库.
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - 用于重新格式化 Swift 代码的代码库和命令行格式化工具.
-* [SwiftLint](https://github.com/realm/SwiftLint) - 一种强制执行编码约定的工具.
+* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 * [Swimat](https://github.com/Jintin/Swimat) - 用于格式化代码的 Xcode 插件.
 * [Tailor](https://github.com/sleekbyte/tailor) ：penguin： - 跨平台静态分析器，可帮助您编写更清晰的代码并避免错误.
 
@@ -1434,7 +1435,7 @@
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView)  - 优雅的屏幕幻灯片库. 它对制作 Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders 非常有帮助.
 * [Gliding Collection](https://github.com/Ramotion/gliding-collection) - 滑动集合是 UICollectionView 控制器的平滑、流畅、可定制的决定.
 * [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - 标准 UICollectionView 流布局的漂亮替代品.
-* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - iOS 自定义视图以显示书架上的书籍.
+* [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) - 用于显示书架上书籍的 iOS 自定义视图.
 * [SimpleSource](https://github.com/Squarespace/simple-source ) - 简单且类型安全的 iOS 表格和集合视图.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - 完全可定制的电子表格 CollectionViewLayout.
 * [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - 带有左对齐、居中对齐和右对齐的标签的 UICollectionView 布局.
