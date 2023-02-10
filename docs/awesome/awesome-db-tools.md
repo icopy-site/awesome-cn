@@ -86,7 +86,7 @@
 - [iredis](https://github.com/laixintao/iredis) - 具有自动完成和语法突出显示功能的 Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - 类似顶级的 PostgreSQL 管理工具.
 - [pg_activity](https://github.com/julmon/pg_activity) - 用于 PostgreSQL 服务器活动监控的顶级应用程序.
-- [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的“顶级”.
+- [pg_top](https://github.com/markwkm/pg_top) - PostgreSQL 的顶级.
 - [pspg](https://github.com/okbob/pspg) - Postgres 寻呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer 命令行 (SQLcl) 是 Oracle 数据库的免费命令行界面.
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - 用于操作 SQLite 数据库文件的 CLI 工具 - 插入数据、运行查询、创建索引、配置全文搜索等等.
@@ -116,7 +116,7 @@
 - [pg-osc](https://github.com/shayonj/pg-osc) - 用于在 PostgreSQL 中进行零停机模式更改和回填的简单 CLI 工具.
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明性数据库架构迁移工具，使用声明性数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供实用程序以将 PostgreSQL 数据库模式描述为 YAML.
-- [Reshape](https://github.com/fabianlindfors/reshape) - 一种易于使用、零停机时间的 Postgres 架构迁移工具.
+- [Reshape](https://github.com/fabianlindfors/reshape) - 一种易于使用、零停机时间的 Postgres 模式迁移工具.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
 - [Skeema](https://github.com/skeema/skeema) - 用于 MySQL 和 MariaDB 的声明式纯 SQL 模式管理系统，支持分片和外部在线模式更改工具.
 - [Sqitch](https://github.com/sqitchers/sqitch) - 用于无框架开发和可靠部署的明智的数据库原生变更管理.
@@ -173,13 +173,14 @@
 用于应用程序构建的低代码和无代码平台
 - [Appsmith](https://github.com/appsmithorg/appsmith) - 强大的开源低代码框架，可真正快速地构建内部应用程序.
 - [Budibase](https://github.com/Budibase/budibase) - 用于在几分钟内创建内部应用程序的低代码平台.
+- [ILLA Cloud](https://github.com/illacloud/illa-builder) - 低代码内部工具构建平台.
 - [Nhost](https://github.com/nhost/nhost) - 带有 GraphQL 的开源 Firebase 替代方案.
 - [Saltcorn](https://github.com/saltcorn/saltcorn)  - 用于 Web 数据库应用程序的开源无代码生成器. 服务器和拖放式 UI 构建器，数据存储在 PostgreSQL 或 SQLite 中.
 - [Tooljet](https://github.com/ToolJet/ToolJet) - 用于构建内部工具的开源低代码平台.
 
 
 ## Backup
-- [BaRMan](https://github.com/2ndquadrant-it/barman) - PostgreSQL 的备份和恢复管理器.
+- [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - 可靠的 PostgreSQL 备份和恢复.
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - 将 Postgres 数据库复制到目标 Postgres 服务器（pg_dump | pg_restore on steroids）.
 
@@ -351,7 +352,7 @@ SQL 的学习和谜题
 - [pg-utils](https://github.com/dataegret/pg-utils) - 有用的 PostgreSQL 实用程序.
 - [Postgres cheat sheet](https://postgrescheatsheet.com)  - 有用的 SQL 脚本和命令<timescale.com> .
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) - 缺少对 Postgres DBA 和所有工程师有用的工具集.
-- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
+- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - 有用的 PostgreSQL 查询和命令.
 - [TPT](https://github.com/tanelpoder/tpt-oracle) - 这些 sqlplus 脚本用于 Oracle 数据库性能优化和故障排除.
 
 

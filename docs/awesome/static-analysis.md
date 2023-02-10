@@ -144,7 +144,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [CPAchecker](https://cpachecker.sosy-lab.org)  — 用于 C 程序的可配置软件验证的工具. 选择 CPAchecker 这个名称是为了反映该工具基于 CPA 概念并用于检查软件程序.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
+- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -232,7 +232,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) — 测量 C 文件的大小和复杂性.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
+- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -323,7 +323,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 - [Pascal Expert](https://peganza.com/products_pex.html)  :copyright: — 用于代码分析的 IDE 插件. 包括一部分 Pascal Analyzer 报告功能，适用于 Delphi 2007 及更高版本.
 
 
-<h2 id="dlang">党</h2>
+<h2 id="dlang">Dlang</h2>
 
 
 - [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是分析D 源代码的工具.
@@ -344,7 +344,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [elm-analyse](https://stil4m.github.io/elm-analyse) — 一种允许您分析 Elm 代码、识别缺陷并应用最佳实践的工具.
 
-- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — Analyzes whole Elm projects, with a focus on shareable and custom rules written in Elm that add guarantees the Elm compiler doesn't give you.
+- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) — 分析整个 Elm 项目，重点关注用 Elm 编写的可共享和自定义规则，这些规则增加了 Elm 编译器不会给你的保证.
 
 
 <h2 id="erlang">二郎</h2>
@@ -434,7 +434,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 - [govulncheck](https://go.dev/blog/vuln)  — Govulncheck 报告影响 Go 代码的已知漏洞. 它使用源代码或二进制符号表的静态分析来缩小报告范围，仅报告可能影响应用程序的报告.
 默认情况下，govulncheck 向 https://vuln.go.dev 上的 Go 漏洞数据库发出请求. 对漏洞数据库的请求仅包含模块路径，不包含代码或程序的其他属性.
 
-- [ineffassign](https://github.com/gordonklaus/ineffassign) — Detect ineffectual assignments in Go code.
+- [ineffassign](https://github.com/gordonklaus/ineffassign) — 检测 Go 代码中无效的赋值.
 
 - [interfacer](https://github.com/mvdan/interfacer) :warning: — 建议可以使用的更窄的接口.
 
@@ -464,7 +464,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [structslop](https://github.com/orijtech/structslop) — Go 的静态分析器，建议结构字段重新排列以提供最大的空间/分配效率
 
-- [test](http://golang.org/pkg/testing) — 显示 stdlib 测试模块中测试失败的位置.
+- [test](http://golang.org/pkg/testing) — Show location of test failures from the stdlib testing module.
 
 - [unconvert](https://github.com/mdempsky/unconvert) — 检测冗余类型转换.
 
@@ -506,7 +506,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Checker Framework](https://checkerframework.org) — Java 的可插入类型检查.
 
-- [checkstyle](https://checkstyle.org) — Checking Java source code for adherence to a Code Standard or set of validation rules (best practices).
+- [checkstyle](https://checkstyle.org) — 检查 Java 源代码是否遵守代码标准或验证规则集（最佳实践）.
 
 - [ck](https://github.com/mauricioaniche/ck) — 通过处理源 Java 文件计算 Chidamber 和 Kemerer 面向对象的指标.
 
@@ -527,7 +527,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  — 检测并禁止调用特定方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
 
-- [google-java-format](https://github.com/google/google-java-format) — 谷歌样式重新格式化.
+- [google-java-format](https://github.com/google/google-java-format) — 重新格式化 Java 源代码以符合 Google Java 样式
 
 - [HuntBugs](https://github.com/amaembo/huntbugs) :warning: — 基于 Procyon 编译器工具的字节码静态分析器工具，旨在取代 FindBugs.
 
@@ -597,7 +597,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [tern](https://ternjs.net) — 一个 JavaScript 代码分析器，用于深入的跨编辑器语言支持.
 
-- [TypL](https://typl.dev) — 使用 TypL，您只需编写完全标准的 JS，该工具会通过强大的推理来确定您的类型.
+- [TypL](https://typl.dev) — With TypL, you just write completely standard JS, and the tool figures out your types via powerful inferencing.
 
 - [xo](https://github.com/xojs/xo)  — 自以为是但可配置的 ESLint 包装器，其中包含许多好东西. 执行严格且可读的代码.
 
@@ -772,7 +772,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="perl">Perl</h2>
 
 
-- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer 是一组程序和模块，允许用户通过提供有关名称空间及其关系、依赖关系、继承和在包中实现、继承和重新定义的方法以及对方法的调用的信息来分析和可视化 Perl 代码库通过 SUPER 从父包中获取. 
+- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER. 
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — 批判 Perl 源代码以获得最佳实践.
 
@@ -853,7 +853,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [vulture](https://github.com/jendrikseipp/vulture) — 在 Python 代码中查找未使用的类、函数和变量.
 
-- [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — 有史以来最严格、最自以为是的 Python linter.
+- [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
 
 - [wily](https://github.com/tonybaloney/wily) — 用于存档、探索和绘制 Python 源代码复杂性的命令行工具.
 
@@ -1063,7 +1063,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [Nagelfar](https://sourceforge.net/projects/nagelfar) — Tcl 的静态语法检查器.
 
-- [tclchecker](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — A static syntax analysis module (as part of [TDK](https://github.com/ActiveState/tdk)).
+- [tclchecker](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — 静态语法分析模块（作为 [TDK](https://github.com/ActiveState/tdk)).
 
 
 <h2 id="typescript">打字稿</h2>
@@ -1330,7 +1330,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [ThreatMapper](https://github.com/deepfence/ThreatMapper)  — 运行时容器、无服务器和主机的漏洞扫描程序和风险评估.  ThreatMapper 从依赖项和操作系统包生成运行时 BOM，匹配多个威胁源，扫描未受保护的秘密，并根据严重性和利用风险对问题进行评分.
 
-- [todocheck](https://github.com/preslavmihaylov/todocheck) — 用于将带注释的 TODO 与问题跟踪器集成的 Linter
+- [todocheck](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
 
 - [trivy](https://github.com/aquasecurity/trivy)  — 一个简单而全面的容器和其他工件的漏洞扫描器，适用于 CI.  Trivy 检测操作系统包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
@@ -1639,7 +1639,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2 id="kubernetes">库伯内斯</h2>
 
 
-- [chart-testing](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
+- [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 
 - [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行通用和平台特定的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入式工具.  Clusterlint 不会改变资源配置.
 
@@ -1757,7 +1757,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - [standard](http://standardjs.com) — 检查 Javascript Styleguide 问题的 npm 模块.
 
 
-<h2 id="package">Packages</h2>
+<h2 id="package">套餐</h2>
 
 
 - [lintian](https://lintian.debian.org) — Debian 软件包的静态分析工具.
@@ -1848,7 +1848,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [mythril](https://github.com/ConsenSys/mythril) — 一个包含电池的符号执行框架，可用于自动查找和利用智能合约中的漏洞.
 
-- [MythX](https://mythx.io) :copyright: — MythX is an easy to use analysis platform which integrates several analysis methods like fuzzing, symbolic execution and static analysis to find vulnerabilities with high precision. It can be integrated with toolchains like Remix or VSCode or called from the command-line.
+- [MythX](https://mythx.io)  :copyright: — MythX 是一个易于使用的分析平台，它集成了多种分析方法，如模糊测试、符号执行和静态分析，以高精度发现漏洞. 它可以与 Remix 或 VSCode 等工具链集成，也可以从命令行调用.
 
 - [slither](https://github.com/trailofbits/slither) — 运行一套漏洞检测器的静态分析框架，打印关于合约细节的视觉信息，并提供一个 API 来轻松编写自定义分析.
 
@@ -1910,7 +1910,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [After the Deadline](https://open.afterthedeadline.com) :warning: — 拼写、风格和语法检查器.
 
-- [alex](https://alexjs.com) — Catch insensitive, inconsiderate writing
+- [alex](https://alexjs.com) - 捕捉麻木不仁，不体贴的写作
 
 - [codespell](https://github.com/codespell-project/codespell) — 检查代码中常见的拼写错误.
 
@@ -1943,7 +1943,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 ## More Collections
 
-- [Clean code linters](https://github.com/collections/clean-code-linters) — github collections 中的 linter 集合
+- [Clean code linters](https://github.com/collections/clean-code-linters) — A collection of linters in github collections
 - [Code Quality Checker Tools For PHP Projects](https://github.com/collections/code-quality-in-php) — github collections 中的 PHP linters 集合
 - [go-tools](https://github.com/dominikh/go-tools) — 用于处理 Go 代码的工具和库的集合，包括 linters 和静态分析
 - [linters](https://github.com/mcandre/linters) — 介绍静态代码分析

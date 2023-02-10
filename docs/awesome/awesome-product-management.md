@@ -12,7 +12,7 @@
 ## Tools
 ### OneNote
 
-高效的笔记记录和卓越的组织能力. 与基于团队的工作流轻松集成，其中来自同一笔记本的笔记可以与许多人共享.
+高效的笔记记录和卓越的组织能力. 与基于团队的工作流程轻松集成，其中来自同一笔记本的笔记可以与许多人共享.
 
 ![OneNote](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-onenote.gif)
 
@@ -241,7 +241,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - 经过 [Hubert Palan](https://twitter.com/hpalan).
 - [How to Calculate Customer Lifetime Value](https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value) - 经过 [Clint Fontanella](https://twitter.com/ClontFont).
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 格伦·吉伦.
-- [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/product-management-2/jobs-cat/remote-product-manager/) - 经过 [Roy Cobby](https://twitter.com/roycobby).
+- [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - 经过 [Roy Cobby](https://twitter.com/roycobby).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://twitter.com/christineitwaru).
 - [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
 - [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - 经过 [Ken Norton](https://www.bringthedonuts.com/).

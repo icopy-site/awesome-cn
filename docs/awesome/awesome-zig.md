@@ -64,6 +64,7 @@
 * [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck 翻译.
 * [dantecatalfamo/mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) 绑定.
 * [dantecatalfamo/wren-zig](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) 绑定.
+* [fubark/cyber](https://github.com/fubark/cyber) - 快速并发脚本.
 
 
 ## Database
@@ -165,7 +166,7 @@
 * [ducdetronquito/requestz](https://github.com/ducdetronquito/requestz) - 基于 h11 的 HTTP 客户端.
 * [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - 受 hyper/h11 启发的无 I/O HTTP/1.1 实现.
 * [lun-4/ziget](https://github.com/lun-4/ziget) - 没有 libc 的简单 wget.
-* [Vexu/routez](https://github.com/Vexu/routez) - HTTP 服务器.
+* ~~[Vexu/routez](https://github.com/Vexu/routez) - HTTP 服务器.~~
 * [frmdstryr/zhp](https://github.com/frmdstryr/zhp) - 功能强大的 HTTP 服务器.
 * [axgdev/telegram_echobot_zig](https://github.com/axgdev/telegram_echobot_zig) - 电报回声机器人.
 

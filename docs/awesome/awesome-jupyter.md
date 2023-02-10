@@ -70,6 +70,7 @@
 ## Visualization
 
 - [Altair](https://github.com/altair-viz/altair) - Python 的声明式可视化库，基于 [Vega](http://vega.github.io/vega) 和 [Vega-Lite](https://github.com/vega/vega-lite).
+- [anywidget](https://anywidget.dev) - 一个 Python 库，可简化创建和发布自定义 Jupyter 小部件的过程. 
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 针对现代网络浏览器进行演示的交互式可视化库.
 - [bqplot](https://github.com/bloomberg/bqplot) - Jupyter 基于图形的交互式绘图框架的语法.
 - [Evidently](https://github.com/evidentlyai/evidently) - 用于在验证或生产监控期间分析机器学习模型的交互式报告.
@@ -154,7 +155,7 @@
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
-- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元格完成浏览器通知.
+- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
 - [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - 对 JupyterLab 的 TensorBoard 支持.
 - [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - 在 JupyterLab 中自动对笔记本进行版本控制.
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
@@ -175,7 +176,7 @@
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - 显示系统指标的扩展.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI 自动完成扩展.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - Jupyterlab 的漂亮 Darcula 主题.
-- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+- [toc](https://github.com/jupyterlab/jupyterlab-toc) - 为笔记本提供目录的扩展.
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) - JupyterLab 的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - 显示变量及其值的变量检查器扩展.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim 笔记本单元绑定.
