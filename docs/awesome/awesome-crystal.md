@@ -267,7 +267,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Rosetta](https://github.com/wout/rosetta) - 一个快速国际化 (i18n) 库，具有支持 YAML 和 JSON 格式的编译时密钥查找
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
+ * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) 帮助自动生成仪表板的库
  * [fiber_metrics.cr](https://github.com/didactic-drunk/fiber_metrics.cr) - 跟踪每个“Fiber”、方法或块的运行时间、等待时间或内存分配
  * [Log](https://crystal-lang.org/api/Log.html) - 日志实用程序（Crystal stdlib）
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) 客户端库
@@ -299,6 +299,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [immutable](https://github.com/lucaong/immutable) - 线程安全、持久、不可变集合的实现
  * [iterm2](https://github.com/toddsundsted/iterm2) - 使用 ITerm2 内联图像协议在终端内显示图像
  * [monads](https://github.com/alex-lairan/monads) - 单子执行
+ * [observable](https://github.com/TPei/observable) - 观察者模式的实现
  * [pinger](https://github.com/spider-gazelle/pinger) - 无需 sudo 即可 Ping IP 地址和 DNS 条目
  * [port_midi](https://github.com/jimm/crystal_port_midi) - PortMIDI 跨平台 MIDI I/O 库的 Crystal C 绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 重试失败代码块的简单 DSL
@@ -310,7 +311,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - 文件名清理
 
 ## Network Protocols
- * [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr)  - AMQP 0-9.1，一种消息传递协议，由例如实现. 兔MQ
+ * [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr)  - AMQP 0-9.1，一种消息传递协议，由例如实现.  RabbitMQ
  * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) - HTTP 隧道/HTTP 代理的连接方法样式
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber 库
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC 协议实现（客户端、服务器、机器人）
@@ -418,7 +419,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - 单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - Crystal 模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) - 规范框架（Crystal stdlib）
- * [spectator](https://gitlab.com/arctic-fox/spectator) - Feature rich spec framework that uses the modern expect syntax
+ * [spectator](https://gitlab.com/arctic-fox/spectator) - 使用现代期望语法的功能丰富的规范框架
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)  - 用于模拟 `Time.now` 的库. 灵感来自 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) - 水晶的 HTTP 捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  - 页面对象库. 灵感来自 Ruby  [WatirPump](https://github.com/bwilczek/watir_pump)
@@ -510,7 +511,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [icr](https://github.com/crystal-community/icr) - Crystal 的交互式控制台（如 Ruby 的 IRB）
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
@@ -533,7 +534,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [crystal-mode](https://melpa.org/#/crystal-mode) - Emacs 的 Crystal 语言支持 ([crystal-lang-tools/emacs-crystal-mode](https://github.com/crystal-lang-tools/emacs-crystal-mode))
  * 吉尼
    * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) - 水晶支持 [Geany editor](https://www.geany.org/)
- * 太空人
+ * 精简版-XL
+   * [lite-plugin-crystal](https://github.com/Tamnac/lite-plugin-crystal) - 水晶支持 [Lite-XL](https://lite-xl.com/en/) 编辑
+ * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - 水晶的 Spacemacs 贡献层
  *崇高
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 用于 sublime Text 的 Crystal 语法高亮显示

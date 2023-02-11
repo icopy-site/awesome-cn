@@ -19,7 +19,7 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/any-text">任何文本</a>
+			<a href="https://www.producthunt.com/posts/any-text">任何文字</a>
 			<br>
 			<sup>将任何文本放在 iPhone 的锁定屏幕上</sup>
 		</h2>
@@ -223,7 +223,7 @@
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能协作.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - 用于将硬件设备、API 和在线服务连接在一起的编程工具.
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - 允许业务专业人员自行解决他们的需求，几乎不需要编码技能.
-- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - 用于构建 Web Native 应用程序的跨平台开源运行时.
+- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
 - [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - 面向开发人员的地图和位置分析平台.
 
 ## Programming Languages
@@ -300,7 +300,7 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - 用于表达量子算法的领域特定编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) - 受 Ruby 和 Python 启发并编译为高性能 JavaScript 的编程语言.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - 旨在充分利用 GLib 和 GNOME 生态系统的编程语言，同时保持 C 代码的速度.
-- [Coq](https://github.com/coq-community/awesome-coq#readme) - 用于编程和规范的正式语言和环境，有助于机器检查证明的交互式开发.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - 用于开发可维护软件的简单、快速、安全的编译语言.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - 用于维护稳健、优化和可重用软件的通用编程语言和工具链.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - 用于编写安全智能合约的特定领域编程语言.
@@ -370,7 +370,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -460,6 +460,7 @@
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - 在量子计算机上利用量子力学和量子比特的计算.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - 计算机科学和纯数学的相互作用，以强调数学的严谨性和技术而著称.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - 构建出色的聊天机器人和数字助理.
+- [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - 自动生成范围广泛的文本、图像和音频格式的独特内容.
 
 ## Big Data
 
@@ -485,7 +486,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套数据结构.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - 算法的算法审计.
-- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - 通用人工智能 (AGI) 和计算认知科学 (CoCoSci) 的交互作用.
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## Books
 
@@ -631,7 +632,7 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在引诱攻击者尝试破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的艺术.
 - [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统中安全漏洞的个人群体.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 涉及提供伪随机生成的输入数据的自动化软件测试技术.
@@ -681,7 +682,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程战略.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
 
 ## Work
 
@@ -710,7 +711,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - 开源分布式结算网络.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源去中心化微博网络.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - 用于智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 支持工业规模应用程序的去中心化操作系统.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为企业设计的开源区块链平台.
@@ -731,6 +732,7 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - 研究神经系统和大脑.
+- [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - 面向使用定量或计算方法的人文学者的软件.
 
 ## Events
 
@@ -861,7 +863,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人分为风险类别的方法.
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 让以植物为基础的生活方式变得简单易行.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - 将文本的含义从一种语言转移到另一种语言.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - 用于 JavaScript 自动化的 iOS 应用程序.

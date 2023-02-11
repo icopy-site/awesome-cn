@@ -65,7 +65,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 客户管理的元评论家，其中业务预期的功能与真实用户需求发生冲突，以虚构项目经理编写的用户故事的形式出现.
 
-- [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)  - 本着与上述相同的精神，但更广泛：我们作为开发人员忽略但用户真正关心的所有小事情. 在该列表的顶部是以帐户为中心的功能、多样化的集成和导入/导出工具. 即所有企业客户需要覆盖.
+- [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/) - In the same spirit as above, but broader: all the little things we overlook as developers but users really care about. In the top of that list lies account-centric features, diverse integration and import/export tools. I.e. all the enterprise customers needs to cover.
 
 - [Separate the account, user and login/auth details](https://news.ycombinator.com/item?id=21151830) - 为面向未来的 IAM API 奠定基础的合理建议.
 
@@ -131,7 +131,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Password-based
 
-- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性指南.
+- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性准则.
 
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - 减缓离线攻击的唯一方法是仔细选择尽可能占用资源的哈希算法.
 
@@ -155,7 +155,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/)  - 密码不是用户身份验证的全部和最终结果. 这篇文章试图告诉你为什么.
 
-- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - 什么是魔法链接，它们的来源、优点和缺点.
+- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - What are magic links, their origin, pros and cons.
 
 - [WebAuthn guide](https://webauthn.guide) - 一个非常容易理解的 WebAuthn 指南，一个标准允许“服务器使用公钥加密而不是密码来注册和验证用户”，所有主要浏览器都支持.
 
@@ -231,7 +231,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [`lemur`](https://github.com/Netflix/lemur) - 充当 CA 和环境之间的代理，为开发人员提供中央门户以颁发具有“正常”默认值的 TLS 证书.
 
-- [CFSSL](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+- [CFSSL](https://github.com/cloudflare/cfssl)  - CloudFlare 的 PKI/TLS 瑞士军刀. 用于签署、验证和捆绑 TLS 证书的命令行工具和 HTTP API 服务器.
 
 - [JA3](https://github.com/salesforce/ja3) - 创建 SSL/TLS 客户端指纹的方法，该指纹应该易于在任何平台上生成，并且可以轻松共享以获取威胁情报.
 
@@ -265,7 +265,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### OAuth2 & OpenID
 
-[OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) is an authorization framework. [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) 是在其之上的身份验证层.
+[OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#OAuth_2.0) 是一个授权框架. [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) 是在其之上的身份验证层.
 
 旧的 *OpenID* 已死； 新的 *OpenID Connect* 还没有死.
 
@@ -315,7 +315,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 安全断言标记语言 (SAML) 2.0 是一种在服务之间交换授权和身份验证的方法，例如上面的 OAuth/OpenID 协议.
 
-典型的 SAML 身份提供商是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供商是运行数据孤岛的科技公司.
+Typical SAML identity provider is an institution or a big corporation's internal SSO, while the typical OIDC/OAuth provider is a tech company that runs a data silo.
 
 - [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/)  - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场. 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室.”
 
@@ -343,7 +343,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Policy models
 
-作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 至 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
+作为一个概念，访问控制策略可以设计为遵循非常不同的原型，从经典 [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) 到 [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) . 在本节中，我们将探索许多不同的模式和架构.
 
 - [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - 因为它需要在许多地方需要的执行、决策架构上进行多重权衡以将业务逻辑与授权逻辑分开，以及在建模上平衡功率和复杂性.
 
@@ -395,7 +395,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 专门针对的工具和资源 [AWS IAM policies](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies.html) 生态系统.
 
-- [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊工作近 5 年的时间里，我每天、每周都会抽出一点时间浏览论坛、客户工单，试图找出人们遇到问题的地方.”
+- [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “在亚马逊工作近 5 年的时间里，我每天、每周都会抽出一点时间浏览论坛、客户票，试图找出人们遇到问题的地方.”
 
 - [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - 安全评估工具，可识别对最小特权的侵犯并生成风险优先报告.
 
@@ -667,7 +667,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 ## UX/UI
 
-As stakeholder of the IAM stack, you're going to implement in the backend the majority of the primitives required to build-up the sign-up tunnel and user onboarding. This is the first impression customers will get from your product, and can't be overlooked: you'll have to carefully design it with front-end experts. Here is a couple of guides to help you polish that experience.
+作为 IAM 堆栈的利益相关者，您将在后端实施构建注册隧道和用户入职所需的大部分原语. 这是客户对您的产品的第一印象，不容忽视：您必须与前端专家一起精心设计. 这里有一些指南可以帮助您完善这种体验.
 
 - [The 2020 State of SaaS Product Onboarding](https://userpilot.com/saas-product-onboarding/) - 涵盖用户入职的所有重要方面.
 
@@ -687,7 +687,7 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的 `<input>  ` 元素和 HTML 属性将有助于加快我们用户的双因素身份验证体验”.
 
-- [Remove password masking](http://passwordmasking.com) - Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.
+- [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了消除密码屏蔽对消费者信任的影响.
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221)  - 通知很难. 真的很难.
 
@@ -705,7 +705,7 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws)  - 帮助理解他们庞大的服务目录. 本着同样的精神： [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - 用不超过 4 个词描述所有 GCP 产品.
+- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## History
 
@@ -713,7 +713,7 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 

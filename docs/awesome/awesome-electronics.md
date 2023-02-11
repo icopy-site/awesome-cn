@@ -52,7 +52,7 @@
 - [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - 具有电子流可视化功能的免费开源在线模拟器（由 Paul Falstad 重写了原始 Java 小程序）.
 - [EveryCircuit](https://everycircuit.com) - 免费试用在线、可视化、交互式电路模拟器，以获得更简单的电路.
 - [Qucs](http://qucs.sourceforge.net/) - 开源、跨平台、非基于 SPICE 的电路仿真器，具有 S 参数和谐波平衡功能.
-- [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) - 免费、闭源、仅限 Windows 的 Qucs 分支，具有相似的界面、新引擎和更多功能.
+- [QucsStudio](http://qucsstudio.de/) - 免费、闭源、仅限 Windows 的 Qucs 分支，具有相似的界面、新引擎和更多功能.
 - [Open Circuit Design Software](http://opencircuitdesign.com) - 开源、完整的 EDA 套件芯片设计套件，专注于跟上商业工具的步伐.
 - [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) 为 Texas Instruments 构建，与 Texas Instruments 模型捆绑在一起.
 - [CppSim](https://www.cppsim.com/) - 免费的开源电路模拟器，利用 C++ 语言实现非常快的模拟时间.
