@@ -65,7 +65,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Boom](https://github.com/FelicePollano/Boom) - 一个非常简单、老式的 FPS，正在开发中但可以玩.
 - [Broken Seals](https://github.com/Relintai/broken_seals) - 正在进行中的第三人称动作角色扮演游戏，支持多人游戏（需要自定义引擎模块）.
-- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - 一款免费/开源的派对游戏，旨在复制马里奥派对等游戏的感觉.
+- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
 - [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - 体素艺术中的免费回合制等距策略游戏.
 - [Thrive](https://github.com/Revolutionary-Games/Thrive/) - 关于生命进化的免费开源游戏 (Mono).
 
@@ -120,7 +120,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.1
 
-- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate)  - 包含所有必要内容的模板. 专为像素艺术游戏而设计.
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 
 ## Demos
 
@@ -174,7 +174,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x、4.x）.
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架（Godot 2.1、3.2+）.
-- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅立叶变换.
+- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅里叶变换.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 通知中心 (Godot 3.x).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix Framework (Godot 3.*) Channels API 的 GDScript 和 Godot Engine 实现.
@@ -182,7 +182,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - 大量教程和技巧，有大有小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，使您可以在项目中使用 SQLite 数据库作为数据存储 (Godot 3.2+).
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在 RPG 对话中）（Godot 2.x、3.x）.
 - [gterm](https://github.com/TeddyDD/gterm) - 绘制类似于 \*nix 终端仿真器 (Godot &gt;= 2.1) 的 GUI 控件.
 - [GUT](https://github.com/bitwes/Gut) - 用于在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘画、着色、孔洞、细节层次和草地 (Godot 3.x).
@@ -280,6 +280,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Entity Spell System](https://github.com/Relintai/entity_spell_system) - 用于复杂（可选多人）角色扮演游戏（Godot 3.2、4.0）的实体和法术系统.
 - [godot-anl](https://github.com/Xrayez/godot-anl) - 一个包装器 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) 具有视觉噪声编辑支持.
+- [godot-luaAPI](https://github.com/WeaselGames/godot_luaAPI) - 用于使用 Lua（Godot 3.2+、4.0）创建沙盒改装 API 的模块.
 - [godot-python](https://github.com/touilleMan/godot-python) - 对 Godot 3 的 Python 支持.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - 用于创建体积世界的模块（Godot 3.1+）.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) - Godot 3 的 ENet 包装器.
@@ -386,5 +387,5 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于使用 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序 (Godot 3.x).
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 用于为 RetroPie 安装 Godot“模拟器”的脚本模块.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.
 - [Godot Package Manager](https://github.com/you-win/godot-package-manager) - 使用 npm 的 Godot 包管理器.

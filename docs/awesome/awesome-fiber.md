@@ -21,12 +21,12 @@
 Fiber 框架中包含的中间件列表.
 - [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth)  - 基本身份验证中间件提供 HTTP 基本身份验证. 它调用下一个处理程序来获取有效凭证，并调用 401 Unauthorized 来获取丢失或无效的凭证.
 - [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache) - 拦截和缓存响应.
-- [Compress](https://github.com/gofiber/fiber/tree/master/middleware/compress) - Fiber压缩中间件，默认支持`deflate`、`gzip`和`brotli`.
+- [Compress](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
 - [CORS](https://github.com/gofiber/fiber/tree/master/middleware/cors) - 使用各种选项启用跨域资源共享 (CORS).
 - [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - 防止 CSRF 攻击.
 - [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - 加密 cookie 值的加密中间件.
 - [EnvVar](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - 通过提供可选配置公开环境变量.
-- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件让缓存更高效并节省带宽，因为如果内容没有改变，Web 服务器不需要重新发送完整的响应.
+- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件让缓存更高效并节省带宽，因为如果内容没有更改，Web 服务器不需要重新发送完整的响应.
 - [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - 通过其 HTTP 服务器运行时服务的 Expvar 中间件以 JSON 格式暴露变体.
 - [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - 如果提供了文件路径，则忽略日志中的图标或从内存中提供服务.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - 用于 Fiber 的文件系统中间件，特别感谢 Alireza Salary.
@@ -45,7 +45,7 @@ Fiber 框架中包含的中间件列表.
 外部托管的中间件模块列表，由 [Fiber team](https://github.com/orgs/gofiber/people).
 - [adaptor](https://github.com/gofiber/adaptor) - net/http 处理程序与 Fiber 请求处理程序之间的转换器.
 - [helmet](https://github.com/gofiber/helmet) - 通过设置各种 HTTP 标头帮助保护您的应用程序.
-- [jwt](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
+- [jwt](https://github.com/gofiber/jwt) - JWT 返回一个 JSON Web 令牌 (JWT) 身份验证中间件.
 - [keyauth](https://github.com/gofiber/keyauth) - 密钥授权中间件提供基于密钥的身份验证.
 - [redirect](https://github.com/gofiber/redirect) - 为 Fiber 重定向中间件.
 - [rewrite](https://github.com/gofiber/rewrite)  - 重写中间件根据提供的规则重写 URL 路径. 它有助于向后兼容或只是创建更清晰和更具描述性的链接.
@@ -86,6 +86,7 @@ Fiber 社区创建的中间件列表.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 为光纤提供 OPA 中间件集成.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - 基于 W3C 服务器计时规范添加服务器计时标头的中间件.
 - [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - 报告性能数据（路由统计）的 Airbrake 中间件.
+- [mikhail-bigun/fiberlogrus](https://github.com/mikhail-bigun/fiberlogrus) - 使用 logrus 及其结构化日志记录功能的记录器中间件.
 
 ## 🚧 Boilerplates
 Fiber 的预制样板.

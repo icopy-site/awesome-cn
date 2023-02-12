@@ -105,7 +105,7 @@
 - [Falsehoods about Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 上面文章的重温版本，这次有详细的解释.
 - [Falsehoods about Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) - 指纹不是唯一的.
 - [Falsehoods about Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - 你不能真正用严格的规则来定义一个家庭.
-- Falsehoods about Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
+- 关于性别的谬误： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别是人类身份的一部分，有其自身的微妙之处.
 - [Falsehoods about Me](https://skylarmacdonald.com/falsehoods/) - 姓名、性别和国际化的交叉问题.
 - [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 如何在解决大多数关于性别、命名和关系的谎言的同时将婚姻存储在数据库中.
 - [Personal Names Around the World](https://www.w3.org/International/questions/qa-personal-names) - 世界各地的人名有何不同，对网络有何影响？
@@ -129,7 +129,7 @@
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员花太多时间在 `Latin-1` 上，他们忘记了其他人的脚本怪癖.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很困难，当每个破碎的数据输入层添加自己的香料时更是如此.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - 为单元测试和 QA 编译真实的国际和多样化的名称数据.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试您的软件.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试你的软件.
 
 ## Management
 
@@ -194,7 +194,7 @@
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 对缓存的误解通常会导致错误的断言，尤其是在涉及并发和竞争条件时.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 有一些关于 `/dev/urandom` 和 `/dev/random` 的东西被反复重复. 他们仍然是错误的.
 - [Facts about State Machines](https://github.com/cpressey/Facts-about-State-Machines) - 状态机经常被误解和应用不足.
-- [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个演讲可以命名为*关于用户名（和其他标识符）的谬误*.
+- [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
 - [Floating Point Math](https://0.30000000000000004.com)  - “你的语言没有问题，它在做浮点数学.  (...) 这就是为什么，&#39;0.1 + 0.2 != 0.3&#39;.”
@@ -229,6 +229,8 @@
 随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/main/.github/contributing.md) 第一的.
 
 ## Footnotes
+
+在过去的几年里，这份名单在社交媒体上获得了一些人气. 看到它是 [discussed and mentioned elsewhere](https://github.com/kdeldycke/awesome-falsehood/blob/master/assets/in-the-media.md).
 
 The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/assets/awesome-falsehood-header.jpg) 是基于修改 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg), 分布在 [Creative Commons BY-SA 2.0 UK license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
 

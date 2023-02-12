@@ -13,7 +13,7 @@
 
  &gt; **请**帮助整理这些资源，以便新手可以_轻松找到_和_理解_. 查看如何 **[贡献][贡献]** 获取提示！
 
- **_如果您在此处看到一个链接（不再）适合，您可以通过提交 [pull request][editreadme] 来修复它以改进此文件. 谢谢！_**
+ **_如果您在此处看到一个链接（不再）适合，您可以通过提交 [pull request][editreadme] 来修复它以改进此文件. 谢谢你！_**
 
 此列表的创建者和维护者不会收到任何形式的付款来接受任何贡献者所做的更改. 这个页面无论如何都不是官方的 Docker 产品. 它是一个项目链接列表，由志愿者维护. 欢迎大家贡献. 这个 repo 的目标是索引开源项目，而不是为了盈利做广告.
 
@@ -183,6 +183,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [clusterdock](https://github.com/clusterdock/clusterdock) - Docker 容器编排以启用对长时间运行的集群部署的测试
 -   [Crane](https://github.com/Dataman-Cloud/crane) - 基于docker内置swarm的控制平面 [@Dataman-Cloud](https://github.com/Dataman-Cloud)
 -   [Docker Flow Swarm Listener](https://github.com/docker-flow/docker-flow-swarm-listener)  - Docker Flow Swarm Listener 项目用于监听 Docker Swarm 事件并在发生变化时发送请求. 通过 [@docker-flow][docker-flow]
+-   [docker rollout](https://github.com/Wowu/docker-rollout) - Docker Compose 服务的零停机部署 [@Wowu](https://github.com/Wowu)
 -   [gantryd](https://github.com/DevTable/gantryd) :skull: - 一个框架，用于跨机器轻松管理基于 docker 的组件 [@DevTable](https://github.com/DevTable)
 -   [Haven](https://github.com/codeabovelab/haven-platform)  - Haven 是一个集容器、应用、集群、镜像、注册管理于一体的简化容器管理平台. 经过 [@codeabovelab](https://github.com/codeabovelab)
 -   [Helios](https://github.com/spotify/helios) :skull: - 一个简单的平台，用于在整个服务器群中部署和管理容器 [@spotify][spotify]
@@ -395,7 +396,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [lstags](https://github.com/ivanilves/lstags) - 跨注册表同步 Docker 镜像 [@ivanilves](https://github.com/ivanilves)
 -   [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) - [@NVIDIA][nvidia] 的 Docker NVIDIA 容器运行时
 -   [su-exec](https://github.com/ncopa/su-exec)  - 这是一个简单的工具，可以简单地执行具有不同权限的程序. 该程序将直接执行，而不是像 su 和 sudo 那样作为子程序运行，从而避免了 TTY 和信号问题. 为什么要重塑 gosu？ 这或多或少与 gosu 完全相同，但它只有 10kb 而不是 1.8MB. 经过 [ncopa](https://github.com/ncopa)
--   [sue](https://github.com/theAkito/sue)  - 以与运行 sue 的用户不同的用户身份执行程序. 这是 ncopa/su-exec 的可维护替代品，后者是更好的 tianon/gosu. 这个比原来的 gosu 好得多（性能更高，体积更小），但是它比用纯 C 编写的 su-exec 更容易维护.由 [Akito][akito] 制作
+-   [sue](https://github.com/theAkito/sue)  - 以与运行 sue 的用户不同的用户身份执行程序. 这是 ncopa/su-exec 的可维护替代品，后者是更好的 tianon/gosu. 这个比原来的 gosu 好得多（性能更高，体积更小），但是它比用普通 C 编写的 su-exec 更容易维护.由 [Akito][akito] 制作
 -   [supercronic](https://github.com/aptible/supercronic) - 与 crontab 兼容的作业运行器，专为在容器中运行而设计 [@aptible](https://github.com/aptible/)
 -   [TrivialRC](https://github.com/vorakl/TrivialRC) - 容器的简约运行时配置系统和进程管理器 [@vorakl](https://github.com/vorakl)
 
@@ -443,7 +444,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph)  - 可视化您的多阶段 Dockerfile. 经过 [@PatrickHoefler](https://github.com/patrickhoefler)
 -   [Dockershelf](https://github.com/Dockershelf/dockershelf)  - 一个存储库，用作通用、高效和苗条的 docker 食谱的收集器. 图像通过 Travis cron 作业每天更新、测试和发布. 维护者 [@CollageLabs](https://github.com/CollageLabs).
 -   [dockmoor](https://github.com/MeneDev/dockmoor)  ：构造： - 管理 docker 图像引用并帮助使用 Docker 创建可重现的构建. 经过 [@MeneDev](https://github.com/MeneDev)
--   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 图像
+-   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 镜像
 
 示例：
 
