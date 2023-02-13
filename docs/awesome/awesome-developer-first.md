@@ -17,6 +17,8 @@
 + 观看此回购以获得有关我们发现的新产品的通知
 ```
 
+对于最新添加 [click here](https://github.com/agamm/awesome-developer-first/commits/main).
+
 
     
 ---

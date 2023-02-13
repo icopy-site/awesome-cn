@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="analysis-tools-dev/static-analysis"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<!-- 🚨🚨 DON'T EDIT THIS FILE DIRECTLY. Edit `data/tools.yml` instead. 🚨🚨 -->
+<!--  DON'T EDIT THIS FILE DIRECTLY. Edit `data/tools.yml` instead.  -->
 
  <a href="https://analysis-tools.dev/">
    <img width="400px" alt="Analysis Tools" src="https://raw.githubusercontent.com/analysis-tools-dev/website/master/static/logo.png" />
@@ -144,7 +144,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [CPAchecker](https://cpachecker.sosy-lab.org)  — 用于 C 程序的可配置软件验证的工具. 选择 CPAchecker 这个名称是为了反映该工具基于 CPA 概念并用于检查软件程序.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
+- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -232,7 +232,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) — 测量 C 文件的大小和复杂性.
 
-- [cppcheck](http://cppcheck.sourceforge.net) — Static analysis of C/C++ code.
+- [cppcheck](http://cppcheck.sourceforge.net) — C/C++ 代码的静态分析.
 
 - [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
@@ -448,7 +448,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [nargs](https://github.com/alexkohler/nargs) — 查找函数声明中未使用的参数.
 
-- [prealloc](https://github.com/alexkohler/prealloc) — 查找可能预分配的切片声明.
+- [prealloc](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
 - [Reviewdog](https://github.com/haya14busa/reviewdog) — 用于从任何代码托管服务中的任何 linter 发布评论的工具.
 
@@ -623,7 +623,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 - [ktlint](https://ktlint.github.io) — 一个带有内置格式化程序的反 bikeshedding Kotlin linter.
 
 
-<h2 id="lua">二</h2>
+<h2 id="lua">Lua</h2>
 
 
 - [luacheck](https://github.com/mpeterv/luacheck) — 用于 Lua 代码的 linting 和静态分析的工具.
@@ -682,7 +682,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -772,7 +772,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="perl">Perl</h2>
 
 
-- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER. 
+- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer 是一组程序和模块，允许用户通过提供有关名称空间及其关系、依赖关系、继承和在包中实现、继承和重新定义的方法以及对方法的调用的信息来分析和可视化 Perl 代码库通过 SUPER 从父包中获取. 
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — 批判 Perl 源代码以获得最佳实践.
 
@@ -853,7 +853,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [vulture](https://github.com/jendrikseipp/vulture) — 在 Python 代码中查找未使用的类、函数和变量.
 
-- [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — The strictest and most opinionated python linter ever.
+- [wemake-python-styleguide](https://wemake-python-styleguide.rtfd.io/) — 有史以来最严格、最自以为是的 Python linter.
 
 - [wily](https://github.com/tonybaloney/wily) — 用于存档、探索和绘制 Python 源代码复杂性的命令行工具.
 
@@ -880,7 +880,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 
-- [bundler-audit](https://github.com/rubysec/bundler-audit) — 审计 Gemfile.lock 中报告的具有安全漏洞的 gem [Ruby Advisory Database](https://github.com/rubysec/ruby-advisory-db).
+- [bundler-audit](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database](https://github.com/rubysec/ruby-advisory-db).
 
 - [cane](https://github.com/square/cane) — 代码质量阈值检查作为构建的一部分.
 
@@ -965,7 +965,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features)  — 查找潜在未使用的已启用功能标志并修剪它们. 您可以从 json 生成简单的 HTML 报告，以便更轻松地检查结果.
 它删除依赖项的功能，然后编译项目以查看它是否仍然可以编译. 如果是这样，则可能会删除功能标志，但它可能是误报.
 
-- [clippy](https://rust-lang.github.io/rust-clippy) — 用于捕获常见错误并改进 Rust 代码的代码检查器.
+- [clippy](https://rust-lang.github.io/rust-clippy) — A code linter to catch common mistakes and improve your Rust code.
 
 - [dylint](https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy)  — 从动态库运行 Rust lints 的工具.  Dylint 使开发人员可以轻松维护自己的个人 lint 集合.
 
@@ -1051,7 +1051,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) — 用于重新格式化 Swift 代码的库和命令行格式化工具.
 
-- [SwiftLint](https://realm.github.io/SwiftLint) — A tool to enforce Swift style and conventions.
+- [SwiftLint](https://realm.github.io/SwiftLint) — 一种强制执行 Swift 风格和约定的工具.
 
 - [Tailor](https://sleekbyte.github.io/tailor) :warning: — 以 Apple 的 Swift 编程语言编写的源代码的静态分析和 lint 工具.
 
@@ -1230,7 +1230,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: — Quality and Security Static analysis for C/C++, Java and C#.
 
-- [LGTM](https://lgtm.com/)  :copyright: — 使用 CodeQL 查询源代码查找安全漏洞、变体和关键代码质量问题. 自动 PR 代码审查； 免费开源. 以前塞姆勒. 它支持托管在 Bitbucket Cloud、GitHub.com、GitLab.com 上的公共 Git 存储库.
+- [LGTM](https://lgtm.com/) :copyright: — Find security vulnerabilities, variants, and critical code quality issues using CodeQL queries over source code. Automatic PR code review; free for open source. Formerly semmle. It supports public Git repositories hosted on Bitbucket Cloud, GitHub.com, GitLab.com.
 
 - [lizard](https://github.com/terryyin/lizard)  — Lizard 是一种可扩展的循环复杂度分析器，适用于许多编程语言，包括 C/C++（不需要所有头文件或 Java 导入）. 它还进行复制粘贴检测（代码克隆检测/代码重复检测）和许多其他形式的静态代码分析. 计算没有注释的代码行数、CCN（循环复杂度数）、函数的标记数、函数的参数数.
 
@@ -1296,8 +1296,6 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [shipshape](https://github.com/google/shipshape) :warning: — 允许自定义分析器通过通用接口插入的静态程序分析平台.
 
-- [Sider](https://sider.review)  :copyright: — 一种自动代码审查工具. 提高开发人员的生产力.
-
 - [Sigrid](https://www.softwareimprovementgroup.com/solutions/sigrid-software-assurance-platform/) :copyright: — Sigrid 通过测量系统的代码质量帮助您改进软件，然后将结果与数千个行业系统的基准进行比较，为您提供可以改进的领域的具体建议.
 
 - [Similarity Tester](https://dickgrune.com/Programs/similarity_tester/) — 一种查找文件之间或文件内部相似性的工具，以支持您遇到违反 DRY 原则的情况.
@@ -1330,12 +1328,14 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [ThreatMapper](https://github.com/deepfence/ThreatMapper)  — 运行时容器、无服务器和主机的漏洞扫描程序和风险评估.  ThreatMapper 从依赖项和操作系统包生成运行时 BOM，匹配多个威胁源，扫描未受保护的秘密，并根据严重性和利用风险对问题进行评分.
 
-- [todocheck](https://github.com/preslavmihaylov/todocheck) — Linter for integrating annotated TODOs with your issue trackers
+- [todocheck](https://github.com/preslavmihaylov/todocheck) — 用于将带注释的 TODO 与问题跟踪器集成的 Linter
 
 - [trivy](https://github.com/aquasecurity/trivy)  — 一个简单而全面的容器和其他工件的漏洞扫描器，适用于 CI.  Trivy 检测操作系统包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
 
 - [trunk](https://trunk.io)  :copyright: — 现代存储库包含许多技术，每种技术都有自己的一套 linters.  Trunk 拥有 30 多个 linters 并且还在增加，可以非常简单地为您的所有存储库识别、安装、配置和运行正确的 linters、静态分析器和格式化程序.
+
+- [TrustInSoft Analyzer](https://trust-in-soft.com)  :copyright: — 详尽检测编码错误及其相关的安全漏洞. 这包括完善的未定义行为检测（缓冲区溢出、越界数组访问、空指针解引用、释放后使用、除以零、未初始化的内存访问、有符号溢出、无效指针算法等） 、数据流和控制流验证以及正式规范的全功能验证. 支持所有版本的 C 到 C18 和 C++ 到 C++20.  TrustInSoft Analyzer 将于 2023 年第二季度 (TCL3) 获得 ISO 26262 资格. 还捆绑了 MISRA C 检查器.
 
 - [TscanCode](https://github.com/Tencent/TscanCode) — A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.
 
@@ -1390,7 +1390,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2 id="arm">Azure 资源管理器</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 
 <h2 id="binary">二进制文件</h2>
@@ -1487,7 +1487,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) — 根据策略即代码规则检查本地 CloudFormation 模板，并从现有模板生成规则.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [cfn-lint](https://github.com/awslabs/cfn-python-lint) — AWS 实验室 CloudFormation linter.
 
@@ -1543,9 +1543,9 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [Code Climate](https://codeclimate.com) — 开放且可扩展的静态分析平台，适合所有人.
 
@@ -1788,7 +1788,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 <h2 id="security">安全/先科</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 
@@ -1877,7 +1877,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 - [yamllint](https://yamllint.readthedocs.io) — 检查 YAML 文件的语法有效性、键重复和外观问题，例如行长、尾随空格和缩进.
 
 
-<h2 id="terraform">地貌</h2>
+<h2 id="terraform">Terraform</h2>
 
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible

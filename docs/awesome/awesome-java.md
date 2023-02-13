@@ -17,7 +17,7 @@ _简化 bean 映射的框架._
 - [MapStruct](https://github.com/mapstruct/mapstruct) - 基于约定优于配置的方法简化不同 bean 类型之间映射的代码生成器.
 - [ModelMapper](https://github.com/modelmapper/modelmapper) - 智能对象映射库，自动将对象相互映射.
 - [Orika](https://github.com/orika-mapper/orika) - JavaBean 映射框架，递归地将数据从一个对象复制（以及其他功能）到另一个对象.
-- [reMap](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+- [reMap](https://github.com/remondis-it/remap) - Lambda 和方法基于句柄的映射，如果对象具有不同的名称，则需要代码而不是注释.
 - [Selma](https://github.com/xebia-france/selma) - 基于注释处理器的 bean 映射器.
 
 ### Build
@@ -38,14 +38,14 @@ _以编程方式操作字节码的库._
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer)  - Java 8 Jar 和 Android APK 逆向工程套件.  （仅限 GPL-3.0）
 - [Byteman](https://byteman.jboss.org)  - 通过 DSL（规则）在运行时操作字节码； 主要用于测试/故障排除.  （LGPL-2.1 或更高版本）
 - [cglib](https://github.com/cglib/cglib) - 字节码生成库.
-- [Javassist](https://github.com/jboss-javassist/javassist) - 尝试简化字节码编辑.
+- [Javassist](https://github.com/jboss-javassist/javassist) - Tries to simplify bytecode editing.
 - [Mixin](https://github.com/SpongePowered/Mixin) - 使用真正的 Java 代码在运行时操作字节码.
 - [Perses](https://github.com/nicolasmanic/perses) - 根据混沌工程原理，在字节码级别动态注入故障/延迟.
 - [Recaf](https://www.coley.software/Recaf/) - JVM 逆向工程工具包，本质上是 Java 字节码的 IDE.
 
 ### Caching
 
-_Libraries that provide caching facilities._
+_提供缓存设施的图书馆._
 
 - [cache2k](https://cache2k.org) - 内存中高性能缓存库.
 - [Caffeine](https://github.com/ben-manes/caffeine) - 高性能、近乎最优的缓存库.
@@ -117,7 +117,7 @@ _为重复代码生成模式以减少冗长和错误倾向的工具._
 - [Joda-Beans](https://www.joda.org/joda-beans/) - 向 Java 添加可查询属性的小型框架，增强了 JavaBeans.
  - [JPA Buddy ![c]](https://www.jpa-buddy.com) - IntelliJ IDEA 插件. 提供用于生成 JPA 实体、Spring Data JPA 存储库、Liquibase 变更日志和 SQL 脚本的可视化工具. 通过将模型与数据库进行比较，以及从数据库表中逆向工程 JPA 实体，提供自动 Liquibase/Flyway 脚本生成.
 - [Lombok](https://projectlombok.org) - 旨在减少冗长的代码生成器.
-- [Record-Builder](https://github.com/Randgalt/record-builder) - Java 文件的配套生成器类、枯萎和模板.
+- [Record-Builder](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 - [Telosys](https://www.telosys.org/) - 简单轻便的代码生成器可作为 Eclipse 插件使用，也可作为 CLI 使用.
 
 ### Compiler-compiler
@@ -272,7 +272,7 @@ _用于编写分布式和容错应用程序的库和框架._
 - [Apache Geode](https://geode.apache.org) - 内存数据管理系统，提供可靠的异步事件通知和有保证的消息传递.
 - [Apache Storm](https://storm.apache.org) - 实时计算系统.
 - [Apache ZooKeeper](https://zookeeper.apache.org) - 为大型分布式系统提供分布式配置、同步和命名注册表的协调服务.
-- [Atomix](https://atomix.io) - Fault-tolerant distributed coordination framework.
+- [Atomix](https://atomix.io) - 容错分布式协调框架.
 - [Axon](https://axoniq.io) - 用于创建 CQRS 应用程序的框架.
 - [Dropwizard Circuit Breaker](https://github.com/mtakaki/dropwizard-circuitbreaker)  - Dropwizard 的断路器设计模式.  （仅限 GPL-2.0）
 - [Failsafe](https://github.com/jhalterman/failsafe) - 通过重试和断路器进行简单的故障处理.
@@ -353,7 +353,7 @@ _促进函数式编程的库._
 - [Functional Java](http://www.functionaljava.org) - 实施许多有助于面向组合的开发的基本和高级编程抽象.
 - [jOOλ](https://github.com/jOOQ/jOOL) - 对 Java 8 的扩展，旨在通过提供大量缺失的类型和一组丰富的顺序流 API 添加来修复 lambda 中的漏洞.
 - [protonpack](https://github.com/poetix/protonpack) - 流实用程序的集合.
-- [StreamEx](https://github.com/amaembo/streamex) - 增强 Java 8 流.
+- [StreamEx](https://github.com/amaembo/streamex) - Enhances Java 8 Streams.
 - [Vavr](https://www.vavr.io) - 提供持久数据类型和功能控制结构的功能组件库.
 
 ### Game Development
@@ -419,7 +419,7 @@ _Libraries that assist with creating HTTP requests and/or binding responses._
 
 ### Hypermedia Types
 
-_处理超媒体类型序列化的库._
+_Libraries that handle serialization to hypermedia types._
 
 - [hate](https://github.com/blackdoor/hate) - 根据 HAL 规范构建超媒体友好对象.
 - [JSON-LD](https://github.com/jsonld-java/jsonld-java) - JSON-LD 实现.
@@ -599,7 +599,7 @@ _其他一切._
 - [JObfuscator![c]](https://www.pelock.com/products/jobfuscator) - 源代码混淆器.
 - [Joda-Money](https://www.joda.org/joda-money/) - JDK 未提供的基本货币和货币类及算法.
 - [JPad](http://jpad.io) - 片段赛跑者.
-- [jsweet](https://github.com/cincheo/jsweet) - TypeScript/JavaScript 的源代码转换器.
+- [jsweet](https://github.com/cincheo/jsweet) - Source transpiler to TypeScript/JavaScript.
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) - Maven 的 Gradle Wrapper 模拟，允许在不安装 Maven 的情况下构建项目.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) - 开源、反向代理框架.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) - 轻量级、小型和可定制的 FTP 服务器.
@@ -722,7 +722,7 @@ _帮助处理 PDF 文件的工具._
 - [Apache FOP](https://xmlgraphics.apache.org/fop/) - 从 XSL-FO 创建 PDF.
 - [Apache PDFBox](https://pdfbox.apache.org) - 用于创建和操作 PDF 的工具箱.
 - [Dynamic Jasper](http://dynamicjasper.com)  - JasperReports 的抽象层.  （仅限 LGPL-3.0）
-- [DynamicReports](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+- [DynamicReports](https://github.com/dynamicreports/dynamicreports)  - 简化 JasperReports.  （仅限 LGPL-3.0）
 - [Eclipse BIRT](https://www.eclipse.org/birt) - 使用基于 Eclipse 的可视化编辑器创建 PDF 和其他格式（DOCX、XLSX、HTML 等）的报告引擎.
 - [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer)  - XML/XHTML 和 CSS 2.1 渲染器.  （LGPL-2.1 或更高版本）
 - [iText ![c]](https://itextpdf.com/en) - 以编程方式创建 PDF 文件.
@@ -971,6 +971,7 @@ _与随机数据的创建和处理相关的一切._
 - [Beanmother](https://github.com/keepcosmos/beanmother) - Sets up beans from YAML fixtures.
 - [Fixture Factory](https://github.com/six2six/fixture-factory) - 从模板生成假对象.
 - [jFairy](https://github.com/Devskiller/jfairy) - 假数据生成器.
+- [Instancio](https://github.com/instancio/instancio)  - 通过生成完全填充的、可重现的对象来自动化单元测试中的数据设置. 包括 JUnit 5 扩展.
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - JUnit 测试运行器和插件，用于运行具有伪随机性的 JUnit 测试.
 - [Java Faker](https://github.com/DiUS/java-faker) - Ruby 的假数据生成器端口.
 - [Mockneat](https://github.com/nomemory/mockneat) - 另一个假数据生成器.
@@ -987,7 +988,7 @@ _提供环境以针对特定用例运行测试._
 - [JUnit](https://junit.org/junit5/) - 通用测试框架.
 - [jqwik](https://jqwik.net) - 基于 JUnit 5 构建的基于属性的测试引擎.
 - [Pact JVM](https://github.com/DiUS/pact-jvm) - 消费者驱动的合同测试.
-- [PIT](http://pitest.org) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
+- [PIT](http://pitest.org) - 用于评估现有 JUnit 或 TestNG 测试套件的故障检测能力的快速突变测试框架.
 
 #### Matchers
 
@@ -996,6 +997,7 @@ _提供自定义匹配器的库._
 - [AssertJ](https://joel-costigliola.github.io/assertj/) - 提高可读性的流利断言.
 - [Hamcrest](http://hamcrest.org/JavaHamcrest/) - 可以组合以创建灵活的意图表达的匹配器.
 - [JSONAssert](http://jsonassert.skyscreamer.org) - 简化测试 JSON 字符串.
+- [JsonUnit](https://github.com/lukas-krecan/JsonUnit) - 简化测试中 JSON 比较的库.
 - [Truth](https://truth.dev) - Google 流畅的断言和命题框架.
 - [XMLUnit](https://github.com/xmlunit/xmlunit) - 简化了 XML 输出的测试.
 
@@ -1219,6 +1221,6 @@ _要阅读的网站._
 
 非常欢迎投稿！
 
-请看一下 [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) 指南和 [the validation tools](https://github.com/akullpp/awesome-java-lint).
+请看一下 [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) 准则和 [the validation tools](https://github.com/akullpp/awesome-java-lint).
 
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg

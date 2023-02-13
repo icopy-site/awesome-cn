@@ -496,6 +496,7 @@ Neovim 支持多种 UI.
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - 方便的文件操作，用Lua编写.
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - 简化和改进您与宏的交互方式.
 - [echasnovski/mini.nvim#mini.animate](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+- [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - 在不重启 Neovim 的情况下运行 `nix develop`.
 
 ### Terminal Integration
 
@@ -632,7 +633,7 @@ Neovim 支持多种 UI.
 ### Keybinding
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的 `:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的 `:map` 命令系列. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
@@ -705,7 +706,7 @@ Neovim 支持多种 UI.
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - 将当前聚焦的缓冲区居中到终端的中间.
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - 一个望远镜扩展，用于可视化您的撤消树和其中的模糊搜索更改.
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - 捆绑了大约十几个自定义文本对象.
-- [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) - 很棒的文本对象插件与 nvim-surround 一起使用.
+- [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) - 很棒的文本对象插件与 nvim-surround 一起工作.
 - [~nedia/auto-save.nvim](https://git.sr.ht/~nedia/auto-save.nvim)  - 在 `InsertLeave` 和 `TextChanged` 上极其简单的自动保存. 基于 Pocco81/AutoSave 但更轻.
 - [echasnovski/mini.nvim#mini.basics](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - `mini.nvim` 模块，具有可自定义的配置预设，用于常用选项、映射和自动命令.
 - [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) - 单独编辑文件的一部分.

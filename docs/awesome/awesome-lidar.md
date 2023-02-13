@@ -8,7 +8,7 @@
 
 [LIDAR](https://en.wikipedia.org/wiki/Lidar) 是一种遥感传感器，它使用激光以 ~cm 的精度测量周围环境. 感官数据通常称为点云，表示 3D 或 2D 数据点集. 该列表包含硬件、数据集、点云处理算法、点云框架、模拟器等.
 
-欢迎投稿！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) 我们的指导方针.
+欢迎投稿！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) our guidelines.
 
 
 
@@ -47,7 +47,7 @@
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
 - [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家汽车行业/环境检测激光扫描仪/激光雷达制造商，总部位于德国汉堡.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
-- [Innoviz](https://innoviz.tech/) - Innoviz technologies / 专注于固态激光雷达.
+- [Innoviz](https://innoviz.tech/) - Innoviz technologies / specializes in solid-state LIDARs.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
 - [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 提供测绘、工业自动化、运输和安全方面的端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
@@ -89,7 +89,7 @@
   - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 - [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/)  - 在 1.5 年期间每周在悉尼大学校园及周边地区收集的长期、大规模数据集. 它包括多种传感器模式并涵盖各种环境条件.  ROS兼容
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
-- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - 捷克布尔诺的自动驾驶汽车和自动机器人的导航和定位数据集.
   - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 - [Argoverse :octocat:](https://www.argoverse.org/) - 旨在支持自动驾驶车辆感知任务的数据集，包括在美国宾夕法尼亚州匹兹堡和佛罗里达州迈阿密收集的 3D 跟踪和运动预测.
@@ -106,7 +106,7 @@
 - [Open3D library](http://www.open3d.org/docs/release/)  - Open3D 库包含 3D 数据处理和可视化算法. 它是开源的，同时支持 C++ 和 Python.
   - [GitHub repository :octocat:](https://github.com/intel-isl/Open3D)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCRJBlASPfPBtPXJSPffJV-w)
-- [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - A geometric deep learning extension library for PyTorch.
+- [PyTorch Geometric :newspaper:](https://arxiv.org/pdf/1903.02428.pdf) - PyTorch 的几何深度学习扩展库.
   - [GitHub repository :octocat:](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch3d](https://pytorch3d.org/) - PyTorch3d 是一个用于深度学习的库，由 Facebook 人工智能研究计算机视觉团队编写和维护 3D 数据.
   - [GitHub repository :octocat:](https://github.com/facebookresearch/pytorch3d)
@@ -133,11 +133,14 @@
 ## Algorithms
 
 ### Basic matching algorithms
-- [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - 特征匹配应用程序 (ICP) 的必备算法.
+- [Iterative closest point (ICP) :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - 特征匹配应用程序 (ICP) 的必备算法.
   - [GitHub repository :octocat:](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python 实现.
   - [GitHub repository :octocat:](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher，一个实现 ICP 算法的模块化库.
   - [Paper :newspaper:](https://link.springer.com/content/pdf/10.1007/s10514-013-9327-2.pdf) - libpointmatcher：比较真实世界数据集上的 ICP 变体.
 - [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - 更新的大规模并行特征匹配 (NDT) 方法.
+- [KISS-ICP :red_circle:](https://www.youtube.com/watch?v=kMMH8rA1ggI) - 为点对点 ICP 辩护——如果方法正确，注册简单、准确且稳健.
+  - [GitHub repository :octocat:](https://github.com/PRBonn/kiss-icp)
+  - [Paper :newspaper:](https://arxiv.org/pdf/2209.15397.pdf)
 
 ### Semantic segmentation
 - [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - 具有全卷积网络的快速准确的 LiDAR 语义分割.
@@ -200,7 +203,7 @@
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976)  - 卡内基梅隆大学的 Peiyun Hu、David Held 和 Deva Ramanan.  IEEE 机器人与自动化快报，2020 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
   - [GitHub repository :octocat:](https://github.com/peiyunh/opcseg)
-- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf)  - Di Feng、Lars Rosenbaum、Fabian Timm、Klaus Dietmayer. 第 30 届 IEEE 智能汽车研讨会，2019 年.
+- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf)  - 作者：狄峰、拉尔斯·罗森鲍姆、法比安·蒂姆、克劳斯·迪特梅尔. 第 30 届 IEEE 智能汽车研讨会，2019 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - 胡佩云、Jason Ziglar、David Held、Deva Ramanan，2019 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)

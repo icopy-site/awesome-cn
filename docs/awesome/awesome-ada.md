@@ -361,7 +361,7 @@
 
 #### DevOps
 - [septum](https://github.com/pyjarrett/septum) - 用于搜索大型代码库的基于上下文的交互式文本搜索工具.
-- [power-joular](https://gitlab.com/joular/powerjoular) - PowerJoular 允许监控多个平台和进程的功耗.
+- [powerjoular](https://github.com/joular/powerjoular) - PowerJoular 允许监控多个平台和进程的功耗.
 
 #### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage 是一种分析和报告程序覆盖率的工具.

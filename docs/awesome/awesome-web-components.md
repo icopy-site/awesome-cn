@@ -234,7 +234,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Curvenote](https://github.com/curvenote/article) - 用于创建交互式科学文章的 Web 组件.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - 用于 SPA 路由、显示来自 Web 服务的数据等的独立组件.
 - [Dile Components](https://github.com/Polydile/dile-components) - 一般用于网站和应用程序的 Web 组件.
-- [elements-sk](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
+- [elements-sk](https://github.com/google/elements-sk) - 为“a la carte”网络开发定制元素的集合.
 - [github-elements](https://github.com/github/github-elements) - GitHub 的 Web 组件集合.
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量、可定制的 Web 组件.
 - [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) - 企业就绪的 Web 组件集，最适合与 Eclipse Furo 配合使用.
@@ -249,7 +249,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 - [Medblocks UI](https://github.com/medblocks/medblocks-ui) - 用于快速开发 openEHR 和 FHIR 系统的 Web 组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Microsoft Graph 的 Web 组件集合.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) - 用于变异测试结果的模式，使用 Web 组件将其可视化.
-- [Nightingale](https://github.com/ebi-webcomponents/nightingale) - 用于生命科学的数据可视化 Web 组件.
+- [Nightingale](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
 - [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) - 使用 Web 组件使用 Nuxeo 构建 Web 应用程序的组件.
 - [One Platform Components](https://github.com/1-Platform/op-components) - 一套用于 Red Hat One Platform 的网络组件.
 - [Open Business Application Platform Web Components](https://github.com/openbap/obap-elements) - 专为业务应用程序设计的 Web 组件集合.
@@ -274,6 +274,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 
 - [Astro Space UX Design System](https://github.com/RocketCommunicationsInc/astro) - 一组组件，用于通过已建立的交互模式构建丰富的空间应用程序体验.
 - [Auro Design System](https://auro.alaskaair.com) - 阿拉斯加航空公司设计系统，以创新理念和合作未来.
+- [Blueprint UI](https://blueprintui.dev) - 基于 Web Component 的设计系统，具有灵活和轻量级的组件.
 - [Bolt Design System](https://github.com/boltdesignsystem/bolt) - Twig 和 Web 组件驱动的 UI 组件、可重用的视觉样式和工具.
 - [Calcite Components](https://github.com/Esri/calcite-components) - Esri 方解石设计框架的共享 Web 组件.
 - [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) - Web 组件之上的 Carbon Design System 变体.
@@ -427,7 +428,7 @@ CSS Shadow Parts 允许开发人员在 Shadow DOM 中公开某些元素以用于
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell 的书，可在 Manning 早期发布计划中获得.
-- [Web Component Essentials](https://leanpub.com/web-component-essentials) - 由 Cory Rylan 所著，Leanpub 提供早期预览版.
+- [Web Component Essentials](https://leanpub.com/web-component-essentials) - Cory Rylan 的书，Leanpub 提供的早期预览版.
 
 ## Tutorials
 
