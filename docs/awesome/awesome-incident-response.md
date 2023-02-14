@@ -17,7 +17,7 @@
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  - 自动化战术技术和程序. 手动重新运行复杂序列以进行回归测试、产品评估，为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，它将把您的网络分析培训课程、事件响应演练和红队参与提升到一个新的水平.
 * [Caldera](https://github.com/mitre/caldera)  - 在 Windows 企业网络中执行妥协后对抗行为的自动化对抗模拟系统. 它使用计划系统和基于对抗战术、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 用于构建可重复、延时、分布式安全事件的模块化、菜单驱动、跨平台工具. 轻松为蓝队演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件、干扰和诱惑来支持和扩大他们的行动.
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [Metta](https://github.com/uber-common/metta) - 进行对抗性模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA 提供了一个脚本框架，旨在让蓝队测试其针对恶意交易的检测能力，以 MITRE ATT&amp;CK 为模型.
@@ -60,10 +60,10 @@
 * [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - 斯科特·J·罗伯茨 (Scott J. Roberts).
 * [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - 事件响应权威指南.
 * [Incident Response Techniques for Ransomware Attacks](https://www.amazon.com/Incident-Response-Techniques-Ransomware-Attacks/dp/180324044X)  - 为勒索软件攻击构建事件响应策略的绝佳指南. 奥列格·斯库尔金.
-* [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957) - Great reference to build an incident response plan based also on Threat Intelligence. By Roberto Martinez.
+* [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957)  - 建立基于威胁情报的事件响应计划的重要参考. 罗伯托·马丁内斯.
 * [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - 斯科特·J·罗伯茨 (Scott J. Roberts)、丽贝卡·布朗 (Rebekah Brown).
 * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - 事件响应者的重要参考.
-* [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334)  - 实践记忆取证的权威指南. 作者：Svetlana Ostrovskaya 和 Oleg Skulkin.
+* [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich 关于 IR 的书.
 
 ### Communities
@@ -97,7 +97,7 @@
 * [Catalyst](https://github.com/SecurityBrewery/catalyst) - 免费的 SOAR 系统，有助于自动化警报处理和事件响应流程.
 * [CyberCPR](https://www.cybercpr.com) - 社区和商业事件管理工具，内置 Need-to-Know 以在处理敏感事件时支持 GDPR 合规性.
 * [Cyphon](https://medevel.com/cyphon/)  - Cyphon 通过单一平台简化大量相关任务，消除了令人头疼的事件管理. 它接收、处理和分类事件，为您的分析工作流提供包罗万象的解决方案——聚合数据、捆绑和优先排序警报，并使分析师能够调查和记录事件.
-* [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto 安全编排、自动化和响应平台，具有完整的事件生命周期管理和许多集成以增强自动化.
+* [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto security orchestration, automation and response platform with full Incident lifecycle management and many integrations to enhance automations.
 * [DFTimewolf](https://github.com/log2timeline/dftimewolf) - 用于协调取证收集、处理和数据导出的框架.
 * [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - 事件响应跟踪应用程序通过具有大量受影响系统和工件的案例和任务处理一个或多个事件.
 * [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/)  - 网络安全事件管理平台的设计考虑了敏捷性和速度. 它允许轻松创建、跟踪和报告网络安全事件，对 CSIRT、CERT 和 SOC 等非常有用.
@@ -127,6 +127,7 @@
 ### Linux Evidence Collection
 
 * [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - 适用于 Linux 的 FastIR 在实时 Linux 上收集不同的工件并将结果记录在 CSV 文件中.
+* [MAGNET DumpIt](https://github.com/MagnetForensics/dumpit-linux)  - 用 Rust 编写的 Linux 快速内存获取开源工具. 生成 Linux 机器的完整内存故障转储.
 
 ### Log Analysis Tools
 
@@ -168,6 +169,7 @@
 ### Memory Imaging Tools
 
 * [Linux Memory Grabber](https://github.com/halpomeranz/lmg/) - 用于转储 Linux 内存和创建波动率配置文件的脚本.
+* [MAGNET DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows)  - 适用于 Windows（x86、x64、ARM64）的快速内存获取工具. 生成 Windows 机器的完整内存故障转储.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/)  - 免费的映像工具，旨在捕获嫌疑人计算机的物理内存. 支持最新版本的 Windows.
 * [OSForensics](http://www.osforensics.com/)  - 在 32 位和 64 位系统上获取实时内存的工具. 可以完成单个进程的内存空间转储或物理内存转储.
 
@@ -210,7 +212,7 @@
 * [Scout2](https://nccgroup.github.io/Scout2/) - 让 Amazon Web Services 管理员评估其环境安全状况的安全工具.
 * [Stenographer](https://github.com/google/stenographer)  - 旨在将所有数据包快速假脱机到磁盘的数据包捕获解决方案，然后提供对这些数据包子集的简单、快速的访问. 它存储尽可能多的历史记录，管理磁盘使用情况，并在达到磁盘限制时删除. 它非常适合在事件发生之前和期间捕获流量，而无需明确存储所有网络流量.
 * [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - 具有默认高质量事件跟踪的 Sysmon 配置文件模板
-* [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+* [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - sysmon 配置模块的存储库
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl)  - 扩展跟踪路由以支持 CSIRT（或 CERT）操作员的活动. 通常 CSIRT 团队必须根据收到的 IP 地址来处理事件. 由卢森堡计算机应急响应中心创建.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - 用于将病毒样本提交给 AV 供应商的 Windows 实用程序（维护不善或不再维护）.
 
@@ -262,9 +264,9 @@
 
 ### Timeline Tools
 
-* [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
+* [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - 开发平台以轻松构建事件的详细时间表.
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html)  - Fire/Mandiant 提供的免费工具将描述日志/文本文件，该文件可以突出显示图形上与关键字或短语相对应的区域. 有助于确定感染的时间以及妥协后所做的事情.
-* [Morgue](https://github.com/etsy/morgue) - Etsy 的 PHP Web 应用程序，用于管理事后分析.
+* [Morgue](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
 * [Plaso](https://github.com/log2timeline/plaso) - 用于工具 log2timeline 的基于 Python 的后端引擎.
 * [Timesketch](https://github.com/google/timesketch) - 用于协作取证时间线分析的开源工具.
 
@@ -288,6 +290,6 @@
 * [LOKI](https://github.com/Neo23x0/Loki) - 免费的 IR 扫描仪，用于使用 yara 规则和其他指标 (IOC) 扫描端点.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) - 适用于 Windows 的基于 PowerShell 的分类和威胁搜寻.
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时 Windows 系统上的快速事件概述.
-* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
+* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 实时磁盘取证平台，使用 PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/)  - PSRecon 使用 PowerShell（v2 或更高版本）从远程 Windows 主机收集数据，将数据组织到文件夹中，对所有提取的数据进行哈希处理，对 PowerShell 和各种系统属性进行哈希处理，并将数据发送给安全团队. 可以将数据推送到共享、通过电子邮件发送或保留在本地.
 * [RegRipper](https://github.com/keydet89/RegRipper3.0) - 开源工具，用 Perl 编写，用于从注册表中提取/解析信息（键、值、数据）并将其呈现以供分析.

@@ -10,7 +10,7 @@
 
 <p>任何公司都需要在某一时刻从客户那里获得资金. 这就是我们开发人员的事情变得一团糟的时候，因为我们试图用我们的软件堆栈来协调业务的复杂性.</p>
 
-<p>这个<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
+<p>这<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
 
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
@@ -52,7 +52,7 @@
 
 - [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 种依赖网络效应的货币化模式.
 
-- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程实践，并作为系统的灵活属性实施.
+- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程来实践，并作为系统的灵活属性来实现.
 
 ### Usage-based Pricing
 
@@ -98,7 +98,7 @@
 
 ### Hybrid
 
-不常见的定价方案.
+Uncommon pricing schemes.
 
 - [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费套餐.
 
@@ -240,7 +240,7 @@ The central repository of all available services, products, variants, options an
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何体现在小公司的财务报表中.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中具体化.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
@@ -280,7 +280,7 @@ The central repository of all available services, products, variants, options an
 
 - [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - 解释 Square 内部使用的依赖 Google Spanner 的复式记账系统的基本数据模型.
 
-- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - 一个分布式财务会计数据库，以确保资金要么移动，要么不动，它不会在两者之间的某个地方丢失.
+- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 - [Django Hordak](https://django-hordak.readthedocs.io) - Django 复式记账系统的核心功能.
 
@@ -322,7 +322,7 @@ The central repository of all available services, products, variants, options an
 
 - [Raising Prices is Hard](https://www.backblaze.com/blog/raising-prices-is-hard/)  - Backblaze 对提高主要报价的价格进行了事后分析. 他们想创建一个基于信用系统的扩展程序. 这成为他们少数最高级工程师的全职工作，并导致了一个为期六个月的项目.
 
-- [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - The reason you have to add an time limit on credits: unused ones accounts as liabilities on our balance sheet.
+- [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - 您必须为贷项添加时间限制的原因：未使用的账户作为我们资产负债表上的负债.
 
 - [Hacking Scooters: How I Created \$100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - 关于如何利用促销代码获得无限次免费乘车的警示故事.
 
@@ -342,7 +342,7 @@ The central repository of all available services, products, variants, options an
 
  - “英国超市 (...) 向您收取后端卡处理费用，但他们会从您的结账价格中扣除该费用.”  ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
 
-- [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - 美国的一项多州倡议，旨在实现销售税会计和征收的自动化和标准化.
+- [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - A multi-states US initiative to automate and standadize sales tax accounting and collection.
 
 ### European VAT
 
@@ -420,7 +420,7 @@ The central repository of all available services, products, variants, options an
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944)  - 根本原因？ 人们在低湿度空气中穿着大量羊毛，产生大量静电.
 
-- ACH 的工作原理：从开发人员的角度来看， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
+- ACH 的工作原理：开发人员的观点， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox 试图解决不可靠支付服务提供商的问题.
 
@@ -490,6 +490,8 @@ The central repository of all available services, products, variants, options an
 
 - [Driving Global Fraud Losses Down While Empowering Business Growth](https://youtu.be/yJKWpTBVTiI?t=60)  - 在 Uber Eats 的这次演讲中，我们从最大的支付处理商那里了解到“亏损率下降的成长型企业在业内极为罕见”. 此外，欺诈可以采取多种形式：对不易腐烂的商品进行拒付、滥用促销、退款……
 
+- [KYC and AML: beyond the acronyms](https://www.bitsaboutmoney.com/archive/kyc-and-aml-beyond-the-acronyms/) - KYC 是微妙和模糊的，因为它是一个降低风险的随机过程.
+
 - [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - 论文来自关于各种欺诈的多个会议：信用卡、支付交易、贷款、海关检查、洗钱网络等等.
 
 ### Cards
@@ -528,7 +530,7 @@ The central repository of all available services, products, variants, options an
 
 - [Integer percentages as electoral falsification fingerprints](https://arxiv.org/pdf/1410.6059.pdf)  - 本着与上述相同的精神，本文表明选举中报告轮数的频率是人为异常的信号. 可能适用于某些反欺诈领域.
 
-- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “A loss function used in robust regression, that is less sensitive to outliers in data than the squared error loss.”
+- [Huber loss](https://en.wikipedia.org/wiki/Huber_loss) - “稳健回归中使用的损失函数，与平方误差损失相比，它对数据中的异常值不太敏感.”
 
 - [Peak Detection in the Python World](https://blog.ytotech.com/2015/11/01/findpeaks-in-python/) - 检测异常值的简单方法.
 
@@ -576,9 +578,9 @@ The central repository of all available services, products, variants, options an
 
 您为每位客户创造了多少净价值？ 客户生命周期价值（CLV，或生命周期价值的 LTV）对此进行了量化. 理解并采取行动是您企业销售工作中最重要的部分.
 
-- [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.
+- [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992)  - “从表面上看，流失率似乎是客户生命周期变化的自然代表. 让我们深入研究为什么这不是真的.” 流失率不是计算 CLV 的有意义的指标：在客户生命周期中，流失概率不是恒定的. 大多数时候是因为您的免费试用和代金券. 本文说明了用于模拟客户退出概率的分布的影响.
 
-- [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - A seminal paper, with a stronger approach compared to the one above: [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), 更适合月合约等离散时间间隔，前者更适合连续时间过程.
+- [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - 一篇开创性的论文，与上述论文相比采用了更强大的方法： [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), 更适合月合约等离散时间间隔，前者更适合连续时间过程.
 
 - [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - 说明如何使用生存函数更好地模拟保留 [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 
@@ -586,7 +588,7 @@ The central repository of all available services, products, variants, options an
 
 - [Churn Prediction](https://towardsdatascience.com/churn-prediction-3a4a36c2129a)  - “如何以简单的方式使用 Python，通过将预测方法应用于您的所有行动来推动公司的发展.” 依赖于 XGBoost 二进制分类.
 
-- [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - 一个功能齐全的 Python 包，用于根据用户的“存活”和“死亡”状态分析您的用户.
+- [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
 
 - [`retentionizer`](https://github.com/chrisclark/retentionizer) - Python 包显示每个队列的预计保留率并计算该队列中给定客户的 LTV.
 
@@ -627,6 +629,8 @@ The central repository of all available services, products, variants, options an
 ## Competitive Analysis
 
 一组资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
+
+- [Patents on billing systems of the dot-com era](https://news.ycombinator.com/item?id=34773821)  - 全部被废弃，构成现有技术. 这意味着没有什么可以阻止任何人实施或商业化这些概念.
 
 ### Cloud providers
 

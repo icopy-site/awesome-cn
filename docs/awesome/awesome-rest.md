@@ -27,7 +27,7 @@
 * [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - 本文档为正在为 Atlassian 应用程序设计 REST API 的 Atlassian 开发人员提供指南.
 * [Cisco REST API Guide](https://github.com/CiscoDevNet/api-design-guide) - 思科 REST API 设计指南.
 * [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Google 在设计 Cloud API 和其他 Google API（REST API 和 gRPC API）时遵循的准则.
-* [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - 指南由 Haufe-Lexware CTO 团队创建.
+* [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - 由 Haufe-Lexware CTO 团队创建的指南.
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - 作为设计原则，Microsoft REST API 指南鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
 * [Restful API Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines) - 开发 Restful API：一套综合指南.
 
@@ -54,7 +54,7 @@
 ### JavaScript Clients
 
 * [restangular](https://github.com/mgonto/restangular) - AngularJS 服务可以正确、轻松地处理 REST API.
-* [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
+* [restful.js](https://github.com/marmelab/restful.js) - 用于与服务器端 RESTful 资源交互的 JS 客户端.
 * [traverson](https://github.com/basti1302/traverson) - 用于 Node.js 和浏览器的超媒体 API/HATEOAS 客户端
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - 为 js 生成静态客户端库.
 
@@ -65,7 +65,7 @@
 
 ### Ruby Clients
 
-* [RESTClient](https://github.com/rest-client/rest-client) - 用于 Ruby 的简单 HTTP 和 REST 客户端，灵感来自用于指定操作的微框架语法.
+* [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Spyke](https://github.com/balvig/spyke) - 以类似 ActiveRecord 的方式与 REST 服务交互.
 * [excon](https://github.com/excon/excon)  - 可用、快速、简单的 Ruby HTTP 1.1. 它作为通用的 HTTP(s) 客户端工作得很好，特别适合在 API 客户端中使用.
 * [httparty](https://github.com/jnunemaker/httparty) - 让 HTTP 再次变得有趣！
@@ -80,9 +80,9 @@
 ### .NET Clients
 
 * [RestSharp](https://github.com/restsharp/RestSharp) - .NET 的简单 REST 和 HTTP API 客户端
-* [Refit](https://github.com/reactiveui/refit) - 适用于 Xamarin 和 .NET 的自动类型安全 REST 库
+* [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [Flurl](https://flurl.dev) - 流畅、可移植、可测试的 REST/HTTP 客户端库
-* [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可定制. 深受 Refit 启发
+* [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可自定义. 深受 Refit 启发
 * [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - 适用于 .NET 的最简单的 Fluent REST 客户端.
 * [RestLess](https://github.com/letsar/RestLess) - .Net Standard 的自动类型安全无反射 REST API 客户端库.
 * [Apizr](https://github.com/Respawnsive/Apizr) - 基于 Refit 的 web api 客户端，但具有弹性（重试、连接、缓存、身份验证、日志、优先级等）.
@@ -107,7 +107,7 @@
 * [Baucis](https://github.com/wprl/baucis) - 基于您的 Mongoose 实体构建可扩展的 REST API.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) - JavaScript 的同构资源引擎.
 * [loopback](https://loopback.io/) - 强大的 Node.js 框架，用于创建 API 并轻松连接到后端数据源.
-* [Feathers](https://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
+* [Feathers](https://feathersjs.com/) - 是一个实时的微服务 Web 框架，可让您通过 RESTful 资源、套接字和灵活的插件来控制您的数据.
 * [Expressa](https://github.com/thomas4019/expressa) - Express 中间件，用于使用简单的管理编辑器和权限模型从 JSON 模式创建 API.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 基于支持关系数据的猫鼬模型生成 RESTful API.
 * [Nestjsx/crud](https://github.com/nestjsx/crud) - 使用 NestJS 和 TypeORM 为 RESTful API 生成 CRUD 控制器和服务.
@@ -219,7 +219,12 @@
 * [Mockoon](https://mockoon.com)  - 在本地轻松创建模拟 API. 无需远程部署，无需帐户，开源.
 * [Mockintosh](https://mockintosh.io/) - 能够生成 RESTful API 并与消息队列通信以模拟异步任务的模拟服务器生成器.
 
+### Validating
+
+* [JSON Schema](http://json-schema.org/) - 允许您注释和验证 JSON 文档的声明性语言
+
 ### Public REST APIs To Use In Tests
+
 * [Deck of Cards API](https://deckofcardsapi.com) - 用于模拟一副纸牌的开放 API.
 * [ProgrammableWeb](https://www.programmableweb.com/apis/directory) - 世界上最大的 API 存储库.
 * [Public APIS](https://github.com/public-apis/public-apis) - 探索银河系中最大的 API 目录.
@@ -244,7 +249,8 @@
 * [API Umbrella](https://github.com/NREL/api-umbrella) - 用于公开 Web 服务的 API 管理平台，带有 Web 界面和分析，用 Lua 编写.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - 具有轻量级网关和 API 生命周期管理的 API 管理工具，用 Java 编写.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) - 建立在 ExpressJS (Node.js) 之上的微服务 API 网关.
-* [KrakenD](https://github.com/devopsfaith/krakend) 带有中间件的超高性能 API 网关. 用围棋写的.
+* [KrakenD](https://github.com/devopsfaith/krakend)  - 带有中间件的超高性能 API 网关. 用围棋写的.
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/) - 完全托管的服务，可帮助开发人员创建、发布、维护、监控和保护任何规模的 API.
 
 ## SaaS Tools
 

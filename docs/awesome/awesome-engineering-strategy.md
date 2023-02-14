@@ -38,6 +38,7 @@
 - [ADR: Deep Dive into Architecture Decision Records](https://okorkmaz.medium.com/adr-deep-dive-into-architecture-decision-records-8c110ce7d74e) - 介绍什么是架构决策记录，描述术语，如何记录最终架构，并通过呈现真实场景关注最佳实践.
 - [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - 为愿景、使命、目标、目的、路线图、计划、里程碑、政策建立共同语言.
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - 关于战略原因、方式和内容的系列文章的第一篇.
+- [Writing an engineering strategy](https://lethain.com/eng-strategies/) - 关于如何编写和记录工程策略的指南.
 
 ## Videos
 

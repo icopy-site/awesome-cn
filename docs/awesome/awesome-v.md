@@ -215,6 +215,7 @@
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - 用于解析 SSH 配置文件的 AV 库.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造者.
 - [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
+- [VInstall](https://github.com/malisipi/VInstall) - 跨平台安装程序创建者.
 
 ### Web
 

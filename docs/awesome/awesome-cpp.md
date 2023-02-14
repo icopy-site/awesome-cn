@@ -90,6 +90,7 @@
 *音频、声音、音乐、数字化语音库*
 
 * [AudioFile](https://github.com/adamstark/AudioFile)  - 用于读取和写入音频文件的简单 C++ 库.  [麻省理工学院]
+* [audioFlux](https://github.com/libAudioFlux/audioFlux)  - 用于音频和音乐分析、特征提取的 AC 库.  [麻省理工学院]
 * [dr_libs](https://github.com/mackron/dr_libs)  - 用于 C 和 C++ 的单文件音频解码库.  [未授权]
 * [KFR](https://www.kfrlib.com/)  - 快速、现代的 C++ DSP 框架、FFT、FIR/IIR 滤波器、采样率转换.  [GPL/商业]
 * [LAME](https://lame.sourceforge.io/using.php)  - LAME 是一种高质量的 MPEG 音频第三层 (MP3) 编码器.  [LGPL]
@@ -166,7 +167,7 @@
  * [tabulate](https://github.com/p-ranav/tabulate) - 现代 C++ 的制表机 [麻省理工学院]
  * [TCLAP](http://tclap.sourceforge.net)  - 一个成熟、稳定且功能丰富的库，用于在 ANSI C++ 中定义和访问命令行参数.  [麻省理工学院]
  * [termbox](https://github.com/nsf/termbox)  - 用于编写基于文本的用户界面的 AC 库.  [麻省理工学院]
- * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  - 用于编写多平台终端应用程序的小型标头 C++ 库.  [麻省理工学院]
+ * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  - 用于编写多平台终端应用程序的小型头文件 C++ 库.  [麻省理工学院]
  * [FTXUI](https://github.com/ArthurSonzogni/FTXUI)  - C++ 功能终端用户界面.  [麻省理工学院]
  * [imtui](https://github.com/ggerganov/imtui) - 即时模式基于文本的用户界面 [麻省理工学院]
 
@@ -229,7 +230,7 @@
 * [OpenMP](http://openmp.org/) - OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor)  - 事件循环友好的 C++ actor 微框架.  [麻省理工学院]
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  - 在一个相当小的 C++ 框架中实现 Actor、发布-订阅和 CSP 模型.  [BSD-3-条款]
-* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建于 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建在 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 * [RaftLib](http://raftlib.io/) - RaftLib C++ 库，通过 C++ iostream 类运算符实现流/数据流并发 [Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)  - 用于 C++ 的快速单生产者、单消费者无锁队列.  [BSD]
 * [stdgpu](https://github.com/stotko/stdgpu)  - GPU 上高效的类似 STL 的数据结构.  [阿帕奇2]
@@ -361,7 +362,7 @@
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
 * [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆可用于跟踪内存错误.  [BSD]
-* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试.[GPL2]
+* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有多个平台的网络视图的分析器.  [未授权]
 * [MinUnit](https://github.com/siu/minunit)  - 一个最小的单元测试框架，用于 C 自包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ Seams 和模拟对象的 Eclipse CDT 插件.
@@ -544,6 +545,7 @@
 * [json-c](https://github.com/json-c/json-c) - C 中的 JSON 实现. [MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  - 用于 JSON 和类似 JSON 的二进制格式的 C++ 标头库，带有 JSONPointer、JSONPatch、JSONPath 和 JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  - 用于与 JSON 交互的 C++ 库.  [麻省理工学院]
+* [jsonParse](https://github.com/liufeigit/jsonParse) - ANSI C 中的一个简单的 JSON 解析器. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - 用可移植的 ANSI C 编写的占用空间非常小的 JSON 解析器. [BSD]
 * [json11](https://github.com/dropbox/json11)  - 用于 C++11 的小型 JSON 库.  [麻省理工学院]
 * [json-struct](https://github.com/jorgen/json_struct)  - 高性能、单头 JSON 解析器解析到 C++ 结构和从 C++ 结构解析.  [麻省理工学院]
@@ -658,7 +660,7 @@
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐内存分配器. [PublicDomain]
 * [snmalloc](https://github.com/microsoft/snmalloc)  - 基于消息传递的高性能分配器.  [麻省理工学院]
 * [TCMalloc](https://github.com/google/tcmalloc)  - Google 的快速、多线程 malloc 实现.  [Apache-2.0] [website](https://google.github.io/tcmalloc/)
-* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的小型垃圾收集器.  [BSD]
+* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的微型垃圾收集器.  [BSD]
 
 ## Multimedia
 
@@ -765,7 +767,7 @@
 * [Easy Reflection](https://github.com/chocolacula/easy_reflection_cpp)  - 简单快速的反射 + 序列化解决方案，如 Rust、Java 或 Go.  [阿帕奇]
 * [Magic Enum](https://github.com/Neargye/magic_enum)  - 仅标头的 C++17 库为枚举（到字符串、从字符串、迭代）提供静态反射，可与任何枚举类型一起使用，无需任何宏或样板代码.  [麻省理工学院]
 * [magic_get](https://github.com/apolukhin/magic_get)  - std::tuple 类用户定义类型的方法，没有任何宏或样板代码.  [促进]
-* [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入式和无宏运行时反射系统.  [麻省理工学院]
+* [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入式和无宏的运行时反射系统.  [麻省理工学院]
 * [Nameof](https://github.com/Neargye/nameof)  - Header-only C++17库提供nameof宏和函数来获取变量、类型、函数、宏和枚举的简单名称.  [麻省理工学院]
 * [Ponder](https://github.com/billyquith/ponder)  - 用于反射的 C++11 库.  [麻省理工学院]
 * [RTTR](https://github.com/rttrorg/rttr)  - 用于反射的 C++11 库.  [麻省理工学院] [website](http://www.rttr.org)
@@ -812,7 +814,7 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
@@ -898,7 +900,7 @@
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
 * [Expat](http://www.libexpat.org/) - 用 C 语言编写的 XML 解析器库.[麻省理工学院]
 * [Libxml2](http://xmlsoft.org/)  - Gnome 的 XML C 解析器和工具包.  [麻省理工学院]
-* [libxml++](http://libxmlplusplus.sourceforge.net/) - An XML Parser for C++. [LGPL2]
+* [libxml++](http://libxmlplusplus.sourceforge.net/)  - C++ 的 XML 解析器.  [LGPL2]
 * [Mini-XML](https://github.com/michaelrsweet/mxml) - 一个用 ANSI C 编写的小型 XML 解析库.[LGPL2 有例外]
 * [PugiXML](http://pugixml.org/)  - 轻量级、简单且快速的 C++ XML 解析器，支持 XPath.  [麻省理工学院]
 * [RapidXml](http://rapidxml.sourceforge.net/)  - 尝试尽可能创建最快的 XML 解析器，同时保持可用性、可移植性和合理的 W3C 兼容性.  [促进]
@@ -950,7 +952,7 @@
 * [semver.c](https://github.com/h2non/semver.c) - 一个 semver 解析器并在 ANSI C 中呈现.[麻省理工学院]
 * [Serial Communication Library](https://github.com/wjwwood/serial)  - 用 C++ 编写的跨平台串行端口库.  [麻省理工学院]
 * [sigslot](http://sigslot.sourceforge.net/)  - C++ 信号/槽库.  [公共区域]
-* [SimpleSignal](https://github.com/larspensjo/SimpleSignal)  - 高性能 C++11 信号.  [公共区域]
+* [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [Stage](https://github.com/rtv/Stage)  - 移动机器人模拟器.  [GPL2]
 * [stdman](https://github.com/jeaye/stdman) 格式化的 C++11/14 stdlib 手册页（来自 cppreference）.  [麻省理工学院]
 * [stb](https://github.com/nothings/stb)  :zap: - 一系列用于 C/C++ 的单文件库.  [公共区域]
