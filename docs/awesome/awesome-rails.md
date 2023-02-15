@@ -237,7 +237,7 @@
 
 - [FAE](https://github.com/wearefine/fae/) - 由 FINE 开发的现代 CMS（使用 Rails 5.2）
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理（使用Rails 6.0）的智能流程和工作流自动化平台.
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - 市政基础设施检测应用程序（使用 Rails 4.2）.
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
 - [airCasting](https://github.com/HabitatMap/AirCasting)  - 一个使用智能手机（使用 Rails 6.1）记录、映射和共享健康和环境数据的平台.  - [:earth_africa:](https://www.habitatmap.org/aircasting)
 - [alaveteli](https://github.com/mysociety/alaveteli) - 一个用于公开信息自由请求的平台 - 使用 Rails 7.0 - [:earth_africa:](https://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone)  - 音乐托管、管理和分发应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://alonetone.com)
@@ -429,7 +429,7 @@
 - [ranked-model](https://github.com/brendon/ranked-model) - 处理行排序的 gem. [:red_circle:](https://rubygems.org/gems/ranked-model)
 - [ransack](https://github.com/activerecord-hackery/ransack) - 提供搜索功能的 gem. [:red_circle:](https://rubygems.org/gems/ransack)
 - [react-rails](https://github.com/reactjs/react-rails) - 将 React.js 与 Rails 应用程序集成的 gem. [:red_circle:](https://rubygems.org/gems/react-rails)
-- [react_on_rails](https://github.com/shakacode/react_on_rails) - A gem to integrate React.js with Rails app with SSR. [:red_circle:](https://rubygems.org/gems/react_on_rails)
+- [react_on_rails](https://github.com/shakacode/react_on_rails) - 将 React.js 与 Rails 应用程序与 SSR 集成的 gem. [:red_circle:](https://rubygems.org/gems/react_on_rails)
 - [redisWebManager](https://github.com/OpenGems/redis_web_manager) - 允许您轻松管理 Redis 实例的 Web 界面. [:red_circle:](https://rubygems.org/gems/redis_web_manager)
 - [reform-rails](https://github.com/trailblazer/reform-rails) - 用 Rails 应用程序包装 Reform gem 的 gem，一种表单验证工具. [:red_circle:](https://rubygems.org/gems/reform-rails)
 - [rgeo-activerecord](https://github.com/rgeo/rgeo-activerecord) - 提供基于 RGeo 的空间适配器使用的常用工具的 gem. [:red_circle:](https://rubygems.org/gems/rgeo-activerecord)
@@ -501,6 +501,7 @@
 
 ### DevTools
 
+- [Bencher](https://bencher.dev/) - 一套连续的基准测试工具，旨在捕捉 CI 中的性能回归.
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) - 用于改进 Rails 日志的开发工具.
 - [Optic](https://github.com/opticdev/optic) - Optic 自动记录和测试您的 API.
 

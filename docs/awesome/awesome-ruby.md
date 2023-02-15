@@ -134,7 +134,7 @@
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir 是一种 Ruby DSL，它使序列化和缓存对象变得轻而易举.
 * [Readthis](https://github.com/sorentwo/readthis) - 使用 Redis 的高性能、池化、ActiveSupport 兼容缓存.
 * [Record Cache](https://github.com/orslumen/record-cache) - 在 Rails 3 中缓存活动模型记录.
-* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及命名空间.
+* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及名称空间.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) - ActiveRecord 4 的直写和直读缓存库.
 
 ## Captchas and anti-spam
@@ -350,7 +350,7 @@
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner 是一组用于在 Ruby 中清理数据库的策略.
 * [Database Consistency](https://github.com/djezzzl/database_consistency) - 检查应用程序约束和数据库约束是否同步的简单方法.
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - 将外键助手添加到迁移并将外键正确转储到 schema.rb.
-* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 架构迁移.
+* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 模式迁移.
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描您的模型并显示可能应该编制索引的列列表.
 * [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的真实世界数据.
 * [PgHero](https://github.com/ankane/pghero) - Postgres 见解变得简单.
@@ -652,7 +652,7 @@
 ## Image Processing
 
 * [FastImage](https://github.com/sdsykes/fastimage) - FastImage 通过根据需要获取尽可能少的信息来查找给定 uri 的图像的大小或类型.
-* [ImageProcessing](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+* [ImageProcessing](https://github.com/janko/image_processing) - 用于 libvips 和 ImageMagick/GraphicsMagick 的高级图像处理包装器
 * [MiniMagick](https://github.com/minimagick/minimagick) - ImageMagick 或 GraphicsMagick 命令行的 ruby​​ 包装器.
 * [Phasion](https://github.com/westonplatter/phashion) - pHash 周围的 Ruby 包装器，用于检测重复多媒体文件的感知哈希库.
 * [PSD.rb](https://github.com/layervault/psd.rb) - 使用 Ruby 轻松解析 Photoshop 文件.
@@ -1003,7 +1003,7 @@
   * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - Ruby 中的 BloomFilter(s)：本机计数过滤器 + Redis 计数/非计数过滤器.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个 ruby​​ 库，它实现了用于决策树学习的 ID3（信息增益）算法.
 * 公用事业
-  * [algorithms](https://github.com/kanwei/algorithms) - 包含有关何时使用特定结构/算法的文档的库.
+  * [algorithms](https://github.com/kanwei/algorithms) - Library with documentation on when to use a particular structure/algorithm.
   * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持 UTF-8 字符串的 Jaro-Winkler 距离算法的 Ruby &amp; C 实现.
   * [primes-utils](https://github.com/jzakiya/primes-utils) - 一个 Rubygem，它提供了一套用于测试和生成素数的极其快速的实用方法.
   * [Roots](https://github.com/jzakiya/roots) - 一个 Rubygem，它提供实用程序来查找实数和复数的所有 n 次根.
@@ -1166,6 +1166,7 @@
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - 用于构建 JMeter 测试计划的基于 Ruby 的 DSL.
   * [Spring](https://github.com/rails/spring) - 在后台预加载您的 Rails 环境，以加快测试和 Rake 任务.
   * [timecop](https://github.com/travisjeffery/timecop) - 提供“时间旅行”和“时间冻结”功能，使测试时间相关代码变得非常简单.
+  * [Turbo Tests](https://github.com/serpapi/turbo_tests)  - 在多个内核上运行 RSpec 测试. 与 parallel_tests 类似，但具有增量汇总输出.
   * [vcr](https://github.com/vcr/vcr) - 记录您的测试套件的 HTTP 交互并在未来的测试运行期间重播它们以进行快速、确定性、准确的测试.
   * [Wraith](https://github.com/BBC-News/wraith) - 响应式屏幕截图比较工具.
   * [Zapata](https://github.com/Nedomas/zapata)  - 谁有时间写测试？ 这是让他们自己写的革命性工具.

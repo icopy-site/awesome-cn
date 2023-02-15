@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 太棒了 |  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  ：企鹅：|  1034 |  2023 年 2 月 9 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  ：企鹅：|  1035 |  2023 年 2 月 14 日
 
 
 
@@ -36,7 +36,7 @@
 [back to top](#readme) 
 
 * [Airbnb](https://github.com/airbnb/swift) - Airbnb 的官方风格指南.
-* [Google](https://google.github.io/swift/) - 本风格指南基于 Apple 出色的 Swift 标准库风格，还结合了 Google 内部多个 Swift 项目的使用反馈.
+* [Google](https://google.github.io/swift/) - 本风格指南基于 Apple 出色的 Swift 标准库风格，还结合了来自 Google 多个 Swift 项目的使用反馈.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) - LinkedIn 的官方风格指南.
 * [Raywenderlich](https://github.com/kodecocodes/swift-style-guide) - Raywenderlich 指南，必读.
 
@@ -156,6 +156,7 @@
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - 一组独特的 Core ML 模型.
 * [DL4S](https://github.com/palle-k/DL4S) - 从 CNN 和 RNN 到 Transformer 的自动微分、快速张量运算和动态神经网络.
+* [OpenAI](https://github.com/MacPaw/OpenAI) - OpenAI 公共 API 的 Swift 包.
 
 ### Algorithm
 [back to top](#readme) 
@@ -213,7 +214,7 @@
 ### App Routing
 *内部应用程序路由系统.* [back to top](#readme) 
 
-* [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动外部应用程序和深层链接.
+* [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动外部应用程序和深度链接.
 * [Crossroad](https://github.com/giginet/Crossroad) - :oncoming_bus: Crossroad 是一个专注于处理自定义 URL 方案的 URL 路由器.
 * [LightRoute](https://github.com/SpectralDragon/LiteRoute) - VIPER 模块之间的路由.
 * [Linker](https://github.com/MaksimKurpa/Linker) - 处理 iOS 内部和外部深度链接的轻量级方法.
@@ -580,12 +581,12 @@
 * [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 用于反应式和单向应用程序架构的框架.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) - 微软响应式扩展 (Rx).
-* [Signals](https://github.com/artman/Signals) - 替换代表和通知.
+* [Signals](https://github.com/artman/Signals) - 替换委托和通知.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 针对 iOS 优化的发布/订阅事件总线.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - 受 Redux 和 MVVM 启发的 iOS 开发整体方法.
 * [Tokamak](https://github.com/TokamakUI/Tokamak) - 类似 React 的声明式 API，用于构建具有易于使用的单向数据绑定的本机 UI 组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) - 轻量级承诺.
-* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic.
+* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - 发布-订阅设计模式实现框架，能够按主题发布事件.
 * [VueFlux](https://github.com/ra1028/VueFlux) - 单向数据流状态管理架构 - 受 Vuex 和 Flux 启发.
 * [When](https://github.com/vadymmarkov/When) - Promises 的轻量级实现.
 
@@ -744,7 +745,7 @@
 
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)  - 在显示键盘时保持任何 UIView 可见的优雅解决方案. 不需要 UIScrollView.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无代码嵌入式通用库允许防止键盘向上滑动和覆盖 UITextField/UITextView 的问题.
-* [ISEmojiView](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+* [ISEmojiView](https://github.com/isaced/ISEmojiView) - 适用于 iOS 的表情符号键盘
 * [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - 无代码管理器通过点击 iOS 视图来隐藏键盘.
 * [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts)  - 将用户可自定义的全局键盘快捷键添加到您的 macOS 应用程序. 包括 Cocoa 和 SwiftUI 组件.
 * [Ribbon](https://github.com/chriszielinski/Ribbon) - 适用于 iOS 和 macOS 的简单跨平台工具栏/自定义输入附件视图库.
@@ -763,7 +764,7 @@
 * [CGLayout](https://github.com/k-o-d-e-n/CGLayout) :penguin: - 强大的自动布局框架，可以管理 UIView（NSView）、CALayer、未呈现的视图等.提供占位符.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的 Facebook yoga Flexbox 实现的漂亮干净的界面.
 * [Grid](https://github.com/exyte/Grid) - SwiftUI 中缺少的最强大的网格容器.
-* [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - 少写 UI 代码.
+* [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - Write less UI Code.
 * [Neon](https://github.com/mamaral/Neon) - 一个强大的程序化 UI 布局框架.
 * [PinLayout](https://github.com/layoutBox/PinLayout)  - 没有自动布局的快速视图布局. 没有魔法，纯代码，完全控制和极快的速度. 简洁的语法、直观、可读和可链接.  [iOS/macOS/tvOS]
 * [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView)  - 带有粘性标题的滚动视图，滚动时会缩小. 用 SwiftUI 编写.
@@ -979,7 +980,7 @@
 *轻松应对密码学方法* [back to top](#readme) 
 
 * [BlueCryptor](https://github.com/Kitura/BlueCryptor) - IBM 的跨平台加密库.
-* [BlueRSA](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
+* [BlueRSA](https://github.com/Kitura/BlueRSA) - IBM 的跨平台 RSA 加密库.
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - 加密相关的功能和助手.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Apple 的 Common Crypto 库的包装器.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) - JOSE 标准 JWS、JWE 和 JWK 的框架.
@@ -1284,7 +1285,7 @@
 [back to top](#readme) 
 
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
-* [Atributika](https://github.com/psharanda/Atributika)  - 将带有 HTML 标签、链接、主题标签、提及的文本转换为 NSAttributedString. 使用 UILabel 插入式替换使它们可点击.
+* [Atributika](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - 带有变形动画和一些有用功能的简单倒计时 UILabel.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - iOS 的 UILabel 故障.
 * [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - 一个 UILabel 子类，用于（减）递增 UILabel 中的数字.
@@ -1591,7 +1592,7 @@
 
 ## Serverless
 
-* [Azure Functions for Swift](https://github.com/SalehAlbuga/azure-functions-swift) ：企鹅： - 用于 Azure Functions 的 Swift Worker.
+* [Azure Functions for Swift](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
 
 
 ### Contributing

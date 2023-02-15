@@ -23,7 +23,7 @@
 
 &gt; Awesome Low Code 平台、供应商、工具和资源的精选列表.
 
-&gt; 低代码平台提供了一个开发和运行时环境，用于通过直观的体验创建各种软件应用程序，几乎不需要编码技能.
+> Low Code platforms provide a development and runtime environment used to create all kinds of software application through an intuitive experience, with minimal to no coding skills requires.
 
 欢迎投稿！ 请阅读 [contribution guidelines](https://github.com/zenitysec/awesome-low-code/blob/master/contributing.md) 第一的.
 
@@ -33,7 +33,7 @@
 
 ### Citizen Automation and Development Platform
 
-面向业务用户的开发平台（公民开发人员是业务用户的术语，不是角色或职位），不需要编码技能，基于直观的拖放界面. 在此类平台上创建的应用程序通常用于自动化或提高业务流程和个人生产力的效率，而无需通过 IT.  CADP 通常作为 SaaS 使用.
+一个面向业务用户的开发平台（citizen developer 是业务用户的术语，不是角色或职位），不需要编码技能，基于直观的拖放界面. 在此类平台上创建的应用程序通常用于自动化或提高业务流程和个人生产力的效率，而无需通过 IT.  CADP 通常作为 SaaS 使用.
 
 - [Power Automate (Microsoft)](https://flow.microsoft.com/) - 一种在线工作流服务，可在最常见的应用程序和服务中自动执行操作.
 - [Zapier](https://zapier.com/) - 允许其用户轻松连接和自动化他们使用的应用程序.
@@ -46,18 +46,19 @@
 
 一个先进的开发平台，使组织能够通过易于使用的拖放界面创建功能强大的企业级应用程序，无需或最低限度的额外编码要求. 由于此类平台简化了应用程序开发过程，更多类型的角色可以贡献并加速开发过程. 这些平台都是PaaS开发平台，也可以降低开发成本和维护成本.
 
-- [Power Apps (Microsoft)](https://powerapps.com/) - 在数小时而非数月内构建应用程序，轻松连接到数据，使用类似 Excel 的表达式添加逻辑，并在 Web、iOS 和 Android 设备上运行.
+- [Power Apps (Microsoft)](https://powerapps.com/) - 在数小时而不是数月内构建应用程序，轻松连接到数据，使用类似 Excel 的表达式添加逻辑，并在 Web、iOS 和 Android 设备上运行.
 - [Power BI](https://powerbi.microsoft.com/) - 统一来自多个来源的数据，以创建交互式、身临其境的仪表板和报告，提供可操作的见解并推动业务成果.
 - [Appian](https://appian.com/) - 提供低代码软件开发平台，使组织能够快速开发强大的应用程序.
 - [Mendix](https://mendix.com/) - 最快速、最简单的高生产力平台，用于大规模创建和持续改进多渠道应用程序.
 - [OutSystems](https://www.outsystems.com/) - 一个低代码平台，使企业能够开发、部署和管理企业级应用程序.
-- [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - 推动整个企业的互连数字工作流程，提供现代的、类似消费者的体验，并加速实现价值和创新的时间.
+- [Now Platform (ServiceNow)](https://www.servicenow.com/now-platform.html) - 推动整个企业的互联数字工作流程，提供现代的、类似消费者的体验，并加速实现价值和创新的时间.
 - [Creator (Zoho)](https://www.zoho.com/creator/low-code-platform/) - 从头开始​​构建应用程序，而无需编写无穷无尽的代码行.
 - [BettyBlocks](https://www.bettyblocks.com/) - The #1 No Code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - 一个低代码开发平台，使您能够构建可扩展、安全的企业应用程序，具有世界一流的功能，可以部署在任何地方.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - 使用 Low Code 从任何地方点击、创建和发送.
 - [n8n](https://n8n.io/) - 具有许多集成和公平代码许可的工作流自动化工具.
 - [ILLA Cloud](https://www.illacloud.com/) - 一个低代码平台，供开发人员在几分钟内构建内部工具.
+- [Loopple](https://www.loopple.com) - 低代码拖放仪表板生成器.
 
 ### Business Process Management
 
@@ -131,7 +132,7 @@
 ### Power Platform (Microsoft)
 
 - [Power Fx Samples](https://github.com/pnp/powerfx-samples) - 此存储库包含 Power Fx 低代码编程语言的示例.
-- [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
+- [Power Apps & Azure Lab](https://github.com/microsoft/PowerApps-Azure-Lab) - 用于托管 PowerApps Azure 实验室的存储库.
 - [PL-900: Power Platform Fundamentals](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform 基础课程材料.
 
 ### Workato

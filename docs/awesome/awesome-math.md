@@ -182,7 +182,6 @@
 ### Surreal Numbers
 
 * [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) - DE Knuth
-* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - 格雷琴·格林
 * [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 * [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) - 菲利普诚实
 
