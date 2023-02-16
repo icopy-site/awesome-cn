@@ -221,7 +221,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -408,7 +408,7 @@
 
 * [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
-* [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化领域的特殊性，剑桥大学出版社***. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
+* [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5) ]. 苏珊·凯里 (Susan Carey) 关于儿童发展概念理论的扩展著作.
 
@@ -543,7 +543,7 @@
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了组合性，这是语言的显着特征之一.
 
 
-* [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***语言会议演变的论文集&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5) ]. 关于组合性出现的原始论文.
+* [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***语言会议演变的论文集&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5)]. The original paper on the emergence of compositionality.
 
 * [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) - ***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5) ]. 关于多代理强化学习中出现语言的原始论文.
 

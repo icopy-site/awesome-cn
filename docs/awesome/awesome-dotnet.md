@@ -57,7 +57,7 @@
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - 业务层开发框架 https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins 是一个通用框架，用于创建可扩展的应用程序，以及用于创建扩展这些应用程序的插件
-* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，提供易于使用和灵活的规则引擎，旨在解决常见的挑战，如并发处理、事务支持、容错、线程、可伸缩性、异步和多客户端支持以及简单的可测试性，所有没有巨大的学习曲线！
+* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，提供易于使用和灵活的规则引擎，旨在解决常见的挑战，例如并发处理、事务支持、容错、线程、可扩展性、异步和多客户端支持以及易于测试，所有没有巨大的学习曲线！
 * [Plastic](https://github.com/sang-hyeon/Plastic)  - Plastic 提供应用程序中域、应用程序规则、业务规则或业务逻辑等内容的封装. 为此，使用命令模式.
 * [Signals](https://github.com/EmitKnowledge/Signals) - Signals 是一个基于 .NET5 的框架，它专注于通过为开发团队提供工具、方面和流程来提高开发团队的质量和生产力.
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET 是一个开源应用程序框架，可以更轻松地构建企业 .NET 应用程序
@@ -718,7 +718,7 @@
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin)  - 包含具有最高性能的 JS 和 CSS 压缩器，因为它是专门为 .NET 设计的. 可选择为 JS 代码生成 Source Maps.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin)  - 包含一组标记缩小器的 .NET 库. 该项目的目标是通过减少 HTML、XHTML 和 XML 代码的大小来提高 Web 应用程序的性能.
-* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器，而无需按需压缩，还支持在浏览器指示我支持时发送更高级的图像格式.
+* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器而无需按需压缩，还支持在浏览器指示我支持时发送更高级的图像格式.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
@@ -972,6 +972,7 @@
 * [Migrant](https://github.com/antmicro/Migrant) - 可用于未修饰类的快速灵活的序列化框架.
 * [Utf8Json](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 * [ObjectDumper.NET](https://github.com/thomasgalliker/ObjectDumper) - Serializes in-memory object to C# code.
+* [FluentSerializer](https://github.com/Marvin-Brouwer/FluentSerializer#readme) - 用于多种数据格式的基于配置文件的序列化程序.
 
 ## SMS and Phone calls
 
@@ -1043,7 +1044,7 @@
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时又简单明了.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - .NET Core 和.NET Framework 快照测试工具
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - 将业务需求绑定到 .Net 代码
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的变异测试
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的突变测试
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - 用于使用自然语言描述测试的 xUnit.net 扩展.
 * [xUnit.net](https://github.com/xunit/xunit) - 适用于 .NET Framework 的免费、开源、以社区为中心的单元测试工具.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework

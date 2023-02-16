@@ -237,6 +237,7 @@
 - [Elision](https://github.com/sitecore-elision) - 实现 Helix 原则的开源 Sitecore 加速器.
 - [Helixify](https://github.com/konabos/Konabos.Helixify) - 该模块旨在为任何 Sitecore 项目添加即时 Helix 兼容性.
 - [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Avanade 的 Sitecore Framework 遵循 Helix 模块化架构设计原则.
+- [PLAY Summit Demo](https://github.com/Sitecore/Sitecore.Demo.Edge) - XM、Experience Edge、Content Hub DAM 和 CMP、Content Hub Edge、JSS、CDP、Sitecore Personalize、Next.js 和 Vercel 的演示.
 
 ## Icons
 
@@ -316,7 +317,7 @@
 - [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - 用于在您的 Sitecore Azure PaaS 环境中安装 Sitecore 发布服务的 ARM 模板和用于创建必要的 Web 部署包的脚本.
 - [SIF scripts to install Publishing Service](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell 脚本均使用 Sitecore 安装框架 (SIF) 自动安装发布服务并在 ContentManagement 实例或 StandAlone 实例之上自动安装发布模块. 
 - [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) - 允许您监控 Sitecore Publishing CM Server 上的发布队列，查看其当前状态并在需要时取消发布作业（即排队时间、发布作业开始时间、队列持续时间、发布项目数、平均发布时间）一个项目，来自发布作业的所有消息）.
-- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  - 强制发布项目的发布按钮，无论发布限制中项目选项卡上的可发布选项的状态如何.  1) 此功能不会发布您站点中未发布的链接页面，而只会发布媒体库项目和项目字段中使用的数据源等资源，因为这些资源是正确显示您要发布的项目所必需的. 如果尚未完成，此方法甚至会发布当前项目使用的模板和布局.  2) 取消发布按钮使您可以通过单击取消发布项目. 它将更改发布限制，因为它取消选中项目选项卡上的可发布选项，然后使用不带子项目的完整重新发布发布项目.  3) 发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但该项目之后发生了更改，则会显示一个橙色点（因此它已发布，但不是最新的）. 如果当前项根本不存在于发布目标中，则会显示一个红点. 此功能使内容编辑器能够针对每个发布目标详细检查内容是否已发布.
+- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  - 强制发布项目的发布按钮，无论发布限制中项目选项卡上的可发布选项的状态如何.  1) 此功能不会发布您站点中未发布的链接页面，而只会发布媒体库项目和项目字段中使用的数据源等资源，因为这些资源是正确显示您要发布的项目所必需的. 如果尚未完成，此方法甚至会发布当前项目使用的模板和布局.  2) 取消发布按钮使您可以通过单击取消发布项目. 它将更改发布限制，因为它取消选中项目选项卡上的可发布选项，然后使用不带子项目的完整重新发布发布项目.  3) 发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但该项目之后发生了更改，则会显示一个橙色点（因此它已发布，但不是最新的）. 如果当前项目根本不存在于发布目标中，则会显示一个红点. 此功能使内容编辑器能够针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
 

@@ -217,6 +217,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crystal-imgui](https://github.com/oprypin/crystal-imgui) - 绑定到 [Dear ImGui](https://github.com/ocornut/imgui), 即时模式图形用户界面库
  * [GTK4.cr](https://github.com/hugopl/gtk4.cr) - 绑定 [GTK4](https://docs.gtk.org/gtk4/overview.html) 使用结晶化 API
  * [Iu](https://github.com/grkek/iu) - UI框架基于 [Fusion/libui.cr](https://github.com/Fusion/libui.cr) 库，带有自定义元素和修改后的绑定 [hedron-crystal/hedron](https://github.com/hedron-crystal/hedron)
+ * [Ultimate GTK4 Crystal Guide](https://ultimate-gtk4-crystal-guide.geopjr.dev/) - 了解如何在 Crystal 中创建高级 GTK4 应用程序
 
 ## HTML Builders
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Crystal 的简单 HTML 表单生成器，内置支持许多流行的 UI 库，例如 Bootstrap
@@ -311,13 +312,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - 文件名清理
 
 ## Network Protocols
- * [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr)  - AMQP 0-9.1，一种消息传递协议，由例如实现.  RabbitMQ
+ * [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr)  - AMQP 0-9.1，一种消息传递协议，由例如实现. 兔MQ
  * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) - HTTP 隧道/HTTP 代理的连接方法样式
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) - XMPP/Jabber 库
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC 协议实现（客户端、服务器、机器人）
  * [crystal-bacnet](https://github.com/spider-gazelle/crystal-bacnet) - 使用 BACnet/IP 客户端实现 BACnet 协议
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS 协议实现和解析器
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  - JSON 套接字客户端和服务器实现. 受其启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - 一个 MQTT 客户端
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本 1、2c 和 3 的 SNMP 实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
@@ -511,7 +512,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [icr](https://github.com/crystal-community/icr) - Crystal 的交互式控制台（如 Ruby 的 IRB）
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
@@ -536,7 +537,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) - 水晶支持 [Geany editor](https://www.geany.org/)
  * 精简版-XL
    * [lite-plugin-crystal](https://github.com/Tamnac/lite-plugin-crystal) - 水晶支持 [Lite-XL](https://lite-xl.com/en/) 编辑
- * Spacemacs
+ * 太空人
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - 水晶的 Spacemacs 贡献层
  *崇高
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 用于 sublime Text 的 Crystal 语法高亮显示
