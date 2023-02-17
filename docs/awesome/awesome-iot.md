@@ -140,6 +140,7 @@
  - [QuestDB](https://github.com/questdb/questdb)  - 用于实时分析和高性能应用程序的开源时间序列数据库. 支持通过 InfluxDB 线路协议和 SQL 作为查询语言的高吞吐量摄取.
  - [Chaos Genius](https://github.com/chaos-genius/chaos_genius)  - 一个开源 ML 支持的分析引擎，用于离群值/异常检测和根本原因分析. 连接传感器数据，监控异常行为并收到警报.  
  - [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - 发现和查找有关 kandi 的热门和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表.
+ - [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench)  - ThingsOn MQTT Bench 是一个简单的跨平台 .NET Core 基准测试工具，适用于 MQTT 代理. 它测量在指定时间内可以发送到代理的最大消息数.
 
 
 #### Miscellaneous
@@ -149,6 +150,7 @@
  - [Nebula](http://nebula.readthedocs.io) - 旨在管理 IoT 设备的 docker 协调器.
  - [Gladys](https://gladysassistant.com) - Gladys 是一个开源程序，运行在 Raspberry Pi 上并集成到整个家庭网络系统中.
  - [authBroker](https://github.com/authbroker/authbroker) - 像 Aedes 这样的 Keycloak HTTP/MQTT/CoAP IoT 代理适配器.
+ - [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT 文件上传器是一个简单的跨平台 .NET Core 应用程序，它监视本地目录的更改并将新文件或修改后的文件上传到 MQTT 代理.
 ## Protocols and Networks
 
 ### Physical layer
@@ -309,7 +311,7 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许对工业环境�
 
 - [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - 物联网创新 (AIOTI) 旨在加强不同物联网参与者（工业、中小企业、初创企业）和部门之间的联系并建立新的关系.
 - [Bluetooth Special Interest Group](https://www.bluetooth.com/) - 蓝牙特别兴趣小组 (SIG) 是监督蓝牙标准的开发以及向制造商授予蓝牙技术和商标许可的机构.
-- [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
+- [IPSO Alliance](http://www.ipso-alliance.org/) - IPSO 联盟通过培养意识、提供教育、促进行业发展、开展研究以及更好地理解知识产权及其在物联网中的作用，为行业发展奠定基础.
 - [LoRa Alliance](https://www.lora-alliance.org/)  - LoRa 联盟是一个开放的非营利性成员协会，相信现在是物联网时代. 它由行业领导者发起，其使命是对全球部署的低功耗广域网 (LPWAN) 进行标准化，以实现物联网 (IoT)、机器对机器 (M2M)、智慧城市和工业应用.
 - [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/)  - OPC 基金会的使命是管理一个全球组织，在该组织中，用户、供应商和联盟合作为工业自动化中的多供应商、多平台、安全可靠的互操作性创建数据传输标准. 为了支持这一使命，OPC 基金会
 创建和维护规范，通过认证测试确保符合 OPC 规范，并与行业领先的标准组织合作.
@@ -352,7 +354,7 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许对工业环境�
 
 #### [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
- &gt; JavaScript on Things 是您进入激动人心的小型电子编程娱乐世界的第一步. 如果你知道足够多的 JavaScript 来一起破解一个网站，你会让事情发出哔哔声、闪烁和旋转的速度比你说“nodebot”还快. 这本图文并茂的实践书向您展示了如何使用 Arduino、Tessel 和 Raspberry Pi 等平台.
+> JavaScript on Things is your first step into the exciting and downright entertaining world of programming for small electronics. If you know enough JavaScript to hack a website together, you'll be making things bleep, blink and spin faster than you can say "nodebot". This fully-illustrated, hands-on book shows you how to get going with platforms like Arduino, Tessel, and Raspberry Pi.
 
 ### Articles
 

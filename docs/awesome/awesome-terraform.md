@@ -8,10 +8,6 @@
 
  Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
-由...赞助 [Scalr - Terraform Automation & Collaboration Software](https://scalr.com/?utm_source=awesome-terraform)
-
-<a href="https://www.scalr.com/?utm_source=awesome-terraform" target="_blank"><img src="https://bit.ly/2VPBJDv" alt="Scalr - Terraform Automation & Collaboration Software" width="175" height="40" /></a>
-
 
 
 ## Legend
@@ -171,7 +167,7 @@
 - [terraform-digitalocean-droplet](https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean) - 用于管理 DigitalOcean Droplets 和相关资源的 Terraform 模块.
 - [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - 使用 Terraform 在 AWS ECS 上配置 Jenkins.
 - [terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) - 有意见的谷歌云平台项目创建和配置共享 VPC、IAM、API 等.
-- [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/) - Installs Kubernetes on Linode Instances.
+- [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/) - 在 Linode 实例上安装 Kubernetes.
 - [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - 基于变量在 AWS S3 和 Cloudfront 上创建静态网站.
 - [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - 在 AWS EC2 上创建堡垒主机.
 
@@ -180,6 +176,7 @@
 - [anthology](https://github.com/erikvanbrakel/anthology) - 私有 Terraform 注册表实现作为官方注册表的替代方案.
 - [citizen](https://github.com/outsideris/citizen) - 私有 Terraform 模块注册表
 - [modulehub](https://www.modulehub.io) - 私有 Terraform 模块注册表和状态后端.
+- [tapir](https://github.com/PacoVK/tapir)  - 具有提供者和模块支持的模块化私有 Terraform 注册平台. 提供强大的 UI 生成安全指标、依赖关系可视化和自动生成文档.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Terraform 注册表协议的简单实现.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - 服务由 GitHub 版本支持的 terraform 提供商注册表.
 - [terrareg](https://github.com/matthewjohn/terrareg) - 具有 UI 和 git 支持的索引/导入的私有 Terraform 模块注册表
@@ -215,7 +212,7 @@
 - [terraform-provider-github](https://github.com/integrations/terraform-provider-github) - GitHub 的提供者.
 - [terraform-provider-gitlab](https://github.com/gitlabhq/terraform-provider-gitlab) - GitLab 的提供者.
 - [terraform-provider-graphql](https://github.com/sullivtr/terraform-provider-graphql) - GraphQL 查询和突变的提供者.
-- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Hetzner Cloud 的提供商.
+- [terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Provider for Hetzner Cloud.
 - [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - 提供者来管理 healthchecks.io 资源.
 - [terraform-provider-heroku](https://github.com/heroku/terraform-provider-heroku) - Heroku 的提供商.
 - [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - IBM Cloud 的提供商.
@@ -254,7 +251,7 @@
 - [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfy](https://github.com/Azure/aztfy) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -267,8 +264,8 @@
 - [former2](https://github.com/iann0036/former2) - 从您的 AWS 账户中的现有资源生成地形配置.
 - [gaia](https://github.com/gaia-app/gaia) - 用于导入和运行 Terraform 模块的 Web 应用程序.
 - [hcldump](https://github.com/magodo/hcldump) - 转储 HCL (v2) 抽象语法树.
-- [hcledit](https://github.com/minamijoyo/hcledit) - HCL 的命令行编辑器.
-- [hclgrep](https://github.com/magodo/hclgrep) - 用于 HCL(v2) 的基于语法的 grep.
+- [hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+- [hclgrep](https://github.com/magodo/hclgrep) - HCL(v2) 基于语法的 grep.
 - [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - 将 JSON 格式的 IAM 策略转换为 Terraform aws_iam_policy_document 的小工具
 - [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML 到 Terraform HCL 转换器.
 - [KICS](https://github.com/Checkmarx/kics)  - 扫描 IaC 项目以查找安全漏洞、合规性问题和基础设施配置错误. 目前使用 Terraform 项目、Kubernetes 清单、Dockerfiles、AWS CloudFormation 模板和 Ansible 剧本.
@@ -341,7 +338,7 @@
 - [tfmask](https://github.com/cloudposse/tfmask) - 用于屏蔽“terraform plan”和“terraform apply”的选择输出的 Terraform 实用程序
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - GitOps 的 Terraform 状态迁移工具.
 - [tfmigrator](https://github.com/tfmigrator/cli) - 转到库和 CLI 以迁移 Terraform 配置和状态
-- [tfproviderlint](https://github.com/bflad/tfproviderlint) - Terraform 提供商 Lint 工具.
+- [tfproviderlint](https://github.com/bflad/tfproviderlint) - Terraform 提供程序 Lint 工具.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 Terraform 管理的 AWS 基础设施的框架.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Terraform 提供商的模式检查器.
 - [tftree](https://github.com/busser/tftree) - 在您的终端中显示您的 Terraform 模块调用堆栈.
@@ -355,7 +352,7 @@
 
 ## Libraries
 
-- [pyhcl](https://github.com/virtuald/pyhcl) - HCL parser in Python
+- [pyhcl](https://github.com/virtuald/pyhcl) - Python 中的 HCL 解析器
 - [python-hcl2](https://github.com/amplify-education/python-hcl2/) - Python 中的 HCL2 解析器
 - [rhcl](https://github.com/winebarrel/rhcl) - 纯 Ruby HCL 解析器
 

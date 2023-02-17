@@ -89,7 +89,7 @@
 
 #### Entry Point
 - [learn](https://learn.adacore.com/) - 旨在教授 Ada 和 SPARK 编程语言的交互式学习平台.
-- [programming-with-ada](https://pyjarrett.github.io/programming-with-ada/) - 学习 Ada 2012 的轶事和总结.
+- [ada-lang-io](https://ada-lang.io) - Ada 的社区站点.
 - [celebrating-ada](https://www.celebratingada.com/) - Ada历史关键时刻.
 
 #### Tutorials
@@ -253,7 +253,7 @@
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace 致力于使用 Ada 2012 语言编写类 Unix 操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada_KALINDA 是一种用 Ada95 编写的类似于 Mac Plus 的操作系统.
 - [cxos](https://github.com/ajxs/cxos) - Ada 操作系统开发示例.
-- [havk](https://github.com/RavSS/HAVK) - 使用 SPARK 创建的以安全为中心的 x86-64 操作系统.
+- [havk](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS 是一个多处理器、64 位、（部分）正式验证的通用操作系统，目前用于 x86-64 架构.
 - [ironclad](https://nongnu.org/ironclad) - 一个用于多个架构的内核，争取 POSIX 兼容性，用于多个发行版，例如 [Gloire](https://github.com/streaksu/Gloire).
 
@@ -561,7 +561,7 @@
 - [cstrings](https://github.com/mosteo/cstrings) - 方便子程序与 C 字符串交互.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 将 Ada 合格评定机构共享的 CVS 存储库导入 Git 存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  - 用于在 Ada 应用程序中透明处理数据和配置文件访问的库和工具. 支持 MacOSX、Linux 和 Windows.
-- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.    
+- [macos-sdks-vs-gcc](https://github.com/simonjwright/macos-sdks-vs-gcc) - 提供 GCC“规范”文件以应对 SDK 策略更改.    
 - [ux-strings](https://github.com/Blady-Com/UXStrings) - Unicode 扩展字符串.
 - [getopt-ada](https://git.sr.ht/~nytpu/getopt-ada) - Ada 中 getopt(3) 的可移植实现.
 

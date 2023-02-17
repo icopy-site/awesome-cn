@@ -27,7 +27,7 @@
 - [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 ### MOOC<a name=theory_of_computation_introductory_mooc></a>
-- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学中的基本概念，例如 NP 完整性，以及它们对解决棘手的算法问题的意义.
+- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学中的基本概念，例如 NP 完整性，以及它们对解决棘手算法问题的意义.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
@@ -93,7 +93,7 @@
 ## Information/Coding Theory<a name=informationcoding_theory></a>
 ## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
 - [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/)  - 编码和解码算法任务的一些要素及其与纠错的联系； 这些代码现在是算法设计和分析的工具，也是计算复杂性的许多方面的工具. 重点是算法和渐近重要性的构造. 只需要基本的数学成熟度.
- - 斯科特·阿伦森. 量子信息科学. [Part I](https://www.scottaaronson.com/qclec.pdf) & [Part II](https://www.scottaaronson.com/qisii.pdf)  - 第一部分：仅假设线性代数和一些经典算法. 主题包括量子电路、密度矩阵、纠缠熵、维斯纳量子货币、QKD、量子隐形传态、贝尔不等式、QM 的解释、Shor 9 量子位代码以及 Deutsch-Jozsa、Bernstein-Vazirani、Simon、Shor 的算法, 和格罗弗. 第二部分：超越裸量子电路模型的量子计算观点，如哈密顿量、稳定器形式主义、玻色子和费米子、簇态和矩阵乘积态.
+ - 斯科特·阿伦森. 量子信息科学. [Part I](https://www.scottaaronson.com/qclec.pdf) & [Part II](https://www.scottaaronson.com/qisii.pdf)  - 第一部分：仅假设线性代数和一些经典算法. 主题包括量子电路、密度矩阵、纠缠熵、Wiesner 的量子货币、QKD、量子隐形传态、贝尔不等式、QM 的解释、Shor 9 量子位代码以及 Deutsch-Jozsa、Bernstein-Vazirani、Simon、Shor 的算法, 和格罗弗. 第二部分：超越裸量子电路模型的量子计算观点，如哈密顿量、稳定器形式主义、玻色子和费米子、簇态和矩阵乘积态.
 ## Workshops<a name=informationcoding_theory_workshops></a>
 - [Simons Institute. Informaiton Theory Program](https://simons.berkeley.edu/programs/inftheory2015)  - 它旨在加强计算和通信社区之间的联系. 它探索 (1) 复杂性理论和组合学中的信息论技术，(2) 编码理论和应用，以及 (3) 信息论、机器学习和大数据.
 ## Conferences<a name=informationcoding_theory_conferences></a>
@@ -144,7 +144,7 @@
 - [Eva Tardos & et.al. Algorithmic Game Theory](https://www.cambridge.org/core/books/algorithmic-game-theory/0092C07CA8B724E1B1BE2238DDD66B38#fndtn-information) - 关于均衡算法方法、机制设计和组合拍卖的基本章节之后是关于重要博弈论应用的章节，如激励和定价、成本分摊、信息市场以及密码学和安全.
 ## Workshops<a name=game_theory_workshops></a>
 - [Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015)  - 交集的动机是大规模数字拍卖和市场等应用，以及纳什均衡的计算复杂性和机制设计中的复杂性和近似性等基本问题. 此外，为了有效地建模和研究互联网及其新颖的计算现象，可以从博弈论和经济理论中获得模型和见解. 另一方面，计算的观点对于理解一个市场是网络化的世界和经济交易的默认平台是算法的世界是必不可少的.
-- [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - 交集表现为（1）机器学习算法的数据输入是由自利方生成的，（2）机器学习用于优化经济系统或行为，（3）关键系统中使用的机器学习模型变得容易对抗性攻击，以及（4）几种机器学习方法可以被构建为寻找游戏的平衡.
+- [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - 交集表现为（1）机器学习算法的数据输入是由利己方生成的，（2）机器学习用于优化经济系统或行为，（3）关键系统中使用的机器学习模型变得容易对抗性攻击，以及（4）几种机器学习方法可以被构建为寻找游戏的平衡.
 - [Eva Tardos. Learning and Efficiency in Games](https://simons.berkeley.edu/events/openlectures2015-fall-1) - 如何量化战略用户行为对游戏整体性能的影响，包括流量路由和在线拍卖.
 ## Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
@@ -163,7 +163,7 @@
 ## Papers<a name=philosophy_papers></a>
 - [Aaronson. Why Should Philosophers Care About Computational Complexity Theory](https://www.scottaaronson.com/papers/philos.pdf) - 它认为计算复杂性理论导致了对数学知识和其他哲学问题的性质的新观点.
 - [Aharonov & Vazirani, Is Quantum Mechanics Falsifiable? A Computational Perspective on the Foundations of Quantum Mechanics](https://www.researchgate.net/publication/227171743_Is_Quantum_Mechanics_Falsifiable_A_computational_perspective_on_thefoundations_of_Quantum_Mechanics) - 它描述了如何通过将通常的科学范式扩展到包括在内来在高复杂性制度的极限下测试量子力学.
-- [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它强调了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图分离出一些新问题.
+- [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - 它突出了复杂性理论相对于数学哲学家传统上提出的问题的重要性，同时也试图分离出一些新问题.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - 复杂性理论的基础，及其对计算机科学哲学、数学哲学和认识论的潜在意义.
 - [Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - 世界数学化和计算机化的哲学含义.
 ## Math/Logic Preliminaries<a name=mathlogic_preliminaries></a>
@@ -188,7 +188,7 @@
 ## TCS Inspired<a name=mathlogic_preliminaries_tcs_inspired></a>
 ### Lecture Videos Playlists<a name=mathlogic_preliminaries_tcs_inspired_lecture_videos_playlists></a>
 - [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - 它涵盖了您在阅读和进行计算机科学理论研究时需要了解的大量数学/CS 主题 - 或者： [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
-- [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I)
+- [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I)  - 事情教授.  Madhur 希望他在读研究生的第一年就知道.
 ### Lecture Notes<a name=mathlogic_preliminaries_tcs_inspired_lecture_notes></a>
 - [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
 - [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
@@ -211,6 +211,7 @@
  - 韦勒曼. 如何证明：结构化方法.  - 它通过教他们阅读和编写证明所需的技术，从解决问题过渡到证明定理.
 ## Surveys & Monographs<a name=surveys__monographs></a>
 - [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - 历史、技术和哲学论文集.
+- [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - 从亚里士多德和莱布尼茨到诺伯特维纳和戈登摩尔等思想家的经典论文描绘了计算机科学的发展.
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - 计算复杂性的历史概述.
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作以及他们的工作对密码学基础的影响.
 - [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - 庆祝 Laszlo Lovasz 的作品集，将离散数学与计算机科学联系起来.

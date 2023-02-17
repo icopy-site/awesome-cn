@@ -34,9 +34,9 @@
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - 开源测试用例管理系统.
 - [Captura](https://github.com/MathewSachin/Captura) - 开源视频录制工具.
 - [QA Wolf](https://github.com/qawolf/qawolf) - 用于创建浏览器测试速度提高 10 倍的开源 Node.js 库.
-- [Online decision table service](http://decision-table.com/) - 通过使用简单的决策表技术生成案例来实现完整的测试覆盖.
 - [Synth](https://github.com/getsynth/synth) - 开源测试数据生成器.
 - [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标头、重定向 Url、模拟 API 响应、延迟/限制请求等.
+- [Robot Framework](https://robotframework.org/)  - 通用开源自动化框架. 它可用于测试和机器人流程自动化 (RPA).
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一种 Web 服务器，它使用 HTTP 转储作为响应源. 该工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
 - [Keploy](https://github.com/keploy/keploy) - API 测试平台，自动生成单元测试用例以及来自 API 调用的依赖模拟（测试数据）.
 - [BugBug](https://bugbug.io)  - 用于 Web 应用程序的轻量级测试自动化工具. 易于学习，不需要编码. 它是免费的，可以进行无限制的测试. 每月支付额外费用，您还可以获得云监控和 CI/CD 集成.
@@ -45,6 +45,14 @@
 - [Replayable](https://replayable.io) - 桌面行车记录仪，可帮助您在手动测试期间捕获意外错误.
 - [RestQA](https://github.com/restqa/restqa) - 基于 ghekin 的 REST API 测试框架，使用一流的开发人员体验来管理微服务本地测试.
 
+### Web3 and Blockchain
+- [Dapp.tools](https://dapp.tools/) - 用于以太坊智能合约开发的命令行工具和智能合约库.
+- [Ganache](https://trufflesuite.com/ganache/) - 个人以太坊区块链，您可以使用它来运行测试、执行命令和检查状态，同时控制链的运行方式.
+- [Foundry](https://github.com/foundry-rs/foundry) - 用 Rust 编写的用于以太坊应用程序开发的快速、便携和模块化工具包.
+- [Hardhat](https://hardhat.org/) - 多链以太坊开发环境.
+- [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - 这将流行的智能合约测试和部署库与 Robot Framework 结合在一起.
+- [Truffle Suite](https://trufflesuite.com/) - 用于智能合约开发的综合工具套件.
+
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - 立即模拟所有类型的色盲！
 - [Yslow](http://yslow.org/) - 根据 Yahoo! 的性能规则分析网页速度慢的原因.
@@ -52,7 +60,6 @@
 ## Books
 - [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - 为什么您可能希望将您的公司转移到敏捷以及关于如何做到这一点的实用建议.
 - [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7)  - 关于如何改进测试以及为什么要进行测试的很好的说明性示例. 非常适合作为赢得争论的证据！
-- [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - 我为刚接触测试的人准备的书.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 如何指导那些希望作为测试人员过渡到敏捷的人，以及作者如何在他们的敏捷团队中工作.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 一本关于构建探索性测试和设计测试的好书.
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解当今使用的最常见的测试技术，域测试（也称为边界分析和等价类划分），并提供大量示例以变得更好.
@@ -65,7 +72,7 @@
 - [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - 一本教您设计和执行可控实验以发现隐藏问题的书.
 - [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您从第一个简单的单元测试逐步构建可维护、可读和可信赖的完整测试集的书.
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - 通过实施自动化测试流程来保证 Web API 的质量和一致性.
-- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 为开发人员提供的关于如何以系统有效的方式创建高质量测试的实践指南.
+- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训列表
@@ -113,7 +120,7 @@
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常有问题的待办事项列表，以促进面对面的采访.
 
 ## Contributing
-查看*很棒的测试* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) for details on how to contribute.
+查看*很棒的测试* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md) 了解详情. 基本上可以归结为：

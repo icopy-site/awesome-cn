@@ -22,7 +22,6 @@
 ### Europe
 
 - [Archives Portal Europe](https://www.archivesportaleurope.net/) - 欧洲档案搜索引擎.
-- [CENDARI](https://archives.cendari.dariah.eu/) - 包含中世纪和第一次世界大战资源的图书馆搜索引擎.
 - [Encyclopédie d'histoire numérique](https://ehne.fr/) - 欧洲历史，通过更新的史学对象和主要的当代挑战.
 - [Europeana](https://www.europeana.eu/) - 欧洲文本和非文本档案来源的搜索引擎.
 - [Mapire](https://mapire.eu/) - 交互式历史地图.
@@ -48,7 +47,6 @@
 - [leo bw](https://www.leo-bw.de/) - 巴登-符腾堡州国家档案馆平台.
 - [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - 纳粹时代受迫害音乐家的百科全书.
 - [MARCHIVUM](https://druckschriften-digital.marchivum.de/) - 关于曼海姆历史的曼海姆报纸和历史印刷品合集.
-- [PICTURA paedagogica](https://pictura.bbf.dipf.de/viewer/index/) - 关于教育历史的数字图像档案，包含 131,155 个对象.
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - 包含 2,000 多位德语作者的 10,000 部作品.
 - [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - 超过 180 万种图形媒体（照片、地图、绘图）.
 - [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) - 自 1947 年以来的 SPIEGEL 档案.
@@ -86,7 +84,7 @@
 ### Netherlands
 
 - [Delpher](https://www.delpher.nl/) - 超过 1 亿页的荷兰报纸、书籍和杂志.
-- [Nationaal Archief](https://www.nationaalarchief.nl/) - 荷兰国家档案馆包括 137 公里的文件、1500 万张照片和近 30 万张历史地图和图纸以及 800 兆字节的数字文件.
+- [Nationaal Archief](https://www.nationaalarchief.nl/) - 荷兰国家档案馆包括 137 公里的文件、1500 万张照片和近 300,000 幅历史地图和图纸以及 800 TB 的数字文件.
 
 ### North America
 
@@ -111,7 +109,6 @@
 - [arCHeco](https://www.archeco.info/) - 瑞士和列支敦士登档案馆的经济收藏索引.
 - [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV 包括 1968 年苏黎世夏季活动的数字版.
 - [DigiBern](https://www.digibern.ch/) - 互联网上的伯尔尼文化和历史.
-- [Digithek](https://www.digithek.ch/de/) - 中学和职业学校的数字查找辅助工具集.
 - [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - 瑞士的外交文件.
 - [e-codices](http://e-codices.ch/) - 瑞士虚拟手稿图书馆，包含来自 92 个不同馆藏的 2297 份手稿.
 - [e-gs](https://www.e-gs.ethz.ch/) - ETH Zurich Graphics Collection 的在线门户网站.
@@ -130,7 +127,7 @@
 - [map.geo.admin.ch](https://map.geo.admin.ch/) - 通过瑞士地图穿越时空.
 - [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 个瑞士记忆机构的 415,634 份视听文件的访问.
 - [Schweizerisches Wirtschaftsarchiv](https://ub.unibas.ch/de/historische-bestaende/wirtschaftsarchive/) - 该馆藏包括从 1750 年至今的 500 多个商业档案，重点是巴塞尔地区.
-- [swisscollections](https://swisscollections.ch/) - Meta search engine for historical and modern collections in Swiss libraries and archives.
+- [swisscollections](https://swisscollections.ch/) - 瑞士图书馆和档案馆历史和现代馆藏的元搜索引擎.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - 联邦委员会向议会报告过去几年的收支情况.
 
 ## Learning
@@ -142,7 +139,7 @@
 - [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - 卡尔顿大学肖恩格雷厄姆的数字历史方法和读物.
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学 Cameron Blevins 的数字历史方法和读物.
 - [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 您将学习如何批判性地分析历史条件、发展、模式和断裂——或者，如何对这些提出质疑.
-- [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.
+- [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.
 - [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评审的教程，可帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.
 - [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - Jupyter Book（德语）面向正在寻找 Python 编程语言的第一个面向应用程序和交互式介绍的历史学家.
