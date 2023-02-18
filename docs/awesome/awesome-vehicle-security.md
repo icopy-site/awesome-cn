@@ -17,13 +17,20 @@
 
 
 
+## Related Lists
+
+这些列表与您将在汽车黑客世界中找到的特定协议相关.
+
+- [Awesome CAN Bus - an awesome list just for CAN Bus-related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-canbus)
+- [Awesome LIN Bus - an awesome list just for LIN-Bus related tools (hardware, software, etc.)](https://github.com/iDoka/awesome-linbus)
+
 ## Learn
 
 ## Articles
 
 - [How to hack a car — a quick crash-course](https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec)  - 汽车爱好者肯尼·库切拉 (Kenny Kuchera) 展示了足够的信息来帮助您启动和运行. 初学者的绝佳资源！
 - [Stopping a Jeep Cherokee on the Highway Remotely](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) - Chris Valasek 和 Charlie Miller 在 2015 年的 DEFCON 上展示了关于侵入 Jeep 的关键研究.
-- [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/) - Troy Hunt 开始控制 Nissan 汽车.
+- [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/) - Troy Hunt 开始控制 Nissan 车辆.
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) - 关于黑客入侵特斯拉汽车的 DEFCON 23 演示概述.
 - [Anatomy of the Rolljam Wireless Car Hack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/) - RollJam 滚动代码开发设备概述.
 - [IOActive's Tools and Data](http://blog.ioactive.com/2013/08/car-hacking-content.html) - Chris Valasek 和 Charlie Miller 发布了他们用于入侵车辆的一些工具和数据，旨在让更多人参与车辆安全研究.
@@ -188,6 +195,7 @@
 - [Real ORNL Automotive Dynamometer (ROAD) CAN Intrusion Dataset](https://0xsam.com/road/)
 - [CAN DoS Fuzzing Attack Video](https://www.youtube.com/shorts/80A5IhvwsJU)
 - [ECU Reflashing Detector Demo](https://www.youtube.com/watch?v=HPpGzwWQY5Y)
+
 ## Projects
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - 一个社区项目，为您的汽车构建一个硬件模块，一个与其对话的服务器，以及一个与服务器对话的移动应用程序，以允许开发人员和爱好者为他们的汽车添加更多功能并远程控制它.
@@ -273,8 +281,8 @@
 
 - [CANard](https://github.com/ericevenchick/canard) - 用于控制器区域网络应用程序的 Python 框架.
 - [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) - 旨在成为车辆安全的*nmap*.
-- [c0f](https://github.com/zombieCraig/c0f/) - 一种用于 CAN 通信的指纹识别工具，可用于在测试与车辆的交互时在 CAN 网络上查找特定信号.
-- [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html)  - 各种 CAN 实现的 Python 接口，包括 SocketCAN. 允许您使用 Python 2.7.x 或 3.3.x+ 通过 CAN 网络进行通信.
+- [c0f](https://github.com/zombieCraig/c0f/) - 用于 CAN 通信的指纹识别工具，可用于在测试与车辆的交互时在 CAN 网络上查找特定信号.
+- [Python-CAN](https://github.com/hardbyte/python-can)  - 各种 CAN 实现的 Python 接口，包括 SocketCAN. 允许您使用 Python 2.7.x 或 3.3.x+ 通过 CAN 网络进行通信.
 - [Python-OBD](https://github.com/brendan-w/python-OBD)  - 用于处理来自 OBD-II 车辆端口的实时传感器数据的 Python 模块. 与 ELM327 OBD-II 适配器配合使用，适用于 Raspberry Pi.
 - [CanCat](https://github.com/atlas0fd00m/CanCat)  - 用于与实时 CAN 数据交互的“瑞士军刀”.  Python 中的主要 API 接口，但用 C++ 编写.
 - [Scapy](https://github.com/secdev/scapy)  - 一个用于发送、接收、编辑原始数据包的 python 库. 支持 CAN 和汽车协议：请参阅 [automotive doc](https://scapy.readthedocs.io/en/latest/layers/automotive.html)

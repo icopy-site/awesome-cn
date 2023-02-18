@@ -235,7 +235,6 @@
 ### Articles
 
 - [An introduction to V](https://simonknott.de/articles/VLang.html)
-- [Todo App with V](https://practicaldime.org/docs/v-fresh-take/v-todo-implementation)
 
 ### Books
 

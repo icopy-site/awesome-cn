@@ -18,9 +18,9 @@
 	<sub>查看我的最新应用</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/posts/any-text">任何文字</a>
+		<a href="https://www.producthunt.com/posts/today-14">今天</a>
 		<br>
-		<sup>将任何文本放在 iPhone 的锁定屏幕上</sup>
+		<sup>在 macOS 菜单栏中快速查看您的日程安排</sup>
 	</h2>
 </div>
 <br>
@@ -208,9 +208,9 @@
 - [Remember](https://rememberapp.co.kr)  - 名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
-- [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
+- [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
 - [CatLight](https://catlight.io) - 构建状态通知程序.
-- [Discord](https://discord.com) - Voice and text chat.
+- [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 用于为 Cocos2D-x 创建网络和本机游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的降价笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换区块链资产，如比特币和以太坊.
@@ -224,7 +224,7 @@
 - [Cacher](https://www.cacher.io) - 基于云的、支持团队的代码片段管理器，具有 Gist 同步功能.
 - [MusicPlus](https://musicplus.io) - 适用于 macOS 和 Windows 的免费音乐应用程序.
 - [Mingo](https://mingo.io) - MongoDB 图形用户界面.
-- [Moon Modeler](https://datensen.com) - 用于 MongoDB、Mongoose 和 MariaDB 的模式设计工具.
+- [Moon Modeler](https://datensen.com) - 用于 MongoDB、Mongoose 和 MariaDB 的架构设计工具.
 - [Notion](https://notion.so) - 用于笔记、任务、wiki 和数据库的多合一工作区.
 - [FATpick](https://www.fatpick.com) - 吉他指法谱查看器可在您演奏时为您的演奏打分.
 - [Taskade](https://www.taskade.com) - 用于分布式团队的实时组织和协作工具，包括任务、笔记和聊天.

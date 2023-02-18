@@ -32,7 +32,7 @@
 ## Arcade
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Barbarian: The Ultimate Warrior 的开源克隆.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - 经典的架空跑枪游戏.
-- [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
+- [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - RetroArch/Libretro 的 8 人炸弹人克隆.
 - [OpenClonk](https://github.com/openclonk/openclonk) - 多人动作游戏，您可以在其中控制小巧灵活的类人动物.
 - [OpenJazz](https://github.com/AlisterT/openjazz) - 经典 Jazz Jackrabbit™ 游戏的免费开源版本.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - 改写邪教足球比赛 Kick Off 2 的尝试.
@@ -96,6 +96,7 @@
 - [Freeablo](https://github.com/wheybags/freeablo) - 暗黑破坏神引擎的开源实现.
 - [FreeFT](https://github.com/nadult/FreeFT) - 受 Fallout Tactics 启发的实时等距动作游戏引擎.
 - [GemRB](https://github.com/gemrb/gemrb) - Infinity Engine 的便携式开源重新实现（用于 Baldur&#39;s Gate、Icewind Dale 等）.
+- [Zelda3](https://github.com/snesrev/zelda3) - 这是 Zelda 3 - A Link to the Past 的逆向工程克隆.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - 暗黑破坏神 2 的开源重新实现.
 - [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - 使用原始数据和代码重制魔法门 VI-VIII 引擎.
 - [OpenGothic](https://github.com/Try/OpenGothic) - 重新实现哥特式 2：乌鸦之夜.
@@ -106,6 +107,7 @@
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) - zEngine 的开源重新实现，是 Gothic 和 Gothic II 背后的引擎.
 - [Riiablo](https://github.com/collinsmith/riiablo) - 使用 Java 和 LibGDX 重制了暗黑破坏神 II.
 - [sfall](https://github.com/phobos2077/sfall) - 经典游戏辐射2的一组引擎修改.
+- [Shipwright](https://github.com/HarbourMasters/Shipwright) - 塞尔达时之笛的 PC 端口让您享受具有现代控制、宽屏、高分辨率、陀螺仪和其他强大功能的游戏！
 - [Shockolate](https://github.com/Interrupt/systemshock) -同样出色的系统冲击，新的美味.
 - [UAlbion](https://github.com/csinkers/ualbion) - 翻拍 1995 年的 Albion.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java 端口.
@@ -121,6 +123,7 @@
 - [Omnispeak](https://github.com/sulix/omnispeak) - 在 Goodbye Galaxy 中重新实现 Keen 指挥官.
 - [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) - 波斯王子 2 的 Monogame 实施.
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - 波斯王子港口，基于DOS版本的反汇编.
+- [sm64-port](https://github.com/sm64-port/sm64-port) - 用于现代设备的超级马里奥 64 端口.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - 秘密马里奥编年史的改编.
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - VVVVVV 的源代码.
 
@@ -129,9 +132,10 @@
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - 尝试重现经典的极品飞车游戏 (1-6).
 - [Vangers](https://github.com/KranX/Vangers) - 赛车/RPG 混合由其创建者开源，用 C++ 编写.
 - [Vange-rs](https://github.com/kvark/vange-rs) - 这个项目的想法是复制 Vangers 的旧外观和行为，但对图形进行本地硬件加速.
+- [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 开源重新实现，反汇编并翻译成 C. 
 
 ## Simulator
-- [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - 适用于 Windows、macOS、Linux 的 Descent 和 Descent 2 引擎的源端口.
+- [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 源代码项目.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - 重新实现 2003 年的太空游戏 Freelancer.
 

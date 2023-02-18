@@ -12,9 +12,9 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/any-text">任何文本</a>
+			<a href="https://www.producthunt.com/posts/today-14">今天</a>
 			<br>
-			<sup>将任何文本放在 iPhone 的锁定屏幕上</sup>
+			<sup>在 macOS 菜单栏中快速查看您的日程安排</sup>
 		</h2>
 	</div>
 	<br>
@@ -125,7 +125,7 @@
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>只需键入<a href="https://node.cool"><code>node.cool</code></a>即可转到此处.</sub> <sub>在<a href="https://twitter.com/sindresorhus">Twitter 上</a>关注我.</sub>
+		<sub>只需键入<a href="https://node.cool"><code>node.cool</code></a>即可转到此处.</sub> <sub>在<a href="https://twitter.com/sindresorhus">Twitter</a>上关注我.</sub>
 	</p>
 	<br>
 	<p>
@@ -150,10 +150,10 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - 流媒体客户端.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 寻求将所有计算设备与同一文件系统连接起来的分布式文件系统.
 - [stackgl](https://github.com/stackgl) - 建立在 browserify 和 npm 之上的 WebGL 开放软件生态系统.
-- [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
+- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - 将 Torrent 视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
-- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币图书馆.
+- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币库.
 - [PDFKit](https://github.com/foliojs/pdfkit) - PDF生成库.
 - [turf](https://github.com/Turfjs/turf) - 模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) - 使用使用 GitHub 私钥/公钥进行身份验证的 WebRTC 通过网络进行 p2p 管道传输.
@@ -256,7 +256,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -315,7 +315,7 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的网络应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
 - [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块捆绑器.
-- [gulp](https://github.com/gulpjs/gulp) - 流式传输和快速构建系统，有利于代码而不是配置.
+- [gulp](https://github.com/gulpjs/gulp) - 流媒体和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能以及一流的 TypeScript 支持的快速构建系统.
@@ -329,7 +329,7 @@
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C 串行总线访问.
 - [onoff](https://github.com/fivdi/onoff) - GPIO 访问和中断检测.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI 串行总线访问.
-- [pigpio](https://github.com/fivdi/pigpio) - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理.
+- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 - [gps](https://github.com/infusion/GPS.js) - 用于处理 GPS 接收器的 NMEA 解析器.
 
 ### Templating
@@ -338,7 +338,7 @@
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承、异步控制等功能的模板引擎（受 jinja2 启发）.
 - [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Mustache 模板的超集，它添加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单的无主见的模板语言.
-- [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
+- [Pug](https://github.com/pugjs/pug) - 深受 Haml 影响的高性能模板引擎.
 
 ### Web frameworks
 
@@ -356,12 +356,12 @@
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - 支持 ES2015+ 的框架、WebSockets、REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) - 为 TCP 套接字、WebSocket 和 HTTP 客户端制作可重用和可扩展 API 的框架.
 - [seneca](https://github.com/senecajs/seneca) - 用于编写微服务的工具包.
-- [AdonisJs](https://github.com/adonisjs/core) - 真正的 Node.js MVC 框架建立在依赖注入和 IoC 容器的坚实基础之上.
+- [AdonisJs](https://github.com/adonisjs/core) - 真正的 Node.js MVC 框架建立在依赖注入和 IoC 容器的坚实基础上.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - 快速而强大的微服务框架.
 - [Nest](https://github.com/nestjs/nest) - 用于构建高效且可扩展的服务器端应用程序的受 Angular 启发的框架.
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
 - [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - 现代且快速的类似 Express 的 Web 框架.
-- [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
+- [Marble.js](https://github.com/marblejs/marble) - 基于 TypeScript 和 RxJS 构建服务器端应用程序的功能性反应框架.
 - [Lad](https://github.com/ladjs/lad) - 由前 Express TC 和 Koa 成员制作的框架，它捆绑了网络、API、作业和代理服务器.
 - [Ts.ED](https://github.com/tsedio/tsed) - 用于在 Express.js 或 Koa.js 之上构建服务器端应用程序的直观 TypeScript 框架. 
 
@@ -531,7 +531,7 @@
 - [nearley](https://github.com/kach/nearley) - 简单、快速、强大的 JavaScript 解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从 JSON 缓冲区中提取值而不解析整个内容.
 - [Stylecow](https://github.com/stylecow/stylecow)  - 解析、操作和转换现代 CSS 以使其与所有浏览器兼容. 可通过插件扩展.
-- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+- [js-yaml](https://github.com/nodeca/js-yaml) - 非常快速的 YAML 解析器.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML 到 JavaScript 对象转换器.
 - [Jison](https://github.com/zaach/jison)  - 友好的 JavaScript 解析器生成器. 它与 Bison、Yacc 和家族共享基因.
 - [google-libphonenumber](https://github.com/ruimarinho/google-libphonenumber) - 解析、格式化、存储和验证电话号码.
@@ -653,7 +653,7 @@
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - 简单、不显眼的身份验证.
+- [Passport](https://github.com/jaredhanson/passport) - 简单、不引人注目的身份验证.
 - [Grant](https://github.com/simov/grant) - 用于 Express、Koa、Hapi、Fastify、AWS Lambda、Azure、Google Cloud、Vercel 等的 OAuth 提供商.
 
 ### Authorization
@@ -678,7 +678,7 @@
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能 Redis 支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能 Redis 消息队列.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 在没有样板的情况下构建基于 Amazon Simple Queue Service (SQS) 的应用程序.
-- [better-queue](https://github.com/diamondio/better-queue) - 无法使用 Redis 时的简单高效的作业队列.
+- [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 - [bullmq](https://github.com/taskforcesh/bullmq) - 持久作业和消息队列.
 
 ### Node.js management
@@ -803,7 +803,7 @@
 - [Nodeschool](https://github.com/nodeschool) - 通过交互式课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些良好做法.
-- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和实际上令人愉悦阅读的代码.
+- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
