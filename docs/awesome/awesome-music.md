@@ -18,6 +18,7 @@
 ## Audio Libraries
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js 是一个嵌入式 javascript 库，允许在任何地方使用 HTML5 的 &lt;audio&gt; 标签.
+* [audioFlux](https://github.com/libAudioFlux/audioFlux) - 用于音频和音乐分析、特征提取的库.
 * [chord-mark](https://github.com/no-chris/chord-mark) - ChordMark 的参考实现，ChordMark 是一种用于歌词、和弦和节奏的文本符号格式.
 * [howler.js](https://github.com/goldfire/howler.js) - 用于现代网络的 Javascript 音频库.
 * [JSyn](http://www.softsynth.com/jsyn/) - 用于 Java 的音频合成软件 API.
@@ -104,7 +105,7 @@
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
 * [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧氏节奏设计的小型 MIDI 音序器 DSL.
 * [Chuck](https://github.com/ccrma/chuck) - 强时序、并发和动态的音乐编程语言.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法合成的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
 * [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐作曲系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.
