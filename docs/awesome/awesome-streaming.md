@@ -52,6 +52,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos 是一种高性能和弹性的消息流服务，能够连接各种源和接收器并对有效负载执行任意操作、转换和过滤器
 - [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合式流式 I/O 库.
 - [monix](https://github.com/monix/monix) [Scala] - 用于编写异步和基于事件的程序的高性能 Scala / Scala.js 库.
+- [Quix Streams](https://github.com/quixio/quix-streams) [Python] - 一个流媒体库，最初是为迈凯伦一级方程式赛车队设计的，它可以使用 Apache Kafka 作为消息代理来处理大量时间序列数据，精度高达纳秒.
 - [Scramjet Node.js](https://github.com/scramjetorg/framework-js) - [Node.js] 在 Node.js 对象流之上编写的函数式反应流编程框架 + [the legacy Scramjet.js version](https://github.com/scramjetorg/scramjet)
 - [Scramjet Python](https://github.com/scramjetorg/framework-python) - [Python] 函数式反应流编程框架，从头开始编写，对对象、字符串和缓冲流进行操作.
 - [Scramjet C++](https://github.com/scramjetorg/framework-cpp) - [C++] 在 Node.js 对象流之上编写的函数式反应流编程框架.
@@ -72,7 +73,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 ### IoT
 
 - [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - 用于物联网的轻量级流处理引擎.
-- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，支持在网关和边缘设备上进行连续流分析，可以与集中式系统一起工作，在整个物联网生态系统中提供高效及时的分析：从中心到边缘，由 IBM 开源.
+- [Apache Edgent](https://github.com/apache/incubator-edgent) [Java] - 一种编程模型和运行时，支持在网关和边缘设备上进行连续流分析，这些设备可以与集中式系统一起工作，以在整个物联网生态系统中提供高效及时的分析：从中心到边缘，由 IBM 开源.
 - [Apache StreamPipes](https://github.com/apache/incubator-streampipes) [Java] - 一个自助服务（工业）IoT 工具箱，使非技术用户能够连接、分析和探索 IoT 数据流.
 
 ### DSL

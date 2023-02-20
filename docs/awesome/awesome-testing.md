@@ -37,6 +37,7 @@
 - [Synth](https://github.com/getsynth/synth) - 开源测试数据生成器.
 - [Requestly](https://requestly.io/)  - 作为浏览器扩展和桌面应用程序的轻量级代理，用于拦截和修改网络请求. 您可以修改标头、重定向 Url、模拟 API 响应、延迟/限制请求等.
 - [Robot Framework](https://robotframework.org/)  - 通用开源自动化框架. 它可用于测试和机器人流程自动化 (RPA).
+- [wopee.io](https://wopee.io/) - 自主测试平台，为自主视觉回归测试提供机器人.
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP)  - DeepfakeHTTP 是一种 Web 服务器，它使用 HTTP 转储作为响应源. 该工具允许您针对 REST、GraphQL 和其他 API 测试客户端.
 - [Keploy](https://github.com/keploy/keploy) - API 测试平台，自动生成单元测试用例以及来自 API 调用的依赖模拟（测试数据）.
 - [BugBug](https://bugbug.io)  - 用于 Web 应用程序的轻量级测试自动化工具. 易于学习，不需要编码. 它是免费的，可以进行无限制的测试. 每月支付额外费用，您还可以获得云监控和 CI/CD 集成.
@@ -72,7 +73,7 @@
 - [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - 一本教您设计和执行可控实验以发现隐藏问题的书.
 - [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - 一本指导您从第一个简单的单元测试逐步构建可维护、可读和可信赖的完整测试集的书.
 - [Testing Web APIs](https://www.manning.com/books/testing-web-apis) - 通过实施自动化测试流程来保证 Web API 的质量和一致性.
-- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
+- [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - 为开发人员提供的关于如何以系统有效的方式创建高质量测试的实践指南.
 
 ## Training (Includes developer training for automation testers)
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 另一个很棒的开发人员培训列表
@@ -120,7 +121,7 @@
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常有问题的待办事项列表，以促进面对面的采访.
 
 ## Contributing
-查看*很棒的测试* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
+See the *Awesome Testing* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md) 了解详情. 基本上可以归结为：

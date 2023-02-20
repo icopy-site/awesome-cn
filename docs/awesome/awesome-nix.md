@@ -148,6 +148,7 @@
 ### PureScript
 
 * [Easy PureScript Nix](https://github.com/justinwoo/easy-purescript-nix) - 通过 Nix 轻松使用 PureScript 和其他工具的项目.
+* [purs-nix](https://github.com/purs-nix/purs-nix)  - 专为使用 Nix 管理 PureScript 项目而设计的 CLI 和库组合. 它提供了一个可以在您的项目中使用的 Nix API，以及一个用于管理您的开发过程的命令行界面.
 
 ### Python
 

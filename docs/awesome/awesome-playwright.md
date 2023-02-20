@@ -71,6 +71,7 @@
 
 - [theheadless.dev](https://theheadless.dev) - 关于 Playwright（和 Puppeteer）的实用指南和可运行示例.
 - [playwright.tech](https://playwright.tech) - 教程、工具和 Playwright 生态系统展示的中心主页.
+- [playwrightsolutions.com](https://playwrightsolutions.com) - 剧作家自动化测试问题和解决方案的精选.
 
 ## Contribute
 

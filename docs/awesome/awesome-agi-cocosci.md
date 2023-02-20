@@ -139,7 +139,7 @@
 
 * [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***哲学评论***，1965 年. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5) ]. 利普顿关于最佳解释推理的原始论文作为溯因推理的特例.
 
-* [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789&secret=f39e15) - ***劳特利奇***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895&hl=en&as_sdt=0,5) ]. 利普顿 (Lipton) 关于最佳解释推理的书是溯因推理的一个特例.
+* [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789&secret=f39e15) - ***劳特利奇***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895&hl=en&as_sdt=0,5)]. Lipton's book on Inference to the Best Explanation as a special case of Abduction.
 
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***劳特利奇***，1956 年. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5) ]. 一本关于思维模式的经典书籍.
 
@@ -221,7 +221,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -289,7 +289,7 @@
 
 * [Probabilistic machine learning and artificial intelligence](https://www.nature.com/articles/nature14541.pdf) - ***自然***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=1783282361269717744&hl=en&as_sdt=0,5) ].  Zoubin Ghahramani 对贝叶斯机器学习的评论.
 
-* [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***Behavioral and Brain Sciences***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5) ].  Josh Tenenbaum 对贝叶斯泛化的评论.
+* [Generalization, similarity, and Bayesian inference](http://web.mit.edu/cocosci/archive/Papers/tenenbaum_griffiths01.pdf) - ***行为与脑科学***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=14074987155133342565&hl=en&as_sdt=0,5) ].  Josh Tenenbaum 对贝叶斯泛化的评论.
 
 * [Bayesian modeling of human concept learning](http://web.mit.edu/cocosci/archive/Papers/bayes.pdf) - ***NeurIPS&#39;98***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=12185543141957001794&hl=en&as_sdt=0,5&as_vis=1) ]. 关于贝叶斯泛化的原始论文.
 
@@ -368,7 +368,7 @@
 
 * [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***统计科学***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
-* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
+* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
 
@@ -406,7 +406,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -454,7 +454,7 @@
 
 * [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907) ]. 关于频谱聚类的原始论文.
 
-* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
+* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
 
 * [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***关于模式分析和机器智能的 IEEE 汇刊***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对表征学习的评论.
 
@@ -580,7 +580,7 @@
 
 * [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***认知科学趋势***，2023 年. [[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651&hl=en&as_sdt=2005&sciodt=0,5) ]. 概述了计算和生物学原理，这些原理使大脑能够通过创建灵活适应不断变化的目标的抽象来计算选项或行动的有用性.
 
-* [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439&hl=en&as_sdt=0,5)].
+* [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) - ***eLife***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439&hl=en&as_sdt=0,5)].
 
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***机器学习***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
@@ -680,7 +680,7 @@
 
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
-* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***关于强化学习和决策的多学科会议&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5) ].  Richard Sutton 对强化学习研究未来方向的看法.
+* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5) ].  Richard Sutton 对强化学习研究未来方向的看法.
 
 * [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214&hl=en&as_sdt=0,5)].
 
@@ -995,11 +995,11 @@
 
 * [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5) ]. 对 AutoRL 的全面回顾.
 
-* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)]. Chelsea Finn's original paper on Model-Agnostic Meta-Learning (MAML).
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878) ].  Chelsea Finn 关于模型无关元学习 (MAML) 的原始论文.
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 
-* [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5)]. The milestone paper on context Meta-RL.
+* [Meta-Q-Learning](https://openreview.net/forum?id=SJeD3CEFPH) - ***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=2865388954464396222&hl=en&as_sdt=0,5) ]. 关于上下文元强化学习的里程碑论文.
 
 * [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](http://proceedings.mlr.press/v97/rakelly19a.html) - ***ICML'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15379570585451726919&hl=en&as_sdt=0,5)].
 
@@ -1099,7 +1099,7 @@
 
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***科学***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5) ]. 对科学的科学进行全面的大规模审查.
 
-* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
+* [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
 
 * [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
 
@@ -1130,7 +1130,7 @@
 
 * [The uses of argument](http://library.lol/main/8036CBB1CCC448CA7E036774D810EBC0) - ***剑桥大学出版社***，1958 年. [[All Versions](https://scholar.google.com/scholar?cluster=12052408655432810103&hl=en&as_sdt=0,5) ].  Stephen Toulmin 对 Toulmin 论证模式的介绍，该模式通常由主张、理由和反驳组成. 
 
-* [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***College Composition and Communication***, 1965. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker&btnG=) ]. 分析说明性段落结构的原论文，有两种模式——主题-限制-插图模式和问题-解决模式.
+* [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***大学作文与交流***，1965 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker&btnG=) ]. 分析说明性段落结构的原论文，有两种模式——主题-限制-插图模式和问题-解决模式.
 
 * [The uses and complexity of argument structures in expert and student persuasive writing](https://journals.sagepub.com/doi/abs/10.1177/0741088398015002004) - ***书面交流***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=3218190258774062869&hl=en&as_sdt=0,5) ]. 一项行为研究揭示了人们在议论文写作中所利用的论证结构.
 
@@ -1303,7 +1303,7 @@
 
 * [How do people generalize causal relations over objects? A non-parametric Bayesian account](https://psyarxiv.com/x57hf/) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9078127785707706032&hl=en&as_sdt=0,5)].
 
-* [Causal Reasoning in Rats](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/2006_science.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=17987039255457850949&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
+* [Causal Reasoning in Rats](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/2006_science.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=17987039255457850949&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
 
 * [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***英国皇家学会学报 B：生物科学***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
  
@@ -1350,7 +1350,7 @@
 
 * [The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning](https://arxiv.org/abs/2202.04800) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18355807581692234364)].
 
-* [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5) ]. 计算语言学研究的未来展望——常识驱动的具身语言[J].
+* [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)]. A perspective on the furture of computational linguistics research---commonsense-driven and embodied language.
 
 * [Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning](https://aclanthology.org/2021.emnlp-main.162/) - ***EMNLP'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=12305856131717604775&hl=en&as_sdt=0,5)].
 
@@ -1385,14 +1385,14 @@
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图·斯坦福***. 关于逻辑结果的计算哲学解释，它是关于有效论证中前提和结论之间的关系.
 
-* [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/)  - ***柏拉图·斯坦福***. 逻辑多元论的计算哲学解释，即存在不止一种正确逻辑的观点.
+* [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/) - ***Plato Stanford***. A computational philosophy account on Logic Pluralism, which is the view that there is more than one correct logic.
 
 * [The Emergence of First-Order Logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/)  - ***柏拉图·斯坦福***. 关于一阶逻辑出现的计算哲学说明，主要是关于一阶逻辑的自然回顾.
 
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***柏拉图·斯坦福***. 
 
 
-* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5) ]. 关于二阶元规则的原始论文.
+* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)]. The original paper on second-order metarules.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
 
@@ -1454,7 +1454,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1556,7 +1556,7 @@
 
 * [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***心理公报***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克对发展研究的建构主义思想的评论.
 
-* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***心理评论***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5)]. Fei Xu's review extending Gopnik's view of constructivism, with the rationality as constraint.
+* [Towards a rational constructivist theory of cognitive development](https://doi.apa.org/doiLanding?doi=10.1037/rev0000153) - ***心理评论***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=3294824172745724080&hl=en&as_sdt=0,5) ]. 徐飞的评论扩展了戈普尼克的建构主义观点，以理性为约束.
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***认知科学趋势***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5) ]. 劳拉·舒尔茨 (Laura Schulz) 对儿童探索游戏的评论.
 
@@ -1963,7 +1963,7 @@
 
 科学哲学家，科学验证理论的奠基人.
 
-* [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***劳特利奇***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
+* [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 
 * [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***劳特利奇***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
@@ -1980,4 +1980,4 @@
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远未涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题的收集也或多或少带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
+显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

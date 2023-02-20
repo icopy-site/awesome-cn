@@ -72,7 +72,7 @@
 - [Plumber for Sitecore Commerce](https://github.com/richardszalay/plumber-sc) - 查看 Sitecore Commerce 引擎配置的工具.
 - [Short Confirmation Codes](https://github.com/dsolovay/ShortConfirmationCodes) - 提供六个字符的确认代码（可配置），随机生成并在商业数据库中跟踪以避免冲突，因为较短的代码更容易通过支持电话进行通信，并且对于某些客户来说可能比提供的 25 个字符的确认更方便的盒子.
 - [Sitecore Commerce Engine Fedex plugin](https://github.com/XCentium/SC-Plugin-FedEx) - 允许用户将 Fedex 集成为运输的履行方式.
-- [Sitecore Commerce Engine USPS plugin](https://github.com/XCentium/SC-Plugin-USPS) - Allows the user to integrate USPS as a Fulfillment Method for shipping.
+- [Sitecore Commerce Engine USPS plugin](https://github.com/XCentium/SC-Plugin-USPS) - 允许用户将 USPS 集成为运输的履行方式.
 - [Sitecore Commerce Engine UPS Address Validation plugin](https://github.com/XCentium/SC-Plugin-UPS-Address-Validation) - 允许验证送货地址或账单地址，使产品交付成为一种良好的体验.
 
 ## Configuration
@@ -88,7 +88,7 @@
 - [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - 使用 Sitecore 10 和 SXA 在容器中运行构建的真实 Sitecore MVP 网站的源代码.
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - 为最新版本的 Sitecore 构建您自己的 Docker 映像.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) - 存储库包含本地 Sitecore 托管环境的 Packer 模板，带有 IIS 和 Windows 上的 SQL Server、SOLR 和 Sitecore 9.0 构建虚拟机映像和 VirtualBox 的 Vagrant 框，由 Chef 提供.
-- [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - 一个简单的设置，使用生成的证书在使用 SSL 运行 solr 的主机上设置 Linux 容器.
+- [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
 - [Sitecore Docker Tools](https://github.com/sitecore/docker-tools)  - 一组实用程序，用于在 Docker 环境中运行 Sitecore 时改善开发人员的体验. 这是一个带有开发脚本和入口点的图像，可以在 Sitecore 容器构建期间使用，还有一个 PowerShell 模块，其中包含在 Sitecore 容器主机上用于初始化 Sitecore Docker 环境的功能.
 - [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) - 样本撰写文件和相关配置超出了 Sitecore 官方提供的范围.
 - [Container Asset Image Creator Module](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - 用于为给定 Sitecore 模块自动创建 Docker 资产映像的脚本.
@@ -96,6 +96,7 @@
 - [PaaS to AKS](https://github.com/robhabraken/paas-to-aks)  - 用于将 Sitecore 10.0.* 部署到来自 Sitecore 的 Azure PaaS 架构的 Azure AKS 的样板项目. 这包括用于外部数据服务的 ARM 模板，需要在生产环境中运行 Sitecore k8s，以及支持 AKS 上 Sitecore 的完整基础设施即代码设置的脚本.
 - [Sitecore Deployment on Kubernetes Example](https://github.com/georgechang/sitecore-k8s)  - 使用 SolrCloud 在 AKS 上部署 Sitecore 10.1 XP0 的示例. 它应该部署：1）Sitecore 10.1 XP0；  2）微软SQL Server 2019；  3）Zookeeper 3.4（3个副本）；  4）Solr 8.4（3个副本）
 - [Sitecore Module Docker Asset Image Creator](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - 用于为给定 Sitecore 模块自动创建 Docker 资产映像的脚本
+- [Test Sitecore Packages](https://github.com/michaellwest/test-sitecore-packages)  - 提供一种快速方便地安装包作为 docker 映像构建的一部分或在容器启动后安装的方法. 对于需要验证构建工件在 XM 的 vanilla 实例中工作的模块开发人员或团队很有用. 支持 XM、SPE、SXA 和任何自定义模块 zip/scwdp 或通用 zip 文件.
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer)  - Sitecore 内容中心资产导入器； 允许将图像资产从各种数据源导入 Sitecore Content Hub.
@@ -115,7 +116,7 @@
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - 一种用于从 Sitecore 网络应用程序外部重建搜索索引的工具，特别适合长时间运行的构建.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell 脚本库有助于在 Windows 上安装 SolrCloud 集群. 
 - [Docker SolrCloud for Sitecore 10](https://github.com/jermdavis/Sitecore-SolrCloud-Docker)  - 创建一个 SolrCloud 容器，该容器可与 Docker 下的 Sitecore 10 实例一起使用. 这些文件已根据 Sitecore Docker 示例存储库中的 Solr 容器文件进行了调整. 可以使用这些文件替换 Sitecore 提供的默认“solr”服务.
-- [Sitecore SolrProxy](https://github.com/Antonytm/Sitecore.SolrProxy) - 如果您只能访问 Sitecore CM，则该工具可轻松访问 Solr 管理控制台.
+- [Sitecore SolrProxy](https://github.com/Antonytm/Sitecore.SolrProxy) - Tool for easy access to Solr admin console if you have access only to Sitecore CM.
 - [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch)  - Sitecore contentSearch 的通用扩展； 下面填充 SolrSchema 管道处理器，以确保将 Sitecore 中安装的所有语言都添加到 solr 管理的模式中. 
 - [Sitecore Computed Search](https://github.com/martinrayenglish/Sitecore-Computed-Search)  - 一个索引搜索开发加速器，允许开发人员在索引上声明计算的搜索字段，该索引可以捕获和存储范围内项目的目标字段值以及基于作为其表示一部分的特定模板的项目的字段值. 此外，可以使用搜索提升将特定权重应用于这些计算字段，以便可以在搜索结果中提升与搜索词匹配的内容.
 - [sitecore-azure-search-compat](https://github.com/richardszalay/sitecore-azure-search-compat) - Sitecore + Azure 搜索的兼容性补丁.
@@ -123,7 +124,7 @@
 ## Data
 
 - [SitecoreDataImporter](https://github.com/markstiles/SitecoreDataImporter) - 用于将数据库数据和 Sitecore 内容导入 Sitecore.
-- [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - Data Import tool for Sitecore CMS using SPEAK UI.
+- [SitecoreEzImporter](https://github.com/dresser/SitecoreEzImporter) - 使用 SPEAK UI 的 Sitecore CMS 数据导入工具.
 
 ## Data Exchange Framework
 
@@ -165,7 +166,7 @@
 - [Copy Version module](https://github.com/ParTech/Copy-Version)  - 向内容编辑器添加命令，允许用户复制和粘贴项目的最新版本而不是整个项目. 安装后，可以从内容树中的上下文菜单访问“复制版本”和“粘贴版本”命令.
 - [Browse Command](https://github.com/ParTech/Browse-Command)  - 添加一个命令，允许用户在新的浏览器窗口中打开 Sitecore 内容树中的项目.  Sitecore 不提供这种开箱即用的功能，但具有进入预览模式效果的预览命令除外，因此给定模块将执行完全相同的操作，但不会进入预览模式.
 - [Expand Descendants Command](https://github.com/ParTech/Expand-Descendants-Command#expand-descendants-command) - 该模块添加了一个命令，允许用户从 Sitecore 内容树中展开一个项目的所有后代.
-- [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) - Sitecore 的登录屏幕和标题功能区上的环境特定样式（和文本）.
+- [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) - An environment specific styling (and text) on login screen and header ribbon for Sitecore.
 - [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) - 防止 Sitecore 用户绕过插入选项.
 - [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) - 允许在 Sitecore 内容编辑器树上使用 Visual Studio 的“作用域”功能.
 - [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) - 提高了设备​​编辑器的工作效率，如果设置为该特定组件则显示数据源，并通过弹出窗口单击进行预览.
@@ -179,7 +180,7 @@
 ## Fields
 
 - [Sitecore.Foundation.Fields](https://github.com/MartinMiles/Sitecore.Foundation.Fields) - 一组可与您的 Sitecore 解决方案一起使用的自定义字段.
-- [LinkList](https://github.com/josedbaez/Monoco.CMS.FieldTypes) - Sitecore LinkList Field Type.
+- [LinkList](https://github.com/josedbaez/Monoco.CMS.FieldTypes) - Sitecore 链接列表字段类型.
 - [CrossDatabaseTreeListField](https://github.com/ivansharamok/CrossDatabaseTreeListField) - 一个扩展的 Treelist 字段以支持跨数据库引用.
 - [LimitedText Field](https://github.com/ParTech/LimitedText-Field-Controls)  - 向 Sitecore 内容编辑器添加两种新的字段类型，单行文本限制和多行文本限制. 两者都继承了现有文本字段控件的所有功能，并增加了为字段配置最大允许值的可能性，还在用户编辑时通知用户剩余字符数.
 - [CustomFields](https://github.com/AlexanderDavyduk/CustomFields) - NameValueDropLists、NameValueDropListsField、NameValueDroplist、NameValueDroplistField、SortableMultilist、SortableMultilistField、TimeZonesDropList 字段的选择.
@@ -242,7 +243,7 @@
 ## Icons
 
 - [Extra People Icons](https://github.com/jermdavis/ExtraPeopleIcons) - Sitecore 实例的一些额外“人”图标.
-- [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - 用于构建 Sitecore 图标 zip 存档并将其包含在已发布网站中的 MSBuild 扩展.
+- [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - MSBuild extensions for building Sitecore icon zip archives and including them in the published website.
 
 ## Integration
 
@@ -277,7 +278,7 @@
 
 ## NET Core Headless
 
-- [Netcore Auth](https://github.com/robearlam/sitecore-netcore-auth) - A repository showing how to enable authentication in a .NET Core headless Sitecore application.
+- [Netcore Auth](https://github.com/robearlam/sitecore-netcore-auth) - 显示如何在 .NET Core 无头 Sitecore 应用程序中启用身份验证的存储库.
 
 ## ORM
 
@@ -294,7 +295,7 @@
 - [BLAZOR + SITECORE](https://github.com/GoranHalvarsson/SitecoreBlazor) - 允许您运行 Sitecore 应用程序的客户端，也遵循 HELIX 概念，干净的方式.
 - [Sitecore.SampleMvc](https://github.com/coreyasmith/Sitecore.SampleMvc) - 开箱即用的 Sitecore 示例站点代码的 MVC 版本（默认情况下，Sitecore 附带一个基于 Web 表单和 XSLT 构建的示例站点）.
 - [Sitecore TokenManager](https://github.com/JeffDarchuk/SCTokenManager) - 旨在允许将任何类型的内容动态注入 RTE 字段的框架.
-- [sxp-notifications](https://github.com/michaellwest/westco-sxp-notifications) - Sends browser notifications to users in Sitecore.
+- [sxp-notifications](https://github.com/michaellwest/westco-sxp-notifications) - 向 Sitecore 中的用户发送浏览器通知.
 - [Sitecore Redis Session Provider](https://github.com/boro2g/Sitecore-Redis-Session-Provider) - Sitecore Redis 会话提供程序实施.
 
 ## Packaging
@@ -337,6 +338,7 @@
 - [Security Rights Reporting](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - 一个模块，以友好的方式显示包含所有用户及其所有权限的网格，并带有导出选项.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights)  - 启用“item:removeVersion”访问权限，允许作者删除单个项目版本而不允许作者删除整个项目. 它还允许项目的初始创建者删除他/她自己的项目，除非对项目应用了明确的拒绝删除访问权限.
 - [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) - 根据包含现有系统用户数据的现有 ASP.NET 2.0 成员数据库验证用户登录名和密码.
+- [Certz](https://github.com/michaellwest/certz) - 实用程序建立在 .net 7 上并编译为独立的 exe，旨在简​​化证书管理，作为 mkcert 的更好替代方案.
 
 ## SEO
 
@@ -344,7 +346,7 @@
 - [SitecoreSitemapXML](https://github.com/JimmieOverby/SitecoreSitemapXML) - 生成符合 sitemaps.org 定义的架构的站点地图并将其提交给搜索引擎.
 - [Sitemap Generator](https://github.com/jermdavis/SitemapGenerator) - 用于站点地图生成的示例 Sitecore / FakeDB / TDS / Cloud Build 项目.
 - [Sitecore Solr](https://github.com/bigredmachine/sitecore-solr) - 如何扩展 Sitecore Solr 提供程序的示例代码.
-- [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) - 使管理员或编辑能够从 Sitecore 客户端管理 URL 重写规则，支持重写主机名、相对 URL 和绝对 URL.
+- [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) - Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.
 - [RedirectManager](https://github.com/AlexanderDavyduk/Sitecore-RedirectManager) - Sitecore 的重定向管理器.
 - [URL Rewrite](https://github.com/iamandycohen/UrlRewrite) - 特定于站点的重定向/重写模块版本.
 

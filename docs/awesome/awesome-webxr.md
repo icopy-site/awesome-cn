@@ -14,7 +14,8 @@
 
 *令人印象深刻且值得注意的 WebXR 项目.*
 
-- [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - 为纪念 WebXR 1.0 API 的发布而制作，展示了 WebXR 的一些可能性.
+- [Hello WebXR](https://msub2.github.io/hello-webxr/) - 为纪念 WebXR 1.0 API 的发布而制作，展示了 WebXR 的一些可能性.
+  - 这链接到我自己的叉子上体验的镜像，因为它不再可以在其原始域中访问.
 - [Moonrider](https://moonrider.xyz/) - Supermedium 打造的节奏游戏，类似于Beat Saber.
 - [Plockle](https://plockle.com/) - 超过 40 个关卡的空间方块益智游戏.
 - [Castle Builder](https://castle.needle.tools/) - 一个协作和跨平台的城堡建造游戏，利用独特的 Unity-to-three.js 管道.
@@ -25,7 +26,7 @@
 
 *以艺术创作为中心的项目*
 
-- [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
+- [Brushwork VR](https://brushworkvr.com/) - 一款 VR 应用程序，可模拟使用虚拟画布、调色板、颜色混合等进行绘画的过程.
 - [SoulPaint](https://hatsumi.netlify.app/) - 一个 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来说明生活体验.
 - [Obscura](https://obscura.world/) - 漂浮并探索受卡洛·斯卡帕 (Carlo Scarpa) 建筑启发的结构.
 - [Silk Brush](https://www.silkbrush.app/) - Tilt Brush 到 WebXR 的端口，并计划未来扩展.
@@ -139,7 +140,7 @@
 - [A-Frame](https://aframe.io/) - 允许您使用构建在 three.js 之上的声明性 HTML 和自定义 JavaScript 组件来创建 VR 体验.
   - [Official Documentation](https://aframe.io/docs/)
 
-- [Babylon.js](https://www.babylonjs.com/) - 一个功能强大且功能丰富的渲染引擎，打包到 JavaScript 框架中.
+- [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
   - [Official Documentation](https://doc.babylonjs.com/)
 
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - JanusVR 的浏览器内实现，可让您构建社交 VR 体验.

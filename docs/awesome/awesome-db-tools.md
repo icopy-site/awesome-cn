@@ -32,7 +32,7 @@
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - 用于管理 MySQL、MSSQL 和 PostgreSQL 的轻量级客户端，用 Delphi 编写.
 - [MySQL Workbench](https://www.mysql.com/products/workbench) - MySQL Workbench 是面向数据库架构师、开发人员和 DBA 的统一可视化工具.
 - [Navicat](https://www.navicat.com/en/products#navicat) - 一种数据库开发工具，允许您从单个应用程序同时连接到 MySQL、MariaDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库.
-- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Oracle SQL Developer 是一个免费的集成开发环境，可简化传统和云部署中 Oracle 数据库的开发和管理.
+- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Oracle SQL Developer 是一个免费的集成开发环境，可简化传统部署和云部署中 Oracle 数据库的开发和管理.
 - [pgAdmin](https://www.pgadmin.org) - 最流行、功能最丰富的 PostgreSQL 开源管理和开发平台，是世界上最先进的开源数据库.
 - [pgAdmin3](https://www.bigsql.org/pgadmin3) - 对 pgAdmin3 的长期支持.
 - [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - 专门针对为 Oracle 数据库开发存储程序单元的 IDE.
@@ -72,7 +72,7 @@
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - 在您自己的私有云中运行的基于 Web 的 SQL 编辑器.
 - [SQLPro](https://www.macpostgresclient.com) - 一个简单、强大的 macOS Postgres 管理器.
-- [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - 用 Ja​​va 编写的图形 SQL 客户端，允许您查看 JDBC 兼容数据库的结构、浏览表中的数据、发出 SQL 命令等.
+- [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - 用 Ja​​va 编写的图形化 SQL 客户端，允许您查看 JDBC 兼容数据库的结构、浏览表中的数据、发出 SQL 命令等.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - VSCode 的数据库管理.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整和易于使用的 MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - 用于 Clickhouse 的 SQL 编辑器和开源简单商业智能.
@@ -116,7 +116,7 @@
 - [pg-osc](https://github.com/shayonj/pg-osc) - 用于在 PostgreSQL 中进行零停机模式更改和回填的简单 CLI 工具.
 - [Prisma Migrate](https://github.com/prisma/migrate) - 声明性数据库架构迁移工具，使用声明性数据建模语法来描述您的数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - 提供实用程序以将 PostgreSQL 数据库模式描述为 YAML.
-- [Reshape](https://github.com/fabianlindfors/reshape) - 一种易于使用、零停机时间的 Postgres 模式迁移工具.
+- [Reshape](https://github.com/fabianlindfors/reshape) - 一种易于使用、零停机时间的 Postgres 架构迁移工具.
 - [SchemaHero](https://github.com/schemahero/schemahero) - 用于声明性数据库模式管理的 Kubernetes 运算符（用于数据库模式的 gitops）.
 - [Skeema](https://github.com/skeema/skeema) - 用于 MySQL 和 MariaDB 的声明式纯 SQL 模式管理系统，支持分片和外部在线模式更改工具.
 - [Sqitch](https://github.com/sqitchers/sqitch) - 用于无框架开发和可靠部署的明智的数据库原生变更管理.
@@ -130,6 +130,7 @@
 ### Diagrams
 - [Azimutt](https://github.com/azimuttapp/azimutt) - 实体关系图 (ERD) 可视化工具，具有各种过滤器和输入，可帮助理解您的数据库架构.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - 实体关系图生成工具.
+- [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的基于云的免费实体关系图 (ERD) 工具.
 
 ### Documentations
 - [dbdocs](https://dbdocs.io/) - 使用 DSL 代码创建基于 Web 的数据库文档.

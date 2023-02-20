@@ -104,7 +104,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - 加载 .env 文件
  * [Envy](https://github.com/grottopress/envy) - 从 YAML 加载环境变量
- * [envyable](https://github.com/philnash/envyable.cr) - 一个简单的 YAML 到 ENV 配置加载器
+ * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) - 为您的类和模块输入安全配置
  * [totem](https://github.com/icyleaf/totem) - 以 JSON、YAML、dotenv 格式加载和解析配置
 
@@ -198,7 +198,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) 执行
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Kemal 的会话处理程序
  * [mochi](https://github.com/awcrotwell/mochi) - 受 Devise 支持启发的身份验证分片：Authenticable、Confirmable、Invitable 等
- * [motion.cr](https://github.com/awcrotwell/motion.cr) - 面向对象的 Amber 前端库
+ * [motion.cr](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
  * [multi-auth](https://github.com/msa7/multi_auth) - 标准化的多提供商 OAuth2 身份验证（受 omniauth 启发）
  * [praetorian](https://github.com/ilanusse/praetorian) - 受 Pundit 启发的极简授权库
  * [Shield](https://github.com/grottopress/shield) - *Lucky* 框架的全面安全性
@@ -209,7 +209,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [CrSFML](https://github.com/oprypin/crsfml) - 绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - 绑定到 [Chipmunk](http://chipmunk-physics.net/), 一个快速轻量级的 2D 游戏物理库
  * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) - 要集成的绑定 [Dear ImGui](https://github.com/ocornut/imgui) 进入一个 [SFML](https://www.sfml-dev.org/) 项目
- * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
+ * [entitas.cr](https://github.com/spoved/entitas.cr) - Crystal 的实体组件系统框架
  * [MyECS](https://github.com/konovod/myecs) - 一个用于 Crystal 的稀疏实体组件系统框架
  * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - 直接（不安全）绑定到 [SDL2](https://www.libsdl.org/), 用于编写自己的游戏库
 
@@ -318,7 +318,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC 协议实现（客户端、服务器、机器人）
  * [crystal-bacnet](https://github.com/spider-gazelle/crystal-bacnet) - 使用 BACnet/IP 客户端实现 BACnet 协议
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS 协议实现和解析器
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  - JSON 套接字客户端和服务器实现. 受其启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - 一个 MQTT 客户端
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本 1、2c 和 3 的 SNMP 实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
@@ -380,7 +380,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [ishi](https://github.com/toddsundsted/ishi) - 具有小型 API 和由 gnuplot 提供支持的合理默认值的图形绘图包
  * [linalg](https://github.com/konovod/linalg) - 受 MATLAB 和 SciPy.linalg 启发的线性代数库
  * [num.cr](https://github.com/crystal-data/num.cr) - 支持N维数据的数值计算库
- * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
+ * [predict.cr](https://github.com/RX14/predict.cr) - 使用sgp4模型的卫星预测库
  * [quartz](https://github.com/RomainFranceschini/quartz) - 建模和仿真框架
 
 ## Search
@@ -414,6 +414,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Athena Spec](https://github.com/athena-framework/spec) - 常见/有帮助 [Spec](https://crystal-lang.org/api/Spec.html) 合规测试实用程序
  * [crotest](https://github.com/emancu/crotest) - 一个小巧简单的测试框架
  * [crytic](https://github.com/hanneskaeufler/crytic) - 突变测试框架
+ * [hashr](https://github.com/crystal-china/hashr) - 一个小类使对 JSON 响应的测试更容易
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) - 类似于 Capybara 的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) - Web API测试库
  * [microtest](https://github.com/Ragmaanir/microtest) - 专注于权力断言的小型固执己见的测试库
@@ -512,6 +513,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [icr](https://github.com/crystal-community/icr) - Crystal 的交互式控制台（如 Ruby 的 IRB）
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
+ * [procodile](https://github.com/crystal-china/procodile_cr) - 从 Procfile（用于生产和/或开发环境）在 Mac 和 Linux 的后台（和前台）运行进程
  * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
@@ -519,6 +521,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - 调试解析器和格式化程序的帮助工具
  * [crystal-base](https://github.com/ruivieira/crystal-base) - 用于 Crystal 开发的 CentOS 基础 docker 镜像
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) 文档生成器
+ * [port_ruby_to_crystal](https://github.com/crystal-china/port_ruby_to_crystal) - 一个正则表达式替换 ruby​​ 脚本，用于将 ruby​​ 代码移植到 crystal 更容易，减少摩擦
  * [public_suffix](https://github.com/toddsundsted/public_suffix) - 旨在使公共后缀列表 (https://publicsuffix.org/) 更易于使用的小型库
 
 ## DevOps
@@ -551,7 +554,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## LSP Language Server Protocol Implementations
  * [crystalline](https://github.com/elbywan/crystalline) - Crystalline 是用 Crystal 语言编写并为 Crystal 语言编写的语言服务器协议的实现
- * [scry](https://github.com/crystal-lang-tools/scry) - Crystal 的代码分析服务器实现 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+ * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins
  * [crun](https://github.com/Val/crun) - Crystal Run：水晶的 shebang 包装

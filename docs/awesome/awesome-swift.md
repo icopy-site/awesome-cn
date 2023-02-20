@@ -12,7 +12,7 @@
 
  |  iOS 应用 | 太棒了 |  Linux | 项目 | 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  ：企鹅：|  1035 |  2023 年 2 月 14 日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ](https://github.com/sindresorhus/awesome) |  ：企鹅：|  1036|  2023 年 2 月 20 日
 
 
 
@@ -144,7 +144,7 @@
 * [xcodeproj](https://github.com/tuist/xcodeproj) - 用于读取、更新和编写 Xcode 项目和工作区的库.
 
 ## Libs
-*在这里您可以找到您的 Swift 项目的片段和库列表.* 
+*Here you can find a list of snippets and libs for your Swift projects.* 
 
 ### Accessibility
 [back to top](#readme) 
@@ -220,7 +220,7 @@
 * [Linker](https://github.com/MaksimKurpa/Linker) - 处理 iOS 内部和外部深度链接的轻量级方法.
 * [MonarchRouter](https://github.com/nikans/MonarchRouter)  - 声明式状态和基于 URL 的路由器. 复杂的自动视图控制器层次结构转换. 经过时间考验的服务器端约定.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow 是一个基于 Reactive Flow Coordinator 模式的 iOS 应用程序导航框架.
-* [SwiftCurrent](https://github.com/wwt/SwiftCurrent)  - 在可以构建 Swift 的任何地方管理复杂的工作流. 它内置了对 UIKit、故事板和 SwiftUI 的支持.
+* [SwiftCurrent](https://github.com/wwt/SwiftCurrent)  - 在可以构建 Swift 的任何地方管理复杂的工作流程. 它内置了对 UIKit、故事板和 SwiftUI 的支持.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于 iOS 的 URL 路由器.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - 优雅的 URL 路由.
 
@@ -505,7 +505,7 @@
 ### Date
 *轻松处理日期格式.* [back to top](#readme) 
 
-* [AnyDate](https://github.com/Kawoou/AnyDate) - Date & Time API inspired from Java 8 DateTime API.
+* [AnyDate](https://github.com/Kawoou/AnyDate) - 受 Java 8 DateTime API 启发的日期和时间 API.
 * [Chronology](https://github.com/davedelong/time) - 构建更好的日期/时间库.
 * [DateHelper](https://github.com/melvitax/DateHelper) - 简单的约会助手.
 * [Datez](https://github.com/SwiftKitz/Datez) - 用于处理“NSDate”、“NSCalendar”、“NSDateComponents”和“NSTimeInterval”的库.
@@ -760,6 +760,7 @@
 ### Layout
 *帮助您进行布局的库.* [back to top](#readme) 
 
+* [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) - 带有许多预设动画的标签栏.
 * [BrickKit](https://github.com/wayfair-archive/brickkit-ios) - 以简单的方式创建复杂且响应迅速的布局.
 * [CGLayout](https://github.com/k-o-d-e-n/CGLayout) :penguin: - 强大的自动布局框架，可以管理 UIView（NSView）、CALayer、未呈现的视图等.提供占位符.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的 Facebook yoga Flexbox 实现的漂亮干净的界面.
@@ -793,7 +794,7 @@
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints) - TinyConstraints 是使自动布局更适合人类使用的语法糖.
 
 ### Localization
-*有助于本地化您的应用程序的框架* [back to top](#readme) 
+*Frameworks that helps with localizing your app* [back to top](#readme) 
 
 * [BartyCrouch](https://github.com/FlineDev/BartyCrouch) - 从代码和故事板/XIB 中增量更新/翻译您的字符串文件.
 * [CrowdinSDK](https://github.com/crowdin/mobile-sdk-ios) - 立即将 Crowdin 项目的所有新翻译交付给应用程序.
@@ -980,7 +981,7 @@
 *轻松应对密码学方法* [back to top](#readme) 
 
 * [BlueCryptor](https://github.com/Kitura/BlueCryptor) - IBM 的跨平台加密库.
-* [BlueRSA](https://github.com/Kitura/BlueRSA) - IBM 的跨平台 RSA 加密库.
+* [BlueRSA](https://github.com/Kitura/BlueRSA) - IBM's Cross Platform RSA Crypto library.
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - 加密相关的功能和助手.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Apple 的 Common Crypto 库的包装器.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) - JOSE 标准 JWS、JWE 和 JWK 的框架.
@@ -1285,7 +1286,7 @@
 [back to top](#readme) 
 
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
-* [Atributika](https://github.com/psharanda/Atributika) - TConvert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
+* [Atributika](https://github.com/psharanda/Atributika)  - 将带有 HTML 标签、链接、主题标签、提及的文本转换为 NSAttributedString. 使用 UILabel 插入式替换使它们可点击.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - 带有变形动画和一些有用功能的简单倒计时 UILabel.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - iOS 的 UILabel 故障.
 * [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) - 一个 UILabel 子类，用于（减）递增 UILabel 中的数字.
@@ -1592,7 +1593,7 @@
 
 ## Serverless
 
-* [Azure Functions for Swift](https://github.com/SalehAlbuga/azure-functions-swift) :penguin: - Swift Worker for Azure Functions.
+* [Azure Functions for Swift](https://github.com/SalehAlbuga/azure-functions-swift) ：企鹅： - 用于 Azure Functions 的 Swift Worker.
 
 
 ### Contributing
