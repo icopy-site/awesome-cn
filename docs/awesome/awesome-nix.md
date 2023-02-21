@@ -57,7 +57,7 @@
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) - 一个 Nix flake 库，用于提供用于通过 SSH 管理现有 NixOS 主机的应用程序输出.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
-* [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
+* [terraform-nixos](https://github.com/tweag/terraform-nixos) - 一组用于部署 NixOS 的 Terraform 模块.
 * [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统编写您的 Terraform 代码.
 
 ## Virtualisation
@@ -77,6 +77,7 @@
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - 解释为什么两个 Nix 推导不同的工具.
 * [nix-du](https://github.com/symphorien/nix-du) - 可视化要删除哪些 gc-roots 以释放 Nix 存储中的一些空间.
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位带有特定文件的 Nix 包.
+* [nix-init](https://github.com/nix-community/nix-init) - 通过散列预取、依赖关系推断、许可证检测等从 URL 生成 Nix 包.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
 * [nurl](https://github.com/nix-community/nurl) - 从存储库 URL 生成 Nix 提取器调用.
@@ -168,7 +169,7 @@
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与 Rust 工具链和 Firefox 的叠加.
-* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
+* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 * [rust-overlay](https://github.com/oxalica/rust-overlay) - 二进制分布式 Rust 工具链的纯粹且可重现的 nix 覆盖.
 
 ### Scala

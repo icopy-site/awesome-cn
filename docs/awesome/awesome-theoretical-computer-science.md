@@ -87,7 +87,7 @@
 - [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Mitzenmacher &amp; Upfals 和 Motwani &amp; Raghavan 对标准书籍的补充说明.
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/)  - 特别使用随机性、近似值、高维几何等思想. 面临不确定性、处理大数据的方法、处理棘手问题、启发式方法等.
 ## Books<a name=algorithms_books></a>
-- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)  - Garey 和 Johnson 的《计算机与棘手性：NP 完全性指南》的续集. 新主题包括参数化复杂性、近似下限、其他困难假设（ETH、3SUM 猜想、APSP 猜想、UGC 等）、在线算法、流式算法、多项式奇偶校验参数和并行性.
+- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/) - A sequel to Garey and Johnson's Computers and Intractability: A Guide to NP-Completeness. New topics include Parameterized Complexity, Lower bounds on approximation, Other hardness assumptions (ETH, 3SUM-conjecture, APSP-conjecture, UGC, Others), Online Algorithms, Streaming Algorithms, Polynomial Parity Arguments, and Parallelism.
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - 它表明游戏和拼图可以作为强大的计算模型，提供一种新的计算思维方式.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth 关于算法设计和分析的传奇系列.
 ## Information/Coding Theory<a name=informationcoding_theory></a>
@@ -173,7 +173,7 @@
 ### Books<a name=mathlogic_preliminaries_general_books></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了高德纳 (Knuth) 的经典《计算机编程艺术》中的数学预备部分，但呈现方式更加悠闲，并且对个别主题的涵盖更加深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
-- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
+- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 一系列致力于数学主题及其与计算机科学的相关性.
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 为专业计算机科学家提供的简明数学逻辑参考资料.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
@@ -181,7 +181,7 @@
 - [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4) - 适用于逻辑学本科入门课程和早期研究生逻辑课程.
 - [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - 使用语义画面是因为它们在理论上是合理的并且易于理解.
 - [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - 使用您对编程和软件思想的熟悉来教授数学.
-- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - A range of mathematical topics to provide a solid foundation for an undergraduate course in computer science, starting with a review of number systems and their relevance to digital computers, and finishing with differential and integral calculus.
+- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - 一系列数学主题，为计算机科学的本科课程提供坚实的基础，从回顾数字系统及其与数字计算机的相关性开始，到微积分和积分结束.
 - [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - 提出了一种数学分析的算法方法，重点是建模和分析的应用.
 ### Lecture Notes<a name=mathlogic_preliminaries_general_lecture_notes></a>
 - [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - 为计算机科学本科生教授的微积分讲义
@@ -196,6 +196,7 @@
 - [Arora. A Theorist's Toolkit](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/)  - 主要针对计划从事理论计算机科学研究的一年级和二年级研究生. 我们将介绍在证明中有用的概率、代数、组合和算法方法.
 ## Discrete Mathematics<a name=mathlogic_preliminaries_discrete_mathematics></a>
 ### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
+- [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - 耶鲁大学 2017 年秋季课程 CPSC 202a，计算机科学的数学工具.
 - [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - 荣誉离散数学讲义 - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
 ### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
 - [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953)  - 组合数学概率方法研究人员的标准参考. 还显示了与理论计算机科学的联系.
@@ -210,7 +211,7 @@
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
  - 韦勒曼. 如何证明：结构化方法.  - 它通过教他们阅读和编写证明所需的技术，从解决问题过渡到证明定理.
 ## Surveys & Monographs<a name=surveys__monographs></a>
-- [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - 历史、技术和哲学论文集.
+- [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
 - [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - 从亚里士多德和莱布尼茨到诺伯特维纳和戈登摩尔等思想家的经典论文描绘了计算机科学的发展.
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - 计算复杂性的历史概述.
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作以及他们的工作对密码学基础的影响.

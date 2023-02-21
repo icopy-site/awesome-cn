@@ -5,7 +5,7 @@
 
 精选的开发人员优先产品列表.  
 我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
-你可以关注我 [Twitter](https://twitter.com/agammore) 获取更多与开发相关的内容:) 
+你可以关注我 [Twitter](https://twitter.com/agammore) 更多与开发相关的内容:) 
 
 这个 repo 的 developer-first 的定义是：
 * 开发人员是目标受众.
@@ -42,6 +42,7 @@
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 的托管用户身份验证服务.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）作为服务登录.
 * [Okta](https://developer.okta.com/) - 使用 SSO 的可嵌入身份验证.
+* [Ory](https://ory.sh/) - 开源身份和访问控制解决方案（也可作为服务提供）.
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
 * [SuperTokens](https://supertokens.io/) - 使用预建 UI 的开源和托管电子邮件和 Oauth 身份验证.

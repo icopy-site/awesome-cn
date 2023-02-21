@@ -18,7 +18,7 @@
 - [EggBot](https://egg-bot.com) - 用于蛋形和球形物体的笔式绘图仪.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  - 来自 HPGL 标准创建者的老式台式和落地笔式绘图仪.  7475A 型非常常见，通常可以在 eBay 上找到.
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg)  - 老式平板 HPGL 笔式绘图仪. 在 eBay 上搜索“roland dxy”.
-- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - 由木棍、伺服系统和运行 Python 的 Raspberry Pi 制成的便宜且简单的绘图仪.
+- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/)  - 由木棍、伺服系统和运行 Python 的 Raspberry Pi 制成的便宜且简单的绘图仪. 这是 [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) 来自创作者.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - 一个相当简单的 3d 打印 AxiDraw 风格的绘图仪，带有很好的视频文档.
 
 ### Motor Controllers
@@ -52,7 +52,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 和与串行绘图仪接口的 Python 库.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描版 PDF 手册.
-- [djipco/hpgl](https://github.com/djipco/hpgl) - 一个 Node.js 库，用于与 HPGL 兼容的绘图仪和打印机进行通信.
+- [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可以用作 X11 中的预览.
 - [vec](https://github.com/anachrocomputer/vec) - 用于生成 HPGL 的示例 C 代码，带有海龟图形界面.
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) - HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
@@ -96,7 +96,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 
 ### Vector Creation
 
-Tools to create vector artwork from scratch or by conversion from other formats.
+从头开始或通过从其他格式转换来创建矢量图的工具.
 
 - [Inkscape](https://inkscape.org) - 流行的跨平台开源矢量图形编辑器.
 - [p5.js](https://p5js.org) - “使艺术家、设计师、教育工作者和初学者可以访问编码的 JavaScript 库”.
@@ -154,7 +154,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 - [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 关于开始使用旧 HPGL 绘图仪的好信息.
 - [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - 另一篇关于现代笔式绘图仪的入门文章.
-- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 编程矢量路径的一些基础知识，包括排序、连接和简化.
+- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣的算法的详细解释和例子.
@@ -171,6 +171,9 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - 关于绘图仪社区新颖工作流程的研究论文（[Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
 - [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - 带有火星地形绘图仪输出的沉浸式数字装置.
 - [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - 展示从 HP 85 计算机运行的 HP 7470A 的精彩视频.
+- [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - HP 7475A 的一些演示视频.
+- [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - 显示如何打开、清洁和重新填充老式 HP 绘图笔的视频.
+- [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - 操作中的 Commodore 1520 绘图仪视频，包括该机制的掩护镜头.
 
 ## Manuals and Ephemera
 

@@ -43,6 +43,7 @@
 - [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - 最严格（但实用）的 ESLint 配置.
 - [Problems](https://github.com/RyanZim/eslint-config-problems) - 可共享配置，仅捕获实际问题，不强制执行风格偏好.
 - [Supermind](https://github.com/supermind/eslint-config-supermind) - Supermind 风格的可共享配置.
+- [Sheriff](https://github.com/AndreaPontrandolfo/sheriff)  - 全面且自以为是的 Eslint 配置. 面向打字稿.
 
 ## Preconfigured Configs with ESLint Set up
 
@@ -116,8 +117,9 @@
 ### Languages and Environments
 
 - [AssemblyScript](https://www.npmjs.com/package/@shopify/eslint-plugin-assemblyscript) - 对 TypeScript 强制执行 AssemblyScript 合规性限制的规则.
-- [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - 用于检查 ESLint 插件的 ESLint 插件.
+- [Babel](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - 添加替换内置规则以包含 Babel 功能.
 - [Coffee](https://github.com/aminland/eslint-plugin-coffee) - 使用来自 Coffeelint 库的可选 linting 规则启用 linting CoffeeScript 文件.
+- [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - 用于检查 ESLint 插件的 ESLint 插件.
 - 流动
   - [Flow](https://github.com/gajus/eslint-plugin-flowtype) - 流式 linting 规则.
   - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) - 将 Flow 作为 ESLint 插件运行.
@@ -167,7 +169,6 @@ Lodash
 
 - [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - 使用 es2015 数组方法和函数时避免冗余.
 - [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint 规则以确保正确的箭头函数定义.
-- [Babel](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - 添加替换内置规则以包含 Babel 功能.
 - [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) - 确保您的架构边界受到项目检查文件结构和依赖项中元素的尊重.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - 关于 ESLint 指令注释的最佳实践（`/*eslint-disable*/` 等）.
 - [eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - 一个插件，可帮助您实施六边形架构最佳实践.
@@ -196,14 +197,14 @@ Lodash
 
 - [DOM](https://github.com/amilajack/eslint-plugin-dom)
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
-- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-standard) and [Config](https://github.com/Raynos/eslint-config-perf-standard)
+- 性能标准 [plugin](https://github.com/Raynos/eslint-plugin-perf-st和ard) 和 [Config](https://github.com/Raynos/eslint-config-perf-st和ard)
 
 ### Security
 
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - 检测潜在秘密/凭证的 eslint 插件.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - 检查“innerHTML”、“outerHTML”等.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii)  - 检查并执行代码的 PII 合规性. 即评论或字符串文字中没有电子邮件地址、出生日期、IP 地址或电话号码.
-- 扫描JS [config](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
+- 扫描JS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - 安全相关规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的 ESLint 规则.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在最终投入生产之前检测代码库中的 XSS 问题.
 
@@ -244,7 +245,7 @@ Lodash
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) - 使用 Babel 的解析器检查所有 Babel 特性.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - 生成与 ESLint 兼容的输出的 TypeScript 解析器.
+- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku)  - 用于 Roku 开发的 BrightScript 插件. 包括解析器和规则.
 - [GraphQL](https://github.com/dotansimha/graphql-eslint)  - GraphQL AST 的解析器. 包括解析器、插件、处理器（用于非 graphql 文件）和规则.
 

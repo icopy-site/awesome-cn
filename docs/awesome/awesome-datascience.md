@@ -49,6 +49,18 @@
 与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
  在踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 各有利弊. 选择一种您喜欢的语言，然后查看其中一种 [Free courses](#free-courses) 我们在下面列出了！
+ 
+## Real World
+**[`^        back to top        ^`](#awesome-data-science)**
+
+数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界的问题.
+
+### Disaster
+**[`^        back to top        ^`](#awesome-data-science)**
+
+- [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi)  （超过 25,000 名开发人员）正在尝试使用人工智能帮助灾难响应. 一切都是开源 [afet.org](https://afet.org). 
+
+ 
 
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -127,6 +139,7 @@
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是专注于 Coursera 平台上的推荐系统的中级/高级专业.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+
 
 
 ### Intensive Programs
@@ -403,7 +416,7 @@
 | [Variance](https://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
 | [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可，版本 2.0），或简称为 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
 | [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
-| [Apache Flink](https://flink.apache.org/)  | 用于高效、分布式、通用数据处理的平台.  |
+| [Apache Flink](https://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
 | [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.（免费 Matlab）|
@@ -425,7 +438,7 @@
 | [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 结合 Jupyter 交互环境的 Julia 语言后端 |
 | [Apache Zeppelin](https://zeppelin.apache.org/)  | 基于 Web 的笔记本，支持使用 SQL、Scala 等进行数据驱动、交互式数据分析和协作文档 |
 | [Featuretools](https://github.com/alteryx/featuretools)  | 一个用 python 编写的用于自动化特征工程的开源框架 |
-| [Optimus](https://github.com/hi-primus/optimus) | Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend.  |
+| [Optimus](https://github.com/hi-primus/optimus)  | 使用 PySpark 后端进行清理、预处理、特征工程、探索性数据分析和简单的机器学习.  |
 | [Albumentations](https://github.com/albumentations-team/albumentations)  |  А 快速且与框架无关的图像增强库，可实现多种增强技术. 支持开箱即用的分类、分割、检测. 曾在 Kaggle、Topcoder 和 CVPR 研讨会的一些深度学习竞赛中获胜.  |
 | [DVC](https://github.com/iterative/dvc)  | 一个开源数据科学版本控制系统. 它有助于跟踪、组织和使数据科学项目可重现. 在其非常基本的场景中，它有助于版本控制和共享大数据和模型文件.  |
 | [Lambdo](https://github.com/asavinov/lambdo)  | 是一种工作流引擎，通过将 (i) 特征工程和机器学习 (ii) 模型训练和预测 (iii) 表填充和列评估结合在一个分析管道中，显着简化了数据分析.  |
@@ -465,7 +478,7 @@
 | [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本控制和部署 |
 | [MLflow](https://mlflow.org/)  | 用于在整个生命周期内管理 ML 模型的 MLOps 框架 |
 | [cleanlab](https://github.com/cleanlab/cleanlab)  | 用于以数据为中心的 AI 并自动检测 ML 数据集中的各种问题的 Python 库 |
-| [AutoGluon](https://github.com/awslabs/autogluon)  |  AutoML 可轻松为图像、文本、表格、时间序列和多模态数据生成准确的预测 |
+| [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
 | [Arize AI](https://arize.com/)  |  Arize AI 社区层可观察性工具，用于监控生产中的机器学习模型和数据质量和性能漂移等根本问题.  |
 | [Aureo.io](https://aureo.io)  |  Aureo.io 是一个专注于构建人工智能的低代码平台. 它为用户提供了创建管道、自动化并将它们与人工智能模型集成的能力——所有这些都带有他们的基本数据.  |
 | [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的基于云的免费实体关系图 (ERD) 工具.
@@ -558,7 +571,7 @@
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [ICML](https://icml.cc/2015/) - 机器学习国际会议
-- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议 (GECCO)
+- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
 - [epjdatascience](https://epjdatascience.springeropen.com/)
 - [Journal of Data Science](https://jds-online.org/journal/JDS) - 一本致力于统计方法应用的国际期刊
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
@@ -787,7 +800,7 @@
  | 大数据狂潮 |  Data Viz Wiz，数据记者，Growth Hacker，《傻瓜数据科学》（2015 年）作者 |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
  | 查理·格林巴克 |  @ExploreAltamira 数据科学总监 |
-| [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 的数据科学家 |
+| [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
 | [Data Science Central](https://twitter.com/DataScienceCtrl)  |  Data Science Central 是业界为大数据从业者提供的单一资源.  |
@@ -795,7 +808,7 @@
 | [Data Science Renee](https://twitter.com/BecomingDataSci)  | 记录我从攻读工程硕士学位的 SQL 数据分析师到数据科学家的历程 |
 | [Data Science Report](https://twitter.com/TedOBrien93)  | 使命是帮助指导和推进数据科学与分析领域的职业生涯 |
 | [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
-| [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
+| [Data Vizzard](https://twitter.com/DataVisualizati)  |  DataViz, 安全, 军事 |
 | [DataScienceX](https://twitter.com/DataScienceX) |  |
  | 深度学习4j |  |
 | [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，@ RelateIQ 副总裁.  |
@@ -896,7 +909,7 @@
 | [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](https://scikit-learn.org/stable/_static/ml_map.png)                                                                                                            | 选择合适的估算器 |
 | [<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png)                                                                                                                                                 | 数据科学行业：谁做什么 |
 | [<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png)                                                                                                                                                 | 数据科学 ~~维恩~~ 欧拉图 |
-| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色来自 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard                                                                                             |
+| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色来自 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 通过跳板 |
 | [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 一种简单友好的方式来教授非数据科学家/非统计学家的同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自 Geckoboard  [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
@@ -925,7 +938,7 @@
 - [World Bank Data](https://data.worldbank.org/)
 - [NYC Taxi data](https://chriswhong.github.io/nyctaxi/)
 - [Open Data Philly](https://www.opendataphilly.org/) 将人们与费城的数据联系起来
-- [grouplens.org](https://grouplens.org/datasets/) 示例电影（带评级）、书籍和维基数据集
+- [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/) - 包含有利于机器学习的数据集
 - [research-quality data sets](https://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 经过 [Hilary Mason](https://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Centers for Environmental Information](https://www.ncei.noaa.gov/)

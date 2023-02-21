@@ -106,7 +106,6 @@ _新手和经验丰富的开发人员的教程._
 - [Official libGDX Wiki](https://libgdx.com/wiki/) - 包含大量信息的官方 libGDX wiki.
 - [Tann's Hello libGDX](https://colourtann.github.io/HelloLibgdx/) - 初学者如何从头开始创建游戏的优秀指南.
 - [Brandon Grasley's Space Shooter Game](https://www.youtube.com/playlist?list=PLfd-5Q3Fwq0WKrkEKw12nqpfER3MG5_Wi) - 关于从头开始制作完整 Android 游戏的视频教程系列.
-- [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) - 关于创建启动画面以在游戏窗口加载之前显示的视频教程.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - 使用 libGDX 制作游戏启动器的视频教程.
 - [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - 关于通过 Gradle 命令使用 JPackage 部署 libGDX 游戏的教程.
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) - 使用 JSON 存储数据的一般教程.
@@ -137,7 +136,7 @@ _收集免费和高质量的资产，让您的游戏更上一层楼._
 
 _与其他 libGDX 开发人员联系以进行协作并获得帮助._
 
-- [Discord](https://discord.gg/4S8pQqc)  - 每天与社区的各种领导者进行积极的聊天.  **推荐的**
+- [Discord](https://discord.gg/4S8pQqc)  - 每天与社区的各种领导者进行积极的聊天.  **受到推崇的**
 - [Reddit](https://www.reddit.com/r/libgdx/)  - libGDX 的非官方 subreddit. 活动不多.
 
 
@@ -150,7 +149,7 @@ _可能对 libGDX 开发人员有用的其他很棒的列表._
 - [Java](https://github.com/akullpp/awesome-java) - 很棒的 Java 框架、库和软件的精选列表.
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin) - 精选的 Kotlin 相关内容列表.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - 使奇迹发生的游戏开发资源列表.
-- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)  - 包容性游戏设计的直接参考，以确保游戏对尽可能广泛的人来说同样有趣.  **推荐的**
+- [Game Accessibility Guidelines](http://gameaccessibilityguidelines.com/)  - 包容性游戏设计的直接参考，以确保游戏对尽可能广泛的人来说同样有趣.  **受到推崇的**
 
 
 ---
