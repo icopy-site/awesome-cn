@@ -15,7 +15,7 @@
 - [Official site](https://wagtail.org/)
 - [GitHub repository](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
-- [Roadmap](https://github.com/wagtail/wagtail/projects/1)
+- [Roadmap](https://wagtail.org/roadmap/)
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
 
 ## Apps
@@ -128,7 +128,7 @@
 
 - [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - 简单的应用程序包含一个混合模型，集成 [django-modeltranslation](https://github.com/deschler/django-modeltranslation) 进入 Wagtail 面板系统.
 - [wagtailtrans](https://github.com/LUKKIEN/wagtailtrans) - 支持多语言站点的 Wagtail 插件.
-- [Wagtail Localize](https://github.com/wagtail/wagtail-localize) - Wagtail CMS 的翻译插件，允许在 Wagtail 的管理界面内翻译页面或片段.
+- [Wagtail Localize](https://github.com/wagtail/wagtail-localize) - Wagtail CMS 的翻译插件，允许在 Wagtail 的管理界面中翻译页面或片段.
 
 ### Forms
 
@@ -305,7 +305,7 @@
 - [A New Approach to Multitenant Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=WN0L4YNrWes) 斯蒂芬妮·C·史密斯 (Stephanie C. Smith) 和艾迪生·哈代 (Addison Hardy).
 - [The Wagtail Marketplace for Games-based Courses - Wagtail Space 2022](https://www.youtube.com/watch?v=ueou6CxiR3Y) 莎拉汤姆斯.
 - [The Wagtail Ecosystem - Wagtail Space US 2022](https://www.youtube.com/watch?v=4Qd43nsxmoc) 文斯·萨尔维诺.
-- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) Sævar Öfjörð Magnússon 和 Arnar Tumi Þorsteinsson 着.
+- [Wagtail charts and graphs - Wagtail Space US 2022](https://www.youtube.com/watch?v=QK-Vhlpos3Q) 作者：Sævar Öfjörð Magnússon 和 Arnar Tumi Þorsteinsson.
 - [Wagtail as a headless CMS for JavaScript frontends - Wagtail Space US 2022](https://www.youtube.com/watch?v=bYRQ492BED0) 托马索·阿米奇 (Tommaso Amici).
 - [Adding a GraphQL API to Wagtail - Wagtail Space US 2022](https://www.youtube.com/watch?v=_O5isU354vg) 帕特里克·阿米尼奥.
 - [Bringing JSONField into Wagtail Core - Wagtail Space US 2022](https://www.youtube.com/watch?v=XtazMDNdlK8) 圣人阿卜杜拉.
@@ -320,7 +320,7 @@
 - [Things I learned - Wagtail Space NL 2022](https://www.youtube.com/watch?v=xG5-s48TZt8) 丹布拉吉斯.
 - [Wagtail Roadrunner Beep Beep - Wagtail Space NL 2022](https://www.youtube.com/watch?v=ynlFUcutSWQ) Lars van de Kerkhof 着.
 - [Dockerising wagtail projects in 5 minutes - Wagtail Space NL 2022](https://www.youtube.com/watch?v=PgkpBMoN4UY) Sævar Öfjörð Magnússon 着.
-- [Wagtail in the News Room - Wagtail Space NL 2022](https://www.youtube.com/watch?v=B85HwmX5uaw) Sævar Öfjörð Magnússon 和 Arnar Tumi Þorsteinsson 着.
+- [Wagtail in the News Room - Wagtail Space NL 2022](https://www.youtube.com/watch?v=B85HwmX5uaw) 作者：Sævar Öfjörð Magnússon 和 Arnar Tumi Þorsteinsson.
 - [Digital Nomad - Wagtail Space NL 2022](https://www.youtube.com/watch?v=9Evrwzpg-dw) 迈克尔·马滕斯 (Maikel Martens) 着.
 - [Unobtrusive internationalisation - Wagtail Space NL 2022](https://www.youtube.com/watch?v=_dhScxTdtjA) Lars van de Kerkhof 着.
 - [Moving Wagtail pages - Wagtail Space NL 2022](https://www.youtube.com/watch?v=OFqPKffSVWI) 维果德弗里斯.

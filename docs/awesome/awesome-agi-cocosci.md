@@ -221,7 +221,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -419,11 +419,11 @@
 
 
 
-* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表示.
+* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表征.
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
 
 
 #### AI Concept Representation
@@ -912,7 +912,7 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
@@ -1093,11 +1093,11 @@
 
 * [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***芝加哥大学出版社：芝加哥***，1970 年. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5) ]. 托马斯·库恩 (Thomas Kuhn) 关于科学范式的出现和转变的原著.
 
+* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***社会学理论***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5) ]. 关于社会科学中“理论”定义的哲学解释（也可以推广到自然科学）.
+
 #### Science of Science
 
 * [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***维基百科***.
-
-* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***社会学理论***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5) ]. 关于社会科学中“理论”定义的哲学解释（也可以推广到自然科学）.
 
 * [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***科学***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055&hl=en&as_sdt=0,5) ]. 对科学的科学进行全面的大规模审查.
 
@@ -1470,7 +1470,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 

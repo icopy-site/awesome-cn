@@ -45,7 +45,7 @@
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - 使用 Yew 进行的简单 WebRTC 聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
-- [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - Single Page Application (SPA) written using Rust, Wasm and Yew.
+- [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - 使用 Rust、Wasm 和 Yew 编写的单页应用程序 (SPA).
 - [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以在其中找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) - 这是一个 Rust / Wasm 客户端网络应用程序，它是一个任务控制中心.
@@ -132,7 +132,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 调和 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
-- [yewv](https://github.com/yewv/yewv) - 以性能和简单性为第一要务的 Yew 闪电般快速状态管理模块.
+- [yewv](https://github.com/yewv/yewv) - Yew 的闪电般快速状态管理模块，以性能和简单性为第一要务.
 
 ### Javascript Library Ports
 
@@ -143,13 +143,14 @@
 
 - [Yewdux](https://github.com/intendednull/yewdux) - Yew 应用程序的类似 Redux 的状态容器.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于样式组件，但适用于 Yew.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
 - [yew-style-in-rs](https://github.com/MatchaChoco010/yew-style-in-rs) - Rust for Yew 中的作用域 CSS.
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 - [Yew-Template](https://github.com/INSAgenda/yew-template) - 使用 Yew 时用于分离 HTML 和 Rust 代码的箱子.
+- [yew-nested-router](https://github.com/ctron/yew-nested-router) - 支持嵌套的路由器，带有 Yew 0.20.
 
 ### Wasm
 

@@ -392,7 +392,7 @@
 * [Allegro](http://liballeg.org/)  - 主要针对视频游戏和多媒体编程的跨平台库.  [zlib]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  - 用于构建 2d 游戏、交互式书籍、演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  - 用纯 C、SDL 和 OpenGL 编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  - Crown 是一种通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
+* [crown](https://github.com/dbartolini/crown)  - Crown 是一个通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  - 强大的模拟平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  - 游戏与现代 C++ 相遇.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  - 用于创建 2D/3D 移动和桌面游戏的跨平台原生 C++ 游戏框架.  [阿帕奇2]
@@ -622,13 +622,13 @@
 * [CXXGraph](https://github.com/ZigRazor/CXXGraph)  - 用于表示和算法执行的免费 C++(17) 图标头库.  [AGPL-3.0]
 * [Dlib](https://github.com/davisking/dlib)  :zap: - 现代 C++11 机器学习、计算机视觉、数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/)  - 用于线性代数、矩阵和向量运算、数值求解器和相关算法的高级 C++ 模板头文件库.  [MPL2]
-* [ExprTK](http://www.partow.net/programming/exprtk/)  - C++ 数学表达式工具包库 (ExprTk) 是一个简单易用、易于集成且极其高效的运行时数学表达式解析器和评估引擎.  [麻省理工学院]
+* [ExprTk](https://www.partow.net/programming/exprtk/)  - C++ 数学表达式工具包库 (ExprTk) 是一个简单易用、易于集成且极其高效的运行时数学表达式解析器和评估引擎.  [麻省理工学院]
 * [Geometric Tools](https://www.geometrictools.com)  - 用于数学、图形、图像分析和物理领域计算的 C++ 库.  [促进] [website](https://www.geometrictools.com)
 * [GLM](https://github.com/g-truc/glm)  - 与 OpenGL 的 GLSL 数学匹配并互操作的仅标头 C++ 数学库.  [麻省理工学院] [website](https://glm.g-truc.net/)
 * [GMTL](http://ggt.sourceforge.net/)  - 图形数学模板库是一组以通用方式实现图形基元的工具.  [GPL2]
 * [GMP](https://gmplib.org/)  - 用于任意精度算术的 AC 库，对有符号整数、有理数和浮点数进行运算.  [LGPL3 和 GPL2]
 * [Klein](https://github.com/jeremyong/klein)  - 一个快速的、SIMD 优化的 C++17 几何代数库，用于点、线和平面投影、相交、连接、刚体运动等.  [麻省理工学院] [website](https://jeremyong.com/klein)
-* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短矢量数学库.  [未授权]
+* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短向量数学库.  [未授权]
 * [MatX](https://github.com/NVIDIA/MatX) - 一个 GPU 加速的 C++17 数值计算库，具有类似 MATLAB/Python 的语法 [BSD 3-clause]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  - 多精度整数和有理算术密码库.  [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp)  - Python Numpy 库的模板化标头仅 C++ 实现.  [麻省理工学院]
@@ -644,7 +644,7 @@
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  - 用于从字符串中解析和评估数学表达式的 AC 库.  [zlib]
 * [Vc](https://github.com/VcDevel/Vc)  - C++ 的 SIMD 矢量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 用于几何代数的（快速）通用 C++ 库，包括欧几里德、投影、共形、时空（等）.
-* [Wykobi](http://www.wykobi.com/)  - 高效、健壮且易于使用的 C++ 面向 2D/3D 计算几何例程的 C++ 库.  [麻省理工学院]
+* [Wykobi](https://www.wykobi.com)  - 高效、健壮且易于使用的 C++ 面向 2D/3D 计算几何例程的 C++ 库.  [麻省理工学院]
 * [xtensor](https://github.com/xtensor-stack/xtensor)  - 受 NumPy 语法启发，用于使用多维数组表达式进行数值分析的 C++14 库.  [BSD 3 子句] [website](https://xtensor-stack.github.io/xtensor)
 * [universal](https://github.com/stillwater-sc/universal)  - 实现任意位置算术的 C++14 仅标头库.  posit number 系统是一种锥形浮点，比 IEEE 浮点更有效. 假设使可重复的计算科学成为可能.  [麻省理工学院执照]
 
@@ -660,7 +660,7 @@
 * [rpmalloc](https://github.com/mjansson/rpmalloc) - 在 C 中实现的跨平台无锁线程缓存 16 字节对齐内存分配器. [PublicDomain]
 * [snmalloc](https://github.com/microsoft/snmalloc)  - 基于消息传递的高性能分配器.  [麻省理工学院]
 * [TCMalloc](https://github.com/google/tcmalloc)  - Google 的快速、多线程 malloc 实现.  [Apache-2.0] [website](https://google.github.io/tcmalloc/)
-* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的微型垃圾收集器.  [BSD]
+* [tgc](https://github.com/orangeduck/tgc)  - 用 \~500 LOC 编写的用于 C 的小型垃圾收集器.  [BSD]
 
 ## Multimedia
 
@@ -688,7 +688,7 @@
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
 * [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
-* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python Requests 模块.  [麻省理工学院] [website](https://docs.libcpr.org)
+* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python 请求模块.  [麻省理工学院] [website](https://docs.libcpr.org)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3-Clause &amp; GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络 [MIT]
@@ -767,7 +767,7 @@
 * [Easy Reflection](https://github.com/chocolacula/easy_reflection_cpp)  - 简单快速的反射 + 序列化解决方案，如 Rust、Java 或 Go.  [阿帕奇]
 * [Magic Enum](https://github.com/Neargye/magic_enum)  - 仅标头的 C++17 库为枚举（到字符串、从字符串、迭代）提供静态反射，可与任何枚举类型一起使用，无需任何宏或样板代码.  [麻省理工学院]
 * [magic_get](https://github.com/apolukhin/magic_get)  - std::tuple 类用户定义类型的方法，没有任何宏或样板代码.  [促进]
-* [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入式和无宏的运行时反射系统.  [麻省理工学院]
+* [meta](https://github.com/skypjack/meta)  - C++ 中的仅标头、非侵入式和无宏运行时反射系统.  [麻省理工学院]
 * [Nameof](https://github.com/Neargye/nameof)  - Header-only C++17库提供nameof宏和函数来获取变量、类型、函数、宏和枚举的简单名称.  [麻省理工学院]
 * [Ponder](https://github.com/billyquith/ponder)  - 用于反射的 C++11 库.  [麻省理工学院]
 * [RTTR](https://github.com/rttrorg/rttr)  - 用于反射的 C++11 库.  [麻省理工学院] [website](http://www.rttr.org)
@@ -814,7 +814,7 @@
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
-* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样容易.  [阿帕奇] [website](http://cython.org/)
+* [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
 * [Duktape](https://github.com/svaarala/duktape)  - 一个可嵌入的 Javascript 引擎，占用空间小.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  - Java 和本机 C++ 之间缺失的桥梁.  [阿帕奇2]
@@ -956,7 +956,7 @@
 * [Stage](https://github.com/rtv/Stage)  - 移动机器人模拟器.  [GPL2]
 * [stdman](https://github.com/jeaye/stdman) 格式化的 C++11/14 stdlib 手册页（来自 cppreference）.  [麻省理工学院]
 * [stb](https://github.com/nothings/stb)  :zap: - 一系列用于 C/C++ 的单文件库.  [公共区域]
-* [StrTk](http://www.partow.net/programming/strtk/index.html)  - 由高性能字符串处理例程组成的 C++ 库.  [麻省理工学院]
+* [StrTk](https://www.partow.net/programming/strtk/index.html)  - 由高性能字符串处理例程组成的 C++ 库.  [麻省理工学院]
 * [Tulip Indicators](https://tulipindicators.org)  - 超过 100 个金融技术分析指标的 AC 库.  [LGPL]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - 一组试图让编译器利用未定义行为的 C/C++ 程序.
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
