@@ -64,8 +64,3 @@
 ## Conference Talks
 
 - [Anthony Frehner at Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
-
-
-## Vite Plugins
-
-- [vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - 同构导入模块.

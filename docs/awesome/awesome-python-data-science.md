@@ -31,7 +31,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于对图形结构化数据进行采样的库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动化机器学习 python 库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动机器学习 python 库.
 * [AutoGluon](https://github.com/awslabs/autogluon) - 用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 ### Ensemble Methods
@@ -111,6 +111,7 @@
 
 ### Feature Selection
 * [scikit-feature](https://github.com/jundongl/scikit-feature) - Python 中的特征选择存储库.
+* [zoofs](https://github.com/jaswinder9051998/zoofs) - 基于进化算法的特征选择库.
 
 ## Visualization
 ### General Purposes
@@ -190,6 +191,7 @@
 
 <a name="opt"></a>
 ## Optimization
+* [Optuna](https://github.com/optuna/optuna) - 超参数优化框架.
 * [Spearmint](https://github.com/HIPS/Spearmint) - 贝叶斯优化.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - 用于优化的启发式算法.
 * [SMAC3](https://github.com/automl/SMAC3) - 基于序列模型的算法配置.
@@ -221,13 +223,14 @@
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML 驱动的分析引擎，用于离群值/异常检测和根本原因分析
 
 ## Natural Language Processing
-* [NLTK](https://github.com/nltk/nltk) - 支持自然语言处理研究和开发的模块、数据集和教程.
+* [spaCy](https://spacy.io/) - 工业级自然语言处理.
+* [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
 * [CLTK](https://github.com/cltk/cltk) - 经典语言工具包.
 * [gensim](https://radimrehurek.com/gensim/) - 人类主题建模.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) -<a href="https://github.com/morfologik/morfologik-stemming">形态学</a>的 Python 绑定.
 * [Phonemizer](https://github.com/bootphon/phonemizer) - 用于多种语言的简单文本到音素转换器.
 * [flair](https://github.com/zalandoresearch/flair) - 最先进的 NLP 的非常简单的框架.
-* [spaCy](https://spacy.io/) - 工业级自然语言处理.
+
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) - 用于音频和音乐分析的 Python 库.
@@ -294,12 +297,12 @@
 
 ## Quantum Computing
 * [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/Qiskit/qiskit) - Qiskit 是一个开源 SDK，用于在电路、算法和应用程序模块级别与量子计算机配合使用.
-* [cirq](https://github.com/quantumlib/Cirq) - 用于创建、编辑和调用噪声中级量子 (NISQ) 电路的 python 框架.
+* [cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 * [PennyLane](https://github.com/XanaduAI/pennylane) - 量子机器学习、自动微分和混合量子经典计算的优化.
 * [QML](https://github.com/qmlcode/qml) - 用于量子机器学习的 Python 工具包.
 
 ## Conversion
-* [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
+* [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估计器转换为 C、Java、JavaScript 等.
 * [ONNX](https://github.com/onnx/onnx) - 打开神经网络交换.
 * [MMdnn](https://github.com/Microsoft/MMdnn) - 一组帮助用户在不同深度学习框架之间进行互操作的工具.
 

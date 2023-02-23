@@ -92,7 +92,7 @@
 - [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
 - [Web Designer News](https://www.webdesignernews.com) . 为设计师精心策划的故事.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 每周一次的免费的响应式设计文章、工具、技巧、教程和鼓舞人心的链接汇总.
-- [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
+- [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 关于界面可用性、网站设计和 UX 研究的最新文章.
 - [UI Movement](https://uimovement.com) . 只有最好的 UI 设计灵感，就在您的收件箱中.
 - [Designer News](https://www.designernews.co) . 设计界聚会的地方.
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章结合了来自品牌、艺术和平面设计领域的最佳现代表达和创新.
@@ -100,7 +100,7 @@
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
-- [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
+- [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和优秀的设计相关内容来自最好的 subreddits.
@@ -109,7 +109,7 @@
 ### HTML5
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的 HTML5 和 Web 平台技术综述.  CSS 3、Canvas、WebSockets、WebGL、Native Client 等.
-- [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
+- [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 关于 HTML5 游戏开发的每周时事通讯.
 - [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯作为上周添加到 Phaser 网站的所有新内容（游戏发布、教程、视频等）的摘要.
 
 ### SVG
@@ -320,6 +320,8 @@
 - [StatusCode Weekly](https://weekly.statuscode.com/) . 关于 Web 操作、基础设施、性能和工具的每周时事通讯，从浏览器到硬件.
 - [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter) . 关于 Kubernetes 上策划的聚会、会议、培训和网络研讨会的每周时事通讯.
 - [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly) . 以 Kubernetes 为重点的精选文章、教程、项目和活动.
+- [DevOps Bulletin](https://devopsbulletin.com) . 每周最新的 DevOps 趋势都会出现在您的收件箱中. 从 AWS、Terraform 和 Kubernetes 到 CI/CD 管道和云原生架构，我们为您提供服务！
+
 
 ### Cloud Development
 
@@ -351,7 +353,7 @@
 
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周时事通讯. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
-- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻的每周综述.
+- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻每周综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和犯规. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收由机器学习专业人士策划的开源框架、教程和文章的更新. 深入了解机器学习的可解释性、可重复性、模型评估、特征分析等方面的最佳实践、工具和技术.
@@ -381,7 +383,7 @@
 ## Marketing
 
 - [tldrMarketing](https://tldrmarketing.com) . 轻松获取有关数字营销的最新突发新闻和趋势.
-- [Zero to Marketing](https://zerotomarketing.com/) . 每周一封电子邮件，其中包含 5 分钟的案例研究和可操作的提示.
+- [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 - [The Content Odyssey](https://newsletter.mktodyssey.com/) . 每两周进行一次久经考验的内容增长实验.
 
 ## Business/Finance
@@ -390,7 +392,7 @@
 - [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章，帮助初创企业和企业主了解如何实施定价策略.
 - [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于驾驭指数基金时代、了解经济和破解资本主义的每周情报简报.
-- [AngelList Weekly](https://angel.co/newsletters) . 每周精选创业界的精华.
+- [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
 - [Unvalidated Ideas](https://unvalidatedideas.com) . 您每周都可以提出并进行市场验证的新创业和 SaaS 创意.
 
@@ -427,7 +429,7 @@
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，其中包含精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
+- [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，内容包括精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简报，包含 WebRTC 上的所有最新消息和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络声音感兴趣的人们提供的每周时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
