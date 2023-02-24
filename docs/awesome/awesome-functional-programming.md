@@ -13,7 +13,7 @@
 这个 repo 收集了一些关于函数式编程的材料，比如博客文章、论文、视频，
 工具等，也旨在阐明其背后的一些理论主题.
 
-想贡献？ 请参阅 [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) 第一的.
+想贡献吗？ 请参阅 [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) 第一的.
 
 
 ### Blog posts
@@ -63,7 +63,7 @@
 - [Jax in Action](https://www.manning.com/books/jax-in-action) - 一本关于 JAX 数值计算库的书.
 - [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - 使用 PowerShell 脚本自动执行复杂的任务和流程.
 - [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
-
+- [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - 全面更新至 Elixir 1.14，这本权威畅销书揭示了 Elixir 如何解决可扩展性、容错性和高可用性问题.
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - 专注于讨论研究、论文的社区

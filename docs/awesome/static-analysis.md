@@ -184,7 +184,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) — 在编译时使用 LLVM 分析 C/C++ 代码.
 
-- [splint](http://splint.org) — Annotation-assisted static program checker.
+- [splint](http://splint.org) — 注释辅助静态程序检查器.
 
 - [SVF](http://svf-tools.github.io/SVF) — 一种静态工具，支持对 C 和 C++ 程序进行可扩展且精确的过程间依赖性分析.
 
@@ -270,7 +270,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) — 在编译时使用 LLVM 分析 C/C++ 代码.
 
-- [splint](http://splint.org) — Annotation-assisted static program checker.
+- [splint](http://splint.org) — 注释辅助静态程序检查器.
 
 - [SVF](http://svf-tools.github.io/SVF) — 一种静态工具，支持对 C 和 C++ 程序进行可扩展且精确的过程间依赖性分析.
 
@@ -624,7 +624,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 - [ktfmt](https://facebook.github.io/ktfmt/) — 重新格式化 Kotlin 源代码以符合 Kotlin 代码约定的通用社区标准的程序.
 插件存储库中提供了一个 ktfmt IntelliJ 插件. 要安装它，请转到您的 IDE 设置并选择插件类别. 单击市场选项卡，搜索 ktfmt 插件，然后单击安装按钮.
 
-- [ktlint](https://ktlint.github.io) — 一个带有内置格式化程序的反 bikeshedding Kotlin linter.
+- [ktlint](https://ktlint.github.io) — 带有内置格式化程序的反自行车脱落 Kotlin linter.
 
 
 <h2 id="lua">二</h2>
@@ -805,6 +805,8 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Dlint](https://github.com/dlint-py/dlint) — A tool for ensuring Python code is secure.
 
+- [Dodgy](https://github.com/landscapeio/dodgy)  — Dodgy 是一个非常基本的工具，可以针对您的代码库运行以搜索“狡猾”的值. 它是一系列简单的正则表达式，旨在检测意外的 SCM 差异签入或硬编码到文件中的密码或密钥.
+
 - [fixit](https://pypi.org/project/fixit) — 用于创建 lint 规则和相应的源代码自动修复的框架.
 
 - [flake8](https://github.com/PyCQA/flake8) — `pyflakes`、`pycodestyle` 和 `mccabe` 的​​包装器.
@@ -912,7 +914,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [MetricFu](https://github.com/metricfu/metric_fu) — MetricFu 是一组工具，用于提供报告，显示您的代码的哪些部分可能需要额外工作.
 
-- [pelusa](https://github.com/codegram/pelusa) — 用于改进 OO Ruby 代码的静态分析 Lint 类型工具.
+- [pelusa](https://github.com/codegram/pelusa) — 用于改进 OO Ruby 代码的静态分析 Lint 型工具.
 
 - [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
 
@@ -997,7 +999,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [rust-audit](https://github.com/Shnatsel/rust-audit)  — 审计 Rust 二进制文件是否存在已知错误或安全漏洞. 这是通过将有关依赖树 (Cargo.lock) 的数据以 JSON 格式嵌入到已编译可执行文件的专用链接器部分中来实现的.
 
-- [rustfix](https://github.com/rust-lang/rustfix) — 阅读并应用 rustc 提出的建议（以及第三方 lints，如 clippy 提供的）.
+- [rustfix](https://github.com/rust-lang/rustfix) — Read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
 
 - [rustfmt](https://github.com/rust-lang/rustfmt) — 根据样式指南格式化 Rust 代码的工具.
 
@@ -1083,7 +1085,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [stc](https://stc.dudy.dev) — 用 Rust 编写的快速 TypeScript 类型检查器
 
-- [tslint](https://palantir.github.io/tslint/) :warning: — 自 2019 年起，TSLint 已被弃用.请参阅此问题了解更多详细信息：typescript-eslint 现在是检查 TypeScript 的最佳选择.
+- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint 已于 2019 年弃用.请参阅此问题了解更多详细信息：typescript-eslint 现在是检查 TypeScript 的最佳选择.
  TSLint 是一种可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
@@ -1170,9 +1172,9 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [CodeFlow](https://www.getcodeflow.com)  :copyright: — 处理技术深度的自动代码分析工具. 与 Bitbucket 和 Gitlab 集成.  （开源项目免费）
 
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方式来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方法来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
 
-- [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — Automated SAST code reviews driven by security, supports 15+ languages and includes security training.
+- [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — 由安全驱动的自动化 SAST 代码审查，支持 15 种以上的语言并包括安全培训.
 
 - [codeql](https://github.com/github/codeql) — 深度代码分析——支持 VSCode 插件的多种语言的语义查询和数据流.
 
@@ -1445,7 +1447,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="buildtool">构建工具</h2>
 
 
-- [checkmake](https://github.com/mrtazz/checkmake) — Makefile 的 Linter / 分析器.
+- [checkmake](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
 
 - [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) — FreeBSD 和 DragonFlyBSD 端口目录的验证器.
 
@@ -1543,7 +1545,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 
-- [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在一个开源堆栈上，提供 Docker 图像扫描并创建了 Falco，这是容器、Kubernetes 和云的运行时威胁检测的开放标准. 
+- [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在开源堆栈之上，提供 Docker 图像扫描并创建了 Falco，这是容器、Kubernetes 和云的运行时威胁检测的开放标准. 
 
 - [Vuls](https://vuls.io/) — 基于 NVD、OVAL 等信息的无代理 Linux 漏洞扫描器.它有一些容器图像支持，尽管不是容器特定的工具.
 
@@ -1692,7 +1694,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="make">生成文件</h2>
 
 
-- [checkmake](https://github.com/mrtazz/checkmake) — Makefile 的 Linter / 分析器.
+- [checkmake](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
 
 - [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) — FreeBSD 和 DragonFlyBSD 端口目录的验证器.
 
@@ -1728,7 +1730,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 <h2 id="mobile">移动的</h2>
 
 
-- [Android Lint](http://tools.android.com/tips/lint) — 在 Android 项目上运行静态分析.
+- [Android Lint](http://tools.android.com/tips/lint) — 对 Android 项目运行静态分析.
 
 - [android-lint-summary](https://passy.github.io/android-lint-summary) — 将多个项目的 lint 错误合并为一个输出，一次检查多个子项目的 lint 结果.
 
@@ -1835,7 +1837,7 @@ The official website, [analysis-tools.dev](https://analysis-tools.dev/) 基于�
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
-- [Rezilion](https://www.rezilion.com/) :copyright: — 发现您环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建补救计划和开票以升级违反安全策略的组件和/或在 CI 中自动打补丁.
+- [Rezilion](https://www.rezilion.com/) :copyright: — 发现您环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建补救计划和公开票证以升级违反您的安全策略和/或在 CI 中自动修补的组件.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 
