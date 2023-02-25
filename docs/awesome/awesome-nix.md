@@ -47,6 +47,7 @@
 
 ## Deployment Tools
 
+* [bento](https://github.com/rapenne-s/bento/) - 一个 KISS 部署工具，可让您的 NixOS 舰队（服务器和工作站）保持最新状态.
 * [Colmena](https://github.com/zhaofengli/colmena) - 一个简单的、无状态的 NixOS 部署工具，以 NixOps 和 morph 为模型.
 * [deploy-rs](https://github.com/serokell/deploy-rs) - 一个简单的多配置文件 Nix-flake 部署工具.
 * [krops](https://cgit.krebsco.de/krops/about/) - 用于远程或本地部署 NixOS 系统的轻量级工具包.
@@ -115,6 +116,10 @@
 ### Arduino
 
 * [nixduino](https://github.com/boredom101/nixduino) - 基于 Nix 的工具，可帮助构建 Arduino 草图.
+
+### Clojure
+
+* [clj-nix](https://github.com/jlesquembre/clj-nix) - Clojure 项目的 Nix 辅助函数.
 
 ### Crystal
 

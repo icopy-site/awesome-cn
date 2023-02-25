@@ -64,6 +64,7 @@
 - [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
 - [Taskade](https://www.taskade.com/) - 使用 Taskade AI 列出任务、笔记、生成的结构化列表和思维导图.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - Google 表格和 Google 文档的 ChatGPT 扩展.
+- [HypterWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit 使用语言模型来帮助您自动化研究工作流程，例如部分文献综述.
@@ -74,7 +75,7 @@
 - [Consensus](https://consensus.app/search/) - Consensus 是一个搜索引擎，利用人工智能在科学研究中寻找答案.
 
 ## Code
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [tabnine](https://www.tabnine.com/) - 通过整行和全功能代码完成更快地编写代码.
 - [Stenography](https://stenography.dev/) - 自动代码文档.
@@ -100,7 +101,7 @@
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio 是一个易于使用的界面，用于使用稳定扩散图像生成模型创建图像.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder 是一种新型的创意工具，通过使协作和探索变得更容易来增强用户的创造力.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 是一个强大的工具，可以结合文字和绘图来创建逼真的艺术作品，因为它在单个模型中集成了分割映射、修复和文本到图像的生成.
-- [Magic Eraser](https://www.magiceraser.io/) - 在几秒钟内从图像中删除不需要的东西.
+- [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - Magic Studio 的一款工具，可让您通过描述自己的想法来表达自己.
 - [Alpaca](https://www.getalpaca.io/) - 稳定的 Diffusion Photoshop 插件.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai 是一款使用 Stable Diffusion 创建图像的应用程序，Stable Diffusion 是 Stability.AI 开发的尖端人工智能.
@@ -149,7 +150,7 @@
 ### Music
 - [Harmonai](https://www.harmonai.org/) - 我们是一个社区驱动的组织，发布开源生成音频工具，让每个人都能更轻松、更有趣地制作音乐.
 - [Mubert](https://mubert.com/) - 面向内容创作者、品牌和开发商的免版税音乐生态系统.
-- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - A model by Google Research for generating high-fidelity music from text descriptions.
+- [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - Google Research 的一个模型，用于从文本描述中生成高保真音乐.
 
 ## Other
 - [Diagram](https://diagram.com/) - 设计产品的神奇新方法.
@@ -162,6 +163,7 @@
 - [Scenario AI](https://www.scenario.gg/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
+- [Otter.ai](https://otter.ai/) - 一个会议助手，可以录制音频、写笔记、自动​​捕获幻灯片并生成摘要.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - 用于生成 AI 的大量 Google Colab 笔记本，作者： [@pharmapsychotic](https://twitter.com/pharmapsychotic).
