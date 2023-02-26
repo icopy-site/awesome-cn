@@ -14,7 +14,7 @@
 
 ## Sponsors
 
-如果没有赞助商的慷慨支持，这个项目是不可能完成的.
+This project would not be possible without the generous support of our sponsors.
 
 <table>
   <tr>
@@ -212,7 +212,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [NDepend](http://www.ndepend.com) :copyright: — 衡量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
-- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDAPI、加密、反序列化等）提供实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDPi、加密、反序列化等）提供实时安全代码分析.
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
@@ -405,7 +405,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [go-critic](https://github.com/go-critic/go-critic) — Go 源代码 linter，维护当前未在其他 linter 中实现的检查.
 
-- [go/ast](https://golang.org/pkg/go/ast) — 包 ast 声明用于表示 Go 包语法树的类型.
+- [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
 
 - [gochecknoglobals](https://github.com/leighmcculloch/gochecknoglobals) — 检查是否不存在全局变量.
 
@@ -541,6 +541,8 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [JBMC](https://www.cprover.org/jbmc) — Java 的有界模型检查器（字节码），验证用户定义的断言、标准断言、多个覆盖率度量分析.
 
+- [Mariana Trench](https://mariana-tren.ch/)  — 我们针对 Android 和 Java 应用程序的以安全为中心的静态分析工具.  Mariana Trench 分析 Dalvik 字节码并构建为在大型代码库（数千万行代码）上快速运行. 它可以在代码更改到您的存储库之前发现漏洞.
+
 - [NullAway](https://github.com/uber/NullAway)  — 具有低构建时间开销的基于类型的空指针检查器； 一个 [Error Prone](http://errorprone.info/) 插入.
 
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) — 检查依赖项是否存在已知的、公开披露的漏洞.
@@ -552,6 +554,8 @@ If you also want to support this project, head over to our [Github sponsors page
 - [Spoon](http://spoon.gforge.inria.fr)  — Spoon 是一个元编程库，用于分析和转换 Java 源代码（包括 Java 9、10、11、12、13、14）. 它解析源文件以构建具有强大分析和转换 API 的精心设计的 AST. 可以集成到 Maven 和 Gradle 中.
 
 - [SpotBugs](https://spotbugs.github.io)  — SpotBugs 是 FindBugs 的继任者. 用于静态分析以查找 Java 代码中的错误的工具.
+
+- [steady](https://eclipse.github.io/steady/) — 分析您的 Java 应用程序是否存在已知漏洞的开源依赖项，使用静态分析和测试来确定代码上下文和使用情况以提高准确性.
 
 - [Violations Lib](https://github.com/tomasbjerre/violations-lib)  — 用于从静态代码分析中解析报告文件的 Java 库. 由一堆 Jenkins、Maven 和 Gradle 插件使用.
 
@@ -637,7 +641,7 @@ If you also want to support this project, head over to our [Github sponsors page
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — 用于静态类型 Lua 开发的 IDE.
 
 
-<h2 id="matlab">MATLAB</h2>
+<h2 id="matlab">软件</h2>
 
 
 - [mlint](https://mathworks.com/help/matlab/ref/mlint.html) :copyright: — 检查 MATLAB 代码文件是否存在可能的问题.
@@ -686,7 +690,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -758,6 +762,8 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) — 可视化指标和源代码.
 
+- [Reflection](https://github.com/phpDocumentor/Reflection) — 为 PHP 项目做静态分析的反射库
+
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
 
 - [Tuli](https://github.com/ircmaxell/Tuli) — 静态分析引擎.
@@ -776,7 +782,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="perl">Perl</h2>
 
 
-- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer 是一组程序和模块，允许用户通过提供有关命名空间及其关系、依赖关系、继承和在包中实现、继承和重新定义的方法以及对方法的调用的信息来分析和可视化 Perl 代码库通过 SUPER 从父包中获取. 
+- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer 是一组程序和模块，允许用户通过提供有关名称空间及其关系、依赖关系、继承和在包中实现、继承和重新定义的方法以及对方法的调用的信息来分析和可视化 Perl 代码库通过 SUPER 从父包中获取. 
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — 批判 Perl 源代码以获得最佳实践.
 
@@ -807,7 +813,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Dlint](https://github.com/dlint-py/dlint) — 确保 Python 代码安全的工具.
 
-- [Dodgy](https://github.com/landscapeio/dodgy)  — Dodgy 是一个非常基本的工具，可以针对您的代码库运行以搜索“狡猾”的值. 它是一系列简单的正则表达式，旨在检测诸如意外的 SCM 差异签入或硬编码到文件中的密码或密钥等内容.
+- [Dodgy](https://github.com/landscapeio/dodgy)  — Dodgy 是一个非常基本的工具，可以针对您的代码库运行以搜索“狡猾”的值. 它是一系列简单的正则表达式，旨在检测意外的 SCM 差异签入或硬编码到文件中的密码或密钥.
 
 - [fixit](https://pypi.org/project/fixit) — 用于创建 lint 规则和相应的源代码自动修复的框架.
 
@@ -819,11 +825,11 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
-- [mypy](http://www.mypy-lang.org) — 一种静态类型检查器，旨在结合鸭子类型和静态类型的优点，经常与 [MonkeyType](https://github.com/Instagram/MonkeyType).
+- [mypy](http://www.mypy-lang.org) — A static type checker that aims to combine the benefits of duck typing and static typing, frequently used with [MonkeyType](https://github.com/Instagram/MonkeyType).
 
 - [prospector](https://github.com/PyCQA/prospector) — `pylint`、`pep8`、`mccabe` 等的包装器.
 
@@ -930,7 +936,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [reek](https://github.com/troessner/reek) — Ruby 的代码气味检测器.
 
-- [Roodi](https://github.com/roodi/roodi)  — Roodi 代表 Ruby Object Oriented Design Inferometer. 它会解析您的 Ruby 代码，并根据已配置的检查向您发出有关设计问题的警告.
+- [Roodi](https://github.com/roodi/roodi) — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
 
 - [RuboCop](https://docs.rubocop.org/rubocop) — 基于社区 Ruby 风格指南的 Ruby 静态代码分析器.
 
@@ -965,6 +971,8 @@ If you also want to support this project, head over to our [Github sponsors page
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  — 找出什么占用了可执行文件中的大部分空间. 支持 ELF（Linux、BSD）、Mach-O（macOS）和 PE（Windows）二进制文件.
 
 - [cargo-breaking](https://github.com/iomentum/cargo-breaking) — cargo-breaking 比较两个不同分支之间 crate 的公共 API，显示更改的内容，并根据 semver 建议下一个版本.
+
+- [cargo-call-stack](https://github.com/japaric/cargo-call-stack) — 整个程序静态堆栈分析 该工具将程序的完整调用图生成为点文件.
 
 - [cargo-deny](https://embarkstudios.github.io/cargo-deny)  — 一个 cargo 插件，用于检查您的依赖项. 它也可以用作命令行、Rust crate 或 CI 的 Github 操作. 它会检查有效的许可证信息、重复的包装箱、安全漏洞等.
 
@@ -1032,7 +1040,7 @@ If you also want to support this project, head over to our [Github sponsors page
 - [Visual Expert](https://www.visual-expert.com) :copyright: — PowerBuilder、Oracle 和 SQL Server 的代码分析探索、分析和记录代码 
 
 
-<h2 id="scala">斯卡拉</h2>
+<h2 id="scala">Scala</h2>
 
 
 - [linter](https://github.com/HairyFotr/linter) — Linter 是一个 Scala 静态分析编译器插件，它为各种可能的错误、低效和样式问题添加了编译时检查.
@@ -1090,7 +1098,7 @@ If you also want to support this project, head over to our [Github sponsors page
 - [stc](https://stc.dudy.dev) — 用 Rust 编写的快速 TypeScript 类型检查器
 
 - [tslint](https://palantir.github.io/tslint/) :warning: — TSLint 已于 2019 年弃用.请参阅此问题了解更多详细信息：typescript-eslint 现在是检查 TypeScript 的最佳选择.
-TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability,  and functionality errors. It is widely supported across modern editors & build systems and can be customized  with your own lint rules, configurations, and formatters.
+ TSLint 是一种可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
 
@@ -1176,7 +1184,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [CodeFlow](https://www.getcodeflow.com)  :copyright: — 处理技术深度的自动代码分析工具. 与 Bitbucket 和 Gitlab 集成.  （开源项目免费）
 
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方法来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方式来确保您的源代码符合（您的）预定义的设计和样式指南以及最佳编码实践.
 
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — 由安全驱动的自动化 SAST 代码审查，支持 15 种以上的语言并包括安全培训.
 
@@ -1310,7 +1318,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 - [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain)  :copyright: — 快速查找并修复高优先级安全问题.  Semgrep Supply Chain 优先考虑可从您的代码中获取的 2% 的漏洞.
 
-- [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan)  — Scan 是一个免费的开源 DevSecOps 平台，用于检测源代码和依赖项中的安全问题. 它支持广泛的语言和 CI/CD 管道.
+- [ShiftLeft Scan](https://github.com/ShiftLeftSecurity/sast-scan) — Scan is a free open-source DevSecOps platform for detecting security issues in source code and dependencies. It supports a broad range of languages and CI/CD pipelines.
 
 - [shipshape](https://github.com/google/shipshape) :warning: — 允许自定义分析器通过通用接口插入的静态程序分析平台.
 
@@ -1398,7 +1406,7 @@ TSLint is an extensible static analysis tool that checks TypeScript code for rea
 
 
 - [alquitran](https://github.com/ferivoz/alquitran) — 检查 tar 存档并尝试发现与 POSIX 2017 pax 规范和常见 tar 实现有关的可移植性问题.
-This project is intended to be used by maintainers of projects who want to offer portable source code archives for as many systems as possible. Checking tar archives with alquitran before publishing them should help spotting issues before they reach distributors and users.
+该项目旨在供希望为尽可能多的系统提供可移植源代码存档的项目维护人员使用. 在发布之前使用 alquitran 检查 tar 档案应该有助于在问题到达分销商和用户之前发现问题.
 
 - [packj](https://packj.dev)  — Packj（发音为 package）是一个命令行 (CLI) 工具，用于审查开源软件包是否存在“风险”属性，这些属性使它们容易受到供应链攻击. 这是我们的大型安全分析平台 Packj.dev 背后的工具，它不断审查包并提供免费报告.
 
@@ -1511,9 +1519,9 @@ This project is intended to be used by maintainers of projects who want to offer
 
 - [cfn_nag](https://github.com/stelligent/cfn_nag) — AWS CloudFormation 模板的 linter.
 
-- [checkov](https://www.checkov.io) — Static analysis tool for Terraform files (tf>=v0.12), preventing cloud misconfigs at build time.
+- [checkov](https://www.checkov.io) — Terraform 文件的静态分析工具 (tf&gt;=v0.12)，防止在构建时出现云错误配置.
 
-- [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle 是一种基于 RuboCop Ruby linting 工具的 linting 工具，适用于 Chef 食谱.
+- [cookstyle](https://docs.chef.io/cookstyle.html) — Cookstyle is a linting tool based on the RuboCop Ruby linting tool for Chef cookbooks.
 
 - [foodcritic](http://www.foodcritic.io) — 检查 Chef 食谱中是否存在常见问题的 lint 工具.
 
@@ -1549,11 +1557,14 @@ This project is intended to be used by maintainers of projects who want to offer
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
+- [krane](https://github.com/appvia/krane) — Krane 是一个简单的 Kubernetes RBAC 静态分析工具.
+它识别了 K8s RBAC 设计中的潜在安全风险，并就如何缓解这些风险提出了建议.  Krane 仪表板显示当前的 RBAC 安全状况，并允许您浏览其定义.
+
 - [OpenSCAP](https://www.open-scap.org/) — 一套自动化审计工具，用于检查遵循 NIST 认证的安全内容自动化协议 (SCAP) 的配置和已知漏洞.
 
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 
-- [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在开源堆栈之上，提供 Docker 图像扫描并创建了 Falco，这是容器、Kubernetes 和云的运行时威胁检测的开放标准. 
+- [sysdig](https://sysdig.com/)  :copyright: — 用于云和容器取证的安全 DevOps 平台.  Sysdig 建立在一个开源堆栈上，提供 Docker 图像扫描并创建了 Falco，这是容器、Kubernetes 和云的运行时威胁检测的开放标准. 
 
 - [Vuls](https://vuls.io/) — 基于 NVD、OVAL 等信息的无代理 Linux 漏洞扫描器.它有一些容器图像支持，尽管不是容器特定的工具.
 
@@ -1561,7 +1572,7 @@ This project is intended to be used by maintainers of projects who want to offer
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
 
 - [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
@@ -1631,7 +1642,7 @@ This project is intended to be used by maintainers of projects who want to offer
 
 - [gulp-bootlint](https://github.com/tschortsch/gulp-bootlint) — 一个 gulp 包装器 [Bootlint](https://github.com/twbs/bootlint)，用于 Bootstrap 项目的 HTML linter.
 
-- [HTML Inspector](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector is a code quality tool to help you and your team write better markup.
+- [HTML Inspector](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector 是一种代码质量工具，可帮助您和您的团队编写更好的标记.
 
 - [HTML Tidy](http://www.html-tidy.org) — 通过修复标记错误并将遗留代码升级到现代标准来更正和清理 HTML 和 XML 文档.
 
@@ -1666,6 +1677,9 @@ This project is intended to be used by maintainers of projects who want to offer
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
 - [klint](https://github.com/uswitch/klint)  — 一种侦听 Kubernetes 资源变化并针对它们运行 linting 规则的工具. 识别和调试错误的对象并根据策略调整对象，因为这两者都会随着时间的推移而变化.  Klint 帮助我们对检查进行编码，并在团队需要采取行动时主动提醒他们.
+
+- [krane](https://github.com/appvia/krane) — Krane 是一个简单的 Kubernetes RBAC 静态分析工具.
+它识别了 K8s RBAC 设计中的潜在安全风险，并就如何缓解这些风险提出了建议.  Krane 仪表板显示当前的 RBAC 安全状况，并允许您浏览其定义.
 
 - [kube-hunter](https://aquasecurity.github.io/kube-hunter/) — 寻找 Kubernetes 集群中的安全漏洞.
 
@@ -1745,6 +1759,8 @@ This project is intended to be used by maintainers of projects who want to offer
 - [FlowDroid](https://github.com/secure-software-engineering/FlowDroid) — 适用于 Android 应用程序的静态污点分析工具.
 
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  — iblessing 是一个 iOS 安全漏洞利用工具包. 它可用于逆向工程、二进制分析和漏洞挖掘.
+
+- [Mariana Trench](https://mariana-tren.ch/)  — 我们针对 Android 和 Java 应用程序的以安全为中心的静态分析工具.  Mariana Trench 分析 Dalvik 字节码并构建为在大型代码库（数千万行代码）上快速运行. 它可以在代码更改到您的存储库之前发现漏洞.
 
 - [Oversecured](https://oversecured.com)  :copyright: — 适用于 Android 和 iOS 应用程序的企业漏洞扫描器. 它允许应用程序所有者和开发人员通过将 Oversecured 集成到开发过程中来保护移动应用程序的每个新版本.
 
@@ -1829,7 +1845,7 @@ This project is intended to be used by maintainers of projects who want to offer
 
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) — Lint 一个 npm 或 yarn lockfile 来分析和检测安全问题
 
-- [LunaSec](https://www.lunasec.io) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
+- [LunaSec](https://www.lunasec.io)  — 开源 AppSec 平台，可在下次发生 Log4Shell 或 node-ipc 等漏洞时自动通知您. 跟踪您的依赖项并在集中式服务中构建.
 
 - [njsscan](https://opensecurity.in) — 一种静态应用程序测试 (SAST) 工具，可以使用来自 libsast 的简单模式匹配器和语法感知语义代码模式搜索工具 semgrep 在您的 node.js 应用程序中找到不安全的代码模式.
 
@@ -1856,7 +1872,7 @@ This project is intended to be used by maintainers of projects who want to offer
 - [tfsec](https://github.com/tfsec/tfsec)  — Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反了 AWS、Azure 和 GCP 安全最佳实践建议.
 
 - [trufflehog](https://trufflesecurity.com) — 到处寻找凭据
-TruffleHog is an open source secret-scanning engine that resolves exposed secrets across your company’s entire tech stack. 
+TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆栈中暴露的秘密. 
 
 - [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  — 具有可扩展插件系统的通用网络安全扫描器，用于高度可靠地检测高严重性的类似 RCE 的漏洞. 可以添加用于查找漏洞（例如开放 API）的自定义检测器.
 
@@ -1914,7 +1930,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 
 - [HTML-Validate](https://html-validate.org/) — 离线 HTML5 验证器.
 
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) — Vue tooling for VS Code, powered by vls (vue language server). Vetur has support for formatting embedded HTML, CSS, SCSS, JS, TypeScript, and more. Vetur only has a "whole document formatter" and cannot format arbitrary ranges.
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  — VS Code 的 Vue 工具，由 vls（vue 语言服务器）提供支持.  Vetur 支持格式化嵌入式 HTML、CSS、SCSS、JS、TypeScript 等.  Vetur 只有一个“整个文档格式化程序”，不能格式化任意范围.
 
 
 <h2 id="wasm">Webassembly</h2>
@@ -1953,7 +1969,7 @@ TruffleHog is an open source secret-scanning engine that resolves exposed secret
 - [yamllint](https://yamllint.readthedocs.io) — 检查 YAML 文件的语法有效性、键重复和外观问题，例如行长、尾随空格和缩进.
 
 
-<h2 id="git">混帐</h2>
+<h2 id="git">git</h2>
 
 
 - [commitlint](https://commitlint.js.org) — 检查你的提交信息是否符合常规的提交格式

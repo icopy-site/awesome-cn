@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="ohenley/awesome-ada"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+## Awesome Ada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <br/><br/>
 <div align="center">
 	<img width="350px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/logo_ada_awesome.svg" alt="Awesome"/>
@@ -14,10 +16,8 @@
 >
 &gt; Ada/SPARK 万岁.
 
-
 <br/><br/>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 与 Ada 和 SPARK 编程语言相关的精选资源列表.      
 
 <details>
@@ -72,7 +72,7 @@
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) - 一般，中级.  
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.amazon.com/Ada-Plus-Data-Structures-Oriented/dp/0763737941) - 数据结构.  
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.amazon.com/Ada-Plus-Data-Structures-Oriented/dp/0763737941) - Data Structures.  
 <img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-84882-314-3"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) - Idioms, Architecture.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - 并发、容器、调度.  
 <img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4612-1854-8">[Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95](https://www.springer.com/gp/book/9780387948348) - 数据结构，算法.  
@@ -104,7 +104,7 @@
 - [matrix-ada](https://matrix.to/#/#ada-lang_Lobby:gitter.im) - Gitter via Matrix 有一个房间.
 
 ### News and Resources
-- [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
+- [adacore-blog](https://blog.adacore.com/) - 深入了解 AdaCore 生态系统.
 - [ada-europe](http://www.ada-europe.org/) - Ada-Europe 是一个国际组织，旨在促进 Ada 的使用.
 - [acm-sig-ada](https://www.sigada.org/) - Ada 特别兴趣小组.
 - [ada-resource-association](https://www.adaic.org/community/) - 自 1990 年以来，Ada 资源协会的主要使命一直是“确保 Ada 用户的持续成功并促进 Ada 在软件行业中的使用”.
@@ -148,7 +148,7 @@
 ### Commercial / Closed source
 
 - [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) - 编译器支持该语言的 Ada 83、Ada 95、Ada 2005 和 Ada 2012 版本的所有主要功能.
-- [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda is an extensive family of native and cross development tools and runtime environments.
+- [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda 是一个广泛的原生和交叉开发工具及运行时环境系列.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda 是业界最受欢迎的 Ada 和混合 Ada/C/C++ 应用程序开发环境之一.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software 为实时目标提供业界首个经过全面验证的 Ada 交叉编译器系列.
 - [xgc](http://www.xgc.com/)  - XGC 提供基于 GCC 的裸机工具链，支持 Ada95 以支持航空航天特定目标，例如 MIL1750、ERC32 和 LEON. 以及遗留的 M68000 工具链.
@@ -175,7 +175,7 @@
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK 对 org-babel 的支持：使用 Gnu Emacs 和 org 文件评估源代码块.
 
 ### VSCode Extensions
-- [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada)  - Ada 的语言支持. 这包括 [Language Server for Ada](https://github.com/AdaCore/ada_language_server).
+- [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada)  - 对 Ada 的语言支持. 这包括 [Language Server for Ada](https://github.com/AdaCore/ada_language_server).
 - [ada-vscode](https://github.com/Lucretia/ada-vscode) - Ada 和 GPR 的基本语法突出显示.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities) - 提供一些实用功能的 VSCode 扩展 Ada 程序员.
 
@@ -205,7 +205,7 @@
 [ada-runtime]：https://github.com/Componolit/ada-runtime
 
 ## OS and Kernels
-- [m2os](https://m2os.unican.es/) - RTOS with simple tasking support for small microcontrollers.
+- [m2os](https://m2os.unican.es/) - 为小型微控制器提供简单任务支持的 RTOS.
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是一个用于嵌入式应用程序的硬实时操作系统，遵循最小实时 POSIX.13 子集. 它提供了一个易于使用和受控的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) - 用于高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
@@ -501,7 +501,6 @@
 - [oto](https://github.com/darkestkhan/oto) - Ada 绑定到 OpenAL，它在使用 Ada 类型时试图模仿原始 API.
 - [coreland-openal-ada] - 有与 OpenAL 的绑定
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
-- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - 简单的音频合成库.
 - [scala](http://www.huygens-fokker.org/scala) - Scala 是一款功能强大的软件工具，用于实验音乐调音，例如纯音调音阶、平均和历史音律、微调和大调音阶以及非西方音阶.
 - [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - 用于 Ada 应用程序的 linux 声音播放包，可以异步启动和停止音乐循环，以及启动瞬态声音.
 
@@ -537,7 +536,7 @@
 
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada 绑定到 Microsoft NetFramework Api.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 
@@ -564,7 +563,7 @@
 
 ### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) - Giza 试图成为嵌入式平台的简单小部件工具包.
-- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - 简单的音频合成库.
+- [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) - 可以在裸板设备上运行的简单音频合成库.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE 是一个 sprite 和 tile 2D 渲染引擎，设计用于在微控制器上运行.
 - [sancta](https://github.com/mosteo/sancta) - SANCTA多机器人任务分配库.
 
@@ -574,7 +573,7 @@
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - 在 SPARK/Ada 中模拟铁路网络.
 - [micro-tem-pi](https://github.com/jklmnn/MicroTemPi) - 使用 BBC Micro:Bit 作为温度传感器的 Raspberry Pi.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker 是一款开源袖珍合成器.
-- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - 与 AdaFruit BNO055 分线板交互以将方向数据发送到主机的程序.
+- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo)  - 用火车、开关和信号模拟铁路网络的程序. 信号系统经过 SPARK/Ada 验证，确保火车不会相撞.
 - [etherscope](https://github.com/stcarrez/etherscope) - STM32F746 板上的以太网流量监视器.
 

@@ -61,7 +61,7 @@ _所有与 CLI 相关的库._
 - [Airline](https://github.com/airlift/airline) - 基于注释的框架，用于解析类似 Git 的命令行参数.
 - [args4j](http://args4j.kohsuke.org) - 用于解析命令行参数的小型库.
 - [Jansi](https://github.com/fusesource/jansi) - 用于格式化控制台输出的 ANSI 转义码.
-- [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形原语.
+- [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形基元.
 - [JCommander](http://jcommander.org) - 具有自定义类型的命令行参数解析框架，并通过实现接口进行验证.
 - [jbock](https://github.com/jbock-java/jbock) - 无反射命令行解析器.
 - [Jexer](https://gitlab.com/klamonte/jexer)  - 高级控制台（和 Swing）文本用户界面 (TUI) 库，具有鼠标可拖动窗口、内置终端窗口管理器和六像素图像支持. 好像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
@@ -150,7 +150,7 @@ _提供外部配置的库._
 - [Externalized Properties](https://github.com/joel-jeremy/externalized-properties) - 轻量级但功能强大的配置库，支持从外部源解析属性和可扩展的后处理/转换机制.
 - [ini4j](http://ini4j.sourceforge.net) - 提供用于处理 Windows 的 INI 文件的 API.
 - [KAConf](https://github.com/mariomac/kaconf) - 用于 Java 和 Kotlin 的基于注释的配置系统.
-- [microconfig](https://microconfig.io)  - 专为微服务设计的配置系统，有助于将配置与代码分开. 不同服务的配置可以有公共部分和特定部分，并且可以动态分布.
+- [microconfig](https://microconfig.io)  - 专为微服务设计的配置系统，有助于将配置与代码分离. 不同服务的配置可以有公共部分和特定部分，并且可以动态分布.
 - [owner](https://github.com/lviggiano/owner) - 减少属性样板.
 
 ### Constraint Satisfaction Problem Solver
@@ -652,6 +652,7 @@ _在生产中监控应用程序的工具._
 - [Stagemonitor](https://github.com/stagemonitor/stagemonitor) - JVM 应用程序的开源性能监控和事务跟踪.
 - [Sysmon](https://github.com/palantir/Sysmon) - 用于 Java 虚拟机的轻量级平台监控工具.
 - [zipkin](https://zipkin.io) - 分布式跟踪系统，收集解决微服务架构中延迟问题所需的时间数据.
+- [hippo4j](https://github.com/opengoofy/hippo4j/blob/develop/README-EN.md) - 动态和可观察的线程池框架.
 
 ### Native
 
@@ -688,7 +689,7 @@ _用于构建网络服务器的库._
 - [sshj](https://github.com/hierynomus/sshj) - 以编程方式使用 SSH、SCP 或 SFTP.
 - [TLS Channel](https://github.com/marianobarrios/tls-channel) - 在 SSLEngine 上实现一个 ByteChannel 接口，启用易于使用的（类似套接字的）TLS.
 - [Undertow](http://undertow.io)  - 提供基于 NIO 的阻塞和非阻塞 API 的 Web 服务器. 在 WildFly 中用作网络层.  （仅限 LGPL-2.1）
-- [urnlib](https://github.com/slub/urnlib) - 表示、解析和编码 URN，如 RFC 2141 中所述.（仅限 GPL-3.0）
+- [urnlib](https://github.com/slub/urnlib) - 表示、解析和编码 URN，如 RFC 2141 中所示.（仅限 GPL-3.0）
 - [Fluency](https://github.com/komamitsu/fluency) - 高吞吐量数据摄取记录器到 Fluentd 和 Fluent Bit.
 
 ### ORM
@@ -725,7 +726,7 @@ _帮助处理 PDF 文件的工具._
 - [Dynamic Jasper](http://dynamicjasper.com)  - JasperReports 的抽象层.  （仅限 LGPL-3.0）
 - [DynamicReports](https://github.com/dynamicreports/dynamicreports)  - 简化 JasperReports.  （仅限 LGPL-3.0）
 - [Eclipse BIRT](https://www.eclipse.org/birt) - 使用基于 Eclipse 的可视化编辑器创建 PDF 和其他格式（DOCX、XLSX、HTML 等）的报告引擎.
-- [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer)  - XML/XHTML 和 CSS 2.1 渲染器.  （LGPL-2.1 或更高版本）
+- [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer)  - XML/XHTML 和 CSS 2.1 呈现器.  （LGPL-2.1 或更高版本）
 - [iText ![c]](https://itextpdf.com/en) - 以编程方式创建 PDF 文件.
 - [JasperReports](https://community.jaspersoft.com/project/jasperreports-library)  - 复杂的报告引擎.  （仅限 LGPL-3.0）
 - [Open HTML to PDF](https://github.com/danfickle/openhtmltopdf) - 正确支持基于飞碟和 Apache PDFBox 的现代 PDF 标准.
@@ -929,7 +930,7 @@ _在模板中替换表达式的工具._
 - [Freemarker](https://freemarker.apache.org) - 基于模板和变化的数据生成文本输出（HTML 网页、电子邮件、配置文件、源代码等）的库.
 - [Handlebars.java](https://jknack.github.io/handlebars.java/) - 无逻辑和语义的 Mustache 模板.
 - [Jade4J](https://github.com/neuland/jade4j) - 实施 Pug（以前称为 Jade）.
-- [Jamal](https://github.com/verhas/jamal) - 嵌入到 Maven/JavaDoc 中的可扩展模板引擎，支持多种扩展（Groovy、Ruby、JavaScript、JShell、PlantUml），支持片段处理.
+- [Jamal](https://github.com/verhas/jamal) - 嵌入到 Maven/JavaDoc 中的可扩展模板引擎，支持多种扩展（Groovy、Ruby、JavaScript、JShell、PlantUml）并支持片段处理.
 - [jstachio](https://github.com/jstachio/jstachio) - Typesafe Mustache 模板引擎.
 - [jte](https://github.com/casid/jte) - 编译为类，并使用简单的语法、多种功能使开发更容易，并提供快速执行和小占用空间.
 - [Jtwig](https://github.com/jtwig/jtwig) - 模块化、可配置且经过全面测试的模板引擎.
@@ -1223,6 +1224,6 @@ _要阅读的网站._
 
 非常欢迎投稿！
 
-请看一下 [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) 准则和 [the validation tools](https://github.com/akullpp/awesome-java-lint).
+请看一下 [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) 指南和 [the validation tools](https://github.com/akullpp/awesome-java-lint).
 
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
