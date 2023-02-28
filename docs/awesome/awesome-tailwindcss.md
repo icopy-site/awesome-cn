@@ -70,7 +70,8 @@
 - [Theme Swapper](https://github.com/crswll/tailwindcss-theme-swapper) - 使用 CSS 变量的主题，支持媒体查询.
 - [Themeable](https://github.com/upupming/tailwindcss-themeable) - 添加对 Tailwind CSS 的多主题支持.
 - [Themer](https://github.com/RyanClementsHax/tailwindcss-themer) - 添加对带有 CSS 变量和变体的 Tailwind CSS 的主题支持.
-- [Accent](https://github.com/enjidev/tailwindcss-accent) - Adds `accent` colors for more dynamic and flexible color utilization.
+- [Tailwind Elements](https://tailwind-elements.com/) - 使用 500 多个交互式组件（日期选择器、模式、表单、表格、暗模式）扩展 Tailwind CSS.
+- [Accent](https://github.com/enjidev/tailwindcss-accent) - 添加“强调”颜色以实现更动态和更灵活的颜色利用.
 - [Radix](https://github.com/ecklf/tailwindcss-radix) - 添加用于设置 Radix UI 状态样式的实用程序和变体.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) - 利用 Tailwind CSS 的配置来创建实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - 添加“图像渲染”实用程序.
@@ -114,7 +115,7 @@
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) - 添加一个 `responsive-embed` 组件.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) - 添加基于 Bootstrap 表格的表格组件.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) - 添加卡片组件.
-- [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - 添加_Skip to main content_ 可访问组件.
+- [Skip link](https://github.com/opdavies/tailwindcss-skip-link) - Adds a _Skip to main content_ accessible component.
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) - 将颜色配置导出到 CSS 自定义属性.
 - [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) - 将配置导出到 CSS 自定义属性.
 - [CSS Variables](https://github.com/mertasan/tailwindcss-variables) - 导出自定义 CSS 变量（支持深色模式）.
@@ -187,12 +188,12 @@
 - [tail-animista](https://tail-animista.vercel.app) - 用于 Tailwind CSS 的可配置自定义动画实用程序生成器.
 - [brands-tail-color](https://brands-tail-color.vercel.app/) - 使用各种品牌颜色的配置生成器.
 - [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS 拖放构建器，可快速构建网站并制作原型.
-- [Typography Playground](https://tailwind-typography-playground.vercel.app/) - 用于使用 Tailwind CSS Typography Plugin 尝试不同 Google 字体组合的工具.
+- 🌍 [Typography Playground](https://tailwind-typography-playground.vercel.app/) - 用于使用 Tailwind CSS Typography Plugin 尝试不同 Google 字体组合的工具.
 - [Play](https://play.tailwindcss.com/) - Tailwind CSS 的高级在线游乐场.
-- [Updrafts.app](https://updrafts.app/) - 用于 Tailwind CSS 的高级在线无代码拖放编辑器.
-- [tailwind.run](https://tailwind.run) - 具有内置功能的 Tailwind CSS fiddle（在线）.
-- [tailzilla.app](https://tailzilla.app) - Tailwind CSS 的在线游乐场.
-- [Flowrift](https://flowrift.com) - 设计精美的 Tailwind CSS UI 块.
+- 🌍 [Updrafts.app](https://updrafts.app/) - 用于 Tailwind CSS 的高级在线无代码拖放编辑器.
+- 🌍 [tailwind.run](https://tailwind.run) - 具有内置功能的 Tailwind CSS fiddle（在线）.
+- 🌍 [tailzilla.app](https://tailzilla.app) - Tailwind CSS 的在线游乐场.
+- 🌍 [Flowrift](https://flowrift.com) - 设计精美的 Tailwind CSS UI 块.
 - [Tailwindhelper](https://www.tailwindhelper.com/) - 可视化 Tailwind CSS 类和单位转换器.
 - [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind 类的前缀工具.
 - [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) - 通过建议最匹配的类将 CSS 转换为 Tailwind CSS.
@@ -222,7 +223,7 @@
 - [tailwindcss-webpack-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - 开箱即用的 Tailwind CSS，支持“Design in Devtools”模式并可视化 Tailwind CSS 配置.
 - [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Tailwind CSS 的 Vite 插件，支持“Design in Devtools”模式，可视化 Tailwind CSS 配置.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - 用于可视化 Tailwind CSS 配置文件的本地 UI 工具.
-- [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
+- [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的刀片表单组件.
 - [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 - [Gust](https://www.getgust.com) - 为 WordPress 拖放页面构建器.
 - [clb](https://github.com/crswll/clb) - clb（类列表构建器）是一个实用函数，它基于一个类列表构建一个类列表 [Stitches](https://stitches.dev/) 像 API.
@@ -238,11 +239,11 @@
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
 - [Maizzle](https://maizzle.com/) - 使用 Tailwind CSS 快速制作电子邮件原型的框架.
-- [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS 类名备忘单.
-- [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - 单个文件中的 Tailwind CSS 类名称.
-- [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名、变体和指令备忘单.
-- [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
-- [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - 可搜索界面中的 Tailwind CSS 实用程序类名称.
+- 🌍 [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) - Tailwind CSS 类名备忘单.
+- 🌍 [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) - 单个文件中的 Tailwind CSS 类名称.
+- 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名、变体和指令备忘单.
+- 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
+- 🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - 可搜索界面中的 Tailwind CSS 实用程序类名称.
 
 
 ## UI Libraries, Components & Templates
@@ -252,7 +253,6 @@
 - [Tailwind UI](https://tailwindui.com) - 使用 Tailwind CSS 制作的组件库.
 - [Headless UI](https://github.com/tailwindlabs/headlessui) - 完全无样式、完全可访问的 UI 组件.
 - [VueTailwind](https://github.com/alfonsobries/vue-tailwind) - 使用 Tailwind CSS 的 Vue.js UI 库.
-- [Tailwind Elements](https://tailwind-elements.com/) - 大量免费组件，得益于 Bootstrap 5，移动设备友好.
 - [Vechai UI](https://www.vechaiui.com/) - 使用 Tailwind CSS 的内置暗模式的高质量可访问 React 组件.
 - [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - 使用 Tailwind CSS 构建的开源组件库.
 - [a17t](https://a17t.miles.land) - 为扩展 Tailwind CSS 而构建的原子设计工具包.
@@ -385,10 +385,10 @@
 - [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - 使用 Vue.js 和 Tailwind CSS 制作的导航栏.
 - [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - 使用 Tailwind CSS 进行切换.
 - [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - Cruip 使用 Tailwind CSS Boilerplate 构建的“打开”登陆页面模板.
-- [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - 如何使用 Jest 测试 Tailwind CSS 插件.
+- [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - How to test Tailwind CSS plugins with Jest.
 - [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - 如何使用 PostCSS 和 Webpack 设置 Tailwind CSS.
 - [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - 如何将 Tailwind CSS 与 CSS-in-JS 一起使用.
-- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - How to setup Tailwind CSS in a Laravel project.
+- [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) - 如何在 Laravel 项目中设置 Tailwind CSS.
 - [Tailwind CSS with Ember](https://github.com/raytiley/tailwind-ember-example) - 如何将 Tailwind CSS 添加到 Ember 应用程序.
 - [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - 如何在 Sage 中设置 Tailwind CSS.
 - [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) - 如何在 Gatsby 中使用 Tailwind CSS.

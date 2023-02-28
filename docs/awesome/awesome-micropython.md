@@ -12,7 +12,7 @@
 
 精选的 MicroPython 库、框架、软件和资源列表.
 
-[MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
+[MicroPython](https://micropython.org/) 是 Python 3 编程语言的精简高效实现，包括 Python 标准库的一小部分，并经过优化以在微控制器和受限环境中运行.
 
 
 
@@ -53,10 +53,11 @@
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) - 使用 UART 的 DFPlayer Mini 驱动程序.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) - 用于 MicroPython 开发板的 WAV 播放器.
 * [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - VS1053b MP3 播放器的异步驱动程序.
-* [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - A MIDI implementation example for MicroPython.
+* [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - MicroPython 的 MIDI 实现示例.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) - 用于铃声文本传输语言 (RTTTL) 的 Python 解析器.
 * [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - 运行 MicroPython 的微控制器上的 I2S 支持示例.
 * [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - 用于 MicroPython 的最小 OSC 客户端和服务器库.
+* [micropython-sgtl5000](https://github.com/rdagger/micropython-sgtl5000) - 带耳机放大器的 SGTL5000 低功耗立体声编解码器库.
 
 ### Communications
 
@@ -313,7 +314,7 @@
 * [micropyserver](https://github.com/troublegum/micropyserver) - MicroPyServer 是用于 MicroPython 项目的简单 HTTP 服务器.
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli) - 基于用于 MicroPython 的 MicroWebCli 的微型 JSON REST Web 客户端（用于 Pycom 模块和 ESP32）.
 * [micropython-noggin](https://github.com/larsks/micropython-noggin) - 一个非常简单的 MicroPython 网络服务器.
-* [uwebsockets](https://github.com/danni/uwebsockets) - ESP8266 的 MicroPython WebSocket 实现.
+* [uwebsockets](https://github.com/danni/uwebsockets) - MicroPython WebSocket implementation for ESP8266.
 * [microdot](https://github.com/miguelgrinberg/microdot) - 超小的 MicroPython 网络框架.
 * [micropython-nanoweb](https://github.com/hugokernel/micropython-nanoweb) - 内存占用少的全异步 MicroPython Web 服务器.
 * [MicroWebCli](https://github.com/jczic/MicroWebCli) - 用于 MicroPython 的微型 HTTP Web 客户端（用于 Pycom 模块和 ESP32）.
@@ -429,7 +430,7 @@
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
 * [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动器.
 * [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动程序.
-* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动器.
+* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 用于由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动程序.
 
@@ -550,7 +551,7 @@
 
 #### DC Motor
 
-* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动器.
+* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动程序.
 * [MicroPython-L298](https://gitlab.com/olivierlenoir/MicroPython-L298) - 使用 MicroPython 驱动 L298 双 H 桥.
 
 #### Servo
@@ -597,7 +598,7 @@
 * [micropython-bmp280](https://github.com/dafvid/micropython-bmp280) - BMP280 传感器模块.
 * [micropython_bme280_i2c](https://github.com/triplepoint/micropython_bme280_i2c) - 用于与博世 BME280 温度、湿度和压力传感器通信的 MicroPython 模块.
 * [MicroPython-BME280](https://github.com/neliogodoi/MicroPython-BME280) - 温度、压力和湿度数字传​​感器的驱动程序.
-* [micropython-bmp180](https://gitlab.com/flowolf/micropython-bmp180) - 为 BMP180 压力传感器提供类的 MicroPython 模块.
+* [micropython-bmp180](https://gitlab.com/flowolf/micropython-bmp180) - A module for MicroPython which provides a class for the BMP180 pressure sensor.
 * [BMP390](https://github.com/octaprog7/BMP390) - 用于 BMP390 压力和温度传感器的 MicroPython 模块.
 * [BMP180](https://github.com/octaprog7/BMP180) - 用于 BMP180 压力和温度传感器的 MicroPython 模块.
 
@@ -764,6 +765,7 @@
 * [micropython-sht30](https://github.com/schinckel/micropython-sht30) - 基于 I2C 总线的纯 Python 中的 SHT30 传感器驱动程序.
 * [micropython_ahtx0](https://github.com/targetblank/micropython_ahtx0) - 用于 AHT10 和 AHT20 温度和湿度传感器的 MicroPython 驱动程序.
 * [sht85](https://github.com/octaprog7/sht85) - MicroPython 驱动程序 [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) 湿度和温度传感器.
+* [micropython-zacwire](https://github.com/mdaeron/micropython-zacwire) - 用于 TSic 506F 温度传感器的 ZACwire 协议的 MicroPython 驱动程序.
 
 #### Temperature IR
 
@@ -778,7 +780,7 @@
 
 #### Touch Resistive
 
-* [XPT2046-touch-pad-driver](https://github.com/robert-hh/XPT2046-touch-pad-driver) - Driver for XPT2046 touch pad controller used in many TFT modules.
+* [XPT2046-touch-pad-driver](https://github.com/robert-hh/XPT2046-touch-pad-driver) - 许多 TFT 模块中使用的 XPT2046 触摸板控制器的驱动程序.
 
 ### Scheduling
 

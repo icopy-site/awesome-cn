@@ -60,6 +60,7 @@
 - [KonstaKANG](https://konstakang.com/devices/rpi4/) - 为 Raspberry Pi 构建的非官方 LineageOS 和 AOSP. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Lakka](http://lakka.tv) - 在完全基于 RetroArch 构建的 Raspberry Pi 上进行复古游戏.
 - [LibreELEC](https://libreelec.tv/) - 刚好够用的 Kodi 操作系统
+- [Mainsail OS](https://github.com/mainsail-crew/MainsailOS) - 3D 打印机的发行版，包括开始使用 Klipper 固件和 Mainsail 的所有内容.
 - [Manjaro](https://manjaro.org/download/) - 适用于 Raspberry Pi 的友好开源 Linux 发行版.
 - [Minibian](https://minibianpi.wordpress.com/) - 最小的 Raspbian（比 Jessie Lite 轻）.
 - [MoodleBox](https://moodlebox.net/) - MoodleBox 在树莓派上提供了一个Moodle 学习管理系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
@@ -100,7 +101,7 @@
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - 使用带有此系统级 GDB 服务器的 GDB 远程加载、调试和测试裸机程序.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS 应用程序可轻松将图像安装/备份/恢复到 SD 卡上.
-- [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - 非常轻巧且易于安装的工具包，可以用 Python 编写单页 Web 应用程序来引导 RPi，而无需安装 Web 服务器.
+- [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - 非常轻量级且易于安装的工具包，用于在 Python 单页 Web 应用程序中编写来引导 RPi，而无需安装 Web 服务器.
 - [CusDeb](https://cusdeb.com/en/) - 用于创建安装了特定包的自定义图像的 Web UI.
 - [balenaEtcher](https://www.balena.io/etcher/) - SD 卡刻录应用程序，对最终用户来说很简单，对开发人员来说是可扩展的，并且可以在任何平台上运行.
 - [Drago](https://seashell.github.io/drago) - 灵活的 Wireguard 网络配置管理器，非常适合建立跨越多个 Raspberry Pi 的安全覆盖.
@@ -112,7 +113,7 @@
 - [Orangetool](https://github.com/Moduland/Orangetool) - Python 中单板计算机的控制功能.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  - 用于创建 raspberrypi.org Raspbian 图像的工具. 这可用于创建您自己的自定义图像，并安装特定的软件包等.
 - [Pieman](https://github.com/tolstoyevsky/pieman) - 用于创建基于 Raspbian、Devuan、Ubuntu 和 Alpine Linux 的自定义图像的脚本.
-- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 图像.
+- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 映像.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - 自动缩小 pi 图像的 Bash 脚本，然后在启动时将其调整为 SD 卡的最大大小.
 - [pistrong](https://github.com/gitbls/pistrong)  - 管理受证书保护的 strongSwan VPN. 用于客户端-服务器、站点到站点和主机到主机 VPN 的安装程序和命令行工具.
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
@@ -226,7 +227,7 @@
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi Check** - 检查 Pi 统计数据 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 - **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的摄像头查看图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
-- **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放来自播放列表（m3u，请）的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+- **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容，播放本地媒体文件，在您的 Raspberry Pi 上播放播放列表（m3u，请）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 - **Termius** - Pi 最干净的 SSH 客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)

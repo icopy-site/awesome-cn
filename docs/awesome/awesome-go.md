@@ -92,7 +92,7 @@ _用于处理音频的库._
 _用于实现身份验证方案的库._
 
 - [authboss](https://github.com/volatiletech/authboss)  - 用于网络的模块化身份验证系统. 它尝试尽可能多地删除样板和“困难的东西”，以便每次您在 Go 中启动一个新的 Web 项目时，您都可以插入它、配置它并开始构建您的应用程序，而不必每次都构建一个身份验证系统.
-- [branca](https://github.com/essentialkaos/branca) - 布兰卡代币 [specification implementation](https://github.com/tuupola/branca-spec) for Golang 1.15+.
+- [branca](https://github.com/essentialkaos/branca) - 布兰卡代币 [specification implementation](https://github.com/tuupola/branca-spec) 对于 Golang 1.15+.
 - [casbin](https://github.com/hsluoyz/casbin) - 支持访问控制模型（如 ACL、RBAC 和 ABAC）的授权库.
 - [cookiestxt](https://github.com/mengzhuo/cookiestxt) - 提供 cookies.txt 文件格式的解析器.
 - [go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian 是一个 golang 库，它提供了一种简单、干净和惯用的方式来创建强大的现代 API 和 Web 身份验证，支持 LDAP、Basic、Bearer 令牌和基于证书的身份验证.
@@ -152,7 +152,7 @@ _用于构建和使用机器人的库._
 - [Kelp](https://github.com/stellar/kelp) - 官方交易和做市机器人 [Stellar](https://www.stellar.org/) 敏捷. 开箱即用，用 Golang 编写，与中心化交易所和自定义交易策略兼容.
 - [larry](https://github.com/ezeoleaf/larry) - Larry 是一个非常简单的 Twitter 机器人生成器，它可以从 Github 中用 Go 构建的随机存储库中发送推文.
 - [margelet](https://github.com/zhulik/margelet) - 构建电报机器人的框架.
-- [micha](https://github.com/onrik/micha) - 转到 Library for Telegram 但 api.
+- [micha](https://github.com/onrik/micha) - 转到 Telegram bot api 库.
 - [olivia](https://github.com/olivia-ai/olivia) - 用人工神经网络构建的聊天机器人.
 - [slack-bot](https://github.com/innogames/slack-bot) - 准备好为懒惰的开发人员使用 Slack Bot：自定义命令、Jenkins、Jira、Bitbucket、Github...
 - [slacker](https://github.com/shomali11/slacker) - 易于使用的框架来创建 Slack 机器人.
@@ -171,7 +171,7 @@ _用于构建和使用机器人的库._
 _库和工具有助于构建自动化._
 
 - [1build](https://github.com/gopinath-langote/1build) - 命令行工具可以顺畅地管理项目特定的命令.
-- [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
+- [anko](https://github.com/GuilhermeCaruso/anko) - 多种编程语言的简单应用程序观察器.
 - [gaper](https://github.com/maxcnunes/gaper) - 在 Go 项目崩溃或某些监视的文件更改时构建并重新启动它.
 - [gilbert](https://go-gilbert.github.io) - 为 Go 项目构建系统和任务运行器.
 - [goyek](https://github.com/goyek/goyek) - 在 Go 中创建构建管道.
@@ -240,7 +240,7 @@ _用于构建标准或基本命令行应用程序的库._
 - [cli](https://github.com/mkideal/cli) - 基于 golang struct 标签的功能丰富且易于使用的命令行包.
 - [cli](https://github.com/teris-io/cli) - 用于在 Go 中构建命令行界面的简单而完整的 API.
 - [climax](https://github.com/tucnak/climax) - 本着 Go 命令的精神，具有“人脸”的替代 CLI.
-- [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
+- [clîr](https://github.com/leaanthony/clir)  - 一个简单明了的 CLI 库. 无依赖性.
 - [cmd](https://github.com/posener/cmd) - 以惯用的方式扩展标准的“flag”包以支持子命令等.
 - [cmdr](https://github.com/hedzr/cmdr) - POSIX/GNU 风格，类似于 getopt 的命令行 UI Go 库.
 - [cobra](https://github.com/spf13/cobra) - 现代 Go CLI 交互的指挥官.
@@ -277,7 +277,7 @@ _用于构建标准或基本命令行应用程序的库._
 - [ukautz/clif](https://github.com/ukautz/clif) - 小型命令行界面框架.
 - [urfave/cli](https://github.com/urfave/cli) - 用于在 Go 中构建命令行应用程序的简单、快速和有趣的包（以前称为 codegangsta/cli）.
 - [version](https://github.com/mszostok/version) - 以多种格式收集和显示 CLI 版本信息以及升级通知.
-- [wlog](https://github.com/dixonwille/wlog) - 支持跨平台颜色和并发的简单日志记录界面.
+- [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
 - [wmenu](https://github.com/dixonwille/wmenu) - 提示用户做出选择的 cli 应用程序易于使用的菜单结构.
 
 
@@ -291,11 +291,11 @@ _用于配置解析的库._
 - [config](https://github.com/num30/config) - 在两行代码中使用文件、环境变量或标志配置您的应用程序
 - [config](https://github.com/olebedev/config) - 具有环境变量和标志解析的 JSON 或 YAML 配置包装器.
 - [configuration](https://github.com/BoRuDar/configuration) - 用于从环境变量、文件、标志和“默认”标签初始化配置结构的库.
-- [configure](https://github.com/paked/configure) - 通过多个来源提供配置，包括 JSON、标志和环境变量.
+- [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 - [configuro](https://github.com/sherifabdlnaby/configuro) - 来自 ENV 和文件的自以为是的配置加载和验证框架专注于 12 因素兼容的应用程序.
 - [confita](https://github.com/heetch/confita) - 将配置从多个后端级联加载到一个结构中.
 - [conflate](https://github.com/the4thamigo-uk/conflate) - 用于合并来自任意 URL 的多个 JSON/YAML/TOML 文件的库/工具、针对 JSON 模式的验证以及模式中定义的默认值的应用.
-- [env](https://github.com/caarlos0/env) - 将环境变量解析为 Go 结构（使用默认值）.
+- [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
 - [env](https://github.com/junk1tm/env) - 用于将环境变量加载到结构中的轻量级包.
 - [envcfg](https://github.com/tomazk/envcfg) - 将环境变量取消编组到 Go 结构.
 - [envconf](https://github.com/ian-kent/envconf) - 来自环境的配置.
@@ -410,7 +410,7 @@ _用于预处理 CSS 文件的库._
 额外的有序地图实现.
 
 - [cmap](https://github.com/lrita/cmap) - 用于 go 的线程安全并发映射，支持使用 `interface{}` 作为键和自动扩展分片.
-- [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
+- [dict](https://github.com/srfrog/dict) - 用于 Go 的类似 Python 的字典 (dict).
 - [goradd/maps](https://github.com/goradd/maps)  - Go 1.18+ 地图通用地图界面； 安全地图； 有序地图； 有序、安全的地图；  ETC.
 
 ### Miscellaneous Data Structures and Algorithms
@@ -423,7 +423,7 @@ _用于预处理 CSS 文件的库._
 - [go-generics](https://github.com/bobg/go-generics) - 通用切片、映射、集合、迭代器和 goroutine 实用程序.
 - [go-geoindex](https://github.com/hailocab/go-geoindex) - 内存地理索引.
 - [go-rampart](https://github.com/francesconi/go-rampart) - 确定间隔如何相互关联.
-- [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
+- [go-rquad](https://github.com/aurelien-rainone/go-rquad) - 具有高效点定位和邻居查找功能的区域四叉树.
 - [go-tuple](https://github.com/barweiss/go-tuple) - Go 1.18+ 的通用元组实现.
 - [go18ds](https://github.com/daichi-m/go18ds) - 使用 Go 1.18 泛型的 Go 数据结构.
 - [gofal](https://github.com/xxjwxc/gofal) - Go 的小数 api.
@@ -447,7 +447,7 @@ _用于预处理 CSS 文件的库._
 - [deque](https://github.com/edwingeng/deque) - 高度优化的双端队列.
 - [deque](https://github.com/gammazero/deque) - 快速环形缓冲区双端队列（双端队列）.
 - [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) - 并发 FIFO 队列.
-- [memlog](https://github.com/embano1/memlog) - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
+- [memlog](https://github.com/embano1/memlog) - 受 Apache Kafka 启发的易于使用、轻量级、线程安全且仅追加的内存数据结构.
 
 ### Sets
 
@@ -558,6 +558,7 @@ _具有过期记录的数据存储、内存分布式数据存储或基于文件�
 - [avro](https://github.com/khezen/avro)  - 发现 SQL 模式并将它们转换为 AVRO 模式. 将 SQL 记录查询为 AVRO 字节.
 - [bytebase](https://github.com/bytebase/bytebase) - DevOps 团队的安全数据库架构更改和版本控制.
 - [darwin](https://github.com/GuiaBolso/darwin) - Go 的数据库模式演化库.
+- [dbmate](https://github.com/amacneil/dbmate) - 一个轻量级的、与框架无关的数据库迁移工具.
 - [go-fixtures](https://github.com/RichardKnop/go-fixtures) - Golang 优秀的内置数据库/sql 库的 Django 风格装置.
 - [go-pg-migrate](https://github.com/lawzava/go-pg-migrate) - 用于 go-pg 迁移管理的 CLI 友好包.
 - [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - 一个帮助使用 go-pg/pg 编写迁移的 Go 包.
@@ -670,7 +671,7 @@ _用于构建和使用 SQL 的库._
 - [gocql](https://gocql.github.io) - 用于 Apache Cassandra 的 Go 语言驱动程序.
 - [godis](https://github.com/piaohao/godis) - 由 golang 实现的 redis 客户端，灵感来自绝地武士.
 - [godscache](https://github.com/defcronyke/godscache) - Google Cloud Platform Go Datastore 包的包装器，使用 memcached 添加缓存.
-- [gomemcache](https://github.com/bradfitz/gomemcache/) - 用于 Go 编程语言的内存缓存客户端库.
+- [gomemcache](https://github.com/bradfitz/gomemcache/) - memcache client library for the Go programming language.
 - [gorethink](https://github.com/dancannon/gorethink) - RethinkDB 的 Go 语言驱动程序.
 - [goriak](https://github.com/zegl/goriak) - Go language driver for Riak KV.
 - [Kivik](https://github.com/go-kivik/kivik) - Kivik 为 CouchDB、PouchDB 和类似数据库提供了通用的 Go 和 GopherJS 客户端库.
@@ -750,7 +751,7 @@ _帮助构建分布式系统的包._
 - [go-doudou](https://github.com/unionj-cloud/go-doudou)  - 基于八卦协议和 OpenAPI 3.0 规范的去中心化微服务框架. 专注于低代码和快速开发的内置 go-doudou cli 可以提高您的工作效率.
 - [go-health](https://github.com/InVisionApp/go-health) - 用于在您的服务中启用异步依赖项健康检查的库.
 - [go-jump](https://github.com/dgryski/go-jump) - Google 的“Jump”一致性哈希函数的端口.
-- [go-kit](https://github.com/go-kit/kit) - Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc.
+- [go-kit](https://github.com/go-kit/kit) - 支持服务发现、负载均衡、可插拔传输、请求跟踪等的微服务工具包.
 - [go-micro](https://github.com/micro/go-micro) - 分布式系统开发框架.
 - [go-mysql-lock](https://github.com/sanketplus/go-mysql-lock) - 基于MySQL的分布式锁.
 - [go-pdu](https://github.com/pdupub/go-pdu) - 一个分散的基于身份的社交网络.
@@ -767,7 +768,7 @@ _帮助构建分布式系统的包._
 - [lura](https://github.com/luraproject/lura) - 具有中间件的超高性能 API 网关框架.
 - [micro](https://github.com/micro/micro) - 用于云及其他领域的分布式系统运行时.
 - [NATS](https://github.com/nats-io/gnatsd) - 用于微服务、物联网和云原生系统的轻量级、高性能消息传递系统.
-- [outboxer](https://github.com/italolelis/outboxer) - Outboxer 是一个实现发件箱模式的 go 库.
+- [outboxer](https://github.com/italolelis/outboxer) - Outboxer is a go library that implements the outbox pattern.
 - [pglock](https://cirello.io/pglock) - PostgreSQL 支持的分布式锁定实现.
 - [pjrpc](https://gitlab.com/pjrpc/pjrpc) - 具有 Protobuf 规范的 Golang JSON-RPC 服务器-客户端.
 - [raft](https://github.com/hashicorp/raft) - Raft 共识协议的 Golang 实现，由 HashiCorp 提供.
@@ -844,7 +845,7 @@ _在你的代码中嵌入其他语言._
 - [prolog](https://github.com/ichiban/prolog) - 可嵌入序言.
 - [purl](https://github.com/ian-kent/purl) - Perl 5.18.2 嵌入到 Go 中.
 - [starlark-go](https://github.com/google/starlark-go) - Starlark 的 Go 实现：具有确定性评估和密封执行的类 Python 语言.
-- [tengo](https://github.com/d5/tengo) - 用于 Go 的字节码编译脚本语言.
+- [tengo](https://github.com/d5/tengo) - Bytecode compiled script language for Go.
 
 
 ## Error Handling
@@ -870,7 +871,7 @@ _用于处理错误的库._
 
 ## File Handling
 
-_Libraries for handling files and file systems._
+_用于处理文件和文件系统的库._
 
 - [afero](https://github.com/spf13/afero) - Go 的文件系统抽象系统.
 - [afs](https://github.com/viant/afs) - Go 的抽象文件存储（mem、scp、zip、tar、cloud：s3、gs）.
@@ -949,7 +950,7 @@ _用于处理表单的库._
 
 _支持 Go 函数式编程的包._
 
-- [fp-go](https://github.com/repeale/fp-go) - 由 Golang 1.18+ 泛型提供支持的函数式编程助手集合.
+- [fp-go](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Golang 1.18+ generics.
 - [fpGo](https://github.com/TeaEntityLab/fpGo) - Monad，Golang 的函数式编程特性.
 - [fuego](https://github.com/seborama/fuego) - Go 中的功能实验.
 - [go-underscore](https://github.com/tobyhede/go-underscore) - 有用的 Go 集合实用程序的有用集合.
@@ -964,10 +965,10 @@ _支持 Go 函数式编程的包._
 _很棒的游戏开发库._
 
 - [Azul3D](https://github.com/azul3d/engine) - 用 Go 编写的 3D 游戏引擎.
-- [Ebitengine](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+- [Ebitengine](https://github.com/hajimehoshi/ebiten) - Go 中非常简单的 2D 游戏引擎.
 - [engo](https://github.com/EngoEngine/engo)  - Engo 是一个用 Go 编写的开源 2D 游戏引擎. 它遵循实体-组件-系统范式.
 - [fantasyname](https://github.com/s0rg/fantasyname) - 幻想名称生成器.
-- [g3n](https://github.com/g3n/engine) - 转到 3D 游戏引擎.
+- [g3n](https://github.com/g3n/engine) - Go 3D Game Engine.
 - [go-astar](https://github.com/beefsack/go-astar) - 执行 A\* 寻路算法.
 - [go-sdl2](https://github.com/veandco/go-sdl2) - 去绑定 [Simple DirectMedia Layer](https://www.libsdl.org/).
 - [go3d](https://github.com/ungerik/go3d) - 用于 Go 的面向性能的 2D/3D 数学包.
@@ -1011,7 +1012,7 @@ _地理工具和服务器_
 - [godal](https://github.com/airbusgeo/godal) - 去包装 GDAL.
 - [H3](https://github.com/uber/h3-go) - H3 的 Go 绑定，一个分层的六边形地理空间索引系统.
 - [H3 GeoJSON](https://github.com/mmadfox/go-geojson2h3) - H3 索引和 GeoJSON 之间的转换实用程序.
-- [H3GeoDist](https://github.com/mmadfox/go-h3geo-dist) - Distribution of Uber H3geo cells by virtual nodes.
+- [H3GeoDist](https://github.com/mmadfox/go-h3geo-dist) - 通过虚拟节点分配 Uber H3geo 单元.
 - [mbtileserver](https://github.com/consbio/mbtileserver) - 一个简单的基于 Go 的服务器，用于以 mbtiles 格式存储的地图图块.
 - [osm](https://github.com/paulmach/osm) - 用于读取、写入和使用 OpenStreetMap 数据和 API 的库.
 - [pbf](https://github.com/maguro/pbf) - OpenStreetMap PBF golang 编码器/解码器.
@@ -1068,7 +1069,7 @@ _用于管理和使用 Goroutines 的工具._
 - [gpool](https://github.com/Sherifabdlnaby/gpool) - 管理可调整大小的上下文感知 goroutines 池以绑定并发性.
 - [grpool](https://github.com/ivpusic/grpool) - 轻量级 Goroutine 池.
 - [hands](https://github.com/duanckham/hands) - 一个进程控制器，用于控制多个goroutines的执行和返回策略.
-- [Hunch](https://github.com/AaronJan/Hunch) - Hunch provides functions like: `All`, `First`, `Retry`, `Waterfall` etc., that makes asynchronous flow control more intuitive.
+- [Hunch](https://github.com/AaronJan/Hunch) - Hunch提供了`All`, `First`, `Retry`, `Waterfall`等功能，让异步流控更加直观.
 - [kyoo](https://github.com/dirkaholic/kyoo) - 提供无限的作业队列和并发工作池.
 - [neilotoole/errgroup](https://github.com/neilotoole/errgroup) - `sync/errgroup` 的替代方案，仅限于 N 个 worker goroutines 池.
 - [nursery](https://github.com/arunsworld/nursery) - Go 中的结构化并发.
@@ -1143,7 +1144,7 @@ _用于处理图像的库._
 - [bimg](https://github.com/h2non/bimg) - 使用 libvips 进行快速高效图像处理的小包.
 - [cameron](https://github.com/aofei/cameron) - Go 的头像生成器.
 - [canvas](https://github.com/tdewolff/canvas) - 矢量图形到 PDF、SVG 或光栅化图像.
-- [darkroom](https://github.com/gojek/darkroom) - 具有可变存储后端和图像处理引擎的图像代理，专注于速度和弹性.
+- [darkroom](https://github.com/gojek/darkroom) - An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
 - [draft](https://github.com/lucasepe/draft) - 使用简单的 YAML 语法为 GraphViz 生成高级微服务架构图.
 - [geopattern](https://github.com/pravj/geopattern) - 从字符串创建漂亮的生成图像模式.
 - [gg](https://github.com/fogleman/gg) - 纯 Go 中的 2D 渲染.
@@ -1172,8 +1173,8 @@ _用于处理图像的库._
 - [mpo](https://github.com/donatj/mpo) - MPO 3D 照片的解码器和转换工具.
 - [picfit](https://github.com/thoas/picfit) - 用 Go 编写的图像大小调整服务器.
 - [pt](https://github.com/fogleman/pt) - 用 Go 编写的路径跟踪引擎.
-- [resize](https://github.com/nfnt/resize) - 使用常见的插值方法为 Go 调整图像大小.
-- [rez](https://github.com/bamiaux/rez) - 在纯 Go 和 SIMD 中调整图像大小.
+- [resize](https://github.com/nfnt/resize) - Image resizing for Go with common interpolation methods.
+- [rez](https://github.com/bamiaux/rez) - Image resizing in pure Go and SIMD.
 - [scout](https://github.com/jonoton/scout) - Scout 是用于 DIY 视频安全的独立开源软件解决方案.
 - [smartcrop](https://github.com/muesli/smartcrop) - 为任意图像和裁剪尺寸找到好的裁剪.
 - [steganography](https://github.com/auyer/steganography) - 用于 LSB 隐写术的纯 Go 库.
@@ -1209,12 +1210,12 @@ _用于调度作业的库._
 - [clockwerk](https://github.com/onatm/clockwerk) - Go 包使用简单、流畅的语法来安排定期作业.
 - [cronticker](https://github.com/krayzpipes/cronticker) - 支持 cron 计划的自动收报机实施.
 - [Dagu](https://github.com/dagu-go/dagu)  - 无代码工作流执行器. 它执行以简单的 YAML 格式定义的 DAG.
-- [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以在特定日期和时间以不同的时间间隔执行闭包或函数，从每秒一次到每年一次. 主要用于 Web 应用程序和长时间运行的守护进程.
+- [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以以不同的时间间隔执行闭包或函数，从每秒一次到每年一次在特定日期和时间执行. 主要用于 Web 应用程序和长时间运行的守护进程.
 - [go-quartz](https://github.com/reugn/go-quartz) - 用于 Go 的简单、零依赖的调度库.
 - [gocron](https://github.com/go-co-op/gocron)  - 简单流畅的 Go 作业调度. 这是一个积极维护的分支 [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron).
 - [goflow](https://github.com/fieldryand/goflow) - 用于快速制作 ETL/ML/AI 管道原型的工作流编排器和调度器.
 - [gron](https://github.com/roylee0704/gron) - 使用简单的 Go API 定义基于时间的任务，Gron 的调度程序将相应地运行它们.
-- [gronx](https://github.com/adhocore/gronx) - Cron expression parser, task runner and daemon consuming crontab like task list.
+- [gronx](https://github.com/adhocore/gronx) - Cron 表达式解析器、任务运行器和守护进程使用 crontab，如任务列表.
 - [JobRunner](https://github.com/bamzi/jobrunner) - 智能且功能强大的 cron 作业调度程序，内置作业排队和实时监控.
 - [jobs](https://github.com/albrow/jobs) - 持久灵活的后台作业库.
 - [leprechaun](https://github.com/kilgaloon/leprechaun) - 支持 webhooks、cron 和经典调度的作业调度程序.
@@ -1225,7 +1226,7 @@ _用于调度作业的库._
 
 ## JSON
 
-_Libraries for working with JSON._
+_用于处理 JSON 的库._
 
 - [ajson](https://github.com/spyzhov/ajson) - 支持 JSONPath 的 golang 抽象 JSON.
 - [ask](https://github.com/simonnilsson/ask)  - 轻松访问地图和切片中的嵌套值. 与 encoding/json 和其他将任意数据“解组”为 Go 数据类型的包结合使用.
@@ -1319,7 +1320,7 @@ _用于生成和使用日志文件的库._
 - [tail](https://github.com/hpcloud/tail) - Go 包力求模拟 BSD tail 程序的特性.
 - [xlog](https://github.com/xfxdev/xlog) - Go 的插件架构和灵活的日志系统，具有级别 ctrl、多个日志目标和自定义日志格式.
 - [xlog](https://github.com/rs/xlog) - 用于具有灵活调度的“网络/上下文”感知 HTTP 处理程序的结构化记录器.
-- [xylog](https://github.com/xybor-x/xylog) - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
+- [xylog](https://github.com/xybor-x/xylog) - 分级和结构化日志记录、动态字段、高性能、区域管理、简单配置和可读语法.
 - [yell](https://github.com/jfcg/yell) - 另一个简约的日志库.
 - [zap](https://github.com/uber-go/zap) - 快速、结构化、分级的 Go 日志记录.
 - [zerolog](https://github.com/rs/zerolog) - 零分配 JSON 记录器.
@@ -1403,7 +1404,7 @@ _实现消息传递系统的库._
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster 是一个去推送服务器集群.
 - [gorush](https://github.com/appleboy/gorush) - 推送通知服务器使用 [APNs2](https://github.com/sideshow/apns2) 和谷歌 [GCM](https://github.com/google/go-gcm).
 - [gosd](https://github.com/alexsniffin/gosd) - 用于安排何时将消息发送到频道的库.
-- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase Cloud Messaging、Apple Push Notification 服务、SMS）以及 websockets 的消息服务器，一个 REST API，具有分布式操作和消息持久性.
+- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase Cloud Messaging、Apple Push Notification 服务、SMS）以及 websockets 和 REST API 的消息服务器，具有分布式操作和消息持久性的特点.
 - [hare](https://github.com/leozz37/hare) - 一个用户友好的库，用于发送消息和监听 TCP 套接字.
 - [hub](https://github.com/leandro-lugaresi/hub) - 用于 Go 应用程序的消息/事件中心，使用发布/订阅模式，支持别名，如 rabbitMQ 交换.
 - [jazz](https://github.com/socifi/jazz) - 一个简单的 RabbitMQ 抽象层，用于队列管理以及消息的发布和消费.
@@ -1632,7 +1633,7 @@ _用于处理人类语言的库._
 ### Transliteration
 
 - [enca](https://github.com/endeveit/enca) - 最小的 cgo 绑定 [libenca](https://cihar.com/software/enca/), 它检测字符编码.
-- [go-unidecode](https://github.com/mozillazg/go-unidecode) - Unicode 文本的 ASCII 音译.
+- [go-unidecode](https://github.com/mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 - [gounidecode](https://github.com/fiam/gounidecode) - Unicode transliterator (also known as unidecode) for Go.
 - [transliterator](https://github.com/alexsergivan/transliterator) - 提供单向字符串音译，支持特定语言的音译规则.
 
@@ -1704,7 +1705,7 @@ _用于处理网络各层的库._
 - [utp](https://github.com/anacrolix/utp) - Go uTP 微传输协议实现.
 - [vssh](https://github.com/yahoo/vssh) - 用于通过 SSH 协议构建网络和服务器自动化的 Go 库.
 - [water](https://github.com/songgao/water) - 简单的 TUN/TAP 库.
-- [webrtc](https://github.com/pions/webrtc) - A pure Go implementation of the WebRTC API.
+- [webrtc](https://github.com/pions/webrtc) - WebRTC API 的纯 Go 实现.
 - [winrm](https://github.com/masterzen/winrm) - Go WinRM 客户端在 Windows 机器上远程执行命令.
 - [xtcp](https://github.com/xfxdev/xtcp) - 具有同步全双工通信、正常关闭和自定义协议的 TCP 服务器框架.
 
@@ -1751,7 +1752,7 @@ _实现对象关系映射或数据映射技术的库._
 - [bun](https://github.com/uptrace/bun)  - SQL 优先的 Golang ORM.  go-pg 的继任者.
 - [cacheme](https://github.com/Yiling-J/cacheme-go) - 用于 Go 的基于模式的类型化 Redis 缓存/记忆框架.
 - [ent](https://github.com/facebook/ent)  - Go 的实体框架. 用于建模和查询数据的简单但功能强大的 ORM.
-- [go-firestorm](https://github.com/jschoedt/go-firestorm) - 用于 Google/Firebase Cloud Firestore 的简单 ORM.
+- [go-firestorm](https://github.com/jschoedt/go-firestorm) - A simple ORM for Google/Firebase Cloud Firestore.
 - [go-sql](https://github.com/rushteam/gosql) - 一个简单的 mysql ORM.
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - 一个灵活而强大的 SQL 字符串生成器库加上一个零配置 ORM.
 - [go-store](https://github.com/gosuri/go-store) - 简单快速的 Redis 支持的 Go 键值存储库.
@@ -1785,7 +1786,7 @@ _包管理的官方实验工具_
 
 _用于包和依赖管理的非官方库._
 
-- [glide](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
+- [glide](https://github.com/Masterminds/glide)  - 轻松管理您的 golang 供应商和销售包. 受到 Maven、Bundler 和 Pip 等工具的启发.
 - [godep](https://github.com/tools/godep) - go 的依赖工具，godep 通过修复它们的依赖关系来帮助构建可重复的包.
 - [gom](https://github.com/mattn/gom) - Go Manager - 捆绑包.
 - [goop](https://github.com/nitrous-io/goop) - 受 Bundler 启发的 Go (golang) 的简单依赖管理器.
@@ -2024,7 +2025,7 @@ _用于测试代码库和生成测试数据的库._
 
 - 测试框架
 
-  - [apitest](https://apitest.dev) - 简单且可扩展的行为测试库，用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序.
+  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序的简单且可扩展的行为测试库.
   - [assert](https://github.com/go-playground/assert) - 与原生 go 测试一起使用的基本断言库，以及用于自定义断言的构建块.
   - [badio](https://github.com/cavaliercoder/badio) - Go 的 `testing/iotest` 包的扩展.
   - [baloo](https://github.com/h2non/baloo) - 富有表现力和多功能的端到端 HTTP API 测试变得简单.
@@ -2080,7 +2081,7 @@ _用于测试代码库和生成测试数据的库._
   - [testcase](https://github.com/adamluzsi/testcase) - 行为驱动开发的惯用测试框架.
   - [testcontainers-go](https://github.com/testcontainers/testcontainers-go)  - 一个 Go 包，可以轻松创建和清理基于容器的依赖项以进行自动集成/冒烟测试. 干净、易于使用的 API 使开发人员能够以编程方式定义应作为测试的一部分运行的容器，并在测试完成后清理这些资源.
   - [testfixtures](https://github.com/go-testfixtures/testfixtures) - 用于测试数据库应用程序的 Rails 类测试装置的帮助程序.
-  - [Testify](https://github.com/stretchr/testify) - 对标准 go 测试包的神圣扩展.
+  - [Testify](https://github.com/stretchr/testify) - Sacred extension to the standard go testing package.
   - [testmd](https://godoc.org/github.com/tvastar/test/cmd/testmd) - 将 markdown 片段转换为可测试的代码.
   - [testsql](https://github.com/zhulongcheng/testsql) - 测试前从SQL文件生成测试数据，完成后清除.
   - [testza](https://github.com/MarvinJWendt/testza) - 具有漂亮彩色输出的全功能测试框架.
@@ -2185,7 +2186,7 @@ _用于解析和操作文本的库._
 
 ### Regular Expressions
 
-- [genex](https://github.com/alixaxel/genex) - 计算正则表达式并将其扩展为所有匹配的字符串.
+- [genex](https://github.com/alixaxel/genex) - Count and expand Regular Expressions into all matching Strings.
 - [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - 简单轻量级的通配符模式匹配.
 - [goregen](https://github.com/zach-klippenstein/goregen) - 用于从正则表达式生成随机字符串的库.
 - [regroup](https://github.com/oriser/regroup) - 使用 struct 标签和自动解析将正则表达式命名组匹配到 go struct 中.
@@ -2217,7 +2218,7 @@ _用于解析和操作文本的库._
 - [go-runewidth](https://github.com/mattn/go-runewidth) - 获取字符或字符串的固定宽度的函数.
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Go 的零宽度字符检测和删除.
 - [kace](https://github.com/codemodus/kace) - 涵盖常见首字母缩写词的常见案例转换.
-- [petrovich](https://github.com/striker2000/petrovich) - Petrovich 是将俄语名字变形为给定语法格的图书馆.
+- [petrovich](https://github.com/striker2000/petrovich) - Petrovich 是将俄语名字变形为给定语法格的库.
 - [radix](https://github.com/yourbasic/radix) - 快速字符串排序算法.
 - [TySug](https://github.com/Dynom/TySug) - 关于键盘布局的替代建议.
 
@@ -2273,7 +2274,7 @@ _用于访问第三方 API 的库._
 - [go-twitch](https://github.com/knspriggs/go-twitch) - 用于与 Twitch v3 API 交互的 Go 客户端.
 - [go-twitter](https://github.com/dghubble/go-twitter) - 用于 Twitter v1.1 API 的客户端库.
 - [go-unsplash](https://github.com/hbagdi/go-unsplash) - 去客户端库 [Unsplash.com](https://unsplash.com) 应用程序接口.
-- [go-xkcd](https://github.com/nishanths/go-xkcd) - xkcd API 的 Go 客户端.
+- [go-xkcd](https://github.com/nishanths/go-xkcd) - XKCD API 的 Go 客户端.
 - [go-yapla](https://git.iglou.eu/Production/go-yapla) - 用于 Yapla v2.0 API 的客户端库.
 - [goagi](https://github.com/staskobzar/goagi) - 转到库以构建 Asterisk PBX agi/fastagi 应用程序.
 - [goami2](https://github.com/staskobzar/goami2) - Asterisk PBX 的 AMI v2 库.
@@ -2554,11 +2555,11 @@ _Libraries for version control._
 
 ## Video
 
-_Libraries for manipulating video._
+_用于处理视频的库._
 
 - [gmf](https://github.com/3d0c/gmf) - FFmpeg av\* 库的 Go 绑定.
 - [go-astisub](https://github.com/asticode/go-astisub) - 在 GO 中处理字幕（.srt、.stl、.ttml、.webvtt、.ssa/.ass、图文电视、.smi 等）.
-- [go-astits](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
+- [go-astits](https://github.com/asticode/go-astits) - 在 GO 中本地解析和解复用 MPEG 传输流 (.ts).
 - [go-m3u8](https://github.com/etherlabsio/go-m3u8)  - Apple m3u8 播放列表的解析器和生成器库. 积极维护的 quangngotan95/go-m3u8 版本具有改进和最新的 HLS 播放列表解析兼容性.
 - [go-mpd](https://github.com/unki2aut/go-mpd) - MPEG-DASH 清单文件的解析器和生成器库.
 - [goav](https://github.com/giorgisio/goav) - FFmpeg 的综合 Go 绑定.
@@ -2665,7 +2666,7 @@ _全栈网络框架._
 
 ### Routers
 
-- [alien](https://github.com/gernest/alien) - Lightweight and fast http router from outer space.
+- [alien](https://github.com/gernest/alien) - 来自外太空的轻量级快速 HTTP 路由器.
 - [bellt](https://github.com/GuilhermeCaruso/bellt) - 一个简单的 Go HTTP 路由器.
 - [Bone](https://github.com/go-zoo/bone) - 快如闪电的 HTTP 多路复用器.
 - [Bxog](https://github.com/claygod/Bxog)  - 用于 Go 的简单快速的 HTTP 路由器. 它适用于不同难度、长度和嵌套的路线. 他知道如何根据收到的参数创建 URL.
@@ -2715,7 +2716,7 @@ _全栈网络框架._
 
 _用于操作 XML 的库和工具._
 
-- [XML-Comp](https://github.com/xml-comp/xml-comp) - 生成文件夹、文件和标签差异的简单命令行 XML 比较器.
+- [XML-Comp](https://github.com/xml-comp/xml-comp) - Simple command line XML comparer that generates diffs of folders, files and tags.
 - [xml2map](https://github.com/sbabiv/xml2map) - XML 到 MAP 转换器编写的 Golang.
 - [xmlwriter](https://github.com/shabbyrobe/xmlwriter) - 基于 libxml2 的 xmlwriter 模块的程序化 XML 生成 API.
 - [xpath](https://github.com/antchfx/xpath) - 用于 Go 的 XPath 包.
@@ -2780,7 +2781,7 @@ _文本编辑器和 IDE 的插件._
 - [gocode](https://github.com/nsf/gocode) - Go 编程语言的自动完成守护进程.
 - [goimports-reviser](https://github.com/incu6us/goimports-reviser) - 用于导入的格式化工具.
 - [goprofiling](https://marketplace.visualstudio.com/items?itemName=MaxMedia.go-prof) - 此扩展为 VS Code 添加了对 Go 语言的基准分析支持.
-- [GoSublime](https://github.com/DisposaBoy/GoSublime) - 用于文本编辑器 SublimeText 3 的 Golang 插件集合，提供代码完成和其他类似 IDE 的功能.
+- [GoSublime](https://github.com/DisposaBoy/GoSublime) - Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.
 - [gounit-vim](https://github.com/hexdigest/gounit-vim) - 用于根据函数或方法的签名生成 Go 测试的 Vim 插件.
 - [theia-go-extension](https://github.com/theia-ide/theia-go-extension) - 对 Theia IDE 的 Go 语言支持.
 - [vim-compiler-go](https://github.com/rjohnsondev/vim-compiler-go) - 用于在保存时突出显示语法错误的 Vim 插件.
@@ -2857,7 +2858,7 @@ _用 Go 编写的软件._
 - [Fleet device management](https://github.com/fleetdm/fleet) - 用于服务器和工作站的轻型、可编程遥测.
 - [gaia](https://github.com/gaia-pipeline/gaia) - 使用任何编程语言构建强大的管道.
 - [ghorg](https://github.com/gabrie30/ghorg) - 快速将整个组织/用户存储库克隆到一个目录中 - 支持 GitHub、GitLab、Gitea 和 Bitbucket.
-- [Gitea](https://github.com/go-gitea/gitea) - Gogs 分叉，完全由社区驱动.
+- [Gitea](https://github.com/go-gitea/gitea) - Fork of Gogs, entirely community driven.
 - [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator) - 将您所有的 GitHub 存储库、问题、里程碑和标签迁移到您的 Gitea 实例.
 - [go-furnace](https://github.com/go-furnace/go-furnace)  - 用 Go 编写的托管解决方案. 在 AWS、GCP 或 DigitalOcean 上轻松部署您的应用程序.
 - [go-rocket-update](https://github.com/mouuff/go-rocket-update) - 一种制作自我更新 Go 应用程序的简单方法 - 支持 Github 和 Gitlab.
@@ -2926,7 +2927,7 @@ _用 Go 编写的软件._
 - [Docker](https://www.docker.com/) - 面向开发人员和系统管理员的分布式应用程序开放平台.
 - [Documize](https://github.com/documize/community) - 集成来自 SaaS 工具的数据的现代 wiki 软件.
 - [dp](https://github.com/scryinfo/dp) - 通过SDK与区块链进行数据交换，开发者可以轻松接入DAPP开发.
-- [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
+- [drive](https://github.com/odeke-em/drive) - 用于命令行的 Google Drive 客户端.
 - [Duplicacy](https://github.com/gilbertchen/duplicacy) - 基于无锁重复数据删除思想的跨平台网络和云备份工具.
 - [Gebug](https://github.com/moshebe/gebug) - 通过无缝启用调试器和热重载功能，使 Dockerized Go 应用程序的调试变得超级容易的工具.
 - [gfile](https://github.com/Antonito/gfile) - 通过 WebRTC 在两台计算机之间安全地传输文件，无需任何第三方.
@@ -2952,7 +2953,7 @@ _用 Go 编写的软件._
 - [limetext](https://limetext.github.io) - Lime Text 是一款功能强大且优雅的文本编辑器，主要使用 Go 语言开发，旨在成为 Sublime Text 的免费开源软件继承者.
 - [LiteIDE](https://github.com/visualfc/liteide) - LiteIDE 是一个简单、开源、跨平台的 Go IDE.
 - [mockingjay](https://github.com/quii/mockingjay-server)  - 来自一个配置文件的虚假 HTTP 服务器和消费者驱动的合同. 您还可以让服务器随机出现异常行为，以帮助进行更真实的性能测试.
-- [myLG](https://github.com/mehrdadrad/mylg) - 用 Go 编写的命令行网络诊断工具.
+- [myLG](https://github.com/mehrdadrad/mylg) - Command Line Network Diagnostic tool written in Go.
 - [naclpipe](https://github.com/unix4fun/naclpipe) - 用 Go 编写的基于 NaCL EC25519 的简单加密管道工具.
 - [Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay)  - cowsay 重生了. 一个新时代.
 - [nes](https://github.com/fogleman/nes) - 用 Go 编写的任天堂娱乐系统 (NES) 模拟器.
@@ -3038,7 +3039,7 @@ _在哪里可以发现新的 Go 库._
 - [For the Love of Go](https://bitfieldconsulting.com/books/love) - Go 初学者的入门书.
 - [Go Faster](https://leanpub.com/gofaster) - 本书旨在缩短您的学习曲线，帮助您更快地成为一名熟练的 Go 程序员.
 - [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - 在 Go 中理解和使用泛型的指南.
-- [Lets-Go](https://lets-go.alexedwards.net) - 使用 Go 创建快速、安全和可维护的 Web 应用程序的分步指南.
+- [Lets-Go](https://lets-go.alexedwards.net) - A step-by-step guide to creating fast, secure and maintanable web applications with Go.
 - [Lets-Go-Further](https://lets-go-further.alexedwards.net) - 在 Go 中构建 API 和 Web 应用程序的高级模式.
 - [The Power of Go: Tests](https://bitfieldconsulting.com/books/tests) - Go 测试指南.
 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools) - 在 Go 中编写命令行工具的指南.
@@ -3053,7 +3054,6 @@ _在哪里可以发现新的 Go 库._
 - [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [Go 101](https://go101.org) - 一本专注于 Go 语法/语义和各种细节的书.
 - [Go AST Book (Chinese)](https://github.com/chai2010/go-ast-book) - 一本专注于 Go `go/*` 包的书.
-- [Go Bootcamp](http://golangbootcamp.com)
 - [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - 波斯语.
 - [GoBooks](https://github.com/dariubs/GoBooks) - 精选的围棋书籍清单.
 - [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - 针对初学者的 600 页 Go 介绍.
@@ -3183,9 +3183,9 @@ _在此处添加您所在城市/国家/地区的群组（发送 **PR**）_
 
 - [Awesome Go @LibHunt](https://go.libhunt.com) - 您的首选 Go 工具箱.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) - 精选的 golang 研讨会列表.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作列表. 他们中的很多人都在寻找 Go 黑客.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作清单. 他们中的很多人都在寻找 Go 黑客.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 其他令人惊叹的列表列表.
-- [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - Parse awesome-go README file and generate a new README file with repo info.
+- [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - 解析 awesome-go README 文件并生成一个带有 repo 信息的新 README 文件.
 - [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - 软件工程师和博客@codewithmukesh.com.
 - [Coding Mystery](https://codingmystery.com) - 使用 Go 解决令人兴奋的密室逃脱编程挑战.
 - [CodinGame](https://www.codingame.com/) - 通过使用小游戏作为实例解决交互式任务来学习围棋.
@@ -3238,7 +3238,7 @@ _在此处添加您所在城市/国家/地区的群组（发送 **PR**）_
 - [Go By Example](https://gobyexample.com/) - 使用带注释的示例程序动手介绍 Go.
 - [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) - Go 的参考卡.
 - [Go database/sql tutorial](http://go-database-sql.org/) - 数据库/sql 简介.
-- [Go in 7 days](https://github.com/harrytran103/7_days_of_go) - 在 7 天内了解有关 Go 的一切（来自 Nodejs 开发人员）.
+- [Go in 7 days](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 - [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) - 学习 Go 语言教程.
 - [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) - 学习围棋编程.
 - [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)

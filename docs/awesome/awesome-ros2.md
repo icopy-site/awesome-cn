@@ -85,7 +85,7 @@
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的 2D 和 3D 实时同时定位和映射 (SLAM). ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - ROS2 的大满贯 Gmapping. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 - [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam 工具箱，用于使用 ROS 在潜在的大型地图中进行终身映射和定位. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 使用 ndt/gicp 注册和姿势优化的 3D 激光雷达 slam 的 ROS2 包. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
 - [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 从 LIO-SAM 引用的紧耦合激光雷达惯性 ndt/gicp slam 的 ROS2 包. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 - [octomap_server2](https://github.com/iKrishneel/octomap_server2)  - 用于使用 OctoMap 进行映射的 ROS2 堆栈.  ROS1的端口 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) 包裹. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - 用于将 ROS2 与 OpenCV 连接的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
@@ -102,7 +102,7 @@
 - [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - 用于 OpenVINO™（人类视觉仿真）的 CV API 的 ROS2 包装器. ![ros2_openvino_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) - 可能是一个抓取库 :). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) - 用于 AprilTag 检测的 ROS2 节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
-- [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) - 将您的浏览器桥接到 ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
+- [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - 将您的浏览器桥接到 ROS 2.0. ![rosbridge_suite](https://img.shields.io/github/stars/RobotWebTools/rosbridge_suite.svg)
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - Tensorflow 中用于计算机视觉任务的 ROS2 节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - PyTorch 中用于计算机视觉任务的 ROS2 节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
@@ -112,6 +112,7 @@
 - [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - 用于部署 Darknet 的 YOLO 计算机视觉模型的 ROS2 包装器.
 - [easy_perception_deployment](https://github.com/ros-industrial/easy_perception_deployment) - 加速行业计算机视觉模型培训和部署的软件包. ![easy_perception_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 - [easy_manipulation_deployment](https://github.com/ros-industrial/easy_manipulation_deployment) - 集成感知元素以建立端到端拾取和放置任务的包. ![easy_manipulation_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
+- [ros2_pid_library](https://github.com/dottantgal/ros2_pid_library) - 一个 ROS2 Humble 完全可配置的 PID 库 ![ros2_pid_library](https://img.shields.io/github/stars/dottantgal/ros2_pid_library.svg)
 
 ### Middleware
 
@@ -273,6 +274,7 @@
 - [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - ROS 2 命令行界面备忘单.
 - [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - 一系列用于提高包质量的指南和教程，遵循 REP-2004 质量标准并集成持续集成.
 
+
 ## Community
 
 - [ROS Discourse](https://discourse.ros.org/c/ng-ros)
@@ -364,7 +366,7 @@
 
 ### 2019
 
-- 机器人模块化与 Xilinx 和 H-ROS (Xilinx Inc.) [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
+- 使用 Xilinx 和 H-ROS (Xilinx Inc.) 的机器人模块化 [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
 
 ### ROSCon JP 2018 (english slide presentations only)
 
@@ -400,7 +402,7 @@
 
 ### ROS Industrial Conference 2017
 
-- 微型机器人操作系统：用于高度资源受限设备的 ROS [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
+- micro Robot Operating System: ROS for highly resource-constrained devices [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
 - ROS2 - 它来了 [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
 
 ### ROSCon 2017
@@ -464,7 +466,7 @@ DDS 安全.
 - [Acutronic Robotics](https://github.com/AcutronicRobotics)  - 不存在了. 硬件机器人信息模型（HRIM）、硬件机器人操作系统（H-ROS）的发起人，世界第一台模块化工业机械臂MARA的创造者.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - “前沿计算”.
 - [Alias Robotics](https://aliasrobotics.com/) - 机器人网络安全背景下的产品和服务.
-- [Amazon](https://github.com/aws-robotics) - 亚马逊亚马逊网络服务 (AWS) 的机器人团队.
+- [Amazon](https://github.com/aws-robotics) - Amazon Amazon Web Services (AWS) 的机器人团队.
 - [Apex.AI](https://www.apex.ai/) - “用于自主移动的安全且经过认证的软件”.
 - [AutonomouStuff](https://autonomoustuff.com) - “自治系统和解决方案的世界领导者”.
 - [Bosch](https://github.com/boschresearch) - 博世研究机器人团队.

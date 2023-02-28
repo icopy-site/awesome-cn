@@ -21,7 +21,7 @@
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出由 GPT-4 提供支持的新版搜索引擎 Bing. 微软博客，2023 年 2 月 7 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 宣布发布 DALL·E 2，这是一种先进的图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 
 ## Text
@@ -37,6 +37,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - 人工智能驱动的搜索工具.
 - [Metaphor](https://metaphor.systems/) - 语言模型驱动的搜索.
 - [Phind](https://phind.com/) - 基于人工智能的搜索引擎.
+- [You.com](https://you.com/) - 一个基于 AI 的搜索引擎，为用户提供定制的搜索体验，同时保持他们的数据 100% 私密.
 
 ### Services
 - [Compose AI](https://www.compose.ai/) - Compose AI 是一款免费的 Chrome 扩展程序，可通过 AI 驱动的自动完成功能将您的写作时间缩短 40%.
@@ -64,7 +65,7 @@
 - [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
 - [Taskade](https://www.taskade.com/) - 使用 Taskade AI 列出任务、笔记、生成的结构化列表和思维导图.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - Google 表格和 Google 文档的 ChatGPT 扩展.
-- [HypterWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
+- [HyperWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit 使用语言模型来帮助您自动化研究工作流程，例如部分文献综述.
@@ -76,7 +77,9 @@
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
+- [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
 - [tabnine](https://www.tabnine.com/) - 通过整行和全功能代码完成更快地编写代码.
 - [Stenography](https://stenography.dev/) - 自动代码文档.
 - [Mintlify](https://mintlify.com/) - AI 驱动的文档编写器.
@@ -93,7 +96,7 @@
 - [DALL·E 2](https://openai.com/dall-e-2/) - OpenAI 的 DALL·E 2 是一个新的人工智能系统，可以根据自然语言的描述创建逼真的图像和艺术.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stability AI 的 Stable Diffusion 是一种最先进的文本到图像模型，可从文本生成图像.
 - [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力.
-- [Imagen](https://imagen.research.google/) - Imagen by Google 是一种文本到图像扩散模型，具有前所未有的逼真度和深层次的语言理解能力.
+- [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成式 AI 方法，通过允许用户通过文本描述和自由形式的草图来描述和说明他们的愿景，将创意控制权交到用户手中.
 
 ### Services
@@ -101,7 +104,7 @@
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio 是一个易于使用的界面，用于使用稳定扩散图像生成模型创建图像.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder 是一种新型的创意工具，通过使协作和探索变得更容易来增强用户的创造力.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 是一个强大的工具，可以结合文字和绘图来创建逼真的艺术作品，因为它在单个模型中集成了分割映射、修复和文本到图像的生成.
-- [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
+- [Magic Eraser](https://www.magiceraser.io/) - 在几秒钟内从图像中删除不需要的东西.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - Magic Studio 的一款工具，可让您通过描述自己的想法来表达自己.
 - [Alpaca](https://www.getalpaca.io/) - 稳定的 Diffusion Photoshop 插件.
 - [Patience.ai](https://www.patience.ai/) - Patience.ai 是一款使用 Stable Diffusion 创建图像的应用程序，Stable Diffusion 是 Stability.AI 开发的尖端人工智能.
@@ -135,7 +138,7 @@
 ## Video
 - [RunwayML](https://runwayml.com/)  - 神奇的 AI 工具、实时协作、精确编辑等. 您的下一代内容创作套件.
 - [Synthesia](https://www.synthesia.io/) - 在几分钟内从纯文本创建视频.
-- [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
+- [Rephrase AI](https://www.rephrase.ai/) - Rephrase 的技术可大规模创建超个性化视频，从而提高参与度和业务效率.
 - [Hour One](https://hourone.ai/) - 将文本自动转换为视频，以虚拟演示者为特色.
 
 ## Audio
@@ -158,7 +161,7 @@
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - 测试您判断图像是人为还是计算机生成的能力.
 - [Have I Been Trained?](https://haveibeentrained.com/) - 检查您的图像是否已用于训练流行的 AI 艺术模型.
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
-- [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
+- [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的美观、品牌一致且转化率高的广告.
 - [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
 - [Scenario AI](https://www.scenario.gg/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
@@ -173,7 +176,7 @@
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - 致力于游戏生成 AI 的公司的市场地图，作者： [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - 用于艺术用途的生成深度学习工具、作品、模型等的精选列表，作者： [@filipecalegario](https://github.com/filipecalegario/).
 - [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
-- [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
+- [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
 
 ### Lists on ChatGPT
