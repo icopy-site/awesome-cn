@@ -10,7 +10,7 @@
 
 
 ## Algorithms and data structures
-* [ziglibs/s2s](https://github.com/ziglibs/s2s) - Binary serialization format and library.
+* [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
 * [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
@@ -48,6 +48,7 @@
 * [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) - 在裸 x86 金属上运行的复古风格游戏机.
 * [nrdmn/uefi-examples](https://github.com/nrdmn/uefi-examples) - UEFI 示例.
 * [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) - UEFI 可启动触摸绘画应用程序.
+* [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os) - 遵循 Philipp Oppermann 的帖子“用 Rust 编写操作系统”的简单操作系统.
 * [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) - 一个 x86 内核.
 * [sjdh02/trOS](https://github.com/sjdh02/trOS) - 微型 aarch64 裸机操作系统.
 * [tralamazza/embedded_zig](https://github.com/tralamazza/embedded_zig) - 最小的嵌入式 ARM 示例（STM32F103 蓝色药丸）.
@@ -101,7 +102,7 @@
 * [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) 绑定.
 * [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) - 一套用于修改和随机化神奇宝贝游戏的工具.
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - 用于处理 Nintendo DS rom 的库.
-* [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - 简单而强大的数独解算器.
+* [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
 * [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - 用于使用 Zig 创建 Game Boy Advance 游戏的 SDK.
 * [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - 用于编写跨平台游戏、模拟、引擎和编辑器的模块的 Monorepo.
 

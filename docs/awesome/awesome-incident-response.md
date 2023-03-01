@@ -17,7 +17,7 @@
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  - 自动化战术技术和程序. 手动重新运行复杂序列以进行回归测试、产品评估，为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，它将把您的网络分析培训课程、事件响应演练和红队参与提升到一个新的水平.
 * [Caldera](https://github.com/mitre/caldera)  - 在 Windows 企业网络中执行妥协后对抗行为的自动化对抗模拟系统. 它使用计划系统和基于对抗战术、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 用于构建可重复、延时、分布式安全事件的模块化、菜单驱动、跨平台工具. 轻松为蓝队演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件、干扰和诱惑来支持和扩大他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 进行对抗性模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA 提供了一个脚本框架，旨在让蓝队测试其针对恶意交易的检测能力，以 MITRE ATT&amp;CK 为模型.
@@ -29,16 +29,17 @@
 * [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 基于 CIM/WMI 的工具套件，能够跨所有版本的 Windows 远程执行事件响应和搜索操作.
 * [CIRTkit](https://github.com/byt3smith/CIRTKit) - CIRTKit 不仅是一组工具，还是一个框架，可帮助持续统一事件响应和取证调查流程.
 * [Cyber Triage](http://www.cybertriage.com)  - Cyber​​ Triage 远程收集和分析端点数据，以帮助确定它是否受到损害. 它的无代理方法和对易用性和自动化的关注使公司能够在没有重大基础设施变化和没有取证专家团队的情况下做出响应. 其结果用于决定系统是否应该被删除或进一步调查.
+* [Dissect](https://github.com/fox-it/dissect) - Dissect 是一个数字取证和事件响应框架和工具集，允许您快速访问和分析来自各种磁盘和文件格式的取证人工制品，由 Fox-IT（NCC Group 的一部分）开发.
 * [Doorman](https://github.com/mwielgoszewski/doorman)  - osquery fleet manager，允许远程管理节点检索的 osquery 配置. 它利用 osquery 的 TLS 配置、记录器和分布式读/写端点，以最小的开销和侵入性为管理员提供跨设备队列的可见性.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于 Windows 的应用程序，提供工作流程自动化、案例管理和安全响应功能.
-* [Flare](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
+* [Flare](https://github.com/fireeye/flare-vm) - 一个完全可定制的、基于 Windows 的安全发行版，用于恶意软件分析、事件响应、渗透测试.
 * [Fleetdm](https://github.com/fleetdm/fleet)  - 为安全专家量身定制的最先进的主机监控平台. 利用 Facebook 久经考验的 osquery 项目，Fleetdm 提供持续更新、功能和对重大问题的快速解答.
 * [GRR Rapid Response](https://github.com/google/grr)  - 专注于远程实时取证的事件响应框架. 它由安装在目标系统上的 python 代理（客户端）和可以管理代理并与之通信的 python 服务器基础结构组成. 除了包含的 Python API 客户端， [PowerGRR](https://github.com/swisscom/PowerGRR) 在适用于 Windows、Linux 和 macOS 的 PowerShell 中提供 API 客户端库，用于 GRR 自动化和脚本编写.
 * [IRIS](https://github.com/dfir-iris/iris-web) - IRIS 是一个供事件响应分析师使用的网络协作平台，允许在技术层面共享调查结果.
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) - 数字取证调查平台
 * [Limacharlie](https://www.limacharlie.io/) - 端点安全平台由一系列协同工作的小项目组成，为您提供跨平台（Windows、OSX、Linux、Android 和 iOS）低级环境，用于管理附加模块并将其推送到内存以扩展其功能.
 * [Matano](https://github.com/matanolabs/matano)：AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
-* [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理流程并促进事件处理人员的实时活动.
+* [MozDef](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 * [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - 用于自动设置、配置和使用网络安全解决方案的 CLI 程序.
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse)  - 为使用 ElasticSearch 作为后端的异步取证数据呈现构建的应用程序. 它旨在摄取 Redline 集合.
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/)  - 另一个流行的分布式开源计算机取证框架. 该框架建立在Linux平台上，使用postgreSQL数据库存储数据.
@@ -63,7 +64,7 @@
 * [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957)  - 建立基于威胁情报的事件响应计划的重要参考. 罗伯托·马丁内斯.
 * [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - 斯科特·J·罗伯茨 (Scott J. Roberts)、丽贝卡·布朗 (Rebekah Brown).
 * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - 事件响应者的重要参考.
-* [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
+* [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334)  - 实践记忆取证的权威指南. 作者：Svetlana Ostrovskaya 和 Oleg Skulkin.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich 关于 IR 的书.
 
 ### Communities
@@ -82,6 +83,7 @@
 
 ### Evidence Collection
 
+* [Acquire](https://github.com/fox-it/acquire)  - Acquire 是一种工具，可将取证工件从磁盘映像或实时系统快速收集到轻量级容器中. 这使得 Acquire 成为一个出色的工具，可以加速数字取证分类的过程. 它用 [Dissect](https://github.com/fox-it/dissect) 如果可能，从原始磁盘收集该信息.
 * [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - artifactcollector 项目提供了一个在系统上收集取证工件的软件.
 * [bulk_extractor](https://github.com/simsong/bulk_extractor)  - 扫描磁盘映像、文件或文件目录并在不解析文件系统或文件系统结构的情况下提取有用信息的计算机取证工具. 由于忽略了文件系统结构，该程序在速度和彻底性方面脱颖而出.
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) - 简化的解析器列表可快速分析取证图像文件（`dd`、E01、`.vmdk` 等）并输出九份报告.
@@ -220,8 +222,8 @@
 
 * [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21)  - AWS IR Runbook 示例旨在根据使用它们的每个实体进行定制. 这三个样本是：“DoS 或 DDoS 攻击”、“凭据泄漏”和“对 Amazon S3 存储桶的意外访问”.
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - 反作用剧本集.
-* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 一系列网络事件响应剧本战斗卡
-* [IRM](https://github.com/certsocietegenerale/IRM) - CERT Societe Generale 的事件响应方法.
+* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
+* [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
 * [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/)  - 不同的通用事件响应工作流程，例如针对恶意软件爆发、数据盗窃、未经授权的访问……每个工作流程都包含七个步骤：准备、检测、分析、遏制、根除、恢复、事件后处理. 工作流程可在线获取或下载.
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/)  - 描述部分 PagerDuty 事件响应流程的文档. 它不仅提供有关为事件做准备的信息，还提供事件发生期间和事件之后应该做什么的信息. 来源可在 [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Splunk 的 Phantom Community Playbooks，但也可定制用于其他用途.

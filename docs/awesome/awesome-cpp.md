@@ -69,7 +69,7 @@
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 使用数据流图进行数值计算的开源软件库 [Apache]
 * [oneDNN](https://github.com/oneapi-src/oneDNN)  - 用于深度学习应用程序的开源跨平台性能库.  [阿帕奇] [website](https://01.org/onednn)
 * [CNTK](https://github.com/Microsoft/CNTK)  - Microsoft Cognitive Toolkit (CNTK)，一个开源深度学习工具包.  [促进]
-* [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)  - C++11 中的仅标头、无依赖性深度学习框架.  [BSD]
+* [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles](https://github.com/Samsung/veles)  - 用于快速深度学习应用程序开发的分布式平台.  [阿帕奇]
 * [Kaldi](https://github.com/kaldi-asr/kaldi)  - 语音识别工具包.  [阿帕奇]
 
@@ -363,7 +363,7 @@
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
 * [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆可用于跟踪内存错误.  [BSD]
-* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试.[GPL2]
+* [libtap](https://github.com/zorgnax/libtap) - 用 C 编写测试. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有多个平台的网络视图的分析器.  [未授权]
 * [MinUnit](https://github.com/siu/minunit)  - 一个最小的单元测试框架，用于 C 自包含在单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ Seams 和模拟对象的 Eclipse CDT 插件.
@@ -383,7 +383,7 @@
 *Libraries for parsing and manipulating font files.*
 
 * [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和自定义库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
-* [FreeType](https://www.freetype.org/)  - FreeType 是一个免费提供的字体渲染软件库.  [FTL 和 GPLv2]
+* [FreeType](https://www.freetype.org/)  - FreeType 是一个免费提供的字体渲染软件库.  [FTL &amp; GPLv2]
 * [otfcc](https://github.com/caryll/otfcc)  - 用于解析和编写 OpenType 字体文件的 AC 库和实用程序.  [Apache-2.0]
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz) - 文本整形引擎 [旧 MIT]
 
@@ -393,7 +393,7 @@
 * [Allegro](http://liballeg.org/)  - 主要针对视频游戏和多媒体编程的跨平台库.  [zlib]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  - 用于构建 2d 游戏、交互式书籍、演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  - 用纯 C、SDL 和 OpenGL 编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  - Crown 是一个通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
+* [crown](https://github.com/dbartolini/crown)  - Crown 是一种通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  - 强大的模拟平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  - 游戏与现代 C++ 相遇.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
@@ -534,7 +534,7 @@
 * [Boost.PropertyTree](https://www.boost.org/doc/libs/1_81_0/doc/html/property_tree.html)  - 可用于解析 XML/JSON/INI/Info 文件的属性树解析器/生成器.  [促进]
 * [cJSON](https://github.com/DaveGamble/cJSON) - ANSI C 中的超轻量级 JSON 解析器. [MIT]
 * [frozen](https://github.com/cesanta/frozen)  - 用于 C/C++ 的 JSON 解析器和生成器.  [GPL 和 GPL2]
-* [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. [MIT]
+* [Glaze](https://github.com/stephenberry/glaze)  - 速度极快，在内存、JSON 和现代 C++ 的接口库中.  [麻省理工学院]
 * [Jansson](https://github.com/akheron/jansson)  - 用于编码、解码和操作 JSON 数据的 C 库.  [麻省理工学院]
 * [jbson](https://github.com/chrismanning/jbson)  - jbson 是一个用于在 C++14 中构建和迭代 BSON 数据和 JSON 文档的库.  [促进]
 * [JeayeSON](https://github.com/jeaye/jeayeson)  - 一个非常健全的（仅标头）C++ JSON 库.  [BSD]
@@ -629,7 +629,7 @@
 * [GMTL](http://ggt.sourceforge.net/)  - 图形数学模板库是一组以通用方式实现图形基元的工具.  [GPL2]
 * [GMP](https://gmplib.org/)  - 用于任意精度算术的 AC 库，对有符号整数、有理数和浮点数进行运算.  [LGPL3 和 GPL2]
 * [Klein](https://github.com/jeremyong/klein)  - 一个快速的、SIMD 优化的 C++17 几何代数库，用于点、线和平面投影、相交、连接、刚体运动等.  [麻省理工学院] [website](https://jeremyong.com/klein)
-* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短矢量数学库.  [未授权]
+* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短向量数学库.  [未授权]
 * [MatX](https://github.com/NVIDIA/MatX) - 一个 GPU 加速的 C++17 数值计算库，具有类似 MATLAB/Python 的语法 [BSD 3-clause]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  - 多精度整数和有理算术密码库.  [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp)  - Python Numpy 库的模板化标头仅 C++ 实现.  [麻省理工学院]
@@ -689,7 +689,7 @@
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容.[BSL-1.0]
 * [CppServer](https://github.com/chronoxor/CppServer)  - 超快速和低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
-* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python Requests 模块.  [麻省理工学院] [website](https://docs.libcpr.org)
+* [cpr](https://github.com/whoshuu/cpr)  - 具有简单但功能强大的界面的现代 C++ HTTP 请求库. 模仿 Python 请求模块.  [麻省理工学院] [website](https://docs.libcpr.org)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3-Clause &amp; GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络 [MIT]
@@ -850,7 +850,7 @@
 * [protobuf](https://github.com/protocolbuffers/protobuf)  - Protocol Buffers - Google 的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - C 中的 Protocol Buffers 实现 [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)  - 为低延迟应用程序以二进制格式编码和解码应用程序消息.  [阿帕奇2]
-* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现.[BSD]
+* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现. [BSD]
 * [YAS](https://github.com/niXman/yas)  - 非常快的 **Y**et **A**nother **S** 序列化库支持二进制/文本/json 格式.  [促进]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits)  - 实际上，最快的现代 **S** 序列化库. 只需检查 [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 
@@ -924,6 +924,7 @@
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2)  - 密码哈希 Argon2，PHC 获胜者.  [CC0/Apache2]
 * [Better String](http://bstring.sourceforge.net)  - C 的字符串库的替代品，功能更强大，并且没有缓冲区溢出溢出问题. 还包括一个 C++ 包装器.  [BSD, GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  - 托管信号和插槽系统的实现.  [促进]
+* [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - 用于算法、视图、容器、随机性等的酷备忘单和信息图表.
 * [Concord](https://github.com/Cogmasters/concord) - 用 C 编写的 Discord API 包装器库.[麻省理工学院] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  - 受 Python 内置函数和 itertools 库启发的基于范围的 for 循环附加组件.  [BSD-2-条款]
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP)  - 用于创建 Discord Bots 的轻量级、高性能和可扩展的 C++ 库.  [阿帕奇2] [website](https://dpp.dev)

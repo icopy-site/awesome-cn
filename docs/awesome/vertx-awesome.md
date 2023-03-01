@@ -38,9 +38,9 @@
 * [Knot.x](https://github.com/Cognifide/knotx) - 适用于基于 Vert.x 3 的现代网站的高效和高性能集成平台.
 * [Irked](https://github.com/GreenfieldTech/irked) - 用于 Vert.x Web 的基于注释的配置，具有用于 REST 的控制器框架和富有表现力的 API.
 * [REST.VertX](https://github.com/zandero/rest.vertx) - 轻量级 JAX-RS (RestEasy)，例如用于 Vert.x 垂直行业的注释处理器.
-* [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) - Realtime Client Server Framework for the JVM, supporting WebSockets and Server Sent Events with Cross-Browser Fallbacks.
+* [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) - 用于 JVM 的实时客户端服务器框架，支持 WebSockets 和具有跨浏览器回退的服务器发送事件.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - 在 Vert.x 上运行 Vaadin 应用程序.
-* [Serverx](https://github.com/lukehutch/serverx) - 允许您仅使用路由处理程序注释快速轻松地设置 Vert.x 支持的服务器.
+* [Serverx](https://github.com/lukehutch/serverx) - 允许您仅使用路由处理程序注释快速轻松地设置 Vert.x 驱动的服务器.
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next 是一个非常轻量级的、现代的、基于 JVM 的全堆栈 kotlin 框架，旨在构建模块化、易于测试的 JVM 应用程序，支持 Java、Kotlin 语言，由最好的 Java 库和标准精心打造.
 * [Donkey](https://github.com/AppsFlyer/donkey) - 为易用性和性能而构建的现代 Clojure HTTP 服务器和客户端.
 * [SCX](https://github.com/scx567888/scx) - 一个开放易用的web框架，大部分功能基于注解.
@@ -91,7 +91,6 @@
   * [vertx-smtp-server](https://github.com/cinterloper/vertx-smtp-server) - 桥接到 EventBus 的 SMTP 服务器.
 
 * 休息
-  * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) - 支持 RxJava 和请求缓存的 Vert.x REST 客户端.
   * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - 一个高度可扩展的适配器，用于使用 Vert.x 进行改造.
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) - OpenAPI 3 请求验证器和路由器工厂替代方案.
   * [Vert.x Effect HTTP client](https://github.com/imrafaelmerino/vertx-effect) - 纯功能性和反应性 HTTP 客户端使用 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-effect) 具有 OAuth 支持和重试、回退和恢复操作.
@@ -104,7 +103,6 @@
   * [RabbitMQ](https://github.com/vert-x3/vertx-rabbitmq-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 一个 RabbitMQ 客户端（AMQP 0.9.1）.
   * [Kafka Client](https://github.com/vert-x3/vertx-kafka-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 卡夫卡客户端.
   * [kafka](https://github.com/cyngn/vertx-kafka) - 用于消费和生产消息的 Kafka 客户端.
-  * [Kafka Service](https://github.com/hubrick/vertx-kafka-service) - 具有重试逻辑的 Kafka 生产者和消费者.
   * [STOMP](https://github.com/vert-x3/vertx-stomp) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - Kafka 客户端和服务器.
   * [ZeroMQ](https://github.com/dano/vertx-zeromq) - ZeroMQ 事件总线桥.
   * [Azure ServiceBus](https://github.com/TextBack/vertx-azure-servicebus) - 蔚蓝 [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) 生产者和消费者（完全异步，不使用 Microsoft Azure SDK）.
@@ -141,7 +139,7 @@
 
 ## Middleware
 
-* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) 用于桥接 Camel 与 Vert.x 事件总线的组件.
+* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
 * [Gateleen](https://github.com/swisspush/gateleen) - 基于 Vert.x 的中间件库，用于构建高级 JSON/REST 通信服务器.
 * [Gravitee.io](https://gravitee.io) - 一个OSS API平台，包括一个API网关和一个基于Vert.x Core / Vert.x Web等模块的OAuth2 / OIDC授权服务器.
 * [API Framework](https://github.com/vinscom/api-framework)  - 基于 Vert.x 和 Glue 的微服务框架消除了独立应用程序和无服务应用程序之间的区别. 所有服务都可以在独立服务器中运行，但如果需要，可以使用相同的代码库将任何服务作为无服务器应用程序运行.
@@ -167,7 +165,7 @@
 
 ## Sync Thread Non Block
 
-* [Sync](https://github.com/vert-x3/vertx-sync) - 同步但非操作系统线程阻塞的 Verticle.
+* [Sync](https://github.com/vert-x3/vertx-sync) - 同步但非操作系统线程阻塞的 Verticles.
 
 ## Vert.x Event Bus Clients
 
@@ -202,7 +200,6 @@
 
 ## Cloud Support
 
-* [S3](https://github.com/hubrick/vertx-s3-client) - 用于 S3 的全功能 Vert.x 客户端.
 * [AWS SDK](https://github.com/reactiverse/aws-sdk) - 将 AWS Java SDK v2（异步）与 Vert.x 结合使用
 
 ## Docker
@@ -212,13 +209,13 @@
 
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的 Vert.x 微服务.
 * [Resilience4j](https://github.com/resilience4j/resilience4j)  - Resilience4j 是为 Java8 和函数式编程设计的容错库.  Resilience4j 提供了用于熔断、速率限制、隔板、自动重试、响应缓存和指标测量的模块.
+* [Failsafe](https://failsafe.dev/)  - Failsafe 是一个轻量级、*零依赖* 库，用于处理 Java 8+ 中的故障. 简洁的API. 与使用自己的调度程序进行异步执行的库集成，例如 Akka 或 Vert.x. [Vert.x example](https://github.com/failsafe-lib/failsafe/blob/master/examples/src/main/java/dev/failsafe/examples/VertxExample.java)
 * [Autonomous Services](https://github.com/mikand13/autonomous-services)  - 用于创建自主服务的工具包. 一种利用 vert.x 和 nannoq-tools 提供基于事件的反应式架构的架构，无需集中式组件，既不用于通信也不用于数据，从而在理论上提供跨架构的线性可扩展性.
 * [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) - ServiceComb Java Chassis 是一个用于Java微服务快速开发的软件开发工具包（SDK），提供服务注册、服务发现、动态路由和服务管理等功能.
 
 ## Search Engines
 
 * [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - 垂直 x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理服务.
-* [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) - 垂直 x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理服务. 的重新设计 [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) . 在事件总线上大量使用 DTO，不再使用 JsonObject. 添加了对 ES 插件的支持.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - 带有事件总线代理的 Vert.x 3 Solr 服务.
 
 ## Template Engines
@@ -228,7 +225,7 @@
 ## Service Factory
 
 * [Node.js Service Factory](https://github.com/mellster2012/vertx-nodejs-service-factory) - Vert.x Node.js 服务工厂.
-* [Eclipse SISU Service Factories](https://github.com/cstamas/vertx-sisu) - Vert.x 与 [Eclipse SISU](https://www.eclipse.org/sisu/) DI 容器为 vertx-service-factory 和 vertx-maven-service-factory 提供替代方案.
+* [Eclipse SISU Service Factories](https://github.com/cstamas/vertx-sisu) - Vert.x 与 [Eclipse SISU](https://www.eclipse.org/sisu/) DI 容器提供 `vertx-service-factory` 和 `vertx-maven-service-factory` 的替代品.
 
 ## Config
 
@@ -237,7 +234,7 @@
 
 ## Dependency Injection
 
-* [Vert.x Guice](https://github.com/englishtown/vertx-guice) - Vert.x verticle factory for Guice dependency injection.
+* [Vert.x Guice](https://github.com/englishtown/vertx-guice) - 用于 Guice 依赖注入的 Vert.x verticle 工厂.
 * [Vert.x HK2](https://github.com/englishtown/vertx-hk2) - 用于 HK2 依赖注入的 Vert.x verticle 工厂.
 * [Spring Vert.x Extension](https://github.com/amoAHCP/spring-vertx-ext) - 用于 Spring DI 注入的 Vert.x verticle 工厂.
 * [Vert.x Beans](https://github.com/rworsnop/vertx-beans) - 将 Vert.x 对象作为 bean 注入到您的 Spring 应用程序中.
@@ -310,7 +307,7 @@
 * [Vert.x Util](https://github.com/juanavelez/vertx-util) - Vert.x 实用方法的集合.
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) - 只是一个简单的处理程序，用于在 Vert.x Web 中生成访问日志.
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) - 路由处理程序和 Vert.x 兼容接口，用于处理 Vert.x 和 Vert.x Web 中的 GraphQL 查询.
-* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools 是一个工具包，用于利用 Vert.x 构建强大的、可扩展的分布式应用程序，包括用于身份验证、集群管理、Firebase 云消息传递、DynamoDB、完全通用查询、REST 等的模块.
+* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools 是一个利用 Vert.x 构建健壮、可扩展和分布式应用程序的工具包，包括用于身份验证、集群管理、Firebase 云消息传递、DynamoDB、完全通用查询、REST 等的模块.
 * [Contextual logging](https://github.com/reactiverse/reactiverse-contextual-logging) - 适用于 Vert.x 事件循环模型的映射诊断上下文 (MDC).
 * [Vert.x JsonPath](https://github.com/NoEnv/vertx-jsonpath) - JsonPath 的一个非常基本的实现，使用 Vert.x 的 JsonObject 和 JsonArray，模仿它们的 getX、containsKey、put 和 remove 方法.
 
