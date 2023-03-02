@@ -46,6 +46,7 @@
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - VS Code 的官方 Playwright 测试扩展.
 - [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - IntelliJ 的剧作家插件.
 - [playwright-elements](https://www.npmjs.com/package/playwright-elements) - 更强大的页面对象实现的 Playwright 测试扩展.
+- [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - 一个 Playwright 清理工具，通过撤消对测试环境的任何更改来简化测试清理.
 
 
 ## Reporters

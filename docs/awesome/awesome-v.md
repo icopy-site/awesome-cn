@@ -89,7 +89,7 @@
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
-- [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
+- [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
 
 ## Libraries
 
@@ -132,7 +132,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
-- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
+- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
 
 ### Game development
 
@@ -320,3 +320,7 @@
 
 - [The V Programming Language](https://www.youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A)
 - [V Programming Tutorials](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+
+### GitHub templates
+
+- [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - 每个 V 项目的地下室，其中包含通用的最小 GitHub CI 脚本和 V 项目的问题模板.

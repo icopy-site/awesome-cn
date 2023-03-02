@@ -4,11 +4,9 @@
 
 &gt; 现代生成人工智能项目和服务的精选列表.
 
-生成式人工智能是一种人工智能，它通过使用在大量数据上训练的机器学习算法来创建图像、声音和文本等新内容. 与其他形式的 AI 不同，生成式 AI 能够创建独特的和以前看不见的输出，例如逼真的图像、计算机生成的艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
+生成式人工智能是一种通过使用在大量数据上训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
 
-此列表概述了流行的生成式 AI 模型、应用程序和服务，提供了对其功能及其在各个行业中的使用方式的见解.
-
-欢迎投稿. 通过添加链接 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
+欢迎对此列表做出贡献. 通过添加链接 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
 
 
 ## Recommended reading
@@ -18,7 +16,7 @@
 - [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai)  - 总结 GPT-3 模型的能力和局限性及其对社会的潜在影响的文章. 作者：Alex Tamkin 和 Deep Ganguli，2021 年 2 月 5 日.
 
 ### Milestones
-- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出由 GPT-4 提供支持的新版搜索引擎 Bing. 微软博客，2023 年 2 月 7 日.
+- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
 - [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 宣布发布 DALL·E 2，这是一种先进的图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
@@ -31,7 +29,11 @@
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - DeepMind 的 Gopher 是一个 2800 亿参数的语言模型.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Facebook 的 Open Pretrained Transformers (OPT) 是一套仅解码器的预训练变压器. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) 由阿尔帕主办.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - Hugging Face 的 BLOOM 是一个类似于 GPT-3 的模型，已经在 46 种不同的语言和 13 种编程语言上进行了训练.
+
+### Chatbots
 - [ChatGPT](https://chat.openai.com/chat) - OpenAI 的 ChatGPT 是一种以对话方式进行交互的大型语言模型.
+- [Bing Chat](https://www.bing.com/chat) - 由 Microsoft Bing 提供支持的对​​话式 AI 语言模型.
+- [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - 人工智能驱动的搜索工具.
@@ -39,33 +41,45 @@
 - [Phind](https://phind.com/) - 基于人工智能的搜索引擎.
 - [You.com](https://you.com/) - 一个基于 AI 的搜索引擎，为用户提供定制的搜索体验，同时保持他们的数据 100% 私密.
 
-### Services
+### Writing assistants
+- [Jasper](https://www.jasper.ai/) - 使用人工智能更快地创建内容.
 - [Compose AI](https://www.compose.ai/) - Compose AI 是一款免费的 Chrome 扩展程序，可通过 AI 驱动的自动完成功能将您的写作时间缩短 40%.
 - [Rytr](https://rytr.me/) - Rytr是一款AI写作助手，助你创作优质内容.
 - [wordtune](https://www.wordtune.com/) - 个人写作助理.
-- [OthersideAI](https://www.othersideai.com/) - 人工智能驱动的写作助手.
+- [HyperWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
 - [Moonbeam](https://www.gomoonbeam.com/) - 在很短的时间内更好的博客.
 - [copy.ai](https://www.copy.ai/) - 使用 AI 撰写更好的营销文案和内容.
-- [Jasper](https://www.jasper.ai/) - 使用人工智能更快地创建内容.
 - [Anyword](https://anyword.com/) - Anyword 的 AI 写作助手为任何人生成有效的文案.
-- [Cogram](https://www.cogram.com/) - Cogram 在虚拟会议中自动记录并识别行动项目.
 - [Contenda](https://contenda.co/) - 从您已经制作的内容中创建您的观众想要的内容.
-- [Hypotenuse AI](https://www.hypotenuse.ai/) - 使用 AI 文案将几个关键词变成原创的、有洞察力的文章、产品描述和社交媒体文案.
-- [co:here](https://cohere.ai/) - Cohere 提供对高级大型语言模型和 NLP 工具的访问.
+- [Hypotenuse AI](https://www.hypotenuse.ai/) - 将几个关键词变成原创的、有洞察力的文章、产品描述和社交媒体文案.
 - [Lavender](https://www.lavender.ai/) - 薰衣草电子邮件助手可帮助您在更短的时间内获得更多回复.
 - [Lex](https://lex.page/) - 内置人工智能的文字处理器，让您可以更快地书写.
 - [Jenni](https://jenni.ai/) - Jenni 是终极写作助手，可为您节省数小时的构思和写作时间.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA 根据您自己的写作训练人工智能，以创建个性化的创意犯罪伙伴.
-- [Mem](https://mem.ai/)  - Mem 是世界上第一个由 AI 驱动的个性化工作空间. 放大您的创造力，使平凡的事情自动化，并自动保持井井有条.
 - [QuillBot](https://quillbot.com) - 人工智能驱动的释义工具.
 - [Postwise](https://postwise.ai/) - 使用 AI 撰写推文、安排帖子并增加您的关注者.
-- [EmailTriager](https://www.emailtriager.com/) - 使用 AI 在后台自动起草电子邮件回复.
 - [Copysmith](https://copysmith.ai/) - 适用于企业和电子商务的 AI 内容创建解决方案.
-- [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
-- [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
-- [Taskade](https://www.taskade.com/) - 使用 Taskade AI 列出任务、笔记、生成的结构化列表和思维导图.
+
+### ChatGPT extensions
+- [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - 使用来自网络的相关结果增强您的 ChatGPT 提示.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - Google 表格和 Google 文档的 ChatGPT 扩展.
-- [HyperWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
+- [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - 使用 ChatGPT 总结 YouTube 视频.
+- [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用 ChatGPT 的最佳提示，并在本地保存您的聊天记录.
+- [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - 在 Google、Bing 和 DuckDuckGo 搜索结果旁边显示 ChatGPT 响应.
+- [ShareGPT](https://sharegpt.com/) - 分享您的 ChatGPT 对话并探索其他人分享的对话.
+- [Merlin](https://merlin.foyer.work/) - 所有网站上的 ChatGPT Plus 扩展.
+- [ChatGPT Writer](https://chatgptwriter.ai/) - 使用 ChatGPT AI 生成完整的电子邮件和消息.
+- [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - 在由 ChatGPT 提供支持的 Jupyter Notebooks 和 Jupyter Lab 中添加各种帮助函数.
+- [editGPT](https://www.editgpt.app/) - 轻松校对、编辑和跟踪您在 chatGPT 中的内容更改.
+
+### Productivity platforms
+- [Mem](https://mem.ai/)  - Mem 是世界上第一个由 AI 驱动的个性化工作空间. 放大您的创造力，使平凡的事情自动化，并自动保持井井有条.
+- [Taskade](https://www.taskade.com/) - 使用 Taskade AI 列出任务、笔记、生成的结构化列表和思维导图.
+- [Notion AI](https://www.notion.so/product/ai) - 写出更好、更高效的笔记和文档.
+
+### Meeting assistants
+- [Cogram](https://www.cogram.com/) - Cogram 在虚拟会议中自动记录并识别行动项目.
+- [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
 
 ### Academia
 - [Elicit](https://elicit.org/) - Elicit 使用语言模型来帮助您自动化研究工作流程，例如部分文献综述.
@@ -75,8 +89,15 @@
 - [GPTZero](https://gptzero.me/) - 为教育工作者量身定制的解决方案，以负责任地在学校采用人工智能技术.
 - [Consensus](https://consensus.app/search/) - Consensus 是一个搜索引擎，利用人工智能在科学研究中寻找答案.
 
+### Other text generators
+- [EmailTriager](https://www.emailtriager.com/) - 使用 AI 在后台自动起草电子邮件回复.
+- [AI Poem Generator](https://www.aipoemgenerator.org) - AI Poem Generator 会根据文本提示为您写一首关于任何主题的优美押韵诗.
+
+### Developer tools
+- [co:here](https://cohere.ai/) - Cohere 提供对高级大型语言模型和 NLP 工具的访问.
+
 ## Code
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -96,7 +117,7 @@
 - [DALL·E 2](https://openai.com/dall-e-2/) - OpenAI 的 DALL·E 2 是一个新的人工智能系统，可以根据自然语言的描述创建逼真的图像和艺术.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stability AI 的 Stable Diffusion 是一种最先进的文本到图像模型，可从文本生成图像.
 - [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力.
-- [Imagen](https://imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
+- [Imagen](https://imagen.research.google/) - Imagen by Google 是一种文本到图像扩散模型，具有前所未有的逼真度和深层次的语言理解能力.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成式 AI 方法，通过允许用户通过文本描述和自由形式的草图来描述和说明他们的愿景，将创意控制权交到用户手中.
 
 ### Services
@@ -146,7 +167,7 @@
 ### Speech
 - [Resemble AI](https://www.resemble.ai/) - 用于文本到语音的 AI 语音生成器和语音克隆.
 - [WellSaid](https://wellsaidlabs.com/) - 实时将文本转换为语音.
-- [Play.ht](https://play.ht/)  - 人工智能语音发生器. 使用 AI 在线生成逼真的文本转语音语音. 将文本转换为音频.
+- [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
 - [Coqui](https://coqui.ai/) - 语音生成人工智能.
 - [podcast.ai](https://podcast.ai/) - 完全由人工智能生成的播客，由 Play.ht 文本到语音 AI 提供支持.
 
@@ -161,7 +182,7 @@
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - 测试您判断图像是人为还是计算机生成的能力.
 - [Have I Been Trained?](https://haveibeentrained.com/) - 检查您的图像是否已用于训练流行的 AI 艺术模型.
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
-- [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的美观、品牌一致且转化率高的广告.
+- [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
 - [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
 - [Scenario AI](https://www.scenario.gg/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
@@ -178,6 +199,7 @@
 - [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
+- [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.
 
 ### Lists on ChatGPT
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 GPT-3 的精选工具、演示和文档列表，作者： [@jordn](https://github.com/jordn).
