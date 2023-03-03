@@ -44,7 +44,7 @@
 
 虽然并非绝对必要，但拥有编程语言是成为数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，其应用领域非常广泛.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
 
- Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
+ Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
 
 与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
@@ -53,7 +53,7 @@
 ## Real World
 **[`^        back to top        ^`](#awesome-data-science)**
 
-数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界的问题.
+数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界中的问题.
 
 ### Disaster
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -395,7 +395,7 @@
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，带有类似 Scikit-Learn 的 API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，带有类似 Scikit-Learn 的 API.  |
 | [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的一体化 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如，Tensorflow、PyTorch）和开发工具（例如，Jupyter、VS Code）|
-| [Neptune.ai](https://neptune.ai) | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
+| [Neptune.ai](https://neptune.ai)  | 支持数据科学家创建和共享机器学习模型的社区友好型平台.  Neptune 促进团队合作、基础设施管理、模型比较和可重复性.  |
 | [steppy](https://github.com/minerva-ml/steppy)  | 轻量级的 Python 库，用于快速且可重现的机器学习实验. 引入非常简单的界面，使干净的机器学习管道设计成为可能.  |
 | [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/)  | 使用熟悉的语言（例如 Python 和 SQL）以交互方式轻松探索、可视化、分析和转换数据.  |
@@ -552,10 +552,13 @@
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - 抢先体验
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
+- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Data for All](https://www.manning.com/books/data-for-all)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - 免费的 GitHub 版本
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) 免费下载 
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
+
 
 #### Book Deals (Affiliated) 🛍
 
@@ -800,7 +803,7 @@
  | 大数据狂潮 |  Data Viz Wiz，数据记者，Growth Hacker，《傻瓜数据科学》（2015 年）作者 |
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
  | 查理·格林巴克 |  @ExploreAltamira 数据科学总监 |
-| [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 数据科学家 |
+| [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 的数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
 | [Data Science Central](https://twitter.com/DataScienceCtrl)  |  Data Science Central 是业界为大数据从业者提供的单一资源.  |

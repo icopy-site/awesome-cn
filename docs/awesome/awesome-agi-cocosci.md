@@ -221,11 +221,11 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
-* [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001) - ***心理评论***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001) - ***Psychological Review***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Children and adults as intuitive scientists](https://psycnet.apa.org/record/1990-03504-001) - ***心理评论***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=9577945454476127070&hl=en&as_sdt=2005&sciodt=0,5) ]. 反对搜索作为科学思维的观点.
 
@@ -899,7 +899,7 @@
 
 #### Quantitative Analysis
 
-* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***美国统计协会杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605) ]. 关于自然社会学研究的工具变量的原始论文.
+* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605) ]. 关于自然社会学研究的工具变量的原始论文.
 
 * [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***心理学年度回顾***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5) ]. 对行为研究的定量分析技术的全面回顾.
 
@@ -967,7 +967,7 @@
 
 #### Association Test
 
-* [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test)  - ***维基百科***. 关于内隐联想测试的维基百科，这是一项有争议的评估，旨在检测记忆中对象（概念）的心理表征之间的潜意识关联.
+* [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test) - ***Wikipedia***. Wikipedia on the Implicit Association Test, a controversial assessment intended to detect subconscious associations between mental representations of objects (concepts) in memory.
 
 * [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***人格与社会心理学杂志***，1998 年. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5) ]. 介绍内隐联想测试的原始论文.
 
@@ -1279,7 +1279,7 @@
 * [Causal Models](https://plato.stanford.edu/entries/causal-models/)  - ***柏拉图·斯坦福***. 因果模型的计算哲学解释，因果模型是代表单个系统或群体内因果关系的数学模型.
 
 
-* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***美国统计协会杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
+* [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
 * [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***实验心理学杂志***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939&hl=en&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
 
@@ -1389,14 +1389,14 @@
 
 * [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/)  - ***柏拉图·斯坦福***. 关于逻辑结果的计算哲学解释，它是关于有效论证中前提和结论之间的关系.
 
-* [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/) - ***Plato Stanford***. A computational philosophy account on Logic Pluralism, which is the view that there is more than one correct logic.
+* [Logic Pluralism](https://plato.stanford.edu/entries/logical-pluralism/)  - ***柏拉图·斯坦福***. 逻辑多元论的计算哲学解释，即存在不止一种正确逻辑的观点.
 
 * [The Emergence of First-Order Logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/)  - ***柏拉图·斯坦福***. 关于一阶逻辑出现的计算哲学说明，主要是关于一阶逻辑的自然回顾.
 
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***柏拉图·斯坦福***. 
 
 
-* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5)]. The original paper on second-order metarules.
+* [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5) ]. 关于二阶元规则的原始论文.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
 
@@ -1843,7 +1843,7 @@
 
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) ***哈佛*** [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***哈佛大学心理学系***.
 
-* [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) - ***哈佛大学心理学系***, [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***哈佛***.
+* [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) ***哈佛*** [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***哈佛大学心理学系***.
 
 
 ### UCLA
@@ -1966,7 +1966,7 @@
 
 科学哲学家，科学验证理论的奠基人.
 
-* [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
+* [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***劳特利奇***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 
 * [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***劳特利奇***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
@@ -1981,6 +1981,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** ---每个主题都描述了一种智能现象，或者一种智能行为---它们展示了计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
 显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

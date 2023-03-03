@@ -75,7 +75,6 @@
 
 不是开源/免费的，但仍然足够棒.
 
-- [Heroicons](https://www.heroicons.com) - 为您的营销网站设置的独特图标.
 - [Iconic](https://useiconic.com) - 专为现代网络设计的权威图标集.
 - [Nucelo Icons](https://nucleoapp.com/premium-icons) - 适用于 iOS、Android 和 Web 项目的高级 SVG 图标库.
 

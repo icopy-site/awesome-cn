@@ -172,7 +172,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - 建立在 Weka 和朋友之上的 Clojure 机器学习库.
 * [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - XGBoost 的包装器
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B 测试库.
-* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 遗传编程系统.
+* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 基因编程系统.
 * [lambda-ml](https://github.com/cloudkj/lambda-ml) - Clojure 中机器学习技术和实用程序的简单、简洁的实现.
 * [Infer](https://github.com/aria42/infer)  - Clojure 中的推理和机器学习.  **[弃用]**
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets). **[Deprecated]**
@@ -291,7 +291,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 <a name="go-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
-* [birdland](https://github.com/rlouf/birdland) - A recommendation library in Go.
+* [birdland](https://github.com/rlouf/birdland) - Go 中的推荐库.
 * [eaopt](https://github.com/MaxHalford/eaopt) - 进化优化库.
 * [leaves](https://github.com/dmitryikh/leaves) - GBRT 预测部分的纯 Go 实现，包括 XGBoost 和 LightGBM.
 * [gobrain](https://github.com/goml/gobrain) - 用 Go 编写的神经网络.
@@ -328,7 +328,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - Go 的线性代数包.
 * [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - 优化算法的实现.
 * [gonum/plot](https://godoc.org/gonum.org/v1/plot) - 绘图库.
-* [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - 一个统计图书馆.
+* [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - 一个统计库.
 * [SVGo](https://github.com/ajstarks/svgo) - 用于生成 SVG 的 Go 语言库.
 * [glot](https://github.com/arafatk/glot) - Glot 是一个基于 gnuplot 的 Golang 绘图库.
 * [globe](https://github.com/mmcloughlin/globe) - 全球线框可视化.
@@ -964,7 +964,7 @@ be
  * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -&gt; PyTorch Geometric 的时间扩展，用于动态图形表示学习.
  * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) -&gt; NetworkX 的图形采样扩展库，带有类似 Scikit-Learn 的 API.
  * [Karate Club](https://github.com/benedekrozemberczki/karateclub) -&gt; NetworkX 的无监督机器学习扩展库，带有类似 Scikit-Learn 的 API.
-* [Auto_ViML](https://github.com/AutoViML/Auto_ViML)  -&gt; 快速自动构建变体可解释 ML 模型！  Auto_ViML 发音为“auto vimal”，是一个全面且可扩展的 Python AutoML 工具包，具有不平衡处理、集成、堆叠和内置功能选择. 在<a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium 文章中</a>精选.
+* [Auto_ViML](https://github.com/AutoViML/Auto_ViML)  -&gt; 快速自动构建变体可解释 ML 模型！  Auto_ViML 发音为“auto vimal”，是一个全面且可扩展的 Python AutoML 工具包，具有不平衡处理、集成、堆叠和内置功能选择. 在<a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">Medium 文章</a>中精选.
 * [PyOD](https://github.com/yzhao062/pyod)  -&gt; Python 异常值检测，全面且可扩展的 Python 工具包，用于检测多变量数据中的异常对象. 以高级模型为特色，包括神经网络/深度学习和异常值集成.
 * [steppy](https://github.com/neptune-ml/steppy)  -&gt; 轻量级的 Python 库，用于快速且可重现的机器学习实验. 引入了一个非常简单的界面，可以实现干净的机器学习管道设计.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -&gt; 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.
@@ -1047,7 +1047,7 @@ be
 * [REP](https://github.com/yandex/rep)  - 基于 IPython 的环境，用于以一致且可重现的方式进行数据驱动的研究.  REP 并不是要替代 scikit-learn，而是要对其进行扩展并提供更好的用户体验.  **[弃用]**
 * [rgf_python](https://github.com/RGF-team/rgf) - 正则化贪婪森林（树）库的 Python 绑定.
 * [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) - 用于带有 scikit-learn API 的贝叶斯机器学习的 Python 包.
-* [fuku-ml](https://github.com/fukuball/fuku-ml) - 简单的机器学习库，包括Perceptron、Regression、Support Vector Machine、Decision Tree等，对于初学者来说简单易学.
+* [fuku-ml](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - 一个基于 Web 的应用程序，用于快速、可扩展和自动化的超参数调整和堆叠集成.
 * [PyTorch](https://github.com/pytorch/pytorch) - 具有强大 GPU 加速功能的 Python 中的张量和动态神经网络
 * [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - 用于高性能 AI 研究的轻量级 PyTorch 包装器.
@@ -1078,7 +1078,7 @@ be
 * [Catalyst](https://github.com/catalyst-team/catalyst)  - 用于 PyTorch DL 和 RL 研究的高级实用程序. 它的开发重点是可重复性、快速实验和代码/想法的重用. 能够研究/开发新的东西，而不是编写另一个常规的火车循环.
 * [Fastai](https://github.com/fastai/fastai) - 构建在 Pytorch 之上的高级包装器，支持视觉、文本、表格数据和协同过滤.
 * [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - 用于多输出/多标签和流数据的机器学习框架.
-* [Lightwood](https://github.com/mindsdb/lightwood) - 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目标是用一行代码构建预测模型.
+* [Lightwood](https://github.com/mindsdb/lightwood) - 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目的是通过一行代码构建预测模型.
 * [bayeso](https://github.com/jungtaekkim/bayeso) - 一个简单但必不可少的贝叶斯优化包，用 Python 编写.
 * [mljar-supervised](https://github.com/mljar/mljar-supervised)  - 用于表格数据的自动机器学习 (AutoML) python 包. 它可以处理：二元分类、多类分类和回归. 它提供解释和降价报告.
 * [evostra](https://github.com/alirezamika/evostra) - Python 中的快速进化策略实现.
@@ -1108,7 +1108,7 @@ be
 * [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)：帮助机器学习研究人员自动获得优化机器学习模型的教程，该模型在任何特定任务上具有最佳学习性能.
 * [SKBEL](https://github.com/robinthibaut/skbel): 用于贝叶斯证据学习 (BEL) 的 Python 库，用于估计预测的不确定性.
 * [NannyML](https://bit.ly/nannyml-github-machinelearning) : Python 库能够完全捕获数据漂移对性能的影响. 允许在不访问目标的情况下评估部署后模型的性能.
-* [cleanlab](https://github.com/cleanlab/cleanlab)：标准的以数据为中心的 AI 包，用于处理混乱的真实世界数据和标签的数据质量和机器学习. 
+* [cleanlab](https://github.com/cleanlab/cleanlab)：标准的以数据为中心的 AI 包，用于处理混乱的真实世界数据和标签的数据质量和机器学习.
 * [AutoGluon](https://github.com/awslabs/autogluon)：用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 
@@ -1248,7 +1248,7 @@ be
 <a name="python-spiking-neural-networks"></a>
 #### Spiking Neural Networks
 
-* [Rockpool](https://github.com/synsense/rockpool)  - 用于尖峰神经网络的机器学习库. 支持使用 torch 和 jax 管道进行训练，并支持部署到神经形态硬件. 
+* [Rockpool](https://github.com/synsense/rockpool)  - 用于尖峰神经网络的机器学习库. 支持使用 torch 和 jax 管道进行训练，并支持部署到神经形态硬件.
 * [Sinabs](https://github.com/synsense/sinabs) - 一个基于 PyTorch 的脉冲神经网络深度学习库，专注于快速训练并支持对神经形态硬件的推理.
 * [Tonic](https://github.com/neuromorphs/tonic) - 一个库，可以轻而易举地下载公开可用的神经形态数据集，并提供基于事件的数据转换/增强管道.
 
@@ -1261,7 +1261,7 @@ be
 #### Federated Learning
 * [Flower](https://flower.dev/)  - 联合学习、分析和评估的统一方法. 联合任何工作负载、任何 ML 框架和任何编程语言.
 * [PySyft](https://github.com/OpenMined/PySyft) - 用于安全和私有深度学习的 Python 库.
-* [Tensorflow-Federated](https://www.tensorflow.org/federated) 用于机器学习和其他分散数据计算的联邦学习框架.
+* [Tensorflow-Federated](https://www.tensorflow.org/federated) 用于机器学习和其他分散数据计算的联合学习框架.
 
 <a name="python-kaggle-competition-source-code"></a>
 #### Kaggle Competition Source Code
@@ -1396,7 +1396,7 @@ be
 * [forecastHybrid](https://cran.r-project.org/web/packages/forecastHybrid/index.html) - forecastHybrid：来自“预测”包的 ARIMA、ETS、STLM、TBATS 和神经网络模型的自动集成和交叉验证.
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html) - fpc：灵活的集群程序.
 * [frbs](https://cran.r-project.org/web/packages/frbs/index.html)  - frbs：用于分类和回归任务的基于模糊规则的系统.  **[弃用]**
-* [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于可能性的增强的广义线性和加法模型.  **[弃用]**
+* [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于可能性的增强的广义线性和加性模型.  **[弃用]**
 * [gamboostLSS](https://cran.r-project.org/web/packages/gamboostLSS/index.html) - gamboostLSS：GAMLSS 的增强方法.
 * [gbm](https://cran.r-project.org/web/packages/gbm/index.html) - gbm：广义增强回归模型.
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - glmnet：Lasso 和 elastic-net 正则化广义线性模型.
@@ -1430,9 +1430,9 @@ be
 * [penalizedSVM](https://cran.r-project.org/web/packages/penalizedSVM/index.html) - penalizedSVM：使用惩罚函数的特征选择 SVM.
 * [quantregForest](https://cran.r-project.org/web/packages/quantregForest/index.html) - quantregForest：分位数回归森林.
 * [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest：用于分类和回归的 Breiman 和 Cutler 的随机森林.
-* [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC: Random Forests for Survival, Regression and Classification (RF-SRC).
+* [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html) - randomForestSRC：用于生存、回归和分类的随机森林 (RF-SRC).
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html) - rattle：R 中数据挖掘的图形用户界面.
-* [rda](https://cran.r-project.org/web/packages/rda/index.html) - rda：收缩质心正则化判别分析.
+* [rda](https://cran.r-project.org/web/packages/rda/index.html) - rda: Shrunken Centroids Regularized Discriminant Analysis.
 * [rdetools](https://cran.r-project.org/web/packages/rdetools/index.html)  - rdetools：特征空间中的相关维度估计（RDE）.  **[弃用]**
 * [REEMtree](https://cran.r-project.org/web/packages/REEMtree/index.html)  - REEMtree：对纵向（面板）数据具有随机效应的回归树.  **[弃用]**
 * [relaxo](https://cran.r-project.org/web/packages/relaxo/index.html)  - relaxo：放松套索.  **[弃用]**
@@ -1482,7 +1482,7 @@ be
 #### Data Analysis / Data Visualization
 
 * [SAS/STAT](https://www.sas.com/en_us/software/stat.html) - 用于进行高级统计分析.
-* [University Edition](https://www.sas.com/en_us/software/university-edition.html)  - 自由！ 包括数据分析和可视化所需的所有 SAS 软件包，并包括在线 SAS 课程.
+* [University Edition](https://www.sas.com/en_us/software/university-edition.html)  - 自由的！ 包括数据分析和可视化所需的所有 SAS 软件包，并包括在线 SAS 课程.
 
 <a name="sas-natural-language-processing"></a>
 #### Natural Language Processing
@@ -1583,7 +1583,7 @@ be
 
 <a name="tensorflow-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [Awesome Keras](https://github.com/markusschanta/awesome-keras) - 很棒的 Keras 项目、库和资源的精选列表.
+* [Awesome Keras](https://github.com/markusschanta/awesome-keras) - A curated list of awesome Keras projects, libraries and resources.
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - 与 TensorFlow 相关的所有内容的列表.
 
 <a name="tools"></a>
@@ -1596,6 +1596,7 @@ be
 <a name="tools-misc"></a>
 #### Misc
 
+* [Humanloop](https://humanloop.com) – Humanloop 是一个用于快速实验、微调模型以获得更好性能、成本优化以及收集模型生成的数据和用户反馈的平台.
 * [Qdrant](https://qdrant.tech) – Qdrant 是 [open source](https://github.com/qdrant/qdrant) 具有扩展过滤支持的矢量相似性搜索引擎，用 Rust 编写.
 * [milvus](https://milvus.io) - 他是一只风筝 [open source](https://github.com/milvus-io/milvus) 用于生产 AI 的矢量数据库，用 Go 和 C++ 编写，可扩展且速度极快，可容纳数十亿个嵌入矢量.
 * [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate 是一个 [open source](https://github.com/semi-technologies/weaviate) 矢量搜索引擎和矢量数据库.  Weaviate 使用机器学习来矢量化​​和存储数据，并找到自然语言查询的答案. 借助 Weaviate，您还可以将自定义 ML 模型用于生产规模.
@@ -1623,7 +1624,7 @@ be
 * [Flyte](https://flyte.org/) - Flyte 可以轻松地为机器学习和数据处理创建并发、可扩展和可维护的工作流.
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) - ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 * [MLEM](https://github.com/iterative/mlem) - 按照 GitOps 原则对您的 ML 模型进行版本控制和部署
-* [DockerDL](https://github.com/matifali/dockerdl) - 准备好使用深度学习 docker 图像. 
+* [DockerDL](https://github.com/matifali/dockerdl) - 准备好使用深度学习 docker 图像.
 
 <a name="books"></a>
 ## Books

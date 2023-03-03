@@ -135,7 +135,7 @@
   * [Onesignal](https://github.com/jklingsporn/vertx-push-onesignal) - 从您的 Vert.x 应用程序向（移动/网络）应用程序发送推送通知 [OneSignal](https://onesignal.com/).
 
 * CNCF 云事件
-  * [CloudEvents.io Java SDK](https://github.com/cloudevents/sdk-java) - 发送和接收 [CloudEvents](https://cloudevents.io/) 使用 [Vert.x HTTP Transport](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) for CloudEvents.
+  * [CloudEvents.io Java SDK](https://github.com/cloudevents/sdk-java) - 发送和接收 [CloudEvents](https://cloudevents.io/) 使用 [Vert.x HTTP Transport](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) 对于 CloudEvents.
 
 ## Middleware
 
@@ -162,6 +162,7 @@
 * [QBit](https://github.com/advantageous/qbit)  - 异步类型的 actor-like lib，可以在 Vert.x 异步回调中轻松运行. 回调管理.
 * [VxRifa](https://nsforth.github.io/vxrifa) - Vert.X 的实用程序库，允许在通过 EventBus 的通信中使用强类型接口.
 * [Vert.x Effect](https://github.com/imrafaelmerino/vertx-effect)  - 基于 IO Monad 的纯函数式和反应式库，用于实现任何复杂的流程. 完全支持重试、回退和恢复操作.
+* [SmallRye Mutiny](https://smallrye.io/smallrye-mutiny/) - 用于 Java 的直观事件驱动的反应式编程库 [bindings for Vert.x](https://smallrye.io/smallrye-mutiny-vertx-bindings/).
 
 ## Sync Thread Non Block
 
@@ -202,9 +203,6 @@
 
 * [AWS SDK](https://github.com/reactiverse/aws-sdk) - 将 AWS Java SDK v2（异步）与 Vert.x 结合使用
 
-## Docker
-
-
 ## Microservices
 
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的 Vert.x 微服务.
@@ -215,7 +213,7 @@
 
 ## Search Engines
 
-* [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - 垂直 x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理服务.
+* [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理服务.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - 带有事件总线代理的 Vert.x 3 Solr 服务.
 
 ## Template Engines
