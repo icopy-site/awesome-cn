@@ -48,7 +48,7 @@
 			<div>
 				<sub>只需几行代码即可开始向企业客户销售产品.</sub>
 				<br>
-				<sup>在几分钟而不是几个月内添加单点登录（以及更多）.</sup>
+				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
 			</div>
 		</a>
 		<br>
@@ -256,7 +256,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -315,7 +315,7 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速、零配置的网络应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
 - [rollup](https://github.com/rollup/rollup) - 下一代 ES2015 模块捆绑器.
-- [gulp](https://github.com/gulpjs/gulp) - 流媒体和快速构建系统，有利于代码而不是配置.
+- [gulp](https://github.com/gulpjs/gulp) - 流式传输和快速构建系统，有利于代码而不是配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能以及一流的 TypeScript 支持的快速构建系统.
@@ -329,12 +329,12 @@
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C 串行总线访问.
 - [onoff](https://github.com/fivdi/onoff) - GPIO 访问和中断检测.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI 串行总线访问.
-- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+- [pigpio](https://github.com/fivdi/pigpio) - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理.
 - [gps](https://github.com/infusion/GPS.js) - 用于处理 GPS 接收器的 NMEA 解析器.
 
 ### Templating
 
-- [marko](https://github.com/marko-js/marko) - 基于 HTML 的模板引擎，可将模板编译为 CommonJS 模块并支持流式传输、异步渲染和自定义标签.
+- [marko](https://github.com/marko-js/marko) - 基于 HTML 的模板引擎，将模板编译为 CommonJS 模块并支持流式传输、异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承、异步控制等功能的模板引擎（受 jinja2 启发）.
 - [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Mustache 模板的超集，它添加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单的无主见的模板语言.
@@ -356,7 +356,7 @@
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - 支持 ES2015+ 的框架、WebSockets、REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) - 为 TCP 套接字、WebSocket 和 HTTP 客户端制作可重用和可扩展 API 的框架.
 - [seneca](https://github.com/senecajs/seneca) - 用于编写微服务的工具包.
-- [AdonisJs](https://github.com/adonisjs/core) - 真正的 Node.js MVC 框架建立在依赖注入和 IoC 容器的坚实基础上.
+- [AdonisJs](https://github.com/adonisjs/core) - 真正的 Node.js MVC 框架建立在依赖注入和 IoC 容器的坚实基础之上.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - 快速而强大的微服务框架.
 - [Nest](https://github.com/nestjs/nest) - 用于构建高效且可扩展的服务器端应用程序的受 Angular 启发的框架.
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
@@ -382,7 +382,7 @@
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间和机器间锁定文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - 读取并解析 JSON 文件.
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - 以原子方式将 JSON 字符串化并写入文件.
-- [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - 类似于 `fs.createWriteStream()`，但是是原子的.
+- [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的文件名.
 - [lnfs](https://github.com/kevva/lnfs) - 强制创建像 `ln -fs` 这样的符号链接.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本文件还是二进制文件.
@@ -627,7 +627,7 @@
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - 无头铬.
 - [Playwright](https://github.com/microsoft/playwright) - 具有单一 API 的无头 Chromium、WebKit 和 Firefox.
 - [nve](https://github.com/ehmicky/nve) - 在本地的多个版本的 Node.js 上运行任何命令.
-- [axe-core](https://github.com/dequelabs/axe-core) - 用于自动化 Web UI 测试的辅助功能引擎.
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - 提供通用数据库、Selenium Web 浏览器或任何其他可以在 Docker 容器中运行的轻量级一次性实例.
 
 ### Security
@@ -720,7 +720,7 @@
 
 ### Static site generators
 
-- [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
+- [DocPad](https://github.com/docpad/docpad) - 具有动态能力和巨大插件生态系统的静态站点生成器.
 - [docsify](https://github.com/docsifyjs/docsify) - 没有静态构建的 HTML 文件的 Markdown 文档站点生成器.
 - [Charge](https://github.com/brandonweiss/charge) - 使用 JSX 和 MDX 的自以为是的零配置静态站点生成器.
 
@@ -795,6 +795,12 @@
 - [editly](https://github.com/mifi/editly) - 声明式视频编辑 API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 带有通配符和正则表达式的对象属性路径.
 
+## Package Manager
+
+- [npm](https://docs.npmjs.com/about-npm) - 默认包管理器.
+- [pnpm](https://pnpm.io) - 磁盘空间高效的包管理器.
+- [yarn](https://yarnpkg.com) - 替代包管理器.
+
 ## Resources
 
 ### Tutorials
@@ -805,7 +811,7 @@
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些良好做法.
 - [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
-- [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+- [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
 
 ### Discovery
@@ -885,7 +891,7 @@
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展.
 - [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型设计.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型制作.
 
 ### Community
 
