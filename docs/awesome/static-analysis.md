@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-If you also want to support this project, head over to our [Github sponsors page](https://github.com/sponsors/analysis-tools-dev).
+如果您也想支持这个项目，请访问我们 [Github sponsors page](https://github.com/sponsors/analysis-tools-dev).
 
 ## Meaning of Symbols:
 
@@ -104,7 +104,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [abaplint](https://abaplint.org) — 用于 ABAP 的 Linter，用 TypeScript 编写.
 
-- [abapOpenChecks](https://docs.abapopenchecks.org) — Enhances the SAP Code Inspector with new and customizable checks.
+- [abapOpenChecks](https://docs.abapopenchecks.org) — 通过新的和可定制的检查增强了 SAP 代码检查器.
 
 
 <h2 id="ada">有</h2>
@@ -132,7 +132,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="c">C</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm)  :copyright: — Astrée 自动证明 C/C++ 应用程序中不存在运行时错误和无效的并发行为. 它适用于浮点计算，速度非常快，而且非常精确. 该分析器还检查 MISRA/CERT/CWE/Adaptive Autosar 编码规则，并支持 ISO 26262、DO-178C A 级和其他安全标准的资格认证.  Jenkins 和 Eclipse 插件可用.
+- [Astrée](https://www.absint.com/astree/index.htm)  :copyright: — Astrée 自动证明 C/C++ 应用程序中不存在运行时错误和无效的并发行为. 它适用于浮点计算，速度非常快，而且非常精确. 该分析仪还检查 MISRA/CERT/CWE/Adaptive Autosar 编码规则，并支持 ISO 26262、DO-178C A 级和其他安全标准的资格认证.  Jenkins 和 Eclipse 插件可用.
 
 - [CBMC](http://www.cprover.org/cbmc) — C 程序的有界模型检查器、用户定义的断言、标准断言、多个覆盖率度量分析.
 
@@ -146,7 +146,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [cppcheck](https://cppcheck.sourceforge.io) — C/C++ 代码的静态分析.
 
-- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
+- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
 
@@ -170,7 +170,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [IKOS](https://github.com/nasa-sw-vnv/ikos) — 基于 LLVM 的 C/C++ 代码的可靠静态分析器.
 
-- [Joern](https://joern.io) — 基于代码属性图的C/C++开源代码分析平台
+- [Joern](https://joern.io) — Open-source code analysis platform for C/C++ based on code property graphs
 
 - [KLEE](http://klee.github.io/)  — 建立在 LLVM 编译器基础设施之上的动态符号执行引擎. 它可以为程序自动生成测试用例，以便测试用例尽可能多地运行程序.
 
@@ -216,7 +216,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [NDepend](http://www.ndepend.com) :copyright: — 衡量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
-- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDAPI、加密、反序列化等）提供实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDPi、加密、反序列化等）提供实时安全代码分析.
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
@@ -228,7 +228,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="cpp">C++</h2>
 
 
-- [Astrée](https://www.absint.com/astree/index.htm)  :copyright: — Astrée 自动证明 C/C++ 应用程序中不存在运行时错误和无效的并发行为. 它适用于浮点计算，速度非常快，而且非常精确. 该分析器还检查 MISRA/CERT/CWE/Adaptive Autosar 编码规则，并支持 ISO 26262、DO-178C A 级和其他安全标准的资格认证.  Jenkins 和 Eclipse 插件可用.
+- [Astrée](https://www.absint.com/astree/index.htm)  :copyright: — Astrée 自动证明 C/C++ 应用程序中不存在运行时错误和无效的并发行为. 它适用于浮点计算，速度非常快，而且非常精确. 该分析仪还检查 MISRA/CERT/CWE/Adaptive Autosar 编码规则，并支持 ISO 26262、DO-178C A 级和其他安全标准的资格认证.  Jenkins 和 Eclipse 插件可用.
 
 - [CBMC](http://www.cprover.org/cbmc) — C 程序的有界模型检查器、用户定义的断言、标准断言、多个覆盖率度量分析.
 
@@ -240,7 +240,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [cppcheck](https://cppcheck.sourceforge.io) — C/C++ 代码的静态分析.
 
-- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
+- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
 
@@ -260,7 +260,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [IKOS](https://github.com/nasa-sw-vnv/ikos) — 基于 LLVM 的 C/C++ 代码的可靠静态分析器.
 
-- [Joern](https://joern.io) — 基于代码属性图的C/C++开源代码分析平台
+- [Joern](https://joern.io) — Open-source code analysis platform for C/C++ based on code property graphs
 
 - [KLEE](http://klee.github.io/)  — 建立在 LLVM 编译器基础设施之上的动态符号执行引擎. 它可以为程序自动生成测试用例，以便测试用例尽可能多地运行程序.
 
@@ -346,7 +346,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [credo](https://github.com/rrrene/credo) — 专注于代码一致性和教学的静态代码分析工具.
 
-- [dialyxir](https://github.com/jeremyjh/dialyxir) — 混合任务以简化 Dialyzer 在 Elixir 项目中的使用.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
 - [sobelow](https://github.com/nccgroup/sobelow) — Phoenix Framework 的以安全为中心的静态分析.
 
@@ -425,7 +425,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [gofumpt](https://github.com/mvdan/gofumpt)  — 执行比 `gofmt` 更严格的格式，同时向后兼容. 也就是说，`gofumpt` 对 `gofmt` 满意的格式子集感到满意.
 从 Go 1.19 开始，该工具是 `gofmt` 的一个分支，需要 Go 1.18 或更高版本. 它可以用作格式化 Go 代码的直接替代品，并且在 gofumpt 之后运行 gofmt 应该不会产生任何变化.
-`gofumpt` will never add rules which disagree with `gofmt` formatting. So we extend `gofmt` rather than compete with it.
+ `gofumpt` 永远不会添加与 `gofmt` 格式不一致的规则. 所以我们扩展了 gofmt 而不是与之竞争.
 
 - [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — 检查丢失或未引用的包导入.
 
@@ -435,7 +435,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [golint](https://github.com/golang/lint) — 打印出 Go 源代码中的编码风格错误.
 
-- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) — Concurrently runs many linters and normalises their output to a report.
+- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) — 同时运行许多 linters 并将它们的输出规范化为报告.
 
 - [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) — 分析 Golang goroutine 转储的交互式工具.
 
@@ -452,7 +452,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [lll](https://github.com/walle/lll) — 报告排长队.
 
-- [maligned](https://github.com/mdempsky/maligned) — Detect structs that would take less memory if their fields were sorted.
+- [maligned](https://github.com/mdempsky/maligned) — 检测如果对字段进行排序会占用更少内存的结构.
 
 - [misspell](https://github.com/client9/misspell) — 查找经常拼写错误的英语单词.
 
@@ -490,7 +490,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="groovy">时髦的</h2>
 
 
-- [CodeNarc](https://codenarc.github.io/CodeNarc) — A static analysis tool for Groovy source code, enabling monitoring and enforcement of many coding standards and best practices.
+- [CodeNarc](https://codenarc.github.io/CodeNarc) — Groovy 源代码的静态分析工具，支持监控和执行许多编码标准和最佳实践.
 
 
 <h2 id="haskell">哈斯克尔</h2>
@@ -537,9 +537,9 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [fb-contrib](http://fb-contrib.sourceforge.net) — 带有附加错误检测器的 FindBugs 插件.
 
-- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  — 检测并禁止调用特定方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
+- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 
-- [google-java-format](https://github.com/google/google-java-format) — 重新格式化 Java 源代码以符合 Google Java 样式
+- [google-java-format](https://github.com/google/google-java-format) — Reformats Java source code to comply with Google Java Style
 
 - [HuntBugs](https://github.com/amaembo/huntbugs) :warning: — 基于 Procyon 编译器工具的字节码静态分析器工具，旨在取代 FindBugs.
 
@@ -655,7 +655,7 @@ If you also want to support this project, head over to our [Github sponsors page
 - [mlint](https://mathworks.com/help/matlab/ref/mlint.html) :copyright: — 检查 MATLAB 代码文件是否存在可能的问题.
 
 
-<h2 id="nim">他</h2>
+<h2 id="nim">Nim</h2>
 
 
 - [DrNim](https://nim-lang.org/docs/drnim.html) — DrNim 将 Nim 前端与 Z3 证明引擎相结合，以允许验证/验证用 Nim 编写的软件.
@@ -708,7 +708,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [PHP Architecture Tester](https://github.com/carlosas/phpat) — 易于使用的 PHP 架构测试工具.
 
-- [PHP Assumptions](https://github.com/rskuipers/php-assumptions) — 检查薄弱的假设.
+- [PHP Assumptions](https://github.com/rskuipers/php-assumptions) — Checks for weak assumptions.
 
 - [PHP Coding Standards Fixer](https://cs.symfony.com) — 根据 PSR-1、PSR-2 和 Symfony 标准等标准修复您的代码.
 
@@ -722,7 +722,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) — 用 PHP 编写的 PHP 解析器.
 
-- [php-speller](https://github.com/mekras/php-speller) — PHP spell check library.
+- [php-speller](https://github.com/mekras/php-speller) — PHP 拼写检查库.
 
 - [PHP-Token-Reflection](https://github.com/Andrewsville/PHP-Token-Reflection) — 模拟 PHP 内部反射的库.
 
@@ -772,7 +772,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Reflection](https://github.com/phpDocumentor/Reflection) — 为 PHP 项目做静态分析的反射库
 
-- [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
+- [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
 - [Tuli](https://github.com/ircmaxell/Tuli) — 静态分析引擎.
 
@@ -835,7 +835,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -936,7 +936,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [pelusa](https://github.com/codegram/pelusa) — 用于改进 OO Ruby 代码的静态分析 Lint 类型工具.
 
-- [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
+- [quality](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 
 - [Querly](https://github.com/soutaro/querly) — Ruby 基于模式的检查工具.
 
@@ -1093,7 +1093,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Frink](http://catless.ncl.ac.uk/Programs/Frink) — 一个 Tcl 格式化和静态检查程序（可以美化程序、最小化、混淆或只是完整性检查）.
 
-- [Nagelfar](https://sourceforge.net/projects/nagelfar) — Tcl 的静态语法检查器.
+- [Nagelfar](https://sourceforge.net/projects/nagelfar) — A static syntax checker for Tcl.
 
 - [tclchecker](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — 静态语法分析模块（作为 [TDK](https://github.com/ActiveState/tdk)).
 
@@ -1107,7 +1107,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [stc](https://stc.dudy.dev) — 用 Rust 编写的快速 TypeScript 类型检查器
 
-- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint 已于 2019 年弃用.请参阅此问题了解更多详细信息：typescript-eslint 现在是检查 TypeScript 的最佳选择.
+- [tslint](https://palantir.github.io/tslint/) :warning: — 自 2019 年起，TSLint 已被弃用.请参阅此问题了解更多详细信息：typescript-eslint 现在是检查 TypeScript 的最佳选择.
  TSLint 是一种可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
@@ -1130,9 +1130,9 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [verible-linter-action](https://github.com/chipsalliance/verible-linter-action) — 在 Verible 的帮助下，github 操作中的自动 SystemVerilog linting 用于自动检查 Verilog 和 SystemVerilog 源文件，并自动注释 Pull Requests 中的错误代码行.
 
-- [Verilator](https://www.veripool.org/verilator) — A tool which converts Verilog to a cycle-accurate behavioral model in C++ or SystemC. Performs lint code-quality checks.
+- [Verilator](https://www.veripool.org/verilator)  — 将 Verilog 转换为 C++ 或 SystemC 中的周期精确行为模型的工具. 执行 lint 代码质量检查.
 
-- [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support)  — Verilog HDL/SystemVerilog/Bluespec SystemVerilog 支持 VS 代码. 提供来自 Icarus Verilog、Vivado Logical Simulation、Modelsim 和 Verilator 的语法突出显示和 Linting 支持
+- [vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support) — Verilog HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code. Provides syntax highlighting and Linting support from Icarus Verilog, Vivado Logical Simulation, Modelsim and Verilator
 
 
 <h2 id="vim-script">Vim 脚本</h2>
@@ -1182,7 +1182,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Codacy](https://www.codacy.com) :copyright: — 代码分析以更快地发布更好的代码.
 
-- [Code Intelligence](https://www.code-intelligence.com) :copyright: — CI/CD-agnostic DevSecOps platform which combines industry-leading fuzzing engines for finding bugs and visualizing code coverage
+- [Code Intelligence](https://www.code-intelligence.com) :copyright: — 与 CI/CD 无关的 DevSecOps 平台，结合了行业领先的模糊测试引擎，用于查找错误和可视化代码覆盖率
 
 - [Codeac](https://www.codeac.io/?ref=awesome-static-analysis)  :copyright: — 自动代码审查工具集成了 GitHub、Bitbucket 和 GitLab（甚至是自托管）. 适用于 JavaScript、TypeScript、Python、Ruby、Go、PHP、Java、Docker 等.  （开源免费）
 
@@ -1222,7 +1222,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — 用于检查 C/C++ 代码的 Github 操作，集成了 clang-tidy 和 clang-format 以收集以线程评论和/或注释的形式提供的反馈.
 
-- [cqc](https://github.com/xcatliu/cqc) — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
+- [cqc](https://github.com/xcatliu/cqc) — 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
 
 - [DeepCode](https://www.deepcode.ai) :copyright: — DeepCode 被 Snyk 收购，现在是 Snyk Code.
 
@@ -1296,9 +1296,9 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Putout](https://github.com/coderaiser/putout) — 可插入和可配置的代码转换器，内置 eslint，支持 js、jsx typescript、flow、markdown、yaml 和 json 的 babel 插件.
 
-- [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
+- [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、OWASP ASVS、MISRA、AUTOSAR 和 SEI CERT 编码标准.
 
-- [pylama](https://klen.github.io/pylama/) — Code audit tool for Python and JavaScript. Wraps pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, and more
+- [pylama](https://klen.github.io/pylama/)  — Python 和 JavaScript 的代码审计工具. 包装 pycodestyle、pydocstyle、PyFlakes、Mccabe、Pylint 等
 
 - [Qwiet AI](https://qwiet.ai/)  :copyright: — 在您的代码库进入生产环境之前识别它们所特有的漏洞. 利用代码属性图 (CPG) 在单个图形图中同时运行其分析. 自动发现开发中的业务逻辑缺陷，如硬编码秘密和逻辑炸弹
 
@@ -1366,7 +1366,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [TencentCodeAnalysis](https://tca.tencent.com/)  — 腾讯云代码分析（简称TCA，早期公司内部代号CodeDog）是一个综合性的代码分析和问题跟踪平台.  TCA 由三个组件组成，服务器、Web 和客户端. 集成了多项自主开发的工具，还支持动态集成各种编程语言的代码分析工具.
 
-- [ThreatMapper](https://github.com/deepfence/ThreatMapper) — Vulnerability Scanner and Risk Evaluation for containers, serverless and hosts at runtime. ThreatMapper generates runtime BOMs from dependencies and operating system packages, matches against multiple threat feeds, scans for unprotected secrets, and scores issues based on severity and risk-of-exploit.
+- [ThreatMapper](https://github.com/deepfence/ThreatMapper)  — 运行时容器、无服务器和主机的漏洞扫描程序和风险评估.  ThreatMapper 从依赖项和操作系统包生成运行时 BOM，匹配多个威胁源，扫描未受保护的秘密，并根据严重性和利用风险对问题进行评分.
 
 - [todocheck](https://github.com/preslavmihaylov/todocheck) — 用于将带注释的 TODO 与问题跟踪器集成的 Linter
 
@@ -1422,7 +1422,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="arm">Azure 资源管理器</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 
 <h2 id="binary">二进制文件</h2>
@@ -1519,7 +1519,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) — 根据策略即代码规则检查本地 CloudFormation 模板，并从现有模板生成规则.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [cfn-lint](https://github.com/awslabs/cfn-python-lint) — AWS 实验室 CloudFormation linter.
 
@@ -1535,11 +1535,11 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 
-- [Puppet Lint](https://github.com/rodjek/puppet-lint) — 检查您的 Puppet 清单是否符合风格指南.
+- [Puppet Lint](https://github.com/rodjek/puppet-lint) — Check that your Puppet manifests conform to the style guide.
 
 - [terraform-compliance](https://terraform-compliance.com) — 针对 Terraform 的轻量级、以合规性和安全性为重点的 BDD 测试框架.
 
-- [terrascan](https://github.com/cesar-rodriguez/terrascan) — Collection of security and best practice tests for static code analysis of Terraform templates.
+- [terrascan](https://github.com/cesar-rodriguez/terrascan) — 为 Terraform 模板的静态代码分析收集安全和最佳实践测试.
 
 - [tflint](https://github.com/wata727/tflint) — 用于检测“terraform plan”无法检测到的错误的 Terraform linter.
 
@@ -1559,7 +1559,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) — Lint 和验证 Dockerfile 标签.
 
-- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — 更智能的 Dockerfile linter，可帮助您构建最佳实践 Docker 映像.
+- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — A smarter Dockerfile linter that helps you build best practice Docker images.
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
@@ -1578,9 +1578,9 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [Code Climate](https://codeclimate.com) — 开放且可扩展的静态分析平台，适合所有人.
 
@@ -1598,13 +1598,13 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [PullRequest](https://www.pullrequest.com)  :copyright: — 代码审查作为具有内置静态分析的服务. 通过由一流自动化支持的专家工程师进行质量代码审查，提高速度并减少技术债务.
 
-- [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
+- [quality](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :warning: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新型分析.
 
 - [Reviewdog](https://github.com/haya14busa/reviewdog) — 用于从任何代码托管服务中的任何 linter 发布评论的工具.
 
-- [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
+- [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
 - [Violations Lib](https://github.com/tomasbjerre/violations-lib)  — 用于从静态代码分析中解析报告文件的 Java 库. 由一堆 Jenkins、Maven 和 Gradle 插件使用.
 
@@ -1612,7 +1612,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="deno">不是</h2>
 
 
-- [deno_lint](https://github.com/denoland/deno_lint) — Deno 的官方 linter.
+- [deno_lint](https://github.com/denoland/deno_lint) — Official linter for Deno.
 
 
 <h2 id="embedded">嵌入式</h2>
@@ -1695,7 +1695,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 
-- [kubeconform](https://github.com/yannh/kubeconform) — 一个快速的 Kubernetes 清单验证器，支持自定义资源.
+- [kubeconform](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
 它的灵感来自于，包含来自的代码，并且旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进：*高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中*可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源（CRD）和离线验证功能*使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支——它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
 - [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中代表的应用程序符合最佳实践.
@@ -1750,7 +1750,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Go Meta Linter](https://github.com/alecthomas/gometalinter)  :warning: — 同时运行 Go lint 工具并规范化它们的输出. 对新项目使用 `golangci-lint`.
 
-- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) — Concurrently runs many linters and normalises their output to a report.
+- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) — 同时运行许多 linters 并将它们的输出规范化为报告.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -1778,6 +1778,8 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [redex](https://fbredex.com)  — Redex 提供了一个读取、写入和分析.dex 文件的框架，以及一组使用该框架改进字节码的优化通道. 经过 Redex 优化的 APK 应该更小更快.
 
+- [SAST Online](https://sast.online/) :copyright: — 检查 Android 源代码以确定任何安全问题或漏洞.
+
 
 <h2 id="nix">尼克斯</h2>
 
@@ -1787,7 +1789,7 @@ If you also want to support this project, head over to our [Github sponsors page
 - [statix](https://git.peppe.rs/languages/statix/about/)  — Nix 编程语言的 Lint 和建议.  “statix check”突出了 Nix 代码中的反模式.  “statix fix”可以修复几个这样的事件.
 
 
-<h2 id="nodejs">节点.js</h2>
+<h2 id="nodejs">Node.js</h2>
 
 
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) — Lint 一个 npm 或 yarn lockfile 来分析和检测安全问题
@@ -1830,7 +1832,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="security">安全/先科</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 
@@ -1875,7 +1877,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/)  :copyright: — 识别 Github、Google Code、MS CodePlex、SourceForge 等托管的开源代码项目中的漏洞. 该工具带有 130 多个默认搜索，可识别 SQL 注入、跨站点脚本 (XSS)、不安全的远程和本地文件包含、硬编码密码等. 
 
-- [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
+- [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
 
 - [tfsec](https://github.com/tfsec/tfsec)  — Terraform 静态分析工具，通过在构建时检查云错误配置来防止潜在的安全问题，并直接与 HCL 解析器集成以获得更好的结果. 检查是否违反了 AWS、Azure 和 GCP 安全最佳实践建议.
 
@@ -1885,7 +1887,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 - [Tsunami Security Scanner](https://github.com/google/tsunami-security-scanner)  — 具有可扩展插件系统的通用网络安全扫描器，用于高度可靠地检测高严重性的类似 RCE 的漏洞. 可以添加用于查找漏洞（例如开放 API）的自定义检测器.
 
 
-<h2 id="smart-contracts">Smart Contracts</h2>
+<h2 id="smart-contracts">智能合约</h2>
 
 
 - [mythril](https://github.com/ConsenSys/mythril) — 一个包含电池的符号执行框架，可用于自动查找和利用智能合约中的漏洞.

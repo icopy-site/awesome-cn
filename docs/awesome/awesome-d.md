@@ -41,7 +41,7 @@
 * [Github Organization](https://github.com/dlang) - D. Repo 的官方 GitHub 组织，用于所有官方 D 工具和代码.
 * [forum.dlang.org](https://forum.dlang.org/)  - 官方论坛. 每天都会发生许多有趣的讨论.
 * [blog.dlang.org](https://dlang.org/blog/) - 官方博客.
-* [Language Specification](https://dlang.org/spec/spec.html) - D programming language specification.
+* [Language Specification](https://dlang.org/spec/spec.html) - D 编程语言规范.
 * [Issue tracking](https://issues.dlang.org/) - D 的官方问题跟踪/报告系统.如果您在 D 编译器和/或库中发现错误，请前来报告！
 
 ## Getting Help
@@ -384,7 +384,7 @@
 	* libtheora (DerelictTheora),  
 	* libogg (DerelictOgg), 
 	* libvorbis (DerelictVorbis), 
-	* SFML 2（废弃SFML2）， 
+	* SFML 2 (DerelictSFML2), 
 	* libpq (DerelictPQ), 
 	* 物理文件系统（DerelictPHYSFS）， 
 	* 开放式动力学引擎 (DerelictODE)， 
@@ -441,6 +441,8 @@
 
 * [vectorflow](https://github.com/Netflix/vectorflow) - Nexflix 的开源深度学习框架.
 * [bindbc-onnxruntime](https://github.com/lempiji/bindbc-onnxruntime) - bindbc 绑定到 Microsoft 的跨平台、高性能 ML 推理和训练加速器
+* [grain2](https://github.com/ShigekiKarita/grain2) - 用于 D 中动态神经网络的 Autograd 和 GPGPU 库
+* [tfd](https://github.com/ShigekiKarita/tfd) - D 的 Tensorflow 包装器 
 
 ## Parallel computing
 

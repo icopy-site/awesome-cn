@@ -222,6 +222,7 @@ Services:
 ### Development
  - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) - 在 Visual Studio 中查看与构建器表达式等效的 MongoDB 查询 API
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - 随机数据生成器
+ - [migrate-mongo](https://github.com/seppevs/migrate-mongo) - 数据库迁移工具
  - [Mongo Playground](https://github.com/feliixx/mongoplayground) - 在线查询游乐场
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js 库、CLI 和 Docker 镜像，用于使用 JS 和 JSON 文件填充数据库
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - 模式和数据分析器：探索您收藏中的数据

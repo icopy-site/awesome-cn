@@ -44,7 +44,7 @@ Audio
 * [OM7](https://github.com/openmusic-project/om7)  - OpenMusic 可视化编程和计算机辅助作曲环境的新实现，包括对图形界面、计算模式和与外部软件库的连接的大量改进.  [GPL3][2].
 * [Incudine](http://incudine.sourceforge.net/)  - Common Lisp 的音乐/DSP 编程环境. 从头开始设计软件合成器或声音插件很有用. 它也是一种作曲工具，可以产生在样本级别可控的高质量声音，定义和重新定义数字信号处理器和动态音乐结构.
 * [cl-collider](https://github.com/byulparan/cl-collider) - A
-[SuperCollider](http://supercollider.github.io/)  CommonLisp 的客户端. 与 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI). Public domain.
+[SuperCollider](http://supercollider.github.io/)  CommonLisp 的客户端. 与 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  - 声音和音乐计算系统. 包括用于 Common Lisp 的 CFFI 和 FFI 接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  - Common Lisp Music 是 Music V 系列中的音乐合成和信号处理包. 它提供与 Stk、Csound、SuperCollider、PD、CMix、cmusic 和 Arctic 几乎相同的功能 — 创建和操纵声音的功能集合，主要针对作曲家（无论如何在 CLM 的情况下）.
 * [cl-patterns](https://github.com/defaultxr/cl-patterns)  - 一个通过 Lisp 代码创作音乐的系统，深受 SuperCollider 模式系统的启发，旨在实现其中的大部分内容，但以更健壮、表现力、一致、反思和 lispy 的方式. 通过 SuperCollider 输出音频，初步支持 Incudine，通过 ALSA 支持 MIDI.
@@ -113,7 +113,7 @@ Cryptocurrencies
 ================
 
 * [bp](https://github.com/rodentrabies/bp)  - Common Lisp 中的比特币协议组件.  [麻省理工][200].
-* [cl-monero-tools](https://github.com/glv2/cl-monero-tools)  - 使用 Monero 加密货币的 Common Lisp 工具箱.  [GPL3][2]. 不在 Quicklisp 中.
+* [cl-monero-tools](https://github.com/glv2/cl-monero-tools) -  Common Lisp toolbox to work with the Monero cryptocurrency. [GPL3][2]. Not in Quicklisp.
 * [emotiq](https://github.com/emotiq/emotiq)  - 具有创新的自然语言智能合约方法的下一代区块链.  [麻省理工][200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)  - 解析包含在文件中的区块链并将其部分数据导出到文本文件、SQL 脚本或数据库. 它还可以使用点点币守护进程的 RPC 作为数据源而不是区块链文件来创建数据库.  LGPL3. 不在 Quicklisp 中.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)  - 本程序为您提供在 10 分钟、24 小时、31 天、90 天和 1 年内生成 POS 或 POW 区块的概率，以及可以预期的奖励.  Qt 中的图形用户界面.  [GPL3][2]. 不在 Quicklisp 中.
@@ -183,8 +183,8 @@ Wrappers
 * [cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb)  - RethinkDB 客户端.  [外籍人士][14].
 * [cl-mango](https://github.com/cmoore/cl-mango/)  - 极简主义的 CouchDB 2.x 数据库客户端.  BSD_3条款.
   * 也可以看看 [clouchdb](https://common-lisp.net/project/clouchdb/)  - 用于与 CouchDB 交互的库.  [FreeBSD][39].
-* [lmdb](https://github.com/antimer/lmdb) - 绑定到 [LMDB](http://www.lmdb.tech/doc/)，闪电内存映射数据库，一个具有多版本并发控制的 ACID 键值数据库.
-* [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) - 绑定到的 C++ NDB API [RonDB](https://www.rondb.com/), “世界上最快的键值存储”, by [Dydra](https://dydra.com/home) .  GPLv2.
+* [lmdb](https://github.com/antimer/lmdb) - 绑定到 [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+* [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) - 绑定到的 C++ NDB API [RonDB](https://www.rondb.com/), “世界上最快的键值存储”, by [Dydra](https://dydra.com/home). GPLv2.
 
 迁移工具
 ---------------
@@ -198,7 +198,7 @@ Wrappers
 
 * [dyna](https://github.com/Rudolph-Miller/dyna)  - AWS DynamoDB ORM.  [麻省理工][200].
 * [cl-influxdb](https://github.com/mmaul/cl-influxdb/)  - 时间序列数据库 InfluxDB 的接口.  [麻省理工][200].
-* [pzmq](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+* [pzmq](https://github.com/orivej/pzmq)  - ZeroMQ 4.0+ Common Lisp 绑定. 未经许可.
 
 Tools
 -----
@@ -220,7 +220,7 @@ Tools
 无锁、并发、键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [麻省理工][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  - 数据结构和算法的可移植集合（主要是字典和序列，具有一些统计功能）.  [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  - 受 Haskell 的 Data.List 启发的列表操作库.  [LLGPL][8].
-* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便捷库
+* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便利库
 * [bit-smasher](https://github.com/thephoeron/bit-smasher)  - 用于处理位向量、位向量算术和类型转换的 Common Lisp 库.  [麻省理工][200].
 * [cl-containers](https://common-lisp.net/project/cl-containers/) - 一个广泛的数据结构和实用程序库 - 队列、树、堆、双向链表、集合、包……[MIT][200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  - 用于竞争性编程的 Common Lisp 算法集合. 公共领域、CCO 或 MIT.
@@ -238,7 +238,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -367,7 +367,7 @@ GUI
 * [cl-gtk4](https://github.com/bohonghuang/cl-gtk4)  - 用于 Common Lisp 的 GTK4/Libadwaita/WebKit 绑定.  [LGPL3][9].
 * [cl-cffi-gtk](https://github.com/crategus/cl-cffi-gtk)  - 绑定 GTK+3.  [GNU LGPL2.1][11].
   - 教程： [Learn Common Lisp by Example: GTK GUI with SBCL](https://dev.to/goober99/learn-common-lisp-by-example-gtk-gui-with-sbcl-5e5c)
-* [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)  - GTK+2 的绑定.  [LLGPL][8].
+* [cl-gtk2](https://github.com/dmitryvk/cl-gtk2) - A binding for GTK+2. [LLGPL][8].
 * [ceramic](https://ceramic.github.io/)  - 使用 Electron 的桌面网络应用程序.  [外籍人士][14].
   * [Electron-lisp-boilerplate](https://github.com/mikelevins/electron-lisp-boilerplate) - 用于构建带有嵌入式 Lisp 辅助进程的 Electron 应用程序的基本样板.
   * 电子应用骨架： [electron-sbcl-sqlite](https://github.com/mikelevins/electron-sbcl-sqlite/)
@@ -429,7 +429,7 @@ Proprietary:
 * [GNU CLISP](http://www.clisp.org/)  - GNU 实现； 包含一个编译器和一个解释器.  [标准一致性][6].  [GNU GPL3][2]. 他们发展 [on Gitlab](https://gitlab.com/gnu-clisp/clisp).
   * 编译为字节码，它的默认 REPL 比 SBCL 的（具有符号完成和 readline 集成）对用户更友好.
   * 然而，它没有得到积极开发，它不完全符合 ANSI 标准，它的性能不如 SBCL，并且缺乏兼容性功能.
-* [Corman Lisp](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT][200].
+* [Corman Lisp](https://github.com/sharplispers/cormanlisp)  - 用于在 Intel 平台上运行的 Microsoft Windows 的 Common Lisp 开发环境.  [麻省理工][200].
 
 您可以在此处检查实现与常见扩展的兼容性： [portability.cl](https://portability.cl).
 
@@ -468,7 +468,7 @@ YAML
 * [anaphora](https://common-lisp.net/project/anaphora/)  - 照应宏的集合. 公共区域.
 * ⭐ [trivia](https://github.com/guicho271828/trivia/)  - 优化的模式匹配库.  [LLGPL][8].
 * [arrow-macros](https://github.com/hipeta/arrow-macros)  - 类似 Clojure 的线程宏.  [麻省理工][200].
-* [hu.dwim.walker](https://github.com/hu-dwim/hu.dwim.walker)  - 代码 walker 和 unwalker（又名 AST 解析器和反解析器）.  [BSD][15]. 也可以看看 [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
+* [hu.dwim.walker](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD][15]. See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
 可移植层
 ------------------
@@ -483,7 +483,7 @@ YAML
 -------------------
 
 * [cl21](https://github.com/cl21/cl21)  - 将 Common Lisp 带入 21 世纪的实验项目.  [外籍人士][14].
-* [clamp](https://github.com/malisper/Clamp) - Arc language's brevity and conciseness to Common Lisp. [Artistic License 2.0][51].
+* [clamp](https://github.com/malisper/Clamp)  - Arc 语言相对于 Common Lisp 的简洁明了.  [艺术许可证 2.0][51].
   * 还 [arc-compat](https://github.com/g000001/arc-compat)  - 弧兼容包.  Perl 基金会的艺术许可证 2.0.
 * [cl-syntax](https://github.com/m2ym/cl-syntax)  - 读者语法约定.  [LLGPL][8].
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax)  - 缩进敏感的阅读器系统. 在 Quicklisp 上不可用. 公共区域.
@@ -513,11 +513,11 @@ CLOS 扩展
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  - 允许静态地（在编译时）而不是动态地（运行时）执行标准通用函数分派. 这类似于 C++ 和 Java 等语言中所谓的“重载”.  [麻省理工][200].
 * [dynamic-mixins](https://github.com/rpav/dynamic-mixins)  - 简单、动态的类组合.  [BSD_2条款][17].
 * [fast-generic-functions](https://github.com/marcoheisig/fast-generic-functions)  - 密封您的通用函数以获得额外的性能提升.  [麻省理工][200].
-* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 一种函数类型，用于分派类型而不是类，部分支持分派可选和关键字参数类型. 仍处于试验阶段（2021 年 5 月）.  [麻省理工][200].
+* [polymorphic functions](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT][200].
    - 多态函数根据提供给它的参数类型进行分派. 这有助于调度专门的数组以及用户定义的类型.
   - 有关专业化存储和快速通用功能的差异，请参阅其自述文件.
 
-并且：
+And also:
 
 * [slot-extra-options](https://github.com/some-mthfka/slot-extra-options)  - 允许您构建一个元类，该元类又允许您在其类中指定额外的插槽选项.  [LGPL3][9].
 
@@ -535,15 +535,19 @@ Iteration
 * ⭐ [iterate](https://common-lisp.net/project/iterate/)  - 可扩展和 Lispier 的 Common Lisp 的迭代构造.  [麻省理工][200].
 * [for](https://shinmera.github.io/for/)  - 一个简洁、轻便且可扩展的迭代宏. 与循环不同，它是可扩展和明智的，并且与迭代不同，它不需要代码遍历并且更容易扩展.  [zlib][33].
 * [series](https://series.sourceforge.net/)  - 完全没有任何运行时损失的函数式风格.  [麻省理工][200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  - 一个简洁且可扩展的迭代工具，具有与 FSet 良好集成的优势（请参阅数据结构部分），因为它是由同一作者编写的. 在 Quicklisp 中作为 `misc-extensions` 的一部分. 公共区域.
 * [trivial-do](https://github.com/yitzchak/trivial-do/)  - Common Lisp 的附加 dolist 样式宏.  [麻省理工][200].
 * [doplus](https://github.com/alessiostalla/doplus) – 另一个可扩展的迭代库，类似于 :for.
+* [cl-transducers](https://github.com/fosskers/cl-transducers)  - 符合人体工程学的高效数据处理.  [AGPL-3.0][51].
+  *“传感器是一种符合人体工程学且内存效率极高的数据源处理方式.这里的“数据源”是指简单的集合，如列表或向量，但也可能是大文件或无限数据的生成器.”
+  *“总的来说，它是传感器模式最完整的实现.”
+  * 带有 `map`、`filter`、`take`、`repeat`、`cycle`、`fold` 的“现代”API
 * [snakes](https://github.com/BnMcGn/snakes)  - 用于 Common Lisp 的 Python 样式生成器. 包括一个 itertools 端口.  [Apache2][89].
 * [picl](https://github.com/anlsh/picl)  - Python 的 itertools 包的（几乎）完整端口，在适用的情况下具有惰性，并且不依赖于 cl-cont.  [麻省理工][200].
 * [gtwiwtg](https://cicadas.surf/cgit/colin/gtwiwtg.git/about/)  - 一个懒惰的序列库. 类似于“系列”但不完整. 然而，它有一个“现代”API，其中包含“take”、“filter”、“for”、“fold”等易于使用的东西.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  - 一个简洁且可扩展的迭代工具，具有与 FSet 良好集成的优势（请参阅数据结构部分），因为它是由同一作者编写的. 在 Quicklisp 中作为 `misc-extensions` 的一部分. 公共区域.
 
 
-Lambda 简写
+Lambda shorthands
 -----------------
 
 * [fn](https://github.com/cbaggers/fn)  - 几个 lambda 速记宏.  `(fn* (+ _ _)) --&gt; (lambda (_) (+ _ _))`. 公共区域.
@@ -557,7 +561,7 @@ Lambda 简写
 非确定性、逻辑编程
 ------------------------------------
 
-* [cl-prolog2](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT][200].
+* [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  - 来自 Common Lisp 的 ISO Prolog 实现的通用接口.  [麻省理工][200].
 * [Screamer](https://github.com/nikodemus/screamer) - 增加普通
   Lisp 几乎具有 Prolog 和
   约束逻辑规划
@@ -671,7 +675,7 @@ Advanced
 其他书籍
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 合着，由麻省理工学院出版社免费提供——这是一本在标准人工智能文本中独一无二的书，结合了科学与工程、理论与工艺来描述 AI 推理系统的构建，并包括说明这些想法的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 合着，由麻省理工学院出版社免费提供——这是一本在标准人工智能文本中独一无二的书，结合了科学与工程、理论与工艺来描述 AI 推理系统的构造，并包括说明这些想法的代码.
 
 Community
 ---------
@@ -717,7 +721,7 @@ Community
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  - debhelper 实用程序，让您几乎毫不费力地将基于 quicklisp 的 Common Lisp 代码编译成 .deb 中的 buildapp 二进制文件.  [麻省理工][200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  - 用于（命令行）常见 lisp 应用程序的自制公式生成器. 公共区域.
 * [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) - 一个 BuildStream 项目，用于为 Common Lisp 应用程序构建基于 Flatpak 的运行时环境.
-* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 以及更高版本的 MacOSX 和 iOS 捆绑格式.
+* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 和更高版本的 MacOSX 和 iOS 捆绑格式.
 
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，通用包管理器的插件.
@@ -759,7 +763,7 @@ HTTP客户端
 HTTP 服务器
 ------------
 
-* ⭐ [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
+* ⭐ [Hunchentoot](http://weitz.de/hunchentoot/)  - 网络服务器.  [2-子句 BSD][207]
 *[Clack](https://github.com/fukamachi/clack)  - 受 Rack 和 WSGI 启发的 Web 应用程序环境.  [LLGPL][8]. 为所选网络服务器提供统一接口（默认为 Hunchentoot）. 随着更多 [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
 * [zaserve](https://github.com/gendl/aserve) - Franz Inc. [LLGPL][8] 的 AllegroServe 便携式叉子.
 * [wookie](https://github.com/orthecreedence/wookie)  - 异步 HTTP 服务器.  [外籍人士][14].
@@ -800,7 +804,7 @@ HTTP 服务器
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [ningle](https://github.com/fukamachi/ningle)  - 超微型网络框架.  [LLGPL][8].
   - [jingle](https://github.com/dnaeon/cl-jingle) - 在ningle的基础上，增加了一些花里胡哨的东西，比如中间件.
-    - includes an OpenAPI and Swagger UI demo.
+    - 包括 OpenAPI 和 Swagger UI 演示.
 * [radiance](https://github.com/Shirakumo/radiance)  - Web 应用程序环境和框架.  [zlib][33].
 
 以 REST 为中心的框架：
@@ -855,7 +859,7 @@ URI 处理
 Javascript
 ----------
 
-* ⭐ [Parenscript](https://common-lisp.net/project/parenscript/)  - 从 Common Lisp 到 Javascript 的翻译器.  [3 条款 BSD][15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种提供与浏览器实时交互的 Emacs 模式.[未授权][5].
+* ⭐ [Parenscript](https://common-lisp.net/project/parenscript/)  - 从 Common Lisp 到 Javascript 的翻译器.  [3 条款 BSD][15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
   * [paren6](https://github.com/BnMcGn/paren6/) - 一组用于 Parenscript 的 ES6 宏.
 * [JSCL](https://github.com/jscl-project/jscl)  - 从第一天起就设计为自托管的 CL-to-JS 编译器. 缺少 CLOS、格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)  - 从 Javascript 到 Common Lisp 的翻译器. 在 Quicklisp 上不可用.  [外籍人士][14].
@@ -889,7 +893,7 @@ Deployment
 
 * [deploy](https://shinmera.github.io/deploy)  - 用于 Lisp 应用程序二进制部署的工具包，额外支持外部共享库.  [zlib][33].
 * [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp)  - 使用 Roswell 编译 Common Lisp 应用程序的 Heroku buildpack.  LGPL3.
-* [cube](https://github.com/xh4/cube)  - 用于从 Swagger 规范生成的 Common LISP 的 Kubernetes 客户端库.  [麻省理工][200].
+* [cube](https://github.com/xh4/cube) - Kubernetes client library for Common LISP generated from the Swagger specification. [MIT][200].
 * [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  - 基于 CentOS 或 RHEL7 的 Source-to-Image 构建器镜像，用于为 OpenShift（以及 Docker）构建 Common LISP 镜像. 它具有最新的 SBCL，带有 Quicklisp 安装、SLIME 或 SLY 集成，并允许通过环境变量进行自定义.  [Apache2][89]
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)  - 使用 Common Lisp (SBCL) 作为 AWS lambda 上的自定义运行时的示例.  WTFPL.
 
@@ -943,7 +947,7 @@ Websockets
 * [cl-authentic](https://github.com/charJe/cl-authentic)  - Common Lisp（网络）应用程序的密码管理.  [LLGPL][8].
   - 安全密码存储：无明文，通过 ironclad 使用您选择的哈希算法，存储在 SQL 数据库中，
   - 使用一次性令牌的密码重置机制（适合邮寄给用户确认），
-  - 可选地使用确认令牌创建用户（适用于邮寄给用户），
+  - user creation optionally with confirmation tokens (suitable for mailing to users),
 * [mito-email-auth](https://github.com/40ants/mito-email-auth) - 通过电子邮件向网站用户发送唯一代码，帮助他们验证网站用户的身份.
 
 * [cl-cas](https://github.com/fferrere/cl-cas) - 一个图书馆来帮助 [CAS authenticaton](https://apereo.github.io/cas/6.0.x/protocol/CAS-Protocol.html) 到 Common Lisp Web 应用程序. 不在 Quicklisp 中.
@@ -993,7 +997,7 @@ Others
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 及其
   [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - 灵活
-  类似于 Frog、Jekyll 或 Hakyll 的 Lisp 博客软件.  [BSD][15].
+  Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD][15].
 
 ### Third-party APIs
 
@@ -1153,7 +1157,7 @@ Scripting
 * [ScriptL](https://github.com/rpav/ScriptL)  - Shell 脚本使 Lisp 变得像！ 或者，为 shell 实时编码远程函数调用. 在 REPL 中编写命令，并在 shell 中立即运行.  [LLGPL][8].
   * 相似且可能更简单： [lserver](https://notabug.org/quasus/lserver/)
 
-Command-line options parsers
+命令行选项解析器
 ----------------------------
 
 * [Clingon](https://github.com/dnaeon/clingon) - 丰富的命令行选项解析器系统.
@@ -1204,7 +1208,7 @@ Readline、ncurses 和其他图形助手
 * [cl-unix-cybernetics](https://github.com/cl-unix-cybernetics/cl-unix-cybernetics)  （以前是 Adams）- Common Lisp 中的 UNIX 系统管理. 与 Ansible、Chef 或 Puppet 不同.  [ISC][22].
    - 您使用具有属性的资源来描述您的系统（主机）. 然后仅使用远程主机上的 /bin/sh 和控制主机上的 /usr/bin/ssh 来探测和同步属性.
 
-其他脚本实用程序
+Other scripting utilities
 -------------------------
 
 * [WCL](https://github.com/wadehennessey/wcl) [停滞] - 允许数百个 Lisp
@@ -1337,7 +1341,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
    ETC）.  [麻省理工][200].
 * [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect) -
 使用维基百科数据的文本语言识别. 未指定许可证.
-* [cl-phonetic](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT][200].
+* [cl-phonetic](https://github.com/bgutter/cl-phonetic)  - Common Lisp 的语音模式匹配库（旨在取代 Python 的 Sylvia 库）.  [麻省理工][200].
 * [cl-string-generator](https://github.com/pokepay/cl-string-generator)  - 从正则表达式生成字符串.  [麻省理工][200].
 * [trivial-sanitize](https://notabug.org/cage/trivial-sanitize)  - 清理 html 字符串：“ <a>foo</a> ”→“foo”.  [LLGPL][8].
 
@@ -1365,7 +1369,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].
@@ -1656,7 +1660,7 @@ Contributing
   CL 库（参见 Cliki）也没有列出每个
   “流行”库（参见 Quicklisp 统计数据）.
 - 因此，我们最喜欢的库标有 (`1F44D`
-  unicode character). See also the signs' explanation in the
+   unicode字符）. 另见标志的解释
   介绍.
 
 

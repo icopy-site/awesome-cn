@@ -83,13 +83,14 @@
 - [KFAC-JAX](https://raw.githubusercontent.com/deepmind/kfac-jax) - 神经网络近似曲率的二阶优化. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
 - [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - 将函数/图形转换为 JAX 函数. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 - [jwave](https://raw.githubusercontent.com/ucl-bug/jwave) - 可区分声学模拟库 <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
-- [GPJax](https://github.com/thomaspinder/GPJax) - JAX 中的高斯过程.
+- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
 - [Jumanji](https://raw.githubusercontent.com/instadeepai/jumanji) - 一套用 JAX 编写的行业驱动的硬件加速 RL 环境. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 - [Eqxvision](https://raw.githubusercontent.com/paganpasta/eqxvision) - 火炬视觉的 Equinox 版本. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 - [JAXFit](https://raw.githubusercontent.com/dipolar-quantum-gases/jaxfit) - 用于非线性最小二乘问题的加速曲线拟合库（参见 [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 - [econpizza](https://raw.githubusercontent.com/gboehl/econpizza) - 使用 JAX 解决具有异构代理的宏观经济模型. <img src="https://img.shields.io/github/stars/gboehl/econpizza?style=social" align="center">
 - [SPU](https://raw.githubusercontent.com/secretflow/spu) - 特定领域的编译器和运行时套件，用于使用 MPC（安全多方计算）运行 JAX 代码. <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 - [jax-tqdm](https://raw.githubusercontent.com/jeremiecoullon/jax-tqdm) - 添加一个 tqdm 进度条到 JAX 扫描和循环. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
+- [safejax](https://raw.githubusercontent.com/alvarobartt/safejax) - 使用 `safetensors` 序列化 JAX、Flax、Haiku 或 Objax 模型参数. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
 
 <a name="models-and-projects" />
 
