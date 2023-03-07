@@ -93,7 +93,6 @@
 * [HTTP 203](https://developers.google.com/web/shows/http203/) - 在每个节目中，Jake 和 Paul 都会选择 Web 开发领域的一个热门话题，并讨论它的各个方面，同时介绍生活窍门、课程和一些相当诚实的事实.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) - 真实世界系统管理员为真实世界系统管理员制作的播客.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/)  - 主持人 Veronica Belmont 分享在线生活的真实故事，并真实谈论网络的未来.  IRL 是 Mozilla 的原创播客.
-* [JavaScript Air](https://javascriptair.com/) - 关于 JavaScript 的直播播客.
 * [Javascript Jabber](https://devchat.tv/podcasts/js-jabber/) - 关于前端和后端 Javascript 的每周播客讨论.
 * [JS Party](https://changelog.com/jsparty) – JavaScript 和网络的社区庆典
 * [Ladybug Podcast](https://ladybug.dev/) – 一个由女士主持的技术播客，面向所有开发人员，围绕如何开始编码、当前的热门技术、如何获得第一份开发人员工作、冒名顶替综合症、如何编写 CSS 等展开精彩讨论.
@@ -171,7 +170,7 @@
 * [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - HackerSploit 播客旨在教育任何对信息安全、黑客或网络安全感兴趣的人. 
 * [The Hanselminutes podcast](https://hanselminutes.com/) - 开发人员的新鲜空气.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - Laravel 播客为您带来 Laravel 和 PHP 开发新闻和讨论.
-* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Jim Al-Khalili 教授与顶尖科学家谈论他们的生活和工作，找出是什么激发和激励他们，并询问他们的发现可能对人类有什么帮助.
+* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Jim Al-Khalili 教授与顶尖科学家谈论他们的生活和工作，找出启发和激励他们的因素，并询问他们的发现可能对人类有何帮助.
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth 和 Matt Frost 结合他们作为 Web 开发人员数十年的经验来谈论开发人员的生活.
 * [The Manifest](https://manifest.fm) - 一个关于包管理的播客.
 * [The Ship Show](http://theshipshow.com/) - 构建工程、DevOps、发布管理以及介于两者之间的一切！
@@ -257,7 +256,7 @@
 * [Python en español](https://podcast.jcea.es/python/) - 用你的语言编写的 Python
 * [WeDevelopers](http://wedevelopers.com/) - 开发者播客（一些英文剧集/一些英文播客）.
 * [Atareao Podcast](https://www.atareao.es/podcasts) - 关于 Linux、Ubuntu、Android 和开源的播客.
-* [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - 由 Bricolabs 协会组织的创客世界、免费软件和硬件、项目、活动和活动.
+* [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - 由 Bricolabs 协会组织的创客世界、免费软件和硬件、项目、活动和事件.
 * [Davidochobits podcast](https://www.ochobitshacenunbyte.com/category/miscelaneos/) - 自由软件，GNU 和 Linux.
 * [deployando.me](https://deployando.me/) - 面向系统管理员和开发人员的技术播客.
 * [Eduardo Collado](https://www.eduardocollado.com/)  - 网络管理. 人不仅仅生活在托管和网络上.
@@ -344,7 +343,7 @@
 * [Rebuild](http://rebuild.fm/)  - Tatsuhiko Miyagawa 的播客. 谈论技术、软件开发和小工具.
 
 ## In Bahasa Indonesia
-* [Developer Muslim](https://devmuslim.id/) - 一位穆斯林开发者的日志
+* [Developer Muslim](https://devmuslim.id/) - 一位穆斯林开发者的日记
 * [Teman Macet](http://temanmacet.com/) - 关于编程和信息学行业.
 
 ## In Dutch

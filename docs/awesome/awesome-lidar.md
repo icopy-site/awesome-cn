@@ -8,7 +8,7 @@
 
 [LIDAR](https://en.wikipedia.org/wiki/Lidar) 是一种遥感传感器，它使用激光以 ~cm 的精度测量周围环境. 感官数据通常称为点云，表示 3D 或 2D 数据点集. 该列表包含硬件、数据集、点云处理算法、点云框架、模拟器等.
 
-欢迎投稿！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) our guidelines.
+欢迎投稿！ 请 [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) 我们的指导方针.
 
 
 
@@ -20,7 +20,7 @@
 
 ## Manufacturers
 
-- [Velodyne](https://velodynelidar.com/)  - Velodyne 是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
+- [Velodyne](https://velodynelidar.com/)  - Ouster 和 Velodyne 宣布成功完成对等*合并*，自 2023 年 2 月 10 日起生效.Velodyne 是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
 - [Ouster](https://ouster.com/)  - 激光雷达制造商，专注于数字旋转激光雷达.  Ouster 总部位于美国旧金山.
@@ -47,11 +47,11 @@
   - [GitHub organization :octocat:](https://github.com/RoboSense-LiDAR)
 - [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH 是一家汽车行业/环境检测激光扫描仪/激光雷达制造商，总部位于德国汉堡.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/IbeoAutomotive/)
-- [Innoviz](https://innoviz.tech/) - Innoviz technologies / specializes in solid-state LIDARs.
+- [Innoviz](https://innoviz.tech/) - Innoviz technologies / 专注于固态激光雷达.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
 - [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 提供测绘、工业自动化、运输和安全方面的端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
-- [Cepton](https://www.cepton.com/index.html)  - 思普顿（Cepton Technologies, Inc.）/无摩擦和无反光镜设计的先驱，自主研发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
+- [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology. The headquarter is located in San Jose, California, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
 - [Blickfeld](https://www.blickfeld.com/) - Blickfeld 是一家用于自主移动和物联网的固态激光雷达制造商，总部位于德国慕尼黑.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
@@ -74,7 +74,7 @@
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  - 这个数据集是用我们的机器人汽车（当然是人类驾驶模式）收集的，配备了多达 11 个异构传感器，在法国蒙贝利亚尔的市中心（用于长期数据）和郊区（用于环形交叉路口数据）. 根据法国交通规则，车速限制在 50 公里/小时.
-- [NuScenes](https://www.nuscenes.org/) - 用于自动驾驶的公共大型数据集.
+- [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - 由配备激光雷达和摄像头的福特 Fusion 车队收集的公共数据集.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 广泛的公共数据集，主要关注计算机视觉应用，但也包含 LIDAR 点云.
@@ -203,7 +203,7 @@
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976)  - 卡内基梅隆大学的 Peiyun Hu、David Held 和 Deva Ramanan.  IEEE 机器人与自动化快报，2020 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
   - [GitHub repository :octocat:](https://github.com/peiyunh/opcseg)
-- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf)  - 作者：狄峰、拉尔斯·罗森鲍姆、法比安·蒂姆、克劳斯·迪特梅尔. 第 30 届 IEEE 智能汽车研讨会，2019 年.
+- [Leveraging Heteroscedastic Aleatoric Uncertainties for Robust Real-Time LiDAR 3D Object Detection :newspaper:](https://arxiv.org/pdf/1809.05590.pdf)  - Di Feng、Lars Rosenbaum、Fabian Timm、Klaus Dietmayer. 第 30 届 IEEE 智能汽车研讨会，2019 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=2DzH9COLpkU)
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - 胡佩云、Jason Ziglar、David Held、Deva Ramanan，2019 年.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
