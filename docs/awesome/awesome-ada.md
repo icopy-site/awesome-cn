@@ -73,9 +73,9 @@
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) - 一般，中级.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.amazon.com/Ada-Plus-Data-Structures-Oriented/dp/0763737941) - Data Structures.  
-<img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-84882-314-3"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) - Idioms, Architecture.  
+<img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-84882-314-3"> [Ada for Software Engineers](https://link.springer.com/book/10.1007/978-1-84882-314-3) - 成语，建筑.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - 并发、容器、调度.  
-<img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4612-1854-8">[Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95](https://www.springer.com/gp/book/9780387948348) - 数据结构，算法.  
+<img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4612-1854-8">[Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95](https://link.springer.com/book/10.1007/978-1-4612-1854-8) - 数据结构，算法.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - 并发，分布式.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - 形式验证.  
@@ -203,6 +203,7 @@
 - [adawebpack](https://github.com/godunko/adawebpack) - 用于 WASM 的 GNAT RTL 和用于 Web API 的绑定.
 
 [ada-runtime]：https://github.com/Componolit/ada-runtime
+[adawebpack]：https://github.com/godunko/adawebpack
 
 ## OS and Kernels
 - [m2os](https://m2os.unican.es/) - 为小型微控制器提供简单任务支持的 RTOS.
@@ -260,6 +261,7 @@
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 端口到 VTK 8.1（可视化工具包）.
 - [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 绑定到 FLTK（快光工具包）.
  - [ada-gui] - GUI 在它自己的任务上实现，所以它不需要它的客户端放弃控制线程. 源自[gnoga].
+- [adawebui](https://github.com/godunko/adawebui) - 基于 [adawebpack] 的 GUI.
 
 [诺加]：https://sourceforge.net/projects/noga/
 [gtkada]：https://github.com/AdaCore/gtkada
@@ -295,7 +297,7 @@
 - [ews](https://github.com/simonjwright/ews) - Embedded Web Server 是一个 Web 服务器构建工具包，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
 - [matreshka] - Matreshka 是一个用于开发信息系统的 Ada 框架，由五个主要组件组成：联盟、XML 处理器、Web 框架、SQL 访问和建模框架.
 
-[套娃]：http://forge.ada-ru.org/matreshka
+[套娃]：https://github.com/godunko/matreshka
 
 ### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven 是一个用于 Ada 编程的简单单元测试库和框架.
@@ -340,7 +342,7 @@
 ### UML
 - [ada-ml](https://github.com/rocher/AdaML) - Ada 定制的 UML 建模语言.
 - [coldframe](https://github.com/simonjwright/coldframe) - ColdFrame 从 UML 模型生成 Ada 框架代码和文档.
-- [umbrello](https://umbrello.kde.org/)  - 基于 KDE 技术的统一建模语言 (UML) 图表程序. 输出艾达.
+- [umbrello](https://apps.kde.org/es/umbrello/)  - 基于 KDE 技术的统一建模语言 (UML) 图表程序. 输出艾达.
 
 ### Encryption
 - [ada-keystore](https://github.com/stcarrez/ada-keystore) - Ada Keystore - 通过安全存储保护您的敏感数据.
@@ -537,7 +539,7 @@
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
-- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 
 ## Hardware and Embedded
@@ -622,7 +624,6 @@
 - [pascal-to-ada](https://github.com/zertovitch/pascal-to-ada) - Pascal 到 Ada 翻译器.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Tiled 地图编辑器的代码生成器.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Ada 源代码中 Java 有效源代码的翻译器.
-- [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) - Ada2JS 是实验性开源编译器，[matreshka] 的组件.
 - [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  - SofCheck AdaMagic 是经过 ACATS 验证和认证的针对 C 和/或 C++ 的 Ada 编译器（4 个用于微调的命令行开关）.  ObjectAda 和其他几个商业编译器与 AdaMagic 共享引擎.  MapuSoft 将 AdaMagic 作为 AppCOE 的组成部分进行分发.
 - [cappulada](https://github.com/Componolit/Cappulada) - C++ 的 Ada 绑定生成器.
 - [asis2xml](https://github.com/simonjwright/asis2xml) - 将 Ada 源的 ASIS 表示形式转换为 XML，以便更容易地使用（例如）XSLT 开发报告和转换工具.

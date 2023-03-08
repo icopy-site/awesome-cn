@@ -44,7 +44,7 @@
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One 的 PlayCanvas 主题博客.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - 制作简单的基于物理的游戏的教程.
 - [Solar Games Mentorship](https://solargames.io/mentorship/) - 高级 PlayCanvas 培训和指导服务.
-- [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - 简短的 PlayCanvas 教程的 YouTube 播放列表.
 
 ## Extensions and Utilities
 
@@ -152,10 +152,9 @@
 - [BMW i8](http://car.playcanvas.com) - 汽车可视化.
 - [DAB Motors](https://dabmotors.com/configurator/) - 摩托车配置器.
 - [Honda Civic Type R](https://www.honda.co.jp/CIVICTYPE-R/configurator/) - 配置器（日语）.
-- [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - 来自 Visionaries777 的配置器技术演示.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - 摩托车配置器.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - 探索 2020 Infiniti 系列（中文）.
-- [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - 起亚配置器（韩语）.
+- [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - 起亚配置器（韩语）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - 探索起亚最新的汽车系列.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - 汽车可视化.
 - [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - 以 3D 方式探索 Nissan 的 Arriya（日语 - 需要登录）.
@@ -163,7 +162,7 @@
 
 ## Product Configurators
 
-- [3D Plans](https://3dplans.com) - 房地产市场的虚拟旅游和交互式地图.
+- [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - 交互式 3D 家具配置器.
 - [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - 电梯配置器.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.
@@ -194,4 +193,4 @@
 
 ## Contributing
 
-请参阅 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 了解详情.
+请参见 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 了解详情.

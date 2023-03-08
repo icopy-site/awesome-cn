@@ -221,7 +221,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -310,7 +310,6 @@
 * [Testing a Bayesian Measure of Representativeness Using a Large Image Database](https://proceedings.neurips.cc/paper/2011/hash/2c89109d42178de8a367c0228f169bf8-Abstract.html) - ***NeurIPS&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=8576570792794301292&hl=en&as_sdt=0,5)].
 
 * [Constructing a hypothesis space from the Web for large-scale Bayesian word learning](https://cocosci.princeton.edu/tom/papers/abbott_cogsci2012_wordnet.pdf) - ***CogSci&#39;12***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=9266416266046851766&hl=en&as_sdt=0,5)].
-
 
 
 

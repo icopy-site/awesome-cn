@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="dlang-community/awesome-d"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 
   很棒的 D 框架、库和软件的精选列表. 灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
@@ -51,14 +51,14 @@
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - 回答 D 问题的最高访问量站点.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - 流量比论坛少，但可能更容易搜索.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - 如何在 D 中做许多基本事情的例子.
-* [D on Discord](https://discord.gg/bMZk9Q4) - 另一个非常活跃的 D 对话和问题社区.
+* [D on Discord](https://discord.gg/invite/bMZk9Q4) - 另一个非常活跃的 D 对话和问题社区.
 
 ## People
 
 *使 D 成为现在的语言的人.*
 
 * [Walter Bright](https://www.walterbright.com/) - D 之父 Walter Bright 是 D 编程语言的创造者和第一个实现者，并为其他几种语言实现了编译器.
-* [Andrei Alexandrescu, PhD](https://erdani.com/)  - C++ 大师.  *The D Programming Language* 和 *Modern C++ Design* 的作者.  Andrei 与 Walter Bright 共同设计了 D 的许多重要功能，并编写了 D 标准库的大部分内容.  Andrei 是高级 C++ 编程和算法方面的培训师，现在正在组织中积极宣传 D.
+* [Andrei Alexandrescu, PhD](http://erdani.com/)  - C++ 大师.  *The D Programming Language* 和 *Modern C++ Design* 的作者.  Andrei 与 Walter Bright 共同设计了 D 的许多重要功能，并编写了 D 标准库的大部分内容.  Andrei 是高级 C++ 编程和算法方面的培训师，现在正在组织中积极宣传 D.
 * [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
 * **您** - 如果您在 D 中做过一些有趣的事情，请添加您的信息.是您，这些了不起的人让 D 变得很棒. 
 
@@ -76,7 +76,7 @@
 * [DlangScience](https://github.com/DlangScience) - 科学图书馆和 D 工具的焦点和第一停靠港.
 * [Circular Studios](https://github.com/Circular-Studios)  - 我们是罗彻斯特理工学院的一群游戏开发人员，他们致力于构建游戏和游戏技术. 主持 [Dash](https://github.com/Circular-Studios/Dash)，一个用 D 语言编写的 3D 游戏引擎，以及其他相关库.
 * [EMSI](https://github.com/economicmodeling)  - 一家以 D 为主要语言的职业建设公司. 托管他们的开源项目.
-* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
+* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 语言编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数值库开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 总部位于柏林的公司，专门从事在线广告实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 开源了他们代码库的大部分作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日管理的资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了以下项目的开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
@@ -86,7 +86,7 @@
 *D 相关书籍.* 您可以在 [Books](https://wiki.dlang.org/Books) 维基页面.
 * [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* 作者：Andrei Alexandrescu.
 * [Programming in D](https://ddili.org/ders/d.en/index.html)  - Ali Çehreli 撰写的一本关于 D 语言编程的非常详细的书，涵盖了该语言的许多领域. 有免费的在线版本，适合初学者. 
-* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  - 一个包含大量实用任务的食谱参考指南，这些任务得到简明的解释，以开发和拓宽用户使用 D 编程语言的能力. 亚当·D·鲁佩 (Adam D. Ruppe) 着. 这是一个有趣 [review of the book](https://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215)  - 一个包含大量实用任务的食谱参考指南，这些任务得到简明的解释，以开发和拓宽用户使用 D 编程语言的能力. 亚当·D·鲁佩 (Adam D. Ruppe) 着. 这是一个有趣 [review of the book](https://www.cppstories.com/2014/08/review-of-d-cookbook/).
 * [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) - 本书适用于那些具有 C 系列语言背景并希望学习如何将其知识和经验应用到 D 语言的人.(...) 本书将帮助您快速掌握该语言并避免常见的将 C 家族的经验转化为 D 时出现的陷阱.
 * [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - 无论您是 D 世界的新手，还是已经在 D 中开发过应用程序，或者如果您想利用 D 的强大功能进行 Web 开发，那么本书都是您的理想选择.
 
@@ -97,7 +97,7 @@
 * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)  - 专门针对 D 模板的教程. 关于模板的很好的解释. 有pdf版本. 菲利普·西戈德着.
 * [Component programming in D](https://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - Walter Bright 撰写的一篇文章，详细介绍了 D 的功能支持如何导致灵活而美观的组件编程风格.
 * [Component programming with ranges](https://wiki.dlang.org/Component_programming_with_ranges) - 一篇关于如何以惯用的 D 方式使用范围进行组件编程的详细博客文章，以及一个完整的工作示例.
-* [Functional image processing in D](https://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - 关于在 D 中编写图像处理库的非常有趣的教程.展示了 D 的模板/CTFE/Ranges/UFCS 用于函数式编程的强大功能.
+* [Functional image processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/) - 关于在 D 中编写图像处理库的非常有趣的教程.展示了 D 的模板/CTFE/Ranges/UFCS 用于函数式编程的强大功能.
 * [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) - D 中的 OpenGL 教程.
 * [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D 元编程教程系列
 
@@ -241,6 +241,7 @@
 * [libhttp2](https://github.com/etcimon/libhttp2) - D 中的 HTTP/2 库，从 nghttp2 翻译而来
 * [collie](https://github.com/huntlabs/collie) - 一个用dlang编写的异步事件驱动网络框架，类似于D中的netty框架.
 * [dlang-requests](https://github.com/ikod/dlang-requests) - 受 python 请求启发的 HTTP 客户端库
+* [Handy-Httpd](https://github.com/andrewlalis/handy-httpd) - 一个简单、轻量级且文档齐全的 HTTP 服务器，可让您引导想法并在几分钟内启动并运行.
 
 *全栈网络框架.*
 * [Hunt Framework](https://github.com/huntlabs/hunt-framework/)  - Hunt 是一种高级 D 编程语言 Web 框架，它鼓励快速开发和简洁、实用的设计. 它使您可以快速、轻松地构建高性能 Web 应用程序.
@@ -277,7 +278,7 @@
 ### JSON
 
 * [vibe.data.json](https://vibed.org/api/vibe.data.json/)  - Vibe.d 中的 JSON 函数. 目前我使用的最好的实现.
-* [fast.json](https://github.com/mleise/fast) - 一个 D 库，旨在提供一些日常例程的最快实现.
+* [fast.json](https://github.com/etcimon/fast) - 一个 D 库，旨在提供一些日常例程的最快实现.
 * [std.json](https://dlang.org/phobos/std_json.html)  - D 的标准库 JSON 模块. 需要细化.
 * [painlessjson](https://github.com/BlackEdder/painlessjson) - 在 D 类型和 std.json 之间转换.
 * [std.data.json](https://github.com/dlang-community/std_data_json) - JSON 序列化的 Phobos 候选者（基于 Vibed）
@@ -299,7 +300,7 @@
 * [ddb](https://github.com/pszturmaj/ddb)  - D2 的数据库访问. 目前只支持 PostgreSQL.
 * [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [ddbc](https://github.com/buggins/ddbc)  - DDBC 是 D 语言的 DB 连接器（类似于 JDBC）.  HibernateD（见下文）使用 ddbc 进行数据库抽象.
-* [hibernated](https://github.com/buggins/hibernated) - HibernateD 是 D 的 ORM（类似于 [Hibernate](http://hibernate.org/)).
+* [hibernated](https://github.com/buggins/hibernated) - HibernateD 是 D 的 ORM（类似于 [Hibernate](https://hibernate.org/)).
 * [dvorm](https://github.com/rikkimax/Dvorm)  - 支持 Vibe 的 D 的 ORM. 与 vibe.d 和 mysql-d 一起工作，使其能够访问 MongoDB 和 MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/)  - 用于 D 的 Redis 驱动程序.快速、简单、稳定. 没有依赖关系.
 * [libpb](https://github.com/Hax-io/libpb) - 与 PocketBase 数据库交互
@@ -407,13 +408,13 @@
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D 绑定/包装到现代游戏编程库 Allegro 5.
 * [Voxelman](https://github.com/MrSmith33/voxelman) - 基于插件的客户端-服务器体素游戏引擎，用 D 语言编写
 * [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp 是一个用 D 编写的类似 XNA 的框架.
-* [rengfx](https://github.com/xdrie/rengfx) - 轻量级、表现力强、可扩展的 2D/3D 游戏引擎.
+* [rengfx](https://github.com/bmchtech/rengfx) - 轻量级、表现力强、可扩展的 2D/3D 游戏引擎.
 
 ## Games
 
 * [Spacecraft](https://github.com/Ingrater/Spacecraft) - 用 D 2.0 编写的 3d 多人死亡竞赛太空游戏.
 * [Dtanks](https://github.com/kingsleyh/dtanks) - 机器人坦克对战游戏.
-* [Atrium](https://github.com/gecko0307/atrium) - FPS 游戏，使用 OpenGL 的物理拼图.
+* [Electronvolt (formerly Atrium)](https://github.com/gecko0307/electronvolt) - FPS 游戏，使用 OpenGL 的物理拼图.
 * [Backgammony](https://github.com/jonathanballs/backgammony) - 使用 Gtk 构建的适用于 Linux 的西洋双陆棋 GUI.
 
 ## Internationalization
@@ -429,7 +430,7 @@
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev 的 ae 库有一个函数式图像处理包，在文章中有描述 [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 * [Blogsort](https://bitbucket.org/infognition/bsort/) - 一个简单的 Windows 应用程序，用于查看照片并为博客做准备.
 * [dlib.image](https://github.com/gecko0307/dlib) - 图像处理（每通道 8 位和 16 位、浮点运算、过滤、FFT、HDRI、图形格式支持包括 JPEG 和 PNG）
-* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - 基本颜色结构、HSL 函数和读写图像文件
+* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 * [opencvd](https://github.com/aferust/opencvd) - D 的非官方 OpenCV 绑定
 
 ## End-user applications
@@ -455,7 +456,7 @@
 
 * [scid](https://github.com/DlangScience/scid) - D 编程语言的科学图书馆
 * [dstats](https://github.com/DlangScience/dstats) - D 的统计库. 
-* [mir](https://github.com/libmir/mir) - 一些 mir 包的沙盒：稀疏张量、霍夫曼等.
+* [mir](https://github.com/libmir/mir) - 一些 mir 包的沙箱：稀疏张量、霍夫曼等.
 * [mir-algorithm](https://github.com/libmir/mir) - N 维数组（矩阵、张量）、算法、通用库.
 * [mir-random](https://github.com/libmir/mir-random) - 高级随机数生成器.
 * [decimals](https://github.com/rumbu13/decimal) - D 的十进制库.
@@ -473,7 +474,7 @@
 *小心打印.*
 
 - [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos 即将推出的标准日志记录工具
-- [dlogg](https://github.com/NCrashed/dlogg) - 使用延迟和延迟日志记录并发应用程序和守护进程的日志记录， [logrotate](https://linux.die.net/man/8/logrotate) 支持.
+- [dlogg](https://github.com/NCrashed/dlogg) - 使用惰性和延迟日志记录并发应用程序和守护进程的日志记录， [logrotate](https://linux.die.net/man/8/logrotate) 支持.
 
 ## Configuration
 *解析配置文件*

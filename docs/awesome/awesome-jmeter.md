@@ -43,7 +43,7 @@
 - [JMeter Tutorial](https://artoftesting.com/jmeter-tutorial) - 通过 ArtOfTesting.
 - 使用 JMeter 进行负载测试： [part 1](https://lincolnloop.com/insights/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/insights/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/insights/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - 布兰登·康克尔 (Brandon Konkle).
 - [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - 德扬·卢坎 (Dejan Lukan).
-- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - 通过教程点.
+- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - By Tutorials Point.
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - 丹尼尔·古铁雷斯·迪兹 (Daniel Gutierrez Diez).
 - [JMeter: Load Development Lifecycle](https://datacadamia.com/jmeter/lifecycle) - 通过 DataCadamia.
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - 作者：Mitchell Anicas @ DigitalOcean.
@@ -147,6 +147,7 @@
     - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
     - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
     - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
+    - [jmeter-ecs](https://github.com/smithmicro/jmeter-ecs) - 用于在 EC2 容器服务 (ECS) 上进行分布式测试的 JMeter docker 图像.
   - 数字海洋
     - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - 使用 DigitalOcean、JMeter 和 Docker 构建您自己的 JMeter Cloud.
   - 微软Azure
@@ -179,7 +180,7 @@
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - 基于 Web 的应用程序，用于整理、分析和报告 JMeter 测试结果.
 - 数据库结果收集器
   - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - 启用将结果记录到数据库中以进行更有效报告的插件.
-  - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
+  - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - 配置侦听器以登录 MySQL 数据库的补丁.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - 基于 JAMon 的 JMeter HTML 报告生成器.
 
 ### Reporting & Visualization
@@ -197,7 +198,7 @@
     - [JMeter (via prometheus exporter)](https://grafana.com/grafana/dashboards/2492-jmeter/) - Grafana 仪表板，用于通过 Prometheus 导出器（由 chiabre）检查 JMeter 指标.
   - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) - JMeter 插件，用于将负载测试数据即时写入 InfluxDB.
   - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - 从 csv 文件读取 JMeter 结果并放入 InfluxDB 数据库.
-- 麋鹿栈
+- 麋鹿堆栈
   - [Using ELK](https://ecmarchitect.com/archives/2014/09/09/3932) - 使用 Elasticsearch、Logstash 和 Kibana 可视化 JMeter 测试结果.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - 使用 ElasticSearch 后端监听器和 Grafana/Kibana 实时监控结果.
   - [jmeter-logstash](https://github.com/anasoid/jmeter-logstash) - 实时或在测试结束后使用 Docker 和 Logstash 解析 JTL 结果，并将数据发送到 Elasticsearch 或 InfluxDb，以获得漂亮的仪表板并比较不同的测试.
@@ -320,7 +321,7 @@
 
 <!--lint ignore double-link-->
 - [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - Emily H. Halili ([Packt Publishing](https://www.packtpub.com/product/apache-jmeter/9781847192950)).
-- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
+- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842) ); 使用 Apache JMeter 测试 Web 应用程序的指南，其中包含实际操作示例.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-second-edition/9781784394813)).
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
 - [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ); 帮助成功使用 Apache JMeter 的 70 个有见地且实用的秘诀.
@@ -343,7 +344,7 @@
 
 ## Videos
 
-- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - 通过自动化一步一步.
+- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
 - [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - 通过 QAInsights.
 - [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - 作者 xavki :fr:.
 
