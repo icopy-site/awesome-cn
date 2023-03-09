@@ -10,7 +10,7 @@
 <br/><br/>
 
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)、无人机、CNC、服务器、游戏机和咖啡机.
+> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
 &gt; Ada 可以说是最{<b>性能</b>∩<b>能力</b>∩<b>精确</b>∩<b>可读</b>∩<b>成熟</b>}的编程语言.
 &gt; 艾达活灵活现！
 >
@@ -79,7 +79,7 @@
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - 并发，分布式.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - 形式验证.  
-<img height="50px" width="36px" hspace="10px" src="https://assets.lulu.com/cover_thumbs/1/e/1erpwvkr-front-shortedge-384.jpg">[Ada and SPARK on ARM Cortex-M](http://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - 嵌入式.  
+<img height="50px" width="36px" hspace="10px" src="https://assets.lulu.com/cover_thumbs/1/e/1erpwvkr-front-shortedge-384.jpg">[Ada and SPARK on ARM Cortex-M](https://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - 嵌入式.  
 
 ### Specialties
 - [gems](https://www.adacore.com/gems/) - 艾达宝石档案.
@@ -97,7 +97,7 @@
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) -Reddit 上的 Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 上的 Ada.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
@@ -134,7 +134,7 @@
 
 #### GPL (with linking exception)
 
-- [fsf-gnat](http://www.getadanow.com/)  - Ada 编程语言的自由软件基金会编译器，构成 GNU 编译器集合的一部分. 它支持该语言的所有版本，即 Ada 2012、Ada 2005、Ada 95 和 Ada 83.
+- [fsf-gnat](https://www.getadanow.com/)  - Ada 编程语言的自由软件基金会编译器，构成 GNU 编译器集合的一部分. 它支持该语言的所有版本，即 Ada 2012、Ada 2005、Ada 95 和 Ada 83.
 
 #### MIT
 
@@ -151,7 +151,7 @@
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) - PTC ObjectAda 是一个广泛的原生和交叉开发工具及运行时环境系列.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) - PTC ApexAda 是业界最受欢迎的 Ada 和混合 Ada/C/C++ 应用程序开发环境之一.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) - Green Hills Software 为实时目标提供业界首个经过全面验证的 Ada 交叉编译器系列.
-- [xgc](http://www.xgc.com/)  - XGC 提供基于 GCC 的裸机工具链，支持 Ada95 以支持航空航天特定目标，例如 MIL1750、ERC32 和 LEON. 以及遗留的 M68000 工具链.
+- [xgc](https://www.xgc.com/)  - XGC 提供基于 GCC 的裸机工具链，支持 Ada95 以支持航空航天特定目标，例如 MIL1750、ERC32 和 LEON. 以及遗留的 M68000 工具链.
 
 ### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) - 基于 CodingGround 引擎构建的在线编译器.
@@ -161,17 +161,17 @@
 ## Edit
 
 ### Integrated Development Editors
-<img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"/> [The GNAT Programming Studio](https://raw.githubusercontent.com/AdaCore/gps)
+<img width="120px" hspace="10px" src="https://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"/> [The GNAT Programming Studio](https://raw.githubusercontent.com/AdaCore/gps)
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Visual Studio 2017 的 Ada 语言集成.
 
 ### Editors
 - [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供一个简单的、类似于脚本世界的“外观和感觉”，同时允许访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
 
 ### Text Modes
-- [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源代码的 Gnu Emacs 主要模式.
+- [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源代码的 Gnu Emacs 主要模式.
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - 维护的 Ada Bundle：完整的 Ada-Mode for Vim/NeoVim.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate 支持 Ada.
-- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
+- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit 支持 Ada.
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK 对 org-babel 的支持：使用 Gnu Emacs 和 org 文件评估源代码块.
 
 ### VSCode Extensions
@@ -232,7 +232,7 @@
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - 探雷器：无需猜测的探雷游戏.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 畅玩 2048！ 是流行的 2048 游戏的克隆，在 Ada 中使用 [asfml] 用于图形和 [ada-toml] 用于保存状态.
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果应用程序.
- - [civ-klon] - 文明风格的回合制策略游戏. 需要 [asfml].
+- [civ-klon] - Civilization-style turn-based strategy game. Requires [asfml].
 
 [civ-klon]: https://github.com/HonkiTonk/Civ-Klon
 
@@ -270,7 +270,7 @@
 ### Terminal User Interface
 
 - [curses](https://github.com/annexi-strayline/Curses) - 高级 UNIX 终端用户界面 Ada 绑定包.
-- [ncurses-ada95](http://invisible-island.net/ncurses/ncurses-Ada95.html) - ncurses 的 Ada95 绑定.
+- [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - ncurses 的 Ada95 绑定.
 - [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - 绑定到 Linenoise 行编辑库（修补以支持 UTF-8）.
 
 ### 3D
@@ -302,7 +302,7 @@
 ### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven 是一个用于 Ada 编程的简单单元测试库和框架.
 语言. 它大致仿照 JUnit 和 AUnit 的一些想法.
-- [aunit](http://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
+- [aunit](https://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.
 
@@ -326,7 +326,7 @@
 
 ### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage 是一种分析和报告程序覆盖率的工具.
-- [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada 构建 lint 工具.
+- [adacontrol](https://www.adalog.fr/en/adacontrol.html) - Ada 构建 lint 工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) - SPARK 形式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) - 为 GCC 定制的 Ada 一致性评估测试套件.
 - [acats-grading](https://github.com/simonjwright/ACATS-grading) - 为 ACATS 结果分级的工具，针对类 Unix 系统进行了修改.
@@ -373,7 +373,7 @@
 - [sl3p](https://github.com/jklmnn/sl3p) - 简单第 3 层协议.
 - [smart-pointers](https://github.com/alire-project/smart_pointers) - 提供引用计数访问类型 Smart_Pointer 的包.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Ada 中的匈牙利算法实现.
-- [sal](http://www.stephe-leake.org/ada/sal.html) - SAL（Stephe 的 Ada 库）.
+- [sal](https://www.stephe-leake.org/ada/sal.html) - SAL（Stephe 的 Ada 库）.
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda：无锁数据结构和算法的 Ada 库.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - 一套 Ada 2012 泛型，用于促进多核系统的迭代和递归并行.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend 是一个存储池，具有 Ada 2012、Ada 2005 和 Ada 95 的子池功能.
@@ -421,7 +421,7 @@
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于 Ada 代码解析和语义分析的库. 它意味着作为集成到其他工具（IDE、静态分析器等）中的构建块.
 - [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 扫描器和解析器生成器.
-- [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken 是 LALR、LR1 和 Packrat 解析器生成器和运行时.
+- [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - WisiToken 是 LALR、LR1 和 Packrat 解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - Ada 代码分析器.
 - [anagram](https://github.com/reznikmm/anagram) - 语法处理和解析器生成 Ada 库.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) - Ada 的漂亮打印库.
@@ -503,7 +503,7 @@
 - [oto](https://github.com/darkestkhan/oto) - Ada 绑定到 OpenAL，它在使用 Ada 类型时试图模仿原始 API.
 - [coreland-openal-ada] - 有与 OpenAL 的绑定
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
-- [scala](http://www.huygens-fokker.org/scala) - Scala 是一款功能强大的软件工具，用于实验音乐调音，例如纯音调音阶、平均和历史音律、微调和大调音阶以及非西方音阶.
+- [scala](https://www.huygens-fokker.org/scala) - Scala 是一款功能强大的软件工具，用于实验音乐调音，例如纯音调音阶、平均和历史音律、微调和大调音阶以及非西方音阶.
 - [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - 用于 Ada 应用程序的 linux 声音播放包，可以异步启动和停止音乐循环，以及启动瞬态声音.
 
 [coreland-openal-ada]：https://github.com/io7m/coreland-openal-ada
@@ -539,7 +539,7 @@
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
-- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 
 ## Hardware and Embedded
@@ -596,7 +596,7 @@
 - [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - Trash Finder 是一个邮件过滤器，作为邮件服务器的插件运行，提供数十种标准的过滤以及已知正常邮件的管理.
 
 ### Web
-- [ironsides](http://ironsides.martincarlisle.com) - 由 SPARK/Ada 验证的权威 DNS 服务器.
+- [ironsides](https://ironsides.martincarlisle.com) - 由 SPARK/Ada 验证的权威 DNS 服务器.
 - [wasabee](https://github.com/zertovitch/wasabee) - 以安全为重点的网络浏览器.
 - [yass](https://github.com/yet-another-static-site-generator/yass) - 另一个静态站点生成器（如 Jekyll 或 Hugo）.
 
@@ -629,7 +629,7 @@
 - [asis2xml](https://github.com/simonjwright/asis2xml) - 将 Ada 源的 ASIS 表示形式转换为 XML，以便更容易地使用（例如）XSLT 开发报告和转换工具.
 
 ### Shells, Interpreters and Emulators
-- [sparforte](http://sparforte.com/)  - SPARforte 编程语言是一种类似 Ada 的脚本语言，以前称为业务用户 shell (bush). 可以用作交互式 UNIX shell 的替代品.
+- [sparforte](https://sparforte.com/)  - SPARforte 编程语言是一种类似 Ada 的脚本语言，以前称为业务用户 shell (bush). 可以用作交互式 UNIX shell 的替代品.
 - [gsh](https://github.com/AdaCore/gsh)  - GSH 是适用于 Windows 的非交互式 POSIX shell，旨在构建 GNU 软件. 比 Cygwin 快 2-3 倍.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell 是一种简单的可嵌入脚本语言，是 GNATCOLL Core 的一部分.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - Charles Babbage 分析引擎的 Ada 2012 仿真.
@@ -649,11 +649,11 @@
 - [ada-chess] - 用 Ada 编写的国际象棋引擎.
 
 [whitakers-words]：https://github.com/mk270/whitakers-words
-[ada-国际象棋]：http://www.adachess.com/
+[ada-chess]: https://www.adachess.com/
 
 ## Bindings
 
-- [pcsc-ada](http://www.codelabs.ch/pcscada)  - PCSC/Ada 提供到 PC/SC 中间件的厚 Ada 绑定. 该库允许用 Ada 编写的程序使用 SCard API 与智能卡通信.
+- [pcsc-ada](https://www.codelabs.ch/pcscada)  - PCSC/Ada 提供到 PC/SC 中间件的厚 Ada 绑定. 该库允许用 Ada 编写的程序使用 SCard API 与智能卡通信.
 - [areadline](https://github.com/samueltardieu/areadline) - readline 库的 Ada 接口.
 - [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) - 使用 [gtkada] 实现 Turbo Pascal 7.0 单元.
 - [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - 使用 [gnoga] 实现 Turbo Pascal 7.0 单元.
@@ -668,4 +668,4 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -100,7 +100,7 @@
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
-- [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
+- [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和优秀的设计相关内容来自最好的 subreddits.
@@ -166,6 +166,7 @@
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) . 最佳 iOS 开发、营销、Swift、设计和 Xcode 链接.
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) . 每周精选时事通讯，其中包含精选的最新链接、视频、工具和教程，供有兴趣使用 Swift 设计和开发自己的 iOS、macOS、watchOS 和 tvOS 应用程序的人们使用.
 - [iOS Dev Tools Newsletter](https://iosdev.tools/) .  iOS 开发者的最佳工具，每周更新.
+- [Indie Watch](https://indie.watch/) . 每周采访成功的 iOS 和 macOS 开发人员，了解可用于创建盈利的独立应用程序的策略和技巧. 
 
 ### Go
 
@@ -202,14 +203,14 @@
 ### Python
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周时事通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
-- [Weekly Python Newsletter](https://importpython.com/newsletter/) . 包含 Python 文章、项目、视频、推文的每周 Python 时事通讯已发送到您的收件箱. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) . 免费的每周电子邮件时事通讯，每周五为那些对 python 开发和 python 各种主题感兴趣的人提供.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 最流行的 Python 新闻、文章和包的每周概览.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
+- [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/) . 每周一个 Python 技巧，周三发送.
 
 ### Groovy
 
-- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) . 最新发布、有趣的文章、访谈、演示文稿、相关推文或 Google+ 帖子、播客或截屏视频的链接、代码片段、书籍、即将举行的活动等等.
+- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) . 最新发布、有趣的文章、访谈、演示文稿、相关推文或 Google+ 帖子、播客或截屏视频的链接、代码片段、书籍、即将举行的活动等.
 
 ### Perl
 
@@ -383,7 +384,7 @@
 ## Marketing
 
 - [tldrMarketing](https://tldrmarketing.com) . 轻松获取有关数字营销的最新突发新闻和趋势.
-- [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
+- [Zero to Marketing](https://zerotomarketing.com/) . 每周一封电子邮件，其中包含 5 分钟的案例研究和可操作的提示.
 - [The Content Odyssey](https://newsletter.mktodyssey.com/) . 每两周进行一次久经考验的内容增长实验.
 
 ## Business/Finance
@@ -392,7 +393,7 @@
 - [The Pricing Newsletter](https://taprun.com/newsletter/) . 问答、课程和新闻文章，帮助初创企业和企业主了解如何实施定价策略.
 - [FBA monthly](https://www.fbamonthly.com/) .  FBA Monthly 是本月有关亚马逊业务的最重要新闻文章和博客文章的全面摘要. 只有实际新闻、解决方案、策略、卖家对卖家的提示等等.
 - [Capital minded](https://capitalminded.com) . 关于驾驭指数基金时代、了解经济和破解资本主义的每周情报简报.
-- [AngelList Weekly](https://angel.co/newsletters). The best of the startup world, curated weekly.
+- [AngelList Weekly](https://angel.co/newsletters) . 每周精选创业界的精华.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
 - [Unvalidated Ideas](https://unvalidatedideas.com) . 您每周都可以提出并进行市场验证的新创业和 SaaS 创意.
 
@@ -412,7 +413,7 @@
 - [HN Mail](https://hnmail.io) . 可定制的每周时事通讯，根据您的兴趣提供 Hacker News 故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师心态的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周一次的时事通讯，其中包含与机器人技术相关的新闻、项目和研究.
-- [Future Crunch](https://futurecrunch.com) . 每两周一次的时事通讯，包含您在科学、环境和世界各地听不到的所有好消息. 你可以看到他们的好消息 [here](https://futurecrun.ch/goodnews).
+- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
 
 ## Resilience
 
@@ -429,20 +430,20 @@
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，内容包括精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
+- [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，其中包含精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简报，包含 WebRTC 上的所有最新消息和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络声音感兴趣的人们提供的每周时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
 - [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 - [Changelog Nightly](https://changelog.com/nightly) . 每晚 10 点 CT 发送一封电子邮件，发掘 GitHub 上最热门的新存储库.
-- [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
+- [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) .  Linux 内核邮件列表线程的每周综述，但带有更多讽刺意味.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中选择了一个订阅者，该订阅者的电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业精选的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳 Reddit 帖子的有关创业、成长、投资和初创公司的前沿新闻.
-- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
+- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的工作人员提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、用户界面/用户体验、工作/职业以及与开发人员和行业相关的任何方面的最新信息.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.

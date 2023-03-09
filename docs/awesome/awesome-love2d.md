@@ -68,6 +68,7 @@
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - 使用 TypeScript 编写 LÖVE 游戏.
 * [lovelier](https://github.com/patrixr/lovelier) - 支持 Moonscript 的 LÖVE 实时加载器.
 * [loveprofiler](https://github.com/dknight/loveprofiler) - LoveProfiler 是一个极其简单的记录器和分析器.
+* [vudu](https://github.com/deltadaedalus/vudu) - 广泛的游戏内调试图形用户界面，带有控制台、可变浏览器/编辑器、速度控制等.
 
 ## Drawing
 *绘制特定库，简化绘图过程*
@@ -97,7 +98,7 @@
 * [Concord](https://github.com/Tjakka5/Concord) - 功能齐全的 ECS 库.
 * [ecs-lua](https://github.com/nidorx/ecs-lua) - ECS Lua 是一种用于游戏开发的快速且易于使用的 ECS（实体组件系统）引擎.
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - 极简功能型 ECS.
-* [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management.
+* [nata](https://github.com/tesselode/nata) - 混合 OOP/ECS 实体管理.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - 简单、灵活且有用的 Lua 实体组件系统.
 
 ## Helpers
@@ -112,7 +113,7 @@
 * [iffy](https://github.com/YoungNeer/iffy) - LÖVE 的 SpriteSheet 和 Tileset 帮助程序库.
 * [knife](https://github.com/airstruck/knife) - 为 Lua 收集有用的微模块（类、状态机、绑定、链、协程、事件、记忆、实体、测试、计时器）.
 * [shard](https://github.com/MineGame159/shard) - 有用的迷你模块的集合.
-* [lovely-windows](https://github.com/flamendless/lovely-windows) - 用于虚拟窗口的窗口/屏幕管理器模块.
+* [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - Lua LÖVE 引擎的状态切换器类.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua 有限状态机.
 * [lue](https://github.com/Ulydev/lue) - Lue 是一个 LÖVE 库，可让您在游戏中显示色调颜色效果.
@@ -146,7 +147,7 @@
 * [lighter](https://github.com/speakk/lighter) - 具有简单 API 的高性能动态光实现.
 * [Shädows](https://github.com/matiasah/shadows) - LÖVE 的 Shadows &amp; Lights 引擎.
 * [Light World](https://github.com/tanema/light_world.lua) - 照明模型.
-* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - 一个非常简单的光线投射灯实现.
+* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation.
 * [Light](https://github.com/xiejiangzhi/light) - 一个简单的动态光实现.
 
 ## Math
@@ -228,10 +229,10 @@
 ## Serialization
 *保存游戏和存储库*
 
-* [arson](https://github.com/flamendless/arson.lua) - 用于注册可由 json.lua 编码和解码的自定义数据类型的配套库.
+* [arson](https://github.com/flamendless/arson.lua) - Companion library for registering custom data types that can be encoded and decoded by json.lua.
 * [binser](https://github.com/bakpakin/binser) - 可定制的 Lua 序列化程序.
 * [bitser](https://github.com/gvx/bitser) - 使用 LuaJIT 序列化和反序列化 Lua 值.
-* [cdata](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI.
+* [cdata](https://github.com/excessive/cdata) - 使用 LuaJIT 的 FFI 在 Lua 数据和 C 数据之间序列化.
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - 将数据序列化为 Lua 脚本.
 * [Lady](https://github.com/gvx/Lady)  - 保存和加载存档游戏； 基于Ser.
 * [moonblob](https://github.com/megagrump/moonblob) - 二进制序列化和数据解析库.
@@ -253,7 +254,7 @@
 * [busted](https://github.com/Olivine-Labs/busted) - 具有可定制断言的简单单元测试框架.
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - 无夹具测试框架.
 * [Luassert](https://github.com/Olivine-Labs/luassert) - 使用额外的、可定制的测试扩展 `assert()`.
-* [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework.
+* [Lunatest](https://github.com/silentbicycle/lunatest) - xUnit 风格的随机单元测试框架.
 * [lust](https://github.com/bjornbytes/lust) - 最小的测试框架.
 * [Specl](http://gvvaughan.github.io/specl/) - 行为驱动开发 (BDD) 工具.
 * [Telescope](http://norman.github.io/telescope/) - 高度可定制的 BDD 风格的测试库.
