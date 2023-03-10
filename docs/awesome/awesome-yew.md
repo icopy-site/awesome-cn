@@ -52,7 +52,7 @@
 - [note-to-yew](https://github.com/oovm/note-to-yew) - 在线将您的标记转换为 Yew 宏，这也是由 Yew 制作的.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 可配置的 Hangman 游戏，适用于具有 ASCII 艺术奖励的儿童.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用 Yew，Rust 支持后端 API.
-- [wasm-2048](https://github.com/dev-family/wasm-2048) - 用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
+- [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我的个人网站通过 Yew/Wasm 用 Rust 编写.
 - [KeyPress](https://github.com/rayylee/keypress) - 为中文练习英语的 Rust WebAssembly 网站示例.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - 一个 Rust WebAssembly [Webapp](http://118.190.37.169:8002) 示例基于 Yew 最新的 hooks 和函数式 API，代码风格非常像 React Function Component.
@@ -87,6 +87,8 @@
 - [live-ask.com](https://github.com/liveask/liveask) - 实时活动/聚会问答平台. [Live at live-ask.com](https://live-ask.com).
 - [Sumi](https://github.com/vgwidt/sumi) - 使用 Yew &amp; Actix 构建的多用户问题跟踪和知识库应用程序.
 - [hurlurl](https://github.com/lucasmerlin/hurlurl) - 随机链接缩短器， [Live Demo](https://hurlurl.com/).
+- [Macige](https://github.com/tramlinehq/macige) - 用于移动应用程序开发的 CI 工作流生成器， [Live Demo](https://macige.tramline.app).
+
 
 ## Templates
 
@@ -111,7 +113,7 @@
 - [material-yew](https://github.com/hamza1311/material-yew) - 用于 Material Web Components 的 Yew 包装器.
 - [Yewprint](https://github.com/yewprint/yewprint) - blueprintjs.com 到 Yew 的端口.
 - [ybc](https://github.com/thedodd/ybc) - 基于 Bulma CSS 框架的 Yew 组件库.
-- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Yew 的 Patternfly 组件.
+- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 - [yew-feather](https://github.com/pedrodesu/yew-feather) - Yew 的羽毛图标组件.
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder)  - 使用 docker-compose 为 Yew 构建 Tailwind CSS. 还支持中继.
 - [yew-components](https://github.com/angular-rust/yew-components) - Yew 框架的材料设计组件.
@@ -143,7 +145,7 @@
 
 - [Yewdux](https://github.com/intendednull/yewdux) - Yew 应用程序的类似 Redux 的状态容器.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于样式组件，但适用于 Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.

@@ -151,7 +151,7 @@
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到 JupyterLab 中变量或函数定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google 云端硬盘集成扩展.
 - [jupyter-fs](https://github.com/jpmorganchase/jupyter-fs) - 用于 Jupyter 中多个后端的类似文件系统的内容管理器.
-- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔法.<!--lint disable double-link-->
+- [jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器单元格完成通知的单元格魔术.<!--lint disable double-link-->
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
@@ -215,7 +215,8 @@
 - [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - 在谷歌云平台上配置了支持 GPU 的机器学习框架的托管 JupyterLab 笔记本实例.
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - 使用 Google Cloud Dataproc 的 Apache Spark 的 Jupyter 和 JupyterLab.
 - [Google Colaboratory](https://colab.research.google.com) - 基于云的 Jupyter 环境，旨在机器学习教育和研究.<!--lint disable double-link-->
-- [Kyso](https://kyso.io) - 数据科学平台，用于发布和共享 Jupyter 笔记本作为数据博客和 Web 应用程序.<!--lint enable double-link-->
+- [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.  <!--lint enable double-link-->
+- [Mineo.app](https://mineo.app) - 具有 Jupyter 兼容笔记本的 Data Ops 平台，无代码块，并支持创建仪表板.
 - [Naas](https://naas.ai) - 具有神奇调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与维基媒体 wiki 交互而定制的 Jupyter 笔记本部署.
@@ -232,7 +233,7 @@
 
 ## Community Resources
 
-- Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)

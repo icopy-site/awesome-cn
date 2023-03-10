@@ -44,7 +44,7 @@
 
 虽然并非绝对必要，但拥有编程语言是成为数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，其应用领域非常广泛.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
 
- Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
+ Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
 
 与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
@@ -53,7 +53,7 @@
 ## Real World
 **[`^        back to top        ^`](#awesome-data-science)**
 
-数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界中的问题.
+数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界的问题.
 
 ### Disaster
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -100,6 +100,7 @@
 - [Kaggle](https://www.kaggle.com/learn) - 了解数据科学、机器学习、Python 等
 - [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - 了解如何监控和根本原因生产 ML 问题.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - 使用 W&amp;B 构建端到端机器的免费课程和认证
+- [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - 使用最强大的编程语言之一 Python 开始您的机器学习之旅.
 
 ### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -195,7 +196,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 套袋
+  - 装袋
   - 随机森林
   -AdaBoost
 
@@ -404,7 +405,7 @@
 | [Tidyverse](https://www.tidyverse.org/)  | 是专为数据科学设计的 R 包的自以为是的集合. 所有包都共享一个基本的设计理念、语法和数据结构.  |
 | [RStudio](https://www.rstudio.com)  |  IDE – R 的强大用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
-| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形 |
+| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫GUI |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 中的机器学习 |
 | [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
@@ -416,7 +417,7 @@
 | [Variance](https://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
 | [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可，版本 2.0），或简称为 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
 | [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
-| [Apache Flink](https://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
+| [Apache Flink](https://flink.apache.org/)  | 用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
 | [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.（免费 Matlab）|
@@ -972,6 +973,7 @@
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
+- [IBB Open Portal](https://data.ibb.gov.tr/en/)
 
 ### Comics
 **[`^        back to top        ^`](#awesome-data-science)**

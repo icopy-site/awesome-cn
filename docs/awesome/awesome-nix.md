@@ -70,6 +70,7 @@
 
 * [alejandra](https://github.com/kamadorueda/alejandra) - 针对速度和一致性进行了优化的固执己见的 Nix 代码格式化程序.
 * [comma](https://github.com/nix-community/comma)  - 快速运行任何二进制文件； 将 `nix run` 和 `nix-index` 包装在一起.
+* [deadnix](https://github.com/astro/deadnix) - 扫描 Nix 文件中的死代码.
 * [manix](https://github.com/mlvzk/manix) - 查找 Nixpkgs、NixOS 和 Home Manager 的配置选项和功能文档.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) -nixpkgs 的 Nix 代码格式化程序.
@@ -165,6 +166,7 @@
 ### Ruby
 
 * [Bundix](https://github.com/nix-community/bundix) - 为您的 Bundler 管理的应用程序生成一个 Nix 表达式.
+* [ruby-nix](https://github.com/sagittaros/ruby-nix) - 使用 Nix 生成可重现的 ruby​​/bundler 应用程序环境.
 
 ### Rust
 

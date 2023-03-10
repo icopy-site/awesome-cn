@@ -39,10 +39,10 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Wallets
 
-&gt; Algorand 钱包提供商列表.
+ &gt; Algorand 钱包提供商列表. 请注意，此列表并非详尽无遗，也不代表任何钱包提供商的背书.
+&gt; ⚠️鉴于 [attacks](https://twitter.com/myalgo_/status/1632862464244162560) 对于 MyAlgo 钱包用户，相关 sdk 已被排除在列表之外.
 
 - [Pera Wallet](https://github.com/perawallet)  - 适用于移动和桌面设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
-- [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - 用于在浏览器中签署交易的网络钱包和 JS 库.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件网络钱包和 JS 库，用于在浏览器中签署交易.
 - [Method Wallet](https://methodwallet.app/) - 您会喜欢的 Algorand 钱包.
 - [Defly Wallet](https://defly.app/) - Defly 是一款 Algorand 钱包，具有出色的集成 DeFi 功能.
@@ -61,7 +61,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
 - [Bitquery](https://explorer.bitquery.io/algorand)  - 适用于 30 多个区块链的可操作、有洞察力的区块链 GraphQL API. 突出显示的功能之一是能够查询 Algorand 区块提议者列表.
 
 ## Portfolio Trackers
@@ -79,7 +79,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -269,7 +269,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
  &gt; Algorand 上很棒的 DeFi 平台和协议. 请注意，此列表并非旨在推广任何特定项目，而是提供对生态系统的全面概述. 在投资或使用此处列出的任何项目之前，请自行研究.
 
-- [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
+- [Yieldly](https://yieldly.finance/) - 用于跨链交换、ASA 质押和彩票游戏的 DeFI 套件.
 - [Tinyman](https://tinyman.org/) - 去中心化交易协议、AMM 和平台.
 - [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
 - [Pact](https://www.pact.fi/) - 基于 Algorand 协议构建的去中心化自动做市商 (AMM).

@@ -19,7 +19,7 @@
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 宣布发布 DALL·E 2，这是一种先进的图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 
 ## Text
@@ -34,6 +34,7 @@
 - [ChatGPT](https://chat.openai.com/chat) - OpenAI 的 ChatGPT 是一种以对话方式进行交互的大型语言模型.
 - [Bing Chat](https://www.bing.com/chat) - 由 Microsoft Bing 提供支持的对​​话式 AI 语言模型.
 - [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
+- [ChatPDF](https://www.chatpdf.com/) - 与任何 PDF 聊天.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - 人工智能驱动的搜索工具.
