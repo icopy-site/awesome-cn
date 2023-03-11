@@ -23,7 +23,9 @@
 * [`<qr-code>`](https://github.com/bitjson/qr-code)  – 无框架、无依赖、可定制、可动画、基于 SVG 的`<qr-code>  ` 网络组件.
 
 ## Blockchain API and Web services
+* [3xpl.com](https://3xpl.com/) - 最快的无广告通用区块浏览器.
 * [block.io](https://block.io)
+* [blockchair.com](https://blockchair.com/) - 通用区块链浏览器和搜索引擎.
 * [BlockCypher](https://www.blockcypher.com)
 * [Esplora](https://github.com/Blockstream/esplora) - 自托管区块链浏览器.
 * [Gem.co](https://gem.co)
