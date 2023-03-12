@@ -5,7 +5,7 @@
 
 精选的开发人员优先产品列表.  
 我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
-你可以关注我 [Twitter](https://twitter.com/agammore) 获取更多与开发相关的内容:) 
+你可以关注我 [Twitter](https://twitter.com/agammore) 更多与开发相关的内容:) 
 
 这个 repo 的 developer-first 的定义是：
 * 开发人员是目标受众.
@@ -111,6 +111,7 @@
 
 ## Documentation
 *文档解决方案.*
+* [Bump.sh](https://bump.sh/) - API 文档和变更管理解决方案.
 * [DeveloperHub](https://developerhub.io/) - 协作开发人员文档平台.
 * [Mintlify](https://www.mintlify.com/) - AI 驱动的代码文档、IDE 扩展（开源）.
 * [readme](https://readme.com/) - 个性化和动态的开发者文档.

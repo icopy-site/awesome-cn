@@ -48,7 +48,7 @@
 			<div>
 				<sub>只需几行代码即可开始向企业客户销售产品.</sub>
 				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+				<sup>在几分钟而不是几个月内添加单点登录（以及更多）.</sup>
 			</div>
 		</a>
 		<br>
@@ -114,6 +114,22 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<a href="https://serpapi.com#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
+			</div>
+			<b>轻松获取搜索引擎结果的 API.</b>
+		</a>
+		<a href="https://serpapi.com#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
+			</div>
+			<b>轻松获取搜索引擎结果的 API.</b>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -150,7 +166,7 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - 流媒体客户端.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 寻求将所有计算设备与同一文件系统连接起来的分布式文件系统.
 - [stackgl](https://github.com/stackgl) - 建立在 browserify 和 npm 之上的 WebGL 开放软件生态系统.
-- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+- [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将 Torrent 视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
 - [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币库.
@@ -302,12 +318,12 @@
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台设置环境变量.
 - [shelljs](https://github.com/shelljs/shelljs) - 可移植的 Unix shell 命令.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - 阻止用户使用 root 权限运行您的应用程序.
-- [sparkly](https://github.com/sindresorhus/sparkly) - 生成迷你图`▂▃▅▂▇`.
+- [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 - [Bit](https://github.com/teambit/bit) - 跨存储库创建、维护、查找和使用小模块和组件.
 - [gradient-string](https://github.com/bokub/gradient-string) - 终端输出中漂亮的颜色渐变.
 - [oclif](https://github.com/oclif/oclif) - 带有解析器、自动文档、测试和插件的 CLI 框架.
 - [term-size](https://github.com/sindresorhus/term-size) - 可靠地获取终端窗口大小.
-- [Cliffy](https://github.com/drew-y/cliffy) - 交互式 CLI 的框架.
+- [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 - [zx](https://github.com/google/zx) - 编写 shell 脚本 JavaScript.
 
 ### Build tools
@@ -334,7 +350,7 @@
 
 ### Templating
 
-- [marko](https://github.com/marko-js/marko) - 基于 HTML 的模板引擎，将模板编译为 CommonJS 模块并支持流式传输、异步渲染和自定义标签.
+- [marko](https://github.com/marko-js/marko) - 基于 HTML 的模板引擎，可将模板编译为 CommonJS 模块并支持流式传输、异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承、异步控制等功能的模板引擎（受 jinja2 启发）.
 - [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Mustache 模板的超集，它添加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单的无主见的模板语言.
@@ -382,7 +398,7 @@
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间和机器间锁定文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - 读取并解析 JSON 文件.
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - 以原子方式将 JSON 字符串化并写入文件.
-- [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
+- [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - 类似于 `fs.createWriteStream()`，但是是原子的.
 - [filenamify](https://github.com/sindresorhus/filenamify) - 将字符串转换为有效的文件名.
 - [lnfs](https://github.com/kevva/lnfs) - 强制创建像 `ln -fs` 这样的符号链接.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - 检查文件是文本文件还是二进制文件.
@@ -627,7 +643,7 @@
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - 无头铬.
 - [Playwright](https://github.com/microsoft/playwright) - 具有单一 API 的无头 Chromium、WebKit 和 Firefox.
 - [nve](https://github.com/ehmicky/nve) - 在本地的多个版本的 Node.js 上运行任何命令.
-- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
+- [axe-core](https://github.com/dequelabs/axe-core) - 用于自动化 Web UI 测试的辅助功能引擎.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - 提供通用数据库、Selenium Web 浏览器或任何其他可以在 Docker 容器中运行的轻量级一次性实例.
 
 ### Security
@@ -809,7 +825,7 @@
 - [Nodeschool](https://github.com/nodeschool) - 通过交互式课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些良好做法.
-- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
+- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和实际上令人愉悦阅读的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
@@ -874,7 +890,7 @@
 
 ### Courses
 
-- [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Wes Bos 的视频课程.
+- [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
 
