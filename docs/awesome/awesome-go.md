@@ -781,7 +781,7 @@ _帮助构建分布式系统的包._
 - [rpcx](https://github.com/smallnest/rpcx) - 类似阿里巴巴Dubbo的分布式可插拔RPC服务框架.
 - [Semaphore](https://github.com/jexia/semaphore) - 一个简单的（微）服务编排器.
 - [sleuth](https://github.com/ursiform/sleuth) - 用于 HTTP 服务之间的无主 p2p 自动发现和 RPC 的库（使用 [ZeroMQ](https://github.com/zeromq/libzmq)).
-- [torrent](https://github.com/anacrolix/torrent) - BT 客户端包.
+- [torrent](https://github.com/anacrolix/torrent) - BitTorrent 客户端包.
 
 
 ## Dynamic DNS
@@ -1678,7 +1678,7 @@ _用于处理网络各层的库._
 - [grab](https://github.com/cavaliercoder/grab) - 用于管理文件下载的 Go 包.
 - [graval](https://github.com/koofr/graval) - 实验性 FTP 服务器框架.
 - [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs 让您检查 HTTP 请求并伪造响应.
-- [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号器.
+- [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号程序.
 - [iplib](https://github.com/c-robinson/iplib) - 用于处理 IP 地址（net.IP、net.IPNet）的库，受 python 启发 [ipaddress](https://docs.python.org/3/library/ipaddress.html) 和红宝石 [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
 - [jazigo](https://github.com/udhos/jazigo) - Jazigo 是一个用 Go 编写的工具，用于检索多个网络设备的配置.
 - [kcp-go](https://github.com/xtaci/kcp-go) - KCP - 快速可靠的 ARQ 协议.
@@ -1722,7 +1722,7 @@ _用于发出 HTTP 请求的库._
 - [go-otelroundtripper](https://github.com/NdoleStudio/go-otelroundtripper) - 为 HTTP 请求发出开放遥测指标的 http.RoundTripper.
 - [go-req](https://github.com/wenerme/go-req) - 声明式 golang HTTP 客户端.
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Go 中的可重试 HTTP 客户端.
-- [go-zoox/fetch](https://github.com/go-zoox/fetch) - 受 Web Fetch API 启发的强大、轻量级、简单的 Http 客户端.
+- [go-zoox/fetch](https://github.com/go-zoox/fetch) - 一个强大、轻量级、简单的 Http 客户端，灵感来自 Web Fetch API.
 - [grequests](https://github.com/levigross/grequests) - 伟大而著名的 Requests 库的 Go“克隆”.
 - [heimdall](https://github.com/gojektech/heimdall) - 具有重试和 hystrix 功能的增强型 http 客户端.
 - [httpretry](https://github.com/ybbus/httpretry) - 使用重试功能丰富默认的 go HTTP 客户端.
@@ -2236,7 +2236,7 @@ _用于访问第三方 API 的库._
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go) - Go 编程语言的官方 AWS SDK.
 - [bqwriter](https://github.com/OTA-Insight/bqwriter) - 用于写入数据的高级 Go 库 [Google BigQuery](https://cloud.google.com/bigquery) 始终处于高位.
 - [brewerydb](https://github.com/naegelejd/brewerydb) - 用于访问 BreweryDB API 的 Go 库.
-- [cachet](https://github.com/andygrunwald/cachet) - 转到客户端库 [Cachet (open source status page system)](https://cachethq.io/).
+- [cachet](https://github.com/andygrunwald/cachet) - 去客户端库 [Cachet (open source status page system)](https://cachethq.io/).
 - [circleci](https://github.com/jszwedko/go-circleci) - 用于与 CircleCI 的 API 交互的客户端库.
 - [clarifai](https://github.com/samuelcouch/clarifai) - 用于连接 Clarifai API 的 Go 客户端库.
 - [codeship-go](https://github.com/codeship/codeship-go) - 用于与 Codeship 的 API v2 交互的 Go 客户端库.
@@ -2260,11 +2260,12 @@ _用于访问第三方 API 的库._
 - [go-hacknews](https://github.com/PaulRosset/go-hacknews) - 用于 HackerNews API 的微型 Go 客户端.
 - [go-here](https://github.com/abdullahselek/go-here) - 围绕基于 HERE 位置的 API 转客户端库.
 - [go-hibp](https://github.com/wneessen/go-hibp) - 简单的 Go 绑定到“Have I Been Pwned”API.
-- [go-imgur](https://github.com/koffeinsource/go-imgur) - 转到客户端库 [imgur](https://imgur.com)
-- [go-jira](https://github.com/andygrunwald/go-jira) - 转到客户端库 [Atlassian JIRA](https://www.atlassian.com/software/jira)
+- [go-imgur](https://github.com/koffeinsource/go-imgur) - 去客户端库 [imgur](https://imgur.com)
+- [go-jira](https://github.com/andygrunwald/go-jira) - 去客户端库 [Atlassian JIRA](https://www.atlassian.com/software/jira)
 - [go-lark](https://github.com/go-lark/lark) - 易于使用的非官方 SDK [Feishu](https://open.feishu.cn/) 和 [Lark](https://open.larksuite.com/) 开放平台.
 - [go-marathon](https://github.com/gambol99/go-marathon) - 用于与 Mesosphere 的 Marathon PAAS 交互的 Go 库.
 - [go-myanimelist](https://github.com/nstratos/go-myanimelist) - 访问客户端库 [MyAnimeList API](https://myanimelist.net/apiconfig/references/api/v2).
+- [go-openai](https://github.com/sashabaranov/go-openai) - 用于 Go 的 OpenAI ChatGPT、DALL·E、Whisper API 库.
 - [go-openproject](https://github.com/manuelbcd/go-openproject) - 用于交互的 Go 客户端库 [OpenProject](https://docs.openproject.org/api/) 应用程序接口.
 - [go-postman-collection](https://github.com/rbretecher/go-postman-collection) - 使用 Go 模块 [Postman Collections](https://learning.getpostman.com/docs/postman/collections/creating-collections/) （与失眠兼容）.
 - [go-restcountries](https://github.com/chriscross0/go-restcountries) - 去图书馆 [REST Countries API](https://countrylayer.com/).
@@ -2276,7 +2277,7 @@ _用于访问第三方 API 的库._
 - [go-twitch](https://github.com/knspriggs/go-twitch) - 用于与 Twitch v3 API 交互的 Go 客户端.
 - [go-twitter](https://github.com/dghubble/go-twitter) - 用于 Twitter v1.1 API 的客户端库.
 - [go-unsplash](https://github.com/hbagdi/go-unsplash) - 去客户端库 [Unsplash.com](https://unsplash.com) 应用程序接口.
-- [go-xkcd](https://github.com/nishanths/go-xkcd) - XKCD API 的 Go 客户端.
+- [go-xkcd](https://github.com/nishanths/go-xkcd) - 用于 xkcd API 的客户端.
 - [go-yapla](https://git.iglou.eu/Production/go-yapla) - 用于 Yapla v2.0 API 的客户端库.
 - [goagi](https://github.com/staskobzar/goagi) - 转到库以构建 Asterisk PBX agi/fastagi 应用程序.
 - [goami2](https://github.com/staskobzar/goami2) - Asterisk PBX 的 AMI v2 库.
@@ -2289,7 +2290,7 @@ _用于访问第三方 API 的库._
 - [google](https://github.com/google/google-api-go-client) - 为 Go 自动生成的 Google API.
 - [google-analytics](https://github.com/chonthu/go-google-analytics) - 简单的包装器，便于谷歌分析报告.
 - [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) - 谷歌云 API Go 客户端库.
-- [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) - 转到客户端库 [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
+- [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) - 去客户端库 [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
 - [google-play-scraper](https://github.com/n0madic/google-play-scraper) - 从 Google Play 商店获取数据.
 - [gopaapi5](https://github.com/utekaravinash/gopaapi5) - 转到客户端库 [Amazon Product Advertising API 5.0](https://webservices.amazon.com/paapi5/documentation/).
 - [gosip](https://github.com/koltyakov/gosip) - Go 客户端库 SharePoint API.
@@ -2693,7 +2694,7 @@ _全栈网络框架._
 - [pure](https://github.com/go-playground/pure) - 是一个轻量级的 HTTP 路由器，坚持标准的“net/http”实现.
 - [Siesta](https://github.com/VividCortex/siesta) - 编写中间件和处理程序的可组合框架.
 - [vestigo](https://github.com/husobee/vestigo) - 适用于 go web 应用程序的高性能、独立、符合 HTTP 的 URL 路由器.
-- [violetear](https://github.com/nbari/violetear) - 去 HTTP 路由器.
+- [violetear](https://github.com/nbari/violetear) - 转到 HTTP 路由器.
 - [xmux](https://github.com/rs/xmux) - 基于 `httprouter` 的高性能多路复用器，支持 `net/context`.
 - [xujiajun/gorouter](https://github.com/xujiajun/gorouter) - 用于 Go 的简单快速的 HTTP 路由器.
 
@@ -3187,7 +3188,7 @@ _在此处添加您所在城市/国家/地区的群组（发送 **PR**）_
 
 - [Awesome Go @LibHunt](https://go.libhunt.com) - 您的首选 Go 工具箱.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) - 精选的 golang 研讨会列表.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作清单. 他们中的很多人都在寻找 Go 黑客.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作列表. 他们中的很多人都在寻找 Go 黑客.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 其他令人惊叹的列表列表.
 - [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - 解析 awesome-go README 文件并生成一个带有 repo 信息的新 README 文件.
 - [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - 软件工程师和博客@codewithmukesh.com.

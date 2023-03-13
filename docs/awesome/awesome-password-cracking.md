@@ -31,7 +31,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Cloudtopolis](https://github.com/JoelGMSec/Cloudtopolis) - 一种有助于在 Google Cloud Shell 平台上安装和配置 Hashtopolis 的工具，快速且完全无人值守（而且免费！）.
 - [NPK](https://github.com/c6fc/npk) - NPK 是一个分布式哈希破解平台，完全由 AWS 中的无服务器组件构建，包括 Cognito、DynamoDB 和 S3.
 - [Penglab](https://github.com/mxrch/penglab) - 滥用 Google Colab 破解哈希.
-- [Rook](https://github.com/JumpsecLabs/Rook) - Automates the creation of AWS p3 instances for use in GPU-based password cracking.
+- [Rook](https://github.com/JumpsecLabs/Rook) - 自动创建用于基于 GPU 的密码破解的 AWS p3 实例.
 
 
 ## Conversion
@@ -56,7 +56,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - Hashcat.launcher 是一个运行和控制 hashcat 的跨平台 GUI 应用程序.
 - [Hashcat-Stuffs](https://github.com/xfox64x/Hashcat-Stuffs) - hashcat 列表和事物的集合.
 - [hashcat-utils](https://github.com/hashcat/hashcat-utils/) - 可用于高级密码破解的小型实用程序.
-- [Hashfilter](https://github.com/bharshbarger/Hashfilter) - 读取 hashcat potfile 并将不同类型解析为 sqlite 数据库.
+- [Hashfilter](https://github.com/bharshbarger/Hashfilter) - Read a hashcat potfile and parse different types into a sqlite database.
 - [known_hosts-hashcat](https://github.com/chris408/known_hosts-hashcat) - 使用 hashcat 破解 ssh known_hosts 文件的指南和工具.
 - [pyhashcat](https://github.com/f0cker/pyhashcat) - 绑定到 libhashcat 的 Python C API.
 
@@ -88,13 +88,14 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Rule tools
 - [duprule](https://github.com/mhasbini/duprule) - 检测和过滤重复的 hashcat 规则.
+- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - 具有复杂多字节字符支持的下一代规则处理器，用于支持 Hashcat.
 
 
 ### Web interfaces
 - [crackerjack](https://github.com/ctxis/crackerjack) - CrackerJack 是用 Python 开发的 Hashcat 的 Web GUI.
 - [CrackQ](https://github.com/f0cker/crackq) - 一个Python Hashcat破解队列系统.
 - [hashpass](https://github.com/dj-zombie/hashpass) - hashcat 的哈希破解 WebApp 和服务器.
-- [Hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics.
+- [Hashview](https://github.com/hashview/hashview) - 用于密码破解和分析的 Web 前端.
 - [Wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone 的 Web 界面，用于使用 hashcat 破解密码.
 - [WebHashCat](https://github.com/hegusung/WebHashcat) - WebHashcat 是一个非常简单但高效的网页界面的 hashcat 密码破解工具.
 
@@ -110,11 +111,12 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ## Misc
 - [920mPasswordMasks](https://github.com/jakewnuk/920mPasswordMasks) - 从过滤到组中的 9.2 亿个泄露密码中提取的 Hashcat 密码掩码.
+- [hashgen](https://github.com/cyclone-github/hashgen) - Hashgen 是一个简单但非常快速的 CLI 哈希生成器，用 Go 编写，并为 Linux、Windows 和 Mac 交叉编译.
 - [hashID](https://github.com/psypanda/hashID) - 识别不同类型散列的软件.
 - [Name That Hash](https://github.com/HashPals/Name-That-Hash)  - 不知道它是什么类型的哈希？  Name That Hash 将命名该哈希类型！ 识别 MD5、SHA256 和 300 多种其他哈希值. 带有简洁的网络应用程序.
 
 
-### People to Follow
+### Notable People
 - Alotdv ([Twitter](https://twitter.com/AlongExc))
 - Clem9669 ([GitHub](https://github.com/clem9669))
 - Coolbry95 ([GitHub](https://github.com/coolbry95) / [Twitter](https://twitter.com/coolbry95))
@@ -156,7 +158,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [CMD5](https://www.cmd5.org/) - 提供在线MD5/sha1/mysql/sha256加解密服务.
 - [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词表.
 - [Hashes.com](https://hashes.com/) - 具有付费功能的哈希查找服务.
-- [Hashkiller](https://hashkiller.io/) - 带有论坛的散列查找服务.
+- [Hashkiller](https://hashkiller.io/) - A hash lookup service with a forum.
 - [Online Hash Crack](https://www.onlinehashcrack.com/) - 云密码恢复服务.
 
 
@@ -178,6 +180,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [CUPP](https://github.com/Mebus/cupp) - 一种工具，可让您通过用户分析数据（例如生日、昵称、地址、宠物或亲戚的名字等）生成词表.
 - [duplicut](https://github.com/nil0x42/duplicut) - 从 MASSIVE wordlist 中删除重复项，而不对其进行排序（用于基于字典的密码破解）.
 - [Gorilla](https://github.com/d4rckh/gorilla) - 用于生成单词列表或使用突变扩展现有单词列表的工具.
+- [Gramify](https://github.com/TheWorkingDeveloper/gramify) - 根据单词、字符或字符集创建 n-gram 单词列表，以用于离线密码攻击和数据分析.
 - [Elpscrk](https://github.com/D4Vinci/elpscrk) - Elpscrk 就像 cupp，但它基于排列和统计数据，同时具有内存效率.
 - [Keyboard-Walk-Generators](https://github.com/Rich5/Keyboard-Walk-Generators) - 生成用于破解的 Keyboard Walk 词典.
 - [kwprocessor](https://github.com/hashcat/kwprocessor) - 具有可配置的基本字符、键盘映射和路线的高级键盘行走生成器.
@@ -254,6 +257,8 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ### Talks
 - [DEF CON Safe Mode Password Village - Getting Started with Hashcat](https://www.youtube.com/watch?v=MBTJ8f6Fsmg)
 - [DEF CON Safe Mode Password Village - Jeremi Gosney - Cracking at Extreme Scale](https://www.youtube.com/watch?v=4Ell1Tt23NI)
+- [DEF CON 28 Safe Mode Password Village – 'Let's Crack RockYou Without Using rockyou txt'](https://www.youtube.com/watch?v=8FtXntEsZdU)
+- [SecTor 2019 - Will Hunt - Hashes, Hashes Everywhere, But All I See Is Plaintext](https://sector.ca/sessions/hashes-hashes-everywhere-but-all-i-see-is-plaintext/)
 - [Tailored, Machine Learning-driven Password Guessing Attacks and Mitigation at DefCamp](https://www.youtube.com/watch?v=iK6ZbD6v9Gg)
 - [UNHash - Methods for better password cracking](https://media.ccc.de/v/31c3_-_5966_-_en_-_saal_1_-_201412292245_-_unhash_-_methods_for_better_password_cracking_-_tonimir_kisasondi)
 - [USENIX Security '21 - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries](https://www.youtube.com/watch?v=Jvp3UTdCeag)

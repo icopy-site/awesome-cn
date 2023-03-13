@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://brootware.github.io/cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 </div>
 
 
@@ -143,7 +143,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 * [Windows Privesc Arena](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/windowsprivescarena>) - 学生将学习如何使用非常易受攻击的 Windows 7 虚拟机提升权限.
 * [Linux Privesc Arena](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/linuxprivescarena>) - 学生将学习如何使用非常脆弱的 Linux VM 提升权限.
 * [Windows Privesc](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/windows10privesc>) - 学生将学习如何使用非常易受攻击的 Windows 7 虚拟机提升权限.
-* [Blaster](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/blaster>) - Metasploit Framework to get a foothold.
+* [Blaster](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/blaster>) - Metasploit 框架获得立足点.
 * [Ignite](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/ignite>) - 一家新成立的公司的网络服务器存在一些安全问题.
 * [Kenobi](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/kenobi>)  - 利用 Linux 机器的演练. 为共享枚举 Samba，操纵易受攻击的 proftpd 版本，并通过路径变量操纵提升您的权限.
 * [Capture the flag](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/c4ptur3th3fl4g>) - 另一个初级 CTF 挑战.
@@ -172,7 +172,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 * [IntroSIEM](https://tryhackme.com/room/introtosiem) - SIEM 简介.
 * [Yara](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/yara>) - 用于恶意软件分析的 yara 介绍.
 * [OpenVAS](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/openvas>) - 介绍 openvas.
-* [Intro to Honeypots](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
+* [Intro to Honeypots](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/introductiontohoneypots>) - 蜜罐介绍.
 * [Volatility](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/bpvolatility>) - 介绍具有波动性的内存分析.
 * [Red Line](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/btredlinejoxr3d>) - 了解如何使用 Redline 执行内存分析并扫描端点上的 IOC.
 * [Autopsy](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/autopsy2ze0>) - 使用尸检来调查磁盘映像中的伪影.
@@ -180,7 +180,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
-### Level 2 - Security Operations & Incident Response
+### Level 2 - Security Operations, Incident Response & Threat Hunting
 
 * [Investigating Windows](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/investigatingwindows>) - 调查Windows.
 * [Juicy Details](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/juicydetails>)  - 一家受欢迎的果汁店被攻破了！ 分析日志以查看发生了什么.
@@ -190,6 +190,10 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 * [Splunk Boss of the SOC V2](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://cyberdefenders.org/blueteam-ctf-challenges/16>) - Splunk 分析第 2 卷.
 * [Splunk Boss of the SOC V3](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://cyberdefenders.org/blueteam-ctf-challenges/8>) - Splunk 分析第 3 卷.
 * [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh)  - Exchange 服务器被勒索软件破坏. 使用 Splunk 调查攻击者如何破坏服务器.
+* [Hunting for Execution Tactic](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-3) - 加入 Cyborg Security 的专家威胁猎手，他们将深入研究有趣的 MITRE ATT&amp;CK 执行策略 (TA0002).
+* [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - 加入 Cyborg Security 的专家威胁猎手，他们将深入研究有趣的 MITRE ATT&amp;CK 凭据访问策略 (TA0006).
+* [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - 加入 Cyborg Security 的威胁搜寻讲师团队，参加有趣且动手操作的键盘威胁搜寻研讨会，内容涵盖对抗性持久性 (TA0003).
+* [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - 加入 Cyborg Security 的专家威胁猎手，他们将深入研究有趣的 MITRE ATT&amp;CK 防御规避策略 (TA0005).
 
 <!--lint disable double-link-->
 <!--lint enable double-link-->
@@ -228,7 +232,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 ### Level 5 - Malware and Reverse Engineering
 
 * [History of Malware](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/historyofmalware>) - 介绍恶意软件历史.
-* [Malware Introduction](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/malmalintroductory>) - 恶意软件介绍.
+* [Malware Introduction](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/malmalintroductory>) - 介绍恶意软件.
 * [Basic Malware Reverse Engineering](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/basicmalwarere>) - 介绍恶意软件 RE.
 * [Intro Windows Reversing](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/windowsreversingintro>) - Windows RE 简介.
 * [Windows x64 Assembly](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/win64assembly>) - Windows 上的 x64 程序集简介.

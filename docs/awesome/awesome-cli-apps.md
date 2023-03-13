@@ -138,7 +138,7 @@
 - [pm2](https://github.com/Unitech/pm2) - Node.js 的生产流程经理.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 系统日志.
-- [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 合理化.
+- [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息传递平台和电子邮件发送消息/警报.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 将静态网站部署到 [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
@@ -381,7 +381,7 @@
 - [jq](https://github.com/stedolan/jq) - JSON处理器.
 - [yq](https://github.com/kislyuk/yq) - YAML 处理器.
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML 处理器（如 jq/yq）.
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - 查询/更新 YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - 使用功能管道处理数据.
 
 ### JSON
@@ -482,6 +482,7 @@
 - [fd](https://github.com/sharkdp/fd) - 一个简单、快速且用户友好的“查找”替代方案.
 - [broot](https://github.com/Canop/broot) - 类似于 fzf 的模糊查找器，但具有空间使用可视化功能.
 - [rare](https://github.com/zix99/rare) - 实时正则表达式聚合和分析.
+- [skim](https://github.com/lotabout/skim) - 一个用 rust 编写的通用模糊查找器，类似于 fzf.
 
 ## Version Control
 
@@ -560,7 +561,7 @@
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 可配置的会说话的牛（和其他动物）.
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在您的 CLI 中获取随机报价或当日报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机财富.
-- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+- [ponysay](https://github.com/erkin/ponysay) - 小马重写 cowsay.
 - [yosay](https://github.com/yeoman/yosay) - 像 cowsay，但适用于 yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文字模因.
@@ -570,7 +571,7 @@
 
 ### Emoji
 
-- [emoj](https://github.com/sindresorhus/emoj) - 从命令行的文本中查找相关的表情符号.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表情符号并将其复制到剪贴板.
 - [oji](https://github.com/xxczaki/oji) - 交互式文本表情符号制作器.
 

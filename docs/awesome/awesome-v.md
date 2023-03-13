@@ -56,7 +56,7 @@
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler)  - 基于堆栈的编译编程语言. 引导程序编译器是用 V 编写的.
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在 V.
 - [vbf](https://github.com/vpervenditti/vbf) - 一个 brainfuck 解释器/编译器.
-- [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
+- [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [v](https://github.com/vlang/v)  - V 本身. 用于开发可维护软件的简单、快速、安全的编译语言.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
 
@@ -191,7 +191,7 @@
 
 ### Text processing
 
-- [ascii_robot](https://github.com/Delta456/ascii_robot) - 用 V 编写的 ASCII 机器人生成器.
+- [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
 - [chalk](https://github.com/etienne-napoleone/chalk) - 为终端中的字符串着色.
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
 - [crayon](https://github.com/thecodrr/crayon)  - 像毕加索一样绘制你的终端输出.  ️
@@ -231,6 +231,7 @@
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) - 在 V 上编写的基本 JSON-RPC 2.0 兼容服务器.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  - V 的内置网络框架. 由 Vorum 使用.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - 用于 vweb 的简约 Xbox Live 验证器.
+- [v-tiktok](https://github.com/walkingdevel/v-tiktok) - 用于下载 TikTok 视频的 AV 库.
 
 ## Other
 
@@ -326,3 +327,7 @@
 ### GitHub templates
 
 - [v-project-basement](https://github.com/ArtemkaKun/v-project-basement) - 每个 V 项目的地下室，其中包含通用的最小 GitHub CI 脚本和 V 项目的问题模板.
+
+### Patterns
+
+- [MVU.v](https://github.com/ArtemkaKun/MVU.v) - 用 V 编程语言实现的 MVU 模式（The Elm Architecture）.

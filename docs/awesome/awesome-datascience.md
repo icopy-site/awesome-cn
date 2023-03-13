@@ -196,7 +196,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 装袋
+  - 套袋
   - 随机森林
   -AdaBoost
 
@@ -382,6 +382,7 @@
 - [Redash](https://redash.io/)
 - [C3](https://c3js.org/)
 - [TensorWatch](https://github.com/microsoft/tensorwatch)
+- [geomap](https://pypi.org/project/geomap/)
 
 ### Miscellaneous Tools
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -405,7 +406,7 @@
 | [Tidyverse](https://www.tidyverse.org/)  | 是专为数据科学设计的 R 包的自以为是的集合. 所有包都共享一个基本的设计理念、语法和数据结构.  |
 | [RStudio](https://www.rstudio.com)  |  IDE – R 的强大用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
-| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫GUI |
+| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形 |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 中的机器学习 |
 | [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
