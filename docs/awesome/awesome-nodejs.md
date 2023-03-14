@@ -272,7 +272,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -323,7 +323,7 @@
 - [gradient-string](https://github.com/bokub/gradient-string) - 终端输出中漂亮的颜色渐变.
 - [oclif](https://github.com/oclif/oclif) - 带有解析器、自动文档、测试和插件的 CLI 框架.
 - [term-size](https://github.com/sindresorhus/term-size) - 可靠地获取终端窗口大小.
-- [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+- [Cliffy](https://github.com/drew-y/cliffy) - 交互式 CLI 的框架.
 - [zx](https://github.com/google/zx) - 编写 shell 脚本 JavaScript.
 
 ### Build tools
@@ -372,7 +372,7 @@
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - 支持 ES2015+ 的框架、WebSockets、REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) - 为 TCP 套接字、WebSocket 和 HTTP 客户端制作可重用和可扩展 API 的框架.
 - [seneca](https://github.com/senecajs/seneca) - 用于编写微服务的工具包.
-- [AdonisJs](https://github.com/adonisjs/core) - 真正的 Node.js MVC 框架建立在依赖注入和 IoC 容器的坚实基础之上.
+- [AdonisJs](https://github.com/adonisjs/core) - 真正的 Node.js MVC 框架建立在依赖注入和 IoC 容器的坚实基础上.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - 快速而强大的微服务框架.
 - [Nest](https://github.com/nestjs/nest) - 用于构建高效且可扩展的服务器端应用程序的受 Angular 启发的框架.
 - [TypeGraphQL](https://github.com/MichalLytek/type-graphql) - 使用类和装饰器使用 TypeScript 创建 GraphQL API 的现代框架.
@@ -395,7 +395,7 @@
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
 - [chokidar](https://github.com/paulmillr/chokidar) - 稳定来自 `fs.watch` 和 `fs.watchFile` 的事件以及在 macOS 上使用原生 `fsevents` 的文件系统观察器.
 - [find-up](https://github.com/sindresorhus/find-up) - 通过向上父目录查找文件.
-- [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间和机器间锁定文件实用程序.
+- [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - 读取并解析 JSON 文件.
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - 以原子方式将 JSON 字符串化并写入文件.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - 类似于 `fs.createWriteStream()`，但是是原子的.
@@ -663,7 +663,7 @@
 
 - [babel-minify](https://github.com/babel/minify) - 基于 Babel 工具链的 ES2015+ 感知缩小器.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS) - JavaScript 压缩器.
-- [clean-css](https://github.com/clean-css/clean-css) - CSS 压缩器.
+- [clean-css](https://github.com/clean-css/clean-css) - CSS minifier.
 - [minimize](https://github.com/Swaagie/minimize) - HTML 压缩器.
 - [imagemin](https://github.com/imagemin/imagemin) - 图像缩小器.
 
@@ -680,7 +680,7 @@
 ### Email
 
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - 处理电子邮件的最快方式.
-- [emailjs](https://github.com/eleith/emailjs) - 将带有附件的文本/HTML 电子邮件发送到任何 SMTP 服务器.
+- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 - [email-templates](https://github.com/forwardemail/email-templates) - 创建、预览和发送自定义电子邮件模板.
 - [MJML](https://github.com/mjmlio/mjml) - 旨在减少创建响应式电子邮件的痛苦的标记语言.
 
@@ -829,6 +829,7 @@
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
+- [Scaling Node.js Applications](https://betterstack.com/community/guides/scaling-nodejs/) - 了解有关在生产环境中构建、部署和扩展 Node.js 应用程序的所有知识.
 
 ### Discovery
 
@@ -890,7 +891,7 @@
 
 ### Courses
 
-- [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
+- [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Wes Bos 的视频课程.
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
 
@@ -907,7 +908,7 @@
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展.
 - [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型制作.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型设计.
 
 ### Community
 

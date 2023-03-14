@@ -48,7 +48,7 @@
 
 ## ArcGIS location services
 
-- [ArcGIS location services Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - 邮递员收集，以促进与许多位置服务的合作.
+- [ArcGIS location services Postman Workspace](https://www.postman.com/esridevs/workspace/arcgis-location-services) - 邮递员收集，以促进与许多位置服务的合作.
 - [Basemap layer service](https://developers.arcgis.com/documentation/mapping-apis-and-services/maps/services/basemap-layer-service/) - 访问地图和场景的街道、卫星和其他底图样式.
 - [Elevation and hydrology services](https://developers.arcgis.com/rest/elevation/api-reference/get-started-with-elevation-services.htm) - 生成高程剖面和视域，还可以追踪水流并生成分水岭.
 - [Geocoding service](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/services/geocoding-service/) - 搜索世界各地的地址、企业和地点.
@@ -76,9 +76,9 @@
 - [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Java 示例.
 - [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Kotlin 示例.
-- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri 的官方 ArcGIS Runtime iOS 产品团队示例.
-- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 样本.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 样本.
+- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Runtime iOS product team samples.
+- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 示例.
+- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 示例.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - 开始使用 ArcGIS API for JavaScript 4.x 的样板集合.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - 用于 ArcGIS API for JavaScript 的通用代码模式的 Visual Studio 代码片段集合.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 有助于成功使用所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android……）的社区示例.
@@ -187,6 +187,7 @@
 - [geometry-inspector](http://brianbunker.github.io/geometry-inspector/) - 在地图上快速显示 EsriJSON、GeoJSON 或 WKT，或在地图上绘制以获取 EsriJSON、GeoJSON 或 WKT.
 - [js-symbol-playground 3.x](https://developers.arcgis.com/javascript/3/samples/playground/index.html) - 生成符号以使用 ArcGIS API for JavaScript 3.x.
 - [js-symbol-playground 4.x](https://developers.arcgis.com/javascript/latest/sample-code/playground/live/) - 生成符号以使用 ArcGIS API for JavaScript 4.x.
+- [Postman workspaces](https://www.postman.com/esridevs) - 用于试验位置服务和身份验证的邮递员集合.
 
 ## Spatial Analysis
 
@@ -210,7 +211,7 @@
 - [Common data types](https://developers.arcgis.com/documentation/common-data-types/geometry-objects.htm) - ArcGIS REST API 返回的几何和空间参考对象的 JSON 格式：点、多点、折线、多边形和包络线.
 - [GeoServices spec](https://github.com/koopjs/FeatureServer) - Open Web Foundation 基于 REST 的 API，提供对 Esri 使用的结构化地理空间数据的完整访问.
 - [Indexed 3D Scene Layers](https://github.com/Esri/i3s-spec) - 任意大量地理数据容器的服务和封装标准.
-- [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) - Spec for the geospatial vector data format for GIS software.
+- [Shapefile Format](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf) - GIS 软件的地理空间矢量数据格式规范.
 - [Spatial reference specifications](https://developers.arcgis.com/documentation/spatial-references/#spatial-reference-specifications) - Well-Known ID (WKID) 整数值列表或称为 Well-Known Text (WKT) 的文本字符串定义，用于定义空间参考.
 - [Tile Package Specification](https://github.com/Esri/tile-package-spec) - 包含一组切片和切片方案的压缩文件，可用作 ArcGIS 应用程序中的底图.
 - [Web Map spec](https://developers.arcgis.com/web-map-specification/)  - 可共享的二维地图. 它描述了定义 web 地图的 JSON 对象.

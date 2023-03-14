@@ -7,6 +7,7 @@
 与图形交换格式 (GIF) 相关的工具、脚本、库、示例和其他资源的列表.
 
 
+<!--lint disable awesome-toc-->
 
 ## General Tools
 
@@ -15,145 +16,133 @@
 - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick 通常比 ImageMagick 快.
 - [MoviePy](https://zulko.github.io/moviepy/) - 用于视频编辑的 Python 模块.
 
-### Utilities
+## Utilities
 
-- [Gifgen](https://github.com/lukechilds/gifgen) - 简单的高质量 GIF 编码
-- [Gifify](https://github.com/jclem/gifify) - 将屏幕录制转换为 GIF
-- [Gifs](https://github.com/jglovier/gifs) - GIF 的存储位置
+- [Gifgen](https://github.com/lukechilds/gifgen) - 简单的高质量 GIF 编码.
+- [Gifify](https://github.com/jclem/gifify) - 将屏幕录制转换为 GIF.
+- [Gifs](https://github.com/jglovier/gifs) - GIF 的存储位置.
 - [Gifshot](https://github.com/yahoo/gifshot)  - 从 Yahoo 的媒体创建动画 GIF.  ([demo](http://yahoo.github.io/gifshot/))
-- [Gifsockets](https://github.com/videlalvaro/gifsockets) - 使用动画 GIF 作为传输的实时通信库
-- [X-gif](https://github.com/geelen/x-gif) - 用于灵活 GIF 播放的 Web 组件
-- [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript 网络记录器
-- [gif-machine](https://github.com/lelandbatey/gif-machine) - 从 YouTube 视频创建 GIF
-- [gifstreaming](https://github.com/jbochi/gifstreaming) - 实时视频流服务器
-- [Screengif](https://github.com/dergachev/screengif) - 创建动画 GIF 截屏视频
-- [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - 通过 http 将屏幕更新作为动画 GIF
-- [gifdeck](https://github.com/jaipandya/gifdeck) - 将您的 SlideShares 转换为 GIF 动画
-- [Gifbot](https://github.com/schuyler/gifbot) - GIF 搜索 Slack
-- [Gif-camera](https://github.com/FuzzyWobble/GIF-Camera) - 使用网络摄像头创建动画 GIF
-- [Gifline](https://github.com/zehfernandes/gifline) - 将 GIF 放入您的电子邮件中的 Chrome 扩展
-- [Gifdrop](https://github.com/markjaquith/gifdrop) - 为您的 gif 图像集合创建一个存储库
-- [Gh-gif](https://github.com/node-gh/gh-gif) - NodeGH 插件，用于使用 GIF 反应评论拉取请求/问题
-- [Tty2gif](https://github.com/z24/tty2gif) - 将脚本及其输出记录为二进制和 GIF 格式
-- [Giftoppr](https://github.com/desktoppr/giftoppr) - 将您最喜爱的 GIF 与 Dropbox 同步
-- [Gifit](https://github.com/Fauntleroy/GIFit) - 从 YouTube 视频制作 GIF 的 Chrome 扩展
-- [Ccapture.js](https://github.com/spite/ccapture.js) - 捕获使用 HTML5 canvas 创建的动画
+- [Gifsockets](https://github.com/videlalvaro/gifsockets) - 使用动画 GIF 作为传输的实时通信库.
+- [X-gif](https://github.com/geelen/x-gif) - 用于灵活 GIF 播放的 Web 组件.
+- [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript 网络记录器.
+- [gif-machine](https://github.com/lelandbatey/gif-machine) - 从 YouTube 视频创建 GIF.
+- [gifstreaming](https://github.com/jbochi/gifstreaming) - 实时视频流服务器.
+- [Screengif](https://github.com/dergachev/screengif) - 创建动画 GIF 截屏视频.
+- [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - 通过 http 将屏幕更新作为动画 GIF 提供.
+- [gifdeck](https://github.com/jaipandya/gifdeck) - 将您的 SlideShares 转换为动画 GIF.
+- [Gifbot](https://github.com/schuyler/gifbot) - GIF 搜索 Slack.
+- [Gif-camera](https://github.com/FuzzyWobble/GIF-Camera) - 使用网络摄像头创建动画 GIF.
+- [Gifline](https://github.com/zehfernandes/gifline) - 将 GIF 放入您的电子邮件中的 Chrome 扩展.
+- [Gifdrop](https://github.com/markjaquith/gifdrop) - 为您的 GIF 图像集合创建存储库.
+- [Gh-gif](https://github.com/node-gh/gh-gif) - NodeGH 插件，用于使用 GIF 反应评论拉取请求/问题.
+- [Tty2gif](https://github.com/z24/tty2gif) - 将脚本及其输出记录为二进制和 GIF 格式.
+- [Giftoppr](https://github.com/desktoppr/giftoppr) - 将您最喜爱的 GIF 与 Dropbox 同步.
+- [Gifit](https://github.com/Fauntleroy/GIFit) - 从 YouTube 视频制作 GIF 的 Chrome 扩展.
+- [Ccapture.js](https://github.com/spite/ccapture.js) - 捕获使用 HTML5 画布创建的动画.
 - [Kap](https://getkap.co/) - 漂亮的开源应用程序，可捕获您的屏幕并导出为 GIF.
 - [Gifit (the other one)](https://github.com/rotblauer/gifit) - 在 stdout 的降价中获取搜索结果 giphy GIF，ala `$ gifit kittens`.
 - [gifski](https://github.com/ImageOptim/gifski) - 基于 libimagequant 的高质量 GIF 编码器.
 - [Gifcurry](https://github.com/lettier/gifcurry) - 为 GIF 制作者打造的开源 Haskell 编辑器.
 
-### Libraries
+## Libraries
 
-#### ActionScript
+### ActionScript
 
-- [Flash Animated GIF Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - 用于在 Flash 中播放动画 GIF 的 AS3 库
+- [Flash Animated GIF Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - 用于在 Flash 中播放动画 GIF 的 AS3 库.
 
-#### C++
+### C++
 
-- [Node-gif](https://github.com/pkrumins/node-gif) - 制作 GIF 的 C++ 库
-- [Gif-h](https://github.com/charlietangora/gif-h) - 用于创建动画 GIF 的 C++ 单头库
-- [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - 用于导出动画 GIF 的 C++ openframeworks 插件
-- [msf_gif](https://github.com/notnullnotvoid/msf_gif) - 用于创建动画 GIF 的 C/C++ 单头文件库
+- [Node-gif](https://github.com/pkrumins/node-gif) - 制作 GIF 的 C++ 库.
+- [Gif-h](https://github.com/charlietangora/gif-h) - 用于创建动画 GIF 的 C++ 单头库.
+- [msf_gif](https://github.com/notnullnotvoid/msf_gif) - 用于创建动画 GIF 的 C/C++ 单头文件库.
 
 <h3 id="c-sharp">C#</h2>
 
-- [dot-screencap](https://github.com/Speiser/dot-screencap) - 一个简单的库来记录你的屏幕并将其保存为动画 GIF
-- [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - 在 WPF 中显示动画 GIF 图像的简单库
-- [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - 在 XAML 应用程序（WPF、WinRT、Windows Phone）中显示动画 GIF 图像的简单库
-- [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - 用于读取和创建动画 GIF 的高性能 .NET 库
+- [dot-screencap](https://github.com/Speiser/dot-screencap) - 一个简单的库来记录您的屏幕并将其保存为动画 GIF.
+- [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - 在 WPF 中显示动画 GIF 图像的简单库.
+- [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - 在 XAML 应用程序（WPF、WinRT、Windows Phone）中显示动画 GIF 图像的简单库.
+- [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - 用于读取和创建动画 GIF 的高性能 .NET 库.
 
-#### Haxe
+### Haxe
 
-- [Gif](https://github.com/snowkit/gif) - Haxe GIF 编码器
+- [Gif](https://github.com/snowkit/gif) - Haxe GIF 编码器.
 
-#### Java
+### Java
 
-- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - 用于在 Android 上显示动画 GIF 的视图和可绘制对象
-- [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - 使用动画 GIF 作为 Android Drawable
-- [GifView](https://github.com/RoiSoleil/GifView) - 处理 GIF 的 android 库
-- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - 用于显示 GIF 动画的 Android 视图小部件
-- [GifImageView](https://github.com/felipecsl/GifImageView) - 处理动画 GIF 图像的 Android ImageView
-- [Gif-animation](https://github.com/extrapixel/gif-animation) - 播放和导出 GIF 的处理库
-- [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - 适用于 Android 的动画 GIF 编码器
-- [GIFDroid](https://github.com/curtislarson/GIFDroid) - Android 视频到 GIF 转换器
-- [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - 创建和分享动画 GIF
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - 用于在 Android 上显示动画 GIF 的视图和可绘制对象.
+- [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - 使用动画 GIF 作为 Android Drawable.
+- [GifView](https://github.com/RoiSoleil/GifView) - 处理 GIF 的 Android 库.
+- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - 用于显示 GIF 动画的 Android 视图小部件.
+- [GifImageView](https://github.com/felipecsl/GifImageView) - 处理动画 GIF 图像的 Android ImageView.
+- [Gif-animation](https://github.com/extrapixel/gif-animation) - 播放和导出 GIF 的处理库.
+- [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - 适用于 Android 的动画 GIF 编码器.
+- [GIFDroid](https://github.com/curtislarson/GIFDroid) - Android 视频到 GIF 转换器.
+- [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - 创建和分享动画 GIF.
 
-#### JavaScript
+### JavaScript
 
-- [Gif.js](https://github.com/jnordberg/gif.js) - 从 DOM 创建 GIF
-- [Omggif](https://github.com/deanm/omggif) - GIF 89a 编码器和解码器
-- [Animated_GIF](https://github.com/sole/Animated_GIF) - 用于创建动画 GIF 的 JavaScript 库
-- [Gifffer](https://github.com/krasimir/gifffer) - 防止动画 GIF 自动播放的 JavaScript 库
-- [Gifplayer](https://github.com/rubentd/gifplayer) - 用于播放和停止动画 GIF 的 jquery 插件
-- [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF 解析器和播放器
-- [node-gify](https://github.com/tj/node-gify) - JavaScript 使用 ffmpeg 和 gifsicle 将视频转换为 GIF
-- [Gifencoder](https://github.com/eugeneware/gifencoder) - 为 Node.js 生成服务器端动画 GIF
-- [Gif-video](https://github.com/hughsk/gif-video) - JavaScript 将 GIF 图像转换为支持 HTML5 的视频
-- [Gif-player](https://github.com/apankrat/gif-player) - JavaScript 中的点播 GIF 加载器/播放器
-- [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - 面部情绪检测器
+- [Gif.js](https://github.com/jnordberg/gif.js) - 从 DOM 创建 GIF.
+- [Omggif](https://github.com/deanm/omggif) - GIF 89a 编码器和解码器.
+- [Animated_GIF](https://github.com/sole/Animated_GIF) - 用于创建动画 GIF 的 JavaScript 库.
+- [Gifffer](https://github.com/krasimir/gifffer) - 防止动画 GIF 自动播放的 JavaScript 库.
+- [Gifplayer](https://github.com/rubentd/gifplayer) - 用于播放和停止动画 GIF 的 JQuery 插件.
+- [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF 解析器和播放器.
+- [node-gify](https://github.com/tj/node-gify) - JavaScript 使用 ffmpeg 和 gifsicle 将视频转换为 GIF.
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - 为 Node.js 生成服务器端动画 GIF.
+- [Gif-video](https://github.com/hughsk/gif-video) - JavaScript 将 GIF 图像转换为支持 HTML5 的视频.
+- [Gif-player](https://github.com/apankrat/gif-player) - JavaScript 中的点播 GIF 加载器/播放器.
+- [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - 面部情绪检测器.
 - [node-youtube](https://github.com/javascipt/node-youtube) - YouTube 到快照和 GIF.
 
-#### PHP
+### PHP
 
-- [GifCreator](https://github.com/Sybio/GifCreator) - 从多个图像创建动画 GIF 的 PHP 类
-- [Spacer.gif](https://github.com/msng/spacer.gif) - 提供 spacer.gif 1x1 的 PHP 脚本
-- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - 分隔动画 GIF 的所有帧的 PHP 类
+- [GifCreator](https://github.com/Sybio/GifCreator) - 从多个图像创建动画 GIF 的 PHP 类.
+- [Spacer.gif](https://github.com/msng/spacer.gif) - 提供 spacer.gif 1x1 的 PHP 脚本.
+- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - 分隔动画 GIF 的所有帧的 PHP 类.
 
-#### Objective-C
+### Objective-C
 
-- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - 从 GIF 动画图像数据中解码 UIImage
-- [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - 加载动画 GIF 的 UIImage 类别
-- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - “推特音乐”和“雅虎！天气”等下拉刷新控制
-- [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - 用于播放 GIF 的 UIImageView 类别/子类
-- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - FlipBoard 的 iOS Gif 引擎
-- [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - 支持 iOS 上的 GIF 动画
-- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh 使用动画 GIF 到任何 scrollView
-- [SvGifView](https://github.com/smileEvday/SvGifView) - iOS加载和显示GIF
-- [GifHUD](https://github.com/cemolcay/GiFHUD) - 仅显示动画 GIF 图像的 iOS 进度 HUD
-- [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - iOS 视频背景 GIF
-- [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - iOS 动画和透明 GIF
-- [OLImageView](https://github.com/dtorres/OLImageView) - iOS OLImage 和 OLImageView 支持动画 GIF
+- [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - 加载动画 GIF 的 UIImage 类别.
+- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - “Twitter 音乐”和“Yahoo! Weather”等下拉刷新控件.
+- [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - 用于播放 GIF 的 UIImageView 类别/子类.
+- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - FlipBoard 的 iOS GIF 引擎.
+- [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - 支持 iOS 上的动画 GIF.
+- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh 使用动画 GIF 到任何滚动视图.
+- [SvGifView](https://github.com/smileEvday/SvGifView) - iOS 加载和显示 GIF.
+- [GifHUD](https://github.com/cemolcay/GiFHUD) - 仅显示动画 GIF 图像的 iOS 进度 HUD.
+- [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - iOS 视频背景 GIF.
+- [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - iOS 动画和透明 GIF.
 
-#### Swift
+### Swift
 
-- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - 高性能且易于使用的 Gif 引擎
-- [Gifu](https://github.com/kaishin/gifu) - Swift 中对 iOS 的动画 GIF 支持
-- [SwiftGif](https://github.com/swiftgif/SwiftGif) - 支持 GIF 的 UIImage 扩展
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - 高性能且易于使用的 Gif 引擎.
+- [Gifu](https://github.com/kaishin/gifu) - Swift 中对 iOS 的动画 GIF 支持.
 
-### GUI
+## GUI
 
-- [Glyph](http://www.glyph.video/) - 用于从视频生成无缝循环 GIF 和动态图片的工具
+- [Glyph](http://www.glyph.video/) - 用于从视频生成无缝循环 GIF 和动态图片的工具.
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
-- [GIFs](https://github.com/orta/GIFs) - 用于查找 GIF 的 Mac 应用程序
-- [VineGifR](https://github.com/caraesten/VineGifR ) - 将 Vine 视频转换为 GIF 的 Mac 应用程序
-- [GifPro](https://github.com/unixpickle/GifPro) - 适用于 Mac 的 GIF 编码器
-- [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - 用于播放 GIF 的 Mac 屏幕保护程序
+- [GifPro](https://github.com/unixpickle/GifPro) - 适用于 Mac 的 GIF 编码器.
 
-### Hosting
+## Hosting
 
-- [Gfycat](https://gfycat.com)  - 最大 GIF/视频长度：15 秒. 上传文件最大为 300Mb
-- [Imgur](https://imgur.com) - 最大文件上传为 50MB
+- [Gfycat](https://gfycat.com)  - 最大 GIF/视频长度：15 秒. 最大文件上传为 300Mb.
+- [Imgur](https://imgur.com) - 最大文件上传为 50MB.
 
-### Online Tools
+## Online Tools
 
-- [Vid2gif](https://imgur.com/vidgif) - imgur 将视频转为 GIF
-- [EzGif](https://ezgif.com/) - 在线 GIF 制作器和图像编辑器
-- [Giflr](https://giflr.com/) - 用于制作或重新混合动画 GIF 的网络应用程序
+- [Vid2gif](https://imgur.com/vidgif) - imgur 将视频转为 GIF.
+- [EzGif](https://ezgif.com/) - 在线 GIF 制作器和图像编辑器.
+- [Giflr](https://giflr.com/) - 用于制作或重新混合动画 GIF 的网络应用程序.
 
-### Community
+## Community
 
 - [Giphy.com](https://giphy.com)
-- [Reactionsgifs](http://www.reactiongifs.com/)
-- [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
+- [/r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
 
-### Niche
+## Scripts
 
-- [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - 用于从星球大战生成 GIF 的 Python 脚本
-
-### Scripts
-
-#### Frames to GIF
+### Frames to GIF
 
 FFmpeg
 ```bash
@@ -186,7 +175,7 @@ fi
     回声“每秒帧数：${FPS}”
 if [ "im" == "$4" ]; then # use imagemagick
     FPS=$(echo &quot;1 / ${FPS} * 100&quot; |bc -l)
-    $CONVERT "$1/*.${suffix}"  -delay ${FPS} -loop 0 "$3"
+    $CONVERT &quot;$1/*.${suffix}&quot; -delay ${FPS} -loop 0 &quot;$3&quot;
 elif [ "gm" == "$4" ]; then # use graphicsmagick
     FPS=$(echo &quot;1 / ${FPS} * 100&quot; |bc -l)
     $GM convert &quot;$1/*.${suffix}&quot; -delay ${FPS} -loop 0 &quot;$3&quot;
@@ -197,7 +186,7 @@ fi
 From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
 
-#### GIF to frames
+### GIF to frames
 
 ```bash
 ffmpeg -i video.mpg 图片%d.jpg
@@ -206,7 +195,7 @@ ffmpeg -i video.mpg 图片%d.jpg
 转换 -coalesce animated.gif image%05d.png
 ```
 
-#### High quality GIF
+### High quality GIF
 
 使用 ffmpeg / 基于此 [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
@@ -229,13 +218,13 @@ ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex 
 &quot;fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse&quot; output.gif
 ```
 
-#### Optimize GIF
+### Optimize GIF
 
 ```
 convert -layers 优化 output.gif output_optimized.gif
 ```
 
-#### Lossy GIF Compressor
+### Lossy GIF Compressor
 
 ```bash
 ./gifsicle -O3 --lossy=80 -o lossy-compressed.gif input.gif
@@ -244,7 +233,7 @@ convert -layers 优化 output.gif output_optimized.gif
 [Lossy Gif](https://kornel.ski/lossygif)
 
 
-#### Making GIF from video
+### Making GIF from video
 
 ```python
 从 moviepy.editor 导入 *
@@ -255,9 +244,10 @@ convert -layers 优化 output.gif output_optimized.gif
 clip.write_gif("output.gif")
 
 ```
+<!--lint ignore double-link-->
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
-#### Cinemagraphs
+### Cinemagraphs
 
 冻结区域
 
@@ -270,6 +260,7 @@ clip.write_gif("output.gif")
         .fx(vfx.freeze_region, outside_region=(170, 230, 380, 320)))
 clip.write_gif(&quot;输出.gif&quot;, fps=15)
 ```
+<!--lint ignore double-link-->
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
 
 ```bash
@@ -289,7 +280,7 @@ ffmpeg \
 “-一个输出.mp4
 ```
 
-#### Perfect Loop
+### Perfect Loop
 
 ```python
 将 moviepy.editor 导入为 mp
@@ -304,9 +295,9 @@ selected_scenes.write_gifs(clip.resize(width=450), &quot;./outputs_directory&quo
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
-#### YouTube video to GIF
+### YouTube video to GIF
 
-- 通过 youtube-dl 下载然后转换.
+- Download it via youtube-dl and then convert it.
 
 ```
 youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
@@ -314,7 +305,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
 
-#### Grabbing each frame of an HTML5 Canvas
+### Grabbing each frame of an HTML5 Canvas
 
 Using [PhantomJS](https://phantomjs.org).
 
@@ -346,7 +337,7 @@ page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
 });
 ```
 
-### Miscellaneous
+## Miscellaneous
 
 - [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - 使用ImageMagick 解决GIF 速度问题.
 
@@ -354,8 +345,11 @@ page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
 
 使用此列表的最佳方法是：
 
+- 通过浏览 [contents](#contents).
 - 通过使用<kbd>command</kbd> + <kbd>F</kbd>来搜索内容
 
-基于 [recovered list](https://github.com/sindresorhus/awesome/issues/872):
+## Credits
 
-- 版权所有 © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
+By [Craig Davison](https://davison.io) 和贡献者.
+
+基于 [recovered list](https://github.com/sindresorhus/awesome/issues/872) 经过 [Ismail Baaj](https://ismailbaaj.fr).

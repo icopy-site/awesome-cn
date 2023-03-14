@@ -101,7 +101,7 @@
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - 使用带有此系统级 GDB 服务器的 GDB 远程加载、调试和测试裸机程序.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS 应用程序可轻松将图像安装/备份/恢复到 SD 卡上.
-- [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - 非常轻量级且易于安装的工具包，用于在 Python 单页 Web 应用程序中编写来引导 RPi，而无需安装 Web 服务器.
+- [Atlas toolkit](https://github.com/epeios-q37/atlas-python) - 非常轻巧且易于安装的工具包，可以用 Python 编写单页 Web 应用程序来引导 RPi，而无需安装 Web 服务器.
 - [CusDeb](https://cusdeb.com/en/) - 用于创建安装了特定包的自定义图像的 Web UI.
 - [balenaEtcher](https://www.balena.io/etcher/) - SD 卡刻录应用程序，对最终用户来说很简单，对开发人员来说是可扩展的，并且可以在任何平台上运行.
 - [Drago](https://seashell.github.io/drago) - 灵活的 Wireguard 网络配置管理器，非常适合建立跨越多个 Raspberry Pi 的安全覆盖.
@@ -113,7 +113,7 @@
 - [Orangetool](https://github.com/Moduland/Orangetool) - Python 中单板计算机的控制功能.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  - 用于创建 raspberrypi.org Raspbian 图像的工具. 这可用于创建您自己的自定义图像，并安装特定的软件包等.
 - [Pieman](https://github.com/tolstoyevsky/pieman) - 用于创建基于 Raspbian、Devuan、Ubuntu 和 Alpine Linux 的自定义图像的脚本.
-- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 映像.
+- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 图像.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - 自动缩小 pi 图像的 Bash 脚本，然后在启动时将其调整为 SD 卡的最大大小.
 - [pistrong](https://github.com/gitbls/pistrong)  - 管理受证书保护的 strongSwan VPN. 用于客户端-服务器、站点到站点和主机到主机 VPN 的安装程序和命令行工具.
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
@@ -190,6 +190,7 @@
 - [Raspberry Pi Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - 功能齐全的基于 Web 的仪表板界面，用于检查和管理 Raspberry Pi 硬件和软件，无需额外的软件.
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Raspberry Pi 2 上的 Erlang 集群.
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - 在 Raspberry Pi 上运行的大数据集群.
+- [Raspberry Pi Setup](https://github.com/atao/raspberrypi-setup) - ⚡ 快速设置我的树莓派.
 - [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - 让您自己的闪电节点运行的最快和最便宜的方式.
 - [RaspiBolt](https://github.com/Stadicus/guides/tree/master/raspibolt) - Raspberry Pi 上的 ️⚡Lightning️⚡ 初学者指南.
 - [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - 一个使用软件无线电 (SDR) 从 GOES-16 卫星接收天气图像的高级项目. 
@@ -210,7 +211,7 @@
 - [TeslaCam](https://github.com/LelandSindt/teslacam) - 项目使用 Raspberry Pi Zero W 进行 USB 大容量存储仿真，使用 PiJuice 收集和存档 TeslaCam 视频. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [USB Proxy](https://github.com/AristoChen/usb-proxy) - 一个 USB 中间人项目，允许用户监视和修改主机和设备之间的 USB 数据包流.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - 使用倾斜和平移激光在唱片集中查找唱片.
-- [Voice Kit](https://aiyprojects.withgoogle.com/voice) - 来自 Google 的 AIY Voice Kit，使用 Google Assistant 构建独立的语音识别系统，或将语音识别和自然语言处理添加到基于 Raspberry Pi 的项目中.
+- [Voice Kit](https://aiyprojects.withgoogle.com/voice) - 来自 Google 的 AIY Voice Kit，用于使用 Google Assistant 构建独立的语音识别系统，或将语音识别和自然语言处理添加到基于 Raspberry Pi 的项目中.
 - [Waves](https://github.com/euniceylee/waves) - 通过麦克风、波形和热敏打印机，将口语的瞬变转化为具体和物理的东西.
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - 使用 Hifiberry DAC 的交互式声音艺术安装.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) - 在具有动态 DNS 的容器中运行 Wordpress 站点.
@@ -226,8 +227,8 @@
 - **家庭远程控制** - 控制鼠标/键盘、音量、管理下载/上传文件、自定义命令、终端、执行未来任务、控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi Check** - 检查 Pi 统计数据 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的摄像头查看图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
-- **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容，播放本地媒体文件，在您的 Raspberry Pi 上播放播放列表（m3u，请）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，查看来自连接的摄像头的图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
+- **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放来自播放列表（m3u，请）的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 - **Termius** - Pi 最干净的 SSH 客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)

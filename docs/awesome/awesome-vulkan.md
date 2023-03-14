@@ -104,7 +104,8 @@
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - 关于如何学习 Vulkan 的元帖子
 *  [I Am Graphics And So Can You](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1) - 面向图形学习 Vulkan 新手的博客文章风格教程.
-*  [Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=Y9U9IE0gVHA) - Tutorial series on making a vulkan game engine by Brendan Galea on YouTube.
+*  [Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=Y9U9IE0gVHA) - Brendan Galea 在 YouTube 上制作 vulkan 游戏引擎的教程系列.
+*  [Kohi Game Engine Series](https://www.youtube.com/watch?v=dHPuU-DJoBM&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) - “Vulkan 游戏引擎系列，我们使用 C 和 Vulkan 从头开始​​制作游戏引擎”.
 *  [Moving to Vulkan (Khronos UK May16)](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
 *  [jhenriques's tutorial](http://jhenriques.net/development.html)
 *  [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
@@ -195,7 +196,7 @@ drm/kms.
    *  [vpp](https://github.com/nyorain/vpp)  - 现代 C++ Vulkan 抽象专注于性能和简单的界面.  [麻省理工学院]
    *  [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 场景图项目，继任者 [OpenSceneGraph](http://www.openscenegraph.org).
    *  [Vulkan-WSIWindow](https://github.com/renelindsay/Vulkan-WSIWindow)  - 用于创建 Vulkan 窗口和处理输入事件的多平台库.  [Apache 许可证 2.0]
-   *  [Screen 13](https://github.com/attackgoat/screen-13)  - Rust 的易于使用的 Vulkan 渲染图.  [麻省理工学院]
+   *  [Screen 13](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. [MIT]
 
 * 框架、引擎、更高级别的渲染
    *  [Acid](https://github.com/Equilibrium-Games/Acid)  - 高速 C++17 Vulkan 游戏引擎.  [麻省理工学院]
@@ -249,7 +250,7 @@ drm/kms.
    *  [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - 用于反射 spirv 的库，简化 Vulkan 管道布局的创建 [Apache-2.0 许可]
 
 ## Bindings
-*  [ash](https://github.com/MaikKlein/ash)  - Rust 的火山键.  [方法]
+*  [ash](https://github.com/MaikKlein/ash)  - Rust 的火山债券.  [方法]
 *  [gfx-rs](https://github.com/gfx-rs/gfx)  - 用于 Rust 的类似 Vulkan 的低开销 GPU API.  [Apache 许可证 2.0]
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) - Vulkan 的 Lua 绑定.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - 为 Vulkan 自动生成 D 绑定.
@@ -297,6 +298,7 @@ drm/kms.
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- 作者 **Pawel Lapinski** - 探索广泛的图形编程和 GPU 计算方法，以充分利用 Vulkan API.
   * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
 * [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - **Graham Sellers** 和 **John Kessenich** - 介绍了适用于许多领域的强大 3D 开发技术.
+* [Mastering Graphics Programming with Vulkan](https://www.amazon.com/Mastering-Graphics-Programming-Vulkan-state/dp/1803244798/ref=sr_1_1?keywords=mastering+graphics+programming+with+vulkan&qid=1678290788&sprefix=mastering+graphics+%2Caps%2C255&sr=8-1) - 从第一原理到最先进的技术开发现代渲染引擎，作者：**Marco Castorina** 和 **Gabriel Sassone**.
 
 ## Papers
 *  [The Road to Vulkan: Teaching Modern Low-Level APIs in Introductory Graphics Courses](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan) 作者：**Johannes Unterguggenberger**、**Bernhard Kerbl** 和 **Michael Wimmer**，Eurographics 2022 - 教育论文

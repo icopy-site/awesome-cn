@@ -27,6 +27,7 @@
 - [Send Many](https://sendstx.com) - 在一次交易中将 STX 发送给多个收件人的应用程序.
 - [MIA Block explorer](http://miamining.com) - 一个网络应用程序，用于为所有和个人账户排除 MIA 硬币交易.
 - [Speed Spend](https://speed-spend.org) - 一套在测试网上运行的 Clarity 实验（[source](https://github.com/friedger/speed-spend)).
+- [Sigle](https://app.sigle.io) - 一个博客平台.
 
 ### Blockchain Name System
 - [btc.us](https://btc.us) - .btc 名称的应用程序.
@@ -39,6 +40,10 @@
 - [Alex Lab](https://app.alexlab.co) - DeFi 服务平台.
 - [Lydian](https://app.lydian.xyz) - 去中心化的资金管理协议.
 - [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - 基于自还贷款的稳定币（USDA）.
+
+### Games
+- [Stacks Degens](https://stacksdegens.com) - 一款通过 NFT 启用复古图形的赛车游戏.
+- [Project Indigo](https://www.projectindigonft.com) - 互动故事和角色扮演游戏体验.
 
 ## Clarity Resources
 
