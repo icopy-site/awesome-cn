@@ -5,7 +5,6 @@
 精选的利基职位列表.
 
 
-- [eCommerce] (#ecommerce)
 
 ## Artificial Intelligence (AI)
 
@@ -28,7 +27,7 @@
 * [Blockchain Works](https://blockchain.works-hub.com/) - 通过 **Blockchain Works** 发现**最好的**区块链机会和文章**
 * [Web3 Jobs](https://web3.career)  - 寻找 web3 工作？  Web3 Jobs 有 8,387 多个 web3 远程和离线工作，如 Web3 开发人员、智能合约开发人员、Solidity 开发人员等等. 将您的职业切换到 Web3，加入未来！
 * [My Web3 Jobs](https://myweb3jobs.com)  - 立即查找或发布 web3 工作！ 每周精心挑选新的 web3 区块链、开发人员和设计师职位.
-* [Woody3](https://www.woody3.xyz/) - 在 Web3 中找到你梦想的非技术工作
+* [Woody3](https://www.woodyjobs.com) - 在 Web3 中找到你梦想的非技术工作
 
 ## Cloud
 
@@ -49,6 +48,7 @@
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
+* [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/)  | 精心挑选的 UI、UX 和 UXR 工作
 
 ## DevOps
 
@@ -96,6 +96,10 @@
 ### Full-Stack
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - 全栈开发人员的工作板
+
+### Frontend
+
+* [Frontend Careers](https://frontendcareers.com/) - 前端开发人员的工作板
 
 ### Functional
 
@@ -157,10 +161,6 @@
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
 
-### WebAssembly
-
-* [WebAssembly Jobs](https://webassemblyjobs.com/)
-
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
@@ -170,6 +170,8 @@
 * [Dynamite Jobs](https://dynamitejobs.com/) - 来自远程优先公司的工作
 * [Teletravail.guru](https://teletravail.guru/) - 法国人的远程工作
 * [Devremote](https://devremote.io/) - 远程第一家公司的远程开发人员工作
+* [RemoteFR](https://remotefr.com/) - 法国人的完整远程工作 
+
 
 ### Aggregator
 
@@ -178,6 +180,7 @@
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
 * [TheRemoteWork](https://theremotework.co/)
+* [MarketRemotely](https://marketremotely.com/) - 来自互联网各地的远程营销工作
 
 ## Startups
 
@@ -192,11 +195,6 @@
 * [GOODJOBS](https://goodjobs.careers/) - 一个工作委员会，在试图解决气候变化和食品不安全等问题的公司中精心挑选工程职位
 * [Relocate.me](https://relocate.me/) - 经过验证的搬迁包
 * [underpin](https://www.underpin.company/) - 来自实际招聘人员的技术工作和求职建议
-
-### Australia
-
-* [Breakout Careers](https://breakout.careers/jobs/) - 澳大利亚最好的技术和创业工作委员会
-* [Headhunted](https://www.headhunted.com.au/jobs/) - 在澳大利亚寻找下一份 IT 工作
 
 ### Canada
 
@@ -217,4 +215,5 @@
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - 为关心文档的人提供的工作
 
 ## Various
-* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关工作
+* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关职位
+* [Privacy-First Jobs](https://privacyfirstjobs.com/) – 在隐私至上的公司和组织中工作.
