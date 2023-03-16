@@ -47,8 +47,9 @@
 - [Stealing Knowledge from Protected Deep Neural Networks Using Composite Unlabeled Data](https://ieeexplore.ieee.org/abstract/document/8851798) -（ICNN）*可用于攻击和提取黑盒模型知识的复合方法，即使它完全隐藏了其 softmax 输出.*
 - [Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment](https://dl.acm.org/citation.cfm?id=3354261)  - (CCS) * 对手设置中的模型反演方法基于训练一个反演模型，该反演模型充当原始模型的反演. 在不完全了解原始训练数据的情况下，通过在从更通用的数据分布中抽取的辅助样本上训练反演模型，仍然可以进行准确的反演. *
 ### 2018
+- [Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR](https://arxiv.org/abs/1711.00399) - (Harvard Journal of Law &amp; Technology) *为了解释关于 x 的决定，找到一个事实：最接近 x 的点改变了决定.*
 - [Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/abs/1710.06169) -（AIES）*将黑盒模型视为教师，训练透明的学生模型以模仿黑盒模型分配的风险分数.*
-- [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code)](https://github.com/coallaoh/WhitenBlackBox) *Infer inner hyperparameters (eg number of layers, non-linear activation type) of a remote neural network model by analysing its response patterns to certain inputs.*
+- [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code)](https://github.com/coallaoh/WhitenBlackBox) *通过分析远程神经网络模型对某些输入的响应模式，推断其内部超参数（例如层数、非线性激活类型）.*
 - [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) -（神经计算）*逆向工程远程分类器模型（例如，用于逃避验证码测试）.*
 - [xGEMs: Generating Examplars to Explain Black-Box Models](https://arxiv.org/pdf/1806.08867.pdf)  - (arXiv) *通过训练无监督隐式生成模型来搜索黑盒模型中的偏差. 然后通过沿数据流形扰动数据样本来定量总结黑盒模型行为. *
 - [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) -（NIPS）*通过观察一些随机步行通勤时间来反转图表.*
@@ -62,6 +63,9 @@
 - [Membership Inference Attacks Against Machine Learning Models](http://ieeexplore.ieee.org/document/7958568/) -（安全和隐私研讨会）*给定机器学习模型和记录，确定该记录是否用作模型训练数据集的一部分.*
 - [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009) -（亚洲 CCS）*了解远程服务对对抗性分类攻击有多脆弱.*
 ### 2016
+- [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](https://www.andrew.cmu.edu/user/danupam/datta-sen-zick-oakland16.pdf) - (IEEE S&amp;P) *使用沙普利值评估特征对模型的个体、联合和边际影响.*
+- [Auditing Black-Box Models for Indirect Influence](https://arxiv.org/abs/1602.07043) -（ICDM）*通过“巧妙地”将变量从数据集中删除并查看精度差距来评估变量对黑盒模型的影响*
+- [Iterative Orthogonal Feature Projection for Diagnosing Bias in Black-Box Models](https://arxiv.org/abs/1611.04967) -（FATML Workshop）*执行功能排名以分析黑盒模型*
 - [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) -（dat workshop）*测量 TaskRabbit 的搜索算法排名.* 
 - [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) -（Usenix 安全）  [(Code)](https://github.com/ftramer/Steal-ML) *旨在提取远程服务使用的机器学习模型.*
 - [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code)](https://github.com/marcotcr/lime-experiments) *通过对数据实例进行采样来解释黑盒分类器模型.*
@@ -69,8 +73,10 @@
 - [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) -（安全和隐私）*引入衡量输入对观察系统输出影响程度的措施.*
 - [An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace](https://mislove.org/publications/Amazon-WWW.pdf) - （万维网） [(Code)](http://personalization.ccs.neu.edu) *开发一种检测算法定价的方法，并根据经验使用它来分析它们在亚马逊市场上的流行程度和行为.*
 ### 2015
+- [Certifying and Removing Disparate Impact](https://arxiv.org/abs/1412.3756) -（SIGKDD）*提出基于 SVM 的方法来证明不存在偏见和消除数据集中偏见的方法.*
 - [Peeking Beneath the Hood of Uber](https://dl.acm.org/citation.cfm?id=2815681) -（IMC）*推断 Uber 激增价格算法的实施细节.*
 ### 2014
+- [窥探黑匣子：通过随机化探索分类器]() -（数据挖掘和知识发现期刊）（[code](https://github.com/tsabsch/goldeneye)) *找到可以在不改变预测样本输出标签的情况下排列的特征组*
 - [XRay: Enhancing the Web's Transparency with Differential Correlation](https://www.usenix.org/node/184394) -（USENIX 安全）*审计哪些用户配置文件数据用于定位特定广告、推荐或价格.*
 ### 2013
 - [Measuring Personalization of Web Search](https://dl.acm.org/citation.cfm?id=2488435) - (WWW) *开发了一种衡量网络搜索结果个性化的方法.*

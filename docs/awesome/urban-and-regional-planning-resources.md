@@ -33,7 +33,7 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是一个全国性的地理数据资源，用于衡量位置效率. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内的开放建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些建筑物足迹是使用我们在卫星图像上的计算机视觉算法得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 - [National Structures Inventory](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation) - 一个数据集，旨在提供对一致的、全国可用的基于点的结构清单的访问，并附有属性以支持对自然和人为灾害后果的评估.
 
 ### Climate
@@ -74,7 +74,7 @@
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
-- [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
+- [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
 ### Equity and Environmental Justice
@@ -97,8 +97,8 @@
 
 ### Historic Preservation
 
-- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - 国家史迹名录是国家值得保护的历史名胜的官方名单.
-- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - 世界遗产地是联合国教科文组织世界遗产委员会维护的财产清单上的一个地点，被称为世界遗产名录“它认为具有突出的普遍价值”.
+- [National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/data-downloads.htm) - The National Register of Historic Places is the official list of the Nation's historic places worthy of preservation.
+- [UNESCO World Heritage Sites](https://whc.unesco.org/en/list/) - A World Heritage Site is a site on a list of properties maintained by the World Heritage Committee of UNESCO and called the World Heritage List "which it considers as having outstanding universal value".
 
 ### Housing
 
@@ -137,7 +137,7 @@
 
 ### Transportation
 - [Accessibility Observatory](http://access.umn.edu/data/datasets/)  - 作为 Access Across America 系列的一部分，UMN 的 Accessibility Observatory 评估了美国主要大都市地区多种交通方式的可达性. 报告每年发布一次，精选数据集可通过明尼苏达大学的数字学院获得.
-- [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一组全国（美国）交通设施和网络公共空间信息地理数据库； 交通网络中的人流、货物流、车辆流和工艺流； 影响交通网络或受交通网络影响的社会、经济和环境条件.
+- [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/) - On the BTS Open Data site, browse geospatial data that is part of the BTS National Transportation Atlas Database (NTAD) product. NTAD is a set of nationwide (United States) geographic databases of public spatial information for transportation facilities and networks; flows of people, goods, vehicles, and craft over the transportation networks; and social, economic, and environmental conditions that affect or are affected by the transportation networks.
 - [City Access Map](https://www.cityaccessmap.com/)  - CityAccessMap 由城市科学家为城市规划者开发. 它使用来自 OpenStreetMap 和全球人类住区层 (GHSL) 的开放数据，对世界上任何城市的各种服务的步行可达性进行量化和可视化.
 - [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家到工作的 FLOWS 数据和小型地理区域的基于 WORKPLACE 的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - HPMS 是国家级公路信息系统，包括有关国家公路范围、状况、性能、使用和运营特征的数据.
@@ -195,7 +195,7 @@
 - [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问互联汽车数据变得简单和安全. 这些数据可用于起点-终点分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 提供使用智能手机作为传感器的数据，以测量整个北美的车辆、自行车和行人. 在预算内按时完成任务，24/7 全天候访问计数、OD 和您需要的其他指标.
-- [Strava](https://developers.strava.com/)  - 适用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
+- [Strava](https://developers.strava.com/) - API for a popular tracking app for runners and cyclists. Data can be used to understand active transportation usage and patterns.
 - [Teralytics](https://www.teralytics.net/) - 使用全球电信提供商网络，根据蜂窝跟踪数据提供有关移动模式的数据和见解. 
 - [Inrix](https://inrix.com/) - 为汽车和运输行业提供创新数据产品，例如实时停车和交通信息解决方案. 
 - [Unacast](https://www.unacast.com/) - 提供与人们如何在 80 多个国家/地区移动相关的基于位置的分析，范围从客流量指标到交叉访问. 
@@ -210,7 +210,7 @@
 - [CityGML](https://www.ogc.org/standards/citygml)  - CityGML 标准定义了虚拟 3D 城市模型的表示、存储和交换的概念模型和交换格式. 它为公民系统提供了一个跨学科的通用操作平台. 
 - [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Association's](https://www.planning.org/) 基于土地的分类标准从五个维度（活动、功能、结构、地点和所有权）对土地用途进行分类. 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以使用该语言定义他们希望在其拓扑中使用的实体的语言. 
-- [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested parties to create a shared data specification for building and construction permit data.
+- [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力的成果，旨在为建筑和施工许可数据创建共享数据规范.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - House Facts 数据标准是报告有关住宅建筑的运营、安全和性能的政府数据的统一格式.
 - [IFC](https://technical.buildingsmart.org/standards/ifc/)  - IFC 是对建筑环境（包括建筑物和民用基础设施）的标准化、数字化描述. 它是一个开放的国际标准 (ISO 16739-1:2018).
 
@@ -224,7 +224,7 @@
 - [CDS](https://github.com/openmobilityfoundation/curb-data-specification) - 路缘数据规范提供了路缘法规的数据规范以及连接的事件和指标 API，旨在帮助城市管理其路缘区域计划和周边地区，并衡量利用率和影响.
 - [GTFS](https://developers.google.com/transit/gtfs) - General Transit Feed Specification 是描述交通系统的流行标准.
 - [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange 是一项欧洲标准，用于交换标准化时间表和用于描述运输系统的其他系统特征. 
-- [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - This standard provides users transit data updates in real time greatly enhances their experience of transit services. 
+- [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - 该标准为用户提供实时的公交数据更新，极大地提升了他们的公交服务体验. 
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但与符合欧洲标准的硬件和网络系统兼容.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [GBFS](https://github.com/NABSA/gbfs) - 通用自行车共享馈送规范是共享移动系统可用性的标准化数据馈送.
@@ -242,11 +242,11 @@ Python 库和相关资源.
 
 - [Pandas](https://pandas.pydata.org/) - 灵活而强大的 Python 数据分析/操作库，提供类似于 R data.frame 对象、统计函数等的标记数据结构.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy 是一个 Python 站点包，它提供了一种有用且高效的方法来使用 Python 执行地理数据分析、数据转换、数据管理和地图自动化.
-- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of pandas within the ArcGIS platform. 
+- [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/)  - ArcGIS API for Python 是一个功能强大、现代且易于使用的 Pythonic 库，用于执行 GIS 可视化和分析、空间数据管理和 GIS 系统管理任务，这些任务可以交互运行并使用脚本. 该库支持在 ArcGIS 平台中轻松使用 pandas. 
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
 - [Peartree](https://github.com/kuanb/peartree) - Peartree 帮助探索 GTFS 数据及其网络特征. 
-- [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
+- [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个用于构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息：许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据的地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
@@ -254,7 +254,7 @@ Python 库和相关资源.
 - [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一小组 Python 函数，用于从 OpenStreetMap 数据绘制漂亮的地图.
 - [HerePy](https://github.com/abdullahselek/HerePy) - 一个为 HERE API 提供 Python 接口的库. 
-- [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
+- [StreetTraffic](https://github.com/streettraffic/streettraffic) - StreetTraffic是一个Python包，使用HERE提供的API爬取你喜欢的路线、城市的交通流量数据.
 - [PySAL](https://pysal.org) - Python 空间分析库是一组用于探索空间相关性和其他空间关系的算法.
 - [city-seer-api](https://cityseer.benchmarkurbanism.com/) - 基于行人规模网络的城市分析包：网络分析、城市形态、土地利用、可达性和统计聚合.
 - [Geemap](https://github.com/giswqs/geemap) - 用于与 Google Earth Engine、ipyleaflet 和 ipywidgets 进行交互式映射的 Python 包.
@@ -307,7 +307,7 @@ R 包及相关资源.
 - [Introduction to Urban Informatics](https://courses.planetizen.com/course/urban-informatics)  - Planetizen 课程教授大数据处理、分析和可视化的基础知识. 需要每月订阅. 
 
 ## Platforms and Software Resources
-面向规划人员和对建筑环境感兴趣的人员的软件和平台. 
+Software and platforms for planners and those interested in the built environment. 
 
 ---
 ### Environmental and Climate Planning Tools and Platforms
@@ -329,10 +329,22 @@ R 包及相关资源.
 - [CARTO](https://carto.com/) - CARTO 是世界领先的位置智能平台，使组织能够托管和使用空间数据，并能够分析更高效的交付路线、更好的行为营销、战略性商店布局等等.
 - [kepler.gl](https://kepler.gl/)  - Kepler 是一个与数据无关、支持 WebGL 的高性能 Web 应用程序，用于地理空间分析可视化. 附加信息： [API Reference](https://docs.kepler.gl/docs/api-reference).
 - [flowmap-blue](https://flowmap.blue)  - 创建代表您在 Google 表格中发布的数据的地理流量图. 可视化位置之间的移动次数（起点-终点数据）.
-- [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data. 
+- [ScapeToad](http://scapetoad.choros.place/index.php)  - ScapeToad 是一个跨平台的开源应用程序，旨在根据某些属性调整多边形的大小. 使用 shapefile 作为输入和输出来生成制图，其大小根据数据扭曲的几何图形. 
 - [Heavy.AI](https://www.heavy.ai/) - 启用 Geotemporal 的高性能数据库能够执行 GPU 加速查询.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - BlenderGIS 是一个免费的开源插件 [Blender](https://www.blender.org/) 它允许用户直接通过 Blender 的 GUI 探索、查询和可视化数据.
 - [Felt](https://felt.com/) - 基于 Web 的地图应用程序，使多个用户能够实时协同编辑和查看数据. 
+
+### Immersive Planning and Design Platforms
+旨在创建我们世界的数字复制品、渲染城市场景并让利益相关者沉浸在 3D 数字环境中以说明潜在设计或替代未来的软件、工具和平台.
+
+- [Arkio](https://www.arkio.is/) - Arkio 是一种新的基于云的协作空间设计软件，允许规划人员、设计师和利益相关者通过 VR 和其他设备创建建筑物和社区的 3D 模型. 
+- [InCitu](https://www.incitu.us/) - InCitu 是一个 AR 平台，旨在通过表示建筑物、经济适用房、混合用途开发、公园和桥梁的比例模型，支持城市规划人员分析和可视化城市数据. 
+- [Polycam](https://poly.cam/ ) - Polycam 是一款移动应用程序，可让规划人员扫描现实世界中的物体和地点并将其数字化，以用于 3-D 模型，从而使用智能手机的相机轻松进行摄影测量. 
+- [Spatial](https://www.spatial.io) - Spatial 是一个高度协作的网络、移动和 VR 应用程序规划者，用于在包括 Metaverse 在内的环境中创建身临其境的共同体验和空间. 
+- [Spectracities](https://www.spectracities.com/ ) - Spectra 是一个开源 VR 和混合现实平台，允许规划师和设计师将物理场所营造和数字世界构建相结合，重新构想城市建设过程，从单一项目和填充开发到大规模沉浸式环境.   
+- [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion 是一款易于使用的实时可视化软件，可创建离线渲染器质量的图像、动画和全景图，以及基于虚幻引擎构建的交互式 360° 视频和 VR 演示. 
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games 的 Unreal 5 是一个 XR 引擎，它允许规划人员不仅可以创建可视化效果，还可以创建沉浸式环境，将社区参与、决策制定和规划过程游戏化.   
+
 
 ### Public Engagement Tools and Platforms
 旨在帮助公众参与和外展活动的软件、工具和平台. 
@@ -356,7 +368,6 @@ R 包及相关资源.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
 - [TestFit](https://testfit.io/) - TestFit 具有算法和共同创造工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑场地规划.
 - [Delve](https://www.sidewalklabs.com/products/delve) - Delve 使用生成式设计和 AI 为您的项目优先级和站点设计指标揭示最佳选择.
-- [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion 是一款易于使用的实时可视化软件，可创建离线渲染器质量的图像、动画和全景图，以及基于虚幻引擎构建的交互式 360° 视频和 VR 演示. 
 
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
@@ -392,7 +403,7 @@ R 包及相关资源.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的考试准备“五步法”，并列出了帮助您成功通过 AICP 考试的资源/材料.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员与精选的主题相关资源集合联系起来——包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和专题分组，以及书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国认证规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
-- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/) - Comprehensive collection of study materials compiled by APA Florida. APA members can also email Henry Bittaker at the address given for access to recordings of exam prep and practice question study sessions led by him. 
+- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 编制的综合学习资料集.  APA 成员还可以通过给定的地址向 Henry Bittaker 发送电子邮件，以获取他领导的考试准备和练习题研究会议的录音. 
 
 
 ### Literature Resources
@@ -402,7 +413,7 @@ R 包及相关资源.
 - [TFResource](https://tfresource.org/) - A collection of best practices for travel demand forecasting and travel survey methods.
 - [Planning Advisory Service (PAS)](https://www.planning.org/pas/) - 规划咨询服务 (PAS) 是美国规划协会 (APA) 的旗舰研究品牌，负责以下出版物： [PAS Reports](https://www.planning.org/pas/reports) （季刊）， [*PAS Memo*](https://www.planning.org/pas/memo) （双月刊），以及 [*PAS QuickNotes*](https://www.planning.org/pas/quicknotes)  （双月刊）.  APA 会员可以免费下载当前出版物和以前问题的档案.
 - [Policy Guides](https://www.planning.org/policy/guides/) - 政策指南代表 APA 在关键规划问题上的官方立场，并为规划者提供工具来倡导为所有人创造伟大社区的政策.
-- [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome)  - 提供对国家交通图书馆的一系列全文当前和历史文件的访问. 可以从所有交通方式以及气候变化研究等相关学科获得资源. 
+- [Repository and Open Science Access Portal (ROSA P)](https://rosap.ntl.bts.gov/welcome) - Provides access to a range of full-text current and historical documents from the National Transportation Library. Resources are available from all modes of transportation as well as related disciplines such as climate change research. 
 - [Automated Decision-Making and the Law Clearinghouse Project](https://law.unc.edu/academics/centers-and-programs/ai-dr-program/clearinghouse/) - 因此，这个信息交换所项目的目的是突出关注人工智能决策和法律问题的开创性和有影响力的文章.
 
 ### General Planning Information and News
@@ -436,7 +447,7 @@ R 包及相关资源.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
 
 ### Other Technology Resource Aggregators
-These are other aggregators that bring together different planning related tools, software, data, and related resources.
+这些是其他聚合器，汇集了不同的规划相关工具、软件、数据和相关资源.
 
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.

@@ -113,7 +113,7 @@
 * [SideNotes](https://www.apptorium.com/sidenotes)  - 屏幕侧的快速笔记. 在使用其他应用程序时做笔记. 使用 Markdown 进行文本格式化.
 * [Standard Notes](https://standardnotes.com/)  - 面向数字专家和专业人士的端到端加密笔记应用程序.  [![开源软件][OSS 图标]](https://github.com/standardnotes/app) ![免费软件][免费软件图标]
 * [QOwnNotes](http://www.qownnotes.org/)  - 具有降价支持和待办事项列表管理器的开源记事本.  [![开源软件][OSS 图标]](https://github.com/pbek/QOwnNotes) ![免费软件][免费软件图标]
-* [Quiver](http://happenapps.com/#quiver) - 程序员的笔记本，让您轻松地在一个笔记中混合文本、代码、Markdown 和 LaTeX，使用很棒的代码编辑器编辑代码并实时预览 Markdown 和 LaTeX.
+* [Quiver](http://happenapps.com/#quiver) - 程序员的笔记本，让您轻松地在一个笔记中混合文本、代码、Markdown 和 LaTeX，使用超棒的代码编辑器编辑代码并实时预览 Markdown 和 LaTeX.
 * [AliYuQue](https://www.yuque.com/install/desktop) - 云笔记知识管理、协作平台，基于Markdown写作，支持内嵌流程图、脑图、时序、代码渲染、画板创建、个人知识分享等.相比有道云笔记和印象笔记同类产品，包括其所有功能，支持知识共享，更强大的创作、协作和编辑，来自阿里巴巴蚂蚁金服！[免费软件][免费软件图标]
 * [Skiff](https://skiff.com/)  - 采用零信任隐私设计的端到端加密和去中心化电子邮件、实时文档协作和文件存储——可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS 图标]](https://github.com/skiff-org)
 
@@ -659,7 +659,7 @@
 ### Audio Record and Process
 
 * [GarageBand](https://www.apple.com/mac/garageband/)  - 免费的 Apple 数字音频工作站 (DAW)，提供简单的界面和专业级的音频制作功能.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&amp;ls=1&amp;mt=12)
-* [Logic Pro X](https://www.apple.com/logic-pro/)  - 来自 Apple 的专业数字音频工作站 (DAW)，提供完整的音频制作功能以及高品质的原生插件和配乐. 具有原生 Apple Silicon 支持.  [![应用商店][应用商店图标]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&amp;mt=12)
+* [Logic Pro X](https://www.apple.com/logic-pro/)  - 来自 Apple 的专业数字音频工作站 (DAW)，提供完整的音频制作功能以及高质量的原生插件和配乐. 具有原生 Apple Silicon 支持.  [![应用商店][应用商店图标]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&amp;mt=12)
 
 ## Download Management Tools
 
@@ -867,7 +867,7 @@
 * [ActivityWatch](https://activitywatch.net/)  - 跨平台、可扩展且注重隐私的时间跟踪器.  [![开源软件][OSS 图标]](https://github.com/ActivityWatch/activitywatch) ![免费软件][免费软件图标]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterMouse](https://better-mouse.com)  - 平滑滚动、光标加速禁止和强大的按钮/手势重新映射在一个用于第 3 方鼠标的实用程序中. 旨在取代那些笨重和侵入性的官方驱动程序.
-* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，可让您为 Magic Mouse、Macbook Trackpad、Magic Trackpad 以及普通鼠标的鼠标手势配置许多手势.
+* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，允许您为 Magic Mouse、Macbook Trackpad、Magic Trackpad 以及普通鼠标的鼠标手势配置许多手势.
 * [Cerebro](https://cerebroapp.com/)  - 具有大脑的开源生产力助推器.  [![开源软件][OSS 图标]](https://github.com/cerebroapp/cerebro) ![免费软件][免费软件图标]
 * [Choosy](https://www.choosyosx.com) - UI、URL API 和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
 * [Clovery](https://clovery.app)  - 将您最喜爱的所有 Google 服务与您的 Mac 紧密集成，让您快速访问这些服务并提高工作效率.  [![开源软件][OSS 图标]](https://github.com/webcatalog/neutron) [![App Store][app-store 图标]](https://apps.apple.com/我们/app/clovery-for-google-apps/id1552618413）
@@ -931,7 +931,6 @@
 * [Enpass](https://www.enpass.io/)  - 具有云集成的跨平台密码管理工具.  [![应用商店][应用商店图标]](https://itunes.apple.com/us/app/enpass-password-manager/id455566716)
 * [Keeweb](https://keeweb.info/)  - 与 KeePass 兼容的免费跨平台密码管理器.  [![开源软件][OSS 图标]](https://github.com/keeweb/keeweb) ![免费软件][免费软件图标]
 * [KeepassXC](https://keepassxc.org/)  - 免费、开源、跨平台的密码管理器.  [![开源软件][OSS 图标]](https://github.com/keepassxreboot/keepassxc) ![免费软件][免费软件图标]
-* [LastPass](https://lastpass.com/) - 适用于 Mac 操作系统和浏览器的密码管理工具.
 * [MacPass](https://macpass.github.io/)  - 开源 KeePass Mac OS 客户端.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/mstarke/MacPass)
 * [SafeInCloud](https://safe-in-cloud.com/en/)  - 跨平台密码管理，低成本的应用程序！  [![应用商店][应用商店图标]](https://itunes.apple.com/app/safeincloud-password-manager/id883070818)
 * [Strongbox](https://strongboxsafe.com/)  - 适用于 iOS 和 MacOS 的安全密码管理. 开源. 与 KeePass 和密码安全兼容.  [![开源软件][OSS 图标]](https://github.com/strongbox-password-safe/Strongbox) [![App Store][app-store 图标]](https://apps. apple.com/us/app/strongbox/id1270075435?mt=12）

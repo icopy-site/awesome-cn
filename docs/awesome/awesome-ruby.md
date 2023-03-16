@@ -627,7 +627,7 @@
 * [HappyMapper](https://github.com/dam5s/happymapper) - 对象到 XML 映射库，使用 Nokogiri.
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) - HTML 处理过滤器和实用程序.
 * [Nokogiri](https://nokogiri.org) - 支持 XPath 和 CSS 选择器的 HTML、XML、SAX 和 Reader 解析器.
-* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  oga不需要libxml等系统库，在各种平台上安装更简单快捷.
+* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，在各种平台上安装更简单、更快捷.
 * [Ox](https://github.com/ohler55/ox) - 一个快速的 XML 解析器和对象编组器.
 * [ROXML](https://github.com/Empact/roxml) - 通过 Nokogiri 或 LibXML，使用注释样式类方法在 Ruby 和 XML 之间自定义映射和双向编组.
 
@@ -769,7 +769,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -899,7 +899,7 @@
 
 ## Processes
 
-* [childprocess](https://github.com/jarib/childprocess) - 用于管理子进程的跨平台 ruby​​ 库.
+* [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys &gt;= 1.8.7 基于 posix_spawn() 系统接口.
 
 ## Profiler and Optimization
@@ -995,7 +995,7 @@
 * [SciRuby](https://github.com/sciruby/sciruby) - Ruby/Rails 中的科学计算工具.
   * [IRuby](https://github.com/SciRuby/iruby) - 用于 Jupyter 的 Ruby 内核.
   * [statsample](https://github.com/sciruby/statsample) - 用于 Ruby 基本和高级统计的套件.
-  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
+  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby 统计样本时间序列.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) - Statsample 的广义线性模型扩展.
   * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.
@@ -1069,7 +1069,7 @@
 
 * [Decidim](https://github.com/decidim/decidim) - 城市和组织的免费开源参与式民主
 * [diaspora*](https://github.com/diaspora/diaspora) - 隐私意识、分布式、开源社交网络.
-* [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+* [Discourse](https://github.com/discourse/discourse)  - 社区讨论的平台. 免费、开放、简单.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - 用于 Rails 应用程序的私人消息系统.
 * [Mastodon](https://github.com/Gargron/mastodon) - 与 GNU 社交兼容的微博服务器.
 * [Retrospring](https://github.com/Retrospring/retrospring) - 遵循 Q/A（问答）原则的社交网络.
@@ -1134,7 +1134,7 @@
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
@@ -1208,6 +1208,7 @@
 ## Video
 
 * [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg) - 简单而强大的 ffmpeg 命令包装器，用于读取元数据和转码电影.
+* [VideoInfo](https://github.com/thibaudgg/video_info) - 从 Dailymotion、Vimeo、Wistia 和 YouTube URL 获取视频信息.
 * [Video Transcoding](https://github.com/donmelton/video_transcoding) - 转码、检查和转换视频的工具.
 
 ## View components

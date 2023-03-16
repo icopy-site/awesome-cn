@@ -71,6 +71,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Athena Console](https://github.com/athena-framework/console) - 允许创建基于 CLI 的命令
  * [clicr](https://github.com/j8r/clicr) - 一个简单的声明式命令行界面生成器
  * [clim](https://github.com/at-grandpa/clim) - 超薄命令行界面生成器
+ * [Cling](https://github.com/devnote-dev/cling) - 一个模块化的、非基于宏的命令行界面库
  * [commander](https://github.com/mrrooijen/commander) - 命令行界面生成器
  * [Keimeno](https://github.com/robacarp/keimeno) - Crystal 中的轻量级文本用户界面库
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - 命令行选项处理（Crystal stdlib）
@@ -156,6 +157,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 绑定
  * [leveldb](https://github.com/crystal-community/leveldb) - LevelDB 的水晶绑定
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) - RocksDB 客户端
+ * [surrealdb.cr](https://github.com/yorci/surrealdb.cr) - 非官方 SurrealDB HTTP 和 Websocket 客户端
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) - 更简单的带事务的数据库迁移工具
@@ -163,7 +165,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Debugging
 * [backtracer.cr](https://github.com/Sija/backtracer.cr) - 旨在协助将回溯解析为结构化形式的分片
-* [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` 用于 `pp` 风格调试的宏
+* [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ## Dependency Injection
  * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - 健壮的依赖注入服务容器框架
@@ -514,7 +516,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
  * [procodile](https://github.com/crystal-china/procodile_cr) - 从 Procfile（用于生产和/或开发环境）在 Mac 和 Linux 的后台（和前台）运行进程
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
@@ -554,7 +556,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## LSP Language Server Protocol Implementations
  * [crystalline](https://github.com/elbywan/crystalline) - Crystalline 是用 Crystal 语言编写并为 Crystal 语言编写的语言服务器协议的实现
- * [scry](https://github.com/crystal-lang-tools/scry) - Code analysis server for Crystal implementing the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+ * [scry](https://github.com/crystal-lang-tools/scry) - Crystal 的代码分析服务器实现 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins
  * [crun](https://github.com/Val/crun) - Crystal Run：水晶的 shebang 包装

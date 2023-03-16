@@ -187,6 +187,7 @@
 - [Fail2ban](https://www.fail2ban.org/) - 保护计算机服务器免受暴力攻击的入侵防御软件框架.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源、免费、功能丰富、基于主机的入侵检测系统 (HIDS).
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 兼容 POSIX 的 Bash 脚本，可扫描主机以查找各种恶意软件迹象.
+- [Shufflecake](https://shufflecake.net/) - Linux 上多个隐藏文件系统的似是而非的推诿.
 - [USB Keystroke Injection Protection](https://github.com/google/ukip) - 用于在 Linux 系统上阻止 USB 击键注入设备的守护进程.
 - [chkrootkit](http://chkrootkit.org/) - 在 GNU/Linux 系统上本地检查 rootkit 的迹象.
 
@@ -370,7 +371,7 @@
 - [ESET's Malware IoCs](https://github.com/eset/malware-ioc) - 来自 ESET 各种调查的妥协指标 (IOC).
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - 收集 Snort 和 YARA 规则，以检测使用 FireEye 自己的 Red Team 工具进行的攻击，在 FireEye 于 2020 年 12 月披露漏洞后首次发布.
 - [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) - 各种语言的 IoC 集合，用于检测后门 SolarWinds Orion NMS 活动和相关漏洞.
-- [YARA Rules](https://github.com/Yara-Rules/rules) - 项目涵盖 IT 安全研究人员拥有一个单一存储库的需求，在该存储库中编译、分类不同的 Yara 签名并尽可能保持最新.
+- [YARA Rules](https://github.com/Yara-Rules/rules) - 项目涵盖了 IT 安全研究人员拥有一个单一存储库的需求，在该存储库中对不同的 Yara 签名进行编译、分类并尽可能保持最新.
 
 ## Tor Onion service defenses
 

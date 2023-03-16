@@ -52,7 +52,7 @@
 - [note-to-yew](https://github.com/oovm/note-to-yew) - 在线将您的标记转换为 Yew 宏，这也是由 Yew 制作的.
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) - 可配置的 Hangman 游戏，适用于具有 ASCII 艺术奖励的儿童.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用 Yew，Rust 支持后端 API.
-- [wasm-2048](https://github.com/dev-family/wasm-2048) - 使用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
+- [wasm-2048](https://github.com/dev-family/wasm-2048) - 用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我的个人网站通过 Yew/Wasm 用 Rust 编写.
 - [KeyPress](https://github.com/rayylee/keypress) - 为中文练习英语的 Rust WebAssembly 网站示例.
 - [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - 一个 Rust WebAssembly [Webapp](http://118.190.37.169:8002) 示例基于 Yew 最新的 hooks 和函数式 API，代码风格非常像 React Function Component.
@@ -120,6 +120,7 @@
 - [yew-chart](https://github.com/titanclass/yew-chart) - 基于 Yew 的图表库，提供基于 SVG 的组件来渲染图表.
 - [tailyew](https://github.com/fuzzycloud/tailyew) - 围绕 DaisyUI（基于 tailwindcss）组件的 Yew 包装器.
 - [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui)  - Duskmoon UI 组件库. 这个包使用 `stylist` 在组件中嵌入 css，所以不需要额外的 CSS 文件. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
+- [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - Bootstrap 5 组件库的 Yew 包装器.
 
 ### Components
 
@@ -134,7 +135,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 调和 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
-- [yewv](https://github.com/yewv/yewv) - Yew 的闪电般快速状态管理模块，以性能和简单性为第一要务.
+- [yewv](https://github.com/yewv/yewv) - 以性能和简单性为第一要务的 Yew 闪电般快速状态管理模块.
 
 ### Javascript Library Ports
 

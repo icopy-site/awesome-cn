@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-If you also want to support this project, head over to our [Github sponsors page](https://github.com/sponsors/analysis-tools-dev).
+如果您也想支持这个项目，请访问我们 [Github sponsors page](https://github.com/sponsors/analysis-tools-dev).
 
 ## Meaning of Symbols:
 
@@ -98,7 +98,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [cppcheck](https://cppcheck.sourceforge.io) — C/C++ 代码的静态分析.
 
-- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
+- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
 
@@ -130,7 +130,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [MATE](https://galoisinc.github.io/MATE/)  — 一套用于交互式程序分析的工具，重点是寻找 C 和 C++ 代码中的错误.  MATE 使用代码属性图 (CPG) 统一了特定于应用程序和低级别的漏洞分析，从而能够发现高度特定于应用程序的漏洞，这些漏洞取决于实现细节和目标 C/C++ 程序的高级语义.
 
-- [PC-lint](https://www.gimpel.com)  :copyright: — C/C++ 的静态分析. 在 Windows/Linux/MacOS 下原生运行. 分析几乎任何平台的代码，支持 C11/C18 和 C++17.
+- [PC-lint](https://pclintplus.com/)  :copyright: — C/C++ 的静态分析. 在 Windows/Linux/MacOS 下原生运行. 分析几乎任何平台的代码，支持 C11/C18 和 C++17.
 
 - [Phasar](https://phasar.org) — 基于 LLVM 的静态分析框架，带有污点和类型状态分析.
 
@@ -192,7 +192,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [cppcheck](https://cppcheck.sourceforge.io) — C/C++ 代码的静态分析.
 
-- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
+- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
 
@@ -220,7 +220,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [MATE](https://galoisinc.github.io/MATE/)  — 一套用于交互式程序分析的工具，重点是寻找 C 和 C++ 代码中的错误.  MATE 使用代码属性图 (CPG) 统一了特定于应用程序和低级别的漏洞分析，从而能够发现高度特定于应用程序的漏洞，这些漏洞取决于实现细节和目标 C/C++ 程序的高级语义.
 
-- [PC-lint](https://www.gimpel.com)  :copyright: — C/C++ 的静态分析. 在 Windows/Linux/MacOS 下原生运行. 分析几乎任何平台的代码，支持 C11/C18 和 C++17.
+- [PC-lint](https://pclintplus.com/)  :copyright: — C/C++ 的静态分析. 在 Windows/Linux/MacOS 下原生运行. 分析几乎任何平台的代码，支持 C11/C18 和 C++17.
 
 - [Phasar](https://phasar.org) — 基于 LLVM 的静态分析框架，带有污点和类型状态分析.
 
@@ -365,7 +365,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [go-critic](https://github.com/go-critic/go-critic) — Go 源代码 linter，维护当前未在其他 linter 中实现的检查.
 
-- [go/ast](https://golang.org/pkg/go/ast) — Package ast declares the types used to represent syntax trees for Go packages.
+- [go/ast](https://golang.org/pkg/go/ast) — 包 ast 声明用于表示 Go 包语法树的类型.
 
 - [gochecknoglobals](https://github.com/leighmcculloch/gochecknoglobals) — 检查是否不存在全局变量.
 
@@ -410,7 +410,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [nakedret](https://github.com/alexkohler/nakedret) — 发现裸回报.
 
-- [nargs](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
+- [nargs](https://github.com/alexkohler/nargs) — 查找函数声明中未使用的参数.
 
 - [prealloc](https://github.com/alexkohler/prealloc) — 查找可能预分配的切片声明.
 
@@ -650,7 +650,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -787,7 +787,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -1063,7 +1063,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [stc](https://stc.dudy.dev) — 用 Rust 编写的快速 TypeScript 类型检查器
 
-- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint 已于 2019 年弃用.请参阅此问题了解更多详细信息：typescript-eslint 现在是检查 TypeScript 的最佳选择.
+- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint 自 2019 年起已被弃用.请参阅 [this issue](https://github.com/palantir/tslint/issues/4534) 更多细节.  `typescript-eslint` 现在是检查 TypeScript 的最佳选择.
  TSLint 是一种可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受 Clean Code 手册启发的 TSLint 规则.
@@ -1120,6 +1120,8 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: — Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95.
 
+- [Bearer](https://bearer.com)  — 开源静态代码分析工具，用于发现、过滤和优先处理导致敏感数据泄露（PII、PHI、PD）的安全风险和漏洞. 高度可配置且易于扩展，专为安全和工程团队打造.
+
 - [Better Code Hub](https://bettercodehub.com) :copyright: — Better Code Hub 根据软件质量权威机构 Software Improvement Group 制定的 10 项工程指南检查您的 GitHub 代码库.
 
 - [callGraph](https://github.com/koknat/callGraph) — 静态生成调用图图像并将其显示在屏幕上.
@@ -1138,7 +1140,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Codacy](https://www.codacy.com) :copyright: — 代码分析以更快地发布更好的代码.
 
-- [Code Intelligence](https://www.code-intelligence.com) :copyright: — 与 CI/CD 无关的 DevSecOps 平台，结合了行业领先的模糊测试引擎，用于查找错误和可视化代码覆盖率
+- [Code Intelligence](https://www.code-intelligence.com) :copyright: — CI/CD-agnostic DevSecOps platform which combines industry-leading fuzzing engines for finding bugs and visualizing code coverage
 
 - [Codeac](https://www.codeac.io/?ref=awesome-static-analysis)  :copyright: — 自动代码审查工具集成了 GitHub、Bitbucket 和 GitLab（甚至是自托管）. 适用于 JavaScript、TypeScript、Python、Ruby、Go、PHP、Java、Docker 等.  （开源免费）
 
@@ -1268,7 +1270,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Rome](https://rome.tools/) — Rome 是一个 linter、编译器、打包器和 [more](https://rome.tools/#development-status) 适用于 JavaScript、TypeScript、JSON、HTML、Markdown 和 CSS.
 
-- [Rome Formatter](https://rome.tools/blog/2022/04/05/rome-formatter-release) — 用 Rust 编写的 JS/TS 的高性能和容错代码格式化程序
+- [Rome Formatter](https://rome.tools/blog/2022/04/05/rome-formatter-release) — A performant and fault-tolerant code formatter for JS/TS written in Rust
 
 - [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) — FxCop 分析器的基于 Roslyn 的实现.
 
@@ -1401,7 +1403,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Ghidra](https://ghidra-sre.org) — 由 NSA 研究理事会开发的软件逆向工程 (SRE) 工具套件，用于支持网络安全任务
 
-- [Hopper](https://www.hopperapp.com/) :copyright: — macOS and Linux reverse engineering tool that lets you disassemble, decompile and debug applications. Hopper displays the code using different representations, e.g. the Control Flow Graph, and the pseudo-code of a procedure. Supports Apple Silicon.
+- [Hopper](https://www.hopperapp.com/)  :copyright: — macOS 和 Linux 逆向工程工具，可让您反汇编、反编译和调试应用程序.  Hopper 使用不同的表示形式显示代码，例如控制流图和过程的伪代码. 支持苹果硅.
 
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) :copyright: — 二进制代码分析工具.
 
@@ -1493,7 +1495,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
-- [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — Tool to check the validity of Puppet metadata.json files.
+- [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) — 检查您的 Puppet 清单是否符合风格指南.
 
@@ -1538,7 +1540,7 @@ If you also want to support this project, head over to our [Github sponsors page
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
 
 - [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
@@ -1774,13 +1776,13 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [buf](https://buf.build) — 提供一个 CLI linter，强制执行良好的 API 设计选择和结构
 
-- [protolint](https://github.com/yoheimuta/protolint) — Pluggable linter and fixer to enforce Protocol Buffer style and conventions.
+- [protolint](https://github.com/yoheimuta/protolint) — 可插拔的 linter 和 fixer 来执行 Protocol Buffer 风格和约定.
 
 
 <h2 id="puppet">木偶</h2>
 
 
-- [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — Tool to check the validity of Puppet metadata.json files.
+- [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 
 
 <h2 id="rails">导轨</h2>
@@ -1803,7 +1805,7 @@ If you also want to support this project, head over to our [Github sponsors page
 
 - [Enlightn](https://www.laravel-enlightn.com/)  — Laravel 应用程序的静态和动态分析工具，提供建议以提高 Laravel 应用程序的性能、安全性和代码可靠性. 包含 120 个自动检查.
 
-- [Gitleaks](https://github.com/zricethezav/gitleaks) — 一种 SAST 工具，用于检测 git repos 中的硬编码秘密，如密码、api 密钥和令牌.
+- [Gitleaks](https://github.com/zricethezav/gitleaks) — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 
 - [gokart](https://github.com/praetorian-inc/gokart)  — Golang 安全分析，重点是最大限度地减少误报. 它能够追踪变量和函数参数的来源，以确定输入源是否安全.
 
@@ -1961,7 +1963,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matthias Endler](https://endler.dev) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [Matthias Endler](https://endler.dev) 已放弃该作品的所有版权和相关或邻接权.
 用于格式化和显示该内容的底层源代码已获得 MIT 许可.
 
 

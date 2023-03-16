@@ -4,11 +4,14 @@
 	<img width="400" height="253" src="https://raw.githubusercontent.com/YuzheSHI/awesome-agi-cocosci/master/assets/abd_map.png" alt="Roadmap of studying Abduction">
 </div>
 
+
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  **人工智能**的**精彩和精选**列表，这是一个新兴的跨学科领域，结合了人工智能和计算认知科学作为多数，单独与概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们通过从人类学习和思考的方式中获得灵感，同时对人类认知有更深层次的理解，从而推动高水平的机器智能. 我们相信，这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，这些都是人类智能的标志.
 
  ***Awesome AGI &amp; CoCoSci*** 是一个一体化的合集，包括从基础课程和教程到从多角度围绕不同主题的论文和书籍的资源. 初级和高级研究人员，无论是学习、从事 AGI 还是围绕 AGI 工作，都能在这里满足他们的兴趣.
+
+
 
 ## Contributing
 
@@ -18,6 +21,7 @@
 <span id = "c"></span>
       * [Quantitative Analysis](#quantitative-analysis) 
     <!--* [Tasks & Environments](#te)-->
+
 
 
 ## Academic Tools
@@ -38,6 +42,7 @@
 * [Probabilistic Models of Cognition](https://probmods.org/)  - ***麻省理工学院***. 认知科学的概率方法，它将学习和推理建模为复杂概率模型中的推理.
 
 
+
 ### Paper Writing
 
 * [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty)  - ***乳胶***. 配置文件的 LaTex 模板，具有优雅的引用样式（灰色引用，页面向后引用）.
@@ -53,6 +58,7 @@
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入保证可重复性的机器学习算法的指南.
 
 
+
 ### Paper Reading
 
 * [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM 计算机通信评论***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5) ]. 阅读科学论文的综合教程.
@@ -61,6 +67,7 @@
 * [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***自然***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5) ]. 阅读科学论文的自然视角.
 
 * [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)  - ***麻省理工学院***. 麻省理工学院关于在不同时间限制下阅读论文的策略指南.
+
 
 
 ### Literature Management
@@ -85,6 +92,7 @@
 * [VOSviewer](https://www.vosviewer.com/)  - ***莱顿大学***. 用于构建和可视化文献计量网络.
 
 * [StateOfTheArt.AI](https://www.stateoftheart.ai/)  - ***StateOfTheArtAI***. 用于跟踪、收集和可视化人工智能研究的发展. 
+
 
 
 ### Knowledge Management
@@ -123,7 +131,9 @@
 
 
 
+
 ## Papers
+
 
 ### Abduction
 
@@ -223,7 +233,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -424,7 +434,7 @@
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
 
 
 #### AI Concept Representation
@@ -917,7 +927,7 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
@@ -1025,7 +1035,7 @@
 
 * [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844&hl=en&as_sdt=0,5) ]. 马尔关于计算社会科学的范式说明.
 
-* [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR&#39;20 桥接人工智能和认知科学研讨会***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5) ]. 马尔关于机器学习的范式说明.
+* [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR&#39;20 桥接 AI 和认知科学研讨会***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5) ]. 马尔关于机器学习的范式说明.
 
 
 #### Gestalt
@@ -1986,6 +1996,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** ---每个主题都描述了一种智能现象，或者一种智能行为---它们展示了计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题的收集也或多或少带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
+显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

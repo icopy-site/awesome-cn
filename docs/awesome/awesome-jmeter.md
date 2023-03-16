@@ -320,9 +320,9 @@
 ## Books
 
 <!--lint ignore double-link-->
-- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - Emily H. Halili ([Packt Publishing](https://www.packtpub.com/product/apache-jmeter/9781847192950)).
+- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - Emily H. Halili（Packt Publishing）着.
 - [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-29/9781782165842) ); 使用 Apache JMeter 测试 Web 应用程序的指南，其中包含实际操作示例.
-- [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-second-edition/9781784394813)).
+- [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter/9781784394813)).
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
 - [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) - Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ); 帮助成功使用 Apache JMeter 的 70 个有见地且实用的秘诀.
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - Sai Matam 和 Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample) ); 一个简单、实用、循序渐进的教程，用于衡量网站的性能.

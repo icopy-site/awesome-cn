@@ -188,7 +188,7 @@
 ## TCS Inspired<a name=mathlogic_preliminaries_tcs_inspired></a>
 ### Lecture Videos Playlists<a name=mathlogic_preliminaries_tcs_inspired_lecture_videos_playlists></a>
 - [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - 它涵盖了您在阅读和进行计算机科学理论研究时需要了解的大量数学/CS 主题 - 或者： [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
-- [Madhur Tulsiani. Mathematical Toolkit](https://www.youtube.com/playlist?list=PLk-BCMYCWSzW-nPNnw19Y6oQJnvaAcp1I)  - 事情教授.  Madhur 希望他在读研究生的第一年就知道.
+- [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html)  - 事情教授.  Madhur 希望他在读研究生的第一年就知道.
 ### Lecture Notes<a name=mathlogic_preliminaries_tcs_inspired_lecture_notes></a>
 - [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
 - [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.

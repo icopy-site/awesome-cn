@@ -33,6 +33,7 @@
 - [Lite SDK (TypeScript)](https://github.com/jacoborus/directus-lite-sdk)  - Directus API（浏览器、Deno、Node.js）的查询生成器. 带上你自己的取物.
 - [Nuxt Directus](https://github.com/directus-community/nuxt-directus) - 一流的 Nuxt 3 模块，用于连接 Directus 实例.
 - [Nuxtus](https://nuxtus.com) - 提供 Nuxt 样板和一组工具，以从 Directus Collections 自动创建 Nuxt 页面.
+- [cool-stack](https://github.com/tdsoftpl/cool-stack) - 将 Directus 和 Remix 集成到全栈 monorepo 中的模板存储库.
 
 ## Extensions
 

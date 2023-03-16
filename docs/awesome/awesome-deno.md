@@ -63,7 +63,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [nessie](https://github.com/halvardssm/deno-nessie) - 为 PostgreSQL、MySQL 和 SQLite 创建、迁移和回滚迁移.
 - [postgres](https://github.com/denodrivers/postgres) - PostgreSQL 数据库的驱动程序.
 - [r2d2](https://github.com/iuioiua/r2d2) - 用于 Deno 的快速、轻量级 Redis 客户端库.
-- [redis](https://github.com/denodrivers/redis) - 用于 deno 的 redis 客户端的实验性实现.
+- [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [yongo](https://github.com/yooneskh/yongo) - deno 中 Mongoose api 的子集（如填充）但不会完全复制 mongoose
 
@@ -152,6 +152,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) - 格式化字节（Uint8Array、ArrayBufferView 等）输出，在调试 IO 函数时很有用.
 - [coffee](https://github.com/irandeno/coffee) - Deno 配置 - 一种类型安全、易于使用的 Deno 配置管理器.
 - [colors](https://github.com/retraigo/colors) - TypeScript 中的颜色转换和操作.
+- [croner](https://github.com/hexagon/croner) - 具有高级调度功能、文档齐全的 API 和零依赖性的 Cron 库.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi 喜欢 Typescript 和 Deno 的验证器.
 - [cubic-bezier](https://github.com/retraigo/cubic-bezier) - 获取三次贝塞尔曲线中的点数组或在画布中可视化.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno 缓存清理，下次运行时重新加载 deps.
@@ -238,7 +239,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ### Web utils
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP 压缩中间件.
 - [djwt](https://github.com/timonson/djwt) - 基于 JWT 和 JWS 规范在 Deno 上制作 JSON Web Tokens (JWT).
-- [forwarded](https://github.com/deno-libs/forwarded) - Deno port of `forwarded` library.
+- [forwarded](https://github.com/deno-libs/forwarded) - `forwarded` 库的 Deno 端口.
 - [fresh_chart](https://github.com/denoland/fresh_charts) - 用于 Fresh 的服务器端渲染图表库.
 - [gentleRpc](https://github.com/timonson/gentleRpc) - 用于 Deno 和浏览器的 JSON-RPC 2.0 TypeScript 库.
 - [gql](https://github.com/deno-libs/gql) - 通用 GraphQL HTTP 中间件.
@@ -309,7 +310,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd)  - 适用于 Windows 的 Deno 版本管理器. 写成一个批处理文件.
   - [ghosind/dvm](https://github.com/ghosind/dvm) - 适用于 Linux/MacOS 的轻量级 Deno 版本管理器.
 - [kopo-cli](https://github.com/littletof/kopo-cli) - 终端中的 Deno 注册表浏览器.
-- [make-deno-edition](https://github.com/bevry/make-deno-edition) - 自动使 package.json 项目（例如 npm 包和 node.js 模块）与 Deno 兼容.
+- [make-deno-edition](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以轻松地使用 Deno 脚本构建虚拟机映像.
 - [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - 为 Deno 项目预提交 git hooks.
 - [starter](https://github.com/denorg/starter) - 带有 GitHub Actions CI 的 Deno 模块入门模板
@@ -326,7 +327,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions 是服务器端的 TypeScript 函数，分布在全球边缘.
-- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
+- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端呈现的 Astro 站点部署到 Deno Deploy.
 
 ## Blogs/Newsletters
 - [Craig's Deno Diary](https://deno-blog.com) - 一个专注于 Deno 技术和 lib howtos 的博客.
