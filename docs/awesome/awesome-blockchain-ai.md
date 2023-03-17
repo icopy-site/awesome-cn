@@ -18,7 +18,7 @@
 
 ### Blockchain, AI and Machine Learning
 
-- [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - 耶稣罗德里格斯，2019 年 5 月 23 日.
+- [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - Jesus Rodriguez, May 23, 2019.
 - [How the Blockchain Could Break Big Tech's Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - 纽约时报，2018 年 10 月 20 日.
 - [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - 黑客中午，2018 年 6 月 7 日.
 - [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam，2018 年 3 月 13 日.
@@ -35,6 +35,7 @@
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs 是一个去中心化的人工智能平台，带有一个虚拟机，可以让你在链上执行人工智能程序.
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai 是一个基于分布式账本的去中心化机器学习平台，可实现基于全球任何数据的安全共享、连接和交易.
 - [Oraichain](https://orai.io/) - Oraichain 是世界上第一个针对新兴 Web3、可扩展 Dapps 和去中心化 AI 的智能和安全解决方案.
+- [Bittensor](https://bittensor.com/) - Bittensor 是一种开源协议，为分散的、基于区块链的机器学习网络提供支持. [Related resources.](https://taostats.io/links/)
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - 基于区块链的协议，用于在以太坊等公共区块链上评估和购买 ML 模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -72,10 +73,10 @@
 - [Convergence of AI and DLT](https://doi.org/10.1109/ACCESS.2020.2981447)  - Pandl, KD、Thiebes, S.、Schmidt-Kraepelin, M. 和 Sunyaev, A.（2020 年）. 关于人工智能和分布式账本技术的融合：范围界定审查和未来研究议程.  *IEEE 访问*，8，57075-57095.
 - [Proof of Learning](https://arxiv.org/abs/2007.15145)  - Lan, Y.、Liu, Y. 和 Li, B. (2020). 学习证明 (PoLe)：通过在区块链上建立共识来增强机器学习能力.  *arXiv 预印本 arXiv:2007.15145*.
 - [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057)  - Harris, JD 和 Waggoner, B.（2019 年 7 月）. 区块链上的分散式协作 AI.  *2019 年 IEEE 区块链国际会议 (Blockchain)*（第 368-375 页）.  IEEE.
-- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 施普林格，查姆.
+- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 斯普林格，查姆.
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023)  - Mittal, A., &amp; Aggarwal, S. (2020). 使用区块链中可持续的工作量证明进行超参数优化.  *区块链前沿*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773)  - Qu, X., Wang, S., Hu, Q., &amp; Cheng, X. (2021). 联邦学习的证明：一种新颖的能量回收共识算法.  *关于并行和分布式系统的 IEEE 事务*，32(8)，2074-2085.
-- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
+- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067)  - Li, B., Lu, Q., Jiang, W., Jung, T., &amp; Shi, Y.（2021 年 5 月）. 一种用于新型神经架构证明共识的矿池解决方案.  *2021 年 IEEE 区块链和加密货币国际会议 (ICBC)*（第 1-3 页）.  IEEE.
 
 ## License
 

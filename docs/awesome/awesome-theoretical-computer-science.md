@@ -28,7 +28,7 @@
 - [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - 关于理论计算机科学中选定的著名主题的一系列讲座.
 ### MOOC<a name=theory_of_computation_introductory_mooc></a>
 - [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - 它教授理论计算机科学中的基本概念，例如 NP 完整性，以及它们对解决棘手算法问题的意义.
-- [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer.
+- [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - 它侧重于计算的重大基本问题，以及理解算法的能力和局限性如何帮助我们开发工具，使现实世界的计算机更智能、更快和更安全.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduciton to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - 为本科生介绍计算理论的标准文本.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - 自动机、语言和计算理论主题的本科入门教科书.
@@ -69,7 +69,7 @@
 ### Books<a name=theory_of_computation_computability_theory_books></a>
 #### Introductory<a name=theory_of_computation_computability_theory_books_introductory></a>
 - [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地，它解释了可计算函数的概念：一个函数，其值可以以有效或自动的方式计算.
-- [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - 对当代可计算性理论、技术和结果的简明、全面和权威的介绍.
+- [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - A concise, comprehensive, and authoritative introduction to contemporary computability theory, techniques, and results.
 - [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - 在这本经典著作中，戴维斯博士清晰地介绍了本科高等水平的可计算性，以满足专家和非专家的需求.
 #### Advanced<a name=theory_of_computation_computability_theory_books_advanced></a>
 - [Soare. Recursively Enumerable Sets and Degree](https://www.springer.com/gp/book/9783540666813)  - 它完整地说明了重新度的理论. 定义、结果和证明总是在正式展示之前得到明确的动机和解释； 证明的描述非常清晰和简洁.
@@ -87,7 +87,7 @@
 - [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Mitzenmacher &amp; Upfals 和 Motwani &amp; Raghavan 对标准书籍的补充说明.
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/)  - 特别使用随机性、近似值、高维几何等思想. 面临不确定性、处理大数据的方法、处理棘手问题、启发式方法等.
 ## Books<a name=algorithms_books></a>
-- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/) - A sequel to Garey and Johnson's Computers and Intractability: A Guide to NP-Completeness. New topics include Parameterized Complexity, Lower bounds on approximation, Other hardness assumptions (ETH, 3SUM-conjecture, APSP-conjecture, UGC, Others), Online Algorithms, Streaming Algorithms, Polynomial Parity Arguments, and Parallelism.
+- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/)  - Garey 和 Johnson 的《计算机与棘手性：NP 完全性指南》的续集. 新主题包括参数化复杂性、近似下限、其他困难假设（ETH、3SUM 猜想、APSP 猜想、UGC 等）、在线算法、流式算法、多项式奇偶校验参数和并行性.
 - [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - 它表明游戏和拼图可以作为强大的计算模型，提供一种新的计算思维方式.
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - Donald Knuth 关于算法设计和分析的传奇系列.
 ## Information/Coding Theory<a name=informationcoding_theory></a>
@@ -189,11 +189,14 @@
 ### Lecture Videos Playlists<a name=mathlogic_preliminaries_tcs_inspired_lecture_videos_playlists></a>
 - [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - 它涵盖了您在阅读和进行计算机科学理论研究时需要了解的大量数学/CS 主题 - 或者： [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
 - [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html)  - 事情教授.  Madhur 希望他在读研究生的第一年就知道.
+- [Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)
 ### Lecture Notes<a name=mathlogic_preliminaries_tcs_inspired_lecture_notes></a>
-- [Zhou. A Theorist's Toolkit](https://yuanz.web.illinois.edu/teaching/B609fa16/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
-- [O'Donnell. A Theorist's Toolkit](https://www.cs.cmu.edu/~odonnell/toolkit13/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
-- [Arora. Thinking Like a Theorist](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
-- [Arora. A Theorist's Toolkit](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/)  - 主要针对计划从事理论计算机科学研究的一年级和二年级研究生. 我们将介绍在证明中有用的概率、代数、组合和算法方法.
+- [Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
+- [O'Donnell. A Theorist's Toolkit. CMU](https://www.cs.cmu.edu/~odonnell/toolkit13/) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
+- [Arora. Thinking Like a Theorist. Princeton](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - 它涵盖了您在阅读和研究计算机科学理论时需要了解的大量数学/CS 主题.
+- [Arora. A Theorist's Toolkit. Princeton](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/)  - 主要针对计划从事理论计算机科学研究的一年级和二年级研究生. 我们将介绍在证明中有用的概率、代数、组合和算法方法.
+- [Kelner. Topics in Theoretical Computer Science: An Algorithmist's Toolkit. MIT](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - 它涵盖了一系列广泛应用于现代算法设计的几何技术.
+- [Maji & Valiant. Theoretical Computer Science Toolkit. Purdue](https://www.cs.purdue.edu/homes/hmaji/teaching/Spring%202023/CS-58500-Spring-2023.html)
 ## Discrete Mathematics<a name=mathlogic_preliminaries_discrete_mathematics></a>
 ### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
 - [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - 耶鲁大学 2017 年秋季课程 CPSC 202a，计算机科学的数学工具.
@@ -211,13 +214,13 @@
 ## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
  - 韦勒曼. 如何证明：结构化方法.  - 它通过教他们阅读和编写证明所需的技术，从解决问题过渡到证明定理.
 ## Surveys & Monographs<a name=surveys__monographs></a>
-- [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
+- [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - 历史、技术和哲学论文集.
 - [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - 从亚里士多德和莱布尼茨到诺伯特维纳和戈登摩尔等思想家的经典论文描绘了计算机科学的发展.
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - 计算复杂性的历史概述.
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作以及他们的工作对密码学基础的影响.
 - [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - 庆祝 Laszlo Lovasz 的作品集，将离散数学与计算机科学联系起来.
 - [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6)  - 熵、搜索和复杂性领域的调查论文集. 它还包括搜索理论和量子源编码. 推荐给研究人员和学生.
-- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - 关于计算复杂性和量子计算交叉的调查.
+- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - 一篇关于量子霸权的非凡论文.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - 计算复杂性的历史概述.
 - [CS Theory Events Aggregator](https://cstheory-events.org/) - CS 理论研讨会和学校的聚合器.
@@ -233,7 +236,7 @@
  - 80 年代的伯克利 - 采访伯克利理论计算机科学领域的杰出人物.  - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
 - [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - 填充计算理论的短视频.
  - Lex Podcast - 非正式讨论播客.  - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
-- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - 研讨会的集合.
+- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍了 TCS 的高级故事及其与其他领域的交叉点.
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - 调查、教程、会议报告、活动、未解决的问题和解决方案、博士论文和有趣的贡献.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
@@ -286,4 +289,4 @@
 - [Mathematics](https://github.com/rossant/awesome-math) - 很棒的免费数学讲义列表
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - 很棒的密码学列表
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算列表
-- 另见 [Math](https://github.com/ossu/math) 和 [CS](https://github.com/ossu/computer-science) 课程由 [Open Source Society University](https://github.com/ossu)
+- 另见 [Math](https://github.com/ossu/math) 和 [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)

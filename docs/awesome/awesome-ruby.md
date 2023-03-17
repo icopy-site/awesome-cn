@@ -40,11 +40,12 @@
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - 对象的 JSON 序列化.
 * [Acts_As_Api](https://github.com/fabrik42/acts_as_api) - 轻松有趣，在 Rails 3、4、5 和 6 中创建 XML/JSON 响应.
+* [Alba](https://github.com/okuramasafumi/alba) - 用于 Ruby、JRuby 和 TruffleRuby 的 JSON 序列化程序.
 * [Blanket](https://github.com/inf0rmer/blanket) - 一个简单的 API 包装器.
 * [Blueprinter](https://github.com/procore/blueprinter) - 用于 Ruby 的简单、快速和声明式序列化库.
 * [cache_crispies](https://github.com/codenoble/cache-crispies) - 带有内置缓存的 Speedy Rails JSON 序列化.
 * [Crepe](https://github.com/crepe/crepe) - 瘦 API 堆栈.
-* [Grape](http://www.ruby-grape.org) - 一个自以为是的微框架，用于在 Ruby 中创建类似 REST 的 API.
+* [Grape](http://www.ruby-grape.org) - An opinionated micro-framework for creating REST-like APIs in Ruby.
 * [Her](https://github.com/remiprev/her)  - 将 REST 资源映射到 Ruby 对象的 ORM. 旨在构建由 RESTful API 而不是数据库提供支持的应用程序.
 * [jbuilder](https://github.com/rails/jbuilder) - 通过 Builder 风格的 DSL 创建 JSON 结构.
 * [jsonapi-rb](http://jsonapi-rb.org) – 高效便捷的 JSON API（反）序列化库.
@@ -53,7 +54,7 @@
 * [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) - JSONAPI::Utils 建立在 JSONAPI::Resources 之上，利用其资源驱动的风格，并提供一种简单的方法来构建现代 JSON API，而无需或更少的学习曲线.
 * [Jsonite](https://github.com/crepe/jsonite) - 适用于您的 API 的微型、符合 HAL 的 JSON 表示器.
 * [Pliny](https://github.com/interagent/pliny) - 自以为是的模板 Sinatra 应用程序，用于在 Ruby 中编写出色的 API.
-* [rabl](https://github.com/nesquena/rabl) - 通用 ruby​​ 模板，支持 json、bson、xml、plist 和 msgpack.
+* [rabl](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support.
 * [Roar](https://github.com/apotonick/roar) - Ruby 中面向资源的架构.
 * [Spyke](https://github.com/balvig/spyke) - 以类似 ActiveRecord 的方式与 REST 服务交互.
 * [Version Cake](https://github.com/bwillis/versioncake) - 一种在 Rails 应用程序中对 API 进行版本控制的不显眼方式.
@@ -128,7 +129,7 @@
 ## Caching
 
 * [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) - Action Pack 的动作缓存.
-* [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers.
+* [Dalli](https://github.com/mperham/dalli) - 用于访问 memcached 服务器的高性能纯 Ruby 客户端.
 * [Garner](https://github.com/artsy/garner) - 一组实现各种缓存策略的机架中间件和缓存助手.
 * [IdentityCache](https://github.com/Shopify/identity_cache) - 插入 ActiveRecord 的 blob 级缓存解决方案.
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir 是一种 Ruby DSL，它使序列化和缓存对象变得轻而易举.
@@ -156,7 +157,7 @@
 * [Optimist](https://github.com/ManageIQ/optimist) - 一个 Ruby 的命令行选项解析器，它不会妨碍您.
 * [Rake](https://github.com/ruby/rake) - 用于 Ruby 的类似 make 的构建实用程序.
 * [Runfile](https://github.com/DannyBen/runfile)  - 轻松地为每个项目构建命令行应用程序. 受 Rake 启发，里面有 Docopt.
-* [Slop](https://github.com/leejarvis/slop) - Simple Lightweight Option Parsing.
+* [Slop](https://github.com/leejarvis/slop) - 简单的轻量级选项解析.
 * [Terrapin](https://github.com/thoughtbot/terrapin) - 一个小型命令行库（以前称为 Cocaine）.
 * [Thor](http://whatisthor.com) - 用于构建强大命令行界面的工具包.
 * [TTY](https://github.com/peter-murach/tty) - 用于开发 CLI 客户端的工具箱.
@@ -221,7 +222,7 @@
   * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) - 专注于执行 Rails 最佳实践和编码约定的 RuboCop 扩展.
   * [Rubocop Rspec](https://github.com/rubocop-hq/rubocop-rspec) - RSpec 文件的代码风格检查
   * [Rubocop Performance](https://github.com/rubocop-hq/rubocop-performance) - 专注于代码性能检查的 RuboCop 扩展.
-* [Standard](https://github.com/testdouble/standard) - Ruby 风格指南，带有 linter 和自动代码修复器
+* [Standard](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ## Code Highlighting
 
@@ -275,6 +276,7 @@
 * [dry-rb](https://github.com/dry-rb) - dry-rb 是下一代 Ruby 库的集合，每个库都旨在封装一个共同的任务.
 * [Hamster](https://github.com/hamstergem/hamster) - 用于 Ruby 的高效、不可变和线程安全的集合类.
 * [Hanami::Utils](https://github.com/hanami/utils) - 用于 Hanami 和 Ruby 应用程序的轻量级、非猴子补丁类实用程序.
+* [MemoWise](https://github.com/panorama-ed/memo_wise) - 记忆任何实例/类/模块方法，包括对冻结对象的支持 - 在所有 Rubies 上经过严格测试和基准测试 - 记忆读取的快速性能.
 * [Ruby Facets](https://github.com/rubyworks/facets) - Ruby 的通用方法扩展和标准添加的首屈一指的集合.
 * [Trick Bag](https://github.com/keithrbennett/trick_bag) - 用于简化和增强代码的各种 Ruby 类和方法.
 * 属性
@@ -303,7 +305,7 @@
 
 ## Cryptocurrencies and Blockchains
 
-* [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb)  - 使用加密哈希构建您自己的区块链； 用区块链、区块链、区块链一次一个地改变世界.
+* [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 * [Ciri](https://github.com/ciri-ethereum/ciri) - 以太坊的 Ruby 实现.
 * [MoneyTree](https://github.com/GemHQ/money-tree) - 比特币 HD 钱包（分层确定性）BIP32 的 Ruby 实现.
 * [Peatio](https://github.com/rubykube/peatio) - 最先进的加密货币开源资产交换.
@@ -352,17 +354,17 @@
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - 将外键助手添加到迁移并将外键正确转储到 schema.rb.
 * [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 架构迁移.
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描您的模型并显示可能应该编制索引的列列表.
-* [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的真实世界数据.
+* [Polo](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 * [PgHero](https://github.com/ankane/pghero) - Postgres 见解变得简单.
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - 数据库查看器和 SQL 查询运行器.
 * [Rein](https://github.com/nullobject/rein) - 数据库约束使 ActiveRecord 变得容易.
-* [Scenic](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
+* [Scenic](https://github.com/thoughtbot/scenic) - Rails 的版本化数据库视图.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus 为 ActiveRecord 提供了一系列增强和扩展
 * [SecondBase](https://github.com/customink/secondbase)  - Rails 的无缝第二个数据库集成.  SecondBase 通过扩展创建、迁移和测试应用程序的 ActiveRecord 任务来支持 Rails 管理双数据库.
 * [Seedbank](https://github.com/james2m/seedbank) - Seedbank 允许您构建 Rails 种子数据，而不是将其全部转储到一个大文件中.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 任务将您的数据库（部分）转储到 db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - 用于 Rails 的高级种子数据处理.
-* [Standby](https://github.com/kenn/standby) - 从备用数据库读取 ActiveRecord（以前称为 Slavery）.
+* [Standby](https://github.com/kenn/standby) - Read from standby databases for ActiveRecord (formerly Slavery).
 * [Strong Migrations](https://github.com/ankane/strong_migrations) - 捕获开发中的不安全迁移.
 * [Upsert](https://github.com/seamusabshere/upsert)  - 在 MySQL、PostgreSQL 和 SQLite3 上更新插入. 透明地为 MySQL 和 PostgreSQL 创建函数（UDF）； 在 SQLite3 上，使用 INSERT OR IGNORE.
 
@@ -378,7 +380,7 @@
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - 一个日期重复库，可以轻松创建重复规则和快速查询.
 * [local_time](https://github.com/basecamp/local_time) - 用于缓存友好的客户端本地时间的 Rails 引擎.
 * [montrose](https://github.com/rossta/montrose) - 用于在 Ruby 中表达、序列化和枚举重复事件的简单库.
-* [stamp](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+* [stamp](https://github.com/jeremyw/stamp) - 根据人性化的示例格式化日期和时间，而不是神秘的 strftime 指令.
 * [time_diff](https://github.com/abhidsm/time_diff) - 计算两个时间之间的差异.
 * [timezone](https://github.com/panthomakos/timezone) - 准确的当前和历史时区和转换，支持 Geonames 和谷歌纬度 - 经度时区查找.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - 提供不同时区时间之间的夏令时转换.
@@ -394,7 +396,7 @@
 * [pry-rails](https://github.com/rweng/pry-rails)  - 避免重复自己，使用 pry-rails 而不是将初始化程序复制到每个 rails 项目. 这是一个小宝石，它会导致 Rails 控制台打开撬. 因此，它取决于撬.
 * [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) - 显示文件中每一行代码的结果.
 * [tapping_device](https://github.com/st0012/tapping_device) - 一种允许您从对象的角度检查您的程序的工具.
-* [Xray](https://github.com/brentd/xray-rails) - A development tool that reveals your UI's bones.
+* [Xray](https://github.com/brentd/xray-rails) - 揭示用户界面骨架的开发工具.
 
 ## Decorators
 
@@ -465,7 +467,7 @@
 * [Active Merchant](https://github.com/activemerchant/active_merchant) - 从 Shopify 中提取的简单支付抽象库.
 * [Braintree](https://github.com/braintree/braintree_ruby) - Braintree Ruby 绑定.
 * [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby 绑定.
-* [credit_card_validations](https://github.com/didww/credit_card_validations) - 用于验证信用卡号、生成有效号码、Luhn 检查的 ruby​​ gem.
+* [credit_card_validations](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - 用于 Ruby 的官方 Paypal 商户 SDK.
 * [Piggybak](https://github.com/piggybak/piggybak) - 用于 Ruby on Rails 的模块化、可扩展的开源电子商务解决方案.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - 一个 Rails 电子商务平台.
@@ -491,7 +493,7 @@
 * [LetterOpener](https://github.com/ryanb/letter_opener) - 在浏览器中预览邮件而不是发送.
 * [Mail](https://github.com/mikel/mail) - 真正的 Ruby 邮件库.
 * [MailCatcher](https://mailcatcher.me) - 捕捉邮件并通过梦想送达.
-* [MailForm](https://github.com/heartcombo/mail_form) - 直接从 Rails 中的表单发送电子邮件，其中包含 I18n、验证、附件和请求信息.
+* [MailForm](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Maily](https://github.com/markets/maily) - 用于管理、测试和浏览应用程序所有电子邮件模板的 Rails 引擎，能够直接在浏览器中预览它们.
 * [MidiSmtpServer](https://4commerce-technologies-ag.github.io/midi-smtp-server/) - 高度可定制的 ruby​​ SMTP 服务库，内置支持 AUTH 和 SSL/STARTTLS、8BITMIME 和 SMTPUTF8、IPv4 和 IPv6 等.
 * [Pony](https://github.com/benprew/pony) - 从 Ruby 发送邮件的快速方式.
@@ -628,7 +630,7 @@
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) - HTML 处理过滤器和实用程序.
 * [Nokogiri](https://nokogiri.org) - 支持 XPath 和 CSS 选择器的 HTML、XML、SAX 和 Reader 解析器.
 * [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，在各种平台上安装更简单、更快捷.
-* [Ox](https://github.com/ohler55/ox) - 一个快速的 XML 解析器和对象编组器.
+* [Ox](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 * [ROXML](https://github.com/Empact/roxml) - 通过 Nokogiri 或 LibXML，使用注释样式类方法在 Ruby 和 XML 之间自定义映射和双向编组.
 
 ## HTTP Clients and tools
@@ -670,13 +672,13 @@
 
 ## Internationalization
 
-* [FastGettext](https://github.com/grosser/fast_gettext) - 具有更少内存、简单、干净的命名空间和线程安全的 Ruby 国际化工具.
+* [FastGettext](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
 * [Globalize](https://github.com/globalize/globalize) - Globalize 以 Ruby on Rails 中的 I18n API 为基础，将模型转换添加到 ActiveRecord 模型.
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - 使用强大的静态分析功能管理丢失和未使用的翻译.
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby 国际化和本地化解决方案.
 * [mini_i18n](https://github.com/markets/mini_i18n)  - 简约、灵活、快速的国际化库. 它支持本地化、插值、复数、回退、嵌套键等.
-* [rails-i18n](https://github.com/svenfuchs/rails-i18n) - 用于收集 Rails I18n 的区域设置数据以及其他有趣的与 Rails 相关的 I18n 内容的存储库.
-* [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+* [rails-i18n](https://github.com/svenfuchs/rails-i18n) - Repository for collecting Locale data for Rails I18n as well as other interesting, Rails related I18n stuff.
+* [r18n](https://github.com/ai/r18n) - 用于 Rails、Sinatra、桌面应用程序、模型的高级 i18n 库，适用于复杂的语言，如俄语.
 * [Termit](https://github.com/pawurb/termit) - 在您的终端中使用语音合成进行翻译.
 * [Tolk](https://github.com/tolk/tolk) - 用于打包为 Rails 引擎的 i18n 翻译的 Web 界面.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - ICU（Unicode 的国际组件）的 Ruby 实现，它使用通用语言环境数据存储库来格式化日期、复数等.
@@ -787,7 +789,7 @@
 * [MongoModel](https://github.com/spohlenz/mongomodel) - 用于连接 MongoDB 数据库的 Ruby ODM.
 * [Neo4j.rb](http://neo4jrb.io) - 一个 Neo4j OGM（Object-Graph-Mapper），用于 Ruby on Rails 和 Rack 框架，深受 ActiveRecord 的启发.
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - 用于 Ruby 的 RethinkDB ORM
-* [Ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
+* [Ohm](https://github.com/soveran/ohm) - Redis 的对象哈希映射库.
 * [Redis-Objects](https://github.com/nateware/redis-objects) - Redis 对象通过在 redis gem 上的薄层将 Redis 数据类型映射到 Ruby 对象，为 Redis 提供了一个 Rubyish 接口.
 * [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) 是一个实验性的 Ruby 库，旨在提供强大的对象映射功能，而不会限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) - Sequel 是一个简单、灵活且功能强大的 Ruby SQL 数据库访问工具包.
@@ -899,7 +901,7 @@
 
 ## Processes
 
-* [childprocess](https://github.com/jarib/childprocess) - Cross-platform ruby library for managing child processes.
+* [childprocess](https://github.com/jarib/childprocess) - 用于管理子进程的跨平台 ruby​​ 库.
 * [posix-spawn](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys &gt;= 1.8.7 基于 posix_spawn() 系统接口.
 
 ## Profiler and Optimization
@@ -974,7 +976,7 @@
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Ruby 的作业调度程序（at、cron、in 和 every jobs）.
 * [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) - Sidekiq 的日程安排插件.
 * [Simple Scheduler](https://github.com/simplymadeapps/simple_scheduler) - 对 Heroku Scheduler + Sidekiq 的增强，用于使用可读的 YML 文件在特定时间安排作业.
-* [Whenever](https://github.com/javan/whenever) - 为编写和部署 cron 作业提供清晰语法的 Ruby gem.
+* [Whenever](https://github.com/javan/whenever) - A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
 
 ## Scientific
 
@@ -1000,7 +1002,7 @@
   * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.
 * 具体
-  * [BioRuby](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
+  * [BioRuby](https://github.com/bioruby/bioruby) - 用于开发生物信息学软件的库.
   * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) - Ruby 中的 BloomFilter(s)：本机计数过滤器 + Redis 计数/非计数过滤器.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个 ruby​​ 库，它实现了用于决策树学习的 ID3（信息增益）算法.
 * 公用事业
@@ -1018,7 +1020,7 @@
 * [has_scope](https://github.com/heartcombo/has_scope) - 具有范围允许您根据名为范围的资源轻松创建控制器过滤器.
 * [Mongoid Search](https://github.com/mauriciozaffari/mongoid_search) - Mongoid 的简单全文搜索实现.
 * [pg_search](https://github.com/Casecommons/pg_search) - 构建利用 PostgreSQL 的全文搜索的 ActiveRecord 命名范围.
-* [ransack](https://github.com/activerecord-hackery/ransack/) - Object-based searching.
+* [ransack](https://github.com/activerecord-hackery/ransack/) - 基于对象的搜索.
 * [Rroonga](https://github.com/ranguba/rroonga) - Groonga 的 Ruby 绑定.
 * [scoped_search](https://github.com/wvanbergen/scoped_search) - 添加一个范围，支持针对 ActiveRecord 模型和关联上的现有字段进行搜索查询和自动完成.
 * [SearchCop](https://github.com/mrkamel/search_cop) - 扩展您的 ActiveRecord 模型以支持全文搜索引擎，例如通过简单查询字符串和基于散列的查询进行的查询.
@@ -1054,7 +1056,7 @@
 * [HoundCI](https://houndci.com) - 检查您的 Ruby 代码是否违反了风格指南.
 * [Inch CI](https://inch-ci.org/) - Ruby 项目的文档徽章.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用 OctoLinker 浏览器扩展程序高效地浏览 GitHub.com 上的项目.
-* [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
+* [SemaphoreCI](https://semaphoreci.com) - 为开源和私有项目提供持续集成和部署服务.
 * [Sider](https://sider.review/)  - 使用 GitHub PR 进行自动代码审查. 监控风格违规、质量、安全、依赖性.
 * [Travis CI](https://travis-ci.com) - 自信地测试和部署您的代码.
 
@@ -1080,7 +1082,7 @@
 
 * [CAXLSX](https://github.com/caxlsx/caxlsx) - 社区维护的 excel xlsx 生成库. [AXLSX](https://github.com/randym/axlsx) - 原本的.
 * [Docsplit](http://documentcloud.github.io/docsplit) - Gem 将 Microsoft Word（和其他）文档转换为图像、pdf、页面或文本.
-* [Roo](https://github.com/roo-rb/roo) - Implements read access for all spreadsheet types and read/write access for Google spreadsheets.
+* [Roo](https://github.com/roo-rb/roo) - 实现对所有电子表格类型的读取访问和对 Google 电子表格的读/写访问.
 * [spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect 是一个库，允许您从 ActiveRecord 关系、普通 Ruby 对象或表格数据中超级轻松地创建 XLSX、ODS 或 CSV 电子表格.
 
 ## State Machines
@@ -1089,7 +1091,7 @@
 * [FiniteMachine](https://github.com/peter-murach/finite_machine) - 一个简单的 Ruby 状态机，语法简单明了.
 * [MicroMachine](https://github.com/soveran/micromachine) - 少于 50 行代码的最小有限状态机实现.
 * [simple_states](https://github.com/svenfuchs/simple_states) - 一个超薄的类似状态机的支持库.
-* [Statesman](https://github.com/gocardless/statesman) - 政治家般的状态机库.
+* [Statesman](https://github.com/gocardless/statesman) - A statesmanlike state machine library.
 * [state_machines](https://github.com/state-machines/state_machines) - 添加了对为任何 Ruby 类的属性创建状态机的支持.
 * [transitions](https://github.com/troessner/transitions) - 红宝石状态机实现.
 * [Workflow](https://github.com/geekq/workflow) - 受有限状态机启发的 API，用于建模和与我们倾向于称为“工作流”的内容交互.
@@ -1134,7 +1136,7 @@
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
@@ -1187,6 +1189,7 @@
 * [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - Instagram REST 和搜索 API 的官方 gem.
 * [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Apple 的 iTMSTransporter 程序的 Ruby 包装器.
 * [linkedin](https://github.com/hexgnu/linkedin) - 为 LinkedIn 的 REST API 提供易于使用的包装器.
+* [Notion Ruby Client](https://github.com/orbit-love/notion-ruby-client) - 概念 API 的 Ruby 包装器.
 * [Octokit](http://octokit.github.io/octokit.rb) - 用于 GitHub API 的 Ruby 工具包.
 * [Pusher](https://github.com/pusher/pusher-http-ruby) - 用于 Pusher API 的 Ruby 服务器库.
 * [Restforce](https://github.com/ejholmes/restforce) - Salesforce REST api 的 Ruby 客户端.
@@ -1264,7 +1267,7 @@
 * [Puma](https://github.com/puma/puma) - 用于 Ruby 的现代并发 Web 服务器.
 * [Rack](http://rack.github.io)  - 一个通用的 Ruby Web 服务器接口. 就其本身而言，它只是一个规范和实用程序库，但所有 Ruby Web 服务器都实现了这个接口.
 * [Thin](https://github.com/macournoyer/thin) - 小巧、快速且有趣的 HTTP 服务器.
-* [TorqueBox](https://github.com/torquebox/torquebox) - A Ruby application server built on JBoss AS7 and JRuby.
+* [TorqueBox](https://github.com/torquebox/torquebox) - 基于 JBoss AS7 和 JRuby 构建的 Ruby 应用程序服务器.
 * [Unicorn](http://unicorn.bogomips.org) - 用于快速客户端和 Unix 的机架式 HTTP 服务器.
 
 ## WebSocket

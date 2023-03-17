@@ -62,6 +62,9 @@
 - [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint，由 Chrome DevTools 工程师 @Jack_Franklin 提供.
 - [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin（Github）.
 - [Typescript + Svelte Cheatsheet](https://github.com/ivanhofer/sveltekit-typescript-showcase) - Svelte 和 SvelteKit 的所有 TypeScript 相关主题的概述 - @ivanhofer (Github).
+- [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
+- [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
+- [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
 
 ### Studies
 
@@ -116,7 +119,7 @@ _表格和数据网格._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - Svelte 的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - 允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表格.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - 带有分页器的 Svelte-generic-crud-table.
 
 ### Notification
@@ -258,7 +261,7 @@ _Lint 并格式化您的代码._
 
 _创建文档._
 
-- [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 为您的 Svelte 组件编写文档的快速方法.
+- [svelte-docs](https://github.com/AlexxNB/svelte-docs) - 一种快速编写 Svelte 组件文档的方法.
 - [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - 为您的组件生成 JSON 文档.
 - [svelte-docster](https://github.com/TheComputerM/svelte-docster) - 从 jsdoc 生成有关 Svelte 文件的元数据.
 
