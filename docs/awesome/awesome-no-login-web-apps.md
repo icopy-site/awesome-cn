@@ -42,7 +42,7 @@
 
 * [ShapeShift.io](https://shapeshift.io) - 即时加密货币转换.
 * [Cryptrader.com](https://cryptrader.com)  - 加密货币价格图表和指标. 保存您的设置需要一个帐户.
-* [TradingView.com](https://www.tradingview.com/) - Real-time information and market insights from various exchanges. Requires an account for saving settings.
+* [TradingView.com](https://www.tradingview.com/)  - 来自各个交易所的实时信息和市场见解. 需要一个帐户来保存设置.
 * [ICOStats.com](https://icostats.com/)  - 跟踪和比较 ICO 的性能. 显示详细的统计数据，如自 ICO 以来的投资回报率、自 ICO 以来的投资回报率与 ETH，以及用于比较 ICO 历史表现的图表.
 * [InvoiceToMe](https://invoiceto.me/) - 使用您公司的详细信息从各种模板生成专业发票.
 
@@ -73,7 +73,7 @@
 * [Dillinger](http://dillinger.io/)  - 强大的 Markdown 所见即所得，可导出为 HTML 和 PDF. 用于保存文档的用户帐户.
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - 具有打印功能的简单 GitHub 风格的 Markdown (GFM) 预览.
 * [HackMD](https://hackmd.io) - 具有预览功能的协作、强大、实时在线降价编辑器.
-* [Markdown Live Preview](http://markdownlivepreview.com/) - 即时降价预览.
+* [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - 最小的 Markdown 编辑器.
 * [StackEdit.io](https://stackedit.io/) - 丰富的浏览器内降价编辑器，可离线工作.
 
@@ -139,7 +139,7 @@
 * [agar.io](https://agar.io/) - 目标是通过吃比玩家细胞小的琼脂和细胞来获得尽可能多的质量，同时避免吃比玩家细胞大的琼脂和细胞.
 * [paper-io](http://paper-io.com)  - 游戏的目标是控制 100% 的竞技场. 您将扮演一个不断移动的小方块，并有一个与您的方块颜色相对应的小起始区域.
 * [diep.io](https://diep.io/)  - Diepio 是一款你扮演坦克并射击东西的游戏. 射击形状以升级您的坦克，然后射击玩家以获得大量积分.
-* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但不说是什么，而其他玩家必须识别它.
+* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但没有说出它是什么，而其他玩家必须识别它.
 * [surviv.io](https://surviv.io/)  - Surviv.io 是一款 2D 大逃杀游戏. 每场比赛你只有一个活人，没有重生.
 * [nitrome](https://www.nitrome.com/)  - 收集免费的像素艺术游戏. 新游戏不需要 Flash.
 * [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋中的方块以填满棋盘.
@@ -249,9 +249,9 @@
 * [pForm](http://www.phpform.org/) - 通过简单的所见即所得 GUI 创建 HTML 表单并下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  - 用于处理 CSS 中供应商前缀的后处理器. 只需粘贴常规 CSS 即可立即获得供应商前缀处理的 CSS.
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
-* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图像.
+* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
-* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅键入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
+* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - 测试站点速度和 Core Web Vitals.
 
@@ -276,8 +276,8 @@
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - 在同一张纸上绘制多个 2D 图，查看图形交叉点.
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - 如果您想玩数字，可以在线使用简单的几何表.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - 玩有向图.
-* [Calcul](http://www.calcul.com) - 不同计算器的集合，包括矩阵、单位转换器、数学分布等.
-* [Word Safety](http://wordsafety.com/) - 检查单词是否在任何语言中都是辱骂性的.
+* [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
+* [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - Integer Sequences® 在线百科全书，有助于密码学以及制定奇怪的序列.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - 绘制带或不带边值和物理的有向图系统.
 * [Abc-Map](https://abc-map.fr) - 创建地理地图、从数据存储中挑选数据、处理数据以创建可视化效果、导出或在线共享您的地图. 
@@ -304,13 +304,14 @@
 * [Dataflow kit](https://dataflowkit.com/dfk) - 从网页中提取结构化数据.
 * [E.gg Timer](http://e.ggtimer.com/) - 简单的倒数计时器应用程序.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - 支持不同类型的二维码，如联系信息、WiFi、日历等.
+* [QR Code Scanner and Generator](https://sharesnip.rosano.ca) - 通过相机和文件扫描，下载为 SVG 或 PNG，离线工作.
 * [RANDOM.ORG](https://www.random.org/) - 随机数生成器、掷骰子、密码生成器、随机位图和更多基于随机性概念的东西.
 * [Web-Capture](https://web-capture.net/) - 只需提交链接即可将网页转换为流行格式（PDF、JPEG、ZIP）的网络应用程序.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - 打印任何网页或将其保存为 HTML 或 PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - 从图像中确定字体名称.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) - 查看任何图像的隐藏数据（元数据）.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) - 查找任何网站的虚拟主机.
-* [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
+* [TypingWeb](https://www.typing.com/student/start) - 轻松掌握盲打.
 * [Acronym Creator](http://acronymcreator.net/) - 为组织、算法或至少有两个词的任何事物创建首字母缩写词.
 * [TallTweets](http://talltweets.com/) - 发送超过 140 个字符的推文.
 * [Postify](http://postfity.com/) `[Account]` - 在 Facebook、Twitter 和 LinkedIn 上安排帖子.
@@ -325,7 +326,7 @@
 
 ### Miscellaneous
 
-* [rollApp](https://www.rollapp.com/) `[Account]` - Run desktop applications on any device.
+* [rollApp](https://www.rollapp.com/) `[Account]` - 在任何设备上运行桌面应用程序.
 * [is.gd](https://is.gd/) - 带有自定义 URL 和开放 API（无令牌）的链接缩短器.
 * [Bitly](https://bitly.com/) - 带有 REST API 的强大 URL 缩短器.
 * [Superbetize](http://superbetize.com/) - 分类您的购物清单.

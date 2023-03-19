@@ -20,6 +20,7 @@
 * [Lovox](https://github.com/tjakka5/Lovox) - 用于处理体素的伪 3D 库.
 * [g3d](https://github.com/groverburger/g3d) - 简单易用的 LÖVE 3D 引擎.
 * [model_renderer](https://github.com/xiejiangzhi/model_renderer) - 用于 love2d 的简单 3d 模型渲染器.
+* [Menori](https://github.com/rozenmad/Menori) - 使用 LÖVE 进行 3D 渲染的库.
 
 
 ## AI
@@ -113,11 +114,12 @@
 * [iffy](https://github.com/YoungNeer/iffy) - LÖVE 的 SpriteSheet 和 Tileset 帮助程序库.
 * [knife](https://github.com/airstruck/knife) - 为 Lua 收集有用的微模块（类、状态机、绑定、链、协程、事件、记忆、实体、测试、计时器）.
 * [shard](https://github.com/MineGame159/shard) - 有用的迷你模块的集合.
-* [lovely-windows](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
+* [lovely-windows](https://github.com/flamendless/lovely-windows) - 用于虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - Lua LÖVE 引擎的状态切换器类.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua 有限状态机.
 * [lue](https://github.com/Ulydev/lue) - Lue 是一个 LÖVE 库，可让您在游戏中显示色调颜色效果.
 * [lume](https://github.com/rxi/lume/) - Lua 函数集合，面向游戏开发.
+* [Manami](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - 改进的“回流打印”，支持 UTF-8、多色和对齐.
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - 设计用于一次显示一个字符的文本对齐的库.
 * [roomy](https://github.com/tesselode/roomy) - LÖVE 的屏幕管理库.
@@ -204,7 +206,7 @@
 *碰撞检测和物理包装器*
 
 * [breezefield](https://github.com/HDictus/breezefield) - 轻巧易用的 love.physics 包装器（风场替代品）.
-* [Bump](https://github.com/kikito/bump.lua) - Lua 的碰撞检测库.
+* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
 * [HC](https://hc.readthedocs.io/en/latest/)  - 任意多边形的碰撞检测； 允许旋转对象.
 * [loveblobs](https://github.com/exezin/loveblobs) - 支持动态和静态任意软体的软体库.
 * [Strike](https://github.com/Aweptimum/Strike)  - 二维碰撞检测库. 可扩展，基于分离轴定理.
@@ -229,7 +231,7 @@
 ## Serialization
 *保存游戏和存储库*
 
-* [arson](https://github.com/flamendless/arson.lua) - Companion library for registering custom data types that can be encoded and decoded by json.lua.
+* [arson](https://github.com/flamendless/arson.lua) - 用于注册可由 json.lua 编码和解码的自定义数据类型的配套库.
 * [binser](https://github.com/bakpakin/binser) - 可定制的 Lua 序列化程序.
 * [bitser](https://github.com/gvx/bitser) - 使用 LuaJIT 序列化和反序列化 Lua 值.
 * [cdata](https://github.com/excessive/cdata) - 使用 LuaJIT 的 FFI 在 Lua 数据和 C 数据之间序列化.
@@ -289,10 +291,11 @@
 * [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 一个高度可配置的文本编辑器/编码工具，用 Lua 编写，运行在 LÖVE 游戏引擎上.
 * [SafeWord](https://github.com/josefnpat/safeword) - LÖVE 的过扫描检测库.
-* [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
+* [Slab](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 * [SUIT](https://github.com/vrld/SUIT) - 小型即时模式 GUI 库.
 * [YALG](https://github.com/sasszem/yalg) - 一个非常简单的跨平台反应式 UI，适用于最后一分钟的 UI.
 * [YUI](https://gitea.it/1414codeforge/yui) - LÖVE 的声明式 UI 库.
+* [Inky](https://github.com/Keyslam/Inky) - 任何用途的 GUI 框架.
 
 ## Utilities
 *非游戏特定的库和工具*

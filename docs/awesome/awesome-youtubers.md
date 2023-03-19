@@ -87,7 +87,7 @@ Content about: C, C#, C++ \
 
 [**Intellipaat**](https://www.youtube.com/user/intellipaaat) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：DevOps，人工智能\
-精选播放列表：`DevOps 初学者教程`、`人工智能教程`、`机器学习教程`、`Python 初学者教程`.
+特色播放列表：`DevOps 初学者教程`、`人工智能教程`、`机器学习教程`、`Python 初学者教程`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxg7ZDO-AqFL4bQWz38_7RZKYydoUQTpVuPAPzo=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ProgrammingKnowledge)
 
@@ -539,7 +539,7 @@ Content about: Math \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh5LCFZXxMvzoKjloDxqtbc9wXJkdLN4F_SKsEe4w=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Socratica)
 
 [**Socratica**](https://www.youtube.com/c/Socratica) \
-内容关于：数学、计算、普通科学 \
+Content about: Math, Computing, General science \
 精选播放列表：`抽象代数`、`学习 Python 播放列表`、`关于学习的视频`、`更多科学主题`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngK_x_ibq6xRq-NExEjxP7EnPSYDhUbDHoacpgF=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
@@ -691,7 +691,7 @@ Content about: Math \
 
 [**sentdex**](https://www.youtube.com/c/sentdex) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容关于：用于 AI 和金融的 Python \
-特色播放列表：`Python 金融编程`、`Python 机器学习`、`Python 中的神经网络从零开始`.
+精选播放列表：`Python 金融编程`、`Python 机器学习`、`Python 中的神经网络从零开始`.
 
 
 ## DevOps
@@ -720,7 +720,7 @@ Content about: Math \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/kRxC322HFMMQ8KQzb5zB2C4JDbMarHkXizae8znxrdPBxRdmrMsz24ft0PfSHoOcEkEa5lRM2Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
 
 [**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
+内容关于：GitOps、Docker、Kubernetes、Rancher、AWS \
 精选播放列表：`Kubernetes`、`CI/CD`、`This vs. that`.  \
 <br />
 
@@ -844,7 +844,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhrvrwkYlzE7Ipcl_JHCJGWgObDB1Mm2wXx2F3_Ww=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg)
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Développeuse Du Dimanche**](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg) \
-内容关于： 视频游戏制作，独立游戏开发的幕后花絮 \
+内容关于：视频游戏制作，独立游戏开发的幕后花絮 \
 精选播放列表：`Tuto`、`Our conferences`、`Why it&#39;s cool?`、`Journal de bord`.  \
 <br />
 
@@ -940,13 +940,13 @@ Nowadays, we can't imagine our lives without our smartphones and the people who 
 
 [**Gerald Auger**](https://www.youtube.com/c/GeraldAuger) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于： 网络安全 \
-特色播放列表：`闯入网络安全视频 - 简单的网络`、`与招聘人员一起进行网络安全求职 QA`、`免费渗透测试人员列表伴侣`.
+精选播放列表：`闯入网络安全视频 - 简单的网络`、`与招聘人员一起进行网络安全求职 QA`、`免费渗透测试人员列表伴侣`.
 
 [<img align="left" height="94px" width="94px" alt="Channel avatar" src="https://yt3.ggpht.com/ytc/AAUvwnh6QHLdRPfo9NF-2TFY0fiAqnjLXiV48odLQASLQA=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworkChuck)
 
 [**Network Chuck**](https://www.youtube.com/c/NetworkChuck)[<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：网络、网络安全、道德黑客 \
-精选播放列表：`Linux - NetworkChuck`、`FREE Security+ SY0-601 // Complete Course // thisisIT 2020`、`FREE CCNA 200-301 // Complete Course // NetworkChuck 2020`.
+特色播放列表：`Linux - NetworkChuck`、`FREE Security+ SY0-601 // Complete Course // thisisIT 2020`、`FREE CCNA 200-301 // Complete Course // NetworkChuck 2020`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSKaXhsJjVcucr6ZGs4aFaBu_Qy-oY5z1KBLVGh0Q=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JohnHammond010)
 
@@ -1082,7 +1082,7 @@ Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microso
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJVbkZF43DOQpyCMY4jIhNXCJmN33xnMUyemTPqo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@NLJUG1)
 
 [**NLJUG**](https://www.youtube.com/@NLJUG1) \
-内容关于：荷兰 Java 用户组中与 Java 相关的所有内容.  （大部分内容为英文）\
+内容关于：来自荷兰 Java 用户组的与 Java 相关的所有内容 \
 精选播放列表：`J-Fall`、`J-Spring`.  \
 <br/>
 
@@ -1121,7 +1121,7 @@ Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microso
 
 ## Digital design
 
-网页设计教程列在 [web development section](#web-development) . 但是，当然，数字设计非常大，包括漂亮的图片和名人的绘画代表或有吸引力的宣传视频. 获得有关如何做这些事情的知识，并成为设计程序的专业人士.
+网页设计教程列在 [web development section](#web-development) . 但是，当然，数字设计非常大，包括漂亮的图片和关于名人的绘画代表或有吸引力的宣传视频. 获得有关如何做这些事情的知识，并成为设计程序的专业人士.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
 

@@ -50,7 +50,7 @@
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) - 图书馆实施 [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) 用于蛋白质机器学习应用. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) - 规范化 JAX 中的流程. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) - 使用 JAX 的 `scikit-learn` 内核矩阵. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
-- [jax-cosmo](https://raw.githubusercontent.com/DifferentiableUniverseInitiative/jax_cosmo) - 可区分的宇宙学库. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
+- [jax-cosmo](https://raw.githubusercontent.com/DifferentiableUniverseInitiative/jax_cosmo) - 可区分的宇宙学图书馆. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
 - [efax](https://raw.githubusercontent.com/NeilGirdhar/efax) - JAX 中的指数族. <img src="https://img.shields.io/github/stars/NeilGirdhar/efax?style=social" align="center">
 - [mpi4jax](https://raw.githubusercontent.com/PhilipVinc/mpi4jax) - 将 MPI 操作与 CPU 和 GPU 上的 Jax 代码相结合. <img src="https://img.shields.io/github/stars/PhilipVinc/mpi4jax?style=social" align="center">
 - [imax](https://raw.githubusercontent.com/4rtemi5/imax) - 图像增强和转换. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
@@ -91,6 +91,7 @@
 - [SPU](https://raw.githubusercontent.com/secretflow/spu) - 特定领域的编译器和运行时套件，用于使用 MPC（安全多方计算）运行 JAX 代码. <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
 - [jax-tqdm](https://raw.githubusercontent.com/jeremiecoullon/jax-tqdm) - 添加一个 tqdm 进度条到 JAX 扫描和循环. <img src="https://img.shields.io/github/stars/jeremiecoullon/jax-tqdm?style=social" align="center">
 - [safejax](https://raw.githubusercontent.com/alvarobartt/safejax) - 使用 `safetensors` 序列化 JAX、Flax、Haiku 或 Objax 模型参数. <img src="https://img.shields.io/github/stars/alvarobartt/safejax?style=social" align="center">
+- [Kernex](https://github.com/ASEM000/kernex) - JAX 中的可区分模板装饰器.
 
 <a name="models-and-projects" />
 

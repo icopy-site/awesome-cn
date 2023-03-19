@@ -76,7 +76,7 @@
 * [DlangScience](https://github.com/DlangScience) - 科学图书馆和 D 工具的焦点和第一停靠港.
 * [Circular Studios](https://github.com/Circular-Studios)  - 我们是罗彻斯特理工学院的一群游戏开发人员，他们致力于构建游戏和游戏技术. 主持 [Dash](https://github.com/Circular-Studios/Dash)，一个用 D 语言编写的 3D 游戏引擎，以及其他相关库.
 * [EMSI](https://github.com/economicmodeling)  - 一家以 D 为主要语言的职业建设公司. 托管他们的开源项目.
-* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 语言编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
+* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数值库开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 总部位于柏林的公司，专门从事在线广告实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 开源了他们代码库的大部分作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日管理的资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了以下项目的开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
@@ -93,6 +93,7 @@
 ## Tutorials
 *D相关教程*
 * [The Dlang Tour](https://tour.dlang.org/) - 受 Golang Tour 启发的 D 交互式教程.
+* [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV&ab_channel=MikeShah) - 关于 D 语言编程的介绍性视频系列. 
 * [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html)  - 这是对 D 编程语言的实用介绍. 安德烈亚斯·茨温考着.
 * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)  - 专门针对 D 模板的教程. 关于模板的很好的解释. 有pdf版本. 菲利普·西戈德着.
 * [Component programming in D](https://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - Walter Bright 撰写的一篇文章，详细介绍了 D 的功能支持如何导致灵活而美观的组件编程风格.
@@ -456,7 +457,7 @@
 
 * [scid](https://github.com/DlangScience/scid) - D 编程语言的科学图书馆
 * [dstats](https://github.com/DlangScience/dstats) - D 的统计库. 
-* [mir](https://github.com/libmir/mir) - 一些 mir 包的沙箱：稀疏张量、霍夫曼等.
+* [mir](https://github.com/libmir/mir) - 一些 mir 包的沙盒：稀疏张量、霍夫曼等.
 * [mir-algorithm](https://github.com/libmir/mir) - N 维数组（矩阵、张量）、算法、通用库.
 * [mir-random](https://github.com/libmir/mir-random) - 高级随机数生成器.
 * [decimals](https://github.com/rumbu13/decimal) - D 的十进制库.
@@ -474,7 +475,7 @@
 *小心打印.*
 
 - [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos 即将推出的标准日志记录工具
-- [dlogg](https://github.com/NCrashed/dlogg) - 使用惰性和延迟日志记录并发应用程序和守护进程的日志记录， [logrotate](https://linux.die.net/man/8/logrotate) 支持.
+- [dlogg](https://github.com/NCrashed/dlogg) - 使用延迟和延迟日志记录并发应用程序和守护进程的日志记录， [logrotate](https://linux.die.net/man/8/logrotate) 支持.
 
 ## Configuration
 *解析配置文件*
