@@ -6,7 +6,8 @@
 
 ## Clocks & Studio Screens
 * [OnAirScreen](https://github.com/saschaludwig/OnAirScreen) - 针对专业广播环境的跨平台“OnAir Lamp”解决方案.
-* [PiClock](https://github.com/simonhyde/PiClock) - 可自定义的基于网络的时钟显示、广播、麦克风直播和其他演播室指示器.
+* [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+* [PiClock Advanced](https://github.com/ael/piclock_advanced) PiRSClock-Full 的改进版本，更改了布局，添加了计时器和网络功能.
 * [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - 带有麦克风、电话等工作室指示器的无线电工作室时钟.
 
 ## Codecs
@@ -133,7 +134,7 @@
 * [Pi Audio Monitor](https://github.com/martim01/pam) - Raspberry Pi 的音频监控，支持 S/PDIF、AES3、AES67、Livewire 和 Ravenna.
 * [Photon](https://github.com/Netflix/photon) - 实施 SMPTE 互操作母版格式 (IMF) 标准.
 * [QCTools](https://github.com/bavc/qctools) - 用于视频保存的质量控制工具，用于分析数字化视频文件.
-* [Rotter](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
+* [Rotter](https://github.com/njh/rotter) - JACK 的传输记录/音频记录器.
 * [silan](https://github.com/x42/silan) - 音频文件静音分析器.
 * [SilentJack](https://github.com/njh/silentjack) - JACK 的死气/静音检测器.
 * [VMAF](https://github.com/Netflix/vmaf) - 基于多方法融合的感知视频质量评估.

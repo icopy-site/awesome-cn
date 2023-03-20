@@ -32,7 +32,7 @@
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - 提供对本机操作表的访问.
 - [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - 处理高级应用程序状态和事件. 
 - [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - 允许检查应用程序是否可以打开并打开它.
-- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的功能.
+- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的能力.
 - [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - 提供使用相机拍照或从相册中选择现有照片的功能.
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - 启用复制和粘贴到/从系统剪贴板.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - 公开有关设备的内部信息，如型号和操作系统版本，以及用户信息，如唯一 ID.
@@ -61,7 +61,7 @@
 - [App-icon](https://github.com/capacitor-community/app-icon) - 用于更改应用程序图标的电容器社区插件.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - 电容器登录苹果.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - 即使应用程序处于后台，也能接收地理位置更新.
-- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描器.
+- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描仪.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - 低功耗蓝牙.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - 相机预览.
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - 使用适用于 Android 和 iOS 的原生 Maps API 的插件.
@@ -196,6 +196,7 @@
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Capacitor 的 Zalo 登录插件.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - 从系统相册中获取所有图片.
 
+
 ## Cordova plugins
 
 ### Compatible
@@ -209,7 +210,7 @@
 - [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ([see details](https://github.com/ionic-team/capacitor/issues/1101))
 - [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ([see details](https://github.com/ionic-team/capacitor/issues/1415))
 - [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ([see details](https://github.com/microsoft/code-push/issues/615))
-- [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) （没有必要）
+- [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) （不需要）
 - [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) （不需要，电容器有自己的）
 - [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) （电容器不允许更改网络视图）
 - [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ([see details](https://github.com/ionic-team/capacitor/issues/584))

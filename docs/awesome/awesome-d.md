@@ -202,7 +202,7 @@
 
 ## Preprocesors
 
-* [warp](https://github.com/facebookarchive/warp)  - Facebook 基础设施中使用的 C 和 C++ 快速预处理器. 由沃尔特·布莱特撰写.
+* [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript 虚拟机，在 D 中实现.
@@ -438,6 +438,8 @@
 * [Drill](https://github.com/yatima1460/drill) - 没有索引的搜索文件，但聪明的爬行
 * [Cryptic-Resolver](https://github.com/cryptic-resolver/cr_D) - 管理神秘命令的名称、首字母缩略词和您自己的知识库（命令行实用程序）
 * [Inochi Creator](https://github.com/Inochi2D/inochi-creator) - 创建和编辑 Inochi2D 木偶的工具
+* [Literate](https://github.com/zyedidia/Literate) - 适用于任何语言的文学编程工具
+* [onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
 
 ## Machine Learning
 

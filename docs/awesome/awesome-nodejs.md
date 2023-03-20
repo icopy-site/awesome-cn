@@ -117,15 +117,27 @@
 		<br>
 		<a href="https://serpapi.com#gh-light-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="130" alt="SerpApi">
 			</div>
 			<b>轻松获取搜索引擎结果的 API.</b>
 		</a>
 		<a href="https://serpapi.com#gh-dark-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="130" alt="SerpApi">
 			</div>
 			<b>轻松获取搜索引擎结果的 API.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://dashcam.io?ref=sindresorhus_awesome_nodejs">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
+			</div>
+			<b>绝不会错过另一个错误</b>
+			<div>
+				<sup>使用桌面版 Dashcam 捕获每次重现每个错误的步骤.</sup>
+			</div>
 		</a>
 		<br>
 		<br>
@@ -169,7 +181,7 @@
 - [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将 Torrent 视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
-- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币库.
+- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币图书馆.
 - [PDFKit](https://github.com/foliojs/pdfkit) - PDF生成库.
 - [turf](https://github.com/Turfjs/turf) - 模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) - 使用使用 GitHub 私钥/公钥进行身份验证的 WebRTC 通过网络进行 p2p 管道传输.
@@ -272,7 +284,7 @@
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的 Node.js 进程中获得见解.
 - [thetool](https://github.com/sfninja/thetool) - 以 Chrome DevTools 友好格式为您的应用捕获不同的 CPU、内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - 跟踪 API 调用并监控 API 性能、运行状况和使用指标.
-- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流.
+- [NiM](https://github.com/june07/nim) - 管理 DevTools 调试工作流程.
 - [dats](https://github.com/immobiliare/dats) - 简约和零依赖 [StatsD](https://github.com/statsd/statsd) 客户.
 
 ### Logging
@@ -303,7 +315,7 @@
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示符.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否喜欢的值.
 - [cli-table3](https://github.com/cli-table/cli-table3) - 漂亮的 unicode 表.
 - [drawille](https://github.com/madbence/node-drawille) - 在终端上使用 unicode 盲文字符绘制.
@@ -395,7 +407,7 @@
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
 - [chokidar](https://github.com/paulmillr/chokidar) - 稳定来自 `fs.watch` 和 `fs.watchFile` 的事件以及在 macOS 上使用原生 `fsevents` 的文件系统观察器.
 - [find-up](https://github.com/sindresorhus/find-up) - 通过向上父目录查找文件.
-- [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
+- [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - 进程间和机器间锁定文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - 读取并解析 JSON 文件.
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - 以原子方式将 JSON 字符串化并写入文件.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - 类似于 `fs.createWriteStream()`，但是是原子的.
@@ -825,11 +837,10 @@
 - [Nodeschool](https://github.com/nodeschool) - 通过交互式课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些良好做法.
-- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和实际上令人愉悦阅读的代码.
+- [The Node Way](https://thenodeway.io) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
-- [Scaling Node.js Applications](https://betterstack.com/community/guides/scaling-nodejs/) - 了解有关在生产环境中构建、部署和扩展 Node.js 应用程序的所有知识.
 
 ### Discovery
 
@@ -908,7 +919,7 @@
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展.
 - [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型设计.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型制作.
 
 ### Community
 

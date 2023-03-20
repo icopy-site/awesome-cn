@@ -213,7 +213,6 @@
 
 ### Utility
 
-- [random](https://github.com/Delta456/random) - 用 V 编写的通用随机库.
 - [range](https://github.com/Delta456/range) - V 中 Python 的 range() 功能.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - 用于解析 SSH 配置文件的 AV 库.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造者.

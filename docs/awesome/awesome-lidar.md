@@ -51,9 +51,9 @@
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCVc1KFsu2eb20M8pKFwGiFQ)
 - [Quanenergy](https://quanergy.com/)  - Quanenergy Systems / 固态和机械 LIDAR 传感器 / 提供测绘、工业自动化、运输和安全方面的端到端解决方案. 总部位于美国加利福尼亚州桑尼维尔.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
-- [Cepton](https://www.cepton.com/index.html) - Cepton (Cepton Technologies, Inc.) / pioneers in frictionless, and mirrorless design, self-developed MMT (micro motion technology) lidar technology. The headquarter is located in San Jose, California, USA.
+- [Cepton](https://www.cepton.com/index.html)  - 思普顿（Cepton Technologies, Inc.）/无摩擦和无反光镜设计的先驱，自主研发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
-- [Blickfeld](https://www.blickfeld.com/) - Blickfeld 是一家用于自主移动和物联网的固态激光雷达制造商，总部位于德国慕尼黑.
+- [Blickfeld](https://www.blickfeld.com/) - Blickfeld is a solid-state LIDAR manufacturer for autonomous mobility and IoT, based in München, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
   - [GitHub organization :octocat:](https://github.com/Blickfeld)
 - [Neuvition](https://www.neuvition.com/) - Neuvition 是一家位于中国吴江的固态激光雷达制造商.
@@ -74,7 +74,7 @@
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  - 这个数据集是用我们的机器人汽车（当然是人类驾驶模式）收集的，配备了多达 11 个异构传感器，在法国蒙贝利亚尔的市中心（用于长期数据）和郊区（用于环形交叉路口数据）. 根据法国交通规则，车速限制在 50 公里/小时.
-- [NuScenes](https://www.nuscenes.org/) - Public large-scale dataset for autonomous driving.
+- [NuScenes](https://www.nuscenes.org/) - 用于自动驾驶的公共大型数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) - 由配备激光雷达和摄像头的福特 Fusion 车队收集的公共数据集.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) - 广泛的公共数据集，主要关注计算机视觉应用，但也包含 LIDAR 点云.
@@ -101,7 +101,7 @@
 
 ## Libraries
 
-- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - 流行的高度并行编程库，具有大量工业和研究用例. 
+- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
   - [GitHub repository :octocat:](https://github.com/PointCloudLibrary/pcl)
 - [Open3D library](http://www.open3d.org/docs/release/)  - Open3D 库包含 3D 数据处理和可视化算法. 它是开源的，同时支持 C++ 和 Python.
   - [GitHub repository :octocat:](https://github.com/intel-isl/Open3D)
@@ -216,23 +216,30 @@
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - 跨平台通用机器人模拟器（以前称为 V-REP）.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
-- [OSRF Gazebo](http://gazebosim.org/) - 基于 OGRE 的通用机器人模拟器，兼容 ROS/ROS2.
+- [OSRF Gazebo](http://gazebosim.org/) - 基于 OGRE 的通用机器人模拟器，兼容 ROS/ROS 2.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
-- [CARLA](https://carla.org/)  - 用于汽车应用的基于虚幻引擎的模拟器. 兼容Autoware、百度Apollo和ROS/ROS2.
+- [CARLA](https://carla.org/)  - 用于汽车应用的基于虚幻引擎的模拟器. 兼容Autoware、百度Apollo和ROS/ROS 2.
   - [GitHub repository :octocat:](https://github.com/carla-simulator/carla)
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UC1llP9ekCwt8nEJzMJBQekg)
-- [LGSVL](https://www.lgsvlsimulator.com/)  - 用于汽车应用的基于 Unity 引擎的模拟器. 兼容Autoware、百度Apollo和ROS/ROS2.
+- [LGSVL / SVL](https://www.lgsvlsimulator.com/)  - 用于汽车应用的基于 Unity 引擎的模拟器. 与 Autoware、百度 Apollo 和 ROS/ROS 2 兼容.*注意：* LG 做出了艰难的决定 [suspend](https://www.svlsimulator.com/news/2022-01-20-svl-simulator-sunset) 积极开发 SVL Simulator.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
+- [OSSDC SIM](https://github.com/OSSDC/OSSDC-SIM)  - 基于 Unity Engine 的汽车应用模拟器，基于暂停的 LGSVL 模拟器，但正在积极开发中. 兼容Autoware、百度Apollo和ROS/ROS 2.
+  - [GitHub repository :octocat:](https://github.com/OSSDC/OSSDC-SIM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fU_C38WEwGw)
 - [AirSim](https://microsoft.github.io/AirSim)  - 基于虚幻引擎的无人机和汽车模拟器. 与 ROS 兼容.
   - [GitHub repository :octocat:](https://github.com/microsoft/AirSim)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
+- [AWSIM](https://tier4.github.io/AWSIM)  - 用于汽车应用的基于 Unity 引擎的模拟器. 与 Autoware 和 ROS 2 兼容.
+  - [GitHub repository :octocat:](https://github.com/tier4/AWSIM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=FH7aBWDmSNA)
+
 
 ## Related awesome
 - [Awesome point cloud analysis :octocat:](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 - [Awesome robotics :octocat:](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Awesome robotics libraries :octocat:](https://github.com/jslee02/awesome-robotics-libraries#readme)
-- [Awesome ROS2 :octocat:](https://github.com/fkromer/awesome-ros2#readme)
+- [Awesome ROS 2 :octocat:](https://github.com/fkromer/awesome-ros2#readme)
 - [Awesome artificial intelligence :octocat:](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Awesome computer vision :octocat:](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Awesome machine learning :octocat:](https://github.com/josephmisiti/awesome-machine-learning#readme)

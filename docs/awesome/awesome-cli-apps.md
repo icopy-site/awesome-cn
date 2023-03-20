@@ -239,8 +239,9 @@
 
 - [WOPR](https://github.com/yaronn/wopr) - 一种用于创建丰富的终端报告、演示文稿和信息图表的简单标记语言.
 - [decktape](https://github.com/astefanutti/decktape) - 用于 HTML 演示文稿的 PDF 导出器.
-- [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
+- [mdp](https://github.com/visit1985/mdp) - 降价演示工具.
 - [sent](https://tools.suckless.org/sent/) - 简单的明文展示工具.
+- [slides](https://github.com/maaslalani/slides) - 降价演示工具.
 
 ### Calendars
 
@@ -381,7 +382,7 @@
 - [jq](https://github.com/stedolan/jq) - JSON处理器.
 - [yq](https://github.com/kislyuk/yq) - YAML 处理器.
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML 处理器（如 jq/yq）.
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - 查询/更新 YAML.
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - 使用功能管道处理数据.
 
 ### JSON
@@ -571,7 +572,7 @@
 
 ### Emoji
 
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoj](https://github.com/sindresorhus/emoj) - 从命令行的文本中查找相关的表情符号.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表情符号并将其复制到剪贴板.
 - [oji](https://github.com/xxczaki/oji) - 交互式文本表情符号制作器.
 

@@ -10,7 +10,7 @@
 
 <br>
 
----
+<!-- ---
 
 <br>
 <br>
@@ -25,6 +25,8 @@
 </div>
 <br>
 <br>
+
+-->
 
 ---
 
@@ -85,6 +87,17 @@
 				<br>
 				将文书工作自动化构建到您的产品中的最简单方法.
 				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://dashcam.io?ref=sindresorhus_awesome_electron">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
+			</div>
+			<b>Electron 的视频崩溃报告</b>
+			<div>
+				<sup>捕获使用 Dashcam 桌面应用程序重现每个错误的步骤.</sup>
 			</div>
 		</a>
 		<br>
@@ -158,7 +171,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现、收集和收听来自 YouTube 的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
-- [Pomotroid](https://github.com/Splode/pomotroid) - 定时器番茄.
+- [Pomotroid](https://github.com/Splode/pomotroid) - 计时器番茄.
 - [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的可视化工具.
 - [Etcher](https://github.com/resin-io/etcher) - 将操作系统映像闪存到 SD 卡和 USB 驱动器.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记记录.
@@ -208,9 +221,9 @@
 - [Remember](https://rememberapp.co.kr)  - 名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - 官方 MongoDB 应用程序.
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
-- [WhatsApp](https://www.whatsapp.com/download/) - Official WhatsApp app.
+- [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知程序.
-- [Discord](https://discord.com) - 语音和文字聊天.
+- [Discord](https://discord.com) - Voice and text chat.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 用于为 Cocos2D-x 创建网络和本机游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的降价笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换区块链资产，如比特币和以太坊.
@@ -224,7 +237,7 @@
 - [Cacher](https://www.cacher.io) - 基于云的、支持团队的代码片段管理器，具有 Gist 同步功能.
 - [MusicPlus](https://musicplus.io) - 适用于 macOS 和 Windows 的免费音乐应用程序.
 - [Mingo](https://mingo.io) - MongoDB 图形用户界面.
-- [Moon Modeler](https://datensen.com) - 用于 MongoDB、Mongoose 和 MariaDB 的架构设计工具.
+- [Moon Modeler](https://datensen.com) - 用于 MongoDB、Mongoose 和 MariaDB 的模式设计工具.
 - [Notion](https://notion.so) - 用于笔记、任务、wiki 和数据库的多合一工作区.
 - [FATpick](https://www.fatpick.com) - 吉他指法谱查看器可在您演奏时为您的演奏打分.
 - [Taskade](https://www.taskade.com) - 用于分布式团队的实时组织和协作工具，包括任务、笔记和聊天.

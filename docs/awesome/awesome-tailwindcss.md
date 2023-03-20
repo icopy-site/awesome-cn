@@ -244,6 +244,7 @@
 - 🌍 [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) - Tailwind CSS 类名、变体和指令备忘单.
 - 🌍 [Tailwind Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - 可搜索页面中的 Tailwind CSS 类名称.
 - 🌍 [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - 可搜索界面中的 Tailwind CSS 实用程序类名称.
+- [Loopple Builder](https://www.loopple.com/theme/soft-ui-dashboard-tailwind) - 用于 Tailwind CSS 的仪表板拖放构建器.
 
 
 ## UI Libraries, Components & Templates

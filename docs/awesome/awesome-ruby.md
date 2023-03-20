@@ -469,7 +469,6 @@
 * [Conekta](https://github.com/conekta/conekta-ruby) - Conekta Ruby 绑定.
 * [credit_card_validations](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - 用于 Ruby 的官方 Paypal 商户 SDK.
-* [Piggybak](https://github.com/piggybak/piggybak) - 用于 Ruby on Rails 的模块化、可扩展的开源电子商务解决方案.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) - 一个 Rails 电子商务平台.
 * [Solidus](https://github.com/solidusio/solidus) - 面向大批量零售商的开源电子商务应用程序.
 * [Spree](https://github.com/spree/spree) - Spree 是 Ruby on Rails 的完整开源电子商务解决方案.
@@ -493,7 +492,7 @@
 * [LetterOpener](https://github.com/ryanb/letter_opener) - 在浏览器中预览邮件而不是发送.
 * [Mail](https://github.com/mikel/mail) - 真正的 Ruby 邮件库.
 * [MailCatcher](https://mailcatcher.me) - 捕捉邮件并通过梦想送达.
-* [MailForm](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+* [MailForm](https://github.com/heartcombo/mail_form) - 直接从 Rails 中的表单发送电子邮件，其中包含 I18n、验证、附件和请求信息.
 * [Maily](https://github.com/markets/maily) - 用于管理、测试和浏览应用程序所有电子邮件模板的 Rails 引擎，能够直接在浏览器中预览它们.
 * [MidiSmtpServer](https://4commerce-technologies-ag.github.io/midi-smtp-server/) - 高度可定制的 ruby​​ SMTP 服务库，内置支持 AUTH 和 SSL/STARTTLS、8BITMIME 和 SMTPUTF8、IPv4 和 IPv6 等.
 * [Pony](https://github.com/benprew/pony) - 从 Ruby 发送邮件的快速方式.
@@ -672,7 +671,7 @@
 
 ## Internationalization
 
-* [FastGettext](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
+* [FastGettext](https://github.com/grosser/fast_gettext) - 具有更少内存、简单、干净的命名空间和线程安全的 Ruby 国际化工具.
 * [Globalize](https://github.com/globalize/globalize) - Globalize 以 Ruby on Rails 中的 I18n API 为基础，将模型转换添加到 ActiveRecord 模型.
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) - 使用强大的静态分析功能管理丢失和未使用的翻译.
 * [i18n](https://github.com/svenfuchs/i18n) - Ruby 国际化和本地化解决方案.
@@ -771,7 +770,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -880,7 +879,7 @@
 ## Performance Monitoring
 
 * [Instrumental](https://github.com/expectedbehavior/instrumental_agent) - 实时测量您的应用程序 [Instrumental](http://instrumentalapp.com).
-* [New Relic](https://github.com/newrelic/rpm) - 通过 New Relic 应用程序监控和故障排除查找并修复 Ruby 错误.
+* [New Relic](https://github.com/newrelic/rpm) - Find and fix Ruby errors with New Relic application monitoring and troubleshooting.
 * [RoRvsWild](https://github.com/BaseSecrete/rorvswild) - Rails 开发人员的性能和异常监控.
 * [Scout](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby 应用程序监控代理.
 * [Skylight](https://github.com/skylightio/skylight-ruby) - 可视化请求性能的 Rails 应用程序智能分析器.
@@ -1069,7 +1068,7 @@
 
 ## Social Networking
 
-* [Decidim](https://github.com/decidim/decidim) - 城市和组织的免费开源参与式民主
+* [Decidim](https://github.com/decidim/decidim) - free open-source participatory democracy for cities and organizations
 * [diaspora*](https://github.com/diaspora/diaspora) - 隐私意识、分布式、开源社交网络.
 * [Discourse](https://github.com/discourse/discourse)  - 社区讨论的平台. 免费、开放、简单.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) - 用于 Rails 应用程序的私人消息系统.
@@ -1136,7 +1135,7 @@
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
