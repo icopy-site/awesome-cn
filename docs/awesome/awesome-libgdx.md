@@ -34,7 +34,7 @@ _可用于 libGDX 代码以增强框架功能的资源._
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx)  - 使用 SDL 的强大游戏手柄实现. 在相同的映射、隆隆声和热插拔下支持数百个控制器.
 
 ### Editors
-- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - 用于复杂 2D 世界和场景的可视化编辑器，带有 libGDX 运行时.
 - [Spine](http://esotericsoftware.com/) - 基于骨架的动画工具，专门针对游戏的 2D 动画.
 
 ### Entity Component System (ECS)
@@ -74,6 +74,7 @@ _可用于 libGDX 代码以增强框架功能的资源._
 
 ### Visual Effects
 - [Box2DLights](https://github.com/libgdx/box2dlights) - 使用 Box2D 进行光线投射和使用 OpenGL ES 2.0 进行渲染的 2D 照明框架.
+- [HackLights](https://github.com/aliasifk/HackLights) - 用于 libGDX 的基于轻量级帧缓冲区的照明引擎.
 - [gdx-vfx](https://github.com/crashinvaders/gdx-vfx) - 基于 libgdx-contribs-postprocessing 的灵活后处理着色器视觉效果.
 - [libgdx-screenmanager](https://github.com/crykn/libgdx-screenmanager) - 支持各种过渡效果的 libGDX 屏幕管理器
 - [Particle Park](https://github.com/raeleus/Particle-Park) - 带有实时预览的可下载粒子效果展示.
@@ -114,7 +115,7 @@ _新手和经验丰富的开发人员的教程._
 
 ### Advanced
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - 为 libGDX 项目启用代码热交换以提高生产力的视频教程.
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - 详细说明如何使用像素图创建遮罩.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - 2019 年使用 RoboVM 部署到 iOS.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - 像素完美的平滑滚动.

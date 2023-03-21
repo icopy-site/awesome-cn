@@ -3,7 +3,7 @@
 
 &gt; 现代生成人工智能项目和服务的精选列表.
 
-生成式人工智能是一种通过使用基于大量数据训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
+Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
 
 欢迎对此列表做出贡献. 通过添加链接 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
 
@@ -83,7 +83,7 @@
 - [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
 
 ### Academia
-- [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
+- [Elicit](https://elicit.org/) - Elicit 使用语言模型来帮助您自动化研究工作流程，例如部分文献综述.
 - [genei](https://www.genei.io/) - 在几秒钟内总结学术文章，节省 80% 的研究时间.
 - [Explainpaper](https://www.explainpaper.com/)  - 阅读学术论文的更好方式. 上传一篇论文，突出令人困惑的文本，获得解释.
 - [Galactica](https://galactica.org/)  - 用于科学的大型语言模型. 可以总结学术文献、解决数学问题、生成 Wiki 文章、编写科学代码、注释分子和蛋白质等等. [Model API](https://github.com/paperswithcode/galai).
@@ -198,6 +198,7 @@
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - 致力于游戏生成 AI 的公司的市场地图，作者： [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - 用于艺术用途的生成深度学习工具、作品、模型等的精选列表，作者： [@filipecalegario](https://github.com/filipecalegario/).
 - [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
+- [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.

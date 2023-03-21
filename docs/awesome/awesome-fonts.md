@@ -35,6 +35,7 @@
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - 来自 DOS 时代 PC 的文本模式字体、系统字体和 BIOS 字体的集合
 * [USWDS](https://github.com/uswds) - 美国网页设计系统
   * [Public Sans](https://public-sans.digital.gov/)
+* [FontsKey](https://www.fontskey.com) - 提供个人免费字体和商业付费字体，可输入文字进行快速筛选.
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - 参数化可变字体
@@ -62,7 +63,7 @@
 * [emoji-translate](https://github.com/notwaldorf/emoji-translate) - 将文字翻译成表情符号
 * [emoji](https://github.com/leereilly/emoji) - GitHub 拉取请求、问题、评论、提交消息、降价文件等支持的所有表情符号
 * [emoji](https://github.com/muan/emoji) - 找到与您的想法相呼应的表情符号
-* [emoji](https://github.com/wpeterson/emoji)  - 一颗宝石. 对于表情符号. 为了所有人.
+* [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 * [emojidex](https://github.com/emojidex/emojidex) - 表情符号即服务提供商和一套工具和资产
 * [emojify.js](https://github.com/emojione/emojify.js) - 将表情符号关键字转换为图像的 Javascript 模块
 * [emojify](https://github.com/mrowa44/emojify) - 命令行上的表情符号
@@ -111,7 +112,7 @@
 * [Simple Icons](https://simpleicons.org/) - 2287 多个流行品牌的免费 SVG 图标
 * [stackicons](https://github.com/parkerbennett/stackicons) - Stackicons-Social 的图标字体和基于 Sass 的构建工具包，支持多种按钮形状和 CSS 中独特的“多色”选项，适用于 60 多个社交品牌
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - 完美的 SVG 图标集合
-* [typicons.font](http://s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit
+* [typicons.font](http://s-ings.com/typicons/) - 网络字体套件中的 336 像素完美通用矢量图标
 * [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 个天气主题图标，灵感来自 Font Awesome 并已准备好用于 Bootstrap
 * [WebHostingHub Glyphs](https://github.com/whhglyphs/webhostinghub-glyphs)
 * [Zocial](https://github.com/adamstac/zocial) - Sass 和 Compass CSS3 社交按钮框架
@@ -182,7 +183,7 @@
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - 上传 OTF 或 TTF 字体，接收网络字体
 * [FontForge](https://github.com/fontforge/fontforge) - 跨平台字体编辑器
 * [Powerline Fonts](https://github.com/powerline/fonts) - 为电力线用户打补丁的字体
-* [TruFont](https://github.com/trufont/trufont) - 一个流线型和可修改的字体编辑器
+* [TruFont](https://github.com/trufont/trufont) - 一个流线型和可破解的字体编辑器
 
 ## License
 
