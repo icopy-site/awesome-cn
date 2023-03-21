@@ -1,4 +1,4 @@
-mkdocs==1.0.4
+mkdocs==1.2.3
 mkdocs-minify-plugin>=0.2
 Pygments>=2.2
 markdown<3.2
