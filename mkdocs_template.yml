@@ -1,0 +1,61 @@
+# Project Information
+site_name: Awesome List
+site_description: Awesome list collection
+site_author: chenjiajia
+site_url: https://asmen.icopy.site
+
+# Repository
+repo_name: 'icopy-site/awesome'
+repo_url: 'https://github.com/icopy-site/awesome'
+edit_uri: 'blob/master/docs/'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2023'
+
+# Contents
+nav:
+
+
+# Theme
+theme:
+  name: material
+extra:
+  search:
+    language: 'en'
+  copyright: 'CC BY-NC-SA 4.0'
+
+extra_javascript:
+  - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
+  - '_static/js/extra.js'
+  - 'https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js'
+  - 'https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js'
+  - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+
+extra_css:
+  - '_static/css/extra.css'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
