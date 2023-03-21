@@ -499,21 +499,7 @@ nav:
 
 # Theme
 theme:
-  name: null
-  custom_dir: 'mkdocs-material/material'
-  static_templates:
-    - 404.html
-  language: 'zh'
-  palette:
-    primary: 'white'
-    accent: 'blue'
-  logo:
-    icon: 'school'
-  font:
-    text: 'Fira Sans'
-    code: 'Fira Mono'
-  feature:
-    tabs: false
+  name: material
 # Customization
 extra:
   search:
