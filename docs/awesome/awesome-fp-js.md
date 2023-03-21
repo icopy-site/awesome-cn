@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="stoeffel/awesome-fp-js"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一个很棒的精选列表 [functional programming](https://en.wikipedia.org/wiki/Functional_programming)  JavaScript 的代码和学习资源. 作为一种多范式编程语言，JavaScript 可以用多种风格编写. 通过这些资源，我们希望帮助您更好地利用 JavaScript 的支持以_功能性_方式编写程序.
@@ -46,7 +45,7 @@
 * [claire](https://github.com/robotlolita/claire) – 基于属性的测试库，用于明确指定代码不变量和行为.
 * [FPO.js](https://github.com/getify/fpo)  – Kyle Simpson（又名 getify）的 JavaScript FP 库. 支持命名参数样式方法.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) – 受 Haskell 的 Parsec 启发的 Javascript 解析器组合器实现
-* [fun-task](https://github.com/rpominov/fun-task)  – 在 JS 中管理异步代码的抽象.  Tasks 类似于 Promises，主要区别在于 Tasks 可以表示计算，而 Promises 只能表示计算结果. 附带流类型定义.
+* [fun-task](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 * [most](https://github.com/cujojs/most) – 超高性能反应式编程，可帮助您在值流和事件流上编写异步操作，而没有许多副作用和可变共享状态的危险.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ 最简单的信号库
 * [funfix](https://github.com/funfix/funfix)  – Funfix 是一个类型类和数据类型库，用于 JavaScript、TypeScript 和 Flow 中的函数式编程.  +CT，+TS.
@@ -73,7 +72,7 @@
 * [fxts](https://github.com/marpple/FxTS)  - 延迟评估和并发.  +TS
 * [ts-belt](https://mobily.github.io/ts-belt/)  - TypeScript 中 FP 的快速、现代和实用的实用程序库.  （使用像 remeda 这样的数据优先方法，但是 [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) 比 remeda、ramda、rambda 和 lodash/fp.）
 * [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS 轻量级值多方法实用程序
-* [true-myth](https://github.com/true-myth/true-myth) TypeScript 中安全、惯用的 null 和错误处理库，具有“Maybe”和“Result”类型，支持函数式风格和更传统的方法调用风格
+* [true-myth](https://github.com/true-myth/true-myth) TypeScript 中用于安全、惯用 null 和错误处理的库，具有“Maybe”和“Result”类型，支持函数式风格和更传统的方法调用风格
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern)  - 详尽的 TypeScript 模式匹配库，具有智能类型推断. 模式匹配是一种来自 FP 语言的代码分支技术.
 
 ### Data Structures
@@ -90,14 +89,14 @@
 * [Lazy.js](https://github.com/dtao/lazy.js) – 一个在引擎盖下带有惰性引擎的实用程序库，它力求在尽可能灵活的同时尽可能少地工作.
 * [DerivableJS](https://github.com/ds300/derivablejs)  – JavaScript 和 TypeScript 的功能反应状态.  DerivableJS 使您能够就您的状态位如何相关做出优雅的声明性陈述.  +TS.
 * [imlazy](https://github.com/benji6/imlazy) – 使用 ES2015 迭代协议创建和操作惰性迭代的库.
-* [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
+* [collectable](https://github.com/frptools/collectable)  – 用于现代 JavaScript 和 TypeScript 应用程序的超高性能不可变数据结构.  +TS.
 * [List](https://github.com/funkia/list)  - 一个非常快速的不可变列表，具有全面的功能 API. 旨在 [seamlessly integrate with Ramda](https://github.com/funkia/list#seamless-ramda-integration).
 * [prelude.ts](https://github.com/emmanueltouzery/prelude.ts)  - 不可变持久集合、函数构造（例如 Option 和 Either）以及组合器. 在 Typescript 中实现，但也支持 javascript.  +CT，+TS.
 * [TSTL](https://github.com/samchon/tstl)  - C++ STL（标准模板库）在 TypeScript 中实现. 提供遵循函数式编程规则的 STL 容器、迭代器、算法和仿函数.  +TS.
 
 ### Algebraic Data Types
 
-使用数学定律而不是总是重新发明你自己的东西. 代数！
+Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [Fantasy Land](https://github.com/fantasyland/fantasy-land) – 不是图书馆，而是图书馆要遵循的 Monad 法则规范.
 * [Static Land](https://github.com/rpominov/static-land) – 类似于 Fantasy Land 的规范，但基于静态方法而不是实例方法.
@@ -112,7 +111,7 @@
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds)  – Haskell 包 Data.Aviary.Birds 的端口. 一切满足您的组合需求.
 * [crocks](https://github.com/evilsoft/crocks)  – 流行的代数数据类型的集合，其主要目标是策划和提供不仅是每种类型之间的通用接口，而且还包括开始运行所需的所有辅助函数.  -TS.
 * [kudo-js](https://github.com/blitzritz/kudojs) - 一个带有一组代数数据类型和辅助函数的小型实用程序库，可帮助您在 Javascript 中以函数式编程风格编写代码
-* [purify](https://github.com/gigobyte/purify)  - 专注于 ADT 的 TypeScript 函数式编程库.  +CT，+TS.
+* [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs.  +CT, +TS.
 * [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先、自以为是的函数式语言，旨在与 JavaScript 引擎 100% 兼容
 * [Pratica](https://github.com/rametta/pratica)  - 小型、简单、易用的 FP 数据类型，适用于需要快速交付可靠代码的务实和高效的开发人员.  +CT，+TS.
 * [Tifi](https://github.com/mobily/tifi)  - Tifi 是一个用于 TypeScript 函数式编程的库. 它解决了同时存在 `undefined` 和 `null` 的问题.  Tifi 的灵感来自选项数据类型的 OCaml/Reason 实用程序.  +CT，+TS.
@@ -135,7 +134,7 @@
 * [PureScript](http://www.purescript.org/) – 一种编译为 JavaScript 的小型强类型编程语言.
 * [Idris](http://www.idris-lang.org/) – 具有依赖类型的通用纯函数式编程语言.
 * [GHCJS](https://github.com/ghcjs/ghcjs) – [Haskell](https://www.haskell.org/) 到基于 GHC 的 JavaScript 编译器.
-* [ElixirScript](https://github.com/bryanjos/elixirscript) – 编译一个子集 [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
+* [ElixirScript](https://github.com/bryanjos/elixirscript) – 编译一个子集 [Elixir](http://elixir-lang.org/)，一种动态的函数式语言，旨在为 JavaScript 构建可扩展和可维护的应用程序.
 * [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – 编译 [OCaml](http://ocaml.org/) 字节码到 JavaScript，使得在浏览器中运行 OCaml 程序成为可能.
 * [Reason](https://reasonml.github.io) – Reason 是 OCaml 的新接口，OCaml 是 ML 语言的一种高度表达的方言，具有类型推断和静态类型检查的特点.
 * [ReScript](https://rescript-lang.org/) –（以前称为 [Bucklescript](https://rescript-lang.org/bucklescript-rebranding)) ReScript 是一种类型安全的语言，可以编译为最高质量的干净、可读和高性能的 JavaScript 代码.
@@ -185,7 +184,7 @@
 * [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html) – 浏览 JavaScript 中特定 monadic 结构的一些实际用例：使用“Maybe”monad 处理简单的失败案例，并使用“Either”monad 或“Validation”应用仿函数对更复杂的场景进行建模.
 * [Functional programming](https://glebbahmutov.com/blog/tags/functional/) – Gleb Bahmutov 撰写的关于 JavaScript 函数式编程各个方面的许多文章.
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) – 用 Ja​​vaScript 解释的函数式编程世界的行话.
-* [Data Structures in JavaScript](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/) – A series of blog posts that reimplements various data structures in JavaScript to better understand their benefits and downsides.
+* [Data Structures in JavaScript](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/) – 一系列用 JavaScript 重新实现各种数据结构的博客文章，以更好地了解它们的优点和缺点.
 * [So You Want to be a Functional Programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536) - 通俗易懂，通过一些示例，介绍了 Javascript 和 Elm 中的函数式编程.
 * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) - Chet Corcos 对函数式编程模式的完整介绍，包含大量 javascript 示例.
 * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/) - 在 Facebook 流行的 JavaScript 库：Immutable.js 的概述中了解函数式数据结构及其用途.
@@ -206,9 +205,9 @@
 * [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM) – 了解仿函数、应用程序和单子的实际用例.
 * [Pure JavaScript](https://vimeo.com/49384334) – Christian Johansen 将向您展示如何通过抛开循环并将函数作为主要抽象单元来显着提升您的游戏水平.
 * [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson 的系列文章，来自 youtube 频道 FunFunFunction，专门介绍 JavaScript 函数式编程的普及.
-* [Functional Programming in TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - 在这个适合初学者的 YouTube 播放列表中探索使用 Typescript 的函数式编程，并与 Sahand Javid 一起创建一个类似 fp-ts 的库.
+* [Functional Programming in TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) - 在这个适合初学者的 YouTube 播放列表中探索使用 Typescript 的函数式编程并与 Sahand Javid 一起创建一个像 fp-ts 这样的库.
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY) - 简单易懂地介绍 javascript 中的函数式编程.
-* [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs) - A complete introduction to functional programming in javascript made it easy by ES6.
+* [Functional Programming Basics In ES6](https://www.youtube.com/watch?v=FYXpOjwYzcs) - 完整介绍了 JavaScript 中的函数式编程，使 ES6 变得容易.
 * [JavaScript Programmers Should Learn Algebraic Data Types -- May 2018 -- UtahJS Lehi](https://www.youtube.com/watch?v=B0VoyujJWIE) - Seth House 解释了 ADT（代数数据类型）如何对 JavaScript 开发人员有用.
 
 ### Examples and Exercises

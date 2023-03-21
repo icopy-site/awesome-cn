@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="vlang/awesome-v"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable no-dead-urls-->
 
 <p align="center"><img src="https://raw.githubusercontent.com/vlang/awesome-v/master/media/awesome-v-logo.svg?sanitize=true" width="400"/></p>
@@ -134,7 +133,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
-- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
+- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
 
 ### Game development
 
@@ -191,7 +190,7 @@
 
 ### Text processing
 
-- [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
+- [ascii_robot](https://github.com/Delta456/ascii_robot) - 用 V 编写的 ASCII 机器人生成器.
 - [chalk](https://github.com/etienne-napoleone/chalk) - 为终端中的字符串着色.
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
 - [crayon](https://github.com/thecodrr/crayon)  - 像毕加索一样绘制你的终端输出.  ️

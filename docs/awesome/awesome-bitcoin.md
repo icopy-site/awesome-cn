@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 很棒的比特币
 ===============
 为软件开发人员准备的比特币服务和工具清单
@@ -16,7 +15,7 @@
 * [Pycoin](https://github.com/richardkiss/pycoin) - 基于 Python 的比特币和 alt-coin 实用程序库.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - 比特币命令行工具.
 * [txwatcher](https://github.com/tsileo/txwatcher) - 一个小的 Python 实用程序，可让您通过 Blockchain Websocket API 监控比特币地址并执行自定义回调.
-* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一系列简单程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一组简单的程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - 在您的 Bitcoin HD 钱包中找到所有使用过的地址，绕过差距限制.
 * [LibreSelery](https://github.com/protontypes/libreselery) - 将比特币自动分发给您的项目贡献者和集成到 GitHub Actions 中的依赖项.

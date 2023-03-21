@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="cytodata/awesome-cytodata"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cytodata [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 精选的细胞数据资源列表.
@@ -23,7 +22,7 @@
 
 - [Broad Bioimage Benchmark Collection](https://data.broadinstitute.org/bbbc/)  - Broad Bioimage Benchmark Collection (BBBC) 是可免费下载的显微镜图像集的集合. 除了图像本身之外，每组图像还包括对生物学应用的描述和某种类型的“基本事实”（预期结果）.
 - [Image Data Resource](https://idr.openmicroscopy.org/) - 来自已发表科学研究的图像数据集的公共存储库.
-- [RxRx1](https://www.rxrx.ai/rxrx1)  - RxRx1 是一组 125,514 张高分辨率 512x512 6 通道荧光显微镜图像，这些图像显示了四种细胞类型的 51 个实验批次中 1,108 次遗传扰动下的人类细胞. 这些图像是由 Recursion Pharmaceuticals 在其位于犹他州盐湖城的实验室中制作的. 研究人员将使用该数据集来研究处理生物批次效应的方法和基准测试方法，以及领域适应、迁移学习和 k-shot 学习等机器学习领域.
+- [RxRx1](https://www.rxrx.ai/rxrx1)  - RxRx1 是一组 125,514 张高分辨率 512x512 6 通道荧光显微图像，这些图像显示了四种细胞类型的 51 个实验批次中的 1,108 种遗传扰动下的人类细胞. 这些图像是由 Recursion Pharmaceuticals 在其位于犹他州盐湖城的实验室中制作的. 研究人员将使用该数据集来研究和基准测试处理生物批次效应的方法，以及领域适应、迁移学习和 k-shot 学习等机器学习领域.
 - [RxRx19](https://www.rxrx.ai/rxrx19) - RxRx19 是第一个证明挽救 COVID-19 形态学效应的形态学数据集. 
 - [Human Protein Atlas](https://www.proteinatlas.或者g/humanproteome/subcellular) - 在其他检测中，HPA 进行了共聚焦成像，显示了超过 2/3 的人类蛋白质在细胞系中的位置. [Raw images](https://github.com/CellProfiling/HPA-competition#script-to-download-hpav18) 或者 [infered protein subcellular locations](https://www.proteinatlas.或者g/about/download) 可以下载.
 
@@ -86,7 +85,7 @@
 - [Bioactivity screening of environmental chemicals using imaging-based high-throughput phenotypic profiling](https://doi.org/10.1016/j.taap.2019.114876) - 使用基于图像的分析来筛选环境化学品的生物活性
 - [Repurposing High-Throughput Image Assays Enables Biological Activity Prediction for Drug Discovery](https://doi.org/10.1016/j.chembiol.2018.01.015) - 使用基于图像的配置文件来预测其他不相关测定中小分子的生物活性. 
 - [Tales of 1,008 Small Molecules: Phenomic Profiling through Live-cell Imaging in a Panel of Reporter Cell Lines](https://doi.org/10.1038/s41598-020-69354-8) - 展示多药理学在 MOA 预测中的作用，同时提供在未来基于图像的分析研究中克服它的解决方案.
-- [Mapping the perturbome network of cellular perturbations](https://doi.org/10.1038/s41467-019-13058-9) - 药物组合的基于图像的分析和网络分析.
+- [Mapping the perturbome network of cellular perturbations](https://doi.org/10.1038/s41467-019-13058-9) - Image-based profiling and network analysis of drug combinations.
 - [Morphological profiling of human T and NK lymphocytes by high-content cell imaging](https://doi.org/10.1016/j.celrep.2021.109318) - 免疫突触肌动蛋白组织的基于图像的分析.
 - [A subcellular map of the human proteome](https://doi.org/10.1126/science.aal3321) - 根据人类蛋白质图谱的共聚焦显微镜图像对蛋白质亚细胞定位进行分类.
 - [A multi-scale map of cell structure fusing protein images and interactions](https://doi.org/10.1038/s41586-021-04115-9) - 结合蛋白质的共聚焦成像和质谱表示来预测物理接近度并表征细胞组织.
@@ -127,10 +126,10 @@
 - [改进表型测量
 High-Content Imaging Screens](https://doi.org/10.1101/161422) - 使用迁移学习嵌入单细胞和复合图谱，以作用预测机制为例.
 - [The Multidimensional Perturbation Value](https://doi.org/10.1177/1087057112469257) - 提出一个分数来定义屏幕中的重要活动.
-- [Label-Free Prediction of Cell Painting from Brightfield Images](https://doi.org/10.1038/s41598-022-12914-x) - 重建细胞绘画染料的图像并确保保留相应的形态学测量值.
+- [Label-Free Prediction of Cell Painting from Brightfield Images](https://doi.org/10.1038/s41598-022-12914-x) - Reconstructing images for Cell Painting dyes and ensuring corresponding morphological measurements are preserved.
 - [ShapoGraphy: A User-Friendly Web Application for Creating Bespoke and Intuitive Visualisation of Biomedical Data](https://doi.org/10.3389/fbinf.2022.788607) - 可视化形态剖面的方法.
-- [CytoGAN: Generative Modeling of Cell Images](https://doi.org/10.1101/227645) - Generative network displaying potential for learning latent representation of biological conditions from cell images.
-- [Self-supervised feature extraction from image time series in plant phenotyping using triplet networks](https://doi.org/https://doi.org/10.1093/bioinformatics/btaa905) - Direct extraction of phenotypic features from plant images.
+- [CytoGAN: Generative Modeling of Cell Images](https://doi.org/10.1101/227645) - 生成网络显示了从细胞图像中学习生物条件潜在表示的潜力.
+- [Self-supervised feature extraction from image time series in plant phenotyping using triplet networks](https://doi.org/https://doi.org/10.1093/bioinformatics/btaa905) - 直接从植物图像中提取表型特征.
 - [Morphology and gene expression profiling provide complementary information for mapping cell state](https://doi.org/10.1016/j.cels.2022.10.001) - 比较相同扰动的细胞绘画和 L1000 分析中包含的信息.
 - [Fully unsupervised deep mode of action learning for phenotyping high-content cellular images](https://doi.org/10.1093/bioinformatics/btab497)  - 无监督的方法来表示细胞形态与集群对应的有意义的关系，如作用机制. 概述了用于形态学分析和分类的深度学习方法.
 - [Automated high-speed 3D imaging of organoid cultures with multi-scale phenotypic quantification](https://doi.org/10.1038/s41592-022-01508-0) - 使用光片显微镜提取类器官 3D 形态描述符的实验和计算工作流程.

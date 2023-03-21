@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="rafaskb/awesome-libgdx"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome libGDX Logo](https://raw.githubusercontent.com/rafaskb/awesome-libgdx/master/logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
 
 ## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Latest libGDX Version](https://img.shields.io/maven-central/v/com.badlogicgames.gdx/gdx?color=e74a45&label=Latest%20libGDX%20Version&style=flat-square)](https://search.maven.org/artifact/com.badlogicgames.gdx/gdx)
@@ -35,11 +34,11 @@ _可用于 libGDX 代码以增强框架功能的资源._
 - [sdl2gdx](https://github.com/electronstudio/sdl2gdx)  - 使用 SDL 的强大游戏手柄实现. 在相同的映射、隆隆声和热插拔下支持数百个控制器.
 
 ### Editors
-- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - 用于复杂 2D 世界和场景的可视化编辑器，带有 libGDX 运行时.
+- [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 - [Spine](http://esotericsoftware.com/) - 基于骨架的动画工具，专门针对游戏的 2D 动画.
 
 ### Entity Component System (ECS)
-- [Artemis-odb](https://github.com/junkdog/artemis-odb) - High performance java based Entity-Component-System framework.
+- [Artemis-odb](https://github.com/junkdog/artemis-odb) - 基于高性能 java 的实体-组件-系统框架.
 - [Ashley](https://github.com/libgdx/ashley) - 受 Ash &amp; Artemis 启发的 Java 实体系统.
 
 ### Physics
@@ -115,7 +114,7 @@ _新手和经验丰富的开发人员的教程._
 
 ### Advanced
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - 为 libGDX 项目启用代码热插拔以提高工作效率的视频教程.
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - 为 libGDX 项目启用代码热交换以提高生产力的视频教程.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) - 详细说明如何使用像素图创建遮罩.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) - 2019 年使用 RoboVM 部署到 iOS.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) - 像素完美的平滑滚动.

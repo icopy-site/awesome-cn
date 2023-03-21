@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="wbkd/awesome-d3"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 此列表跟踪有趣 [D3js](http://d3js.org) 库、插件和实用程序.
@@ -15,7 +14,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [billboard.js](https://github.com/naver/billboard.js) - 可重复使用的图表库 [条形图、线形图、区域图、环形图、饼图、阶梯图、样条图]
 - [britecharts](https://github.com/britecharts/britecharts) - 客户端可重用图表库 [条形图、线形图、圆环图、迷你图、阶梯图]
 - [chart-parts](https://github.com/Microsoft/chart-parts) - 一个灵活的、反应友好的、用于数据可视化的图形语法
-- [cubism](https://github.com/square/cubism) - 时间序列可视化
+- [cubism](https://github.com/square/cubism) - Time series visualization
 - [c3](https://github.com/c3js/c3) - 可重复使用的图表库 [折线图、样条曲线、阶梯图、面积图、堆叠图、条形图、饼图、圆环图]
 - [dagre-d3](https://github.com/dagrejs/dagre-d3) - 在客户端布局有向图
 - [dc.js](https://github.com/dc-js/dc.js) - 对于大量数据
@@ -130,7 +129,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [d3-template](https://github.com/ErikOnBike/d3-template) - 使用 D3 的数据绑定机制创建和呈现模板的插件
 - [d3-tooltip](https://github.com/bumbeishvili/d3-tooltip) - 带有阴影和动态内容的箭头形工具提示
 - [d3-voronoi-treemap](https://github.com/Kcnarf/d3-voronoi-treemap) - 根据 Voronoi 镶嵌计算树图
-- [d3-xray](https://github.com/vijithassar/d3-xray) - Bookmarklet that logs results of the data joins as you mouse over
+- [d3-xray](https://github.com/vijithassar/d3-xray) - 记录数据结果的书签在您将鼠标悬停时加入
 - [swoopyarrows](https://github.com/bizweekgraphics/swoopyarrows) - 用于创建俯冲箭头的插件
 - [swoopy-drag](https://github.com/1wheel/swoopy-drag) - d3 图形的手工标签放置
 - [textures](https://github.com/riccardoscalco/textures) - 用于数据可视化的 SVG 模式

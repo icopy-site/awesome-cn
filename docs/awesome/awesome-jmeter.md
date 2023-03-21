@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
@@ -43,7 +42,7 @@
 - [JMeter Tutorial](https://artoftesting.com/jmeter-tutorial) - 通过 ArtOfTesting.
 - 使用 JMeter 进行负载测试： [part 1](https://lincolnloop.com/insights/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/insights/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/insights/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - 布兰登·康克尔 (Brandon Konkle).
 - [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - 德扬·卢坎 (Dejan Lukan).
-- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - By Tutorials Point.
+- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - 通过教程点.
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - 丹尼尔·古铁雷斯·迪兹 (Daniel Gutierrez Diez).
 - [JMeter: Load Development Lifecycle](https://datacadamia.com/jmeter/lifecycle) - 通过 DataCadamia.
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - 作者：Mitchell Anicas @ DigitalOcean.
@@ -85,7 +84,7 @@
 ### Conversion
 
 - [swaggerjmx](https://github.com/Pactortester/swaggerjmx) - 将 Swagger UI 规范转换为 JMeter 测试计划的工具.
-- [postman2jmx](https://github.com/Loadium/postman2jmx) - Postman 集合到 JMeter jmx 文件转换器.
+- [postman2jmx](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 - [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) - 将 Postman 项目转换为 JMeter.
 
 ## CI
@@ -335,7 +334,7 @@
 - [JMeter: Performance and Load Testing (Feb 2019)](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - 通过 LinkedIn 学习.
 - [Advanced JMeter (Jul 2020)](https://www.linkedin.com/learning/advanced-jmeter) - 通过 LinkedIn 学习.
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - 由 NobleProg 提供.
-- [BlazeMeter University](https://www.blazemeter.com/university) - 通过 BlazeMeter.
+- [BlazeMeter University](https://www.blazemeter.com/university) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - 由乌迪米.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - 由 Pragmatic Test Labs 提供.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - 由 Ubik Ingenierie 提供.
@@ -344,7 +343,7 @@
 
 ## Videos
 
-- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
+- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - 通过自动化一步一步.
 - [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - 通过 QAInsights.
 - [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - 作者 xavki :fr:.
 

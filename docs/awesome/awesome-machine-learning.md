@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="josephmisiti/awesome-machine-learning"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/)
 
 精选的机器学习框架、库和软件（按语言）列表. 受到 awesome-php 的启发.
@@ -172,7 +171,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - 建立在 Weka 和朋友之上的 Clojure 机器学习库.
 * [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - XGBoost 的包装器
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B 测试库.
-* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 基因编程系统.
+* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 遗传编程系统.
 * [lambda-ml](https://github.com/cloudkj/lambda-ml) - Clojure 中机器学习技术和实用程序的简单、简洁的实现.
 * [Infer](https://github.com/aria42/infer)  - Clojure 中的推理和机器学习.  **[弃用]**
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets). **[Deprecated]**
@@ -194,7 +193,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 #### Data Analysis
 * [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - 用于数据处理和机器学习的 Clojure 数据框架库和管道
 * [Tablecloth](https://github.com/scicloj/tablecloth) - 数据框语法包装 tech.ml.dataset，灵感来自几个 R 库
-* [Panthera](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
+* [Panthera](https://github.com/alanmarazzi/panthera) - 包装 Python 的 Pandas 库的 Clojure API
 * [Incanter](http://incanter.org/) - Incanter 是一个基于 Clojure 的类 R 平台，用于统计计算和图形.
 * [PigPen](https://github.com/Netflix/PigPen) - Clojure 的 Map-Reduce.
 * [Geni](https://github.com/zero-one-group/geni) - 在 Apache Spark 上运行的 Clojure 数据框架库
@@ -572,7 +571,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - 用于流形学习和非线性降维的 Julia 包.
 * [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、变异感知数据流 Dep 调度程序； 适用于 Python、R、Julia、Go、JavaScript 等.
 * [Merlin](https://github.com/hshindo/Merlin.jl) - Julia 中灵活的深度学习框架.
-* [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - 评估概率二元分类器的接收器操作特性和功能.
+* [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - 评估概率二元分类器的接收器操作特性和函数.
 * [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - 大规模高斯混合模型.
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - scikit-learn API 的 Julia 实现.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç 大学深度学习框架.
@@ -759,8 +758,8 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 <a name="net-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
-* [Accord-Framework](http://accord-framework.net/) -The Accord.NET Framework is a complete framework for building machine learning, computer vision, computer audition, signal processing and statistical applications.
-* [Accord.MachineLearning](https://www.nuget.org/packages/Accord.MachineLearning/)  - 支持向量机、决策树、朴素贝叶斯模型、K 均值、高斯混合模型和通用算法，例如用于机器学习应用的 Ransac、交叉验证和网格搜索. 这个包是 Accord.NET Framework 的一部分.
+* [Accord-Framework](http://accord-framework.net/) -Accord.NET Framework 是构建机器学习、计算机视觉、计算机试听、信号处理和统计应用程序的完整框架.
+* [Accord.MachineLearning](https://www.nuget.org/packages/Accord.MachineLearning/)  - 支持向量机、决策树、朴素贝叶斯模型、K-均值、高斯混合模型和通用算法，例如用于机器学习应用的 Ransac、交叉验证和网格搜索. 这个包是 Accord.NET Framework 的一部分.
 * [DiffSharp](https://diffsharp.github.io/DiffSharp/)  - 一个自动微分 (AD) 库，为机器学习和优化应用程序提供精确高效的导数（梯度、Hessian、Jacobian、方向导数和无矩阵 Hessian 和 Jacobian 向量积）. 操作可以嵌套到任何级别，这意味着您可以计算精确的高阶导数并微分内部使用微分的函数，用于超参数优化等应用程序.
 * [Encog](https://www.nuget.org/packages/encog-dotnet-core/)  - 先进的神经网络和机器学习框架.  Encog 包含用于创建各种网络的类，以及用于规范化和处理这些神经网络数据的支持类.  Encog 使用多线程弹性传播进行训练.  Encog 还可以利用 GPU 进一步加快处理时间. 还提供了一个基于 GUI 的工作台来帮助建模和训练神经网络.
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  - .NET Core 和 .NET Framework 的多平台遗传算法库. 该库有几种 GA 运算符的实现，例如：选择、交叉、变异、重新插入和终止.
@@ -1078,7 +1077,7 @@ be
 * [Catalyst](https://github.com/catalyst-team/catalyst)  - 用于 PyTorch DL 和 RL 研究的高级实用程序. 它的开发重点是可重复性、快速实验和代码/想法的重用. 能够研究/开发新的东西，而不是编写另一个常规的火车循环.
 * [Fastai](https://github.com/fastai/fastai) - 构建在 Pytorch 之上的高级包装器，支持视觉、文本、表格数据和协同过滤.
 * [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - 用于多输出/多标签和流数据的机器学习框架.
-* [Lightwood](https://github.com/mindsdb/lightwood) - 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目的是通过一行代码构建预测模型.
+* [Lightwood](https://github.com/mindsdb/lightwood) - 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目标是用一行代码构建预测模型.
 * [bayeso](https://github.com/jungtaekkim/bayeso) - 一个简单但必不可少的贝叶斯优化包，用 Python 编写.
 * [mljar-supervised](https://github.com/mljar/mljar-supervised)  - 用于表格数据的自动机器学习 (AutoML) python 包. 它可以处理：二元分类、多类分类和回归. 它提供解释和降价报告.
 * [evostra](https://github.com/alirezamika/evostra) - Python 中的快速进化策略实现.
@@ -1137,7 +1136,7 @@ be
 * [bokeh](https://github.com/bokeh/bokeh) - Python 的交互式网络绘图.
 * [plotly](https://plot.ly/python/) - Python 和 matplotlib 的协作网络绘图.
 * [altair](https://github.com/altair-viz/altair) - 一个 Python 到 Vega 的翻译器.
-* [d3py](https://github.com/mikedewar/d3py) - 基于 Python 的绘图库 [D3.js](https://d3js.org/).
+* [d3py](https://github.com/mikedewar/d3py) - A plotting library for Python, based on [D3.js](https://d3js.org/).
 * [PyDexter](https://github.com/D3xterjs/pydexter)  - Python 的简单绘图.  D3xterjs 的包装器； 在浏览器中轻松呈现图表.
 * [ggplot](https://github.com/yhat/ggpy) - Same API as ggplot2 for R. **[Deprecated]**
 * [ggfortify](https://github.com/sinhrks/ggfortify) - ggplot2 流行 R 包的统一接口.
@@ -1396,7 +1395,7 @@ be
 * [forecastHybrid](https://cran.r-project.org/web/packages/forecastHybrid/index.html) - forecastHybrid：来自“预测”包的 ARIMA、ETS、STLM、TBATS 和神经网络模型的自动集成和交叉验证.
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html) - fpc：灵活的集群程序.
 * [frbs](https://cran.r-project.org/web/packages/frbs/index.html)  - frbs：用于分类和回归任务的基于模糊规则的系统.  **[弃用]**
-* [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于可能性的增强的广义线性和加性模型.  **[弃用]**
+* [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于可能性的增强的广义线性和加法模型.  **[弃用]**
 * [gamboostLSS](https://cran.r-project.org/web/packages/gamboostLSS/index.html) - gamboostLSS：GAMLSS 的增强方法.
 * [gbm](https://cran.r-project.org/web/packages/gbm/index.html) - gbm：广义增强回归模型.
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - glmnet：Lasso 和 elastic-net 正则化广义线性模型.
@@ -1509,7 +1508,7 @@ be
 
 * [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP 是一套机器学习和数值计算库.
 * [Breeze](https://github.com/scalanlp/breeze) - Breeze 是 Scala 的数值处理库.
-* [Chalk](https://github.com/scalanlp/chalk)  - Chalk 是一个自然语言处理库.  **[弃用]**
+* [Chalk](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library. **[Deprecated]**
 * [FACTORIE](https://github.com/factorie/factorie)  - FACTORIE 是一个用于可部署概率建模的工具包，在 Scala 中作为软件库实现. 它为用户提供了一种简洁的语言，用于创建关系因子图、估计参数和执行推理.
 * [Montague](https://github.com/Workday/upshot-montague) - Montague 是 Scala 的语义解析库，具有易于使用的 DSL.
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - 建立在 Apache Spark ML 之上的自然语言处理库，为机器学习管道提供简单、高性能和准确的 NLP 注释，可在分布式环境中轻松扩展.

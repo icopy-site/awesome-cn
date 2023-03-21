@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sindresorhus/awesome"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<a href="https://vshymanskyy.github.io/StandWithUkraine">
 		<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo-ua.svg?sanitize=true" alt="Awesome">
@@ -187,7 +186,7 @@
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于 Chrome 的 V8 JavaScript 引擎构建的异步非阻塞事件驱动的 JavaScript 运行时.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在 Node.js 上编写跨平台代码.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - 适用于 Apple 手机和平板电脑的移动操作系统.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - 由谷歌开发的移动操作系统.
@@ -265,7 +264,7 @@
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Python](https://github.com/vinta/awesome-python#readme) - 为可读性而设计的通用编程语言.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Python 3 中的异步 I/O.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - 音频/音乐科学研究.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
@@ -336,7 +335,7 @@
 	- [Relay](https://github.com/expede/awesome-relay#readme) - 用于构建数据驱动的 React 应用程序的框架.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - 让您无需编写类即可使用状态和其他 React 功能.
 - [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
+- [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发 Web 组件的 JavaScript 库.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
@@ -383,14 +382,14 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - 用于渲染 3D 图形的 JavaScript API.
 - [Preact](https://github.com/preactjs/awesome-preact#readme) - 应用程序框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - 有助于了解页面速度和用户体验的指标.
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - 用于快速 UI 开发的实用程序优先 CSS 框架.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - 用于创建在 WebAssembly 中运行的 Web 应用程序的 Rust 框架.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - 确保网站某些性能指标的技术.
@@ -429,7 +428,7 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java 网络应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础设施的工具.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python 网络应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python 网络应用程序框架.
@@ -536,7 +535,7 @@
 - [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - 游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙盒视频游戏.
-- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - 添加可编程计算机的 Minecraft 模组.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - 游戏中人工智能的材料和数据集.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - 一种用于生成跨平台本机代码的高级强类型编程语言.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java游戏框架.
@@ -551,7 +550,7 @@
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - 适用于 macOS.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
@@ -598,7 +597,7 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - 帮助使用非关系、分布式、开源和水平可扩展的数据库.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - 使使用数据库更容易的一切.
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - 逻辑数据库，将庞大而复杂的数据网络组织为一个知识体系.
-- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - 开源、分布式、宽列存储、NoSQL 数据库管理系统.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - 具有高性能、可扩展性和 SQL 支持的开源时间序列数据库.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - Firebase 的开源替代品.
 
@@ -633,7 +632,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于 CSS——语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供一条清晰的途径来提高您的知识和技能.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看来自 YouTube 用户的视频教程，教您技术知识.
 
 ## Security
 
@@ -698,7 +697,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程战略.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
 
 ## Work
 

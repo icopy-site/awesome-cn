@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="Siilwyn/awesome-pixel-art"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Pixel Art
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -75,7 +74,7 @@
 - [Pixen](https://pixenapp.com/)  - 付费，适用于 macOS 和 iOS. 出色的操作系统集成，使用压力感应绘图在平板电脑上创建像素艺术.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software)  - 付费试用，适用于 Windows. 专为游戏创建像素艺术而设计的高级功能.
 - [GIMP](https://www.gimp.org/)  - 开源且免费，适用于 Linux、macOS 和 Windows. 不是专门用于创建像素艺术，但完全有能力这样做.
-- [PixelCraft](https://rgab1508.github.io/PixelCraft/)  - 开源且免费，可在浏览器中运行. 易于在浏览器中试用并作为离线 PWA.
+- [PixelCraft](https://rgab1508.github.io/PixelCraft/)  - 开源且免费，可在浏览器中使用. 易于在浏览器中试用并作为离线 PWA.
 - [rx](https://rx.cloudhead.io/)  - 开源且免费，适用于 Linux、macOS 和 Windows. 极简主义和键盘驱动，支持动画.
 - [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 编辑器，通过一点点摆动赋予像素艺术以生命.
 

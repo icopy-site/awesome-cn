@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="woop/awesome-quantified-self"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -39,11 +38,12 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - 关于 LiveScience 的量化自我文章.
 - [Gwern](http://www.gwern.net/) - 深奥的博客，其中包括盲法自我实验和量化自我分析等主题.
 - [beepb00p](https://beepb00p.xyz) - 撰写关于量化自我的文章，拥有数据并构建基础设施.
+- [QS Experiments](https://blog.kto.to) - 基于科学的量化自我方法，共享原始数据和分析，模拟物理过程，健康追踪器比较和分析.
 
 ## Books
 
 -  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - 戈登贝尔和吉姆格梅尔
-- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - 黛博拉·勒普顿
+- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - 黛博拉·拉普顿
 - [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - 吉娜内夫和黎明纳弗斯
 - [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - 安德鲁·卡尔 [(cheaper PDF version)](http://gum.co/everydaydata)
 
@@ -75,6 +75,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Gyroscope](https://gyrosco.pe/) - 量化的自我健康仪表板（网络、iOS 和安卓）.
 - [Exist](https://exist.io/) - 在一个地方跟踪所有内容（网络、iOS 和 Android）.
 - [Zenobase](https://zenobase.com/) - 存储、聚合和可视化来自多个第 3 方来源（网络）的数据.
+- [Vital](https://tryvital.io/) - 像小部件一样的格子，将您所有的健身数据、可穿戴设备数据和家庭实验室测试结合在一起.
 - [Validic](https://validic.com/) - 基于云的平台，连接来自数字健康应用程序、设备和可穿戴设备的患者记录数据.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - 将健康和健身数据整合到一个集中式平台中.
 - [IoTool](https://iotool.io/) - 用于自动化和数据收集的智能手机物联网平台.
@@ -132,7 +133,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Cardiio](http://www.cardiio.com/) - 非接触式心率监测器 (iOS).
 - [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - 快速准确的移动心率监测器（iOS、Android、Windows）.
 - [HRV4Training](https://www.hrv4training.com/) - 使用智能手机摄像头跟踪心率变异性、压力和其他相关数据点，并接收个性化建议以优化您的健康和训练（iOS、Android）.
-- [Welltory](https://www.welltory.com/) - 首选健康应用程序，让用户可以跟踪他们的心率变异性、压力和能量水平，以及来自不同可穿戴设备和应用程序的汇总健康和健身分析.
+- [Welltory](https://www.welltory.com/) - 首选健康应用程序，可让用户跟踪他们的心率变异性、压力和能量水平，以及来自不同可穿戴设备和应用程序的汇总健康和健身分析.
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) - 允许用户跟踪和评价书籍并与其他读者（Web、iOS、Android）建立联系. 
@@ -141,7 +142,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Trakt](https://trakt.tv/) - 自动跟踪您正在观看的电视和电影（网络、媒体播放器）.
 - [Pocket](https://getpocket.com/)  - 让您保存文章以供日后阅读（Web、iOS、Android）.
 - [PhotoStats](http://www.photostats.io/) - 使用机器学习（iOS、Android）的可视化、分析和自动标记的照片跟踪.
-- [WordCounter](https://wordcounterapp.com/) - 作家的字数统计器 (Mac). 
+- [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
 - [Podcast Tracker](http://www.podcasttracker.com/) - 让您记录、汇总和导出您的播客收听历史（Web）.
 
 ### Mind & Cognition
@@ -195,6 +196,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Credit Karma](https://www.creditkarma.com/) - 精益且信誉良好的信用评分跟踪器.
 - [Actual](https://actualbudget.com/) - 个人家庭预算软件.
 - [Lunch Money](https://lunchmoney.app/) - 用于导入交易、分类和预算的 Web 应用程序.
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) - 免费和开源的个人理财经理
 
 ## Devices and Wearables
 
@@ -241,7 +243,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - 一个开源的非营利性个人数据可视化框架.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - 习惯追踪器和个人数据分析应用程序.
 - [BetterSelf](https://betterself.io) - 用于跟踪补充剂和习惯的开源应用程序
-- [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+- [QS Ledger](https://github.com/markwk/qs_ledger) - 使用 Jupyter Notebooks 基于 Python 构建的开源个人数据聚合器和数据分析.
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - 了解更多有关血液检测、生物标志物以及技术和服务的信息，以帮助量化（和改善）您的健康状况！
 - [health-records](https://github.com/pacogomez/health-records) - 使用纯文本管理个人健康记录的工具.
 

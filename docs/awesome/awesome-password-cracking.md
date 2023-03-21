@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="n0kovo/awesome-password-cracking"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Password Cracking	 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 在密码分析和计算机安全中，密码破解是从计算机系统中以加密形式存储或传输的数据中恢复密码的过程. 一种常见的方法（[brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack)) 是反复尝试猜测密码，并根据密码的可用加密哈希检查它们.
@@ -49,14 +48,14 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ## Hashcat
-*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目.*
+*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目. *
 
 - [Autocrack](https://github.com/pry0cc/autocrack) - 一组客户端和服务器工具，用于自动和轻松地自动破解哈希.
 - [docker-hashcat](https://github.com/dizcza/docker-hashcat) - 适用于 Ubuntu 18.04 CUDA、OpenCL 和 POCL 的最新 hashcat docker.
 - [hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - Hashcat.launcher 是一个运行和控制 hashcat 的跨平台 GUI 应用程序.
 - [Hashcat-Stuffs](https://github.com/xfox64x/Hashcat-Stuffs) - hashcat 列表和事物的集合.
 - [hashcat-utils](https://github.com/hashcat/hashcat-utils/) - 可用于高级密码破解的小型实用程序.
-- [Hashfilter](https://github.com/bharshbarger/Hashfilter) - Read a hashcat potfile and parse different types into a sqlite database.
+- [Hashfilter](https://github.com/bharshbarger/Hashfilter) - 读取 hashcat potfile 并将不同类型解析为 sqlite 数据库.
 - [known_hosts-hashcat](https://github.com/chris408/known_hosts-hashcat) - 使用 hashcat 破解 ssh known_hosts 文件的指南和工具.
 - [pyhashcat](https://github.com/f0cker/pyhashcat) - 绑定到 libhashcat 的 Python C API.
 
@@ -88,7 +87,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Rule tools
 - [duprule](https://github.com/mhasbini/duprule) - 检测和过滤重复的 hashcat 规则.
-- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - 具有复杂多字节字符支持的下一代规则处理器，用于支持 Hashcat.
+- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - 具有复杂多字节字符支持的下一代规则处理器，旨在支持 Hashcat.
 
 
 ### Web interfaces
@@ -158,7 +157,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [CMD5](https://www.cmd5.org/) - 提供在线MD5/sha1/mysql/sha256加解密服务.
 - [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词表.
 - [Hashes.com](https://hashes.com/) - 具有付费功能的哈希查找服务.
-- [Hashkiller](https://hashkiller.io/) - A hash lookup service with a forum.
+- [Hashkiller](https://hashkiller.io/) - 带有论坛的散列查找服务.
 - [Online Hash Crack](https://www.onlinehashcrack.com/) - 云密码恢复服务.
 
 
@@ -182,7 +181,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Gorilla](https://github.com/d4rckh/gorilla) - 用于生成单词列表或使用突变扩展现有单词列表的工具.
 - [Gramify](https://github.com/TheWorkingDeveloper/gramify) - 根据单词、字符或字符集创建 n-gram 单词列表，以用于离线密码攻击和数据分析.
 - [Elpscrk](https://github.com/D4Vinci/elpscrk) - Elpscrk 就像 cupp，但它基于排列和统计数据，同时具有内存效率.
-- [Keyboard-Walk-Generators](https://github.com/Rich5/Keyboard-Walk-Generators) - 生成用于破解的 Keyboard Walk 词典.
+- [Keyboard-Walk-Generators](https://github.com/Rich5/Keyboard-Walk-Generators) - 生成用于破解的 Keyboard Walk 字典.
 - [kwprocessor](https://github.com/hashcat/kwprocessor) - 具有可配置的基本字符、键盘映射和路线的高级键盘行走生成器.
 - [maskcat](https://github.com/jakewnuk/maskcat) - 用于 Hashcat 掩码和密码破解的实用工具.
 - [maskprocessor](https://github.com/hashcat/maskprocessor/) - 具有按位置可配置字符集的高性能单词生成器.
@@ -190,7 +189,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Mentalist](https://github.com/sc0tfree/mentalist)  - Mentalist 是用于自定义单词列表生成的图形工具. 它利用常见的人类范例来构建密码，并可以输出完整的单词列表以及与 Hashcat 和 John the Ripper 兼容的规则.
 - [Phraser](https://github.com/Sparell/Phraser) - Phraser 是一个短语生成器，使用 n-gram 和马尔可夫链来生成用于密码短语破解的短语.
 - [princeprocessor](https://github.com/hashcat/princeprocessor) - 使用 PRINCE 算法的独立密码候选生成器.
-- [Rephraser](https://github.com/travco/rephraser) - 基于 Python 的 Phraser 重新构想，使用马尔可夫链进行语言正确的密码破解.
+- [Rephraser](https://github.com/travco/rephraser) - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
 - [Rling](https://github.com/Cynosureprime/rling) - RLI Next Gen (Rling)，一种更快的多线程、功能丰富的替代品，可替代 hashcat 实用程序中的 rli.
 - [statsprocessor](https://github.com/hashcat/statsprocessor/) - 基于每个位置的马尔可夫链的单词生成器.
 - [TTPassGen](https://github.com/tp7309/TTPassGen) - 灵活且可编写脚本的密码字典生成器，支持暴力破解、组合、复杂规则模式等.
@@ -203,7 +202,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ## Wordlists
 ### Laguage specific
 - [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) - 名字、姓氏和一些阿尔巴尼亚文学的混合体.
-- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的词表.对于破解密码或模糊丹麦语目标很有用.
+- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的单词列表.对于破解密码或模糊丹麦语目标很有用.
 - [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) - 用于破解丹麦语密码的丹麦语词汇表集合.
 - [French Wordlists](https://github.com/clem9669/wordlists) - 该项目旨在提供有关人们可以用作基本密码的所有内容的法语单词列表.
 
@@ -211,7 +210,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Packet Storm Wordlists](https://packetstormsecurity.com/Crackers/wordlists/page1/) - 多种语言的大量不同单词列表.
 - [Rocktastic](https://labs.nettitude.com/tools/rocktastic/) - 包括许多在野外观察到的密码和模式排列.
 - [RockYou2021](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt 是一个由各种其他单词列表编译而成的 MASSIVE WORDLIST.
-- [WeakPass](https://weakpass.com/) - 大型词汇表的集合.
+- [WeakPass](https://weakpass.com/) - Collection of large wordlists.
 
 
 

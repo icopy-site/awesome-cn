@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="Kazhnuz/awesome-gnome"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
@@ -72,7 +71,7 @@
 - [Parlatype](http://gkarsay.github.io/parlatype/) - 专门用于转录的音频播放器.
 - [Easy Effects](https://github.com/wwmm/easyeffects) - PipeWire 应用程序的音频效果.
 - [Pitivi](http://www.pitivi.org/) - 美丽而强大的视频编辑器.
-- [Spot](https://github.com/xou816/spot) - Spotify Client.
+- [Spot](https://github.com/xou816/spot) - Spotify 客户端.
 - [Clapper](https://github.com/Rafostar/clapper) - 简单而现代的媒体播放器.
 
 ### Graphics
@@ -139,7 +138,7 @@
 - [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/)  - 学习 GNOME 技术并制作原型.  ![GNOME 圈子][GNOME 圈子]
 - [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/)  - 生成占位符文本.  ![GNOME 圈子][GNOME 圈子]
 - [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/)  - 在本地测试社交媒体卡.  ![GNOME 圈子][GNOME 圈子]
-- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/)  - 在不使用随机网站的情况下转换文本.  ![GNOME 圈子][GNOME 圈子]
+- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - 配置应用程序或整个系统.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - 用于浏览和搜索 API 文档的开发人员工具.
 

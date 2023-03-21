@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="hantuzun/awesome-clojurescript"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      对齐=“右”/&gt;
@@ -75,7 +74,7 @@
 
 
 ### Development
-- [Ambly](https://github.com/omcljs/ambly) – iOS JavaScriptCore 中的 ClojureScript REPL.
+- [Ambly](https://github.com/omcljs/ambly) – A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) – 在 Chrome Devtools 中更好地呈现 ClojureScript 值.
 - [Devcards](https://github.com/bhauman/devcards) – Devcards 旨在为 ClojureScript 提供可视化的 REPL 体验.
 - [Instaparse](https://github.com/lbradstreet/instaparse-cljs) – 它旨在成为在 ClojureScript 中构建解析器的最简单方法.
@@ -204,7 +203,7 @@
 - [descjop](https://github.com/karad/lein_template_descjop) – 基于 Web 的电子桌面应用程序模板.
 - [electron-template](https://github.com/ducky427/electron-template) – 使用 Electron、ClojureScript 和 Reagent 创建基于 Web 的桌面应用程序的模板.
 - [Fulcro](http://fulcrologic.github.io/fulcro) – 用于在 clj/cljs 中开发单页全栈 Web 应用程序的库.
-- [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
+- [Hoplon](http://hoplon.io) – 在客户端和服务器端用 Clojure 和 ClojureScript 编写所有内容.
 - [Keechma](http://keechma.com) – ClojureScript 和 Reagent 的微前端框架.
 - [Luminus](http://www.luminusweb.net/) – 它旨在提供一个健壮、可扩展且易于使用的平台.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) – 它旨在为 Node.js 提供一个易于使用的平台.

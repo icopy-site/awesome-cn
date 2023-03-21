@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Newsletters [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 精选的时事通讯列表.
@@ -35,7 +34,7 @@
 - [JavaScript Weekly](https://javascriptweekly.com/) . 每周一次的免费 JavaScript 新闻和文章电子邮件汇总. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次通过电子邮件发送时事通讯，为设计师和开发人员提供有用的提示、技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 一个快速的 JavaScript 技巧，每隔一周发送到您的收件箱.
-- [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly 是一份专注于工具的前端开发和网页设计时事通讯.
+- [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 - [ES.next News](http://esnextnews.com/) . 每周有 5 个 ECMAScript.next 链接，由 Axel Raushmayer 博士和 Johannes Weber 策划.
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) . 很棒的浏览器端 JavaScript 库、资源和闪亮事物的集合.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) . 每周最好的 TypeScript 链接，就在您的盒子里.
@@ -129,7 +128,7 @@
 - [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三的每周电子邮件，其中包含来自 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从 git 到职业，再到 Web 开发，再到个人发展和团队合作.
 - [LLVM Weekly](http://llvmweekly.org) . 每周通讯，涵盖 LLVM、Clang 和相关项目的发展.
 - [Discover dev](https://www.discoverdev.io) . 来自网络的最佳工程博客每周摘要. [Archive](https://www.discoverdev.io/archive).
-- [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/) . 双周深度代码审查相关文章.
+- [Programming Feedback for Advanced Beginners](https://advancedbeginners.substack.com/). Bi-weekly in-depth code-review related write-up.
 - [Active forks](https://activeforks.net) . 面向开源爱好者的每周时事通讯，其中包含存储库列表及其最近活跃的分支.
 - [BaseClass](https://www.baseclass.io/) . 每两周一次的时事通讯，在 5 分钟内解释基本的计算主题.
 - [Docto Tech Life](https://doctolib.engineering/engineering-news-ruby-rails-react/) . 每周时事通讯，包含最新的 Rails + Javascript + 软件工程内容.
@@ -210,7 +209,7 @@
 
 ### Groovy
 
-- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) . 最新发布、有趣的文章、访谈、演示文稿、相关推文或 Google+ 帖子、播客或截屏视频的链接、代码片段、书籍、即将举行的活动等.
+- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) . 最新发布、有趣的文章、访谈、演示文稿、相关推文或 Google+ 帖子、播客或截屏视频的链接、代码片段、书籍、即将举行的活动等等.
 
 ### Perl
 
@@ -363,7 +362,7 @@
 ## Blockchain / Cryptocurrencies
 
 - [Inside Cryptocurrency](https://inside.com/cryptocurrency) . 跟踪比特币和加密货币的趋势、新闻和分析.
-- [Crypto Weekly](https://cryptoweekly.co/) . 每周都会将最好的加密货币新闻和见解发送到您的收件箱.
+- [Crypto Weekly](https://cryptoweekly.co/). The best cryptocurrency news and insights delivered to your inbox every week.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 没有公牛的区块链技术——每周一剂区块链现实，严重偏向于技术.
 
 ## Technology in General
@@ -404,16 +403,16 @@
 - [GitHub News](https://www.gitlogs.com/) . 在 GitHub 上发现由峰值检测算法检测到的热门存储库.
 - [TED](https://www.ted.com/newsletter) .  TED 收件箱中的灵感
 - [KickStarter](https://www.kickstarter.com/newsletters) .  KickStarter 的 Projects We Love 存档
-- [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
+- [Startup Digest](https://www.startupdigest.com/reading-lists) . 来自世界各地的精选阅读材料，根据您​​的兴趣定制.
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine 是一本独立的在线杂志，每周三为您带来全新的、鼓舞人心的早晨例程.
 - [wpMail.me](http://wpmail.me/) . 免费的 WordPress 时事通讯，每周一次，包含 WordPress 新闻和文章的汇总. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly 时事通讯为您提供了一些反思练习，以帮助您进行日常生活. 它是用爱和钦佩创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 - [Better Dev Link](https://betterdev.link) . 每周通讯，收集旨在提高编程知识的链接. 目的不是包括读者可以立即从谷歌搜索的链接，例如如何做 x、y、z，而是更多关于编程中的问题解决.
-- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的 repo，允许在 GitHub 上用你最喜欢的编程语言跟踪趋势项目. 每天或每周一次以 GitHub 通知的形式进行更新.
+- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 - [HN Mail](https://hnmail.io) . 可定制的每周时事通讯，根据您的兴趣提供 Hacker News 故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师心态的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周一次的时事通讯，其中包含与机器人技术相关的新闻、项目和研究.
-- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+- [Future Crunch](https://futurecrunch.com) . 每两周一次的时事通讯，包含您在科学、环境和世界各地听不到的所有好消息. 你可以看到他们的好消息 [here](https://futurecrun.ch/goodnews).
 
 ## Resilience
 
@@ -434,16 +433,16 @@
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简报，包含 WebRTC 上的所有最新消息和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络声音感兴趣的人们提供的每周时事通讯.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
-- [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
+- [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周时事通讯，汇集了初创公司生态系统中的最佳资源.
 - [Changelog Nightly](https://changelog.com/nightly) . 每晚 10 点 CT 发送一封电子邮件，发掘 GitHub 上最热门的新存储库.
-- [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
+- [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) .  Linux 内核邮件列表线程的每周综述，但带有更多讽刺意味.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中选择了一个订阅者，该订阅者的电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业精选的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳 Reddit 帖子的有关创业、成长、投资和初创公司的前沿新闻.
-- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的工作人员提高生产力.
+- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、用户界面/用户体验、工作/职业以及与开发人员和行业相关的任何方面的最新信息.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.

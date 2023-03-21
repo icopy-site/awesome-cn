@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="unicodeveloper/awesome-nextjs"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://raw.githubusercontent.com/vercel/next.js)
@@ -82,7 +81,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [phox](https://github.com/herschel666/phox) - 创建一个静态照片博客.
 - [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - 使用 Next、Express、react-bootstrap、SCSS 和带有 eslint 的 SSR 构建的全栈应用程序的样板.
 - [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用 Next.js、Firebase Firestore、styled-components 和 mobx-state-tree 构建的简单 CMS 博客.
-- [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+- [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 具有 Express、Redux 和 PostCSS 的 Next.js 启动器.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 带有 Redux 和 Material UI 的样板 NextJS.
 - [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库 _and_ 最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
 - [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS、Styled-jsx、Redux、PostCSS、可配置的 SEO
@@ -105,7 +104,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)  - 基于 Next.js 框架的完美博客入门代码.  ⚡️ 使用 Next.js、TypeScript、ESLint、Prettier、PostCSS、Tailwind CSS 制作.
 - [Next.js and Netlify Blogging Template](https://github.com/wutali/nextjs-netlify-blog-template) - 用于在 Netlify 堆栈上构建博客网站的完美样板，具有标记、CMS 和短代码等标准功能.
 - [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) - Next.js 中的 GraphQL Apollo 客户端-服务器集成与 Nexus 模式（代码优先方法）.
-- [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 漂亮的 Nextjs 作品集启动器，供软件工程师和设计师展示他们引以为豪的作品.
+- [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 - [Nextatic](https://github.com/tancredi/nextatic) - 静态网站多语言样板，具有用户可编辑的页面和使用 Netlify CMS + Next.js + SCSS + Typescript 的导航.
 - [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) - express 上的附加服务器与 nextjs 一起运行，并根据 STR API 的请求重新生成站点地图（带有索引站点地图）和 robots.txt 文件.
 - [superplate](https://github.com/pankod/superplate) - superplate 使用 TypeScript、styled-components、SWR、Storybook 和 35+ 插件在几秒钟内创建 Next.js 应用程序.
@@ -127,7 +126,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Nextein](https://github.com/elmasse/nextein) - 基于 Next.js 的静态站点生成器.
 - [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松将博客添加到任何基于 next.js 的项目
 - [next-i18next](https://github.com/isaachinman/next-i18next) - 翻译 NextJs 应用程序的最简单方法.
-- [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
+- [next-routes-middleware](https://github.com/revskill10/next-routes-middleware) - 一个 NextJS 路由中间件
 - [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
 - [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - 使用 Terraform 部署您的应用程序
 - [next-session](https://github.com/hoangvvo/next-session) - Next.js 的会话中间件
@@ -175,7 +174,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Docker Success Center](https://success.docker.com) - Docker 成功中心
 - [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - 根据 GPLv3 获得许可的德国法律信息系统.
 - [TikTok's HomePage](https://www.tiktok.com/) - TikTok 的主页
-- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 整合.
+- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 集成.
 - [caseconverter.pro](https://caseconverter.pro) - 文本大小写转换器.
 - [Tottem](https://github.com/poulainv/tottem) - 使用 NextJs / Auth0 / Apollo Tools / Prisma2 构建的类固醇书签管理器
 - [Slow TV Map](https://slowtvmap.com)  - 一种发现轻松虚拟体验的有趣方式.  Next.js + Chakra UI + MySQL 托管在 Vercel 上.
@@ -204,7 +203,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 - [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 - [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- [Mastering Next.js](https://masteringnextjs.com/) - 50 多节课的视频课程，用于使用 Next.js 和 React 构建应用程序.
+- [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - 深入的 Next.js 教程.
 - [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - 2020 Next.js 大会的所有视频
 

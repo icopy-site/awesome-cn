@@ -1,12 +1,11 @@
 <div class="github-widget" data-repo="ebu/awesome-broadcasting"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 为广播公司精心挑选的令人惊叹的开源资源列表.
 
 
 ## Clocks & Studio Screens
 * [OnAirScreen](https://github.com/saschaludwig/OnAirScreen) - 针对专业广播环境的跨平台“OnAir Lamp”解决方案.
-* [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+* [PiClock](https://github.com/simonhyde/PiClock) - 可自定义的基于网络的时钟显示、广播、麦克风直播和其他演播室指示器.
 * [PiClock Advanced](https://github.com/ael/piclock_advanced) PiRSClock-Full 的改进版本，更改了布局，添加了计时器和网络功能.
 * [PiRSClock-Full](https://github.com/jdgwarren/pirsclockfull) - 带有麦克风、电话等工作室指示器的无线电工作室时钟.
 
@@ -126,7 +125,7 @@
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - 为主观音频质量评估创建基于浏览器的听力测试的框架.
 * [Jack Meter](https://github.com/njh/jackmeter) - 用于 JACK 的基于文本控制台的 DPM（数字峰值计）.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - JACK 的图形音频表集合（弹道学可能不正确）.
-* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - JACK 的图形音频表集合，包括 VU、PPM 和 [EBU R 128](https://tech.ebu.ch/publications/r128) Loudness meters.
+* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - JACK 的图形音频表集合，包括 VU、PPM 和 [EBU R 128](https://tech.ebu.ch/publications/r128) 响度计.
 * [LTC-tools](https://github.com/x42/ltc-tools) - 一组用于处理线性时间码 (LTC) 并转换为 MIDI 时间码 (MTC) 的工具.
 * [MediaConch](https://mediaarea.net/MediaConch) - Matroska、FFV1 和 PCM 的实施检查器、策略检查器和报告器.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - 视频和音频文件最相关的技术和标签数据的方便统一显示.
@@ -150,7 +149,7 @@
 * [EBU ADM Renderer](https://github.com/ebu/ebu_adm_renderer) - EBU ADM 渲染器的参考实现（[EBU Tech 3388](https://tech.ebu.ch/publications/tech3388))
 * [FFmbc](https://github.com/bcoudurier/FFmbc) - 为广播和专业用途定制的 FFmpeg.
 * [FFmpeg](http://ffmpeg.org)  - 用于录制、转换和流式传输音频和视频的跨平台解决方案. 支持 SMPTE ST 2110.
-* [Flowblade](https://github.com/jliljebl/flowblade) - 多轨非线性视频编辑器.
+* [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor.
 * [GStreamer](https://gstreamer.freedesktop.org/) - 用于构建媒体处理组件图的库.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) - Node.JS 纯 Javascript 模块，用于将 MXF 文件流式传输到 JSON 或从 JSON 流式传输.
 * [KFR](https://www.kfrlib.com/) - 快速、现代的 C++ DSP 框架、DFT/FFT、音频重采样、FIR/IIR、双二阶、EBU R 128.
@@ -188,7 +187,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) 本身是�
 * [BBC NMOS Joint Reference Implementation](https://github.com/bbc/nmos-joint-ri) - 用于构建 4 个虚拟机、IS-04/IS-05 节点、IS-04 注册表、BCP-003-02 授权服务器和 NMOS 测试工具的 Vagrant 配置.
 * [Easy-NMOS](https://github.com/rhastie/easy-nmos) - 一个入门工具包，允许用户以最少的安装步骤启动简单的 NMOS 设置，由三个 Docker 容器组成：一个 NMOS 注册表、一个虚拟 NMOS 节点和 AMWA NMOS 测试工具.
 * [nmos-cpp](https://github.com/sony/nmos-cpp) - 用 C++ 实现 AMWA 网络媒体开放规范，包括 NMOS 注册表和工具包以及构建 NMOS 节点的示例.
-* [nmos-js](https://github.com/sony/nmos-js) - 一个简单的基于浏览器的 NMOS 客户端/控制器，带有 IS-04 注册表浏览器和 IS-05 连接管理.
+* [nmos-js](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 * [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - 带有注册表和控制器的 Docker 容器，IS-04/05/08/07/09，BCP-003-01
 
 ## Radio Production

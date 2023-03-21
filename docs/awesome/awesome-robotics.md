@@ -1,136 +1,135 @@
 <div class="github-widget" data-repo="Kiloreux/awesome-robotics"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-Awesome Robotics
+很棒的机器人
 ================
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<i>This is a list of various books, courses and other resources for robotics.</i><b>这是关于机器人技术的各种书籍、课程和其他资源的列表。</b> <i>It&#39;s an attempt to gather useful material in one place for everybody who wants to learn more about the field.</i><b>这是一种尝试将有用的材料收集在一个地方，供所有想要了解该领域的人使用。</b>
+这是关于机器人技术的各种书籍、课程和其他资源的列表. 这是一种尝试，可以将有用的材料集中在一个地方，供所有想了解更多该领域知识的人使用.
 
 
 ### Courses ###
-* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
-* [Robotics Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity** :dollar:
+* [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **优达学城**
+* [Robotics Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209) **优达学城**：美元：
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+2T2019/5b151c51e8bf47c29d97f8a12369df17/) **edX**
-* [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **MIT CSAIL**
+* [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **与CSAIL**
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
-* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
-* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
+* [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera**：美元：
+* [Control of Mobile Robots](https://www.coursera.org/course/conrob) **课程**
 * [QUT Robot Academy](https://robotacademy.net.au/) **QUT**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
-* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **MIT**
+* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **和**
 * [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) **edX**
-* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
-* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
-* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **University of Freiburg**
-* [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
+* [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **斯坦福大学**
+* [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **斯坦福大学**
+* [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **弗莱堡大学**
+* [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx**：美元：
 * [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx** 
-* [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **Coursera**
+* [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **课程**
 * [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) **edx**
-* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **UCBerkeley**
-* [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **Coursera**
-* [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **Coursera**
-* [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **Coursera**
-* [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
-* [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
+* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **加州大学伯克利分校**
+* [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **课程**
+* [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **课程**
+* [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **课程**
+* [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **优达学城**
+* [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **加州大学伯克利分校**
 
 ### Books ###
-* [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  :dollar:
-* [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  :dollar:
-* [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  :dollar:
+* [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  ：美元：
+* [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  ：美元：
+* [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  ：美元：
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
 * [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
-* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
+* [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  ：美元：
 * [INTECH Books](http://www.intechopen.com/subjects/robotics)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
-* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
-* [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) :dollar:
-* [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) :dollar:
+* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) ：美元：
+* [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) ：美元：
+* [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) ：美元：
 * [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) [[pdf](https://arxiv.org/pdf/1709.00084)]
 * [Automated Planning and Acting](http://projects.laas.fr/planning/) [[pdf](http://projects.laas.fr/planning/book.pdf)]
-* [Robotics for Software Engineers](https://www.manning.com/books/robotics-for-software-engineers) :dollar:
+* [Robotics for Software Engineers](https://www.manning.com/books/robotics-for-software-engineers) ：美元：
 
 
 ### Software and Libraries ###
 [**Gazebo**](http://gazebosim.org/)
-Robot Simulator
+机器人模拟器
 
 [**ROS**](http://www.ros.org/)
-The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.
+机器人操作系统 (ROS) 是用于编写机器人软件的灵活框架. 它是工具、库和约定的集合，旨在简化跨各种机器人平台创建复杂而强大的机器人行为的任务.
 
 [**ROS2**](https://index.ros.org/doc/ros2/)
-ROS2 is a new version of ROS with radical design changes and improvement over older ROS version.
+ROS2 是 ROS 的新版本，对旧版 ROS 进行了根本性的设计更改和改进.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
-RobWork is a collection of C++ libraries for simulation and control of robot systems. RobWork is used for research and education as well as for practical robot applications.
+ RobWork 是一组用于机器人系统仿真和控制的 C++ 库.  RobWork 用于研究和教育以及实际机器人应用.
 
 [**MRPT**](http://www.mrpt.org/)
-Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas.
+Mobile Robot Programming Toolkit 为开发人员提供了可移植且经过良好测试的应用程序和库，涵盖了常见机器人研究领域中使用的数据结构和算法.
 
 [**Robotics Library**](http://www.roboticslibrary.org/)
-The Robotics Library (RL) is a self-contained C++ library for robot kinematics, motion planning and control. It covers mathematics, kinematics and dynamics, hardware abstraction, motion planning, collision detection, and visualization.
+机器人库 (RL) 是一个独立的 C++ 库，用于机器人运动学、运动规划和控制. 它涵盖数学、运动学和动力学、硬件抽象、运动规划、碰撞检测和可视化.
 
 [**Simbad**](http://simbad.sourceforge.net/)
-2D/3D simulator in Java and Jython.
+Java 和 Jython 中的 2D/3D 模拟器.
 
 [**Morse**](https://www.openrobots.org/wiki/morse/)
-General purpose indoor/outdoor 3D simulator.
+通用室内/室外 3D 模拟器.
 
 [**Carmen**](http://carmen.sourceforge.net/)
-CARMEN is an open-source collection of software for mobile robot control. CARMEN is modular software designed to provide basic navigation primitives including: base and sensor control, logging, obstacle avoidance, localization, path planning, and mapping.
+ CARMEN 是用于移动机器人控制的开源软件集合.  CARMEN 是模块化软件，旨在提供基本的导航原语，包括：基地和传感器控制、记录、避障、定位、路径规划和地图绘制.
 
 [**Peekabot**](http://www.peekabot.org/)
-Peekabot is a real-time, networked 3D visualization tool for robotics, written in C++. Its purpose is to simplify the visualization needs faced by a roboticist daily.
+ Peekabot 是一个实时的、网络化的机器人 3D 可视化工具，用 C++ 编写. 其目的是简化机器人专家日常面临的可视化需求.
 
 [**YARP**](http://www.yarp.it/)
-Yet Another Robot Platform.
+另一个机器人平台.
 
 [**V-REP**](http://www.coppeliarobotics.com/)
-Robot simulator, 3D, source available, Lua scripting, APIs for C/C++, Python, Java, Matlab, URBI, 2 physics engines, full kinematic solver.
+机器人模拟器，3D，可用源，Lua 脚本，C/C++ API，Python，Java，Matlab，URBI，2 个物理引擎，完整的运动学求解器.
 
 [**Webots**](https://www.cyberbotics.com/overview)
-Webots is a development environment used to model, program and simulate mobile robots.
+Webots 是一个用于对移动机器人进行建模、编程和仿真的开发环境.
 
 [**Drake**](http://drake.mit.edu/)
-A planning, control and analysis toolbox for nonlinear dynamical systems.
+非线性动力系统的规划、控制和分析工具箱.
 
 [**Neurorobotics Platform (NRP)**](https://neurorobotics.net/)
-An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
+一个可访问互联网的模拟系统，允许模拟由脉冲神经网络控制的机器人.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
-Free Software tools for robot and sensor applications
+用于机器人和传感器应用的免费软件工具
 
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
-Open-source software for robot simulation, integrated with OpenAI Gym.
+用于机器人仿真的开源软件，与 OpenAI Gym 集成.
 
 [**ViSP**](http://visp.inria.fr/)
-Open-source visual servoing platform library, is able to compute control laws that can be applied to robotic systems.
+开源视觉伺服平台库，能够计算可应用于机器人系统的控制法则.
 
 [**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
-Open-source library to create robot's behaviors in form of Behavior Trees running in ROS (Robot Operating System).
+开源库，以在 ROS（机器人操作系统）中运行的行为树形式创建机器人的行为.
 
 [**g2core**](https://github.com/synthetos/g2)
-Open-source motion control software for CNC and Robotics, designed to run on Arduino Due class microcontrollers.
+用于 CNC 和机器人技术的开源运动控制软件，设计用于在 Arduino Due 类微控制器上运行.
 
 [**ur5controller**](https://github.com/roboticsleeds/ur5controller)
-Open-source OpenRAVE controller for UR5 robot integrated with ROS.
+用于与 ROS 集成的 UR5 机器人的开源 OpenRAVE 控制器.
 
 [**RBDL**](https://github.com/rbdl/rbdl)
-Open-source (zlib) C++ libray for both forward and inverse dynamics and kinematics. Also supports contacts and loops.
+用于正向和反向动力学和运动学的开源 (zlib) C++ 库. 还支持联系人和循环.
 
 [**Unity Robotics Hub**](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
-Central repository for open-source Unity packages, tutorials, and other resources demonstrating how to use Unity for robotics simulations. Includes new support for ROS integration.
+开源 Unity 包、教程和其他资源的中央存储库，展示了如何使用 Unity 进行机器人仿真. 包括对 ROS 集成的新支持.
 
 ### Papers ###
-* [Optimization Based Controller Design and Implementation for the
-Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
+* [基于优化的控制器设计与实现
+Atlas 机器人参加 DARPA 机器人挑战赛总决赛](https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf)
 
 
 ### Conferences ###
@@ -174,31 +173,31 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [VEX Robotics Competition](https://www.vexrobotics.com/)
 * [RoboCup](http://www.robocup.org/)
 * [RoboCupJunior](https://junior.robocup.org/)
-* [Eurobot](http://www.eurobot.org/) International Students Robotics Contest
+* [Eurobot](http://www.eurobot.org/) 国际学生机器人竞赛
 * [RoboMasters](https://www.robomaster.com/en-US)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
-* [Robotex](https://robotex.ee/en/) The biggest robotics festival in Europe
+* [Robotex](https://robotex.ee/en/) 欧洲最大的机器人节
 * [First Lego League](https://www.firstlegoleague.org/)
 
 ### Companies ###
-* [Boston Dynamics](http://www.bostondynamics.com/) robotics R&D company, creator of the state of the art [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) and [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) robots
-* [iRobot](http://www.irobot.com/) manufacturer of the famous [Roomba](https://en.wikipedia.org/wiki/Roomba) robotic vacuum cleaner
+* [Boston Dynamics](http://www.bostondynamics.com/) 机器人研发公司，最先进的创造者 [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) 和 [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) 机器人
+* [iRobot](http://www.irobot.com/) 著名制造商 [Roomba](https://en.wikipedia.org/wiki/Roomba) 扫地机器人
 * [PAL Robotics](http://pal-robotics.com)
-* [Aldebaran Robotics](https://www.aldebaran.com/en) creator of the [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
-* [ABB Robotics](http://new.abb.com/products/robotics) the largest manufacturer of industrial robots
-* [KUKA Robotics](http://www.kuka-robotics.com/en/) major manufacturer of industrial robots targeted at factory automation
-* [FANUC](http://www.fanucamerica.com/) industrial robots manufacturer with the biggest install base
-* [Rethink Robotics](http://www.rethinkrobotics.com/) creator of the collaborative robot [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
-* [DJI](http://www.dji.com/) industry leader in drones for both commerical and industrial needs.
-* [The construct sim](http://www.theconstructsim.com/)  A cloud based tool for building modern, future-proof robot simulations.
-* [Fetch Robotics](http://www.fetchrobotics.com/) A robotics startup in San Jose, CA building the future of e-commerce fulfillment and R&D robots.
-* [Festo Robotics](https://www.festo.com/) Festo is known for making moving robots that move like animals such as the sea gull like SmartBird, jellyfish, butterflies and kangaroos.
-* [Neobotix](https://www.neobotix-robots.com/homepage) manufacturer of industrial, research and as well as custom mobile robots. 
+* [Aldebaran Robotics](https://www.aldebaran.com/en) 的创造者 [NAO robot](https://www.youtube.com/watch?v=nNbj2G3GmAo)
+* [ABB Robotics](http://new.abb.com/products/robotics) 最大的工业机器人制造商
+* [KUKA Robotics](http://www.kuka-robotics.com/en/) 针对工厂自动化的主要工业机器人制造商
+* [FANUC](http://www.fanucamerica.com/) 拥有最大装机量的工业机器人制造商
+* [Rethink Robotics](http://www.rethinkrobotics.com/) 协作机器人的创造者 [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
+* [DJI](http://www.dji.com/) 满足商业和工业需求的无人机行业领导者.
+* [The construct sim](http://www.theconstructsim.com/)  一种基于云的工具，用于构建现代的、面向未来的机器人模拟.
+* [Fetch Robotics](http://www.fetchrobotics.com/) 加利福尼亚州圣何塞的一家机器人初创公司，致力于构建电子商务履行和研发机器人的未来.
+* [Festo Robotics](https://www.festo.com/) Festo 以制造像海鸥、SmartBird、水母、蝴蝶和袋鼠等动物一样移动的移动机器人而闻名.
+* [Neobotix](https://www.neobotix-robots.com/homepage) 工业、研究和定制移动机器人制造商. 
 
 ### Misc ###
-* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) robotics section of the IEEE Spectrum magazine
-* [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) robotics section of the MIT Technology Review magazine
+* [IEEE Spectrum Robotics](http://spectrum.ieee.org/robotics) IEEE Spectrum 杂志的机器人部分
+* [MIT Technology Review Robotics](https://www.technologyreview.com/c/robotics/) 麻省理工科技评论杂志的机器人部分
 * [reddit robotics subreddit](https://www.reddit.com/r/robotics/)
 * [RosCON conference (video talks included)](http://roscon.ros.org/2015/)
 * [Carnegie Mellon Robotics Academy](http://education.rec.ri.cmu.edu/)
@@ -207,9 +206,9 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
-* [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
-* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+* [Linorobot](https://linorobot.org/) 一套 DIY ROS 兼容机器人
+* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - 解决和可视化网络中的六足机器人逆运动学和步态
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - 在python中实现各种机器人算法
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)

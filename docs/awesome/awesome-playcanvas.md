@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="playcanvas/awesome-playcanvas"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > <img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">
@@ -141,7 +140,7 @@
 - [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - iMessage 多人游戏.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - 点球大战.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - 头对头篮球比赛.
-- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - 从 Bob 的头顶射击水果.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
 
 ## Automotive
 
@@ -162,7 +161,7 @@
 
 ## Product Configurators
 
-- [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
+- [3D Plans](https://3dplans.com) - 房地产市场的虚拟旅游和交互式地图.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - 交互式 3D 家具配置器.
 - [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - 电梯配置器.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - 壁橱配置器.

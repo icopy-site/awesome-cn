@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="davidsonfellipe/awesome-wpo"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
@@ -19,11 +18,11 @@
 
 ## Articles
 
-&gt; 前往 [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/ARTICLES.md).
+> Go to [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/ARTICLES.md).
 
 ## Blogs
 
-&gt; 前往 [BLOGS](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/BLOGS.md).
+> Go to [BLOGS](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/BLOGS.md).
 
 ## Books
 
@@ -164,7 +163,7 @@
  &gt; 内容交付网络或内容分发网络 (CDN) 是一个大型分布式服务器系统，部署在互联网上的多个数据中心.  CDN 的目标是以高可用性和高性能向最终用户提供内容. 在中查看大量 CDN [Wikipedia](http://en.wikipedia.org/wiki/Content_delivery_network#Notable_content_delivery_service_providers).
 
 - [Cloudflare CDN](https://www.cloudflare.com/cdn/) - 使用下一代技术提供快速、可靠的 CDN 服务的内容交付网络
-- [PageCDN](https://pagecdn.com/lib) - A state of the art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link and very fast.
+- [PageCDN](https://pagecdn.com/lib)  - 最先进的开源 CDN，使用 brotli-11 压缩、HTTP/2 服务器推送、更好的 HTTP/2 多路复用等进行积极的内容优化. 已经支持 100 个库和 2000 多个 WordPress 主题. 易于使用，易于链接且速度非常快.
 - [jsDelivr](https://github.com/jsdelivr/jsdelivr) - 与 Google 托管库类似，jsDelivr 是一个开源 CDN，允许开发人员托管他们自己的项目，任何人都可以在他们的网站上链接到我们托管的文件.
 - [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google 托管库是最流行的开源 JavaScript 库的内容分发网络.
 - [CDNjs](https://cdnjs.com/) - 由 CloudFlare 赞助的用于 JavaScript 和 CSS 的开源 CDN，托管从 jQuery 和 Modernizr 到 Bootstrap 的所有内容.
@@ -231,7 +230,7 @@
 
 - [HeadJS](https://github.com/headjs/headjs) - 你头上唯一的脚本. 用于响应式设计、特征检测和资源加载.
 - [RequireJS](http://requirejs.org/)  - RequireJS 是一个 JavaScript 文件和模块加载器. 它针对在浏览器中使用进行了优化，但它也可以在其他 JavaScript 环境中使用，例如 Rhino 和 Node.js.
-- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
+- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可证）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
 - [Defer.js](https://github.com/wessman/defer.js) - Async Everything：使用这个 JS 代码让你的页面内容加载得更快.
 - [InstantClick](https://github.com/dieulot/instantclick) - InstantClick 使您网站中的以下链接即时.
 - [JIT](https://github.com/shootaroo/jit-grunt)  - Grunt 的 JIT（及时）插件加载器. 即使有很多插件，Grunt 的加载时间也不会减慢.
@@ -365,7 +364,7 @@
 
 ## Specs
 
-- [Web Performance Working Group](http://www.w3.org/2010/webperf/) - 作为 Rich Web Client Activity 的一部分，Web Performance Working Group 的使命是提供方法来衡量用户代理功能和 API 的应用程序性能方面.
+- [Web Performance Working Group](http://www.w3.org/2010/webperf/) - 作为 Rich Web Client Activity 一部分的 Web Performance Working Group 的使命是提供方法来衡量用户代理功能和 API 的应用程序性能方面.
 - [Page Visibility](http://www.w3.org/TR/page-visibility/) - 本规范定义了一种方法，供站点开发人员以编程方式确定页面的当前可见性状态，以开发功能强大且 CPU 高效的 Web 应用程序.
 - [Navigation Timing](https://w3c.github.io/navigation-timing/) - 本规范定义了一个统一的接口来存储和检索与文档导航相关的高分辨率性能指标数据.
 - [Resource Timing](http://www.w3.org/TR/resource-timing/) - 本规范为 Web 应用程序定义了一个接口，用于访问文档中资源的完整计时信息.

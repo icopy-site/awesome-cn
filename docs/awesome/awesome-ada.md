@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ohenley/awesome-ada"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ada [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <br/><br/>
@@ -10,7 +9,7 @@
 <br/><br/>
 
 
-> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html), drones, CNCs, servers, games and coffee makers.</font>
+> <font size="7">[Ada is powering satellites, aircrafts, ships, power plants, surgical robots](https://www2.seas.gwu.edu/~mfeldman/ada-project-summary.html)、无人机、CNC、服务器、游戏机和咖啡机.
 &gt; Ada 可以说是最{<b>性能</b>∩<b>能力</b>∩<b>精确</b>∩<b>可读</b>∩<b>成熟</b>}的编程语言.
 &gt; 艾达活灵活现！
 >
@@ -72,13 +71,13 @@
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) - 一般，中级.  
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.amazon.com/Ada-Plus-Data-Structures-Oriented/dp/0763737941) - Data Structures.  
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.amazon.com/Ada-Plus-Data-Structures-Oriented/dp/0763737941) - 数据结构.  
 <img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-84882-314-3"> [Ada for Software Engineers](https://link.springer.com/book/10.1007/978-1-84882-314-3) - 成语，建筑.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - 并发、容器、调度.  
 <img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4612-1854-8">[Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95](https://link.springer.com/book/10.1007/978-1-4612-1854-8) - 数据结构，算法.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - 并发，分布式.  
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - Scheduling.  
-<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - 形式验证.  
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - 调度.  
+<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - Formal verification.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.lulu.com/cover_thumbs/1/e/1erpwvkr-front-shortedge-384.jpg">[Ada and SPARK on ARM Cortex-M](https://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - 嵌入式.  
 
 ### Specialties
@@ -97,7 +96,7 @@
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 上的 Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) -Reddit 上的 Ada.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
@@ -228,11 +227,11 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
 - [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是一款“match-3”类型的游戏，在 [gnoga] 中实现.
-- [buttons](https://github.com/andreacervetti/buttons) - 一个简单的 [gtkada] Button Mania 游戏.
+- [buttons](https://github.com/andreacervetti/buttons) - A simple [gtkada] Button Mania game.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - 探雷器：无需猜测的探雷游戏.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 畅玩 2048！ 是流行的 2048 游戏的克隆，在 Ada 中使用 [asfml] 用于图形和 [ada-toml] 用于保存状态.
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果应用程序.
-- [civ-klon] - Civilization-style turn-based strategy game. Requires [asfml].
+ - [civ-klon] - 文明风格的回合制策略游戏. 需要 [asfml].
 
 [civ-klon]: https://github.com/HonkiTonk/Civ-Klon
 
@@ -365,7 +364,7 @@
 - [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) - LSP 客户端的原型实现 - Visual Studio 2017.
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) - 用于算法和容器的通用 Ada 库.
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) - 双端队列/缓冲区泛型，由构建块组成，可以以各种方式组合以创建更高的抽象缓冲区.
-- [pragmarc](https://github.com/jrcarter/PragmARC) - 来自 PragmAda S/W Engineering 的 PragmAda 可重用组件 (PragmARCs).
+- [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 - [booch95](https://sourceforge.net/projects/booch95/) - Ada 95 Booch 组件是 Grady Booch 的 C++ 组件的端口.
 - [ada-id](https://github.com/anthony-arnold/AdaID) - 用于生成 UUID 的简单 Ada 库.
 - [ada-ga](https://github.com/frett27/Ada-GA) - Ada 的遗传算法实现.
@@ -538,7 +537,7 @@
 
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada 绑定到 Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 
@@ -570,17 +569,17 @@
 - [sancta](https://github.com/mosteo/sancta) - SANCTA多机器人任务分配库.
 
 ### Applications
-- [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - 用一杯新鲜的咖啡醒来.
+- [coffee-clock](https://github.com/Fabien-Chouteau/coffee-clock) - Waking up with a fresh cup of coffee.
 - [noise-nugget](https://github.com/Fabien-Chouteau/noise-nugget) - 平方英寸合成器.
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) - 在 SPARK/Ada 中模拟铁路网络.
 - [micro-tem-pi](https://github.com/jklmnn/MicroTemPi) - 使用 BBC Micro:Bit 作为温度传感器的 Raspberry Pi.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) - Wee Noise Maker 是一款开源袖珍合成器.
-- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
+- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - 与 AdaFruit BNO055 分线板交互以将方向数据发送到主机的程序.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo)  - 用火车、开关和信号模拟铁路网络的程序. 信号系统经过 SPARK/Ada 验证，确保火车不会相撞.
 - [etherscope](https://github.com/stcarrez/etherscope) - STM32F746 板上的以太网流量监视器.
 
 ### Bindings
-- [svd2ada](https://github.com/AdaCore/svd2ada) - 来自裸板 ARM 设备的 SVD 描述的 Ada 绑定生成器.
+- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Pebble Time 智能手表的 Ada 绑定.
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - 用于 wiringPi 的 Ada 绑定.
 

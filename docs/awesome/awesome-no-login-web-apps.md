@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="aviaryan/awesome-no-login-web-apps"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -73,14 +72,14 @@
 * [Dillinger](http://dillinger.io/)  - 强大的 Markdown 所见即所得，可导出为 HTML 和 PDF. 用于保存文档的用户帐户.
 * [Github.md](http://aviaryan.in/javascripts/github.md/) - 具有打印功能的简单 GitHub 风格的 Markdown (GFM) 预览.
 * [HackMD](https://hackmd.io) - 具有预览功能的协作、强大、实时在线降价编辑器.
-* [Markdown Live Preview](http://markdownlivepreview.com/) - Instant Markdown preview.
+* [Markdown Live Preview](http://markdownlivepreview.com/) - 即时降价预览.
 * [Markdownify](http://www.amitmerchant.com/markdownify-web/) - 最小的 Markdown 编辑器.
 * [StackEdit.io](https://stackedit.io/) - 丰富的浏览器内降价编辑器，可离线工作.
 
 #### <a name="doc-eds-others"></a> Others
 
 * [EtherCalc](https://ethercalc.net/) - 在线电子表格编辑器，导出到 Excel.
-* [PdfEscape](https://www.pdfescape.com/) - 在浏览器本身中编辑或创建 PDF.
+* [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/)  - 浏览器中的无服务器纯文本编辑器. 允许您打开和保存纯文本文件.
 * [WriteURL](http://www.writeurl.com/) - 协作式实时在线文本编辑器.
 
@@ -99,7 +98,7 @@
 * [bubbl](https://bubbl.us/) - 创建思维导图，在浏览器中集思广益.
 * [ScribbleMaps](http://www.scribblemaps.com/) - 创建自定义谷歌地图.
 * [Sketchpad](https://sketch.io/sketchpad/) - 创建数字艺术作品并导出为流行的图像格式 JPEG、PNG、SVG 和 PDF.
-* [Piskel](https://www.piskelapp.com/) - 动画精灵和像素艺术的免费在线编辑器
+* [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
 * [PixelCraft](https://pixelcraft.web.app) - 像素艺术编辑器和动画创作工具
 
 
@@ -139,10 +138,10 @@
 * [agar.io](https://agar.io/) - 目标是通过吃比玩家细胞小的琼脂和细胞来获得尽可能多的质量，同时避免吃比玩家细胞大的琼脂和细胞.
 * [paper-io](http://paper-io.com)  - 游戏的目标是控制 100% 的竞技场. 您将扮演一个不断移动的小方块，并有一个与您的方块颜色相对应的小起始区域.
 * [diep.io](https://diep.io/)  - Diepio 是一款你扮演坦克并射击东西的游戏. 射击形状以升级您的坦克，然后射击玩家以获得大量积分.
-* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但没有说出它是什么，而其他玩家必须识别它.
+* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但不说是什么，而其他玩家必须识别它.
 * [surviv.io](https://surviv.io/)  - Surviv.io 是一款 2D 大逃杀游戏. 每场比赛你只有一个活人，没有重生.
 * [nitrome](https://www.nitrome.com/)  - 收集免费的像素艺术游戏. 新游戏不需要 Flash.
-* [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋中的方块以填满棋盘.
+* [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋子中的方块以填满棋盘.
 * [Gidd.io](https://gidd.io/) - 经典游戏合集，如 UNO、Yatzy、Scattergories 和 GeoGuess.
 
 ### Graphics, Image and Design
@@ -150,7 +149,7 @@
 * [PhotoPea](https://www.photopea.com/) - 看起来像 Photoshop 的图像编辑器，具有它的大部分功能.
 * [Pixlr Editor](https://pixlr.com/editor/)  - Pixlr 的图像编辑器. 很多功能.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - 具有大量过滤器和效果的图像编辑器.
-* [Logo Makr](https://logomakr.com/)  - 带有精美 SVG 集合的徽标制作工具. 需要付费才能将徽标导出为 SVG（PNG 是免费的）.
+* [Logo Makr](https://logomakr.com/)  - 带有精美 SVG 集合的徽标制作器. 需要付费才能将徽标导出为 SVG（PNG 是免费的）.
 * [Online Logo Maker](https://www.onlinelogomaker.com/)  - 在线制作标志. 额外的用户帐户功能来保存创作.
 * [Coolors](https://coolors.co/) - 调色板生成器.
 * [Tiny PNG](https://tinypng.com/) - 智能 PNG 和 JPEG 压缩.
@@ -251,7 +250,7 @@
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
 * [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
-* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
+* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅键入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - 测试站点速度和 Core Web Vitals.
 
@@ -264,7 +263,7 @@
 * [IWantMyName](https://iwantmyname.com/) - 帮助您搜索所有 TLD 中的域.
 * [Similar Sites](http://www.similarsites.com/) - 查找与您输入的网站相似的网站.
 * [Google Fonts](https://www.google.com/webfonts) - 由谷歌收集的开源字体.
-* [ChooseMyPC](https://choosemypc.net/) - 在给定预算下考虑您对 PC 的要求，搜索最佳部件组合.
+* [ChooseMyPC](https://choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * [Flaticon](https://www.flaticon.com/) - 最大的免费图标搜索引擎.
 * [icon8](https://icons8.com/) - 设计师，免费下载设计素材——图标、照片、用户体验插图和视频音乐.
 
@@ -276,8 +275,8 @@
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) - 在同一张纸上绘制多个 2D 图，查看图形交叉点.
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) - 如果您想玩数字，可以在线使用简单的几何表.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - 玩有向图.
-* [Calcul](http://www.calcul.com) - Collection of different calculators including matrix, unit converters, mathematical distributions and more.
-* [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
+* [Calcul](http://www.calcul.com) - 不同计算器的集合，包括矩阵、单位转换器、数学分布等.
+* [Word Safety](http://wordsafety.com/) - 检查单词是否在任何语言中都是辱骂性的.
 * [OEIS®](http://oeis.org/) - Integer Sequences® 在线百科全书，有助于密码学以及制定奇怪的序列.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - 绘制带或不带边值和物理的有向图系统.
 * [Abc-Map](https://abc-map.fr) - 创建地理地图、从数据存储中挑选数据、处理数据以创建可视化效果、导出或在线共享您的地图. 

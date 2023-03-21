@@ -1,11 +1,10 @@
 <div class="github-widget" data-repo="candelibas/awesome-ionic"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-离子资源的“很棒”列表 
+Ionic 资源的“很棒”列表 
 
 ### Ionic
-&gt;“ Ionic是用于通过Web技术开发混合移动应用程序的美观，开放源代码的前端SDK.”
+&gt; “Ionic 是用于使用 Web 技术开发混合移动应用程序的漂亮的开源前端 SDK.”
 
 ##### Current Ionic version: 
 [![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
@@ -98,12 +97,12 @@
 
 #### i18n & l10n
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
-* [attranslate](https://github.com/fkirc/attranslate) -JSON和其他资源文件的半自动翻译
+* [attranslate](https://github.com/fkirc/attranslate) - JSON 和其他资源文件的半自动翻译
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2)
-* [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) -Vetur支持离子组件的标签和属性自动完成
+* [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur 支持用于标签和属性自动完成的离子组件
 
 #### Video Tutorials
 * [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)
@@ -138,7 +137,7 @@
 * [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
 
 #### Contribute
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) 第一.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) 第一的.
 
 
 #### License

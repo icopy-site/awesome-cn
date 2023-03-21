@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="jetli/awesome-yew"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/jetli/awesome-yew/master/logo.svg?sanitize=true" align="right" width="100" title="Awesome Yew">](https://github.com/yewstack/yew)
@@ -113,12 +112,12 @@
 - [material-yew](https://github.com/hamza1311/material-yew) - 用于 Material Web Components 的 Yew 包装器.
 - [Yewprint](https://github.com/yewprint/yewprint) - blueprintjs.com 到 Yew 的端口.
 - [ybc](https://github.com/thedodd/ybc) - 基于 Bulma CSS 框架的 Yew 组件库.
-- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+- [patternfly-yew](https://github.com/ctron/patternfly-yew) - Yew 的 Patternfly 组件.
 - [yew-feather](https://github.com/pedrodesu/yew-feather) - Yew 的羽毛图标组件.
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder)  - 使用 docker-compose 为 Yew 构建 Tailwind CSS. 还支持中继.
 - [yew-components](https://github.com/angular-rust/yew-components) - Yew 框架的材料设计组件.
 - [yew-chart](https://github.com/titanclass/yew-chart) - 基于 Yew 的图表库，提供基于 SVG 的组件来渲染图表.
-- [tailyew](https://github.com/fuzzycloud/tailyew) - 围绕 DaisyUI（基于 tailwindcss）组件的 Yew 包装器.
+- [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 - [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui)  - Duskmoon UI 组件库. 这个包使用 `stylist` 在组件中嵌入 css，所以不需要额外的 CSS 文件. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 - [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - Bootstrap 5 组件库的 Yew 包装器.
 
@@ -169,7 +168,7 @@
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - 你最喜欢的 Rust -&gt; WebAssembly 工作流工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) - 通过下载可执行文件以加速 CI/CD 来安装 `wasm-pack` 的 Github 操作.
-- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - 通过下载可执行文件以加速 CI/CD 来安装 `wasm-bindgen` 的 Github 操作.
 - [cargo-web](https://github.com/koute/cargo-web) - 用于客户端 Web 的 Cargo 子命令.
 - [Trunk](https://github.com/thedodd/trunk) - 构建、捆绑并将您的 Rust Wasm 应用程序发送到网络.
 - [trunk-action](https://github.com/jetli/trunk-action) - 通过下载可执行文件以加速 CI/CD 来安装 `Trunk` 的 Github 操作.
@@ -211,7 +210,7 @@
 
 Yew 团队喜欢与其他项目分享想法，并相信我们可以互相帮助，充分发挥这项激动人心的新技术的潜力.
 
-- [Draco](https://github.com/utkarshkukreti/draco) - 用于使用 WebAssembly 构建客户端 Web 应用程序的 Rust 库.
+- [Draco](https://github.com/utkarshkukreti/draco) - A Rust library for building client side web applications with WebAssembly.
 - [Percy](https://github.com/chinedufn/percy) - 用于使用 Rust + WebAssembly 构建同构 Web 应用程序的模块化工具包.
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
 - [Seed](https://github.com/seed-rs/seed) - 用于创建网络应用程序的 Rust 框架.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="websemantics/awesome-ant-design"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ```
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
@@ -48,7 +47,7 @@ Ant Design 的官方项目和资源.
 这些是帮助使用 Ant Design 构建应用程序的工具和实用程序，
 
 - [Antd Init](https://github.com/ant-design/antd-init) - Ant Design 样板生成器（仅用于演示，使用 dva-cli）.
-- [Dva Cli](https://github.com/dvajs/dva-cli) - 创建基于 Ant Design 的项目 [Dva.js](https://github.com/dvajs/dva)， 一种
+- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva)， A
   基于 Redux 和 React 的轻量级前端框架，灵感来自 [Elm](http://elm-lang.org) 和 [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - 非常有用的 Ant Design 工具列表，用于创建文档、创建新组件、构建工具等等.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Ant 工具的文档.
@@ -166,7 +165,7 @@ Ant Design 系列项目.
 - [Ng-Alain](https://github.com/cipchk/ng-alain) - 基于 Ant Design（使用 ng-zorro-antd）构建的 Angular Admin UI.
 - [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - 带有 typescript、react、mobx、antd 和 webpack 的入门模板）.
 - [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - 具有 SEO、PWA、SSR、Skeleton、Placeholders 等的可插入样板，作为其众多功能中的一部分.
-- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - 在不弹出的情况下在 create-react-app 中使用 antd
 - [ScaffoldHub.io](https://scaffoldhub.io) - 使用 MongoDB、SQL 或 Firebase Firestore 生成全栈 React + Ant Design 应用程序.
 - [The Green Meal](https://github.com/VincentCordobes/the-green-meal) - Next.js，用 TypeScript 编写的 PostgreSQL 演示应用程序.
 - [react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - React、Recoil、React Query、React Hooks、Typescript、Axios.

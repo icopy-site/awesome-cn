@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="krzjoa/awesome-python-data-science"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
     <a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="https://raw.githubusercontent.com/krzjoa/awesome-python-data-science/master/img/py-datascience.png" alt="pyds"></a>
     <br>
@@ -31,7 +30,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于对图形结构化数据进行采样的库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动机器学习 python 库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动化机器学习 python 库.
 * [AutoGluon](https://github.com/awslabs/autogluon) - 用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 ### Ensemble Methods
@@ -214,7 +213,7 @@
 * [mlforecast](https://github.com/Nixtla/mlforecast) - 可扩展的基于机器学习的时间序列预测.
 * [neuralforecast](https://github.com/Nixtla/neuralforecast) - 可扩展的基于机器学习的时间序列预测.
 * [greykite](https://github.com/linkedin/greykite) - 接下来是一个灵活、直观、快速的预测库.
-* [Prophet](https://github.com/facebook/prophet) - 自动预测程序.
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
 * [PyFlux](https://github.com/RJT1990/pyflux) - Python 的开源时间序列库.
 * [bayesloop](https://github.com/christophmark/bayesloop) - 促进时变参数模型的目标模型选择的概率编程框架.
 * [luminol](https://github.com/linkedin/luminol) - 异常检测和关联库.
@@ -224,7 +223,7 @@
 
 ## Natural Language Processing
 * [spaCy](https://spacy.io/) - 工业级自然语言处理.
-* [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+* [NLTK](https://github.com/nltk/nltk) - 支持自然语言处理研究和开发的模块、数据集和教程.
 * [CLTK](https://github.com/cltk/cltk) - 经典语言工具包.
 * [gensim](https://radimrehurek.com/gensim/) - 人类主题建模.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) -<a href="https://github.com/morfologik/morfologik-stemming">形态学</a>的 Python 绑定.
@@ -273,7 +272,7 @@
 
 ## Data Validation
 * [great_expectations](https://github.com/great-expectations/great_expectations) - 始终了解对数据的期望.
-* [pandera](https://github.com/unionai-oss/pandera) - 一个轻量级、灵活且富有表现力的统计数据测试库.
+* [pandera](https://github.com/unionai-oss/pandera) - A lightweight, flexible, and expressive statistical data testing library.
 * [evidently](https://github.com/evidentlyai/evidently) - 评估和监控从验证到生产的 ML 模型.
 * [TensorFlow Data Validation](https://github.com/tensorflow/data-validation) - 用于探索和验证机器学习数据的库.
 
@@ -297,7 +296,7 @@
 
 ## Quantum Computing
 * [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/Qiskit/qiskit) - Qiskit 是一个开源 SDK，用于在电路、算法和应用程序模块级别与量子计算机配合使用.
-* [cirq](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+* [cirq](https://github.com/quantumlib/Cirq) - 用于创建、编辑和调用噪声中级量子 (NISQ) 电路的 python 框架.
 * [PennyLane](https://github.com/XanaduAI/pennylane) - 量子机器学习、自动微分和混合量子经典计算的优化.
 * [QML](https://github.com/qmlcode/qml) - 用于量子机器学习的 Python 工具包.
 

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="love2d-community/awesome-love2d"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Löve [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Awesome Löve](https://raw.githubusercontent.com/love2d-community/awesome-love2d/master/logo.png)
 
@@ -117,7 +116,7 @@
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - 用于虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - Lua LÖVE 引擎的状态切换器类.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua 有限状态机.
-* [lue](https://github.com/Ulydev/lue) - Lue 是一个 LÖVE 库，可让您在游戏中显示色调颜色效果.
+* [lue](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
 * [lume](https://github.com/rxi/lume/) - Lua 函数集合，面向游戏开发.
 * [Manami](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - 改进的“回流打印”，支持 UTF-8、多色和对齐.
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
@@ -149,7 +148,7 @@
 * [lighter](https://github.com/speakk/lighter) - 具有简单 API 的高性能动态光实现.
 * [Shädows](https://github.com/matiasah/shadows) - LÖVE 的 Shadows &amp; Lights 引擎.
 * [Light World](https://github.com/tanema/light_world.lua) - 照明模型.
-* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - A very simple raycasting light implementation.
+* [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - 一个非常简单的光线投射灯实现.
 * [Light](https://github.com/xiejiangzhi/light) - 一个简单的动态光实现.
 
 ## Math
@@ -157,7 +156,7 @@
 
 * [Bresenham](https://github.com/rm-code/Bresenham) - 用 Lua 编写的 Bresenham 直线算法.
 * [brinevector](https://github.com/novemberisms/brinevector) - 独立的轻量级 luajit ffi 加速 2D 矢量库，性能卓越.
-* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - 专为游戏设计的数学/交叉点库.
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games.
 * [delaunay](https://github.com/Yonaba/delaunay) - 凸多边形的 Delaunay 三角剖分.
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - 强大的二维矢量类.
 * [MLib](https://github.com/davisdude/mlib)  - 用 Lua 编写的数学和形状相交检测库. 它的目标是健壮且易于使用.
@@ -206,7 +205,7 @@
 *碰撞检测和物理包装器*
 
 * [breezefield](https://github.com/HDictus/breezefield) - 轻巧易用的 love.physics 包装器（风场替代品）.
-* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
+* [Bump](https://github.com/kikito/bump.lua) - Lua 的碰撞检测库.
 * [HC](https://hc.readthedocs.io/en/latest/)  - 任意多边形的碰撞检测； 允许旋转对象.
 * [loveblobs](https://github.com/exezin/loveblobs) - 支持动态和静态任意软体的软体库.
 * [Strike](https://github.com/Aweptimum/Strike)  - 二维碰撞检测库. 可扩展，基于分离轴定理.
@@ -291,7 +290,7 @@
 * [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 一个高度可配置的文本编辑器/编码工具，用 Lua 编写，运行在 LÖVE 游戏引擎上.
 * [SafeWord](https://github.com/josefnpat/safeword) - LÖVE 的过扫描检测库.
-* [Slab](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
+* [Slab](https://github.com/flamendless/Slab) - Slab 是 LÖVE 框架的即时模式 GUI 工具包.
 * [SUIT](https://github.com/vrld/SUIT) - 小型即时模式 GUI 库.
 * [YALG](https://github.com/sasszem/yalg) - 一个非常简单的跨平台反应式 UI，适用于最后一分钟的 UI.
 * [YUI](https://gitea.it/1414codeforge/yui) - LÖVE 的声明式 UI 库.
@@ -301,7 +300,7 @@
 *非游戏特定的库和工具*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - 旋转二维数组（正方形和非正方形）.
-* [cargo](https://github.com/bjornbytes/cargo) - 资产经理.
+* [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - 用于生成随机数据的库.
 * [colorchanger](https://github.com/santoslove/colorchanger) - 更改 LÖVE 游戏中的颜色.
 * [Flirt](https://github.com/Alloyed/flirt)  - LÖVE 版本管理器； 允许在同一台机器上的多个引擎版本之间切换.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mgramin/awesome-db-tools"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Database Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 社区驱动的数据库工具列表
@@ -32,7 +31,7 @@
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - 用于管理 MySQL、MSSQL 和 PostgreSQL 的轻量级客户端，用 Delphi 编写.
 - [MySQL Workbench](https://www.mysql.com/products/workbench) - MySQL Workbench 是面向数据库架构师、开发人员和 DBA 的统一可视化工具.
 - [Navicat](https://www.navicat.com/en/products#navicat) - 一种数据库开发工具，允许您从单个应用程序同时连接到 MySQL、MariaDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库.
-- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Oracle SQL Developer 是一个免费的集成开发环境，可简化传统部署和云部署中 Oracle 数据库的开发和管理.
+- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Oracle SQL Developer 是一个免费的集成开发环境，可简化传统和云部署中 Oracle 数据库的开发和管理.
 - [pgAdmin](https://www.pgadmin.org) - 最流行、功能最丰富的 PostgreSQL 开源管理和开发平台，是世界上最先进的开源数据库.
 - [pgAdmin3](https://www.bigsql.org/pgadmin3) - 对 pgAdmin3 的长期支持.
 - [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - 专门针对为 Oracle 数据库开发存储程序单元的 IDE.
@@ -55,24 +54,24 @@
 - [DbVisualizer](https://www.dbvis.com) - 面向开发人员、DBA 和分析师的通用数据库工具.
 - [JackDB](https://www.jackdb.com) - 直接通过 SQL 访问您的所有数据，无论数据位于何处.
 - [Jailer](https://github.com/Wisser/Jailer) - 数据库子集和关系数据浏览工具/客户端.
-- [Malewicz](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
-- [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
+- [Malewicz](https://github.com/mgramin/malewicz) - 另一个用于数据库模式探索和性能分析的 WEB 客户端，但最初是专门为黑客攻击和扩展而创建的.
+- [MissionKontrol](https://www.missionkontrol.io) - 现代拖放管理面板/客户端，为非技术用户提供完整的用户权限.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui)  - 适用于 MySQL、MariaDB 和 Tarantool. 为 Linux 开发，但可以在 Windows 上运行.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - 用于数据库管理的 Web 工具.
 - [Pgweb](https://github.com/sosedoff/pgweb) - 用于 PostgreSQL 的基于 Web 的数据库浏览器，用 Go 编写，可在 macOS、Linux 和 Windows 机器上运行.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - 基于 Web 的 SQLite 数据库管理工具，用 PHP 编写，支持 SQLite3 和 SQLite2.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL 和 MariaDB 的 Web 界面.
 - [psequel](http://www.psequel.com) - PSequel 为您提供了一个干净简单的界面来快速执行常见的 PostgreSQL 任务.
-- [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
+- [PopSQL](https://popsql.com) - 适合您团队的现代协作 SQL 编辑器.
 - [Postico](https://eggerapps.at/postico) - 适用于 Mac 的现代 PostgreSQL 客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T（原Robomongo）是一个以shell为中心的跨平台MongoDB管理工具.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - 用于 macOS 的 MySQL/MariaDB 数据库管理.
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro 是一款快速、易于使用的 Mac 数据库管理应用程序，用于处理 MySQL 和 MariaDB 数据库.
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - 图形界面支持所有 SQLite 功能.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - 用于查看 sqlite 数据库的 TUI，用 Go 编写.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - 在您自己的私有云中运行的基于 Web 的 SQL 编辑器.
 - [SQLPro](https://www.macpostgresclient.com) - 一个简单、强大的 macOS Postgres 管理器.
-- [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - 用 Ja​​va 编写的图形化 SQL 客户端，允许您查看 JDBC 兼容数据库的结构、浏览表中的数据、发出 SQL 命令等.
+- [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - 用 Ja​​va 编写的图形 SQL 客户端，允许您查看 JDBC 兼容数据库的结构、浏览表中的数据、发出 SQL 命令等.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - VSCode 的数据库管理.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - 最完整和易于使用的 MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - 用于 Clickhouse 的 SQL 编辑器和开源简单商业智能.
@@ -106,7 +105,7 @@
 
 ### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - 数据库配置即代码工具，利用幂等 DDL 脚本的概念.
-- [Atlas](https://github.com/ariga/atlas) - 检查并应用对数据库架构的更改.
+- [Atlas](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 - [Bytebase](https://github.com/bytebase/bytebase) - 面向团队的基于 Web、零配置、无依赖性的数据库架构更改和版本控制工具.
 - [flyway](https://github.com/flyway/flyway) - 数据库迁移工具.
 - [gh-ost](https://github.com/github/gh-ost) - MySQL 的在线架构迁移.
@@ -181,7 +180,7 @@
 
 
 ## Backup
-- [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+- [BaRMan](https://github.com/2ndquadrant-it/barman) - PostgreSQL 的备份和恢复管理器.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - 可靠的 PostgreSQL 备份和恢复.
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - 将 Postgres 数据库复制到目标 Postgres 服务器（pg_dump | pg_restore on steroids）.
 
@@ -215,7 +214,7 @@
 ### Prometheus
 - [pgSCV](https://github.com/weaponry/pgscv) - PostgreSQL 和 Postgres 相关服务的指标导出器.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - 用于 PostgreSQL 服务器指标的 Prometheus 导出器.
-- [pg_exporter](https://github.com/Vonng/pg_exporter) - 具有细粒度执行控制的完全可定制的 PostgreSQL 和 Pgbouncer Prometheus 导出器.
+- [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
@@ -373,7 +372,7 @@ SQL 的学习和谜题
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，可快速生成有意义的数据库测试数据.
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
-- [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充选定的表或整个数据库，并使用真实的测试数据. 为以下对象生成测试数据：Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS.
+- [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 - [Synthesized](https://www.synthesized.io) - 创建、验证和安全共享用于软件测试、模型训练和数据分析的高质量数据，无需任何手动配置.
 
 ### Replication

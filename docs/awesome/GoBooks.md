@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="dariubs/GoBooks"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 很棒的 Go 书籍 [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
@@ -104,7 +103,7 @@ Practical Go Lessons 共有 41 章和 700 多页插图.
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
-  Go 编程汇集了评估 Go、用 Go 思考以及使用 Go 编写高性能软件所需的所有知识.  Summerfield 展示了多种习语比较，准确地展示了 Go 如何改进旧语言，特别关注 Go 的关键创新. 一路上，他解释了从绝对基础知识到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
+  Go 编程汇集了评估 Go、用 Go 思考以及使用 Go 编写高性能软件所需的所有知识.  Summerfield 展示了多种习语比较，准确地展示了 Go 是如何改进旧语言的，呼吁特别关注 Go 的关键创新. 一路上，他解释了从绝对基础知识到 Go 的基于通道的无锁并发及其灵活且不寻常的鸭子类型安全方法到面向对象的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -537,7 +536,7 @@ Ultimate Go Notebook 是 Ardan Labs Ultimate Go 课程的官方配套书籍.
 - 了解并发和并行之间的差异.
 - 识别并避免并发问题，例如死锁、饥饿、活锁和数据竞争.
 - 了解各种并发交互模式，并能够应用最适合手头问题的模式.
-- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多问题.
+- 深入研究 Go 的并发原语并能够熟练地应用它们，同时避免其中的许多陷阱.
 - 能够使用 Go 的分析器、执行跟踪和基准测试工具诊断并发和性能问题.
 - 能够确定代码何时需要优化、什么需要优化以及如何优化.
 - 拥有可以快速应用于项目的并发和性能模式目录.
@@ -717,4 +716,4 @@ Contributing
 
 License
 ====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品根据<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License 获得许可</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品根据<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>获得许可.

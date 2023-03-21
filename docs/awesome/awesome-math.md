@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="rossant/awesome-math"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的数学资源列表.
@@ -110,7 +109,7 @@
 * [BetterExplained](https://betterexplained.com/) - 由 Kalid Azad 维护
 * [ILoveMaths](http://ilovemaths.com/) - 适用于 K-12 系统中的 6 至 12 年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
-* [Mathsisfun](https://www.mathsisfun.com) 适合高中生的简单文本轻量级站点
+* [Mathsisfun](https://www.mathsisfun.com) 适合高中生的简单文本轻量级网站
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev（美国西弗吉尼亚州亨廷顿马歇尔大学数学教授）
 
 ## Misc
@@ -159,7 +158,7 @@
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) - 托马斯·斯特赖歇尔
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) ——哈罗德·西蒙斯
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey（卡内基梅隆大学）
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. 位置
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - 迈克尔·巴尔，查尔斯·威尔斯
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - 迈克尔·巴尔，查尔斯·威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - 彼得弗雷德
@@ -419,7 +418,7 @@
 ### Ordinary Differential Equations
 
 * [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - 丹斯劳特
-* [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian (University of Bielefeld)
+* [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) - Alexander Grigorian（比勒费尔德大学）
 * [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) - Eugene J. Ionascu
 * [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) ——彼得·菲利普
 * [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - 加布里埃尔纳吉

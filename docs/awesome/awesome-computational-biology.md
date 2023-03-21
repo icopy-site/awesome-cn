@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="inoue0426/awesome-computational-biology"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Computational Biology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 与计算生物学相关的数据库、软件和论文的知识集合.

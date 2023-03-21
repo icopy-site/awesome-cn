@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="meirwah/awesome-incident-response"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Incident Response [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; 用于安全事件响应的精选工具和资源列表，旨在帮助安全分析师和 [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html) 团队.
@@ -19,27 +18,27 @@
 * [Caldera](https://github.com/mitre/caldera)  - 在 Windows 企业网络中执行妥协后对抗行为的自动化对抗模拟系统. 它使用计划系统和基于对抗战术、技术和常识 (ATT&amp;CK™) 项目的预配置对抗模型在操作期间生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  - 用于构建可重复、延时、分布式安全事件的模块化、菜单驱动、跨平台工具. 轻松为蓝队演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件、干扰和诱惑来支持和扩大他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 进行对抗性模拟的信息安全准备工具.
-* [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
+* [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA 提供了一个脚本框架，旨在让蓝队测试其针对恶意交易的检测能力，以 MITRE ATT&amp;CK 为模型.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - 用于对手模拟和威胁搜寻的虚拟机.
 
 ### All-In-One Tools
 
-* [Belkasoft Evidence Center](https://belkasoft.com/ec) - 该工具包将通过分析硬盘驱动器、驱动器映像、内存转储、iOS、黑莓和安卓备份、UFED、JTAG 和芯片转储，从多个来源快速提取数字证据.
+* [Belkasoft Evidence Center](https://belkasoft.com/ec) -  The toolkit will quickly extract digital evidence from multiple sources by analyzing hard drives, drive images, memory dumps, iOS, Blackberry and Android backups, UFED, JTAG and chip-off dumps.
 * [CimSweep](https://github.com/PowerShellMafia/CimSweep) - 基于 CIM/WMI 的工具套件，能够跨所有版本的 Windows 远程执行事件响应和搜索操作.
 * [CIRTkit](https://github.com/byt3smith/CIRTKit) - CIRTKit 不仅是一组工具，还是一个框架，可帮助持续统一事件响应和取证调查流程.
 * [Cyber Triage](http://www.cybertriage.com)  - Cyber​​ Triage 远程收集和分析端点数据，以帮助确定它是否受到损害. 它的无代理方法和对易用性和自动化的关注使公司能够在没有重大基础设施变化和没有取证专家团队的情况下做出响应. 其结果用于决定系统是否应该被删除或进一步调查.
 * [Dissect](https://github.com/fox-it/dissect) - Dissect 是一个数字取证和事件响应框架和工具集，允许您快速访问和分析来自各种磁盘和文件格式的取证人工制品，由 Fox-IT（NCC Group 的一部分）开发.
 * [Doorman](https://github.com/mwielgoszewski/doorman)  - osquery fleet manager，允许远程管理节点检索的 osquery 配置. 它利用 osquery 的 TLS 配置、记录器和分布式读/写端点，以最小的开销和侵入性为管理员提供跨设备队列的可见性.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于 Windows 的应用程序，提供工作流程自动化、案例管理和安全响应功能.
-* [Flare](https://github.com/fireeye/flare-vm) - 一个完全可定制的、基于 Windows 的安全发行版，用于恶意软件分析、事件响应、渗透测试.
+* [Flare](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
 * [Fleetdm](https://github.com/fleetdm/fleet)  - 为安全专家量身定制的最先进的主机监控平台. 利用 Facebook 久经考验的 osquery 项目，Fleetdm 提供持续更新、功能和对重大问题的快速解答.
 * [GRR Rapid Response](https://github.com/google/grr)  - 专注于远程实时取证的事件响应框架. 它由安装在目标系统上的 python 代理（客户端）和可以管理代理并与之通信的 python 服务器基础结构组成. 除了包含的 Python API 客户端， [PowerGRR](https://github.com/swisscom/PowerGRR) 在适用于 Windows、Linux 和 macOS 的 PowerShell 中提供 API 客户端库，用于 GRR 自动化和脚本编写.
 * [IRIS](https://github.com/dfir-iris/iris-web) - IRIS 是一个供事件响应分析师使用的网络协作平台，允许在技术层面共享调查结果.
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) - 数字取证调查平台
 * [Limacharlie](https://www.limacharlie.io/) - 端点安全平台由一系列协同工作的小项目组成，为您提供跨平台（Windows、OSX、Linux、Android 和 iOS）低级环境，用于管理附加模块并将其推送到内存以扩展其功能.
 * [Matano](https://github.com/matanolabs/matano)：AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
-* [MozDef](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
+* [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理流程并促进事件处理人员的实时活动.
 * [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - 用于自动设置、配置和使用网络安全解决方案的 CLI 程序.
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse)  - 为使用 ElasticSearch 作为后端的异步取证数据呈现构建的应用程序. 它旨在摄取 Redline 集合.
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/)  - 另一个流行的分布式开源计算机取证框架. 该框架建立在Linux平台上，使用postgreSQL数据库存储数据.
@@ -99,7 +98,7 @@
 * [Catalyst](https://github.com/SecurityBrewery/catalyst) - 免费的 SOAR 系统，有助于自动化警报处理和事件响应流程.
 * [CyberCPR](https://www.cybercpr.com) - 社区和商业事件管理工具，内置 Need-to-Know 以在处理敏感事件时支持 GDPR 合规性.
 * [Cyphon](https://medevel.com/cyphon/)  - Cyphon 通过单一平台简化大量相关任务，消除了令人头疼的事件管理. 它接收、处理和分类事件，为您的分析工作流提供包罗万象的解决方案——聚合数据、捆绑和优先排序警报，并使分析师能够调查和记录事件.
-* [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto security orchestration, automation and response platform with full Incident lifecycle management and many integrations to enhance automations.
+* [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto 安全编排、自动化和响应平台，具有完整的事件生命周期管理和许多集成以增强自动化.
 * [DFTimewolf](https://github.com/log2timeline/dftimewolf) - 用于协调取证收集、处理和数据导出的框架.
 * [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - 事件响应跟踪应用程序通过具有大量受影响系统和工件的案例和任务处理一个或多个事件.
 * [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/)  - 网络安全事件管理平台的设计考虑了敏捷性和速度. 它允许轻松创建、跟踪和报告网络安全事件，对 CSIRT、CERT 和 SOC 等非常有用.
@@ -222,8 +221,8 @@
 
 * [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21)  - AWS IR Runbook 示例旨在根据使用它们的每个实体进行定制. 这三个样本是：“DoS 或 DDoS 攻击”、“凭据泄漏”和“对 Amazon S3 存储桶的意外访问”.
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - 反作用剧本集.
-* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
-* [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
+* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 一系列网络事件响应剧本战斗卡
+* [IRM](https://github.com/certsocietegenerale/IRM) - CERT Societe Generale 的事件响应方法.
 * [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/)  - 不同的通用事件响应工作流程，例如针对恶意软件爆发、数据盗窃、未经授权的访问……每个工作流程都包含七个步骤：准备、检测、分析、遏制、根除、恢复、事件后处理. 工作流程可在线获取或下载.
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/)  - 描述部分 PagerDuty 事件响应流程的文档. 它不仅提供有关为事件做准备的信息，还提供事件发生期间和事件之后应该做什么的信息. 来源可在 [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Splunk 的 Phantom Community Playbooks，但也可定制用于其他用途.
@@ -266,9 +265,9 @@
 
 ### Timeline Tools
 
-* [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - 开发平台以轻松构建事件的详细时间表.
+* [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Platform developed to build easily a detailed timeline of an incident.
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html)  - Fire/Mandiant 提供的免费工具将描述日志/文本文件，该文件可以突出显示图形上与关键字或短语相对应的区域. 有助于确定感染的时间以及妥协后所做的事情.
-* [Morgue](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
+* [Morgue](https://github.com/etsy/morgue) - Etsy 的 PHP Web 应用程序，用于管理事后分析.
 * [Plaso](https://github.com/log2timeline/plaso) - 用于工具 log2timeline 的基于 Python 的后端引擎.
 * [Timesketch](https://github.com/google/timesketch) - 用于协作取证时间线分析的开源工具.
 
@@ -292,6 +291,6 @@
 * [LOKI](https://github.com/Neo23x0/Loki) - 免费的 IR 扫描仪，用于使用 yara 规则和其他指标 (IOC) 扫描端点.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) - 适用于 Windows 的基于 PowerShell 的分类和威胁搜寻.
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时 Windows 系统上的快速事件概述.
-* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 实时磁盘取证平台，使用 PowerShell.
+* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/)  - PSRecon 使用 PowerShell（v2 或更高版本）从远程 Windows 主机收集数据，将数据组织到文件夹中，对所有提取的数据进行哈希处理，对 PowerShell 和各种系统属性进行哈希处理，并将数据发送给安全团队. 可以将数据推送到共享、通过电子邮件发送或保留在本地.
 * [RegRipper](https://github.com/keydet89/RegRipper3.0) - 开源工具，用 Perl 编写，用于从注册表中提取/解析信息（键、值、数据）并将其呈现以供分析.

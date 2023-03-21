@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="alebcay/awesome-shell"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
@@ -50,7 +49,7 @@
 *搜索、书签、多路复用和其他工具，让您的终端体验更加高效.*
 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile)  - 以递归方式快速创建文件和目录. 受 Vim 插件的启发.
-* [ag](https://github.com/ggreer/the_silver_searcher) - 通过目录层次结构进行超快速字符串搜索
+* [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases](https://github.com/sebglazebrook/aliases) - bash 的上下文、动态、有组织的别名
 * [arttime](https://github.com/reportaman/arttime) - 文字艺术之美与时钟、计时器、番茄钟++时间管理器的功能相得益彰
 * [autoenv](https://github.com/inishchith/autoenv) - 基于目录的环境
@@ -74,7 +73,7 @@
 * [fd](https://github.com/sharkdp/fd) - 一个简单、快速和用户友好的替代选择.
 * [foxy](https://github.com/s-p-k/foxy) - Firefox 和冲浪浏览器的纯文本书签.
 * [fselect](https://github.com/jhspetersson/fselect) - 使用类似 SQL 的查询查找文件.
-* [funky](https://github.com/bbugyi200/funky) - Extends functionality of shell functions making them more powerful and flexible.
+* [funky](https://github.com/bbugyi200/funky) - 扩展 shell 函数的功能，使它们更加强大和灵活.
 * [fz](https://github.com/changyuheng/fz) - z 的无缝模糊选项卡完成
 * [fzf](https://github.com/junegunn/fzf) - 命令行模糊查找器
 * [gitmux](https://github.com/arl/gitmux) - 在 Tmux 状态栏显示 Git 状态
@@ -88,7 +87,7 @@
 * [hss](https://github.com/six-ddc/hss) - 具有自动完成和异步执行功能的交互式并行 ssh 客户端
 * [hstr](https://github.com/dvorka/hstr) - Bash 历史建议箱
 * [k](https://github.com/supercrabtree/k) - k 是一个 Zsh 脚本，使目录列表更具可读性，添加 Git 状态、文件权重颜色和腐烂日期
-* [k alias](https://github.com/lingtalfi/k) - get kool aliases (and more) working with a simple one-liner
+* [k alias](https://github.com/lingtalfi/k) - 获得酷别名（和更多）与一个简单的单线工作
 * [lf](https://github.com/gokcehan/lf) - 受 ranger 启发，用 Go 编写的终端文件管理器
 * [lf.sh](https://github.com/suewonjp/lf.sh) - 以更少的输入快速搜索文件并执行更多操作（grepping、将路径复制到剪贴板等）
 * [lowcharts](https://github.com/juan-leon/lowcharts) - 在终端绘制低分辨率图形
@@ -159,7 +158,7 @@
 
 * [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — 简约的 Aphrodite 主题（提示），适用于 bash、fish 和 zsh 的性感终端
 * [base16-builder](https://github.com/base16-builder/base16-builder) - Base16-Builder
-* [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - 带有屏幕、tmux、git 支持等的强大提示
+* [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 为 Git 用户提供信息丰富且精美的 Bash 提示
 * [bash-powerline](https://github.com/riobard/bash-powerline) - 纯 Bash 脚本中的电力线式 Bash 提示符
 * [bashstrap](https://github.com/barryclark/bashstrap) - 美化 OSX 终端的快速方法
@@ -232,9 +231,9 @@
 * [progress](https://github.com/Xfennec/progress) - 用于显示 `cp`、`rm`、`dd` 等进度的 Linux 工具...
 * [stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置 MacOS 安全设置.
 * [glances](https://github.com/nicolargo/glances) - 看一眼你的系统
-* [goaccess](https://github.com/allinurl/goaccess) - GoAccess 是一个实时网络日志分析器和交互式查看器，在 \*nix 系统的终端中运行.
+* [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 * [hblock](https://github.com/hectorm/hblock) - 基于主机文件的广告拦截器
-* [histstat](https://github.com/vesche/histstat) - History for netstat
+* [histstat](https://github.com/vesche/histstat) - netstat 的历史记录
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式流程查看器，旨在成为更好的“顶级”
 * [lnav](https://lnav.org) - 用于小规模的高级日志文件查看器
 * [logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的 CLI 实用程序和 Python API.
@@ -279,7 +278,7 @@
 
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen)  - 用于 Android ROM 定制的基于文本的厨房. 使用 shell 脚本并与 Cygwin/OS X/Linux 一起工作
 * [Beets](https://github.com/beetbox/beets) - 音乐库管理器和 MusicBrainz 标注器
-* [cmus](https://github.com/cmus/cmus) - 跨平台 cli 音频播放器.
+* [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [dasel](https://github.com/tomwright/dasel)  - 使用命令行中的选择器查询和更新数据结构. 相当于 [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) 但支持具有零运行时依赖性的 JSON、YAML、TOML 和 XML.
 * [dzr](https://github.com/yne/dzr) - 跨平台 Deezer.com 音频播放器.
 * [fx](https://github.com/antonmedv/fx) - 匿名 JavaScript 函数的命令行 JSON 处理工具
@@ -324,7 +323,7 @@
 * [licen](https://github.com/lord63/licen)  - 生成您的许可证. 又一个虱子，但是用 Jinja2 和 docopt 实现
 * [md2png](https://github.com/weaming/md2png) - 将 markdown 转换为 PNG 图片
 * [moviemon](https://github.com/iCHAIT/moviemon) - 在命令行中关于你的电影的一切.
-* [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort and map file options.
+* [nomino](https://github.com/yaa110/nomino) - 使用正则表达式、排序和映射文件选项的批量重命名实用程序.
 * [pcalc](https://github.com/alt-romes/programmer-calculator) - 为使用多个数字表示、大小和整体接近位的程序员制作的计算器.
 * [pockyt](https://github.com/achembarpu/pockyt) - 阅读、管理和自动化您 [Pocket](https://getpocket.com) 收藏.
 * [pushblast](https://github.com/alebcay/pushblast) - 在 shell 程序退出时获取 PushBullet 通知

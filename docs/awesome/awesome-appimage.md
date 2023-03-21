@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="AppImage/awesome-appimage"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable double-link-->
 
 <div align="center">
@@ -10,7 +9,7 @@
 		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>精心制作的 AppImage 工具和资源.</sub> <sub>在<a href="https://twitter.com/probonopd">Twitter 上</a>关注我.</sub>
+		<sub>精心制作的 AppImage 工具和资源.</sub> <sub>在<a href="https://twitter.com/probonopd">Twitter</a>上关注我.</sub>
 	</p>
 	<br>
 </div>
@@ -60,7 +59,7 @@
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) - 为 GNOME 和 KDE 兼容桌面环境的文件管理器中显示的 AppImages 生成图标.
 - [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers)  - 用于 GTK 桌面环境的缩略图，包括一个用于 AppImage 文件格式的缩略图. 使基于 Gtk 的文件管理器如 Caja (MATE)、Nautilus (GNOME)、Nemo (Cinnamon)、PCManFM (LXDE) 和 Thunar (Xfce) 在 AppImages 上显示应用程序图标.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - 从 Gnome 桌面监控和（卸载）安装 AppImages.
-- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - 一个用 Qt6 编写的将 AppImages 集成到 Linux 桌面的简单程序.
+- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
 - [gnome_appimage_installer](https://github.com/knork-fork/gnome_appimage_installer)  - 用词不当（AppImages 不需要“安装”），为您的 AppImage 文件创建一个遵循 freedesktop.org 规范的桌面文件； 用 bash 写的.
 
 ### Updaters
@@ -86,13 +85,13 @@
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - AppImages 和 Shell 脚本的包管理器.
 - [AppMan](https://github.com/ivan-hc/AppMan) - 像 APT 或 Pacman 一样工作的 AppImage 管理器.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
-- [ayy](https://github.com/lawl/ayy) - Package manager for AppImage. Single, static, dependency free binary. Written in Go.
+- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一、静态、无依赖的二进制文件. 用围棋写的.
 - [leap](https://github.com/lnxcz/leap)  - 快速简单的 AppImage 管理器. 用 Rust 编写.
 - [Bread](https://github.com/pegvin/bread) - 在命令行上从 GitHub 下载、更新、删除和运行 AppImages，并将应用程序集成到桌面.
 
 ### Linux distributions
 
-尽管 AppImage 格式经过精心设计，不需要 Linux 发行版的任何特殊支持，但仍有一些提供开箱即用的不同程度的 AppImage 友好性.
+尽管 AppImage 格式经过精心设计，不需要 Linux 发行版的任何特殊支持，但仍有一些格式提供开箱即用的不同程度的 AppImage 友好性.
 
 - [Deepin](https://www.deepin.org/en/) - 当您双击缺少执行权限的 AppImage 或任何其他可执行文件时，一个用户友好的对话框会解释情况并询问您是否允许设置执行权限并执行可执行文件.
 - [Nitrux](https://nxos.org/) - 促进使用 AppImage 作为获取应用程序的主要格式，有一个内置的应用程序中心，以 AppImages 为特色.
@@ -186,7 +185,7 @@
 ### Continuous integration
 
 - [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - 如何将使用 GitHub Actions 构建的 AppImages 上传到 GitHub Releases 的示例.
-- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - 关于如何使用 GitHub Actions 构建和上传 AppImages 的更大、更复杂的示例.
+- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - 使用 appimage-builder 生成 AppImages 的 GitHub Action.
 - [jniltinho/packages](https://github.com/jniltinho/packages) - 使用 go-appimagetool 生成 AppImages 的 Drone.io 示例.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - 如何直接链接到 GitLab CI 上的最新构建工件的示例（可能很棘手）.
@@ -218,7 +217,7 @@
 ### Documentation
 
 - [docs.appimage.org](https://docs.appimage.org/) - 官方 AppImage 文档.
-- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - Documentation of appimage-builder, includes tutorials, examples, and more.
+- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - appimage-builder 的文档，包括教程、示例等.
 
 ### Tutorials
 
@@ -236,7 +235,7 @@
 - [Comparing Linux Package Formats - Deb, Flatpak, AppImage, etc.](https://www.youtube.com/watch?v=7fPShv-8Z_4) - 布莱恩·伦杜克 (Bryan Lunduke).
 - [AppImage: Universal Linux Apps, Overview and Thoughts](https://www.youtube.com/watch?v=tMqES2pNxYY) - 杰里米“杰伊”拉克鲁瓦，LearnLinuxTV.
 - [AppImage system integration on Ubuntu using go-appimaged](https://www.youtube.com/watch?v=L00UjifUEfE) - 来自 go-appimage 实现的新 appimaged 守护进程.
-- [Integrate and Manage AppImages with AppImageLauncher](https://www.youtube.com/watch?v=D2WA2zdLvVk) - 埃里克·亚当斯.
+- [Integrate and Manage AppImages with AppImageLauncher](https://www.youtube.com/watch?v=D2WA2zdLvVk) - 埃里克亚当斯.
 
 ### Books
 

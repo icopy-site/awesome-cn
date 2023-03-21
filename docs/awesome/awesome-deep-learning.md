@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ChristosChristofidis/awesome-deep-learning"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -119,7 +118,7 @@
 9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) 亚当·科茨
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) 通过 Yann LeCun
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) 作者：Geoffrey Hinton 在 GoogleTechTalks
-12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
+12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) TEDxBrussels 的杰里米·霍华德 (Jeremy Howard)
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) Andrew Ng 在斯坦福大学 (2011)
 14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) 克里斯·曼宁 (Chris Manning) 在斯坦福
 15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) 娜塔莉·哈梅尔和洛林·尤尔尚斯基
@@ -443,17 +442,17 @@
 58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html)  - 从各种成像方式获得的图像——原始 CFA 图像、范围图像和大量“医学图像”.  （格式：自制软件）
 59. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging)
 61. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - 包含一些纹理的图像数据库  
-62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html)  - JAFFE 数据库包含 213 张日本女性主体的图像，这些图像摆出 6 种基本面部表情以及一个中性姿势. 情感形容词的评级也可免费用于研究目的.  （格式：TIFF 灰度图像.）
+62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.)
 63. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
 64. [JISCT Stereo Evaluation](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.vislist.com/IMAGERY/JISCT/)  - 44 个图像对. 这些数据已用于立体分析的评估，如 1993 年 4 月 ARPA 图像理解研讨会论文“The JISCT Stereo Evaluation”中所述，RCBolles、HHBaker 和 MJHannah，263--274（格式：SSI）
 65. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - 图像存档（100 多张图像）（格式：ppm）
-66. [MIT face images and more](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://whitechapel.media.mit.edu/pub/images) - 数百张图片（格式：自制软件）
+66. [MIT face images and more](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://whitechapel.media.mit.edu/pub/images) - hundreds of images (Formats: homebrew)
 67. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - 图片来自 Jain、Kasturi、Schunck 的教科书（20 多张图片）（格式：GIF TIFF）
 68. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html)  - 100 张或更多带有基本事实的乳房 X 线照片图像. 可根据要求提供其他图像，并提供了到其他几个乳腺 X 线摄影数据库的链接.  （格式：自制软件）
 69. [https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip) - 许多图像（格式：未知）
 70. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html)  - 包含平面区域的场景的六个多帧立体数据集. 每个数据集包含 9 个彩色图像和亚像素精度的地面实况数据.  （格式：ppm）
 71. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - 明德学院
-72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - 来自世界各地的高海拔图像，用于支持 NASA EOS 计划的环境建模（格式：JPG 和 HDF）
+72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
 73. [NIST Fingerprint and handwriting](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - 数据集 - 数千张图片（格式：未知）
 74. [NIST Fingerprint data](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - 压缩的多部分 uuencoded tar 文件
 75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - 彩色、CAT 和 MRI 图像样本 - 超过 30 张图像（格式：jpeg）
@@ -472,7 +471,7 @@
 91. [SEQUENCES FOR OPTICAL FLOW ANALYSIS (SOFA)](http://www.cee.hw.ac.uk/~mtc/sofa)  - 9 个合成序列，专为测试运动分析应用程序而设计，包括运动和相机参数的完整地面实况.  （格式：gif）
 92. [Computer Vision Group](http://www.cee.hw.ac.uk/~mtc/research.html)
 94. [Sequences for Flow Based Reconstruction](http://www.nada.kth.se/~zucch/CAMERA/PUB/seq.html) - 用于测试运动算法结构的合成序列（格式：pgm）
-95. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/)  - 一小组走廊的合成图像，添加了不同数量的噪声. 使用这些图像来对您的立体算法进行基准测试.  （格式：raw、viff (khoros) 或 tiff）
+95. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/)  - 一小组走廊的合成图像，添加了不同数量的噪音. 使用这些图像来对您的立体算法进行基准测试.  （格式：raw、viff (khoros) 或 tiff）
 96. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) - 从网络上提供的高分辨率多边形模型中获取的合成范围图像集合（格式：自制软件）
 97. [Department Image Understanding](http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html)
 99. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html)  - 包含 4,000 多张彩色图像，对应 126 个人脸（70 名男性和 56 名女性）. 具有面部表情、照明和遮挡变化的正面视图.  （格式：RAW（RGB 24 位））
@@ -490,7 +489,7 @@
 113. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html)  - 具有预定义基本事实的图像检索基准数据库.  （格式：tiff）
 115. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/)  - 包含航空、空间、立体、医学图像等的大型图像数据库.  （格式：自制软件）
 116. [UNC's 3D image database](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - 许多图像（格式：GIF）
-117. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
+117. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 个图像集（格式：太阳光栅图像）
 118. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - 包含不同光源和相机校准条件下的面部彩色图像以及每个人的皮肤光谱反射测量值.
 119. [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
 121. [University of Oulu Texture Database](http://www.outex.oulu.fi)  - 包含 320 个表面纹理的数据库，每个纹理都是在三种光源、六种空间分辨率和九种旋转角度下捕获的. 还提供了一组测试套件，以便可以以标准方式测试纹理分割、分类和检索算法.  （格式：bmp、ras、xv）
@@ -668,7 +667,7 @@
 34. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - 与节点级别的图结构数据的深度学习科学研究相关的精选文章列表.
 35. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) 包含用于构建推荐系统的示例、实用程序和最佳实践. 提供了几种最先进算法的实现，供您在自己的应用程序中自学和定制.
 36. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy 关于使用 RNN 生成文本的博客文章.
-37. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
+37. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - 用于半监督学习的阶梯网络的 Keras 实现 
 38. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="iipc/awesome-web-archiving"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint ignore awesome-github-->
 ## Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -43,7 +42,7 @@
 ### Acquisition
 
 * [ArchiveBox](https://github.com/pirate/ArchiveBox)  - 一种使用 wget、Chrome headless 和其他方法（以前称为“Bookmark Archiver”）维护来自 RSS 提要、书签和链接的附加存档的工具.  *（开发中）*
-* [archivenow](https://github.com/oduwsdl/archivenow) - 一种 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将网络资源推送到点播网络档案中.  *（稳定的）*
+* [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将网络资源推送到点播网络档案中.  *（稳定的）*
 * [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重播它们并将它们导出为 WARC 数据. 也可用作基于 Electron 的桌面应用程序.
 * [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真爬行系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的爬行.
 * [Brozzler](https://github.com/internetarchive/brozzler)  - 使用真实浏览器（Chrome 或 Chromium）获取页面和嵌入式 URL 并提取链接的分布式网络爬虫（爬虫）.  *（稳定的）*
@@ -65,12 +64,12 @@
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile)  - Firefox/Chrome 的浏览器扩展和 CLI 工具，用于将完整页面的忠实副本保存为单个 HTML 文件.  *（稳定的）*
 * [SiteStory](http://mementoweb.github.com/SiteStory/)  - 有选择地捕获和存储 Web 客户端（浏览器）和 Web 服务器之间发生的事务的事务存档.  *（稳定的）*
 * [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/)  - 开源软件，使用户能够从 Twitter、Tumblr、Flickr 和新浪微博公共 API 创建社交媒体收藏.  *（稳定的）*
-* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) 直接使用 Chrome 或 Chrome Headless 的档案爬虫.  *（开发中）*
+* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
 * [StormCrawler](http://stormcrawler.net/)  - 用于在 Apache Storm 上构建低延迟、可扩展网络爬虫的资源集合.  *（稳定的）*
 * [twarc](https://github.com/docnow/twarc)  - 用于归档 Twitter JSON 数据的命令行工具和 Python 库.  *（稳定的）*
 * [WAIL](https://github.com/machawk1/wail) - 图形用户界面 (GUI) 位于多个网络存档工具之上，旨在用作任何人保存和重放网页的简便方法； [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail) .  *（稳定的）*
 * [Warcprox](https://github.com/internetarchive/warcprox)  - WARC 编写的 MITM HTTP/S 代理.  *（稳定的）*
-* [WARCreate](http://matkelly.com/warcreate/) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/browser/) 用于将单个网页或网站存档到 WARC 文件的扩展名.  *（稳定的）*
+* [WARCreate](http://matkelly.com/warcreate/) - A [Google Chrome](https://www.google.com/intl/en/chrome/browser/) 用于将单个网页或网站存档到 WARC 文件的扩展名.  *（稳定的）*
 * [Warcworker](https://github.com/peterk/warcworker)  - 基于 Squidwarc 的开源、码头化、排队、高保真 Web 存档器，具有简单的 Web GUI.  *（稳定的）*
 * [Wayback](https://github.com/wabarc/wayback)  - 用于将网页快照到 Internet Archive、archive.today、IPFS 等的工具包.  *（稳定的）*
 * [Waybackpy](https://github.com/akamhy/waybackpy) - Python 中的 Wayback Machine Save、CDX 和可用性 API 接口以及命令行工具 *（稳定）*
@@ -93,13 +92,13 @@
 
 ### Search & Discovery
 
-* [Mink](https://github.com/machawk1/mink) - 一种 [Google Chrome](https://www.google.com/intl/en/chrome/) 在浏览和集成实时存档的 Web 导航时查询 Memento 聚合器的扩展.  *（稳定的）*
+* [Mink](https://github.com/machawk1/mink) - A [Google Chrome](https://www.google.com/intl/en/chrome/) 在浏览和集成实时存档的 Web 导航时查询 Memento 聚合器的扩展.  *（稳定的）*
 * [playback](https://github.com/wabarc/playback) - 用于搜索存档网页的工具包 [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) 超越.  *（开发中）*
 * [SecurityTrails](https://securitytrails.com/)  - WHOIS 和 DNS 记录的基于 Web 的存档.  REST API 免费提供. 
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) - 基于 1996 年至 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不限于德国网页，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ).  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及一些能够使用如下所示索引的相关工具.  *（稳定的）*
-  * [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
+  * [Shine](https://github.com/ukwa/shine) - 与研究人员一起开发的原型网络档案探索 UI，作为 [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
   * [SolrWayback](https://github.com/netarchivesuite/solrwayback)  - 具有自由文本搜索和内置播放引擎的后端 Java 和前端 VUE JS 项目. 要求 Warc 文件已经用 Warc-Indexer 索引.  Web 应用程序还具有广泛的数据可视化工具和数据导出工具，可用于整个 webarchive. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) 包含易于安装的开箱即用解决方案中的所有软件和依赖项.
   * [Warclight](https://github.com/archivesunleashed/warclight)  - 基于 Project Blacklight 的 Rails 引擎，支持发现以 WARC 和 ARC 格式保存的网络档案.  *（开发中）*
   * [Wasp](https://github.com/webis-de/wasp) - 个人的全功能原型 [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf) .  *（开发中）*
@@ -128,14 +127,14 @@
 
 * [FastWARC](https://github.com/chatnoir-eu/chatnoir-resiliparse) - 一个高性能的 WARC 解析库（Python）.
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz)  - 用于串联 GZIP 文件（和 `*.warc.gz`）的可拆分 Hadoop 输入格式.  *（稳定的）*
-* [jwarc](https://github.com/iipc/jwarc) - 使用类型安全的 API (Java) 读写 WARC 文件.
+* [jwarc](https://github.com/iipc/jwarc) - Reading and write WARC files with a typesafe API (Java).
 * [Jwat](https://sbforge.org/display/JWAT/JWAT)  - 用于读取/写入/验证 WARC/ARC/GZIP 文件 (Java) 的库和工具.  *（稳定的）*
 * [node-warc](https://github.com/N0taN3rd/node-warc) - 使用任一方法解析 WARC 文件或创建 WARC 文件 [Electron](https://electron.atom.io/) 或者 [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （节点.js）.  *（稳定的）*
 * [Sparkling](https://github.com/internetarchive/Sparkling)  - Internet Archive 的 Sparkling 数据处理库.  *（稳定的）*
 * [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压 WARC 和 WACZ 文件的命令行界面 (Python).
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARChive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 存档 IO (Python) 的流式 WARC/ARC 库.
-* [warctools](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
+* [warctools](https://github.com/internetarchive/warctools) - 用于处理 ARC 和 WARC 文件的库 (Python).
 * [webarchive](https://github.com/richardlehane/webarchive) - 用于 ARC 和 WARC webarchive 格式的 Golang 阅读器 (Golang).
 
 ### Analysis
@@ -163,7 +162,7 @@
 
 ### Curation
 
-* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - 一种 [Zotero](https://www.zotero.org/) 提交到 Web 档案并从中读取的扩展. 来源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
+* [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) 提交到 Web 档案并从中读取的扩展. 来源 [on GitHub](https://github.com/lanl/Zotero-Robust-Links-Extension) . 取代 [leonkt/zotero-memento](https://github.com/leonkt/zotero-memento).
 
 ## Community Resources
 

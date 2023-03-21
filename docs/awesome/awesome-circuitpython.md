@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="adafruit/awesome-circuitpython"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
   <img style="width: min(400px, 100%)" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
@@ -13,7 +12,7 @@
 
 
 
-[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) 是 Adafruit 的 MicroPython 分支，旨在简化低成本微控制器的实验和教育. 无需预先下载桌面软件，它比以往任何时候都更容易开始原型设计. 使用 CircuitPython，您可以编写干净简单的 Python 代码来控制硬件，而不必使用复杂的低级语言，如 C 或 C++（Arduino 用于编程的语言）. 这对初学者来说很棒！
+[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) 是 Adafruit 的 MicroPython 分支，旨在简化低成本微控制器的实验和教育. 无需预先下载桌面软件，它比以往任何时候都更容易开始原型制作. 使用 CircuitPython，您可以编写干净简单的 Python 代码来控制硬件，而不必使用复杂的低级语言，如 C 或 C++（Arduino 用于编程的语言）. 这对初学者来说很棒！
 
 
 
@@ -42,7 +41,7 @@
 - [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或作为您订单的一部分从 [the Adafruit store](https://www.adafruit.com/product/3944)) - Circuit Playground Express 的介绍和讨论，包括通过 CircuitPython、MakeCode 和 Arduino 进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)  - 本书可帮助您开始进行 CircuitPython 开发. 本书使用 Adafruit ItsyBitsy M0 Express 开发板进行开发.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者的日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 2019年9月从 [TechBookFest](https://techbookfest.org/).
-- [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - Discusses the MicroPython language.
+- [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论 MicroPython 语言.
 - [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - 包含许多使用 CircuitPython 的可穿戴项目.
 - [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd) - 日本人.
 - [Learning IoT with Python and Raspberry Pi by E.I. Horvath, E.A. Horvath](https://www.barnesandnoble.com/w/learning-iot-with-python-and-raspberry-pi-ei-horvath/1133345171?ean=9780578549361)
@@ -118,7 +117,7 @@
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
 - [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/scott-shawcroft-is-squeezing-python-into-microcontrollers) - IEEE Spectrum 杂志关于面向创客的 Python 编程语言的文章.
 - [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) - 4-H 品牌版本已获得美国农业部批准，这是第一款也获得 4-H 批准的 CircuitPython 供电板！
-- [CircuitPython in Space](https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/)  - _CircuitPython 提供了一种使用硬件进行科学的平易近人且合乎逻辑的方法. 与在太空中工作的低成本硬件相结合，我们可以让新一代质疑和探索未知. 有了必要的“卫星材料”，学生们可以花时间尝试新事物，而不是重新发明轮子.
+- [CircuitPython in Space](https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/)  - _CircuitPython 提供了一种使用硬件进行科学的平易近人且合乎逻辑的方法. 与在太空中工作的低成本硬件相结合，我们可以让新一代质疑和探索未知. 有了必要的“卫星东西”，学生们可以花时间尝试新事物，而不是重新发明轮子.
 - [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) - Disrupt It Yourself 在 CircuitPython 和物联网设备 PyPortal 上播客.
 - [Cool Tools](https://youtu.be/Kz4C7sCLWb0) - Sophy Wong 谈论 Circuit Playground Express，包括 CircuitPython.
 - [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) - Digi-Key 在开源社区努力调整特定的微控制器和开发板以支持使用 CircuitPython 的严肃微控制器开发.
@@ -171,7 +170,7 @@
 ## Swag
 
 - [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython 发布第 8 版海报.
-- [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython 发布版本 7 海报.
+- [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython release version 7 poster.
 - [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython 发布第 6 版海报.
 - [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython 发布版本 5 海报.
 - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython 发布以北欧为特色的第 4 版海报.
@@ -211,11 +210,11 @@
 
 1.叉子 [this repository](https://github.com/adafruit/awesome-circuitpython) 在 GitHub 上.
 1. 将分叉的存储库克隆到您的驱动器.
-1. 使用所有者 adafruit 和原始 URL 添加远程.
+1. Add a remote using owner adafruit and the original URL.
 1. 获取遥控器.
 1.合并adafruit或main.
 1.创建一个分支.
-1. Make a change.
+1. 做出改变.
 1.提交并推送到您的回购协议.
 1. 在官方仓库上创建拉取请求.
 1.一旦被接受，重复从官方回购合并到你的叉子的主人，并重新分支.

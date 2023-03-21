@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="willianjusten/awesome-svg"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
- &gt; SVG的精选列表.  主要思想是每个人都可以在这里做出贡献，因此我们可以将所有关于SVG的信息集中在一起并保持最新.
+ &gt; 精选的 SVG 列表. 主要思想是每个人都可以在这里做出贡献，因此我们可以集中所有关于 SVG 的信息并保持最新.
 
 	- [Accessible SVG](https://github.com/willianjusten/awesome-svg/blob/master/topics/Accessibility.md)
 	- [Animation](https://github.com/willianjusten/awesome-svg/blob/master/topics/Animation.md)
@@ -34,16 +33,16 @@
 
 ## Thanks to...
 
-* [Marcus Vinicius](https://github.com/mvfsillva)，我的朋友=）
-* [Rodrigo Machado](https://github.com/rcmachado) 帮助我获得CC许可证.
+* [Marcus Vinicius](https://github.com/mvfsillva), 我的朋友 =)
+* [Rodrigo Machado](https://github.com/rcmachado) 帮助我获得 CC 许可证.
 * [Cleyson Leal](https://github.com/Cleysonlb) 用于创建令人敬畏的徽标.
-* [Chris Coyier](https://chriscoyier.net/) 和他 [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/)，对我来说是一个很好的起点.
-*当然，所有 [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
+* [Chris Coyier](https://chriscoyier.net/) 和他 [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/), 对我来说是一个很好的起点.
+* 当然，所有 [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
 
 ## Contributing
 
-欢迎您的贡献！ [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
+随时欢迎您的贡献！ [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
 
 ## Other Awesome Lists
 
@@ -55,4 +54,4 @@
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-在法律允许的范围内， [Willian Justen](https://github.com/willianjusten) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Willian Justen](https://github.com/willianjusten) 已放弃该作品的所有版权和相关或邻接权.

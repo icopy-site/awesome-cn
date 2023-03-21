@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="jbmoelker/progressive-enhancement-resources"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 关于渐进增强的综合资源集合. 从概念和策略到特征检测和测试方法. 完成（代码）示例列表.
@@ -15,7 +14,7 @@
 * [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - 从增强的概念到丰富用户界面的标准和规则.
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) - 以智能方式逐层应用技术，打造令人惊叹的体验.
 * [Designing with Progressive Enhancement](https://www.filamentgroup.com/dwpe/) - *关于渐进增强的书*（400 多页）.
-* [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - Intro to different feature detection techniques with examples and demos. 
+* [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - 通过示例和演示介绍不同的特征检测技术. 
 * [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) - 将网站增强为类似原生的应用程序（渐进式，而非混合式）.
 
 
@@ -95,7 +94,7 @@
 * [Run Internet Explorer using Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/) - 在其他平台上测试 IE 浏览器.
 * [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
 * [Configure *Desired Capabilities* in Selenium](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - 在不同场景下运行自动浏览器测试.
-* 使用不同的浏览器持续运行自动化测试 [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) 或其他替代品.
+* Continuously run automated tests in different browsers using [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) 或其他替代品.
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse) - 审计和衡量渐进式 Web 应用程序的性能（通过 cli 或 [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
 * [Progressive Enhancement checklist (1st edition, HTML)](http://adaptivewebdesign.info/1st-edition/read/chapter-6.html#the-progressive-enhancement-checklist), [Checklist of 2nd edition (PDF)](http://adaptivewebdesign.info/2nd-edition/checklist.pdf)  - 用于检查您是否已应用渐进增强最佳实践的可操作列表. 部分 [Adaptive Web Design book](http://adaptivewebdesign.info/).
 * [CSS Feature Toggles](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg) - Chrome DevTools 扩展以切换对选定 CSS 功能的支持，以测试渐进式增强回退.

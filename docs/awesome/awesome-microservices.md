@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mfornos/awesome-microservices"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 微服务架构相关原则和技术的精选列表.
@@ -413,7 +412,7 @@
 - [REST Commander](https://github.com/eBay/restcommander) - 快速并行异步 HTTP 客户端作为监视和管理 HTTP 端点的服务.
 - [Riemann](http://riemann.io/) - 监控分布式系统.
 - [Sensu](https://github.com/sensu) - 监控当今的基础设施.
-- [SkyWalking](https://skywalking.apache.org/) - 分布式系统的应用程序性能监控工具，专为微服务、云原生和基于容器（Docker、K8s、Mesos）的架构而设计.
+- [SkyWalking](https://skywalking.apache.org/) - 分布式系统应用性能监控工具，专为微服务、云原生和基于容器（Docker、K8s、Mesos）架构而设计.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - 专为微服务设计的可视化堆栈跟踪平台.
 - [Watcher](https://www.elastic.co/products/watcher) - Elasticsearch 警报.
 - [Zabbix](http://www.zabbix.com/) - 开源企业级监控解决方案.
@@ -533,7 +532,7 @@
 - [Aglio](https://github.com/danielgtaylor/aglio) - 具有主题支持的 API 蓝图渲染器，可输出静态 HTML.
 - [API Blueprint](https://apiblueprint.org/)  - 适用于整个 API 生命周期的工具. 用它来与他人讨论您的 API. 自动生成文档. 或者测试套件. 甚至一些代码.
 - [Apidoc](https://github.com/mbryzek/apidoc) - REST 服务的精美文档.
-- [RAML](http://raml.org/) - RESTful API 建模语言，一种描述实际 RESTful API 的简单简洁的方式.
+- [RAML](http://raml.org/) - RESTful API 建模语言，一种描述实际 RESTful API 的简单简洁的方法.
 - [ReDoc](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger 生成的 API 文档.
 - [Slate](https://github.com/tripit/slate) - 漂亮的 API 静态文档.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - 通过将手写文档与使用 Spring MVC 测试生成的自动生成的片段相结合来记录 RESTful 服务.

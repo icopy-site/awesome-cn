@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="JStumpp/awesome-android"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Android
 [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://raw.githubusercontent.com/jstumpp/awesome-android)
 
@@ -10,19 +9,19 @@
 </p>
 
 ## About
-A curated list of awesome Android [libraries](#libraries) and [resources](#resources). For general Java libraries have a look at [awesome-java](https://github.com/akullpp/awesome-java).
+A curated list of awesome Android [libraries](#libraries) 和 [resources](#resources) . 对于一般的 Java 库，请查看 [awesome-java](https://github.com/akullpp/awesome-java).
 
 ### Understand How Your Android App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
->Instabug helps Android developers and product teams easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. 
-&gt; 移动团队通过与 Github、Jira、Slack、Zendesk 等第三方工具无缝集成来加速他们的工作流程。 [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
+ &gt;Instabug 帮助 Android 开发人员和产品团队轻松收集错误和来自 Beta 测试人员和用户的反馈，以更快地迭代并交付高质量的应用程序.  Instabug 会自动附加屏幕截图、设备详细信息、网络日志、重现步骤以及解决问题和确定产品待办事项优先级所需的大量其他重要见解. 
+&gt; 移动团队通过与 Github、Jira、Slack、Zendesk 等第三方工具无缝集成来加速他们的工作流程. [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
 
 
 ## How to Use
-Awesome-Android is an amazing list for people who need a certain feature on their app, so the best ways to use are:
- - Simply press command + F to search for a keyword
- - Go through our Content Menu
+Awesome-Android 是一个令人惊叹的列表，适用于需要在其应用程序中添加特定功能的人，因此最好的使用方法是：
+ - 只需按 command + F 即可搜索关键字
+ - 浏览我们的内容菜单
 
 
 ## Emulators
@@ -36,410 +35,410 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 
 ### Charts
 
-- [AChartEngine](https://github.com/ddanny/achartengine) - Charting Engine.
-- [EazeGraph](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
-- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
-- [HelloCharts](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
-- [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - Draw Creative Statistic Arc Charts.
-- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - Data visualization library, Interactive charts.
+- [AChartEngine](https://github.com/ddanny/achartengine) - 图表引擎.
+- [EazeGraph](https://github.com/blackfizz/EazeGraph) - 图表和图形库.
+- [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 具有良好动态功能的图表库.
+- [HelloCharts](https://github.com/lecho/hellocharts-android) - 支持缩放、滚动和动画的图表和图形库.
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 支持手势缩放和拖动的 Android 图表和图形库.
+- [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - 绘制创意统计弧形图.
+- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - 数据可视化库，交互式图表.
 
 ### Cloud Services
 
-- [CloudRail](https://cloudrail.com) - Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs.
+- [CloudRail](https://cloudrail.com) - 统一的 API 库：云存储、社交资料、支付、电子邮件、SMS 和 POI.
 
 ### Data binding
 
-- [Anvil](https://github.com/anvil-ui/anvil) - A small library to create reactive UI components, inspired by React. Provides data binding and event listener binding, fits well for MVVM.
-- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - Official Android Data Binding Library to write declarative layouts and minimize the glue code necessary to bind application logic and layouts.
+- [Anvil](https://github.com/anvil-ui/anvil)  - 受 React 启发，用于创建反应式 UI 组件的小型库. 提供数据绑定和事件监听器绑定，非常适合MVVM.
+- [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) - 官方 Android 数据绑定库，用于编写声明式布局并最大限度地减少绑定应用程序逻辑和布局所需的胶水代码.
 
 ### Dependency Injection
 
-- [Dagger 2](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
-- [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
-- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
-- [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
-- [Toothpick](https://github.com/stephanenicolas/toothpick) - 基于作用域树的 Java 依赖注入 (DI) 库。
+- [Dagger 2](https://github.com/google/dagger) - 适用于 Android 和 Java 的快速依赖注入器.
+- [Butter Knife](http://jakewharton.github.io/butterknife/) - 查看 Android 的“注入”库.
+- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android 库提供更简单的方法来启动具有多个参数的活动.
+- [AndroidAnnotations](https://github.com/androidannotations/androidannotations) - 在编译时使用依赖注入的 Java 注释.
+- [Toothpick](https://github.com/stephanenicolas/toothpick) - 基于作用域树的 Java 依赖注入 (DI) 库.
 
 ### Android Services
-- [Remoter](https://github.com/josesamuel/remoter) - An alternative to Android AIDL for Android Remote IPC services using plain java interfaces.
-- [Service Connector](https://github.com/josesamuel/serviceconnector) - Bind Android services and callbacks to fields and methods.
+- [Remoter](https://github.com/josesamuel/remoter) - 使用纯 Java 接口的 Android 远程 IPC 服务的 Android AIDL 替代方案.
+- [Service Connector](https://github.com/josesamuel/serviceconnector) - 将 Android 服务和回调绑定到字段和方法.
 
 ### Game Development
 
-- [Libgdx](https://libgdx.badlogicgames.com/) - Cross-platform game engine and SDK. [Open Source](https://github.com/libGDX/libGDX)
-- [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
-- [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
-- [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
-- [Cocos2d-x](https://cocos2d-x.org/) - Cross-platform 2d game framework.
-- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+- [Libgdx](https://libgdx.badlogicgames.com/) - 跨平台游戏引擎和SDK. [Open Source](https://github.com/libGDX/libGDX)
+- [Vuforia](https://www.vuforia.com/) - 增强现实图书馆.
+- [Unity](https://unity3d.com/unity/features/multiplatform) - 跨平台游戏创建系统.
+- [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 引擎
+- [Cocos2d-x](https://cocos2d-x.org/) - 跨平台 2d 游戏框架.
+- [JustWeEngine](https://github.com/lfkdsk/JustWeEngine) - 一个简单的开源 Android 原生游戏框架.
 
 ### Security
 
-- [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - A ratcheting forward secrecy protocol that works in synchronous and asynchronous messaging environments.
-- [Themis](https://github.com/cossacklabs/themis) - Multi-language framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+- [libsignal-protocol-java](https://github.com/signalapp/libsignal-protocol-java) - 在同步和异步消息传递环境中工作的棘轮前向保密协议.
+- [Themis](https://github.com/cossacklabs/themis) - 使典型加密方案易于使用的多语言框架：静态数据、经过身份验证的数据交换、传输保护、身份验证等.
 
 ### GUI
 
-- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout) - A swipe refresh layout is available in the v4 support library.
-- [Cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card.
-- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
-- [Flow](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
-- [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
-- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
-- [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
-- [NexusDialog](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
-- [Snap RecyclerView Utils](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
-- [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
-- [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
-- [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
-- [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
-- [EasyIntro](https://github.com/meNESS/EasyIntro) - The flexible, easy to use, all in one app intro library for your Android project.
-- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
-- [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - A material calendar widget with infinite scrolling, date range selection and color customization.
-- [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView) - Small custom view with smooth overscroll. You can add header with scale background
-- [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
-- [DragListView](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.
-- [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - Animated Expanding ListView provides a fancy animation on expanding or collapsing the content of a listview item.
-- [TastyToast](https://github.com/yadav-rahul/TastyToast) - Toasts with icons and color.
-- [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
-- [PodSlider](https://github.com/bhargavms/PodSLider) - A customizable slider widget adhering to material design specs.
-- [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery.
-- [ShowCaseView](https://github.com/mreram/ShowCaseView) - The ShowcaseView library is designed to highlight and showcase specific parts of apps to the user with a attractive and flat overlay.
-- [MaterialIntroScreen](https://github.com/TangoAgency/material-intro-screen) - Material Intro Screen implementation with easily extensible API.
-- [FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation.
-- [Timecon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon
-- [Audiogram](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar
-- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
-- [Litho (By Facebook)](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
-- [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
-- [LGSnackbar](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
-- [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
-- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
-- [Easy-Signature-Android](https://github.com/smalam119/Easy-Signature-Android) - An simple ui library that provides a plugable signature view.
-- [Flashbar](https://github.com/aritraroy/Flashbar) - A highly customizable, powerful and easy-to-use alerting library for Android.
-- [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - Customizable Item Setting View for Android.
-- [Gradients](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients.
-- [OneAdapter](https://github.com/ironSource/OneAdapter) - RecyclerView Adapter with multiple modules and hooks to simplify and enhance the use while preventing common mistakes.
+- [Pull to refresh](https://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout) - v4 支持库中提供了滑动刷新布局.
+- [Cardslib](https://github.com/gabrielemariotti/cardslib) - 用于构建 UI 卡的 Android 库.
+- [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - 网格视图，支持具有不同大小的行的多列.
+- [Flow](https://github.com/square/flow) - 有助于将应用程序描述为适度独立屏幕的集合的库.
+- [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - 一个包含简单 TableView 和高级 SortableTableView 的 Android 库，提供大量定制可能性以满足所有需求.
+- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - 具有一致外观的材质设计 ProgressBar.
+- [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)  - 使用 SVG 路径的可填充进度视图. 创建有趣的应用程序徽标也是不错的选择.
+- [NexusDialog](https://github.com/dkharrat/NexusDialog) - 允许您使用很少的代码在 Android 中轻松快速地创建表单.
+- [Snap RecyclerView Utils](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - 在不创建适配器的情况下填充单个或多个布局 RecyclerView.
+- [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - 用于多次捕捉 RecyclerView 的 Android 库
+- [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) - 实现像街景一样的刷卡！！
+- [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - 漂亮的载入栏.
+- [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) -介绍/进入/演练/开始屏幕.
+- [EasyIntro](https://github.com/meNESS/EasyIntro) - 适用于您的 Android 项目的灵活、易于使用的多合一应用程序介绍库.
+- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - 与 API 8+ 兼容的 Material Design 日历
+- [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动、日期范围选择和颜色自定义的材料日历小部件.
+- [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView)  - 具有平滑滚动的小型自定义视图. 您可以添加带有比例背景的标题
+- [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 允许将 RecyclerView 拆分为带有页眉和/或页脚的部分的适配器.
+- [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排序列表、网格或面板中的项目.
+- [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展 ListView 在扩展或折叠列表视图项目的内容时提供精美的动画.
+- [TastyToast](https://github.com/yadav-rahul/TastyToast) - 带有图标和颜色的祝酒词.
+- [DotLoader](https://github.com/bhargavms/DotLoader) - 带点的可自定义加载动画.
+- [PodSlider](https://github.com/bhargavms/PodSLider) - 符合材料设计规范的可定制滑块小部件.
+- [TapTargetView](https://github.com/KeepSafe/TapTargetView) - 用于功能发现的 Material Design 指南中的点击目标的实现.
+- [ShowCaseView](https://github.com/mreram/ShowCaseView) - ShowcaseView 库旨在通过有吸引力的平面覆盖向用户突出显示和展示应用程序的特定部分.
+- [MaterialIntroScreen](https://github.com/TangoAgency/material-intro-screen) - 具有易于扩展的 API 的 Material Intro Screen 实现.
+- [FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView 可以让目标视图漂浮在锚点视图上方，动画很酷.
+- [Timecon](https://github.com/alxrm/animated-clock-icon) - 易于使用的动画时钟图标
+- [Audiogram](https://github.com/alxrm/audiowave-progressbar) - 轻量级音频进度条
+- [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) - Facebook 喜欢聊天气泡库
+- [Litho (By Facebook)](https://github.com/facebook/litho) - 用于在 Android 上构建高效 UI 的声明性框架.
+- [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview 适配器库，用于创建可组合的视图持有者.
+- [LGSnackbar](https://github.com/loregr/LGSnackbar) - 本机 Android Snackbar 的易于使用和可定制的包装器，它在多个活动中保持可见.
+- [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - Android 应用程序的内存高效闪烁效果.
+- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - 一个用于为 Android 创建循环进度条的简单库.
+- [Easy-Signature-Android](https://github.com/smalam119/Easy-Signature-Android) - 一个简单的 ui 库，提供可插入的签名视图.
+- [Flashbar](https://github.com/aritraroy/Flashbar) - 一个高度可定制、功能强大且易于使用的 Android 警报库.
+- [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) - 适用于 Android 的可自定义项目设置视图.
+- [Gradients](https://github.com/bakhtiyork/gradients) - 精选的精美渐变系列.
+- [OneAdapter](https://github.com/ironSource/OneAdapter) - 具有多个模块和挂钩的 RecyclerView 适配器可简化和增强使用，同时防止常见错误.
 
 #### Paginate
-- [NoPaginate](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
+- [NoPaginate](https://github.com/NoNews/NoPaginate) - 简单的安卓分页库
 
 #### ActionBar
-- [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
-- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
+- [ActionBarSherlock](http://actionbarsherlock.com) - 适用于旧版 Android 的 ActionBar.
+- [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) - 在新的 Play Music 应用程序中可以看到渐变操作栏效果.
 
 #### Navigation
-- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
-- [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - Simple library that helps to create awesome sliding android app tutorials.
-- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager.
-- [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - Support for horizontally scrolling ViewPager.
-- [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - An efficient TabLayout library implemented with RecyclerView.
-- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - Simple take on a material design navigation drawer.
-- [Debug-Artist](https://github.com/BaristaVentures/android-debug-artist) - Debug menu to enable leakcanary, scalpel and others easy.
-- [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
+- [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) - 用于创建带有滑入式菜单的应用程序的库.
+- [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - 有助于创建很棒的滑动 android 应用程序教程的简单库.
+- [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - 在 ViewPager 的不同页面之间导航的交互式指示器.
+- [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - 支持水平滚动 ViewPager.
+- [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - 使用 RecyclerView 实现的高效 TabLayout 库.
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - 简单采用材料设计导航抽屉.
+- [Debug-Artist](https://github.com/BaristaVentures/android-debug-artist) - 调试菜单可轻松启用 leakcanary、scalpel 和其他工具.
+- [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - 一个简单的浮动操作按钮，显示锚定的导航视图.
 
 #### Animations
-- [Rebound](https://github.com/facebook/rebound) - Rebound is a Java library that models spring dynamics.
-- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
-- [Android-Transition](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
-- [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - Makes creating complex animations for views easy.
-- [Swipper](https://github.com/mdg-iitr/Swipper) - Android library for swipeable gestures to control volume , brightness and seek .
-- [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
+- [Rebound](https://github.com/facebook/rebound) - Rebound 是一个模拟弹簧动力学的 Java 库.
+- [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) - 可爱的视图动画集合.
+- [Android-Transition](https://github.com/kaichunlin/android-transition) - 允许轻松创建对用户输入做出反应的视图转换.
+- [Android-View-Actions](https://github.com/dtx12/AndroidAnimationsActions) - 使为视图创建复杂的动画变得容易.
+- [Swipper](https://github.com/mdg-iitr/Swipper) - 用于控制音量、亮度和搜索的滑动手势的 Android 库.
+- [Spotlight](https://github.com/TakuSemba/Spotlight) - 为教程或演练等点亮项目的 Android 库...
 
 #### Images
 
-- [Crescento](https://github.com/developer-shivam/crescento) - Explore new style in material design by adding curve below image view.
-- [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
-- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
-- [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
-- [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
-- [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - Library to display images in different shapes.
+- [Crescento](https://github.com/developer-shivam/crescento) - 通过在图像视图下方添加曲线来探索材料设计的新风格.
+- [android-crop](https://github.com/jdamcd/android-crop) - 用于裁剪图像的库项目.
+- [CircularImageView](https://github.com/Pkmmte/CircularImageView) - 圆形图像的自定义视图，同时保持最佳绘制性能.
+- [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) - 用于轻松应用图像过滤器的库项目.
+- [Compressor](https://github.com/zetbaitsu/Compressor) - Compressor 是一个轻量级且功能强大的安卓图像压缩库.
+- [ShapeImageView](https://github.com/siyamed/android-shape-imageview) - 以不同形状显示图像的库.
 
 #### Inputs
 
-- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel Allows you to create a blow kind of EditText. *Doesn't have Gradle or Maven Support.*
-- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
-- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) - Adds emoticons to your app
-- [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
-- [InputMask](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
-- [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - Password EditText that allows to custom toggle button
-- [VoiceOverlay](https://github.com/algolia/voice-overlay-android) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+- [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)  - FloatingLabel 允许您创建一种打击类型的 EditText.  *没有 Gradle 或 Maven 支持.*
+- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 支持浮动标签、单行省略号、最大/最小字符、帮助文本和带有自定义颜色的错误文本.
+- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) - 将表情符号添加到您的应用程序
+- [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - 适用于 Android 的 Material Design 搜索栏
+- [InputMask](https://github.com/RedMadRobot/input-mask-android) - 基于模式的用户输入格式化程序、解析器和验证器.
+- [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - 允许自定义切换按钮的密码 EditText
+- [VoiceOverlay](https://github.com/algolia/voice-overlay-android) - 一个叠加层，可获得用户的语音许可并在可自定义的 UI 中以文本形式输入.
 
 #### View Pagers
-- [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) - Three Material Dots Indicators styles for View Pagers.
+- [Material Dots Indicators](https://github.com/tommybuonomo/dotsindicator) - 用于查看寻呼机的三种材料点指示器样式.
 
 #### Loading Images
 
-- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android.
+- [Picasso](https://github.com/square/picasso) - 一个强大的安卓图像下载和缓存库.
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Asynchronous, out of the box loading and caching of images.
-- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
-- [Fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
-- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool is a memory management library for reusing the bitmap memory.
-- [Coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
+- [Glide](https://github.com/bumptech/glide) - 适用于 Android 的图像加载和缓存库，专注于平滑滚动，由 Google 推荐.
+- [Fresco](https://github.com/facebook/fresco) - 用于管理图像及其使用的内存的 Android 库.
+- [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) - Glide Bitmap Pool 是一个内存管理库，用于重用位图内存.
+- [Coil](https://github.com/coil-kt/coil) - 由 Kotlin Coroutines 支持的 Android 图像加载.
 
 #### Media Picker
 
-- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android Library that lets you to select multiple images, video or voice for Android
-- [Android Image Picker](https://github.com/esafirm/android-image-picker) - A library that makes images and videos selection from gallery feels easy. It also support GIF and simple camera action
+- [MediaPicker](https://github.com/alhazmy13/MediaPicker) - Android 库，可让您为 Android 选择多个图像、视频或语音
+- [Android Image Picker](https://github.com/esafirm/android-image-picker)  - 使从图库中选择图像和视频变得容易的库. 它还支持 GIF 和简单的相机动作
 
 #### Video
 
-- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-- [Exoplayer](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
-   Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
-- [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - 基于 FFmpeg n3.2 的 Android/iOS 视频播放器，支持 MediaCodec、VideoToolbox.
+- [Exoplayer](https://github.com/google/ExoPlayer) - ExoPlayer 是适用于 Android 的应用程序级媒体播放器，允许在本地和通过 Internet 播放音频和视频.
+   支持基于 HTTP 的动态自适应流式传输 (DASH)、SmoothStreaming 和 Common Encryption 等功能
+- [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - 带有视频播放器、播放/停止、加载器和占位符图像的自定义 Android 视图.
 
 #### Camera
 
-- [MagicalCamera](https://github.com/fabian7593/MagicalCamera) - Simple way to take or select photos of your gallery, with other features for manage pictures.
-- [Camera](https://github.com/duanhong169/Camera) - Use Android camera to take pictures and videos, based on camera2 api.
+- [MagicalCamera](https://github.com/fabian7593/MagicalCamera) - 拍摄或选择画廊照片的简单方法，以及管理图片的其他功能.
+- [Camera](https://github.com/duanhong169/Camera) - 使用安卓相机拍照和录像，基于camera2 api.
 
 #### Field Validation
-- [Convalida](https://github.com/WellingtonCosta/convalida) - A simple and annotation-based way to validate your input fields.
+- [Convalida](https://github.com/WellingtonCosta/convalida) - 一种简单且基于注释的方法来验证您的输入字段.
 
 ### JSON
 
-- [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
-- [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
-- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+- [Gson](https://github.com/google/gson) - Gson 是一个 Java 库，用于将 Java 对象从 JSON 序列化和反序列化为 JSON.
+- [Jackson JSON Processor](https://github.com/FasterXML/jackson) - 高性能 JSON 处理器.
+- [Moshi](https://github.com/square/moshi) - 适用于 Android 和 Java 的现代 JSON 库.
 ### Crash monitoring
 
-- [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
-- [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
-- [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real time data, Statistic.
-- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
-- [Catcho](https://github.com/alhazmy13/Catcho) - No Force Close any more.
-- [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
-- [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
+- [Fabric Crashlytics](https://get.fabric.io/) - 简单的崩溃报告解决方案.
+- [HockeyApp](https://www.hockeyapp.net/) - 分发、崩溃报告、反馈和分析
+- [Splunk MINT](https://mint.splunk.com/) - 监控、崩溃报告、实时数据、统计.
+- [Bugsnag](https://www.bugsnag.com/)  - 跨平台错误监控. 免费层. 支持 SDK 和 NDK. 错误报告包括有关设备、版本、用户的数据，并允许任意数据.
+- [Catcho](https://github.com/alhazmy13/Catcho) - 不再强制关闭.
+- [Apteligent](https://www.apteligent.com/)  - 跨平台崩溃报告/分析解决方案. 支持 NDK 日志.
+- [Instabug](https://instabug.com/) - 错误报告、崩溃报告、应用内反馈.
 
 ### Networking
 
-- [Ion](https://github.com/koush/ion) - Good networking library for android.
-- [OkHttp](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
-- [RoboSpice](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
-- [IceNet](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
-- [Android Volley](https://developer.android.com/training/volley/) - Official Android HTTP library that makes networking for easier and faster.
-- [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
-- [node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
-- [HappyDns](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
-- [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
-- [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - A Complete Fast Android Networking Library that also support HTTP/2.
+- [Ion](https://github.com/koush/ion) - 良好的 android 网络库.
+- [OkHttp](https://github.com/square/okhttp) - 用于 Android 和 Java 应用程序的 HTTP+SPDY 客户端.
+- [RoboSpice](https://github.com/stephanenicolas/robospice) - 使编写异步网络请求变得容易的库.
+- [IceNet](https://github.com/anton46/IceNet) - 适用于 Android 的快速、简单和轻松的网络
+- [Android Volley](https://developer.android.com/training/volley/) - 官方 Android HTTP 库，使网络更容易和更快.
+- [IceSoap](https://github.com/AlexGilleran/IceSoap) - 适用于 Android 的简单、异步、基于注释的 SOAP.
+- [node-android](https://github.com/InstantWebP2P/node-android) - 在 Android 上运行 Node.js.
+- [HappyDns](https://github.com/qiniu/happy-dns-android)  - 一个 Dns 库，用户可以使用自定义的 dns 服务器，dnspod httpdns. 只支持A记录.
+- [RESTMock](https://github.com/andrzejchm/RESTMock) - 用于模拟 Android Instrumentation 测试中的 API 响应的 HTTP Web 服务器.
+- [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 一个完整的快速 Android 网络库，也支持 HTTP/2.
 
 ### Logger
-- [logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android
-- [timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
-- [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - An OkHttp interceptor which pretty logs request and response data.
-- [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
-- [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
-- [Logback Android](https://github.com/tony19/logback-android) - Logback port to Android which provides a highly configurable logging framework for Android apps.
+- [logger](https://github.com/orhanobut/logger) - 简单、漂亮和强大的安卓记录器
+- [timber](https://github.com/JakeWharton/timber) - 一个带有小型可扩展 API 的记录器，它在 Android 的普通 Log 类之上提供实用程序.
+- [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) - 一个 OkHttp 拦截器，它可以很好地记录请求和响应数据.
+- [Bugfender](https://github.com/bugfender/BugfenderSDK-android-sample) - 上传您的日志并在线查看，专为移动设备打造
+- [EzyLogger](https://github.com/afiqiqmal/EzyLogger) - 简单的轻量级记录器
+- [Logback Android](https://github.com/tony19/logback-android) - Android 的登录端口，为 Android 应用程序提供高度可配置的日志记录框架.
 
 ### Notifications
-- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
-- [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
+- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - 从远程 JSON 文件中提取通知并将其显示在您的应用程序中.
+- [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - 设置心跳间隔和用户从 GCM 接收 PushNotifications 的方法.
 
 ### Database
-- [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
-- [DbInspector](https://github.com/infinum/android_dbinspector) - Provides a simple way to view the contents of the in-app database for debugging purposes.
-- [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - manage database creation and version management using an application's raw asset files.
-- [Realm](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
-- [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.
-- [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
-- [Nitrite Database](https://github.com/dizitart/nitrite-database) - A NoSQL embedded document store for Android with MongoDb like API.
+- [Cupboard](https://bitbucket.org/littlerobots/cupboard) - 通过直接数据库访问或通过 ContentProvider 框架轻松访问 sqlite.
+- [DbInspector](https://github.com/infinum/android_dbinspector) - 提供一种简单的方法来查看应用程序内数据库的内容以进行调试.
+- [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - 使用应用程序的原始资产文件管理数据库创建和版本管理.
+- [Realm](https://github.com/realm/realm-java)  - SQLite 和 ORM 的替代品：简单、现代且快速！ 面向对象的 API 和多平台支持.
+- [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper)  - 从 apk 资产文件夹中复制一个领域数据库. 有效地处理只读领域数据库的版本控制.
+- [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) - 一个包装器，用于复制具有恢复功能的 android 的 SQLiteDatabase.
+- [Nitrite Database](https://github.com/dizitart/nitrite-database) - 适用于 Android 的 NoSQL 嵌入式文档存储，带有类似 MongoDb 的 API.
 
 #### ORM
 
-- [requery](https://github.com/requery/requery) - Compile time ORM and SQL query library for Java & Android.
-- [GreenDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
-- [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
-- [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
-- [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
-- [DBFlow](https://github.com/agrosner/DBFlow) - Fast and powerful ORM with compile-time annotation processing.
-- [NexusData](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
-- [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
-- [RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) - Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.
+- [requery](https://github.com/requery/requery) - 用于 Java 和 Android 的编译时 ORM 和 SQL 查询库.
+- [GreenDAO](http://greenrobot.org/greendao/) - 轻便快速的 ORM 解决方案.
+- [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - 用于 JDBC 和 Android 的轻量级 ORM Java 包.
+- [ActiveAndroid](http://www.activeandroid.com) - 活动记录样式 ORM.
+- [Sugar ORM](http://satyan.github.io/sugar/) - 使用 Android 数据库的极其简单的方法.
+- [DBFlow](https://github.com/agrosner/DBFlow) - 具有编译时注释处理功能的快速而强大的 ORM.
+- [NexusData](https://github.com/dkharrat/NexusData) - 适用于 Android 的对象图和持久性框架.
+- [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL)  - 适用于 Android 的简单 NoSQL 客户端. 意味着使用键/值对和一些基本查询的文档存储. 对于避免 SQL 代码的麻烦很有用.
+- [RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL)  - SimpleNoSQL 的响应式扩展. 使用 Observables 操作实体.
 
 ### REST
 
-- [Retrofit](https://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface.
-- [Spring for Android - Rest Template](https://github.com/spring-projects/spring-android) - A Rest Client for Android.
+- [Retrofit](https://square.github.io/retrofit/) - Retrofit 将您的 REST API 变成 Java 接口.
+- [Spring for Android - Rest Template](https://github.com/spring-projects/spring-android) - 适用于 Android 的 Rest 客户端.
 
 ### Testing
 
-- [Robotium](https://github.com/robotiumtech/robotium) - Test automation framework for black-box UI tests.
-- [Roboletric](http://robolectric.org/) - 单元测试框架，用于在工作站上的 JVM 内运行测试，而不是在模拟器中。
-- [AssertJ Android](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
-- [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
+- [Robotium](https://github.com/robotiumtech/robotium) - 用于黑盒 UI 测试的测试自动化框架.
+- [Roboletric](http://robolectric.org/) - 单元测试框架，用于在您的工作站上的 JVM 内部运行测试，而不是在模拟器中.
+- [AssertJ Android](https://github.com/square/assertj-android) - 面向 Android 的 AssertJ 断言.
+- [Green Coffee](https://github.com/mauriciotogneri/green-coffee) - 在您的 Android 仪器测试中运行您的 Cucumber 测试.
 
 ### Tracking
 
 - [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
-- [Mixpanel](https://mixpanel.com/) - Analytics platform to analyze the users.
-- [Countly](https://count.ly) - Open source mobile & web analytics, push notifications and crash reporting platform, based on Node.js, MongoDB and Linux.
-- [CleverTap](https://clevertap.com) - Analytics platform and user-engagement platform with 1 million free events
+- [Mixpanel](https://mixpanel.com/) - 用于分析用户的分析平台.
+- [Countly](https://count.ly) - 基于 Node.js、MongoDB 和 Linux 的开源移动和网络分析、推送通知和崩溃报告平台.
+- [CleverTap](https://clevertap.com) - 具有 100 万个免费事件的分析平台和用户参与平台
 
 ### Maps
 
-- [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
-- [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
-- [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
-- [GLMap](https://globus.software) - Crossplatform offline vector map with MapCSS styling. Offline search and offline navigation are included.
+- [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - 允许您计算两个位置之间的方向，并使用 Google Directions API 在 Google 地图上显示路线.
+- [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - 扩展 Google Maps Android API v2 的功能，添加标记聚类等
+- [MapScaleView](https://github.com/pengrad/MapScaleView) - 谷歌地图 Android API 的比例尺
+- [GLMap](https://globus.software)  - 具有 MapCSS 样式的跨平台离线矢量地图. 包括离线搜索和离线导航.
 
 ### Utility
-- [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - Secured Preferences using Facebook Secure Encryption called Conceal.
-- [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
-- [Otto](https://github.com/square/otto) - Event Bus for Android.
-- [Weak handler](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
-- [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
-- [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
-- [LeakCanary](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
-- [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
-- [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
-- [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
-- [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
-- [Shutter-Android](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
-- [Validator](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
-- [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
-- [TimeIt](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
-- [Reactor](https://github.com/oky2abbas/reactor) - Reactor is a fast and secure key-value library for Android.
+- [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - 使用名为 Conceal 的 Facebook 安全加密保护首选项.
+- [EventBus](http://greenrobot.github.io/EventBus/) - EventBus 是一个库，可简化应用程序不同部分之间的通信.
+- [Otto](https://github.com/square/otto) - 安卓事件总线.
+- [Weak handler](https://github.com/badoo/android-weak-handler) - 内存更安全的 android.os.Handler 实现.
+- [Byte Buddy](http://bytebuddy.net) - 支持 Android 的运行时代码生成库.
+- [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager)  - Android 的安全首选项管理器. 它使用各种加密来保护您的应用程序的共享首选项.
+- [LeakCanary](https://github.com/square/leakcanary) - 捕捉发生的内存泄漏.
+- [Drekkar](https://github.com/coshx/drekkar) - 用于 WebView 和 JS 的 Android 事件总线.
+- [Androl4b](https://github.com/sh4hin/Androl4b) - 用于评估 Android 应用程序的虚拟机.
+- [DroidMVP](https://github.com/andrzejchm/DroidMVP) - Android 库可帮助您将 MVP 以及被动视图和演示模型模式整合到您的应用程序中.
+- [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - 以超级简单的方式获取设备信息.
+- [Shutter-Android](https://github.com/levibostian/Shutter-Android) - 从设备相机捕获照片/视频或从图库应用程序获取照片/视频，无需运行时权限.
+- [Validator](https://github.com/anderscheow/Validator) - 一个实用程序类，用于验证 TextInputLayout 中的文本.
+- [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - 处理软键盘可见性更改事件的 DSL.
+- [TimeIt](https://github.com/yashovardhan99/timeit) - 一个适用于 Android 的秒表库，可以轻松地在应用程序中启动、暂停、显示和维护多个秒表.
+- [Reactor](https://github.com/oky2abbas/reactor) - Reactor 是一个快速安全的 Android 键值库.
  
 ### Debugging Tools
 
-- [Linx](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
-- [Scalpel](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
-- [Stetho](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
-- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
-- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices
-- [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - a command-line wrapper around ADB for developers, so that, developers don't have to remember esoteric version-dependent commands
-- [Pidcat](https://github.com/JakeWharton/pidcat) - a colored command-line ADB wrapper that only shows log entries for a specific application package
-- [AppSpector](https://appspector.com) - Remote Android and iOS debugging and data collection service. You can debug networking, logs, SQLite and mock device's geo location.
+- [Linx](https://github.com/pedrovgs/Lynx) - 在设备内部显示 logcat 以进行调试构建
+- [Scalpel](https://github.com/JakeWharton/scalpel) - 在手机中以 3d 形式查看整个层次结构.
+- [Stetho](https://github.com/facebook/stetho) - 从 chrome 调试层次结构和网络.
+- [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android 调试数据库是一个强大的库，用于调试 Android 应用程序中的数据库和共享首选项.
+- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - 帮助调试 Android 设备的命令行工具
+- [ADB Enhanced](https://github.com/ashishb/adb-enhanced) - 为开发人员提供的 ADB 命令行包装器，这样开发人员就不必记住深奥的依赖于版本的命令
+- [Pidcat](https://github.com/JakeWharton/pidcat) - 彩色命令行 ADB 包装器，仅显示特定应用程序包的日志条目
+- [AppSpector](https://appspector.com)  - 远程Android和iOS调试和数据收集服务. 您可以调试网络、日志、SQLite 和模拟设备的地理位置.
 
 
 ### Wireless
 
-- [SmartGattLib](https://github.com/movisens/SmartGattLib) - Simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0).
+- [SmartGattLib](https://github.com/movisens/SmartGattLib) - 简化了蓝牙智能设备（又名蓝牙 4.0 中的低功耗蓝牙）的工作.
 
 ### Chat & Messaging
 
-- [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android Chat and Messaging SDK for adding real time chat and in-app messaging into your android application.
-- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android) - Qiscus SDK is a lightweight and powerful android chat library. Qiscus SDK will allow you to easily integrating Qiscus engine with your apps to make cool chatting application.
-- [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) - Kommunicate provides open source live chat sdk in android. Kommunicate lets you add real time live chat and in-app messaging in your mobile (android, iOS) applications and website for customer support.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
-- [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/) - Build a one-one-one Android chat app in Kotlin within few minutes using CometChat Pro. This tutorial discusses the features such as login, getting list of contacts, user presence indicators, sending/receiving messages etc.
-- [Stream Chat](https://getstream.io/tutorials/android-chat/) - Comprehensive SDK & Components for real-time chat, powered by [Stream](https://getstream.io/chat/).
-- [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) - Add push notifications in your Android chat apps in Kotlin with the help of CometChat Pro and Firebase Cloud Messaging (FCM).
+- [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) - Android 聊天和消息 SDK，用于将实时聊天和应用内消息添加到您的 Android 应用程序中.
+- [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)  - Qiscus SDK 是一个轻量级且功能强大的安卓聊天库.  Qiscus SDK 将允许您轻松地将 Qiscus 引擎与您的应用程序集成，以制作酷炫的聊天应用程序.
+- [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)  - Kommunicate 在android 中提供开源实时聊天sdk.  Kommunicate 可让您在移动（安卓、iOS）应用程序和网站中添加实时实时聊天和应用程序内消息传递，以获得客户支持.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)  - 使用 CometChat 在几分钟内将语音、视频和文本聊天添加到您的应用程序（和网站）.  CometChat 的 SDK 包括一个完整的现成 UI，因此您无需花费任何时间来构建一个！ 这还不是全部，CometChat 对实时翻译、白板、屏幕共享、朋友同步、基于角色的访问控制、信用扣除等具有开箱即用的支持.
+- [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/)  - 使用 CometChat Pro 在几分钟内在 Kotlin 中构建一个一对一的 Android 聊天应用程序. 本教程讨论了登录、获取联系人列表、用户状态指示器、发送/接收消息等功能.
+- [Stream Chat](https://getstream.io/tutorials/android-chat/) - 用于实时聊天的综合 SDK 和组件，由 [Stream](https://getstream.io/chat/).
+- [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) - 在 CometChat Pro 和 Firebase Cloud Messaging (FCM) 的帮助下，在 Kotlin 的 Android 聊天应用程序中添加推送通知.
 
 #### Custom Dialog
 
-- [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
-- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
-- [Noty](https://github.com/emre1512/Noty) - A simple library for creating animated alerts/dialogs/warnings.
+- [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - 自定义对话框录制音频，存储它并在您的手机中播放.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - 提供回历（伊斯兰历）日期选择器，该选择器是根据 Google 的 Material Design Principals For Pickers 设计的.
+- [Noty](https://github.com/emre1512/Noty) - 用于创建动画警报/对话框/警告的简单库.
 
 ### Version Checking
 
- - [AppUpdater](https://github.com/javiersantos/AppUpdater) - comprehensive and feature rich library, including support for checks at Amazon and FDroid.
- - [Gandalf](https://github.com/btkelly/gandalf) - comprehensive features and a "companion" iOS solution.
- - [Siren](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
- - [Fit](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
+ - [AppUpdater](https://github.com/javiersantos/AppUpdater) - 全面且功能丰富的库，包括对亚马逊和 FDroid 支票的支持.
+ - [Gandalf](https://github.com/btkelly/gandalf) - 全面的功能和“伴侣”iOS 解决方案.
+ - [Siren](https://github.com/eggheadgames/Siren)  - 模仿流行的同名 iOS 库的重点功能集. 支持 Play 和亚马逊.
+ - [Fit](https://github.com/KeithYokoma/Fit) - 没有 UI 的版本检查回调框架.
 
 ### Date & Time
 
-- [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
-- [Joda-Time Android](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
-- [True Time](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
+- [ThreeTen Android Backport](https://github.com/JakeWharton/ThreeTenABP) - 适用于 Android 的 JSR-310 向后移植的改编版.
+- [Joda-Time Android](https://github.com/dlew/joda-time-android) - 具有 Android 专业化的 Joda-Time 库.
+- [True Time](https://github.com/instacart/truetime-android)  - Android NTP 时间库. 获取不受设备时钟时间变化影响的真实当前时间.
 
 ### Runtime Permissions
 
-- [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
-- [RxPermissions](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
-- [NoPermission](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
-- [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
-- [Gota](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
-- [EasyPermissions](https://github.com/googlesamples/easypermissions) - EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting Android M or higher.
+- [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - 简单的基于注释的 API 来处理运行时权限.
+- [RxPermissions](https://github.com/tbruyelle/RxPermissions) - 由 RxJava 提供支持的 Android 运行时权限.
+- [NoPermission](https://github.com/NoNews/NoPermission)  - 用于权限请求的简单 Android 库. 只包含一个类.
+- [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) - 简单的运行时权限管理器.
+- [Gota](https://github.com/alhazmy13/Gota) - 简化 Android 权限.
+- [EasyPermissions](https://github.com/googlesamples/easypermissions) - EasyPermissions 是一个包装库，用于在针对 Android M 或更高版本时简化基本系统权限逻辑.
 
 ### Payments
 
-- [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - Integrate Square payments into your mobile app with Digital wallet and stored card support for quick checkout.
+- [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - 通过数字钱包和存储卡支持将 Square 支付集成到您的移动应用程序中，以便快速结账.
 
 ### Other
 
-- [Android Support library](https://developer.android.com/topic/libraries/support-library/) - The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework API.
-- [Google Play Services](https://developers.google.com/android/guides/overview) - Library to access Google services, such as account syncing, Google+ (sharing, single sign-on), Google Maps, Location APIs, Google Play Games, Cloud Messaging, Android Device Manager, and others.
-- [Tape](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
-- [Guava: Google Core Libraries for Java](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
-- [Android Scripting](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
-- [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
-- [RateMeMaybe](https://github.com/nspo/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
-- [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
-- [ZXing Android-Integration](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.
-- [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Java 8 Lambdas on Android!
-- [RxJava](https://github.com/ReactiveX/RxJava)- RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
-- [RxBinding](https://github.com/JakeWharton/RxBinding)- RxBinding – RxJava binding APIs for Android UI widgets from the platform and support libraries.
-- [Caffeine](https://github.com/percolate/caffeine) - A collection of utility classes that help make Android development faster.
-- [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
-- [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
-- [andle](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
-- [Typography](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
-- [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
-- [transai](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
-- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
-- [Sensey](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
-- [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
-- [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
-- [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
-- [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
-- [Teller](https://github.com/levibostian/Teller-Android/) - Teller facilitates the downloading, saving, and reading of the cached data of your app. Keep your user's data fresh and remove those annoying loading screens!
+- [Android Support library](https://developer.android.com/topic/libraries/support-library/) - Android 支持库包是一组代码库，提供向后兼容版本的Android 框架API.
+- [Google Play Services](https://developers.google.com/android/guides/overview) - 用于访问 Google 服务的库，例如帐户同步、Google+（共享、单点登录）、Google 地图、位置 API、Google Play 游戏、云消息、Android 设备管理器等.
+- [Tape](https://github.com/square/tape) - 适用于 Android 和 Java 的闪电般快速、事务性、基于文件的 FIFO.
+- [Guava: Google Core Libraries for Java](https://github.com/google/guava) - 集合、缓存、原语支持、并发库、公共注释、字符串处理、I/O 等等.
+- [Android Scripting](https://github.com/damonkohler/sl4a) - 允许在 Android 上运行脚本语言.
+- [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) - 实施作业队列以轻松安排在后台运行的作业（任务），从而提高用户体验和应用程序稳定性.
+- [RateMeMaybe](https://github.com/nspo/RateMeMaybe) - 询问用户是否要打开 Play 商店来评价您的应用程序.
+- [Easy Rating Dialog](https://github.com/fernandodev/easy-rating-dialog) - Lib 提供了一种简单的方法来显示评级应用程序的警报对话框.
+- [ZXing Android-Integration](https://github.com/zxing/zxing) - 通过 Intent 与 Barcode Scanner 集成.
+- [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - Android 上的 Java 8 Lambda！
+- [RxJava](https://github.com/ReactiveX/RxJava)- RxJava – JVM 的反应式扩展 – 一个用于使用 Java VM 的可观察序列编写异步和基于事件的程序的库.
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - 添加最小的 RxJava 绑定，以便轻松编写响应式 Android java 代码.
+- [RxBinding](https://github.com/JakeWharton/RxBinding)- RxBinding——用于来自平台和支持库的 Android UI 小部件的 RxJava 绑定 API.
+- [Caffeine](https://github.com/percolate/caffeine) - 有助于加快 Android 开发速度的实用程序类集合.
+- [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - 自动生成一个关于此应用程序部分，其中包含已用库的列表.
+- [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) - 从 url 加载音频并具有基本播放工具的视图.
+- [andle](https://github.com/Jintin/andle) - 命令行工具帮助您同步依赖项、sdk 或构建工具版本.
+- [Typography](https://github.com/workarounds/typography) - 一个 Android 库，可以轻松地在视图中使用自定义字体.
+- [Calligraphy](https://github.com/chrisjenx/Calligraphy) - Android 中的自定义字体是一种不错的方式.
+- [transai](https://github.com/Jintin/transai) - 命令行工具帮助您管理本地化字符串文件.
+- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - 它从 url 进行预览，抓取所有信息，如标题、相关文本和图像.
+- [Sensey](https://github.com/nisrulz/sensey) - 快速检测手势.
+- [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - 自定义视频视图会在用户未注视设备屏幕时自动暂停视频！
+- [Flexbox Layout](https://github.com/google/flexbox-layout) - FlexboxLayout 是一个将 CSS Flexible Box Layout Module 的类似功能带到 Android 的库.
+- [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - 样板基于 MVP 架构，完全基于使用 Dagger2 的依赖注入设计模式.
+- [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - 用于简化依赖项管理的 kotlin dsl
+- [Teller](https://github.com/levibostian/Teller-Android/)  - Teller 方便下载、保存和读取您应用程序的缓存数据. 让您的用户数据保持最新并移除那些烦人的加载屏幕！
 
 ## Resources
 
-- [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - Android Tutorials & Courses submitted and voted by the programming community.
-- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.
-- [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) The video series by Android Design Team of Google.
-- [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - It is the technical counterpart of Android Design in Action series.
-- [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - A series of articles from Googler Chet Hasae and others, answering most commonly asked question: "What are some of the important rules to keep in mind when developing Android applications?".
-- [Android Hive Tutorials](https://www.androidhive.info) - Very good tutorials for beginners.
-- [Android Weekly](https://androidweekly.net) - Newsletter with weekly information about android.
-- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
+- [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - 由编程社区提交和投票的 Android 教程和课程.
+- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) - Lars Vogel 的非常好的教程.
+- [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) Google Android 设计团队的视频系列.
+- [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 它是 Android Design in Action 系列的技术对应物.
+- [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - 来自 Google 员工 Chet Hasae 和其他人的一系列文章，回答了最常见的问题：“开发 Android 应用程序时要牢记哪些重要规则？”.
+- [Android Hive Tutorials](https://www.androidhive.info) - 非常适合初学者的教程.
+- [Android Weekly](https://androidweekly.net) - 包含有关 android 的每周信息的时事通讯.
+- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他资产的生成器.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
-- [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
-- [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
-- [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
-- [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
-- [android-blogs](https://github.com/vbauer/android-blogs) - List with blogs about Android.
-- [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
-- [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
-- [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - A collection of materials for getting ready for the test.
-- [Google Developers Training](https://developer.android.com/courses/) -  Google Developers Official Training page has list of various useful learning resources for beginner as well seasoned developer.
-- [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
-- [AndroidVille](https://ayusch.com/) - Become a better Android Engineer. A website dedicated to Android Development covering advanced topics such as RxJava, Android Zygote and much more.
-- [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - A weekly newsletter on new development and updates of Android universe.
+- [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - 将应用程序屏幕截图包裹在真实设备的插图中.
+- [Android UI design resources](https://androiduiux.com/free-design-resources/) - 为您提供来自 UI/UX 方面的 Google 开发者专家的各种设计资源.
+- [Pencil Project](https://pencil.evolus.vn/) - 一个开源原型设计软件.
+- [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Derek Banas 的视频教程.
+- [android-blogs](https://github.com/vbauer/android-blogs) - 列出有关 Android 的博客.
+- [Future Studio](https://futurestud.io/tutorials/tag/android) - 关于 Retrofit、Picasso、Glide 和 Gson 的广泛 Android 教程.
+- [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) - 关于 Android 开发提示和技巧的备忘单.
+- [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - 准备考试的材料集合.
+- [Google Developers Training](https://developer.android.com/courses/) - Google Developers 官方培训页面列出了各种有用的学习资源，供初学者和经验丰富的开发人员使用.
+- [Mindorks](https://mindorks.com/) - 成为一个完整而快乐的 Android 开发者.
+- [AndroidVille](https://ayusch.com/)  - 成为更好的 Android 工程师. 一个致力于 Android 开发的网站，涵盖高级主题，例如 RxJava、Android Zygote 等等.
+- [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - 关于 Android 世界新开发和更新的每周时事通讯.
 
 ### Code examples
-- [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
-- [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - Example about MVVM (Model View ViewModel) Pattern.
-- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
-- [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) - Learn How to use Google Map API for Android from Basic to Advance with complete examples.
-- [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) - Android Sample App using modular, clean, scalable, testable Architecture written in Kotlin following the best practices with Jetpack.
+- [Android Architecture Blueprints](https://github.com/android/architecture-samples) - Android 架构蓝图项目展示了帮助解决或避免常见 android 问题的策略.
+- [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - 关于 MVVM（模型视图视图模型）模式的示例.
+- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - 关于 VIPER（View Interactor Presenter Entity Router）模式的示例.
+- [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) - 通过完整示例了解如何使用 Google Map API for Android 从基础到高级.
+- [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) - Android 示例应用程序使用 Kotlin 编写的模块化、干净、可扩展、可测试的架构，遵循 Jetpack 的最佳实践.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/) is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
-- [Android Developers Backstage](http://androidbackstage.blogspot.com/) is a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
-- [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) is a video based podcast, where they have bite-sized conversations with people from the Android community.
-- [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) a podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin and wonderful guests!
-- [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
-- [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
-- [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
+- [Fragmented](https://fragmentedpodcast.com/) 是 Android 开发者播客，Donn Felker 和 Kaushik Gopal 在其中谈论构建优秀的软件和成为更好的 Android 开发者.
+- [Android Developers Backstage](http://androidbackstage.blogspot.com/) 是 Android 开发者的播客. 该节目由 Android 工程团队的开发人员主持，涵盖了 Android 程序员感兴趣的主题，并与 Google Android 团队的工程师进行了深入讨论和访谈.
+- [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) 是一个基于视频的播客，他们在其中与 Android 社​​区的人们进行简短的对话.
+- [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) 与 Hannes Dorfmann、Artem Zinnatullin 和精彩嘉宾一起制作的关于 Android 开发的播客！
+- [Talking Kotlin](https://talkingkotlin.com/) - 关于 Kotlin 等的播客.
+- [Android Authority](https://www.androidauthority.com/podcast/) 是每周一次的 Android 播客，由 Android Authority 团队的 Adam Doud、Joe Hindy 和 Jonathan Feist 主持.
+- [Android Central](https://www.androidcentral.com/podcast) - 是由 Android Central 团队主持的每周 Android 播客.
 
 ### More lists of libraries
-- [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
-- [Square libraries](https://square.github.io/) - Multiple high quality libraries by square.
-- [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
-- [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
+- [The Android Arsenal](https://android-arsenal.com/) - 大量的安卓库
+- [Square libraries](https://square.github.io/) - 多个高质量的图书馆.
+- [Awesome Android @LibHunt](https://android.libhunt.com) - 您的首选 Android 工具箱.
+- [Android Store](https://mindorks.com/android/store) - 搜索 Android 库、项目和工具.
 
 ## Development Alternatives
 
-My personal recommendation is (for now) to use the android api to build a native app. Scala can help to build this native apps with cleaner code but it adds to many methods (Multidex required). Kotlin is a modern language with 100% interoperatibility with java projects **without multidex**. But there are also use cases where alternatives like cross-platform development can be useful.
+我个人的建议是（目前）使用 android api 构建本机应用程序.  Scala 可以帮助使用更清晰的代码构建此原生应用程序，但它增加了许多方法（需要 Multidex）.  Kotlin 是一种现代语言，与 java 项目 100% 互操作性**没有 multidex**. 但也有一些用例，其中跨平台开发等替代方案可能会有用.
 
 ### C&#35;
 
@@ -447,46 +446,46 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### HTML, CSS and Javascript
 
-- [PhoneGap](https://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
-- [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
-- [NativeScript](https://www.nativescript.org/) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
-- [React Native](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
-- [Ionic Framework](https://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
-- [Apache Cordova](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
-- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative. 
+- [PhoneGap](https://phonegap.com) - Adob​​e 的开源框架，用于使用 HTML、CSS 和 JavaScript 创建跨平台移动应用程序.
+- [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - 使用 JavaScript 创建“本地”跨平台应用程序的开源框架.
+- [NativeScript](https://www.nativescript.org/) - 一个开源框架，用于从单个代码库使用 JavaScript 构建本机 iOS 和 Android 应用程序.
+- [React Native](https://github.com/facebook/react-native) - 用于使用 Facebook 的 React 构建本机应用程序的框架.
+- [Ionic Framework](https://ionicframework.com) - 一个框架，用于使用 AngularJS 使用针对移动设备优化的 HTML、CSS 和 JS 构建混合应用程序.
+- [Apache Cordova](https://github.com/apache/cordova-android) - 基于 Cordova 的应用程序的核心是使用 Web 技术编写的应用程序：HTML、CSS 和 JavaScript.
+- [Capacitor](https://github.com/ionic-team/capacitor)  - 为 iOS、Android 和网络构建跨平台的原生渐进式 Web 应用程序. 非常有前途的 Cordova 替代品. 
 
 ### Lua
-- [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
+- [Corona SDK](https://coronalabs.com/product/) - 创建原生 iOS 和 Android 应用程序（尤其是游戏）的框架.
 
 ### Scala
-- [Scaloid](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.
-- [Macroid](https://github.com/47deg/macroid) - A modular functional UI language for Android.
+- [Scaloid](https://github.com/pocorall/scaloid) - 使用 Scala 进行不那么痛苦的 Android 开发的库.
+- [Macroid](https://github.com/47deg/macroid) - 适用于 Android 的模块化功能 UI 语言.
 
 ### Groovy
-- [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
-- [Groovy Language Support for Android](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
+- [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Android 上的 Groovy 简介.
+- [Groovy Language Support for Android](https://github.com/groovy/groovy-android-gradle-plugin) - 用于为 Android 编译 Groovy 的 Gradle 插件.
 - [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
-- [Anko](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
-- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
-- [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
-- [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - Set of programming challenges thats helps to improve whiteboard coding and problem-solving skills.
-- [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
-- [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
-- [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - A base project using the Uncle Bob's clean architecture with Kotlin language and the latest Android technologies.
-- [Koin](https://insert-koin.io/) - Lightweight dependency injection framework for Kotlin
+- [Anko](https://github.com/Kotlin/anko) - 由 JetBrains 用 Kotlin 编写的适用于 Android 的 DSL.
+- [Kotterknife](https://github.com/JakeWharton/kotterknife) - 基于 ButterKnife 用 Kotlin 编写的 Android 视图注入
+- [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - 一些用 Kotlin 编写的基本 Android 代码示例.
+- [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一组有助于提高白板编码和解决问题技能的编程挑战.
+- [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级库提供有用的扩展以消除 Android SDK 中的样板代码.
+- [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序帮助用户轻松保存链接，并且可以每周导出到 Evernote.
+- [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - 使用 Uncle Bob 的干净架构和 Kotlin 语言和最新 Android 技术的基础项目.
+- [Koin](https://insert-koin.io/) - Kotlin 的轻量级依赖注入框架
 
 ### Flutter
-- [Flutter](https://flutter.dev/) - Google 的移动应用 SDK 可在非常快的时间内为 Android 和 iOS 提供高质量的原生界面。
+- [Flutter](https://flutter.dev/) - Google 的移动应用程序 SDK，可在非常短的时间内为 Android 和 iOS 提供高质量的本机界面.
 
 ## Performance
-- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
-- [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
+- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - 用于性能优化的精彩 Android 教程、视频和工具列表.
+- [Booster](https://github.com/didi/booster) - Booster 是 Android 应用程序的优化工具包.
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+其他非常棒的列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.
 
 ## Contributing
 
-<i>Your contributions are always welcome!</i><b>随时欢迎您的贡献！</b> <i>Please read the</i><b>请阅读</b> [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) first.
+随时欢迎您的贡献！ 请阅读 [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) 第一的.

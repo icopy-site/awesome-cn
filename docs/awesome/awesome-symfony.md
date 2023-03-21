@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sitepoint-editors/awesome-symfony"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 很棒的列表 [Symfony](http://symfony.com) 捆绑包、实用程序和资源.
 
@@ -47,7 +46,7 @@
 * [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - 这个包提供了一个简单的结构来运行 ajax 操作.
 * [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - 这个包只包含 Symfony WebTestCase 的自以为是的扩展.
 * [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - 这个包包括一个控制器，带有清除各种缓存的操作.
-* [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - 一组有用的控制器注释.
+* [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - Set of useful Controller annotations.
 * [DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - 基于 Action-Domain-Responder 模式的 Symfony 控制器系统的替代品.
 * [http-bundle](https://github.com/iltar/http-bundle) - 提供额外的 HTTP 相关功能.
 * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - 提供高级调试工具.
@@ -64,7 +63,7 @@
 * [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - 使用随时可用的统计信息轻松监控您的 symfony2 生产环境.
 * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - 集成 TagDebug 库以检查和调试标签.
 * [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - 显示 Twig 中的内容.
-* [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
+* [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - 轻松开发定制的、用户友好的错误页面.
 * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - 在网络分析器中添加路由、容器、资产和树枝信息.
 * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) -XHProf 包.
 
@@ -141,7 +140,7 @@
 * [highcharts-bundle](https://github.com/misd-service-development/highcharts-bundle) - 集成 PHP Highcharts.
 * [HTMLPurifierBundle](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier 是一个用 PHP 编写的符合标准的 HTML 过滤器库.
 * [IbrowsWizardAnnotationBundle](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - 给 Symfony2 控制器一个带有注释的简单向导/工作流.
-* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop 允许您在 Symfony 应用程序中裁剪图像，这个包添加了一个新的表单字段类型.
+* [ImageCropBundle](https://github.com/anacona16/ImageCropBundle) - ImageCrop 允许您在 Symfony 应用程序中裁剪图像，这个包添加了一个新的表单域类型.
 * [JMDUnoconvBundle](https://github.com/mops1k/JMDUnoconvBundle) - 提供通过 unoconv (LibreOffice) 通过 php-unoconv 库将文件从一种格式转换为另一种格式的门的捆绑包.
 * [KayueEssenceBundle](https://github.com/kayue/KayueEssenceBundle) - 该包将 Essence 库（一个 oEmbed 库）集成到 Symfony 2 中.
 * [KitpagesDataGridBundle](https://github.com/kitpages/KitpagesDataGridBundle) - 这个包提供了一个简单的数据网格包.
@@ -229,7 +228,7 @@
 * [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - 管理存储在数据库中的配置设置，并使它们可以通过 Symfony 2 项目中的服务访问.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - 提供高级依赖注入功能.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - 一个为服务参数提供自动装配的包.
-* [PHP-DI](http://php-di.org) - 人类的依赖注入容器.
+* [PHP-DI](http://php-di.org) - The dependency injection container for humans.
 
 ## Storage
 
@@ -248,7 +247,7 @@
 * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - 集成晶圆.
 * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) - Doctrine 的 MySQL 函数：RAND()、ROUND() DATE()、DATE_FORMAT().
 * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - 集成 Flysystem.
-* [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
+* [RelationBundle](https://github.com/Ph3nol/RelationBundle)  - 捆绑管理模型/实体之间的关系.  （不再维护）
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) - 捆绑以将 Redis 集成到您的应用程序中.
 * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) - 这个包提供了 DoctrineExtensions 的集成.
 * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) - 一个为 ORM 和 ODM 实体和面向对象的 javascript 地图渲染提供地理特征的包.
@@ -289,7 +288,7 @@
 
 * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - 提供 FilterService 允许用户使用 Annotations 在实体中实现输入过滤.
 * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - 确保强密码的验证器.
-* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
+* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - 用于 VATIN 库的 Symfony2 包（验证增值税识别号）.
 
 ## Web Services
 
@@ -308,7 +307,7 @@
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - 添加了基于简单的 ACL 样式的每个 URL 配置添加与 CORS 相关的标头的能力.
 * [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) - 通过注释轻松地为您的控制器/操作添加速率限制.
 * [RequestLimitBundle](https://github.com/zim32/Symfony2-RequestLimitBundle) - 使用此捆绑包，您可以轻松限制对您的应用程序的请求.
-* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - 有助于开发 REST API 的捆绑包.
+* [ResourceBundle](https://github.com/ProgrammingAreHard/ResourceBundle) - 有助于开发 REST API 的捆绑软件.
 * [SerializedResponseBundle](https://github.com/Pulpmedia/SerializedResponseBundle) - 一个简单的包，提供一种简单的方法来发送带有注释的序列化对象的 json/xml/yaml 响应.
 * [SRIORestUploadBundle](https://github.com/sroze/SRIORestUploadBundle) - 一个 symfony 包，用于处理 REST API 上的多种上传方式.
 

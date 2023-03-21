@@ -1,8 +1,7 @@
 <div class="github-widget" data-repo="paralax/awesome-honeypots"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Honeypots [![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-很棒的蜜罐精选列表，加上相关组件等等，分为 Web、服务等类别，重点放在免费和开源项目上.
+一个精选的蜜罐列表，加上相关组件等等，分为 Web、服务等类别，重点放在免费和开源项目上.
 
 每个类别中的项目没有预先确定的顺序，顺序是贡献. 如果你想贡献，请阅读 [guide](https://github.com/paralax/awesome-honeypots/blob/master/CONTRIBUTING.md).
 
@@ -108,7 +107,7 @@
 
 - ICS/SCADA蜜罐
 
-  - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
+  - [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA 蜜罐.
   - [GasPot](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST，常见于石油和天然气行业.
   - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - 为工业网络构建蜜罐.
   - [gridpot](https://github.com/sk4ld/gridpot) - 用于逼真的电网蜜网的开源工具.
@@ -181,7 +180,7 @@
   - [Sysdig](https://sysdig.com/opensource/) - 开源、系统级探索允许人们从正在运行的 GNU/Linux 实例中捕获系统状态和活动，然后保存、过滤和分析结果.
   - [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪 Windows 内核的工具.
 
-- 用于 USB 传播恶意软件的蜜罐
+- Honeypot for USB-spreading malware
 
   - [Ghost-usb](https://github.com/honeynet/ghost-usb-honeypot) - 用于通过 USB 存储设备传播的恶意软件的蜜罐.
 
@@ -223,7 +222,7 @@
 - 服务器
 
   - [Amun](http://amunhoney.sourceforge.net) - 漏洞仿真蜜罐.
-  - [Artillery](https://github.com/trustedsec/artillery/) - 旨在通过多种方法保护 Linux 和 Windows 操作系统的开源蓝队工具.
+  - [Artillery](https://github.com/trustedsec/artillery/) - Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
   - [Bait and Switch](http://baitnswitch.sourceforge.net) - 将所有恶意流量重定向到部分镜像您的生产系统的蜜罐.
   - [Bifrozt](https://github.com/Ziemeck/bifrozt-ansible) - 使用 ansible 自动部署 bifrozt.
   - [Conpot](http://conpot.org/) - 低交互服务器端工业控制系统蜜罐.
@@ -238,7 +237,7 @@
   - [SIREN](https://github.com/blaverick62/SIREN) - 半智能蜜罐网络 - HoneyNet 智能虚拟环境.
   - [TelnetHoney](https://github.com/balte/TelnetHoney) - 简单的 telnet 蜜罐.
   - [UDPot Honeypot](https://github.com/jekil/UDPot) - 简单的 UDP/DNS 蜜罐脚本.
-  - [Yet Another Fake Honeypot (YAFH)](https://github.com/fnzv/YAFH) - 用 Go 编写的简单蜜罐.
+  - [Yet Another Fake Honeypot (YAFH)](https://github.com/fnzv/YAFH) - Simple honeypot written in Go.
   - [arctic-swallow](https://github.com/ajackal/arctic-swallow) - 低交互蜜罐.
   - [fapro](https://github.com/fofapro/fapro) - 假协议服务器.
   - [glutton](https://github.com/mushorg/glutton) - 都在吃蜜罐.
@@ -425,7 +424,7 @@
 
   - [Quechua](https://bitbucket.org/zaccone/quechua)
 
-- SIP服务器
+- SIP 服务器
 
   - [Artemnesia VoIP](http://artemisa.sourceforge.net)
 
@@ -477,7 +476,7 @@
   - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - PHP 5.x 脚本沙箱建立在 [funcall](https://pecl.php.net/package/funcall).
   - [dorothy2](https://github.com/m4rco-/dorothy2) - 用 Ruby 编写的恶意软件/僵尸网络分析框架.
   - [imalse](https://github.com/hbhzwj/imalse) - 集成的恶意软件模拟器和模拟器.
-  - [libemu](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
+  - [libemu](https://github.com/buffer/libemu) - Shellcode 仿真库，对 shellcode 检测很有用.
 
 - 沙盒即服务
 
@@ -493,7 +492,7 @@
   - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - 前端 Web 到 Dionaea 低交互蜜罐.
   - [Django-kippo](https://github.com/jedie/django-kippo) - 用于 kippo SSH 蜜罐的 Django 应用程序.
   - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - 用于可视化 Shockpot 蜜罐统计数据的全功能脚本.
-  - [Tango](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
+  - [Tango](https://github.com/aplura/Tango) - 带有 Splunk 的蜜罐智能.
   - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - 用于可视化 Wordpot 蜜罐统计数据的全功能脚本.
   - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - 用于显示蜜罐警报的简化 UI.
   - [honeypotDisplay](https://github.com/Joss-Steward/honeypotDisplay) - Flask 网站，显示从 SSH 蜜罐收集的数据.

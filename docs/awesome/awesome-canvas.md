@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="raphamorim/awesome-canvas"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Canvas
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -57,7 +56,7 @@
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • 关于使用画布创建星空延时天空的示例.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • 关于在画布中生成二维树的演示.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • 简单的三角函数可视化.
-* [tsParticles examples](https://codepen.io/tv/DPOage) 收集 [tsParticles](https://github.com/matteobruni/tsparticles) 粒子动画样本
+* [tsParticles examples](https://codepen.io/tv/DPOage) Collection of [tsParticles](https://github.com/matteobruni/tsparticles) 粒子动画样本
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • 基于块的HTML5 视频破坏，最好在基于webkit 的浏览器中观看.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • 雨刷用帆布接受生活.
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • 一个简单的画布示例，显示了洛伦兹吸引子
@@ -88,7 +87,7 @@
 - [Processingjs](http://ejohn.org/blog/processingjs/) 是一种数据可视化编程语言.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-- [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
+- [Proton](https://github.com/a-jie/Proton) 是一个轻量级且功能强大的 javascript 粒子引擎. 有了它你可以轻松打造出无数酷炫效果 
 - [Pts.js](https://ptsjs.org) - Pts 是一个用于可视化和创意编码的 JavaScript 库.
 - [Rough.js](https://roughjs.com/) - Rough.js 是一个图形库，可让您以类似手绘的粗略风格进行绘画
 - [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - 轻松地向网页添加多个响应性、可访问性和交互性的 &lt;canvas&gt; 元素

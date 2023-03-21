@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="agarrharr/awesome-cli-apps"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
@@ -47,7 +46,7 @@
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行界面.
-- [TTYtter](https://github.com/oysttyer/oysttyer) - 推特客户端.
+- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上智能且漂亮的 Twitter 客户端.
 - [tuir](https://gitlab.com/ajak/tuir) - 应该是 TUI.
 - [WeeChat](https://weechat.org/) - 快速、轻便且可扩展的聊天客户端.
@@ -138,7 +137,7 @@
 - [pm2](https://github.com/Unitech/pm2) - Node.js 的生产流程经理.
 - [ops](https://github.com/nanovms/ops) - Unikernel 编译和编排工具.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的假日志生成器，例如 apache-common、apache 错误和 RFC3164 系统日志.
-- [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
+- [isitfit](http://github.com/autofitcloud/isitfit) - 管理 AWS EC2 合理化.
 - [k9s](https://github.com/derailed/k9s) - 管理 Kubernetes 集群.
 - [PingMe](https://github.com/kha7iq/pingme) - 向多个消息传递平台和电子邮件发送消息/警报.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 将静态网站部署到 [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
@@ -257,7 +256,7 @@
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP、FTP、SFTP、BitTorrent 和 Metalink 下载实用程序.
 - [bitly-client](https://github.com/specious/bitly-client) - 有点客户.
 - [deadlink](https://github.com/nschloe/deadlink) - 查找文件中的死链接.
-- [crawley](https://github.com/s0rg/crawley) - Unix 方式的网络爬虫.
+- [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签.
 - [alex](https://github.com/get-alex/alex) - 捕捉麻木不仁、轻率的写作.
 
@@ -382,7 +381,7 @@
 - [jq](https://github.com/stedolan/jq) - JSON处理器.
 - [yq](https://github.com/kislyuk/yq) - YAML 处理器.
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML 处理器（如 jq/yq）.
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - Query/update YAML.
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - 查询/更新 YAML.
 - [ramda-cli](https://github.com/raine/ramda-cli) - 使用功能管道处理数据.
 
 ### JSON
@@ -532,10 +531,10 @@
 - [gifgen](https://github.com/lukechilds/gifgen) - 简单的高质量 GIF 编码.
 - [gifsicle](https://github.com/kohler/gifsicle) - 创建、操作和优化 GIF 图像和动画.
 - [ttygif](https://github.com/icholy/ttygif) - 将终端录音转换为动画 gif.
-- [ttygif](https://github.com/sugyan/ttygif) - ttyrec 到 gif.
+- [ttygif](https://github.com/sugyan/ttygif) - ttyrec to gif.
 - [ttystudio](https://github.com/chjj/ttystudio) - 一个终端到 gif 的记录器减少了头痛.
 - [asciinema](https://github.com/asciinema/asciinema) - asciinema.org 的终端会话记录器和配套应用程序.
-- [givegif](https://github.com/passy/givegif) - GIFs on the command line.
+- [givegif](https://github.com/passy/givegif) - 命令行上的 GIF.
 
 ### Image Conversion
 

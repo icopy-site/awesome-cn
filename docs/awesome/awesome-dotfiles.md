@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="webpro/awesome-dotfiles"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome dotfiles
 
 精选的点文件资源列表. 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
@@ -64,7 +63,7 @@
 
  | 标题 | 说明 | 聚焦 |
 | :------------------------------------------------------------------ | :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| [Bash it](https://github.com/Bash-it/bash-it)                        | 社区 bash 框架.  | 自动完成、主题、别名、自定义函数. 结构良好的框架.  |
+| [Bash it](https://github.com/Bash-it/bash-it)                        | 社区 bash 框架.  | 自动完成、主题、别名、自定义功能. 结构良好的框架.  |
 | [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)      |  macOS 的明智黑客默认设置 | 这里有很多优点，很棒的协作社区努力.  |
 | [Maximum Awesome](https://github.com/square/maximum-awesome)         |  vim 和 tmux 的配​​置文件 | 维姆，TMUX. 为 Mac OS X 构建.
 | [webpro's dotfiles](https://github.com/webpro/dotfiles)              |  macOS 点文件 |  Bash、Homebrew、Brew Cask、Git、Node.js、Hammerspoon.  |
@@ -86,7 +85,7 @@
  | 标题 | 说明 | 聚焦 |
 | :------------------------------------------------------- | :----------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)    | 社区鱼框架.  | 包括许多插件和主题，带有安装、自动更新和脚手架工具.  |
-| [Paul's dotfiles](https://github.com/paulirish/dotfiles)  | 带有大量很酷的自定义函数的丰富点文件 |  Fish、macOS、Homebrew、自定义 Shell 函数 |
+| [Paul's dotfiles](https://github.com/paulirish/dotfiles)  | 具有大量很酷的自定义函数的丰富点文件 |  Fish、macOS、Homebrew、自定义 Shell 函数 |
 | [rkalis's dotfiles](https://github.com/rkalis/dotfiles)   | 维护良好的点文件，具有 Fish、存储库管理和 Hammerspoon |  Fish、macOS、Homebrew、存储库管理、Hammerspoon |
 
 ### Ansible
@@ -98,11 +97,11 @@
 
 ## Tools
 
-- [Ansible](https://www.ansible.com) - Radically simple configuration-management, application deployment,
+- [Ansible](https://www.ansible.com) - 极其简单的配置管理、应用程序部署，
   任务执行和多节点编排引擎.
 - [bashdot](https://github.com/bashdot/bashdot) - 完全用 bash 编写的极简点文件管理框架.
 - [chezmoi](https://github.com/twpayne/chezmoi) - 跨多台机器安全地管理您的点文件.
-- [comtrya](https://github.com/comtrya/comtrya) - 本地主机的配置管理，用 Rust 编写，适用于 Linux，
+- [comtrya](https://github.com/comtrya/comtrya) - Configuration management for localhost, written in Rust, for Linux,
   BSD、macOS 和 Windows
 - [dotbare](https://github.com/kazhala/dotbare) - 使用 fzf 交互式管理点文件.
 - [dotbot](https://github.com/anishathalye/dotbot) - 引导您的点文件的工具.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="joaomilho/awesome-idris"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 
 
@@ -7,9 +6,9 @@
 
 [<img src="https://www.idris-lang.org/logo/logo.png" align="right" width="160">](https://www.idris-lang.org/)
 
-&gt;很棒的辅助清单 [Idris](https://www.idris-lang.org/) 资源.
+&gt; awesome辅助列表 [Idris](https://www.idris-lang.org/) 资源.
 
- Idris是具有依赖类型的通用纯函数式编程语言.  依赖类型允许类型以值为基础，这意味着可以在类型中精确指定程序行为的某些方面.  进行了汇编，并进行了急切的评估.  其功能受Haskell和ML影响.
+ Idris 是一种具有依赖类型的通用纯函数式编程语言. 从属类型允许类型基于值，这意味着可以在类型中精确指定程序行为的某些方面. 它是编译的，带有急切的评价. 它的特性受到 Haskell 和 ML 的影响.
 
 
 
@@ -26,7 +25,7 @@
 
 ### Books
 
-* [Type Driven Development With Idris](https://www.manning.com/books/type-driven-development-with-idris) -迄今为止最重要的书.
+* [Type Driven Development With Idris](https://www.manning.com/books/type-driven-development-with-idris) - 迄今为止出版的最重要的书.
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 * [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) -回购是 [here](https://github.com/idris-hackers/software-foundations).
@@ -34,56 +33,56 @@
 
 ### Papers
 
-* [Elaborator Reflection: Extending Idris in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/elab-reflection.pdf) -David Christiansen和Edwin Brady，2016年.
-* [Cross-platform Compilers for Functional Languages](https://eb.host.cs.st-andrews.ac.uk/drafts/compile-idris.pdf) -埃德温·布雷迪（Edwin Brady），2015年.
-* [Programming and Reasoning with Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf) -埃德温·布雷迪（Edwin Brady），2014年.
-* [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://pdfs.semanticscholar.org/1407/220ca09070233dca256433430d29e5321dc2.pdf) -埃德温·布雷迪（Edwin Brady），2013年.
-* [Programming and Reasoning with Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) -埃德温·布雷迪（Edwin Brady），2013年.
-* [Sequential decision problems, dependently typed solutions](http://eb.host.cs.st-andrews.ac.uk/writings/plmms13.pdf) -Nicola Botta，Cezar Ionescu和Edwin Brady，2013年.
-* [Programming in Idris: a tutorial](http://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf) -埃德温·布雷迪（Edwin Brady），2012年.
-* [Idris — Systems Programming Meets Full Dependent Types](https://eb.host.cs.st-andrews.ac.uk/writings/plpv11.pdf) -埃德温·布雷迪（Edwin Brady），2011年.
-* [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](http://eb.host.cs.st-andrews.ac.uk/writings/icfp10.pdf) -Edwin Brady和Kevin Hammond，2010年.
-* [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](http://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf) -Edwin Brady和Kevin Hammond，2010年.
-* [Domain Specific Languages (DSLs) for Network Protocols](http://eb.host.cs.st-andrews.ac.uk/drafts/ngna2009-dsl.pdf) -Saleem Bhatti，Edwin Brady，Kevin Hammond和James McKinna，2009年.
-* [Lightweight Invariants with Full Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/tfp08.pdf) -Edwin Brady，Christoph Herrmann和Kevin Hammond，2008年.
+* [Elaborator Reflection: Extending Idris in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/elab-reflection.pdf) - 大卫·克里斯蒂安森和埃德温·布雷迪，2016 年.
+* [Cross-platform Compilers for Functional Languages](https://eb.host.cs.st-andrews.ac.uk/drafts/compile-idris.pdf) - 埃德温布雷迪，2015 年.
+* [Programming and Reasoning with Side-Effects in Idris](https://eb.host.cs.st-andrews.ac.uk/drafts/eff-tutorial.pdf) - 埃德温布雷迪，2014 年.
+* [Idris, a General Purpose Dependently Typed Programming Language: Design and Implementation](https://pdfs.semanticscholar.org/1407/220ca09070233dca256433430d29e5321dc2.pdf) - 埃德温布雷迪，2013 年.
+* [Programming and Reasoning with Algebraic Effects and Dependent Types](https://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) - 埃德温布雷迪，2013 年.
+* [Sequential decision problems, dependently typed solutions](http://eb.host.cs.st-andrews.ac.uk/writings/plmms13.pdf) - Nicola Botta、Cezar Ionescu 和 Edwin Brady，2013 年.
+* [Programming in Idris: a tutorial](http://eb.host.cs.st-andrews.ac.uk/writings/idris-tutorial.pdf) - 埃德温布雷迪，2012 年.
+* [Idris — Systems Programming Meets Full Dependent Types](https://eb.host.cs.st-andrews.ac.uk/writings/plpv11.pdf) - 埃德温布雷迪，2011 年.
+* [Scrapping your Inefficient Engine: using Partial Evaluation to Improve Domain-Specific Language Implementation](http://eb.host.cs.st-andrews.ac.uk/writings/icfp10.pdf) - 埃德温·布雷迪和凯文·哈蒙德，2010 年.
+* [Correct-by-Construction Concurrency: using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols](http://eb.host.cs.st-andrews.ac.uk/writings/fi-cbc.pdf) - 埃德温·布雷迪和凯文·哈蒙德，2010 年.
+* [Domain Specific Languages (DSLs) for Network Protocols](http://eb.host.cs.st-andrews.ac.uk/drafts/ngna2009-dsl.pdf) - Saleem Bhatti、Edwin Brady、Kevin Hammond 和 James McKinna，2009 年.
+* [Lightweight Invariants with Full Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/tfp08.pdf) - Edwin Brady、Christoph Herrmann 和 Kevin Hammond，2008 年.
 
 ### Presentations
 
-* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) -Idris的创作者Edwin Brady的演讲.
+* [Idris: General Purpose Programming with Dependent Types](https://www.youtube.com/watch?v=vkIlW797JN8) - Idris 的创造者 Edwin Brady 的演讲.
 
 ### Projects
 
 * [GitHub's trending Idris repos](https://github.com/trending/idris)
-* [iridium](https://github.com/puffnfresh/iridium) -Xmonad与X11一起使用Idris进行抽象和配置.
-* [lightyear](https://github.com/ziman/lightyear) -用于Idris的解析器组合器.
-* [quantities](https://github.com/timjb/quantities) Idris中类型安全的物理计算和单位转换.
-* [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) -Idris的类型提供程序库.
-* [IdrisScript](https://github.com/idris-hackers/IdrisScript) -FFI绑定，可与不安全的JavaScript交互.
-* [idris-containers](https://github.com/jfdm/idris-containers) -在Idris语言中使用的各种数据结构.
-* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) -SQLite的有效绑定.
-* [idris-http](https://github.com/uwap/idris-http) -Idris的HTTP库.
-* [RingIdris](https://github.com/FranckS/RingIdris) -伊德里斯环求解器.
-* [specdris](https://github.com/pheymann/specdris) -Idris的测试框架.
-* [idris-config](https://github.com/jfdm/idris-config) -用于以Idris编写的各种配置文件的解析器.
-* [probability](https://github.com/BlackBrane/probability) -Idris中的概率计算.
-* [idris-protobuf](https://github.com/google/idris-protobuf) -在Idris中部分实现协议缓冲区.
-* [idris-free](https://github.com/idris-hackers/idris-free) -免费的Monad和与之配合使用的有用构造.
-* [idris-ct](https://github.com/statebox/idris-ct) -正式验证的类别理论库
-* [typedefs](https://github.com/typedefs/typedefs) -与编程语言无关的代数数据类型定义语言
+* [iridium](https://github.com/puffnfresh/iridium) - xmonad 与 X11 抽象和配置与 Idris.
+* [lightyear](https://github.com/ziman/lightyear) - Idris 的解析器组合器.
+* [quantities](https://github.com/timjb/quantities) Idris 中类型安全的物理计算和单位转换.
+* [idris-type-providers](https://github.com/david-christiansen/idris-type-providers) - Idris 的类型提供程序库.
+* [IdrisScript](https://github.com/idris-hackers/IdrisScript) - FFI 绑定与不安全的 JavaScript 世界交互.
+* [idris-containers](https://github.com/jfdm/idris-containers) - 用于 Idris 语言的各种数据结构.
+* [IdrisSqlite](https://github.com/david-christiansen/IdrisSqlite) - SQLite 的有效绑定.
+* [idris-http](https://github.com/uwap/idris-http) - Idris 的 HTTP 库.
+* [RingIdris](https://github.com/FranckS/RingIdris) - Idris 的环形求解器.
+* [specdris](https://github.com/pheymann/specdris) - Idris 的测试框架.
+* [idris-config](https://github.com/jfdm/idris-config) - 用 Idris 编写的各种配置文件的解析器.
+* [probability](https://github.com/BlackBrane/probability) - Idris 中的概率计算.
+* [idris-protobuf](https://github.com/google/idris-protobuf) - 在 Idris 中部分实现 Protocol Buffers.
+* [idris-free](https://github.com/idris-hackers/idris-free) - 免费的 Monads 和有用的结构来使用它们.
+* [idris-ct](https://github.com/statebox/idris-ct) - 形式化验证的范畴论库
+* [typedefs](https://github.com/typedefs/typedefs) - 与编程语言无关的代数数据类型定义语言
 
 ### Backends
 
-* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) -Idris的JVM字节码后端.
-* [idris-llvm](https://github.com/idris-hackers/idris-llvm) -LLVM后端.
-* [idris-erlang](https://github.com/lenary/idris-erlang) -Erlang后端.
-* [idris-malfunction](https://github.com/stedolan/idris-malfunction) -实验性故障（OCaml内部表示）后端.
+* [idris-jvm](https://github.com/mmhelloworld/idris-jvm) - Idris 的 JVM 字节码后端.
+* [idris-llvm](https://github.com/idris-hackers/idris-llvm) - LLVM 后端.
+* [idris-erlang](https://github.com/lenary/idris-erlang) - Erlang 后端.
+* [idris-malfunction](https://github.com/stedolan/idris-malfunction) - 实验性故障（OCaml 内部表示）后端.
 
 ### Build tools | Package managers
 
-- [Idris Rules](http://idris.build) -伊德里斯·巴兹尔规则
-- [Ikan](https://github.com/idris-industry/ikan) -idris的软件包管理器，在idris中
-- [Elba](https://github.com/elba/elba) -Idris的软件包管理员
-- [idream](https://github.com/idream-build/idream) -用于Idris的简单构建系统
+- [Idris Rules](http://idris.build) - Bazel 的 Idris 规则
+- [Ikan](https://github.com/idris-industry/ikan) - idris 的包管理器，在 idris 中
+- [Elba](https://github.com/elba/elba) - Idris 的包管理器
+- [idream](https://github.com/idream-build/idream) - 一个简单的 Idris 构建系统
 
 ### Community
 

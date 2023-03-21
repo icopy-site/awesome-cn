@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="tmcw/awesome-geojson"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 GeoJSON 实用程序将使您的生活更轻松.
@@ -27,7 +26,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson)：将 ramer-douglas-peucker 行简化应用于 JS 或 CLI 中的 geojson 特征或特征集合
 * [turf](https://github.com/Turfjs/turf): 空间操作和分析功能的集合
 * [turf_dart](https://github.com/dartclub/turf_dart): Dart 和 Flutter 的 turf.js 端口
-* [de9im](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
+* [de9im](https://github.com/dpmcmlxxvi/de9im): 用于空间 javascript 操作的快速函数集合
 * [winnow](https://github.com/dmfenton/winnow): 使用 javascript 对 geojson 运行 sql 查询
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): 为每个Feature添加一个唯一的id
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): 在 GeoJSON 中提取多边形的共享边界
@@ -76,7 +75,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): 从 Mapbox 矢量切片中提取 GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组 geojson 特征生成静态 rtree（使用 terraformer）
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): 将任何东西转换成任何东西
-  * [fiona](https://github.com/toblerity/fiona): 在 ogr 之上的漂亮的 python 界面
+  * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
 * [shp2json](https://github.com/substack/shp2json): 将 shapefile zip 存档转换为流式 GeoJSON
 * [togeojson](https://github.com/tmcw/togeojson): 将 GPX 和 KML 转换为 geojson
 * [tokml](https://github.com/mapbox/tokml): 将 GeoJSON 转换为 KML

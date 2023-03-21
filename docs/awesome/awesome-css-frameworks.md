@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="troxler/awesome-css-frameworks"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 很棒的 CSS 框架列表.  
@@ -36,7 +35,7 @@
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展、可缩放、基于 Sass 的 OOCSS 框架，适用于大型且持久的 UI 项目.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -146,7 +145,7 @@
   [Repo](https://github.com/uikit/uikit)
   | #LESS #SCSS
 
-- [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.  
+- [**Primer**](https://primer.style/) - 支持 GitHub 前端设计的 CSS 框架.  
   ![](https://img.shields.io/github/stars/primer/css.svg?style=social&label=Star)
   [Docs](https://primer.style/css/),
   [Repo](https://github.com/primer/css)
@@ -158,7 +157,7 @@
   [Repo](https://github.com/carbon-design-system/carbon)
   | #SCSS
 
-- [**Fomantic-UI**](https://fomantic-ui.com/) - 使用简洁的 HTML、直观的 javascript 和简化的调试，快速构建漂亮的网站.  
+- [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.  
   ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/fomantic/fomantic-ui/)

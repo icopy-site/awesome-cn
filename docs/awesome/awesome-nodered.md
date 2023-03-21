@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="naimo84/awesome-nodered"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Node-RED [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://nodered.org/"><img src="https://nodered.org/about/resources/media/node-red-hexagon.png" width="200" align="right" alt="Node-RED"></a>
 
 &gt; Node-RED 有用资源的精选列表.
@@ -69,7 +68,7 @@
 - [pi-gpiod](https://github.com/node-red/node-red-nodes/tree/master/hardware/pigpiod) - 允许远程访问的默认 PI GPIO 节点的替代方案.
 - [pi-mcp3008](https://github.com/node-red/node-red-nodes/tree/master/hardware/mcp3008) - 通过 SPI 总线读取 MCP300x 系列模数转换器芯片.
 - [pi-neopixel](https://github.com/node-red/node-red-nodes/tree/master/hardware/neopixel) - 直接驱动一条 NeoPixels.
-- [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) - Controls a Pimorini Unicorn HAT 8x8 LED display.
+- [pi-unicorn-hat](https://github.com/node-red/node-red-nodes/tree/master/hardware/unicorn) - 控制 Pimorini Unicorn HAT 8x8 LED 显示屏.
 - [pibrella](https://github.com/node-red/node-red-nodes/tree/master/hardware/Pibrella) - 控制一个 [Pibrella](https://pibrella.com/) 附加板.
 - [piface](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiFace) - [PiFace](https://www.piface.org.uk/) 接口模块.
 - [piliter](https://github.com/node-red/node-red-nodes/tree/master/hardware/PiLiter) - 控制 Pimorini Pi-LITER 8 LED 附加板.
@@ -112,7 +111,7 @@
 - [alexa-home-skill-v3](https://github.com/coldfire84/node-red-contrib-alexa-home-skill-v3) - 通过 Alexa 和 Google Home 控制事物.
     - [alexa-home-skill-v3-web](https://github.com/coldfire84/node-red-alexa-home-skill-v3-web) - Alexa 和 Google Home 的网络服务.
     - [alexa-home-skill-v3-lambda](https://github.com/coldfire84/node-red-alexa-home-skill-v3-lambda) - 用于 node-red-alexa-home-skill-v3-web 的 Lambda 函数.
-- [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel)  - 与 Alexa API 交互. 模拟常规行为、控制和查询您的设备.
+- [alexa-remote2-applestrudel](https://github.com/bbindreiter/node-red-contrib-alexa-remote2-applestrudel) - Interacting with the Alexa API. Emulates routine behaviour, control and query your devices.
 - [avr-yamaha](https://github.com/krauskopf/node-red-contrib-avr-yamaha) - 通过 YNCA 协议集成和控制 YAMAHA™ 音频/视频接收器.
 - [ccu](https://github.com/rdmtc/node-red-contrib-ccu) - 与 Homematic 连接，这是来自制造商 eQ-3 的一系列智能家居自动化硬件，在德国尤其受欢迎.
 - [deconz](https://github.com/deconz-community/node-red-contrib-deconz) - 通过 deCONZ 访问 Zigbee 3.0 (Z30)、Zigbee 家庭自动化 (ZHA) 和 Zigbee Light Link (ZLL) 灯.
@@ -192,7 +191,7 @@
 - [moment](https://github.com/totallyinformation/node-red-contrib-moment) - 使用 Moment.js 库生成格式良好的日期/时间字符串. 
 - [owntracks](https://github.com/hardillb/node-red-contrib-owntracks) - 将 Owntrack 消息转换为标准地理消息并处理加密位置.
 - [persist](https://github.com/DeanCording/node-red-contrib-persist) - 通过 Node-RED 重新启动和部署持久化数据.
-- [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) - Making Node-RED more resilient by adding self-healing capabilities.
+- [self-healing](https://github.com/jpdias/node-red-contrib-self-healing) - 通过添加自我修复功能使 Node-RED 更具弹性.
 - [state-machine](https://github.com/DeanCording/node-red-contrib-state-machine) - 环绕 JavaScript 状态机以实现有限状态机.
 - [string](https://github.com/steveorevo/node-red-contrib-string) - 提供本机和扩展的可链接 JavaScript 字符串解析和操作方法.
 - [twc-weather](https://github.com/johnwalicki/node-red-contrib-twc-weather) - The Weather Company 和 Weather Underground Personal Weather Station API.

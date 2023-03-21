@@ -1,9 +1,8 @@
 <div class="github-widget" data-repo="deanhume/typography"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
 
 
-精选的网络排版文章精选.
+精彩的网络排版文章精选集.
 
 ## Articles
 
@@ -94,7 +93,7 @@
 - [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
 ## Featured
-- 这个 [site](https://deanhume.github.io/typography/) 出现在 [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) 在Google I / O 2015上.
+- 这 [site](https://deanhume.github.io/typography/) 被刊登在 [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) 在 2015 年谷歌 I/O 大会上.
 
 ![Google I/O Device Wall](https://raw.githubusercontent.com/deanhume/typography/master/images/device-wall-small.jpg)
 

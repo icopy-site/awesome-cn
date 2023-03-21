@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="hsiaoyi0504/awesome-cheminformatics"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cheminformatics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 化学信息学（也称为化学信息学、化学信息学和化学信息学）是使用计算机和信息技术来解决化学领域的一系列问题. [Wikipedia](https://en.wikipedia.org/wiki/Cheminformatics)
@@ -24,7 +23,7 @@
 ### Command Line Tools
 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - 化学工具箱旨在使用多种化学数据语言.
-* [MayaChemTools](http://www.mayachemtools.org/index.html) - Collection of Perl and Python scripts, modules, and classes that support day-to-day computational discovery needs.
+* [MayaChemTools](http://www.mayachemtools.org/index.html) - 支持日常计算发现需求的 Perl 和 Python 脚本、模块和类的集合.
 * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) - 通过包装优化进行分子动力学模拟的初始配置.
 * [BCL::Commons](http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1)
 
@@ -150,7 +149,7 @@
 * [Learncheminformatics.com](http://learncheminformatics.com/) - 印第安纳大学“化学信息学：化学数据世界导航”课程.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - 使用开源包和数据的计算机辅助药物设计 (CADD) 教学平台.
-* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of the University of Arkansas at Little Rock by Robert Belford 的化学信息学课程
+* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of the University of Arkansas at Little Rock by Robert Belford 教授
 * [BigChem](http://bigchem.eu/alllectures) - 所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID 项目，提供大型化学数据分析方面的创新教育.）
 * [Molecular modeling course](https://dasher.wustl.edu/chem478/) - 博士 [Jay Ponder](https://dasher.wustl.edu/)，华盛顿大学圣路易斯教授.
 * [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - 博士 [Jay Ponder](https://dasher.wustl.edu/)，华盛顿大学圣路易斯教授.
@@ -168,7 +167,7 @@
 * [Noel O'Blog](http://baoilleach.blogspot.tw/) - 的博客 [Noel O'Boyle](https://www.redbrick.dcu.ie/~noel/)，他是 NextMove Software 的高级软件工程师.
 * [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - 的博客 [Egon Willighagen](http://egonw.github.io/)，他是马斯特里赫特大学的助理教授.
 <!---
-* [Asad's Blog](https://chembioinfo.com/) - Syed Asad Rahman 的 Bolg，他是一位研究科学家 [Thornton group](http://www.ebi.ac.uk/research/thornton) 在 EMBL-EBI.
+* [Asad's Blog](https://chembioinfo.com/) - Bolg of Syed Asad Rahman, who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) 在 EMBL-EBI.
 -->
 * [steeveslab-blog](http://asteeves.github.io/) - 一些例子使用 [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - 为使用 Apple Macintosh 计算机的化学家提供资源.

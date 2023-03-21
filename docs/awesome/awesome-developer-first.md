@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="agamm/awesome-developer-first"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -126,7 +125,7 @@
 * [Vault](https://www.vaultproject.io/) - API 驱动的密钥管理.
 
 ## Feature Flags
-*Control production features with conditional flags in your code.*
+*使用代码中的条件标志控制生产功能.*
 * [Flagsmith](https://flagsmith.com/) - 简化了功能标志即服务平台.
 * [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台.
 * [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
@@ -189,7 +188,7 @@
 * [Interval](https://interval.com/) - 用于为您的产品构建内部工具和脚本的 SDK.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙之后）.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像用于生产力的格子花呢.
-* [zigi](https://www.zigi.ai/) - 通过 Slack 完成日常非编码任务的开发人员助手.
+* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
 ## Monitoring
 *监控您的生产应用程序.*

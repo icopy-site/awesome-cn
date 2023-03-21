@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ocaml-community/awesome-ocaml"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 很棒的 OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
 =============
 
@@ -124,7 +123,7 @@
 
 - **解析器和词法分析器生成器**：
   - [Opal](https://github.com/pyrocat101/opal) – 用于 OCaml 的独立单子解析器组合器.
-  - [Sedlex](https://github.com/ocaml-community/sedlex) 是一个现代的、与编码无关的（阅读：支持 Unicode 的）词法分析器生成器（基于 ppx 的继任者 [ulex](http://www.cduce.org/download.html#side).)
+  - [Sedlex](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir 是 OCaml 的 LR(1) 解析器生成器.
     - 看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) 有关使用 Menhir 和 Sedlex 生成有用解析器的更清晰示例，
     - ... 和 [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个简洁的项目，可以为您的语法生成可读的 LaTeX、HTML 或纯文本 EBNF 样式的文档.
@@ -190,7 +189,7 @@
 
 ## Developer Tools
 
-- [Try OCaml](https://try.ocamlpro.com/) – Try OCaml in your web browser.
+- [Try OCaml](https://try.ocamlpro.com/) – 在您的网络浏览器中试用 OCaml.
 - [BetterOCaml](https://betterocaml.ml) – 一个高效、直观和跨平台的 Web IDE，您的 OCaml 代码可以在浏览器中解释和运行！
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – 在线编译和执行 OCaml 代码.
 - [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - 从您的 iPhone/iPad/Mac 学习和执行 OCaml 代码.
@@ -209,7 +208,7 @@
 - **编辑器集成**：
   - [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - 用于 OCaml 的 LSP 语言服务器，可与任何理解 LSP 的编辑器集成，例如 [VSCode](https://github.com/microsoft/vscode)、Vim 和 Emacs.
   - [merlin](https://github.com/ocaml/merlin) – Vim 和 Emacs 中 Ocaml 的上下文敏感完成.
-  - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+  - [tuareg](https://github.com/ocaml/tuareg) - Emacs 的 OCaml 模式，可以在 Emacs 中运行顶层和调试器.
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs 包通过 eldoc 提供 merlin 的功能.
   - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – 提供 OCaml 语言支持的扩展 [VSCode](https://github.com/microsoft/vscode)
   - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – 提供 OCaml 调试器的扩展 [VSCode](https://github.com/microsoft/vscode)
@@ -229,7 +228,7 @@
 
 - [99 problems](https://ocaml.org/learn/tutorials/99problems.html) .  99%的解决方案是 [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
-- [OCaml at Exercism](http://exercism.io/languages/ocaml)  – Exercism 是您进行深思熟虑的代码对话的场所. 探索简单性、惯用的语言特性和富有表现力的可读代码. [Solutions](https://github.com/exercism/xocaml).
+- [OCaml at Exercism](http://exercism.io/languages/ocaml)  – Exercism 是您进行深思熟虑的代码对话的地方. 探索简单性、惯用的语言特性和富有表现力的可读代码. [Solutions](https://github.com/exercism/xocaml).
 - [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - 本书的 OCaml 部分是使用 OCaml 解决常见编程问题的免费参考.
 
 ## Formal Software Verification
@@ -285,7 +284,7 @@
 - [lablqml](https://github.com/Kakadu/lablqml) – OCaml 的 QML Qt5 绑定.
 - [labltk](https://forge.ocamlcore.org/projects/labltk/)  — Tcl/Tk GUI 框架的接口. 在 ocaml &lt;= 4.01 的标准分布中.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl 是一个 OCaml 模块，提供到跨平台 SDL 库的精简绑定.
-- [Lambda-Term](https://github.com/ocaml-community/lambda-term)  – Lambda-Term 是一个用于操作终端的跨平台库. 它为键、鼠标事件、颜色以及一组小部件提供了抽象，以编写类似 curses 的应用程序.
+- [Lambda-Term](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
 - [Notty](https://github.com/pqwy/notty) - Notty 是 OCaml 的声明性终端库，围绕可组合图像的概念构建.
 - [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - 独立的 OCaml 绑定到 linenoise，OCaml 中简单的高级 readline 功能.
 
@@ -361,7 +360,7 @@
 - **工具和语言扩展**：
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – 用于多阶段编程的 OCaml 方言.
   - [Fan](http://zhanghongbo.me/fan/)  – Fan 是 OCaml 的编译时元编程系统，最初受到 Camlp4 的启发. 它是 OCaml 和 Lispy 宏的组合. 它与 OCaml 共享相同的具体语法.
-  - [camlp5](https://camlp5.github.io/) - Camlp5 是 OCaml 的预处理器漂亮打印机.
+  - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 是标准 OCaml 发行版的一部分，与 Camlp5 不同.
 
 ## Metrics
@@ -486,7 +485,7 @@
 
 - [bencode](https://github.com/rgrinberg/bencode) — Bencode（.torrent 文件格式）读取器/写入器.
 - [biniou](https://github.com/mjambon/biniou) – 可扩展的二进制数据格式，如 JSON 但速度更快.
-- [cbor](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) 解码器/编码器.
+- [cbor](https://github.com/ygrek/ocaml-cbor) — OCaml 本机 [CBOR](https://cbor.io/) 解码器/编码器.
 - [jsonm](http://erratique.ch/software/jsonm) — OCaml 的非阻塞流式 JSON 编解码器.
 - [xmlm](http://erratique.ch/software/xmlm) — 用于解码和编码 XML 数据格式的流式编解码器.
 - [yojson](https://github.com/ocaml-community/yojson) — 针对 JSON 格式优化的解析和打印库.
@@ -562,7 +561,7 @@
   - [Lambda Soup](https://github.com/aantron/lambda-soup) - 使用 CSS 选择器进行功能性 HTML 抓取和操作，就像 Python 的 Beautiful Soup.
   - [Markup.ml](https://github.com/aantron/markup.ml) - 错误恢复流式 HTML5 和 XML 解析器、序列化器.
   - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api 旨在简化为 Javascript 库创建 OCaml 绑定.
-  - [routes](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
+  - [routes](https://github.com/anuragsoni/routes) - OCaml/ReasonML 网络应用程序的类型化路由.
 
 - **开源项目**：
   - [Cumulus](https://github.com/Cumulus/Cumulus) – 黑客新闻，例如使用 OCaml 框架 Ocsigen 的网站

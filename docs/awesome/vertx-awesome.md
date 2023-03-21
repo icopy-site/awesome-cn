@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="vert-x3/vertx-awesome"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-logo.svg?sanitize=true" align="right" width="250">](http://vertx.io)
 
-*Awesome Vert.x* 是一个很棒的框架、库或其他相关组件的列表
+*Awesome Vert.x* is a list of awesome frameworks, libraries or other components related to
 [Vert.x](https://github.com/eclipse/vert.x).
 
 如果您希望您的组件出现在这里，请向此存储库发送拉取请求以添加它.
@@ -139,7 +138,7 @@
 
 ## Middleware
 
-* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) component for bridging Camel with the Vert.x event bus.
+* [Apache Camel](https://camel.apache.org/components/vertx-component.html) - [Apache Camel](http://camel.apache.org/) 用于桥接 Camel 与 Vert.x 事件总线的组件.
 * [Gateleen](https://github.com/swisspush/gateleen) - 基于 Vert.x 的中间件库，用于构建高级 JSON/REST 通信服务器.
 * [Gravitee.io](https://gravitee.io) - 一个OSS API平台，包括一个API网关和一个基于Vert.x Core / Vert.x Web等模块的OAuth2 / OIDC授权服务器.
 * [API Framework](https://github.com/vinscom/api-framework)  - 基于 Vert.x 和 Glue 的微服务框架消除了独立应用程序和无服务应用程序之间的区别. 所有服务都可以在独立服务器中运行，但如果需要，可以使用相同的代码库将任何服务作为无服务器应用程序运行.
@@ -213,7 +212,7 @@
 
 ## Search Engines
 
-* [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - Vert.x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理服务.
+* [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) - 垂直 x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理服务.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) - 带有事件总线代理的 Vert.x 3 Solr 服务.
 
 ## Template Engines
@@ -228,7 +227,7 @@
 ## Config
 
 * [Vert.x Config AWS SSM Store](https://github.com/Finovertech/vertx-config-aws-ssm) - A [config store](http://vertx.io/docs/vertx-config/java/) 从中检索配置值的实现 [AWS EC2 SSM Parameter Store](https://aws.amazon.com/ec2/systems-manager/parameter-store/).
-* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
+* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticles.
 
 ## Dependency Injection
 
@@ -260,7 +259,7 @@
 * [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - 从 Vert.x 生成子进程.
 * [vertx-redisques](https://github.com/swisspush/vertx-redisques) - 用于 Vert.x 的高度可扩展的 redis-persistent 排队系统.
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) - 一个 OpenStack Swift 兼容的分布式对象存储服务器，可以使用 Vert.x 实现的最少资源来服务和安全地存储数十亿个大小文件.
-* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
+* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticles.
 * [GDH](https://github.com/maxamel/GDH) - 建立在 Vert.x 之上的通用 Diffie-Hellman 密钥交换 Java 库.
 * [vertx-values](https://github.com/imrafaelmerino/vertx-values) - 从发送不可变和持久的 JSON [json-values](https://github.com/imrafaelmerino/json-values) 穿过事件总线.
 
@@ -289,7 +288,7 @@
 
 ## Deployment
 
-* [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) -（无缝）部署到基于 AWS 的 Vert.x 应用程序集群.
+* [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
 
 ## Utilities
 

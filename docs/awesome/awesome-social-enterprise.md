@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="RayBB/awesome-social-enterprise"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Social Enterprise [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 深入社会企业世界的资源 
 
@@ -63,7 +62,7 @@
 
  | 标题 | 作者| 年份 | 备注 |
 |-------|--------|------|-------|
-| Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
+ | 社会企业家精神：每个人都需要知道的事 | 大卫·伯恩斯坦 |  2010 | 很好地介绍了社会企业家精神. 简短而亲切，对常见问题有很多很好的回答.  |
 | [Ladderworks books](https://www.ladderworks.co/)  | 各种|  2022 | 年多样化的图画书帮助超过一百万的孩子成为社会企业家.  |
  | 成为社会企业家：起步、扩大规模并保持真实 | 迈克尔·戈登 |  2019 |  | 
 
@@ -213,7 +212,7 @@ Q：你喜欢社会企业的哪些方面？
  A：我想关注组织结构而不是组织内的个人. 社会企业家精神可以指任何事物，从倡导社会事业的大型组织到从事社区发展的独立人士. 虽然这两者都很重要且有价值，但这是一种面向对事物的组织方面感兴趣的人的资源.
 
 问：社会企业与非营利组织有何不同？  
-答：社会企业可以是非营利组织. 虽然非营利组织通常关注社会影响，但它们可能不会产生任何收入来资助自己.
+A: A social enterprise may be a nonprofit. While nonprofits are usually focused on social impact they may not be generating any revenue to fund themselves.
 
 问：为什么不直接将此信息添加到维基百科？  
 答：维基百科旨在包含本质上是百科全书的信息. 意思是，它应该以总结良好的形式包含最重要和经过验证的信息. 该文档更像是一本电话簿，试图链接到有用的相关资源.

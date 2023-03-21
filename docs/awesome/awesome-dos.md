@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="balintkissdev/awesome-dos"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome DOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 用于基于 x86 的个人计算机的操作系统，在 1980 年代和 90 年代初期流行.
@@ -39,7 +38,7 @@ platform.
 - [DOjS](https://github.com/SuperIlu/DOjS) - 适用于 MS-DOS、FreeDOS 或任何基于 DOS 的 Windows（如 95、98、ME）的 JavaScript 编程环境.
 - [Lua for DOS](https://archive.org/details/lua5.3.5) - Lua 5.3.5 的在线演示，在 Intel 80486 处理器上为 MS-DOS 编译.
 - [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc 模块 [micropython](https://github.com/micropython/micropython).
-- [perldos](https://perldoc.perl.org/perldos) - 适用于 DOS 的 Perl.
+- [perldos](https://perldoc.perl.org/perldos) - 用于 DOS 的 Perl.
 - [PythonD](http://www.caddit.net/pythond/) - 适用于 DOS 的 Python，包括多线程、网络和 OpenGL.
 
 ## Tutorials and programming resources
@@ -170,7 +169,7 @@ platform.
 - [Hangman](https://sourceforge.net/projects/hangman-dos/)  - 用 Basic 编写的 Hangman 克隆. 在至少 80286 处理器上运行并使用 EGA 图形.
 - [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 以代数为题材的CGA图形3D迷宫游戏.
   - [Source code download link](http://www.doshaven.eu/downloads/537)
-- [NetHack](https://github.com/NetHack/NetHack) - 原始人的后代 [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike game first released in 1987 available on multiple platforms.
+- [NetHack](https://github.com/NetHack/NetHack) - 原始人的后裔 [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike 游戏于 1987 年首次发布，可在多个平台上使用.
 - [Piskworks](https://github.com/berk76/piskworks) - 用 C 编写的 Gomoku 克隆.适用于 DOS、ZX Spectrum、ZX81、ZX80、APPLE1、AS400 和 Windows.
 - [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) - 用C编写的架空益智游戏.网页版使用 [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) 将 DOSBox 嵌入到 HTML5 中. 但是，原始可执行文件也可以使用 Open Watcom 下载和构建.
 - [Ptakovina](https://github.com/berk76/tetris) - 用 C 语言编写的俄罗斯方块克隆版.可在 DOS、Unix/Linux、ZX Spectrum 和 Windows 上运行.
@@ -178,7 +177,7 @@ platform.
 - [Tetris](http://www.doshaven.eu/game/tetris/) - 用汇编编写的俄罗斯方块克隆.
   - [Source code download link](http://www.doshaven.eu/downloads/373)
 - [Towers of Hanoi](https://github.com/sblendorio/hanoi-dos) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) 用 Turbo Pascal 编写的益智游戏. 最初于 1996 年发布.
-- [x86 pong](https://github.com/spacerace/x86-pong) - 用 C 编写的文本模式 Pong 克隆.在 DOS 下作为 PC-Booter 游戏运行.
+- [x86 pong](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
 - [zmiy](https://sourceforge.net/projects/zmiy/) - 用 C 编写的文本模式 Snake 克隆.在 8086 DOS 上运行.
 
 ### Freeware games with source code
@@ -199,15 +198,15 @@ platform.
 - [Descent](https://github.com/videogamepreservation/descent)  - 第一款具有完全真实 3D 图形的科幻 FPS/太空射击游戏. 用 C 语言和汇编语言编写.
 - [Descent II](https://github.com/videogamepreservation/descent2)  - 后裔的续集. 用 C 语言和汇编语言编写.
 - [Doom](https://github.com/id-Software/DOOM)  - 由 id Software 开发的科幻第一人称射击游戏，您可以在其中与来自火星地狱的恶魔作战. 由于依赖于获得许可的 DMX 声音库，因此无法发布 Doom 的特定于 DOS 的代码，因此它被清理并且只有 Linux 源代码在那里. 但是，Heretic 和 Hexen 项目包含原始 DOS 代码，其中删除了与 DMX 相关的代码.
-- [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html)  - 由 Apogee 开发的第一人称射击游戏，主角是毁灭公爵. 用 C 语言编写.使用 Watcom C/C++ 10.0 编译.
+- [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html) - FPS developed by Apogee featuring the iconic character Duke Nukem. Written in C. Compiled with Watcom C/C++ 10.0.
   - [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
 - [Heretic](https://github.com/OpenSourcedGames/Heretic) - 在 id Software 的 Doom 引擎上运行的黑暗幻想 FPS.
 - [Hexen: Beyond Heretic](https://github.com/OpenSourcedGames/Hexen) - Heretic 的间接续集.
-  - 原版 [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
+  - 原来 [SourceForge link](https://sourceforge.net/projects/heretic/files/) 对于异端/异教徒.
 - [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D)  - 由 id Software 开发的 FPS. 在 Catacomb 3D 和 Wolfeinstein 3D 之前，采用光线投射技术的伪 3D 图形. 用 C 语言和汇编语言编写.
 - [Quake](https://github.com/id-Software/Quake)  - 由 id Software 开发的 FPS 设置在全 3D 世界中. 用 C 编写.用 DJGPP 为 DOS 编译.
   - [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Fabien Sanglard 的代码分析.
 - [Rise of the Triad: Dark War](https://github.com/videogamepreservation/rott)  - Apogee 开发的第一人称射击游戏. 它是作为 Wolfenstein 3D 的后续游戏开发的，但经过修改并成为一款独立游戏. 使用经过大量修改的 Wolfenstein 3D 引擎. 用C写的.
-- [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - 由 David L. Clark 于 1984 年创建的横向卷轴射击游戏.该游戏涉及驾驶 Sopwith 双翼飞机，试图轰炸敌方建筑物，同时避开敌机和各种其他障碍物的火​​力.
+- [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - 由 David L. Clark 于 1984 年创建的横向卷轴射击游戏.该游戏涉及驾驶 Sopwith 双翼飞机，试图轰炸敌方建筑物，同时避开敌机和其他各种障碍物的火​​力.
   - [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - MaiZure 的代码分析.
 - [Wolfenstein 3D](https://github.com/id-Software/wolf3d)  - 由 id Software 开发的第一人称射击游戏，场景设置在纳粹德国监狱德军总部. 具有采用光线投射技术的伪 3D 图形. 用 C 语言和汇编语言编写.

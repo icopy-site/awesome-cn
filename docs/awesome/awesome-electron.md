@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-electron"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
@@ -171,7 +170,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现、收集和收听来自 YouTube 的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
-- [Pomotroid](https://github.com/Splode/pomotroid) - 计时器番茄.
+- [Pomotroid](https://github.com/Splode/pomotroid) - 定时器番茄.
 - [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的可视化工具.
 - [Etcher](https://github.com/resin-io/etcher) - 将操作系统映像闪存到 SD 卡和 USB 驱动器.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记记录.
@@ -223,7 +222,7 @@
 - [Freeter](https://freeter.io) - 自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) - 官方 WhatsApp 应用程序.
 - [CatLight](https://catlight.io) - 构建状态通知程序.
-- [Discord](https://discord.com) - Voice and text chat.
+- [Discord](https://discord.com) - 语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) - 用于为 Cocos2D-x 创建网络和本机游戏的游戏编辑器.
 - [Inkdrop](https://www.inkdrop.info) - 黑客的降价笔记本.
 - [Exodus](https://www.exodus.io) - 保护、管理和交换区块链资产，如比特币和以太坊.
@@ -310,7 +309,7 @@
 - [trilogy](https://github.com/citycide/trilogy) - 支持原生 C++ 和纯 JavaScript 后端的 TypeScript SQLite 数据库层.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - 阻止广告和追踪器.
 - [electronmon](https://github.com/catdad/electronmon) - 在开发过程中监控和重新加载进程外的应用程序.
-- [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式.
+- [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks)  - 自动更新服务. 免费用于开源项目.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - 构建可通过插件扩展的应用程序.
 

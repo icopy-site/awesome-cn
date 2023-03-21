@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="LappleApple/awesome-leading-and-managing"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## What This Is, and Where It Comes From
@@ -9,7 +8,7 @@
 
  - “很棒的资源集合！”  —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178)， 推特
 - “再次感谢您汇集如此巨大的资源！”-[Dave Golden](https://twitter.com/xdg), MongoDB 和贡献者
-- “在过去的几个月里，我反复寻找和使用它，并向许多其他人推荐了这些材料.所以谢谢你——它在很多方面产生了你无法想象的真正不同！:)”——Dave Igoe，来自 Slack
+- “在过去的几个月里，我反复寻找和使用它，并向许多其他人推荐了这些材料.所以谢谢你——它在很多方面产生了你无法想象的真正的不同！:)”——Dave Igoe，来自 Slack
 
  - “如果我看得更远，那就是站在巨人的肩膀上.”  — 艾萨克·牛顿爵士
  - “如果我没有看到那么远，那是因为巨人站在我的肩膀上.”  ——很多人，包括 Leigh Caplan

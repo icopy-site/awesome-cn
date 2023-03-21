@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="viatsko/awesome-vscode"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <br/>
 <div align="center">
@@ -84,7 +83,7 @@ VSCode 团队提供来自流行编辑器的键盘映射，使向 VSCode 的过�
 
 ## [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 
-> Popular Sublime Text key bindings for VS Code.
+&gt; 适用于 VS Code 的流行 Sublime Text 键绑定.
 
 ## [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
 
@@ -141,7 +140,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 - [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - 使用 clangd 为 VS Code 提供 C/C++ 语言 IDE 功能：代码完成、编译错误和警告、转到定义和交叉引用，包括管理、代码格式化、简单重构.
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - 在 GNU Global 工具的帮助下为 C/C++ 提供 Intellisense.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 为 C/C++（以及 TypeScript、JavaScript、Objective-C、Golang、Rust）使用提供语义补全 [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用 Clang 命令完成和诊断 C/C++/Objective-C.
+- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/jacobdufault/cquery) 支持数百万行代码库，由 libclang 提供支持. 交叉引用、完成、诊断、语义突出显示等.
 
 #### More
@@ -263,7 +262,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-&gt; 短绒棉 [markdownlint](https://github.com/DavidAnson/markdownlint).
+&gt; 短绒棉用于 [markdownlint](https://github.com/DavidAnson/markdownlint).
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -388,7 +387,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
- &gt; 允许您完全在编辑器中管理 GitHub Gists. 您可以打开、创建、删除、派生、加注星标和克隆 gist，然后无缝地开始编辑文件，就好像它们是本地文件一样. 它就像您自己的开发人员库，用于构建和引用代码片段、常用配置/脚本、与编程相关的注释/文档和交互式示例.
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -432,7 +431,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 ## [Browser Preview (deprecated)](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
- &gt; VS Code 的浏览器预览使您能够在可以调试的编辑器中打开真实的浏览器预览. 浏览器预览由 Chrome Headless 提供支持，并通过在新进程中启动无头 Chrome 实例来工作. 这提供了一种在 VS Code 中呈现 Web 内容的安全方式，并启用了有趣的功能，例如编辑器内调试等！
+ &gt; VS Code 的浏览器预览使您能够在您的编辑器中打开您可以调试的真实浏览器预览. 浏览器预览由 Chrome Headless 提供支持，并通过在新进程中启动无头 Chrome 实例来工作. 这提供了一种在 VS Code 中呈现 Web 内容的安全方式，并启用了有趣的功能，例如编辑器内调试等！
 
 ![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
@@ -474,7 +473,7 @@ Microsoft 创建了一系列使用 VS Code 和特定技术（主要是 Web）的
 
 &gt; 通过您最喜欢的键绑定切换任何 VS 代码设置.
 
-Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by shortcut:
+通过快捷方式切换 typescript.inlayHints.functionLikeReturnTypes.enabled 的示例：
 
 ![Toggle example demo](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/toggle-example.gif)
 
@@ -532,7 +531,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
- &gt; 此扩展将在编辑器中内联显示导入包的大小. 该扩展使用带有 babili-webpack-plugin 的 webpack 来检测导入的大小.
+> This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
 
 ## [Jira and Bitbucket](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
 
@@ -566,7 +565,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ## [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 
-> Override the regular Copy and Cut commands to keep selections in a clipboard ring
+&gt; 覆盖常规的复制和剪切命令以将选择保留在剪贴板环中
 
 ## [ngrok for VSCode](https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode)
 
@@ -765,7 +764,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ## [Wrap Selection](https://marketplace.visualstudio.com/items?itemName=konstantin.wrapSelection)
 
-> Wraps selection or multiple selections with symbol or multiple symbols
+&gt; 用符号或多个符号换行选择或多项选择
 
 ![Wraps selection or multiple selections with symbol or multiple symbols animation](https://github.com/gko/wrap/blob/master/features.gif)
 
@@ -954,7 +953,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ## [JFrog](https://marketplace.visualstudio.com/items?itemName=JFrog.jfrog-vscode-extension)
 
- &gt; 将项目依赖项的 JFrog Xray 扫描添加到您的 VS 代码 IDE. 它允许开发人员直接在他们的 VS 代码 IDE 中查看显示有关组件及其依赖项的漏洞信息的面板. 该扩展还允许开发人员在 CI 服务器上构建、测试和扫描代码时跟踪代码的状态.
+> Adds JFrog Xray scanning of project dependencies to your VS Code IDE. It allows developers to view panels displaying vulnerability information about the components and their dependencies directly in their VS Code IDE. The extension also allows developers to track the status of the code while it is being built, tested and scanned on the CI server.
 
 ![JFrog](https://raw.githubusercontent.com/jfrog/jfrog-vscode-extension/master/resources/readme/gifs/show_in_dependency_tree.gif)
 

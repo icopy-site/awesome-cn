@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-nodejs"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
@@ -181,7 +180,7 @@
 - [peerwiki](https://github.com/mafintosh/peerwiki) - BitTorrent 上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将 Torrent 视频流式传输到 Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 干净、可读、经过验证的比特币库.
-- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币图书馆.
+- [Bitcore](https://github.com/bitpay/bitcore) - 纯粹而强大的比特币库.
 - [PDFKit](https://github.com/foliojs/pdfkit) - PDF生成库.
 - [turf](https://github.com/Turfjs/turf) - 模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) - 使用使用 GitHub 私钥/公钥进行身份验证的 WebRTC 通过网络进行 p2p 管道传输.
@@ -206,14 +205,14 @@
 - [cpy](https://github.com/sindresorhus/cpy) - 复制文件.
 - [vtop](https://github.com/MrRio/vtop) - 更好的顶部，漂亮的图表.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
-- [is-up](https://github.com/sindresorhus/is-up) - 检查网站是打开还是关闭.
+- [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [is-online](https://github.com/sindresorhus/is-online) - 检查互联网连接是否正常.
 - [public-ip](https://github.com/sindresorhus/public-ip) - 获取您的公共 IP 地址.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 在终端上复制和粘贴.
 - [XO](https://github.com/xojs/xo) - 使用 JavaScript 快乐风格强制执行严格的代码风格.
 - [ESLint](https://github.com/eslint/eslint) - 用于 JavaScript 的可插入 linting 实用程序.
 - [David](https://github.com/alanshaw/david) - 告诉您包 npm 依赖项何时过期.
-- [http-server](https://github.com/http-party/http-server) - 简单的零配置命令行 HTTP 服务器.
+- [http-server](https://github.com/http-party/http-server) - Simple, zero-config command-line HTTP server.
 - [Live Server](https://github.com/tapio/live-server) - 开发具有 livereload 功能的 HTTP 服务器.
 - [bcat](https://github.com/kessler/node-bcat) - 管道命令输出到网络浏览器.
 - [normit](https://github.com/pawurb/normit) - 在您的终端中进行语音合成的谷歌翻译.
@@ -315,7 +314,7 @@
 - [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的视觉宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 在终端中将字符串截断为特定宽度.
 - [blessed](https://github.com/chjj/blessed) - 类似诅咒的图书馆.
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 交互式命令行提示符.
 - [yn](https://github.com/sindresorhus/yn) - 解析是/否喜欢的值.
 - [cli-table3](https://github.com/cli-table/cli-table3) - 漂亮的 unicode 表.
 - [drawille](https://github.com/madbence/node-drawille) - 在终端上使用 unicode 盲文字符绘制.
@@ -330,7 +329,7 @@
 - [cross-env](https://github.com/kentcdodds/cross-env) - 跨平台设置环境变量.
 - [shelljs](https://github.com/shelljs/shelljs) - 可移植的 Unix shell 命令.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - 阻止用户使用 root 权限运行您的应用程序.
-- [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+- [sparkly](https://github.com/sindresorhus/sparkly) - 生成迷你图`▂▃▅▂▇`.
 - [Bit](https://github.com/teambit/bit) - 跨存储库创建、维护、查找和使用小模块和组件.
 - [gradient-string](https://github.com/bokub/gradient-string) - 终端输出中漂亮的颜色渐变.
 - [oclif](https://github.com/oclif/oclif) - 带有解析器、自动文档、测试和插件的 CLI 框架.
@@ -650,12 +649,12 @@
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - 基于WebDriver协议的自动化测试.
 - [Jest](https://github.com/facebook/jest) - 无痛的 JavaScript 测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) - 自动浏览器测试.
-- [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器.
-- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - 端到端测试.
+- [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - End-to-end testing.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - 无头铬.
 - [Playwright](https://github.com/microsoft/playwright) - 具有单一 API 的无头 Chromium、WebKit 和 Firefox.
 - [nve](https://github.com/ehmicky/nve) - 在本地的多个版本的 Node.js 上运行任何命令.
-- [axe-core](https://github.com/dequelabs/axe-core) - 用于自动化 Web UI 测试的辅助功能引擎.
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - 提供通用数据库、Selenium Web 浏览器或任何其他可以在 Docker 容器中运行的轻量级一次性实例.
 
 ### Security
@@ -675,7 +674,7 @@
 
 - [babel-minify](https://github.com/babel/minify) - 基于 Babel 工具链的 ES2015+ 感知缩小器.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS) - JavaScript 压缩器.
-- [clean-css](https://github.com/clean-css/clean-css) - CSS minifier.
+- [clean-css](https://github.com/clean-css/clean-css) - CSS 压缩器.
 - [minimize](https://github.com/Swaagie/minimize) - HTML 压缩器.
 - [imagemin](https://github.com/imagemin/imagemin) - 图像缩小器.
 
@@ -692,7 +691,7 @@
 ### Email
 
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - 处理电子邮件的最快方式.
-- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
+- [emailjs](https://github.com/eleith/emailjs) - 将带有附件的文本/HTML 电子邮件发送到任何 SMTP 服务器.
 - [email-templates](https://github.com/forwardemail/email-templates) - 创建、预览和发送自定义电子邮件模板.
 - [MJML](https://github.com/mjmlio/mjml) - 旨在减少创建响应式电子邮件的痛苦的标记语言.
 
@@ -706,13 +705,13 @@
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能 Redis 支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能 Redis 消息队列.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 在没有样板的情况下构建基于 Amazon Simple Queue Service (SQS) 的应用程序.
-- [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+- [better-queue](https://github.com/diamondio/better-queue) - 无法使用 Redis 时的简单高效的作业队列.
 - [bullmq](https://github.com/taskforcesh/bullmq) - 持久作业和消息队列.
 
 ### Node.js management
 
 - [n](https://github.com/tj/n) - Node.js 版本管理.
-- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
+- [nave](https://github.com/isaacs/nave) - Node.js 的虚拟环境.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - 与 Python 的 virtualenv 兼容的 Node.js 虚拟环境.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Windows 的版本管理.
 - [nodenv](https://github.com/nodenv/nodenv)  - 类似于 Ruby 的 rbenv 的版本管理器. 它支持自动版本切换.
@@ -748,7 +747,7 @@
 
 ### Static site generators
 
-- [DocPad](https://github.com/docpad/docpad) - 具有动态能力和巨大插件生态系统的静态站点生成器.
+- [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
 - [docsify](https://github.com/docsifyjs/docsify) - 没有静态构建的 HTML 文件的 Markdown 文档站点生成器.
 - [Charge](https://github.com/brandonweiss/charge) - 使用 JSX 和 MDX 的自以为是的零配置静态站点生成器.
 
@@ -919,7 +918,7 @@
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展.
 - [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型制作.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型设计.
 
 ### Community
 

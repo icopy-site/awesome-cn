@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="gramantin/awesome-rails"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Rails
 
 &gt; 与 Ruby on Rails 相关的精选清单 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
@@ -237,7 +236,7 @@
 
 - [FAE](https://github.com/wearefine/fae/) - 由 FINE 开发的现代 CMS（使用 Rails 5.2）
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理（使用Rails 6.0）的智能流程和工作流自动化平台.
-- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
+- [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) - 市政基础设施检测应用程序（使用 Rails 4.2）.
 - [airCasting](https://github.com/HabitatMap/AirCasting)  - 一个使用智能手机（使用 Rails 6.1）记录、映射和共享健康和环境数据的平台.  - [:earth_africa:](https://www.habitatmap.org/aircasting)
 - [alaveteli](https://github.com/mysociety/alaveteli) - 一个用于公开信息自由请求的平台 - 使用 Rails 7.0 - [:earth_africa:](https://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone)  - 音乐托管、管理和分发应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://alonetone.com)
@@ -259,7 +258,7 @@
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) - 面向软件工程师的社交网络应用程序 - 使用 Rails 3.2
 - [coderwall (next)](https://github.com/coderwall/coderwall-next) - 面向软件工程师的社交网络应用程序 - 使用 Rails 5.0
 - [codetriage](https://github.com/codetriage/codetriage)  - 一个开源项目查找器应用程序（使用 Rails 7.0）.  - [:earth_africa:](https://www.codetriage.com/)
-- [commudle](https://github.com/commudle/commudle) - A community management app (using Rails 5.2).
+- [commudle](https://github.com/commudle/commudle) - 社区管理应用程序（使用 Rails 5.2）.
 - [contribulator](https://github.com/24pullrequests/contribulator) - 一个开源项目查找器应用程序 - 使用 Rails 5.1
 - [coursemology2](https://github.com/Coursemology/coursemology2) - 学习平台应用程序（使用 Rails 6.0）.
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) - 拼车应用程序 - 使用 Rails 5.0（已存档）.
@@ -291,7 +290,7 @@
 - [hitobito](https://github.com/hitobito/hitobito)  - 活动组织应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - 时间跟踪应用程序（使用 Rails 4.2）.
 - [human-essentials](https://github.com/rubyforgood/human-essentials)  - 必需品银行的库存管理系统（使用 Rails 7.0）.  - [:earth_africa:](https://humanessentials.app/)
-- [inaturalist](https://github.com/inaturalist/inaturalist)  - 自然和相关事物的社区应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.inaturalist.org)
+- [inaturalist](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 6.1). - [:earth_africa:](https://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) - 用于应用程序部署的控制面板应用程序（使用 Rails 4.1）.
 - [kanban](https://github.com/seanomlor/kanban) - Trello 克隆（使用 Rails 4.2）.
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - 一个动漫发现平台（使用 Rails 4.1）.
@@ -465,7 +464,7 @@
 - [default_rails_template](https://github.com/infinum/default_rails_template) - 用于生成新 Rails 应用程序的默认模板.
 - [docker-Rails-Template](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - 全新更新的“rails new”版本，预先配置为与 Docker 一起运行.
 - [docker-rails](https://github.com/ledermann/docker-rails)
-- [jumpstart(excid3)](https://github.com/excid3/jumpstart) - 轻松快速启动一个新的 Rails 应用程序，默认情况下具有一系列强大的功能.
+- [jumpstart(excid3)](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default.
 - [jumpstart(thomasvanholder)](https://github.com/thomasvanholder/jumpstart) - 用于设置 Rails 6、Tailwind 2.0 和 Devise 的模板.
 - [kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - 与 Tailwind CSS 捆绑在一起供个人使用的快速 Rails 6 应用程序模板.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  - 用于创建下一个 Saas 产品的 Rails 6 样板. 预加载了 graphQL、devise、JWT、CanCanCan、RailsAdmin、Rubocop、Rspec 等.

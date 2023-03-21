@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="lukasz-madon/awesome-remote-job"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
 
 精选清单 [remote working](https://en.wikipedia.org/wiki/Telecommuting) 资源.
@@ -278,7 +277,7 @@
 ## Podcasts
   1. [Building Remote Teams](https://www.buildingremoteteams.com/) - 针对已经在远程工作的人，并专注于远程工作的细微挑战.
   1. [Distributed](https://distributed.blog/podcast/)  - Matt Mullenweg 的采访播客. 专注于全球分布式工作和招聘人员的好处和挑战.
-  1. [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
+  1. [Free People Move Podcast](https://teleport.org/podcast/) - 主要采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) - 远程工作播客每两周发布一次，主持人 Jonathan Sharp 讨论围绕远程工作、远程团队、远程办公和数字游牧民族的机会、经验、文化和社区.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - 双周播客：Jeff Robbins 采访人们思考分布式团队、远程工作以及如何支持快乐、高效、自由放养的员工.
@@ -303,7 +302,7 @@
   1. [Auth0](https://auth0.com/jobs) - 开发人员的零摩擦身份验证和授权.
   1. [Authentic F & F](https://authenticff.com/) - 位于丹佛和明尼苏达的独立设计和技术工作室
   1. [Aurity](https://www.aurity.co/) - 100% 远程公司，专注于 React 和 React Native.
-  1. [Automattic](https://automattic.com/work-with-us/) - WordPress.com 和 Gravatar 的制造商
+  1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](https://www.avallain.com/)  - 教育技术和数字出版. 我们拥有工具和流程来实现技术增强教育可以提供的对人类潜能的积极影响
   1. [AvantStay](https://avantstay.com/careers) - 位于洛杉矶的短期租赁公司，拥有远程开发团队.
   1. [Axelerant](https://www.axelerant.com/careers)
@@ -328,7 +327,7 @@
   1. [Clevertech](https://clevertech.biz/careers) - 我们打造令人难以置信的、改变游戏规则的技术.
   1. [Close](https://jobs.close.com/) - 适用于初创公司和 SMB 的内部销售 CRM.
   1. [Codeship](https://codeship.com/jobs) - SaaS 持续交付
-  1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - 基于 Wine 的开源软件.
+  1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
   1. [Collabora](https://www.collabora.com/careers.html) - 基于开源软件的咨询.
   1. [Collage](https://www.collage.com/careers)  - 我们提供最简单、最通用的工具来帮助您将照片变成回忆.  100% 远程团队.
   1. [Compose](https://www.compose.io/jobs/)  - 将数据库作为一项服务进行管理. 在加利福尼亚州圣米特奥和阿拉巴马州伯明翰设有办事处的分布式团队.
@@ -364,14 +363,14 @@
   1. [Findify](https://findify.io/)  - 由机器学习和大数据提供支持的电子商务搜索. 团队分布在欧洲各地.
   1. [General Assembly](https://generalassemb.ly/careers) - 技术、商业和设计的体育和在线教育.
   1. [Ghost](https://ghost.org/about/#careers) - 发布平台.
-  1. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm 的托管微服务基础设施使企业能够大规模运行敏捷、有弹性的分布式系统，同时消除与管理复杂的底层基础设施相关的任务
+  1. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm 的托管微服务基础架构使企业能够大规模运行敏捷、有弹性的分布式系统，同时消除与管理复杂的底层基础架构相关的任务
   1. [Gigster](https://gigster.com/)  - 经过审查的全球前 5% 自由职业者网络. 提供 PM、开发、销售职位.
-  1. [HeadSpin](https://www.headspin.io/) - 世界上第一个数字体验 AI 平台，结合了云托管和本地全球设备基础设施、测试自动化以及 ML 驱动的性能和移动、网络、音频和视频体验分析的质量.
+  1. [HeadSpin](https://www.headspin.io/) - 世界上第一个数字体验 AI 平台，结合了云托管和本地全球设备基础设施、测试自动化以及 ML 驱动的移动、网络、音频和视频体验分析的性能和质量.
   3. [Gitbook](https://jobs.gitbook.com/)  - 基于git的发布工具链.  JavaScript、node.js、围棋.
   4. [GitHub](https://github.com/about/jobs)
   5. [GitLab](https://about.gitlab.com/jobs/) - GitHub 的竞争对手.
   6. [Gitee](https://gitee.com) - 中国的 GitHub 替代方案.
-  7. [Gradle](https://gradle.com/careers)  - 开源构建工具； 企业 SaaS 和内部部署. 完全远程.  Java、Groovy、科特林.
+  7. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
   8. [GrooveHQ](https://www.groovehq.com/about) - 服务台软件.
   9. [Hanzo](https://www.hanzo.co/about-us/careers-uk)  - 网络存档公司. 完全远程. 蟒蛇，AWS.
   10. [Harvest](https://www.getharvest.com/careers) - 时间跟踪软件.
@@ -408,7 +407,7 @@
   41. [Librato](https://www.solarwinds.jobs/) - 云监控.
   42. [Linaro](https://www.linaro.org/careers/) - ARM 上的开源工程.
   43. [Lincoln Loop](https://lincolnloop.com) - WebDev商店.
-  44. [Litmus](https://litmus.com/careers)  - 电子邮件专业人员的优化工具. 在波士顿和伦敦设有办事处，但近 50% 的团队成员远程办公.
+  44. [Litmus](https://litmus.com/careers)  - 电子邮件专业人员的优化工具. 在波士顿和伦敦设有办事处，但近 50% 的团队成员远程工作.
   45. [LiveChat](https://www.livechat.com/careers/jobs/) - 具有在线聊天、服务台软件和网络分析功能的在线客户服务软件
   46. [LivingSocial](https://jobs.groupon.com/)  - 全公司范围内对经验丰富的远程开发人员团队的支持. 很多自主权.
   47. [Logit.io](https://logit.io/about-us#careers) - 完全远程的第一家日志记录和指标管理公司，100% 的运营和开发基于远程
@@ -422,7 +421,7 @@
   55. [MCFTech](https://www.mcftech.com/careers/) - 帮助您成功经营业务的应用程序.
   56. [MeetEdgar](https://meetedgar.com/careers/)  - 自动社交分享. 美国远程.
   57. [Merico](https://merico.dev/) - 代码深度分析引擎.
-  58. [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
+  58. [Mixmax](https://careers.mixmax.com/) - 具有超能力的电子邮件.
   59. [Mobile Jazz](https://mobilejazz.com/)  - 我们是一支由高技能工程师、设计师和营销专家组成的敬业团队，其使命是建设一个更美丽的数字世界. 我们是一家远程友好型公司，总部位于巴塞罗那.
   60. [Modern Tribe](https://tri.be/careers)  - 具有现代风格的数字机构. 都是自由职业者. 都是专家.
   61. [MODLR](https://modlr.co) - MODLR 是用于关联财务规划流程的业务建模和协作规划工具
@@ -440,7 +439,7 @@
   73. [NodeSource](https://nodesource.com/about) - NodeSource 致力于为 Node.js 创建一个可持续的生态系统.
   74. [Nozbe](https://nozbe.com/careers) - 适用于 Mac、Windows、Linux、Android、iPad 和 iPhone 的 GTD 应用程序.
   75. [ofri](https://www.ofri.ch/job_openings) - 将房主与优质家居装修专业人士联系起来的瑞士在线市场.
-  76. [Olark](https://www.olark.com/jobs) - 聊天支持渠道.
+  76. [Olark](https://www.olark.com/jobs) - Chat support funnel.
   77. [onTheGo Systems](https://www.onthegosystems.com/jobs/) - WordPress 开发人员、支持者和营销工作.
   78. [OpenCraft](https://opencraft.com/) - Open edX 开发（免费软件 MOOC 项目）.
   79. [Parknav](https://parknav.com) - 使用人工智能的智能停车
@@ -455,7 +454,7 @@
   88. [Prezly](https://www.prezly.com/)  - SaaS 公关平台.  PHP、React、JS、Postgres.  100% 远程.
   89. [Prodperfect](https://prodperfect.com/)  - 根据实时用户数据自动进行 QA 测试. 远程优先组织，在波士顿和旧金山设有工作场所.
   90. [ProFinda](https://profinda.com/)  - 劳动力规划和优化.  100% 远程开发团队.  Ruby on Rails、React.js 和 Python. 公司位于英国.
-  91. [RainforestQA](https://www.rainforestqa.com/jobs/) - 按需 QA 即服务.
+  91. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
   92. [Real HQ](https://realhq.com)  - Agent Pronto 的制造商，该软件旨在帮助改善房屋买卖体验. 我们从一开始就很遥远，现在 50 多个遍布全球.  Ruby、Rails、React.js、iOS/Android.
   93. [RebelMouse](https://blog.rebelmouse.com/careers/)  - 社交发布平台.  Python、JS 和 iOS/Android 开发人员. 世界各地的团队.
   94. [Recurly](https://recurly.com/jobs/) - 基于订阅的业务的经常性计费管理
@@ -474,7 +473,7 @@
   107. [Shogun](https://getshogun.com/team)  - 构建和优化电子商务登陆页面.  Ruby/Rails、Go、JavaScript、React.  100% 远程.
   108. [Signal](https://www.signal.org/workworkwork/) - 这些人使梦幻般 [Signal app](https://www.signal.org) . 仅限美国.
   109. [Simple](https://www.simple.com/careers)
-  110. [Skyscrapers](https://skyscrapers.eu/jobs/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
+  110. [Skyscrapers](https://skyscrapers.eu/jobs/)  - 云托管服务和管理. 与多个云提供商（AWS、Digital Ocean、Linode 等）合作.  100% 远程.
   111. [SoftwareMill](https://softwaremill.com/join-us/)
   112. [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python远程开发公司
   113. [Songspace](https://songspace.com) 帮助音乐创作者与其专业团队协作、编目和共享作品
@@ -527,7 +526,7 @@
 
 ## Q&A
   1. Chegg导师： [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
-  1. Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
+  1.知乎： [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
   1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
   1.堆栈交换
     - 工作场所： [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
@@ -540,7 +539,7 @@
 1. [Remote Year](https://www.remoteyear.com/) - 旅行技术人员 1 年.
 1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作者.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
-1. [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
+1. [Hypelance](https://hypelance.com/) - 自由职业者和企业家数字社区论坛.
 
 ## Conferences
  1. [DNX Global](https://www.dnxfestival.com/) - 数字游牧会议.

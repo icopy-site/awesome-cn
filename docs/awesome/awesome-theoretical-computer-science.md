@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mostafatouny/awesome-theoretical-computer-science"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![banner](https://raw.githubusercontent.com/mostafatouny/awesome-theoretical-computer-science/master/./TCS-banner.png)
 ## Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 数学与计算机科学的交叉学科； 它以强调数学技术和严谨性而著称.
@@ -69,7 +68,7 @@
 ### Books<a name=theory_of_computation_computability_theory_books></a>
 #### Introductory<a name=theory_of_computation_computability_theory_books_introductory></a>
 - [Cutland. Computability: An Introduction to Recursive Function Theory](https://www.cambridge.org/highereducation/books/computability/E8F085FDBECB8280F7723D71C1D2EE1C) - 直观地，它解释了可计算函数的概念：一个函数，其值可以以有效或自动的方式计算.
-- [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - A concise, comprehensive, and authoritative introduction to contemporary computability theory, techniques, and results.
+- [Cooper. Computability Theory](https://www.routledge.com/Computability-Theory/Cooper-Cooper/p/book/9781584882374) - 对当代可计算性理论、技术和结果的简明、全面和权威的介绍.
 - [Davis. Computability and Unsolvability](https://www.amazon.com/Computability-Unsolvability-Prof-Martin-Davis/dp/0486614719) - 在这本经典著作中，戴维斯博士清晰地介绍了本科高等水平的可计算性，以满足专家和非专家的需求.
 #### Advanced<a name=theory_of_computation_computability_theory_books_advanced></a>
 - [Soare. Recursively Enumerable Sets and Degree](https://www.springer.com/gp/book/9783540666813)  - 它完整地说明了重新度的理论. 定义、结果和证明总是在正式展示之前得到明确的动机和解释； 证明的描述非常清晰和简洁.
@@ -156,7 +155,7 @@
 - [Susskind. Three Lectures on Complexity and Black Holes](https://link.springer.com/book/10.1007/978-3-030-45109-7)  - 提出并讨论了热力学与复杂性之间的重要联系. 以教学方式编写，作为对黑洞及其复杂物理解释的基本介绍
 ## Philosophy<a name=philosophy></a>
 ## Lecture Notes<a name=philosophy_lecture_notes></a>
-- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - 它考察了现代理论计算机科学与传统哲学问题的相关性，以及反过来，哲学可以为理论计算机科学做出什么贡献.
+- [6.893 Philosophy and Theoretical Computer Science. MIT](https://stellar.mit.edu/S/course/6/fa11/6.893/index.html) - It examines the relevance of modern theoretical computer science to traditional questions in philosophy, and conversely, what philosophy can contribute to theoretical computer science.
 ## Books<a name=philosophy_books></a>
 - [Knuth. Things a Computer Scientist Rarely Talks About](https://web.stanford.edu/group/cslipublications/cslipublications/site/1575863278.shtml) - 信仰与科学之间关系的一般说明.
 - [Floyd & Bokulich. Philosophical Explorations of the Legacy of Alan Turing: Turing 100](https://www.springer.com/gp/book/9783319532783) - 图灵在科学史和科学哲学中的地位.
@@ -173,7 +172,7 @@
 ### Books<a name=mathlogic_preliminaries_general_books></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - 扩展了高德纳 (Knuth) 的经典《计算机编程艺术》中的数学预备部分，但呈现方式更加悠闲，并且对个别主题的涵盖更加深入.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - 经典的面向数学的计算机科学介绍.
-- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - 理论计算机科学四分之一入门课程的教科书.
+- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - 一系列致力于数学主题及其与计算机科学的相关性.
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - 为专业计算机科学家提供的简明数学逻辑参考资料.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - 它精心挑选了学生在学习计算机科学的前两年最需要的材料.
@@ -220,7 +219,7 @@
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - 它解释了 Shafi 和 Silvio 的杰出工作以及他们的工作对密码学基础的影响.
 - [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - 庆祝 Laszlo Lovasz 的作品集，将离散数学与计算机科学联系起来.
 - [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6)  - 熵、搜索和复杂性领域的调查论文集. 它还包括搜索理论和量子源编码. 推荐给研究人员和学生.
-- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
+- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - 关于计算复杂性和量子计算交叉的调查.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - 一篇关于量子霸权的非凡论文.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - 计算复杂性的历史概述.
 - [CS Theory Events Aggregator](https://cstheory-events.org/) - CS 理论研讨会和学校的聚合器.
@@ -236,7 +235,7 @@
  - 80 年代的伯克利 - 采访伯克利理论计算机科学领域的杰出人物.  - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
 - [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - 填充计算理论的短视频.
  - Lex Podcast - 非正式讨论播客.  - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
-- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
+- [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - 研讨会的集合.
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) （也可以看看 [main website](https://cnchou.github.io/mini-course/)) - 可访问的迷你课程，介绍了 TCS 的高级故事及其与其他领域的交叉点.
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - 调查、教程、会议报告、活动、未解决的问题和解决方案、博士论文和有趣的贡献.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM 的官方理论计算机科学新闻提要.
@@ -274,7 +273,7 @@
 - [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - 一个关于建立新领域的人，具有不同背景和性格的先驱者的故事.
 - [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf)  - 它涵盖了一系列惊人的主题. 从古代的德谟克利特开始，它通过逻辑和集合论、可计算性和复杂性理论、量子计算、密码学、量子态的信息内容以及量子力学的解释取得进展.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality 呈现出惊人的综合、理性和乐观的世界观——这是认真对待现代科学和科学哲学最深刻思想的结果.
-- [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - 根据图灵的计算世界，交互式辅导程序，告诉命运多舛的恋人：一部小说.
+- [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel.
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) - 艾伦图灵关于可计算性和图灵机的历史性论文导览.
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694) - 采访时代最伟大的科学家，了解他们的灵感、发现和个人兴趣.
 ## Cheat Sheets<a name=other_resources_cheat_sheets></a>
@@ -289,4 +288,4 @@
 - [Mathematics](https://github.com/rossant/awesome-math) - 很棒的免费数学讲义列表
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography) - 很棒的密码学列表
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - 很棒的量子计算列表
-- 另见 [Math](https://github.com/ossu/math) 和 [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+- 另见 [Math](https://github.com/ossu/math) 和 [CS](https://github.com/ossu/computer-science) 课程由 [Open Source Society University](https://github.com/ossu)

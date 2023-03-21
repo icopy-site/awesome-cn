@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="stn1slv/awesome-integration"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Integration [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 精选的系统集成软件、模式和资源列表.
@@ -24,7 +23,7 @@
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 一个完整的包，可帮助管理您的 API，并将它们变成推动您的业务向前发展的工具，作者：Torry Harris.
 - [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量级和超快的开源解决方案.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，可让您跨云创建、公开、管理 API 并从中获利.
-- [Kong Enterprise](https://konghq.com/products/kong-enterprise) - The service connectivity platform.
+- [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 服务连接平台.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理.
 - [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 云原生开发变得更简单、更灵活.
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台.
@@ -36,7 +35,7 @@
 ### API Design
 *API 设计、文档和生命周期自动化工具.*
 - [OpenAPI Diff](https://github.com/OpenAPITools/openapi-diff) - 比较两个 OpenAPI 规范 (3.x) 并将差异呈现为 HTML 纯文本或 Markdown 文件.
-- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - Allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (both 2.0 and 3.0 are supported).
+- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - 允许在给定 OpenAPI 规范（支持 2.0 和 3.0）的情况下自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置.
 - [OpenAPI Style Validator](https://github.com/OpenAPITools/openapi-style-validator) - 可自定义的样式验证器，以确保您的 OpenAPI 规范符合您组织的标准.
 - [Spectral](https://github.com/stoplightio/spectral) - 开箱即用的 JSON/YAML linter，支持 OpenAPI 3.0 &amp; 2.0 和 AsyncAPI.
 - [Swagger Editor](https://swagger.io/tools/swagger-editor/) - 在第一个完全专用于基于 OpenAPI 的 API 的开源编辑器上设计、描述和记录您的 API.
@@ -54,10 +53,10 @@
 
 
 ### API Gateway
-*API Gateways.*
+*API 网关.*
 - [Apinto](https://github.com/eolinker/goku) - 基于Golang的微服务网关，支持高性能动态路由、服务编排、多租户管理、API访问控制等.
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - Kubernetes 原生 API 网关.
-- [Apache APISIX](https://apisix.apache.org) - Dynamic, real-time, high-performance API gateway.
+- [Apache APISIX](https://apisix.apache.org) - 动态、实时、高性能的 API 网关.
 - [Gloo Edge](https://www.solo.io/products/gloo-edge/) - 基于 Envoy 代理的 API 网关.
 - [Kong API Gateway](https://github.com/Kong/kong) - 云原生、平台不可知、可扩展的 API 网关以其通过插件的高性能和可扩展性而著称.
 - [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - 带有中间件的超高性能 API 网关.
@@ -204,9 +203,9 @@
 
 ### Master Data Management
 *主数据管理解决方案.*
-- [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive master data management.
+- [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - 全面的主数据管理.
 - [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - 多合一的主数据管理.
-- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - 通过管理主数据更快、更有效地适应和响应变化.
+- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Adapt and respond to change faster and more effectively by managing your master data.
 - [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - 通过整合和集中管理主数据生命周期，提高整个组织的信息质量和一致性.
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - 提供单一、准确和统一的公司数据视图，将来自各种数据源的信息集成到一个主记录中.
 - [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - 在数据方面提供“单一版本的事实”，确保只有可靠、准确和经过批准的信息才能流经您的系统、流程和应用程序.
@@ -289,7 +288,7 @@
 - [Aggregator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html) - 我们如何组合单个但相关消息的结果，以便将它们作为一个整体进行处理？  
 - [Canonical Data Model](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html) - 在集成使用不同数据格式的应用程序时如何最大程度地减少依赖性？
 - [Channel Adapter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelAdapter.html) - 如何将应用程序连接到消息系统，以便它可以发送和接收消息？
-- [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 如何防止通道上的“遗留”消息干扰测试或运行系统？
+- [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - How can you keep 'left-over' messages on a channel from disturbing tests or running systems?
 - [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少通过系统发送的消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
 - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多条消息？
@@ -309,7 +308,7 @@
 - [Event Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html) - 如何使用消息传递将事件从一个应用程序传输到另一个应用程序？
 - [Event-Driven Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html) - 应用程序如何在消息可用时自动使用它们？
 - [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - 如何设计消息的数据格式以允许将来可能发生的变化？
-- [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - 即使消息传递系统出现故障，发件人如何确保消息能够送达？
+- [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - How can the sender make sure that a message will be delivered, even if the messaging system fails?
 - [Idempotent Receiver](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html) - 消息接收者如何处理重复消息？
 - [Invalid Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html) - 消息接收者如何优雅地处理接收到的毫无意义的消息？
 - [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) - 通过消息通道连接的两个应用程序如何交换一条信息？
@@ -323,7 +322,7 @@
 - [Message Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html) - 组件如何避免接收无趣的消息？
 - [Message History](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageHistory.html) - 我们如何有效地分析和调试松散耦合系统中的消息流？  
 - [Message Router](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRouter.html) - 如何解耦各个处理步骤，以便根据一组条件将消息传递到不同的过滤器？
-- [Message Sequence](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html) - 消息传递如何传输任意大量的数据？
+- [Message Sequence](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html) - How can messaging transmit an arbitrarily large amount of data?
 - [Message Store](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageStore.html) - 我们如何在不影响消息系统松散耦合和瞬态特性的情况下报告消息信息？  
 - [Messaging Bridge](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html) - 如何连接多个消息系统，以便在一个系统上可用的消息在其他系统上也可用？
 - [Messaging Gateway](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingGateway.html) - 如何封装从应用程序的其余部分访问消息系统？
@@ -377,7 +376,7 @@
 ### Protocols
 - [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - 高级消息队列协议 (AMQP) 版本 0-9-1.
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - 高级消息队列协议 (AMQP) 1.0 版.
-- [CoAP](http://coap.technology/) - 受限应用协议 (CoAP) 是受限设备的专用互联网应用协议，如 RFC 7252 中所定义.
+- [CoAP](http://coap.technology/) - The Constrained Application Protocol (CoAP) is a specialized Internet application protocol for constrained devices, as defined in RFC 7252.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) - 超文本传输​​协议 (HTTP) 是分布式协作超媒体信息系统的应用层协议.
 - [JSON-RPC](https://www.jsonrpc.org/specification) - 设计简单，它是一种无状态、轻量级的远程过程调用 (RPC) 协议.
 - [MQTT](https://mqtt.org/mqtt-specification/) - 消息队列遥测传输 (MQTT) 是一种轻量级的发布-订阅网络协议，可在设备之间传输消息.

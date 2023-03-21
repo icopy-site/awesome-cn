@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="zenitysec/awesome-low-code"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="250" height="175" src="https://raw.githubusercontent.com/zenitysec/awesome-low-code/master/media/repo_logo.png" alt="Awesome Low Code">
 	<br>
@@ -55,8 +54,8 @@
 - [Creator (Zoho)](https://www.zoho.com/creator/low-code-platform/) - 从头开始​​构建应用程序，而无需编写无穷无尽的代码行.
 - [BettyBlocks](https://www.bettyblocks.com/) - The #1 No Code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - 一个低代码开发平台，使您能够构建可扩展、安全的企业应用程序，具有世界一流的功能，可以部署在任何地方.
-- [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
-- [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
+- [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - 使用 Low Code 从任何地方点击、创建和发送.
+- [n8n](https://n8n.io/) - 具有许多集成和公平代码许可的工作流自动化工具.
 - [ILLA Cloud](https://www.illacloud.com/) - 一个低代码平台，供开发人员在几分钟内构建内部工具.
 - [Loopple](https://www.loopple.com) - 低代码拖放仪表板生成器.
 - [Appsheet (Google)](https://about.appsheet.com/home/)  - Google AppSheet 是一个无代码开发平台，用户无需具备丰富的编程知识即可创建自定义移动和网络应用程序. 它提供了一个用于构建应用程序的拖放界面，并且可以与各种数据源和 API 集成以自动化工作流程并提高生产力.
@@ -85,7 +84,7 @@
 - [Workato RPA](https://www.workato.com/modern-rpa) - 用于智能自动化的集成驱动的 RPA.
 - [UiPath](https://www.uipath.com/)  - 机器人过程自动化 (RPA) 软件的领先供应商，使组织能够自动执行重复且耗时的任务，例如数据输入和数据处理. 其平台包括用于构建自动化工作流程的可视化设计器、用于执行工作流程的机器人以及用于监控和优化性能的分析工具.
 - [AutomationAnywhere](https://www.automationanywhere.com/)  - 机器人过程自动化 (RPA) 软件的供应商，允许企业结合使用基于规则的决策、机器学习和人工智能来自动执行任务. 其平台包括用于创建和部署自动化的用户友好界面，可用于跨不同部门和行业自动执行任务.
-- [BluePrism](https://www.blueprism.com/)  - 机器人过程自动化 (RPA) 软件的供应商，允许组织自动执行重复性和手动任务，例如数据输入，而无需大量编码知识. 它的平台包括一支可以处理大量复杂任务的数字化劳动力，并且可以与各种系统和应用程序集成以简化业务运营.
+- [BluePrism](https://www.blueprism.com/) - A provider of robotic process automation (RPA) software that allows organizations to automate repetitive and manual tasks, such as data entry, without requiring extensive coding knowledge. Its platform includes a digital workforce that can handle high-volume and complex tasks, and it can integrate with various systems and applications to streamline business operations.
 
 ### Intelligent Virtual Agent
 

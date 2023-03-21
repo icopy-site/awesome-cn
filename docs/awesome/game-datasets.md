@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="leomaurodesenv/game-datasets"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 在计算机科学中，人工智能 (AI) 是由机器展示的智能. 它的定义是，AI 研究是对“智能代理”的研究：任何感知其环境并采取行动以实现其目标的设备 _Russell 等. 人（2016）_.   
@@ -33,7 +32,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [OpenDota](https://www.opendota.com/) - 提供 Dota 2 数据的平台.
 - [PandaScore](https://pandascore.co/) - 实时电子竞技数据.
 - [PokéAPI](https://pokeapi.co/) - 所有世代的神奇宝贝数据.
-- [Riot Games](https://developer.riotgames.com/) - 活跃游戏、比赛历史和排名统计.
+- [Riot Games](https://developer.riotgames.com/) - 活跃比赛、比赛历史和排名统计.
 - [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - 从超级马里奥制造商游戏中搜索课程.
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - 阅读超级马里奥制造商保存的课程.
 - [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - 从 Super Mario Maker 游戏中获取用户配置文件.
@@ -64,7 +63,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - 纸牌游戏比赛.
 - [Infinite Mario Bros](http://www.marioai.org/)  - 超级马里奥比赛. 平台游戏 AI 前身. [Website](http://julian.togelius.com/mariocompetition2009/).
 - [irrlamb](https://github.com/jazztickets/irrlamb) - 具有 3D 物理效果的益智游戏.
-- [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) 游戏.
+- [Malmo](https://github.com/Microsoft/malmo) - 平台建立在 [Minecraft](https://www.minecraft.net/en-us/) 游戏.
 - [microRTS](https://github.com/santiontanon/microrts) - RTS 游戏竞赛. [PT-BR](https://github.com/rubensolv/MicroRTS).
 - [MiniDungeons](http://minidungeons.com/) - 类似地牢的程序游戏.
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - 合作游戏关卡编辑器. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
@@ -156,7 +155,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - 游戏数据.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - 卡片数据.
 - [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - 蒸汽游戏统计.
-- [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data) - 1996 年至 2019 赛季的生物特征、传记和基本得分功能.
+- [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data) - 1996 年至 2019 赛季的生物识别、传记和基本得分功能.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - 历史投票数据.
 - [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Dota 2 比赛的连续数据库.
 - [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - 来自数千场比赛的一名球员的统计数据.
@@ -167,7 +166,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - 前六代 721 只神奇宝贝的统计数据.
 - [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - 百科全书口袋妖怪.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - 具有统计数据和类型的口袋妖怪数据.
-- [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - 口袋妖怪月亮版奇迹交易的结果.
+- [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - 口袋妖怪的战斗数据.
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - 口袋妖怪和战斗统计数据.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - 随着时间的推移，Pokemon 出现在 PokemonGo 中.
@@ -197,7 +196,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - 项目细节.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - 游戏数据来自 [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Steam 视频游戏的价格.
-- [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - 关于电子游戏的问题.
+- [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - 关于视频游戏的问题.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) - Steam API 和 Steam Spy 的结合.
 - [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - 蒸汽用户评论.
 - [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - 关于从 Steam 和 SteamSpy API 中收集的 27,000 款游戏的信息.

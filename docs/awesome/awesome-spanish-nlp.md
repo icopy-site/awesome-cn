@@ -1,9 +1,8 @@
 <div class="github-widget" data-repo="dav009/awesome-spanish-nlp"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-做西班牙语NLP和CL的语言资源策划列表.
+用于执行西班牙语 NLP 和 CL 的精选语言资源列表.
 
 ## Clustering
 - [Multilingual Latent Dirichlet Allocation LDA](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA)
@@ -81,10 +80,10 @@
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/dav009/awesome-spanish-nlp/blob/master/contributing.md) 第一.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/dav009/awesome-spanish-nlp/blob/master/contributing.md) 第一的.
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [David Przybilla](http://alejandro.pictures) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [David Przybilla](http://alejandro.pictures) 已放弃该作品的所有版权和相关或邻接权.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="YuzheSHI/awesome-agi-cocosci"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="400" height="253" src="https://raw.githubusercontent.com/YuzheSHI/awesome-agi-cocosci/master/assets/abd_map.png" alt="Roadmap of studying Abduction">
 </div>
@@ -53,7 +52,7 @@
 
 * [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***，2020 年.Nature 向老手和新手讲述他们为使评论大放异彩所做的工作.
 
-* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)  - ***自然***. 撰写科学论文的自然指南.
+* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
 
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入保证可重复性的机器学习算法的指南.
 
@@ -171,7 +170,7 @@
 
 * [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
 * [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***实验心理学杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201) ]. 绑架的主观概率说明.
 
@@ -431,7 +430,7 @@
 
 
 
-* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表征.
+* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表示.
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
@@ -466,7 +465,7 @@
 
 * [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***科学***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14602426245887619907) ]. 关于频谱聚类的原始论文.
 
-* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
+* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5) ]. 关于变分自动编码器的原始论文.
 
 * [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***关于模式分析和机器智能的 IEEE 汇刊***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对表征学习的评论.
 
@@ -639,7 +638,7 @@
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***神经机器人学前沿***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
-* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
+* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***人工智能研究杂志***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
 
 * [Curiosity-driven Exploration by Self-supervised Prediction](https://proceedings.mlr.press/v70/pathak17a.html) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9379743003299559904&hl=en&as_sdt=0,5) ]. 关于好奇心作为内在动机的原始论文.
 
@@ -664,7 +663,7 @@
 
 * [Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521) - ***人工智能***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=1471968208408231068&hl=en&as_sdt=0,5) ]. 关于操作强化学习的原始论文.
 
-* [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***Journal of Artificial Intelligence Research***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860&hl=en&as_sdt=0,5)].
+* [On Monte Carlo Tree Search and Reinforcement Learning](http://oucsace.cs.ohio.edu/~chelberg/classes/680/paperPresentations/NathanPaperToPresent.pdf) - ***人工智能研究杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=5805718077259491860&hl=en&as_sdt=0,5)].
 
 * [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=16437288987337534404&hl=en&as_sdt=0,5)]. [[Slides](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-15.pdf) ].  Sergey Levine 关于概率处理强化学习的教程.
 
@@ -678,7 +677,7 @@
 
 * [Learning to Act and Observe in Partially Observable Domains](https://arxiv.org/abs/2109.06076) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2258600434630687063&hl=en&as_sdt=0,5)].
 
-* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5) ]. 强化学习中泛化问题的正式处理.
+* [Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability](https://arxiv.org/abs/2107.06277) - ***NeurIPS&#39;21***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=9640851185758072663&hl=en&as_sdt=0,5)]. A formal treatment on the generalization problem in reinforcement learning.
 
 * [Learning to Perform Physics Experiments via Deep Reinforcement Learning](https://openreview.net/forum?id=r1nTpv9eg) - ***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=13142558595749186250&hl=en&as_sdt=0,5)].
 
@@ -861,7 +860,7 @@
 
 * [Cognitive engineering: Human problem solving with tools](https://www.researchgate.net/profile/David-Woods-19/publication/242545872_Cognitive_Engineering_Human_Problem_Solving_with_Tools/links/542becf70cf29bbc126ac097/Cognitive-Engineering-Human-Problem-Solving-with-Tools.pdf) - ***人为因素***，1988 年. [[All Versions](https://scholar.google.com/scholar?cluster=14194840995416222723&hl=en&as_sdt=0,5) ]. 调查 huamn 工具在问题解决中的使用的最初想法.
 
-* [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000) - ***剑桥大学出版社***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5)]. A classic perspective correlating human tool use with the evolution of civilization.
+* [Tools, language and cognition in human evolution](https://psycnet.apa.org/record/1993-97340-000) - ***剑桥大学出版社***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=6046350461147957220&hl=en&as_sdt=0,5) ]. 将人类工具使用与文明进化联系起来的经典观点.
 
 
 * [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231) - ***认知科学趋势***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=3612212926196611828&hl=en&as_sdt=0,5) ]. 人类工具使用的神经科学说明.
@@ -917,7 +916,7 @@
 
 * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***美国统计协会杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605) ]. 关于自然社会学研究的工具变量的原始论文.
 
-* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***Annual Review of Psychology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5) ]. 对行为研究的定量分析技术的全面回顾.
+* [Experiments with More Than One Random Factor: Designs, Analytic Models, and Statistical Power](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-122414-033702) - ***心理学年度回顾***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=6652444619934494760&hl=en&as_sdt=0,5) ]. 对行为研究的定量分析技术的全面回顾.
 
 * [With or Without U? The Appropriate Test for a U-Shaped Relationship](https://mpra.ub.uni-muenchen.de/4823/1/MPRA_paper_4823.pdf) - ***牛津经济与统计公报***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=1574723532506536904&hl=en&as_sdt=0,5) ]. 独创的从数据中检验U型关系的方法，区别于二次回归检验.
 
@@ -989,7 +988,7 @@
 
 * [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 的第 3 年审查.
 
-* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***社会心理学和无意识：高级心理过程的自动化（第 265-292 页），心理学出版社 ***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT 的第 7 年审查.
+* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***Social psychology and the unconscious: The automaticity of higher mental processes (pp. 265–292), Psychology Press***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT 的第 7 年审查.
 
 * [A Meta-Analysis on the Correlation Between the Implicit Association Test and Explicit Self-Report Measures](http://faculty.washington.edu/agg/IATmaterials/PDFs/Hofmann%20&%20al%20(PSPB,2005).pdf) - ***人格与社会心理学公报***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=4888328728717829047&hl=en&as_sdt=0,5)].
 
@@ -1113,7 +1112,7 @@
 
 * [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***社会学理论***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5) ]. 关于社会科学中“理论”定义的哲学解释（也可以推广到自然科学）.
 
-* [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***在线创新方法***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
+* [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
 
 #### Science of Science
@@ -1215,7 +1214,7 @@
 
 * [The Naïve Utility Calculus as a unified, quantitative framework for action understanding](https://www.sciencedirect.com/science/article/pii/S0010028520300633) - ***认知心理学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=10366690800692546587&hl=en&as_sdt=0,5)]. [[Project](http://www.github.com/julianje/bishop)].
 
-* [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204&hl=en&as_sdt=0,5)]. A benchmark for AI that modeling the core knowledge of ToM.
+* [AGENT: A Benchmark for Core Psychological Reasoning](https://arxiv.org/pdf/2102.12321.pdf) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9729067071974484204&hl=en&as_sdt=0,5) ]. 模拟 ToM 核心知识的 AI 基准.
 
 * [Experimental Games and Social Decision Making](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-081420-110718) - ***心理学年度回顾***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4713510112126264116&hl=en&as_sdt=0,5) ]. 对社会 ToM 实验模式的全面回顾.
 
@@ -1253,7 +1252,7 @@
 
 * [Metaphor](https://plato.stanford.edu/entries/metaphor/)  - ***柏拉图·斯坦福***. 一种关于隐喻的计算哲学解释，一种在诗意或修辞上雄心勃勃地使用词语，一种比喻而不是文字使用.
 
-* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
+* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)  - ***柏拉图·斯坦福***. 一种关于类比的计算哲学解释，即两个对象或对象系统之间的比较，突出了它们被认为相似的方面.
 
 * [A Cognitive Theory of Metaphor](https://1lib.net/book/1165963/e9aa3d) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+cognitive+theory+of+metaphor&btnG=) ]. 关于隐喻的认知说明.
 
@@ -1300,7 +1299,7 @@
 
 * [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***美国统计协会杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17166265099721941605)].
 
-* [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***实验心理学杂志***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939&hl=en&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
+* [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***实验心理学杂志***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939&hl=en&as_sdt=0,5) ]. 区分因果关系和关联的实验证据.
 
 * [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***牛津认知心理学手册***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089&hl=en&as_sdt=0,5)].
 
@@ -1326,11 +1325,12 @@
 
 * [How do people generalize causal relations over objects? A non-parametric Bayesian account](https://psyarxiv.com/x57hf/) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9078127785707706032&hl=en&as_sdt=0,5)].
 
-* [Causal Reasoning in Rats](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/2006_science.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=17987039255457850949&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
+* [Causal Reasoning in Rats](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/2006_science.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=17987039255457850949&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
 
-* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***英国皇家学会学报 B：生物科学***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
+* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***Proceedings of the Royal Society B: Biological Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
  
 * [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***认知***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186&hl=en&as_sdt=0,5)].
+
 
 
 ### Commonsense
@@ -1340,7 +1340,7 @@
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***认知科学趋势***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203) ]. 陆宏景对直觉物理学的评论.
 
 
-* [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***Proceedings of National Academy of Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402&hl=en&as_sdt=0,5) ]. 人脑中直觉物理学功能部分的证据.
+* [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***美国国家科学院院刊***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402&hl=en&as_sdt=0,5) ]. 人脑中直觉物理学功能部分的证据.
 
 * [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***认知科学趋势***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5) ].  Tomer Ullman 对基于模拟的直观物理学的评论.
 
@@ -1445,7 +1445,7 @@
 
 * [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17980870844719684257&hl=en&as_sdt=0,5)].
 
-* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5) ]. 对归纳逻辑编程 30 年的全面回顾.
+* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***人工智能研究杂志***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5) ]. 对归纳逻辑编程 30 年的全面回顾.
 
 * [Learning programs by learning from failures](https://arxiv.org/pdf/2005.02259.pdf) - ***机器学习***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=6797200487935462023&hl=en&as_sdt=0,5)].
 
@@ -1478,7 +1478,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1492,13 +1492,13 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图·斯坦福***. 
 
-* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, which is a logic formalism designed for representing and reasoning about dynamical domains.
+* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***.  Wikipedia on Situation Calculus，这是一种逻辑形式主义，旨在表示和推理动态域.
 
 * [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图·斯坦福***. 一种关于模态逻辑的计算哲学解释，它是对表达式“它是必要的”和“它是可能的”的演绎行为的研究.
 
@@ -1584,7 +1584,7 @@
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***认知科学趋势***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5) ]. 劳拉·舒尔茨 (Laura Schulz) 对儿童探索游戏的评论.
 
-* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***发展心理学年度回顾***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5) ].  Laura Schulz 对儿童探索性游戏的评论，提出探索性游戏的新视角来解释游戏中非理性行为的出现.
+* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***发展心理学年度回顾***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)]. Laura Schulz's review on children's exploratory play, which proposes a new perspective on exploratory play to explain the emergence of irrational behaviors in play.
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001) - ***发展心理学***，1981 年. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)].
 
@@ -1761,7 +1761,7 @@
   * [Pooled Motion Features for First-Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ryoo_Pooled_Motion_Features_2015_CVPR_paper.pdf) - ***CVPR'15***, 2015.
   * [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sigurdsson_Actor_and_Observer_CVPR_2018_paper.pdf) - ***CVPR'18***, 2018.
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41) - ***ECCV'20***, 2020.
-  * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213)  - ***翻译. 在 *** 中，2020 年.
+  * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213) - ***Trans. PAMI***, 2020.
   * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828)  - ***翻译.  CSVT***，2021 年.
   * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727) - ***IROS&#39;04***，2004 年. [[Project](http://gazebosim.org/)].
   * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf) - ***CIG&#39;16***，2016 年. [[Project](http://vizdoom.cs.put.edu.pl/)].
@@ -1951,7 +1951,7 @@
 
 认知科学家，为研究人类交流奠定了基础. 
 
-* [Origins of human communication](https://1lib.net/book/541274/39859f) - ***麻省理工学院出版社***，2010 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)].
+* [Origins of human communication](https://1lib.net/book/541274/39859f) - ***MIT Press***, 2010. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)].
 
 * [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275&secret=1452f8) - ***哈佛大学出版社***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5000469061641945144)].
 
@@ -2002,4 +2002,4 @@
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题的收集也或多或少带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
+显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

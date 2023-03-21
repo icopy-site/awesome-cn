@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="phalcon/awesome-phalcon"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -68,7 +67,7 @@
 
 *命令行应用程序和工具.*
 
-* [phalcon-console](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon Framework
+* [phalcon-console](https://github.com/viebig/phalcon-console) - 使用出色的 Phalcon 框架的命令行应用程序示例引导应用程序
 * [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Phalcon 的 Cron 组件
 
 
@@ -138,7 +137,7 @@
 
 *实现对象文档映射器技术的库.*
 
-* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - 一种 [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) 对于扩展 `Phalcon\Mvc\Collection` 的类
+* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) 对于扩展 `Phalcon\Mvc\Collection` 的类
 
 ## Provisioning
 *为 Phalcon 应用程序配置系统的工具.*
@@ -245,7 +244,7 @@
 
 ## Magazines
 
-* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - 生态设计的 10 条戒律（文章提到 Phalcon 作为轻型生态框架）
+* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 * [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon：新的必备 PHP 框架
 * [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) - PHP框架中的Phalcon
 

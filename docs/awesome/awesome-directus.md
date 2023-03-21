@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="directus-community/awesome-directus"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center"><a href="https://directus.io"><img alt="Directus Logo" src="https://user-images.githubusercontent.com/522079/158864859-0fbeae62-9d7a-4619-b35e-f8fa5f68e0c8.png" width="1000px"></a></p>
 
 ## Awesome Directus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)

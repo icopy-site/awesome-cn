@@ -1,51 +1,50 @@
 <div class="github-widget" data-repo="inspectit-labs/awesome-inspectit"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome inspectIT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的inspectIT文档和资源的精选列表.
+&gt; 精选的 inspectIT 文档和资源列表.
 
 [![inspectIT](https://raw.githubusercontent.com/inspectit-labs/awesome-inspectit/master/media/inspectit.png)](http://www.inspectit.rocks/)
 
-inspectIT是一个用于分析Java（EE）应用程序的开源APM（应用程序性能管理）工具.
+inspectIT 是一个用于分析 Java (EE) 应用程序的开源 APM（应用程序性能管理）工具.
 
 
 
 ## Official Resources
 
 * [Website](http://www.inspectit.rocks/) - 官方网站.
-* [GitHub Repository](https://github.com/inspectIT/inspectIT) -  inspectIT的源代码库.
-* [Issue Tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) -  inspectIT的问题跟踪系统.
-* [Documentation](https://inspectit-performance.atlassian.net/wiki/) - 官方文件.
+* [GitHub Repository](https://github.com/inspectIT/inspectIT) - inspectIT 的源代码存储库.
+* [Issue Tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT 的问题跟踪系统.
+* [Documentation](https://inspectit-performance.atlassian.net/wiki/) - 官方文档.
 
 ## Tutorials
-* [How to Write Your Own Sensor](https://dzone.com/articles/how-to-write-your-own-sensor-for-the-open-source-a) - 演练如何为inspectIT实现自定义传感器.
-* [inspectIT Workshop](https://github.com/inspectit-labs/workshop) - 关于inspectIT及其设置，配置和使用的实践研讨会.
-* [Using Java Management Extensions (JMX)](https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/) - 演练如何监控JMX属性.
+* [How to Write Your Own Sensor](https://dzone.com/articles/how-to-write-your-own-sensor-for-the-open-source-a) - 有关如何为 inspectIT 实施自定义传感器的演练.
+* [inspectIT Workshop](https://github.com/inspectit-labs/workshop) - 关于 inspectIT 及其设置、配置和使用的实践研讨会.
+* [Using Java Management Extensions (JMX)](https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/) - 关于如何监控 JMX 属性的演练.
  
 ## Videos
 
-* [inspectIT in 7 Minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - 在维也纳2015年软件质量日简要介绍inspectIT.
-* [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - 将inspectIT代理集成到Spring（Boot）或Java应用程序中的教程.
+* [inspectIT in 7 Minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - 在 2015 年维也纳软件质量日上对 inspectIT 的简短介绍.
+* [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - 将 inspectIT 代理集成到 Spring（Boot）或 Java 应用程序中的教程.
 
 ## Blog Posts
 
-* [How We Boosted Magnolia Response Times](https://www.magnolia-cms.com/blogs/guest-blogger/detail~@how-we-boosted-magnolia-response-times-with-dynamic-page-caching~.html) - 使用inspectIT在应用程序中发现性能问题的用例.
-* [Collaboration With inspectIT RESTful Services](https://blog.novatec-gmbh.de/inspectit-restful-services/) - 介绍inspectIT的REST接口.
-* [Using Open Source APM Software: inspectIT](https://opensource.com/article/17/3/inspectit) -  inspectIT概述和典型使用场景的案例.
-* [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - 跟踪系统inspectIT和Zipkin之间的比较.
-* [Automated Performance Regression Testing Using Open Source Tools](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - 关于如何使用inspectIT设置自动化性能回归链的示例场景.
-* [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - 介绍inspectIT的跨JVM跟踪.
-* [Dynamically Change Monitoring Points During JVM Run-Time With inspectIT](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) -  inspectIT如何在应用程序运行时期间动态更新监视点.
-* [End User Monitoring done easy in inspectIT 1.8](https://blog.novatec-gmbh.de/end-user-monitoring-inspectit-1-8/) -  inspectIT如何用于监控最终用户的体验.
+* [How We Boosted Magnolia Response Times](https://www.magnolia-cms.com/blogs/guest-blogger/detail~@how-we-boosted-magnolia-response-times-with-dynamic-page-caching~.html) - 使用 inspectIT 发现应用程序性能问题的用例.
+* [Collaboration With inspectIT RESTful Services](https://blog.novatec-gmbh.de/inspectit-restful-services/) - 引入 inspectIT 的 REST 接口.
+* [Using Open Source APM Software: inspectIT](https://opensource.com/article/17/3/inspectit) - inspectIT 概述和典型使用场景的案例.
+* [Can the Opentracing Scene Benefit From New Tracer Implementations?](https://dzone.com/articles/can-opentracing-scene-benefit-from-new-tracer-impl) - 跟踪系统 inspectIT 和 Zipkin 之间的比较.
+* [Automated Performance Regression Testing Using Open Source Tools](https://blog.novatec-gmbh.de/automated-performance-regression-testing/) - 关于如何使用 inspectIT 设置自动性能回归链的示例场景.
+* [Cross-JVM Tracing ](https://blog.novatec-gmbh.de/inspectit-1-7-cross-jvm-tracing/) - 介绍 inspectIT 的跨 JVM 跟踪.
+* [Dynamically Change Monitoring Points During JVM Run-Time With inspectIT](https://blog.novatec-gmbh.de/dynamically-change-monitoring-points-during-jvm-run-time-with-inspectit/) - inspectIT 如何在应用程序运行时动态更新监控点.
+* [End User Monitoring done easy in inspectIT 1.8](https://blog.novatec-gmbh.de/end-user-monitoring-inspectit-1-8/) - 如何使用 inspectIT 来监控最终用户的体验.
 
 ## Profiles And Sensor Configurations
 
-* [ColdFusion Markup Language Profile](https://github.com/ghedwards/cfml-inspectIT) - 用于跟踪CFML中的函数调用的配置文件.
+* [ColdFusion Markup Language Profile](https://github.com/ghedwards/cfml-inspectIT) - 用于跟踪 CFML 中的函数调用的配置文件.
 
 ## Uncategorized
 
-* [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - 基于Spring Petclinic进行演示的示例应用程序.
-* [Grafana Dashboards for inspectIT](https://github.com/inspectit-labs/dashboards) - 包含Grafana仪表板的GitHub存储库，用于可视化来自inspectIT的数据.
+* [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - 用于演示目的的示例应用程序，基于 Spring Petclinic.
+* [Grafana Dashboards for inspectIT](https://github.com/inspectit-labs/dashboards) - 包含 Grafana 仪表板的 GitHub 存储库，用于可视化来自 inspectIT 的数据.
 
 ## License
 

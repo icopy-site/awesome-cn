@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="aorumbayev/awesome-algorand"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Algorand [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
@@ -84,7 +83,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
 - [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws)  - 使用 PyTeal 在 Algorand 上开发_ABI 兼容_智能合约. 最后的现场编码部分（与 [@_deanste](https://twitter.com/_deanste)).
-- [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY) - Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with [@HGKimChris](https://twitter.com/HGKimChris)).
+- [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY)  - 基于 PyTeal 的 Algorand 智能合约开发、客户端和测试框架. 现场编码会议（与 [@HGKimChris](https://twitter.com/HGKimChris)).
 - [Dissecting Algorand](https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72) - 介绍 Algorand 以及对 Algorand 内部工作原理的分析.
 
 ### General courses
@@ -258,7 +257,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
 - [Dartroom](https://dartroom.xyz/overview) - 去中心化 NFT 浏览器、铸造和交易.
 - [Alchemon](https://alchemon.net/) - 怪物收集 NFT 纸牌游戏.
-- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
+- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
 - [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
 - [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏品市场.
 - [Dahai](https://www.dahai.uk/) - NFT 艺术画廊和市场.
@@ -270,7 +269,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
  &gt; Algorand 上很棒的 DeFi 平台和协议. 请注意，此列表并非旨在推广任何特定项目，而是提供对生态系统的全面概述. 在投资或使用此处列出的任何项目之前，请自行研究.
 
-- [Yieldly](https://yieldly.finance/) - 用于跨链交换、ASA 质押和彩票游戏的 DeFI 套件.
+- [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
 - [Tinyman](https://tinyman.org/) - 去中心化交易协议、AMM 和平台.
 - [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
 - [Pact](https://www.pact.fi/) - 基于 Algorand 协议构建的去中心化自动做市商 (AMM).
@@ -331,11 +330,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [TinyBar App](https://tinybar.app) - 一个微型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
-- [algorealm](https://github.com/algorealm/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
+- [algorealm](https://github.com/algorealm/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
 - [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的网络 CLI 模拟器版本.
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的大量铸造 Algorand NFT. 由 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
-- [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 语言编写的 Algorand 虚拟地址生成器.
+- [galvanity](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
 - [AgorHash](https://github.com/bafio89/agorhash) - 公开的、无需许可的、去中心化的和不可审查的言论自由协议.

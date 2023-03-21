@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="innocenzi/awesome-inertiajs"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable awesome-heading awesome-git-repo-age awesome-github double-link-->
 
 <p align="center">
@@ -83,7 +82,7 @@
 - ⭐ [Laravel Inertia Preset](https://github.com/laravel-presets/inertia) - 带有 Tailwind CSS、Vite、Inertia.js 和 Vue.js 的单命令 Laravel 预设.
 - [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel 的官方身份验证脚手架，带有 Tailwind CSS 和 Inertia.js.
 - [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel 的官方应用程序脚手架，带有 Tailwind CSS、Inertia.js 和 Vue.js.
-- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Inertia.js 的 Laravel 前端预设.
+- [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - 用于 Inertia.js 的 Laravel 前端预设.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Titanium](https://github.com/usetitanium/inertia) - 带有 Tailwind CSS、Inertia.js 和 Vue.js 的 Laravel 前端预设.
 - [Breeze React](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork 与 Tailwind CSS、Inertia.js 和 React.

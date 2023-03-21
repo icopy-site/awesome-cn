@@ -1,12 +1,11 @@
 <div class="github-widget" data-repo="Richienb/awesome-ponyfills"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Richienb/awesome-ponyfills/master/media/Title.svg?sanitize=true"/>
   <br>
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge-flat.svg" alt="Awesome">
   </a>
-    <p> <a href="https://ponyfill.com">Ponyfills</a>类似于<a href="https://ponyfill.com">polyfills</a> ，但没有覆盖本机API.  Polyfills修补了一项功能，以便较早的环境可以支持较新的功能，而Ponyfills作为独立模块提供功能.</p>
+    <p> <a href="https://ponyfill.com">Ponyfills</a>类似于 polyfills 但没有覆盖原生 API.  Polyfills 修补了一部分功能，以便旧环境可以支持更新的功能，而另一方面，Ponyfills 提供作为独立模块的功能.</p>
 </div>
 
 
@@ -17,7 +16,7 @@
 
 ## Main
 
-- ⭐️ [core-js-pure](https://github.com/zloirock/core-js) -整个标准库.
+- ⭐️ [core-js-pure](https://github.com/zloirock/core-js) - 整个标准库.
 
 ## Uncategorised
 

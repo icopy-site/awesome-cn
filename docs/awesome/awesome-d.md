@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="dlang-community/awesome-d"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 
@@ -19,7 +18,7 @@
 	- 网络/网络相关
 	- 数据库
 	- GUI
-	- 你
+	- OS
 	- 游戏
 	- 国际化 (i18n) / 全球化
 	- 视频
@@ -167,7 +166,7 @@
 * [reggae](https://github.com/atilaneves/reggae) - D 中的元构建系统
 * [Makefile](https://github.com/bioinfornatics/MakefileForD) - D 项目的 Makefile 模板
 * [cmake-d](https://github.com/dcarp/cmake-d) - CMake D 项目
-* [cook2](https://github.com/gecko0307/Cook2) - 用于 D 中项目的快速增量构建工具
+* [cook2](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 * [button](https://jasonwhite.io/button/) - 一个通用的构建系统，只需按一下按钮即可构建您的软件.
 * [wild](https://github.com/Vild/Wild) - 野生构建系统，用于构建 [PowerNex](https://github.com/PowerNex/PowerNex) 核心
 
@@ -202,7 +201,7 @@
 
 ## Preprocesors
 
-* [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+* [warp](https://github.com/facebookarchive/warp)  - Facebook 基础设施中使用的 C 和 C++ 快速预处理器. 由沃尔特·布莱特撰写.
 
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript 虚拟机，在 D 中实现.
@@ -214,7 +213,7 @@
 * [hunt-validation](https://github.com/huntlabs/hunt-validation) - 基于 hunt 库的 DLang 数据验证库.
 
 ## Containers
-* [EMSI containers](https://github.com/dlang-community/containers) - 不使用 GC 的容器 
+* [EMSI containers](https://github.com/dlang-community/containers) -  Containers that do not use the GC 
 - [memutils](https://github.com/etcimon/memutils) - 开销分配器、分配器感知容器和 D 对象的生命周期管理
 - [dlib.container](https://github.com/gecko0307/dlib) - 通用数据结构（无 GC 的动态和关联数组等）
 - [std.rcstring](https://github.com/burner/std.rcstring) - 用于 D 的内置字符串构造的引用计数字符串实现
@@ -299,7 +298,7 @@
 * [vibe.d](https://github.com/vibe-d/vibe.d)  - Vibe.d 内部支持 Redis 和 MongoDB，非常稳定. 很快，数据库驱动程序将被分离到独立的项目中.
 * [mysql-native](https://github.com/mysql-d/mysql-native) - 在本机 D 中实现的 MySQL 客户端.
 * [ddb](https://github.com/pszturmaj/ddb)  - D2 的数据库访问. 目前只支持 PostgreSQL.
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+* [arsd](https://github.com/adamdruppe/arsd)  - Adam D. Ruppe 的图书馆； 除了 Web 后端之外，它还支持使用 database.d、sqlite.d、mysql.d 和 postgres.d 访问数据库.
 * [ddbc](https://github.com/buggins/ddbc)  - DDBC 是 D 语言的 DB 连接器（类似于 JDBC）.  HibernateD（见下文）使用 ddbc 进行数据库抽象.
 * [hibernated](https://github.com/buggins/hibernated) - HibernateD 是 D 的 ORM（类似于 [Hibernate](https://hibernate.org/)).
 * [dvorm](https://github.com/rikkimax/Dvorm)  - 支持 Vibe 的 D 的 ORM. 与 vibe.d 和 mysql-d 一起工作，使其能够访问 MongoDB 和 MySQL.
@@ -431,7 +430,7 @@
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev 的 ae 库有一个函数式图像处理包，在文章中有描述 [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 * [Blogsort](https://bitbucket.org/infognition/bsort/) - 一个简单的 Windows 应用程序，用于查看照片并为博客做准备.
 * [dlib.image](https://github.com/gecko0307/dlib) - 图像处理（每通道 8 位和 16 位、浮点运算、过滤、FFT、HDRI、图形格式支持包括 JPEG 和 PNG）
-* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
+* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - 基本颜色结构、HSL 函数和读写图像文件
 * [opencvd](https://github.com/aferust/opencvd) - D 的非官方 OpenCV 绑定
 
 ## End-user applications

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="stevesong/awesome-connectivity-info"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <img width="605" height="495" src="https://raw.githubusercontent.com/stevesong/awesome-connectivity-info/master/images/awesome-connectivity-logo.svg?sanitize=true" alt="Awesome Connectivity Logo">
   <br>
@@ -11,7 +10,7 @@
 
 连接索引、地图和报告的列表，可帮助您更好地了解谁有权访问通信基础设施以及在什么条件下. 公共领域的所有信息.
 
-<sub>有关连接的更多信息，请访问我的</sub> [website](https://manypossibilities.net) 或在<a rel="me" href="https://mastodon.cloud/@stevesong">Mastodon</a>上.
+<sub>有关连接的更多信息，请访问我的</sub> [website](https://manypossibilities.net) or on <a rel="me" href="https://mastodon.cloud/@stevesong">Mastodon</a>.</sub>
 
 
 - [![Awesome](https://awesome.re)](#awesomehttpsawesomerebadge-flatsvghttpsawesomere)
@@ -109,7 +108,7 @@
 - [CIESIN Earth Institute - High Resolution Settlement Layer GIS data](https://ciesin.columbia.edu/data/hrsl/) - HRSL 数据集提供前所未有的人口映射准确性.
 - [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) -（2018 年 5 月）影响和推动全球互联网普及的趋势.
 - [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) 加速互联网访问和采用的框架.
-- [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab is an open, verifiable measurement platform for global network performance. 
+- [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab 是一个开放的、可验证的全球网络性能测量平台. 
 - [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - 影响互联网性能的交互式地图报告问题.
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - 合理更新的全球移动网络列表及其相关频率.
 - [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - 更新时间：2020 年 2 月 28 日.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="kakoni/awesome-healthcare"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Health [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 很棒的开源医疗保健软件、库、工具和资源的精选列表. 每个链接都经过审查，以确保项目处于活跃状态，并为医疗机构、提供者、开发商、政策专家和/或研究科学家提供价值.
@@ -56,7 +55,7 @@
   * [dcm4che](https://www.dcm4che.org/) - 临床图像和对象管理.
   * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) - Dicoogle 是一个可扩展的、独立于平台的开源 PACS
   * [Drishti](https://github.com/nci/drishti/wiki) - 为科学家和外行人提供断层扫描和电子显微镜数据可视化工具.
-  * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+  * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) - 具有 DICOMweb/WADO 服务的 RESTful 实现的独立 DICOMweb 服务器.
   * [DICOM Server](https://github.com/microsoft/dicom-server) - DICOMweb 标准的 OSS 实施.
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) - 基于 JavaScript/HTML5 的 DICOM 查看器，带有标准工具并专注于支持各种屏幕尺寸.
   * [Fiji](https://imagej.net/software/fiji/) - 用于生物图像分析的开源平台.
@@ -105,9 +104,9 @@
 
 ### Libraries
   * [Android FHIR SDK](https://github.com/google/android-fhir) - Android FHIR SDK 
-  * [Archie](https://github.com/openehr/archie) - OpenEHR Library written in Java.
+  * [Archie](https://github.com/openehr/archie) - 用 Ja​​va 编写的 OpenEHR 库.
   * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
-  * [Datamol](https://github.com/datamol-org/datamol)  - 分子操作变得简单. 在 RDKit 之上构建的轻型 Python 包装器.
+  * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM 工具包.
   * [dicom](https://github.com/suyashkumar/dicom) - GoLang 中的高性能 DICOM 医学图像解析器.
   * [ehrapy](https://github.com/theislab/ehrapy/) - Python 中的电子健康记录分析.

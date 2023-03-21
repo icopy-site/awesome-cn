@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="chrissimpkins/codeface"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/chrissimpkins/codeface/master/images/non-gallery/codeface-HR-new.png" alt="Codeface | Typefaces for source code beautification" width="790">
 
 
@@ -16,12 +15,12 @@
 
 ## New!
 
- 存储库中的每个字体目录现在都包含一个垂直度量表（`vertical_metrics.txt`）.  将这些参考表中的数据与新数据结合起来 [`font-line` tool](https://github.com/source-foundry/font-line)  将任何字体修改为适合您需要的行间距.  收紧或保持松动.
+存储库中的每个字体目录现在都包含一个垂直度量表 (`vertical_metrics.txt`). 将这些参考表中的数据与新 [`font-line` tool](https://github.com/source-foundry/font-line) 将任何字体修改为适合您需要的行距. 收紧或保持松动.
 
 ## Fun Little Rant About Font Customization
 
-<blockquote> “不要把你的大脑时间浪费在像这样无意义的东西上，然后再回到编码状态.如果你用一些化妆品取代&#39;font&#39;，你的声音就像一群山谷女孩.”
-<p>   -  <a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>  Reddit上的一些人 </p></blockquote>
+<blockquote>“别把你的脑力浪费在像这样毫无意义的事情上，回去编码吧.如果你用一些化妆品代替‘字体’，你们听起来就像一群山谷女孩.”
+<p> -- <a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>  Reddit 上的一些人</p></blockquote>
 
 [Link](https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu)
 
@@ -30,14 +29,14 @@
 
 <a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="https://raw.githubusercontent.com/chrissimpkins/codeface/master/images/non-gallery/download-button.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
 
-单击下面的链接以下载Codeface主要和位图库集合中的所有字体二进制文件：
+单击下面的链接可下载 Codeface 主要和位图库集合中的所有字体二进制文件：
 
- |  档案|  SHA1 |  尺寸|
+ | 存档 |  SHA1 | 尺码 |
 | :------------: |:---------------:| :-----:|
 | [codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip)  |  `4709e7b6f63d1e2c31f7af0d56b7e1f75a846476` |  31.4 MB |
 | [codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz)  |  `e4416c72e331d71e55fd56f2fba38cfda7672f85` |  16.5 MB |
 
-或使用以下命令之一来使用`curl`来提取字体存档：
+或使用以下命令之一通过“curl”提取字体存档：
 
 ```
 $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip

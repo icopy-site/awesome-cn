@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="vinjn/awesome-vulkan"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
@@ -104,7 +103,7 @@
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - 关于如何学习 Vulkan 的元帖子
 *  [I Am Graphics And So Can You](https://www.fasterthan.life/blog/2017/7/11/i-am-graphics-and-so-can-you-part-1) - 面向图形学习 Vulkan 新手的博客文章风格教程.
-*  [Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=Y9U9IE0gVHA) - Brendan Galea 在 YouTube 上制作 vulkan 游戏引擎的教程系列.
+*  [Vulkan Game Engine Tutorial](https://www.youtube.com/watch?v=Y9U9IE0gVHA) - Tutorial series on making a vulkan game engine by Brendan Galea on YouTube.
 *  [Kohi Game Engine Series](https://www.youtube.com/watch?v=dHPuU-DJoBM&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj) - “Vulkan 游戏引擎系列，我们使用 C 和 Vulkan 从头开始​​制作游戏引擎”.
 *  [Moving to Vulkan (Khronos UK May16)](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
 *  [jhenriques's tutorial](http://jhenriques.net/development.html)
@@ -196,7 +195,7 @@ drm/kms.
    *  [vpp](https://github.com/nyorain/vpp)  - 现代 C++ Vulkan 抽象专注于性能和简单的界面.  [麻省理工学院]
    *  [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 场景图项目，继任者 [OpenSceneGraph](http://www.openscenegraph.org).
    *  [Vulkan-WSIWindow](https://github.com/renelindsay/Vulkan-WSIWindow)  - 用于创建 Vulkan 窗口和处理输入事件的多平台库.  [Apache 许可证 2.0]
-   *  [Screen 13](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. [MIT]
+   *  [Screen 13](https://github.com/attackgoat/screen-13)  - Rust 的易于使用的 Vulkan 渲染图.  [麻省理工学院]
 
 * 框架、引擎、更高级别的渲染
    *  [Acid](https://github.com/Equilibrium-Games/Acid)  - 高速 C++17 Vulkan 游戏引擎.  [麻省理工学院]
@@ -234,7 +233,7 @@ drm/kms.
    *  [VUDA](https://github.com/jgbit/vuda)  - 提供 CUDA 运行时 API 接口的仅标头库.  [麻省理工学院]
    *  [clspv](https://github.com/google/clspv)  - OpenCL C 子集到 Vulkan 计算着色器的原型编译器.  [Apache 许可证 2.0]
    *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)  - 在 iOS 和 macOS 上运行 Vulkan.  [Apache-2.0]
-   *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink)  - 在 Vulkan 之上的 OpenGL 实现，Mesa 项目的一部分.  [麻省理工学院]
+   *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. [MIT]
    *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - 基于 Vulkan 的 OpenGL 实现.
    *  [gfx-portability](https://github.com/gfx-rs/portability) - 基于 Metal 和 D3D12 的 Vulkan 可移植性实现 [gfx-rs](https://github.com/gfx-rs/gfx/).
 
@@ -243,7 +242,7 @@ drm/kms.
 
 * 科学
    *  [datoviz](https://github.com/datoviz/datoviz)  - 使用 Vulkan 的高性能 GPU 交互式科学数据可视化.  [麻省理工学院]
-   *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK) - C++ toolkit for building surgical simulations with Vulkan and VTK backends. [Apache License 2.0]
+   *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK)  - 用于使用 Vulkan 和 VTK 后端构建手术模拟的 C++ 工具包.  [Apache 许可证 2.0]
   
 * 着色器
    *  [glslang](https://github.com/KhronosGroup/glslang) - 将 glsl 编译为 spirv 的库 [BSD 3-Clause]

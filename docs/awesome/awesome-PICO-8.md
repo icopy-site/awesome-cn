@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="pico-8/awesome-PICO-8"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -28,7 +27,7 @@
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](https://pico-8.wikia.com/wiki/Pico-8_Wikia)
 - [Slack Team](https://slofile.com/slack/pico-8) - PICO-8 闲聊.
-- [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord chat.
+- [Discord Server](https://discord.gg/EwQ86eq) - PICO-8 Discord 聊天.
 
 ### DemoScene
 
@@ -88,7 +87,7 @@
 - [Depict](https://bikibird.itch.io/depict) - 将图像转换为使用 PICO-8 颜色的抖动图像，并将其缩小到最大尺寸 128 x 128.
 - [picoCAD](https://johanpeitz.itch.io/picocad) - 用于构建和纹理低多边形 3D 模型的 PICO-8 程序.
 - [pico8-deploy](https://github.com/tducasse/pico8-deploy) - 一种将 PICO-8 项目导出和部署到 itch.io 的简单方法
-- [yap8b](https://github.com/Enerccio/yap8b) - 用于从多个源文件创建 pico carts 的构建工具.
+- [yap8b](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - 使用 TypeScript 创建 PICO-8 游戏.
 - [Shrinko8](https://github.com/thisismypassport/shrinko8)  - 积极缩小 Pico-8 代码大小的缩小器. 还包括 linter 和其他工具.
 
@@ -152,4 +151,4 @@
 
 在法律允许的范围内， [Felipe Bueno](https://twitter.com/felipebueno) 已放弃该作品的所有版权和相关或邻接权.
 
-See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 想要查询更多的信息.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 了解更多信息.

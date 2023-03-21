@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="daviddias/awesome-hacking-locations"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的黑客位置 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============================
 
@@ -32,7 +31,7 @@
 
 ## Hackerspaces
 
-黑客空间是进行黑客攻击的好地方，事实上，它们非常棒，以至于他们多年来一直在策划自己的列表，如果您正在寻找黑客空间，请咨询：
+黑客空间是黑客攻击的好地方，事实上它们非常棒，以至于他们多年来一直在策划自己的列表，如果您正在寻找黑客空间，请咨询：
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
 
@@ -49,7 +48,7 @@ CoWorking 办公室很棒，但通常需要长期承诺，如果您正在寻找�
 
 #### MetaLab
 
-&gt; 咖啡、俱乐部伴侣
+&gt; 咖啡、俱乐部伙伴
 &gt; 各种活动和讲座
 
 网页：https://metalab.at
@@ -79,7 +78,7 @@ CoWorking 办公室很棒，但通常需要长期承诺，如果您正在寻找�
 
 #### Hackerspace Brussels (HSBXL)
 
- &gt; 布鲁塞尔黑客空间 (HSBXL) 是一个致力于建设性和创造性黑客活动各个方面的空间. 这个空间大约有 300 平方米，有一个拥有 9000 多个组件的小型电子实验室、一个图书馆和许多工具. 随时欢迎您关注其中一个研讨会或参加每周二的会议、黑客之夜或其他聚会活动.
+> Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
 
 网页：https://hsbxl.be/
 
@@ -186,7 +185,7 @@ CoWorking 办公室很棒，但通常需要长期承诺，如果您正在寻找�
 
 #### The Black Diamond
 
-> The Royal Danish Library / the Black Diamond
+&gt; 丹麦皇家图书馆 / 黑钻石
 
 网页：http://www5.kb.dk/en/dia/
 
@@ -578,7 +577,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
  &gt; 与书店相连的咖啡馆. 对从不离开的黑客类型非常宽容.  Wifi 约为 8 兆比特，并且相当稳定. 大多数人会说足够多的英语，你可以点一杯咖啡，而且咖啡很好喝. 仅限牛奶.
 
-网页：https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
+Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
 无线网络 | 电源 | 地址 | 营业时间
 ---- | ----- | ------- | ----------
@@ -625,7 +624,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 #### Kek
 
-> Near the Delft Central Station; Good food; Hipster place; Has a small store (great for last minute gifts)
+ &gt; 靠近代尔夫特中央车站； 美食； 时髦的地方； 有一家小商店（非常适合最后一分钟的礼物）
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
@@ -832,7 +831,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 #### Café São Martinho
 
- &gt; 城市体育场附近不知名的小咖啡馆. 设有台球桌、小型室内花园、小型露台、吸烟区和非吸烟区. 不是普通的黑客咖啡馆，而是黑客的真实场所，他们希望在白天有一些安静的地方，远离市中心的喧嚣.
+ &gt; 城市体育场附近不知名的小咖啡馆. 设有台球桌、小型室内花园、小型露台、吸烟区和非吸烟区. 不是普通的黑客咖啡馆，而是黑客的真实场所，他们希望在白天有一个安静的地方，远离市中心的喧嚣.
 
 网页：不适用
 
@@ -882,7 +881,7 @@ Wifi 密码：`ilovenicolau`
 
 #### Choupana Café
 
-Webpage: http://4sq.com/XuO7me
+网页：http://4sq.com/XuO7me
 
 无线网络 | 电源 | 地址 | 营业时间
 ---- | ----- | ------- | ----------
@@ -1155,7 +1154,7 @@ Wifi 密码：`portuguesa`
 
 #### Casinha Boutique Café
 
-&gt; 靠近市中心的安静地方，自然光线充足，小吃和沙拉种类繁多.
+> Quiet place near the city center, with lots of natural light and a good selection of snacks and salads.
 
 网页：https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1bfd0cfcb7a
 
@@ -1223,7 +1222,7 @@ Wifi 密码：`portuguesa`
 >
 &gt; 路由器连接KT Giga Internet，这是韩国最快的互联网（包括海外网络访问）
 >
-&gt; 许多座位和座位类型（沙发、酒吧凳......）
+&gt; 许多座位和座位类型（沙发、酒吧凳……）
 >
 &gt; 有吸烟区
 
@@ -1329,7 +1328,7 @@ Naver 地图：http://naver.me/FjThMRso
 
 无线网络 | 电源 | 地址 | 营业时间
 ---- | ----- | ------- | ----------
- ✔ |  ✔ |  Götgatan 14, 118 46 斯德哥尔摩, 瑞典 |  9–23
+ ✔ |  ✔ |  Götgatan 14, 118 46 瑞典斯德哥尔摩 |  9–23
 
 #### Café Pascal
 
@@ -1550,7 +1549,7 @@ Naver 地图：http://naver.me/FjThMRso
 
 #### Sightglass Coffee
 
-> Even though no-wifi and no power plugs, still worth visiting because it is very vibrant space, with cool vibe.
+&gt; 尽管没有 wifi 和电源插头，但仍然值得一游，因为它充满活力，氛围很酷.
 
 网页：https://sightglasscoffee.com/
 
@@ -1634,7 +1633,7 @@ Naver 地图：http://naver.me/FjThMRso
 
 &gt; 带有白板墙的开放式工作区，美味的咖啡，适度忙碌.
 
-网页：http://www.districthallboston.org/
+Webpage: http://www.districthallboston.org/
 
 无线网络 | 电源 | 咖啡 | 地址 | 营业时间
 ---- | ----- | ------ | ------- | ----------
@@ -1699,7 +1698,7 @@ Naver 地图：http://naver.me/FjThMRso
 Notes:
 * 接触 [@richlitt](https://twitter.com/richlitt) 如果需要，请获取 wifi 密码.
  * 您每天可获得 45 米的免费 wifi. 更多如果你知道你在做什么;）（但如果你经常在那里黑客攻击，wifi 每月 14 美元是值得的）
-* 使用 IPFS 会让你在大约 2 小时内离开他们的网络（仅供参考）.
+* Using IPFS will get you kicked off their network in ~2hr (FYI).
 
 #### Forge Baking Company
 
@@ -1798,7 +1797,7 @@ Notes:
 
 无线网络 | 电源 | 气候化 | 地址 | 营业时间
 ---- | ----- | -------------- | ------- | ----------
-打开，密码在墙上 |  ✔ |  ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
+打开，密码在墙上 |  ✔ |  ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432)  | 周一至周五上午 7:00 至下午 6:00 开放，周六上午 8:00 至下午 6:00 周日休息 |
 
 ## Washington <a id="washington"></a>
 

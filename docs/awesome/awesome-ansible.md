@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ansible-community/awesome-ansible"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable double-link-->
 [<img src="https://raw.githubusercontent.com/ansible-community/awesome-ansible/master/ansible_logo.svg?sanitize=true" align="right" width="90">](https://www.ansible.com/)
@@ -16,7 +15,7 @@
 
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Ansible 的最新用户指南和文档.
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Ansible Roles 的官方存储库和社区站点.
-- [Ansible Blog](https://www.ansible.com/blog) - Official Ansible blog.
+- [Ansible Blog](https://www.ansible.com/blog) - 官方 Ansible 博客.
 
 ## Community
 
@@ -30,7 +29,7 @@
 上还有许多 Ansible IRC 频道 [libera.chat](https://libera.chat/) 被桥接到 [Matrix](https://matrix.org/).
 您可以在官方文档中找到完整列表以及如何连接 [documentation](https://docs.ansible.com/ansible/latest/community/communication.html) 但这里有一些：
 
- | 互联网资源中心 | 矩阵 | 主题 |
+ | 互联网资源中心 | 矩阵 | 话题|
 |--------------------|------------------------|----------------------------------------------------------------------------------|
 | #ansible           | #users:ansible.com     | General Ansible user support and discussion                                      |
 | #ansible-devel     | #devel:ansible.com     | Developer discussions around code, bugs and features                             |
@@ -46,7 +45,7 @@
 &gt; 学习 Ansible 的教程和课程.
 
 - [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible) - 本教程介绍了如何使用 Ansible 管理远程服务器.
-- [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - Ansible 的 12 步教程.
+- [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 - [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - 推荐资源列表.
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - 关于如何安装和使用 Ansible 的教程.
 - [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) - Ansible 自动化平台培训课程.

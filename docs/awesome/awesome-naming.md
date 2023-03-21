@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="gruhn/awesome-naming"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Naming [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!-- lint disable no-repeat-punctuation -->
@@ -26,7 +25,7 @@ Famously...
 - [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - 当你探索一个搜索空间并到达死胡同时，你会沿着你的*足迹*回到最后一个十字路口并尝试另一条路. 
 - [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - 暴力实际上几乎总是一种解决方案，但不是一个非常聪明的解决方案.
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) - 一种通过始终选择当前最佳选项而无需过多考虑过去和未来决策来找到解决方案的算法.
-- [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing) - Starting somewhere in the hilly "landscape" of solutions you go in the direction of steepest ascent until reaching the top of a hill. You might miss higher hills though. 
+- [Hill climbing](https://en.wikipedia.org/wiki/Hill_climbing)  - 从解决方案的丘陵“景观”中的某个地方开始，沿着最陡峭的上升方向前进，直到到达山顶. 不过，您可能会错过更高的山丘. 
 - [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/)  - 一种优先队列和对以色列声名狼藉的无组织队列的引用. 在这里，当物品*已经有等待的朋友*时，它们可以*插队*.
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) - 就像一堆煎饼一样，你只能从这个数据结构的顶部添加和删除项目.
 - [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure) ) - 分层组织的数据结构. 从 _root_ 项目，其他项目_branch out_ 进入 _nodes_ 和 _leaves_. 一组树通常称为*森林*.
@@ -35,7 +34,7 @@ Famously...
 ## Design Patterns and Anti Patterns
 
 - [Adapter](https://en.wikipedia.org/wiki/Adapter_pattern) - 允许具有不兼容接口的类通过将其自己的接口包装在已经存在的类的接口周围来一起工作.
-- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - 类似于建筑中的立面，立面是一个对象，用作掩盖更复杂的底层结构的前置界面.
+- [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - 类似于建筑中的立面，立面是一个对象，用作掩盖更复杂的底层结构的前端界面.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises)  - 表示将来可用的结果，除非有错误. 就像在现实中一样，承诺有时会被打破.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - 一种编程反模式，在这种模式下，只需一次更改，您就可以在代码库的任何地方疯狂地添加代码.
 
@@ -109,7 +108,7 @@ Famously...
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)  - 一个当你试图研究它时似乎消失或改变的错误. 这是对 Werner Heisenberg 的双关语，他发现观察量子系统的行为不可避免地会改变它们的状态.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - 一种评估策略，它暂停评估直到绝对必要，然后再也不会执行.
 - [Magic](https://en.wikipedia.org/wiki/Magic_(programming) ) - 一个神奇的程序/一段代码正在做它的工作，但没有人知道如何做. 就像在现实中一样，魔法实际上并不存在. 一旦你理解了它，它就不再是魔法了.
-- [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - 一个进程永远被拒绝资源来完成它的工作的问题.
+- [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - A problem where a process is perpetually denied resources to do its work.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - 通过源代码回到过去以了解执行情况，有时甚至可以更改历史记录.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - 摇动依赖树，直到所有死部分都脱落，你最终得到一棵漂亮的瘦树.
 - [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - 输出所有偶数然后输出所有奇数的程序会生成不公平的自然数枚举，因为某些数字永远不会达到. 

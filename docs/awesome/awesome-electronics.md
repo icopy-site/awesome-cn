@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="kitspace/awesome-electronics"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Electronics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 为电子工程师和爱好者提供的精选资源清单
@@ -54,7 +53,7 @@
 - [Qucs](http://qucs.sourceforge.net/) - 开源、跨平台、非基于 SPICE 的电路仿真器，具有 S 参数和谐波平衡功能.
 - [QucsStudio](http://qucsstudio.de/) - 免费、闭源、仅限 Windows 的 Qucs 分支，具有相似的界面、新引擎和更多功能.
 - [Open Circuit Design Software](http://opencircuitdesign.com) - 开源、完整的 EDA 套件芯片设计套件，专注于跟上商业工具的步伐.
-- [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) 为 Texas Instruments 构建，与 Texas Instruments 模型捆绑在一起.
+- [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) build for Texas Instruments, bundled with Texas Instruments Models.
 - [CppSim](https://www.cppsim.com/) - 免费的开源电路模拟器，利用 C++ 语言实现非常快的模拟时间.
 - [Scilab with Xcos](https://www.scilab.org/)  - MATLAB 的免费开源数值计算替代品.  Xcos 提供类似于 Simulink 的电气系统建模功能.
 - [iCircuit](http://icircuitapp.com/) - 易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时不间断的分析功能.
@@ -64,7 +63,7 @@
 ### Verilog HDL Simulators
 
 - [Verilator](https://www.veripool.org/wiki/verilator)  - 免费、开源的 Verilog 编译器. 测试平台使用 C++ 或 SystemC. 非常快，但仅限于 2 态、基于循环的仿真和仅可综合代码.
-- [Icarus Verilog](http://iverilog.icarus.com/)  - 免费、开源的 verilog 解释器. 测试台采用行为 verilog. 仿真是 4 态的，并且是基于事件的.
+- [Icarus Verilog](http://iverilog.icarus.com/) - Free, open source verilog interpreter. Test benches are in behavioral verilog. Simulation is 4-state, and event-based.
 
 ## Gerber Viewers
 
@@ -150,7 +149,7 @@
 
 ## Blogs
 - [Hackaday](https://hackaday.com) - 可能是最受欢迎的博客，涵盖电子和硬件黑客技术，拥有全体作者.
-- [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
+- [bunniestudios.com](https://www.bunniestudios.com) - Andrew &#39;Bunnie&#39; Huang 涵盖硬件黑客、开放硬件、制造等.
 - [Bald Engineer](https://www.baldengineer.com) - James Lewis 撰写的有关电子和嵌入式软件的项目日志、教程和文章.
 - [Rheingold Heavy](https://rheingoldheavy.com) - 更多关于电子和嵌入式软件的项目日志、教程和文章，这些是 Dan Hienzsch 的文章.
 - [Hackster.io](https://www.hackster.io/news) - 另一个涵盖电子产品的博客.
@@ -161,7 +160,7 @@
 ## Forums
 
 ### Discussion
-- [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
+- [EEVBlog forum](https://www.eevblog.com/forum/) - 可能是讨论电子工程主题的最大和最活跃的论坛.
 - [/r/electronics](https://www.reddit.com/r/electronics/) 和 [/r/ECE](https://www.reddit.com/r/ECE/) 是 EE 主题的两个最活跃的子版块.
 
 ### Help

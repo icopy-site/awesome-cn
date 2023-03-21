@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ttt30ga/awesome-product-design"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center" style="margin: 12px">
   <a href="https://en.wikipedia.org/wiki/Digital_product_design">
     <img src="https://raw.githubusercontent.com/ttt30ga/awesome-product-design/master/./images/apd-icon.png" width="140">
@@ -61,7 +60,7 @@
 - [User Testing](https://www.usertesting.com/) - 解锁客户洞察并增加收入.
 - [Optimal Workshop](https://www.optimalworkshop.com/) - 帮助您和您的团队自信地做出设计决策的用户研究平台.
 - [Measure Success](https://www.sitepoint.com/how-do-you-measure-the-success-or-failure-of-your-ux-design/) - 您如何衡量用户体验设计的成功（或失败）？.
-- [Lookback](https://lookback.io/) - Simple, powerful user research.
+- [Lookback](https://lookback.io/) - 简单、强大的用户研究.
 - [Full Story](https://www.fullstory.com/) - 关于您的客户体验，您想了解什么？
 - [Desinion](https://www.desinion.com/) - 为您的公司或您客户的公司做出明智且明智的设计决策.
 - [Survey Monkey](https://www.surveymonkey.com/) - 将直觉转化为洞察力.
@@ -195,7 +194,7 @@
 #### Tools
 - [WAVE](https://wave.webaim.org/) - Web 可访问性评估工具.
 - [Contrast Ratio](https://6220119.github.io/contrast-ratio/#/black-on-white) - 一种计算任意两种有效 CSS 颜色之间对比度的工具.
-- [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - 颜色对比检查.
+- [Snook](https://snook.ca/technical/colour_contrast/colour.html#fg=515A5F,bg=FFFFFF) - Colour Contrast Check.
 
 ## Writing
 - [Google trends](https://trends.google.com/trends/) - 现在流行的故事.

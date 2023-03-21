@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="dhamaniasad/awesome-postgres"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
@@ -16,7 +15,7 @@
 * [BDR](https://github.com/2ndQuadrant/bdr) - 双向复制 - PostgreSQL 的多主复制系统
 * [Patroni](https://github.com/zalando/patroni) - 带有 ZooKeeper 或 etcd 的 PostgreSQL HA 模板.
 * [Stolon](https://github.com/sorintlab/stolon) - 基于 Consul 或 etcd 的 PostgreSQL HA，与 Kubernetes 集成.
-* [pglookout](https://github.com/aiven/pglookout) - 复制监控和故障转移守护进程.
+* [pglookout](https://github.com/aiven/pglookout) - Replication monitoring and failover daemon.
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - 用于管理 PostgreSQL 服务器集群中的复制和故障转移的开源工具套件.
 * [Slony-I](https://slony.info/) - 具有级联和故障转移功能的“Master to multiple slaves”复制系统.
 * [PAF](https://github.com/ClusterLabs/PAF) - PostgreSQL 自动故障转移：基于 Pacemaker 和 Corosync 的 Postgres 高可用性.
@@ -87,7 +86,7 @@
 * [Instrumental](https://github.com/Instrumental/instrumentald) - 实时性能监控，包括 [pre-made graphs](https://instrumentalapp.com/docs/instrumentald/postgresql#suggested-graphs) 为了便于设置（商业软件）
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Zabbix 的综合 PostgreSQL 监控模块.
 * [PMM](https://github.com/percona/pmm) - Percona 监控和管理 (PMM) 是一个免费的开源平台，用于监控和管理 PostgreSQL、MySQL 和 MongoDB.
-* [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
+* [Pome](https://github.com/rach/pome)  - Pome 代表 PostgreSQL 指标.  Pome 是一个 PostgreSQL 指标仪表板，用于跟踪数据库的健康状况.
 * [pgmetrics](https://pgmetrics.io/) - pgmetrics 是一种开源、零依赖、单一二进制工具，可以从正在运行的 PostgreSQL 服务器收集大量信息和统计数据，并以易于阅读的文本格式显示或将其导出为 JSON 和 CSV 以用于脚本.
 * [pg\_view](https://github.com/zalando/pg_view) - 显示全局系统统计信息、每个分区信息、内存统计信息和其他信息的开源命令行工具.
 * [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活且易于上手的 PostgreSQL 指标监控器专注于 Grafana 仪表板.
@@ -107,7 +106,7 @@
 * [pg\_shard](https://github.com/citusdata/pg_shard) - 扩展以扩展实时读取和写入.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - 将 CPU 密集型工作负载卸载到 GPU 的扩展.
 * [pgxn](https://pgxn.org/) PostgreSQL 扩展网络 - 许多开源 PostgreSQL 扩展的中央分发点
-* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
+* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - 一个 PostgreSQL 扩展，它在流上连续运行 SQL 查询，将结果增量存储在表中.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - 允许检查 plpgsql 源代码的扩展.
 * [PostGIS](http://postgis.net/) - PostgreSQL 的空间和地理对象.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres 绑定作为加密库 Themis 的扩展，在 PgSQL 端提供各种安全服务.
@@ -144,13 +143,13 @@
 * [pganalyze](https://pganalyze.com) - PostgreSQL 性能监控（商业软件）.
 * [pgbadger](https://github.com/darold/pgbadger) - 快速 PostgreSQL 日志分析器.
 * [PgBouncer](http://www.pgbouncer.org/) - PostgreSQL 的轻量级连接池.
-* [pgCenter](https://github.com/lesovsky/pgcenter) - 为各种统计、管理任务、重新加载服务、查看日志文件和取消或终止数据库后端提供方便的接口.
+* [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends.
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 从 MySQL 到 PostgreSQL 的实时副本，具有可选的类型覆盖迁移和迁移功能.
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - 将数据从 PostgreSQL 导出为不同的数据格式.
 * [pg_docs_bot](https://github.com/mchristofides/pg_docs_bot/) - 将 PostgreSQL 文档链接重定向到当前版本的浏览器扩展.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - 以简单的方式将 CSV 和 JSON 导入 PostgreSQL.
 * [PGInsight](http://pginsight.io/) - 可轻松深入挖掘 PostgreSQL 数据库的 CLI 工具.
-* [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+* [pg_insights](https://github.com/lob/pg_insights) - 用于监控 Postgres 数据库健康状况的便捷 SQL.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用 COPY 流协议将数据加载到 PostgreSQL 中，并使用单独的线程来读取和写入数据.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - 可以部署到裸机、虚拟机或 Kubernetes 的 Postgres 指标收集和可视化.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池、复制、负载平衡和限制超出连接的中间件.
@@ -195,7 +194,7 @@
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - 适用于 PostgreSQL 的亚马逊关系数据库服务 (RDS)
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)  - Azure Database for PostgreSQL 提供完全托管、企业就绪的社区 PostgreSQL 数据库即服务. 它提供内置 HA、弹性缩放和与 Azure 生态系统的本地集成.
 * [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/)  - 来自 Postgres 专家的完全托管的 Postgres. 适用于所有主要云提供商：Amazon AWS、Google GCP、Microsoft Azure. 完全超级用户支持，无需锁定.
-* [Database Labs](https://www.databaselabs.io) - 在几分钟内获得生产就绪的云 PostgreSQL 服务器，每月 20 美元起 备份、监控、补丁和 24/7 技术支持都包括在内.
+* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)  - 完全托管的 PostgreSQL 数据库. 没有免费计划. 起价为 15 美元/月. 具有时间点恢复的每日备份. 具有自动故障转移功能的备用节点.
 * [ElephantSQL](https://www.elephantsql.com/)  - 提供从用于小型项目和概念证明的共享服务器到企业级多服务器设置的数据库. 有最多 5 个数据库的免费计划，每个数据库 20 MB.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - 完全托管的数据库服务，可让您在 Google Cloud Platform 上轻松设置、维护、管理和控制 PostgreSQL 关系数据库.

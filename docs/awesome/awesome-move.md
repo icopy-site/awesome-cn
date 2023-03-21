@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="MystenLabs/awesome-move"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable double-link-->
 ## Awesome Move [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -59,7 +58,7 @@
 - [Token](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/Token.move)  - 另一个类似 ERC20 的代币. 部署在星币上.
 - [GAS](https://github.com/OLSF/libra/blob/main/language/diem-framework/modules/0L/GAS.move)  - 实例化上述 Diem 标准的代币. 部署在 0L 上.
 - [STC](https://github.com/starcoinorg/starcoin-framework/blob/main/sources/STC.move)  - 实例化上述星币标准的代币. 部署在星币上.
-- [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move) - A governance token of Starswap dApp that powers the AMM+DEX ecosystem. Deployed on Starcoin.
+- [STAR](https://github.com/Elements-Studio/starswap-core/blob/master/sources/gov/STAR.move)  - 为 AMM+DEX 生态系统提供动力的 Starswap dApp 的治理代币. 部署在星币上.
 - [XUSDT](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XUSDT.move) - 星币上USDT的映射资产.
 - [XETH](https://github.com/Elements-Studio/poly-stc-contracts/blob/master/sources/asset/erc20/XETH.move) - 星币上 ETH 的映射资产.
 - [WEN stablecoin](https://github.com/wenwenprotocol/wen-protocol) - 部署在星币上.
@@ -219,8 +218,8 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 - [The Move Programming Language](https://youtu.be/J1U_0exNFu0)
 - [Move on Sui](https://www.youtube.com/watch?v=xMsE1X4wio4)
 - [Move on Aptos](https://www.youtube.com/watch?v=gvRJdJTQd8U)
-- [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - 谈话来自 [@sblackshear](https://github.com/sblackshear) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
-- [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - 谈话来自 [@DavidLDill](https://github.com/DavidLDill) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
+- [Move: A Safe Language for Programming with Money](https://www.youtube.com/watch?v=EG2-7bQNPv4&ab_channel=FieldsInstitute) - Talk from [@sblackshear](https://github.com/sblackshear) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
+- [Formal Verification of Move Programs for the Libra Blockchain](http://www.fields.utoronto.ca/talks/Formal-verification-Move-programs-Libra-blockchain) - Talk from [@DavidLDill](https://github.com/DavidLDill) 在 [Fields Institute Blockchain](http://www.fields.utoronto.ca/activities/seminar_series/blockchain-research-seminar-series) 研究研讨会系列.
 - [Move for the Masses](https://www.youtube.com/watch?v=b_2jZ4YEfWc) - 在 [Converge '22](https://converge.circle.com/event/4ea0d06f-3900-4b6d-a9cd-aeaedda9ef2e/summary).
 
 ## Slides

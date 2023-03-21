@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="lyqht/awesome-supabase"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Supabase  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [Supabase](https://supabase.com/) 是 Firebase 的一个很棒的开源替代品，它为您提供 Postgres 数据库、身份验证、即时 API、边缘功能、实时订阅和存储.
@@ -39,7 +38,7 @@
 ## Data Migration Tools
 
 - [Supabase Schema](https://supabase-schema.vercel.app/)  - 使用这个方便的工具生成 SQL 脚本和数据库图表. 不需要任何敏感信息，只需要项目 url + 匿名密钥.
-- [Heroku to Supabase Importer](https://migrate.supabase.com/)  - 鉴于 Heroku 即将结束免费层支持，如果你有任何你想继续支持你的项目的 Postgres DB，迁移到 Supabase 将是一个不错的选择. 有了这个工具，迁移过来就轻而易举了. 这是 [a guide](https://supabase.com/docs/guides/migrations/heroku) 带有此迁移过程的视频.
+- [Heroku to Supabase Importer](https://migrate.supabase.com/)  - 鉴于 Heroku 即将结束免费层支持，如果您有任何想要继续支持您的项目的 Postgres DB，迁移到 Supabase 将是一个不错的选择. 有了这个工具，迁移过来就轻而易举了. 这是 [a guide](https://supabase.com/docs/guides/migrations/heroku) 带有此迁移过程的视频.
 - [Supabase DB to Google Sheets](https://github.com/jadynekena/supabase-googlesheet) - 将 Supabase 数据拉入 Google 表格的工具.
 - [Retool REST API data generator](https://retool.com/api-generator) - 用于生成要插入到 PostgresDB 中的结构化数据的工具.
 
@@ -84,4 +83,4 @@
 ## Other interesting articles
 
 - [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - 分析 Supabase 的增长营销策略，尤其是在 Twitter 上.
-- [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - 介绍了 Fleeting Notes（一个笔记应用程序）如何从 Firebase 迁移到 Supabase 的 Stripe 集成及其数据库的过程.
+- [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - 介绍了 Fleeting Notes（一个笔记应用程序）如何在 Stripe 集成及其数据库方面从 Firebase 迁移到 Supabase 的过程.

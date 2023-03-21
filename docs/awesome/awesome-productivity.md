@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="jyguyomarch/awesome-productivity"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 &gt; 精选的令人愉快的生产力资源列表.
 
@@ -29,7 +28,7 @@
 ### File Management
 
 - [Box](https://www.box.com) - 非常适合企业客户的云存储解决方案.
-- [Dropbox](https://www.dropbox.com) - 简单、优雅、多功能的云存储解决方案.
+- [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
 - [Google Drive](https://www.google.ca/drive/) - 深度融入谷歌生态系统的云存储解决方案.
 - [Mega](https://mega.nz/) - 一个非常慷慨的（从一开始就 50G）和高度安全的云存储解决方案.
 - [Nextcloud](https://nextcloud.com) - 让您掌控一切的自托管生产力平台.
@@ -75,7 +74,7 @@
 - [Tweek](https://tweek.so) - 超级简单的待办事项列表和每周任务管理.
 - [VivifyScrum](https://www.vivifyscrum.com)  - 适用于交付团队的敏捷项目管理应用程序. 可定制的 Scrum 和看板.
 - [Bordio](https://bordio.com/) - 用于在一块板上管理任务和事件的每日计划器.
-- [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
+- [OpenProject](https://www.openproject.org/) - 一个内部部署的开源项目管理解决方案，带有免费的社区版和企业版.
 
 ### Habit Trackers
 

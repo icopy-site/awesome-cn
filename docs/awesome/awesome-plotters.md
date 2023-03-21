@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="beardicus/awesome-plotters"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Plotters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 计算机控制绘图机和其他视觉艺术机器人的精选代码和资源列表.
@@ -52,7 +51,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 和与串行绘图仪接口的 Python 库.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描版 PDF 手册.
-- [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+- [djipco/hpgl](https://github.com/djipco/hpgl) - 一个 Node.js 库，用于与 HPGL 兼容的绘图仪和打印机进行通信.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可以用作 X11 中的预览.
 - [vec](https://github.com/anachrocomputer/vec) - 用于生成 HPGL 的示例 C 代码，带有海龟图形界面.
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) - HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
@@ -86,7 +85,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - 将绘图直接从 Inkscape 发送到 Line-us 绘图仪.
 - [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Line-us 绘图仪基于 G 代码的 API 的示例代码.
 - [@beardicus/line-us](https://github.com/beardicus/line-us) - 用于从 Node 或浏览器控制 Line-us 机器的 JavaScript 库.
-- [PenPlotter](https://github.com/RickMcConney/PenPlotter) - 使用 repetier 固件的 Polargraph 控制器.
+- [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Makelangelo 极谱机器人的固件.
 - [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 的软件.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - 用于处理 AxiDraw 的海龟图形.
@@ -154,7 +153,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 
 - [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 关于开始使用旧 HPGL 绘图仪的好信息.
 - [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - 另一篇关于现代笔式绘图仪的入门文章.
-- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
+- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 编程矢量路径的一些基础知识，包括排序、连接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣的算法的详细解释和例子.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="n2cholas/awesome-jax"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint ignore double-link-->
 
 <!--lint ignore double-link-->
@@ -83,7 +82,7 @@
 - [KFAC-JAX](https://raw.githubusercontent.com/deepmind/kfac-jax) - 神经网络近似曲率的二阶优化. <img src="https://img.shields.io/github/stars/deepmind/kfac-jax?style=social" align="center">
 - [TF2JAX](https://raw.githubusercontent.com/deepmind/tf2jax) - 将函数/图形转换为 JAX 函数. <img src="https://img.shields.io/github/stars/deepmind/tf2jax?style=social" align="center">
 - [jwave](https://raw.githubusercontent.com/ucl-bug/jwave) - 可区分声学模拟库 <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
-- [GPJax](https://github.com/thomaspinder/GPJax) - Gaussian processes in JAX.
+- [GPJax](https://github.com/thomaspinder/GPJax) - JAX 中的高斯过程.
 - [Jumanji](https://raw.githubusercontent.com/instadeepai/jumanji) - 一套用 JAX 编写的行业驱动的硬件加速 RL 环境. <img src="https://img.shields.io/github/stars/instadeepai/jumanji?style=social" align="center">
 - [Eqxvision](https://raw.githubusercontent.com/paganpasta/eqxvision) - 火炬视觉的 Equinox 版本. <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 - [JAXFit](https://raw.githubusercontent.com/dipolar-quantum-gases/jaxfit) - 用于非线性最小二乘问题的加速曲线拟合库（参见 [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
@@ -106,7 +105,7 @@
 - [Accurate Quantized Training](https://github.com/google-research/google-research/tree/master/aqt) - 用于在 JAX 和 Flax 中运行和分析神经网络量化实验的工具和库.
 - [BNN-HMC](https://github.com/google-research/google-research/tree/master/bnn_hmc) - 论文的实施 [_What Are Bayesian Neural Network Posteriors Really Like?_](https://arxiv.org/abs/2104.14421).
 - [JAX-DFT](https://github.com/google-research/google-research/tree/master/jax_dft) - JAX中的一维密度泛函理论（DFT），实现 [_Kohn-Sham equations as regularizer: building prior knowledge into machine-learned physics_](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.036401).
-- [Robust Loss](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - Reference code for the paper [_A General and Adaptive Robust Loss Function_](https://arxiv.org/abs/1701.03077).
+- [Robust Loss](https://github.com/google-research/google-research/tree/master/robust_loss_jax) - 论文参考代码 [_A General and Adaptive Robust Loss Function_](https://arxiv.org/abs/1701.03077).
 - [Symbolic Functionals](https://github.com/google-research/google-research/tree/master/symbolic_functionals) - 示范来自 [_Evolving symbolic density functionals_](https://arxiv.org/abs/2203.02540).
 - [TriMap](https://github.com/google-research/google-research/tree/master/trimap) - 官方 JAX 实现 [_TriMap: Large-scale Dimensionality Reduction Using Triplets_](https://arxiv.org/abs/1910.00204).
 
@@ -145,7 +144,7 @@
 - [GIFT](https://github.com/google-research/google-research/tree/master/gift) - 正式实施 [_Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent_](https://arxiv.org/abs/2106.06080).
 - [Light Field Neural Rendering](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - 正式实施 [_Light Field Neural Rendering_](https://arxiv.org/abs/2112.09687).
 - [Sharpened Cosine Similarity in JAX by Raphael Pisoni](https://colab.research.google.com/drive/1KUKFEMneQMS3OzPYnWZGkEnry3PdzCfn?usp=sharing) - 锐化余弦相似度层的 JAX/Flax 实现.
-- [GNNs for Solving Combinatorial Optimization Problems](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) - 一个 JAX + Flax 实现 [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+- [GNNs for Solving Combinatorial Optimization Problems](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
 
 ### Haiku
 
@@ -218,7 +217,7 @@
 - [Exploring hyperparameter meta-loss landscapes with JAX by Luke Metz](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/) - 演示如何使用 JAX 通过 SGD 和 Momentum 执行内部损失优化、使用梯度进行外部损失优化以及使用进化策略进行外部损失优化.
 - [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - 演练使用 JAX 轻松干净地实现自动微分变分推理 (ADVI).
 - [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - 训练对不同分辨率的输入通道的不同组合具有鲁棒性的分类模型，然后使用遗传算法来决定特定损失的最佳组合.
-- [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab，介绍语言的各个方面并将它们应用于简单的 ML 问题.
+- [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab that introduces various aspects of the language and applies them to simple ML problems.
 - [Writing an MCMC sampler in JAX by Jeremie Coullon](https://www.jeremiecoullon.com/2020/11/10/mcmcjax3ways/) - 关于在 JAX 中编写 MCMC 采样器的不同方法以及速度基准的教程.
 - [How to add a progress bar to JAX scans and loops by Jeremie Coullon](https://www.jeremiecoullon.com/2021/01/29/jax_progress_bar/) - 关于如何使用“host_callback”模块向 JAX 中的已编译循环添加进度条的教程.
 - [Get started with JAX by Aleksa Gordić](https://github.com/gordicaleksa/get-started-with-JAX) - 从零 JAX 知识到在 Haiku 中构建神经网络的一系列笔记本和视频.

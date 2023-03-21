@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="timofurrer/awesome-asyncio"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; 精心挑选的 Python asyncio 框架、库、软件和资源列表.
 
-巨蟒 [asyncio](https://docs.python.org/3/library/asyncio.html) Python 3.4 标准库中引入的模块为使用协程编写单线程并发代码、通过套接字和其他资源进行多路复用 I/O 访问、运行网络客户端和服务器以及其他相关原语提供了基础设施.
+巨蟒 [asyncio](https://docs.python.org/3/library/asyncio.html) Python 3.4 引入标准库的模块为使用协程编写单线程并发代码、通过套接字和其他资源进行多路复用 I/O 访问、运行网络客户端和服务器以及其他相关原语提供了基础设施.
 
 Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——尤其是在 Python 社区以及 2014 年 3 月发布的 Python 3.4 中.
 因此，很难让自己了解最新的最棒的软件包.
@@ -86,8 +85,8 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 *用于测试基于 asyncio 的应用程序的库.*
 
 * [aiomock](https://github.com/nhumrich/aiomock/) - 一个支持异步方法的 python 模拟库.
-* [asynctest](https://github.com/Martiusweb/asynctest/)  - 使用测试功能增强标准单元测试包. 异步库
-* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+* [asynctest](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
+* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest 支持异步.
 * [aresponses](https://github.com/CircleUp/aresponses)  - 异步 http 模拟. 类似于 [responses](https://github.com/getsentry/responses) 图书馆用于 [requests](https://github.com/requests/requests).
 * [aioresponses](https://github.com/pnuckowski/aioresponses) - Python aiohttp 包中模拟/伪造 Web 请求的帮助程序.
 
@@ -143,7 +142,7 @@ Asyncio 并不是真正的全新技术，但几年来它似乎非常流行——
 
 ## Alternatives to asyncio
 
-*在 Python 中进行异步编程的替代方法，其中一些尝试支持与 `asyncio` 的某些兼容性，其他方法则根本不兼容.*
+*在 Python 中进行异步编程的替代方法，其中一些尝试支持与 `asyncio` 的某些兼容性，另一些则根本不兼容.*
 
 * [curio](https://github.com/dabeaz/curio) - 协程并发库.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - 基本 curio -&gt; asyncio 协程桥.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Mind Expanding Books
 
 
@@ -47,7 +46,7 @@
  | 从优秀到卓越：为什么有些公司实现了飞跃而其他公司却没有？ 吉姆·柯林斯 | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |  
  | 精益创业：不断创新如何创造出极其成功的企业 | 埃里克·里斯 | [4.04](https://www.goodreads.com/book/show/10127019-the-lean-startup) | 2011 |  
  | 全面参与的力量：管理精力而不是时间是高绩效和个人更新的关键 | 吉姆·洛尔，托尼·施瓦茨 | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |  
- | 清单宣言：如何把事情做好 | 阿图尔·加万德 | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |  
+ | 清单宣言：如何把事情做对 | 阿图尔·加万德 | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |  
  | 好主意从何而来| 史蒂文·约翰逊 | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
  | 传递幸福：通往利润、激情和目标的途径 | 谢家华 | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  | 创新者的困境 | 克莱顿米克里斯滕森 | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
@@ -106,7 +105,7 @@
  | 千面英雄 | 约瑟夫·坎贝尔 | [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 |  
  | 禅心，初心 | 铃木俊龙、大卫·查德威克 | [4.23](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) |  |  
  | 洞察力时代：从 1900 年维也纳到现在，探索理解艺术、思想和大脑中的无意识 | 埃里克·坎德尔 | [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
- | 沉思 | 马库斯·奥勒留 | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
+| Meditations | Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
  | 影响力：说服心理学 | 罗伯特·西奥迪尼 | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |  
  | 恐惧的礼物：保护我们免受暴力侵害的生存信号 | 加文德贝克尔 | [4.18](https://www.goodreads.com/book/show/56465.The_Gift_of_Fear) | 2000 |  
  | 不完美的礼物 | 布伦·布朗 | [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
@@ -156,7 +155,7 @@
  | 狗看到了什么：和其他冒险 | 马尔科姆·格拉德威尔 | [3.82](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) | 2009 |  
  | 消费：性、进化和消费者行为 | 杰弗里·米勒 | [3.82](https://www.goodreads.com/book/show/6283340-spent) | 2009 |  
  | 人们玩的游戏：交易分析基本手册 | 埃里克·伯恩.  | [3.81](https://www.goodreads.com/book/show/49176.Games_People_Play) | 1964 |  
- | 这会让你更聪明：改善思维的新科学概念| 约翰·布罗克曼 | [3.81](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) | 2012 |  
+| This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking | John Brockman | [3.81](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) | 2012 |  
  | 直觉泵和其他思考工具 | 丹尼尔·C·丹尼特 | [3.80](https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking) | 2014 |  
  | 乔纳森利文斯顿海鸥 | 理查德·巴赫 | [3.80](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) |  1970|  
  | 世界为何存在？：一个存在主义的侦探故事 | 吉姆·霍尔特 | [3.77](http://www.goodreads.com/book/show/8854815-why-does-the-world-exist) | 2012 |  
@@ -192,7 +191,7 @@
  | 少女日记 | 安妮·弗兰克 | [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
  | 创新者：一群黑客、天才和极客如何创造数字革命 | 沃尔特·艾萨克森 | [4.10](https://www.goodreads.com/book/show/21856367-the-innovators) | 2014 |
  | 爱因斯坦：他的生活和宇宙 | 沃尔特·艾萨克森 | [4.09](https://www.goodreads.com/book/show/10884.Einstein) | 2007 |
-| Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
+ | 史蒂夫·乔布斯 | 沃尔特·伊萨克森 | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
  | 我对真理的实验 | 圣雄甘地 | [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
  | 我一生的故事 | 海伦·凯勒 | [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
  | 海瑞塔不朽的生命缺失| 丽贝卡斯克鲁特 | [4.05](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks?ac=1&from_search=true) | 2010 |
@@ -243,11 +242,11 @@
  | 小阴谋家 |  Daniel P. Friedman、Matthias Felleisen、Duane Bibby、Gerald J. Sussman | [4.27](https://www.goodreads.com/book/show/548914.The_Little_Schemer) | 1995 |  
  | 科学天才：科学心理学 | 院长基思·西蒙顿 | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
  | 失控：机器、社会系统和经济世界的新生物学| 凯文·凯利 | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
- | 大脑：你的故事 | 大卫·伊格曼 | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
+| The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
  | 几乎所有事物的简史 | 比尔布赖森 | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |2003  | 
  | 在第四维度中制作和做的事情 | 马特·帕克 | [4.19](https://www.goodreads.com/en/book/show/21805670-things-to-make-and-do-in-the-fourth-dimension) | 2014 |  
  | 符号物种：语言与大脑的共同进化| 泰伦斯·W·执事 | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
-| A Brief History of Time | Stephen Hawking | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
+ | 时间简史 | 史蒂芬·霍金 | [4.12](https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time) | 1998 |  
  | 自私的基因 | 理查德·道金斯 | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |1976  |  
  | 虚构的现实：好奇心的进化| 伊恩·斯图尔特，杰克·科恩 | [4.11](https://www.goodreads.com/book/show/164560.Figments_of_Reality) | 2009 |  
  | 新的行政大脑：复杂世界中的额叶| 埃尔霍农·戈德堡 | [4.07](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) |  |  
@@ -379,7 +378,7 @@
  | 眨眼之间：电影剪辑的视角| 沃尔特默奇 | [4.24](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) | 1995 |  
  | 导演笔记：导演讲席的 130 堂领导力课 | 弗兰克·豪瑟，拉塞尔·赖奇 | [4.21](https://www.goodreads.com/book/show/254808.Notes_on_Directing) |  |  
  | 如何停止表演 | 哈罗德·古斯金 | [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
- | 演员实用手册| 梅丽莎·布鲁德、李·迈克尔·科恩、玛德琳·奥尔内克、纳撒尼尔·波拉克、罗伯特·普雷维蒂奥、斯科特·齐格勒、大卫·马梅特 | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
+ | 演员实用手册|  Melissa Bruder、Lee Michael Cohn、Madeleine Olnek、Nathaniel Pollack、Robert Previtio、Scott Zigler、David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
 
 ## Shakespeare
  | 名称 | 作者| 好读率 | 出版年份 |  
@@ -416,7 +415,7 @@
  | 道林格雷的画像 | 奥斯卡·王尔德 | [4.06](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray) | 1890 |  
  |  Watership Down：一部小说 | 理查德·亚当斯 | [4.05 ](https://www.goodreads.com/book/show/76620.Watership_Down) |1972|  
  | 一百年的孤独 | 加布里埃尔·加西亚·马尔克斯、格雷戈里·拉巴萨 | [4.04](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) | 1967 |  
- | 伊凡伊里奇之死 | 列夫·托尔斯泰 | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) | 1886  |
+| The Death of Ivan Ilych | Leo Tolstoy | [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) | 1886  |
  | 悉达多 | 赫尔曼·黑塞 | [4.03](https://www.goodreads.com/book/show/52036.Siddhartha) | 1922 |  
  | 安娜·卡列尼娜 | 列夫·托尔斯泰 | [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 1878 |  
  | 荒凉的房子| 查尔斯·狄更斯 | [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 1853 |  
@@ -455,7 +454,7 @@
  | 他的黑暗材料 | 菲利普普尔曼 | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) | 1995 |  
  | 最后的愿望 | 安杰伊·萨普科夫斯基 | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
  | 纳尼亚传奇 | 克莱夫·斯台普斯·刘易斯 | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
- | 时光之轮 | 罗伯特·乔丹 | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
+| The Wheel of Time | Robert Jordan | [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
  | 城市与城市 | 中国米维尔 | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
  | 破碎的帝国 | 马克·劳伦斯 | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
@@ -472,7 +471,7 @@
  | 凯恩和亚伯 | 杰弗里·阿切尔 | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 1979 |  
  | 艺伎回忆录 | 亚瑟金 | [4.12](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha) | 1997 |
  |  Ivan Denisovich 生命中的一天 | 亚历山大·索尔仁尼琴 | [4](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich) | 1962 |
-| Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
+ | 艾玛 | 简·奥斯汀 | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 1815 |  
  | 苏菲的世界：一部关于哲学史的小说 |  Jostein Gaarder 和 Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1991 |  
 
 ### Humor
@@ -504,7 +503,7 @@
  | 安德的游戏 - 传奇 | 奥森斯科特卡 | [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
  | 游戏玩家 | 伊恩·M·班克斯 | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
  | 第五圣物 | 星鹰 | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
-| Prodigy | Marie Lu | [4.24](https://www.goodreads.com/book/show/13414446-prodigy?ac=1&from_search=true&qid=BL85jNXP8P&rank=1) | 2013
+ | 神童 | 卢玛丽 | [4.24](https://www.goodreads.com/book/show/13414446-prodigy?ac=1&from_search=true&qid=BL85jNXP8P&rank=1) | 2013
  | 海伯龙 | 丹·西蒙斯 | [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |  
  | 宇宙漫画 | 伊塔洛·卡尔维诺 | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
  | 钻石时代 | 尼尔斯蒂芬森 | [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  

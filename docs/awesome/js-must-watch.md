@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="bolshchikov/js-must-watch"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt; 这是专门针对 JavaScript 的必看视频列表 
 
@@ -88,7 +87,7 @@
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
-1. Addy Osmani：**扩展您的 JavaScript 应用程序**
+1. Addy Osmani：**扩展你的 JavaScript 应用程序**
 	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
 	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
 	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]

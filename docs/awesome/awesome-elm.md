@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sporto/awesome-elm"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sporto/awesome-elm/master/./assets/elm-logo.svg?sanitize=true" height="180" width="180" />
@@ -85,7 +84,7 @@
 
 * [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) - 为考虑迁移到 Elm 的 Web 开发人员准备的一系列笔记.
 * [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612)  - 一篇描述减少 TEA 样板文件的可能方法的博客文章. 对于组件库和任何有兴趣了解您可以使用函数类型做的令人惊奇的事情的人都很有用.
-* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - 一篇文章描述了如何将遵循 Elm 架构的代码组织成独立的功能，如何在功能之间进行通信，以及如何将这些功能中的一些组合在一起以组装更大的功能.
+* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - An article describing how to organize code that follows the Elm architecture into independent features, how to communicate between features, and how to group some of these features together to assemble larger features.
 * [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - Elm 教育教程系列.
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - 实事求是地了解 Elm 与其他选项的优劣.
 
@@ -98,7 +97,7 @@
 
 ### Playlists
 
-* [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - Sep 2019
+* [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - 2019 年 9 月
 * [Elm Europe 2019](https://www.youtube.com/playlist?list=PL-cYi7I913S_oRLJEpsVbSTq_OOMSXlPD) - Jun 2019
 * [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
 * [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) - 2019 年 2 月
@@ -282,7 +281,7 @@
 * [run-elm](https://github.com/jfairbank/run-elm) — 从命令行运行 Elm 代码
 * [elm-instant](https://atom.io/packages/elm-instant)  - 原子包从编辑器中尝试你的榆树代码. 提供可视化 REPL 和预览窗格.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - 在您的浏览器中构建快速、全栈的网络应用程序.
-* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
+* [Elm Live](https://elm-live.com/)  - 灵活的 Elm 开发服务器. 包括实时重新加载！
 * [Elm Watch](https://github.com/lydell/elm-watch)  - 观看模式下的 `elm make`. 快速可靠.
 
 
@@ -342,7 +341,7 @@
 
 ### Sublime Text
 
-* [LSP-elm](https://github.com/sublimelsp/LSP-elm) - 用于 Sublime 的 Elm 语言服务器（推荐）.
+* [LSP-elm](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
 * [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Elm 的语言服务器实现
 * [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Sublime Text 中 Elm 的语法高亮显示.
 * [Elm Format on Save](https://github.com/evancz/elm-format-on-save) - 在保存时运行 elm-format 的 Sublime Text 插件.
@@ -463,7 +462,7 @@
 
 ## Who to follow
 
- *关注免费更新. 利用 [#elmlang](https://twitter.com/search?q=%23elmlang) 或者 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *关注免费更新. 使用 [#elmlang](https://twitter.com/search?q=%23elmlang) 或者 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---
@@ -479,7 +478,7 @@
 Awesome Elm 只是 awesome thing 的一部分，在这里获取更多信息：
 
 -<a href="https://github.com/sindresorhus/awesome" target="_blank">真棒</a> [**@sindresorhus**](https://github.com/sindresorhus)
--<a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">真棒</a>，真棒 [**@bayandin**](https://github.com/bayandin)
+-<a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">真棒，真棒</a> [**@bayandin**](https://github.com/bayandin)
 
 
 

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="dustinspecker/awesome-eslint"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://eslint.org/icon.svg" width="160" align="right" alt="eslint">](http://eslint.org)
@@ -19,7 +18,7 @@
 - [Airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb 的 ESLint 配置，支持 TypeScript.
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - 用于 React/Vue/TypeScript 项目的渐进式 ESLint 配置.
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - 包含用于 ESLint 团队维护的项目的 ESLint 配置.
-- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Facebook 风格指南的可共享配置.
+- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
 - [Feedzai](https://github.com/feedzai/eslint-config-feedzai) - Feedzai 用于 JavaScript/React 项目的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) - 可共享的配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - 可共享配置 [React](https://reactjs.org) 项目.
@@ -59,7 +58,7 @@
 ### Code Quality
 
 - [GitHub](https://github.com/github/eslint-plugin-github)  - 杂项. 来自 GitHub 的规则.
-- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - 检测错误和可疑模式的规则.
+- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - 各种很棒的 ESLint 规则.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  - 杂项. 规则.
 - [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin)  - 杂项. 规则. 没有个人配置的@mysticatea.
@@ -245,7 +244,7 @@ Lodash
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) - 使用 Babel 的解析器检查所有 Babel 特性.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - 生成与 ESLint 兼容的输出的 TypeScript 解析器.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku)  - 用于 Roku 开发的 BrightScript 插件. 包括解析器和规则.
 - [GraphQL](https://github.com/dotansimha/graphql-eslint)  - GraphQL AST 的解析器. 包括解析器、插件、处理器（用于非 graphql 文件）和规则.
 
@@ -268,7 +267,7 @@ Lodash
 - [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) - 期望在全局变量上使用 `window` 限定符，否则可能会与局部变量混淆.
 - [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自 ESLint）
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
-- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - `fixture` & `test` globals for TestCafe.
+- [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) - TestCafe 的`fixture` 和`test` 全局变量.
 
 ## Tools
 

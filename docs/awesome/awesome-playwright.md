@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mxschmitt/awesome-playwright"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Playwright [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 使用 Playwright 的很棒的工具、实用程序和项目的精选列表

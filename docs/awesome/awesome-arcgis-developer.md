@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="Esri/awesome-arcgis-developer"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome ArcGIS Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/Esri/awesome-arcgis-developer/master/esri-logo.png" align="right" width="100">
@@ -36,7 +35,7 @@
 - [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - 使用 ArcGIS 数据和服务为虚幻引擎开发的指南、API 参考和示例代码.
 - [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - 用于扩展 ArcGIS Pro Desktop 的文档、教程、API 参考、常见问题解答等.
 - [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - 关于 ArcGIS REST API 的一般文档：位置服务、内容管理、门户管理等.
-- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman 集合可与某些 REST API 一起使用：位置服务、托管要素图层、ArcGIS Online、ArcGIS Hub 等.
+- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
 - [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - 用于访问位置服务、ArcGIS Online 和 ArcGIS Enterprise REST API 的 JavaScript 模块集合的关键概念、教程和 API 参考.
 - [ArcGIS Urban API](https://developers.arcgis.com/arcgis-urban-api/) - 可用于直接与 ArcGIS Urban 数据交互的公共 GraphQL Web 服务.
 - [ArcObjects SDK for .Net](https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#RoadmapToExtendingArcObjects.htm) - 有关构成 ArcGIS 基础的组件对象模型 (COM) 组件库的 .Net SDK 的文档.
@@ -67,18 +66,18 @@
 - [ArcGIS Arcade Expression Templates](https://github.com/Esri/arcade-expressions) - 在所有支持的配置文件中收集可重复使用的 Arcade 表达式.
 - [ArcGIS Code Sharing](http://codesharing.arcgis.com/) - 搜索、浏览和使用代码、脚本、模型、加载项、小部件等.
 - [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unity 产品团队示例.
-- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队样本.
+- [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri 的官方 ArcGIS Maps SDK for Unreal Engine 产品团队示例.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - 由 Esri 的 REST JS 维护者构建的演示应用程序.
 - [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队示例.
-- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
+- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
 - [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri 的官方 ArcGIS Runtime Java 产品团队示例.
-- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
-- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队样本.
+- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
+- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri 的官方 ArcGIS Runtime .NET 产品团队示例.
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Java 示例.
 - [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Kotlin 示例.
-- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Runtime iOS product team samples.
+- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri 的官方 ArcGIS Runtime iOS 产品团队示例.
 - [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 示例.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 示例.
+- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 样本.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - 开始使用 ArcGIS API for JavaScript 4.x 的样板集合.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - 用于 ArcGIS API for JavaScript 的通用代码模式的 Visual Studio 代码片段集合.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 有助于成功使用所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android……）的社区示例.
@@ -153,7 +152,7 @@
 - [Offline](https://developers.arcgis.com/documentation/mapping-apis-and-services/offline/) - 在断开连接时显示、分析和编辑数据.
 - [Routing](https://developers.arcgis.com/documentation/mapping-apis-and-services/routing/) - 使用路由服务查找路线和方向.
 - [Search](https://developers.arcgis.com/documentation/mapping-apis-and-services/search/) - 使用地理编码服务搜索地址、企业和名胜古迹 (POI).
-- [Security and authentication](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/) - Access services and content using API keys and OAuth 2.0.
+- [Security and authentication](https://developers.arcgis.com/documentation/mapping-apis-and-services/security/) - 使用 API 密钥和 OAuth 2.0 访问服务和内容.
 - [Visualization](https://developers.arcgis.com/documentation/mapping-apis-and-services/visualization/) - 样式层以可视化 2D 和 3D 数据.
 
 ## Helpers
@@ -178,7 +177,7 @@
 - [geojson.io](https://github.com/mapbox/geojson.io)  - 用于可视化、生成和编辑地理空间矢量数据的 Web 应用程序. 支持 GeoJSON、TopoJSON、CSV、KML、WKT 和 shapefile.
 - [Mapshaper](https://github.com/mbloch/mapshaper) - 用于简化形状、编辑属性数据、剪辑、擦除、溶解、过滤等的 Web 应用程序.支持的文件格式：Shapefile、GeoJSON、TopoJSON 和 CSV 文件. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - 它内置在地图和场景查看器中，但一些 API（如 JavaScript 和 Python）也提供实用程序来帮助构建数据探索工具.
-- [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - Extension for visually previewing geospatial file content (GeoJSON, KML, etc) on a map.
+- [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - 用于在地图上可视化预览地理空间文件内容（GeoJSON、KML 等）的扩展.
 
 ## Playgrounds
 
@@ -239,7 +238,7 @@
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - 与遥感变化检测相关的数据集、代码和竞赛列表.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - 带有计算机视觉和深度学习注释的卫星图像训练数据集列表.
 - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - 按架构划分的网络（语义分割、实例感知分割等）、RNN、GANS、数据集等.
-- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Mapbox Vector Tile 规范的实现：解析器和生成器、客户端、应用程序和命令行工具、CLI 实用程序、服务器等.
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
 <!--lint disable no-emphasis-as-heading-->
 **Issues**

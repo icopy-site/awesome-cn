@@ -1,9 +1,8 @@
 <div class="github-widget" data-repo="ujjwalkarn/Machine-Learning-Tutorials"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 ## Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- - 此存储库包含机器学习和深度学习教程、文章和其他资源的主题精选列表. 其他很棒的列表可以在这里找到 [list](https://github.com/sindresorhus/awesome).
+ - 此存储库包含按主题精选的机器学习和深度学习教程、文章和其他资源列表. 其他很棒的列表可以在这里找到 [list](https://github.com/sindresorhus/awesome).
 
 - 如果您想为此列表做出贡献，请阅读 [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
@@ -125,7 +124,7 @@
 
 ## Statistics
 
-- [Stat Trek Website](http://stattrek.com/) - 自学统计的专用网站
+- [Stat Trek Website](http://stattrek.com/) - 一个自学统计的专用网站
 
 - [Learn Statistics Using Python](https://github.com/rouseguy/intro2stats) - 使用以应用程序为中心的编程方法学习统计
 
@@ -149,7 +148,7 @@
 
 - [What are QQ Plots?](http://onlinestatbook.com/2/advanced_graphs/q-q_plots.html)
 
-- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - 免费的PDF教科书
+- [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_book=os) - 免费PDF教科书
 
 <a name="blogs" />
 
@@ -161,7 +160,7 @@
 
 - [ML Wave](http://mlwave.com/) - 学习机器学习的博客
 
-- [Andrej Karpathy](http://karpathy.github.io/) - 一般关于深度学习和数据科学的博客
+- [Andrej Karpathy](http://karpathy.github.io/) - 一篇关于深度学习和数据科学的博客
 
 - [Colah's Blog](http://colah.github.io/) - 很棒的神经网络博客
 
@@ -173,11 +172,11 @@
 
 - [Yanir Seroussi's Blog](https://yanirseroussi.com/) - 关于数据科学及其他领域的博客
 
-- [fastML](http://fastml.com/) - 机器学习变得容易
+- [fastML](http://fastml.com/) - 机器学习变得简单
 
 - [Trevor Stephens Blog](http://trevorstephens.com/) - 特雷弗斯蒂芬斯个人页面
 
-- [no free hunch | kaggle](http://blog.kaggle.com/) - 关于所有数据科学的 Kaggle 博客
+- [no free hunch | kaggle](http://blog.kaggle.com/) - 关于数据科学所有事物的 Kaggle 博客
 
 - [A Quantitative Journey | outlace](http://outlace.com/) - 学习定量应用
 
@@ -187,13 +186,13 @@
 
 - [AI Junkie](http://www.ai-junkie.com/) - 关于人工智能的博客
 
-- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) - 使深度学习易于访问
+- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) - 让深度学习触手可及
 
 - [J Alammar's Blog](http://jalammar.github.io/)- 关于机器学习和神经网络的博客文章
 
-- [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - 最简单的机器学习入门
+- [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - 最简单的机器学习介绍
 
-- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning)  - 不断更新机器学习文档（主要是 Python3）. 内容包括从头开始机器学习算法的教育实施和开源库的使用
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning)  - 持续更新机器学习文档（主要是Python3）. 内容包括从头开始机器学习算法的教育实施和开源库的使用
 
 <a name="quora" />
 
@@ -292,7 +291,7 @@
     - [How should outliers be dealt with?](http://stats.stackexchange.com/questions/175/how-should-outliers-be-dealt-with-in-linear-regression-analysis)
 
 - [Elastic Net](https://en.wikipedia.org/wiki/Elastic_net_regularization)
-    - [通过正则化和变量选择
+    - [正则化和变量选择通过
 弹性网](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 <a name="logistic" />
@@ -343,7 +342,7 @@
     
     - [Good Resources](http://www.chioka.in/tag/cross-validation/)
     
-    - 过拟合和交叉验证
+    - 过度拟合和交叉验证
     
         - [Preventing Overfitting the Cross Validation Data | Andrew Ng](http://ai.stanford.edu/~ang/papers/cv-final.pdf)
         
@@ -505,7 +504,7 @@
     - 咖啡
         - [Deep Learning for Computer Vision with Caffe and cuDNN](https://devblogs.nvidia.com/parallelforall/deep-learning-computer-vision-caffe-cudnn/)
 
-    - TensorFlow
+    - 张量流
         - [Website](http://tensorflow.org/)
         
         - [TensorFlow Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
@@ -560,7 +559,7 @@
 
 <a name="rnn" />
 
-- 循环和 LSTM 网络
+- 循环网络和 LSTM 网络
     - [awesome-rnn: list of resources (GitHub Repo)](https://github.com/kjw0612/awesome-rnn)
     
     - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
@@ -650,7 +649,7 @@
 
 <a name="auto" />
 
-- 自动编码器：无监督（设置目标 = 输入后应用 BackProp）
+- 自动编码器：无监督（在设置目标 = 输入后应用 BackProp）
 
     - [Andrew Ng Sparse Autoencoders pdf](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf)
     
@@ -867,7 +866,7 @@
     
     - [Intuition Behind Gaussian Kernel in SVMs?](https://www.quora.com/Support-Vector-Machines/What-is-the-intuition-behind-Gaussian-kernel-in-SVM)
     
-- SVM 后的概率
+- SVM 后概率
 
     - [Platt's Probabilistic Outputs for SVM](http://www.csie.ntu.edu.tw/~htlin/paper/doc/plattprob.pdf)
     
@@ -920,7 +919,7 @@
 
 - [What is Deviance in context of Decision Trees?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
 
-- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - 生成并绘制决策树以自动找出数据中的隐藏规则
+- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - 生成并绘制决策树以自动找出数据中隐藏的规则
 
 - 不同算法的比较
 
@@ -954,7 +953,7 @@
     
     - [How to extract tree structure from ctree function?](http://stackoverflow.com/questions/8675664/how-to-extract-tree-structure-from-ctree-function)
     
-- 柴德
+-柴德
 
     - [Wikipedia Artice on CHAID](https://en.wikipedia.org/wiki/CHAID)
     
@@ -962,7 +961,7 @@
     
     - [Good Tutorial on CHAID](http://www.statsoft.com/Textbook/CHAID-Analysis)
     
-- 行进
+- 火星
 
     - [Wikipedia Article on MARS](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines)
     
@@ -1034,7 +1033,7 @@
     
     - [Practical XGBoost in Python online course (free)](http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python)
     
-- AdaBoost
+-AdaBoost
 
     - [AdaBoost Wiki](https://en.wikipedia.org/wiki/AdaBoost), [Python Code](https://gist.github.com/tristanwietsma/5486024)
     
@@ -1044,7 +1043,7 @@
     
     - [Tutorial](http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf)
 
-- CatBoost
+- 猫助推器
 
     - [CatBoost Documentation](https://catboost.ai/docs/)
 
@@ -1176,6 +1175,6 @@
 
 ## Other Tutorials
 
-- 有关使用 R 的数据科学教程的集合，请参阅 [this list](https://github.com/ujjwalkarn/DataScienceR).
+- 有关使用 R 的数据科学教程集，请参阅 [this list](https://github.com/ujjwalkarn/DataScienceR).
 
-- 有关使用 Python 的数据科学教程合集，请参阅 [this list](https://github.com/ujjwalkarn/DataSciencePython).
+- 有关使用 Python 的数据科学教程的集合，请参阅 [this list](https://github.com/ujjwalkarn/DataSciencePython).

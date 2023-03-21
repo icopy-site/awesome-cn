@@ -1,8 +1,7 @@
 <div class="github-widget" data-repo="weblancaster/awesome-IoT-hybrid"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;缺少的出色列表-很棒的IoT和Hybrid Apps框架，工具，资源，视频和闪亮的东西的集合.
+&gt; The missing awesome list - 很棒的物联网和混合应用程序框架、工具、资源、视频和闪亮事物的集合.
 
 
 
@@ -39,7 +38,7 @@
 - [Kaa Project](https://www.kaaproject.org/)
 
 ## IIoT (Industrial IoT)
-- [OPC Router](https://www.opc-router.com/) -具有各种插件的IIoT网关/工作流引擎（Mqtt桥，OPC UA桥，SQL桥，REST桥，SAP桥）
+- [OPC Router](https://www.opc-router.com/) - 具有各种插件的 IIoT 网关/工作流引擎（Mqtt Bridge、OPC UA Bridge、SQL Bridge、REST Bridge、SAP Bridge）
 
 
 ## Hybrid Desktop
@@ -76,33 +75,33 @@
 
 ## Contributing
 
-1.叉！
-2.创建您的分支：`git checkout -b my-new-branch`
-3.提交您的更改：`git commit -am&#39;fix stuff&#39;`
+1.叉它！
+2. 创建你的分支：`git checkout -b my-new-branch`
+3. 提交您的更改：`git commit -am &#39;fix stuff&#39;`
 4.推送到分支：`git push origin my-new-branch`
 5.提交拉取请求
 
 
 ## License
 
-MIT许可证（MIT）
+麻省理工学院执照 (MIT)
 
-版权所有（c）2014 Michael Lancaster
+版权所有 (c) 2014 Michael Lancaster
 
-特此授予获得副本的任何人免费的许可
-软件和相关文档文件（以下简称“软件”）的交易
+特此免费向任何获得副本的人授予许可
+本软件和相关文档文件（“软件”），处理
 在软件中不受限制，包括但不限于权利
-使用，复制，修改，合并，发布，分发，再许可和/或出售
-本软件的副本，并允许本软件所针对的人
-具备以下条件：
+使用、复制、修改、合并、发布、分发、再许可和/或出售
+该软件的副本，并允许该软件是
+提供这样做，但须满足以下条件：
 
-上述版权声明和此许可声明应包含在所有
-复制本软件或本软件的实质部分.
+上述版权声明和本许可声明应包含在所有
+软件的副本或重要部分.
 
-本软件按“原样”提供，不提供任何形式的明示或明示保证.
-暗示（包括但不限于适销性的保证），
- 适用于特定目的和非侵权.  在任何情况下都不会
-作者或版权持有人对任何索赔，损害或其他责任
-无论是由于合同，侵权或其他原因而引起的责任，
-与软件或软件的使用或其他交易无关或与之有关
+本软件“按原样”提供，不提供任何形式的明示或保证
+暗示的，包括但不限于适销性保证，
+适用于特定目的和非侵权. 在任何情况下都不得
+作者或版权持有人对任何索赔、损害或其他
+责任，无论是在合同、侵权或其他方面的行为中，由以下原因引起，
+出于或与软件或使用或其他交易有关
 SOFTWARE.

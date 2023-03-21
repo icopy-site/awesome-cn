@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="nix-community/awesome-nix"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Nix [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://nixos.org/logo/nixos-logo-only-hires.png" width="200" align="right" alt="NixOS">](https://nixos.org)
 
 &gt; Nix 社区中精选的最佳资源列表.
@@ -73,7 +72,7 @@
 * [deadnix](https://github.com/astro/deadnix) - 扫描 Nix 文件中的死代码.
 * [manix](https://github.com/mlvzk/manix) - 查找 Nixpkgs、NixOS 和 Home Manager 的配置选项和功能文档.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
-* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) -nixpkgs 的 Nix 代码格式化程序.
+* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Nixpkgs 包表达式的自以为是的 linter.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - 在 Nix/NixOS 上轻松运行未打补丁的二进制文件.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - 解释为什么两个 Nix 推导不同的工具.
@@ -176,7 +175,7 @@
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与 Rust 工具链和 Firefox 的叠加.
-* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
 * [rust-overlay](https://github.com/oxalica/rust-overlay) - 二进制分布式 Rust 工具链的纯粹且可重现的 nix 覆盖.
 
 ### Scala

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="egeerardyn/awesome-LaTeX"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 [![LaTeX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png)](https://www.latex-project.org/)
@@ -112,7 +111,7 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org)  - 非常强大的跨平台 (Java) bibtex 编辑器.  ![mac] ![windows] ![linux] ![foss]
-- [Papis](https://github.com/papis/papis) - 高度可定制，
+- [Papis](https://github.com/papis/papis) - Extremely customizable,
   强大而简单的跨平台（Python）库管理器. 它有一个非常
   完整的命令行界面、多个 GUI 和脚本功能.
   ![linux] ![mac] ![foss]
@@ -152,7 +151,7 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
 - [TikzEdt](https://www.tikzedt.org) （还： [GitHub repo](https://github.com/hchapman/tikzedt) ) - 所见即所得和基于文本的 TikZ 图片编辑器.  ![源代码]
 - [TikZ-Editor](https://github.com/fredokun/TikZ-Editor)  - TikZ 图形的实时预览编辑器.  ![mac] ![linux] ![foss]
 - [IPE](https://ipe.otfried.org)  - 与 LaTeX 命令和文档完美集成的绘图工具.  ![源代码]
-- [GeoGebra](https://www.geogebra.org/)  - 可输出到 TikZ 的跨平台几何工具.  ![源代码]
+- [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
 - [Dia](https://wiki.gnome.org/Apps/Dia)  - 可以导出到 PSTricks 和 MetaPost 代码的跨平台图表工具.  ![源代码]
 - [TikZiT](https://tikzit.GitHub.io)  - 使用 PGF/TikZ 创建图形和字符串图的 GUI 工具.  ![windows] ![linux] ![mac] ![foss]
 - [LaTeXDraw](https://latexdraw.sourceforge.net/)  - 以 LaTeX 作为一等公民的基于矢量的绘图工具.  ![windows] ![linux] ![mac] ![foss]
@@ -274,7 +273,7 @@ TikZ 是一个很棒的软件包，包含许多插件，可让您从 LaTeX 文�
 
 ## Meta Awesome-LaTeX
 
-如果你想贡献，请阅读我们 [CONTRIBUTING](https://github.com/egeerardyn/awesome-LaTeX/blob/master/CONTRIBUTING.md) guidelines.
+如果你想贡献，请阅读我们 [CONTRIBUTING](https://github.com/egeerardyn/awesome-LaTeX/blob/master/CONTRIBUTING.md) 准则.
 
 ## Legend
 
@@ -292,7 +291,7 @@ TikZ 是一个很棒的软件包，包含许多插件，可让您从 LaTeX 文�
 所有商标均为其各自所有者的财产.
 
 [mac]: https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg
-[linux]: https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
+[Linux]: https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
 [窗户]：https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
 [源码]：https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
 [很棒]：https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

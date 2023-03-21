@@ -1,9 +1,8 @@
 <div class="github-widget" data-repo="jaredthecoder/awesome-vehicle-security"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-*A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
+*精选资源、书籍、硬件、软件、应用程序、要关注的人以及更多关于车辆安全、汽车黑客和修补汽车功能的精彩内容.*
 
 ![](https://raw.githubusercontent.com/jaredthecoder/awesome-vehicle-security/master/assets/car_hacking_jeep.gif)
 
@@ -62,7 +61,7 @@
 - [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI)  - Jonathan Petit 的黑帽演讲. 自动化和联网车辆是交通的下一个发展方向，将提高安全性、交通效率和驾驶体验. 本次演讲将分为两部分：1) 自动驾驶车辆的安全性和 2) 联网车辆的隐私.  2015年
 - [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw)  - 查理米勒和克里斯瓦拉塞克的黑帽演讲. 汽车安全问题已从边缘化为主流，安全研究人员表明现代车辆对本地和远程攻击的敏感性. 车辆攻击面的讨论.  2014.
 - [Pentesting vehicles with YACHT (Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) - 讨论车辆不同攻击面的演示文稿，然后继续描述汽车黑客攻击的方法以及分析和收集有用信息所需的工具.
-- [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) - Introduction to CAN hacking, and using a real car as an Xbox controller.
+- [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) - 介绍 CAN 黑客攻击，以及使用真车作为 Xbox 控制器.
 - [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4) - Jay Turla 在 DEF CON 26 期间在 Packet Hacking Village / Wall of Sheep 介绍了如何攻击、寻找错误或破解您的 IVI 的指南.
 - [TR19: Automotive Penetration Testing with Scapy](https://www.youtube.com/watch?v=7D7uNqPWrXw) - 在 Troopers Conference 2019 上概述如何使用 Scapy 进行汽车渗透测试.
 - [Analysis and Defense of Automotive Networks](https://www.youtube.com/watch?v=a1huGwMjjd4) - BSides Knoxville 2020 的 CAN、安全和潜在入侵检测方法概述
@@ -179,9 +178,9 @@
 
 ### Podcasts
 - [Security Weekly](http://securityweekly.com/) - 涵盖所有安全范围的优秀播客，其中一些剧集的重点部分是从汽车到无人机的车辆安全.
-- [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - 来自 TrustedSec 的人，社会工程领域的领导者，他们的剧集经常涉及最近的车辆漏洞和漏洞利用.
+- [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - From the people at TrustedSec, leaders in Social Engineering, their episodes often go into recent vehicle vulnerabilities and exploits.
 - [SANS Internet Storm Center](https://isc.sans.edu/) - ISC 运行定期播客，介绍最新的漏洞和安全新闻.
-- [Security Ledger](https://soundcloud.com/securityledger) - 专注于就安全相关主题采访安全专家的播客.
+- [Security Ledger](https://soundcloud.com/securityledger) - A podcast focusing on interviewing security experts about topics related to security.
 
 ### Episodes
 - [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/) - Software Engineering Daily 与《汽车黑客手册》（上图）的作者 Craig Smith 一起做了一个关于侵入车辆的惊人插曲.

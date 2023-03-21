@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="marmelab/awesome-rest"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 关于 RESTful API 架构、开发、测试和性能的重要资源的协作列表. 随时为这个正在进行的列表做出贡献.
@@ -28,7 +27,7 @@
 * [Cisco REST API Guide](https://github.com/CiscoDevNet/api-design-guide) - 思科 REST API 设计指南.
 * [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Google 在设计 Cloud API 和其他 Google API（REST API 和 gRPC API）时遵循的准则.
 * [Haufe API Style Guide](https://github.com/Haufe-Lexware/api-style-guide) - 由 Haufe-Lexware CTO 团队创建的指南.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - 作为设计原则，Microsoft REST API 指南鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - Microsoft REST API 指南作为设计原则，鼓励应用程序开发人员通过 RESTful HTTP 接口访问资源.
 * [Restful API Guidelines by Zalando](https://github.com/zalando/restful-api-guidelines) - 开发 Restful API：一套综合指南.
 
 ## Standards
@@ -54,7 +53,7 @@
 ### JavaScript Clients
 
 * [restangular](https://github.com/mgonto/restangular) - AngularJS 服务可以正确、轻松地处理 REST API.
-* [restful.js](https://github.com/marmelab/restful.js) - 用于与服务器端 RESTful 资源交互的 JS 客户端.
+* [restful.js](https://github.com/marmelab/restful.js) - JS client for interacting with server-side RESTful resources.
 * [traverson](https://github.com/basti1302/traverson) - 用于 Node.js 和浏览器的超媒体 API/HATEOAS 客户端
 * [raml-client-generator](https://github.com/mulesoft/raml-client-generator) - 为 js 生成静态客户端库.
 
@@ -65,7 +64,7 @@
 
 ### Ruby Clients
 
-* [RESTClient](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+* [RESTClient](https://github.com/rest-client/rest-client) - 用于 Ruby 的简单 HTTP 和 REST 客户端，灵感来自用于指定操作的微框架语法.
 * [Spyke](https://github.com/balvig/spyke) - 以类似 ActiveRecord 的方式与 REST 服务交互.
 * [excon](https://github.com/excon/excon)  - 可用、快速、简单的 Ruby HTTP 1.1. 它作为通用的 HTTP(s) 客户端工作得很好，特别适合在 API 客户端中使用.
 * [httparty](https://github.com/jnunemaker/httparty) - 让 HTTP 再次变得有趣！
@@ -80,9 +79,9 @@
 ### .NET Clients
 
 * [RestSharp](https://github.com/restsharp/RestSharp) - .NET 的简单 REST 和 HTTP API 客户端
-* [Refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
+* [Refit](https://github.com/reactiveui/refit) - 适用于 Xamarin 和 .NET 的自动类型安全 REST 库
 * [Flurl](https://flurl.dev) - 流畅、可移植、可测试的 REST/HTTP 客户端库
-* [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可自定义. 深受 Refit 启发
+* [RestEase](https://github.com/canton7/RestEase)  - 易于使用的类型安全 REST API 客户端库，简单且可定制. 深受 Refit 启发
 * [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - 适用于 .NET 的最简单的 Fluent REST 客户端.
 * [RestLess](https://github.com/letsar/RestLess) - .Net Standard 的自动类型安全无反射 REST API 客户端库.
 * [Apizr](https://github.com/Respawnsive/Apizr) - 基于 Refit 的 web api 客户端，但具有弹性（重试、连接、缓存、身份验证、日志、优先级等）.
@@ -231,7 +230,7 @@
 * [Marvel Comics API](https://developer.marvel.com/) - 查询关于漫威超级英雄的人物、故事、事件.
 * [JSON Placeholder](https://jsonplaceholder.typicode.com/) - 免费的在线 REST 服务，您可以在需要一些虚假数据时使用.
 * [APIs.guru](https://APIs.guru) - Web API 的维基百科，每个 API 都有 OpenAPI/Swagger 描述.
-* [The Cat API](https://theCatAPI.com) - 猫图片、事实和笑话的公共 API.
+* [The Cat API](https://theCatAPI.com) - Public API for Cats Images, Facts and Jokes.
 
 ## Documentation
 

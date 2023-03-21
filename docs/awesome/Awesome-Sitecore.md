@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="MartinMiles/Awesome-Sitecore"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Sitecore [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/MartinMiles/Awesome-Sitecore/master/sitecore-logo.png" align="right" width="80">](https://sitecore.com)
@@ -58,7 +57,7 @@
 - [Caching Manager](https://github.com/jbluemink/SitecoreCachingManager) - 用于轻松管理 Sitecore 10 缓存的控制台.
 - [Cache Processing Instance](https://github.com/ParTech/Cache-Processing-Instance) - 专用 HTML 缓存处理实例的概念验证.
 - [ExperienceEditorCache](https://github.com/marek-musielak/Skillcore.ExperienceEditorCache) - 一个缓存模块，使使用 Sitecore Experience Editor 的工作更加愉快.
-- [ManualHtmlCacheClearer](https://github.com/TwentyGotoTen/ManualHtmlCacheClearer) - Clear specific HTML Caches on local and remote instances from the Sitecore client.
+- [ManualHtmlCacheClearer](https://github.com/TwentyGotoTen/ManualHtmlCacheClearer) - 从 Sitecore 客户端清除本地和远程实例上的特定 HTML 缓存.
 - [CacheCounters](https://github.com/matthewkenny/CacheCounters) - 将 Sitecore 缓存大小信息报告到 Windows 性能计数器中.
 - [Sitecore Rules-Based Output Caching](https://github.com/zkniebel/Sitecore-Advanced-Output-Caching) - 提供基于规则的 Sitecore 输出缓存差异支持，支持缓存个性化组件和其他需要更复杂缓存差异逻辑的组件.
 - [Dictionary Flush Partial Cache](https://github.com/jbluemink/DictionaryFlushPartialCache) - 在对 Sitecore 词典项目进行更改时闪烁部分 Html 缓存.
@@ -88,7 +87,7 @@
 - [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - 使用 Sitecore 10 和 SXA 在容器中运行构建的真实 Sitecore MVP 网站的源代码.
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - 为最新版本的 Sitecore 构建您自己的 Docker 映像.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) - 存储库包含本地 Sitecore 托管环境的 Packer 模板，带有 IIS 和 Windows 上的 SQL Server、SOLR 和 Sitecore 9.0 构建虚拟机映像和 VirtualBox 的 Vagrant 框，由 Chef 提供.
-- [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
+- [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - 一个简单的设置，使用生成的证书在使用 SSL 运行 solr 的主机上设置 Linux 容器.
 - [Sitecore Docker Tools](https://github.com/sitecore/docker-tools)  - 一组实用程序，用于在 Docker 环境中运行 Sitecore 时改善开发人员的体验. 这是一个带有开发脚本和入口点的图像，可以在 Sitecore 容器构建期间使用，还有一个 PowerShell 模块，其中包含在 Sitecore 容器主机上用于初始化 Sitecore Docker 环境的功能.
 - [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) - 样本撰写文件和相关配置超出了 Sitecore 官方提供的范围.
 - [Container Asset Image Creator Module](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - 用于为给定 Sitecore 模块自动创建 Docker 资产映像的脚本.
@@ -111,12 +110,12 @@
 - [Sitecore.Demo.CHONE](https://github.com/Sitecore/Sitecore.Demo.CHONE) - 由 Sitecore 演示解决方案团队构建的所有 Content Hub ONE 演示的存储库.
 
 
-- [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons)  - 实施 Linq 扩展，以便能够查询在 solr 索引中拦截 GeoJson 多边形的点. 该演示提供了一个带有空间字段的模板，几个示例项目以及来自覆盖某些城市的 openstreetmap 的多边形； 以及从查询字符串中读取纬度和经度并返回找到的项目的多边形的控制器渲染（例如，大本钟的坐标返回伦敦）.
-- [Sitecore Solr Schema](https://github.com/konabos/solr-sitecore-schema) - Solr 8.1.1 和 8.4.0 的 Sitecore 配置集（模式）.
+- [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben's coordinates return London).
+- [Sitecore Solr Schema](https://github.com/konabos/solr-sitecore-schema) - Solr 8.1.1 和 8.4.0 的 Sitecore 配置集（架构）.
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - 一种用于从 Sitecore 网络应用程序外部重建搜索索引的工具，特别适合长时间运行的构建.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell 脚本库有助于在 Windows 上安装 SolrCloud 集群. 
 - [Docker SolrCloud for Sitecore 10](https://github.com/jermdavis/Sitecore-SolrCloud-Docker)  - 创建一个 SolrCloud 容器，该容器可与 Docker 下的 Sitecore 10 实例一起使用. 这些文件已根据 Sitecore Docker 示例存储库中的 Solr 容器文件进行了调整. 可以使用这些文件替换 Sitecore 提供的默认“solr”服务.
-- [Sitecore SolrProxy](https://github.com/Antonytm/Sitecore.SolrProxy) - Tool for easy access to Solr admin console if you have access only to Sitecore CM.
+- [Sitecore SolrProxy](https://github.com/Antonytm/Sitecore.SolrProxy) - 如果您只能访问 Sitecore CM，则该工具可轻松访问 Solr 管理控制台.
 - [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch)  - Sitecore contentSearch 的通用扩展； 下面填充 SolrSchema 管道处理器，以确保将 Sitecore 中安装的所有语言都添加到 solr 管理的模式中. 
 - [Sitecore Computed Search](https://github.com/martinrayenglish/Sitecore-Computed-Search)  - 一个索引搜索开发加速器，允许开发人员在索引上声明计算的搜索字段，该索引可以捕获和存储范围内项目的目标字段值以及基于作为其表示一部分的特定模板的项目的字段值. 此外，可以使用搜索提升将特定权重应用于这些计算字段，以便可以在搜索结果中提升与搜索词匹配的内容.
 - [sitecore-azure-search-compat](https://github.com/richardszalay/sitecore-azure-search-compat) - Sitecore + Azure 搜索的兼容性补丁.
@@ -166,7 +165,7 @@
 - [Copy Version module](https://github.com/ParTech/Copy-Version)  - 向内容编辑器添加命令，允许用户复制和粘贴项目的最新版本而不是整个项目. 安装后，可以从内容树中的上下文菜单访问“复制版本”和“粘贴版本”命令.
 - [Browse Command](https://github.com/ParTech/Browse-Command)  - 添加一个命令，允许用户在新的浏览器窗口中打开 Sitecore 内容树中的项目.  Sitecore 不提供这种开箱即用的功能，但具有进入预览模式效果的预览命令除外，因此给定模块将执行完全相同的操作，但不会进入预览模式.
 - [Expand Descendants Command](https://github.com/ParTech/Expand-Descendants-Command#expand-descendants-command) - 该模块添加了一个命令，允许用户从 Sitecore 内容树中展开一个项目的所有后代.
-- [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) - An environment specific styling (and text) on login screen and header ribbon for Sitecore.
+- [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) - Sitecore 的登录屏幕和标题功能区上的环境特定样式（和文本）.
 - [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) - 防止 Sitecore 用户绕过插入选项.
 - [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) - 允许在 Sitecore 内容编辑器树上使用 Visual Studio 的“作用域”功能.
 - [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) - 提高了设备​​编辑器的工作效率，如果设置为该特定组件则显示数据源，并通过弹出窗口单击进行预览.
@@ -218,7 +217,7 @@
 
 - [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - 这是 Sitecore Experience Edge Content as-a-Service 方法的一个很好的例子，它使用基于 React 的 NextJS，使用最新的 Content Hub 的演示实例.
 - [Uniform, JSS and Next.js starter kit](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - 带有内容项和所需配置文件的 Uniform、JSS 和 Next.JS 入门工具包，非常适合用于启动 vanilla 项目.
-- [Uniform, MVC and Next.js starter kit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - 包含内容项和所需配置文件的 Uniform、MVC 和 Next.JS 入门工具包，非常适合用于启动 vanilla 项目.
+- [Uniform, MVC and Next.js starter kit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit) - A starter kit of Uniform, MVC and Next.JS with content items and required configuration files, great to start a vanilla project with.
 
 ## Headless
 
@@ -237,13 +236,13 @@
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - 将自定义 Sitecore 链接提供程序从非 Helix 转换为 Helix 的演示.
 - [Elision](https://github.com/sitecore-elision) - 实现 Helix 原则的开源 Sitecore 加速器.
 - [Helixify](https://github.com/konabos/Konabos.Helixify) - 该模块旨在为任何 Sitecore 项目添加即时 Helix 兼容性.
-- [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Avanade 的 Sitecore Framework 遵循 Helix 模块化架构设计原则.
+- [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework from Avanade that follows the Helix modular architecture design principles.
 - [PLAY Summit Demo](https://github.com/Sitecore/Sitecore.Demo.Edge) - XM、Experience Edge、Content Hub DAM 和 CMP、Content Hub Edge、JSS、CDP、Sitecore Personalize、Next.js 和 Vercel 的演示.
 
 ## Icons
 
 - [Extra People Icons](https://github.com/jermdavis/ExtraPeopleIcons) - Sitecore 实例的一些额外“人”图标.
-- [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - MSBuild extensions for building Sitecore icon zip archives and including them in the published website.
+- [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - 用于构建 Sitecore 图标 zip 存档并将其包含在已发布网站中的 MSBuild 扩展.
 
 ## Integration
 
@@ -251,7 +250,7 @@
 
 ## Languages
 
-- [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) - 项目翻译器模块无缝集成了谷歌翻译，因此只需单击一个按钮，您就可以将文本翻译成谷歌翻译支持的任何语言.
+- [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) - An item Translator module integrates Google translate seamlessly so that with a click of a button you are able to translate your text to any language that Google translate supports.
 - [Sitecore Item Versioner](https://github.com/aquasonic/SitecoreItemVersioner) - 此模块将新功能区添加到内容编辑器的版本块中.使用新功能区，可以最初创建所有配置语言的项目版本.
 - [CopyPageToVersions](https://github.com/merkle-open/SitecoreCopyPageToVersions) - 内容编辑器和体验编辑器的扩展，为内容编辑器提供一个对话框，其中特定版本的页面可以复制到可选择的语言版本列表，包括页面呈现中引用的所有数据源.
 
@@ -318,7 +317,7 @@
 - [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - 用于在您的 Sitecore Azure PaaS 环境中安装 Sitecore 发布服务的 ARM 模板和用于创建必要的 Web 部署包的脚本.
 - [SIF scripts to install Publishing Service](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) - Powershell 脚本均使用 Sitecore 安装框架 (SIF) 自动安装发布服务并在 ContentManagement 实例或 StandAlone 实例之上自动安装发布模块. 
 - [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) - 允许您监控 Sitecore Publishing CM Server 上的发布队列，查看其当前状态并在需要时取消发布作业（即排队时间、发布作业开始时间、队列持续时间、发布项目数、平均发布时间）一个项目，来自发布作业的所有消息）.
-- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  - 强制发布项目的发布按钮，无论发布限制中项目选项卡上的可发布选项的状态如何.  1) 此功能不会发布您站点中未发布的链接页面，而只会发布媒体库项目和项目字段中使用的数据源等资源，因为这些资源是正确显示您要发布的项目所必需的. 如果尚未完成，此方法甚至会发布当前项目使用的模板和布局.  2) 取消发布按钮使您可以通过单击取消发布项目. 它将更改发布限制，因为它取消选中项目选项卡上的可发布选项，然后使用不带子项目的完整重新发布发布项目.  3) 发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但该项目之后发生了更改，则会显示一个橙色点（因此它已发布，但不是最新的）. 如果当前项目根本不存在于发布目标中，则会显示一个红点. 此功能使内容编辑器能够针对每个发布目标详细检查内容是否已发布.
+- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  - 强制发布项目的发布按钮，无论发布限制中项目选项卡上的可发布选项的状态如何.  1) 此功能不会发布您站点中未发布的链接页面，而只会发布媒体库项目和项目字段中使用的数据源等资源，因为这些资源是正确显示您要发布的项目所必需的. 如果尚未完成，此方法甚至会发布当前项目使用的模板和布局.  2) 取消发布按钮使您可以通过单击取消发布项目. 它将更改发布限制，因为它取消选中项目选项卡上的可发布选项，然后使用不带子项目的完整重新发布发布项目.  3) 发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但该项目之后发生了更改，则会显示一个橙色点（因此它已发布，但不是最新的）. 如果当前项根本不存在于发布目标中，则会显示一个红点. 此功能使内容编辑器能够针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
 
@@ -346,7 +345,7 @@
 - [SitecoreSitemapXML](https://github.com/JimmieOverby/SitecoreSitemapXML) - 生成符合 sitemaps.org 定义的架构的站点地图并将其提交给搜索引擎.
 - [Sitemap Generator](https://github.com/jermdavis/SitemapGenerator) - 用于站点地图生成的示例 Sitecore / FakeDB / TDS / Cloud Build 项目.
 - [Sitecore Solr](https://github.com/bigredmachine/sitecore-solr) - 如何扩展 Sitecore Solr 提供程序的示例代码.
-- [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) - Enables administrator or editors to manage URL rewrite rules from within the Sitecore client, supporting rewriting of hostnames, relative URL's and absolute URL's.
+- [URL Rewriter Module](https://github.com/ParTech/Url-Rewriter) - 使管理员或编辑能够从 Sitecore 客户端管理 URL 重写规则，支持重写主机名、相对 URL 和绝对 URL.
 - [RedirectManager](https://github.com/AlexanderDavyduk/Sitecore-RedirectManager) - Sitecore 的重定向管理器.
 - [URL Rewrite](https://github.com/iamandycohen/UrlRewrite) - 特定于站点的重定向/重写模块版本.
 
@@ -385,7 +384,7 @@
 - [SXA.Foundation.Variants](https://github.com/MartinMiles/SXA.Foundation.Variants) - 一组自定义 SXA 渲染变体和一些可能对您的解决方案有帮助的其他有用的东西.
 - [SXA Reference](https://github.com/alan-null/XA.Reference) - 在 Sitecore Experience Accelerator 之上构建的示例 Sitecore 项目.
 - [SXA.HealthCheck](https://github.com/alan-null/SXA.HealthCheck) - 用于确定 SXA 站点健康状态的 Power Shell 脚本，由验证步骤组成，每个验证步骤检查 SXA 解决方案中的不同内容并提供可能的解决方案.
-- [Global Field Validator](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) - An SXA module to validate fields at a site level rather than at the template field level.
+- [Global Field Validator](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) - 一个 SXA 模块，用于在站点级别而不是模板字段级别验证字段.
 - [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) - Visual Studio Code 已知对象扩展的 Scriban 语法着色和智能感知.
 - [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) - Sitecore 体验加速器 (SXA) 扩展.
 - [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) - 演示如何在安装了 Node 的 Docker 容器中使用 SXA CLI.
@@ -399,7 +398,7 @@
 
 ## Templates
 
-- [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) - 为 Sitecore 数据模板提供额外的标准值标记，包括未来日期和通过执行查询获取值.
+- [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) - Provides additional standard value tokens for Sitecore Data Templates, icludes future date and obtaining the value by executing a query.
 
 ## Tooling
 
@@ -424,7 +423,7 @@
 ## xConnect and xDB
 
 - [XConnectTutorial](https://github.com/jst-cyr/XConnectTutorial) - 基于 Sitecore 文档的教程存储库，可引导用户根据 Martina Welander 在“入门”教程和其他出色文档中的代码完成与 xConnect API 的常见交互.
-- [XConnectHelper](https://github.com/lowedown/xConnectHelper)  - 用于调试 xConnect 的瑞士军刀. 特点：洞察当前跟踪会话数据； 显示在上次页面浏览时触发的目标和事件； 验证您的 xConnect 设置（连接、证书、设置）的状态检查器； 在当前会话中设置标识符和基本联系人数据； 刷新当前会话以立即处理.
+- [XConnectHelper](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 - [XdbTracker](https://github.com/lowedown/XdbTracker) - 允许客户端触发 Sitecore 事件/目标和结果的 API 和 js 函数.
 - [Experience Generator](https://github.com/Sitecore/xGenerator) - 为具有可配置模式的 Sitecore 网站生成“逼真的”流量.
 - [xconnect-odata-proxy](https://github.com/ianjohngraham/xconnect-odata-proxy) - 一个简单的 Node.js 代理，用于访问 Sitecore 9 中的 xConnect 的 oData API.

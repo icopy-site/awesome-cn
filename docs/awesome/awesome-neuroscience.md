@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="analyticalmonk/awesome-neuroscience"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!-- ![Awesome Neuroscience](https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png) -->
 <img src="https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png" width="50%">
 
@@ -80,7 +79,7 @@ MOOCs 可能以学院或大学课程为模式，也可能结构化程度较低.
 - [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) - 介绍哺乳动物神经系统，重点是人脑的结构和功能.
 - [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - 介绍基本的计算方法，以了解神经系统的作用和确定它们的功能.
 - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - 探索人类中枢神经系统的功能组织和神经生理学，同时为理解人类行为提供神经生物学框架.
-- [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience. 
+- [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) - 用于计算神经科学为期三周的强化暑期学校的 Jupyter 笔记本. 
 
 ### Communities
 - [Quora](https://www.quora.com/topic/Neuroscience-1) - Quora 上的神经科学主题包含专家对从基础到高级问题的答案.
@@ -90,7 +89,7 @@ MOOCs 可能以学院或大学课程为模式，也可能结构化程度较低.
 
 ### Newsletters
 - [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - 哈佛马奥尼神经科学研究所的季度电子通讯.
-- [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - 旨在解决计算神经科学一般领域中涉及的广泛研究方法和问题的邮件列表. 
+- [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - A mailing list that is is intended to address the broad range of research approaches and issues involved in the general field of computational neuroscience. 
 - [BrainPost](https://www.brainpost.co/) - 一个邮件列表，每周提供最新神经科学出版物的易于阅读的摘要.
 
 ### Miscellaneous

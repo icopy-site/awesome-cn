@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="roaldnefs/awesome-prometheus"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Prometheus  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; 精选的 Prometheus 资源、项目和工具列表.
@@ -15,7 +14,7 @@ Prometheus 是一个开源系统监控和警报工具包.
 - [Website](https://prometheus.io/) - 官方普罗米修斯项目网站.
 - [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus 的源代码、问题讨论和协作.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) - 官方普罗米修斯文档.
-- [Blog](https://prometheus.io/blog/) - 官方普罗米修斯博客.
+- [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 - [Official Prometheus demo](https://demo.do.prometheus.io) - 由 Cloud Alchemy Ansible 角色管理的官方 Prometheus 演示站点使用来自的配置每天更新 [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
@@ -116,7 +115,7 @@ Prometheus 是一个开源系统监控和警报工具包.
 - [AWS CloudWatch exporter](https://github.com/prometheus/cloudwatch_exporter) - Amazon AWS CloudWatch 指标的导出器.
 - [Collectd exporter](https://github.com/prometheus/collectd_exporter) - Collectd 指标的导出器.
 - [Graphite exporter](https://github.com/prometheus/graphite_exporter) - Graphite 指标的导出器.
-- [InfluxDB](https://github.com/prometheus/influxdb_exporter) - The exporter for InfluxDB metrics.
+- [InfluxDB](https://github.com/prometheus/influxdb_exporter) - InfluxDB 指标的导出器.
 - [JMX exporter](https://github.com/prometheus/jmx_exporter) - JMX 指标的导出器.
 - [SNMP exporter](https://github.com/prometheus/snmp_exporter) - SNMP 指标的导出器.
 - [StatsD exporter](https://github.com/prometheus/statsd_exporter) - StatsD 指标的导出器.

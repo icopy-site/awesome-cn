@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="steven2358/awesome-blockchain-ai"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 用于人工智能和机器学习的区块链项目精选列表.
@@ -13,12 +12,12 @@
 ### Wikipedia
 
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain) - “区块链是一个不断增长的记录列表，称为块，它们使用密码学链接.”
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - “在计算机科学领域，人工智能 (AI)，有时也称为机器智能，是机器展示的智能，与人类和其他动物展示的自然智能形成对比.”
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - “机器学习 (ML) 是对算法和统计模型的科学研究，计算机系统使用这些算法和统计模型有效地执行特定任务，而无需使用明确的指令，而是依赖于模式和推理.”
 
 ### Blockchain, AI and Machine Learning
 
-- [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - Jesus Rodriguez, May 23, 2019.
+- [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - 耶稣罗德里格斯，2019 年 5 月 23 日.
 - [How the Blockchain Could Break Big Tech's Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - 纽约时报，2018 年 10 月 20 日.
 - [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - 黑客中午，2018 年 6 月 7 日.
 - [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam，2018 年 3 月 13 日.
@@ -73,7 +72,7 @@
 - [Convergence of AI and DLT](https://doi.org/10.1109/ACCESS.2020.2981447)  - Pandl, KD、Thiebes, S.、Schmidt-Kraepelin, M. 和 Sunyaev, A.（2020 年）. 关于人工智能和分布式账本技术的融合：范围界定审查和未来研究议程.  *IEEE 访问*，8，57075-57095.
 - [Proof of Learning](https://arxiv.org/abs/2007.15145)  - Lan, Y.、Liu, Y. 和 Li, B. (2020). 学习证明 (PoLe)：通过在区块链上建立共识来增强机器学习能力.  *arXiv 预印本 arXiv:2007.15145*.
 - [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1109/Blockchain.2019.00057)  - Harris, JD 和 Waggoner, B.（2019 年 7 月）. 区块链上的分散式协作 AI.  *2019 年 IEEE 区块链国际会议 (Blockchain)*（第 368-375 页）.  IEEE.
-- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 斯普林格，查姆.
+- [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 施普林格，查姆.
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023)  - Mittal, A., &amp; Aggarwal, S. (2020). 使用区块链中可持续的工作量证明进行超参数优化.  *区块链前沿*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773)  - Qu, X., Wang, S., Hu, Q., &amp; Cheng, X. (2021). 联邦学习的证明：一种新颖的能量回收共识算法.  *关于并行和分布式系统的 IEEE 事务*，32(8)，2074-2085.
 - [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067)  - Li, B., Lu, Q., Jiang, W., Jung, T., &amp; Shi, Y.（2021 年 5 月）. 一种用于新型神经架构证明共识的矿池解决方案.  *2021 年 IEEE 区块链和加密货币国际会议 (ICBC)*（第 1-3 页）.  IEEE.

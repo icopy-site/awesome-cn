@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="jonathandion/awesome-emails"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
-<br>
 很棒的电子邮件 ☉ ✨
-<br>
 </h1>
-<h4 align="center" >一组很棒的框架、模板、工具、工作流等，用于构建更好的电子邮件.</h4>
-<br>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h4 align="center">
+ 一组很棒的框架、模板、工具、工作流等，用于构建更好的电子邮件.
+</h4>
+<p align="center" style="text-align: center;">
+<a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+<a href="https://twitter.com/@0xjdion"><img src="https://img.shields.io/twitter/url/https/twitter.com/blueaquilae.svg?style=social&amp;label=Follow%20%400xjdion" alt="Jonathan Dion Twitter"></a>
+</p>
 
 
 
@@ -82,7 +82,7 @@
 
 ## Services
 
-- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得简单.
+- [EmailOctopus](https://emailoctopus.com) - 电子邮件营销变得容易.
 - [Mailchimp](https://mailchimp.com/) - MailChimp 为全球超过 1500 万人提供电子邮件营销服务.
 - [Mailjet](https://mailjet.com/) - 多合一电子邮件服务提供商，允许企业发送营销、交易电子邮件和电子邮件自动化.
 - [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - 人工智能驱动的电子邮件营销平台，允许使用内置组件设计电子邮件.
@@ -93,9 +93,9 @@
 - [Mautic](https://mautic.com/)  - Mautic 营销自动化. 借助易于学习、易于使用且易于迭代的营销自动化，构建更智能的营销活动并更快地构建它们.
 - [Mailgun](https://www.mailgun.com/) - 面向开发人员的交易电子邮件 API 服务.
 - [eSputnik](https://esputnik.com/en) - eSputnik 是一个营销自动化系统，受到全球 3 万多名忠实客户的信赖，每月发送超过 10 亿封电子邮件.
-- [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
+- [Postmark](https://postmarkapp.com)  - 闪电般快速发送您的申请电子邮件.  Postmark 每次都按时将您的交易电子邮件发送给客户.
 - [ImprovMX](https://improvmx.com/) - 为您的域名创建免费的电子邮件别名.
-- [Reacher](https://reacher.email)  - 检查电子邮件是否存在而不发送任何电子邮件. 用 Rust 编写，100% 开源.
+- [Reacher](https://reacher.email) - Check if an email exists without sending any email. Written in Rust, 100% open-source.
 - [Kickbox](https://kickbox.com) - 电子邮件验证服务（检查电子邮件是否存在）.
 - [Forward Email](https://forwardemail.net) - 100% 开源和注重隐私的电子邮件服务.
 
@@ -205,7 +205,7 @@
 
 - [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - 这是所有最好的 JavaScript 书籍的精选列表.
 - [Web Configs](https://github.com/jonathandion/web-configs) - 用于构建 Web 应用程序的所有常见配置的 Monorepo.
-- [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) - Small Neovim configuration written in Lua that is specifically designed for web development.
+- [My Neovim Config](https://github.com/jonathandion/web-dev.nvim) - 用 Lua 编写的小型 Neovim 配置，专为 Web 开发而设计.
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

@@ -1,12 +1,11 @@
 <div class="github-widget" data-repo="pehapkari/awesome-symfony-education"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Symfony Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Build Status](https://img.shields.io/travis/pehapkari/awesome-symfony-education/master.svg?style=flat-square)](https://travis-ci.org/pehapkari/awesome-symfony-education)
 
-精选的Symfony **文章，系列和书籍的精选列表**.
+精选的令人惊叹的 Symfony **文章、系列和书籍**列表.
 
-*对于捆绑选择，请检查 [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony).*
+*对于捆绑选择，检查 [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony).*
 
 
 ## Single Action Controller
@@ -18,36 +17,36 @@
 ## Tutorials and Video Courses
 
 * [SymfonyCasts - Learn Symfony 4](https://symfonycasts.com/tracks/symfony)
-    *视频+文章.  简单明了，有实例.
+    * 视频 + 文章. 简单明了，有例子.
 * [Working with Symfony 2](https://code.tutsplus.com/series/working-with-symfony-2--cms-636)
-   *初学者的短视频系列
+   * 初学者短视频系列
 * [Symfony 2 - under 5 minutes](https://www.youtube.com/playlist?list=PL3Wxyd2R8-gIuToQ1NmhVSLZfjrBMePNu)
-   *初学者的短视频系列
+   * 初学者短视频系列
 
 
 ## Series for begginers
 
-* [Joyful Development with Symfony 3](https://symfonycasts.com/tracks/symfony3) [2016]由SymfonyCasts提供
-* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [二千零十六分之二千零十五​​] [捷克]
+* [Joyful Development with Symfony 3](https://symfonycasts.com/tracks/symfony3) [2016] 由 SymfonyCasts
+* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [捷克语]
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/) [2018]
 
 ## Dependency Injection
 
-* [How to refactor to new Dependency Injection features in Symfony 3.3](https://www.tomasvotruba.cz/blog/2017/05/07/how-to-refactor-to-new-dependency-injection-features-in-symfony-3-3/) 作者：Tomas Votruba [2017]
+* [How to refactor to new Dependency Injection features in Symfony 3.3](https://www.tomasvotruba.cz/blog/2017/05/07/how-to-refactor-to-new-dependency-injection-features-in-symfony-3-3/) 托马斯·沃特鲁巴 [2017]
 
 
 ## EventDispatcher
 
-* [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) 作者：Benjamin Eberlei [2013]
+* [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) 本杰明·埃伯雷 [2013]
 * [Re-thinking Event Listeners](http://mmoreram.com/blog/2015/08/20/re-thinking-event-listeners/) [2015]
-* [Journey to the Center of Symfony: HttpKernel Request-Response](https://symfonycasts.com/screencast/symfony-journey) 作者：SymfonyCasts [2015]
+* [Journey to the Center of Symfony: HttpKernel Request-Response](https://symfonycasts.com/screencast/symfony-journey) 通过 SymfonyCasts [2015]
 
 
 ## Security
 
 * [Symfony Security, Roles vs. Voters](https://stovepipe.systems/post/symfony-security-roles-vs-voters) [2015]
 * [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
-* [The new Voter Class](https://symfonycasts.com/screencast/new-in-symfony3/voter) [2016]由SymfonyCasts提供
+* [The new Voter Class](https://symfonycasts.com/screencast/new-in-symfony3/voter) [2016] 由 SymfonyCasts
 
 
 ## Forms
@@ -78,7 +77,7 @@
 
 ## Decoupling
 
-* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) 作者：Marcello Duarte和Konstantin Kudryashov [2013]， [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
+* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) 作者：Marcello Duarte &amp; Konstantin Kudryashov [2013]， [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
 * [Symfony2: How to create framework independent controllers](https://matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
 
 
@@ -106,23 +105,23 @@
 * [Symfony best practices](https://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
 * [Symfony tips and tricks](https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
 * [Some Symfony 2 practices](https://emanueleminotto.github.io/blog/some-symfony-2-practices)
-* [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [捷克语]  -  by [@spicimedved](https://twitter.com/spicimedved)
+* [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [捷克语] - by [@spicimedved](https://twitter.com/spicimedved)
 
 
 ## Books
 
 * [Symfony Framework Deepdive - Console](https://leanpub.com/symfonyframeworkdeepdive-console) [2015]
-    * Joshua Thijssen对控制台组件的详细指南
+    * Joshua Thijssen 的控制台组件详细指南
 * [Symfony Framework Deepdive - Security](https://leanpub.com/symfonyframeworkdeepdive-security) [2015]
-    * Joshua Thijssen的安全组件详细指南
+    * Joshua Thijssen 的安全组件详细指南
 * [Symfony Certification - Unofficial self-study guide](https://leanpub.com/symfony-selfstudy) [2015]
-    *关于Symfony基金会的基于QA的简短部分
-* [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [2014年更新]
-    *适合初学者阅读基本Symfony生命周期以及如何将其用于您的优势的好书.
+    * 关于 Symfony 基础的基于 QA 的简短部分
+* [A Year with Symfony](https://leanpub.com/a-year-with-symfony) [2014 年更新]
+    * 初学者了解基本 Symfony 生命周期以及如何利用它来发挥自己优势的好书.
 
 
 ### License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Tomas Votruba](https://www.tomasvotruba.cz/) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Tomas Votruba](https://www.tomasvotruba.cz/) 已放弃该作品的所有版权和相关或邻接权.

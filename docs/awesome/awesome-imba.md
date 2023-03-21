@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="koolamusic/awesome-imba"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="https://raw.githubusercontent.com/koolamusic/awesome-imba/master/./logo/imba-awesome-logo.min.svg?sanitize=true">
@@ -11,7 +10,7 @@
 
 &gt; 精选的 Imba 框架、库、软件和资源列表
 
-Imba 是一种受 Ruby 和 Python 启发的编程语言，可通过内置转译器和 webpack 加载器编译为高性能且可读的 JavaScript.
+Imba 是一种受 Ruby 和 Python 启发的编程语言，可使用内置转译器和 webpack 加载器编译为高性能和可读的 JavaScript.
 
 
 
@@ -30,30 +29,30 @@ Imba 是一种受 Ruby 和 Python 启发的编程语言，可通过内置转译�
 
 #### Toolkits and Frameworks
 
-- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect that was inspired by Create React App and Vue CLI.
+- [Start Imba](https://github.com/athif23/start-imba) - 受 Create React App 和 Vue CLI 启发的用于引导 Imba 保护的工具.
 - [Hello World Imba](https://github.com/imba/hello-world-imba)  - 官方 Imba“Hello World”示例. 您也可以将其用作 GitHub 模板.
 - [Imba Router](https://github.com/somebee/imba-router) - Imba 的实验路由器.
 - [UXA](https://github.com/somebee/uxa) - Imba 的实验框架.
-- [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) 插件启用 
-Imba 文件的处理.
+- [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) 启用插件 
+处理 Imba 文件.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - 用 Imba 编写的 Material Design 组件.
-- [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - 不平衡 [Inertia](https://inertiajs.com) 适配器.
+- [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - 房子 [Inertia](https://inertiajs.com) 适配器.
 - [Formidable](https://www.formidablejs.org/) - 用于快速 API 开发的 Imba 框架.
-- [Imba Shell](https://github.com/donaldp/imba-shell) - Imba 的交互式调试器和 REPL.
+- [Imba Shell](https://github.com/donaldp/imba-shell) - 用于 Imba 的交互式调试器和 REPL.
 
 #### Editor Plugins and IDEs
 
-- [Atom](http://github.com/somebee/language-imba) - 用于 Atom 的 Imba 插件.
-- [Sublime Text](http://github.com/somebee/sublime-imba) - Sublime 的 Imba 插件.
-- [VSCode](http://github.com/somebee/vscode-imba) - VSCode 的 Imba 插件.
+- [Atom](http://github.com/somebee/language-imba) - Atom 的 Imba 插件.
+- [Sublime Text](http://github.com/somebee/sublime-imba) - 用于 Sublime 的 Imba 插件.
+- [VSCode](http://github.com/somebee/vscode-imba) - 用于 VSCode 的 Imba 插件.
 
 
 #### Guides and Tutorials
 
 - [Official Guide](https://imba.io/guides)
 - [Imba more depth Guide](https://imba.github.io/imba-guide/)
-- [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - 这是一个详细的教程，记录了使用 Node.js、Imba 和 Webpack 构建“Hello World”应用程序所采取的步骤.
-- [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - 了解 Imba 为何快速、工作原理，然后尝试使用它.
+- [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - 这是一份详细的教程，记录了使用 Node.js、Imba 和 Webpack 构建“Hello World”应用程序所采取的步骤.
+- [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - 了解为什么 Imba 速度快，它是如何工作的，然后开始使用它.
 - [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - 了解 imba-router 在 Imba 中的工作原理.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - 了解如何使用 Imba 更快、更轻松地创建应用程序.
 
@@ -75,38 +74,38 @@ Imba 文件的处理.
 
 #### Tools
 
-- [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - 将 HTML 转换为 Imba 标记源的工具.
+- [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - 将 HTML 转换为 Imba 标签源的工具.
 - [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) - JSON 更漂亮.
-- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - 单字母密码的解码器.
+- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - 单字母密码解码器.
 - [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer) - 正则表达式工具.
 
 
 #### Apps/Websites
 
-- [Imba Todo MVC](https://github.com/somebee/todomvc-imba) - Imba TodoMVC 示例.
+- [Imba Todo MVC](https://github.com/somebee/todomvc-imba) - 主页 TodoMVC 示例.
 - [Other Todo MVC](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC 实现如下 [tastejs/todomvc](https://github.com/tastejs/todomvc) 规则.
 - [Simple Todo](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - 更基本的待办事项列表应用程序.
-- [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) - [view online](https://imba-realworld-example-app.netlify.com/) - 创建项目是为了展示一个完全成熟的全栈应用程序，它符合 [RealWorld](https://github.com/gothinkster/realworld) 规范和 API.
-- [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) - 用于构建 Hacker News 克隆的 Imba &amp; Capacitor 演示.
+- [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) - [view online](https://imba-realworld-example-app.netlify.com/) - 创建项目是为了演示一个完全成熟的全栈应用程序，它遵守 [RealWorld](https://github.com/gothinkster/realworld) 规范和API.
+- [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) - 用于构建 Hacker News 克隆的 Imba 和 Capacitor 的演示.
 - [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048) - 2048 游戏.
 - [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator)  - 计算器.
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) - 记忆游戏.
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) - 一个很酷的互动网站.
-- [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - 十五个谜题.
+- [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - 十五个难题.
 - [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - 生命游戏.
-- [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) - 酷酷的矩阵式雨动画.
+- [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) - 很酷的矩阵式下雨动画.
 - [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - 生成随机报价的应用程序.
-- [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROT-N 应用程序.
+- [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROOT-N 应用程序.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - 蛇游戏.
-- [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - 天气应用程序.
+- [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - 天气应用.
 - [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D僵尸射击游戏.
-- [Ping CRM](https://github.com/haikyuu/perfect-stack)  - 带有登录名、帐户、组织和联系人管理的 CRUD 应用程序. 使用 Inertia、Edgedb 和 Imba 构建
+- [Ping CRM](https://github.com/haikyuu/perfect-stack)  - 具有登录、帐户、组织和联系人管理功能的 CRUD 应用程序. 使用 Inertia、Edgedb 和 Imba 构建
 
 
 ## Contribution
 随时欢迎您的贡献和建议. 你在用 Imba 构建伟大的东西吗？ 欢迎与我们分享！  ：脸红：
 
-这里有 [instructions](https://github.com/koolamusic/awesome-imba/blob/master/./CONTRIBUTING.md) . 请阅读 [Code of Conduct](https://github.com/koolamusic/awesome-imba/blob/master/.github/CODE_OF_CONDUCT.md) 以及.
+这里是 [instructions](https://github.com/koolamusic/awesome-imba/blob/master/./CONTRIBUTING.md) . 请阅读 [Code of Conduct](https://github.com/koolamusic/awesome-imba/blob/master/.github/CODE_OF_CONDUCT.md) 以及.
 
 
 ## Contributors

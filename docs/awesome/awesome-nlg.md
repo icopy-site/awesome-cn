@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="accelerated-text/awesome-nlg"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Piscis Magnus from BL Harley 647](https://raw.githubusercontent.com/accelerated-text/awesome-nlg/master/logo.png)
@@ -18,7 +17,7 @@
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) - WebNLG 的丰富版本 - 用于评估常见 NLG 任务的资源，包括话语排序、词汇化和引用表达式生成.
 - [WikiBio - wikipedia biography dataset](https://rlebret.github.io/wikipedia-biography-dataset/)  - 该数据集从维基百科收集了 728,321 份传记. 它旨在评估文本生成算法.
 - [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) - Schema-Guided Dialogue (SGD) 数据集包含 20k 多个带注释的人与虚拟助手之间的多领域、面向任务的对话.
-- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
+- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  - 从维基百科收集的公司描述. 该数据集包含 51,000 家英文公司的语义表示、简短和详细描述.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG 提供自然语言生成餐厅评论的资源.
 
 ## Dialog
@@ -64,7 +63,7 @@
 - [PaperRobot: Incremental Draft Generation of Scientific Ideas](https://github.com/EagleW/PaperRobot) - 我们展示了一个 PaperRobot，它充当自动研究助理.
 - [PPLM](https://github.com/uber-research/PPLM)  - 即插即用语言模型实施. 允许引导 GPT-2 模型的主题和属性.
 - [Question Generation using hugstransformers](https://github.com/patil-suraj/question_generation) - 问题生成是从文本段落自动生成问题的任务.
-- [Texar](https://github.com/asyml/texar) - Texar 是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
+- [Texar](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 - [textgenrnn](https://github.com/minimaxir/textgenrnn) - 使用几行代码即可在任何文本数据集上轻松训练您自己的任何大小和复杂度的文本生成神经网络.
 - [This Word Does Not Exist](https://github.com/turtlesoupy/this-word-does-not-exist) - 这是一个允许人们训练 GPT-2 变体的项目，该变体从头开始构成单词、定义和示例.
 - [Transformers](https://github.com/huggingface/transformers) - 最先进的 TensorFlow 2.0 和 PyTorch 自然语言处理.

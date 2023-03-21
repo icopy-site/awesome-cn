@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="friendsofcake/awesome-cakephp"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 一份精选的 **CakePHP 4.x+** 插件、资源和闪亮物品的精选列表.
 
@@ -82,7 +81,7 @@
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - 包含调试和维护工具的轻量级设置插件.
 
 ## Dependency Injection
-*Plugins that implement the dependency injection design pattern.*
+*实现依赖注入设计模式的插件.*
 
 
 ## E-commerce
@@ -126,7 +125,7 @@
 - [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) - 带有 I18n 相关工具的插件.
 - [Cake/Localized plugin](https://github.com/cakephp/localized) - 本地化验证和即用型翻译 PO 文件.
 - [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) - 一个基于影子表的插件，用于替换核心的翻译行为.
-- [Translate plugin](https://github.com/dereuromark/cakephp-translate)  - 通过网络后端轻松管理静态内容的翻译，包括. 从 POT 文件导入，通过 API 自动建议和自动翻译.
+- [Translate plugin](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
 
 ## Imagery
 *用于处理图像的插件.*
@@ -165,7 +164,7 @@
 - [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - 为您的应用快速生成有用的数据传输对象（可变/不可变），替换凌乱的数组并通过类型提示和自动完成利用您的 IDE.
 - [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  - 存储当前身份验证会话并创建新会话以模拟用户的组件. 用户无需重新登录即可恢复到原始身份验证会话.
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  - 用于生成基本日历. 包括用于生成 ICS 日历文件的 IcalView.
-- [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
+- [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  - 允许访问者发送快速简单的反馈，包括. 通过侧边栏形式的屏幕截图.
 - [Flash plugin](https://github.com/dereuromark/cakephp-flash) - 为您的应用程序提供更强大的 flash 消息.
 - [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) - 用于 CakePHP 4.x 应用程序的 OPCache 预加载器. 
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - 维护 shell 为所有请求进入维护模式，并带有可选的 IP 白名单.

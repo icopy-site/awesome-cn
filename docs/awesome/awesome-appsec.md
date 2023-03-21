@@ -1,14 +1,13 @@
 <div class="github-widget" data-repo="paragonie/awesome-appsec"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 用于了解应用程序安全性的精选资源列表. 包含书籍，
 网站、博客文章和自我评估测验.
 
 维护者 [Paragon Initiative Enterprises](https://paragonie.com) 和
-来自应用程序安全和开发者社区的贡献. 我们也
+来自应用程序安全和开发人员社区的贡献. 我们也
 have [other community projects](https://paragonie.com/projects) 这可能是
-对明天的应用程序安全专家有用.
+对未来的应用程序安全专家很有用.
 
 如果您是软件安全主题的绝对初学者，您可能会受益
 从阅读 [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
@@ -84,7 +83,7 @@ have [other community projects](https://paragonie.com/projects) 这可能是
 
 **发布**：2014 年 2 月 25 日
 
-关于密码安全伪随机数生成器的建议.
+关于加密安全伪随机数生成器的建议.
 
 ### [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm) (2014)
 
@@ -96,23 +95,23 @@ have [other community projects](https://paragonie.com/projects) 这可能是
 
 **发布**：2014 年 5 月 3 日
 
-提到了许多使 `/dev/urandom` 在 Linux/BSD 上失败的方法.
+提到了许多使 Linux/BSD 上的 `/dev/urandom` 失败的方法.
 
 ### [Why Invest in Application Security?](https://paragonie.com/white-paper/2015-why-invest-application-security) (2015)
 
 **发布**：2015 年 6 月 21 日
 
-经营企业需要具有成本意识并尽量减少不必要的支出. 大多数公司都看不到确保应用程序安全的好处，因此他们常常忽略投资安全软件开发作为一种节省成本的措施. 这些公司没有意识到可预防的数据泄露可能产生的潜在成本（财务和品牌声誉）.
+经营企业需要有成本意识并尽量减少不必要的支出. 大多数公司都看不到确保应用程序安全的好处，因此他们常常忽视投资安全软件开发作为一种节省成本的措施. 这些公司没有意识到可预防的数据泄露可能导致的潜在成本（财务和品牌声誉）.
 
 **平均数据泄露造成数百万美元的损失.**
 
-对于大多数公司来说，投入更多时间和人员来开发安全软件是值得的，可以将这种不必要的风险降至最低.
+对于大多数公司来说，投入更多的时间和人员来开发安全软件是值得的，可以将这种不必要的风险降至最低.
 
 ### [Be wary of one-time pads and other crypto unicorns](https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/) (2015)
 
 **发布**：2015 年 3 月 25 日
 
-对于希望构建自己的加密功能的任何人来说，这是一本**必读之书.
+对于希望构建自己的密码学功能的任何人来说都是**必读**.
 
 ## Books
 
@@ -124,12 +123,12 @@ have [other community projects](https://paragonie.com/projects) 这可能是
 
 **发布**：2010 年 3 月 15 日
 
-在介绍加密设计技术的同时培养一种专业的偏执感.
+在展示密码设计技术时培养职业偏执感.
 
 
 **发布**：2018 年 3 月 1 日
 
-保护 DevOps 探讨了如何将 DevOps 和安全技术一起应用以使云服务更安全. 这本介绍性书籍回顾了用于保护 Web 应用程序及其基础架构的最先进的实践，并教您将安全性直接集成到您的产品中的技术.
+保护 DevOps 探讨了如何将 DevOps 和安全技术结合起来使云服务更安全. 这本介绍性书籍回顾了用于保护 Web 应用程序及其基础架构的最先进实践，并教您将安全性直接集成到您的产品中的技术.
 
 
 **发布**：2009 年 5 月 3 日
@@ -177,7 +176,7 @@ have [other community projects](https://paragonie.com/projects) 这可能是
 
 
 
-**Released**: December 29, 2004
+**发布**：2004 年 12 月 29 日
 
 
 
@@ -204,7 +203,7 @@ have [other community projects](https://paragonie.com/projects) 这可能是
 
 
 
-**发布**：2014 年 8 月 1 日
+**Released**: August 1, 2014
 
 
 
@@ -212,33 +211,33 @@ have [other community projects](https://paragonie.com/projects) 这可能是
 
 **发布**：2016 年 9 月 17 日
 
-由三部分组成的系列丛书的第一部分，广泛而深入地介绍了 Web 开发人员和架构师需要了解的内容，以便创建健壮、可靠、可维护和安全的软件、网络和其他内容，这些软件、网络和其他内容可以持续、按时交付，没有令人讨厌的惊喜.
+系列丛书分为三部分，第一部分广泛而深入地介绍了 Web 开发人员和架构师需要了解的内容，以便创建稳健、可靠、可维护和安全的软件、网络和其他，这些软件、网络和其他软件、网络和其他软件、网络和其他软件、网络和其他软件、网络和其他软件、网络和其他软件、网络和其他软件、网络和其他软件、网络和其他软件、没有令人讨厌的惊喜.
 
 ### [Holistic Info-Sec for Web Developers (Fascicle 1)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications)
 
-三部分系列丛书的第二部分，广泛而深入地介绍了 Web 开发人员和架构师需要了解的内容，以便创建强大、可靠、可维护和安全的软件、VPS、网络、云和 Web 应用程序，并交付连续，准时，没有令人讨厌的惊喜.
+由三部分组成的系列丛书的第二部分广泛而深入地介绍了 Web 开发人员和架构师需要了解的内容，以便创建健壮、可靠、可维护和安全的软件、VPS、网络、云和 Web 应用程序，交付连续，准时，没有令人讨厌的惊喜.
 
 ## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
-佛罗里达州立大学的 Owen Redwood 开设的漏洞研究和利用开发课程. 
+佛罗里达州立大学的欧文·雷德伍德 (Owen Redwood) 开设的漏洞研究和利用开发课程. 
 
-**请务必查看 [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
+**一定要检查 [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
 ### [Hack Night](https://github.com/isislab/Hack-Night)
 
-由 NYU Poly 旧的渗透测试和漏洞分析课程的材料开发而成，Hack Night 是对攻击性安全的发人深省的介绍. 在 13 周内向学生介绍各种复杂且身临其境的主题时，很快就会涵盖许多复杂的技术内容.
+ Hack Night 是根据 NYU Poly 的旧渗透测试和漏洞分析课程的材料开发的，是对攻击性安全的清醒介绍. 在 13 周内向学生介绍各种复杂和身临其境的主题时，很快就会涵盖许多复杂的技术内容.
 
 ## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
 
-通过尝试入侵此网站来了解应用程序的安全性.
+通过尝试破解此网站来了解应用程序安全性.
 
 ### [Enigma Group](http://www.enigmagroup.org)
 
-黑客和安全专家来培训的地方.
+黑客和安全专家前来培训的地方.
 
 ### [Web App Sec Quiz](https://timoh6.github.io/WebAppSecQuiz/)
 
@@ -254,7 +253,7 @@ Web 应用程序安全性自我评估测验
 
 ### [Open Security Training](http://opensecuritytraining.info/)
 
-Video courses on low-level x86 programming, hacking, and forensics.
+有关低级 x86 编程、黑客攻击和取证的视频课程.
 
 ### [MicroCorruption](https://microcorruption.com/login)
 
@@ -262,7 +261,7 @@ Video courses on low-level x86 programming, hacking, and forensics.
 
 ### [The Matasano Crypto Challenges](http://cryptopals.com)
 
-自学密码学的一系列编程练习 [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) Maciej Ceglowski 很好地解释了这一点.
+自学密码学的一系列编程练习 [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) 由 Maciej Ceglowski 解释得很好.
 
 ### [PentesterLab](https://pentesterlab.com)
 
@@ -274,11 +273,11 @@ PentesterLab 提供 [free Hands-On exercises](https://pentesterlab.com/exercises
 
 ### [Supercar Showdown](http://hackyourselffirst.troyhunt.com/)
 
-如何在在线攻击者之前进行攻击.
+如何抢在网络攻击者之前进攻.
 
 ### [OWASP NodeGoat](https://github.com/owasp/nodegoat)
 
-目的是易受 OWASP Top 10 Node.JS Web 应用程序的攻击，具有 [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) . 有几个选项可以快速启动和运行.
+故意容易受到 OWASP Top 10 Node.JS Web 应用程序的攻击， [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) . 有几个选项可以快速启动和运行.
 
 ### [Securing The Stack](https://securingthestack.com)
 
@@ -286,7 +285,7 @@ PentesterLab 提供 [free Hands-On exercises](https://pentesterlab.com/exercises
 
 ### [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat)
 
-OWASP ServerlessGoat 是一个故意不安全的现实 AWS Lambda 无服务器应用程序，由 OWASP 维护并由 [PureSec](https://www.puresec.io/) . 您可以安装 WebGoat，了解漏洞、如何利用它们以及如何修复每个问题. 该项目还包括解释问题以及应如何使用最佳实践进行补救的文档.
+OWASP ServerlessGoat 是一个故意不安全的现实 AWS Lambda 无服务器应用程序，由 OWASP 维护并由 [PureSec](https://www.puresec.io/) . 您可以安装 WebGoat，了解漏洞、如何利用它们以及如何修复每个问题. 该项目还包括解释问题以及如何使用最佳实践解决问题的文档.
 
 ### Blogs
 
@@ -296,7 +295,7 @@ OWASP ServerlessGoat 是一个故意不安全的现实 AWS Lambda 无服务器�
 
 #### [NCC Group - Blog](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/)
 
-NCC Group 的博客，前身为 Matasano、iSEC Partners 和 NGS Secure.
+NCC Group（前身为 Matasano、iSEC Partners 和 NGS Secure）的博客.
 
 #### [Scott Helme](https://scotthelme.co.uk)
 
@@ -306,13 +305,13 @@ NCC Group 的博客，前身为 Matasano、iSEC Partners 和 NGS Secure.
 
 **发布**：2018 年 7 月 30 日
 
-加密公司的博客，该公司制作开源库和工具，并描述了应用程序和基础设施的实用数据安全方法.
+制作开源库和工具并描述应用程序和基础架构的实用数据安全方法的加密公司的博客.
 
 ### Wiki pages
 
 #### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
-在 Web 应用程序中发现的十大最常见和最严重的安全漏洞.
+Web 应用程序中发现的十大最常见和最严重的安全漏洞.
 
 ### Tools
 
@@ -330,7 +329,7 @@ NCC Group 的博客，前身为 Matasano、iSEC Partners 和 NGS Secure.
 
 #### [clickjacker.io](https://clickjacker.io)
 
-测试和学习点击劫持. 制作点击劫持 PoC，截图并分享链接. 您可以测试 HTTPS、HTTP、Intranet 和内部站点.
+测试并学习点击劫持. 制作点击劫持 PoC，截图并分享链接. 您可以测试 HTTPS、HTTP、内联网和内部站点.
 
 ## AWS Lambda
 
@@ -348,7 +347,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2015 年 2 月 24 日
 
-一个社区维护的 Wiki，详细介绍了 Android 开发的安全编码标准.
+一个由社区维护的 Wiki，详细介绍了 Android 开发的安全编码标准.
 
 ## C
 
@@ -358,7 +357,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2006 年 5 月 24 日
 
-一个社区维护的 Wiki，详细介绍了 C 编程的安全编码标准.
+社区维护的 Wiki，详细介绍了 C 编程的安全编码标准.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2022)
 
@@ -374,7 +373,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2006 年 7 月 18 日
 
-一个社区维护的 Wiki，详细介绍了 C++ 编程的安全编码标准.
+社区维护的 Wiki，详细介绍了 C++ 编程的安全编码标准.
 
 ## C Sharp
 
@@ -383,7 +382,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2015 年 7 月 14 日
 
-介绍开发面向 .NET Framework 4.5 版的安全应用程序，特别涵盖密码学和安全工程主题.
+介绍针对 .NET Framework 4.5 版开发安全应用程序，特别涵盖密码学和安全工程主题.
 
 ## Clojure
 
@@ -413,7 +412,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2007 年 1 月 12 日
 
-一个社区维护的 Wiki，详细介绍了 Java 编程的安全编码标准.
+一个由社区维护的 Wiki，详细介绍了 Java 编程的安全编码标准.
 
 ### [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
 
@@ -429,7 +428,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2015 年 10 月 13 日
 
-涵盖了许多用于开发安全 Node.js 应用程序的有用信息.
+涵盖了许多用于开发安全的 Node.js 应用程序的有用信息.
 
 ### [Awesome Electron.js hacking & pentesting resources](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
 
@@ -442,15 +441,15 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2017 年 7 月 19 日
 
-实用且丰富的源代码，是保护 Node.js Web 应用程序的实用指南.
+动手实践并提供丰富的源代码，是保护 Node.js Web 应用程序的实用指南.
 
 ## Training
 
 
-向领导该项目的团队学习 [Node Security Project](https://nodesecurity.io)
+向带头的团队学习 [Node Security Project](https://nodesecurity.io)
 
 
-我们开展多种类型的信息安全培训，涵盖物理、人员、VPS、网络、云、Web 应用程序. 大部分内容来源于 [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) 金已经工作了好几年. 可以找到更多信息 [here](https://binarymist.io/#services)
+我们运行多种类型的信息安全培训，涵盖物理、人员、VPS、网络、云、Web 应用程序. 大部分内容来源于 [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) 金已经工作了几年. 可以找到更多信息 [here](https://binarymist.io/#services)
 
 ## PHP
 
@@ -460,7 +459,7 @@ FunctionShield 是一个 100% 免费的 AWS Lambda 安全和 Google Cloud Functi
 
 **发布**：2014 年 11 月 28 日
 
-PHP 应用程序中定时攻击的简要介绍
+对 PHP 应用程序中的定时攻击的简单介绍
 
 ### [Secure Authentication in PHP with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence) (2015)
 
@@ -478,25 +477,25 @@ Padriac Brady 关于构建不易受 XSS 攻击的软件的建议
 
 **发布**：2011 年 11 月 23 日
 
-尽管这篇文章已经有几年的历史了，但当我们转向 PHP 7 时，它的许多建议仍然具有相关性.
+尽管这篇文章已经有几年的历史了，但随着我们即将转向 PHP 7，它的大部分建议仍然适用.
 
 ### [PHP data encryption primer](https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html) (2014)
 
 **发布**：2014 年 6 月 16 日
 
-@timoh6 解释在 PHP 中实现数据加密
+@timoh6 explains implementing data encryption in PHP
 
 ### [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide) (2014)
 
 **发布**：2014 年 5 月 26 日
 
-**TL;DR** - 不要逃避，而是使用准备好的语句！
+**TL;DR** - 不要转义，而是使用准备好的语句！
 
 ### [You Wouldn't Base64 a Password - Cryptography Decoded](https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded) (2015)
 
 **发布**：2015 年 8 月 7 日
 
-常见误用密码学术语和基本概念的人类可读概述，以及 PHP 中的示例代码.
+对常用的误用密码学术语和基本概念的人类可读概述，以及 PHP 示例代码.
 
 如果您对密码学术语感到困惑，请从这里开始.
 
@@ -504,13 +503,13 @@ Padriac Brady 关于构建不易受 XSS 攻击的软件的建议
 
 **发布**：2015 年 8 月 2 日
 
-讨论端到端网络层加密 (HTTPS) 以及静态数据安全加密的重要性，然后介绍开发人员应针对特定用例使用的特定加密工具，无论他们是否使用 [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption)，或 OpenSSL.
+讨论端到端网络层加密 (HTTPS) 以及静态数据安全加密的重要性，然后介绍开发人员针对特定用例应使用的特定加密工具，无论他们使用 [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption), 或 OpenSSL.
 
 ### [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) (2017)
 
 **发布**：2017 年 12 月 12 日
 
-本指南应作为电子书的补充， [PHP: The Right Way](http://www.phptherightway.com), 强调安全性而不是一般的 PHP 程序员主题（例如代码风格）.
+本指南应作为电子书的补充， [PHP: The Right Way](http://www.phptherightway.com)，非常强调安全性，而不是一般的 PHP 程序员主题（例如代码风格）.
 
 ## Books and ebooks
 
@@ -519,13 +518,13 @@ Padriac Brady 关于构建不易受 XSS 攻击的软件的建议
 
 ### [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
-您不需要应用密码学博士学位来构建安全的 Web 应用程序. 进入 libsodium，它允许开发人员开发快速、安全和可靠的应用程序，而无需知道流密码是什么.
+您不需要应用密码学博士学位就可以构建安全的 Web 应用程序. 输入 libsodium，它允许开发人员开发快速、安全和可靠的应用程序，而无需知道什么是流密码.
 
 ## Useful libraries
 
 ### [defuse/php-encryption](https://github.com/defuse/php-encryption)
 
- PHP 应用程序的对称密钥加密库.  （**推荐**自己滚动！）
+ PHP 应用程序的对称密钥加密库.  （**推荐**不要自己滚动！）
 
 ### [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)
 
@@ -537,45 +536,45 @@ Padriac Brady 关于构建不易受 XSS 攻击的软件的建议
 
 ### [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
-一个安全的 OAuth2 服务器实现
+安全的 OAuth2 服务器实现
 
 ### [paragonie/random_compat](https://github.com/paragonie/random_compat)
 
- PHP 7 提供了一组新的 CSPRNG 函数：`random_bytes()` 和 `random_int()`. 这是在 PHP 5 项目（前向兼容层）中公开相同 API 的社区努力. 许可 MIT 许可.
+ PHP 7 提供了一组新的 CSPRNG 函数：`random_bytes()` 和 `random_int()`. 这是社区在 PHP 5 项目（向前兼容层）中公开相同 API 的努力. 获得麻省理工学院许可.
 
 ### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 
-一个安全的身份验证和授权库，实现基于角色的访问控制和 Paragon Initiative Enterprises 的建议 [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
+一个安全的身份验证和授权库，实现基于角色的访问控制和 Paragon Initiative Enterprises 的推荐 [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
 ### [openwall/phpass](http://www.openwall.com/phpass/)
 
-用于 PHP 应用程序的可移植公共域密码散列框架.
+用于 PHP 应用程序的便携式公共域密码哈希框架.
 
 ## Websites
 
 ### [websec.io](http://websec.io)
 
-**websec.io** 致力于通过与一般安全基础知识、新兴技术和 PHP 特定信息相关的主题向开发人员提供安全教育
+**websec.io** 致力于通过与一般安全基础知识、新兴技术和 PHP 特定信息相关的主题对开发人员进行安全教育
 
 ### Blogs
 
 #### [Paragon Initiative Enterprises Blog](https://paragonie.com/blog/)
 
-我们位于佛罗里达州奥兰多市的技术和安全咨询公司的博客
+我们位于佛罗里达州奥兰多的技术和安全咨询公司的博客
 
 #### [ircmaxell's blog](http://blog.ircmaxell.com)
 
-关于 PHP、安全性、性能和一般 Web 应用程序开发的博客.
+关于 PHP、安全、性能和一般 Web 应用程序开发的博客.
 
 #### [Pádraic Brady's Blog](http://blog.astrumfutura.com)
 
-Pádraic Brady 是 Zend 框架安全专家
+Pádraic Brady 是 Zend Framework 安全专家
 
 ### Mailing lists
 
 #### [Securing PHP Weekly](http://securingphp.com)
 
-有关 PHP、安全性和社区的每周通讯.
+关于 PHP、安全和社区的每周时事通讯.
 
 ## Perl
 
@@ -585,7 +584,7 @@ Pádraic Brady 是 Zend 框架安全专家
 
 **发布**：2011 年 1 月 10 日
 
-一个社区维护的 Wiki，详细介绍了 Perl 编程的安全编码标准.
+一个由社区维护的 Wiki，详细介绍了 Perl 编程的安全编码标准.
 
 ## Python
 
@@ -593,13 +592,13 @@ Pádraic Brady 是 Zend 框架安全专家
 
 ### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
 
-列出应该避免的标准库特性，并引用其他章节中特定于 Python 的部分.
+列出了应该避免的标准库特性，并引用了其他章节中特定于 Python 的部分.
 
 
 来自 NoStarch Press 的 Justin Seitz 的 Black Hat Python 是一本适合攻击性安全思想的好书
 
 
-Violent Python 向您展示了如何从对攻击性计算概念的理论理解转变为实际实现.
+Violent Python 向您展示了如何从对攻击性计算概念的理论理解转变为实际实施.
 
 ## Websites
 
@@ -617,4 +616,4 @@ Violent Python 向您展示了如何从对攻击性计算概念的理论理解�
 
 **发布**：2014 年 3 月 10 日
 
- Fedora 安全团队的 Ruby 开发安全指南. 也可在 [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+ Fedora 安全团队编写的保护 Ruby 开发的指南. 也可在 [Github](https://github.com/jrusnack/secure-ruby-development-guide).

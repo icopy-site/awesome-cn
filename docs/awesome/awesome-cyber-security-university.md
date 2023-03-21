@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="brootware/awesome-cyber-security-university"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cyber Security University [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 精选的精彩免费教育资源列表，侧重于边做边学.
@@ -34,7 +33,7 @@
 
 Cyber​​ Security University 是一个精选的免费教育资源列表，专注于边做边学.
 
-这有 6 个部分. 简介和预安全、免费初学者红队路径、免费初学者蓝队路径、奖金实践/最新的 CVE 和极难的房间. 这些任务在难度上是线性的. 所以建议按顺序进行. 但是如果您发现您已经熟悉这些概念，您仍然可以跳来跳去并跳过一些房间.
+这有 6 个部分. 简介和预安全、免费初学者红队路径、免费初学者蓝队路径、奖金实践/最新的 CVE 和极其困难的房间. 这些任务在难度上是线性的. 所以建议按顺序进行. 但是如果您发现您已经熟悉这些概念，您仍然可以跳来跳去并跳过一些房间.
 
 <!--lint disable double-link-->
 当您完成课程时，您会发现隐藏在其中的完成徽章 [`README.md`](https://github.com/brootware/Cyber-Security-University/blob/main/README.md) 用于红色和蓝色团队路径完成徽章. 您可以复制它们的 HTML 代码，并在完成后将其添加到下面的内容页面.
@@ -172,7 +171,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 * [IntroSIEM](https://tryhackme.com/room/introtosiem) - SIEM 简介.
 * [Yara](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/yara>) - 用于恶意软件分析的 yara 介绍.
 * [OpenVAS](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/openvas>) - 介绍 openvas.
-* [Intro to Honeypots](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/introductiontohoneypots>) - 蜜罐介绍.
+* [Intro to Honeypots](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
 * [Volatility](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/bpvolatility>) - 介绍具有波动性的内存分析.
 * [Red Line](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/btredlinejoxr3d>) - 了解如何使用 Redline 执行内存分析并扫描端点上的 IOC.
 * [Autopsy](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/autopsy2ze0>) - 使用尸检来调查磁盘映像中的伪影.
@@ -232,7 +231,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 ### Level 5 - Malware and Reverse Engineering
 
 * [History of Malware](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/historyofmalware>) - 介绍恶意软件历史.
-* [Malware Introduction](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/malmalintroductory>) - 介绍恶意软件.
+* [Malware Introduction](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/malmalintroductory>) - 恶意软件介绍.
 * [Basic Malware Reverse Engineering](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/basicmalwarere>) - 介绍恶意软件 RE.
 * [Intro Windows Reversing](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/windowsreversingintro>) - Windows RE 简介.
 * [Windows x64 Assembly](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/win64assembly>) - Windows 上的 x64 程序集简介.

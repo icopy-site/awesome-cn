@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="DopplerHQ/awesome-interview-questions"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
@@ -7,9 +6,9 @@
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>您所有的环境变量，在一个地方</b>	
-			<div>不要再为分散的 API 密钥苦苦挣扎，不要再将自制工具组合在一起了，</div>
-			<div>并避免访问控制. 使您的团队和服务器与多普勒同步.</div>
+			<b>您所有的环境变量，集中在一个地方</b>	
+			<div>不要再为分散的 API 密钥而苦苦挣扎，不要将自制工具组合在一起，</div>
+			<div>并避免访问控制. 让您的团队和服务器与 Doppler 保持同步.</div>
 			</br>
 		</a>	
 	</p>	
@@ -17,7 +16,7 @@
 
 ## Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 精心挑选的技术面试问题清单.
+&gt; 精选的技术面试问题列表.
 
 [What makes for an awesome list?](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/awesome.md)
 

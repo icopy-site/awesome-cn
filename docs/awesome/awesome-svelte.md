@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="TheComputerM/awesome-svelte"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <br>
   <img width="200" src="https://raw.githubusercontent.com/TheComputerM/awesome-svelte/master/./awesome-svelte.svg?sanitize=true" alt="awesome-svelte logo">
@@ -119,7 +118,7 @@ _表格和数据网格._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - Svelte 的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - 允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表格.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - 带有分页器的 Svelte-generic-crud-table.
 
 ### Notification
@@ -222,7 +221,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 ### Internationalisation
 
 - [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - 易于集成的组件 [Fluent](https://projectfluent.org/) 本土化.
-- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+- [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Svelte 的国际化库.
 - [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - 用于整合 [i18n](https://www.npmjs.com/package/i18n) SvelteKit 中的样式本地化.
 - [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - 基于 Web 的本地化工具，使用户能够直接在他们开发的 Svelte 应用程序中进行翻译.
 
@@ -293,7 +292,7 @@ _文本编辑器插件._
 
 - [vim-svelte](https://github.com/evanleck/vim-svelte) - Svelte 3 组件的 Vim 语法突出显示和缩进.
 - [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - 语法突出显示和对 Vim 的支持.
-- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - 语法高亮显示和对 (Neo)Vim 的支持.
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 #### JetBrains
 

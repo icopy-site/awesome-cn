@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="typeddjango/awesome-python-typing"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)](https://gitter.im/mypy-django/Lobby?source=title)
 
 很棒的 Python 类型、存根、插件和使用它们的工具的集合.
@@ -14,7 +13,7 @@
 - [pyanalyze](https://github.com/quora/pyanalyze) - 可扩展的静态分析器和类型检查器.
 - [pycharm](https://www.jetbrains.com/pycharm/) - 专业开发人员的 IDE.
 - [pyre](https://pyre-check.org/) - 高性能类型检查器.
-- [pyright](https://github.com/Microsoft/pyright)  - 用于大型 Python 源代码库的快速类型检查器. 它可以以“监视”模式运行，并在文件被修改时执行快速增量更新.
+- [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 - [pytype](https://github.com/google/pytype) - 检查和推断类型的工具 - 无需类型注释.
 
 ## Dynamic type checkers
@@ -33,7 +32,7 @@
 - [asgiref](https://github.com/django/asgiref) - ASGI规范，提供 [asgiref.typing](https://github.com/django/asgiref/blob/main/asgiref/typing.py) 带有 ASGI 服务器类型注释的模块.
 - [boto3-stubs](https://vemel.github.io/boto3_stubs_docs/) - 存根 [boto3](https://github.com/boto/boto3).
 - [types-aiobotocore](https://vemel.github.io/types_aiobotocore_docs/) - 存根 [aiobotocore](https://github.com/aio-libs/aiobotocore).
-- [botostubs](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
+- [botostubs](https://github.com/jeshan/botostubs) - 为任何 IDE 中的任何 boto3 API 提供代码帮助.
 - [celery-types](https://github.com/sbdchd/celery-types) - 类型存根 [Celery](https://github.com/celery/celery) 及其相关包 [django-celery-results](https://github.com/celery/django-celery-results), [ampq](https://github.com/celery/py-amqp), [kombu](https://github.com/celery/kombu), [billiard](https://github.com/celery/billiard), [vine](https://github.com/celery/vine) 和 [ephem](https://github.com/br和on-rhodes/pyephem).
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - 存根 [numpy](http://github.com/numpy/numpy), [pandas](https://github.com/pandas-dev/pandas)， 和 [matplotlib](https://github.com/matplotlib/matplotlib).
 - [django-stubs](https://github.com/typeddjango/django-stubs) - 存根 [Django](https://github.com/django/django).

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="thomasbnt/awesome-web-monetization"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/wm_icon_animated.svg?sanitize=true" alt="Logo Web Monetization" align="right" width="120px" />
 
 ## Awesome Web Monetization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
@@ -136,7 +135,7 @@ _任何包/模块和插件_
 
 - [Akita](https://github.com/esse-dev/akita) - 一个浏览器扩展，让您深入了解您对网络货币化的参与.
 
-  &gt; Akita 展示了您最常访问的货币化网站、您在这些网站上花费的时间以及您正在（或可能）为它们做出的贡献.
+  &gt; Akita 展示了您最常访问的货币化网站、您在这些网站上花费了多少时间以及您正在（或可能）为它们做出多少贡献.
 
 - [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - 用于管理您的虚荣网络货币化钱包的工具.
 

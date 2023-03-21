@@ -1,12 +1,11 @@
 <div class="github-widget" data-repo="HQarroum/awesome-iot"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IoT
 
 <img src="https://raw.githubusercontent.com/HQarroum/awesome-iot/master/iot-logo.png" align="right" width="100">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
-&gt; 精选的物联网项目和资源清单.
+&gt; 精选的物联网项目和资源列表.
 
 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
@@ -19,9 +18,9 @@
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)  - Arrow Electronics 的产品 DragonBoard 410c 是基于中端 Qualcomm® Snapdragon™ 410E 处理器的开发板. 它具有先进的处理能力、Wi-Fi、蓝牙连接和 GPS，所有这些都集成在信用卡大小的电路板上.
 - [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)  - ESP32，ESP8266 的后继产品.  ESP32 具有强大的硬件功能. 高速双核处理器以及众多内置外围设备将取代连接产品中的微控制器.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard 是基于 1GHz Freescale i.MX6 SoC 的三个支持 Linux 和 Android 的开源 SBC 系列，具有类似 Pi 的 26 针 I/O 连接器.
-- [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔® Galileo Gen 2 板是 Arduino* 认证开发和原型板系列中的第一款，基于英特尔® 架构，专为创客、学生、教育工作者和 DIY 电子产品爱好者设计.
+- [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - The Intel® Galileo Gen 2 board is the first in a family of Arduino*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.
 - [Microduino](https://www.microduino.cc/)  - Microduino 和 mCookie 为各个年龄段的创客、设计师、工程师、学生和好奇的修补匠带来功能强大、小巧、可堆叠的电子硬件. 构建开源项目或创建创新项目.
-- [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
+- [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html)  - NodeMCU 是一个开源物联网平台. 它使用 Lua 脚本语言. 它基于 eLua 项目，并基于 ESP8266 SDK 0.9.5 构建.
 - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLinuxXino 是一种开源软件和开源硬件低成本（30 欧元）Linux 工业级单板计算机，具有 GPIO，能够在 -25°C 至 +85°C 的温度范围内运行.
 - [Odroid](http://www.hardkernel.com/)  - ODROID 表示 Open + Droid. 它是硬件和软件的开发平台.
 - [Particle](https://www.particle.io) - 一套硬件和软件工具，可帮助您制作原型、扩展和管理您的物联网产品.
@@ -37,7 +36,7 @@
 #### Operating systems
 
  - [Apache Mynewt](https://mynewt.apache.org/)  - Apache Mynewt 是一个实时的模块化操作系统，适用于需要在电源、内存和存储限制下长时间运行的联网物联网设备. 提供的第一个连接堆栈是 BLE 4.2.
- - [ARM mbed](http://www.mbed.com/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+ - [ARM mbed](http://www.mbed.com/) - ARM® mbed™ 物联网设备平台提供操作系统、云服务、工具和开发者生态系统，使大规模创建和部署基于标准的商业物联网解决方案成为可能.
  - [Contiki](http://www.contiki-os.org/)  - Contiki 是一个用于物联网的开源操作系统.  Contiki 将微型低成本、低功耗微控制器连接到 Internet.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS 是一种流行的嵌入式设备实时操作系统内核，已移植到 35 个微控制器.
  - [Android Things](https://developer.android.com/things/) - **注意：Android Things 已贬值.** Android Things 将 Android 平台扩展到您所有连接的设备，因此它们易于设置，并且可以与彼此和您的智能手机无缝协作. 
@@ -48,7 +47,7 @@
  - [Raspbian](https://raspbian.org/) - Raspbian 是一个基于 Debian 的免费操作系统，针对 Raspberry Pi 硬件进行了优化.
  - [RIOT](http://www.riot-os.org/) - 友好的物联网操作系统.
  - [Tiny OS](https://github.com/tinyos/tinyos-main) - TinyOS 是一个开源、BSD 许可的操作系统，专为低功耗无线设备而设计，例如用于传感器网络、普适计算、个人区域网络、智能建筑和智能仪表的设备.
- - [Toit](https://toit.io/) - Toit 平台结合了以稳健、有弹性的方式为您的设备提供服务的功能，让您可以控制您的设备和数据，以及网络上随时可用的无线固件和应用程序更新-连接的嵌入式设备.
+ - [Toit](https://toit.io/) - Toit 平台结合了以强大、有弹性的方式为您的设备提供服务的功能，让您可以控制您的设备和数据，以及网络上随时可用的无线固件和应用程序更新-连接的嵌入式设备.
  - [UBOS](https://ubos.net/)  - UBOS 是一个 Linux 发行版，专注于简化运行 Web 应用程序的家庭服务器和独立物联网设备的系统管理. 它是 Arch Linux 的衍生产品，可在 PC、Raspberry Pis、ESPRESSObin 和云上运行.
  - [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT 是一系列 Windows 10 版本，面向范围广泛的智能设备，从小型工业网关到更大更复杂的设备，如销售点终端和 ATM.
   - [Zephyr Project](https://www.zephyrproject.org/) - Zephyr™ 项目是一个可扩展的实时操作系统 (RTOS)，支持多种硬件架构，针对资源受限的设备进行了优化，并在构建时考虑了安全性.
@@ -87,14 +86,14 @@
  - [Macchina.io](https://github.com/macchina-io/macchina.io)  - macchina.io EDGE 是一个丰富的软件框架，用于快速构建在基于 Linux 的设备上运行的物联网设备应用程序.  macchina.io EDGE 实现了一个支持 Web 的、安全的、模块化的和可扩展的 JavaScript 和 C++ 运行时环境，并提供了随时可用且经过行业验证的软件构建块. 这些使设备能够与各种传感器、其他设备和云服务通信，并在本地、边缘设备或本地网络内处理、分析和过滤传感器数据.
  - [Mihini](https://wiki.eclipse.org/Mihini)  - Mihini 的主要目标是提供运行在 Linux 之上的嵌入式运行时，它公开用于构建 M2M 应用程序的高级 API.  Mihini 旨在通过促进对 M2M 系统的 I/O 的访问、提供通信层等来实现简单和可移植的开发.
  - [OpenHAB](http://www.openhab.org/)  - openHAB 运行时是一组部署在 OSGi 框架 (Equinox) 上的 OSGi 包. 因此，它是一个纯 Java 解决方案，需要 JVM 才能运行. 基于 OSGi，它提供了高度模块化的架构，甚至允许在运行时添加和删除功能而无需停止服务.
- - [Gobot](http://gobot.io/) - Gobot 是一个用 Go 编程语言编写的机器人、物理计算和物联网框架.
+ - [Gobot](http://gobot.io/) - Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.
  - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant 是一个运行在 Python 3 上的家庭自动化平台.Home Assistant 的目标是能够跟踪和控制家里的所有设备，并提供一个自动化控制的平台.
  - [Lightweight MQTT Machine Network](http://lwmqn.github.io/)  - LWMQN 是一个开源项目，遵循部分 OMA LWM2M v1.0 规范，使用基于 IP 的智能对象模型来满足机器网络管理的最低要求. 它提供服务器端和机器端库，使使用 JavaScript 和 Node.js 进行全栈物联网开发成为可能. 另见：IPSO 联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - 开源物联网网关 - 使用 OPC-UA 和 MQTT 协议将连接到旧系统和第三方系统的设备与 Thingsboard 物联网平台集成.
  - [Pimatic](https://pimatic.org/)  - Pimatic 是一个在 node.js 上运行的家庭自动化框架. 它为家庭控制和自动化任务提供了一个通用的可扩展平台.
  - [IOTA](https://iota.org/)  - 用于物联网的开源分布式分类帐协议. 使用有向无环图 (DAG) 而不是区块链.
  - [MyController](https://github.com/mycontroller-org/mycontroller)  - 开源控制器.  MyController.org 是适用于家庭、办公室或任何地方的物联网自动化控制器.
- - [Mozilla WebThings](https://iot.mozilla.org/) - 用于通过网络监视和控制设备的开放平台.
+ - [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
  - [HStreamDB](https://github.com/hstreamdb/hstream) - 为物联网数据存储和实时处理而构建的流式数据库.
  - [IoTSharp.Gateways](https://github.com/IoTSharp/Gateways) - 开源物联网网关 - 使用 ModBus、OPC-UA、BACNet 和 MQTT 协议将连接到旧系统和第三方系统的设备与 IoTSharp 物联网平台集成.
 
@@ -104,7 +103,7 @@
  - [IFTTT](https://ifttt.com/)  - IFTTT 是一种基于网络的服务，允许用户创建简单的条件语句链，称为“食谱”，这些语句会根据其他网络服务（如 Gmail、Facebook、Instagram 和 Pinterest）的变化而触发.  IFTTT 是“If This Then That”的缩写（发音类似“gift”但没有“g”）.
  - [OPC Router](https://www.opc-router.com/opc-router-details/) - 带有各种插件的物联网网关（OPC UA、Mqtt、SQL、REST、SAP、InfluxDB、打印机……）
  - [Huginn](https://github.com/cantino/huginn) - Huginn 是一个构建代理的系统，可以在线为您执行自动化任务.
- - [Kaa](http://www.kaaproject.org/) - 用于快速创建物联网解决方案的开源中间件平台.
+ - [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
  - [Losant](https://losant.com)  - Losant 是一个易于使用且功能强大的开发人员平台，旨在帮助您快速安全地构建复杂的连接解决方​​案.  Losant 使用 REST 和 MQTT 等开放式通信标准来提供从一台到数百万台设备的连接.  Losant 提供强大的数据收集、聚合和可视化功能，以帮助理解和量化大量传感器数据.  Losant 的拖放式工作流编辑器使您无需编程即可触发操作、通知和机器对机器通信.
  - [MicroServiceBus.com](https://microservicebus.com)  - MicroServiceBus.com 是一个用于 Azure、AWS 和 IBM IoT Hub 的设备管理平台，集成了 GitHub、ServiceNow、Cisco Jasper 等. 它与企业产品一起提供免费（受限）版本.
  - [DreamFactory](http://www.dreamfactory.com) - DreamFactory 是一个免费的开源 REST API 平台，适用于移动、网络和物联网应用程序.
@@ -114,7 +113,7 @@
  - [Thingsboard](https://thingsboard.io)  - 一个开源物联网平台. 物联网解决方案的设备管理、数据收集、处理和可视化.
  - [Thingspeak](https://thingspeak.com/)  - 一种开源物联网分析平台服务，允许您在云中聚合、可视化和分析实时数据流. 您可以将数据从您的设备发送到 ThingSpeak，创建实时数据的即时可视化，并发送警报.
  - [VerneMQ](https://github.com/erlio/vernemq)  - VerneMQ 是一种高性能的分布式 MQTT 代理，可连接物联网、M2M、移动和 Web 应用程序. 它在商品硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
- - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+ - [Kuzzle](https://github.com/kuzzleio/kuzzle)  - 具有实时发布/订阅或地理围栏等高级功能的开源后端，以及支持 MQTT、LoRaWAN 等的多协议接口.  ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
  - [DevicePilot](https://www.devicepilot.com) - 连接设备的操作分析（包括永久免费层）.
  - [EMQX](https://www.emqx.io/)  - 超可扩展的开源 MQTT 代理. 在一个集群中连接超过 1 亿个 IoT 设备，以 1M msg/s 吞吐量和 1ms 延迟移动和处理实时 IoT 数据.
  - [Waterstream](https://waterstream.io/) - MQTT 代理利用 Apache Kafka 作为自己的存储和分发引擎.
@@ -133,13 +132,13 @@
  - [WiringPi](http://wiringpi.com/) - WiringPi 是一个用 C 语言编写的 GPIO 访问库，用于 Raspberry Pi 中使用的 BCM2835.
  - [Node-RED](http://nodered.org/) - 连接物联网的可视化工具.
  - [MIMIC IoT Simulator](https://www.gambitcomm.com/site/iot_simulator.php) - 模拟大型物联网环境，用于基于 MQTT、CoAP、REST 的物联网应用程序的敏捷开发/测试/概念验证/培训
- - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
+ - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化您的 MQTT 主题的工具，一把 MQTT 瑞士军刀.
  - [MQTT X](https://mqttx.app/) - MQTT X 是 EMQ 开源的跨平台 MQTT 5.0 客户端工具，支持 macOS、Linux 和 Windows.
  - [ops](https://ops.city/) - 一个免费的开源工具，用于构建、运行和部署 Linux 应用程序作为 unikernel.
  - [SmartObject](https://github.com/PeterEB/smartobject)  - 一个智能对象类，可帮助您在 JavaScript 应用程序中创建 IPSO 智能对象. 另见：IPSO 联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - 开源制造应用平台（结合各种开源解决方案并将它们打包在 Helm chart 中，例如 Nodered、VerneMQ 和 timescaleDB）
  - [QuestDB](https://github.com/questdb/questdb)  - 用于实时分析和高性能应用程序的开源时间序列数据库. 支持通过 InfluxDB 线路协议和 SQL 作为查询语言的高吞吐量摄取.
- - [Chaos Genius](https://github.com/chaos-genius/chaos_genius)  - 一个开源 ML 支持的分析引擎，用于离群值/异常检测和根本原因分析. 连接传感器数据，监控异常行为并收到警报.  
+ - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.  
  - [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - 发现和查找有关 kandi 的热门和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表.
  - [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench)  - ThingsOn MQTT Bench 是一个简单的跨平台 .NET Core 基准测试工具，适用于 MQTT 代理. 它测量在指定时间内可以发送到代理的最大消息数.
 
@@ -192,7 +191,7 @@
 &gt; NB-IoT 是一种专为物联网 (IoT) 设计的窄带无线电技术，是第三代合作伙伴计划 (3GPP) 标准化的一系列移动物联网 (MIoT) 技术之一.
 
 
-Sigfox is a French firm that builds wireless networks to connect low-energy objects such as electricity meters, smart watches, and washing machines, which need to be continuously on and emitting small amounts of data. Its infrastructure is intended to be a contribution to what is known as the Internet of Things (IoT). - [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
+ Sigfox 是一家法国公司，建立无线网络以连接电表、智能手表和洗衣机等低能耗物体，这些物体需要持续开启并发射少量数据. 它的基础设施旨在为所谓的物联网 (IoT) 做出贡献.  - [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
 
  &gt; SIGFOX 将自己描述为“第一家也是唯一一家为物联网提供全球蜂窝连接的公司”. 它的基础设施“完全独立于现有网络，例如电信网络”.  SIGFOX 旨在为“数十亿对象的部署和数千种新用途”提供手段，其长期目标是“拥有日常对象产生的 PB 级数据”.
 
@@ -212,7 +211,7 @@ Sigfox is a French firm that builds wireless networks to connect low-energy obje
 
 #### <img width="50" src="https://www.threadgroup.org/portals/0/images/contact/img1.svg" /> - [Thread](http://threadgroup.org/) (Thread Group)
 
-Thread is an IPv6 based protocol for "smart" household devices to communicate on a network.
+Thread 是一种基于 IPv6 的协议，用于“智能”家用设备在网络上进行通信.
 
  &gt; 2014 年 7 月，Google Inc 的 Nest Labs 宣布与三星、ARM Holdings、Freescale、Silicon Labs、Big Ass Fans 和锁具公司 Yale 组成一个工作组，试图通过为产品提供 Thread 认证使 Thread 成为行业标准. 当前使用的其他协议包括 ZigBee 和 Bluetooth Smart.
  Thread 使用 6LoWPAN，它又使用 IEEE 802.15.4 无线协议和网状通信，ZigBee 和其他系统也是如此. 然而，Thread 是 IP 可寻址的，具有云访问和 AES 加密. 它支持网络上的 250 多个设备.
@@ -238,7 +237,7 @@ Thread is an IPv6 based protocol for "smart" household devices to communicate on
 
 #### [DTLS](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security) (IETF)
 
-The Datagram Transport Layer Security (DTLS) communications protocol provides communications security for datagram protocols.  - [Wikipedia](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
+数据报传输层安全 (DTLS) 通信协议为数据报协议提供通信安全.  - [Wikipedia](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
 
  &gt; DTLS 允许基于数据报的应用程序以[由谁？]设计的方式进行通信，以防止窃听、篡改或消息伪造.  DTLS 协议基于面向流的传输层安全 (TLS) 协议，旨在提供类似的安全保证.
 
@@ -360,7 +359,7 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许对工业环境�
 ### Articles
 
 - [A Simple Explanation Of 'The Internet Of Things' (Forbes)](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/) - 这篇文章试图回答什么是“物联网”，以及它将对我们产生什么影响.
-- [IoT security. Is there an app for that ?](http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/) - 物联网世界会议调查物联网应用开发、安全和商业模式.
+- [IoT security. Is there an app for that ?](http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/) - The Internet of Things World conference investigates IoT application development, security, and business models.
 - [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - 一种在测试基于物联网的产品时管理参数排列的测试方法.
 - [How to begin with the Amazon Timestream](https://itnext.io/how-to-begin-with-the-amazon-timestream-in-5-simple-steps-19c129040d9c/) - AWS Timestream 分步指南 - 一个时间序列数据库，用于随时间收集物联网数据.
 
@@ -371,7 +370,7 @@ OPC-UA不仅是一种工业自动化协议，也是一种允许对工业环境�
 - [Evaluation of indoor positioning based on Bluetooth Smart technology](http://publications.lib.chalmers.se/records/fulltext/199826/199826.pdf) - 计算机系统和网络专业的理学硕士论文.
 - [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf)  - 本文提出了在全球范围内实施物联网的以云为中心的愿景. 讨论了可能在不久的将来推动物联网研究的关键支持技术和应用领域.
 - [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - 一份来自电信行业协会 (TIA) 的白皮书，以向政策制定者提出的关于利用和实现物联网市场潜力的一系列建议的形式编写.
-- [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - 本白皮书将当前物联网市场的兴起与其他工业革命、它带来的挑战以及它对我们日常生活的影响进行了比较.
+- [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
 
 
 ## License

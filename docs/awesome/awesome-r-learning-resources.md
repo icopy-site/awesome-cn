@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="iamericfletcher/awesome-r-learning-resources"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<div>
 		<a href=https://www.r-project.org/about.html><img width="400" id="im" src=https://user-images.githubusercontent.com/64165327/95934136-26177f00-0d9e-11eb-8bdc-748ee65ad17a.png></a>
@@ -10,7 +9,7 @@
 
 <br>
 
-> The `Awesome R Learning Resources` repository is meant to help users from all skill levels and backgrounds deepen their understanding of `R`, which is a programming language and environment for statistical computing and graphics.
+&gt; “Awesome R Learning Resources”存储库旨在帮助各种技能水平和背景的用户加深对“R”的理解，R 是一种用于统计计算和图形的编程语言和环境.
 
 <br>
 
@@ -46,7 +45,7 @@
 
 ### Joining Data
 
-- [Joining Data in R with dplyr](https://rpubs.com/williamsurles/293454)  - 使用 DataCamp 上的 dplyr 课程加入 R 中的数据的课程笔记. 主题包括变异连接、过滤连接和集合操作、组装数据、高级连接. 作者：威廉·苏尔斯.
+- [Joining Data in R with dplyr](https://rpubs.com/williamsurles/293454) - Course notes from the Joining Data in R with dplyr course on DataCamp. Topics include mutating joins, filtering joins and set operations, assembling data, advanced joining. Author: William Surles.
 
 ### Math
 
@@ -60,7 +59,7 @@
 
 - [Awesome R Shiny](https://github.com/grabear/awesome-rshiny)  - R Shiny 的精选资源列表. 作者：罗伯·吉尔摩.
 - [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#)  - Shiny 入门教程. 请注意，本教程已弃用. 作者：RStudio.
-- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - 本教程是对一组 [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) for learning how to build Shiny apps. Author: Dean Attali.
+- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - 本教程是对一组 [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) 用于学习如何构建闪亮的应用程序. 作者：院长阿塔利.
 - [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a)  - 详细的入门视频教程. 作者：加勒特·格罗莱蒙德.
 - [Learn Shiny](https://shiny.rstudio.com/tutorial/)  - 此页面上的视频和书面教程主要是为不熟悉 Shiny 并需要指导介绍的用户设计的. 作者：RStudio.
 - [Shiny Articles](https://shiny.rstudio.com/articles/)  - 各种文章涵盖更高级的各个 Shiny 主题. 作者：RStudio.
@@ -76,7 +75,7 @@
 
 - [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)  - 一个全面且易于遵循的教程，涵盖使用轴、标题、图例、背景、网格线、边距、多面板图、颜色、主题、线条、文本、坐标、图表类型、色带、平滑和交互式图. 作者：Cédric Sc​​herer.
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) - 很棒的 ggplot2 教程、包等的精选列表.作者：Erik Gahner Larsen.
-- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - 作者：Andrew Abela，博士
+- [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) - 作者：Color-Hex.
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - 作者：Alboukadel Kassambara.
 - [Coolors](https://coolors.co/)  - 超快的配色方案生成器！ 创建完美的调色板或从数千种美丽的配色方案中汲取灵感. 功能包括颜色选择器、从照片中选择调色板、创建拼贴画、制作您自己的渐变调色板、创建渐变、对比度检查器等.
@@ -122,7 +121,7 @@
 
 - [Alex Cookson](https://www.alexcookson.com/)  - Alex Cookson 喜欢制作精美的可视化效果和易于阅读的 R 概念演练. 他对有关媒体的数据特别感兴趣，例如书籍、电影和音乐剧.
 - [Avery Robbins](https://www.avery-robbins.com)  - Avery Robbins 喜欢学习和分享对他个人有益的有用或令人敬畏的事物. 这个网站是他积极做到这一点的工具：分享有用的知识、想法和技巧.
-- [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
+- [Tony ElHabr](https://tonyelhabr.rbind.io/)  - Tony ElHabr 主要热衷于能源市场和体育分析. 他的博客提供了详细的教程、项目解释和演示.
 - [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Sc​​herer 是一位毕业的计算生态学家和自由数据可视化专家，他创建了跨所有学科、目的和风格的可视化，并定期教授数据可视化原理、R 和 ggplot2. 
 - [Data Imaginist](https://www.data-imaginist.com/) - Thomas Lin Pedersen 是一名数据科学家转为软件工程师，他专注于改善研究人员与他们生成的数据的交互.
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/)  - Rebecca Barter 喜欢理解复杂、凌乱、有时甚至是荒谬的数据集，例如电子健康记录和保险索赔. 她的双重爱好是用通俗易懂的英语向其他人解释“看似复杂”的概念，以及探索和揭开复杂数据集背后的故事.
@@ -153,7 +152,7 @@
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)  - 这本书提供了对 ggplot2 的动手介绍，其中包含大量示例代码和图形. 它还解释了 ggplot2 所基于的语法. 作者：哈德利·威克姆.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)  - Happy Git 提供关于如何安装 Git 并使其与 GitHub 顺利工作的自以为是的说明，在 shell 和 RStudio IDE 中，开发一些涵盖最常见任务的关键工作流程，并将 Git 和 GitHub 集成到您的日常工作中R 和 R 降价. 作者：Jenny Bryan、STAT 545 助教、Jim Hester.
 - [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  - 这本书最初是作为 HarvardX 数据科学系列中使用的课堂笔记. 它介绍了可以帮助您应对现实世界数据分析挑战的概念和技能. 它涵盖了概率、统计推断、线性回归和机器学习的概念. 它还可以帮助您培养技能，例如 R 编程、使用 dplyr 进行数据整理、使用 ggplot2 进行数据可视化、使用 caret 构建算法、使用 UNIX/Linux shell 进行文件组织、使用 Git 和 GitHub 进行版本控制，以及使用 knitr 和 R markdown 准备可重现的文档. 作者：Rafael A. Irizarry 教授.
-- [Introduction to Probability and Statistics Using R](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf)  - 本书可分为三个基本部分. 第一部分包括引言和基本的描述性统计； 我希望学生们一开始就深入研究数据. 第二部分是概率研究，它从集合和等概率模型的基础开始，经过离散/连续随机变量，然后继续到多元分布. 关于抽样分布的章节为第三部分铺平了道路，即推论统计. 最后一部分包括点估计和区间估计、假设检验，并以对应用统计中选定主题的介绍作为结尾. 作者：G.杰伊克恩斯.
+- [Introduction to Probability and Statistics Using R](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf)  - 本书可分为三个基本部分. 第一部分包括引言和基本的描述性统计； 我希望学生们一开始就深入研究数据. 第二部分是概率研究，它从集合和等概率模型的基础开始，经过离散/连续随机变量，然后继续到多元分布. 关于抽样分布的章节为第三部分铺平了道路，即推论统计. 最后一部分包括点估计和区间估计、假设检验，最后介绍了应用统计学中的选定主题. 作者：G.杰伊克恩斯.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  - 本文档提供了对 R 的简明介绍.它强调了您需要了解的内容才能在任何上下文中使用该语言. 作者：Robert Hijmans 教授.
 - [JavaScript for R](https://book.javascript-for-r.com/)  - 这项工作的最终目的是向读者展示通过将 JavaScript 引入他们的数据科学工作流程可以获得的许多巨大好处. 作者：约翰·科恩.
 - [Learning Statistics with R](https://learningstatisticswithr.com/)  - Learning Statistics with R 涵盖介绍性统计课程的内容，通常向本科心理学学生讲授，重点是 R 统计软件的使用. 作者：丹妮尔纳瓦罗.
@@ -216,7 +215,7 @@
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) - 一系列简短但详细的教程，介绍如何解决您在使用 R 时遇到的常见问题.主题包括数据格式化、重新排序数据、字符串和 ggplot2.
 - [StatistikinDD](https://www.youtube.com/c/StatistikinDD/featured) - 关于高效 R 编程（例如并行运行 R 代码）、可视化、回归分析的播放列表.
 - [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx) - The Statistics and Machine Learning in R playlist deals with principal component analysis, random forest, regression, ROC and AUC, and ridge, lasso and elastic-net.
-- [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)  - TidyX 是一个截屏视频，主持人从 TidyTuesday 项目中选择代码并逐行查看他们的代码，解释他们做了什么以及他们使用的功能如何工作. 他们还分解了他们创建的可视化效果，并讨论了如何将类似的方法应用于其他数据集. 目标是帮助更多人学习 R 并参与 TidyTuesday 社区.
+- [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)  - TidyX 是一个截屏，主持人从 TidyTuesday 项目中选择代码并逐行查看他们的代码，解释他们做了什么以及他们使用的功能如何工作. 他们还分解了他们创建的可视化效果，并讨论了如何将类似的方法应用于其他数据集. 目标是帮助更多人学习 R 并参与 TidyTuesday 社区.
 
 ## Contributing
  - 随时欢迎您的贡献！ 请访问我们 [contributing.md](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) 了解如何为这个列表做出贡献.

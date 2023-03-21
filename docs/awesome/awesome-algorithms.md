@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="tayllan/awesome-algorithms"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Algorithms
 
 学习和/或练习算法的绝佳场所的精选列表.
@@ -205,7 +204,7 @@
 * [PKU JudgeOnline](http://poj.org/) - 中国在线法官.
 * [ProjectEuler](https://projecteuler.net/) - 可以使用算法解决的数学问题（或只用铅笔，取决于你已经知道多少）.
 * [Rosalind](http://rosalind.info/problems/locations/) - 通过解决问题学习生物信息学和编程的平台.
-* [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
+* [ShareCode.io ](https://sharecode.io/) - 在线裁判和比赛主持人在存档中练习大量算法问题.
 * [Snakify](https://snakify.org/) - 介绍性 Python 课程，包含 100 多个算法问题和分步调试器（来自俄罗斯）.
 * [SPOJ](http://www.spoj.com/) - 更多问题.
 * [TopCoder](https://www.topcoder.com/) - 平面设计、数据科学和开发中的许多问题和现实世界/有价值的问题.

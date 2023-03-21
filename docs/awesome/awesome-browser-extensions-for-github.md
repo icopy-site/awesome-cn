@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="stefanbuck/awesome-browser-extensions-for-github"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 所有数字每天更新，包括扩展在所有浏览器中的总体使用情况、最后发布日期和 GitHub 存储库的星级！
@@ -74,7 +73,7 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 安装：7259 | 星级：13242 | 最后更新：2020 年 5 月 6 日
 
 
-GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
+ GitHub 提供了一个页面，该页面仅在拉取请求的 URL 末尾显示带有 .diff 的差异. 通过在该页面上使用 daff，此浏览器扩展可以更轻松地查看 csv 差异.
 
 安装：25 | 星级： 2 | 最后更新：2021 年 4 月 18 日
 
@@ -104,7 +103,7 @@ GitHub provides a page that only shows diffs with a .diff at the end of the URL 
 安装：1000 | 星级：141 | 最后更新：2019 年 10 月 8 日
 
 
-Neat hovercards for GitHub.
+GitHub 的整洁悬浮卡.
 
 安装：25705 | 星级：1747 | 最后更新：2021 年 5 月 12 日
 
@@ -224,7 +223,7 @@ Chrome 扩展，可帮助您不错过与您的回购相关的新闻线程中的�
 安装：119 | 星级：126 | 最后更新：2020 年 3 月 5 日
 
 
- OctoLinker 是在 GitHub 上的文件和项目之间导航的最简单和最好的方式. 它支持 JavaScript、Ruby、Go、PHP、JAVA 等语言. 它适用于 package.json 以及 Gemfiles.
+ OctoLinker 是在 GitHub 上的文件和项目之间导航的最简单和最好的方法. 它支持 JavaScript、Ruby、Go、PHP、JAVA 等语言. 它适用于 package.json 以及 Gemfiles.
 
 安装：32280 | 星级：5126 | 最后更新：2022 年 11 月 13 日
 
@@ -309,7 +308,7 @@ GitHub 和 GitLab 缺少的 IntelliSense 提示
 
  ZenHub 是第一个也是唯一一个在 GitHub 中本地运行的项目管理套件； 使用专为初创公司、快速发展的工程团队和开源社区构建的功能来增强您的工作流程. 该产品是一个浏览器扩展，可注入高级功能，包括实时拖放 Issue Task Boards、通过 +1 按钮进行同行反馈，以及支持将任何文件类型直接上传到 GitHub 界面.  ZenHub 可以轻松地将所有流程集中到 GitHub 中，让您的团队保持精简和敏捷.
 
-安装：80000 | 星级：不适用 | 最后更新：2023 年 3 月 18 日
+Installs: 80000 | Stars: n/a | Last update: 18 Mar 2023
 
 
 您的所有问题、PR、回购协议和其他工作文档都在您的新选项卡中
@@ -322,7 +321,7 @@ github 的文件树等等.
 安装：10708 | 星级：不适用 | 最后更新：2023 年 1 月 30 日
 
 
-在 1400px、1600px 和 1800px 处添加断点，以在大屏幕上获得完整的 GitHub 体验. 还删除了存储库浏览器中文件和目录名称的截断.
+Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large screens. Also removes the truncating of file and directory names in the repository browser.
 
 安装：2000 | 星级：129 | 最后更新：2020 年 7 月 24 日
 
@@ -332,7 +331,7 @@ gitpod 通过在浏览器中提供现成的代码开发环境来简化开发人�
 安装：63000 | 星级：117 | 最后更新：2023 年 2 月 24 日
 
 
-在 github.com 上查看具有 package.json 文件的存储库时，此扩展程序将自省 package.json 中的依赖项并显示每个依赖项的链接和描述，就在存储库的自述文件下方.
+在 github.com 上查看包含 package.json 文件的存储库时，此扩展程序将检查 package.json 中的依赖项并显示每个依赖项的链接和描述，就在存储库的自述文件下方.
 
 安装：2091 | 星级：685 | 最后更新：2022 年 11 月 14 日
 

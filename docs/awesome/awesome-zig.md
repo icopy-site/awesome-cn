@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="catdevnull/awesome-zig"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Zig [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/catdevnull/awesome-zig/master/./zig-logo.svg?sanitize=true" align="right" width="100">](https://ziglang.org)
@@ -102,7 +101,7 @@
 * [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - [Sokol](https://github.com/floooh/sokol) 绑定.
 * [TM35-Metronome/metronome](https://github.com/TM35-Metronome/metronome) - 一套用于修改和随机化神奇宝贝游戏的工具.
 * [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - 用于处理 Nintendo DS rom 的库.
-* [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
+* [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) - 简单而强大的数独解算器.
 * [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - 用于使用 Zig 创建 Game Boy Advance 游戏的 SDK.
 * [hazeycode/brucelib](https://github.com/hazeycode/brucelib) - 用于编写跨平台游戏、模拟、引擎和编辑器的模块的 Monorepo.
 
@@ -181,7 +180,7 @@
 * [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) - 网络上的 Zig fmt.
 * [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) - 通用 WASM 运行时绑定到 C API.
 * [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Wasmer WebAssembly 运行时的绑定.
-* [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Wasmtime 的绑定.
+* [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 * [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - 小胡子实施.
 
 

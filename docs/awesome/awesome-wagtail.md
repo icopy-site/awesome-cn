@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="springload/awesome-wagtail"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 真棒鹡鸰 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/)
 ===============
 
@@ -185,7 +184,7 @@
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) – Wagtail CMS 的超级简单实现.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) – 一个带有 wagtail、django 布局、vagrant、供应脚本、前端构建系统等的 cookiecutter！
 - [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit 是一个 Wagtail 样板文件，旨在通过 React 渲染的前端提供简单而现代的开发人员工作流程.
-- [Django Cookiecutter Wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
+- [Django Cookiecutter Wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail)  – 带有 Wagtail 的 Django Cookiecutter 模板. 基于原始的“Django Cookiecutter”. 特性：Docker 支持使用“docker-compose”进行开发和生产（使用支持 LetsEncrypt 的 Traefik）、可定制的 PostgreSQL 版本、Bootstrap 4、使用 Amazon S3 或 Google Cloud Storage 的媒体存储等等.
 - [wagtail-webpack-dokku](https://github.com/helixsoftco/wagtail-webpack-dokku/) - 带有 Wagtail 的模板，使用 django-webpack-loader 的 Webpack，Bootstrap 5，为 Dokku 准备生产.
 - [Wagtail bootstrap blog](https://github.com/AccordBox/wagtail-bootstrap-blog)  - 一个以Bootstrap为主题的Wagtail博客，支持用`Markdown`, `Latex`书写. 它还具有评论工作流程，评论形式支持“提及”和“表情符号”. 前端由 `Webpack`、`Babel` 和 `SCSS` 构建.
 - [Wagtail react blog](https://github.com/AccordBox/wagtail-react-blog)  - 使用 React、Bootstrap4、Storybook 和 Wagtail Rest API 构建的 SPA 博客. 它还支持无头预览.
@@ -386,7 +385,7 @@
 - [wagtaildemo](https://github.com/wagtail/wagtaildemo) – 使用 Wagtail 实现的示例站点.
 - [Torchbox](https://github.com/torchbox/wagtail-torchbox) – Torchbox.com 的 Wagtail 版本.
 - [Made with Wagtail](https://github.com/springload/madewithwagtail) - 展示使用 Wagtail CMS 制作的网站和应用程序.
-- [OpenCanada.org](https://github.com/OpenCanada/website) – opencanada.org 网站资源.
+- [OpenCanada.org](https://github.com/OpenCanada/website) – The opencanada.org website source.
 - [Federal Election Commission](https://github.com/fecgov/fec-cms) – 新联邦选举委员会网站的内容管理系统 (CMS).
 - [Table Tennis Wellington Business Class](https://github.com/jordij/bctt.nz) – 新西兰惠灵顿乒乓球商业联盟网站.
 - [Jordi Joan’s blog](https://github.com/jordij/jordijoan.me) – 使用 Wagtail CMS 的个人博客站点.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="denolib/awesome-deno"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Deno [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/denolib/awesome-deno/master/deno-logo.png" align="right" width="100">](https://deno.land)
@@ -63,7 +62,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [nessie](https://github.com/halvardssm/deno-nessie) - 为 PostgreSQL、MySQL 和 SQLite 创建、迁移和回滚迁移.
 - [postgres](https://github.com/denodrivers/postgres) - PostgreSQL 数据库的驱动程序.
 - [r2d2](https://github.com/iuioiua/r2d2) - 用于 Deno 的快速、轻量级 Redis 客户端库.
-- [redis](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
+- [redis](https://github.com/denodrivers/redis) - 用于 deno 的 redis 客户端的实验性实现.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) - 一个 sql 查询生成器.
 - [yongo](https://github.com/yooneskh/yongo) - deno 中 Mongoose api 的子集（如填充）但不会完全复制 mongoose
 
@@ -205,7 +204,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ### Validation
 
-- [zod](https://github.com/colinhacks/zod) - 使用静态类型推断的 TypeScript 优先模式验证.
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Video
 
@@ -214,7 +213,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - 更好的 Deno 框架来创建 Web 应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - 具有许多装饰器的 Deno Web 框架.
-- [attain](https://github.com/aaronwlee/Attain)  - Deno 的中间件 Web 框架，它使用受 express 和 Oak 启发的 http 标准库. 快速稳定，适当的内存使用.
+- [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 - [aqua](https://github.com/l2ig/aqua) - Deno 的最小且快速的 Web 框架.
 - [danet](https://github.com/Savory/Danet) - 深受 Deno 启发的 Savory Web 框架 [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express 移植到 Deno.
@@ -310,14 +309,14 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd)  - 适用于 Windows 的 Deno 版本管理器. 写成一个批处理文件.
   - [ghosind/dvm](https://github.com/ghosind/dvm) - 适用于 Linux/MacOS 的轻量级 Deno 版本管理器.
 - [kopo-cli](https://github.com/littletof/kopo-cli) - 终端中的 Deno 注册表浏览器.
-- [make-deno-edition](https://github.com/bevry/make-deno-edition) - Automatically makes package.json projects (such as npm packages and node.js modules) compatible with Deno.
+- [make-deno-edition](https://github.com/bevry/make-deno-edition) - 自动使 package.json 项目（例如 npm 包和 node.js 模块）与 Deno 兼容.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以轻松地使用 Deno 脚本构建虚拟机映像.
 - [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - 为 Deno 项目预提交 git hooks.
 - [starter](https://github.com/denorg/starter) - 带有 GitHub Actions CI 的 Deno 模块入门模板
 - [trex](https://github.com/crewdevio/Trex) - 包管理，如 deno 的 npm.
 - [udd](https://github.com/hayd/deno-udd) - 更新 Deno 依赖项：将导入语句更新为最新发布的版本.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - Deno 的 npm 风格的脚本运行器.
-- [vscode-deno](https://github.com/denoland/vscode_deno) - 使用 TypeScript Deno 语言服务插件提供 Deno 支持的 VS Code 扩展.
+- [vscode-deno](https://github.com/denoland/vscode_deno) - 使用“TypeScript Deno 语言服务插件”提供 Deno 支持的 VS Code 扩展.
 - [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - 开始使用 Deno 的 VS Code 项目样板.
 - [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action 将具有最新 Deno 版本的文件放入您的存储库中.
 - [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - 使用 Deno 和 Docker 制作的自托管 Deno 函数.

@@ -1,11 +1,10 @@
 <div class="github-widget" data-repo="tiimgreen/github-cheat-sheet"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- Git 和 GitHub 的一组很酷的隐藏和不那么隐藏的功能. 这份备忘单的灵感来自 [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) 在 2012 年 Aloha Ruby 大会上发表演讲（[slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) 在 WDCNZ 2013 上的演讲（[slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
+ Git 和 GitHub 的隐藏和不那么隐藏的很酷的功能的集合. 这个备忘单的灵感来自 [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) 在 2012 年 Aloha Ruby 大会上的演讲（[slides](https://speakerdeck.com/holman/git-and-github-secrets)） 和他 [More Git and GitHub Secrets](https://vimeo.com/72955426) 在 WDCNZ 2013 演讲 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
 
-*用其他语言阅读： [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
+*阅读其他语言版本： [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
 
 GitHub 备忘单由 [Drawpoint: create interactive maps and images for your website with no coding](https://www.drawpoint.io)
 
@@ -13,14 +12,14 @@ GitHub 备忘单由 [Drawpoint: create interactive maps and images for your webs
 
 ## GitHub
 ### Ignore Whitespace
-将 `?w=1` 添加到任何 diff URL 将仅删除空格中的任何更改，使您只能看到已更改的代码.
+将 `?w=1` 添加到任何 diff URL 将仅删除空白中的任何更改，使您只能看到已更改的代码.
 
 ![Diff without whitespace](https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67)
 
 [*Read more about GitHub secrets.*](https://github.com/blog/967-github-secrets)
 
 ### Adjust Tab Space
-将 `?ts=4` 添加到 diff 或文件 URL 将显示制表符字符为 4 个空格，而不是默认的 8 个.可以调整 `ts` 后面的数字以适合您的偏好. 这不适用于 Gists 或原始文件视图，但 [Chrome extension](https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn) 可以自动化这个.
+将 `?ts=4` 添加到 diff 或文件 URL 会将制表符显示为 4 个空格而不是默认的 8 个空格.可以根据您的喜好调整 `ts` 之后的数字. 这不适用于要点或原始文件视图，但 [Chrome extension](https://chrome.google.com/webstore/detail/tab-size-on-github/ofjbgncegkdemndciafljngjbdpfmbkn) 可以自动化这个.
 
 这是添加 `?ts=4` 之前的 Go 源文件：
 
@@ -42,7 +41,7 @@ https://github.com/rails/rails/commits/master?author=dhh
 [*Read more about the differences between commits views.*](https://help.github.com/articles/differences-between-commit-views/)
 
 ### Cloning a Repository
-克隆存储库时，可以将“.git”放在末尾.
+克隆存储库时，可以将 `.git` 放在末尾.
 
 ```bash
 $ git clone https://github.com/tiimgreen/github-cheat-sheet
@@ -53,15 +52,15 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 ### Branch
 #### Compare all Branches to Another Branch
 
-如果你去回购 [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) 页面，在提交按钮旁边：
+如果你去回购 [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) 页面，在“提交”按钮旁边：
 
 ```
 https://github.com/{user}/{repo}/branches
 ```
 
-...您会看到未合并到主分支中的所有分支的列表.
+...您会看到未合并到主分支的所有分支的列表.
 
-从这里您可以通过单击按钮访问比较页面或删除分支.
+从这里您可以访问比较页面或单击按钮删除分支.
 
 ![Compare branches not merged into master in rails/rails repo - https://github.com/rails/rails/branches](http://i.imgur.com/0FEe30z.png)
 
@@ -89,7 +88,7 @@ https://github.com/rails/rails/compare/master@{1.day.ago}...master
 https://github.com/rails/rails/compare/master@{2014-10-04}...master
 ```
 
-*这里，日期的格式为 `YYYY-MM-DD`*
+*这里，日期的格式是`YYYY-MM-DD`*
 
 ![Another compare example](http://i.imgur.com/5dtzESz.png)
 
@@ -103,7 +102,7 @@ https://github.com/rails/rails/compare/master...4-1-stable.patch
 [*Read more about comparing commits across time.*](https://help.github.com/articles/comparing-commits-across-time/)
 
 #### Compare Branches across Forked Repositories
-要使用 GitHub 比较分叉存储库中的分支，请将 URL 更改为如下所示：
+要使用 GitHub 比较分支存储库中的分支，请将 URL 更改为如下所示：
 
 ```
 https://github.com/{user}/{repo}/compare/{foreign-user}:{branch}...{own-branch}
@@ -122,12 +121,12 @@ https://github.com/rails/rails/compare/byroot:master...master
 
 ![Gist](http://i.imgur.com/VkKI1LC.png?1)
 
-将 `.pibb` 添加到任何 Gist URL 的末尾（[like this](https://gist.github.com/tiimgreen/10545817.pibb)) 以获得适合嵌入任何其他站点的 *HTML-only* 版本.
+将 .pibb 添加到任何 Gist URL 的末尾（[like this](https://gist.github.com/tiimgreen/10545817.pibb)) 以获得适合嵌入任何其他站点的 *HTML-only* 版本.
 
-Gists 可以被视为一个存储库，因此它们可以像任何其他内容一样被克隆：
+Gists 可以被视为一个存储库，因此它们可以像其他任何东西一样被克隆：
 
 ```bash
-$ git clone https://gist.github.com/tiimgreen/10545817
+$ git 克隆 https://gist.github.com/tiimgreen/10545817
 ```
 
 ![Gists](http://i.imgur.com/BcFzabp.png)
@@ -135,9 +134,9 @@ $ git clone https://gist.github.com/tiimgreen/10545817
 这意味着您还可以修改和推送更新到 Gists：
 
 ```bash
-$ git提交
-$ git推送
-“https://gist.github.com”的用户名：
+$ git 提交
+$ git 推送
+Username for 'https://gist.github.com':
 “https://tiimgreen@gist.github.com”的密码：
 ```
 
@@ -145,7 +144,7 @@ $ git推送
 [*Read more about creating Gists.*](https://help.github.com/articles/creating-gists/)
 
 ### Git.io
-[Git.io](http://git.io) 是一个简单的 GitHub URL 缩短器.
+[Git.io](http://git.io) 是 GitHub 的简单 URL 缩短器.
 
 ![Git.io](http://i.imgur.com/6JUfbcG.png?1)
 
@@ -153,24 +152,24 @@ $ git推送
 
 ```bash
 $ curl -i http://git.io -F &quot;url=https://github.com/...&quot;
-HTTP/1.1 201 创建
+HTTP/1.1 201 已创建
 位置：http://git.io/abc123
 
 $ curl -i http://git.io/abc123
-找到 HTTP/1.1 302
+HTTP/1.1 302 找到
 位置：https://github.com/...
 ```
 
 [*Read more about Git.io.*](https://github.com/blog/985-git-io-github-url-shortener)
 
 ### Keyboard Shortcuts
-在存储库页面上，键盘快捷键可让您轻松导航.
+在存储库页面上时，键盘快捷键可让您轻松导航.
 
- - 按 `t` 将打开文件资源管理器.
+ - 按 `t` 将调出一个文件资源管理器.
  - 按 `w` 将调出分支选择器.
-  - 按 `s` 将聚焦当前存储库的搜索字段. 按 ↓ 选择“All GitHub”选项将字段更改为搜索所有 GitHub.
- - 按“l”将编辑现有问题的标签.
-  - 在查看文件时按 `y` **（例如，`https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`）会将您的 URL 更改为，实际上，冻结了您正在查看的页面. 如果此代码更改，您仍然可以看到您当时看到的内容.
+  - 按 `s` 将聚焦当前存储库的搜索字段. 按 ↓ 选择“所有 GitHub”选项更改字段以搜索所有 GitHub.
+ - 按 `l` 将编辑现有问题的标签.
+  - 在查看文件时按 `y` **（例如，`https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`）会将您的 URL 更改为，实际上冻结了您正在查看的页面. 如果此代码发生更改，您仍然可以看到您在当前时间看到的内容.
 
 要查看当前页面的所有快捷方式，请按 `?`：
 
@@ -190,7 +189,7 @@ https://github.com/rails/rails/blob/master/activemodel/lib/active_model.rb#L53-L
 ![Line Highlighting](http://i.imgur.com/8AhjrCz.png)
 
 ### Closing Issues via Commit Messages
-如果一个特定的提交修复了一个问题，任何关键字 `fix/fixes/fixed`、`close/closes/closed` 或 `resolve/resolves/resolved`，后跟问题编号，一旦提交，将关闭该问题到存储库的默认分支.
+如果一个特定的提交修复了一个问题，任何关键字`fix/fixes/fixed`、`close/closes/closed` 或 `resolve/resolves/resolved`，后跟问题编号，将在提交后关闭问题到存储库的默认分支.
 
 ```bash
 $ git commit -m "Fix screwup, fixes #12"
@@ -214,7 +213,7 @@ To link to an issue in another repository, `{user}/{repo}#ISSUE_NUMBER`, e.g., `
 
 ![Lock conversation](https://cloud.githubusercontent.com/assets/2723/3221693/bf54dd44-f00d-11e3-8eb6-bb51e825bc2c.png)
 
-这意味着不是项目合作者的用户将无法再发表评论.
+这意味着不是项目协作者的用户将无法再发表评论.
 
 ![Comments locked](https://cloud.githubusercontent.com/assets/2723/3221775/d6e513b0-f00e-11e3-9721-2131cb37c906.png)
 
@@ -222,7 +221,7 @@ To link to an issue in another repository, `{user}/{repo}#ISSUE_NUMBER`, e.g., `
 
 
 ### CI Status on Pull Requests
-如果设置正确，每次收到 Pull Request 时， [Travis CI](https://travis-ci.org/) 将像每次进行新提交时一样构建该拉取请求. 阅读更多关于如何 [get started with Travis CI](http://docs.travis-ci.com/user/getting-started/).
+如果设置正确，每次收到 Pull Request 时， [Travis CI](https://travis-ci.org/) 将像每次进行新提交时一样构建该 Pull Request. 阅读更多关于如何 [get started with Travis CI](http://docs.travis-ci.com/user/getting-started/).
 
 [![Travis CI status](https://cloud.githubusercontent.com/assets/1687642/2700187/3a88838c-c410-11e3-9a46-e65e2a0458cd.png)](https://github.com/octokit/octokit.rb/pull/452)
 
@@ -238,14 +237,14 @@ To link to an issue in another repository, `{user}/{repo}#ISSUE_NUMBER`, e.g., `
 
 但是，您还可以找到所有未标记为 activerecord 的问题：
 
-`is:issue -label:activerecord`
+`is:issue-label:activerecord`
 
 此外，这也适用于拉取请求：
 
-`is:pr -label:activerecord`
+`is:pr-label:activerecord`
 
-Github 有用于显示打开或关闭的问题和拉取请求的选项卡，但您
-还可以查看合并的拉取请求. 只需将以下内容放入过滤器中：
+Github 有用于显示打开或关闭的问题和拉取请求的选项卡，但你
+还可以看到合并的拉取请求. 只需将以下内容放入过滤器中：
 
 `is:merged`
 
@@ -260,11 +259,11 @@ Github 有用于显示打开或关闭的问题和拉取请求的选项卡，但�
 [*Read more about searching on the Status API.*](https://github.com/blog/2014-filter-pull-requests-by-status)
 
 ### Syntax Highlighting in Markdown Files
-例如，要在 Markdown 文件中语法高亮 Ruby 代码，请编写：
+例如，要在 Markdown 文件中语法高亮显示 Ruby 代码，请编写：
 
     ```红宝石
     需要&#39;tabbit&#39;
-    table = Tabbit.new(&#39;姓名&#39;, &#39;电子邮件&#39;)
+    table = Tabbit.new(&#39;姓名&#39;, &#39;邮箱&#39;)
     table.add_row(&#39;蒂姆格林&#39;, &#39;tiimgreen@gmail.com&#39;)
     将 table.to_s
     ```
@@ -273,12 +272,12 @@ Github 有用于显示打开或关闭的问题和拉取请求的选项卡，但�
 
 ```ruby
 需要&#39;tabbit&#39;
-table = Tabbit.new(&#39;姓名&#39;, &#39;电子邮件&#39;)
+table = Tabbit.new(&#39;姓名&#39;, &#39;邮箱&#39;)
 table.add_row(&#39;蒂姆格林&#39;, &#39;tiimgreen@gmail.com&#39;)
 将 table.to_s
 ```
 
-GitHub 使用 [Linguist](https://github.com/github/linguist) 执行语言检测和语法高亮. 您可以通过仔细阅读来找出哪些关键字是有效 [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+GitHub 使用 [Linguist](https://github.com/github/linguist) 执行语言检测和语法突出显示. 您可以通过仔细阅读 [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
@@ -290,20 +289,20 @@ GitHub 上支持的表情符号的完整列表可以在以下位置找到 [emoji
 
 GitHub 上使用最多的 5 个表情符号是：
 
-1.`:shipit:`
+1.`：船：`
 2.`：火花：`
 3. `:-1:`
 4. `:+1:`
 5.`：拍手：`
 
 ### Images/GIFs
-图像和 GIF 可以添加到评论、自述文件等：
+图片和 GIF 可以添加到评论、README 等：
 
 ```
 ![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
 ```
 
-可以通过直接调用它们来使用来自 repo 的原始图像：
+来自 repo 的原始图像可以通过直接调用它们来使用：
 
 ```
 ![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
@@ -311,21 +310,21 @@ GitHub 上使用最多的 5 个表情符号是：
 
 ![Peter don't care](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
 
-所有图像都缓存在 GitHub 上，因此如果您的主机出现故障，图像将保持可用.
+所有图像都缓存在 GitHub 上，因此如果您的主机出现故障，图像将仍然可用.
 
 #### Embedding Images in GitHub Wiki
-有多种方法可以在 Wiki 页面中嵌入图像. 有标准的 Markdown 语法（如上所示）. 但也有一种语法允许指定图像的高度或宽度：
+有多种方法可以在 Wiki 页面中嵌入图像. 有标准的 Markdown 语法（如上所示）. 但是还有一种语法允许指定图像的高度或宽度：
 
 ```markdown
- [[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | 高度 = 100 像素]]
+ [[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | 高度 = 100px ]]
 ```
 
-产生：
+哪个产生：
 
 ![Just a screenshot](http://i.imgur.com/J5bMf7S.png)
 
 ### Quick Quoting
-当在评论线程上并且您想引用某人之前说过的内容时，突出显示文本并按“r”，这会将其以块引用格式复制到您的文本框中.
+当在评论线程中并且您想引用某人之前说过的话时，突出显示文本并按 `r`，这将以块引用格式将其复制到您的文本框中.
 
 ![Quick Quote](https://f.cloud.github.com/assets/296432/124483/b0fa6204-6ef0-11e2-83c3-256c37fa7abc.gif)
 
@@ -335,47 +334,47 @@ GitHub 上使用最多的 5 个表情符号是：
 
 _（仅适用于 Chrome 浏览器）_
 
-截图并添加到剪贴板（mac：`cmd-ctrl-shift-4`）后，您可以简单地将图像粘贴（`cmd-v / ctrl-v`）到评论部分，它将自动-上传到github.
+截图并添加到剪贴板后（mac：`cmd-ctrl-shift-4`），您只需将图像粘贴（`cmd-v / ctrl-v`）到评论部分，它就会自动-上传到github.
 
 ![Pasting Clipboard Image to Comments](https://cloud.githubusercontent.com/assets/39191/5794265/39c9b65a-9f1b-11e4-9bc7-04e41f59ea5f.png)
 
 [*Read more about issue attachments.*](https://help.github.com/articles/issue-attachments/)
 
 ### Quick Licensing
-创建存储库时，GitHub 为您提供添加预制许可证的选项：
+创建存储库时，GitHub 为您提供了添加预制许可证的选项：
 
 ![License](http://i.imgur.com/Chqj4Fg.png)
 
-您还可以通过 Web 界面创建新文件，将它们添加到现有存储库中. 输入名称 `LICENSE` 后，您将获得使用模板的选项：
+您还可以通过 Web 界面创建新文件，将它们添加到现有存储库中. 当输入名称 `LICENSE` 时，您将获得使用模板的选项：
 
 ![License](http://i.imgur.com/fTjQict.png)
 
-也适用于`.gitignore`.
+Also works for `.gitignore`.
 
 [*Read more about open source licensing.*](https://help.github.com/articles/open-source-licensing/)
 
 ### Task Lists
-在问题和拉取请求中，可以使用以下语法添加复选框（注意空格）：
+在 Issues 和 Pull requests 中，可以使用以下语法添加复选框（注意空格）：
 
 ```
-- [ ] 真棒
+- []很棒
 - [ ] 准备晚餐
-  - []研究配方
-  - [ ] 购买成分
-  - [ ] 烹饪食谱
+  - [ ] 研究配方
+  - [ ] 购买原料
+  - [] 烹饪食谱
 - [ ] 睡觉
 ```
 
 ![Task List](http://i.imgur.com/jJBXhsY.png)
 
-当它们被点击时，它们将在纯 Markdown 中更新：
+单击它们时，它们将在纯 Markdown 中更新：
 
 ```
-- [x] 真棒
+- [x] 很棒
 - [ ] 准备晚餐
   - [x] 研究配方
-  - [x] 购买材料
-  - [ ] 烹饪食谱
+  - [x] 购买原料
+  - [] 烹饪食谱
 - [ ] 睡觉
 ```
 
@@ -385,38 +384,38 @@ _（仅适用于 Chrome 浏览器）_
 在完整的 Markdown 文档中，**只读**清单现在可以使用以下语法添加：
 
 ```
-- [ ] 水星
+- [ ] 汞
 - [x] 金星
 - [x] 地球
   - [x] 月亮
 - [x] 火星
-  - [] 火卫二
-  - []火卫一
+  - [ ] 火卫二
+  - [ ] 火卫一
 ```
 
-- [ ] 水星
+- [ ] 汞
 - [x] 金星
 - [x] 地球
   - [x] 月亮
 - [x] 火星
-  - [] 火卫二
-  - []火卫一
+  - [ ] 火卫二
+  - [ ] 火卫一
 
 [*Read more about task lists in markdown documents.*](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 ### Relative Links
-链接到内部内容时，建议在您的 Markdown 文件中使用相对链接.
+Relative links are recommended in your Markdown files when linking to internal content.
 
 ```markdown
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
 ```
 
-每当 URL 更改（例如，存储库重命名、用户名更改、项目分叉）时，都必须更新绝对链接. 使用相对链接可以让您的文档轻松独立.
+绝对链接必须在 URL 更改时更新（例如，存储库重命名、用户名更改、项目分叉）. 使用相关链接可以使您的文档轻松独立.
 
 [*Read more about relative links.*](https://help.github.com/articles/relative-links-in-readmes/)
 
 ### Metadata and Plugin Support for GitHub Pages
-在 Jekyll 页面和帖子中，存储库信息在 `site.github` 命名空间中可用，并且可以显示，例如，使用 `{{ site.github.project_title }}`.
+在 Jekyll 页面和帖子中，存储库信息在 `site.github` 命名空间内可用，并且可以显示，例如，使用 `{{ site.github.project_title }}`.
 
 Jemoji 和 jekyll-mentions 插件启用 [emoji](#emojis) 和 [@mentions](https://github.com/blog/821) in your Jekyll posts 和 pages to work just like you'd expect when interacting with a repository on GitHub.com.
 
@@ -447,7 +446,7 @@ GitHub 支持渲染 PDF：
 ### Revert a Pull Request
 合并拉取请求后，您可能会发现它没有任何帮助，或者合并拉取请求是一个错误的决定.
 
-您可以通过单击拉取请求页面中提交右侧的 **Revert** 按钮来还原它，以创建一个拉取请求，其中包含对该特定拉取请求的还原更改.
+您可以通过单击拉取请求页面中提交右侧的 **Revert** 按钮来还原它，以创建一个拉取请求，其中包含对此特定拉取请求的还原更改.
 
 ![Revert button](https://camo.githubusercontent.com/0d3350caf2bb1cba53123ffeafc00ca702b1b164/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f68656c702f70756c6c5f72657175657374732f7265766572742d70756c6c2d726571756573742d6c696e6b2e706e67)
 
@@ -455,11 +454,11 @@ GitHub 支持渲染 PDF：
 
 ### Diffs
 #### Rendered Prose Diffs
-提交和拉取请求，包括 GitHub 支持的渲染文档（例如 Markdown）、功能 *source* 和 *rendered* 视图.
+提交和拉取请求，包括 GitHub 支持的渲染文档（例如 Markdown）、特性 *source* 和 *rendered* 视图.
 
 ![Source / Rendered view](https://github-images.s3.amazonaws.com/help/repository/rendered_prose_diff.png)
 
-单击“渲染”按钮以查看将出现在渲染文档中的更改. 当您添加、删除和编辑文本时，渲染散文视图很方便：
+单击“呈现”按钮以查看更改将出现在呈现的文档中. 当您添加、删除和编辑文本时，呈现的散文视图很方便：
 
 ![Rendered Prose Diffs](https://f.cloud.github.com/assets/17715/2003056/3997edb4-862b-11e3-90be-5e9586edecd7.png)
 
@@ -473,15 +472,15 @@ GitHub 支持渲染 PDF：
 [*Read more about diffable maps.*](https://github.com/blog/1772-diffable-more-customizable-maps)
 
 #### Expanding Context in Diffs
-使用 diff 的排水沟中的 *unfold* 按钮，您可以通过单击显示更多的上下文行. 您可以继续单击 *展开*，直到您显示整个文件，并且该功能在 GitHub 呈现差异的任何地方都可用.
+使用 diff 栏中的 *unfold* 按钮，您可以通过单击显示额外的上下文行. 您可以一直单击 *unfold* 直到显示整个文件，并且该功能在 GitHub 呈现差异的任何地方都可用.
 
 ![Expanding Context in Diffs](https://f.cloud.github.com/assets/22635/1610539/863c1f64-5584-11e3-82bf-151b406a272f.gif)
 
 [*Read more about expanding context in diffs.*](https://github.com/blog/1705-expanding-context-in-diffs)
 
 #### Diff or Patch of Pull Request
-您可以通过添加 `.diff` 或 `.patch` 来获取 Pull Request 的差异
- URL 末尾的扩展名. 例如：
+您可以通过添加 .diff 或 .patch 来获取 Pull Request 的差异
+扩展到 URL 的末尾. 例如：
 
 ```
 https://github.com/tiimgreen/github-cheat-sheet/pull/15
@@ -489,15 +488,15 @@ https://github.com/tiimgreen/github-cheat-sheet/pull/15.diff
 https://github.com/tiimgreen/github-cheat-sheet/pull/15.patch
 ```
 
-`.diff` 扩展名将以纯文本形式提供给您：
+`.diff` 扩展名将以纯文本形式为您提供：
 
 ```
-差异 --git a/README.md b/README.md
-索引 88fcf69..8614873 100644
---- a/README.md
-+++ b/README.md
+diff --git a/README.md b/README.md
+指数 88fcf69..8614873 100644
+--- 一个/README.md
++++ b/自述文件.md
  @@ -28,6 +28,7 @@ Git 和 GitHub 的所有隐藏和非隐藏功能. 这个备忘单是我
-@@ -381,6 +382,19 @@ 当它们被点击时，它们会在纯 Markdown 中更新：
+@@ -381,6 +382,19 @@ 当它们被点击时，它们将在纯 Markdown 中更新：
  - [ ] 睡觉
 
 (...)
@@ -511,7 +510,7 @@ https://github.com/tiimgreen/github-cheat-sheet/pull/15.patch
 [*Read more about rendering and diffing images.*](https://help.github.com/articles/rendering-and-diffing-images/)
 
 ### Hub
-[Hub](https://github.com/github/hub) 是一个命令行 Git 包装器，它为您提供额外的功能和命令，让您更轻松地使用 GitHub.
+[Hub](https://github.com/github/hub) 是一个命令行 Git 包装器，它为您提供额外的功能和命令，使您可以更轻松地使用 GitHub.
 
 这使您可以执行以下操作：
 
@@ -522,18 +521,18 @@ $ hub 克隆 tiimgreen/toc
 [*Check out some more cool commands Hub has to offer.*](https://github.com/github/hub#commands)
 
 ### Contribution Guidelines
-GitHub 支持添加 3 个不同的文件，帮助用户为您的项目做出贡献.
-这些文件可以放在存储库的根目录中，也可以放在根目录下的“.github”目录中.
+GitHub 支持添加 3 个不同的文件，以帮助用户为您的项目做出贡献.
+这些文件可以放在存储库的根目录中，也可以放在根目录下的 .github 目录中.
 
 #### CONTRIBUTING File
-当贡献者创建问题或打开拉取请求时，将 `CONTRIBUTING` 或 `CONTRIBUTING.md` 文件添加到存储库的根目录或 `.github` 目录将添加指向文件的链接.
+将 `CONTRIBUTING` 或 `CONTRIBUTING.md` 文件添加到您的存储库的根目录或 `.github` 目录将在贡献者创建问题或打开合并请求时添加指向您的文件的链接.
 
 ![Contributing Guidelines](https://camo.githubusercontent.com/71995d6b0e620a9ef1ded00a04498241c69dd1bf/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f736b697463682f6973737565732d32303132303931332d3136323533392e6a7067)
 
 [*Read more about contributing guidelines.*](https://github.com/blog/1184-contributing-guidelines)
 
 #### ISSUE_TEMPLATE file
-您可以为项目中打开的所有新问题定义模板. 当用户创建新问题时，此文件的内容将预先填充新问题框. 将 `ISSUE_TEMPLATE` 或 `ISSUE_TEMPLATE.md` 文件添加到存储库的根目录或 `.github` 目录.
+您可以为项目中打开的所有新问题定义一个模板. 当用户创建新问题时，此文件的内容将预填充新问题框. 将 `ISSUE_TEMPLATE` 或 `ISSUE_TEMPLATE.md` 文件添加到存储库的根目录或 `.github` 目录.
 
 [*Read more about issue templates.*](https://github.com/blog/2111-issue-and-pull-request-templates)
 
@@ -542,14 +541,14 @@ GitHub 支持添加 3 个不同的文件，帮助用户为您的项目做出贡�
 ![GitHub Issue template](https://cloud.githubusercontent.com/assets/25792/13120859/733479fe-d564-11e5-8a1f-a03f95072f7a.png)
 
 #### PULL_REQUEST_TEMPLATE file
-您可以为项目中打开的所有新拉取请求定义一个模板. 当用户创建拉取请求时，此文件的内容将预先填充文本区域. 将“PULL_REQUEST_TEMPLATE”或“PULL_REQUEST_TEMPLATE.md”文件添加到存储库的根目录或“.github”目录.
+您可以为项目中打开的所有新拉取请求定义一个模板. 当用户创建拉取请求时，此文件的内容将预填充文本区域. 将 `PULL_REQUEST_TEMPLATE` 或 `PULL_REQUEST_TEMPLATE.md` 文件添加到存储库的根目录或 `.github` 目录.
 
 [*Read more about pull request templates.*](https://github.com/blog/2111-issue-and-pull-request-templates)
 
 [Pull request template file generator](https://www.talater.com/open-source-templates/)
 
 ### Octicons
-GitHub 图标（Octicons）现已开源.
+GitHubs 图标 (Octicons) 现已开源.
 
 ![Octicons](https://og.github.com/octicons/octicons@1200x630.png)
 
@@ -557,7 +556,7 @@ GitHub 图标（Octicons）现已开源.
 
 ### GitHub Student Developer Pack
 
-如果您是学生，您将有资格获得 GitHub 学生开发包. 这为您提供免费信用、免费试用和早期访问对您开发有帮助的软件.
+如果您是学生，您将有资格获得 GitHub 学生开发包. 这为您提供免费信用、免费试用和早期访问软件，这些软件将在您进行开发时提供帮助.
 
 ![GitHub Student Developer Pack](http://i.imgur.com/9ru3K43.png)
 
@@ -567,11 +566,11 @@ GitHub 图标（Octicons）现已开源.
  | 标题 | 链接 |
 | ----- | ---- |
  |  GitHub 探索 |  https://github.com/explore |
- |  GitHub 博客 |  https://github.com/blog |
+ |  GitHub 博客 |  https://github.com/博客 |
  |  GitHub 帮助 |  https://help.github.com/ |
-| GitHub Training | https://training.github.com/ |
+ |  GitHub 培训 |  https://training.github.com/ |
  |  GitHub 开发者 |  https://developer.github.com/ |
- |  Github 教育（学生免费的微帐户和其他东西）|  https://education.github.com/ |
+ |  Github Education（免费微型账户和其他面向学生的东西）|  https://education.github.com/ |
  |  GitHub 最佳实践 | [Best Practices List](https://www.datree.io/resources/github-best-practices) |
 
 #### GitHub Talks
@@ -607,11 +606,11 @@ e.g. [https://github.com/tiimgreen.png](https://github.com/tiimgreen.png)
 
 ### Repository Templates
 
-您可以在您的存储库上启用模板，允许任何人复制目录结构和文件，允许他们立即使用文件（例如，用于教程或编写样板代码）. 这可以在存储库的设置中启用.
+您可以在您的存储库上启用模板，这允许任何人复制目录结构和文件，允许他们立即使用这些文件（例如，用于教程或编写样板代码）. 这可以在您的存储库的设置中启用.
 
 ![Convert](https://i.postimg.cc/hGCrVm9F/Template.gif)
 
-更改为模板存储库将提供一个新的 URL 端点，该端点可以共享并立即允许用户将您的存储库用作模板. 或者，他们可以转到您的存储库并单击“用作模板”按钮.
+更改为模板存储库将提供一个可以共享的新 URL 端点，并立即允许用户将您的存储库用作模板. 或者，他们可以转到您的存储库并单击“用作模板”按钮.
 
 ![Template](https://i.postimg.cc/L8PKCHx0/New-Template.gif)
 
@@ -619,7 +618,7 @@ e.g. [https://github.com/tiimgreen.png](https://github.com/tiimgreen.png)
 
 ## Git
 ### Remove All Deleted Files from the Working Tree
-当您使用 /bin/rm 删除大量文件时，您可以使用以下命令将它们从工作树和索引中删除，从而无需单独删除每个文件：
+当您使用 `/bin/rm` 删除大量文件时，您可以使用以下命令将它们从工作树和索引中删除，从而无需单独删除每个文件：
 
 ```bash
 $ git rm $(git ls-files -d)
@@ -628,18 +627,18 @@ $ git rm $(git ls-files -d)
 例如：
 
 ```bash
-$git 状态
-在分支主
-未为提交暂存的更改：
+$ git 状态
+在分行主
+未暂存提交的更改：
 	删除：一个
 	删除：c
 
 $ git rm $(git ls-files -d)
-rm&#39;a&#39;
-rm&#39;c&#39;
+rm &#39;a&#39;
+室&#39;c&#39;
 
-$git 状态
-在分支主
+$ git 状态
+在分行主
 要提交的更改：
 	删除：一个
 	删除：c
@@ -649,13 +648,13 @@ $git 状态
 要移动到 Git 中的上一个分支：
 
 ```bash
-$ git结帐-
+$ 结帐 -
 ## Switched to branch 'master'
 
-$ git结帐-
+$ 结帐 -
 ## Switched to branch 'next'
 
-$ git结帐-
+$ 结帐 -
 ## Switched to branch 'master'
 ```
 
@@ -663,7 +662,7 @@ $ git结帐-
 
 ### Stripspace
 
-Git 剥离空间：
+Git 条带空间：
 
 - 去除尾随空格
 - 折叠换行符
@@ -678,9 +677,9 @@ $ git stripspace &lt; README.md
 
 ### Checking out Pull Requests
 
-拉取请求是 GitHub 存储库中的特殊分支，可以通过多种方式在本地检索：
+拉取请求是 GitHub 存储库上的特殊分支，可以通过多种方式在本地检索：
 
-检索特定的拉取请求并将其临时存储在 `FETCH_HEAD` 中，以便快速进行 `diff`-ing 或 `merge`-ing：
+检索特定的 Pull Request 并将其临时存储在 `FETCH_HEAD` 中，以便快速进行 `diff`-ing 或 `merge`-ing：
 
 ```bash
 $ git fetch origin refs/pull/[PR-Number]/head
@@ -695,25 +694,25 @@ $ git fetch origin &#39;+refs/pull/*/head:refs/remotes/origin/pr/*&#39;
 或者通过在存储库的 `.git/config` 中添加这些相应的行来设置远程自动获取拉取请求：
 
 ```
-[遥远的“起源”]
+[远程“起源”]
     fetch = +refs/heads/*:refs/remotes/origin/*
     url = git@github.com:tiimgreen/github-cheat-sheet.git
 ```
 
 ```
-[遥远的“起源”]
+[远程“起源”]
     fetch = +refs/heads/*:refs/remotes/origin/*
     url = git@github.com:tiimgreen/github-cheat-sheet.git
     fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
 ```
 
-对于基于 Fork 的拉取请求贡献，“签出”代表拉取请求的远程分支并从中创建本地分支很有用：
+对于基于 Fork 的 Pull Request 贡献，“checkout”代表 Pull Request 的远程分支并从中创建本地分支很有用：
 
 ```bash
 $ git checkout pr/42 pr-42
 ```
 
-或者如果您在更多存储库上工作，您可以在全局 git 配置中全局配置获取拉取请求.
+或者你应该在更多的存储库上工作，你可以在全局 git 配置中全局配置获取拉取请求.
 
 ```bash
 git config --global --add remote.origin.fetch &quot;+refs/pull/*/head:refs/remotes/origin/pr/*&quot;
@@ -722,7 +721,7 @@ git config --global --add remote.origin.fetch &quot;+refs/pull/*/head:refs/remot
 这样，您可以在所有存储库中使用以下简短命令：
 
 ```bash
-git 获取原点
+git 获取来源
 ```
 
 ```bash
@@ -738,10 +737,10 @@ git checkout pr/42
 $ git commit -m &quot;大屁股提交&quot; --allow-empty
 ```
 
-一些用例（有意义）包括：
+这方面的一些用例（有意义）包括：
 
  - 注释大量新工作或新功能的开始.
- - 对与代码无关的项目进行更改时记录.
+ - 当您对与代码无关的项目进行更改时进行记录.
  - 与使用您的存储库的人交流.
  - 存储库的第一次提交：`git commit -m &quot;Initial commit&quot; --allow-empty`.
 
@@ -749,17 +748,17 @@ $ git commit -m &quot;大屁股提交&quot; --allow-empty
 Running:
 
 ```bash
-$git 状态
+$ git 状态
 ```
 
 produces:
 
 ![git status](http://i.imgur.com/qjPyvXb.png)
 
-通过添加`-sb`：
+通过添加“-sb”：
 
 ```bash
-$ git状态-sb
+$ git 状态 -sb
 ```
 
 这是产生的：
@@ -781,25 +780,25 @@ produces:
 
 归功于 [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*这可以使用找到的说明来别名 [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+*这可以使用找到的说明进行别名 [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
 ### Git Query
-Git 查询允许您搜索所有以前的提交消息并找到与查询匹配的最新消息.
+Git 查询允许您搜索所有以前的提交消息并找到与查询匹配的最新提交消息.
 
 ```bash
-$ git show :/查询
+$ git 显示：/查询
 ```
 
-其中 `query`（区分大小写）是您要搜索的术语，然后查找最后一个并提供更改的行的详细信息.
+其中“query”（区分大小写）是您要搜索的术语，然后找到最后一个并提供有关已更改行的详细信息.
 
 ```bash
-$ git show :/错字
+$ git 显示：/打字错误
 ```
 ![git show :/query](http://i.imgur.com/icaGiNt.png)
 
-*按`q`退出.*
+*按 `q` 退出.*
 
 
 ### Git Grep
@@ -814,7 +813,7 @@ $ git grep 别名
 
 ![git grep aliases](http://i.imgur.com/DL2zpQ9.png)
 
-*按`q`退出.*
+*按 `q` 退出.*
 
 您还可以使用多个标志进行更高级的搜索. 例如：
 
@@ -823,7 +822,7 @@ $ git grep 别名
 
 像这样使用它：
 ```bash
- $ git grep -e 模式 --and -e anotherpattern
+ $ git grep -e pattern --and -e anotherpattern
 ```
 
 [*Read more about the Git `grep` command.*](http://git-scm.com/docs/git-grep)
@@ -840,7 +839,7 @@ $ git 分支 --merged
 Conversely:
 
 ```bash
-$ git branch --no-merged
+$ git 分支 --no-merged
 ```
 
 将为您提供尚未合并到当前分支的分支列表.
@@ -857,10 +856,10 @@ $ git rebase abcde^ --autosquash -i
 [*Read more about the Git `rebase` command.*](http://git-scm.com/docs/git-rebase)
 
 ### Web Server for Browsing Local Repositories
-使用 Git `instaweb` 命令立即浏览 `gitweb` 中的工作存储库. 该命令是一个简单的脚本，用于设置 `gitweb` 和用于浏览本地存储库的 Web 服务器.
+使用 Git `instaweb` 命令即时浏览 `gitweb` 中的工作存储库. 此命令是一个简单的脚本，用于设置 `gitweb` 和用于浏览本地存储库的 Web 服务器.
 
 ```bash
-$ 混帐 instaweb
+$ git instaweb
 ```
 
 opens:
@@ -873,16 +872,16 @@ opens:
 你的 .gitconfig 文件包含你所有的 Git 配置.
 
 #### Aliases
-别名是帮助您定义自己的 git 调用的助手. 例如，你可以设置 `git a` 来运行 `git add --all`.
+别名是帮助您定义自己的 git 调用的助手. 例如，您可以设置 `git a` 来运行 `git add --all`.
 
-要添加别名，请导航到 `~/.gitconfig` 并按以下格式填写：
+要添加别名，请导航至“~/.gitconfig”并按以下格式填写：
 
 ```
 [alias]
-  co = 结帐
+  co =结帐
   厘米 = 提交
   p = 推
-  #显示关于标签、分支或远程的详细输出
+  #显示有关标签、分支或远程的详细输出
   标签=标签-l
   分支=分支-a
   遥控器=远程-v
@@ -897,10 +896,10 @@ $ git config --global alias.new_alias git_function
 例如：
 
 ```bash
-$ git config --global alias.cm 提交
+$ git config --global alias.cm commit
 ```
 
-对于具有多个函数的别名，请使用引号：
+对于具有多个功能的别名，请使用引号：
 
 ```bash
  $ git config --global alias.ac &#39;添加 -A .  ＆＆ 犯罪&#39;
@@ -908,27 +907,27 @@ $ git config --global alias.cm 提交
 
 一些有用的别名包括：
 
- | 别名 | 命令 | 输入什么 |
+ | 别名 | 命令 | 键入什么 |
 | --- | --- | --- |
- |  `git cm` |  `git 提交` |  `git config --global alias.cm commit` |
+ |  `混帐厘米` |  `git 提交` |  `git config --global alias.cm commit` |
  |  `git co` |  `git checkout` |  `git config --global alias.co checkout` |
  |  `git ac` |  `混帐添加.  -A` `git commit` |  `git config --global alias.ac &#39;!git add -A &amp;&amp; git commit&#39;` |
  |  `git st` |  `git status -sb` |  `git config --global alias.st &#39;status -sb&#39;` |
- |  `git 标签` |  `git 标记 -l` |  `git config --global alias.tags &#39;tag -l&#39;` |
+ |  `git 标签` |  `git 标签-l` |  `git config --global alias.tags &#39;tag -l&#39;` |
  |  `git 分支` |  `git 分支-a` |  `git config --global alias.branches &#39;branch -a&#39;` |
- |  `git 清理` |  `git 分支 --merged \|  grep -v &#39;*&#39; \|  xargs git 分支-d` |  `git config --global alias.cleanup &quot;!git branch --merged \| grep -v &#39;*&#39; \| xargs git branch -d&quot;` |
- |  `git 遥控器` |  `git 远程 -v` |  `git config --global alias.remotes &#39;remote -v&#39;` |
- |  `git lg` |  `git log --color --graph --pretty=format:&#39;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt; %Creset&#39; --abbrev-commit --` |  `git config --global alias.lg &quot;log --color --graph --pretty=format:&#39;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C （蓝色粗体）&lt;%an&gt;%Creset&#39; --abbrev-commit --&quot;` |
+ |  `git 清理` |  `git branch --merged \|  grep -v &#39;*&#39; \|  xargs git 分支-d` |  `git config --global alias.cleanup &quot;!git branch --merged \| grep -v &#39;*&#39; \| xargs git branch -d&quot;` |
+ |  `git 遥控器` |  `git remote -v` |  `git config --global alias.remotes &#39;remote -v&#39;` |
+ |  `git lg` |  `git log --color --graph --pretty=format:&#39;%Cred%h%Creset -%C(黄色)%d%Creset %s %Cgreen(%cr) %C(粗蓝色)&lt;%an&gt; %Creset&#39; --abbrev-commit --` |  `git config --global alias.lg &quot;log --color --graph --pretty=format:&#39;%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C （粗体蓝色）&lt;%an&gt;%Creset&#39; --abbrev-commit --&quot;` |
 
 *一些别名取自 [@mathiasbynens](https://github.com/mathiasbynens) 点文件：https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig*
 
 #### Auto-Correct
- Git 为拼写错误的命令提供建议，如果启用了自动更正，则可以自动修复和执行命令. 通过指定一个整数来启用自动更正，该整数是 git 运行更正命令之前的十分之一秒的延迟. 零是不进行更正的默认值，负值将无延迟地运行更正的命令.
+ Git 为拼写错误的命令提供建议，如果启用了自动更正，则可以自动修复和执行命令. 通过指定一个整数来启用自动更正，该整数是 git 运行更正命令之前的十分之一秒的延迟. 零是不进行更正的默认值，负值将立即运行更正的命令.
 
-例如，如果你输入 `git commit` 你会得到：
+例如，如果你输入 `git comit` 你会得到这个：
 
 ```bash
-$ git commit -m &quot;消息&quot;
+$ git comit -m “消息”
 ## git: 'comit' is not a git command. See 'git --help'.
 
 ## Did you mean this?
@@ -941,10 +940,10 @@ $ git commit -m &quot;消息&quot;
 $ git config --global help.autocorrect 15
 ```
 
-所以现在命令 `git commit` 将被自动更正为 `git commit`，如下所示：
+所以现在命令 `git comit` 将自动更正为 `git commit`，如下所示：
 
 ```bash
-$ git commit -m &quot;消息&quot;
+$ git comit -m “消息”
 ## WARNING: You called a Git command named 'comit', which does not exist.
 ## Continuing under the assumption that you meant 'commit'
 ## in 1.5 seconds automatically...
@@ -953,7 +952,7 @@ $ git commit -m &quot;消息&quot;
 git 重新运行命令之前的延迟是为了让用户有时间中止.
 
 #### Color
-为 Git 输出添加更多颜色：
+要为 Git 输出添加更多颜色：
 
 ```bash
 $ git config --global color.ui 1
@@ -964,31 +963,31 @@ $ git config --global color.ui 1
 ### Git Resources
  | 标题 | 链接 |
 | ----- | ---- |
- | 官方 Git 网站 |  http://git-scm.com/ |
+ |  Git 官方网站 |  http://git-scm.com/ |
  | 官方 Git 视频教程 |  http://git-scm.com/videos |
  | 代码学校尝试 Git |  http://try.github.com/ |
  |  Git 入门参考和教程 |  http://gitref.org/ |
- | 官方 Git 教程 |  http://git-scm.com/docs/gittutorial |
+ |  Git 官方教程 |  http://git-scm.com/docs/gittutorial |
  | 日常 Git |  http://git-scm.com/docs/everyday |
  |  Git 沉浸 |  http://gitimmersion.com/ |
- |  Git 上帝 |  https://github.com/gorosgobe/git-god |
- | 计算机科学家的 Git |  http://eagain.net/articles/git-for-computer-scientists/ |
+ |  Git 神 |  https://github.com/gorosgobe/git-god |
+| Git for Computer Scientists | http://eagain.net/articles/git-for-computer-scientists/ |
  |  Git 魔法 |  http://www-cs-students.stanford.edu/~blynn/gitmagic/ |
 | Git Visualization Playground | http://onlywei.github.io/explain-git-with-d3/#freeplay |
  | 学习 Git 分支 |  http://pcottle.github.io/learnGitBranching/ |
- | 有用的.gitignore 模板集合 |  https://github.com/github/gitignore |
- |  Unixorn 的 git-extra-commands git 脚本合集 |  https://github.com/unixorn/git-extra-commands |
+ | 一组有用的 .gitignore 模板 |  https://github.com/github/gitignore |
+ |  Unixorn 的 git 脚本的 git-extra-commands 集合 |  https://github.com/unixorn/git-extra-commands |
 
 #### Git Books
  | 标题 | 链接 |
 | ----- | ---- |
- | 使用 Git 进行实用的版本控制 |  https://pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
- | 专业 Git |  http://git-scm.com/book |
- |  Git 内部结构 PluralSight |  https://github.com/pluralsight/git-internals-pdf |
- | 战壕里的 Git |  http://cbx33.github.io/gitt/ |
+ | 使用 Git 的实用版本控制 |  https://pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
+ | 对于 Git |  http://git-scm.com/book |
+ |  Git 内幕 https://github.com/pluralsight/git-internals-pdf |
+ | 战壕中的 Git |  http://cbx33.github.io/gitt/ |
  | 使用 Git 进行版本控制 |  http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
  |  Git 实用指南 |  https://pragprog.com/titles/pg_git/pragmatic-guide-to-git |
- |  Git：所有人的版本控制|  https://www.packtpub.com/application-development/git-version-control-everyone |
+ |  Git：每个人的版本控制 |  https://www.packtpub.com/application-development/git-version-control-everyone |
 
 #### Git Videos
  | 标题 | 链接 |
@@ -996,11 +995,11 @@ $ git config --global color.ui 1
  |  Git 上的 Linus Torvalds |  https://www.youtube.com/watch?v=4XpnKHJAok8 |
  | 与 Scott Chacon 一起介绍 Git |  https://www.youtube.com/watch?v=ZDR433b0HJY |
  |  Git 从零开始 |  https://www.youtube.com/watch?v=MYP56QJpDr4 |
- | 图表、哈希和压缩，哦，天哪！  |  https://www.youtube.com/watch?v=ig5E8CcdM9g |
+ | 图、散列和压缩，天哪！  |  https://www.youtube.com/watch?v=ig5E8CcdM9g |
  |  GitHub 培训和指南 |  https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&amp;v=FyfwLX4HAxM |
 
 #### Git Articles
  | 标题 | 链接 |
 | ----- | ---- |
-| GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
+ |  GitHub 流程 |  http://scottchacon.com/2011/08/31/github-flow.html |
  | 迁移到 Git 大文件存储 (Git LFS) |  http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/ |

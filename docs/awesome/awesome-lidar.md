@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="szenergy/awesome-lidar"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome LIDAR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/szenergy/awesome-lidar/master/img/lidar.svg?sanitize=true" align="right" width="100">
@@ -53,7 +52,7 @@
   - [YouTube channel :red_circle:](https://www.youtube.com/c/QuanergySystems)
 - [Cepton](https://www.cepton.com/index.html)  - 思普顿（Cepton Technologies, Inc.）/无摩擦和无反光镜设计的先驱，自主研发的MMT（微动技术）激光雷达技术. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCUgkBZZ1UWWkkXJ5zD6o8QQ)
-- [Blickfeld](https://www.blickfeld.com/) - Blickfeld is a solid-state LIDAR manufacturer for autonomous mobility and IoT, based in München, Germany.
+- [Blickfeld](https://www.blickfeld.com/) - Blickfeld 是一家用于自主移动和物联网的固态激光雷达制造商，总部位于德国慕尼黑.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/BlickfeldLiDAR)
   - [GitHub organization :octocat:](https://github.com/Blickfeld)
 - [Neuvition](https://www.neuvition.com/) - Neuvition 是一家位于中国吴江的固态激光雷达制造商.
@@ -95,13 +94,13 @@
 - [Argoverse :octocat:](https://www.argoverse.org/) - 旨在支持自动驾驶车辆感知任务的数据集，包括在美国宾夕法尼亚州匹兹堡和佛罗里达州迈阿密收集的 3D 跟踪和运动预测.
   - [Paper :newspaper:](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=DM8jWfi69zM)
-- [Boreas Dataset](https://www.boreas.utias.utoronto.ca/)  - Boreas 数据集是通过在 1 年的过程中重复行驶导致明显的季节性变化的路线收集的.  Boreas 总共包含超过 350 公里的驾驶数据，其中包括雨和大雪等恶劣天气条件下的几个序列.  Boreas 数据采集平台具有独特的高质量传感器套件，包括 128 通道 Velodyne Alpha Prime 激光雷达、360 度 Navtech 雷达，以及从 Applanix POSLV GPS/IMU 获得的准确地面实况姿态. 
+- [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU. 
   - [Paper 📰](https://arxiv.org/abs/2203.10168)
   - [GitHub repository :octocat:](https://github.com/utiasASRL/pyboreas)
 
 ## Libraries
 
-- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
+- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - 流行的高度并行编程库，具有大量工业和研究用例. 
   - [GitHub repository :octocat:](https://github.com/PointCloudLibrary/pcl)
 - [Open3D library](http://www.open3d.org/docs/release/)  - Open3D 库包含 3D 数据处理和可视化算法. 它是开源的，同时支持 C++ 和 Python.
   - [GitHub repository :octocat:](https://github.com/intel-isl/Open3D)
@@ -253,7 +252,7 @@
 ## Others
 - [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit)  - 使用 5 美元的 Google Cardboard 复制 Microsoft Hololens. 托管用于研究的源代码 [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - 一种将空中激光雷达扫描的点云数据转换为实体网格以进行 3D 打印的工具.
-- [CloudCompare](https://cloudcompare.org/) - CloudCompare 是一款免费的跨平台点云编辑器软件.
+- [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
   - [GitHub repository :octocat:](https://github.com/CloudCompare)
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) - Unity 的点云导入器/渲染器.
 - [Bpy :octocat:](https://github.com/uhlik/bpy) - 用于 Blender、点云可视化工具的点云导入器/渲染器/编辑器.

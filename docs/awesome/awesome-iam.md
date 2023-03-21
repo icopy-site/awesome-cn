@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="kdeldycke/awesome-iam"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable awesome-heading-->
 
 <p align="center">
@@ -65,7 +64,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [As a user, I want…](https://mobile.twitter.com/oktopushup/status/1030457418206068736) - 客户管理的元评论家，其中业务预期的功能与真实用户需求发生冲突，以虚构项目经理编写的用户故事的形式出现.
 
-- [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/) - In the same spirit as above, but broader: all the little things we overlook as developers but users really care about. In the top of that list lies account-centric features, diverse integration and import/export tools. I.e. all the enterprise customers needs to cover.
+- [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)  - 本着与上述相同的精神，但更广泛：我们作为开发人员忽略但用户真正关心的所有小事情. 在该列表的顶部是以帐户为中心的功能、多样化的集成和导入/导出工具. 即所有企业客户需要覆盖.
 
 - [Separate the account, user and login/auth details](https://news.ycombinator.com/item?id=21151830) - 为面向未来的 IAM API 奠定基础的合理建议.
 
@@ -131,7 +130,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Password-based
 
-- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性准则.
+- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性指南.
 
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - 减缓离线攻击的唯一方法是仔细选择尽可能占用资源的哈希算法.
 
@@ -155,7 +154,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/)  - 密码不是用户身份验证的全部和最终结果. 这篇文章试图告诉你为什么.
 
-- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - What are magic links, their origin, pros and cons.
+- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - 什么是魔法链接，它们的来源、优点和缺点.
 
 - [WebAuthn guide](https://webauthn.guide) - 一个非常容易理解的 WebAuthn 指南，一个标准允许“服务器使用公钥加密而不是密码来注册和验证用户”，所有主要浏览器都支持.
 
@@ -179,7 +178,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Beyond Passwords: 2FA, U2F and Google Advanced Protection](https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/) - 全面了解所有这些技术.
 
-- [A Comparative Long-Term Study of Fallback Authentication](https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf)  - 要点：“基于电子邮件和短信的方案更有用. 另一方面，基于指定受托人和个人知识问题的机制在便利性和效率方面都存在不足.”
+- [A Comparative Long-Term Study of Fallback Authentication](https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
 
 - [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)  - “我们的分析证实，秘密问题通常提供的安全级别远低于用户选择的密码.  (...) 令人惊讶的是，我们发现造成这种不安全感的一个重要原因是用户通常不会如实回答.  (...) 在可用性方面，我们表明秘密答案的记忆力出奇地差”.
 
@@ -299,7 +298,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Keycloak](https://www.keycloak.org)  - 开源身份和访问管理. 支持 OIDC、OAuth 2 和 SAML 2、LDAP 和 AD 目录、密码策略.
 
-- [Casdoor](https://github.com/casbin/casdoor)  - 基于 UI 优先的集中式身份验证/单点登录 (SSO) 平台. 支持 OIDC 和 OAuth 2、社交登录、用户管理、基于电子邮件和短信的 2FA.
+- [Casdoor](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 - [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - 用于 ASP.NET Core 的免费开源 OpenID Connect 和 OAuth 2.0 框架.
 
@@ -315,7 +314,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 安全断言标记语言 (SAML) 2.0 是一种在服务之间交换授权和身份验证的方法，例如上面的 OAuth/OpenID 协议.
 
-Typical SAML identity provider is an institution or a big corporation's internal SSO, while the typical OIDC/OAuth provider is a tech company that runs a data silo.
+典型的 SAML 身份提供商是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供商是运行数据孤岛的科技公司.
 
 - [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/)  - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场. 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室.”
 
@@ -369,7 +368,7 @@ Typical SAML identity provider is an institution or a big corporation's internal
 
 如果您希望推出自己的政策实施，请收集开源项目.
 
-- [Keto](https://github.com/ory/keto)  - 政策决策点. 它使用一组访问控制策略，类似于 AWS 策略，以确定主体是否有权对资源执行特定操作.
+- [Keto](https://github.com/ory/keto) - Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.
 
 - [Ladon](https://github.com/ory/ladon) - 受 AWS 启发的访问控制库.
 
@@ -445,7 +444,7 @@ Typical SAML identity provider is an institution or a big corporation's internal
 
 HSM是在硬件层面保证秘密管理安全的物理设备.
 
-- [HSM: What they are and why it's likely that you've (indirectly) used one today](https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - Really basic overview of HSM usages.
+- [HSM: What they are and why it's likely that you've (indirectly) used one today](https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - HSM 用法的真正基本概述.
 
 - [Tidbits on AWS Cloud HSM hardware](https://news.ycombinator.com/item?id=16759383) - AWS CloudHSM Classic 由 SafeNet 的 Luna HSM 提供支持，当前的 CloudHSM 依赖于 Cavium 的 Nitrox，它允许分区的“虚拟 HSM”.
 
@@ -453,7 +452,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Keystone](https://keystone-enclave.org) - 用于基于 RISC-V 架构构建具有安全硬件飞地的可信执行环境 (TEE) 的开源项目.
 
-- [Project Oak](https://github.com/project-oak/oak) - 数据安全传输、存储和处理的规范和参考实施.
+- [Project Oak](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
 
 - [Everybody be cool, this is a robbery!](https://www.sstic.org/2019/presentation/hsm/) - HSM 漏洞和可利用性的案例研究（法语，抱歉）.
 
@@ -535,7 +534,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [SecLists](https://github.com/danielmiessler/SecLists)  - 收集安全评估中使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、模糊测试负载、Web shell 等等.
 
-- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - 威胁行为者在网络钓鱼工具包中使用的电子邮件地址的 CSV 数据库.
+- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
 
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)  - 仅使用免费资源扫描电话号码的工具. 目标是首先以非常准确的方式收集任何国际电话号码的标准信息，例如国家、地区、运营商和线路类型. 然后在搜索引擎上搜索足迹以尝试找到 VoIP 提供商或确定所有者.
 
@@ -601,7 +600,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 ### Reserved IDs
 
-- [General List of Reserved Words](https://gist.github.com/stuartpb/5710271) - 这是您可能要考虑保留的一般单词列表，在用户可以选择任何名称的系统中.
+- [General List of Reserved Words](https://gist.github.com/stuartpb/5710271) - This is a general list of words you may want to consider reserving, in a system where users can pick any name.
 
 - [Hostnames and usernames to reserve](https://ldpreload.com/blog/names-to-reserve) - 应限制在自动化系统中注册的所有名称的列表.
 
@@ -623,9 +622,9 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Have I been Pwned?](https://haveibeenpwned.com) - 数据泄露指数.
 
-- [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf) - Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.
+- [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf)  - 第三方依赖项中的已知漏洞允许大多数隐私泄露. 下面介绍如何通过 CI/CD 的方式检测它们.
 
-- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) - 随着世界变得越来越紧密，电子邮件营销监管格局变得越来越复杂.
+- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
 
 - [World's Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - 不要成为下一个泄露客户数据的公司.
 
@@ -705,7 +704,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws)  - 帮助理解他们庞大的服务目录. 本着同样的精神： [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - 用不超过 4 个词描述所有 GCP 产品.
 
 ## History
 

@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="godotengine/awesome-godot"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Godot Engine logo](https://raw.githubusercontent.com/godotengine/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-精选清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) Godot 的游戏、插件、附加组件和脚本.
+精选清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
 
 在 Godot 中寻找第三方编程语言支持？
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
@@ -65,7 +64,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Boom](https://github.com/FelicePollano/Boom) - 一个非常简单、老式的 FPS，正在开发中但可以玩.
 - [Broken Seals](https://github.com/Relintai/broken_seals) - 正在进行中的第三人称动作角色扮演游戏，支持多人游戏（需要自定义引擎模块）.
-- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
+- [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - 一款免费/开源的派对游戏，旨在复制马里奥派对等游戏的感觉.
 - [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - 体素艺术中的免费回合制等距策略游戏.
 - [Thrive](https://github.com/Revolutionary-Games/Thrive/) - 关于生命进化的免费开源游戏 (Mono).
 
@@ -85,9 +84,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 *使用 Godot（工具/实用程序）制作的非游戏开源项目.*
 
+#### Godot 4.0
+
+- [Clipboard Narrator](https://github.com/lesleyrs/clipboard-narrator) - 将任何网页变成有声读物，在桌面后台运行！
+
 #### Godot 3.5+
 
- - [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - 用于生成 2x2 和 3x3 自动图块集的工具，无论大小和颜色如何.
+- [GATT - Godot Autotile Texture Templater](https://github.com/sesopenko/gatt) - 用于生成 2x2 和 3x3 自动图块集的工具，无论大小和颜色如何.
 
 #### Godot 3.2+
 
@@ -120,7 +123,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3.1
 
-- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate)  - 包含所有必要内容的模板. 专为像素艺术游戏而设计.
 
 ## Demos
 
@@ -191,7 +194,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster Software 的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 中的编码体验提升 1000 倍（Godot 3.x）.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 在一行代码（Godot 3.x，4.0.alpha）中进行漂亮且可定制的场景转换.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 滚动背景节点 (Godot 2.1,3.x).
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏 (Godot 3.x).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - 对话和交互式小说引擎 (Godot 3.x).
@@ -215,7 +218,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDGotm](https://github.com/PlayGotm/GDGotm/tree/master/gotm) - GDScript API 用于 [gotm.io](https://gotm.io/).
 - [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用 libccd 在 Godot 中进行快速 3D 碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) - 绕行/绕行人群库的 GDNative 实现.
-- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持而无需重新编译引擎（与像 godotcord 这样的自定义引擎模块相反）.
+- [GodotDiscordSDK](https://github.com/LennyPhoenix/GodotDiscordSDK) - 用于 Discord 游戏 SDK 的 GDNative 包装器，在 GDScript 中添加对其功能的支持，而无需重新编译引擎（与像 godotcord 之类的自定义引擎模块相反）.
 - [Godot GamePad](https://github.com/ACB-prgm/Godot_GamePad) - 允许玩家使用他们的移动设备作为控制器.
 - [Godot Gif Getter](https://github.com/you-win/godot-gif-getter) - 用于录制和保存 GIF 的游戏内实用程序（用 GDNative Rust 编写）.
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink)，一种用于编写交互式叙事的脚本语言.
@@ -304,7 +307,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot-Slicer](https://github.com/cj-dimaggio/godot-slicer) - 一个端口 [Ezy-Slicer](https://github.com/DavidArayan/ezy-slice) 为了戈多.
 - [Goost](https://github.com/goostengine/goost) - 通用、可扩展和可定制的扩展.
 - [PortAudio](https://github.com/sebastian-heinz/portaudio) - 使用包装方法和 Godot 友好类型 [PortAudio](http://www.portaudio.com).
-- [Speech to Text](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
+- [Speech to Text](https://github.com/menip/godot_speech_to_text) - 捕获用户的麦克风输入并将其转换为文本.
 - [spout-gd](https://github.com/you-win/spout-gd) - 通过您的 GPU 使用跨 Windows 应用程序共享 OpenGL 纹理 [Spout](https://github.com/leadedge/Spout2).
 
 #### Godot 3.1
@@ -317,7 +320,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - 在 Godot 中使用本机对话框.
-- [RawPacker](https://github.com/empyreanx/rawpacker) - RawArray 的简单二进制打包/解包.
+- [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) 动画支持模块.
 - [WaterSplash 2D node](https://github.com/laverneth/water)
 

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="jtoy/awesome-tensorflow"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
 精选的 TensorFlow 实验、库和项目列表. 受 awesome-machine-learning 的启发.
@@ -63,7 +62,7 @@
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) - 实施 ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
 * [Seq2seq-Chatbot](https://github.com/tensorlayer/seq2seq-chatbot) - 200 行代码的聊天机器人
 * [DCGAN](https://github.com/tensorlayer/dcgan) - 深度卷积生成对抗网络
-* [GAN-CLS](https://github.com/zsdonghao/text-to-image) -Generative Adversarial Text to Image Synthesis
+* [GAN-CLS](https://github.com/zsdonghao/text-to-image) -生成对抗文本到图像合成
 * [im2im](https://github.com/zsdonghao/Unsup-Im2Im) - 使用生成对抗网络进行无监督图像到图像的翻译
 * [Improved CycleGAN](https://github.com/luoxier/CycleGAN_Tensorlayer) - 不成对的图像到图像的翻译
 * [DAGAN](https://github.com/nebulaV/DAGAN) - 快速压缩传感 MRI 重建
@@ -142,7 +141,7 @@
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - 在 TensorFlow 之上的层，用于对加密数据进行机器学习
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - 将 PyTorch 模型转换为 Keras（带有 TensorFlow 后端）格式
 * [gluon2keras](https://github.com/stjordanis/gluon2keras) - 将 Gluon 模型转换为 Keras（带有 TensorFlow 后端）格式
-* [TensorIO](https://doc-ai.github.io/tensorio/) - 用于将 TensorFlow Lite 模型部署到移动设备的轻量级跨平台库. 
+* [TensorIO](https://doc-ai.github.io/tensorio/) - Lightweight, cross-platform library for deploying TensorFlow Lite models to mobile devices. 
 * [StellarGraph](https://github.com/stellargraph/stellargraph) - 图上的机器学习，一个用于图结构（网络结构）数据机器学习的 Python 库.
 * [DeepBay](https://github.com/ElPapi42/DeepBay) - 用于实施通用架构堆栈的高级 Keras 补充，用作易于使用的即插即用模块
 * [Tensorflow-Probability](https://www.tensorflow.org/probability) - 基于 TensorFlow 的概率编程，可以轻松地将概率模型与现代硬件上的深度学习相结合.
@@ -170,7 +169,7 @@
 * [Videos from TensorFlow Silicon Valley Meet Up 1/19/2016](http://blog.altoros.com/videos-from-tensorflow-silicon-valley-meetup-january-19-2016.html)
 * [Videos from TensorFlow Silicon Valley Meet Up 1/21/2016](http://blog.altoros.com/videos-from-tensorflow-seattle-meetup-jan-21-2016.html)
 * [Stanford CS224d Lecture 7 - Introduction to TensorFlow, 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s&index=7&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam) - Richard Socher 的 CS224d 自然语言处理深度学习
-* [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 俄勒冈州波特兰， [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) 作者：朱莉娅·费拉奥利、艾米·安鲁、伊莱·比克斯比
+* [Diving into Machine Learning through TensorFlow](https://youtu.be/GZBIPwdGtkk?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W) - Pycon 2016 俄勒冈州波特兰， [Slide](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) & [Code](https://github.com/amygdala/tensorflow-workshop) 通过 Julia Ferraioli, Amy Unruh, Eli Bixby
 * [Large Scale Deep Learning with TensorFlow](https://youtu.be/XYwIDn00PAo) - Jeff Dean 在 2016 年 Spark 峰会上的主题演讲
 * [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) - 马丁戈纳
 * [Tensorflow and deep learning - without at PhD, Part 2 (Google Cloud Next '17)](https://www.youtube.com/watch?v=fTUwdXUFfI8) - 马丁戈纳
@@ -185,18 +184,18 @@
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - 本文描述了 TensorFlow 接口以及我们在 Google 构建的该接口的实现
 * [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
-* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - 这项研究是在几种类型的深度学习架构上进行的，我们评估了上述框架在一台机器上用于（多线程）CPU 和 GPU (Nvidia Titan X) 设置时的性能
+* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - 这项研究是在几种类型的深度学习架构上进行的，我们评估了上述框架在单台机器上用于（多线程）CPU 和 GPU (Nvidia Titan X) 设置时的性能
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - 在本文中，我们扩展了最近提出的 Google TensorFlow，以使用消息传递接口 (MPI) 在大规模集群上执行
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - 本文描述了背后的模型 [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - 本文描述了 TensorFlow 数据流模型与现有系统的对比，并展示了令人信服的性能
-* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551)  - 本文描述了一个多功能的 Python 库，旨在帮助研究人员和工程师有效地开发深度学习系统.  （ACM MM 2017 最佳开源软件奖获得者）
+* [TensorLayer: A Versatile Library for Efficient Deep Learning Development](https://arxiv.org/abs/1707.08551) - This paper describes a versatile Python library that aims at helping researchers and engineers efficiently develop deep learning systems. (Winner of The Best Open Source Software Award of ACM MM 2017)
 
 <a name="blogs" />
 
 ## Official announcements
 
 * [TensorFlow: smarter machine learning, for everyone](https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html) - TensorFlow 简介
-* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - Release of SyntaxNet, "an open-source neural network framework implemented in TensorFlow that provides a foundation for Natural Language Understanding systems.
+* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.com/2016/05/announcing-syntaxnet-worlds-most.html) - 发布 SyntaxNet，“一种在 TensorFlow 中实现的开源神经网络框架，为自然语言理解系统提供了基础.
 
 ## Blog posts
 * [Official Tensorflow Blog](http://blog.tensorflow.org/)

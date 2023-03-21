@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ucg8j/awesome-dash"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dash  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" align="right" width="250">](https://plot.ly/products/dash/)
@@ -18,13 +17,13 @@
 - [Plotly's tutorials - Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
 - [Plotly's tutorials - Part 4: Callbacks With State](https://plot.ly/dash/state)
 - [Charming Data YouTube channel](https://www.youtube.com/charmingdata) - 一个专门用于教授 Dash 和 Plotly 的频道，拥有超过 25,000 名订阅者.
-- [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
+- [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - MVC 模型如何与 Dash 相关以及构建应用程序的演练.
 - [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb) - 逐步构建复杂的仪表板.
 - [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - 如何将 Jupyter notebooks 与 Dash 结合使用来创建映射即.
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - 关于如何开始使用 Dash 的高级概述.
 - [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-1/) - 构建大脚怪目击仪表板的演练. [Part 2](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-2), [Part 3](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-3/).
 - [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - 对 Dash 替代品的环境扫描，然后是教程.
-- [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - 详细介绍创建交互式仪表板.
+- [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - Detailed introduction to creating interactive dashboards.
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - 探索 Dash 功能的五部分系列.
 - [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - 官方介绍视频.
 - [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - 关于如何使用 Dash Component Boilerplate cookiecutter 模板将 React 组件转换为 Dash 组件的官方教程.

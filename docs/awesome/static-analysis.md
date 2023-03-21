@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="analysis-tools-dev/static-analysis"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--  DON'T EDIT THIS FILE DIRECTLY. Edit `data/tools.yml` instead.  -->
 
  <a href="https://analysis-tools.dev/">
@@ -56,7 +55,7 @@
 
 - [abaplint](https://abaplint.org) — 用于 ABAP 的 Linter，用 TypeScript 编写.
 
-- [abapOpenChecks](https://docs.abapopenchecks.org) — 通过新的和可定制的检查增强了 SAP 代码检查器.
+- [abapOpenChecks](https://docs.abapopenchecks.org) — Enhances the SAP Code Inspector with new and customizable checks.
 
 
 <h2 id="ada">有</h2>
@@ -650,7 +649,7 @@
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -672,7 +671,7 @@
 
 - [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) — 根据语义版本控制建议下一个版本.
 
-- [PHP-Parser](https://github.com/nikic/PHP-Parser) — 用 PHP 编写的 PHP 解析器.
+- [PHP-Parser](https://github.com/nikic/PHP-Parser) — A PHP parser written in PHP.
 
 - [php-speller](https://github.com/mekras/php-speller) — PHP 拼写检查库.
 
@@ -787,7 +786,7 @@
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -1180,7 +1179,7 @@
 
 - [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — 用于检查 C/C++ 代码的 Github 操作，集成了 clang-tidy 和 clang-format 以收集以线程评论和/或注释的形式提供的反馈.
 
-- [cqc](https://github.com/xcatliu/cqc) — Check your code quality for js, jsx, vue, css, less, scss, sass and styl files.
+- [cqc](https://github.com/xcatliu/cqc) — 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
 
 - [DeepCode](https://www.deepcode.ai) :copyright: — DeepCode 被 Snyk 收购，现在是 Snyk Code.
 
@@ -1256,7 +1255,7 @@
 
 - [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、OWASP ASVS、MISRA、AUTOSAR 和 SEI CERT 编码标准.
 
-- [pylama](https://klen.github.io/pylama/) — Code audit tool for Python and JavaScript. Wraps pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, and more
+- [pylama](https://klen.github.io/pylama/)  — Python 和 JavaScript 的代码审计工具. 包装 pycodestyle、pydocstyle、PyFlakes、Mccabe、Pylint 等
 
 - [Qwiet AI](https://qwiet.ai/)  :copyright: — 在您的代码库进入生产环境之前识别它们所特有的漏洞. 利用代码属性图 (CPG) 在单个图形图中同时运行其分析. 自动发现开发中的业务逻辑缺陷，如硬编码秘密和逻辑炸弹
 
@@ -1540,7 +1539,7 @@
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
 
 - [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
@@ -1638,7 +1637,7 @@
 
 - [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于 linting 和测试拉取请求. 它会自动检测针对目标分支更改的图表.
 
-- [clusterlint](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
+- [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行通用和平台特定的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入式工具.  Clusterlint 不会改变资源配置.
 
 - [Datree](https://datree.io/) — 通过确保清单和 Helm 图表遵循最佳实践以及您组织的政策来防止 Kubernetes 错误配置的 CLI 工具
 
@@ -1907,7 +1906,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  — VS Code 的 Vue 工具，由 vls（vue 语言服务器）提供支持.  Vetur 支持格式化嵌入式 HTML、CSS、SCSS、JS、TypeScript 等.  Vetur 只有一个“整个文档格式化程序”，不能格式化任意范围.
 
 
-<h2 id="wasm">网页组装</h2>
+<h2 id="wasm">Webassembly</h2>
 
 
 - [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.

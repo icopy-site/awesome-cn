@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="nschloe/awesome-scientific-computing"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -84,7 +83,7 @@ them.
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - 优质四面体网格生成器和 3D Delaunay 三角剖分器.
   （C++，AGPLv3）
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - 二维质量网格生成器和 Delaunay 三角剖分器.
-  (C, _nonfree software_)
+  （C，_非自由软件_）
 - [distmesh](http://persson.berkeley.edu/distmesh/) - 用于非结构化三角形和四面体网格的简单生成器.
   （MATLAB，GPL 3）
 - [trimesh](https://trimsh.org/) - 加载和使用三角形网格，重点是水密表面.
@@ -183,7 +182,7 @@ them.
   [GitHub](https://github.com/usnistgov/fipy))
 - [accupy](https://github.com/nschloe/accupy) - Python 的准确求和和点积.
   （Python、GPL 3、GitHub）
-- [SLEPc](https://slepc.upv.es) - 用于特征值问题计算的可扩展库.
+- [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/slepc/slepc))
 - [Chebfun](https://www.chebfun.org/) - 计算精度约为 15 位数字的函数.
   （MATLAB，BSD， [GitHub](https://github.com/chebfun/chebfun))

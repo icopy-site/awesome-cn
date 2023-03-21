@@ -1,6 +1,5 @@
 <div class="github-widget" data-repo="arslanbilal/git-cheat-sheet"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-Git 和 Git 流程备忘单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Git 和 Git Flow 备忘单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============
 <hr>
 <p align="center">
@@ -22,13 +21,13 @@ Git 和 Git 流程备忘单 [![Awesome](https://cdn.rawgit.com/sindresorhus/awes
 10. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/./other-sheets/git-cheat-sheet-tr.md)
 11. [Bengali Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/./other-sheets/git-cheat-sheet-bn.md)
 
-Git 备忘单让你不用背诵所有命令.
+Git 备忘单使您无需背诵所有命令.
 
-自由贡献，更新语法错误. 您也可以自由添加您的语言文件.
+可以自由贡献，更新语法错误. 您也可以自由添加您的语言文件.
 
 <hr>
 
-Git 备忘单
+Git 备忘单英文
 ===============
 ### Index
 
@@ -39,36 +38,36 @@ Git 备忘单
 
 ##### Show current configuration:
 ```
-$ git config --list
+$ git 配置 --list
 ```
 ##### Show repository configuration:
 ```
-$ git config --local --list
+$ git 配置 --local --list
 ```
 
 ##### Show global configuration:
 ```
-$ git config --global --list
+$ git 配置 --global --list
 ```
 
 ##### Show system configuration:
 ```
-$ git config --system --list
+$ git 配置 --system --list
 ```
 
 ##### Set a name that is identifiable for credit when review version history:
 ```
-$ git config --global user.name &quot;[firstname lastname]&quot;
+$ git config --global user.name &quot;[名字姓氏]&quot;
 ```
 
 ##### Set an email address that will be associated with each history marker:
 ```
-$ git config --global user.email &quot;[valid-email]&quot;
+$ git config --global user.email “[有效电子邮件]”
 ```
 
 ##### Set automatic command line coloring for Git for easy reviewing:
 ```
-$ git config --global color.ui 自动
+$ git config --global color.ui auto
 ```
 
 ##### Set global editor for commit
@@ -101,7 +100,7 @@ $ git config --global core.editor vi
 
 ##### Clone an existing repository:
 
-有两种方法：
+有两种方式：
 
 通过 SSH
 
@@ -117,12 +116,12 @@ $ git clone http://domain.com/user/repo.git
 
 ##### Create a new local repository in the current directory:
 ```
-$ git热
+$ git 热量
 ```
 
 ##### Create a new local repository in a specific directory:
 ```
-$ git热<directory>
+$ git 热量<directory>
 ```
 
 <hr>
@@ -131,17 +130,17 @@ $ git热<directory>
 
 ##### Changes in working directory:
 ```
-$ 混帐状态
+$ git 状态
 ```
 
 ##### Changes to tracked files:
 ```
-$混帐差异
+$ 比较差异
 ```
 
 ##### See changes/difference of a specific file:
 ```
-$混帐差异<file>
+$ 比较差异<file>
 ```
 
 ##### Add all current changes to the next commit:
@@ -151,37 +150,37 @@ $ 混帐添加.
 
 ##### Add some changes in &lt;file&gt; to the next commit:
 ```
-$ git添加-p<file>
+$ git 添加 -p<file>
 ```
 
 ##### Add only the mentioned files to the next commit:
 ```
-$ 混帐添加<filename1><filename2>
+$ 添加<filename1><filename2>
 ```
 
 ##### Commit all local changes in tracked files:
 ```
-$ git commit -a
+$ git 提交 -a
 ```
 
 ##### Commit previously staged changes:
 ```
-$ git提交
+$ git 提交
 ```
 
 ##### Commit with message:
 ```
-$ git commit -m &#39;这里的信息&#39;
+$ git commit -m &#39;这里的消息&#39;
 ```
 
 ##### Commit skipping the staging area and adding message:
 ```
-$ git commit -am &#39;这里的信息&#39;
+$ git commit -am &#39;这里的消息&#39;
 ```
 
 ##### Commit to some previous date:
 ```
- $ git commit --date=&quot;`date --date=&#39;n 天前&#39;`&quot; -am&quot;<Commit Message Here>  &quot;
+ $ git commit --date=&quot;`date --date=&#39;n 天前&#39;`&quot; -am &quot;<Commit Message Here>  “
 ```
 
 ##### Change last commit:<br>
@@ -210,18 +209,18 @@ $ git commit --amend --date=&quot;日期&quot;
 
 ##### Move uncommitted changes from current branch to some other branch:<br>
 ```
-$ git藏匿
-$ git checkout 分支2
-$ git stash pop
+$ git 存储
+$ git checkout 分支 2
+$ git 存储弹出
 ```
 
 ##### Restore stashed changes back to current branch:
 ```shell
-$ git stash 适用
+$ git 存储应用
 ```
 
 #### Restore particular stash back to current branch:
-- *{stash_number}* 可以从 `git stash list` 获得
+- *{stash_number}* 可以从`git stash list`获得
 
 ```shell
 $ git stash apply stash@{stash_number}
@@ -229,7 +228,7 @@ $ git stash apply stash@{stash_number}
 
 ##### Remove the last set of stashed changes:
 ```
-$ git stash drop
+$ git 藏起来
 ```
 
 <hr>
@@ -238,12 +237,12 @@ $ git stash drop
 
 ##### A text search on all files in the directory:
 ```
-$ git grep &quot;你好&quot;
+$ git grep “你好”
 ```
 
 ##### In any version of a text search:
 ```
-$ git grep &quot;你好&quot; v2.5
+$ git grep “你好” v2.5
 ```
 
 ##### Show commits that introduced a specific keyword
@@ -262,12 +261,12 @@ $ git log -S &#39;关键字&#39; --pickaxe-regex
 
 ##### Show all commits, starting with newest (it'll show the hash, author information, date of commit and title of the commit):
 ```
-$ 混帐日志
+$ git 日志
 ```
 
 ##### Show all the commits(it'll show just the commit hash and the commit message):
 ```
-$ git log --oneline
+$ git 日志 --oneline
 ```
 
 ##### Show all commits of a specific user:
@@ -277,17 +276,17 @@ $ git log --author=&quot;用户名&quot;
 
 ##### Show changes over time for a specific file:
 ```
-$ 混帐日志 -p<file>
+$ git 日志 -p<file>
 ```
 
 ##### Display commits that are present only in remote/branch in right side
 ```
- $ git log --oneline<origin/master>  ..<remote/master>  - 左右
+ $ git 日志 --oneline<origin/master>  ..<remote/master>  - 左右
 ```
 
 ##### Who changed, what and when in &lt;file&gt;:
 ```
-$ 混帐责备<file>
+$ git 责备<file>
 ```
 
 ##### Show Reference log:
@@ -308,7 +307,7 @@ $ git reflog 删除
 将 Index.txt 重命名为 Index.html
 
 ```
-$ git mv Index.txt Index.html
+$ git mv 索引.txt 索引.html
 ```
 
 <hr>
@@ -317,7 +316,7 @@ $ git mv Index.txt Index.html
 
 ##### List all local branches:
 ```
-$ git 分支
+$ 分支
 ```
 
 #### List local/remote branches
@@ -332,39 +331,39 @@ $ git 分支 -r
 
 ##### Switch HEAD branch:
 ```
-$ git结帐<branch>
+$ 结帐<branch>
 ```
 
 ##### Checkout single file from different branch
 ```
- $ git结帐<branch> --<filename>
+ $ 结帐<branch> --<filename>
 ```
 
 ##### Create and switch new branch:
 ```
-$ git结帐-b<branch>
+$ 结帐-b<branch>
 ```
 
 ##### Switch to the previous branch, without saying the name explicitly:
 ```
-$ git结帐-
+$ 结帐 -
 ```
 
 ##### Create a new branch from an exiting branch and switch to new branch:
 ```
-$ git结帐-b<new_branch><existing_branch>
+$ 结帐-b<new_branch><existing_branch>
 ```
 
 
 #### Checkout and create a new branch from existing commit
 ```
- $ git结帐<commit-hash> -b<new_branch_name>
+ $ 结帐<commit-hash> -b<new_branch_name>
 ```
 
 
 ##### Create a new branch based on your current HEAD:
 ```
-$ git 分支<new-branch>
+$ 分支<new-branch>
 ```
 
 ##### Create a new tracking branch based on a remote branch:
@@ -390,32 +389,32 @@ $ git 分支 -D<branch>
 ```
 ##### Apply specific commit from another branch:
 ```
-git 樱桃采摘<commit hash>
+git 樱桃挑选<commit hash>
 ```
 
 ##### Mark `HEAD` with a tag:
 ```
-$ git标签<tag-name>
+$ git 标签<tag-name>
 ```
 
 ##### Mark `HEAD` with a tag and open the editor to include a message:
 ```
-$ git标签-a<tag-name>
+$ git 标签 -a<tag-name>
 ```
 
 ##### Mark `HEAD` with a tag that includes a message:
 ```
- $ git标签<tag-name> -am &#39;在这里留言&#39;
+ $ git 标签<tag-name> -am &#39;消息在这里&#39;
 ```
 
 ##### List all tags:
 ```
-$ git标签
+$ git 标签
 ```
 
 ##### List all tags with their messages (tag message or commit message if tag has no message):
 ```
-$ git标签-n
+$ git 标签 -n
 ```
 
 <hr>
@@ -424,7 +423,7 @@ $ git标签-n
 
 ##### List all current configured remotes:
 ```
-$ git远程-v
+$ git 远程 -v
 ```
 
 ##### Show information about a remote:
@@ -434,20 +433,20 @@ $ git 远程显示<remote>
 
 ##### Add new remote repository, named &lt;remote&gt;:
 ```
-$ git远程添加<remote><url>
+$ git 远程添加<remote><url>
 ```
 
 ##### Rename a remote repository, from &lt;remote&gt; to &lt;new_remote&gt;:
 ```
-$ git远程重命名<remote><new_remote>
+$ git 远程重命名<remote><new_remote>
 ```
 
 ##### Remove a remote:
 ```
-$ git远程rm<remote>
+$ git 远程 rm<remote>
 ```
 
-<em><sub>注意： git remote rm 不会从服务器中删除远程存储库.</sub></em> <em><sub>它只是从本地存储库中删除远程及其引用.</sub></em>
+<em><sub>注意：git remote rm 不会从服务器上删除远程仓库.</sub></em> <em><sub>它只是从本地存储库中删除远程及其引用.</sub></em>
 
 ##### Download all changes from &lt;remote&gt;, but don't integrate into HEAD:
 ```
@@ -471,16 +470,16 @@ $ git pull --rebase<remote><branch>
 
 ##### Publish local changes on a remote:
 ```
-$ git推送<remote><branch>
+$ git 推送<remote><branch>
 ```
 
 ##### Delete a branch on the remote:
 ```
- $ git推送<remote> ：<branch>  （从 Git v1.5.0 开始）
+ $ git 推送<remote> :<branch>  （自 Git v1.5.0 起）
 ```
 OR
 ```
- $ git推送<remote> - 删除<branch> （从 Git v1.7.0 开始）
+ $ git 推送<remote> - 删除<branch> （自 Git v1.7.0 起）
 ```
 
 ##### Publish your tags:
@@ -491,12 +490,12 @@ $ git push --tags
 
 #### Configure the merge tool globally to meld (editor)
 ```bash
-$ git config --global merge.tool 融合
+$ git config --global merge.tool meld
 ```
 
 ##### Use your configured merge tool to solve conflicts:
 ```
-$ git 合并工具
+$ 合并工具
 ```
 
 ## Merge & Rebase
@@ -525,12 +524,12 @@ $ git rebase --abort
 
 ##### Continue a rebase after resolving conflicts:
 ```
-$ git rebase -- 继续
+$ git rebase --continue
 ```
 
 ##### Use your editor to manually solve conflicts and (after resolving) mark file as resolved:
 ```
-$ 混帐添加<resolved-file>
+$ 添加<resolved-file>
 ```
 
 ```
@@ -542,7 +541,7 @@ $ git rm<resolved-file>
 $ git rebase -i<commit-just-before-first>
 ```
 
-现在替换这个，
+现在更换这个，
 
 ```
 挑选<commit_id>
@@ -568,17 +567,17 @@ $ git reset --hard HEAD
 
 ##### Get all the files out of the staging area(i.e. undo the last `git add`):
 ```
-$ git重置头
+$ git 重置 HEAD
 ```
 
 ##### Discard local changes in a specific file:
 ```
-$ git checkout 头<file>
+$ git 结帐头<file>
 ```
 
 ##### Revert a commit (by producing a new commit with contrary changes):
 ```
-$ git 还原<commit>
+$ git 恢复<commit>
 ```
 
 ##### Reset your HEAD pointer to a previous commit and discard all changes since then:
@@ -588,7 +587,7 @@ $ git reset --hard<commit>
 
 ##### Reset your HEAD pointer to a remote branch current state.
 ```
- $ git reset --hard<remote/branch> 例如，upstream/master、origin/my-feature
+ $ git reset --hard<remote/branch> 例如，upstream/master，origin/my-feature
 ```
 
 ##### Reset your HEAD pointer to a previous commit and preserve all changes as unstaged changes:
@@ -598,7 +597,7 @@ $ git 重置<commit>
 
 ##### Reset your HEAD pointer to a previous commit and preserve uncommitted local changes:
 ```
-$ git reset --keep<commit>
+$ git 重置 --keep<commit>
 ```
 
 ##### Remove files that were accidentally committed before they were added to .gitignore
@@ -621,7 +620,7 @@ Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 ##### OSX Homebrew:
 ```
-$ brew install git-flow-avh
+$ brew 安装 git-flow-avh
 ```
 
 ##### OSX Macports:
@@ -637,7 +636,7 @@ $ sudo apt-get 安装 git-flow
 ##### Windows (Cygwin):
 ###### You need wget and util-linux to install git-flow.
 ```bash
- $ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh install<state>  | 重击
+ $ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh 安装<state> | 狂欢
 ```
 <hr>
 
@@ -646,12 +645,12 @@ $ sudo apt-get 安装 git-flow
 ##### Initialize:
 ###### You'll have to answer a few questions regarding the naming conventions for your branches. It's recommended to use the default values.
 ```shell
-git流初始化
+git 流初始化
 ```
 OR
 ###### To use default
 ```shell
-git流初始化-d
+git 流初始化 -d
 ```
 <hr>
 
@@ -681,7 +680,7 @@ git flow 功能发布 MYFEATURE
 ##### Getting a published feature:
 ###### Get a feature published by another user.
 ```
-git flow feature pull origin MYFEATURE
+git 流功能拉源 MYFEATURE
 ```
 
 ##### Tracking a origin feature:
@@ -697,11 +696,11 @@ git flow 功能跟踪 MYFEATURE
 ##### Start a release:
 ###### To start a release, use the git flow release command. It creates a release branch created from the 'develop' branch. You can optionally supply a [BASE] commit sha-1 hash to start the release from. The commit must be on the 'develop' branch.
 ```
-git flow release start 发布 [基础]
+git flow release start RELEASE [BASE]
 ```
 ###### It's wise to publish the release branch after creating it to allow release commits by other developers. Do it similar to feature publishing with the command:
 ```
-git flow 发布发布发布
+git flow release 发布 RELEASE
 ```
 ###### (You can track a remote release with the: ```git flow release track RELEASE``` command)
 
@@ -712,7 +711,7 @@ git flow 发布发布发布
 ###### 3) Back-merges the release into 'develop'
 ###### 4) Removes the release branch
 ```
-git flow 发布完成发布
+git flow 发布完成 RELEASE
 ```
 ###### Don't forget to push your tags with ```git push --tags```
 

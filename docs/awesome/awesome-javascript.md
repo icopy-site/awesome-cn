@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="sorrycc/awesome-javascript"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorrycc/awesome-javascript/)
 
 很棒的浏览器端集合 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 图书馆、资源和闪亮的东西.
@@ -139,12 +138,12 @@
 * [aurelia](http://aurelia.io) - 用于移动、桌面和 Web 的 JavaScript 客户端框架.
 * [backbone](https://github.com/jashkenas/backbone) - 为您的 JS 应用程序提供一些具有模型、视图、集合和事件的主干.
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的 Web 应用程序的 JavaScript 框架.
-* [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
+* [meteor](https://github.com/meteor/meteor) - 一个超简单的、无处不在的数据库、在线数据、纯 JavaScript 的 Web 框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代 DOM 操作.
-* [vue](https://github.com/vuejs/vue) - 用于构建交互式界面的直观、快速和可组合的 MVVM.
+* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 * [svelte](https://github.com/sveltejs/svelte)  - Svelte 是一种构建 Web 应用程序的新方法. 它是一个编译器，可以获取您的声明性组件并将它们转换为高效的 JavaScript，从而以外科手术的方式更新 DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout 可以更轻松地使用 JavaScript 创建丰富的响应式 UI.
-* [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
+* [spine](https://github.com/spine/spine) - 用于构建 JavaScript 应用程序的轻量级 MVC 库.
 * [espresso.js](https://github.com/techlayer/espresso.js) - 用于制作用户界面的最小 JavaScript 库.
 * [canjs](https://github.com/canjs/canjs) - 可以做 JS，更好，更快，更容易.
 * [react](https://reactjs.org/)  - 用于构建用户界面的库. 它是声明式的、高效的并且极其灵活. 使用虚拟 DOM.
@@ -164,7 +163,7 @@
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril 是一个客户端 MVC 框架（轻量级、健壮、快速）.
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks 是更好的 MV-ish 框架.
 * [feathers](https://github.com/feathersjs/feathers) - 用于未来应用程序的极简实时 JavaScript 框架.
-* [Keo](https://github.com/Wildhoney/Keo) - 具有 Shadow DOM 支持的功能性无状态 React 组件.
+* [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - 使用纯 JavaScript 快速开发 Apple TV 应用程序.
 * [Alpine.js](https://github.com/alpinejs/alpine) - 以低得多的成本为您提供大型框架（如 Vue 或 React）的反应性和声明性.
 * [inferno](https://github.com/infernojs/inferno) - 用于构建现代用户界面的极快、类似 React 的 JavaScript 库.
@@ -187,7 +186,7 @@
 * [We.js](https://github.com/wejs/we/) - 实时应用程序、网站或博客的框架.
 * [Hatch.js](https://github.com/inventures/hatchjs) - 具有社交功能的 CMS 平台.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - 基于 Node.js 的快速且简约的 CMS.
-* [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
+* [Nodizecms](https://github.com/nodize/nodizecms) - 面向 CoffeeScript 爱好者的 CMS.
 * [Cody](https://github.com/jcoppieters/cody) - 带有所见即所得编辑器的 CMS.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS 和博客平台.
 * [Strapi](https://github.com/strapi/strapi) - 开源 Node.js Headless CMS 以轻松构建可定制的 API.
@@ -260,11 +259,11 @@
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - jQuery JavaScript 库的插件，可直接在浏览器中生成小型迷你图.
 * [trianglify](https://github.com/qrohlf/trianglify) - 使用 d3.js 的低多边形背景生成器.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - 在 JavaScript 中创建词云.
-* [d4](https://github.com/heavysixer/d4) - 用于 D3 的友好的可重用图表 DSL.
+* [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 * [dimple.js](http://dimplejs.org) - 由 d3 提供支持的用于业务分析的简单图表.
 * [chartist-js](https://github.com/gionkunz/chartist-js) - 简单的响应图表.
 * [epoch](https://github.com/epochjs/epoch) - 一个通用的实时图表库.
-* [c3](https://github.com/c3js/c3) - D3-based reusable chart library.
+* [c3](https://github.com/c3js/c3) - 基于 D3 的可重用图表库.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - 使用 HTML 5 和 WebGL 构建 3D 游戏的框架.
 * [recharts](https://github.com/recharts/recharts) - 重新定义了用 React 和 D3 构建的图表库.
 * [GraphicsJS](https://github.com/AnyChart/GraphicsJS) - 基于 SVG/VML 技术的具有直观 API 的轻量级 JavaScript 图形库.
@@ -397,14 +396,14 @@
 * [fecha](https://github.com/taylorhakes/fecha)  - 轻量级日期格式和解析 (~2KB). 旨在取代 moment.js 的解析和格式化功能.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代 JavaScript 日期实用程序库.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - 建立在谷歌地图之上的浏览器倒计时.
-* [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+* [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB 不可变日期库替代具有相同现代 API 的 Moment.js.
 * [luxon](https://github.com/moment/luxon) - Luxon 是一个用于在 JavaScript 中处理日期和时间的库.
 
 ## String
 *字符串库.*
 
 * [voca](https://github.com/panzerdp/voca) - 终极 JavaScript 字符串库
-* [selecting](https://github.com/EvandroLG/selecting) - 允许您访问用户选择的文本的库.
+* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 * [underscore.string](https://github.com/epeli/underscore.string) - Underscore.js JavaScript 库的字符串操作扩展.
 * [string.js](https://github.com/jprichardson/string.js) - 额外的 JavaScript 字符串方法.
 * [he](https://github.com/mathiasbynens/he) - 用 Ja​​vaScript 编写的健壮的 HTML 实体编码器/解码器.
@@ -419,7 +418,7 @@
 
 ## Number
 
-* [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
+* [Numeral-js](https://github.com/adamwdraper/Numeral-js) - 用于格式化和操作数字的 JavaScript 库.
 * [chance.js](https://github.com/chancejs/chancejs)  - JavaScript 中的随机生成器助手. 可以生成数字、字符串等.
 * [odometer](https://github.com/HubSpot/odometer) - 轻松平稳地转换数字.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - 用于数字、货币和货币格式化的轻量级 JavaScript 库 - 完全可本地化，零依赖.
@@ -521,7 +520,7 @@
 ## Voice Command
 
 * [annyang](https://github.com/TalAter/annyang) - 一个 JavaScript 库，用于使用语音识别向您的站点添加语音命令.
-* [voix.js](https://github.com/pazguille/voix) - 一个 JavaScript 库，用于向您的网站、应用程序或游戏添加语音命令.
+* [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 
 ## API
@@ -548,7 +547,7 @@
 
 ## Vision Detection
 
-* [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
+* [tracking.js](https://github.com/eduardolundgren/tracking.js) - 网络计算机视觉的现代方法.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - 通过 Emscripten 在 JavaScript 中进行 OCR.
 
 
@@ -600,7 +599,7 @@
 *用于指示加载状态的库.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - 创建 Google Material Design 进度线性条.
-* [NProgress](https://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
+* [NProgress](https://ricostacruz.com/nprogress/) - Ajax&#39;y 应用程序的细长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) - 旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) - 为页面上的每个对象创建和管理进度条.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - 带有动画 SVG 路径的漂亮且反应灵敏的进度条.
@@ -640,14 +639,14 @@
 
 * [intro.js](https://github.com/usablica/intro.js) - 为您的网站和项目介绍新功能和分步用户指南的更好方式.
 * [shepherd](https://github.com/HubSpot/shepherd) - 引导您的用户浏览您的应用程序.
-* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - 使用 Twitter Bootstrap Popovers 快速轻松地进行产品导览.
+* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 * [tourist](https://github.com/easelinc/tourist) - 为您的应用程序提供简单、灵活的导览.
 * [chardin.js](https://github.com/heelhook/chardin.js) - 为您的应用程序提供简单的叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能浏览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将聚光灯聚焦在 DOM 元素上，向页面的其余部分添加覆盖层.
-* [driver.js](https://github.com/kamranahmedse/driver.js) - 强大而轻量级的 vanilla JavaScript 引擎，可将用户的注意力集中在整个页面上
+* [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## Notifications
 
@@ -857,12 +856,12 @@
 * [kartograph.js](https://github.com/kartograph/kartograph.js) - 用于 Kartograph SVG 地图的开源 JavaScript 渲染器.
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API，一个传单插件.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery 矢量地图库.
-* [OpenLayers3](https://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
+* [OpenLayers3](https://openlayers.org/) - 一个高性能、功能丰富的库，可满足您的所有映射需求.
 * [H3js](https://github.com/uber/h3) - 由 Uber 移植到 javascript 的六角形层次地理空间索引系统，用于地理空间可视化.
 
 ## Video/Audio
 
- * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - 更漂亮的 YouTube 嵌入 - 具有不错的选项，例如高分辨率预览图像、嵌入选项的高级自定义以及可选的 FitVids 支持.
+ * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - 更漂亮的 YouTube 嵌入 - 具有高分辨率预览图像、嵌入选项的高级自定义以及可选的 FitVids 支持等不错的选项.
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play&#39;em 是一个 JavaScript 组件，它通过在 HTML DIV 中嵌入多个播放器（包括 Youtube、Soundcloud 和 Vimeo）来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) - 用一个 API 统治 YouTube、Soundcloud 和 Vimeo 播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 适用于网络的 HTML5 视频播放器
@@ -911,7 +910,7 @@
 * [animatable](https://github.com/LeaVerou/animatable) - 一种属性，两种价值，无限可能.
 * [shuffle-images](https://github.com/peachananr/shuffle-images) - 以最简单的方式以创造性的方式随机播放图像.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - 使用 jQuery 的不显眼的页面转换.
-* [Anime.js](https://animejs.com/) - 一个 JavaScript 动画引擎.
+* [Anime.js](https://animejs.com/) - A JavaScript animation engine.
 * [Mo.js](http://mojs.io) - 用于网络的动态图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - 用于创建粒子的轻量级 JavaScript 库.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的和改进的 particles.js 版本，修复了错误和许多新功能.
@@ -967,7 +966,7 @@
 https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - 过滤和排序插件.
 * [grid](https://github.com/hootsuite/grid) - 拖放二维、可调整大小和响应列表的库.
-* [jquery-match-height](https://github.com/liabru/jquery-match-height) - 一个用于 jQuery 的响应式等高插件.
+* [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [SurveyJS](https://github.com/surveyjs/survey-library)  - SurveyJS 是一个 JavaScript 调查和表单库.  https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://objectexplorer.netlify.app/) - 帮助找出在任何给定时间最好使用哪种本机 JavaScript 方法的资源.
 * [Clipboard.js](https://clipboardjs.com/) - 不使用 Flash 或使用框架的“复制到剪贴板”.

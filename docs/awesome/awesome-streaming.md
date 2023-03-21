@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="manuzhang/awesome-streaming"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg)](https://github.com/manuzhang/awesome-streaming/actions)
 
 精选清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 框架、应用程序、阅读材料和其他资源. 灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
@@ -14,7 +13,7 @@
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - 大数据流批处理统一平台.
 - [Apache Ballista](https://github.com/apache/arrow-ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
-- [Apache Flink](https://github.com/apache/flink) [Java] - 支持状态计算、数据驱动的窗口语义和迭代流处理的高吞吐量、低延迟数据流处理系统.
+- [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - 可以轻松构建可扩展的容错流应用程序.
@@ -39,7 +38,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Trill](https://github.com/Microsoft/trill) [.NET/C#] - Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research.
 - [Wallaroo](https://github.com/WallarooLabs/wallaroo)  [Python] - 一个快速的流处理框架.  Wallaroo 使实时对数据做出反应变得容易. 通过消除基础设施的复杂性，从原型到生产变得前所未有的简单.
 - [LightSaber](https://github.com/lsds/LightSaber)  [C++] - 多核基于窗口的流处理引擎.  LightSaber 使用代码生成来实现高效的窗口聚合.
-- [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - The streaming database built for IoT data storage and real-time processing.
+- [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - 为物联网数据存储和实时处理而构建的流式数据库.
 - [Kuiper](https://github.com/emqx/kuiper) [Golang] - 由 Golang 实现的边缘轻量级物联网数据分析/流媒体软件，可以在各种资源受限的边缘设备上运行.
 - [WindFlow](https://paragroup.github.io/WindFlow) [C++] - 用于多核和 GPU 的 C++17 数据流处理并行库
 
@@ -67,7 +66,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 
 ### Streaming Application
 
-- [straw](https://github.com/rwalk/straw) [Python/Java] - A platform for real-time streaming search.
+- [straw](https://github.com/rwalk/straw) [Python/Java] - 实时流式搜索平台.
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) [Java] - 基于 Apache Storm 的网络爬虫 SDK.
 
 ### IoT
@@ -148,7 +147,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C++] - 在 Apache 之上用 C++ 构建的分布式流处理框架.
 - [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  [Python/Java/Scala] - 分布式处理和实时分析平台. 提供开箱即用的高级分析工具包，如地理空间、时间序列等.
 - [jubatus](http://jubat.us/en/) [C++] - 分布式处理框架和流式机器学习库.
-- [millwheel](http://research.google.com/pubs/pub41378.html) - 构建谷歌广泛使用的低延迟数据处理应用程序的框架.
+- [millwheel](http://research.google.com/pubs/pub41378.html) - framework for building low-latency data-processing applications that is widely used at Google.
 - [NVIDIA Deep Stream](https://developer.nvidia.com/deepstream-sdk) [Python/C/C++] - 实时图像、视频和音频处理平台，最好在边缘设备或云端使用.
 
 ### Readings

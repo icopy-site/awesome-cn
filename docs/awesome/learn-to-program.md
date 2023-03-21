@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="karlhorky/learn-to-program"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### Foundation in Web Development
 
@@ -79,7 +78,7 @@
 
 #### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
 **免费**通过创建逐步构建的小型应用程序来教授 Java 编程\
-*(Java, OOP, Gradle, Maven, Spring Boot)*
+*（Java、OOP、Gradle、Maven、Spring Boot）*
 
 #### [Cratecode](https://cratecode.com/)
 **免费**在线平台，通过互动课程教授编程\
@@ -121,7 +120,7 @@
 
 #### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
 **付费**网络开发课程平台\
-*（JavaScript、AngularJS、Java）*
+*(JavaScript, AngularJS, Java)*
 
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
 **免费**中高级编程问题\

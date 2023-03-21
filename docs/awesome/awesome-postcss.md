@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="jdrgomes/awesome-postcss"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <img src="https://rawgit.com/jdrgomes/awesome-postcss/master/media/awesome_postcss.svg" alt="Awesome PostCSS">
 </p>
@@ -9,7 +8,7 @@
 
 &gt; PostCSS 资源和其他相关内容的选择性列表.
 
- **PostCSS** 只是提供了一个 css 解析器和一个框架，用于创建可以分析、lint、处理资产、优化、创建回退以及以其他方式转换已解析 css 的插件.  PostCSS 将 css 解析成抽象的语法树 [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), 通过一系列插件传递它，然后连接回一个字符串.
+ **PostCSS** 只是提供了一个 css 解析器和一个框架，用于创建可以分析、lint、处理资产、优化、创建回退以及以其他方式转换解析的 css 的插件.  PostCSS将css解析成抽象语法树 [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)，通过一系列插件传递它，然后连接回一个字符串.
 
 
     - [Articles](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/articles.md)
@@ -38,4 +37,4 @@
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-这个项目是在 MIT 许可下获得许可的 - 请参阅 [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) 详情.
+这个项目是在麻省理工学院许可下获得许可的 - 请参阅 [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) 了解详情.

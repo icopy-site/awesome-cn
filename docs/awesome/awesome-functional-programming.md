@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="lucasviola/awesome-functional-programming"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 基于 [Awesome](https://github.com/sindresorhus/awesome/) 项目
@@ -63,12 +62,12 @@
 - [Jax in Action](https://www.manning.com/books/jax-in-action) - 一本关于 JAX 数值计算库的书.
 - [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - 使用 PowerShell 脚本自动执行复杂的任务和流程.
 - [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
-- [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - 全面更新至 Elixir 1.14，这本权威畅销书揭示了 Elixir 如何解决可扩展性、容错性和高可用性问题.
+- [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - Fully updated to Elixir 1.14, this authoritative bestseller reveals how Elixir tackles problems of scalability, fault tolerance, and high availability.
 
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - 专注于讨论研究、论文的社区
 和学术界的热门话题. 非常高的技术讨论水平.
-- [FP Complete](https://www.fpcomplete.com/) - Community focused on helping companies and students on learning and implementing Functional Programming in Haskell. Hosters of one of the most famous Haskell learning centers: [School of Haskell](https://www.schoolofhaskell.com/school)
+- [FP Complete](https://www.fpcomplete.com/)  - 专注于帮助公司和学生学习和实施 Haskell 函数式编程的社区. 最著名的 Haskell 学习中心之一的主办方： [School of Haskell](https://www.schoolofhaskell.com/school)
 - [Haskellers](http://www.haskellers.com/) - Haskell 程序员的聚会点
 - [ElixirLangMoscow](http://elixir-lang.moscow/) - 俄罗斯 Elixir 社区
 

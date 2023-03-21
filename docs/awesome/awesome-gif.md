@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="davisonio/awesome-gif"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome GIF [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt; 精选清单 [GIF](https://en.wikipedia.org/wiki/GIF) 资源.
@@ -26,7 +25,7 @@
 - [X-gif](https://github.com/geelen/x-gif) - 用于灵活 GIF 播放的 Web 组件.
 - [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript 网络记录器.
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - 从 YouTube 视频创建 GIF.
-- [gifstreaming](https://github.com/jbochi/gifstreaming) - 实时视频流服务器.
+- [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server.
 - [Screengif](https://github.com/dergachev/screengif) - 创建动画 GIF 截屏视频.
 - [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - 通过 http 将屏幕更新作为动画 GIF 提供.
 - [gifdeck](https://github.com/jaipandya/gifdeck) - 将您的 SlideShares 转换为动画 GIF.
@@ -297,7 +296,7 @@ selected_scenes.write_gifs(clip.resize(width=450), &quot;./outputs_directory&quo
 
 ### YouTube video to GIF
 
-- Download it via youtube-dl and then convert it.
+- 通过 youtube-dl 下载然后转换.
 
 ```
 youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8

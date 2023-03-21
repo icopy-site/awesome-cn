@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ciconia/awesome-music"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 很棒的音乐库、工具、框架和软件的分类集合.
@@ -41,7 +40,7 @@
 * [Lame](http://lame.sourceforge.net/) - 高质量、免费和开源的 MP3 编码器.
 * [lltag](https://github.com/bgoglin/lltag) - 自动命令行 mp3/ogg/flac 文件标记器和重命名器.
 * [matchering](https://github.com/sergree/matchering) - 用于自动参考音频母带处理的容器化 Web 应用程序和库.
-* [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
+* [MusicBrainz](https://musicbrainz.org) - 开放的音乐信息和元数据百科全书，为所有内容提供唯一ID
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - 未来的音频制作平台（硬件支持、API、主机、插件等）
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - 是用于类 Unix 操作系统的安全数字音频提取应用程序（“cd ripper”）.
 * [SoX](http://sox.sourceforge.net/) - 用于播放、转换和操作音频文件的免费开源命令行实用程序.
@@ -91,9 +90,9 @@
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond 工具 - 片段、模板和扩展.
 * [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - 用于在浏览器中呈现 MusicXML 的 Typescript 库.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - 用于操作 LilyPond 文件的工具和库.
-* [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - 以最少的麻烦生成乐谱和零件.
+* [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - 以最少的麻烦生成乐谱和部分.
 * [Scorelib](http://scorelib.sapp.org/) - 用于解析 SCORE 数据文件的 C++ 库.
-* [Tbon](https://github.com/Michael-F-Ellis/tbon) - 音乐的印刷节拍符号.
+* [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - 为音乐人提供的LilyPond小乐谱刻版分享服务.
 * [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - 用文字创作乐谱的专有软件.
 * [Verovio](https://github.com/rism-ch/verovio) - 用于将 MEI 音乐符号雕刻到 SVG 中的库和工具包.
@@ -105,7 +104,7 @@
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
 * [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧氏节奏设计的小型 MIDI 音序器 DSL.
 * [Chuck](https://github.com/ccrma/chuck) - 强时序、并发和动态的音乐编程语言.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法合成的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
 * [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐作曲系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.

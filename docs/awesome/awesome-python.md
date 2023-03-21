@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="vinta/awesome-python"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的 Python 框架、库、软件和资源列表.
@@ -160,7 +159,7 @@
     * [pyre-check](https://github.com/facebook/pyre-check) - 性能类型检查.
     * [typeshed](https://github.com/python/typeshed) - Python 库存根的集合，具有静态类型.
 * 静态类型注解生成器
-    * [MonkeyType](https://github.com/Instagram/MonkeyType) - 一个通过收集运行时类型生成静态类型注释的 Python 系统.
+    * [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
     * [pytype](https://github.com/google/pytype) - Pytype 检查并推断 Python 代码的类型 - 无需类型注释.
 
 ## Command-line Interface Development
@@ -195,7 +194,7 @@
     * [PathPicker](https://github.com/facebook/PathPicker) - 从 bash 输出中选择文件.
     * [percol](https://github.com/mooz/percol) - 为 UNIX 上的传统管道概念添加交互式选择的风格.
     * [thefuck](https://github.com/nvbn/thefuck) - 更正您之前的控制台命令.
-    * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
+    * [tmuxp](https://github.com/tony/tmuxp) - A [tmux](https://github.com/tmux/tmux) 会话管理器.
     * [try](https://github.com/timofurrer/try) - 一个非常简单的 CLI 来尝试 python 包 - 它从未如此简单.
 * CLI 增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) - 命令行 HTTP 客户端，用户友好的 cURL 替代品.
@@ -300,7 +299,7 @@
 
 *用 Python 实现的数据库.*
 
-* [pickleDB](https://github.com/patx/pickledb) - 一个简单轻量级的 Python 键值存储.
+* [pickleDB](https://github.com/patx/pickledb) - A simple and lightweight key-value store for Python.
 * [tinydb](https://github.com/msiemens/tinydb) - 一个小型的、面向文档的数据库.
 * [ZODB](https://github.com/zopefoundation/ZODB)  - Python 的本机对象数据库. 键值和对象图数据库.
 
@@ -436,7 +435,7 @@
 
 ## Documentation
 
-*Libraries for generating project documentation.*
+*用于生成项目文档的库.*
 
 * [sphinx](https://github.com/sphinx-doc/sphinx/) - Python 文档生成器.
     * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
@@ -544,7 +543,7 @@
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 与 Django 的集成.
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - 一个 Django 应用程序，可让您以非常优雅和 DRY 的方式创建漂亮的表单.
 * [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - 独立于平台的 Django 表单序列化程序.
-* [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和呈现库.
+* [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和渲染库.
 
 ## Functional Programming
 
@@ -581,7 +580,7 @@
 
 ## GraphQL
 
-*Libraries for working with GraphQL.*
+*用于使用 GraphQL 的库.*
 
 * [graphene](https://github.com/graphql-python/graphene/) - Python 的 GraphQL 框架.
 * [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) - 基于 `aiohttp` 的 Tartiflette 包装器，用于通过 HTTP 公开 GraphQL API.
@@ -608,7 +607,7 @@
 
 * [django-countries](https://github.com/SmileyChris/django-countries) - 为模型和表单提供国家字段的 Django 应用程序.
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - 世界级的地理网络框架.
-* [GeoIP](https://github.com/maxmind/geoip-api-python) - Python API for MaxMind GeoIP Legacy Database.
+* [GeoIP](https://github.com/maxmind/geoip-api-python) - 用于 MaxMind GeoIP 遗留数据库的 Python API.
 * [geojson](https://github.com/frewsxcv/python-geojson) - GeoJSON 的 Python 绑定和实用程序.
 * [geopy](https://github.com/geopy/geopy) - Python 地理编码工具箱.
 
@@ -625,7 +624,7 @@
 * [pyquery](https://github.com/gawel/pyquery) - 用于解析 HTML 的类似 jQuery 的库.
 * [untangle](https://github.com/stchris/untangle) - 将 XML 文档转换为 Python 对象以便于访问.
 * [WeasyPrint](http://weasyprint.org) - 可导出为 PDF 的 HTML 和 CSS 可视化渲染引擎.
-* [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - 简单的 XML 解析.
+* [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
 * [xmltodict](https://github.com/martinblech/xmltodict) - 使用 XML 就像使用 JSON 一样.
 
 ## HTTP Clients
@@ -644,7 +643,7 @@
 *用于硬件编程的库.*
 
 * [ino](http://inotool.org/) - 用于使用的命令行工具包 [Arduino](https://www.arduino.cc/).
-* [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+* [keyboard](https://github.com/boppreh/keyboard) - 在 Windows 和 Linux 上挂接和模拟全局键盘事件.
 * [mouse](https://github.com/boppreh/mouse) - 在 Windows 和 Linux 上挂接和模拟全局鼠标事件.
 * [Pingo](http://www.pingo.io/) - Pingo 提供统一的 API 来为 Raspberry Pi、pcDuino、Intel Galileo 等设备编程.
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - 鼠标和键盘的跨平台控制模块.
@@ -693,13 +692,13 @@
 *交互式 Python 解释器 (REPL).*
 
 * [bpython](https://github.com/bpython/bpython) - 一个奇特的 Python 解释器接口.
-* [Jupyter Notebook (IPython)](https://jupyter.org) - 丰富的工具包，可帮助您以交互方式充分利用 Python.
+* [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
     * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 * [ptpython](https://github.com/jonathanslenders/ptpython) - 高级 Python REPL 建立在 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 
 ## Internationalization
 
-*Libraries for working with i18n.*
+*使用 i18n 的库.*
 
 * [Babel](http://babel.pocoo.org/en/latest/) - Python 的国际化库.
 * [PyICU](https://github.com/ovalhub/pyicu) - Unicode C++ 库的国际组件包装器（[ICU](http://site.icu-project.org/)).
@@ -812,8 +811,8 @@
     * [orator](https://github.com/sdispater/orator) - Orator ORM 提供了一个简单而美观的 ActiveRecord 实现.
     * [orm](https://github.com/encode/orm) - 异步 ORM.
     * [peewee](https://github.com/coleifer/peewee) - 一个小巧、富有表现力的 ORM.
-    * [pony](https://github.com/ponyorm/pony/) - ORM that provides a generator-oriented interface to SQL.
-    * [pydal](https://github.com/web2py/pydal/) - A pure Python Database Abstraction Layer.
+    * [pony](https://github.com/ponyorm/pony/) - 为 SQL 提供面向生成器的接口的 ORM.
+    * [pydal](https://github.com/web2py/pydal/) - 纯 Python 数据库抽象层.
 * NoSQL 数据库
     * [hot-redis](https://github.com/stephenmcd/hot-redis) - 用于 Redis 的丰富 Python 数据类型.
     * [mongoengine](https://github.com/MongoEngine/mongoengine) - 用于使用 MongoDB 的 Python Object-Document-Mapper.
@@ -837,7 +836,7 @@
 * [bandersnatch](https://github.com/pypa/bandersnatch/) - Python Packaging Authority (PyPA) 提供的 PyPI 镜像工具.
 * [devpi](https://github.com/devpi/devpi) - PyPI 服务器和打包/测试/发布工具.
 * [localshop](https://github.com/jazzband/localshop) - 本地 PyPI 服务器（自定义包和 pypi 的自动镜像）.
-* [warehouse](https://github.com/pypa/warehouse) - Next generation Python Package Repository (PyPI).
+* [warehouse](https://github.com/pypa/warehouse) - 下一代 Python 包存储库 (PyPI).
 
 ## Penetration Testing
 
@@ -999,11 +998,11 @@
     * [ReportLab](https://www.reportlab.com/opensource/) - 允许快速创建丰富的 PDF 文档.
 * 降价
     * [Mistune](https://github.com/lepture/mistune) - 最快且功能齐全的 Markdown 纯 Python 解析器.
-    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - John Gruber 的 Markdown 的 Python 实现.
+    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
 * YAML
     * [PyYAML](http://pyyaml.org/) - Python 的 YAML 实现.
 * CSV文件
-    * [csvkit](https://github.com/wireservice/csvkit) - 用于转换和使用 CSV 的实用程序.
+    * [csvkit](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV.
 * 档案
     * [unp](https://github.com/mitsuhiko/unp) - 可以轻松解压缩档案的命令行工具.
 
@@ -1052,7 +1051,7 @@
     * [Robot Framework](https://github.com/robotframework/robotframework) - 通用测试自动化框架.
     * [unittest](https://docs.python.org/3/library/unittest.html) - (Python 标准库) 单元测试框架.
 * 测试跑者
-    * [green](https://github.com/CleanCut/green) - 干净、多彩的测试运行程序.
+    * [green](https://github.com/CleanCut/green) - 干净、多彩的测试运行器.
     * [mamba](http://nestorsalceda.github.io/mamba/)  - Python 的权威测试工具. 诞生于BDD旗下.
     * [tox](https://tox.readthedocs.io/en/latest/) - 自动构建和测试多个 Python 版本的发行版
 * GUI / Web Testing
@@ -1097,7 +1096,7 @@
     * [pyfiglet](https://github.com/pwaller/pyfiglet) - 用 Python 编写的 figlet 的实现.
     * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (汉字) to pinyin (拼音).
     * [textdistance](https://github.com/orsinium/textdistance) - 使用 30 多种算法计算序列之间的距离.
-    * [unidecode](https://pypi.org/project/Unidecode/) - Unicode 文本的 ASCII 音译.
+    * [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 * 鼻涕虫
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) - 一个可以保留 unicode 的 Python slugify 库.
     * [python-slugify](https://github.com/un33k/python-slugify) - 将 unicode 转换为 ASCII 的 Python slugify 库.
@@ -1124,7 +1123,7 @@
 * [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Facebook 平台 Python SDK.
 * [google-api-python-client](https://github.com/google/google-api-python-client) - 适用于 Python 的 Google API 客户端库.
 * [gspread](https://github.com/burnash/gspread) - 谷歌电子表格 Python API.
-* [twython](https://github.com/ryanmcgrath/twython) - Twitter API 的 Python 包装器.
+* [twython](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## URL Manipulation
 

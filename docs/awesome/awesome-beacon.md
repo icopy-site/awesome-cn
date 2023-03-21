@@ -1,49 +1,48 @@
 <div class="github-widget" data-repo="rabschi/awesome-beacon"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的iBeacon和Eddystone蓝牙信标资源，开源项目，库，工具和教程的精选列表.
+很棒的 iBeacon 和 Eddystone 蓝牙信标资源、开源项目、库、工具和教程的精选列表.
 
 
 ## Eddystone by Google
 
-&gt; ** Eddystone **一个平台，可通过提供及时的上下文信息来标记整个世界，以使您的应用和设备更智能地运行.
+&gt; **Eddystone** 一个标记世界的平台，通过提供及时的上下文信息使您的应用程序和设备更智能地工作.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
 * [Eddystone Protocol Specification & Tools](https://github.com/google/eddystone)
-*广告框类型
+* 广告框类型
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
   * [Eddystone-URL](https://github.com/google/eddystone/tree/master/eddystone-url)
 * [Eddystone Validator](https://github.com/google/eddystone/tree/master/tools/eddystone-validator)
-* [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](https://github.com/rabschi/awesome-beacon/blob/master/* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)）（由Nordic Semiconductor提供）
+* [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](https://github.com/rabschi/awesome-beacon/blob/master/* [](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)）（北欧半导体）
 * [Web Bluetooth Eddystone Configurator](https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/)
 * [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets)
 
 ## Physical Web
 
- &gt;“物理网络”是一种释放网络核心超级能力的方法：按需交互.  人们应该能够使用任何智能设备（自动售货机，海报，玩具，公交车站，租车），而不必先下载应用程序.  一切都只需轻轻一按.
+ &gt; **物理网络** 是一种释放网络核心超能力的方法：按需交互. 人们应该能够走向任何智能设备——自动售货机、海报、玩具、公交车站、租车——而不必先下载应用程序. 一切都应该只需轻按一下即可.
 
-* [Physical Web - Walk up and use anything](http://google.github.io/physical-web/) -Github官方仓库
-* [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) -2016 Ubiquity Dev Summit
+* [Physical Web - Walk up and use anything](http://google.github.io/physical-web/) - 官方 Github 存储库
+* [Video: Introduction to the Physical Web](https://www.youtube.com/watch?v=w0XazPrh7r0) - 2016 年 Ubiquity 开发峰会
 * [URL Validator 1](https://beaufortfrancois.github.io/sandbox/physical-web/url-validator/), [URL Validator 2](https://url-caster.appspot.com/webui)
 * [Physical Web Getting Started Guide for Developers](https://docs.google.com/document/d/1VC9umaw9TItV31WrcX0eJ9xVsfXXQoWvUjuSqWXmH8A)
 * [Physical Web Implementation Status](https://github.com/google/physical-web/blob/master/implementation-status.md)
 * [Physical Web Branding Guidelines](https://github.com/google/physical-web/blob/master/documentation/branding_guidelines.md) & [Logos](https://github.com/google/physical-web/tree/master/documentation/images/logo)
-* [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) 作者：R.Want，B.Schilit，S.Jenson
+* [IEEE: Enabling the Internet of Things](https://web.eecs.umich.edu/~prabal/teaching/resources/eecs582/want15iot.pdf) 作者：R. Want、B. Schilit、S. Jenson
 * [Exploring the Physical Web (Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
 
 ## Proximity Beacon API by Google
 
-* [Beacons 101-- Getting Started with the Google Beacon Platform](https://www.youtube.com/watch?v=0QeY9FueMow) -视频Ubiquity Dev Summit 2016
-* [Get Started with Beacons](https://developers.google.com/beacons/get-started) -本指南说明了开始使用蓝牙低功耗（BLE）信标为用户提供基于接近度的体验所需的步骤.
-* [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides) -一种云服务，可让您使用REST接口管理与BLE信标关联的数据
-* [Nearby](https://developers.google.com/nearby/) -在附近的设备与人之间建立简单的互动
+* [Beacons 101-- Getting Started with the Google Beacon Platform](https://www.youtube.com/watch?v=0QeY9FueMow) - 2016 年视频无处不在开发峰会
+* [Get Started with Beacons](https://developers.google.com/beacons/get-started) - 本指南介绍了开始使用低功耗蓝牙 (BLE) 信标为您的用户提供基于邻近度的体验所需的步骤.
+* [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides) - 一种云服务，允许您使用 REST 接口管理与 BLE 信标相关的数据
+* [Nearby](https://developers.google.com/nearby/) - 在附近的设备和人之间建立简单的互动
 
 
 ## iBeacon Resources by Apple
 
-&gt; **面向开发人员的iBeacon **从欢迎人们参加体育赛事开始，到提供有关附近博物馆展览的信息，iBeacon为定位意识以及iOS设备与iBeacon硬件之间互动的无限机会打开了一个新的世界.
+&gt; **iBeacon for Developers** 从欢迎参加体育赛事的人们到提供附近博物馆展览的信息，iBeacon 为位置感知打开了一个新世界，并为 iOS 设备和 iBeacon 硬件之间的交互提供了无数机会.
 
 * [iBeacon for Developers](https://developer.apple.com/ibeacon)
 * [Getting Started with iBeacon (PDF) ](https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf)
@@ -70,9 +69,9 @@
 
 * [Empowering vision impaired people to navigate the world independently](https://www.wayfindr.net) （开放标准）
 * [Google Glass & Beacons](https://github.com/tmwagency/Glasstimote)
-* [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) （由Twocanoes）
-* [PunchClock](https://github.com/panicinc/PunchClock) 使用iBeacon和Geofencing的iOS 7+输入/输出跟踪应用程序.
-* [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) 帮助您从自动化房屋，地理围栏，iBeacons中获得最大收益.
+* [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) （来自 Twocanoes）
+* [PunchClock](https://github.com/panicinc/PunchClock) 适用于 iOS 7+ 的进/出跟踪应用程序，使用 iBeacon 和地理围栏.
+* [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) 帮助您充分利用您手中的自动化家庭、地理围栏和 iBeacon.
 * [LaunchHere for iOS - iBeacon based app shortcuts](http://launchhere.awwapps.com/)
 * [Traveling with Beacons: Checked Luggage Made Easy](https://medium.com/@urish/traveling-with-beacons-checked-luggage-made-easy-bbd664765ea3)
 
@@ -84,7 +83,7 @@
 
 ## Beacon Discovery & Configuration Tools
 
-* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) -红宝石宝石，可让您使用IOBluetooth（在Mac OS X上）或BlueGiga BLE112设备（在Mac或Linux上）扫描信标广告
+* [ScanBeacon](https://github.com/RadiusNetworks/scanbeacon-gem) - 一个 ruby​​ gem，允许您使用 IOBluetooth（在 Mac OS X 上）或 BlueGiga BLE112 设备（在 mac 或 linux 上）扫描信标广告
 
 
 ## iOS
@@ -99,17 +98,17 @@
 * [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample)
 * [Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8](http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8)
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
-* [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) Swift中一个不错的iBeacon演示应用程序.
+* [HiBeacons](https://github.com/nicktoumpelis/HiBeacons) Swift 中一个不错的 iBeacon 演示应用程序.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
 * [iOS & OSX Bluetooth library for RxSwift](https://github.com/Polidea/RxBluetoothKit)
-* [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) -一个iBeacon Manager类，负责检测附近的信标.
-* [BeaconKit](https://github.com/igor-makarov/BeaconKit) -使用CoreBluetooth的信标检测框架，支持Eddystone-UID，Eddystone-URL，AltBeacon.
+* [JMCiBeaconManager](https://github.com/izotx/JMCBeaconManager) - 一个 iBeacon Manager 类，负责检测附近的信标.
+* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - 使用CoreBluetooth的Beacon检测框架，支持Eddystone-UID、Eddystone-URL、AltBeacon.
 
 ## Objective-C
 
 * [Generic iBeacon Management and Utilities by KinveyLabs](https://github.com/KinveyLabs/KCSIBeacon/)
 * [Replicates detecting and broadcasting iBeacons in the background](https://github.com/Instrument/Vicinity)
-* [RABeaconManager](https://github.com/reelyactive/ble-ios-sdk) RABeaconManager是一个易于使用的库，可让您在前景和背景中检测蓝牙信标和iBeacon.
+* [RABeaconManager](https://github.com/reelyactive/ble-ios-sdk) RABeaconManager 是一个易于使用的库，可让您在前台和后台检测蓝牙信标和 iBeacon.
 
 
 ## Stackoverflow Q&A
@@ -126,7 +125,7 @@
 * [Beacon Toy - Android App to advertise as Eddystone](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator)
 * [Android BLE advertising library](https://github.com/uriio/beacons-android)
 * [Locate by Radius Networks - Virtual iBeacon](https://itunes.apple.com/us/app/locate-beacon/id738709014?mt=8)
-* [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) -用途 [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
+* [Chrome App to advertise Eddystone packets](https://github.com/google/eddystone/tree/master/tools/eddystone-chrome-app-sample) - 使用 [Eddystone Advertising Library](https://github.com/google/eddystone/tree/master/libraries/javascript/eddystone-advertising)
 * [Linux iBeacon broadcaster](https://github.com/dburr/linux-ibeacon)
 * [Quick Beacon](https://itunes.apple.com/us/app/quick-beacon/id1303172948?mt=8)
 
@@ -135,26 +134,26 @@
 
 ## Beacon Development
 
-* [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) 支持操作系统级扫描过滤器和外围模式.
+* [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) 支持操作系统级扫描过滤器和外设模式.
 * [iBeacon Scanner for Android](https://github.com/inthepocket/ibeacon-scanner-android), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
-* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) 使用自定义信标解析器以实现iBeacon设备兼容性.
-* [BeaconKeeper](https://github.com/m039/beacon-keeper) 用于在后台定位iBeacon的简单库
+* [Android beacon library based on AltBeacon.](https://github.com/AltBeacon/android-beacon-library) 使用自定义信标解析器来实现 iBeacon 设备兼容性.
+* [BeaconKeeper](https://github.com/m039/beacon-keeper) 用于在后台定位 iBeacon 的简单库
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
 * [BLE SDK for Android](https://github.com/RedBearLab/Android)
 * [Bluetooth LE Library for Android](https://github.com/alt236/Bluetooth-LE-Library---Android)
-* [reelyactive-ble-android-sdk](https://github.com/reelyactive/ble-android-sdk) 此SDK可让您扫描信标并作为信标进行广告.
+* [reelyactive-ble-android-sdk](https://github.com/reelyactive/ble-android-sdk) 此 SDK 允许您扫描信标并作为信标进行广告宣传.
 
 ## Beacon Scanner Apps
 
 * [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code](https://github.com/eliaslecomte/ibeacon-scanner-app)
-* [Beacon Scanner & Logger](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) 扫描BLE信标/ iBeacons并将结果记录到文件的Android应用
+* [Beacon Scanner & Logger](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) 扫描 BLE Beacons/iBeacons 并将结果记录到文件中的 Android 应用程序
 * [iBeacon Detector](https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de)
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
 
 ## Beacon Advertiser Apps
 
-* [Beacon Simulator](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator) -iBeacon，Eddystone，AltBeacon
+* [Beacon Simulator](https://play.google.com/store/apps/details?id=net.alea.beaconsimulator) - iBeacon、Eddystone、AltBeacon
 
 ## Stackoverflow Q&A
 
@@ -174,10 +173,10 @@
 
 * [iBeacon Scanning Utility App for OSX](https://github.com/mlwelles/BeaconScanner)
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID](https://github.com/liamnichols/iBeaconScanner)
-* [Beacon OSX](https://github.com/mttrb/BeaconOSX) -小牛队作为iBeacon
-* [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) -Mac OSX桌面应用程序可扫描物理Web（Eddystone）蓝牙信标
-* [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) -使用此应用程序共享Mac中的链接，以将其作为Eddystone URL（物理网络）蓝牙信标进行广播.
-* [BeaconKit](https://github.com/igor-makarov/BeaconKit) -使用CoreBluetooth的信标检测框架ns Swift，支持Eddystone-UID，Eddystone-URL，AltBeacon和iBeacon.
+* [Beacon OSX](https://github.com/mttrb/BeaconOSX) - 小牛作为 iBeacon
+* [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - 用于扫描物理网 (Eddystone) 蓝牙信标的 Mac OSX 桌面应用程序
+* [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - 使用此应用程序从您的 Mac 共享链接，将它们作为 Eddystone URL（物理 Web）蓝牙信标进行广播.
+* [BeaconKit](https://github.com/igor-makarov/BeaconKit) - Beacon 检测框架 ns Swift 使用 CoreBluetooth，支持 Eddystone-UID、Eddystone-URL、AltBeacon、iBeacon.
 
 ## Linux
 
@@ -191,7 +190,7 @@
 
 ## Windows
 
-* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) -开源库和指向与Eddystone和iBeacon信标对话的应用程序的链接
+* [Universal Bluetooth Beacon Library](https://github.com/andijakl/universal-beacon) - 开源库和应用程序链接以与 Eddystone 和 iBeacon 信标对话
 
 ## Bluetooth Low Energy
 
@@ -199,14 +198,14 @@
 
 ## Bluetooth Smart & BLE Tools
 
-* [nRF Master Control Panel (BLE)](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp) nRF主控制面板是功能强大的通用工具，可让您扫描和浏览Bluetooth Smart（BLE）设备并与它们通信.
+* [nRF Master Control Panel (BLE)](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp) nRF Master Control Panel 是一款功能强大的通用工具，可让您扫描和探索您的蓝牙智能 (BLE) 设备并与它们通信.
 * [LightBlue Mac OSX](https://itunes.apple.com/de/app/lightblue/id639944780?mt=12)
-[(or iOS)](https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8) LightBlue可以测试所有使用低功耗Bluetooth 4.0的设备（也称为Bluetooth Smart或Bluetooth Light）.
-* [BlueSpeed for iOS by Punch Through](https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8) 在2个iOS设备之间运行Bluetooth LE速度测试
+[(or iOS)](https://itunes.apple.com/us/app/lightblue-bluetooth-low-energy/id557428110?mt=8) LightBlue 可以测试您所有使用蓝牙 4.0 低功耗（也称为蓝牙智能或蓝牙灯）的设备.
+* [BlueSpeed for iOS by Punch Through](https://itunes.apple.com/us/app/bluespeed/id579118786?mt=8) 在 2 个 iOS 设备之间运行蓝牙 LE 速度测试
 
 ## Web Bluetooth API
 
-* [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) 歌剧
+* [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) 通过歌剧
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos)
 
 ## Beacon Developer Kits & BLE Chips
@@ -222,21 +221,21 @@
 
 ## Proximity Trends & Outlook
 
-* [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) 苹果公司的iBeacon即将中断交互设计的4个原因
-* [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) -Wi-Fi Aware™是一项新的Wi-Fi联盟认证计划，它通过实时，节能的发现机制扩展了Wi-Fi的功能，该机制可立即提供丰富的即时经验.
+* [Wired](http://www.wired.com/2013/12/4-use-cases-for-ibeacon-the-most-exciting-tech-you-havent-heard-of/) Apple 的 iBeacon 即将颠覆交互设计的 4 个原因
+* [Wi-Fi Aware™](http://www.wi-fi.org/discover-wi-fi/wi-fi-aware) - Wi-Fi Aware™ 是一项新的 Wi-Fi 联盟认证计划，它通过实时和节能的发现机制扩展 Wi-Fi 的功能，提供立即进入丰富的此时此地的体验.
 
 
 ## Vendor-driven Beacon Standardization
 
-* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) 使用BeaconCtrl开源平台设置和管理大型信标部署
+* [BeaconCtrl](https://github.com/upnext/BeaconCtrl) 使用 BeaconCtrl 开源平台设置和管理大型信标部署
 * [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
 
 ---
 
-蓝牙，苹果，谷歌，iBeacon，Eddystone和其他商标是其各自商标所有者的财产.
+Bluetooth、Apple、Google、iBeacon、Eddystone 和其他商标是其各自商标所有者的财产.
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Square Metrics GmbH](http://www.squaremetrics.com/) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Square Metrics GmbH](http://www.squaremetrics.com/) 已放弃该作品的所有版权和相关或邻接权.

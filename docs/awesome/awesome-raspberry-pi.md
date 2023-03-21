@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="thibmaek/awesome-raspberry-pi"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -18,7 +17,7 @@
 
 完整的（消费者）Raspberry Pi 模型集合包括：
 
-- Raspberry Pi 1, Model A & Model B (2012, discontinued)
+- Raspberry Pi 1，A 型和 B 型（2012 年，停产）
 - [Raspberry Pi 1, Model B+](https://www.raspberrypi.org/products/raspberry-pi-1-model-b-plus/) （2014 年 7 月）
 - [Raspberry Pi 1, Model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model-a-plus/) （2014 年 11 月）
 - [Raspberry Pi 2, Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) （2015 年 2 月）
@@ -27,7 +26,7 @@
 - [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) （2017 年 2 月）
 - [Raspberry Pi 3, Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) （2018 年 3 月）
 - [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) （2018 年 11 月）
-- [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) （2019 年 6 月）
+- [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) (June, 2019)
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （2020 年 11 月）
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico) （2021 年 1 月）
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) （2021 年 10 月）
@@ -44,7 +43,7 @@
 - [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) - 直接启动进入全屏 Chrome 的图像，非常适合仪表板和构建监视器. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Channels DVR Server](https://getchannels.com/raspberry-pi/) - 频道 DVR 服务器的自定义图像，它提供了一个完整的家庭 DVR 系统.
 - [Debian](https://raspi.debian.net) - Raspberry Pi 的非官方 Debian 映像（由 Debian 开发人员维护）.
-- [DietPi](https://github.com/Fourdee/DietPi) - 设计为适合 2GB SD 卡的最小图像，具有大量可配置设置和脚本.
+- [DietPi](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) - WifiBroadcast 扩展，真正替代 DJI Lightbridge 和其他类似系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) - 经济实惠的无线数字高清视频传输变得简单. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) - FabScanPi 是使用 Raspberry Pi 摄像头模块的开源 3D 激光扫描仪. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
@@ -108,12 +107,12 @@
 - [Hardened Kernel Builder for RPi](https://github.com/tschaffter/raspberry-pi-kernel-hardened) - 使用单个命令为 Raspberry Pi 交叉编译具有增强安全性的 Linux 内核.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT，包括重要的健康监测，如心电图、呼吸、脉搏血氧仪和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) - 8MB 的 Wifi AP + 客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/), 使用 REST API 同时控制 wifi 客户端和站模式. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
-- [ndm](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
+- [ndm](https://github.com/gitbls/ndm) - 用于轻松管理 DNS 和 DHCP 服务器的命令行工具.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - 将 Raspberry Pi 设置为 OpenVPN 服务器的 Shell 脚本.
-- [Orangetool](https://github.com/Moduland/Orangetool) - Python 中单板计算机的控制功能.
+- [Orangetool](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  - 用于创建 raspberrypi.org Raspbian 图像的工具. 这可用于创建您自己的自定义图像，并安装特定的软件包等.
 - [Pieman](https://github.com/tolstoyevsky/pieman) - 用于创建基于 Raspbian、Devuan、Ubuntu 和 Alpine Linux 的自定义图像的脚本.
-- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 图像.
+- [Pimod](https://github.com/Nature40/pimod) - 使用类似 Docker 的简单配置文件重新配置 Raspberry Pi 映像.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) - 自动缩小 pi 图像的 Bash 脚本，然后在启动时将其调整为 SD 卡的最大大小.
 - [pistrong](https://github.com/gitbls/pistrong)  - 管理受证书保护的 strongSwan VPN. 用于客户端-服务器、站点到站点和主机到主机 VPN 的安装程序和命令行工具.
 - [PiVPN](https://pivpn.io) - 使用单个 bash 命令创建功能齐全的 OpenVPN/WireGuard VPN 服务器.
@@ -148,7 +147,7 @@
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky 被几乎所有带有 USB 端口的东西识别为 USB HID，因此您可以像键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) - 用于监控 DOCSIS 有线网络下游负载的工具.
 - [Drumbooth controller with touch interface](https://github.com/FDelporte/DrumBoothController) - 使用 Java、JavaFX、Pi4J 和 Arduino 来控制 8 个继电器和 LED 灯条的项目.
-- [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA Hash Grabbing Bluetooth Peripheral / Android App.
+- [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) - WPA 哈希抓取蓝牙外设/Android 应用程序.
 - [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - 婴儿监视器，包括自定义案例、服务器和客户端源代码. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Gaussmeter](https://github.com/gaussmeter/gaussmeter) - 项目利用 Raspberry Pi Zero W、WS2812B LED 和 Tesla API 来收集和显示 Tesla 的状态. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - 使用 7&quot; Raspberry Pi 显示器模仿哈利波特的预言家日报.
@@ -211,7 +210,7 @@
 - [TeslaCam](https://github.com/LelandSindt/teslacam) - 项目使用 Raspberry Pi Zero W 进行 USB 大容量存储仿真，使用 PiJuice 收集和存档 TeslaCam 视频. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [USB Proxy](https://github.com/AristoChen/usb-proxy) - 一个 USB 中间人项目，允许用户监视和修改主机和设备之间的 USB 数据包流.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - 使用倾斜和平移激光在唱片集中查找唱片.
-- [Voice Kit](https://aiyprojects.withgoogle.com/voice) - 来自 Google 的 AIY Voice Kit，用于使用 Google Assistant 构建独立的语音识别系统，或将语音识别和自然语言处理添加到基于 Raspberry Pi 的项目中.
+- [Voice Kit](https://aiyprojects.withgoogle.com/voice) - 来自 Google 的 AIY Voice Kit，使用 Google Assistant 构建独立的语音识别系统，或将语音识别和自然语言处理添加到基于 Raspberry Pi 的项目中.
 - [Waves](https://github.com/euniceylee/waves) - 通过麦克风、波形和热敏打印机，将口语的瞬变转化为具体和物理的东西.
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - 使用 Hifiberry DAC 的交互式声音艺术安装.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) - 在具有动态 DNS 的容器中运行 Wordpress 站点.
@@ -227,7 +226,7 @@
 - **家庭远程控制** - 控制鼠标/键盘、音量、管理下载/上传文件、自定义命令、终端、执行未来任务、控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 - **Kore Remote** - 控制 Kodi 的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
  - **RasPi Check** - 检查 Pi 统计数据 - 频率、温度、电压和更多系统信息（可用内存、运行时间、磁盘状态）. 您还可以重新启动或停止 Raspberry Pi 并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
-- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，查看来自连接的摄像头的图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
+- **RaspController** - 远程管理您的 Raspberry Pi，控制 GPIO 端口，直接通过终端发送命令，从连接的摄像头查看图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
 - **Raspicast** - 从您的 Android 设备投射 YouTube 视频、媒体内容、播放本地媒体文件、在您的 Raspberry Pi 上播放来自播放列表（m3u，请）的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 - **屏幕流镜像** - 将您的手机屏幕直接流式传输到 Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 - **TeamViewer** - 在旅途中远程访问 Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
@@ -252,7 +251,7 @@
 
 ### Books
 
-- [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - 教您如何使用 Docker Compose、MQTT 和 TLS 将 Raspberry Pi 变成安全、模块化、开源和自托管的家庭自动化网关.
+- [Control Your Home with Raspberry Pi](https://koen.vervloesem.eu/books/control-your-home-with-raspberry-pi/) - Teaches you how to turn a Raspberry Pi into a secure, modular, open source and self-hosted home automation gateway with Docker Compose, MQTT and TLS.
 - [Essentials - AIY Voice Projects](https://magpi.raspberrypi.com/books/essentials-aiy-v1) - 使用 Google 的 AIY Project Kit，了解如何在 Raspberry Pi 上使用人工智能. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Essentials - Camera Module Guide](https://magpi.raspberrypi.com/books/essentials_camera_v1) - 如何在 Raspberry Pi 上使用 Raspberry Pi Foundation 的相机模块.
 - [Essentials - Code Music with Sonic Pi](https://magpi.raspberrypi.com/books/essentials-sonic-pi-v1) - 了解如何通过在 Raspberry Pi 上使用 Sonic Pi 编码来创作音乐.
@@ -308,7 +307,7 @@
 - [BuildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) - 在 RaspberryPi 或其他 ARM 板上构建 Swift 所需的一切，已更新至 Swift 4.1.3.
 - [Compile Swift for Raspberry Pi by Visual Studio Code](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-visual-studio-code-3f303e32d34e) - 快速教程分享如何帮助设置使用 Visual Studio Code 编译 Raspberry Pi 代码.
 - [Compile Swift for Raspberry Pi by Xcode](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-xcode-406ac26b63ec) - 快速教程分享如何帮助设置使用 Xcode 编译 Raspberry Pi 代码.
-- [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - Quick guide to help setup Swift environment on Raspbian stretch (lite).
+- [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - 帮助在 Raspbian stretch (lite) 上设置 Swift 环境的快速指南.
 - [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) - 用于 Linux/ARM 板上硬件项目的 Swift 库，支持 GPIO/SPI/I2C/PWM/UART/1Wire.
 - [Swish](https://github.com/thomaspaulmann/Swish) - 在 Xcode 中的远程机器上构建 Swift 项目.
 

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="uraimo/awesome-software-patreons"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?color=%2377dddd&style=flat-square)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
 &gt; 您可以支持的优秀程序员和软件项目的精选列表！
@@ -78,7 +77,7 @@ _使用开源许可证发布的项目._
 - [postActiv](https://www.patreon.com/postActiv) - 微博平台.
 - [Project Lombok](https://www.patreon.com/lombok) - Java 编辑器插件.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit 浏览器扩展.
-- [Remmina](https://remmina.org/donations/) - Remote desktop client.
+- [Remmina](https://remmina.org/donations/) - 远程桌面客户端.
 - [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - 遵循 Q/A（问答）原则的社交网络.
 - [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - 分布式和安全的点对点协议和社交网络.
 - [ShareX Team](https://www.patreon.com/ShareX) - 屏幕截图和屏幕共享工具.
@@ -164,10 +163,10 @@ _游戏和游戏相关项目._
 - [MelonDS](https://www.patreon.com/m/Arisotura) - 任天堂 DS 模拟器.
 - [Play!](https://www.patreon.com/jpd002) - PS2模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.
-- [Ryujinx](https://www.patreon.com/ryujinx) - 任天堂开关模拟器.
+- [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.
 - [Xemu](https://www.patreon.com/mborgerson) - Xbox 模拟器.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 模拟器.
-- [yuzu](https://www.patreon.com/yuzuteam) - 任天堂开关模拟器.
+- [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
 
 ### Open Source Art
 _创建艺术项目并为与艺术相关的开源工具和库做出贡献的开发人员._
@@ -264,7 +263,7 @@ _为多个项目做出贡献的开发人员要求支持他们的工作._
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - 开源工具和游戏.
 - [Rob Landley](https://www.patreon.com/landley) - 从事 Toybox、mkroot 和其他各种项目.
 - [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) - 游戏的 Linux 端口，游戏相关的实用程序.
-- [Sanjay Madan](https://paypal.me/mowgliiapps), [#2](https://cash.me/$Mowglii) - Mowglii apps, author of Itsycal and Snk.
+- [Sanjay Madan](https://paypal.me/mowgliiapps), [#2](https://cash.me/$Mowglii) - Mowglii 应用程序，Itsycal 和 Snk 的作者.
 - [Scarlett Moore](https://www.patreon.com/sgclark) - KDE 贡献者.
 - [Scott Lahteine](https://www.patreon.com/thinkyhead) - 3D 打印机 Marlin 固件的贡献者.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - 无数的开源项目.
@@ -304,7 +303,7 @@ _文章、视频、播客等……_
 
 ### Podcasts
 
-- [CPP Cast](https://www.patreon.com/CppCast) - 面向 C++ 开发人员的播客.
+- [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
 - [Destination Linux](https://www.patreon.com/destinationlinux) - Linux 讨论和新闻相关播客.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux 和新闻.
 - [More Than Just Code](https://www.patreon.com/mtjc) - 适用于 iOS 开发人员的播客.

@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-observables"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Observables [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 安 [Observable](https://github.com/zenparsing/es-observable) 是一个随时间到达的集合.  Observable 可用于对基于推送的数据源进行建模，例如事件、计时器间隔、异步请求和动画. 可以使用类似数组的方法来转换、组合和使用 Observable.
+&gt; 一个 [Observable](https://github.com/zenparsing/es-observable) 是一个随时间到达的集合.  Observable 可用于对基于推送的数据源建模，例如事件、计时器间隔、异步请求和动画.  Observable 可以使用类似数组的方法进行转换、组合和使用.
 
-*请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) 在贡献之前. *
+*请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/master/contributing.md) 在贡献之前.*
 
 
 
@@ -25,15 +24,15 @@
 - [is-observable](https://github.com/sindresorhus/is-observable) - 检查一个值是否是一个 Observable.
 - [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - 将 Observable 转换为 Promise.
 - [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - 将 Node.js 流转换为 Observable.
-- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` 小马填充.
-- [obsify](https://github.com/samverschueren/obsify) - Observableify 回调式函数.
+- [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.
+- [obsify](https://github.com/samverschueren/obsify) - 可观察化回调函数.
 - [localForage-observable](https://github.com/thgreasi/localForage-observable) - localForage 的 Observables.
 
 ## Libraries
 
-*这些是利用 Observable 功能的库，不一定是规范兼容的 Observable 实现.*
+*这些是利用 Observable 强大功能的库，不一定是规范兼容的 Observable 实现.*
 
-- [Cycle.js](http://cycle.js.org) - 一个功能性和反应性的 JavaScript 框架，用于更清晰的代码.
+- [Cycle.js](http://cycle.js.org) - 一个功能性和响应式 JavaScript 框架，用于更清晰的代码.
 
 ## Articles
 

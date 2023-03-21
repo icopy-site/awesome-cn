@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="notlmn/awesome-icons"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Icons [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; 精选的可下载 SVG/PNG/字体图标项目列表
@@ -51,7 +50,7 @@
 - [Cryptocoins](https://github.com/AllienWorks/cryptocoins#readme) - 您最喜欢的加密货币的完整矢量/网络字体图标包.
 - [Cryptocurrency icons](https://github.com/atomiclabs/cryptocurrency-icons#readme)  - 所有主要加密货币和山寨币的一组图标.  ([Website](http://cryptoicons.co))
 - [Dev icons](https://github.com/vorillaz/devicons#readme)  - 为开发人员制作的标志性字体.  ([Website](http://vorillaz.github.io/devicons))
-- [Devicon](https://github.com/devicons/devicon#readme)  - 旨在收集所有代表开发语言和工具的标识.  ([Website](https://devicons.github.io/devicon))
+- [Devicon](https://github.com/devicons/devicon#readme)  - 旨在收集所有代表开发语言和工具的标志.  ([Website](https://devicons.github.io/devicon))
 - [Simple icons](https://github.com/simple-icons/simple-icons#readme)  - 流行品牌的免费 SVG 图标.  ([Website](https://simpleicons.org))
 - [VectorLogoZone](https://github.com/VectorLogoZone/vectorlogozone#readme)  - 大小/格式一致的 SVG 徽标.  ([Website](https://www.vectorlogo.zone/))
 

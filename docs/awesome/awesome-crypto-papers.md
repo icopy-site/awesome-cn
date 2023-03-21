@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="pFarb/awesome-crypto-papers"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 精选清单 [cryptography](https://en.wikipedia.org/wiki/Cryptography) 非密码学家的论文、文章、教程和指南.
 
@@ -9,7 +8,7 @@
 
 ### Notes 
 
-此列表的目标是为不同级别的密码知识提供教育阅读材料. 我开始它是因为我的日常工作是入职工程师 [Cossack Labs](https://www.cossacklabs.com) 包括对他们进行密码学方面的教育，并就特定主题给出阅读内容的建议，这涉及反复查找相同的材料. 希望它对其他人也有用. 
+The goal of this list is to provide educational reading material for different levels of cryptographic knowledge. I started it because my day job onboarding engineers at [Cossack Labs](https://www.cossacklabs.com) 包括对他们进行密码学方面的教育，并就特定主题给出阅读内容的建议，这涉及反复查找相同的材料. 希望它对其他人也有用. 
 
 它面向在更高级别安全系统中使用密码学实现各种方案的数据库加密、安全共享、端到端加密的人员，应该了解它是如何工作的，它是如何失败的，它是如何被攻击的. 它不是著名/重要/历史上重要的论文列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都能更好地掌握他们需要的东西），也不是针对想成为密码学家的系统研究（他们在专业指导下更好地遵循结构化方法）. 
 
@@ -79,7 +78,7 @@
 * [Ongoing Research Areas in Symmetric Cryptography](https://web.archive.org/web/20220209130448/https://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - ECRYPT 密码学卓越网络对秘密密钥加密和哈希的持续研究的概述.
 * [The Galois/Counter Mode of Operation (GCM)](https://web.archive.org/web/20221007191258/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - 介绍 GCM 的原始论文，由 David A. McGrew 和 John Viega 撰写.
 * [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - GCM 的设计、分析和安全性，更具体地说，AES GCM 模式，作者：David A. McGrew 和 John Viega.
-* [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - 具有更高反冲突概率的 AES GCM 随机数生成分析和算法，作者 Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata.
+* [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - 具有更高反冲突概率的 AES GCM 随机数生成的分析和算法，作者 Yuichi Niwa、Keisuke Ohashi、Kazuhiko Minematsu、Tetsu Iwata.
 * [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - Eugene Pilyankevich、Dmytro Kornieiev、Artem Storozhuk 对现有可搜索加密方案的概述，以及基于 AES-GCM、盲索引和布隆过滤器的方案分析.
 
 #### Cryptanalysis
@@ -89,7 +88,7 @@
 * [Self-Study Course in Block Cipher Cryptanalysis](https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html) - 尝试以一种学生可以用来学习密码分析技术和破解新算法的方法的方式组织现有的块密码密码分析文献，作者 Bruce Schneier.
 * [Statistical Cryptanalysis of Block Ciphers](http://crypto.junod.info/phdthesis.pdf) - 帕斯卡尔朱诺.
 * [Cryptanalysis of block ciphers and protocols](https://web.archive.org/http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - Elad Pinhas Barkan 着.
-* [Too much crypto](https://eprint.iacr.org/2019/1492.pdf) - Analysis of number of rounds for symmetric cryptography primitives, and suggestions to do fewer rounds, by Jean-Philippe Aumasson.
+* [Too much crypto](https://eprint.iacr.org/2019/1492.pdf) - Jean-Philippe Aumasson 对对称加密原语的轮数分析，以及减少轮数的建议.
 * [How to Break MD5 and Other Hash Functions](https://iacr.org/archive/eurocrypt2005/34940019/34940019.pdf) - 2005 年关于 MD5、MD4 和其他哈希函数的模块化差分碰撞攻击的论文，作者 Xiaoyun Wang 和 Hongbo Yu.
 * [New attacks on Keccak-224 and Keccak-256](https://www.iacr.org/archive/fse2012/75490447/75490447.pdf) - Itai Dinur、Orr Dunkelman、Adi Shamir 在 2012 年发表的一篇关于结合使用差分和代数技术对 SHA-3 进行碰撞攻击的论文.
 * [A Single-Key Attack on the Full GOST Block Cipher](https://www.iacr.org/archive/fse2011/67330297/67330297.pdf) - 对 GOST 分组密码的攻击（“Reflection-Meet-inthe-Middle Attack”）允许通过 2^225 次计算和 2^32 已知明文恢复密钥，作者 Takanori Isobe.

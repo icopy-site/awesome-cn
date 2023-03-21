@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ellisonleao/magictools"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
     <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
 </h1>
@@ -33,7 +32,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：money_with_wings： [CGTextures](http://www.textures.com) - 大量的纹理.
 - ：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发者与才华横溢的资产创造者联系起来.
 - ：自由的： [Games-Icons Set](http://game-icons.net/) - 为您的游戏提供免费图标.
-- ：自由的： [Iconmonstr](http://iconmonstr.com/) - 另一个免费的游戏图标资源.
+- ：自由的： [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 - ：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 - ：自由的： [Liberated Pixel Cup assets](http://lpc.opengameart.org) - OpenGameArt 论坛举办的 Liberated Pixel Cup (LPC) 的免费图形资产
 - ：自由的： [Matcaps](https://github.com/nidorx/matcaps#matcaps) - 一个巨大的 PNG 和 ZMT matcap 纹理库，按颜色组织.
@@ -162,7 +161,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [6502 Unit Test executor](https://github.com/AsaiYusuke/6502_test_executor)  - 用于 MOS 6502 组装的跨平台单元测试工具.  （即红白机）
 - ：然后： [Allegro](http://liballeg.org/) - Allegro 4 和 5 是跨平台的开源游戏编程库，主要面向 C 和 C++ 开发人员.
 - ：然后： [Amethyst](https://www.amethyst.rs/) - 使用 `gfx-rs` 为 2D 和 3D 用 Rust 编写的数据驱动游戏引擎.
-- ：然后： [amulet](http://www.amulet.xyz/)  - 一个免费的基于 Lua 的音频/视觉工具包，适用于小游戏和实验. 它可以在 Windows、Mac、Linux、HTML5 和 iOS 上运行.
+- ：然后： [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 - ：然后： [asimov-ts](https://github.com/pedrozaalex/asimov-ts) - 用 TypeScript 编写的 web 类型安全（尽可能）引擎.
 - ：然后： [Astera](https://github.com/tek256/astera) - 2D C99 跨平台游戏库/框架
 - :tada: [axys] (https://github.com/axys1/axys) - Cocos2d-x-4.0 的一个分支，它完全支持所有平台的 OpenAL、单纹理多 GPU 纹理处理程序和 C++ 17.
@@ -183,7 +182,7 @@ _游戏框架、引擎和平台集_
 - ：自由的： [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator 是一款免费的跨平台游戏开发编辑器，支持 Cocos2d-js，帮助开发者快速高效地构建 2D 和 3D 游戏场景，编辑游戏 UI 和其他游戏资源.
 - ：然后： [Cocos2D](https://github.com/los-cocos/cocos) - 用于游戏和多媒体的图形库，用于 python 语言
 - ：然后： [Cocos2d-x](http://cocos2d-x.org/)  - C++ OpenGL 2D 和 3D 游戏引擎. 使用 C++ 但具有 JS 和 Lua 绑定. 针对所有主要的移动平台和操作系统. 附加工具 CocoStudio 和 Cocos Code IDE.
-- ：钱袋子： [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
+- ：钱袋子： [Construct](https://www.scirra.com/)  - 一个 HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您使用动作、事件和条件来完成繁重的工作.
 - ：money_with_wings： [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体式 3D 游戏引擎.非常易于使用.
 - ：然后： [Coquette](http://coquette.maryrosecook.com/)  - 用于 JavaScript 游戏的微框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
 - ：然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过其可视化工具、良好的文档和灵活的模块化库使学习编程变得有趣和游戏开发变得容易.
@@ -191,7 +190,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Dear Imgui](https://github.com/ocornut/imgui/) - 用于 C++ 的无膨胀即时模式 GUI，具有最小的依赖性.
 - ：然后： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
 - ：然后： [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - 从具有纹理、法线贴图、glTF、OBJ、STL 支持的真实数据生成地形
-- ：然后： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - 支持 Direct3D11、Direct3D12、OpenGL/GLES 和 Vulkan 的现代跨平台低级图形库.
+- ：然后： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
 - ：然后： [E.B.U.R.P](http://pents90.github.io/eburp/) - 八位通用角色扮演引擎
 - ：然后： [ENGi](https://github.com/ajhager/engi) - 用于围棋的多平台 2D 游戏库.
 - ：然后： [engo](https://engoengine.github.io/) - Engo 是一个用 Go 编写的开源 2D 游戏引擎.
@@ -214,7 +213,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Godot](http://www.godotengine.org/) - 一个先进的、功能丰富的、多平台的 2D 和 3D 开源游戏引擎.
 - ：然后： [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 - ：然后： [Grid](https://github.com/Planimeter/game-engine-2d) - Lua 的多人优先游戏引擎.
-- ：然后： [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
+- ：然后： [HaxeFlixel](http://haxeflixel.com/) - 更轻松、免费地创建跨平台游戏.
 - ：然后： [Heaps](https://heaps.io/) - 高性能游戏的跨平台图形.
 - ：然后： [Horde3D](http://www.horde3d.org/) - 小型开源 3D 渲染引擎.
 - ：然后： [iio.js](https://github.com/iioinc/iio.js) - 一个 javascript 库，可加速 HTML5 Canvas 应用程序的创建和部署
@@ -261,7 +260,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 二维物理库
 - ：然后： [Panda3D](https://www.panda3d.org/) - 用于 Python 和 C++ 程序的 3D 渲染和游戏开发框架.
 - ：然后： [Phaser](http://phaser.io/) - 免费快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
-- ：然后： [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
+- ：然后： [Piston](http://www.piston.rs/) - 用 Rust 编写的模块化开源游戏引擎.
 - ：然后： [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - ：然后： [PixiJS](http://www.pixijs.com/)  - 是一个新的 HTML5 游戏渲染器 - 于 2013 年初首次发布.该引擎的主要吸引力在于它使用 WebGL 来提高性能. 如果不支持 WebGL，引擎会回退到标准画布.
 - ：然后： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台 HTML5 游戏开发的 2D JavaScript 物理引擎.
@@ -277,7 +276,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Rpgboss](http://rpgboss.com)  - 基于 scala 和 libgdx 的 2d rpg 游戏引擎和编辑器. 易于使用，无需编程知识.
 - ：自由的： [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple 专有的 3D 游戏引擎（适用于 macOS、iOS、iPadOS、tvOS 和 watchOS）.
 - ：然后： [Screen 13](https://github.com/attackgoat/screen-13)  - 易于使用的 Vulkan 渲染引擎. 为 Rust 提供渲染图.
-- ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、游戏杆和图形硬件的低级访问.
+- ：然后： [SDL](http://libsdl.org/) - SDL 是一个跨平台库，旨在通过 OpenGL 和 Direct3D 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问.
 - ：然后： [SFML](http://www.sfml-dev.org/) - 简单快速的多媒体库.
 - ：然后： [Solar2D](https://solar2d.com/) - 基于 Lua 的游戏引擎，专注于迭代和使用的便利性.
 - ：然后： [Solarus](https://www.solarus-games.org/) - 带有 Lua API 和游戏编辑器的跨平台 2D 动作/冒险 C++ 游戏引擎.
@@ -294,7 +293,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有身临其境的 3D 效果和实时物理效果，打开了一个前所未有的非凡网络内容的全新世界.
 - ：然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅基于文本，还支持音乐、图像和声音效果. 基本的文字冒险游戏只需要很少的编码知识.
 - ：money_with_wings： [Unity 3D](http://unity3d.com/) - 用于创建 2D 和 3D 游戏和交互式内容的开发引擎.
-- ：money_with_wings： [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
+- ：money_with_wings： [Unreal Engine 4](https://www.unrealengine.com/) - Epic Games 开发的新游戏引擎技术.
 - ：然后： [Urho3D](http://urho3d.github.io/) - 跨平台渲染和游戏引擎.
 - ：然后： [ursina](https://www.ursinaengine.org/) - 由 python 和 panda3d 驱动的游戏引擎.
 - ：然后： [Vassal](http://www.vassalengine.org/)  - Vassal 是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编. 在 Internet 上或通过电子邮件进行现场直播.  Vassal 可在所有平台上运行，并且是免费的开源软件.
@@ -332,7 +331,7 @@ _音频编辑器、声音收藏等等._
 - ：自由的： [FamiTracker](http://famitracker.com/) - 用于为 NES/Famicom 系统制作音乐的免费 Windows 跟踪器.
 - ：然后： [jfxr](http://jfxr.frozenfractal.com) - Bfxr 音效生成器的 JavaScript 端口.
 - ：然后： [LMMS](https://lmms.io/) - 跨平台音乐制作软件.
-- ：自由的： [MadTracker](http://www.madtracker.org/main.php)  - 一种强大而高效的音乐制作方法. 全面的 VST™、ASIO™ 和 ReWire™ 支持保证了多功能性和兼容性.
+- ：自由的： [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 - ：然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - 适用于 Mac/Linux/Windows 平台的开源跟踪器.
 - ：然后： [musagi](http://www.drpetter.se/project_musagi.html) - 开源、相当大和复杂的音乐编辑器和合成器
 - ：钱袋子： [Resemble](https://www.resemble.ai/unity) - Unity 中的 Resemble 语音克隆引擎

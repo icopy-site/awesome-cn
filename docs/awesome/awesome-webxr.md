@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="msub2/awesome-webxr"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome WebXR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/msub2/awesome-webxr/master/webxr-logo.svg?sanitize=true" align="right" width="100">](https://immersiveweb.dev/)
@@ -46,7 +45,7 @@
 
 *在沉浸式体验中创建和使用 3D 化身的资源.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿部 IK、通过视位的面部动画等. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
+- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿 IK、通过视位进行面部动画等功能. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以下载 glTF 格式.
 - [VRoid](https://vroid.com/en) - 让您创建动漫风格的 3D 头像，导出为高度兼容的 .vrm 格式.
 
@@ -92,7 +91,7 @@
 - [Hatsumi](https://www.hatsumivr.com/) - 设计工作室在医疗保健和艺术的交汇处开发经验.
 - [Immers Space](https://web.immers.space/) - 一个分布式合作组织 (DisCO)，专注于启用开放和联合的沉浸式 Web 内容.
 - [Laguna Labs](https://lagunalabs.io/) - 身临其境的网络技术机构.
-- [Playko Software](https://www.playko.com/) - VR/AR/WebXR 代理和 WebXR 游戏开发工作室.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - 专注于教育和社会公平倡议的数字沉浸式体验设计工作室.
 - [Sketchfab](https://sketchfab.com/) - 提供 VR 预览器的 3D 模型市场.
 - [Third Axis](https://thirdaxis.io/) - 位于纽约市的设计工作室，可在网络上创建 3D、AR 和 VR 内容.
@@ -140,7 +139,7 @@
 - [A-Frame](https://aframe.io/) - 允许您使用构建在 three.js 之上的声明性 HTML 和自定义 JavaScript 组件来创建 VR 体验.
   - [Official Documentation](https://aframe.io/docs/)
 
-- [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
+- [Babylon.js](https://www.babylonjs.com/) - 一个功能强大且功能丰富的渲染引擎，打包到 JavaScript 框架中.
   - [Official Documentation](https://doc.babylonjs.com/)
 
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - JanusVR 的浏览器内实现，可让您构建社交 VR 体验.

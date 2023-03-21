@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="craftcms/awesome"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Craft CMS ![Awesome](https://badgen.net/badge/icon/Resources?icon=awesome&label=Craft%20CMS&labelColor=red&color=black)
 
 官方名单 [awesome](https://github.com/topics/awesome) 制作 CMS 资源、文章和其他闪亮的东西.
@@ -48,7 +47,7 @@
 - [Meetups](https://craftcms.com/meetups) - 寻找当地的 Craft 聚会.
 - [StackExchange](https://craftcms.stackexchange.com) - 针对管理员、最终用户、开发人员和设计人员的问答.
 - [Twitter](https://twitter.com/craftcms) - 关注对话，官方社区标签是 [`#craftcms`](https://twitter.com/hashtag/craftcms).
-- [Mastodon](https://mastodon.social/@CraftCMS) - Latest news, on the newest network.
+- [Mastodon](https://mastodon.social/@CraftCMS) - 最新消息，在最新的网络上.
 - [Work With Craft](https://www.workwithcraft.com/) - 专门的工作委员会旨在将雇主与工艺专业人士联系起来.
 
 ---
@@ -303,7 +302,7 @@
 - [Making a Craft CMS Website That Flies](https://speakerdeck.com/nystudio107/making-a-craft-cms-website-that-flies) 作者：Andrew Welch - `2018 年 9 月 27 日`
 - [Modern Frontends with Craft CMS, GraphQL, and React](https://pauloelias.github.io/modern-frontends-craft-react-graphql-v1/#0) 保罗埃利亚斯
 - [Multilingual Sites in Craft 3](https://speakerdeck.com/drifteaur/multilingual-sites-in-craft-3) 作者：Zoltan Varady - `2018 年 9 月 27 日`
-- [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) 作者 Bob Olde Hampsink - `2018 年 9 月 27 日`
+- [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) by Bob Olde Hampsink - `27 Sep 2018`
 - [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) 作者：Matt Weinberg - `2018 年 9 月 28 日`
 - [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) 作者：Brandon Kelly - `2018 年 9 月 28 日`
 - [The Art Of Plugin Development](https://speakerdeck.com/putyourlightson/the-art-of-plugin-development) 作者：Ben Croker - `2018 年 9 月 27 日`
@@ -404,7 +403,7 @@
 - [Intel: Managed Service Providers](http://msp.intel.com)
 - [Klipsch](http://www.klipsch.com)
 - [LA Marathon](http://lamarathon.com)
-- [Layer Tennis](http://www.layertennis.com) - 一种 [Coudal Partners](http://coudal.com/) 生产赞助 [Adobe](https://www.adobe.com/).
+- [Layer Tennis](http://www.layertennis.com) - A [Coudal Partners](http://coudal.com/) 生产赞助 [Adobe](https://www.adobe.com/).
 - [Medialoot](https://medialoot.com)
 - [Mini: Miles Ahead](http://www.bemilesahead.net/)
 - [Mixmag Media](http://mixmag.net)

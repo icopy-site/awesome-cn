@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="cpuu/awesome-fuzzing"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Fuzzing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) 或模糊测试是一种自动化软件测试技术，涉及提供无效、意外或随机数据作为计算机程序的输入. 然后监视程序是否存在崩溃、失败的内置代码断言或潜在的内存泄漏等异常. 通常，模糊器用于测试采用结构化输入的程序. 

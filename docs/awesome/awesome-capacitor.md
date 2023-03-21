@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="riderx/awesome-capacitor"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Capacitor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <div align="center">
@@ -32,7 +31,7 @@
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - 提供对本机操作表的访问.
 - [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - 处理高级应用程序状态和事件. 
 - [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - 允许检查应用程序是否可以打开并打开它.
-- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的能力.
+- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的功能.
 - [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - 提供使用相机拍照或从相册中选择现有照片的功能.
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - 启用复制和粘贴到/从系统剪贴板.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - 公开有关设备的内部信息，如型号和操作系统版本，以及用户信息，如唯一 ID.
@@ -93,7 +92,7 @@
 - [Screen brightness](https://github.com/capacitor-community/screen-brightness) - 控制 iOS 和安卓的屏幕亮度.
 - [Speech recognition](https://github.com/capacitor-community/speech-recognition) - 用于语音识别的本机插件.
 - [Sqlite](https://github.com/capacitor-community/sqlite) - 本机和电子 SQLite 数据库.
-- [Stripe](https://github.com/capacitor-community/stripe) - 用于电容器应用程序的条纹 SDK 绑定.
+- [Stripe](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
 - [Tauri](https://github.com/capacitor-community/tauri) - 支持 Tauri 平台.
 - [Text to speech](https://github.com/capacitor-community/text-to-speech) - 从文本合成语音.
 - [Twitter](https://github.com/capacitor-community/twitter) - 为 Capacitor 启用 TwitterKit 功能.
@@ -103,7 +102,7 @@
 拥有的插件 [Capgo organisation](https://github.com/Cap-go) 并由维护 [@riderx](https://github.com/riderx) 和 Open collective 的社区成员.
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的无线更新.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - 适用于您的应用程序的 Crisp 聊天 SDK.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - 切换设备的手电筒/手电筒.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - 检测静音模式和静音音频.
 - [Native audio](https://github.com/Cap-go/native-audio) - 用于本机音频引擎（叉）的电容器插件.
@@ -127,7 +126,7 @@
     - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - 用于 Firebase 性能监控的电容器插件.
     - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics 的电容器插件.
 - [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - 锁定/解锁屏幕方向.
-- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - 协助应用程序更新的电容器插件.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - 允许用户选择文件的电容器插件.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - 用于访问托管配置设置的电容器插件.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - 允许用户编辑照片的电容器插件.
@@ -191,7 +190,7 @@
 - [Sprig](https://github.com/crabbydavis/sprig) - 一体化产品研究平台.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - 为电容器启用平方支付.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - 总结移动 SDK.
-- [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+- [UDP](https://github.com/brugsel/capacitor-udp) - 同时支持 IPv6 和 IPv4，多播和广播.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - 在 IOS、Android、Web 和 Electron 平台上全屏播放视频.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Capacitor 的 Zalo 登录插件.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - 从系统相册中获取所有图片.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="enaqx/awesome-react"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 关于 React 生态系统的一系列精彩内容.
@@ -104,7 +103,7 @@
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用 React 组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - 为 ESLint 反应特定的 linting 规则
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - 用于 JSX 元素的 a11y 规则的静态 AST 检查器
-- [@axe-core/react](https://github.com/dequelabs/axe-core-npm) - React 应用程序的可访问性审核
+- [@axe-core/react](https://github.com/dequelabs/axe-core-npm) - React 应用程序的可访问性审计
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - 小型 JavaScript 编译器，可直接在网页上快速将 JSX 转换为 JS
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey 修补 React 以通知您有关可避免的重新渲染.
 - [Divjoy](https://divjoy.com) - React 代码库和 UI 生成器以加速开发（付费）
@@ -199,7 +198,7 @@
 - [react-dates](https://github.com/airbnb/react-dates) - 一个易于国际化、移动友好的网络日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - 日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS 日期选择器
-- [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
+- [react-list](https://github.com/orgsync/react-list) - 多功能无限滚动 React 组件
 - [react-intl](https://github.com/yahoo/react-intl) - 国际化 React 应用程序
 - [react-i18next](https://github.com/i18next/react-i18next) - 正确完成 React 的国际化
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - 完全可访问的 React 模态
@@ -211,7 +210,7 @@
 - [data-source](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - 为 Facebook 的 Flipper 中使用的流数据可视化提供支持的库
 - [react-text-mask](https://github.com/text-mask/text-mask) - React 的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - 创建自动适应您的应用程序的骨架屏幕
-- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
+- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - 一组加载指示器，使用 CSS for React 动画
 - [rheostat](https://github.com/airbnb/rheostat) - 使用 React 构建的可访问滑块组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) - 用于 React 的 QR 组件
 - [react-archer](https://github.com/pierpo/react-archer) - 在 React 元素之间绘制箭头
@@ -255,12 +254,12 @@
 - [react-i13n](https://github.com/yahoo/react-i13n) - 一种高性能、可扩展和可插入的方法来检测您的 React 应用程序
 - [react-icons](https://github.com/gorangajic/react-icons) - 流行图标包的 svg 反应图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) - 很棒的免费插图作为反应组件.
-- [Keo](https://github.com/Wildhoney/Keo) - 用于创建 React 组件的更具功能性的 Deku 方法的普通函数，具有管道、记忆等功能性好东西……
+- [Keo](https://github.com/Wildhoney/Keo) - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...
 - [Bit](https://github.com/teambit/bit) - 用于跨应用程序管理和使用 React 和其他 Web 组件的虚拟存储库
 - [AtlasKit](https://atlaskit.atlassian.com/) - Atlassian 的 React UI 库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) - Elasticsearch 的 UI 组件库
 - [Slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于构建富文本编辑器.
-- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - 通过将 JSON 定义映射到您公开的 React 组件，从 JSON 构造 React 元素.
+- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - 通过将 JSON 定义映射到您公开的 React 组件，从 JSON 构建 React 元素.
 - [react-lodash](https://github.com/typicode/react-lodash) - Lodash 作为 React 组件
 - [react-helmet](https://github.com/nfl/react-helmet) - React 文档主管
 - [react-snap](https://github.com/stereobooster/react-snap) - SPA 的零配置框架不可知静态预呈现
@@ -281,7 +280,7 @@
 - [ReasonReact](https://reasonml.github.io/reason-react/)
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
-- [om](https://github.com/swannodette/om) - ClojureScript 接口
+- [om](https://github.com/swannodette/om) - ClojureScript 界面
 - [Reagent](https://github.com/reagent-project/reagent) - React.js 的简约 ClojureScript 接口
 - [Express React views](https://github.com/reactjs/express-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
@@ -296,7 +295,7 @@
 - [NestedReact](https://github.com/Volicon/NestedReact/) - 与 Backbone Views 和 NestedTypes 模型的透明集成
 - [backbone-reaction](https://github.com/jhudson8/backbone-reaction) - React、Backbone 等等
 - [react.backbone](https://github.com/usepropeller/react.backbone) - React 插件使 Backbone 迁移更容易
-- [reactbone](https://github.com/andrejewski/reactbone) - 骨干的反应扩展
+- [reactbone](https://github.com/andrejewski/reactbone) - React extensions for Backbone
 - [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) - 与骨干和骨干分页器一起使用的反应组件
 - [react-events](https://github.com/jhudson8/react-events) - 反应组件的声明式托管事件绑定
 - [react-mixin-manager](https://github.com/jhudson8/react-mixin-manager) - React mixin 注册管理器
@@ -308,7 +307,7 @@
 - [gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react) - 使用 Gulp 将 Jade 模板编译成 React 脱糖 JSX
 - [sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs) - 使用 npm 反应 SBT 插件
 - [scalajs-react](https://github.com/japgolly/scalajs-react) - Scala.js 和 Facebook 的 React 之间的内疚
-- [react-xtags](https://github.com/vjeux/react-xtags/) - 使用 React 实现 xtags
+- [react-xtags](https://github.com/vjeux/react-xtags/) - Using React to implement xtags
 - [jreact](https://github.com/KnisterPeter/jreact) - 在服务器端 Java 上做出反应（使用 Rhino 或 Nashorn）
 - [React.hiccup](https://github.com/lantiga/react.hiccup) - 完全替代用 sweet.js 编写的 JSX
 - [react-play](https://github.com/ssorallen/react-play) - 使用 JDK8 的 Nashorn 在 Play Framework 中渲染 React 组件
@@ -343,7 +342,7 @@
 - [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且速度极快的状态管理
 - [effector](https://github.com/zerobias/effector) - 快速而强大的反应状态管理器
 - [reactn](https://github.com/CharlesStover/reactn) - React，但具有内置的全局状态管理
-- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
+- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - 基于可观察的状态管理，用于在 React 中构建的高性能游戏 UI
 
 ##### React AR and VR
 
@@ -674,7 +673,7 @@
 - [kibana](https://github.com/elastic/kibana) - 您进入 Elastic Stack 的窗口
 - [firefox debugger](https://github.com/firefox-devtools/debugger) - 随处可用的 Firefox 调试器
 - [spectrum](https://github.com/withspectrum/spectrum) – 简单、强大的在线社区
-- [mattermost](https://github.com/mattermost/mattermost-webapp) - 开源的 Slack 替代品
+- [mattermost](https://github.com/mattermost/mattermost-webapp) - 开源的 Slack 替代方案
 - [overreacted](https://github.com/gaearon/overreacted.io) - Dan Abramov 的个人博客
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - 为浏览器重新实现了 Winamp 2
 

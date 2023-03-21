@@ -1,15 +1,14 @@
 <div class="github-widget" data-repo="LucasBassetti/awesome-less"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
 
- &gt;精选的Less框架，库，样式指南，文章和资源的清单.  主要思想是每个人都可以在这里做出贡献，因此我们可以集中所有有关Less的信息并保持最新.
+ &gt; 精选的 Less 框架、库、风格指南、文章和资源列表. 主要思想是每个人都可以在这里做出贡献，因此我们可以集中所有关于 Less 的信息并保持最新.
 
 
 ## About
 
- Less是一种开放源代码动态样式表语言，可以将其编译为层叠样式表（CSS）并在客户端或服务器端运行.  Less由Alexis Sellier设计，Less受Sass的影响，并影响了Sass的新“ SCSS”语法，该语法改编了类似CSS的块格式语法.  Less提供以下机制：变量，嵌套，mixin，运算符和函数；  Less与其他CSS预编译器之间的主要区别是Less允许浏览器通过Less进行实时编译.  字型： [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
+ Less 是一种开源的动态样式表语言，可以编译成层叠样式表（CSS）并在客户端或服务器端运行.  Less 由 Alexis Sellier 设计，受 Sass 的影响，并影响了 Sass 的新“SCSS”语法，它采用了类似 CSS 的块格式化语法.  Less 提供了以下机制：变量、嵌套、mixins、运算符和函数；  Less 和其他 CSS 预编译器之间的主要区别在于 Less 允许浏览器通过 Less 进行实时编译. 字体： [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
 
 
 ## Getting Started
@@ -23,178 +22,178 @@
 
 ## UI/Theme Frameworks and Components
 
-- [1pxdeep](http://rriepe.github.io/1pxdeep/) -将相对视觉重量的设计或采用配色方案的设计带入Bootstrap.
-- [Ant Design](https://github.com/ant-design/ant-design/) -企业级UI设计语言和基于React的实现.
-- [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) -使Bootstrap开发人员更容易访问Web.
-- [Bootstrap 3](http://getbootstrap.com/) -Bootstrap是最流行的HTML，CSS和JS框架，用于在网络上开发响应式，移动优先项目.
-- [Bootswatch](http://bootswatch.com/) -收集免费的Bootstrap主题.
-- [Cardinal](http://cardinalcss.com/) -适用于构建响应式Web应用程序的前端开发人员的小型“移动优先” CSS框架.
-- [CSSHórus](https://github.com/firminoweb/csshorus) -用于开发响应式和移动网站的库.
-- [Flat UI Free](http://designmodo.github.io/Flat-UI/) -Bootstrap的主题和框架.
-- [JBST](http://jbst.eu/) -可用作独立网站构建器或创建WordPress主题的主题框架.
-- [Less Rails](https://github.com/metaskills/less-rails) -减少Rails.
-- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)  -Bootstrap的材料设计是与Bootstrap V3兼容的主题；  这是在基于Bootstrap 3的应用程序中使用Google的新材料设计指南的简便方法.
-- [Metro UI CSS](http://metroui.org.ua/) -一组样式来创建具有类似于Windows 8的界面的网站.
-- [Schema](http://danmalarkey.github.io/schema/) -轻巧，响应迅速且精益的前端UI框架.
-- [Semantic UI](http://semantic-ui.com/) -基于自然语言的有用原理的UI组件框架.
-- [UIkit](https://getuikit.com/) -用于开发Web界面的轻型模块化前端框架.
-- [Wee](https://www.weepower.com/) -轻量级的前端框架，用于逻辑构建复杂的响应式Web项目.
+- [1pxdeep](http://rriepe.github.io/1pxdeep/) - 将相对视觉权重设计或配色方案设计引入 Bootstrap.
+- [Ant Design](https://github.com/ant-design/ant-design/) - 企业级 UI 设计语言和基于 React 的实现.
+- [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) - 使 Bootstrap 开发人员更容易访问 Web.
+- [Bootstrap 3](http://getbootstrap.com/) - Bootstrap 是最流行的 HTML、CSS 和 JS 框架，用于在 Web 上开发响应式、移动优先的项目.
+- [Bootswatch](http://bootswatch.com/) - Bootstrap 的免费主题集合.
+- [Cardinal](http://cardinalcss.com/) - 面向构建响应式 Web 应用程序的前端开发人员的小型“移动优先”CSS 框架.
+- [CSSHórus](https://github.com/firminoweb/csshorus) - 用于开发响应式和移动网站的库.
+- [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Bootstrap 的主题和框架.
+- [JBST](http://jbst.eu/) - 可用作独立网站构建器或创建 WordPress 主题的主题框架.
+- [Less Rails](https://github.com/metaskills/less-rails) - 减少 Rails.
+- [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)  - Bootstrap 的 Material Design 是 Bootstrap V3 兼容主题； 这是在基于 Bootstrap 3 的应用程序中使用 Google 新的 Material Design 指南的一种简单方法.
+- [Metro UI CSS](http://metroui.org.ua/) - 用于创建具有类似于 Windows 8 界面的站点的样式集.
+- [Schema](http://danmalarkey.github.io/schema/) - 轻量级、反应灵敏且精简的前端 UI 框架.
+- [Semantic UI](http://semantic-ui.com/) - 基于自然语言有用原则的 UI 组件框架.
+- [UIkit](https://getuikit.com/) - 用于开发 Web 界面的轻量级和模块化前端框架.
+- [Wee](https://www.weepower.com/) - 轻量级前端框架，用于逻辑构建复杂的响应式 Web 项目.
 
 
 ## Libraries and Mixins
 
 ### Grid
 
-- [Bootstrap Grid Only](https://github.com/zirafa/bootstrap-grid-only)  -仅Bootstrap的响应式网格和响应实用程序类，没有任何额外功能.  轻巧但功能强大.  品味风格.
-- [Framework](https://github.com/jonikorpi/Less-Framework)  -Less Framework是用于设计自适应网站的CSS网格系统.  它包含4个布局和3组印刷预设，全部基于一个网格.
-- [Flexible Grid System](http://flexible.gs/) -该框架将使您以前所未有的灵活方式创建Web应用程序.
-- [Fluidable](http://fluidable.com/)  -可流动的是移动优先的响应式网格系统.  它是独立的，轻量级的，并且使用Less构建.
-- [Grid System](https://github.com/goodpixels/less-grid-system) -超级易于使用的，独立于标记的网格系统.
-- [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - 实施 [Zen Grids](https://github.com/JohnAlbin/zen-grids) 少于.
-- [Order.Less](https://github.com/chromice/order.less) -基线对齐，列网格和模块化刻度.
+- [Bootstrap Grid Only](https://github.com/zirafa/bootstrap-grid-only)  - 只有 Bootstrap 的响应式网格和响应式实用程序类，没有任何额外功能. 轻巧但功能强大. 风格品味.
+- [Framework](https://github.com/jonikorpi/Less-Framework)  - Less Framework 是一个用于设计自适应网站的 CSS 网格系统. 它包含 4 种布局和 3 组排版预设，全部基于单个网格.
+- [Flexible Grid System](http://flexible.gs/) - 该框架将让您以前所未有的灵活方式创建您的网络应用程序.
+- [Fluidable](http://fluidable.com/)  - Fluidable 是移动优先的响应式网格系统. 它是独立的、轻量级的，并且使用 Less 构建.
+- [Grid System](https://github.com/goodpixels/less-grid-system) - 超级易用，独立于标记的网格系统.
+- [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - 实施 [Zen Grids](https://github.com/JohnAlbin/zen-grids) 不到.
+- [Order.Less](https://github.com/chromice/order.less) - 基线对齐、柱状网格和模块化比例.
 
 
 ### Media Queries
 
-- [CSS and Media Query Strategies](https://github.com/buymeasoda/less-media-queries) -使用Less CSS为现代和旧版浏览器开发由媒体查询驱动的解决方案.
-- [Media Queries Library](https://github.com/mrmlnc/less-mq) -在Less中非常简单的媒体查询.
-- [Media Query to Type](https://github.com/himedlooff/media-query-to-type) -一种用于创建IE特定样式表的方法，该样式表允许Internet Explorer 8及更低版本访问媒体查询的内容.
+- [CSS and Media Query Strategies](https://github.com/buymeasoda/less-media-queries) - 使用 Less CSS 为现代和传统浏览器开发媒体查询驱动的解决方案.
+- [Media Queries Library](https://github.com/mrmlnc/less-mq) - Less 中非常简单的媒体查询.
+- [Media Query to Type](https://github.com/himedlooff/media-query-to-type) - 一种创建 IE 特定样式表的方法，该样式表允许 Internet Explorer 8 及以下版本访问媒体查询的内容.
 
 
 ### Color
 
-- [Brand Colors](http://brand-colors.com/) -Sass，Less，Stylus和CSS提供1100多种流行品牌颜色.
-- [More-Colors](http://jasonrobb.github.io/More-Colors.less/) -在浏览器中进行设计时可以更轻松地进行颜色操作的变量.
-- [Open Color](https://github.com/yeun/open-color)  -开放颜色是用于UI设计的配色方案.  在CSS，SCSS，Less，Stylus，Adobe库，Photoshop / Illustrator色板和Sketch调色板中可用.
+- [Brand Colors](http://brand-colors.com/) - Sass、Less、Stylus 和 CSS 中提供的 1100 多种流行品牌颜色.
+- [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - 在浏览器中设计时更容易进行颜色操作的变量.
+- [Open Color](https://github.com/yeun/open-color)  - Open color是UI设计的配色方案. 提供 CSS、SCSS、Less、Stylus、Adobe 库、Photoshop/Illustrator 色板和 Sketch 调色板.
 
 
 ### Animation
 
-- [Animate](https://github.com/joshuapekera/animate) -使用Less编写的CSS3关键帧动画库.
-- [Animate Less](https://github.com/machito/animate.less) -丹·伊甸园的港口 [Animate.css](https://daneden.github.io/animate.css/) 少.
-- [Cube Less](https://github.com/sparanoid/cube.less) -仅使用CSS（Less）的3D（动画）多维数据集，最初由LeanCloud（又名AVOS Cloud）使用.
-- [Hover](http://ianlunn.github.io/Hover/) -收集CSS3供电的悬停动画效果，以应用于链接，按钮，徽标，SVG，特色图像等.
-- [Less Burguer](https://github.com/MarkRabey/less-burger) -的港口 [Sass Burger](http://joren.co/sass-burger/) 少.
+- [Animate](https://github.com/joshuapekera/animate) - 使用 Less 创作的 CSS3 关键帧动画库.
+- [Animate Less](https://github.com/machito/animate.less) - 丹伊登港 [Animate.css](https://daneden.github.io/animate.css/) 少.
+- [Cube Less](https://github.com/sparanoid/cube.less) - 仅使用 CSS（较少）的 3D（动画）立方体，最初由 LeanCloud（又名 AVOS Cloud）使用.
+- [Hover](http://ianlunn.github.io/Hover/) - CSS3 驱动的悬停动画效果集合，可应用于链接、按钮、徽标、SVG、特色图像等.
+- [Less Burguer](https://github.com/MarkRabey/less-burger) - 港口 [Sass Burger](http://joren.co/sass-burger/) 少.
 
 
 ### Miscellaneous
 
-- [3L](http://mateuszkocz.github.io/3l/) -Mixins库.
-- [Bidi](https://github.com/danielkatz/less-bidi) -用于创建双向样式的混合集.
-- [Clearless](http://clearleft.github.io/clearless/) -混合的集合.
-- [Css3LessPlease](http://chrsr.com/css3lessplease/) -将css3please.com转换为更少的mixins.
-- [CssEffects](http://adodson.com/css-effects/) -收集CSS样式效果.
+- [3L](http://mateuszkocz.github.io/3l/) - 混合库.
+- [Bidi](https://github.com/danielkatz/less-bidi) - 用于创建双向样式的混合集.
+- [Clearless](http://clearleft.github.io/clearless/) - 混合集合.
+- [Css3LessPlease](http://chrsr.com/css3lessplease/) - 将 css3please.com 转换为 Less mixins.
+- [CssEffects](http://adodson.com/css-effects/) - CSS 样式效果集合.
 - [Cssowl](http://cssowl.owl-stars.com/) - Mixin library.
-- [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) -有用的混合集.
+- [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - 一组有用的混合.
 - [Est](https://github.com/ecomfe/est/) - 	Mixin library.
-- [Hexagon](http://db0company.github.io/css-hexagon/) -生成具有自定义尺寸和颜色的CSS六边形.
-- [Homeless](https://github.com/pixelass/homeless) -有用的功能.
-- [Less Elements](http://lesselements.com/) -基本的混合集.
-- [Lesshat](https://github.com/madebysource/lesshat) -智能mixins库.
-- [Lessley](https://github.com/pixelass/lessley) -用纯Less编写的像茉莉花一样的测试套件.
-- [Lessmore](https://github.com/belyan/lessmore)  -Mixins库.  跨浏览器支持CSS3和更多功能.
-- [Normalize](https://github.com/segundofdez/normalize.less) -模块化的著名 [normalize.css](https://github.com/necolas/normalize.css/) 使用更少.
-- [Oban](http://oban.io/) -混合的集合.
-- [Preboot](https://github.com/mdo/preboot) -收集mixins和变量以编写更好的CSS.
-- [Retina.js](https://github.com/imulus/retinajs) -JavaScript，SCSS，Sass，Less和Stylus助手，用于渲染高分辨率图像.
-- [Shape](https://github.com/fahad19/shape.less) -各种形状的mixin集合.
-- [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) -常见动作的混合功能和功能.
+- [Hexagon](http://db0company.github.io/css-hexagon/) - 生成具有自定义大小和颜色的 CSS 六边形.
+- [Homeless](https://github.com/pixelass/homeless) - 有用的功能.
+- [Less Elements](http://lesselements.com/) - 一组基本的混合.
+- [Lesshat](https://github.com/madebysource/lesshat) - 智能混合库.
+- [Lessley](https://github.com/pixelass/lessley) - 用纯 Less 编写的像茉莉花一样的测试套件.
+- [Lessmore](https://github.com/belyan/lessmore)  - 混合库. 跨浏览器支持 CSS3 功能等.
+- [Normalize](https://github.com/segundofdez/normalize.less) - 模块化著名 [normalize.css](https://github.com/necolas/normalize.css/) 使用更少.
+- [Oban](http://oban.io/) - 混合集合.
+- [Preboot](https://github.com/mdo/preboot) - 用于编写更好的 CSS 的混合和变量集合.
+- [Retina.js](https://github.com/imulus/retinajs) - 用于呈现高分辨率图像变体的 JavaScript、SCSS、Sass、Less 和 Stylus 助手.
+- [Shape](https://github.com/fahad19/shape.less) - 各种形状的 mixins 集合.
+- [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - 用于常见操作的混合和函数.
 
 
 ## Style Guides
 
-- [Handshake Style Guide](https://github.com/handshake/less-style-guide) -本指南介绍了最佳做法和编码约定.
-- [WebMD Health Services Style Guide](https://github.com/bitmap/less-styleguide) -本文档概述了WebMD Health Services的CSS / Less最佳做法.
+- [Handshake Style Guide](https://github.com/handshake/less-style-guide) - 本指南介绍了一系列最佳实践和编码约定.
+- [WebMD Health Services Style Guide](https://github.com/bitmap/less-styleguide) - 本文档概述了 WebMD 健康服务中的 CSS/Less 最佳实践.
 
 
 ## Ports of Less
 
 ### Java
 
-- [JLessC](https://github.com/i-net-software/jlessc) -更少的完全用Java编写的编译器.
-- [Less Engine](https://github.com/Asual/lesscss-engine) -在基于Rhino JVM的JavaScript解释器中较少运行.
-- [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) -在基于Rhino JVM的JavaScript解释中较少运行.
-- [Less4j](https://github.com/SomMeri/less4j) -本机Java实现.
-- [Lesscss](https://github.com/houbie/lesscss)  -使用Rhino，Nasshorn或node.js引擎运行更少；  符合1.7.0.
-- [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) -基于Less的Gradle插件.
+- [JLessC](https://github.com/i-net-software/jlessc) - 更少的编译器完全用 Java 编写.
+- [Less Engine](https://github.com/Asual/lesscss-engine) - 在基于 Rhino JVM 的 JavaScript 解释器中运行较少.
+- [Less CSS Compiler for Java](https://github.com/marceloverdijk/lesscss-java) - 在基于 Rhino JVM 的 JavaScript 解释器中运行较少.
+- [Less4j](https://github.com/SomMeri/less4j) - 本机 Java 实现.
+- [Lesscss](https://github.com/houbie/lesscss)  - 使用 Rhino、Nasshorn 或 node.js 引擎运行更少；  1.7.0 兼容.
+- [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) - 基于 Less 的 Gradle 插件.
 
 
 ### .Net
 
-- [BundleTransformer.Less](http://www.nuget.org/packages/BundleTransformer.Less/) -用.Net编写的编译器.
-- [Less CSS for .Net](http://www.dotlesscss.org/) -用.Net编写的编译器.
+- [BundleTransformer.Less](http://www.nuget.org/packages/BundleTransformer.Less/) - 用 .Net 编写的编译器.
+- [Less CSS for .Net](http://www.dotlesscss.org/) - 用 .Net 编写的编译器.
 
 
 ### PHP
 
-- [ILess](https://github.com/mishal/iless) -用Java编写的PHP端口.
-- [Lessphp](http://leafo.net/lessphp/) -用PHP编写的编译器.
-- [Less.php](http://lessphp.gpeasy.com/) -PHP端口.
+- [ILess](https://github.com/mishal/iless) - 用 Ja​​vascript 编写的 PHP 端口.
+- [Lessphp](http://leafo.net/lessphp/) - 用 PHP 编写的编译器.
+- [Less.php](http://lessphp.gpeasy.com/) - PHP 端口.
 
 
 ### Python
 
-- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) -用Python编写的编译器.
+- [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - 用 Python 编写的编译器.
 
 
 ### Ruby
 
-- [Ruby Compiler](https://github.com/cowboyd/less.rb) -在Ruby的V8引擎中更少.
+- [Ruby Compiler](https://github.com/cowboyd/less.rb) - 减少了 Ruby 的 V8 引擎.
 
 
 ### Go
 
-- [Go Compiler](https://github.com/kib357/less-go) -在嵌入式Javascript引擎中运行较少.
+- [Go Compiler](https://github.com/kib357/less-go) - 在嵌入式 Javascript 引擎中运行较少.
 
 
 ## GUIs, Editors and Plugins
 
-- [Atom Linter](https://github.com/josa42/atom-linter-less) -Atom文本编辑器中的Linter插件.
-- [CSS 2 Convert](http://css2less.co/) -快速将CSS自动转换为Less的方法，易于复制和粘贴.
-- [CSS Less(ish)](https://github.com/kizza/CSS-Less-ish) -Sublime Text 2和3插件，可在CSS预处理器中实现功能的简化版本（例如Less）.
-- [Crunch 2!](http://getcrunch.co/)  -Crunch 2是具有集成编译功能的跨平台（Windows，Mac和Linux）编辑器.  如果您处理大型的Less项目，则绝对应该尝试一下，因为您只需要Less文件的免费版本.
-- [Diamond](https://diamond.js.org) -为Sass，Less和CSS构建的依赖性管理.
-- [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) -该插件通过提供方便的功能来编辑和编译Less样式表，从而扩展了Eclipse IDE.
-- [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) -Eclipse插件，可自动转译文件（Less，SASS，CoffeeScript等）.
-- [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save.
-- [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) -使用Grunt将较少的文件编译为CSS.
-- [Grunt Lint](https://github.com/jgable/grunt-lesslint) -使用Grunt的CSS Lint整理您的Less文件.
-- [Gulp Less](https://github.com/plus3network/gulp-less) -Gulp插件.
-- [Hayaky](https://github.com/hayaku/hayaku) -Hayaku是一堆有用的脚本，旨在快速进行前端Web开发.
-- [Hyra Helper](https://github.com/Hyra/less) -CakePHP插件，仅使用PHP将Less文件转换为CSS.
-- [Koala](http://koala-app.com/) -Koala是一个跨平台的GUI应用程序，用于编译Less，sass和coffeescript.
-- [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) -Notepad ++的语法突出显示.
-- [Less Sublime](https://github.com/danro/Less-sublime) -Sublime Text的语法突出显示.
-- [Lesshint](https://github.com/lesshint/lesshint) -协助您撰写简洁一致的Less的工具.
-- [LiveReload](http://livereload.com/)  -CSS编辑和图像更改实时生效.  CoffeeScript，SASS，Less和其他仅能正常工作.
-- [SimpleLess](https://wearekiss.com/simpless)  -SimpleLess是一个简约的Less编译器.  只需拖放和编译即可.
-- [Sublime Less2CSS](https://github.com/timdouglas/sublime-less2css) -Sublime Text 2插件，可在保存时将更少的文件编译为CSS.
-- [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) -在将文件保存到Sublime Text 2中时立即触发构建.最适合使用Less，Compass和任何其他预处理程序或makefile的Web项目.
-- [Vim Less](https://github.com/groenewege/vim-less) -该vim软件包添加了语法突出显示，缩进和自动补全功能.
-- [Visual Studio Web Essentials](http://vswebessentials.com/) -如果您曾经编写CSS，HTML，JavaScript，TypeScript，CoffeeScript或更少的代码，那么您会发现许多有用的功能，这些功能使您作为开发人员的生活更加轻松.
-- [Winless](http://lesscss.org/usage/#editors-and-plugins)  -WinLess最初是Less.app的克隆版本，它采用了功能更完善的方法，并具有多个设置.  它还支持以命令行参数开头.
+- [Atom Linter](https://github.com/josa42/atom-linter-less) - Atom 文本编辑器中的 Linter 插件.
+- [CSS 2 Convert](http://css2less.co/) - 自动将 CSS 转换为 Less 的快速方法，就像复制和粘贴一样简单.
+- [CSS Less(ish)](https://github.com/kizza/CSS-Less-ish) - Sublime Text 2 &amp; 3 插件，它实现了 css 预处理器（例如 Less）中功能的精简版本.
+- [Crunch 2!](http://getcrunch.co/)  - Crunch 2 是一个集成编译的跨平台（Windows、Mac 和 Linux）编辑器. 如果您使用大型 Less 项目，您绝对应该尝试一下，因为您只需要 Less 文件的免费版本.
+- [Diamond](https://diamond.js.org) - 为 Sass、Less 和 CSS 构建的依赖管理.
+- [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - 此插件通过提供方便的功能来编辑和编译 Less 样式表来扩展 Eclipse IDE.
+- [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) - 自动转换文件的 Eclipse 插件（Less、SASS、CoffeeScript 等）.
+- [Emacs](https://github.com/purcell/less-css-mode) - 支持保存时编译的 Emacs 模式.
+- [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt.
+- [Grunt Lint](https://github.com/jgable/grunt-lesslint) - 使用来自 Grunt 的 CSS Lint 对你的 Less 文件进行 lint.
+- [Gulp Less](https://github.com/plus3network/gulp-less) - Gulp 插件.
+- [Hayaky](https://github.com/hayaku/hayaku) - Hayaku 是一组有用的脚本，旨在快速进行前端 Web 开发.
+- [Hyra Helper](https://github.com/Hyra/less) - CakePHP 插件，仅使用 PHP 即可将 Less 文件转换为 CSS.
+- [Koala](http://koala-app.com/) - Koala 是一个跨平台的 GUI 应用程序，用于编译 Less、sass 和 coffeescript.
+- [Less for Notepad++](https://github.com/azrafe7/LESS-for-Notepad-plusplus) - Notepad++ 的语法突出显示.
+- [Less Sublime](https://github.com/danro/Less-sublime) - Sublime Text 的语法高亮显示.
+- [Lesshint](https://github.com/lesshint/lesshint) - 帮助您编写干净一致的 Less 的工具.
+- [LiveReload](http://livereload.com/)  - CSS 编辑和图像更改实时应用.  CoffeeScript、SASS、Less 和其他的都可以.
+- [SimpleLess](https://wearekiss.com/simpless)  - SimpleLess 是一个简约的 Less 编译器. 只需拖放和编译.
+- [Sublime Less2CSS](https://github.com/timdouglas/sublime-less2css) - Sublime Text 2 插件，用于在保存时将 Less 文件编译为 css.
+- [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) - 在 Sublime Text 2 中保存文件时触发构建.最适合使用 Less、Compass 和任何其他预处理器或 makefile 的 Web 项目.
+- [Vim Less](https://github.com/groenewege/vim-less) - 这个 vim 包增加了语法高亮、缩进和自动完成.
+- [Visual Studio Web Essentials](http://vswebessentials.com/) - 如果您曾经编写过 CSS、HTML、JavaScript、TypeScript、CoffeeScript 或 Less，那么您会发现许多有用的功能，让您作为开发人员的生活更轻松.
+- [Winless](http://lesscss.org/usage/#editors-and-plugins)  - WinLess 最初是 Less.app 的克隆版，它采用功能更完整的方法并具有多种设置. 它还支持从命令行参数开始.
 
 
 ## Online Less Compilers
 
-- [BeautifyTools Less Compiler](http://beautifytools.com/less-compiler.php) -Online Less编译器，具有可选的格式和最小化位置，网址为 [BeautifyTools](http://beautifytools.com/).
-- [EstFiddle](http://ecomfe.github.io/est/fiddle/) -Online Less编译器提供了有关Less和est的实时演示，允许用户使用可选的est / Autoprefixer功能在1.4.0之后的所有版本的Less中进行切换.
-- [ILess](http://demo-iless.rhcloud.com/) -的现场演示 [ILess](https://github.com/mishal/iless) PHP编译器.
+- [BeautifyTools Less Compiler](http://beautifytools.com/less-compiler.php) - 具有可选格式和缩小功能的在线 Less 编译器 [BeautifyTools](http://beautifytools.com/).
+- [EstFiddle](http://ecomfe.github.io/est/fiddle/) - 在线 Less 编译器为 Less 和 est 提供现场演示.允许用户在 1.4.0 之后的所有 Less 版本之间切换，并具有可选的 est/Autoprefixer 功能.
+- [ILess](http://demo-iless.rhcloud.com/) - 现场演示 [ILess](https://github.com/mishal/iless) PHP编译器.
 - [Leafo](http://leafo.net/lessphp/editor.html) - [Lessphp](http://leafo.net/lessphp/) 现场演示.
-- [Less2CSS](http://less2css.org/) -集成在浏览器中的在线集成开发环境（IDE），允许用户实时编辑和将Less编译为CSS.
+- [Less2CSS](http://less2css.org/) - 托管在浏览器中的在线集成开发环境 (IDE)，允许用户实时编辑 Less 并将其编译为 CSS.
 - [LessPHP](http://lessphp.gpeasy.com/demo) - [Less.php](http://lessphp.gpeasy.com/) 现场演示.
-- [Lesstester](http://lesstester.com/) -较少CSS的在线编译器.
-- [Precess](http://precess.co/) -实时预处理程序编译器.
-- [Winless](http://winless.org/online-less-compiler)  -此在线Less Compiler可以帮助您学习Less.  您可以浏览下面的示例，也可以尝试自己的Less代码.
+- [Lesstester](http://lesstester.com/) - Less CSS 的在线编译器.
+- [Precess](http://precess.co/) - 实时预处理器编译器.
+- [Winless](http://winless.org/online-less-compiler)  - 这个在线 Less 编译器可以帮助你学习 Less. 您可以浏览下面的示例或尝试自己的 Less 代码.
 
 
 ## Online Web IDEs/Playgrounds with Less support
 
-- [CodePen](http://codepen.io/) -CodePen是Web前端侧的游乐场.
-- [CSSDeck Labs](http://cssdeck.com/labs) -CSSDeck Labs是一个可以快速创建一些涉及HTML，CSS，JS代码的实验（或测试用例）的地方.
-- [Fiddle Salad](http://fiddlesalad.com/less/) -具有即时准备好的编码环境的在线游乐场.
-- [JS Bin](http://jsbin.com/) -JS Bin是一个Web应用程序，专门用于帮助JavaScript和CSS民间测试代码段.
-- [JsFiddle](http://jsfiddle.net/hb2rsm2x/) -在线Web编辑器.
+- [CodePen](http://codepen.io/) - CodePen 是网络前端的游乐场.
+- [CSSDeck Labs](http://cssdeck.com/labs) - CSDeck Labs 是一个可以快速创建一些涉及 HTML、CSS、JS 代码的实验（或测试用例）的地方.
+- [Fiddle Salad](http://fiddlesalad.com/less/) - 具有即时准备编码环境的在线游乐场.
+- [JS Bin](http://jsbin.com/) - JS Bin 是专门设计用于帮助 JavaScript 和 CSS 民间测试代码片段的网络应用程序.
+- [JsFiddle](http://jsfiddle.net/hb2rsm2x/) - 在线网页编辑器.
 
 
 ## Translations
@@ -262,11 +261,11 @@
 
 ## Contributing
 
-永远欢迎您的贡献！ [Click Here to read the guidelines](https://github.com/LucasBassetti/awesome-less/blob/master/CONTRIBUTING.md).
+随时欢迎您的贡献！ [Click Here to read the guidelines](https://github.com/LucasBassetti/awesome-less/blob/master/CONTRIBUTING.md).
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Lucas Bassetti](http://lucasbassetti.com.br) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Lucas Bassetti](http://lucasbassetti.com.br) 已放弃该作品的所有版权和相关或邻接权.

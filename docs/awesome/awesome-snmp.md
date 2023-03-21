@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="eozer/awesome-snmp"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable double-link-->
 ## Awesome SNMP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome lint](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/eozer/awesome-snmp/actions/workflows/awesome-lint.yml)
@@ -85,7 +84,7 @@ _您使用这些可以更轻松地使用 SNMP._
   - [snmpgetnext](http://www.net-snmp.org/docs/man/snmpgetnext.html) - 使用 SNMP GETNEXT 请求与网络实体通信.
   - [snmpbulkget](http://www.net-snmp.org/docs/man/snmpbulkget.html) - 使用 SNMP GETBULK 请求与网络实体通信.
   - [snmpwalk](http://www.net-snmp.org/docs/man/snmpwalk.html) - 使用 SNMP GETNEXT 请求检索管理值的子树.
-  - [snmpbulkwalk](http://www.net-snmp.org/docs/man/snmpbulkwalk.html) - 使用 SNMP GETBULK 请求检索管理值的子树.
+  - [snmpbulkwalk](http://www.net-snmp.org/docs/man/snmpbulkwalk.html) - Retrieves a subtree of management values using SNMP GETBULK requests.
   - [snmpset](http://www.net-snmp.org/docs/man/snmpset.html) - 使用 SNMP SET 请求与网络实体通信.
   - [snmptest](http://www.net-snmp.org/docs/man/snmptest.html) - 使用 SNMP 请求与网络实体通信.
   - [snmptable](https://net-snmp.sourceforge.io/docs/man/snmptable.html) - 检索 SNMP 表并以表格形式显示.
@@ -133,7 +132,7 @@ _您使用这些可以更轻松地使用 SNMP._
 - [agentpp/MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - 使用 MIB Designer 创建、编辑、管理和探索 SMI 规范（“商业”）.
 - [agentpp/MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - 使用 MIB Explorer 浏览、配置、测试和调试、监控和发现 SNMPv1/2c/3 实体.
 - [sharpsnmp/SNMP Pro](https://www.sharpsnmp.com/) - 一系列基于 .NET 的 SNMP 产品，包括商业 MIB 编译器、MIB 组件和开源库.
-- [paessler/snmptester](https://www.paessler.com/tools/snmptester) - This tool enables you to debug SNMP activities to find communication and/or data issues in SNMP monitoring configurations. Windows.
+- [paessler/snmptester](https://www.paessler.com/tools/snmptester)  - 此工具使您能够调试 SNMP 活动以查找 SNMP 监控配置中的通信和/或数据问题. 视窗.
 - [ireasoning/MIB Browser](http://ireasoning.com/mibbrowser.shtml)  - 该工具允许用户加载标准的、专有的 MIB，甚至是一些格式错误的 MIB. 它还允许他们发出 SNMP 请求以检索代理的数据，或对代理进行更改. 免费供个人使用.
 - [ireasoning/SNMP Agent Simulator](http://ireasoning.com/snmpsimulator.shtml) - 免费的 SNMP 代理模拟器基于 Java 的应用程序，可以模拟 SNMPv1/v2c/v3 代理.
 - [Visual SNMP](https://github.com/sisraell/VisualSNMP)  - Visual SNMP 是一个简单的工具，用于测试对 SNMP 代理的访问. 目前支持 SNMPGET 和 SNMPWALK，但功能有限.

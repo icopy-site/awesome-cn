@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="dend/awesome-product-management"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 供产品/项目经理学习和成长的精选资源列表. 
 
@@ -132,7 +131,7 @@ Markdown 格式的笔记，具有基于标签的组织能力.
  | 开发商 | [Taskade Inc.](https://taskade.com/about)                          |
  | 费用 | 免费增值（_$0-10/月_）|
  | 平台 |  macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
- | 网址 |  https://www.taskade.com |
+| URL       | https://www.taskade.com                                            |
 
 ### Notejoy
 
@@ -248,8 +247,8 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
 ## Books
 
-- [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - By Chip Heath and Dan Heath.
-- [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - By Chip Heath and Dan Heath.
+- [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - 奇普·希思和丹·希思.
+- [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) - 奇普·希思和丹·希思.
 - [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) - 史蒂夫布兰克和鲍勃多夫.
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - 亚历山大·奥斯特瓦尔德 (Alexander Osterwalder) 和伊夫·皮涅尔 (Yves Pigneur).
 - [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) - 亚历山大·奥斯特瓦尔德 (Alexander Osterwalder) 和伊夫·皮涅尔 (Yves Pigneur).
@@ -286,10 +285,10 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
  | 播客 | 主持人 | 网址 | 说明 |
 |----------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------|-------------|
 | <img alt="The Work Item" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-the-work-item.png" width="100px" />             | 德利马尔斯基 |  https://theworkitem.com | 每周，Den Delimarsky 都会与来自不同行业、角色和背景的人们坐下来，详细了解他们的职业旅程、经验教训，以及如何规划您自己的独特轨道.  |
-| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpg" width="100px" />       | 里德霍夫曼 |  https://mastersofscale.com/ | 企业如何从零成长为亿万？ 传奇的硅谷投资者/企业家里德霍夫曼与著名创始人一起检验他的理论. 嘉宾包括 Facebook 的马克扎克伯格和谢丽尔桑德伯格、Netflix 的里德黑斯廷斯、谷歌的埃里克施密特和 Spanx 的萨拉布莱克利. 凭借原创音乐和滑稽的诚实故事，该节目听起来是您从未听过的.  |
+| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpg" width="100px" />       | 里德霍夫曼 |  https://mastersofscale.com/ | 公司如何从零发展到亿万？ 传奇的硅谷投资者/企业家里德霍夫曼与著名创始人一起检验他的理论. 嘉宾包括 Facebook 的马克扎克伯格和谢丽尔桑德伯格、Netflix 的里德黑斯廷斯、谷歌的埃里克施密特和 Spanx 的萨拉布莱克利. 凭借原创音乐和滑稽的诚实故事，该节目听起来是您从未听过的.  |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />             | 多个 |  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787 | 这是您的产品管理播客，其中包含来自 Google、Facebook、LinkedIn、Spotify、Twitter 和其他科技公司/初创公司的 PM. 如果您是想要了解最新最佳实践的经理、设计师、工程师、企业家或营销人员，请收听.  |
 | <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                        | 多个 |  https://www.gimletmedia.com/startup | 您永远听不到的商业起源故事.  |
-| <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />           | Guy Raz                       | https://www.npr.org/podcasts/510313/how-i-built-this                      | Guy Raz dives into the stories behind some of the world’s best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built. |
+| <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />            | 盖·拉兹 |  https://www.npr.org/podcasts/510313/how-i-built-this |  Guy Raz 深入探讨了一些世界知名公司背后的故事.  How I Built This 编织了一段关于创新者、企业家和理想主义者的叙事之旅——以及他们所发起的运动.  |
 | <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                        | 多个 |  https://www.gimletmedia.com/the-pitch | 真正的企业家向真正的投资者推销真钱.  |
 | <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                           | 多个 |  https://rework.fm/ |  Basecamp 的播客，介绍更好的工作和经营方式. 我们为您带来来自 Basecamp 的联合创始人和其他企业主的故事和非常规智慧.  |
 | <img alt="Art Of Product" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-art-of-product.jpg" width="100px" />           | 多个 |  https://artofproductpodcast.com/ | 记录两位企业家建立软件公司的历程.  |
@@ -306,7 +305,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用于构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自 Google、Slack、Amazon、Airbnb、Netflix、Facebook 等的产品负责人. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链领域的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司互动.
 
 ## Additional resources

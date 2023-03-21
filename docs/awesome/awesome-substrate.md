@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="substrate-developer-hub/awesome-substrate"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Substrate [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt; 很棒的列表是由 Substrate 社区策划的很棒的东西列表.
@@ -131,7 +130,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) - 基质注入 [IPFS](https://ipfs.io/).
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) - 包含 Polkadot{JS} 库的独立 JS 包.
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) - 用于启动本地 Polkadot 测试网络的简单 CLI 工具.
-- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - 一种 [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
+- [`polkadot-runtime-prom-exporter`](https://github.com/paritytech/polkadot-runtime-prom-exporter/) - A [Prometheus](https://prometheus.io/) Polkadot 运行时指标的导出器（可修改以供 Substrate 使用）.
 - [`polkadot-scripts`](https://github.com/paritytech/polkadot-scripts) - Parity 用于诊断 Polkadot/Kusama 的脚本集合.
 - [`polkadot-starship`](https://github.com/koute/polkadot-starship) - 另一个启动本地 Polkadot 测试网络的工具，重点是运行大型测试网络的能力.
 - [`srtool-actions`](https://github.com/chevdor/srtool-actions) - GitHub 操作可轻松使用 `srtool` Docker 映像构建您自己的运行时.
@@ -161,16 +160,16 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Jupiter](https://github.com/patractlabs/jupiter) - 为 FRAME Con​​tracts pallet 和 ink! 编写的智能合约测试网.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Polkadot 生态系统的零知识工具.
 - [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - 一个自托管网页，显示任何给定网络的最新元数据和链规范.
-- [Minimark](https://github.com/kodadot/packages) - Implementation of RMRK NFT v1/v2 protocol maintained by KodaDot.
+- [Minimark](https://github.com/kodadot/packages) - 由 KodaDot 维护的 RMRK NFT v1/v2 协议的实施.
 - [Nova Polkadot Utils](https://github.com/nova-wallet/nova-utils) - 包含静态信息和元数据以支持 Polkadot 生态系统中的客户端应用程序将其映射到各种网络.
 - [Parity Signer](https://www.parity.io/signer/) - 将未使用的手机升级为气隙硬件钱包.
 - [Polkadot PANIC](https://github.com/SimplyVC/panic_polkadot) - Simply VC Polkadot节点监控告警解决方案，兼容多条Substrate链.
-- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于使用 Polkadot 和任何 Substrate 链进行开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/build-tools-index) - 可用于 Polkadot 和任何 Substrate 链开发的工具列表，包括区块浏览器、钱包、网络监控和报告、客户端、基准测试、模糊测试、分叉、SCALE 编解码器、CLI 工具等等.
 - [Polkadot-JS Apps UI](https://polkadot.js.org/apps/) - 基于 Substrate 的链的半官方区块浏览器和前端.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) - 用于与基于 Substrate 的链进行交互的浏览器扩展.
 - [Polkascan](https://polkascan.io/) - 由 Polkascan 基金会维护的多链区块浏览器.
 - [Proxy Hot Wallet Demo](https://github.com/emostov/proxy-hot-wallet) - 演示基于 Substrate 原语构建的安全、方便和灵活的热钱包架构.
-- [Redspot](https://github.com/patractlabs/redspot) - 一种 [Truffle](https://www.trufflesuite.com/truffle)- 用于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
+- [Redspot](https://github.com/patractlabs/redspot) - A [Truffle](https://www.trufflesuite.com/truffle)- 用于 FRAME Con​​tracts 托盘和墨​​水的智能合约工具包！
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) - 与 Substrate 节点一起运行的 REST 服务.
 - [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - 显示带有所有 SS58 前缀的密钥收件人.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 一个脚本，用于解析和输出给定 Kusama 或 Polkadot 地址的质押奖励，并将它们与每日价格数据交叉引用.
@@ -213,7 +212,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - 用 Rust 编写的参考实现.
 - [Python](https://github.com/polkascan/py-scale-codec) - 由 Polkascan 基金会维护.
 - [Ruby](https://github.com/itering/scale.rb) - 由 Itering 维护.
-- [Scales](https://github.com/virto-network/scales) - 使用类型注册表中的类型信息序列化 SCALE.
+- [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
 - JavaScript / TypeScript 实现：
   - [paritytech/parity-scale-codec-ts](https://github.com/paritytech/parity-scale-codec-ts) - 由 Parity Technologies 维护.
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="chentsulin/awesome-graphql"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; 很棒的 GraphQL 列表
@@ -80,7 +79,7 @@
 ### JavaScript/TypeScript
 
 - [graphql-js](https://github.com/graphql/graphql-js) - 用于 JavaScript 的 GraphQL 的参考实现.
-- [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
+- [graphql-jit](https://github.com/zalando-incubator/graphql-jit) - 使用 JIT 编译器执行 GraphQL.
 
 #### Clients
 
@@ -88,7 +87,7 @@
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - 用于 Node 和浏览器的最小 GraphQL 客户端.
 - [typescript-graphql-request](https://graphql-code-generator.com/docs/plugins/typescript-graphql-request) - 使用 GraphQL Request 作为完全类型化的 SDK.
 - [graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus 为 JavaScript 或 TypeScript 创建自动完成客户端库，为强类型查询提供自动完成功能.
-- [graphqurl](https://github.com/hasura/graphqurl)  - 为具有自动完成、订阅和 GraphiQL 的 GraphQL 卷曲. 也是一个非常简单的通用 javascript GraphQL 客户端.
+- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - 由 Amazon 开发的用于缓存、分析等的客户端库，其中包括获取 GraphQL 查询的方法.
 
 ##### Frontend Framework Integrations
@@ -106,7 +105,7 @@
 - [relay](https://github.com/facebook/relay) - Relay 是一个用于构建数据驱动的 React 应用程序的 JavaScript 框架.
 - [urql](https://github.com/FormidableLabs/urql) - 用于 React 的简单缓存 GraphQL 客户端.
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小挂钩优先 GraphQL 客户端.
-- [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
+- [gqless](https://github.com/samdenty/gqless) - 没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
 
@@ -114,7 +113,7 @@
 
 - [apollo-server](https://github.com/apollographql/apollo-server)  - 符合规范且生产就绪的 JavaScript GraphQL 服务器，可让您以模式优先的方式进行开发. 专为 Express、Connect、Hapi、Koa 等构建.
 - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用 Hapi 创建一个 GraphQL HTTP 服务器.
-- [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于 GraphiQL 集成的 HAPI 插件.
+- [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
 - [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa 中间件，从头开始实现 GraphQL.js 并支持原生 ESM.
 - [koa-graphql](https://github.com/chentsulin/koa-graphql) -GraphQL Koa 中间件.
 - [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts)  - 简化了 GraphQL Koa 1 文件. 对快速测试有用
@@ -127,7 +126,7 @@
 ##### Databases & ORMs
 
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - 为 GraphQL 续集助手.
-- [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - Some help defining GraphQL schema around BookshelfJS models.
+- [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 一些帮助围绕 BookshelfJS 模型定义 GraphQL 模式.
 - [join-monster](https://github.com/acarl005/join-monster) - 用于批量数据获取的 GraphQL-to-SQL 查询执行层.
 
 ##### PubSub
@@ -141,7 +140,7 @@
 #### Type
 
 - [type-graphql](https://github.com/19majkel94/type-graphql) - 使用类和装饰器，使用 TypeScript 创建 GraphQL 模式和解析器！
-- [graphql-nexus](https://github.com/graphql-nexus/nexus) - 代码优先、类型安全、GraphQL 模式构建.
+- [graphql-nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)：GraphQL 代码生成器，灵活支持自定义插件和模板，如 TypeScript（前端和后端）、React Hooks、解析器签名等.
 - [pothos](https://github.com/hayes/pothos)  - Pothos 是一个基于插件的 GraphQL 模式构建器，用于打字稿. 它使在 typescript 中构建 graphql 模式变得简单、快速和愉快.
 
@@ -173,6 +172,8 @@
 - [schemathesis](https://github.com/schemathesis/schemathesis) - 运行与 GraphQL 架构匹配的任意查询以查找服务器错误.
 - [microfiber](https://github.com/anvilco/graphql-introspection-tools) - 以有用的方式查询和操作 GraphQL 自省查询结果.
 - [graphql-armor](https://github.com/Escape-Technologies/graphql-armor) - 用于生产 GraphQL 端点的即时安全层.
+- [GraphQL Constraint Directive](https://github.com/confuser/graphql-constraint-directive)  - 允许使用@constraint 作为验证输入数据的指令. 受约束指令 RFC 和 OpenAPI 启发
+- [Validator.js Wrapper Directive](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - 验证器指令的完整列表包装了 Validator.js 功能
 
 <a name="js-example" />
 
@@ -274,7 +275,7 @@
 
 #### Python Examples
 
-- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](https://graphene-python.org).
+- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - GraphQL 模式和服务器使用 [Graphene](https://graphene-python.org).
 - [Python Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/python/) - 创建 GraphQL 服务器的教程 [Strawberry](https://strawberry.rocks/) 和一个客户 [Qlient](https://qlient-org.github.io/python-qlient/site/).
 
 <a name="java" />
@@ -388,7 +389,7 @@
 - [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL 到 IQueryable for .NET.
 - [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - 用于 .Net Core 和 .NET Framework 的 GraphQL 服务器.
 - [Snowflaqe](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable](https://github.com/fable-compiler/Fable)
-- [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - library to build a GraphQL API on top of data model with the extensibility to bring multiple data sources together in the single GraphQL schema.
+- [EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL) - 在数据模型之上构建 GraphQL API 的库，具有将多个数据源聚集在单个 GraphQL 模式中的可扩展性.
 - [ZeroQL](https://github.com/byme8/ZeroQL) - 类型安全的 GraphQL 客户端，带有 C 类 Linq 接口#
 
 <a name="net-example" />

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ConstructCommunity/awesome-construct"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://construct-static.com/images/v861/r/global/construct-3-logo_v130.png" align="right" width="100">](https://www.construct.net/)
@@ -9,7 +8,7 @@
 >
 &gt; — <cite>Ashley（Scirra 创始人）</cite>
 
-此列表包括与出色的游戏开发引擎相关的所有最佳工具、教程和示例 [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
+此列表包括与出色的游戏开发引擎相关的所有最佳工具、教程和示例 [Construct 2](https://www.scirra.com/construct2) 和 [Construct](https://www.construct.net).
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
@@ -30,7 +29,7 @@
 - [Facebook](https://www.facebook.com/ConstructTeam/)
 
 ## Games Showcase
-- [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - 使用该引擎制作的 Steam 游戏列表.
+- [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
 - [Games on itch.io](https://itch.io/games/tag-construct-2/tag-construct-3) - 使用该引擎制作的 itch.io 游戏列表.
 - [Games made with Construct](https://www.madewithconstruct.com/) - 一个列出所有使用该引擎制作的游戏的网站.
 

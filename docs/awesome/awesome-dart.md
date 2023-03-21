@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="yissachar/awesome-dart"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 真棒飞镖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
@@ -18,7 +17,7 @@
 
 * [AngularDart Community](https://github.com/angulardart-community) - 社区维护的 AngularDart 网站、包、工具等等！
 * [Flutter](https://flutter.dev/) - Flutter 是一个构建高性能、跨平台移动应用程序的框架，允许为 Android、iOS 和 Web 应用程序编写应用程序.
-* [MDL/Dart](http://mdl.mikemitterer.at//) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
+* [MDL/Dart](http://mdl.mikemitterer.at//) - Dart 的 Material Design Lite 是基于 Google 的 Material Design 哲学的 Web 开发人员组件框架.
 * [OverReact](https://workiva.github.io/over_react/) - 用于构建静态类型的 React UI 组件的库.
 
 ## Server Frameworks
@@ -76,7 +75,7 @@
 * [Frappe](https://pub.dartlang.org/packages/frappe)  - Dart 的功能性反应式编程库.  Frappé 扩展了 Dart 流的功能，并引入了属性/信号等新概念.
 * [Quiver](https://github.com/google/quiver-dart) - 一组实用程序库，使许多库的使用更容易、更方便，或添加额外的功能.
 * [route_hierarchical](https://github.com/angular/route.dart) - Route 是 Dart 的客户端路由库，有助于构建单页 Web 应用程序.
-* [Darq](https://pub.dev/packages/darq) - 来自 .NET 库的功能性 LINQ 端口.
+* [Darq](https://pub.dev/packages/darq) - A port of functional LINQ from the .NET library.
 * [Basics](https://github.com/google/dart-basics) - 一个 Dart 库，包含对基本 Dart 对象的方便扩展方法.
 
 ## Dependency Injection
@@ -129,7 +128,7 @@
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - 将 Dart 代码编译成 JavaScript.
 * [js2dart](https://github.com/vojtajina/js2dart) - 将 Javascript 代码编译为 Dart.
 * [Stagehand](https://github.com/dart-lang/stagehand) - 受 Web Starter Kit 和 Yeoman 等工具启发的项目脚手架生成器.
-* [Crossdart](https://crossdart.info) - 来自 Pub 的软件包的交叉引用源代码.
+* [Crossdart](https://crossdart.info) - 来自 Pub 的包的交叉引用源代码.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - 为 Github 上的 Dart 项目添加“Go to declaration”和“Find Usages”功能（在树视图和拉取请求中）.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) - 使用 dart2js 将 Dart 代码编译为 JavaScript 的 gulp 插件.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart 到 JavaScript 编译器，旨在创建惯用的、可读的 JavaScript 输出.

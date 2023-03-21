@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="ramnes/awesome-mongodb"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Awesome MongoDB](https://raw.githubusercontent.com/ramnes/awesome-mongodb/master/logo.png)
 
 ## Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -106,7 +105,7 @@
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - 基于 MongoDB、Express、React 和 Node.js 的完整堆栈
  - [Meteor](https://github.com/meteor/meteor) - 基于 MongoDB 的实时/反应式客户端-服务器框架，具有许多功能
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js 异步 ODM
- - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - 与 Mongoose 集成的权限管理库
+ - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
  - [mongration](https://github.com/awapps/mongration) - Node.js 迁移框架
  - [Moonridge](https://github.com/capaj/Moonridge) - 在 Mongoose 和 socket.io 之上进行实时查询的框架
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - 官方 Node.js 驱动程序
@@ -153,7 +152,7 @@
  - [mongolite](https://github.com/jeroen/mongolite) - 快速简单的 R 客户端
 
 ### Ruby
- - [awesome_explain](https://github.com/sandboxws/awesome_explain) - 一个简单的全局方法来解释 Mongoid 查询
+ - [awesome_explain](https://github.com/sandboxws/awesome_explain) - 解释 Mongoid 查询的简单全局方法
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - 官方 Ruby 驱动程序
  - [Mongoid](https://github.com/mongodb/mongoid) - ODM框架
 
@@ -238,7 +237,7 @@ Services:
  - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - 简单的监控 CLI
  - [mongo-munin](https://github.com/erh/mongo-munin) - 收集 Munin 插件
  - [Mongoop](https://github.com/Lujeni/mongoop) - 长时间操作监控和警报
- - [mongomon](https://github.com/pcdummy/mongomon) - More Munin plugins
+ - [mongomon](https://github.com/pcdummy/mongomon) - 更多 Munin 插件
  - [Motop](https://github.com/tart/motop) - MongoDB 顶级克隆
  - [mtop](https://github.com/beaufour/mtop) - 另一个顶级克隆
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) - Nagios 插件（在 Python 中）

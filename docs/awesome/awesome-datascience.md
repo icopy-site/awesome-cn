@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="academic/awesome-datascience"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center"><img src="https://raw.githubusercontent.com/academic/awesome-datascience/master/./assets/head.jpg"></div>
 
 ## AWESOME DATA SCIENCE
@@ -44,7 +43,7 @@
 
 虽然并非绝对必要，但拥有编程语言是成为数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，其应用领域非常广泛.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
 
- Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
+ Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
 
 与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
@@ -53,7 +52,7 @@
 ## Real World
 **[`^        back to top        ^`](#awesome-data-science)**
 
-数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界的问题.
+数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界中的问题.
 
 ### Disaster
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -402,7 +401,7 @@
 | [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/)  | 使用熟悉的语言（例如 Python 和 SQL）以交互方式轻松探索、可视化、分析和转换数据.  |
 | [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html)  | 是一个个人的、可移植的 Hadoop 环境，带有十几个交互式 Hadoop 教程.  |
-| [R](https://www.r-project.org/)  | 是一个用于统计计算和图形的免费软件环境.  |
+| [R](https://www.r-project.org/) | is a free software environment for statistical computing and graphics. |
 | [Tidyverse](https://www.tidyverse.org/)  | 是专为数据科学设计的 R 包的自以为是的集合. 所有包都共享一个基本的设计理念、语法和数据结构.  |
 | [RStudio](https://www.rstudio.com)  |  IDE – R 的强大用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
@@ -417,8 +416,8 @@
 | [Datadog](https://www.datadoghq.com/)  | 大规模数据科学的解决方案、代码和开发运营.  |
 | [Variance](https://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
 | [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可，版本 2.0），或简称为 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
-| [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
-| [Apache Flink](https://flink.apache.org/)  | 用于高效、分布式、通用数据处理的平台.  |
+| [Domino Data Labs](https://www.dominodatalab.com)  | 运行、扩展、共享和部署您的模型——无需任何基础设施或设置.  |
+| [Apache Flink](https://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
 | [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.（免费 Matlab）|
@@ -434,7 +433,7 @@
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源数据可视化平台，帮助每个人创建简单、正确和可嵌入的图表. 也于 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库 |
 | [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
-| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和 DL 模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
+| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) | Free End-to-End No-Code platform for text annotation and DL model training/tuning. Out-of-the-box support for Named Entity Recognition, Classification, Relation extraction and Assertion Status Spark NLP models. Unlimited support for users, teams, projects, documents. |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
 | [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 结合 Jupyter 交互环境的 Julia 语言后端 |
@@ -460,7 +459,7 @@
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 一个基于 Python 的推论统计、假设检验和回归框架 |
-| [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库 |
+| [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
 | [spaCy](https://spacy.io/)  | 一个高性能的自然语言处理工具包 |
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid Studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
@@ -473,14 +472,14 @@
 | [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习与推理|
 | [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
 | [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器发现、创建和启动多云应用程序.  |
-| [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
+| [Towhee](https://github.com/towhee-io/towhee) | A Python library that helps you encode your unstructured data into embeddings. |
 | [LineaPy](https://github.com/LineaLabs/lineapy)  | 曾经因为清理又长又乱的 Jupyter 笔记本而感到沮丧吗？ 使用开源 Python 库 LineaPy，只需两行代码即可将杂乱的开发代码转换为生产流水线.  |
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找流行和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表 |
 | [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本控制和部署 |
 | [MLflow](https://mlflow.org/)  | 用于在整个生命周期内管理 ML 模型的 MLOps 框架 |
 | [cleanlab](https://github.com/cleanlab/cleanlab)  | 用于以数据为中心的 AI 并自动检测 ML 数据集中的各种问题的 Python 库 |
-| [AutoGluon](https://github.com/awslabs/autogluon) | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
+| [AutoGluon](https://github.com/awslabs/autogluon)  |  AutoML 可轻松为图像、文本、表格、时间序列和多模态数据生成准确的预测 |
 | [Arize AI](https://arize.com/)  |  Arize AI 社区层可观察性工具，用于监控生产中的机器学习模型和数据质量和性能漂移等根本问题.  |
 | [Aureo.io](https://aureo.io)  |  Aureo.io 是一个专注于构建人工智能的低代码平台. 它为用户提供了创建管道、自动化并将它们与人工智能模型集成的能力——所有这些都带有他们的基本数据.  |
 | [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的基于云的免费实体关系图 (ERD) 工具.
@@ -554,7 +553,7 @@
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - 抢先体验
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
-- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
+- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) 通过大卫默茨
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Data for All](https://www.manning.com/books/data-for-all)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - 免费的 GitHub 版本
@@ -576,7 +575,7 @@
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [ICML](https://icml.cc/2015/) - 机器学习国际会议
-- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
+- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议 (GECCO)
 - [epjdatascience](https://epjdatascience.springeropen.com/)
 - [Journal of Data Science](https://jds-online.org/journal/JDS) - 一本致力于统计方法应用的国际期刊
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
@@ -602,7 +601,7 @@
 - [Wes McKinney](https://wesmckinney.com/archives.html) - 韦斯麦金尼档案馆.
 - [Matthew Russell](https://miningthesocialweb.com/) - 挖掘社交网络.
 - [Greg Reda](https://www.gregreda.com/) - Greg Reda 个人博客
-- [Kevin Davenport](https://kldavenport.com/) - 凯文达文波特个人博客
+- [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
 - [Julia Evans](https://jvns.ca/) - 递归中心校友
 - [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - 个人网页
 - [Sean J. Taylor](https://seanjtaylor.com/) - 个人网页
@@ -818,7 +817,7 @@
  | 深度学习4j |  |
 | [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，@ RelateIQ 副总裁.  |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
-| [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
+| [Drew Conway](https://twitter.com/drewconway)  | 数据书呆子、黑客、冲突的学生.  |
 | Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 在 _GrubHub_ 工作关于数据和 pandas |

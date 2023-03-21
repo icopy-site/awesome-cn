@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="catalinmiron/awesome-prisma"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Awesome Prisma](https://i.imgur.com/MQdCTuN.png)
 
 ## Awesome Prisma
@@ -10,7 +9,7 @@
 
 ## :tipping_hand_woman: About this List
 
-这是关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
+这是一个关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：心眼：
 
  **Prisma 是一个开源 ORM**. 它通过类型安全和为 TypeScript 和 Node.js 自动生成的查询构建器使数据库访问变得容易.
 
@@ -114,15 +113,15 @@
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
-- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 使用 NestJS 和 Prisma 构建的宁静 api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 用于使用 NestJS 和 Prisma 构建的 restful api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
 - [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - 使用 Prisma + Next.js + CI + 测试 + E2E 类型安全的入门项目 [tRPC](https://trpc.io)
-- [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - 使用 Prisma、next-auth、next.js、tailwindcss 和 graphql-shield 的全栈启动器
-- [Wasp](https://github.com/wasp-lang/wasp) Wasp 是一种声明性的领域特定语言，用于以更少的代码开发、构建和部署现代 Javascript 全栈 Web 应用程序.
+- [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - 带有 Prisma、next-auth、next.js、tailwindcss 和 graphql-shield 的 Fullstack starter
+- [Wasp](https://github.com/wasp-lang/wasp) Wasp 是一种声明性领域特定语言，用于开发、构建和部署现代 Javascript 全栈 Web 应用程序，代码更少.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 
 ## Prisma 1
 
-这是令人敬畏的 Prisma 的第二次迭代，专注于 Prisma 2.
+这是很棒的 Prisma 的第二次迭代，专注于 Prisma 2.
 查看 [Awesome Prisma 1 list](https://github.com/catalinmiron/awesome-prisma/blob/master/awesome-prisma1.md)
 
 ## Contribute
@@ -133,5 +132,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，Catalin Miron 放弃了所有版权和
-本作品的相关或邻接权.
+在法律允许的范围内，Catalin Miron 已放弃所有版权和
+本作品的相关或邻接权利.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="radek-sprta/awesome-game-remakes"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Game Remakes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 积极维护开源游戏重制.
@@ -135,7 +134,7 @@
 - [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 开源重新实现，反汇编并翻译成 C. 
 
 ## Simulator
-- [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
+- [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - 适用于 Windows、macOS、Linux 的 Descent 和 Descent 2 引擎的源端口.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 源代码项目.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - 重新实现 2003 年的太空游戏 Freelancer.
 
@@ -156,7 +155,7 @@
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - 流行游戏 Dune II 的娱乐.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Cannon Fodder 的开源实现.
 - [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) - Gremlin&#39;s Hogs of War 的娱乐.
-- [OpenHV](https://github.com/OpenHV/OpenHV) - 硬真空的开源实施.
+- [OpenHV](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
 - [OpenLoco](https://github.com/OpenLoco/OpenLoco) - 重新实现 Chris Sawyer 的运动.
 - [Open Panzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2.
 - [OpenRA](https://github.com/OpenRA/OpenRA)  - 使用 .NET/mono 和 OpenGL 实现红色警报引擎. 在 Windows、Linux 和 macOS 上运行.

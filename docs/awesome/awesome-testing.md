@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="TheJambo/awesome-testing"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
 
 ## Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Dead link checker](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml/badge.svg)](https://github.com/TheJambo/awesome-testing/actions/workflows/404-links.yml)
@@ -121,7 +120,7 @@
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常有问题的待办事项列表，以促进面对面的采访.
 
 ## Contributing
-See the *Awesome Testing* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
+查看*很棒的测试* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) for details on how to contribute.
 
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md) 了解详情. 基本上可以归结为：

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="shlomi-noach/awesome-mysql"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-mysql
 
 精选的 MySQL 免费和开源软件、库和资源列表. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -147,7 +146,7 @@
 
 ## Schema
 
-*附加模式*
+*Add-on schemas*
 
 - [common_schema](https://github.com/shlomi-noach/common_schema) - DBA 的MySQL 框架，提供函数库、视图库和QueryScript 解释器.
 - [sys](https://github.com/mysql/mysql-sys) - 一组视图、函数和过程，可帮助 MySQL 管理员深入了解 MySQL 数据库的使用情况.
@@ -204,12 +203,12 @@
 
 *有关 MySQL 及其周边的电子书和相关资料*
 
-- [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - 数据库系统讲义（提供 pdf、html、odt 和 markdown 格式），包括涵盖基本设置、练习和问题的 SQL 章节.
+- [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - 关于数据库系统的讲义（提供 pdf、html、odt 和 markdown 格式），包括涵盖基本设置、练习和问题的 SQL 章节.
 - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise)  - 包含几个 SQL 练习，包括模式描述图、构建模式的 SQL 代码、SQL 中的问题和解决方案. 基于维基百科 [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
 ## Media
 
-*Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
+ *公开、持续的视频和音频广播. 这不包括担心列表大小的会议演示*
 
 
 ## Newsletters

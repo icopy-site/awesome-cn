@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="veelenga/awesome-crystal"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 <p align="center"><img src="https://raw.githubusercontent.com/veelenga/awesome-crystal/master/logo/logotype_horizontal.jpg" alt="awesome-crystal"></p>
@@ -105,7 +104,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - 加载 .env 文件
  * [Envy](https://github.com/grottopress/envy) - 从 YAML 加载环境变量
- * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
+ * [envyable](https://github.com/philnash/envyable.cr) - 一个简单的 YAML 到 ENV 配置加载器
  * [habitat](https://github.com/luckyframework/habitat) - 为您的类和模块输入安全配置
  * [totem](https://github.com/icyleaf/totem) - 以 JSON、YAML、dotenv 格式加载和解析配置
 
@@ -165,7 +164,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 
 ## Debugging
 * [backtracer.cr](https://github.com/Sija/backtracer.cr) - 旨在协助将回溯解析为结构化形式的分片
-* [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
+* [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` 用于 `pp` 风格调试的宏
 
 ## Dependency Injection
  * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - 健壮的依赖注入服务容器框架
@@ -200,7 +199,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) 执行
  * [kemal-session](https://github.com/kemalcr/kemal-session) - Kemal 的会话处理程序
  * [mochi](https://github.com/awcrotwell/mochi) - 受 Devise 支持启发的身份验证分片：Authenticable、Confirmable、Invitable 等
- * [motion.cr](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
+ * [motion.cr](https://github.com/awcrotwell/motion.cr) - 面向对象的 Amber 前端库
  * [multi-auth](https://github.com/msa7/multi_auth) - 标准化的多提供商 OAuth2 身份验证（受 omniauth 启发）
  * [praetorian](https://github.com/ilanusse/praetorian) - 受 Pundit 启发的极简授权库
  * [Shield](https://github.com/grottopress/shield) - *Lucky* 框架的全面安全性
@@ -326,7 +325,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
  * [jwt](https://github.com/crystal-community/jwt) - JWT（JSON Web Token）的实现
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS 服务发现和多播 DNS
- * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - 快速轻量级的 MQTT 客户端
+ * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - 消息包库
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth 消费者（水晶标准库）
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 客户端（水晶标准库）
@@ -463,7 +462,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且有凝聚力的 Web 应用程序框架
  * [Athena](https://github.com/athena-framework/athena) - 由可重复使用的独立组件组成的网络框架
- * [grip](https://github.com/grip-framework/grip) - 用于编写功能强大的 Web 应用程序的微框架
+ * [grip](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
  * [kemal](https://github.com/kemalcr/kemal)  - 快如闪电，超级简单的网络框架. 灵感来自 Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上而不是调试和编写测试
  * [marten](https://github.com/martenframework/marten) - 使构建 Web 应用程序变得简单、高效和有趣的 Web 框架
@@ -542,7 +541,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) - 水晶支持 [Geany editor](https://www.geany.org/)
  * 精简版-XL
    * [lite-plugin-crystal](https://github.com/Tamnac/lite-plugin-crystal) - 水晶支持 [Lite-XL](https://lite-xl.com/en/) 编辑
- * 太空人
+ * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - 水晶的 Spacemacs 贡献层
  *崇高
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 用于 sublime Text 的 Crystal 语法高亮显示

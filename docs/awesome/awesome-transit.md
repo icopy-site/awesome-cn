@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="CUTR-at-USF/awesome-transit"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/CUTR-at-USF/awesome-transit/commits/master.atom)
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
@@ -44,7 +43,7 @@
 访问 GTFS 和其他运输和多式联运数据集合的地方
 
 #### 3rd party GTFS URL directories
-- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  - 以前是 GTFS 提要 URL 的最终目录.  2016 年关闭.但可根据要求提供 2008 年至 2016 年的 93 GB 数据.
+- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  - 以前是 GTFS 提要 URL 的权威目录.  2016 年关闭.但可根据要求提供 2008 年至 2016 年的 93 GB 数据.
 - [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - GTFS列表和 [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) 饲料. [Archives 和 validates](https://openmobilitydata.org/p/capital-metro/24) GTFS 提要并允许您预览两者 [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) 和 [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) 通过浏览器. 前身为 TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) 它将于 2022 年初停产，关闭日期待定.
 - [The Mobility Database](https://database.mobilitydata.org/) - JSON 和 CSV 文件 [on GitHub](https://github.com/MobilityData/mobility-database-catalogs) 这是一个包含全球 1300 多个移动数据集的存储库. 包含 OpenMobilityData/TransitFeeds.com 的内容.
 - [TransitData.io](https://transitdata.io/)  - 拉丁美洲部分地区的 GTFS 数据列表. 必须直接联系网站维护者才能访问提要，因为它们不公开.
@@ -56,7 +55,7 @@
 #### National government datasets
 - [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - 有关美国交通系统的信息和统计数据，由联邦交通管理局管理.
 - [transport.data.gouv (France)](https://transport.data.gouv.fr/) - 法国交通生态系统的数据平台.
-- [European long-distance transport operators (EU) *(Unofficial)*](https://github.com/public-transport/european-transport-operators) - 可用 API 端点、GTFS 提要和客户端库的非官方列表
+- [European long-distance transport operators (EU) *(Unofficial)*](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/)  - 用于英国聚合交通数据的 REST API. 收费访问.
@@ -111,7 +110,7 @@
 - [RidePilot](https://github.com/camsys/ridepilot) - 一个开源计算机辅助调度和调度 (CASD) 软件系统，以满足小型人力服务运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) 是一种基于网络的软件工具，开发用于俄勒冈州区域和全州交通网络的可视化、分析和报告.
 - 路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)) - 一个 R Shiny 应用程序，用于获取乘车时间序列，并根据 [STL methodology](https://otexts.com/fpp2/stl.html) 和预测，包括基于这些组成部分的不确定性. 由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
-- [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
+- [TBEST](https://tbest.org/)  - TBEST（Transit Boardings Estimation and Simulation Tool）致力于开发基于 GIS 的多方面建模、规划和分析工具，将社会经济、土地利用和公交网络数据集成到基于场景的公交乘客量平台中估计和分析. 由佛罗里达州交通部资助. 免费使用但不开源.
 
 ### Hardware
 
@@ -121,7 +120,7 @@
 
 ### Apps
 
-人们在乘坐公交车时使用的应用程序.
+人们在乘车时使用的应用程序.
 
 #### Web Apps (open source)
 - [Instabus](http://instabus.org)  - 奥斯汀 (CapMetro) 公共交通的实时地图. 完全没有服务器/后端依赖性，完全在 GitHub 页面上运行.
@@ -229,7 +228,7 @@
 - [Node-GTFS](https://github.com/BlinkTagInc/node-gtfs)  - 从 GTFS 文件加载传输数据，将其解压缩并将其存储到 SQLite 数据库中. 提供一些查询机构、路线、站点和时间的方法.
 
 ##### PostgreSQL
-- [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - 用于 GTFS 提要的 PostgreSQL 架构.
+- [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - 用于 GTFS 提要的 PostgreSQL 模式.
 - [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) – 另一个使用 PostgreSQL 处理 GTFS 的工具.
 
 ##### Python
@@ -301,7 +300,7 @@
 
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - 支持交通服务分析的 Python 库.
 - [Peartree](https://github.com/kuanb/peartree) - 用于将传输数据转换为用于网络分析的有向图的 Python 库.
-- [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5)  - 由 Conveyal 为多模式（公交/自行车/步行/汽车）网络开发的基于 Java 的路由引擎. 目前，它计划在一个时间窗口内进行多次旅行，以用于场景规划和分析目的. 一个相关的 R 包装器包（[r5r](https://github.com/ipeaGIT/r5r/)) is developed independently by IPEA. See also the performance comparison from Higgins et al. (2022), linked below.
+- [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5)  - 由 Conveyal 为多模式（公交/自行车/步行/汽车）网络开发的基于 Java 的路由引擎. 目前，它计划在一个时间窗口内进行多次旅行，以用于场景规划和分析目的. 一个相关的 R 包装器包（[r5r](https://github.com/ipeaGIT/r5r/) ) 由 IPEA 独立开发. 另请参阅 Higgins 等人的性能比较.  (2022)，链接如下.
 - [tidytransit](https://github.com/r-transit/tidytransit) - 一个 R 包，用于将 GTFS 数据读入 tibbles 和简单的要素数据帧，以绘制交通站点和路线图，计算旅行时间和交通频率，并验证交通提要.
 - [transitr](https://github.com/tmelliott/transitr) - 用于实时构建和建模交通网络以获得车辆 ETA 的 R 包
 - [Busbuzzard](https://github.com/bmander/busbuzzard) - 从关于运输车辆的经验数据推断概率时间表.
@@ -345,7 +344,7 @@
 
 #### GTFS Realtime Validators
 
-- [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) - 最初由 GTFS Realtime 开发的验证工具 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](https://www.usf.edu/) 现在由维护 [MobilityData](https://mobilitydata.org/).
+- [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) - 最初由 GTFS Realtime 开发的验证工具 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](https://www.usf.edu/) 现在由维护 [MobilityData](https://mobilitydata.org/).
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
 
@@ -417,8 +416,8 @@
     - [GBFS Documentation Platform](https://gbfs.mobilitydata.org/) - 通用自行车共享馈送规范的文档平台，由维护 [MobilityData](https://mobilitydata.org/) . 查看 GBFS 规范、变更建议、政策指南和技术工具.
 - [GTFS-flex](https://github.com/MobilityData/gtfs-flex) - 一种将灵活的公共交通服务建模为 GTFS 扩展的数据格式.
 - [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - 一种基于 GTFS 的交通网络格式，用于*车辆和容量数据*，适用于由 Puget Sound Regional Council、UrbanLabs LLC、LMZ LLC 和 San Francisco County Transportation Authority 开发的动态交通建模.
-- [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - 由俄勒冈交通部和俄勒冈州立大学合作开发的开放式、固定路线公交客流量数据标准.
-- [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) - GTFS 运输网络的扩展，带有包含 UrbanLabs LLC 和旧金山县交通管理局开发的性能数据的附加文件.
+- [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - 由俄勒冈交通部和俄勒冈州立大学合作开发的开放式、固定路线公交乘客数据标准.
+- [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) - GTFS 交通网络的扩展，带有包含 UrbanLabs LLC 和旧金山县交通管理局开发的性能数据的附加文件.
 - [General Modeling Network Specification (GMNS)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
 - [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - 共享出行需求模型网络的计划数据规范.
 - [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 包含管理和收费车道收费馈送规范 (MTLFS) 并定义由开发的所有这些文件中使用的字段的架构提案 [Santa Clara Valley Transportation Authority](http://www.vta.org/).
@@ -484,10 +483,10 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/) 已放弃该作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) 已放弃该作品的所有版权和相关或邻接权.
 
 ## About
 
-最初创建于 [Luqmaan Dawoodjee](https://github.com/luqmaan), 现在由 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/).
+最初创建于 [Luqmaan Dawoodjee](https://github.com/luqmaan), 现在由 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/).
 
 此列表旨在作为仅供参考的社区资源 - 列出项目/产品并不意味着认可.

@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="emptymalei/awesome-research"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Research Tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of tools for research. Also available on [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/).
+研究工具列表. 也可在 [https://tools.kausalflow.com/tools/](https://tools.kausalflow.com/tools/).
 
 ## TOC
 
@@ -51,13 +50,13 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [Pomotodo](https://pomotodo.com/) （`Cloud`、`Mac`、`Win`、`Android`、`iOS`、`Chrome`）：待办事项列表和番茄计时器的组合，跨设备同步和每周报告 [免费].
 * [Tadam](https://tadamapp.com/) (`Mac`)：简洁优雅的番茄钟 [4.99 美元].
-* [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) (`Android`): Pomodoro timer with great gamification features [Free].
+* [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) （`Android`）：具有出色游戏化功能的番茄钟计时器 [免费].
 
 
 ### GTD-Task Manager
 
  &gt; GTD（完成任务）方法通过使用外部工具记录待办事项列表，从而将它们从头脑中卸下. 它允许一个人专注于一项活动任务，而不是所有的任务（[Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
-&gt; 任务可以按上下文（@home、@computer、@office 等）、行动时间（现在、下一步行动、计划或某一天）和项目进行分类. [Here](https://hamberg.no/gtd/) 我们有一个很好的 GTD 实用指南，并且 [here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) 是流程图.
+> Tasks can be classified in contexts (@home, @computer, @office, etc), time of action (now, next actions, scheduled or someday) and projects. [Here](https://hamberg.no/gtd/) 我们有一个很好的 GTD 实用指南，并且 [here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) 是流程图.
 
 * [Microsoft To Do](https://todo.microsoft.com/tasks) (`Cloud`, `Mac`, `Win`, `Android`, `iOS`, `Win Store`, `Chrome OS`): 近乎完美的待办事项列表与合作和共享.
 * [Google Keep](https://keep.google.com/)(`Cloud`, `Android`, `iOS`, `Chrome OS`)
@@ -113,7 +112,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 #### General and Interdisciplinary
 
 * [DRYAD](http://datadryad.org/) (`Storage`, `Lookup`)：Dryad 数字存储库存储精选数据.
-* [Figshare](https://figshare.com/) (`Storage`, `Lookup`)：数据共享和存储
+* [Figshare](https://figshare.com/) (`Storage`, `Lookup`): Data sharing and storage
 * [Data.gov](https://data.gov) (`Lookup`)：美国联邦政府的数据
 
 #### Life Science
@@ -287,7 +286,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 可以用 Markdown 编写的笔记本软件：
 
 * [boostnote](https://boostnote.io/) （`Win`、`Mac`、`Linux`）：Math + Markdown，支持片段注释.
-* [Quiver](http://happenapps.com/) (`Mac`,`iOS`)：程序员的笔记本，数学+Markdown，代码片段.
+* [Quiver](http://happenapps.com/) (`Mac`,`iOS`): Programmer's notebook, math + Markdown, code snippet.
 * [Findings](http://findingsapp.com/) (`Mac`): 实验者笔记本，组织研究材料和笔记.
 * [Notion](https://www.notion.so/) （`Win`、`Mac`、`iOS`、`Android`）：用看板、数学、日历、表格等做笔记.
 * [Agenda](https://agenda.com/) （`Mac`、`iOS`）：笔记和 GTD.
@@ -390,7 +389,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 ### Online Load and Edit
 
 
-* [Prezi](https://prezi.com/) 如果你可以的话.
+* [Prezi](https://prezi.com/) 如果可以的话.
 * [slides.com](http://slides.com/)：易于使用远程控制页面演示.
 * [Slideas](https://www.slideas.app/)：创建漂亮的 Markdown 演示文稿的最简单方法，具有您需要的所有功能.
 * [Google Drive](https://drive.google.com/): 不需要介绍
@@ -444,7 +443,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [ext-sozi](https://github.com/asyazwan/ext-sozi)
 
-**Local SVG editors:**
+**本地 SVG 编辑器：**
 
 * [Inkscape](https://inkscape.org)(`Mac`,`Win`,`Linux`)
 * [GIMP](https://www.gimp.org)(`Mac`,`Win`,`Linux`)
@@ -466,7 +465,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [Sublime Text](https://www.sublimetext.com/) (`Free Evaluation`, `Cross-platform`, `Plugins`)：跨平台，快速，有插件. 不免费但可以永久免费使用.
 * [JetBrains](https://www.jetbrains.com/)（`学生免费`、`跨平台`、`插件`）：漂亮的 IDE，集成了许多调试和编辑模式.
 * [vim](https://github.com/vim/vim)(`Free`, `Cross-platform`, `Plugins`)：无法用言语形容全能的 vim.
-  * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+  * [Vundle](https://github.com/VundleVim/Vundle.vim): vim 插件管理器
   * [vimrc from amix](https://github.com/amix/vimrc): &quot;终极 Vim 配置：vimrc&quot;
 
 
@@ -476,7 +475,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 * [iPython Notebook](http://ipython.org/notebook.html) (`Python`)：用于内联计算、制作图表和书写笔记的有用工具.
   * [wakari.io](https://wakari.io/) 是一个主要用于数据分析的商业软件.
   * [jiffylab](https://github.com/ptone/jiffylab) 是开源的，但做得不是很好.
-  * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) 是使用 Django/Pinax 的笔记本的多用户版本.
+  * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
 * [Maple](https://www.maplesoft.com/index.aspx?L=E)
 * [RStudio](https://www.rstudio.com/) (`R`)
@@ -613,7 +612,7 @@ A list of tools for research. Also available on [https://tools.kausalflow.com/to
 
 * [Choose a License](http://choosealicense.com/) 这可以帮助您通过几个步骤来决定使用哪个许可证.
 
-&gt; CC 许可证可在以下位置找到 [Creative Commons](http://creativecommons.org/) . 对于替代徽章或图标，请检查以下内容.
+&gt; CC 许可证可以在以下位置找到 [Creative Commons](http://creativecommons.org/) . 对于替代徽章或图标，请检查以下内容.
 
 * [Guokr Badge](https://github.com/opentf/GuokrBadge) : 绿色 CC 许可证徽章.  (**文档为中文.**)
 

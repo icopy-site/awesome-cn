@@ -1,26 +1,25 @@
 <div class="github-widget" data-repo="mhxion/awesome-discord-communities"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img align="right" height="207x" width="205px" alt="Banner" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/awesome_programming_discord.webp">
 
 <!-- omit in toc -->
 ## Awesome Discord Communities [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-为开发人员，游戏工程师，黑客，业余爱好者，数学家和技术爱好者提供的精选Discord社区精选清单. [Discord](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#what-is-discordcom-exactly) 本质上是面向社区的即时消息，语音和视频通话应用程序. [__This is not a Discord listing, promotional, or affiliated site!__](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
+为开发人员、游戏工程师、黑客、爱好者、数学家和技术爱好者提供的精选 Discord 社区列表. [Discord](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#what-is-discordcom-exactly) 本质上，它是一个面向社区的即时消息、语音和视频通话应用程序. [__This is not a Discord listing, promotional, or affiliated site!__](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
 
 <!-- omit in toc -->
 
 
 ## How to Navigate
 
-如果您熟悉其他热门 [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ，您可能会发现此列表有些异常. 对于初学者来说，看看可用 [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md) .  “值得注意的频道”是探索性的，可用于查找特定主题. 社区可以提供专用于不止一种“语言”的一种口头语言的频道. 您可以开始从 [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md) . 读这个 [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) 关于Discord的__privacy policy__以及其他常见问题的解答.
+如果您熟悉其他流行 [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ，您可能会发现此列表有点反常. 对于初学者，请查看可用 [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md) .  “值得注意的频道”是探索性的，可用于查找特定主题. 一个社区可能会提供专用于“语言”适用的多种口语的频道. 你可以从开始贡献 [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md) . 读这个 [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) 关于 Discord 的__隐私政策__以及对其他常见问题的回答.
 
--通过浏览器“ ctrl + f”快速查找可能有助于按主题查找社区
--点击 [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-disc或者d-communities/master/images/badges/homepage.webp">](#) 或者 [<img height="18px" width="18px" alt="Git Reposit或者y" src="https://raw.githubusercontent.com/mhxion/awesome-disc或者d-communities/master/images/badges/git.webp">](#) icon to visit the community's official website 或者 git reposit或者y page
+- 从浏览器“ctrl + f”快速查找可能有助于按主题查找社区
+- 点击 [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-disc或者d-communities/master/images/badges/homepage.webp">](#) 或者 [<img height="18px" width="18px" alt="Git Reposit或者y" src="https://raw.githubusercontent.com/mhxion/awesome-disc或者d-communities/master/images/badges/git.webp">](#) icon to visit the community's official website 或者 git reposit或者y page
 
 ## Programming in General
 
 
-一些与Discord相对的社区会出现堆栈溢出.
+Stack Overflow 的一些 Discord 对应社区.
 
 ### Support Communities
 
@@ -109,7 +108,7 @@ Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#i
 ## Art of Computer Science
 
 
-讨论现代和古典计算及其亲属背后的概念.
+讨论现代和经典计算及其同类背后的概念.
 
 ### Computer Science
 
@@ -176,7 +175,7 @@ Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#envir
 ## Electrical
 
 
-有关裸露电路板，微处理器和前沿硬件的讨论.
+关于准系统电路板、微处理器和前沿硬件的讨论.
 
 ### Engineering
 
@@ -277,7 +276,7 @@ Notable Channels: `#general`, `#homekit-discussion`, `#hk-showcase`, `#hk-questi
 
 [__AppDaemon__](https://discord.com/invite/Mx5qafB) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/hassio-addons/addon-appdaemon) \
 Notable Channels: `#appdaemon`, `#hadashboard` \
-语言：英语，德语，荷兰语\
+语言：英语、德语、荷兰语 \
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/deconz.webp">
@@ -310,7 +309,7 @@ Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassi
 ## Hardware
 
 
-从修复各种计算机硬件的损坏部分到有关CPU，GPU，键盘，鼠标，电话，平板电脑，智能手表，耳机和其他相关小工具的讨论.
+从修复各种计算机硬件的损坏部件到讨论 CPU、GPU、键盘、鼠标、手机、平板电脑、智能手表、耳机和其他相关小工具.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/dave2d.webp">
 
@@ -429,7 +428,7 @@ Notable Channels: `#general`, `#amigashell`, `#next-gen`, `#emulation-and-fpga`,
 ## Programming Languages
 
 
-嵌入式系统，Web框架，自动化和移动应用程序中使用的编程语言.
+嵌入式系统、网络框架、自动化和移动应用程序中使用的编程语言.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/programming_language_development.webp">
 
@@ -699,7 +698,7 @@ Notable Channels: `#general`, `#support`, `#your-projects`, `#dev`, `#python-for
 
 [__KivyMD__](https://discord.com/invite/wu3qBST) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/HeaTTheatR/KivyMD) \
 Notable Channels: `#general`, `#support`, `#suggestions-for-improvements`, `#users-gallery`, `#kivymd-studio` \
-语言：英语，俄语\
+语言：英语、俄语\
 <br>
 
 ### Ruby
@@ -773,7 +772,7 @@ Notable Channels: `#ts-discussion`, `#help`, `#vue`, `#angular`, `#react`, `#lan
 
 [__The V Language & Apps__](https://discord.com/invite/vlang) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vlang.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vlang) \
 Notable Channels: `#v-development`, `#v-chat`, `#help`, `#bugs`, `#syntax`, `#ideas-and-suggestions`, `#documentation`, `#js-backend`, `#x64-backend`, `#v-ui`, `#volt`, `#gitly`, `#vid`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-语言：英语，德语，法语，中文，español，日本语，dansk，한국어，葡萄牙语，polski，русский，tiếng-việt，italiano
+语言：英语、德语、法语、德语、西班牙语、德语、丹麦语、葡萄牙语、波兰语、波兰语、荷兰语、意大利语
 
 ### WebAssembly
 
@@ -794,7 +793,7 @@ Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`
 ## Web Development
 
 
- Web的后端，从单个静态页面到复杂的Web应用程序； 各种框架，模块，短绒，组件，包管理器，构建器，渐进式Web应用程序（PWA）的使用，这些都是推动现代Web发展的因素.
+ Web后端，从单一的静态页面到复杂的Web应用程序； 使用各种框架、模块、linters、组件、包管理器、构建器、渐进式 Web 应用程序 (PWA)，以及为现代网络提供动力的一切.
 
 ### Web Frameworks
 
@@ -809,13 +808,13 @@ Notable Channels: `#docusaurus-users`, `#docusaurus-dev`, `#docusaurus-2-dogfood
 
 [__emberjs__](https://discord.gg/emberjs) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://emberjs.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/emberjs) \
 Notable Channels: `#ember-jobs`, `#help`, `#ember-clie`, `#ember-data`, `#topic-a11y`, `#topic-addon-development`, `#topic-backend`, `#dev-meta`, `#dev-ember-learning`, `#ember-addons`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-语言：英语，法语，法语，德语，葡萄牙语，pусский，español
+语言：英语、法语、德语、葡萄牙语、法语、西班牙语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/fastapi.webp">
 
 [__FastAPI__](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/tiangolo/fastapi) \
 Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
-语言：英语，西班牙语，中文，русский，葡萄牙语，意大利语，Türkçe，Українська\
+语言：English, español, 中文, русский, português, italiano, Türkçe, Українська
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/fomantic-ui.webp">
@@ -847,7 +846,7 @@ Notable Channels: `#general`, `#i-made-this`, `#ideas`, `#uikit-4`, `#developmen
 
 [__VAPOR__](https://discord.com/invite/vapor) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vapor.codes/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vapor/vapor) \
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-语言：英语，捷克语，西班牙语，русский，Deutsch，中文频道，Nederlands，日本语，法语，意大利语，українська，한국어
+语言：英语、法语、西班牙语、葡萄牙语、德语、中文频道、荷兰语、日本语、法语、意大利语、葡萄牙语、葡萄牙语
 
 ### Node.js
 
@@ -928,19 +927,19 @@ Notable Channels: `#general`, `#help`, `#documentation`, `#showcase`, `#developm
 
 [__Nuxt.js__](https://discord.com/invite/b3dvQ9b) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://nuxtjs.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/nuxt) \
 Notable Channels: `#articles`, `#general`, `#showcase`, `#documentation`, `#proposals`, `#nuxt`, `#axios`, `#pwa`, `#webpack`, `#middleware`, `#apollo`, `#plugins`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-Language: English, Deutsch, français, español, 日本语, português, русский, italiano, 中文,
+语言：英语、德语、法语、西班牙语、巴斯克语、葡萄牙语、波兰语、意大利语、中文、
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/quasar_framework.webp">
 
 [__Quasar Framework__](https://discord.com/invite/5TDhbDg) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://quasar.dev/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/quasarframework/quasar) \
 Notable Channels: `#i-made-this`, `#ideas`, `#jobs`, `#conferences`, `#upgrading`, `#app-extensions`, `#components`, `#cli`, `#spa`, `#ssr`, `#pwa`, `#umd`, `#cordova`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-语言：英语，德语，德语，法语，法语，土耳其语，西班牙语，日语，丹麦语，丹麦语，葡萄牙语，葡萄牙语，波兰语，俄语
+语言：英语、德语、阿拉伯语、法语、土耳其语、西班牙语、日本语、丹麦语、한국어、葡萄牙语、波兰语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/vue_land.webp">
 
 [__Vue Land__](https://discord.com/invite/HBherRA) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vue-land) \
 Notable Channels: `#vuex-store`, `#vue-router`, `#code-help`, `#vue-cli`, `#vue-i18n`, `#vuepress`, `#composition-api`, `#vue3-discussions`, `#vue2-internals`, `#vue-testing`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-Language: English, Deutsch, français, 汉语, español, 日本语, dansk, 한국어, português, polski, русский
+语言：英语、德语、法语、德语、西班牙语、德语、丹麦语、葡萄牙语、波兰语、波兰语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/vue_material.webp">
 
@@ -959,7 +958,7 @@ Notable Channels: `#i-made-this`, `#issues`, `#ideas`, `#ssr`, `#design`, `#disc
 
 [__Vuetify__](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vuetifyjs) \
 Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend` \
-语言：英语，德语，法语，西班牙语，西班牙语，日本语，한국어，葡萄牙语，波兰语，俄语
+语言：英语、德语、法语、西班牙语、德语、葡萄牙语、波兰语、波兰语
 
 ### WebAssembly Frameworks
 
@@ -1037,7 +1036,7 @@ Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#t
 ## Development Environments
 
 
-软件工程师速写本；  IDE，文本编辑器，模块化编辑器，GUI终端，仿真器，或者开发工具如此复杂，无法用简单的文字来描述？
+软件工程师速写本；  IDE、文本编辑器、模块化编辑器、GUI 终端、仿真器，或者可能是复杂到无法用简单词语描述的开发实用程序？
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/blink.webp">
 
@@ -1063,7 +1062,7 @@ Notable Channels: `#general`, `#design` \
 
 [__Gitea__](https://discord.com/invite/gitea) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://gitea.io) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/go-gitea) \
 Notable Channels: `#configuration`, `#docker`, `#drone-integration`, `#reverse-proxies`, `#develop`, `#helm-chart`, `#tea` \
-Language: English, Deutsch, português, 中文, français, español, Nederlands, русский, Czech \
+语言：英语、德语、葡萄牙语、中文、法语、西班牙语、荷兰、哥斯达黎加、捷克语 \
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/jetbrains_community.webp">
@@ -1089,7 +1088,7 @@ Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `
 ## Design and Illustrations
 
 
-有关设计系统，图形插图，用户界面和用户体验的所有信息.
+所有关于设计系统、图形插图、用户界面和用户体验.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/adobe_systems_community.webp">
 
@@ -1269,7 +1268,7 @@ Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tec
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/arch_linux_unofficial.webp">
 
-[__Arch Linux [非正式] __]（https://discord.com/invite/MrhPdhn）\
+[__Arch Linux [非官方]__](https://discord.com/invite/MrhPdhn) \
 Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers` \
 英语语言 \
 <br>
@@ -1303,7 +1302,7 @@ Notable Channels: `#kde`, `#xfce`, `#gnome`, `#manjaro-arm`, `#help-general`, `#
 
 [__openSUSE__](https://discord.com/invite/openSUSE) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.opensuse.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/openSUSE) \
 Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce` \
-语言：英语，法语，德语，意大利语，波兰语，西班牙语，荷兰语\
+语言：英语、法语、德语、意大利语、波兰语、西班牙语、荷兰语 \
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/ubuntu_hideout.webp">
@@ -1329,7 +1328,7 @@ Notable Channels: `#chromeos`, `#chromium`, `#crostini`, `#purchase-advice`, `#d
 ## DevOps and System Administration
 
 
-[Continuous development](https://en.wikipedia.org/wiki/DevOps#Toolchains)，有关网络管理和基础架构，IT家庭实验室，容器，API，Kubernetes及其上运行的应用程序的讨论.
+[Continuous development](https://en.wikipedia.org/wiki/DevOps#Toolchains), discussions on network management and infrastructure, IT homelab, containers, APIs, Kubernetes and applications that run on them.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/r_sysadmin.webp">
 
@@ -1361,7 +1360,7 @@ Notable Channels: `#opensource`, `#first-timers`, `#help`, `#livestream`, `#hack
 
 [__Homelab__](https://discord.com/invite/homelab) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.reddit.com/r/homelab/) \
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code` \
-语言：英语，德语，法语，荷兰语\
+语言：英语、德语、法语、荷兰语\
 <br>
 
 ### Data Management
@@ -1455,7 +1454,7 @@ Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#
 ## Computer Security
 
 
-红队和蓝队的一切活动都可以随意进行； 安全评估，逆向工程，网络漏洞，漏洞研究等.
+法律允许红队和蓝队做任何事情； 安全评估、逆向工程、网络漏洞、脆弱性研究等.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/the_many_hats_club.webp">
 
@@ -1472,7 +1471,7 @@ Notable Channels: `#support-labs`, `#challenge-labs`, `#ctf`, `#technical-help`,
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/defcon.webp">
 
 [__DEFCON__](https://discord.com/invite/defcon) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.defcon.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://media.defcon.org/) \
-著名频道：_将于2021年8月5日至8日开放_
+值得注意的频道：_将于 2021 年 8 月 5 日至 8 日开放_ \
 英语语言 \
 <br>
 
@@ -1519,7 +1518,7 @@ Notable Channels: `#cyber-news`, `#hacking`, `#mac-os`, `#windows`, `#linux`, `#
 
 [__GHIDRA__](https://discord.gg/S4tQnUB) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://ghidra.re/) \
 Notable Channels: `#general`, `#development` \
-语言：英语，俄语\
+语言：英语、俄语\
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/pince.webp">
@@ -1532,7 +1531,7 @@ Notable Channels: `#general`, `#issues` \
 ## Blockchain and Cryptocurrency
 
 
-加密货币的开源开发和区块链的应用
+加密货币的开源开发和区块链的应用.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/cryptodevs.webp">
 
@@ -1550,7 +1549,7 @@ Notable Channels: `#general`, `#light-client`, `#abigen`, `#clef`, `#puppeth`, `
 
 [__LBRY Foundation__](https://discord.com/invite/Z3bERWA) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://lbry.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/lbryio/) \
 Notable Channels: `#general`, `#ideas-and-feedback`, `#content`, `#help` \
-语言：英语，językpolski，罗马尼亚语，한국어，德意志，中文，意大利语，葡萄牙语，日本语，法语，西班牙语，西班牙语，土尔其，内德兰兹，俄语，हिन्दी，বাংলা，捷克语，巴哈萨印度尼西亚语，菲律宾语
+语言：英语、波兰语、波兰语、德语、德语、德语、意大利语、葡萄牙语、德语、法语、西班牙语、土耳其语、荷兰语、波兰语、印地语、孟加拉语、捷克语、印度尼西亚语、菲律宾语
 
 ### Currencies
 
@@ -1558,42 +1557,42 @@ Notable Channels: `#general`, `#ideas-and-feedback`, `#content`, `#help` \
 
 [__Cardano Community__](https://discord.com/invite/TUr9RDU) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.cardano.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/input-output-hk/cardano-sl) \
 Notable Channels: `#general`, `#learning`, `#trading`, `#yoroi-general`, `#yoroi-support`, `#daedalus-general`, `#daedalus-support`, `#dev-general`, `#cip` \
-Language: English, 日本語, 中文, 한국어, Deutsch, Nedarlands, português, español, Czech
+语言：英语、荷兰语、荷兰语、葡萄牙语、西班牙语、捷克语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/ethergem_egem_and_sfrx.webp">
 
 [__EtherGem / EGEM & SFRX__](https://discord.com/invite/zav3EkW) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://egem.io/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/TeamEGEM) \
 Notable Channels: `#egem-chat`, `#sfrx-chat`, `#mn-talk`, `#docker-mn-talk`, `#otc-market`, `#trading-talk`, `#mining`, `#zero-coin`, `#dev-talks`, `#bounties` \
-Language: English, português, 中文, français, Deutsch, русский, 日本语, 한국어, español
+语言：英语、葡萄牙语、中文、法语、德语、法语、德语、西班牙语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/metrix_market.webp">
 
 [__Metrix Market__](https://discord.com/invite/5nwrTwJ) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.metrixcoin.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/TheLindaProjectInc) \
 Notable Channels: `#metrix-discussion`, `#day_trading` \
-语言：英语，荷兰语，עִבְרKoreanית，日本语，中文，韩语，德语，葡萄牙语，西班牙语，西班牙语，意大利语，韩语，русский，Türkçe，językpolski
+Language: English, Nederlands, עִבְרִית‎, 日本語, 中文, 한국어, Deutsch, português, español français, italiano, 한국어, русский, Türkçe, język polski
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/nano.webp">
 
 [__Nano__](https://chat.nano.org/) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/nanocurrency) \
 Notable Channels: `#general`, `#documentation`, `#development`, `#decentralization`, `#graphic-design`, `#business`, `#events`, `#integration`, `#protocol`, `#roadmap`, `#support` \
-语言：英语，西班牙语，俄语，巴哈萨语印度尼西亚语，意大利语，德语，英语，法语，葡萄牙语，图尔克语，蒂昂维斯特
+语言：英语、西班牙语、русский、印尼语、意大利语、德语、中文、法语、葡萄牙语、土耳其语、越南语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/vertcoin.webp">
 
 [__Vertcoin - Official__](https://discord.com/invite/vertcoin) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vertcoin.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vertcoin-project) \
 Notable Channels: `#general`, `#trading`, `#marketing`, `#development`, `#mining-help`, `#mining-rig-discussion` \
-语言：英语，韩语，русский
+语言：英语、葡萄牙语、法语
 
 ## Simulation
 
 
-在您喜欢的应用环境中，使用严格的物理和数学定律对自然或超自然现象进行计算建模.
+在您最喜欢的应用程序环境中使用严格的物理和数学定律对自然或超自然现象进行计算建模.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/manim.webp">
 
 [__Manim__](https://discord.com/invite/mMRrZQW) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.manim.community) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/ManimCommunity) \
 Notable Channels: `#3blue1brown`, `#manim-help`, `#python-help`, `#math-discussion`, `#manim-dev`, `#projects`, `#docs` \
-语言：英语，西班牙语，葡萄牙语，法语，法语，德语，俄语\
+语言：英语、西班牙语、葡萄牙语、法语、德语、法语\
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/dimforge.webp">
@@ -1620,7 +1619,7 @@ Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#
 ## Game Development
 
 
-游戏制作，光栅化或实时光线追踪，每个对象运动背后的复杂性以及在市场上发布之前的所有内容.
+制作游戏，如何光栅化或实时光线追踪，每个物体运动背后的复杂性，以及在市场上发布之前的一切.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/brackeys.webp">
 
@@ -1670,7 +1669,7 @@ Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `
 
 [__OpenVFX: The Blender Hub__](https://discord.com/invite/blender) \
 Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-语言：英语，德语，葡萄牙语，西班牙语，荷兰语，荷兰语，suomi，Magyar，svenska，dansk，
+语言：英语、德语、葡萄牙语、西班牙语、荷兰语、芬兰语、匈牙利语、瑞典语、丹麦语、印地语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/shadertoy.webp">
 
@@ -1691,13 +1690,13 @@ Notable Channels: `#business`, `#game-design`, `#math`, `#mechanics`, `#playtest
 
 [__Amethyst__](https://discord.com/invite/amethyst) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.amethyst.rs/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/amethyst/) \
 Notable Channels: `#general`, `#help`, `#logic`, `#art`, `#showcase-team`, `#gamejam`, `#engine-general`, `#bikeshed`, `#review-request`, `#assets`, `#audio`, `#documentation`, `#ecs`, `#editor`, `#rendering` \
-Language: English, Deutsch, français, 日本语, русский, 中文, dansk
+语言：英语、德语、法语、日本语、русский、中文、丹麦语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/armory.webp">
 
 [__Armory__](https://discord.com/invite/axq6qWV) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://armory3d.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/armory3d) \
 Notable Channels: `#armory`, `#armor-paint`, `#general`, `#armory-dev`, `#haxe`, `#logic-nodes`, `#showcase` \
-语言：英语，法语\
+语言：英语、法语\
 <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/bevy.webp">
@@ -1730,13 +1729,13 @@ Notable Channels: `#gamedev`, `#technical`, `#game-design`, `#3d_in_gamemaker`, 
 
 [__GDevelop__](https://discord.com/invite/rjdYHvj) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://gdevelop-app.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/4ian/GDevelop) \
 Notable Channels: `#wip`, `#art-and-assets`, `#finished-games`, `#game-jam`, `#general`, `#quick-questions`, `#engine-development`, `#javascript`, `#extension`, `#wiki` \
-Language: English, Deutsch, français, español, 日本语, português, русский, italiano
+语言：英语、德语、法语、西班牙语、日本语、葡萄牙语、西班牙语、意大利语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/godot_engine.webp">
 
 [__Godot Engine__](https://discord.com/invite/zH7NUgz) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://godotengine.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/godotengine/) \
 Notable Channels: `#general`, `#showcase`, `#beginner-help`, `#help`, `#programming`, `#visual-script`, `#shaders`, `#networking`, `#engine`, `#mobile-dev`, `#gnative-dev`, `#plugins`, `#xr`, `#3d`, `#ui` \
-语言：英语，عربي，español，波兰语
+语言：英语、阿拉伯语、西班牙语、波兰语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/official_unity_discord.webp">
 
@@ -1762,7 +1761,7 @@ Notable Channels: `#renpy`, `#ontopic`, `#todayidid`, `#social` \
 
 [__Twine Games__](https://discord.com/invite/n5dJvPp) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://twinery.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/tweecode) \
 Notable Channels: `#central-planning`, `#sugarcube`, `#harlowe`, `#chapbook`, `#snowman`, `#twine1-formats`, `#compilers`, `#general-twine-talk`, `#writing-discussion`, `#testing-and-released`, `#resources` \
-语言：英语，德语，西班牙语，法语
+语言：英语、德语、西班牙语、法语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/unity_developer_community.webp">
 
@@ -1866,7 +1865,7 @@ Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linu
 ## Virtual Reality
 
 
-为虚拟，增强和混合现实而开发； 头戴式显示器激发了我们对全新世界的感知.  VR的应用是无止境的.
+为虚拟现实、增强现实和混合现实开发； 头戴式显示器激发我们对全新世界的感知.  VR的应用是无穷无尽的.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/project_north_star.webp">
 
@@ -1878,7 +1877,7 @@ Language: English, Deutsch, français, español, 日本语, 韩国语
 
 [__VRChat__](https://discord.com/invite/vrchat) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vrchat.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vrchat) \
 Notable Channels: `#udon-questions`, `#vrchat-development`, `#avatars`, `#avatar-rigging`, `#animation`, `#shaders`, `#3d-modeling`, `#worlds`, `#world-lighting`, `#oculus-quest-development`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语, español, 日本语, dansk, 한국어, português, polski, русский
+语言：英语、德语、英语
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/virtual_reality.webp">
 
@@ -1889,7 +1888,7 @@ Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#
 ## Machine Learning
 
 
-数据处理和可视化，机器学习框架和人工智能.
+数据处理和可视化、机器学习框架和人工智能.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/r_machinelearning.webp">
 
@@ -1947,7 +1946,7 @@ Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analyti
 ## Career
 
 
-讨论编程方面的挑战，简历复习，工作机会.
+讨论编程领域的面试挑战、简历评论、工作机会.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/cs_career_hackers.webp">
 
@@ -1958,13 +1957,13 @@ Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#caree
 ## Discord Development
 
 
-工具包中用于通过其API构建Discord机器人或自动化程序所需的所有实用程序. 但是，这个清单
-很长而且很多样化，因此需要自己的超赞列表. 你可以看一下 [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
-关于著名的开发套件.
+您的工具包中需要的所有实用程序，以通过其 API 构建 Discord 机器人或自动化. 然而，这份榜单
+相当长且多样，它需要自己的精彩列表. 你可以阅读这个 [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
+关于著名的开发工具包.
 
 ## Attribution
 
 
-徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) 和 [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
+徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 
-将此列表归为真棒（受许可证限制），请参见 [how to attribute](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
+要归因于这个很棒的列表（受许可证限制），请参阅 [how to attribute](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="terkelg/awesome-creative-coding"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -7,7 +6,7 @@
 
 创意编码与编程系统是一门不同的学科. 目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**、**信息可视化**和**生成艺术**都是不同类型的创意编码——这已成为描述**以代码形式表达的艺术作品**的家喻户晓的术语.
 
-*请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
+*请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在贡献之前.*
 
 
 
@@ -46,7 +45,7 @@
 - [OGLdev](http://ogldev.atspace.co.uk/) - 由 Etay Meiri 收集的现代 OpenGL 教程.
 - [OpenGL Tutorial](http://www.opengl-tutorial.org/) - 专门用于 OpenGL 3.3 及更高版本教程的站点.
 - [Open.gl](https://open.gl/) - 指导您使用 OpenGL 的基础知识.
-- [Pixel Shaders](http://pixelshaders.com/) - 图形编程的交互式介绍.
+- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 - [OpenGLBook](http://openglbook.com/) - 在线书籍格式的免费 OpenGL 编程教程.
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Morgan McGuire 撰写的有关 3D 计算图形的书籍.
 - [On Generative Algorithms](http://inconvergent.net/generative/) - 关于生成各种有机模式的注释，包括示例和 Python 代码，作者：Anders Hoff.
@@ -76,7 +75,7 @@
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - 与 Joshua Davis 一起学习生成艺术和艺术处理.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/)  - Matt DesLauriers 的研讨会. 教您有关生成艺术、交互式动画、3D 图形和着色器的知识.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - 由 Matt DesLauriers 举办的研讨会，深入探讨了图形编程、数学和着色器.
-- [Three.js Journey](https://threejs-journey.com/) - Bruno Simon 的本课程将教您使用 Three.js 创建最酷的 WebGL 网站的秘诀，无论您是初学者还是高级开发人员.
+- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
 
 ## Tools
 
@@ -186,13 +185,13 @@
 - [Vertexshaderart](https://www.vertexshaderart.com/) - 在线着色器编辑器和图库.
 - [Cyos](http://cyos.babylonjs.com/) - 在线着色器编辑器.
 - [GlslEditor](http://editor.thebookofshaders.com/) - 简单的 WebGL 片段着色器编辑器.
-- [OpenProcessing](https://www.openprocessing.org/) - 创建并试验算法设计、处理和 P5.js.
+- [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
 - [P5.js Editor](https://editor.p5js.org/) - P5.js 的在线网络编辑器.
 - [LiveCodeLab](http://livecodelab.net) - 适用于 VJ、音乐家、教师、学生和儿童的即用型工具.
 - [Turtletoy](https://turtletoy.net/)  - 生成代码的简约 API 和在线展示.  (JavaScript)
 - [ShaderGif](https://shadergif.com/) - 用代码制作的艺术的开源之家（WebGL1/2、JavaScript Canvas 和 P5.js）.
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js 实时编码环境.
-- [NEORT](https://neort.io/popular) - 创意编码器的数字艺术平台（片段着色器、Javascript Canvas）.
+- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
 - [Shelly](https://shelly.dev/) - 通过向乌龟发出指令来学习编程.
 - [tixy.land](https://tixy.land/) - 最简约的创意编码环境栩栩如生.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - 在 8 位计算机模拟器上运行您的推文.
@@ -256,7 +255,7 @@
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - 我是如何学会停止担心并热爱线性代数的.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - Steven Wittens 谈论 WebGL、GPU 和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Zach Lieberman 鼓舞人心的演讲.
-- [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - FITC talk by Matt DesLauriers about his passion for generative art.
+- [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - Matt DesLauriers 关于他对生成艺术的热情的 FITC 谈话.
 
 ### Articles • Tutorials
 
@@ -266,7 +265,7 @@
 - [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - 从创造性编码器的角度介绍 three.js.
 - [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) - 自定义网格着色器材料介绍.
 - [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - lwjgl-basics 上下文中的着色器教程.
-- [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
+- [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - 着色器入门.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - 前一部分的第二部分.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - 片段着色器简介.
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - 在 ThreeJS 中使用自定义顶点和片段着色器.
@@ -275,7 +274,7 @@
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - 创建 3D 图像的简单方法.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - 使用 glslify 的 Phong 着色教程.
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - 关于如何将 three.js 与 glslify 结合使用的示例.
-- [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
+- [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum 使用 Regl 解释 WebGL 的基础知识.
 - [FBO particles](http://barradeau.com/blog/?p=621) - @nicoptere 关于 FBO/GPGPU 粒子的文章.
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - @nicoptere 关于使用 three.js 进行光线行进的文章.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - 介绍 three.js 中的自定义着色器、制服、纹理和照明.
@@ -357,7 +356,7 @@
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - 与计算机图形相关的术语表.
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL 着色语言快速参考指南.
 - [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) - Anton Gerdelan 的数学备忘单，来自他的 OpenGL 书籍.
-- [docs.GL](http://docs.gl/) - 改进官方 OpenGL 文档.
+- [docs.GL](http://docs.gl/) - Improvement of the official OpenGL documentation.
 - [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) - Khronos 集团 GLSL 维基.
 - [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - OpenGL 4.3 API 的 PDF 参考卡.
 - [Easings](http://easings.net/) - 交互式缓动函数备忘单.
@@ -501,7 +500,7 @@
 ## Schools • Workshops
 
 - [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - 伦敦的研究生课程，通过创造性计算的表现世界发展你的艺术实践
-- [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - school in London working at the intersection of creativity and computational technologies
+- [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - 伦敦的学校在创造力和计算技术的交叉点工作
 - [School for Poetic Computation](http://sfpc.io/) - 纽约的学校探索代码、设计、硬件和理论的交叉点.
 - [Copenhagen Institute of Interaction Design](http://ciid.dk/) - 举办一系列教育活动，最著名的是交互设计计划和 CIID 暑期学校.
 - [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - 世界各地的住院医师、奖学金和暑期学校的大量列表（使用左下角的选项卡导航）.

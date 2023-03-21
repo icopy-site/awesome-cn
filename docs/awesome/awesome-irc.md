@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="davisonio/awesome-irc"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IRC [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt; 精选清单 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 资源.
 
-与 Internet 中继聊天 (IRC) 协议相关的工具、软件和其他资源的列表.
+A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
 IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进行基于多用户文本的通信.
 
@@ -144,7 +143,7 @@ IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进�
 *IRC 服务器的集合称为网络.*
 
 - [Libera.Chat](https://libera.chat) - 网络主要关注免费和开源项目，由前 freenode 员工运营.
-- [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
+- [Snoonet](https://snoonet.org)  - redditor 和 subreddits 社区.  ([rules](https://snoonet.org/rules/))
 - [OFTC](https://oftc.net) - 免费和开源软件社区的社区.
 - [LibertaCasa](https://liberta.casa) - 隐私支持社区作为讨论各种主题的安全和开放空间.
 

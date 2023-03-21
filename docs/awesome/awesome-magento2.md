@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="DavidLambauer/awesome-magento2"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 <div align="center">
@@ -31,7 +30,7 @@
  Magento 是一种开源电子商务应用程序，可让您创建网上商店. 我们经常谈到前端（
 客户购买产品的店面）和后端（客户和产品所在的 Magento 管理面板）
 管理）. 开源位是指 Magento 的源代码（PHP、HTML、CSS、JS、XML 等）
-在开放源代码许可 (OSLv3) 下分发，允许任何人重用代码并对其进行更改. 这个
+在开放源代码许可 (OSLv3) 下分发，允许任何人重用代码并对其进行更改. 这
 开源方面导致产品Magento的大量流行，以至于我们经常使用Magento这个词来表示
 指产品、产品周围的社区或两者.
 
@@ -67,7 +66,7 @@ Magento 2 的店面可以通过多种方式设计：
 
  - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更多时候，Luma 这个名字指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
  - **Adobe PWA Studio** - 一个新的无头前端，由 Adob​​e/Magento 创建，基于 ReactJS. 它使 GraphQL 调用 Magento GraphQL API 来检索数据. 前端提供 Venia（一个演示主题和 UI 组件库）、Peregrine（React hooks）、Buildpack（Webpack 配置）和 UPWARD（用于 SSR 和图像优化的中间件）. 
-- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
+- **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但是对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
 - **店面视图**
 - **神明**
 - **ScandiPWA**
@@ -91,7 +90,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper)
     - 帮助脚本通过检测覆盖来帮助升级 magento 2 网站.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) - 官方 PhpStorm Magento2
-  延期.
+  扩大.
 - [PhpInsights](https://github.com/nunomaduro/phpinsights) - PHP 质量检查（使用 Magento2 预设）
 - [Tango](https://github.com/roma-glushko/tango) - 用于分析访问日志的 CLI
 - [Masquerade](https://github.com/elgentos/masquerade) - Faker 驱动，基于配置，与平台无关，
@@ -115,7 +114,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 开发者工具栏.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 模板提示助手.
 - Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) - 在商店配置中显示附加信息
-  [安德烈亚斯·冯·斯图德尼茨.
+  [Andreas von Studnitz.
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - 最初由创建的 Magento 模块
   CTI Digital 使用文件创建和维护数据库变量.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 模块自动刷新缓存.
@@ -170,7 +169,7 @@ Magento 2 的店面可以通过多种方式设计：
 ### CMS
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - 简单但运作良好的博客
-  延期.
+  扩大.
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) - 用于 Magento 2 的免费博客模块
   无限的博客帖子和类别、SEO 友好、延迟加载和 AMP 支持.
 - [Opengento GDPR](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR 模块是必须具有的扩展
@@ -190,7 +189,7 @@ Magento 2 的店面可以通过多种方式设计：
   访问某些页面.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - 扩展以快速测试结帐更改.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - 快速和
-  轻松预览和测试您的订单确认页面，无需每次都下新订单.
+  easily preview and test your order confirmation page, without the need to placing a new order each time.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) -Magento 2 的包装器
   ImportExport 功能，从数组中导入产品和客户
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - 支持通用 Magento 2 导入的库
@@ -209,7 +208,7 @@ Magento 2 的店面可以通过多种方式设计：
   结帐客户到注册客户.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - 重置 UI 书签允许管理员用户
   重置他们自己的 UI 书签，例如过滤器状态、列位置和应用的排序（例如销售 &gt; 订单）.
-- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - 将第 3 方扩展合并到一个菜单中.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors) - Magento 2 网格颜色模块
   着色管理网格. 支持借助网格的书签保存状态.
   经过 [Dmitry Shkoliar](https://shkoliar.com/)
@@ -313,7 +312,7 @@ Magento 2 的店面可以通过多种方式设计：
 
 ## Official Resources
 
-- [Magento Official Website](https://www.magento.com) - Magento 的官方网站.
+- [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - 官方开发者文档.
 - [Magento Forum](https://community.magento.com/) - Magento 的社区论坛.
 - [Magento Github Repository](https://github.com/magento/magento2) - Github 存储库.

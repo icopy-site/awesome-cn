@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="steven2358/awesome-generative-ai"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt; 现代生成人工智能项目和服务的精选列表.
 
-生成式人工智能是一种通过使用在大量数据上训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
+生成式人工智能是一种通过使用基于大量数据训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
 
 欢迎对此列表做出贡献. 通过添加链接 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
 
@@ -20,7 +19,7 @@
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 宣布发布 DALL·E 2，这是一种先进的图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 
 ## Text
@@ -84,7 +83,7 @@
 - [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
 
 ### Academia
-- [Elicit](https://elicit.org/) - Elicit 使用语言模型来帮助您自动化研究工作流程，例如部分文献综述.
+- [Elicit](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - [genei](https://www.genei.io/) - 在几秒钟内总结学术文章，节省 80% 的研究时间.
 - [Explainpaper](https://www.explainpaper.com/)  - 阅读学术论文的更好方式. 上传一篇论文，突出令人困惑的文本，获得解释.
 - [Galactica](https://galactica.org/)  - 用于科学的大型语言模型. 可以总结学术文献、解决数学问题、生成 Wiki 文章、编写科学代码、注释分子和蛋白质等等. [Model API](https://github.com/paperswithcode/galai).
@@ -169,7 +168,7 @@
 ### Speech
 - [Resemble AI](https://www.resemble.ai/) - 用于文本到语音的 AI 语音生成器和语音克隆.
 - [WellSaid](https://wellsaidlabs.com/) - 实时将文本转换为语音.
-- [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
+- [Play.ht](https://play.ht/)  - 人工智能语音发生器. 使用 AI 在线生成逼真的文本转语音语音. 将文本转换为音频.
 - [Coqui](https://coqui.ai/) - 语音生成人工智能.
 - [podcast.ai](https://podcast.ai/) - 完全由人工智能生成的播客，由 Play.ht 文本到语音 AI 提供支持.
 
@@ -185,7 +184,7 @@
 - [Have I Been Trained?](https://haveibeentrained.com/) - 检查您的图像是否已用于训练流行的 AI 艺术模型.
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
 - [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
-- [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
+- [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
 - [Scenario AI](https://www.scenario.gg/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
@@ -199,7 +198,7 @@
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - 致力于游戏生成 AI 的公司的市场地图，作者： [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - 用于艺术用途的生成深度学习工具、作品、模型等的精选列表，作者： [@filipecalegario](https://github.com/filipecalegario/).
 - [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
-- [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
+- [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.
 

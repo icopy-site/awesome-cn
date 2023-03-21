@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="donnemartin/awesome-aws"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
@@ -363,7 +362,7 @@ AWS 回购协议：
 社区回购：
 
 * [AppliedTrust/traildash :fire::fire:](https://github.com/AppliedTrust/traildash) - 光滑的仪表板.
-* [GorillaStack/auto-tag :fire::fire:](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment.
+* [GorillaStack/auto-tag :fire::fire:](https://github.com/GorillaStack/auto-tag) - 在创建时自动标记 AWS 资源，用于成本分配.
 
 ### CloudWatch
 
@@ -459,11 +458,11 @@ AWS 回购协议：
 * [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Apache Tomcat 的会话存储.
 * [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - 处理 Ruby 网络应用程序的会话.
 * [dynamodb-cross-region-library :fire::fire:](https://github.com/awslabs/dynamodb-cross-region-library) - 跨区域复制.
-* [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
+* [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - 用于创建和查询地理空间数据的库.
 * [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - 导入和导出示例.
 * [dynamodb-online-index-violation-detector](https://github.com/awslabs/dynamodb-online-index-violation-detector) - 查找在线 GSI 的散列键和范围键的违规行为.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - 用于使用和处理来自 DynamoDB 流的数据的 Kinesis 接口.
-* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - Lightweight python app.
+* [dynamodb-tictactoe-example-app](https://github.com/awslabs/dynamodb-tictactoe-example-app) - 轻量级 python 应用程序.
 * [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) - Titan 的存储后端.
 * [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) - 跨多个项目和表执行原子写入和隔离读取.
 * [logstash-input-dynamodb :fire:](https://github.com/awslabs/logstash-input-dynamodb) - Logstash 输入插件.
@@ -485,7 +484,7 @@ AWS 回购协议：
 * [eb-docker-multiple-ports](https://github.com/awslabs/eb-docker-multiple-ports) - 使用 Docker 图像的简单 Node.js 和 Tomcat 应用程序.
 * [eb-docker-nginx-proxy :fire:](https://github.com/awslabs/eb-docker-nginx-proxy) - 使用 PHP-FPM 和 Nginx Docker 图像的简单 PHP 应用程序.
 * [eb-docker-virtual-hosting](https://github.com/awslabs/eb-docker-virtual-hosting) - 使用 Docker 映像的简单 PHP、Tomcat 和 Nginx 应用程序.
-* [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) - 示例快递应用程序.
+* [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) - Sample express app.
 * [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) - Express 框架和 Bootstrap Node.js 示例应用程序.
 * [eb-node-express](https://github.com/awslabs/eb-node-express) - 开发人员指南中引用的示例应用程序.
 * [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - 说明工作者角色的 Python 应用程序.
@@ -520,7 +519,7 @@ AWS 回购协议：
 
 AWS 回购协议：
 
-* [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - Agent that runs on and starts containers.
+* [amazon-ecs-agent :fire::fire::fire::fire:](https://github.com/aws/amazon-ecs-agent) - 在容器上运行并启动容器的代理.
 * [amazon-ecs-amazon-efs](https://github.com/awslabs/amazon-ecs-amazon-efs) - 保存来自容器的数据.
 * [amazon-ecs-init :fire:](https://github.com/aws/amazon-ecs-init) - 为支持 Amazon ECS 容器代理而开发的 RPM.
 * [blox :fire::fire::fire:](https://github.com/blox/blox) - 用于在 ECS 上构建自定义调度程序的开源工具.
@@ -606,7 +605,7 @@ AWS 回购协议：
 * [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) - 制作人图书馆.
 * [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) - 提供扩展流的能力.
 * [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) - 流畅的插件.
-* [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB 流适配器.
+* [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
 * [kinesis-log4j-appender](https://github.com/awslabs/kinesis-log4j-appender) - Log4J 附加程序.
 * [kinesis-poster-worker](https://github.com/awslabs/kinesis-poster-worker) - 简单的多线程 Python 海报和工人.
 * [kinesis-storm-spout :fire:](https://github.com/awslabs/kinesis-storm-spout) - 喷出风暴.
@@ -695,7 +694,7 @@ AWS 回购协议：
 * [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) - 与示例应用程序一起使用的食谱.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) - 用于演示简单食谱的食谱.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - 一个示例 Node.JS 应用程序.
-* [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - 适用于 Windows 的食谱.
+* [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
 * [todo-sample-app-cookbooks](https://github.com/awslabs/todo-sample-app-cookbooks) - 与 todo-sample-app 关联的自定义食谱.
 
 社区回购：
@@ -767,7 +766,7 @@ AWS 回购协议：
 社区回购：
 
 * [drewblas/aws-ses :fire::fire::fire:](https://github.com/drewblas/aws-ses) - 提供简单的 ruby​​ DSL 和接口.
-* [microapps/MoonMail :fire::fire::fire::fire:](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
+* [microapps/MoonMail :fire::fire::fire::fire:](https://github.com/microapps/MoonMail) - 使用 SES 和 Lambda 发送数十亿封电子邮件.
 
 ### Simple Workflow
 
@@ -852,7 +851,7 @@ AWS 回购协议：
 * [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) - 监控策略更改和不安全配置警报.
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) - 强制所有权和数据安全的工具.
 * [salesforce/policy_sentry :fire::fire::fire::fire:](https://github.com/salesforce/policy_sentry/) - IAM 最小特权策略生成器.
-* [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - 在云中启动私人 VPN 服务器.
+* [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 * [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - 在 EC2 和其他云服务上设置个人 IPSEC VPN.
 * [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - 创建按需一次性 OpenVPN 端点.
 
@@ -876,7 +875,7 @@ AWS 回购协议：
 * [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - 来自 re:Invent 2014 的移动照片共享应用程序.
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - 来自 re:Invent 2014 的可扩展站点管理示例.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - 来自 re:Invent 2015 的大规模指标分析.
-* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析样本.
+* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析示例.
 * [todo-sample-app](https://github.com/awslabs/todo-sample-app) - 来自 RailsConf 2014 的简单“Todo”应用程序.
 
 社区回购：
@@ -1043,7 +1042,7 @@ AWS 指南：
 
 ## Social
 
-*博客、讨论组、会议和社交媒体.*
+*Blogs, discussion groups, conferences, and social media.*
 
 <br/>
 <p align="center">
@@ -1263,13 +1262,13 @@ AWS 会议：
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) - 基于网络的界面来管理所有服务.
 * [OpsWorks](https://aws.amazon.com/opsworks/) - 使用 Chef 提供 EC2 服务的配置.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) - 您对服务健康状况的个性化看法.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) - Service Catalog 允许 IT 管理员创建、管理和分发已批准产品的组合给最终用户，然后他们可以在个性化门户中访问他们需要的产品.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) - 服务目录允许 IT 管理员创建、管理和分发已批准产品的组合给最终用户，然后他们可以在个性化门户中访问他们需要的产品.
 
 ### Security and Identity Services
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) - 让您轻松预置、管理和部署 SSL/TLS 证书以用于 AWS 服务.
 * [CloudHSM](https://aws.amazon.com/cloudhsm/) - 通过在 AWS 云中使用专用的硬件安全模块 (HSM) 设备，帮助满足企业、合同和法规对数据安全的合规性要求.
-* [Directory Service](https://aws.amazon.com/directoryservice/) - 一项托管服务，允许您将资源与现有的本地 Microsoft Active Directory 连接或在 AWS 云中设置新的独立目录.
+* [Directory Service](https://aws.amazon.com/directoryservice/) - 一种托管服务，允许您将资源与现有的本地 Microsoft Active Directory 连接或在 AWS 云中设置新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - 隐式服务，用于验证对各种服务的访问的身份验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) - 一项自动化安全评估服务，有助于提高部署在 AWS 上的应用程序的安全性和合规性.
 * [Key Management Service (KMS)](https://aws.amazon.com/kms/) - 一项托管服务，可让您轻松创建和控制用于加密数据的加密密钥.
@@ -1305,7 +1304,7 @@ AWS 会议：
 * [ElastiCache](https://aws.amazon.com/elasticache/) - 为网络应用程序（Memcached、Redis）提供内存缓存.
 * [Redshift](https://aws.amazon.com/redshift/) - 提供具有列存储和多节点计算的 PB 级数据仓库.
 * [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - 提供可扩展的数据库服务器，支持 MySQL、Oracle、SQL Server、PostgreSQL 和 MariaDB.
-* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - 可帮助您将数据库架构从 Oracle 或 Microsoft SQL Server 数据库转换为 RDS MySQL 数据库实例或 Aurora 数据库集群的应用程序.
+* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - 帮助您将数据库模式从 Oracle 或 Microsoft SQL Server 数据库转换为 RDS MySQL 数据库实例或 Aurora 数据库集群的应用程序.
 * [SimpleDB](https://aws.amazon.com/simpledb/) - 允许开发人员对结构化数据运行查询.
 
 ### Application Services

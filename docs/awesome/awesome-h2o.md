@@ -1,12 +1,11 @@
 <div class="github-widget" data-repo="h2oai/awesome-h2o"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
 以下是使用的所有出色项目、应用程序、研究、教程、课程和书籍的精选列表 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O 提供许多监督和非监督机器学习算法的并行实现，例如广义线性模型、梯度提升机（包括 XGBoost）、随机森林、深度神经网络（深度学习）、堆叠集成、朴素贝叶斯、Cox 比例风险、K 均值、PCA、Word2Vec，以及全自动机器学习算法 (AutoML).
 
-[H2O.ai](http://www.h2o.ai/about/) 产生许多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 关于 H2O，但下面的列表由更大的 H2O 用户社区制作的精彩内容组成.
+[H2O.ai](http://www.h2o.ai/about/) 产生许多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) 关于 H2O，但下面的列表由更大的 H2O 用户社区制作的精彩内容组成.
 
 我们刚刚开始使用此列表，因此非常感谢拉取请求！ 请查看 [contribution guidelines](https://github.com/h2oai/awesome-h2o/blob/master/contributing.md) 在提出拉取请求之前. 如果您不是 GitHub 用户并想做出贡献，请发送电子邮件至 community@h2o.ai.
 
@@ -66,8 +65,8 @@
 - [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) 蒂莫西·J·马奎尔、斯科特·OC Mundle.  (2020)
 - [Predicting Risk of Delays in Postal Deliveries with Neural Networks and Gradient Boosting Machines](https://www.diva-portal.org/smash/get/diva2:1467609/FULLTEXT01.pdf) 玛蒂尔达索德霍尔姆.  (2020)
 - [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  马尔卡铲球.  (2020)
-- [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf). Erin LeDell, Sebastien Poirier.  (2020)
-- [Single-cell mass cytometry on peripheral blood identifies immune cell subsets associated with primary biliary cholangitis](https://www.nature.com/articles/s41598-020-69358-4)  Jin Sung Jang、Brian D. Juran、Kevin Y. Cunningham、Vinod K. Gupta、Young Min Son、Ju Dong Yang、Ahmad H. Ali、Elizabeth Ann L. Enninga、Jaeyun Sung 和 Constantine N. Lazaridis.  (2020)
+- [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf) . 艾琳·勒戴尔，塞巴斯蒂安·普瓦里埃.  (2020)
+- [Single-cell mass cytometry on peripheral blood identifies immune cell subsets associated with primary biliary cholangitis](https://www.nature.com/articles/s41598-020-69358-4)  Jin Sung Jang、Brian D. Juran、Kevin Y. Cunningham、Vinod K. Gupta、Young Min Son、Ju Dong Yang、Ahmad H. Ali、Elizabeth Ann L. Enninga、Jaeyun Sung 和 Constantinos N. Lazaridis.  (2020)
 - [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/)  Steven N. Hart、Eric C. Polley、Hermella Shimelis、Siddhartha Yadav、Fergus J. Couch.  (2020)
 - [Innovative deep learning artificial intelligence applications for predicting relationships between individual tree height and diameter at breast height](https://doi.org/10.1186/s40663-020-00226-3) 伊尔克·埃尔坎利.  (2020)
 - [An Open Source AutoML Benchmark](https://www.automl.org/wp-content/uploads/2019/06/automlws2019_Paper45.pdf)  Peter Gijsbers、Erin LeDell、Sebastien Poirier、Janek Thomas、Berndt Bischl、Joaquin Vanschoren.  (2019)
@@ -92,7 +91,7 @@
 - [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula、Marcelo Ladeira、Rommel N. Carvalho、Thiago Marzagão.  (2016)
 - [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N. Vougas、Thomas Jackson、Alexander Polyzos、Michael Liontos、Elizabeth O. Johnson、Vassilis Georgoulias、Paul Townsend、Jiri Bartek、Vassilis G. Gorgoulis.  (2016)
 - [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf) 斯蒂芬妮佛罗伦萨维瑟.  (2016)
-- [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) 克日什托夫·乌尔班斯基，斯坦尼斯瓦夫·格鲁什琴斯克.  (2016)
+- [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) 克日什托夫·乌尔班斯基，斯坦尼斯瓦夫·格鲁什钦斯克.  (2016)
 - [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf) 艾琳·勒戴尔.  (2015)
 - [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) 罗杰里奥·诺曼德，雨果·亚历山大·费雷拉.  (2015)
 - [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) 吉尔斯卢普.  (2014)

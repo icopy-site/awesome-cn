@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="antontarasenko/awesome-economics"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  * 为经济学家精选的链接集合. 的一部分 ["Awesome X" series](https://github.com/sindresorhus/awesome).*
 
-The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
+该列表会定期更新新链接. 点击右上角“关注”即可关注.
 
 欢迎您的贡献. 添加链接到“读者发送的链接” [by yourself](https://github.com/antontarasenko/awesome-economics/blob/master/contributing.md) 或发送新内容至<antontarasenko@gmail.com> .
 
@@ -65,7 +64,7 @@ Writing
 
 * [LaTeX](https://www.latex-project.org/)  - 经济学家用 LaTeX 写作，因为它比 Word 或 LibreOffice 更好地处理数学和参考文献. 如果你经常写作，LaTeX 值得学习.
   - [Beamer](https://www.ctan.org/pkg/beamer?lang=en) - 用于演示的 LaTeX 类.
-  - [TikZ](http://www.texample.net/tikz/examples/)  - 绘制图形的扩展.  A [how-to](http://cremeronline.com/LaTeX/minimaltikz.pdf) 和一个 [manual](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf).
+  - [TikZ](http://www.texample.net/tikz/examples/)  - 绘制图形的扩展.  A [how-to](http://cremeronline.com/LaTeX/minimaltikz.pdf) and a [manual](http://www.texample.net/media/pgf/builds/pgfmanualCVS2012-11-04.pdf).
 * [LyX](http://www.lyx.org/) - 一个免费且简单的 LaTeX 编辑器.
 * [Zotero](https://www.zotero.org/)  - 书目管理. 同时安装 (a) Zotero 浏览器插件，将论文从 RePEc 导入您的图书馆；  (b) Zotero-LyX 插件可以轻松引用文献.
 * [Git](https://git-scm.com/downloads)  - 版本控制系统. 如果您想还原几个月前所做的更改或与其他作者合作，这很有用.  DropBox 也有版本控制，但 Git 更明确.  A [short intro](http://rogerdudler.github.io/git-guide/) . 或者使用 [GitHub Desktop](https://desktop.github.com/) 如果你喜欢简单.

@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="golemfactory/awesome-golem"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Golem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![awesome-lint](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)](https://github.com/golemfactory/awesome-golem/actions/workflows/main.yml/badge.svg)
 
 [<img src="https://raw.githubusercontent.com/golemfactory/awesome-golem/master/golem-logo.svg?sanitize=true" align="right" width="150">](https://golem.network/)
 
-&gt; 欢迎来到 **Awesome Golem**，这是一个社区精选的 Golem 资源、链接、项目、工具和应用程序列表！
+> Welcome to **Awesome Golem**, a community-curated list of resources, links, projects, tools and applications on Golem!
 
  Golem 的用户以 Rust 实现 Yagna 的形式运行参考实现. 用户共同组成了 Golem 网络，这是一个计算资源的 P2P 市场，个人可以在其中充当两个非排他性角色之一； 出售闲置资源的提供者，或购买资源以运行任务的请求者.
 
@@ -45,7 +44,7 @@
 ### Testing
 
 - [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - 旨在加快您的开发过程并使应用程序创建者更愉快的工具.
-- [Golem-afl](https://github.com/sladecek/golem-afl)  - 一个实验性的测试模糊框架. 协助寻找安全漏洞.
+- [Golem-afl](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - 用于 Rust 项目的自适应分布式测试执行器.
 - [Golem CI](https://github.com/hhio618/golem-ci) - 分散的任务管道.
 - [Golem SLATE](https://github.com/deutschklub/golem-slate) - 上述应用程序部分中描述的 Golem SLATE 的开源存储库.
@@ -58,7 +57,7 @@
 
 ### Games
 
-- [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - 具有不同尺寸的数独游戏.
+- [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - 大小不同的数独游戏.
 - [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - 通过运行大量模拟游戏来帮助炉石社区设计和构建套牌.
 - [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem)  - 第一个应用程序部分中描述的国际象棋开源存储库. 包括用于 2 个 AI 通过 Golem 后端相互对战的 React 前端.
 - [Golem Fleet Battle Simulator](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator)  - 用于计算两个对立星舰舰队之间战斗结果的系统. 在 iOS 游戏 Rock Paper Frigate 中用于确定 PvP 舰队战斗的结果.
@@ -111,7 +110,7 @@
 
 ### RNG
 - [Gandom](https://github.com/rezahsnz/gandom)  - 从提供商那里提取随机流. 支持两种 PRNG，一种基于 Chaos 机器，另一种使用 Sodium.
-- [Entropythief](https://github.com/krunch3r76/entropythief) - 使用 linux 熵源或 Intel 的 RDRAND cpu 指令（受 Gandom 启发）以窃取的速率从多个供应商处获取随机熵.
+- [Entropythief](https://github.com/krunch3r76/entropythief) - 使用 linux 熵源或 Intel 的 RDRAND cpu 指令（受 Gandom 启发）以窃取速率从多个供应商处获取随机熵.
 
 ### Password Recovery
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - 运行 John The Ripper 来恢复密码.
@@ -154,7 +153,7 @@
 
 ## Provider Resources
 
-- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
+- [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - 使用手册开始作为 Golem 网络上的提供者.
 - [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - 社区精选的常见问题和答案列表.
 - [Yagna-binaries for aarch64](https://github.com/MarijnStevens/yagna-binaries) - 为 64 位 arm 架构构建，以便能够在 Raspberry Pi 等系统上作为提供程序运行.
 - [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - 检查 stats.golem.network 上的价格中位数并更新提供者节点上与价格相关的所有 3 个值的脚本.
@@ -171,7 +170,7 @@
 - [WSL](https://github.com/r34x/WSL)  - 允许 Windows 用户在适用于 Linux 的 Windows 子系统中运行 Golem. 删除 Windows 用户需要使用虚拟机的要求.
 - [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - 用于在云提供商上自动部署 Golem 提供商并使用普罗米修斯设置监控的 Terraform 脚本.
 - [Automatic Golem](https://github.com/r34x/Automatic-Golem) - 使用简单的说明和日志设置一个 Golem 提供者，指导您完成整个过程.
-- [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
+- [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - 节点的 Docker 版本可帮助您快速开始在 Docker 容器中作为提供者运行.
 - [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - 上面的 Alxexandre-abrioux 项目的分支允许从 ENV 变量动态生成配置文件并指定你想要生成多少个副本.
 - [Scalable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - 使用 Docker 产生 x 数量的供应商.
 

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="bs-community/awesome-minecraft"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Minecraft [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/bs-community/awesome-minecraft/master/screenshot.png" width="1920" />
@@ -92,7 +91,7 @@
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam&#39;s HarvestCraft 是 Minecraft 的模组，目前添加了多种农作物和食物.
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
 - [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) - 一个添加了更复杂的作物系统的模组，例如具有基因突变的能力并且还添加了更多的作物.
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) - 基本上增加了一个方块大的迷你林场.
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - 一个很棒的 skyblocks 模组，它过滤沙子和砾石等有用资源，如铁和钻石，与许多模组兼容.
@@ -128,7 +127,7 @@
 ### General
 
 - [ArmorPlus](https://www.curseforge.com/minecraft/mc-mods/armorplus) - 这个模组从字面上为游戏添加了大量的盔甲，以及不同的制作方式.
-- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) - 这个模组在玩家库存中增加了七个新的插槽，可以安装其他模组添加的各种物品，如护身符、腰带、戒指等.
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) - 这个模组为玩家物品栏添加了七个新槽位，可以装上其他模组添加的各种物品，如护身符、腰带、戒指等.
 
 ### Exploration
 
@@ -155,8 +154,8 @@
 
 - [BDCraft](https://bdcraft.net/) - 各种漫画风格的资源和声音包，甚至适用于许多模组、基岩版和泰拉瑞亚！
 - [LB Photo Realism Reload](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload) - LB Photo Realism 纹理包的继承者，使 Minecraft 看起来更逼真.
-- [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - Dark Mode for the default Minecraft UIs!
-- [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
+- [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - 默认 Minecraft 用户界面的黑暗模式！
+- [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - 科幻资源包.
 - [Soartex](https://soartex.net/) - 具有模组支持的平滑资源包.
 - [Faithful](https://faithful.team/) - 光滑的纹理，打造翻新的默认外观.
 - [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) - 在 optifine 中添加大量具有连接纹理的新块.

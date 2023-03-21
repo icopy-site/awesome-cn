@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="tramcar/awesome-job-boards"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
 
 精选的利基职位列表.
@@ -215,5 +214,5 @@
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - 为关心文档的人提供的工作
 
 ## Various
-* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关职位
+* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关工作
 * [Privacy-First Jobs](https://privacyfirstjobs.com/) – 在隐私至上的公司和组织中工作.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="matchai/awesome-pinned-gists"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/4658208/57482610-14f64480-7273-11e9-862e-80d9fe332311.png" width="535">
   <h3 align="center">很棒的固定要点</h3>
@@ -19,7 +18,7 @@
 - [bird-box](https://github.com/matchai/bird-box) - 更新固定要点以包含 Twitter 用户的最新推文.
 - [blog-box](https://github.com/Aveek-Saha/blog-box) - 更新固定要点以显示您最新的 dev.to 博客文章.
 - [book-box](https://github.com/amorriscode/book-box) - 更新固定要点以包含您从 goodreads 中最新阅读的内容
-- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评分.
+- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评级.
 - 代码::统计 (https://codestats.net/)
     - [codestats-box](https://github.com/Ancientwood/codestats-box) - 更新固定要点以包含您的日常 Code::Stats.
     - [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  - codestats-box 的 Python 实现. 更新固定要点以包含您的 Code::Stats 统计信息.

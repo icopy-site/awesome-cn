@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="alfred-workflows/awesome-alfred-workflows"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
 	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
 	<br>
@@ -41,7 +40,7 @@ Awesome Alfred Workflows 的精选列表.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - 包回购搜索.
 - [Packagist](https://github.com/vinkla/alfred-packagist) - 搜索 PHP 包 [Packagist](https://packagist.org).
 - [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出、搜索和打开源代码树存储库.
-- [Tailwind CSS Docs](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) 文档.
+- [Tailwind CSS Docs](https://github.com/techouse/alfred-tailwindcss-docs) - 搜索 [Tailwind CSS](https://tailwindcss.com/docs/) 文档.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - 使用 Alfred2 列出和控制 Vagrant 环境.
 - [VSCode](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - 使用 Visual Studio Code 打开文件或文件夹的 Alfred 4 工作流程.
 
@@ -106,7 +105,7 @@ Awesome Alfred Workflows 的精选列表.
 
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - 从 bugmenot 获取登录信息.
-- [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - 在隐身窗口中打开 Chrome 最前面的标签.
+- [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
 - [Default Browser](https://github.com/wmorland/alfred-py3-default-browser) - 切换默认网络浏览器.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - 在 Alfred 中搜索和浏览 subreddits 和热门帖子.
 

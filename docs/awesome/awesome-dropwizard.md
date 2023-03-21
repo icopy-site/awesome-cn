@@ -1,100 +1,99 @@
 <div class="github-widget" data-repo="stve/awesome-dropwizard"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome]
 
 [<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">][dropwizard]
 
-[太棒了]：https：//github.com/sindresorhus/awesome
-[dropwizard]：http：//www.dropwizard.io
+[很棒]：https://github.com/sindresorhus/awesome
+[dropwizard]：http://www.dropwizard.io
 
-&gt;用于创建应用程序的有用资源 [Dropwizard](http://www.dropwizard.io)
+&gt; 用于创建应用程序的有用资源 [Dropwizard](http://www.dropwizard.io)
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/stve/awesome-dropwizard/blob/master/CONTRIBUTING.md) 第一.
+请快速浏览一下 [contribution guidelines](https://github.com/stve/awesome-dropwizard/blob/master/CONTRIBUTING.md) 第一的.
 
 ## Editor Support
 
-*支持您最喜欢的编辑.*
+*支持您最喜欢的编辑器.*
 
 ### Eclipse
 
-* [dropwizard-tools](https://github.com/Tasktop/dropwizard-tools) - 用于Dropwizard的Eclipse工具
+* [dropwizard-tools](https://github.com/Tasktop/dropwizard-tools) - 用于 Dropwizard 的 Eclipse 工具
 
 ## Open Source
 
-* [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - 使用JAX-WS API支持构建SOAP Web服务和客户端.
-* [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - 允许HTTP重定向.
-* [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - 使您能够将config.yaml编写为Freemarker模板.
+* [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - 支持使用 JAX-WS API 构建 SOAP Web 服务和客户端.
+* [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - 允许 HTTP 重定向.
+* [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - 使您能够将 config.yaml 编写为 Freemarker 模板.
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) - 为资源和缓存响应生成缓存控制选项.
-* [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - 用于处理和验证XML的Dropwizard包
-* [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) -  Dropwizard的加密捆绑包
-* [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - 用于dropwizard的断路器设计模式
-* [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) -  MaxMind GeoIP2支持dropwizard
-* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - 支持在Dropwizard中读写Google协议缓冲区对象
-* [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - 在Dropwizard应用程序中通过ActiveMQ发送和接收JSON
-* [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) -  Dropwizard的Consul捆绑
-* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) -  Dropwizard的Zipkin捆绑包
-* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) -  Dropwizard的GraphQL包
-* [dropwizard-money](https://github.com/smoketurner/dropwizard-money) -  Dropwizard的Money捆绑包
-* [breakerbox](https://github.com/yammer/breakerbox) -  Tenacity + Archaius的前端
-* [tenacity](https://github.com/yammer/tenacity) -  Dropwizard的Hystrix包
-* [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - 在Dropwizard服务中使用gRPC服务器
-* [sqs-dropwizard](https://github.com/bascan/aws-dropwizard) -  Amazon SQS集成
-* [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) -  Dropwizard软件包，提供简单，明智的CORS支持
-* [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) - 一个暴露版本端点的Dropwizard包
+* [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - 用于处理和验证 XML 的 Dropwizard 包
+* [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - Dropwizard 的加密包
+* [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - dropwizard 的断路器设计模式
+* [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 支持 dropwizard
+* [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - 支持在 Dropwizard 中读写 Google Protocol Buffer 对象
+* [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - 在您的 Dropwizard 应用程序中通过 ActiveMQ 发送和接收 JSON
+* [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - Dropwizard 的领事包
+* [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - 用于 Dropwizard 的 Zipkin 包
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - 用于 Dropwizard 的 GraphQL 包
+* [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - Dropwizard 的钱包
+* [breakerbox](https://github.com/yammer/breakerbox) - 坚韧前端 + Archaius
+* [tenacity](https://github.com/yammer/tenacity) - 用于 Dropwizard 的 Hystrix 包
+* [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - 在 Dropwizard 服务中使用 gRPC 服务器
+* [sqs-dropwizard](https://github.com/bascan/aws-dropwizard) - 亚马逊 SQS 集成
+* [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - 提供简单、合理的 CORS 支持的 Dropwizard 包
+* [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) - 公开版本端点的 Dropwizard 包
 
 ### Boilerplate Destruction
-* [Brahma-HibernateUtils](https://github.com/gozefo/brahma-hibernateutils) - 一个注释处理器，用于跟踪``@ Entity```类，使dropwizard中的实体注册变得非常简单.
+* [Brahma-HibernateUtils](https://github.com/gozefo/brahma-hibernateutils) - 一个注释处理器来跟踪```@Entity``` 类，使 dropwizard 中的实体注册变得超级简单.
 
 ### Authentication
 
-* [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) -  Dropwizard的LDAP身份验证
-* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) -  Dropwizard bundle通过JWT cookie管理身份验证
+* [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - Dropwizard 的 LDAP 身份验证
+* [dropwizard-jwt-cookie-authentication](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard 捆绑包通过 JWT cookie 管理身份验证
 
 ### Assets
 
-* [dropwizard-configurable-assets-bundle](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - 在Dropwizard中使用的AssetBundle的实现，允许用户配置.
-* [dropwizard-markdown-assets-bundle](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - 将Markdown文件呈现为漂亮的HTML
+* [dropwizard-configurable-assets-bundle](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - 在 Dropwizard 中使用的 AssetBundle 实现，允许用户配置.
+* [dropwizard-markdown-assets-bundle](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - 将 Markdown 文件呈现为漂亮的 HTML
 
 ### Data Stores
 
-* [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) -  Etcd的Dropwizard套装
-* [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) - 连接到mongoDB的工厂和健康检查.
-* [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) - 一组在Dropwizard服务中使用Elasticsearch的类
-* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - 用于dropwizard的Zookeeper服务发现包和客户端.
-* [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - 对Cassandra的Dropwizard支持
-* [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - 对Riak的Dropwizard支持
-* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - 用于dropwizard的嵌入式OrientDB服务器
-* [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - 与...整合 [Atomix](http://atomix.io/)
+* [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) - 用于 Etcd 的 Dropwizard 捆绑包
+* [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) - 用于连接到 mongoDB 的工厂和健康检查.
+* [dropwizard-elasticsearch](https://github.com/dropwizard/dropwizard-elasticsearch) - 一组用于在 Dropwizard 服务中使用 Elasticsearch 的类
+* [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper 服务发现包和 dropwizard 客户端.
+* [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard 支持 Cassandra
+* [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard 支持 Riak
+* [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - 用于 dropwizard 的嵌入式 OrientDB 服务器
+* [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - 整合 [Atomix](http://atomix.io/)
 
 ### Metrics
 
-* [riemann-bundle](https://github.com/phaneesh/riemann-bundle) - 简化dropwizard指标与Riemann的集成
+* [riemann-bundle](https://github.com/phaneesh/riemann-bundle) - 简化 dropwizard 指标集成到 Riemann 中
 * [metrics](http://metrics.dropwizard.io/3.1.0/manual/third-party/) - 指标库
 
 ### Logging
 
-* [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) -  Dropwizard的Addon捆绑包，支持记录到启用GELF的服务器
-* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) -  Dropwizard集成，用于将错误记录到Sentry
-* [dropwizard-logstash-encoder](https://github.com/Wikia/dropwizard-logstash-encoder) -  Dropwizard日志插件用于使用logstash-logback-encoder发送日志
+* [dropwizard-gelf](https://github.com/gini/dropwizard-gelf) - Dropwizard 的插件包支持记录到支持 GELF 的服务器
+* [dropwizard-raven](https://github.com/tradier/dropwizard-raven) - 用于将错误记录到 Sentry 的 Dropwizard 集成
+* [dropwizard-logstash-encoder](https://github.com/Wikia/dropwizard-logstash-encoder) - 使用 logstash-logback-encoder 发送日志的 Dropwizard 日志插件
 
 ### Scheduled/Recurrence Jobs
 
-* [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - 集成Guice和Quartz的简单Job Scheduler实现.
-* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - 用于dropwizard的石英集成
-* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - 使用Sundial在Dropwizard安排的工作
+* [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - 集成 Guice 和 Quartz 的简单 Job Scheduler 实现.
+* [dropwizard-jobs](https://github.com/spinscale/dropwizard-jobs) - dropwizard 的 Quartz 集成
+* [dropwizard-sundial](https://github.com/timmolter/dropwizard-sundial) - 使用日晷在 Dropwizard 中安排工作
 
 ### Guice
 
-* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - 增加对Guice的支持.
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) -  Dropwizard guice集成
-* [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - 用于处理Guice集成的Dropwizard包.
+* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - 添加对 Guice 的支持.
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice 集成
+* [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - 用于处理 Guice 集成的 Dropwizard 包.
 
 ### Deployment
 
-* [WizToWar](https://github.com/twilio/wiztowar) - 从Dropwizard应用程序构建WAR
-* [wizard-in-a-box](https://github.com/rvs-fluid-it/wizard-in-a-box) - 将Dropwizard应用程序部署为战争
+* [WizToWar](https://github.com/twilio/wiztowar) - 从您的 Dropwizard 应用程序构建 WAR
+* [wizard-in-a-box](https://github.com/rvs-fluid-it/wizard-in-a-box) - 部署 Dropwizard 应用程序作为一场战争
 
 ## Tutorials
 
@@ -131,14 +130,14 @@
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/stve/awesome-dropwizard/blob/master/CONTRIBUTING.md) 第一.
+欢迎投稿！ 阅读 [contribution guidelines](https://github.com/stve/awesome-dropwizard/blob/master/CONTRIBUTING.md) 第一的.
 
 ## Awesome!
 
-了解更多 [awesome projects](https://github.com/sindresorhus/awesome).
+查看更多 [awesome projects](https://github.com/sindresorhus/awesome).
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Steve Agalloco](https://beforeitwasround.com) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Steve Agalloco](https://beforeitwasround.com) 已放弃该作品的所有版权和相关或邻接权.

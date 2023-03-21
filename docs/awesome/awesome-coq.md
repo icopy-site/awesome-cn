@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="coq-community/awesome-coq"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Coq [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/coq-community/awesome-coq/master/coq-logo.svg?sanitize=true" align="right" width="100" alt="coq-community logo" title="Awesome Coq is a coq-community project">](https://github.com/coq-community/manifesto)
@@ -45,7 +44,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 - [ALEA](https://github.com/coq-community/alea) - 用于推理随机算法的库.
 - [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - 数学组件的环形和场战术.
-- [Bignums](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
+- [Bignums](https://github.com/coq/bignums) - 任意大数字的图书馆.
 - [Bedrock Bit Vectors](https://github.com/mit-plv/bbv) - 用于推理固定精度机器字的库.
 - [CertiGraph](https://github.com/Salamari/CertiGraph) - 用于推理有向图及其在分离逻辑中的嵌入的库.
 - [CoLoR](https://github.com/fblanqui/color) - 关于重写理论、lambda 演算和终止的库，以及关于扩展 Coq 标准库的通用数据结构的子库.
@@ -87,7 +86,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 ### Plugins
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些算子的普遍量化方程、模结合律和交换律的策略.
-- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和战术.
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和策略.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转化为自动证明和重建已找到的证明相结合.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现浮点运算和舍入误差目标的策略.
@@ -146,7 +145,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 - [Analysis](https://github.com/math-comp/analysis) - 与数学组件兼容的经典实分析库.
 - [Category Theory in Coq](https://github.com/jwiegley/category-theory) - 范畴论的无公理形式化.
-- [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K*, CTL, and PDL.
+- [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - 逻辑 K、K*、CTL 和 PDL 的可靠性、完整性和可判定性.
 - [CoqPrime](https://github.com/thery/coqprime) - 使用 Pocklington 和椭圆曲线证书证明素数的库.
 - [CoRN](https://github.com/coq-community/corn) - 建设性实分析和代数图书馆.
 - [Coqtail Math](https://github.com/coq-community/coqtail-math) - 从算术到实数和复数分析的数学结果库.
@@ -158,7 +157,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
 - [Homotopy Type Theory](https://github.com/HoTT/HoTT) - 同伦论思想的发展.
 - [Infotheo](https://github.com/affeldt-aist/infotheo) - 信息论和线性纠错码的形式化.
-- [Mathematical Components](http://math-comp.github.io) - 数学理论的形式化，特别关注群论.
+- [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 - [Math Classes](https://github.com/coq-community/math-classes) - 基于类型类的数学结构的抽象接口.
 - [Monae](https://github.com/affeldt-aist/monae) - 单子效应和等式推理.
 - [Odd Order Theorem](https://github.com/math-comp/odd-order) - 奇阶定理的正式证明，这是有限群论的里程碑式成果.
@@ -236,7 +235,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑来推理 Coq 中的顺序命令式程序.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
 - [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - 形式化以支持计算理论的本科课程，包括语言和图灵机.
-- [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - 有关软件基础系列教科书的材料，包括一系列 YouTube 视频.
+- [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
 - [MathComp School](https://github.com/gares/math-comp-school-2022) - 介绍 SSReflect 证明语言和数学组件库的课程和练习的 Coq 资源.
 - [Mechanized Semantics](https://github.com/xavierleroy/cdf-mech-sem) - 法兰西学院编程语言语义课程的 Coq 资源.
 - [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2022/) - 介绍使用 Coq 开发和验证程序.

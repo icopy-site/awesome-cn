@@ -1,10 +1,9 @@
 <div class="github-widget" data-repo="NARKOZ/guides"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Guides
 
-为想要变得出色的程序员提供的指南.  
+想成为优秀程序员的指南.  
 这个存储库的目的是收集和分发有用的链接
-整个网络的编码风格指南和开发实践.
+网络上的编码风格指南和开发实践.
 
 
 
@@ -165,7 +164,7 @@
 ### API
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
-+ [良好 RESTful API 的原则
++ [良好的RESTful API原则
   设计](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
@@ -237,4 +236,4 @@ See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUT
 
 ---
 
-本作品已获得许可 [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+这项工作已获得许可 [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).

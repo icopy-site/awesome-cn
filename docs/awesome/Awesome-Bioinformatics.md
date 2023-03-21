@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="danielecook/Awesome-Bioinformatics"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Check URLs](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/url-check.yml/badge.svg)](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/url-check.yml) [![Generate TOC](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/toc.yml/badge.svg)](https://github.com/danielecook/Awesome-Bioinformatics/actions/workflows/toc.yml)
 
  &gt; 生物信息学是一个跨学科领域，它开发用于理解生物数据的方法和软件工具.  — [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
@@ -68,7 +67,7 @@
 - **[Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)** - 一种描述分析工作流程和工具的规范，这些工作流程和工具可移植并可扩展到各种软件和硬件环境，从工作站到集群、云和高性能计算 (HPC) 环境. [ [web](http://www.commonwl.org) ]
 - **[Cromwell](https://github.com/broadinstitute/cromwell)** - 面向科学工作流程的工作流程管理系统. [ [web](https://cromwell.readthedocs.io) ]
 - **[Galaxy](https://github.com/galaxyproject) ** - 一个流行的开源、基于网络的平台，用于数据密集型生物医学研究. 具有多种功能，从数据分析到工作流管理再到可视化工具. [ [paper-2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030816) | [web](https://galaxyproject.org) ]
-- **[Nextflow](https://github.com/nextflow-io/nextflow) （推荐）** - 围绕 UNIX 管道概念建模的流畅 DSL，它以可移植的方式简化了并行和可扩展管道的编写. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
+- **[Nextflow](https://github.com/nextflow-io/nextflow) （推荐）** - 围绕 UNIX 管道概念建模的流畅 DSL，以可移植的方式简化了并行和可扩展管道的编写. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/29412134) | [web](http://nextflow.io) ]
 - **[redun](https://github.com/insitro/redun)** - 基于 python 的工作流管理器.
 - **[Ruffus](https://github.com/cgat-developers/ruffus)** - 广泛用于科学和生物信息学的 python 计算管道库. [ [paper-2010](https://pubmed.ncbi.nlm.nih.gov/20847218) | [web](http://www.ruffus.org.uk) ]
 - **[SciPipe](https://github.com/scipipe/scipipe)** - 嵌入在 Go 编程语言中的工作流库，专注于支持复杂的工作流构造，编译为单个二进制文件，为每个输出提供强大的文件命名和全面的审计报告 [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31029061/) | [web](https://scipipe.org/) ]
@@ -173,13 +172,13 @@
 ### Variant Simulation
 
 - **[Bam Surgeon](https://github.com/adamewing/bamsurgeon)** - 用于向现有 .bam 文件添加突变的工具，用于测试突变调用者. [ [web](https://popmodels.cancercontrol.cancer.gov/gsr/packages/bamsurgeon) ]
-- **[wgsim](https://github.com/lh3/wgsim)** - **带有 samtools！** - 阅读模拟器. [ [web](https://popmodels.cancercontrol.cancer.gov/gsr/packages/wgsim) ]
+- **[wgsim](https://github.com/lh3/wgsim)** - **带有 samtools！** - 读取模拟器. [ [web](https://popmodels.cancercontrol.cancer.gov/gsr/packages/wgsim) ]
 
 ### Variant Prediction/Annotation
 
 - **[SIFT](https://github.com/teamdfir/sift)** - 预测氨基酸取代是否影响蛋白质功能. [ [paper-2003](https://pubmed.ncbi.nlm.nih.gov/12824425) | [web](http://sift.jcvi.org) ]
 - **[SnpEff](https://github.com/pcingola/SnpEff)** - 遗传变异注释和效应预测工具箱. [ [paper-2012](https://www.tandfonline.com/doi/full/10.4161/fly.19695) | [web](https://pcingola.github.io/SnpEff) ]
-- **[Ensembl VEP](https://anaconda.org/bioconda/ensembl-vep)** - VEP 确定您的变异（SNP、插入、缺失、CNV 或结构变异）对基因、转录物和蛋白质序列以及调控区域的影响. [ [paper-2016](https://doi.org/10.1186/s13059-016-0974-4) | [web](http://www.ensembl.org/info/docs/tools/vep/index.html) ]
+- **[Ensembl VEP](https://anaconda.org/bioconda/ensembl-vep)** - VEP 确定您的变异（SNP、插入、缺失、CNV 或结构变异）对基因、转录本和蛋白质序列以及调控区域的影响. [ [paper-2016](https://doi.org/10.1186/s13059-016-0974-4) | [web](http://www.ensembl.org/info/docs/tools/vep/index.html) ]
 
 
 ### Python Modules
@@ -205,14 +204,14 @@
 
 ### Annotation
 - **[Prokka](https://github.com/tseemann/prokka) ** - Prokka：快速原核基因组注释.  Prokka 是微生物基因组注释中引用最多的注释命令行工具之一.
-- **[Bakta](https://github.com/oschwengers/bakta) ** - Bakta 是一种用于对细菌基因组和质粒进行快速和标准化注释的工具. 它以机器可读的 JSON 和生物信息学标准文件格式提供富含 dbxref 和 sORF 的注释，用于自动下游分析.
+- **[Bakta](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
 ## Long-read sequencing
 
 ### Long-read Assembly
 
 - **[canu](https://github.com/marbl/canu)** - 用于大基因组和小基因组的单分子序列组装器.
-- **[flye](https://github.com/fenderglass/Flye)** - De novo assembler for single molecule sequencing reads using repeat graphs. 
+- **[flye](https://github.com/fenderglass/Flye)** - 使用重复图进行单分子测序读取的从头组装器. 
 - **[hifiasm](https://github.com/chhylp123/hifiasm)** - 用于准确 Hifi 读取的单倍型解析汇编器.
 - **[wtdbg2](https://github.com/ruanjue/wtdbg2)** - 一种用于长噪声读取组装的模糊 Bruijn 图方法
 
@@ -231,9 +230,9 @@
 - **[IGV js](https://github.com/igvteam/igv) ** - 基于 Java 的浏览器. 用于基因组数据和注释的快速、高效、可扩展的可视化工具. 处理多种格式. [ [paper-2019](https://pubmed.ncbi.nlm.nih.gov/31099383) | [web](https://software.broadinstitute.org/software/igv) ]
 - **[Island Plot](https://github.com/lairdm/islandplot) ** - 基于 D3 JavaScript 的基因组查看器. 构建 SVG. [ [paper-2015](https://pubmed.ncbi.nlm.nih.gov/25916842/) ]
 - **[JBrowse](https://github.com/GMOD/jbrowse)** - JavaScript 基因组浏览器，可通过插件和轨道定制进行高度定制. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27072794) | [web](http://jbrowse.org/) ]
-- **[PHAT](https://github.com/chgibb/PHAT)** - Point and click, cross platform suite for analysing and visualizing next-generation sequencing datasets. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30561651) | [web](https://chgibb.github.io/PHATDocs) ]
+- **[PHAT](https://github.com/chgibb/PHAT)** - 用于分析和可视化下一代测序数据集的点击式跨平台套件. [ [paper-2018](https://pubmed.ncbi.nlm.nih.gov/30561651) | [web](https://chgibb.github.io/PHATDocs) ]
 - **[pileup.js](https://github.com/hammerlab/pileup.js)** - JavaScript 库，可用于生成交互式和高度可定制的基于 Web 的基因组浏览器. [ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/27153605) ]
-- **[scribl](https://github.com/chmille4/Scribl)** - 用于绘制基于画布的基因图的 JavaScript 库. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/23172864) | [web](http://chmille4.github.io/Scribl) ]
+- **[scribl](https://github.com/chmille4/Scribl)** - JavaScript library for drawing canvas-based gene diagrams. [ [paper-2012](https://pubmed.ncbi.nlm.nih.gov/23172864) | [web](http://chmille4.github.io/Scribl) ]
 - **Lucid Align** - 现代序列比对查看器. [ [web](https://lucidalign.com) ]
 
 ### Circos Related
@@ -283,7 +282,7 @@
 - [RNA-seqlopedia](http://rnaseq.uoregon.edu/) - RNA-seqlopedia 对 RNA-seq 以及进行成功的 RNA-seq 实验所需的选择进行了精彩的概述.
 - [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) - 为 RNA-seq 计算分析提供了出色的路线图，包括挑战/障碍和需要注意的事项，以及如何将 RNA-seq 数据与其他数据类型集成.
 - [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39] - Lior Pachter 博士分享了他在著名 RNA-seq 分析软件 CuffDiff 和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
-- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - 分析所需的 RNA-seq 生物信息学工具在维基百科上的广泛列表，范围从质量控制、对齐、拼接分析和可视化的分析管道的所有部分.
+- [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) - 维基百科上的分析所需的 RNA-seq 生物信息学工具的广泛列表，范围从质量控制、对齐、拼接分析和可视化的分析管道的所有部分.
 - [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)进行 RNA-seq 分析时关于各种步骤和注意事项的注释.
 
 ### ChIP-Seq

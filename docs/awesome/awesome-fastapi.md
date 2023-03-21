@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mjhea0/awesome-fastapi"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable double-link-->
 
 ## Awesome FastAPI | [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
@@ -16,7 +15,7 @@
 
 - [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin)  - 功能管理面板，提供用于对数据执行 CRUD 操作的用户界面. 目前仅适用于 Tortoise ORM.
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - 一个强大而现代的管理 GUI，使用 Piccolo ORM.
-- [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
+- [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) - 适用于 SQLAlchemy 模型的 FastAPI/Starlette 管理面板.
 
 ### Auth
 
@@ -60,7 +59,7 @@
 
 #### ODMs
 
-- [Beanie](https://github.com/roman-right/beanie) - 用于 MongoDB 的异步 Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://docs.pydantic.dev/), which supports data 和 schema migrations out of the box.
+- [Beanie](https://github.com/roman-right/beanie) - 用于 MongoDB 的异步 Python ODM，基于 [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/)，它支持开箱即用的数据和架构迁移.
 - [MongoEngine](http://mongoengine.org/) - 用于从 Python 使用 MongoDB 的文档对象映射器（考虑 ORM，但用于文档数据库）.
 - [Motor](https://motor.readthedocs.io/) - 用于 MongoDB 的异步 Python 驱动程序.
 - [ODMantic](https://art049.github.io/odmantic/) - 集成了 AsyncIO MongoDB ODM [Pydantic](https://docs.pydantic.dev/).
@@ -134,13 +133,13 @@
 
 ### Podcasts
 
-- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) ——在这一集中 [Podcast Init](https://www.pythonpodcast.com/), FastAPI 的创建, [Sebastián Ramirez](https://tiangolo.com/), 分享了他构建 FastAPI 的动机及其背后的工作原理.
+- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) - 在这一集中 [Podcast Init](https://www.pythonpodcast.com/), FastAPI 的创建, [Sebastián Ramirez](https://tiangolo.com/), 分享了他构建 FastAPI 的动机及其背后的工作原理.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - 很好的项目概述.
 
 ### Articles
 
 - [FastAPI has Ruined Flask Forever for Me](https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da)
-- [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
+- [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - 深入了解您可能希望从 Flask 迁移到 FastAPI 的原因.
 
 ### Tutorials
 
@@ -184,7 +183,7 @@
 
 ### Courses
 
-- [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/) - 了解如何使用 Python、FastAPI 和 Docker 构建、测试和部署文本摘要微服务.
+- [Test-Driven Development with FastAPI and Docker](https://testdriven.io/courses/tdd-fastapi/) - Learn how to build, test, and deploy a text summarization microservice with Python, FastAPI, and Docker.
 - [Modern APIs with FastAPI and Python](https://training.talkpython.fm/courses/getting-started-with-fastapi) - 旨在让您使用 FastAPI 快速创建在云中运行的新 API 的课程.
 - [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - 您将学习使用 FastAPI 构建完整的网络应用程序，相当于您可以使用 Flask 或 Django 进行的操作.
 - [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - 了解如何将 Celery 添加到 FastAPI 应用程序以提供异步任务处理.

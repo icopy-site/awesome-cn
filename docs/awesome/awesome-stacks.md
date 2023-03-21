@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="stackshareio/awesome-stacks"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 <a href="https://awesomestacks.dev/"><img alt="Pink sunglasses with text Awesome Stacks" width="680px" src="https://raw.githubusercontent.com/stackshareio/awesome-stacks/master/src/images/awesome-stacks-logo-github.png"></a>
 <br><br>
@@ -17,7 +16,7 @@
 
 列表中的每个堆栈都有一个名称、描述和一些关键工具和技术的列表. 可选地，它链接到教程、入门工具包或样板文件，使入门变得容易.
 
-有一个你认为是构建东西的好方法的堆栈吗？ 请编辑此文件并添加它！ 查看 [https://github.com/stackshareio/awesome-stacks/blob/master/CONTRIBUTING.md](https://github.com/stackshareio/awesome-stacks/blob/master/CONTRIBUTING.md) 想要查询更多的信息.
+有一个你认为是构建东西的好方法的堆栈吗？ 请编辑此文件并添加它！ 查看 [https://github.com/stackshareio/awesome-stacks/blob/master/CONTRIBUTING.md](https://github.com/stackshareio/awesome-stacks/blob/master/CONTRIBUTING.md) 了解更多信息.
 
 #### Browsing the stacks
 
@@ -330,7 +329,7 @@ React Starter Kit for Firebase 是一个流行的项目模板（也称为样板�
 
 ### FReMP: Flask ReactJS MongoDB Python [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python)
 
-FReMP 堆栈是一个高度可扩展的全堆栈框架，可用于使用 Flask、ReactJS、MongoDB 和 Python 构建强大的现代 Web 应用程序.
+FReMP stack is a highly scalable full stack framework, which can be used to build robust and modern web apps using Flask, ReactJS, MongoDB and Python.
 
 - [Flask](https://flask.palletsprojects.com/) - [🛠️](https://stackshare.io/flask) - [🐙](https://github.com/pallets/flask) - 用于构建 Web 应用程序的 Python 微型框架.
 - [ReactJS](https://reactjs.org/) - [🛠️](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) - 用于构建用户界面的声明式、高效且灵活的 JavaScript 库.
@@ -363,7 +362,7 @@ Stack 用于使用 Google Cloud 服务部署和管理 Docker 容器化应用程�
 
 - [Solidity](https://solidity.readthedocs.io) - [🐙](https://github.com/ethereum/solidity) - Solidity 是一种面向对象的高级语言，用于实现智能合约.
 - [web3.js](https://web3js.readthedocs.io) - [🐙](https://github.com/ethereum/web3.js) - 以太坊 JavaScript API.
-- [db3.js](https://docs.db3.network/) - [🐙](https://github.com/dbpunk-labs/db3.js) - db3.js is the db3 network(Ethereum layer2) javascript API to write and query JSON documents
+- [db3.js](https://docs.db3.network/) - [🐙](https://github.com/dbpunk-labs/db3.js) - db3.js 是用于编写和查询 JSON 文档的 db3 网络（以太坊第 2 层）javascript API
 - [Truffle](https://truffleframework.com/truffle) - [🐙](https://github.com/trufflesuite/truffle) - 使用以太坊虚拟机 (EVM) 的区块链世界级开发环境、测试框架和资产管道.
 - [Ganache](https://truffleframework.com/ganache) - [🐙](https://github.com/trufflesuite/ganache) - 用于以太坊开发的个人区块链.
 - [drizzle](https://truffleframework.com/drizzle) - [🐙](https://github.com/trufflesuite/drizzle) - 前端库的集合，使编写 dapp 用户界面更容易、更可预测.
@@ -375,7 +374,7 @@ Stack 用于使用 Google Cloud 服务部署和管理 Docker 容器化应用程�
 - [Skylight](https://www.skylight.io) - [🛠](https://stackshare.io/skylight) - 用于 Rails 应用程序的智能分析器.
 - [New Relic](https://newrelic.com) - [🛠](https://stackshare.io/new-relic) - 用于 Ruby、PHP、.Net、Java、Python 和 Node.js 应用程序的 SaaS 应用程序性能管理.
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - [🐙](https://github.com/MiniProfiler/rack-mini-profiler) - 用于开发和生产 Ruby 机架应用程序的分析器.
-- [Sqreen](https://www.sqreen.com/) - [🛠](https://stackshare.io/sqreen) - Ruby、PHP、Java、Go、Python、Node.js 应用的安全监控和保护.
+- [Sqreen](https://www.sqreen.com/) - [🛠](https://stackshare.io/sqreen) - Security monitoring and protection for Ruby, PHP, Java, Go, Python, and Node.js Apps.
 
 ### User Behavior Analytics via Segment [↗](https://awesomestacks.dev/user-behavior-analytics-via-segment)
 
@@ -445,7 +444,7 @@ Stack 用于使用 Google Cloud 服务部署和管理 Docker 容器化应用程�
 
 ### React Native with Expo and Hasura [↗](https://awesomestacks.dev/react-native-with-expo-and-hasura)
 
-Hasura is an open source GraphQL engine that deploys instant, real-time GraphQL APIs on any Postgres database. This React Native stack uses Hasura droplets hosted on Digital Ocean.
+ Hasura 是一个开源的 GraphQL 引擎，可以在任何 Postgres 数据库上部署即时、实时的 GraphQL API. 这个 React Native 堆栈使用托管在 Digital Ocean 上的 Hasura 液滴.
 
 - [Hasura](https://hasura.io/) - [🛠️](https://stackshare.io/hasura) - [🐙](https://github.com/hasura/graphql-engine) - 具有细粒度访问控制的 Postgres 上快速、即时的实时 GraphQL API.
 - [React Native](https://facebook.github.io/react-native/) - [🛠️](https://stackshare.io/react-native) - [🐙](https://github.com/facebook/react-native) - 使用 JavaScript 和 React 构建原生移动应用程序.

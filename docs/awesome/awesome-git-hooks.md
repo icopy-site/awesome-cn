@@ -1,8 +1,7 @@
 <div class="github-widget" data-repo="compscilauren/awesome-git-hooks"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
   <a href="https://git-scm.com/">
-  <img width="455" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/git-logo.png" alt="Awesome Git Hooks"><br>很棒的Git挂钩
+  <img width="455" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/git-logo.png" alt="Awesome Git Hooks"><br>很棒的 Git 钩子
 </h1>
 
 <p align="center">
@@ -12,28 +11,28 @@
 
 ## Awesome Git Hooks
 
-&gt;：anchor：易于使用的git挂钩，可在git工作流程期间自动执行任务.
+&gt; :anchor：易于使用的 git 钩子，用于在 git 工作流程中自动执行任务.
 
- Git钩子是自定义脚本，可用于自动执行在执行git命令之前或之后触发的任务. 这些挂钩有两组：客户端和服务器端. 客户端挂钩由诸如提交和合并之类的操作触发，而服务器挂钩由网络操作（如接收推送的提交）运行. 此仓库包含有用的资源以及各种git hook脚本，可以轻松对其进行自定义以满足不同目的.
+ Git 挂钩是自定义脚本，可用于自动执行在执行 git 命令之前或之后触发的任务. 这些挂钩有两组：客户端和服务器端. 客户端挂钩由提交和合并等操作触发，而服务器端挂钩运行在网络操作上，例如接收推送的提交. 这个 repo 包含有用的资源以及各种可以轻松定制以满足不同目的的 git hook 脚本.
 
-：heavy_check_mark：无需安装/下载
+:heavy_check_mark: 无需安装/下载
 
 ：heavy_check_mark：代码有据可查
 
- ：heavy_check_mark：抢走！ 复制您要使用的代码，然后粘贴到.git / hooks文件夹中
+ :heavy_check_mark: 拿走！ 复制您要使用的代码并粘贴到您的 .git/hooks 文件夹中
 
-总是欢迎捐款！ 请看我们 [Contribution Guidelines](https://github.com/compscilauren/awesome-git-hooks/blob/master/CONTRIBUTING.md) . 另外，如果在下面找不到所需的脚本，则可以 [create a new issue](https://github.com/CompSciLauren/awesome-git-hooks/issues/new?assignees=&labels=enhancement&template=new-git-hook-script-request.md&title=) 要求它.
+ _always_ 欢迎投稿！ 请看我们 [Contribution Guidelines](https://github.com/compscilauren/awesome-git-hooks/blob/master/CONTRIBUTING.md) . 另外，如果你在下面找不到你想要的脚本，你可以 [create a new issue](https://github.com/CompSciLauren/awesome-git-hooks/issues/new?assignees=&labels=enhancement&template=new-git-hook-script-request.md&title=) 请求它.
 
 
 
 ## Git Hook Scripts
 
-注意：每个脚本旁边的图标表示该脚本使用的语言.
+注意：每个脚本旁边的图标表示它是用什么语言编写的.
 
- | 图标| 语言|
+ | 图标 | 语言 |
 | -------------------------------------------------------- | -------- |
-| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">      |  bash |
-| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">  |  `python` |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">      |  `庆典` |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">  |  `蟒蛇` |
 | <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon">      |  `perl` |
 
 ### commit-msg
@@ -42,63 +41,63 @@
 
 ### post-checkout
 
-- [delete-pyc-files](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-checkout-hooks/delete-pyc-files.hook) -每次签出新分支时，删除所有.pyc文件. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">
-- [new-branch-alert](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-checkout-hooks/new-branch-alert.hook) -首次签出新分支时显示消息. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [delete-pyc-files](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-checkout-hooks/delete-pyc-files.hook) - 每次签出新分支时删除所有 .pyc 文件. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">
+- [new-branch-alert](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-checkout-hooks/new-branch-alert.hook) - 首次签出新分支时显示消息. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### post-update
 
-- [update-server-info](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-update-hooks/update-server-info.hook) -准备一个打包的存储库以用于哑传输（例如http）. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [update-server-info](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-update-hooks/update-server-info.hook) - 准备一个打包的存储库以用于哑传输（例如 http）. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### pre-commit
 
-- [format-code](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/format-code.hook) -运行命令以格式化代码并重新添加格式化后修改的所有文件. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
-- [search-term](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/search-term.hook) -如果在代码中找到特定术语，则提交失败. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
-- [spell-check-md-files](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/spell-check-md-files.hook) -检查扩展名为.md的文件是否存在拼写错误. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
-- [verify-name-and-email](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook) -如果user.name或user.email不正确，则提交失败. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [format-code](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/format-code.hook) - 运行命令格式化代码并重新添加格式化后修改的任何文件. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [search-term](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/search-term.hook) - 如果在代码中找到特定术语，则提交失败. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [spell-check-md-files](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/spell-check-md-files.hook) - 检查扩展名为 .md 的文件是否存在拼写错误. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [verify-name-and-email](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook) - 如果 user.name 或 user.email 不正确，提交失败. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### prepare-commit-msg
 
-- [include-git-diff-name-status](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/include-git-diff-name-status.hook) -在“ git status”输出之前，将“ git diff --name-status -r”的输出包含到消息中. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
-- [insert-issue-number](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/insert-issue-number.hook) -将问题编号插入落实消息的开头. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">
+- [include-git-diff-name-status](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/include-git-diff-name-status.hook) - 将“git diff --name-status -r”的输出包含在消息中，就在“git status”输出之前. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [insert-issue-number](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/insert-issue-number.hook) - 将问题编号插入提交消息的开头. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">
 
 ### pre-push
 
-- [prevent-bad-push](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-push-hooks/prevent-bad-push.hook) -防止在日志消息以“ WIP”开头的情况下推送提交（正在进行的工作）. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [prevent-bad-push](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-push-hooks/prevent-bad-push.hook) - 防止推送日志消息以“WIP”（正在进行的工作）开头的提交. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### pre-rebase
 
-- [prevent-rebase](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-rebase-hooks/prevent-rebase.hook) -防止重新合并已经合并到“下一个”分支的主题分支，因为允许它会导致对已经发布的历史记录进行重新设置. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [prevent-rebase](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-rebase-hooks/prevent-rebase.hook) - 防止已经合并到“下一个”分支的主题分支变基，因为允许它会导致变基已经发布的历史. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### query-watchman
 
-- [fsmonitor-watchman](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/query-watchman-hooks/fsmonitor-watchman.hook) -将自给定时间以来已修改的所有文件输出到stdout. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon">
+- [fsmonitor-watchman](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/query-watchman-hooks/fsmonitor-watchman.hook) - 将自给定时间以来已修改的所有文件输出到标准输出. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon">
 
 ### update
 
-- [update](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/update-hooks/prevent-unannotated-tags.hook) -阻止未注释的标签进入. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [update](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/update-hooks/prevent-unannotated-tags.hook) - 阻止未注释的标签进入. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ## Quick Start
 
- 1.选择一个挂钩，任何挂钩！ 如果不确定从哪里开始，请尝试“验证名称和电子邮件”.
-2.导航到项目的hooks文件夹（.git / hooks）.
- 3.您应该会在其中看到文件列表. 创建一个名为您要使用的确切提交类型的新文件（例如：“ commit-msg”，“ pre-rebase”，“ pre-commit”等）. 不要给它扩展名.
+ 1.选一个钩子，任何钩子！ 如果您不确定从哪里开始，请尝试“验证姓名和电子邮件”.
+2. 导航到项目的 hooks 文件夹 (.git/hooks).
+ 3. 您应该会看到其中已有的文件列表. 创建一个名为您要使用的确切提交类型的新文件（例如：“commit-msg”、“pre-rebase”、“pre-commit”等）. 不要给它延期.
 
 ![create new file](https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/create-new-file.gif)
 
-4.打开新文件，然后从您从该存储库中选择的挂钩中粘贴代码（例如： [verify-name-and-email.hook](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
- 5.保存文件. 做完了！ 现在，git hook将自动触发.
+4. 打开你的新文件并粘贴你从这个 repo 中选择的钩子中的代码（例如： [verify-name-and-email.hook](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
+ 5. 保存文件. 完毕！ 现在 git 钩子将自动触发.
 
 ## Tools
 
-- [Husky](https://github.com/typicode/husky) -使用良好的用户界面管理git挂钩.
+- [Husky](https://github.com/typicode/husky) - 使用漂亮的用户界面管理 git hooks.
 
-- [Overcommit](https://github.com/sds/overcommit) -完全可配置和可扩展的git hook管理器.
+- [Overcommit](https://github.com/sds/overcommit) - 一个完全可配置和可扩展的 git hook 管理器.
 
-- [Git Build Hook Maven Plugin](https://github.com/rudikershaw/git-build-hook) -在Maven构建过程中安装Git钩子和配置.
+- [Git Build Hook Maven Plugin](https://github.com/rudikershaw/git-build-hook) - 在 Maven 构建期间安装 Git 挂钩和配置.
 
-- [CaptainHook](https://github.com/CaptainHookPhp/captainhook) -适用于PHP开发人员的Git挂钩管理器.
+- [CaptainHook](https://github.com/CaptainHookPhp/captainhook) - PHP 开发人员的 Git 挂钩管理器.
 
-- [pre-commit](https://github.com/pre-commit/pre-commit) -用于管理和维护多语言预提交挂钩的框架.
+- [pre-commit](https://github.com/pre-commit/pre-commit) - 用于管理和维护多语言预提交挂钩的框架.
 
 ## Written Guides
 
@@ -134,4 +133,4 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ]（https://creativecommons.org/publicdomain/zero/1.0/）<br /> 这项工作是根据<a rel="license" href="http://creativecommons.org/licenses/by/1.0/">知识共享署名1.0国际许可授权的</a>.
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ](https://creativecommons.org/publicdomain/zero/1.0/)<br /> 本作品根据<a rel="license" href="http://creativecommons.org/licenses/by/1.0/">Creative Commons Attribution 1.0 International License</a>获得许可.

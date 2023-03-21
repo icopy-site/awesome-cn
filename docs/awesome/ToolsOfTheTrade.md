@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="cjbarber/ToolsOfTheTrade"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Hacker News Tools of the Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; 贸易工具，来自 [Hacker News](https://news.ycombinator.com).
@@ -41,7 +40,7 @@
   * 营销
   * 生产力
   * 对于创始人
-  * 业务跟踪和分析
+  * 业务跟踪与分析
   * 设计
   * 用户体验
     * [Customer Feedback](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/customer-feedback)
@@ -115,7 +114,7 @@
 | [JIRA Agile](https://www.atlassian.com/software/jira/agile) | [@jira](https://twitter.com/JIRA)  |  $10/月 - $30/月 | 远大梦想，聪明工作，快速交付.  @JIRA、@Confluence、@Bitbucket 等的开发者. 用于计划、协作、编码和支持的软件. 为团队打造 |
 | [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner)  |  $9/月 - $19/月 |  Tom&#39;s Planner 是在线甘特图软件，允许任何人通过简单的拖放操作在线创建、协作和共享甘特图. 它基于网络，非常直观且易于使用.  |
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam)  |  29 美元/月 - 129 美元/月 | 组织和跟踪一切.  Breeze 向您显示正在处理的内容、谁在处理什么、工作流中的位置以及花费了多少时间.  |
-| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp)  |  8 美元/月 - 48 美元/月 | 自由职业者的心声. 我们将 Cushion 打造为一个自由职业者团队，他们总是在计划和管理我们的一年时遇到困难——总是承担过多的工作，从没想过要休息一下.  |
+| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp)  |  8 美元/月 - 48 美元/月 | 自由职业者的心声. 我们把 Cushion 打造成了一个自由职业者团队，他们总是在计划和管理我们的一年时遇到困难——总是承担太多的工作，从没想过要休息一下.  |
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
 | [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask)  |  $0 - $8/月 | 直观的项目管理和团队协作，Ora 是您团队的指挥中心！ 一个跟踪项目的地方. 任务. 时间. 提交. 状态报告. 您的整个产品或业务！  |
 | [Slate](https://heyslate.com/) | [@_heyslate](https://twitter.com/_heyslate)  |  15 美元/月 |  Slate 是一种规划工具，适用于希望在一个地方组织日程、项目和财务的自由设计师和开发人员.  |
@@ -130,7 +129,7 @@
 | [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot)  | 免费 - 149 美元/月 | 简单明了的时间跟踪软件可帮助您的团队开展更有利可图的项目. 无论您喜欢 iOS、Android、Apple Watch 还是台式电脑，Tick 都是跟踪时间的最简单方式.  |
 | [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org)  | 自托管 |  Kimai 是一个免费的开源时间跟踪器. 它跟踪工作时间并按需打印出您的活动摘要. 每年、每月、每天、按客户、按项目、按行动等.
 | [Timetrap](https://github.com/samg/timetrap)  |  - | 免费 | 简单的开源命令行时间跟踪.  |
-| [OfficeClip](https://www.officeclip.com/web/timesheet)  |  @OfficeClip | 免费 - 12 美元/用户/月 | 专为小型企业设计的时间跟踪软件. 无限用户和无限时间免费. 可作为 boh 托管和自托管 |
+| [OfficeClip](https://www.officeclip.com/web/timesheet)  |  @OfficeClip | 免费 - 12 美元/用户/月| 专为小型企业设计的时间跟踪软件. 无限用户和无限时间免费. 可作为 boh 托管和自托管 |
 
 ## App Developer Tools
 
@@ -154,7 +153,7 @@
 | [Paddle](https://paddle.com/) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  0 - 2500 美元/月 | 针对移动和 Web 应用程序的高级自定义分析.  Paddle 是一个分析平台，用于衡量用户操作而不是页面浏览量. 操作可以是用户所做的任何事情：评论产品、玩手机游戏、在您的网站上购买，等等.  Paddle 处理自定义事件和自定义数据的能力使其超越了更传统的分析平台.  |
 | [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat)  |  9.95 美元/月 - 49.95 美元/月 | 为您的网站建立忠实且有价值的受众群体.  Chartbeat 的实时流量和受众行为数据向您显示谁在您的网站上，以及他们现在如何与您的内容互动——这样您就可以在重要的时候采取行动.  |
 | [Chartio](https://chartio.com) | [@chartio](https://twitter.com/chartio)  |  - | 使用 Chartio 可视化和探索您的数据. 通过直观的拖放界面创建交互式图表和完美的仪表板. 单击一下即可从基本表格切换到复杂的数据可视化. 强大的过滤器让您可以对数据进行切片和切块，并且您无需配置任何东西就可以深入了解大多数图表.  |
-| [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky)  |  9.99 美元/月 - 19.99 美元/月 | 实时网络分析.  Clicky 让您可以看到每位访问者以及他们在您的网站上执行的每项操作，并可以选择为访问者附加自定义数据，例如用户名或电子邮件地址. 单独分析每个访问者并查看他们的完整历史记录.  |
+| [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky)  |  9.99 美元/月 - 19.99 美元/月 | 实时网络分析.  Clicky 让您可以看到每个访问者以及他们在您的网站上执行的每个操作，并可以选择将自定义数据附加到访问者，例如用户名或电子邮件地址. 单独分析每个访问者并查看他们的完整历史记录.  |
 | [Fathom Analytics](https://usefathom.com/) | [@usefathom](https://twitter.com/usefathom)  |  0-79 美元/月 | 简单、有用的网站统计信息，无需跟踪或存储用户的个人数据|
 | [Gauges](https://get.gaug.es) | [@gauges](https://twitter.com/gauges)  |  $6-$48/月 | 仪表提供实时网络分析，例如有多少人访问您的网站、他们来自哪里以及他们去了哪里.  |
 | [GoatCounter](https://www.goatcounter.com) | [@arp242_martin](https://twitter.com/arp242_martin)  | 免费供个人使用或自行托管 | 简单的网络统计. 不跟踪个人数据. [Open source](https://github.com/zgoat/goatcounter) |
@@ -177,7 +176,7 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [Optimizely](https://www.optimizely.com) | [@optimizely](https://twitter.com/optimizely)  |  17 美元/月 - 359 美元/月 | 您将实际使用的 A/B 测试. 跟踪参与度、点击次数、转化次数、注册次数或对您和您的业务重要的任何其他内容.  Optimizely 的自定义目标跟踪提供了无限范围的您可以定义的可衡量操作. 只需告诉 Optimizely 要测量的内容，剩下的交给我们.  |
-| [Visual Website Optimizer](https://vwo.com) | [@VWO](https://twitter.com/VWO) | $49/mo - $129/mo | Increase your website sales and conversions. Using Visual Website Optimizer, they A/B test different versions of their website and landing pages to find out which one works best. Made for marketers, our tool is incredibly easy to use, and doesn't need IT resources. |
+| [Visual Website Optimizer](https://vwo.com) | [@VWO](https://twitter.com/VWO)  |  49 美元/月 - 129 美元/月 | 增加您网站的销量和转化率. 使用 Visual Website Optimizer，他们对网站和登录页面的不同版本进行 A/B 测试，以找出效果最好的版本. 我们的工具专为营销人员打造，非常易于使用，而且不需要 IT 资源.  |
 | [EyeQuant](https://www.eyequant.com) | [@eyequant](https://twitter.com/eyequant)  |  $199/月 - $999/月 | 立即了解您的访问者在访问您网站的第一秒内会看到和错过什么，并提高您的转化率. 在几秒钟内分析现场网站或模型，无需代码.  |
 | [Optimize by Google](https://optimize.google.com)  |  - | 免费 |  Optimize 允许您测试网页的变体并查看它们如何针对您指定的目标执行.  |
 
@@ -288,7 +287,7 @@
 |:--------|:--------|:--------|:------------|
 | [Fluentd](https://www.fluentd.org) | [@fluentd](https://twitter.com/fluentd)  |  - | 设置一次，收集更多.  Fluentd 是一个开源数据收集器，专为处理数据流而设计.  150 多个插件让您立即存储数据以进行日志管理、大数据分析等 |
 | [Flume](https://github.com/apache/flume) | - | - | - |
-| [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2) | - | Field-tested open source data analytics system used and trusted all around the world. Search your logs, create charts, send reports and be alerted when something happens. All running on the existing JVM in your datacenter. |
+| [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2)  |  - | 经过现场测试的开源数据分析系统在世界各地使用并值得信赖. 搜索您的日志、创建图表、发送报告并在发生某些事情时收到警报. 所有这些都在您数据中心的现有 JVM 上运行.  |
 | [LogDNA](https://logdna.com) | [@logdna](https://twitter.com/LogDNA)  | 免费 - 3 美元/GB | 日志管理现代化：来自任何平台、任何卷的实时日志聚合、监控和分析.  |
 | [LogEntries](https://logentries.com) | [@logentries](https://twitter.com/logentries)  |  16 美元/月 - 245 美元/月 | 日志管理和分析变得简单.  Logentries 为日志管理和分析提供了一种易于使用的云服务.  |
 | [Logit.io](https://logit.io) | [@logit_io](https://twitter.com/logit_io)  | 从 $74/月 |  Logit.io 提供基于托管 ELK、Open Distro 和 Grafana 的日志和指标管理.  |
@@ -304,7 +303,7 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta)  | 免费至 119 美元/月 |  Web 应用程序的全栈应用程序监控. 通过查看事务、错误、浏览器指标、主机指标等，了解代码、网络和最终用户，尤其是多语言和面向服务的应用程序.  |
-| [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic)  |  149 美元/月 | 所有网络应用程序的应用程序监控. 它是关于从您的软件生成的数十亿指标中获得可操作的实时业务洞察力，包括用户点击流、移动活动、最终用户体验和交易.  |
+| [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic) | $149/mo | Application monitoring for all your web apps. It’s about gaining actionable, real-time business insights from the billions of metrics your software is producing, including user click streams, mobile activity, end user experiences and transactions. |
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal)  |  49 美元/月 - 259 美元/月 | 更好地监控您的 Rails 应用程序. 通过平均值和第 90 个百分位测量值获取有关您网站性能的详细统计数据.  |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental)  |  $150/月 - $750/月 | 实时监控您的应用程序.  Instrumental 旨在以高得离谱的规模监控指标. 以每秒 500,000 个指标或更高的速度，它甚至不会出汗 |
 | [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp)  |  12 美元/月 - 159 美元/月 | 简单的 JavaScript 错误跟踪.  Atatus 是一个简单的错误跟踪和正常运行时间监控系统. 添加两行代码并实时收到应用程序中发生的任何错误的警报.  |
@@ -479,7 +478,7 @@
 |:--------|:--------|:--------|:------------|
 | [Tomatoes](http://www.tomato.es/) | [@tomatoesapp](https://twitter.com/tomatoesapp)  |  - | 使用番茄工作法跟踪您的时间并提高工作效率.  Tomatoes 是一个“番茄钟追踪器”，一个番茄工作法® 驱动的时间追踪器. 使用称为“pomodoros”的 25 分钟时段跟踪您的时间.  |
 | [RescueTime](https://www.rescuetime.com) | [@rescuetime](https://twitter.com/rescuetime)  | 免费 - 9 美元/月 |  RescueTime 可让您准确了解自己的时间分配方式，从而帮助您每天提高工作效率.  |
-| [Qbserve](https://qotoqot.com/qbserve/) | [@Qbserve](https://twitter.com/Qbserve)  | 一次性 40 美元 |  Qbserve 是一个适用于 Mac 的时间跟踪器，它可以执行 RescueTime 可以执行的任何操作，还可以自动跟踪项目时间、生成发票并在本地存储跟踪数据.  |
+| [Qbserve](https://qotoqot.com/qbserve/) | [@Qbserve](https://twitter.com/Qbserve)  | 一次性 40 美元 |  Qbserve 是一个适用于 Mac 的时间跟踪器，它可以执行 RescueTime 可以执行的所有操作，还可以自动跟踪项目时间、生成发票并在本地存储跟踪数据.  |
 | [Timing](https://timingapp.com/) | [@TimingApp](https://twitter.com/TimingApp)  |  29 美元 - 79 美元 |  Mac 的自动时间和生产力跟踪. 帮助您按部就班地完成工作并确保不会丢失计费时间（如果您按小时计费）.  |
 | [fman](https://fman.io) | [@m_herrmann](https://twitter.com/m_herrmann)  |  14.00 美元 | 轻松管理和传输文件. 适用于 Windows、Mac 和 Linux.  |
 | [WakaTime](https://wakatime.com) | [@WakaTime](https://twitter.com/WakaTime)  | 免费 - 9 美元/月 | 使用文本编辑器插件的自动生产力指标. 目标、排行榜、GitHub 集成、自动项目/语言/分支检测.  |
@@ -526,11 +525,11 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [Citus](https://www.citusdata.com) | [@citusdata](https://twitter.com/citusdata)  |  - |  Citus 通过分片、复制和查询并行化扩展 PostgreSQL. 所以您可以专注于您的应用程序，而不用担心您的数据库.  Citus 可用作开源企业软件和完全托管的数据库即服务.  |
-| [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team)  |  - | 完全事务性、云就绪、不可变的数据库. 不可变数据意味着强一致性与水平读取可伸缩性相结合，再加上内置缓存.  Datomic 是一个分布式数据库，旨在实现可扩展、灵活和智能的应用程序，在下一代云架构上运行.  |
+| [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team)  |  - | 完全事务性、云就绪、不可变的数据库. 不可变数据意味着强一致性与水平读取可伸缩性相结合，再加上内置缓存.  Datomic 是一个分布式数据库，旨在支持可扩展、灵活和智能的应用程序，在下一代云架构上运行.  |
 | [Tinkerpop](https://tinkerpop.apache.org/)  |  - |  - | 图空间中的开源软件产品.  |
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo)  |  - | 基于 Web 的数据库设计工具.  Vertabelo 允许您可视化地为 PostgreSQL、MySQL、Oracle、SQL Server、SQLite 和 IBM DB2 设计数据库模型. 您可以从 SQL、XML 或使用逆向工程工具导入现有的数据库结构. 设计模型后，您可以为各种 ORM（Propel、jOOQ、SQLAlchemy 或 [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
 | [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus)  |  0 - 49 美元 | 具有直观 GUI 工具的现代本地客户端，用于创建、访问、查询和编辑多个数据库：MySQL、PostgreSQL、SQLite、Microsoft SQL Server、Amazon Redshift、MariaDB、CockroachDB、Vertica、Cassandra、Oracle 和 Redis.  |
-| [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin)  | 免费 | 用于数据库版本管理的多合一工具. 它允许您通过单击设置任何版本的本地数据库服务器.  |
+| [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin)  | 免费 | 用于数据库版本管理的多合一工具. 它允许您在单击内设置任何版本的本地数据库服务器.  |
 
 
 ## Accounting/Invoicing
@@ -544,7 +543,7 @@
 | [FreeAgent](https://www.Freeagent.com) | [@Freeagent](https://twitter.com/Freeagent)  |  20 美元/月 | 超过 35,000 名自由职业者和小型企业信赖的会计软件. 通过您的电子银行对账单核对进出企业的资金，并建立月度余额图表.  |
 | [Blinksale](https://www.blinksale.com) | [@blinksale](https://twitter.com/blinksale)  |  15.00 美元 | 介绍 BLINKSALE 无限. 一个计划. 一个价格. 无限的一切.  Blinksale 让你看起来最好. 有十多种发票设计和感谢信，您一定会展现出自己最好的一面. 每次.  |
 | [Cashboard](https://cashboardapp.com/) | [@cashboard](https://twitter.com/cashboard)  |  8.25 美元/月 - 250 美元/月 |  FreeLANCE 时间跟踪和发票软件在全球范围内受到成千上万人的信赖.  Cashboard 是我们设计用来解决这种情况的工具. 它适用于我们的软件咨询，我们认为它也适用于您. 经过许多不眠之夜的辛勤工作，我们于 2007 年春季推出了 Cashboard. 这是第一个将估算、发票、时间跟踪和在线支付结合到一个工具中的解决方案.  |
-| [Paydirt](https://paydirtapp.com) | [@paydirtapp](https://twitter.com/paydirtapp) | $8/mo - $149/mo | Smart Time Tracking Easier Invoicing Online Payments. In Paydirt, you can start a timer from any page in one click. No fiddly menus. No navigating around. Just a start button for each task. |
+| [Paydirt](https://paydirtapp.com) | [@paydirtapp](https://twitter.com/paydirtapp)  |  8 美元/月 - 149 美元/月 | 智能时间跟踪更轻松的在线支付发票. 在 Paydirt 中，您可以从任何页面单击一次启动计时器. 没有繁琐的菜单. 无需四处导航. 每个任务只有一个开始按钮.  |
 | [inDinero](https://www.indinero.com) | [@indinero](https://twitter.com/indinero) | - | - |
 | [QuickBooks Online](https://c27.qbo.intuit.com/qbo27/login?webredir) | - | - | - |
 | [Xero](https://www.xero.com) | [@Xero](https://twitter.com/xero/) | - | - |
@@ -574,7 +573,7 @@
 | [PayPal](https://www.paypal.com) | [@PayPal](https://twitter.com/PayPal)  |  - |  PayPal 是一家国际电子商务公司，允许通过互联网进行支付和汇款. 在线汇款可作为支票和汇票等传统纸质支付方式的电子替代方式 |
 | [Gumroad](https://gumroad.com) | [@gumroad](https://twitter.com/gumroad)  |  - | 实现更高的转化率、更低的费用和更多的客户控制. 直接向观众销售电影. 创造数字产品很难，但销售它们不应该. 我们让您在几秒钟内开始销售下载.  |
 | [FetchApp](https://www.fetchapp.com) | [@fetchapp](https://twitter.com/fetchapp)  |  5 美元/月 - 500 美元/月 | 更简单的获取方式. 简而言之，FetchApp 允许您销售和数字交付可下载商品 |
-| [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify)  |  459 美元/月 - 65 美元/月 | 轻松管理您的经常性收入业务. 客户注册、付款、使用优惠券、升级...您可以使用您需要的任何定价模式、收费卡、发送发票和提醒等来收取一次性和经常性费用.
+| [Chargify](https://www.chargify.com) | [@chargify](https://twitter.com/chargify) | $459/mo - $65/mo | Easily Manage Your Recurring Revenue Business. Customers sign up, make payments, use coupons, upgrade... You bill one-time & recurring fees using whatever pricing model you need, charge cards, send invoices & reminders, etc. |
 | [Recurly](https://recurly.com) | [@Recurly](https://twitter.com/Recurly)  |  99 美元/月 - 259 美元/月 | 订阅计费自动化. 作为领先的定期计费平台，Recurly 确保设置简单、集成快速，并且我们的服务可根据您的业务需求进行扩展. 使用 Recurly，您将准备好接受付款并立即专注于增加销售额.  |
 | [ChargeOver](https://chargeover.com) | [@ChargeOver](https://twitter.com/chargeover)  |  $65/月- $549/月 |  ChargeOver 是一个功能齐全的发票平台，支持支付计划、定期计费、一次性计费和所有主要网关后端.  |
 | [Chargebee](https://www.chargebee.com/) | [@chargebee](https://twitter.com/chargebee)  |  $249/月- $599/月 |  Chargebee 是快速增长的 B2B SaaS 的订阅计费和收入运营 |
@@ -588,7 +587,7 @@
 | [Stripe](https://stripe.com) | [@stripe](https://twitter.com/stripe)  |  2.9% + 30¢/成功充电.  | 功能丰富的支付. 无需从头开始设计付款表格.  Stripe Checkout 提供美观、可定制的支付流程，适用于桌面和移动设备. 当您使用 Checkout 时，您始终是最新的，不需要额外的代码.  |
 | [Pin](https://pinpayments.com) | [@PinPayments](https://twitter.com/PinPayments)  |  2.9% + 30¢/成功充电.  | 付款，重启. 接受全球受众的信用卡付款通常需要商家帐户. 为每种货币建立商户账户的过程对于小企业来说可能过于困难和昂贵.  |
 | [PayMill](https://www.paymill.com) | [@Paymill](https://twitter.com/Paymill)  |  0.28 欧元 - 0.25 欧元 | 在线支付变得简单. 根据您网站的流量定制结账方式，实现个性化付款 |
-| [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform. One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token. |
+| [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly)  |  150 美元/月 - 1500 美元/月 | 支付作为平台.  Spreedly 的主要优势之一是通过跨多个支付网关工作来覆盖大量商家帐户. 作为直接商家，您可以在全球范围内进行交易，但根据地理或其他业务规则将资金存入独特的商家账户. 作为 SaaS 平台，您可以支持个人客户的独特商家帐户. 支付网关令牌是您向我们指示此特定交易将针对哪个唯一商家帐户的方式. 每个唯一的商家帐户 = 一个唯一的支付网关令牌.  |
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay)  |  2.9% + 30¢/交易.  |  WePay 是第一个提供平台（市场、众筹和商业软件/工具）的支付引擎，这是一种拥有客户体验的方式，同时仍然使他们免受 100% 的欺诈和监管风险.  |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  5% + 50¢/交易.  | 支付处理和履行，专门用于桌面应用程序和 SaaS 订阅服务. 为您处理增值税和发票，让您的会计变得更容易.  |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant)  |  0% + 互换 + $99+/月 | 付款统一.  | 将您的应用程序、网站、软件或硬件与 Fattmerchant API 集成，以无缝接受所有主要信用卡、ACH 付款等！ 非常适合面对面和在线交易.  |
@@ -598,7 +597,7 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [Lad](https://lad.js.org) | [@niftylettuce](https://twitter.com/niftylettuce)  | 免费 |  Lad 为 Node.js 构建了一个 Koa webapp 和 API 框架. 它还包括作业调度程序、自动电子邮件预览和模板等等.  |
-| [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman)  | 免费 | 现代 Web 应用程序的 Web 脚手架工具 |
+| [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman) | Free | The web scaffolding tool for modern web apps |
 | [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails)  |  39 美元 - 249 美元 |  Ruby on Rails 项目生成器 |
 | [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster)  | 免费 | 面向 Java 开发人员的时髦堆栈. 一个方便的生成器中的 Spring Boot + Angular/React.  |
 | [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy)  |  59 美元 |  React 代码库生成器.  |
@@ -790,7 +789,7 @@
 | [Jelastic](https://jelastic.com/) | [@Jelastic](https://twitter.com/Jelastic) | - | - |
 | [CloudBees](https://www.cloudbees.com) | [@CloudBees](https://twitter.com/cloudbees) | - | - |
 | [Microsoft Azure](https://azure.microsoft.com) | [@Azure](https://twitter.com/azure)  |  - | 以 IaaS 闻名 |
-| [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | [@awscloud](https://twitter.com/awscloud)  |  - | 与 Azure 一样，它更以 IaaS 着称 |
+| [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | [@awscloud](https://twitter.com/awscloud) | - | Like Azure, it's more known for IaaS |
 | [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [@Azure](https://twitter.com/azure) | - | - |
 | [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ)  |  - | 欧洲复活节 |
 | [Eldarion](https://eldarion.com/) | [@eldarion](https://twitter.com/eldarion)  |  - | 他们用 Python 和 Go 开发的开源 Kelproject 服务 |
@@ -838,7 +837,7 @@
 | [mLab](https://mlab.com ) | [@mlab](https://twitter.com/mlab) | - | - |
 | [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) | [@MongoDB](https://twitter.com/MongoDB)  | 免费 - $1000+/月 |  MongoDB官方托管服务 |
 | [Compose](https://www.compose.com) | [@composeio](https://twitter.com/composeio/)  |  - |  Compose 是开发人员用来部署、托管和扩展数据库（Elasticsearch 和 MongoDB）的完全托管平台.
-| [RedisLabs](https://redislabs.com) | [@RedisLabs](https://twitter.com/RedisLabs)  | 免费 - $338+/月 |  RedisLabs 提供完全托管的云服务，以高可用性和可扩展的方式托管和运行您的 Redis 或内存缓存数据集，具有可预测和稳定的顶级性能.  |
+| [RedisLabs](https://redislabs.com) | [@RedisLabs](https://twitter.com/RedisLabs)  | 免费 - $338+/月 |  RedisLabs 提供完全托管的云服务，以高可用性和可扩展的方式托管和运行您的 redis 或内存缓存数据集，具有可预测和稳定的顶级性能.  |
 
 ## Backend-aaS
 

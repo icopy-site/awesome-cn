@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="tomodachi94/awesome-computercraft"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint ignore-->
 
 ## Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -63,7 +62,7 @@
 - [AUKit](https://mcjack123.github.io/AUKit/) - ComputerCraft 的典型音频处理和转换库. 
 - [Basalt](https://basalt.madefor.cc/) - 强调用户体验的 GUI 库.
 - [Bigfont](https://pastebin.com/3LfWxRWh) - 一个可以轻松编写不同字体大小内容的库.
-- [C3D](https://c3d.madefor.cc/) -  An advanced 3D rendering API.
+- [C3D](https://c3d.madefor.cc/) - 高级 3D 渲染 API.
 - [CC-Archive](https://github.com/MCJack123/CC-Archive) - 用于存档和取消存档文件的各种库.
 - [dbprotect](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363) - 对“调试”API 的保护包装，允许限制对受保护函数中上值的访问.
 - [ecc.lua](https://www.computercraft.info/forums2/index.php?/topic/29803-) - 实施 [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography).
@@ -82,11 +81,11 @@
 - [battleship](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4) - 流行的双人游戏的实现*[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*.
 - [CCDoom](https://github.com/Xella37/CCDoom) - 这 [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) 使用 Pine3D 移植到 ComputerCraft.
 - [CC-Minecraft](https://github.com/Xella37/CC-Minecraft) - *Minecraft* 使用 Pine3D 移植到 ComputerCraft.
-- [LuaGB](https://github.com/MCJack123/LuaGB)  - ComputerCraft 的 Game Boy（Color）模拟器端口. 在 CraftOS-PC 中效果最好.
+- [LuaGB](https://github.com/MCJack123/LuaGB)  - ComputerCraft 的 Game Boy（Color）模拟器端口. 在 CraftOS-PC 上效果最好.
 - [lunatic86](https://github.com/MCJack123/lunatic86) - ComputerCraft 的 8086 PC 仿真器端口.
 - [Musicify](https://github.com/knijn/musicify) - 用于在 ComputerCraft 上播放音乐的轻量级客户端：已调整.
 	- [tracc](https://github.com/MCJack123/tracc/tree/playAudio) - ComputerCraft 的 XM 模块跟踪器/播放器，支持游戏中的 8 通道复音.
-- [YahtCC](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e) - *的实施[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* 骰子游戏.
+- [YahtCC](https://gist.github.com/MCJack123/4f7f1635998f44630c8440e81213d32e) - *的实施[Yahtzee](https://en.wikipedia.org/wiki/Yahtzee)* dice game.
 - [YouCube](https://youcube.madefor.cc) - 在 ComputerCraft 中访问 YouTube 和其他服务.
 - [YTP2CCP](https://pastebin.com/nxEMWHY3) - 转换评论的 YouTube 钢琴音符并在 CC:T 中演奏.
 

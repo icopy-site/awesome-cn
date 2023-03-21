@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="fkromer/awesome-ros2"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Robot Operating System 2 (ROS 2) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/fkromer/awesome-ros2/master/ros_logo.svg?sanitize=true" align="right" width="86">](https://raw.githubusercontent.com/ros2/ros2/wiki)
@@ -76,7 +75,7 @@
 ### Application layer
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) - Apex.Autonomy 将自治算法作为单独的构建块提供，并与 Autoware.Auto 兼容.
-- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件栈.
+- [Autoware.Auto](https://www.autoware.auto/) - Autoware.Auto 为自动驾驶技术提供基于 ROS 2 的开源软件堆栈.
 - [ros2_control](https://github.com/ros-controls/ros2_control) - `ros2_control` 是关于如何在机器人控制 (`ros2_controllers`) 的上下文中阐述和使用 ROS 2 中的新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) - ros_controllers 的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的 ROS 包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
@@ -103,7 +102,7 @@
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) - 可能是一个抓取库 :). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) - 用于 AprilTag 检测的 ROS2 节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [rosbridge_suite](https://github.com/RobotWebTools/rosbridge_suite) - 将您的浏览器桥接到 ROS 2.0. ![rosbridge_suite](https://img.shields.io/github/stars/RobotWebTools/rosbridge_suite.svg)
-- [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
+- [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters 根据过滤器需要满足的条件混合各种消息，并派生自 ROS message_filters 的 ROS2 移植. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - Tensorflow 中用于计算机视觉任务的 ROS2 节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - PyTorch 中用于计算机视觉任务的 ROS2 节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [ros2_pytorch_cuda](https://github.com/slabban/ros2_pytorch_cuda) - 的扩展 [ros2_pytorch](https://github.com/klintan/ros2_pytorch) 适用于容器化的 CUDA 设备.
@@ -149,17 +148,17 @@
 - [ros2_usb_camera](https://github.com/klintan/ros2_usb_camera) - ROS2 通用 USB 摄像头驱动程序. ![ros_astra_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
 - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - 多个 Android 传感器的 ROS2 驱动程序集合. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - 用于英特尔® 实感™ 设备的 ROS2 包装器. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
-- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
+- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - Raspberry Pi 相机模块的 ROS2 节点. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
 - [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - 用于 TrackIMU IMU 传感器的 ROS2 节点![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
 - [HRIM](https://github.com/AcutronicRobotics/HRIM) - 机器人模块的标准接口.
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 可集成工具，专注于 ROS2 和 FIWARE 之间的相互通信. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - ROS2 上的 Linorobot. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
-- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于 MiniRys 机器人的 ROS2 软件堆栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
+- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于 MiniRys 机器人的 ROS2 软件栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) - 用于将 PX4 与 ROS 通信的 ROS2/ROS 包. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
 - [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - 用于 MultiWii 和 Cleanflight 飞行控制器的 ROS2 节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ydlidar 的 ROS2 包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ZED SDK 的 ROS 2 包装测试版.
-- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso 雷达驱动程序.
+- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso 雷达驱动器.
 - [sick_scan2](https://github.com/SICKAG/sick_scan2) - 用于 SICK TiM 系列激光扫描仪 (TiM551/TiM561/TiM571) 的 ROS2 驱动程序.
 - [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - Ouster OS-1 激光雷达的 ROS2 驱动程序. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - 有关微型 ROS 项目中使用和支持的硬件平台的信息和文档.
@@ -324,7 +323,7 @@
 - 如何在 Open-RMF 中定义、分配和执行自定义任务 [video](https://vimeo.com/showcase/9954564/video/767157210) [slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf)
 - ros2_control 从业者指南 [video](https://vimeo.com/showcase/9954564/video/767139648) [slides](http://download.ros.org/downloads/roscon/2022/A%20practitioner_s%20guide%20to%20ros2_control.pdf)
 - Zenoh：如何使 ROS 2 在任何规模下工作并与任何东西集成 [video](https://vimeo.com/769972405) [slides](http://download.ros.org/downloads/roscon/2022/Zenoh%20How%20to%20Make%20ROS2%20Work%20at%20any%20Scale%20and%20Integrate%20with%20Anything.pdf)
-- 使用 MoveIt2 和 ros2_control 进行光学制造的案例研究 [video](https://vimeo.com/showcase/9954564/video/767140351) [slides](http://download.ros.org/downloads/roscon/2022/A%20case%20study%20in%20optics%20manufacturing%20with%20MoveIt2%20and%20ros2_control.pdf)
+- A case study in optics manufacturing with MoveIt2 and ros2_control [video](https://vimeo.com/showcase/9954564/video/767140351) [slides](http://download.ros.org/downloads/roscon/2022/A%20case%20study%20in%20optics%20manufacturing%20with%20MoveIt2%20and%20ros2_control.pdf)
 - 20/20 Robot Vision - 如何使用 camera_aravis 在 ROS 1 和 ROS 2 中设置相机 [video](https://vimeo.com/showcase/9954564/video/767140329) [slides](http://download.ros.org/downloads/roscon/2022/20%20-%2020%20Robot%20Vision%20-%20How%20to%20setup%20cameras%20in%20ROS%201%20&%20ROS%202%20using%20camera_aravis.pdf)
 - 过滤您的 ROS 2 内容 [video](https://vimeo.com/767166447) [slides](http://download.ros.org/downloads/roscon/2022/Filter%20your%20ROS%202%20content.pdf)
 - 随着时间的推移不断发展的消息类型和其他接口 [video](https://vimeo.com/showcase/9954564/video/767140015) [slides](http://download.ros.org/downloads/roscon/2022/Evolving%20Message%20Types,%20and%20Other%20Interfaces,%20Over%20Time.pdf)
@@ -366,7 +365,7 @@
 
 ### 2019
 
-- 使用 Xilinx 和 H-ROS (Xilinx Inc.) 的机器人模块化 [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
+- 机器人模块化与 Xilinx 和 H-ROS (Xilinx Inc.) [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
 
 ### ROSCon JP 2018 (english slide presentations only)
 
@@ -402,7 +401,7 @@
 
 ### ROS Industrial Conference 2017
 
-- micro Robot Operating System: ROS for highly resource-constrained devices [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
+- 微型机器人操作系统：用于高度资源受限设备的 ROS [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb6d524a6947d9d0cbc68/1513862873907/07_Losa.pdf)
 - ROS2 - 它来了 [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5a3bb787e4966b606fe227d7/1513863070599/11_Thomas.pdf)
 
 ### ROSCon 2017
@@ -466,7 +465,7 @@ DDS 安全.
 - [Acutronic Robotics](https://github.com/AcutronicRobotics)  - 不存在了. 硬件机器人信息模型（HRIM）、硬件机器人操作系统（H-ROS）的发起人，世界第一台模块化工业机械臂MARA的创造者.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - “前沿计算”.
 - [Alias Robotics](https://aliasrobotics.com/) - 机器人网络安全背景下的产品和服务.
-- [Amazon](https://github.com/aws-robotics) - Amazon Amazon Web Services (AWS) 的机器人团队.
+- [Amazon](https://github.com/aws-robotics) - 亚马逊亚马逊网络服务 (AWS) 的机器人团队.
 - [Apex.AI](https://www.apex.ai/) - “用于自主移动的安全且经过认证的软件”.
 - [AutonomouStuff](https://autonomoustuff.com) - “自治系统和解决方案的世界领导者”.
 - [Bosch](https://github.com/boschresearch) - 博世研究机器人团队.
@@ -483,7 +482,7 @@ DDS 安全.
 - [Mission Robotics](https://missionrobotics.us/) - 面向海洋智能新时代的硬件和软件.
 - [Roboception GmbH](https://roboception.com/en/) - 机器人的实时感知.
 - [ROBOOX](https://roboox.co/) - 用于消费类机器人的开源软件生态系统.
-- [Rover Robotics](https://roverrobotics.com/) - 坚固耐用的工业级机器人.
+- [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 - [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
 - [synapticon](https://www.synapticon.com/technology) - ROS兼容的运动控制和驱动产品，努力支持ROS2.
 - [Wind River](https://labs.windriver.com/ros2-for-vxworks/) - VxWorks 的 ROS2.

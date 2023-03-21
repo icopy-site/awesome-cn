@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="notpresident35/awesome-learn-gamedev"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [<img src="https://raw.githubusercontent.com/notpresident35/awesome-learn-gamedev/master/images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
 
 ## Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -74,7 +73,7 @@
 [Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - 大量资产列表，重点放在 Unity 开发上
 
 
-[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - 游戏开发各个方面的免费和开源软件列表
+[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
 
 
 [VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - 加州大学欧文分校视频游戏开发俱乐部的研讨会和资源列表 () 
@@ -146,7 +145,7 @@
 [Math for Game Programmers](https://gamemath.com/book/intro.html) - 一本免费的游戏程序员数学书籍.
 
 
-[Mature Optimization](https://carlos.bueno.org/optimization/) - A free book on structuring code for performance, as well as testing large systems.
+[Mature Optimization](https://carlos.bueno.org/optimization/) - 一本关于为性能构建代码以及测试大型系统的免费书籍.
 
 
 [Data Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html) - 一本关于面向数据设计的免费书籍，是面向对象编程的替代品
@@ -236,7 +235,7 @@
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Nvidia 关于 GPU 编程和架构的三 (3) 本免费书籍.
 
 
-[Render Hell](http://simonschreibt.de/gat/renderhell/) 🟪 - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
+[Render Hell](http://simonschreibt.de/gat/renderhell/)  - 图形概述和为程序员呈现的所有内容. 涵盖概述，以及大量书籍和其他资源的参考资料，以便进行更深入的阅读.
 
 
 ["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - 关于_非常_技术艺术形式的 YouTube 系列
@@ -342,7 +341,7 @@
 
 [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Unity 和 HLSL 着色器教程.
 
-[Shadertoy](https://www.shadertoy.com/) - 在线着色器编辑器和托管/共享站点.
+[Shadertoy](https://www.shadertoy.com/) - An online shader editor and hosting/sharing site.
 
 
 [Render Doc](https://renderdoc.org/) - 一个程序，可以分解从游戏中渲染的帧，并允许您分析创建它的过程.
@@ -435,7 +434,7 @@
 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) - 从信誉良好的渠道吸引人们的详尽系列.
 
 
-[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) 💠🟪 - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
+[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o)  - 适合初学者和中级画家的数字绘画指南. 请参阅 Sinix 的其他教程，以获取针对更高级艺术家的指南.
 
 
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - 一个可搜索的人类参考图像存储库，带有便于搜索的过滤器（即“1 名 20-40 岁的女性和前面的狗”或“3 人坐在家里”）
@@ -604,7 +603,7 @@
 ### Reference
 
 
-[Game Docs](https://gamedocs.org/category/design-document/) - A collection of design documents from completed games - links have been ripped and placed below.
+[Game Docs](https://gamedocs.org/category/design-document/) - 已完成游戏的设计文档集 - 链接已被撕下并放在下面.
 
 
 [Destiny](http://www.cand.land/destiny) - David Candland 的《命运》（一款因其 UI 获奖的游戏）的 UI/UX 文档集.
@@ -795,7 +794,7 @@
 [Papers Please Devlog](https://fguillen.github.io/PapersPleaseDevlogScrap/) - 来自论文开发的帖子请.
 
 
-[EA Spouse](https://ea-spouse.livejournal.com/274.html)  - 一个关于紧缩的警示故事. 看在我们所有人的份上，不要让这个行业重蹈覆辙.
+[EA Spouse](https://ea-spouse.livejournal.com/274.html) - A cautionary tale on crunch. For all of our sakes, don't let the industry return to this.
 
 
 [Surveillance Self-Defense](https://ssd.eff.org/en) - 隐私和在线自卫的提示、工具和教程

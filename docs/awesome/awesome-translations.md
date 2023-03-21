@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mbiesiad/awesome-translations"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt; 将文本的含义从一种语言转移到另一种语言.
@@ -106,7 +105,7 @@
 - [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - 第 8 章：i18n 和 l10n.
 - [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - 国际化您的应用程序.
 - [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - “软件全球化和在计算机和移动设备上添加语言”，作者 Craig Cummings（幻灯片）.
-- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
+- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - 国际化 Flutter 应用程序.
 - [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - 什么是 `hreflang` 属性以及它如何影响您的 SERP.
 - [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - 关于 ASP.NET Core 中的全球化和本地化的文章.
 
@@ -122,9 +121,9 @@
 - [Speakt](https://speakt.com/blog/) - 全面的资源，提供来自业内最佳专业人士的有关翻译相关一切的深入信息.
 - [Lexico](https://www.lexico.com/)  - 提供英语和西班牙语词典的集合，以及对许多单词和语言的好奇心（在“探索”部分）. 它由牛津大学出版社出版.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - 包含适合初学者翻译的好技巧.
-- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家经营. 您可以收听音频文件，其中包含他们对兼职翻译工作的提示和意见.
+- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家经营. 您可以收听音频文件，其中包含他们对自由译者工作的提示和意见.
 - [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德语翻译成英语的 Jayne Fox 运营. 它讨论了翻译人员的持续专业发展 (CPD) 和使用技术（特别是 CAT 工具/TEnT）来支持他们的工作.
-- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - 提供关于本地化管理、协作翻译平台、翻译管理系统、机器翻译以及本地化行业最大参与者的极其详细的描述和意见.
+- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
 
 ## Online Courses
 
@@ -148,7 +147,7 @@
 - [LocalizationLab](https://www.localizationlab.org/) - 由 7000 多名贡献者组成的全球社区，他们支持互联网自由工具的翻译和本地化.
 - [Pontoon](https://pontoon.mozilla.org/) - 各种 Mozilla 本地化项目.
 - [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - IBM Cloud 上的一项服务，支持动态翻译新闻、专利或对话文档.
-- [Project Fluent](https://projectfluent.org) - 旨在释放自然语言翻译的全部表达能力的本地化范式.
+- [Project Fluent](https://projectfluent.org) - 旨在释放自然语言翻译的全部表达能力的本地化范例.
 - [ICU - International Components for Unicode](https://icu.unicode.org/) - 一套成熟的、广泛使用的 C/C++ 和 Java 库，为软件应用程序提供 Unicode 和全球化支持.
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Django 文档的一部分，专注于国际化和本地化.
 - [Glocalization Strategy Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - GILT 论坛的本地化和全球化专业人士指南.

@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="mfkl/awesome-vlc"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 > [VLC](https://www.videolan.org/vlc/) 是一个免费和开源的跨平台多媒体播放器和框架，可以播放大多数多媒体文件以及 DVD、音频 CD、VCD 和各种流媒体协议.
 

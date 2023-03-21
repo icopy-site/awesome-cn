@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="kdeldycke/awesome-billing"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--lint disable awesome-heading-->
 
 <p align="center">
@@ -58,7 +57,7 @@
 
 弹性资源的动态方案.
 
-- [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商以每个人的最佳利益行事.” 还详细说明了其他定价模型的问题.
+- [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商以每个人的最大利益行事.” 还详细说明了其他定价模型的问题.
 
 - [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - 基于使用的定价对云服务更有意义的原因：优化投资回报率，将所有常规工作负载保留在传统架构中，并为弹性和实验项目保留云计算.
 
@@ -222,7 +221,7 @@ The central repository of all available services, products, variants, options an
 
 ### Online Ads
 
-有针对性的在线广告市场与传统的云市场有很多共同之处. 那里有一些很好的灵感，从概念到技术.
+有针对性的在线广告市场与传统的云市场有很多共同点. 那里有一些很好的灵感，从概念到技术.
 
 - [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - 用于有针对性的在线广告的预算进度资源集合.
 
@@ -240,7 +239,7 @@ The central repository of all available services, products, variants, options an
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中具体化.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何体现在小公司的财务报表中.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
@@ -400,7 +399,7 @@ The central repository of all available services, products, variants, options an
 
 ### Electronic invoices
 
-- [Factur-X](https://github.com/akretion/factur-x) - 支持法国和德国电子发票标准的 Python 库.
+- [Factur-X](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 - [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - 大多数发票软件可以读写UBL文件（XML）进行数据传输.
 
@@ -420,7 +419,7 @@ The central repository of all available services, products, variants, options an
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944)  - 根本原因？ 人们在低湿度空气中穿着大量羊毛，产生大量静电.
 
-- ACH 的工作原理：开发人员的观点， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
+- ACH 的工作原理：从开发人员的角度来看， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox 试图解决不可靠支付服务提供商的问题.
 
@@ -550,7 +549,7 @@ The central repository of all available services, products, variants, options an
 
 - [Apple Subscriptions HIG](https://developer.apple.com/design/human-interface-guidelines/subscriptions/overview/) - 关于如何制作的指南和建议 [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) 方便使用的.
 
-- [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - Focus first on other things in the cart, like easing anxiety and second-guessing by adding reassurance (trust marks, testimonials) near the credit card and completion steps, as well as some guarantee language that you may have used earlier in the product exploration process.
+- [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - 首先关注购物车中的其他东西，例如通过在信用卡和完成步骤附近添加保证（信任标记、推荐）以及您可能在产品探索早期使用过的一些保证语言来缓解焦虑和事后猜测过程.
 
 ## Business Intelligence
 

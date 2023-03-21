@@ -1,8 +1,7 @@
 <div class="github-widget" data-repo="busterc/awesome-cordova"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
 
-精选的科尔多瓦图书馆，资源和闪亮内容的精选清单.
+令人惊叹的 Cordova 库、资源和闪亮事物的精选列表.
 
 ## FAQ
 
@@ -52,8 +51,8 @@
 
 ## Tools
 
-*发电机
-  *应用程序
+* 发电机
+  * 应用程序
     * [generator-angularjs-cordova](https://github.com/keshavos/generator-angularjs-cordova)
     * [generator-cordova-react](https://github.com/jackong/generator-cordova-react)
     * [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
@@ -62,15 +61,15 @@
     * [generator-onsenui-ngcordova](https://github.com/healthonnet/generator-onsenui-ngcordova)
     * [generator-polymer-cordova](https://github.com/emoriarty/generator-polymer-cordova)
     * [generator-redux-react-cordova](https://github.com/zmeecer/generator-redux-react-cordova)
-  *图标+开机画面
+  * 图标 + 启动画面
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
-  *图标
+  * 图标
     * [cordova-icon](https://github.com/AlexDisler/cordova-icon)
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm)
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
-  *开机画面
+  * 启动画面
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
     * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators)
     * [cordova-splash](https://github.com/AlexDisler/cordova-splash)
@@ -79,21 +78,21 @@
     * [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin)
     * [generator-cordova-plugin-bb10](https://github.com/blackberry/generator-cordova-plugin-bb10)
     * [generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed)
-*测试
+* 测试
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
   * [ripple](https://github.com/ripple-emulator/ripple)
-* 建造
+* 建筑
   * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config)
   * [cordova-xml](https://github.com/mifi/cordova-xml)
   * [cordova-auto-patch](https://github.com/alexshevch/cordova-auto-patch)
   * [xavtool](https://github.com/gabrielrobert/xavtool)
-*记录
+* 记录
   * [Bugfender](https://github.com/bugfender/cordova-plugin-bugfender)
 
 ## Other Awesome Lists
 
-其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
+其他非常棒的列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.
 
 ## Contributing
 
-永远欢迎您的贡献！
+随时欢迎您的贡献！

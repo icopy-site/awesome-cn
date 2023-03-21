@@ -1,5 +1,4 @@
 <div class="github-widget" data-repo="maehr/awesome-digital-history"></div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Digital History [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/maehr/awesome-digital-history/master/android-chrome-512x512.png" align="right" width="100">](https://maehr.github.io/awesome-digital-history/)
@@ -79,7 +78,7 @@
 - [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - 伦敦中央刑事法院，1674 年至 1913 年.
 - [The National Archives](https://www.nationalarchives.gov.uk/) - 一个非内阁部门，以及英国政府、英格兰和威尔士的官方档案馆和出版商.
 - [NLS](https://data.nls.uk/data/) - 来自苏格兰国家图书馆的数据收藏.
-- [National Records of Scotland](https://www.nrscotland.gov.uk/) - 收集、保存和制作有关苏格兰人民和历史的信息，并提供给今世后代的信息.
+- [National Records of Scotland](https://www.nrscotland.gov.uk/) - Collect, preserve and produce information about Scotland's people and history and make it available to inform current and future generations.
 
 ### Netherlands
 
@@ -139,7 +138,7 @@
 - [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - 卡尔顿大学肖恩格雷厄姆的数字历史方法和读物.
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学 Cameron Blevins 的数字历史方法和读物.
 - [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 您将学习如何批判性地分析历史条件、发展、模式和断裂——或者，如何对这些提出质疑.
-- [Local Linkages](https://locallinkages.org/) - How to frame questions about the past, identify sources to answer those questions, place them in context, and present that historical interpretation online in a digital form.
+- [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.
 - [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评审的教程，可帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.
 - [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - Jupyter Book（德语）面向正在寻找 Python 编程语言的第一个面向应用程序和交互式介绍的历史学家.
