@@ -18,7 +18,7 @@
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 清晰的项目概览并附有示意图.  GIF 演示. 广泛的代码示例.
 - [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - 带有简短显示可以实现的目标的项目徽标、用于轻松导航的目录、重要徽章、干净的安装指南以及显示如何使用该功能的多个代码片段.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 带有解释图形的项目和用例描述. 使用多种工具和集成说明进行构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题.  TOC 便于导航.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Markdown 功能丰富，布局现代，描述清晰，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的屏幕截图. 简单的安装说明.  TOC 便于导航. 好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 带有有用链接的漂亮小菜单. 其中包含针对主要问题的常见问题解答. 支持者. 好语言.
@@ -36,6 +36,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie#readme)  - 项目做什么的描述. 演示截图. 项目标志.  TOC 便于导航. 制作徽章. 快速简单的安装和使用部分. 包括示例部分.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme)  - 项目登陆页面. 清楚地描述项目的作用. 演示截图. 简单的安装和使用部分. 包括一个具有常见用途的示例部分和一个移动演示部分.
 - [iterative/dvc](https://github.com/iterative/dvc#readme)  - ReStructuredText 格式示例，与 PyPi 兼容. 徽标，自定义网站式菜单. 流畅的工作原理动画. 徽章. 不错的贡献部分与名人堂.
+- [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa#readme)  - 清晰的描述. 功能列表.  TOC 便于导航. 简单的安装说明. 使用代码示例. 带有 GIF 的项目样本和应用程序商店的链接. 文档和出版物. 清晰的开发/贡献规则.
 - [karan/joe](https://github.com/karan/joe#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 易于安装和使用部分.
 - [kopach/karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter#readme)  - 项目标志. 有用的徽章、清晰的自述文件和用于快速演示的屏幕截图. 简洁的目录.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme)  - 项目标志. 极简主义描述. 徽章.  GIF 演示. 关于该项目. 如何使用. 例子. 学分. 附加示例. 
@@ -64,6 +65,7 @@
 - [shama/gaze](https://github.com/shama/gaze#readme)  - 项目标志. 简明描述. 功能列表. 使用部分. 常问问题. 很棒的 AP​​I 文档. 发行历史.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 制作徽章. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard#readme)  - 项目标志. 构建和测试/覆盖徽章. 从浅显易懂的描述过渡到以人为本的描述. 显示用法的动画 GIF. 为清晰布局的部分定制横幅. 标题的自定义文本资产. 使用“快速启动”部分立即号召性用语. 一致且易于阅读的命令名称和签名. 获得帮助的三个即时选项. 提供的彩蛋注重细节.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制号召性用语徽章. 用法展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  - 使用字符清洁徽标. 关于发展的简要更新. 详细的贡献指南. 投稿建议.
 - [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme)  - 之所以脱颖而出，是因为虽然它只是一个简单的网站，但它作为一个非常开放的项目呈现给经验不足的开发人员，以友好、包容的语气和易于理解的设置说明来磨练他们的实力. 包括许多在其他漂亮的自述文件中找到的常见元素.
@@ -82,7 +84,7 @@
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *叶戈尔·布加延科*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson（思想机器人）*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *汤姆·普雷斯顿-维尔纳*
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *亚当·斯塔科维亚克*
+- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 - ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 
 ## Tools
