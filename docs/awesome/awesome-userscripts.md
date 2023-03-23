@@ -47,7 +47,7 @@
 ### Ads
 
 * [Anti-Adblock Killer](http://reek.github.io/anti-adblock-killer/) - 绕过网站中的反广告拦截功能.
-* [AntiAdware](https://greasyfork.org/scripts/4294-antiadware) - 删除受支持网站上的强制下载加速器、管理器和广告软件.
+* [AntiAdware](https://github.com/handyuserscripts/antiadware) - 删除受支持网站上的强制下载加速器、管理器和广告软件.
 * [AdsBypasser](https://adsbypasser.github.io/) - 绕过广告、弹出窗口和倒计时广告.
 
 

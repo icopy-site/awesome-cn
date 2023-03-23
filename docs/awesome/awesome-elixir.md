@@ -130,6 +130,7 @@
 * [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - 使用 Elixir、Phoenix Framework、React 和 Redux 构建的 Good Old 游戏.
 * [Phoenix Toggl](https://github.com/bigardone/phoenix-toggl) - 在 Elixir、Phoenix Framework、React 和 Redux 中完成的 Toggl 致敬.
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - 在 Elixir、Phoenix Framework、React 和 Redux 中完成的 Trello 致敬.
+* [Plural](https://github.com/pluralsh/plural)  - 只需两个命令即可在您自己的云帐户中部署您最喜欢的开源应用程序，例如 airflow 和 airbyte. 服务器端用 Elixir 和 Phoenix Framework 编写，前端用 React 编写.
 * [poxa](https://github.com/edgurgel/poxa) - 开放 Pusher 实现，与 Pusher 库兼容.
 * [Queerlink](https://github.com/Queertoo/Queerlink) - 用 Elixir 编写的简单而高效的 URL 缩短服务.
 * [RemoteRetro](https://github.com/stride-nyc/remote_retro) - 进行敏捷回顾的实时应用程序 [remoteretro.org](https://remoteretro.org) 用 Elixir/Phoenix/React 编写.
@@ -157,7 +158,7 @@
 ## Audio and Sounds
 *处理声音和音调的库.*
 
-* [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio bindings.
+* [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio 绑定.
 * [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA 绑定
 * [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK 绑定
 * [firmata](https://github.com/entone/firmata) - 这个包实现了 Firmata 协议.
@@ -213,7 +214,7 @@
 ## Authorization
 *用于实现授权处理的库.*
 
-* [authorize](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
+* [authorize](https://github.com/jfrolich/authorize) - 基于规则的授权，用于高级授权规则.
 * [bodyguard](https://github.com/schrockwell/bodyguard) - 用于 Phoenix 应用程序的灵活授权库.
 * [canada](https://github.com/jarednorman/canada) - 一个简单的授权库，使用声明性权限规则提供友好的界面.
 * [canary](https://github.com/cpjk/canary)  - 用于 Elixir 应用程序的授权库，用于限制允许当前用户访问的资源.  ([Docs](https://hexdocs.pm/canary/api-reference.html)).
@@ -1269,7 +1270,7 @@
 * [task_bunny](https://github.com/shinyscorpion/task_bunny) - 用 Elixir 编写的后台处理应用程序，并使用 RabbitMQ 作为消息传递后端.
 * [toniq](https://github.com/joakimk/toniq) - 简单可靠的 Elixir 后台作业库.
 * [verk](https://github.com/edgurgel/verk)  - Verk 是由 Redis 支持的作业处理系统. 它使用与 Sidekiq/Resque 相同的作业定义.
-* [work_queue](https://github.com/pragdave/work_queue) - Elixir 中饥饿消费者模型的简单实现.
+* [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 ## QUIC
 *QUIC传输层网络协议的库和工具
@@ -1443,7 +1444,7 @@
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - 巴西文件的编号格式和验证 (CPF/CNPJ).
 * [caustic](https://github.com/agro1986/caustic)  - 用于比特币、以太坊和其他区块链的 Elixir 加密货币库. 包括密码学、数论（质数、同余）和用于探索性数学的通用数学库.
 * [ccc](https://github.com/Joe-noh/ccc) - 字符代码转换器.
-* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带或不带声调的 slug）.
+* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带声调或不带声调的 slug）.
 * [cidr](https://github.com/c-rack/cidr-elixir) - Elixir 的无类域间路由 (CIDR).
 * [cirru_parser](https://github.com/Cirru/parser.ex) - Elixir 中的 Cirru 解析器.
 * [colorful](https://github.com/Joe-noh/colorful) - 用于装饰 CUI 上的字符的 Elixir 宏.
@@ -1737,7 +1738,7 @@
 *使用 YAML 的库和实现.*
 
 * [fast_yaml](https://github.com/processone/fast_yaml) - Fast YAML 是 libyaml“C”库的 Erlang 包装器.
-* [yamerl](https://github.com/yakaz/yamerl) - Erlang 中的 YAML 1.2 解析器.
+* [yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 * [yaml_elixir](https://github.com/KamilLelonek/yaml-elixir) - 基于原生 Erlang 实现的 Elixir 的 Yaml 解析器.
 * [ymlr](https://github.com/ufirstgroup/ymlr) - 用于 Elixir 的 YAML 编码器.
 * [yomel](https://github.com/Joe-noh/yomel) - Elixir 的 libyaml 接口.

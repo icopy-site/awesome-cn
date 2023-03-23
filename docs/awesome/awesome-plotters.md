@@ -85,7 +85,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - 将绘图直接从 Inkscape 发送到 Line-us 绘图仪.
 - [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Line-us 绘图仪基于 G 代码的 API 的示例代码.
 - [@beardicus/line-us](https://github.com/beardicus/line-us) - 用于从 Node 或浏览器控制 Line-us 机器的 JavaScript 库.
-- [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+- [PenPlotter](https://github.com/RickMcConney/PenPlotter) - 使用 repetier 固件的 Polargraph 控制器.
 - [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Makelangelo 极谱机器人的固件.
 - [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 的软件.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - 用于处理 AxiDraw 的海龟图形.
@@ -135,7 +135,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - 一个 SVG 优化器，使用车辆路径求解器来最小化绘图时间.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - 仅限 Chrome 的书签，用于从 HTML 文档中提取 SVG.
 - [vpype](https://github.com/abey79/vpype) - 以绘图仪为中心的基于 Python 的 CLI 实用程序，用于生成和操作 SVG，包括缩放和优化路径.
-- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - 基于浏览器的工具，可使用不同的基元、自定义形状或其他 SVG 裁剪 SVG.
+- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
 
 ### Fonts
 
@@ -220,6 +220,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
 - [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 - [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
+- [[Unknown Brand] LP 2002 Photo Plotter Attachment 操作手册（德语）](https://archive.org/details/lp-2002-betriebsanleitung/) - 另见 [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) 带有此设备的图片.
 
 ### Ephemera
 
@@ -251,7 +252,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（到目前为止，在旧金山和纽约），有演讲和策划艺术画廊.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 拥有活跃社区的 Discord 论坛.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
 - [PlotterFiles](https://plotterfiles.com/) - 为绘图仪共享 SVG 文件的社区.
 - #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 

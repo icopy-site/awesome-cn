@@ -104,7 +104,7 @@
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
 * [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧氏节奏设计的小型 MIDI 音序器 DSL.
 * [Chuck](https://github.com/ccrma/chuck) - 强时序、并发和动态的音乐编程语言.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法合成的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
 * [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐作曲系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.
@@ -122,6 +122,7 @@
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - 用 Lua 编写的开源音乐生成框架.
 * [Pure Data](http://puredata.info/) - 一种用于音频和其他多媒体的可视化编程语言.
 * [py-modular](http://py-modular.readthedocs.io/) - 一个模块化和实验性的编程环境，具有 python 中的基本 DSP 例程.
+* [Sardine](https://github.com/Bubobubobubobubo/sardine) - 用于 Python 3.10+ (MIDI/OSC/SuperCollider) 的音乐现场编码库.
 * [Sonic Pi](http://sonic-pi.net/) - 强调教育用途的实时编码合成器.
 * [Sporth](https://pbat.ch/proj/sporth.html) - 基于小型堆栈的音频语言.
 * [SuperCollider](http://supercollider.github.io/) - 一种用于实时音频合成和算法组合的编程语言.

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
 很棒的比特币
 ===============
-为软件开发人员准备的比特币服务和工具清单
+为软件开发人员准备的比特币服务和工具列表
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -74,6 +74,7 @@
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) - 用于 node.js 和浏览器的 Javascript 比特币库.
 * [Libauth](https://libauth.org/) – 轻量级、零依赖、JavaScript/TypeScript 比特币库.
+* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) — 用于创建、签署和解码比特币交易的安全、经过审计的最小库.
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
