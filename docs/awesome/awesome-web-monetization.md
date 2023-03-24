@@ -35,7 +35,7 @@
 
  |  **钱包** |  |  |  |  |
 | :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
- | 名称 | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+ | 名称 | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
  | 费用 | 无 |  SEPA：1.00 欧元 &lt; 50,000 欧元<br>电汇：最低 15 美元（最高 150 美元）|  \$3 取款费 |  |
 
 如果您已经在使用 XRP Tipbot， [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
@@ -135,7 +135,7 @@ _任何包/模块和插件_
 
 - [Akita](https://github.com/esse-dev/akita) - 一个浏览器扩展，让您深入了解您对网络货币化的参与.
 
-  &gt; Akita 展示了您最常访问的货币化网站、您在这些网站上花费了多少时间以及您正在（或可能）为它们做出多少贡献.
+  &gt; Akita 展示了您最常访问的货币化网站、您在这些网站上花费的时间以及您正在（或可能）为它们做出的贡献.
 
 - [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - 用于管理您的虚荣网络货币化钱包的工具.
 
@@ -152,7 +152,6 @@ _任何包/模块和插件_
 
 - [Web Monetization Community](https://community.interledger.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
-- [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 

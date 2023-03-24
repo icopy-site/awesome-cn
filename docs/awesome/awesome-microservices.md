@@ -1,32 +1,33 @@
 <div class="github-widget" data-repo="mfornos/awesome-microservices"></div>
 ## Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-微服务架构相关原则和技术的精选列表.
+A curated list of Microservice Architecture related principles and technologies.
 
 
 
 ## Platforms
 
 - [Express Serverless](https://www.express-serverless.io/) - 开源、Kubernetes 原生、微服务和无服务器平台.
-- [Hook.io](https://hook.io) - 微服务和 webhook 托管的开源提供商.
+- [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Jolie](https://jolie-lang.org) - 开源的面向微服务的编程语言.
 - [KintoHub (c)](https://www.kintohub.com) - 微服务包管理器使开发人员能够轻松构建和共享云就绪功能.
 - [Lightbend (c)](https://www.lightbend.com/) - 用于在 JVM 上构建可扩展反应系统的平台.
 - [M3O](https://micro.mu/) - 用于微服务开发的无服务器平台.
-- [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
+- [Netflix OSS](https://netflix.github.io/) - Netflix 开源软件生态系统.
 - [OpenWhisk](http://openwhisk.org/) - 无服务器、开源云平台，可执行功能以响应任何规模的事件.
 - [Pulumi](https://pulumi.io/)  - 用于云原生基础设施即代码的 SDK. 使用您喜欢的语言来预览和管理您的应用程序和基础架构的更新，并持续部署到任何云（不需要 YAML）.
 - [STUPS](https://stups.io/) - Zalando 的一组工具和组件，可为 AWS 上的多个自治团队提供方便且符合审计要求的 PaaS.
 - [Svix](https://svix.com) - Webhooks 服务，通过完整的重试计划、指数退避、签名验证和事件类型向您的用户发送 webhooks.
 - [Triton](https://github.com/joyent/triton) - 开源云管理平台，跨一个或多个数据中心提供下一代、基于容器、面向服务的基础设施.
 - [VAMP (c)](http://vamp.io/) - 轻松构建、部署和管理微服务.
+- [Wing](https://www.winglang.io/)  - 面向云的编程语言. 它允许开发人员构建充分利用云功能的分布式系统，而无需担心底层基础设施.
 
 ## Frameworks / Runtimes
 
 - [Akka](http://akka.io/) - 用于在 JVM 上构建高度并发、分布式和弹性消息驱动应用程序的工具包和运行时.
 - [Axon (c)](https://axoniq.io/) - 一个端到端的开发和基础设施平台，用于在 JVM 上轻松开发和运行任何 DDD、CQRS 和事件源应用程序.
 - [Ballerina](https://ballerina.io) - 云原生编程语言.
-- [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
+- [Dapr](https://dapr.io) - 用于使用任何编程语言编写高性能微服务的开源运行时.
 - [Deno](https://deno.land/) - JavaScript、TypeScript 和 WebAssembly 运行时，具有安全默认值和出色的开发人员体验.
 - [Eclipse Microprofile](https://microprofile.io/) - 一个开放式论坛，通过跨多个实现进行创新并以标准化为目标在共同感兴趣的领域进行协作，从而针对微服务架构优化企业 Java.
 - [Erlang/OTP](https://github.com/erlang/otp) - 用于构建具有高可用性要求的大规模可扩展软实时系统的编程语言.
@@ -45,6 +46,7 @@
 - [Open Liberty](https://openliberty.io/) - 用于构建快速高效的云原生 Java 微服务的轻量级开放框架.
 - [Orbit](https://github.com/orbit/orbit) - JVM 语言的现代框架，可以更轻松地构建和维护分布式和可扩展的在线服务.
 - [SmallRye](https://smallrye.io/) - 为云开发量身定制的 API 和实现，包括 Eclipse MicroProfile.
+- [Spin](https://github.com/fermyon/spin) - 一个开源框架，用于使用 WebAssembly 构建和运行快速、安全且可组合的云微服务.
 - [Thorntail](https://thorntail.io/) - 一种打包和运行 Java EE 应用程序的创新方法，方法是将它们与刚好足够的服务器运行时一起打包以“java -jar”您的应用程序.
 - [ScaleCube](https://github.com/scalecube/scalecube) - 用于为 JVM 构建反应式微服务的工具包：低延迟、高吞吐量、可扩展和弹性.
 - [Vert.X](http://vertx.io/) - 用于在 JVM 上构建反应式应用程序的工具包.
@@ -364,7 +366,7 @@
 - [Graylog](https://www.graylog.org/) - 完全集成的开源日志管理平台.
 - [Kibana](https://www.elastic.co/products/kibana) - 灵活的分析和可视化平台.
 - [LogDNA (c)](https://logdna.com/)  - 集中式日志管理软件. 即时收集、集中和分析来自任何平台的任何数量的实时日志.
-- [Logstash](https://www.elastic.co/products/logstash) - 用于管理事件和日志的工具.
+- [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 - [Suro](https://github.com/Netflix/suro/wiki) - 分布式数据管道，支持移动、聚合、路由、存储数据的服务.
 
 ### Messaging
@@ -373,7 +375,7 @@
 - [ActiveMQ](http://activemq.apache.org/) - 强大的开源消息传递和集成模式服务器.
 - [Aeron](https://github.com/real-logic/Aeron) - 高效可靠的 UDP 单播、UDP 多播和 IPC 消息传输.
 - [Apollo](http://activemq.apache.org/apollo/) - 更快、更可靠、更易于维护的消息代理是在原始 ActiveMQ 的基础上构建的.
-- [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
+- [Ascoltatori](https://github.com/mcollina/ascoltatori) - 节点的发布/订阅库.
 - [Beanstalk](https://beanstalkd.github.io/) - 简单、快速的工作队列.
 - [Bull](https://github.com/OptimalBits/bull) - 快速可靠的基于 Redis 的 Node 队列.
 - [Crossbar](https://github.com/crossbario/crossbar)  - 用于分布式和微服务应用程序的开源网络平台. 它实现了开放的 Web 应用程序消息传递协议 (WAMP).
@@ -393,7 +395,7 @@
 - [RabbitMQ](https://www.rabbitmq.com/) - 可以正常工作的基于 Erlang 的开源消息代理.
 - [Redpanda](https://github.com/redpanda-data/redpanda/) - 面向开发人员的流数据平台：兼容 Kafka API，速度提高 10 倍，无 ZooKeeper 和 JVM.
 - [RocketMQ](https://github.com/apache/incubator-rocketmq) - 一个低延迟、可靠、可扩展、易用的面向消息的中间件，诞生于阿里巴巴海量消息业务.
-- [VerneMQ](https://verne.mq) - 开源、可扩展、基于 Erlang 的 MQTT 代理.
+- [VerneMQ](https://verne.mq) - Open source, scalable, Erlang-based MQTT broker.
 
 ### Monitoring & Debugging
 
@@ -412,7 +414,7 @@
 - [REST Commander](https://github.com/eBay/restcommander) - 快速并行异步 HTTP 客户端作为监视和管理 HTTP 端点的服务.
 - [Riemann](http://riemann.io/) - 监控分布式系统.
 - [Sensu](https://github.com/sensu) - 监控当今的基础设施.
-- [SkyWalking](https://skywalking.apache.org/) - 分布式系统应用性能监控工具，专为微服务、云原生和基于容器（Docker、K8s、Mesos）架构而设计.
+- [SkyWalking](https://skywalking.apache.org/) - 分布式系统的应用程序性能监控工具，专为微服务、云原生和基于容器（Docker、K8s、Mesos）的架构而设计.
 - [Trace](https://github.com/RisingStack/trace-nodejs) - 专为微服务设计的可视化堆栈跟踪平台.
 - [Watcher](https://www.elastic.co/products/watcher) - Elasticsearch 警报.
 - [Zabbix](http://www.zabbix.com/) - 开源企业级监控解决方案.
@@ -508,7 +510,7 @@
 - [Pact](https://docs.pact.io) - HTTP API 和非 HTTP 异步消息系统的合同测试框架.
 - [RestQA](https://github.com/restqa/restqa) - 一种在本地管理微服务模拟、单元和性能测试的工具，具有一流的开发人员体验.
 - [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) - TDD 到软件架构级别.
-- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [VCR](https://github.com/vcr/vcr)  - 记录您的测试套件的 HTTP 交互并在未来的测试运行期间重播它们以进行快速、确定性、准确的测试. 查看其他语言实现的端口列表.
 - [Wilma](https://github.com/epam/Wilma) - 组合的 HTTP/HTTPS 服务存根和透明代理解决方案.
 - [WireMock](http://wiremock.org/)  - 用于存根和模拟 Web 服务的灵活库. 与通用模拟工具不同，它通过创建一个实际的 HTTP 服务器来工作，您的测试代码可以像连接真正的 Web 服务一样连接到该服务器.
 - [Hoverfly](https://github.com/spectolabs/hoverfly) - 面向开发人员和测试人员的轻量级服务虚拟化/API 模拟工具.
@@ -532,7 +534,7 @@
 - [Aglio](https://github.com/danielgtaylor/aglio) - 具有主题支持的 API 蓝图渲染器，可输出静态 HTML.
 - [API Blueprint](https://apiblueprint.org/)  - 适用于整个 API 生命周期的工具. 用它来与他人讨论您的 API. 自动生成文档. 或者测试套件. 甚至一些代码.
 - [Apidoc](https://github.com/mbryzek/apidoc) - REST 服务的精美文档.
-- [RAML](http://raml.org/) - RESTful API 建模语言，一种描述实际 RESTful API 的简单简洁的方法.
+- [RAML](http://raml.org/) - RESTful API 建模语言，一种描述实际 RESTful API 的简单简洁的方式.
 - [ReDoc](https://github.com/Rebilly/ReDoc) - OpenAPI/Swagger 生成的 API 文档.
 - [Slate](https://github.com/tripit/slate) - 漂亮的 API 静态文档.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - 通过将手写文档与使用 Spring MVC 测试生成的自动生成的片段相结合来记录 RESTful 服务.

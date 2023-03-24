@@ -3,7 +3,7 @@
 
 > [Fish](https://fishshell.com/) 是一个智能且用户友好的命令行 shell，适用于 Linux、macOS 和其他系列. 与默认禁用某些功能以节省系统资源的其他 shell 不同，Fish 默认启用所有功能 — 最后，90 年代的命令行 shell！
 
-插件、提示和资源的精选 [friendly interactive shell](https://fishshell.com) . 此页面不是官方的 Fish 项目. 我们不以盈利为目的做广告. 想在这里展示您的项目吗？ [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork).
+插件、提示和其他宝物的精选 [friendly interactive shell](https://fishshell.com) . 此页面不是官方的 Fish 项目. 我们不以盈利为目的做广告. 想在这里展示您的项目吗？ [Send us a pull request](https://github.com/jorgebucaran/awesome-fish/fork).
 
 ## Official Resources
 

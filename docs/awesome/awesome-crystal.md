@@ -292,7 +292,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - 富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) - 信号/槽通知库
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Crystal 的 Web 框架，在 Github 上获得最多的关注
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [defined](https://github.com/wyhaines/defined.cr) - 用于根据常量定义、版本要求或环境变量设置进行条件编译的宏
@@ -319,7 +319,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC 协议实现（客户端、服务器、机器人）
  * [crystal-bacnet](https://github.com/spider-gazelle/crystal-bacnet) - 使用 BACnet/IP 客户端实现 BACnet 协议
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS 协议实现和解析器
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  - JSON 套接字客户端和服务器实现. 受其启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - 一个 MQTT 客户端
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本 1、2c 和 3 的 SNMP 实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
@@ -462,7 +462,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且有凝聚力的 Web 应用程序框架
  * [Athena](https://github.com/athena-framework/athena) - 由可重复使用的独立组件组成的网络框架
- * [grip](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+ * [grip](https://github.com/grip-framework/grip) - 用于编写功能强大的 Web 应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  - 快如闪电，超级简单的网络框架. 灵感来自 Sinatra
  * [lucky](https://github.com/luckyframework/lucky) - 尽早发现错误，忘记大多数性能问题，将更多时间花在代码上而不是调试和编写测试
  * [marten](https://github.com/martenframework/marten) - 使构建 Web 应用程序变得简单、高效和有趣的 Web 框架
@@ -539,9 +539,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
    * [crystal-mode](https://melpa.org/#/crystal-mode) - Emacs 的 Crystal 语言支持 ([crystal-lang-tools/emacs-crystal-mode](https://github.com/crystal-lang-tools/emacs-crystal-mode))
  * 吉尼
    * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) - 水晶支持 [Geany editor](https://www.geany.org/)
+ * 智能想法
+   * [intellij-crystal-lang](https://github.com/asedunov/intellij-crystal-lang) - 对 JetBrains IDE 的 Crystal 支持
  * 精简版-XL
    * [lite-plugin-crystal](https://github.com/Tamnac/lite-plugin-crystal) - 水晶支持 [Lite-XL](https://lite-xl.com/en/) 编辑
- * Spacemacs
+ * 太空人
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) - 水晶的 Spacemacs 贡献层
  *崇高
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 用于 sublime Text 的 Crystal 语法高亮显示

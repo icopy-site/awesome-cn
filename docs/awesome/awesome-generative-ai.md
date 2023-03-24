@@ -19,7 +19,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 宣布发布 DALL·E 2，这是一种先进的图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 
 ## Text
@@ -171,6 +171,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Play.ht](https://play.ht/)  - 人工智能语音发生器. 使用 AI 在线生成逼真的文本转语音语音. 将文本转换为音频.
 - [Coqui](https://coqui.ai/) - 语音生成人工智能.
 - [podcast.ai](https://podcast.ai/) - 完全由人工智能生成的播客，由 Play.ht 文本到语音 AI 提供支持.
+- [VALL-E X](https://vallex-demo.github.io/) - 用于跨语言语音合成的跨语言神经编解码器语言模型.
 
 ### Music
 - [Harmonai](https://www.harmonai.org/) - 我们是一个社区驱动的组织，发布开源生成音频工具，让每个人都能更轻松、更有趣地制作音乐.
@@ -184,7 +185,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Have I Been Trained?](https://haveibeentrained.com/) - 检查您的图像是否已用于训练流行的 AI 艺术模型.
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
 - [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
-- [Scale Spellbook](https://scale.com/spellbook) - Build, compare, and deploy large language model apps with Scale Spellbook.
+- [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
 - [Scenario AI](https://www.scenario.gg/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
@@ -197,7 +198,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - Airtable 列表 [Scale Venture Partners](https://www.scalevp.com/generative-ai).
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - 致力于游戏生成 AI 的公司的市场地图，作者： [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - 用于艺术用途的生成深度学习工具、作品、模型等的精选列表，作者： [@filipecalegario](https://github.com/filipecalegario/).
-- [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
+- [GPT-3 Demo](https://gpt3demo.com/) - Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
 - [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.

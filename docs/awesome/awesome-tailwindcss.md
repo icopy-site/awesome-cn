@@ -60,7 +60,7 @@
 **图例**：官方插件·主题·实用程序·变体·组件·弃用
 
 - [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加一个“散文”类.
-- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
+- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的宽高比实用程序.
 - [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) - 提供用于在固定行数后可视化截断文本的实用程序.
 - [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 - [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量的主题，支持深色模式.
@@ -106,7 +106,7 @@
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加用于匹配嵌套边框半径的变体.
 - [Fluid](https://github.com/soberwp/tailwindcss-fl) - 生成 `fl:` 变体.
 - [Marker](https://github.com/RadishIO/tailwindcss-marker)  - 为样式列表和`提供实用程序<summary> ` 标记.
-- [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - 为 Tailwind CSS 默认没有的伪类和伪元素添加变体.
+- [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
 - [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - 添加 CSS 容器查询变体.
 - [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - 为 FormKit 添加输入和表单状态的变体.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - 添加一个显示当前活动屏幕的组件（响应断点）.
@@ -133,7 +133,7 @@
 - [Layout](https://github.com/benface/tailwindcss-layout) - 添加一些布局实用程序.
 - [Grid](https://github.com/chrisrowe/tailwindcss-grid) - 添加 CSS 网格实用程序.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) - 添加“转换”实用程序.
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - 添加可配置的转换实用程序，有或没有 CSS 变量.
+- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
 - [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - 添加可配置的转换实用程序.
 - [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - 添加基本的过渡实用程序.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - 扩展 `cursor` 实用程序.
@@ -245,7 +245,6 @@
 - [Tailwind Cheat Sheet](https://flowbite.com/tools/tailwind-cheat-sheet/) - 可搜索界面中的 Tailwind CSS 实用程序类名称.
 - [Loopple Builder](https://www.loopple.com/theme/soft-ui-dashboard-tailwind) - 用于 Tailwind CSS 的仪表板拖放构建器.
 
-
 ## UI Libraries, Components & Templates
 
 **图例**：官方资源·图书馆·组件·模板
@@ -314,6 +313,7 @@
 - [Cruip](https://cruip.com/) - 设计精美的 HTML、React 和 Vue.js 模板.
 - [Admin One React](https://github.com/justboil/admin-one-react-tailwind) - 带有 Next.js 和 TypeScript 的免费 React.js Tailwind CSS 管理模板.
 - [Flowbite Admin Dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - 使用 Tailwind CSS 和 Flowbite 构建的开源管理仪表板模板.
+- [Astro Template Resume](https://github.com/fortezhuo/fortezhuo.my.id) - 使用 Astro、Tailwind CSS 构建的引人注目的简历模板.
 
 ## Starters & Themes
 
@@ -383,11 +383,11 @@
 **图例**：官方资源·示例·设置教程·视频教程·组件或页面教程·投射
 
 - [Plugin Examples](https://github.com/tailwindlabs/tailwindcss-plugin-examples) - 官方插件示例.
-- 🧪 [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - 使用 CSS 自定义属性和 Tailwind CSS 切换主题.
-- 🧪 [Acquia](https://github.com/opdavies/rebuilding-acquia) - 使用 Vue.js 和 Tailwind CSS 重建 Acquia 的托管仪表板.
-- 🧪 [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - 使用 Vue.js 和 Tailwind CSS 制作的导航栏.
-- 🧪 [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - 使用 Tailwind CSS 进行切换.
-- 🧪 [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - Cruip 使用 Tailwind CSS Boilerplate 构建的“打开”登陆页面模板.
+- [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) - 使用 CSS 自定义属性和 Tailwind CSS 切换主题.
+- [Acquia](https://github.com/opdavies/rebuilding-acquia) - 使用 Vue.js 和 Tailwind CSS 重建 Acquia 的托管仪表板.
+- [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) - 使用 Vue.js 和 Tailwind CSS 制作的导航栏.
+- [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) - 使用 Tailwind CSS 进行切换.
+- [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) - Cruip 使用 Tailwind CSS Boilerplate 构建的“打开”登陆页面模板.
 - [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) - 如何使用 Jest 测试 Tailwind CSS 插件.
 - [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) - 如何使用 PostCSS 和 Webpack 设置 Tailwind CSS.
 - [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) - 如何将 Tailwind CSS 与 CSS-in-JS 一起使用.

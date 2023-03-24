@@ -47,9 +47,6 @@
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - 适用于 Windows、Mac 和 Linux 的应用程序，可在复制到剪贴板时自动翻译和改编文本.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 基于 Argos Translate 的 100% 自托管网络应用程序来翻译文本.
 
-### i18n manager
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - Windows 的 I18n 管理器.
-
 ### Translation software
 - [OmegaT](https://omegat.org/) - 适用于 Windows、macOS 和 Linux 的免费翻译记忆库应用程序.
 - [Argos Translate](https://github.com/argosopentech/argos-translate)  - 用 Python 编写并基于 OpenNMT 的完全开源离线翻译应用程序. 它也可以用作 Python 库.
@@ -107,7 +104,7 @@
 - [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - “软件全球化和在计算机和移动设备上添加语言”，作者 Craig Cummings（幻灯片）.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - 国际化 Flutter 应用程序.
 - [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - 什么是 `hreflang` 属性以及它如何影响您的 SERP.
-- [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - 关于 ASP.NET Core 中的全球化和本地化的文章.
+- [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
 
 ### Understanding computer-assisted translation
 - [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation)  - CAT（计算机辅助翻译）工具通常被理解为专门促进实际翻译过程的程序. 本文介绍：翻译记忆库软件、语言搜索引擎软件、术语管理软件、对齐软件、交互式机器翻译、增强翻译.
@@ -121,9 +118,8 @@
 - [Speakt](https://speakt.com/blog/) - 全面的资源，提供来自业内最佳专业人士的有关翻译相关一切的深入信息.
 - [Lexico](https://www.lexico.com/)  - 提供英语和西班牙语词典的集合，以及对许多单词和语言的好奇心（在“探索”部分）. 它由牛津大学出版社出版.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - 包含适合初学者翻译的好技巧.
-- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家经营. 您可以收听音频文件，其中包含他们对自由译者工作的提示和意见.
-- [Between Translations](http://foxdocs.biz/BetweenTranslations/)  - 由德语翻译成英语的 Jayne Fox 运营. 它讨论了翻译人员的持续专业发展 (CPD) 和使用技术（特别是 CAT 工具/TEnT）来支持他们的工作.
-- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
+- [Speaking of Translation](https://speakingoftranslation.com/)  - 由翻译和本地化领域的两位杰出专家经营. 您可以收听音频文件，其中包含他们对兼职翻译工作的提示和意见.
+- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - 提供关于本地化管理、协作翻译平台、翻译管理系统、机器翻译以及本地化行业最大参与者的极其详细的描述和意见.
 
 ## Online Courses
 

@@ -35,6 +35,7 @@
 *为您处理身份验证和用户身份的产品.*
 * [Auth0](https://auth0.com/) - 身份验证和授权即服务.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
+* [BoxyHQ Enterprise SSO](https://boxyhq.com) - 用于企业 SSO 和目录同步的开源 API.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 的身份验证.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
 * [Hanko](https://www.hanko.io/) - 无密码（WebAuthn API）PSD2、eIDAS 和 GDPR 兼容.
@@ -46,6 +47,7 @@
 * [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
 * [SuperTokens](https://supertokens.io/) - 使用预建 UI 的开源和托管电子邮件和 Oauth 身份验证.
 * [userfront](https://userfront.com/) - 使用预建的后台仪表板进行简单的用户身份验证.
+* [WorkOS](https://workos.com/) - 企业 SSO 和更多开箱即用的企业功能.
 
 ## CI/CD
 *持续集成/交付.*
@@ -94,12 +96,13 @@
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署并且不关心基础设施，适用于所有主要框架.
 * [Fly.io](https://fly.io/) - 通过位置感知服务部署 dockerized 全栈应用程序（减少延迟）.
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展的服务器.
+* [Koyeb](https://www.koyeb.com/) - 用于在几分钟内部署全栈应用程序和 API 的无服务器平台.
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
 * [Qoddi](https://qoddi.com/) - Git 连接的应用程序托管平台.
 * [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动缩放、数据库、秘密和回滚.
 * [Render](https://render.com/) - 使用 SSL 从 git 部署到 CDN.
-* [Vercel](https://vercel.com/) - 通过 CLI 部署 JAMStack（主要是 Next.js）.
+* [Vercel](https://vercel.com/) - 用于构建和部署无服务器 Web 应用程序、静态网站和 Jamstack（主要是 Next.js）项目的云平台.
 
 ## Discussions
 *评论和论坛.*
@@ -188,7 +191,7 @@
 * [Interval](https://interval.com/) - 用于为您的产品构建内部工具和脚本的 SDK.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙之后）.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像用于生产力的格子花呢.
-* [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
+* [zigi](https://www.zigi.ai/) - 通过 Slack 完成日常非编码任务的开发人员助手.
 
 ## Monitoring
 *监控您的生产应用程序.*
@@ -246,7 +249,7 @@
 
 ## Testing
 *测试工具.*
-* [Applitools](https://applitools.com/) - 自动化视觉测试.
+* [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.
