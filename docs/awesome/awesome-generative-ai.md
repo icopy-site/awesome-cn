@@ -33,6 +33,7 @@ Generative Artificial Intelligence is a technology that creates original content
 ### Chatbots
 - [ChatGPT](https://chat.openai.com/chat) - OpenAI 的 ChatGPT 是一种以对话方式进行交互的大型语言模型.
 - [Bing Chat](https://www.bing.com/chat) - 由 Microsoft Bing 提供支持的对​​话式 AI 语言模型.
+- [Bard](https://bard.google.com) - Google 的实验性 AI 聊天机器人，由 LaMDA 模型提供支持.
 - [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
 - [ChatPDF](https://www.chatpdf.com/) - 与任何 PDF 聊天.
 
