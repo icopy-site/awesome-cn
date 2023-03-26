@@ -34,7 +34,7 @@
 ---
 
  |  **钱包** |  |  |  |  |
-| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
  | 名称 | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
  | 费用 | 无 |  SEPA：1.00 欧元 &lt; 50,000 欧元<br>电汇：最低 15 美元（最高 150 美元）|  \$3 取款费 |  |
 
@@ -88,7 +88,7 @@ _任何包/模块和插件_
 - [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy)  - 用于注入 Web Monetization 元标记的简单 Go 代理.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/go.png)
 - [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization)  - Gridsome 的网络货币化.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/gridsome.png)
 - [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization)  - 将网络货币化元标记添加到您的 VuePress 网站.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/vuejs.png)
-- [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization)  - 一个 Jekyll 插件，用于将 Web MonetizationAPI 支付指针添加到您的网站.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/jekyll.png)
+- [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization)  - 一个 Jekyll 插件，用于将 Web MonetizationAPI 支付指针添加到您的站点.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/jekyll.png)
 - [Monetization](https://github.com/KNawm/monetization)  - 一个围绕 Web Monetization API 的包装器，用于通过应用程序获利.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/dart.png)
 - [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta)  - React 的网络货币化元标记管理器.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app)  - 项目演示了在 Electron App 中启用网络货币化的基本设置.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/electron.png)
@@ -142,7 +142,7 @@ _任何包/模块和插件_
    &gt; Open Monetization Wallet (OMW) 使大规模接受 Web Monetization API 付款变得更加容易. 一些特点：
   >
   &gt; - 自定义钱包 URL：拥有自己的“支付指针”，例如 $wallet.signalnerve.com，而不是 $pay.stronghold.co/abcdef123
-  > - Change between wallets/providers with no downtime
+  &gt; - 无需停机即可在钱包/供应商之间切换
   &gt; - 收到付款请求的日志
   &gt; - 多个钱包之间的收入共享，例如多个团队成员
   &gt; - 使用无服务器技术无限扩展
@@ -166,7 +166,7 @@ _任何包/模块和插件_
 
 &gt; **由 Netlify 提供支持** ✨
 
-Netlify 供电 [the website](https://awesomewebmonetization.netlify.app/) . 感谢他们！
+Netlify 供电 [the website](https://awesomewebmonetization.netlify.app/). Thanks to them! 💚
 
 [![Deploys by Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com)
 

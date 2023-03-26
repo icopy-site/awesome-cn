@@ -7,7 +7,7 @@
 
  OpenStreetMap 是一种开放地图，每天有数百万设备和用户在使用它. 任何人都可以免费编辑和使用它.
 
-此列表包含出于创意目的使用 OpenStreetMap 数据的项目，以及致力于改进 OpenStreetMap 的项目.
+This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated to improving OpenStreetMap.
 
 我们还有一个<a href="UNMAINTAINED.md">未维护的项目</a>列表. 如果您是开发人员，请考虑采用一个！
 
@@ -49,7 +49,7 @@
 
 * [OpenMapTiles](https://openmaptiles.org/)  - 用于自托管矢量地图和带有 50 多种语言标签的地图服务的工具集.  ([Source Code](https://github.com/openmaptiles) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenMapTiles))
 * [OSMNames](http://osmnames.org/)  - 地理编码工具根据相应的维基百科页面流行度对地方进行排名.  ([Source Code](https://github.com/osmnames/osmnames) / [Wiki](https://wiki.openstreetmap.org/wiki/OSMNames))
-* [overpass-turbo](http://overpass-turbo.eu)  - 使用 Overpass API 的基于 Web 的 OpenStreetMap 数据挖掘工具.  ([Source Code](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
+* [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code](https://github.com/tyrasd/overpass-turbo) / [Wiki](https://wiki.openstreetmap.org/wiki/Overpass_turbo))
 * [hdyc](http://hdyc.neis-one.org)  - 任何 OSM 用户贡献的统计查看器.  ([Wiki](https://wiki.openstreetmap.org/wiki/How_did_you_contribute%3F)) <!-- markdown-link-check-disable-line -->
 * [Osmose](https://osmose.openstreetmap.fr)  - 用于修复在 OpenStreetMap 数据中检测到的问题的 QA 工具.  ([Source Code](https://github.com/osm-fr?q=osmose) / [Wiki](https://wiki.openstreetmap.org/wiki/Osmose))
 * [opening_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/)  - 用于评估“opening_hours”标签的工具.  ([Source Code](https://github.com/opening-hours/opening_hours.js))
@@ -115,7 +115,7 @@
 * [Show me the way](https://osmlab.github.io/show-me-the-way/)  - 显示航拍图像最新变化的实时地图.  ([Source Code](https://github.com/osmlab/show-me-the-way/) / [Wiki](https://wiki.openstreetmap.org/wiki/Show_Me_The_Way))
 * [OSM In Realtime](https://osm-in-realtime.jwestman.net/)  - 可视化对 OpenStreetMap 所做的更改.  ([Source Code](https://gitlab.com/jwestman/osm-in-realtime) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM-in-realtime))
 * [osm-livechanges](http://live.openstreetmap.fr/)  - 近实时显示 OpenStreetMap 数据库中的编辑内容.  ([Source Code](https://github.com/cstenac/osm-livechanges))
-* [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/Indoor%3D)) <!-- markdown-link-check-disable-line -->
+* [indoor=](https://indoorequal.org)  - 用于查看来自 OpenStreetMap 的室内数据的地图.  ([Wiki](https://wiki.openstreetmap.org/wiki/Indoor%3D)) <!-- markdown-link-check-disable-line -->
 * [Qwant Maps](https://www.qwant.com/maps)  - 具有 POI 搜索和路由功能的现代地图.  ([Wiki](https://wiki.openstreetmap.org/wiki/Qwant_Maps))
 * [F4map Demo](https://demo.f4map.com/)  - OpenStreetMap 数据的 3D 渲染演示.  ([Wiki](https://wiki.openstreetmap.org/wiki/F4_Map))
 * [FacilMap](https://facilmap.org/)  - 可以轻松过滤 POI 类型的地图.  ([Source Code](https://github.com/FacilMap/facilmap) / [Wiki](https://wiki.openstreetmap.org/wiki/FacilMap))
@@ -179,7 +179,7 @@
 * [osmcha](https://github.com/willemarcel/osmcha) - 用于检测可疑 OSM 变更集的 Python 包.
 * [osmnx](https://github.com/gboeing/osmnx)  - 街道网络的可视化工具.  ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 * [python-mapnik](https://github.com/mapnik/python-mapnik) - mapnik 的 Python 包装器.
-* [prettymapp](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
+* [prettymapp](https://github.com/chrieke/prettymapp) - 从 OpenStreetMap 数据创建漂亮的地图.
 
 ### Java
 
@@ -194,6 +194,7 @@
 * [planet.osm](http://planet.osm.org)  - osm 数据的每分钟/每周/每年/完整转储.  ([Wiki](https://wiki.openstreetmap.org/wiki/Planet.osm))
 * [bbbike](https://extract.bbbike.org)  - 从 planet.osm 中自定义提取区域.  ([Wiki](https://wiki.openstreetmap.org/wiki/BBBike_@_World))
 * [OSMCha API](https://osmcha.org/api-docs/)  - 允许查询和检索变更集信息的强大 API.  ([Source Code](https://github.com/willemarcel/osmcha-django))
+* [Bunting Labs' OSM Extract API](https://buntinglabs.com/solutions/openstreetmap-extracts) - 免费提取 OSM 特征作为 GeoJSON，过滤标签和边界框（[Docs](https://docs.buntinglabs.com/openstreetmap-api/extract))
 
 ## Miscellaneous
 

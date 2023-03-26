@@ -3,7 +3,7 @@
 
 ## Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 游戏创作者学习资源的巨型列表 
+&gt; 游戏创作者学习资源的巨型清单 
 
 <p>
 
@@ -73,7 +73,7 @@
 [Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - 大量资产列表，重点放在 Unity 开发上
 
 
-[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
+[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - 游戏开发各个方面的免费和开源软件列表
 
 
 [VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - 加州大学欧文分校视频游戏开发俱乐部的研讨会和资源列表 () 
@@ -235,7 +235,7 @@
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Nvidia 关于 GPU 编程和架构的三 (3) 本免费书籍.
 
 
-[Render Hell](http://simonschreibt.de/gat/renderhell/)  - 图形概述和为程序员呈现的所有内容. 涵盖概述，以及大量书籍和其他资源的参考资料，以便进行更深入的阅读.
+[Render Hell](http://simonschreibt.de/gat/renderhell/) 🟪 - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
 
 
 ["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - 关于_非常_技术艺术形式的 YouTube 系列
@@ -262,7 +262,7 @@
 [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/)  - Unity 多人游戏和网络课程. 等它开售，然后去拿这个.
 
 
-[Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/)  - 虚幻中的多人游戏和网络课程. 等它开售，然后去拿这个. 
+[Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/)  - 虚幻中的多人游戏和网络课程. 等它上市，然后去拿这个. 
 
 
 [GafferOnGames](https://gafferongames.com) - 一堆关于游戏网络代码的文章.
@@ -313,6 +313,9 @@
 
 
 [Tech Art Learning Resources](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d) - 由 Heart Machine（制作 Hyper Light Drifter 和现在的 Hyper Light Breaker 的工作室）策划的技术艺术资源、社区和专业人士列表.
+
+
+[Tech Artists](https://tech-artists.org) - 科技艺术家社区.
 
 
 [Tech Art Course](https://simonschreibt.de/gat/tech-art-course/) - 来自技术艺术课程的材料（许多无法解释，因为课程是亲自授课的，但它们仍然有用）.
@@ -537,6 +540,9 @@
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - 关于编写游戏设计文档 (GDD) 的教程.
 
 
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/)  - 作为问题解决方案呈现的常见设计模式的数据库，由《游戏设计模式语言》一书编译​​而成. 还包含学生和设计师完成本书练习的作品.
+
+
 [The Evolution of Trust](https://ncase.me/trust/)  - 一些博弈论的交互式演练. 可能是游戏设计课上的必读内容.
 
 
@@ -603,7 +609,7 @@
 ### Reference
 
 
-[Game Docs](https://gamedocs.org/category/design-document/) - 已完成游戏的设计文档集 - 链接已被撕下并放在下面.
+[Game Docs](https://gamedocs.org/category/design-document/) - A collection of design documents from completed games - links have been ripped and placed below.
 
 
 [Destiny](http://www.cand.land/destiny) - David Candland 的《命运》（一款因其 UI 获奖的游戏）的 UI/UX 文档集.

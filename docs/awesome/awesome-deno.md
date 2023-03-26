@@ -204,7 +204,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ### Validation
 
-- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+- [zod](https://github.com/colinhacks/zod) - 使用静态类型推断的 TypeScript 优先模式验证.
 
 ### Video
 
@@ -226,7 +226,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Deno Oak HTTP 服务器的代理中间件.
 - [opine](https://github.com/asos-craigmorten/opine) - 从 ExpressJS 移植的快速、简约的 Web 框架.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Deno Opine HTTP 服务器的代理中间件.
-- [pogo](https://github.com/sholladay/pogo) - Deno 的服务器框架.
+- [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
 - [wren](https://github.com/zaiste/wren) - 一个小巧但功能强大的 HTTP 库，具有用于创建可组合 Web 应用程序的功能旋转，为方便和简单而构建
 
 ### WebSocket
@@ -304,6 +304,8 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
   - [BoltDoggy/deno#dpm](https://github.com/BoltDoggy/deno#dpm)  - Deno 包管理器，为 deno 安装全局命令. 像 denoget.
   - [dpmland/dpm](https://github.com/dpmland/dpm)  - Deno 包管理器，一个 NPM |  Deno 的纱线体验
 - dvm
+  - [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git
+) - Deno 插件 [asdf](https://asdf-vm.com/)
   - [justjavac/dvm](https://github.com/justjavac/dvm) - Deno 版本管理器：管理多个活动的 Deno 版本.
   - [axetroy/dvm](https://github.com/axetroy/dvm) - 没有运行时依赖的 Deno 版本管理器.
   - [dvm.cmd](https://github.com/MarkTiedemann/dvm.cmd)  - 适用于 Windows 的 Deno 版本管理器. 写成一个批处理文件.
@@ -316,7 +318,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [trex](https://github.com/crewdevio/Trex) - 包管理，如 deno 的 npm.
 - [udd](https://github.com/hayd/deno-udd) - 更新 Deno 依赖项：将导入语句更新为最新发布的版本.
 - [velociraptor](https://github.com/umbopepato/velociraptor) - Deno 的 npm 风格的脚本运行器.
-- [vscode-deno](https://github.com/denoland/vscode_deno) - 使用“TypeScript Deno 语言服务插件”提供 Deno 支持的 VS Code 扩展.
+- [vscode-deno](https://github.com/denoland/vscode_deno) - 使用 TypeScript Deno 语言服务插件提供 Deno 支持的 VS Code 扩展.
 - [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - 开始使用 Deno 的 VS Code 项目样板.
 - [Update Deno](https://github.com/marketplace/actions/update-deno) - Github Action 将具有最新 Deno 版本的文件放入您的存储库中.
 - [denofn-selfhosted](https://github.com/denofn/denofn-selfhosted) - 使用 Deno 和 Docker 制作的自托管 Deno 函数.

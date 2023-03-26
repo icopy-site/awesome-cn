@@ -112,6 +112,7 @@
 - [termtable](https://github.com/serkonda7/termtable) - V 终端表：简单且高度可定制的库，用于在终端中显示表.
 - [vargs](https://github.com/nedpals/vargs)  - 用于从类似 argv 的数组中解析参数的 V 库.  （已存档）
 - [vesseract](https://github.com/barrack-obama/vesseract) - Tesseract-OCR（光学字符识别）的 V 包装器.
+- [bartender](https://github.com/tobealive/bartender) - V 术语应用程序的无麸质酒吧.
 
 ### Database clients
 

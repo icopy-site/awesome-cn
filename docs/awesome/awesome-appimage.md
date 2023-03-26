@@ -59,7 +59,7 @@
 - [Thumbnailer for AppImages](https://github.com/mttbernardini/appimage-thumbnailer) - 为 GNOME 和 KDE 兼容桌面环境的文件管理器中显示的 AppImages 生成图标.
 - [XApp Thumbnailers](https://github.com/linuxmint/xapp-thumbnailers)  - 用于 GTK 桌面环境的缩略图，包括一个用于 AppImage 文件格式的缩略图. 使基于 Gtk 的文件管理器如 Caja (MATE)、Nautilus (GNOME)、Nemo (Cinnamon)、PCManFM (LXDE) 和 Thunar (Xfce) 在 AppImages 上显示应用程序图标.
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - 从 Gnome 桌面监控和（卸载）安装 AppImages.
-- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - A simple program to integrate AppImages into the Linux desktop written in Qt6.
+- [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - 一个用 Qt6 编写的将 AppImages 集成到 Linux 桌面的简单程序.
 - [gnome_appimage_installer](https://github.com/knork-fork/gnome_appimage_installer)  - 用词不当（AppImages 不需要“安装”），为您的 AppImage 文件创建一个遵循 freedesktop.org 规范的桌面文件； 用 bash 写的.
 
 ### Updaters
@@ -150,6 +150,7 @@
 
 - [Publish-AppImage for .NET](https://github.com/kuiperzone/Publish-AppImage) - 为 .NET 应用程序发布 AppImages.
 - [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - 如何使用 `.cs` 程序中的 `dotnet publish -f netcoreapp3.1 -r linux-x64` 将 .NET Core (Mono) 应用程序部署为 AppImage 的示例.
+- [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) - 跨平台部署实用程序，可一步发布您的 .NET 项目并将其打包为准备发布的安装文件.
 
 ### Deployment tools for Flash applications
 
@@ -217,7 +218,7 @@
 ### Documentation
 
 - [docs.appimage.org](https://docs.appimage.org/) - 官方 AppImage 文档.
-- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - appimage-builder 的文档，包括教程、示例等.
+- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - Documentation of appimage-builder, includes tutorials, examples, and more.
 
 ### Tutorials
 

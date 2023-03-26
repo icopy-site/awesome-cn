@@ -15,7 +15,7 @@
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - 用于数据库管理、控制和开发的首要多用途管理工具.
-- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio 是适用于数据库开发人员、DBA 和分析师的生产力软件.
+- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
 - [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - 面向分析师和分析工程师的现代 IDE，具有强大的脚本和网格功能.
 - [Database .net](http://fishcodelib.com/Database.htm) - 支持 20 多个数据库的多数据库管理工具.
 - [DataGrip](https://www.jetbrains.com/datagrip) - JetBrains 的数据库和 SQL 跨平台 IDE.
@@ -214,14 +214,14 @@
 ### Prometheus
 - [pgSCV](https://github.com/weaponry/pgscv) - PostgreSQL 和 Postgres 相关服务的指标导出器.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - 用于 PostgreSQL 服务器指标的 Prometheus 导出器.
-- [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+- [pg_exporter](https://github.com/Vonng/pg_exporter) - 具有细粒度执行控制的完全可定制的 PostgreSQL 和 Pgbouncer Prometheus 导出器.
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL 的监控代理.
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix 是一个插件，旨在与 Zabbix Enterprise Monitor 一起使用，为 Oracle 数据库提供多层监控、性能和可用性报告和测量，以及服务器性能指标.
 - [pg_monz](https://github.com/pg-monz/pg_monz) - 这是 PostgreSQL 数据库的 Zabbix 监控模板.
 - [Pyora](https://github.com/bicofino/Pyora) - 用于监控 Oracle 数据库的 Python 脚本.
-- [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA 是快速、灵活且不断开发的插件来监控您的 RDBMS.
+- [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
 
 ## Testing
@@ -365,15 +365,15 @@ SQL 的学习和谜题
 - [DataHub](https://github.com/datahub-project/datahub) - 现代数据堆栈的元数据平台.
 - [Marquez](https://github.com/MarquezProject/marquez) - 收集、聚合和可视化数据生态系统的元数据.
 
-### Generators
+### Generation/Masking/Subsetting
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - 为开发、测试和培训目的生成、混淆（匿名化/假名化）和迁移数据.
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - 用于创建大量真实测试数据的强大 GUI 工具.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - 用于使用大量真实测试数据填充 Oracle 模式的小而强大的 GUI 工具.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - 强大的 GUI 工具，可快速生成有意义的数据库测试数据.
 - [Faker](https://github.com/faker-js/faker) - 在浏览器和 Node.js 中生成大量虚假数据.
 - [Noisia](https://github.com/lesovsky/noisia) - PostgreSQL 的有害工作负载生成器.
-- [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
-- [Synthesized](https://www.synthesized.io) - 创建、验证和安全共享用于软件测试、模型训练和数据分析的高质量数据，无需任何手动配置.
+- [SB Data Generator](https://soft-builder.com/sb-data-generator)  - 简单而强大的工具，可以为您的应用程序生成和填充选定的表或整个数据库，并使用真实的测试数据. 为以下对象生成测试数据：Oracle、MS SQL Server、MySQL、PostgreSQL、Firebird、SQLite、Azure SQL 数据库、Amazon Redshift 和 Amazon RDS.
+- [Synthesized TDK](https://docs.synthesized.io/tdk/latest/?utm_source=habr&utm_medium=devrel&utm_campaign=datagen) - DevOps 在数据库屏蔽和生成方面最好的朋友.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - MySQL 的分布式数据传输服务.
