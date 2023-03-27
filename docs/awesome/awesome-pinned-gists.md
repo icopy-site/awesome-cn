@@ -36,6 +36,7 @@
 - [music-box](https://github.com/jacc/music-box) - 更新固定要点以包含您在 Last.fm 上的每周收听报告.
 - [neko-box](https://github.com/RangerDigital/neko-box) - 更新固定要点以包含来自 AniList 的最新活动.
 - [netease-music-box](https://github.com/Leecason/netease-music-box) - 更新固定要点以包含您在网易云音乐上的每周收听报告.
+- [playstation-box](https://github.com/Swilder-M/playstation-box) - 更新固定要点以包含您的 PlayStation 游戏时间排行榜.
 - [rescue-box](https://github.com/joshghent/rescue-box) - 更新固定要点以包含 RescueTime 的每日生产力统计数据.
 - [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - 更新固定要点，其中包含观察到的最常用端口 [Shodan](https://www.shodan.io/).
 - [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 更新固定要点以包含随机 IDE 快捷方式

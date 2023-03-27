@@ -155,7 +155,7 @@
     * [isort](https://github.com/timothycrosley/isort) - 用于对导入进行排序的 Python 实用程序/库.
     * [yapf](https://github.com/google/yapf) - 来自谷歌的另一个 Python 代码格式化程序.
 * 静态类型检查器，另见 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
-    * [mypy](http://mypy-lang.org/) - 在编译期间检查变量类型.
+    * [mypy](http://mypy-lang.org/) - 在编译时检查变量类型.
     * [pyre-check](https://github.com/facebook/pyre-check) - 性能类型检查.
     * [typeshed](https://github.com/python/typeshed) - Python 库存根的集合，具有静态类型.
 * 静态类型注解生成器
@@ -513,7 +513,7 @@
 * [pyenv](https://github.com/pyenv/pyenv) - 简单的 Python 版本管理.
 * [virtualenv](https://github.com/pypa/virtualenv) - 创建隔离 Python 环境的工具.
 
-## Files
+## File
 
 *用于文件操作和 MIME 类型检测的库.*
 
@@ -543,7 +543,7 @@
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 与 Django 的集成.
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - 一个 Django 应用程序，可让您以非常优雅和 DRY 的方式创建漂亮的表单.
 * [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - 独立于平台的 Django 表单序列化程序.
-* [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和渲染库.
+* [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和呈现库.
 
 ## Functional Programming
 
@@ -968,7 +968,7 @@
 *用于开发无服务器 Python 代码的框架.*
 
 * [python-lambda](https://github.com/nficano/python-lambda) - 用于在 AWS Lambda 中开发和部署 Python 代码的工具包.
-* [Zappa](https://github.com/Miserlou/Zappa) - 用于在 AWS Lambda 和 API 网关上部署 WSGI 应用程序的工具.
+* [Zappa](https://github.com/zappa/Zappa) - 用于在 AWS Lambda 和 API 网关上部署 WSGI 应用程序的工具.
 
 ## Shell
 
@@ -1051,7 +1051,7 @@
     * [Robot Framework](https://github.com/robotframework/robotframework) - 通用测试自动化框架.
     * [unittest](https://docs.python.org/3/library/unittest.html) - (Python 标准库) 单元测试框架.
 * 测试跑者
-    * [green](https://github.com/CleanCut/green) - 干净、多彩的测试运行器.
+    * [green](https://github.com/CleanCut/green) - 干净、多彩的测试运行程序.
     * [mamba](http://nestorsalceda.github.io/mamba/)  - Python 的权威测试工具. 诞生于BDD旗下.
     * [tox](https://tox.readthedocs.io/en/latest/) - 自动构建和测试多个 Python 版本的发行版
 * GUI / Web Testing

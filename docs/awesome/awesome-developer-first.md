@@ -181,6 +181,7 @@
 ## Messaging
 *消息传递 API - SMS、通知、聊天和 VoIP.*
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息.
+* [Knock](https://knock.app) - 通知即服务.
 * [stream](https://getstream.io/) - 订阅和聊天即服务.
 * [Twilio](https://www.twilio.com/) - SMS、推送通知和 VoIP API.
 * [Vonage](https://www.vonage.com) - 视频、短信、聊天和语音 API.

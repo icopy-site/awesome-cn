@@ -3,7 +3,7 @@
 
 [![Godot Engine logo](https://raw.githubusercontent.com/godotengine/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-精选清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for Godot.
+精选清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) Godot 的游戏、插件、附加组件和脚本.
 
 在 Godot 中寻找第三方编程语言支持？
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
@@ -175,9 +175,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 模拟 CRT 显示器的 Godot 着色器，具有许多着色器参数 (Godot 3.x).
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x、4.x）.
-- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
+- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架（Godot 2.1、3.2+）.
-- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅里叶变换.
+- [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅立叶变换.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 通知中心 (Godot 3.x).
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - Phoenix Framework (Godot 3.*) Channels API 的 GDScript 和 Godot Engine 实现.
@@ -194,11 +194,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster Software 的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 中的编码体验提升 1000 倍（Godot 3.x）.
 - [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 在一行代码（Godot 3.x，4.0.alpha）中进行漂亮且可定制的场景转换.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node (Godot 2.1,3.x).
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 滚动背景节点 (Godot 2.1,3.x).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏 (Godot 3.x).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - 对话和交互式小说引擎 (Godot 3.x).
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) （戈多 3.x）.
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) (Godot 3.x).
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建具有风格的 tilesets (Godot 3.x).
 
 #### Godot 3.2+
@@ -320,7 +320,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - 在 Godot 中使用本机对话框.
-- [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
+- [RawPacker](https://github.com/empyreanx/rawpacker) - RawArray 的简单二进制打包/解包.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) 动画支持模块.
 - [WaterSplash 2D node](https://github.com/laverneth/water)
 
@@ -390,5 +390,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  - 通过 CI 导出 Godot 游戏的 Docker 镜像. 包括 GitLab CI 脚本示例.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - 用于使用 GDScript 的独立命令行工具集 - 解析器、linter 和格式化程序 (Godot 3.x).
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - 用于为 RetroPie 安装 Godot“模拟器”的脚本模块.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl 脚本将网格 spritesheet 图像拆分为编号的单个帧文件.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 - [Godot Package Manager](https://github.com/you-win/godot-package-manager) - 使用 npm 的 Godot 包管理器.
+- [zfoo](https://github.com/zfoo-project/zfoo) - Godot 的 Java 游戏服务器框架，包括 GDScript 序列化和反序列化.

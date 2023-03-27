@@ -23,6 +23,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
 </p>
 
+顺便说一下，您还可以与 AI 聊天机器人聊天，网址为 [AwesomeAlgo AI Chat](https://chat.awesomealgo.com/) 获得有关此存储库和自述文件中可用资源的问题的答案
+
 
 
 ## Official Resources
@@ -60,7 +62,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
 - [Bitquery](https://explorer.bitquery.io/algorand)  - 适用于 30 多个区块链的可操作、有洞察力的区块链 GraphQL API. 突出显示的功能之一是能够查询 Algorand 区块提议者列表.
 
 ## Portfolio Trackers
@@ -78,12 +80,12 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
 - [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws)  - 使用 PyTeal 在 Algorand 上开发_ABI 兼容_智能合约. 最后的现场编码部分（与 [@_deanste](https://twitter.com/_deanste)).
-- [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY)  - 基于 PyTeal 的 Algorand 智能合约开发、客户端和测试框架. 现场编码会议（与 [@HGKimChris](https://twitter.com/HGKimChris)).
+- [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY) - Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with [@HGKimChris](https://twitter.com/HGKimChris)).
 - [Dissecting Algorand](https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72) - 介绍 Algorand 以及对 Algorand 内部工作原理的分析.
 
 ### General courses
@@ -113,6 +115,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [AlgoKit CLI](https://github.com/algorandfoundation/algokit-cli)  - Algorand AlgoKit CLI 是开发人员在 Algorand 网络上构建的一站式商店工具. 由 Algorand 基金会维护的官方工具.
 - [tealinspector](https://github.com/Hipo/tealinspector) - 由 Hipo 实验室快速轻松地调试 TEAL 代码.
+
 ### Languages
 
 &gt; 很棒的客户端库、工具和社区实用程序，按实现语言分类.
@@ -121,7 +124,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
 - [unreal-algorand-sdk](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Algorand 区块链平台的官方虚幻引擎插件.
-- [cplusplus-algorand-sdk](https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK) - Algorand C++ SDK：这个 repo 在 algorand 链上提供 C++ sdk.
+- [cplusplus-algorand-sdk](https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK) - Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.
 
 #### Dart
 
@@ -257,7 +260,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
 - [Dartroom](https://dartroom.xyz/overview) - 去中心化 NFT 浏览器、铸造和交易.
 - [Alchemon](https://alchemon.net/) - 怪物收集 NFT 纸牌游戏.
-- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
+- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
 - [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
 - [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏品市场.
 - [Dahai](https://www.dahai.uk/) - NFT 艺术画廊和市场.
@@ -269,7 +272,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
  &gt; Algorand 上很棒的 DeFi 平台和协议. 请注意，此列表并非旨在推广任何特定项目，而是提供对生态系统的全面概述. 在投资或使用此处列出的任何项目之前，请自行研究.
 
-- [Yieldly](https://yieldly.finance/) - DeFI suite for cross-chain swapping, ASA staking and lottery games.
+- [Yieldly](https://yieldly.finance/) - 用于跨链交换、ASA 质押和彩票游戏的 DeFI 套件.
 - [Tinyman](https://tinyman.org/) - 去中心化交易协议、AMM 和平台.
 - [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
 - [Pact](https://www.pact.fi/) - 基于 Algorand 协议构建的去中心化自动做市商 (AMM).
@@ -334,7 +337,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的网络 CLI 模拟器版本.
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的大量铸造 Algorand NFT. 由 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
-- [galvanity](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
+- [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 语言编写的 Algorand 虚拟地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
 - [AgorHash](https://github.com/bafio89/agorhash) - 公开的、无需许可的、去中心化的和不可审查的言论自由协议.
@@ -351,7 +354,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - 一个微小的 cron 作业，它发出一个 [tweet](https://twitter.com/algoping) 如果公共 Algorand 节点（AlgoExplorer、AlgoNode 等）不健康.
 - [SliceSwap](https://app.sliceswap.com)  - 一个在主要 Dex 之间交易您的资产的地方. 所有交换均由@deflexfi 提供支持.
-- [algodaddy](https://www.algodaddy.org) - Algorand 社区的博客网站.
+- [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
 ## Algorand Request for Comments
 

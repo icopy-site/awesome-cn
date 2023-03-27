@@ -106,6 +106,9 @@
 * [Discordie](https://github.com/qeled/discordie)
 * [Discord.io](https://github.com/izy521/discord.io)
 
+###### C
+* [Concord](https://github.com/Cogmasters/concord)
+
 ###### C#
 * [Discord.Net](https://github.com/RogueException/Discord.Net)
 * [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
