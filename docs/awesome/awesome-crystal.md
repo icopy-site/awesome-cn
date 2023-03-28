@@ -80,6 +80,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [climate](https://github.com/Sija/climate.cr) - 使 CLI 输出彩色化的小工具
  * [coin](https://github.com/caian-org/coin) - 通过执行货币转换的命令行应用程序 [Fixer API](https://fixer.io)
  * [cride](https://github.com/j8r/cride) - 轻型 CLI 文本编辑器/IDE
+ * [git-repository](https://github.com/place-labs/git-repository) - 一个 git cli 包装器，以最少的数据传输查询和克隆远程存储库
  * [hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - 在 Hetzner Cloud 中快速创建和管理 Kubernetes 集群的 CLI 工具
  * [lff](https://github.com/mkdika/lff-cr) - 命令行中简单明了的大文件查找器实用程序
  * [meet](https://github.com/ryanprior/meet) - 从舒适的命令行快速开始 jitsi 会议
@@ -515,7 +516,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
  * [procodile](https://github.com/crystal-china/procodile_cr) - 从 Procfile（用于生产和/或开发环境）在 Mac 和 Linux 的后台（和前台）运行进程
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools

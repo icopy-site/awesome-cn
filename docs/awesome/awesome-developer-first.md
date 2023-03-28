@@ -53,14 +53,14 @@
 *持续集成/交付.*
 * [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行作业、就业市场.
 * [Depot](https://depot.dev) - 直接替换以在 CI 中更快地构建 Docker 映像.
-* [Gitlab](https://gitlab.com/) - 具有类似 Github 能力的开源 CI 和托管解决方案.
+* [GitLab](https://gitlab.com/) - 具有类似 Github 能力的开源 CI 和托管解决方案.
 * [Gitpod](https://www.gitpod.io/) - 自动化云开发环境. 
 * [Spacelift](https://spacelift.io/) - 用于基础设施即代码的 CI/CD 平台，目前支持 Terraform、Pulumi、AWS CloudFormation 和 Kubernetes.
 
 ## CMS (headless)
 * [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 生成器.
 * [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如 [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
-* [Strapi](https://strapi.io/) - 开源无头 CMS，100% JavaScript.
+* [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
 
 ## Code Quality
 *检查你的代码质量.*
@@ -250,7 +250,7 @@
 
 ## Testing
 *测试工具.*
-* [Applitools](https://applitools.com/) - Automated visual testing.
+* [Applitools](https://applitools.com/) - 自动化视觉测试.
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.

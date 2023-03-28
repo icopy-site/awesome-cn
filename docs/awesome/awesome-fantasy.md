@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="RichardLitt/awesome-fantasy"></div>
 ## awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 奇幻文学值得一读
+&gt; 值得一读的玄幻文学
 
 _灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情. 科幻小说，见 [awesome-scifi](https://github.com/sindresorhus/awesome-scifi)._
 
@@ -99,7 +99,7 @@ Books:
 - [The Valley of the Lost](https://www.goodreads.com/book/show/119492.The_Valley_of_the_Lost)
 - [Return to Del](https://www.goodreads.com/book/show/119491.Return_to_Del)
 
-> For centuries, the evil Shadow Lord has been plotting to invade Deltora and enslave its people. All that stands in his way is the magic Belt of Deltora with its seven gems of great and mysterious power. Now, Leif, Barda, and Jasmine must unite to find the seven gems and save Deltora from an eternity of darkness.
+ &gt; 几个世纪以来，邪恶的暗影领主一直在密谋入侵德尔托拉并奴役其人民. 挡在他路上的只有德尔托拉的魔法腰带，上面镶嵌着七颗拥有强大而神秘力量的宝石. 现在，Leif、Barda 和 Jasmine 必须联合起来寻找七颗宝石，并将 Deltora 从永恒的黑暗中拯救出来.
 
 #### [Dune](https://www.goodreads.com/series/45935-dune-chronicles) _by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)_
 
@@ -132,7 +132,7 @@ Books:
  &gt; Elantris 是 Arelon 的首都：巨大、美丽、光彩照人，充满了仁慈的存在，他们利用他们强大的魔法能力造福所有人. 然而，这些半神中的每一个都曾经是一个普通人，直到被 Shaod 的神秘转化力量所触动. 十年前，魔法毫无预兆地失败了.  Elantrians 变得干瘪、麻风病般、无力的生物，而 Elantris 本身黑暗、肮脏、摇摇欲坠.
  &gt; Arelon 的新首都 Kae 蹲伏在 Elantris 的阴影下.  Teod 的 Sarene 公主前来参加与王储 Raoden 的国事联姻，希望——根据他们的通信——也能找到真爱. 相反，她发现 Raoden 已经死了，她被认为是他的遗孀.  Teod 和 Arelon 都面临着威胁，他们是 Fjordell 冷酷的宗教狂热分子的帝国野心的最后幸存者. 因此，Sarene 决定利用她的新身份来对抗 Hrathen 的阴谋，Hrathen 是一位 Fjordell 大祭司，他来到 Kae 皈依 Arelon 并将其归于他的皇帝和他的神.
  &gt; 但 Sarene 和 Hrathen 都没有怀疑 Raoden 王子的真相. 受到毁灭伊兰特里斯的同样诅咒的打击，拉奥登被他的父亲秘密流放到了黑暗之城. 他为帮助被困在那里的可怜人所做的努力开始了一系列事件，这些事件将为阿雷隆带来希望，并可能揭示 Elantris 本身的秘密.
- &gt; 一部罕见的史诗奇幻小说，不重复经典，是一卷完整而令人满意的故事，Elantris 快速而有趣，充满惊喜和值得关注的角色. 也是奇幻星座中一颗受欢迎的新星的精彩亮相.
+ &gt; 一部罕见的史诗奇幻小说，不重复经典，是一卷完整而令人满意的故事，Elantris 快速而有趣，充满惊喜和值得关心的角色. 也是奇幻星座中一颗受欢迎的新星的精彩亮相.
 
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) _by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)_
 
@@ -164,7 +164,7 @@ Books:
 
 第一部三部曲向我们介绍了一个奇异而壮观的世界：一个充满魔法、阴谋、社会/经济不平等的世界，也许我最喜欢的是居住在这个世界上的不同种族的人.
 
-第二个三部曲发生在第一个三部曲事件发生后大约 300 年，其中许多事件已经渗透到“现代”的 Scadrial 中（整个场景具有非常古老的西方感觉）； 例如以英雄命名的城市、基于角色的宗教以及许多前三部曲中仍未解开的小秘密. 我们被介绍给一整批新角色和一些不太新的角色——我不会说更多，否则我可能会透露太多.
+第二个三部曲发生在第一个三部曲事件发生后大约 300 年，其中许多事件已经渗透到“现代”的 Scadrial（整个场景具有非常古老的西方感觉）； 例如以英雄命名的城市、基于角色的宗教以及许多前三部曲中仍未解开的小秘密. 我们被介绍给一整批新角色和一些不太新的角色——我不会说更多，否则我可能会透露太多.
 
 会向任何奇幻迷推荐整个系列和整个 Cosmere.  - [@SeanSWatkins](https://github.com/SeanSWatkins)
 
@@ -216,7 +216,7 @@ Books:
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) _by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)_ [4.1] :star2:
 
-我一直以来最喜欢的系列丛书.  Severian 是一个不可靠的叙述者，因为他记得一切. 但他对你撒谎，你慢慢开始意识到这一点. 第五本书是后来添加到其他四本书中的（主要是作为两本书出售），其中包含最意想不到的启示，因此完全有必要重新阅读. 这个系列令人难以置信.  - [@RichardLitt](https://github.com/RichardLitt)
+我一直以来最喜欢的系列丛书.  Severian 是一个不可靠的叙述者，因为他记得一切. 但他对你撒谎，你慢慢开始意识到这一点. 第五本书是后来添加到其他四本书中的（大部分以两本书的形式出售），其中包含最意想不到的启示，因此完全有必要重新阅读. 这个系列令人难以置信.  - [@RichardLitt](https://github.com/RichardLitt)
 
 Books:
 
@@ -290,7 +290,7 @@ Books:
 - [Before They Are Hanged](https://www.goodreads.com/book/show/902715.Before_They_Are_Hanged) [4.3]：火：
 - [Last Argument of Kings](https://www.goodreads.com/book/show/944076.Last_Argument_of_Kings) [4.3]：火：
 
-Standalone Novels:
+独立小说：
 
 - [Best Served Cold](https://www.goodreads.com/book/show/2315892.Best_Served_Cold) [4.2]
 - [The Heroes](https://www.goodreads.com/book/show/9300768-the-heroes) [4.3]
@@ -536,7 +536,7 @@ Books:
 
 这些都是美丽的、精心制作的短篇小说. 很少对我来说，我在完成它们后立即阅读其中的一些，以确保我获得了更微妙的细节. 文笔绝对精美.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Orsinia ... 一片拥有中世纪森林、石墙城市和延伸至旧神居住山区的铁路的土地. 一个生活严酷，梦想温和，人们感到被强大力量撕裂并为保持完整而斗争的国家. 在这本引人入胜的合集中，厄休拉·K·勒金 (Ursula K. Le Guin) 为主流小说带来了对言行、故事和人物、暴力和爱情同样令人信服的掌握，这使她赢得了手推车奖、卡夫卡奖和国家图书奖.
+ &gt; Orsinia ... 一片拥有中世纪森林、石墙城市和延伸至旧神居住山区的铁路的土地. 一个生活严酷，梦想温和，人们感到被强大力量撕裂并为保持完整而斗争的国家. 在这本引人入胜的合集中，厄休拉·K·勒金 (Ursula K. Le Guin) 将对言行、故事和人物、暴力和爱情的同样令人信服的掌握带到了主流小说中，这使她赢得了手推车奖、卡夫卡奖和国家图书奖.
 
 #### [Poison Study](https://www.goodreads.com/book/show/60510.Poison_Study) (2005) _by [Maria V. Snyder](https://en.wikipedia.org/wiki/Maria_V._Snyder)_ [4.14]
 
@@ -606,7 +606,7 @@ Books:
 
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) _by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.0]
 
-这是一本令人愉快的书. 简短而甜美，展示了盖曼施展魔法的能力，以及他对英国乡村和神话的热爱.  - [@RichardLitt](https://github.com/RichardLitt)
+这是一本令人愉快的书. 它简短而甜美，展现了盖曼施展魔法的能力，以及他对英国乡村和神话的热爱.  - [@RichardLitt](https://github.com/RichardLitt)
 
  &gt; 英国苏塞克斯. 一名中年男子回到他儿时的家参加葬礼. 虽然他住的房子早已不复存在，但他还是被路尽头的农场所吸引，七岁时，他在那里遇到了一个最了不起的女孩莱蒂·亨普斯托克，以及她的母亲和祖母. 他已经几十年没有想起莱蒂了，然而当他坐在摇摇欲坠的老农舍后面的池塘边（她声称这个池塘是海洋）时，不记得的过去如潮水般涌来. 这是一个太奇怪、太可怕、太危险的过去，不会发生在任何人身上，更不用说一个小男孩了.
 >
@@ -859,7 +859,7 @@ Books:
 
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
-这是一部非常残暴的电影. 唯一令人敬畏的是一切都做得多么糟糕，但它仍然非常有趣. 必须的.  - [@RichardLitt](https://github.com/RichardLitt)
+This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
 
 &gt; 一位不朽的苏格兰剑客必须面对他最后的不朽对手，一个渴望传说中的“奖品”的凶残野蛮人.
 
@@ -909,7 +909,7 @@ Books:
 
 一幅精美的绘画和美妙的艺术作品 - 真的，没有其他描述可以做到. 不要让它是动画的事实吓到你. 看看吧！  - [@TheSherlockHomie](https://github.com/TheSherlockHomie)
 
-&gt; 在她的家人搬到郊区的过程中，一个闷闷不乐的 10 岁女孩徘徊在一个由众神、女巫和灵魂统治的世界，在那里人类变成了野兽.
+&gt; 在她的家人搬到郊区的过程中，一个闷闷不乐的 10 岁女孩流浪到一个由众神、女巫和灵魂统治的世界，在那里人类变成了野兽.
 
 #### [The BeastMaster](https://www.imdb.com/title/tt0083630/) [6.2]
 
@@ -935,7 +935,7 @@ Books:
 
 #### [The Princess Bride](http://www.imdb.com/title/tt0093779/) [8.2] :star2:
 
-有史以来最好的爱情故事之一. 这部电影拥有任何孩子想要的一切，这本书也同样出色——它具有讽刺意味，但又不过分放纵自我.  - [@RichardLitt](https://github.com/RichardLitt)
+One of the best love stories ever told. This movie has everything any kid could want, and the book is just as good - it's satirical but not overly self-indulgent. - [@RichardLitt](https://github.com/RichardLitt)
 
 &gt; 一个小男孩的祖父因病在家卧病在床，给他读了一个名为《公主新娘》的故事.
 
@@ -1024,8 +1024,13 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 那些阅读巫师系列丛书的人的自然选择，巫师电视改编大部分忠实于书籍，即使不是实际的剧本，但在主题上，亨利卡维尔担任主要角色，表演出色，基调类似于权力的游戏. 迷人的配乐加分. [@Donearm](https://github.com/Donearm)
 
 &gt; 利维亚的杰洛特 (Geralt of Rivia) 是一个孤独的怪物猎人，他努力在一个人往往比野兽更邪恶的世界中找到自己的位置.
- 
 
+#### [Shadow and Bone](https://www.imdb.com/title/tt2403776/) (2021-2023) [7.6]
+
+ Shadow and Bone 是最近几年出现的更好的奇幻节目之一. 虽然它不是最好的，但它在那里！ 该节目让我从第一集中就迷上了，令我惊喜的是我对它的喜爱程度. 它有一些适合每个人的东西……幻想、幽默、动作、戏剧、浪漫等等.虽然它确实需要几集才能真正开始，但请坚持下去，因为它是值得的！ 如果你喜欢幻想，那么给这个节目一个机会，你不会失望的！ [@Evy04](https://github.com/Evy04)
+
+&gt; 当孤儿地图制作者 Alina Starkov 释放出一种非凡的力量，可以改变她饱受战争蹂躏的世界的命运时，黑暗势力密谋反对她.
+ 
 
 ---
 

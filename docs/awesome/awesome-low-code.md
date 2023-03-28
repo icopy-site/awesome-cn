@@ -59,7 +59,7 @@
 - [ILLA Cloud](https://www.illacloud.com/) - 一个低代码平台，供开发人员在几分钟内构建内部工具.
 - [Loopple](https://www.loopple.com) - 低代码拖放仪表板生成器.
 - [Appsheet (Google)](https://about.appsheet.com/home/)  - Google AppSheet 是一个无代码开发平台，用户无需具备丰富的编程知识即可创建自定义移动和网络应用程序. 它提供了一个用于构建应用程序的拖放界面，并且可以与各种数据源和 API 集成以自动化工作流程并提高生产力.
-
+- [DronaHQ](https://www.dronahq.com/) - DronaHQ - 一个低代码平台，可帮助工程团队和产品经理构建内部工具、自定义用户旅程、数字体验、自动化、自定义管理面板、操作应用程序，速度提高 10 倍. 
 ### Business Process Management
 
 一个致力于简化业务流程的低代码应用程序平台. 这些平台通过提供易于使用的拖放界面，使业务用户能够在没有编码背景的情况下自动执行复杂的业务工作流程和操作. 在此类平台中构建的自动化通常围绕关键业务流程以事件驱动模式（触发器）构建.  BPA 可以通过 SaaS 或本地设备使用.
@@ -84,7 +84,7 @@
 - [Workato RPA](https://www.workato.com/modern-rpa) - 用于智能自动化的集成驱动的 RPA.
 - [UiPath](https://www.uipath.com/)  - 机器人过程自动化 (RPA) 软件的领先供应商，使组织能够自动执行重复且耗时的任务，例如数据输入和数据处理. 其平台包括用于构建自动化工作流程的可视化设计器、用于执行工作流程的机器人以及用于监控和优化性能的分析工具.
 - [AutomationAnywhere](https://www.automationanywhere.com/)  - 机器人过程自动化 (RPA) 软件的供应商，允许企业结合使用基于规则的决策、机器学习和人工智能来自动执行任务. 其平台包括用于创建和部署自动化的用户友好界面，可用于跨不同部门和行业自动执行任务.
-- [BluePrism](https://www.blueprism.com/) - A provider of robotic process automation (RPA) software that allows organizations to automate repetitive and manual tasks, such as data entry, without requiring extensive coding knowledge. Its platform includes a digital workforce that can handle high-volume and complex tasks, and it can integrate with various systems and applications to streamline business operations.
+- [BluePrism](https://www.blueprism.com/)  - 机器人过程自动化 (RPA) 软件的供应商，允许组织自动执行重复性和手动任务，例如数据输入，而无需大量编码知识. 它的平台包括一支可以处理大量复杂任务的数字化劳动力，并且可以与各种系统和应用程序集成以简化业务运营.
 
 ### Intelligent Virtual Agent
 
@@ -105,7 +105,7 @@
 
 一个低代码平台，支持完整的 API 生命周期管理，包括 API 端点的创建、管理和监控.
 
-- [MuleSoft](https://www.mulesoft.com/platform/api-management) - 管理您的 API 生命周期，快速设计、测试和发布 API.
+- [MuleSoft](https://www.mulesoft.com/platform/api-management) - Manage your API lifecycle, quickly design, test, and publish APIs.
 - [Workato API Management](https://docs.workato.com/api-management.html) - 将可调用的配方转化为端点并将端点组织成 API 集合，使用户更容易通过其他配方或第三方应用程序查找和使用端点，而无需访问您的 Workato 帐户.
 
 
@@ -150,7 +150,7 @@
 - [PowerApps Samples](https://github.com/Eickhel/PowerApps-samples) - Power Nimbus 提供的 Power Apps 示例.
 - [Power Apps Branding Template](https://github.com/iAmManCat/PowerApps-Branding-Template) - 赋予开发人员权力并减少在控件更改上浪费的时间的模板.
 - [SharePoint Power Platform Solutions](https://github.com/pnp/sp-power-platform-solutions) - 设计用于 SharePoint 上下文的示例 PowerApps 解决方案.
-- [Power Automate Samples](https://github.com/pnp/powerautomate-samples) - 包含 Microsoft Power Automate 的精选社区示例.
+- [Power Automate Samples](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
 - [Automatic travel time](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Office 365 日历中的自动旅行时间.
 - [Message Center in Teams](https://github.com/ericsche/MCinTeams) - Teams 中的消息中心是一个简单的 PowerAutomate 解决方案，用于收集消息中心公告并将其发布在 Teams 频道中.
 - [Consume Power BI](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - 基于 Powershell 或 Power Automate (Flow) 的解决方案，以使用最近发布的 Power BI 异步统一扫描 API.

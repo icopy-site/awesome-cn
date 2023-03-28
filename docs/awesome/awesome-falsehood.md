@@ -29,7 +29,7 @@
 ## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/)  - 常见谎言的简要清单. 对谎言世界的一个很好的概述和快速介绍.
-- [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 关于编程和程序员本身的谦逊而有趣的清单.
+- [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 关于编程和程序员本身的谦逊而有趣的列表.
 - [Falsehoods about Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) - 关于不应如何处理这些谎言的元评论.
 
 ## Arts
@@ -43,12 +43,12 @@
 - [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - 涵盖货币、金额和本地化.
 - [Falsehoods about IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - 国际银行帐号不是国际的.
 - [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - 经济学并不简单或理性.
-- [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
-- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)  - 与上述 Google Ads 相同的错误，或者将您的便士与美元分开的危险，是 250 美元的内部优惠券变成了 25,000 美元. 我的建议： [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
+- [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - 类型在会计软件中的重要性：缺少小数点会导致 100 倍的超额收费.
+- [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)  - 与上述 Google Ads 中的错误相同，或者将您的便士与美元分开的危险，其中 250 美元的内部优惠券变成了 25,000 美元. 我的建议： [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) , 黑客利用它们注册 `\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和 `SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
 - [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - 特拉华州和美国国税局的规则如何不相交.
 - [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 由于叛乱、入侵、新宪法和计划采用缓慢，货币有效期范围重叠.
-- [`tax`](https://github.com/commerceguys/tax) - 一个 PHP 5.4+ 税务管理库.
+- [`tax`](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management library.
 
 ## Cryptocurrency
 
@@ -125,10 +125,10 @@
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) - 令人愉快的 Unicode 花絮、包和资源的精选列表.
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode 是广泛的，这里是龙.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - 更深入地研究 Unicode 并消除关于代码点的神话.
-- [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - 大多数程序员花太多时间在 `Latin-1` 上，他们忘记了其他人的脚本怪癖.
+- [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很困难，当每个破碎的数据输入层添加自己的香料时更是如此.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - 为单元测试和 QA 编译真实的国际和多样化的名称数据.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试你的软件.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试您的软件.
 
 ## Management
 
@@ -196,7 +196,7 @@
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 对缓存的误解通常会导致错误的断言，尤其是在涉及并发和竞争条件时.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 有一些关于 `/dev/urandom` 和 `/dev/random` 的东西被反复重复. 他们仍然是错误的.
 - [Facts about State Machines](https://github.com/cpressey/Facts-about-State-Machines) - 状态机经常被误解和应用不足.
-- [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
+- [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个演讲可以命名为*关于用户名（和其他标识符）的谬误*.
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - 关于为什么文件的 `mtime` 比较可能被认为是有害的帖子的一部分.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 不是谎言*本身*，但仍然是实现自动完成的良好实践的一个很好的列表.
 - [Floating Point Math](https://0.30000000000000004.com)  - “你的语言没有问题，它在做浮点数学.  (...) 这就是为什么，&#39;0.1 + 0.2 != 0.3&#39;.”
