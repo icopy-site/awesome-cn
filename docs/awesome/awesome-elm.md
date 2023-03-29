@@ -372,7 +372,7 @@
 *一些用 Elm 编写的好应用程序.*
 
 * [Builtwithelm](http://builtwithelm.co/) - 使用 Elm 构建的网站，其中包含使用 Elm 构建的项目和应用程序列表.
-* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - 具有 CRUD 操作、身份验证、路由、分页等功能的全栈 Elm 应用程序. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
+* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - 具有 CRUD 操作、身份验证、路由、分页等功能的全栈 Elm 应用程序. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) / [Video](https://youtu.be/RN2_NchjrJQ)
 * [Elm Example App](https://github.com/sporto/elm-example-app) - Elm 中的一个小型 SPA 示例，用于学习基础知识
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - 正确实施 TodoMVC 应用程序.
 * [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - 具有 JSON API 持久性的准系统、模块化、大量记录的待办事项应用程序.

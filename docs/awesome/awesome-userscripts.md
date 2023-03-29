@@ -16,7 +16,7 @@
 
 - [Greasemonkey](http://www.greasespot.net/) - 火狐
   - 支持 GM 4 用户脚本.
-- [Greasemonkey for Pale Moon](https://github.com/janekptacijarabaci/greasemonkey/releases) - 苍白的月亮
+- [Greasemonkey for Pale Moon](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
   - 支持 GM 3 用户脚本.
 - [Firemonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - 火狐
   - 支持 GM 4 用户脚本和一些 GM 3 用户脚本.
@@ -51,6 +51,11 @@
 * [AdsBypasser](https://adsbypasser.github.io/) - 绕过广告、弹出窗口和倒计时广告.
 
 
+### DuckDuckGo
+
+* [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - 在 DuckDuckGo 侧边栏中显示 ChatGPT 答案.
+
+
 ### GitHub
 
 * [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - 轻松回复 Github 评论.
@@ -65,7 +70,7 @@
 * [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - 为每个差异文件添加一个切换（按住 Shift 键单击切换所有文件）.
 * [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - 切换文件中的代码包装.
 * [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - 在 GitHub 上的任何地方添加自定义表情符号.
-* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
+* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - 将所有标题转换为 GitHub 工具提示.
 * [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - 为代码添加色样预览.
 * [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - 向文件添加代码折叠.
 * [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - 为文件和差异添加代码指南.

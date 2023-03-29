@@ -192,7 +192,8 @@
 * [Interval](https://interval.com/) - 用于为您的产品构建内部工具和脚本的 SDK.
 * [ngrok](https://ngrok.com/) - 为内部服务器生成公共 URL（在 NAT/防火墙之后）.
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程（电子邮件、日历、联系人...）的 API - 就像用于生产力的格子花呢.
-* [zigi](https://www.zigi.ai/) - 通过 Slack 完成日常非编码任务的开发人员助手.
+* [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和网络应用程序.
+* [Zigi](https://www.zigi.ai/) - 通过 Slack 完成日常非编码任务的开发人员助手.
 
 ## Monitoring
 *监控您的生产应用程序.*
