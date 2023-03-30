@@ -5,14 +5,14 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
 
 
 ## Legend
 
 - 不兼容 _terraform &gt;= 0.12_ :ghost:
-- Abandoned :skull:
+- 被遗弃：头骨：
 - 货币化：heavy_dollar_sign：
 
 ## Official Resources
@@ -233,7 +233,7 @@
 - [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - 提供者来管理 UCloud 资源.
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - 供应商管理 uptimerobot 资源.
 - [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - 通过 Terraform 加密的 HashiCorp Vault 机密可以存储在 Git 等 SCM 中.
-- [terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - 考虑到机器学习而构建的 Terraform 插件.
+- [terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
 ## Testing
 
@@ -251,7 +251,7 @@
 - [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfexport](https://github.com/Azure/aztfexport) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -309,7 +309,7 @@
 - [terraform-landscape](https://github.com/coinbase/terraform-landscape) - *（仅 0.11 及更早版本）* 改进 Terraform 的计划输出，使其更易于阅读和理解.
 - [terraform-operator](https://github.com/isaaguilar/terraform-operator.git) - 用于处理 Terraform 操作的 Kubernetes CRD.
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser)  - 用于从“terraform plan”解析标准输出并将其转换为 JSON 的命令行实用程序和 JavaScript API.  ：鬼：
-- [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - Tool for managing multiple provisions of the same Terraform scripts.
+- [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - 用于管理相同 Terraform 脚本的多个条款的工具.
 - [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - 用于管理地形规划的共享 Rake 任务.
 - [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  - 从现有基础设施生成地形文件的 CLI 工具. 基础设施到代码. 支持许多供应商.
@@ -342,6 +342,7 @@
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 Terraform 管理的 AWS 基础设施的框架.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Terraform 提供商的模式检查器.
 - [tftree](https://github.com/busser/tftree) - 在您的终端中显示您的 Terraform 模块调用堆栈.
+- [tftarget](https://github.com/future-architect/tftarget) - 以交互方式执行 `terraform xxx -target={...}` 的 CLI 工具.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - 更新 Terraform 配置中的版本限制.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv 从 HashiCorp Vault 中读取秘密，并使用这些秘密为各种 Terraform 提供者输出环境变量.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem 为正常运行 Hashicorp Terraform 提供 rake 任务.
@@ -381,7 +382,7 @@
 - [Your Weekly Dose of Terraform](https://bit.ly/terraform-youtube) - YouTube 频道，每周直播一次，内容涵盖 Terraform 新闻、评论、采访、问答、现场编码和一些 Terraform 黑客攻击.
 - [Terraform explained in 15 mins](https://www.youtube.com/watch?v=l5k1ai_GBDE) - 在 15 分钟内解释了 Terraform.
 - [Terraform Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) - 自动化您的 AWS 云基础设施.
-- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  - Yevgeniy Brikman 谈到如何编写 Terraform 代码，使其可重用、可组合和可测试. 该演示文稿侧重于 Terraform 模块，但也提供了对创建 Terraform 以解决什么问题的简要而清晰的解释，以及 Terraform 基础知识的简短演示（约 39 分钟，2017 年 10 月）.
+- [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ) - Yevgeniy Brikman talks about how to write Terraform code so that it is reusable, composable and testable. The presentation focuses on Terraform modules, but also provides a brief and clear explanation of what problem Terraform was created to solve and a short demo of Terraform basics (~39 min, October 2017).
 - [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) - 演示 Terraform 如何通过使用托管的 PostgreSQL 在 AWS 中部署 TeamCity 来实现基础设施即代码的实践.
 - [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用 Terraform 代码创建 Google 计算实例的示例.
 - [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 从本演练中了解如何为 Terraform 提供者做出贡献或创建您自己的提供者.

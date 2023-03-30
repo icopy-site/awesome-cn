@@ -38,7 +38,7 @@
 ### Climate
 - [NCCS Data Services](https://www.nccs.nasa.gov/services/climate-data-services) - NASA 气候模拟中心收藏了精选的数据集，包括当前和历史的大气、海洋、陆地和洪水数据，以及全球建模和同化办公室 (GMAO) 的运营天气分析数据和四次更新的预报日常的.
 - [NCDC Storm Data](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00510) - 由国家气象局 (NWS) 提供的美国风暴数据，包含人身伤害和损失估计的统计数据.
-- [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
+- [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory)  - 恶劣天气数据清单 (SWDI) 是美国恶劣天气记录的综合数据库. 当前支持的格式有 Shapefile（用于 GIS）、KMZ（用于 Google Earth）、CSV（逗号分隔）和 XML.
 - [NREL Solar Radiation](https://nsrdb.nrel.gov/) - 国家太阳辐射数据库 (NSRDB) 是一系列完整的每小时和半小时气象数据值以及三种最常见的太阳辐射测量值：全球水平、直接法线和漫射水平辐照度.
 - [Temperature Severity Indicators](https://hudgis-hud.opendata.arcgis.com/datasets/HUD::temperature-severity-indicators/about) - 温度严重性指标数据提炼了长时间温度事件的观测信息，为美国 HUD 提供的住房和社区发展政策和决策提供信息. 
 - [Urban Heat Disparities Project](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1F72FB) - 来自人口普查区的温度数据 [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002016) 使用遥感地表温度测量来探索美国人口群体的城市供暖负担分布.
@@ -51,7 +51,7 @@
 ### Demographic
 
 - [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs)  - 美国社区调查 (ACS) 帮助地方官员、社区领袖和企业了解他们社区正在发生的变化. 它是美国详细人口和住房信息的主要来源. 附加信息： [Geodata Download](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-data.html)/[Table Data Access](https://data.census.gov/cedsci/)
-- [Census Reporter](https://censusreporter.org/)  - Census Reporter 是一个开源网站，可以轻松浏览和报告人口普查数据.  Census Reporter 自动提供美国社区调查 (ACS) 数据的描述性统计数据、可下载的表格数据和交互式可视化. 可视化可以是 [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
+- [Census Reporter](https://censusreporter.org/) - Census Reporter is an open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) 内嵌框架. 附加信息：许可证：麻省理工学院许可证地理覆盖范围：包含与覆盖范围和规模相匹配的地理区域 [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) 供应商： [About Page.](https://censusreporter.org/about/) 附加链接： [GitHub Repository.](https://github.com/censusreporter/censusreporter)
 - [IPUMS National Historic GIS](https://www.nhgis.org/) - 国家历史地理信息系统 (NHGIS) 可以轻松访问人口、住房、农业和经济数据的汇总表和时间序列，以及从 1790 年到现在的所有级别的 GIS 兼容边界文件美国人口普查地理，包括州、县、地区和街区.
 - [Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/download.php?ds=pop) - 这一全球人口层基于遥感土地覆盖分类和欧盟提供的全国人口普查. 
 
@@ -70,7 +70,7 @@
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节农作物覆盖率的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
@@ -162,7 +162,7 @@
 
 ### Infrastructure
 
-- [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
+- [Mapillary](https://www.mapillary.com/)  - 访问来自世界各地的街道图像和 AI 衍生地图数据. 通过请求新的覆盖范围或使用易于使用的移动应用程序捕获您自己的覆盖范围来填补空白.
 - [Ecopia](https://www.ecopiatech.com/) - Ecopia AI 利用 AI 将地球的高分辨率图像转换为高清矢量地图，并以地理空间格式数字化基础设施资产. 
 - [Cyclomedia](https://www.cyclomedia.com/us) - Cyclomedia 捕获准确的视觉数据，包括街道级别的图像和 LIDAR，并将其转化为有价值的见解.
 
@@ -170,7 +170,7 @@
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的地块数据，提供对详细财产特征、销售记录、估价和当前县评估员文件的数字副本的即时访问.
 - [Regrid](https://regrid.com/) - 为您的地图、应用程序和空间分析提供地块和位置上下文数据的领先提供商.
-- [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
+- [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用 AI 将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑物足迹. 
 
 ### Resilience and Natural Hazards
@@ -191,7 +191,7 @@
 ### Travel Behavior
 
 - [Replica](https://replicahq.com/platform) - Replica 是一个数据平台，可根据基于活动的建模过程提供丰富的起点-终点、支出和场景影响分析.
-- [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商使用移动跟踪数据为美国商业场所提供访客洞察数据.
+- [SafeGraph](https://www.safegraph.com/) - 兴趣点 (POI) 提供商提供有关目的地位置及其特征（例如在美国的消费率）的信息.
 - [WeJo](https://www.wejo.com/)  - Wejo 使在全球范围内共享和访问互联汽车数据变得简单和安全. 这些数据可用于起点-终点分析、安全和速度研究等所有方面. 
 - [StreetLight Data](https://www.streetlightdata.com/)  - 提供使用智能手机作为传感器的数据，以测量整个北美的车辆、自行车和行人. 在预算内按时完成任务，24/7 全天候访问计数、OD 和您需要的其他指标.
 - [Strava](https://developers.strava.com/)  - 适用于跑步者和骑自行车者的流行跟踪应用程序的 API. 数据可用于了解活跃的交通使用情况和模式.
@@ -200,7 +200,7 @@
 - [Unacast](https://www.unacast.com/) - 提供与人们如何在 80 多个国家/地区移动相关的基于位置的分析，范围从客流量指标到交叉访问. 
 
 ## Planning Data Specifications
-A collection of urban planning related data specifications and standards for use as part of programs & projects.
+作为程序和项目的一部分使用的城市规划相关数据规范和标准的集合.
 
 ---
 
@@ -209,7 +209,7 @@ A collection of urban planning related data specifications and standards for use
 - [CityGML](https://www.ogc.org/standards/citygml)  - CityGML 标准定义了虚拟 3D 城市模型的表示、存储和交换的概念模型和交换格式. 它为公民系统提供了一个跨学科的通用操作平台. 
 - [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Association's](https://www.planning.org/) 基于土地的分类标准从五个维度（活动、功能、结构、地点和所有权）对土地用途进行分类. 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以使用该语言定义他们希望在其拓扑中使用的实体的语言. 
-- [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested parties to create a shared data specification for building and construction permit data.
+- [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力的成果，旨在为建筑和施工许可数据创建共享数据规范.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - House Facts 数据标准是报告有关住宅建筑的运营、安全和性能的政府数据的统一格式.
 - [IFC](https://technical.buildingsmart.org/standards/ifc/)  - IFC 是对建筑环境（包括建筑物和民用基础设施）的标准化、数字化描述. 它是一个开放的国际标准 (ISO 16739-1:2018).
 
@@ -223,7 +223,7 @@ A collection of urban planning related data specifications and standards for use
 - [CDS](https://github.com/openmobilityfoundation/curb-data-specification) - 路缘数据规范提供了路缘法规的数据规范以及连接的事件和指标 API，旨在帮助城市管理其路缘区域计划和周边地区，并衡量利用率和影响.
 - [GTFS](https://developers.google.com/transit/gtfs) - General Transit Feed Specification 是描述交通系统的流行标准.
 - [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange 是一项欧洲标准，用于交换标准化时间表和用于描述运输系统的其他系统特征. 
-- [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - This standard provides users transit data updates in real time greatly enhances their experience of transit services. 
+- [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - 该标准为用户提供实时的公交数据更新，极大地提升了他们的公交服务体验. 
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但与符合欧洲标准的硬件和网络系统兼容.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [GBFS](https://github.com/NABSA/gbfs) - 通用自行车共享馈送规范是共享移动系统可用性的标准化数据馈送.
@@ -245,10 +245,10 @@ Python 库和相关资源.
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
 - [Peartree](https://github.com/kuanb/peartree) - Peartree 帮助探索 GTFS 数据及其网络特征. 
-- [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
+- [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个用于构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息：许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据的地理空间和时间邻域分析.
-- [OSMnx](https://github.com/gboeing/osmnx)  - 用于街道网络的 Python. 从 OpenStreetMap 检索、建模、分析和可视化街道网络和其他空间数据.
+- [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 - [Pybikes](https://github.com/eskerda/pybikes) - Pybikes 提供了一组工具来从不同的网站和 API 抓取自行车共享数据，从而提供了一组连贯且通用的类和方法来访问此类信息.
 - [Leafmap](https://github.com/giswqs/leafmap)  - Leafmap 是一个免费的开源 Python 包，使用户能够在 Jupyter 环境中以最少的编码分析和可视化地理空间数据.  Leafmap 的交互式 GUI 允许无代码层管理和分析，包括强大的分析后端（即， [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html) ). 附加信息： [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 - [Prettymaps](https://github.com/marceloprates/prettymaps) - 一小组 Python 函数，用于从 OpenStreetMap 数据绘制漂亮的地图.
@@ -260,7 +260,7 @@ Python 库和相关资源.
 - [Geoplot](https://residentmario.github.io/geoplot/)  - Geoplot 是一个高级 Python 地理空间绘图库. 它是对 cartopy 和 matplotlib 的扩展，使制图变得容易：就像用于地理空间的 seaborn 一样.
 - [Urbansprawl](https://github.com/lgervasoni/urbansprawl)  - urbansprawl 项目提供了一个开源框架，用于使用开放数据评估城市蔓延. 它使用 OpenStreetMap (OSM) 数据来计算其庞大的指数，分为可达性、土地利用组合和分散性.
 - [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial 使用 Numba 实现常用的栅格分析功能，并提供易于安装、易于扩展的栅格分析代码库.
-- [Momepy](http://docs.momepy.org/en/stable/)  - Momepy 是一个用于城市形态定量分析的库 - 城市形态计量学. 它是 PySAL（Python 空间分析库）的一部分，构建在 GeoPandas、其他 PySAL 模块和 networkX 之上.
+- [Momepy](http://docs.momepy.org/en/stable/) - Momepy is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
 - [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - 地理信息系统使用 GeoTIFF 和其他格式来组织和存储网格栅格数据集，例如卫星图像和地形模型.
 
 
@@ -366,12 +366,12 @@ R 包及相关资源.
 - [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，适用于 GNU/Linux、macOS、Windows 和更多操作系统.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
 - [TestFit](https://testfit.io/) - TestFit 具有算法和共同创造工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑场地规划.
-- [Delve](https://www.sidewalklabs.com/products/delve) - Delve 使用生成式设计和 AI 为您的项目优先级和站点设计指标揭示最佳选择.
+- [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
 
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精选的城市、环境和经济数据，并为他们提供分析能力，以更快、更好和更低的成本规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划人员和建模人员设计，可使用 [UrbanSim](https://github.com/UDST/urbansim) 告知区域交通计划. 
 
@@ -436,7 +436,7 @@ R 包及相关资源.
 ---
 
 ### Other GitHub Resource Lists
-此页面已注册为 [awesome-list](https://github.com/topics/awesome-list) , 但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源管理策展. 
+此页面已注册为 [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型交通工具和数据资源的集合.
@@ -451,7 +451,7 @@ R 包及相关资源.
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - Harvard Dataverse 是研究数据的存储库. 它包含跨越科学的各种数据集，其中许多具有公共领域的奉献精神. 
-- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
+- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究新的机动性、自动驾驶汽车、电子商务和其他创新将对城市和社区产生的潜在影响，并对与之相关的各种资源和工具进行分类.
 - [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并以如何理解其应用的分类为特色. 
 - [Digital.Gov](https://digital.gov/) - 关于在政府中建立更好的数字服务的指导和资源.
@@ -468,7 +468,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 我们正在积极寻找对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面以查看我们推荐的格式. 对于大量贡献，请先提出问题. 以这种方式为 repo 做贡献的好处是你对这个共享资源的添加将被记录下来. 
 
 ## License and Citation
-与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了产生更多的贡献和对该资源的理解，我们非常感谢共享此存储库或在适当的地方引用它. 
+与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
 
 
 如果你确实引用了这个存储库，你可以： 

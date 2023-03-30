@@ -40,7 +40,7 @@
   * 营销
   * 生产力
   * 对于创始人
-  * 业务跟踪与分析
+  * 业务跟踪和分析
   * 设计
   * 用户体验
     * [Customer Feedback](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/customer-feedback)
@@ -129,7 +129,7 @@
 | [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot)  | 免费 - 149 美元/月 | 简单明了的时间跟踪软件可帮助您的团队开展更有利可图的项目. 无论您喜欢 iOS、Android、Apple Watch 还是台式电脑，Tick 都是跟踪时间的最简单方式.  |
 | [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org)  | 自托管 |  Kimai 是一个免费的开源时间跟踪器. 它跟踪工作时间并按需打印出您的活动摘要. 每年、每月、每天、按客户、按项目、按行动等.
 | [Timetrap](https://github.com/samg/timetrap)  |  - | 免费 | 简单的开源命令行时间跟踪.  |
-| [OfficeClip](https://www.officeclip.com/web/timesheet)  |  @OfficeClip | 免费 - 12 美元/用户/月| 专为小型企业设计的时间跟踪软件. 无限用户和无限时间免费. 可作为 boh 托管和自托管 |
+| [OfficeClip](https://www.officeclip.com/web/timesheet)  |  @OfficeClip | 免费 - 12 美元/用户/月 | 专为小型企业设计的时间跟踪软件. 无限用户和无限时间免费. 可作为 boh 托管和自托管 |
 
 ## App Developer Tools
 
@@ -153,7 +153,7 @@
 | [Paddle](https://paddle.com/) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  0 - 2500 美元/月 | 针对移动和 Web 应用程序的高级自定义分析.  Paddle 是一个分析平台，用于衡量用户操作而不是页面浏览量. 操作可以是用户所做的任何事情：评论产品、玩手机游戏、在您的网站上购买，等等.  Paddle 处理自定义事件和自定义数据的能力使其超越了更传统的分析平台.  |
 | [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat)  |  9.95 美元/月 - 49.95 美元/月 | 为您的网站建立忠实且有价值的受众群体.  Chartbeat 的实时流量和受众行为数据向您显示谁在您的网站上，以及他们现在如何与您的内容互动——这样您就可以在重要的时候采取行动.  |
 | [Chartio](https://chartio.com) | [@chartio](https://twitter.com/chartio)  |  - | 使用 Chartio 可视化和探索您的数据. 通过直观的拖放界面创建交互式图表和完美的仪表板. 单击一下即可从基本表格切换到复杂的数据可视化. 强大的过滤器让您可以对数据进行切片和切块，并且您无需配置任何东西就可以深入了解大多数图表.  |
-| [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky)  |  9.99 美元/月 - 19.99 美元/月 | 实时网络分析.  Clicky 让您可以看到每个访问者以及他们在您的网站上执行的每个操作，并可以选择将自定义数据附加到访问者，例如用户名或电子邮件地址. 单独分析每个访问者并查看他们的完整历史记录.  |
+| [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky)  |  9.99 美元/月 - 19.99 美元/月 | 实时网络分析.  Clicky 让您可以看到每位访问者以及他们在您的网站上执行的每项操作，并可以选择为访问者附加自定义数据，例如用户名或电子邮件地址. 单独分析每个访问者并查看他们的完整历史记录.  |
 | [Fathom Analytics](https://usefathom.com/) | [@usefathom](https://twitter.com/usefathom)  |  0-79 美元/月 | 简单、有用的网站统计信息，无需跟踪或存储用户的个人数据|
 | [Gauges](https://get.gaug.es) | [@gauges](https://twitter.com/gauges)  |  $6-$48/月 | 仪表提供实时网络分析，例如有多少人访问您的网站、他们来自哪里以及他们去了哪里.  |
 | [GoatCounter](https://www.goatcounter.com) | [@arp242_martin](https://twitter.com/arp242_martin)  | 免费供个人使用或自行托管 | 简单的网络统计. 不跟踪个人数据. [Open source](https://github.com/zgoat/goatcounter) |
@@ -525,7 +525,7 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [Citus](https://www.citusdata.com) | [@citusdata](https://twitter.com/citusdata)  |  - |  Citus 通过分片、复制和查询并行化扩展 PostgreSQL. 所以您可以专注于您的应用程序，而不用担心您的数据库.  Citus 可用作开源企业软件和完全托管的数据库即服务.  |
-| [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team)  |  - | 完全事务性、云就绪、不可变的数据库. 不可变数据意味着强一致性与水平读取可伸缩性相结合，再加上内置缓存.  Datomic 是一个分布式数据库，旨在支持可扩展、灵活和智能的应用程序，在下一代云架构上运行.  |
+| [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team)  |  - | 完全事务性、云就绪、不可变的数据库. 不可变数据意味着强一致性与水平读取可伸缩性相结合，再加上内置缓存.  Datomic 是一个分布式数据库，旨在实现可扩展、灵活和智能的应用程序，在下一代云架构上运行.  |
 | [Tinkerpop](https://tinkerpop.apache.org/)  |  - |  - | 图空间中的开源软件产品.  |
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo)  |  - | 基于 Web 的数据库设计工具.  Vertabelo 允许您可视化地为 PostgreSQL、MySQL、Oracle、SQL Server、SQLite 和 IBM DB2 设计数据库模型. 您可以从 SQL、XML 或使用逆向工程工具导入现有的数据库结构. 设计模型后，您可以为各种 ORM（Propel、jOOQ、SQLAlchemy 或 [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
 | [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus)  |  0 - 49 美元 | 具有直观 GUI 工具的现代本地客户端，用于创建、访问、查询和编辑多个数据库：MySQL、PostgreSQL、SQLite、Microsoft SQL Server、Amazon Redshift、MariaDB、CockroachDB、Vertica、Cassandra、Oracle 和 Redis.  |
@@ -583,7 +583,7 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [Braintree](https://www.braintreepayments.com) | [@braintree](https://twitter.com/braintree)  |  - | 在您的应用程序或网站中接受付款.  Braintree 为 Uber、Airbnb、HotelTonight 和 Fab 等一些发展最快的移动公司处理交易. 借助适用于 iOS、Android 和 Windows Phone 的本机、易于遵循的 SDK，您可以快速将本机支付添加到您的应用程序中.  |
-| [Dwolla](https://www.dwolla.com) | [@dwolla](https://twitter.com/dwolla)  |  25美分/交易 | 转移资金的最佳方式.  Dwolla, Inc. 是 Veridian Credit Union 的代理，与您在 Dwolla 网络中的账户相关的所有资金都保存在 Veridian Credit Union 的一个合并账户中. 这些基金不符合个人保险资格，也可能不符合国家信用合作社股份保险基金的股份保险资格.  Dwolla, Inc. 是一个软件平台的运营商，该平台将资金转账的用户指令传达给 Veridian Credit Union.  |
+| [Dwolla](https://www.dwolla.com) | [@dwolla](https://twitter.com/dwolla)  |  25美分/交易 | 转移资金的最佳方式.  Dwolla, Inc. 是 Veridian Credit Union 的代理，与您在 Dwolla 网络中的账户相关的所有资金都保存在 Veridian Credit Union 的联合账户中. 这些基金不符合个人保险资格，也可能不符合国家信用合作社股份保险基金的股份保险资格.  Dwolla, Inc. 是一个软件平台的运营商，该平台将资金转账的用户指令传达给 Veridian Credit Union.  |
 | [Stripe](https://stripe.com) | [@stripe](https://twitter.com/stripe)  |  2.9% + 30¢/成功充电.  | 功能丰富的支付. 无需从头开始设计付款表格.  Stripe Checkout 提供美观、可定制的支付流程，适用于桌面和移动设备. 当您使用 Checkout 时，您始终是最新的，不需要额外的代码.  |
 | [Pin](https://pinpayments.com) | [@PinPayments](https://twitter.com/PinPayments)  |  2.9% + 30¢/成功充电.  | 付款，重启. 接受全球受众的信用卡付款通常需要商家帐户. 为每种货币建立商户账户的过程对于小企业来说可能过于困难和昂贵.  |
 | [PayMill](https://www.paymill.com) | [@Paymill](https://twitter.com/Paymill)  |  0.28 欧元 - 0.25 欧元 | 在线支付变得简单. 根据您网站的流量定制结账方式，实现个性化付款 |
@@ -896,7 +896,7 @@
  | 服务 | 推特 | 定价 | 说明 |
 |:--------|:--------|:--------|:------------|
 | [Crashplan](https://www.crashplan.com) | [@CrashPlanSMB](https://twitter.com/crashplansmb) | - | - |
- |  Arq + S3/冰川 |  - |  - |  - |
+| [Arq](https://www.arqbackup.com/)  + S3/冰川 |  - |  - |  - |
 
 ## Remote Workers
 

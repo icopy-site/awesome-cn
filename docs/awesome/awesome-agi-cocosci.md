@@ -6,7 +6,7 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **人工智能**的**精彩和精选**列表，这是一个新兴的跨学科领域，结合了人工智能和计算认知科学作为多数，单独与概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深层次的理解，来推动高水平的机器智能. 我们相信，这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，这些都是人类智能的标志.
+ **人工智能**的**精彩和精选**列表，这是一个新兴的跨学科领域，结合了人工智能和计算认知科学作为多数，单独与概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们通过从人类学习和思考的方式中获得灵感，同时对人类认知有更深层次的理解，从而推动高水平的机器智能. 我们相信，这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，这些都是人类智能的标志.
 
  ***Awesome AGI &amp; CoCoSci*** 是一个一体化的合集，包括从基础课程和教程到从多角度围绕不同主题的论文和书籍的资源. 初级和高级研究人员，无论是学习、从事 AGI 还是围绕 AGI 工作，都能在这里满足他们的兴趣.
 
@@ -232,7 +232,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -1495,7 +1495,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -1823,6 +1823,7 @@
 
 
 ## Institute & Researcher
+
 
 ### MIT
 

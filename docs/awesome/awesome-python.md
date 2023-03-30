@@ -57,6 +57,7 @@
 
 * 声音
     * [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码.
+    * [audioFlux](https://github.com/libAudioFlux/audioFlux) - 用于音频和音乐分析、特征提取的库.
     * [dejavu](https://github.com/worldveil/dejavu) - 音频指纹和识别.
     * [kapre](https://github.com/keunwoochoi/kapre) - Keras 音频预处理器.
     * [librosa](https://github.com/librosa/librosa) - 用于音频和音乐分析的 Python 库.
@@ -94,7 +95,7 @@
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) - 用于嵌入式 Linux 的类似 make 的构建工具.
 * [buildout](http://www.buildout.org/en/latest/) - 用于创建、组装和部署来自多个部分的应用程序的构建系统.
 * [PlatformIO](https://github.com/platformio/platformio-core) - 用于使用不同开发平台构建代码的控制台工具.
-* [pybuilder](https://github.com/pybuilder/pybuilder) - 用纯 Python 编写的连续构建工具.
+* [pybuilder](https://github.com/pybuilder/pybuilder) - 用纯 Python 编写的持续构建工具.
 * [SCons](http://www.scons.org/) - 软件构建工具.
 
 ## Built-in Classes Enhancement

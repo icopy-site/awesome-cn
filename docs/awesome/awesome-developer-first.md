@@ -212,11 +212,12 @@
 * [AWS Step Functions](https://aws.amazon.com/step-functions/) - 用于构建分布式应用程序和自动化流程的可视化工作流服务
 * [Camunda- Platform](https://camunda.com/) - 提供可扩展、按需流程自动化的工作流引擎.
 
-## Payments
+## Payments & Pricing
 *处理付款、信用卡处理和发票.*
 * [Braintree](https://www.braintreepayments.com/) - Paypal 对 API 优先付款的看法.
 * [Paddle](https://paddle.com/) - 具有广泛地理支持的 SaaS 收入交付平台（与目前的 stripe 不同）.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
+* [stigg](https://www.stigg.io) - API 优先定价计划.
 * [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
 
 ## Repo
