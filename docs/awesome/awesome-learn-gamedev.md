@@ -127,7 +127,7 @@
 [Game Programming Patterns](https://gameprogrammingpatterns.com/) - 一本关于游戏编程模式的免费书籍.
 
 
-[A Study Path for Game Programmers](https://github.com/miloyip/game-programmer)  - 海量的游戏编程书名和封面，按专业分类，每个书名之间有精美的流程图，推荐阅读顺序！ 请注意，这些书_不_包括在内 - 快速搜索应该可以帮助您解决问题；]
+[A Study Path for Game Programmers](https://github.com/miloyip/game-programmer)  - 大量游戏编程书名和封面，按专业分类，每个书名之间有精美的流程图，推荐阅读顺序！ 请注意，这些书_不_包括在内 - 快速搜索应该可以帮助您解决问题；]
 
 
 [How to Learn Software Design and Architecture](https://www.freecodecamp.org/news/software-design/) - 软件架构资源列表.
@@ -235,7 +235,7 @@
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Nvidia 关于 GPU 编程和架构的三 (3) 本免费书籍.
 
 
-[Render Hell](http://simonschreibt.de/gat/renderhell/) 🟪 - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
+[Render Hell](http://simonschreibt.de/gat/renderhell/)  - 图形概述和为程序员呈现的所有内容. 涵盖概述，以及大量书籍和其他资源的参考资料，以便进行更深入的阅读.
 
 
 ["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - 关于_非常_技术艺术形式的 YouTube 系列
@@ -262,7 +262,7 @@
 [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/)  - Unity 多人游戏和网络课程. 等它开售，然后去拿这个.
 
 
-[Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/)  - 虚幻中的多人游戏和网络课程. 等它上市，然后去拿这个. 
+[Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/)  - 虚幻中的多人游戏和网络课程. 等它开售，然后去拿这个. 
 
 
 [GafferOnGames](https://gafferongames.com) - 一堆关于游戏网络代码的文章.
@@ -344,7 +344,7 @@
 
 [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Unity 和 HLSL 着色器教程.
 
-[Shadertoy](https://www.shadertoy.com/) - An online shader editor and hosting/sharing site.
+[Shadertoy](https://www.shadertoy.com/) - 在线着色器编辑器和托管/共享站点.
 
 
 [Render Doc](https://renderdoc.org/) - 一个程序，可以分解从游戏中渲染的帧，并允许您分析创建它的过程.
@@ -357,6 +357,23 @@
 
 
 [Shaderquest](https://halisavakis.com/category/shaderquest/) - 来自关于科技艺术的博客的指南系列.
+
+
+<br />
+
+
+### Rigging
+
+
+[Cult of Rig](http://www.cultofrig.com)  - 现场直播的讲座目录以及钻机创建. 提前为邪教主题道歉.
+
+[Animator Friendly Rigging](https://jasonschleifer.com/afr/)  - 关于创建适合动画师的装备的课程. 公平警告：这有大约 105-120 美元的前期成本.
+
+[Procedural Rigging Python](https://www.pluralsight.com/courses/procedural-rigging-python-maya-2283)  - 关于创建 Python 工具以在 Maya 中程序化装配角色的课程. 注意：有 10 天的免费试用期，但之后会变得非常昂贵.
+
+[Stop Staring: Facial Modeling and Animation Done Right](https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907)  - 一本关于面部建模、动画和绑定的书. 公平警告：这是 80 美元的新品. 如果可能的话，我建议使用它.
+
+[Mastering Rigging and Python Scripting in Maya](https://www.thegnomonworkshop.com/tutorials/master-rigging-python-scripting-in-maya)  - 知名艺术大学Gnomon的一门课程. 公平警告：7 天内前 2 小时的内容是免费的，但之后的订阅费用为每月 54 美元. 
 
 
 <br />
@@ -437,13 +454,13 @@
 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) - 从信誉良好的渠道吸引人们的详尽系列.
 
 
-[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o)  - 适合初学者和中级画家的数字绘画指南. 请参阅 Sinix 的其他教程，以获取针对更高级艺术家的指南.
+[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) 💠🟪 - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
 
 
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - 一个可搜索的人类参考图像存储库，带有便于搜索的过滤器（即“1 名 20-40 岁的女性和前面的狗”或“3 人坐在家里”）
 
 
-[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - 艺术资源列表，主要是人物参考资料.
+[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - A list of art resources, primarily human figure reference material.
 
 
 [Drawing the Head and Hands](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf)  - 安德鲁·卢米斯 (Andrew Loomis) 着的一本关于图形构造的书. 在公共领域免费！
@@ -540,7 +557,7 @@
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - 关于编写游戏设计文档 (GDD) 的教程.
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/)  - 作为问题解决方案呈现的常见设计模式的数据库，由《游戏设计模式语言》一书编译​​而成. 还包含学生和设计师完成本书练习的作品.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
 [The Evolution of Trust](https://ncase.me/trust/)  - 一些博弈论的交互式演练. 可能是游戏设计课上的必读内容.
@@ -609,7 +626,7 @@
 ### Reference
 
 
-[Game Docs](https://gamedocs.org/category/design-document/) - A collection of design documents from completed games - links have been ripped and placed below.
+[Game Docs](https://gamedocs.org/category/design-document/) - 已完成游戏的设计文档集 - 链接已被撕下并放在下面.
 
 
 [Destiny](http://www.cand.land/destiny) - David Candland 的《命运》（一款因其 UI 获奖的游戏）的 UI/UX 文档集.
@@ -741,7 +758,7 @@
 [The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs) - 游戏工作和专业的综合列表（包括游戏开发和电子竞技）.
 
 
-[Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - 来自行业专业人士的大量投资组合.
+[Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - A big list of portfolios from industry professionals.
 
 
 [GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - 工作室职业页面和职位发布网站的巨型列表.
@@ -800,7 +817,7 @@
 [Papers Please Devlog](https://fguillen.github.io/PapersPleaseDevlogScrap/) - 来自论文开发的帖子请.
 
 
-[EA Spouse](https://ea-spouse.livejournal.com/274.html) - A cautionary tale on crunch. For all of our sakes, don't let the industry return to this.
+[EA Spouse](https://ea-spouse.livejournal.com/274.html)  - 一个关于紧缩的警示故事. 看在我们所有人的份上，不要让这个行业重蹈覆辙.
 
 
 [Surveillance Self-Defense](https://ssd.eff.org/en) - 隐私和在线自卫的提示、工具和教程

@@ -3,7 +3,7 @@
 
 &gt; 现代生成人工智能项目和服务的精选列表.
 
-Generative Artificial Intelligence is a technology that creates original content such as images, sounds, and texts by using machine learning algorithms that are trained on large amounts of data. Unlike other forms of AI, it is capable of creating unique and previously unseen outputs such as photorealistic images, digital art, music, and writing. These outputs often have their own unique style and can even be hard to distinguish from human-created works. Generative AI has a wide range of applications in fields such as of art, entertainment, marketing, academia, and computer science.
+生成式人工智能是一种通过使用在大量数据上训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
 
 欢迎对此列表做出贡献. 通过添加链接 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
 
@@ -19,7 +19,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 宣布发布 DALL·E 2，这是一种先进的图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 
 ## Text
@@ -47,7 +47,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Jasper](https://www.jasper.ai/) - 使用人工智能更快地创建内容.
 - [Compose AI](https://www.compose.ai/) - Compose AI 是一款免费的 Chrome 扩展程序，可通过 AI 驱动的自动完成功能将您的写作时间缩短 40%.
 - [Rytr](https://rytr.me/) - Rytr是一款AI写作助手，助你创作优质内容.
-- [wordtune](https://www.wordtune.com/) - 个人写作助理.
+- [wordtune](https://www.wordtune.com/) - Personal writing assistant.
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
 - [Moonbeam](https://www.gomoonbeam.com/) - 在很短的时间内更好的博客.
 - [copy.ai](https://www.copy.ai/) - 使用 AI 撰写更好的营销文案和内容.
@@ -73,6 +73,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [ChatGPT Writer](https://chatgptwriter.ai/) - 使用 ChatGPT AI 生成完整的电子邮件和消息.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - 在由 ChatGPT 提供支持的 Jupyter Notebooks 和 Jupyter Lab 中添加各种帮助函数.
 - [editGPT](https://www.editgpt.app/) - 轻松校对、编辑和跟踪您在 chatGPT 中的内容更改.
+- [Chatbot UI](https://www.chatbotui.com/) - 开源 ChatGPT 用户界面. [Source code](https://github.com/mckaywrigley/chatbot-ui).
 
 ### Productivity platforms
 - [Mem](https://mem.ai/)  - Mem 是世界上第一个由 AI 驱动的个性化工作空间. 放大您的创造力，使平凡的事情自动化，并自动保持井井有条.
@@ -99,7 +100,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [co:here](https://cohere.ai/) - Cohere 提供对高级大型语言模型和 NLP 工具的访问.
 
 ## Code
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -209,3 +210,4 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 GPT-3 的精选工具、演示和文档列表，作者： [@jordn](https://github.com/jordn).
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 与 ChatGPT 模型一起使用的提示示例集合.
 - [FlowGPT](https://flowgpt.com/) - 使用最佳提示扩大您的工作流程.
+- [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - ChatGPT 的有用数据科学提示存储库.

@@ -15,7 +15,7 @@
 
 此处包含的资源优先是那些无需货币成本和有限许可要求即可获得的资源. 方法和数据集应可公开访问并积极维护.
 
-也可以看看 [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
+也可以看看 [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) 和 [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
 
 _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie/blob/master/contributing.md) 在贡献之前. 请通过提出一个添加您喜欢的资源 [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
@@ -45,7 +45,7 @@ _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie
 * [JensenLab](https://jensenlab.org/) - 位于丹麦哥本哈根大学的诺和诺德基金会蛋白质研究中心. 
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - NaCTeM 位于曼彻斯特大学，由 Sophia Ananiadou 教授领导，主要关注文本挖掘，但特别关注生物医学应用.
 * [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - 在过去的 20 年里，Mayo Clinic 的几个团队为 BioIE（例如 Apache cTAKES 平台）做出了重大贡献.
-* [Monarch Initiative](https://monarchinitiative.org/) - A joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others, seeking to "integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
+* [Monarch Initiative](https://monarchinitiative.org/) - 俄勒冈州立大学、俄勒冈健康与科学大学、劳伦斯伯克利国家实验室、杰克逊实验室和其他几个团体之间的共同努力，寻求“使用语义整合生物信息，并以一种新颖的方式呈现它，利用表型来弥合知识鸿沟”.
 * [TurkuNLP](https://turkunlp.org/) - 在图尔库大学工作，总体上关注 NLP，重点是 BioNLP 和临床应用.
 * [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - 设在德克萨斯大学休斯顿健康科学中心生物医学信息学院，由 Hua Xu 博士领导.
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - 总部设在弗吉尼亚联邦大学，由 Bridget McInnes 博士领导.
@@ -134,7 +134,7 @@ BioIE 中的一些活动是围绕正式任务和挑战组织的，在这些任�
 ### Annotation Tools
 
 * [Anafora](https://github.com/weitechen/anafora) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - 具有裁决和进度跟踪功能的注释工具.
-* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat)  - brat 快速标注工具. 支持通过浏览器可视化地生成文本注释. 不是特定主题； 适用于许多注释项目. 可视化是基于 [_stav_ tool](https://github.com/nlplab/stav/).
+* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [_stav_ tool](https://github.com/nlplab/stav/).
 * [MedTator](https://ohnlp.github.io/MedTator/) - [paper](https://academic.oup.com/bioinformatics/article-abstract/38/6/1776/6496915) - [code](https://github.com/OHNLP/MedTator) - 旨在具有最小依赖性的注释工具.
 
 
@@ -151,14 +151,20 @@ BioIE 中的一些活动是围绕正式任务和挑战组织的，在这些任�
 
 ### Language Models
 
+#### BERT models
 * [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - PubMed 和 PubMed Central 训练的版本 [BERT language model](https://arxiv.org/abs/1810.04805).
  * ClinicalBERT - 在临床文本上训练的两种语言模型具有相似的名称. 两者都是根据 MIMIC-III 数据集的临床笔记文本训练的 BERT 模型.
   * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
   * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342)
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519)  - 通过 Flair 框架和嵌入方法可用的语言模型. 截至 2015 年，培训了超过 5% 的 PubMed 摘要样本，或总共超过 120 万份摘要.
 * [SciBERT](https://github.com/allenai/scibert) - [paper](https://arxiv.org/abs/1903.10676) - 一个 BERT 模型在超过 100 万篇来自 Semantic Sc​​holar 数据库的论文上进行训练.
 * [BlueBERT](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - 在 PubMed 文本和 MIMIC-III 笔记上预训练的 BERT 模型.
-* [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - 在 PubMed 上从头开始训练的 BERT 模型，其版本训练有摘要+全文和仅摘要.
+* [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - A BERT model trained from scratch on PubMed, with versions trained on abstracts+full texts and on abstracts alone.
+
+#### GPT models
+* [BioGPT](https://github.com/microsoft/BioGPT) - [paper](https://doi.org/10.1093/bib/bbac409) - 在 1500 万份 PubMed 摘要上预训练的 GPT-2 模型，以及针对多项生物医学任务的微调版本.
+
+#### Other models
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519)  - 通过 Flair 框架和嵌入方法可用的语言模型. 截至 2015 年，培训了超过 5% 的 PubMed 摘要样本，或总共超过 120 万份摘要.
 
 
 ## Datasets

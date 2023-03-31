@@ -2,7 +2,7 @@
 ## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## What This Is, and Where It Comes From
-自 2013 年以来， [Joe Greenheron](https://babka.social/@tenaciousjoe) , 谁创建了激发此列表的原始文件，阅读了大量有关“领导力”和“管理”的书籍和文章，并在此过程中做笔记. 他与正在过渡到管理角色的朋友分享了它，并最终决定将其开源. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut)，它提供了此处列出的文章的更丰富的摘要以及许多补充说明.
+从 2013 年左右开始， [Joe Greenheron](https://babka.social/@tenaciousjoe) , 谁创建了激发此列表的原始文件，阅读了大量有关“领导力”和“管理”的书籍和文章，并在此过程中做笔记. 他与正在过渡到管理角色的朋友分享了它，并最终决定将其作为开源分享. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut)，它提供了此处列出的文章的更丰富的摘要以及许多补充说明.
 
 2017 年夏天，Lauri Apple 通过以下途径发现了 Joe 的文档 [Software Lead Weekly](http://softwareleadweekly.com/) 并询问 Joe 关于将内容发布到 GitHub 的问题. 他开了绿灯.  Lauri 改变了格式（非常简短的简介），将文档变成了 [Awesome List](https://github.com/sindresorhus/awesome) , 并从那以后继续添加新条目. 帮助完成初始上传的是劳里的前同事团队 [Zalando](https://jobs.zalando.com/tech/) . 这些天名单收到 [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 来自世界各地的人们.
 

@@ -27,6 +27,7 @@ GitHub 仓库：https://github.com/taosdata/TDengine
 - [Taos.Studio](https://github.com/maikebing/Taos.Studio) - 用于查看和编辑 TDengine 数据的 GUI 工具.
 - [balloonfish](https://github.com/xielaoshi99/balloonfish) - 基于Electron + Vue3 + Vite2.0的TDengine时序数据库可视化管理工具.
 - [tdengine-client](https://github.com/wurong1420/tdengine-client) - 简单的 TDengine 界面.
+- [SQLAuto](https://github.com/TommyLemon/SQLAuto) - 一个智能的数据库SQL测试自动化工具，支持任意CRUD，任意模板变量，生成参数组合，生成大量数据行.
 
 ## IoT
 
