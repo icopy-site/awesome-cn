@@ -232,7 +232,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -1858,11 +1858,13 @@
 * [Jiajun Wu](https://jiajunwu.com/) - ***计算机科学系，斯坦福大学***.
 
 
+
 ### Princeton
 
 * [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***普林斯顿***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***普林斯顿心理学系***.
 
 * [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***普林斯顿***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***心理学系，计算机科学系，普林斯顿***.
+
 
 
 ### Harvard
@@ -1874,6 +1876,7 @@
 * [Samuel Gershman](https://psychology.fas.harvard.edu/people/samuel-j-gershman) ***哈佛*** [Computational Cognitive Neuroscience Lab (CCN Lab)](https://gershmanlab.com/) - ***哈佛大学心理学系***.
 
 * [Fiery Cushman](https://psychology.fas.harvard.edu/people/fiery-cushman) ***哈佛*** [Moral Psychology Research Lab](https://cushmanlab.fas.harvard.edu/) - ***哈佛大学心理学系***.
+
 
 
 ### UCLA
@@ -1891,6 +1894,7 @@
 * [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***加州大学洛杉矶分校***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***加州大学洛杉矶分校计算机科学系***.
 
 
+
 ### UC Berkeley
 
 * [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS，伯克利 ***， [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***伯克利***.
@@ -1904,6 +1908,7 @@
 * [Celeste Kidd](http://www.celestekidd.com/) - ***UCB***, [Kidd Lab](https://www.kiddlab.com/) - ***心理学系，UCB ***.
 
 
+
 ### UCSD
 
 * [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***加州大学圣地亚哥分校***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
@@ -1911,6 +1916,7 @@
 * [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***加州大学圣地亚哥分校***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
 
 * [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***加州大学圣地亚哥分校***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
+
 
 
 ### NYU
@@ -1924,6 +1930,7 @@
 * [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***纽约大学***, [Computation & Cognition Lab](http://gureckislab.org/) - ***纽约大学***.
 
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***纽约大学***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***纽约大学***.
+
 
 
 ### Others

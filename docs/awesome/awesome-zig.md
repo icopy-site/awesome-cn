@@ -11,13 +11,13 @@
 ## Algorithms and data structures
 * [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
-* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的数组.
+* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) - 适用于任何 C ABI 兼容目标的生产就绪布谷鸟过滤器.
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort 实施.
 * [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) - 容器库.
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - 稀疏集，同时支持 SOA 和 AOS 风格.
-* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor 过滤器用于检查一个键是否是一个集合的一部分.
+* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor 过滤器，用于检查一个键是否是一个集合的一部分.
 * [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - UTF-8 字符串数据结构.
 
 
@@ -151,6 +151,7 @@
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid)  - 经过实战检验、小巧、安全、URL 友好、唯一的字符串 ID 生成器. 现在有纯 Zig 版本.
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - libVLC 媒体框架的 Zig 绑定.
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - 结构化日志库.
+* [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 客户端/服务器库.
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - 围绕 TCP 和 UDP 的小型网络抽象层.

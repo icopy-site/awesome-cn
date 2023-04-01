@@ -248,10 +248,10 @@
 
 - [AIaC](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AirIAM 是一种用于 AWS IAM 的工具，用于最小权限 Terraform 执行框架.
-- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
+- [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfexport](https://github.com/Azure/aztfexport) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -315,11 +315,12 @@
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  - 从现有基础设施生成地形文件的 CLI 工具. 基础设施到代码. 支持许多供应商.
 - [terraforming](https://github.com/dtan4/terraforming)  - 将现有 AWS 资源导出为 Terraform 样式（tf、tfstate）. 类似于`terraformer`.
 - [terraformize](https://github.com/naorlivne/terraformize) - 通过简单的 REST API 端点应用\销毁 Terraform 模块.
-- [Terraform-Visual](https://github.com/hieven/terraform-visual) 一个简单但功能强大的可视化 Terraform 计划的工具.
+- [terraformsh](https://github.com/pwillis-els/terraformsh) - Bash 中的包装器，用于更轻松的 CLI UX 和 DRY 分层配置
+- [Terraform-Visual](https://github.com/hieven/terraform-visual) - 一个简单但功能强大的可视化 Terraform 计划的工具.
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt 是 Terraform 的薄包装器，它提供了额外的工具来保持 Terraform 配置干燥、使用多个 Terraform 模块以及管理远程状态.
 - [Terrahaxs](https://www.terrahaxs.com) - GitOps Terraform CI/CD GitHub 应用程序：heavy_dollar_sign：
 - [terrahelp](https://github.com/opencredo/terrahelp) - 旨在提供补充功能的命令行实用程序，有时在使用 Terraform 时证明是有用的.
-- [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 Terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时 terraform 执行，以及历史 terraform 运行的审计和报告功能.  :heavy_dollar_sign:
+- [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 Terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时地形执行，以及历史地形运行的审计和报告功能.  :heavy_dollar_sign:
 - [terramate](https://github.com/mineiros-io/terramate) - 用于管理多个 Terraform 堆栈的工具，支持更改检测和代码生成
 - [terrascan](https://github.com/accurics/terrascan) - Terraform 模板静态代码分析的安全和最佳实践测试合集
 - [terraspace](https://terraspace.cloud) - Terraform 框架

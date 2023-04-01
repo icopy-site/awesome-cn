@@ -4,7 +4,7 @@
 
 精选的开发人员优先产品列表.  
 我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
-你可以关注我 [Twitter](https://twitter.com/agammore) 更多与开发相关的内容:) 
+你可以关注我 [Twitter](https://twitter.com/agammore) 获取更多与开发相关的内容:) 
 
 这个 repo 的 developer-first 的定义是：
 * 开发人员是目标受众.
@@ -78,10 +78,10 @@
 ## Databases & Spreadsheets
 *存储数据并对其进行处理.*
 * [Airtable](https://airtable.com/) - 数据库和电子表格与 API 混合.
+* [Apitable](https://apitable.com/) - 面向 API 的 Airtable 替代品.
 * [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放.
 * [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
 * [upstash](https://upstash.com/) - 无服务器定制的 redis 供应商.
-* [Apitable](https://apitable.com/) - 面向 API 的 Airtable 替代品.
 
 ## Debugging 
 *有助于跟踪错误的工具.*
@@ -201,7 +201,6 @@
 * [LogRocket](https://logrocket.com/) - 重播用户的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
 * [Sentry](https://sentry.io/) - 应用程序监控错误和性能.
-
 
 ## Natural Language Processing
 *与自然语言的互动.*

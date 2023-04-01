@@ -9,18 +9,20 @@
 
 
 ## Recommended reading
+- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai)  - 总结 GPT-3 模型的能力和局限性及其对社会的潜在影响的文章. 作者：Alex Tamkin 和 Deep Ganguli，2021 年 2 月 5 日.
 - [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)  - 对生成人工智能行业的全面审视，提供历史视角和对行业生态系统的深入分析. 作者：Sonya Huang、Pat Grady 和 GPT-3，2022 年 9 月 19 日.
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html)  - 关于生成人工智能兴起的文章，特别是稳定扩散图像生成器的成功，以及相关的争议. 纽约时报，2022 年 10 月 21 日.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/)  - 关于生成人工智能初创公司的炒作和投资不断增加的文章，各个行业都在探索其潜在应用. 连线，2022 年 10 月 27 日.
-- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai)  - 总结 GPT-3 模型的能力和局限性及其对社会的潜在影响的文章. 作者：Alex Tamkin 和 Deep Ganguli，2021 年 2 月 5 日.
+- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912)  - Henry Kissinger、Eric Sc​​hmidt 和 Daniel Huttenlocher 的专栏文章. 华尔街日报，2023 年 2 月 24 日.
 
 ### Milestones
-- [GPT-4](https://openai.com/research/gpt-4)  - 发布大型多模式模型 GPT-4.  OpenAI 博客，2023 年 3 月 14 日.
-- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
-- [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
-- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
+- [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)  - 发布 Copilot，这是一种新的 AI 结对编程器，可帮助您编写更好的代码.  GitHub 博客，2021 年 6 月 29 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
+- [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
+- [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
+- [GPT-4](https://openai.com/research/gpt-4)  - 发布大型多模式模型 GPT-4.  OpenAI 博客，2023 年 3 月 14 日.
 
 ## Text
 
@@ -47,11 +49,11 @@
 - [Jasper](https://www.jasper.ai/) - 使用人工智能更快地创建内容.
 - [Compose AI](https://www.compose.ai/) - Compose AI 是一款免费的 Chrome 扩展程序，可通过 AI 驱动的自动完成功能将您的写作时间缩短 40%.
 - [Rytr](https://rytr.me/) - Rytr是一款AI写作助手，助你创作优质内容.
-- [wordtune](https://www.wordtune.com/) - Personal writing assistant.
+- [wordtune](https://www.wordtune.com/) - 个人写作助理.
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
 - [Moonbeam](https://www.gomoonbeam.com/) - 在很短的时间内更好的博客.
 - [copy.ai](https://www.copy.ai/) - 使用 AI 撰写更好的营销文案和内容.
-- [Anyword](https://anyword.com/) - Anyword 的 AI 写作助手为任何人生成有效的文案.
+- [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Contenda](https://contenda.co/) - 从您已经制作的内容中创建您的观众想要的内容.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - 将几个关键词变成原创的、有洞察力的文章、产品描述和社交媒体文案.
 - [Lavender](https://www.lavender.ai/) - 薰衣草电子邮件助手可帮助您在更短的时间内获得更多回复.
@@ -119,7 +121,7 @@
 ### Models
 - [DALL·E 2](https://openai.com/dall-e-2/) - OpenAI 的 DALL·E 2 是一个新的人工智能系统，可以根据自然语言的描述创建逼真的图像和艺术.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stability AI 的 Stable Diffusion 是一种最先进的文本到图像模型，可从文本生成图像.
-- [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力.
+- [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [Imagen](https://imagen.research.google/) - Imagen by Google 是一种文本到图像扩散模型，具有前所未有的逼真度和深层次的语言理解能力.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成式 AI 方法，通过允许用户通过文本描述和自由形式的草图来描述和说明他们的愿景，将创意控制权交到用户手中.
 
@@ -192,6 +194,7 @@
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
 - [Otter.ai](https://otter.ai/) - 一个会议助手，可以录制音频、写笔记、自动​​捕获幻灯片并生成摘要.
+- [Gamma](https://gamma.app/) - 创建漂亮的演示文稿和网页，无需任何格式和设计工作.
 
 ## More lists
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) - 用于生成 AI 的大量 Google Colab 笔记本，作者： [@pharmapsychotic](https://twitter.com/pharmapsychotic).
@@ -200,7 +203,7 @@
 - [The Generative AI Index](https://airtable.com/shrH4REIgddv8SzUo/tbl5dsXdD1P859QLO) - Airtable 列表 [Scale Venture Partners](https://www.scalevp.com/generative-ai).
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - 致力于游戏生成 AI 的公司的市场地图，作者： [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - 用于艺术用途的生成深度学习工具、作品、模型等的精选列表，作者： [@filipecalegario](https://github.com/filipecalegario/).
-- [GPT-3 Demo](https://gpt3demo.com/) - Showcase with GPT-3 examples, demos, apps, showcase, and NLP use-cases.
+- [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
 - [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.

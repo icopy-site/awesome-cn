@@ -72,7 +72,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -102,7 +102,7 @@
 ### Housing
 
 - [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads)  - 联邦住房金融局提供了一系列关于美国住房和抵押贷款的公共数据集. 它包括所有州，通过其房价指数、再融资报告、止赎预防报告、抵押贷款收购数据集和绩效报告了解美国抵押贷款市场的活动.
-- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列可供选择的选择，从而深入了解美国选定社区的各种因素.
+- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列选择，为美国选定的社区提供了广泛的因素洞察力.
 
 ### Land Use and Land Cover
 
@@ -209,7 +209,7 @@
 - [CityGML](https://www.ogc.org/standards/citygml)  - CityGML 标准定义了虚拟 3D 城市模型的表示、存储和交换的概念模型和交换格式. 它为公民系统提供了一个跨学科的通用操作平台. 
 - [LBCS](https://www.planning.org/lbcs/standards/) - 这 [American Planning Association's](https://www.planning.org/) 基于土地的分类标准从五个维度（活动、功能、结构、地点和所有权）对土地用途进行分类. 
 - [DTDL](https://github.com/Azure/opendigitaltwins-building) - 数字孪生定义语言是一种语言，开发人员可以使用该语言定义他们希望在其拓扑中使用的实体的语言. 
-- [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方的共同努力，旨在为建筑和施工许可数据创建共享数据规范.
+- [BLDS](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - BLDS 数据标准是公民技术公司、政府和其他相关方共同努力的成果，旨在为建筑和施工许可数据创建共享数据规范.
 - [HouseFacts](https://sites.google.com/site/housefactsdatastandard/home) - House Facts 数据标准是报告有关住宅建筑的运营、安全和性能的政府数据的统一格式.
 - [IFC](https://technical.buildingsmart.org/standards/ifc/)  - IFC 是对建筑环境（包括建筑物和民用基础设施）的标准化、数字化描述. 它是一个开放的国际标准 (ISO 16739-1:2018).
 
@@ -456,7 +456,6 @@ R 包及相关资源.
 - [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并以如何理解其应用的分类为特色. 
 - [Digital.Gov](https://digital.gov/) - 关于在政府中建立更好的数字服务的指导和资源.
 - [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - 用户 onebird 在 Favird 上的 AI 工具和应用程序的完整列表. 
-- 
 
 ---
 

@@ -20,6 +20,7 @@
 - [Castle Builder](https://castle.needle.tools/) - 一个协作和跨平台的城堡建造游戏，利用独特的 Unity-to-three.js 管道.
 - [Prehistoric Domain](https://www.prehistoricdomain.com/) - 浏览器中的侏罗纪公园式体验，有多种恐龙展品可供选择，未来还有更多计划.
 - [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - 由 Paradowski Creative 设计的 WebXR 迷你高尔夫游戏，具有分布在独特而多样的环境中的 9 个球洞.
+- [Yolopia](https://www.yolopia.com/) - 结合了流、拳和姿势匹配的节奏游戏.
 
 ## Art
 
@@ -45,7 +46,7 @@
 
 *在沉浸式体验中创建和使用 3D 化身的资源.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿 IK、通过视位进行面部动画等功能. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
+- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿部 IK、通过视位的面部动画等. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以下载 glTF 格式.
 - [VRoid](https://vroid.com/en) - 让您创建动漫风格的 3D 头像，导出为高度兼容的 .vrm 格式.
 
