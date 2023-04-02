@@ -116,7 +116,7 @@
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - 用于虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - Lua LÖVE 引擎的状态切换器类.
 * [lua-state-machine](https://github.com/kyleconroy/lua-state-machine) - Lua 有限状态机.
-* [lue](https://github.com/Ulydev/lue) - Lue is a LÖVE library that allows you to display hue color effects in your game.
+* [lue](https://github.com/Ulydev/lue) - Lue 是一个 LÖVE 库，可让您在游戏中显示色调颜色效果.
 * [lume](https://github.com/rxi/lume/) - Lua 函数集合，面向游戏开发.
 * [Manami](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - 改进的“回流打印”，支持 UTF-8、多色和对齐.
 * [narrator](https://github.com/astrochili/narrator) - Ink 叙事脚本语言解析器和运行时实现.
@@ -156,7 +156,7 @@
 
 * [Bresenham](https://github.com/rm-code/Bresenham) - 用 Lua 编写的 Bresenham 直线算法.
 * [brinevector](https://github.com/novemberisms/brinevector) - 独立的轻量级 luajit ffi 加速 2D 矢量库，性能卓越.
-* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - Math/intersection library designed for games.
+* [Cirno's Perfect Math Library](https://github.com/excessive/cpml) - 专为游戏设计的数学/交叉点库.
 * [delaunay](https://github.com/Yonaba/delaunay) - 凸多边形的 Delaunay 三角剖分.
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - 强大的二维矢量类.
 * [MLib](https://github.com/davisdude/mlib)  - 用 Lua 编写的数学和形状相交检测库. 它的目标是健壮且易于使用.
@@ -225,7 +225,7 @@
 *在第 3 方商店分发 LÖVE 游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - 用于打包 LÖVE 游戏以便在 Snappy Store 中分发的模板.
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  - 使用 AppImageKit，您可以将 LÖVE 游戏打包为 AppImages，运行在常见的基于 Linux 的操作系统上，例如 RHEL、CentOS、Ubuntu、Fedora、debian 和衍生产品； 一场比赛=一个文件.
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  - 使用 AppImageKit，您可以将 LÖVE 游戏打包为 AppImages，在常见的基于 Linux 的操作系统上运行，例如 RHEL、CentOS、Ubuntu、Fedora、debian 和衍生产品； 一场比赛=一个文件.
 
 ## Serialization
 *保存游戏和存储库*
@@ -285,7 +285,7 @@
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - LÖVE 游戏的轻型即时模式 GUI.
 * [Lynx](https://gitlab.com/TSnake41/lynx) - 非常轻量级的基于列表的 UI 库.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - 灵活的布局库.
-* [Patchy](https://github.com/excessive/patchy) - 9补丁库.
+* [Patchy](https://github.com/excessive/patchy) - 9patch library.
 * [Slicy](https://github.com/wqferr/slicy) - 更新的 9patch/9slice 库修复了 Patchy 的一些问题.
 * [Plan](https://github.com/zombrodo/plan) - 一个超级简单的基于规则的布局库.
 * [Polywell](https://gitlab.com/technomancy/polywell) - 一个高度可配置的文本编辑器/编码工具，用 Lua 编写，运行在 LÖVE 游戏引擎上.
@@ -300,7 +300,7 @@
 *非游戏特定的库和工具*
 
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - 旋转二维数组（正方形和非正方形）.
-* [cargo](https://github.com/bjornbytes/cargo) - Asset manager.
+* [cargo](https://github.com/bjornbytes/cargo) - 资产经理.
 * [chance.lua](http://ejmr.github.io/chance.lua/) - 用于生成随机数据的库.
 * [colorchanger](https://github.com/santoslove/colorchanger) - 更改 LÖVE 游戏中的颜色.
 * [Flirt](https://github.com/Alloyed/flirt)  - LÖVE 版本管理器； 允许在同一台机器上的多个引擎版本之间切换.
@@ -333,23 +333,12 @@
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - 一篇关于在 LÖVE 游戏中使用 Tiled 创建的地图的文章.
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - 关于如何通过 nooowaay 制作突破克隆的完整教程.
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - 使用 LÖVE 制作简单游戏的教程（贪吃蛇、推箱子、俄罗斯方块等）.
-* [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - 哈佛大学 CS50 OpenCourseWare.
+* [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
 * [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) - 为网络打包 LÖVE 游戏的教程.
 
 ## IDEs
 *集成开发环境和文本编辑器插件*
 
-* [Atom](https://atom.io/) - 21 世纪的可破解文本编辑器（过时）.
-	* [Love-Atom](https://atom.io/packages/love-atom) - Atom 中 LÖVE 框架的智能自动补全.
-	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - 在 Atom 中添加 GLSL 自动完成.
-	* [language-glsl](https://atom.io/packages/language-glsl) - Atom 中的 OpenGL 着色语言支持.
-	* [language-lua](https://atom.io/packages/language-lua) - Atom 中的 Lua 语言支持.
-	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) - 运行中的 Lint Lua，使用 luacheck.
-	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开 Atom 即可为当前项目启动 LÖVE.
-	* [Löve IDE](https://atom.io/packages/love-ide) - 这个包自动安装了几个用于在 Atom 中编写 Love2D 游戏的实用程序.
-		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE 的自动完成和片段.
-		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - 显示 wiki 的 LÖVE 的 Hyperclick 提供程序.
-		* [linter-luaparse](https://atom.io/packages/linter-luaparse) - Atom 中的 Lua 语法错误检查.
 * [Brackets](http://brackets.io/) - Adob​​e 的现代开源文本编辑器（已过时）.
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) - 在括号中添加 Lua 语法高亮.
 	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) - 提供 LÖVE 代码提示.
@@ -389,4 +378,4 @@
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - 专为在 LÖVE 中工作而设计的着色器集合.
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) - 精选的 PICO-8 资源、教程、工具等列表.
 
-其他很棒的列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.
+Other awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.

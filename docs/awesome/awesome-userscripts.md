@@ -9,14 +9,13 @@
 
 
 
-
 ## How to use
 
 要使用用户脚本，您需要先安装用户脚本管理器. 以下是各种浏览器的管理器：
 
 - [Greasemonkey](http://www.greasespot.net/) - 火狐
   - 支持 GM 4 用户脚本.
-- [Greasemonkey for Pale Moon](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
+- [Greasemonkey for Pale Moon](https://github.com/janekptacijarabaci/greasemonkey/releases) - 苍白的月亮
   - 支持 GM 3 用户脚本.
 - [Firemonkey](https://addons.mozilla.org/firefox/addon/firemonkey/) - 火狐
   - 支持 GM 4 用户脚本和一些 GM 3 用户脚本.
@@ -33,6 +32,7 @@
 
 
 ## Scripts
+
 
 ### General
 
@@ -51,26 +51,35 @@
 * [AdsBypasser](https://adsbypasser.github.io/) - 绕过广告、弹出窗口和倒计时广告.
 
 
+### Brave Search
+
+* [BraveGPT](https://bravegpt.com/greasemonkey) - 在 Brave Search 侧边栏中显示 ChatGPT 答案.
+
+
+### ChatGPT
+
+* [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - 自动发送后台请求以保持会话新鲜并防止 Cloudflare 检查 + 网络错误.
+* [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - 为 ChatGPT 添加宽屏 + 全窗口模式.
+
+
 ### DuckDuckGo
 
-* [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - 在 DuckDuckGo 侧边栏中显示 ChatGPT 答案.
+* [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - 在 DuckDuckGo 侧边栏中显示 ChatGPT 答案.
 
 
 ### GitHub
 
-* [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - 轻松回复 Github 评论.
+* [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - 添加一个 Dabblet 链接到从 Dabblet 保存的 Gists.
 * [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - 添加按钮以隐藏提交中的空白差异.
-* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - 添加按钮以显示提交的差异（或补丁）文件.
+* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - 在 GitHub 上的任何地方添加自定义表情符号.
+* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - 应用 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) 风格的网站.
+* [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - 为每个差异文件添加一个切换（按住 Shift 键单击切换所有文件）.
+* [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - 从文件列表中预览图像.
+* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - 将所有标题转换为 GitHub 工具提示.
 * [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - 在 GitHub textareas 上提供 MonoSpace 字体.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - 在允许合并之前需要在 GitHub PR 中获得批准.
-* [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - 在头像悬停时显示用户信息.
-* [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - 从文件列表中预览图像.
-* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - 应用 [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) 风格的网站.
-* [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - 为评论添加等宽字体切换.
-* [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - 为每个差异文件添加一个切换（按住 Shift 键单击切换所有文件）.
 * [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - 切换文件中的代码包装.
-* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - 在 GitHub 上的任何地方添加自定义表情符号.
-* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - 将所有标题转换为 GitHub 工具提示.
+* [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - 在头像悬停时显示用户信息.
 * [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - 为代码添加色样预览.
 * [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - 向文件添加代码折叠.
 * [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - 为文件和差异添加代码指南.
@@ -79,7 +88,7 @@
 * [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - 切换降价标题.
 * [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - 将您自己的自定义热键添加到所有 GitHub.
 * [GitHub custom navigation](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - 添加自定义导航栏以链接到任何地方.
-* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - 向差异添加文件类型过滤器.
+* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs.
 * [GitHub diff links](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - 为每个差异文件添加下一个和上一个按钮.
 * [GitHub font preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - 预览 OTF、TTF 和 WOFF 字体文件.
 * [GitHub image preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - 添加图像预览模式.
@@ -88,6 +97,7 @@
 * [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - 在存储库视图中显示问题数.
 * [GitHub issue highlighter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - 突出显示链接的问题.
 * [GitHub label color picker](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - 向标签编辑器添加一个广泛的颜色选择器.
+* [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - 为评论添加等宽字体切换.
 * [GitHub remove diff signs](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - 从文件差异中删除差异符号.
 * [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - 在评论中添加从右到左的指示符.
 * [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - 为所有 GitHub 添加搜索过滤器自动完成功能.
@@ -95,11 +105,13 @@
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - 向浏览器选项卡添加通知指示器.
 * [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - 展开或折叠所有提交标题.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - 切换维基侧边栏视图.
-* [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - 添加一个 Dabblet 链接到从 Dabblet 保存的 Gists.
+* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - 添加按钮以显示提交的差异（或补丁）文件.
 * [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - 为 Github 主页新闻提要项目添加过滤器.
-* [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - 使拉取请求分支可链接.
 * [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - 在可用时添加指向 Github Pages (gh-pages) 的链接.
+* [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - 使拉取请求分支可链接.
+* [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - 轻松回复 Github 评论.
 * [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - 删除存储库时跳过验证步骤.
+
 
 ### Google
 
@@ -113,13 +125,14 @@
 
 * [Handy Image](https://greasyfork.org/scripts/109-handy-image) - 显示许多图像托管网站的全尺寸图像，跳过弹出窗口和其他烦人的东西.
 * [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - 为数千个受支持的网站查找更大或原始版本的图像/视频，包括可自定义的图像弹出功能.
-* [Mouseover Popup Image Viewer](https://greasyfork.org/scripts/404-mouseover-popup-image-viewer) -（已弃用）在链接和缩略图后面显示图像和视频.
+* [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) -（已弃用）在链接和缩略图后面显示图像和视频.
 * [Mouseover Popup Image Viewer (updated fork)](https://greasyfork.org/scripts/394820-mouseover-popup-image-viewer) - MPIV 的更新分支，由 Violentmonkey 的开发人员之一维护.
 * [Picviewer CE+](https://greasyfork.org/scripts/24204-picviewer-ce) - 强大的图片查看工具，自动弹出/缩放/旋转/批量保存图片.
 
 
 ### Privacy
 
+* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - 访问 chat.openai.com 时自动清除聊天记录以获得最大隐私.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - 从结果链接中删除 Google 的点击跟踪.
 * [Remove Yandex Redirect](https://greasyfork.org/scripts/22737-remove-yandex-redirect) - 从结果链接中删除 Yandex 的点击跟踪.
 
@@ -128,15 +141,14 @@
 
 * [Hide YouTube recommendations](https://github.com/artli/hide-youtube-recommendations) - 隐藏推荐视频的缩略图和标题以减少分心和拖延.
 * [Iridium](https://greasyfork.org/scripts/37902-iridium) - 向 YouTube 添加了许多额外功能，包括弹出式视频、对视频/评论提要的额外控制等等.
+* [YouTube Classic](https://ytclassic.com/greasemonkey) - 将 YouTube 恢复为经典设计（不圆角、恢复不喜欢 + 删除/重定向 Shorts）.
 * [YouTube Link Title](https://greasyfork.org/scripts/390656-youtube-link-title)  - 添加视频标题，显示预览和点击嵌入. 还支持：Vimeo、LiveLeak、Dailymotion、vidme、WorldStarHipHop、Vine、Coub、Streamable.
-* [YouTube Plus](https://greasyfork.org/scripts/9932-youtube) - YouTube Plus 包含各种不同的实用功能，让您在 YouTube 上的访问更加有趣.
 * [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - 添加链接以下载视频字幕.
-
 
 
 ## Tutorials
 
-  - [Greasemonkey Hacks](http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks) - 关于 Userscripts 的完整 wiki 书.
+  - [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - 关于 Userscripts 的完整 wiki 书.
   - [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - 如何创建简单的用户脚本并使用 Greasemonkey 安装它.
   - [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
 
@@ -160,6 +172,7 @@
 非常欢迎投稿！
 
 请看一看 [CONTRIBUTING](https://github.com/brunocvcunha/awesome-userscripts/blob/master/CONTRIBUTING.md) 指南.
+
 
 ## License
 

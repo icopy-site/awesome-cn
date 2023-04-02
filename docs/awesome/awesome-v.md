@@ -65,7 +65,7 @@
 
 ### Package managers
 
-- [vpm](https://github.com/yue-best-practices/vpm) - 用V编写的V语言包管理工具.
+- [vpm](https://github.com/vlang/vpm) - 用V编写的V语言包管理工具.
 
 ### Project management
 
@@ -148,7 +148,6 @@
 
 - [V Earcut](https://github.com/Larpon/earcut) - 基于的快速（实时）多边形三角剖分库 [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
 - [vgl](https://github.com/justicesuh/vgl) - 低级图形 API 访问.
-- [vgui](https://github.com/BenStigsen/vgui) - 最小、轻量级和跨平台的 GUI 库.
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - 一个 libSDL2 包装器.
 - [vsdl](https://github.com/kjlaw89/vsdl) - 基于 C 的 SDL 库的 V 包装器.

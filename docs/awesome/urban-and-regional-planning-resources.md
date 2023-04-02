@@ -32,7 +32,7 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是一个全国性的地理数据资源，用于衡量位置效率. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内的开放建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些建筑物足迹是使用我们在卫星图像上的计算机视觉算法得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 - [National Structures Inventory](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation) - 一个数据集，旨在提供对一致的、全国可用的基于点的结构清单的访问，并附有属性以支持对自然和人为灾害后果的评估.
 
 ### Climate
@@ -63,14 +63,14 @@
   
 ### Employment
 
-- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划结合了这些行政数据以及来自人口普查和调查的数据. 根据这些数据，该程序可以在地理和行业的详细级别以及不同人口群体中创建有关就业、收入和工作流的统计数据. 附加信息： [On The Map Download Page](https://onthemap.ces.census.gov/).
+- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
 - [Bureau of Labor Statistics](https://www.bls.gov/) - 劳工统计局衡量并提供有关美国经济中劳动力市场活动、工作条件、价格变化和生产率的数据，以支持公共和私人决策.
 
 ### Environment and Ecosystem Services
 
 - [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape 显示来自美国农业部农田数据层 (CDL) 的数据，这是美国本土主要生长季节农作物覆盖率的年度遥感快照.
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
-- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US. 
+- [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
@@ -102,7 +102,7 @@
 ### Housing
 
 - [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads)  - 联邦住房金融局提供了一系列关于美国住房和抵押贷款的公共数据集. 它包括所有州，通过其房价指数、再融资报告、止赎预防报告、抵押贷款收购数据集和绩效报告了解美国抵押贷款市场的活动.
-- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列选择，为美国选定的社区提供了广泛的因素洞察力.
+- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列可供选择的选择，从而深入了解美国选定社区的各种因素.
 
 ### Land Use and Land Cover
 
@@ -170,7 +170,7 @@
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的地块数据，提供对详细财产特征、销售记录、估价和当前县评估员文件的数字副本的即时访问.
 - [Regrid](https://regrid.com/) - 为您的地图、应用程序和空间分析提供地块和位置上下文数据的领先提供商.
-- [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada. 
+- [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用 AI 将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑物足迹. 
 
 ### Resilience and Natural Hazards
@@ -260,7 +260,7 @@ Python 库和相关资源.
 - [Geoplot](https://residentmario.github.io/geoplot/)  - Geoplot 是一个高级 Python 地理空间绘图库. 它是对 cartopy 和 matplotlib 的扩展，使制图变得容易：就像用于地理空间的 seaborn 一样.
 - [Urbansprawl](https://github.com/lgervasoni/urbansprawl)  - urbansprawl 项目提供了一个开源框架，用于使用开放数据评估城市蔓延. 它使用 OpenStreetMap (OSM) 数据来计算其庞大的指数，分为可达性、土地利用组合和分散性.
 - [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial 使用 Numba 实现常用的栅格分析功能，并提供易于安装、易于扩展的栅格分析代码库.
-- [Momepy](http://docs.momepy.org/en/stable/) - Momepy is a library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
+- [Momepy](http://docs.momepy.org/en/stable/)  - Momepy 是一个用于城市形态定量分析的库 - 城市形态计量学. 它是 PySAL（Python 空间分析库）的一部分，构建在 GeoPandas、其他 PySAL 模块和 networkX 之上.
 - [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - 地理信息系统使用 GeoTIFF 和其他格式来组织和存储网格栅格数据集，例如卫星图像和地形模型.
 
 
@@ -316,7 +316,7 @@ R 包及相关资源.
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的效益和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供且开发透明. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是在几乎没有或没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
-- [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 用于分析和优化城市能源系统的工具. 
+- [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems. 
 - [EPA WARM Model](https://www.epa.gov/warm) - EPA 创建了废物减少模型 (WARM)，以提供对潜在温室气体 (GHG) 减排、节能和几种不同废物管理实践的经济影响的高级估计. 
 - [ENCORE](https://encore.naturalcapital.finance/en) - 联合国赞助的资源旨在探索对我们世界自然资本储备的依赖和影响.
 
@@ -341,8 +341,9 @@ R 包及相关资源.
 - [Polycam](https://poly.cam/ ) - Polycam 是一款移动应用程序，可让规划人员扫描现实世界中的物体和地点并将其数字化，以用于 3-D 模型，从而使用智能手机的相机轻松进行摄影测量. 
 - [Spatial](https://www.spatial.io) - Spatial 是一个高度协作的网络、移动和 VR 应用程序规划者，用于在包括 Metaverse 在内的环境中创建身临其境的共同体验和空间. 
 - [Spectracities](https://www.spectracities.com/ ) - Spectra 是一个开源 VR 和混合现实平台，允许规划师和设计师将物理场所营造和数字世界构建相结合，重新构想城市建设过程，从单一项目和填充开发到大规模沉浸式环境.   
-- [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion 是一款易于使用的实时可视化软件，可创建离线渲染器质量的图像、动画和全景图，以及基于虚幻引擎构建的交互式 360° 视频和 VR 演示. 
-- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal 5 是一个 XR 引擎，规划人员不仅可以创建可视化效果，还可以创建沉浸式环境，将社区参与、决策制定和规划过程游戏化.   
+- [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion 是一款易于使用的实时可视化软件，可创建离线渲染器质量的图像、动画和全景图，以及基于虚幻引擎构建的交互式 360° 视频和 VR 演示.
+- [Unity](https://unity.com/) - 一个强大且流行的跨平台游戏引擎，用于创建 2D 和 3D 交互式体验和游戏.
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine 是一种 XR 引擎，规划人员不仅可以创建可视化效果，还可以创建沉浸式环境，将社区参与、决策制定和规划过程游戏化.   
 
 
 ### Public Engagement Tools and Platforms
@@ -350,7 +351,7 @@ R 包及相关资源.
 - [bangthetable](https://www.bangthetable.com/) - 提供对集中社区参与的平台的访问，从而可以通过一个平台轻松捕获、分析和报告全市范围的参与.
 - [Metroquest](https://metroquest.com/) - 全面的社区参与平台，提供调查、游戏和交互式地图，让公众参与规划问题. 
 - [PollEverywhere](https://www.polleverywhere.com/) - 提供在多个平台上为交互式参与生成民意调查和问题的能力. 
-- [NJTPA Engage](https://engage.njtpa.org/)  - 包含 300 多种公众参与工具、技术和软件的数据库. 可在多个级别上搜索. 
+- [NJTPA Engage](https://engage.njtpa.org/) - Database of 300 + public engagement tools, techniques, and software. Searchable on multiple levels. 
 - [Ushahidi](https://www.ushahidi.com/) - 开源众包制图工具，旨在通过收集公民的意见帮助世界各地的社区解决他们自己的问题.
 - [Social Pinpoint](https://www.socialpinpoint.com/) - Social Pinpoint 是一种专有的数字公众参与工具，允许用户通过交互式地图、调查、参与式预算练习和创意墙论坛提供反馈并分享他们的灵感.
 - [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post 是一种专有的基于文本和 SMS 的街头公众参与工具，它使用物理标牌和移动设备来获取市民反馈、改进寻路、宣传当地活动和服务，或提供创意教育内容.
@@ -366,7 +367,7 @@ R 包及相关资源.
 - [GIMP](https://www.gimp.org/) - GIMP 是一个开放的跨平台图像编辑器，适用于 GNU/Linux、macOS、Windows 和更多操作系统.
 - [Inkscape](https://inkscape.org/) - Inkscape 是基于矢量的开放式图形处理工具，通常用作 GIMP 的对应物.
 - [TestFit](https://testfit.io/) - TestFit 具有算法和共同创造工具，可帮助开发商、建筑师、城市规划师等在几秒钟内解决酒店、停车场或多户建筑场地规划.
-- [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
+- [Delve](https://www.sidewalklabs.com/products/delve) - Delve 使用生成式设计和 AI 为您的项目优先级和站点设计指标揭示最佳选择.
 
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
@@ -402,7 +403,7 @@ R 包及相关资源.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的考试准备“五步法”，并列出了帮助您成功通过 AICP 考试的资源/材料.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员与精选的主题相关资源集合联系起来——包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和专题分组，以及书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国认证规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
-- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 编制的综合学习资料集.  APA 成员还可以通过给定的地址向 Henry Bittaker 发送电子邮件，以获取他领导的考试准备和练习题研究会议的录音. 
+- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/) - Comprehensive collection of study materials compiled by APA Florida. APA members can also email Henry Bittaker at the address given for access to recordings of exam prep and practice question study sessions led by him. 
 
 
 ### Literature Resources
@@ -469,7 +470,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 我们正在积极寻找对城市规划和技术感兴趣的人的贡献. 要了解更多信息，请访问 [Contribution](https://github.com/APA-Technology-Division/planning-technology-resources/blob/main/CONTRIBUTING.md) 页面以查看我们推荐的格式. 对于大量贡献，请先提出问题. 以这种方式为 repo 做贡献的好处是你对这个共享资源的添加将被记录下来. 
 
 ## License and Citation
-与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md), this repository is released into CC 1.0. We do not require citation, but in order to generate more contributions for and understanding of this resource we do appreciate sharing this repository or citing it where appropriate. 
+与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了产生更多的贡献和对该资源的理解，我们非常感谢共享此存储库或在适当的地方引用它. 
 
 
 如果你确实引用了这个存储库，你可以： 
