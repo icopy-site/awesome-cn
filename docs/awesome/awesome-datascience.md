@@ -195,7 +195,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 套袋
+  - 装袋
   - 随机森林
   -AdaBoost
 
@@ -1011,6 +1011,7 @@
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 - [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
+- [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)

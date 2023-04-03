@@ -87,7 +87,7 @@
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - 用于 Node 和浏览器的最小 GraphQL 客户端.
 - [typescript-graphql-request](https://graphql-code-generator.com/docs/plugins/typescript-graphql-request) - 使用 GraphQL Request 作为完全类型化的 SDK.
 - [graphql-zeus](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus 为 JavaScript 或 TypeScript 创建自动完成客户端库，为强类型查询提供自动完成功能.
-- [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
+- [graphqurl](https://github.com/hasura/graphqurl)  - 为具有自动完成、订阅和 GraphiQL 的 GraphQL 卷曲. 也是一个非常简单的通用 javascript GraphQL 客户端.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - 由 Amazon 开发的用于缓存、分析等的客户端库，其中包括获取 GraphQL 查询的方法.
 
 ##### Frontend Framework Integrations
@@ -363,7 +363,7 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的中继应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 架构和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 - [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - 展示如何使用代码生成制作 Go GraphQL 服务器和客户端的教程.
 
 <a name="scala" />
@@ -597,7 +597,7 @@
 
 ### Tools - Security
 
-- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - 用于 GraphQL 的多合一自动化渗透测试工具包，用 Python 编写
+- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 - [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键式安全扫描您的 GraphQL 端点. 免费，无需登录.
 - [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
@@ -628,7 +628,7 @@
 
 - [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - 丰富的编辑器支持与 Apollo 平台无缝集成的 GraphQL 客户端和服务器开发
 - [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - 对 IntelliJ IDEA 和 WebStorm 的 GraphQL 语言支持，包括 JavaScript 和 TypeScript 中的 Relay.QL 标记模板.
-- [vim-graphql](https://github.com/jparise/vim-graphql) - 提供 GraphQL 文件检测和语法高亮显示的 Vim 插件.
+- [vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
 - [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - 帮助您使用 Apollo Federation 开发和模拟联合模式的工具.
 - [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) - 从 Atom 中的 GraphQL 端点自动完成和 lint.
 
@@ -673,7 +673,7 @@
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
 - [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它会为您的模型自动生成一个 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器后端即服务. 您的 GraphQL 和 REST over GraphQL 后端只需几分钟.
-- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
+- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代品
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 当前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
@@ -695,7 +695,6 @@
 - [The GraphQL Guide](https://graphql.guide) 通过 John Resig 和 Loren Sands-Ramshaw
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) 布鲁斯·威廉姆斯和本·威尔逊
 - [The Road to GraphQL](https://www.roadtographql.com/)
-- [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) 朱利安·马约加 (Julian Mayorga)
 - [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) 通过 Samer Buna
 - [Practical GraphQL](https://leanpub.com/book-graphql) 通过丹尼尔施密茨
 - [Production Ready GraphQL](https://book.productionreadygraphql.com) 马克-安德烈·吉鲁
@@ -757,11 +756,12 @@
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 了解 GraphQL 安全性、性能、测试以及使用 GraphQL 生态系统的最新工具和最佳实践构建生产就绪 API.
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
 - [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
+- [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - 介绍基本概念、安全注意事项和侦察、漏洞和攻击、攻击性工具.
 
 <a name="post" />
 

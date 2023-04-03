@@ -1958,6 +1958,7 @@
 * [General Pattern Theory: A Mathematical Study of Regular Structures](https://global.oup.com/academic/product/general-pattern-theory-9780198536710?cc=lt&lang=de#) - ***牛津大学出版社***，1993 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=General+Pattern+Theory&btnG=)].
 
 
+
 ### David Marr
 
 计算认知神经科学家，分析水平的建立者.

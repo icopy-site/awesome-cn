@@ -33,7 +33,7 @@
 ## Engines
 
 - [pdfTeX](https://www.tug.org/applications/pdftex/)  - TeX 编译器可以立即生成 PDF 文件而不是 DVI 文件（如今，这是许多用户的标准编译器）.  ![源代码]
-- [XeTeX](http://xetex.sourceforge.net)  - TeX 编译器提供比 TeX/pdfTeX 更好的 unicode 和字体支持（即您可以使用操作系统的字体，而不仅仅是 TeX 字体）.  ![源代码]
+- [XeTeX](http://xetex.sourceforge.net) - TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the  fonts of your operating system instead of only TeX fonts). ![foss]
 - [LuaTeX](https://www.luatex.org)  - (La)TeX 编译器支持用于脚本的 Lua 代码，并且比标准 TeX/pdfTeX 改进了 unicode 和字体支持.  ![源代码]
 - [tectonic](https://tectonic-typesetting.GitHub.io/en-US/)  - 由 XeTeX 和 TeXLive 提供支持的现代、独立的 (La)TeX 编译器.  ![源代码]
 
@@ -92,10 +92,11 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
   - [vimtex](https://github.com/lervag/vimtex)  - 用于编辑 LaTeX 文件的现代 vim 插件. 具有多种功能，包括实时预览和向前搜索.  ![源代码]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-  - [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA)  - 适用于 IntelliJ IDEA 的免费 LaTeX 插件.  ![源代码]
+  - [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 - [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
   - [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Visual Studio Code 的 LaTeX 扩展！[foss]
+  - [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool 语法/拼写检查！[foss]
 
 ### Online editors
 
@@ -111,7 +112,7 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org)  - 非常强大的跨平台 (Java) bibtex 编辑器.  ![mac] ![windows] ![linux] ![foss]
-- [Papis](https://github.com/papis/papis) - Extremely customizable,
+- [Papis](https://github.com/papis/papis) - 高度可定制，
   强大而简单的跨平台（Python）库管理器. 它有一个非常
   完整的命令行界面、多个 GUI 和脚本功能.
   ![linux] ![mac] ![foss]
@@ -136,22 +137,29 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
 
 - [CaTeX](https://github.com/Alexis-benoist/CaTeX) - 连接 LaTeX 文档，注意正确合并序言.
 - [Pandoc](https://pandoc.org)  - 该程序将几乎所有文档格式（LaTeX、DOC、markdown 等）转换为几乎任何其他格式. 一个很好的工具来帮助使用多种格式的工作流程.  ![源代码]
-- [Codecogs Eqn Editor](https://editor.codecogs.com/) - 在线 LaTeX 方程式编辑器，可让您生成包含方程式的图形.
-- [LaTeXiT](https://www.chachatelier.fr/latexit/)  - LaTeXit 是一个方程式编辑器，可以轻松地将呈现的方程式（如 PDF、PNG 等）拖放到 Mac 上的非 LaTeX 文档中.  ！[苹果]
-- [KLaTeXFormula](https://klatexformula.sourceforge.io)  - LaTeXit 的跨平台替代品.  ![源代码]
-- [EqualX](https://equalx.sourceforge.io/)  - 图形化 LaTeX 公式编辑器.  ![windows] ![linux] ![foss]
+
+### Quality Check Tools
+
 - [ChkTeX](https://www.nongnu.org/chktex/)  - 用于 LaTeX 文档的 Linter / 代码检查器.  ![源代码]
-- [LaTeXEqEdit](http://latexeqedit.sourceforge.net/)  - 适用于 Windows 的 LaTeX 公式编辑器.  ![窗户] ![源代码]
-- [Laeqed](https://www.thrysoee.dk/laeqed/)  - 跨平台 LaTeX 公式到 PNG 转换器.  ![windows] ![linux] ![mac] ![foss]
 - [blacktex](https://github.com/nschloe/blacktex)  - 替换常见的 LaTeX 反模式并清理文件的命令行工具.  ![windows] ![linux] ![mac] ![foss]
 - [TeXtidote](https://github.com/sylvainhalle/textidote)  - LaTeX 文档的跨平台 (Java) 拼写、语法和样式检查器.  ![windows] ![linux] ![mac] ![foss]
+
+### Tools centered around equations
+
+- [Codecogs Eqn Editor](https://editor.codecogs.com/) - 在线 LaTeX 方程式编辑器，可让您生成包含方程式的图形.
+- [EqualX](https://equalx.sourceforge.io/)  - 图形化 LaTeX 公式编辑器.  ![windows] ![linux] ![foss]
+- [KLaTeXFormula](https://klatexformula.sourceforge.io)  - LaTeXit 的跨平台替代品.  ![源代码]
+- [Laeqed](https://www.thrysoee.dk/laeqed/)  - 跨平台 LaTeX 公式到 PNG 转换器.  ![windows] ![linux] ![mac] ![foss]
+- [LaTeXEqEdit](http://latexeqedit.sourceforge.net/)  - 适用于 Windows 的 LaTeX 公式编辑器.  ![窗户] ![源代码]
+- [LaTeXiT](https://www.chachatelier.fr/latexit/)  - LaTeXit 是一个方程式编辑器，可以轻松地将呈现的方程式（如 PDF、PNG 等）拖放到 Mac 上的非 LaTeX 文档中.  ！[苹果]
+- [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows] ![linux] ![mac] ![foss]
 
 ## LaTeX-compatible GUI tools
 
 - [TikzEdt](https://www.tikzedt.org) （还： [GitHub repo](https://github.com/hchapman/tikzedt) ) - 所见即所得和基于文本的 TikZ 图片编辑器.  ![源代码]
 - [TikZ-Editor](https://github.com/fredokun/TikZ-Editor)  - TikZ 图形的实时预览编辑器.  ![mac] ![linux] ![foss]
 - [IPE](https://ipe.otfried.org)  - 与 LaTeX 命令和文档完美集成的绘图工具.  ![源代码]
-- [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
+- [GeoGebra](https://www.geogebra.org/)  - 可输出到 TikZ 的跨平台几何工具.  ![源代码]
 - [Dia](https://wiki.gnome.org/Apps/Dia)  - 可以导出到 PSTricks 和 MetaPost 代码的跨平台图表工具.  ![源代码]
 - [TikZiT](https://tikzit.GitHub.io)  - 使用 PGF/TikZ 创建图形和字符串图的 GUI 工具.  ![windows] ![linux] ![mac] ![foss]
 - [LaTeXDraw](https://latexdraw.sourceforge.net/)  - 以 LaTeX 作为一等公民的基于矢量的绘图工具.  ![windows] ![linux] ![mac] ![foss]

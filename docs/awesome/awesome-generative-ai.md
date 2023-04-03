@@ -38,6 +38,7 @@
 - [Bard](https://bard.google.com) - Google 的实验性 AI 聊天机器人，由 LaMDA 模型提供支持.
 - [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
 - [ChatPDF](https://www.chatpdf.com/) - 与任何 PDF 聊天.
+- [ChatSonic](https://writesonic.com/chat) - 支持文本和图像创建的 AI 助手.
 
 ### Search engines
 - [Perplexity AI](https://www.perplexity.ai/) - 人工智能驱动的搜索工具.
@@ -53,7 +54,7 @@
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite 可帮助您自信地写作，并更快地完成从构思到最终草稿的工作.
 - [Moonbeam](https://www.gomoonbeam.com/) - 在很短的时间内更好的博客.
 - [copy.ai](https://www.copy.ai/) - 使用 AI 撰写更好的营销文案和内容.
-- [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
+- [Anyword](https://anyword.com/) - Anyword 的 AI 写作助手为任何人生成有效的文案.
 - [Contenda](https://contenda.co/) - 从您已经制作的内容中创建您的观众想要的内容.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - 将几个关键词变成原创的、有洞察力的文章、产品描述和社交媒体文案.
 - [Lavender](https://www.lavender.ai/) - 薰衣草电子邮件助手可帮助您在更短的时间内获得更多回复.
@@ -100,6 +101,8 @@
 
 ### Developer tools
 - [co:here](https://cohere.ai/) - Cohere 提供对高级大型语言模型和 NLP 工具的访问.
+- [LangChain](https://langchain.com/) - 用于开发由语言模型提供支持的应用程序的框架.
+- [gpt4all](https://github.com/nomic-ai/gpt4all) - 一个聊天机器人，接受了大量干净的助手数据的训练，包括代码、故事和对话.
 
 ## Code
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
@@ -112,7 +115,7 @@
 - [Debuild](https://debuild.app/) - 用于网络应用程序的 AI 驱动的低代码工具.
 - [AI2sql](https://www.ai2sql.io/) - 使用 AI2sql，工程师和非工程师都可以在不了解 SQL 的情况下轻松编写高效、无错误的 SQL 查询.
 - [Pygma](https://pygma.app/) - 将 Figma 设计转化为高质量代码.
-- [Kite](https://www.kite.com/) - Kite 将 AI 驱动的代码补全功能添加到您的代码编辑器中，赋予开发人员超能力.
+- [CodiumAI](https://www.codium.ai/) - 使用 CodiumAI，您会在 IDE 中获得重要的测试建议，因此您在推动时保持自信.
 - [MutableAI](https://mutable.ai/) - 人工智能加速软件开发.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南.
 
@@ -121,7 +124,7 @@
 ### Models
 - [DALL·E 2](https://openai.com/dall-e-2/) - OpenAI 的 DALL·E 2 是一个新的人工智能系统，可以根据自然语言的描述创建逼真的图像和艺术.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stability AI 的 Stable Diffusion 是一种最先进的文本到图像模型，可从文本生成图像.
-- [Midjourney](https://www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+- [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力.
 - [Imagen](https://imagen.research.google/) - Imagen by Google 是一种文本到图像扩散模型，具有前所未有的逼真度和深层次的语言理解能力.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成式 AI 方法，通过允许用户通过文本描述和自由形式的草图来描述和说明他们的愿景，将创意控制权交到用户手中.
 
@@ -172,7 +175,7 @@
 ### Speech
 - [Resemble AI](https://www.resemble.ai/) - 用于文本到语音的 AI 语音生成器和语音克隆.
 - [WellSaid](https://wellsaidlabs.com/) - 实时将文本转换为语音.
-- [Play.ht](https://play.ht/)  - 人工智能语音发生器. 使用 AI 在线生成逼真的文本转语音语音. 将文本转换为音频.
+- [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
 - [Coqui](https://coqui.ai/) - 语音生成人工智能.
 - [podcast.ai](https://podcast.ai/) - 完全由人工智能生成的播客，由 Play.ht 文本到语音 AI 提供支持.
 - [VALL-E X](https://vallex-demo.github.io/) - 用于跨语言语音合成的跨语言神经编解码器语言模型.
@@ -207,7 +210,7 @@
 - [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
-- [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.
+- [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 
 ### Lists on ChatGPT
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 GPT-3 的精选工具、演示和文档列表，作者： [@jordn](https://github.com/jordn).

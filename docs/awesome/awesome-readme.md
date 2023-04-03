@@ -14,14 +14,14 @@
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简主义描述. 项目的 GIF 演示. 主要特征. 如何安装指南. 学分.
-- [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标志. 简要说明. 所有功能解释. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
+- [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标识. 简要说明. 所有功能解释. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 清晰的项目概览并附有示意图.  GIF 演示. 广泛的代码示例.
 - [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - 带有简短显示可以实现的目标的项目徽标、用于轻松导航的目录、重要徽章、干净的安装指南以及显示如何使用该功能的多个代码片段.
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 带有解释图形的项目和用例描述. 使用多种工具和集成说明进行构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题.  TOC 便于导航.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Markdown 功能丰富，布局现代，描述清晰，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的屏幕截图. 简单的安装说明.  TOC 便于导航. 好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
-- [choojs/choo](https://github.com/choojs/choo#readme)  - 徽章，干净，清晰. 带有有用链接的漂亮小菜单. 其中包含针对主要问题的常见问题解答. 支持者. 好语言.
+- [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [chroline/well_app](https://github.com/chroline/well_app#readme)  - 具有引人注目的项目缩略图和干净的徽章，以及下载信息和快速导航链接. 分为多个描述性部分，每个部分都有一个带有黄色表情符号的标题. 包括有关项目本身的详细信息，以及使用的技术和贡献方式.
 - [create-go-app/cli](https://github.com/create-go-app/cli#readme)  - 清洁项目标志. 有用的徽章（版本、代码风格、测试封面、文档）. 带有快速入门的清晰自述文件、易于理解的安装和使用手册、视频截屏、具有详细记录的项目功能的 ToC（在终端中有工作的演示记录）、项目哲学说明（“为什么另一个”）、最常见的问题、和更多.
 - [Day8/re-frame](https://github.com/Day8/re-frame#readme) - 徽章、徽标、TOC 等.作为一篇关于技术、如何使用它、它背后的哲学以及它如何适应更大的生态系统的巨型、写得很好的文章而脱颖而出.
@@ -63,7 +63,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)  - 清洁项目标志. 顶部的简要说明. 桑基图、快速链接、徽章、操作系统特定图标、目录、详细的发布变更日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)  - 项目标志. 制作徽章. 多种编程语言的文档结构. 使用示例.
 - [shama/gaze](https://github.com/shama/gaze#readme)  - 项目标志. 简明描述. 功能列表. 使用部分. 常问问题. 很棒的 AP​​I 文档. 发行历史.
-- [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
+- [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme)  - 概述. 所需依赖项列表. 回购中所有文件的完整列表及其功能. 这一切如何联系在一起的可视化图表.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  - 项目标志. 清楚地描述项目的作用. 制作徽章. 演示截图. 简单的安装和使用部分. 包括具有常见用途的示例部分.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard#readme)  - 项目标志. 构建和测试/覆盖徽章. 从浅显易懂的描述过渡到以人为本的描述. 显示用法的动画 GIF. 为清晰布局的部分定制横幅. 标题的自定义文本资产. 使用“快速启动”部分立即号召性用语. 一致且易于阅读的命令名称和签名. 获得帮助的三个即时选项. 提供的彩蛋注重细节.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  - 干净的动画截图. 定制号召性用语徽章. 用法展示.
@@ -73,6 +73,7 @@
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  - 项目标志. 有用的徽章. 网址. 截屏.  GIF 安装分步说明. 项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  - 清洁项目标志、徽章. 目录. 贡献部分. 许多图例.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  - 项目标志. 有用的徽章和链接（网站、文档、演示）. 截屏. 功能列表. 安装、开发和测试的分步说明. 链接到贡献指南. 很好的手机总结.
+- [themerdev/themer](https://github.com/themerdev/themer#readme)  - 项目标志. 项目做什么的视觉描述（流程图）. 制作徽章. 目录. 演示截图. 简明的安装和使用部分，包括常见的工作流程. 多彩的预览.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme)  - 项目标识、认知漏斗、动画示例. 颜色协调. 清洁文档.
 - [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme)  - 原创英雄部分. 清晰的导航. 简约设计. 附录.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml#readme)  - 清洁项目标志. 有用的目录. 功能列表中清晰的代码示例. 快速入门示例.
@@ -84,7 +85,7 @@
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *叶戈尔·布加延科*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson（思想机器人）*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *汤姆·普雷斯顿-维尔纳*
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *亚当·斯塔科维亚克*
 - ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 
 ## Tools
@@ -126,7 +127,7 @@
 
 ## Contribute
 
-贡献总是受欢迎的！
+Contributions are always welcome!
 请阅读 [contribution guidelines](https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) 第一的.
 
 ## License

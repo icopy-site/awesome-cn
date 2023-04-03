@@ -57,6 +57,7 @@
 - [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - 上传/读取云图像的简单界面.
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - 清理 Directus 的 HTML 输入.
 - [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - 使用 LogSnag 将您的事件从 Directus 直接发送到您的手机.
+- [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) - 将副本添加到剪贴板并将 URL 的操作按钮打开到字段（界面 + 显示）.
 
 ## Tools
 

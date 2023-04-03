@@ -51,13 +51,13 @@
 
 - [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 种依赖网络效应的货币化模式.
 
-- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程来实践，并作为系统的灵活属性来实现.
+- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程实践，并作为系统的灵活属性实施.
 
 ### Usage-based Pricing
 
 弹性资源的动态方案.
 
-- [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商以每个人的最大利益行事.” 还详细说明了其他定价模型的问题.
+- [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)  - “我喜欢这种定价模式的最重要原因是它极大地激励了客户和服务提供商以每个人的最佳利益行事.” 还详细说明了其他定价模型的问题.
 
 - [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - 基于使用的定价对云服务更有意义的原因：优化投资回报率，将所有常规工作负载保留在传统架构中，并为弹性和实验项目保留云计算.
 
@@ -221,7 +221,7 @@ The central repository of all available services, products, variants, options an
 
 ### Online Ads
 
-有针对性的在线广告市场与传统的云市场有很多共同点. 那里有一些很好的灵感，从概念到技术.
+有针对性的在线广告市场与传统的云市场有很多共同之处. 那里有一些很好的灵感，从概念到技术.
 
 - [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - 用于有针对性的在线广告的预算进度资源集合.
 
@@ -239,7 +239,7 @@ The central repository of all available services, products, variants, options an
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何体现在小公司的财务报表中.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中具体化.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
@@ -407,7 +407,7 @@ The central repository of all available services, products, variants, options an
 
 ## Payments
 
-- [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - 顶级支付提供商的基准、他们的定价和模型.
+- [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
 
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)  - RDBMS 是为银行围绕交易构建的，以解决该特定问题. 然后 NoSQL 的出现迫使我们仔细实施系统以避免双重支出.
 
@@ -419,7 +419,7 @@ The central repository of all available services, products, variants, options an
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944)  - 根本原因？ 人们在低湿度空气中穿着大量羊毛，产生大量静电.
 
-- ACH 的工作原理：从开发人员的角度来看， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
+- ACH 的工作原理：开发人员的观点， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox 试图解决不可靠支付服务提供商的问题.
 
@@ -587,7 +587,7 @@ The central repository of all available services, products, variants, options an
 
 - [Churn Prediction](https://towardsdatascience.com/churn-prediction-3a4a36c2129a)  - “如何以简单的方式使用 Python，通过将预测方法应用于您的所有行动来推动公司的发展.” 依赖于 XGBoost 二进制分类.
 
-- [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
+- [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - 一个功能齐全的 Python 包，用于根据用户的“存活”和“死亡”状态分析您的用户.
 
 - [`retentionizer`](https://github.com/chrisclark/retentionizer) - Python 包显示每个队列的预计保留率并计算该队列中给定客户的 LTV.
 
@@ -652,6 +652,8 @@ The central repository of all available services, products, variants, options an
 - [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - 会计画是荷兰艺术中的一个重要流派.
 
 - [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
+
+ - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接联系.
 
 ## Contributing
 
