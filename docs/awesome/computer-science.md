@@ -46,7 +46,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 - *Final Project*：一个让学生验证、巩固和展示他们的知识的项目，由全世界的同龄人进行评估
 
  **期间**. 如果您仔细计划并每周投入大约 20 小时的学习时间，则有可能在大约 2 年内完成. 学习者可以使用[这个电子表格
- ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) 来估计它们的结束日期. 制作副本并在“时间轴”表中输入您的开始日期和每周预计工作时间. 当您学习课程时，您可以在“课程数据”表中输入您的实际课程完成日期，并获得更新的完成估计.
+ ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) 来估计它们的结束日期. 制作副本并在“时间轴”表中输入您的开始日期和每周预计工作时间. 当您完成课程时，您可以在“课程数据”表中输入您的实际课程完成日期，并获得更新的完成估计.
 
  **成本**. 所有或几乎所有课程材料都是免费提供的. 但是，某些课程可能会对要评分的作业/测试/项目收费.
 请注意，两者 [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) 和 [edX](https://courses.edx.org/financial-assistance/) 提供财政援助.
@@ -270,7 +270,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) |  2 周 |  10 小时/周 | 核心编程 | [chat](https://discord.gg/pMFqNf4)
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) |  2 周 |  10 小时/周 | 核心编程 | [chat](https://discord.gg/P8SPPyF)
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) |  2 周 |  10 小时/周 | 核心编程 | [chat](https://discord.gg/duCJ3GN)
-[Machine Learning](https://www.coursera.org/learn/machine-learning) |  11 周 |  4-6 小时/周 | 线性代数 | [chat](https://discord.gg/NcXHDjy)
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) |  11 周 |  9 小时/周 | 基础编码 | [chat](https://discord.gg/NcXHDjy)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2) |  6 周 |  12 小时/周 |  C++ 或 Java，线性代数 | [chat](https://discord.gg/68WqMNV)
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)  |  6 周 |  8-10 小时/周 | 核心编程，以及 [sizable project](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
 
@@ -304,7 +304,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 `并行计算`
 `面向对象的分析与设计`
 `UML`
-`大型软件架构与设计`
+`大型软件架构和设计`
 `and more`
 
 课程 | 持续时间 | 努力 | 先决条件
@@ -370,7 +370,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 
 课程 | 持续时间 | 努力 | 先决条件
 :-- | :--: | :--: | :--:
-[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
+[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)  |  5 周 |  4-6 小时/周 | 了解基本的网络技术
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)  |  3 周 |  3 小时/周 |  -
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts)  |  3 周 |  2-3 小时/周 | 核心安全
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)  |  7 周 |  1-2 小时/周 | 核心编程和核心安全
@@ -391,7 +391,7 @@ OSSU 课程是**完整的计算机科学教育**，使用在线材料.
 OSS 大学以项目为中心.
 每门课程的作业和考试都是为了让您准备好使用您的知识来解决现实世界的问题.
 
-在你完成了所有核心 CS 和与你相关的高级 CS 部分之后，你应该考虑一个你可以使用你获得的知识解决的问题.
+在你完成了所有核心 CS 和与你相关的高级 CS 部分之后，你应该考虑一个你可以使用你所获得的知识解决的问题.
 真实的项目工作不仅在简历上看起来很棒，而且该项目还将验证和巩固您的知识.
 您可以创建全新的东西，或者您可以通过以下网站找到需要帮助的现有项目
 [CodeTriage](https://www.codetriage.com/)
@@ -424,7 +424,7 @@ or
 - 使用我们 [community](#community) 向您的同学宣布的渠道.
 
 征求 OSSU 同行的反馈.
-你不会按照传统意义上的“分级”——每个人都有自己的衡量标准，他们认为什么是成功的.
+你不会按照传统意义上的“评分”——每个人都有自己对成功的衡量标准.
 评估的目的是作为您向世界宣布您是计算机科学家的第一个公告
 并获得倾听反馈的经验——正面的和负面的.
 
@@ -466,7 +466,7 @@ or
 ## How to show your progress
 
 1.创建一个帐户 [Trello](https://trello.com/).
-1.复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登机到您的个人帐户.
+1. Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登机到您的个人帐户.
 查看如何复制板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方公告板副本，您只需在学习过程中将卡片传递到“正在执行”列或“已完成”列即可.
@@ -483,7 +483,7 @@ or
 那些带有“Section”标签的卡片只是为了帮助组织 Done 列.
 您应该将*课程的卡片*放在其各自的*部门的卡片*下方.
 
-该板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们进步的能力.
+这个板的目的是为我们的学生提供一种跟踪他们进步的方法，以及通过朋友、家人、雇主等的公共页面展示他们进步的能力.
 您可以将看板的状态更改为 *public* 或 *private*.
 
 ## Team

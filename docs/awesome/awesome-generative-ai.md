@@ -68,7 +68,7 @@
 ### ChatGPT extensions
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - 使用来自网络的相关结果增强您的 ChatGPT 提示.
 - [GPT for Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - Google 表格和 Google 文档的 ChatGPT 扩展.
-- [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - 使用 ChatGPT 总结 YouTube 视频.
+- [YouTube Summary with ChatGPT](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
 - [ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - 发现、分享、导入和使用 ChatGPT 的最佳提示，并在本地保存您的聊天记录.
 - [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - 在 Google、Bing 和 DuckDuckGo 搜索结果旁边显示 ChatGPT 响应.
 - [ShareGPT](https://sharegpt.com/) - 分享您的 ChatGPT 对话并探索其他人分享的对话.
@@ -101,13 +101,14 @@
 
 ### Developer tools
 - [co:here](https://cohere.ai/) - Cohere 提供对高级大型语言模型和 NLP 工具的访问.
+- [Haystack](https://haystack.deepset.ai/) - 使用语言模型构建 NLP 应用程序（例如代理、语义搜索、问答）的框架.
 - [LangChain](https://langchain.com/) - 用于开发由语言模型提供支持的应用程序的框架.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - 一个聊天机器人，接受了大量干净的助手数据的训练，包括代码、故事和对话.
 
 ## Code
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
-- [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
+- [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
 - [tabnine](https://www.tabnine.com/) - 通过整行和全功能代码完成更快地编写代码.
 - [Stenography](https://stenography.dev/) - 自动代码文档.
@@ -175,7 +176,7 @@
 ### Speech
 - [Resemble AI](https://www.resemble.ai/) - 用于文本到语音的 AI 语音生成器和语音克隆.
 - [WellSaid](https://wellsaidlabs.com/) - 实时将文本转换为语音.
-- [Play.ht](https://play.ht/) - AI Voice Generator. Generate realistic Text to Speech voice over online with AI. Convert text to audio.
+- [Play.ht](https://play.ht/)  - 人工智能语音发生器. 使用 AI 在线生成逼真的文本转语音语音. 将文本转换为音频.
 - [Coqui](https://coqui.ai/) - 语音生成人工智能.
 - [podcast.ai](https://podcast.ai/) - 完全由人工智能生成的播客，由 Play.ht 文本到语音 AI 提供支持.
 - [VALL-E X](https://vallex-demo.github.io/) - 用于跨语言语音合成的跨语言神经编解码器语言模型.
@@ -210,7 +211,7 @@
 - [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
-- [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
+- [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.
 
 ### Lists on ChatGPT
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - ChatGPT 和 GPT-3 的精选工具、演示和文档列表，作者： [@jordn](https://github.com/jordn).

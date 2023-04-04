@@ -3,7 +3,7 @@
 
 在密码分析和计算机安全中，密码破解是从计算机系统中以加密形式存储或传输的数据中恢复密码的过程. 一种常见的方法（[brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack)) 是反复尝试猜测密码，并根据密码的可用加密哈希检查它们.
 
-这是一个精选的工具、研究、论文和其他与密码破解和密码安全相关的项目的精选列表 [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo).
+这是一个精选的工具、研究、论文和其他与密码破解和密码安全相关的项目的精选列表 [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo/?l).
 
 
 Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/blob/main/CONTRIBUTING.md) 在贡献之前！ 简而言之：
@@ -48,7 +48,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ## Hashcat
-*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目. *
+*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目.*
 
 - [Autocrack](https://github.com/pry0cc/autocrack) - 一组客户端和服务器工具，用于自动和轻松地自动破解哈希.
 - [docker-hashcat](https://github.com/dizcza/docker-hashcat) - 适用于 Ubuntu 18.04 CUDA、OpenCL 和 POCL 的最新 hashcat docker.
@@ -70,13 +70,13 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [CrackLord](https://github.com/jmmcatee/cracklord) - 用于破解密码的队列和资源系统.
 - [fitcrack](https://github.com/nesfit/fitcrack) - 基于hashcat的分布式密码破解系统.
 - [Hashtopolis](https://github.com/hashtopolis/server) - 用于将 hashcat 任务分发到多台计算机的多平台客户端-服务器工具.
-- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI)) - 用于 Hashtopolis API 的 CLI 工具，将一些 API 功能合并到动态 Python 包装器中.
+- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI) - 用于 Hashtopolis API 的 CLI 工具，将一些 API 功能合并到动态 Python 包装器中.
 - [Kraken](https://github.com/arcaneiceman/kraken) - 多平台分布式暴力密码破解系统.
 
 ### Rules
 - [clem9669 rules](https://github.com/clem9669/hashcat-rule) - hashcat 或 john 的规则.
 - [hashcat rules collection](https://github.com/narkopolo/hashcat-rules-collection) - 可能是目前最大的 hashcat 规则集.
-- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - 基于统计和行业规律的Hashcat密码破解规则.
+- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns.
 - [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - 来自 Kaonashi 项目（RootedCON 2019）的词汇表、规则和掩码.
 - [nsa-rules](https://github.com/NSAKEY/nsa-rules) - 从破解密码生成的hashcat密码破解规则和掩码.
 - [nyxgeek-rules](https://github.com/nyxgeek/nyxgeek-rules) - Hashcat 和 John the Ripper 的自定义密码破解规则.
@@ -116,33 +116,33 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ### Notable People
-- Alotdv ([Twitter](https://twitter.com/AlongExc))
-- Clem9669 ([GitHub](https://github.com/clem9669))
-- Coolbry95 ([GitHub](https://github.com/coolbry95) / [Twitter](https://twitter.com/coolbry95))
-- 达基基拉 ([GitHub](https://github.com/dakykilla) / [Twitter](https://twitter.com/dakykilla))
-- Droppermit ([GitHub](https://github.com/dropdeadfu) / [Twitter](https://twitter.com/dropdeadfu))
-- Epixoip ([GitHub](https://github.com/epixoip) / [Mastodon](https://infosec.exchange/@epixoip) / [Twitter](https://twitter.com/jmgosney))
-- 邪恶之魔 ([GitHub](https://github.com/evilmog/) / [Mastodon](https://infosec.exchange/@evilmog) / [Twitter](https://twitter.com/Evil_Mog))
-- 水解 ([GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze))
-- JakeWnuk ([GitHub](https://github.com/jakewnuk) / [Mastodon](https://infosec.exchange/@JakeWnuk)
-- 对比 23 ([GitHub](https://github.com/kontrast23) / [Twitter](https://twitter.com/marco_preuss))
-- M3g9tr0n ([GitHub](https://github.com/m3g9tr0n) / [Twitter](https://twitter.com/m3g9tr0n))
-- 矩阵 （[GitHub](https://github.com/matrix) / [Twitter](https://twitter.com/gm4tr1x))
-- 荆棘 ([Twitter](https://twitter.com/mingadotcom))
-- 诺科沃 ([GitHub](https://github.com/n0kovo) / [Mastodon](https://infosec.exchange/@n0kovo) / [Twitter](https://twitter.com/n0kovos))
-- NSAKEY ([GitHub](https://github.com/NSAKEY) / [Twitter](https://twitter.com/_NSAKEY) / [Website](https://abigisp.com/))
-- 空模式 ([GitHub](https://github.com/NullMode) / [Mastodon](https://infosec.exchange/@nullmode_@twtr.plus) / [Twitter](https://twitter.com/nullmode_))
-- Paule965 ([Twitter](https://twitter.com/paule965))
-- 哲学家 ([GitHub](https://github.com/philsmd) / [Twitter](https://twitter.com/philsmd))
-- 罗伊斯威廉姆斯 ([GitHub](https://github.com/roycewilliams) / [Mastodon](https://infosec.exchange/@tychotithonus) / [Twitter](https://twitter.com/TychoTithonus))
-- RuraPenthe ([GitHub](https://github.com/bitcrackcyber) / [Mastodon](https://infosec.exchange/@rurapenthe) / [Twitter](https://twitter.com/RuraPenthe0))
-- S3in!c ([GitHub](https://github.com/s3inlc) / [Mastodon](https://infosec.exchange/@s3inlc) / [Twitter](https://twitter.com/s3inlc))
-- Tehnlulz（[GitHub](https://github.com/tehnlulz) / [Twitter](https://twitter.com/tehnlulz))
-- 修理工 （[GitHub](https://github.com/th3mechanic) / [Twitter](https://twitter.com/th3_m3chan1c))
-- 有毒的 （[Twitter](https://twitter.com/yiannistox))
-- 亡灵 ([GitHub](https://github.com/undeath))
-- Unix 忍者 ([GitHub](https://github.com/unix-ninja) / [Mastodon](https://infosec.exchange/@unix_ninja@twitterbridge.jannis.rocks) / [Twitter](https://twitter.com/unix_ninja))
-- 汗 ([GitHub](https://github.com/Xanadrel) / [Mastodon](https://infosec.exchange/@Xanadrel) / [Twitter](https://twitter.com/Xanadrel))
+- Alotdv - [Twitter](https://twitter.com/AlongExc).
+- 克莱姆9669 - [GitHub](https://github.com/clem9669).
+- Coolbry95 - [GitHub](https://github.com/coolbry95) / [Twitter](https://twitter.com/coolbry95).
+- 达基基拉 - [GitHub](https://github.com/dakykilla) / [Twitter](https://twitter.com/dakykilla).
+- Droppermit - [GitHub](https://github.com/dropdeadfu) / [Twitter](https://twitter.com/dropdeadfu).
+- Epixoip - [GitHub](https://github.com/epixoip) / [Mastodon](https://infosec.exchange/@epixoip) / [Twitter](https://twitter.com/jmgosney).
+- 邪恶魔格 - [GitHub](https://github.com/evilmog/) / [Mastodon](https://infosec.exchange/@evilmog) / [Twitter](https://twitter.com/Evil_Mog).
+- 水化 - [GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze).
+- JakeWnuk - [GitHub](https://github.com/jakewnuk) / [Mastodon](https://infosec.exchange/@JakeWnuk).
+- 对比 23 - [GitHub](https://github.com/kontrast23) / [Twitter](https://twitter.com/marco_preuss).
+- M3g9tr0n - [GitHub](https://github.com/m3g9tr0n) / [Twitter](https://twitter.com/m3g9tr0n).
+- 矩阵 - [GitHub](https://github.com/matrix) / [Twitter](https://twitter.com/gm4tr1x).
+- 荆棘 - [Twitter](https://twitter.com/mingadotcom).
+- 诺科沃 - [GitHub](https://github.com/n0kovo) / [Mastodon](https://infosec.exchange/@n0kovo) / [Twitter](https://twitter.com/n0kovos).
+- NSAKEY - [GitHub](https://github.com/NSAKEY) / [Twitter](https://twitter.com/_NSAKEY) / [Website](https://abigisp.com/).
+- 空模式 - [GitHub](https://github.com/NullMode) / [Mastodon](https://infosec.exchange/@nullmode_@twtr.plus) / [Twitter](https://twitter.com/nullmode_).
+- Paule965 - [Twitter](https://twitter.com/paule965).
+- 哲学家 - [GitHub](https://github.com/philsmd) / [Twitter](https://twitter.com/philsmd).
+- 罗伊斯威廉姆斯 - [GitHub](https://github.com/roycewilliams) / [Mastodon](https://infosec.exchange/@tychotithonus) / [Twitter](https://twitter.com/TychoTithonus).
+- RuraPenthe - [GitHub](https://github.com/bitcrackcyber) / [Mastodon](https://infosec.exchange/@rurapenthe) / [Twitter](https://twitter.com/RuraPenthe0).
+- S3in!c - [GitHub](https://github.com/s3inlc) / [Mastodon](https://infosec.exchange/@s3inlc) / [Twitter](https://twitter.com/s3inlc).
+- 特恩鲁兹 - [GitHub](https://github.com/tehnlulz) / [Twitter](https://twitter.com/tehnlulz).
+- 修理工 - [GitHub](https://github.com/th3mechanic) / [Twitter](https://twitter.com/th3_m3chan1c).
+- 有毒的 - [Twitter](https://twitter.com/yiannistox).
+- 亡灵 - [GitHub](https://github.com/undeath).
+- Unix 忍者 - [GitHub](https://github.com/unix-ninja) / [Mastodon](https://infosec.exchange/@unix_ninja@twitterbridge.jannis.rocks) / [Twitter](https://twitter.com/unix_ninja).
+- 汗 - [GitHub](https://github.com/Xanadrel) / [Mastodon](https://infosec.exchange/@Xanadrel) / [Twitter](https://twitter.com/Xanadrel).
 
 
 
@@ -155,7 +155,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Lookup services
 - [CMD5](https://www.cmd5.org/) - 提供在线MD5/sha1/mysql/sha256加解密服务.
-- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词表.
+- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词列表.
 - [Hashes.com](https://hashes.com/) - 具有付费功能的哈希查找服务.
 - [Hashkiller](https://hashkiller.io/) - 带有论坛的散列查找服务.
 - [Online Hash Crack](https://www.onlinehashcrack.com/) - 云密码恢复服务.
@@ -170,7 +170,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [pcfg_cracker](https://github.com/lakiw/pcfg_cracker) - 该项目使用机器学习来识别用户的密码创建习惯.
 - [Pipal](https://github.com/digininja/pipal) - 密码分析器.
 - [PwdStat](https://github.com/jakewnuk/pwdstat) - 用于识别系统密码使用情况、创建密码掩码以及使用人类可读统计数据分析破解密码样本的工具，以帮助防御者.
-
+- [Graphcat](https://github.com/Orange-Cyberdefense/graphcat) - 根据密码破解结果生成图表.
 
 ### Generation/Manipulation
 
@@ -189,7 +189,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Mentalist](https://github.com/sc0tfree/mentalist)  - Mentalist 是用于自定义单词列表生成的图形工具. 它利用常见的人类范例来构建密码，并可以输出完整的单词列表以及与 Hashcat 和 John the Ripper 兼容的规则.
 - [Phraser](https://github.com/Sparell/Phraser) - Phraser 是一个短语生成器，使用 n-gram 和马尔可夫链来生成用于密码短语破解的短语.
 - [princeprocessor](https://github.com/hashcat/princeprocessor) - 使用 PRINCE 算法的独立密码候选生成器.
-- [Rephraser](https://github.com/travco/rephraser) - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
+- [Rephraser](https://github.com/travco/rephraser) - 基于 Python 的 Phraser 重新构想，使用马尔可夫链进行语言正确的密码破解.
 - [Rling](https://github.com/Cynosureprime/rling) - RLI Next Gen (Rling)，一种更快的多线程、功能丰富的替代品，可替代 hashcat 实用程序中的 rli.
 - [statsprocessor](https://github.com/hashcat/statsprocessor/) - 基于每个位置的马尔可夫链的单词生成器.
 - [TTPassGen](https://github.com/tp7309/TTPassGen) - 灵活且可编写脚本的密码字典生成器，支持暴力破解、组合、复杂规则模式等.
@@ -202,7 +202,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ## Wordlists
 ### Laguage specific
 - [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) - 名字、姓氏和一些阿尔巴尼亚文学的混合体.
-- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的单词列表.对于破解密码或模糊丹麦语目标很有用.
+- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的词表.对于破解密码或模糊丹麦语目标很有用.
 - [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) - 用于破解丹麦语密码的丹麦语词汇表集合.
 - [French Wordlists](https://github.com/clem9669/wordlists) - 该项目旨在提供有关人们可以用作基本密码的所有内容的法语单词列表.
 
@@ -242,7 +242,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Articles and Blog Posts
 - [Optimizing Wordlists with Masks](https://jakewnuk.com/posts/optimizing-wordlists-w-masks/)
--  [Purple Rain Attack - Password Cracking With Random Generation](https://www.netmux.com/blog/purple-rain-attack)
+- [Purple Rain Attack - Password Cracking With Random Generation](https://www.netmux.com/blog/purple-rain-attack)
 - [Smashing Hashes with Token Swapping Attacks](https://jakewnuk.com/posts/token-swapping-attack/)
 
 ### Papers

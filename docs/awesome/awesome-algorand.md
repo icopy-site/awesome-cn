@@ -80,7 +80,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -98,7 +98,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - 关于如何使用 Reach 语言建立借贷池的教程.
 - [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - 使用 PyTEAL 和内部交易的教程.
-- [Connect to Algorand Wallet via WalletConnect](https://developer.algorand.org/tutorials/redux-example-connect-wallet-walletconnect/) - 使用 WalletConnect 的 Redux 示例.
+- [WalletConnect Quickstart](https://developer.algorand.org/docs/get-details/walletconnect/) - WalletConnect 协议概述和快速入门指南.
+- [Stateless session management with the Pera wallet](https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/) - Pera 钱包与 Nextjs 和 Redux 的连接示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil Platform 构建用于铸造资产的 Web 应用程序.
 - [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - 来自 algorand 开发者门户的教程.
 - [Swift iOS app using Augmented Reality for Algorand purchases](https://developer.algorand.org/tutorials/ios-app-using-augmented-reality-for-purchases/) - 使用增强现实进行购买的 iOS 应用程序.
@@ -223,6 +224,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [ASC Builder](https://ascbuilderapp.com) - 用于开发和部署 Algorand 智能合约的 GUI（拖放）工具 [Algoknox](https://twitter.com/Algoknox).
 - [tealish](https://github.com/Hipo/tealish)  - Tealish 是一种适用于 Algorand 虚拟机的可读语言. 它使开发人员能够以针对可读性优化的程序风格编写 TEAL.
 - [avm-semantics](https://github.com/runtimeverification/avm-semantics)  - K 框架中的 Algorand 虚拟机和 TEAL 语义. 帮助测试和正式验证智能合约.
+- [TEALScript](https://github.com/algorand-devrel/TEALScript) - 使用原生 TypeScript 语法、工具和 IDE 支持启用 Algorand 智能合约开发.
 
 #### Docker
 
@@ -238,7 +240,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### Nodes and Indexers
 
-- [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - 存档节点、索引器设置（以及更多）的开发说明.
+- [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 - [AlgoNode](https://algonode.cloud) - 节点运行常见问题解答、节点/索引器每日快照、免费节点/索引器 API.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - 用于远程 Algorand 节点管理的终端 UI.
 - [SubQuery](https://subquery.network) - 用于 Algorand 的开放、快速、灵活和去中心化的跨链数据索引器（[getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
@@ -260,7 +262,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
 - [Dartroom](https://dartroom.xyz/overview) - 去中心化 NFT 浏览器、铸造和交易.
 - [Alchemon](https://alchemon.net/) - 怪物收集 NFT 纸牌游戏.
-- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
+- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
 - [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
 - [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏品市场.
 - [Dahai](https://www.dahai.uk/) - NFT 艺术画廊和市场.
@@ -278,7 +280,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
 - [Pact](https://www.pact.fi/) - 基于 Algorand 协议构建的去中心化自动做市商 (AMM).
 - [Lofty.ai](https://www.lofty.ai/) - 代币化房地产投资平台.
-- [Folks.finance](https://folks.finance/) - 去中心化资本市场协议.
+- [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
 - [C3](https://c3.io/) - 交叉保证金交叉抵押清算引擎协议.
 - [Cometa.farm](https://cometa.farm/) - 去中心化的流动性即服务.
 
@@ -339,7 +341,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的大量铸造 Algorand NFT. 由 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 语言编写的 Algorand 虚拟地址生成器.
-- [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
+- [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
 - [AgorHash](https://github.com/bafio89/agorhash) - 公开的、无需许可的、去中心化的和不可审查的言论自由协议.
 - [AlgoPOAP](https://github.com/AlgoPOAP) - Algorand 上的出勤证明协议（以及更多）. [Mint your first POAP on Algorand!](https://algopoap.com).
@@ -353,9 +355,9 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoCloud](https://algocloud.org/)  - Algorand 生态系统仪表板. 连接 DeFi 应用程序、显示 NFT、账户分析等.
 - [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
-- [AlgoPing](https://github.com/aorumbayev/algoping) - 一个微小的 cron 作业，它发出一个 [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
+- [AlgoPing](https://github.com/aorumbayev/algoping) - 一个微小的 cron 作业，它发出一个 [tweet](https://twitter.com/algoping) 如果公共 Algorand 节点（AlgoExplorer、AlgoNode 等）不健康.
 - [SliceSwap](https://app.sliceswap.com)  - 一个在主要 Dex 之间交易您的资产的地方. 所有交换均由@deflexfi 提供支持.
-- [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
+- [algodaddy](https://www.algodaddy.org) - Algorand 社区的博客网站.
 
 ## Algorand Request for Comments
 

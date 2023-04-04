@@ -88,7 +88,7 @@
 * [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - 切换降价标题.
 * [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - 将您自己的自定义热键添加到所有 GitHub.
 * [GitHub custom navigation](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - 添加自定义导航栏以链接到任何地方.
-* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs.
+* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - 向差异添加文件类型过滤器.
 * [GitHub diff links](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - 为每个差异文件添加下一个和上一个按钮.
 * [GitHub font preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - 预览 OTF、TTF 和 WOFF 字体文件.
 * [GitHub image preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - 添加图像预览模式.
@@ -103,7 +103,7 @@
 * [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - 为所有 GitHub 添加搜索过滤器自动完成功能.
 * [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - 将时间前转换为您选择的时间格式.
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - 向浏览器选项卡添加通知指示器.
-* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - 展开或折叠所有提交标题.
+* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - 切换维基侧边栏视图.
 * [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - 添加按钮以显示提交的差异（或补丁）文件.
 * [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - 为 Github 主页新闻提要项目添加过滤器.
@@ -142,7 +142,7 @@
 * [Hide YouTube recommendations](https://github.com/artli/hide-youtube-recommendations) - 隐藏推荐视频的缩略图和标题以减少分心和拖延.
 * [Iridium](https://greasyfork.org/scripts/37902-iridium) - 向 YouTube 添加了许多额外功能，包括弹出式视频、对视频/评论提要的额外控制等等.
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - 将 YouTube 恢复为经典设计（不圆角、恢复不喜欢 + 删除/重定向 Shorts）.
-* [YouTube Link Title](https://greasyfork.org/scripts/390656-youtube-link-title)  - 添加视频标题，显示预览和点击嵌入. 还支持：Vimeo、LiveLeak、Dailymotion、vidme、WorldStarHipHop、Vine、Coub、Streamable.
+* [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - 当您将鼠标悬停在几乎任何网站的 Youtube 链接上时，可以查看视频缩略图、评分和其他详细信息.
 * [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - 添加链接以下载视频字幕.
 
 

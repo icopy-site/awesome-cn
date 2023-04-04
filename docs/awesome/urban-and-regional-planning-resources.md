@@ -72,7 +72,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -138,7 +138,7 @@
 - [Accessibility Observatory](http://access.umn.edu/data/datasets/)  - 作为 Access Across America 系列的一部分，UMN 的 Accessibility Observatory 评估了美国主要大都市地区多种交通方式的可达性. 报告每年发布一次，精选数据集可通过明尼苏达大学的数字学院获得.
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一组全国（美国）交通设施和网络公共空间信息地理数据库； 交通网络中的人流、货物流、车辆流和工艺流； 影响交通网络或受交通网络影响的社会、经济和环境条件.
 - [City Access Map](https://www.cityaccessmap.com/)  - CityAccessMap 由城市科学家为城市规划者开发. 它使用来自 OpenStreetMap 和全球人类住区层 (GHSL) 的开放数据，对世界上任何城市的各种服务的步行可达性进行量化和可视化.
-- [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家到工作的 FLOWS 数据和小型地理区域的基于 WORKPLACE 的数据.
+- [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别是从家到工作的 FLOWS 和小型地理区域的基于 WORKPLACE 的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - HPMS 是国家级公路信息系统，包括有关国家公路范围、状况、性能、使用和运营特征的数据.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家公交运营商收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表指定年份平均每年一天的全国潜在噪声水平. 
@@ -170,7 +170,7 @@
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的地块数据，提供对详细财产特征、销售记录、估价和当前县评估员文件的数字副本的即时访问.
 - [Regrid](https://regrid.com/) - 为您的地图、应用程序和空间分析提供地块和位置上下文数据的领先提供商.
-- [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
+- [CoStar](https://www.costar.com/) - 为英国、美国和加拿大提供服务的商业房地产信息和分析提供商. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用 AI 将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑物足迹. 
 
 ### Resilience and Natural Hazards
@@ -258,6 +258,7 @@ Python 库和相关资源.
 - [city-seer-api](https://cityseer.benchmarkurbanism.com/) - 基于行人规模网络的城市分析包：网络分析、城市形态、土地利用、可达性和统计聚合.
 - [Geemap](https://github.com/giswqs/geemap) - 用于与 Google Earth Engine、ipyleaflet 和 ipywidgets 进行交互式映射的 Python 包.
 - [Geoplot](https://residentmario.github.io/geoplot/)  - Geoplot 是一个高级 Python 地理空间绘图库. 它是对 cartopy 和 matplotlib 的扩展，使制图变得容易：就像用于地理空间的 seaborn 一样.
+- [Gleam](https://github.com/dgrtwo/gleam) - 受 R-Shiny 启发的绘图库，用于创建交互式绘图. 
 - [Urbansprawl](https://github.com/lgervasoni/urbansprawl)  - urbansprawl 项目提供了一个开源框架，用于使用开放数据评估城市蔓延. 它使用 OpenStreetMap (OSM) 数据来计算其庞大的指数，分为可达性、土地利用组合和分散性.
 - [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial 使用 Numba 实现常用的栅格分析功能，并提供易于安装、易于扩展的栅格分析代码库.
 - [Momepy](http://docs.momepy.org/en/stable/)  - Momepy 是一个用于城市形态定量分析的库 - 城市形态计量学. 它是 PySAL（Python 空间分析库）的一部分，构建在 GeoPandas、其他 PySAL 模块和 networkX 之上.
@@ -445,6 +446,7 @@ R 包及相关资源.
 - [awesome-gis](https://github.com/sshuair/awesome-gis) - Awesome GIS 是地理空间相关资源的集合，包括制图工具、地理分析工具、开发人员工具、数据、会议和社区、新闻、大规模开放在线课程、一些令人惊叹的地图站点等等.
 - [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - 用于农业、农业和园艺的开源技术.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON 实用程序，让您的生活更轻松.
+- [ai-collection](https://github.com/ai-collection/ai-collection) - 审查生成人工智能景观，包括工具/实用程序. 
 
 ### Other Technology Resource Aggregators
 这些是其他聚合器，汇集了不同的规划相关工具、软件、数据和相关资源.

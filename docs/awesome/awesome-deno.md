@@ -110,7 +110,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ### String utils
 - [camelcase](https://github.com/denolib/camelcase) - 将破折号/点/下划线/空格分隔的字符串转换为驼峰式：foo-bar → fooBar.
-- [deno_case_style](https://github.com/zekth/deno_case_style)  - 不同大小写样式的字符串验证器和格式化器. 例如：camelCase 等.
+- [deno_case_style](https://github.com/zekth/deno_case_style) - String validator and formater for different case style. eg: camelCase etc.
 - [deno-json-colorizer](https://github.com/dpmland/deno-json-colorizer) - 在 Deno 中为 JSON 字符串着色的库
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) - 格式化、修剪和删除字符串中字符之间的多余空格.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) - deno 的字符串 slugifier.
@@ -226,7 +226,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
   - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) - Deno Oak HTTP 服务器的代理中间件.
 - [opine](https://github.com/asos-craigmorten/opine) - 从 ExpressJS 移植的快速、简约的 Web 框架.
   - [opine-http-proxy](https://github.com/asos-craigmorten/opine-http-proxy) - Deno Opine HTTP 服务器的代理中间件.
-- [pogo](https://github.com/sholladay/pogo) - Server framework for Deno.
+- [pogo](https://github.com/sholladay/pogo) - Deno 的服务器框架.
 - [wren](https://github.com/zaiste/wren) - 一个小巧但功能强大的 HTTP 库，具有用于创建可组合 Web 应用程序的功能旋转，为方便和简单而构建
 
 ### WebSocket
@@ -314,6 +314,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [make-deno-edition](https://github.com/bevry/make-deno-edition) - 自动使 package.json 项目（例如 npm 包和 node.js 模块）与 Deno 兼容.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) - 一个 Packer 插件，可以轻松地使用 Deno 脚本构建虚拟机映像.
 - [pre-commit-deno](https://github.com/nozaq/pre-commit-deno) - 为 Deno 项目预提交 git hooks.
+- [pup](https://github.com/hexagon/pup)  - Deno 的高级流程管理器. 使用 autorestart、fs watch、cron start、process telemetry、ipc、clustering、load balancer 等.
 - [starter](https://github.com/denorg/starter) - 带有 GitHub Actions CI 的 Deno 模块入门模板
 - [trex](https://github.com/crewdevio/Trex) - 包管理，如 deno 的 npm.
 - [udd](https://github.com/hayd/deno-udd) - 更新 Deno 依赖项：将导入语句更新为最新发布的版本.

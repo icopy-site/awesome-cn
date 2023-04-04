@@ -18,9 +18,9 @@
 
 对于最新添加 [click here](https://github.com/agamm/awesome-developer-first/commits/main).
 
-
-    
+ 
 ---
+
 ## Analytics
 *跟踪网络/应用访问者.*
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
@@ -46,7 +46,7 @@
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
 * [SuperTokens](https://supertokens.io/) - 使用预建 UI 的开源和托管电子邮件和 Oauth 身份验证.
-* [userfront](https://userfront.com/) - 使用预建的后台仪表板进行简单的用户身份验证.
+* [Userfront](https://userfront.com/) - 使用预建的后台仪表板进行简单的用户身份验证.
 * [WorkOS](https://workos.com/) - 企业 SSO 和更多开箱即用的企业功能.
 
 ## CI/CD
@@ -60,19 +60,19 @@
 ## CMS (headless)
 * [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 生成器.
 * [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如 [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
-* [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript.
+* [Strapi](https://strapi.io/) - 开源无头 CMS，100% JavaScript.
 
 ## Code Quality
 *检查你的代码质量.*
 * [Codacy](https://www.codacy.com/) - 自动代码质量检查.
-* [sonarsource](https://www.sonarsource.com/) - Lint 和代码质量检查.
+* [Sonar](https://www.sonarsource.com/) - Lint 和代码质量检查.
 
 ## Computer Vision
 *操纵和检测视觉数据.*
-* [clarifai](https://www.clarifai.com/) - 一组计算机视觉 API.
+* [Clarifai](https://www.clarifai.com/) - 一组计算机视觉 API.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌识别.
 * [Google Vision AI](https://cloud.google.com/vision) - Google 的 AI 视觉 API.
-* [roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
+* [Roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
 * [Scanbot SDK](https://scanbot.io/) - 从应用程序的图像中提取结构化数据.
 
 ## Databases & Spreadsheets
@@ -82,7 +82,7 @@
 * [Neuledge](https://neuledge.com/) - 具有适用于任何类型数据库的通用模式语言的抽象 ORM.
 * [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放.
 * [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
-* [upstash](https://upstash.com/) - 无服务器定制的 redis 供应商.
+* [Upstash](https://upstash.com/) - 无服务器定制的 redis 供应商.
 
 ## Debugging 
 *有助于跟踪错误的工具.*
@@ -93,7 +93,7 @@
 ## Deployment Hosting
 *帮助您部署应用程序/网站的产品.*
 * [Adaptable](https://adaptable.io/) - 通过通用模板部署应用程序和数据库.
-* [cyclic](https://www.cyclic.sh/) - 全栈应用程序托管（包括 dynamo db 和 s3）.
+* [Cyclic.sh](https://www.cyclic.sh/) - 全栈应用程序托管（包括 dynamo db 和 s3）.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署并且不关心基础设施，适用于所有主要框架.
 * [Fly.io](https://fly.io/) - 通过位置感知服务部署 dockerized 全栈应用程序（减少延迟）.
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展的服务器.
@@ -117,8 +117,8 @@
 * [Bump.sh](https://bump.sh/) - API 文档和变更管理解决方案.
 * [DeveloperHub](https://developerhub.io/) - 协作开发人员文档平台.
 * [Mintlify](https://www.mintlify.com/) - AI 驱动的代码文档、IDE 扩展（开源）.
-* [readme](https://readme.com/) - 个性化和动态的开发者文档.
-* [swimm](https://swimm.io/) - 与您的代码结合的文档，自动同步，适用于您的 IDE.
+* [ReadMe](https://readme.com/) - 个性化和动态的开发者文档.
+* [Swimm](https://swimm.io/) - 与您的代码结合的文档，自动同步，适用于您的 IDE.
 
 ## Environment & Secret Management
 *管理多个应用程序或项目的环境变量和机密.*
@@ -133,11 +133,11 @@
 * [Flagsmith](https://flagsmith.com/) - 简化了功能标志即服务平台.
 * [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台.
 * [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
-* [split](https://www.split.io/) - 具有数据分析功能的标志平台.
+* [Split](https://www.split.io/) - 具有数据分析功能的标志平台.
 
 ## GEO
 *位置服务.*
-* [mapbox](https://www.mapbox.com/) - 开发人员的地图和位置产品.
+* [Mapbox](https://www.mapbox.com/) - 开发人员的地图和位置产品.
 * [Radar](https://radar.io/) - 地理围栏和地理 API.
 * [SmartyStreets](https://www.smartystreets.com/) - 美国反向地理编码和地址验证 API.
 
@@ -153,7 +153,7 @@
 * [Terraform](https://www.hashicorp.com/products/terraform) - DSL、开源和免费（付费解决方案增加了团队管理、策略即代码……）.
 
 ## Integrations
-*简化集成开发的集成管理系统或产品*
+*简化集成开发的集成管理系统或产品.*
 * [Apideck](https://www.apideck.com) - 集成市场构建器，与第 3 方的单一 API 以实现快速开发.
 
 ## Localization
@@ -183,7 +183,7 @@
 *消息传递 API - SMS、通知、聊天和 VoIP.*
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息.
 * [Knock](https://knock.app) - 通知即服务.
-* [stream](https://getstream.io/) - 订阅和聊天即服务.
+* [Stream](https://getstream.io/) - 订阅和聊天即服务.
 * [Twilio](https://www.twilio.com/) - SMS、推送通知和 VoIP API.
 * [Vonage](https://www.vonage.com) - 视频、短信、聊天和语音 API.
 
@@ -217,16 +217,16 @@
 * [Braintree](https://www.braintreepayments.com/) - Paypal 对 API 优先付款的看法.
 * [Paddle](https://paddle.com/) - 具有广泛地理支持的 SaaS 收入交付平台（与目前的 stripe 不同）.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
-* [stigg](https://www.stigg.io) - API 优先定价计划.
+* [Stigg](https://www.stigg.io) - API 优先定价计划.
 * [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
 
 ## Repo
 *存储库和工件管理.*
 * [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的包存储库.
-* [cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
+* [Cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 
 ## Reports Generation
-*生成报告，主要是PDF*
+*生成报告，主要是 PDF.*
 * [Carbone](https://carbone.io/) - 将 JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API 专门为 Paged Media 使用 [Prince](https://www.princexml.com/) PDF 库.
 * [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
@@ -235,7 +235,7 @@
 ## Scraping
 *不是通过预期的 API 从网站获取数据.*
 * [Apify](https://apify.com/) - 将网站变成 API.
-* [proxycrawl](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
+* [Crawlbase](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
 * [ScrapingANT](https://scrapingant.com/) - 用无头镀铬刮擦.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不会被阻止.
 * [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取 API.
@@ -243,16 +243,16 @@
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
 * [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
-* [typesense cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
+* [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
 * [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.
 
 ## Shipping
 *创建和处理货物运输.*
-* [easypost](https://www.easypost.com/) - 用于电子商务的运输 API. 
+* [EasyPost](https://www.easypost.com/) - 用于电子商务的运输 API. 
 
 ## Testing
 *测试工具.*
-* [Applitools](https://applitools.com/) - 自动化视觉测试.
+* [Applitools](https://applitools.com/) - Automated visual testing.
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.

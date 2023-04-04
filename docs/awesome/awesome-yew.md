@@ -43,7 +43,7 @@
 - [Freecell](https://github.com/Stigjb/freecell) - 用 Rust 和 Yew 编写的耐心游戏.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) - 使用 Yew 进行的简单 WebRTC 聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) - 高度自以为是的样板，用于使用 Rust 创建全栈应用程序.
-- [Chord Quiz](https://github.com/Stigjb/chord-quiz) - 在这个 Rust/Yew/WebAssembly 应用程序中练习识别和弦.
+- [Chord Quiz](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) - 使用 Rust、Wasm 和 Yew 编写的单页应用程序 (SPA).
 - [DevAndDev](https://github.com/alepez/devand)  - 开发人员可以在其中找到结对编程合作伙伴的网站. 用 Rust 编写，Yew 前端.
 - [yew-octicons](https://github.com/io12/yew-octicons) - 在 Yew 项目中使用 Octicons 的简单界面.
@@ -87,7 +87,7 @@
 - [Sumi](https://github.com/vgwidt/sumi) - 使用 Yew &amp; Actix 构建的多用户问题跟踪和知识库应用程序.
 - [hurlurl](https://github.com/lucasmerlin/hurlurl) - 随机链接缩短器， [Live Demo](https://hurlurl.com/).
 - [Macige](https://github.com/tramlinehq/macige) - 用于移动应用程序开发的 CI 工作流生成器， [Live Demo](https://macige.tramline.app).
-
+- [Spaceman](https://github.com/eliaperantoni/spaceman) - Spaceman 是一个跨平台的 gRPC 客户端，旨在使用起来愉快且外观漂亮.
 
 ## Templates
 
@@ -117,7 +117,7 @@
 - [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder)  - 使用 docker-compose 为 Yew 构建 Tailwind CSS. 还支持中继.
 - [yew-components](https://github.com/angular-rust/yew-components) - Yew 框架的材料设计组件.
 - [yew-chart](https://github.com/titanclass/yew-chart) - 基于 Yew 的图表库，提供基于 SVG 的组件来渲染图表.
-- [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+- [tailyew](https://github.com/fuzzycloud/tailyew) - 围绕 DaisyUI（基于 tailwindcss）组件的 Yew 包装器.
 - [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui)  - Duskmoon UI 组件库. 这个包使用 `stylist` 在组件中嵌入 css，所以不需要额外的 CSS 文件. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 - [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - Bootstrap 5 组件库的 Yew 包装器.
 
@@ -200,7 +200,7 @@
 
 ## Books
 
-- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - 使用网络并生成 .wasm 文件.
+- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
 - [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - 如何绑定 Rust 和 JavaScript API.
 - [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - 如何构建和使用 rust 生成的 WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 包括关于使用 Yew 创建应用程序的“与 Yew 的高级 JavaScript 集成”一章.
@@ -210,7 +210,7 @@
 
 Yew 团队喜欢与其他项目分享想法，并相信我们可以互相帮助，充分发挥这项激动人心的新技术的潜力.
 
-- [Draco](https://github.com/utkarshkukreti/draco) - A Rust library for building client side web applications with WebAssembly.
+- [Draco](https://github.com/utkarshkukreti/draco) - 用于使用 WebAssembly 构建客户端 Web 应用程序的 Rust 库.
 - [Percy](https://github.com/chinedufn/percy) - 用于使用 Rust + WebAssembly 构建同构 Web 应用程序的模块化工具包.
 - [Sauron](https://github.com/ivanceras/sauron) - Sauron 是一个用于构建网络应用程序的 HTML 网络框架.
 - [Seed](https://github.com/seed-rs/seed) - 用于创建网络应用程序的 Rust 框架.

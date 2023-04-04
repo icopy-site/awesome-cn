@@ -45,6 +45,7 @@
 #### Feature extraction
 
 * [aubio](http://aubio.org/) [:octocat:](https://github.com/aubio/aubio) [:package:](https://pypi.python.org/pypi/aubio) - 特征提取器，用 C 语言编写，Python 接口.
+* [audioFlux](https://github.com/libAudioFlux/audioFlux) [:octocat:](https://github.com/libAudioFlux/audioFlux) [:package:](https://pypi.python.org/pypi/audioflux) - 用于音频和音乐分析、特征提取的库.
 * [audiolazy](https://github.com/danilobellini/audiolazy) [:octocat:](https://github.com/danilobellini/audiolazy) [:package:](https://pypi.python.org/pypi/audiolazy/) - 实时音频处理库，通用.
 * [essentia](http://essentia.upf.edu) [:octocat:](https://github.com/MTG/essentia) - 音乐相关的低级和高级特征提取器，基于 C++，包括 Python 绑定.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat:](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - ASR 的常见语音功能.
@@ -132,7 +133,7 @@
 * [musdb](http://dsdtools.readthedocs.io) [:octocat:](https://github.com/sigsep/sigsep-mus-db) [:package:](https://pypi.python.org/pypi/musdb) - 解析和处理 MUSDB18 数据集.
 * [medleydb](http://medleydb.readthedocs.io) [:octocat:](https://github.com/marl/medleydb) - 解析 [medleydb](http://medleydb.weebly.com/) 音频+注释.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat:](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - 包装器 [Soundcloud API](https://developers.soundcloud.com/).
-* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - 下载 youtube 视频（和音频）.
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat:](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 * [audiomate](https://github.com/ynop/audiomate) [:octocat:](https://github.com/ynop/audiomate) [:package:](https://pypi.python.org/pypi/audiomate/) - 加载不同类型的音频数据集.
 * [mirdata](https://mirdata.readthedocs.io/en/latest/) [:octocat:](https://github.com/mir-dataset-loaders/mirdata) [:package:](https://pypi.python.org/pypi/mirdata) - 音乐信息检索 (MIR) 数据集的通用加载器.
 #### Wrappers for Audio Plugins
@@ -146,7 +147,7 @@
 * [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes) - 强烈推荐的教程，涵盖了 Python 科学生态系统的大部分内容.
 * [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) - 切换器等效 python 函数的简短概述.
 * [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) - 用于音乐信息检索 (MIR) 的教学 iPython 笔记本集合.
-* [Selected Topics in Audio Signal Processing](https://github.com/faroit/awesome-python-scientific-audio/blob/master/ https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - Exercises as iPython notebooks.
+* [Selected Topics in Audio Signal Processing](https://github.com/faroit/awesome-python-scientific-audio/blob/master/ https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - 作为 iPython 笔记本练习.
 * [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) 实时编码视频展示了如何使用 SoundDevice 库重现逼真的声音. [Code](https://github.com/cool-RR/python_synthesizer).
 
 ## Books

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="wardley-maps-community/awesome-wardley-maps"></div>
 ## Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种帮助您检查环境、识别即将发生的变化并正确选择您的行动的技术. 通过检查需要什么、将使用哪些组件、它们的依赖性和特征是什么，您可以构建您的世界的可视化表示、玩假设游戏，并选择您的方向和最佳行动来支持它.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种帮助您检查环境、识别即将发生的变化并正确选择您的行动的技术. 通过检查需要什么、将使用哪些组件、它们的依赖性和特征是什么，您可以构建您的世界的可视化表示、玩假设游戏，并选择您的方向和支持它的最佳行动.
 
 这是有用的 Wardley 映射资源和示例的列表. 短网址： [list.wardleymaps.com](https://list.wardleymaps.com) . 欢迎投稿！ [Contribution guidelines](https://list.wardleymaps.com/contributing) 用于向列表中添加内容. 
 
@@ -26,7 +26,7 @@
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - 知识共享书籍 [Simon Wardley](https://twitter.com/swardley).
   - 电子书 - PDF 和 Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
-  - 有声读物 - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
+  - Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
   - [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/)  - 沃德利的地图. 地形智能在商业战略中的应用.
 - [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - 一组关于一系列主题的有用的演示幻灯片.
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
@@ -62,6 +62,7 @@
 ## Maps in the Wild
 
 博客文章和 Wardley 地图的其他有趣示例. 按日期排序，最新的在前.
+- [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - 关于 Wardley Mapping Prompt Engineering for ChatGPT 的 Twitter 线程有很多例子.
 - [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - 中国、EEUU 和欧洲的情景比较.
 - [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/)  - Max Langenkamp 的工程硕士论文的 4k 字摘要.  2022 年 9 月 27 日.
 - [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  -华金·佩尼亚·费尔南德斯 (Joaquín Peña Fernández).  2022 年 8 月 29 日.
@@ -100,7 +101,7 @@
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  - 通过 Wardley 地图了解加密生态系统.  2019 年 6 月 2 日.
 - [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/)  - 了解测试策略是如何基于底层环境的.  2019 年 4 月 19 日
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  - 绿色网络基金会.  2019 年 3 月 20 日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - Covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  - 涵盖使用 Wardley Maps 预测未来的 IT 战略发展，了解哪些方法最适合开发和交付信息管理系统. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  - 两个用例：让国家统计局访问新的（敏感）大数据来源； 并支持跨多个 NSO 的大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019 年 3 月 12 日.
 - [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  - 沃德利映射示例的精选图集.  2019 年 3 月 6 日 - 至今.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  - 将 Samo Burja 的帝国理论与类似于 Simon Wardley 首创的映射形式相结合.  2019 年 1 月 2 日.
@@ -128,8 +129,8 @@
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - 2016 年 11 月 30 日.
 - [The map is not the territory](https://swardley.medium.com/the-map-is-not-the-territory-257a3c258a83) - 2016 年 11 月 24 日.
 - [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0)  - 建筑实践的演变和共同演变以及基于价值的开发.  2016 年 11 月 23 日.
-- [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) - Simon Wardley focuses on one of the most important parts of mapping - the anchor. April 11, 2016.
-- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - 2015 年 10 月 17 日.
+- [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html)  - Simon Wardley 专注于映射中最重要的部分之一 - 锚点.  2016 年 4 月 11 日.
+- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  - 第 2 部分 Mark Thompson 概述了使政府成为更具凝聚力的综合组织的数字愿景.  2015 年 10 月 9 日.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  - 第 1 部分 Mark Thompson 概述了使政府成为更具凝聚力的综合组织的数字愿景.  2015 年 10 月 9 日.
 - [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  - 对于新任命的高管，帮助您进入一个可以开始学习和谈论战略的位置.  2015 年 8 月 21 日.
@@ -163,7 +164,7 @@
 
 ### Commercial Enterprise Platforms
 
-- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - 一个可视化转换平台，提供态势感知，以理解您相互关联的需求、想法、服务组件、供应合同和变更活动的网络.
+- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - 一个视觉转换平台，提供态势感知，以理解您相互关联的需求、想法、服务组件、供应合同和变更活动的网络.
 
 ## Templates
 
@@ -175,7 +176,7 @@
 - [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Microsoft Visio 和 PowerPoint 的模板.
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - 使用此模板进行映射的操作指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - Figma 的映射模板.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - 用于 OmniGraffle 的 Wardley 映射模具.
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - 用于 OmniGraffle 的 Wardley 映射模板.
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - 图 8 和图 11 来自 Simon Wardley 的书，用于演示在 LaTeX 中绘制 Wardley 地图.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley 为 yEd 绘制调色板.
 - [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - 谷歌幻灯片模板.
