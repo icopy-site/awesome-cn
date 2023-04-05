@@ -84,6 +84,7 @@
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 * [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - 介绍可在工作中使用的算法和数据结构的一种不同的好方法.
 * [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)  - 以谜题形式非常容易理解的算法说明. 无需编程经验！
+* [Standford CS166](https://web.stanford.edu/class/cs166/) - Standford CS166，一门关于数据结构设计、分析和实现的课程.
 
 ### Algorithm Analysis
 - [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - 高级完整调查，仅供数学成熟的读者使用.

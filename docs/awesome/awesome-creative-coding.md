@@ -4,7 +4,7 @@
 
 &gt; 精心策划的精彩清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要针对初学者/中级的资源.
 
-创意编码与编程系统是一门不同的学科. 目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**、**信息可视化**和**生成艺术**都是不同类型的创意编码——这已成为描述**以代码形式表达的艺术作品**的家喻户晓的术语.
+创意编码与编程系统是一门不同的学科. 目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**、**信息可视化**和**生成艺术**都是不同类型的创意编码——这已经成为描述**以代码形式表达的艺术作品**的家喻户晓的术语.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在贡献之前.*
 
@@ -75,7 +75,8 @@
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - 与 Joshua Davis 一起学习生成艺术和艺术处理.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/)  - Matt DesLauriers 的研讨会. 教您有关生成艺术、交互式动画、3D 图形和着色器的知识.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - 由 Matt DesLauriers 举办的研讨会，深入探讨了图形编程、数学和着色器.
-- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
+- [Three.js Journey](https://threejs-journey.com/) - Bruno Simon 的本课程将教您使用 Three.js 创建最酷的 WebGL 网站的秘诀，无论您是初学者还是高级开发人员.
+- [3D Computer Graphics Programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming) - 学习 3D 图形背后的所有理论和数学，同时使用 C 编程语言从头开始创建软件渲染器
 
 ## Tools
 
@@ -142,7 +143,7 @@
 - [Pts.js](https://ptsjs.org/) - 用于可视化和创意编码的 JavaScript 库.
 - [Fabric.js](http://fabricjs.com/) - Javascript 画布库，SVG 到画布解析器.
 - [Maker.js](https://maker.js.org) - SVG、CNC 和激光切割机的参数化线图.
-- [OpenJSCAD](https://openjscad.org) - JavaScript 中的程序化 3D 建模.
+- [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - 最小的 JavaScript 创意编码框架.
 - [Two.js](https://two.js.org/) - 面向现代网络浏览器的二维绘图 api.
 - [ClayGL](http://claygl.xyz/) - 用于构建可扩展的 Web3D 应用程序的 WebGL 图形库.
@@ -185,13 +186,13 @@
 - [Vertexshaderart](https://www.vertexshaderart.com/) - 在线着色器编辑器和图库.
 - [Cyos](http://cyos.babylonjs.com/) - 在线着色器编辑器.
 - [GlslEditor](http://editor.thebookofshaders.com/) - 简单的 WebGL 片段着色器编辑器.
-- [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
+- [OpenProcessing](https://www.openprocessing.org/) - 创建并试验算法设计、处理和 P5.js.
 - [P5.js Editor](https://editor.p5js.org/) - P5.js 的在线网络编辑器.
 - [LiveCodeLab](http://livecodelab.net) - 适用于 VJ、音乐家、教师、学生和儿童的即用型工具.
 - [Turtletoy](https://turtletoy.net/)  - 生成代码的简约 API 和在线展示.  (JavaScript)
 - [ShaderGif](https://shadergif.com/) - 用代码制作的艺术的开源之家（WebGL1/2、JavaScript Canvas 和 P5.js）.
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js 实时编码环境.
-- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
+- [NEORT](https://neort.io/popular) - 创意编码器的数字艺术平台（片段着色器、Javascript Canvas）.
 - [Shelly](https://shelly.dev/) - 通过向乌龟发出指令来学习编程.
 - [tixy.land](https://tixy.land/) - 最简约的创意编码环境栩栩如生.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - 在 8 位计算机模拟器上运行您的推文.
@@ -446,7 +447,7 @@
 - [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - 带有机器学习资源链接的 Coding Train repo.
 - [CreativeAi.net](http://www.creativeai.net/) - 分享创意人工智能项目的空间.
 - [AI Playbook](http://aiplaybook.a16z.com/) - 旨在帮助新手入门的 Ai 微型网站.
-- [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - 在浏览器中探索机器学习的工作原理.
+- [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
 - [TensorFlow.js](https://js.tensorflow.org/) - 用于在浏览器和 Node.js 上训练和部署 ML 模型的 JavaScript 库.
 - [Hello TensorFlow](https://hello-tensorflow.glitch.me/) - 完整评论的 TensorFlow.js 演示.
 - [ml5.js](https://ml5js.org/) - 友好的网络机器学习.
@@ -527,7 +528,7 @@
 - [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - 很棒的 WebGL 库、资源等精选列表.
 - [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - 包含示例、相关文章和帖子的精选 HTML5 画布列表.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - 关于音频可视化的精选列表.
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - 精选的计算机视觉资源列表.
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - 推荐的研究论文和其他数据可视化读物的精选列表.
 - [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - 精选的实时编码语言和工具列表.
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) - 计算机图形教程和资源的精选列表.

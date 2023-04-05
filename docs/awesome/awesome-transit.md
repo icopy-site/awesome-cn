@@ -43,7 +43,7 @@
 访问 GTFS 和其他运输和多式联运数据集合的地方
 
 #### 3rd party GTFS URL directories
-- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  - 以前是 GTFS 提要 URL 的权威目录.  2016 年关闭.但可根据要求提供 2008 年至 2016 年的 93 GB 数据.
+- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  - 以前是 GTFS 提要 URL 的最终目录.  2016 年关闭.但可根据要求提供 2008 年至 2016 年的 93 GB 数据.
 - [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - GTFS列表和 [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) 饲料. [Archives 和 validates](https://openmobilitydata.org/p/capital-metro/24) GTFS 提要并允许您预览两者 [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) 和 [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) 通过浏览器. 前身为 TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) 它将于 2022 年初停产，关闭日期待定.
 - [The Mobility Database](https://database.mobilitydata.org/) - JSON 和 CSV 文件 [on GitHub](https://github.com/MobilityData/mobility-database-catalogs) 这是一个包含全球 1300 多个移动数据集的存储库. 包含 OpenMobilityData/TransitFeeds.com 的内容.
 - [TransitData.io](https://transitdata.io/)  - 拉丁美洲部分地区的 GTFS 数据列表. 必须直接联系网站维护者才能访问提要，因为它们不公开.
@@ -120,7 +120,7 @@
 
 ### Apps
 
-人们在乘车时使用的应用程序.
+人们在乘坐公交车时使用的应用程序.
 
 #### Web Apps (open source)
 - [Instabus](http://instabus.org)  - 奥斯汀 (CapMetro) 公共交通的实时地图. 完全没有服务器/后端依赖性，完全在 GitHub 页面上运行.
@@ -209,7 +209,7 @@
 - [RRRR Rapid Real-time Routing](https://github.com/bliksemlabs/rrrr) - RRRR（通常发音为 R4）是 RAPTOR 公共交通路由算法的 C 语言实现.
 
 ##### C++
--  [just_gtfs](https://github.com/mapsme/just_gtfs) - 用于读写 GTFS 的 C++17 header-only 库（用于 [MAPS.ME](https://github.com/mapsme/omim) ). 主要特点：快速读写 GTFS 提要，支持 [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types)，简单地使用 GTFS 日期和时间格式.
+-  [just_gtfs](https://github.com/mesozoic-drones/just_gtfs) - 用于读写 GTFS 的 C++17 header-only 库（用于 [Valhalla](https://github.com/valhalla/valhalla) ). 主要特点：快速读写 GTFS 提要，支持 [extended GTFS route types](https://developers.google.com/transit/gtfs/reference/extended-route-types)，简单地使用 GTFS 日期和时间格式.
 
 ##### C#
 - [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) - 在 ArcGIS 中处理公共交通数据的工具（需要 ArcGIS 许可）.
@@ -228,7 +228,7 @@
 - [Node-GTFS](https://github.com/BlinkTagInc/node-gtfs)  - 从 GTFS 文件加载传输数据，将其解压缩并将其存储到 SQLite 数据库中. 提供一些查询机构、路线、站点和时间的方法.
 
 ##### PostgreSQL
-- [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - 用于 GTFS 提要的 PostgreSQL 模式.
+- [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - 用于 GTFS 提要的 PostgreSQL 架构.
 - [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) – 另一个使用 PostgreSQL 处理 GTFS 的工具.
 
 ##### Python
@@ -247,6 +247,7 @@
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - 支持交通服务分析的 Python 库.
 
 ##### R
+- [gtfsio](https://github.com/r-transit/gtfsio) - 在 R 中读写 GTFS 的快速灵活的函数.
 - [trread](https://github.com/r-gtfs/trread) - 用于 R 的传输 (GTFS) 文件阅读器. 
 
 ##### Ruby
@@ -298,6 +299,7 @@
 
 #### GTFS Analysis Tools
 
+- [gtfstools](https://github.com/ipeaGIT/gtfstools) - 一组方便的工具，用于在 R 中编辑和分析 GTFS 格式的传输提要.
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - 支持交通服务分析的 Python 库.
 - [Peartree](https://github.com/kuanb/peartree) - 用于将传输数据转换为用于网络分析的有向图的 Python 库.
 - [R5: Rapid Realistic Routing on Real-world and Reimagined networks](https://github.com/conveyal/r5)  - 由 Conveyal 为多模式（公交/自行车/步行/汽车）网络开发的基于 Java 的路由引擎. 目前，它计划在一个时间窗口内进行多次旅行，以用于场景规划和分析目的. 一个相关的 R 包装器包（[r5r](https://github.com/ipeaGIT/r5r/) ) 由 IPEA 独立开发. 另请参阅 Higgins 等人的性能比较.  (2022)，链接如下.
@@ -407,7 +409,7 @@
 ### Other multimodal data formats
 
 - [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - 由 [International Parking Institute (IPI)](https://www.parking.org/)， 这 [British Parking Association (BPA)](http://www.britishparking.co.uk/), 和 [European Parking Association (EPA)](http://www.europeanparking.eu/) , APDS 是一个非营利组织，其使命是开发、推广、管理和维护统一的全球标准，使组织能够在全球范围内跨平台共享停车数据.  APDS 1.0 版文件是 [here](https://www.allianceforparkingdatastandards.org/resources).
-- [CurbLR](https://github.com/curblr/curblr-spec) - 路缘法规规范.
+- [CurbLR](https://github.com/curblr/curblr-spec) - 路边法规规范.
 - [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) - 一种基于 GTFS 的旅行需求数据格式，专注于个人乘客*需求*，适用于由旧金山县交通管理局、LMZ LLC 和 UrbanLabs LLC 开发的动态网络建模.
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) - （开发中 - 见 [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) 个别乘客的数据*轨迹*.
 - [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs) - 由协会成员开发的实时共享单车信息的开放数据标准 [North American Bikeshare Association (NABSA)](http://nabsa.net/).
