@@ -554,7 +554,7 @@
 * [event_bus](https://github.com/mustafaturan/event_bus) - 带有主题过滤和内置事件存储和事件观察器的简单事件总线实现.
 * [goldrush](https://github.com/DeadZen/goldrush) - 用于 Erlang/OTP 应用程序的小型、快速事件处理和监视.
 * [reaxive](https://github.com/alfert/reaxive) - Reaxive 是一个响应式事件处理库，灵感来自 [Elm](http://elm-lang.org) 和反应性扩展.
-* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的设施.
+* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的工具.
 
 ## Examples and funny stuff
 *示例代码和太有趣或好奇的东西更不用说了.*
@@ -1482,6 +1482,7 @@
 * [monetized](https://github.com/theocodes/monetized) - 用于处理和存储资金的轻量级解决方案.
 * [money](https://github.com/liuggio/money) - 更安全、更轻松、更有趣地使用货币，对福勒货币模式的解释.
 * [mt940](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
+* [namor](https://github.com/jsonmaur/namor.ex) - 一个名称生成器，可以创建随机的、对 url 友好的 slug.
 * [nanoid](https://github.com/railsmechanic/nanoid) - NanoID 的 Elixir 端口，一个安全且 URL 友好的唯一 ID 生成器.
 * [near_api](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) Elixir 中的 API - 用于在 NEAR 区块链平台上开发 DApps 的库.
 * [neotomex](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) 使用令人愉快的 Elixir DSL 实现.
@@ -1524,7 +1525,7 @@
 * [askimet_ex](https://github.com/mijailr/askimet_ex) - Askimet 反垃圾邮件服务的 Elixir 客户端.
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - 为 Elixir 组装 API 客户端.
 * [balalaika_bear](https://github.com/ayrat555/balalaika_bear) - 用于 Elixir 的简单 VK API 客户端.
-* [balanced](https://github.com/bryanjos/balanced-elixir) - Elixir 的平衡 API 客户端.
+* [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 * [bandwidth](https://github.com/bandwidthcom/elixir-bandwidth) - 用于带宽应用平台的 Elixir 客户端库.
 * [bing_translator](https://github.com/ikeikeikeike/bing_translator) - Bing 翻译 API 的简单 Elixir 接口.
 * [bitmex](https://github.com/nobrick/bitmex) - Elixir 的 BitMEX 客户端库.
@@ -1738,7 +1739,7 @@
 *使用 YAML 的库和实现.*
 
 * [fast_yaml](https://github.com/processone/fast_yaml) - Fast YAML 是 libyaml“C”库的 Erlang 包装器.
-* [yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+* [yamerl](https://github.com/yakaz/yamerl) - Erlang 中的 YAML 1.2 解析器.
 * [yaml_elixir](https://github.com/KamilLelonek/yaml-elixir) - 基于原生 Erlang 实现的 Elixir 的 Yaml 解析器.
 * [ymlr](https://github.com/ufirstgroup/ymlr) - 用于 Elixir 的 YAML 编码器.
 * [yomel](https://github.com/Joe-noh/yomel) - Elixir 的 libyaml 接口.

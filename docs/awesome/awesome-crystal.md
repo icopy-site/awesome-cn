@@ -9,7 +9,7 @@
 很棒的 Crystal 代码和资源的精选列表. 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 和 [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness).
 目标是让项目大多稳定且对社区有用.
 
-Search [Crystal Shards](https://crystalshards.xyz) 或关注公告 [Crystal [ANN]](https://crystal-ann.com) 了解更多信息.
+Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN]](https://crystal-ann.com) 了解更多信息.
 
 欢迎投稿. 请快速浏览一下 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) 第一的.
 

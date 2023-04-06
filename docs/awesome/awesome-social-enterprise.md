@@ -8,9 +8,9 @@
 <details>
   <summary>咆哮我为什么做这个</summary>
   
-  当我在埃克德学院时，我多次碰到社会企业的概念. 首先，在名为_技术、社会和环境_的课程中，然后通过与一家社会企业的首席技术官会面，最后参加名为_社会创业_的课程. 一路走来，我越来越喜欢社会企业的概念. 然而，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
+  当我在埃克德学院时，我多次碰到社会企业的概念. 首先，在名为_技术、社会和环境_的课程中，然后通过与一家社会企业的 CTO 会面，最后参加名为_社会创业_的课程. 一路走来，我越来越喜欢社会企业的概念. 然而，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
   
-  最后，我设置了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 获取与“社会企业家”相关的任何内容的每周摘要. 效果不错，但我仍然觉得我错过了什么. 快进几年，我发现自己大量参与了一个名为 [hackNY](https://hackny.org/) ，在纽约时报工作，比以往任何时候都更渴望了解社会企业. 因此，我已经开始编制这份资源清单，让人们更容易与社会企业世界建立联系. 有关一些常见问题，请参阅底部的常见问题解答.
+  最后，我设置了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 获取与“社会企业家”相关的任何内容的每周摘要. 效果不错，但我仍然觉得我错过了什么. 快进几年，我发现自己大量参与了一个名为 [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
   
 </details>
 
@@ -94,6 +94,13 @@ Coursera
 ## Fellowships
 * [Year Here](https://yearhere.org/) - 为期一年的社会企业奖学金，以在伦敦建立一个组织.
 * [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) - 为期一年的奖学金，目标是为个人提供解决社区问题的工具.
+* [Echoing Green Fellowship](https://echoinggreen.org/fellowship/) - 18 个月的奖学金，包括可能的资助.
+* [Miller Center Accelerator](https://www.millersocent.org/programs/our-accelerators/)  - 为期六个月的课程，每周 4-6 小时. 向高级领导者倾斜.
+* [MIT Solve's Global Challenges Program](https://solve.mit.edu/challenges)  - 为期九个月的计划，有可用资金. 面向特定主题.
+* [Fast Forward Accelerator](https://www.ffwd.org/accelerator/) - 非营利科技公司的启动加速器.
+* [100x Impact Accelerator](https://www.100ximpact.org/) - 为社会企业提供 150k 的 12 周计划.
+* [Fashion for Good Accelerator](https://accelerator.fashionforgood.com/) - 为期九个月的解决时尚可持续性问题的计划.
+* [Social Enterprise Academy Accelerator](https://www.academies-se.org/accelerator)  - 培养社会企业的 20 周计划. 高达 30k 的可用资金.
 
 ## Institutions 🏫
 研究社会企业的学术机构：
@@ -212,7 +219,7 @@ Q：你喜欢社会企业的哪些方面？
  A：我想关注组织结构而不是组织内的个人. 社会企业家精神可以指任何事物，从倡导社会事业的大型组织到从事社区发展的独立人士. 虽然这两者都很重要且有价值，但这是一种面向对事物的组织方面感兴趣的人的资源.
 
 问：社会企业与非营利组织有何不同？  
-A: A social enterprise may be a nonprofit. While nonprofits are usually focused on social impact they may not be generating any revenue to fund themselves.
+答：社会企业可以是非营利组织. 虽然非营利组织通常关注社会影响，但它们可能不会产生任何收入来资助自己.
 
 问：为什么不直接将此信息添加到维基百科？  
 答：维基百科旨在包含本质上是百科全书的信息. 意思是，它应该以总结良好的形式包含最重要和经过验证的信息. 该文档更像是一本电话簿，试图链接到有用的相关资源.

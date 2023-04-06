@@ -309,6 +309,7 @@
   * [spectrum](https://github.com/arohner/spectrum)
   * [cloverage](https://github.com/cloverage/cloverage)
   * [clj-kondo](https://github.com/borkdude/clj-kondo)
+  * [splint](https://github.com/NoahTheDuke/splint)
 
 ## Science and Data Analysis
 
