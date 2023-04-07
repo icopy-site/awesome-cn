@@ -195,7 +195,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 装袋
+  - 套袋
   - 随机森林
   -AdaBoost
 
@@ -559,6 +559,7 @@
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - 免费的 GitHub 版本
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) 免费下载 
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
+- [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - 抢先体验
 
 
 #### Book Deals (Affiliated) 🛍

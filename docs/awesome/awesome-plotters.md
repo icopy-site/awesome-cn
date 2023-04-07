@@ -217,7 +217,9 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
 - [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf)
 - [Rotring Tubular Plotter Points Practical Tips and Information](https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation)
+- [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
+- [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
 - [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 - [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
 - [[Unknown Brand] LP 2002 Photo Plotter Attachment 操作手册（德语）](https://archive.org/details/lp-2002-betriebsanleitung/) - 另见 [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) 带有此设备的图片.

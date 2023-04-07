@@ -243,8 +243,15 @@
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
 * [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
-* [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
+* [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
 * [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.
+
+## Security
+*保护您的代码库的产品.*
+* [Bearer](https://www.bearer.com/) - 用于 JavaScript 和 Ruby 堆栈的静态应用程序安全测试 (SAST) 工具.
+* [GitGuardian](https://www.gitguardian.com/) - 实时 GitHub 活动扫描器.
+* [Snyk](https://snyk.io/) - 代码、依赖项、容器和基础设施即代码的漏洞扫描器.
+* [Socket](https://socket.dev/) - 检测并阻止开源供应链攻击.
 
 ## Shipping
 *创建和处理货物运输.*
@@ -252,7 +259,7 @@
 
 ## Testing
 *测试工具.*
-* [Applitools](https://applitools.com/) - Automated visual testing.
+* [Applitools](https://applitools.com/) - 自动化视觉测试.
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.

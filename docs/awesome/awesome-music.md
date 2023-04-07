@@ -13,10 +13,11 @@
 * [Audacity](https://github.com/audacity/audacity) - 免费的跨平台数字音频编辑器.
 * [Ardour](http://ardour.org/) - 强调录音的跨平台数字音频工作站.
 * [LMMS](https://lmms.io/) - 另一个跨平台数字音频工作站，更倾向于制作节拍.
+* [Stargate DAW](https://github.com/stargatedaw/stargate/) - 跨平台、一体式数字音频工作站和插件套件，针对 EDM 制作进行了优化.
 
 ## Audio Libraries
 
-* [audio.js](https://github.com/kolber/audiojs) - audio.js 是一个嵌入式 javascript 库，允许在任何地方使用 HTML5 的 &lt;audio&gt; 标签.
+* [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - 用于音频和音乐分析、特征提取的库.
 * [chord-mark](https://github.com/no-chris/chord-mark) - ChordMark 的参考实现，ChordMark 是一种用于歌词、和弦和节奏的文本符号格式.
 * [howler.js](https://github.com/goldfire/howler.js) - 用于现代网络的 Javascript 音频库.
@@ -92,7 +93,7 @@
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - 用于操作 LilyPond 文件的工具和库.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - 以最少的麻烦生成乐谱和部分.
 * [Scorelib](http://scorelib.sapp.org/) - 用于解析 SCORE 数据文件的 C++ 库.
-* [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
+* [Tbon](https://github.com/Michael-F-Ellis/tbon) - 音乐的印刷节拍符号.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - 为音乐人提供的LilyPond小乐谱刻版分享服务.
 * [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - 用文字创作乐谱的专有软件.
 * [Verovio](https://github.com/rism-ch/verovio) - 用于将 MEI 音乐符号雕刻到 SVG 中的库和工具包.
@@ -104,7 +105,7 @@
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
 * [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧氏节奏设计的小型 MIDI 音序器 DSL.
 * [Chuck](https://github.com/ccrma/chuck) - 强时序、并发和动态的音乐编程语言.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法组合的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法合成的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
 * [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐作曲系统.
 * [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
 * [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.
