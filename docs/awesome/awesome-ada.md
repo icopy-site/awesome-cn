@@ -60,11 +60,11 @@
 ### Online Books
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks 上有一本编程书籍.
 - [ada-distilled](https://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - 为 Ada 2005 蒸馏的 Ada.
-- [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95：面向对象编程的技巧.
+- [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - 适用于 C++ 或 Java 开发人员的 Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - 采用 SPARK 的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  - 安全可靠的软件.  Ada 2012 的邀请.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初学者到高级概念的书，包含源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初级概念到高级概念的书，包括源文件.
 
 ### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810091/81341/cover/9781009181341.jpg">[Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.)](https://www.cambridge.org/core/books/programming-in-ada-2012-with-a-preview-of-ada-2022/AD30275F35CCECB97EAB80ABC32B019C#) - 综合的.  
@@ -96,7 +96,7 @@
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) -Reddit 上的 Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 上的 Ada.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
@@ -108,7 +108,9 @@
 - [acm-sig-ada](https://www.sigada.org/) - Ada 特别兴趣小组.
 - [ada-resource-association](https://www.adaic.org/community/) - 自 1990 年以来，Ada 资源协会的主要使命一直是“确保 Ada 用户的持续成功并促进 Ada 在软件行业中的使用”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - Ada 编程语言的新闻和资源.
-- [ada-planet](https://www.laeran.pl/adaplanet/i/)  - 来自 Ada 编程语言世界的新闻聚合器.  ([RSS feed via Matrix](https://matrix.to/#/#ada-lang:matrix.org))
+- [ada-planet](https://www.laeran.pl/adaplanet/i/)  - 来自 Ada 编程语言世界的新闻聚合器.  （[通过矩阵的 RSS 提要][ada-planet-via-matrix]）
+
+[ada-planet-via-matrix]: https://matrix.to/#/#ada-lang:matrix.org
 
 ### Competition
 <div align="center">
@@ -192,7 +194,7 @@
 
 ### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - 使用 Travis CI 自动进行 SPARK 形式验证.
-- [ada-actions](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+- [ada-actions](https://github.com/ada-actions/toolchain) - GitHub Actions 的 Ada 工具链.
 
 ## Runtimes
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT 裸机板支持包 (BSP).
@@ -291,7 +293,7 @@
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet 允许使用与 Java Servlet 相同的模式创建 Web 应用程序（参见 JSR 154、JSR 315）.
 - [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 支持 Swagger codegen：OpenAPI Generator 是一个代码生成器，它支持在给定 OpenAPI 规范的情况下自动生成 API 客户端库、服务器存根和文档.
 - [ews](https://github.com/simonjwright/ews) - Embedded Web Server 是一个 Web 服务器构建工具包，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
-- [matreshka](http://forge.ada-ru.org/matreshka) - Matreshka 是一个 Ada 框架，用于开发由五个主要组件组成的信息系统：联盟、XML 处理器、Web 框架、SQL 访问和建模框架.
+- [matreshka](https://github.com/godunko/matreshka) - Matreshka 是一个 Ada 框架，用于开发由五个主要组件组成的信息系统：联盟、XML 处理器、Web 框架、SQL 访问和建模框架.
 
 [套娃]：https://github.com/godunko/matreshka
 
@@ -392,7 +394,7 @@
 - [libkeccak](https://github.com/damaki/libkeccak) - 海绵功能和相关结构的 Keccak 系列的 SPARK 实现.
 - [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - 带有附加数据算法的 Ascon 认证加密的 Ada/SPARK 实现.
 - [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) - SipHash 键控哈希函数的 Ada/SPARK 实现.
-- [spark-norx](https://github.com/jhumphry/SPARK_NORX) - 带有附加数据算法的 NORX 认证加密的 Ada/SPARK 实现.
+- [spark-norx](https://github.com/jhumphry/SPARK_NORX) - Ada/SPARK implementation of the NORX Authenticated Encryption with Additional Data Algorithm.
 - [spark-nacl](https://github.com/rod-chapman/SPARKNaCl) - SPARK 2014 重新实现 TweetNaCl 加密库.
 - [stotp](https://github.com/jklmnn/STOTP) - SPARK 中的定时一次性一密本 (RFC 6238) 实施.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - 极快的非加密哈希算法，xxhash 的工作速度接近 RAM 限制.
@@ -441,7 +443,7 @@
 - [spark-xml](https://github.com/Componolit/SXML) - SPARK 中经过正式验证的 XML 库.
 - [excel-writer](https://github.com/zertovitch/excel-writer) - 创建具有基本格式的 Excel 文件.
 - [generic-image-decoder](https://github.com/zertovitch/gid) - Ada 的多格式图像解码器库.
-- [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) - Ada package for producing easily and automatically PDF files, from an Ada program, with text, vector graphics, images (JPEG).
+- [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) - Ada 包，用于从 Ada 程序轻松自动生成 PDF 文件，包含文本、矢量图形、图像 (JPEG).
 - [ada-midi](https://github.com/frett27/Ada-Midi) - 实现 Midi / MidiFile 读写.
 - [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) - Ada Bar Codes 提供了一个包，用于在不同的输出格式（例如 PDF 或 SVG）上生成各种类型的条码（一维或二维码，如 QR 码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到 ASCII 的编解码器，例如 Base64.

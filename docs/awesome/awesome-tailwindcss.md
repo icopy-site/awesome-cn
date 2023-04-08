@@ -60,7 +60,7 @@
 **图例**：官方插件·主题·实用程序·变体·组件·弃用
 
 - [Typography](https://github.com/tailwindlabs/tailwindcss-typography) - 为漂亮的排版默认值添加一个“散文”类.
-- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - 添加可组合的宽高比实用程序.
+- [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Adds composable aspect ratio utilities.
 - [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - 为表单元素添加更好的默认样式.
 - [Theming](https://github.com/innocenzi/tailwindcss-theming) - 使用 CSS 变量的主题，支持深色模式.
 - [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) - 添加基于媒体查询和/或 CSS 选择器的主题变体.
@@ -132,7 +132,7 @@
 - [Layout](https://github.com/benface/tailwindcss-layout) - 添加一些布局实用程序.
 - [Grid](https://github.com/chrisrowe/tailwindcss-grid) - 添加 CSS 网格实用程序.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) - 添加“转换”实用程序.
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
+- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - 添加可配置的转换实用程序，有或没有 CSS 变量.
 - [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - 添加可配置的转换实用程序.
 - [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) - 添加基本的过渡实用程序.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) - 扩展 `cursor` 实用程序.
@@ -263,6 +263,7 @@
 - [Vanilla Components](https://vanilla-components.com) - 一组完全可定制的 Vue 组件.
 - [Sailboat UI](https://sailboatui.com/) - Tailwind CSS 的现代 UI 框架.
 - [Built At Lightspeed](https://www.builtatlightspeed.com/) - 包含 500 多个 Tailwind 模板、启动器和 UI 套件的海量目录.
+- [Statichunt](https://statichunt.com/tailwind-templates) - 精选的免费和高级 Tailwind 模板和 Starters 的开源目录.
 - [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多种不同的即用型 Tailwind CSS 块.
 - [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
 很棒的比特币
 ===============
-为软件开发人员准备的比特币服务和工具列表
+为软件开发人员准备的比特币服务和工具清单
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -15,7 +15,7 @@
 * [Pycoin](https://github.com/richardkiss/pycoin) - 基于 Python 的比特币和 alt-coin 实用程序库.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - 比特币命令行工具.
 * [txwatcher](https://github.com/tsileo/txwatcher) - 一个小的 Python 实用程序，可让您通过 Blockchain Websocket API 监控比特币地址并执行自定义回调.
-* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一系列简单程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一组简单的程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - 在您的 Bitcoin HD 钱包中找到所有使用过的地址，绕过差距限制.
 * [LibreSelery](https://github.com/protontypes/libreselery) - 将比特币自动分发给您的项目贡献者和集成到 GitHub Actions 中的依赖项.
@@ -61,10 +61,12 @@
 * [Smartbit](https://www.smartbit.com.au)
 * [Bitkit](https://bitkit.live) - 实时交易更新.
 
+## C Libraries
+* [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
+
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
-* [secp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## JavaScript Libraries
 * [Awesome CryptoCoinJS](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
@@ -82,6 +84,9 @@
 
 ## Ruby Libraries
 * [Bitcoin-ruby](https://github.com/lian/bitcoin-ruby)
+* [bitcoinrb](https://github.com/chaintope/bitcoinrb) - Ruby 比特币库，包括脚本解释器.
+* [bech32rb](https://github.com/azuchi/bech32rb) - Bech32 和 Bech32m 编码/解码库.
+* [bip-schnorrrb](https://github.com/chaintope/bip-schnorrrb) - 比特币的 Schnorr 签名库.
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
