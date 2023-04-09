@@ -170,6 +170,7 @@
 - [Synthesia](https://www.synthesia.io/) - 在几分钟内从纯文本创建视频.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase 的技术可大规模创建超个性化视频，从而提高参与度和业务效率.
 - [Hour One](https://hourone.ai/) - 将文本自动转换为视频，以虚拟演示者为特色.
+- [D-ID](https://www.d-id.com/) - 只需按一下按钮即可创建会说话的头像并与之互动.
 
 ## Audio
 

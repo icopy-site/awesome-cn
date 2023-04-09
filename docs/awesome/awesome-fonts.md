@@ -63,7 +63,7 @@
 * [emoji-translate](https://github.com/notwaldorf/emoji-translate) - 将文字翻译成表情符号
 * [emoji](https://github.com/leereilly/emoji) - GitHub 拉取请求、问题、评论、提交消息、降价文件等支持的所有表情符号
 * [emoji](https://github.com/muan/emoji) - 找到与您的想法相呼应的表情符号
-* [emoji](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
+* [emoji](https://github.com/wpeterson/emoji)  - 一颗宝石. 对于表情符号. 为了所有人.
 * [emojidex](https://github.com/emojidex/emojidex) - 表情符号即服务提供商和一套工具和资产
 * [emojify.js](https://github.com/emojione/emojify.js) - 将表情符号关键字转换为图像的 Javascript 模块
 * [emojify](https://github.com/mrowa44/emojify) - 命令行上的表情符号
@@ -73,7 +73,7 @@
 * [emojistatic](https://github.com/mroth/emojistatic) - 表情符号的 CDN 静态资产生成
 * [emojitracker](https://github.com/mroth/emojitracker) - 跟踪所有表情符号
 * [emojize](https://github.com/ded/emojize) - 高分辨率、unicode（表情符号）到 html 的转换实用程序
-* [gemoji](https://github.com/github/gemoji) - 表情符号图像和名称
+* [gemoji](https://github.com/github/gemoji) - Emoji images and names
 * [gh-emoji](https://github.com/zzarcon/gh-emoji) - Github 表情符号解析正确
 * [node-emoji](https://github.com/omnidan/node-emoji) - 对 Node.js 的简单表情符号支持
 * [megamoji](https://github.com/muan/megamoji) - 像专业人士一样制作表情符号
@@ -124,6 +124,7 @@
   * [Source Han Serif](https://github.com/adobe-fonts/source-han-serif)
   * [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro)
+* [agave](https://github.com/blobject/agave) - 字型木耳设计制作的等宽轮廓字体
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Codeface](https://github.com/chrissimpkins/codeface) - 供开发人员使用的等宽字体库
 * [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
@@ -146,6 +147,7 @@
 * [Hasklig](https://github.com/i-tu/Hasklig)
 * [Iosevka](https://github.com/be5invis/Iosevka)  - 用于编程的空间高效等宽字体系列. 从代码构建.
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+* [Lilex](https://github.com/mishamyrt/Lilex) - 包含一组用于常见编程多字符组合的连字的现代编程字体
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) - 具有 Haskell、Agda、APL 等特殊连字的专有字体
 * [Dank Mono](https://dank.sh/) — 具有令人愉快的连字和斜体变体的高级编程字体
@@ -179,11 +181,12 @@
 
 ## Other
 * [Command line font-manager](https://github.com/alyssais/font)
+* [fnt](https://github.com/alexmyczko/fnt) - Apt for fonts，macOS/linux 缺少的字体管理器
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts) - 使网络字体易于开发人员使用
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - 上传 OTF 或 TTF 字体，接收网络字体
 * [FontForge](https://github.com/fontforge/fontforge) - 跨平台字体编辑器
 * [Powerline Fonts](https://github.com/powerline/fonts) - 为电力线用户打补丁的字体
-* [TruFont](https://github.com/trufont/trufont) - 一个流线型和可破解的字体编辑器
+* [TruFont](https://github.com/trufont/trufont) - 一个流线型和可修改的字体编辑器
 
 ## License
 

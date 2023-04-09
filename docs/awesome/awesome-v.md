@@ -69,7 +69,7 @@
 
 ### Project management
 
-- [Lenra template](https://github.com/lenra-io/template-v) - 为 Lenra 平台编写 V 应用程序的 Lenra 模板.
+- [Lenra template](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
 - [vset](https://github.com/mulh8377/vset) - V 项目的项目设置和配置工具.
 
 ### Serialization
@@ -134,7 +134,7 @@
 ### Files
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
-- [vmon](https://github.com/Larpon/vmon) - Asynchronously watch for file changes in a directory. The module is essentially a V wrapper for `septag/dmon`. It works for Windows, macOS and Linux.
+- [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
 
 ### Game development
 
@@ -198,9 +198,10 @@
 - [pcre2](https://github.com/srackham/pcre2) - 用于处理 PCRE 正则表达式的库.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
 - [strfmt](https://github.com/BenStigsen/strfmt) - 非常适合模板化的小巧快速的字符串格式化库.
+- [text-processing](https://github.com/ArtemkaKun/text-processing) - V 文本处理库，包含处理文本数据的常用工具.
 - [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.
 - [vxml](https://github.com/walkingdevel/vxml) - 用于将 XML 解析为 DOM 的纯 V 库.
-- [text-processing](https://github.com/ArtemkaKun/text-processing) - V 文本处理库，包含处理文本数据的常用工具.
+- [whisker](https://github.com/hungrybluedev/whisker) - 受小胡子启发的 V 快速、强大的模板引擎.
 
 ### User Interface toolkits
 

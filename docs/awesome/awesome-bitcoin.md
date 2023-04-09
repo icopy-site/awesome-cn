@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
 很棒的比特币
 ===============
-为软件开发人员准备的比特币服务和工具清单
+为软件开发人员准备的比特币服务和工具列表
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -9,16 +9,14 @@
 
 ## Utilities
 * [Nigiri](https://github.com/vulpemventures/nigiri/)  - CLI 可与 Electrs 和 Esplora 一起快速启动比特币注册测试框. 包括水龙头和推送命令.
-* [Nigiri in Travis](https://github.com/vulpemventures/nigiri-travis) - 用于将 Nigiri 添加到您的 Travis（或 Github Action）管道的 Travis 模板.
 * [hal](https://github.com/stevenroose/hal) - 比特币 CLI 瑞士军刀（基于 rust-bitcoin）.
 * [BitKey](https://bitkey.io) - 用于气隙交易的实时 USB 和比特币瑞士军刀.
 * [Pycoin](https://github.com/richardkiss/pycoin) - 基于 Python 的比特币和 alt-coin 实用程序库.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - 比特币命令行工具.
 * [txwatcher](https://github.com/tsileo/txwatcher) - 一个小的 Python 实用程序，可让您通过 Blockchain Websocket API 监控比特币地址并执行自定义回调.
-* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一组简单的程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一系列简单程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - 在您的 Bitcoin HD 钱包中找到所有使用过的地址，绕过差距限制.
-* [LibreSelery](https://github.com/protontypes/libreselery) - 将比特币自动分发给您的项目贡献者和集成到 GitHub Actions 中的依赖项.
 * [`<qr-code>`](https://github.com/bitjson/qr-code)  – 无框架、无依赖、可定制、可动画、基于 SVG 的`<qr-code>  ` 网络组件.
 
 ## Blockchain API and Web services
@@ -32,7 +30,6 @@
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - 自托管支付网关.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Chainradar 的区块链资源管理器 API.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) 分享您的比特币地址的更好方式.
 
@@ -76,7 +73,9 @@
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
 * [bcoin](https://github.com/bcoin-org/bcoin) - 用于 node.js 和浏览器的 Javascript 比特币库.
 * [Libauth](https://libauth.org/) – 轻量级、零依赖、JavaScript/TypeScript 比特币库.
-* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer) — 用于创建、签署和解码比特币交易的安全、经过审计的最小库.
+* [noble-curves](https://github.com/paulmillr/noble-curves) — 纯打字稿中 secp256k1 + schnorr 的审核实施
+* [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1)  — secp256k1 的替代实现：压缩后大小仅为 4KB； 很多评论，对于学习算法如何工作非常有价值
+* [scure-btc-signer](https://github.com/paulmillr/scure-btc-signer)  — 用于创建、签名和解码比特币交易的经过审计的最小库. 使用 Schnorr、Taproot、UTXO 和 PSBT.
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
@@ -112,8 +111,6 @@
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - .NET 框架的综合比特币库.
 * [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
-* [QBitNinja](https://github.com/MetacoSA/QBitNinja) - 开源且功能强大的区块链 API.
-
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - 傻瓜比特币脚本.
@@ -130,8 +127,6 @@
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - 一种高性能数据传输工具，可用于将数据从比特币核心区块链文件复制到 SQL Server 数据库.
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) - 快速、快速和肮脏的比特币区块链解析器.
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe：比特币和类似货币的区块浏览器.
-* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) - 适用于 Azure 云平台的可扩展和容错区块链索引器.
-* [Blockchain2Graph](https://github.com/straumat/blockchain2graph) - 图形数据库生成器.
 * [Chaingraph](https://github.com/bitauth/chaingraph/) – 多节点区块链索引器和 GraphQL API.
 
 ## Full nodes
