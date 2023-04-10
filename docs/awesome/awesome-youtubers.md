@@ -54,7 +54,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
 
 [**Derek Banas**](https://www.youtube.com/c/derekbanas) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: Mathematics, Programming languages \
+内容关于：数学，编程语言 \
 Featured playlists: `Learn Algebra`, `C++ Tutorial`, `C# Tutorial`, `Java Video Tutorial`, `a lot of diverse topics`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwVjl968ProbjWSmYNghqYxAG_EI0-3ZK6QNIHM=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DonJonesConTech)
@@ -111,7 +111,7 @@ Content about: C, C#, C++ \
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwFt03RAznOsPwlfo5c1kW1rp-1o3Xgpw9MNreQMQ=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 [**freeCodeCamp.org**](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
-Content about: General programming, Computer science, Web Dev, DevOps, etc. \
+内容：通用编程、计算机科学、Web 开发、DevOps 等 \
 精选播放列表：`Python 教程`、`机器学习`、`Java 教程`.  \
 <br />
 
@@ -501,7 +501,7 @@ Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
 
 [**Computerphile**](https://www.youtube.com/user/Computerphile) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于： 软件、硬件 \
-精选播放列表：`计算机内存工作原理`、`Mike Pound 博士的数据分析`、`Rob Miles 的人工智能`、`远程工作技术`.
+精选播放列表：`计算机内存的工作原理`、`Mike Pound 博士的数据分析`、`Rob Miles 的人工智能`、`远程工作技术`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7GZmfOLRj6qINAbohRz1pG7UjKcxQVmNZN6MC=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/stanfordonline)
 
@@ -844,7 +844,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 
 [<img height="16px" width="16px" alt="Badge for French-speaking YouTubers" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-fr.svg?sanitize=true" title="This YouTuber speaks French"/>](badges/README.md#french-speaking-youtubers) [**Développeuse Du Dimanche**](https://www.youtube.com/channel/UCVf2py0nEmhiUH7pryhZdyg) \
 内容关于：视频游戏制作，独立游戏开发的幕后花絮 \
-精选播放列表：`教程`、`我们的会议`、`为什么它很酷？`、`Journal de bord`.  \
+精选播放列表：`Tuto`、`Our conferences`、`Why it&#39;s cool?`、`Journal de bord`.  \
 <br />
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhzSBts9V7Ejj7f8uMAqqN8T0MsQ5kSYC5pq9tWaQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ClearCode)
@@ -907,7 +907,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 
 [**Professor Messer**](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于： 安全 \
-精选播放列表：`CompTIA Security+ SY0-501 培训课程`、`CompTIA N10-007 网络+ 学习小组`、`还有更多类似的内容！`.
+Featured playlists: `CompTIA Security+ SY0-501 Training Course`, `CompTIA N10-007 Network+ Study Groups`, `and many more like this!`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxwg_MKbgIY5qofCP_D9_7J1imehz-xhNBbtuA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodeCommand)
 
@@ -1176,7 +1176,7 @@ Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and vid
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNoBbN8dcRvQmBgN4oTSZVTnb-KDu41GJWStY-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MohamedAchraf)
 
 [**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
-内容关于：Adobe Illustrator \
+Content about: Adobe Illustrator \
 特色播放列表：`标志设计过程`、`Adobe Illustrator 提示和技巧`、`角色设计`、`Illustrator Speedarts`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLSW8zG2RFieP7BLOdCwMe3LNFNrb4Yia3IViynleg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
@@ -1215,7 +1215,7 @@ Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and vid
 
 [**Avnish Parker**](https://www.youtube.com/user/avnishparker) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
 内容关于： 动画，设计 \
-特色播放列表：“After Effects 教程”、“文本动画 - After Effects 教程”、“徽标介绍 - After Effects 教程”、“动态图形 - After Effects 教程”.
+精选播放列表：“After Effects 教程”、“文本动画 - After Effects 教程”、“徽标介绍 - After Effects 教程”、“动态图形 - After Effects 教程”.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyf22_Pytt7LNXFjm-oL0BAbT3Qu8j7Cphk0L2A=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DenyKingYoutube)
 
@@ -1324,12 +1324,18 @@ Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and vid
 精选播放列表：`单板电脑评论`、`单板电脑游戏`、`更多`.  \
 <br />
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXg0un1rLvqfNvehwVVtDq_1pxwsx3BOCc9PA-1KQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ServeTheHomeVideo)
 
 [**ServeTheHome**](https://www.youtube.com/@ServeTheHomeVideo) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges/README.md#weekly-video-upload) \
 内容关于：服务器硬件、网络和其他专业硬件 \
 精选播放列表：`About Servers`、`Fanless`、`Mini PC`、`Workstations`、`Current Events`、`Storage`、`Server Processors`、`Networking`、`Cool server hardware`.
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/4toKBJKPsAfwxy2xfr_EQJ7CuHpLvZa4eux6T2TAf8EU25uH_G9gbUA9djqaCrTjkIESnPjzww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BranchEducation)
+
+[**Branch Education**](https://www.youtube.com/@BranchEducation) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/badges/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges/README.md#verified-youtube-channel) \
+内容：所有技术设备内部工作\
+精选播放列表：`Memory`、`SSD`、`Microchips`、`Mouse`、`PCB`.
 
 
 

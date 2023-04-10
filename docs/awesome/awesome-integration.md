@@ -23,7 +23,7 @@
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 一个完整的包，可帮助管理您的 API，并将它们变成推动您的业务向前发展的工具，作者：Torry Harris.
 - [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量级和超快的开源解决方案.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，可让您跨云创建、公开、管理 API 并从中获利.
-- [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 服务连接平台.
+- [Kong Enterprise](https://konghq.com/products/kong-enterprise) - The service connectivity platform.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理.
 - [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 云原生开发变得更简单、更灵活.
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台.
@@ -44,6 +44,7 @@
 ### API Documentation
 *API 门户和文档工具.*
 - [APITree](https://www.apitree.com/) - 管理和共享 API 规范的中心位置.
+- [DapperDox](http://dapperdox.io) - 用于 OpenAPI/Swagger 规范的开源 API 文档生成器和服务器.
 - [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer) - 用于根据规范生成 UI 的 OpenAPI Web 组件.
 - [RapiDoc](https://github.com/rapi-doc/RapiDoc) - 根据 OpenAPI 规范创建美观、可定制、交互式的 API 文档.
 - [Redoc](https://github.com/Redocly/redoc) - 用于从 OpenAPI (fka Swagger) 定义生成文档的开源工具.
@@ -53,7 +54,7 @@
 
 
 ### API Gateway
-*API 网关.*
+*API Gateways.*
 - [Apinto](https://github.com/eolinker/goku) - 基于Golang的微服务网关，支持高性能动态路由、服务编排、多租户管理、API访问控制等.
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - Kubernetes 原生 API 网关.
 - [Apache APISIX](https://apisix.apache.org) - 动态、实时、高性能的 API 网关.
@@ -62,6 +63,7 @@
 - [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - 带有中间件的超高性能 API 网关.
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET API 网关.
 - [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) - API 网关建立在 Spring 生态系统之上，包括：Spring 5、Spring Boot 2 和 Project Reactor.
+- [Traefik](https://github.com/traefik/traefik)  - 一个现代的开源 API 网关，旨在处理动态容器环境，例如 Kubernetes、Docker Swarm 和 Mesos. 它提供负载平衡、SSL/TLS 终止、速率限制、熔断等功能.
 - [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - 开源企业 API 网关，支持 REST、GraphQL、TCP 和 gRPC 协议.
 
 ### API Testing
@@ -77,7 +79,9 @@
 - MQ客户端
   - [JMSToolBox](https://github.com/jmstoolbox/jmstoolbox) - 一个通用的 JMS 客户端，能够与最多的基于 JMS 的消息代理进行交互.
   - [kcat](https://github.com/edenhill/kcat)  - Apache Kafka 的通用非 JVM 生产者和消费者，可以将其视为 Kafka 的 netcat. 以前称为卡夫卡猫.
+  - [MQTT Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - 提供结构化主题概述的全方位 MQTT 客户端.
   - [Offset Explorer](https://www.kafkatool.com)  - 用于管理和使用 Apache Kafka 集群的 GUI 应用程序. 以前称为 Kafka 工具.
+  - [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer) - Azure 服务总线的 GUI 应用程序，它提供高级功能，如导入/导出功能或测试主题、队列、订阅、中继服务、通知中心和事件中心的能力.
 - 模拟工具
   - [Microcks](https://github.com/microcks/microcks)  - 用于 API 模拟和测试的开源 Kubernetes 本机工具. 支持 AsyncAPI、OpenAPI、Postman Collections 等.
   - [Mockable](https://www.mockable.io/) - 模拟 RESTful API 或 SOAP 网络服务的简单可配置服务.
@@ -187,7 +191,7 @@
 - [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - 托管 Apache Kafka 服务.
 - [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - 在企业应用程序、系统和服务之间轻松移动数据.
 - [IronMQ](https://www.iron.io/mq) - 专门针对云创建的弹性消息队列.
-- [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - 一个实时的、无服务器的、与 Apache Kafka 兼容的事件流平台.
+- [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A real-time, serverless, Apache Kafka-compatible event streaming platform.
 - [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - 一个完整的事件流、管理和洞察平台.
 - [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - 与 Amazon SQS HTTP API 的兼容性.
 - [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - 托管 Apache Kafka 服务.
@@ -203,9 +207,9 @@
 
 ### Master Data Management
 *主数据管理解决方案.*
-- [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - 全面的主数据管理.
+- [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive master data management.
 - [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - 多合一的主数据管理.
-- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Adapt and respond to change faster and more effectively by managing your master data.
+- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - 通过管理主数据更快、更有效地适应和响应变化.
 - [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - 通过整合和集中管理主数据生命周期，提高整个组织的信息质量和一致性.
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - 提供单一、准确和统一的公司数据视图，将来自各种数据源的信息集成到一个主记录中.
 - [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - 在数据方面提供“单一版本的事实”，确保只有可靠、准确和经过批准的信息才能流经您的系统、流程和应用程序.
@@ -262,8 +266,10 @@
 ## Resources
 *一些有用的规范、模式、文章和文档.*
 ### API Specification
+- [API Blueprint](https://apiblueprint.org) - 用于设计和记录 API 的高级 API 描述语言.
 - [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.0.0) - AsyncAPI 规范为事件驱动架构 (EDA) 的更大更好的工具生态系统奠定了基础.
 - [GraphQL](https://github.com/graphql/graphql-spec) - 用于 API 的查询语言和用于使用现有数据完成这些查询的运行时.
+- [JSON:API](https://jsonapi.org) - 用于构建 API 的规范，它提供了表示资源、关系和元数据的标准化方式.
 - [OpenAPI (ex.Swagger)](https://spec.openapis.org/oas/v3.1.0) - 为 RESTful API 定义了一个标准的、与语言无关的接口，它允许人类和计算机在不访问源代码、文档或通过网络流量检查的情况下发现和理解服务的功能. 
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - RESTful API 建模语言.
 - [WSDL](http://www.w3.org/TR/wsdl20) - 用于基于 SOAP 的服务的基于 XML 的接口描述语言.
@@ -288,7 +294,7 @@
 - [Aggregator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Aggregator.html) - 我们如何组合单个但相关消息的结果，以便将它们作为一个整体进行处理？  
 - [Canonical Data Model](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html) - 在集成使用不同数据格式的应用程序时如何最大程度地减少依赖性？
 - [Channel Adapter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelAdapter.html) - 如何将应用程序连接到消息系统，以便它可以发送和接收消息？
-- [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - How can you keep 'left-over' messages on a channel from disturbing tests or running systems?
+- [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 如何防止通道上的“遗留”消息干扰测试或运行系统？
 - [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少通过系统发送的消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
 - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多条消息？
@@ -308,7 +314,7 @@
 - [Event Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html) - 如何使用消息传递将事件从一个应用程序传输到另一个应用程序？
 - [Event-Driven Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html) - 应用程序如何在消息可用时自动使用它们？
 - [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - 如何设计消息的数据格式以允许将来可能发生的变化？
-- [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - How can the sender make sure that a message will be delivered, even if the messaging system fails?
+- [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - 即使消息传递系统出现故障，发件人如何确保消息能够送达？
 - [Idempotent Receiver](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html) - 消息接收者如何处理重复消息？
 - [Invalid Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html) - 消息接收者如何优雅地处理接收到的毫无意义的消息？
 - [Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Message.html) - 通过消息通道连接的两个应用程序如何交换一条信息？
@@ -322,7 +328,7 @@
 - [Message Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html) - 组件如何避免接收无趣的消息？
 - [Message History](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageHistory.html) - 我们如何有效地分析和调试松散耦合系统中的消息流？  
 - [Message Router](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRouter.html) - 如何解耦各个处理步骤，以便根据一组条件将消息传递到不同的过滤器？
-- [Message Sequence](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html) - How can messaging transmit an arbitrarily large amount of data?
+- [Message Sequence](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html) - 消息传递如何传输任意大量的数据？
 - [Message Store](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageStore.html) - 我们如何在不影响消息系统松散耦合和瞬态特性的情况下报告消息信息？  
 - [Messaging Bridge](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html) - 如何连接多个消息系统，以便在一个系统上可用的消息在其他系统上也可用？
 - [Messaging Gateway](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingGateway.html) - 如何封装从应用程序的其余部分访问消息系统？
@@ -376,7 +382,7 @@
 ### Protocols
 - [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf) - 高级消息队列协议 (AMQP) 版本 0-9-1.
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html) - 高级消息队列协议 (AMQP) 1.0 版.
-- [CoAP](http://coap.technology/) - The Constrained Application Protocol (CoAP) is a specialized Internet application protocol for constrained devices, as defined in RFC 7252.
+- [CoAP](http://coap.technology/) - 受限应用协议 (CoAP) 是受限设备的专用互联网应用协议，如 RFC 7252 中所定义.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) - 超文本传输​​协议 (HTTP) 是分布式协作超媒体信息系统的应用层协议.
 - [JSON-RPC](https://www.jsonrpc.org/specification) - 设计简单，它是一种无状态、轻量级的远程过程调用 (RPC) 协议.
 - [MQTT](https://mqtt.org/mqtt-specification/) - 消息队列遥测传输 (MQTT) 是一种轻量级的发布-订阅网络协议，可在设备之间传输消息.
@@ -391,6 +397,7 @@
 
 ### Structure and Validation
 - [JSON Schema](https://json-schema.org/) - 用于验证 JSON 数据结构的强大工具.
+- [Schematron](https://www.schematron.com) - 一种基于规则的验证语言，用于业务规则验证、数据报告、一般验证、质量控制、质量保证、防火墙、过滤、约束检查、命名和设计规则检查、统计一致性、数据探索、转换测试、特征提取和房屋-样式规则检查.
 - [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - 提供描述结构和限制 XML 文档内容的工具.
 
 ## Contributing

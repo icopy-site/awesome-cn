@@ -91,7 +91,7 @@
 - [Screpy](https://screpy.com) - 基于 AI 的 SEO 分析和监控工具
 - [YSlow](https://github.com/marcelduran/yslow) - YSlow 分析网页并根据一组高性能网页规则提出提高其性能的方法.
 - [YSlow for PhantomJS](http://yslow.org/phantomjs/) - PhantomJS 的 YSlow 还为自动化测试框架引入了新的输出格式：TAP（测试任何协议）和 JUnit.
-- [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt)  - 用于连续测量 WebPageTest 的 Grunt 插件.  ([Demo](http://sideroad.github.io/sample-wpt-page/))
+- [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuously measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 - [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - 使用无头 WebKit 浏览器 PhantomJS 测试页面性能的 Grunt 任务.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - 执行性能预算的 Grunt.js 任务（[more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 - [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework 是一组用于跟踪和调查复杂 Web 应用程序的库、工具和可视化工具
@@ -115,13 +115,14 @@
 - [Pingdom](https://pingdom.com) - 获取网站正常运行时间的工具（使用来自不同位置的探测器）
 - [UptimeRobot](https://uptimerobot.com) - 另一个正常运行时间监控工具（有一个慷慨的免费计划）
 - [RoboMiri](https://robomiri.com)  - RoboMiri 是一款稳定的正常运行时间监视器，提供广泛的监视器：cronjob、关键字、网站、端口、ping.  25 次正常运行时间检查，每 3 分钟免费检查一次. 通过电话、短信、电子邮件和 Web Hook 发出警报.
+- [StatusList](https://statuslist.app) - 正常运行时间、带有调试详细信息的性能监控和一个简单仪表板中的托管状态页面.
 
 ## Bundle Analyzer
 
 - [Bundlesize](https://github.com/siddharthkp/bundlesize) - 控制您的捆绑包大小.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试包空间使用情况.
 - [Bundlephobia](https://bundlephobia.com/) - 帮助您找到将 npm 包添加到前端包的性能影响.
-- [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+- [Webpack bundle analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack 插件和 CLI 实用程序，将捆绑内容表示为方便的交互式可缩放树图.
 - [Disc](http://hughsk.io/disc/) - 可视化 browserify 项目包的模块树并追踪膨胀.
 - [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - 分析和可视化 Lasso 创建的项目包.
 - [Packtracker.io](https://packtracker.io) - 检查每个拉取请求的 webpack 包统计信息，并随着时间的推移跟踪它们.
@@ -170,7 +171,7 @@
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - Amazon 的内容交付网络，可以与其他 Amazon 服务很好地集成，也可以独立使用.
 - [jQuery](http://code.jquery.com/) - jQuery CDN – 最新的稳定版本，由 MaxCDN 提供支持.
 - :cn: [UpYun CDN](http://jscdn.upai.com/) - 由upyun提供的CDN.
-- :cn: [Bootstrap 中文网开放 CDN 服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
+- :cn: [Bootstrap 中文网开放 CDN 服务](http://www.bootcdn.cn/) - Bootstrap中文网开放CDN服务（仅限HTTP）.
 - :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network 托管流行的第三方 JavaScript 和 CSS 库（最适合在俄罗斯使用）.
 
 &gt; 要找到对您在付费 CDN 之间做出正确选择有用的更多信息，请访问 [CDNPlanet](http://www.cdnplanet.com/).
@@ -202,7 +203,7 @@
 - [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - 缩小 Grunt 的 PNG 和 JPEG 图像.
 - [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - 使用 Gulp 的 imagemin 缩小 PNG、JPEG、GIF 和 SVG 图像.
 - [Grunt-WebP](https://github.com/somerandomdude/grunt-webp) - 将您的图像转换为 WebP 格式.
-- [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - 将图像转换为 Gulp 的 WebP.
+- [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 - [Imageoptim](https://imageoptim.com/)  - 免费应用程序，使图像占用更少的磁盘空间并更快地加载，而不会牺牲质量. 它优化压缩参数，删除垃圾元数据和不必要的颜色配置文件.
 - [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - 使 ImageOptim、ImageAlpha 和 JPEGmini 成为您的自动化构建过程的一部分.
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - 为 Mac 自动化 ImageOptim、ImageAlpha 和 JPEGmini，使图像的批量优化成为自动构建过程的一部分.
@@ -230,7 +231,7 @@
 
 - [HeadJS](https://github.com/headjs/headjs) - 你头上唯一的脚本. 用于响应式设计、特征检测和资源加载.
 - [RequireJS](http://requirejs.org/)  - RequireJS 是一个 JavaScript 文件和模块加载器. 它针对在浏览器中使用进行了优化，但它也可以在其他 JavaScript 环境中使用，例如 Rhino 和 Node.js.
-- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可证）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
+- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
 - [Defer.js](https://github.com/wessman/defer.js) - Async Everything：使用这个 JS 代码让你的页面内容加载得更快.
 - [InstantClick](https://github.com/dieulot/instantclick) - InstantClick 使您网站中的以下链接即时.
 - [JIT](https://github.com/shootaroo/jit-grunt)  - Grunt 的 JIT（及时）插件加载器. 即使有很多插件，Grunt 的加载时间也不会减慢.
@@ -333,7 +334,7 @@
 - [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG 是 SVGO 缺少的 GUI，旨在公开 SVGO 的大部分（如果不是全部）配置选项.
 - [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - 使用 SVGO for Grunt 缩小 SVG.
 - [Gulp-svgmin](https://www.npmjs.com/package/gulp-svgmin) - 使用 SVGO 为 Gulp 缩小 SVG.
-- [Scour](http://www.codedread.com/scour/) - Scour is an open-source Python script that aggressively cleans SVG files, removing a lot of 'cruft' that certain tools or authors embed into their documents.
+- [Scour](http://www.codedread.com/scour/) - Scour 是一种开源 Python 脚本，可积极清理 SVG 文件，删除某些工具或作者嵌入到其文档中的大量“垃圾”.
 - [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
 
 ## Web Components
@@ -345,7 +346,7 @@
 
 - [HTTPerf](https://github.com/httperf/httperf)  - httperf 是一个衡量网络服务器性能的工具. 它为生成各种 HTTP 工作负载和测量服务器性能提供了灵活的工具.
 - [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - 开源负载测试工具：它是一个Java平台应用程序.
-- [Locust](http://locust.io)  - 一个开源负载测试工具. 使用 Python 代码定义用户行为，让数百万并发用户涌入您的系统.
+- [Locust](http://locust.io) - An open source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 - [Autoperf](https://github.com/igrigorik/autoperf) - Autoperf 是 httperf 的 ruby​​ 驱动程序，旨在帮助您自动化任何 Web 应用程序的负载和性能测试 - 针对单个端点，或通过日志重放.
 - [HTTPerf.rb](https://github.com/jmervine/httperfrb) - 用于 httperf 的简单 Ruby 接口，用 Ruby 编写.
 - [PHP-httperf](https://github.com/jmervine/php-httperf) - HTTPerf.rb 的 PHP 端口.

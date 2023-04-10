@@ -61,7 +61,7 @@
 
 #### VueJS
 
-- [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
+- [Vue.js Newsletter](https://news.vuejs.org) . 每周精选的 Vue.js 新闻.
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers) . 每周精选的最佳文章、最新消息和最酷的 Vue 项目.
 - [VueDose](https://vuedose.tips) . 关于 Vue 生态系统的提示和技巧，适合忙碌的开发人员. 每周出版.
 
@@ -352,7 +352,7 @@
 ## Artificial Intelligence / Machine Learning / Big Data
 
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周时事通讯. [Archive](https://dataelixir.com/newsletters/).
-- [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
+- [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
 - [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻每周综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和犯规. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
@@ -395,6 +395,8 @@
 - [AngelList Weekly](https://angel.co/newsletters) . 每周精选创业界的精华.
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
 - [Unvalidated Ideas](https://unvalidatedideas.com) . 您每周都可以提出并进行市场验证的新创业和 SaaS 创意.
+- [Generated.Company](https://generated.company) . 通过 AI 支持的公司创意释放您的创业潜力. 每周 10 个公司创意.
+
 
 ## Awesome news
 
@@ -432,13 +434,13 @@
 - [Founder Weekly](http://www.founderweekly.com/) . 一份面向企业家的免费每周时事通讯，其中包含精选内容、必读文章、操作指南、提示和技巧、资源、活动等.
 - [WebRTC Weekly](https://webrtcweekly.com/) . 每周简报，包含 WebRTC 上的所有最新消息和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) . 为对 Web Audio API、Web MIDI API 或一般网络声音感兴趣的人们提供的每周时事通讯.
-- [Data Is Plural](https://tinyletter.com/data-is-plural) . 有用/好奇数据集的每周通讯.
+- [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周时事通讯，汇集了初创公司生态系统中的最佳资源.
 - [Changelog Nightly](https://changelog.com/nightly) . 每晚 10 点 CT 发送一封电子邮件，发掘 GitHub 上最热门的新存储库.
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) .  Linux 内核邮件列表线程的每周综述，但带有更多讽刺意味.
-- [Kleroteria](https://www.kleroteria.org) . 一种免费、独特的“彩票”时事通讯，其中选择订阅者，其电子邮件提交将发送给所有其他订阅者. 主题在主题和质量上各不相同.
+- [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中选择了一个订阅者，该订阅者的电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳 Reddit 帖子的有关创业、成长、投资和初创公司的前沿新闻.

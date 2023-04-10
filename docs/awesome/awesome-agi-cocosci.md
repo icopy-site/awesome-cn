@@ -142,7 +142,7 @@
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图·斯坦福***. 科学解释的计算哲学解释，溯因法的典型应用.
 
-* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/)  - ***柏拉图·斯坦福***. 一种关于科学归约的计算哲学解释，它与解释没有明确的界限.
+* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/)  - ***柏拉图·斯坦福***. 关于科学还原的计算哲学说明，它与解释没有明确的界限.
 
 * [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/)  - ***柏拉图·斯坦福***. 关于非单调逻辑的计算哲学说明，这是一系列旨在捕获和表示可废止推理的正式框架.
 
@@ -607,7 +607,7 @@
 
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236) - ***行为科学的当前观点***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)].
 
-* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467) - ***行为科学的当前观点***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467) - ***当前行为科学观点***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369) - ***细胞***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)].
 
@@ -2002,6 +2002,7 @@
 计算认知科学家和经济学家，为决策理论奠定了基础.
 
 * [Thinking, fast and slow](https://hk1lib.org/book/2181569/f5e85a?id=2181569&secret=f5e85a) - ***Farrar Straus Giroux***，2011 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3255681708785115121)].
+
 
 
 ### Karl Popper
