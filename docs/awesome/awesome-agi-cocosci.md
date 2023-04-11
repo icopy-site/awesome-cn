@@ -142,7 +142,7 @@
 
 * [Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/)  - ***柏拉图·斯坦福***. 科学解释的计算哲学解释，溯因法的典型应用.
 
-* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/)  - ***柏拉图·斯坦福***. 关于科学还原的计算哲学说明，它与解释没有明确的界限.
+* [Scientific Reduction](https://plato.stanford.edu/entries/scientific-reduction/)  - ***柏拉图·斯坦福***. 一种关于科学归约的计算哲学解释，它与解释没有明确的界限.
 
 * [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/)  - ***柏拉图·斯坦福***. 关于非单调逻辑的计算哲学说明，这是一系列旨在捕获和表示可废止推理的正式框架.
 
@@ -232,7 +232,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
@@ -430,7 +430,7 @@
 
 
 
-* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表示.
+* [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425&hl=en&as_sdt=0,5) ].  Russel Epstein 对证据的评论表明，依赖于部分重叠的神经系统的思维/大脑中存在类似地图和类似图形的表征.
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
@@ -607,7 +607,7 @@
 
 * [Exploration: from machines to humans](https://www.sciencedirect.com/science/article/pii/S2352154620301236) - ***行为科学的当前观点***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8015078432419172621&hl=en&as_sdt=0,5)].
 
-* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467) - ***当前行为科学观点***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Balancing exploration and exploitation with information and randomization](https://www.sciencedirect.com/science/article/pii/S2352154620301467) - ***行为科学的当前观点***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=8164388137243077863&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Hippocampal neurons construct a map of an abstract value space](https://www.sciencedirect.com/science/article/pii/S0092867421008369) - ***细胞***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=12658820581876003172&hl=en&as_sdt=0,5)].
 
@@ -1481,7 +1481,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1495,7 +1495,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -2014,6 +2014,7 @@
 * [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***劳特利奇***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
 
 
+
 ### John Hopcroft
 
 应用数学家，理论计算机科学家.
@@ -2026,4 +2027,4 @@
 
 这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
+显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题的收集也或多或少带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

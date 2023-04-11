@@ -96,7 +96,7 @@ C、C++
 * [lispc](https://github.com/eratosthenesia/lispc) - 一种强大的 C 语言“lispsy”宏语言.[MIT][200].
 * [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax)  - 一个将 C 语言语法引入 Common Lisp 的有趣包.  （是的，我认为这个包不是用于实际编码的.）WTFPL 许可证.
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl)  - C 语言的交互式 REPL.  [BSD_2条款][17].
-* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  - SEL 支持软件的编程修改和评估（使用 Clang、编译的汇编器和链接的 ELF 二进制文件的 C/C++ 支持）.  [GPL3][2].
+* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  - SEL 支持软件的编程修改和评估（使用 Clang、编译的汇编程序和链接的 ELF 二进制文件的 C/C++ 支持）.  [GPL3][2].
 
 Cryptography
 ============
@@ -219,7 +219,7 @@ Tools
 无锁、并发、键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [麻省理工][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  - 数据结构和算法的可移植集合（主要是字典和序列，具有一些统计功能）.  [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  - 受 Haskell 的 Data.List 启发的列表操作库.  [LLGPL][8].
-* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便利库
+* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便捷库
 * [bit-smasher](https://github.com/thephoeron/bit-smasher)  - 用于处理位向量、位向量算术和类型转换的 Common Lisp 库.  [麻省理工][200].
 * [cl-containers](https://common-lisp.net/project/cl-containers/) - 一个广泛的数据结构和实用程序库 - 队列、树、堆、双向链表、集合、包……[MIT][200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  - 用于竞争性编程的 Common Lisp 算法集合. 公共领域、CCO 或 MIT.
@@ -237,7 +237,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -512,7 +512,7 @@ CLOS 扩展
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  - 允许静态地（在编译时）而不是动态地（运行时）执行标准通用函数分派. 这类似于 C++ 和 Java 等语言中所谓的“重载”.  [麻省理工][200].
 * [dynamic-mixins](https://github.com/rpav/dynamic-mixins)  - 简单、动态的类组合.  [BSD_2条款][17].
 * [fast-generic-functions](https://github.com/marcoheisig/fast-generic-functions)  - 密封您的通用函数以获得额外的性能提升.  [麻省理工][200].
-* [polymorphic functions](https://github.com/digikar99/polymorphic-functions) - A function type to dispatch on types instead of classes with partial support for dispatching on optional and keyword argument types. Still experimental (May, 2021). [MIT][200].
+* [polymorphic functions](https://github.com/digikar99/polymorphic-functions)  - 一种函数类型，用于分派类型而不是类，部分支持分派可选和关键字参数类型. 仍处于试验阶段（2021 年 5 月）.  [麻省理工][200].
    - 多态函数根据提供给它的参数类型进行分派. 这有助于调度专门的数组以及用户定义的类型.
   - 有关专业化存储和快速通用功能的差异，请参阅其自述文件.
 
@@ -707,7 +707,7 @@ Community
 
 可能有帮助：
 
-* [redist](https://github.com/shirakumo/redist) - 生产 Quicklisp 发行版的工具.
+* [redist](https://github.com/shirakumo/redist) - 生产 Quicklisp 发行版的设施.
 * [quick-patch](https://github.com/tdrhq/quick-patch/)  - 无需使用 git 子模块即可轻松覆盖 quicklisp 项目.  MPL-2.0.
 * [print-licenses](https://github.com/vindarel/print-licenses)  - 打印项目及其依赖项使用的许可证.  [麻省理工][200].
 * [asdf-dependency-graph](https://github.com/digikar99/asdf-dependency-graph/) - 围绕“点”的最小包装器，用于生成依赖关系图的图像.
@@ -720,7 +720,7 @@ Community
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  - debhelper 实用程序，让您几乎毫不费力地将基于 quicklisp 的 Common Lisp 代码编译成 .deb 中的 buildapp 二进制文件.  [麻省理工][200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  - 用于（命令行）常见 lisp 应用程序的自制公式生成器. 公共区域.
 * [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) - 一个 BuildStream 项目，用于为 Common Lisp 应用程序构建基于 Flatpak 的运行时环境.
-* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 和更高版本的 MacOSX 和 iOS 捆绑格式.
+* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 以及更高版本的 MacOSX 和 iOS 捆绑格式.
 
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，通用包管理器的插件.
@@ -859,7 +859,7 @@ URI 处理
 Javascript
 ----------
 
-* ⭐ [Parenscript](https://common-lisp.net/project/parenscript/)  - 从 Common Lisp 到 Javascript 的翻译器.  [3 条款 BSD][15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
+* ⭐ [Parenscript](https://common-lisp.net/project/parenscript/)  - 从 Common Lisp 到 Javascript 的翻译器.  [3 条款 BSD][15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种提供与浏览器实时交互的 Emacs 模式.[未授权][5].
   * [paren6](https://github.com/BnMcGn/paren6/) - 一组用于 Parenscript 的 ES6 宏.
 * [JSCL](https://github.com/jscl-project/jscl)  - 从第一天起就设计为自托管的 CL-to-JS 编译器. 缺少 CLOS、格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)  - 从 Javascript 到 Common Lisp 的翻译器. 在 Quicklisp 上不可用.  [外籍人士][14].
@@ -1231,7 +1231,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 
 这包含各种文本编辑器的插件和其他好东西.
 
-* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 它可用于许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）.
+* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）都可以使用它.
 
 ## Emacs ##
 
@@ -1345,7 +1345,7 @@ Lisp 版本的规范“Hello World!”的可执行文件
 使用维基百科数据的文本语言识别. 未指定许可证.
 * [cl-phonetic](https://github.com/bgutter/cl-phonetic)  - Common Lisp 的语音模式匹配库（旨在取代 Python 的 Sylvia 库）.  [麻省理工][200].
 * [cl-string-generator](https://github.com/pokepay/cl-string-generator)  - 从正则表达式生成字符串.  [麻省理工][200].
-* [trivial-sanitize](https://notabug.org/cage/trivial-sanitize)  - 清理 html 字符串：“ <a>foo</a> ”→“foo”.  [LLGPL][8].
+* [trivial-sanitize](https://notabug.org/cage/trivial-sanitize)  - 干净的 html 字符串：`&quot; <a>foo</a> &quot;` → `&quot;foo&quot;`.  [LLGPL][8].
 
 也可以看看：
 
@@ -1371,7 +1371,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].
@@ -1608,7 +1608,7 @@ Plotting
 -----------------
 
 * [cl-project](https://github.com/fukamachi/cl-project)  - 通用的现代项目框架.  [LLGPL][8].
-* [cl-project-with-docs](https://github.com/40ants/cl-project-with-docs)  - 使用 Sphinx 和重组文本来呈现漂亮且可读的 HTML 文档.  [BSD][15].
+* [cl-project-with-docs](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD][15].
 * [cl-cookieproject](https://github.com/vindarel/cl-cookieproject)  - 生成一个随时可用的 Common Lisp 项目. 不在 Quicklisp 中.  [BSD_3条款][15].
   * 测试定义、从源代码运行的入口点、构建二进制文件、Roswell 集成……
 

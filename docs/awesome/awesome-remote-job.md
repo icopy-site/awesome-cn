@@ -473,7 +473,7 @@
   101. [RightScale](https://www.flexera.com/about-us/careers.html)
   102. [Sangoma](https://www.sangoma.com/)  - 在提供全球可扩展的 IP 语音电话系统（现场和基于云）方面值得信赖的领导者.  C、PHP、Python、JavaScript、Linux、FreePBX、VoIP.
   103. [Scrapinghub](https://scrapinghub.com/jobs)
-  104. [SerpApi](https://serpapi.com/team)  - 用于访问 Google、Youtube、eBay 和其他搜索引擎的结构化搜索结果的实时 API.  Ruby、Rails、React.js.
+  104. [SerpApi](https://serpapi.com/team) - Real-time API to access structured search results of Google, Youtube, eBay and other search engines. Ruby, Rails, React.js.
   105. [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote)  - 企业云计算可提高服务水平、激励员工并改变企业的工作方式. 以光速工作.
   106. [ShakaCode](https://www.shakacode.com/career/) - 一家全球网络开发软件咨询和产品公司.
   107. [Shogun](https://getshogun.com/team)  - 构建和优化电子商务登陆页面.  Ruby/Rails、Go、JavaScript、React.  100% 远程.
@@ -502,7 +502,7 @@
   129. [TaxJar](https://www.taxjar.com/jobs/) - 消除令人头疼的销售税问题.
   130. [Teamed.io](https://www.teamed.io/)
   131. [TeamSnap](https://www.teamsnap.com/about/careers)  - TeamSnap 是排名第一的在线运动队管理软件.  80% 的远程员工
-  132. [TED](https://www.ted.com/about/our-organization/jobs-at-ted)  - 技术团队支持 ted.com 和内部工具. 所有工程师都是远程的.  Ruby on Rails、JavaScript、Ember.js
+  132. [TED](https://www.ted.com/about/our-organization/jobs-at-ted)  - 技术团队支持 ted.com 和内部工具. 所有的工程师都是远程的.  Ruby on Rails、JavaScript、Ember.js
   133. [Teleport](https://teleport.org/jobs/)
   134. [Tesera](https://tesera.com/)  - 我们打破传统思维以扩大可能性. 我们点燃我们共享的未来的变化.
   135. [The Grid](https://thegrid.io/)  - 人工智能网站建设者.  100% 分布式团队.
@@ -547,6 +547,7 @@
 1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作者.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 1. [Hypelance](https://hypelance.com/) - 自由职业者和企业家数字社区论坛.
+1. [Invide](https://invidelabs.com/developer.html) - 自 2016 年以来经验丰富的远程开发人员的邀请社区.还有一个 [public discord community](https://dsc.gg/invide) 对于新手.
 
 ## Conferences
  1. [DNX Global](https://www.dnxfestival.com/) - 数字游牧会议.

@@ -19,6 +19,7 @@
 - [Friday Front-end](https://zendev.com/friday-frontend.html) . 每周五 15 篇精彩的前端文章、教程和公告.  CSS/SCSS、JavaScript 和其他很棒的东西的部分. [Archive](https://zendev.com/category/friday-frontend.html).
 - [Unreadit/Frontend](https://unread.it/n/frontend/) . 最好的前端开发新闻来自最好的 subreddits.
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads) . 与用户界面开发相关的文章、教程、意见和工具的手工精选列表.
+- [Frontend Snacks](https://frontendsnacks.dev/) . 获取每周零食 - 一个代码片段，用于直观地教授复杂主题、最新的前端八卦/新闻和免费的职业开发工具包，这些工具包会在您的收件箱中新鲜发送.
 
 ### General Web Development
 
@@ -91,11 +92,11 @@
 - [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
 - [Web Designer News](https://www.webdesignernews.com) . 为设计师精心策划的故事.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 每周一次的免费的响应式设计文章、工具、技巧、教程和鼓舞人心的链接汇总.
-- [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
+- [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 关于界面可用性、网站设计和 UX 研究的最新文章.
 - [UI Movement](https://uimovement.com) . 只有最好的 UI 设计灵感，就在您的收件箱中.
 - [Designer News](https://www.designernews.co) . 设计界聚会的地方.
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章结合了来自品牌、艺术和平面设计领域的最佳现代表达和创新.
-- [Hack Design](https://hackdesign.org) . 一个简单易懂的设计课程，适合那些做令人惊奇的事情的人.
+- [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
@@ -108,7 +109,7 @@
 ### HTML5
 
 - [FrontEnd Focus](https://frontendfoc.us) . 每周一次的 HTML5 和 Web 平台技术综述.  CSS 3、Canvas、WebSockets、WebGL、Native Client 等.
-- [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
+- [Gamedev.js Weekly](http://gamedevjsweekly.com/) . 关于 HTML5 游戏开发的每周时事通讯.
 - [Phaser World](http://phaser.io/community/newsletter) . 每周时事通讯作为上周添加到 Phaser 网站的所有新内容（游戏发布、教程、视频等）的摘要.
 
 ### SVG
@@ -203,7 +204,7 @@
 
 - [Python Weekly](https://www.pythonweekly.com/) . 一份免费的每周时事通讯，其中包含与 Python 相关的精选新闻、文章、新版本、工作等.
 - [Pycoders Weekly](https://pycoders.com/) . 免费的每周电子邮件时事通讯，每周五为那些对 python 开发和 python 各种主题感兴趣的人提供.
-- [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 最流行的 Python 新闻、文章和包的每周概览.
+- [Awesome Python Newsletter](https://python.libhunt.com/newsletter). A weekly overview of the most popular Python news, articles and packages.
 - [Data Science Simplified](https://mathdatasimplified.com/) . 每日 Python 和数据科学片段.
 - [Python Morsels Newsletter](https://www.pythonmorsels.com/newsletter/) . 每周一个 Python 技巧，周三发送.
 
@@ -352,8 +353,8 @@
 ## Artificial Intelligence / Machine Learning / Big Data
 
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周时事通讯. [Archive](https://dataelixir.com/newsletters/).
-- [Artificial Intelligence Weekly](http://aiweekly.co/). A weekly collection of the best news and resources on Artificial Intelligence amd Machine Learning.
-- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻每周综述.
+- [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
+- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻的每周综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和犯规. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收由机器学习专业人士策划的开源框架、教程和文章的更新. 深入了解机器学习的可解释性、可重复性、模型评估、特征分析等方面的最佳实践、工具和技术.
@@ -379,6 +380,7 @@
 
 - [Software Lead Weekly](https://softwareleadweekly.com/) . 关于公司文化、领导力和一般构建软件的有见地的文章.
 - [Tech Lead Digest](https://techleaddigest.net/) . 每周时事通讯，其中包含五个关于团队建设、领导力和工程文化的有趣故事.
+- [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/) . 关于可操作的领导技巧的每周快餐，一个深入挖掘的免费工具箱，可帮助您成为出色的领导者.
 
 ## Marketing
 
@@ -414,7 +416,7 @@
 - [HN Mail](https://hnmail.io) . 可定制的每周时事通讯，根据您的兴趣提供 Hacker News 故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师心态的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周一次的时事通讯，其中包含与机器人技术相关的新闻、项目和研究.
-- [Future Crunch](https://futurecrunch.com) . 每两周一次的时事通讯，包含您在科学、环境和世界各地听不到的所有好消息. 你可以看到他们的好消息 [here](https://futurecrun.ch/goodnews).
+- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
 
 ## Resilience
 
@@ -437,11 +439,11 @@
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周时事通讯，汇集了初创公司生态系统中的最佳资源.
 - [Changelog Nightly](https://changelog.com/nightly) . 每晚 10 点 CT 发送一封电子邮件，发掘 GitHub 上最热门的新存储库.
-- [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
+- [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) .  Linux 内核邮件列表线程的每周综述，但带有更多讽刺意味.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中选择了一个订阅者，该订阅者的电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
-- [Startup Watching](https://startupwatching.com/). Curated knowledge, inspiration and background stories for startups. Delivered to your inbox every Monday and Thursday.
+- [Startup Watching](https://startupwatching.com/) . 为初创企业精选的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳 Reddit 帖子的有关创业、成长、投资和初创公司的前沿新闻.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.

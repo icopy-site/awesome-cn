@@ -14,26 +14,28 @@
 ## Projects
 ### API Management
 *API 管理解决方案.*
-- [Akana API Management Platform](https://www.akana.com/products/api-platform)  ——加快数字化转型. 管理完整的 API 生命周期. 跨多个云部署. 并确保合规.
-- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 将 API 管理和集成功能结合到 Mulesoft 的单一平台中.
-- [Amazon API Management](https://aws.amazon.com/api-gateway/api-management/) - API 管理策略允许您以安全和可扩展的方式监控和管理 API.
-- [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台.
-- [Apigee](https://cloud.google.com/apigee) - 来自 Google 的 API 管理解决方案.
-- [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - 适用于所有环境的 API 的混合多云管理平台.
-- [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 一个完整的包，可帮助管理您的 API，并将它们变成推动您的业务向前发展的工具，作者：Torry Harris.
-- [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量级和超快的开源解决方案.
-- [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，可让您跨云创建、公开、管理 API 并从中获利.
-- [Kong Enterprise](https://konghq.com/products/kong-enterprise) - The service connectivity platform.
-- [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理.
-- [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 云原生开发变得更简单、更灵活.
-- [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台.
-- [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - 可部署在任何地方并从任何地方管理 API 的云原生 API 平台.
-- [Tyk API Management](https://tyk.io/api-lifecycle-management/) - 连接、构建和控制.
-- [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html)  - 用于全生命周期 API 管理的 Software AG 产品是 webMethods API 管理. 平台（用于本地部署）和 webMethods.io API（用于云）.
-- [WSO2 API Manager](https://wso2.com/api-manager/) - 完全开源的 API 管理平台.
+- [Akana API Management Platform](https://www.akana.com/products/api-platform) - 一个综合平台，可加速数字化转型，管理完整的 API 生命周期，并在跨多个云部署时确保合规性.
+- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 来自 Mulesoft 的单一统一平台，结合了 API 管理和集成功能，让您可以轻松设计、构建和管理 API.
+- [Amazon API Management](https://aws.amazon.com/api-gateway/api-management/) - 一种安全且可扩展的 API 管理解决方案，使您能够以灵活高效的方式监控和管理 API.
+- [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台，提供全面的 API 管理能力，让您轻松构建、运行和管理 API.
+- [Apigee](https://cloud.google.com/apigee) - 来自 Google 的领先 API 管理解决方案，提供全面的 API 管理功能，可帮助您轻松创建、保护和扩展 API.
+- [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - 适用于所有环境的 API 的混合多云管理平台，使您能够轻松管理 API、保护它们并深入了解它们的性能.
+- [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 来自 Torry Harris 的完整软件包，可帮助您管理 API 并将它们转化为可以推动业务发展的工具.
+- [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量、开源的API管理解决方案，提供全面的API管理能力，帮助您轻松管理API.
+- [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，允许您跨云创建、公开、管理 API 并从中获利.
+- [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 全面的服务连接平台，提供丰富的API管理能力，让您轻松管理API、微服务和服务网格.
+- [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理解决方案，提供全面的 API 管理功能并帮助您在 API 的整个生命周期内对其进行管理.
+- [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 一个云原生的API管理方案，简化API的开发，让API更加灵活.
+- [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台，提供完善的API管理能力，帮助您对API进行全生命周期管理.
+- [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - 来自 TIBCO 的云原生 API 平台，使您能够在任何地方部署 API 并从任何地方管理它们.
+- [Tyk API Management](https://tyk.io/api-lifecycle-management/) - 强大的 API 管理解决方案，让您轻松连接、构建和控制 API.
+- [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - 来自 Software AG 的全面 API 管理解决方案，提供完整的生命周期 API 管理功能，使您能够在本地和云环境中管理 API.
+- [WSO2 API Manager](https://wso2.com/api-manager/) - 完全开源的API管理平台，提供全面的API管理能力，让您轻松管理API.
 
 ### API Design
 *API 设计、文档和生命周期自动化工具.*
+- [Dredd](https://github.com/apiaryio/dredd) - 一种与语言无关的命令行工具，用于根据 API 的后端实现验证 API 描述文档.
+- [OpenAPI-GUI](https://github.com/Mermade/openapi-gui) - 用于设计和验证 OpenAPI 规范的图形用户界面.
 - [OpenAPI Diff](https://github.com/OpenAPITools/openapi-diff) - 比较两个 OpenAPI 规范 (3.x) 并将差异呈现为 HTML 纯文本或 Markdown 文件.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - 允许在给定 OpenAPI 规范（支持 2.0 和 3.0）的情况下自动生成 API 客户端库（SDK 生成）、服务器存根、文档和配置.
 - [OpenAPI Style Validator](https://github.com/OpenAPITools/openapi-style-validator) - 可自定义的样式验证器，以确保您的 OpenAPI 规范符合您组织的标准.
@@ -54,17 +56,17 @@
 
 
 ### API Gateway
-*API Gateways.*
-- [Apinto](https://github.com/eolinker/goku) - 基于Golang的微服务网关，支持高性能动态路由、服务编排、多租户管理、API访问控制等.
-- [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - Kubernetes 原生 API 网关.
-- [Apache APISIX](https://apisix.apache.org) - 动态、实时、高性能的 API 网关.
-- [Gloo Edge](https://www.solo.io/products/gloo-edge/) - 基于 Envoy 代理的 API 网关.
-- [Kong API Gateway](https://github.com/Kong/kong) - 云原生、平台不可知、可扩展的 API 网关以其通过插件的高性能和可扩展性而著称.
-- [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - 带有中间件的超高性能 API 网关.
-- [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET API 网关.
-- [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) - API 网关建立在 Spring 生态系统之上，包括：Spring 5、Spring Boot 2 和 Project Reactor.
-- [Traefik](https://github.com/traefik/traefik)  - 一个现代的开源 API 网关，旨在处理动态容器环境，例如 Kubernetes、Docker Swarm 和 Mesos. 它提供负载平衡、SSL/TLS 终止、速率限制、熔断等功能.
-- [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - 开源企业 API 网关，支持 REST、GraphQL、TCP 和 gRPC 协议.
+*API 网关.*
+- [Apinto](https://github.com/eolinker/goku) - 基于 Golang 的微服务网关，提供动态路由、服务编排、多租户管理和 API 访问控制.
+- [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - 一个 Kubernetes 原生 API 网关，通过其可定制的路由、身份验证和速率限制功能帮助大规模管理 API.
+- [Apache APISIX](https://apisix.apache.org) - 一个动态、实时和高性能的 API 网关，它利用 Apache 插件来增强功能.
+- [Gloo Edge](https://www.solo.io/products/gloo-edge/) - 基于 Envoy 代理的 API 网关，为现代微服务架构提供高级流量管理、安全性和可观察性功能.
+- [Kong API Gateway](https://github.com/Kong/kong) - 云原生、平台不可知且可扩展的 API 网关，支持插件以便与第三方服务轻松集成.
+- [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - 超高性能 API 网关，利用中间件进行快速高效的 API 管理.
+- [Ocelot](https://github.com/ThreeMammals/Ocelot) - 一个 .NET API 网关，通过其直观的路由和中间件配置提供了一种简单而优雅的 API 管理方式.
+- [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) - 构建在 Spring 生态系统之上的 API 网关，为 Spring 应用程序提供高级路由和过滤功能.
+- [Traefik](https://github.com/traefik/traefik)  - 一个现代的开源 API 网关，旨在处理动态容器环境，例如 Kubernetes、Docker Swarm 和 Mesos. 它提供负载均衡、SSL/TLS 终止、速率限制、熔断等功能.
+- [Tyk API Gateway](https://github.com/TykTechnologies/tyk)  - 支持 REST、GraphQL、TCP 和 gRPC 协议的开源企业 API 网关. 它提供高级 API 管理功能，例如速率限制、访问控制和分析.
 
 ### API Testing
 *API 测试工具.*
@@ -94,7 +96,7 @@
   - [Apache JMeter](https://jmeter.apache.org/) - 一个开源的基于 java 的负载测试工具.
   - [Karate](https://github.com/intuit/karate) - 将 API 测试自动化、模拟、性能测试甚至 UI 自动化组合到一个统一框架中的开源工具.
   - [Pyresttest](https://github.com/svanoort/pyresttest) - REST 测试和 API 微基准测试工具.
-  - [REST Assured](https://github.com/rest-assured/rest-assured) - 用于轻松测试 REST 服务的 Java DSL.
+  - [REST Assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
   - [Schemathesis](https://github.com/schemathesis/schemathesis) - API 模式的基于属性的测试.
 
 ### BRE
@@ -120,7 +122,7 @@
 *数据映射解决方案.*
 - [AltasMap](https://www.atlasmap.io/) - 具有基于 Web 的交互式用户界面的数据映射解决方案，可简化 Java、XML、CSV 和 JSON 数据源之间的配置集成.
 - [Altova MapForce](https://www.altova.com/mapforce) - 用于任意转换和集成的图形数据映射工具.
-- [JOLT](https://github.com/bazaarvoice/jolt) - 用 Ja​​va 编写的 JSON 到 JSON 转换库，其中转换的“规范”本身就是一个 JSON 文档.
+- [JOLT](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
 - [JSLT](https://github.com/schibsted/jslt)  - 完整的 JSON 查询和转换语言. 语言设计灵感来自 jq、XPath 和 XQuery.
 
 ### ESB
@@ -164,7 +166,7 @@
 - [Dell Boomi AtomSphere](https://boomi.com/platform) - 通过云原生的、统一的、开放的、智能的平台连接每个人和任何事物.
 - [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - 将数以千计的应用程序与预建模板和工作流集成在一起，以自动化您的业务流程.
 - [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - 人工智能驱动的集成方法.
-- [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - 多种云数据管理产品，旨在提高生产力并提高速度和规模.
+- [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - Multiple cloud data management products designed to accelerate productivity and improve speed and scale.
 - [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/)  - 企业数据管理，组织超越基本集成，将数据转化为洞察力和行动. 以前称为联络合金平台.
 - [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - 通过与任何 SaaS 或本地应用程序的预建连接加快上线时间.
 - [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - 连接您的应用程序和数据环境.
@@ -187,11 +189,11 @@
 - [CloudAMQP](https://www.cloudamqp.com/) - RabbitMQ 即服务.
 - [CloudKarafka](https://www.cloudkarafka.com/) - 在 AWS 和谷歌云上提供经济实惠、直接、完全托管的 Kafka 集群.
 - [Google Cloud Pub/Sub](https://cloud.google.com/pubsub) - 事件驱动系统和流分析的消息传递和摄取.
-- [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - 一种完全托管的高性能消息队列服务，可在分布式应用程序之间实现可靠、灵活和异步的通信.
+- [Huawei Cloud Distributed Message Service](https://www.huaweicloud.com/intl/en-us/product/dms.html) - A fully managed, high-performance message queuing service that enables reliable, flexible, and asynchronous communication between distributed applications.
 - [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - 托管 Apache Kafka 服务.
 - [IBM MQ on Cloud](https://www.ibm.com/cloud/mq) - 在企业应用程序、系统和服务之间轻松移动数据.
 - [IronMQ](https://www.iron.io/mq) - 专门针对云创建的弹性消息队列.
-- [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A real-time, serverless, Apache Kafka-compatible event streaming platform.
+- [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - 一个实时的、无服务器的、与 Apache Kafka 兼容的事件流平台.
 - [Solace PubSub+ Cloud](https://solace.com/products/platform/cloud/) - 一个完整的事件流、管理和洞察平台.
 - [Yandex Message Queue](https://cloud.yandex.com/en/services/message-queue) - 与 Amazon SQS HTTP API 的兼容性.
 - [Yandex Managed Service for Apache Kafka](https://cloud.yandex.com/en/services/managed-kafka) - 托管 Apache Kafka 服务.
@@ -207,9 +209,9 @@
 
 ### Master Data Management
 *主数据管理解决方案.*
-- [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive master data management.
+- [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - 全面的主数据管理.
 - [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - 多合一的主数据管理.
-- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - 通过管理主数据更快、更有效地适应和响应变化.
+- [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Adapt and respond to change faster and more effectively by managing your master data.
 - [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - 通过整合和集中管理主数据生命周期，提高整个组织的信息质量和一致性.
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - 提供单一、准确和统一的公司数据视图，将来自各种数据源的信息集成到一个主记录中.
 - [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - 在数据方面提供“单一版本的事实”，确保只有可靠、准确和经过批准的信息才能流经您的系统、流程和应用程序.
@@ -245,23 +247,24 @@
 *任何自助服务和公民集成工具.*
 
 - [IFTTT](https://ifttt.com/) - 允许在 Web 服务之间创建条件语句链，以使 Web 为您工作并提高您的工作效率.
+- [Microsoft Power Automate](https://powerautomate.microsoft.com) - 基于云的服务，使用户能够跨不同的应用程序和服务创建自动化工作流程.
 - [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - 自动化云应用程序之间的任务.
 - [Zapier](https://zapier.com/) - 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化.
 
 ### Workflow engine
 *工作流和编排引擎.*
-- [Activiti](https://github.com/Activiti/Activiti) - 一个轻量级和以 java 为中心的开源 BPMN 引擎.
-- [Apache Airflow](https://github.com/apache/airflow) - 一个以编程方式创作、安排和监控工作流的平台.
-- [Argo Workflows](https://github.com/argoproj/argo-workflows) - 用于在 Kubernetes 上编排并行作业的开源容器原生工作流引擎.
-- [Azkaban](https://github.com/azkaban/azkaban) - 分布式工作流管理器，在 LinkedIn 实现，用于解决 Hadoop 作业依赖性问题.
-- [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有可选开发环境、设计器、可选用户界面和管理工具的 BPMN 引擎.
-- [Cadence](https://github.com/uber/cadence) - 容错状态代码平台.
-- [Camunda](https://github.com/camunda/camunda-bpm-platform) - 开源工作流和决策自动化平台.
-- [Conductor](https://github.com/Netflix/conductor) - Netflix Conductor 是一个在云端运行的编排引擎.
-- [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 支持在任何 .NET Core 应用程序中执行工作流的工作流库.
-- [Flowable](https://github.com/flowable/flowable-engine) - 提供一套核心的开源业务流程引擎，紧凑高效.
-- [jBPM](https://www.jbpm.org/) - 用于构建业务应用程序以帮助自动化业务流程和决策的工具包.
-- [StackStorm](https://github.com/StackStorm/st2)  - 提供传感器、触发器、规则、工作流和操作的强大自动化引擎.  StackStorm 是您将应用程序“粘合”在一起的方式.
+- [Activiti](https://github.com/Activiti/Activiti) - 用于执行 BPMN（业务流程模型和表示法）工作流的轻量级和以 Java 为中心的开源引擎.
+- [Apache Airflow](https://github.com/apache/airflow) - 一个平台，允许您以编程方式创建、安排和监控工作流，从而更轻松地管理和自动化复杂的数据管道.
+- [Argo Workflows](https://github.com/argoproj/argo-workflows) - 一个开源的容器原生工作流引擎，旨在在 Kubernetes 上编排并行作业，从而更轻松地在云原生环境中管理和自动化复杂的工作流.
+- [Azkaban](https://github.com/azkaban/azkaban) - 一个分布式工作流管理器，帮助解决Hadoop作业依赖问题，使得在大规模数据处理环境中更容易调度和管理工作流.
+- [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有设计器和可选开发环境的开源 BPMN 引擎，可以更轻松地构建和自动化复杂的业务流程.
+- [Cadence](https://github.com/uber/cadence) - 一个容错的、有状态的代码平台，可以更轻松地构建和管理复杂的、长时间运行的应用程序.
+- [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台，可帮助您以灵活且可扩展的方式自动化业务流程和决策.
+- [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在运行和管理微服务架构中的工作流.
+- [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个库，可以在任何 .NET Core 应用程序中执行工作流，从而更容易在 .NET 环境中自动化业务流程.
+- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式实现业务流程自动化.
+- [jBPM](https://www.jbpm.org/) - 用于构建业务应用程序的工具包，可帮助您自动化业务流程和决策，从而更轻松地管理复杂的工作流程.
+- [StackStorm](https://github.com/StackStorm/st2) - 一个强大的自动化引擎，提供传感器、触发器、规则、工作流和操作，以帮助您自动化和编排复杂的工作流和应用程序.
 
 ## Resources
 *一些有用的规范、模式、文章和文档.*
@@ -322,10 +325,10 @@
 - [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示消息何时应被视为过时且因此不应处理？
 - [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - 使用不同数据格式的系统如何使用消息传递相互通信？  
 - [Message Broker](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html) - 如何将消息的目的地与发送者分离并保持对消息流的集中控制？
-- [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么是使独立的应用程序能够一起工作的体系结构，但以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序？  
+- [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么架构可以让独立的应用程序协同工作，但又以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序？  
 - [Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageChannel.html) - 一个应用程序如何使用消息传递与另一个应用程序通信？
 - [Message Endpoint](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageEndpoint.html) - 应用程序如何连接到消息通道以发送和接收消息？
-- [Message Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html) - 组件如何避免接收无趣的消息？
+- [Message Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html) - How can a component avoid receiving uninteresting messages?
 - [Message History](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageHistory.html) - 我们如何有效地分析和调试松散耦合系统中的消息流？  
 - [Message Router](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageRouter.html) - 如何解耦各个处理步骤，以便根据一组条件将消息传递到不同的过滤器？
 - [Message Sequence](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSequence.html) - 消息传递如何传输任意大量的数据？

@@ -173,7 +173,7 @@
 
 ## Calendar
 
-* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET 是 .NET 的 iCalendar (RFC 5545) 类库，旨在提供 RFC 5545 合规性，同时提供与流行日历应用程序和库的完全兼容性.
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET 是一个用于 .NET 的 iCalendar (RFC 5545) 类库，旨在提供 RFC 5545 合规性，同时提供与流行的日历应用程序和库的完全兼容性.
 
 ## Chat
 
@@ -466,7 +466,7 @@
 * [ScottPlot](https://swharden.com/scottplot/)  - 交互式显示大型数据集的绘图库. 折线图、条形图、饼图、散点图等. 它支持 WinForms、WPF、Avalonia、控制台.
 * [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)  - .Net 的简单、灵活、交互式且功能强大的图表、地图和仪表.  LiveCharts2 支持 WPF、WinForms、Xamarin、Avalonia、WinUI、UWP.
 * [Helix Toolkit](https://www.helix-toolkit.org) - Helix Toolkit 是 .NET 的 3D 组件集合
-* [AssimpNet](https://bitbucket.org/Starnick/assimpnet)  - Open Asset Importer（“Assimp”）的跨平台 .NET 标准包装器. 该库支持导入、处理和导出 3D 模型，以便在图形/游戏应用程序中进行渲染. 支持导入 40 多种格式（例如 OBJ、FBX、GLTF、3DS、Collada），并且可以导出这些格式的子集（例如 OBJ、GLTF、3DS、Collada）. 网格处理功能允许生成或优化网格数据以进行实时渲染.
+* [AssimpNet](https://bitbucket.org/Starnick/assimpnet)  - Open Asset Importer（“Assimp”）的跨平台 .NET 标准包装器. 该库支持导入、处理和导出 3D 模型，以便在图形/游戏应用程序中进行渲染. 支持导入超过 40 种格式（例如 OBJ、FBX、GLTF、3DS、Collada），并且可以导出这些格式的子集（例如 OBJ、GLTF、3DS、Collada）. 网格处理功能允许生成或优化网格数据以进行实时渲染.
 * [Silk.NET](https://github.com/Ultz/Silk.NET)  - 一个跨平台、高性能、低级别的 .NET 标准包装器，适用于许多高级 API，例如 OpenGL、OpenCL、OpenAL、OpenXR、Assimp、GLFW 以及许多其他 API. 除了包装本机 API 之外，它还带有自己的窗口和输入抽象. 这使得使用 Silk.NET 进行游戏和应用程序开发变得轻而易举，并且几乎拥有 3D 应用程序开发人员所需的一切.
 * [Veldrid](https://github.com/mellinoe/veldrid) - 用于 .NET 的低级便携式图形和计算库
 * [RealTimeGraphX](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX 是一个数据类型不可知的高性能绘图库，适用于 WPF、UWP 以及即将推出的 Xamarin Forms.
@@ -508,7 +508,7 @@
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单、直接、超薄的 CLR 库，用于具有自动化、窗口、DirectX、OpenGL 和 Skia 助手的高性能 Win32 Native Interop.
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - 使用 HTML、CSS、javascript 和 MVVM 绑定（例如 WPF）构建 .NET 桌面应用程序.
 * [Ooui](https://github.com/praeclarum/Ooui) - 一个小型的跨平台 UI 库，将原生 UI 开发的简单性带到了网络上
-* [AdonisUI](https://github.com/benruehl/adonis-ui) - 用于 WPF 应用程序的轻型 UI 工具包，提供经典但增强的 Windows 视觉效果.
+* [AdonisUI](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 * [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI 库 (WinUI) 为 Windows UWP 应用程序提供官方原生 Microsoft UI 控件和功能.
 * [Bunifu UI Framework](https://bunifuframework.com)  - 精心制作的 Winforms 控件和组件，用于创建令人惊叹的现代应用程序 UI.  **[$]**
 * [Ookii.Dialogs.Wpf](https://github.com/augustoproiete/ookii-dialogs-wpf) - 使 WPF 应用程序能够访问常见的 Windows 对话框，例如任务对话框、凭据对话框、进度对话框、文件夹浏览器对话框等
@@ -545,7 +545,7 @@
 * [Visual Studio Express](https://visualstudio.microsoft.com/vs/express/) - 用于 .NET 编程的免费轻量级 Visual Studio 版本.
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - 功能齐全的 IDE
 * [Waf DotNetPad](https://jbe2277.github.io/dotnetpad/) - A simple and fast code editor that makes fun program with C# or Visual Basic.
-* [Visual Studio Code](https://code.visualstudio.com/) - Excellent open source editor from Microsoft, based on Electron.
+* [Visual Studio Code](https://code.visualstudio.com/) - 来自微软的优秀开源编辑器，基于 Electron.
 * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
@@ -612,7 +612,7 @@
 * [Lamar](https://jasperfx.github.io/lamar/) - 一个快速的 IoC 容器，针对 ASP.NET Core 和其他 .NET 服务器端应用程序的使用进行了高度优化.
 * [LightInject](https://github.com/seesharper/LightInject) - 一个超轻量级的 IoC 容器
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) - Simple Injector 是一个易于使用的依赖注入 (DI) 库，适用于 .NET 4+，支持 Silverlight 4+、Windows Phone 8、Windows 8，包括通用应用程序和 Mono.
-* [Microsoft.Extensions.DependencyInjection](https://github.com/aspnet/DependencyInjection) - ASP.NET Core 应用程序的默认 IoC 容器.
+* [Microsoft.Extensions.DependencyInjection](https://github.com/dotnet/runtime/tree/main/src/libraries/Microsoft.Extensions.DependencyInjection) - NET 应用程序的默认 IoC 容器.
 * [Scrutor](https://github.com/khellang/Scrutor) - Microsoft.Extensions.DependencyInjection 的程序集扫描扩展.
 * [VS MEF](https://github.com/Microsoft/vs-mef) - Visual Studio 使用的托管可扩展性框架 (MEF) 实现.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) - 一个易于使用、无忧无虑的反转控制容器，适用于小型项目、图书馆和初学者.
@@ -650,10 +650,10 @@
 * [ZeroLog](https://github.com/Abc-Arbitrage/ZeroLog)  - ZeroLog 是一个零分配 .NET 日志库. 它提供了基本的日志记录功能，可用于对延迟敏感的应用程序，在这些应用程序中不需要垃圾收集.
 
 ## Machine Learning and Data Science
-* [Infer.NET](https://dotnet.github.io/infer/)  - 在图形模型中运行贝叶斯推理的框架. 它还可以用于概率编程.
+* [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 * [Accord.NET](http://accord-framework.net/) - 结合音频和图像处理库（计算机视觉、计算机试听、信号处理和统计）的机器学习框架.
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - 高级图像处理和计算机视觉算法作为流畅的扩展.
-* [AForge.NET](http://www.aforgenet.com/) - 计算机视觉和人工智能领域（图像处理、神经网络、遗传算法、机器学习、机器人）的开发人员和研究人员的框架.
+* [AForge.NET](http://www.aforgenet.com/) - 计算机视觉和人工智能领域（图像处理、神经网络、遗传算法、机器学习、机器人技术）的开发人员和研究人员的框架.
 * [Catalyst](https://github.com/curiosity-ai/catalyst) 受 spaCy 启发的跨平台自然语言处理 (NLP) 库，具有预训练模型、对训练词和文档嵌入的开箱即用支持以及灵活的实体识别模型. 的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 * [Deedle](https://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
@@ -768,7 +768,7 @@
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  - 一个小巧但功能强大的框架，专为跨所有 XAML 平台构建应用程序而设计. 它对 MV* 模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速在 WPF、Silverlight、Windows Store (RT) 和 Windows Phone 中创建和开发 MVVM 应用程序
 * [Catel](https://www.catelproject.com/)  - Catel 是一个应用程序开发平台，专注于 MVVM（WPF、Silverlight、Windows Phone 和 WinRT）和 MVC（ASP.NET MVC）.  Catel 的核心包含 IoC 容器、模型、验证、备忘录、消息中介、参数检查等.
-* [UpdateControls](https://updatecontrols.net/cs/)  - 更新控件不需要您实施 INotifyPropertyChanged 或声明 DependencyProperty. 它将控件直接连接到 CLR 属性. 这使得它非常适合 Model/View/ViewModel 模式.
+* [UpdateControls](https://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于 .NET 的 MVVM 框架集成了 Reactive Extensions (Rx) 框架，使开发人员能够使用 WPF、Windows Store Apps、WP8 或 Xamarin 构建优雅、可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 一个以应用程序为中心的 MVVM 框架，适用于 Windows 8.1，构建时考虑了依赖注入，包括一整套 Visual Studio MVVM 模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 跨平台桌面和移动 MVVM 开发框架.
@@ -810,6 +810,10 @@
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - 微型 Excel 助手避免 OOM 和高性能来创建/映射/模板填充数据.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET 文本提取框架支持一些文件格式
 
+## OpenAI
+
+* [Cledev.OpenAI](https://github.com/lucabriguglia/Cledev.OpenAI) - 用于 OpenAI 的 .NET SDK，包括 ChatGPT、DALL-E 和 Whisper API 以及 Blazor Server 游乐场.
+
 ## ORM
 
 * [Entity Framework 6](https://github.com/dotnet/ef6) - 对象关系映射器，使 .NET 开发人员能够使用特定于域的对象来处理关系数据
@@ -833,7 +837,7 @@
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - 使用 SQL 片段且不需要模型类的混合 ORM.
 * [LLBLGen Pro](https://www.llblgen.com)  - Entity Framework、NHibernate、Linq to SQL 及其自身的 ORM 框架的实体建模解决方案：LLBLGen Pro Runtime Framework.  **[$][免费精简版]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database 是一种用于 .NET 的快速、轻量级的微型 ORM
-* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 数据访问框架，重点关注查询组合、粒度和代码美学.
+* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 高度关注查询组合、粒度和代码美学的数据访问框架.
 * [SmartSql](https://github.com/dotnetcore/SmartSql)  - SmartSql = MyBatis + Cache（内存 |  Redis）+ ZooKeeper + R/W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - .NET 的混合 ORM 库.
 * [Venflow](https://github.com/TwentyFourMinutes/Venflow) - 用于 PostgreSQL 的超快速轻量级 ORM.
@@ -1004,7 +1008,7 @@
 
 * [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - 关于风格指南的 StackOverflow 问答
 * [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
-* [C# Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - list of problematic asynchronous patterns for .NET Core with an explanation of how to solve those issues
+* [C# Async Guidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) - .NET Core 的有问题的异步模式列表以及如何解决这些问题的解释
 
 ## Template Engine
 
@@ -1049,14 +1053,14 @@
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时又简单明了.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - .NET Core 和.NET Framework 快照测试工具
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - 将业务需求绑定到 .Net 代码
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的变异测试
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的突变测试
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - 用于使用自然语言描述测试的 xUnit.net 扩展.
 * [xUnit.net](https://github.com/xunit/xunit) - 适用于 .NET Framework 的免费、开源、以社区为中心的单元测试工具.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [ReportPortal](https://reportportal.io)  - 人工智能驱动的测试自动化仪表板. 获取、汇总和分析测试报告以确定版本健康状况.
 * [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)  - 使用反射对任意两个 .NET 对象进行深度比较. 显示两个对象之间的差异.
-* [Verify](https://github.com/VerifyTests/Verify) - 验证工具可以简单地批准复杂的模型和文档.
+* [Verify](https://github.com/VerifyTests/Verify) - 验证工具可以简单地批准复杂的模型和文件.
 * [CsCheck](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
 ## Tools

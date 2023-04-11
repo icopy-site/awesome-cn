@@ -64,7 +64,8 @@ Famously...
 ## Machine Learning
 
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) - 分类器“混淆”的表格总结，即它认为做出正确预测但实际上没有做出正确预测的频率.
-- [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary)  - 划分可能数据点空间的边界. 在这里你决定，这边的一切都是垃圾邮件，那一边的一切都不是. 
+- [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary)  - 划分可能数据点空间的边界. 在这里你决定，这边的一切都是垃圾邮件，那一边的一切都不是.
+- [Training](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets) - 向机器展示一堆示例的过程，直到它从中学习到我们想要的东西.
 
 ## Programming Languages
 
@@ -97,7 +98,7 @@ Famously...
 
 - [a11y, i18n, k8s, ...](https://en.wikipedia.org/wiki/Numeronym) - 通过保留第一个和最后一个字母并在中间写下省略字母的数量来缩写长单词. 
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/)  - 描述竞争数据库意识形态的首字母缩略词（又名 SQL 与 NoSQL）. 请注意，酸和碱在化学上也是相反的.
-- [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - 显着限制吞吐量/性能的网络/应用程序的核心部分，理想情况下应将其消除.
+- [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
 - [Brick](https://en.m.wikipedia.org/wiki/Brick_(electronics)) - 当您的设备如此损坏时，它实际上变成了一块砖头.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Use_within_programming_languages) - 不同的案例风格，名称说明了它的外观.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - 一个隐藏的功能，特别是在视频游戏中与寻找复活节彩蛋相关的功能.
@@ -108,7 +109,7 @@ Famously...
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)  - 一个当你试图研究它时似乎消失或改变的错误. 这是对 Werner Heisenberg 的双关语，他发现观察量子系统的行为不可避免地会改变它们的状态.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - 一种评估策略，它暂停评估直到绝对必要，然后再也不会执行.
 - [Magic](https://en.wikipedia.org/wiki/Magic_(programming) ) - 一个神奇的程序/一段代码正在做它的工作，但没有人知道如何做. 就像在现实中一样，魔法实际上并不存在. 一旦你理解了它，它就不再是魔法了.
-- [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - A problem where a process is perpetually denied resources to do its work.
+- [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - 一个进程永远被拒绝资源来完成它的工作的问题.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - 通过源代码回到过去以了解执行情况，有时甚至可以更改历史记录.
 - [Tree shaking](https://en.wikipedia.org/wiki/Tree_shaking) - 摇动依赖树，直到所有死部分都脱落，你最终得到一棵漂亮的瘦树.
 - [Unfair enumeration](https://www.youtube.com/watch?v=CvLsVfq6cks&t=835s) - 输出所有偶数然后输出所有奇数的程序会生成不公平的自然数枚举，因为某些数字永远不会达到. 
