@@ -48,6 +48,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [augeas.cr](https://github.com/fernandes/augeas.cr) - 绑定 [Augeas](https://augeas.net/)
  * [clang.cr](https://github.com/crystal-lang/clang.cr) - libclang 绑定
  * [crt.cr](https://github.com/maiha/crt.cr) - libncursesw 和 crt 的绑定
+ * [crystal-gsl](https://github.com/konovod/crystal-gsl) - 绑定 [GNU Scientific Library](https://www.gnu.org/software/gsl/)
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - 绑定 [Duktape](https://github.com/svaarala/duktape) javascript引擎
  * [fftw.cr](https://github.com/firejox/fftw.cr) - 绑定 [FFTW](https://fftw.org/) 图书馆
@@ -211,7 +212,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [CrSFML](https://github.com/oprypin/crsfml) - 绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - 绑定到 [Chipmunk](http://chipmunk-physics.net/), 一个快速轻量级的 2D 游戏物理库
  * [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml) - 要集成的绑定 [Dear ImGui](https://github.com/ocornut/imgui) 进入一个 [SFML](https://www.sfml-dev.org/) 项目
- * [entitas.cr](https://github.com/spoved/entitas.cr) - Crystal 的实体组件系统框架
+ * [entitas.cr](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
  * [MyECS](https://github.com/konovod/myecs) - 一个用于 Crystal 的稀疏实体组件系统框架
  * [SDL-Crystal-Bindings](https://github.com/Hadeweka/SDL-Crystal-Bindings) - 直接（不安全）绑定到 [SDL2](https://www.libsdl.org/), 用于编写自己的游戏库
 
@@ -260,6 +261,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 一种用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 一种令人耳目一新的前端网络编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松高效地编写和理解
+ * [novika](https://github.com/novika-lang/novika) - 一种自由形式的、可塑的、解释性的编程语言
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Internationalization
@@ -289,11 +291,11 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [aasm.cr](https://github.com/veelenga/aasm.cr) - 易于使用的 Crystal 类有限状态机
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - 具有更好 JSON::Any 的递归哈希
  * [anyolite](https://github.com/Anyolite/anyolite) - 具有简单绑定的完整 mruby 解释器，允许在项目中轻松支持脚本
- * [burocracia.cr](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr 用于验证、生成和格式化巴西 burocracias（例如 CPF、CNPJ 和 CEP）的无依赖性分片
+ * [burocracia.cr](https://github.com/vinibrsl/burocracia.cr) - burocracia.cr the dependecyless shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - 富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 断路器模式的实现
  * [CrSignals](https://github.com/firejox/CrSignals) - 信号/槽通知库
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) - Crystal 的 Web 框架，在 Github 上获得最多的关注
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [defined](https://github.com/wyhaines/defined.cr) - 用于根据常量定义、版本要求或环境变量设置进行条件编译的宏
@@ -320,13 +322,13 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Crirc](https://github.com/Meoowww/Crirc) - IRC 协议实现（客户端、服务器、机器人）
  * [crystal-bacnet](https://github.com/spider-gazelle/crystal-bacnet) - 使用 BACnet/IP 客户端实现 BACnet 协议
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) - DNS 协议实现和解析器
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  - JSON 套接字客户端和服务器实现. 受其启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) - 一个 MQTT 客户端
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本 1、2c 和 3 的 SNMP 实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速 IRC 解析器/生成器
  * [jwt](https://github.com/crystal-community/jwt) - JWT（JSON Web Token）的实现
  * [mDNS](https://github.com/spider-gazelle/mdns) - DNS 服务发现和多播 DNS
- * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+ * [mqtt-client.cr](https://github.com/84codes/mqtt-client.cr) - 快速轻量级的 MQTT 客户端
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) - 消息包库
  * [OAuth](https://crystal-lang.org/api/OAuth.html) - OAuth 消费者（水晶标准库）
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) - OAuth2 客户端（水晶标准库）
@@ -486,7 +488,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
  * [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - 专用于 Crystal 编程语言的非官方 Discord 服务器
  * [Portuguese-speaking Telegram Group](https://t.me/crystalbrasil) - 欢迎来到水晶巴西！
- * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - 欢迎，同志！
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
 
 ## Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - 引导您的水晶之旅的免费书籍
@@ -516,7 +518,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
  * [procodile](https://github.com/crystal-china/procodile_cr) - 从 Procfile（用于生产和/或开发环境）在 Mac 和 Linux 的后台（和前台）运行进程
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools

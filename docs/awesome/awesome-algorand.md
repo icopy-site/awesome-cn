@@ -80,7 +80,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -166,7 +166,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 #### .NET
 
 - [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 由 [@RileyGe](https://github.com/RileyGe).
-- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
+- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 - [dotnet-alogrand-sdk (2)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK 维护者 [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
 - [dotnet-tinyman-sdk](https://github.com/geoffodonnell/dotnet-tinyman-sdk) - Tinyman .NET SDK.
@@ -240,7 +240,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### Nodes and Indexers
 
-- [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
+- [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - 存档节点、索引器设置（以及更多）的开发说明.
 - [AlgoNode](https://algonode.cloud) - 节点运行常见问题解答、节点/索引器每日快照、免费节点/索引器 API.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - 用于远程 Algorand 节点管理的终端 UI.
 - [SubQuery](https://subquery.network) - 用于 Algorand 的开放、快速、灵活和去中心化的跨链数据索引器（[getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
@@ -262,7 +262,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
 - [Dartroom](https://dartroom.xyz/overview) - 去中心化 NFT 浏览器、铸造和交易.
 - [Alchemon](https://alchemon.net/) - 怪物收集 NFT 纸牌游戏.
-- [Otherverse](https://otherverse.io/) - NFT collections marketplace.
+- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
 - [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
 - [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏品市场.
 - [Dahai](https://www.dahai.uk/) - NFT 艺术画廊和市场.
@@ -280,7 +280,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
 - [Pact](https://www.pact.fi/) - 基于 Algorand 协议构建的去中心化自动做市商 (AMM).
 - [Lofty.ai](https://www.lofty.ai/) - 代币化房地产投资平台.
-- [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
+- [Folks.finance](https://folks.finance/) - 去中心化资本市场协议.
 - [C3](https://c3.io/) - 交叉保证金交叉抵押清算引擎协议.
 - [Cometa.farm](https://cometa.farm/) - 去中心化的流动性即服务.
 
@@ -295,6 +295,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
 - [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地转移到生产环境或主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，这样您就可以自信地利用安全性作为这个动态市场中的强大差异化因素.
 - [algorand-ecosystem-audits](https://github.com/blockshake-io/algorand-ecosystem-audits) - 由 Algorand 生态系统维护的越来越多的审计报告集合 [blockshake-io](https://blockshake.io).
+- [Vantage Point Blockchain](https://www.vantagepoint.sg/contact-us)  - Algorand 生态系统中的智能合约审计、加密钱包审计和其他渗透测试服务，客户包括 Folks.Finance、Pera、Algorand Foundation、Deflex (Defly/Alammex)、GARD、Venue.One 等. 报告由 velocity.vantagepoint.algo 签名并发布在 https://github.com/vantagepointreports/releases 上.
 
 ## Blockchain Bridges
 
@@ -336,7 +337,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [TinyBar App](https://tinybar.app) - 一个微型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
-- [algorealm](https://github.com/algorealm/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
+- [algorealm](https://github.com/algorealm/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
 - [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的网络 CLI 模拟器版本.
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的大量铸造 Algorand NFT. 由 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).

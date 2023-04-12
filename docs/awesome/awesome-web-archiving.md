@@ -119,7 +119,9 @@
 * [py-wasapi-client](https://github.com/unt-libraries/py-wasapi-client)  - 从 WASAPI (Python) 下载爬行的命令行应用程序.  *（稳定的）*
 * [tikalinkextract](https://github.com/httpreserve/tikalinkextract)  - 从 Apache Tika（Golang，Apache Tika 服务器）可以解析的文档类型的文件夹中提取超链接作为 Web 存档的种子.  *（开发中）*
 * [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader)  - 用于从 WASAPI 下载爬行的 Java 命令行应用程序.  *（稳定的）*
+* [Warchaeology](https://nlnwa.github.io/warchaeology/)  - Warchaeology 是一组用于检查、操作、删除重复数据和验证 WARC 文件的工具.  *稳定的*
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner)  - 按 MIME 类型和年份对 (W)ARC 文件进行分区.  *（稳定的）*
+* [warcrefs](https://github.com/arcalex/warcrefs)  - Web 存档重复数据删除工具.  *稳定的*
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - 用于在 Hadoop、EMR 或本地文件系统上批量索引 WARC/ARC 文件的工具.
 * [wikiteam](https://github.com/WikiTeam/wikiteam)  - 用于下载和保存维基的工具.  *（稳定的）*
 

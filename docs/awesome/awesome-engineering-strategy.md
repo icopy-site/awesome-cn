@@ -3,7 +3,7 @@
 
 &gt; 如何为技术领导设计和执行工程战略.
 
-工程策略是社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
+工程策略是由社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
 
 欢迎投稿！ 查看将项目添加到列表的贡献指南.
 
@@ -38,6 +38,7 @@
 - [Strategy glossary](https://alexewerlof.substack.com/p/strategy-glossary) - 为愿景、使命、目标、目的、路线图、计划、里程碑、政策建立共同语言.
 - [Strategy basics](https://alexewerlof.substack.com/p/strategy-basics) - 关于战略原因、方式和内容的系列文章的第一篇.
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/) - 关于如何编写和记录工程策略的指南.
+- [Architecture Modernization Enabling Teams (AMET)](https://esilva.net/articles/architecture-modernization-enabling-team) - 解释 AMET 如何在现代化计划中协调和提升所有团队和利益相关者的技能.
 
 ## Videos
 

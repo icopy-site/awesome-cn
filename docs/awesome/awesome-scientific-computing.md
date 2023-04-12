@@ -78,7 +78,7 @@ them.
   （蟒蛇，麻省理工学院， [GitHub](https://github.com/inducer/meshpy))
 - [CGAL](https://www.cgal.org) - 计算几何算法.
   （C++，混合 LGPL/GPL， [GitHub](https://github.com/CGAL/cgal))
-- [pygalmesh](https://github.com/nschloe/pygalmesh) - 用于 CGAL 的 3D 网格划分功能的 Python 接口.
+- [pygalmesh](https://github.com/meshpro/pygalmesh) - 用于 CGAL 的 3D 网格划分功能的 Python 接口.
   （Python、GPL 3、GitHub）
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - 优质四面体网格生成器和 3D Delaunay 三角剖分器.
   （C++，AGPLv3）
@@ -88,8 +88,8 @@ them.
   （MATLAB，GPL 3）
 - [trimesh](https://trimsh.org/) - 加载和使用三角形网格，重点是水密表面.
   （蟒蛇，麻省理工学院， [GitHub](https://github.com/mikedh/trimesh))
-- [dmsh](https://github.com/nschloe/dmsh) - 受 distmesh 启发的非结构化三角形网格的简单生成器.
-  （Python、GPL 3、GitHub）
+- [dmsh](https://github.com/meshpro/dmsh) - 受 distmesh 启发的非结构化三角形网格的简单生成器.
+  （Python，专有，GitHub）
 - [TetWild](https://yixin-hu.github.io/tetwild.pdf) - 为三角形表面网格生成四面体网格.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - 具有曲线约束的稳健三角测量.
@@ -110,14 +110,14 @@ them.
   （Python、麻省理工学院、GitHub）
 - [MOAB](https://sigma.mcs.anl.gov/moab-library/) - 表示和评估网格数据.
   （C++，主要是 LGPL 3， [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-- [optimesh](https://github.com/nschloe/optimesh) - 三角网格平滑.
-  （Python、GPL 3、GitHub）
+- [optimesh](https://github.com/meshpro/optimesh) - 三角网格平滑.
+  （Python，专有，GitHub）
 - [pmp-library](https://www.pmp-library.org/) - 多边形网格处理库.
   （C++，麻省理工学院与雇主免责声明， [GitHub](https://github.com/pmp-library/pmp-library/))
 - [Mmg](https://www.mmgtools.org/) - 用于重新划分网格的强大、开源和多学科软件.
   （C，LGPL 3， [GitHub](https://github.com/MmgTools/mmg))
-- [meshplex](https://github.com/nschloe/meshplex) - 单纯形网格的快速工具.
-  （Python、GPL 3、GitHub）
+- [meshplex](https://github.com/meshpro/meshplex) - 单纯形网格的快速工具.
+  （Python，专有，GitHub）
 
 ## Data formats
 
@@ -174,13 +174,13 @@ them.
   （C/C++，GPL 3， [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) - 免费、开源的 CFD（计算流体动力学）软件.
   (C++, GPL 3, [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
-- [quadpy](https://github.com/nschloe/quadpy) - Python 中的数值积分（正交、立方）.
-  （Python、GPL 3、GitHub）
+- [quadpy](https://github.com/sigma-py/quadpy) - Python 中的数值积分（正交、立方）.
+  （Python，专有，GitHub）
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - 有限体积 PDE 求解器.
   （Python，[自定义开源
   许可证]（https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications），
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) - Python 的准确求和和点积.
+- [accupy](https://github.com/sigma-py/accupy) - Python 的准确求和和点积.
   （Python、GPL 3、GitHub）
 - [SLEPc](https://slepc.upv.es) - Scalable Library for Eigenvalue Problem Computations.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/slepc/slepc))
@@ -196,8 +196,8 @@ them.
   （C/MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://precice.org/) - 用于分区多物理仿真（FSI、CHT 等）的耦合库.
   （C++，LGPL 3， [GitHub](https://github.com/precice/))
-- [orthopy](https://github.com/nschloe/orthopy) - 有效地计算正交多项式.
-  （Python、GPL 3、GitHub）
+- [orthopy](https://github.com/sigma-py/orthopy) - 有效地计算正交多项式.
+  （Python，专有，GitHub）
 - [pyGAM](https://pygam.readthedocs.io/en/latest/) - Python 中的广义加法模型.
   （蟒蛇，阿帕奇2.0， [GitHub](https://github.com/dswah/pyGAM))
 - [Dedalus](https://dedalus-project.org/) - 用谱法求解偏微分方程.
