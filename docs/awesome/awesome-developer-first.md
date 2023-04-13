@@ -79,6 +79,7 @@
 *存储数据并对其进行处理.*
 * [Airtable](https://airtable.com/) - 数据库和电子表格与 API 混合.
 * [Apitable](https://apitable.com/) - 面向 API 的 Airtable 替代品.
+* [CrateDB](https://crate.io/) - 用于实时分析的分布式开源 SQL 数据库. 
 * [Neuledge](https://neuledge.com/) - 具有适用于任何类型数据库的通用模式语言的抽象 ORM.
 * [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动缩放.
 * [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
@@ -142,7 +143,7 @@
 * [SmartyStreets](https://www.smartystreets.com/) - 美国反向地理编码和地址验证 API.
 
 ## IDE
-*扩展您的 IDE 并帮助开发的产品.*
+*Products that extend your IDE and help development.*
 * [Codota](https://www.codota.com/) - 为您的 IDE 完成 AI 代码.
     * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
 * [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
@@ -243,7 +244,7 @@
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
 * [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
-* [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service.
+* [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
 * [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.
 
 ## Security

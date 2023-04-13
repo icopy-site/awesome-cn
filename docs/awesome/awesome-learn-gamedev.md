@@ -755,7 +755,10 @@
 [Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) - 另一个资源和社区列表！
 
 
-[The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs) - 游戏工作和专业的综合列表（包括游戏开发和电子竞技）.
+[Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) - 用于面试准备的模板. [Archived Image](https://raw.githubusercontent.com/notpresident35/awesome-learn-gamedev/master/archives/InterviewPlacemat.jpg).
+
+
+[The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs)  - 游戏工作和专业的综合列表（包括游戏开发和电子竞技）.
 
 
 [Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - A big list of portfolios from industry professionals.

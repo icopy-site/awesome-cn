@@ -88,14 +88,13 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - 使用 Firebase Firestore 进行基于位置的查询和过滤.
 - [FirelordJS](https://github.com/tylim88/FirelordJS)  - 适用于 Firestore Web 的超高精度 Typescript 包装器.  ([Admin version](https://github.com/tylim88/Firelord))
 - [FireSageJS](https://github.com/tylim88/FireSageJS) - 实时数据库 Web 的极端类型安全.
-- [FireSword](https://github.com/tylim88/FireSword)  - 递归过滤 Firestore 和 RTDB 未知键或数据类型不正确的键，支持所有字段值和特殊数据类型.  （对于网络和管理员）
 
 ## Mobile
 
 - [App Distribution App Bundles](https://firebase.googleblog.com/2021/05/app-distribution-adds-support-to-android-app-bundles.html) - App Distribution 正式支持对 Android App Bundles (AAB) 的支持.
 - [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - 官方 Firebase Flutter 设置.
 - [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - 用于 Firebase 的 NativeScript 插件.
-- [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Firebase 插件集合 [Flutter](https://flutter.io/) apps.
+- [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Firebase 插件集合 [Flutter](https://flutter.io/) 应用.
 - [React Native Firebase](https://github.com/invertase/react-native-firebase)  - 经过良好测试的 React Native 功能丰富的模块化 Firebase 实现. 同时支持 iOS 和 Android 平台.
 - [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   用于 Firebase 云消息传递和本地通知的 React Native 模块.
@@ -159,7 +158,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - [VSFire](https://github.com/toba/vsfire) - 已弃用 ~VSCode 扩展，用于使用 Firestore 安全规则和索引进行语法突出显示和代码完成.~
 - [Refi App](https://refiapp.io/) - 一个 GUI 工具，使开发人员在与 Firestore DB 交互时不那么痛苦
 - [Firefoo](https://firefoo.app) - 具有 JSON/CSV 导出和 JavaScript 查询外壳的 Cloud Firestore GUI 管理工具.
-- [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - 一个 [asdf-vm](https://asdf-vm.com/)  `firebase-tools` 的插件. 无需 Node.js 或 `npm` 即可管理您的 Firebase CLI！ 非常适合 `python`、`golang`、`c++` 和 `java` Firebase 项目.
+- [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - 一个 [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
 ## Other
 

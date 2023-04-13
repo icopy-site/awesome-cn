@@ -36,6 +36,7 @@
 
 * [nixos-generators](https://github.com/nix-community/nixos-generators) - 采用 NixOS 配置并构建多种不同的图像类型，包括 VirtualBox VM、Azure 图像和安装 ISO.
 * [nixos-up](https://github.com/samuela/nixos-up) - 超级简单的 NixOS 安装程序，可以从安装 ISO 使用.
+* [nix-installer](https://github.com/DeterminateSystems/nix-installer) - 官方 Nix 安装脚本的替代方案.
 
 ## Channel History
 

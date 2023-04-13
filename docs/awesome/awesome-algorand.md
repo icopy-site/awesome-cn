@@ -157,7 +157,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Algo Builder 的 Dapps 模板.
 - [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapps（打字稿）的更简单的 Algo sdk.
 - [perawallet-connect](https://github.com/perawallet/connect) - 用于将 Pera 钱包集成到 Web 应用程序的 JavaScript SDK.
-- [defly-connect](https://github.com/blockshake-io/defly-connect) - 用于将 Defly 钱包集成到 Web 应用程序的 JavaScript SDK.
+- [defly-connect](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
 
 #### Java
 
@@ -166,7 +166,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 #### .NET
 
 - [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 由 [@RileyGe](https://github.com/RileyGe).
-- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
+- [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 - [dotnet-alogrand-sdk (2)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK 维护者 [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
 - [dotnet-tinyman-sdk](https://github.com/geoffodonnell/dotnet-tinyman-sdk) - Tinyman .NET SDK.
@@ -225,6 +225,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [tealish](https://github.com/Hipo/tealish)  - Tealish 是一种适用于 Algorand 虚拟机的可读语言. 它使开发人员能够以针对可读性优化的程序风格编写 TEAL.
 - [avm-semantics](https://github.com/runtimeverification/avm-semantics)  - K 框架中的 Algorand 虚拟机和 TEAL 语义. 帮助测试和正式验证智能合约.
 - [TEALScript](https://github.com/algorand-devrel/TEALScript) - 使用原生 TypeScript 语法、工具和 IDE 支持启用 Algorand 智能合约开发.
+- [ceal](https://github.com/dragmz/ceal) - @dragmz 的 Algorand 智能合约类 C 语言.
 
 #### Docker
 

@@ -40,7 +40,7 @@
 - [Hydrogen](https://github.com/nteract/hydrogen) - 使用 Jupyter 内核在 Atom 中内联运行代码.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - 主要的 Jupyter notebook 运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Jupyter 的多用户服务器.
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab 是 Jupyter 的下一代用户界面.
 - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) - 基于 Electron 的 JupyterLab 桌面应用程序.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于 Nix 的框架，用于定义声明性和可重现的 Jupyter 环境.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的 Kaggle Python docker 图像.
@@ -77,7 +77,7 @@
 - [ipychart](https://github.com/nicohlr/ipychart) - Jupyter 中的交互式 Chart.js 绘图.
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 使用 cytoscape.js 在 Jupyter 中进行交互式图形可视化的小部件.<!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.<!--lint enable double-link-->
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中用于 Leaflet.js 地图的交互式可视化库.
 - [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
 - [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
@@ -109,7 +109,7 @@
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，用于在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本化、编辑和执行笔记本，并通过 REST 接口直接集成它们.
-- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文件.
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文档.
 - [jupyterlab_nbconvert_nocode](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - 用于 PDF/HTML 导出的 NBConvert 导出器，无需代码单元.
 - [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 在终端中很好地显示笔记本.
@@ -154,7 +154,7 @@
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
-- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元格完成浏览器通知.
+- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
 - [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - 对 JupyterLab 的 TensorBoard 支持.
 - [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - 在 JupyterLab 中自动对笔记本进行版本控制.
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
@@ -218,10 +218,10 @@
 - [Kyso](https://kyso.io) - 数据科学平台，用于发布和共享 Jupyter 笔记本作为数据博客和 Web 应用程序.<!--lint enable double-link-->
 - [Mineo.app](https://mineo.app) - 具有 Jupyter 兼容笔记本的 Data Ops 平台，无代码块，并支持创建仪表板.
 - [Naas](https://naas.ai) - 具有神奇调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
+- [Noteable](https://noteable.io/) - Noteable 是一个协作笔记本，用于组合代码（SQL、Python 和 R）和交互式可视化.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与维基媒体 wiki 交互而定制的 Jupyter 笔记本部署.
-- [Spell.run](https://spell.run) - 机器学习和深度学习的端到端平台.
-
+- [Saturn Cloud](https://saturncloud.io/) - 无需切换工具即可将您的数据科学团队转移到云端.
 
 ## Official Resources and Documentation
 
@@ -233,7 +233,7 @@
 
 ## Community Resources
 
-- 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
