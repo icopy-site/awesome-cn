@@ -50,7 +50,7 @@
 ### Math
 
 - [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html)  - 描述性统计教程，用于以提供对数据中包含的信息的洞察力的方式汇总数据. 作者：Salvatore S. Mangiafico.
-- [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/)  - 本文解释了如何计算 R 中的主要描述性统计数据以及如何以图形方式呈现它们. 作者 - 安托万苏特维.
+- [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/)  - 本文解释了如何计算 R 中的主要描述性统计数据以及如何以图形方式呈现它们. 作者 - 安托万苏特威.
 - [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)  - 一篇讨论成为更好的数据科学家需要掌握的关键数学主题的文章. 作者：Tirthajyoti Sarkar.
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) - 作者：NIST/SEMATECH.
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2) /) - 绘制数据分布的教程. 作者：温斯顿张.
@@ -97,7 +97,6 @@
 
 ### Wrangling
 
-- [Data manipulation in r using data frames - an extensive article of basics](https://www.dataenq.com/2020/08/data-manipulation-in-r-using-data-frame.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dataenqfeed+%28dataENQ%29) - 作者：dataENQ.
 - [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/) - 作者：苏珊·贝尔特.
 - [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzan.rbind.io/2018/02/dplyr-tutorial-2/) - 作者：苏珊·贝尔特.
 - [Data Wrangling Part 3: Basic and more advanced ways to filter rows](https://suzan.rbind.io/2018/02/dplyr-tutorial-3/) - 作者：苏珊·贝尔特.

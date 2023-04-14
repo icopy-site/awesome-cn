@@ -17,6 +17,10 @@
 - [RawCMS](https://github.com/arduosoft/RawCMS)  _（标签：好第一期）_<br>  RawCMS 是用 ASP.NET Core 编写的无头 CMS，专为采用 API 优先技术的开发人员而构建.
 - [Shouldly](https://github.com/shouldly/shouldly)  _（标签：跳入）_<br> 应该测试 .NET - 断言的方式应该是！
 
+## Ansible
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue)  _（标签：好首期）_<br>  Exosphere 是基于 OpenStack 的云系统的用户友好客户端界面.
+
 ## C
 
 - [Neovim](https://github.com/neovim/neovim)  _（标签：好第一期）_<br>  Vim-fork 专注于可扩展性和敏捷性.
@@ -57,6 +61,10 @@
 
 - [Ecto](https://github.com/elixir-ecto/ecto)  _（标签：级别：初学者）_<br>  Ecto 是 Elixir 的数据库包装器和语言集成查询
 - [Elixir](https://github.com/elixir-lang/elixir)  _（标签：级别：初学者）_<br>  Elixir 是一种动态的函数式语言，旨在构建可扩展和可维护的应用程序
+
+## Elm
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue)  _（标签：好首期）_<br>  Exosphere 是基于 OpenStack 的云系统的用户友好客户端界面.
 
 ## Go
 
@@ -137,7 +145,7 @@
 - [Moment.js](https://github.com/moment/moment)  _（标签：待售）_<br> 用于解析、验证、操作和格式化日期的轻量级 JavaScript 日期库.
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index)  _（标签：好第一期）_<br>  OpenStreetMap 的规范通用品牌名称
 - [NativeScript](https://github.com/NativeScript/NativeScript)  _（标签：好第一期）_<br>  NativeScript 是一个开源框架，用于使用 JavaScript 构建真正的原生移动应用程序. 使用 Web 技能，如 Angular 和 Vue.js、FlexBox 和 CSS，并在 iOS 和 Android 上获得原生 UI 和性能.
-- [netlify-cms](https://github.com/netlify/netlify-cms)  _（标签：好第一期）_<br> 用于 git 工作流程的开源内容管理.
+- [netlify-cms](https://github.com/netlify/netlify-cms)  _（标签：好第一期）_<br> 用于 git 工作流的开源内容管理.
 - [Next.js](https://github.com/zeit/next.js)  _（标签：好第一期）_<br> 通用服务器呈现的 React 应用程序的简约框架
 - [Node.js core](https://github.com/nodejs/node)  _（标签：好第一期）_<br> 基于 Chrome 的 V8 JavaScript 引擎构建的 JavaScript 运行时
 - [nuclear](https://github.com/nukeop/nuclear)  _（标签：好第一期）_<br> 从免费来源流式传输的多平台音乐播放器.

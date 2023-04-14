@@ -34,7 +34,7 @@
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - Vue3 Supabase 启动器，带有 Pinia、Vue-router 4、TailwindCSS、Vitest、Cypress 等.
 - [Supastarter](https://supastarter.dev) - Supabase 启动器，带有 Next.js、身份验证、邮件模板、登录页面、仪表板和博客.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - 使用 RedwoodJS 的 Supabase 快速入门示例应用程序.
-- [Basejump](https://usebasejump.com)  - Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. 完全测试的架构.
+- [Basejump](https://usebasejump.com)  - 带有团队、个人帐户、邀请、Tailwind、i18n 的开源 Next.js 启动器. 完全测试的架构.
 ## Data Migration Tools
 
 - [Supabase Schema](https://supabase-schema.vercel.app/)  - 使用这个方便的工具生成 SQL 脚本和数据库图表. 不需要任何敏感信息，只需要项目 url + 匿名密钥.
@@ -51,7 +51,7 @@
 
 - [MadeWithSupabase](https://www.madewithsupabase.com/)  - 用于探索使用 Supabase 制作的项目的应用程序. 用户可以通过使用的特定 Supabase 功能或通过用户给定的标签查找，还可以查找在特定日历月提交的项目.
 - [Octokit-lite](https://github.com/lyqht/Octokit-lite)  - 用于在多个存储库上高效执行常见用例 GitHub 操作的应用程序. 使用 Supabase Auth 和 DB.
-- [Generate Supabase Database Types GitHub Action](https://github.com/lyqht/generate-supabase-db-types-github-action) - 基于您的 Supabase 数据库生成类型的 GitHub 动作. 
+- [Generate Supabase Database Types GitHub Action](https://github.com/lyqht/generate-supabase-db-types-github-action) - 基于您的 Supabase 数据库生成类型的 GitHub 操作. 
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - 用于与 Supabase 一起工作的特定于框架的缓存实用程序的集合.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - 在浏览器中运行 Postgres 的工具.
 
@@ -83,3 +83,4 @@
 
 - [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - 分析 Supabase 的增长营销策略，尤其是在 Twitter 上.
 - [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - 介绍了 Fleeting Notes（一个笔记应用程序）如何在 Stripe 集成及其数据库方面从 Firebase 迁移到 Supabase 的过程.
+- [Ultimate guide to testing on Supabase using pgTAP](https://usebasejump.com/blog/testing-on-supabase-with-pgtap)

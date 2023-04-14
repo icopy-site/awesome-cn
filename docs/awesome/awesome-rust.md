@@ -34,7 +34,7 @@ Rust 代码和资源的精选列表.
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes 的超轻型服务网格.
 * [MaidSafe](https://github.com/maidsafe) — 去中心化平台.
 * [mdBook](https://crates.io/crates/mdbook) — 从 markdown 文件创建书籍的命令行实用程序 [![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/mdBook/actions)
-* [nicohman/eidolon](https://github.com/nicohman/eidolon) — 适用于 linux 和 macosx 的无 steam 和 drm 游戏注册表和启动器
+* [nicohman/eidolon](https://github.com/nicohman/eidolon) — A steam and drm-free game registry and launcher for linux and macosx
 * [notty](https://github.com/withoutboats/notty) — 一种新型终端
 * [Pijul](https://pijul.org) — 基于补丁的分布式版本控制系统
 * [rx](https://github.com/cloudhead/rx) — 受 Vi 启发的现代像素艺术编辑器
@@ -58,7 +58,7 @@ Rust 代码和资源的精选列表.
 * [Polaris](https://github.com/agersant/polaris) — 音乐流媒体应用程序.
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) — 用 Rust 编写的终端的 Spotify 客户端. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
 * [Spotifyd](https://github.com/Spotifyd/spotifyd) — 作为 UNIX 守护进程运行的开源 Spotify 客户端. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
-* [WhatBPM](https://github.com/sergree/whatbpm)  — 为电子舞曲制作人提供的每日静态生成的信息资源. 使用 Beatport 和 Spotify 等公开可用数据，对每种 EDM 流派的最常用值进行每日分析：速度、键、根音等. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
+* [WhatBPM](https://github.com/sergree/whatbpm)  — 为电子舞曲制作人提供的每日静态生成的信息资源. 使用 Beatport 和 Spotify 等公开可用数据，提供有关每种 EDM 流派最常用值的每日分析：速度、键、根音符等. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
 
 ### Cryptocurrencies
 
@@ -138,7 +138,7 @@ Rust 代码和资源的精选列表.
 *准将64
   * [kondrak/rust64](https://github.com/kondrak/rust64) —
 * Flash播放器
-  * [Ruffle](https://github.com/ruffle-rs/ruffle) — Ruffle is an Adobe Flash Player emulator written in the Rust programming language. Ruffle targets both the desktop and the web using WebAssembly. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
+  * [Ruffle](https://github.com/ruffle-rs/ruffle)  — Ruffle 是用 Rust 编程语言编写的 Adob​​e Flash Player 模拟器.  Ruffle 使用 WebAssembly 针对桌面和 Web. [![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_rust.yml)[![CI](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml/badge.svg)](https://github.com/ruffle-rs/ruffle/actions/workflows/test_web.yml)
 * 掌上游戏机
   * [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) —
   * [mohanson/gameboy](https://github.com/mohanson/gameboy)  — 全功能跨平台 GameBoy 模拟器. 永远的男孩！
@@ -219,6 +219,10 @@ Rust 代码和资源的精选列表.
 * [theseus-os/Theseus](https://github.com/theseus-os/Theseus) — 用纯 Rust 从头开始​​编写的安全语言、单一地址空间和单一特权级操作系统 — [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)
 * [tock/tock](https://github.com/tock/tock) — 用于基于 Cortex-M 的微控制器的安全嵌入式操作系统
 
+### Payments
+
+* [hyperswitch](https://github.com/juspay/hyperswitch) — 一个开源支付协调器，可让您轻松连接多个支付处理器并路由支付流量，所有这些都通过单个 API 集成 ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+
 ### Productivity
 
 * [Bartib](https://github.com/nikolassv/bartib) [[Bartib](https://crates.io/crates/bartib)] - 命令行的简单时间跟踪器 [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
@@ -288,13 +292,13 @@ Rust 代码和资源的精选列表.
 * [nushell/nushell](https://github.com/nushell/nushell) - 一种新型外壳
 * [ogham/exa](https://github.com/ogham/exa) — 替代“ls”
 * [orhun/kmon](https://github.com/orhun/kmon) — Linux 内核管理器和活动监视器 ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
-* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代品 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代方案 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 * [ouch](https://github.com/ouch-org/ouch) - 命令行无痛压缩和解压缩 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
 * [pueue](https://github.com/nukesor/pueue) — 管理长时间运行的 shell 命令. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 * [qarmin/cakawka](https://github.com/qarmin/czkawka) - 用于查找重复项、空文件夹、相似图像等的多功能应用程序. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
-* [redox-os/ion](https://github.com/redox-os/ion) — Next-generation system shell
+* [redox-os/ion](https://github.com/redox-os/ion) — 下一代系统外壳
 * [sharkdp/bat](https://github.com/sharkdp/bat) — 一只长着翅膀的猫 (1) 克隆体. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 * [sharkdp/fd](https://github.com/sharkdp/fd) — 一个简单、快速和用户友好的替代选择. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 * [sitkevij/hex](https://github.com/sitkevij/hex) — 彩色 hexdump 终端实用程序.
@@ -451,7 +455,7 @@ Rust 代码和资源的精选列表.
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — 一个示例项目，显示 CMake 与 Rust 的用法
 * [Fleet](https://github.com/dimensionhq/fleet) [[fleet-rs](https://crates.io/crates/fleet-rs)] - Rust 的快速构建工具.
 * Github 动作
-  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 动作
+  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 行动
   * [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook 的 GitHub 操作
 * [Nix](https://nixos.org/)
   * [nix-community/fenix](https://github.com/nix-community/fenix) — 用于 nix 的 Rust 工具链和 Rust 分析器 [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
@@ -471,7 +475,7 @@ Rust 代码和资源的精选列表.
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) — 多版本（使用 musl 工具）Rust Docker 镜像
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - 用于缓存编译 Docker 构建之间的远程依赖项的工具和预构建图像.
   * [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) — 用于使用 musl-cross 编译静态 Rust 二进制文件的 Docker 镜像 [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-  * [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust) — 官方 Rust Docker 图像
+  * [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust) — 官方 Rust Docker 镜像
 *英雄联盟
   * [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) — Heroku 上 Rust 应用程序的构建包
 
@@ -513,7 +517,7 @@ Rust 代码和资源的精选列表.
   * [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) — Rust 的 Lua 5.3 绑定
   * [lilyball/rust-lua](https://github.com/lilyball/rust-lua) — Lua 5.1 的安全 Rust 绑定
   * [tickbh/td_rlua](https://github.com/tickbh/td_rlua) [[td_rlua](https://crates.io/crates/td_rlua)] — 用于 Rust 的零成本高级 lua 5.3 包装器
-  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 接口的 Rust 库
+  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 交互的 Rust 库
 * 姆鲁比
   * [anima-engine/mrusty](https://github.com/anima-engine/mrusty) — Rust 的 mruby 安全绑定
 * 节点.js
@@ -714,7 +718,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) 生锈的库
 * [oauth2](https://github.com/ramosbugs/oauth2-rs) — 可扩展的强类型 Rust OAuth2 客户端库
 * [oxide-auth](https://github.com/HeroicKatora/oxide-auth) — OAuth2 服务器库，与 actix 或其他前端结合使用，具有一组可配置和可插入的后端 [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流的异步库
+* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流程的异步库
 * [yup-oauth2](https://github.com/dermesser/yup-oauth2) — 提供设备、安装和服务帐户流的 oauth2 客户端实现
 
 ### Automotive
@@ -745,7 +749,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 新的 AWS SDK for Rust
   * [rusoto/rusoto](https://github.com/rusoto/rusoto) —
 * 负载均衡器
-  * [Convey](https://github.com/bparli/convey) - Layer 4 Load Balancer with dynamic configuration loading.
+  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载平衡器.
 * 多云
   * [Qovery/engine](https://github.com/Qovery/engine) - 抽象层库，只需几分钟即可在云提供商上轻松部署应用程序
 
@@ -787,7 +791,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [starship/starship](https://starship.rs/) [[starship](https://crates.io/crates/starship)] — 适用于任何 shell 的极简、超快且高度可定制的提示符 [![Build status](https://github.com/starship/starship/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/starship/starship/actions)
   * [ynqa/promkit](https://github.com/ynqa/promkit) [[promkit](https://crates.io/crates/promkit)] — 用于构建交互式命令行工具的工具包 [![Build status](https://github.com/ynqa/promkit/workflows/promkit/badge.svg?branch=master)](https://github.com/ynqa/promkit/actions)
 * 风格
-  * [console-rs/dialoguer](https://github.com/console-rs/dialoguer) [[dialoguer](https://crates.io/crates/dialoguer)] — 用于命令行提示和类似内容的 Rust 库.
+  * [console-rs/dialoguer](https://github.com/console-rs/dialoguer) [[dialoguer](https://crates.io/crates/dialoguer)] — A rust library for command line prompts and similar things.
   * [LukasKalbertodt/bunt](https://github.com/LukasKalbertodt/bunt) [[bunt](https://crates.io/crates/bunt)] — 跨平台终端颜色和宏样式 [![Build status](https://github.com/LukasKalbertodt/bunt/actions/workflows/ci.yml/badge.svg)](https://github.com/LukasKalbertodt/bunt/actions?query=workflow%3ACI+branch%3Amaster)
   * [LukasKalbertodt/term-painter](https://github.com/LukasKalbertodt/term-painter) [[term-painter](https://crates.io/crates/term-painter)] — 跨平台风格的终端输出
   * [mackwic/colored](https://github.com/mackwic/colored) [[colored](https://crates.io/crates/colored)] — 着色终端如此简单，你已经知道怎么做了！
@@ -1163,7 +1167,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [Godot](https://godotengine.org/)
   * [godot-rust/gdnative](https://github.com/godot-rust/gdnative) [[gdnative](https://crates.io/crates/gdnative)] - Rust 绑定到 Godot 游戏引擎 [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 * [Raylib](https://www.raylib.com/)
-  * [deltaphc/raylib-rs](https://github.com/deltaphc/raylib-rs) [[raylib](https://crates.io/crates/raylib)] — raylib 的 Rust 绑定
+  * [deltaphc/raylib-rs](https://github.com/deltaphc/raylib-rs) [[raylib](https://crates.io/crates/raylib)] — Rust bindings for raylib
 * [SDL](http://www.libsdl.org/) [[sdl](https://crates.io/keywords/sdl)]
   * [brson/rust-sdl](https://github.com/brson/rust-sdl) — SDL1 绑定
   * [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) — SDL2 绑定
@@ -1226,7 +1230,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) —
 * [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) - 一个可移植的、高性能的、符合人体工程学的框架，用于在 Rust 中构建跨平台用户界面. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 * [emilk/egui](https://github.com/emilk/egui)  - 用于 Rust 的简单、快速和高度可移植的即时模式 GUI 库.  egui 在 Web 上本地运行，并在您最喜欢的游戏引擎中运行. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
-* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型设计
+* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型制作
 * [FLTK](https://www.fltk.org/)
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) — FLTK Rust 绑定 [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)

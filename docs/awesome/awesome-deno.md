@@ -247,6 +247,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [obsidian](https://github.com/oslabs-beta/obsidian) - 本机 GraphQL 缓存客户端和服务器模块.
 - [qs](https://github.com/denolib/qs) - 具有嵌套支持的查询字符串解析器.
 - [router](https://github.com/zhmushan/router) - 高性能基本路由器可在任何地方使用.
+- [rpc](https://github.com/deno-libs/rpc) - Deno 的 JSONRPC 服务器实现.
 - [status](https://github.com/denosaurs/status) - Deno 的 HTTP 代码和状态实用程序.
 - [squishy_cookies](https://github.com/omar2205/squishy_cookies) - 轻松签署和验证 cookie.
 - [ts-prometheus](https://github.com/marcopacini/ts-prometheus) - 普罗米修斯客户端.

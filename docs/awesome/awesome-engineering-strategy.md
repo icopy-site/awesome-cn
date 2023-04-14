@@ -3,7 +3,7 @@
 
 &gt; 如何为技术领导设计和执行工程战略.
 
-工程策略是由社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
+工程策略是社区和公司制作的书籍、帖子、模板、学习材料和开放工程策略等资源的组合.
 
 欢迎投稿！ 查看将项目添加到列表的贡献指南.
 
@@ -46,6 +46,7 @@
 - [Crossing the River by Feeling the Stones - Simon Wardley](https://www.youtube.com/watch?v=oZZKjxeg5W0) - Simon Wardley 研究了态势感知问题并解释了它如何应用于技术.
 - [Complex Adaptive Systems - Dave Snowden](https://www.youtube.com/watch?v=l4-vpegxYPg)
 - [Systems are communication structures - Diana Montalion](https://www.youtube.com/watch?v=U_0B-aY_L0c)
+- [Whole Work: Sociotechnicity & DevOps - Jabe Bloom](https://www.youtube.com/watch?v=WtfncGAeXWU)
 
 ## Courses and Workshops
 

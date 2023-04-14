@@ -267,7 +267,7 @@
 <h2 id="crystal">水晶</h2>
 
 
-- [ameba](https://crystal-ameba.github.io) — Crystal 的静态代码分析工具.
+- [ameba](https://crystal-ameba.github.io) — A static code analysis tool for Crystal.
 
 - [crystal](https://crystal-lang.org) — Crystal 编译器具有内置的 linting 功能.
 
@@ -391,7 +391,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [goimports](https://pkg.go.dev/golang.org/x/tools/cmd/goimports) — 检查丢失或未引用的包导入.
 
-- [gokart](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
+- [gokart](https://github.com/praetorian-inc/gokart)  — Golang 安全分析，重点是最大限度地减少误报. 它能够追踪变量和函数参数的来源，以确定输入源是否安全.
 
 - [GolangCI-Lint](https://golangci-lint.run) — `Go Meta Linter` 的替代方案：GolangCI-Lint 是一个 linters 聚合器.
 
@@ -430,7 +430,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [safesql](https://github.com/stripe/safesql) — Golang 的静态分析工具，可防止 SQL 注入.
 
-- [shisho](https://docs.shisho.dev/)  — 为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
+- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 - [staticcheck](https://staticcheck.io) — 专注于查找错误、简化代码和提高性能的静态分析.
 
@@ -535,7 +535,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [aether](http://aetherjs.com) — 在节点或浏览器中检查、分析、规范化、转换、沙盒、运行、逐步执行和可视化用户 JavaScript.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) — 一种用于提高效率、减小大小并在 JavaScript 文件中提供代码警告的编译器工具.
+- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
 
 - [ClosureLinter](https://github.com/google/closure-linter)  :warning: — 确保您项目的所有 JavaScript 代码都遵循 Google JavaScript 样式指南中的准则. 它还可以自动修复许多常见错误.
 
@@ -799,7 +799,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -1003,6 +1003,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [holistic](https://holistic.dev/)  — 超过 1,300 条用于分析 SQL 查询的规则. 采用 SQL 模式定义和查询源代码来生成改进建议. 检测代码味道、未使用的索引、未使用的表、视图、物化视图等.
 
+- [sleek](https://github.com/nrempel/sleek)  — Sleek 是一个用于格式化 SQL 的 CLI 工具. 它可以帮助您在整个 SQL 代码中保持一致的风格，从而提高可读性和生产力. 繁重的工作由 sqlformat crate 完成.
+
 - [sqlcheck](https://github.com/jarulraj/sqlcheck) — 自动识别 SQL 查询中的反模式.
 
 - [SQLFluff](https://www.sqlfluff.com/) — 多方言 SQL linter 和格式化程序.
@@ -1184,7 +1186,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) :copyright: — Advanced, whole program, deep path, static analysis of C, C++, Java and C# with easy-to-understand explanations and code and path visualization.
 
-- [Codiga](https://www.codiga.io) :copyright: — Automated Code Reviews and Technical Debt management platform that supports 12+ languages.
+- [Codiga](https://www.codiga.io) :copyright: — 支持 12 种以上语言的自动代码审查和技术债务管理平台.
 
 - [Corrode](https://github.com/jameysharp/corrode)  :warning: — 从 C 到 Rust 的半自动翻译. 可以通过显示 Rust 编译器警告和错误来揭示原始实现中的错误. 被 C2Rust 取代.
 
@@ -1394,7 +1396,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="arm">Azure 资源管理器</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 
 <h2 id="binary">二进制文件</h2>
@@ -1403,7 +1405,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [angr](https://github.com/angr/angr) — 也支持符号执行的二进制代码分析工具.
 
 - [binbloom](https://github.com/quarkslab/binbloom)  — 分析原始二进制固件并确定字节顺序或加载地址等特征. 该工具与所有架构兼容.
-Loading address: binbloom can parse a raw binary firmware and determine its loading address. Endianness: binbloom can use heuristics to determine the endianness of a firmware. UDS Database: binbloom can parse a raw binary firmware and check if it contains an array containing UDS command IDs.
+加载地址：binbloom 可以解析原始二进制固件并确定其加载地址. 字节顺序：binbloom 可以使用启发式方法来确定固件的字节顺序.  UDS 数据库：binbloom 可以解析原始二进制固件并检查它是否包含包含 UDS 命令 ID 的数组.
 
 - [BinSkim](https://github.com/Microsoft/binskim) — 一种二进制静态分析工具，可为 Windows 可移植可执行文件提供安全性和正确性结果.
 
@@ -1495,7 +1497,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) — 根据策略即代码规则检查本地 CloudFormation 模板，并从现有模板生成规则.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [cfn-lint](https://github.com/awslabs/cfn-python-lint) — AWS 实验室 CloudFormation linter.
 
@@ -1554,9 +1556,9 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [Code Climate](https://codeclimate.com) — 开放且可扩展的静态分析平台，适合所有人.
 
@@ -1808,7 +1810,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 <h2 id="security">安全/先科</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 
@@ -1823,7 +1825,7 @@ Loading address: binbloom can parse a raw binary firmware and determine its load
 
 - [Gitleaks](https://github.com/zricethezav/gitleaks) — A SAST tool for detecting hardcoded secrets like passwords, api keys, and tokens in git repos.
 
-- [gokart](https://github.com/praetorian-inc/gokart) — Golang security analysis with a focus on minimizing false positives. It is capable of tracing the source of variables and function arguments  to determine whether input sources are safe.
+- [gokart](https://github.com/praetorian-inc/gokart)  — Golang 安全分析，重点是最大限度地减少误报. 它能够追踪变量和函数参数的来源，以确定输入源是否安全.
 
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  — iblessing 是一个 iOS 安全漏洞利用工具包. 它可用于逆向工程、二进制分析和漏洞挖掘.
 
@@ -1906,7 +1908,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
-- [shisho](https://docs.shisho.dev/)  — 为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
+- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 
 <h2 id="translation">翻译</h2>

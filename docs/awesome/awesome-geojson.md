@@ -21,7 +21,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson-rewind](https://github.com/mapbox/geojson-rewind): 强制环绕顺序
 * [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3)：在rfc7946和rfc7946之间转换多边形缠绕顺序 [d3 compatible](https://github.com/d3/d3-geo#d3-geo) 惯例.
 * [geojson-summary](https://github.com/mapbox/geojson-summary)：获取 geojson 文件内容的简明摘要
-* [point-grouper](https://github.com/substack/point-grouper)：将 geojson 点分组为包含多边形
+* [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): 将 geojson 加入 json、dbf 和 csv 文件
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson)：将 ramer-douglas-peucker 行简化应用于 JS 或 CLI 中的 geojson 特征或特征集合
 * [turf](https://github.com/Turfjs/turf): 空间操作和分析功能的集合
@@ -75,7 +75,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson): 从 Mapbox 矢量切片中提取 GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组 geojson 特征生成静态 rtree（使用 terraformer）
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html): 将任何东西转换成任何东西
-  * [fiona](https://github.com/toblerity/fiona): nice python interface on top of ogr
+  * [fiona](https://github.com/toblerity/fiona): 在 ogr 之上的漂亮的 python 界面
 * [shp2json](https://github.com/substack/shp2json): 将 shapefile zip 存档转换为流式 GeoJSON
 * [togeojson](https://github.com/tmcw/togeojson): 将 GPX 和 KML 转换为 geojson
 * [tokml](https://github.com/mapbox/tokml): 将 GeoJSON 转换为 KML
@@ -124,6 +124,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [country-levels](https://github.com/hyperknot/country-levels-export) 基于 ISO 和 FIPS 代码的完整行星 GeoJSON 提取.
 * [historical-basemaps](https://github.com/aourednik/historical-basemaps)：收集世界各国和文化区域的地理参考边界，用于绘制世界范围内的历史数据.
 * [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries)：以 GeoJSON 和其他文件格式生成任何海洋和陆地边界或 [download directly from the web](https://99boundaries.com)
+* [france-geojson](https://github.com/gregoiredavid/france-geojson): GeoJSON 格式的法国大区、省、行政区、行政区和市镇概况（大陆和海外省）
 
 ### serialization
 
@@ -139,6 +140,7 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946): IETF 当前的 GeoJSON 标准
 * [GeoJSON.org](http://geojson.org/): 第一个规范，定义了 GeoJSON 结构的所有规则
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)：以更具叙述性的格式回顾规范背后的概念.
+* [geojson-invalid-geometry](https://github.com/chrieke/geojson-invalid-geometry)：示例文件的 GeoJSON 无效几何问题列表.
 
 ## License
 

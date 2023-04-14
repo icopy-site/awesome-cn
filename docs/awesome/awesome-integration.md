@@ -35,7 +35,7 @@
 ### API Design
 *API 设计、文档和生命周期自动化工具.*
 - [Dredd](https://github.com/apiaryio/dredd) - 使用这种与语言无关的 CLI 工具针对后端实现验证 API 描述文档.
-- [OpenAPI-GUI](https://github.com/Mermade/openapi-gui) - 使用这个直观的图形用户界面轻松创建和验证 OpenAPI 规范.
+- [OpenAPI-GUI](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
 - [OpenAPI Diff](https://github.com/OpenAPITools/openapi-diff) - 将 OpenAPI 规范与版本控制进行比较，并可视化 HTML 或 Markdown 格式的差异.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - 使用这个强大的 OpenAPI 规范工具自动创建 API 客户端库、服务器存根、文档和配置文件.
 - [OpenAPI Style Validator](https://github.com/OpenAPITools/openapi-style-validator) - 使用这种灵活且可自定义的样式验证器，确保您的 OpenAPI 规范符合您组织的标准.
@@ -48,9 +48,10 @@
 - [APITree](https://www.apitree.com/) - 用于管理和共享 API 规范的工具，具有版本控制、API 测试自动化以及与流行的 API 工具的集成.
 - [DapperDox](https://github.com/DapperDox/dapperdox) - 用于 OpenAPI/Swagger 规范的开源 API 文档生成器和服务器，具有可自定义的文档、自动更新和轻松共享.
 - [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer) - 一种根据 OpenAPI 规范生成用户界面的工具，使软件工程师更容易可视化 API 并与之交互.
-- [RapiDoc](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
+- [RapiDoc](https://github.com/rapi-doc/RapiDoc) - 一种根据 OpenAPI 规范生成可定制的交互式 API 文档的工具，具有一系列设计选项.
 - [Redoc](https://github.com/Redocly/redoc) - 一个开源工具，用于从 OpenAPI (fka Swagger) 定义生成文档，具有可定制的主题、语言支持和品牌.
 - [Slate](https://github.com/slatedocs/slate) - 一个强大的工具，可以从 markdown 创建静态 API 文档，以及 API 参考文档和代码示例.
+- [Stoplight Elements](https://github.com/stoplightio/elements)  - 由 OpenAPI 和 Markdown 提供支持的精美 API 文档. 使用这些 UI 组件创建 API 参考文档，或更完整的文档以及包含教程、操作指南等的 Markdown 文章.
 - [SwaggerHub](https://swagger.io/tools/swaggerhub/) - 为团队构建的集成 API 设计和文档平台，具有版本控制、测试自动化以及与流行的 API 工具的集成.
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - 用于探索 API 并与之交互的直观工具，具有 API 规范可视化、端点探索和内置交互式控制台.
 
@@ -71,7 +72,7 @@
 *API 测试工具.*
 - API客户端
   - [Advanced REST Client](https://github.com/advanced-rest-client/arc-electron) - 专为测试和调试 RESTful Web 服务而设计的开源 API 工具.
-  - [curl](https://github.com/curl/curl) - 用于通过各种协议使用 URL 传输数据的命令行工具.
+  - [curl](https://github.com/curl/curl) - Command-line tool for transferring data with URLs over various protocols.
   - [curlie](https://github.com/rs/curlie) - 前端可通过 httpie 的易用性进行卷曲，而不会影响性能和功能.
   - [HTTPie](https://github.com/httpie/httpie) - 用户友好的命令行 HTTP 客户端，可简化 HTTP 请求/响应检查和操作.
   - [Insomnia](https://github.com/Kong/insomnia) - 旨在简化 API 测试和调试的跨平台 HTTP 和 GraphQL 客户端.
@@ -124,7 +125,7 @@
 - [AltasMap](https://github.com/atlasmap/atlasmap)  - 基于 Web 的数据映射解决方案，可简化 Java、XML、CSV 和 JSON 数据源之间的集成. 其交互式用户界面使配置集成变得容易.
 - [Altova MapForce](https://www.altova.com/mapforce)  - 一个图形数据映射工具，可以处理任何到任何转换和集成任务. 它简化了复杂的映射任务，使软件工程师能够更快地完成项目.
 - [JOLT](https://github.com/bazaarvoice/jolt)  - 基于 Java 的 JSON 到 JSON 转换库，它使用 JSON 文档作为转换的“规范”.  JOLT 为软件工程师提供了一种简单的方法来转换 JSON 数据.
-- [JSLT](https://github.com/schibsted/jslt)  - 受 jq、XPath 和 XQuery 启发的完整的 JSON 查询和转换语言. 借助 JSLT，软件工程师可以快速轻松地转换 JSON 数据以满足他们的需求.
+- [JSLT](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### ESB
 *企业服务总线解决方案.*
@@ -182,7 +183,7 @@
 - [Amazon SQS](https://aws.amazon.com/sqs)  - 一种完全托管的消息队列服务，使您能够分离和扩展微服务、分布式系统和无服务器应用程序. 它提供可靠、安全且高度可用的消息存储和传递系统.
 - [Amazon SNS](https://aws.amazon.com/sns)  - 一种完全托管的发布/订阅消息服务，使您能够在分布式系统、微服务和事件驱动的无服务器应用程序之间发送和接收消息. 它提供了一种灵活、可扩展且经济高效的方式来通知订阅者事件和消息.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka)  - 一项完全托管的 Apache Kafka 服务，可为您的应用程序提供高吞吐量、低延迟和高可用性的消息流. 它提供与其他阿里云服务的轻松集成和无缝数据迁移.
-- [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed and fully managed messaging service that provides high scalability, low latency, and high throughput for your applications. It offers flexible deployment options, easy management, and robust security features.
+- [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq)  - 分布式和完全托管的消息传递服务，可为您的应用程序提供高可扩展性、低延迟和高吞吐量. 它提供灵活的部署选项、轻松的管理和强大的安全功能.
 - [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service)  - 分布式消息传递和通知服务，支持应用程序和分离系统之间的并发操作和消息传输. 它为您的消息传递需求提供高可靠性、可扩展性和容错能力.
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq)  - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信. 它为您的消息流需求提供高可用性、可扩展性和持久性.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue)  - 与 Anypoint 平台完全集成的企业级云消息服务. 它提供灵活可靠的消息传递基础架构，使您能够集成和编排您的应用程序和系统.
@@ -211,7 +212,7 @@
 ### Master Data Management
 *主数据管理解决方案.*
 - [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - 用于管理主数据的综合解决方案，可在整个组织中提供单一事实来源.
-- [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - 一种一体化解决方案，使您能够在一个地方管理和治理所有主数据域.
+- [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - An all-in-one solution that enables you to manage and govern all your master data domains in one place.
 - [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - 通过集中和管理您的主数据，帮助您更快、更有效地适应和响应变化.
 - [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - 通过整合和集中管理您的主数据生命周期，简化并提高数据的质量和一致性.
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - 提供公司数据的统一视图，将各种来源的信息整合到一个主记录中，以提高准确性和一致性.
@@ -345,7 +346,7 @@
 - [Canonical Data Model](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CanonicalDataModel.html) - 在集成使用不同数据格式的应用程序时如何最大程度地减少依赖性？
 - [Channel Adapter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelAdapter.html) - 如何将应用程序连接到消息系统，以便它可以发送和接收消息？
 - [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 如何防止通道上的“遗留”消息干扰测试或运行系统？
-- [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - How can we reduce the data volume of message sent across the system without sacrificing information content?  
+- [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少通过系统发送的消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
 - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多条消息？
 - [Composed Message Processor](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DistributionAggregate.html) - 在处理由多个元素组成的消息时，如何维护整个消息流，每个元素可能需要不同的处理？  
@@ -393,7 +394,7 @@
 - [Request-Reply](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RequestReply.html) - 当应用程序发送消息时，它如何从接收者那里得到响应？
 - [Resequencer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Resequencer.html) - 我们如何才能将相关但无序的消息流恢复为正确的顺序？
 - [Return Address](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ReturnAddress.html) - 回复者如何知道将回复发送到哪里？
-- [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) - How do we route a message consecutively through a series of processing steps when the sequence of steps is not known at design-time and may vary for each message?  
+- [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) - 当步骤顺序在设计时未知且每条消息可能不同时，我们如何通过一系列处理步骤连续路由消息？  
 - [Scatter-Gather](https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html) - 当一条消息需要发送给多个收件人并且每个收件人都可以发送回复时，您如何维护整体消息流？  
 - [Selective Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html) - 消息消费者如何选择它希望接收的消息？  
 - [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html) - 应用程序如何设计既可通过各种消息传递技术又可通过非消息传递技术调用的服务？
