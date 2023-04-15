@@ -243,6 +243,7 @@
 
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
+* [Meilisearch](https://www.meilisearch.com/) - 开源、快速且相关的搜索引擎.
 * [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
 * [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
 * [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.

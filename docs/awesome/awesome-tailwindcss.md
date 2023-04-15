@@ -100,6 +100,7 @@
 - [Fluid Type](https://github.com/davidhellmann/tailwindcss-fluid-type) - 添加流体类型（`font-size`）实用程序.
 - [Grid Areas](https://github.com/SavvyWombat/tailwindcss-grid-areas) - 添加 `grid-areas` 和 `grid-area` 实用程序.
 - [Full Bleed Background and Borders](https://github.com/dgknca/tailwindcss-full-bleed) - 提供用于扩展背景和边框的实用程序.
+- [CSS Filter Order](https://github.com/joshdavenport/tailwindcss-filter-order) - 添加 `filter-order` 实用程序，用于更改生成的 CSS 中过滤器的顺序.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以便仅在某些语言中使用实用程序.
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加用于匹配嵌套边框半径的变体.

@@ -52,6 +52,7 @@
 
 ### Interpreters/Compilers
 
+- [vas](https://github.com/v420v/vas) - 用 V 编写的简单 x86-64 汇编器.
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler)  - 基于堆栈的编译编程语言. 引导程序编译器是用 V 编写的.
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在 V.
 - [vbf](https://github.com/vpervenditti/vbf) - 一个 brainfuck 解释器/编译器.

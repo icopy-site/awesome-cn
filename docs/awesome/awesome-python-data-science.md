@@ -30,7 +30,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - 用于对图形结构化数据进行采样的库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动化机器学习 python 库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - 一个强大的自动机器学习 python 库.
 * [AutoGluon](https://github.com/awslabs/autogluon) - 用于图像、文本、表格、时间序列和多模态数据的 AutoML.
 
 ### Ensemble Methods
@@ -304,9 +304,6 @@
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - 将训练有素的 scikit-learn 估计器转换为 C、Java、JavaScript 等.
 * [ONNX](https://github.com/onnx/onnx) - 打开神经网络交换.
 * [MMdnn](https://github.com/Microsoft/MMdnn) - 一组帮助用户在不同深度学习框架之间进行互操作的工具.
-
-## Related Resources
-* [Best of Machine Learning Libraries](https://kandi.openweaver.com/collections/machine-learning/python-machine-learning) - 精选的 Python 最佳机器学习库列表.
 
 ## Contributing
 欢迎投稿！  ：太阳镜：</br>
