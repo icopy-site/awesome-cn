@@ -548,7 +548,7 @@ WebWorker 中的大部分核心 Angular 框架.
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) - Angular2 的无限滚动指令（基于 Observables）
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) - 根据各种布局类型排列无限卡片元素，如 Angular 的砌体.
 * [ng2-card](https://github.com/c-bata/ng2-card) - Angular2 的卡片视图组件
-* [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
+* [ng2-fullpage](https://github.com/meiblorn/ngx-fullpage) 基于 fullPage.js 的 Angular2 全页滚动
 * [ng2-sheet](https://github.com/lexikteam/ng2-sheet) Angular2 Components 将您的组件添加到工作表窗口中并重复
 * [ng2-swipeable-card](https://github.com/JayKan/ng2-swipeable-card) - Angular2 的可刷卡组件
 * [ngx-scrolltop](https://github.com/bartholomej/ngx-scrolltop)  - 轻量级，Material Design 启发**页面滚动到顶部**按钮.  _没有依赖性. 纯 Angular！_（兼容性：Angular 9、Ivy、Universal、`ng add`）
@@ -630,6 +630,7 @@ WebWorker 中的大部分核心 Angular 框架.
 * [prime-ng](https://www.primefaces.org/primeng/) Angular 2 丰富的 UI 组件集合
 * [vmware clarity](https://github.com/vmware/clarity) - 主要是一个纯 CSS 框架，但一些组件被移植到 Angular 2
 * [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Angular2 的 UI 组件集
+* [NgLazyLoadComponent](https://www.npmjs.com/package/ng-lazy-load-component)  . 在没有路由的情况下将 Angular 组件延迟加载到 HTML 模板中.
 
 ##### Material Based
 
@@ -746,9 +747,9 @@ WebWorker 中的大部分核心 Angular 框架.
 * [ng-skeleton](https://github.com/born2net/ng-skeleton) - 具有 ngrx、bootstrap 和双因素身份验证的终极 Angular 种子
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) 使用 TypeScript / Sass / Npm 任务的最小 Angular2 演示
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - 准备使用基于 Angular 2 和 AdminLTE 引导主题的仪表板控制面板种子项目.
-* [ngx-admin](https://github.com/akveo/ngx-admin) - 基于 Nebular 框架的管理模板（Angular 4+，Bootstrap 4+）
-* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - 使用 Angular2 最终版本 (2.1.0) 为您的代码准备好经过可靠测试的 SystemJS 和 gulp 工作流程.. 演示单元
-  and full code coverage
+* [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
+* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
+  和完整的代码覆盖
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - 使用 webpack 构建的英雄之旅官方 typescript 教程
 * [ng2-boiler](https://github.com/amcdnl/ng2-boiler) - 一个基本的简单启动器，配置了 Angular2、TypeScript 和 Webpack.
 * [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - 具有 AoT 编译、延迟加载和 Tree-shaking 的 Angular Webpack Starter

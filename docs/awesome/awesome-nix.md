@@ -144,6 +144,10 @@
 * [node2nix](https://github.com/svanderburg/node2nix) - 从 `package.json`（或 `package-lock.json`）（存储为文件）生成 Nix 表达式.
 * [npmlock2nix](https://github.com/nix-community/npmlock2nix) - 从 `package-lock.json`（内存中）生成 Nix 表达式，主要用于 Web 项目.
 
+### OCaml
+
+* [opam2nix](https://github.com/timbertson/opam2nix) - 从 opam 包生成 Nix 表达式.
+
 ### PHP
 
 * [composer2nix](https://github.com/svanderburg/composer2nix) - 生成 Nix 表达式来构建作曲家包.

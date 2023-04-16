@@ -91,6 +91,7 @@
 
 - [Lutris](https://github.com/lutris/lutris) - 开源游戏平台.
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - 游戏启动器和 libretro 的仿真前端.
+- [Cartridges](https://github.com/kra-mo/cartridges) - 带有 Steam、Lutris、Heroic、Bottles 和 itch 库导入的游戏启动器.
 
 ### System and Customization
 
@@ -105,7 +106,7 @@
 
 ### Utilities
 
-- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/)  - 翻译文本.  ![GNOME 圈子][GNOME 圈子]
+- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - Translate text. ![GNOME Circle][GNOME Circle]
 - [Markets](https://apps.gnome.org/app/com.bitstower.Markets/)  - 跟踪您的投资.  ![GNOME 圈子][GNOME 圈子]
 - [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/)  - 分享您的计算机音频.  ![GNOME 圈子][GNOME 圈子]
 - [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/)  - 控制您的 Elgato Stream Decks.  ![GNOME 圈子][GNOME 圈子]
@@ -138,7 +139,7 @@
 - [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/)  - 学习 GNOME 技术并制作原型.  ![GNOME 圈子][GNOME 圈子]
 - [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/)  - 生成占位符文本.  ![GNOME 圈子][GNOME 圈子]
 - [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/)  - 在本地测试社交媒体卡.  ![GNOME 圈子][GNOME 圈子]
-- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
+- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/)  - 在不使用随机网站的情况下转换文本.  ![GNOME 圈子][GNOME 圈子]
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - 配置应用程序或整个系统.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - 用于浏览和搜索 API 文档的开发人员工具.
 
@@ -253,7 +254,7 @@
 - [Planet GNOME](http://planet.gnome.org/) - GNOME 开发者博客联合会.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
-- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用 GNOME IRC 频道 ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
+- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用 GNOME IRC 频道（[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 
 ### GNOME Communities
 

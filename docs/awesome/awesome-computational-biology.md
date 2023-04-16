@@ -10,6 +10,9 @@
 
 
 ## Databases
+### RNA Sequence
+- [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - 公共功能基因组学数据库.
+- [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - 单细胞 RNA 公共数据库.
 ### Compound
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - 最大的化学数据库之一，例如化合物、基因和蛋白质.
 - [ChEBI](https://www.ebi.ac.uk/chebi/) - 专注于小化合物的化学数据库.
@@ -64,5 +67,5 @@
 
 ### Compound Protein Interaction
 
-- [MCPINN](https://github.com/mhlee0903/multi_channels_PINN) - 使用复合蛋白质相互作用和机器学习进行药物发现的库.
+- [MCPINN](https://github.com/mhlee0903/multi_channels_PINN) - 使用化合物蛋白质相互作用和机器学习进行药物发现的库.
 - [TransformerCPI](https://github.com/lifanchen-simm/transformerCPI) - 使用 Transformer 进行复合蛋白质相互作用预测的库. 

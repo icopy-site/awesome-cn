@@ -48,7 +48,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ## Hashcat
-*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目.*
+*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目. *
 
 - [Autocrack](https://github.com/pry0cc/autocrack) - 一组客户端和服务器工具，用于自动和轻松地自动破解哈希.
 - [docker-hashcat](https://github.com/dizcza/docker-hashcat) - 适用于 Ubuntu 18.04 CUDA、OpenCL 和 POCL 的最新 hashcat docker.
@@ -76,8 +76,8 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ### Rules
 - [clem9669 rules](https://github.com/clem9669/hashcat-rule) - hashcat 或 john 的规则.
 - [hashcat rules collection](https://github.com/narkopolo/hashcat-rules-collection) - 可能是目前最大的 hashcat 规则集.
-- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns.
-- [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - 来自 Kaonashi 项目（RootedCON 2019）的词汇表、规则和掩码.
+- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - 基于统计和行业规律的Hashcat密码破解规则.
+- [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - 来自 Kaonashi 项目（RootedCON 2019）的单词表、规则和掩码.
 - [nsa-rules](https://github.com/NSAKEY/nsa-rules) - 从破解密码生成的hashcat密码破解规则和掩码.
 - [nyxgeek-rules](https://github.com/nyxgeek/nyxgeek-rules) - Hashcat 和 John the Ripper 的自定义密码破解规则.
 - [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) - “破解所有密码的一条规则.或者至少我们希望如此.”
@@ -87,14 +87,14 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Rule tools
 - [duprule](https://github.com/mhasbini/duprule) - 检测和过滤重复的 hashcat 规则.
-- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - 具有复杂多字节字符支持的下一代规则处理器，旨在支持 Hashcat.
+- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - 具有复杂多字节字符支持的下一代规则处理器，用于支持 Hashcat.
 
 
 ### Web interfaces
 - [crackerjack](https://github.com/ctxis/crackerjack) - CrackerJack 是用 Python 开发的 Hashcat 的 Web GUI.
 - [CrackQ](https://github.com/f0cker/crackq) - 一个Python Hashcat破解队列系统.
 - [hashpass](https://github.com/dj-zombie/hashpass) - hashcat 的哈希破解 WebApp 和服务器.
-- [Hashview](https://github.com/hashview/hashview) - 用于密码破解和分析的 Web 前端.
+- [Hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics.
 - [Wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone 的 Web 界面，用于使用 hashcat 破解密码.
 - [WebHashCat](https://github.com/hegusung/WebHashcat) - WebHashcat 是一个非常简单但高效的网页界面的 hashcat 密码破解工具.
 
@@ -150,12 +150,13 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ### Communities
 - [hashcat Forum](https://hashcat.net/forum/) - hashcat 开发者的论坛.
-- [Hashmob](https://hashmob.net/) - 一个不断壮大的密码恢复社区，旨在成为密码学爱好者的协作中心.
+- [Hashmob](https://hashmob.net/)  - 一个不断壮大的密码恢复社区，旨在成为密码学爱好者的协作中心. 巨大的单词列表集合和查找服务.
 - [Hashkiller Forum](https://forum.hashkiller.io/) - 拥有超过 20,000 名注册用户的密码破解论坛.
 
 ### Lookup services
 - [CMD5](https://www.cmd5.org/) - 提供在线MD5/sha1/mysql/sha256加解密服务.
-- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词列表.
+- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词表.
+- [gohashmob](https://github.com/n0kovo/gohashmob) - Go CLI 应用程序使用 HashMob API 快速查找哈希.
 - [Hashes.com](https://hashes.com/) - 具有付费功能的哈希查找服务.
 - [Hashkiller](https://hashkiller.io/) - 带有论坛的散列查找服务.
 - [Online Hash Crack](https://www.onlinehashcrack.com/) - 云密码恢复服务.
@@ -201,7 +202,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ## Wordlists
 ### Laguage specific
-- [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) - 名字、姓氏和一些阿尔巴尼亚文学的混合体.
+- [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) - A mix of names, last names and some albanian literature.
 - [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的词表.对于破解密码或模糊丹麦语目标很有用.
 - [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) - 用于破解丹麦语密码的丹麦语词汇表集合.
 - [French Wordlists](https://github.com/clem9669/wordlists) - 该项目旨在提供有关人们可以用作基本密码的所有内容的法语单词列表.
@@ -210,7 +211,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Packet Storm Wordlists](https://packetstormsecurity.com/Crackers/wordlists/page1/) - 多种语言的大量不同单词列表.
 - [Rocktastic](https://labs.nettitude.com/tools/rocktastic/) - 包括许多在野外观察到的密码和模式排列.
 - [RockYou2021](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt 是一个由各种其他单词列表编译而成的 MASSIVE WORDLIST.
-- [WeakPass](https://weakpass.com/) - Collection of large wordlists.
+- [WeakPass](https://weakpass.com/) - 大型词汇表的集合.
 
 
 
@@ -254,6 +255,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [PassGAN: A Deep Learning Approach for Password Guessing (2017)](https://arxiv.org/pdf/1709.00440)
 
 ### Talks
+- [BsidesKY2023 - Leveling Up Password Attacks with Breach Data](https://github.com/JakeWnuk/Security-Conferences/blob/main/BsidesKY2023%20-%20Leveling%20Up%20Password%20Attacks%20with%20Breach%20Data.pdf)
 - [DEF CON Safe Mode Password Village - Getting Started with Hashcat](https://www.youtube.com/watch?v=MBTJ8f6Fsmg)
 - [DEF CON Safe Mode Password Village - Jeremi Gosney - Cracking at Extreme Scale](https://www.youtube.com/watch?v=4Ell1Tt23NI)
 - [DEF CON 28 Safe Mode Password Village – 'Let's Crack RockYou Without Using rockyou txt'](https://www.youtube.com/watch?v=8FtXntEsZdU)

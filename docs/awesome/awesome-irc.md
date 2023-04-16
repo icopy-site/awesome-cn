@@ -3,7 +3,7 @@
 
 &gt; 精选清单 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 资源.
 
-A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
+与 Internet 中继聊天 (IRC) 协议相关的工具、软件和其他资源的列表.
 
 IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进行基于多用户文本的通信.
 
@@ -109,20 +109,24 @@ IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进�
 - [slate-irc](https://github.com/slate/slate-irc)  - 插件系统、简单的 api、任意输入流、调试支持.  `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - 基于事件的 IRC 库，具有简单的 API（更新的分支 [PircBot](http://www.jibble.org/pircbot.php) ).  `爪哇`
 - [IRC::Client](https://github.com/lizmat/IRC-Client) - 基于 `Perl6` 的可扩展 IRC 客户端框架.
-- [irccd](https://projects.malikania.fr/irccd/)  - 可使用 JavaScript 自定义的灵活 IRC 机器人.  `C++`.
+- [irccd](https://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
 
 ### Bridges
 
 *来回发送消息.*
 
 - [discord-irc](https://github.com/reactiflux/discord-irc)  - 不和谐 ↔ IRC.  `JavaScript`
+- [dibridge](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
 - [slack-irc](https://github.com/ekmartin/slack-irc)  - 松弛 ↔ IRC.  `JavaScript`
 - [irc-slack](https://github.com/insomniacslk/irc-slack)  - 松弛 ↔ IRC.  `去`
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html)  - XMPP、Jabber、Google Talk、MSN Messenger、Yahoo!  Messenger、AIM、ICQ、Twitter API、HipChat ↔ IRC.  `C`
+- [Biboumi](https://biboumi.louiz.org/) - XMPP 客户端 `C` 的 IRC 网关
 - [teleirc](https://github.com/RITlug/teleirc)  - 电报 ↔ IRC.  `JavaScript`
 - [toxirc](https://github.com/jhert0/toxirc)  -毒物 ↔ IRC.  `C`
 - [skyweb2irc](https://github.com/ProgVal/skyweb2irc)  - Skype（网络客户端 API）↔ IRC.  `Javascript`
 - [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc.`Go`
+- [Heisenbridge](https://github.com/hifi/heisenbridge) - 保镖式 Matrix IRC 桥`Python`
+- [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - 网关和桥矩阵 ↔ IRC `Javascript`
 
 ## Channels
 
