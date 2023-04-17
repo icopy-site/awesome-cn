@@ -21,12 +21,12 @@ GeoJSON 实用程序将使您的生活更轻松.
 * [geojson-rewind](https://github.com/mapbox/geojson-rewind): 强制环绕顺序
 * [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3)：在rfc7946和rfc7946之间转换多边形缠绕顺序 [d3 compatible](https://github.com/d3/d3-geo#d3-geo) 惯例.
 * [geojson-summary](https://github.com/mapbox/geojson-summary)：获取 geojson 文件内容的简明摘要
-* [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
+* [point-grouper](https://github.com/substack/point-grouper)：将 geojson 点分组为包含多边形
 * [geojson-join](https://github.com/tmcw/geojson-join): 将 geojson 加入 json、dbf 和 csv 文件
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson)：将 ramer-douglas-peucker 行简化应用于 JS 或 CLI 中的 geojson 特征或特征集合
 * [turf](https://github.com/Turfjs/turf): 空间操作和分析功能的集合
 * [turf_dart](https://github.com/dartclub/turf_dart): Dart 和 Flutter 的 turf.js 端口
-* [de9im](https://github.com/dpmcmlxxvi/de9im): 用于空间 javascript 操作的快速函数集合
+* [de9im](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 * [winnow](https://github.com/dmfenton/winnow): 使用 javascript 对 geojson 运行 sql 查询
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): 为每个Feature添加一个唯一的id
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): 在 GeoJSON 中提取多边形的共享边界
@@ -103,6 +103,8 @@ GeoJSON 实用程序将使您的生活更轻松.
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): 将 GeoJSON 转换为 OSM XML，将 OSM XML 转换为 GeoJSON
   * [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/): 将 GeoJSON 转换为 OSM XML
   * [query-overpass](https://github.com/perliedman/query-overpass)  CLI 进行 Overpass 查询并将结果转换为 GeoJSON. 基于 [osmtogeojson](https://github.com/tyrasd/osmtogeojson)
+* [topojson for Python](https://github.com/mattijn/topojson)：Topojson 是一个库，能够在 Python 中创建任何空间对象的 topojson 编码格式.
+* [geomet](https://github.com/geomet/geomet): 常见地理空间数据格式的纯Python转换库
 
 
 ### data

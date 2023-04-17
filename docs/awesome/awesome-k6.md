@@ -46,6 +46,7 @@
 - [Umbraco 9 - What a Performance!](https://moriyama.co.uk/about-us/news/blog-umbraco-9-what-a-performance/) - 测试 Azure 上 Umbraco v9 与 Umbraco v8 的性能，并比较 Windows 与 Linux.
 - [On maintaining a k6 codebase, Part 1](https://filfreire.com/posts/k6_tricks_ep1) - 维护具有挑战性的 k6 负载测试代码库的个人技巧.
 - [Distributed Load Testing With K6](https://engineering.empathy.co/distributed-load-testing-with-k6/) - 使用 k6-operator 和 Argo 工作流设置分布式执行. 
+- [Load testing with k6 and k8s](https://www.toucantoco.com/en/tech-blog/tech-blog/load-testing-with-k6-and-k8s) - Toucan DevOps 团队解释了为什么他们选择 k6 作为他们的负载测试工具，以及他们如何在 k8s 上部署它
 
 ## Videos
 
@@ -60,7 +61,7 @@
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - k6 的介绍性概述，展示了如何根据 DevOps 指令从 HAR 文件创建测试. 
   - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - Chris James 的开源负载和性能回归测试工具 k6 演练，以及如何对您的 API 和网站进行负载测试.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021，k6 简介. 
-  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - 何塞·路易斯·拉托雷·米拉斯 (Jose Luis Latorre Millas) 在 2021 年云峰会上.
+  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas 在 2021 年云峰会上.
   - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf 使用 GitHub co-pilot 编写 k6 测试.
 
 ## Reference Projects

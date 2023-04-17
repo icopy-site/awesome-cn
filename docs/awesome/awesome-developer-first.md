@@ -29,6 +29,7 @@
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型 Web 分析.
 * [Plausible](https://plausible.io/) - 简单、隐私友好且开源的网络分析工具.
 * [PoeticMetric](https://poeticmetric.com/) - 隐私至上、合规、速度极快的分析工具.
+* [PostHog](https://posthog.com/) - 开源产品分析平台.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
 
 ## Authentication & Identity

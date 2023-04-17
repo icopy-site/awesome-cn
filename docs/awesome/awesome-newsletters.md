@@ -183,7 +183,7 @@
 
 - [Ruby Weekly](https://rubyweekly.com/) . 每周一次的免费 Ruby 新闻和文章电子邮件汇总.
 - [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) . 红宝石帖子 [Thoughtbot](https://thoughtbot.com)
-- [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周从 Rails 获取有趣的提交、拉取请求和更多信息，每周五发送到您的收件箱.
+- [Rails Weekly](https://world.hey.com/this.week.in.rails) . 每周从 Rails 获取有趣的提交、拉取请求和更多信息，每周五发送到您的收件箱.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) . 很棒的 Ruby gem、工具、框架和软件的集合.
 - [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/) . 有关 Ruby on Rails 和网络的双月刊时事通讯. 提供英语、法语、西班牙语和意大利语版本.
 - [Short Ruby Newsletter](https://newsletter.shortruby.com) . 关于 Ruby 世界中发生的一切的可视化每周时事通讯.
@@ -354,7 +354,7 @@
 
 - [Data Elixir](https://dataelixir.com/) . 来自网络的最佳数据科学新闻和资源的每周时事通讯. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
-- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻的每周综述.
+- [Machine Learnings](http://subscribe.machinelearnings.co/) .  ML 和 AI 新闻每周综述.
 - [Inside AI](https://inside.com/ai) . 每周时事通讯为您带来最新的人工智能、机器人技术和神经技术.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) . 人工智能的最新突破、应用和犯规. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) . 接收由机器学习专业人士策划的开源框架、教程和文章的更新. 深入了解机器学习的可解释性、可重复性、模型评估、特征分析等方面的最佳实践、工具和技术.

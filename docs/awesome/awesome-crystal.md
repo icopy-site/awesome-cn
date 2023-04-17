@@ -223,6 +223,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Ultimate GTK4 Crystal Guide](https://ultimate-gtk4-crystal-guide.geopjr.dev/) - 了解如何在 Crystal 中创建高级 GTK4 应用程序
 
 ## HTML Builders
+ * [blueprint](https://github.com/gunbolt/blueprint) - 在纯 Crystal 中编写可重用和可测试的 HTML 模板
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Crystal 的简单 HTML 表单生成器，内置支持许多流行的 UI 库，例如 Bootstrap
 
 ## HTML/XML Parsing
@@ -252,7 +253,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [celestine](https://github.com/celestinecr/celestine) - 使用 DSL 创建 SVG 图像
  * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - 与 StumpyPNG 一起使用以提取帧的 FFmpeg 绑定
  * [Pluto](https://github.com/phenopolis/pluto) - 一个快速方便的图像处理库
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - 读写PNG图像
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - 查理编程语言
@@ -488,7 +489,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
  * [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) - 专用于 Crystal 编程语言的非官方 Discord 服务器
  * [Portuguese-speaking Telegram Group](https://t.me/crystalbrasil) - 欢迎来到水晶巴西！
- * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - Добро пожаловать, товарищ!
+ * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - 欢迎，同志！
 
 ## Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - 引导您的水晶之旅的免费书籍
@@ -518,7 +519,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
  * [procodile](https://github.com/crystal-china/procodile_cr) - 从 Procfile（用于生产和/或开发环境）在 Mac 和 Linux 的后台（和前台）运行进程
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools
