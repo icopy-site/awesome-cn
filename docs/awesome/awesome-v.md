@@ -29,6 +29,7 @@
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （已存档）
 - [vcli](https://github.com/changhz/vcli) - 一个 CLI 工具，根据 [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 - [vgoogle](https://github.com/changhz/vgoogle) - 在终端上进行谷歌搜索.
+- [vzcc](https://github.com/malisipi/vzcc) - 基于 Zig CC for V 的 CLI 交叉编译工具.
 
 ### Editors
 
@@ -70,7 +71,7 @@
 
 ### Project management
 
-- [Lenra template](https://github.com/lenra-io/template-v) - The Lenra template to write V app for Lenra platform.
+- [Lenra template](https://github.com/lenra-io/template-v) - 为 Lenra 平台编写 V 应用程序的 Lenra 模板.
 - [vset](https://github.com/mulh8377/vset) - V 项目的项目设置和配置工具.
 
 ### Serialization
@@ -90,7 +91,7 @@
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
-- [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
+- [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
 
 ## Libraries
 

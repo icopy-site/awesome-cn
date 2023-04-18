@@ -32,6 +32,7 @@
 * [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 * [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - ALSA (libasound) 的绑定.
 * [dantecatalfamo/sndio-zig](https://github.com/dantecatalfamo/sndio-zig) - 绑定 [sndio](https://sndio.org).
+* [orhun/linuxwave](https://github.com/orhun/linuxwave) - 从 Linux 的熵生成音乐.
 
 
 ## Bootables

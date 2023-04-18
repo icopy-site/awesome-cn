@@ -225,6 +225,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
 ## HTML Builders
  * [blueprint](https://github.com/gunbolt/blueprint) - 在纯 Crystal 中编写可重用和可测试的 HTML 模板
  * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Crystal 的简单 HTML 表单生成器，内置支持许多流行的 UI 库，例如 Bootstrap
+ * [Water](https://github.com/shootingfly/water) - 用于在普通 Crystal 中编写 HTML 的库
 
 ## HTML/XML Parsing
  * [docx_cr_converter](https://github.com/aristotelesbr/docx_cr_converter) - 解析DOCX Word
@@ -413,7 +414,6 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Kilt](https://github.com/jeromegn/kilt) - 模板引擎的抽象层
  * [Slang](https://github.com/jeromegn/slang) - 受 Ruby 的 Slim 启发的轻量级、简洁的模板语言
  * [teeplate](https://github.com/mosop/teeplate) - 用于渲染多个模板文件的库
- * [Water](https://github.com/shootingfly/water) - 用于在普通 Crystal 中编写 HTML 的库
 
 ## Testing
  * [Athena Spec](https://github.com/athena-framework/spec) - 常见/有帮助 [Spec](https://crystal-lang.org/api/Spec.html) 合规测试实用程序

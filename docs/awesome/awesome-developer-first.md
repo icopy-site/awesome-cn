@@ -37,6 +37,7 @@
 * [Auth0](https://auth0.com/) - 身份验证和授权即服务.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - 用于企业 SSO 和目录同步的开源 API.
+* [Clerk](https://clerk.com/) - 用于 React、React Native 和 Next.js 的身份验证和用户管理平台.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 的身份验证.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
 * [Hanko](https://www.hanko.io/) - 无密码（WebAuthn API）PSD2、eIDAS 和 GDPR 兼容.

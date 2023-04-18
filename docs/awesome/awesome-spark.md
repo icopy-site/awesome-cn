@@ -116,6 +116,7 @@ SparkSQL 有 [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Docker Images
 
+- [apache/spark](https://hub.docker.com/r/apache/spark) - Apache Spark 官方 Docker 图像.
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - 带有 Jupyter Notebook 和 Mesos 客户端的 PySpark.
 - [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - 纱线图像来自 [SequenceIQ](http://www.sequenceiq.com/).
 - [datamechanics/spark](https://hub.docker.com/r/datamechanics/spark) - 一个易于设置的 Apache Spark Docker 镜像，来自 [Data Mechanics](https://www.datamechanics.co/).
