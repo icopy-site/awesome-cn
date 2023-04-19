@@ -112,7 +112,7 @@ Cryptocurrencies
 ================
 
 * [bp](https://github.com/rodentrabies/bp)  - Common Lisp 中的比特币协议组件.  [麻省理工][200].
-* [cl-monero-tools](https://github.com/glv2/cl-monero-tools)  - 使用 Monero 加密货币的 Common Lisp 工具箱.  [GPL3][2]. 不在 Quicklisp 中.
+* [cl-monero-tools](https://github.com/glv2/cl-monero-tools) -  Common Lisp toolbox to work with the Monero cryptocurrency. [GPL3][2]. Not in Quicklisp.
 * [emotiq](https://github.com/emotiq/emotiq)  - 具有创新的自然语言智能合约方法的下一代区块链.  [麻省理工][200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)  - 解析包含在文件中的区块链并将其部分数据导出到文本文件、SQL 脚本或数据库. 它还可以使用点点币守护进程的 RPC 作为数据源而不是区块链文件来创建数据库.  LGPL3. 不在 Quicklisp 中.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)  - 本程序为您提供在 10 分钟、24 小时、31 天、90 天和 1 年内生成 POS 或 POW 区块的概率，以及可以预期的奖励.  Qt 中的图形用户界面.  [GPL3][2]. 不在 Quicklisp 中.
@@ -147,7 +147,7 @@ ORMs
 * [ubiquitous](https://github.com/Shinmera/ubiquitous)  - 提供易于使用的持久配置存储的库.  [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)  - 内存数据库系统. 对象普遍性的实现，其中业务对象在内存中保持活动状态，事务被记录下来以供系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL][8].
   * 也可以看看 [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster)，以同步多个 cl-prevalence 系统状态.
-* [cl-naive-store](https://gitlab.com/Harag/cl-naive-store)  - 一个天真的持久化，在内存中（延迟加载），索引，Common Lisp 的文档存储.  [麻省理工][200].
+* [cl-naive-store](https://gitlab.com/Harag/cl-naive-store)  - 一个天真的坚持，在内存中（延迟加载），索引，Common Lisp 的文档存储.  [麻省理工][200].
   - 看 [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
   - 我们敢于添加：作者公司用于生产（ASTN 集团，参见 awesome-lisp-companies）
 
@@ -227,7 +227,7 @@ Tools
 访问数据结构：
 
 * [access](https://github.com/AccelerationNet/access/)  - 对大多数常见数据结构的一致和嵌套访问.  [BSD_3条款][15].
-* [modf](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
+* [modf](https://github.com/smithzvk/modf) - 用于函数式编程的类似 setf 的宏.
 
 其他数据结构：
 
@@ -237,7 +237,7 @@ Tools
 码头工人图像
 =============
 
-* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 镜像.
+* [cl-docker-images](https://common-lisp.net/project/cl-docker-images/) - 适用于 Windows (amd64) 和 Alpine 和 Debian（amd64、arm64、arm/v7）[BSD_2Clause][17] 上的 ABCL、CCL、ECL 和 SBCL 的 Docker 映像.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) - 根据
   带有 SBCL 或 CCL 和最新版本的 Common Lisp 项目的 Docker 镜像
   ASDF、Qlot 和罗斯威尔.
@@ -311,7 +311,7 @@ Tools
 ================
 
 * [Trial](https://github.com/shirakumo/trial)  - Trial 是一个 OpenGL 游戏引擎，非常注重模块化. 它应该提供一个大型工具包，其中包含有用的点点滴滴，您可以从中创建游戏.  [zlib][33].
-  * 这 [Kandria](https://kandria.com/) 游戏是用试用版构建的.
+  * 这 [Kandria](https://kandria.com/) game is built with Trial.
 * [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/)  – 使用这个小型框架，您将能够制作简单的 2D 游戏：绘制基本的几何形状、图像和文本、播放声音以及收听鼠标和键盘输入.  [麻省理工][200].
 * [virality](https://github.com/bufferswap/ViralityEngine) - 用 Common Lisp [MIT][200] 编写的基于组件的游戏引擎.
 * [Xelf](https://gitlab.com/dto/xelf/)  - 可扩展的游戏库. 在 Quicklisp 上不可用.  [GNU LGPL2.1][11].
@@ -407,7 +407,7 @@ Implementations
 ===============
 
 * ⭐ [SBCL](http://www.sbcl.org/index.html)  - 钢铁银行通用 Lisp.  CMUCL 的一个分支； 编译成高效的机器代码.  [标准合规性][13]. 公共领域，某些部分在 [Expat][14] 和 [3-clause BSD][15] 下.
-  * 也可以看看： [sbcl-librarian](https://github.com/quil-lang/sbcl-librarian)  - SBCL 的动态库交付工具. 创建可从 C 或 Python 调用的共享库. 麻省理工学院. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Full example](https://github.com/quil-lang/sbcl-librarian/tree/main/example).
+  * 也可以看看： [sbcl-librarian](https://github.com/quil-lang/sbcl-librarian) -  Dynamic library delivery tools for SBCL. Create shared libraries that can be called from C or Python. MIT. [Blog post](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html). [Full example](https://github.com/quil-lang/sbcl-librarian/tree/main/example).
   * [SBCL-GOODIES](https://github.com/sionescu/sbcl-goodies) - 使用 Common Lisp 和外部库分发二进制文件：libssl、libcrypto 和 libfixposix 静态内置.[MIT][200].
 * ⭐ [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)  - Clozure Common Lisp； 仅编译器实现，生成本机代码.  [LLGPL][8].
 * [ECL](https://common-lisp.net/project/ecl/)  - 可嵌入的 Common Lisp； 编译为 C. [GNU LGPL2.1][11].
@@ -444,7 +444,7 @@ JSON
   * “我相信 jzon 是更好的选择，并希望它能一劳永逸地成为 JSON-in-CL 世界中新的、真正的事实库.”
 * [jonathan](https://github.com/Rudolph-Miller/jonathan)  - 一个 JSON 编码器和解码器.  [麻省理工][200].
 * [cl-json](https://github.com/sharplispers/cl-json)  - 高度可定制的 JSON 编码器和解码器.  [麻省理工][14].
-* [jsown](https://github.com/madnificent/jsown)  - JSON 格式的读写器.  [外籍人士][14].
+* [jsown](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
 * [shasht](https://github.com/yitzchak/shasht)  - 用于 Kzinti 的 Common Lisp JSON 读写.  [麻省理工][14].
    - “Shasht 是我特别喜欢的两个新库之一，它已经在 quicklisp 中.它速度快，可以正确处理 null，它可以对 CLOS 对象、结构和哈希表进行编码.它还可以进行增量编码.” 萨布拉克罗尔顿.
 * [json-mop](https://github.com/gschjetne/json-mop)  - 用于桥接 CLOS 和 JSON 对象的元类.  [麻省理工][200].
@@ -548,7 +548,7 @@ Iteration
 * [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  - 一个简洁且可扩展的迭代工具，具有与 FSet 良好集成的优势（请参阅数据结构部分），因为它是由同一作者编写的. 在 Quicklisp 中作为 `misc-extensions` 的一部分. 公共区域.
 
 
-Lambda shorthands
+Lambda 简写
 -----------------
 
 * [fn](https://github.com/cbaggers/fn)  - 几个 lambda 速记宏.  `(fn* (+ _ _)) --&gt; (lambda (_) (+ _ _))`. 公共区域.
@@ -718,7 +718,7 @@ Community
 
 可能有帮助：
 
-* [redist](https://github.com/shirakumo/redist) - 生产 Quicklisp 发行版的工具.
+* [redist](https://github.com/shirakumo/redist) - 生产 Quicklisp 发行版的设施.
 * [quick-patch](https://github.com/tdrhq/quick-patch/)  - 无需使用 git 子模块即可轻松覆盖 quicklisp 项目.  MPL-2.0.
 * [print-licenses](https://github.com/vindarel/print-licenses)  - 打印项目及其依赖项使用的许可证.  [麻省理工][200].
 * [asdf-dependency-graph](https://github.com/digikar99/asdf-dependency-graph/) - 围绕“点”的最小包装器，用于生成依赖关系图的图像.
@@ -731,7 +731,7 @@ Community
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  - debhelper 实用程序，让您几乎毫不费力地将基于 quicklisp 的 Common Lisp 代码编译成 .deb 中的 buildapp 二进制文件.  [麻省理工][200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  - 用于（命令行）常见 lisp 应用程序的自制公式生成器. 公共区域.
 * [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) - 一个 BuildStream 项目，用于为 Common Lisp 应用程序构建基于 Flatpak 的运行时环境.
-* [alien-works-delivery](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
+* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 以及更高版本的 MacOSX 和 iOS 捆绑格式.
 
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，通用包管理器的插件.
@@ -903,7 +903,7 @@ Deployment
 ----------
 
 * [deploy](https://shinmera.github.io/deploy)  - 用于 Lisp 应用程序二进制部署的工具包，额外支持外部共享库.  [zlib][33].
-* [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp) - A Heroku buildpack that uses Roswell to compile Common Lisp applications. LGPL3.
+* [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp)  - 使用 Roswell 编译 Common Lisp 应用程序的 Heroku buildpack.  LGPL3.
 * [cube](https://github.com/xh4/cube)  - 用于从 Swagger 规范生成的 Common LISP 的 Kubernetes 客户端库.  [麻省理工][200].
 * [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  - 基于 CentOS 或 RHEL7 的 Source-to-Image 构建器镜像，用于为 OpenShift（以及 Docker）构建 Common LISP 镜像. 它具有最新的 SBCL，带有 Quicklisp 安装、SLIME 或 SLY 集成，并允许通过环境变量进行自定义.  [Apache2][89]
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)  - 使用 Common Lisp (SBCL) 作为 AWS lambda 上的自定义运行时的示例.  WTFPL.
@@ -929,7 +929,7 @@ Websockets
 * [Portal](https://github.com/charJe/portal)  - 用于 Common Lisp 的便携式 websockets，使用 usocket.  [LLGPL][8].
 * [clws](https://github.com/3b/clws)  - CL 中的 websockets 服务器，基于 IOlib 和 libfixposix. 未指定许可证.
 * [Hunchensocket](https://github.com/joaotavora/hunchensocket)  - 适用于 Common Lisp 的 RFC6455 兼容 WebSockets，作为 Hunchentoot 的扩展.  [麻省理工][200].
-* [websocket-driver](https://github.com/fukamachi/websocket-driver) - 基于 Clack.
+* [websocket-driver](https://github.com/fukamachi/websocket-driver) - based on Clack.
 * [iolib](https://github.com/sionescu/iolib)  - I/O 库.  [外籍人士][14].
   * “IOlib 是一个比标准 Common Lisp 库更好、更现代的 I/O 库.它包含：一个套接字库、一个 DNS 解析器、一个 I/O 多路复用器、一个路径名库和文件系统实用程序.”
 
@@ -1037,6 +1037,7 @@ Others
 * [stripe](https://git.mfiano.net/mfiano/stripe)  - Stripe 支付系统的客户端.  [麻省理工][200].
 * [lisp-pay](https://github.com/K1D77A/lisp-pay)  - 围绕各种支付处理器的包装器：Paypal、Stripe、Coinpayments 和 BTCPayServer.  [麻省理工][200].
 * [lunamech-matrix-api](https://github.com/K1D77A/lunamech-matrix-api)  - 客户端 -&gt; 服务器矩阵 API 的完整包装器.  [麻省理工][200].
+* [cl-telegram-bot](https://40ants.com/cl-telegram-bot/)  - 电报机器人 API.  [麻省理工][200].
 
 
 数值和科学
@@ -1171,18 +1172,17 @@ Scripting
 * [Roswell](https://github.com/roswell/roswell#scripting-with-roswell) -
   一个 lisp 安装程序和脚本环境（帮助器、启动器、
   安装程序）等等.  [麻省理工][200].
-* [cl-all](https://github.com/shinmera/cl-all)  - 在多个实现中运行 Lisp 片段的脚本. 这使您可以快速比较实现行为和差异.  [zlib][33].
-* [clawk](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+* [cl-all](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib][33].
+* [clawk](https://github.com/sharplispers/clawk)  - 嵌入到 Common Lisp 中的 AWK 实现，用于搜索文件中的行并在其字段上执行指定的操作.  BSD风格.
 * [ScriptL](https://github.com/rpav/ScriptL)  - Shell 脚本使 Lisp 变得像！ 或者，为 shell 实时编码远程函数调用. 在 REPL 中编写命令，并在 shell 中立即运行.  [LLGPL][8].
   * similar and maybe simpler: [lserver](https://notabug.org/quasus/lserver/)
 
-命令行选项解析器
+Command-line options parsers
 ----------------------------
 
 * [Clingon](https://github.com/dnaeon/clingon) - 丰富的命令行选项解析器系统.
   * 它可能具有最丰富的功能集：子命令、生成 bash 完成、支持各种选项（整数、布尔值、计数器、枚举……）、可扩展……
 * [Adopt](https://github.com/sjl/adopt/)  - 该死的 OPTion 解析库.  [麻省理工][200].
-* [Unix-opts](https://github.com/libre-man/unix-opts)  - 带有简明选项声明的命令行选项解析器.  [麻省理工][200].
 
 
 Readline、ncurses 和其他图形助手
@@ -1239,11 +1239,11 @@ Lisp 版本的规范“Hello World!”的可执行文件
 程序在 32 位 x86 Linux 上只需要 20k 字节.  WCL还有
 支持完整的开发环境，包括动态文件
 加载和调试.  GDB 的修改版本用于调试 WCL
-程序，为混合语言调试提供支持.
+programs, providing support for mixed language debugging.
     - A [paper](https://dl.acm.org/doi/abs/10.1145/141478.141560)：“在 Unix 下交付高效的 Common Lisp 应用程序”.
 
 
-Text Editor Resources
+文本编辑器资源
 =====================
 
 这包含各种文本编辑器的插件和其他好东西.
@@ -1320,7 +1320,7 @@ Text Editor Resources
   * [Cytoscape widget](https://github.com/yitzchak/cytoscape-clj) - 用于 common-lisp-jupyter 的 Cytoscape.js 小部件.
   * [Kekule widget](https://github.com/yitzchak/kekule-clj) - 用于 common-lisp-jupyter 的 Kekule.js 小部件.
   * [molecule viewer](https://github.com/yitzchak/jupyterlab-molviewer) - 使用 ngl 的 JupyterLab 分子查看器.
-  * [ngl widget](https://github.com/yitzchak/ngl-clj) -  A ngl widget (protein viewer) for common-lisp-jupyter.
+  * [ngl widget](https://github.com/yitzchak/ngl-clj) - 用于 common-lisp-jupyter 的 ngl 小部件（蛋白质查看器）.
   * [sheet widget](https://github.com/yitzchak/sheet-clj) - 用于 common-lisp-jupyter 的数据网格小部件.
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) - 用于 Jupyter 笔记本的 Common Lisp 内核 [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
 * [Darkmatter](https://github.com/tamamu/darkmatter) - A
@@ -1400,7 +1400,7 @@ Tools
 编辑器实用程序：
 
 * [Slite](https://github.com/tdrhq/slite/)  - 用于 FiveAM 测试的基于 SLIme 的测试运行器.  [Apache2.0][89]
-   - Slite 以交互方式运行您的 Common Lisp 测试（在撰写本文时，仅支持 FiveAM）. 它允许您查看测试失败的摘要、跳转到测试定义、使用调试器重新运行测试，所有这些都来自 Emacs 内部.
+  - Slite interactively runs your Common Lisp tests (at the time of writing only FiveAM is supported). It allows you to see the summary of test failures, jump to test definitions, rerun tests with the debugger, all from inside Emacs.
 
 更多信息： [Sabra Crolleton's extensive test frameworks comparison](https://sabracrolleton.github.io/testing-framework).
 
@@ -1660,7 +1660,7 @@ Other
 * [named-readtables](https://github.com/melisgl/named-readtables)  - 提供一个可读的命名空间，类似于包命名空间.  [3 条款 BSD][15].
 * [simple-currency](https://github.com/a0-prw/simple-currency)  - 使用欧洲央行发布的每日信息的货币转换库.  [FreeBSD][39].
 * [trivial-garbage](https://github.com/trivial-garbage/trivial-garbage)  - 便携式终结器、弱哈希表和弱指针 API. 公共区域.
-* [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. BSD.
+* [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/)  - 用于执行基于 UTF-8 的 I/O 的小型库.  BSD.
 
 
 Contributing

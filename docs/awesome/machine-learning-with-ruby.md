@@ -88,7 +88,7 @@ the word using the `#RubyML` hash tag!
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
   Microsoft Azure 的机器学习 API.
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench) -
-  用纯 Ruby 编写的不断增长的机器学习框架，使用高性能计算
+  Growing machine learning framework written in pure Ruby, high performance computing using
   [Numo](https://github.com/ruby-numo/), CUDA绑定通过 [Cumo](https://github.com/sonots/cumo).
   目前正在实施神经网络、进化策略、矢量量化和大量
   示例和实用程序.
@@ -213,6 +213,14 @@ the word using the `#RubyML` hash tag!
 - [lightgbm](https://github.com/ankane/lightgbm) —
   LightGBM 的 Ruby 绑定.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
+  
+### Vector search
+- [pinecone](https://github.com/ScotterC/pinecone) —
+  Pinecone Vector DB 的 Ruby 客户端.
+- [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) —
+  Qdrant 矢量搜索数据库 API 的 Ruby 包装器.
+- [weaviate-ruby](https://github.com/andreibondarev/weaviate-ruby) —
+  Weaviate 矢量搜索数据库 API 的 Ruby 包装器.
 
 ## Applications of machine learning
 
@@ -272,7 +280,7 @@ the word using the `#RubyML` hash tag!
           [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
   - _使用机器学习技术构建推荐引擎_ by [Brian Sam-Bodden](https://twitter.com/bsbodden)
     <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
-  - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
+  - :sparkles: _SciRuby 机器学习：现状和未来_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
           [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
   - _Ruby 圆桌会议：Tensorflow 简介_ 作者： [RubyThursday](https://rubythursday.com/)

@@ -29,13 +29,14 @@
 * [ChuckScript](https://github.com/angrykoala/chuckscript) - 基于一元的语言，其中代码是单个数字.
 * [DNA#](https://esolangs.org/wiki/DNA-Sharp) - 基于 DNA 结构的语言.
 * [Dots](https://github.com/josconno/dots)  - 使用“.”的图灵完备语言仅符号.
+* [Electra](https://github.com/DolphyWind/Electra-Lang) - 像电工一样编码.
 * [Emojicode](http://www.emojicode.org) - 由表情符号组成的成熟编程语言.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) - 非确定性不必要的静态类型语言.
 * [False](http://strlen.com/false-language) - 高度混淆的语言，实现最少.
 * [Fetlang](https://github.com/Property404/fetlang) - 设计成源代码看起来像写得不好的恋物情色.
 * [FlipJump](https://github.com/tomhea/flip-jump)  - 1 条指令：翻转一点，然后跳跃. 最简单的 OISC.
 * [Folders](https://github.com/rottytooth/Folders) - 用文件夹编写的代码.
-* [Fugue](https://esolangs.org/wiki/Fugue) - Music as source code.
+* [Fugue](https://esolangs.org/wiki/Fugue) - 音乐作为源代码.
 * [Golfscript](http://www.golfscript.com/golfscript) - 面向堆栈，旨在以尽可能少的击键解决问题.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) - 以东方哲学的核心价值观为设计理念.
 * [INTERCAL](http://www.catb.org/~esr/intercal) - 旨在与其他语言完全不同的模仿语言.
@@ -102,7 +103,7 @@
 
 ## Articles
 
-* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - 解释编译器和解释器基础知识以及如何构建它们的系列文章.
+* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - Series of articles explaining the basics of compilers and interpreters and how to build one.
 * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) - Yevgeniy Brikman 的帖子描述了不常用的不同编程范例.
 * [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) - 通过示例直接介绍深奥的语言.
 * [On the Turing Completeness Of MS PowerPoint](http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf) - PowerPoint 上的图灵机.

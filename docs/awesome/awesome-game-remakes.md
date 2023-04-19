@@ -97,7 +97,7 @@
 - [GemRB](https://github.com/gemrb/gemrb) - Infinity Engine 的便携式开源重新实现（用于 Baldur&#39;s Gate、Icewind Dale 等）.
 - [Zelda3](https://github.com/snesrev/zelda3) - 这是 Zelda 3 - A Link to the Past 的逆向工程克隆.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - 暗黑破坏神 2 的开源重新实现.
-- [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - 使用原始数据和代码重制魔法门 VI-VIII 引擎.
+- [OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Might and Magic VI-VIII engine remake using original data & code.
 - [OpenGothic](https://github.com/Try/OpenGothic) - 重新实现哥特式 2：乌鸦之夜.
 - [OpenMW](https://github.com/OpenMW/openmw) - 重新实现晨风游戏引擎.
 - [OpenNox](https://github.com/noxworld-dev/opennox) - 扩展 Nox 引擎的合作项目.
@@ -106,7 +106,6 @@
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) - zEngine 的开源重新实现，是 Gothic 和 Gothic II 背后的引擎.
 - [Riiablo](https://github.com/collinsmith/riiablo) - 使用 Java 和 LibGDX 重制了暗黑破坏神 II.
 - [sfall](https://github.com/phobos2077/sfall) - 经典游戏辐射2的一组引擎修改.
-- [Shipwright](https://github.com/HarbourMasters/Shipwright) - 塞尔达时之笛的 PC 端口让您享受具有现代控制、宽屏、高分辨率、陀螺仪和其他强大功能的游戏！
 - [Shockolate](https://github.com/Interrupt/systemshock) -同样出色的系统冲击，新的美味.
 - [UAlbion](https://github.com/csinkers/ualbion) - 翻拍 1995 年的 Albion.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java 端口.
@@ -122,7 +121,6 @@
 - [Omnispeak](https://github.com/sulix/omnispeak) - 在 Goodbye Galaxy 中重新实现 Keen 指挥官.
 - [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) - 波斯王子 2 的 Monogame 实施.
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - 波斯王子港口，基于DOS版本的反汇编.
-- [sm64-port](https://github.com/sm64-port/sm64-port) - 用于现代设备的超级马里奥 64 端口.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - 秘密马里奥编年史的改编.
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - VVVVVV 的源代码.
 
@@ -131,7 +129,6 @@
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - 尝试重现经典的极品飞车游戏 (1-6).
 - [Vangers](https://github.com/KranX/Vangers) - 赛车/RPG 混合由其创建者开源，用 C++ 编写.
 - [Vange-rs](https://github.com/kvark/vange-rs) - 这个项目的想法是复制 Vangers 的旧外观和行为，但对图形进行本地硬件加速.
-- [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 开源重新实现，反汇编并翻译成 C. 
 
 ## Simulator
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - 适用于 Windows、macOS、Linux 的 Descent 和 Descent 2 引擎的源端口.
@@ -155,7 +152,7 @@
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - 流行游戏 Dune II 的娱乐.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Cannon Fodder 的开源实现.
 - [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) - Gremlin&#39;s Hogs of War 的娱乐.
-- [OpenHV](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
+- [OpenHV](https://github.com/OpenHV/OpenHV) - 硬真空的开源实施.
 - [OpenLoco](https://github.com/OpenLoco/OpenLoco) - 重新实现 Chris Sawyer 的运动.
 - [Open Panzer](https://github.com/nicupavel/openpanzer) - HTML5 Panzer General 2.
 - [OpenRA](https://github.com/OpenRA/OpenRA)  - 使用 .NET/mono 和 OpenGL 实现红色警报引擎. 在 Windows、Linux 和 macOS 上运行.
@@ -176,4 +173,3 @@
 - [Wargus](https://github.com/Wargus/wargus) - 魔兽争霸 2 模组，可让您使用 Stratagus 引擎玩魔兽争霸 2.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - 免费和开源的实时战略游戏.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - 重制 1996 年经典游戏 Z.
-- [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - 基于 Firefly Studios 的原始 Stronghold 的实时策略.  

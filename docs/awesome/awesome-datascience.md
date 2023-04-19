@@ -139,6 +139,7 @@
 - [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是专注于 Coursera 平台上的推荐系统的中级/高级专业.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+- [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
 
 
 
@@ -195,7 +196,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 套袋
+  - 装袋
   - 随机森林
   -AdaBoost
 
@@ -253,7 +254,7 @@
 - 自动编码器
 - 生成对抗网络 (GAN)
 - 自组织地图
-- 变压器
+- Transformer
 - 条件随机场（CRF）
 
 ### General Machine Learning Packages
@@ -401,7 +402,7 @@
 | [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/)  | 使用熟悉的语言（例如 Python 和 SQL）以交互方式轻松探索、可视化、分析和转换数据.  |
 | [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html)  | 是一个个人的、可移植的 Hadoop 环境，带有十几个交互式 Hadoop 教程.  |
-| [R](https://www.r-project.org/) | is a free software environment for statistical computing and graphics. |
+| [R](https://www.r-project.org/)  | 是一个用于统计计算和图形的免费软件环境.  |
 | [Tidyverse](https://www.tidyverse.org/)  | 是专为数据科学设计的 R 包的自以为是的集合. 所有包都共享一个基本的设计理念、语法和数据结构.  |
 | [RStudio](https://www.rstudio.com)  |  IDE – R 的强大用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
 | [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
@@ -433,7 +434,7 @@
 | [Datawrapper](https://www.datawrapper.de/)  | 一个开源数据可视化平台，帮助每个人创建简单、正确和可嵌入的图表. 也于 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库 |
 | [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
-| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) | Free End-to-End No-Code platform for text annotation and DL model training/tuning. Out-of-the-box support for Named Entity Recognition, Classification, Relation extraction and Assertion Status Spark NLP models. Unlimited support for users, teams, projects, documents. |
+| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和 DL 模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
 | [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
 | [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 结合 Jupyter 交互环境的 Julia 语言后端 |
@@ -453,13 +454,13 @@
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目的是通过一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，将 Pandas 库的功能扩展到 AWS 连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
-| [Amazon Textract](https://aws.amazon.com/textract/)  | 从任何文档中自动提取打印的文本、手写内容和数据.  |
+| [Amazon Textract](https://aws.amazon.com/textract/) | Automatically extract printed text, handwriting, and data from any document. |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规情况，以进行全面的质量控制.|
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 一个基于 Python 的推论统计、假设检验和回归框架 |
-| [Gensim](https://radimrehurek.com/gensim/) | An open-source library for topic modeling of natural language text |
+| [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库 |
 | [spaCy](https://spacy.io/)  | 一个高性能的自然语言处理工具包 |
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid Studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
@@ -472,7 +473,7 @@
 | [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习与推理|
 | [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
 | [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器发现、创建和启动多云应用程序.  |
-| [Towhee](https://github.com/towhee-io/towhee) | A Python library that helps you encode your unstructured data into embeddings. |
+| [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
 | [LineaPy](https://github.com/LineaLabs/lineapy)  | 曾经因为清理又长又乱的 Jupyter 笔记本而感到沮丧吗？ 使用开源 Python 库 LineaPy，只需两行代码即可将杂乱的开发代码转换为生产流水线.  |
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找流行和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表 |
@@ -553,13 +554,14 @@
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - 抢先体验
 - [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
 - [Casual Inference for Data Science](https://www.manning.com/books/julia-for-data-analysis) - 抢先体验
-- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) 通过大卫默茨
+- [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants) by David Mertz
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Data for All](https://www.manning.com/books/data-for-all)
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) - 免费的 GitHub 版本
 - [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) 免费下载 
 - [Comet for DataScience: Enhance your ability to manage and optimize the life cycle of your data science project](https://www.amazon.com/Comet-Data-Science-Enhance-optimize/dp/1801814430) 
 - [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - 抢先体验
+- [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - 抢先体验
 
 
 #### Book Deals (Affiliated) 🛍
@@ -818,7 +820,7 @@
  | 深度学习4j |  |
 | [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，@ RelateIQ 副总裁.  |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
-| [Drew Conway](https://twitter.com/drewconway)  | 数据书呆子、黑客、冲突的学生.  |
+| [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
 | Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   | 在 _GrubHub_ 工作关于数据和 pandas |
@@ -866,7 +868,7 @@
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC 的数据新闻团队. 实践数据驱动的新闻，使其可视化并展示我们的工作.  |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor)  | 数据科学作者 |
-
+| [İlker Arslan](https://twitter.com/ilkerarslan_35)  | 数据科学作者. 主要分享关于 Julia 编程的信息 |
 
 ### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**

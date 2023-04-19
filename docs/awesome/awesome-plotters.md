@@ -95,7 +95,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 
 ### Vector Creation
 
-从头开始或通过从其他格式转换来创建矢量图的工具.
+Tools to create vector artwork from scratch or by conversion from other formats.
 
 - [Inkscape](https://inkscape.org) - 流行的跨平台开源矢量图形编辑器.
 - [p5.js](https://p5js.org) - “使艺术家、设计师、教育工作者和初学者可以访问编码的 JavaScript 库”.
@@ -135,7 +135,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - 一个 SVG 优化器，使用车辆路径求解器来最小化绘图时间.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - 仅限 Chrome 的书签，用于从 HTML 文档中提取 SVG.
 - [vpype](https://github.com/abey79/vpype) - 以绘图仪为中心的基于 Python 的 CLI 实用程序，用于生成和操作 SVG，包括缩放和优化路径.
-- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
+- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - 基于浏览器的工具，可使用不同的基元、自定义形状或其他 SVG 裁剪 SVG.
 
 ### Fonts
 
@@ -155,7 +155,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - 另一篇关于现代笔式绘图仪的入门文章.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 编程矢量路径的一些基础知识，包括排序、连接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分演练.
-- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Roland 平板绘图仪快速入门指南.
+- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 一个有趣的算法的详细解释和例子.
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图师.
 - [Hektor](http://juerglehni.com/works/hektor) - 2002 年的原始电缆牵引机器人.
@@ -171,8 +171,9 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - 带有火星地形绘图仪输出的沉浸式数字装置.
 - [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - 展示从 HP 85 计算机运行的 HP 7470A 的精彩视频.
 - [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - HP 7475A 的一些演示视频.
-- [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - 显示如何打开、清洁和重新填充老式 HP 绘图笔的视频.
+- [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - 展示如何打开、清洁和重新填充老式 HP 绘图笔的视频.
 - [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - 操作中的 Commodore 1520 绘图仪视频，包括该机制的掩护镜头.
+- [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
 
 ## Manuals and Ephemera
 
@@ -254,7 +255,7 @@ HPGL 是大多数旧式笔式绘图仪甚至许多新型乙烯基切割机都使
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（到目前为止，在旧金山和纽约），有演讲和策划艺术画廊.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 拥有活跃社区的 Discord 论坛.
 - [PlotterFiles](https://plotterfiles.com/) - 为绘图仪共享 SVG 文件的社区.
 - #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 

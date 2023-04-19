@@ -33,12 +33,11 @@
 
 ---
 
- |  **钱包** |  |  |  |  |
-| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
- | 名称 | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
- | 费用 | 无 |  SEPA：1.00 欧元 &lt; 50,000 欧元<br>电汇：最低 15 美元（最高 150 美元）|  \$3 取款费 |  |
+ |  **钱包** |  |  |  |
+| :---------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+ | 名称 | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt&labels=Wallet%2C+%E2%86%94+WM+repository&template=new-wallet.md&title=%5BWa%5D) |
+ | 费用 |  SEPA：1.00 欧元 &lt; 50,000 欧元<br>电汇：最低 15 美元（最高 150 美元）|  \$3 取款费 |  |
 
-如果您已经在使用 XRP Tipbot， [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
  |  **付款** |  |
 | ------------ | ------ |
@@ -89,7 +88,7 @@ _任何包/模块和插件_
 - [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization)  - Gridsome 的网络货币化.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/gridsome.png)
 - [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization)  - 将网络货币化元标记添加到您的 VuePress 网站.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/vuejs.png)
 - [jekyll-web_monetization](https://github.com/philnash/jekyll-web_monetization)  - 一个 Jekyll 插件，用于将 Web MonetizationAPI 支付指针添加到您的站点.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/jekyll.png)
-- [Monetization](https://github.com/KNawm/monetization)  - 一个围绕 Web Monetization API 的包装器，用于通过应用程序获利.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/dart.png)
+- [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/dart.png)
 - [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta)  - React 的网络货币化元标记管理器.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
 - [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app)  - 项目演示了在 Electron App 中启用网络货币化的基本设置.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/electron.png)
 - [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video)  - 具有播放和付费政策的网络组件，并根据观看的视频量向您收费.  ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
@@ -166,7 +165,7 @@ _任何包/模块和插件_
 
 &gt; **由 Netlify 提供支持** ✨
 
-Netlify 供电 [the website](https://awesomewebmonetization.netlify.app/). Thanks to them! 💚
+Netlify 供电 [the website](https://awesomewebmonetization.netlify.app/) . 感谢他们！
 
 [![Deploys by Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com)
 

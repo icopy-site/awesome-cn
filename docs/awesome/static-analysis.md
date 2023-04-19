@@ -430,7 +430,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [safesql](https://github.com/stripe/safesql) — Golang 的静态分析工具，可防止 SQL 注入.
 
-- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
+- [shisho](https://docs.shisho.dev/)  — 为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 - [staticcheck](https://staticcheck.io) — 专注于查找错误、简化代码和提高性能的静态分析.
 
@@ -660,7 +660,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -841,7 +841,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [refurb](https://github.com/dosisod/refurb)  — 一种用于翻新和现代化 Python 代码库的工具.  Refurb 深受 clippy 的启发，clippy 是 Rust 的内置 linter.
 
-- [ruff](https://github.com/charliermarsh/ruff)  — 快速 Python linter，用 Rust 编写. 比现有的 linters 快 10-100 倍. 与 Python 3.10 兼容. 支持文件观察器.
+- [ruff](https://astral.sh/ruff)  — 快速 Python linter，用 Rust 编写. 比现有的 linters 快 10-100 倍. 与 Python 3.10 兼容. 支持文件观察器.
 
 - [unimport](https://unimport.hakancelik.dev) — 用于查找和删除未使用的导入语句的 linter、格式化程序.
 
@@ -1396,7 +1396,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="arm">Azure 资源管理器</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
 
 <h2 id="binary">二进制文件</h2>
@@ -1497,7 +1497,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard) — 根据策略即代码规则检查本地 CloudFormation 模板，并从现有模板生成规则.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [cfn-lint](https://github.com/awslabs/cfn-python-lint) — AWS 实验室 CloudFormation linter.
 
@@ -1558,7 +1558,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [Code Climate](https://codeclimate.com) — 开放且可扩展的静态分析平台，适合所有人.
 
@@ -1810,7 +1810,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="security">安全/先科</h2>
 
 
-- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包在您的基础设施即代码中提供安全智能感知、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施错误配置. 通过 ARM 支持 Azure.
+- [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 
@@ -1908,7 +1908,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
-- [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
+- [shisho](https://docs.shisho.dev/)  — 为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 分析和转换源代码，但用于代码.
 
 
 <h2 id="translation">翻译</h2>

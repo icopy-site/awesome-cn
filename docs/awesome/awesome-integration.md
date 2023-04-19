@@ -252,7 +252,7 @@
 <!--lint enable-->
 ### Messaging
  *消息代理是一种中间件，它通过促进消息交换来允许不同应用程序或系统之间的通信. 它们可以处理不同的消息传递模式，例如点对点、发布-订阅和请求-回复，并提供消息转换、路由和过滤等功能.*
-- [Apache ActiveMQ](https://activemq.apache.org)  - 实现 Java 消息服务 (JMS) 并允许同步到异步通信转换的开源消息代理. 提供可靠的消息传递并支持多种协议和消息传递样式.
+- [Apache ActiveMQ](https://github.com/apache/activemq)  - 实现 Java 消息服务 (JMS) 并允许同步到异步通信转换的开源消息代理. 提供可靠的消息传递并支持多种协议和消息传递样式.
 - [Apache Kafka](https://github.com/apache/kafka)  - 为高吞吐量和容错设计的分布式消息系统. 以其分布式架构和高效的数据存储支持实时数据处理和流处理应用程序.
 - [Apache Pulsar](https://github.com/apache/pulsar)  - 支持传统消息传递和流媒体用例的分布式发布/子消息传递系统. 提供可扩展且灵活的架构，并支持多种消息传递协议.
 - [Apache RocketMQ](https://github.com/apache/rocketmq)  - 一个快速可靠的分布式消息传递平台，专为高容量和低延迟消息传递场景而设计. 提供高效的消息存储和检索，并支持各种消息传递模式.
@@ -558,7 +558,7 @@
    - [Composition Autonomy](https://patterns.arcitura.com/soa-patterns/design_patterns/composition_autonomy) - 使服务能够在组合中自主运行.
 
 - 服务交互安全模式
-   - [Brokered Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/brokered_authentication) - 通过代理验证客户端.
+   - [Brokered Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/brokered_authentication) - 通过代理对客户端进行身份验证.
    - [Data Confidentiality](https://patterns.arcitura.com/soa-patterns/design_patterns/data_confidentiality) - 确保分布式环境中的数据机密性.
    - [Data Origin Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/data_origin_authentication) - 验证消息的来源.
    - [Direct Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/direct_authentication) - 直接验证客户端.

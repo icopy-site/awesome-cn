@@ -64,7 +64,7 @@
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile)  - Firefox/Chrome 的浏览器扩展和 CLI 工具，用于将完整页面的忠实副本保存为单个 HTML 文件.  *（稳定的）*
 * [SiteStory](http://mementoweb.github.com/SiteStory/)  - 有选择地捕获和存储 Web 客户端（浏览器）和 Web 服务器之间发生的事务的事务存档.  *（稳定的）*
 * [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/)  - 开源软件，使用户能够从 Twitter、Tumblr、Flickr 和新浪微博公共 API 创建社交媒体收藏.  *（稳定的）*
-* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
+* [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) 直接使用 Chrome 或 Chrome Headless 的档案爬虫.  *（开发中）*
 * [StormCrawler](http://stormcrawler.net/)  - 用于在 Apache Storm 上构建低延迟、可扩展网络爬虫的资源集合.  *（稳定的）*
 * [twarc](https://github.com/docnow/twarc)  - 用于归档 Twitter JSON 数据的命令行工具和 Python 库.  *（稳定的）*
 * [WAIL](https://github.com/machawk1/wail) - 图形用户界面 (GUI) 位于多个网络存档工具之上，旨在用作任何人保存和重放网页的简便方法； [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail) .  *（稳定的）*
@@ -98,7 +98,7 @@
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) - 基于 1996 年至 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不限于德国网页，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ).  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及一些能够使用如下所示索引的相关工具.  *（稳定的）*
-  * [Shine](https://github.com/ukwa/shine) - 与研究人员一起开发的原型网络档案探索 UI，作为 [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
+  * [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
   * [SolrWayback](https://github.com/netarchivesuite/solrwayback)  - 具有自由文本搜索和内置播放引擎的后端 Java 和前端 VUE JS 项目. 要求 Warc 文件已经用 Warc-Indexer 索引.  Web 应用程序还具有广泛的数据可视化工具和数据导出工具，可用于整个 webarchive. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) 包含易于安装的开箱即用解决方案中的所有软件和依赖项.
   * [Warclight](https://github.com/archivesunleashed/warclight)  - 基于 Project Blacklight 的 Rails 引擎，支持发现以 WARC 和 ARC 格式保存的网络档案.  *（开发中）*
   * [Wasp](https://github.com/webis-de/wasp) - 个人的全功能原型 [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf) .  *（开发中）*
@@ -120,6 +120,7 @@
 * [tikalinkextract](https://github.com/httpreserve/tikalinkextract)  - 从 Apache Tika（Golang，Apache Tika 服务器）可以解析的文档类型的文件夹中提取超链接作为 Web 存档的种子.  *（开发中）*
 * [wasapi-downloader](https://github.com/sul-dlss/wasapi-downloader)  - 用于从 WASAPI 下载爬行的 Java 命令行应用程序.  *（稳定的）*
 * [Warchaeology](https://nlnwa.github.io/warchaeology/)  - Warchaeology 是一组用于检查、操作、删除重复数据和验证 WARC 文件的工具.  *稳定的*
+* [warcdedupe](https://gitlab.com/taricorp/warcdedupe)  - 用 Rust 编写的 WARC 重复数据删除工具（和 WARC 库）.  （开发中）
 * [WarcPartitioner](https://github.com/helgeho/WarcPartitioner)  - 按 MIME 类型和年份对 (W)ARC 文件进行分区.  *（稳定的）*
 * [warcrefs](https://github.com/arcalex/warcrefs)  - Web 存档重复数据删除工具.  *稳定的*
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) - 用于在 Hadoop、EMR 或本地文件系统上批量索引 WARC/ARC 文件的工具.
@@ -129,7 +130,7 @@
 
 * [FastWARC](https://github.com/chatnoir-eu/chatnoir-resiliparse) - 一个高性能的 WARC 解析库（Python）.
 * [HadoopConcatGz](https://github.com/helgeho/HadoopConcatGz)  - 用于串联 GZIP 文件（和 `*.warc.gz`）的可拆分 Hadoop 输入格式.  *（稳定的）*
-* [jwarc](https://github.com/iipc/jwarc) - Reading and write WARC files with a typesafe API (Java).
+* [jwarc](https://github.com/iipc/jwarc) - 使用类型安全的 API (Java) 读写 WARC 文件.
 * [Jwat](https://sbforge.org/display/JWAT/JWAT)  - 用于读取/写入/验证 WARC/ARC/GZIP 文件 (Java) 的库和工具.  *（稳定的）*
 * [node-warc](https://github.com/N0taN3rd/node-warc) - 使用任一方法解析 WARC 文件或创建 WARC 文件 [Electron](https://electron.atom.io/) 或者 [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)  （节点.js）.  *（稳定的）*
 * [Sparkling](https://github.com/internetarchive/Sparkling)  - Internet Archive 的 Sparkling 数据处理库.  *（稳定的）*
@@ -156,9 +157,9 @@
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - 浏览器扩展：在浏览器选项卡之间切换.
 * [FlameShot](https://github.com/lupoDharkael/flameshot) - Ubuntu 上的屏幕截图和注释.
 * [PlayOnLinux](https://www.playonlinux.com/en/) - 用于在 Ubuntu 上运行 Xenu 和 Notepad++.
-* [PlayOnMac](https://www.playonmac.com/en/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
+* [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
 * [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots)  - Windows 内置部分屏幕捕获和注释. 在 macOS 上，您可以使用 Command + Shift + 4（用于截取部分屏幕的键盘快捷键）.
-* [WineBottler](http://winebottler.kronenberg.org/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
+* [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
 * [xDoTool](https://github.com/jordansissel/xdotool) - 在 Ubuntu 上单击自动化.
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) - 适用于 Windows 的桌面链接检查器.
 

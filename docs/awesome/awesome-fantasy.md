@@ -430,7 +430,7 @@ Books:
 
 我完全同意，无论这些书有多长，都没有关系. 他们太棒了. 魔法系统很复杂，布兰登所关注的角色有他们自己的小缺点和令人敬畏的点点滴滴. 这是 90 年代的经典幻想，但仍然非常好. 这个世界对于奇幻来说也很新颖——不再是英格兰式的环境，而是一种不同的风景.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Brandon Sanderson 的史诗奇幻系列讲述了 Roshar 的故事，这是一个充满石头和风暴的世界. 不可思议的风暴席卷着岩石地带. 自从被称为光辉骑士团的十个神圣骑士团陨落以来已经过去了几个世纪，但他们的碎片刀片和碎片板甲仍然存在：神秘的剑和盔甲套装可以将普通人变成近乎无敌的战士. 当残酷的战争为争夺这些魔法武器的控制权而肆虐时，一本名为《王者之路》的古老文字讲述了远古时代、光辉骑士团，也许还有这场战争的真正起因. 天辉骑士团必须重新站起来.
+ &gt; Brandon Sanderson 的史诗奇幻系列讲述了 Roshar 的故事，这是一个充满石头和风暴的世界. 不可思议的风暴席卷着岩石地带. 自从被称为光辉骑士团的十个神圣骑士团陨落以来已经过去了几个世纪，但他们的 Shardblades 和 Shardplate 仍然存在：神秘的剑和盔甲套装可以将普通人变成近乎无敌的战士. 当残酷的战争为争夺这些魔法武器的控制权而肆虐时，一本名为《王者之路》的古老文字讲述了远古时代、光辉骑士团，也许还有这场战争的真正起因. 天辉骑士团必须重新站起来.
 
 Books:
 
@@ -482,7 +482,7 @@ Books:
  &gt; 玻璃王座是美国作家莎拉·J·马斯 (Sarah J. Maas) 的一部由年轻成人转变为新成人的奇幻小说系列，从同名小说开始，于 2012 年 8 月发行.故事讲述了少年刺客 Celaena Sardothien 的旅程在一个腐败的王国里，有一个暴虐的统治者. 随着故事的进展，Celaena 建立了意想不到的纽带，并在她的冒险中发现了一个阴谋. 该系列于 2018 年 10 月以第八本书结束.
 &gt; 该系列出现在纽约时报畅销书排行榜上，Hulu 已将其选为由马克·戈登改编的电视剧.
 
- &gt; 18 岁的刺客 Celaena Sardothien 因罪行在恩多维尔的盐矿服了一年苦役后，被拖到王储面前. 多里安王子在一个条件下给了她自由：她必须在寻找新的皇家刺客的比赛中充当他的冠军.
+ &gt; 18 岁的刺客 Celaena Sardothien 因罪行在 Endovier 的盐矿服了一年苦役后，被拖到王储面前. 多里安王子在一个条件下给了她自由：她必须在寻找新的皇家刺客的比赛中充当他的冠军.
  &gt; 她的对手是来自帝国各地的盗贼、刺客和战士，每个人都由国王议会的一名成员赞助. 如果她在一系列淘汰赛中击败她的对手，她将为王国服务四年，然后获得自由.  Celaena 发现她与守卫队长 Westfall 的训练课程既充满挑战又令人振奋. 但她厌倦了宫廷生活. 当王子开始对她表现出兴趣时，事情变得更有趣了……但似乎最了解她的是粗鲁的韦斯特福尔船长.
  &gt; 然后另一名参赛者死亡……紧接着另一名参赛者死亡.  Celaena 能否在成为受害者之前找出凶手是谁？ 随着年轻刺客的调查，她的探索使她发现了一个比她想象的更伟大的命运.
 
@@ -514,7 +514,7 @@ Books:
 
 #### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) _by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)_ [3.78]
 
-我发现 Jirel 作为 1930 年代低俗幻想的女主角很迷人. 在她的整个冒险过程中，吉瑞尔的对手不断寻求伤害她、将她用作诱饵、引诱她或制服她. 她常常无法逃避目睹甚至成为可怕事情的一部分，但她接受了这些不可能的情况，并按照自己的方式面对它们. 我认为这是一个很好的选择，而不是总是逃避危险或使用女性诡计来摆脱困境.  Jirel 在身体和情感上都很有能力，但不是万事通或天生幸运. 摩尔描绘了奇幻领域和生物的令人难以置信的生动图画. 我认为这些故事可以很好地转化为图画小说. 这本合集对传统的剑术和魔法故事进行了引人入胜的创作，非常值得一读.  - [@thejessleigh](https://github.com/thejessleigh)
+我发现 Jirel 作为 1930 年代低俗幻想的女主角很迷人. 在她的整个冒险过程中，吉瑞尔的对手不断寻求伤害她、将她用作诱饵、引诱她或制服她. 她常常无法逃避目睹甚至成为可怕事情的一部分，但她接受了这些不可能的情况，并按照自己的方式面对它们. 我认为这是一个很好的选择，而不是总是逃避危险或使用女性诡计来摆脱困境.  Jirel 在身体和情感上都很有能力，但不是万事通或天生幸运. 摩尔描绘了奇幻领域和生物的令人难以置信的生动图画. 我认为这些故事可以很好地转化为图画小说. 该系列是对传统剑术和魔法故事的引人入胜的尝试，非常值得一读.  - [@thejessleigh](https://github.com/thejessleigh)
 
  &gt; CL Moore 创造了 Jirel，Joiry 的统治者，以回应 30 年代低俗杂志充实的血腥故事，但 Jirel 并不反对柯南. 她是一个善良的天主教女孩，固执而有目的性，不屈不挠地追捕敌人或报复，冷酷又有点愚蠢，不能被单纯的外表吸引力分散注意力. 的确，在吉雷尔的世界里，美丽=颓废=腐败. 如果这些故事写在今天，吉瑞尔不可避免地会有很多火辣的性爱，但由于它们首次发表于 1934 年至 1939 年的怪诞故事中，性吸引大多只是生动地暗示. 没有损失.  Jirel 穿越非自然景观的旅程以及她与超自然对手的战斗仍然读起来很精彩，虽然新来者 Red Sonja 和 Xena 现在更有名，但 Jirel 统治着典型的、不屈不挠的红发女剑士，身穿锁子甲和护胫，挥舞着她的“伟大的两个——刃剑.”
 
@@ -606,7 +606,7 @@ Books:
 
 #### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) _by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.0]
 
-这是一本令人愉快的书. 它简短而甜美，展现了盖曼施展魔法的能力，以及他对英国乡村和神话的热爱.  - [@RichardLitt](https://github.com/RichardLitt)
+这是一本令人愉快的书. 简短而甜美，展示了盖曼施展魔法的能力，以及他对英国乡村和神话的热爱.  - [@RichardLitt](https://github.com/RichardLitt)
 
  &gt; 英国苏塞克斯. 一名中年男子回到他儿时的家参加葬礼. 虽然他住的房子早已不复存在，但他还是被路尽头的农场所吸引，七岁时，他在那里遇到了一个最了不起的女孩莱蒂·亨普斯托克，以及她的母亲和祖母. 他已经几十年没有想起莱蒂了，然而当他坐在摇摇欲坠的老农舍后面的池塘边（她声称这个池塘是海洋）时，不记得的过去如潮水般涌来. 这是一个太奇怪、太可怕、太危险的过去，不会发生在任何人身上，更不用说一个小男孩了.
 >
@@ -729,7 +729,7 @@ Books:
 
 这本书并没有从经典电影的演绎中脱颖而出，而是对其进行了补充. 它单独作为一本有趣的小读物.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; 当世界上最美丽的女孩嫁给有史以来最英俊的王子，而他却……好吧……比她梦寐以求的男人差很多时会发生什么？  William Goldman 声称，作为一个男孩，他喜欢听他的父亲阅读 S. Morgenstern 的经典作品《公主新娘》. 但长大后他发现，好爸爸的背诵中，枯燥的部分被遗漏了，只有“好听的部分”传到他的耳朵里. 现在，高盛对爸爸的帮助更大了. 他重建了“Good Parts Version”，以取悦世界各地聪明的孩子和睁大眼睛的成年人. 那是关于什么的？ 击剑. 斗争. 真正的爱情. 强烈的仇恨. 严厉的报复. 几个巨人. 很多坏男人. 很多好男人. 五六个美女. 野兽怪异而温柔. 一些膨胀逃脱和捕获. 死亡、谎言、真相、奇迹和一点性爱. 简而言之，它是关于一切的.
+ &gt; 当世界上最美丽的女孩嫁给有史以来最英俊的王子，而他却……好吧……比她梦寐以求的男人差很多时会发生什么？  William Goldman 声称，作为一个男孩，他喜欢听他的父亲阅读 S. Morgenstern 的经典作品《公主新娘》. 但是长大后他发现，好爸爸的背诵里，无聊的部分都被漏掉了，只有“好听的部分”传到他的耳朵里. 现在，高盛对爸爸的帮助更大了. 他重建了“Good Parts Version”，以取悦世界各地聪明的孩子和睁大眼睛的成年人. 那是关于什么的？ 击剑. 斗争. 真正的爱情. 强烈的仇恨. 严厉的报复. 几个巨人. 很多坏男人. 很多好男人. 五六个美女. 野兽怪异而温柔. 一些膨胀逃脱和捕获. 死亡、谎言、真相、奇迹和一点性爱. 简而言之，它是关于一切的.
 
 ### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler) 🔥 [4.00]
 
@@ -959,7 +959,7 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 
 ## TV Series
 
-#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
+#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) (2005-2008) [9.2]
 
 嗯，最好的. 这很棒. 停止你正在做的事情，去观看它. 现在.  - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -971,43 +971,43 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 
 &gt; “一位名叫 Nimue 的少女女巫在寻找一把强大而古老的剑的过程中遇到了年轻的亚瑟.”
 
-#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) [9.5] :star2:
+#### [Game of Thrones](http://www.imdb.com/title/tt0944947/) (2011-2019) [9.5] :star2:
 
 很好，如果有时过度电视转播并且过分强调性暴力. 否则拍摄精美.  - [@RichardLitt](https://github.com/RichardLitt)
 
 &gt; 几个贵族家族争夺维斯特洛神秘土地的控制权.
 
-#### [Good Omens](https://m.imdb.com/title/tt1869454/) [8.2]
+#### [Good Omens](https://m.imdb.com/title/tt1869454/) (2019-2023) [8.2]
 
 一部伟大的喜剧迷你剧，演员阵容完美，精彩地描绘了盖曼和普拉切特的同名小说的主题.  - [@Djolo1802](https://github.com/djolo1802)
 
 &gt; 一个关于世界末日拙劣故事的故事讲述了一个天使、一个恶魔、一个十一岁的敌基督者和一个预言末日的女巫.
 
-#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) [7.9]
+#### [His Dark Materials](https://www.imdb.com/title/tt5607976/) (2019-2022) [7.9]
 
 优秀的电视节目. 我喜欢这些书，我认为改编非常好.  - [@staelsabrina](https://github.com/staelsabrina)
 
 &gt; 一个年轻女孩注定要将她的世界从魔导师的掌控中解放出来，魔导师压制人们与魔法的联系以及他们被称为恶魔的动物精神.
 
-#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-ongoing) [8.2]
+#### [Lucifer](https://www.imdb.com/title/tt4052886/) (2016-2021) [8.2]
 
 我从第一天起就喜欢这个节目，并且是所有生动逼真的角色的狂热粉丝. 它很有趣，写得很好，前所未有地触动了人类的神经. 这个节目似乎一心要向你展示每一枚硬币都有两个方面，你做出的每一个选择和决定都会产生后果，来自你而不是其他人.  - [@gayatripalkar](https://github.com/gayatripalkar)
 
  &gt; Lucifer Morningstar 已经决定他已经受够了在地狱做尽职尽责的仆人，并决定花一些时间在地球上以更好地了解人类. 他定居在洛杉矶——天使之城.
 
-#### [Outlander](https://www.imdb.com/title/tt3006802/) [8.4]
+#### [Outlander](https://www.imdb.com/title/tt3006802/) (2014-ongoing) [8.4]
 
  Outlander 是对原始资料的独特、令人满意的改编，郁郁葱葱的风景和主角之间强烈的化学反应使它栩栩如生.  - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 &gt; 一名 1945 年的英国战斗护士神秘地穿越回了 1743 年.
 
-#### [Supernatural](https://www.imdb.com/title/tt0460681/) [8.4]
+#### [Supernatural](https://www.imdb.com/title/tt0460681/) (2005-2020) [8.4]
 
-超自然有点可爱，因为主要角色（唯一会反复出现的角色）是兄弟，但是，写作使角色更加可信. 他们彼此不同，每个人都有自己的生活和不典型的事物.  - [@AshishKnightfury](https://github.com/AshishKnightfury)
+超自然有点可爱，因为主要角色（唯一会反复出现的角色）是兄弟，但是，写作使角色更加可信. 他们彼此不同，每个人都有自己的生活和不典型的事情.  - [@AshishKnightfury](https://github.com/AshishKnightfury)
 
 &gt; 两兄弟追随父亲的脚步成为猎人，与各种邪恶的超自然生物作战，包括在地球上游荡的怪物、恶魔和神灵.
 
-#### [The Originals](https://www.imdb.com/title/tt2632424) [8.2]
+#### [The Originals](https://www.imdb.com/title/tt2632424) (2013-2018) [8.2]
 
 原作可能会以其无数的曲折和超自然生物让休闲观众不知所措，但这是一部具有潜力的时尚、大气的吸血鬼日记衍生作品.  - [@TREXXX27](https://github.com/TREXXX27)
 
