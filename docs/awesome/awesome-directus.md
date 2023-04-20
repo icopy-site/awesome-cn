@@ -58,6 +58,8 @@
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - 清理 Directus 的 HTML 输入.
 - [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - 使用 LogSnag 将您的事件从 Directus 直接发送到您的手机.
 - [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) - 将副本添加到剪贴板并将 URL 的操作按钮打开到字段（界面 + 显示）.
+- [Generate Types](https://github.com/maltejur/directus-extension-generate-types)  - 添加一个模块，用于为连接到该 Directus 数据库的 Directus JS-SDK 生成打字稿类型. 也可以生成 Python 或 OpenAPI 类型.
+- [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) - 根据其他字段执行计算值.
 
 ## Tools
 

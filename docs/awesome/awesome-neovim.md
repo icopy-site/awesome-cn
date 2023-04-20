@@ -103,7 +103,7 @@ Neovim 支持多种 UI.
 
 ### Programming Languages Support
 
-- [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - Neovim 支持 [Lean Theorem Prover](https://leanprover.github.io/).
+- [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 - [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - 使用原生 LSP 构建 Flutter 和 Dart 应用程序.
 - [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) - Lua 版本的 Phpactor Vim 插件可利用最新的 Neovim 功能.
 - [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) - 混合（来自 Elixir）包装器插件.
@@ -228,7 +228,7 @@ Neovim 支持多种 UI.
 
 - [pluffie/neoproj](https://github.com/pluffie/neoproj) - 小而强大的项目（和会议）经理.
 - [shaeinst/penvim](https://github.com/shaeinst/penvim) - 项目的根目录和文档缩进检测器，带有基于项目的配置加载器.
-- [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) - 将当前工作目录更改为光标所在的缓冲区，并尝试上升 2 个级别，但在遇到您定义的项目根目录之一后停止.
+- [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) - Change your current working directory to the buffer your cursor is on, and try to go up 2 levels but stop after it encounters one of the project roots you define.
 - [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) - 根据项目目录加载 Neovim 配置.
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - 搜索和替换面板.
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - 提供卓越项目管理的多合一 Neovim 插件.
@@ -440,7 +440,7 @@ Neovim 支持多种 UI.
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - 来自 Neovim 的远程控制 Reaper DAW.
-- [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
+- [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
 - [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - 用 Lua 编写的快速而精简的 Discord Rich Presence 插件.
 - [Chaitanyabsrip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) - 用 Lua 编写的演示插件.
 - [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) - 用于交互的异步 Lua 插件 [compiler-explorer](https://godbolt.org/).
@@ -480,7 +480,7 @@ Neovim 支持多种 UI.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - 将选择或缓冲区发布到在线粘贴箱.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - 一个奇特的、可配置的、通知管理器.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 高度实验性的插件，完全取代了消息、命令行和弹出菜单的 UI.
-- [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) - 取消列出被 git 忽略的隐藏缓冲区.
+- [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) - 取消列出与指定的忽略源匹配的隐藏缓冲区.
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) - 切换行尾的任何字符.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - 使用望远镜、fzf 等改进内置的 `vim.ui` 界面.
 - [gaborvecsei/cryptoprice.nvim](https://github.com/gaborvecsei/cryptoprice.nvim) - 检查定义的加密货币的价格.
@@ -542,7 +542,7 @@ Neovim 支持多种 UI.
 - [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) - nvim-dap 的永久断点.
 - [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) - 在 nvim-dap 的断点之间循环.
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) - 调试 print() 方式.
-- [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJit profiler.
+- [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim)  - 使用调用图分析数据注释您的代码. 对 perf、flamegraph 和 LuaJit 分析器的原生支持.
 
 #### Quickfix
 
@@ -617,7 +617,7 @@ Neovim 支持多种 UI.
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) - 一个 Magit 克隆，可能会改变一些东西以适应 Vim 哲学.
 - [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) - 一个使用 neovims 虚拟文本在当前行末尾打印 git blame 信息的小插件.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim)  - 为多个 git 主机生成可共享的文件永久链接. 受 tpope/vim-fugitive 的 :GBrowse 启发.
-- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your git experience.
+- [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - 可视化 Git 插件可增强您的 git 体验.
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - 单一标签页界面，可轻松循环浏览任何 git 版本的所有修改文件的差异.
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - 用于调用 lazygit 的插件.
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) - 插件使用 [gfold](https://github.com/nickgerace/gfold) 切换 repo 并具有状态行组件.
@@ -658,7 +658,7 @@ Neovim 支持多种 UI.
 ### Keybinding
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的 `:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的 `:map` 命令系列. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
@@ -728,7 +728,7 @@ Neovim 支持多种 UI.
 - [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim)  - 轻松上下移动行和块，移动时自动处理缩进. 用 Rust 编写.
 - [echasnovski/mini.nvim#mini.move](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md)  - `mini.nvim` 的模块可以在任何方向移动任何选择（charwise，linewise，blockwise，普通模式下的当前行）. 处理 `v:count` 和撤消历史.
 - [anuvyklack/pretty-fold.nvim](https://github.com/anuvyklack/pretty-fold.nvim) - 折叠文本定制.
-- [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - 解释光标下的正则表达式.
+- [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Explain the regular expression under the cursor.
 - [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) - Neovim 插件可防止光标在使用 shift 和 filter 操作时移动.
 - [echasnovski/mini.nvim#mini.ai](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-ai.md)  - 用于扩展和创建 `a`/`i` 文本对象的 `mini.nvim` 模块. 它增强了一些内置文本对象，创建了大量新对象（如 `a*`、`a<Space>  `、`a?` 等），并允许用户创建自己的（通过 Lua 模式或函数）. 支持点重复、不同的搜索方法、连续应用等.
 - [Wansmer/treesj](https://github.com/Wansmer/treesj)  - 拆分/合并代码块，如数组、散列、语句、对象、字典等.使用 Tree-Sitter. 受最伟大的 splitjoin.vim 启发.

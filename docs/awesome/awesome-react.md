@@ -8,8 +8,6 @@
 
 ### React
 
-&gt; 用于构建用户界面的 JavaScript 库
-
 #### React General Resources
 
 - [React Official Website](https://react.dev/)
@@ -44,29 +42,25 @@
 
 ##### React Frameworks
 
-- [next.js](https://github.com/vercel/next.js) - 反应框架
-- [gatsby.js](https://github.com/gatsbyjs/gatsby) - 基于 React 的免费开源框架
+- [next](https://github.com/vercel/next.js) - 反应框架
+- [blitz](https://github.com/blitz-js/blitz) - 缺失的 Next.js 全栈工具包
+- [remix](https://remix.run/) - 全栈网络框架，让您专注于用户界面
+- [gatsby](https://github.com/gatsbyjs/gatsby) - 使用 React 构建现代网站
 - [react-admin](https://github.com/marmelab/react-admin) - 用于构建 B2B 应用程序的前端框架
-- [remix](https://remix.run/) - 最后，来自 React Router 的创建者的杀手级 React 框架
-- [blitz.js](https://github.com/blitz-js/blitz) - 缺失的 Next.js 全栈工具包
-- [aleph.js](https://github.com/alephjs/aleph.js) - Deno 中的 React 框架
-- [refine](https://refine.dev) - 一个基于 React 的框架，用于立即构建数据密集型应用程序.
+- [refine](https://github.com/refinedev/refine) - 不受限制地构建基于 React 的 CRUD 应用程序
+- [aleph](https://github.com/alephjs/aleph.js) - Deno 中的全栈框架
 
 ##### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
-- [useWorker](https://github.com/alewin/useWorker) - 用于无阻塞后台任务的 React Hook
 
 ##### React Styling
 
 - [styled-components](https://github.com/styled-components/styled-components) - 组件时代的视觉原语
-- [emotion](https://github.com/emotion-js/emotion) - 专为使用 JavaScript 编写 CSS 样式而设计的库
-- [radium](https://github.com/FormidableLabs/radium) - 用于 React 组件样式的工具链
-- [jss](https://github.com/cssinjs/jss) - CSS 创作工具
-- [aphrodite](https://github.com/Khan/aphrodite) - 与框架无关的 CSS-in-JS，支持服务器端渲染、浏览器前缀和最小 CSS 生成
-- [linaria](https://github.com/callstack/linaria) - JS 中的零运行时 CSS
-- [stitches](https://github.com/modulz/stitches) - 具有接近零运行时间、SSR、多变体支持和一流开发人员体验的 CSS-in-JS
+- [emotion](https://github.com/emotion-js/emotion) - 专为高性能样式组合而设计的 CSS-in-JS 库
+- [linaria](https://github.com/callstack/linaria) - JS 库中的零运行时 CSS
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - TypeScript 中的零运行时样式表
+- [jss](https://github.com/cssinjs/jss) - 使用 JavaScript 作为宿主语言的 CSS 创作工具
 
 ##### React Routing
 
@@ -144,7 +138,7 @@
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) - 用于 React 的 Google 标签管理器模块
 - [react-device-detect](https://github.com/duskload/react-device-detect) - React检测设备
 - [react-colorful](https://github.com/omgovich/react-colorful) - 一个微小的颜色选择器组件
-- [react-modal](https://github.com/reactjs/react-modal) - React 的可访问模态对话框组件
+- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [cleave.js](https://github.com/nosir/cleave.js) - 键入时格式化输入文本内容
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React 组件
 - [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - 用于图像裁剪的高级 React 组件
@@ -153,6 +147,8 @@
 - [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – 轻巧灵活的 Cookie 同意横幅
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - 用于 React 的心形拨动开关组件
 - [keen-slider](https://github.com/rcbyr/keen-slider) - HTML 触摸滑块轮播，您将获得最原生的感觉
+- [kbar](https://github.com/timc1/kbar) - 适用于您网站的快速、便携和可扩展的 cmd+k 界面
+- [tagify](https://github.com/yairEO/tagify) - 轻量级、高效的标签输入组件
 
 ##### React Components Sandboxes
 
@@ -185,7 +181,7 @@
 - [AtlasKit](https://atlaskit.atlassian.com/) - Atlassian 的 React UI 库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) - Elasticsearch 的 UI 组件库
 - [Slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的框架，用于构建富文本编辑器.
-- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - 通过将 JSON 定义映射到您公开的 React 组件，从 JSON 构造 React 元素.
+- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - 通过将 JSON 定义映射到您公开的 React 组件，从 JSON 构建 React 元素.
 - [react-lodash](https://github.com/typicode/react-lodash) - Lodash 作为 React 组件
 - [react-snap](https://github.com/stereobooster/react-snap) - SPA 的零配置框架不可知静态预呈现
 - [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的 React 框架
@@ -220,7 +216,7 @@
 - [backbone-reaction](https://github.com/jhudson8/backbone-reaction) - React、Backbone 等等
 - [react.backbone](https://github.com/usepropeller/react.backbone) - React 插件使 Backbone 迁移更容易
 - [reactbone](https://github.com/andrejewski/reactbone) - 骨干的反应扩展
-- [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) - 与骨干和骨干分页器一起使用的反应组件
+- [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) - React components for use with backbone and backbone paginator
 - [react-events](https://github.com/jhudson8/react-events) - 反应组件的声明式托管事件绑定
 - [react-mixin-manager](https://github.com/jhudson8/react-mixin-manager) - React mixin 注册管理器
 - [reactdown](https://github.com/andreypopp/reactdown) - 使用 markdown 语法编写 React 组件
@@ -255,7 +251,7 @@
 ##### React State Management
 
 - [redux](#redux) - JavaScript 应用程序的可预测状态容器
-- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
+- [mobx](https://github.com/mobxjs/mobx) - 简单、可扩展的状态管理
 - [react-query](https://github.com/tannerlinsley/react-query) - 用于在 React 中获取、缓存和更新异步数据的钩子
 - [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks
 - [apollo-client](https://github.com/apollographql/apollo-client) - 一个功能齐全、生产就绪的缓存 GraphQL 客户端
@@ -267,7 +263,7 @@
 - [zustand](https://github.com/pmndrs/zustand) - 承担 React 中状态管理的必需品
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - React 的素食友好状态
 - [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且速度极快的状态管理
-- [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
+- [effector](https://github.com/zerobias/effector) - 快速而强大的反应状态管理器
 - [reactn](https://github.com/CharlesStover/reactn) - React，但具有内置的全局状态管理
 - [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - 基于可观察的状态管理，用于在 React 中构建的高性能游戏 UI
 
@@ -311,7 +307,7 @@
 
 ##### Maps
 
-- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
+- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - 对谷歌地图的反应界面
 - [react-maps](https://github.com/matnel/react-maps) - React 的地图组件
 - [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js 谷歌地图集成组件
 - [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - React.js 的谷歌地图组件
@@ -338,16 +334,13 @@
 
 ### React Native
 
-&gt; 使用 React 构建本机应用程序的框架
-
 #### React Native General Resources
 
-- [React Native Official Site](https://facebook.github.io/react-native/)
+- [React Native Official Website](https://reactnative.dev/)
 - [React Native GitHub](https://github.com/facebook/react-native)
-- [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
-- [React Native Playground](https://rnplay.org/)
 - [React Native Awesome List](https://github.com/jondot/awesome-react-native)
-- [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
+- [React Native Community](https://reactnative.dev/community/overview)
+- [Expo](https://expo.dev/)
 
 #### React Native Tutorials
 
@@ -383,7 +376,6 @@
 
 #### React Native Awesome Components
 
-- [Expo](https://expo.io/) - 用于制作跨平台移动应用程序的 Expo 平台
 - [react-navigation](https://reactnavigation.org/) - 为您的 React Native 应用程序路由和导航
 - [react-native-social-share](https://github.com/doefler/react-native-social-share) - 使用 iOS 和 Android 本地 Twitter 和 Facebook 与 React Native 共享弹出窗口
 - [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) - iOS Facebook SDK 的包装器
@@ -399,6 +391,7 @@
 - [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - React Native 最好的大型列表组件
 - [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - 向 React Native 公开平台原生触摸和手势系统的声明式 API
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 在 React Native 中呈现文本或媒体内容之前显示一些占位符内容
+- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - 一个高性能的交互式底部表
 
 #### React Native Libraries
 
@@ -409,8 +402,6 @@
 - [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - 用于在 React Native 中解压缩文件 .zip、.rar、.cbz、.cbr 的简单库.
 
 ### Redux
-
-&gt; JavaScript 应用程序的可预测状态容器
 
 #### Redux General Resources
 
@@ -462,6 +453,8 @@
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
+- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [React Conferences](https://react.dev/community/conferences)
 - [React Videos](https://react.dev/community/videos)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
@@ -496,19 +489,6 @@
 #### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
 
 #### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
-#### Video Tutorials
-
-- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
-
----
-
-### Demo React Apps
-
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - 使用 React 和 GraphQL 使用通用 JavaScript 重写的 Hacker News 克隆
-- [react-reduction](https://github.com/reduction-admin/react-reduction) - 使用 React 和 Bootstrap4 构建的免费管理模板
-- [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) - 响应反应电影数据库应用程序
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 使用 React Redux 构建的简单电子商务购物车应用程序
 
 ---
 

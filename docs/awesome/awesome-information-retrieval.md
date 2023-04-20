@@ -5,7 +5,7 @@
 
 来自整个网络的信息检索和网络搜索资源的精选列表.
 ## Introduction
-[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) 涉及为用户查询查找相关信息，范围从简单的数据库搜索领域到网络搜索的复杂方面（例如 - Google、Bing、Yahoo）. 目前，研究人员正在开发算法来解决 [Information Need](https://en.wikipedia.org/wiki/Information_needs) 用户，通过最大化 [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) 的检索结果，同时最小化 [Information Overload](https://en.wikipedia.org/wiki/Information_overload) 和检索时间.
+[Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) 涉及为用户查询查找相关信息，范围从简单的数据库搜索领域到复杂的网络搜索（例如 - Google、Bing、Yahoo）. 目前，研究人员正在开发算法来解决 [Information Need](https://en.wikipedia.org/wiki/Information_needs) 用户，通过最大化 [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) 的检索结果，同时最小化 [Information Overload](https://en.wikipedia.org/wiki/Information_overload) 和检索时间.
 ## Contributing
 请随时寄给我 [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) 或 [电子邮件] (mailto:harshal.priyadarshi@utexas.edu) 我添加新链接. 我非常愿意接受建议和更正. 请看 [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
 
@@ -32,7 +32,6 @@
 - [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) - David Yarowsky（约翰霍普金斯大学）.
 - [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) - Andrea LaPaugh（普林斯顿大学）.
 - [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/)  - 博士.  Jilles Vreeken，教授，博士. 博士格哈德·魏库姆 (MPI).
-- [COMP6714 Information Retrieval and Web Search](http://www.cse.unsw.edu.au/~cs6714/17s2/index.html) - Wei Wang 教授（新南威尔士大学）.
 - [Coursera - Text Retrieval and Search Engines](https://www.coursera.org/learn/text-retrieval) - ChengXiang Zhai 教授（伊利诺伊大学香槟分校）.
 
 ## Software
@@ -98,9 +97,9 @@
 - [Reuters Corpora](http://trec.nist.gov/data/reuters/reuters.html)  - 语料库现在可通过 NIST 获得. 语料库包括以下内容：
   - RCV1（路透社语料库第 1 卷）- 仅包含英语新闻故事.
    - RCV2（路透社语料库第 2 卷）- 包含 13 种语言的故事（荷兰语、法语、德语、中文、日语、俄语、葡萄牙语、西班牙语、拉丁美洲西班牙语、意大利语、丹麦语、挪威语和瑞典语）. 请注意，这些故事不是平行的.
-  - TRC（汤森路透文本研究合集）——这是一个相当新的语料库，包含 1,800,370 条新闻报道，涵盖从 2008-01-01 00:00:03 到 2009-02-28 23:54:14 的时间段.
+  - TRC（汤森路透文本研究合集）- 这是一个相当新的语料库，包含 1,800,370 条新闻报道，涵盖从 2008-01-01 00:00:03 到 2009-02-28 23:54:14 的时间段.
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - 该数据集包含 20000 条新闻组消息.来自 20 个新闻组主题的帖子.
-- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
+- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) - 该数据集是英文新闻专线文本数据的综合档案，包括标题、日期线和文章.
 - [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - 过去的新闻专线/论文数据集 (DUC 2001 - DUC 2007) 可应要求提供.
 
 #### External Curation Links
@@ -117,7 +116,7 @@
 - [Knowledge-based Information Retrieval with Wikipedia](https://youtu.be/NFCZuzA4cFc) - David Wilne（怀卡托大学，2008 年）.
 - [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) - Steve Tjoa（RackSpace 开发人员）[这个演讲表明 IR 不仅仅是文本和图像].
 - [The Functional Web -- The Future of Apps and the Web](https://youtu.be/u6oqr3gMyxk) - Liron Shapira（Box Tech Talk）.
-- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI)  - Doug Imbruce (Techcrunch Disrupt)[Doug Imbruce 是 Qwiki, Inc 的创始人，这是一家位于纽约州纽约市的科技初创公司，已被雅虎收购！  2013 年].
+- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI) - Doug Imbruce (Techcrunch Disrupt)[Doug Imbruce is the Founder of Qwiki, Inc, a technology startup in New York, NY, acquired by Yahoo! in 2013].
 - [Internet Privacy](https://youtu.be/tnsyhKHalGs) - Alma Whitten 博士（谷歌布鲁塞尔技术讲座）.
 
 

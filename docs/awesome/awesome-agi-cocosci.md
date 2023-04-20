@@ -55,7 +55,7 @@
 
 * [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***，2020 年.Nature 向老手和新手讲述他们为使评论大放异彩所做的工作.
 
-* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
+* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/)  - ***自然***. 撰写科学论文的自然指南.
 
 * [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  - ***麦吉尔大学***. 引入保证可重复性的机器学习算法的指南.
 
@@ -87,7 +87,7 @@
 
 * [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 从原始论文数据中提取特征和元数据的语义学者.
 
-* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5) ].  Semantic Sc​​holar 发布的学术论文开放语料库.
+* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
 
 * [Litmaps](https://www.litmaps.com/)  - ***Litmap 有限公司***. 用于交互式文献地图构建和链接文档管理.
 
@@ -153,7 +153,7 @@
 
 * [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***哲学评论***，1965 年. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5) ]. 利普顿关于最佳解释推理的原始论文作为溯因推理的特例.
 
-* [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789&secret=f39e15) - ***劳特利奇***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895&hl=en&as_sdt=0,5) ]. 利普顿 (Lipton) 关于最佳解释推理的书是溯因推理的一个特例.
+* [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789&secret=f39e15) - ***劳特利奇***，1991 年. [[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895&hl=en&as_sdt=0,5)]. Lipton's book on Inference to the Best Explanation as a special case of Abduction.
 
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***劳特利奇***，1956 年. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5) ]. 一本关于思维模式的经典书籍.
 
@@ -173,7 +173,7 @@
 
 * [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
 * [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***实验心理学杂志***，2018 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201) ]. 绑架的主观概率说明.
 
@@ -235,9 +235,9 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
-* [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
+* [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 
 * [Hypothesis generation, sparse categories, and the positive test strategy](https://psycnet.apa.org/record/2010-22980-001) - ***心理评论***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=4329636480235863472&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -601,7 +601,7 @@
 
 * [Representations in distributed cognitive tasks](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1801_3) - ***认知科学***，1994 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14781266698447195483)].
 
-* [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***认知科学***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
+* [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
 
 
 * [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
@@ -694,7 +694,7 @@
 
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
-* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***关于强化学习和决策的多学科会议&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5) ].  Richard Sutton 对强化学习研究未来方向的看法.
+* [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5) ].  Richard Sutton 对强化学习研究未来方向的看法.
 
 * [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214&hl=en&as_sdt=0,5)].
 
@@ -733,7 +733,7 @@
 
 * [The Deese-Roediger-McDermott (DRM) task: A simple cognitive paradigm to investigate false memories in the laboratory](https://europepmc.org/article/med/28190038) - ***可视化实验杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=10880194606861797581&hl=en&as_sdt=0,5)].
 
-* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***神经元***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
+* [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731&hl=en&as_sdt=0,5)].
 
 * [Rational arbitration between statistics and rules in human sequence processing](https://www.nature.com/articles/s41562-021-01259-6) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=9856085207409198966&hl=en&as_sdt=0,5)].
 
@@ -870,7 +870,7 @@
 
 * [Spontaneous Metatool Use by New Caledonian Crows](https://www.sciencedirect.com/science/article/pii/S0960982207017708) - ***当代生物学***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=9263531730425342443&hl=en&as_sdt=0,5) ]. 有证据表明智能动物可以利用 matatools 制作解决问题的工具.
 
-* [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962) - ***心理科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)].
+* [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962) - ***Psychological Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)].
 
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf) - ***行为与脑科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=4648150119820414671&hl=en&as_sdt=0,5)].
 
@@ -991,7 +991,7 @@
 
 * [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 的第 3 年审查.
 
-* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***Social psychology and the unconscious: The automaticity of higher mental processes (pp. 265–292), Psychology Press***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT 的第 7 年审查.
+* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***社会心理学和无意识：高级心理过程的自动化（第 265-292 页），心理学出版社 ***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT 的第 7 年审查.
 
 * [A Meta-Analysis on the Correlation Between the Implicit Association Test and Explicit Self-Report Measures](http://faculty.washington.edu/agg/IATmaterials/PDFs/Hofmann%20&%20al%20(PSPB,2005).pdf) - ***人格与社会心理学公报***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=4888328728717829047&hl=en&as_sdt=0,5)].
 
@@ -1111,7 +1111,7 @@
 
 #### Philosophy of Science
 
-* [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***芝加哥大学出版社：芝加哥***，1970 年. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5)]. Thomas Kuhn's original book on the emergence and the shift of scientific paradigms.
+* [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***芝加哥大学出版社：芝加哥***，1970 年. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5) ]. 托马斯·库恩 (Thomas Kuhn) 关于科学范式的出现和转变的原著.
 
 * [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***社会学理论***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5) ]. 关于社会科学中“理论”定义的哲学解释（也可以推广到自然科学）.
 
@@ -1330,7 +1330,7 @@
 
 * [Causal Reasoning in Rats](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/2006_science.pdf) - ***科学***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=17987039255457850949&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
 
-* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***Proceedings of the Royal Society B: Biological Sciences***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
+* [Do New Caledonian crows solve physical problems through causal reasoning?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.4674&rep=rep1&type=pdf) - ***英国皇家学会学报 B：生物科学***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=18374985546068164189&hl=en&as_sdt=0,5) ]. 智能动物因果推理能力的证据.
  
 * [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***认知***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186&hl=en&as_sdt=0,5)].
 
@@ -1591,7 +1591,7 @@
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***认知科学趋势***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5) ]. 劳拉·舒尔茨 (Laura Schulz) 对儿童探索游戏的评论.
 
-* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***发展心理学年度回顾***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5)]. Laura Schulz's review on children's exploratory play, which proposes a new perspective on exploratory play to explain the emergence of irrational behaviors in play.
+* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***发展心理学年度回顾***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5) ].  Laura Schulz 对儿童探索性游戏的评论，提出探索性游戏的新视角来解释游戏中非理性行为的出现.
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001) - ***发展心理学***，1981 年. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)].
 
@@ -1695,7 +1695,7 @@
 
 * [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***心理学年度回顾***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)].
 
-* [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5) ]. 关于按组件识别理论的原始论文.
+* [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5) ]. 关于按组件识别理论的原始论文.
 
 * [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) - ***自然***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092&hl=en&as_sdt=0,5)].
 
@@ -1711,7 +1711,7 @@
 
 * [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477&hl=en&as_sdt=0,5)].
 
-* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***认知***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915&hl=en&as_sdt=0,5) ]. 关于课程学习理念的原始论文.
+* [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***认知***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915&hl=en&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
 
 * [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***认知***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166&hl=en&as_sdt=0,5)].
 
@@ -1770,7 +1770,7 @@
   * [Pooled Motion Features for First-Person Videos](https://openaccess.thecvf.com/content_cvpr_2015/papers/Ryoo_Pooled_Motion_Features_2015_CVPR_paper.pdf) - ***CVPR'15***, 2015.
   * [Actor and Observer: Joint Modeling of First and Third-Person Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sigurdsson_Actor_and_Observer_CVPR_2018_paper.pdf) - ***CVPR'18***, 2018.
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41) - ***ECCV'20***, 2020.
-  * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213) - ***Trans. PAMI***, 2020.
+  * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213)  - ***翻译. 在 *** 中，2020 年.
   * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828)  - ***翻译.  CSVT***，2021 年.
   * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727) - ***IROS&#39;04***，2004 年. [[Project](http://gazebosim.org/)].
   * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf) - ***CIG&#39;16***，2016 年. [[Project](http://vizdoom.cs.put.edu.pl/)].
@@ -1971,7 +1971,7 @@
 
 认知科学家，为研究人类交流奠定了基础. 
 
-* [Origins of human communication](https://1lib.net/book/541274/39859f) - ***MIT Press***, 2010. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)].
+* [Origins of human communication](https://1lib.net/book/541274/39859f) - ***麻省理工学院出版社***，2010 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=2553369883266458474)].
 
 * [The cultural origins of human cognition](https://hk1lib.org/book/541275/1452f8?id=541275&secret=1452f8) - ***哈佛大学出版社***，2000 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=5000469061641945144)].
 
@@ -2026,6 +2026,6 @@
 
 ## About
 
-这个 repo 的发起者一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向玄学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+The [initiator](https://github.com/YuzheSHI) 这个 repo 一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向形而上学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
 显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

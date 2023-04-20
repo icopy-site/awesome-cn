@@ -138,7 +138,7 @@
 - [Accessibility Observatory](http://access.umn.edu/data/datasets/)  - 作为 Access Across America 系列的一部分，UMN 的 Accessibility Observatory 评估了美国主要大都市地区多种交通方式的可达性. 报告每年发布一次，精选数据集可通过明尼苏达大学的数字学院获得.
 - [BTS Open Data Site](https://data-usdot.opendata.arcgis.com/)  - 在 BTS 开放数据站点上，浏览属于 BTS 国家交通地图集数据库 (NTAD) 产品的地理空间数据.  NTAD 是一组全国（美国）交通设施和网络公共空间信息地理数据库； 交通网络中的人流、货物流、车辆流和工艺流； 影响交通网络或受交通网络影响的社会、经济和环境条件.
 - [City Access Map](https://www.cityaccessmap.com/)  - CityAccessMap 由城市科学家为城市规划者开发. 它使用来自 OpenStreetMap 和全球人类住区层 (GHSL) 的开放数据，对世界上任何城市的各种服务的步行可达性进行量化和可视化.
-- [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别是从家到工作的 FLOWS 和小型地理区域的基于 WORKPLACE 的数据.
+- [CTPP](https://ctpp.transportation.org/)  - CTPP 计划采购美国社区调查 (ACS) 5 年（和历史人口普查十年）数据的表格.  ACS 数据和 CTPP 数据之间的主要区别在于从家到工作的 FLOWS 数据和小型地理区域的基于 WORKPLACE 的数据.
 - [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - HPMS 是国家级公路信息系统，包括有关国家公路范围、状况、性能、使用和运营特征的数据.
 - [Transitland](https://transit.land)  - Transitland 是一个开放数据平台，从超过 55 个国家/地区的 2,500 多家公交运营商收集 GTFS、GTFS Realtime 和其他开放数据源. 附加信息： [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 - [National Noise Map](https://www.bts.gov/geospatial/national-transportation-noise-map) - 国家交通噪声地图中的数据代表指定年份平均每年一天的全国潜在噪声水平. 
@@ -170,7 +170,7 @@
 
 - [CoreLogic](https://www.corelogic.com/) - 提供高质量的地块数据，提供对详细财产特征、销售记录、估价和当前县评估员文件的数字副本的即时访问.
 - [Regrid](https://regrid.com/) - 为您的地图、应用程序和空间分析提供地块和位置上下文数据的领先提供商.
-- [CoStar](https://www.costar.com/) - 为英国、美国和加拿大提供服务的商业房地产信息和分析提供商. 
+- [CoStar](https://www.costar.com/) - 一家服务于英国、美国和加拿大的商业房地产信息和分析提供商. 
 - [EarthDefine](http://www.earthdefine.com/) - EarthDefine 正在使用 AI 将地球传感器数据转换为可消费的地理空间信息产品，包括高分辨率土地覆盖分类和建筑物足迹. 
 
 ### Resilience and Natural Hazards
@@ -226,6 +226,7 @@
 - [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - 该标准为用户提供实时的公交数据更新，极大地提升了他们的公交服务体验. 
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但与符合欧洲标准的硬件和网络系统兼容.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
+- [OpenSidewalks](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - 可路由行人网络以及描述和共享行人网络和行人网络相邻数据的数据规范.
 - [GBFS](https://github.com/NABSA/gbfs) - 通用自行车共享馈送规范是共享移动系统可用性的标准化数据馈送.
 - [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - 移动数据规范是一种数据标准，可实现移动公司与地方政府之间的通信.
 - [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 托管和收费车道馈送规范旨在供托管车道和收费行业用于动态通行费率的标准化和共享，以及任何托管车道用途，包括但不限于匝道计量、公交专用车道、快速车道，尤其是在资源动态定价的情况下.

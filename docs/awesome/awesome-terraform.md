@@ -5,7 +5,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
 
 
@@ -252,7 +252,7 @@
 - [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfexport](https://github.com/Azure/aztfexport) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -312,6 +312,7 @@
 - [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser)  - 用于从“terraform plan”解析标准输出并将其转换为 JSON 的命令行实用程序和 JavaScript API.  ：鬼：
 - [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - 用于管理相同 Terraform 脚本的多个条款的工具.
 - [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - 用于管理地形规划的共享 Rake 任务.
+- [terraform-repl](https://github.com/paololazzari/terraform-repl) - Terraform 控制台包装器，可提供更好的交互式控制台体验.
 - [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析 Terraform 状态文件的 Ansible 动态清单脚本.
 - [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  - 从现有基础设施生成地形文件的 CLI 工具. 基础设施到代码. 支持许多供应商.
 - [terraforming](https://github.com/dtan4/terraforming)  - 将现有 AWS 资源导出为 Terraform 样式（tf、tfstate）. 类似于`terraformer`.

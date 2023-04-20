@@ -10,6 +10,8 @@
 
 
 ## Papers
+### 2023
+- [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/pdf?id=iIfDQVyuFD) -（ICLR）*提出公平决策树学习算法以及零知识证明协议，以获得被审计服务器的公平性证明.*
 ### 2022
 - [Two-Face: Adversarial Audit of Commercial Face Recognition Systems](https://ojs.aaai.org/index.php/ICWSM/article/view/19300/19072) -（ICWSM）*对多个系统 API 和数据集进行对抗性审计，进行一些相关观察.*
 - [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) -（信息科学杂志） [(Code)](https://github.com/gesiscss/WebBot) *使用虚拟代理的模拟浏览行为审核多个搜索引擎.*
@@ -86,7 +88,7 @@
 ### 2008
 - [Privacy Oracle: a System for Finding Application Leakswith Black Box Differential Testing](https://dl.acm.org/citation.cfm?id=1455806) - (CCS) *Privacy Oracle：一个系统，可以发现应用程序在传输到远程服务器时泄露的个人信息.*
 ### 2005
-- [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *远程线性分类器的逆向工程，使用成员查询.*
+- [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
 
 ## Related Events
 * [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
