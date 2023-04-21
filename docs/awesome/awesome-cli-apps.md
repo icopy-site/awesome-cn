@@ -334,7 +334,7 @@
 
 ### Math
 
-- [mdlt](https://github.com/metadelta/mdlt) - 直接从命令行进行快速数学计算.
+- [mdlt](https://github.com/metadelta/mdlt) - 直接从命令行进行快速数学运算.
 - [Qalculate](https://github.com/Qalculate/libqalculate)  - 计算非平凡的数学表达式. 单位换算、符号计算等.
 
 ### Weather
@@ -418,6 +418,7 @@
 - [nnn](https://github.com/jarun/nnn) - 具有出色桌面集成的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) - 快速、可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) - 快速、简单的文件管理器.
+- [clifm](https://github.com/leo-arch/clifm) - 命令行文件管理器.
 
 ### Deleting, Copying, and Renaming
 

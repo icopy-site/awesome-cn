@@ -16,7 +16,7 @@ _有助于编写 SNMP 应用程序._
 - [SNMP++](https://www.agentpp.com/api/cpp/snmp_pp.html)  - BSD 许可 HP 的 SNMP 实施. 支持 SNMP v1/2c/v3、线程安全等.
 - [AGENT++](https://www.agentpp.com/api/cpp/agent_pp.html)  - AGENT++ C++ 框架为 SNMP 代理的开发提供了完整的三语 SNMP v1/2c/3 协议引擎和调度程序. 阿帕奇许可.
 - [AgentX++](https://www.agentpp.com/api/cpp/agentx_pp.html) - AgentX++ C++ 框架提供了一个完整的 AgentX 协议 (RFC 2741) 实现，它向 AGENT++ (`Commercial`) 添加了 AgentX 主代理和子代理支持.
-- [openSNMP](https://sourceforge.net/projects/opensnmp/) - BSD 许可的 SNMPv3 多线程实现.
+- [openSNMP](https://sourceforge.net/projects/opensnmp/) - BSD licensed multi-threaded implementation of SNMPv3.
 
 ### C#
 - [sharpSNMP](https://github.com/lextudio/sharpsnmplib) - MIT 许可的 SNMP 库，适用于 .NET/Xamarin/Mono.
@@ -53,12 +53,18 @@ _有助于编写 SNMP 应用程序._
 
 ### Python
 - [pysnmp](https://github.com/etingof/pysnmp) - 这是一个纯 Python、开源和免费实现的 v1/v2c/v3 SNMP 引擎，在 2-clause BSD 许可下分发.
+  - 该项目已被放弃 [due to the death of the sole maintainer](https://github.com/etingof/pysnmp/issues/427).
+   - 已经创建了一些分支以继续该项目及其周围的生态系统. 看 [here](https://github.com/etingof/pysnmp/issues/429).
+  - 前叉似乎是 [lextudio/pysnmp](https://github.com/lextudio/pysnmp).
+  - 还有一个 [community fork](https://github.com/pysnmp/pysnmp) 正在积极开发中，但尚不清楚该项目是否致力于维护所有相关的存储库、文档和网站.
 - [pysmi](https://github.com/etingof/pysmi) - PySMI 是 SNMP SMI MIB 解析器的纯 Python 实现.
+   - 由于与上述 pysnmp 项目相同的原因而被放弃. 看 [lextudio/pysmi](https://github.com/lextudio/pysmi).
 - [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 及更高版本在“python”子目录中包含 Python 绑定，但它们不是默认构建的.
 - [puresnmp](https://github.com/exhuma/puresnmp) - 没有任何依赖的纯 Python3 SNMPv2 库.
 - [snimpy](https://github.com/vincentbernat/snimpy) - Snimpy 是一个基于 Python 的工具，提供了一个简单的界面来构建 SNMP 查询.
 - [python-netsnmpagent](https://github.com/pief/python-netsnmpagent) - 这个包允许在 Python 中编写 net-snmp 子代理.
 - [hnmp](https://github.com/trehn/hnmp) - HNMP 是一个高级 Python 库，用于减轻从支持 SNMP 的设备（例如网络交换机、路由器和打印机）检索和处理数据的痛苦.
+  - 自 2021 年 11 月以来没有开发.
 - [aiosnmp](https://github.com/hh-h/aiosnmp)  - Python 包 aiosnmp 是与 asyncio 一起使用的异步 SNMP 客户端. 仅支持 SNMP v2c.
 - [robotframework-snmplibrary](https://github.com/kontron/robotframework-snmplibrary) - SNMPLibrary 是用于测试 SNMP 的机器人框架测试库.
 - [Scapy](https://github.com/secdev/scapy)  - 数据包处理程序和库.  Scapy 有一个 [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) 构建/剖析 SNMP 数据包.
@@ -84,7 +90,7 @@ _您使用这些可以更轻松地使用 SNMP._
   - [snmpgetnext](http://www.net-snmp.org/docs/man/snmpgetnext.html) - 使用 SNMP GETNEXT 请求与网络实体通信.
   - [snmpbulkget](http://www.net-snmp.org/docs/man/snmpbulkget.html) - 使用 SNMP GETBULK 请求与网络实体通信.
   - [snmpwalk](http://www.net-snmp.org/docs/man/snmpwalk.html) - 使用 SNMP GETNEXT 请求检索管理值的子树.
-  - [snmpbulkwalk](http://www.net-snmp.org/docs/man/snmpbulkwalk.html) - Retrieves a subtree of management values using SNMP GETBULK requests.
+  - [snmpbulkwalk](http://www.net-snmp.org/docs/man/snmpbulkwalk.html) - 使用 SNMP GETBULK 请求检索管理值的子树.
   - [snmpset](http://www.net-snmp.org/docs/man/snmpset.html) - 使用 SNMP SET 请求与网络实体通信.
   - [snmptest](http://www.net-snmp.org/docs/man/snmptest.html) - 使用 SNMP 请求与网络实体通信.
   - [snmptable](https://net-snmp.sourceforge.io/docs/man/snmptable.html) - 检索 SNMP 表并以表格形式显示.
@@ -132,7 +138,7 @@ _您使用这些可以更轻松地使用 SNMP._
 - [agentpp/MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - 使用 MIB Designer 创建、编辑、管理和探索 SMI 规范（“商业”）.
 - [agentpp/MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - 使用 MIB Explorer 浏览、配置、测试和调试、监控和发现 SNMPv1/2c/3 实体.
 - [sharpsnmp/SNMP Pro](https://www.sharpsnmp.com/) - 一系列基于 .NET 的 SNMP 产品，包括商业 MIB 编译器、MIB 组件和开源库.
-- [paessler/snmptester](https://www.paessler.com/tools/snmptester)  - 此工具使您能够调试 SNMP 活动以查找 SNMP 监控配置中的通信和/或数据问题. 视窗.
+- [paessler/snmptester](https://www.paessler.com/tools/snmptester) - This tool enables you to debug SNMP activities to find communication and/or data issues in SNMP monitoring configurations. Windows.
 - [ireasoning/MIB Browser](http://ireasoning.com/mibbrowser.shtml)  - 该工具允许用户加载标准的、专有的 MIB，甚至是一些格式错误的 MIB. 它还允许他们发出 SNMP 请求以检索代理的数据，或对代理进行更改. 免费供个人使用.
 - [ireasoning/SNMP Agent Simulator](http://ireasoning.com/snmpsimulator.shtml) - 免费的 SNMP 代理模拟器基于 Java 的应用程序，可以模拟 SNMPv1/v2c/v3 代理.
 - [Visual SNMP](https://github.com/sisraell/VisualSNMP)  - Visual SNMP 是一个简单的工具，用于测试对 SNMP 代理的访问. 目前支持 SNMPGET 和 SNMPWALK，但功能有限.
@@ -207,7 +213,7 @@ _操作方法、教程、博客文章、文档和书籍._
 
 
 ## Miscellaneous
-_Items that belong on the list but difficult to classify._
+_属于清单但难以分类的项目._
 
 - [SNMPLink.org](http://snmplink.org/) - SNMPlink.org 提供有关 SNMP、MIB（管理信息库）、网络管理和网络监控的链接和信息.
 - [SNMPTools.net](https://www.snmptools.net/) - SNMPTools.net 提供有关 SNMP 应用程序、工具包、网关、模拟器、MIB 浏览器等的链接和信息.

@@ -229,6 +229,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 - [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
 - [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - 关于 HP 9872A 和 7221A 笔式绘图仪开发的多篇文章.
+- [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - 关于 HP 7580A 型绘图仪开发的多篇文章.
 - [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - 关于 HP 7580A 型绘图仪开发的多篇文章.
 - [CalComp Precision Graphics System 900/728 Brochure (1970)](https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196)
 - [Digital Plotting Newsletter (1967)](https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114)
@@ -245,7 +246,6 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 - [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 - [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
-
 
 ## Community
 

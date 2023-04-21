@@ -128,7 +128,7 @@
 - [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - 字符编码很困难，当每个破碎的数据输入层添加自己的香料时更是如此.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) - 为单元测试和 QA 编译真实的国际和多样化的名称数据.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试您的软件.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)  - 一个巨大的字符串语料库，当用作用户输入数据时很可能导致问题. 必须有一组实用的边缘案例来测试你的软件.
 
 ## Management
 
@@ -193,6 +193,7 @@
 - [Falsehoods about Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) - 为什么你的分页算法让某人（可能是你）头疼.
 - [Falsehoods about garbage collection](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - 对垃圾收集的可预测性和性能的误解.
 - [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - 文件系统和操作系统的多样性使文件路径比我们想象的要难一些.
+- [The weird world of Windows file paths](https://www.fileside.app/blog/2023-03-17_windows-file-paths/)  - “在任何 Unix 派生的系统上，路径是一件非常简单的事情：如果它以 `/` 开头，它就是一条路径. 在 Windows 上不是这样.”
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - 对缓存的误解通常会导致错误的断言，尤其是在涉及并发和竞争条件时.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  - 有一些关于 `/dev/urandom` 和 `/dev/random` 的东西被反复重复. 他们仍然是错误的.
 - [Facts about State Machines](https://github.com/cpressey/Facts-about-State-Machines) - 状态机经常被误解和应用不足.

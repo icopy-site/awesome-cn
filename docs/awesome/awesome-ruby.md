@@ -76,7 +76,7 @@
 
 ## Authentication and OAuth
 
-* [API Guard](https://github.com/Gokul595/api_guard) - 用于 Rails API 的 JWT 身份验证解决方案.
+* [API Guard](https://github.com/Gokul595/api_guard) - Rails API 的 JWT 身份验证解决方案.
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic 是一种干净、简单且不显眼的 ruby​​ 身份验证解决方案.
 * [Clearance](https://github.com/thoughtbot/clearance) - Rails 的基于电子邮件和密码的小而简单的身份验证.
 * [Devise](https://github.com/heartcombo/devise) - 基于 Warden 的灵活的 Rails 身份验证解决方案.
@@ -134,7 +134,7 @@
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir 是一种 Ruby DSL，它使序列化和缓存对象变得轻而易举.
 * [Readthis](https://github.com/sorentwo/readthis) - 使用 Redis 的高性能、池化、ActiveSupport 兼容缓存.
 * [Record Cache](https://github.com/orslumen/record-cache) - 在 Rails 3 中缓存活动模型记录.
-* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及命名空间.
+* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及名称空间.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) - ActiveRecord 4 的直写和直读缓存库.
 
 ## Captchas and anti-spam
@@ -351,7 +351,7 @@
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner 是一组用于在 Ruby 中清理数据库的策略.
 * [Database Consistency](https://github.com/djezzzl/database_consistency) - 检查应用程序约束和数据库约束是否同步的简单方法.
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - 将外键助手添加到迁移并将外键正确转储到 schema.rb.
-* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 模式迁移.
+* [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 架构迁移.
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描您的模型并显示可能应该编制索引的列列表.
 * [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的真实世界数据.
 * [PgHero](https://github.com/ankane/pghero) - Postgres 见解变得简单.
@@ -627,7 +627,7 @@
 * [HappyMapper](https://github.com/dam5s/happymapper) - 对象到 XML 映射库，使用 Nokogiri.
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) - HTML 处理过滤器和实用程序.
 * [Nokogiri](https://nokogiri.org) - 支持 XPath 和 CSS 选择器的 HTML、XML、SAX 和 Reader 解析器.
-* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  Oga 不需要 libxml 等系统库，在各种平台上安装更简单、更快捷.
+* [Oga](https://gitlab.com/yorickpeterse/oga)  - 用 Ruby 编写的 XML/HTML 解析器.  oga不需要libxml等系统库，在各种平台上安装更简单快捷.
 * [Ox](https://github.com/ohler55/ox) - 一个快速的 XML 解析器和对象编组器.
 * [ROXML](https://github.com/Empact/roxml) - 通过 Nokogiri 或 LibXML，使用注释样式类方法在 Ruby 和 XML 之间自定义映射和双向编组.
 
@@ -710,6 +710,7 @@
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - PredictionIO Ruby SDK 提供了一个方便的 API 来快速记录用户的行为并为他们检索个性化预测.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm)  - LIBSVM 的 Ruby 语言绑定.  SVM 是一种机器学习和分类算法.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - 用于与 FANN（快速人工神经网络）接口的 Ruby 库.
+* [ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + 红宝石！
 * [rumale](https://github.com/yoshoku/rumale) - 具有类似于 Scikit-Learn 界面的机器学习库.
 * [TensorFlow](https://github.com/ankane/tensorflow) - Ruby 的端到端机器学习平台.
 * [Torch.rb](https://github.com/ankane/torch.rb) - 由 LibTorch 提供支持的 Ruby 深度学习.
@@ -769,7 +770,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -995,7 +996,7 @@
 * [SciRuby](https://github.com/sciruby/sciruby) - Ruby/Rails 中的科学计算工具.
   * [IRuby](https://github.com/SciRuby/iruby) - 用于 Jupyter 的 Ruby 内核.
   * [statsample](https://github.com/sciruby/statsample) - 用于 Ruby 基本和高级统计的套件.
-  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby 统计样本时间序列.
+  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) - Statsample 的广义线性模型扩展.
   * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.
@@ -1134,7 +1135,7 @@
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.

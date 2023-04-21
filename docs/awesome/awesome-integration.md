@@ -29,7 +29,7 @@
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台，提供完善的API管理能力，帮助您对API进行全生命周期管理.
 - [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - 来自 TIBCO 的云原生 API 平台，使您能够在任何地方部署 API 并从任何地方管理它们.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - 强大的 API 管理解决方案，让您轻松连接、构建和控制 API.
-- [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - 来自 Software AG 的全面 API 管理解决方案，提供完整的生命周期 API 管理功能，使您能够在本地和云环境中管理 API.
+- [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - 来自 Software AG 的综合 API 管理解决方案，提供完整的生命周期 API 管理功能，使您能够在本地和云环境中管理 API.
 - [WSO2 API Manager](https://github.com/wso2/product-apim) - 完全开源的API管理平台，提供全面的API管理能力，让您轻松管理API.
 
 <!--lint disable-->
@@ -54,7 +54,7 @@
 - [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer) - 一种根据 OpenAPI 规范生成用户界面的工具，使软件工程师更容易可视化 API 并与之交互.
 - [RapiDoc](https://github.com/rapi-doc/RapiDoc) - 一种根据 OpenAPI 规范生成可定制的交互式 API 文档的工具，具有一系列设计选项.
 - [Redoc](https://github.com/Redocly/redoc) - 一个开源工具，用于从 OpenAPI (fka Swagger) 定义生成文档，具有可定制的主题、语言支持和品牌.
-- [Slate](https://github.com/slatedocs/slate) - 一个强大的工具，可以从 markdown 创建静态 API 文档，以及 API 参考文档和代码示例.
+- [Slate](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
 - [Stoplight Elements](https://github.com/stoplightio/elements)  - 由 OpenAPI 和 Markdown 提供支持的精美 API 文档. 使用这些 UI 组件创建 API 参考文档，或更完整的文档以及包含教程、操作指南等的 Markdown 文章.
 - [SwaggerHub](https://swagger.io/tools/swaggerhub/) - 为团队构建的集成 API 设计和文档平台，具有版本控制、测试自动化以及与流行的 API 工具的集成.
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - 用于探索 API 并与之交互的直观工具，具有 API 规范可视化、端点探索和内置交互式控制台.
@@ -145,7 +145,7 @@
 <!--lint enable-->
 ### ESB
  *企业服务总线 (ESB) 解决方案通过提供允许它们交换信息的通信层来促进不同系统和应用程序的集成.  ESB 提供了一系列功能，例如消息路由、转换、协议转换和数据中介. 它们通常支持各种消息传递模式和通信协议，并提供用于管理和监控消息流量的集中平台. *
-- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - 一个全面的 API 管理和集成平台，可简化 Mulesoft 的应用程序连接.
+- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - A comprehensive API management and integration platform that simplifies connecting applications from Mulesoft.
 - [Apache ServiceMix](https://servicemix.apache.org/) - 一个开源集成容器，结合了 Apache ActiveMQ、Camel、CXF 和 Karaf 的功能，提供了一个灵活的解决方案.
 - [ArcESB](https://www.arcesb.com/integration/) - 一个多功能的集成平台，跨应用程序无缝同步数据，与合作伙伴集成，并提供数据可访问性.
 - [IBM App Connect](https://www.ibm.com/cloud/app-connect) - 一个可以连接应用程序的集成平台，无论它们使用何种消息格式或协议，以前称为 IBM Integration Bus.
@@ -161,7 +161,7 @@
 <!--lint disable-->
 <!--lint enable-->
 ### ETL
-*ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.*
+ *ETL（提取、转换、加载）和 ELT（提取、加载、转换）是用于集成和整合来自多个来源的数据的过程. 本节涵盖了一系列用于执行这些任务的开源和商业工具，包括数据摄取、转换和加载到数据仓库或其他数据存储系统中. *
 - [Apache NiFi](https://github.com/apache/nifi) - 一个自动化的数据集成平台，可以在不同的系统之间有效地移动数据.
 - [CloverETL](http://www.cloveretl.com/) - 全面的数据集成软件套件，非常适合数据迁移、仓储以及将数据输入 BI 和报告应用程序. 
 - [Hevo](https://hevodata.com/) - 一个完全自动化的无代码数据管道平台，支持跨数据库、SaaS 应用程序、云存储、SDK 和流媒体服务的 150 多个集成.
@@ -187,7 +187,7 @@
 ### iPaaS
  *集成平台即服务 (iPaaS) 是一个基于云的平台，使企业能够轻松集成不同的系统、应用程序和数据源. 它提供了一个统一的平台来管理各种系统之间的数据流，简化了集成不同系统和自动化工作流程的过程.  iPaaS 工具通常提供用于设计、部署和管理集成的可视化界面，以及用于与流行系统和服务集成的预构建连接器和 API. *
 - [Anypoint Platform](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) - 一个强大的集成平台，将 API 管理和集成功能结合在一个平台中，使软件工程师能够轻松集成各种应用程序.
-- [Boomi AtomSphere](https://boomi.com/platform) - A cloud-native, unified, open, and intelligent platform that connects everything and everyone, allowing software engineers to create and manage integrations easily.
+- [Boomi AtomSphere](https://boomi.com/platform) - 一个云原生、统一、开放和智能的平台，连接一切和每个人，使软件工程师能够轻松创建和管理集成.
 - [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas)  - 一个全面的集成平台，提供预构建的模板和工作流来自动化业务流程. 它集成了数以千计的应用程序并简化了软件工程师的集成.
 - [IBM Cloud Integration](https://www.ibm.com/cloud/integration)  - 下一代集成平台，使用 AI 为软件工程师提供创新的集成方法. 该平台加速了集成过程，使其更快、更具可扩展性.
 - [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html)  - 一套旨在提高生产力并提高速度和规模的云数据管理产品. 软件工程师可以使用该平台高效地管理数据和集成应用程序.
@@ -203,11 +203,11 @@
 ### MaaS
  *云消息传递即服务 (MaaS) 是指基于云的消息传递平台，可在分布式应用程序和服务之间实现可靠、安全和可扩展的通信. 这些平台提供各种消息传递模式，例如发布-订阅、请求-回复和流式传输. 它们还提供消息路由、过滤、转换和持久性等功能，并支持各种协议和 API 以与不同系统集成.*
 - [Amazon MQ](https://aws.amazon.com/amazon-mq)  - 支持 Apache ActiveMQ 和 RabbitMQ 的完全托管消息代理服务. 它为您的应用程序提供可靠、安全且可扩展的消息传递基础架构.
-- [Amazon MSK](https://aws.amazon.com/msk)  - Apache Kafka 的完全托管服务，可简化 Kafka 集群的设置、扩展和管理. 它为您的数据流需求提供高度可用、持久且高性能的消息传递服务.
+- [Amazon MSK](https://aws.amazon.com/msk) - A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
 - [Amazon SQS](https://aws.amazon.com/sqs)  - 一种完全托管的消息队列服务，使您能够分离和扩展微服务、分布式系统和无服务器应用程序. 它提供可靠、安全且高度可用的消息存储和传递系统.
 - [Amazon SNS](https://aws.amazon.com/sns)  - 一种完全托管的发布/订阅消息服务，使您能够在分布式系统、微服务和事件驱动的无服务器应用程序之间发送和接收消息. 它提供了一种灵活、可扩展且经济高效的方式来通知订阅者事件和消息.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka)  - 一项完全托管的 Apache Kafka 服务，可为您的应用程序提供高吞吐量、低延迟和高可用性的消息流. 它提供与其他阿里云服务的轻松集成和无缝数据迁移.
-- [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq)  - 分布式和完全托管的消息传递服务，可为您的应用程序提供高可扩展性、低延迟和高吞吐量. 它提供灵活的部署选项、轻松的管理和强大的安全功能.
+- [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed and fully managed messaging service that provides high scalability, low latency, and high throughput for your applications. It offers flexible deployment options, easy management, and robust security features.
 - [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service)  - 分布式消息传递和通知服务，支持应用程序和分离系统之间的并发操作和消息传输. 它为您的消息传递需求提供高可靠性、可扩展性和容错能力.
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq)  - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信. 它为您的消息流需求提供高可用性、可扩展性和持久性.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue)  - 与 Anypoint 平台完全集成的企业级云消息服务. 它提供灵活可靠的消息传递基础架构，使您能够集成和编排您的应用程序和系统.
@@ -283,7 +283,7 @@
  *自助服务和公民集成器工具旨在使非技术用户无需广泛的编程知识即可构建集成. 这些工具通常具有用于流行应用程序和服务的拖放式界面和预建连接器. *
 
 - [IFTTT](https://ifttt.com/) - 一个强大的自助服务和公民集成工具，使用户能够通过使用条件语句连接多个 Web 服务来创建自定义工作流程，从而轻松提高生产力.
-- [Microsoft Power Automate](https://powerautomate.microsoft.com) - This cloud-based service offers a user-friendly interface to create automated workflows seamlessly, integrating different applications and services with ease, simplifying complex tasks.
+- [Microsoft Power Automate](https://powerautomate.microsoft.com) - 这种基于云的服务提供了一个用户友好的界面，可以无缝地创建自动化工作流程，轻松集成不同的应用程序和服务，简化复杂的任务.
 - [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - 使用 Oracle 的自助服务集成工具轻松地在各种云应用程序之间自动执行任务，提供无缝且高效的集成过程.
 - [Zapier](https://zapier.com/) - 一种直观的自动化工具，可连接数百个 Web 服务，轻松创建流程之间的自动化，简化任务并提高整体生产力.
 
@@ -300,7 +300,7 @@
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台，可帮助您以灵活且可扩展的方式自动化业务流程和决策.
 - [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在运行和管理微服务架构中的工作流.
 - [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个库，可以在任何 .NET Core 应用程序中执行工作流，从而更容易在 .NET 环境中自动化业务流程.
-- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式实现业务流程自动化.
+- [Flowable](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 - [jBPM](https://github.com/kiegroup/jbpm) - 用于构建业务应用程序的工具包，可帮助您自动化业务流程和决策，从而更轻松地管理复杂的工作流程.
 - [StackStorm](https://github.com/StackStorm/st2) - 一个强大的自动化引擎，提供传感器、触发器、规则、工作流和操作，以帮助您自动化和编排复杂的工作流和应用程序.
 
@@ -316,7 +316,7 @@
 - [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 如何防止通道上的“遗留”消息干扰测试或运行系统？
 - [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少通过系统发送的消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
-- [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多条消息？
+- [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - How can a messaging client process multiple messages concurrently?
 - [Composed Message Processor](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DistributionAggregate.html) - 在处理由多个元素组成的消息时，如何维护整个消息流，每个元素可能需要不同的处理？  
 - [Content Enricher](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html) - 如果消息发起者没有可用的所有必需数据项，我们如何与另一个系统通信？  
 - [Content Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentFilter.html) - 当您只对少数数据项感兴趣时，您如何简化对大消息的处理？  
@@ -327,7 +327,7 @@
 - [Dead Letter Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DeadLetterChannel.html) - 消息系统将如何处理它无法传递的消息？  
 - [Detour](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Detour.html) - 如何通过中间步骤路由消息以执行验证、测试或调试功能？
 - [Document Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DocumentMessage.html) - 如何使用消息传递在应用程序之间传输数据？
-- [Durable Subscriber](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DurableSubscription.html) - How can a subscriber avoid missing messages while it is not listening for them?
+- [Durable Subscriber](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DurableSubscription.html) - 订户如何在不收听消息时避免丢失消息？
 - [Dynamic Router](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DynamicRouter.html) - 如何在保持其效率的同时避免路由器对所有可能目的地的依赖？
 - [Envelope Wrapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EnvelopeWrapper.html) - 现有系统如何参与对消息格式提出特定要求（例如消息头字段或加密）的消息交换？  
 - [Event Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html) - 如何使用消息传递将事件从一个应用程序传输到另一个应用程序？
@@ -352,7 +352,7 @@
 - [Messaging Bridge](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html) - 如何连接多个消息系统，以便在一个系统上可用的消息在其他系统上也可用？
 - [Messaging Gateway](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingGateway.html) - 如何封装从应用程序的其余部分访问消息系统？
 - [Messaging Mapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingMapper.html) - 如何在域对象和消息传递基础结构之间移动数据，同时保持两者相互独立？
-- [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - 如何处理语义相同但格式不同的消息？
+- [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - How do you process messages that are semantically equivalent, but arrive in a different format?
 - [Pipes and Filters](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html) - 如何在保持独立性和灵活性的同时对消息进行复杂的处理？  
 - [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - 呼叫者如何确定只有一个接收者会收到文件或执行呼叫？
 - [Polling Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html) - 当应用程序就绪时，应用程序如何使用消息？  
@@ -365,7 +365,7 @@
 - [Routing Slip](https://www.enterpriseintegrationpatterns.com/patterns/messaging/RoutingTable.html) - 当步骤顺序在设计时未知且每条消息可能不同时，我们如何通过一系列处理步骤连续路由消息？  
 - [Scatter-Gather](https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html) - 当一条消息需要发送给多个收件人并且每个收件人都可以发送回复时，您如何维护整体消息流？  
 - [Selective Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageSelector.html) - 消息消费者如何选择它希望接收的消息？  
-- [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html) - How can an application design a service to be invoked both via various messaging technologies and via non-messaging techniques?
+- [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html) - 应用程序如何设计既可通过各种消息传递技术又可通过非消息传递技术调用的服务？
 - [Smart Proxy](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html) - 您如何跟踪将回复消息发布到请求者指定的返回地址的服务上的消息？
 - [Splitter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html) - 如果消息包含多个元素，我们如何处理消息，每个元素可能必须以不同的方式处理？  
 - [Test Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/TestMessage.html) - 但是，如果组件正在积极处理消息，但由于内部故障而使传出的消息出现乱码，会发生什么情况？  
@@ -376,7 +376,7 @@
 <!--lint enable-->
 ### Integration Architecture Patterns
 *用于以高效无缝方式连接系统和应用程序的设计模式.*
-- [API-led Connectivity pattern](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - Use APIs to connect different systems and applications.
+- [API-led Connectivity pattern](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/API-led-Connectivity-Pattern.md) - 使用 API 连接不同的系统和应用程序.
 - [Anti Corruption Layer Pattern](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Anti-Corruption-Layer-Pattern.md) - 添加一个层以在系统之间隔离和转换数据.
 - [Change Data Capture Pattern](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Introduction-to-Change-Data-Capture.md) - 实时捕获和传播对数据库或数据源所做的更改.
 - [Hybrid API Management pattern](https://github.com/chanakaudaya/solution-architecture-patterns/blob/master/vendor-neutral/Hybrid-API-Management-Pattern.md) - 使用中央控制平面管理跨越云和本地环境的 API.
@@ -385,12 +385,12 @@
 <!--lint disable-->
 <!--lint enable-->
 ### Microservice API Patterns
- *MAP（微服务 API 模式）是一组经过验证的解决方案，用于解决在设计、实施和维护基于消息的 API 时遇到的常见问题. 它侧重于 API 调用期间交换的消息表示或有效负载及其对 API 设计和运行时质量的影响.  API 规范和实施的适当治理对其长期维护至关重要. *
+*MAP (Microservice API Patterns) is a set of proven solutions to common problems encountered when designing, implementing, and maintaining message-based APIs. It focuses on the message representations or payloads exchanged during API calls and their impact on the design and runtime qualities of an API. Proper governance of API specifications and implementations is essential for their long-term maintenance.*
 - 基础
     - [Frontend Integration](https://microservice-api-patterns.org/patterns/foundation/FrontendIntegration)  - 与服务器端业务逻辑和数据存储物理分离的客户端终端用户界面如何填充和更新计算结果、数据源搜索的结果集以及有关数据实体的详细信息？ 应用程序前端如何调用后端中的活动或向其上传数据？
     - [Backend Integration](https://microservice-api-patterns.org/patterns/foundation/BackendIntegration) - 独立构建并单独部署的分布式应用程序及其部分如何交换数据并触发相互活动，同时保持系统内部概念完整性而不引入不需要的耦合？
     - [Public API](https://microservice-api-patterns.org/patterns/foundation/PublicAPI) - 如何将 API 提供给组织外部分布在全球、国家和/或区域的无限和/或未知数量的 API 客户端？
-    - [Community API](https://microservice-api-patterns.org/patterns/foundation/CommunityAPI) - 如何将 API 的可见性和访问限制为封闭的用户组，该用户组不为单个组织单位工作，而是为多个法律实体（例如公司、非营利/非政府组织和政府）工作？
+    - [Community API](https://microservice-api-patterns.org/patterns/foundation/CommunityAPI) - How can the visibility of and the access to an API be restricted to a closed user group that does not work for a single organizational unit but for multiple legal entities (such as companies, nonprofit/nongovernment organizations, and governments)?
     - [Solution-Internal API](https://microservice-api-patterns.org/patterns/foundation/SolutionInternalAPI) - 如何将 API 的访问和使用限制在一个应用程序中，例如，同一或另一个逻辑层和/或物理层中的组件？
     - [API Description](https://microservice-api-patterns.org/patterns/foundation/APIDescription)  - 哪些知识应该在 API 提供者和它的客户之间共享？ 应该如何记录这些知识？
 
@@ -402,7 +402,7 @@
         - [State Creation Operation](https://microservice-api-patterns.org/patterns/responsibility/operationResponsibilities/StateCreationOperation) - API 提供者如何允许其客户报告发生了提供者需要知道的事情，例如，触发即时或稍后处理？
         - [Retrieval Operation](https://microservice-api-patterns.org/patterns/responsibility/operationResponsibilities/RetrievalOperation) - 如何检索远程方（即 API 提供者）可用的信息以满足最终用户的信息需求或允许进一步的客户端处理？
         - [State Transition Operation](https://microservice-api-patterns.org/patterns/responsibility/operationResponsibilities/StateTransitionOperation)  - 客户端如何启动导致提供者端应用程序状态更改的处理操作？  API 客户端和 API 提供者如何分担执行和控制业务流程及其活动所需的责任？
-        - [Computation Function](https://microservice-api-patterns.org/patterns/responsibility/operationResponsibilities/ComputationFunction) - How can a client invoke side-effect-free remote processing on the provider side to have a result calculated from its input?
+        - [Computation Function](https://microservice-api-patterns.org/patterns/responsibility/operationResponsibilities/ComputationFunction) - 客户端如何在提供者端调用无副作用的远程处理以根据其输入计算出结果？
     - 信息持有者类型
         - [Operational Data Holder](https://microservice-api-patterns.org/patterns/responsibility/informationHolderEndpointTypes/OperationalDataHolder) - API 如何支持想要创建、读取、更新和/或删除表示操作数据的域实体实例的客户端：数据是相当短暂的，在日常业务操作中经常更改，并且有许多传出关系？
         - [Master Data Holder](https://microservice-api-patterns.org/patterns/responsibility/informationHolderEndpointTypes/MasterDataHolder) - 我如何设计一个 API 来提供对长期存在、不经常更改并且会被许多客户端引用的主数据的访问？
@@ -469,8 +469,8 @@
    - [Micro Task Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/micro_task_abstraction) - 将任务分解为更小、更细化的任务，以便于管理.
 
 - 库存集中模式
-   - [Policy Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/policy_centralization) - Centralizes policies to reduce duplication and improve consistency.
-   - [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - 集中流程以提高可重用性和可维护性.
+   - [Policy Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/policy_centralization) - 集中策略以减少重复并提高一致性.
+   - [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - Centralizes processes to improve reusability and maintainability.
    - [Rules Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/rules_centralization) - 集中业务规则以减少重复并提高一致性.
    - [Schema Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/schema_centralization) - 集中数据模式以减少重复并提高一致性.
 
@@ -510,11 +510,11 @@
 - 服务安全模式
    - [Exception Shielding](https://patterns.arcitura.com/soa-patterns/design_patterns/exception_shielding) - 通过正确处理异常来防止安全漏洞.
    - [Message Screening](https://patterns.arcitura.com/soa-patterns/design_patterns/message_screening) - 筛选邮件中的恶意内容.
-   - [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - Guards the service perimeter to prevent unauthorized access.
+   - [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - 保护服务边界以防止未经授权的访问.
    - [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - 在子系统之间建立信任以提高安全性.
 
 - 服务契约设计模式
-   - [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - Allows multiple versions of a service contract to coexist simultaneously.
+   - [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - 允许多个版本的服务合同同时共存.
    - [Contract Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_centralization) - 集中服务合同以提高一致性并减少重复.
    - [Contract Denormalization](https://patterns.arcitura.com/soa-patterns/design_patterns/contract_denormalization) - 集中服务合同以提高一致性并减少重复.
    - [Decoupled Contract](https://patterns.arcitura.com/soa-patterns/design_patterns/decoupled_contract) - 将服务合同与其实施分离以提高灵活性.
@@ -531,7 +531,7 @@
    - [Distributed Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/distributed_capability) - 将服务能力分解为更小、更易于管理的部分.
    - [Proxy Capability](https://patterns.arcitura.com/soa-patterns/design_patterns/proxy_capability) - 提供代理到远程服务的能力，以提高性能并减少网络开销.
    - [Service Decomposition](https://patterns.arcitura.com/soa-patterns/design_patterns/service_decomposition) - 将整体服务分解为更小、更易于管理的部分.
-   - [Service Refactoring](https://patterns.arcitura.com/soa-patterns/design_patterns/service_refactoring) - Refactors a service to improve its design and performance.
+   - [Service Refactoring](https://patterns.arcitura.com/soa-patterns/design_patterns/service_refactoring) - 重构服务以改进其设计和性能.
    - [Termination Notification](https://patterns.arcitura.com/soa-patterns/design_patterns/termination_notification) - 通知客户服务终止.
    - [Version Identification](https://patterns.arcitura.com/soa-patterns/design_patterns/version_identification) - 标识服务的版本. 
 
@@ -579,7 +579,7 @@
 <!--lint disable-->
 <!--lint enable-->
 ## Resources
-*一些有用的规范、标准、文章和文档.*
+*Some useful specifications, standards, articles and documentation.*
 ### API Specification
 - [API Blueprint](https://github.com/apiaryio/api-blueprint) - 一种功能强大的高级语言，用于设计和记录 API，使软件工程师能够轻松协作并创建高效的 API.
 - [AsyncAPI](https://github.com/asyncapi/spec) - 开发事件驱动架构 (EDA) 的重要工具，使工程师能够构建更好的工具生态系统.
@@ -598,10 +598,23 @@
 <!--lint disable-->
 <!--lint enable-->
 ### Certifications
-- API学院
+- API Academy
   - [API Designer](https://apiacademy.learnupon.com/) - 验证您对 API 设计基础知识和最佳实践的理解.
   - [API Product Manager](https://apiacademy.co/2020/05/virtual-api-academy-workshop/) - 展示您在将 API 作为产品进行管理方面的熟练程度.
   - [API Security Architect](https://apiacademy.co/api-certification/) - 验证您在使用现代架构保护 API 方面的专业知识.
+- 布米
+  - [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在管理 Boomi 平台方面的基础知识和技能，重点是平台监控、故障排除和安全性.
+  - [Associate Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人对使用 Boomi 平台构建和部署集成流程的基本理解，包括设计模式、部署和错误处理.
+  - [Associate EDI for X12 Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人使用 Boomi 设计、开发和管理电子数据交换 (EDI) 与 X12 标准集成的熟练程度，涵盖 EDI 文档结构和贸易伙伴管理等基本概念.
+  - [Associate Flow Essentials Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人使用 Boomi Flow 创建和管理业务应用程序的知识，重点是工作流设计、用户界面和数据集成.
+  - [Associate Master Data Hub Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2&ltui__urlRedirect=learning-plan-detail-standard) - 强调候选人对使用 Boomi Master Data Hub 确保数据质量和跨系统一致性的理解，重点是数据建模、治理和同步.
+  - [Development and Application Architecture Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2&ltui__urlRedirect=learning-plan-detail-standard) - 确认个人在 Boomi 平台上设计和实施复杂集成解决方案和应用程序架构方面的专业知识，包括最佳实践和性能优化.
+  - [Professional API Design Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人使用 Boomi 设计、开发和管理 API 的能力，包括 RESTful API 原则、API 安全性和版本控制.
+  - [Professional API Management Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在使用 Boomi 平台管理 API 的整个生命周期方面的专业知识，包括 API 部署、监控和分析.
+  - [Professional Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM&ltui__urlRedirect=learning-plan-detail-standard) - 认可候选人在使用 Boomi 开发、部署和管理集成流程方面的深入知识和技能，重点是高级数据转换和错误处理技术.
+  - [Professional Flow Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2&ltui__urlRedirect=learning-plan-detail-standard) - 展示个人使用 Boomi Flow 设计、开发和管理业务应用程序的高级能力，包括复杂的工作流设计、自定义 UI 组件以及与外部系统的集成.
+  - [Professional Linux Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard) - 确认候选人在 Linux 系统上管理和管理 Boomi 的熟练程度，涵盖系统安装、配置、安全和性能优化等主题.
+  - [Professional Windows Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在 Windows 系统上管理和管理 Boomi 的专业知识，重点是系统安装、配置、安全性和性能优化.
 - IBM
   - [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - 验证您使用 IBM App Connect V11.0 开发、部署、调整和支持独立于平台的消息流应用程序的中级知识和经验.
   - [IBM Certified Solution Implementer – API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - 展示您使用 IBM API Connect v10.0.3 开发、发布、配置和管理 API 的中级知识和技能.
@@ -626,7 +639,7 @@
   - [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) - 验证基于 Red Hat Fuse、Camel 和 API 创建和维护企业集成服务的能力.
   - [Red Hat Certified Specialist in Event-Driven Development with Kafka](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-event-driven-development-kafka) - 验证使用 Apache Kafka 和 Apache Kafka Streams 开发应用程序的能力.
 -TIBCO
-  - [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
+  - [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - 检查对 Business Studio 和 TIBCO Cloud Integration 的理解、设计应用程序组件（模块、WSDL、REST API）、开发集成应用程序以及测试、部署和管理应用程序.
   - [TIBCO BusinessWorks Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-6-certification-exam) - 验证在最少监督下设计、开发、部署、监控和管理中等复杂度的 TIBCO BusinessWorks 应用程序的能力.
   - [TIBCO BusinessWorks Container Edition Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-container-edition-certification-exam) - 验证在最少监督下开发、部署和管理中等复杂度的 TIBCO BusinessWorks Container Edition 应用程序的能力.
   - [TIBCO BPM Enterprise Associate](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-associate-certification-exam) - 检查对 TIBCO BPM 特性和功能的理解，开发和管理业务流程，以及部署和测试流程应用程序.
@@ -654,7 +667,7 @@
 - [BSON](https://bsonspec.org/)  - 用于类似 JSON 的文档的二进制编码序列化格式，旨在轻量级和高效. 它支持丰富的数据类型，广泛应用于NoSQL数据库，如MongoDB.
 - [CSV](https://datatracker.ietf.org/doc/html/rfc4180)  - 一种简单且广泛使用的数据格式，以纯文本形式存储表格数据. 它易于读写，可以被大多数编程语言处理.
 - [JSON](https://datatracker.ietf.org/doc/html/rfc8259)  - 一种广泛用于数据交换的轻量级且易于阅读的数据格式. 它支持广泛的数据类型，并与许多编程语言兼容.
-- [NDJSON](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+- [NDJSON](https://github.com/ndjson/ndjson-spec)  - 在流协议中分隔 JSON 对象的标准. 它允许高效处理大型 JSON 数据集，并广泛用于大数据处理.
 - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)  - 一种语言中立和平台中立的序列化机制，旨在高效和可扩展. 支持丰富的数据类型，广泛应用于分布式系统，如gRPC、Apache Kafka等.
 - [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/)  - 一种灵活且广泛使用的标记语言，用于存储和交换结构化数据. 它支持丰富的数据类型，兼容多种编程语言.
 - [YAML](https://yaml.org/)  - 一种人性化且易于阅读的数据序列化格式，广泛用于配置文件和数据交换. 它支持丰富的数据类型，兼容大多数编程语言.
@@ -670,7 +683,7 @@
 <!--lint disable-->
 <!--lint enable-->
 ### Market Analysis
-- API管理
+- API Management
   - [Gartner Critical Capabilities for Full Life Cycle API Management](https://www.gartner.com/doc/code/468184)
   - [Gartner Magic Quadrant for Full Life Cycle API Management](https://www.gartner.com/doc/code/464116)
   - [The Forrester Wave: API Management Solutions](https://www.forrester.com/go?objectid=RES159081)
@@ -696,7 +709,7 @@
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html)  - 一种广泛接受的消息队列协议，可在系统之间提供可靠、可互操作且高效的消息传递.  AMQP 1.0 支持广泛的消息传递场景，非常适合复杂的企业级应用程序.
 - [CoAP](http://coap.technology/)  - 专门为物联网 (IoT) 生态系统中的受限设备设计的应用程序协议.  CoAP 提供了一种轻量级、低开销的通信机制来支持资源受限的设备.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  - 一种广泛使用的协议，可促进 Web 服务器和客户端之间的通信.  HTTP 支持通过 Internet 传输数据，从而使 Web 应用程序可以无缝运行.
-- [JSON-RPC](https://www.jsonrpc.org/specification)  - 一种简单轻量级的远程过程调用协议，支持使用 JSON 数据在系统之间进行通信.  JSON-RPC 提供无状态通信，适用于资源受限的设备.
+- [JSON-RPC](https://www.jsonrpc.org/specification) - A simple and lightweight remote procedure call protocol that enables communication between systems using JSON data. JSON-RPC offers stateless communication and is suitable for resource-constrained devices.
 - [MQTT](https://mqtt.org/mqtt-specification/)  - 一种轻量级高效的发布-订阅协议，支持设备间的消息传递.  MQTT 支持低开销通信，是物联网和移动应用程序的理想选择.
 - [SOAP](https://www.w3.org/TR/soap/)  - 使用 XML 实现系统间通信的消息传递协议.  SOAP 支持广泛的消息传递方案，包括分布式计算和企业应用程序.
 - [STOMP](https://stomp.github.io/)  - 一种消息传递协议，在系统之间提供简单的、面向文本的通信.  STOMP 是低延迟、高性能消息传递场景的理想选择.

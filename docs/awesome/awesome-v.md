@@ -91,7 +91,7 @@
 - [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
-- [VTik](https://github.com/Sharqo78/VTik) - TikTok and Twitter video downloader app (CLI / Telegram Bot).
+- [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
 
 ## Libraries
 
@@ -218,7 +218,7 @@
 - [range](https://github.com/Delta456/range) - V 中 Python 的 range() 功能.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - 用于解析 SSH 配置文件的 AV 库.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造者.
-- [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
+- [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
 - [VInstall](https://github.com/malisipi/VInstall) - 跨平台安装程序创建者.
 
 ### Web
@@ -319,6 +319,7 @@
 - [V by Example](https://github.com/v-community/v_by_example) - V 书作为 [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - 节点 js 开发人员的 Vlang.
 - [V learning notes](https://github.com/lydiandy/vlang_note) - 中文个人学习笔记.
+- [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - VOSCA 博客上的教程类别.
 
 ### Videos
 

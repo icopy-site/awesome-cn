@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="wardley-maps-community/awesome-wardley-maps"></div>
 ## Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种帮助您检查环境、识别即将发生的变化并正确选择您的行动的技术. 通过检查需要什么、将使用哪些组件、它们的依赖性和特征是什么，您可以构建您的世界的可视化表示、玩假设游戏，并选择您的方向和支持它的最佳行动.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种帮助您检查环境、识别即将发生的变化并正确选择您的行动的技术. 通过检查需要什么、将使用哪些组件、它们的依赖性和特征是什么，您可以构建您的世界的可视化表示、玩假设游戏，并选择您的方向和最佳行动来支持它.
 
 这是有用的 Wardley 映射资源和示例的列表. 短网址： [list.wardleymaps.com](https://list.wardleymaps.com) . 欢迎投稿！ [Contribution guidelines](https://list.wardleymaps.com/contributing) 用于向列表中添加内容. 
 
@@ -30,7 +30,7 @@
   - [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/)  - 沃德利的地图. 地形智能在商业战略中的应用.
 - [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - 一组关于一系列主题的有用的演示幻灯片.
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
-- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - 致力于介绍西蒙·沃德利开创的战略映射技术的维基百科全书.
+- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - 专注于西蒙沃德利开创的战略映射技术的维基百科全书.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - 维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) - 西蒙沃德利的博客.
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - 创建和使用 Wardley Maps 的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF/iPad/Kindle.
@@ -128,9 +128,9 @@
 - [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) - 2016 年 12 月 1 日.
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - 2016 年 11 月 30 日.
 - [The map is not the territory](https://swardley.medium.com/the-map-is-not-the-territory-257a3c258a83) - 2016 年 11 月 24 日.
-- [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0)  - 建筑实践的演变和共同演变以及基于价值的开发.  2016 年 11 月 23 日.
+- [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0) - Evolution and co-evolution of architectural practice and worth based development. Nov 23, 2016.
 - [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html)  - Simon Wardley 专注于映射中最重要的部分之一 - 锚点.  2016 年 4 月 11 日.
-- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
+- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - 2015 年 10 月 17 日.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  - 第 2 部分 Mark Thompson 概述了使政府成为更具凝聚力的综合组织的数字愿景.  2015 年 10 月 9 日.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  - 第 1 部分 Mark Thompson 概述了使政府成为更具凝聚力的综合组织的数字愿景.  2015 年 10 月 9 日.
 - [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  - 对于新任命的高管，帮助您进入一个可以开始学习和谈论战略的位置.  2015 年 8 月 21 日.
@@ -164,12 +164,18 @@
 
 ### Commercial Enterprise Platforms
 
-- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - 一个视觉转换平台，提供态势感知，以理解您相互关联的需求、想法、服务组件、供应合同和变更活动的网络.
+- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - 一个可视化转换平台，提供态势感知，以理解您相互关联的需求、想法、服务组件、供应合同和变更活动的网络.
+
+## Tools / Scripts
+
+- [Convert WM format to JSON](https://wardleymapsai.streamlit.app/wm2json_(beta)) - 一个简单的 streamlit 应用程序，用于将 onlinewardleymaps wm 格式转换为 JSON.
+- [Chat with your Map](https://wardleymapsai.streamlit.app/chat_with_your_map)  - 一个 OpenAI/Streamlit/Python 应用程序，用于与您的 Wardley 地图聊天. 它从在线 wardleymaps 中提取您的 Wardley 地图，您可以与您的地图进行 AI 聊天.
+- [Chat with Simon Wardley Video](https://wardleymapsai.streamlit.app/intro_wardley_maps)  - 用于与 Wardley Mapping YouTube 视频聊天的 OpenAI/Streamlit/Python 应用程序. 它从 YouTube 中提取脚本，您可以与视频进行 AI 聊天.
 
 ## Templates
 
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - 对映射工具问题空间的半认真反思，以及各种映射工具和技术的概述.
-
+- 
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - 使用动画和一系列开源 Wardley 地图图标的操作指南.
