@@ -133,7 +133,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Password-based
 
-- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性准则.
+- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性指南.
 
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - 减缓离线攻击的唯一方法是仔细选择尽可能占用资源的哈希算法.
 
@@ -455,7 +455,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Keystone](https://keystone-enclave.org) - 用于基于 RISC-V 架构构建具有安全硬件飞地的可信执行环境 (TEE) 的开源项目.
 
-- [Project Oak](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
+- [Project Oak](https://github.com/project-oak/oak) - 数据安全传输、存储和处理的规范和参考实施.
 
 - [Everybody be cool, this is a robbery!](https://www.sstic.org/2019/presentation/hsm/) - HSM 漏洞和可利用性的案例研究（法语，抱歉）.
 
@@ -691,11 +691,13 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了消除密码屏蔽对消费者信任的影响.
 
-- [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221)  - 通知很难. 真的很难.
+- [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221) - Notifications are hard. Really hard.
 
 ## Competitive Analysis
 
-一组资源，用于跟踪在该域中运营的所有公司的当前状态和进度.
+跟踪在该域中运营的开源项目和公司的活动.
+
+- [Best-of Digital Identity](https://github.com/jruizaranguren/best-of-digital-identity) - 开源数字身份项目的排名、流行度和活动状态.
 
 - [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - 添加到 IAM 边界的所有新功能的来源.
 

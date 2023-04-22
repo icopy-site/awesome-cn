@@ -105,7 +105,7 @@
 - [relay](https://github.com/facebook/relay) - Relay 是一个用于构建数据驱动的 React 应用程序的 JavaScript 框架.
 - [urql](https://github.com/FormidableLabs/urql) - 用于 React 的简单缓存 GraphQL 客户端.
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - 具有缓存和服务器端渲染支持的最小挂钩优先 GraphQL 客户端.
-- [gqless](https://github.com/samdenty/gqless) - 没有查询的 GraphQL 客户端 ✨
+- [gqless](https://github.com/samdenty/gqless) - 一个没有查询的 GraphQL 客户端 ✨
 - [mst-gql](https://github.com/mobxjs/mst-gql) - mobx-state-tree 和 GraphQL 的绑定.
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  - 用于将 GraphQL 添加到 React 的轻量级实用程序. 成分. 包括简单的缓存并使用 GET 请求，这些请求可以通过 service-worker 额外缓存.
 
@@ -363,7 +363,7 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的中继应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 架构和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 - [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - 展示如何使用代码生成制作 Go GraphQL 服务器和客户端的教程.
 
 <a name="scala" />
@@ -651,7 +651,7 @@
 - [Blendbase](https://github.com/blendbase/blendbase) ：用于将 CRM 连接到您的 SaaS 的单一开源 GraphQL API. 从您的 SaaS 应用程序使用单个 API 查询查询任何客户 CRM 系统（Salesforce、Hubspot 等）.
 - [microfiber](https://github.com/anvilco/graphql-introspection-tools) - 以有用的方式查询和操作 GraphQL 自省查询结果.
 - [ILLA Cloud](https://www.illacloud.com/) – 开源低代码工具构建平台提供了一种以最少配置与 GraphQL 集成的简便方法
-
+- [DronaHQ](https://www.dronahq.com/) - 在几分钟内在 GraphQL 数据之上构建内部工具、仪表板、管理面板
 <a name="databases" />
 
 ## Databases
@@ -673,7 +673,7 @@
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
 - [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它会为您的模型自动生成一个 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器后端即服务. 您的 GraphQL 和 REST over GraphQL 后端只需几分钟.
-- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代品
+- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 当前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
@@ -756,7 +756,7 @@
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 了解 GraphQL 安全性、性能、测试以及使用 GraphQL 生态系统的最新工具和最佳实践构建生产就绪 API.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)

@@ -930,7 +930,7 @@ _用于处理表单的库._
 - [form](https://github.com/go-playground/form)  - 将 url.Values 解码为 Go 值并将 Go 值编码为 url.Values. 双阵列和全地图支持.
 - [formam](https://github.com/monoculum/formam) - 将表单的值解码为结构.
 - [forms](https://github.com/albrow/forms) - 与框架无关的库，用于解析和验证支持多部分表单和文件的表单/JSON 数据.
-- [gbind](https://github.com/bdjimmy/gbind)  - 将数据绑定到任何 Go 值. 可以使用内置和自定义表达式绑定功能； 支持数据校验
+- [gbind](https://github.com/bdjimmy/gbind)  - 将数据绑定到任何 Go 值. 可以使用内置和自定义表达式绑定功能； 支持数据验证
 - [gorilla/csrf](https://github.com/gorilla/csrf) - 对 Go web 应用程序和服务的 CSRF 保护.
 - [httpin](https://github.com/ggicci/httpin) - 将 HTTP 请求解码为自定义结构，包括查询字符串、表单、HTTP 标头等.
 - [nosurf](https://github.com/justinas/nosurf) - Go 的 CSRF 保护中间件.
@@ -1591,7 +1591,7 @@ _用于处理人类语言的库._
 - [porter2](https://github.com/zhenjl/porter2) - 真快波特 2 票.
 - [RAKE.go](https://github.com/afjoseph/RAKE.Go) - 转到快速自动关键字提取算法 (RAKE) 的端口.
 - [snowball](https://github.com/goodsign/snowball)  - Go 的 Snowball 词干提取器端口（cgo 包装器）. 提供词干提取功能 [Snowball native](http://snowball.tartarus.org/).
-- [spaGO](https://github.com/nlpodyssey/spago) - Go 中的独立机器学习和自然语言处理库.
+- [spaGO](https://github.com/nlpodyssey/spago) - Go 中独立的机器学习和自然语言处理库.
 - [spelling-corrector](https://github.com/jorelosorio/spellingcorrector) - 西班牙语的拼写校正器或创建您自己的拼写校正器.
 
 ### Slugifiers
@@ -1671,7 +1671,7 @@ _用于处理网络各层的库._
 - [grab](https://github.com/cavaliercoder/grab) - 用于管理文件下载的 Go 包.
 - [graval](https://github.com/koofr/graval) - 实验性 FTP 服务器框架.
 - [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs 让您检查 HTTP 请求并伪造响应.
-- [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号器.
+- [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号程序.
 - [iplib](https://github.com/c-robinson/iplib) - 用于处理 IP 地址（net.IP、net.IPNet）的库，受 python 启发 [ipaddress](https://docs.python.org/3/library/ipaddress.html) 和红宝石 [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
 - [jazigo](https://github.com/udhos/jazigo) - Jazigo 是一个用 Go 编写的工具，用于检索多个网络设备的配置.
 - [kcp-go](https://github.com/xtaci/kcp-go) - KCP - 快速可靠的 ARQ 协议.
@@ -2023,7 +2023,7 @@ _用于测试代码库和生成测试数据的库._
 
   - [apitest](https://apitest.dev) - 用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序的简单且可扩展的行为测试库.
   - [assert](https://github.com/go-playground/assert) - 与原生 go 测试一起使用的基本断言库，以及用于自定义断言的构建块.
-  - [badio](https://github.com/cavaliercoder/badio) - Go 的 `testing/iotest` 包的扩展.
+  - [badio](https://github.com/cavaliercoder/badio) - Go 的“testing/iotest”包的扩展.
   - [baloo](https://github.com/h2non/baloo) - 富有表现力和多功能的端到端 HTTP API 测试变得简单.
   - [be](https://github.com/carlmjohnson/be) - 极简主义的通用测试断言库.
   - [biff](https://github.com/fulldump/biff) - 分叉测试框架，BDD 兼容.
@@ -2058,10 +2058,10 @@ _用于测试代码库和生成测试数据的库._
   - [gocrest](https://github.com/corbym/gocrest) - 用于 Go 断言的可组合的类似 hamcrest 的匹配器.
   - [godog](https://github.com/cucumber/godog) - Go 的 Cucumber BDD 框架.
   - [gofight](https://github.com/appleboy/gofight) - Golang 路由器框架的 API 处理程序测试.
-  - [gogiven](https://github.com/corbym/gogiven) - 适用于 Go 的类似 YATSPEC 的 BDD 测试框架.
+  - [gogiven](https://github.com/corbym/gogiven) - 用于 Go 的类似 YATSPEC 的 BDD 测试框架.
   - [gomatch](https://github.com/jfilipczyk/gomatch) - 为根据模式测试 JSON 而创建的库.
   - [gomega](https://onsi.github.io/gomega/) - Rspec 类似匹配器/断言库.
-  - [Gont](https://github.com/stv0g/gont) - Go 网络测试工具包，用于使用 Linux 命名空间测试构建复杂的网络拓扑.
+  - [Gont](https://github.com/stv0g/gont) - 用于使用 Linux 命名空间测试构建复杂网络拓扑的 Go 网络测试工具包.
   - [GoSpec](https://github.com/orfjackal/gospec) - Go 编程语言的 BDD 风格测试框架.
   - [gospecify](https://github.com/stesla/gospecify)  - 这提供了用于测试您的 Go 代码的 BDD 语法. 任何使用过 rspec 等库的人都应该熟悉它.
   - [gosuite](https://github.com/pavlo/gosuite) - 通过利用 Go1.7 的子测试，将带有设置/拆卸工具的轻量级测试套件引入“测试”.
@@ -2272,7 +2272,7 @@ _用于访问第三方 API 的库._
 - [go-trending](https://github.com/和ygrunwald/go-trending) - 去图书馆访问 [trending repositories](https://github.com/trending) 和 [developers](https://github.com/trending/developers) 在 Github.
 - [go-twitter](https://github.com/dghubble/go-twitter) - 用于 Twitter v1.1 API 的客户端库.
 - [go-unsplash](https://github.com/hbagdi/go-unsplash) - 去客户端库 [Unsplash.com](https://unsplash.com) 应用程序接口.
-- [go-xkcd](https://github.com/nishanths/go-xkcd) - 用于 xkcd API 的客户端.
+- [go-xkcd](https://github.com/nishanths/go-xkcd) - xkcd API 的 Go 客户端.
 - [go-yapla](https://git.iglou.eu/Production/go-yapla) - 用于 Yapla v2.0 API 的客户端库.
 - [goagi](https://github.com/staskobzar/goagi) - 转到库以构建 Asterisk PBX agi/fastagi 应用程序.
 - [goami2](https://github.com/staskobzar/goami2) - Asterisk PBX 的 AMI v2 库.
@@ -2383,7 +2383,7 @@ _让您的生活更轻松的通用实用程序和工具._
 - [go-clip](https://github.com/prashantgupta24/go-clip) - 适用于 Mac 的简约剪贴板管理器.
 - [go-convert](https://github.com/Eun/go-convert) - 包 go-convert 使您能够将值转换为另一种类型.
 - [go-countries](https://github.com/mikekonan/go-countries) - 轻量级查找 ISO-3166 代码.
-- [go-dry](https://github.com/ungerik/go-dry) - 用于 Go 的 DRY（不要重复自己）包.
+- [go-dry](https://github.com/ungerik/go-dry) - DRY（不要重复自己）Go 包.
 - [go-funk](https://github.com/thoas/go-funk) - 现代 Go 实用程序库，它提供帮助程序（映射、查找、包含、过滤器、块、反向......）.
 - [go-health](https://github.com/Talento90/go-health) - 健康包简化了您向服务添加健康检查的方式.
 - [go-httpheader](https://github.com/mozillazg/go-httpheader) - 用于将结构编码到标头字段中的 Go 库.
@@ -2615,6 +2615,7 @@ _全栈网络框架._
 - [Microservice](https://github.com/claygod/microservice) - 用于创建微服务的框架，用 Golang 编写.
 - [neo](https://github.com/ivpusic/neo) - Neo 是最小且快速的 Go Web 框架，具有极其简单的 API.
 - [patron](https://github.com/beatlabs/patron) - Patron 是一个微服务框架，遵循最佳云实践，专注于生产力.
+- [Pulse](https://github.com/gopulse/pulse) - Pulse 是一个用 Go (Golang) 编写的 HTTP Web 框架
 - [Resoursea](https://github.com/resoursea/api) - 用于快速编写基于资源的服务的 REST 框架.
 - [REST Layer](https://rest-layer.io) - 在数据库之上构建 REST/GraphQL API 的框架，主要通过代码进行配置.
 - [Revel](https://github.com/revel/revel) - Go 语言的高生产力 Web 框架.
@@ -3184,7 +3185,7 @@ _在此处添加您所在城市/国家/地区的群组（发送 **PR**）_
 
 - [Awesome Go @LibHunt](https://go.libhunt.com) - 您的首选 Go 工具箱.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) - 精选的 golang 研讨会列表.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作清单. 他们中的很多人都在寻找 Go 黑客.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作列表. 他们中的很多人都在寻找 Go 黑客.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 其他令人惊叹的列表列表.
 - [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - 解析 awesome-go README 文件并生成一个带有 repo 信息的新 README 文件.
 - [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - 软件工程师和博客@codewithmukesh.com.

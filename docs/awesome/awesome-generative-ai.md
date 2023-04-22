@@ -94,6 +94,7 @@
 
 ### Meeting assistants
 
+- [Otter.ai](https://otter.ai/) - 一个会议助手，可以录制音频、写笔记、自动​​捕获幻灯片并生成摘要.
 - [Cogram](https://www.cogram.com/) - Cogram 在虚拟会议中自动记录并识别行动项目.
 - [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
 
@@ -120,7 +121,7 @@
 
 ## Code
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -222,7 +223,6 @@
 - [Scenario](https://www.scenario.com/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
-- [Otter.ai](https://otter.ai/) - 一个会议助手，可以录制音频、写笔记、自动​​捕获幻灯片并生成摘要.
 - [Gamma](https://gamma.app/) - 创建漂亮的演示文稿和网页，无需任何格式和设计工作.
 - [Learn Prompting](https://learnprompting.org/) - 关于与人工智能通信的免费开源课程.
 

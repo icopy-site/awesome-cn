@@ -51,7 +51,7 @@
 
 - [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 种依赖网络效应的货币化模式.
 
-- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程实践，并作为系统的灵活属性实施.
+- [The 5 Pillars of PriceOps](https://priceops.org) - 受 DevOps 运动启发的宣言，其中定价不再僵化，而是作为响应迭代过程来实践，并作为系统的灵活属性来实现.
 
 ### Usage-based Pricing
 
@@ -239,7 +239,7 @@ The central repository of all available services, products, variants, options an
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中具体化.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何体现在小公司的财务报表中.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
@@ -341,7 +341,7 @@ The central repository of all available services, products, variants, options an
 
  - “英国超市 (...) 向您收取后端卡处理费用，但他们会从您的结账价格中扣除该费用.”  ([source](https://news.ycombinator.com/item?id=22047028)) - 这允许他们 [claim the VAT on processing fees as input tax](https://www.gov.uk/guidance/vat-guide-notice-700#section4).
 
-- [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - A multi-states US initiative to automate and standadize sales tax accounting and collection.
+- [Streamlined Sales Tax Governing Board](https://www.streamlinedsalestax.org/about-us/about-sstgb) - 美国的一项多州倡议，旨在实现销售税会计和征收的自动化和标准化.
 
 ### European VAT
 
@@ -496,6 +496,8 @@ The central repository of all available services, products, variants, options an
 ### Cards
 
 大多数欺诈都在利用最常见的流行支付设备：信用卡.
+
+- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - A practical handbook on how to identify patterns in transactions.
 
 - [How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/) - 描述一种称为“卡测试”的欺诈技术，其中根据您的 API 检查大量被盗卡的有效性.
 

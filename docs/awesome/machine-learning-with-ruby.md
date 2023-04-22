@@ -88,7 +88,7 @@ the word using the `#RubyML` hash tag!
 - [azure_mgmt_machine_learning](https://github.com/Azure/azure-sdk-for-ruby) -
   Microsoft Azure 的机器学习 API.
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench) -
-  Growing machine learning framework written in pure Ruby, high performance computing using
+  用纯 Ruby 编写的不断增长的机器学习框架，使用高性能计算
   [Numo](https://github.com/ruby-numo/), CUDA绑定通过 [Cumo](https://github.com/sonots/cumo).
   目前正在实施神经网络、进化策略、矢量量化和大量
   示例和实用程序.
@@ -106,7 +106,7 @@ the word using the `#RubyML` hash tag!
 ### Neural networks
 
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
-  用 Ruby 编写的神经网络.
+  Neural network written in Ruby.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby 绑定到 [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [cerebrum](https://github.com/irfansharif/cerebrum) -
@@ -215,6 +215,8 @@ the word using the `#RubyML` hash tag!
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
   
 ### Vector search
+- [milvus](https://github.com/andreibondarev/milvus) —
+  Milvus Vector DB 的 Ruby 客户端.
 - [pinecone](https://github.com/ScotterC/pinecone) —
   Pinecone Vector DB 的 Ruby 客户端.
 - [qdrant-ruby](https://github.com/andreibondarev/qdrant-ruby) —

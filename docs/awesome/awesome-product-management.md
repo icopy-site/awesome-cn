@@ -241,9 +241,9 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 格伦·吉伦.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - 经过 [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
-- [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
+- [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
 - [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
-- [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
+- [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
 
 ## Books
 
@@ -272,7 +272,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - 威尔·拉森.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - 理查德·W·汉明 (Richard W. Hamming).
 - [Shape Up](https://basecamp.com/shapeup) - 瑞恩·辛格 (Ryan Singer).
-- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.senseandrespondpress.com/managing-outcomes) - 约书亚·塞登 (Joshua Seiden).
+- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.senseandrespondpress.com/managing-outcomes) - 约书亚塞登.
 - [Difficult Conversations](https://www.stoneandheen.com/difficult-conversations) - 道格拉斯·斯通.
 - [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - 理查德·鲁梅尔特.
 - [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - 杰弗里·A·穆尔 (Geoffrey A. Moore).
@@ -305,7 +305,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用于构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自 Google、Slack、Amazon、Airbnb、Netflix、Facebook 等的产品负责人. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链领域的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司互动.
 
 ## Additional resources

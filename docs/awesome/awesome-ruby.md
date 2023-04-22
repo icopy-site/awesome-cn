@@ -134,7 +134,7 @@
 * [Kashmir](https://github.com/IFTTT/kashmir) - Kashmir 是一种 Ruby DSL，它使序列化和缓存对象变得轻而易举.
 * [Readthis](https://github.com/sorentwo/readthis) - 使用 Redis 的高性能、池化、ActiveSupport 兼容缓存.
 * [Record Cache](https://github.com/orslumen/record-cache) - 在 Rails 3 中缓存活动模型记录.
-* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及名称空间.
+* [redis-store](http://redis-store.org/)  - Redis Store 为现代 Ruby 框架提供了一整套存储（缓存、I18n、会话、HTTP 缓存），例如：Ruby on Rails、Sinatra、Rack、Rack::Cache 和 I18n. 它支持对象编组、超时、单个或多个节点以及命名空间.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) - ActiveRecord 4 的直写和直读缓存库.
 
 ## Captchas and anti-spam
@@ -353,6 +353,7 @@
 * [Foreigner](https://github.com/matthuhiggins/foreigner) - 将外键助手添加到迁移并将外键正确转储到 schema.rb.
 * [Large Hadron Migrator](https://github.com/soundcloud/lhm) - 不锁定表的在线 MySQL 架构迁移.
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描您的模型并显示可能应该编制索引的列列表.
+* [Online Migrations](https://github.com/fatkodima/online_migrations) - 在开发中捕获不安全的 PostgreSQL 迁移并在生产中更轻松地运行它们.
 * [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的真实世界数据.
 * [PgHero](https://github.com/ankane/pghero) - Postgres 见解变得简单.
 * [Rails DB](https://github.com/igorkasyanchuk/rails_db) - 数据库查看器和 SQL 查询运行器.
@@ -770,7 +771,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) - 用于 Ruby on Rails 应用程序的类似于 ActionMailer 的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS、Android 和 Windows Phone 推送通知变得简单.
-* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google Cloud Messaging、Amazon Device Messaging 和 Windows Phone 推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) - Ruby 的推送通知服务，支持 Apple 推送通知服务、Google 云消息、Amazon Device Messaging 和 Windows Phone 推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - Web 推送协议的加密实用程序.
 
 ## Optimizations
@@ -1135,7 +1136,7 @@
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
