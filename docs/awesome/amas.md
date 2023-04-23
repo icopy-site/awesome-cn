@@ -8,7 +8,7 @@
 - [Sindre Sorhus](https://github.com/sindresorhus/ama)  - 有抱负的反叛者. 非常古怪. 的创造者 [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 - [Pascal Hartig](https://github.com/passy/ama)  - 通晓多种语言. 推特工程师.  Yeoman、TodoMVC、WSK 的贡献者.
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama)  - 只是玩得开心.  wiredep 的创造者，youmeyou.  ^的帮手.
-- [Mark Otto](https://github.com/mdo/ama)  - GitHub 的设计师.  Bootstrap 的创建者.
+- [Mark Otto](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
 - [Zach Holman](https://github.com/holman/feedback)  - 开发者和演讲者. 之前在 GitHub 工作.
 - [Kent C. Dodds](https://github.com/kentcdodds/ama) - JavaScript 开发者、开源贡献者、社区建设者和演讲者.
 - [Simon Boudrias](https://github.com/SBoudrias/ama)  - Yeoman、Inquirer.js 和一堆其他节点模块.  Yelp 的软件工程师.
@@ -97,7 +97,7 @@
 - [Amit Merchant](https://github.com/amitmerchant1990/ama) - 使用 JavaScript、PHP 和 Java 的全栈开发人员.
 - [William Oliveira](https://github.com/woliveiras/ama) - 使用 JavaScript、Angular、Stylus、Gulp、Git 等的前端开发人员（巴西人）.阅读更多关于我的信息 [my blog](http://woliveiras.com.br).
 - [Unbug Lee](https://github.com/unbug/ama) - 的作者 [MIHTool](http://www.mihtool.com) 和 [Codelf](http://unbug.github.io/codelf/).
-- [Tibor Simon](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+- [Tibor Simon](https://github.com/tiborsimon/ama) - 电气工程师、软件极客、DSP、iOS、vimmer、吉他手、骑自行车的人、跑步者、 [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) - 前端开发人员（巴西人），工作于 [mLabs](https://www.mlabs.com.br/) 使用 JavaScript、EmberJS、API 和其他很酷的东西. 我也是 [BeerJS/SJC](https://github.com/beerjs/sjc) 组织者.
 - [Adrian Mejia](https://github.com/amejiarosario/ama)  - 思科软件工程师. 博主在 [adrianmejia.com](http://adrianmejia.com) . 的作者 ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop) .  JavaScript 爱好者. 位于波士顿.
 - [Jon Kuperman](https://github.com/jkup/ama)  - 我喜欢 JavaScript！ 我的博客在 [Codeplanet](https://codeplanet.io), 制作视频 [Nodecasts](https://nodecasts.io) 和播客 [The Web Behind](https://webbehind.com).
@@ -175,6 +175,7 @@
 - [TheTechRobo](https://github.com/thetechrobo/ama) - 业余爱好者 Python 3.x 开发人员经常纠正语法，以至于失去了朋友.
 - [Lali Akhil Raj](https://github.com/Lalisfeed/ama) - 为网络和 AI 创建内容.
 - [Felipe Plets](https://github.com/felipeplets/ama) - 技术主管、开源贡献者和 [blogger](https://plets.me).
+- [Angelo Pirola](https://github.com/angelodotnet/ama) - Microsoft (.NET) 后端 Web 开发人员，GitHub 贡献者，居住在意大利.
 
 #### Ask these organizations anything!
 

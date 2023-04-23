@@ -515,6 +515,8 @@ Neovim 支持多种 UI.
 - [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - 在数字和相对数字之间平滑切换，支持各种数字组合，高度可定制.
 - [nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) - 通过在 x 分钟不活动后自动关闭缓冲区来提前退休.
 - [hbac.nvim](https://github.com/axkirillov/hbac.nvim) - 自动关闭您不在使用的缓冲区.
+- [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - 简化宏观管理，提高生产力，创造和谐的工作流程.
+- [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - 使用望远镜在选项卡之间快速导航.
 
 ### Terminal Integration
 
@@ -659,7 +661,7 @@ Neovim 支持多种 UI.
 ### Keybinding
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Neovim 插件显示一个弹出窗口，其中包含您开始输入的命令的可能键绑定.
-- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键盘映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 将您的键映射、命令和自动命令定义为简单的 Lua 表，并同时为它们创建图例（如 VS Code 的命令面板），与 `which-key.nvim` 集成.
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) - Lua 环境更方便的 `:map`ping 语法.
 - [b0o/mapx.nvim](https://github.com/b0o/mapx.nvim)  - 一个更简单的键映射 API，模仿 Neovim 的 `:map` 命令系列. 与 which-key.nvim 集成.
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim)  - Lua 实用程序使用级联树简洁地映射键. 还允许将 Lua 函数绑定到键.
@@ -715,7 +717,7 @@ Neovim 支持多种 UI.
 - [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) - 交换二进制表达式中的操作数和运算符：比较和数学运算.
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - 以不显眼的方式查看线条.
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - 在您上次编辑的位置重新打开文件.
-- [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
+- [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) - 将表达式扩展并重复到多行.
 - [h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim) - 分别为每个缓冲区切换和恢复 fcitx 状态.
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) - 自动切换和恢复输入法取决于 Neovim 的编辑模式.
 - [echasnovski/mini.nvim#mini.trailspace](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-trailspace.md) - `mini.nvim` 模块，用于自动突出显示尾随空格，并具有删除它的功能.
@@ -797,8 +799,8 @@ Neovim 支持多种 UI.
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) - 严肃的会话管理器.
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 使用 git 分支、自动保存/自动加载和 Telescope 支持的简单会话管理.
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - 一个简单的包装器：mksession.
-- [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - 灵活的会话管理，任意持久数据存储为 JSON.
-- [niuiic/multiple-session.nvim](https://github.com/niuiic/multiple-session.nvim) - 提供多会话管理能力.
+- [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - Flexible session management with arbitrary persistent data stored as JSON.
+- [niuiic/multiple-session.nvim](https://github.com/niuiic/multiple-session.nvim) - 提供多会话管理功能.
 
 ### Remote Development
 

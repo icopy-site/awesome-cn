@@ -58,7 +58,7 @@ Rust 代码和资源的精选列表.
 * [Polaris](https://github.com/agersant/polaris) — 音乐流媒体应用程序.
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) — 用 Rust 编写的终端的 Spotify 客户端. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
 * [Spotifyd](https://github.com/Spotifyd/spotifyd) — 作为 UNIX 守护进程运行的开源 Spotify 客户端. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
-* [WhatBPM](https://github.com/sergree/whatbpm)  — 为电子舞曲制作人提供的每日静态生成的信息资源. 使用 Beatport 和 Spotify 等公开可用数据，对每种 EDM 流派的最常用值进行每日分析：速度、键、根音等. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
+* [WhatBPM](https://github.com/sergree/whatbpm)  — 为电子舞曲制作人提供的每日静态生成的信息资源. 使用 Beatport 和 Spotify 等公开可用数据，提供有关每种 EDM 流派最常用值的每日分析：速度、键、根音符等. ![Continuous Integration](https://github.com/sergree/whatbpm/actions/workflows/website_build_deploy.yml/badge.svg?branch=main)
 
 ### Cryptocurrencies
 
@@ -107,7 +107,7 @@ Rust 代码和资源的精选列表.
 
 ### Database
 
-* [Atomic-Server](https://github.com/atomicdata-dev/atomic-data-rust/) [[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL 图形数据库，具有实时更新、动态索引和易于使用的 GUI，用于 CMS 目的. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+* [Atomic-Server](https://github.com/atomicdata-dev/atomic-server/) [[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL 图形数据库，具有实时更新、动态索引和易于使用的 GUI，用于 CMS 目的. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
 * [CozoDB](https://github.com/cozodb/cozo)  - 使用 Datalog 并专注于图形数据和算法的事务性关系数据库. 时间旅行能力，速度快！ [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
 * [Databend](https://github.com/datafuselabs/databend) - 具有云原生架构的现代实时数据处理和分析 DBMS [![Release](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml)
 * [DB3 Network](https://github.com/dbpunk-labs/db3) — DB3 是一个社区驱动的区块链 layer2 去中心化数据库网络 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main&style=flat-square)
@@ -241,7 +241,7 @@ Rust 代码和资源的精选列表.
 * [Cherrybomb](https://github.com/blst-security/cherrybomb) - 使用 CLI 工具停止完成一半的 API 规范，该工具通过验证 API 规范帮助您避免未定义的用户行为.
 * [Inspektor](https://github.com/inspektor-dev/inspektor) - 用于执行访问策略的数据库协议感知代理
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) — 可编写脚本的网络身份验证破解程序
-* [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) — A TCP connection hijacker, rust rewrite of shijack
+* [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) — 一个 TCP 连接劫持者，shijack 的 rust 重写
 * [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) — 半自动 OSINT 框架和包管理器
 * [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) — 安全的多线程数据包嗅探器
 * [ObserverWard](https://github.com/0x727/ObserverWard) — 基于社区的网络技术分析工具.
@@ -262,7 +262,7 @@ Rust 代码和资源的精选列表.
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide/) — 学习习惯的 `cd` 的快速替代品 [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 * [Alonely0/Voila](https://github.com/Alonely0/Voila) — Voila 是一种通过 CLI 工具启动的特定领域语言，用于以快速可靠的方式处理大量文件和目录. [![Linux build](https://github.com/Alonely0/Voila/actions/workflows/linux-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/linux-ci.yml) [![macOS build](https://github.com/Alonely0/Voila/actions/workflows/mac-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/mac-ci.yml) [![Windows build](https://github.com/Alonely0/Voila/actions/workflows/windows-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/windows-ci.yml)
 * [bandwhich](https://github.com/imsnif/bandwhich) — 终端带宽利用工具
-* [bottom](https://github.com/ClementTsang/bottom) - 又一个跨平台图形化进程/系统监视器. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
+* [bottom](https://github.com/ClementTsang/bottom) - 另一个跨平台图形化进程/系统监视器. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 * [brocode/fblog](https://github.com/brocode/fblog) — 小型命令行 JSON 日志查看器
 * [bustd](https://github.com/vrmiguel/bustd) - 轻量级进程杀手守护进程，用于处理 Linux 上的内存不足情况. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
 * [buster/rrun](https://github.com/buster/rrun) — Linux 的命令启动器，类似于 gmrun
@@ -356,7 +356,7 @@ Rust 代码和资源的精选列表.
 * [nomino](https://github.com/yaa110/nomino) — 开发人员的批量重命名实用程序
 * [raftario/licensor](https://github.com/raftario/licensor) — 将许可证写入标准输出 [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — 一款远程桌面软件，是 TeamViewer 和 AnyDesk 的绝佳替代品.
-* [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步安装的包
+* [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步已安装的包
 * [vamolessa/verco](https://github.com/vamolessa/verco) [[verco](https://crates.io/crates/verco)] — 一个专注于键盘快捷键的简单 Git/Hg tui 客户端
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — 用 Rust 编写的 Bitwarden 服务器 API 的替代实现
 * [yaa110/cb](https://github.com/yaa110/cb) — 管理剪贴板的命令行界面
@@ -455,7 +455,7 @@ Rust 代码和资源的精选列表.
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — 一个示例项目，显示 CMake 与 Rust 的用法
 * [Fleet](https://github.com/dimensionhq/fleet) [[fleet-rs](https://crates.io/crates/fleet-rs)] - Rust 的快速构建工具.
 * Github 动作
-  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 行动
+  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 动作
   * [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook 的 GitHub 操作
 * [Nix](https://nixos.org/)
   * [nix-community/fenix](https://github.com/nix-community/fenix) — 用于 nix 的 Rust 工具链和 Rust 分析器 [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
@@ -658,7 +658,7 @@ Rust 代码和资源的精选列表.
 * [innoave/genevo](https://github.com/innoave/genevo) — 以可定制和可扩展的方式执行遗传算法 (GA) 模拟.
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust 中的遗传算法库. 处于维护模式.
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决了 N = 255 的 N Queens 问题，并且使用了不到 1 MB 的 RAM.
-* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够为有监督、无监督和强化学习问题发展解决方案. 附带完整且可自定义的 NEAT 和 Evtree 实现.![Crates.io](https://img.shields.io/crates/v/radiate)
+* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够针对有监督、无监督和强化学习问题发展解决方案. 附带完整且可自定义的 NEAT 和 Evtree 实现.![Crates.io](https://img.shields.io/crates/v/radiate)
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — Rust 的进化算法
 
 #### Machine learning
@@ -702,7 +702,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 [[audio](https://crates.io/keywords/audio)]
 
-* [hound](https://crates.io/crates/hound) — 一个 WAV 编码和解码库
+* [hound](https://crates.io/crates/hound) — A WAV encoding and decoding library
 * [insomnimus/nodi](https://github.com/insomnimus/nodi) [[nodi](https://crates.io/crates/nodi)] — 用于播放和抽象 MIDI 文件的库. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 * [jhasse/ears](https://github.com/jhasse/ears) — 在 OpenAL 和 libsndfile 之上播放声音和音乐的简单库
 * [musitdev/portmidi-rs](https://github.com/musitdev/portmidi-rs) — [PortMidi](https://portmedia.sourceforge.net/portmidi/) 绑定
@@ -917,6 +917,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [danielpclark/array_tool](https://github.com/danielpclark/array_tool)  — Rust 的数组助手. 您将在数组上使用的一些最常用方法在向量上可用. 用于处理大多数用例的多态实现.
 * [fizyk20/generic-array](https://github.com/fizyk20/generic-array) – 允许数组大小由 typenums 决定的 hack
 * [garro95/priority-queue](https://github.com/garro95/priority-queue)[[priority-queue](https://crates.io/crates/priority-queue)] — 实现优先级更改的优先级队列.
+* [greyblake/nutype](https://github.com/greyblake/nutype) [[nutype](https://crates.io/crates/nutype)] — 定义具有验证约束的新类型结构. [![build status](https://github.com/greyblake/nutype/actions/workflows/ci.yml/badge.svg)](https://github.com/greyblake/nutype/actions)
 * [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) — Rust 中的 K 维树，用于快速地理空间索引和最近邻查找
 * [orium/rpds](https://github.com/orium/rpds) [[rpds](https://crates.io/crates/rpds)] — Rust 中的持久数据结构. [![build badge](https://github.com/orium/rpds/workflows/CI/badge.svg)](https://github.com/orium/rpds/actions?query=workflow%3ACI)
 * [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) – Rust 中的咆哮位图
@@ -1034,6 +1035,8 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [schickling/rust-beanstalkd](https://github.com/schickling/rust-beanstalkd) — [Beanstalkd](https://github.com/beanstalkd/beanstalkd) 绑定
 * 硬盘文件系统
   * [hyunsik/hdfs-rs](https://github.com/hyunsik/hdfs-rs) [[hdfs](https://crates.io/crates/hdfs)] — libhdfs 绑定
+* 其他
+  * [build-trust/ockam](https://github.com/build-trust/ockam) [[ockam](https://crates.io/crates/ockam)] - 分布式应用程序的端到端加密、相互身份验证和 ABAC [![build badge](https://github.com/build-trust/ockam/workflows/Rust/badge.svg)](https://github.com/build-trust/ockam)
 
 ### Domain driven design
 
@@ -1050,7 +1053,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [lettre/lettre](https://github.com/lettre/lettre) — Rust 的 SMTP 库 [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
 * [staktrace/mailparse](https://github.com/staktrace/mailparse) [[mailparse](https://crates.io/crates/mailparse)] — 用于解析真实世界电子邮件文件的库
 * [stalwartlabs/mail-auth](https://github.com/stalwartlabs/mail-auth) [[mail-auth](https://crates.io/crates/mail-auth)] - DKIM、ARC、SPF 和 DMARC 消息认证库 [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
-* [stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser) [[mail-parser](https://crates.io/crates/mail-parser)] - 一个快速而强大的电子邮件解析库，具有完整的 MIME 支持 [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
+* [stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser) [[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
 * [stalwartlabs/mail-send](https://github.com/stalwartlabs/mail-send) [[mail-send](https://crates.io/crates/mail-send)] - 支持 DKIM 的电子邮件生成器和 SMTP 客户端库 [![build badge](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-send/actions/workflows/rust.yml)
 
 ### Encoding
@@ -1193,7 +1196,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * [DaveKram/coord_transforms](https://github.com/DaveKram/coord_transforms) [[coord_transforms](https://crates.io/crates/coord_transforms)] — 坐标转换（2-d、3-d 和地理空间）
 * [Georust](https://github.com/georust) — 用 Rust 编写的地理空间工具和库
-* [rust-reverse-geocoder](https://github.com/gx0r/rrgeo) — A fast, offline reverse geocoder in Rust, inspired by [thampiman/reverse-geocoder](https://github.com/thampiman/reverse-geocoder)
+* [rust-reverse-geocoder](https://github.com/gx0r/rrgeo) — 一个快速、离线的 Rust 反向地理编码器，灵感来自 [thampiman/reverse-geocoder](https://github.com/thampiman/reverse-geocoder)
 * [vlopes11/geomorph](https://github.com/vlopes11/geomorph) [[geomorph](https://crates.io/crates/geomorph)] — UTM、LatLon 和 MGRS 坐标之间的转换
 
 ### Graph algorithms

@@ -171,7 +171,7 @@
 <br>
 
 <div align="center">
-	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter 帐户</a>以获取有关新列表添加的更新.</b>
+	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
@@ -264,7 +264,7 @@
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Python](https://github.com/vinta/awesome-python#readme) - 为可读性而设计的通用编程语言.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Python 3 中的异步 I/O.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - 音频/音乐科学研究.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的 Python 版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - 数据分析和机器学习.
@@ -385,7 +385,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -545,8 +545,9 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
+- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - 游戏引擎.
 
 ## Development Environment
 
@@ -633,6 +634,8 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供一条清晰的途径来提高您的知识和技能.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看来自 YouTube 用户的视频教程，教您技术知识.
+- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - 举办有趣且富有成效的编程马拉松.
+- [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - 免费的计算机科学认证来展示您的知识.
 
 ## Security
 
@@ -788,6 +791,7 @@
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - 为 macOS 设计应用程序.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
+- [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - 除了 README 之外，GitHub 上的综合文档.
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)

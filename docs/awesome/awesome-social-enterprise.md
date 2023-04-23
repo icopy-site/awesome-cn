@@ -8,9 +8,9 @@
 <details>
   <summary>咆哮我为什么做这个</summary>
   
-  当我在埃克德学院时，我多次碰到社会企业的概念. 首先，在名为_技术、社会和环境_的课程中，然后通过与一家社会企业的 CTO 会面，最后参加名为_社会创业_的课程. 一路走来，我越来越喜欢社会企业的概念. 然而，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
+  当我在埃克德学院时，我多次碰到社会企业的概念. 首先，在名为_技术、社会和环境_的课程中，然后通过与一家社会企业的首席技术官会面，最后参加名为_社会创业_的课程. 一路走来，我越来越喜欢社会企业的概念. 然而，我从来没有觉得有一种简单的方法可以连接到社会企业的世界. 
   
-  最后，我设置了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 获取与“社会企业家”相关的任何内容的每周摘要. 效果不错，但我仍然觉得我错过了什么. 快进几年，我发现自己大量参与了一个名为 [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+  最后，我设置了一个 [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) 获取与“社会企业家”相关的任何内容的每周摘要. 效果不错，但我仍然觉得我错过了什么. 快进几年，我发现自己大量参与了一个名为 [hackNY](https://hackny.org/) ，在纽约时报工作，比以往任何时候都更渴望了解社会企业. 因此，我已经开始编制这份资源清单，让人们更容易与社会企业世界建立联系. 有关一些常见问题，请参阅底部的常见问题解答.
   
 </details>
 
@@ -62,7 +62,7 @@
 
  | 标题 | 作者| 年份 | 备注 |
 |-------|--------|------|-------|
- | 社会企业家精神：每个人都需要知道的事 | 大卫·伯恩斯坦 |  2010 | 很好地介绍了社会企业家精神. 简短而亲切，对常见问题有很多很好的回答.  |
+| Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
 | [Ladderworks books](https://www.ladderworks.co/)  | 各种|  2022 | 年多样化的图画书帮助超过一百万的孩子成为社会企业家.  |
  | 成为社会企业家：起步、扩大规模并保持真实 | 迈克尔·戈登 |  2019 |  | 
 
@@ -101,6 +101,8 @@ Coursera
 * [100x Impact Accelerator](https://www.100ximpact.org/) - 为社会企业提供 150k 的 12 周计划.
 * [Fashion for Good Accelerator](https://accelerator.fashionforgood.com/) - 为期九个月的解决时尚可持续性问题的计划.
 * [Social Enterprise Academy Accelerator](https://www.academies-se.org/accelerator)  - 培养社会企业的 20 周计划. 高达 30k 的可用资金.
+* [Radical Partners](https://www.radical.partners) - 位于迈阿密的社会影响加速器.
+* [Seaworthy Collective](https://www.seaworthycollective.com) - 位于迈阿密的 BlueTech 企业家支持组织.
 
 ## Institutions 🏫
 研究社会企业的学术机构：
@@ -111,6 +113,7 @@ Coursera
 * [Copenhagen Business School Social Entrepreneurship](https://www.cbs.dk/en/knowledge-society/interdisciplinary-initiatives/entrepreneurship/organization/clusters/social-entrepreneurship)
 * [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
 * [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - 加拿大第一所社会创新学校.
+* [Pepperdine's MA in Social Entrepreneurship and Change](https://gsep.pepperdine.edu/masters-social-entrepreneurship-and-change/)
 
 
 ## Tools 🔨
