@@ -125,7 +125,7 @@
 
 - [Seabin Project](https://seabinproject.com/)  | 澳大利亚 |  2016年
 
-  他们的任务是通过一个漂浮的垃圾桶来收集水面上的污染物，从而减少海洋中的塑料垃圾. 截至 2019 年 10 月，他们已经部署了 719 个 Seabins，每天捕获近 3 吨垃圾.
+  Their mission is to reduce plastic in the oceans through a floating rubbish bin that collect pollutants on the water surface. As of October 2019 they have deployed 719 Seabins and are capturing almost 3 tonnes of rubbish per day.
 
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/)  | 芬兰 |  2015年
 
@@ -153,7 +153,7 @@
 
   一家软件公司，基于开源贡献，提供对 90 多个国家/地区电力来源及其相关碳排放的实时和历史数据的访问权限.
 
-- [Gogoro](https://www.gogoro.com/) | Taiwan | 2011
+- [Gogoro](https://www.gogoro.com/)  | 台湾 |  2011年
 
   开发和销售电动滑板车和电池更换基础设施.
 
@@ -201,7 +201,7 @@
 
   为家庭生产储能解决方案. 此外，他们目前提供在德国运营的最大的可再生能源电力共享网络.
 
-- [Suzlon Energy Ltd.](https://www.suzlon.com/)  | 印度 |  1995
+- [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
 
   风力涡轮机制造商遍布各大洲的 18 个国家/地区.
 
@@ -257,7 +257,8 @@
 
 ## More Resources
 
-- [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than \$1 billion in committed capital, to build companies that will help stop climate change.
+- [ClimateTechList](https://www.climatetechlist.com/) - 约 50 家气候技术公司的精选名单，专门针对软件工程师，包括每家公司的描述、它们的软件影响和气候影响.
+- [Breakthrough Energy Ventures](https://www.b-t.energy/) - 由比尔盖茨和一群私人投资者支持的风险基金，承诺资本超过 10 亿美元，用于建立有助于阻止气候变化的公司.
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - 芬兰清洁技术公司的中心.
 - [Clean Tech Sweden](https://swedishcleantech.com/) - 瑞典清洁技术公司的中心.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - 在面对气候变化时给予人们希望的 subreddit.

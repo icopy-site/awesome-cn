@@ -161,7 +161,7 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">什么是很棒的清单？</a>
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">投稿指南</a>
 	<a href="create-list.md">创建列表</a>
 	<a href="https://twitter.com/awesome__re">推特</a>
@@ -171,7 +171,7 @@
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter 帐户</a>以获取有关新列表添加的更新.</b>
 </div>
 
 <br>
@@ -186,7 +186,7 @@
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于 Chrome 的 V8 JavaScript 引擎构建的异步非阻塞事件驱动的 JavaScript 运行时.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在 Node.js 上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - 适用于 Apple 手机和平板电脑的移动操作系统.
 - [Android](https://github.com/JStumpp/awesome-android#readme) - 由谷歌开发的移动操作系统.
@@ -428,7 +428,7 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java 网络应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础设施的工具.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python 网络应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python 网络应用程序框架.
@@ -545,13 +545,13 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - 游戏引擎.
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - 适用于 macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
@@ -700,7 +700,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程战略.
 
 ## Work
 
@@ -710,7 +710,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - 审查代码.
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - 专注于结合计算、设计、艺术和用户体验的企业和团体.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - 简历写作指南和雇佣实习生的公司.
 
@@ -729,7 +729,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - 开源分布式结算网络.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源去中心化微博网络.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - 用于智能合约开发的分布式计算平台.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 支持工业规模应用程序的去中心化操作系统.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为企业设计的开源区块链平台.
@@ -891,6 +891,7 @@
 - [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - 几何问题的计算方法.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - 许多应用程序和设备使用的开放数据映射项目.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - 应用于生物学问题的计算方法.
+- [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - 基于Pandoc构建的科技开源出版系统.
 
 ## Related
 

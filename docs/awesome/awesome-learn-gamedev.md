@@ -3,7 +3,7 @@
 
 ## Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 游戏创作者学习资源的巨型清单 
+&gt; 游戏创作者学习资源的巨型列表 
 
 <p>
 
@@ -26,7 +26,7 @@
 
 此列表旨在学习游戏开发的技巧. 它旨在为 gamedev 保护伞下的各种学科和角色提供一般知识、资源和招聘建议. 
 
-几乎所有的资源都是免费的，任何有价格标签的东西都会被清楚地标明. 只有在相关学科的行业专业人士亲自认可的情况下，才包括付费资源.
+Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
 随时欢迎提出建议和面向未来的努力！ 有关贡献指南，请参阅“Contributing.md”，并查看 [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) 对于需要完成的任务，例如档案工作.
 
@@ -145,7 +145,7 @@
 [Math for Game Programmers](https://gamemath.com/book/intro.html) - 一本免费的游戏程序员数学书籍.
 
 
-[Mature Optimization](https://carlos.bueno.org/optimization/) - 一本关于为性能构建代码以及测试大型系统的免费书籍.
+[Mature Optimization](https://carlos.bueno.org/optimization/) - A free book on structuring code for performance, as well as testing large systems.
 
 
 [Data Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html) - 一本关于面向数据设计的免费书籍，是面向对象编程的替代品
@@ -454,13 +454,13 @@
 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) - 从信誉良好的渠道吸引人们的详尽系列.
 
 
-[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) 💠🟪 - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
+[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o)  - 适合初学者和中级画家的数字绘画指南. 请参阅 Sinix 的其他教程，以获取针对更高级艺术家的指南.
 
 
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - 一个可搜索的人类参考图像存储库，带有便于搜索的过滤器（即“1 名 20-40 岁的女性和前面的狗”或“3 人坐在家里”）
 
 
-[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - A list of art resources, primarily human figure reference material.
+[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - 艺术资源列表，主要是人物参考资料.
 
 
 [Drawing the Head and Hands](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf)  - 安德鲁·卢米斯 (Andrew Loomis) 着的一本关于图形构造的书. 在公共领域免费！
@@ -522,7 +522,7 @@
 
 ### Resources for Non-Artists
 
-请注意，那里还有很多很多资源——这些资源主要是作为构建外观精美的游戏的一种方式，即使在学习不同学科的同时也是如此.
+Note that there are many, many more resources out there - these are primarily included as a way to build a polished-looking game even while learning a different discipline.
 
 免版税游戏美术！ 不要忘记检查许可证.
 - [Open Game Art](https://opengameart.org/)
@@ -557,7 +557,7 @@
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - 关于编写游戏设计文档 (GDD) 的教程.
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/)  - 作为问题解决方案呈现的常见设计模式的数据库，由《游戏设计模式语言》一书编译​​而成. 还包含学生和设计师完成本书练习的作品.
 
 
 [The Evolution of Trust](https://ncase.me/trust/)  - 一些博弈论的交互式演练. 可能是游戏设计课上的必读内容.
@@ -689,6 +689,9 @@
 <br />
 
 
+[Game Narrative Resources](http://sashakirlee.com/game-narrative-resources) - 书籍、工具、讲座、资源、工作列表等的集合，用于写作，以及与叙述相关的相关学科.
+
+
 [Inkle](https://www.inklestudios.com/ink/) - 游戏编写工具（免费且与 Unity 完美集成！）
 
 
@@ -717,7 +720,7 @@
 [Video Game Production Resources](https://www.breakingthewheel.com/video-game-production-resources/)  - 按用途分类的生产者资源集合. 针对创业、管理和营销等软技能.
 
 
-[Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - 为制作人提供的书籍、工具、会议演讲和其他资源的集合.
+[Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - A collection of books, tools, conference talks, and other resources for producers.
 
 
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - 对高级制作人弗兰克·罗根的采访.
@@ -761,7 +764,7 @@
 [The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs)  - 游戏工作和专业的综合列表（包括游戏开发和电子竞技）.
 
 
-[Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - A big list of portfolios from industry professionals.
+[Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - 来自行业专业人士的大量投资组合.
 
 
 [GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - 工作室职业页面和职位发布网站的巨型列表.

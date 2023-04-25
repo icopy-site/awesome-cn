@@ -121,7 +121,7 @@
 
 ## Code
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -165,6 +165,7 @@
 - [Avatar AI](https://avatarai.me/) - 创建您自己的 AI 生成头像.
 - [ClipDrop](https://clipdrop.co/) - 无需照相馆即可创建专业的视觉效果.
 - [Lensa](https://prisma-ai.com/lensa) - 一款一体化图像编辑应用程序，包括使用 Stable Diffusion 生成个性化头像.
+- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作空间.
 
 ### Image libraries
 
@@ -220,11 +221,12 @@
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
 - [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
 - [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
-- [Scenario](https://www.scenario.com/) - 人工智能生成的游戏资产.
+- [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
 - [Gamma](https://gamma.app/) - 创建漂亮的演示文稿和网页，无需任何格式和设计工作.
 - [Learn Prompting](https://learnprompting.org/) - 关于与人工智能通信的免费开源课程.
+- [FinChat](https://finchat.io/) - 使用人工智能，FinChat 生成有关上市公司和投资者问题的答案.
 
 ## More lists
 
@@ -235,7 +237,7 @@
 - [Generative AI for Games](https://twitter.com/gwertz/status/1593268767269670912) - 致力于游戏生成 AI 的公司的市场地图，作者： [a16z](https://a16z.com/).
 - [Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art) - 用于艺术用途的生成深度学习工具、作品、模型等的精选列表，作者： [@filipecalegario](https://github.com/filipecalegario/).
 - [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
-- [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 apps and use-cases.
+- [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.

@@ -96,7 +96,7 @@ Rust 代码和资源的精选列表.
 * [Polkadot](https://github.com/paritytech/polkadot) — 具有池化安全性的异构多链技术
 * [revm](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) 是一个用 rust 编写的快速以太坊虚拟机.
 * [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) — 支持反序列化、解析和执行与比特币相关的数据结构和网络消息的库.
-* [rust-lightning](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust) ](https://crates.io/crates/lightning) — 用 Rust 编写的比特币闪电库. 主板条箱 `lightning` 不处理网络、持久性或任何其他 I/O. 因此，它与运行时无关，但用户必须在链接箱上实现基本的网络逻辑、链交互和磁盘存储.
+* [rust-lightning](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
 * [sigma-rust](https://github.com/ergoplatform/sigma-rust) — ErgoTree 解释器和钱包相关功能的 Rust 实现.
 * [Solana](https://github.com/solana-labs/solana) — 使用历史证明的极快、高度可扩展的区块链.
 * [Substrate](https://github.com/paritytech/substrate) — 用 Rust 编写的通用模块化区块链模板
@@ -262,7 +262,7 @@ Rust 代码和资源的精选列表.
 * [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide/) — 学习习惯的 `cd` 的快速替代品 [![release](https://github.com/ajeetdsouza/zoxide/workflows/.github/workflows/release.yml/badge.svg)](https://github.com/ajeetdsouza/zoxide/actions)
 * [Alonely0/Voila](https://github.com/Alonely0/Voila) — Voila 是一种通过 CLI 工具启动的特定领域语言，用于以快速可靠的方式处理大量文件和目录. [![Linux build](https://github.com/Alonely0/Voila/actions/workflows/linux-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/linux-ci.yml) [![macOS build](https://github.com/Alonely0/Voila/actions/workflows/mac-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/mac-ci.yml) [![Windows build](https://github.com/Alonely0/Voila/actions/workflows/windows-ci.yml/badge.svg)](https://github.com/Alonely0/Voila/actions/workflows/windows-ci.yml)
 * [bandwhich](https://github.com/imsnif/bandwhich) — 终端带宽利用工具
-* [bottom](https://github.com/ClementTsang/bottom) - 另一个跨平台图形化进程/系统监视器. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
+* [bottom](https://github.com/ClementTsang/bottom) - 又一个跨平台图形化进程/系统监视器. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 * [brocode/fblog](https://github.com/brocode/fblog) — 小型命令行 JSON 日志查看器
 * [bustd](https://github.com/vrmiguel/bustd) - 轻量级进程杀手守护进程，用于处理 Linux 上的内存不足情况. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/vrmiguel/bustd/build-and-test)](https://github.com/vrmiguel/bustd/actions?query=branch%3Amaster)
 * [buster/rrun](https://github.com/buster/rrun) — Linux 的命令启动器，类似于 gmrun
@@ -292,7 +292,7 @@ Rust 代码和资源的精选列表.
 * [nushell/nushell](https://github.com/nushell/nushell) - 一种新型外壳
 * [ogham/exa](https://github.com/ogham/exa) — 替代“ls”
 * [orhun/kmon](https://github.com/orhun/kmon) — Linux 内核管理器和活动监视器 ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
-* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代方案 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代品 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 * [ouch](https://github.com/ouch-org/ouch) - 命令行无痛压缩和解压缩 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
@@ -356,7 +356,7 @@ Rust 代码和资源的精选列表.
 * [nomino](https://github.com/yaa110/nomino) — 开发人员的批量重命名实用程序
 * [raftario/licensor](https://github.com/raftario/licensor) — 将许可证写入标准输出 [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — 一款远程桌面软件，是 TeamViewer 和 AnyDesk 的绝佳替代品.
-* [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步已安装的包
+* [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步安装的包
 * [vamolessa/verco](https://github.com/vamolessa/verco) [[verco](https://crates.io/crates/verco)] — 一个专注于键盘快捷键的简单 Git/Hg tui 客户端
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — 用 Rust 编写的 Bitwarden 服务器 API 的替代实现
 * [yaa110/cb](https://github.com/yaa110/cb) — 管理剪贴板的命令行界面
@@ -450,7 +450,7 @@ Rust 代码和资源的精选列表.
   * [cargo-update](https://crates.io/crates/cargo-update) — cargo 子命令，用于检查和应用更新到已安装的可执行文件
   * [cargo-watch](https://crates.io/crates/cargo-watch) — 当源改变时 cargo 编译项目的实用程序
   * [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) — 扩展源代码中的宏
-* CMake
+* 制作
   * [Devolutions/CMakeRust](https://github.com/Devolutions/CMakeRust) — 用于将 Rust 库集成到 CMake 项目中
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — 一个示例项目，显示 CMake 与 Rust 的用法
 * [Fleet](https://github.com/dimensionhq/fleet) [[fleet-rs](https://crates.io/crates/fleet-rs)] - Rust 的快速构建工具.
@@ -752,7 +752,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [rusoto/rusoto](https://github.com/rusoto/rusoto) —
 * 负载均衡器
   * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载平衡器.
-* Multi Cloud
+* 多云
   * [Qovery/engine](https://github.com/Qovery/engine) - 抽象层库，只需几分钟即可在云提供商上轻松部署应用程序
 
 ### Command-line
@@ -1068,7 +1068,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [m4b/goblin](https://github.com/m4b/goblin) [[goblin](https://crates.io/crates/goblin)] — 跨平台、零拷贝和字节序感知二进制解析
 * BSON
   * [mongodb/bson-rust](https://github.com/mongodb/bson-rust) — 在 Rust 中对 BSON 的编码和解码支持
-* 字节交换
+* Byte swapping
   * [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder) — 支持大端、小端和本机字节顺序
 * Cap&#39;n Proto
   * [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust) —
@@ -1237,7 +1237,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) —
 * [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) - 一个可移植的、高性能的、符合人体工程学的框架，用于在 Rust 中构建跨平台用户界面. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 * [emilk/egui](https://github.com/emilk/egui)  - 用于 Rust 的简单、快速和高度可移植的即时模式 GUI 库.  egui 在 Web 上本地运行，并在您最喜欢的游戏引擎中运行. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
-* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型制作
+* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型设计
 * [FLTK](https://www.fltk.org/)
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) — FLTK Rust 绑定 [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)
@@ -1245,7 +1245,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge) — 用于 Flutter/Dart &lt;-&gt; Rust 的高级内存安全绑定生成器
 * [fschutt/azul](https://github.com/fschutt/azul) — 一个免费的、功能性的、面向 IMGUI 的 GUI 框架，用于快速开发用 Rust 编写的桌面应用程序，由 Mozilla WebRender 渲染引擎支持.
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
-  * [gtk-rs/gtk3-rs](https://github.com/gtk-rs/gtk3-rs) - GTK3 防锈绑定 ![CI](https://github.com/gtk-rs/gtk3-rs/workflows/CI/badge.svg)
+  * [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs) - GTK4 防锈绑定 ![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
   * [relm](https://github.com/antoyo/relm) — 异步的、基于 GTK+ 的 GUI 库，灵感来自 Elm
 * [iced-rs/iced](https://github.com/iced-rs/iced) [[iced](https://crates.io/crates/iced) ] — Rust 的跨平台 GUI 库，专注于简单性和类型安全. 灵感来自榆树.
 * [ImGui](https://github.com/ocornut/imgui)

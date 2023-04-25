@@ -175,7 +175,7 @@
 
 - [NDepend](http://www.ndepend.com) :copyright: — 衡量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
-- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDPi、加密、反序列化等）提供实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDAPI、加密、反序列化等）提供实时安全代码分析.
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
@@ -321,7 +321,7 @@
 <h2 id="erlang">二郎</h2>
 
 
-- [dialyzer](https://www.erlang.org/doc/man/dialyzer.html)  — DIALYZER，一个用于 ERlang 程序的差异分析器.  Dialyzer 是一种静态分析工具，可在单个 Erlang 模块或整个（组）应用程序中识别软件差异，例如明确的类型错误、由于编程错误而变得无效或无法访问的代码，以及不必要的测试.
+- [dialyzer](https://www.erlang.org/doc/man/dialyzer.html)  — DIALYZER，一个用于 ERlang 程序的差异分析器.  Dialyzer 是一种静态分析工具，可在单个 Erlang 模块或整个（组）应用程序中识别软件差异，例如明确的类型错误、由于编程错误而变得无效或无法访问的代码以及不必要的测试.
  Dialyzer 从调试编译的 BEAM 字节码或 Erlang 源代码开始分析. 报告差异的文件和行号以及差异的指示.  Dialyzer 的分析基于成功打字的概念，它允许发出声音警告（无误报）.
 
 - [elvis](https://github.com/inaka/elvis) — Erlang 风格评论家.
@@ -799,7 +799,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -993,7 +993,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [RustViz](https://github.com/rustviz/rustviz)  — RustViz 是一个从简单的 Rust 程序生成可视化的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有图形指示器的 SVG 文件，这些指示器与 mdbook 集成以呈现 Rust 程序中数据流的可视化.
 
-- [warnalyzer](https://github.com/est31/warnalyzer) — 显示多箱 Rust 项目中未使用的代码
+- [warnalyzer](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
 
 
 <h2 id="sql">数据库</h2>
@@ -1170,7 +1170,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) :copyright: — 由安全驱动的自动化 SAST 代码审查，支持 15 种以上的语言并包括安全培训.
 
-- [codeql](https://github.com/github/codeql) — Deep code analysis - semantic queries and dataflow for several languages with VSCode plugin support.
+- [codeql](https://github.com/github/codeql) — 深度代码分析——支持 VSCode 插件的多种语言的语义查询和数据流.
 
 - [CodeQue](https://codeque.co)  — 用于结构匹配 JavaScript 和 TypeScript 代码的生态系统. 提供了解代码结构的搜索工具. 作为 CLI 工具和 Visual Studio Code 扩展可用. 它有助于更​​快、更准确地搜索代码，使您的工作流程更有效. 很快它将提供 ESLint 插件来在几分钟内创建您自己的规则，以帮助确保代码库质量.
 
@@ -1381,6 +1381,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 
+- [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook 扫描工具，可分析并为您的 playbook 提供建议.
+
 
 <h2 id="archive">档案</h2>
 
@@ -1514,6 +1516,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint) — 检查 Puppet metadata.json 文件有效性的工具.
 
 - [Puppet Lint](https://github.com/rodjek/puppet-lint) — 检查您的 Puppet 清单是否符合风格指南.
+
+- [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook 扫描工具，可分析并为您的 playbook 提供建议.
 
 - [terraform-compliance](https://terraform-compliance.com) — 针对 Terraform 的轻量级、以合规性和安全性为重点的 BDD 测试框架.
 
@@ -1858,6 +1862,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡——开源的安全健康指标
 
 - [SearchDiggity](https://resources.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/)  :copyright: — 识别 Github、Google Code、MS CodePlex、SourceForge 等托管的开源代码项目中的漏洞. 该工具带有 130 多个默认搜索，可识别 SQL 注入、跨站点脚本 (XSS)、不安全的远程和本地文件包含、硬编码密码等. 
+
+- [Steampunk Spotter](https://steampunk.si/spotter/) :copyright: — Ansible Playbook 扫描工具，可分析并为您的 playbook 提供建议.
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
 

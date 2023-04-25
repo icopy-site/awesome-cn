@@ -48,6 +48,7 @@
 - ：图钉： [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
 - ：地球美洲： [Mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - ：bar_chart： [Mach-O internals](https://yossarian.net/res/pub/macho-internals/macho-internals.pdf)
+- ：图钉： [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer/)
 - ：剪贴板： [Microsoft portable executable and common object file format specification](http://www.skyfree.org/linux/references/coff.pdf)
 - ：地球美洲： [MITRE ATT&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
 - ：地球美洲： [MZ disk operating system (DOS)](https://wiki.osdev.org/MZ)
@@ -169,7 +170,7 @@
 - ：笔记本： [Instructions-based detection of sophisticated obfuscation and packing](https://ieeexplore.ieee.org/document/6956729) （2014 年 10 月） 
 - ：报纸： [A learning model to detect maliciousness of portable executable using integrated feature set](https://www.sciencedirect.com/science/article/pii/S1319157817300149) （2017 年 1 月） 
 - ：笔记本： [Limits of static analysis for malware detection](https://ieeexplore.ieee.org/document/4413008) （2007 年 12 月） 
-- ：砂浆板： [Maitland: Analysis of packed and encrypted malware via paravirtualization extensions](https://dspace.library.uvic.ca/handle/1828/3866) （2012 年 6 月） 
+- ：砂浆板： [Maitland: Analysis of packed and encrypted malware via paravirtualization extensions](https://dspace.library.uvic.ca/handle/1828/3866) （2012 年 6 月）
 - ：笔记本： [Mal-EVE: Static detection model for evasive malware](https://ieeexplore.ieee.org/document/7497952) （2015 年 8 月） 
 - ：报纸： [Mal-flux: Rendering hidden code of packed binary executable](http://www.sciencedirect.com/science/article/pii/S1742287618303736) （2019 年 3 月）：明星：
 - ：报纸： [Mal-XT: Higher accuracy hidden-code extraction of packed binary executable](https://iopscience.iop.org/article/10.1088/1757-899X/453/1/012001) （2018 年 11 月） 
@@ -424,7 +425,7 @@
 - [WinUpack](https://www.sac.sk/download/pack/wupck039.zip) - Upack 的图形界面，这是一个命令行程序，用于从 Windows PE 文件创建自解压存档.
 - [XComp](http://www.soft-lab.de/JoKo/index_old.htm) - PE32 图像文件打包器和重建器.
 - [Yoda Crypter](https://sourceforge.net/projects/yodap/files/Yoda%20Crypter/1.3/yC1.3.zip/download) - 支持多态加密、软检测、反调试API、反倾销等，加密导入表并擦除PE Header.
-- [Yoda Protector](http://yodap.sourceforge.net) - 免费、开源、Windows 32 位软件保护程序.
+- [Yoda Protector](http://yodap.sourceforge.net) - 免费、开源、Windows 32 位软件保护器.
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -566,8 +567,8 @@
 - [PEiD (yara)](https://github.com/K-atc/PEiD) - PEiD 的另一个实现与 yara.
 - [PeLib](https://github.com/avast/pelib) - PE 文件操作库.
 - [PEPack](https://github.com/merces/pev) - PE 文件加壳检测工具，Unix 包“pev”的一部分.
-- [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - 用于扫描 PE 文件以识别它们是如何构建的 CLI 工具.
-- [PETools](https://github.com/petoolse/petools) - 用于处理 PE 文件的老式逆向工程工具（自 2002 年以来历史悠久）.
+- [PEscan](https://tzworks.com/prototype_page.php?proto_id=15) - 用于扫描 PE 文件以识别它们是如何构造的 CLI 工具.
+- [PETools](https://github.com/petoolse/petools) - 用于操作 PE 文件的老式逆向工程工具（自 2002 年以来历史悠久）.
 - [PEview](http://wjradburn.com/software) - 提供了一种快速简便的方法来查看 32 位可移植可执行文件 (PE) 和组件对象文件格式 (COFF) 文件的结构和内容.
 - [PExplorer](http://www.heaventools.com/overview.htm) - 大多数功能丰富的程序，用于检查您自己的软件的内部工作，更重要的是，您没有源代码的第三方 Windows 应用程序和库.
 - [Pin](https://www.intel.com/content/www/us/en/developer/articles/tool/pin-a-dynamic-binary-instrumentation-tool.html) - 用于 IA-32、x86-64 和 MIC 指令集架构的动态二进制检测框架，支持创建动态程序分析工具.

@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="h4cc/awesome-elixir"></div>
-## Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Elixir [![CI Badge](https://github.com/h4cc/awesome-elixir/actions/workflows/ci.yml/badge.svg)](https://github.com/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的 Elixir 库、资源和受启发的闪亮事物的精选列表 [awesome-php](https://github.com/ziadoz/awesome-php).
 
 如果您认为应该添加一个包，请在相应的问题上添加一个 :+1: (`:+1:`) 或创建一个新包.
@@ -54,7 +54,7 @@
 * [exconstructor](https://github.com/appcues/exconstructor) - 一个 Elixir 库，用于生成可以轻松处理外部数据的结构构造函数.
 * [exfsm](https://github.com/awetzel/exfsm) - 用于定义静态 FSM 的简单长生不老药库.
 * [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) 在 Elixir 中实现.
-* [exmatrix](https://github.com/a115/exmatrix) - ExMatrix is a small library for working with matrices, originally developed for testing matrix multiplication in parallel.
+* [exmatrix](https://github.com/a115/exmatrix) - ExMatrix 是一个用于处理矩阵的小型库，最初是为测试并行矩阵乘法而开发的.
 * [exor_filter](https://github.com/mpope9/exor_filter)  - xor_filters 的 Nif.  “比 Bloom 和 Cuckoo 过滤器更快更小”.
 * [ezcryptex](https://github.com/stocks29/ezcryptex) - Cryptex 顶部的薄层.
 * [flow](https://github.com/dashbitco/flow) - GenStage 之上的计算并行流.
@@ -62,7 +62,7 @@
 * [fsm](https://github.com/sasa1977/fsm) - 作为功能数据结构的有限状态机.
 * [fuse](https://github.com/jlouis/fuse) - 此应用程序为 Erlang 实现了所谓的断路器.
 * [gen_fsm](https://github.com/pavlos/gen_fsm) - 一个通用的有限状态机 - 围绕 OTP 的 gen_fsm 的 Elixir 包装器.
-* [graphex](https://github.com/stocks29/graphex) - 用于在 elixir 中编写和执行任务图的库. [Docs](https://hexdocs.pm/graphex)
+* [graphex](https://github.com/stocks29/graphex) - 用于在 elixir 中编写和执行任务图的库.
 * [graphmath](https://github.com/crertel/graphmath) - 用于执行 2D 和 3D 数学的 Elixir 库.
 * [hash_ring_ex](https://github.com/reset/hash-ring-ex) - Elixir 的一致哈希环实现.
 * [hypex](https://github.com/whitfin/hypex) - HyperLogLog 的快速 Elixir 实现.
@@ -119,14 +119,14 @@
 * [Consolex](https://github.com/sivsushruth/consolex) - Consolex 是一种工具，可让您将基于 Web 的控制台附加到任何混音项目.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - 用于提供 Dragonfly 图像的 Elixir 应用程序.
 * [exchat](https://github.com/tony612/exchat) - 由 Elixir、Phoenix 和 React (redux) 开发的类似 Slack 的应用程序.
-* [Exon](https://github.com/tchoutri/Exon)  - 在 Elixir 中开发的“混乱管理器”，提供了一个简单的 API 来管理和记录你的东西.  ([Docs](https://hexdocs.pm/exon/readme.html)).
+* [Exon](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 * [ExShop](https://github.com/authentic-pixels/ex-shop) - 使用 Phoenix 框架创建的数字商品商店和博客.
 * [Hydra](https://github.com/doomspork/hydra) - 多头野兽：API 网关、请求缓存和数据转换.
 * [Igthorn](https://github.com/cinderella-man/igthorn) - 带有管理面板的加密货币交易平台/交易机器人.
 * [majremind](https://bitbucket.org/Anwen/majremind) - 更新服务器的自我维护数据库，告诉您需要更新哪个服务器.
 * [medex](https://github.com/xerions/medex) - 体检 - 申请注册健康检查回调并通过 HTTP 表示其状态.
 * [medusa_server](https://github.com/IcaliaLabs/medusa_server)  - 一个用 Elixir 编写的简单牛仔网络服务器，用于堆叠图像.  ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
-* [Nvjorn](https://github.com/tchoutri/Nvjorn) - 使用 Poolboy 用 Elixir 编写的多协议网络服务监视器.
+* [Nvjorn](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
 * [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - 使用 Elixir、Phoenix Framework、React 和 Redux 构建的 Good Old 游戏.
 * [Phoenix Toggl](https://github.com/bigardone/phoenix-toggl) - 在 Elixir、Phoenix Framework、React 和 Redux 中完成的 Toggl 致敬.
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - 在 Elixir、Phoenix Framework、React 和 Redux 中完成的 Trello 致敬.
@@ -137,15 +137,16 @@
 * [Sprint Poker](https://github.com/elpassion/sprint-poker) - 敏捷团队的在线评估工具，使用 Elixir Lang、Phoenix Framework 和 React 编写.
 * [Startup Job](https://github.com/tsurupin/job_search) - 一个伞式项目，用于搜索从用 Elixir/Phoenix 和 React/Redux 编写的网站上抓取的创业工作.
 * [Tai](https://github.com/fremantle-capital/tai) - 可组合的实时加密货币市场数据和交易执行工具包.
-* [utils](https://github.com/q60/utils)  - 具有方便日常实用程序的网站：待办事项列表、URL 缩短器、代码箱和饼图. 使用 Phoenix Framework 在 Elixir 中编写.
 * [tty2048](https://github.com/lexmag/tty2048) - 用 Elixir 编写的基于终端的 2048 游戏.
 * [uai_shot](https://github.com/sergioaugrod/uai_shot) - 使用 Elixir、Phoenix Framework 和 Phaser 构建的多人飞船游戏.
+* [utils](https://github.com/q60/utils)  - 具有方便日常实用程序的网站：待办事项列表、URL 缩短器、代码箱和饼图. 使用 Phoenix Framework 在 Elixir 中编写.
 * [workbench](https://github.com/fremantle-industries/workbench) - 从创意到执行 - 跨全球分布式集群管理您的交易操作.
 
 ## Artificial Intelligence
 *当你的代码变得比你更聪明时.*
 
-* [Axon](https://github.com/elixir-nx/axon) - Nx 驱动的神经网络
+* [Axon](https://github.com/elixir-nx/axon) - Nx 驱动的神经网络.
+* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver 是 Elixir 和 Zig 中的 LLVM/MLIR 工具包.
 * [Exnn](https://github.com/zampino/exnn)  - 进化神经网络框架 à la G.Sher 用 Elixir 编写.  ([Docs](http://zampino.github.io/exnn/)).
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - 一个 CLI 工具，用于将训练有素的经典 ML 模型转换为零依赖的原生 Elixir 代码.
 * [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex)  - NEAT 算法的 Elixir 实现.  ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
@@ -153,14 +154,13 @@
 * [Runhyve](https://runhyve.app)  - Runhyve 是 FreeBSD 上 bhyve 的完整虚拟机管理器. 它是用 Elixir 编写的，并使用 Phoenix 框架.
 * [simple_bayes](https://github.com/fredwu/simple_bayes) - Elixir 中的简单贝叶斯/朴素贝叶斯实现.
 * [Synapses](https://mrdimosthenis.github.io/Synapses/?elixir) - 神经网络的轻量级库.
-* [Beaver](https://github.com/beaver-lodge/beaver) - Beaver 是 Elixir 和 Zig 中的 LLVM/MLIR 工具包.
 
 ## Audio and Sounds
 *处理声音和音调的库.*
 
 * [erlaudio](https://github.com/asonge/erlaudio) - Erlang PortAudio 绑定.
-* [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA 绑定
-* [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK 绑定
+* [ex_alsa](https://github.com/dulltools/ex_alsa) - Elixir ALSA 绑定.
+* [ex_jack](https://github.com/dulltools/ex_jack) - Elixir JACK 绑定.
 * [firmata](https://github.com/entone/firmata) - 这个包实现了 Firmata 协议.
 * [synthex](https://github.com/bitgamma/synthex) - 信号合成库.
 
@@ -185,7 +185,7 @@
 * [oauth2_facebook](https://github.com/chrislaskey/oauth2_facebook) - 用于 Elixir 的 Facebook OAuth2 提供程序.
 * [oauth2_github](https://github.com/chrislaskey/oauth2_github) - Elixir 的 GitHub OAuth2 提供程序.
 * [oauth2cli](https://github.com/mgamini/oauth2cli-elixir) - 为 Elixir 编写的简单 OAuth2 客户端.
-* [oauth2ex](https://github.com/parroty/oauth2ex) - Elixir 的另一个 OAuth 2.0 客户端库.
+* [oauth2ex](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 * [oauther](https://github.com/lexmag/oauther) - Elixir 的 OAuth 1.0 实现.
 * [passwordless_auth](https://github.com/madebymany/passwordless_auth) - Elixir 的简单无密码登录或 2 因素/多因素身份验证.
 * [phauxth](https://github.com/riverrun/phauxth) - Phoenix 1.3 和其他基于插件的应用程序的身份验证库.
@@ -199,7 +199,7 @@
 * [ueberauth_auth0](https://hex.pm/packages/ueberauth_auth0) - 使用 Auth0 对用户进行身份验证的 Ueberauth 策略.
 * [ueberauth_cas](https://github.com/marceldegraaf/ueberauth_cas) - Überauth 的中央认证服务策略.
 * [ueberauth_facebook](https://github.com/ueberauth/ueberauth_Facebook) - 适用于 Überauth 的 Facebook OAuth2 策略.
-* [ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare) - Überauth 的 Foursquare OAuth2 策略.
+* [ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare) - 适用于 Überauth 的 Foursquare OAuth2 策略.
 * [ueberauth_github](https://github.com/ueberauth/ueberauth_github) - Überauth 的 GitHub 策略.
 * [ueberauth_google](https://github.com/ueberauth/ueberauth_google) - 针对 Überauth 的 Google 策略.
 * [ueberauth_identity](https://github.com/ueberauth/ueberauth_identity) - Überauth 的简单用户名/密码策略.
@@ -232,12 +232,12 @@
 *运行代码以查看需要多长时间，哪个更快和/或是否进行了改进.*
 
 * [beamchmark](https://github.com/membraneframework/beamchmark) - 用于测量 EVM 性能的工具.
-* [benchee](https://github.com/PragTob/benchee) - Elixir 中简单且可扩展的基准测试！
+* [benchee](https://github.com/PragTob/benchee) - Elixir 中简单且可扩展的基准测试.
 * [benchfella](https://github.com/alco/benchfella) - Elixir 的基准测试工具.
 * [bmark](https://github.com/joekain/bmark) - Elixir 的基准测试工具.
 
 ## Bittorrent
-*Sharing is caring with Elixir*
+*分享是对 Elixir 的关怀*
 
 * [bento](https://github.com/folz/bento) - 一个令人难以置信的快速、正确、纯 Elixir Bencoding 库.
 * [tracker_request](https://github.com/alehander42/tracker_request) - 处理比特流跟踪器请求和响应.
@@ -257,7 +257,7 @@
 * [dismake](https://github.com/jarednorman/dismake) - 混合编译器运行 make.
 * [etude](https://github.com/exstruct/etude) - Erlang/Elixir 的并行计算协调编译器.
 * [ExMake](https://github.com/lycus/exmake) - 一种现代的、可编写脚本的、基于依赖关系的构建工具，松散地基于 Make 原则.
-* [Exscript](https://github.com/liveforeverx/exscript) - 长生不老药脚本库.
+* [Exscript](https://github.com/liveforeverx/exscript) - Elixir 脚本库.
 * [mad](https://github.com/synrc/mad) - 小而快速的钢筋更换.
 * [pc](https://github.com/blt/port_compiler) - 一个 rebar3 端口编译器.
 * [reaxt](https://github.com/awetzel/reaxt) - 将模板反应到您的 Elixir 应用程序中以进行服务器渲染.
@@ -323,12 +323,12 @@
 * [Gandi](https://github.com/Ahamtech/elixir-Gandi) - 用于 Leaseweb 基础设施的 Gandi 包装器.
 * [IElixir](https://github.com/pprzetacznik/IElixir) - 用于 Elixir 编程语言的 Jupyter 内核.
 * [k8s](https://github.com/coryodaniel/k8s) - 具有 CRD 支持、多集群支持、可插入身份验证和可配置中间件的 Kubernetes Elixir 客户端.
-* [Kazan](https://github.com/obmarg/kazan) - Elixir 的 Kubernetes 客户端，根据 k8s 开放 API 规范生成.
+* [Kazan](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
 * [Kubex](https://github.com/ingerslevio/kubex) - Elixir 的 Kubernetes 客户端和集成，用纯 Elixir 编写.
 * [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) - 用于 Leaseweb 基础设施的 Elixir Wrapper.
 * [libcluster](https://github.com/bitwalker/libcluster) - Elixir 应用程序的自动集群形成/修复.（[Docs](https://hexdocs.pm/libcluster/readme.html)).
 * [nodefinder](https://github.com/okeuday/nodefinder) - Erlang 中的自动节点发现策略.
-* [nomad](https://github.com/sashaafm/nomad)  - 创建云便携式 Elixir 和 Phoenix 应用程序. 一次编写，到处使用！
+* [nomad](https://github.com/sashaafm/nomad)  - 创建云便携式 Elixir 和 Phoenix 应用程序. 一次编写，到处使用.
 * [sidejob](https://github.com/basho/sidejob) - Erlang 的并行工作者和容量限制库.
 * [sidetask](https://github.com/PSPDFKit-labs/sidetask) - SideTask 是 Task.Supervisor 的替代品，它使用 Basho 的具有并行性和容量限制的副业库.
 * [skycluster](https://github.com/Nebo15/skycluster)  - Elixir/Erlang 应用程序的自动 Erlang 集群形成、消息传递和管理. 与 Kubernetes 集成.
@@ -343,11 +343,11 @@
 * [DepViz](https://depviz.jasonaxelson.com/)  - 一种可视化工具，可帮助开发人员了解项目中的 Elixir 重新编译.  ([Code](https://github.com/axelson/dep_viz/)).
 * [dialyxir](https://github.com/jeremyjh/dialyxir) - 混合任务以简化 Dialyzer 在 Elixir 项目中的使用.（[Docs](https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html)).
 * [dogma](https://github.com/lpil/dogma) - Elixir 的代码样式 linter，由 shame 提供支持.（[Docs](https://hexdocs.pm/dogma/api-reference.html)).
+* [ex_check](https://github.com/karolsluszniak/ex_check) - 在 Elixir 项目中高效运行所有代码分析和测试工具的一项任务.
 * [excellent_migrations](https://github.com/Artur-Sulej/excellent_migrations) - 检测数据库迁移中潜在的危险操作.
 * [excoveralls](https://github.com/parroty/excoveralls) - Elixir 的覆盖率报告工具与 coveralls.io 集成.
 * [exprof](https://github.com/parroty/exprof) - 一个简单的 Elixir 代码分析器，使用 eprof.
 * [int_set](https://github.com/Cantido/int_set) - 一种用于正整数的时间和内存高效的无序数据结构.
-* [ex_check](https://github.com/karolsluszniak/ex_check) - 在 Elixir 项目中高效运行所有代码分析和测试工具的一项任务.
 
 ## Command Line Applications
 *任何有助于构建 CLI 应用程序的东西.*
@@ -382,7 +382,7 @@
 * [hush_aws_secrets_manager](https://github.com/gordalina/hush_aws_secrets_manager) - 用于保密的 AWS Secrets Manager 提供商.
 * [hush_gcp_secret_manager](https://github.com/gordalina/hush_gcp_secret_manager) - 用于保密的 Google Secret Manager 提供程序.
 * [mahaul](https://github.com/emadalam/mahaul) - Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.
-* [skogsra](https://github.com/gmtprime/skogsra) - 轻松管理操作系统环境变量和应用程序配置选项的库
+* [skogsra](https://github.com/gmtprime/skogsra) - 轻松管理操作系统环境变量和应用程序配置选项的库.
 * [sweetconfig](https://github.com/d0rc/sweetconfig) - 从您应用程序的任何位置读取 YAML 配置文件.
 * [weave](https://gitlab.com/gt8/open-source/elixir/weave) - 与 Kubernetes 和 Docker Swarm 一起工作的 JIT 配置加载器.
 
@@ -439,7 +439,7 @@
 * [quantum](https://github.com/quantum-elixir/quantum-core) - 用于 Elixir 应用程序的类似 Cron 的作业调度程序.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - 重复日期的自然语言解析.
 * [tiktak](https://github.com/ConduitMobileRND/tiktak) - 用 Elixir 编写的快速轻量级 Web 调度程序.
-* [timelier](https://github.com/ausimian/timelier) - Elixir 的 cron 风格调度程序.
+* [timelier](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
 * [timex](https://github.com/bitwalker/timex) - Elixir 易于使用的日期和时间模块.
 * [timex_interval](https://github.com/atabary/timex-interval) - 基于 Timex 的 Elixir 项目的日期/时间间隔库.
 * [tzdata](https://github.com/lau/tzdata) - Elixir 中的时区数据库.
@@ -457,7 +457,7 @@
 * [exrun](https://github.com/liveforeverx/exrun) - 具有速率限制和简单的基于宏的界面的 Elixir 分布式跟踪.
 * [extrace](https://github.com/redink/extrace) - Recon Trace 的 Elixir 包装器.
 * [git_hooks](https://github.com/qgadrian/elixir_git_hooks) - 将 git hooks 添加到 Elixir 项目.
-* [inspector](https://github.com/marciol/inspector) - 一个简单的单行模块，允许更友好的调试体验.
+* [inspector](https://github.com/marciol/inspector) - A simple one-line module that allows a more friendly debugging experience.
 * [observer_cli](https://github.com/zhongwencool/observer_cli) - 在命令行上可视化 Elixir 和 Erlang 节点，旨在帮助开发人员调试生产系统.
 * [quaff](https://github.com/qhool/quaff) - 调试模块提供了一个简单的帮助界面，用于在 erlang 图形调试器中运行 Elixir 代码.
 * [rexbug](https://github.com/nietaki/rexbug) - 用于 `redbug` 生产友好型 Erlang 跟踪调试器的 Elixir 包装器.
@@ -525,7 +525,7 @@
 * [pop3mail](https://hex.pm/packages/pop3mail) - Pop3 客户端通过命令行或 Elixir API 从收件箱下载电子邮件（包括附件）.
 * [ravenx](https://github.com/acutario/ravenx) - Elixir 应用程序的通知调度库.
 * [smoothie](https://github.com/jfrolich/smoothie) - 平滑电子邮件模板的内联样式，并从 HTML 生成纯文本版本.
-* [swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your Emails (with attachments!) easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and lots others, plus Phoenix integration with mailbox preview.
+* [swoosh](https://github.com/swoosh/swoosh) - 使用 SMTP、Sendgrid、Mandrill、Mailgun、Postmark 和许多其他适配器，以及 Phoenix 与邮箱预览的集成，在 Elixir 中轻松撰写、发送和测试您的电子邮件（带附件！）.
 
 ## Embedded Systems
 *嵌入式系统开发.*
@@ -541,25 +541,25 @@
 ## Errors and Exception Handling
 *处理错误和异常.*
 
+* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - 官方 [AppSignal](https://appsignal.com/) package for Elixir.
 * [exceptional](https://github.com/expede/exceptional) - 快乐路径编程和异常处理的助手.
 * [happy](https://github.com/vic/happy) - 快乐路径编程，替代长生不老药`with`形式.
 * [OK](https://github.com/CrowdHailer/OK) - 使用结果 monad 进行优雅的错误处理，具有简单而强大的“with”结构和一个快乐的路径管道运算符.
 * [sentry-elixir](https://github.com/getsentry/sentry-elixir) - 官方 Elixir 客户端 [Sentry](https://sentry.io/).
-* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - 官方 [AppSignal](https://appsignal.com/) 长生不老药包.
 
 ## Eventhandling
-*Sending/Emitting and receiving/handling Events in Elixir.*
+*在 Elixir 中发送/发送和接收/处理事件.*
 
 * [cizen](https://gitlab.com/cizen/cizen) - 使用一系列传奇构建高度并发、可监控和可扩展的应用程序.
 * [event_bus](https://github.com/mustafaturan/event_bus) - 带有主题过滤和内置事件存储和事件观察器的简单事件总线实现.
 * [goldrush](https://github.com/DeadZen/goldrush) - 用于 Erlang/OTP 应用程序的小型、快速事件处理和监视.
 * [reaxive](https://github.com/alfert/reaxive) - Reaxive 是一个响应式事件处理库，灵感来自 [Elm](http://elm-lang.org) 和反应性扩展.
-* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的工具.
+* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的设施.
 
 ## Examples and funny stuff
 *示例代码和太有趣或好奇的东西更不用说了.*
 
-* [butler_cage](https://github.com/keathley/butler_cage) - A Butler plugin for showing silly photos of Nick Cage.
+* [butler_cage](https://github.com/keathley/butler_cage) - 用于显示 Nick Cage 搞笑照片的 Butler 插件.
 * [butler_tableflip](https://github.com/keathley/butler_tableflip) - 与管家翻转桌子.
 * [changelog.com](https://github.com/thechangelog/changelog.com) - 运行用 Phoenix 1.4 构建的 changelog.com 的 CMS.
 * [coderplanets.com](https://github.com/coderplanets/coderplanets_server) - 使用 Phoenix 1.4 和 Absinthe 构建的用于 coderplanets.com 的 GraphQL api.
@@ -575,7 +575,7 @@
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - 使用 elixir-koans 学习 Elixir.
 * [lolcat](https://github.com/restartr/ex-lolcat)  - 这是 busyloop/lolcat 的克隆. 但它不支持动画和原版的一些功能.
 * [magnetissimo](https://github.com/sergiotapia/magnetissimo) - 为所有流行的 Torrent 站点编制索引并将其保存到本地数据库的 Web 应用程序.
-* [oop](https://github.com/wojtekmach/oop) - Elixir 中的 OOP！
+* [oop](https://github.com/wojtekmach/oop) - Elixir 中的 OOP.
 * [phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)  - 在 Phoenix 中为初学者构建聊天应用程序的分步示例/教程. 涵盖测试、文档和部署. 凤凰`1.5.3`.
 * [phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example) - 一个全面的示例/教程，向人们展示如何使用 Ecto Types 在 Phoenix 1.4 应用程序中透明地加密/解密数据.
 * [phoenix-flux-react](https://github.com/fxg42/phoenix-flux-react) - Phoenix Channels、GenEvents、React 和 Flux 的实验.
@@ -600,7 +600,7 @@
 ## Feeds
 *使用 RSS 或 ATOM 等提要的图书馆.*
 
-* [atomex](https://github.com/Betree/atomex) - 专注于标准合规性、安全性和可扩展性的 ATOM 提要构建器.
+* [atomex](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 * [feeder](https://github.com/michaelnisi/feeder) - 解析 RSS 和 Atom 提要.
 * [feeder_ex](https://github.com/manukall/feeder_ex)  - RSS 提要解析器. 喂食器的简单包装.
 * [feedme](https://github.com/umurgdk/elixir-feedme) - 基于 erlang 的 xmerl xml 解析器构建的 RSS/Atom 解析器.
@@ -671,6 +671,7 @@
 * [phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq) - 用于 Phoenix 框架的 VerneMQ MQTT pubsub 适配器.
 * [phoenix_slime](https://github.com/slime-lang/phoenix_slime) - 对 Phoenix 的超薄模板支持.
 * [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth)  - Phoenix 的令牌认证解决方案. 对 API 或单页应用程序很有用.
+* [phoenix_turnstile](https://github.com/jsonmaur/phoenix-turnstile) - Phoenix 组件和助手，用于将验证码与 Cloudflare Turnstile 结合使用.
 * [phx_component_helpers](https://github.com/cblavier/phx_component_helpers) - 可扩展的 live_components，没有样板.
 * [plug](https://github.com/elixir-lang/plug) - Web 应用程序之间的可组合模块的规范和便利.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - 用于编写访问日志的插件.
@@ -735,7 +736,7 @@
 ## Games
 *游戏的库和实现.*
 
-* [Binbo](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), 准备在游戏服务器上使用.
+* [Binbo](https://github.com/DOBRO/binbo) - 使用 Erlang 编写的国际象棋表示 [Bitboards](https://www.chessprogramming.org/Bitboards), 准备在游戏服务器上使用.
 * [entice](https://github.com/entice/entice) - 分布式实体-组件-系统框架，提供自己的示例 MMORPG 服务器.
 * [mines](https://github.com/kevlar1818/mines) - 终端中的扫雷克隆.
 * [pictionary](https://github.com/Arp-G/pictionary) - 多人猜图游戏（[skribbl.io](https://skribbl.io/) 克隆）.
@@ -747,7 +748,7 @@
 *用于地理编码地址和处理纬度和经度的库.*
 
 * [distance_api_matrix](https://github.com/C404/distance-matrix-api) - 通过谷歌距离矩阵 api 提供距离和航向计算.
-* [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+* [geo](https://github.com/bryanjos/geo) - Elixir 的 GIS 功能集合.
 * [geocalc](https://github.com/yltsrc/geocalc) - 计算纬度/经度点之间的距离、方位角等.
 * [geocoder](https://github.com/knrz/geocoder) - 具有内置缓存的简单、高效的地理编码器/反向地理编码器.
 * [geohash](https://github.com/polmuz/elixir-geohash) - Geohash 编码/解码库.
@@ -776,11 +777,11 @@
 * [nerves](https://github.com/nerves-project/nerves) - 为 Raspberry Pi 和 BeagleBone Black 等平台构建固件的框架.
 
 ## HTML
-*使用 HTML 的库和实现（对于 xml 工具，请访问 [XML](#xml) 部分）.*
+*Libraries and implementations working with HTML (for xml tools please go to the [XML](#xml) 部分）.*
 
 * [floki](https://github.com/philss/floki) - 一个简单的 HTML 解析器，可以使用类似选择器的 CSS 进行搜索.
 * [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex) - Elixir 的 HTML 消毒剂.
-* [meseeks](https://github.com/mischov/meeseeks) - 一个使用 CSS 或 XPath 选择器从 HTML 和 XML 中解析和提取数据的库.
+* [meseeks](https://github.com/mischov/meeseeks#html) - 一个使用 CSS 或 XPath 选择器从 HTML 和 XML 中解析和提取数据的库.
 * [modest_ex](https://github.com/f34nk/modest_ex) - 一个使用 CSS 选择器对 html 字符串进行管道转换的库，例如 find()、prepend()、append()、replace() 等.
 * [myhtmlex](https://github.com/Overbryd/myhtmlex) - 用于 lexborisov 的 myhtml 的 Elixir/Erlang 绑定.
 * [readability](https://github.com/keepcosmos/readability) - 可读性用于提取和整理文章.
@@ -795,7 +796,6 @@
 * [cauldron](https://github.com/meh/cauldron) - 作为库的 HTTP/SPDY 服务器.
 * [Crawler](https://github.com/fredwu/crawler) - Elixir 中的高性能网络爬虫.
 * [Crawly](https://github.com/oltarasenko/crawly) - 用于 Elixir 的高级网络爬虫和抓取框架.
-* [SpiderMan](https://github.com/feng19/spider_man) - 基于 Broadway 的 Elixir 快速高级网络爬虫和抓取框架.
 * [elli](https://github.com/knutin/elli) - Elli 是一个网络服务器，您可以在 Erlang 应用程序中运行以公开 HTTP API.
 * [etag_plug](https://github.com/sascha-wolf/etag_plug) - 一个简单易用的浅 ETag 插头.
 * [explode](https://github.com/pkinney/explode) - 一个简单的实用程序，用于在基于插件和基于 Phoenix 的应用程序中响应标准 HTTP/JSON 错误负载.
@@ -811,8 +811,8 @@
 * [httpotion](https://github.com/myfreeweb/httpotion) - 基于 ibrowse 的 Elixir 花式 HTTP 客户端.
 * [ivar](https://github.com/swelham/ivar) - 围绕 HTTPoison 的轻量级包装器，提供流畅且可组合的方式来构建 http 请求.
 * [lhttpc](https://github.com/talko/lhttpc) - 在 Erlang 中实现的轻量级 HTTP/1.1 客户端.
+* [Mechanize](https://github.com/gushonorato/mechanize) - 在 Elixir 中构建网络抓取工具并自动与网站交互.
 * [mint](https://github.com/ericmj/mint) - Elixir 的功能性 HTTP 客户端，支持 HTTP/1 和 HTTP/2.
-* [Mechanize](https://github.com/gushonorato/mechanize) - 轻松构建网络抓取工具并自动与 Elixir 中的网站进行交互！
 * [mnemonic_slugs](https://github.com/devshane/mnemonic_slugs) - Elixir 中令人难忘的助记弹头生成器.
 * [mochiweb](https://github.com/mochi/mochiweb) - MochiWeb 是一个用于构建轻量级 HTTP 服务器的 Erlang 库.
 * [neuron](https://github.com/uesteibar/neuron) -Elixir 的 GraphQL 客户端.
@@ -822,6 +822,7 @@
 * [scrape](https://github.com/Anonyfox/elixir-scrape) - 轻松抓取任何网站、文章或 RSS/Atom Feed.
 * [sparql_client](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) Elixir 的客户端.
 * [spell](https://github.com/MyMedsAndMe/spell) - 法术是 [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) 客户端在 Elixir 中的实现.
+* [SpiderMan](https://github.com/feng19/spider_man) - 基于 Broadway 的 Elixir 快速高级网络爬虫和抓取框架.
 * [tesla](https://github.com/teamon/tesla) - HTTP 客户端库，支持中间件和多个适配器.
 * [Tube](https://github.com/narrowtux/Tube) - 纯 Elixir WebSocket 客户端库.
 * [uri_query](https://github.com/shhavel/uri_query) - URI 在 Elixir 中编码嵌套的 GET 参数和数组值.
@@ -866,13 +867,13 @@
 * [instream](https://github.com/mneudert/instream) - 用于 Elixir 的 InfluxDB 驱动程序.
 * [instrumental](https://github.com/undeadlabs/instrumental-ex) - 一个 Elixir 客户端 [Instrumental](https://instrumentalapp.com/).
 * [newrelic.ex](https://github.com/romul/newrelic.ex) - 从您的 Elixir/Phoenix 应用程序收集指标并将它们发送到 [NewRelic](https://newrelic.com/).
+* [prom_ex](https://github.com/akoutmos/prom_ex) - 适用于所有您最喜爱的 Elixir 库的 Prometheus 指标和 Grafana 仪表板.
 * [prometheus](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) Erlang 中的监控系统和时间序列数据库客户端.
 * [prometheus-ecto](https://github.com/deadtrickster/prometheus-ecto) - 这是 prometheus.ex 的工具.
 * [prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix) - 用于 prometheus.ex 的 Phoenix 仪器.
 * [prometheus-plugs](https://github.com/deadtrickster/prometheus-plugs) - 为 prometheus.ex 插入仪器/导出器.
 * [prometheus.ex](https://github.com/deadtrickster/prometheus.ex) - 灵药友好 [Prometheus.io](https://prometheus.io) 监控系统和时序数据库客户端.
 * [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus 收集器导出进程指标的当前状态，包括 cpu、内存、文件描述符使用和本机线程计数以及进程启动和启动时间.
-* [prom_ex](https://github.com/akoutmos/prom_ex) - 适用于所有您最喜爱的 Elixir 库的 Prometheus 指标和 Grafana 仪表板.
 * [spandex](https://github.com/spandex-project/spandex) - 最初为 Datadog APM 开发的与平台无关的跟踪库.
 * [telemetry](https://github.com/beam-telemetry/telemetry) - 用于指标和检测的动态调度库.
 * [wobserver](https://github.com/shinyscorpion/wobserver) - 基于 Web 的指标、监控和观察者.
@@ -964,7 +965,7 @@
 * [pipes](https://github.com/batate/elixir-pipes) - 用于与 Elixir Pipe 运算符进行更灵活组合的宏.
 * [pit](https://github.com/vic/pit) - 在管道内流动时转换值.
 * [rebind](https://github.com/camshaft/rebind) - 为 Erlang 重新绑定解析转换.
-* [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
+* [rulex](https://github.com/awetzel/rulex) - 使用 Elixir 模式匹配的简单规则处理程序.
 * [shorter_maps](https://github.com/meyercm/shorter_maps)  - ~M sigil 用于地图速记.  `~M{id name} ~&gt; %{id: id, name: name}`.
 * [typed_struct](https://github.com/ejpcmac/typed_struct) - 一个 Elixir 库，用于在不编写样板代码的情况下定义具有类型的结构.
 * [unsafe](https://github.com/whitfin/unsafe) - 为 Elixir 函数生成简单的不安全 (!) 绑定.
@@ -1033,7 +1034,7 @@
 * [porcelain](https://github.com/alco/porcelain) - Porcelain 实现了一种更明智的方法来启动 Elixir 的外部操作系统进程并与之通信.
 * [presentex](https://github.com/Cobenian/Presentex) - Elixir 到基于 HTML/JavaScript 的演示框架.
 * [quarantine](https://github.com/leorog/quarantine) - Quarantine 是一个用于功能切换的微型 OTP 应用程序.
-* [ratekeeper](https://github.com/whitered/ratekeeper) - 速率限制器和速率限制动作调度器.
+* [ratekeeper](https://github.com/whitered/ratekeeper) - Rate limiter and rate-limited actions scheduler.
 * [ratx](https://github.com/liveforeverx/ratx) - Erlang 应用程序的速率限制器和过载保护.
 * [reprise](https://github.com/herenowcoder/reprise) - Elixir 的简化模块重新加载器.
 * [spawndir](https://github.com/jtmoulia/spawndir) - 从文件系统生成进程.
@@ -1062,9 +1063,9 @@
 *使用网络相关内容的库和工具.*
 
 * [asn](https://github.com/ephe-meral/asn) - 可用于从 IP 映射到 AS 再到 ASN.
-* [chatter](https://github.com/dbeck/chatter_ex) - 基于 UDP 多播和 TCP 混合的安全消息广播.
+* [chatter](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [download](https://github.com/asiniy/download) - 轻松地从互联网下载文件.
-* [eio](https://github.com/falood/eio) - engine.io 的 Elixir 服务器.
+* [eio](https://github.com/falood/eio) - Elixir server of engine.io.
 * [ExPcap](https://github.com/cobenian/expcap) - 用 Elixir 编写的 PCAP 解析器.
 * [Firezone](https://github.com/firezone/firezone)  - 基于 WireGuard 构建的适用于 Linux 的开源 VPN 服务器和出口防火墙.  Firezone 易于设置（感谢 Chef Omnibus，所有依赖项都捆绑在一起）、安全、高性能且可自托管.
 * [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - 用 elixir 编写的 dyndns 服务器.
@@ -1096,7 +1097,7 @@
 * [arbor](https://github.com/coryodaniel/arbor) - Ecto 邻接表和树遍历.
 * [arc_ecto](https://github.com/stavro/arc_ecto) - Arc.Ecto 提供与 Arc 和 Ecto 的集成.
 * [atlas](https://github.com/chrismccord/atlas) - Elixir 的对象关系映射器.
-* [barrel_ex](https://github.com/jxub/barrel_ex) - [Barrel-db](https://barrel-db.org/) Elixir 中分布式面向文档的数据库 REST 客户端.
+* [barrel_ex](https://github.com/jxub/barrel_ex) - [Barrel-db](https://barrel-db.org/) Elixir 中的分布式面向文档的数据库 REST 客户端.
 * [Bolt.Sips](https://github.com/florinpatrascu/bolt_sips) - 使用 Bolt 协议的 Elixir 的 Neo4j 驱动程序.
 * [boltun](https://github.com/bitgamma/boltun) - 将来自 Postgres LISTEN/NOTIFY 机制的通知转换为回调执行.
 * [caylir](https://github.com/mneudert/caylir) - Elixir 的 Cayley 驱动程序.
@@ -1112,6 +1113,7 @@
 * [dproto](https://github.com/dalmatinerdb/dproto) - DalmatinerDB 协议.
 * [dqe](https://github.com/dalmatinerdb/dqe) - DalmatinerDB 查询引擎.
 * [ecto](https://github.com/elixir-ecto/ecto) - Elixir 的数据库包装器和语言集成查询.
+* [ecto_anon](https://github.com/WTTJ/ecto_anon) - 直接在 Ecto 模式中处理数据匿名化的简单方法.
 * [ecto_cassandra](https://github.com/cafebazaar/ecto-cassandra) - 用于 Ecto 的 Cassandra 数据库适配器.
 * [ecto_enum](https://github.com/gjaldon/ecto_enum) - Ecto 扩展以支持模型中的枚举.
 * [ecto_facade](https://github.com/azranel/ecto_facade) - Ecto facade 允许分离对不同数据库的写入和读取.
@@ -1121,7 +1123,7 @@
 * [ecto_list](https://github.com/popo63301/ecto_list) - 使用 Ecto 进行简单的有序模型管理.
 * [ecto_migrate](https://github.com/xerions/ecto_migrate)  - Ecto 自动迁移库. 它允许为初始和更新迁移生成和运行迁移.
 * [ecto_mnesia](https://github.com/Nebo15/ecto_mnesia) - Mnesia Erlang 术语数据库的 Ecto 适配器.
-* [ecto_ordered](https://github.com/zovafit/ecto-ordered) - 订购模型的 Ecto 扩展.
+* [ecto_ordered](https://github.com/zovafit/ecto-ordered) - Ecto extension for ordered models.
 * [ecto_paging](https://github.com/Nebo15/ecto_paging) - Ecto 基于光标的分页.
 * [ecto_psql_extras](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL 数据库性能洞察.
 * [ecto_rut](https://github.com/sheharyarn/ecto_rut) - 简单而强大的 Ecto 快捷方式可简化和加速开发.
@@ -1157,12 +1159,12 @@
 * [mariaex](https://github.com/xerions/mariaex) - 用于 Elixir 的 MariaDB/MySQL 驱动程序.
 * [memento](https://github.com/sheharyarn/memento) - Elixir 中的简单 Mnesia 界面.
 * [moebius](https://github.com/robconery/moebius) - Elixir 和 PostgreSQL 的功能查询工具.
-* [mongo](https://github.com/checkiz/elixir-mongo) - MongoDB driver for Elixir.
-* [mongodb](https://github.com/ericmj/mongodb) - MongoDB driver for Elixir.
+* [mongo](https://github.com/checkiz/elixir-mongo) - 用于 Elixir 的 MongoDB 驱动程序.
+* [mongodb](https://github.com/ericmj/mongodb) - 用于 Elixir 的 MongoDB 驱动程序.
 * [mongodb_driver](https://github.com/zookzook/elixir-mongodb-driver) - MongoDB 的替代驱动程序，支持最新版本的 MongoDB 和全面的功能列表.
 * [mongodb_ecto](https://github.com/michalmuskala/mongodb_ecto) - 用于 Ecto 的 MongoDB 适配器.
 * [mysql](https://github.com/mysql-otp/mysql-otp) - MySQL/OTP – 用于 Erlang/OTP 的 MySQL 驱动程序.
-* [mysqlex](https://github.com/tjheeta/mysqlex) - An Ecto-compatible wrapper around the mysql-otp library.
+* [mysqlex](https://github.com/tjheeta/mysqlex) - 围绕 mysql-otp 库的 Ecto 兼容包装器.
 * [neo4j_sips](https://github.com/florinpatrascu/neo4j_sips) - Elixir 的 Neo4j 驱动程序.
 * [neo4j_sips_models](https://github.com/florinpatrascu/neo4j_sips_models) - 对 Neo4j.Sips Elixir 驱动程序的简约模型支持.
 * [panoramix](https://github.com/gameanalytics/panoramix) - Elixir 的 Apache Druid 客户端.
@@ -1187,7 +1189,7 @@
 * [tds_ecto](https://github.com/livehelpnow/tds_ecto) - 用于 Ecto 的 MSSQL / TDS 适配器.
 * [timex_ecto](https://github.com/bitwalker/timex_ecto) - 将 Timex DateTimes 与 Ecto 一起使用的适配器.
 * [tirexs](https://github.com/Zatvobor/tirexs) - 一种 Elixir 风格的 DSL，用于构建对 Elasticsearch 引擎的基于 JSON 的请求.
-* [triplex](https://github.com/ateliware/triplex) - 用于 Elixir 应用程序的带有 postgres 模式的数据库多租户！
+* [triplex](https://github.com/ateliware/triplex) - 用于 Elixir 应用程序的带有 postgres 模式的数据库多租户.
 * [triton](https://github.com/blitzstudios/triton) - 建立在 Xandra 之上的 Pure Elixir Cassandra ORM.
 * [udpflux](https://github.com/timbuchwaldt/udpflux) - 一个自以为是的 InfluxDB UDP 客户端.
 * [unreal](https://github.com/cart96/unreal) - Elixir 的非官方 SurrealDB 驱动程序.
@@ -1202,7 +1204,6 @@
 * [erlexec](https://github.com/saleyn/erlexec) - 从 Erlang/OTP 执行和控制操作系统进程.
 * [immortal](https://github.com/danielberkompas/immortal) - Immortal 是一小部分辅助模块，旨在更轻松地构建容错 OTP 应用程序.
 * [libex_config](https://github.com/reset/libex-config) - 用于访问 OTP 应用程序配置的助手.
-* [matcha](https://github.com/christhekeele/matcha) - Elixir 的一流匹配规范.
 
 ## Package Management
 *用于包和依赖管理的库和工具.*
@@ -1223,7 +1224,7 @@
 *特殊协议和格式库.*
 
 * [borsh](https://github.com/alexfilatov/borsh) - 长生不老药实施 [BORSH](https://borsh.io) 二进制序列化器.
-* [elixir_radius](https://github.com/bearice/elixir-radius) - 关于 Elixir 的 RADIUS 协议.
+* [elixir_radius](https://github.com/bearice/elixir-radius) - 长生不老药上的 RADIUS 协议.
 * [ex_hl7](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) 是一种旨在以电子方式建模和传输健康相关数据的协议.
 * [ex_marshal](https://github.com/gaynetdinov/ex_marshal) - 在 Elixir 中实现的 Ruby Marshal 格式.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Elixir 中的协议缓冲区，变得简单.
@@ -1251,6 +1252,7 @@
 * [exdisque](https://github.com/mosic/exdisque) - 长生不老药客户端 [Disque](https://github.com/antirez/disque)，内存中的分布式作业队列.
 * [exq](https://github.com/akira/exq) - Elixir 的作业处理库 - 与 Resque/Sidekiq 兼容.
 * [exrabbit](https://github.com/d0rc/exrabbit) - 用于 Elixir 的 RabbitMQ 绑定和 DSL.
+* [faktory_worker](https://github.com/opt-elixir/faktory_worker) - 用于处理的 Elixir 库 [Faktory](https://contribsys.com/faktory/)，由 Sidekiq 的作者制作的多语言作业处理系统.
 * [flume](https://github.com/scripbox/flume) - 由 GenStage 和 Redis 支持的超快作业处理系统.
 * [gen_rmq](https://github.com/meltwater/gen_rmq) - 旨在用于创建 RabbitMQ 消费者和发布者的一组行为.
 * [heapq](https://github.com/takscape/elixir-heapq) - Elixir 中基于堆的优先级队列实现.
@@ -1259,7 +1261,6 @@
 * [kaffe](https://github.com/spreedly/kaffe) - Elixir 的 Kafka 客户端库.
 * [mqs](https://github.com/synrc/mqs) - RabbitMQ 客户端库、路由键、RPC over MQ 和其他东西.
 * [oban](https://github.com/sorentwo/oban) - 强大的异步作业处理器，由 Elixir 和现代 PostgreSQL 提供支持.
-* [faktory_worker](https://github.com/opt-elixir/faktory_worker) - 用于处理的 Elixir 库 [Faktory](https://contribsys.com/faktory/)，由 Sidekiq 的作者制作的多语言作业处理系统.
 * [opq](https://github.com/fredwu/opq) - 一个简单的内存队列，在 Elixir 中具有工作池和速率限制.
 * [pqueue](https://github.com/okeuday/pqueue) - Erlang 优先级队列实现.
 * [que](https://github.com/sheharyarn/que) - 使用 Mnesia 进行简单的后台作业处理.
@@ -1270,10 +1271,10 @@
 * [task_bunny](https://github.com/shinyscorpion/task_bunny) - 用 Elixir 编写的后台处理应用程序，并使用 RabbitMQ 作为消息传递后端.
 * [toniq](https://github.com/joakimk/toniq) - 简单可靠的 Elixir 后台作业库.
 * [verk](https://github.com/edgurgel/verk)  - Verk 是由 Redis 支持的作业处理系统. 它使用与 Sidekiq/Resque 相同的作业定义.
-* [work_queue](https://github.com/pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
+* [work_queue](https://github.com/pragdave/work_queue) - Elixir 中饥饿消费者模型的简单实现.
 
 ## QUIC
-*QUIC传输层网络协议的库和工具
+*QUIC 传输层网络协议的库和工具.*
 
 * [quicer](https://github.com/emqx/quic) - QUIC 协议 erlang 库.
 
@@ -1288,9 +1289,9 @@
 * [exrm_heroku](https://github.com/epsanchezma/exrm-heroku) - 轻松将您的 Elixir 版本发布到 Heroku.
 * [exrm_rpm](https://github.com/smpallen99/exrm-rpm) - 轻松为您的 Elixir 版本创建 RPM.
 * [mix_docker](https://github.com/Recruitee/mix_docker) - 将您的 Elixir 应用程序生产版本放入最小的 docker 映像中.
-* [relex](https://github.com/yrashk/relex) - Erlang/Elixir Release Assembler.
+* [relex](https://github.com/yrashk/relex) - Erlang/Elixir 发布汇编程序.
 * [renew](https://github.com/Nebo15/renew) - 混合任务以创建构建到 Docker 容器中的混合项目.
-* [versioce](https://github.com/mpanarin/versioce) - 为您的混合项目生成可扩展的版本碰撞和变更日志
+* [versioce](https://github.com/mpanarin/versioce) - 为您的混合项目生成可扩展的版本更新和变更日志.
 
 ## REST and API
 *用于开发 REST-ful API 的库和网络工具.*
@@ -1309,10 +1310,11 @@
 ## Search
 *与搜索索引、搜索算法和搜索客户端相关的库.*
 
+* [algoliax](https://github.com/WTTJ/algoliax) - 用于 Elixir 的 Algolia 库，可与 Ecto 模式一起使用.
+* [elasticlunr](https://github.com/heywhy/ex_elasticlunr) - 用于 Elixir 环境的小型全文搜索库.
 * [elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - 用于 Elixir 的简单、严肃的 Elasticsearch 库.
 * [elasticsearch_elixir_bulk_processor](https://github.com/sashman/elasticsearch_elixir_bulk_processor) - 一种高效灵活的插入 Elasticsearch 的方式.
 * [giza_sphinxsearch](https://github.com/Tyler-pierce/giza_sphinxsearch) - 与 Manticore 兼容的 Sphinx 搜索客户端.
-* [elasticlunr](https://github.com/heywhy/ex_elasticlunr) - 用于 Elixir 环境的小型全文搜索库.
 
 ## Security
 *与安全有关的库和工具.*
@@ -1322,7 +1324,7 @@
 * [code_signing](https://github.com/benknowles/code_signing) - 使用 Ed25519 签名签署和验证 BEAM 文件.
 * [Ockam](https://github.com/ockam-network/ockam) - 一套工具、编程库和基础架构，可以轻松构建与云服务和其他设备进行安全、私密和可信通信的设备. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - 检查您的密码是否已被破解.
-* [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助功能.
+* [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助函数.
 * [sobelow](https://github.com/nccgroup/sobelow) - 针对 Phoenix Framework 的以安全为中心的静态分析.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Erlang 的 ssl 验证函数集合.
 
@@ -1377,17 +1379,18 @@
 * [cobertura_cover](https://github.com/PSPDFKit-labs/cobertura_cover) - 从与 Jenkins 的 Cobertura 插件兼容的“mix test --cover”文件中写入一个 coverage.xml.
 * [definject](https://github.com/definject/definject) - Elixir 的不显眼的依赖注入器.
 * [double](https://github.com/sonerdy/double) - 在不覆盖全局模块的情况下创建用于测试的存根依赖项.
-* [dummy](https://github.com/Vesuvium/dummy) - 一个 Elixir 模拟库，通过以正确的方式公开 meck 变得有意义
+* [dummy](https://github.com/Vesuvium/dummy) - 一个 Elixir 模拟库，通过以正确的方式公开 meck 是有意义的.
 * [ecto_it](https://github.com/xerions/ecto_it) - 具有默认配置的 Ecto 插件，用于使用数据库测试不同的 Ecto 插件.
 * [efrisby](https://github.com/FabioBatSilva/efrisby) - 用于 erlang 的 REST API 测试框架.
-* [elixir-auto-test](https://github.com/joaothallis/elixir-auto-test) - Run test when file is saved using inotify-tools.
+* [elixir-auto-test](https://github.com/joaothallis/elixir-auto-test) - 使用 inotify-tools 保存文件时运行测试.
 * [espec](https://github.com/antonmi/espec) - 受 RSpec 启发的 Elixir 的 BDD 测试框架.
 * [espec_phoenix](https://github.com/antonmi/espec_phoenix) - Phoenix 网络框架的 ESpec.
+* [ex_integration_coveralls](https://github.com/yeshan333/ex_integration_coveralls)  - 用于 Elixir 运行时系统代码行级覆盖分析的库. 您可以使用它来评估集成测试代码覆盖率. [Introduction article](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 * [ex_machina](https://github.com/thoughtbot/ex_machina)  - Elixir 的灵活测试工厂. 与 Ecto 和 Ecto 关联开箱即用.
 * [ex_parameterized](https://github.com/KazuCocoa/ex_parameterized) - 用于参数化测试的简单宏.
 * [ex_spec](https://github.com/drewolson/ex_spec) - ExUnit 的类似 BDD 的语法.
 * [ex_unit_fixtures](https://github.com/obmarg/ex_unit_fixtures) - 用于为 ExUnit 测试定义模块化依赖项的库.
-* [ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier) - ExUnit 的桌面通知.
+* [ex_unit_notifier](https://github.com/navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 * [excheck](https://github.com/parroty/excheck) - Elixir 的基于属性的测试库（QuickCheck 风格）.
 * [exkorpion](https://github.com/wesovilabs/exkorpion) - 用于 Elixir 开发人员的 BDD 库.
 * [factory_girl_elixir](https://github.com/sinetris/factory_girl_elixir) - 在 Elixir 中 Ruby 的 factory_girl 的最小实现.
@@ -1429,7 +1432,6 @@
 * [Walkman](https://github.com/derekkraan/walkman) - 受 Ruby 的 VCR 启发，将测试与现实世界隔离开来.
 * [wallaby](https://github.com/keathley/wallaby) - Wallaby 通过同时模拟用户交互和管理浏览器来帮助测试您的 Web 应用程序.
 * [white_bread](https://github.com/meadsteve/white-bread) - 使用小黄瓜语法在 Elixir 中基于故事的 BDD.
-* [ex_integration_coveralls](https://github.com/yeshan333/ex_integration_coveralls)  - 用于 Elixir 运行时系统代码行级覆盖分析的库. 您可以使用它来评估集成测试代码覆盖率. [Introduction article](https://github.com/yeshan333/explore_ast_app/blob/main/examples/README.md).
 
 ## Text and Numbers
 *用于解析和操作文本和数字的库.*
@@ -1450,7 +1452,7 @@
 * [colorful](https://github.com/Joe-noh/colorful) - 用于装饰 CUI 上的字符的 Elixir 宏.
 * [colors](https://github.com/lidashuang/colors) - 用 Elixir 编写的颜色实用程序.
 * [convertat](https://github.com/whatyouhide/convertat) - 用于任意碱基转换的 Elixir 库.
-* [curtail](https://github.com/seankay/curtail) - HTML 标记安全的字符串截断.
+* [curtail](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
 * [custom_base](https://github.com/igas/custom_base) - 允许您在 Elixir 中进行自定义基础转换.
 * [decimal](https://github.com/ericmj/decimal) - Elixir 的任意精度十进制算法.
 * [dicer](https://github.com/olhado/dicer) - 掷骰子表达式评估器.
@@ -1461,8 +1463,8 @@
 * [erldn](https://github.com/marianoguerra/erldn) - [EDN](https://github.com/edn-format/edn) Erlang 平台的格式解析器.
 * [event_source_encoder](https://github.com/chatgris/event_source_encoder) - 将数据编码为 EventSource 兼容数据.
 * [ex_brace_expansion](https://github.com/gniquil/ex_brace_expansion) - 大括号扩展，如 sh/bash 中所知，在 Elixir 中.
-* [ex_cldr](https://github.com/kipcole9/cldr) - Cldr is an Elixir library for the Unicode Consortium's Common Locale Data Repository (CLDR).
-* [ex_rfc3966](https://github.com/marcelog/ex_rfc3966) - 与 RFC3966 兼容的 Elixir Tel URI 解析器.
+* [ex_cldr](https://github.com/kipcole9/cldr) - Cldr 是 Unicode 联盟通用语言环境数据存储库 (CLDR) 的 Elixir 库.
+* [ex_rfc3966](https://github.com/marcelog/ex_rfc3966) - Elixir Tel URI parser compatible with RFC3966.
 * [ex_rfc3986](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL 解析器.
 * [ex_uc](https://github.com/carturoch/ex_uc) - Elixir 的可扩展单位转换器.
 * [exmoji](https://github.com/mroth/exmoji) - 为 Elixir/Erlang 编码瑞士军刀的表情符号.
@@ -1481,7 +1483,7 @@
 * [minigen](https://github.com/mrdimosthenis/minigen) - Erlang 生态系统的随机数据生成器.
 * [monetized](https://github.com/theocodes/monetized) - 用于处理和存储资金的轻量级解决方案.
 * [money](https://github.com/liuggio/money) - 更安全、更轻松、更有趣地使用货币，对福勒货币模式的解释.
-* [mt940](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
+* [mt940](https://github.com/my-flow/mt940) - 用于 Elixir 的 MT940（标准结构化 SWIFT 客户声明消息）解析器.
 * [namor](https://github.com/jsonmaur/namor.ex) - 一个名称生成器，可以创建随机的、对 url 友好的 slug.
 * [nanoid](https://github.com/railsmechanic/nanoid) - NanoID 的 Elixir 端口，一个安全且 URL 友好的唯一 ID 生成器.
 * [near_api](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) Elixir 中的 API - 用于在 NEAR 区块链平台上开发 DApps 的库.
@@ -1504,10 +1506,10 @@
 * [smile](https://github.com/danigulyas/smile) - 用于将表情符号映射器转换为表情符号字符的小型库，例如在 Slack 消息中.
 * [stemmer](https://github.com/fredwu/stemmer) - Elixir 中的英语 (Porter2) 词干实现.
 * [tau](https://github.com/FranklinChen/tau) - 提供著名的数学常数，tau，τ = 6.2831....
-* [transformer](https://github.com/ByeongUkChoi/transformer) - 灵活的类型转换轻量级库.
 * [tomlex](https://github.com/zamith/tomlex) - Elixir 的 TOML 解析器.
+* [transformer](https://github.com/ByeongUkChoi/transformer) - 灵活的类型转换轻量级库.
 * [ua_inspector](https://github.com/elixytics/ua_inspector) - 用户代理解析器库，如 `piwik/device-detector`.
-* [ua_parser2](https://github.com/nazipov/ua_parser2-elixir)  - ua-parser2 到 Elixir 的端口. 用户代理解析器库.
+* [ua_parser2](https://github.com/nazipov/ua_parser2-elixir) - A port of ua-parser2 to Elixir. User agent parser library.
 * [unit_fun](https://github.com/meadsteve/unit_fun) - 尝试向 elixir 中的数字添加单位，以便在处理数字量时提供一些额外的类型安全性.
 * [uuid](https://github.com/zyro/elixir-uuid) - Elixir 的 UUID 生成器和实用程序.
 * [uuid_erl](https://github.com/okeuday/uuid) - Erlang 本机 UUID 生成.
@@ -1525,16 +1527,17 @@
 * [askimet_ex](https://github.com/mijailr/askimet_ex) - Askimet 反垃圾邮件服务的 Elixir 客户端.
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - 为 Elixir 组装 API 客户端.
 * [balalaika_bear](https://github.com/ayrat555/balalaika_bear) - 用于 Elixir 的简单 VK API 客户端.
-* [balanced](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
+* [balanced](https://github.com/bryanjos/balanced-elixir) - Elixir 的平衡 API 客户端.
 * [bandwidth](https://github.com/bandwidthcom/elixir-bandwidth) - 用于带宽应用平台的 Elixir 客户端库.
 * [bing_translator](https://github.com/ikeikeikeike/bing_translator) - Bing 翻译 API 的简单 Elixir 接口.
 * [bitmex](https://github.com/nobrick/bitmex) - Elixir 的 BitMEX 客户端库.
 * [bitpay](https://github.com/bitpay/elixir-client) - 用于连接到 bitpay.com 的 Elixir 核心库.
 * [cashier](https://github.com/swelham/cashier) - 支付网关为多个支付提供商提供通用接口.
+* [chargebeex](https://github.com/WTTJ/chargebeex) - Chargebee API 的 Elixir 客户端.
 * [cleverbot](https://github.com/BlakeWilliams/Elixir-Cleverbot) - 在 Elixir 中简单实现 Cleverbot API.
 * [coinbase](https://github.com/gregpardo/coinbase-elixir) - 一个非官方的 Coinbase API v1 客户端.
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) - 支持多个网关（例如 Bogus &amp; Stripe）的 Elixir 支付处理库.
-* [conekta](https://github.com/echavezNS/conekta-elixir) - Elixir wrapper for Conekta API.
+* [conekta](https://github.com/echavezNS/conekta-elixir) - Conekta API 的 Elixir 包装器.
 * [correios_cep](https://github.com/prodis/correios-cep-elixir)  - 直接从 Correios 数据库中按邮政编码查找巴西地址. 没有 HTML 解析器.
 * [currently](https://github.com/chatgris/currently) - 显示当前在 Trello 上分配的卡片的工具.
 * [darkskyx](https://github.com/techgaun/darkskyx) - Elixir 的 Darksky.com（以前称为 forecast.io）API 客户端.
@@ -1587,7 +1590,7 @@
 * [kane](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) - 一个 Keen.io API 客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 用于使用 Google 的 URL Shortener API 创建短 URL 的 Elixir 库.
-* [m2x](https://github.com/attm2x/m2x-elixir)  - AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  - 用于 AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) - MailChimp API 版本 3 的基本 Elixir 包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun 客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - Elixir 的山魈包装纸.
@@ -1662,7 +1665,7 @@
 * [async_with](https://github.com/fertapric/async_with) - Elixir 的“with”修饰符，用于并行执行其所有子句.
 * [crutches](https://github.com/mykewould/crutches) - Elixir 的实用程序库，旨在补充与该语言捆绑在一起的标准库.
 * [deppie](https://github.com/whitfin/deppie) - Elixir 最酷的弃用记录器.
-* [dot-notes](https://github.com/whitfin/dot-notes-elixir) - Simple dot/bracket notation parsing/conversion for Maps/Lists.
+* [dot-notes](https://github.com/whitfin/dot-notes-elixir) - 地图/列表的简单点/括号符号解析/转换.
 * [dress](https://github.com/veelenga/dress) - 让您的标准输出变得花哨的 CLI 应用程序.
 * [erlang-history](https://github.com/ferd/erlang-history) - 将 shell 历史添加到 Erlang 的 shell 中.
 * [erlsh](https://github.com/proger/erlsh) - 涉及与系统外壳、路径和外部程序交互的功能和端口系列.
@@ -1674,7 +1677,7 @@
 * [mandrake](https://github.com/mbasso/mandrake) - Mandrake 是一个函数式编程库，它在长生不老药中带来了其他魔力.
 * [mnemonix](https://github.com/christhekeele/mnemonix) - 键/值存储的统一接口.
 * [plasm](https://github.com/facto/plasm) - Plasm 是 Ecto 的可组合查询多工具，包含更高级别的函数，例如 .count、.random、.first、.last、.find、.inserted_before、.inserted_after 等.
-* [plugmap](https://github.com/nerdslabs/plugmap) - Plugmap 是 Plug/Phoenix Framework 的站点地图生成库. [Doc](https://hexdocs.pm/plugmap/readme.html)
+* [plugmap](https://github.com/nerdslabs/plugmap) - Plugmap 是 Plug/Phoenix Framework 的站点地图生成库.
 * [pubsub](https://github.com/simonewebdesign/elixir_pubsub) - 一个发布-订阅实用程序库，它实现了发布-订阅机制，以减轻业务逻辑流程上的通信负担.
 * [quark](https://github.com/robot-overlord/quark) - 一个用于常见函数式编程习语的库：组合器、currying 和部分应用程序.
 * [retry](https://github.com/safwank/ElixirRetry) - 用于线性重试、指数退避和可组合延迟等待的简单 Elixir 宏.
@@ -1728,7 +1731,7 @@
 * [exml](https://github.com/expelledboy/exml) - 用于 xmerl xpath 的最简单的 Elixir 包装器.
 * [exoml](https://github.com/Overbryd/exoml) - 将 xml 解码/编码为树结构的模块.
 * [fast_xml](https://github.com/processone/fast_xml) - 基于快速 Expat 的 Erlang XML 解析库.
-* [meeseeks](https://github.com/mischov/meeseeks) - 一个使用 CSS 或 XPath 选择器从 HTML 和 XML 中解析和提取数据的库.
+* [meeseeks](https://github.com/mischov/meeseeks#xml) - 一个使用 CSS 或 XPath 选择器从 HTML 和 XML 中解析和提取数据的库.
 * [quinn](https://github.com/nhu313/Quinn) - Elixir 的 XML 解析器.
 * [saxy](https://github.com/qcam/saxy) - Saxy 是 Elixir 中的 XML 解析器和编码器，专注于速度和标准合规性.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - 简单有效地查询 XML.
@@ -1760,7 +1763,6 @@
 * [Elixir Succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) - 一本学习 Elixir 及其生态系统基础知识的小书.
 * [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Wolfgang Loder (2016) 在功能概念的背景下介绍 Erlang 和 Elixir.
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - 这本书旨在成为 Fred Hebert（2014 年）关于如何在战争时期成为 Erlang 军医的小指南.
-* [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - J. David Eisenberg (2013) 在 Elixir 中编程的练习集（[Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - 为强大的新技术打开大门，让您以全新的方式思考 Web 开发（2017 年）.
 * [Getting Started - Elixir](https://github.com/potatogopher/elixir-getting-started) - Elixir 入门教程 (2016) 的 PDF、MOBI 和 EPUB 文档.
 * [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com)  - 想通过创建真实世界的项目来学习 Elixir 和 OTP 吗？ 借助动手实践*Elixir 和 OTP：加密货币交易机器人*，您将通过从事有趣的软件项目获得实践经验. 我们将通过迭代实施改进探索所有关键抽象和基本原则.  (2021).
@@ -1774,6 +1776,7 @@
 * [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/) - 使用 Phoenix 框架构建 Web 应用程序的权威指南，作者 Chris McCord、José Valim 和 Bruce Tate（2015 年）.
 * [The Beam Book](https://happi.github.io/theBeamBook/) - Erlang 运行时系统 ERTS 和虚拟机 BEAM 的描述.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) - Benjamin Tan Wei Hao (2014) 通过中小型项目学习 Elixir 和 OTP 的书.
+* [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - J. David Eisenberg (2013) 在 Elixir 中编程的练习集（[Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Cheat Sheets
 *有用的 Elixir 相关备忘单.*
@@ -1790,7 +1793,7 @@
 * [ElixirSlack](https://elixir-slackin.herokuapp.com/) - Elixir Slack 社区.
 
 ## Editors
-*可用于 Elixir/Erlang 的编辑器和 IDE*
+*Editors and IDEs useable for Elixir/Erlang*
 
 * [Alchemist](https://github.com/tonini/alchemist.el) - Elixir 工具集成到 Emacs 中.
 * [Alchemist-Server](https://github.com/tonini/alchemist-server) - 编辑器/IDE 独立后台服务器通知 Elixir 混合项目.
@@ -1835,11 +1838,11 @@
 ## Podcasts
 *讨论 Elixir 语言和社区的播客.*
 
-* [Elixir Fountain](https://soundcloud.com/elixirfountain)
-* [Elixir Mix](https://devchat.tv/elixir-mix/)
-* [Elixir Outlaws](https://elixiroutlaws.com)
-* [Elixir Talk](https://soundcloud.com/elixirtalk)
-* [Thinking Elixir](https://podcast.thinkingelixir.com)
+* [Elixir Fountain](https://soundcloud.com/elixirfountain) - 长生不老药喷泉播客.
+* [Elixir Mix](https://devchat.tv/elixir-mix/) - Elixir Mix 播客.
+* [Elixir Outlaws](https://elixiroutlaws.com) - Elixir Outlaws 播客.
+* [Elixir Talk](https://soundcloud.com/elixirtalk) - 长生不老药谈话播客.
+* [Thinking Elixir](https://podcast.thinkingelixir.com) - Thinking Elixir 播客.
 
 ## Reading
 *与 Elixir 相关的阅读材料.*
@@ -1860,14 +1863,14 @@
 * [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir 相关会议演讲.
 * [Curso de Elixir de 0 a 100](https://www.youtube.com/watch?v=-K74G9nlzSY&list=PLMLox3fRb_I4_4-DnU3yS_EglDAuVpeEg) - 免费完成长生不老药课程（西班牙语）.
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers) - 功能性、并行性、可靠（而且有趣！），由 Dave Thomas 教授.
+* [Elixir Foundation](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT)  - 通过构建实际示例来学习 Elixir. 了解 GenServer、Agents 和许多其他 elixir 原语的工作原理.
 * [Elixir Sips](http://elixirsips.com/) - 学习 Elixir 的小截屏视频.
 * [ElixirCasts.io](https://elixircasts.io/) - 帮助您学习 Elixir 和 Phoenix 的简单截屏视频.
 * [ExCasts](https://excasts.com) - 所有技能水平的 Elixir 和 Phoenix 截屏视频.
-* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，例如“Elixir 和 OTP 的实践：加密货币交易机器人”系列.
+* [Kamil Skowron](https://www.youtube.com/c/kamilskowron) - 致力于推广函数式编程的 YouTube 频道，在 Elixir 中发布“真实世界”编程视频，如“动手 Elixir 和 OTP：加密货币交易机器人”系列.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - 初学者友好，深入，一步一步的截屏.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) - 了解如何使用 Phoenix 构建快速、可靠的 Web 应用程序.
 * [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - 通过 José Valim 了解 Elixir 的一些特性和概念.
-* [Elixir Foundation](https://www.youtube.com/playlist?list=PLjQo0sojbbxXc4aWg5i2umjv7U8YDoHQT)  - 通过构建实际示例来学习 Elixir. 了解 GenServer、Agents 和许多其他 elixir 原语的工作原理.
 
 ## Styleguides
 *确保编码时一致性的风格指南.*
@@ -1885,16 +1888,15 @@
 * [Elixir Career](https://elixir.career/) - Elixir 的工作板和 Elixir 开发人员社区.
 * [Elixir Examples](http://elixir-examples.github.io/) - 小 Elixir 编程语言示例的集合.
 * [Elixir Flashcards](https://elixircards.co.uk/)  - 抽认卡是提高知识的有效方式.  Elixircards 是手工制作、专业印刷的抽认卡，用于升级您的 Elixir.
-* [Elixir Fountain](https://soundcloud.com/elixirfountain) - 每周播客，包含来自 Elixir 社区的新闻和采访，由 [Johnny Winn](https://twitter.com/johnny_rugger).
 * [Elixir Github Repository](https://github.com/elixir-lang/elixir) - 项目存储库.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - 该项目的 wiki，包含很多有用的信息.
-* [ElixirLibs](https://elixirlibs.com) - 精选的 Elixir 库列表
+* [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - 来自 Classpert 在线课程搜索的 Elixir 在线课程列表（有些是免费的）.
 * [Elixir Quiz](http://elixirquiz.github.io/) - 每周编程问题，帮助您学习 Elixir.
 * [Elixir Recipes](http://elixir-recipes.github.io/) - 收集 Elixir 中常见问题的模式和解决方案.
+* [ElixirLibs](https://elixirlibs.com) - 精选的 Elixir 库列表.
 * [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - 来自 Hashrocket 团队的关于 Elixir 的小帖子.
 * [How I start - Elixir](http://howistart.org/posts/elixir/1) - Jose Valim 对 Elixir 的解释和介绍.
 * [Learning Elixir](http://learningelixir.joekain.com/) - 一个关于专业软件工程师学习 Elixir 的博客.
-* [Elixir Online Courses list - Classpert](https://classpert.com/elixir-programming) - 来自 Classpert 在线课程搜索的 Elixir 在线课程列表（有些是免费的）
 
 ## Contributing
 请参见 [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) 了解详情.

@@ -96,7 +96,7 @@ C、C++
 * [lispc](https://github.com/eratosthenesia/lispc) - 一种强大的 C 语言“lispsy”宏语言.[MIT][200].
 * [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax)  - 一个将 C 语言语法引入 Common Lisp 的有趣包.  （是的，我认为这个包不是用于实际编码的.）WTFPL 许可证.
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl)  - C 语言的交互式 REPL.  [BSD_2条款][17].
-* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  - SEL 支持软件的编程修改和评估（使用 Clang、编译的汇编器和链接的 ELF 二进制文件的 C/C++ 支持）.  [GPL3][2].
+* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  - SEL 支持软件的编程修改和评估（使用 Clang、编译的汇编程序和链接的 ELF 二进制文件的 C/C++ 支持）.  [GPL3][2].
 
 Cryptography
 ============
@@ -147,7 +147,7 @@ ORMs
 * [ubiquitous](https://github.com/Shinmera/ubiquitous)  - 提供易于使用的持久配置存储的库.  [zlib][33].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)  - 内存数据库系统. 对象普遍性的实现，其中业务对象在内存中保持活动状态，事务被记录下来以供系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL][8].
   * 也可以看看 [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster)，以同步多个 cl-prevalence 系统状态.
-* [cl-naive-store](https://gitlab.com/Harag/cl-naive-store)  - 一个天真的坚持，在内存中（延迟加载），索引，Common Lisp 的文档存储.  [麻省理工][200].
+* [cl-naive-store](https://gitlab.com/Harag/cl-naive-store)  - 一个天真的持久化，在内存中（延迟加载），索引，Common Lisp 的文档存储.  [麻省理工][200].
   - 看 [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
   - 我们敢于添加：作者公司用于生产（ASTN 集团，参见 awesome-lisp-companies）
 
@@ -360,6 +360,8 @@ GUI
   - 自 Allegro 10.1（2022 年 3 月）起，IDE 和 Common Graphics 工具包 [runs in the browser](https://franz.com/ftp/pri/acl/cgjs/doc.html).
 * [Qtools](https://github.com/Shinmera/qtools/)  - 基于 CommonQt 的 Qt 工具包.  [zlib][33] 还有 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制 UI 组件），与 [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 * ⭐ [CommonQt](https://github.com/commonqt/commonqt)  - 通过 QtSmoke 为 Qt4 绑定的 Common Lisp.  [FreeBSD][39].
+  * [CommonQt5](https://github.com/commonqt/commonqt5/) - Qt5 的绑定.
+     * 警告：目前难以安装. 由 SISCOG 用于生产©.
 * ⭐ [ltk](http://www.peter-herth.de/ltk/)  - Tk 工具包的绑定.  [LLGPL][8] 或 [GNU LGPL2.1][11].
   * [LTk Examples](https://peterlane.netlify.app/ltk-examples/) - 为 tkdocs 教程提供 LTk 示例.
   * [LTk Plotchart](https://peterlane.netlify.app/ltk-plotchart/)  - 一个围绕 tklib/plotchart 库的包装器，用于与 LTk 一起工作. 这包括 20 多种不同的图表类型（xy 图、甘特图、3d 条形图等）.
@@ -1292,7 +1294,7 @@ programs, providing support for mixed language debugging.
 
 * [Sublime Text](http://www.sublimetext.com/3) （专有）有
   Common Lisp 支持及其 SublimeREPL 和
-  [Slyblime](https://github.com/s-clerc/slyblime) 包. 狡猾的人
+  [Slyblime](https://github.com/s-clerc/slyblime) 包裹. 狡猾的人
   是 SLY 的一个实现，它使用相同的后端 (SLYNK). 它
   附带高级功能，包括带有堆栈框架的调试器
   检查.
@@ -1388,7 +1390,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].

@@ -100,6 +100,7 @@ _移动用户界面框架._
 
 ## UI Libraries
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - 可访问的 Svelte 组件原语（也适用于 React、Vue 3 和 Angular）.
+- [Flowbite Svelte](https://flowbite-svelte.com/) - 使用 Tailwind CSS 和 Flowbite 构建的开源 Svelte UI 组件.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 和 5 组件.
 - [Smelte](https://github.com/matyunya/smelte) - 带有使用 Tailwind CSS 构建的材料组件的 UI 框架.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - 材料用户界面组件.
@@ -118,7 +119,7 @@ _表格和数据网格._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - Svelte 的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - 允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表格.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - 带有分页器的 Svelte-generic-crud-table.
 
 ### Notification
@@ -149,7 +150,7 @@ _Toaster / snackbar - 使用无模式的临时小弹出窗口通知用户._
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - 围绕 FullCalendar 的组件包装器.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
 
 ### Maps
@@ -292,7 +293,7 @@ _文本编辑器插件._
 
 - [vim-svelte](https://github.com/evanleck/vim-svelte) - Svelte 3 组件的 Vim 语法突出显示和缩进.
 - [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - 语法突出显示和对 Vim 的支持.
-- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+- [coc-svelte](https://github.com/coc-extensions/coc-svelte) - 语法高亮显示和对 (Neo)Vim 的支持.
 
 #### JetBrains
 

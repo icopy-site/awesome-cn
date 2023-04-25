@@ -71,6 +71,21 @@
 - [radix-primitives](https://github.com/radix-ui/primitives) - 用于构建高质量 Web 应用程序的开源 UI 组件库
 - [nextui](https://github.com/nextui-org/nextui) - 漂亮、快速和现代的 React UI 库
 
+#### React State Management and Data Fetching
+
+- [redux](https://github.com/reduxjs/redux) - JavaScript 应用程序的可预测状态容器
+- [mobx](https://github.com/mobxjs/mobx) - 简单、可扩展的状态管理
+- [zustand](https://github.com/pmndrs/zustand) - 承担 React 中状态管理的必需品
+- [tanstack-query](https://github.com/TanStack/query) - 强大的异步状态管理
+- [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks
+- [apollo-client](https://github.com/apollographql/apollo-client) - 一个功能齐全、生产就绪的缓存 GraphQL 客户端
+- [relay](https://github.com/facebook/relay) - 用于构建数据驱动的 React 应用程序的框架
+- [recoil](https://github.com/facebookexperimental/Recoil) - React 应用程序的实验状态管理库
+- [jotai](https://github.com/pmndrs/jotai) - React 的原始和灵活的状态管理
+- [xstate](https://github.com/statelyai/xstate) - 现代网络的状态机和状态图
+- [effector](https://github.com/zerobias/effector) - 轻松的业务逻辑
+
+
 #### React Hooks
 
 - [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
@@ -110,7 +125,7 @@
 
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) - React 的选择组件
-- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-dnd](https://github.com/react-dnd/react-dnd) - 拖放反应
 - [react-rnd](https://github.com/bokuweb/react-rnd) - 用于 React 的可调整大小和可拖动的组件
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) - 带有 React 的简单拖放区
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - 日历组件
@@ -136,25 +151,6 @@
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - 带有生活风格指南的独立 React 组件开发环境
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用 React 组件的开发工具
 
-#### React State Management
-
-- [redux](#redux) - JavaScript 应用程序的可预测状态容器
-- [mobx](https://github.com/mobxjs/mobx) - 简单、可扩展的状态管理
-- [tanstack-query](https://github.com/TanStack/query) - 强大的异步状态管理
-- [swr](https://github.com/vercel/swr) - 用于数据获取的 React Hooks
-- [apollo-client](https://github.com/apollographql/apollo-client) - 一个功能齐全、生产就绪的缓存 GraphQL 客户端
-- [relay](https://github.com/facebook/relay) - 用于构建数据驱动的 React 应用程序的框架
-- [flux](http://facebook.github.io/flux/) - 用于构建用户界面的应用程序架构
-- [recoil](https://github.com/facebookexperimental/Recoil) - React 应用程序的实验状态管理库
-- [jotai](https://github.com/pmndrs/jotai) - 使用原子模型进行 React 状态管理的自下而上方法
-- [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - 现代网络的状态机和状态图
-- [zustand](https://github.com/pmndrs/zustand) - 承担 React 中状态管理的必需品
-- [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - React 的素食友好状态
-- [hookstate](https://github.com/avkonst/hookstate) - 基于钩子的 React 简单但非常强大且速度极快的状态管理
-- [effector](https://github.com/zerobias/effector) - 快速而强大的反应状态管理器
-- [reactn](https://github.com/CharlesStover/reactn) - React，但具有内置的全局状态管理
-- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - 基于可观察的状态管理，用于在 React 中构建的高性能游戏 UI
-
 #### React Renderers
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - Three.js 的 React 渲染器
@@ -168,7 +164,7 @@
 
 #### React Forms
 
-- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 用于表单状态管理和验证的 React Hooks
 - [formik](https://github.com/jaredpalmer/formik) - 在 React 中轻松构建表单
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - 用于从 JSON Schema 构建 Web 表单的 React 组件
 - [react-final-form](https://github.com/final-form/react-final-form) - 用于 React 的高性能基于订阅的表单状态管理
@@ -195,7 +191,7 @@
 - [auto-animate](https://github.com/formkit/auto-animate) - 一个零配置的嵌入式动画实用程序，可添加平滑过渡
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - 轻松创建高度可定制的粒子效果
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 轻松在 React 组件上应用倾斜悬停效果
-- [gooey-react](https://github.com/luukdv/gooey-react) - React 的粘性效果
+- [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
 
 ##### React Data Managing
 
@@ -314,35 +310,6 @@
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - React Native iOS 和 Android 的设备信息
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - 在 React Native 中运行 React Web 应用程序并处理它们之间的通信的工具集.
 - [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - 用于在 React Native 中解压缩文件 .zip、.rar、.cbz、.cbr 的简单库.
-
-### Redux
-
-#### Redux General Resources
-
-- [Redux GitHub](https://github.com/reduxjs/redux)
-- [Redux Official Site](http://redux.js.org/)
-- [Awesome Redux List](https://github.com/xgrommx/awesome-redux)
-
-#### Redux Tools
-
-- [react-redux](https://github.com/reduxjs/react-redux) - Redux 的官方 React 绑定
-- [redux-toolkit](https://github.com/reduxjs/redux-toolkit) - 用于高效 Redux 开发的官方的、自以为是的、包含电池的工具集
-- [redux-devtools](https://github.com/reduxjs/redux-devtools) - 用于 Redux 的 DevTools，具有热重载、动作回放和可自定义的 UI
-- [reselect](https://github.com/reduxjs/reselect) - Redux 的选择器库
-- [redux-thunk](https://github.com/reduxjs/redux-thunk) - 用于 redux 的 Thunk 中间件
-- [redux-saga](https://github.com/redux-saga/redux-saga) - Redux 应用程序的替代副作用模型
-- [redux-form](https://github.com/erikras/redux-form) - 使用 react-redux 保持表单状态的高阶组件
-- [redux-observable](https://github.com/redux-observable/redux-observable) - 用于 Redux 的 RxJS 中间件
-- [redux-undo](https://github.com/omnidan/redux-undo) - 向 redux 状态容器添加撤消/重做功能的高阶 reducer
-- [redux-persist](https://github.com/rt2zz/redux-persist) - 坚持并补充 redux 商店
-- [Rematch](https://github.com/rematch/rematch) - Redux 变得简单
-
-#### Redux Tutorials
-
-- [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-- [Redux Fundamentals](https://redux.js.org/tutorials/fundamentals/part-1-overview)
-- [Fundamentals of Redux Course from Dan Abramov](https://app.egghead.io/playlists/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
-- [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ---
 

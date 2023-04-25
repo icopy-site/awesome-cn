@@ -24,6 +24,7 @@
 
 - [k6 Learn](https://github.com/grafana/k6-learn) - 解释负载测试的原理以及如何使用 k6 进行负载测试的实例.
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - 多个部分的入门指南，帮助您开始使用k6.
+- [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn 出席 2023 年蒙特利尔 ConFoo
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - 简要概述 k6 的特性和功能.
 - [Integrating k6 with Apache Kafka](https://k6.io/blog/integrating-k6-with-apache-kafka) - 将输出从 k6 发送到 Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) - 设置负载测试并使用 grafana 仪表板可视化它们.
@@ -90,7 +91,7 @@
 - [postman-to-k6](https://github.com/grafana/postman-to-k6) - 将 Postman 集合转换为 k6 测试脚本的工具.
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) - 将 Swagger/OpenAPI 规范转换为 k6 测试脚本的工具.
 - [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - 将 JMeter 测试用例转换为 k6 测试脚本的工具.
-- [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的有用实用程序库.
+- [jslib.k6.io](https://jslib.k6.io/) - 用于 k6 脚本的实用工具库.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - 直接从您的 IDE 运行 k6 的市场扩展.
 - [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - 基于 IntelliJ 的插件，用于在本地或在 [k6 Cloud](https://app.k6.io/) 从您的 IntelliJ IDE.
 - [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)

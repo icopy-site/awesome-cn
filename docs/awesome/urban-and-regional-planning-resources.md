@@ -32,7 +32,7 @@
 ### Built Environment
 
 - [Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD)  - 智能位置数据库是一个全国性的地理数据资源，用于衡量位置效率. 它包括 90 多个属性，总结了住房密度、土地利用多样性、社区设计、目的地可达性、交通服务、就业和人口统计等特征. 大多数属性可用于美国的每个人口普查区块组. 
-- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints) -  Microsoft Maps is releasing country wide open building footprints datasets in United States. This dataset contains ~130,000,000 computer generated building footprints derived using our computer vision algorithms on satellite imagery. This data is freely available for download and use. Additional Information:[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
+- [USBuildingFootprints](https://github.com/microsoft/USBuildingFootprints)  - Microsoft Maps 正在美国发布全国范围内的开放建筑足迹数据集. 该数据集包含约 130,000,000 个计算机生成的建筑物足迹，这些建筑物足迹是使用我们在卫星图像上的计算机视觉算法得出的. 该数据可免费下载和使用. 附加信息：[Article](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html).
 - [National Structures Inventory](https://www.hec.usace.army.mil/confluence/nsi/technicalreferences/2022/technical-documentation) - 一个数据集，旨在提供对一致的、全国可用的基于点的结构清单的访问，并附有属性以支持对自然和人为灾害后果的评估.
 
 ### Climate
@@ -63,7 +63,7 @@
   
 ### Employment
 
-- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/) -  The LEHD program combines these administrative data, and data from censuses and surveys. From these data, the program creates statistics on employment, earnings, and job flows at detailed levels of geography and industry and for different demographic groups. Additional Information: [On The Map Download Page](https://onthemap.ces.census.gov/).
+- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划结合了这些行政数据以及来自人口普查和调查的数据. 根据这些数据，该程序可以在地理和行业的详细级别以及不同人口群体中创建有关就业、收入和工作流的统计数据. 附加信息： [On The Map Download Page](https://onthemap.ces.census.gov/).
 - [Bureau of Labor Statistics](https://www.bls.gov/) - 劳工统计局衡量并提供有关美国经济中劳动力市场活动、工作条件、价格变化和生产率的数据，以支持公共和私人决策.
 
 ### Environment and Ecosystem Services
@@ -72,7 +72,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -102,11 +102,11 @@
 ### Housing
 
 - [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads)  - 联邦住房金融局提供了一系列关于美国住房和抵押贷款的公共数据集. 它包括所有州，通过其房价指数、再融资报告、止赎预防报告、抵押贷款收购数据集和绩效报告了解美国抵押贷款市场的活动.
-- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM)  - 最新的 (2022) 城市土地研究所 Terwilliger 中心房屋可达性指数. 一种资源，用于了解住房市场在多大程度上为区域劳动力提供了一系列可供选择的选择，从而深入了解美国选定社区的各种因素.
+- [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM) - The latest (2022) Urban Land Institute Terwilliger Center Home Attainability Index.  A resource for understanding the extent to which a housing market provides a range of choices attainable to regional workforces providing insights into a wide range of factors for selected communities across the United States.
 
 ### Land Use and Land Cover
 
-- [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - 国家土地覆盖数据库是与多分辨率土地特征联盟 (MRLC) 合作生成的，该联盟是联邦机构的合作伙伴关系，共同为美国所有 50 个州和波多黎各生产当前全国一致的土地覆盖产品. 
+- [NLCD](https://www.usgs.gov/centers/eros/science/national-land-cover-database) - The National Land Cover Database is generated in cooperation with the Multi-Resolution Land Characteristics Consortium (MRLC), a partnership of Federal agencies working together to produce current, nationally consistent, land cover products for all 50 US states and Puerto Rico. 
 - [Corine Land Cover](https://land.copernicus.eu/pan-european/corine-land-cover) - 由土地监测核心服务 (LMCS) 生成的欧洲土地覆盖数据库 [Copernicus](https://land.copernicus.eu/)，欧洲地球观测旗舰计划. 
 
 ### OpenStreetMap
@@ -222,8 +222,9 @@
 - [CurbLR](https://www.curblr.org)  - 由 SharedStreets 维护的路边法规的开放数据规范. 附加信息： [GitHub](https://www.github.com/sharedstreets/curblr), 演示：互动 [map and example feed](https://demo.curblr.org/), 博文: [Why CurbLR was built](https://medium.com/sharedstreets/crossroads-for-the-curb-be3137154148).    
 - [CDS](https://github.com/openmobilityfoundation/curb-data-specification) - 路缘数据规范提供了路缘法规的数据规范以及连接的事件和指标 API，旨在帮助城市管理其路缘区域计划和周边地区，并衡量利用率和影响.
 - [GTFS](https://developers.google.com/transit/gtfs) - General Transit Feed Specification 是描述交通系统的流行标准.
-- [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange 是一项欧洲标准，用于交换标准化时间表和用于描述运输系统的其他系统特征. 
+- [GTFS-flex](https://github.com/MobilityData/gtfs-flex) - 一种将灵活的公共交通服务（微交通/辅助交通）建模为 GTFS 扩展的数据格式.
 - [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - 该标准为用户提供实时的公交数据更新，极大地提升了他们的公交服务体验. 
+- [NeTEx](https://netex-cen.eu/) - Network Timetable Exchange 是一项欧洲标准，用于交换标准化时间表和用于描述运输系统的其他系统特征. 
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - 实时信息服务接口 (SIRI) 是实时信息的欧洲标准，在美国的采用有限，但与符合欧洲标准的硬件和网络系统兼容.
 - [shared-row](https://github.com/d-wasserman/shared-row) - 表示街道通行权的数据规范. 
 - [OpenSidewalks](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - 可路由行人网络以及描述和共享行人网络和行人网络相邻数据的数据规范.
@@ -318,9 +319,9 @@ R 包及相关资源.
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的效益和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供且开发透明. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是在几乎没有或没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
-- [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems. 
+- [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 用于分析和优化城市能源系统的工具. 
 - [EPA WARM Model](https://www.epa.gov/warm) - EPA 创建了废物减少模型 (WARM)，以提供对潜在温室气体 (GHG) 减排、节能和几种不同废物管理实践的经济影响的高级估计. 
-- [ENCORE](https://encore.naturalcapital.finance/en) - 联合国赞助的资源旨在探索对我们世界自然资本储备的依赖和影响.
+- [ENCORE](https://encore.naturalcapital.finance/en) - United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
 
 ### Geospatial Data and Visualization
 用于地理空间可视化的软件、工具和平台. 
@@ -345,7 +346,7 @@ R 包及相关资源.
 - [Spectracities](https://www.spectracities.com/ ) - Spectra 是一个开源 VR 和混合现实平台，允许规划师和设计师将物理场所营造和数字世界构建相结合，重新构想城市建设过程，从单一项目和填充开发到大规模沉浸式环境.   
 - [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion 是一款易于使用的实时可视化软件，可创建离线渲染器质量的图像、动画和全景图，以及基于虚幻引擎构建的交互式 360° 视频和 VR 演示.
 - [Unity](https://unity.com/) - 一个强大且流行的跨平台游戏引擎，用于创建 2D 和 3D 交互式体验和游戏.
-- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine 是一种 XR 引擎，规划人员不仅可以创建可视化效果，还可以创建沉浸式环境，将社区参与、决策制定和规划过程游戏化.   
+- [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.   
 
 
 ### Public Engagement Tools and Platforms
@@ -353,7 +354,7 @@ R 包及相关资源.
 - [bangthetable](https://www.bangthetable.com/) - 提供对集中社区参与的平台的访问，从而可以通过一个平台轻松捕获、分析和报告全市范围的参与.
 - [Metroquest](https://metroquest.com/) - 全面的社区参与平台，提供调查、游戏和交互式地图，让公众参与规划问题. 
 - [PollEverywhere](https://www.polleverywhere.com/) - 提供在多个平台上为交互式参与生成民意调查和问题的能力. 
-- [NJTPA Engage](https://engage.njtpa.org/) - Database of 300 + public engagement tools, techniques, and software. Searchable on multiple levels. 
+- [NJTPA Engage](https://engage.njtpa.org/)  - 包含 300 多种公众参与工具、技术和软件的数据库. 可在多个级别上搜索. 
 - [Ushahidi](https://www.ushahidi.com/) - 开源众包制图工具，旨在通过收集公民的意见帮助世界各地的社区解决他们自己的问题.
 - [Social Pinpoint](https://www.socialpinpoint.com/) - Social Pinpoint 是一种专有的数字公众参与工具，允许用户通过交互式地图、调查、参与式预算练习和创意墙论坛提供反馈并分享他们的灵感.
 - [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post 是一种专有的基于文本和 SMS 的街头公众参与工具，它使用物理标牌和移动设备来获取市民反馈、改进寻路、宣传当地活动和服务，或提供创意教育内容.
@@ -394,7 +395,7 @@ R 包及相关资源.
 - [OpenGov](https://opengov.com/products/citizen-services/) - 云解决方案，通过用户友好的工作流程为每项许可、执照和检查提供支持. 
 
 ## Educational and Informational Resources
-规划相关文献、信息聚合器或类似资源的集合.
+Collections of planning related literature, information aggregators, or similar resources.
 
 ---
 
@@ -405,7 +406,7 @@ R 包及相关资源.
 - [AICP Exam Prep. Webpage](https://www.planning.org/certification/register/#examprep/) - 详细介绍了 AICP 的考试准备“五步法”，并列出了帮助您成功通过 AICP 考试的资源/材料.
 - [APA Knowledge Base](https://www.planning.org/knowledgebase/)  - APA 的研究知识库将 APA 成员与精选的主题相关资源集合联系起来——包括计划、法规、模型代码、指南、文章、报告和多媒体文件. 每个馆藏都提供资源记录的评论和专题分组，以及书目信息、简短描述和资源本身的链接. 
 - [PlanningPrep](https://www.planningprep.com/)  - 基于网络的免费学习资源，可帮助规划师准备美国认证规划师协会的认证考试. 截至 2021 年夏季，该网站包含 1668 道练习题和 12 道练习题.
-- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/) - Comprehensive collection of study materials compiled by APA Florida. APA members can also email Henry Bittaker at the address given for access to recordings of exam prep and practice question study sessions led by him. 
+- [APA Florida Exam Prep Webpage](https://florida.planning.org/professional-growth/aicp-exam-preparation/aicp-exam-study-links/)  - 由 APA Florida 编制的综合学习资料集.  APA 成员还可以通过给定的地址向 Henry Bittaker 发送电子邮件，以获取他领导的考试准备和练习题研究会议的录音. 
 
 
 ### Literature Resources
@@ -439,7 +440,7 @@ R 包及相关资源.
 ---
 
 ### Other GitHub Resource Lists
-此页面已注册为 [awesome-list](https://github.com/topics/awesome-list), but similar GitHub repositories can be listed here. These are managed curations of resources that relate to different topics. 
+此页面已注册为 [awesome-list](https://github.com/topics/awesome-list) , 但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源管理策展. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型交通工具和数据资源的集合.
@@ -476,6 +477,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了产生更多的贡献和对该资源的理解，我们非常感谢共享此存储库或在适当的地方引用它. 
 
 
-如果你确实引用了这个存储库，你可以： 
+If you do cite this repository you can as: 
 
 城市和区域规划资源.  (2020) APA 技术部. 摘自：来自 https://github.com/APA-Technology-Division

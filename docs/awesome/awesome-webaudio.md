@@ -7,7 +7,7 @@
 
 &gt; 精选清单 [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) 和 [demos](#demos).
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出事情.
 
 请提出一个 [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) 在这个列表中添加一个很棒的 WebAudio 东西.
 
@@ -75,7 +75,7 @@
 - [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) - 一个用 JavaScript 编写的小型合成器，带有类似音色图的 GM.
 - [web-audio-beat-detector](https://github.com/meerasndr/sample-golang-app) - 使用 Web Audio API 的节拍检测实用程序
 - [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - 使用 Web Audio 构建的混音器.
-
+- [Audio-motion interface](https://github.com/MaxAlyokhin/audio-motion-interface) - 在空间中使用智能手机手势生成声音的网络合成器.
 
 
 ## Resources
@@ -117,11 +117,11 @@
 - [TuneJS](https://github.com/abbernie/tune)  - 微分音阶和纯音阶的调音库. 支持 3,000 多个历史调音.
 - [Beet.js](https://github.com/zya/beet.js) - 用于创建欧几里德节奏和多节奏的音序器库.
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - 用于网络音频项目的 QWERTY 键盘.
-- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
+- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - 用于 CI 的网络音频测试库.
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - Karplus-Strong 吉他合成的 JavaScript/Web 音频实现.
 - [osc-msg](https://github.com/mohayonao/osc-msg) - 具有容错功能的 OSC 消息解码器/编码器.
 - [Pizzicato](https://github.com/alemangui/pizzicato) - 旨在简化浏览器中声音的创建和操作的库.
-- [Mooog](https://github.com/mattlima/mooog) - 受 jQuery 和混合表启发的简化 AudioNodes 工作的工具.
+- [Mooog](https://github.com/mattlima/mooog) - 受 jQuery 和混音表启发的简化 AudioNodes 工作的工具.
 - [envelope-generator](https://github.com/itsjoesullivan/envelope-generator) - 用于网络音频的简单 ADSR 包络生成器.
 - [audio contour](https://github.com/danigb/audio-contour) - 一个 5 级音频包络发生器.
 - [web-audio-recorder-js](https://github.com/higuma/web-audio-recorder-js) - 记录音频输入（Web Audio API AudioNode 对象）并编码为音频文件图像（Blob 对象）的库.

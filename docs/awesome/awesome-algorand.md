@@ -31,7 +31,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 &gt; Algorand 的官方资源.
 
-- [Algorand](https://www.algorand.com/) - Official website.
+- [Algorand](https://www.algorand.com/) - 官方网站.
 - [Algorand Foundation](https://algorand.foundation/) - 基金会官方网站.
 - [Algorand FAQ](https://algorand.foundation/faq) - 由 Algorand 基金会维护的常见问题解答.
 - [Algorand Governance](https://governance.algorand.foundation/) - Algorand 治理计划的官方网站.
@@ -81,7 +81,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
 - [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
-- [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - Understanding Algorand's working principles and its efficiency.
+- [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
 - [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws)  - 使用 PyTeal 在 Algorand 上开发_ABI 兼容_智能合约. 最后的现场编码部分（与 [@deanste](https://twitter.com/_deanste)).
@@ -164,7 +164,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### .NET
 
-- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 由 [@RileyGe](https://github.com/RileyGe).
+- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
 - [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 - [dotnet-alogrand-sdk (2)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK 维护者 [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
@@ -230,6 +230,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand Sandbox](https://github.com/algorand/sandbox) - 快速创建和配置 Algorand 开发环境的方法.
 - [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - 用于加快本地开发和 CI/CD 使用的 Docker Hub 图像.
+- [Official Algod Container](https://hub.docker.com/r/algorand/algod) - Algorand Inc. 的 Algod Docker Hub 图像.
+- [Official Conduit Container](https://hub.docker.com/r/algorand/conduit) - 来自 Algorand Inc. 的 Conduit Docker Hub 图像.
 
 #### Testing
 
@@ -289,14 +291,14 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Security Auditing Services
 
- &gt; 本节并非旨在宣传以下任何公司，请在研究可用于审计的选项时尽职调查. 相反，以下只是旨在强调越来越多的公司为 Algorand 生态系统提供智能合约审计.
+> This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.
 
 - [Certik](https://www.certik.com/ecosystems/algorand) - CertiK 提供 web3 安全工具的黄金标准，从其行业领先的智能合约审计到其区块链分析工具（如 Skynet 和 SkyTrace），使其成为确保 Algorand 项目端到端安全的理想合作伙伴.
 - [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - AlgoBuilder 背后的团队提供咨询您的项目、由专业人员完成智能合约、编写自动化测试或审计您现有的项目.
 - [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - 位于波兰的区块链实验室，为 Algorand 智能合约提供审计服务.
 - [Runtime Verification](https://runtimeverification.com/smartcontract) - 由审计 Algofi、FolksFinance、Yieldly 和生态系统中其他著名 DeFi 平台等平台的团队进行智能合约分析和验证.
 - [Immunebytes](https://www.immunebytes.com) - 使用可靠的安全审计解决方案保护您的 Algorand 智能合约.
-- [KudelskiSecurity](https://kudelskisecurity.com) - Move your blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.
+- [KudelskiSecurity](https://kudelskisecurity.com)  - 将您的区块链项目安全、成功地转移到生产环境或主网上. 公司可以帮助您评估、设计、定制、部署和管理区块链和数字分类账技术系统，这样您就可以自信地利用安全性作为这个动态市场中的强大差异化因素.
 - [algorand-ecosystem-audits](https://github.com/blockshake-io/algorand-ecosystem-audits) - 由 Algorand 生态系统维护的越来越多的审计报告集合 [blockshake-io](https://blockshake.io).
 - [Vantage Point Blockchain](https://www.vantagepoint.sg/contact-us)  - Algorand 生态系统中的智能合约审计、加密钱包审计和其他渗透测试服务，客户包括 Folks.Finance、Pera、Algorand Foundation、Deflex (Defly/Alammex)、GARD、Venue.One 等. 报告由 velocity.vantagepoint.algo 签名并发布在 https://github.com/vantagepointreports/releases 上.
 
@@ -337,7 +339,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - 免费且无需信任的 ASA 交换器，由 Algorand 智能签名提供支持.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
 - [TinyBar App](https://tinybar.app) - 一个微型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
-- [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
+- [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/algorealm/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
 - [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的网络 CLI 模拟器版本.
@@ -359,6 +361,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [SliceSwap](https://app.sliceswap.com)  - 一个在主要 Dex 之间交易您的资产的地方. 所有交换均由@deflexfi 提供支持.
 - [algodaddy](https://www.algodaddy.org) - Algorand 社区的博客网站.
 - [directorydotalgo](https://directorydotalgo.xyz/) - Algorand 的非官方项目生态系统目录.
+- [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) - Python 后端 [stake.tax](https://stake.tax) 为 Algorand 和其他区块链生成应税交易 CSV.
 
 ## Algorand Request for Comments
 

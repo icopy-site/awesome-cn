@@ -18,7 +18,7 @@
 
 ## Distributions
 
-- [MacTeX](https://tug.org/mactex/)  - 最常见的 macOS LaTeX 发行版，基本上是添加了一些 Mac 专用工具的 TeXLive.  ！[苹果]
+- [MacTeX](https://tug.org/mactex/)  - 最常见的 macOS LaTeX 发行版，基本上是添加了一些 Mac 特定工具的 TeXLive.  ！[苹果]
 - [TeX Live](https://www.tug.org/texlive/)  - 最常见的用于类 Unix 操作系统的 LaTeX 发行版，包括 GNU/Linux. 也适用于 Windows.  ![Linux] ![窗户]
 - [MikTeX](https://miktex.org)  - 适用于 Windows 的最常见 LaTeX 发行版，但也适用于 Mac、Linux 或作为 Docker 映像.  ![linux] ![windows] ![mac] ![foss]
 
@@ -33,7 +33,7 @@
 ## Engines
 
 - [pdfTeX](https://www.tug.org/applications/pdftex/)  - TeX 编译器可以立即生成 PDF 文件而不是 DVI 文件（如今，这是许多用户的标准编译器）.  ![源代码]
-- [XeTeX](http://xetex.sourceforge.net) - TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the  fonts of your operating system instead of only TeX fonts). ![foss]
+- [XeTeX](http://xetex.sourceforge.net)  - TeX 编译器提供比 TeX/pdfTeX 更好的 unicode 和字体支持（即您可以使用操作系统的字体，而不仅仅是 TeX 字体）.  ![源代码]
 - [LuaTeX](https://www.luatex.org)  - (La)TeX 编译器支持用于脚本的 Lua 代码，并且比标准 TeX/pdfTeX 改进了 unicode 和字体支持.  ![源代码]
 - [tectonic](https://tectonic-typesetting.GitHub.io/en-US/)  - 由 XeTeX 和 TeXLive 提供支持的现代、独立的 (La)TeX 编译器.  ![源代码]
 
@@ -92,11 +92,12 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
   - [vimtex](https://github.com/lervag/vimtex)  - 用于编辑 LaTeX 文件的现代 vim 插件. 具有多种功能，包括实时预览和向前搜索.  ![源代码]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-  - [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+  - [TeXiFy-IDEA](https://github.com/Hannah-Sten/TeXiFy-IDEA)  - 适用于 IntelliJ IDEA 的免费 LaTeX 插件.  ![源代码]
 
 - [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
   - [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Visual Studio Code 的 LaTeX 扩展！[foss]
   - [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LanguageTool 语法/拼写检查！[foss]
+  - [a-nau/latex-devcontainer](https://github.com/a-nau/latex-devcontainer) - 无需本地安装即可轻松使用 LaTeX 的 Devcontainer 设置！[foss]
 
 ### Online editors
 
@@ -112,7 +113,7 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org)  - 非常强大的跨平台 (Java) bibtex 编辑器.  ![mac] ![windows] ![linux] ![foss]
-- [Papis](https://github.com/papis/papis) - 高度可定制，
+- [Papis](https://github.com/papis/papis) - Extremely customizable,
   强大而简单的跨平台（Python）库管理器. 它有一个非常
   完整的命令行界面、多个 GUI 和脚本功能.
   ![linux] ![mac] ![foss]
@@ -159,7 +160,7 @@ LaTeX 编辑器的完整列表收集于 [tex.stackexchange.com](https://tex.stac
 - [TikzEdt](https://www.tikzedt.org) （还： [GitHub repo](https://github.com/hchapman/tikzedt) ) - 所见即所得和基于文本的 TikZ 图片编辑器.  ![源代码]
 - [TikZ-Editor](https://github.com/fredokun/TikZ-Editor)  - TikZ 图形的实时预览编辑器.  ![mac] ![linux] ![foss]
 - [IPE](https://ipe.otfried.org)  - 与 LaTeX 命令和文档完美集成的绘图工具.  ![源代码]
-- [GeoGebra](https://www.geogebra.org/)  - 可输出到 TikZ 的跨平台几何工具.  ![源代码]
+- [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
 - [Dia](https://wiki.gnome.org/Apps/Dia)  - 可以导出到 PSTricks 和 MetaPost 代码的跨平台图表工具.  ![源代码]
 - [TikZiT](https://tikzit.GitHub.io)  - 使用 PGF/TikZ 创建图形和字符串图的 GUI 工具.  ![windows] ![linux] ![mac] ![foss]
 - [LaTeXDraw](https://latexdraw.sourceforge.net/)  - 以 LaTeX 作为一等公民的基于矢量的绘图工具.  ![windows] ![linux] ![mac] ![foss]
@@ -192,7 +193,6 @@ TikZ 是一个很棒的软件包，包含许多插件，可让您从 LaTeX 文�
 
 - [TeXample](https://www.texample.net) - 关于 LaTeX 的博客，包含大量 TikZ 图.
 - [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-)  - 有用的网站，带有一些自定义包，可以使用 TikZ 绘制特殊图（Bode、Nyquist、电气原理图、块原理图等）. 请注意，一切都是法语.
-- [tkz](https://altermundus.com/pages/tkz/index.html) - 收集基于 TikZ 的包来制作图表.
 - [pgfplots](http://pgfplots.sourceforge.net)  - 在 TikZ/pgf 之上并以 TikZ/pgf 的风格真正令人敬畏的绘图库. 这个库可以加载 CSV 数据文件，执行一些计算并创建漂亮的图.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - 由 Jacques Crémer 撰写的 TikZ 世界的简短介绍性文件.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - 由 Petar Veličković 收集的出版就绪的 PGF/TikZ 数字.
