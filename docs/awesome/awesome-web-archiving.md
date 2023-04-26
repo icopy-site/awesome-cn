@@ -61,6 +61,7 @@
 * [HTTrack](http://www.httrack.com/)  - 一个开源网站复制实用程序.  *（稳定的）*
 * [monolith](https://github.com/Y2Z/monolith)  - 将网页保存为单个 HTML 文件的 CLI 工具.  *（稳定的）*
 * [Obelisk](https://github.com/go-shiori/obelisk)  - 用于将网页保存为单个 HTML 文件的 Go 包和 CLI 工具.  *（稳定的）*
+* [Scoop](https://github.com/harvard-lil/scoop)  - 高保真、基于浏览器的单页 Web 存档库和用于见证 Web 的 CLI.  *（稳定的）*
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile)  - Firefox/Chrome 的浏览器扩展和 CLI 工具，用于将完整页面的忠实副本保存为单个 HTML 文件.  *（稳定的）*
 * [SiteStory](http://mementoweb.github.com/SiteStory/)  - 有选择地捕获和存储 Web 客户端（浏览器）和 Web 服务器之间发生的事务的事务存档.  *（稳定的）*
 * [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/)  - 开源软件，使用户能够从 Twitter、Tumblr、Flickr 和新浪微博公共 API 创建社交媒体收藏.  *（稳定的）*
@@ -137,7 +138,7 @@
 * [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压 WARC 和 WACZ 文件的命令行界面 (Python).
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARChive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 存档 IO (Python) 的流式 WARC/ARC 库.
-* [warctools](https://github.com/internetarchive/warctools) - 用于处理 ARC 和 WARC 文件的库 (Python).
+* [warctools](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
 * [webarchive](https://github.com/richardlehane/webarchive) - 用于 ARC 和 WARC webarchive 格式的 Golang 阅读器 (Golang).
 
 ### Analysis
@@ -157,9 +158,9 @@
 * [Chrome Revolver](https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda) - 浏览器扩展：在浏览器选项卡之间切换.
 * [FlameShot](https://github.com/lupoDharkael/flameshot) - Ubuntu 上的屏幕截图和注释.
 * [PlayOnLinux](https://www.playonlinux.com/en/) - 用于在 Ubuntu 上运行 Xenu 和 Notepad++.
-* [PlayOnMac](https://www.playonmac.com/en/) - For running Xenu and Notepad++ on macOS.
+* [PlayOnMac](https://www.playonmac.com/en/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
 * [Windows Snipping Tool](https://support.microsoft.com/en-gb/help/13776/windows-use-snipping-tool-to-capture-screenshots)  - Windows 内置部分屏幕捕获和注释. 在 macOS 上，您可以使用 Command + Shift + 4（用于截取部分屏幕的键盘快捷键）.
-* [WineBottler](http://winebottler.kronenberg.org/) - For running Xenu and Notepad++ on macOS.
+* [WineBottler](http://winebottler.kronenberg.org/) - 用于在 macOS 上运行 Xenu 和 Notepad++.
 * [xDoTool](https://github.com/jordansissel/xdotool) - 在 Ubuntu 上单击自动化.
 * [Xenu](http://home.snafu.de/tilman/xenulink.html) - 适用于 Windows 的桌面链接检查器.
 

@@ -2,7 +2,10 @@
 ## Awesome Fiber [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://gofiber.io">
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="Fiber Logo" align="right" style="margin-right: 25px" height=75>
+  <picture alt="Fiber Logo" align="right" style="margin-right: 25px">
+    <source height="75" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg?sanitize=true">
+    <img height="75" alt="Fiber Logo" align="right" style="margin-right: 25px" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg">
+  </picture>
 </a>
 
 &gt; **纤维**是一种 [Express](https://github.com/expressjs/express) 受启发的 **web 框架** 建立在 [Fasthttp](https://github.com/valyala/fasthttp), **最快** HTTP 引擎 [Go](https://golang.org/doc/) . 旨在**简化**事情以实现**快速**开发，同时考虑**零内存分配**和**性能**.
@@ -44,7 +47,7 @@ Fiber 框架中包含的中间件列表.
 外部托管的中间件模块列表，由 [Fiber team](https://github.com/orgs/gofiber/people).
 - [adaptor](https://github.com/gofiber/adaptor) - net/http 处理程序与 Fiber 请求处理程序之间的转换器.
 - [helmet](https://github.com/gofiber/helmet) - 通过设置各种 HTTP 标头帮助保护您的应用程序.
-- [jwt](https://github.com/gofiber/jwt) - JWT 返回一个 JSON Web 令牌 (JWT) 身份验证中间件.
+- [jwt](https://github.com/gofiber/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
 - [keyauth](https://github.com/gofiber/keyauth) - 密钥授权中间件提供基于密钥的身份验证.
 - [redirect](https://github.com/gofiber/redirect) - 为 Fiber 重定向中间件.
 - [rewrite](https://github.com/gofiber/rewrite)  - 重写中间件根据提供的规则重写 URL 路径. 它有助于向后兼容或只是创建更清晰和更具描述性的链接.
@@ -72,13 +75,13 @@ Fiber 社区创建的中间件列表.
 - [arsmn/fastgql](https://github.com/arsmn/fastgql) - 用于构建 GraphQL 服务器的 Go 库，无需大惊小怪，但具有 fasthttp 支持.
 - [kiyonlin/fiber_limiter](https://github.com/kiyonlin/fiber_limiter) - 限制器基于 golang.org/x/time/rate 的分叉率.
 - [juandiii/go-jwk-security](https://github.com/juandiii/go-jwk-security) - 用于光纤的 JWT 中间件. 
-- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的 Prometheus 中间件.
+- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的普罗米修斯中间件.
 - [LdDl/fiber-long-poll](https://github.com/LdDl/fiber-long-poll) - Golang 长轮询库，用于名为 Fiber 的基于 fasthttp 的 Web 框架.
 - [K0enM/fiber_vhost](https://github.com/K0enM/fiber_vhost) - 用于 Fiber 的 Vhost（虚拟主机）中间件，它允许使用基于主机头的虚拟主机.
 - [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth 中间件.
 - [theArtechnology/fiber-inertia](https://github.com/theArtechnology/fiber-inertia) - 这是一个基于 inertia-laravel 的 Inertia.js 服务器端适配器，但适用于 Fiber Framework.
 - [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - 健康检查中间件支持Fiber️框架的健康检查.
-- [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - Go Fiber 的 APM 代理.
+- [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - 用于 Go Fiber 的 APM 代理.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - 用于光纤的 LDAP 身份验证中间件.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC，可作为中间件替代 Varnish.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制的工作证明挑战的反 DDoS/机器人中间件.

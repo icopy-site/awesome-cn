@@ -4,8 +4,6 @@
 关于 React 生态系统的一系列精彩内容.
 
 
----
-
 ### React
 
 #### React General Resources
@@ -14,11 +12,8 @@
 - [React GitHub](https://github.com/facebook/react)
 - [Reactiflux Discord Channel](http://www.reactiflux.com/)
 - [React Community](https://react.dev/community)
-
-#### React Online Playgrounds
-
-- [CodeSandbox](https://codesandbox.io/s/new)
-- [JSFiddle](https://jsfiddle.net/boilerplate/react-jsx)
+- [React Conferences](https://react.dev/community/conferences)
+- [React CodeSandbox Playground](https://codesandbox.io/s/new)
 
 #### React Tutorials
 
@@ -67,7 +62,7 @@
 - [baseweb](https://github.com/uber/baseweb) - 一个实现 Uber 基本设计语言的 React 组件库
 - [eui](https://github.com/elastic/eui) - 弹性用户界面框架
 - [react-spectrum](https://github.com/adobe/react-spectrum) - Adob​​e 的库和工具集合
-- [ring-ui](https://github.com/JetBrains/ring-ui) - JetBrains Web UI 组件的集合
+- [ring-ui](https://github.com/JetBrains/ring-ui) - A collection of JetBrains Web UI components
 - [radix-primitives](https://github.com/radix-ui/primitives) - 用于构建高质量 Web 应用程序的开源 UI 组件库
 - [nextui](https://github.com/nextui-org/nextui) - 漂亮、快速和现代的 React UI 库
 
@@ -84,11 +79,10 @@
 - [jotai](https://github.com/pmndrs/jotai) - React 的原始和灵活的状态管理
 - [xstate](https://github.com/statelyai/xstate) - 现代网络的状态机和状态图
 - [effector](https://github.com/zerobias/effector) - 轻松的业务逻辑
-
-
-#### React Hooks
-
-- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
+- [immer](https://github.com/immerjs/immer) - 通过改变当前状态来创建下一个不可变状态
+- [immutable-js](https://github.com/immutable-js/immutable-js) - Javascript 的不可变持久数据集合
+- [rxdb](https://github.com/pubkey/rxdb) - 用于 JavaScript 应用程序的快速、离线优先、反应式数据库
+- [watermelondb](https://github.com/Nozbe/WatermelonDB) - 用于强大的 React 和 React Native 应用程序的反应式和异步数据库
 
 #### React Styling
 
@@ -151,17 +145,6 @@
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - 带有生活风格指南的独立 React 组件开发环境
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用 React 组件的开发工具
 
-#### React Renderers
-
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - Three.js 的 React 渲染器
-- [react-pdf](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
-- [ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序做出反应
-- [react-blessed](https://github.com/Yomguithereal/react-blessed) - 用于受祝福的终端界面库的 React 渲染器
-- [react-sketchapp](https://github.com/airbnb/react-sketchapp) - 将 React 组件渲染到 Sketch
-- [react-figma](https://github.com/react-figma/react-figma) - Figma 的 React 渲染器
-- [react-nil](https://github.com/pmndrs/react-nil) - 反应空渲染器
-- [remotion](https://github.com/JonnyBurger/remotion) - 在 React 中以编程方式创建视频
-
 #### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - 用于表单状态管理和验证的 React Hooks
@@ -177,6 +160,27 @@
 - [tanstack-table](https://github.com/TanStack/table) - 用于构建强大表格和数据网格的无头 UI
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 功能丰富且可自定义的数据网格 React 组件
 
+#### React Maps
+
+- [react-map-gl](https://github.com/visgl/react-map-gl) - 围绕 MapboxGL JS 反应友好的 API 包装器
+- [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - 传单地图的反应组件
+
+#### React Charts
+
+- [recharts](https://github.com/recharts/recharts) - 重新定义了用 React 和 D3 构建的图表库
+- [visx](https://github.com/airbnb/visx) - 可视化组件
+- [victory](https://github.com/FormidableLabs/victory) - 一组可组合的 React 组件，用于构建交互式数据可视化
+- [react-vis](https://github.com/uber/react-vis) - 数据可视化组件
+- [nivo](https://github.com/plouc/nivo) - 提供一套丰富的数据可视化组件，构建在 D3 和 React 库之上
+
+#### React Renderers
+
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - Three.js 的 React 渲染器
+- [ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序做出反应
+- [remotion](https://github.com/remotion-dev/remotion) - 使用 React 以编程方式制作视频
+- [react-pdf](https://github.com/diegomura/react-pdf) - 使用 React 创建 PDF 文件
+- [react-figma](https://github.com/react-figma/react-figma) - Figma 的 React 渲染器
+
 #### React Internationalization
 
 - [formatjs](https://github.com/formatjs/formatjs) - 国际化您的网络应用程序
@@ -191,40 +195,7 @@
 - [auto-animate](https://github.com/formkit/auto-animate) - 一个零配置的嵌入式动画实用程序，可添加平滑过渡
 - [react-tsparticles](https://github.com/matteobruni/tsparticles) - 轻松创建高度可定制的粒子效果
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) - 轻松在 React 组件上应用倾斜悬停效果
-- [gooey-react](https://github.com/luukdv/gooey-react) - The gooey effect for React
-
-##### React Data Managing
-
-- [immer](https://github.com/immerjs/immer) - 通过改变当前状态来创建下一个不可变状态
-- [ReSub](https://github.com/Microsoft/ReSub) - 用于编写更好的 React 组件和数据存储的库
-- [immutable-js](https://github.com/immutable-js/immutable-js) - Javascript 的不可变数据集合
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 用于强大的 React 和 React Native 应用程序的反应式和异步数据库
-- [RxDB](https://github.com/pubkey/rxdb) - 用于 JavaScript 应用程序的实时数据库
-
-#### React Maps
-
-- [react-googlemaps](https://github.com/pieterv/react-googlemaps) - 对谷歌地图的反应界面
-- [react-maps](https://github.com/matnel/react-maps) - React 的地图组件
-- [react-google-maps](https://github.com/tomchentw/react-google-maps) - React.js 谷歌地图集成组件
-- [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) - React.js 的谷歌地图组件
-- [react-map-gl](https://github.com/uber/react-map-gl) - 一个用于 MapboxGL-js 的 React 包装器加上覆盖 API
-- [google-map-react](https://github.com/istarkov/google-map-react) - 同构谷歌地图 React 组件
-- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - 使 API 反应友好的 mapbox-gl-js 包装器
-- [google-maps-react](https://github.com/fullstackreact/google-maps-react) - 使用 React 的声明式 Google Map React 组件、延迟加载依赖项、当前位置查找器和 Fullstack React 团队的测试驱动方法.
-- [react-leaflet](https://react-leaflet.js.org/) - 传单地图的反应组件
-- [react-geo](https://github.com/terrestris/react-geo) - 一组使用react、antd、ol的geo相关组件
-- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) - 没有外部依赖的 ReactJS 地图
-
-#### React Charts
-
-- [vx](https://github.com/airbnb/visx) - 可视化组件
-- [victory](https://github.com/FormidableLabs/victory) - 一组可组合的 React 组件，用于构建交互式数据可视化
-- [react-vis](https://github.com/uber/react-vis) - 数据可视化组件
-- [recharts](https://github.com/recharts/recharts) - 重新定义了用 React 和 D3 构建的图表库
-- [nivo](https://github.com/plouc/nivo) - 提供一套丰富的数据可视化组件，建立在 D3 和 React 库之上
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) - 用于 React 包装器的 Apache ECharts 组件
-- [react-apexcharts](https://github.com/apexcharts/react-apexcharts) - ApexCharts 的 React 组件
-- [chartify](https://github.com/kis/chartify) - 使用 CSS 构建图表的 React 插件
+- [gooey-react](https://github.com/luukdv/gooey-react) - React 的粘性效果
 
 #### React Integration
 
@@ -233,14 +204,12 @@
 - [reagent](https://github.com/reagent-project/reagent) - React 的简约 ClojureScript 接口
 - [fulcro](https://github.com/fulcrologic/fulcro) - 用于在 clj/cljs 中开发 Web 应用程序的库
 
-### React Real Apps
+#### React Real Apps
 
 - [mattermost-server](https://github.com/mattermost/mattermost-server) - 用于安全协作的开源平台
 - [kibana](https://github.com/elastic/kibana) - 您进入 Elastic Stack 的窗口
 - [webamp](https://github.com/captbaritone/webamp) - 为浏览器重新实现了 Winamp 2
 - [overreacted](https://github.com/gaearon/overreacted.io) - Dan Abramov 的个人博客
-
----
 
 ### React Native
 
@@ -248,130 +217,24 @@
 
 - [React Native Official Website](https://reactnative.dev/)
 - [React Native GitHub](https://github.com/facebook/react-native)
-- [React Native Awesome List](https://github.com/jondot/awesome-react-native)
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
+- [Expo Snack Playground](https://snack.expo.dev/)
 
-#### React Native Tutorials
+#### React Native Navigation
 
-- [React Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-- [Introducing React Native: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
-- [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
-- [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
-- [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
-- [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
-- [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)
-- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
-- [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
-
-#### React Native Development Tools
-
-- [flipper](https://github.com/facebook/flipper) - 面向移动开发者的桌面调试平台
-- [react-native-code-push](https://github.com/microsoft/react-native-code-push) - 用于 CodePush 的 React Native 模块
-
-#### React Native Sample Apps
-
-- [HackerNews](https://github.com/iSimar/HackerNews-React-Native)
-- [Ziliun](https://github.com/sonnylazuardi/ziliun-react-native)
-- [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)
-- [SplashWalls](https://github.com/nashvail/SplashWalls)
-- [NBAreact](https://github.com/jbkuczma/NBAreact)
-
-#### React Native Boilerplates
-
-- [Create React Native App](https://github.com/react-community/create-react-native-app) - 创建在 iOS、Android 和 Web 上运行的 React Native 应用程序
-- [Ignite](https://github.com/infinitered/ignite) - React Native、样板、插件、生成器等最热门的 CLI！
+- [react-navigation](https://github.com/react-navigation/react-navigation) - 为您的 React Native 应用程序路由和导航
+- [expo-router](https://github.com/expo/router) - 用于通用 React Native 应用程序的基于文件的路由器
 
 #### React Native Awesome Components
 
-- [react-navigation](https://reactnavigation.org/) - 为您的 React Native 应用程序路由和导航
-- [react-native-social-share](https://github.com/doefler/react-native-social-share) - 使用 iOS 和 Android 本地 Twitter 和 Facebook 与 React Native 共享弹出窗口
-- [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) - iOS Facebook SDK 的包装器
-- [react-native-side-menu](https://github.com/Kureev/react-native-side-menu) - 用于创建侧边菜单的简单可定制组件
-- [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) - 一个 Mapbox GL 反应本机模块
-- [react-native-icons](https://github.com/corymsmith/react-native-icons) - React Native 中快速简单的图标
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - 3000 个可自定义的 React Native 图标，支持 NavBar/TabBar
-- [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) - 用于 React Native 的 Google 登录
-- [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - React Native 的可定制图标
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - React Native 最完整的聊天 UI
-- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - FastImage，高性能的 React Native 图像组件
-- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) - 用于 React Native 和网络的高性能列表视图！
-- [react-native-largelist](https://github.com/bolan9999/react-native-largelist) - React Native 最好的大型列表组件
-- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) - 向 React Native 公开平台原生触摸和手势系统的声明式 API
-- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - 在 React Native 中呈现文本或媒体内容之前显示一些占位符内容
-- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - 一个高性能的交互式底部表
 
 #### React Native Libraries
 
-- [sentry-react-native](https://github.com/getsentry/sentry-react-native) - 为您的网络应用程序、移动应用程序和游戏提供实时崩溃报告.
-- [realm-js](https://github.com/realm/realm-js) - Realm 是一个移动数据库：SQLite 和键值存储的替代品
-- [react-native-device-info](https://github.com/react-native-community/react-native-device-info) - React Native iOS 和 Android 的设备信息
-- [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - 在 React Native 中运行 React Web 应用程序并处理它们之间的通信的工具集.
-- [uncompress-react-native](https://github.com/didisouzacosta/uncompress-react-native) - 用于在 React Native 中解压缩文件 .zip、.rar、.cbz、.cbr 的简单库.
-
----
-
-### Videos
-
-#### Important Talks
-
-- [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-- [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
-- [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
-- [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
-- [Pete Hunt: Be Predictable, Not Correct - Mountain West JavaScript 2014](https://www.youtube.com/watch?v=h3KksH8gfcQ)
-- [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
-- [Christopher Chedeau: Why does React Scale? - JSConf2014](https://www.youtube.com/watch?v=D-ioDiacTm8)
-- [Christopher Chedeau: React's Architecture - OSCON 2014](https://www.youtube.com/watch?v=eCf5CquV_Bw)
-- [Pete Hunt: React RESTful UI Rendering - Strange Loop 2014](https://www.youtube.com/watch?v=IVvHPPcl2TM)
-- [Pete Hunt: How Instagram.com Works - OSCON 2014](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
-- [Bill Fisher and Jing Chen: React and Flux - NewCircle Training 2014](https://www.youtube.com/watch?v=i__969noyAM)
-- [Sebastian Markbage: Minimal API Surface Area - JSConf EU 2014](https://www.youtube.com/watch?v=4anAwXYqLG8)
-- [Avik Chaudhuri: JavaScript Testing and Static Type Systems at Scale - Scale 2014](https://www.youtube.com/watch?v=M8x0bc81smU)
-- [React Native & Relay: Bringing Modern Web Techniques to Mobile - f8 2015)](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
-- [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
-- [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
-- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
-- [React Conferences](https://react.dev/community/conferences)
-- [React Videos](https://react.dev/community/videos)
-- [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
-- [React.js Talks on GitNation Portal](https://portal.gitnation.org/tags/react)
-
-#### [React.js Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr)
-
-#### [ReactEurope Conf 2015 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0Phxld2dD4tM4xPMxJCiRD)
-
-#### [ReactEurope Conf 2015 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK3HvUSAHpt-LRJkIK8pQG6R)
-
-#### [ReactRally Conf 2015 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zZhHy-G8hPNZTvx_M35loXQ)
-
-#### [React.js Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
-
-#### [React Amsterdam 2016 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMG3uLrm5fgY02hJ87Wzb4IU)
-
-#### [ReactEurope Conf 2016 Day 1 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa)
-
-#### [ReactEurope Conf 2016 Day 2 Playlist](https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof)
-
-#### [ReactRally Conf 2016 Playlist](https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ)
-
-#### [React Conf 2017 Playlist](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
-
-#### [React.js Amsterdam 2018 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm)
-
-#### [React Amsterdam 2019 Playlist](https://www.youtube.com/playlist?list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc)
-
-#### [React Summit Remote Edition 2020 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2020)
-
-#### [React Summit 2020 Playlist](https://portal.gitnation.org/events/react-summit-2020)
-
-#### [React Summit 2021 Playlist](https://portal.gitnation.org/events/react-summit-remote-edition-2021)
-
----
+- [realm-js](https://github.com/realm/realm-js) - 移动数据库：SQLite 和键值存储的替代方案
+- [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - React Native iOS 和 Android 的设备信息
 
 ### Contribution
 

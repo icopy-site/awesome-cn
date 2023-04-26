@@ -1,15 +1,23 @@
 <div class="github-widget" data-repo="maehr/awesome-digital-history"></div>
 ## Awesome Digital History [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="https://raw.githubusercontent.com/maehr/awesome-digital-history/master/android-chrome-512x512.png" align="right" width="100">](https://maehr.github.io/awesome-digital-history/)
+[<img src="https://raw.githubusercontent.com/maehr/awesome-digital-history/master/static/favicon.png" align="right" width="100">](https://maehr.github.io/awesome-digital-history/)
 
 &gt; 在线查找主要资源并学习如何以数字方式研究历史.
 
 寻找文本和多媒体的帮助 [primary sources](https://en.wikipedia.org/wiki/Primary_source) 重点放在西半球以及 19 世纪和 20 世纪. 以数字方式探索历史的课程和学习工具.
 
+**公告**
+
+查看我们的新网站 [awesome-digital-history.pages.dev](https://awesome-digital-history.pages.dev/) 具有更多信息、过滤器和搜索功能.
+
 
 
 ## Archives and primary sources
+
+### Asia
+
+- [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles 是亚洲地区外国贸易商的参考书，由香港日报出版社每年出版，出版时间为 1863 年至 1941 年.
 
 ### Austria
 
@@ -58,7 +66,7 @@
 
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - 计算机代码、参考手册和杂志.
 - [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - 保存早期个人计算机杂志中的信息.
-- [Fxtop.com](https://fxtop.com/) - 自 1953 年以来的外汇汇率历史.
+- [Fxtop](https://fxtop.com/) - 自 1953 年以来的外汇汇率历史.
 - [Got Papers?](https://gotpapers.scene.org/?page_id=73) - 有关游戏历史、破解和演示的资源.
 - [Internet Archive](https://archive.org/) - 包含数百万本免费书籍、电影、软件、音乐、网站等的非营利性图书馆.
 - [Karlsruher Virtueller Katalog](https://kvk.bibliothek.kit.edu/) - 用于在全球目录中查找数亿媒体的图书搜索引擎.
@@ -75,47 +83,48 @@
 ### Great Britain
 
 - [British Library](https://www.bl.uk/catalogues-and-collections/digital-collections) - 地图、手稿和声音.
-- [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - 伦敦中央刑事法院，1674 年至 1913 年.
-- [The National Archives](https://www.nationalarchives.gov.uk/) - 一个非内阁部门，以及英国政府、英格兰和威尔士的官方档案馆和出版商.
+- [National Records of Scotland](https://www.nrscotland.gov.uk/) - 苏格兰公共和法律记录的存储库.
 - [NLS](https://data.nls.uk/data/) - 来自苏格兰国家图书馆的数据收藏.
-- [National Records of Scotland](https://www.nrscotland.gov.uk/) - Collect, preserve and produce information about Scotland's people and history and make it available to inform current and future generations.
+- [The National Archives](https://www.nationalarchives.gov.uk/) - 一个非内阁部门，以及英国政府、英格兰和威尔士的官方档案馆和出版商.
+- [The Proceedings of the Old Bailey](https://www.oldbaileyonline.org/) - 伦敦中央刑事法院，1674 年至 1913 年.
 
 ### Netherlands
 
-- [Delpher](https://www.delpher.nl/) - 超过 1 亿页的荷兰报纸、书籍和杂志.
-- [Nationaal Archief](https://www.nationaalarchief.nl/) - 荷兰国家档案馆包括 137 公里的文件、1500 万张照片和近 300,000 幅历史地图和图纸以及 800 TB 的数字文件.
+- [Delpher](https://www.delpher.nl/) - 荷兰报纸、书籍和杂志.
+- [Nationaal Archief](https://www.nationaalarchief.nl/) - Rich collection of the National Archives of the Netherlands.
 
 ### North America
 
-- [Ad\*Access](https://repository.duke.edu/dc/adaccess) - 超过 7,000 个美国和加拿大广告，涵盖五个产品类别 - 美容与卫生、广播、电视、交通和二战宣传 - 日期为 1911 年至 1955 年.
+- [Ad\*Access](https://repository.duke.edu/dc/adaccess) - 美国和加拿大的广告，涵盖五个产品类别 - 美容与卫生、广播、电视、交通和二战宣传 - 日期为 1911 年至 1955 年.
 - [Chronicling America](https://chroniclingamerica.loc.gov/) - 1777-1963 年美国的历史报纸.
 - [Computer Gaming World Museum](https://www.cgwmuseum.org/) - 各种游戏杂志的存档.
-- [David Rumsey Map Collection](https://www.davidrumsey.com/) - 超过 94,000 张地图和相关图像.
+- [David Rumsey Map Collection](https://www.davidrumsey.com/) - 历史地图收藏.
 - [Digital Public Library of America](https://dp.la/) - 发现工具或联合目录，用于美国档案馆、图书馆、博物馆和其他文化遗产机构持有的公共领域和公开许可的内容.
-- [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - 国际 LGBTQ+ 关联数据词汇表.
+- [Digital Transgender Archive](https://www.digitaltransgenderarchive.net/) - 范围广泛的与跨性别相关的数字化历史资料、原生数字资料以及世界各地的档案馆藏信息.
 - [Eugenics Archive](https://eugenicsarchive.ca/) - 挑战优生学的学者、幸存者、学生和社区合作伙伴.
-- [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - 超过 250,000 张地图.
+- [HathiTrust](https://www.hathitrust.org) - 学术和研究图书馆的非营利合作，保存并提供数百万数字化项目.
 - [National Archives](https://www.archives.gov/) - 有关退伍军人记录、建国文件和美国总统图书馆的官方档案.
+- [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) - 在线收集扫描地图.
 - [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) - 探索 1800 年至大萧条期间女性对美国经济生活的影响.
 - [World Digital Library](https://www.wdl.org/) - WDL 是由联合国教科文组织和美国国会图书馆运营的国际数字图书馆.
 
 ### Switzerland
 
 - [Amtsdruckschriften](https://www.amtsdruckschriften.bar.admin.ch/) - 联邦公报、联邦当局行政判例法和瑞士联邦档案馆的更多文件.
-- [Année Politique Suisse](https://anneepolitique.swiss/) - 有关瑞士政治和社会发展的资料.
+- [Année Politique Suisse](https://anneepolitique.swiss/) - 瑞士社会政治话题的来源和数据库.
+- [arCHeco](https://www.archeco.info/) - 瑞士和列支敦士登档案馆的经济收藏索引.
 - [Archives Online](https://www.archives-online.org/) - 瑞士档案搜索引擎.
 - [chgov](https://www.chgov.bar.admin.ch/) - 联邦委员会会议记录（1848-1963 年）.
-- [arCHeco](https://www.archeco.info/) - 瑞士和列支敦士登档案馆的经济收藏索引.
 - [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV 包括 1968 年苏黎世夏季活动的数字版.
 - [DigiBern](https://www.digibern.ch/) - 互联网上的伯尔尼文化和历史.
 - [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - 瑞士的外交文件.
-- [e-codices](http://e-codices.ch/) - 瑞士虚拟手稿图书馆，包含来自 92 个不同馆藏的 2297 份手稿.
+- [e-codices](http://e-codices.ch/) - 瑞士的虚拟手稿图书馆.
 - [e-gs](https://www.e-gs.ethz.ch/) - ETH Zurich Graphics Collection 的在线门户网站.
 - [e-manuscripta](https://www.e-manuscripta.ch/) - 来自瑞士图书馆和档案馆的手稿材料.
 - [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch/) - 瑞士报纸.
 - [E-Periodica](https://www.e-periodica.ch/) - 瑞士期刊.
 - [e-rara](https://www.e-rara.ch/) - 来自瑞士图书馆的数字化稀有书籍平台.
-- [histHub](https://histhub.ch/) - 所有主要标准化数据 API 的搜索引擎.
+- [histHub](https://histhub.ch/) - 该平台管理瑞士历史的权威文件.
 - [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) - 瑞士历史百科全书.
 - [HSSO](https://hsso.ch/) - 瑞士在线历史统计数据.
 - [impresso](https://impresso-project.ch/) - 瑞士国家图书馆、卢森堡国家图书馆、新苏黎世报、Le Temps、瓦莱州档案馆和瑞士经济档案馆的历史报纸收藏.
@@ -124,7 +133,8 @@
 - [Kartenportal](http://www.kartenportal.ch/) - 地图搜索引擎.
 - [Le Temps](https://www.letempsarchives.ch/) - Gazette de Lausanne 和 Journal de Genève 档案馆.
 - [map.geo.admin.ch](https://map.geo.admin.ch/) - 通过瑞士地图穿越时空.
-- [MEMOBASE](http://www.memobase.ch/) - 提供对来自 67 个瑞士记忆机构的 415,634 份视听文件的访问.
+- [MEMOBASE](http://www.memobase.ch/) - 提供对瑞士记忆机构的视听文件的访问.
+- [Sammlung Schweizerischer Rechtsquellen online](https://www.ssrq-sds-fds.ch/projekte/ssrq-online/)  - 瑞士法律来源的 Retrodigitized 和数字版单位. 编辑了中世纪至近代早期（1798年）的法律史料.
 - [Schweizerisches Wirtschaftsarchiv](https://ub.unibas.ch/de/historische-bestaende/wirtschaftsarchive/) - 该馆藏包括从 1750 年至今的 500 多个商业档案，重点是巴塞尔地区.
 - [swisscollections](https://swisscollections.ch/) - 瑞士图书馆和档案馆历史和现代馆藏的元搜索引擎.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - 联邦委员会向议会报告过去几年的收支情况.
@@ -133,25 +143,25 @@
 
 - [AdFontes](https://www.adfontes.uzh.ch/) - 在档案中使用资源的介绍.
 - [Clio Guide](https://guides.clio-online.de/) - 历史科学数字资源手册.
-- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - 为历史学家——教师和学生、档案保管员和博物馆馆长、教授以及业余爱好者——介绍网络，他们希望制作在线历史作品，或者在这个重要的新媒体中建立和改进他们已经开始的项目.
+- [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - 数字历史方法和读物手册.
+- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - 为希望制作在线历史作品的历史学家介绍网络.
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - 打开 HGIS 课程和资源.
-- [HIST3814o](http://workbook.craftingdigitalhistory.ca/) - 卡尔顿大学肖恩格雷厄姆的数字历史方法和读物.
-- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 东北大学 Cameron Blevins 的数字历史方法和读物.
-- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 您将学习如何批判性地分析历史条件、发展、模式和断裂——或者，如何对这些提出质疑.
-- [Local Linkages](https://locallinkages.org/) - 如何构建关于过去的问题，确定回答这些问题的来源，将它们置于上下文中，并以数字形式在线呈现历史解释.
+- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 数字历史方法和读物在线课程.
+- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 学生历史工具包.
+- [Local Linkages](https://locallinkages.org/) - 介绍历史研究方法和数字历史技能的专业发展课程.
+- [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - Jupyter Book（德语）面向正在寻找 Python 编程语言的第一个面向应用程序和交互式介绍的历史学家.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.
 - [The Programming Historian](https://programminghistorian.org/) - 对新手友好、经过同行评审的教程，可帮助人文主义者学习各种数字工具、技术和工作流程，以促进研究和教学.
-- [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - Jupyter Book（德语）面向正在寻找 Python 编程语言的第一个面向应用程序和交互式介绍的历史学家.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - 数字历史和数字人文领域概述.
 - [We think History](https://wethink.hypotheses.org/) - 关于数字历史的新闻和创新.
 
 ## More Awesome
 
 - [Computer History](https://github.com/watson/awesome-computer-history) - 计算机历史视频、纪录片和相关民间传说的精彩列表.
-- [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - 精选的开源数据可视化框架、库和软件列表.
 - [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - 支持数字人文的工具、资源和服务.
-- [Research Tools](https://github.com/emptymalei/awesome-research#readme)
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
+- [Research Tools](https://github.com/emptymalei/awesome-research#readme) - 研究工具列表.
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - 科学写作可以超越 LaTeX，这可以通过 Markdown（及其多种风格）、reStructuredText 和 Jupyter 笔记本等格式实现.
 - [Tempopedia](https://tempopedia.org/) - 数字历史目录.
 
 ## Contribute

@@ -103,10 +103,12 @@
 - [HydraPaper](https://hydrapaper.gabmus.org/) - 为每台显示器设置不同的背景.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - 用于编辑 GNOME 的 XML 壁纸的实用程序
 - [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - MacOS 画廊，如动态壁纸，以及安装它们的简单脚本
+- [GDM Settings](https://gdm-settings.github.io) - GDM 的设置应用程序（GNOME 的登录屏幕又名 GNOME 显示管理器）.
+- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) 皮肤安装程序.
 
 ### Utilities
 
-- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - Translate text. ![GNOME Circle][GNOME Circle]
+- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/)  - 翻译文本.  ![GNOME 圈子][GNOME 圈子]
 - [Markets](https://apps.gnome.org/app/com.bitstower.Markets/)  - 跟踪您的投资.  ![GNOME 圈子][GNOME 圈子]
 - [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/)  - 分享您的计算机音频.  ![GNOME 圈子][GNOME 圈子]
 - [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/)  - 控制您的 Elgato Stream Decks.  ![GNOME 圈子][GNOME 圈子]
@@ -190,7 +192,7 @@
 - [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) - 表情符号选择器小程序.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - todo.txt 的界面.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) - 一个 todo.txt 管理器、时间跟踪器、计时器、秒表、番茄钟和闹钟.
-- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE 连接实施.
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator 系统托盘.
 
 ### Windows

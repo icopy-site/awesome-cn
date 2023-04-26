@@ -108,7 +108,7 @@
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) - React Native 特定的 linting 规则.
   - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux 特定的 linting 规则.
 - [Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) - Solid 和 JSX 的 Linting 规则.
-- [Svelte](https://github.com/sveltejs/eslint-plugin-svelte3) - Svelte v3 组件的 Linting 规则.
+- [Svelte](https://github.com/sveltejs/eslint-plugin-svelte) - Svelte v3 组件的 Linting 规则.
 - 看到
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) - VueJS 的插件.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) - VueJS 中作用域 CSS 的插件.

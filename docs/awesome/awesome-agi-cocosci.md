@@ -10,7 +10,7 @@
 
  **人工智能**的**精彩和精选**列表，这是一个新兴的跨学科领域，结合了人工智能和计算认知科学作为多数，单独与概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们通过从人类学习和思考的方式中获得灵感，同时对人类认知有更深层次的理解，从而推动高水平的机器智能. 我们相信，这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，这些都是人类智能的标志.
 
- ***Awesome AGI &amp; CoCoSci*** 是一个一体化的合集，包括从基础课程和教程到从多角度围绕不同主题的论文和书籍的资源. 初级和高级研究人员，无论是学习、从事 AGI 还是围绕 AGI 工作，都能在这里满足他们的兴趣.
+ ***Awesome AGI &amp; CoCoSci*** 是一个一体化的合集，包括从基础课程和教程到从多角度围绕不同主题的论文和书籍的资源. 初级和高级研究人员，无论是学习、从事 AGI 和 CoCoSci 还是围绕 AGI 和 CoCoSci 工作，都能在这里满足他们的兴趣.
 
 
 
@@ -87,7 +87,7 @@
 
 * [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 从原始论文数据中提取特征和元数据的语义学者.
 
-* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
+* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5) ].  Semantic Sc​​holar 发布的学术论文开放语料库.
 
 * [Litmaps](https://www.litmaps.com/)  - ***Litmap 有限公司***. 用于交互式文献地图构建和链接文档管理.
 
@@ -740,7 +740,7 @@
 
 #### Neural-Symbolic AI
 
-* [Regression Analysis for Interval-Valued Data](https://link.springer.com/chapter/10.1007/978-3-642-59789-3_58) - ***数据分析、分类和相关方法***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=9407097855380377791&hl=en&as_sdt=0,5) ]. 关于符号回归的原始论文.
+* [Regression Analysis for Interval-Valued Data](https://link.springer.com/chapter/10.1007/978-3-642-59789-3_58) - ***数据分析、分类和相关方法***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=9407097855380377791&hl=en&as_sdt=0,5)]. The original paper on symbolic regression.
 
 * [Symbolic data analysis: what is it?](https://link.springer.com/chapter/10.1007/978-3-7908-1709-6_20) - ***计算统计论文集***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=3730437602749399283&hl=en&as_sdt=0,5)].
 
@@ -1113,7 +1113,7 @@
 
 * [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/~cs298-7/fa20/readings/kuhn.pdf) - ***芝加哥大学出版社：芝加哥***，1970 年. [[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063&hl=en&as_sdt=0,5) ]. 托马斯·库恩 (Thomas Kuhn) 关于科学范式的出现和转变的原著.
 
-* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***Sociological Theory***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5) ]. 关于社会科学中“理论”定义的哲学解释（也可以推广到自然科学）.
+* [The Meaning of "Theory"](https://jamacoartney.net/Abend%20(2008).pdf) - ***社会学理论***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131&hl=en&as_sdt=0,5) ]. 关于社会科学中“理论”定义的哲学解释（也可以推广到自然科学）.
 
 * [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***在线创新方法***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
@@ -1525,7 +1525,7 @@
 
 * [Sense-Data](https://plato.stanford.edu/entries/sense-data/) - ***柏拉图·斯坦福***.
 
-* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附于另一组 B，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
+* [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
@@ -2053,6 +2053,6 @@
 
 ## About
 
-The [initiator](https://github.com/YuzheSHI) 这个 repo 一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向形而上学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** ---每个主题都描述了一种智能现象，或者一种智能行为---它们展示了计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
+The [initiator](https://github.com/YuzheSHI) 这个 repo 一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向形而上学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题的收集也或多或少带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！
+Obviously, this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of the literature reviews when the initiator is working on Abduction and Bayesian modeling, other topics are also collected with biases, more or less. Abduction may be the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings, and applications to AI. Please feel free to reach out!
