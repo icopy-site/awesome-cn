@@ -930,7 +930,7 @@ _用于处理表单的库._
 - [form](https://github.com/go-playground/form)  - 将 url.Values 解码为 Go 值并将 Go 值编码为 url.Values. 双阵列和全地图支持.
 - [formam](https://github.com/monoculum/formam) - 将表单的值解码为结构.
 - [forms](https://github.com/albrow/forms) - 与框架无关的库，用于解析和验证支持多部分表单和文件的表单/JSON 数据.
-- [gbind](https://github.com/bdjimmy/gbind)  - 将数据绑定到任何 Go 值. 可以使用内置和自定义表达式绑定功能； 支持数据验证
+- [gbind](https://github.com/bdjimmy/gbind)  - 将数据绑定到任何 Go 值. 可以使用内置和自定义表达式绑定功能； 支持数据校验
 - [gorilla/csrf](https://github.com/gorilla/csrf) - 对 Go web 应用程序和服务的 CSRF 保护.
 - [httpin](https://github.com/ggicci/httpin) - 将 HTTP 请求解码为自定义结构，包括查询字符串、表单、HTTP 标头等.
 - [nosurf](https://github.com/justinas/nosurf) - Go 的 CSRF 保护中间件.
@@ -1203,7 +1203,7 @@ _用于调度作业的库._
 - [clockwerk](https://github.com/onatm/clockwerk) - Go 包使用简单、流畅的语法来安排定期作业.
 - [cronticker](https://github.com/krayzpipes/cronticker) - 支持 cron 计划的自动收报机实施.
 - [Dagu](https://github.com/dagu-go/dagu)  - 无代码工作流执行器. 它执行以简单的 YAML 格式定义的 DAG.
-- [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以在特定日期和时间以不同的时间间隔执行闭包或函数，从每秒一次到每年一次. 主要用于 Web 应用程序和长时间运行的守护进程.
+- [go-cron](https://github.com/rk/go-cron)  - 用于 go 的简单 Cron 库，可以以不同的时间间隔执行闭包或函数，从每秒一次到每年一次在特定日期和时间执行. 主要用于 Web 应用程序和长时间运行的守护进程.
 - [go-quartz](https://github.com/reugn/go-quartz) - 用于 Go 的简单、零依赖的调度库.
 - [gocron](https://github.com/go-co-op/gocron)  - 简单流畅的 Go 作业调度. 这是一个积极维护的分支 [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron).
 - [goflow](https://github.com/fieldryand/goflow) - 用于快速制作 ETL/ML/AI 管道原型的工作流编排器和调度器.
@@ -1282,7 +1282,7 @@ _用于生成和使用日志文件的库._
 - [log](https://github.com/aerogo/log) - 一个 O(1) 日志系统，允许您将一个日志连接到多个写入器（例如标准输出、文件和 TCP 连接）.
 - [log](https://github.com/apex/log) - Go 的结构化日志记录包.
 - [log](https://github.com/go-playground/log) - 用于 Go 的简单、可配置和可扩展的结构化日志记录.
-- [log](https://github.com/teris-io/log) - Go 的结构化日志接口将日志外观与其实现完全分开.
+- [log](https://github.com/teris-io/log) - Go 的结构化日志接口将日志外观与其实现完全分离.
 - [log](https://github.com/heartwilltell/log) - 围绕标准日志包的简单分级日志包装器.
 - [log](https://github.com/no-src/log) - 开箱即用的简单日志记录框架.
 - [log-voyage](https://github.com/firstrow/logvoyage) - 用 golang 编写的全功能日志记录 saas.
@@ -1310,6 +1310,7 @@ _用于生成和使用日志文件的库._
 - [slf4g](https://github.com/echocat/slf4g)  - Simple Logging Facade for Golang：简单的结构化日志记录； 但功能强大、可扩展和可定制，从过去几十年的日志框架中汲取了大量经验.
 - [slog](https://github.com/gookit/slog) - 用于 Go 的轻量级、可配置、可扩展的记录器.
 - [slog-formatter](https://github.com/samber/slog-formatter) - 用于构建您自己的 slog 和助手的通用格式化程序.
+- [slog-multi](https://github.com/samber/slog-multi) - slog.Handler 链（管道、扇出...）.
 - [spew](https://github.com/davecgh/go-spew) - 为 Go 数据结构实现深度漂亮打印机以帮助调试.
 - [sqldb-logger](https://github.com/simukti/sqldb-logger) - Go SQL 数据库驱动程序的记录器，无需修改现有的 \*sql.DB stdlib 用法.
 - [stdlog](https://github.com/alexcesaro/log)  - Stdlog 是一个面向对象的库，提供分级日志记录. 它对 cron 作业非常有用.
@@ -1674,7 +1675,7 @@ _用于处理网络各层的库._
 - [grab](https://github.com/cavaliercoder/grab) - 用于管理文件下载的 Go 包.
 - [graval](https://github.com/koofr/graval) - 实验性 FTP 服务器框架.
 - [HTTPLab](https://github.com/gchaincl/httplab) - HTTPLabs 让您检查 HTTP 请求并伪造响应.
-- [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号器.
+- [httpproxy](https://github.com/wzshiming/httpproxy) - HTTP 代理处理程序和拨号程序.
 - [iplib](https://github.com/c-robinson/iplib) - 用于处理 IP 地址（net.IP、net.IPNet）的库，受 python 启发 [ipaddress](https://docs.python.org/3/library/ipaddress.html) 和红宝石 [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
 - [jazigo](https://github.com/udhos/jazigo) - Jazigo 是一个用 Go 编写的工具，用于检索多个网络设备的配置.
 - [kcp-go](https://github.com/xtaci/kcp-go) - KCP - 快速可靠的 ARQ 协议.
@@ -2061,7 +2062,7 @@ _用于测试代码库和生成测试数据的库._
   - [gocrest](https://github.com/corbym/gocrest) - 用于 Go 断言的可组合的类似 hamcrest 的匹配器.
   - [godog](https://github.com/cucumber/godog) - Go 的 Cucumber BDD 框架.
   - [gofight](https://github.com/appleboy/gofight) - Golang 路由器框架的 API 处理程序测试.
-  - [gogiven](https://github.com/corbym/gogiven) - 适用于 Go 的类似 YATSPEC 的 BDD 测试框架.
+  - [gogiven](https://github.com/corbym/gogiven) - 用于 Go 的类似 YATSPEC 的 BDD 测试框架.
   - [gomatch](https://github.com/jfilipczyk/gomatch) - 为根据模式测试 JSON 而创建的库.
   - [gomega](https://onsi.github.io/gomega/) - Rspec 类似匹配器/断言库.
   - [Gont](https://github.com/stv0g/gont) - 用于使用 Linux 命名空间测试构建复杂网络拓扑的 Go 网络测试工具包.
@@ -2176,7 +2177,7 @@ _用于解析和操作文本的库._
 - [gonameparts](https://github.com/polera/gonameparts) - 将人名解析为单独的名称部分.
 - [ltsv](https://github.com/Wing924/ltsv) - 高性能 [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) Go 的阅读器.
 - [normalize](https://github.com/avito-tech/normalize) - 清理、规范化和比较模糊文本.
-- [omniparser](https://github.com/jf-tech/omniparser) - 一个通用的 ETL 库，以流方式解析文本输入（CSV/txt/JSON/XML/EDI/X12/EDIFACT/等），并使用数据驱动模式将数据转换为 JSON 输出.
+- [omniparser](https://github.com/jf-tech/omniparser) - 一个通用的 ETL 库，以流方式解析文本输入（CSV/txt/JSON/XML/EDI/X12/EDIFACT/等）并使用数据驱动模式将数据转换为 JSON 输出.
 - [parseargs-go](https://github.com/nproc/parseargs-go) - 理解引号和反斜杠的字符串参数解析器.
 - [parth](https://github.com/codemodus/parth) - URL路径分段解析.
 - [sdp](https://github.com/gortc/sdp) - SDP：会话描述协议 [[RFC 4566](https://tools.ietf.org/html/rfc4566)].
@@ -2275,7 +2276,7 @@ _用于访问第三方 API 的库._
 - [go-trending](https://github.com/和ygrunwald/go-trending) - 去图书馆访问 [trending repositories](https://github.com/trending) 和 [developers](https://github.com/trending/developers) 在 Github.
 - [go-twitter](https://github.com/dghubble/go-twitter) - 用于 Twitter v1.1 API 的客户端库.
 - [go-unsplash](https://github.com/hbagdi/go-unsplash) - 去客户端库 [Unsplash.com](https://unsplash.com) 应用程序接口.
-- [go-xkcd](https://github.com/nishanths/go-xkcd) - xkcd API 的 Go 客户端.
+- [go-xkcd](https://github.com/nishanths/go-xkcd) - XKCD API 的 Go 客户端.
 - [go-yapla](https://git.iglou.eu/Production/go-yapla) - 用于 Yapla v2.0 API 的客户端库.
 - [goagi](https://github.com/staskobzar/goagi) - 转到库以构建 Asterisk PBX agi/fastagi 应用程序.
 - [goami2](https://github.com/staskobzar/goami2) - Asterisk PBX 的 AMI v2 库.
@@ -2682,7 +2683,7 @@ _全栈网络框架._
 - [Goji](https://github.com/goji/goji) - Goji 是一个简约而灵活的 HTTP 请求多路复用器，支持 `net/context`.
 - [GoLobby/Router](https://github.com/golobby/router) - GoLobby Router 是用于 Go 编程语言的轻量级但功能强大的 HTTP 路由器.
 - [goroute](https://github.com/goroute/route) - 简单而强大的 HTTP 请求多路复用器.
-- [GoRouter](https://github.com/vardius/gorouter) - GoRouter 是一个服务器/API 微框架、HTTP 请求路由器、多路复用器、多路复用器，它为请求路由器提供支持 `net/context` 的中间件.
+- [GoRouter](https://github.com/vardius/gorouter) - GoRouter 是一个服务器/API 微框架、HTTP 请求路由器、多路复用器、mux，它为请求路由器提供支持 `net/context` 的中间件.
 - [gowww/router](https://github.com/gowww/router) - 闪电般快速的 HTTP 路由器与 net/http.Handler 接口完全兼容.
 - [httprouter](https://github.com/julienschmidt/httprouter)  - 高性能路由器. 使用这个和标准的 http 处理程序来形成一个非常高性能的 web 框架.
 - [httptreemux](https://github.com/dimfeld/httptreemux)  - 用于 Go 的高速、灵活的基于树的 HTTP 路由器. 来自 httprouter 的灵感.
@@ -2748,7 +2749,7 @@ _源代码分析工具，也称为静态应用程序安全测试 (SAST) 工具._
 - [errcheck](https://github.com/kisielk/errcheck) - Errcheck 是一个用于检查 Go 程序中未检查错误的程序.
 - [gcvis](https://github.com/davecheney/gcvis) - 实时可视化 Go 程序 GC 跟踪数据.
 - [go-checkstyle](https://github.com/qiniu/checkstyle)  - checkstyle 是一个类似java checkstyle 的样式检查工具. 这个工具的灵感来自 java checkstyle，golint. 风格参考了 Go Code Review Comments 中的一些要点.
-- [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - 创建 go-cleanarch 是为了验证 Clean Architecture 规则，例如 The Dependency Rule 和 Go 项目中包之间的交互.
+- [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch 的创建是为了验证 Clean Architecture 规则，例如 The Dependency Rule 和 Go 项目中包之间的交互.
 - [go-critic](https://github.com/go-critic/go-critic) - 源代码 linter，带来当前未在其他 linter 中实现的检查.
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - 一种查找 Go 项目过时依赖项的简单方法.
 - [go-outdated](https://github.com/firstrow/go-outdated) - 显示过时包的控制台应用程序.
@@ -3189,7 +3190,7 @@ _在此处添加您所在城市/国家/地区的群组（发送 **PR**）_
 
 - [Awesome Go @LibHunt](https://go.libhunt.com) - 您的首选 Go 工具箱.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) - 精选的 golang 研讨会列表.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作清单. 他们中的很多人都在寻找 Go 黑客.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)  - 精选的远程工作列表. 他们中的很多人都在寻找 Go 黑客.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 其他令人惊叹的列表列表.
 - [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) - 解析 awesome-go README 文件并生成一个带有 repo 信息的新 README 文件.
 - [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - 软件工程师和博客@codewithmukesh.com.

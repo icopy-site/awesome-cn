@@ -295,7 +295,7 @@
 * [PySal](https://github.com/pysal/pysal) - Python 空间分析库.
 
 ## Quantum Computing
-* [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/Qiskit/qiskit) - Qiskit 是一个开源 SDK，用于在电路、算法和应用程序模块级别与量子计算机配合使用.
+* [qiskit](https://github.com/Qiskit/qiskit) - Qiskit 是一个开源 SDK，用于在电路、算法和应用程序模块级别与量子计算机配合使用.
 * [cirq](https://github.com/quantumlib/Cirq) - 用于创建、编辑和调用噪声中级量子 (NISQ) 电路的 python 框架.
 * [PennyLane](https://github.com/XanaduAI/pennylane) - 量子机器学习、自动微分和混合量子经典计算的优化.
 * [QML](https://github.com/qmlcode/qml) - 用于量子机器学习的 Python 工具包.
