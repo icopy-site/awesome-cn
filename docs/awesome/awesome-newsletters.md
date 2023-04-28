@@ -25,7 +25,7 @@
 
 - [Labnotes](https://labnotes.org/) . 每周一封关于软件开发、技术和其他有趣内容的电子邮件.
 - [Web Development Reading List](https://wdrl.info) . 本通讯分享网络开发的最新文章.
-- [Pony Foo Weekly](https://ponyfoo.com/weekly) . 每周一次的时事通讯，围绕网络平台讨论有趣和流行的话题. [Archive](https://ponyfoo.com/weekly/history).
+- [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
 - [JAMstacked](https://jamstack.email/) . 关于不断发展的 JAMstack 生态系统的电子邮件更新.
 - [FreeCodeCamp](https://www.freecodecamp.org) . 每周从 FreeCodeCamp 学习平台中选择五篇文章、视频或整个课程.
 - [Codrops](https://tympanus.net/codrops/) . 关于 Web 开发和设计中定性新项目和库的每周新闻.
@@ -90,13 +90,13 @@
 
 - [Web Design Weekly](https://web-design-weekly.com/) . 只是纯粹的超赞链接，指向本周在互联网上发布的最佳新闻和文章.
 - [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
-- [Web Designer News](https://www.webdesignernews.com) . 为设计师精心策划的故事.
+- [Web Designer News](https://www.webdesignernews.com). Curated stories for designers.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 每周一次的免费的响应式设计文章、工具、技巧、教程和鼓舞人心的链接汇总.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 关于界面可用性、网站设计和 UX 研究的最新文章.
 - [UI Movement](https://uimovement.com) . 只有最好的 UI 设计灵感，就在您的收件箱中.
 - [Designer News](https://www.designernews.co) . 设计界聚会的地方.
 - [Design Faves](https://www.designfaves.com/) . 每日帖子和独家文章结合了来自品牌、艺术和平面设计领域的最佳现代表达和创新.
-- [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
+- [Hack Design](https://hackdesign.org) . 一个简单易懂的设计课程，适合那些做令人惊奇的事情的人.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
@@ -385,7 +385,7 @@
 ## Marketing
 
 - [tldrMarketing](https://tldrmarketing.com) . 轻松获取有关数字营销的最新突发新闻和趋势.
-- [Zero to Marketing](https://zerotomarketing.com/) . 每周一封电子邮件，其中包含 5 分钟的案例研究和可操作的提示.
+- [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 - [The Content Odyssey](https://newsletter.mktodyssey.com/) . 每两周进行一次久经考验的内容增长实验.
 
 ## Business/Finance
@@ -416,7 +416,7 @@
 - [HN Mail](https://hnmail.io) . 可定制的每周时事通讯，根据您的兴趣提供 Hacker News 故事.
 - [Senior Mindset](https://seniormindset.com) . 获取一系列关于高级软件工程师心态的精选文章.
 - [Weekly Robotics](https://weeklyrobotics.com/) . 每周一次的时事通讯，其中包含与机器人技术相关的新闻、项目和研究.
-- [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+- [Future Crunch](https://futurecrunch.com) . 每两周一次的时事通讯，包含您在科学、环境和世界各地听不到的所有好消息. 你可以看到他们的好消息 [here](https://futurecrun.ch/goodnews).
 
 ## Resilience
 
@@ -439,20 +439,21 @@
 - [Data Is Plural](https://tinyletter.com/data-is-plural) . 每周一次的有用/好奇数据集通讯.
 - [Founders Grid](https://smash.vc/founders-grid/) . 面向初创公司创始人的每周时事通讯，汇集了初创公司生态系统中的最佳资源.
 - [Changelog Nightly](https://changelog.com/nightly) . 每晚 10 点 CT 发送一封电子邮件，发掘 GitHub 上最热门的新存储库.
-- [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
+- [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和 Web 应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) .  Linux 内核邮件列表线程的每周综述，但带有更多讽刺意味.
 - [Kleroteria](https://www.kleroteria.org) . 一个免费的、独特的“彩票”通讯，其中选择了一个订阅者，该订阅者的电子邮件提交被发送给所有其他订阅者. 主题在主题和质量上各不相同.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业精选的知识、灵感和背景故事. 每周一和周四发送到您的收件箱.
 - [Unreadit/Tech](https://unread.it/n/tech/) . 来自 Reddit 上最佳帖子的技术狂热者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 来自最佳 Reddit 帖子的有关创业、成长、投资和初创公司的前沿新闻.
-- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的员工提高生产力.
+- [Tech Productivity](https://techproductivity.co/) .  Tech Productivity 是面向技术专业人士（程序员、开发人员、设计师等）的每周简报. 每期都包含与生产力相关的工具、文章和其他资源的简要列表，可以帮助各个技术相关领域的工作人员提高生产力.
 - [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) . 每周时事通讯，重点关注移动、网络、人工智能、用户界面/用户体验、工作/职业以及与开发人员和行业相关的任何方面的最新信息.
 - [Trending Projects](https://www.trendingprojects.com/) . 每周一封电子邮件，展示 GitHub 上的热门项目.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) . 在 Softwaretalks Newsletter 中，我们每周四发送有关软件工程的文章.  （对于波斯用户）.
 - [Figures](https://joinfigures.com/) . 根据您的最低工资要求获得高薪技术工作.
 - [rendezvous with cassidoo](https://cassidoo.co/newsletter/) . 免费的每周技术时事通讯，其中包含最新的 Web 开发文章、本周的实践技术面试问题、笑话、一些非技术内容等等，每周日晚上/周一早上到达，具体取决于您在世界上的哪个位置.
 - [No-Code Shots](https://nocodeshots.com) . 精心策划的每周时事通讯，将为您带来新闻、更新和有关如何提高无代码技能的提示.
+- [News Minimalist](https://www.newsminimalist.com/) . 精心策划的时事通讯，利用 AI (ChatGPT-4) 仅传递最重要的新闻. 通过每天分析 1000 篇热门文章，它确保订阅者随时了解最新情况，而不会在不重要的更新上浪费时间.
 
 ## License
 

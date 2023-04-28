@@ -94,7 +94,7 @@ _帮助管理多语言网站的插件._
 
 _处理图像、视频和音频内容的附加组件._
 
-* [collective.autoscaling](https://github.com/collective/collective.autoscaling)  - 自动缩放大图像. 当编辑上传太大的图像时，有助于减小数据库大小.
+* [collective.autoscaling](https://github.com/collective/collective.autoscaling)  - 大图像的自动缩放. 当编辑上传太大的图像时，有助于减小数据库大小.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) - 从横幅创建横幅和滑块的行为.
 * [collective.lazysizes](https://github.com/collective/collective.lazysizes) - 集成 lazysizes，一个轻量级的延迟加载器，到 Plone.
 * [collective.wavesurfer](https://github.com/collective/collective.wavesurfer) - 为 Plone 实施 https://wavesurfer-js.org 音频播放器.
@@ -113,8 +113,7 @@ _用于搜索引擎优化的附加组件._
 
 * [bda.plone.gtm](https://github.com/bluedynamics/bda.plone.gtm) - 谷歌标签管理器集成.
 * [collective.behavior.seo](https://github.com/collective/collective.behavior.seo) - 添加用于 SEO 优化的额外字段.
-
-
+* [collective.splitsitemap](https://github.com/collective/collective.splitsitemap) - 在大型公共站点上提供缓存的拆分站点地图.
 
 ## Authentication
 
@@ -135,7 +134,7 @@ _身份验证插件列表，用于将 Plone 与外部用户、Importsources 和 
 
 ## Export, Import and Migrations
 
-* [collective.migrationhelpers](https://github.com/collective/collective.migrationhelpers/) - 在迁移过程中使用的助手和示例.
+* [collective.migrationhelpers](https://github.com/collective/collective.migrationhelpers/) - 迁移期间使用的助手和示例.
 
 
 ## Themes

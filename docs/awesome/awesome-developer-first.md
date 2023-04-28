@@ -169,6 +169,7 @@
 * [Anymail finder](https://anymailfinder.com) - 验证并查找电子邮件 API.
 * [FormSpree](https://formspree.io/) - 通过电子邮件接收表单提交.
 * [Hunter.io](https://hunter.io/) - 电子邮件线索和验证 API.
+* [Imitate Email](https://imitate.email) - 端到端的电子邮件测试工具.
 * [Lob](https://www.lob.com/) - 电子邮件和地址验证.
 * [Mailgun](https://www.mailgun.com/) - 发送、跟踪和接收电子邮件.
 * [Sendgrid](https://sendgrid.com/) - 电子邮件 API.

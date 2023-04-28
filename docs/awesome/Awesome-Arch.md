@@ -38,6 +38,8 @@
 - [Archcraft OS](https://archcraft-os.github.io/) - 一个极简主义的 Linux 发行版，专注于美学并基于 Arch Linux.
 - [Archman](http://archman.org/) - 基于 Arch Linux 的发行版，具有 Calamares 系统安装程序和预配置的桌面环境.
 - [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) - 基于 Arch Linux 的 GNU/Linux 发行版.
+- [Crystal Linux](https://github.com/PandaFoss/Awesome-Arch/blob/master/Https://getcryst.al)  - Crystal Linux 是一个全新的基于 Arch Linux 的发行版. 完全适合初学者，易于使用且功能强大.
+- [CachyOS](https://cachyos.org) - 一个基于 Arch Linux 构建的 GNU/Linux 发行版，它具有优化的 linux-cachyos 内核，利用先进的 BORE 调度程序实现无与伦比的性能.
 - [EndeavourOS](https://endeavouros.com/) - 基于 Arch Linux 的滚动发布 Linux 发行版.
 - [ArchLabs Linux](https://archlabslinux.com/) - 基于 Arch Linux 的发行版，以 Openbox 窗口管理器为主要桌面界面.
 - [Namib GNU/Linux](https://www.namiblinux.org/) - 基于（并兼容）Arch Linux 发行版的桌面操作系统.
@@ -48,14 +50,16 @@
 - [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) - 基于 Arch、Puppy、Porteus 的轻量级、便携且灵活的 Linux.
 - [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) - 一个基于 Arch Linux 的简单 GNU/Linux 发行版，为您提供带有 i3 窗口管理器的稳定 Arch Linux.
 - [Qubes OS (Archlinux Template)](https://www.qubes-os.org/doc/building-archlinux-template/) - 一个以安全为中心的桌面操作系统，旨在通过隔离提供安全性（非官方 Archlinux 模板）.
+- [XeroLinux](https://xerolinux.xyz/) - 一个维护良好的爱好者基于 Arch 的发行版，使用 ArcoLinux 的 ALCI 脚本构建，旨在为您提供稳定的基础，使安装 ArchLinux（使用 Calamares）和优化和定制的 KDE Plasma 变得更简单.
 
 ### Specific purpose
 
 &gt; 基于具有特定用途的 Arch Linux 的 Linux 发行版.
 
+- [BioArchLinux](https://bioarchlinux.org/) - _（生物信息学/生物学）_ 生物学家 Arch 社区和生物软件 Arch 存储库.
 - [BlackArch Linux](https://blackarch.org/) - _（安全/取证）_ - 基于 Arch Linux 的发行版，专为渗透测试人员和安全研究人员设计.
 - [ArchStrike](https://archstrike.org/) - _(Security)_ - 基于 Arch Linux 的面向安全专家和研究人员的发行版.
-- [SystemRescueCd](http://www.system-rescue-cd.org/) - _(Data Rescue)_ - 可启动 CD-ROM 或 USB 驱动器上基于 Arch 的 Linux 系统，设计用于在崩溃后修复系统和数据.
+- [SystemRescueCd](http://www.system-rescue-cd.org/) - _(Data Rescue)_ - An Arch-based Linux system on a bootable CD-ROM or USB drive, designed for repairing a system and data after a crash.
 - [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) - _(Data Rescue)_ - 基于 Arch Linux 的发行版. 
 - [LinHES](http://www.linhes.org/) - _(MythTV)_ - 尝试使 GNU/Linux 和 MythTV 的安装尽可能简单.
 - [UBOS](https://ubos.net/) - _（服务器）_ - 一个 Linux 发行版，旨在大大减少设置和维护公共网络服务所需的时间.
@@ -86,6 +90,7 @@
 
 - [Anarchy](https://anarchyinstaller.gitlab.io) - 一个简单直观的 Arch Linux 安装程序.
 - [Archfi](https://github.com/MatMoul/archfi) - 在官方 Arch Linux 安装介质上启动后，只需一个简单的 bash 脚本向导即可安装 Arch Linux.
+- [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install 包括两个主要脚本，Lilo 和 Fifo，它们简化了 Archlinux Base 的安装过程，以及其他包、工具和图形用户界面.
 
 ## AUR Helpers
 
@@ -106,6 +111,7 @@
 
 ### Pacman wrappers
 
+- [amethyst](https://github.com/crystal-linux/amethyst) (Rust) - 为 Crystal 制作的快速、高效和轻量级的 AUR 帮助器和 Pacman 包装器，与任何基于 Arch 的 Linux 发行版兼容.
 - [Aura](https://github.com/fosskers/aura) (Haskell) - 用于 Arch Linux 和 AUR 的安全、多语言包管理器.
 - [Pacaur](https://github.com/E5ten/pacaur) (Bash) - 最小化用户交互的 AUR 助手.
 - [Pakku](https://github.com/kitsunyan/pakku) (Nim) - 支持 AUR 的 `pacman` 包装器.
@@ -117,7 +123,7 @@
 ### Graphical
 
 - [Argon](https://github.com/14mRh4X0r/arch-argon) (Python | GTK3) - Arch Linux 的轻量级 GUI 包管理器.
-- [Cylon](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro.
+- [Cylon](https://github.com/gavinlyonsrepo/cylon) (Bash | TUI) - 一个 CLI TUI 菜单驱动的 bash shell 脚本，支持基于 Arch 的 Linux 发行版的更新、维护、备份和系统检查.
 - [Pamac](https://gitlab.manjaro.org/applications/pamac) (Vala | GTK3) - Manjaro Linux 的图形包管理器，支持 Alpm、AUR、Appstream、Flatpak 和 Snap.
 - [Pakku GUI](https://gitlab.com/mrvik/pakku-gui) (Python | GTK3) - 使用 `pakku` 的（安装|删除|升级）包的基本 GTK 接口.
 - [PkgBrowser](https://osdn.net/projects/pkgbrowser) (Python | Qt5) - 用于浏览“pacman”数据库和 AUR 的实用程序.
@@ -129,7 +135,7 @@
 - [aur-out-of-date](https://github.com/simon04/aur-out-of-date) - 确定上游版本的过时 AUR 包.
 - [aurpublish](https://github.com/eli-schwartz/aurpublish) - Arch 用户存储库的 PKGBUILD 管理框架.
 - [devtools](https://git.archlinux.org/devtools.git/) - 用于构建和维护官方存储库包的 Arch Linux 发行版工具.
-- [pkgbuild-watch](http://kmkeen.com/pkgbuild-watch/) - 提醒您注意上游活动.
+- [pkgbuild-watch](http://kmkeen.com/pkgbuild-watch/) - Alerts you to upstream activity.
 - [pkgoutofdate](https://github.com/anatol/pkgoutofdate) - 检查 Arch 包是否过时.
 
 ### Other
@@ -151,6 +157,7 @@
 - [archlinux/base](https://hub.docker.com/r/archlinux/base/) - 基于 Arch Linux 的 docker 镜像.
 - [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - 基于 Arch Linux 的 Amazon EC2 AMI
 - [JuNest](https://github.com/fsquillace/junest) - 基于 Arch Linux 的轻量级发行版，无需 root 权限即可在任何 Linux 发行版上运行.
+- [makepkg-optimize](https://github.com/ptr1337/makepkg-optimize) - pacman 的补充 tidy、buildenv 和可执行脚本的集合，它为 build() 和 package() 阶段的多种优化提供宏.
 
 ## Inactive projects
 
@@ -178,15 +185,21 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/klorophatu"><img src="https://avatars.githubusercontent.com/u/52282861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>klorophatu</b></sub></a><br /><a href="#content-klorophatu" title="Content">🖋</a></td>
-    <td align="center"><a href="https://telesto.ai"><img src="https://avatars.githubusercontent.com/u/28736871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandor Magyar</b></sub></a><br /><a href="#content-nandor-magyar" title="Content">🖋</a></td>
-    <td align="center"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
-    <td align="center"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
-    <td align="center"><a href="https://raw.githubusercontent.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/klorophatu"><img src="https://avatars.githubusercontent.com/u/52282861?v=4?s=100" width="100px;" alt="klorophatu"/><br /><sub><b>klorophatu</b></sub></a><br /><a href="#content-klorophatu" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://telesto.ai"><img src="https://avatars.githubusercontent.com/u/28736871?v=4?s=100" width="100px;" alt="Nandor Magyar"/><br /><sub><b>Nandor Magyar</b></sub></a><br /><a href="#content-nandor-magyar" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt="Max Ferrer"/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt="Jack Napier"/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt="sheepdev"/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt="Ulises Jeremias Cornejo Fandos"/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt="Andrea"/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/codecrap"><img src="https://avatars.githubusercontent.com/u/5834554?v=4?s=100" width="100px;" alt="Olexiy"/><br /><sub><b>Olexiy</b></sub></a><br /><a href="#content-codecrap" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/0xMRTT"><img src="https://avatars.githubusercontent.com/u/105598867?v=4?s=100" width="100px;" alt="0xMRTT"/><br /><sub><b>0xMRTT</b></sub></a><br /><a href="#content-0xMRTT" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="http://malacology.net"><img src="https://avatars.githubusercontent.com/u/37733075?v=4?s=100" width="100px;" alt="Kuoi"/><br /><sub><b>Kuoi</b></sub></a><br /><a href="#content-starsareintherose" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://raw.githubusercontent.com/sogreatandpowerfull"><img src="https://avatars.githubusercontent.com/u/114095654?v=4?s=100" width="100px;" alt="SoGreatAndPowerful"/><br /><sub><b>SoGreatAndPowerful</b></sub></a><br /><a href="#content-sogreatandpowerfull" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->

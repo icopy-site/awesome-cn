@@ -26,7 +26,7 @@
 - [tsurugi](https://tsurugi-linux.org/)  - 高度定制的 Linux 发行版，旨在支持 DFIR 调查、恶意软件分析和 OSINT 活动. 它基于 Ubuntu 20.04（64 位，带有 5.15.12 自定义内核）
 - [pig](https://github.com/rafael-santiago/pig) - Linux 数据包制作工具.
 - [scapy](https://github.com/gpotter2/awesome-scapy) - Scapy：基于 python 的交互式数据包操作程序和库.
-- [Pompem](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+- [Pompem](https://github.com/rfunix/Pompem)  - Pompem 是一种开源工具，旨在自动搜索主要数据库中的漏洞. 用 Python 开发，具有高级搜索系统，从而促进渗透测试人员和道德黑客的工作. 在当前版本中，在数据库中执行搜索：Exploit-db、1337day、Packetstorm Security ...
 - [Nmap](https://nmap.org) - Nmap 是一个免费的开源实用程序，用于网络发现和安全审计.
 - [Amass](https://github.com/caffix/amass) - Amass 通过抓取最大数量的不同数据源、递归暴力强制、网络档案爬行、排列和更改名称、反向 DNS 扫描和其他技术来执行 DNS 子域枚举.
 - [Anevicon](https://github.com/rozgo/anevicon) - 最强大的基于 UDP 的负载生成器，用 Rust 编写.
@@ -42,6 +42,7 @@
 
 
 ### Monitoring / Logging
+- [BoxyHQ](https://github.com/retracedhq/retraced) - 用于安全性和合规性审核日志记录的开源 API.
 - [justniffer](http://justniffer.sourceforge.net/) - Justniffer 是一种网络协议分析器，可以捕获网络流量并以自定义方式生成日志，可以模拟 Apache Web 服务器日志文件，跟踪响应时间并从 HTTP 流量中提取所有“被拦截”的文件.
 - [httpry](http://dumpsterventures.com/jason/httpry/)  - httpry 是专为显示和记录 HTTP 流量而设计的数据包嗅探器. 它本身并不是要执行分析，而是要捕获、解析和记录流量以供以后分析. 它可以实时运行，在解析流量时显示流量，或者作为记录到输出文件的守护进程. 它被编写为尽可能轻量级和灵活，以便它可以轻松适应不同的应用程序.
 - [ngrep](http://ngrep.sourceforge.net/)  - ngrep 努力提供 GNU grep 的大部分通用功能，并将它们应用于网络层.  ngrep 是一种 pcap 感知工具，可让您指定扩展的正则或十六进制表达式以匹配数据包的数据有效负载. 它目前识别 IPv4/6、TCP、UDP、ICMPv4/6、IGMP 和跨以太网的 Raw、PPP、SLIP、FDDI、令牌环和空接口，并以与更常见的数据包嗅探工具相同的方式理解 BPF 过滤器逻辑，例如作为 tcpdump 和 snoop.
@@ -53,11 +54,13 @@
 - [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch 是 Little Snitch 应用程序防火墙的 GNU/Linux 端口
 - [wazuh](https://github.com/wazuh/wazuh)  - Wazuh 是一个免费的开源平台，用于威胁预防、检测和响应. 它能够监视文件系统更改、系统调用和库存更改.
 - [Matano](https://github.com/matanolabs/matano)：AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
+- [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
+- [VAST](https://github.com/tenzir/vast)  - 用于结构化事件数据的开源安全数据管道引擎，支持大容量遥测摄取、压缩和检索； 专为安全内容执行、引导式威胁搜索和大规模调查而构建.
 
 ### IDS / IPS / Host IDS / Host IPS
 
 - [Snort](https://www.snort.org/)  - Snort 是一个免费开源的网络入侵防御系统（NIPS）和网络入侵检测系统（NIDS），由 Martin Roesch 于 1998 年创建.Snort 现在由 Sourcefire 开发，Roesch 是该公司的创始人和 CTO.  2009 年，Snort 进入 InfoWorld 的开源名人堂，成为“有史以来最伟大的开源软件”之一.
-- [Zeek](https://zeek.org/) - Zeek 是一个强大的网络分析框架，与您可能知道的典型 IDS 有很大不同.
+- [Zeek](https://zeek.org/) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
   - [zeek2es](https://github.com/corelight/zeek2es)  - 将 Zeek 日志转换为 Elastic/OpenSearch 的开源工具. 您还可以从 Zeek 的 TSV 日志中输出纯 JSON！
 - [OSSEC](https://ossec.github.io/)  - 全面的开源 HIDS. 不适合胆小的人. 花一点时间了解它是如何工作的. 执行日志分析、文件完整性检查、策略监控、rootkit 检测、实时警报和主动响应. 它可以在大多数操作系统上运行，包括 Linux、MacOS、Solaris、HP-UX、AIX 和 Windows. 大量合理的文档. 最佳点是中型到大型部署.
 - [Suricata](http://suricata-ids.org/)  - Suricata 是一种高性能网络 IDS、IPS 和网络安全监控引擎. 开源并由社区运营的非营利基金会开放信息安全基金会 (OISF) 所有.  Suricata 由 OISF 及其支持供应商开发.
@@ -76,7 +79,7 @@
 
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - 规范的真棒蜜罐列表.
 - [HoneyPy](https://github.com/foospidy/HoneyPy)  - HoneyPy 是一种中低交互蜜罐. 它旨在易于：部署、使用插件扩展功能以及应用自定义配置.
-- [Conpot](http://conpot.org/) - ICS/SCADA Honeypot. Conpot is a low interactive server side Industrial Control Systems honeypot designed to be easy to deploy, modify and extend. By providing a range of common industrial control protocols we created the basics to build your own system, capable to emulate complex infrastructures to convince an adversary that he just found a huge industrial complex. To improve the deceptive capabilities, we also provided the possibility to server a custom human machine interface to increase the honeypots attack surface. The response times of the services can be artificially delayed to mimic the behaviour of a system under constant load. Because we are providing complete stacks of the protocols, Conpot can be accessed with productive HMI's or extended with real hardware. Conpot is developed under the umbrella of the Honeynet Project and on the shoulders of a couple of very big giants.
+- [Conpot](http://conpot.org/)  - ICS/SCADA 蜜罐.  Conpot 是一种低交互服务器端工业控制系统蜜罐，旨在易于部署、修改和扩展. 通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础，能够模拟复杂的基础设施，让对手相信他刚刚发现了一个巨大的工业园区. 为了提高欺骗能力，我们还提供了服务自定义人机界面的可能性，以增加蜜罐攻击面. 可以人为地延迟服务的响应时间，以模仿系统在恒定负载下的行为. 因为我们提供了完整的协议栈，所以可以使用高效的 HMI 访问 Conpot 或使用真实硬件进行扩展.  Conpot 是在 Honeynet 项目的保护伞下，在几个非常大的巨人的肩上开发的.
 - [Amun](https://github.com/zeroq/amun) - 基于 Amun Python 的低交互蜜罐.
 - [Glastopf](http://glastopf.org/)  - Glastopf 是一个蜜罐，它模拟数千个漏洞以从针对 Web 应用程序的攻击中收集数据. 其背后的原理非常简单：向利用 Web 应用程序的攻击者回复正确的响应.
 - [Kippo](https://github.com/desaster/kippo) - Kippo 是一种中等交互 SSH 蜜罐，旨在记录暴力攻击，最重要的是，记录攻击者执行的整个 shell 交互.
@@ -85,11 +88,11 @@
 - [Bifrozt](http://sourceforge.net/projects/bifrozt/)  - Bifrozt 是一种带有 DHCP 服务器的 NAT 设备，通常部署有一个 NIC 直接连接到 Internet 和一个 NIC 连接到内部网络.  Bifrozt 与其他标准 NAT 设备的不同之处在于它能够在攻击者和您的蜜罐之间充当透明的 SSHv2 代理. 如果您在 Bifrozt 的内部网络上部署了 SSH 服务器，它将以纯文本形式将所有交互记录到一个 TTY 文件中，稍后可以查看该文件并捕获已下载的任何文件的副本. 您无需安装任何额外的软件、编译任何内核模块或在内部 SSH 服务器上使用特定版本或类型的操作系统即可实现此功能. 它会将出站流量限制在一定数量的端口，并在超过某些限制时开始丢弃这些端口上的出站数据包.
 - [HoneyDrive](http://bruteforce.gr/honeydrive)  - HoneyDrive 是首屈一指的蜜罐 Linux 发行版. 它是安装了 Xubuntu Desktop 12.04.4 LTS 版本的虚拟设备 (OVA). 它包含 10 多个预安装和预配置的蜜罐软件包，例如 Kippo SSH 蜜罐、Dionaea 和 Amun 恶意软件蜜罐、Honeyd 低交互蜜罐、Glastopf 网络蜜罐和 Wordpot、Conpot SCADA/ICS 蜜罐、Thug 和 PhoneyC 蜜罐等. 此外，它还包括许多有用的预配置脚本和实用程序，用于分析、可视化和处理它可以捕获的数据，例如 Kippo-Graph、Honeyd-Viz、DionaeaFR、ELK 堆栈等等. 最后，发行版中还包含近 90 种知名的恶意软件分析、取证和网络监控相关工具.
 - [Cuckoo Sandbox](http://www.cuckoosandbox.org/)  - Cuckoo Sandbox 是一款用于自动分析可疑文件的开源软件. 为此，它使用自定义组件来监视恶意进程在隔离环境中运行时的行为.
-- [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html) - T-Pot is based on the network installer of Ubuntu Server 16/17.x LTS. The honeypot daemons as well as other support components being used have been containerized using docker. This allows us to run multiple honeypot daemons on the same network interface while maintaining a small footprint and constrain each honeypot within its own environment. Installation over vanilla Ubuntu - [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall)  - 此脚本将在全新的 Ubuntu 16.04.x LTS（64 位）上安装 T-Pot 16.04/17.10. 它旨在用于托管服务器，其中提供了 Ubuntu 基础映像并且无法安装自定义 ISO 映像. 在 VMware 的 vanilla Ubuntu 16.04.3 上成功测试.
+- [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html)  - T-Pot 基于 Ubuntu Server 16/17.x LTS 的网络安装程序. 蜜罐守护进程以及正在使用的其他支持组件已使用 docker 容器化. 这允许我们在同一个网络接口上运行多个蜜罐守护进程，同时保持较小的占用空间，并将每个蜜罐限制在自己的环境中. 通过香草 Ubuntu 安装 - [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall)  - 此脚本将在全新的 Ubuntu 16.04.x LTS（64 位）上安装 T-Pot 16.04/17.10. 它旨在用于托管服务器，其中提供了 Ubuntu 基础映像并且无法安装自定义 ISO 映像. 在 VMware 的 vanilla Ubuntu 16.04.3 上成功测试.
 
 ### Full Packet Capture / Forensic
 
-- [tcpflow](https://github.com/simsong/tcpflow) - tcpflow is a program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis and debugging. Each TCP flow is stored in its own file. Thus, the typical TCP flow will be stored in two files, one for each direction. tcpflow can also process stored 'tcpdump' packet flows.
+- [tcpflow](https://github.com/simsong/tcpflow)  - tcpflow 是一个程序，它捕获作为 TCP 连接（流）的一部分传输的数据，并以便于协议分析和调试的方式存储数据. 每个 TCP 流都存储在它自己的文件中. 因此，典型的 TCP 流将存储在两个文件中，每个方向一个.  tcpflow 还可以处理存储的“tcpdump”数据包流.
 - [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer) - 高性能远程数据包捕获和收集工具，用于云原生环境的分布式 tcpdump.
 - [Xplico](http://www.xplico.org/)  - Xplico 的目标是从互联网流量中提取所包含的应用程序数据. 例如，Xplico 从 pcap 文件中提取每封电子邮件（POP、IMAP 和 SMTP 协议）、所有 HTTP 内容、每个 VoIP 呼叫（SIP）、FTP、TFTP 等.  Xplico 不是网络协议分析器.  Xplico 是一种开源网络取证分析工具 (NFAT).
 - [Moloch](https://github.com/aol/moloch)  - Moloch 是一个开源的大型 IPv4 数据包捕获 (PCAP)、索引和数据库系统. 为 PCAP 浏览、搜索和导出提供了一个简单的 Web 界面. 暴露的 API 允许直接下载 PCAP 数据和 JSON 格式的会话数据. 通过使用 HTTPS 和 HTTP 摘要密码支持或在前面使用 apache 来实现简单的安全性.  Moloch 并不是要取代 IDS 引擎，而是与它们一起工作，以标准 PCAP 格式存储和索引所有网络流量，提供快速访问.  Moloch 旨在跨多个系统部署，并且可以扩展以处理每秒数千兆位的流量.
@@ -110,7 +113,8 @@
 - [FIR](https://github.com/certsocietegenerale/FIR) - 快速事件响应，一个网络安全事件管理平台.
 - [LogESP](https://github.com/dogoncouch/LogESP) - 开源 SIEM（安全信息和事件管理系统）.
 - [wazuh](https://github.com/wazuh/wazuh)  -Wazuh 是一个免费、开源和企业就绪的安全监控解决方案，用于威胁检测、完整性监控、事件响应和合规性. 它使用 OpenSearch 分支和自定义 WUI 支持的大量数据.
-- [Matano](https://github.com/matanolabs/matano)：AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
+- [VAST](https://github.com/tenzir/vast)  - 用于结构化事件数据的开源安全数据管道引擎，支持大容量遥测摄取、压缩和检索； 专为安全内容执行、引导式威胁搜索和大规模调查而构建.
+- [Matano](https://github.com/matanolabs/matano) - AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
 
 ### VPN
 
@@ -134,7 +138,7 @@
 
 ### Anti-Spam
 
-- [Spam Scanner](https://github.com/spamscanner) - 反垃圾邮件扫描服务和反垃圾邮件 API，由 [@niftylettuce](https://github.com/niftylettuce).
+- [Spam Scanner](https://github.com/spamscanner) - Anti-Spam Scanning Service and Anti-Spam API by [@niftylettuce](https://github.com/niftylettuce).
 - [rspamd](https://github.com/rspamd/rspamd) - 快速、免费和开源的垃圾邮件过滤系统.
 - [SpamAssassin](https://spamassassin.apache.org/) - 一个功能强大且流行的电子邮件垃圾邮件过滤器，采用多种检测技术.
 - [Scammer-List](https://scammerlist.now.sh/) - 基于免费开源 AI 的骗局和垃圾邮件查找器，带有免费的 API
@@ -181,7 +185,7 @@
 ### Authentication
 
 - [google-authenticator](https://github.com/google/google-authenticator)  - Google Authenticator 项目包括用于多个移动平台的一次性密码生成器的实现，以及一个可插入的身份验证模块 (PAM). 一次性密码是使用开放认证倡议 (OATH)（与 OAuth 无关）开发的开放标准生成的. 这些实现支持 RFC 4226 中指定的基于 HMAC 的一次性密码 (HOTP) 算法和 RFC 6238 中指定的基于时间的一次性密码 (TOTP) 算法. [Tutorials: How to set up two-factor authentication for SSH login on Linux](http://xmodulo.com/two-factor-authentication-ssh-login-linux.html)
-- [Stegcloak](https://github.com/kurolabs/stegcloak) - 安全地将数字真实性分配给任何书面文本
+- [Stegcloak](https://github.com/kurolabs/stegcloak) - Securely assign Digital Authenticity to any written text
 
 ### Mobile / Android / iOS
 
@@ -213,6 +217,7 @@
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) - 基于 PowerShell 的 Windows 工件集合，用于威胁搜寻和事件响应.
 - [Rekall](https://github.com/google/rekall) - Rekall Framework 是一个完全开放的工具集合，在 Apache 和 GNU 通用公共许可证下用 Python 实现，用于提取和分析数字工件计算机系统.
 - [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux内存提取器
+- [Maigret](https://github.com/soxoj/maigret) - Maigret 仅通过用户名收集个人档案，检查大量网站上的帐户并从网页收集所有可用信息.
 
 ## Threat Intelligence
 
@@ -246,7 +251,7 @@
 
 ### Organization
 
-- [OWASP](http://www.owasp.org) - The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software.
+- [OWASP](http://www.owasp.org) - 开放 Web 应用程序安全项目 (OWASP) 是一个 501(c)(3) 全球非营利慈善组织，专注于提高软件的安全性.
 - [Portswigger](https://portswigger.net)  - PortSwigger 提供用于 Web 应用程序安全、测试和扫描的工具. 从范围广泛的安全工具中进行选择并识别最新的漏洞.
 
 ### Web Application Firewall
@@ -261,7 +266,7 @@
 
 - [Spyse](https://spyse.com/)  - Spyse 是一个 OSINT 搜索引擎，可提供有关整个网络的最新数据. 所有数据都存储在自己的数据库中以供即时访问，并相互连接以进行灵活搜索.
 提供的数据：IPv4 主机、子/域/whois、端口/横幅/协议、技术、操作系统、AS、广泛的 SSL/TLS 数据库等.
-- [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
+- [sqlmap](http://sqlmap.org/)  - sqlmap 是一种开源渗透测试工具，可自动执行检测和利用 SQL 注入漏洞以及接管数据库服务器的过程. 它配备了强大的检测引擎、终极渗透测试器的许多利基功能以及范围广泛的开关，从数据库指纹识别、从数据库中获取数据，到访问底层文件系统和通过输出在操作系统上执行命令.带外连接.
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)  - Zed Attack Proxy (ZAP) 是一种易于使用的集成渗透测试工具，用于查找 Web 应用程序中的漏洞. 它旨在供具有广泛安全经验的人员使用，因此非常适合刚接触渗透测试的开发人员和功能测试人员.  ZAP 提供自动扫描器以及一组允许您手动查找安全漏洞的工具.
 - [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist)  - 在 Web 漏洞评估期间要测试的一些控制列表. 可以找到 Markdown 版本 [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 - [w3af](http://w3af.org/)  - w3af 是一个 Web 应用程序攻击和审计框架. 该项目的目标是创建一个框架，通过查找和利用所有 Web 应用程序漏洞来帮助您保护 Web 应用程序.
@@ -275,22 +280,22 @@
 - [Keyscope](https://github.com/SpectralOps/keyscope) - Keyscope 是一个可扩展的密钥和秘密验证，用于检查针对多个内置 Rust 的 SaaS 供应商的活动秘密  
 - [Cyclops](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - Cyclops 是一个具有 XSS 检测功能的 Web 浏览器，它是基于 chromium 的 xss 检测，用于查找从源到接收器的流量.  
 - [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce)  - 代码扫描/SAST/静态分析/使用多种工具/扫描仪与一份报告的 Linting. 目前支持：PHP, Java, Scala, Python, Ruby, Javascript, GO, Secret Scanning, Dependency Confusion, Trojan Source, Open Source and Proprietary Checks (total ca. 1000 checks)
-- [Keyscope](https://github.com/SpectralOps/keyscope) - Keyscope 是一个可扩展的密钥和秘密验证，用于检查针对多个内置 Rust 的 SaaS 供应商的活动秘密
+- [recon](https://github.com/rusty-ferris-club/recon) - 基于 Rust 的快速 CLI，使用 SQL 查询文件、代码或恶意软件，并为安全专家提供内容分类和处理
 
 ### Runtime Application Self-Protection
 
-- [Falco](https://falco.org/) - 云原生运行时安全项目和事实上的 Kubernetes 威胁检测引擎现在是 CNCF 的一部分.
 - [Sqreen](https://www.sqreen.io/)  - Sqreen 是面向软件团队的运行时应用程序自我保护 (RASP) 解决方案. 应用程序内代理检测和监控应用程序. 报告可疑的用户活动，并在运行时阻止攻击，无需修改代码或流量重定向.
 - [OpenRASP](https://github.com/baidu/openrasp)  - 由百度公司积极维护的开源 RASP 解决方案.使用上下文感知检测算法，该项目几乎没有误报. 在服务器负载较重的情况下，性能下降不到 3%.
 
 ### Development
 
 - [API Security in Action](https://www.manning.com/books/api-security-in-action)  - 涵盖 API 安全性的书籍，包括安全开发、基于令牌的身份验证、JSON Web 令牌、OAuth 2 和 Macaroons.  （抢先体验，持续发布，2020 年夏季最终发布）
-- [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80)  - 确定设计模式和编码风格的书，这些设计模式和编码风格可以降低许多安全漏洞的可能性.  （抢先体验，持续发布，2017 年秋季最终版）
+- [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - Book that identifies design patterns and coding styles that make lots of security vulnerabilities less likely. (early access, published continuously, final release fall 2017)
 - [Understanding API Security](https://www.manning.com/books/understanding-api-security) - 免费电子书示例，通过展示 API 的组合方式以及 OAuth 协议如何用于保护它们，为 API 安全性在现实世界中的工作原理提供一些背景信息.
 - [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action) - 从客户端、授权服务器和资源服务器的角度教您实际使用和部署 OAuth 2 的书.
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) - 通过此官方 API 在您的 NodeJS 应用程序中利用 OWASP Zed 攻击代理 (ZAP).
 - [GuardRails](https://github.com/apps/guardrails) - 在 Pull Requests 中提供安全反馈的 GitHub 应用程序.
+- [Bearer](https://github.com/Bearer/bearer) - 扫描代码以查找导致敏感数据泄露的安全风险和漏洞.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - 基础设施即代码 (Terraform) 的静态分析工具.
 - [TFSec](https://github.com/tfsec/tfsec/) - 基础设施即代码 (Terraform) 的静态分析工具.
 - [KICS](https://github.com/Checkmarx/kics)  - 扫描 IaC 项目以查找安全漏洞、合规性问题和基础设施配置错误. 目前使用 Terraform 项目、Kubernetes 清单、Dockerfiles、AWS CloudFormation 模板和 Ansible 剧本.
@@ -308,6 +313,10 @@
 - [Redcloud](https://github.com/khast3x/Redcloud) - 使用 Docker 的自动化红队基础设施部署.
 - [Axiom](https://github.com/pry0cc/axiom) -Axiom 是一个动态基础设施框架，可有效地与多云环境协同工作，构建和部署专注于攻防安全的可重复基础设施.
 
+## Blue Team Infrastructure Deployment
+
+- [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - 用于自动设置、配置和使用网络安全解决方案的 CLI 程序.
+
 ## Usability
 
 - [Usable Security Course](https://pt.coursera.org/learn/usable-security)  - coursera 上可用的安全课程. 对于那些寻找安全性和可用性如何相交的人来说非常好.
@@ -321,7 +330,8 @@
 - [Apache Metron (incubating)](https://github.com/apache/incubator-metron) - Metron 集成了多种开源大数据技术，以提供集中的安全监控和分析工具.
 - [Apache Spot (incubating)](https://github.com/apache/incubator-spot) - Apache Spot 是一种开源软件，用于利用流和数据包分析的洞察力.
 - [binarypig](https://github.com/endgameinc/binarypig)  - Hadoop 中的可扩展二进制数据提取. 通过 Pig 进行恶意软件处理和分析，通过 Django、Twitter Bootstrap 和 Elasticsearch 进行探索.
-- [Matano](https://github.com/matanolabs/matano)：AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
+- [Matano](https://github.com/matanolabs/matano) - AWS 上的开源无服务器安全湖平台，可让您将 PB 级安全数据提取、存储和分析到 Apache Iceberg 数据湖中，并以代码形式运行实时 Python 检测.
+- [VAST](https://github.com/tenzir/vast)  - 用于结构化事件数据的开源安全数据管道引擎，支持大容量遥测摄取、压缩和检索； 专为安全内容执行、引导式威胁搜索和大规模调查而构建.
 
 ## DevOps
 
@@ -332,6 +342,7 @@
 - [Preflight](https://github.com/spectralops/preflight) - 帮助您验证脚本和可执行文件以减轻 CI 和其他系统中的供应链攻击.
 - [Teller](https://github.com/spectralops/teller) - 面向开发人员和开发人员的机密管理工具 - 从一个地方跨多个保险库和密钥库管理机密.
 - [cve-ape](https://github.com/baalmor/cve-ape)  - 用于嵌入测试和 CI 环境的非侵入式 CVE 扫描器，可以通过本地存储的 CVE 数据库扫描现有 CVE 的包列表和单个包. 也可用作 OT/ICS 等的离线 CVE 扫描器. 
+- [Selefra](https://github.com/selefra/selefra) - 一种开源策略即代码软件，可为多云和 SaaS 提供分析.
 
 ## Terminal
 
@@ -350,14 +361,14 @@
 ### Online resources
 
 - [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - 安全相关操作系统的完整列表
-- [Best Linux Penetration Testing Distributions @ CyberPunk](https://www.cyberpunk.rs/category/pentest-linux-distros) - Description of main penetration testing distributions
+- [Best Linux Penetration Testing Distributions @ CyberPunk](https://www.cyberpunk.rs/category/pentest-linux-distros) - 主要渗透测试分布的描述
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - 专门讨论、审查和了解开源操作系统最新信息的网站
 - [Hardening Windows 10](https://www.hardenwindows10forsecurity.com/) - 强化 Windows 10 指南
 
 ## Datastores
 
 - [databunker](https://databunker.org/)  - Databunker 是用于存储个人数据的类固醇地址簿.  GDPR 和加密是开箱即用的.
-- [acra](https://github.com/cossacklabs/acra) - 数据库安全套件：通过透明的“动态”数据加密、数据屏蔽和标记化、SQL 防火墙（SQL 注入预防）、入侵检测系统来保护数据.
+- [acra](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
 - [blackbox](https://github.com/StackExchange/blackbox) - 使用 GPG 将机密安全地存储在 VCS 存储库中
 - [confidant](https://github.com/lyft/confidant) - 将秘密存储在 AWS DynamoDB 中，静态加密并与 IAM 集成
 - [dotgpg](https://github.com/ConradIrwin/dotgpg) - 一种用于安全轻松地备份和控制生产机密或共享密码的工具.
@@ -368,7 +379,7 @@
 - [Safe](https://github.com/starkandwayne/safe) - 一个 Vault CLI，可以更轻松地读取和写入 Vault.
 - [Sops](https://github.com/mozilla/sops) - 支持 YAML、JSON 和 BINARY 格式并使用 AWS KMS 和 PGP 加密的加密文件编辑器.
 - [passbolt](https://www.passbolt.com/)  - 您的团队期待已久的密码管理器. 免费、开源、可扩展，基于 OpenPGP.
-- [passpie](https://github.com/marcwebbie/passpie) - 多平台命令行密码管理器
+- [passpie](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - 一个足够安全的加密数据存储来保存环境和应用程序的秘密.
 - [LunaSec](https://github.com/lunasec-io/lunasec) - 具有自动加密/令牌化、用于处理数据的沙盒组件和集中授权控制的 PII 数据库.
 
@@ -391,8 +402,12 @@
 - [Self-Sovereign Identity](https://www.manning.com/books/self-sovereign-identity)  - 一本关于 SSI 如何使我们能够接收数字签名凭证、将其存储在私人钱包中并安全地证明我们的在线身份的书.  （抢先体验，持续发布，最终版本于 2021 年秋季发布）
 - [Data Privacy](https://www.manning.com/books/data-privacy)  - 一本教您大规模实施技术隐私解决方案和工具的书.  （抢先体验，连续发布，最终版本 2022 年 1 月）
 - [Cyber Security Career Guide](https://www.manning.com/books/cyber-security-career-guide)  - 通过学习如何调整您现有的技术和非技术技能，开启网络安全职业生涯.  （抢先体验，连续发布，最终版本 2022 年夏季）
-- [Secret Key Cryptography](https://github.com/sbilly/awesome-security/blob/master/[https://www.manning.com/books/secret-key-cryptography)  - 一本关于密码技术和密钥方法的书.  （抢先体验，连续发布，最终版本 2022 年夏季）
+- [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)  - 一本关于密码技术和密钥方法的书.  （抢先体验，连续发布，最终版本 2022 年夏季）
 - [The Security Engineer Handbook](https://securityhandbook.io/) - 简短的阅读，讨论了在安全团队中工作的注意事项，以及可以帮助您作为安全工程师进行日常工作的许多技巧和技巧.
+- [Cyber Threat Hunting](https://www.manning.com/books/cyber-threat-hunting) - 网络威胁搜寻实用指南.
+- [Edge Computing Technology and Applications](https://www.manning.com/books/edge-computing-technology-and-applications) - 一本关于创建边缘计算策略所需的业务和技术基础的书.
+- [Spring Security in Action, Second Edition](https://www.manning.com/books/spring-security-in-action-second-edition) - 一本关于设计和开发从一开始就安全的 Spring 应用程序的书.
+- [Azure Security](https://www.manning.com/books/azure-security-2) - Microsoft Azure 原生安全服务实用指南.
 
 ## Other Awesome Lists
 
@@ -402,7 +417,7 @@
 - [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - 精选的 ARM 开发资源列表.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF 框架、库、资源和软件的精选列表.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - 精选的黑客环境列表，您可以在其中合法安全地训练您的网络技能.
-- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) - 精选的数字安全和隐私提示列表，以及指向更多资源的链接.
+- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - 精选的黑客教程、工具和资源列表.
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - 一个很棒的蜜罐资源列表.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - 精选的恶意软件分析工具和资源列表.
@@ -412,7 +427,7 @@
 - [Awesome Privacy](https://github.com/lissy93/awesome-privacy) - 精选的尊重隐私的软件和服务列表.
 - [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) - 精选的 Linux 容器框架、库和软件列表.
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - 用于事件响应的精选资源列表.
-- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - 此列表适用于希望了解 Web 应用程序安全性但没有起点的任何人.
+- [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 - [Awesome Electron.js Hacking](https://github.com/doyensec/awesome-electronjs-hacking) - 关于 Electron.js (in)security 的精选资源列表
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - 精选的威胁情报资源列表.
 - [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling) - 威胁建模资源的精选列表.
@@ -438,7 +453,7 @@
 
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - awesome-* 或 *-awesome 列表.
 - [lists](https://github.com/jnv/lists) - 在 GitHub 上策划的（很棒的）列表的最终列表.
-- [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+- [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - 每个黑客和赛博朋克都必须观看的精选电影清单.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome Analytics](https://github.com/0xnr/awesome-analytics)
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
