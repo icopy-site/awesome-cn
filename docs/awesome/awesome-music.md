@@ -14,10 +14,11 @@
 * [Ardour](http://ardour.org/) - 强调录音的跨平台数字音频工作站.
 * [LMMS](https://lmms.io/) - 另一个跨平台数字音频工作站，更倾向于制作节拍.
 * [Stargate DAW](https://github.com/stargatedaw/stargate/) - 跨平台、一体式数字音频工作站和插件套件，针对 EDM 制作进行了优化.
+* [TuneFlow](https://tuneflow.com/) - 下一代 DAW，可帮助您生成旋律、节拍或整首歌曲，同时仍然能够对其进行编辑.
 
 ## Audio Libraries
 
-* [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
+* [audio.js](https://github.com/kolber/audiojs) - audio.js 是一个嵌入式 javascript 库，允许在任何地方使用 HTML5 的 &lt;audio&gt; 标签.
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - 用于音频和音乐分析、特征提取的库.
 * [chord-mark](https://github.com/no-chris/chord-mark) - ChordMark 的参考实现，ChordMark 是一种用于歌词、和弦和节奏的文本符号格式.
 * [howler.js](https://github.com/goldfire/howler.js) - 用于现代网络的 Javascript 音频库.
@@ -41,7 +42,7 @@
 * [Lame](http://lame.sourceforge.net/) - 高质量、免费和开源的 MP3 编码器.
 * [lltag](https://github.com/bgoglin/lltag) - 自动命令行 mp3/ogg/flac 文件标记器和重命名器.
 * [matchering](https://github.com/sergree/matchering) - 用于自动参考音频母带处理的容器化 Web 应用程序和库.
-* [MusicBrainz](https://musicbrainz.org) - 开放的音乐信息和元数据百科全书，为所有内容提供唯一ID
+* [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - 未来的音频制作平台（硬件支持、API、主机、插件等）
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - 是用于类 Unix 操作系统的安全数字音频提取应用程序（“cd ripper”）.
 * [SoX](http://sox.sourceforge.net/) - 用于播放、转换和操作音频文件的免费开源命令行实用程序.
@@ -128,6 +129,7 @@
 * [Sporth](https://pbat.ch/proj/sporth.html) - 基于小型堆栈的音频语言.
 * [SuperCollider](http://supercollider.github.io/) - 一种用于实时音频合成和算法组合的编程语言.
 * [Tidal](https://tidalcycles.org/) - 一种基于 Haskell 的语言，用于实时编码模式.
+* [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - 用于下一代 DAW 的 python 插件 SDK，允许您将音乐算法和 AI 模型编程到音乐制作的所有阶段
 * [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Unison 中使用的领域特定语言.
 
 ## Music Theory Teaching

@@ -33,6 +33,7 @@
 ## Youtube Series
 
 * [Brandon Foltz](https://www.youtube.com/@BrandonFoltz)
+* [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * [NPTEL](https://www.youtube.com/@iit)
 * [PatrickJMT](https://www.youtube.com/@patrickjmt)
@@ -120,7 +121,7 @@
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - 他舔 (1917)
 * [Magic Squares and Cubes](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - WS 安德鲁斯 (1917)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) - 斯蒂芬博伊德和利文范登伯格
-* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - 许多主题的研究和讲义，包括叶状流形上的扩散、随机微积分、狄利克雷空间中的全局分析等等.
+* [Fabrice Baudoin's Notes](https://fabricebaudoin.wordpress.com/) - 许多主题的研究和讲义，包括叶状流形上的扩散、随机微积分、狄利克雷空间中的全局分析等.
 
 ## Lecture Notes
 

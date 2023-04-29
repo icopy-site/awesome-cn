@@ -57,14 +57,14 @@
 
 ## Minimizers
 
-* [Terser](https://github.com/terser/terser) - 用于 ES6+ 的解析器、变形器和压缩器工具包
+* [Terser](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 * [Uglify](https://github.com/mishoo/UglifyJS) - 解析器/粉碎器/压缩器/美化工具包
 
 
 ## Type Checkers
 
 * [TypeScript](https://www.typescriptlang.org/) - 一个类型化的 JavaScript 超集，可编译为纯 JavaScript.
-* [Flow.js](https://flow.org/en/) - 来自 Facebook 的 JavaScript 静态类型检查器.
+* [Flow.js](https://flow.org/) - 来自 Facebook 的 JavaScript 静态类型检查器.
 * [Hegel](https://hegel.js.org/) - 一种针对 JavaScript 的静态类型检查器，偏向于强类型系统的类型推断.
 * [TypL](https://github.com/getify/TypL) - 对类型推断有偏见的 JavaScript Type Linter.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - 使用类似 Haskell 的 Hindley Milner 类型签名对 JavaScript 函数进行运行时类型检查.
@@ -140,7 +140,7 @@
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的 Web 应用程序的 JavaScript 框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单的、无处不在的数据库、在线数据、纯 JavaScript 的 Web 框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代 DOM 操作.
-* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+* [vue](https://github.com/vuejs/vue) - 用于构建交互式界面的直观、快速和可组合的 MVVM.
 * [svelte](https://github.com/sveltejs/svelte)  - Svelte 是一种构建 Web 应用程序的新方法. 它是一个编译器，可以获取您的声明性组件并将它们转换为高效的 JavaScript，从而以外科手术的方式更新 DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout 可以更轻松地使用 JavaScript 创建丰富的响应式 UI.
 * [spine](https://github.com/spine/spine) - 用于构建 JavaScript 应用程序的轻量级 MVC 库.
@@ -207,7 +207,7 @@
 * [Pug](https://github.com/pugjs/pug)  - 健壮、优雅、功能丰富的 nodejs 模板引擎.  （原名翡翠）
 * [EJS](https://github.com/mde/ejs) - 有效的 JavaScript 模板.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - 用于节点和浏览器的可扩展模板引擎库
-* [marko](https://github.com/marko-js/marko) - 用于 Node.js 和浏览器的快速、轻量级、基于 HTML 的模板引擎，具有异步、流、自定义标签和 CommonJS 模块作为编译输出.
+* [marko](https://github.com/marko-js/marko) - 用于 Node.js 和浏览器的快速、轻量级、基于 HTML 的模板引擎，具有异步、流式传输、自定义标签和 CommonJS 模块作为编译输出.
 * [swig](https://github.com/paularmstrong/swig) -（已存档）一个简单、强大且可扩展的 Node.js 和基于浏览器的 JavaScript 模板引擎.
 
 ## Game Engines
@@ -277,7 +277,7 @@
 * [jointjs](https://github.com/clientIO/joint) - 用于创建静态图表或完全交互式图表工具的图表库.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - 用于动画数据可视化和数据故事的库.
 
-还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/)， 和 [lightning chart](https://www.arction.com/lightningchart-js/).
+还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/)， 和 [lightning chart](https://www.arction.com/lightningchart-js/).
 
 ## Timeline
 
@@ -354,7 +354,7 @@
 * [lazy.js](https://github.com/dtao/lazy.js) - 像 Underscore，但更懒.
 * [ramda](https://github.com/ramda/ramda) - 适用于 JavaScript 程序员的实用函数库.
 * [mout](https://github.com/mout/mout) - 模块化 JavaScript 实用程序.
-* [preludejs](https://github.com/alanrsoares/prelude-js) - JavaScript 的硬核函数式编程.
+* [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [rambda](https://github.com/selfrefactor/rambda) - 比 *Ramda* 更快更小的替代品.
 * [fxts](https://github.com/marpple/FxTS) - 延迟评估和并发.
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 带有通配符和正则表达式的对象属性路径.
@@ -481,7 +481,7 @@
 * [contra](https://github.com/bevacqua/contra/) - 具有功能性品味的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - 功能齐全的承诺库，专注于创新功能和性能.
 * [when](https://github.com/cujojs/when) - 可靠、快速的 Promises/A+ 和 when() 实现，以及其他异步功能.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - 提供一个原型，添加对事件侦听器的支持（与浏览器上可用的 DOMElements 中的 EventTarget 的行为相同）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 * [sporadic](https://github.com/marcoonroad/sporadic) - 在承诺之上的可组合并发抽象（例如流、协程和类似 Go 的通道），用于节点和浏览器引擎.
 
 
@@ -520,7 +520,7 @@
 ## Voice Command
 
 * [annyang](https://github.com/TalAter/annyang) - 一个 JavaScript 库，用于使用语音识别向您的站点添加语音命令.
-* [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+* [voix.js](https://github.com/pazguille/voix) - 一个 JavaScript 库，用于向您的网站、应用程序或游戏添加语音命令.
 
 
 ## API
@@ -579,7 +579,7 @@
 ## Web Worker
 
 * [partytown](https://github.com/BuilderIO/partytown) - 将资源密集型第三方脚本从主线程转移到网络工作者中.
-* [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink 是一个小型库 (1.1kB)，它消除了思考 postMessage 的心理障碍并隐藏了您正在与工人一起工作的事实.
+* [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink 是一个小型库 (1.1kB)，它消除了思考 postMessage 的心理障碍，并隐藏了您正在与工人一起工作的事实.
 * [greenlet](https://github.com/developit/greenlet) - 将异步函数移动到它自己的线程中.
 * [workerize](https://github.com/developit/workerize) - 将模块移动到 Web Worker 中，自动将导出的函数反映为异步代理.
 * [worker-dom](https://github.com/ampproject/worker-dom) - 旨在在 Web Worker 中运行的 DOM API 的正在进行的实现.
@@ -618,7 +618,7 @@
 * [validator.js](https://github.com/chriso/validator.js) - 字符串验证和清理.
 * [validate.js](https://github.com/rickharrison/validate.js) - 受 CodeIgniter 启发的轻量级 JavaScript 表单验证库.
 * [validatr](https://github.com/jaymorrow/validatr/) - 跨浏览器 HTML5 表单验证.
-* [FormValidation](https://formvalidation.io/)  - 最好的 jQuery 插件来验证表单字段. 以前的 BootstrapValidator.
+* [FormValidation](https://formvalidation.io/) - The best jQuery plugin to validate form fields. Formerly BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) - 检查类型、正则表达式、存在、时间等.
 * [FieldVal](https://github.com/FieldVal/fieldval-js)  - 多用途验证库. 支持同步和异步验证.
 * [Funval](https://github.com/neuledge/funval) - 使用函数接口进行数据验证（支持 TypeScript）.
@@ -641,8 +641,6 @@
 * [shepherd](https://github.com/HubSpot/shepherd) - 引导您的用户浏览您的应用程序.
 * [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 * [tourist](https://github.com/easelinc/tourist) - 为您的应用程序提供简单、灵活的导览.
-* [chardin.js](https://github.com/heelhook/chardin.js) - 为您的应用程序提供简单的叠加说明.
-* [pageguide](https://github.com/tracelytics/pageguide) - 使用 jQuery 和 CSS3 的网页元素交互式指南.
 * [hopscotch](https://github.com/linkedin/hopscotch) - 一个框架，使开发人员可以轻松地将产品导览添加到他们的页面.
 * [joyride](https://github.com/zurb/joyride) - jQuery 功能浏览插件.
 * [focusable](https://github.com/zzarcon/focusable) - 将聚光灯聚焦在 DOM 元素上，向页面的其余部分添加覆盖层.
@@ -910,7 +908,7 @@
 * [animatable](https://github.com/LeaVerou/animatable) - 一种属性，两种价值，无限可能.
 * [shuffle-images](https://github.com/peachananr/shuffle-images) - 以最简单的方式以创造性的方式随机播放图像.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - 使用 jQuery 的不显眼的页面转换.
-* [Anime.js](https://animejs.com/) - A JavaScript animation engine.
+* [Anime.js](https://animejs.com/) - 一个 JavaScript 动画引擎.
 * [Mo.js](http://mojs.io) - 用于网络的动态图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - 用于创建粒子的轻量级 JavaScript 库.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - 一个新的和改进的 particles.js 版本，修复了错误和许多新功能.
@@ -939,6 +937,7 @@
 
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - 基于 React 的静态站点生成器.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue 驱动的静态站点生成器.
+* [Next.js](https://github.com/vercel/next.js) - React 驱动的静态站点生成器，他们说“让 Web 变得更快所需的所有工具.”.
 
 ## SDK
 
@@ -966,7 +965,7 @@
 https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - 过滤和排序插件.
 * [grid](https://github.com/hootsuite/grid) - 拖放二维、可调整大小和响应列表的库.
-* [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
+* [jquery-match-height](https://github.com/liabru/jquery-match-height) - 一个用于 jQuery 的响应式等高插件.
 * [SurveyJS](https://github.com/surveyjs/survey-library)  - SurveyJS 是一个 JavaScript 调查和表单库.  https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://objectexplorer.netlify.app/) - 帮助找出在任何给定时间最好使用哪种本机 JavaScript 方法的资源.
 * [Clipboard.js](https://clipboardjs.com/) - 不使用 Flash 或使用框架的“复制到剪贴板”.
@@ -982,7 +981,6 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - 以 JavaScript 编程语言编写的模拟器列表.
 
 ## Podcasts
-* [JavaScript Air](https://javascriptair.com/) - 关于 JavaScript 和 Web 平台的直播视频播客.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - 为初学者介绍 JavaScript 的播客.
 
 ## Worth Reading

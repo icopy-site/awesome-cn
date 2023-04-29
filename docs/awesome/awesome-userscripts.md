@@ -23,7 +23,7 @@
   - 支持 GM 3 和 GM 4 用户脚本.
 - [USI](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - 火狐
   - 支持一些 GM 3 用户脚本.
-- [Violentmonkey](https://violentmonkey.github.io/) - Chrome、Firefox、Maxthon、Opera
+- [Violentmonkey](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
   - 支持 GM 3 和 GM 4 用户脚本.
 
 最流行的用户脚本管理器是 Greasemonkey、Tampermonkey 和 Violentmonkey.
@@ -58,8 +58,9 @@
 
 ### ChatGPT
 
-* [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - 自动发送后台请求以保持会话新鲜并防止 Cloudflare 检查 + 网络错误.
-* [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - 为 ChatGPT 添加宽屏 + 全窗口模式.
+* [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) - 自动发送后台请求以保持会话新鲜并防止 Cloudflare 检查 + 网络错误.
+* [ChatGPT Infinity](https://chatgptevo.com/infinity) - 从无所不知的 ChatGPT 生成无穷无尽的答案（任何语言！） 
+* [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) - 为 ChatGPT 添加宽屏 + 全窗口模式.
 
 
 ### DuckDuckGo
@@ -103,7 +104,7 @@
 * [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - 为所有 GitHub 添加搜索过滤器自动完成功能.
 * [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - 将时间前转换为您选择的时间格式.
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - 向浏览器选项卡添加通知指示器.
-* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
+* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - 展开或折叠所有提交标题.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - 切换维基侧边栏视图.
 * [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - 添加按钮以显示提交的差异（或补丁）文件.
 * [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - 为 Github 主页新闻提要项目添加过滤器.
