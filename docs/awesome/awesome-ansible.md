@@ -29,7 +29,7 @@
 上还有许多 Ansible IRC 频道 [libera.chat](https://libera.chat/) 被桥接到 [Matrix](https://matrix.org/).
 您可以在官方文档中找到完整列表以及如何连接 [documentation](https://docs.ansible.com/ansible/latest/community/communication.html) 但这里有一些：
 
- | 互联网资源中心 | 矩阵 | 话题|
+ | 互联网资源中心 | 矩阵 | 话题 |
 |--------------------|------------------------|----------------------------------------------------------------------------------|
 | #ansible           | #users:ansible.com     | General Ansible user support and discussion                                      |
 | #ansible-devel     | #devel:ansible.com     | Developer discussions around code, bugs and features                             |
@@ -93,7 +93,7 @@
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - Ansible 的基于文本的用户界面 (TUI).
 - [squest](https://hewlettpackard.github.io/squest/) - Ansible Tower 作业模板的自助服务门户.
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - 使用 Ansible 剧本弯曲容器并将其转换为容器图像的工具.
-- [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 Python 库，可在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器图像接口、作为独立工具还是作为可导入的 Python 模块.
+- [ansible-runner](https://github.com/ansible/ansible-runner) - 一个工具和 Python 库，在直接与 Ansible 交互或作为另一个系统的一部分时提供帮助，无论是通过容器图像接口、作为独立工具还是作为可以导入的 Python 模块.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/)  - 使用依赖于非默认依赖项的 Ansible 内容可能会很棘手. 包必须安装在每个节点上，与主机系统上安装的其他软件很好地配合使用，并保持同步.
 - [kics](https://github.com/Checkmarx/kics) - SAST 工具，可将您的 ansible 基础设施扫描为代码手册，以查找安全漏洞、合规性问题和错误配置.
 - [php-ansible Library](https://github.com/maschmann/php-ansible) - Ansible 的 OOP-Wrapper，使 Ansible 在 PHP 中可用.
@@ -102,6 +102,8 @@
 - [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - 以 HTML 形式从 Ansible 模块中提取文档的工具.
 - [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore 是 Ansible 的现代 UI.
 - [Steampunk Spotter](https://steampunk.si/spotter/) - 提供了一个辅助自动化编写工具，可以分析并为您的 Ansible Playbook 提供建议.
+- [ansible-roster](https://gitlab.com/jlecomte/ansible/ansible-roster)  - Ansible Roster 清单插件，用于从面向主机的 yaml 文件生成清单. 支持范围、正则表达式主机名、文件包含和变量合并.
+- [Monkeyble](https://hewlettpackard.github.io/monkeyble/) - 一个回调插件，允许使用 Pythonic 测试和 CI/CD 方法对剧本执行端到端测试以检测回归.
 
 ## Blog posts and opinions
 

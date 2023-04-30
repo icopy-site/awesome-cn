@@ -29,6 +29,7 @@
 - [Move Book](https://move-language.github.io/move/) - Move 核心团队维护的 Move book（[中文](https://github.com/move-language/move/tree/main/language/documentation/book/translations/move-book-zh)).
 - [Move Book](https://move-book.com/) - 移动书籍维护 [@damirka](https://github.com/damirka) ([中文](https://move-book.com/cn/)).
 - [Move Patterns](https://www.move-patterns.com/) - 一本关于 Move 软件设计模式的书，由 [@villesundell](https://github.com/villesundell).
+- [Sui Move by Example](https://examples.sui.io/) - 一本关于 Sui Move 变体的书，由 [@MystenLabs](https://github.com/MystenLabs).
 
 ## Tutorials
 
@@ -158,6 +159,7 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 - [Move Prover](https://github.com/move-language/move/tree/main/language/move-prover)  - 以 Move 源代码编写的用户定义规范的形式验证. 由 Move 核心团队维护.
 - [Move Read/Write Set Analyzer](https://github.com/move-language/move/tree/main/language/tools/read-write-set)  - 静态分析工具，用于计算 Move 程序接触的全局内存的过度逼近. 由 Move 核心团队维护.
 - [Move Playground JS Library](https://github.com/imcoding-online/js-move-playground) - 包装 [Move Playground by Pontem](https://playground.pontem.network/) 作为浏览器的 JavaScript 库. 您可以使用它来构建自己的 Move Playground.
+- [go-sui-indexer](https://github.com/coming-chat/go-sui-indexer) - 一个 off-fullnode 服务，用于提供来自 Sui Node 的数据.
 
 ## IDEs
 
@@ -193,9 +195,22 @@ Move **框架**是包含在链的创世状态中的一组 Move 模块.
 - [Ethos Connect](https://github.com/EthosWallet/ethos-connect) - 带有内置钱包适配器和电子邮件选项的 UI，用于支持 Sui 上的所有钱包和无钱包用户.
 
 ## SDKs
-- [go-sui-sdk](https://github.com/coming-chat/go-sui-sdk) - Sui Golang SDK.
-- [go-aptos-sdk](https://github.com/coming-chat/go-aptos-sdk) - Aptos Golang SDK.
-- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) - Sui Network 上的 AMM Swap SDK.
+
+### Sui SDKs
+- [Rust SDK](https://docs.sui.io/devnet/build/rust-sdk) （官方的）
+- [TS/JS SDK](https://github.com/MystenLabs/sui/tree/main/sdk/typescript) （官方的）
+- [Golang SDK 1](https://github.com/coming-chat/go-sui-sdk) （社区）
+- [Golang SDK 2](https://github.com/block-vision/sui-go-sdk) （社区）
+- [Python SDK](https://github.com/FrankC01/pysui) （社区）
+- [Java SDK](https://github.com/GrapeBaBa/sui4j) （社区）
+- [Kotlin SDK](https://github.com/cosmostation/suikotlin) （社区）
+- [C# SDK](https://github.com/naami-finance/SuiNet) （社区）
+
+### Sui Dapps SDKs
+- [OmniSwap-Sui-SDK](https://github.com/OmniBTC/OmniSwap-Sui-SDK) （社区）
+
+### Other network SDKs
+- [Aptos Golang SDK](https://github.com/coming-chat/go-aptos-sdk) （社区）
 
 ## Papers
 

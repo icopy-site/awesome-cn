@@ -35,7 +35,7 @@
 - [Fisher](https://github.com/jorgebucaran/fisher) - 从 CLI 管理功能、完成、绑定和片段.
 - [Fundle](https://github.com/danhper/fundle) - 基于 `config.fish` 的插件管理器.
 - [GitNow](https://github.com/joseluisq/gitnow) - 一组实用功能，可加快您的 git 工作流程.
-- [Sponge](https://github.com/andreiborisov/sponge) - 自动清除拼写错误的命令历史记录.
+- [Sponge](https://github.com/meaningful-ooo/sponge) - 自动清除拼写错误的命令历史记录.
 - [Autopair](https://github.com/jorgebucaran/autopair.fish)  - 在 Fish 命令行中自动完成匹配对.  ([Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI 选项解析器（替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置）.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - 基于 TAP 的 Fish 测试运行程序.
@@ -44,6 +44,7 @@
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - 使您的提示异步.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - 定制你 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在 iTerm2 中.
 - [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) - 通过在可以使用缩写时显示提示来记住缩写.
+- [Base16 Fish](https://github.com/FabioAntunes/base16-fish-shell) - 纯 Fish 解决方案，用于更改 shell 的默认 ANSI 颜色.
 
 ## Docker
 
