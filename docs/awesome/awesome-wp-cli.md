@@ -52,6 +52,7 @@
 - [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - 介绍性演讲，涵盖了以前从未使用过控制台的人的命令行基础知识.
 - [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - 解决特定用例的基于片段的指南.
 - [Siteground Webinar: Learn How WP-CLI Can Make Your Life Easier](https://www.youtube.com/watch?v=DlxbRYpZdQg) - 关于如何使用 WP-CLI 改进工作流程的实例.
+- [CaptainCore Cookbook](https://captaincore.io/cookbook/) - 用于自动化 WordPress 维护的 WP-CLI 命令和 bash 脚本的集合.
 
 ## Contribute
 

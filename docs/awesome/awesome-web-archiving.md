@@ -42,12 +42,13 @@
 ### Acquisition
 
 * [ArchiveBox](https://github.com/pirate/ArchiveBox)  - 一种使用 wget、Chrome headless 和其他方法（以前称为“Bookmark Archiver”）维护来自 RSS 提要、书签和链接的附加存档的工具.  *（开发中）*
-* [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将网络资源推送到点播网络档案中.  *（稳定的）*
+* [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
 * [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重播它们并将它们导出为 WARC 数据. 也可用作基于 Electron 的桌面应用程序.
 * [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真爬行系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的爬行.
-* [Brozzler](https://github.com/internetarchive/brozzler)  - 使用真实浏览器（Chrome 或 Chromium）获取页面和嵌入式 URL 并提取链接的分布式网络爬虫（爬虫）.  *（稳定的）*
+* [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 * [Cairn](https://github.com/wabarc/cairn)  - 用于保存网页的 npm 包和 CLI 工具.  *（稳定的）*
 * [Chronicler](https://github.com/CGamesPlay/chronicler)  - 具有记录和重播功能的网络浏览器.  *（开发中）*
+* [crau](https://github.com/turicas/crau)  - crau 是（大多数）巴西人发音 crawl 的方式，它是用于存档 Web 和播放存档的最简单的命令行工具：您只需要一个 URL 列表.  *（稳定的）*
 * [Crawl](https://git.autistici.org/ale/crawl)  - 一个简单的 Golang 网络爬虫.  *（稳定的）*
 * [crocoite](https://github.com/promyloph/crocoite)  - 使用 headless Google Chrome/Chromium 抓取网站并将资源、静态 DOM 快照和页面截图保存到 WARC 文件.  *（开发中）*
 * [DiskerNet](https://github.com/dosyago/DiskerNet)  - 一种非基于 WARC 的工具，可挂接到 Chrome 浏览器并存档您浏览的所有内容，使其可用于离线重播.  *（开发中）*
@@ -99,7 +100,7 @@
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) - 基于 1996 年至 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不限于德国网页，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ).  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及一些能够使用如下所示索引的相关工具.  *（稳定的）*
-  * [Shine](https://github.com/ukwa/shine) - A prototype web archives exploration UI, developed with researchers as part of the [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
+  * [Shine](https://github.com/ukwa/shine) - 与研究人员一起开发的原型网络档案探索 UI，作为 [Big UK Domain Data for the Arts and Humanities project](https://buddah.projects.history.ac.uk/) .  *（稳定的）*
   * [SolrWayback](https://github.com/netarchivesuite/solrwayback)  - 具有自由文本搜索和内置播放引擎的后端 Java 和前端 VUE JS 项目. 要求 Warc 文件已经用 Warc-Indexer 索引.  Web 应用程序还具有广泛的数据可视化工具和数据导出工具，可用于整个 webarchive. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) 包含易于安装的开箱即用解决方案中的所有软件和依赖项.
   * [Warclight](https://github.com/archivesunleashed/warclight)  - 基于 Project Blacklight 的 Rails 引擎，支持发现以 WARC 和 ARC 格式保存的网络档案.  *（开发中）*
   * [Wasp](https://github.com/webis-de/wasp) - 个人的全功能原型 [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf) .  *（开发中）*
@@ -138,7 +139,7 @@
 * [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压 WARC 和 WACZ 文件的命令行界面 (Python).
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARChive (WARC) 文件 (Python) 的工具和库.  *（稳定的）*
 * [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 存档 IO (Python) 的流式 WARC/ARC 库.
-* [warctools](https://github.com/internetarchive/warctools) - Library to work with ARC and WARC files (Python).
+* [warctools](https://github.com/internetarchive/warctools) - 用于处理 ARC 和 WARC 文件的库 (Python).
 * [webarchive](https://github.com/richardlehane/webarchive) - 用于 ARC 和 WARC webarchive 格式的 Golang 阅读器 (Golang).
 
 ### Analysis

@@ -110,6 +110,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
  - Han, J.、Pei, J.、Kamber, M. (2011).  _数据挖掘：概念和技术_. 爱思唯尔.
  - Hennig-Thurau, T. Houston, M. (2018).  _娱乐科学：电影、游戏、音乐和书籍的数据分析和实用理论_. 施普林格.
  - Loh, A. Sheng, Y. Ifenthaler, D. (2015).  _严肃游戏分析：性能测量、评估和改进方法_. 施普林格.
+ - 米林顿、伊恩、冯格、约翰 (2020).  _游戏人工智能，第三版_.  CRC出版社.
  - Russell, SJ, Norvig, P. (2016).  _人工智能：一种现代方法_. 马来西亚; 培生教育有限公司.
  - Yannakakis, GN, Togelius, J. (2018).  _人工智能和游戏_. 施普林格.
 
@@ -196,7 +197,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - 项目细节.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - 游戏数据来自 [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Steam 视频游戏的价格.
-- [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - 关于视频游戏的问题.
+- [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - 关于电子游戏的问题.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) - Steam API 和 Steam Spy 的结合.
 - [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - 蒸汽用户评论.
 - [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - 关于从 Steam 和 SteamSpy API 中收集的 27,000 款游戏的信息.

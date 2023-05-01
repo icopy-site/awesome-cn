@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
 很棒的比特币
 ===============
-为软件开发人员准备的比特币服务和工具列表
+为软件开发人员准备的比特币服务和工具清单
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -14,7 +14,7 @@
 * [Pycoin](https://github.com/richardkiss/pycoin) - 基于 Python 的比特币和 alt-coin 实用程序库.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) - 比特币命令行工具.
 * [txwatcher](https://github.com/tsileo/txwatcher) - 一个小的 Python 实用程序，可让您通过 Blockchain Websocket API 监控比特币地址并执行自定义回调.
-* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一系列简单程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - 一组简单的程序，可以生成比特币钱包、创建和签署交易，以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - 在您的 Bitcoin HD 钱包中找到所有使用过的地址，绕过差距限制.
 * [`<qr-code>`](https://github.com/bitjson/qr-code)  – 无框架、无依赖、可定制、可动画、基于 SVG 的`<qr-code>  ` 网络组件.
@@ -32,6 +32,7 @@
 * [Smartbit](https://www.smartbit.com.au)
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Chainradar 的区块链资源管理器 API.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) 分享您的比特币地址的更好方式.
+* [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - 比特币钱包监控和区块链警报.
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) 可以访问市场数据的 JSON REST API（免费和付费）. 也可下载 CSV 数据文件.
@@ -91,7 +92,7 @@
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) - 使用 OP_RETURN 在比特币交易中存储/检索信息的简单库.
-* [pybitcointools](https://github.com/vbuterin/pybitcointools)  - 来自 Vitalik Buterin 的比特币签名和交易的 Python 库. 项目停止.
+* [pybitcointools](https://github.com/vbuterin/pybitcointools)  - 来自 Vitalik Buterin 的比特币签名和交易的 Python 库. 项目中止.
 * [pycoin](https://github.com/richardkiss/pycoin)  - 用于比特币密钥、签名、交易的 Python 库. 包括用于操作密钥 (ku) 和事务 (tx) 的完整 VM 实现和工具.
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  - 用于构建和分析事务和脚本（标准和自定义）的 Python 库. 附带一个 UTXO 集分析工具. 包括几个示例和详尽的文档.
 * [oogway](https://github.com/merwane/oogway) - 用于 Python 的安全比特币实用程序库.

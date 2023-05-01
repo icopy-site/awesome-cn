@@ -165,7 +165,8 @@
 - [Avatar AI](https://avatarai.me/) - 创建您自己的 AI 生成头像.
 - [ClipDrop](https://clipdrop.co/) - 无需照相馆即可创建专业的视觉效果.
 - [Lensa](https://prisma-ai.com/lensa) - 一款一体化图像编辑应用程序，包括使用 Stable Diffusion 生成个性化头像.
-- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作空间.
+- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作区.
+- [ClipDrop](https://clipdrop.co/) - 在没有照相馆的情况下创建专业的视觉效果，由
 
 ### Image libraries
 
@@ -221,7 +222,7 @@
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
 - [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
 - [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
-- [Scenario](https://www.scenario.com/) - AI-generated gaming assets.
+- [Scenario](https://www.scenario.com/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 用于您的会议的设备上 AI，它会倾听您的意见并提出有魅力的报价建议.
 - [Gamma](https://gamma.app/) - 创建漂亮的演示文稿和网页，无需任何格式和设计工作.
@@ -252,5 +253,5 @@
 ## Autonomous agents
 
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 使 GPT-4 完全自主的实验性开源尝试.
-- [babyagi](https://github.com/yoheinakajima/babyagi) - 人工智能驱动的任务管理系统.
+- [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 在浏览器中组装、配置和部署自治 AI 代理.

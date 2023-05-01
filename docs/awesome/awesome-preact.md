@@ -34,7 +34,7 @@
 - [Preact Modern Startupper](https://github.com/kolodziejczakM/preact-modern-startupper) - 支持 TypeScript、Goober、Unistore 和 Plop 的 PWA 样板.
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例的服务器端渲染.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA 专注于原始性能、服务器端渲染、预渲染、redux、express、rollup.
-- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - 全功能 Preact Chrome 扩展入门套件.
+- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ 带有 Preact 的 WebExtension Vite 入门模板.
 - [Preact Neutralino TypeScript Starter](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - 用于使用 Preact 和 neutralino.js 构建轻量级桌面应用程序的入门项目.
 
@@ -125,31 +125,32 @@
 - [Golazon](https://github.com/sobstel/golazon) - 足球数据 mnmlist 方式.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - 使用 Preact 和 PouchDB 构建的渐进式 Web 应用程序.
 - [Code and Comment](https://github.com/code-and-comment/code-and-comment) - 将评论添加到 Github 文件的应用程序 ([demo](https://code-and-comment.github.io/code-and-comment/)).
-- [**Play.cash**](https://play.cash) ：笔记：_（[GitHub Project](https://github.com/feross/play.cash))_
-- [**Songsterr**](https://www.songsterr.com) 从 10.0 alpha 开始在生产中使用 Preact X
-- [**BitMidi**](https://bitmidi.com/) 免费 MIDI 文件的 Wayback 机器 _([GitHub Project](https://github.com/feross/bitmidi.com))_
-- [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact 提升了速度.
-- [**ESBench**](http://esbench.com) is built using Preact.
-- [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
-- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
-- [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
-- [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
-- [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：
-- [**Periodic Weather**](https://use-the-platform.com/periodic-weather/) _([GitHub Project](https://github.com/vaneenige/periodic-weather/))_:晴天:
-- [**Rugby News Board**](http://nbrugby.com) _[(GitHub Project)](https://github.com/rugby-board/rugby-board-node)_
-- [**Preact Gallery**](https://preact.gallery/) 使用 Preact 构建的 8KB 照片库 PWA.
-- [**Rainbow Explorer**](https://use-the-platform.com/rainbow-explorer/) Preact 应用程序将现实生活中的颜色转换为数字颜色 _([Github project](https://github.com/vaneenige/rainbow-explorer))_.
-- [**YASCC**](https://carlosqsilva.github.io/YASCC/#/) 另一个 SoundCloud 客户端 _([Github project](https://github.com/carlosqsilva/YASCC))_.
-- [**Journalize**](https://preact-journal.herokuapp.com/) 使用 preact 的 14k 离线日志 PWA.  _([Github project](https://github.com/jpodwys/preact-journal))_.
-- [**Proxx**](https://proxx.app)  GoogleChromeLabs 使用 preact 的接近游戏.  _([Github project](https://github.com/GoogleChromeLabs/proxx))_.
-- [**Web Maker**](https://webmaker.app) 使用 Preact 构建的离线且快速的前端游乐场.  _([Github project](https://github.com/chinchang/web-maker))_.
-- [**Intergram**](https://www.intergram.xyz) 链接到使用 Preact 构建的 Telegram 信使的实时聊天小部件.  _([Github project](https://github.com/idoco/intergram))_.
-- [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
-- [**GHFresh**](https://code2k.github.io/ghfresh/) 监控 GitHub 存储库发布——使用 Preact 进行预呈现. 使用 Preact Compat、TypeScript、Material-UI 和 Redux 工具包构建.  _([GitHub Project](https://github.com/code2k/ghfresh))_.
-- [**Passwords Fountain**](https://passwords-fountain.com/) - 现代和高性能的密码管理器界面，无处不在 _([Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
-- [**macOS Web**](https://macos-preact.now.sh) - 用于 Web 的 macOS Big Sur 桌面体验，使用 Preact 和 Vite _([Github project](https://github.com/PuruVJ/macos-preact))_.
-- [**Cinemate**](https://cinemate.me)  - 使用 Preact 和 TypeScript 构建的电影推荐系统. 用 Rust 编写的后端.
-- [**Windows 11 Web**](https://win11.vercel.app)  - 令人惊叹的 Windows 11 网络克隆！  ⚡ _([Github project](https://github.com/PiyushSuthar/Windows-11-Web))_.
+- [Play.cash](https://play.cash) ：笔记：_（[GitHub Project](https://github.com/feross/play.cash))_
+- [Songsterr](https://www.songsterr.com) 从 10.0 alpha 开始在生产中使用 Preact X
+- [BitMidi](https://bitmidi.com/) 免费 MIDI 文件的 Wayback 机器 _([GitHub Project](https://github.com/feross/bitmidi.com))_
+- [Ultimate Guitar](https://www.ultimate-guitar.com) Preact 提升了速度.
+- [ESBench](http://esbench.com) 使用 Preact 构建.
+- [BigWebQuiz](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
+- [Nectarine.rocks](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃：
+- [OSS.Ninja](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
+- [GuriVR](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
+- [Offline Gallery](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_ ：气球：
+- [Periodic Weather](https://use-the-platform.com/periodic-weather/) _([GitHub Project](https://github.com/vaneenige/periodic-weather/))_:晴天:
+- [Rugby News Board](http://nbrugby.com) _[(GitHub Project)](https://github.com/rugby-board/rugby-board-node)_
+- [Preact Gallery](https://preact.gallery/) 使用 Preact 构建的 8KB 照片库 PWA.
+- [Rainbow Explorer](https://use-the-platform.com/rainbow-explorer/) Preact 应用程序将现实生活中的颜色转换为数字颜色 _([Github project](https://github.com/vaneenige/rainbow-explorer))_.
+- [YASCC](https://carlosqsilva.github.io/YASCC/#/) 另一个 SoundCloud 客户端 _([Github project](https://github.com/carlosqsilva/YASCC))_.
+- [Journalize](https://preact-journal.herokuapp.com/) 使用 preact 的 14k 离线日志 PWA.  _([Github project](https://github.com/jpodwys/preact-journal))_.
+- [Proxx](https://proxx.app)  GoogleChromeLabs 使用 preact 的接近游戏.  _([Github project](https://github.com/GoogleChromeLabs/proxx))_.
+- [Web Maker](https://webmaker.app) 使用 Preact 构建的离线且快速的前端游乐场.  _([Github project](https://github.com/chinchang/web-maker))_.
+- [Intergram](https://www.intergram.xyz) 链接到使用 Preact 构建的 Telegram 信使的实时聊天小部件.  _([Github project](https://github.com/idoco/intergram))_.
+- [Preact App in ES6 without Babel or JSX](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
+- [GHFresh](https://code2k.github.io/ghfresh/) 监控 GitHub 存储库发布——使用 Preact 进行预呈现. 使用 Preact Compat、TypeScript、Material-UI 和 Redux 工具包构建.  _([GitHub Project](https://github.com/code2k/ghfresh))_.
+- [Passwords Fountain](https://passwords-fountain.com/) - 现代和高性能的密码管理器界面，无处不在 _([Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
+- [macOS Web](https://macos-preact.now.sh) - 用于 Web 的 macOS Big Sur 桌面体验，使用 Preact 和 Vite _([Github project](https://github.com/PuruVJ/macos-preact))_.
+- [Cinemate](https://cinemate.me)  - 使用 Preact 和 TypeScript 构建的电影推荐系统. 用 Rust 编写的后端.
+- [Windows 11 Web](https://win11.vercel.app)  - 令人惊叹的 Windows 11 网络克隆！  ⚡ _([Github project](https://github.com/PiyushSuthar/Windows-11-Web))_.
+- [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: 高度可扩展和简约的想法保持应用程序 _([GitHub Project](https://github.com/MiftikCZ/idea-keeper-2))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - 用于构建用户界面的声明式、高效且灵活的 JavaScript 库.

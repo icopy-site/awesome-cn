@@ -38,7 +38,7 @@ platform.
 - [DOjS](https://github.com/SuperIlu/DOjS) - 适用于 MS-DOS、FreeDOS 或任何基于 DOS 的 Windows（如 95、98、ME）的 JavaScript 编程环境.
 - [Lua for DOS](https://archive.org/details/lua5.3.5) - Lua 5.3.5 的在线演示，在 Intel 80486 处理器上为 MS-DOS 编译.
 - [Micropython for FreeDOS](https://github.com/pohmelie/micropython-freedos) - FreeDOS ad-hoc 模块 [micropython](https://github.com/micropython/micropython).
-- [perldos](https://perldoc.perl.org/perldos) - 用于 DOS 的 Perl.
+- [perldos](https://perldoc.perl.org/perldos) - 适用于 DOS 的 Perl.
 - [PythonD](http://www.caddit.net/pythond/) - 适用于 DOS 的 Python，包括多线程、网络和 OpenGL.
 
 ## Tutorials and programming resources
@@ -111,7 +111,7 @@ platform.
 
 #### AdLib/OPL2
 
-- [Yamaha YM3812 (OPL2) sound chip Wikipedia article](https://en.wikipedia.org/wiki/Yamaha_YM3812) - 除了 8 位家伙的 YouTube 视频之外，了解 OPL2 声音芯片的最佳起点.
+- [Yamaha YM3812 (OPL2) sound chip Wikipedia article](https://en.wikipedia.org/wiki/Yamaha_YM3812) - Best starting point to learn about the OPL2 sound chip besides 8-bit guy's YouTube video.
 - [The Ad Lib Music Synthesizer Card Programming Guide - by Tero Töttö](https://web.archive.org/web/20200427145810/http://www.vgmpf.com/Wiki/images/4/48/AdLib_-_Programming_Guide.pdf) - OPL2 操作和寄存器的参考.
 
 #### Sound Blaster/OPL3
@@ -140,11 +140,15 @@ platform.
 
 ## Videos
 
+- [Why DOS Was (and Is) a Thing - FreeDOS](https://www.youtube.com/watch?v=3E5Hog5OnIM) - 历史谈话从 Unix 开始，经过 CPM、DOS 1.x、DOS 2.x、DOS 3.x、DOS 4.x、DOS 6.x、Windows 3.1、Windows 95 并以 FreeDOS 结束.
 - [CGA Graphics - Not as bad as you thought! - by 8-bit Guy](https://www.youtube.com/watch?v=niKblgZupOc)  - 有关 IBM CGA 系统的历史和技术细节. 还描述了 4 色 RGBI 和 16 色复合模式.
 - [How Oldschool Sound/Music worked - by 8-bit Guy](https://www.youtube.com/watch?v=q_3d1x2VPxk) - 有关 PC 扬声器、NES 和 Commodore 64 中的 FM 合成器、AdLib 和 Sound Blaster 声卡中的 Yamaha OPL 芯片、PCM 样本和 MOD 音乐的视频.
 - [Let's Code - MS DOS - by root42](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) - DOS 编程教程系列，包括 VGA、SoundBlaster 和 VGA Mode X.
 - [LGR - Evolution of PC Audio - As Told by Secret of Monkey Island](https://www.youtube.com/watch?v=a324ykKV-7Y) - 通过 PC 扬声器、IBM PCjr/Tandy、AdLib、Game Blaster、Roland LAPC-1/MT-32、Gravis Ultrasound、Roland SCC-1 MIDI、SB16 Waveblaster/AWE32 和 CD 播放《猴岛的秘密》前奏曲的比较优质的数字音频.
 - [Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy](https://www.youtube.com/watch?v=kSKeWH4TY9Y)  - GDC 谈话.  Brian Provinciano 关于将 Retro City Rampage 从 PlayStation 4 移植到 DOS 的演讲. 主题包括优化、使用中断、定时、PC 扬声器声音、操纵杆、内存管理和定点数学.
+- [DOS Executables Explained - Nostalgia Nerd](https://www.youtube.com/watch?v=6j947U4xl5I) - 有关 DOS 可执行文件格式的视频，包括 .COM、.BAT 和 .EXE.
+- [Why does DOS use 8.3 Filenames? - Nostalgia Nerd](https://www.youtube.com/watch?v=eGIyCD2_qA8) - 有关 DOS、FAT 分区方案、NTFS、VFAT、FatGo 和 `LFN.EXE` 下文件名 8.3 限制的视频.
+- [What is DOS Protected Mode? / DOS Extenders- Nostalgia Nerd](https://www.youtube.com/watch?v=XAyQLV5bbb0) - 有关 PC 内存的外观、常规内存、扩展内存以及需要 DOS 保护模式接口 (DPMI) 和 DOS/4GW 等扩展程序的原因的视频.
 
 ## Open source DOS libraries
 
@@ -169,7 +173,7 @@ platform.
 - [Hangman](https://sourceforge.net/projects/hangman-dos/)  - 用 Basic 编写的 Hangman 克隆. 在至少 80286 处理器上运行并使用 EGA 图形.
 - [Magenta's Maze](https://archive.org/details/MAGSMAZE) - 以代数为题材的CGA图形3D迷宫游戏.
   - [Source code download link](http://www.doshaven.eu/downloads/537)
-- [NetHack](https://github.com/NetHack/NetHack) - 原始人的后裔 [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike 游戏于 1987 年首次发布，可在多个平台上使用.
+- [NetHack](https://github.com/NetHack/NetHack) - 原始人的后代 [NetHack](https://en.wikipedia.org/wiki/NetHack) rougelike 游戏于 1987 年首次发布，可在多个平台上使用.
 - [Piskworks](https://github.com/berk76/piskworks) - 用 C 编写的 Gomoku 克隆.适用于 DOS、ZX Spectrum、ZX81、ZX80、APPLE1、AS400 和 Windows.
 - [Plutonium Caverns](https://github.com/jani-nykanen/plutonium-caverns) - 用C编写的架空益智游戏.网页版使用 [DOSBox ported to Emscripten](https://github.com/dreamlayers/em-dosbox) 将 DOSBox 嵌入到 HTML5 中. 但是，原始可执行文件也可以使用 Open Watcom 下载和构建.
 - [Ptakovina](https://github.com/berk76/tetris) - 用 C 语言编写的俄罗斯方块克隆版.可在 DOS、Unix/Linux、ZX Spectrum 和 Windows 上运行.
@@ -177,7 +181,7 @@ platform.
 - [Tetris](http://www.doshaven.eu/game/tetris/) - 用汇编编写的俄罗斯方块克隆.
   - [Source code download link](http://www.doshaven.eu/downloads/373)
 - [Towers of Hanoi](https://github.com/sblendorio/hanoi-dos) - [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) 用 Turbo Pascal 编写的益智游戏. 最初于 1996 年发布.
-- [x86 pong](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
+- [x86 pong](https://github.com/spacerace/x86-pong) - 用 C 编写的文本模式 Pong 克隆.在 DOS 下作为 PC-Booter 游戏运行.
 - [zmiy](https://sourceforge.net/projects/zmiy/) - 用 C 编写的文本模式 Snake 克隆.在 8086 DOS 上运行.
 
 ### Freeware games with source code
@@ -198,15 +202,15 @@ platform.
 - [Descent](https://github.com/videogamepreservation/descent)  - 第一款具有完全真实 3D 图形的科幻 FPS/太空射击游戏. 用 C 语言和汇编语言编写.
 - [Descent II](https://github.com/videogamepreservation/descent2)  - 后裔的续集. 用 C 语言和汇编语言编写.
 - [Doom](https://github.com/id-Software/DOOM)  - 由 id Software 开发的科幻第一人称射击游戏，您可以在其中与来自火星地狱的恶魔作战. 由于依赖于获得许可的 DMX 声音库，因此无法发布 Doom 的特定于 DOS 的代码，因此它被清理并且只有 Linux 源代码在那里. 但是，Heretic 和 Hexen 项目包含原始 DOS 代码，其中删除了与 DMX 相关的代码.
-- [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html) - FPS developed by Apogee featuring the iconic character Duke Nukem. Written in C. Compiled with Watcom C/C++ 10.0.
+- [Duke Nukem 3D](https://web.archive.org/web/20190304015745/https://www.classicdosgames.com/game/Duke_Nukem_3D.html)  - 由 Apogee 开发的第一人称射击游戏，主角是毁灭公爵. 用 C 语言编写.使用 Watcom C/C++ 10.0 编译.
   - [Source code download link](https://web.archive.org/web/20160403223736/http://www.classicdosgames.com/files/source/duke3dsource.zip)
 - [Heretic](https://github.com/OpenSourcedGames/Heretic) - 在 id Software 的 Doom 引擎上运行的黑暗幻想 FPS.
 - [Hexen: Beyond Heretic](https://github.com/OpenSourcedGames/Hexen) - Heretic 的间接续集.
-  - 原来 [SourceForge link](https://sourceforge.net/projects/heretic/files/) 对于异端/异教徒.
+  - 原来 [SourceForge link](https://sourceforge.net/projects/heretic/files/) for Heretic/Hexen.
 - [Hovertank 3D](https://github.com/FlatRockSoft/Hovertank3D)  - 由 id Software 开发的 FPS. 在 Catacomb 3D 和 Wolfeinstein 3D 之前，采用光线投射技术的伪 3D 图形. 用 C 语言和汇编语言编写.
 - [Quake](https://github.com/id-Software/Quake)  - 由 id Software 开发的 FPS 设置在全 3D 世界中. 用 C 编写.用 DJGPP 为 DOS 编译.
   - [Quake Engine Code Review series](https://fabiensanglard.net/quakeSource/index.php) - Fabien Sanglard 的代码分析.
 - [Rise of the Triad: Dark War](https://github.com/videogamepreservation/rott)  - Apogee 开发的第一人称射击游戏. 它是作为 Wolfenstein 3D 的后续游戏开发的，但经过修改并成为一款独立游戏. 使用经过大量修改的 Wolfenstein 3D 引擎. 用C写的.
-- [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - 由 David L. Clark 于 1984 年创建的横向卷轴射击游戏.该游戏涉及驾驶 Sopwith 双翼飞机，试图轰炸敌方建筑物，同时避开敌机和其他各种障碍物的火​​力.
+- [Sopwith](https://web.archive.org/web/20200131222432/http://davidlclark.com/page/sopwith) - 由 David L. Clark 于 1984 年创建的横向卷轴射击游戏.该游戏涉及驾驶 Sopwith 双翼飞机，试图轰炸敌方建筑物，同时避开敌机和各种其他障碍物的火​​力.
   - [MaiZure's Projects - Decoded: Sopwith](https://web.archive.org/web/20201211175311/https://www.maizure.org/projects/decoded-sopwith/) - MaiZure 的代码分析.
 - [Wolfenstein 3D](https://github.com/id-Software/wolf3d)  - 由 id Software 开发的第一人称射击游戏，场景设置在纳粹德国监狱德军总部. 具有采用光线投射技术的伪 3D 图形. 用 C 语言和汇编语言编写.
