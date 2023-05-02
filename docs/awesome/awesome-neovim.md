@@ -24,6 +24,10 @@
 Neovim 支持多种 UI.
 您可以在 [Neovim wiki](https://github.com/neovim/neovim/wiki/Related-projects#gui)
 
+## Starter Templates
+- [tokiory/neovim-boilerplate](https://github.com/tokiory/neovim-boilerplate) - 用于制作新配置的入门样板.
+- [frans-johansson/lazy-nvim-starter](https://github.com/frans-johansson/lazy-nvim-starter) - 带有惰性插件管理器的入门样板.
+
 ## Plugin
 
 ### Plugin Manager
@@ -73,7 +77,7 @@ Neovim 支持多种 UI.
 - [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - 使用 ccls LSP 的非规范扩展并浏览 AST.
 - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) - 将 LSP 功能添加到特定的 Neovim 缓冲区.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - 用于预览、导航和编辑 LSP 位置的漂亮窗口.
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Neovim 的另一个 lsp 进度状态.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - 包装 LSP 操作的现代且有用的 UI.
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - 在函数定义上方显示函数引用，如 IDEA codelens.
 
@@ -176,7 +180,7 @@ Neovim 支持多种 UI.
 ### Register
 
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 与 Vim 寄存器动态交互.
-- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - Non-obtrusive minimal preview of Vim registers.
+- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - Vim 寄存器的非干扰性最小预览.
 - [acksld/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - 带有望远镜集成的剪贴板管理器 Neovim 插件.
 - [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) - 使用删除、剪切和抽取映射进行更多有意的寄存器处理.
 
@@ -258,7 +262,7 @@ Neovim 支持多种 UI.
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - 允许用户在 Neovim 中选择和修改 RGB/HSL/HEX 颜色的插件.
 - [lcheylus/overlength.nvim](https://github.com/lcheylus/overlength.nvim) - 一个小插件来突出显示太长的行.
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - 使用 Neovim 突出显示颜色的插件.
-- [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
+- [nvim-colortils/colortils.nvim](https://github.com/nvim-colortils/colortils.nvim) - 一个提供实用程序的插件，用于在 Neovim 中处理颜色（选择器、转换）.
 - [Mr-LLLLL/interestingwords.nvim](https://github.com/Mr-LLLLL/interestingwords.nvim) - 同时突出显示多个单词并在光标下平滑滚动导航单词，在虚拟文本中显示搜索计数.
 
 ### Colorscheme
@@ -281,7 +285,7 @@ Neovim 支持多种 UI.
 - [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - 源自 palenight 和 carbonight 的深色配色方案.
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - 海洋下一个主题.
 - [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - 支持树保姆的深色配色方案.
-- [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
+- [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - 手工支持 LSP、Tree-sitter 的配色方案.
 - [jim-at-jibba/ariake-vim-colors](https://github.com/jim-at-jibba/ariake-vim-colors)  - 伟大的 Atom 主题的端口. 有 Tree-sitter 支持的黑暗和光明.
 - [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy) - 光暗原子同一个主题.
 - [ishan9299/modus-theme-vim](https://github.com/ishan9299/modus-theme-vim) - 这是 Protesilaos Stavrou 为 emacs 开发的配色方案.
@@ -426,7 +430,7 @@ Neovim 支持多种 UI.
 
 ### Startup
 
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - 受 doom-emacs 启发的极简仪表板.
+- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - A minimalist dashboard, inspired by doom-emacs.
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - 一个快速且高度可定制的欢迎程序，例如 [vim-startify](https://github.com/mhinz/vim-startify)/dashboard-nvim.
 - [echasnovski/mini.nvim#mini.starter](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-starter.md)  - 用于启动屏幕的 `mini.nvim` 模块. 显示的项目是完全可定制的，项目选择可以使用带有即时视觉反馈的前缀查询来完成.
 - [henriquehbr/nvim-startup.lua](https://sr.ht/~henriquehbr/nvim-startup.lua) - 显示 Neovim 启动时间.
@@ -496,7 +500,7 @@ Neovim 支持多种 UI.
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 浏览当前缓冲区中的所有 URL.
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) - 只要有意义就切换相对编号.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - 在循环缓冲区时显示带有上下文的通知窗口.
-- [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - 记住文件位置并按时间和频率排序.
+- [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - 显示一条线作为colorcolumn.
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - 管理和运行临时缓冲区.
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - 具有现代外观和性能提升的超折叠.

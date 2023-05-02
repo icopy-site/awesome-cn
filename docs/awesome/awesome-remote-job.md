@@ -173,7 +173,6 @@
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - 提供具有西班牙合同的全职远程工作的存储库上市公司
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - 半到完全远程友好的技术公司列表
   1. [Remotees](https://remotees.com/)
-  1. [RemotExtra](https://www.remotextra.com/) - 薪水透明的远程开发人员工作
   1. [Remotewide](https://remotewide.co/) - 寻找与位置无关的薪酬的远程工作
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteJobs.lat](https://remotejobs.lat/) - 拉丁美洲人的远程工作
@@ -258,7 +257,7 @@
 
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
-  1. [Project Getaway](https://www.projectgetaway.com/) - 30天静修
+  1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
   1. [Recurse Center](https://www.recurse.com/) - 3个月的免费静修
 
 ## Newsletters
@@ -617,7 +616,7 @@
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 为 Digital Nomads 精心挑选的精彩资源列表.
   1. [Established Remote](https://github.com/yanirs/established-remote) - 已建立的远程公司列表
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - 黑客空间列表.
-  1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+  1. [LiquidSpace](https://liquidspace.com/) - 每日和每小时的办公室和会议室出租.
   1. [NODESK](https://nodesk.co/) - 为数字游民和远程工作者提供的 3000 多篇文章、远程工作、资源和工具.
   1. [Nomad List](https://nomadlist.io/) - 比较不同城市的成本和生活质量.
   1. [Regus USA](https://www.regus.com/) - 行政套房、虚拟办公室和会议室空间.

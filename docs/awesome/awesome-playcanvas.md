@@ -15,7 +15,7 @@
 
 - [Editor](https://playcanvas.com/) - 基于浏览器的实时协作 WebGL 编辑器.
 - [Engine](https://github.com/playcanvas/engine) - 获得麻省理工学院许可的 PlayCanvas 运行时的完整源代码.
-- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 兼容模型查看器.
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
 - [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
@@ -131,7 +131,9 @@
 - [TANX](https://tanx.io) - 在线多人坦克大战游戏.
 - [Tribals](https://tribals.io/) - 第一人称多人生存游戏.
 - [Venge](https://venge.io/) - 3D 多人 FPS 射击游戏.
+- [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza) - 多人餐厅游戏.
 - [Warbands](https://www.warbands.io/) - 3D 多人 FPS 射击游戏.
+- [Wheat Farming](https://poki.com/en/g/wheat-farming) - 多人农场游戏.
 
 ## Messenger Games
 
@@ -140,7 +142,7 @@
 - [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - iMessage 多人游戏.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - 点球大战.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - 头对头篮球比赛.
-- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - 从 Bob 的头顶射击水果.
 
 ## Automotive
 

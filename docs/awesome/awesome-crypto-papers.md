@@ -10,7 +10,7 @@
 
 The goal of this list is to provide educational reading material for different levels of cryptographic knowledge. I started it because my day job onboarding engineers at [Cossack Labs](https://www.cossacklabs.com) 包括对他们进行密码学方面的教育，并就特定主题给出阅读内容的建议，这涉及反复查找相同的材料. 希望它对其他人也有用. 
 
-它面向在更高级别安全系统中使用密码学实现各种方案的数据库加密、安全共享、端到端加密的人员，应该了解它是如何工作的，它是如何失败的，它是如何被攻击的. 它不是著名/重要/历史上重要的论文列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都能更好地掌握他们需要的东西），也不是针对想成为密码学家的系统研究（他们在专业指导下更好地遵循结构化方法）. 
+它面向在更高级别的安全系统中使用密码学实现各种方案的数据库加密、安全共享、端到端加密的人员，并且应该了解它是如何工作的，它是如何失败的，它是如何被攻击的. 它不是著名/重要/历史上重要的论文列表（尽管其中很多都在这里）. 它不是针对学者（他们无论如何都能更好地掌握他们需要的东西），也不是针对想成为密码学家的系统研究（他们在专业指导下更好地遵循结构化方法）. 
 
 当我发现一些“必备”的价值时，它会逐渐扩展. 非常欢迎请求请求.
 
@@ -99,7 +99,7 @@ The goal of this list is to provide educational reading material for different l
 
 * [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Diffie 和 Hellman 的开创性论文，介绍了公钥密码学和密钥交换/协议协议.
 * [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - 用更多工程术语解释 Diffie-Hellman 方法.
-* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) - 介绍 RSA 算法的原始论文. 
+* [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf) - 介绍 RSA 算法的原始论文. 
 * [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - 对 RSA 背后的每一点的教育解释.
 * [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)  - R. Merkle 的论文早于“密码学的新方向”，尽管它是在它之后发表的.  Diffie-Hellman 密钥交换是这种 Merkle 系统的一个实现.
 * [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao 模型是一种形式化模型，用于证明交互式密码协议的性质.

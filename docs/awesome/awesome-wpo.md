@@ -66,6 +66,7 @@
 
 ### Conferences
 
+- [We Love Speed](https://www.welovespeed.com/) – We Love Speed 诞生于尽可能广泛地分享网络性能知识和经验的愿望.
 - [PWA Summit](https://pwasummit.org/) – 一个免费的在线单轨会议，专注于帮助每个人使用 Progressive Web Apps 取得成功.
 - [Velocity](http://conferences.oreilly.com/velocity) – 在 Velocity，Web 运营、性能和 DevOps 专业人员学习构建快速、有弹性且高度可用的网站和应用程序.
 - [performance.now()](https://perfnow.nl/)  – performance.now() 会议将返回阿姆斯特丹！ 我们是一个单轨会议，有 14 位世界级的演讲者，涵盖了当今最重要的网络性能见解.
@@ -91,10 +92,10 @@
 - [Screpy](https://screpy.com) - 基于 AI 的 SEO 分析和监控工具
 - [YSlow](https://github.com/marcelduran/yslow) - YSlow 分析网页并根据一组高性能网页规则提出提高其性能的方法.
 - [YSlow for PhantomJS](http://yslow.org/phantomjs/) - PhantomJS 的 YSlow 还为自动化测试框架引入了新的输出格式：TAP（测试任何协议）和 JUnit.
-- [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuously measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
+- [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt)  - 用于连续测量 WebPageTest 的 Grunt 插件.  ([Demo](http://sideroad.github.io/sample-wpt-page/))
 - [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - 使用无头 WebKit 浏览器 PhantomJS 测试页面性能的 Grunt 任务.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - 执行性能预算的 Grunt.js 任务（[more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
-- [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework 是一组用于跟踪和调查复杂 Web 应用程序的库、工具和可视化工具
+- [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
 - [Yandex.Tank](https://github.com/yandex/yandex-tank) - 适用于高级 Linux 用户的可扩展开源负载测试工具，作为自动化负载测试套件的一部分特别好.
 - [Yellow Lab Tools](http://yellowlab.tools) - 在线快速简便的工具，可以审计前端的不良做法，揭示性能问题和分析 JavaScript.
 - [Pagelocity](http://pagelocity.com/) - 一个网络性能优化和分析工具.
@@ -203,7 +204,7 @@
 - [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) - 缩小 Grunt 的 PNG 和 JPEG 图像.
 - [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - 使用 Gulp 的 imagemin 缩小 PNG、JPEG、GIF 和 SVG 图像.
 - [Grunt-WebP](https://github.com/somerandomdude/grunt-webp) - 将您的图像转换为 WebP 格式.
-- [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
+- [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - 将图像转换为 Gulp 的 WebP.
 - [Imageoptim](https://imageoptim.com/)  - 免费应用程序，使图像占用更少的磁盘空间并更快地加载，而不会牺牲质量. 它优化压缩参数，删除垃圾元数据和不必要的颜色配置文件.
 - [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - 使 ImageOptim、ImageAlpha 和 JPEGmini 成为您的自动化构建过程的一部分.
 - [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - 为 Mac 自动化 ImageOptim、ImageAlpha 和 JPEGmini，使图像的批量优化成为自动构建过程的一部分.
@@ -231,7 +232,7 @@
 
 - [HeadJS](https://github.com/headjs/headjs) - 你头上唯一的脚本. 用于响应式设计、特征检测和资源加载.
 - [RequireJS](http://requirejs.org/)  - RequireJS 是一个 JavaScript 文件和模块加载器. 它针对在浏览器中使用进行了优化，但它也可以在其他 JavaScript 环境中使用，例如 Rhino 和 Node.js.
-- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
+- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可证）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
 - [Defer.js](https://github.com/wessman/defer.js) - Async Everything：使用这个 JS 代码让你的页面内容加载得更快.
 - [InstantClick](https://github.com/dieulot/instantclick) - InstantClick 使您网站中的以下链接即时.
 - [JIT](https://github.com/shootaroo/jit-grunt)  - Grunt 的 JIT（及时）插件加载器. 即使有很多插件，Grunt 的加载时间也不会减慢.
@@ -308,7 +309,7 @@
 - [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 - [Lazysizes](https://github.com/aFarkas/lazysizes) - 用于图像（响应式和正常）、iframe 和脚本的高性能延迟加载器，无需配置即可检测通过用户交互、CSS 或 JavaScript 触发的任何可见性更改.
 - [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling 是一种共享资源，用于跟踪新的和现有的性能工具.
-- [TMI](https://github.com/addyosmani/tmi) - TMI（图像太多）- 在网络上发现您的图像权重.
+- [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
 
 ## Generators
 

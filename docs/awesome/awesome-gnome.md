@@ -105,6 +105,7 @@
 - [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - MacOS 画廊，如动态壁纸，以及安装它们的简单脚本
 - [GDM Settings](https://gdm-settings.github.io) - GDM 的设置应用程序（GNOME 的登录屏幕又名 GNOME 显示管理器）.
 - [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) 皮肤安装程序.
+- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak 权限管理器.
 
 ### Utilities
 

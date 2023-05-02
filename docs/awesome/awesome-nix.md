@@ -91,6 +91,7 @@
 * [Arion](https://github.com/hercules-ci/arion) - 在 Nix/NixOS 的帮助下运行 `docker-compose`.
 * [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - 使用缓存快速打开后续 shell 的 `nix-shell` 替代品.
 * [Cachix](https://cachix.org/)  - 托管二进制缓存服务； 免费用于开源项目.
+* [Devbox](https://github.com/jetpack-io/devbox) - 即时、便携和可预测的开发环境.
 * [devshell](https://github.com/numtide/devshell) - 带有额外位和 toml 配置选项的 `mkShell` 能够让非 nix 用户入职.
 * [dream2nix](https://github.com/nix-community/dream2nix) - 一个自动将包从其他构建系统转换为 Nix 的框架.
 * [flake.parts](https://github.com/hercules-ci/flake-parts) - Flakes 的最小 Nix 模块框架：将您的 flakes 分成模块，并使用社区模块完成工作.

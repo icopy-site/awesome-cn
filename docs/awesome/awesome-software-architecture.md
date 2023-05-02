@@ -7,7 +7,7 @@
   
 [![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
   
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) 旨在描述高层次 
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level 
 软件的结构以及创建它们的规则. 由于这个主题非常广泛，它可能 
 包含一些也出现在更多利基列表中的资源. 
 
@@ -79,12 +79,13 @@
 - [PlantUML](http://plantuml.com/) - 就像图表的降价一样，PlantUML 将类似英语的语法渲染到图表中.
 - [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - 在 atlassian 套件中添加了对基于 PlantUML 的图表的支持.
 - [Sketchboard.io](https://sketchboard.io/) - 协作速写板.
+- [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的基于云的免费实体关系图 (ERD) 工具.
 
 ## Frameworks
 
 ### Agile
 
-- [Scrum](https://www.scrumguides.org/) - Framework for developing and maintaining complex products.
+- [Scrum](https://www.scrumguides.org/) - 开发和维护复杂产品的框架.
 - [SAFe](https://www.scaledagileframework.com/) - 可扩展的敏捷框架.
 - [Nexus](https://www.scrum.org/resources/scaling-scrum) - 根据 Scrum 的联合创始人 Ken Schwaber 的说法，可扩展的 Scrum. 
 - [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - “敏捷”如何偏离敏捷的基本原则，以及我们需要做什么来解决问题.
@@ -110,6 +111,7 @@
 ## Bonus
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - 有助于学习的其他内容，以深入了解软件体系结构.
+- [Software Architect Roadmap](https://roadmap.sh/software-architect) - 成为软件架构师的完整且结构化的指南.
 
 ## Contributing
 
