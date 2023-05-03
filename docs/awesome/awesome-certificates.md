@@ -169,7 +169,7 @@
 ## Chatbots
  | 课程名称 | 课程提供者 | 级别 | 小时 | 奖励 |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [How to Build Chatbots](https://cognitiveclass.ai/courses/how-to-build-a-chatbot)  |  IBM / 认知类 |初学者|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/build-your-own-chatbot-level-1)|
+| [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course)  |  IBM / 认知课程 |初学者|5 |  |
 
 
 ## DevOps

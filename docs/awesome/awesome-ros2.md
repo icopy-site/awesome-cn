@@ -11,6 +11,9 @@
 
 ## Packages
 
+### Data collection
+- [ros2_data_collection](https://github.com/Minipada/ros2_data_collection) - 从 ROS 2 可靠地收集、验证和发送数据，以创建 API 和仪表板. ![ros2_data_collection](https://img.shields.io/github/stars/minipada/ros2_data_collection.svg)
+
 ### Demonstrations
 
 - [adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) - 基于 ROS 2.0/1.0 的机器人群架构 (opensplice DDS). ![adlink_ddsbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_ddsbot.svg)
@@ -84,7 +87,7 @@
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的 2D 和 3D 实时同时定位和映射 (SLAM). ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - ROS2 的大满贯 Gmapping. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 - [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam 工具箱，用于使用 ROS 在潜在的大型地图中进行终身映射和定位. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 使用 ndt/gicp 注册和姿势优化的 3D 激光雷达 slam 的 ROS2 包. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
 - [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 从 LIO-SAM 引用的紧耦合激光雷达惯性 ndt/gicp slam 的 ROS2 包. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 - [octomap_server2](https://github.com/iKrishneel/octomap_server2)  - 用于使用 OctoMap 进行映射的 ROS2 堆栈.  ROS1的端口 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) 包裹. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - 用于将 ROS2 与 OpenCV 连接的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
@@ -158,7 +161,7 @@
 - [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - 用于 MultiWii 和 Cleanflight 飞行控制器的 ROS2 节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ydlidar 的 ROS2 包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ZED SDK 的 ROS 2 包装测试版.
-- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso 雷达驱动器.
+- [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于 ROS2 的 Toyota/Lexus 2015-2017 Denso 雷达驱动程序.
 - [sick_scan2](https://github.com/SICKAG/sick_scan2) - 用于 SICK TiM 系列激光扫描仪 (TiM551/TiM561/TiM571) 的 ROS2 驱动程序.
 - [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - Ouster OS-1 激光雷达的 ROS2 驱动程序. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - 有关微型 ROS 项目中使用和支持的硬件平台的信息和文档.
@@ -323,7 +326,7 @@
 - 如何在 Open-RMF 中定义、分配和执行自定义任务 [video](https://vimeo.com/showcase/9954564/video/767157210) [slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf)
 - ros2_control 从业者指南 [video](https://vimeo.com/showcase/9954564/video/767139648) [slides](http://download.ros.org/downloads/roscon/2022/A%20practitioner_s%20guide%20to%20ros2_control.pdf)
 - Zenoh：如何使 ROS 2 在任何规模下工作并与任何东西集成 [video](https://vimeo.com/769972405) [slides](http://download.ros.org/downloads/roscon/2022/Zenoh%20How%20to%20Make%20ROS2%20Work%20at%20any%20Scale%20and%20Integrate%20with%20Anything.pdf)
-- A case study in optics manufacturing with MoveIt2 and ros2_control [video](https://vimeo.com/showcase/9954564/video/767140351) [slides](http://download.ros.org/downloads/roscon/2022/A%20case%20study%20in%20optics%20manufacturing%20with%20MoveIt2%20and%20ros2_control.pdf)
+- 使用 MoveIt2 和 ros2_control 进行光学制造的案例研究 [video](https://vimeo.com/showcase/9954564/video/767140351) [slides](http://download.ros.org/downloads/roscon/2022/A%20case%20study%20in%20optics%20manufacturing%20with%20MoveIt2%20and%20ros2_control.pdf)
 - 20/20 Robot Vision - 如何使用 camera_aravis 在 ROS 1 和 ROS 2 中设置相机 [video](https://vimeo.com/showcase/9954564/video/767140329) [slides](http://download.ros.org/downloads/roscon/2022/20%20-%2020%20Robot%20Vision%20-%20How%20to%20setup%20cameras%20in%20ROS%201%20&%20ROS%202%20using%20camera_aravis.pdf)
 - 过滤您的 ROS 2 内容 [video](https://vimeo.com/767166447) [slides](http://download.ros.org/downloads/roscon/2022/Filter%20your%20ROS%202%20content.pdf)
 - 随着时间的推移不断发展的消息类型和其他接口 [video](https://vimeo.com/showcase/9954564/video/767140015) [slides](http://download.ros.org/downloads/roscon/2022/Evolving%20Message%20Types,%20and%20Other%20Interfaces,%20Over%20Time.pdf)

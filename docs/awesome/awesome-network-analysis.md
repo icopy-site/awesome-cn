@@ -126,6 +126,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[The Development of Social Network Analysis: A Study in the Sociology of Science](http://moreno.ss.uci.edu/)_, by Linton C. Freeman, in English and several other languages (2004; [follow-up paper, 2011](http://moreno.ss.uci.edu/91.pdf)).
 -   _[Dynamical Networks in Psychology: More Than A Pretty Picture?](https://www.researchgate.net/publication/308874807_Dynamical_networks_in_psychology_More_than_a_pretty_picture)_, by Laura Bringmann (2016; PhD dissertation).
 -   _[Dynamical Processes on Complex Networks](http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521879507)_, by Alain Barrat, Marc Barthélemy and Alessandro Vespignani (2008).
+-   _[Economic Networks: Theory and Computation](https://networks.quantecon.org/)_, by John Stachurski and Thomas J. Sargent (2022).
 -   _[Fundamentals of Brain Network Analysis](https://www.elsevier.com/books/fundamentals-of-brain-network-analysis/fornito/978-0-12-407908-3)_, by Alex Fornito, Andrew Zalesky and Edward Bullmore (2016).
 -   _[Inside Criminal Networks](https://www.springer.com/us/book/9780387095257)_, by Carlo Morselli (2009).
 -   _[Neighbor Networks. Competitive Advantage Local and Personal](https://global.oup.com/academic/product/neighbor-networks-9780199570690)_, by Ronald S. Burt (2010).
@@ -137,7 +138,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Theories of Communication Networks](https://global.oup.com/academic/product/theories-of-communication-networks-9780195160376)_, by Peter Monge and Nosh Contractor (2003).
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
- - _[事物的联系. 网络和网络的文化历史 [事物的连通性. 网络和网络的文化历史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，塞巴斯蒂安·吉斯曼 (Sebastian Gießmann)，德语 (2014).
+ - _[事物的联系. 网络和网络的文化历史 [事物的连通性. 网络和网络的文化史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，塞巴斯蒂安·吉斯曼 (Sebastian Gießmann)，德语 (2014).
  - _[涵盖国家社会主义下的社交网络. 柏林受迫害犹太人援助网络的出现和工作方法[国家社会主义中的隐藏社会网络：柏林受迫害犹太人援助网络的起源和工作方法]](http://www.degruyter.com/view/product/432196 )_ ，作者 Marten Düring，德语（2015 年； [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
@@ -312,7 +313,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [SoNAR-C - Social Network Analysis Research Center, University of Italian Switzerland (USi)](http://www.sonarcenter.eco.usi.ch/).
 -   [Topographies of Entanglements. Mapping Medieval Networks](https://oeaw.academia.edu/TopographiesofEntanglements) - 位于奥地利科学院的研究平台，专注于将网络理论和可视化应用于中世纪历史.
 -   [UCL Centre for Organisational Network Analysis (CONA)](https://www.ucl.ac.uk/cona).
--   [Virtual Observatory for the Study of Online Networks (VOSON)](http://vosonlab.net/) - Research and software development project located at the Australian National University.
+-   [Virtual Observatory for the Study of Online Networks (VOSON)](http://vosonlab.net/) - 位于澳大利亚国立大学的研究和软件开发项目.
 
 ## Review Articles
 
@@ -419,7 +420,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm), Pascal Cristofoli, 法语 - 根据大规模在线数据回顾关系社会学和网络分析的现状 (_Réseaux_, 2008).
 -   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/)，作者：Steven M. Goodreau、James A. Kitts 和 Martina Morris - 指数随机图建模的逻辑和应用的通俗易懂的介绍（_Demography_，2001 年）.
--   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)，作者：Peter S. Bearman、James Moody 和 Katherine Stovel - 应用于情感和性关系网络的拓扑网络分析的经典示例（_美国社会学杂志_，2004 年）.
+-   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf), by Peter S. Bearman, James Moody 和 Katherine Stovel - 应用于情感和性关系网络的拓扑网络分析的经典示例（_美国社会学杂志_，2004 年）.
 -   [Coauthorship and Citation Patterns in the _Physical Review_](https://doi.org/10.1103/PhysRevE.88.012814), Travis Martin _et al._ - 通过时间网络分析对科学出版生产力和协作的高度典型研究（[preprint](https://arxiv.org/abs/1304.0473) ;  _物理评论 E_，2013）.
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf)，作者 Jon Kleinberg - 在互联网和社交媒体的背景下讨论小世界效应和社会传染（ACM 的通讯，2008 年）.
 -   [Deux traditions d’analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm), 迈克尔·夏娃 ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS) ;  _网络_, 2002).
@@ -628,7 +629,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [npartite](https://github.com/ike002jp/npartite) - 用于 n 部分网络中社区检测的 Python 算法.
 -   [PyGraphistry](https://github.com/graphistry/pygraphistry) - 用于提取、转换和可视化探索大图的 Python 库.
 -   [python-igraph](http://igraph.org/python/) - igraph 网络分析包的 Python 版本.
--   [python-louvain](https://perso.crans.org/aynaud/communities/) - Louvain 社区检测算法的可靠实现.
+-   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 -   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - 基于稀疏矩阵表示的快速图形算法.
 -   [Snap.py](http://snap.stanford.edu/snappy/index.html) - 用于 SNAP（用于分析和操作大型网络的通用高性能系统）的 Python 接口.
 -   [SnapVX](https://github.com/snap-stanford/snapvx) - 针对图上定义的问题的凸优化求解器.

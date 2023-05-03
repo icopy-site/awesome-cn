@@ -430,7 +430,7 @@ Books:
 
 我完全同意，无论这些书有多长，都没有关系. 他们太棒了. 魔法系统很复杂，布兰登所关注的角色有他们自己的小缺点和令人敬畏的点点滴滴. 这是 90 年代的经典幻想，但仍然非常好. 这个世界对于奇幻来说也很新颖——不再是英格兰式的环境，而是一种不同的风景.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Brandon Sanderson 的史诗奇幻系列讲述了 Roshar 的故事，这是一个充满石头和风暴的世界. 不可思议的风暴席卷着岩石地带. 自从被称为光辉骑士团的十个神圣骑士团陨落以来已经过去了几个世纪，但他们的 Shardblades 和 Shardplate 仍然存在：神秘的剑和盔甲套装可以将普通人变成近乎无敌的战士. 当残酷的战争为争夺这些魔法武器的控制权而肆虐时，一本名为《王者之路》的古老文字讲述了远古时代、光辉骑士团，也许还有这场战争的真正起因. 天辉骑士团必须重新站起来.
+ &gt; Brandon Sanderson 的史诗奇幻系列讲述了 Roshar 的故事，这是一个充满石头和风暴的世界. 不可思议的风暴席卷着岩石地带. 自从被称为光辉骑士团的十个神圣骑士团陨落以来已经过去了几个世纪，但他们的碎片刀片和碎片板甲仍然存在：神秘的剑和盔甲套装可以将普通人变成近乎无敌的战士. 当残酷的战争为争夺这些魔法武器的控制权而肆虐时，一本名为《王者之路》的古老文字讲述了远古时代、光辉骑士团，也许还有这场战争的真正起因. 天辉骑士团必须重新站起来.
 
 Books:
 
@@ -482,7 +482,7 @@ Books:
  &gt; 玻璃王座是美国作家莎拉·J·马斯 (Sarah J. Maas) 的一部由年轻成人转变为新成人的奇幻小说系列，从同名小说开始，于 2012 年 8 月发行.故事讲述了少年刺客 Celaena Sardothien 的旅程在一个腐败的王国里，有一个暴虐的统治者. 随着故事的进展，Celaena 建立了意想不到的纽带，并在她的冒险中发现了一个阴谋. 该系列于 2018 年 10 月以第八本书结束.
 &gt; 该系列出现在纽约时报畅销书排行榜上，Hulu 已将其选为由马克·戈登改编的电视剧.
 
- &gt; 18 岁的刺客 Celaena Sardothien 因罪行在 Endovier 的盐矿服了一年苦役后，被拖到王储面前. 多里安王子在一个条件下给了她自由：她必须在寻找新的皇家刺客的比赛中充当他的冠军.
+ &gt; 18 岁的刺客 Celaena Sardothien 因罪行在恩多维尔的盐矿服了一年苦役后，被拖到王储面前. 多里安王子在一个条件下给了她自由：她必须在寻找新的皇家刺客的比赛中充当他的冠军.
  &gt; 她的对手是来自帝国各地的盗贼、刺客和战士，每个人都由国王议会的一名成员赞助. 如果她在一系列淘汰赛中击败她的对手，她将为王国服务四年，然后获得自由.  Celaena 发现她与守卫队长 Westfall 的训练课程既充满挑战又令人振奋. 但她厌倦了宫廷生活. 当王子开始对她表现出兴趣时，事情变得更有趣了……但似乎最了解她的是粗鲁的韦斯特福尔船长.
  &gt; 然后另一名参赛者死亡……紧接着另一名参赛者死亡.  Celaena 能否在成为受害者之前找出凶手是谁？ 随着年轻刺客的调查，她的探索使她发现了一个比她想象的更伟大的命运.
 
@@ -514,7 +514,7 @@ Books:
 
 #### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) _by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)_ [3.78]
 
-我发现 Jirel 作为 1930 年代低俗幻想的女主角很迷人. 在她的整个冒险过程中，吉瑞尔的对手不断寻求伤害她、将她用作诱饵、引诱她或制服她. 她常常无法逃避目睹甚至成为可怕事情的一部分，但她接受了这些不可能的情况，并按照自己的方式面对它们. 我认为这是一个很好的选择，而不是总是逃避危险或使用女性诡计来摆脱困境.  Jirel 在身体和情感上都很有能力，但不是万事通或天生幸运. 摩尔描绘了奇幻领域和生物的令人难以置信的生动图画. 我认为这些故事可以很好地转化为图画小说. 该系列是对传统剑术和魔法故事的引人入胜的尝试，非常值得一读.  - [@thejessleigh](https://github.com/thejessleigh)
+我发现 Jirel 作为 1930 年代低俗幻想的女主角很迷人. 在她的整个冒险过程中，吉瑞尔的对手不断寻求伤害她、将她用作诱饵、引诱她或制服她. 她常常无法逃避目睹甚至成为可怕事情的一部分，但她接受了这些不可能的情况，并按照自己的方式面对它们. 我认为这是一个很好的选择，而不是总是逃避危险或使用女性诡计来摆脱困境.  Jirel 在身体和情感上都很有能力，但不是万事通或天生幸运. 摩尔描绘了奇幻领域和生物的令人难以置信的生动图画. 我认为这些故事可以很好地转化为图画小说. 这本合集对传统的剑术和魔法故事进行了引人入胜的创作，非常值得一读.  - [@thejessleigh](https://github.com/thejessleigh)
 
  &gt; CL Moore 创造了 Jirel，Joiry 的统治者，以回应 30 年代低俗杂志充实的血腥故事，但 Jirel 并不反对柯南. 她是一个善良的天主教女孩，固执而有目的性，不屈不挠地追捕敌人或报复，冷酷又有点愚蠢，不能被单纯的外表吸引力分散注意力. 的确，在吉雷尔的世界里，美丽=颓废=腐败. 如果这些故事写在今天，吉瑞尔不可避免地会有很多火辣的性爱，但由于它们首次发表于 1934 年至 1939 年的怪诞故事中，性吸引大多只是生动地暗示. 没有损失.  Jirel 穿越非自然景观的旅程以及她与超自然对手的战斗仍然读起来很精彩，虽然新来者 Red Sonja 和 Xena 现在更有名，但 Jirel 统治着典型的、不屈不挠的红发女剑士，身穿锁子甲和护胫，挥舞着她的“伟大的两个——刃剑.”
 
@@ -546,7 +546,7 @@ Books:
 
  &gt; 即将因谋杀罪被处决，叶莲娜得到了一次特别的缓刑. 她会吃最好的饭菜，在宫殿里有房间——并冒着被任何试图杀死 Ixia 指挥官的人暗杀的风险.
 
- &gt; 因此，叶莲娜选择成为一名美食品尝师. 但是安全主管不留任何侥幸心理，故意给她喂蝴蝶粉——只有每天都出现在她身边服用解毒剂，她才能推迟因毒药而痛苦死去的时间.
+> And so Yelena chooses to become a food taster. But the chief of security, leaving nothing to chance, deliberately feeds her Butterfly's Dust—and only by appearing for her daily antidote will she delay an agonizing death from the poison.
 
  &gt; 当 Yelena 试图摆脱她的新困境时，灾难不断增加. 叛军密谋夺取伊克西亚，叶莲娜发展出她无法控制的魔法力量. 她的生命再次受到威胁，必须做出选择. 但这一次的结果并不那么明朗……
 
@@ -558,7 +558,7 @@ Books:
 
 #### [The Darkest Part of the Forest](https://www.goodreads.com/book/show/20958632-the-darkest-part-of-the-forest) (2015) _by [Holly Black](https://en.wikipedia.org/wiki/Holly_Black)_ [3.85]
 
-我在高中时读过这本书，我喜欢这本书如何将奇幻元素与针对青少年的相关故事情节融合在一起.  - [@jilloestreicher](https://github.com/jilloestreicher)
+I read this book in high school and I loved how the book was able to merge the fantasy elements with relatable storylines aimed towards teenagers. - [@jilloestreicher](https://github.com/jilloestreicher)
 
  &gt; Hazel 和她的兄弟 Ben 住在陌生的 Fairfold 小镇，人类和精灵并存. 仙灵们看似无害的魔法吸引了游客，但黑兹尔知道它们有多危险，也知道如何阻止它们. 或者她曾经做过. 随着世界天翻地覆，黑兹尔试图回忆起她假装骑士的岁月. 但是被新的爱情、忠诚的转变和背叛的新鲜刺痛所席卷，这就足够了吗？
 
@@ -641,7 +641,7 @@ Books:
 
 我每年至少读一次这本书. 这个故事讲得很好，很容易接近，有很多宝石，是一次很好的旅行.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; 一个十几岁的年轻人从我们的世界传送到一个包含七个现实层次的魔法国度. 很快就被魔法变成了一个英勇的成年人，他取名为亚伯并开始寻找承诺给他的剑，一把他将从龙那里得到的剑，一把非常特别的剑将帮助他实现成为骑士和真正英雄的人生抱负. 然而，在内心深处，亚伯仍然是个男孩，他必须在各种意义上成长，才能在与巨人、精灵、巫师和龙的相遇中度过危险和欢乐. 他的冒险将在巫师骑士的第二卷“巫师”中结束. 凭借这个新系列，沃尔夫不仅超越了过去三十年所有最受欢迎的流派作家，他还讲述了上个世纪的传奇，其作品将与 JRR 托尔金、ER 埃迪森、默文的最佳作品相媲美皮克和 TH 怀特. 这是一本书——也是一个系列——适合各个年龄段，作者可能是奇幻类（或非奇幻类）在世的最伟大的作家.
+ &gt; 一个十几岁的年轻人从我们的世界传送到一个包含七个现实层次的魔法国度. 很快就被魔法变成了一个英勇的成年人，他取名为亚伯并开始寻找承诺给他的剑，一把他将从龙那里得到的剑，一把非常特别的剑将帮助他实现成为骑士和真正英雄的人生抱负. 然而，在内心深处，亚伯仍然是个男孩，他必须在各方面成长，才能在与巨人、精灵、巫师和龙的相遇中度过危险和欢乐. 他的冒险将在巫师骑士的第二卷“巫师”中结束. 凭借这个新系列，沃尔夫不仅超越了过去三年中所有最受欢迎的流派作家，他还讲述了上个世纪的传奇故事，其作品将与 JRR 托尔金、ER 埃迪森、默文的最佳作品相媲美皮克和 TH 怀特. 这是一本书——也是一个系列——适合各个年龄段，作者可能是奇幻类（或非奇幻类）在世的最伟大的作家.
 
 #### [Vicious](https://www.goodreads.com/book/show/40874032-vicious) _by [V.E. Schwab](https://en.wikipedia.org/wiki/V._E._Schwab)_ [4.25]
 
@@ -700,7 +700,7 @@ Books:
 Books:
 
 - [The Colour of Magic](http://www.goodreads.com/book/show/601238.The_Colour_of_Magic) [3.9]
-  This is the first book of the series Discworld. The books can be read in order or independently. There are several narrative threads that cross quite often creating a funny and enjoyable reading experience.
+  这是 Discworld 系列的第一本书. 这些书可以按顺序阅读或独立阅读. 有几个叙事线索经常交叉，创造出有趣和愉快的阅读体验.
 
   我喜欢这本书. 风格新颖搞笑，人物个性得到深入发展. 死亡本身就是阅读这本书的一个很好的理由.  - [@fourlastor](https://github.com/fourlastor)
 
@@ -729,7 +729,7 @@ Books:
 
 这本书并没有从经典电影的演绎中脱颖而出，而是对其进行了补充. 它单独作为一本有趣的小读物.  - [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; 当世界上最美丽的女孩嫁给有史以来最英俊的王子，而他却……好吧……比她梦寐以求的男人差很多时会发生什么？  William Goldman 声称，作为一个男孩，他喜欢听他的父亲阅读 S. Morgenstern 的经典作品《公主新娘》. 但是长大后他发现，好爸爸的背诵里，无聊的部分都被漏掉了，只有“好听的部分”传到他的耳朵里. 现在，高盛对爸爸的帮助更大了. 他重建了“Good Parts Version”，以取悦世界各地聪明的孩子和睁大眼睛的成年人. 那是关于什么的？ 击剑. 斗争. 真正的爱情. 强烈的仇恨. 严厉的报复. 几个巨人. 很多坏男人. 很多好男人. 五六个美女. 野兽怪异而温柔. 一些膨胀逃脱和捕获. 死亡、谎言、真相、奇迹和一点性爱. 简而言之，它是关于一切的.
+ &gt; 当世界上最美丽的女孩嫁给有史以来最英俊的王子，而他却……好吧……比她梦寐以求的男人差很多时会发生什么？  William Goldman 声称，作为一个男孩，他喜欢听他的父亲阅读 S. Morgenstern 的经典作品《公主新娘》. 但长大后他发现，好爸爸的背诵中，枯燥的部分被遗漏了，只有“好听的部分”传到他的耳朵里. 现在，高盛对爸爸的帮助更大了. 他重建了“Good Parts Version”，以取悦世界各地聪明的孩子和睁大眼睛的成年人. 那是关于什么的？ 击剑. 斗争. 真正的爱情. 强烈的仇恨. 严厉的报复. 几个巨人. 很多坏男人. 很多好男人. 五六个美女. 野兽怪异而温柔. 一些膨胀逃脱和捕获. 死亡、谎言、真相、奇迹和一点性爱. 简而言之，它是关于一切的.
 
 ### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler) 🔥 [4.00]
 
@@ -829,7 +829,7 @@ Books:
 
  &gt; 从前，在埃及街的一所房子里，住着一只名叫爱德华杜兰的瓷兔. 兔子对自己很满意，这是有充分理由的：他的主人是一个名叫阿比林的女孩，她对他无微不至的照顾，对他非常崇拜.
 >
-> And then, one day, he was lost.
+&gt; 然后，有一天，他迷路了.
 
 ## Movies
 
@@ -898,6 +898,12 @@ This is an awesomely atrocious film. The only thing that is awesome about it is 
 美丽而令人惊叹的电影，具有坚强的女性角色. 即使你不熟悉日本动画电影，我相信你也会喜欢这部电影.  - [@maysaborges](https://github.com/maysaborges)
 
  &gt; 在寻找治愈 Tatarigami 诅咒的方法的旅程中，Ashitaka 发现自己身处森林之神与采矿殖民地 Tatara 之间的战争之中. 在这个任务中，他还遇到了幽灵公主珊.
+
+#### [Puss in Boots: The Last Wish](https://www.imdb.com/title/tt3915174/) [7.9]
+
+一个有趣而激动人心的续集，我喜欢这个找到家庭的冒险，并且弄清楚你想要什么已经和你在一起了. 伟大的角色和恶棍演员阵容，这部电影充分利用了他们所有人的动机.  - [@Shadowsarespooky] (https://github.com/Shadowsarespooky)
+
+&gt; 当穿靴子的猫发现他对冒险的热情已经付出了代价，他已经烧尽了九条生命中的八条时，他开始了一段史诗般的旅程，通过寻找神秘的遗愿来恢复它们.
 
 #### [Reign of Fire](http://www.imdb.com/title/tt0253556/) [6.2]
 

@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="fffaraz/awesome-cpp"></div>
 ## Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
-A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+很棒的 C++（或 C）框架、库、资源和闪亮事物的精选列表. 灵感来自 awesome-... 东西.
 
 
 ## Standard Libraries
@@ -19,7 +19,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Apache C++ Standard Library](http://stdcxx.apache.org/)  - STDCXX，算法、容器、迭代器和其他基本组件的集合.  [已退休] [Apache2]
 * [APR](http://apr.apache.org/)  - Apache 便携式运行时. 另一个跨平台实用函数库.  [阿帕奇2]
 * [ASL](http://stlab.adobe.com/)  - Adob​​e Source Libraries 提供经过同行评审和可移植的 C++ 源库.  [麻省理工学院]
-* [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. [Boost] [website](https://www.boost.org)
+* [Boost](https://github.com/boostorg)  :zap: - 大量通用 C++ 库.  [促进] [website](https://www.boost.org)
 * [BDE](https://github.com/bloomberg/bde)  - 来自彭博实验室的 BDE 开发环境.  [阿帕奇2]
 * [C++ Workflow](https://github.com/sogou/workflow)  :zap: - C ++ 并行计算和异步网络引擎.  [阿帕奇2]
 * [CGraph](https://github.com/ChunelFeng/CGraph)  - 基于 C++ 的跨平台 DAG 框架，无需任何第三方.  [麻省理工学院]
@@ -68,7 +68,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 使用数据流图进行数值计算的开源软件库 [Apache]
 * [oneDNN](https://github.com/oneapi-src/oneDNN)  - 用于深度学习应用程序的开源跨平台性能库.  [阿帕奇] [website](https://01.org/onednn)
 * [CNTK](https://github.com/Microsoft/CNTK)  - Microsoft Cognitive Toolkit (CNTK)，一个开源深度学习工具包.  [促进]
-* [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)  - C++11 中的仅标头、无依赖性深度学习框架.  [BSD]
+* [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles](https://github.com/Samsung/veles)  - 用于快速深度学习应用程序开发的分布式平台.  [阿帕奇]
 * [Kaldi](https://github.com/kaldi-asr/kaldi)  - 语音识别工具包.  [阿帕奇]
 
@@ -312,7 +312,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [hiberlite](https://github.com/paulftw/hiberlite)  - sqlite3 的 C++ 对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)  - Redis 数据库的简约 C 客户端库.  [BSD]
 * [Kvrocks](https://github.com/apache/incubator-kvrocks)  - 一个分布式键值NoSQL数据库，使用RocksDB作为存储引擎，兼容Redis协议.  [阿帕奇2]
-* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
+* [LevelDB](https://github.com/google/leveldb)  - 由 Google 编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
 * [libpqxx](https://github.com/jtv/libpqxx)  - PostgreSQL 的官方 C++ 客户端 API.  [BSD-3-条款]
 * [LMDB](https://www.symas.com/lmdb)  - 具有完整 ACID 语义的非常快速的嵌入式键/值存储.  [OpenLDAP]
 * [LMDB++](https://github.com/bendiken/lmdbxx)  - LMDB 嵌入式数据库库的 C++11 包装器.  [公共区域]
@@ -348,7 +348,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost.Test](https://github.com/boostorg/test)  - 提升测试库.  [促进] [website](https://boost.org/libs/test)
 * [check](https://github.com/libcheck/check) - Check 是 C 的单元测试框架. [LGPL-2.1] [website](https://libcheck.github.io/check/)
 * [doctest](https://github.com/onqtam/doctest)  - 最轻量级的功能丰富的 C++ 单标头测试框架.  [麻省理工学院]
-* [Catch2](https://github.com/catchorg/Catch2)  - 用于单元测试、TDD 和 BDD 的现代 C++ 原生、仅标头的测试框架.  [促进]
+* [Catch2](https://github.com/catchorg/Catch2)  - 用于单元测试、TDD 和 BDD 的现代 C++ 原生测试框架.  [促进]
 * [Celero](https://github.com/DigitalInBlue/Celero)  - C++ 基准测试框架.  [阿帕奇2]
 * [CppUTest](https://github.com/cpputest/cpputest)  - C/C++ 的单元测试和模拟框架.  [BSD-3-条款]
 * [CUTE](http://cute-test.com)  - C++ 单元测试更容易.  [LGPL3]
@@ -388,7 +388,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Sphinx](https://github.com/sphinx-doc/sphinx)  - Sphinx 可以轻松创建智能且美观的文档.  [BSD-2-条款] [website](https://www.sphinx-doc.org)
 
 ## Font
-*用于解析和操作字体文件的库.*
+*Libraries for parsing and manipulating font files.*
 
 * [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和自定义库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 * [FreeType](https://www.freetype.org/)  - FreeType 是一个免费提供的字体渲染软件库.  [FTL &amp; GPLv2]
@@ -404,7 +404,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [crown](https://github.com/dbartolini/crown)  - Crown 是一种通用的数据驱动游戏引擎，采用正统的 C++ 从头编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  - 强大的模拟平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  - 游戏与现代 C++ 相遇.  [麻省理工学院]
-* [GamePlay](https://github.com/gameplay3d/GamePlay)  - 用于创建 2D/3D 移动和桌面游戏的跨平台原生 C++ 游戏框架.  [阿帕奇2]
+* [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
 * [Godot](https://github.com/godotengine/godot)  - 功能齐全、开源、MIT 许可的游戏引擎.  [麻省理工学院]
 * [Grit](https://github.com/grit-engine/grit-engine)  - 构建免费游戏引擎以实现开放世界 3D 游戏的社区项目.  [麻省理工学院]
 * [Halley](https://github.com/amzeratul/halley)  - 用 C++14 编写的轻量级游戏引擎，具有“真正的”实体组件系统.  [阿帕奇 2.0]
@@ -640,7 +640,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GMTL](http://ggt.sourceforge.net/)  - 图形数学模板库是一组以通用方式实现图形基元的工具.  [GPL2]
 * [GMP](https://gmplib.org/)  - 用于任意精度算术的 AC 库，对有符号整数、有理数和浮点数进行运算.  [LGPL3 和 GPL2]
 * [Klein](https://github.com/jeremyong/klein)  - 一个快速的、SIMD 优化的 C++17 几何代数库，用于点、线和平面投影、相交、连接、刚体运动等.  [麻省理工学院] [website](https://jeremyong.com/klein)
-* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短向量数学库.  [未授权]
+* [linalg.h](https://github.com/sgorsten/linalg)  - 用于 C++ 的单标头、公共领域、短矢量数学库.  [未授权]
 * [MatX](https://github.com/NVIDIA/MatX) - 一个 GPU 加速的 C++17 数值计算库，具有类似 MATLAB/Python 的语法 [BSD 3-clause]
 * [MIRACL](https://github.com/CertiVox/MIRACL)  - 多精度整数和有理算术密码库.  [AGPL]
 * [NumCpp](https://github.com/dpilger26/NumCpp)  - Python Numpy 库的模板化标头仅 C++ 实现.  [麻省理工学院]
@@ -715,7 +715,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)  - 用于网络流量捕获的便携式 C/C++ 库.  [BSD] [website](https://www.tcpdump.org/)
 * [libquic](https://github.com/devsisters/libquic)  - 从 Chromium 的 QUIC 实现中提取的 QUIC 协议库.  [BSD]
 * [librdkafka](https://github.com/edenhill/librdkafka)  - 用于 C 和 C++ 的 Apache Kafka 客户端库.  [BSD-2-条款]
-* [libwebsockets](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. [LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+* [libwebsockets](https://github.com/warmcat/libwebsockets)  - 提供客户端和服务器库的轻量级纯 C WebSocket 实现.  【LGPL2.1+静态链接异常】 [website](https://libwebsockets.org/)
 * [Lithium](https://matt-42.github.io/lithium/)  - 无需成为 C++ 专家即可构建高性能 C++ HTTP 服务器.  [麻省理工学院]
 * [lwIP](http://savannah.nongnu.org/projects/lwip/)  - 轻量级 TCP/IP 堆栈.  [修改后的 BSD]
 * [Mongoose](https://github.com/cesanta/mongoose)  - 极其轻量级的网络服务器.  [GPL2]
@@ -732,7 +732,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp)  - C++ 的简单 REST 客户端. 它为 HTTP 请求包装 libcurl.  [麻省理工学院]
 * [Seasocks](https://github.com/mattgodbolt/seasocks)  - 具有 WebSockets 支持的简单、小型、C++ 可嵌入网络服务器.  [BSD]
 * [tlse](https://github.com/eduardsui/tlse) - 单个 C 文件 TLS 1.2/1.3 实现，使用 tomcrypt 作为加密库 [BSD-2-Clause]
-* [Tufão](https://github.com/vinipsmaker/tufao)  - 基于 Qt 构建的 C++ 异步 Web 框架.  [LGPL2]
+* [Tufão](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  - 严格符合 RFC 3986 的 URI 解析和处理库.  [BSD-3-条款]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  - µWS 是可用的最轻量级、最高效和可扩展的 WebSocket 和 HTTP 服务器实现之一.  [Zlib]
 * [WAFer](https://github.com/riolet/WAFer)  - 基于 AC 语言的超轻型软件平台，用于可扩展的服务器端和网络应用程序. 为 C 程序员考虑 node.js.  [GPL2]
@@ -749,7 +749,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MuPDF](https://mupdf.com/)  - 轻量级的 PDF、XPS 和电子书查看器.  [AGPL/商业]
 * [PoDoFo](http://podofo.sourceforge.net/)  - 处理 PDF 文件格式的库.  [LGPL]
 * [Poppler](https://poppler.freedesktop.org/)  - 基于 xpdf-3.0 代码库的开源多后端 PDF 渲染库.  [GPLv2/GPLv3]
-* [Xpdf](https://www.xpdfreader.com/)  - Xpdf 是一个免费的 PDF 查看器和工具包，包括文本提取器、图像转换器、HTML 转换器等.  [GPL v2/GPL v3]
+* [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
 * [DynaPDF](http://www.dynaforms.com/)  - 易于使用的 PDF 生成库.  [商业的]
 
 ## Physics
@@ -826,7 +826,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost.Python](https://github.com/boostorg/python)  - 一个 C++ 库，可实现 C++ 和 Python 编程语言之间的无缝互操作性.  [促进] [website](https://boost.org/libs/python)
 * [cppimport](https://github.com/tbenthompson/cppimport)  - 直接从 Python 导入 C++ 文件！  [麻省理工学院]
 * [CppSharp](https://github.com/mono/CppSharp)  - 将 C/C++ API 粘合到高级语言的工具和库.  [麻省理工学院]
-* [ChaiScript](https://github.com/ChaiScript/ChaiScript/)  - 一种易于使用的 C++ 嵌入式脚本语言.  [BSD] [website](http://chaiscript.com/)
+* [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  - bash 的外部函数接口.  [麻省理工学院]
 * [Cython](https://github.com/cython/cython)  - Cython 是针对 Python 编程语言和扩展的 Cython 编程语言（基于 Pyrex）的优化静态编译器. 它使得为 Python 编写 C 扩展就像 Python 本身一样简单.  [阿帕奇] [website](http://cython.org/)
 * [djinni](https://djinni.xlcpp.dev)  - 用于生成跨语言类型声明和接口绑定的工具.  [阿帕奇2]
@@ -996,7 +996,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - 由英特尔开发.
 * [LLVM](http://llvm.org/) - 模块化和可重复使用的编译器和工具链技术的集合.
 * [Microsoft Visual C++](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-160) - MSVC，由微软开发.
-* [Open WatCom](https://github.com/open-watcom) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
+* [Open WatCom](https://github.com/open-watcom)  - Watcom C、C++ 和 Fortran 交叉编译器和工具.  [Sybase Open Watcom 公共许可证]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)  - 适用于 SPARC 和 x86 的 C、C++ 和 Fortran 编译器. 支持 C++11. 在 Linux 和 Solaris 上可用.  [OTN 开发者许可证]
 * [TCC](http://bellard.org/tcc/)  - 微型 C 编译器.  [LGPL]
 

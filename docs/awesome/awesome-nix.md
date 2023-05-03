@@ -58,7 +58,7 @@
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) - 一个 Nix flake 库，用于提供用于通过 SSH 管理现有 NixOS 主机的应用程序输出.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
-* [terraform-nixos](https://github.com/tweag/terraform-nixos) - 一组用于部署 NixOS 的 Terraform 模块.
+* [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
 * [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统编写您的 Terraform 代码.
 
 ## Virtualisation
@@ -73,7 +73,7 @@
 * [deadnix](https://github.com/astro/deadnix) - 扫描 Nix 文件中的死代码.
 * [manix](https://github.com/mlvzk/manix) - 查找 Nixpkgs、NixOS 和 Home Manager 的配置选项和功能文档.
 * [nixfmt](https://github.com/serokell/nixfmt) - Nix 代码的格式化程序，旨在轻松应用统一的样式.
-* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+* [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) -nixpkgs 的 Nix 代码格式化程序.
 * [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Nixpkgs 包表达式的自以为是的 linter.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - 在 Nix/NixOS 上轻松运行未打补丁的二进制文件.
 * [nix-diff](https://github.com/Gabriella439/nix-diff) - 解释为什么两个 Nix 推导不同的工具.
@@ -98,7 +98,9 @@
 * [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake 实用程序功能可帮助编写 flakes.
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - 一个轻量级的 Nix 库薄片，用于无痛的 NixOS 薄片配置.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最齐全且易于使用的 .gitignore 集成.
+* [haumea](https://github.com/nix-community/haumea) - 类似于传统编程语言的 Nix 语言基于文件系统的模块系统，支持文件层次结构和可见性.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的 `nix-shell` 用于增强 direnv 的开发.
+* [namaka](https://github.com/nix-community/namaka) - 基于 haumea 的 Nix 快照测试.
 * [nil](https://github.com/oxalica/nil) - NIx 语言服务器，用于在 Nix 中编写的增量分析助手.
 * [niv](https://github.com/nmattia/niv/) - 通过包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和 flake 兼容配置.

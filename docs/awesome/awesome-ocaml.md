@@ -123,9 +123,9 @@
 
 - **解析器和词法分析器生成器**：
   - [Opal](https://github.com/pyrocat101/opal) – 用于 OCaml 的独立单子解析器组合器.
-  - [Sedlex](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
+  - [Sedlex](https://github.com/ocaml-community/sedlex) 是一个现代的、与编码无关的（阅读：支持 Unicode 的）词法分析器生成器（基于 ppx 的继任者 [ulex](http://www.cduce.org/download.html#side).)
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir 是 OCaml 的 LR(1) 解析器生成器.
-    - 看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) 有关使用 Menhir 和 Sedlex 生成有用解析器的更清晰示例，
+    - 看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
     - ... 和 [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个简洁的项目，可以为您的语法生成可读的 LaTeX、HTML 或纯文本 EBNF 样式的文档.
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – OCaml 的 lex 和 yacc 实现.
   - [Angstrom](https://github.com/inhabitedtype/angstrom) - 为速度和内存效率而构建的解析器组合器
@@ -177,6 +177,7 @@
 - **文章**：
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
   - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
+  - [Caqti setence preparation, ppx_rapper](https://github.com/roddyyaga/ppx_rapper)
 
 
 ## Datetime
@@ -228,7 +229,7 @@
 
 - [99 problems](https://ocaml.org/learn/tutorials/99problems.html) .  99%的解决方案是 [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
-- [OCaml at Exercism](http://exercism.io/languages/ocaml)  – Exercism 是您进行深思熟虑的代码对话的地方. 探索简单性、惯用的语言特性和富有表现力的可读代码. [Solutions](https://github.com/exercism/xocaml).
+- [OCaml at Exercism](http://exercism.io/languages/ocaml)  – Exercism 是您进行深思熟虑的代码对话的场所. 探索简单性、惯用的语言特性和富有表现力的可读代码. [Solutions](https://github.com/exercism/xocaml).
 - [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - 本书的 OCaml 部分是使用 OCaml 解决常见编程问题的免费参考.
 
 ## Formal Software Verification
@@ -284,7 +285,7 @@
 - [lablqml](https://github.com/Kakadu/lablqml) – OCaml 的 QML Qt5 绑定.
 - [labltk](https://forge.ocamlcore.org/projects/labltk/)  — Tcl/Tk GUI 框架的接口. 在 ocaml &lt;= 4.01 的标准分布中.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl 是一个 OCaml 模块，提供到跨平台 SDL 库的精简绑定.
-- [Lambda-Term](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
+- [Lambda-Term](https://github.com/ocaml-community/lambda-term)  – Lambda-Term 是一个用于操作终端的跨平台库. 它为键、鼠标事件、颜色以及一组小部件提供了抽象，以编写类似 curses 的应用程序.
 - [Notty](https://github.com/pqwy/notty) - Notty 是 OCaml 的声明性终端库，围绕可组合图像的概念构建.
 - [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - 独立的 OCaml 绑定到 linenoise，OCaml 中简单的高级 readline 功能.
 
@@ -360,7 +361,7 @@
 - **工具和语言扩展**：
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – 用于多阶段编程的 OCaml 方言.
   - [Fan](http://zhanghongbo.me/fan/)  – Fan 是 OCaml 的编译时元编程系统，最初受到 Camlp4 的启发. 它是 OCaml 和 Lispy 宏的组合. 它与 OCaml 共享相同的具体语法.
-  - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
+  - [camlp5](https://camlp5.github.io/) - Camlp5 是 OCaml 的预处理器漂亮打印机.
   - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 是标准 OCaml 发行版的一部分，与 Camlp5 不同.
 
 ## Metrics
@@ -380,7 +381,7 @@
 
 - **HTTP 工具**：
   - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – 使用 Lwt 或 Async 的非常轻量级的 HTTP 服务器.
-  - [ocurl](https://github.com/ygrek/ocurl) – OCaml 绑定到 libcurl.
+  - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
   - [httpaf](https://github.com/inhabitedtype/httpaf) – 用 OCaml 编写的高性能、内存高效且可扩展的 Web 服务器.
   - [piaf](https://github.com/anmonteiro/piaf) - 完全用 OCaml 编写的 HTTP/1.X / HTTP/2 的客户端/服务器库.
 - [ocaml-dns](https://github.com/mirage/ocaml-dns) – DNS 协议的纯 OCaml 实现.
@@ -400,7 +401,8 @@
 - **分配**：
   - [OPAM](http://opam.ocamlpro.com/) – 灵活的 Git 友好包管理器，支持多种编译器.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html)  — 本地 OCaml 库管理器. 被大多数 OCaml 生态系统使用.
-  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - 适用于 Windows 的 opam 存储库和实验性版本.
+  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - 适用于 Windows 的 opam 存储库和实验版本（自 2021 年起弃用）.
+  - [Diskuv OCaml](https://github.com/diskuv/dkml-installer-ocaml#readme) - 适用于 Windows 的 Diskuv OCaml 发行版.
   - [makorel](https://github.com/sagotch/makorel) – 轻松发布 OPAM 包.
   - [esy](https://github.com/esy/esy) - 使用 Reason/OCaml 进行本机开发的 package.json 工作流.
 
@@ -408,7 +410,7 @@
   - [dune](https://github.com/ocaml/dune) – 用于 OCaml（以前的 jbuilder）的可组合和自以为是的构建系统
   - [Oasis](http://oasis.forge.ocamlcore.org/)  - 在您的 OCaml 项目中集成配置、构建和安装系统的工具. 它有助于在您的构建系统中创建标准入口点，并允许外部工具轻松分析您的项目.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) — 将 OASIS 元数据转换为 OPAM 包描述的工具.
-  - [obuild](https://github.com/ocaml-obuild/obuild) – ocaml 的简单包构建系统.
+  - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — 易于使用的 Makefile 用于中小型 OCaml 项目.
   - [topkg](https://github.com/dbuenzli/topkg) — 使用 ocamlbuild 的 OPAM 感知打包系统.
   - [Bazel](https://github.com/jin/rules_ocaml) - OCaml 规则 [Bazel](https://bazel.build/)，谷歌的多语言和平台构建工具.
@@ -430,6 +432,24 @@
 
 - **文章**：
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+
+## Printers helpers
+
+- 理性的本机 [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything)
+- [**Dum**](https://github.com/mjambon/dum#readme)
+- [**Inspect**](https://github.com/krohrer/caml-inspect#readme)
+- [**ppx_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage)的`[@@deriving show]`.
+- [**refl** ](https://github.com/thierry-martinez/refl#basic-usage), 类似 ppx_deriving 的.
+- [**lrt** ](https://github.com/LexiFi/lrt#getting-started)，另一个类似 ppx_deriving 的.
+- [**tpf** ](https://github.com/pqwy/tpf#readme)，又是类似 ppx_deriving 的.
+- [**typerep** ](https://github.com/janestreet/typerep)，可能是 ppx_deriving-like 与 ppx_typerep_conv.
+- [**repr**](https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json)，除了让用户在需要的地方传递它之外，它似乎让用户从组合器手动构建类型表示.
+- [**data-encoding**](https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding)，也完全手动.
+- [**cmon** ](https://github.com/let-def/cmon#documentation)，全手动.
+- [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) 在沙丘. 似乎也是完全手动
+- [**Genprint** ](https://github.com/progman1/genprintlib#readme)
+- [**OCaml@p** ](https://github.com/tsubame-sp/ocaml_at_p#readme)
+
 
 ## Project Starter Templates
 
@@ -568,4 +588,4 @@
 
 * * *
 
- _受 awesome projects 系列的启发. 发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ：火花：._
+ _受 awesome projects 系列的启发. 发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) :sparkles:._

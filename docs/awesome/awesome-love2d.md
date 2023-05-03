@@ -61,7 +61,7 @@
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - 小型 FPS 图形实用程序.
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - 基于 FPSGraph 的小型 OO FPS 图形实用程序.
 * [Lovebird](https://github.com/rxi/lovebird) - 基于浏览器的调试控制台.
-* [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - 内联控制台式调试器实用程序.
+* [LoveDebug](https://github.com/flamendless/lovedebug) - 内联控制台式调试器实用程序.
 * [lurker](https://github.com/rxi/lurker) - 自动交换正在运行的游戏中更改的 Lua 文件.
 * [LÖVE API](https://github.com/love2d-community/love-api) - Lua 表中 LÖVE 的完整 API 文档.
 * [LÖVE Build](https://github.com/nhartland/love-build) - 用于自动化跨平台构建的 GitHub Action.

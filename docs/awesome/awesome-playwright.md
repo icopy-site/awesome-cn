@@ -47,6 +47,7 @@
 - [playwright-elements](https://www.npmjs.com/package/playwright-elements) - 更强大的页面对象实现的 Playwright 测试扩展.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - 一个 Playwright 清理工具，通过撤消对测试环境的任何更改来简化测试清理.
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - 一个插件，通过使用 Playwright 测量和分析任何经过测试的流程的性能，帮助您优化 Web 应用程序的速度和效率.
+- [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - 在 PyCharm 中使用 `python-playwright` 时 CSS/JS 语法突出显示的语言注入定义.
 
 
 ## Reporters

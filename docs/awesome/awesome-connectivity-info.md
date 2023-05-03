@@ -13,7 +13,7 @@
 <sub>有关连接的更多信息，请访问我的</sub> [website](https://manypossibilities.net) or on <a rel="me" href="https://mastodon.cloud/@stevesong">Mastodon</a>.</sub>
 
 
-- [![Awesome](https://awesome.re)](#awesomehttpsawesomerebadge-flatsvghttpsawesomere)
+- [](#)
 
 <!-- BEGIN RESOURCE LIST -->
 
@@ -22,7 +22,7 @@
 **[`^        back to top        ^`](#)**
 
 - 国际电联全球连通性报告 - ([2022](https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/)) - 对当前连接状态的详细评估.
- - 国际电联衡量数字发展：包含最重要的 ICT 指标的概况，包括当年的估计.  ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf)) 
+- [ITU Measuring digital development](https://www.itu.int/en/ITU-D/Statistics/Pages/facts/default.aspx)  - 事实与数据.  ([2023](https://www.itu.int/hub/publication/d-ind-ict_mdd-2023/)) ([2022](https://www.itu.int/hub/publication/d-ind-ict_mdd-2022/)) ([2021](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2021.pdf)) ([2020](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf)) 
 - 网络就绪指数 - ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Portulans Institute 涵盖 121 个经济体的网络就绪指数
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2021 年）针对移动互联网采用的四个推动因素衡量各国：基础设施、可负担性、消费者准备度和内容.
 - A4AI 负担能力驱动因素指数 - ([2021](https://a4ai.org/affordability-report/data/?_year=2021&indicator=INDEX))([2020](https://a4ai.org/affordability-report/data/?_year=2020&indicator=INDEX)) - 负担得起的互联网访问联盟的互联网负担能力指数 ([A4AI](https://a4ai.org)).
@@ -61,7 +61,7 @@
 - 我们是社交的（[2022](https://wearesocial.com/uk/blog/2022/01/digital-2022-another-year-of-bumper-growth-2/)) ([2021](https://wearesocial.com/uk/blog/2021/01/digital-2021-uk/)) Hootsuite 关于互联网和社交媒体采用情况的年度报告.
 - 来自 GSMA 的移动性别差距报告 - ([2022](https://www.gsma.com/r/wp-content/uploads/2022/06/The-Mobile-Gender-Gap-Report-2022.pdf)) ([2021](https://www.gsma.com/r/wp-content/uploads/2021/07/The-Mobile-Gender-Gap-Report-2021.pdf)) ([2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 - Mozilla 互联网健康报告 - ([2020](https://2020.internethealthreport.org/)) ([2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
-- [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
+- [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
 - 宽带委员会：宽带状况 - ([2021](https://broadbandcommission.org/publication/state-of-broadband-2021/)) ([2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - 国际电联衡量信息社会 - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 - GSMA - 移动互联网连接状态（[2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
@@ -84,11 +84,11 @@
 - [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa&#39;s $1800 billion Internet Economy Future - IFC/Google 赞助的关于非洲互联网经济的报告
 - GSMA 移动经济 - 中东和北非 ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
 - GSMA 移动经济 - 西非 ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
-- GSMA 移动经济 - 撒哈拉以南非洲 ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
+- GSMA 移动经济 - 撒哈拉以南非洲 ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/10/The-Mobile-Economy-Sub-Saharan-Africa-2022.pdf))([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/09/GSMA_ME_SSA_2021_English_Web_Singles.pdf)) ([2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/09/GSMA_MobileEconomy2020_SSA_Eng.pdf)) ([2018](https://policy.communitynetworks.group/_media/gsma_mobile_economy-ssa_2018.pdf))
 - GSMA 移动经济 - 拉丁美洲 ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/11/GSMA_LATAM_ME2022_R_Web.pdf)) ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/11/GSMA_ME_LATAM_2021.pdf))
 - GSMA 移动经济 - 亚太地区 ([2021](https://www.gsma.com/mobileeconomy/wp-content/uploads/2021/08/GSMA_ME_APAC_2021_Web_Singles.pdf)) [2020](https://www.gsma.com/mobileeconomy/wp-content/uploads/2020/06/GSMA_MobileEconomy_2020_AsiaPacific.pdf)
 - GSMA 移动经济 - 非洲 [2016](https://www.gsma.com/mobileeconomy/africa/) 
-- 非洲电信基础设施发展@manypossibilities.net - [2014-2021](https://manypossibilities.net/series/africa-telecom-infrastructure/)
+- 非洲电信基础设施发展@manypossibilities.net - [2014-2022](https://manypossibilities.net/series/africa-telecom-infrastructure/)
 - RIA 非洲移动定价 (RAMP) 指数门户 - ([Q4 2021](https://researchictafrica.net/ramp_indices_portal/)) - 关于语音/短信篮、1GB 数据篮和物有所值捆绑包的定价信息.
 - Opera - 非洲移动网络现状 - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
 - 爱立信移动报告 - 撒哈拉以南非洲 - ([2015](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf))
