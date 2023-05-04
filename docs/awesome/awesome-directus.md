@@ -50,27 +50,28 @@
 - [SQL Panel](https://github.com/harish2704/directus-sql-panel) - 将存储的 SQL 查询结果显示为表格的面板组件.
 - [Websocket Subscribe](https://github.com/br41nslug/directus-websocket-subscribe) - 通过 websocket 订阅 Directus 更新的扩展. 
 - [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - 从 SVG 地图框中选择一个值.
-- [SES](https://github.com/ryntab/Directus-SES) - 使用 AWS SES 发送电子邮件的扩展.
+- [Directus Mailer](https://github.com/ryntab/Directus-Mailer) - 使用 Directus Nodemailer 服务发送电子邮件的端点.
 - [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - Directus 9 的数据网格界面宽度“@revolist/vue3-datagrid”.
 - [SparkLine Display](https://github.com/seymoe/directus-extension-sparkline-display) - 用于 Directus 9 的带有“apexcharts”的迷你图显示.
 - [Tags M2M](https://github.com/dimitrov-adrian/directus-extension-tags-m2m-interface) - M2M 驱动标签接口.
-- [Cloudinary Upload Interface](https://github.com/kevcomparadise/directus-vue3-cloudinary-upload) - 上传/读取云图像的简单界面.
 - [Sanitize HTML](https://github.com/licitdev/directus-extension-sanitize-html) - 清理 Directus 的 HTML 输入.
 - [Directus LogSnag](https://github.com/Intevel/directus-logsnag) - 使用 LogSnag 将您的事件从 Directus 直接发送到您的手机.
 - [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) - 将副本添加到剪贴板并将 URL 的操作按钮打开到字段（界面 + 显示）.
 - [Generate Types](https://github.com/maltejur/directus-extension-generate-types)  - 添加一个模块，用于为连接到该 Directus 数据库的 Directus JS-SDK 生成打字稿类型. 也可以生成 Python 或 OpenAPI 类型.
 - [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) - 根据其他字段执行计算值.
 
-## Tools
-
-- [directus-auto-migrate](https://github.com/dstoyanoff/directus-auto-migrate)  - 根据真实实例的变化自动生成 Directus 迁移的 CLI.  （不再维护，功能添加到核心）
-
 ## Articles
+
+### Educational
 
 - [Directus Guides (Official)](https://directus.io/guides/)
 - [Learn Directus](https://learndirectus.com/)
 - [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
 - [Creating a Custom Panel in Directus With Chart.js](https://blog.eperedo.com/2023/02/14/custom-panel-directus-chart-js)
+
+### Personal
+
+- [Get Started With Directus](https://medium.com/7span/no-code-backend-get-started-with-directus-7876bffdbd1d)
 
 ## Examples / Showcases
 

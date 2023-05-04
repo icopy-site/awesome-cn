@@ -683,6 +683,7 @@ Advanced
  * [Let Over Lambda][156] - 一本关于高级宏技术的书. 所有八章都可以在打印副本中找到.
 * [Common Lisp 中的面向对象编程：CLOS 程序员指南][21] - 一本关于 CLOS 的古老但非常透彻的书.
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp][157] - 一本关于人工智能编程的书，涵盖了一些高级 Lisp.
+  * 网页版： [https://norvig.github.io/paip-lisp/](https://norvig.github.io/paip-lisp/#/)
 
 其他书籍
 -----------
@@ -1250,7 +1251,7 @@ programs, providing support for mixed language debugging.
 
 这包含各种文本编辑器的插件和其他好东西.
 
-* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 它可用于许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）.
+* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）都可以使用它.
 
 ## Emacs ##
 
@@ -1390,7 +1391,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].

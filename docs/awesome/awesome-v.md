@@ -41,7 +41,7 @@
 ### Games
 
 - [Boundstone](https://github.com/organization/boundstone) - 高性能/快速编译/轻量级 Minecraft：基岩版服务器.
-- [flappylearning-v](https://github.com/uxnow/flappylearning-v) - v. 中的一个简单的 flappy 学习演示（已存档）
+- [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) - v 中的一个简单的 flappy 学习演示.
 - [Kurarin](https://github.com/FireRedz/kurarin)  - 奥苏！ 用 V 制作的 beatmap 可视化器. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
 - [minesweeper](https://github.com/ali-furkan/minesweeper-v) - 用 vlang 编写的简单扫雷游戏.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) - 通过 V 的力量重现经典的桨式游戏.
@@ -57,7 +57,7 @@
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler)  - 基于堆栈的编译编程语言. 引导程序编译器是用 V 编写的.
 - [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在 V.
 - [vbf](https://github.com/vpervenditti/vbf) - 一个 brainfuck 解释器/编译器.
-- [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
+- [vcc](https://github.com/lemoncmd/vcc) - A C compiler written in V.
 - [v](https://github.com/vlang/v)  - V 本身. 用于开发可维护软件的简单、快速、安全的编译语言.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
 
@@ -218,7 +218,7 @@
 - [range](https://github.com/Delta456/range) - V 中 Python 的 range() 功能.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - 用于解析 SSH 配置文件的 AV 库.
 - [vaker](https://github.com/ChAoSUnItY/vaker) - 用 V 编写的轻量级编译时生成的数据伪造者.
-- [vdotenv](https://github.com/zztkm/vdotenv) - Support for .env files which loads environment variables.
+- [vdotenv](https://github.com/zztkm/vdotenv) - 支持加载环境变量的 .env 文件.
 - [VInstall](https://github.com/malisipi/VInstall) - 跨平台安装程序创建者.
 
 ### Web

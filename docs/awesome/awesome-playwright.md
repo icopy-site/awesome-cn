@@ -12,6 +12,8 @@
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - 用于运行 Playwright 的 Jest 适配器.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 用于 Node.js 的增压 End 2 端测试框架.
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - 支持在 AWS Lambda 和 Google Cloud Functions 上运行 Microsoft 的 Playwright.
+- [playwright-chrome-recorder](https://github.com/AndrewUsher/playwright-chrome-recorder) - 以编程方式从 Google Chrome DevTools 的记录中导出 Playwright 测试.
+- [Playwright Chrome Recorder Extension](https://github.com/AndrewUsher/playwright-recorder-extension) - 直接从 DevTools 记录器面板将 DevTools 记录导出为 Playwright 测试.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action 安装所有必需的依赖项.
 - [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - 用于将 Playwright 页面与固定装置一起使用的官方 Pytest 插件.
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - 用于在 Heroku Dyno 上运行 Playwright 的 Heroku buildpack.

@@ -3,7 +3,7 @@
 
 ## Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 游戏创作者学习资源的巨型列表 
+&gt; 游戏创作者学习资源的巨型清单 
 
 <p>
 
@@ -26,9 +26,9 @@
 
 此列表旨在学习游戏开发的技巧. 它旨在为 gamedev 保护伞下的各种学科和角色提供一般知识、资源和招聘建议. 
 
-Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
+几乎所有的资源都是免费的，任何有价格标签的东西都会被清楚地标明. 只有在相关学科的行业专业人士亲自认可的情况下，才包括付费资源.
 
-随时欢迎提出建议和面向未来的努力！ 有关贡献指南，请参阅“Contributing.md”，并查看 [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) 对于需要完成的任务，例如档案工作.
+随时欢迎提出建议和面向未来的努力！ 有关贡献指南，请参阅“Contributing.md”，并查看 [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) for tasks that need completing, such as archival work.
 
 通常，此列表会避免使用工具和资产. 但是，它包含角色所需的特定工具的课程/教程，以及可以使人们更有效地学习其角色的资产（例如，动画部分包含装备）. 有关工具、资产、社区和更详细的单个工具（如 Unity）列表，请查看 [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
@@ -145,7 +145,7 @@ Nearly all resources are free, and anything with a price tag will be clearly mar
 [Math for Game Programmers](https://gamemath.com/book/intro.html) - 一本免费的游戏程序员数学书籍.
 
 
-[Mature Optimization](https://carlos.bueno.org/optimization/) - A free book on structuring code for performance, as well as testing large systems.
+[Mature Optimization](https://carlos.bueno.org/optimization/) - 一本关于为性能构建代码以及测试大型系统的免费书籍.
 
 
 [Data Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html) - 一本关于面向数据设计的免费书籍，是面向对象编程的替代品
@@ -226,7 +226,7 @@ Nearly all resources are free, and anything with a price tag will be clearly mar
 ### Graphics
 
 
-[The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) - 另一个专门针对该主题量身定制的很棒的列表，尽管不是以游戏为中心.
+[The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) 💠🟪 - Another awesome list specifically tailored to this topic, albeit not games-focused.
 
 
 [Graphics](https://guerilla-tactics.com/hats/graphics/) - 图形编程和技术艺术资源的巨型列表.
@@ -371,7 +371,7 @@ Nearly all resources are free, and anything with a price tag will be clearly mar
 
 [Procedural Rigging Python](https://www.pluralsight.com/courses/procedural-rigging-python-maya-2283)  - 关于创建 Python 工具以在 Maya 中程序化装配角色的课程. 注意：有 10 天的免费试用期，但之后会变得非常昂贵.
 
-[Stop Staring: Facial Modeling and Animation Done Right](https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907)  - 一本关于面部建模、动画和绑定的书. 公平警告：这是 80 美元的新品. 如果可能的话，我建议使用它.
+[Stop Staring: Facial Modeling and Animation Done Right](https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907) - A book on facial modeling, animation, and rigging. Fair warning: this is $80 new. I would recommend getting it used, if possible.
 
 [Mastering Rigging and Python Scripting in Maya](https://www.thegnomonworkshop.com/tutorials/master-rigging-python-scripting-in-maya)  - 知名艺术大学Gnomon的一门课程. 公平警告：7 天内前 2 小时的内容是免费的，但之后的订阅费用为每月 54 美元. 
 
@@ -522,7 +522,7 @@ Nearly all resources are free, and anything with a price tag will be clearly mar
 
 ### Resources for Non-Artists
 
-Note that there are many, many more resources out there - these are primarily included as a way to build a polished-looking game even while learning a different discipline.
+请注意，那里还有很多很多资源——这些资源主要是作为构建外观精美的游戏的一种方式，即使在学习不同学科的同时也是如此.
 
 免版税游戏美术！ 不要忘记检查许可证.
 - [Open Game Art](https://opengameart.org/)
@@ -557,7 +557,7 @@ Note that there are many, many more resources out there - these are primarily in
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - 关于编写游戏设计文档 (GDD) 的教程.
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/)  - 作为问题解决方案呈现的常见设计模式的数据库，由《游戏设计模式语言》一书编译​​而成. 还包含学生和设计师完成本书练习的作品.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
 
 
 [The Evolution of Trust](https://ncase.me/trust/)  - 一些博弈论的交互式演练. 可能是游戏设计课上的必读内容.
@@ -720,7 +720,7 @@ Note that there are many, many more resources out there - these are primarily in
 [Video Game Production Resources](https://www.breakingthewheel.com/video-game-production-resources/)  - 按用途分类的生产者资源集合. 针对创业、管理和营销等软技能.
 
 
-[Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - A collection of books, tools, conference talks, and other resources for producers.
+[Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - 为制作人提供的书籍、工具、会议演讲和其他资源的集合.
 
 
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - 对高级制作人弗兰克·罗根的采访.
@@ -733,13 +733,16 @@ Note that there are many, many more resources out there - these are primarily in
 <br />
 
 
-[How to Market a Game](https://howtomarketagame.com)  - 关于 Chris Zukowski 的游戏营销的博客和资源集合（特别注意，一些 GDC 演讲）. 这是我自愿注册并认为值得保留的唯一邮件列表.
+[Leveling the Playing Field](https://ltpf.ramiismail.com)  - 拉米·伊斯梅尔 (Rami Ismail) 撰写的博客/时事通讯，其中包含有关经营独立工作室所需的商业、营销、技能发展和各种主题的建议. 过去的时事通讯在这里存档. 我个人推荐“预算可行性”作为起点.
 
 
-[Show the Dream, Not the Job](https://www.derek-lieu.com/blog/2020/2/25/show-the-dream-not-the-job) - 使游戏从预告片看起来很有吸引力的建议.
+[How to Market a Game](https://howtomarketagame.com)  - Chris Zukowski 的博客和资源集，提供有关营销和销售的建议. 我个人推荐他的 GDC 演讲“Empathizing with Steam：人们如何购买你的游戏”和“写什么让人们购买：销售你的游戏而不感到低俗”作为起点.
 
 
-[Budget Viability](https://ltpf.ramiismail.com/budget-viability/) - 弄清楚你的预算对你的游戏来说有多现实.
+[Community Dev Newsletter and Blog](https://www.victoriatran.com)  - Victoria Tran 的博客和时事通讯，提供有关社区管理、社交媒体和营销的建议. 过去的时事通讯在这里存档. 我个人推荐将“失败营销”和“魅力社区”作为起点.
+
+
+[Blog by Derek Lieu](https://www.derek-lieu.com/blog/)  - Derek Lieu 的博客，提供有关游戏预告片的建议. 我个人推荐“Show the Dream, Not the Job”和“Video Game Trailer Specifications”作为起点.
 
 
 <br />
@@ -815,9 +818,6 @@ Note that there are many, many more resources out there - these are primarily in
 
 
 [Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - 一个充满事后分析、游戏开发新闻、博客文章和其他关注游戏开发者及其社区的文章的网站.
-
-
-[Rami Ismail](https://ltpf.ramiismail.com) - 由经验丰富的开发人员、业务人员和顾问提供合理建议的博客.
 
 
 [Papers Please Devlog](https://fguillen.github.io/PapersPleaseDevlogScrap/) - 来自论文开发的帖子请.

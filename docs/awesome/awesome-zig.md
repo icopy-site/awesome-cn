@@ -11,13 +11,13 @@
 ## Algorithms and data structures
 * [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
-* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
+* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的数组.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) - 适用于任何 C ABI 兼容目标的生产就绪布谷鸟过滤器.
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort 实施.
 * [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) - 容器库.
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - 稀疏集，同时支持 SOA 和 AOS 风格.
-* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor 过滤器，用于检查一个键是否是一个集合的一部分.
+* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
 * [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - UTF-8 字符串数据结构.
 
 
@@ -114,7 +114,7 @@
 * [Stenodyon/blink](https://github.com/Stenodyon/blink) - 关于用激光构建逻辑的游戏.
 * [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) - 受 NetHack 启发的 Hack-n-slash roguelike.
 * [tiehuis/zstack](https://github.com/tiehuis/zstack) - 直线竞赛俄罗斯方块模式.
-* [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
+* [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - 用于游戏和实时计算机图形的线性代数库.
 * [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - 吃豆子克隆.
 * [dantecatalfamo/OpenCSE](https://github.com/dantecatalfamo/OpenCSE) - 免费实施 Can&#39;t Stop Express 骰子游戏.
 
@@ -186,6 +186,7 @@
 * [zigwasm/wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Wasmer WebAssembly 运行时的绑定.
 * [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Wasmtime 的绑定.
 * [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - 小胡子实施.
+* [floscodes/zerve](https://github.com/floscodes/zerve) - 用于编写网络服务和网络应用程序的简单框架.
 
 
 ## System tools

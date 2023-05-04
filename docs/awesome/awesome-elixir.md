@@ -119,7 +119,7 @@
 * [Consolex](https://github.com/sivsushruth/consolex) - Consolex 是一种工具，可让您将基于 Web 的控制台附加到任何混音项目.
 * [dragonfly_server](https://github.com/cloud8421/dragonfly-server) - 用于提供 Dragonfly 图像的 Elixir 应用程序.
 * [exchat](https://github.com/tony612/exchat) - 由 Elixir、Phoenix 和 React (redux) 开发的类似 Slack 的应用程序.
-* [Exon](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
+* [Exon](https://github.com/tchoutri/Exon)  - 在 Elixir 中开发的“混乱管理器”，提供了一个简单的 API 来管理和记录你的东西.  ([Docs](https://hexdocs.pm/exon/readme.html)).
 * [ExShop](https://github.com/authentic-pixels/ex-shop) - 使用 Phoenix 框架创建的数字商品商店和博客.
 * [Hydra](https://github.com/doomspork/hydra) - 多头野兽：API 网关、请求缓存和数据转换.
 * [Igthorn](https://github.com/cinderella-man/igthorn) - 带有管理面板的加密货币交易平台/交易机器人.
@@ -554,7 +554,7 @@
 * [event_bus](https://github.com/mustafaturan/event_bus) - 带有主题过滤和内置事件存储和事件观察器的简单事件总线实现.
 * [goldrush](https://github.com/DeadZen/goldrush) - 用于 Erlang/OTP 应用程序的小型、快速事件处理和监视.
 * [reaxive](https://github.com/alfert/reaxive) - Reaxive 是一个响应式事件处理库，灵感来自 [Elm](http://elm-lang.org) 和反应性扩展.
-* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的设施.
+* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的工具.
 
 ## Examples and funny stuff
 *示例代码和太有趣或好奇的东西更不用说了.*
@@ -573,7 +573,7 @@
 * [hexpm](https://github.com/hexpm/hexpm) - 使用 Phoenix 1.3 构建的十六进制包管理器站点的源代码.
 * [kaisuu](https://github.com/SebastianSzturo/kaisuu) - 在 Twitter 上实时观看日本的汉字用法.
 * [koans](https://github.com/dojo-toulouse/elixir-koans) - 使用 elixir-koans 学习 Elixir.
-* [lolcat](https://github.com/restartr/ex-lolcat)  - 这是 busyloop/lolcat 的克隆. 但它不支持动画和原版的一些功能.
+* [lolcat](https://github.com/restartr/ex-lolcat) - This is the clone of busyloop/lolcat. But it does not support animation and some features of the original.
 * [magnetissimo](https://github.com/sergiotapia/magnetissimo) - 为所有流行的 Torrent 站点编制索引并将其保存到本地数据库的 Web 应用程序.
 * [oop](https://github.com/wojtekmach/oop) - Elixir 中的 OOP.
 * [phoenix-chat-example](https://github.com/dwyl/phoenix-chat-example)  - 在 Phoenix 中为初学者构建聊天应用程序的分步示例/教程. 涵盖测试、文档和部署. 凤凰`1.5.3`.
@@ -584,7 +584,7 @@
 * [portal](https://github.com/josevalim/portal) - 用于 Elixir 中分布式门户数据传输应用程序的射击容错门.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - 长生不老药/凤凰实施 [RealWorld.io](https://realworld.io/) 后端规格 - 中型克隆.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir 库使用 Pratt Parser 算法来计算骰子掷骰.
-* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行器.
+* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行程序.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix 应用程序可与随机选择的陌生人匿名聊天.
 * [tilex](https://github.com/hashrocket/tilex) - 使用 Phoenix 1.3 构建的 Hashrocket TIL 网站的源代码.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - 使用 Elixir 构建的命令行天气应用程序.
@@ -670,6 +670,7 @@
 * [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis) - Phoenix 框架的 Redis PubSub 适配器.
 * [phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq) - 用于 Phoenix 框架的 VerneMQ MQTT pubsub 适配器.
 * [phoenix_slime](https://github.com/slime-lang/phoenix_slime) - 对 Phoenix 的超薄模板支持.
+* [phoenix_svg](https://github.com/jsonmaur/phoenix-svg) - 在 Phoenix 中使用内联 SVG.
 * [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth)  - Phoenix 的令牌认证解决方案. 对 API 或单页应用程序很有用.
 * [phoenix_turnstile](https://github.com/jsonmaur/phoenix-turnstile) - Phoenix 组件和助手，用于将验证码与 Cloudflare Turnstile 结合使用.
 * [phx_component_helpers](https://github.com/cblavier/phx_component_helpers) - 可扩展的 live_components，没有样板.
@@ -1065,7 +1066,7 @@
 * [asn](https://github.com/ephe-meral/asn) - 可用于从 IP 映射到 AS 再到 ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [download](https://github.com/asiniy/download) - 轻松地从互联网下载文件.
-* [eio](https://github.com/falood/eio) - Elixir server of engine.io.
+* [eio](https://github.com/falood/eio) - engine.io 的 Elixir 服务器.
 * [ExPcap](https://github.com/cobenian/expcap) - 用 Elixir 编写的 PCAP 解析器.
 * [Firezone](https://github.com/firezone/firezone)  - 基于 WireGuard 构建的适用于 Linux 的开源 VPN 服务器和出口防火墙.  Firezone 易于设置（感谢 Chef Omnibus，所有依赖项都捆绑在一起）、安全、高性能且可自托管.
 * [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - 用 elixir 编写的 dyndns 服务器.
@@ -1097,7 +1098,7 @@
 * [arbor](https://github.com/coryodaniel/arbor) - Ecto 邻接表和树遍历.
 * [arc_ecto](https://github.com/stavro/arc_ecto) - Arc.Ecto 提供与 Arc 和 Ecto 的集成.
 * [atlas](https://github.com/chrismccord/atlas) - Elixir 的对象关系映射器.
-* [barrel_ex](https://github.com/jxub/barrel_ex) - [Barrel-db](https://barrel-db.org/) Elixir 中的分布式面向文档的数据库 REST 客户端.
+* [barrel_ex](https://github.com/jxub/barrel_ex) - [Barrel-db](https://barrel-db.org/) Elixir 中分布式面向文档的数据库 REST 客户端.
 * [Bolt.Sips](https://github.com/florinpatrascu/bolt_sips) - 使用 Bolt 协议的 Elixir 的 Neo4j 驱动程序.
 * [boltun](https://github.com/bitgamma/boltun) - 将来自 Postgres LISTEN/NOTIFY 机制的通知转换为回调执行.
 * [caylir](https://github.com/mneudert/caylir) - Elixir 的 Cayley 驱动程序.
@@ -1224,7 +1225,7 @@
 *特殊协议和格式库.*
 
 * [borsh](https://github.com/alexfilatov/borsh) - 长生不老药实施 [BORSH](https://borsh.io) 二进制序列化器.
-* [elixir_radius](https://github.com/bearice/elixir-radius) - 长生不老药上的 RADIUS 协议.
+* [elixir_radius](https://github.com/bearice/elixir-radius) - 关于 Elixir 的 RADIUS 协议.
 * [ex_hl7](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) 是一种旨在以电子方式建模和传输健康相关数据的协议.
 * [ex_marshal](https://github.com/gaynetdinov/ex_marshal) - 在 Elixir 中实现的 Ruby Marshal 格式.
 * [exprotobuf](https://github.com/bitwalker/exprotobuf) - Elixir 中的协议缓冲区，变得简单.
@@ -1324,7 +1325,7 @@
 * [code_signing](https://github.com/benknowles/code_signing) - 使用 Ed25519 签名签署和验证 BEAM 文件.
 * [Ockam](https://github.com/ockam-network/ockam) - 一套工具、编程库和基础架构，可以轻松构建与云服务和其他设备进行安全、私密和可信通信的设备. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - 检查您的密码是否已被破解.
-* [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助函数.
+* [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助功能.
 * [sobelow](https://github.com/nccgroup/sobelow) - 针对 Phoenix Framework 的以安全为中心的静态分析.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Erlang 的 ssl 验证函数集合.
 
@@ -1340,6 +1341,7 @@
 * [medusa](https://github.com/Vesuvium/medusa) - 支持 Pug 的 Elixir 静态站点生成器.
 * [NimblePublisher](https://github.com/dashbitco/nimble_publisher) - 最小的基于文件系统的发布者，具有降价和语法突出显示.
 * [obelisk](https://github.com/BennyHallett/obelisk) - 静态博客和网站生成器.
+* [phoenix_pages](https://github.com/jsonmaur/phoenix-pages) - 将博客、文档和其他静态页面添加到 Phoenix 应用程序.
 * [serum](https://github.com/Dalgona/Serum) - 用 Elixir 编写的简单静态网站生成器.
 
 ## Statistics
@@ -1484,7 +1486,7 @@
 * [monetized](https://github.com/theocodes/monetized) - 用于处理和存储资金的轻量级解决方案.
 * [money](https://github.com/liuggio/money) - 更安全、更轻松、更有趣地使用货币，对福勒货币模式的解释.
 * [mt940](https://github.com/my-flow/mt940) - 用于 Elixir 的 MT940（标准结构化 SWIFT 客户声明消息）解析器.
-* [namor](https://github.com/jsonmaur/namor.ex) - 一个名称生成器，可以创建随机的、对 url 友好的 slug.
+* [namor](https://github.com/jsonmaur/namor) - 一个名称生成器，可以创建随机的、对 url 友好的 slug.
 * [nanoid](https://github.com/railsmechanic/nanoid) - NanoID 的 Elixir 端口，一个安全且 URL 友好的唯一 ID 生成器.
 * [near_api](https://github.com/alexfilatov/near_api) - A [NEAR](https://near.org) Elixir 中的 API - 用于在 NEAR 区块链平台上开发 DApps 的库.
 * [neotomex](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) 使用令人愉快的 Elixir DSL 实现.
@@ -1877,7 +1879,7 @@
 
 * [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide) - 社区驱动的 Elixir 风格指南.
 * [lexmag/elixir-style-guide](https://github.com/lexmag/elixir-style-guide) - 自以为是的 Elixir 风格指南.
-* [rrrene/elixir-style-guide](https://github.com/rrrene/elixir-style-guide) - 风格指南检查 [Credo](https://github.com/rrrene/credo).
+* [rrrene/elixir-style-guide](https://github.com/rrrene/elixir-style-guide) - Style guide checked by [Credo](https://github.com/rrrene/credo).
 
 ## Websites
 *有用的 Elixir 相关网站.*

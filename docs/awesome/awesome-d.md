@@ -121,6 +121,7 @@
 ## Articles
 *D相关文章*
 
+* [Origins of the D programming language](https://dl.acm.org/doi/pdf/10.1145/3386323)  - Walter Bright、Andrei Alexandrescu、Michael Parker 着.  D语言的历史和发展.
 * [Purity in D](https://klickverbot.at/blog/2012/05/purity-in-d/) - 一篇解释 D 纯度特性背后的设计原则的文章.
 * [Hidden treasures in the D standard library](https://web.archive.org/web/20171119072212/http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - 一篇文章讨论了 Phobos 中几个有用的功能和模板.
 * [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - 关于将最小 D 运行时移植到 ARM Cortex-M 预处理器的研究.
@@ -372,7 +373,7 @@
 	* 免费图片 - [bindbc-freeimage](https://github.com/BindBC/bindbc-freeimage)
 	* Assimp5 - [bindbc-assimp](https://github.com/Sobaya007/bindbc-assimp)
 	* 自由打字 - [bindbc-freetype](https://github.com/BindBC/bindbc-freetype)
-	* Harfbuzz - 文本整形引擎 - [bindbc-harfbuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
+	* Harfbuzz - text shaping engine - [bindbc-harfbuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
 * [DerelictOrg](https://github.com/DerelictOrg) - 托管所有废弃绑定的 GitHub 组织，包括：
 	* OpenGL 3 (DerelictGL3), 
 	* Bgfx (DerelictBgfx), 
@@ -385,7 +386,7 @@
 	* libtheora (DerelictTheora),  
 	* libogg (DerelictOgg), 
 	* libvorbis (DerelictVorbis), 
-	* SFML 2 (DerelictSFML2), 
+	* SFML 2（废弃SFML2）， 
 	* libpq (DerelictPQ), 
 	* 物理文件系统（DerelictPHYSFS）， 
 	* 开放式动力学引擎 (DerelictODE)， 
@@ -458,7 +459,7 @@
 
 * [scid](https://github.com/DlangScience/scid) - D 编程语言的科学图书馆
 * [dstats](https://github.com/DlangScience/dstats) - D 的统计库. 
-* [mir](https://github.com/libmir/mir) - 一些 mir 包的沙盒：稀疏张量、霍夫曼等.
+* [mir](https://github.com/libmir/mir) - 一些 mir 包的沙箱：稀疏张量、霍夫曼等.
 * [mir-algorithm](https://github.com/libmir/mir) - N 维数组（矩阵、张量）、算法、通用库.
 * [mir-random](https://github.com/libmir/mir-random) - 高级随机数生成器.
 * [decimals](https://github.com/rumbu13/decimal) - D 的十进制库.

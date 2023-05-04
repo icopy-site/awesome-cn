@@ -43,7 +43,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 ## Books
 
 -  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - 戈登贝尔和吉姆格梅尔
-- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - 黛博拉·拉普顿
+- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - 黛博拉·勒普顿
 - [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - 吉娜内夫和黎明纳弗斯
 - [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - 安德鲁·卡尔 [(cheaper PDF version)](http://gum.co/everydaydata)
 
@@ -104,14 +104,14 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Vora](https://getvora.com/) - 禁食追踪器（iOS 和安卓）.
 - [Bitesnap](https://www.getbitesnap.com/) - 由计算机视觉支持的基于图像的食物记录应用程序（iOS 和 Android）.
 - [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514)  - 记录咖啡因摄入量，内部数据库与 Apple Health 同步.  (iOS)
-- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
+- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - 超级高效的咖啡因追踪器应用程序，支持 Apple Watch（iOS 和 Apple Watch）.
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - 基于 Web 的目标设定和跟踪软件（iOS 和 Android）.
 - [Lifetick](https://lifetick.com/) - 在线目标跟踪平台.
 - [stickK](http://www.stickk.com/) - 目标跟踪与货币承诺.
 - [Beeminder](https://www.beeminder.com/)  - 目标跟踪与货币承诺. 与许多设备和应用程序集成.
-- [Taskade](https://www.taskade.com/)  - 简单且可共享的任务、清单和注释.  （网络、iOS 和安卓）.
+- [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
 ### Habits
 - [Habitica](https://habitica.com) - 一个习惯追踪应用程序，将您的目标视为角色扮演游戏（Web、iOS 和 Android）.
@@ -123,6 +123,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种�
 - [Productive](https://productiveapp.io/) - 习惯和每日目标跟踪器，具有灵活的日程安排、提醒和数据导出 (iOS).
 - [Everyday](https://everyday.app/)  - 适用于 Web、iOS 和 Android 的简单美观的习惯跟踪器. 有一个网络扩展，可以将其添加到浏览器的新选项卡中.
 - [Emoji Log](https://emojilog.rosano.ca) - 使用表情符号跟踪没有条纹的习惯.
+- [Conjure](https://conjure.so)  - 带有规则引擎、数据层、API、仪表板等的习惯、目标和时间跟踪器.  （网络、桌面、iOS、Android）.
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - 酒精消耗跟踪和 BAC 计算应用程序，提供有关您饮酒行为的各种统计数据 (Android).

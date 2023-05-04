@@ -38,6 +38,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 
 - [Substrate Developers Chat (Telegram)](https://t.me/substratedevs) - 与其他 Substrate 开发人员聊天，也桥接到 [matrix](https://matrix.to/#/#substratedevs:matrix.org).
 - [Twitter](https://twitter.com/substrate_io) - 关注我们以了解最新信息.
+- [Polkaverse](https://polkaverse.com)  - 一个去中心化的新闻源式社交平台，供 Polkadot 社区讨论、分享知识、发布生态系统更新以及与帖子互动. 建立在 [Subsocial](https://subsocial.network).
 
 ## Events
 
@@ -75,6 +76,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) - 包含质押和治理功能的 Substrate 节点模板.
 - [polkadot-js-api-ts-template](https://github.com/kianenigma/polkadot-js-api-ts-template) - 一个模板项目，用于在“@polkadot/api”之上启动黑客攻击.
 - [INK!athon](https://inkathon.xyz/)  - 带墨水的全栈 dApp 样板！ 智能合约和 React 前端使用 `useInkathon`（下面列出）钩子库维护 [Scio Labs](https://scio.xyz).
+- [Subsocial Starter Kit](https://docs.subsocial.network/docs/develop/developer-quickstart) - 用于为 Polkadot 生态系统构建 web3 社交应用程序的入门套件，由 [Subsocial blockchain](https://subsocial.network).
 
 ## FRAME Pallets
 
@@ -113,6 +115,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Subscan Go Utilities](https://github.com/itering/subscan-essentials) - SS58 等，由 Subscan 开发.
 - [Sub-Api](https://github.com/kodadot/packages/tree/main/sub-api) - 由 KodaDot 维护的 Polkadot.js API 的友好包装器.
 - [`useInkathon`](https://github.com/scio-labs/use-inkathon)  - Polkadot.js 的 Typesafe React Hooks 库抽象功能，用于处理基于 Substrate 的网络和墨水！ 由 Scio Labs 维护的智能合约.
+- [Subsocial JS SDK](https://github.com/dappforce/subsocial-js) - 供开发人员在 Subsocial 之上构建 web3 社交应用程序的 JS SDK. 
 
 ## Mobile
 
@@ -175,7 +178,7 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) - 一个脚本，用于解析和输出给定 Kusama 或 Polkadot 地址的质押奖励，并将它们与每日价格数据交叉引用.
 - [Subkey](https://docs.substrate.io/reference/command-line-tools/subkey/) - 用于使用加密密钥的命令行实用程序.
 - [SubQuery](https://subquery.network) - GraphQL 索引器和查询服务，允许用户轻松创建索引数据源并免费在线托管它们.
-  - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - 用于操作历史和质押分析的 SubQuery API 实现.
+  - [Nova SubQuery API](https://github.com/nova-wallet/subquery-nova) - A SubQuery API implementation for operation history and staking analytics.
 - [Subscan](https://www.subscan.io/) - 用于基于 Substrate 的链的多网络浏览器.
 - [Subsquid](https://subsquid.io) - 一个索引框架（SDK + 基础设施），可快速轻松地将 Substrate 和 EVM 链上数据转换为 API 并托管它们.
 - [Substate](https://github.com/arrudagates/substate) - 100% 无标准/wasm 兼容的 Substrate 存储密钥生成器库，用于 Rust.
@@ -187,6 +190,8 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [TxWrapper](https://github.com/paritytech/txwrapper) - 用于离线交易创建的有用库.
 - [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - Visual Studio 代码插件.
 - [Polkaholic.io](https://polkaholic.io) - 多链区块浏览器，支持 40 多个平行链的 API 和 DeFi.
+- [SubID](https://github.com/dappforce/subid)  - 用于 Polkadot 生态系统的高级跨链投资组合管理工具，允许任何用户查看其跨链余额； 查看他们的众贷历史； 查看他们在 Polkadot 生态系统链中的 NFT； 索取他们的既得代币并执行跨链转移.
+- [Subsocial SDK Playground](https://play.subsocial.network) - Subsocial JS SDK Playground 允许您获取空间、在区块链上发送交易并随时随地测试 SDK 代码片段，而无需在本地下载或设置任何内容.
 
 ## Products and Services
 
@@ -209,10 +214,10 @@ Substrate 是一个构建可升级、模块化和高效的框架
 - [Go](https://github.com/itering/scale.go) - 由维护 [Itering](https://www.itering.com/).
 - [Haskell](https://github.com/airalab/hs-web3/tree/master/src/Codec) - 由维护 [Robonomics Network](https://robonomics.network/).
 - [Java](https://github.com/emeraldpay/polkaj/tree/master/polkaj-scale) - 由维护 [Emerald](https://emerald.cash/).
-- [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - 用 Rust 编写的参考实现.
+- [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - Reference implementation written in Rust.
 - [Python](https://github.com/polkascan/py-scale-codec) - 由 Polkascan 基金会维护.
 - [Ruby](https://github.com/itering/scale.rb) - 由 Itering 维护.
-- [Scales](https://github.com/virto-network/scales) - Serializing SCALE using type information from a type registry.
+- [Scales](https://github.com/virto-network/scales) - 使用类型注册表中的类型信息序列化 SCALE.
 - JavaScript / TypeScript 实现：
   - [paritytech/parity-scale-codec-ts](https://github.com/paritytech/parity-scale-codec-ts) - 由 Parity Technologies 维护.
   - [polkadot-js/api](https://github.com/polkadot-js/api/tree/master/packages/types) - 由 Polkadot-JS 维护.

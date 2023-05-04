@@ -10,7 +10,7 @@
 
 连接索引、地图和报告的列表，可帮助您更好地了解谁有权访问通信基础设施以及在什么条件下. 公共领域的所有信息.
 
-<sub>有关连接的更多信息，请访问我的</sub> [website](https://manypossibilities.net) or on <a rel="me" href="https://mastodon.cloud/@stevesong">Mastodon</a>.</sub>
+<sub>有关连接的更多信息，请访问我的</sub> [website](https://manypossibilities.net) 或在<a rel="me" href="https://mastodon.cloud/@stevesong">Mastodon</a>上.
 
 
 - [](#)
@@ -81,6 +81,7 @@
 
 **[`^        back to top        ^`](#)**
 
+- 发展和获取信息 (DA2i) [Regional Reports](https://public.tableau.com/app/profile/da2i.reports/viz/DA2iRegionalReports/Introduction) - 仪表板分析连通性、自由和性别平等 [TASCHA group](https://tascha.uw.edu/) 在华盛顿大学. 资助者 [IFLA](https://www.ifla.org/).
 - [e-Conomy Africa 2020](https://www.ifc.org/wps/wcm/connect/publications_ext_content/ifc_external_publication_site/publications_listing_page/google-e-conomy): Africa&#39;s $1800 billion Internet Economy Future - IFC/Google 赞助的关于非洲互联网经济的报告
 - GSMA 移动经济 - 中东和北非 ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/05/GSMA_MENA_ME2022_R_WebSingles.pdf))
 - GSMA 移动经济 - 西非 ([2019](https://www.gsma.com/r/mobileeconomy/west-africa/)) ([2018](https://www.gsma.com/subsaharanafrica/wp-content/uploads/2018/11/2018-04-11-e568fe9e710ec776d82c04e9f6760adb.pdf))
@@ -109,7 +110,7 @@
 - [Kleiner Perkins Mary Meeker Internet Trends Report](https://www.kleinerperkins.com/perspectives/internet-trends-report-2018/) -（2018 年 5 月）影响和推动全球互联网普及的趋势.
 - [WEF Internet for All](https://www.weforum.org/reports/internet-for-all-a-framework-for-accelerating-internet-access-and-adoption/) - (2016) 加速互联网访问和采用的框架.
 - [M-Lab Visualization Platform](https://www.measurementlab.net/visualizations/) - M-Lab 是一个开放的、可验证的全球网络性能测量平台. 
-- [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - 影响互联网性能的交互式地图报告问题.
+- [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) - Interactive map reporting issues that impact the performance of the Internet.
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - 合理更新的全球移动网络列表及其相关频率.
 - [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - 更新时间：2020 年 2 月 28 日.
   
