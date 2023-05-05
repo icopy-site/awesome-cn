@@ -173,7 +173,7 @@
 
 ## Calendar
 
-* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET 是一个用于 .NET 的 iCalendar (RFC 5545) 类库，旨在提供 RFC 5545 合规性，同时提供与流行的日历应用程序和库的完全兼容性.
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET 是 .NET 的 iCalendar (RFC 5545) 类库，旨在提供 RFC 5545 合规性，同时提供与流行日历应用程序和库的完全兼容性.
 
 ## Chat
 
@@ -198,7 +198,7 @@
 * [JustCli](https://github.com/jden123/JustCli) - 这只是创建您自己的命令行工具的快速方法.
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - .NET 的终端 UI 工具包.
 * [Power Args](https://github.com/adamabdelhamed/PowerArgs)  - PowerArgs 将命令行参数转换为易于编程的 .NET 对象. 它还提供了大量可选功能，例如参数验证、自动生成用法、选项卡完成和大量可扩展性
-* [ReadLine](https://github.com/tonerdo/readline) - .NET/.NET Core 的类似 GNU-Readline 的库.
+* [ReadLine](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，利用对象树作为命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 * [spectre.console](https://github.com/spectresystems/spectre.console) - 一个库，可以更轻松地创建漂亮的控制台应用程序.
@@ -246,7 +246,7 @@
 * [IronScheme](https://github.com/IronScheme/IronScheme) - R6RS Scheme 编译器、运行时和许多标准库
 * [JSIL](https://github.com/sq/JSIL) - CIL 到 JavaScript 编译器 http://jsil.org/
 * [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
-* [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic 编译器和运行时
+* [Mono-basic](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
 * [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [Netjs](https://github.com/praeclarum/Netjs)  - .NET 到 TypeScript 和 JavaScript 编译器. 可移植类库对此非常有用. 您甚至可以传递 EXE.
 * [P](https://github.com/p-org/P) - P 是一种用于异步事件驱动编程的语言.
@@ -371,7 +371,7 @@
 * [NopCommerce](https://github.com/nopSolutions/nopCommerce)  - nopCommerce. 免费开源电子商务购物车（ASP.NET Core）
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - 用于 stripe.com REST API 的类型化 .NET 客户端
 * [SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - 免费的 ASP.NET MVC 电子商务购物车解决方案
-* [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net is a full service .NET API for https://stripe.com/
+* [Stripe.Net](https://github.com/stripe/stripe-dotnet) - Stripe.net 是 https://stripe.com/ 的完整服务 .NET API
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform)  - Virto Commerce 是第二代版本，是唯一在开源许可下完全可用的企业级电子商务产品.  Virto Commerce 基于 .NET 4.5，广泛使用 MVC、IoC、EF、Azure、AngularJS 和许多其他尖端技术. 它可以部署在 Microsoft Cloud (Azure)、Amazon Web Services (AWS) 和本地.  https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce)  - 基于 .NET Core 构建的超级简单的电子商务系统. 使用简单，易于定制. 感谢 .NET Core，您可以在 Windows、Linux 上运行 SimplCommerce. 使用各种 RDBMS：Microsoft SQL Server、PostgreSQL、MySQL
 * [GrandNode](https://github.com/grandnode/grandnode2) - Headless、多供应商、多租户、最先进的基于.NET Core 5.0 和MongoDB 的开源电子商务平台. 
@@ -470,6 +470,7 @@
 * [Silk.NET](https://github.com/Ultz/Silk.NET)  - 一个跨平台、高性能、低级别的 .NET 标准包装器，适用于许多高级 API，例如 OpenGL、OpenCL、OpenAL、OpenXR、Assimp、GLFW 以及许多其他 API. 除了包装本机 API 之外，它还带有自己的窗口和输入抽象. 这使得使用 Silk.NET 进行游戏和应用程序开发变得轻而易举，并且几乎拥有 3D 应用程序开发人员所需的一切.
 * [Veldrid](https://github.com/mellinoe/veldrid) - 用于 .NET 的低级便携式图形和计算库
 * [RealTimeGraphX](https://github.com/royben/RealTimeGraphX) - RealTimeGraphX 是一个数据类型不可知的高性能绘图库，适用于 WPF、UWP 以及即将推出的 Xamarin Forms.
+* [VectSharp](https://github.com/arklumpus/VectSharp) - .NET 库创建矢量图形和文本，然后将其导出为 PDF、SVG 和光栅图像格式.
 
 ## GraphQL
 * [GraphQL.NET](https://github.com/graphql-dotnet/graphql-dotnet) - 实施 [Facebook's GraphQL](https://github.com/graphql/graphql-spec) 在.Net
@@ -540,7 +541,7 @@
 
 ## IDE
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
-* [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - A free IDE for .NET programming languages
+* [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - .NET 编程语言的免费 IDE
 * [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
 * [Visual Studio Express](https://visualstudio.microsoft.com/vs/express/) - 用于 .NET 编程的免费轻量级 Visual Studio 版本.
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - 功能齐全的 IDE
@@ -562,6 +563,7 @@
 * [DynamicImage](https://dynamicimage.apphb.com/) - 用于 ASP.NET 的高性能开源图像处理库.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - OpenCV 库的跨平台 .NET 包装器.
+* [SimpleITK](https://simpleitk.org/) - A simplified path to Insight. Open-source multi-dimensional image analysis in Python, R, Java, C#, Lua, Ruby, TCL and C++. Developed by the Insight Toolkit community for the biomedical sciences and beyond.
 * [DotImaging](https://github.com/dajuric/dot-imaging) - 简约的 .NET 成像便携平台
 * [Magick.NET](https://github.com/dlemstra/Magick.NET) - ImageMagick 库的 .NET 包装器.
 * [OpenCvSharp](https://github.com/shimat/opencvsharp/) - .NET Framework 的 OpenCV 跨平台包装器.
@@ -653,7 +655,7 @@
 * [Infer.NET](https://dotnet.github.io/infer/) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming.
 * [Accord.NET](http://accord-framework.net/) - 结合音频和图像处理库（计算机视觉、计算机试听、信号处理和统计）的机器学习框架.
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) - 高级图像处理和计算机视觉算法作为流畅的扩展.
-* [AForge.NET](http://www.aforgenet.com/) - 计算机视觉和人工智能领域（图像处理、神经网络、遗传算法、机器学习、机器人技术）的开发人员和研究人员的框架.
+* [AForge.NET](http://www.aforgenet.com/) - 计算机视觉和人工智能领域（图像处理、神经网络、遗传算法、机器学习、机器人）的开发人员和研究人员的框架.
 * [Catalyst](https://github.com/curiosity-ai/catalyst) 受 spaCy 启发的跨平台自然语言处理 (NLP) 库，具有预训练模型、对训练词和文档嵌入的开箱即用支持以及灵活的实体识别模型. 的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 * [Deedle](https://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
@@ -750,7 +752,7 @@
 * [ByteSize](https://github.com/omar/ByteSize)  - ByteSize 是一个实用程序类，它通过消除所表示值的歧义，使代码中的字节大小表示更容易.  ByteSize 是字节，System.TimeSpan 是时间.
 * [Jot](https://github.com/anakic/jot) - 一个用于持久化和恢复应用程序状态的库（比 .settings 文件更好的选择）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET 是一个高性能类型安全的 .NET 枚举实用程序库
-* [HidLibrary](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
+* [HidLibrary](https://github.com/mikeobrien/HidLibrary) - 此库使您能够在 .NET 中枚举 Hid 兼容 USB 设备并与之通信.
 * [SystemWrapper](https://github.com/jozefizso/SystemWrapper) - SystemWrapper 是 .NET 库，用于更轻松地测试系统 API.
 * [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - 用于提取元数据和下载 Youtube 视频和播放列表的终极库.
 * [DeviceId](https://github.com/MatthewKing/DeviceId) - 生成可用于唯一标识计算机的“设备 ID”.
@@ -837,7 +839,7 @@
 * [Limebean](https://github.com/Nick-Lucas/LimeBean) - 使用 SQL 片段且不需要模型类的混合 ORM.
 * [LLBLGen Pro](https://www.llblgen.com)  - Entity Framework、NHibernate、Linq to SQL 及其自身的 ORM 框架的实体建模解决方案：LLBLGen Pro Runtime Framework.  **[$][免费精简版]**
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) - Insight.Database 是一种用于 .NET 的快速、轻量级的微型 ORM
-* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 高度关注查询组合、粒度和代码美学的数据访问框架.
+* [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 数据访问框架，重点关注查询组合、粒度和代码美学.
 * [SmartSql](https://github.com/dotnetcore/SmartSql)  - SmartSql = MyBatis + Cache（内存 |  Redis）+ ZooKeeper + R/W Splitting + Dynamic Repository ....
 * [RepoDb](https://github.com/mikependon/RepoDb) - .NET 的混合 ORM 库.
 * [Venflow](https://github.com/TwentyFourMinutes/Venflow) - 用于 PostgreSQL 的超快速轻量级 ORM.
@@ -847,7 +849,7 @@
 
 * [NuGet](https://www.nuget.org/) - .NET 包管理器
 * [BaGet](https://github.com/loic-sharma/BaGet/) - 一个跨平台、轻量级的 NuGet 和 Symbol 服务器
-* [Cloudsmith](https://cloudsmith.com/nuget-feed/) - A fully managed package management SaaS, with support for NuGet, Npm, Docker and much more. **[Free for Public/OSS]** **[$]**
+* [Cloudsmith](https://cloudsmith.com/nuget-feed/)  - 完全托管的包管理 SaaS，支持 NuGet、Npm、Docker 等.  **[公共/OSS 免费]** **[$]**
 * [MyGet](https://www.myget.org/)  - 用于 NuGet、NPM、Bower 和 VSIX 的托管包存储库. 还提供 CI 即服务.  **[$]**
 * [Paket](https://github.com/fsprojects/Paket)  - .NET 的包依赖管理器，支持 NuGet 包和 GitHub 存储库.  https://fsprojects.github.io/Paket/
 * [Sleet](https://github.com/emgarten/sleet/) - 支持 AWS S3 和 Azure 存储的 NuGet v3 静态提要生成器
@@ -913,11 +915,6 @@
 * [BloomRPC](https://github.com/bloomrpc/bloomrpc) - BloomRPC 旨在为探索和查询您的 GRPC 服务提供最简单、最高效的开发人员体验.
 * [gRPCurl](https://github.com/fullstorydev/grpcurl)  - gRPCurl 是一个命令行工具，可让您与 gRPC 服务器进行交互. 它基本上是 gRPC 服务器的 curl.
 * [gRPC UI](https://github.com/fullstorydev/grpcui)  - gRPC UI 是一个命令行工具，可让您通过浏览器与 gRPC 服务器进行交互. 它有点像 Postman，但用​​于 gRPC API 而不是 REST.
-
-## RPC
-
-* [gRPC](https://github.com/grpc/grpc-dotnet)   .NET Core 的 RPC 库和框架. 阅读更多关于它的信息 [Docs Microsoft](https://docs.microsoft.com/en-us/aspnet/core/grpc)
-* [CoreRPC](https://github.com/kekekeks/CoreRPC)  - 针对 netstandard1.3 的类似 WCF 的 RPC 的可扩展库. 与 .NET、Mono 和 .NET Core 兼容.
 
 ## Reactive Programming
 
@@ -1053,14 +1050,14 @@
 * [Shouldly](https://github.com/shouldly/shouldly) - Shouldly 是一个断言框架，它专注于在断言失败时提供重要的错误消息，同时又简单明了.
 * [Snapshooter](https://github.com/SwissLife-OSS/snapshooter) - .NET Core 和.NET Framework 快照测试工具
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) - 将业务需求绑定到 .Net 代码
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的突变测试
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - .NET Core 项目的变异测试
 * [xBehave.net](https://github.com/xbehave/xbehave.net) - 用于使用自然语言描述测试的 xUnit.net 扩展.
 * [xUnit.net](https://github.com/xunit/xunit) - 适用于 .NET Framework 的免费、开源、以社区为中心的单元测试工具.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [ReportPortal](https://reportportal.io)  - 人工智能驱动的测试自动化仪表板. 获取、汇总和分析测试报告以确定版本健康状况.
 * [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)  - 使用反射对任意两个 .NET 对象进行深度比较. 显示两个对象之间的差异.
-* [Verify](https://github.com/VerifyTests/Verify) - 验证工具可以简单地批准复杂的模型和文件.
+* [Verify](https://github.com/VerifyTests/Verify) - 验证工具可以简单地批准复杂的模型和文档.
 * [CsCheck](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
 ## Tools
@@ -1133,7 +1130,7 @@
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在 .NET 和 Mono 上构建基于 HTTP 的服务的轻量级、低仪式性框架
 * [IISNode](https://github.com/tjanczuk/iisnode) - 在 IIS 中托管 Node.js 应用程序
 * [Suave.IO](https://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in F#.
-* [DotVVM](https://github.com/riganti/dotvvm) - 适用于不喜欢编写 JavaScript 的人的 MVVM 框架，支持 OWIN 和 ASP.NET Core 以及 Visual Studio 2015 和 2017 的免费扩展.
+* [DotVVM](https://github.com/riganti/dotvvm) - 适用于不喜欢编写 JavaScript 的人的 MVVM 框架，具有 OWIN 和 ASP.NET Core 支持以及 Visual Studio 2015 和 2017 的免费扩展.
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## Web Servers

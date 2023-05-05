@@ -49,7 +49,7 @@
 
 * [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty)  - ***乳胶***. 配置文件的 LaTex 模板，具有优雅的引用样式（灰色引用，页面向后引用）.
 
-* [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/BibTex/template.bib)  - ***中文提供***.  BibTex 模板，用于包含 AI、数学和认知科学领域的期刊和会议缩写.
+* [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/BibTex/references_header.bib)  - ***中文提供***.  BibTex 模板，用于包含 AI、数学和认知科学领域的期刊和会议缩写.
 
 * [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf)  - ***自然***.  Nature 关于撰写摘要的官方指南.
 
@@ -235,7 +235,7 @@
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
-* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为说明.
+* [When to trust the data: Further investigations of system error in a scientific reasoning task](https://link.springer.com/article/10.3758/BF03201090) - ***记忆与认知***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=3131191372086488656&hl=en&as_sdt=2005&sciodt=0,5) ]. 关于自下而上观察和自上而下推理之间转变的行为解释.
 
 * [Confirmation, disconfirmation, and information in hypothesis testing](https://psycnet.apa.org/record/1987-20689-001) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=1954141597807453515&hl=en&as_sdt=0,5) ]. 关于假设检验的心理学解释.
 

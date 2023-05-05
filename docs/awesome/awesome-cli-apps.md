@@ -46,7 +46,7 @@
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行界面.
-- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client.
+- [TTYtter](https://github.com/oysttyer/oysttyer) - 推特客户端.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上智能且漂亮的 Twitter 客户端.
 - [tuir](https://gitlab.com/ajak/tuir) - 应该是 TUI.
 - [WeeChat](https://weechat.org/) - 快速、轻便且可扩展的聊天客户端.
@@ -60,6 +60,7 @@
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - YouTube 播放器.
 - [mpv](https://mpv.io) - 高级视频播放器.
 - [editly](https://github.com/mifi/editly) - 声明式视频编辑.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - 具有附加功能和修复的 `youtube-dl` 分支.
 
 ### Movies
 
@@ -225,6 +226,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - 命令行栖息地的任务、看板和注释.
 - [dnote](https://github.com/dnote/dnote) - 交互式、多设备笔记本.
 - [nb](https://github.com/xwmx/nb) - 笔记、书签、存档和知识库应用程序.
+- [obs](https://github.com/Yakitrak/obsidian-cli) - 与您的黑曜石金库互动.
 
 ### Finance
 
@@ -256,7 +258,7 @@
 - [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP、FTP、SFTP、BitTorrent 和 Metalink 下载实用程序.
 - [bitly-client](https://github.com/specious/bitly-client) - 有点客户.
 - [deadlink](https://github.com/nschloe/deadlink) - 查找文件中的死链接.
-- [crawley](https://github.com/s0rg/crawley) - Unix-way web crawler.
+- [crawley](https://github.com/s0rg/crawley) - Unix 方式的网络爬虫.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签.
 - [alex](https://github.com/get-alex/alex) - 捕捉麻木不仁、轻率的写作.
 
@@ -293,7 +295,7 @@
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器、终端、墙纸、Slack 等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为墙纸.
 - [pywal](https://github.com/dylanaraps/pywal) - 生成和更改配色方案，然后在系统范围内将它们应用到您喜欢的所有程序中.
-- [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
 ### Shell Utilities
@@ -319,7 +321,7 @@
 
 ### Markdown
 
-- [DocToc](https://github.com/thlorenz/doctoc) - 为降价文件生成目录.
+- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
 - [grip](https://github.com/joeyespo/grip) - 预览降价文件，因为 GitHub 会呈现它们.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 风格化的终端降价查看器.
 - [glow](https://github.com/charmbracelet/glow) - 风格降价渲染.

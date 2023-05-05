@@ -126,7 +126,7 @@
 * [majremind](https://bitbucket.org/Anwen/majremind) - 更新服务器的自我维护数据库，告诉您需要更新哪个服务器.
 * [medex](https://github.com/xerions/medex) - 体检 - 申请注册健康检查回调并通过 HTTP 表示其状态.
 * [medusa_server](https://github.com/IcaliaLabs/medusa_server)  - 一个用 Elixir 编写的简单牛仔网络服务器，用于堆叠图像.  ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
-* [Nvjorn](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+* [Nvjorn](https://github.com/tchoutri/Nvjorn) - 使用 Poolboy 用 Elixir 编写的多协议网络服务监视器.
 * [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - 使用 Elixir、Phoenix Framework、React 和 Redux 构建的 Good Old 游戏.
 * [Phoenix Toggl](https://github.com/bigardone/phoenix-toggl) - 在 Elixir、Phoenix Framework、React 和 Redux 中完成的 Toggl 致敬.
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) - 在 Elixir、Phoenix Framework、React 和 Redux 中完成的 Trello 致敬.
@@ -199,7 +199,7 @@
 * [ueberauth_auth0](https://hex.pm/packages/ueberauth_auth0) - 使用 Auth0 对用户进行身份验证的 Ueberauth 策略.
 * [ueberauth_cas](https://github.com/marceldegraaf/ueberauth_cas) - Überauth 的中央认证服务策略.
 * [ueberauth_facebook](https://github.com/ueberauth/ueberauth_Facebook) - 适用于 Überauth 的 Facebook OAuth2 策略.
-* [ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare) - 适用于 Überauth 的 Foursquare OAuth2 策略.
+* [ueberauth_foursquare](https://github.com/borodiychuk/ueberauth_foursquare) - Überauth 的 Foursquare OAuth2 策略.
 * [ueberauth_github](https://github.com/ueberauth/ueberauth_github) - Überauth 的 GitHub 策略.
 * [ueberauth_google](https://github.com/ueberauth/ueberauth_google) - 针对 Überauth 的 Google 策略.
 * [ueberauth_identity](https://github.com/ueberauth/ueberauth_identity) - Überauth 的简单用户名/密码策略.
@@ -439,7 +439,7 @@
 * [quantum](https://github.com/quantum-elixir/quantum-core) - 用于 Elixir 应用程序的类似 Cron 的作业调度程序.
 * [repeatex](https://github.com/rcdilorenzo/repeatex) - 重复日期的自然语言解析.
 * [tiktak](https://github.com/ConduitMobileRND/tiktak) - 用 Elixir 编写的快速轻量级 Web 调度程序.
-* [timelier](https://github.com/ausimian/timelier) - A cron-style scheduler for Elixir.
+* [timelier](https://github.com/ausimian/timelier) - Elixir 的 cron 风格调度程序.
 * [timex](https://github.com/bitwalker/timex) - Elixir 易于使用的日期和时间模块.
 * [timex_interval](https://github.com/atabary/timex-interval) - 基于 Timex 的 Elixir 项目的日期/时间间隔库.
 * [tzdata](https://github.com/lau/tzdata) - Elixir 中的时区数据库.
@@ -541,7 +541,7 @@
 ## Errors and Exception Handling
 *处理错误和异常.*
 
-* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - 官方 [AppSignal](https://appsignal.com/) package for Elixir.
+* [AppSignal Elixir](https://github.com/appsignal/appsignal-elixir) - 官方 [AppSignal](https://appsignal.com/) 长生不老药包.
 * [exceptional](https://github.com/expede/exceptional) - 快乐路径编程和异常处理的助手.
 * [happy](https://github.com/vic/happy) - 快乐路径编程，替代长生不老药`with`形式.
 * [OK](https://github.com/CrowdHailer/OK) - 使用结果 monad 进行优雅的错误处理，具有简单而强大的“with”结构和一个快乐的路径管道运算符.
@@ -554,7 +554,7 @@
 * [event_bus](https://github.com/mustafaturan/event_bus) - 带有主题过滤和内置事件存储和事件观察器的简单事件总线实现.
 * [goldrush](https://github.com/DeadZen/goldrush) - 用于 Erlang/OTP 应用程序的小型、快速事件处理和监视.
 * [reaxive](https://github.com/alfert/reaxive) - Reaxive 是一个响应式事件处理库，灵感来自 [Elm](http://elm-lang.org) 和反应性扩展.
-* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的工具.
+* [wait_for_it](https://github.com/jvoegele/wait_for_it) - 为同步并发活动提供方便易用的设施.
 
 ## Examples and funny stuff
 *示例代码和太有趣或好奇的东西更不用说了.*
@@ -584,7 +584,7 @@
 * [portal](https://github.com/josevalim/portal) - 用于 Elixir 中分布式门户数据传输应用程序的射击容错门.
 * [real world example app](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - 长生不老药/凤凰实施 [RealWorld.io](https://realworld.io/) 后端规格 - 中型克隆.
 * [rollex](https://gitlab.com/olhado/rollex) - Elixir 库使用 Pratt Parser 算法来计算骰子掷骰.
-* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行程序.
+* [rubix](https://github.com/YellowApple/Rubix) - 用于 Elixir 的非常简单（且几乎无法运行）的 Ruby 运行器.
 * [stranger](https://github.com/cazrin/stranger) - Elixir Phoenix 应用程序可与随机选择的陌生人匿名聊天.
 * [tilex](https://github.com/hashrocket/tilex) - 使用 Phoenix 1.3 构建的 Hashrocket TIL 网站的源代码.
 * [weather](https://github.com/tacticiankerala/elixir-weather) - 使用 Elixir 构建的命令行天气应用程序.
@@ -634,7 +634,7 @@
 * [forms](https://github.com/spawnproc/forms) - Erlang 商业文档生成器.
 
 ## Framework Components
-*来自网络开发框架的独立组件.*
+*Standalone component from web development frameworks.*
 
 * [absinthe_plug](https://github.com/absinthe-graphql/absinthe_plug) - 对苦艾酒的插件支持.
 * [addict](https://github.com/trenpixster/addict) - Phoenix 框架的用户身份验证.
@@ -906,7 +906,7 @@
 *语言建立在 Elixir 之上.*
 
 * [Elchemy](https://github.com/wende/elchemy) - 允许将 Elm 编程语言代码翻译成 Elixir 的编译器.
-* [lighthouse_scheme](https://github.com/jwhiteman/lighthouse-scheme) - 一种小型的类似 Lisp 的语言和交互式 REPL，内置于 Elixir 中.
+* [lighthouse_scheme](https://github.com/jwhiteman/lighthouse-scheme) - A small Lisp-like language and interactive REPL, built in Elixir.
 * [Monkey](https://github.com/fabrik42/writing_an_interpreter_in_elixir) - 用于类似 js 的 Monkey 编程语言的解释器和 REPL 的 Elixir 实现.
 
 ## Lexical analysis
@@ -1292,7 +1292,7 @@
 * [mix_docker](https://github.com/Recruitee/mix_docker) - 将您的 Elixir 应用程序生产版本放入最小的 docker 映像中.
 * [relex](https://github.com/yrashk/relex) - Erlang/Elixir 发布汇编程序.
 * [renew](https://github.com/Nebo15/renew) - 混合任务以创建构建到 Docker 容器中的混合项目.
-* [versioce](https://github.com/mpanarin/versioce) - 为您的混合项目生成可扩展的版本更新和变更日志.
+* [versioce](https://github.com/mpanarin/versioce) - An extensible version bumping and changelog generation for your mix project.
 
 ## REST and API
 *用于开发 REST-ful API 的库和网络工具.*
@@ -1326,6 +1326,7 @@
 * [Ockam](https://github.com/ockam-network/ockam) - 一套工具、编程库和基础架构，可以轻松构建与云服务和其他设备进行安全、私密和可信通信的设备. [Docs](https://www.ockam.io/learn/concepts/) .
 * [pwned](https://github.com/thiamsantos/pwned) - 检查您的密码是否已被破解.
 * [safetybox](https://github.com/aforward/safetybox) - Elixir 的面向安全的辅助功能.
+* [site_encrypt](https://github.com/sasa1977/site_encrypt) - 通过 Let&#39;s encrypt 为 Elixir 支持的站点提供集成认证.
 * [sobelow](https://github.com/nccgroup/sobelow) - 针对 Phoenix Framework 的以安全为中心的静态分析.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - Erlang 的 ssl 验证函数集合.
 
@@ -1448,7 +1449,7 @@
 * [brcpfcnpj](https://github.com/williamgueiros/Brcpfcnpj) - 巴西文件的编号格式和验证 (CPF/CNPJ).
 * [caustic](https://github.com/agro1986/caustic)  - 用于比特币、以太坊和其他区块链的 Elixir 加密货币库. 包括密码学、数论（质数、同余）和用于探索性数学的通用数学库.
 * [ccc](https://github.com/Joe-noh/ccc) - 字符代码转换器.
-* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带声调或不带声调的 slug）.
+* [chinese_translation](https://github.com/tyrchen/chinese_translation) - 基于维基百科数据在繁体中文和简体中文之间进行翻译，并将中文单词/字符翻译成拼音（或带或不带声调的 slug）.
 * [cidr](https://github.com/c-rack/cidr-elixir) - Elixir 的无类域间路由 (CIDR).
 * [cirru_parser](https://github.com/Cirru/parser.ex) - Elixir 中的 Cirru 解析器.
 * [colorful](https://github.com/Joe-noh/colorful) - 用于装饰 CUI 上的字符的 Elixir 宏.
@@ -1592,7 +1593,7 @@
 * [kane](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) - 一个 Keen.io API 客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 用于使用 Google 的 URL Shortener API 创建短 URL 的 Elixir 库.
-* [m2x](https://github.com/attm2x/m2x-elixir)  - 用于 AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  - AT&amp;T M2X 的 Elixir 客户端，这是一种基于云的完全托管时间序列数据存储服务，适用于网络连接的机器对机器 (M2M) 设备和物联网 (IoT).  ([Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) - MailChimp API 版本 3 的基本 Elixir 包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) - Elixir Mailgun 客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) - Elixir 的山魈包装纸.

@@ -89,7 +89,7 @@
 ### Productivity platforms
 
 - [Mem](https://mem.ai/)  - Mem 是世界上第一个由 AI 驱动的个性化工作空间. 放大您的创造力，使平凡的事情自动化，并自动保持井井有条.
-- [Taskade](https://www.taskade.com/) - 使用 Taskade AI 列出任务、笔记、生成的结构化列表和思维导图.
+- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
 - [Notion AI](https://www.notion.so/product/ai) - 写出更好、更高效的笔记和文档.
 
 ### Meeting assistants
@@ -97,6 +97,7 @@
 - [Otter.ai](https://otter.ai/) - 一个会议助手，可以录制音频、写笔记、自动​​捕获幻灯片并生成摘要.
 - [Cogram](https://www.cogram.com/) - Cogram 在虚拟会议中自动记录并识别行动项目.
 - [Sybill](https://www.sybill.ai/) - Sybill 通过结合文字记录和基于情感的见解，生成销售电话摘要，包括后续步骤、痛点和感兴趣的领域.
+- [Loopin AI](https://www.loopinhq.com/) - Loopin 是一个协作会议工作区，不仅可以让您使用 AI 记录、转录和总结会议，还可以让您在日历上自动组织会议记录.
 
 ### Academia
 
@@ -121,7 +122,7 @@
 
 ## Code
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -185,7 +186,7 @@
 - [Stable Horde](https://stablehorde.net/) - 稳定扩散工作者的众包分布式集群.
 - [DiffusionDB](https://diffusiondb.com/) - 用于 Stable Diffusion 的所有公共应用程序、开发人员工具、指南和插件的列表. [Airtable version](https://airtable.com/shr0HlBwbw3nZ8Ht3/tblxOCylXV8ynh7ti).
 - [PublicPrompts](https://publicprompts.art/) - 稳定扩散的免费提示集合.
-- [Stableboost](https://stableboost.ai/) - Stableboost 是一种 Stable Diffusion WebUI，可让您快速生成大量图像，以便您找到最完美的图像.
+- [Stableboost](https://stableboost.ai/) - Stableboost is a Stable Diffusion WebUI that lets you quickly generate a lot of images so you can find the perfect ones.
 - [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class) - 扩散模型在线课程的 Python 材料 [@huggingface](https://github.com/huggingface).
 
 ## Video
@@ -253,5 +254,5 @@
 ## Autonomous agents
 
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 使 GPT-4 完全自主的实验性开源尝试.
-- [babyagi](https://github.com/yoheinakajima/babyagi) - An AI-powered task management system.
+- [babyagi](https://github.com/yoheinakajima/babyagi) - 人工智能驱动的任务管理系统.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 在浏览器中组装、配置和部署自治 AI 代理.
