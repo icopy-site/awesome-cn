@@ -182,7 +182,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [fossil](https://github.com/matteocrippa/fossil) - 一个值类型验证套件.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 插值环境变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.
-- [invert-kv](https://github.com/denorg/invert-kv) - 在 Deno 中反转键值对.
+- [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 - [lazy](https://github.com/luvies/lazy) - 一个类似 linq 的惰性评估迭代模块.
 - [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - 国际化/本地化/翻译 (i18n/l10n/t9n) 库，带有 Fresh 包装器并支持复数和动态替换.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - 用于生成、解决、分析和显示迷宫的 Javascript 模块.
@@ -213,8 +213,9 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - 更好的 Deno 框架来创建 Web 应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - 具有许多装饰器的 Deno Web 框架.
-- [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
+- [attain](https://github.com/aaronwlee/Attain)  - Deno 的中间件 Web 框架，它使用受 express 和 Oak 启发的 http 标准库. 快速稳定，适当的内存使用.
 - [aqua](https://github.com/l2ig/aqua) - Deno 的最小且快速的 Web 框架.
+- [cheetah](https://github.com/azurystudio/cheetah) - 现代网络的超快框架.
 - [danet](https://github.com/Savory/Danet) - 深受 Deno 启发的 Savory Web 框架 [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express 移植到 Deno.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra 类似 deno 的轻量级 Web 应用程序框架.
@@ -328,7 +329,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ## Integrations
 
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
-- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流.
+- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流程.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions 是服务器端的 TypeScript 函数，分布在全球边缘.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端呈现的 Astro 站点部署到 Deno Deploy.
 

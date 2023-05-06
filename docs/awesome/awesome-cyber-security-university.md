@@ -102,6 +102,7 @@ Cyber​​ Security University 是一个精选的免费教育资源列表，专
 * [Ice](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/ice>) - 部署并入侵 Windows 机器，利用安全性极差的媒体服务器.
 * [Lazy Admin](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/lazyadmin>) - 简单的 linux 机器来练习你的技能.
 * [Basic Pentesting](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/basicpentestingjt>) - 这是一台允许您练习网络应用程序黑客攻击和权限升级的机器.
+* [Bypassing UAC](https://tryhackme.com/room/bypassinguac) - 了解绕过 Windows 主机中的用户帐户控制 (UAC) 的常用方法.
 
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->

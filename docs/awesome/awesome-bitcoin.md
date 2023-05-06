@@ -51,8 +51,10 @@
 * [Electrum](https://electrum.org/)
 
 ## Blockchain Explorers
+* [3xpl.com](https://3xpl.com/bitcoin) - 最快的无广告通用区块浏览器.
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
+* [Blockchair.com](https://blockchair.com/bitcoin) - 通用区块链浏览器和搜索引擎.
 * [Blockstream.info](https://blockstream.info) - 带 API 的区块链浏览器（主网、测试网和 Liquid）.
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
@@ -92,7 +94,7 @@
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) - 使用 OP_RETURN 在比特币交易中存储/检索信息的简单库.
-* [pybitcointools](https://github.com/vbuterin/pybitcointools)  - 来自 Vitalik Buterin 的比特币签名和交易的 Python 库. 项目中止.
+* [pybitcointools](https://github.com/vbuterin/pybitcointools)  - 来自 Vitalik Buterin 的比特币签名和交易的 Python 库. 项目停止.
 * [pycoin](https://github.com/richardkiss/pycoin)  - 用于比特币密钥、签名、交易的 Python 库. 包括用于操作密钥 (ku) 和事务 (tx) 的完整 VM 实现和工具.
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  - 用于构建和分析事务和脚本（标准和自定义）的 Python 库. 附带一个 UTXO 集分析工具. 包括几个示例和详尽的文档.
 * [oogway](https://github.com/merwane/oogway) - 用于 Python 的安全比特币实用程序库.

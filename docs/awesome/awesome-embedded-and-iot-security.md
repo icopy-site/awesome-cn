@@ -69,7 +69,7 @@
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - 检测 UART 和 JTAG 等硬件调试端口并与之交互.
 - [Shikra](https://int3.cc/products/the-shikra)  - 检测 UART 和 JTAG 等硬件调试端口并与之交互. 在其他协议中.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) - 快速检测 JTAG 引出线.
-- [Saleae](https://www.saleae.com/) - 易于使用的支持多种协议的逻辑分析仪 :euro:.
+- [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols :euro:.
 - [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) - Saleae 逻辑分析仪的替代品 :euro:.
 - [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) - 类似于 BusPirate 但具有 NFC 功能的开源多工具硬件.
 - [ChipWhisperer](https://newae.com/chipwhisperer/) - 检测 Glitch/Side-channel 攻击.
@@ -204,9 +204,13 @@
 - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) - 关于如何在 PCB 上发现调试焊盘的详细教程.
 - [UART explained](https://www.mikroe.com/blog/uart-serial-communication) - 对 UART 协议的深入解释.
 
+### YouTube Channels
+- [Flashback Team](https://www.youtube.com/c/FlashbackTeam) - 两位黑客解释了他们逐步发现和利用嵌入式设备漏洞的方法.
+- [StackSmashing](https://www.youtube.com/c/stacksmashing) - 嵌入式设备的逆向工程和硬件黑客攻击.
+
 ## Conferences
 
-Conferences focused on embedded and/or IoT security.
+专注于嵌入式和/或物联网安全的会议.
 
 - [Hardwear.io](https://hardwear.io/) 
  	- 欧盟，海牙，9 月.
