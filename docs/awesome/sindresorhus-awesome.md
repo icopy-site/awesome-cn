@@ -385,7 +385,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -428,7 +428,7 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java 网络应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础设施的工具.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python 网络应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python 网络应用程序框架.
@@ -545,7 +545,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - 游戏引擎.
 
@@ -710,7 +710,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - 审查代码.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - 专注于结合计算、设计、艺术和用户体验的企业和团体.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - 简历写作指南和雇佣实习生的公司.
 
@@ -883,7 +883,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人分为风险类别的方法.
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 让以植物为基础的生活方式变得简单易行.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - 将文本的含义从一种语言转移到另一种语言.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - 用于 JavaScript 自动化的 iOS 应用程序.
@@ -891,6 +891,7 @@
 - [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - 几何问题的计算方法.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - 许多应用程序和设备使用的开放数据映射项目.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - 应用于生物学问题的计算方法.
+- [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - 示例文档项目，以激发和帮助引导新的文档项目.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - 基于Pandoc构建的科技开源出版系统.
 
 ## Related

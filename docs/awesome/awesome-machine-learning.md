@@ -38,7 +38,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 
 <a name="apl-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
-* [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL. **[Deprecated]**
+* [naive-apl](https://github.com/mattcunningham/naive-apl)  - APL 中的朴素贝叶斯分类器实现.  **[弃用]**
 
 <a name="c"></a>
 ## C
@@ -171,7 +171,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - 建立在 Weka 和朋友之上的 Clojure 机器学习库.
 * [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - XGBoost 的包装器
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B 测试库.
-* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 基因编程系统.
+* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 遗传编程系统.
 * [lambda-ml](https://github.com/cloudkj/lambda-ml) - Clojure 中机器学习技术和实用程序的简单、简洁的实现.
 * [Infer](https://github.com/aria42/infer)  - Clojure 中的推理和机器学习.  **[弃用]**
 * [Encog](https://github.com/jimpil/enclog)  - Encog (v3) 的 Clojure 包装器（专门研究神经网络的机器学习框架）.  **[弃用]**
@@ -186,7 +186,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [Deep Diamond](https://github.com/uncomplicate/deep-diamond) - 一个快速的 Clojure 张量和深度学习库
 * [jutsu.ai](https://github.com/hswick/jutsu.ai) - 用于 deeplearning4j 的 Clojure 包装器，添加了一些语法糖.
 * [cortex](https://github.com/originrose/cortex) - Clojure 中的神经网络、回归和特征学习.
-* [Flare](https://github.com/aria42/flare) - Clojure 中的动态张量图库（想想 PyTorch、DynNet 等）
+* [Flare](https://github.com/aria42/flare) - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)
 * [dl4clj](https://github.com/yetanalytics/dl4clj) - Deeplearning4j 的 Clojure 包装器.
 
 <a name="clojure-data-analysis--data-visualization"></a>
@@ -194,7 +194,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - 用于数据处理和机器学习的 Clojure 数据框架库和管道
 * [Tablecloth](https://github.com/scicloj/tablecloth) - 数据框语法包装 tech.ml.dataset，灵感来自几个 R 库
 * [Panthera](https://github.com/alanmarazzi/panthera) - Clojure API wrapping Python's Pandas library
-* [Incanter](http://incanter.org/) - Incanter 是一个基于 Clojure 的类 R 平台，用于统计计算和图形.
+* [Incanter](http://incanter.org/) - Incanter is a Clojure-based, R-like platform for statistical computing and graphics.
 * [PigPen](https://github.com/Netflix/PigPen) - Clojure 的 Map-Reduce.
 * [Geni](https://github.com/zero-one-group/geni) - 在 Apache Spark 上运行的 Clojure 数据框架库
 
@@ -204,7 +204,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [Saite](https://github.com/jsa-aerial/saite) - Clojure(Script) 客户端/服务器应用程序，用于动态交互探索和使用 Vega/Vega-Lite、CodeMirror、markdown 和 LaTeX 创建实时共享文档捕获它们
 * [Oz](https://github.com/metasoarous/oz) - 使用 Vega/Vega-Lite 和 Hiccup 的数据可视化，以及用于文学编程的实时重载平台
 * [Envision](https://github.com/clojurewerkz/envision) - 基于 Statistiker 和 D3 的 Clojure 数据可视化库.
-* [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) - A Clojure/Clojurescript notebook application/-library based on Gorilla-REPL
+* [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) - 基于 Gorilla-REPL 的 Clojure/Clojurescript 笔记本应用程序/-库
 * [clojupyter](https://github.com/clojupyter/clojupyter) - Clojure 的 Jupyter 内核 - 在 Jupyter Lab、Notebook 和 Console 中运行 Clojure 代码.
 * [notespace](https://github.com/scicloj/notespace) - Clojure 命名空间中的笔记本体验
 * [Delight](https://github.com/datamechanics/delight) - 一个流式传输您的 spark 事件日志的侦听器，一个免费且改进的 spark UI
@@ -327,7 +327,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) - Go 的线性代数包.
 * [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) - 优化算法的实现.
 * [gonum/plot](https://godoc.org/gonum.org/v1/plot) - 绘图库.
-* [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - 一个统计图书馆.
+* [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) - 一个统计库.
 * [SVGo](https://github.com/ajstarks/svgo) - 用于生成 SVG 的 Go 语言库.
 * [glot](https://github.com/arafatk/glot) - Glot 是一个基于 gnuplot 的 Golang 绘图库.
 * [globe](https://github.com/mmcloughlin/globe) - 全球线框可视化.
@@ -571,7 +571,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [ManifoldLearning](https://github.com/wildart/ManifoldLearning.jl) - 用于流形学习和非线性降维的 Julia 包.
 * [MXNet](https://github.com/apache/incubator-mxnet)  - 轻量级、便携、灵活的分布式/移动深度学习，具有动态、变异感知数据流 Dep 调度程序； 适用于 Python、R、Julia、Go、JavaScript 等.
 * [Merlin](https://github.com/hshindo/Merlin.jl) - Julia 中灵活的深度学习框架.
-* [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - 评估概率二元分类器的接收器操作特性和函数.
+* [ROCAnalysis](https://github.com/davidavdav/ROCAnalysis.jl) - 评估概率二元分类器的接收器操作特性和功能.
 * [GaussianMixtures](https://github.com/davidavdav/GaussianMixtures.jl) - 大规模高斯混合模型.
 * [ScikitLearn](https://github.com/cstjean/ScikitLearn.jl) - scikit-learn API 的 Julia 实现.
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç 大学深度学习框架.
@@ -1104,7 +1104,7 @@ be
 * [Eurybia](https://github.com/MAIF/eurybia)：Eurybia 监控数据和模型随时间的漂移，并通过数据验证确保模型部署安全.
 * [Colossal-AI](https://github.com/hpcaitech/ColossalAI): 一个开源的深度学习系统，用于高效低成本的大规模模型训练和推理.
 * [dirty_cat](https://github.com/dirty-cat/dirty_cat)  - 促进机器学习肮脏的、非策划的类别. 它提供了对词法变体（例如打字错误）具有鲁棒性的转换器和编码器.
-* [Upgini](https://github.com/upgini/upgini)：用于机器学习的免费自动化数据和功能丰富库 - 自动搜索来自公共和社区共享数据源的数千个即用型功能，并仅使用提高准确性的功能来丰富您的训练数据集.
+* [Upgini](https://github.com/upgini/upgini)：用于机器学习的免费自动化数据和功能丰富库 - 自动搜索来自公共和社区共享数据源的数千个现成功能，并仅使用提高准确性的功能来丰富您的训练数据集.
 * [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)：帮助机器学习研究人员自动获得优化机器学习模型的教程，该模型在任何特定任务上具有最佳学习性能.
 * [SKBEL](https://github.com/robinthibaut/skbel): 用于贝叶斯证据学习 (BEL) 的 Python 库，用于估计预测的不确定性.
 * [NannyML](https://bit.ly/nannyml-github-machinelearning) : Python 库能够完全捕获数据漂移对性能的影响. 允许在不访问目标的情况下评估部署后模型的性能.
@@ -1263,7 +1263,7 @@ be
 #### Federated Learning
 * [Flower](https://flower.dev/)  - 联合学习、分析和评估的统一方法. 联合任何工作负载、任何 ML 框架和任何编程语言.
 * [PySyft](https://github.com/OpenMined/PySyft) - 用于安全和私有深度学习的 Python 库.
-* [Tensorflow-Federated](https://www.tensorflow.org/federated) 用于机器学习和其他分散数据计算的联合学习框架.
+* [Tensorflow-Federated](https://www.tensorflow.org/federated) 用于机器学习和其他分散数据计算的联邦学习框架.
 
 <a name="python-kaggle-competition-source-code"></a>
 #### Kaggle Competition Source Code
@@ -1398,7 +1398,7 @@ be
 * [forecastHybrid](https://cran.r-project.org/web/packages/forecastHybrid/index.html) - forecastHybrid：来自“预测”包的 ARIMA、ETS、STLM、TBATS 和神经网络模型的自动集成和交叉验证.
 * [fpc](https://cran.r-project.org/web/packages/fpc/index.html) - fpc：灵活的集群程序.
 * [frbs](https://cran.r-project.org/web/packages/frbs/index.html)  - frbs：用于分类和回归任务的基于模糊规则的系统.  **[弃用]**
-* [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于可能性的增强的广义线性和加性模型.  **[弃用]**
+* [GAMBoost](https://cran.r-project.org/web/packages/GAMBoost/index.html)  - GAMBoost：通过基于可能性的增强的广义线性和加法模型.  **[弃用]**
 * [gamboostLSS](https://cran.r-project.org/web/packages/gamboostLSS/index.html) - gamboostLSS：GAMLSS 的增强方法.
 * [gbm](https://cran.r-project.org/web/packages/gbm/index.html) - gbm：广义增强回归模型.
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) - glmnet：Lasso 和 elastic-net 正则化广义线性模型.
@@ -1627,6 +1627,7 @@ be
 * [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) - ML 支持的分析引擎，用于离群值/异常检测和根本原因分析.
 * [MLEM](https://github.com/iterative/mlem) - 按照 GitOps 原则对您的 ML 模型进行版本控制和部署
 * [DockerDL](https://github.com/matifali/dockerdl) - 准备好使用深度学习 docker 图像.
+* [Aqueduct](https://github.com/aqueducthq/aqueduct) - Aqueduct 使您能够在任何云基础设施上轻松定义、运行和管理 AI 和 ML 任务.
 
 <a name="books"></a>
 ## Books

@@ -182,7 +182,7 @@ Wrappers
 * [cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb)  - RethinkDB 客户端.  [外籍人士][14].
 * [cl-mango](https://github.com/cmoore/cl-mango/)  - 极简主义的 CouchDB 2.x 数据库客户端.  BSD_3条款.
   * 也可以看看 [clouchdb](https://common-lisp.net/project/clouchdb/)  - 用于与 CouchDB 交互的库.  [FreeBSD][39].
-* [lmdb](https://github.com/antimer/lmdb) - 绑定到 [LMDB](http://www.lmdb.tech/doc/)，闪电内存映射数据库，一个具有多版本并发控制的 ACID 键值数据库.
+* [lmdb](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/)，闪电内存映射数据库，一个具有多版本并发控制的 ACID 键值数据库.
 * [cl-ndbapi](https://github.com/datagraph/cl-ndbapi) - 绑定到的 C++ NDB API [RonDB](https://www.rondb.com/), “世界上最快的键值存储”, by [Dydra](https://dydra.com/home) .  GPLv2.
 
 迁移工具
@@ -219,7 +219,7 @@ Tools
 无锁、并发、键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [麻省理工][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  - 数据结构和算法的可移植集合（主要是字典和序列，具有一些统计功能）.  [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  - 受 Haskell 的 Data.List 启发的列表操作库.  [LLGPL][8].
-* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便利库
+* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便捷库
 * [bit-smasher](https://github.com/thephoeron/bit-smasher)  - 用于处理位向量、位向量算术和类型转换的 Common Lisp 库.  [麻省理工][200].
 * [cl-containers](https://common-lisp.net/project/cl-containers/) - 一个广泛的数据结构和实用程序库 - 队列、树、堆、双向链表、集合、包……[MIT][200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  - 用于竞争性编程的 Common Lisp 算法集合. 公共领域、CCO 或 MIT.
@@ -561,7 +561,7 @@ Lambda 简写
 另见 CL21 和 [Rutils](https://github.com/vseloved/rutils).
 
 
-Non-deterministic, logic programming
+非确定性、逻辑编程
 ------------------------------------
 
 * [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  - 来自 Common Lisp 的 ISO Prolog 实现的通用接口.  [麻省理工][200].
@@ -772,6 +772,7 @@ HTTP客户端
 * [Dexador](https://github.com/fukamachi/dexador)  - 一个 HTTP 客户端，旨在取代 Drakma.  [麻省理工][200].
 * [Carrier](https://github.com/orthecreedence/carrier)  - 构建在 cl-async 和 fast-http 之上的轻量级异步 HTTP 客户端.  [麻省理工][200].
 * [fast-http](https://github.com/fukamachi/fast-http)  - Common Lisp 的快速 HTTP 请求/响应解析器.  [麻省理工][200].
+* [http2](https://github.com/zellerin/http2/)  - Common Lisp 中的 HTTP/2 实现.  [麻省理工][200].
 
 
 HTTP 服务器
@@ -1126,7 +1127,7 @@ Utils
 
 * [Sento](https://github.com/mdbergmann/cl-gserver)  - Sento（以前的 cl-gserver）是一个“消息传递”库/框架，其参与者类似于 Erlang 或 Akka. 它支持创建应该响应式工作的系统，需要并行计算和基于事件的消息处理.  [Apache2][89].
 * [erlangen](https://github.com/eugeneia/erlangen)  - 用于 Clozure Common Lisp 的分布式异步消息传递系统.  [GNU GPL3][2].
-* [Actors](https://github.com/aarvid/Actors) LispWorks 包 ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
+* [Actors](https://github.com/aarvid/Actors) LispWorks 包 ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [麻省理工][200].
 * [common-lisp-actors](https://github.com/naveensundarg/Common-Lisp-Actors)  - 一个简单易用的Actor系统.  [BSD_2条款][17].
 * [memento-mori](https://github.com/zkat/memento-mori) - 一个用于编写健壮的、基于参与者的系统的库. 它从 Erlang/OTP 以及 Akka 中汲取灵感，尤其是其对高可用性系统的崩溃优先方法.  [麻省理工][200].
 
@@ -1192,7 +1193,7 @@ Readline、ncurses 和其他图形助手
 --------------------------------------------
 
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
-  函数在输入时编辑行，维护列表
+  functions to edit lines as they are typed in, to maintain a list of
   以前输入的命令行，调用并重新编辑它们，
   执行类似 csh 的历史扩展.  Emacs 和 vi 编辑
   模式.  [GPL3][2].
@@ -1251,7 +1252,7 @@ programs, providing support for mixed language debugging.
 
 这包含各种文本编辑器的插件和其他好东西.
 
-* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）都可以使用它.
+* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer 是一种编辑 lisp 代码的方法，有助于保持缩进和括号的平衡. 它很容易上手，但它提供了 la Paredit 的高级功能. 它可用于许多编辑器（Emacs、Vim、Neovim、Atom、Sublime Text、Visual Studio Code、LightTable、CodeMirror 等）.
 
 ## Emacs ##
 
@@ -1295,7 +1296,7 @@ programs, providing support for mixed language debugging.
 
 * [Sublime Text](http://www.sublimetext.com/3) （专有）有
   Common Lisp 支持及其 SublimeREPL 和
-  [Slyblime](https://github.com/s-clerc/slyblime) 包裹. 狡猾的人
+  [Slyblime](https://github.com/s-clerc/slyblime) 包. 狡猾的人
   是 SLY 的一个实现，它使用相同的后端 (SLYNK). 它
   附带高级功能，包括带有堆栈框架的调试器
   检查.
@@ -1449,7 +1450,7 @@ CSV
 
 * ⭐ [local-time](https://common-lisp.net/project/local-time/)  - 用于以半标准方式处理日期和时间信息的开发库.  [3 条款 BSD][15].
 * [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser)  - 自由地解析日期时间字符串. 隐藏日期时间格式之间的差异，并允许将日期和时间作为一种日期时间格式进行管理.  [麻省理工][200].
-* [chronicity](https://github.com/chaitanyagupta/chronicity)  - 一种自然语言日期和时间解析，用于解析诸如“3 days from now”之类的字符串.  [BSD_3条款][15].
+* [chronicity](https://github.com/chaitanyagupta/chronicity)  - 一种自然语言日期和时间解析，用于解析诸如“从现在起 3 天”之类的字符串.  [BSD_3条款][15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
 建立在本地时间之上的持续时间处理库.  [麻省理工][200].
   * 看这个叉子： [humanize-duration](https://github.com/40ants/humanize-duration) ，它只输出持续时间对象的重要部分. 有本地化支持.

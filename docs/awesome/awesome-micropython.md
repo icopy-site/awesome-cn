@@ -29,7 +29,7 @@
 ### AI
 
 * [MicroMLP](https://github.com/jczic/MicroMLP) - 用于 MicroPython 的微神经网络多层感知器（用于 ESP32 和 Pycom 模块）.
-* [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network for MicroPython.
+* [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - MicroPython 的神经网络.
 
 ### Analytics
 
@@ -46,7 +46,7 @@
 
 ### Audio
 
-* [micropython-jq6500](https://github.com/rdagger/micropython-jq6500) - Driver for JQ6500 UART MP3 modules.
+* [micropython-jq6500](https://github.com/rdagger/micropython-jq6500) - JQ6500 UART MP3 模块的驱动程序.
 * [KT403A-MP3](https://github.com/jczic/KT403A-MP3) - DFPlayer Mini 和 Grove MP3 v2.0 使用的 KT403A 驱动程序.
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) - 在蜂鸣器上播放诺基亚 compose 和 mid 文件.
 * [micropython-dfplayer](https://github.com/redoxcode/micropython-dfplayer) - 用于控制 DFPlayer 迷你 MP3 播放器模块的库.
@@ -98,6 +98,7 @@
 
 #### Cryptography
 
+* [ucryptography](https://github.com/dmazzella/ucryptography) - 基于 ARM Mbed TLS 将 pyca/cryptography 轻量级移植到 MicroPython.
 * [mpyaes](https://github.com/iyassou/mpyaes) - 用于 AES 加密的 MicroPython 模块.
 * [micropython-aes](https://github.com/piaca/micropython-aes) - 纯 python 实现的 AES 算法.
 * [ucrypto](https://github.com/dmazzella/ucrypto)  - 用于执行快速 RSA 和椭圆曲线加密的 MicroPython 包，特别是数字签名.  ECDSA API设计灵感来自fastecdsa，实现基于tomsfastmath.
@@ -265,6 +266,7 @@
 * [micropython-mcp7940](https://github.com/mattytrentini/micropython-mcp7940) - Microchip MCP7940 RTC 的驱动程序.
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) - 用于 MicroPython 的 DS1302 RTC 时钟驱动程序.
 * [DS3231micro](https://github.com/notUnique/DS3231micro) - DS3231 的 MicroPython 库.
+* [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) - DS1307 RTC 的 MicroPython 驱动程序.
 
 #### Serial
 
@@ -362,7 +364,7 @@
 
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - 一个面向对象、基于组件的高级 GUI 库，具有 MicroPython 绑定.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - 用于 Pyboard 和 LCD160CR 彩色显示器的基于简单触摸驱动事件的 GUI.
-* [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - 用于基于 RA8875 的显示器的 MicroPython 设备驱动程序和 nano-GUI.
+* [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 * [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个微型的仅显示 GUI，带有一组有限的 GUI 对象（小部件），用于显示器，其显示驱动程序是从 `framebuf` 类子类化的. 带有用于 TFT、电子纸和 OLED 显示器的驱动程序.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) - 源自 nano-gui 并支持相同的显示器和主机，这为用户提供
 通过按钮或导航操纵杆和可选的旋转编码器输入.
@@ -433,8 +435,8 @@
 * [max7219_8digit](https://github.com/pdwerryhouse/max7219_8digit) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
-* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动程序.
-* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动程序.
+* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动器.
+* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动器.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动器.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 用于由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动程序.
@@ -465,7 +467,7 @@
 * [micropython-ssd1327](https://github.com/mcauser/micropython-ssd1327) - SSD1327 128x128 4 位灰度 OLED 显示器的驱动程序.
 * [micropython-ssd1351](https://github.com/rdagger/micropython-ssd1351) - SSD1351 OLED 显示器的驱动程序.
 * [MicroPython_SSD1306](https://github.com/AnthonyKNorman/MicroPython_SSD1306) - 用于 SSD1306 OLED 128x64 显示器的 ESP8266 驱动程序.
-* [Official SSD1306](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) - SSD1306 128x64 OLED 显示器的驱动程序.
+* [Official SSD1306](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/display/ssd1306) - Driver for SSD1306 128x64 OLED displays.
 * [SH1106](https://github.com/robert-hh/SH1106) - SH1106 OLED 显示器的驱动程序.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 单色 OLED 显示驱动程序.
 * [sh1107-micropython](https://github.com/nemart69/sh1107-micropython) - 用于基于 SH1107 的 OLED 显示器 (64x128) 的 MicroPython 驱动程序.
@@ -598,7 +600,7 @@
 
 #### Barometer
 
-* [micropython-bme280](https://github.com/kevbu/micropython-bme280) - Bosch BME280 温度/压力/湿度传感器的驱动程序.
+* [micropython-bme280](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
 * [micropython-bmp180](https://github.com/micropython-IMU/micropython-bmp180) - 博世 BMP180 温度、压力和高度传感器的驱动程序.
 * [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - 博世 BME280 温度/压力/湿度传感器.
 * [BME280](https://github.com/robert-hh/BME280) - BME280 传感器的 MicroPython 驱动程序，目标平台 Pycom 设备.
@@ -819,7 +821,7 @@
 #### Flash
 
 * [micropython_data_to_py](https://github.com/peterhinch/micropython_data_to_py) - 一个 Python 3 实用程序，用于将任意二进制文件转换为 Python 源代码，以便在 Flash 中冻结为字节码.
-* [micropython-winbond](https://github.com/brainelectronics/micropython-winbond) - Interact with Winbond W25Q Flash chips via SPI.
+* [micropython-winbond](https://github.com/brainelectronics/micropython-winbond) - 通过 SPI 与华邦 W25Q 闪存芯片交互.
 
 #### FRAM
 

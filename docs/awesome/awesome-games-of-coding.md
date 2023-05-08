@@ -10,10 +10,10 @@
 
 - [Codingame](https://www.codingame.com/home)  - 一个学习和竞争的平台. 提出各种多人游戏和竞赛以及优化挑战和单人谜题. 你也可以贡献你自己的. 选择您的语言，享受图形. 
 - [CodeCombat](https://codecombat.com)  - 选择您的英雄并编写代码，穿越 Kithgard 地牢的食人魔巡逻队、熔岩坑和激光束. 升级、赚取宝石并掠夺魔法物品以解锁新的编程能力. 加入数百万玩家的行列，在这个开源编程游戏中，从完全的初学者到使用 Python、JavaScript、CoffeeScript 或 Lua 编写高级多人 AI.
-- [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - 玩家使用自己选择的编程语言编写脚本（可选择使用众多新手包中的一种）通过 HTTP 请求控制 16 位英雄，引导他收集金币、与其他玩家战斗，甚至参观酒馆.
+- [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - 玩家用自己选择的编程语言编写脚本（可选择使用众多新手包之一）通过 HTTP 请求控制 16 位英雄，引导他收集金币、与其他玩家战斗，甚至参观酒馆.
 - [RealTimeBattle](http://realtimebattle.sourceforge.net)  - 由程序控制的机器人互相战斗的编程游戏. 目标是消灭敌人，使用雷达检查环境并使用大炮射击. 
-- [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
-
+- [Battlesnake](https://play.battlesnake.com)  - 加入来自世界各地的开发者社区，在 Battlesnake 中争夺名望和荣耀，这是一个基于经典游戏蛇的多人编程竞赛！ 您需要玩的只是一个实时网络服务器，它实现了 Battlesnake API 和您选择的语言，开始战斗寻找食物，避开其他 Battlesnakes，并尽可能长时间地活着.
+- [Coder One](https://www.gocoder.one)  - 年度 AI 编程锦标赛，包括类似“炸弹人”的多人游戏、现金奖励和现场直播. 创建一个可以在 2D 网格世界中导航的 AI 玩家，收集道具并放置炸药，目的是打倒你的对手. 使用我们的 Python 或 TypeScript 入门工具包之一以 Docker 映像的形式提交您的 AI（社区提供的入门工具包也可用于 Go、C++ 和 Rust）.
 
 ## Python
 
@@ -52,12 +52,12 @@
 ## Scala
 
 - [Robocode](https://github.com/d6y/scala-robot-dev)  - 目标是开发一个机器人战斗坦克来与 Java 或 .NET 中的其他坦克作战. 机器人大战在屏幕上实时进行.
-- [Scalatron](http://scalatron.github.io)  - 编码员将机器人程序（用 Scala 编写）相互竞争. 它是面向想要更多地了解 Scala 编程语言或想要磨练 Scala 编程技能的程序员团体或个人的教育资源.
+- [Scalatron](http://scalatron.github.io)  - 编码员将机器人程序（用 Scala 编写）相互竞争. 它是面向想要了解更多有关 Scala 编程语言或想要磨练 Scala 编程技能的程序员团体或个人的教育资源.
 
 
 ## Miscellaneous
 
-- [Generals IO](http://generals.io)  - 一款快节奏的策略游戏，您可以在其中扩展自己的土地并与敌人作战. 当你的将军被俘时你就输了，但俘虏对手的将军可以让你控制他们的整个帝国.
+- [Generals IO](http://generals.io) - A fast-paced strategy game where you expand your land and battle with enemies over theirs. You lose when your general is taken, but capturing an opponent's general gives you control of their entire empire.
 - [Robo Dojo](http://robodojo.club) - 你建造的机器人可以建造、腐蚀和摧毁其他机器人，以试图消灭所有竞争对手.
 - [Corewars](http://www.corewars.org) - 一场战士对战士的游戏，由两个对手编程，并放置在一个虚拟的“环”中战斗至死.
 - [TIS-100](http://www.zachtronics.com/tis-100)  - Zachtronics 的开放式编程游戏，SpaceChem 和 Infinifactory 的创造者，您可以在其中重写损坏的代码段以修复 TIS-100 并解开它的秘密. 这是您从未要求过的汇编语言编程游戏！
@@ -68,7 +68,7 @@
 - [Mudlet](http://www.mudlet.org)  - 允许您玩 MUD（纯文本 MMORPG）的游戏客户端. 您可以在 Mudlet 中编写 Lua 代码来帮助您玩 MUD.
 - [CSS Diner](http://flukeout.github.io)  - CSS 项目排列游戏，教授 CSS 选择器和布局的概念和使用. 您修改 CSS 以在餐桌上排列代表盘子和便当盒的 HTML 元素.
 - [Guido van Robot](http://gvr.sourceforge.net)  - 旨在向初学者介绍编程基础知识的编程语言和免费软件应用程序.  GvR 在 Windows、Macintosh 和 GNU/Linux 上以多种语言运行！ 作为向人们介绍编程基本概念的一种方式，它在课堂和家庭中都很棒.
-- [CSSBattle](https://cssbattle.dev)  - 在线 CSS 代码高尔夫战场. 在这里，来自世界各地的玩家尝试以尽可能小的 CSS 代码在视觉上复制“目标”，并展开激烈角逐以登上排行榜榜首.
+- [CSSBattle](https://cssbattle.dev)  - 在线 CSS 代码高尔夫战场. 在这里，来自世界各地的玩家尝试用尽可能小的 CSS 代码在视觉上复制“目标”，并展开激烈角逐以登上排行榜榜首.
 - [The Command Line Murders](https://github.com/veltman/clmystery) - Terminal City 发生了一起谋杀案，TCPD 需要你的帮助.
 - [SQL Murder Mystery](https://mystery.knightlab.com/) - SQL Murder Mystery 旨在成为学习 S 的自学课程
 QL 概念和命令以及一个有趣的游戏，供经验丰富的 SQL 用户解决有趣的犯罪.

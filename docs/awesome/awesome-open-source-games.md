@@ -82,7 +82,7 @@
 - [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Monster Wants Candy 演示是一款使用 Phaser 2.0.7 创建的简单 HTML5 游戏.
 - [Octocat Jump](https://github.com/ogoshen/game-off-2012) - 驾驶你不断跳跃的 Octocat 并收集星星以获得额外积分.
 - [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) - 在这款快节奏的街机射击游戏中击退成群结队的经典中世纪怪物.
-- [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias.
+- [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - 令人上瘾的游戏，您可以在其中引导小 Pappu 绕过障碍物，同时收集硬币、星星和浆果，并避开被称为 Pakias 的敌人.
 - [Phaser Snake](https://github.com/gamedolphin/JavaScript_snake) - 蛇游戏的 JavaScript 版本，使用 Phaser 引擎创建.
 - [PixelPlatformer](https://github.com/bendangelo/PixelPlatformer) - 简单的平台游戏，展示实体游戏引擎的强大功能.
 - [PolyBranch](https://github.com/gbatha/PolyBranch)  - 简约的 3D 游戏. 一开始躲避树枝似乎很容易，让我们看看当您接近极限速度时您能坚持多久.
@@ -93,7 +93,7 @@
 - [Ski Free](https://github.com/basicallydan/skifree.js) - 控制山坡上的滑雪者，在与时间赛跑或表演特技得分时避开障碍物，具体取决于游戏模式.
 - [Snake](https://github.com/jrgdiz/snake) - 贪吃蛇游戏的简单克隆，使用画布和 JavaScript.
 - [Snake_new](https://github.com/RabiRoshan/snake_game) - 使用网络的经典诺基亚贪吃蛇游戏.
-- [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - Classic shoot'em up space shooter build in HTML5 with multiplayer.
+- [Space-Shooter](https://github.com/Couchfriends/Space-Shooter) - 经典射击太空射击游戏，采用 HTML5 构建，支持多人游戏.
 - [Spashal](https://github.com/MrRar/spashal) - 危险潜伏在太空的每个角落.
 - [Square Off!](https://github.com/ScriptaGames/SquareOff) - 多人 1v1 空气曲棍球风格游戏，放置方块使球偏转.
 - [Space Crusade](https://github.com/Loopeex/space-crusade) - 使用 PhaserJavaScript 框架开发的 HTML5 游戏.
@@ -110,7 +110,7 @@
 
 - [Diablo JavaScript](https://github.com/mitallast/diablo-js) - HTML5 画布和 JavaScript 上的等距最小代码风格游戏.
 - [Roguish](https://github.com/CamHenlin/Roguish) - 用 Ja​​vaScript 创建的 RPG/Rogue-like 游戏.
-- [Room for Change](https://github.com/antionio/game-off-2013)  - 随机生成的动作角色扮演游戏. 你扮演一个胖乎乎的考古学家，他的任务是从传说中的法老金字塔中取回三件神圣的文物.
+- [Room for Change](https://github.com/antionio/game-off-2013)  - 随机生成的动作角色扮演游戏. 你扮演一个胖乎乎的考古学家，他的任务是从传奇法老的金字塔中取回三件神圣的文物.
 
 ### MMORPG
 
@@ -137,7 +137,7 @@
 ### Puzzle
 
 - [2048](https://github.com/gabrielecirulli/2048) - 1024 的克隆，基于 Saming 的 2048.
-- [A Dark Room](https://github.com/hughsk/ludum-dare-27)  - 躲避并射击红色目标，边走边拿炸弹. 尽可能长地生存并尝试获得高分.
+- [A Dark Room](https://github.com/hughsk/ludum-dare-27) - Dodge and shoot the red targets, grabbing the bombs as you go. Survive as long as possible and try to get a high score.
 - [Anagramica](https://github.com/binarymax/anagramica) - 字谜游戏和 API.
 - [Astry](https://github.com/wwwtyro/Astray) - 使用 Three.js 和 Box2dWeb 构建的 WebGL 迷宫游戏.
 - [Beatrix](https://github.com/cxong/Beatrix) - 音乐游戏，您可以在其中安排鼓来捕捉节拍并演奏正确的节奏.
@@ -150,7 +150,7 @@
 - [cube-composer](https://github.com/sharkdp/cube-composer) - 一款受函数式编程启发的益智游戏.
 - [Drunken Viking](https://github.com/cxong/DrunkenViking) - 逆时针追溯你醉酒后的狂暴行为.
 - [Ending](http://robotacid.com/flash/ending) - Roguelike益智游戏.
-- [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_JavaScript_simon_clone) - 使用 Phaser 游戏引擎构建的 JavaScript 著名游戏的完整评论版本.
+- [Follow me! A Simon Clone](https://github.com/gamedolphin/follow_me_JavaScript_simon_clone) - Fully commented version of the famous game in JavaScript, built using Phaser game engine.
 - [For King](https://github.com/AD1337/ForKingGame) - 关于一位国王寻找他丢失的王冠的益智平台游戏.
 - [Genetic Drift](https://github.com/DancingBanana/genetic-drift)  - 维克多，一个烦人的看门人，处理许多烦人的克隆人以及基因复制不可避免地产生的问题. 他会回家喂养他忠实的宠物伙伴吗？
 - [Hex 2048](https://github.com/jeffhou/hex-2048) - 基于 Hexgrid 的 2048 克隆.
@@ -190,7 +190,7 @@
 - [Beast](https://github.com/dominikwilkowski/beast.js)  - 向 Dan Baker、Alan Brown、Mark Hamilton 和 Derrick Shadel 用 node 编写的 1984 年 ASCII 游戏“BEAST”致敬. 您必须在可推动的方块之间压扁 ASCII 小动物，但要注意不要被它们吃掉.
 - [Binb](https://github.com/lpinca/binb) - 竞技、多人、实时、猜歌游戏.
 - [Dental Defender: Saga of the Candy Horde](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam.
-- [Descensus 2](https://github.com/TomWHall/Descensus2) - TypeScript 2D 物理游戏.
+- [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
 - [Hauberk](https://github.com/munificent/hauberk)  - Hauberk 是一款 roguelike，一款基于 ASCII 艺术的程序生成地牢爬行游戏. 它用 Dart 编写并在您的浏览器中运行.
 - [HeartLine](https://github.com/gamebytes/heartline.github.com) - 为 2013 年 Global Game Jam 在 48 小时内制作的游戏.
 - [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 游戏，GitHub Game Off 2 获胜者.
@@ -226,12 +226,16 @@
 - [Wannabe Tempest](https://github.com/awlzac/wbt) - Java 中的 Tempest（80 年代街机游戏）克隆，以及一个用于玩 git 的小项目.
 - [Witch Blast](https://github.com/Cirrus-Minor/witchblast) - Roguelite 地牢爬行射击游戏类似于艾萨克的结合.
 
+### Rhythm
+
+- [osu!](https://github.com/ppy/osu) - 节奏只需*点击*即可！
+
 ### FPS
 
 - [AssaultCube](https://github.com/assaultcube/AC) - 完全转换 Wouter van Oortmerssen 的 FPS，称为 Cube.
 - [Darkest Hour](https://github.com/DarklightGames/DarkestHour) - 基于 Red Orchestra：Ostfront 的第二次世界大战在线多人战术射击游戏.
 - [Freedoom](https://github.com/freedoom/freedoom) - 基于经典 Doom 引擎的免费软件 FPS.
-- [GlPortal](https://github.com/GlPortal/glPortal) - 现代 3D 游戏和引擎，带有用 C++ 编写的门户.
+- [GlPortal](https://github.com/GlPortal/glPortal) - 一个现代 3D 游戏和引擎，带有用 C++ 编写的门户.
 - [Ioquake3](https://github.com/ioquake/ioq3) - 可用于玩 Quake 3 或制作您自己的游戏的免费软件 FPS 引擎.
 - [OpenLara](https://github.com/XProger/OpenLara) - 古墓丽影开源引擎.
 - [Openspades](https://github.com/yvt/openspades) - Ace of Spades 0.75 的兼容客户端.
@@ -273,7 +277,7 @@
 - [Frogatto](https://github.com/frogatto/frogatto) - 动作冒险游戏，主角是一只不切实际的青蛙.
 - [Gish](https://github.com/blinry/gish) - 屡获殊荣的物理平台游戏.
 - [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) - 此 2d 平台游戏基于使用 LÖVE 游戏引擎构建的社区数字遗产规划剧集.
-- [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - 使用 Python 和 Pygame 制作的第一级超级马里奥兄弟.
+- [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) - 用 Python 和 Pygame 制作的第一级超级马里奥兄弟.
 - [HFT Mario Party](https://github.com/amiruqdah/mario-party) - 重新构想原始马里奥兄弟的混音本地多人游戏.
 - [Sky Engine](https://github.com/ilenburg/game-engine) - 使用 OpenGL 制作的自定义引擎 2D 平台游戏.
 - [The Legend of Edgar](https://github.com/riksweeney/edgar) - 具有持久世界的 2D 平台游戏.
@@ -288,7 +292,7 @@
 - [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 - [EbbeFlut](https://github.com/karussell/ebbeflut) - 很久以前以糟糕的方式实现的非常好的棋盘游戏.
 - [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - 用 Ruby 编写的耐心纸牌游戏.
-- [Minilens](https://github.com/KOBUGE-Games/minilens) - 可爱的益智平台游戏，主角是后世界末日地球上的清洁机器人.
+- [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 - [Nudoku](https://github.com/jubalh/nudoku) - 基于 Ncurses 的 CLI 数独游戏.
 - [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - 三消益智游戏.
 - [Tictactoe](https://github.com/cout-hello-world/tictactoe) - 永不失败的图形井字棋 AI.
@@ -322,7 +326,7 @@
 ### Strategy
 
 - [0 A.D.](https://github.com/0ad/0ad) - 类似于帝国时代 II 的 3D RTS.
-- [Caesaria](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
+- [Caesaria](https://github.com/dalerank/caesaria-game) - 重制流行的城市建设者和经济模拟凯撒三世.
 - [Colobot](https://github.com/colobot/colobot) - 带有可编程机器人的实时战略游戏.
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - 主题医院的克隆.
 - [Curse of War](https://github.com/a-nikolaev/curseofwar) - 带有 ncurses 和 SDL 前端的快节奏动作策略游戏.
@@ -437,7 +441,7 @@
 - [Gladiator 3D](https://github.com/krotik/gladiator_3d) - 用于伪 3D 游戏的基于 Canvas 的 JavaScript 光线投射引擎.
 - [Godot](https://github.com/okamstudio/godot)  - 功能齐全、获得麻省理工学院许可的游戏引擎. 它专注于拥有出色的工具和面向视觉的工作流程，可以轻松导出到 PC、移动和 Web 平台. 编辑器、语言和 API 功能丰富，但简单易学，可让您在数小时内提高工作效率.
 - [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - 由 Haxe 和 OpenFL 提供支持的免费跨平台 2D 游戏引擎.
-- [JiGS](https://github.com/Techbot/JiGS-PHP-RPG-engine) - 用 PHP 构建的在线角色扮演游戏和交易游戏引擎.
+- [JiGS](https://github.com/Techbot/JiGS-PHP-RPG-engine) - 以 PHP 构建的在线角色扮演游戏和交易游戏引擎.
 - [JMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - 面向富有冒险精神的 Java 开发人员的尖端跨平台 3D 游戏引擎.
 - [Kiwi.js](https://github.com/gamelab/kiwi.js)  - 基于 HTML5 游戏框架的极其快速的移动和桌面浏览器. 它使用 CocoonJavaScript 发布到 AppStore.
 - [LibGDX](https://github.com/libgdx/libgdx) - 桌面/Android/HTML5/iOS Java 游戏开发框架.
@@ -449,6 +453,7 @@
 - [MonoGame](https://github.com/mono/MonoGame) - 基于 Mono 平台的 XNA 实现（支持 iOS、Android、Linux，并开始在 PS Suite 和 NaCli 上工作）.
 - [Oimo.js](https://github.com/lo-th/Oimo.js) - 用于 JavaScript 的轻量级 3d 物理引擎.
 - [OpenRTS](https://github.com/methusalah/OpenRTS) - 用 Ja​​va 7 编码的实时战略游戏 3D 引擎.
+- [osu-framework](https://github.com/ppy/osu-framework)  - 用 osu! 编写的游戏框架心里.
 - [Oxygine](https://github.com/oxygine/oxygine-framework) - 适用于 iOS、Android、Windows、Linux 和 Mac 上的 2D 游戏的 C++ 引擎和框架.
 - [panda.js](https://github.com/ekelokorpi/panda.js) - 适用于移动和桌面的免费 HTML5 游戏引擎，带有 Canvas 和 WebGL 渲染.
 - [Phaser](https://github.com/photonstorm/phaser) - Phaser 是一个有趣、免费且快速的 2D 游戏框架，用于为桌面和移动网络浏览器制作 HTML5 游戏，支持 Canvas 和 WebGL 渲染.
@@ -467,7 +472,7 @@
 - [Tesseract](https://github.com/lsalzman/tesseract) - 通过使用现代动态渲染技术使映射更有趣，这样您可以获得关于光照变化的即时反馈，而不仅仅是几何体.
 - [Three.js](https://github.com/mrdoob/three.js) - 许多浏览器游戏中使用的 JavaScript 3D 库.
 - [Tiled](https://github.com/bjorn/tiled)  - Tiled 是一个通用的瓷砖地图编辑器. 它旨在用于编辑任何基于图块的游戏的地图，无论是角色扮演游戏、平台游戏还是 Breakout 克隆游戏.
-- [Torque 2D](https://github.com/TorqueGameEngines/Torque2D) - GarageGames 的 Torque 2D 许可版本.
+- [Torque 2D](https://github.com/TorqueGameEngines/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 - [Torque 3D](https://github.com/GarageGames/Torque3D) - 来自 GarageGames 的麻省理工学院许可版 Torque 3D.
 - [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - 在 JavaScript 和 TypeScript 中可用的 HTML5 游戏引擎和服务器端 API，用于构建和分发 2D 和 3D 游戏.
 - [Urho3D](https://github.com/urho3d/Urho3D)  - Urho3D 是一款免费的轻量级跨平台 2D 和 3D 游戏引擎，使用 C++ 实现并在 MIT 许可下发布. 深受 OGRE 和 Horde3D 的启发.
@@ -488,13 +493,13 @@
 - [Leaderboard(Java)](https://github.com/agoragames/java-leaderboard) - 由 Redis（Java 语言）支持的排行榜.
 - [Leaderboard(PHP)](https://github.com/agoragames/php-leaderboard) - 由 Redis（PHP）支持的排行榜.
 - [Leaderboard(Python)](https://github.com/agoragames/python-leaderboard) - 由 Redis 支持的排行榜（在 Python 中）.
-- [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
+- [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) - 由 Redis（在 Ruby 中）支持的排行榜.
 - [Leaderboard(Scala)](https://github.com/agoragames/scala-leaderboard) - 由 Redis（在 Scala 中）支持的排行榜.
 - [libfreenect](https://github.com/OpenKinect/libfreenect) - 适用于 Windows、Linux 和 macOS 上的 Xbox Kinect 设备的驱动程序和库.
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 将游戏模拟作为一等公民引入 macOS 的项目.
 - [Mudlet](https://github.com/Mudlet/Mudlet) - 一个跨平台、开源、超快的 MUD（纯文本 MMORPG）客户端，在 Lua 中编写脚本.
 - [Stats.js](https://github.com/mrdoob/stats.js) - JavaScript 性能监视器.
-- [Tassadar](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
+- [Tassadar](https://github.com/agoragames/tassadar) - 用纯 Ruby 编写的星际争霸 2 重播解析器.
 - [World of Warcraft Addons](https://github.com/TekNoLogic) - 各种用 Lua 编写的魔兽世界插件.
 - [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) - 作为魔兽世界社区站点的一部分提供的 RESTful Web 服务的公共文档.
 
