@@ -68,6 +68,8 @@ __一个精选的很棒的资源列表来选择你的下一个配色方案.__
 - [Croma](https://croma.app) - 从图像和颜色生成调色板
 - [Hexcolorpedia](https://hexcolorpedia.com/) - 十六进制颜色信息、颜色转换、阴影、色调、色调、Pantone 匹配、颜色混合和巨大的调色板集合.
 - [Atmos](https://atmos.style/) - 创建调色板所需的一切.
+- [AI Color Palette Generator](https://www.loopple.com/color-palette-generator) - 毫不费力地创建令人惊叹的配色方案
+使用 AI 驱动的调色板生成器.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - 具有快速预览功能的调色板.

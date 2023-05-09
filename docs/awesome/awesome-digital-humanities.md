@@ -34,7 +34,7 @@
 - [Breve](http://hdlab.stanford.edu/breve/) - 可视化和编辑表格数据.
 - [Data Pen](http://hdlab.stanford.edu/data-pen/) - 人文研究人员访问、探索和操作多维历史数据的框架.
 - [DocFetcher](http://docfetcher.sourceforge.net/) - 开源桌面搜索应用程序.
-- [Leipzig Corpus Miner (LCM)](https://ilcm.informatik.uni-leipzig.de/)  - LCM 项目旨在开发一个集成的研究环境，用于在“软件即服务”架构 (SaaS) 中分析结构化和非结构化数据. 研究环境解决了使用文本挖掘方法对大量文本数据（例如 300 万篇新闻文章）进行定量评估的要求，以及社会科学和数字人文中数据驱动研究设计的可重复性要求.
+- [Leipzig Corpus Miner (LCM)](https://ilcm.informatik.uni-leipzig.de/) - The LCM project pursues the development of an integrated research environment for the analysis of structured and unstructured data in a 'Software as a Service' architecture (SaaS). The research environment addresses requirements for the quantitative evaluation of large amounts of text data (e.g. 3 million news articles) using text mining methods and requirements for the reproducibility of data-driven research designs in the social sciences and the digital humanities.
 - [Lexos](http://lexos.wheatoncollege.edu) - 在线文本分析工具.
 - [Open Semantic Search](https://www.opensemanticsearch.org/) - 适用于您自己的搜索引擎的免费软件、用于发现大型文档集合的资源管理器、媒体监控、文本分析、文档分析和文本挖掘平台，基于 Apache Solr 或 Elasticsearch 开源企业搜索和关联数据开放标准、语义网&amp; 链接开放数据集成.
 - [TinEye](https://tineye.com/) - 按图像或图像部分搜索并查找该图像在线出现的位置.
@@ -90,7 +90,7 @@
 - [DARIAH](https://www.dariah.eu/)  - 艺术与人文学科数字研究基础设施 (DARIAH) 旨在加强和支持跨艺术与人文学科的数字化研究与教学.  DARIAH 是一个由来自其成员国的人员、专业知识、信息、知识、内容、方法、工具和技术组成的网络. 它开发、维护和运营支持基于 ICT 的研究实践的基础设施，并支持研究人员使用它们来构建、分析和解释数字资源.
 - [DHCH](https://dh-ch.ch/) - 瑞士数字人文学科的跨学科研究.
 - [Digital Humanities Now](http://digitalhumanitiesnow.org/) - Digital Humanities Now 是一份经过编辑的实验性出版物，重点介绍和分发来自开放网络的非正式出版的数字人文奖学金和资源.
-- [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu/) - The EHRI Portal enables online access to information about Holocaust sources, no matter where they are located. It also promotes innovative tools that advance the digital transformation of Holocaust research.
+- [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu/)  - EHRI 门户允许在线访问有关大屠杀来源的信息，无论它们位于何处. 它还推广推动大屠杀研究数字化转型的创新工具.
 - [European Research Infrastructure for Heritage Science (E-RIHS)](http://www.e-rihs.eu/) - 它支持遗产解释、保护、文献和管理方面的研究.
 - [GO::DH](http://www.globaloutlookdh.org/) - Global Outlook::Digital Humanities (GO::DH) 的目的是帮助打破阻碍高、中、低收入数字艺术、人文和文化遗产部门的研究人员和学生之间交流与合作的障碍经济体.
 
@@ -114,7 +114,7 @@
 ## Platforms
 
 - [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) - 数字人文学者的松弛渠道.
-- [HSS Digital](https://digital.hssonline.org/) - Digital scholarship in the history of science initiative.
+- [HSS Digital](https://digital.hssonline.org/) - 科学史倡议中的数字奖学金.
 - [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/digital-history) - 美国历史协会的新闻杂志.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) - 协作数字历史.
 - [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) - 数字历史是使用数字媒体进一步进行历史分析、展示和研究.
@@ -153,6 +153,7 @@
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - 使用 Python 编程语言进行数据密集型人文科学研究的实用指南.
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - 使用 Python 分析文化文物.
 - [Introduction to Digital Humanities (DH101)](http://dh101.humanities.ucla.edu/) - 收集基于*数字人文概论（DH101）*课程的资源/在线课本，网址为 [UCLA](http://www.ucla.edu/).
+- [Jupyter Notebooks for Digital Humanities](https://github.com/quinnanya/dh-jupyter/blob/master/README.md) - 范围广泛的 Jupyter 笔记本，包括研究材料、课程内容、Python 教程和特定分析工具.
 - [Missing Semester](https://missing.csail.mit.edu/) - 课堂上没有教授的有用工具.
 - [New Languages for NLP](https://new-languages-for-nlp.github.io/course-materials/intro.html) - 了解如何使用尖端的自然语言处理 (NLP) 工具注释语言数据和训练统计语言模型.
 - [PARTHENOS Training](https://training.parthenos-project.eu/)  - PARTHENOS 人文研究基础设施项目集群为那些想要更多地了解数字人文研究基础设施的人设计了一系列培训模块和资源. 包含有关研究基础设施、研究数据、研究人员使用的现有数字收藏、本体指南以及网络研讨会目录和培训材料的材料.
@@ -161,7 +162,7 @@
 ## Visualization
 
 - [Bertin.js](https://github.com/neocarto/bertin) - 用于可视化地理空间数据和制作网络专题地图的 JavaScript 库.
-- [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - 使用地理标记数据创建可视化.
+- [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
 - [Gephi](https://gephi.org/) - Gephi 是适用于各种图形和网络的领先可视化和探索软件.
 - [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - 通过 CSV 数据通过 3 个步骤轻松创建专题地图的工具.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - 轻松可视化复杂的历史数据.

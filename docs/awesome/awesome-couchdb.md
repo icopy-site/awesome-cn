@@ -106,7 +106,7 @@
 #### Hosting
 
 - [Cloudant](https://cloudant.com/) - 分布式数据库即服务 (DBaaS).
-- [Smileupps](https://www.smileupps.com/) - CouchDB 托管.
+- [Fly.io](https://fly.io) 用这个 [Guide](https://www.canrau.com/en/fly-couchdb) 举办
 - [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - 在谷歌云平台上托管 CouchDB.
 
 

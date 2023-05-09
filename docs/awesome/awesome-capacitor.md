@@ -31,7 +31,7 @@
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - 提供对本机操作表的访问.
 - [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - 处理高级应用程序状态和事件. 
 - [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - 允许检查应用程序是否可以打开并打开它.
-- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的功能.
+- [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - 提供打开应用内浏览器和订阅浏览器事件的能力.
 - [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - 提供使用相机拍照或从相册中选择现有照片的功能.
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - 启用复制和粘贴到/从系统剪贴板.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - 公开有关设备的内部信息，如型号和操作系统版本，以及用户信息，如唯一 ID.
@@ -60,7 +60,7 @@
 - [App-icon](https://github.com/capacitor-community/app-icon) - 用于更改应用程序图标的电容器社区插件.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - 电容器登录苹果.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - 即使应用程序处于后台，也能接收地理位置更新.
-- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描仪.
+- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - 用于电容器的快速高效的二维码/条形码扫描器.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - 低功耗蓝牙.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - 相机预览.
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - 使用适用于 Android 和 iOS 的原生 Maps API 的插件.
@@ -79,7 +79,7 @@
 - [Intercom](https://github.com/capacitor-community/intercom) - 为 Capacitor 应用启用对讲功能.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - 防止屏幕进入睡眠状态.
 - [Media](https://github.com/capacitor-community/media) - 为 Capacitor 启用一些媒体功能，例如创建相册、保存视频、gif 等.
-- 微软
+- Microsoft
     - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - 应用中心 SDK.
     - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter 分析.
     - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter 崩溃.
@@ -92,17 +92,18 @@
 - [Screen brightness](https://github.com/capacitor-community/screen-brightness) - 控制 iOS 和安卓的屏幕亮度.
 - [Speech recognition](https://github.com/capacitor-community/speech-recognition) - 用于语音识别的本机插件.
 - [Sqlite](https://github.com/capacitor-community/sqlite) - 本机和电子 SQLite 数据库.
-- [Stripe](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
+- [Stripe](https://github.com/capacitor-community/stripe) - 用于电容器应用程序的条纹 SDK 绑定.
 - [Tauri](https://github.com/capacitor-community/tauri) - 支持 Tauri 平台.
 - [Text to speech](https://github.com/capacitor-community/text-to-speech) - 从文本合成语音.
 - [Twitter](https://github.com/capacitor-community/twitter) - 为 Capacitor 启用 TwitterKit 功能.
 - [Uxcam](https://github.com/capacitor-community/uxcam)  - UXCam 和 FullStory 分析. 它在 Android 和 iOS 平台上使用 UXCam，在 Web/PWA 上使用 FullStory.
+- [Websocket](https://github.com/mia-z/capacitor-websocket) - 为每个平台提供本机 Websocket 实现的插件.
 
 ## [Capgo plugins](https://capgo.app/)
 拥有的插件 [Capgo organisation](https://github.com/Cap-go) 并由维护 [@riderx](https://github.com/riderx) 和 Open collective 的社区成员.
 
-- [OTA Updater](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的无线更新.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+- [Live Update](https://github.com/Cap-go/capacitor-updater) - 电容器应用程序的实时更新.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - 适用于您的应用程序的 Crisp 聊天 SDK.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - 切换设备的手电筒/手电筒.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - 检测静音模式和静音音频.
 - [Native audio](https://github.com/Cap-go/native-audio) - 用于本机音频引擎（叉）的电容器插件.
@@ -135,7 +136,7 @@
 拥有的插件 [Transistor Software plugins](https://github.com/transistorsoft) 并由维护 [@christocracy](https://github.com/christocracy).
 
 - [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - 最复杂的后台位置跟踪和地理围栏模块，具有适用于 iOS 和 Android 的电池感知运动检测智能.
-- [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) - IOS 和 Android 后台定期回调.
+- [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) - IOS 和 Android 的后台定期回调.
 - [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - 用于电容器背景地理定位的 Firebase 适配器.
 
 ## Other plugins
@@ -185,7 +186,7 @@
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - 在获得用户许可的情况下阅读用户的短信.
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - 截取当前视图的屏幕截图.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - 当另一个应用程序通过 Android 共享菜单或共享表向您的 Capacitor 应用程序发送数据时，在您的 JavaScript 应用程序中公开一个侦听器.
-- [Sentry](https://github.com/getsentry/sentry-capacitor) - 为 Capacitor 应用程序添加 Sentry 错误跟踪和性能监控.
+- [Sentry](https://github.com/getsentry/sentry-capacitor) - 为 Capacitor 应用程序添加哨兵错误跟踪和性能监控.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - 电容器的条纹终端插件.
 - [Sprig](https://github.com/crabbydavis/sprig) - 一体化产品研究平台.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - 为电容器启用平方支付.
@@ -263,7 +264,7 @@
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - 只需几个简单的步骤即可从 Microsoft App Center 迁移到 Capgo.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - 在您的应用程序中设置 Capacitor-updater，以便为您的用户无缝发布更新.
 - [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - 免费使用 GitHub 操作创建您自己的 CI/CD 管道，以便在每次推送到主应用程序时部署您的应用程序.
-
+- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
 
 ### Books
 
@@ -286,11 +287,18 @@
 
 讨论电容器的地方
 
-- [Discord](https://discord.com/invite/UPYYRhtyzp) - 官方 Discord 社区.
+- [Discord](https://discord.com/invite/UPYYRhtyzp) - Official Discord community.
 - [Forum](https://forum.ionicframework.com/c/capacitor) - 官方论坛社区.
 - [Reddit](https://www.reddit.com/r/capacitor) - 官方 Reddit 社区.
 - [Stack Overflow](https://stackoverflow.com/tags/capacitor) - 官方 Stack Overflow 社区.
 - [Proposal](https://github.com/capacitor-community/proposals) - 插件和平台请求的官方回购.
+
+## Freelancers
+
+- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - 此列表和 Capgo 实时更新系统的创建者 + 10 个插件.
+- [Christophe Surbier](https://www.malt.fr/profile/christophesurbier) - 自 2009 年起成为移动专家，自 2017 年起成为 Capacitor
+- [Timothee Porcq](https://www.malt.fr/profile/timotheeporcq) - 专家级开发人员 Mobile Ionic/Angular &amp; Capacitor +7 年
+- [Nicolas Izac](https://www.malt.fr/profile/nicolasizac)  - 开发人员 Fullstack |  Vue-Angular-Ionic-Laravel +7 年
 
 ## Contributing
 

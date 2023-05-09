@@ -114,6 +114,7 @@ Coursera
 * [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
 * [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - 加拿大第一所社会创新学校.
 * [Pepperdine's MA in Social Entrepreneurship and Change](https://gsep.pepperdine.edu/masters-social-entrepreneurship-and-change/)
+* [Centre for Social Impact Swinburne](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-social-impact-swinburne/)
 
 
 ## Tools 🔨

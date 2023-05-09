@@ -13,7 +13,7 @@
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java] - 大数据流批处理统一平台.
 - [Apache Ballista](https://github.com/apache/arrow-ballista) [Rust] - 由 Apache Arrow 提供支持的分布式计算平台.
-- [Apache Flink](https://github.com/apache/flink) [Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
+- [Apache Flink](https://github.com/apache/flink) [Java] - 支持状态计算、数据驱动的窗口语义和迭代流处理的高吞吐量、低延迟数据流处理系统.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java] - 来自 Twitter 的实时、分布式、容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala/Java] - 基于 Kafka（消息传递、存储）和 YARN（容错、处理器隔离、安全和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala] - 可以轻松构建可扩展的容错流应用程序.
@@ -31,7 +31,7 @@
 - [s4](https://github.com/apache/incubator-s4) [Java] - 通用、分布式、可伸缩、容错、可插入的平台，允许程序员轻松开发用于处理连续无界数据流的应用程序.
 - [SABER](https://github.com/lsds/Saber) [Java/C] - 基于窗口的混合 CPU/GPU 流处理引擎.
 - [Scramjet Cloud Platform](https://github.com/scramjetorg/transform-hub) [Python/JavaScript/Node.js] - 用于运行用 Python、JavaScript 或 TypeScript 编写的多个数据处理应用程序（序列）的数据处理引擎 
-- [SPQR](https://github.com/ottogroup/SPQR) [Java] - 通过管道处理大量数据流的动态框架.
+- [SPQR](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
 - [tigon](https://github.com/caskdata/tigon) [C++/Java] - 基于 Hadoop 和 HBase 构建的高吞吐量实时流处理框架.
 - [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java] - 使用交互式原型外壳 SOL（Stream Operator Language）进行简单优雅的流处理
 Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计.
@@ -60,7 +60,8 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Swave](https://github.com/sirthias/swave) [Scala] - 用于 Scala 的轻量级 Reactive Streams 基础设施工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python] - 用于构建管道以管理连续数据流的轻量级库； 支持涉及分支、连接、流量控制、反馈、背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - 用于 Java 的完全可嵌入的数据流引擎和流处理 API.
-- [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 python 库. 支持使用模仿复杂事件处理器的 python 生成器构建的同步、反应式数据流，以及延迟评估的非循环图和函数式 currying 流.
+- [Substation](https://github.com/brexhq/substation) [Go] - Substation 是用 Go 编写的云原生数据管道和转换工具包.
+- [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 python 库. 支持使用模拟复杂事件处理器的 python 生成器构建的同步、反应性数据流，以及延迟评估的非循环图和函数式 currying 流.
 - [YoMo](https://github.com/yomorun/yomo)  [Go] - 用于构建低延迟地理分布式系统的开源流式无服务器框架.  YoMo 建立在 [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) 和功能反应式编程接口. 
 - [Mediapipe](https://github.com/google/mediapipe) - 适用于直播和流媒体的跨平台、可定制的 ML 解决方案.
 

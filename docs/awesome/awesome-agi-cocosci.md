@@ -8,7 +8,7 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **人工智能**的**精彩和精选**列表，这是一个新兴的跨学科领域，结合了人工智能和计算认知科学作为多数，单独与概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们通过从人类学习和思考的方式中获得灵感，同时对人类认知有更深层次的理解，从而推动高水平的机器智能. 我们相信，这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，这些都是人类智能的标志.
+ **人工智能**的**精彩和精选**列表，这是一个新兴的跨学科领域，结合了人工智能和计算认知科学作为多数，单独与概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深层次的理解，来推动高水平的机器智能. 我们相信，这种互惠研究是通向我们大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，这些都是人类智能的标志.
 
  ***Awesome AGI &amp; CoCoSci*** 是一个一体化的合集，包括从基础课程和教程到从多角度围绕不同主题的论文和书籍的资源. 初级和高级研究人员，无论是学习、从事 AGI 和 CoCoSci 还是围绕 AGI 和 CoCoSci 工作，都能在这里满足他们的兴趣.
 
@@ -422,7 +422,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -932,7 +932,7 @@
 
 * [Scaling up experimental social, behavioral, and economic science](https://osf.io/wksv8) - ***开放科学基金会预印本***. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scaling+up+experimental+social%2C+behavioral%2C+and+economic+science&btnG=) ]. 关于扩大社会、行为和经济实验的白皮书.
 
-* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
+* [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***大脑与行为科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5) ]. 关于重新思考和解决行为研究中的样本偏差的原始论文，其中大多数受试者来自西方、受过教育、工业化、富裕和民主 (WEIRD) 的社会.
 
 * [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***美国国家科学院院刊***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5) ]. 扩大行为研究的统计和生态基础.
 
@@ -1170,6 +1170,8 @@
 * [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7#Sec1) - ***自然***，2023 年. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)].
 
 * [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
+
+* [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118) - ***美国国家科学院院刊***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15181490380139888639&hl=en&as_sdt=0,5)].
 
 * [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***生物过程和生物系统工程***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095&hl=en&as_sdt=0,5)].
 

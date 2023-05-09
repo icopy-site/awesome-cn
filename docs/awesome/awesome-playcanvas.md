@@ -15,7 +15,7 @@
 
 - [Editor](https://playcanvas.com/) - 基于浏览器的实时协作 WebGL 编辑器.
 - [Engine](https://github.com/playcanvas/engine) - 获得麻省理工学院许可的 PlayCanvas 运行时的完整源代码.
-- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 兼容模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - PlayCanvas 引擎运行时的 Node.js 包.
 - [PCUI](http://playcanvas.github.io/pcui/) - PlayCanvas 工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) - 引擎运行时的 API 参考手册.
@@ -34,6 +34,7 @@
 
 ## Tutorials
 
+- [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - 详细介绍了 2 个 PlayCanvas 可视化应用程序.
 - [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - 创建一个基于物理的保龄球游戏.
 - [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - 在这个 Tutsplus 教程中重新创建小行星.
 - [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/) - PlayCanvas 培训系列.
@@ -47,7 +48,7 @@
 
 ## Extensions and Utilities
 
-- [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - 无标记 AR 运行时.
+- [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - 基于 ARTollkit 构建的基于标记的 AR 解决方案.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - Node.js 的 REST API 包装器.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - 与 p2.js 2D 物理引擎的集成.

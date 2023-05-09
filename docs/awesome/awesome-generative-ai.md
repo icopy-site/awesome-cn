@@ -85,6 +85,7 @@
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - 在由 ChatGPT 提供支持的 Jupyter Notebooks 和 Jupyter Lab 中添加各种帮助函数.
 - [editGPT](https://www.editgpt.app/) - 轻松校对、编辑和跟踪您在 chatGPT 中的内容更改.
 - [Chatbot UI](https://www.chatbotui.com/) - 开源 ChatGPT 用户界面. [Source code](https://github.com/mckaywrigley/chatbot-ui).
+- [Forefront](https://www.forefront.ai/) - 更好的 ChatGPT 体验.
 
 ### Productivity platforms
 
@@ -122,7 +123,7 @@
 
 ## Code
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -166,7 +167,7 @@
 - [Avatar AI](https://avatarai.me/) - 创建您自己的 AI 生成头像.
 - [ClipDrop](https://clipdrop.co/) - 无需照相馆即可创建专业的视觉效果.
 - [Lensa](https://prisma-ai.com/lensa) - 一款一体化图像编辑应用程序，包括使用 Stable Diffusion 生成个性化头像.
-- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作区.
+- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作空间.
 - [ClipDrop](https://clipdrop.co/) - 在没有照相馆的情况下创建专业的视觉效果，由
 
 ### Image libraries

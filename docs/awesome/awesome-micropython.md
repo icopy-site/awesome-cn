@@ -35,7 +35,7 @@
 
 * [uMath](https://github.com/albaEDA/uMath) - 微控制器的计算机代数.
 * [micropython-ulab](https://github.com/v923z/micropython-ulab) - 用于 MicroPython 的类似 NumPy 的快速矢量模块.
-* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - MicroPython 的内联 ARM 汇编器中的快速傅立叶变换.
+* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - MicroPython 的内联 ARM 汇编器中的快速傅里叶变换.
 * [Filters](https://github.com/peterhinch/micropython-filters)  - 使用 ARM Thumb 汇编程序的 FIR 滤波器. 使用在线实用程序，您可以从图表
 滤波器实现所需的频率响应.
 * [ulinalg](https://github.com/jalawson/ulinalg) - 小型矩阵处理模块，带有一些专门用于 MicroPython (Python 3) 的线性代数运算.
@@ -95,6 +95,7 @@
 #### Compression
 
 * [ufastlz](https://github.com/dmazzella/ufastlz) - FastLZ 的 MicroPython 包装器，一个闪电般快速的无损压缩库.
+* [tamp](https://github.com/BrianPugh/tamp) - 低内存、MicroPython 优化、DEFLATE 启发的无损压缩库.
 
 #### Cryptography
 
@@ -107,6 +108,7 @@
 * [microotp](https://github.com/gdassori/microotp) - ESP8266 MicroPython OTP 生成器.
 * [micropython-rsa-signing](https://github.com/artem-smotrakov/micropython-rsa-signing) - 在 MicroPython 上进行 RSA 签名.
 * [micropython-cryptomsg](https://github.com/jacklinquan/micropython-cryptomsg) - 一个 MicroPython 模块，用于使用 AES CBC 模式加密和解密消息.
+* [mprsa](https://github.com/git-n-pissed/mprsa) - A MicroPython module for creating, importing, and exporting RSA keys in DER and PEM formats with PKCS#1, PKCS#8, and X.509/SPKI structures, and signing/verifying and encryption/decryption using blinding and SHA-1 and SHA-256 hashing algorithms.
 
 #### DNS
 
@@ -151,7 +153,7 @@
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - 基于 MicroPython 的脚本，用于扩展您的 Home Assistant 驱动的家庭自动化项目.
 * [micropython-iot](https://github.com/peterhinch/micropython-iot) - 一种使用 ESP8266、ESP32 或 Pyboard D 端点设计物联网应用的方法.
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - 使用 MicroPython 连接到 Google Cloud IoT Core.
-* [SmartUPy](https://github.com/lemariva/SmartUPy) - Controlling "Tuya-type" smart power outlets using MicroPython.
+* [SmartUPy](https://github.com/lemariva/SmartUPy) - 使用 MicroPython 控制“涂鸦式”智能电源插座.
 * [aws-iot-GET-POST-loop](https://github.com/manningt/aws-iot-GET-POST-loop) - 使用 AWS IoT REST API 获取/发布设备状态信息的 MicroPython 代码.
 * [sensor-mqtt-homeassistant](https://github.com/DougWilkinson/sensor-mqtt-homeassistant)  - 基于 ESP8266/ESP32 MicroPython 的传感器平台，适用于 GPIO、DHT、模拟、LED 等. 包括来自 Web 服务器和 MQTT/Home Assistant 集成的 .py 代码的远程更新.
 
@@ -444,7 +446,7 @@
 #### LEDs
 
 * [micropython-morsecode](https://github.com/mampersat/micropython-morsecode) - 闪烁带有摩尔斯编码信息的 LED.
-* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - SeeedStudio 的 Grove 可链接 RGB LED 中使用的 P9813 RGB LED 驱动器.
+* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - SeeedStudio 的 Grove 可链接 RGB LED 中使用的 P9813 RGB LED 驱动程序.
 * [micropython-ws2812-7seg](https://github.com/HubertD/micropython-ws2812-7seg) - 使用 WS2812 RGB LED 的 7 段显示器.
 * [micropython-ws2812](https://github.com/JanBednarik/micropython-ws2812) - WS2812 RGB LED 驱动程序.
 * [Official APA102](https://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) - ESP8266 APA102/DotStar RGB LED 驱动器.
@@ -558,7 +560,7 @@
 
 #### DC Motor
 
-* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动器.
+* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动程序.
 * [MicroPython-L298](https://gitlab.com/olivierlenoir/MicroPython-L298) - 使用 MicroPython 驱动 L298 双 H 桥.
 
 #### Servo
@@ -766,7 +768,7 @@
 * [micropython-tmp1075](https://github.com/mattytrentini/micropython-tmp1075) - TI TMP1075 温度传感器的驱动程序.
 * [micropython-sht11](https://github.com/2black0/micropython-sht11) - Sensirion SHT11 温度和湿度传感器的驱动程序.
 * [micropython-lm75a](https://github.com/mcauser/micropython-lm75a) - NXP LM75A 数字温度传感器的驱动程序.
-* [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - BME680 传感器的 MicroPython 驱动程序.
+* [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
 * [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266) - 这是一个 MicroPython 模块/类，用于测量来自 HTU21D 的数据.
 * [HTU21D](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - HTU21D温湿度传感器异步驱动.
 * [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) - 用于带有 MicroPython 的 ESP8266/ESP32 的 SHT3x (SHT30/31/35) 库.
