@@ -37,7 +37,7 @@
 * [Auth0](https://auth0.com/) - 身份验证和授权即服务.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - 用于企业 SSO 和目录同步的开源 API.
-* [Clerk](https://clerk.com/) - 用于 React、React Native 和 Next.js 的身份验证和用户管理平台.
+* [Clerk](https://clerk.com/) - React、React Native 和 Next.js 的身份验证和用户管理平台.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 的身份验证.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
 * [Hanko](https://www.hanko.io/) - 无密码（WebAuthn API）PSD2、eIDAS 和 GDPR 兼容.
@@ -141,6 +141,7 @@
 ## GEO
 *位置服务.*
 * [Mapbox](https://www.mapbox.com/) - 开发人员的地图和位置产品.
+* [PlaceKit](https://placekit.io/) - 位置搜索 API.
 * [Radar](https://radar.io/) - 地理围栏和地理 API.
 * [SmartyStreets](https://www.smartystreets.com/) - 美国反向地理编码和地址验证 API.
 
@@ -187,6 +188,7 @@
 *消息传递 API - SMS、通知、聊天和 VoIP.*
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息.
 * [Knock](https://knock.app) - 通知即服务.
+* [MagicBell](https://www.magicbell.com/) - 具有 API 和 UI 组件的实时通知系统.
 * [Stream](https://getstream.io/) - 订阅和聊天即服务.
 * [Twilio](https://www.twilio.com/) - SMS、推送通知和 VoIP API.
 * [Vonage](https://www.vonage.com) - 视频、短信、聊天和语音 API.

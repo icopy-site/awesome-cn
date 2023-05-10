@@ -90,7 +90,7 @@
 ### Productivity platforms
 
 - [Mem](https://mem.ai/)  - Mem 是世界上第一个由 AI 驱动的个性化工作空间. 放大您的创造力，使平凡的事情自动化，并自动保持井井有条.
-- [Taskade](https://www.taskade.com/) - Outline tasks, notes, generated structured lists and mind maps with Taskade AI.
+- [Taskade](https://www.taskade.com/) - 使用 Taskade AI 列出任务、笔记、生成的结构化列表和思维导图.
 - [Notion AI](https://www.notion.so/product/ai) - 写出更好、更高效的笔记和文档.
 
 ### Meeting assistants
@@ -123,7 +123,7 @@
 
 ## Code
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -167,12 +167,12 @@
 - [Avatar AI](https://avatarai.me/) - 创建您自己的 AI 生成头像.
 - [ClipDrop](https://clipdrop.co/) - 无需照相馆即可创建专业的视觉效果.
 - [Lensa](https://prisma-ai.com/lensa) - 一款一体化图像编辑应用程序，包括使用 Stable Diffusion 生成个性化头像.
-- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作空间.
+- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作区.
 - [ClipDrop](https://clipdrop.co/) - 在没有照相馆的情况下创建专业的视觉效果，由
 
 ### Image libraries
 
-- [Lexica](https://lexica.art/) - 稳定的扩散搜索引擎.
+- [Lexica](https://lexica.art/) - Stable Diffusion search engine.
 - [Libraire](https://libraire.ai/) - 最大的 AI 生成图像库.
 - [KREA](https://www.krea.ai/)  - 探索数百万 AI 生成的图像并创建提示集合. 具有稳定的扩散世代.
 - [OpenArt](https://openart.ai/) - 搜索超过 1000 万条提示，并通过 Stable Diffusion、DALL·E 2 生成 AI 艺术.
@@ -244,6 +244,7 @@
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式 AI 应用程序.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 提示工程的指南和资源.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成式 AI 和深度学习的分子设计列表.
+- [Open LLMs](https://github.com/eugeneyan/open-llms) - 可用于商业用途的开放 LLM 列表.
 
 ### Lists on ChatGPT
 

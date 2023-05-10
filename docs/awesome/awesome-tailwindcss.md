@@ -102,6 +102,7 @@
 - [Full Bleed Background and Borders](https://github.com/dgknca/tailwindcss-full-bleed) - 提供用于扩展背景和边框的实用程序.
 - [CSS Filter Order](https://github.com/joshdavenport/tailwindcss-filter-order) - 添加 `filter-order` 实用程序，用于更改生成的 CSS 中过滤器的顺序.
 - [TailwindCSS 3D](https://github.com/sambauers/tailwindcss-3d) - 添加 3D `transform` 实用程序和动画.
+- [Claymorphism](https://github.com/dulltackle/tailwindcss-claymorphism) - 添加用于创建粘土形态样式的“粘土”实用程序.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) - 添加“触摸”变体.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) - 添加基于 HTML `lang` 属性的变体，以便仅在某些语言中使用实用程序.
 - [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - 添加用于匹配嵌套边框半径的变体.
@@ -258,7 +259,7 @@
 - [Vechai UI](https://www.vechaiui.com/) - 使用 Tailwind CSS 的内置暗模式的高质量可访问 React 组件.
 - [Flowbite](https://flowbite.com/docs/getting-started/introduction/) - 使用 Tailwind CSS 构建的开源组件库.
 - [a17t](https://a17t.miles.land) - 为扩展 Tailwind CSS 而构建的原子设计工具包.
-- [tails-ui](https://github.com/knipferrc/tails-ui) - 使用 Tailwind CSS 反应 UI 库.
+- [tails-ui](https://github.com/knipferrc/tails-ui) - 使用 Tailwind CSS 的 React UI 库.
 - [tails](https://github.com/thedevdojo/tails) - 使用 Tailwind CSS 手工制作的模板和组件.
 - [Svelte Headless UI](https://github.com/rgossiaux/svelte-headlessui) - Headless UI 的非官方 Svelte 端口.
 - [Xtend UI](https://xtendui.com/) - 具有高级交互和动画的 Tailwind CSS 组件.
@@ -364,7 +365,7 @@
 - [Jekyll Landing Website Starter](https://github.com/abhinavs/cookie) - 使用 Jekyll 和 Tailwind CSS 的生产就绪、SEO 友好、高性能登陆网站样板.
 - [Next JS Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - Next.js 和 Tailwind CSS 的样板.
 - [Vitailse](https://github.com/zynth17/vitailse) - 带有 Vue 3、TypeScript 和 Tailwind CSS 的自以为是的 Vite 入门模板.
-- [Vite-Boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse 模板.
+- [Vite-Boot](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 - [AstroWind](https://github.com/onwidget/astrowind) - 生产就绪且对 SEO 友好的模板，可使用 Astro 和 Tailwind CSS 启动网站.
 - [Angular-Tailwind](https://github.com/luciano-work/angular-tailwind) - 使用 Angular 和 Tailwind CSS 的仪表板入门套件.
 - [Vue-Resume](https://github.com/luciano-work/vue-resume) - 使用 Tailwind CSS 和 Vue 的开发人员简历模板.

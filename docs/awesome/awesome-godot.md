@@ -174,8 +174,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [AutoColliders](https://github.com/graycastle/godot-AutoColliders) - 允许自动生成 Sprites 的碰撞器，并计划在未来扩展以处理 3D 网格 (Godot 3.x).
 - [BoxCam2D](https://github.com/samdaiya/BoxCam2D) - 实现基于网格的 2D 相机移动的最简单方法 (Godot 3.x).
 - [CRT Shader](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - 模拟 CRT 显示器的 Godot 着色器，具有许多着色器参数 (Godot 3.x).
+- [Cyclops Level Builder](https://github.com/blackears/cyclopsLevelBuilder) - 用于快速原型和概念验证的关卡生成器 (Godot 4.x).
 - [Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager) - 一个简单但功能强大的基于文本的分支对话编辑器和运行时（Godot 3.x、4.x）.
-- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
+- [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - 进口 [Effekseer](https://effekseer.github.io/en/) 粒子效果（Godot 3.x）.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架（Godot 2.1、3.2+）.
 - [Fast Fourier Transform (FFT)](https://github.com/tavurth/godot-fft) - GDScript (Godot 4.x) 中的快速傅立叶变换.
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot 单元测试框架（Godot 3.x）.
@@ -185,7 +186,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - 大量教程和技巧，有大有小.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - 用于 2D 和 3D 的大型免费和开源着色器库.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - SQLite 的 GDNative 包装器，使您可以在项目中使用 SQLite 数据库作为数据存储 (Godot 3.2+).
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在 RPG 对话中）（Godot 2.x、3.x）.
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue) (Godot 2.x, 3.x).
 - [gterm](https://github.com/TeddyDD/gterm) - 绘制类似于 \*nix 终端仿真器 (Godot &gt;= 2.1) 的 GUI 控件.
 - [GUT](https://github.com/bitwes/Gut) - 用于在 GDScript (Godot 3.x) 中编写单元测试的实用程序.
 - [HTerrain](https://github.com/Zylann/godot_heightmap_plugin)  - 基于高度图的地形. 支持纹理绘画、着色、孔洞、细节层次和草地 (Godot 3.x).
@@ -193,12 +194,12 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Input Helper](https://github.com/nathanhoad/godot_input_helper) - 用于检测输入设备和重新映射控件的助手（Godot 3.x、4.x）.
 - [obs-websocket-gd](https://github.com/you-win/obs-websocket-gd) - 通过 obs-websocket (Godot 3.x) 从 Godot 控制 Open Broadcaster Software 的脚本和编辑器插件.
 - [Ridiculous Coding](https://github.com/jotson/ridiculous_coding) - 让您在 Godot 中的编码体验提升 1000 倍（Godot 3.x）.
-- [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 在一行代码（Godot 3.x，4.0.alpha）中进行漂亮且可定制的场景转换.
+- [Scene Manager](https://github.com/glass-brick/Scene-Manager) - 在一行代码（Godot 3.x，4.0.alpha）中制作漂亮且可定制的场景转换.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 滚动背景节点 (Godot 2.1,3.x).
 - [SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟 CRT 显示器的简单 Godot 着色器（Godot 2.x、3.x）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 相当可定制的对话系统和编辑器，非常适合故事驱动的游戏 (Godot 3.x).
 - [StoryTeller Engine](https://github.com/HeavenMercy/StoryTeller-Engine) - 对话和交互式小说引擎 (Godot 3.x).
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) (Godot 3.x).
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从导入地图 [Tiled](https://www.mapeditor.org/) （戈多 3.x）.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建具有风格的 tilesets (Godot 3.x).
 
 #### Godot 3.2+
@@ -244,7 +245,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - 编辑器中 UI 的直观设计工作流程.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) - 基于体素的体积照明和雾插件.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) - GDScript 体素插件，用于在引擎和游戏中创建、导入和编辑体素内容.
-- [VPainter](https://github.com/tomankirilov/VPainter) - 3D顶点绘画插件.
+- [VPainter](https://github.com/tomankirilov/VPainter) - 3D vertex painting plugin.
 - [Waterways](https://github.com/Arnklit/WaterGenGodot) - 使用基于贝塞尔曲线的流量和泡沫图生成河流网格的工具.
 - [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise 音频中间件集成.
 - [XSM](https://gitlab.com/atnb/xsm) - 具有并行状态、简单动画、随机状态等的全功能分层状态机.
