@@ -20,7 +20,7 @@
 - [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台，提供全面的 API 管理能力，让您轻松构建、运行和管理 API.
 - [Apigee](https://cloud.google.com/apigee) - 来自 Google 的领先 API 管理解决方案，提供全面的 API 管理功能，可帮助您轻松创建、保护和扩展 API.
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - 适用于所有环境的 API 的混合多云管理平台，使您能够轻松管理 API、保护它们并深入了解它们的性能.
-- [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 来自 Torry Harris 的完整软件包，可帮助您管理 API 并将它们转化为可以推动业务发展的工具.
+- [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward.
 - [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量、开源的API管理解决方案，提供全面的API管理能力，帮助您轻松管理API.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，允许您跨云创建、公开、管理 API 并从中获利.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 全面的服务连接平台，提供丰富的API管理能力，让您轻松管理API、微服务和服务网格.
@@ -29,7 +29,7 @@
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台，提供完善的API管理能力，帮助您对API进行全生命周期管理.
 - [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - 来自 TIBCO 的云原生 API 平台，使您能够在任何地方部署 API 并从任何地方管理它们.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - 强大的 API 管理解决方案，让您轻松连接、构建和控制 API.
-- [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - 来自 Software AG 的综合 API 管理解决方案，提供完整的生命周期 API 管理功能，使您能够在本地和云环境中管理 API.
+- [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - 来自 Software AG 的全面 API 管理解决方案，提供完整的生命周期 API 管理功能，使您能够在本地和云环境中管理 API.
 - [WSO2 API Manager](https://github.com/wso2/product-apim) - 完全开源的API管理平台，提供全面的API管理能力，让您轻松管理API.
 
 <!--lint disable-->
@@ -102,7 +102,7 @@
   - [Prism](https://github.com/stoplightio/prism) - 开源 HTTP 模拟服务器，可以模仿您的 API 行为，就好像您已经构建了它一样.
   - [WireMock](https://github.com/tomakehurst/wiremock) - 模拟您的 API 以进行快速、稳健和全面的测试.
 - 测试工具和框架
-  - [Apache JMeter](https://github.com/apache/jmeter) - 基于 Java 的开源负载测试工具，可用于测试 Web 应用程序、数据库和其他网络服务的性能和可扩展性.
+  - [Apache JMeter](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
   - [Gatling](https://github.com/gatling/gatling) - 一种开源负载测试工具，允许用户以代码形式编写和运行负载测试，提供详细的性能报告以优化系统性能.
   - [Karate](https://github.com/intuit/karate) - 将 API 测试自动化、模拟、性能测试甚至 UI 自动化组合到一个统一框架中的开源工具.
   - [Pyresttest](https://github.com/svanoort/pyresttest) - 用于轻松测试 REST 服务的 Java DSL.
@@ -194,7 +194,7 @@
 - [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/)  - 一个强大的企业数据管理平台，使组织能够超越基本集成并将数据转化为洞察力和行动. 软件工程师可以使用这个平台来管理数据和改善业务成果.
 - [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/)  - 一个强大的平台，可通过与任何 SaaS 或本地应用程序的预构建连接加快上线时间. 软件工程师可以使用这个平台来简化集成流程和操作.
 - [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform)  - 连接各种应用程序和数据环境的综合集成平台. 软件工程师可以使用该平台快速高效地集成数据和应用程序.
-- [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html)  - 一个多合一的集成平台，使软件工程师能够将他们的所有应用程序集成到一个平台中. 该平台简化了集成流程并提高了效率.
+- [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
 - [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration)  - 一个灵活的平台，使软件工程师能够通过 API 主导和事件驱动的集成来集成任何东西. 这个平台使每个人都能集成任何东西，使集成过程更快、更高效.
 - [Workato](https://www.workato.com/) - 用于整个组织的集成和工作流自动化的单一平台，为软件工程师提供了一个强大的平台来简化集成流程和简化操作.
 
@@ -203,7 +203,7 @@
 ### MaaS
  *云消息传递即服务 (MaaS) 是指基于云的消息传递平台，可在分布式应用程序和服务之间实现可靠、安全和可扩展的通信. 这些平台提供各种消息传递模式，例如发布-订阅、请求-回复和流式传输. 它们还提供消息路由、过滤、转换和持久性等功能，并支持各种协议和 API 以与不同系统集成.*
 - [Amazon MQ](https://aws.amazon.com/amazon-mq)  - 支持 Apache ActiveMQ 和 RabbitMQ 的完全托管消息代理服务. 它为您的应用程序提供可靠、安全且可扩展的消息传递基础架构.
-- [Amazon MSK](https://aws.amazon.com/msk) - A fully managed service for Apache Kafka that simplifies the setup, scaling, and management of Kafka clusters. It provides a highly available, durable, and performant messaging service for your data streaming needs.
+- [Amazon MSK](https://aws.amazon.com/msk)  - Apache Kafka 的完全托管服务，可简化 Kafka 集群的设置、扩展和管理. 它为您的数据流需求提供高度可用、持久且高性能的消息传递服务.
 - [Amazon SQS](https://aws.amazon.com/sqs)  - 一种完全托管的消息队列服务，使您能够分离和扩展微服务、分布式系统和无服务器应用程序. 它提供可靠、安全且高度可用的消息存储和传递系统.
 - [Amazon SNS](https://aws.amazon.com/sns)  - 一种完全托管的发布/订阅消息服务，使您能够在分布式系统、微服务和事件驱动的无服务器应用程序之间发送和接收消息. 它提供了一种灵活、可扩展且经济高效的方式来通知订阅者事件和消息.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka)  - 一项完全托管的 Apache Kafka 服务，可为您的应用程序提供高吞吐量、低延迟和高可用性的消息流. 它提供与其他阿里云服务的轻松集成和无缝数据迁移.
@@ -272,10 +272,10 @@
 <!--lint enable-->
 ### RPA
  *机器人流程自动化 (RPA) 解决方案是一种软件工具，可在业务流程中自动执行重复的、基于规则的任务.  RPA 机器人可以准确、快速地执行数据输入、数据提取和数据处理等任务，从而让人类员工腾出时间专注于更复杂的任务.*
-- [Automation Anywhere](https://www.automationanywhere.com/)  - 提供机器人流程自动化 (RPA) 解决方案的智能自动化生态系统. 该解决方案旨在自动化业务流程并提高运营效率，同时减少错误和成本.
+- [Automation Anywhere](https://www.automationanywhere.com/)  - 提供机器人过程自动化 (RPA) 解决方案的智能自动化生态系统. 该解决方案旨在自动化业务流程并提高运营效率，同时减少错误和成本.
 - [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/)  - 为企业提供智能自动化功能的无代码自动化 RPA 平台. 该平台旨在通过自动化重复性数字任务来降低运营成本并提高生产力.
 - [UiPath](https://www.uipath.com/product)  - 一个提供 RPA 解决方案的平台，用于自动执行通常由人执行的重复性数字任务. 该解决方案提供了一个全面的自动化平台，使企业能够实现流程自动化并提高效率.
-- [WorkFusion](https://www.workfusion.com/platform/)  - 为提供 RPA 解决方案的企业提供的自动化平台. 该平台旨在自动执行手动任务、减少错误并提高效率. 它提供了一套全面的工具，用于自动化工作流程和简化操作.
+- [WorkFusion](https://www.workfusion.com/platform/)  - 为提供 RPA 解决方案的企业提供的自动化平台. 该平台旨在自动化手动任务、减少错误并提高效率. 它提供了一套全面的工具，用于自动化工作流程和简化操作.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -298,9 +298,9 @@
 - [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有设计器和可选开发环境的开源 BPMN 引擎，可以更轻松地构建和自动化复杂的业务流程.
 - [Cadence](https://github.com/uber/cadence) - 一个容错的、有状态的代码平台，可以更轻松地构建和管理复杂的、长时间运行的应用程序.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台，可帮助您以灵活且可扩展的方式自动化业务流程和决策.
-- [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在运行和管理微服务架构中的工作流.
+- [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在在微服务架构中运行和管理工作流.
 - [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个库，可以在任何 .NET Core 应用程序中执行工作流，从而更容易在 .NET 环境中自动化业务流程.
-- [Flowable](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
+- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式实现业务流程自动化.
 - [jBPM](https://github.com/kiegroup/jbpm) - 用于构建业务应用程序的工具包，可帮助您自动化业务流程和决策，从而更轻松地管理复杂的工作流程.
 - [StackStorm](https://github.com/StackStorm/st2) - 一个强大的自动化引擎，提供传感器、触发器、规则、工作流和操作，以帮助您自动化和编排复杂的工作流和应用程序.
 
@@ -316,7 +316,7 @@
 - [Channel Purger](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ChannelPurger.html) - 如何防止通道上的“遗留”消息干扰测试或运行系统？
 - [Claim Check](https://www.enterpriseintegrationpatterns.com/patterns/messaging/StoreInLibrary.html) - 我们如何在不牺牲信息内容的情况下减少通过系统发送的消息的数据量？  
 - [Command Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CommandMessage.html) - 如何使用消息传递来调用另一个应用程序中的过程？  
-- [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - How can a messaging client process multiple messages concurrently?
+- [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html) - 消息传递客户端如何同时处理多条消息？
 - [Composed Message Processor](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DistributionAggregate.html) - 在处理由多个元素组成的消息时，如何维护整个消息流，每个元素可能需要不同的处理？  
 - [Content Enricher](https://www.enterpriseintegrationpatterns.com/patterns/messaging/DataEnricher.html) - 如果消息发起者没有可用的所有必需数据项，我们如何与另一个系统通信？  
 - [Content Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/ContentFilter.html) - 当您只对少数数据项感兴趣时，您如何简化对大消息的处理？  
@@ -352,7 +352,7 @@
 - [Messaging Bridge](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingBridge.html) - 如何连接多个消息系统，以便在一个系统上可用的消息在其他系统上也可用？
 - [Messaging Gateway](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingGateway.html) - 如何封装从应用程序的其余部分访问消息系统？
 - [Messaging Mapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingMapper.html) - 如何在域对象和消息传递基础结构之间移动数据，同时保持两者相互独立？
-- [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - How do you process messages that are semantically equivalent, but arrive in a different format?
+- [Normalizer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Normalizer.html) - 如何处理语义相同但格式不同的消息？
 - [Pipes and Filters](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html) - 如何在保持独立性和灵活性的同时对消息进行复杂的处理？  
 - [Point-to-Point Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html) - 呼叫者如何确定只有一个接收者会收到文件或执行呼叫？
 - [Polling Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html) - 当应用程序就绪时，应用程序如何使用消息？  
@@ -390,7 +390,7 @@
     - [Frontend Integration](https://microservice-api-patterns.org/patterns/foundation/FrontendIntegration)  - 与服务器端业务逻辑和数据存储物理分离的客户端终端用户界面如何填充和更新计算结果、数据源搜索的结果集以及有关数据实体的详细信息？ 应用程序前端如何调用后端中的活动或向其上传数据？
     - [Backend Integration](https://microservice-api-patterns.org/patterns/foundation/BackendIntegration) - 独立构建并单独部署的分布式应用程序及其部分如何交换数据并触发相互活动，同时保持系统内部概念完整性而不引入不需要的耦合？
     - [Public API](https://microservice-api-patterns.org/patterns/foundation/PublicAPI) - 如何将 API 提供给组织外部分布在全球、国家和/或区域的无限和/或未知数量的 API 客户端？
-    - [Community API](https://microservice-api-patterns.org/patterns/foundation/CommunityAPI) - How can the visibility of and the access to an API be restricted to a closed user group that does not work for a single organizational unit but for multiple legal entities (such as companies, nonprofit/nongovernment organizations, and governments)?
+    - [Community API](https://microservice-api-patterns.org/patterns/foundation/CommunityAPI) - 如何将 API 的可见性和访问限制为封闭的用户组，该用户组不为单个组织单位工作，而是为多个法律实体（例如公司、非营利/非政府组织和政府）工作？
     - [Solution-Internal API](https://microservice-api-patterns.org/patterns/foundation/SolutionInternalAPI) - 如何将 API 的访问和使用限制在一个应用程序中，例如，同一或另一个逻辑层和/或物理层中的组件？
     - [API Description](https://microservice-api-patterns.org/patterns/foundation/APIDescription)  - 哪些知识应该在 API 提供者和它的客户之间共享？ 应该如何记录这些知识？
 
@@ -421,7 +421,7 @@
         - [Id Element](https://microservice-api-patterns.org/patterns/structure/elementStereotypes/IdElement)  - 如何在设计时和运行时区分 API 元素？ 在应用领域驱动设计时，如何识别发布语言的元素？
         - [Link Element](https://microservice-api-patterns.org/patterns/structure/elementStereotypes/LinkElement) - 如何在请求和响应消息有效负载中引用 API 端点和操作，以便可以远程调用它们？
     - 特殊目的陈述
-        - [API Key](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/APIKey) - API 提供者如何识别和验证客户及其请求？
+        - [API Key](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/APIKey) - How can an API provider identify and authenticate clients and their requests?
         - [Error Report](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/ErrorReport)  - API 提供者如何通知其客户有关通信和处理错误的信息？ 如何使这些信息独立于底层通信技术和平台（例如，表示状态代码的协议级标头）？
         - [Context Representation](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/ContextRepresentation)  - API 消费者和提供者如何在不依赖任何特定远程协议的情况下交换上下文信息？ 如何使请求中的身份信息和质量属性对会话中的相关后续对象可见？
 - 质量
@@ -470,7 +470,7 @@
 
 - 库存集中模式
    - [Policy Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/policy_centralization) - 集中策略以减少重复并提高一致性.
-   - [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - Centralizes processes to improve reusability and maintainability.
+   - [Process Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/process_centralization) - 集中流程以提高可重用性和可维护性.
    - [Rules Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/rules_centralization) - 集中业务规则以减少重复并提高一致性.
    - [Schema Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/schema_centralization) - 集中数据模式以减少重复并提高一致性.
 
@@ -521,7 +521,7 @@
    - [Validation Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/validation_abstraction) - 抽象验证逻辑以提高可重用性和可维护性.
 
 - 遗留封装模式
-   - [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - 提供访问遗留的基于文件的系统的网关.
+   - [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - Provides a gateway to access legacy file-based systems.
    - [Legacy Wrapper](https://patterns.arcitura.com/soa-patterns/design_patterns/legacy_wrapper) - 包装遗留系统以将它们公开为服务.
    - [Multi-Channel Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/multi_channel_endpoint) - 提供多种通信渠道来访问遗留系统.
 
@@ -563,7 +563,7 @@
    - [Data Origin Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/data_origin_authentication) - 验证消息的来源.
    - [Direct Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/direct_authentication) - 直接验证客户端.
 
-- 转换模式
+- Transformation Patterns
    - [Data Format Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_format_transformation) - 转换数据格式以实现互操作性.
    - [Data Model Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_model_transformation) - 转换数据模型以实现互操作性.
    - [Protocol Bridging](https://patterns.arcitura.com/soa-patterns/design_patterns/protocol_bridging) - 不同协议之间的桥梁以实现互操作性.
@@ -579,7 +579,7 @@
 <!--lint disable-->
 <!--lint enable-->
 ## Resources
-*Some useful specifications, standards, articles and documentation.*
+*一些有用的规范、标准、文章和文档.*
 ### API Specification
 - [API Blueprint](https://github.com/apiaryio/api-blueprint) - 一种功能强大的高级语言，用于设计和记录 API，使软件工程师能够轻松协作并创建高效的 API.
 - [AsyncAPI](https://github.com/asyncapi/spec) - 开发事件驱动架构 (EDA) 的重要工具，使工程师能够构建更好的工具生态系统.
@@ -598,64 +598,111 @@
 <!--lint disable-->
 <!--lint enable-->
 ### Certifications
-- API Academy
-  - [API Designer](https://apiacademy.learnupon.com/) - 验证您对 API 设计基础知识和最佳实践的理解.
-  - [API Product Manager](https://apiacademy.co/2020/05/virtual-api-academy-workshop/) - 展示您在将 API 作为产品进行管理方面的熟练程度.
-  - [API Security Architect](https://apiacademy.co/api-certification/) - 验证您在使用现代架构保护 API 方面的专业知识.
-- 布米
-  - [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在管理 Boomi 平台方面的基础知识和技能，重点是平台监控、故障排除和安全性.
-  - [Associate Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人对使用 Boomi 平台构建和部署集成流程的基本理解，包括设计模式、部署和错误处理.
-  - [Associate EDI for X12 Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人使用 Boomi 设计、开发和管理电子数据交换 (EDI) 与 X12 标准集成的熟练程度，涵盖 EDI 文档结构和贸易伙伴管理等基本概念.
-  - [Associate Flow Essentials Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人使用 Boomi Flow 创建和管理业务应用程序的知识，重点是工作流设计、用户界面和数据集成.
-  - [Associate Master Data Hub Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2&ltui__urlRedirect=learning-plan-detail-standard) - 强调候选人对使用 Boomi Master Data Hub 确保数据质量和跨系统一致性的理解，重点是数据建模、治理和同步.
-  - [Development and Application Architecture Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2&ltui__urlRedirect=learning-plan-detail-standard) - 确认个人在 Boomi 平台上设计和实施复杂集成解决方案和应用程序架构方面的专业知识，包括最佳实践和性能优化.
-  - [Professional API Design Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人使用 Boomi 设计、开发和管理 API 的能力，包括 RESTful API 原则、API 安全性和版本控制.
-  - [Professional API Management Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在使用 Boomi 平台管理 API 的整个生命周期方面的专业知识，包括 API 部署、监控和分析.
-  - [Professional Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM&ltui__urlRedirect=learning-plan-detail-standard) - 认可候选人在使用 Boomi 开发、部署和管理集成流程方面的深入知识和技能，重点是高级数据转换和错误处理技术.
-  - [Professional Flow Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2&ltui__urlRedirect=learning-plan-detail-standard) - 展示个人使用 Boomi Flow 设计、开发和管理业务应用程序的高级能力，包括复杂的工作流设计、自定义 UI 组件以及与外部系统的集成.
-  - [Professional Linux Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard) - 确认候选人在 Linux 系统上管理和管理 Boomi 的熟练程度，涵盖系统安装、配置、安全和性能优化等主题.
-  - [Professional Windows Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在 Windows 系统上管理和管理 Boomi 的专业知识，重点是系统安装、配置、安全性和性能优化.
-- IBM
-  - [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - 验证您使用 IBM App Connect V11.0 开发、部署、调整和支持独立于平台的消息流应用程序的中级知识和经验.
-  - [IBM Certified Solution Implementer – API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - 展示您使用 IBM API Connect v10.0.3 开发、发布、配置和管理 API 的中级知识和技能.
-- Gravitee
-  - [Event-native API Management Foundations](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) - 事件原生 API 管理基础.
-  - [Event-native API Management Professional](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) - 专注于一些更高级的 API 管理概念，以及有关如何使用 Gravitee API 管理的基础知识.
-- 香港
-  - [Kong Gateway Certified Associate](https://konghq.com/academy/exam-preparation) - 为开发人员、DevOps 和架构师验证您在 Kong Gateway 上的入门级知识和技能.
-- Mulesoft
-  - [MuleSoft Certified Developer - Level 1](https://training.mulesoft.com/certification/developer-mule4-level1) - 验证您使用 MuleSoft 设计、构建、测试和调试、部署和管理基本 API 和集成的知识和技能.
-  - [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - 验证您在生产就绪的 Mule 应用程序上工作的能力，这些应用程序可以解决和平衡关键的非功能性需求，包括监控、性能、可维护性、可靠性和安全性.
-  - [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - 验证您将功能和非功能需求转化为集成接口和实现的知识和技能.
-  - [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - 验证您的知识和技能，以使用 Anypoint Platform 在整个组织中使用 API 主导的连接后，从单个集成解决方案中引导有效应用程序网络的出现.
-- 甲骨文
-  - [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - 验证您在实施 Oracle BPM Suite 12c 解决方案方面的专业知识.
-  - [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - 验证您对 Oracle Application Integration 的理解以实施这些云服务.
-  - [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - 验证您在销售或实施 Oracle Data Integration 12c 解决方案方面的专业知识.
-  - [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - 验证您在实施基于 Oracle SOA Suite 12c 的解决方案方面的专业知识.
-- 红帽
-  - [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) - 验证使用 Red Hat 3scale API 管理平台创建和维护企业 API 的能力.
-  - [Red Hat Certified Specialist in Business Rules](https://www.redhat.com/en/services/certification/rhcs-business-rules) - 检查使用红帽 JBoss BRMS 执行涉及业务逻辑实施和管理的任务所需的知识、技能和能力.
-  - [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) - 验证基于 Red Hat Fuse、Camel 和 API 创建和维护企业集成服务的能力.
-  - [Red Hat Certified Specialist in Event-Driven Development with Kafka](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-event-driven-development-kafka) - 验证使用 Apache Kafka 和 Apache Kafka Streams 开发应用程序的能力.
--TIBCO
-  - [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - 检查对 Business Studio 和 TIBCO Cloud Integration 的理解、设计应用程序组件（模块、WSDL、REST API）、开发集成应用程序以及测试、部署和管理应用程序.
-  - [TIBCO BusinessWorks Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-6-certification-exam) - 验证在最少监督下设计、开发、部署、监控和管理中等复杂度的 TIBCO BusinessWorks 应用程序的能力.
-  - [TIBCO BusinessWorks Container Edition Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-container-edition-certification-exam) - 验证在最少监督下开发、部署和管理中等复杂度的 TIBCO BusinessWorks Container Edition 应用程序的能力.
-  - [TIBCO BPM Enterprise Associate](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-associate-certification-exam) - 检查对 TIBCO BPM 特性和功能的理解，开发和管理业务流程，以及部署和测试流程应用程序.
-  - [TIBCO BPM Enterprise Certified Professional](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-5-certification-exam) - 验证使用 TIBCO BPM Enterprise Suite 设计、开发、部署和管理业务流程的能力.
-  - [TIBCO Cloud Associate Certification](https://www.tibco.com/services/education/certification/tibco-cloud-associate-certification-exam) - 验证使用 TIBCO Cloud 所需的技能和知识，包括其关键组件和功能.
-  - [TIBCO Cloud API Management Associate](https://www.tibco.com/services/education/certification/tibco-mashery-associate-certification-exam) - 涵盖 API 定义创建和测试、API 密钥身份验证以及使用 Developer Portal 和 I/O 文档等主题.
-  - [TIBCO Cloud API Management Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-api-management-professional-certification-exam) - 验证实施 TIBCO Cloud Mesh、基于 OAuth 的安全性和管理 SOAP 服务的能力.
-  - [TIBCO Cloud Integration Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-associate-certification-exam) - 验证使用 TIBCO Cloud Integration 所需的技能和知识，包括其连接、开发和集成功能.
-  - [TIBCO Cloud Integration - Connect Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-associate-certification-exam) - 检查 TIBCO Cloud Integration 的 Connect 功能的使用情况、安装 On-Premise Agent、创建连接和集成应用程序以及配置流程.
-  - [TIBCO Cloud Integration - Connect Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-certified-professional-exam) - 检查连接的创建和管理，确保连接安全，并解决与 TIBCO Cloud Integration 中的连接相关的问题.
-  - [TIBCO Cloud Integration Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-certified-professional-exam) - 检查有关功能和优势、集成、开发和连接应用程序、使用 API Modeler 和 Mock 功能创建 API 等方面的知识.
-  - [TIBCO Messaging Associate](https://www.tibco.com/services/education/certification/tibco-messaging-associate-certification-exam) - 涵盖 TIBCO Enterprise Message Service (EMS)、TIBCO FTL、TIBCO eFTL 等主题，以及 Apache Kafka、Apache Pulsar 和 Eclipse Mosquitto 等其他消息传递技术.
-  - [TIBCO Messaging Certified Professional](https://www.tibco.com/services/education/certification/tibco-messaging-certified-professional-exam) - 验证使用 TIBCO Messaging 及其组件所需的技能和知识，包括 TIBCO Enterprise Message Service (EMS)、TIBCO FTL 和 TIBCO eFTL.
+<details>
+<summary>API学院</summary>
+  
+- [API Designer](https://apiacademy.learnupon.com/) - 验证您对 API 设计基础知识和最佳实践的理解.
+- [API Product Manager](https://apiacademy.co/2020/05/virtual-api-academy-workshop/) - 展示您在将 API 作为产品进行管理方面的熟练程度.
+- [API Security Architect](https://apiacademy.co/api-certification/) - 验证您在使用现代架构保护 API 方面的专业知识.
+  
+</details>
+<details>
+<summary>Boomi</summary>
+  
+- [Associate Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIKWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在管理 Boomi 平台方面的基础知识和技能，重点是平台监控、故障排除和安全性.
+- [Associate Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人对使用 Boomi 平台构建和部署集成流程的基本理解，包括设计模式、部署和错误处理.
+- [Associate EDI for X12 Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIFWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人使用 Boomi 设计、开发和管理电子数据交换 (EDI) 与 X12 标准集成的熟练程度，涵盖 EDI 文档结构和贸易伙伴管理等基本概念.
+- [Associate Flow Essentials Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIZWA2&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人使用 Boomi Flow 创建和管理业务应用程序的知识，重点是工作流设计、用户界面和数据集成.
+- [Associate Master Data Hub Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIPWA2&ltui__urlRedirect=learning-plan-detail-standard) - 强调候选人对使用 Boomi Master Data Hub 确保数据质量和跨系统一致性的理解，重点是数据建模、治理和同步.
+- [Development and Application Architecture Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJOWA2&ltui__urlRedirect=learning-plan-detail-standard) - 确认个人在 Boomi 平台上设计和实施复杂集成解决方案和应用程序架构方面的专业知识，包括最佳实践和性能优化.
+- [Professional API Design Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) - 展示候选人使用 Boomi 设计、开发和管理 API 的能力，包括 RESTful API 原则、API 安全性和版本控制.
+- [Professional API Management Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在使用 Boomi 平台管理 API 的整个生命周期方面的专业知识，包括 API 部署、监控和分析.
+- [Professional Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OJrWAM&ltui__urlRedirect=learning-plan-detail-standard) - 认可候选人在使用 Boomi 开发、部署和管理集成流程方面的深入知识和技能，重点是高级数据转换和错误处理技术.
+- [Professional Flow Developer Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIUWA2&ltui__urlRedirect=learning-plan-detail-standard) - 展示个人使用 Boomi Flow 设计、开发和管理业务应用程序的高级能力，包括复杂的工作流设计、自定义 UI 组件以及与外部系统的集成.
+- [Professional Linux Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OI5WAM&ltui__urlRedirect=learning-plan-detail-standard) - 确认候选人在 Linux 系统上管理和管理 Boomi 的熟练程度，涵盖系统安装、配置、安全和性能优化等主题.
+- [Professional Windows Operational Administrator Certification](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIAWA2&ltui__urlRedirect=learning-plan-detail-standard) - 验证个人在 Windows 系统上管理和管理 Boomi 的专业知识，重点是系统安装、配置、安全性和性能优化.
+  
+</details>
+<details>
+<summary>IBM</summary>
+  
+- [IBM Certified Solution Developer – App Connect Enterprise V11](https://www.ibm.com/training/certification/C0003107#exam) - 验证您使用 IBM App Connect V11.0 开发、部署、调整和支持独立于平台的消息流应用程序的中级知识和经验.
+- [IBM Certified Solution Implementer – API Connect v10.0.3](https://www.ibm.com/training/certification/C0002604#exam) - 展示您使用 IBM API Connect v10.0.3 开发、发布、配置和管理 API 的中级知识和技能.
+
+</details>
+<details>
+<summary>Gravitee</summary>
+
+- [Event-native API Management Foundations](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) - 事件原生 API 管理基础.
+- [Event-native API Management Professional](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) - 专注于一些更高级的 API 管理概念，以及有关如何使用 Gravitee API 管理的基础知识.
+  
+</details>
+<details>
+<summary>Kong</summary>
+  
+- [Kong Gateway Certified Associate](https://konghq.com/academy/exam-preparation) - 为开发人员、DevOps 和架构师验证您在 Kong Gateway 上的入门级知识和技能.
+
+</details>
+<details>
+<summary>Mulesoft</summary>
+  
+- [MuleSoft Certified Developer - Level 1](https://training.mulesoft.com/certification/developer-mule4-level1) - 验证您使用 MuleSoft 设计、构建、测试和调试、部署和管理基本 API 和集成的知识和技能.
+- [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - 验证您在生产就绪的 Mule 应用程序上工作的能力，这些应用程序可以解决和平衡关键的非功能性需求，包括监控、性能、可维护性、可靠性和安全性.
+- [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - 验证您将功能和非功能需求转化为集成接口和实现的知识和技能.
+- [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - 验证您的知识和技能，以使用 Anypoint Platform 在整个组织中使用 API 主导的连接后，从单个集成解决方案中引导有效应用程序网络的出现.
+
+</details>
+<details>
+<summary>Oracle</summary>
+
+- [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - 验证您在实施 Oracle BPM Suite 12c 解决方案方面的专业知识.
+- [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
+- [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - 验证您在销售或实施 Oracle Data Integration 12c 解决方案方面的专业知识.
+- [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - 验证您在实施基于 Oracle SOA Suite 12c 的解决方案方面的专业知识.
+
+</details>
+<details>
+<summary>红帽</summary>
+ 
+- [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) - 验证使用 Red Hat 3scale API 管理平台创建和维护企业 API 的能力.
+- [Red Hat Certified Specialist in Business Rules](https://www.redhat.com/en/services/certification/rhcs-business-rules) - 检查使用红帽 JBoss BRMS 执行涉及业务逻辑实施和管理的任务所需的知识、技能和能力.
+- [Red Hat Certified Specialist in Cloud-native Integration](https://www.redhat.com/en/services/certification/rhcs-cloud-native-integration) - 验证基于 Red Hat Fuse、Camel 和 API 创建和维护企业集成服务的能力.
+- [Red Hat Certified Specialist in Event-Driven Development with Kafka](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-event-driven-development-kafka) - 验证使用 Apache Kafka 和 Apache Kafka Streams 开发应用程序的能力.
+  
+</details>
+<details>
+<summary>SnapLogic</summary>
+
+- [SnapLogic Administrator Certification](https://learn.snaplogic.com/snaplogic-administrator-certification) - 评估您处理 SnapLogic 实例管理任务的能力.
+- [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification) - 评估您对 SnapLogic 平台的集成参考架构和关键策略的了解，涵盖的主题包括 SnapLogic 架构、Snaplex 要求、管道生命周期管理、高级数据转换、API 管理、可恢复管道和最佳实践.
+- [SnapLogic Certified Enterprise Automation Professional](https://learn.snaplogic.com/snaplogic-certified-automation-professional) - 一项高级认证，涵盖 SnapLogic 平台、资产管理、工作流、表达语言、任务、管道模块化、迁移和各种端点的用户帮助视频等主题.
+- [SnapLogic Developer Certification](https://learn.snaplogic.com/snaplogic-developer-certification) - 测试您在使用 SnapLogic SDK、实现 Snap 功能的不同部分以及构建自定义 Snap 方面的专业知识.
+- [SnapLogic Integrator Certification](https://learn.snaplogic.com/snaplogic-integrator-certification-1) - 专注于初学者培训、超任务、管道迁移和涵盖各种集成端点的用户帮助视频等主题.
+
+</details>
+<details>
+<summary>TIBCO</summary>
+
+- [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - 检查对 Business Studio 和 TIBCO Cloud Integration 的理解、设计应用程序组件（模块、WSDL、REST API）、开发集成应用程序以及测试、部署和管理应用程序.
+- [TIBCO BusinessWorks Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-6-certification-exam) - 验证在最少监督下设计、开发、部署、监控和管理中等复杂度的 TIBCO BusinessWorks 应用程序的能力.
+- [TIBCO BusinessWorks Container Edition Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-container-edition-certification-exam) - 验证在最少监督下开发、部署和管理中等复杂度的 TIBCO BusinessWorks Container Edition 应用程序的能力.
+- [TIBCO BPM Enterprise Associate](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-associate-certification-exam) - 检查对 TIBCO BPM 特性和功能的理解，开发和管理业务流程，以及部署和测试流程应用程序.
+- [TIBCO BPM Enterprise Certified Professional](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-5-certification-exam) - 验证使用 TIBCO BPM Enterprise Suite 设计、开发、部署和管理业务流程的能力.
+- [TIBCO Cloud Associate Certification](https://www.tibco.com/services/education/certification/tibco-cloud-associate-certification-exam) - 验证使用 TIBCO Cloud 所需的技能和知识，包括其关键组件和功能.
+- [TIBCO Cloud API Management Associate](https://www.tibco.com/services/education/certification/tibco-mashery-associate-certification-exam) - 涵盖 API 定义创建和测试、API 密钥身份验证以及使用 Developer Portal 和 I/O 文档等主题.
+- [TIBCO Cloud API Management Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-api-management-professional-certification-exam) - 验证实施 TIBCO Cloud Mesh、基于 OAuth 的安全性和管理 SOAP 服务的能力.
+- [TIBCO Cloud Integration Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-associate-certification-exam) - 验证使用 TIBCO Cloud Integration 所需的技能和知识，包括其连接、开发和集成功能.
+- [TIBCO Cloud Integration - Connect Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-associate-certification-exam) - 检查 TIBCO Cloud Integration 的 Connect 功能的使用情况、安装 On-Premise Agent、创建连接和集成应用程序以及配置流程.
+- [TIBCO Cloud Integration - Connect Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-certified-professional-exam) - 检查连接的创建和管理，确保连接安全，并解决与 TIBCO Cloud Integration 中的连接相关的问题.
+- [TIBCO Cloud Integration Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-certified-professional-exam) - 检查有关功能和优势、集成、开发和连接应用程序、使用 API Modeler 和 Mock 功能创建 API 等方面的知识.
+- [TIBCO Messaging Associate](https://www.tibco.com/services/education/certification/tibco-messaging-associate-certification-exam) - 涵盖 TIBCO Enterprise Message Service (EMS)、TIBCO FTL、TIBCO eFTL 等主题，以及 Apache Kafka、Apache Pulsar 和 Eclipse Mosquitto 等其他消息传递技术.
+- [TIBCO Messaging Certified Professional](https://www.tibco.com/services/education/certification/tibco-messaging-certified-professional-exam) - 验证使用 TIBCO Messaging 及其组件所需的技能和知识，包括 TIBCO Enterprise Message Service (EMS)、TIBCO FTL 和 TIBCO eFTL.
+  
+</details>
 
 <!--lint disable-->
 <!--lint enable-->
+
 ### Connectors
 - [JCA](https://projects.eclipse.org/projects/ee4j.jca)  - 为 Jakarta EE 应用程序组件定义标准架构以连接到企业信息系统. 以前称为 Java EE 连接器体系结构和 J2EE 连接器体系结构.
 - [Kafka Connect](https://kafka.apache.org/documentation/#connect) - 一种用于在 Apache Kafka 和其他系统之间可扩展且可靠地传输数据的工具.
@@ -676,9 +723,9 @@
 <!--lint enable-->
 ### Integration Styles
 - [File Transfer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html) - 数据通过应用程序之间的文件交换进行交换.
-- [Messaging](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html) - 应用程序使用消息传递基础设施交换消息.
+- [Messaging](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html) - Applications exchange messages using a messaging infrastructure.
 - [Remote Procedure Invocation](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html) - 应用程序通过网络调用远程服务器上的函数或过程.
-- [Shared Database](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html) - 多个应用程序通过一个公共数据库访问和操作相同的数据.
+- [Shared Database](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html) - Multiple applications access and manipulate the same data through a common database.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -709,7 +756,7 @@
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html)  - 一种广泛接受的消息队列协议，可在系统之间提供可靠、可互操作且高效的消息传递.  AMQP 1.0 支持广泛的消息传递场景，非常适合复杂的企业级应用程序.
 - [CoAP](http://coap.technology/)  - 专门为物联网 (IoT) 生态系统中的受限设备设计的应用程序协议.  CoAP 提供了一种轻量级、低开销的通信机制来支持资源受限的设备.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  - 一种广泛使用的协议，可促进 Web 服务器和客户端之间的通信.  HTTP 支持通过 Internet 传输数据，从而使 Web 应用程序可以无缝运行.
-- [JSON-RPC](https://www.jsonrpc.org/specification) - A simple and lightweight remote procedure call protocol that enables communication between systems using JSON data. JSON-RPC offers stateless communication and is suitable for resource-constrained devices.
+- [JSON-RPC](https://www.jsonrpc.org/specification)  - 一种简单轻量级的远程过程调用协议，支持使用 JSON 数据在系统之间进行通信.  JSON-RPC 提供无状态通信，适用于资源受限的设备.
 - [MQTT](https://mqtt.org/mqtt-specification/)  - 一种轻量级高效的发布-订阅协议，支持设备间的消息传递.  MQTT 支持低开销通信，是物联网和移动应用程序的理想选择.
 - [SOAP](https://www.w3.org/TR/soap/)  - 使用 XML 实现系统间通信的消息传递协议.  SOAP 支持广泛的消息传递方案，包括分布式计算和企业应用程序.
 - [STOMP](https://stomp.github.io/)  - 一种消息传递协议，在系统之间提供简单的、面向文本的通信.  STOMP 是低延迟、高性能消息传递场景的理想选择.

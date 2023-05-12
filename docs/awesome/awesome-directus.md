@@ -9,7 +9,9 @@
 
 
 
-## Official Resources
+## Resources
+
+### Offical
 
 - [Documentation](https://docs.directus.io/getting-started/introduction/)
 - [GitHub Repository](https://github.com/directus/directus)
@@ -18,7 +20,7 @@
 - [Video Tutorials on YouTube](https://www.youtube.com/c/DirectusVideos/featured)
 - [Community Repositories](https://github.com/directus-community)
 
-## Community Resources
+### Community
 
 - [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
@@ -59,6 +61,8 @@
 - [Field Actions](https://github.com/utomic-media/directus-extension-field-actions) - 将副本添加到剪贴板并将 URL 的操作按钮打开到字段（界面 + 显示）.
 - [Generate Types](https://github.com/maltejur/directus-extension-generate-types)  - 添加一个模块，用于为连接到该 Directus 数据库的 Directus JS-SDK 生成打字稿类型. 也可以生成 Python 或 OpenAPI 类型.
 - [Computed Interface](https://github.com/rezo-labs/directus-extension-computed-interface) - 根据其他字段执行计算值.
+- [Inline Form Interface](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - 以父记录中包含的内联形式编辑 M2O 关系.
+- [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - 将组显示为选项卡面板，作为手风琴组的一种漂亮、节省空间的替代方案.
 
 ## Articles
 

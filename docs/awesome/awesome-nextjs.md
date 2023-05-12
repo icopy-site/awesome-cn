@@ -10,7 +10,6 @@
 _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事情. 你可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd)._
 
 
-- [Awesome Next.js ![Awesome](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg?sanitize=true)](#awesome-nextjs-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg?sanitize=true-altawesome-img-srchttpsimgshieldsiobadgeunicodeveloper-approved-brightgreensvg?sanitize=true-alt)
 
 ## Community
 
@@ -57,9 +56,11 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 - [Using Feature Flags in Next.js](https://medium.com/frontend-digest/using-feature-flags-in-next-js-c5c8d0795a2?source=friends_link&sk=d846a29f376acf9cfa41e926883923ab)
 - [Adding code snippets to Next.js using react-syntax-highlighter](https://thetombomb.com/posts/adding-code-snippets-to-static-markdown-in-Next%20js)
-- [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
+- [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/?ref=232)
 - [Guaranteeing webhook delivery in NextJS Application](https://www.bharathvaj.me/blog/implement-webhook-nextjs)
 - [Building a Guestbook Using Next.js On-Demand ISR](https://www.svix.com/blog/vercel-on-demand-isr-and-svix/)
+- [Useful Admin Templates to build your Website/App](https://adminmart.com/templates/nextjs/?ref=6)
+- [Integrate Next app with Tailwind](https://tailwind-elements.com/docs/standard/integrations/next-integration/)
 
 ## Boilerplates
 
@@ -83,7 +84,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用 Next.js、Firebase Firestore、styled-components 和 mobx-state-tree 构建的简单 CMS 博客.
 - [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 具有 Express、Redux 和 PostCSS 的 Next.js 启动器.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 带有 Redux 和 Material UI 的样板 NextJS.
-- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库 _and_ 最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
+- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库_和_最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
 - [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS、Styled-jsx、Redux、PostCSS、可配置的 SEO
 - [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - 外部 CSS 和 Sass + 从任何地方导入图像 + Prettier 和 Eslint + 环境变量和更多功能.
 - [next-starter](https://github.com/YuriBrunetto/next-starter) - 一个完整而简单的样板文件，内置 `sass (.scss)` 和 `postcss`.
@@ -174,18 +175,19 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Docker Success Center](https://success.docker.com) - Docker 成功中心
 - [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - 根据 GPLv3 获得许可的德国法律信息系统.
 - [TikTok's HomePage](https://www.tiktok.com/) - TikTok 的主页
-- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 集成.
+- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 整合.
 - [caseconverter.pro](https://caseconverter.pro) - 文本大小写转换器.
 - [Tottem](https://github.com/poulainv/tottem) - 使用 NextJs / Auth0 / Apollo Tools / Prisma2 构建的类固醇书签管理器
 - [Slow TV Map](https://slowtvmap.com)  - 一种发现轻松虚拟体验的有趣方式.  Next.js + Chakra UI + MySQL 托管在 Vercel 上.
 - [Twitter Clone](https://github.com/AlandSleman/t3-twitter-clone) - 使用 Next.js + T3 Stack + NextAuth + Supabase + Prisma 构建的 Twitter 克隆.
+
 ## Books
 
 - [Hands On Next.js](https://leanpub.com/hands-on-nextjs) - 一本关于 React 应用程序通用（服务器）渲染的实用全栈书.
 - [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) - 使用 Next.js 创建、构建和部署通用 JavaScript 应用程序
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - 构建一个前端 React 应用程序，为您透明地处理服务器端渲染.
 - [Serverless Web Applications with React and Next.js](https://www.amazon.com/dp/B0BHRPMF74) - 使用 Next.js 无服务器功能访问数据库并在您的 React 应用程序中对用户进行身份验证
-- [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - 使用 Next.js、Prisma ORM、Cloudinary API、Chakra-UI 和 React Hook Form 构建全栈软件即服务应用程序. 
+- [Cut Into The Jamstack: Build a SaaS with React and Next.js](https://www.cutintothejamstack.com/) - 使用 Next.js、Prisma ORM、Cloudinary API、Chakra-UI 和 React Hook Form 构建全栈软件即服务应用程序.
 
 ## Videos
 
@@ -203,9 +205,19 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
 - [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 - [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
-- [Mastering Next.js](https://masteringnextjs.com/) - 50+ lesson video course for building applications with Next.js and React.
+- [Mastering Next.js](https://masteringnextjs.com/) - 50 多节课的视频课程，用于使用 Next.js 和 React 构建应用程序.
 - [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - 深入的 Next.js 教程.
 - [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) - 2020 Next.js 大会的所有视频
+
+## Projects(Beginner level)
+
+- [Full Stack Netflix Clone in React, Tailwind CSS, Next.JS, Prisma, MongoDB, NextAuth & Vercel (2023)](https://youtu.be/mqUN4N2q4qY)
+- [Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS](https://youtu.be/ugCN_gynFYw)
+- [Next js 13 project - IMBb Clone - next js tailwind css project - nextjs project](https://youtu.be/OHEMPreO09Q)
+- [Next js 13 project - Google clone (next.js 13, tailwind css 3, google search api, app router](https://youtu.be/h9zlVmoUV5I)
+- [next js project - Twitter clone](https://youtu.be/PnvDPSg5bQM)
+- [Build and Deploy: TWITTER clone with React, Tailwind, Next, Prisma, Mongo, NextAuth & Vercel (2023)](https://youtu.be/ytkG7RT6SvU)
+- [NextJS 13 Tutorial: Create a Static Blog from Markdown Files](https://youtu.be/Hiabp1GY8fA)
 
 ## Newsletters
 

@@ -213,6 +213,7 @@
 - [vig](https://github.com/nsauzede/vig) - 绑定 [Dear ImGui](https://github.com/ocornut/imgui) 图形用户界面工具包.
 - [vnk](https://github.com/nsauzede/vnk) - 绑定 [Nuklear](https://github.com/vurtun/nuklear) 图形用户界面工具包.
 - [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
+- [VWebui](https://github.com/webui-dev/v-webui) - 可以轻松创建 WebUI 的 V 库.
 
 ### Utility
 

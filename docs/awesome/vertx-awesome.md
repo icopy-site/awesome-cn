@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-logo.svg?sanitize=true" align="right" width="250">](http://vertx.io)
 
-*Awesome Vert.x* is a list of awesome frameworks, libraries or other components related to
+*Awesome Vert.x* 是一个很棒的框架、库或其他相关组件的列表
 [Vert.x](https://github.com/eclipse/vert.x).
 
 如果您希望您的组件出现在这里，请向此存储库发送拉取请求以添加它.
@@ -32,7 +32,7 @@
 * [Kovert](https://github.com/kohesive/kovert) - 用于 Kotlin + Vert.x Web 的隐形 REST 框架.
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) - Vert.x 的开放网络框架.
 * [QBit](https://github.com/advantageous/qbit) - REST 和 WebSocket 方法调用编组和反应库.
-* [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - 文件系统或 redis 数据库中 REST 资源的持久性.
+* [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
 * [Jubilee](https://github.com/isaiah/jubilee) - 基于 Vert.x 3 构建的机架兼容 Ruby HTTP 服务器.
 * [Knot.x](https://github.com/Cognifide/knotx) - 适用于基于 Vert.x 3 的现代网站的高效和高性能集成平台.
 * [Irked](https://github.com/GreenfieldTech/irked) - 用于 Vert.x Web 的基于注释的配置，具有用于 REST 的控制器框架和富有表现力的 API.
@@ -43,6 +43,7 @@
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next 是一个非常轻量级的、现代的、基于 JVM 的全堆栈 kotlin 框架，旨在构建模块化、易于测试的 JVM 应用程序，支持 Java、Kotlin 语言，由最好的 Java 库和标准精心打造.
 * [Donkey](https://github.com/AppsFlyer/donkey) - 为易用性和性能而构建的现代 Clojure HTTP 服务器和客户端.
 * [SCX](https://github.com/scx567888/scx) - 一个开放易用的web框架，大部分功能基于注解.
+* [vertx-rest](https://github.com/dream11/vertx-rest) - 对 resteasy-vertx 的抽象，以简化基于 JAX-RS 注释编写 vertx REST 应用程序
 
 ## Authentication Authorisation
 
@@ -67,7 +68,7 @@
   * [Redis](https://github.com/vert-x3/vertx-redis-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 与 Redis 交互的异步 API.
   * [Cassandra](https://github.com/vert-x3/vertx-cassandra-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> - 允许应用程序与 Cassandra 服务交互的 Vert.x 客户端.
   * [Cassandra](https://github.com/englishtown/vertx-cassandra) - 与 Cassandra 和 Cassandra 映射交互的异步 API.
-  * [OrientDB](https://github.com/cstamas/vertx-orientdb) - 非阻塞 OrientDB 服务器集成.
+  * [OrientDB](https://github.com/cstamas/vertx-orientdb) - Non-blocking OrientDB server integration.
   * [Bitsy](https://github.com/cstamas/vertx-bitsy) - 非阻塞 Bitsy Graph 服务器集成.
   * [MarkLogic](https://github.com/etourdot/vertx-marklogic) - Marklogic 数据库服务器的异步客户端.
   * [SirixDB](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) - 非阻塞 SirixDB HTTP 服务器.
@@ -165,7 +166,7 @@
 
 ## Sync Thread Non Block
 
-* [Sync](https://github.com/vert-x3/vertx-sync) - 同步但非操作系统线程阻塞的 Verticles.
+* [Sync](https://github.com/vert-x3/vertx-sync) - 同步但非操作系统线程阻塞的 Verticle.
 
 ## Vert.x Event Bus Clients
 
@@ -227,7 +228,7 @@
 ## Config
 
 * [Vert.x Config AWS SSM Store](https://github.com/Finovertech/vertx-config-aws-ssm) - A [config store](http://vertx.io/docs/vertx-config/java/) 从中检索配置值的实现 [AWS EC2 SSM Parameter Store](https://aws.amazon.com/ec2/systems-manager/parameter-store/).
-* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticles.
+* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
 
 ## Dependency Injection
 
@@ -259,7 +260,7 @@
 * [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - 从 Vert.x 生成子进程.
 * [vertx-redisques](https://github.com/swisspush/vertx-redisques) - 用于 Vert.x 的高度可扩展的 redis-persistent 排队系统.
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) - 一个 OpenStack Swift 兼容的分布式对象存储服务器，可以使用 Vert.x 实现的最少资源来服务和安全地存储数十亿个大小文件.
-* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticles.
+* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
 * [GDH](https://github.com/maxamel/GDH) - 建立在 Vert.x 之上的通用 Diffie-Hellman 密钥交换 Java 库.
 * [vertx-values](https://github.com/imrafaelmerino/vertx-values) - 从发送不可变和持久的 JSON [json-values](https://github.com/imrafaelmerino/json-values) 穿过事件总线.
 
@@ -288,7 +289,7 @@
 
 ## Deployment
 
-* [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) - (Seamless) deploy to AWS based Vert.x application clusters.
+* [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) -（无缝）部署到基于 AWS 的 Vert.x 应用程序集群.
 
 ## Utilities
 
