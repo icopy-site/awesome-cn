@@ -71,7 +71,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 ### Package and Build Management
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - 与 Coq 一起分发并基于生成 makefile 的构建工具.
-- [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix 帮助程序脚本，用于自动化本地构建和 Coq 的持续集成.
+- [Coq Nix Toolbox](https://github.com/coq-community/coq-nix-toolbox) - Nix helper 脚本，用于自动化本地构建和 Coq 的持续集成.
 - [Coq Package Index](https://coq.inria.fr/opam/www/) - 基于 opam 的 Coq 包集合.
 - [Coq Platform](https://github.com/coq/platform) - 精选的软件包集合，以支持 Coq 在工业、教育和研究中的使用.
 - [coq-community Templates](https://github.com/coq-community/templates) - 为 Coq 项目生成配置文件的模板.
@@ -85,9 +85,9 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Plugins
 
-- [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些算子的普遍量化方程、模结合律和交换律的策略.
+- [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些运算符的普遍量化方程、模结合律和交换律的策略.
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和策略.
-- [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转化为自动证明和重建已找到的证明相结合.
+- [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转换为自动证明器以及重建已找到的证明相结合.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现浮点运算和舍入误差目标的策略.
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - 用于声明基于打包类的 Coq 层次结构的命令集合.
@@ -176,7 +176,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的正式模型、类型系统的逻辑关系以及一些 Rust 库的安全证明.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - RISC-V 处理器指令集架构和扩展的定义.
-- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 已验证用于拓扑排序和在有限图中查找强连通分量的算法的实现.
+- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 验证了用于拓扑排序和在有限图中查找强连通分量的算法的实现.
 - [Vélus](http://velus.inria.fr) - 经过验证的 Lustre/Scade 类数据流同步语言的编译器.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Raft 分布式共识协议的实现，使用 Verdi 框架在 Coq 中验证.
 
@@ -215,7 +215,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [PLClub Blog](https://www.seas.upenn.edu/~plclub/blog/)
 - [Poleiro: a Coq blog by Arthur Azevedo de Amorim](http://poleiro.info)
 - [Ralf Jung's blog posts on Coq](https://www.ralfj.de/blog/categories/coq.html)
-- [Thomas Letan's blog posts on Coq](https://soap.coffee/~lthms/#coq)
+- [Thomas Letan's blog posts on Coq](https://soap.coffee/~lthms/tags/coq.html)
 
 ### Books
 
@@ -232,7 +232,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Course Material
 
-- [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑来推理 Coq 中的顺序命令式程序.
+- [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑推理 Coq 中的顺序命令式程序.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
 - [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - 形式化以支持计算理论的本科课程，包括语言和图灵机.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.

@@ -101,6 +101,7 @@
 - [Survivor](https://github.com/scottschiller/SURVIVOR) - 可玩的 HTML + CSS + JavaScript 从 1982 年开始为 Atari / Commodore 64 重制基于空间的“射击”街机游戏，包括关卡编辑器和设计工具.
 - [WPilot](https://github.com/jfd/wpilot) - 基于浏览器的著名 XPilot 游戏翻版，使用 Node.js 和 HTML5 构建.
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - 游戏基于我们的原创漫画 ZED，在名为“游戏结束”的“零集”中看到.
+- [111 one-button games](https://github.com/abagames/111-one-button-games-in-2021) - 一键游戏以一键实现各种动作而闻名.
 
 ### FPS
 
@@ -109,7 +110,7 @@
 ### RPG
 
 - [Diablo JavaScript](https://github.com/mitallast/diablo-js) - HTML5 画布和 JavaScript 上的等距最小代码风格游戏.
-- [Roguish](https://github.com/CamHenlin/Roguish) - 用 Ja​​vaScript 创建的 RPG/Rogue-like 游戏.
+- [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
 - [Room for Change](https://github.com/antionio/game-off-2013)  - 随机生成的动作角色扮演游戏. 你扮演一个胖乎乎的考古学家，他的任务是从传奇法老的金字塔中取回三件神圣的文物.
 
 ### MMORPG
@@ -190,7 +191,7 @@
 - [Beast](https://github.com/dominikwilkowski/beast.js)  - 向 Dan Baker、Alan Brown、Mark Hamilton 和 Derrick Shadel 用 node 编写的 1984 年 ASCII 游戏“BEAST”致敬. 您必须在可推动的方块之间压扁 ASCII 小动物，但要注意不要被它们吃掉.
 - [Binb](https://github.com/lpinca/binb) - 竞技、多人、实时、猜歌游戏.
 - [Dental Defender: Saga of the Candy Horde](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam.
-- [Descensus 2](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
+- [Descensus 2](https://github.com/TomWHall/Descensus2) - TypeScript 2D 物理游戏.
 - [Hauberk](https://github.com/munificent/hauberk)  - Hauberk 是一款 roguelike，一款基于 ASCII 艺术的程序生成地牢爬行游戏. 它用 Dart 编写并在您的浏览器中运行.
 - [HeartLine](https://github.com/gamebytes/heartline.github.com) - 为 2013 年 Global Game Jam 在 48 小时内制作的游戏.
 - [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 游戏，GitHub Game Off 2 获胜者.

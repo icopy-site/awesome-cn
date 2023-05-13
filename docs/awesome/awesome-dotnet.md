@@ -173,7 +173,7 @@
 
 ## Calendar
 
-* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET 是一个用于 .NET 的 iCalendar (RFC 5545) 类库，旨在提供 RFC 5545 合规性，同时提供与流行的日历应用程序和库的完全兼容性.
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET 是 .NET 的 iCalendar (RFC 5545) 类库，旨在提供 RFC 5545 合规性，同时提供与流行日历应用程序和库的完全兼容性.
 
 ## Chat
 
@@ -639,7 +639,7 @@
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) - 用于 MVC 的 Elmah
 * [Logary](https://github.com/logary/logary)  - Logary 是用于 Mono 和 .NET 的高性能、多目标日志记录、度量、跟踪和健康检查库.  .NET 对 DropWizard 的回答. 支持许多为微服务构建的目标.
 * [Log4Net](https://logging.apache.org/log4net/) - Apache log4net 库是帮助程序员将日志语句输出到各种输出目标的工具
-* [Rollbar.NET](https://github.com/rollbar/Rollbar.NET)  - 简化了使用 Rollbar.com 时的实时远程错误监控. 适用于任何基于 .NET 的技术堆栈的开源 Rollbar Notifier SDK.  SDK 可用于基于以下 .NET 版本构建的任何应用程序：.NET Core 2.0+、.NET Standard 2.0+、.NET Full Framework 4.5.1+、Mono、Xamarin，以及通常的任何实现.NET 标准 2.0+. 它简化了基于异常数据、跟踪数据、信息性消息和遥测数据构建数据有效负载，并将有效负载发送到 Rollbar API 以远程监控和分析托管应用程序的行为.
+* [Rollbar.NET](https://github.com/rollbar/Rollbar.NET)  - 简化了使用 Rollbar.com 时的实时远程错误监控. 适用于任何基于 .NET 的技术堆栈的开源 Rollbar Notifier SDK.  SDK 可用于基于以下 .NET 版本构建的任何应用程序：.NET Core 2.0+、.NET Standard 2.0+、.NET Full Framework 4.5.1+、Mono、Xamarin，以及通常的任何实现.NET 标准 2.0+. 它基于异常数据、跟踪数据、信息性消息和遥测数据简化了构建数据有效负载，并将有效负载发送到 Rollbar API 以远程监控和分析托管应用程序的行为.
 * [Sejil](https://github.com/alaatm/Sejil)  - 直接从您的应用捕获、查看和过滤 ASP.NET Core 应用的日志. 它支持结构化日志记录、查询以及保存日志查询.
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK [Sentry](https://sentry.io/welcome/) 开源错误跟踪，可帮助开发人员实时监控和修复崩溃.
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的一个严肃的日志记录库. 将传统和结构化诊断日志记录的优点结合在一个易于使用的包中.
@@ -722,7 +722,7 @@
 
 * [Microsoft Ajax Minifier](https://archive.codeplex.com/?p=ajaxmin)  - 包含具有最高性能的 JS 和 CSS 压缩器，因为它是专门为 .NET 设计的. 可选择为 JS 代码生成 Source Maps.
 * [Web Markup Minifier](https://github.com/Taritsyn/WebMarkupMin)  - 包含一组标记缩小器的 .NET 库. 该项目的目标是通过减少 HTML、XHTML 和 XML 代码的大小来提高 Web 应用程序的性能.
-* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器而无需按需压缩，还支持在浏览器指示我支持时发送更高级的图像格式.
+* [CompressedStaticFiles](https://github.com/AnderssonPeter/CompressedStaticFiles) - 将压缩的静态文件发送到浏览器，而无需按需压缩，还支持在浏览器指示我支持时发送更高级的图像格式.
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web-based C# REPL with awesome code completion.
@@ -1059,7 +1059,7 @@
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 * [ReportPortal](https://reportportal.io)  - 人工智能驱动的测试自动化仪表板. 获取、汇总和分析测试报告以确定版本健康状况.
 * [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)  - 使用反射对任意两个 .NET 对象进行深度比较. 显示两个对象之间的差异.
-* [Verify](https://github.com/VerifyTests/Verify) - 验证工具可以简单地批准复杂的模型和文件.
+* [Verify](https://github.com/VerifyTests/Verify) - 验证工具可以简单地批准复杂的模型和文档.
 * [CsCheck](https://github.com/AnthonyLloyd/CsCheck) - Random testing library for C#. Including concurrency, causal profiling, regression and performance testing.
 
 ## Tools
@@ -1132,7 +1132,7 @@
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在 .NET 和 Mono 上构建基于 HTTP 的服务的轻量级、低仪式性框架
 * [IISNode](https://github.com/tjanczuk/iisnode) - 在 IIS 中托管 Node.js 应用程序
 * [Suave.IO](https://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in F#.
-* [DotVVM](https://github.com/riganti/dotvvm) - 适用于不喜欢编写 JavaScript 的人的 MVVM 框架，具有 OWIN 和 ASP.NET Core 支持以及 Visual Studio 2015 和 2017 的免费扩展.
+* [DotVVM](https://github.com/riganti/dotvvm) - 适用于不喜欢编写 JavaScript 的人的 MVVM 框架，支持 OWIN 和 ASP.NET Core 以及 Visual Studio 2015 和 2017 的免费扩展.
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
 
 ## Web Servers
@@ -1191,7 +1191,7 @@
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) - 精彩的 Roslyn 书籍、教程、开源项目、分析器、代码修复和重构的精选列表.
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - 这个社区维护的列表展示了对开发过程的任何方面都有用的 .NET 开源项目.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - 一系列很棒的培训系列、文章、视频、书籍、课程、示例项目和 .NET Core 微服务工具.
-* [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) - 在 .NET 控制台应用程序中实现的游戏示例.
+* [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - 在 .NET 控制台应用程序中实现的游戏示例.
 
 ## Resources
 

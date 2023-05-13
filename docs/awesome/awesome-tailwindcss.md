@@ -80,7 +80,7 @@
 - [RFS](https://github.com/aerni/tailwindcss-rfs) - 添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) - 重新添加在 Tailwind CSS 1.0 之前删除的“list-reset”类.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) - 添加流体大小实用程序.
-- [Typography](https://github.com/benface/tailwindcss-typography) - Adds typography utilities.
+- [Typography](https://github.com/benface/tailwindcss-typography) - 添加排版实用程序.
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) - 添加 CSS 三角形实用程序.
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) - 添加稀松布实用程序.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) - 添加实用程序以截断多行文本元素.
@@ -226,7 +226,7 @@
 - [tailwindcss-webpack-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin) - 开箱即用的 Tailwind CSS，支持“Design in Devtools”模式并可视化 Tailwind CSS 配置.
 - [tailwindcss-vite-plugin](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Tailwind CSS 的 Vite 插件，支持“Design in Devtools”模式，可视化 Tailwind CSS 配置.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - 用于可视化 Tailwind CSS 配置文件的本地 UI 工具.
-- [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - 使用 Tailwind CSS 自定义表单的刀片表单组件.
+- [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - Blade form components using Tailwind CSS Custom Forms.
 - [@ngneat/tailwind](https://github.com/ngneat/tailwind) - Angular 的 Tailwind CSS 集成.
 - [Gust](https://www.getgust.com) - 为 WordPress 拖放页面构建器.
 - [clb](https://github.com/crswll/clb) - clb（类列表构建器）是一个实用函数，它基于一个类列表构建一个类列表 [Stitches](https://stitches.dev/) 像 API.
@@ -269,6 +269,7 @@
 - [Sailboat UI](https://sailboatui.com/) - Tailwind CSS 的现代 UI 框架.
 - [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 - [Statichunt](https://statichunt.com/tailwind-templates) - 精选的免费和高级 Tailwind 模板和 Starters 的开源目录.
+- [Tailkits](https://tailkits.com/) - 精选的 Tailwind CSS 组件、模板、UI 工具包、资源、工具等.
 - [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多种不同的即用型 Tailwind CSS 块.
 - [Tailwind Components](https://tailwindcomponents.com) - 社区驱动的 Tailwind CSS 组件存储库.
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) - 模板、组件和资源.

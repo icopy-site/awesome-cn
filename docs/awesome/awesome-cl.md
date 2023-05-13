@@ -96,7 +96,7 @@ C、C++
 * [lispc](https://github.com/eratosthenesia/lispc) - 一种强大的 C 语言“lispsy”宏语言.[MIT][200].
 * [with-c-syntax](https://github.com/y2q-actionman/with-c-syntax)  - 一个将 C 语言语法引入 Common Lisp 的有趣包.  （是的，我认为这个包不是用于实际编码的.）WTFPL 许可证.
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl)  - C 语言的交互式 REPL.  [BSD_2条款][17].
-* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  - SEL 支持软件的编程修改和评估（使用 Clang、编译的汇编程序和链接的 ELF 二进制文件的 C/C++ 支持）.  [GPL3][2].
+* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  - SEL 支持软件的编程修改和评估（使用 Clang、编译的汇编器和链接的 ELF 二进制文件的 C/C++ 支持）.  [GPL3][2].
 
 Cryptography
 ============
@@ -221,7 +221,7 @@ Tools
 无锁、并发、键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [麻省理工][200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  - 数据结构和算法的可移植集合（主要是字典和序列，具有一些统计功能）.  [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  - 受 Haskell 的 Data.List 启发的列表操作库.  [LLGPL][8].
-* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便捷库
+* [hash-set](https://github.com/samebchase/hash-set/) - 在 CL 哈希表 [The Unlicense][5] 之上实现哈希集的便利库
 * [bit-smasher](https://github.com/thephoeron/bit-smasher)  - 用于处理位向量、位向量算术和类型转换的 Common Lisp 库.  [麻省理工][200].
 * [cl-containers](https://common-lisp.net/project/cl-containers/) - 一个广泛的数据结构和实用程序库 - 队列、树、堆、双向链表、集合、包……[MIT][200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  - 用于竞争性编程的 Common Lisp 算法集合. 公共领域、CCO 或 MIT.
@@ -314,7 +314,7 @@ Tools
 
 * [Trial](https://github.com/shirakumo/trial)  - Trial 是一个 OpenGL 游戏引擎，非常注重模块化. 它应该提供一个大型工具包，其中包含有用的点点滴滴，您可以从中创建游戏.  [zlib][33].
   * 这 [Kandria](https://kandria.com/) 游戏是用试用版构建的.
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/)  – 使用这个小型框架，您将能够制作简单的 2D 游戏：绘制基本的几何形状、图像和文本、播放声音以及收听鼠标和键盘输入.  [麻省理工][200].
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/)  – 使用这个小型框架，您将能够制作简单的 2D 游戏：绘制基本的几何形状、图像和文本、播放声音以及聆听鼠标和键盘输入.  [麻省理工][200].
 * [virality](https://github.com/bufferswap/ViralityEngine) - 用 Common Lisp [MIT][200] 编写的基于组件的游戏引擎.
 * [Xelf](https://gitlab.com/dto/xelf/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
 
@@ -389,7 +389,7 @@ windows 动态使用 Lisp 代码并绕过典型的 Xcode
 * [cl-webkit](https://github.com/joachifm/cl-webkit)  - 绑定到 WebKitGTK+. 还向应用程序添加 Web 浏览功能，充分利用 WebKit 浏览引擎的强大功能.  [麻省理工][200].
 * [ftw](https://github.com/fjames86/ftw)  - 一个 Win32 GUI 库.  [麻省理工][200].
 * [eql, eql5, eql5-android](https://gitlab.com/eql)  - 嵌入式Qt4和Qt5 Lisp，嵌入ECL，可嵌入Qt. 将 EQL5 移植到 Android 平台.  [麻省理工][200].
-* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包装在 [Nuklear](https://github.com/vurtun/nuklear) 立即模式 GUI 库.  [麻省理工][200].
+* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包装在 [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) 立即模式 GUI 库.  [麻省理工][200].
 * [vk](https://github.com/JolifantoBambla/vk)  - Vulkan API 的通用 Lisp/CFFI 绑定.  [麻省理工][200].
 
 其他实用程序：
@@ -433,7 +433,7 @@ Proprietary:
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  - 卡内基梅隆大学的实施. 公共区域.  SBCL 是 CMUCL 的一个分支.
 * [GNU CLISP](http://www.clisp.org/)  - GNU 实现； 包含一个编译器和一个解释器.  [标准一致性][6].  [GNU GPL3][2]. 他们发展 [on Gitlab](https://gitlab.com/gnu-clisp/clisp).
   * 编译为字节码，它的默认 REPL 比 SBCL 的（具有符号完成和 readline 集成）对用户更友好.
-  * 但是，它没有得到积极开发，它不完全符合 ANSI 标准，它的性能不如 SBCL，并且缺乏兼容性功能.
+  * 然而，它没有得到积极开发，它不完全符合 ANSI 标准，它的性能不如 SBCL，并且缺乏兼容性功能.
 * [Corman Lisp](https://github.com/sharplispers/cormanlisp)  - 用于在 Intel 平台上运行的 Microsoft Windows 的 Common Lisp 开发环境.  [麻省理工][200].
 
 您可以在此处检查实现与常见扩展的兼容性： [portability.cl](https://portability.cl).
@@ -690,7 +690,7 @@ Advanced
 其他书籍
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 合着，由麻省理工学院出版社免费提供——这是一本在标准人工智能文本中独一无二的书，结合了科学与工程、理论与工艺来描述 AI 推理系统的构建，并包括说明这些想法的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)) 由 Ken Forbus 和 Johan de Kleer 合着，由麻省理工学院出版社免费提供——这是一本在标准人工智能文本中独一无二的书，结合了科学与工程、理论与工艺来描述 AI 推理系统的构造，并包括说明这些想法的代码.
 
 Community
 ---------
@@ -736,7 +736,7 @@ Community
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  - debhelper 实用程序，让您几乎毫不费力地将基于 quicklisp 的 Common Lisp 代码编译成 .deb 中的 buildapp 二进制文件.  [麻省理工][200].
 * [cl-brewer](https://github.com/can3p/cl-brewer)  - 用于（命令行）常见 lisp 应用程序的自制公式生成器. 公共区域.
 * [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) - 一个 BuildStream 项目，用于为 Common Lisp 应用程序构建基于 Flatpak 的运行时环境.
-* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 以及更高版本的 MacOSX 和 iOS 捆绑格式.
+* [alien-works-delivery](https://github.com/borodust/alien-works-delivery)  - 用于将 Common Lisp 应用程序作为可执行包交付的 WIP 系统. 目前它仅支持 Linux 的 AppImage 格式和 Windows 的 MSIX，但也计划支持 Android 的 .APK 和更高版本的 MacOSX 和 iOS 捆绑格式.
 
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，通用包管理器的插件.
@@ -1396,7 +1396,7 @@ Tools
    Common Lisp 的存根和模拟库. 也可以查天气
   调用了存根函数，调用了多少次以及调用了哪些
   争论.  [麻省理工][200].
-* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟图书馆. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
+* [cl-mock](https://github.com/Ferada/cl-mock)  - 另一个模拟库. 它比 Mockingbird 有更多的特性，比如模拟调用的模式匹配等.
 * [Check-it](https://github.com/DalekBaldwin/check-it)  - QuickCheck 风格的随机化基于属性的测试.  [LLGPL][8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮手
   库将测试覆盖率发布到 Coveralls. 看 [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD][39].
@@ -1454,7 +1454,7 @@ CSV
 
 * ⭐ [local-time](https://common-lisp.net/project/local-time/)  - 用于以半标准方式处理日期和时间信息的开发库.  [3 条款 BSD][15].
 * [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser)  - 自由地解析日期时间字符串. 隐藏日期时间格式之间的差异，并允许将日期和时间作为一种日期时间格式进行管理.  [麻省理工][200].
-* [chronicity](https://github.com/chaitanyagupta/chronicity)  - 一种自然语言日期和时间解析，用于解析诸如“3 days from now”之类的字符串.  [BSD_3条款][15].
+* [chronicity](https://github.com/chaitanyagupta/chronicity)  - 一种自然语言日期和时间解析，用于解析诸如“从现在起 3 天”之类的字符串.  [BSD_3条款][15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
 建立在本地时间之上的持续时间处理库.  [麻省理工][200].
   * 看这个叉子： [humanize-duration](https://github.com/40ants/humanize-duration) ，它只输出持续时间对象的重要部分. 有本地化支持.
