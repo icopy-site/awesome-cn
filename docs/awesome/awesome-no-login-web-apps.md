@@ -118,7 +118,6 @@
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - 点对点安全文件共享.
-* [Ge.tt](http://ge.tt/)  - 文件托管服务. 最大限制 2gb.
 * [RGhost](http://rgho.st/) - 文件托管服务，最大限制 100mb 无需登录.
 * [ImgSafe](https://imgsafe.org/) - 带有小型直接链接的图像托管服务.
 * [Clyp](https://clyp.it/) - 无限制的音频共享，丰富的API.
@@ -248,7 +247,7 @@
 * [pForm](http://www.phpform.org/) - 通过简单的所见即所得 GUI 创建 HTML 表单并下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  - 用于处理 CSS 中供应商前缀的后处理器. 只需粘贴常规 CSS 即可立即获得供应商前缀处理的 CSS.
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
-* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图像.
+* [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
 * [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.

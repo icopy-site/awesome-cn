@@ -20,8 +20,8 @@
 - [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台，提供全面的 API 管理能力，让您轻松构建、运行和管理 API.
 - [Apigee](https://cloud.google.com/apigee) - 来自 Google 的领先 API 管理解决方案，提供全面的 API 管理功能，可帮助您轻松创建、保护和扩展 API.
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - 适用于所有环境的 API 的混合多云管理平台，使您能够轻松管理 API、保护它们并深入了解它们的性能.
-- [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward.
-- [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量、开源的API管理解决方案，提供全面的API管理能力，帮助您轻松管理API.
+- [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 来自 Torry Harris 的完整软件包，可帮助您管理 API 并将它们转化为可以推动业务发展的工具.
+- [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量、开源的API管理解决方案，提供全面的API管理能力，帮助您轻松管理您的API.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，允许您跨云创建、公开、管理 API 并从中获利.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 全面的服务连接平台，提供丰富的API管理能力，让您轻松管理API、微服务和服务网格.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理解决方案，提供全面的 API 管理功能并帮助您在 API 的整个生命周期内对其进行管理.
@@ -54,7 +54,7 @@
 - [OpenAPI Explorer](https://github.com/Rhosys/openapi-explorer) - 一种根据 OpenAPI 规范生成用户界面的工具，使软件工程师更容易可视化 API 并与之交互.
 - [RapiDoc](https://github.com/rapi-doc/RapiDoc) - 一种根据 OpenAPI 规范生成可定制的交互式 API 文档的工具，具有一系列设计选项.
 - [Redoc](https://github.com/Redocly/redoc) - 一个开源工具，用于从 OpenAPI (fka Swagger) 定义生成文档，具有可定制的主题、语言支持和品牌.
-- [Slate](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
+- [Slate](https://github.com/slatedocs/slate) - 一个强大的工具，可以从 markdown 创建静态 API 文档，以及 API 参考文档和代码示例.
 - [Stoplight Elements](https://github.com/stoplightio/elements)  - 由 OpenAPI 和 Markdown 提供支持的精美 API 文档. 使用这些 UI 组件创建 API 参考文档，或更完整的文档以及包含教程、操作指南等的 Markdown 文章.
 - [SwaggerHub](https://swagger.io/tools/swaggerhub/) - 为团队构建的集成 API 设计和文档平台，具有版本控制、测试自动化以及与流行的 API 工具的集成.
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - 用于探索 API 并与之交互的直观工具，具有 API 规范可视化、端点探索和内置交互式控制台.
@@ -66,8 +66,8 @@
 - [Apinto](https://github.com/eolinker/goku) - 基于 Golang 的微服务网关，提供动态路由、服务编排、多租户管理和 API 访问控制.
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - 一个 Kubernetes 原生 API 网关，通过其可定制的路由、身份验证和速率限制功能帮助大规模管理 API.
 - [Apache APISIX](https://github.com/apache/apisix) - 一个动态、实时和高性能的 API 网关，它利用 Apache 插件来增强功能.
-- [Gloo Edge](https://www.solo.io/products/gloo-edge/) - 基于 Envoy 代理的 API 网关，为现代微服务架构提供高级流量管理、安全性和可观察性功能.
-- [Kong API Gateway](https://github.com/Kong/kong) - 云原生、平台不可知且可扩展的 API 网关，支持插件以便与第三方服务轻松集成.
+- [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
+- [Kong API Gateway](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 - [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - 超高性能 API 网关，利用中间件进行快速高效的 API 管理.
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - 一个 .NET API 网关，通过其直观的路由和中间件配置提供了一种简单而优雅的 API 管理方式.
 - [Spring Cloud Gateway](https://github.com/spring-cloud/spring-cloud-gateway) - 构建在 Spring 生态系统之上的 API 网关，为 Spring 应用程序提供高级路由和过滤功能.
@@ -102,12 +102,12 @@
   - [Prism](https://github.com/stoplightio/prism) - 开源 HTTP 模拟服务器，可以模仿您的 API 行为，就好像您已经构建了它一样.
   - [WireMock](https://github.com/tomakehurst/wiremock) - 模拟您的 API 以进行快速、稳健和全面的测试.
 - 测试工具和框架
-  - [Apache JMeter](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
+  - [Apache JMeter](https://github.com/apache/jmeter) - 基于 Java 的开源负载测试工具，可用于测试 Web 应用程序、数据库和其他网络服务的性能和可扩展性.
   - [Gatling](https://github.com/gatling/gatling) - 一种开源负载测试工具，允许用户以代码形式编写和运行负载测试，提供详细的性能报告以优化系统性能.
   - [Karate](https://github.com/intuit/karate) - 将 API 测试自动化、模拟、性能测试甚至 UI 自动化组合到一个统一框架中的开源工具.
   - [Pyresttest](https://github.com/svanoort/pyresttest) - 用于轻松测试 REST 服务的 Java DSL.
   - [REST Assured](https://github.com/rest-assured/rest-assured) - 用于轻松测试 REST 服务的 Java DSL.
-  - [Schemathesis](https://github.com/schemathesis/schemathesis) - 用于 API 模式的基于属性的测试的 Python 库.
+  - [Schemathesis](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
   - [Taurus](https://github.com/Blazemeter/taurus) - 一个用于持续测试的开源框架，通过用户友好的界面简化测试执行和管理，并与各种测试工具和框架集成.
 
 <!--lint disable-->
@@ -126,7 +126,7 @@
 - [Appian BPM Suite](https://appian.com/platform/complete-automation/business-process-management-bpm.html) - 一个将低代码开发与流程管理相结合的平台，允许 IT 和公民开发人员构建以流程为中心和以案例为中心的应用程序.
 - [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - 一种用于协调业务流程、推动业务敏捷性和提高成本效率的工具.
 - [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - 用于开发和管理业务应用程序的综合业务流程管理平台.
-- [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - 用于开发、管理和使用以业务流程为中心的业务应用程序的集成环境.
+- [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - An integrated environment for developing, administering, and using business applications that are centered around business processes.
 - [Pega Platform](https://www.pega.com/products/platform) - 具有高级劳动力分析功能的业务流程管理和机器人流程自动化 (RPA) 平台.
 - [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - 应用程序开发平台，使开发人员和业务专家能够创建可自动化业务运营的云原生应用程序.
 - [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - 业务流程管理产品和应用程序基础架构. 
@@ -145,7 +145,7 @@
 <!--lint enable-->
 ### ESB
  *企业服务总线 (ESB) 解决方案通过提供允许它们交换信息的通信层来促进不同系统和应用程序的集成.  ESB 提供了一系列功能，例如消息路由、转换、协议转换和数据中介. 它们通常支持各种消息传递模式和通信协议，并提供用于管理和监控消息流量的集中平台. *
-- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - A comprehensive API management and integration platform that simplifies connecting applications from Mulesoft.
+- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - 一个全面的 API 管理和集成平台，可简化 Mulesoft 的应用程序连接.
 - [Apache ServiceMix](https://servicemix.apache.org/) - 一个开源集成容器，结合了 Apache ActiveMQ、Camel、CXF 和 Karaf 的功能，提供了一个灵活的解决方案.
 - [ArcESB](https://www.arcesb.com/integration/) - 一个多功能的集成平台，跨应用程序无缝同步数据，与合作伙伴集成，并提供数据可访问性.
 - [IBM App Connect](https://www.ibm.com/cloud/app-connect) - 一个可以连接应用程序的集成平台，无论它们使用何种消息格式或协议，以前称为 IBM Integration Bus.
@@ -194,8 +194,8 @@
 - [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/)  - 一个强大的企业数据管理平台，使组织能够超越基本集成并将数据转化为洞察力和行动. 软件工程师可以使用这个平台来管理数据和改善业务成果.
 - [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/)  - 一个强大的平台，可通过与任何 SaaS 或本地应用程序的预构建连接加快上线时间. 软件工程师可以使用这个平台来简化集成流程和操作.
 - [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform)  - 连接各种应用程序和数据环境的综合集成平台. 软件工程师可以使用该平台快速高效地集成数据和应用程序.
-- [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
-- [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration)  - 一个灵活的平台，使软件工程师能够通过 API 主导和事件驱动的集成来集成任何东西. 这个平台使每个人都能集成任何东西，使集成过程更快、更高效.
+- [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html)  - 一个多合一的集成平台，使软件工程师能够将他们的所有应用程序集成到一个平台中. 该平台简化了集成流程并提高了效率.
+- [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - A flexible platform that enables software engineers to integrate anything with API-led and event-driven integration. This platform empowers everyone to integrate anything, making integration processes faster and more efficient.
 - [Workato](https://www.workato.com/) - 用于整个组织的集成和工作流自动化的单一平台，为软件工程师提供了一个强大的平台来简化集成流程和简化操作.
 
 <!--lint disable-->
@@ -207,8 +207,8 @@
 - [Amazon SQS](https://aws.amazon.com/sqs)  - 一种完全托管的消息队列服务，使您能够分离和扩展微服务、分布式系统和无服务器应用程序. 它提供可靠、安全且高度可用的消息存储和传递系统.
 - [Amazon SNS](https://aws.amazon.com/sns)  - 一种完全托管的发布/订阅消息服务，使您能够在分布式系统、微服务和事件驱动的无服务器应用程序之间发送和接收消息. 它提供了一种灵活、可扩展且经济高效的方式来通知订阅者事件和消息.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka)  - 一项完全托管的 Apache Kafka 服务，可为您的应用程序提供高吞吐量、低延迟和高可用性的消息流. 它提供与其他阿里云服务的轻松集成和无缝数据迁移.
-- [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq) - A distributed and fully managed messaging service that provides high scalability, low latency, and high throughput for your applications. It offers flexible deployment options, easy management, and robust security features.
-- [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service)  - 分布式消息传递和通知服务，支持应用程序和分离系统之间的并发操作和消息传输. 它为您的消息传递需求提供高可靠性、可扩展性和容错能力.
+- [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq)  - 分布式和完全托管的消息传递服务，可为您的应用程序提供高可扩展性、低延迟和高吞吐量. 它提供灵活的部署选项、轻松的管理和强大的安全功能.
+- [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service)  - 分布式消息和通知服务，支持应用程序和分离系统之间的并发操作和消息传输. 它为您的消息传递需求提供高可靠性、可扩展性和容错能力.
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq)  - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信. 它为您的消息流需求提供高可用性、可扩展性和持久性.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue)  - 与 Anypoint 平台完全集成的企业级云消息服务. 它提供灵活可靠的消息传递基础架构，使您能够集成和编排您的应用程序和系统.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - 可靠的云消息服务，提供多种消息模式，例如发布/订阅和请求/响应，并支持一系列协议和标准.
@@ -283,24 +283,24 @@
  *自助服务和公民集成器工具旨在使非技术用户无需广泛的编程知识即可构建集成. 这些工具通常具有用于流行应用程序和服务的拖放式界面和预建连接器. *
 
 - [IFTTT](https://ifttt.com/) - 一个强大的自助服务和公民集成工具，使用户能够通过使用条件语句连接多个 Web 服务来创建自定义工作流程，从而轻松提高生产力.
-- [Microsoft Power Automate](https://powerautomate.microsoft.com) - 这种基于云的服务提供了一个用户友好的界面，可以无缝地创建自动化工作流程，轻松集成不同的应用程序和服务，简化复杂的任务.
+- [Microsoft Power Automate](https://powerautomate.microsoft.com) - This cloud-based service offers a user-friendly interface to create automated workflows seamlessly, integrating different applications and services with ease, simplifying complex tasks.
 - [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - 使用 Oracle 的自助服务集成工具轻松地在各种云应用程序之间自动执行任务，提供无缝且高效的集成过程.
 - [Zapier](https://zapier.com/) - 一种直观的自动化工具，可连接数百个 Web 服务，轻松创建流程之间的自动化，简化任务并提高整体生产力.
 
 <!--lint disable-->
 <!--lint enable-->
 ### Workflow engine
- *支持复杂工作流或业务流程的设计、执行和监控的软件工具. 工作流引擎提供了一种自动化和简化业务流程的方法，而编排引擎有助于管理不同系统或服务之间的交互. *
+*Software tools that enable the design, execution, and monitoring of complex workflows or business processes. Workflow engines provide a way to automate and streamline business processes, while orchestration engines help to manage the interactions between different systems or services.*
 - [Activiti](https://github.com/Activiti/Activiti) - 用于执行 BPMN（业务流程模型和表示法）工作流的轻量级和以 Java 为中心的开源引擎.
 - [Apache Airflow](https://github.com/apache/airflow) - 一个平台，允许您以编程方式创建、安排和监控工作流，从而更轻松地管理和自动化复杂的数据管道.
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) - 一个开源的容器原生工作流引擎，旨在在 Kubernetes 上编排并行作业，从而更轻松地在云原生环境中管理和自动化复杂的工作流.
-- [Azkaban](https://github.com/azkaban/azkaban) - 一个分布式工作流管理器，帮助解决Hadoop作业依赖问题，使得在大规模数据处理环境中更容易调度和管理工作流.
+- [Azkaban](https://github.com/azkaban/azkaban) - 分布式工作流管理器，帮助解决Hadoop作业依赖问题，使得在大规模数据处理环境中更容易调度和管理工作流.
 - [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有设计器和可选开发环境的开源 BPMN 引擎，可以更轻松地构建和自动化复杂的业务流程.
 - [Cadence](https://github.com/uber/cadence) - 一个容错的、有状态的代码平台，可以更轻松地构建和管理复杂的、长时间运行的应用程序.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台，可帮助您以灵活且可扩展的方式自动化业务流程和决策.
 - [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在在微服务架构中运行和管理工作流.
 - [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个库，可以在任何 .NET Core 应用程序中执行工作流，从而更容易在 .NET 环境中自动化业务流程.
-- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式实现业务流程自动化.
+- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式自动化业务流程.
 - [jBPM](https://github.com/kiegroup/jbpm) - 用于构建业务应用程序的工具包，可帮助您自动化业务流程和决策，从而更轻松地管理复杂的工作流程.
 - [StackStorm](https://github.com/StackStorm/st2) - 一个强大的自动化引擎，提供传感器、触发器、规则、工作流和操作，以帮助您自动化和编排复杂的工作流和应用程序.
 
@@ -332,7 +332,7 @@
 - [Envelope Wrapper](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EnvelopeWrapper.html) - 现有系统如何参与对消息格式提出特定要求（例如消息头字段或加密）的消息交换？  
 - [Event Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventMessage.html) - 如何使用消息传递将事件从一个应用程序传输到另一个应用程序？
 - [Event-Driven Consumer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EventDrivenConsumer.html) - 应用程序如何在消息可用时自动使用它们？
-- [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - 如何设计消息的数据格式以允许将来可能发生的变化？
+- [Format Indicator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FormatIndicator.html) - How can a message`s data format be designed to allow for possible future changes?
 - [Guaranteed Delivery](https://www.enterpriseintegrationpatterns.com/patterns/messaging/GuaranteedMessaging.html) - 即使消息传递系统出现故障，发件人如何确保消息能够送达？
 - [Idempotent Receiver](https://www.enterpriseintegrationpatterns.com/patterns/messaging/IdempotentReceiver.html) - 消息接收者如何处理重复消息？
 - [Invalid Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/InvalidMessageChannel.html) - 消息接收者如何优雅地处理接收到的毫无意义的消息？
@@ -370,7 +370,7 @@
 - [Splitter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html) - 如果消息包含多个元素，我们如何处理消息，每个元素可能必须以不同的方式处理？  
 - [Test Message](https://www.enterpriseintegrationpatterns.com/patterns/messaging/TestMessage.html) - 但是，如果组件正在积极处理消息，但由于内部故障而使传出的消息出现乱码，会发生什么情况？  
 - [Transactional Client](https://www.enterpriseintegrationpatterns.com/patterns/messaging/TransactionalClient.html) - 客户端如何控制其与消息系统的交易？  
-- [Wire Tap](https://www.enterpriseintegrationpatterns.com/patterns/messaging/WireTap.html) - 您如何检查在点对点通道上传输的消息？  
+- [Wire Tap](https://www.enterpriseintegrationpatterns.com/patterns/messaging/WireTap.html) - How do you inspect messages that travel on a point-to-point channel?  
 
 <!--lint disable-->
 <!--lint enable-->
@@ -421,7 +421,7 @@
         - [Id Element](https://microservice-api-patterns.org/patterns/structure/elementStereotypes/IdElement)  - 如何在设计时和运行时区分 API 元素？ 在应用领域驱动设计时，如何识别发布语言的元素？
         - [Link Element](https://microservice-api-patterns.org/patterns/structure/elementStereotypes/LinkElement) - 如何在请求和响应消息有效负载中引用 API 端点和操作，以便可以远程调用它们？
     - 特殊目的陈述
-        - [API Key](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/APIKey) - How can an API provider identify and authenticate clients and their requests?
+        - [API Key](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/APIKey) - API 提供者如何识别和验证客户及其请求？
         - [Error Report](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/ErrorReport)  - API 提供者如何通知其客户有关通信和处理错误的信息？ 如何使这些信息独立于底层通信技术和平台（例如，表示状态代码的协议级标头）？
         - [Context Representation](https://microservice-api-patterns.org/patterns/structure/specialPurposeRepresentations/ContextRepresentation)  - API 消费者和提供者如何在不依赖任何特定远程协议的情况下交换上下文信息？ 如何使请求中的身份信息和质量属性对会话中的相关后续对象可见？
 - 质量
@@ -456,8 +456,8 @@
 - 基础库存模式
    - [Canonical Protocol](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_protocol) - 定义服务之间的通用通信协议以实现互操作性和解耦.
    - [Canonical Schema](https://patterns.arcitura.com/soa-patterns/design_patterns/canonical_schema) - 定义用于在服务之间交换数据的标准数据模型和格式.
-   - [Domain Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/domain_inventory) - 识别和分类特定域内的服务类型.
-   - [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - 识别和分类特定域内的服务类型.
+   - [Domain Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/domain_inventory) - Identifies and categorizes the types of services within a particular domain.
+   - [Enterprise Inventory](https://patterns.arcitura.com/soa-patterns/design_patterns/enterprise_inventory) - Identifies and categorizes the types of services within a particular domain.
    - [Logic Centralization](https://patterns.arcitura.com/soa-patterns/design_patterns/logic_centralization) - 将业务逻辑集中在服务层中以减少冗余并提高一致性.
    - [Service Layers](https://patterns.arcitura.com/soa-patterns/design_patterns/service_layers) - 将业务逻辑集中在服务层中以减少冗余并提高一致性.
    - [Service Normalization](https://patterns.arcitura.com/soa-patterns/design_patterns/service_normalization) - 将业务逻辑集中在服务层中以减少冗余并提高一致性.
@@ -511,7 +511,7 @@
    - [Exception Shielding](https://patterns.arcitura.com/soa-patterns/design_patterns/exception_shielding) - 通过正确处理异常来防止安全漏洞.
    - [Message Screening](https://patterns.arcitura.com/soa-patterns/design_patterns/message_screening) - 筛选邮件中的恶意内容.
    - [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - 保护服务边界以防止未经授权的访问.
-   - [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - 在子系统之间建立信任以提高安全性.
+   - [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - Establishes trust between subsystems for improved security.
 
 - 服务契约设计模式
    - [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - 允许多个版本的服务合同同时共存.
@@ -521,7 +521,7 @@
    - [Validation Abstraction](https://patterns.arcitura.com/soa-patterns/design_patterns/validation_abstraction) - 抽象验证逻辑以提高可重用性和可维护性.
 
 - 遗留封装模式
-   - [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - Provides a gateway to access legacy file-based systems.
+   - [File Gateway](https://patterns.arcitura.com/soa-patterns/design_patterns/file_gateway) - 提供访问遗留的基于文件的系统的网关.
    - [Legacy Wrapper](https://patterns.arcitura.com/soa-patterns/design_patterns/legacy_wrapper) - 包装遗留系统以将它们公开为服务.
    - [Multi-Channel Endpoint](https://patterns.arcitura.com/soa-patterns/design_patterns/multi_channel_endpoint) - 提供多种通信渠道来访问遗留系统.
 
@@ -563,7 +563,7 @@
    - [Data Origin Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/data_origin_authentication) - 验证消息的来源.
    - [Direct Authentication](https://patterns.arcitura.com/soa-patterns/design_patterns/direct_authentication) - 直接验证客户端.
 
-- Transformation Patterns
+- 转换模式
    - [Data Format Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_format_transformation) - 转换数据格式以实现互操作性.
    - [Data Model Transformation](https://patterns.arcitura.com/soa-patterns/design_patterns/data_model_transformation) - 转换数据模型以实现互操作性.
    - [Protocol Bridging](https://patterns.arcitura.com/soa-patterns/design_patterns/protocol_bridging) - 不同协议之间的桥梁以实现互操作性.
@@ -592,7 +592,7 @@
 <!--lint disable-->
 <!--lint enable-->
 ### Articles
-- [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​从跨多个团队进行大规模 RESTful 集成中吸取的经验教训.
+- [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
 - [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 提出.
 
 <!--lint disable-->
@@ -649,14 +649,14 @@
 - [MuleSoft Certified Developer - Level 1](https://training.mulesoft.com/certification/developer-mule4-level1) - 验证您使用 MuleSoft 设计、构建、测试和调试、部署和管理基本 API 和集成的知识和技能.
 - [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - 验证您在生产就绪的 Mule 应用程序上工作的能力，这些应用程序可以解决和平衡关键的非功能性需求，包括监控、性能、可维护性、可靠性和安全性.
 - [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - 验证您将功能和非功能需求转化为集成接口和实现的知识和技能.
-- [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - 验证您的知识和技能，以使用 Anypoint Platform 在整个组织中使用 API 主导的连接后，从单个集成解决方案中引导有效应用程序网络的出现.
+- [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - Validate your knowledge and skills to direct the emergence of an effective application network out of individual integration solutions following API-led connectivity across an organization using Anypoint Platform.
 
 </details>
 <details>
 <summary>Oracle</summary>
 
 - [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - 验证您在实施 Oracle BPM Suite 12c 解决方案方面的专业知识.
-- [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
+- [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - 验证您对 Oracle Application Integration 的理解以实施这些云服务.
 - [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - 验证您在销售或实施 Oracle Data Integration 12c 解决方案方面的专业知识.
 - [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - 验证您在实施基于 Oracle SOA Suite 12c 的解决方案方面的专业知识.
 
@@ -699,6 +699,28 @@
 - [TIBCO Messaging Certified Professional](https://www.tibco.com/services/education/certification/tibco-messaging-certified-professional-exam) - 验证使用 TIBCO Messaging 及其组件所需的技能和知识，包括 TIBCO Enterprise Message Service (EMS)、TIBCO FTL 和 TIBCO eFTL.
   
 </details>
+<details>
+<summary>Workato</summary>
+
+- [Workato Automation Pro I](https://academy.workato.com/enterprise-automation-i-exam) - 业务自动化流程的基础知识.
+- [Workato Automation Pro II](https://academy.workato.com/enterprise-automation-ii-exam) - 先进实用的自动化方法.
+- [Workato Automation Pro III](https://academy.workato.com/automation-pro-iii-exam) - 深入系列的徽章模块，以最大限度地发挥 Workato 的潜力.
+
+</details>
+<details>
+<summary>WSO2</summary>
+
+- [WSO2 Certified API Manager Developer - V3](https://wso2.com/training/certification/certified-api-manager-developer/) - 评估您使用 WSO2 API Manager V3 设计、开发和发布 API 的专业知识，包括 API 生命周期管理、访问控制和 API 文档.
+- [WSO2 Certified API Manager Developer - V4 - Micro Integrator Profile](https://wso2.com/training/certification/certified-api-manager-developer-v4-micro-integrator-profile/)  - 使用 WSO2 API Manager V4 的 Micro Integrator 配置文件验证您在设计、开发和发布 API 方面的专业知识. 它涵盖了 Micro Integrator 上下文中的 API 生命周期管理、访问控制和 API 文档.
+- [WSO2 Certified API Manager Expert - V3](https://wso2.com/training/certification/certified-api-manager-expert/) - 确认您使用 WSO2 API Manager V3 进行 API 管理的高级技能和知识，包括 API 创建、发布、安全、策略实施和分析.
+- [WSO2 Certified API Manager Expert - V4 - API Management Profile](https://wso2.com/training/certification/api-manager-expert-v4-api-management-profile/) - 证明您熟练使用 WSO2 API Manager V4 执行 API 管理任务，例如创建、发布和保护 API，以及实施策略和分析.
+- [WSO2 Certified Enterprise Integrator Developer - V6](https://wso2.com/training/certification/certified-enterprise-integrator6-developer/) - 验证您使用 WSO2 Enterprise Integrator V6 开发、部署和管理集成解决方案的能力，包括其组件的知识，例如 ESB 配置文件、消息代理和业务流程服务器.
+- [WSO2 Certified Enterprise Integrator Developer - V7 - Micro Integrator](https://wso2.com/training/certification/certified-enterprise-integrator-developer-micro-integrator/) - 验证您使用 WSO2 Enterprise Integrator V7 的 Micro Integrator 配置文件开发、部署和管理集成解决方案的知识和技能.
+- [WSO2 Certified Enterprise Integrator Developer - V7 - Streaming Integrator](https://wso2.com/training/certification/certified-enterprise-integrator-developer-streaming-integrator/) - 展示您使用 WSO2 Enterprise Integrator V7 的 Streaming Integrator 配置文件开发、部署和管理实时数据集成和流分析解决方案的专业知识.
+- [WSO2 Certified Enterprise Integrator Expert - V6](https://wso2.com/training/certification/certified-enterprise-integrator6-expert/) - 测试您在复杂集成场景中使用 WSO2 Enterprise Integrator V6 的深入知识和技能，包括最佳实践、故障排除和性能调整.
+- [WSO2 Certified Solutions Architect Associate](https://wso2.com/training/certification/certified-solutions-architect-associate/) - 评估您对 WSO2 产品架构的基本概念和原则的理解，以及您使用 WSO2 技术设计和实施解决方案的能力.
+
+</details>
 
 <!--lint disable-->
 <!--lint enable-->
@@ -723,14 +745,14 @@
 <!--lint enable-->
 ### Integration Styles
 - [File Transfer](https://www.enterpriseintegrationpatterns.com/patterns/messaging/FileTransferIntegration.html) - 数据通过应用程序之间的文件交换进行交换.
-- [Messaging](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html) - Applications exchange messages using a messaging infrastructure.
+- [Messaging](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Messaging.html) - 应用程序使用消息传递基础设施交换消息.
 - [Remote Procedure Invocation](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html) - 应用程序通过网络调用远程服务器上的函数或过程.
-- [Shared Database](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html) - Multiple applications access and manipulate the same data through a common database.
+- [Shared Database](https://www.enterpriseintegrationpatterns.com/patterns/messaging/SharedDataBaseIntegration.html) - 多个应用程序通过一个公共数据库访问和操作相同的数据.
 
 <!--lint disable-->
 <!--lint enable-->
 ### Market Analysis
-- API Management
+- API管理
   - [Gartner Critical Capabilities for Full Life Cycle API Management](https://www.gartner.com/doc/code/468184)
   - [Gartner Magic Quadrant for Full Life Cycle API Management](https://www.gartner.com/doc/code/464116)
   - [The Forrester Wave: API Management Solutions](https://www.forrester.com/go?objectid=RES159081)

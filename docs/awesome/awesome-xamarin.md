@@ -266,7 +266,6 @@ Xamarin Android/iOS/Windows/OSX 的主观现代/有趣且理想的开源库/工�
 - [Swipecards ★80](https://github.com/robinmanuelthiel/swipecards) - A Tinder-like swipe control for Xamarin.Forms.
 - [Toasts Plugin ★208](https://github.com/EgorBo/Toasts.Forms.Plugin) - 在 Xamarin.Forms 应用程序中显示一些通知的简单方法.
 - [TwinTechsFormsLib ★187](https://github.com/twintechs/TwinTechsFormsLib) - 快速细胞、快速图像、快速网格细胞.
-- [Web Atoms for Xamarin.Forms](https://www.webatoms.in/index.html) - 用 JSX/JavaScript 编写 Xamarin.Forms 应用程序，轻松发布新版本，用几行代码集成现有应用程序，使用 MVVM 进行生产代码推送
 - [XamarinControls ★17](https://github.com/Intelliabb/XamarinControls) - Xamarin 和 Xamarin.Forms 的跨平台控件（使用 SkiaSharp 的复选框）.
 - [Xamarin-Forms-Labs ★1,392](https://github.com/XLabs/Xamarin-Forms-Labs) - 强大的跨平台控件和助手集.
 - [xamarin-forms-xna ★7](https://github.com/jvlppm/xamarin-forms-xna) - Xamarin.Forms 的 Monogame 包装器.

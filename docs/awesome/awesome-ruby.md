@@ -37,7 +37,7 @@
 
 ## API Builder and Discovery
 
-* [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - JSON serialization of objects.
+* [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - 对象的 JSON 序列化.
 * [Acts_As_Api](https://github.com/fabrik42/acts_as_api) - 轻松有趣，在 Rails 3、4、5 和 6 中创建 XML/JSON 响应.
 * [Alba](https://github.com/okuramasafumi/alba) - 用于 Ruby、JRuby 和 TruffleRuby 的 JSON 序列化程序.
 * [Blanket](https://github.com/inf0rmer/blanket) - 一个简单的 API 包装器.
@@ -61,7 +61,7 @@
 
 ## Assets
 
-* [Asset Sync](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
+* [Asset Sync](https://github.com/AssetSync/asset_sync) - 在 Rails 和 S3 之间同步资产.
 * [Autoprefixer](https://github.com/ai/autoprefixer-rails) - 通过 Can I Use 解析 CSS 并将供应商前缀添加到规则中.
 * [Bourbon](https://github.com/thoughtbot/bourbon) - 轻量级 Sass 工具集.
 * [bower-rails](https://github.com/rharriso/bower-rails) - Bower 支持 Rails 项目.
@@ -77,6 +77,7 @@
 ## Authentication and OAuth
 
 * [API Guard](https://github.com/Gokul595/api_guard) - Rails API 的 JWT 身份验证解决方案.
+* [Authentication Zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 * [Authlogic](https://github.com/binarylogic/authlogic) - Authlogic 是一种干净、简单且不显眼的 ruby​​ 身份验证解决方案.
 * [Clearance](https://github.com/thoughtbot/clearance) - Rails 的基于电子邮件和密码的小而简单的身份验证.
 * [Devise](https://github.com/heartcombo/devise) - 基于 Warden 的灵活的 Rails 身份验证解决方案.
@@ -98,7 +99,7 @@
 * [ActionPolicy](https://github.com/palkan/action_policy)  - Ruby 和 Rails 应用程序的授权框架. 可组合、可扩展和高性能.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - CanCan 的延续，Ruby on Rails 的授权 Gem.
 * [Consul](https://github.com/makandra/consul) - 用于 Ruby on Rails 的基于范围的授权解决方案.
-* [Pundit](https://github.com/elabs/pundit) - 通过 OO 设计和纯 Ruby 类实现最小授权.
+* [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
 ## Automation
 
@@ -175,7 +176,7 @@
 * [Tabulo](https://github.com/matt-harvey/tabulo) - 带有 DRY、基于列的 API 的纯文本表格生成器.
 * [TablePrint](https://github.com/arches/table_print) - 将您的数据从多个数据库表切入单个 CLI 视图.
 * [Terminal Table](https://github.com/tj/terminal-table) - Ruby ASCII 表生成器，简单且功能丰富.
-* [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - 轻松创建和管理复杂的 tmux 会话.
+* [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 * [Whirly](https://github.com/janlelis/whirly) - 一个简单、丰富多彩且可自定义的 Ruby 终端微调器库.
 
 ## Cloud
@@ -295,7 +296,7 @@
 * [normalize_country](https://github.com/sshaw/normalize_country) - 将国家名称和代码转换为标准，包括用于 XML、CSV 和 DB 的转换程序.
 * [Phonelib](https://github.com/daddyz/phonelib) - 使用 Google libphonenumber 库数据进行电话验证和格式化的 Ruby gem.
 * [Phony](https://github.com/floere/phony) - 快速国际电话号码（E164 标准）归一化、拆分和格式化.
-* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) - Rails 的邮政编码/邮政编码验证，支持 233 个国家/地区代码.
 
 ## CRM
 
@@ -361,7 +362,7 @@
 * [Scenic](https://github.com/thoughtbot/scenic) - Rails 的版本化数据库视图.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) - SchemaPlus 为 ActiveRecord 提供了一系列增强和扩展
 * [SecondBase](https://github.com/customink/secondbase)  - Rails 的无缝第二个数据库集成.  SecondBase 通过扩展创建、迁移和测试应用程序的 ActiveRecord 任务来支持 Rails 管理双数据库.
-* [Seedbank](https://github.com/james2m/seedbank) - Seedbank 允许您构建 Rails 种子数据，而不是将其全部转储到一个大文件中.
+* [Seedbank](https://github.com/james2m/seedbank) - Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file.
 * [Seed dump](https://github.com/rroblak/seed_dump) - Rails 4 任务将您的数据库（部分）转储到 db/seeds.rb.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) - 用于 Rails 的高级种子数据处理.
 * [Standby](https://github.com/kenn/standby) - 从备用数据库读取 ActiveRecord（以前称为 Slavery）.
@@ -481,7 +482,7 @@
 * [Bookshop](https://github.com/worlduniting/bookshop) - Bookshop 是一个面向作者、编辑的开源敏捷图书开发和出版框架.
 * [Gepub](https://github.com/skoji/gepub) - 用于 Ruby 的通用 EPUB 库：支持 EPUB 3.
 * [Mobi](https://github.com/jkongie/mobi) - 一种读取 MOBI 格式元数据的 Ruby 方法.
-* [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system.
+* [Review](https://github.com/kmuto/review) - Re:VIEW 是灵活的文档格式/转换系统.
 
 ## Email
 
@@ -532,7 +533,7 @@
 * [Exception Notification](https://github.com/smartinez87/exception_notification) - 一组通知程序，用于在 Rack/Rails 应用程序中发生错误时发送通知.
 * [Honeybadger](https://www.honeybadger.io/) - Ruby 的异常、正常运行时间和性能监控.
 * [Nesty](https://github.com/skorks/nesty) - Ruby 的嵌套异常.
-* [Raven Ruby](https://github.com/getsentry/raven-ruby) - Raven 是 Sentry 的 Ruby 客户端.
+* [Sentry Ruby](https://github.com/getsentry/sentry-ruby) - Sentry 的 Ruby 客户端.
 * [Rollbar](https://github.com/rollbar/rollbar-gem) - 为您的应用程序提供简单而强大的异常和错误跟踪.
 
 ## Event Sourcing
@@ -999,7 +1000,7 @@
 * [SciRuby](https://github.com/sciruby/sciruby) - Ruby/Rails 中的科学计算工具.
   * [IRuby](https://github.com/SciRuby/iruby) - 用于 Jupyter 的 Ruby 内核.
   * [statsample](https://github.com/sciruby/statsample) - 用于 Ruby 基本和高级统计的套件.
-  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
+  * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) - Bioruby 统计样本时间序列.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) - Statsample 的广义线性模型扩展.
   * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
   * [minimization](https://github.com/sciruby/minimization) - 纯 Ruby 上的最小化算法.
@@ -1009,7 +1010,7 @@
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个 ruby​​ 库，它实现了用于决策树学习的 ID3（信息增益）算法.
 * 公用事业
   * [algorithms](https://github.com/kanwei/algorithms) - 包含有关何时使用特定结构/算法的文档的库.
-  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持 UTF-8 字符串的 Jaro-Winkler 距离算法的 Ruby &amp; C 实现.
+  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持 UTF-8 字符串的 Jaro-Winkler 距离算法的 Ruby 和 C 实现.
   * [primes-utils](https://github.com/jzakiya/primes-utils) - 一个 Rubygem，它提供了一套用于测试和生成素数的极其快速的实用方法.
   * [Roots](https://github.com/jzakiya/roots) - 一个 Rubygem，它提供实用程序来查找实数和复数的所有 n 次根.
   * [smarter_csv](https://github.com/tilo/smarter_csv) - Ruby Gem 用于更智能地将 CSV 文件导入为哈希数组.
@@ -1024,7 +1025,7 @@
 * [pg_search](https://github.com/Casecommons/pg_search) - 构建利用 PostgreSQL 的全文搜索的 ActiveRecord 命名范围.
 * [ransack](https://github.com/activerecord-hackery/ransack/) - Object-based searching.
 * [Rroonga](https://github.com/ranguba/rroonga) - Groonga 的 Ruby 绑定.
-* [scoped_search](https://github.com/wvanbergen/scoped_search) - Adds a scope supporting search queries and autocompletion against existing fields on ActiveRecord models and associations.
+* [scoped_search](https://github.com/wvanbergen/scoped_search) - 添加一个范围，支持针对 ActiveRecord 模型和关联上的现有字段进行搜索查询和自动完成.
 * [SearchCop](https://github.com/mrkamel/search_cop) - 扩展您的 ActiveRecord 模型以支持全文搜索引擎，例如通过简单查询字符串和基于散列的查询进行的查询.
 * [Searchkick](https://github.com/ankane/searchkick)  - Searchkick 了解您的用户正在寻找什么. 随着越来越多的人搜索，它变得越来越智能，结果也越来越好. 它对开发人员很友好——对您的用户来说很神奇.
 * [Sunspot](https://github.com/sunspot/sunspot) - 用于与 Solr 搜索引擎进行富有表现力的强大交互的 Ruby 库.
@@ -1132,13 +1133,13 @@
   * [Cucumber](https://github.com/cucumber/cucumber) - BDD 首先与领域专家交谈，然后再与代码交谈.
   * [Cutest](https://github.com/djanowski/cutest) - Ruby 中的独立测试.
   * [Fix](https://github.com/fixrb/fix) - Ruby 规范框架.
-  * [Howitzer](https://github.com/strongqa/howitzer) - 基于 Ruby 的验收测试框架
+  * [Howitzer](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
   * [minitest](https://github.com/seattlerb/minitest) - minitest 提供了一套完整的测试工具，支持 TDD、BDD、模拟和基准测试.
   * [Mocha](https://github.com/freerange/mocha) - Mocha 是一个用于 Ruby 的模拟和存根库.
   * [RR](https://github.com/rr/rr) - 一个测试双重框架，具有丰富的双重技术选择和简洁的语法.
-  * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供 Test::Unit- 和 RSpec-compatible one-liners 来测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
+  * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  - 提供与 Test::Unit 和 RSpec 兼容的单行代码，用于测试常见的 Rails 功能. 否则这些测试会更长、更复杂并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) - Spinach 是一个高级 BDD 框架，它利用富有表现力的 Gherkin 语言（由 Cucumber 使用）来帮助您定义应用程序或库的验收标准的可执行规范.
-  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在准确提供有效且轻松地测试精心设计的代码所需的内容.
+  * [TestBench](https://github.com/test-bench/test-bench) - TestBench 是 Ruby 和 MRuby 的原则性测试框架，旨在提供有效且轻松地测试精心设计的代码所需的精确内容.
   * [Test::Unit](http://test-unit.github.io) - Test::Unit 是一个用于 Ruby 的 xUnit 系列单元测试框架.
 * 假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.

@@ -15,8 +15,8 @@
 
 - [r/fishshell](https://www.reddit.com/r/fishshell) - Reddit 聚会
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell) - 来和我们聊天吧！
-- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)  - 有问题吗？ 我们有答案
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) - 鱼的美味食谱
+- [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)  - 有问题吗？ 我们有答案！
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) - 从贝壳到盘子：品尝鱼的美味 
 
 ## Prompts
 
