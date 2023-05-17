@@ -23,7 +23,7 @@
 - [Webatoms](https://www.webatoms.in) - Xamarin.Forms 的 JavaScript 桥.
 - [Creative Tim](https://www.creative-tim.com/) - React、Angular、Vue、Lavarel 和 HTML5 的主题.
 - [Syncfusion](https://www.syncfusion.com/) - 数据可视化组件和 PDF 查看器.
-- [CoreUI](https://coreui.io/pro/vue) - Vue 管理模板.
+- [CoreUI](https://coreui.io/pro/vue) - Vue admin template.
 - [UIfort](https://uifort.com/) - 适用于所有主要前端框架的 UI 设计系统.
 - [Semantic UI](https://semantic-ui.com/) - 用于 React、Meteor、Ember 和 Angular 的开源 UI 组件库.
 - [Design Revision's Shards Pro](https://designrevision.com/downloads/shards-pro) - 为网络或移动应用程序设计块.
@@ -39,6 +39,7 @@
 
 ## Auth
 - [Auth0](https://auth0.com/) - 身份验证管理，原生支持 Angular、React 和 VueJS.
+- [Clerk](https://clerk.com) – 完整的用户管理 UI 和 API，专为 React、Next.js 和现代网络而构建.
 - [Firebase](https://firebase.google.com) - 来自 Google 的 PaaS，包括身份验证管理.
 - [Okta](https://www.okta.com/) - 支持 Angular、React 和 VueJS 的身份验证和授权解决方案.
 - [Onelogin](https://www.onelogin.com/) - 认证侧重于公司内部应用.
@@ -93,7 +94,7 @@
 - [Consent Management Provider](https://www.consentmanager.de/) - 用于 Cookie 同意的德国管理工具.
 - [UniConsent](https://www.uniconsent.com/) - 符合 GDPR、CCPA、COPPA 合规性的同意管理平台.
 - [TrustArc](https://trustarc.com/) - CCPA、GDPR、LGPD 和 900 多项其他全球法规的隐私管理.
-- [Cookiebot](https://www.cookiebot.com/) - Cookie tracking manager.
+- [Cookiebot](https://www.cookiebot.com/) - Cookie 跟踪管理器.
 - [iubenda](https://www.iubenda.com/) - 同意管理和条款和条件生成器.
 - [Civic Cookie Control](https://www.civicuk.com/cookie-control/) - 更小的 Cookie 和 GDPR 合规产品.
 - [CCM19](https://www.ccm19.de/) - 德国 cookie 许可管理器.

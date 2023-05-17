@@ -10,6 +10,7 @@
 * [AI Jobs](https://aijobs.app) – 人工智能 (AI) 领域的工作
 * [ai-jobs.net](https://ai-jobs.net/) - 人工智能和大数据领域的工作
 * [thrive](https://thriveml.com) - 顶级人工智能公司和初创公司的工作
+* [Best AI Jobs](https://bestaijobs.com) - 来自 100 多家 AI 初创公司的最佳 AI 工作
 
 ## Big Data
 
@@ -31,10 +32,6 @@
 ## Cloud
 
 * [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes 和云原生作业
-
-## Customer Support
-
-* [Support Driven Jobs](https://jobs.supportdriven.com/)
 
 ## Design
 
@@ -87,6 +84,7 @@
 ### Aggregator
 
 * [findwork.dev](https://findwork.dev/)
+* [Levels.fyi](https://www.levels.fyi/jobs)
 
 ### Clojure
 
@@ -95,10 +93,6 @@
 ### Full-Stack
 
 * [Full-Stack Developer Jobs](https://fullstackjob.com/) - 全栈开发人员的工作板
-
-### Frontend
-
-* [Frontend Careers](https://frontendcareers.com/) - 前端开发人员的工作板
 
 ### Functional
 
@@ -191,7 +185,6 @@
 ## Tech
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
-* [GOODJOBS](https://goodjobs.careers/) - 一个工作委员会，在试图解决气候变化和食品不安全等问题的公司中精心挑选工程职位
 * [Relocate.me](https://relocate.me/) - 经过验证的搬迁包
 * [underpin](https://www.underpin.company/) - 来自实际招聘人员的技术工作和求职建议
 
@@ -214,5 +207,5 @@
 * [Write the Docs Job Board](https://jobs.writethedocs.org/) - 为关心文档的人提供的工作
 
 ## Various
-* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关工作
+* [WorkInGreen.jobs](https://workingreen.jobs/) - 绿色科技相关职位
 * [Privacy-First Jobs](https://privacyfirstjobs.com/) – 在隐私至上的公司和组织中工作.

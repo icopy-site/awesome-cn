@@ -80,7 +80,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -114,6 +114,11 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [AlgoKit CLI](https://github.com/algorandfoundation/algokit-cli)  - Algorand AlgoKit CLI 是开发人员在 Algorand 网络上构建的一站式商店工具. 由 Algorand 基金会维护的官方工具.
 - [tealinspector](https://github.com/Hipo/tealinspector) - 由 Hipo 实验室快速轻松地调试 TEAL 代码.
+
+### AlgoKit Templates
+
+- [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - 官方 AlgoKit 烧杯模板为开发和部署烧杯智能合约提供了生产就绪基线.
+- [algokit-tealish-template](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit 社区模板，用于使用 tealish 和 algojig 快速启动智能合约项目.
 
 ### Languages
 
@@ -164,7 +169,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### .NET
 
-- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
+- [dotnet-algorand-sdk](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK 由 [@RileyGe](https://github.com/RileyGe).
 - [unity-algorand-sdk](https://github.com/CareBoo/unity-algorand-sdk)  - 适用于 Unity 的 Algorand SDK. 在您的视频游戏中使用 Algorand 区块链.
 - [unity-algorand-sdk-based-on-net-sdk](https://github.com/Vytek/AlgorandUnitySDK) - RileyGe 基于 .NET Algorand SDK 的快速而肮脏的 Unity SDK.
 - [dotnet-alogrand-sdk (2)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK 维护者 [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
@@ -183,7 +188,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### Ruby
 
-- [TEALrb](https://github.com/joe-p/TEALrb) - 用于编写 Algorand 智能合约的 Ruby DSL.
+- [TEALrb](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts.
 
 ### IDEs
 
@@ -291,7 +296,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Security Auditing Services
 
-> This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.
+ &gt; 本节并非旨在宣传以下任何公司，请在研究可用于审计的选项时尽职调查. 相反，以下只是旨在强调越来越多的公司为 Algorand 生态系统提供智能合约审计.
 
 - [Certik](https://www.certik.com/ecosystems/algorand) - CertiK 提供 web3 安全工具的黄金标准，从其行业领先的智能合约审计到其区块链分析工具（如 Skynet 和 SkyTrace），使其成为确保 Algorand 项目端到端安全的理想合作伙伴.
 - [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - AlgoBuilder 背后的团队提供咨询您的项目、由专业人员完成智能合约、编写自动化测试或审计您现有的项目.
@@ -339,7 +344,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoWorld-Swapper](https://github.com/algoworldNFT/algoworld-swapper) - 免费且无需信任的 ASA 交换器，由 Algorand 智能签名提供支持.
 - [WalletConnect Example DApp](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect 演示.
 - [TinyBar App](https://tinybar.app) - 一个微型 macOS 菜单栏应用程序，用于跟踪 TinyMan 的 ASA 价格.
-- [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
+- [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一个 Algorand 迷你益智游戏. 由 Python+PyTEAL 编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/algorealm/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由 Python+PyTEAL 编写 [@cusma](https://github.com/cusma).
 - [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的网络 CLI 模拟器版本.
@@ -347,7 +352,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 语言编写的 Algorand 虚拟地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
-- [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
+- [genpyteal](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 - [AgorHash](https://github.com/bafio89/agorhash) - 公开的、无需许可的、去中心化的和不可审查的言论自由协议.
 - [AlgoPOAP](https://github.com/AlgoPOAP) - Algorand 上的出勤证明协议（以及更多）. [Mint your first POAP on Algorand!](https://algopoap.com).
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
@@ -355,7 +360,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
-- [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
+- [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - 一个微小的 cron 作业，它发出一个 [tweet](https://twitter.com/algoping) 如果公共 Algorand 节点（AlgoExplorer、AlgoNode 等）不健康.
 - [SliceSwap](https://app.sliceswap.com)  - 一个在主要 Dex 之间交易您的资产的地方. 所有交换均由@deflexfi 提供支持.

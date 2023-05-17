@@ -16,6 +16,7 @@
 - [ShortLib](https://shortlib.netlify.app/) - 为 Windows、Mac 和 Linux 收集了数百个快捷方式.
 - [The Bullet Journal](https://bulletjournal.com/) - 一种将简单的笔记本变成高效生产力工具的笔和纸方法.
 - [Zen Habits](https://zenhabits.net/) - Leo Babauta 的博客，主题包括简化生活.
+- [Productive Fish](https://productive.fish/) - 关于如何提高工作效率、有效学习和改善幸福感的有用文章.
 
 ## Books
 
@@ -28,12 +29,13 @@
 ### File Management
 
 - [Box](https://www.box.com) - 非常适合企业客户的云存储解决方案.
-- [Dropbox](https://www.dropbox.com) - Simple, elegant, and versatile cloud storage solution.
+- [Dropbox](https://www.dropbox.com) - 简单、优雅、多功能的云存储解决方案.
 - [Google Drive](https://www.google.ca/drive/) - 深度融入谷歌生态系统的云存储解决方案.
 - [Mega](https://mega.nz/) - 一个非常慷慨的（从一开始就 50G）和高度安全的云存储解决方案.
 - [Nextcloud](https://nextcloud.com) - 让您掌控一切的自托管生产力平台.
 - [OneDrive](https://onedrive.live.com) - 适用于 Windows 用户的最佳云存储解决方案.
 - [pCloud](https://www.pcloud.com/) - 高度重视安全性的云存储解决方案.
+- [Clipboard](https://getclipboard.app) - 易于使用的本地解决方案，用于像便签本一样保存文件、文件夹或文本.
 
 ### Note Management
 
@@ -52,7 +54,7 @@
 ### Task Management
 
 - [Airtable](https://airtable.com/) - 混合电子表格和数据库以帮助组织工作.
-- [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin 结合了行为心理学的原理来帮助克服拖延症、控制一切并完成待办事项清单.
+- [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin 结合了行为心理学的原理来帮助克服拖延症、控制一切并完成待办事项列表.
 - [Any.do](https://www.any.do/) - 简单的界面，丰富的功能，目前最受欢迎的待办事项列表管理器 [Lifehacker](https://lifehacker.com/5924093/five-best-to-do-list-managers).
 - [GitHub Projects](https://github.com/features/project-management/) - GitHub 的一个鲜为人知的功能，可以轻松地将项目管理流程与代码联系起来.
 - [Hitask](https://hitask.com) - 团队的简单项目和任务管理.
@@ -74,7 +76,7 @@
 - [Tweek](https://tweek.so) - 超级简单的待办事项列表和每周任务管理.
 - [VivifyScrum](https://www.vivifyscrum.com)  - 适用于交付团队的敏捷项目管理应用程序. 可定制的 Scrum 和看板.
 - [Bordio](https://bordio.com/) - 用于在一块板上管理任务和事件的每日计划器.
-- [OpenProject](https://www.openproject.org/) - 一个内部部署的开源项目管理解决方案，带有免费的社区版和企业版.
+- [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
 ### Habit Trackers
 
@@ -84,6 +86,7 @@
 - [HabitBull](https://www.habitbull.com/) - 高级习惯追踪器.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - 一款用于养成和保持良好习惯的 Android 应用程序.
 - [Waka Time](https://wakatime.com/) - 开源插件，用于准确了解您花费了多长时间编码.
+- [Conjure](https://conjure.so) - 具有规则引擎、数据层、API、仪表板等（Web、桌面、iOS、Android）的习惯、目标和时间跟踪平台.
 
 ### Task Automation
 
@@ -113,3 +116,4 @@
 
 - [ShareX](https://getsharex.com/) - 屏幕截图、文件共享和生产力工具.
 - [Replayable](https://replayable.io)  - 倒回屏幕. 回放和分享 Replayable 的桌面回放缓冲区到底发生了什么.
+- [CleanShot](https://cleanshot.com/) - 用于在 MacOS 上进行屏幕捕获和录制的高级工具，具有内置注释和文本识别功能.

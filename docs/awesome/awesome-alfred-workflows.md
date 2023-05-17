@@ -1,14 +1,9 @@
 <div class="github-widget" data-repo="alfred-workflows/awesome-alfred-workflows"></div>
-<h1 align="center">
-	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
-	<br>
-</h1>
+## <img src='https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif' width='594' align='center' alt='Header gif'>
 
-Awesome Alfred Workflows 的精选列表.
-
-[Alfred](https://www.alfredapp.com/) 是一款适用于 macOS 的生产力应用程序，可通过热键、关键字和文本扩展来提高您的效率.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+&gt; **警告**<br/>
+&gt; 此列表已弃用，取而代之的是 [the official Alfred Gallery](https://alfred.app/).<br/>
+&gt; 未来的提交应该指向那里.
 
 
 ## Communication
@@ -105,7 +100,7 @@ Awesome Alfred Workflows 的精选列表.
 
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - 从 bugmenot 获取登录信息.
-- [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - Opens Chrome’s frontmost tab in an incognito window.
+- [IncognitoClone](https://github.com/vitorgalvao/alfred-workflows/tree/master/IncognitoClone) - 在隐身窗口中打开 Chrome 最前面的标签.
 - [Default Browser](https://github.com/wmorland/alfred-py3-default-browser) - 切换默认网络浏览器.
 - [Reddit](https://github.com/deanishe/alfred-reddit) - 在 Alfred 中搜索和浏览 subreddits 和热门帖子.
 
@@ -131,7 +126,7 @@ Awesome Alfred Workflows 的精选列表.
 ## License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg"
-     样式 =“边框样式：无；”  alt=&quot;公共领域标记&quot; /&gt;
+     style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
 在法律允许的范围内， [David Wikoff](https://github.com/derimagia) 已放弃该作品的所有版权和相关或邻接权.

@@ -35,7 +35,8 @@
 ## Installation Media
 
 * [nixos-generators](https://github.com/nix-community/nixos-generators) - 采用 NixOS 配置并构建多种不同的图像类型，包括 VirtualBox VM、Azure 图像和安装 ISO.
-* [nixos-up](https://github.com/samuela/nixos-up) - 超级简单的 NixOS 安装程序，可以从安装 ISO 使用.
+* [nixos-infect](https://github.com/elitak/nixos-infect) - 用 NixOS 替换正在运行的非 NixOS Linux 主机.
+* [nixos-up](https://github.com/samuela/nixos-up) - 超级简单的 NixOS 安装程序，可以从安装 ISO 中使用.
 * [nix-installer](https://github.com/DeterminateSystems/nix-installer) - 官方 Nix 安装脚本的替代方案.
 
 ## Channel History
@@ -58,7 +59,7 @@
 * [Nixinate](https://github.com/MatthewCroughan/nixinate) - 一个 Nix flake 库，用于提供用于通过 SSH 管理现有 NixOS 主机的应用程序输出.
 * [NixOps](https://github.com/NixOS/nixops) - 官方 Nix 部署工具，兼容 AWS、Hetzner 等.
 * [pushnix](https://github.com/arnarg/pushnix) - 简单的 cli 实用程序，可推送 NixOS 配置并使用 ssh 触发重建.
-* [terraform-nixos](https://github.com/tweag/terraform-nixos) - A set of Terraform modules designed to deploy NixOS.
+* [terraform-nixos](https://github.com/tweag/terraform-nixos) - 一组用于部署 NixOS 的 Terraform 模块.
 * [terranix](https://terranix.org) - 使用 Nix 和 NixOS 模块系统编写您的 Terraform 代码.
 
 ## Virtualisation
@@ -97,6 +98,7 @@
 * [flake.parts](https://github.com/hercules-ci/flake-parts) - Flakes 的最小 Nix 模块框架：将您的 flakes 分成模块，并使用社区模块完成工作.
 * [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake 实用程序功能可帮助编写 flakes.
 * [flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - 一个轻量级的 Nix 库薄片，用于无痛的 NixOS 薄片配置.
+* [flox](https://github.com/flox/flox) - 管理和共享开发环境、打包项目并在任何地方发布工件.
 * [gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - 功能最齐全且易于使用的 .gitignore 集成.
 * [haumea](https://github.com/nix-community/haumea) - 类似于传统编程语言的 Nix 语言基于文件系统的模块系统，支持文件层次结构和可见性.
 * [lorri](https://github.com/nix-community/lorri/) - 一个更好的 `nix-shell` 用于增强 direnv 的开发.
@@ -183,7 +185,7 @@
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与 Rust 工具链和 Firefox 的叠加.
-* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
+* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 * [rust-overlay](https://github.com/oxalica/rust-overlay) - 二进制分布式 Rust 工具链的纯粹且可重现的 nix 覆盖.
 
 ### Scala

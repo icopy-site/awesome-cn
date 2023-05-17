@@ -75,7 +75,7 @@
 * [DlangScience](https://github.com/DlangScience) - 科学图书馆和 D 工具的焦点和第一停靠港.
 * [Circular Studios](https://github.com/Circular-Studios)  - 我们是罗彻斯特理工学院的一群游戏开发人员，他们致力于构建游戏和游戏技术. 主持 [Dash](https://github.com/Circular-Studios/Dash)，一个用 D 语言编写的 3D 游戏引擎，以及其他相关库.
 * [EMSI](https://github.com/economicmodeling)  - 一家以 D 为主要语言的职业建设公司. 托管他们的开源项目.
-* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
+* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数值库开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 总部位于柏林的公司，专门从事在线广告实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 开源了他们代码库的大部分作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日管理的资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了以下项目的开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
@@ -244,6 +244,7 @@
 * [collie](https://github.com/huntlabs/collie) - 一个用dlang编写的异步事件驱动网络框架，类似于D中的netty框架.
 * [dlang-requests](https://github.com/ikod/dlang-requests) - 受 python 请求启发的 HTTP 客户端库
 * [Handy-Httpd](https://github.com/andrewlalis/handy-httpd) - 一个简单、轻量级且文档齐全的 HTTP 服务器，可让您引导想法并在几分钟内启动并运行.
+* [serverino](https://github.com/trikko/serverino) - 小型且随时可用的 http 服务器，在 D 中
 
 *全栈网络框架.*
 * [Hunt Framework](https://github.com/huntlabs/hunt-framework/)  - Hunt 是一种高级 D 编程语言 Web 框架，它鼓励快速开发和简洁、实用的设计. 它使您可以快速、轻松地构建高性能 Web 应用程序.

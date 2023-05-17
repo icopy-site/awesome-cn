@@ -29,6 +29,7 @@
 - 力扣 (https://leetcode.com/)
     - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - 更新固定要点以显示您的 LeetCode 统计数据.
     - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - 更新固定要点以显示 leetcode 已解决的问题.
+    - [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) - 更新固定要点以展示您的顶级 leetcode 技能.
 - [mal-box](https://github.com/jckli/mal-box) - 更新固定要点以包含您在 MyAnimeList 中的最新活动.
 - [mdl-watching-box](https://github.com/facalz/mdl-watching-box) - 更新固定要点以包含您当前正在观看的内容.
 - [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - 更新固定要点以显示您的媒体统计数据和最新文章.

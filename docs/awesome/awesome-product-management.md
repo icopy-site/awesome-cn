@@ -9,6 +9,9 @@
 
 
 ## Tools
+
+In day-to-day activities, product managers need to rely on tools to help them make sense of the information and insights they're handling. The list below represents _some_ of those tools. A product manager doesn't need to use every single one of them, and neither is one better than the other. These are just pointers to some of the instruments that can be used to be effective at organizing and sharing PM expertise. None of them, standalone, will make one a better product manager.
+
 ### OneNote
 
 高效的笔记记录和卓越的组织能力. 与基于团队的工作流轻松集成，其中来自同一笔记本的笔记可以与许多人共享.
@@ -53,11 +56,11 @@ Markdown 格式的笔记，具有基于标签的组织能力.
 ![Switching zoom modes in Kanban section](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-taiga.gif)
 
  | 物业 | 价值 |
-|-----------|-----------------------------------------------------------------------------------------|
- | 开发商 | [Kaleidos](https://kaleidos.net/)                                                       |
- | 费用 | 免费（自托管）或 [Freemium](https://tree.taiga.io/)|
+|-----------|----------------------------------------------------------|
+ | 开发商 | [Kaleidos](https://kaleidos.net/)                        |
+ | 费用 | 免费（自托管）或 [Freemium](https://tree.taiga.io/) |
  | 平台 |  macOS、Windows、iOS、安卓、网络 |
- | 网址 |  https://tree.taiga.io |
+| URL       | https://tree.taiga.io                                    |
 
 ### To-Do
 
@@ -130,16 +133,16 @@ Markdown 格式的笔记，具有基于标签的组织能力.
 |-----------|--------------------------------------------------------------------|
  | 开发商 | [Taskade Inc.](https://taskade.com/about)                          |
  | 费用 | 免费增值（_$0-10/月_）|
- | 平台 |  macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, web |
-| URL       | https://www.taskade.com                                            |
+ | 平台 |  macOS, Windows, iOS, Android, Chrome Extension, Firefox Addon, Web |
+ | 网址 |  https://www.taskade.com |
 
 ### Notejoy
 
 一款协作式笔记应用程序，简单、直观，可让您专注于笔记而不是围绕笔记的过程.
 
  | 物业 | 价值 |
-|-----------|--------------------------------------------------------------------|
- | 开发商 | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
+|-----------|------------------------------------------------------------------------------------------------------------------|
+ | 开发商 | [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/) |
  | 费用 | 免费增值（_$0-12/月_）|
  | 平台 |  macOS、Windows、iOS、安卓、网络 |
  | 网址 |  https://notejoy.com |
@@ -151,8 +154,8 @@ productboard 是一个产品管理系统，可帮助您了解用户的需求，�
 ![productboard](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-productboard.png)
 
  | 物业 | 价值 |
-|-----------|--------------------------------------------------------------------|
- | 开发商 | [productboard](https://www.productboard.com/)                      |
+|-----------|-----------------------------------------------|
+ | 开发商 | [productboard](https://www.productboard.com/) |
  | 费用 | 付费（起价_$49/月_）|
  | 平台 | 网页 |
  | 网址 |  https://productboard.com |
@@ -164,8 +167,8 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 ![logchimp](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/logchimp.png)
 
  | 物业 | 价值 |
-|-----------|--------------------------------------------------------------------|
- | 开发商 | [LogChimp](https://logchimp.codecarrot.net/)                       |
+|-----------|----------------------------------------------|
+ | 开发商 | [LogChimp](https://logchimp.codecarrot.net/) |
  | 费用 | 免费（开源）|
  | 平台 | 网页 |
  | 网址 |  https://logchimp.codecarrot.net |
@@ -178,8 +181,8 @@ LogChimp 允许您跟踪客户的反馈以构建更好的产品.
 ![hellonext](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/hellonext.png)
 
  | 物业 | 价值 |
-|-----------|--------------------------------------------------------------------|
- | 开发商 | [Hellonext, Inc.](https://hellonext.co)                            |
+|-----------|------------------------------------------|
+ | 开发商 | [Hellonext, Inc.](https://hellonext.co)  |
  | 费用 | 免费增值（_$0-99/月_）|
  | 平台 | 网页 |
  | 网址 |  https://hellonext.co |
@@ -191,14 +194,22 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 ![screeb](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/screeb.png)
 
  | 物业 | 价值 |
-|-----------|--------------------------------------------------------------------|
- | 开发商 | [Screeb, Inc.](https://screeb.app)                            |
+|-----------|------------------------------------|
+ | 开发商 | [Screeb, Inc.](https://screeb.app) |
  | 费用 | 免费增值（_start $0-39/月_）|
  | 平台 | 网页 |
  | 网址 |  https://screeb.app |
 
 ## Articles
 
+有很多人写了很棒的内容，可以帮助那些想要在产品管理领域脱颖而出和成长的人获得新的视角. 将下面的列表视为意见、经验和模式的结合，而不是确定的“始终要做的事情列表”.
+
+- [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - 经过 [Zach Holman](https://zachholman.com).
+- [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - 经过 [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
+- [Being Glue](https://noidea.dog/glue) - 经过 [Tanya Reilly](https://noidea.dog/about).
+- [How to build great products](https://www.defmacro.org/2013/09/26/products.html) - 经过 [Slava Akhmechet](https://www.defmacro.org).
+- [If your product is Great, it doesn't need to be Good](https://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html) - 经过 [Paul Bucheit](http://en.wikipedia.org/wiki/Paul_Buchheit).
+- [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - 经过 [Stay SaaSy](https://staysaasy.com/about.html).
 - [Want To Build An Incredible Product? Strive For The Delta Of “Wow”](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - 经过 [Wayne Chang](https://chang.com/).
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2) - 经过 [Wayne Chang](https://chang.com/).
 - [One door at a time](https://m.signalvnoise.com/one-door-at-a-time/) - 经过 [Jason Fried](https://world.hey.com/jason).
@@ -209,7 +220,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [PM at Microsoft](https://web.archive.org/web/20180220022153/https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - 经过 [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 - [Hiring Your First Product Manager](https://blog.learningbyshipping.com/2015/04/07/hiring-your-first-product-manager/) - 经过 [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky).
 - [12 Things about Product-Market Fit](https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - 经过 [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
-- [Relentlessly Resourcefull](http://www.paulgraham.com/relres.html) - 经过 [Paul Graham](https://www.paulgraham.com/).
+- [Relentlessly Resourceful](http://www.paulgraham.com/relres.html) - 经过 [Paul Graham](https://www.paulgraham.com/).
 - [How to Be an Expert in a Changing World](http://www.paulgraham.com/ecw.html) - 经过 [Paul Graham](https://www.paulgraham.com/).
 - [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - 经过 [Paul Graham](https://www.paulgraham.com/).
 - [Do Things that Don't Scale](http://paulgraham.com/ds.html) - 经过 [Paul Graham](https://www.paulgraham.com/).
@@ -218,7 +229,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - 经过 [Brandon Chu](https://medium.com/@brandonmchu).
 - [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - 经过 [Brandon Chu](https://medium.com/@brandonmchu).
 - [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - 经过 [Brandon Chu](https://medium.com/@brandonmchu).
-- [Understanding How The Innovator’s Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - 经过 [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - 经过 [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [Navigating Mid-Success](https://blog.ycombinator.com/navigating-mid-success/) - 经过 [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman).
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - 经过 [Alice Boyes](https://www.aliceboyes.com/).
 - [Speed as a habit](http://firstround.com/review/speed-as-a-habit/) - 经过 [Dave Girouard](https://www.linkedin.com/in/davegirouard).
@@ -230,7 +241,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [Virtuous Cycles, Platforms, Flywheels, Snowballs, and Tidal Waves](https://ceklog.kindel.com/2021/03/30/virtuous-cycles-platforms-flywheels-snowballs-and-tidal-waves/) - 经过 [Charlie Kindel](https://www.linkedin.com/in/ckindel/).
 - [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) - 经过 [Philipp Cannons](https://philippcannons.com).
 - [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - 经过 [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
-- [The Art of Persuasion Hasn’t Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - 经过 [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
+- [The Art of Persuasion Hasn't Changed in 2,000 Years](https://hbr.org/2019/07/the-art-of-persuasion-hasnt-changed-in-2000-years) - 经过 [Carmine Gallo](https://hbr.org/search?term=carmine%20gallo).
 - [Mastering Effective Communication as a Product Manager](https://www.sachinrekhi.com/mastering-effective-communication-as-a-product-manager) - 经过 [Sachin Rekhi](https://www.sachinrekhi.com/about).
 - [The Top 10 Deliverables of Product Managers](https://www.sachinrekhi.com/top-10-deliverables-of-product-managers) - 经过 [Sachin Rekhi](https://www.sachinrekhi.com/about).
 - [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - 经过 [Max Bennett](https://medium.com/@max.bennett).
@@ -241,7 +252,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - 格伦·吉伦.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - 经过 [Roy Cobby](https://www.linkedin.com/in/roycobby/).
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - 经过 [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
-- [It’s Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
+- [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
 - [How to Work With Software Engineers](https://www.bringthedonuts.com/essays/how-to-work-with-software-engineers.html) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
 - [The Tools Don't Matter](https://www.bringthedonuts.com/essays/the-tools-dont-matter/) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
 
@@ -272,7 +283,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 - [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - 威尔·拉森.
 - [The Art of Doing Science and Engineering: Learning to Learn](https://en.wikipedia.org/wiki/The_Art_of_Doing_Science_and_Engineering) - 理查德·W·汉明 (Richard W. Hamming).
 - [Shape Up](https://basecamp.com/shapeup) - 瑞恩·辛格 (Ryan Singer).
-- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.senseandrespondpress.com/managing-outcomes) - 约书亚塞登.
+- [Outcomes over Output: Why Customer Behavior Is the Key Metric for Business Success](https://www.senseandrespondpress.com/managing-outcomes) - 约书亚·塞登 (Joshua Seiden).
 - [Difficult Conversations](https://www.stoneandheen.com/difficult-conversations) - 道格拉斯·斯通.
 - [Good Strategy, Bad Strategy](https://www.barnesandnoble.com/w/good-strategy-bad-strategy-richard-rumelt/1101087922?ean=9780307886231) - 理查德·鲁梅尔特.
 - [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - 杰弗里·A·穆尔 (Geoffrey A. Moore).
@@ -305,8 +316,9 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用来构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用于构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自 Google、Slack、Amazon、Airbnb、Netflix、Facebook 等的产品负责人. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链领域的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司互动.
+- [La Product Conf](https://www.laproductconf.com/)  - 由 Thiga 组织的 La Product Conf (LPC) 每年在巴黎（法国）和马德里（西班牙）举办一次. 演讲者阵容包括来自 Pinterest、Carrefour、Payfit、Google、Meetic 等的产品领导者.
 
 ## Additional resources
 

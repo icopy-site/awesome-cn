@@ -175,7 +175,7 @@
 
 - [NDepend](http://www.ndepend.com) :copyright: — 衡量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
-- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDAPI、加密、反序列化等）提供实时安全代码分析.
+- [Puma Scan](https://pumasecurity.io) — Puma Scan 为开发团队在 Visual Studio 中编写代码时的常见漏洞（XSS、SQLi、CSRF、LDPi、加密、反序列化等）提供实时安全代码分析.
 
 - [Roslynator](https://github.com/JosefPihrt/Roslynator) — A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 
@@ -267,7 +267,7 @@
 <h2 id="crystal">水晶</h2>
 
 
-- [ameba](https://crystal-ameba.github.io) — A static code analysis tool for Crystal.
+- [ameba](https://crystal-ameba.github.io) — Crystal 的静态代码分析工具.
 
 - [crystal](https://crystal-lang.org) — Crystal 编译器具有内置的 linting 功能.
 
@@ -297,7 +297,7 @@
 <h2 id="dlang">党</h2>
 
 
-- [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是分析D 源代码的工具.
+- [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是分析 D 源代码的工具.
 
 
 <h2 id="elixir">长生不老药</h2>
@@ -321,7 +321,7 @@
 <h2 id="erlang">二郎</h2>
 
 
-- [dialyzer](https://www.erlang.org/doc/man/dialyzer.html)  — DIALYZER，一个用于 ERlang 程序的差异分析器.  Dialyzer 是一种静态分析工具，可在单个 Erlang 模块或整个（组）应用程序中识别软件差异，例如明确的类型错误、由于编程错误而变得无效或无法访问的代码以及不必要的测试.
+- [dialyzer](https://www.erlang.org/doc/man/dialyzer.html)  — DIALYZER，一个用于 ERlang 程序的差异分析器.  Dialyzer 是一种静态分析工具，可在单个 Erlang 模块或整个（组）应用程序中识别软件差异，例如明确的类型错误、由于编程错误而变得无效或无法访问的代码，以及不必要的测试.
  Dialyzer 从调试编译的 BEAM 字节码或 Erlang 源代码开始分析. 报告差异的文件和行号以及差异的指示.  Dialyzer 的分析基于成功打字的概念，它允许发出声音警告（无误报）.
 
 - [elvis](https://github.com/inaka/elvis) — Erlang 风格评论家.
@@ -499,7 +499,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [fb-contrib](http://fb-contrib.sourceforge.net) — 带有附加错误检测器的 FindBugs 插件.
 
-- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  — 检测并禁止调用特定方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
+- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
 
 - [google-java-format](https://github.com/google/google-java-format) — 重新格式化 Java 源代码以符合 Google Java 样式
 
@@ -535,7 +535,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [aether](http://aetherjs.com) — 在节点或浏览器中检查、分析、规范化、转换、沙盒、运行、逐步执行和可视化用户 JavaScript.
 
-- [Closure Compiler](https://developers.google.com/closure/compiler) — A compiler tool to increase efficiency, reduce size, and provide code warnings in JavaScript files.
+- [Closure Compiler](https://developers.google.com/closure/compiler) — 一种用于提高效率、减小大小并在 JavaScript 文件中提供代码警告的编译器工具.
 
 - [ClosureLinter](https://github.com/google/closure-linter)  :warning: — 确保您项目的所有 JavaScript 代码都遵循 Google JavaScript 样式指南中的准则. 它还可以自动修复许多常见错误.
 
@@ -660,7 +660,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更精美.
+- [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) — 此工具检查 PHP 文件的语法比串行检查更快，输出更漂亮.
 
 - [Parse](https://github.com/psecio/parse) — 静态安全扫描器.
 
@@ -732,6 +732,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) — 可视化指标和源代码.
 
+- [rector](https://getrector.org)  — 任何 PHP 5.3+ 代码的即时升级和自动重构. 它为 PHP 7.4、8.0 及更高版本升级您的代码.  Rector 承诺低误报率，因为它寻找狭义定义的 AST（抽象语法树）模式. 主要用例是解决遗留代码中的技术债务并删除无用代码.  Rector 为 Symfony、Doctrine、PHPUnit 等提供了一组特殊规则.
+
 - [Reflection](https://github.com/phpDocumentor/Reflection) — 为 PHP 项目做静态分析的反射库
 
 - [Symfony Insight](https://insight.symfony.com/) :copyright: — 检测安全风险、查找错误并为 PHP 项目提供可操作的指标.
@@ -799,7 +801,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -1469,7 +1471,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Parker](https://github.com/katiefenn/parker) — 样式表分析工具.
 
-- [PostCSS](https://postcss.org)  — 使用 JS 插件转换样式的工具. 这些插件可以检查您的 CSS、支持变量和混合、转换未来的 CSS 语法、内联图像等等.
+- [PostCSS](https://postcss.org)  — 使用 JS 插件转换样式的工具. 这些插件可以检查您的 CSS、支持变量和混合、转换未来的 CSS 语法、内联图像等.
 
 - [Project Wallace CSS Analyzer](https://www.projectwallace.com) — CSS 分析，部分 [Project Wallace](https://www.projectwallace.com).
 
@@ -1560,7 +1562,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="ci">持续集成</h2>
 
 
-- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流文件的静态检查器. 提供在线版本.
+- [actionlint](https://rhysd.github.io/actionlint)  — GitHub Actions 工作流程文件的静态检查器. 提供在线版本.
 
 - [AzSK](https://azsk.azurewebsites.net/)  — 用于 Azure (AzSK) 的安全 DevOps 工具包提供安全 IntelliSense、安全验证测试 (SVT)、CICD 扫描漏洞、合规性问题和基础设施即代码中的基础设施错误配置. 通过 ARM 支持 Azure.
 
@@ -1594,7 +1596,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="deno">不是</h2>
 
 
-- [deno_lint](https://github.com/denoland/deno_lint) — Deno 的官方 linter.
+- [deno_lint](https://github.com/denoland/deno_lint) — Official linter for Deno.
 
 
 <h2 id="embedded">嵌入式</h2>

@@ -132,7 +132,7 @@
 
 #### Ebooks
 
-* [Calibre](http://calibre-ebook.com/)  - 免费开源的电子书计算机软件应用程序套件，运行在多个平台上，允许用户管理电子书收藏以及创建、编辑和阅读电子书.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/kovidgoyal/calibre)
+* [Calibre](http://calibre-ebook.com/)  - 免费和开源的电子书计算机软件应用程序套件，可在多个平台上运行，允许用户管理电子书收藏以及创建、编辑和阅读电子书.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/kovidgoyal/calibre)
 * [Clearview](http://www.clearview-reader.com/clearview/)  - 适用于 PDF、EPUB（无 DRM）、CHM 和 MOBI 的选项卡式电子书阅读器.  [![应用商店][应用商店图标]](https://apps.apple.com/us/app/clearview/id557090104?mt=12)
 * [iChm](https://github.com/NSGod/ichm)  - 用于 CHM（Microsoft 编译的 HTML 帮助）文件的电子书阅读器.  [![开源软件][OSS 图标]](https://github.com/NSGod/ichm) ![免费软件][免费软件图标]
 * [Kindle App](https://www.amazon.com/l/16571048011) - 亚马逊kindle官方阅读应用.
@@ -142,7 +142,7 @@
 
 #### RSS
 
-* [Elytra](https://elytra.app) - 一个简单且私密的 RSS 订阅阅读器，具有适用于 macOS 和 iOS 的本机呈现 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&amp;ct =很棒的mac&amp;mt=8)
+* [Elytra](https://elytra.app) - 一个简单且私密的 RSS Feed 阅读器，具有适用于 macOS 和 iOS 的本机呈现 [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&amp;ct =很棒的mac&amp;mt=8)
 * [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&mt=12)
 * [Leaf](http://www.rockysandstudio.com/) - 令人惊叹的新闻阅读器，致力于帮助您享受每日新闻并轻松管理您的订阅.
 * [NetNewsWire](https://ranchero.com/netnewswire/)  - 它是适用于 macOS 的免费开源提要阅读器.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/brentsimmons/NetNewsWire)
@@ -213,7 +213,7 @@
 * [Finicky](https://johnste.github.io/finicky/)  - 允许您设置规则的应用程序，这些规则决定为每个将打开默认浏览器的链接打开哪个浏览器.  [![开源软件][OSS 图标]](https://github.com/johnste/finicky) ![免费软件][免费软件图标]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - 适用于 Mac OS X 的简单主机文件管理器.[![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - 智能重复文件查找器.
-* [Hex Fiend](https://ridiculousfish.com/hexfiend/)  - 快速而聪明的开源十六进制编辑器.  [![开源软件][OSS 图标]](https://github.com/ridiculousfish/HexFiend/) ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://github.com/ridiculousfish/HexFiend/) //itunes.apple.com/app/hex-fiend/id1342896380）
+* [Hex Fiend](https://ridiculousfish.com/hexfiend/)  - 快速而聪明的开源十六进制编辑器.  [![开源软件][OSS 图标]](https://github.com/ridiculousfish/HexFiend/) ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://github.com/ridiculousfish/HexFiend/) //itunes.apple.com/app/hex-fiend/id1342896380)
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane)  - 用于管理主机文件的系统偏好面板.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/specialunderwear/Hosts.prefpane)
 * [iHosts](https://en.toolinbox.net/iHosts/)  - Mac App Store 上唯一的 `/etc/hosts` 编辑器.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://itunes.apple.com/app/id1102004240?mt=12)
 * [ILLA Cloud](https://www.illacloud.com/)  - 低代码内部工具生成器.  [![开源软件][OSS图标]](https://github.com/illacloud/illa-builder)
@@ -441,7 +441,7 @@
 * [Blender](https://www.blender.org/)  - 免费开放的3D创作软件.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/)  - Colorpicker 是一个完整的开源颜色操作工具，带有拾取功能！  [![开源软件][OSS 图标]](https://github.com/toinane/colorpicker) ![免费软件][免费软件图标]
 * [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio 是一个图表和白板桌面应用程序 [![开源软件][OSS 图标]](https://github.com/jgraph/drawio-desktop)
-* [Figma](https://www.figma.com/)  - 协作界面设计工具，用于矢量图形和 UI 原型设计.  ![免费软件][免费软件图标]
+* [Figma](https://www.figma.com/)  - 协作界面设计工具，用于矢量图形和 UI 原型制作.  ![免费软件][免费软件图标]
 * [FontForge](http://fontforge.github.io/)  - 免费的开源字体编辑器.  [![开源软件][OSS 图标]](https://github.com/fontforge) ![免费软件][免费软件图标]
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [inklet](https://tenonedesign.com/inklet.php) - 将您的 Mac 触控板变成绘图板.
@@ -618,7 +618,7 @@
 ## Audio and Video Tools
 
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon]
-* [Aegisub](https://github.com/Aegisub/Aegisub)  - 用于创建和修改字幕的免费跨平台开源工具.  Aegisub 可以快速轻松地将字幕与音频同步，并具有许多强大的工具来设置它们的样式，包括内置的实时视频预览.  [![开源软件][OSS 图标]](https://github.com/Aegisub/Aegisub/) ![免费软件][免费软件图标]
+* [Aegisub](https://github.com/Aegisub/Aegisub)  - 用于创建和修改字幕的免费跨平台开源工具.  Aegisub 可以快速轻松地为音频定时字幕，并具有许多强大的工具来设置它们的样式，包括内置的实时视频预览.  [![开源软件][OSS 图标]](https://github.com/Aegisub/Aegisub/) ![免费软件][免费软件图标]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)  - 允许您为连接设备的每个特定组合固定输入/输出设备. 可能会禁止选择 HDMI 显示器.  [![应用商店][应用商店图标]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;mt=12)
 * [Ardour](https://ardour.org/)  - 用于多轨录音和编辑的跨平台音频软件.  [![开源软件][OSS图标]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/)  - 用于多轨录音和编辑的免费、开源、跨平台音频软件.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/audacity/audacity)
@@ -635,6 +635,7 @@
 * [Hydrogen](http://hydrogen-music.org/)  - 专业但简单直观的基于模式的 GNU/Linux 鼓编程.  [![开源软件][OSS图标]](https://github.com/hydrogen-music/hydrogen)
 * [ffWorks](https://www.ffworks.net/)  - 适用于 macOS 的综合媒体工具. 使每个人都可以访问高质量的视频编码.
 * [IINA](https://lhc70000.github.io/iina/)  - 适用于 macOS 的现代视频播放器. 基于 mpv，强大的媒体播放器项目.  [![开源软件][OSS 图标]](https://github.com/lhc70000/iina) ![免费软件][免费软件图标]
+* [Jellyfin](https://github.com/jellyfin/jellyfin)  - 免费软件媒体系统.  [![开源软件][OSS 图标]](https://jellyfin.org) ![免费软件][免费软件图标]
 * [Kodi](https://kodi.tv/)  - 屡获殊荣的免费开源 (GPL) 软件媒体中心，用于播放视频、音乐、图片、游戏等.  [![开源软件][OSS 图标]](https://github.com/xbmc/xbmc) ![免费软件][免费软件图标]
 * [LMMS](https://lmms.io)  - 以前称为“Linux MultiMedia Studio”，LMMS 是一个功能强大的数字音频工作站，设计类似于 FL Studio（以前称为 Fruity Loops）.  [![开源软件][OSS 图标]](https://github.com/lmms/lmms) ![免费软件][免费软件图标]
 * [LosslessCut](https://github.com/mifi/lossless-cut)  - 使用 ffmpeg 进行快速无损视频和音频修剪的跨平台工具.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/mifi/lossless-cut)
@@ -674,7 +675,7 @@
 ### Audio Record and Process
 
 * [GarageBand](https://www.apple.com/mac/garageband/)  - 免费的 Apple 数字音频工作站 (DAW)，提供简单的界面和专业级的音频制作功能.  ![免费软件][免费软件图标] [![App Store][应用商店图标]](https://apps.apple.com/cn/app/garageband/id682658836?l=zh&amp;ls=1&amp;mt=12)
-* [Logic Pro X](https://www.apple.com/logic-pro/)  - 来自 Apple 的专业数字音频工作站 (DAW)，提供完整的音频制作功能以及高品质的原生插件和配乐. 具有原生 Apple Silicon 支持.  [![应用商店][应用商店图标]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&amp;mt=12)
+* [Logic Pro X](https://www.apple.com/logic-pro/)  - 来自 Apple 的专业数字音频工作站 (DAW)，提供完整的音频制作功能以及高质量的原生插件和配乐. 具有原生 Apple Silicon 支持.  [![应用商店][应用商店图标]](https://apps.apple.com/cn/app/logic-pro-x/id634148309?l=zh&amp;mt=12)
 * [Stargate DAW](https://github.com/stargatedaw/stargate)  - 一体式数字音频工作站 (DAW) 和插件套件.  [![开源软件][OSS 图标]](https://github.com/aria2) ![免费软件][免费软件图标]
 
 ## Download Management Tools
@@ -840,7 +841,7 @@
 
 * [BetterZip](https://macitbetter.com/) - 存档工具支持 ZIP、TAR、TGZ、TBZ、TXZ（新）、7-ZIP、RAR.
 * [eZip](http://ezip.awehunt.com)  - 一个易于使用、功能丰富的 macOS 归档程序. 支持流行的格式，如 RAR、ZIP、7Z、BZ2、GZ 等.与 Mojave 暗模式和 QuickLook 配合得很好.  ![免费软件][免费软件图标]
-* [Fileside](https://www.fileside.app) - 具有无限窗格的现代平铺文件管理器.
+* [Fileside](https://www.fileside.app) - A modern, tiling file manager with unlimited panes.
 * [Folders File Manager](https://foldersapp.dev) - 具有可扩展文件夹树的文件管理器，类似于 Windows 资源管理器.
 * [Hazel](https://www.noodlesoft.com)  - 为您的 Mac 自动组织文件. 负责任且设计精美.
 * [Keka](https://www.keka.io)  - macOS 的文件归档器. 压缩：7Z、ZIP、TAR、GZIP、BZIP2、XZ LZIP、DMG、ISO. 提取：7Z、ZIP、RAR、TAR、GZIP、BZIP2、XZ、LZIP、DMG、ISO、LZMA、EXE、CAB、WIM、PAX、JAR、APK、APPX、CPGZ、CPIO.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://itunes.apple.com/app/keka/id470158793)
@@ -898,7 +899,7 @@
 * [ActivityWatch](https://activitywatch.net/)  - 跨平台、可扩展且注重隐私的时间跟踪器.  [![开源软件][OSS 图标]](https://github.com/ActivityWatch/activitywatch) ![免费软件][免费软件图标]
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterMouse](https://better-mouse.com)  - 平滑滚动、光标加速禁止和强大的按钮/手势重新映射在一个用于第 3 方鼠标的实用程序中. 旨在取代那些笨重和侵入性的官方驱动程序.
-* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，可让您为 Magic Mouse、Macbook Trackpad、Magic Trackpad 以及普通鼠标的鼠标手势配置许多手势.
+* [BetterTouchTool](https://folivora.ai/) - 很棒的功能丰富的应用程序，允许您为 Magic Mouse、Macbook Trackpad、Magic Trackpad 以及普通鼠标的鼠标手势配置许多手势.
 * [Cerebro](https://cerebroapp.com/)  - 具有大脑的开源生产力助推器.  [![开源软件][OSS 图标]](https://github.com/cerebroapp/cerebro) ![免费软件][免费软件图标]
 * [Choosy](https://www.choosyosx.com) - UI、URL API 和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
 * [Clovery](https://clovery.app)  - 将您最喜爱的所有 Google 服务与您的 Mac 紧密集成，让您快速访问这些服务并提高工作效率.  [![开源软件][OSS 图标]](https://github.com/webcatalog/neutron) [![App Store][app-store 图标]](https://apps.apple.com/我们/app/clovery-for-google-apps/id1552618413）
@@ -926,7 +927,7 @@
 * [Strategr](https://khrykin.github.io/strategr/)  - 简单的时间管理应用程序.  Stategr 可帮助您最大限度地提高工作效率，为您提供最快、最有效的方式来安排一天的时间.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/khrykin/StrategrDesktop)
 * [Time Out](https://www.dejal.com/timeout/)  - 简单的休息提醒，如果需要，可以使用微休息和灵活的定制.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 * [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 如果您按小时计费，可帮助您保持工作正常，并确保不会损失计费时间.
-* [Trello](https://trello.com) - 一种协作工具，可将您的项目组织到看板中.！[免费软件][免费软件图标][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
+* [Trello](https://trello.com) - 将项目组织到看板中的协作工具.！[免费软件][免费软件图标][![App Store][app-store Icon]](https://itunes.apple.com/app/trello/id1278508951? ls=1&amp;mt=12)
 * [Ukelele](http://scripts.sil.org/ukelele) - Unicode 键盘布局编辑器.
 * [Velja](https://sindresorhus.com/velja)  - 浏览器选择器，可让您在特定浏览器或桌面应用程序中打开链接.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://apps.apple.com/app/id1607635845)
 * [xScope](http://xscopeapp.com/) - 一套功能强大的工具，非常适合测量、检查和测试屏幕上的图形和布局.
@@ -946,14 +947,13 @@
 * [Magnet](http://magnet.crowdcafe.com/)  - 让您的工作空间井井有条的窗口管理器.  [![应用商店][应用商店图标]](https://itunes.apple.com/us/app/id441258766)
 * [Moom](http://manytricks.com/moom/) - 允许您使用鼠标或键盘轻松移动和缩放窗口，或移动到另一个显示器.
 * [rcmd](https://lowtechguys.com/rcmd/)  - 使用<kbd>⌘ Right Command</kbd>键根据名称切换应用程序.  [![应用商店][应用商店图标]](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
-* [Rectangle](https://rectangleapp.com)  - 基于 Spectacle 的窗口管理应用程序，用 Swift 编写.  [![开源软件][OSS 图标]](https://github.com/rxhanson/Rectangle) ![免费软件][免费软件图标]
+* [Rectangle-app](https://github.com/rxhanson/Rectangle)  - Rectangle 是一个基于 Spectacle 的窗口管理应用程序，用 Swift 编写：使用键盘快捷键和捕捉区域在 macOS 上移动和调整窗口大小.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/rxhanson/Rectangle)
 * [ShiftIt](https://github.com/fikovnik/ShiftIt)  - 在 OSX 中管理窗口大小和位置.  [![开源软件][OSS 图标]](https://github.com/fikovnik/ShiftIt) ![免费软件][免费软件图标]
 * [Sidebar](http://sidebarapp.net/) - Mac 的现代 Dock 替代品.
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的、以键盘为中心的窗口管理.
 * [Slate](https://github.com/jigish/slate)  - 类似于 Divvy 和 SizeUp 的窗口管理应用程序（除了更好和免费！）.  （**需要配置文件**）[![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/jigish/slate)
 * [Total Spaces](http://totalspaces.binaryage.com/)  - 提供与 ubuntu 非常相似的窗口管理. 为工作区创建热键，让您轻松移动.
 * [yabai](https://github.com/koekeishiya/yabai)  - 适用于 macOS 的平铺窗口管理器.  chunkwm 的重写，它提供了与操作系统更无缝的集成.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/koekeishiya/yabai/wiki)
-* [Rectangle-app](https://github.com/rxhanson/Rectangle)  - Rectangle 是一个基于 Spectacle 的窗口管理应用程序，用 Swift 编写：使用键盘快捷键和捕捉区域在 macOS 上移动和调整窗口大小.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/rxhanson/Rectangle)
 
 #### Password Management
 
@@ -986,9 +986,9 @@
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/)  - 按住 ⌘ 键可获取当前应用程序所有活动快捷方式的列表. 就这么简单.  ![免费软件][免费软件图标]
 * [DisplayBuddy](https://displaybuddy.app) - 直接从 Mac 控制外部显示器的亮度、对比度、输入源等.
 * [f.lux](https://justgetflux.com/)  - 使计算机显示屏的颜色适应一天中的时间.  ![免费软件][免费软件图标]
-* [Lunar](https://lunar.fyi/)  - 帮助您调整外部显示器的亮度、对比度和音量.  [![开源软件][OSS 图标]](https://github.com/alin23/Lunar) ![免费软件][免费软件图标]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)  - 一款开源 macOS 应用程序，可让您直接从菜单栏或使用键盘快捷键 (⌥⌘G) 快速切换灰度滤镜.  [![开源软件][OSS 图标]](https://github.com/rkbhochalya/grayscale-mode) ![免费软件][免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr)  - 开源击键可视化工具.  [![开源软件][OSS 图标]](https://github.com/keycastr/keycastr) ![免费软件][免费软件图标]
+* [Lunar](https://lunar.fyi/)  - 帮助您调整外部显示器的亮度、对比度和音量.  [![开源软件][OSS 图标]](https://github.com/alin23/Lunar) ![免费软件][免费软件图标]
 * [NightOwl](https://nightowl.kramser.xyz/)  - 按一天中的时间或使用菜单栏或键盘快捷键在 macOS Mojave 的浅色和深色主题之间自动切换.  ![免费软件][免费软件图标]
 * [One Switch](https://fireball.studio/oneswitch) - Mac 菜单栏应用程序，将各种开关添加到 Mac 的菜单栏.
 * [Shifty](http://shifty.natethompson.io)  - 一款 macOS 菜单栏应用程序，可让您更好地控制 Night Shift.  [![开源软件][OSS 图标]](https://github.com/thompsonate/Shifty)
@@ -1020,7 +1020,7 @@
 * [OmniDiskSweeper](https://www.omnigroup.com/more)  - 显示您驱动器上的文件，按大小排序. 它可用于查找和删除未使用的文件.  ![免费软件][免费软件图标]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html)  - 用于验证磁盘和文件、运行清理和系统维护任务、配置隐藏选项等的多功能实用程序.  ![免费软件][免费软件图标]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) - 在 macOS Sierra 中对 NTFS 进行读/写访问.
-* [RemoveX](https://removex.io) - RemoveX is an uninstaller tool for Mac computer. RemoveX has a beautifully UI using native design for MacOS. Save hours of time and remove your app in seconds. Do not make you think. ![Freeware][Freeware Icon]
+* [RemoveX](https://removex.io)  - RemoveX 是 Mac 电脑的卸载工具.  RemoveX 有一个漂亮的用户界面，使用 MacOS 的原生设计. 节省数小时的时间并在几秒钟内删除您的应用程序. 不要让你思考.  ![免费软件][免费软件图标]
 * [Sensei](https://sensei.app/) - Sensei 是一款用于 Mac 性能的多功能工具，具有跨越硬件和软件的功能.
 * [Sloth](https://sveinbjorn.org/sloth/)  - 显示所有正在运行的进程正在使用的所有打开的文件、目录、套接字、管道和设备.  [![开源软件][OSS 图标]](https://github.com/sveinbjornt/Sloth/) ![免费软件][免费软件图标]
 * [SwiftQuit](https://github.com/onebadidea/swiftquit/)  - 在关闭窗口时启用 macOS 应用程序的自动退出.  [![开源软件][OSS 图标]](https://github.com/onebadidea/swiftquit) ![免费软件][免费软件图标]

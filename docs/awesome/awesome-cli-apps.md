@@ -111,7 +111,7 @@
 
 ### Frontend Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对特性的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [caniuse.com](https://caniuse.com) 关于浏览器对特性的支持.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从 CSS 中删除注释.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 免费发布静态网站.

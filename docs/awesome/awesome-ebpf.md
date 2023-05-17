@@ -188,7 +188,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ### bcc
 
-- [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监控. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
+- [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监视. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
 - [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - C 的另一种替代方案，甚至是 bcc 中使用的大多数 Python 代码的替代方案.
 
 ### iproute2
@@ -220,6 +220,10 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [aya](https://github.com/aya-rs/aya)  - 用于编写、加载和管理 eBPF 对象的纯 Rust 库，注重开发者体验和可操作性. 它支持用 Rust 编写 eBPF 程序，并通过 crates.io 分发库代码以在 eBPF 程序之间共享.  Aya 不依赖于 libbpf.
 - [aya-template](https://github.com/aya-rs/aya-template) - 在 Aya 中编写 BPF 应用程序的模板，可以与 [`cargo generate`](https://github.com/cargo-generate/cargo-generate).
 
+### zbpf
+
+- [zbpf](https://github.com/tw4452852/zbpf) - 用于编写跨平台 eBPF 程序的纯 Zig 框架，由 libbpf 和 Zig 工具链提供支持.
+
 ### eunomia-bpf
 
 - [eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf)  - 一个编译框架和运行时库，用于以多种语言和 WebAssembly 构建、分发、动态加载和运行 CO-RE eBPF 应用程序. 它支持仅编写 eBPF 内核代码（构建简单的 CO-RE libbpf eBPF 应用程序），以 BCC 和 libbpf 两种风格编写内核部分，并在 WASM 模块中以多种语言编写用户空间并使用简单的 JSON 数据或 WASM OCI 进行分发图片. 运行时仅基于 libbpf，并在不依赖 LLVM 库的情况下为 BCC 样式的 eBPF 程序提供 CO-RE.
@@ -233,7 +237,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 在那之后：
 
   - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和映射进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除映射，或附加和分离程序到 cgroups.
-  - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编程序.
+  - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编器.
   - [`bpf_dbg`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_dbg.c) - 用于 cBPF 程序的小型调试器.
   - [`bpf_jit_disasm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_jit_disasm.c) - 两种 BPF 风格的反汇编器，对 JIT 调试非常有用.
 
@@ -305,7 +309,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [DEEP-mon](https://www.slideshare.net/necstlab/deepmon-dynamic-and-energy-efficient-power-monitoring-for-containerbased-infrastructures) - 帮助测量服务器的功耗，并使用 eBPF 程序在内核中聚合数据.
 - [pixie](https://github.com/pixie-io/pixie)  - 使用 eBPF 的 Kubernetes 可观察性. 功能包括协议跟踪、应用程序分析和对分布式 bpftrace 部署的支持.
 - [SkyWalking Rover](https://github.com/apache/skywalking-rover) - [Apache SkyWalking](https://skywalking.apache.org/) 是一个开源应用程序性能监控（APM）平台，专为具有微服务、云原生和基于容器（Kubernetes）架构的分布式系统而设计.  SkyWalking Rover 是一个基于 eBPF 的分析器和指标收集器，适用于 C、C++、Golang 和 Rust 应用程序.
-- [parca-agent](https://github.com/parca-dev/parca-agent) - 基于 eBPF 的始终在线的连续分析器，用于分析 CPU 和内存使用情况，细化到行号和整个时间.
+- [parca-agent](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 - [rbperf](https://github.com/javierhonduco/rbperf) - Ruby 的采样分析器和跟踪器.
 - [Hubble](https://github.com/cilium/hubble) - 使用 eBPF 的 Kubernetes 网络、服务和安全可观察性.
 - [Caretta](https://github.com/groundcover-com/caretta) - 由 eBPF 生成的即时 Kubernetes 服务依赖关系图，直接指向 Grafana 实例.
@@ -327,7 +331,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
   - [bpftrace Cheat Sheet](https://www.brendangregg.com/BPF/bpftrace-cheat-sheet.html)  - bpftrace 中编程的摘要和备忘单. 包含有关语法、探针类型、变量和函数的信息.
 - [kubectl trace](https://github.com/iovisor/kubectl-trace) - 用于在 Kubernetes 集群中执行 bpftrace 程序的 kubectl 插件.
 - [inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - 一组基于 eBPF 的工具，用于调试和检查 Kubernetes 资源和应用程序.
-- [bpfd](https://github.com/genuinetools/bpfd) - Framework for running BPF programs with rules on Linux as a daemon. Container aware.
+- [bpfd](https://github.com/genuinetools/bpfd)  - 在 Linux 上作为守护进程运行 BPF 程序的框架. 容器意识.
 - [BPFd](https://github.com/joelagnel/bpfd) - 一个独特的 BPF 守护进程，试图利用 bcc 工具的灵活性来跟踪和调试远程目标，特别是运行 Android 的设备.
 - [adeb](https://github.com/joelagnel/adeb) - 一个 Linux shell 环境，用于在带有 BPFd 的 Android 上使用跟踪工具.
 - [greggd](https://github.com/olcf/greggd) - 系统守护程序，用于编译 eBPF 程序并将其加载到内核中，并将程序输出转发到套接字以进行度量聚合.
@@ -390,4 +394,4 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权.
+在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权利.

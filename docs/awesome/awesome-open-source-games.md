@@ -199,6 +199,7 @@
 - [Squirts](https://github.com/KrofDrakula/squirts) - 用 Ja​​vaScript 实现的知名独立游戏.
 - [The Killer](https://github.com/JordanMagnuson/The-Killer) - 基于 Flash/ActionScript3 的“非游戏”.
 - [Turkey Cooking Simulator](https://github.com/fernjager/game-off-2013)  - 你受邀制作美国感恩节大餐的核心——火鸡. 向你的女朋友/男朋友求爱，并由你未来的姻亲来评判！ 运用您的烹饪专业知识给您的家人留下深刻印象.
+- [Double Damnation](https://github.com/TheYellowArchitect/doubledamnation) - 独家 Co-Op Metroidvania 与 Smash Bros 近战运动.
 
 ## Native
 
@@ -359,7 +360,7 @@
 - [Wargus](https://github.com/Wargus/wargus) - Wargus 是一个 Warcraft2 Mod，允许您使用 Stratagus 引擎玩 Warcraft2.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - 后核实时战略.
 - [Wyrmsun](https://github.com/andrettin/wyrmsun) - 基于历史、神话和小说的策略游戏.
-- [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - 具有物理射弹和智能单位的开源 RTS 游戏.  
+- [Zero-K](https://github.com/ZeroK-RTS/Zero-K) - 具有物理射弹和智能单位的开源 RTS 游戏.
 - [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - 基于原版《要塞》系列的即时战略游戏.
 
 
@@ -442,7 +443,7 @@
 - [Gladiator 3D](https://github.com/krotik/gladiator_3d) - 用于伪 3D 游戏的基于 Canvas 的 JavaScript 光线投射引擎.
 - [Godot](https://github.com/okamstudio/godot)  - 功能齐全、获得麻省理工学院许可的游戏引擎. 它专注于拥有出色的工具和面向视觉的工作流程，可以轻松导出到 PC、移动和 Web 平台. 编辑器、语言和 API 功能丰富，但简单易学，可让您在数小时内提高工作效率.
 - [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - 由 Haxe 和 OpenFL 提供支持的免费跨平台 2D 游戏引擎.
-- [JiGS](https://github.com/Techbot/JiGS-PHP-RPG-engine) - 以 PHP 构建的在线角色扮演游戏和交易游戏引擎.
+- [JiGS](https://github.com/Techbot/JiGS-PHP-RPG-engine) - 用 PHP 构建的在线角色扮演游戏和交易游戏引擎.
 - [JMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - 面向富有冒险精神的 Java 开发人员的尖端跨平台 3D 游戏引擎.
 - [Kiwi.js](https://github.com/gamelab/kiwi.js)  - 基于 HTML5 游戏框架的极其快速的移动和桌面浏览器. 它使用 CocoonJavaScript 发布到 AppStore.
 - [LibGDX](https://github.com/libgdx/libgdx) - 桌面/Android/HTML5/iOS Java 游戏开发框架.
