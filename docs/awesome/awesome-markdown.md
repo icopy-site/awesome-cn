@@ -13,7 +13,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 <!--lint enable no-emphasis-as-heading-->
 
-:gem: means **really _awesome/useful_**.<br />
+:gem: 表示 **真的_awesome/useful_**.<br />
 ![Globe][globe] 表示 **它是 _webapp/webservice_**.<br />
 ![Android OS][android-os] 表示**在 _Android_** 上运行.<br />
 ![iOS Logo][ios-logo] 表示**在 _iOS_** 上运行.<br />
@@ -39,7 +39,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 &gt; 默认支持 Markdown 的 CMS 或博客.
 
 - [Ghost](https://blog.ghost.org/markdown/) - 专业博主的发布平台.
-- [Grav](https://getgrav.org/) - 现代平面文件 CMS.
+- [Grav](https://getgrav.org/) - Modern Flat-File CMS.
 - [Hexo](https://hexo.io/) - 一个快速、简单和强大的博客框架
 - [Hugo](https://gohugo.io/) - 快速和现代的静态网站引擎.
 - [Jekyll](https://jekyllrb.com/) - 将您的纯文本转换为静态网站和博客.
@@ -127,14 +127,14 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [Mark Text](https://github.com/marktext/marktext/)  - 下一代 Markdown 编辑器（使用 Electron 构建）.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [PileMd](https://pilemd.com/)  - 降价笔记应用程序.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [StackEdit](https://stackedit.io/)  - 浏览器内降价编辑器.  ![地球仪][地球仪]
-- [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
+- [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 可扩展的 GFM Markdown 所见即所得编辑器！[Globe][globe]
 - [Typora](https://typora.io/)  - 一个最小的 Markdown 编辑器.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-- [Notable](https://notable.md/)  - 不烂的基于 Markdown 的笔记应用程序.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Notable](https://notable.md/)  - 基于 Markdown 的笔记应用程序，不吸.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Boostnote](https://boostnote.io/)  - 开发人员的降价编辑器.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Trilium Notes](https://github.com/zadam/trilium)  - 专注于建立大型个人知识库的分层笔记应用程序.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Joplin](https://joplinapp.org/)  - 具有同步功能的开源笔记和待办事项应用程序.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows] ![iOS Logo][ios-logo] ![Android OS][android-os]
 - [Visual Studio Code](https://code.visualstudio.com/)  - 一个开源代码编辑器，内置 markdown 预览和许多 markdown 扩展.  ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-- [Quiver](http://happenapps.com/)  - 为程序员打造的笔记本.  ![Mac OS X][macosx] ![iOS 徽标][ios-徽标]
+- [Quiver](http://happenapps.com/)  - 专为程序员打造的笔记本.  ![Mac OS X][macosx] ![iOS 徽标][ios-徽标]
 - [Bear](https://bear.app/)  - 一个漂亮、灵活的写作应用程序，用于制作笔记和散文.  ![Mac OS X][macosx] ![iOS 徽标][ios-徽标]
 - [Obsidian](https://obsidian.md/) - 支持美人鱼的笔记本编辑器！[Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Bangle.io](https://bangle.io/)  - 一个像笔记 webapp 这样的概念，其中数据以 Markdown 格式保存在本地.  ![地球仪][地球仪]
@@ -196,7 +196,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [CommonMark](https://commonmark.org/) - 强定义、高度兼容的 Markdown 规范.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - GitHub Markdown 的正式规范，基于 CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _开始使用 Markdown 的地方！_
-- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) 有自己强大的降价实现. 它由几个附加扩展组成.
+- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown 是学术和学术交流的语法/标准/最佳实践，它首先是网络，其次是语义 XML，其次是 LaTeX/Word.
 - [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - 组织良好的 Markdown 文档.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Stack Overflow 上投票最高的 Markdown 问题.
@@ -225,9 +225,9 @@ _[Icon pack by Icons8](https://icons8.com)_
 
 <!--Definitions-->
 
-[地球仪]：https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png &#39;地球仪&#39;
-[android-os]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png &#39;安卓操作系统&#39;
-[ios-logo]: https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png &#39;iOS Logo&#39;
-[macosx]：https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png &#39;Mac OS X&#39;
-[Linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png &#39;Linux&#39;
-[窗口]：https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png &#39;Windows&#39;
+[地球仪]：https://img.icons8.com/color/24/globe.png &#39;地球仪&#39;
+[android-os]: https://img.icons8.com/color/24/android-os.png &#39;安卓操作系统&#39;
+[ios-logo]: https://img.icons8.com/color/24/ios-logo.png &#39;iOS 标志&#39;
+[macosx]：https://img.icons8.com/color/24/mac-logo.png &#39;Mac OS X&#39;
+[Linux]: https://img.icons8.com/color/24//linux--v1.png &#39;Linux&#39;
+[窗户]：https://img.icons8.com/color/24/windows-11.png &#39;窗户&#39;

@@ -43,7 +43,7 @@
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next 是一个非常轻量级的、现代的、基于 JVM 的全堆栈 kotlin 框架，旨在构建模块化、易于测试的 JVM 应用程序，支持 Java、Kotlin 语言，由最好的 Java 库和标准精心打造.
 * [Donkey](https://github.com/AppsFlyer/donkey) - 为易用性和性能而构建的现代 Clojure HTTP 服务器和客户端.
 * [SCX](https://github.com/scx567888/scx) - 一个开放易用的web框架，大部分功能基于注解.
-* [vertx-rest](https://github.com/dream11/vertx-rest) - 对 resteasy-vertx 的抽象，以简化基于 JAX-RS 注释编写 vertx REST 应用程序
+* [vertx-rest](https://github.com/dream11/vertx-rest) - 对 resteasy-vertx 的抽象，以简化基于 JAX-RS 注释编写 Vert.x REST 应用程序.
 
 ## Authentication Authorisation
 
@@ -228,7 +228,7 @@
 ## Config
 
 * [Vert.x Config AWS SSM Store](https://github.com/Finovertech/vertx-config-aws-ssm) - A [config store](http://vertx.io/docs/vertx-config/java/) 从中检索配置值的实现 [AWS EC2 SSM Parameter Store](https://aws.amazon.com/ec2/systems-manager/parameter-store/).
-* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
+* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticles.
 
 ## Dependency Injection
 
@@ -260,7 +260,7 @@
 * [Vert.x Child Process](https://github.com/vietj/vertx-childprocess) - 从 Vert.x 生成子进程.
 * [vertx-redisques](https://github.com/swisspush/vertx-redisques) - 用于 Vert.x 的高度可扩展的 redis-persistent 排队系统.
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) - 一个 OpenStack Swift 兼容的分布式对象存储服务器，可以使用 Vert.x 实现的最少资源来服务和安全地存储数十亿个大小文件.
-* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticle.
+* [Vert.x Boot](https://github.com/jponge/vertx-boot) - 从 HOCON 配置部署 Verticles.
 * [GDH](https://github.com/maxamel/GDH) - 建立在 Vert.x 之上的通用 Diffie-Hellman 密钥交换 Java 库.
 * [vertx-values](https://github.com/imrafaelmerino/vertx-values) - 从发送不可变和持久的 JSON [json-values](https://github.com/imrafaelmerino/json-values) 穿过事件总线.
 

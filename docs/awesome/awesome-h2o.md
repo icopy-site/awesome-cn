@@ -39,7 +39,7 @@
 
 ## Books
 
-- [Big data in psychiatry and neurology, Chapter 11: A scalable medication intake monitoring system](https://www.elsevier.com/books/big-data-in-psychiatry-and-neurology/moustafa/978-0-12-822884-5) 黛安·明京·伍德布里奇和凯文·本特森·黄.  (2021)
+- [Big data in psychiatry and neurology, Chapter 11: A scalable medication intake monitoring system](https://www.elsevier.com/books/big-data-in-psychiatry-and-neurology/moustafa/978-0-12-822884-5) 黛安·明京·伍德布里奇和凯文·本特森·王.  (2021)
 - [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r) 拉米·克里斯平.  (2019)
 - [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451)  Alex Tellez、Max Pumperla、Michal Malohlava.  (2017)
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh.  (2016)
@@ -52,6 +52,7 @@
 
 ## Research Papers
 
+- [Automated machine learning: AI-driven decision making in business analytics](https://www.sciencedirect.com/science/article/pii/S2667305323000133) 马克·施密特.  (2023)
 - [Water-Quality Prediction Based on H2O AutoML and Explainable AI Techniques](https://www.mdpi.com/2073-4441/15/3/475)  Hamza Ahmad Madni、Muhammad Umer、Abid Ishaq、Nihal Abuzinadah、Oumaima Saidani、Shtwai Alsubai、Monia Hamdi、Imran Ashraf.  (2023)
 - [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor)  Padmavati Kulkarnia、V.Sreekantha、Adithi R.Upadhyab、Hrishikesh ChandraGautama.  (2022)
 - [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/)  Noa Galtung、Eva Diehl-Wiesenecker、Dana Lehmann、Natallia Markmann、Wilma H Bergstrom、James Wacker、Oliver Liesenfeld、Michael Mayhew、Ljubomir Buturovic、Roland Luethy、Timothy E Sweeney、Rudolf Tauber、Kai Kappert、Rajan Somasundaram、Wolfgang Bauer.  (2022)

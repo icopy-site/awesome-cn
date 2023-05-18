@@ -62,7 +62,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
 - [Bitquery](https://explorer.bitquery.io/algorand)  - 适用于 30 多个区块链的可操作、有洞察力的区块链 GraphQL API. 突出显示的功能之一是能够查询 Algorand 区块提议者列表.
 
 ## Portfolio Trackers
@@ -80,7 +80,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand School](https://github.com/cusma/algorand-school) - Algorand School 速成课程幻灯片.
 - [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLpAdAjL5F75CNnmGbz9Dm_k-z5I6Sv9_x) - PyTeal 速成课程视频讲座.
-- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 权益证明区块链效率框架.
+- [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - 股权区块链效率框架证明.
 - [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - 了解 Algorand 的工作原理及其效率.
 - [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Algorand 虚拟机架构和 Algorand 智能合约（又名应用程序）简介.
 - [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - PyTeal 简介，一个用于在 Algorand 上开发智能合约的 Python 框架（与 [@matteojug](https://twitter.com/matteojug)).
@@ -248,7 +248,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 #### Nodes and Indexers
 
 - [Algorand - The Undocumented Docs](https://github.com/AlgoChads/algorand-undoc-docs) - 存档节点、索引器设置（以及更多）的开发说明.
-- [AlgoNode](https://algonode.cloud) - 节点运行常见问题解答、节点/索引器每日快照、免费节点/索引器 API.
+- [AlgoNode](https://algonode.io) - 免费的 Node/Indexer API、Node 运行常见问题解答、Node/Indexer 每日快照.
 - [Algorand Node UI](https://github.com/algorand/node-ui) - 用于远程 Algorand 节点管理的终端 UI.
 - [SubQuery](https://subquery.network) - 用于 Algorand 的开放、快速、灵活和去中心化的跨链数据索引器（[getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 

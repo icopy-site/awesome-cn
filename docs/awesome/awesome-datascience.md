@@ -32,10 +32,10 @@
 | --- | --- |
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力结合起来. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 90 年代的华尔街“宽客”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，许多大学开设了金融工程硕士课程，培养出主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们精湛的技能很快就在计算机科学课程中得到教授.
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 90 年代的华尔街“宽客”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，许多大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们精湛的技能很快就在计算机科学课程中得到教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争论者，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
-| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _关于数据科学家如何变得性感的故事，主要是成熟的统计学学科与一门非常年轻的学科——计算机科学相结合的故事.  “数据科学”一词是最近才出现的，专门指一种有望理解海量大数据的新职业. 但是理解数据的意义由来已久，科学家、统计学家、图书馆员、计算机科学家和其他人已经讨论了多年. 以下时间线追溯了术语“数据科学”及其使用的演变，尝试定义它和相关术语._ |
+| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _关于数据科学家如何变得性感的故事，主要是成熟的统计学学科与一门非常年轻的学科——计算机科学相结合的故事.  “数据科学”一词最近才出现，专门指一种有望理解海量大数据的新职业. 但是理解数据的意义由来已久，科学家、统计学家、图书馆员、计算机科学家和其他人已经讨论了多年. 以下时间线追溯了术语“数据科学”及其使用的演变，尝试定义它和相关术语._ |
 |[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) |数据科学家专注于通过探索性分析、统计和模型来理解数据. 软件开发人员使用不同的工具应用一组单独的知识. 尽管他们的重点似乎无关紧要，但数据科学团队可以从采用软件开发最佳实践中受益. 版本控制、自动化测试和其他开发技能有助于创建可重现的、生产就绪的代码和工具.|
 
 ## Where do I Start?
@@ -43,7 +43,7 @@
 
 虽然并非绝对必要，但拥有编程语言是成为数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，其应用领域非常广泛.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
 
- Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的充满活力的生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
+ Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
 
 与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
@@ -52,7 +52,7 @@
 ## Real World
 **[`^        back to top        ^`](#awesome-data-science)**
 
-数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界中的问题.
+数据科学是一种强大的工具，可用于各个领域，通过从复杂数据中提取见解和模式来解决现实世界的问题.
 
 ### Disaster
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -254,7 +254,7 @@
 - 自动编码器
 - 生成对抗网络 (GAN)
 - 自组织地图
-- Transformer
+- 变压器
 - 条件随机场（CRF）
 
 ### General Machine Learning Packages
@@ -416,8 +416,8 @@
 | [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/)  | 获取数字、文本、图像、GIS 或其他数据，并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由革命性的基于知识的 Wolfram 语言提供支持.  |
 | [Datadog](https://www.datadoghq.com/)  | 大规模数据科学的解决方案、代码和开发运营.  |
 | [Variance](https://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
-| [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可，版本 2.0），或简称为 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
-| [Domino Data Labs](https://www.dominodatalab.com)  | 运行、扩展、共享和部署您的模型——无需任何基础设施或设置.  |
+| [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称为 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
+| [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
 | [Apache Flink](https://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
 | [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
@@ -454,7 +454,7 @@
 | [Lightwood](https://github.com/mindsdb/lightwood)  | 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目的是通过一行代码构建预测模型.  |
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，将 Pandas 库的功能扩展到 AWS 连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
 | [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
-| [Amazon Textract](https://aws.amazon.com/textract/) | Automatically extract printed text, handwriting, and data from any document. |
+| [Amazon Textract](https://aws.amazon.com/textract/)  | 从任何文档中自动提取打印的文本、手写内容和数据.  |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规情况，以进行全面的质量控制.|
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
 | [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
@@ -484,6 +484,7 @@
 | [Arize AI](https://arize.com/)  |  Arize AI 社区层可观察性工具，用于监控生产中的机器学习模型和数据质量和性能漂移等根本问题.  |
 | [Aureo.io](https://aureo.io)  |  Aureo.io 是一个专注于构建人工智能的低代码平台. 它为用户提供了创建管道、自动化并将它们与人工智能模型集成的能力——所有这些都带有他们的基本数据.  |
 | [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的基于云的免费实体关系图 (ERD) 工具.
+| [Arize-Phoenix](https://docs.arize.com/phoenix)  | 笔记本中的 MLOps - 发现洞察力、表面问题、监控和微调您的模型.  |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -815,7 +816,7 @@
 | [Data Science Renee](https://twitter.com/BecomingDataSci)  | 记录我从攻读工程硕士学位的 SQL 数据分析师到数据科学家的历程 |
 | [Data Science Report](https://twitter.com/TedOBrien93)  | 使命是帮助指导和推进数据科学与分析领域的职业生涯 |
 | [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
-| [Data Vizzard](https://twitter.com/DataVisualizati)  |  DataViz, 安全, 军事 |
+| [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
 | [DataScienceX](https://twitter.com/DataScienceX) |  |
  | 深度学习4j |  |
 | [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，@ RelateIQ 副总裁.  |
@@ -933,7 +934,7 @@
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://datacite.org/)
 - [The official portal for European data](https://data.europa.eu/en)
-- [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link 金融、经济和另类数据集的主要来源.
+- [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link 金融、经济和替代数据集的主要来源.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)

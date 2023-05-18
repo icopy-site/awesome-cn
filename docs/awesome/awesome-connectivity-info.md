@@ -38,6 +38,7 @@
 - [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
 - [Speedtest Global Index](http://www.speedtest.net/global-index) - (2022) 每月全球移动和固定宽带速度指数.
 - cable.co.uk 的全球宽带价格比较 - ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/)) 基于固定线路/无线接入的全球宽带成本指数.
+- [Internet Poverty Index](https://internetpoverty.io/) - 互联网贫困指数来自 [World Data Lab.](https://worddatalab.com/) 
 
 ## Connectivity Maps
 

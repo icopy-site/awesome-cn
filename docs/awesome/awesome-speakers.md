@@ -5,7 +5,7 @@
 
 让我们更透明、更容易地找到适合聚会和会议的出色演讲者！ 这份发言人名单、他们的联系方式和他们谈论的主题是实现这一目标的开始.
 
-请添加到列表中，帮助社区更好地联系起来并变得更加丰富.
+请添加到列表中，帮助建立一个联系更紧密、更丰富的社区.
 
 
 
@@ -155,7 +155,7 @@ https://twitter.com/fransallen
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sarasoueidan" height="70px" width="70px" align="left" alt="" />
 
-**萨拉苏伊丹**\
+**萨拉苏埃丹**\
 主题：动画、CSS、SVG\
 https://twitter.com/sarasoueidan
 
@@ -257,6 +257,14 @@ https://twitter.com/markdalgleish
 主题：JavaScript、Web 开发、渐进式 Web 应用程序\
 https://twitter.com/philnash
 
+### Sydney
+
+<img src="https://s3.amazonaws.com/keybase_processed_uploads/8a4739ccde11be8cd6d020ffaf61e005_360_360.jpg" height="70px" width="70px" align="left" alt="" />
+
+**马里奥内布尔**\
+Topics: JavaScript, Node.js, JS Architecture\
+https://www.linkedin.com/in/mario-nebl-62b6b3187
+
 ## Europe
 
 ## Austria 🇦🇹
@@ -335,7 +343,7 @@ https://twitter.com/mmatuzo
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mxbck" height="70px" width="70px" align="left" alt="" />
 
-**马克斯·博克**\
+**马克斯博克**\
 主题：CSS、JavaScript、渐进式 Web 应用程序\
 https://twitter.com/mxbck
 
@@ -397,7 +405,7 @@ https://twitter.com/sambego
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/rstankov" height="70px" width="70px" align="left" alt="" />
 
-**拉多斯拉夫·斯坦科夫**\
+**Radoslav Stankov**\
 主题：React、Redux、Ruby、测试、GraphQL\
 https://twitter.com/rstankov
 
@@ -621,12 +629,6 @@ https://twitter.com/smashingmag
 
 ### Hamburg
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
-
-**马里奥内布尔**\
-主题：JavaScript、节点、JS 架构\
-https://twitter.com/marionebl
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
 
 **马丁·克莱普**\
@@ -723,7 +725,7 @@ https://twitter.com/dhigit9
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/augeva" height="70px" width="70px" align="left" alt="" />
 
-**奥古斯都福音派**\
+**Augustus Evangelisti**\
 主题：测试、敏捷、比特币\
 https://twitter.com/augeva
 
@@ -880,7 +882,7 @@ https://twitter.com/nirkaufman
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/UriShaked" height="70px" width="70px" align="left" alt="" />
 
 **Uri 摇晃**\
-主题：Web 蓝牙、WebVR、Angular、使用 JavaScript 的物联网\
+Topics: Web Bluetooth, WebVR, Angular, Internet of Things with JavaScript\
 https://twitter.com/UriShaked
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/yoniweisbrod" height="70px" width="70px" align="left" alt="" />
@@ -1039,11 +1041,11 @@ https://twitter.com/szynszyliszys
 主题：JavaScript、安全、Service Workers\
 https://twitter.com/kaapa_s
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kdzwinel" height="70px" width="70px" align="left" alt="" />
+<img src="https://assets.toot.cafe/accounts/avatars/000/000/504/original/e66815e29f46a5d5.jpg" height="70px" width="70px" align="left" alt="" />
 
 **康拉德·兹维内尔**\
 主题：开发者工具，JavaScript\
-https://twitter.com/kdzwinel
+https://toot.cafe/@kdzwinel
 
 ### Poznań
 
@@ -1087,11 +1089,11 @@ https://twitter.com/grabbou
 主题：React Native、Jest、测试、CSS\
 https://twitter.com/thymikee
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michalchudziak" height="70px" width="70px" align="left" alt="" />
 
-**迈克·丘齐亚克**\
+**Michael Chudziak**\
 主题：React、React Native、iOS、Android\
-https://twitter.com/michal_chudziak
+https://twitter.com/michalchudziak
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
 
@@ -1188,8 +1190,16 @@ https://twitter.com/simalexan
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/slobodan_" height="70px" width="70px" align="left" alt="" />
 
 **斯洛博丹·斯托扬诺维奇**\
-主题：无服务器、离线网络、聊天机器人\
+Topics: Serverless, Offline Web, Chat Bots\
 [https://twitter.com/slobodan\_](https://twitter.com/slobodan_)
+
+### Novi Sad
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stn1slv" height="70px" width="70px" align="left" alt="" />
+
+**斯坦尼斯拉夫·德维亚托夫**\
+主题：Kafka、Mulesoft、API 管理、集成平台\
+https://twitter.com/stn1slv
 
 ## Spain 🇪🇸
 
@@ -1285,7 +1295,7 @@ https://twitter.com/eagleeye_s
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/SilentImp" height="70px" width="70px" align="left" alt="" />
 
-**Anton Nemtsev**\
+**安东·涅姆采夫**\
 主题：HTML、CSS、网络标准\
 https://twitter.com/SilentImp
 
@@ -1309,7 +1319,7 @@ https://twitter.com/tshemsedinov
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mourner" height="70px" width="70px" align="left" alt="" />
 
-**弗拉基米尔·阿加丰金**\
+**弗拉基米尔·阿加方金**\
 主题：地图、算法\
 https://twitter.com/mourner
 
@@ -1755,12 +1765,6 @@ https://twitter.com/jensimmons
 主题：开源、社区、Node.js、JavaScript\
 https://twitter.com/joe_sepi
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kurtiskemple" height="70px" width="70px" align="left" alt="" />
-
-**柯蒂斯·肯普尔**\
-主题：React、React Native、GraphQL、通用组件\
-https://twitter.com/kurtiskemple
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="" />
 
 **劳拉·霍根**\
@@ -1801,7 +1805,7 @@ https://twitter.com/bitandbang
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/addyosmani" height="70px" width="70px" align="left" alt="" />
 
-**Addy Osmani**\
+**阿迪·奥斯马尼**\
 主题：Chrome DevTools、性能\
 https://twitter.com/addyosmani
 
@@ -1892,7 +1896,7 @@ https://twitter.com/shanselman
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jessebeach" height="70px" width="70px" align="left" alt="">
 
 **杰西海滩**\
-Topics: Accessibility, React\
+主题：辅助功能、React\
 https://twitter.com/jessebeach
 
 ### Salt Lake City
@@ -1961,7 +1965,7 @@ https://twitter.com/FrancesCoronel
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AGambit95" height="70px" width="70px" align="left" alt="" />
 
-**格雷戈里谢赫特**\
+**格雷戈里谢赫特**
 主题：函数式响应式编程、MobX、JS 中的 CSS、React\
 https://twitter.com/AGambit95
 
@@ -1976,12 +1980,6 @@ https://twitter.com/jhusain
 **詹妮弗黄**\
 主题：设计系统\
 https://twitter.com/mybluewristband
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="" />
-
-**乔恩·戈尔德**\
-主题：设计、设计系统、React、人工智能\
-https://twitter.com/jongold
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="" />
 
@@ -2028,7 +2026,7 @@ https://twitter.com/sarah_edo
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/sgrove" height="70px" width="70px" align="left" alt="" />
 
 **肖恩格罗夫**\
-Topics: GraphQL, ReasonML, OCaml\
+主题：GraphQL、ReasonML、OCaml\
 https://twitter.com/sgrove
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stefsull" height="70px" width="70px" align="left" alt="" />
@@ -2056,6 +2054,14 @@ https://twitter.com/DevWithTheHair
 **贝壳小**\
 主题：辅助功能\
 https://twitter.com/ShellELittle
+
+### Virginia Beach
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bytes__" height="70px" width="70px" align="left" alt="" />
+
+**柯蒂斯·肯普尔**\
+主题：React、React Native、GraphQL、通用组件\
+[https://twitter.com/bytes__](https://twitter.com/bytes__)
 
 ## South America
 

@@ -73,7 +73,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next Right Now](https://github.com/UnlyEd/next-right-now) - 灵活的**生产级样板**，带有 Next.js 9 和 Vercel，带有预配置的 Sentry、cookie、Amplitude、Emotion、FontAwesome、GraphQL/GraphCMS (Apollo)、Bootstrap (Reactstrap)、i18next (Locize)、Jest 、Cypress（E2E 测试）和 CI/CD（GH 操作），具有完整的 TypeScript 支持和 **支持 B2B 多租户 Web 应用程序（monorepo）**
 - [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier &amp; EsLint 样板
 - [Next & Vercel Typescript template](https://github.com/alepacheco/landing-template) - 无服务器、Typescript、Jest、Github CI、SCSS、更漂亮的样板
-- [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - 在具有云功能的 Firebase 中使用 Bootstrap 托管 NextJS 应用程序.
+- [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - 在带有 Cloud Functions 的 Firebase 中使用 Bootstrap 托管 NextJS 应用程序.
 - [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) - 带有 Next.js 和 Redux 的简单 PWA 样板.
 - [NextJS Starter](https://github.com/iaincollins/nextjs-starter) - 带有电子邮件和 oAuth 身份验证的 Next.js 的入门项目.
 - [nextjs-starter](https://github.com/pbteja1998/nextjs-starter)  - SEO 优化的 Next.js 10 入门工具包模板，带有 React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) 使用（NextAuth.js 和 Fauna DB）、ESLint、Prettier、预提交挂钩与哈士奇. 不同的页面可以有不同的布局.
@@ -84,7 +84,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) - 使用 Next.js、Firebase Firestore、styled-components 和 mobx-state-tree 构建的简单 CMS 博客.
 - [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - 具有 Express、Redux 和 PostCSS 的 Next.js 启动器.
 - [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) - 带有 Redux 和 Material UI 的样板 NextJS.
-- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库_和_最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
+- [Staart](https://github.com/nmaro/staart) - 积极维护 Next.js 组件库 _and_ 最小样板，以快速开始使用基于 Ooth 的工作用户帐户的应用程序.
 - [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS、Styled-jsx、Redux、PostCSS、可配置的 SEO
 - [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) - 外部 CSS 和 Sass + 从任何地方导入图像 + Prettier 和 Eslint + 环境变量和更多功能.
 - [next-starter](https://github.com/YuriBrunetto/next-starter) - 一个完整而简单的样板文件，内置 `sass (.scss)` 和 `postcss`.
@@ -104,14 +104,15 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Devii](https://github.com/vriad/devii) - 一个受 Medium 启发的开发博客启动器，使用 Next.js、React 和 TypeScript 构建，具有开箱即用的 Markdown 渲染、语法突出显示、SEO/元标记和 RSS 提要生成.
 - [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)  - 基于 Next.js 框架的完美博客入门代码.  ⚡️ 使用 Next.js、TypeScript、ESLint、Prettier、PostCSS、Tailwind CSS 制作.
 - [Next.js and Netlify Blogging Template](https://github.com/wutali/nextjs-netlify-blog-template) - 用于在 Netlify 堆栈上构建博客网站的完美样板，具有标记、CMS 和短代码等标准功能.
-- [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) - Next.js 中的 GraphQL Apollo 客户端-服务器集成与 Nexus 模式（代码优先方法）.
-- [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+- [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) - Next.js 中的 GraphQL Apollo Client-Server 集成与 Nexus Schema（代码优先方法）.
+- [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) - 漂亮的 Nextjs 作品集启动器，供软件工程师和设计师展示他们引以为豪的作品.
 - [Nextatic](https://github.com/tancredi/nextatic) - 静态网站多语言样板，具有用户可编辑的页面和使用 Netlify CMS + Next.js + SCSS + Typescript 的导航.
 - [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) - express 上的附加服务器与 nextjs 一起运行，并根据 STR API 的请求重新生成站点地图（带有索引站点地图）和 robots.txt 文件.
 - [superplate](https://github.com/pankod/superplate) - superplate 使用 TypeScript、styled-components、SWR、Storybook 和 35+ 插件在几秒钟内创建 Next.js 应用程序.
 - [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen)  - Hydrogen 是一个带有 tailwindCss 和 MDX 支持的 Nextjs 博客入门模板构建. 它具有开箱即用的所有必要的 MDX 简码.
 - [Next-Fire-Auth](https://github.com/hrushikedar33/next-fire-auth) - 一个很棒的启动应用程序样板，使用 Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks 进行身份验证
 - [NextJS Chargebee Subscription](https://github.com/bharathvaj-ganesan/chargebee-saas-stack)  - 以 Chargebee 为中心的 T3 堆栈，集成了用户订阅、身份验证和测试. 由 Prisma ORM 驱动.
+- [Next.js Enterprise](https://github.com/Blazity/next-enterprise)  - 用于高性能、可维护应用程序的企业级样板. 使用 Tailwind CSS、RadixUI、TypeScript 等构建.
 
 ## Extensions
 
@@ -142,7 +143,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [next-joi](https://github.com/codecoolture/next-joi) - 使用 _joi_ 验证 Next.js API 路由.
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules)  - 从 node_modules 转译代码的 Next.js 插件. 对 monorepos 有用.
 - [Destack for Next.js](https://github.com/liveduo/destack) - Next.js 扩展以可视化方式在本地构建登陆页面.
-- [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks 和 Next.js API 路由，使将 Sign-In with Ethereum 添加到您的应用程序变得非常容易.
+- [UseSIWE](https://github.com/random-bits-studio/use-siwe) - React hooks and Next.js API routes that make it super easy to add Sign-In with Ethereum to your app.
 
 ## Apps
 
@@ -175,7 +176,7 @@ _List 灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出事�
 - [Docker Success Center](https://success.docker.com) - Docker 成功中心
 - [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) - 根据 GPLv3 获得许可的德国法律信息系统.
 - [TikTok's HomePage](https://www.tiktok.com/) - TikTok 的主页
-- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 整合.
+- [njt.now.sh](https://njt.now.sh)  - npm 跳转到（您梦寐以求的包导航快捷方式）. 部分静态呈现，部分部署为 lambda. 每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，感谢 Now 集成.
 - [caseconverter.pro](https://caseconverter.pro) - 文本大小写转换器.
 - [Tottem](https://github.com/poulainv/tottem) - 使用 NextJs / Auth0 / Apollo Tools / Prisma2 构建的类固醇书签管理器
 - [Slow TV Map](https://slowtvmap.com)  - 一种发现轻松虚拟体验的有趣方式.  Next.js + Chakra UI + MySQL 托管在 Vercel 上.

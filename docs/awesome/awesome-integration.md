@@ -15,17 +15,17 @@
 ### API Management
  *API 管理解决方案提供了一种处理整个 API 生命周期的综合方法. 它们使开发人员能够创建、发布、保护和监控 API，确保系统之间高效可靠的通信. 这些工具具有身份验证、速率限制和分析等功能，可提供集中控制和增强的安全性，从而更轻松地跨不同平台和环境管理和扩展 API.*
 - [Akana API Management Platform](https://www.akana.com/products/api-platform) - 一个综合平台，可加速数字化转型，管理完整的 API 生命周期，并在跨多个云部署时确保合规性.
-- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 来自 Mulesoft 的单一统一平台，结合了 API 管理和集成功能，让您可以轻松设计、构建和管理 API.
+- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 来自 Mulesoft 的单一统一平台，结合了 API 管理和集成功能，使您可以轻松设计、构建和管理 API.
 - [Amazon API Management](https://aws.amazon.com/api-gateway/api-management/) - 一种安全且可扩展的 API 管理解决方案，使您能够以灵活高效的方式监控和管理 API.
 - [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台，提供全面的 API 管理能力，让您轻松构建、运行和管理 API.
 - [Apigee](https://cloud.google.com/apigee) - 来自 Google 的领先 API 管理解决方案，提供全面的 API 管理功能，可帮助您轻松创建、保护和扩展 API.
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - 适用于所有环境的 API 的混合多云管理平台，使您能够轻松管理 API、保护它们并深入了解它们的性能.
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - 来自 Torry Harris 的完整软件包，可帮助您管理 API 并将它们转化为可以推动业务发展的工具.
-- [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量、开源的API管理解决方案，提供全面的API管理能力，帮助您轻松管理您的API.
+- [Gravitee.io API Management](https://www.gravitee.io/products/api-management) - 灵活、轻量、开源的API管理解决方案，提供全面的API管理能力，帮助您轻松管理API.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，允许您跨云创建、公开、管理 API 并从中获利.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 全面的服务连接平台，提供丰富的API管理能力，让您轻松管理API、微服务和服务网格.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理解决方案，提供全面的 API 管理功能并帮助您在 API 的整个生命周期内对其进行管理.
-- [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 一个云原生的API管理方案，简化API的开发，让API更加灵活.
+- [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 一种云原生API管理解决方案，简化API的开发并使其更加灵活.
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台，提供完善的API管理能力，帮助您对API进行全生命周期管理.
 - [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - 来自 TIBCO 的云原生 API 平台，使您能够在任何地方部署 API 并从任何地方管理它们.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - 强大的 API 管理解决方案，让您轻松连接、构建和控制 API.
@@ -208,7 +208,7 @@
 - [Amazon SNS](https://aws.amazon.com/sns)  - 一种完全托管的发布/订阅消息服务，使您能够在分布式系统、微服务和事件驱动的无服务器应用程序之间发送和接收消息. 它提供了一种灵活、可扩展且经济高效的方式来通知订阅者事件和消息.
 - [Alibaba Cloud Message Queue for Apache Kafka](https://www.alibabacloud.com/product/kafka)  - 一项完全托管的 Apache Kafka 服务，可为您的应用程序提供高吞吐量、低延迟和高可用性的消息流. 它提供与其他阿里云服务的轻松集成和无缝数据迁移.
 - [Alibaba Cloud Message Queue for RabbitMQ](https://www.alibabacloud.com/product/rabbitmq)  - 分布式和完全托管的消息传递服务，可为您的应用程序提供高可扩展性、低延迟和高吞吐量. 它提供灵活的部署选项、轻松的管理和强大的安全功能.
-- [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service)  - 分布式消息和通知服务，支持应用程序和分离系统之间的并发操作和消息传输. 它为您的消息传递需求提供高可靠性、可扩展性和容错能力.
+- [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service)  - 分布式消息传递和通知服务，支持应用程序和分离系统之间的并发操作和消息传输. 它为您的消息传递需求提供高可靠性、可扩展性和容错能力.
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq)  - 一种分布式消息队列服务，支持微服务、分布式系统和无服务器应用程序之间基于消息的可靠异步通信. 它为您的消息流需求提供高可用性、可扩展性和持久性.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue)  - 与 Anypoint 平台完全集成的企业级云消息服务. 它提供灵活可靠的消息传递基础架构，使您能够集成和编排您的应用程序和系统.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - 可靠的云消息服务，提供多种消息模式，例如发布/订阅和请求/响应，并支持一系列协议和标准.
@@ -291,16 +291,16 @@
 <!--lint enable-->
 ### Workflow engine
 *Software tools that enable the design, execution, and monitoring of complex workflows or business processes. Workflow engines provide a way to automate and streamline business processes, while orchestration engines help to manage the interactions between different systems or services.*
-- [Activiti](https://github.com/Activiti/Activiti) - 用于执行 BPMN（业务流程模型和表示法）工作流的轻量级和以 Java 为中心的开源引擎.
+- [Activiti](https://github.com/Activiti/Activiti) - 一个轻量级和以 Java 为中心的开源引擎，用于执行 BPMN（业务流程模型和表示法）工作流.
 - [Apache Airflow](https://github.com/apache/airflow) - 一个平台，允许您以编程方式创建、安排和监控工作流，从而更轻松地管理和自动化复杂的数据管道.
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) - 一个开源的容器原生工作流引擎，旨在在 Kubernetes 上编排并行作业，从而更轻松地在云原生环境中管理和自动化复杂的工作流.
-- [Azkaban](https://github.com/azkaban/azkaban) - 分布式工作流管理器，帮助解决Hadoop作业依赖问题，使得在大规模数据处理环境中更容易调度和管理工作流.
+- [Azkaban](https://github.com/azkaban/azkaban) - 一个分布式工作流管理器，帮助解决Hadoop作业依赖问题，使得在大规模数据处理环境中更容易调度和管理工作流.
 - [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有设计器和可选开发环境的开源 BPMN 引擎，可以更轻松地构建和自动化复杂的业务流程.
 - [Cadence](https://github.com/uber/cadence) - 一个容错的、有状态的代码平台，可以更轻松地构建和管理复杂的、长时间运行的应用程序.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台，可帮助您以灵活且可扩展的方式自动化业务流程和决策.
 - [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在在微服务架构中运行和管理工作流.
 - [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个库，可以在任何 .NET Core 应用程序中执行工作流，从而更容易在 .NET 环境中自动化业务流程.
-- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式自动化业务流程.
+- [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式实现业务流程自动化.
 - [jBPM](https://github.com/kiegroup/jbpm) - 用于构建业务应用程序的工具包，可帮助您自动化业务流程和决策，从而更轻松地管理复杂的工作流程.
 - [StackStorm](https://github.com/StackStorm/st2) - 一个强大的自动化引擎，提供传感器、触发器、规则、工作流和操作，以帮助您自动化和编排复杂的工作流和应用程序.
 
@@ -511,7 +511,7 @@
    - [Exception Shielding](https://patterns.arcitura.com/soa-patterns/design_patterns/exception_shielding) - 通过正确处理异常来防止安全漏洞.
    - [Message Screening](https://patterns.arcitura.com/soa-patterns/design_patterns/message_screening) - 筛选邮件中的恶意内容.
    - [Service Perimeter Guard](https://patterns.arcitura.com/soa-patterns/design_patterns/service_perimeter_guard) - 保护服务边界以防止未经授权的访问.
-   - [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - Establishes trust between subsystems for improved security.
+   - [Trusted Subsystem](https://patterns.arcitura.com/soa-patterns/design_patterns/trusted_subsystem) - 在子系统之间建立信任以提高安全性.
 
 - 服务契约设计模式
    - [Concurrent Contracts](https://patterns.arcitura.com/soa-patterns/design_patterns/concurrent_contracts) - 允许多个版本的服务合同同时共存.
@@ -592,8 +592,12 @@
 <!--lint disable-->
 <!--lint enable-->
 ### Articles
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - 关于 REST API 安全性的最佳实践.
+- [建筑风格和
+the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST.
 - [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
 - [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 提出.
+- [Web API Design: Crafting interfaces that developers love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - 为开发人员创建一致、直观且用户友好的 Web API.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -776,7 +780,7 @@
 ### Protocols
 - [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)  - 一种消息队列协议，支持在应用程序或系统之间交换消息.  AMQP 0-9-1 提供可靠性、安全性和灵活性来处理复杂的消息传递场景.
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html)  - 一种广泛接受的消息队列协议，可在系统之间提供可靠、可互操作且高效的消息传递.  AMQP 1.0 支持广泛的消息传递场景，非常适合复杂的企业级应用程序.
-- [CoAP](http://coap.technology/)  - 专门为物联网 (IoT) 生态系统中的受限设备设计的应用程序协议.  CoAP 提供了一种轻量级、低开销的通信机制来支持资源受限的设备.
+- [CoAP](http://coap.technology/)  - 专为物联网 (IoT) 生态系统中的受限设备设计的专用应用程序协议.  CoAP 提供了一种轻量级、低开销的通信机制来支持资源受限的设备.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  - 一种广泛使用的协议，可促进 Web 服务器和客户端之间的通信.  HTTP 支持通过 Internet 传输数据，从而使 Web 应用程序可以无缝运行.
 - [JSON-RPC](https://www.jsonrpc.org/specification)  - 一种简单轻量级的远程过程调用协议，支持使用 JSON 数据在系统之间进行通信.  JSON-RPC 提供无状态通信，适用于资源受限的设备.
 - [MQTT](https://mqtt.org/mqtt-specification/)  - 一种轻量级高效的发布-订阅协议，支持设备间的消息传递.  MQTT 支持低开销通信，是物联网和移动应用程序的理想选择.
