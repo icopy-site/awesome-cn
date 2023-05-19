@@ -102,7 +102,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 ### XDP
 
 - [The eXpress Data Path](https://blogs.igalia.com/dpino/2019/01/10/the-express-data-path/) - 非常容易理解的 XDP 介绍，提供示例代码来展示如何处理数据包.
-- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，由 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller 撰写，他们都是重要的 eBPF 和 XDP 贡献者.
+- 技术文件中的所有 XDP 详细信息： [The eXpress Data Path: Fast Programmable Packet Processing in the Operating System Kernel](https://github.com/tohojo/xdp-paper)，作者是 Toke Høiland-Jørgensen、Jesper Dangaard Brouer、Daniel Borkmann、John Fastabend、Tom Herbert、David Ahern 和 David Miller，他们都是必不可少的 eBPF 和 XDP 贡献者.
 - [Work-in-progress documentation for XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/index.html)
 - [BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - 来自 Cilium 项目的指南.
 - [XDP Project overview](https://www.iovisor.org/technology/xdp)
@@ -166,7 +166,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [XDP for the Rest of Us](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop) - 第二版，有新内容.
 - [Load XDP programs using the ip (iproute2) command](https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263)
 - [XDP Hands-On Tutorial](https://github.com/xdp-project/xdp-tutorial) - 学习如何使用 XDP 处理数据包的渐进式（三个难度级别）教程.
-- [All your tracing are belong to BPF](https://www.trailofbits.com/post/all-your-tracing-are-belong-to-bpf) - 通过 LLVM 库在 C++ 应用程序中集成跟踪功能的分步演练.
+- [All your tracing are belong to BPF](https://blog.trailofbits.com/2021/11/09/all-your-tracing-are-belong-to-bpf/) - 通过 LLVM 库在 C++ 应用程序中集成跟踪功能的分步演练.
 - [Firewalling with BPF/XDP: Examples and Deep Dive](https://arthurchiao.art/blog/firewalling-with-bpf-xdp/) - 使用 TC 和 XDP 构建基本防火墙的简单指南.
 - [A Deep Dive into eBPF: Writing an Efficient DNS Monitoring.](https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf) - 详细说明用于在套接字过滤层捕获 DNS 请求的方法.
 
@@ -188,7 +188,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 ### bcc
 
-- [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监视. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
+- [bcc](https://github.com/iovisor/bcc/)  - 框架和工具集 - 一种处理 BPF 程序的方法，特别是用于跟踪和监控. 还包括一些可能有助于检查系统上的地图或程序的实用程序.
 - [Lua front-end for BCC](https://github.com/iovisor/bcc/tree/master/src/lua) - C 的另一种替代方案，甚至是 bcc 中使用的大多数 Python 代码的替代方案.
 
 ### iproute2
@@ -237,7 +237,7 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 - [bpftool](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 还有内核树中的一些其他工具，在 [linux/tools/net/](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/tools/net?h=v4.14) 对于 4.15 之前的版本，或者 [linux/tools/bpf/](https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/tree/tools/bpf) 在那之后：
 
   - [`bpftool`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpftool) - 一个通用实用程序，可用于与来自用户空间的 eBPF 程序和映射进行交互，例如显示、转储、加载、反汇编、固定程序，或显示、创建、固定、更新、删除映射，或附加和分离程序到 cgroups.
-  - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编器.
+  - [`bpf_asm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_asm.c) - 一个最小的 cBPF 汇编程序.
   - [`bpf_dbg`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_dbg.c) - 用于 cBPF 程序的小型调试器.
   - [`bpf_jit_disasm`](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/tree/tools/bpf/bpf_jit_disasm.c) - 两种 BPF 风格的反汇编器，对 JIT 调试非常有用.
 
@@ -394,4 +394,4 @@ Recently [Cilium](https://cilium.io) 推出了一个很棒的关于 eBPF 的网�
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权利.
+在法律允许的范围内，zoidbergwill 已放弃对本作品的所有版权和相关或邻接权.

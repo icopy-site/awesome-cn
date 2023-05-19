@@ -68,6 +68,7 @@ Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全
 
 - [Official OSS Apps](https://github.com/cloudflare-apps) - 官方应用程序的集合.
 - [Logflare](https://github.com/Logflare/cloudflare-app) - 日志管理和事件分析.
+- [OpWork.dev](https://github.com/hisorange/opwork) - 自托管 CloudFlare 工人管理平台.
 
 ## Workers
 
@@ -127,12 +128,12 @@ Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全
 - [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - 根据用户的 IP 地址重定向用户.
 - [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - 在支持时将图像重新路由到 webp.
 - [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - 地理路由和与工人的负载平衡.
-- [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - 去除查询字符串中的 UTM 标签.
+- [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - Strip UTM tags in query string.
 - [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - 重定向短链接.
 - [Repo Hunt](https://github.com/signalnerve/repo-hunt) - 每天寻找很酷的开源项目.
 - [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - 工人脚本的集合，通常侧重于性能优化.
 - [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - 处理您的 reCAPTCHA 表单的服务器端验证.
-- [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+- [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) - - TypeScript 模板 \w 多个 CF Worker、`*.env` 文件和本地测试.
 
 ## Other
 

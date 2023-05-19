@@ -76,8 +76,8 @@
 - [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Java 示例.
 - [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri 的官方 ArcGIS Runtime Android 产品团队 Kotlin 示例.
 - [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri 的官方 ArcGIS Runtime iOS 产品团队示例.
-- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 示例.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 样本.
+- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 C++ 样本.
+- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri 的官方 ArcGIS Runtime Qt 产品团队 QML 示例.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - 开始使用 ArcGIS API for JavaScript 4.x 的样板集合.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - 用于 ArcGIS API for JavaScript 的通用代码模式的 Visual Studio 代码片段集合.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - 有助于成功使用所有 ArcGIS 开发人员产品（Python、NET、JavaScript、Android……）的社区示例.
@@ -134,7 +134,7 @@
 - 最佳实践、书籍、视频和培训：
 	- [Cartography and Making Stunning Maps](https://www.youtube.com/watch?v=AGf_DjZZwXc) - 短视频展示了一些使用不同混合模式效果可以实现的示例.
 	- [How to style using ArcGIS Online](https://www.youtube.com/watch?v=6vy-kVkIcRg&list=PLPjPOZQjCWEn6ezKrwN11L8NWhZ2JdpYd) - 包含展示某些 ArcGIS 样式功能的短视频集合的播放列表.
-	- [Photoshop-style Graphics Effects for Your Layers and Data](https://www.youtube.com/watch?v=crmWm80hwKI) - 解释如何使用混合模式以及图层和要素效果来使用 ArcGIS API for JavaScript 4.x 创建独特且令人惊叹的 web 地图的视频. 
+	- [Photoshop-style Graphics Effects for Your Layers and Data](https://www.youtube.com/watch?v=crmWm80hwKI) - 视频解释了如何使用混合模式以及图层和要素效果来使用 ArcGIS API for JavaScript 4.x 创建独特且令人惊叹的 web 地图. 
 	- [MapUIPatterns](https://www.mapuipatterns.com/)  - 最佳实践和设计原则.  UI 模式描述了观察到的和重复出现的设计问题的解决方案.
 - 开发者工具：
 	- [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - 地图图标、网络组件和良好实践的集合.
@@ -158,15 +158,16 @@
 ## Helpers
 
 - [arcgis-geometry-calculations](https://github.com/hhkaos/arcgis-geometry-calculations) - 用于创建和获取 ArcGIS 几何计算的 Web 应用程序.
-- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 在 ArcGIS API for JavaScript 4.x 中为 3D 网络应用程序获取摄像机位置 JSON 对象的网络应用程序.
+- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - 在 ArcGIS API for JavaScript 4.x 中为 3D 网络应用程序获取相机位置 JSON 对象的网络应用程序.
 - [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) - 用于在 ArcGIS API for JavaScript 4.x 中为 Web 应用程序获取地图范围 JSON 对象的 Web 应用程序.
 - [epsg.io](https://github.com/maptiler/) - 用于发现和转换来自世界各地的坐标系的网站.
-- [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑器构建的应用程序中延迟加载 ArcGIS API for JavaScript（即从 CDN）.
+- [esri-loader](https://github.com/Esri/esri-loader) - 一个小型库，可帮助您在使用流行的 JavaScript 框架和捆绑器构建的应用程序中延迟加载 ArcGIS API for JavaScript（即来自 CDN）.
 - [esri-loader-hooks](https://github.com/tomwayson/esri-loader-hooks) - 自定义 React 挂钩，用于将 ArcGIS API for JavaScript 与 esri-loader 结合使用.
 - [geojson-random-generator](https://github.com/erick-otenyo/geojson-random-generator) - 快速生成和下载随机 GeoJSON 进行测试.
 - [histogrand](https://github.com/hhkaos/histogrand) - 根据自定义直方图生成随机值.
 - [mercator-geographic-converter](https://github.com/hhkaos/mercator-geographic-converter/) - 地理单位（纬度、经度）和墨卡托单位（x、y）之间的简单坐标转换器.
 - [react-sceneview](https://github.com/Esri/react-sceneview) - 基于 ArcGIS API for JavaScript 构建的简单 Esri SceneView 反应组件.
+- [bboxfinder](http://bboxfinder.com/) - 简单的 Web 应用程序，用于获取在地图上绘制的边界框的坐标.
 
 ## Map and data exploration
 
@@ -175,7 +176,7 @@
 - [ArcGIS Scene Viewer](https://www.arcgis.com/home/webscene/viewer.html) - 用于创建、浏览和共享 3D 应用程序的 Web 地图的 Web 应用程序.
 - [Geo Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.geo-data-viewer)  - 地理数据分析的 VSCode 扩展. 支持生成和查看地图.
 - [geojson.io](https://github.com/mapbox/geojson.io)  - 用于可视化、生成和编辑地理空间矢量数据的 Web 应用程序. 支持 GeoJSON、TopoJSON、CSV、KML、WKT 和 shapefile.
-- [Mapshaper](https://github.com/mbloch/mapshaper) - 用于简化形状、编辑属性数据、剪辑、擦除、溶解、过滤等的 Web 应用程序.支持的文件格式：Shapefile、GeoJSON、TopoJSON 和 CSV 文件. 
+- [Mapshaper](https://github.com/mbloch/mapshaper) - 用于简化形状、编辑属性数据、剪切、擦除、溶解、过滤等的 Web 应用程序.支持的文件格式：Shapefile、GeoJSON、TopoJSON 和 CSV 文件. 
 - [Smart Mapping](https://www.esri.com/en-us/smart-mapping) - 它内置在地图和场景查看器中，但一些 API（如 JavaScript 和 Python）也提供实用程序来帮助构建数据探索工具.
 - [VSCode Map Preview](https://marketplace.visualstudio.com/items?itemName=jumpinjackie.vscode-map-preview) - 用于在地图上可视化预览地理空间文件内容（GeoJSON、KML 等）的扩展.
 

@@ -75,13 +75,13 @@ Fiber 社区创建的中间件列表.
 - [arsmn/fastgql](https://github.com/arsmn/fastgql) - 用于构建 GraphQL 服务器的 Go 库，无需大惊小怪，但具有 fasthttp 支持.
 - [kiyonlin/fiber_limiter](https://github.com/kiyonlin/fiber_limiter) - 限制器基于 golang.org/x/time/rate 的分叉率.
 - [juandiii/go-jwk-security](https://github.com/juandiii/go-jwk-security) - 用于光纤的 JWT 中间件. 
-- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的普罗米修斯中间件.
+- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 gofiber 的 Prometheus 中间件.
 - [LdDl/fiber-long-poll](https://github.com/LdDl/fiber-long-poll) - Golang 长轮询库，用于名为 Fiber 的基于 fasthttp 的 Web 框架.
 - [K0enM/fiber_vhost](https://github.com/K0enM/fiber_vhost) - 用于 Fiber 的 Vhost（虚拟主机）中间件，它允许使用基于主机头的虚拟主机.
 - [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth 中间件.
 - [theArtechnology/fiber-inertia](https://github.com/theArtechnology/fiber-inertia) - 这是一个基于 inertia-laravel 的 Inertia.js 服务器端适配器，但适用于 Fiber Framework.
 - [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - 健康检查中间件支持Fiber️框架的健康检查.
-- [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - 用于 Go Fiber 的 APM 代理.
+- [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - Go Fiber 的 APM 代理.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - 用于光纤的 LDAP 身份验证中间件.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC，可作为中间件替代 Varnish.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制的工作证明挑战的反 DDoS/机器人中间件.
@@ -95,13 +95,14 @@ Fiber 社区创建的中间件列表.
 ## 🚧 Boilerplates
 Fiber 的预制样板.
 - [gofiber/boilerplate](https://github.com/gofiber/boilerplate) - 官方纤维样板.
-- [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - Fiber web 框架的样板.
+- [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - Fiber 网络框架的样板.
 - [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate) - 具有许多中间件和功能的光纤网络框架顶部的样板.
 - [sujit-baniya/goravel](https://github.com/sujit-baniya/goravel) - Laravel 类似样板 go Go，支持 Gofiber 或 Gin.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - 用于 Create Go App CLI 的光纤后端模板.
 - [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - 简单且可扩展的样板，用于使用 Fiber 构建功能强大且有组织的 REST 项目. 
 - [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - 带有许多中间件的 Fiber 样板 API.
 - [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template)  - 一个生产就绪的、容器优先的固执己见的 gofiber 项目模板. 通过 envvars 配置，通过 go.uber.org/fx 进行 DI，通过 uptrace/bun 进行数据库，具有开箱即用的 MVC 文件夹结构和 CI/CD 支持.
+- [mikhail-bigun/go-app-template](https://github.com/mikhail-bigun/go-app-template) - 具有丰富 Fiber 实现的干净架构 Go 应用程序样板.
 
 
 ## 📁 Recipes

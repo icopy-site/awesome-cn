@@ -315,7 +315,7 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - 用于表达量子算法的领域特定编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) - 受 Ruby 和 Python 启发并编译为高性能 JavaScript 的编程语言.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - 旨在充分利用 GLib 和 GNOME 生态系统的编程语言，同时保持 C 代码的速度.
-- [Coq](https://github.com/coq-community/awesome-coq#readme) - 用于编程和规范的正式语言和环境，有助于机器检查证明的交互式开发.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - 用于开发可维护软件的简单、快速、安全的编译语言.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - 用于维护稳健、优化和可重用软件的通用编程语言和工具链.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - 用于编写安全智能合约的特定领域编程语言.
@@ -403,6 +403,7 @@
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - 用于快速构建网站的模板、布局、组件和小部件.
 - [Master CSS](https://github.com/master-co/awesome-master-css#readme) - 一种具有增强语法的虚拟 CSS 语言.
 - [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - 用于使用 React 构建 Shopify 店面的边缘优先框架.
+- [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - 适合 2 kB 的前端库，具有依赖性.
 
 ## Back-End Development
 
@@ -501,7 +502,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套数据结构.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - 算法的算法审计.
-- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - 通用人工智能 (AGI) 和计算认知科学 (CoCoSci) 的交互作用.
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## Books
 
@@ -545,7 +546,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - 游戏引擎.
 
@@ -700,7 +701,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程战略.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
 
 ## Work
 
@@ -729,7 +730,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - 开源分布式结算网络.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源去中心化微博网络.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - 用于智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 支持工业规模应用程序的去中心化操作系统.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - 专为企业设计的开源区块链平台.
@@ -883,7 +884,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人分为风险类别的方法.
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条码，可用于存储和共享少量信息.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 让以植物为基础的生活方式变得简单易行.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - 将文本的含义从一种语言转移到另一种语言.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - 用于 JavaScript 自动化的 iOS 应用程序.

@@ -75,7 +75,7 @@
 * [DlangScience](https://github.com/DlangScience) - 科学图书馆和 D 工具的焦点和第一停靠港.
 * [Circular Studios](https://github.com/Circular-Studios)  - 我们是罗彻斯特理工学院的一群游戏开发人员，他们致力于构建游戏和游戏技术. 主持 [Dash](https://github.com/Circular-Studios/Dash)，一个用 D 语言编写的 3D 游戏引擎，以及其他相关库.
 * [EMSI](https://github.com/economicmodeling)  - 一家以 D 为主要语言的职业建设公司. 托管他们的开源项目.
-* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
+* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数值库开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 总部位于柏林的公司，专门从事在线广告实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 开源了他们代码库的大部分作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日管理的资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了以下项目的开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
@@ -167,10 +167,11 @@
 * [reggae](https://github.com/atilaneves/reggae) - D 中的元构建系统
 * [Makefile](https://github.com/bioinfornatics/MakefileForD) - D 项目的 Makefile 模板
 * [cmake-d](https://github.com/dcarp/cmake-d) - CMake D 项目
-* [cook2](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
+* [cook2](https://github.com/gecko0307/Cook2) - 用于 D 中项目的快速增量构建工具
 * [button](https://jasonwhite.io/button/) - 一个通用的构建系统，只需按一下按钮即可构建您的软件.
 * [wild](https://github.com/Vild/Wild) - 野生构建系统，用于构建 [PowerNex](https://github.com/PowerNex/PowerNex) 核心
 * [XMake](https://xmake.io) - XMake 是一个跨平台的构建系统，它结合了 D 语言并且还支持 DUB 存储库.
+* [wox](https://github.com/redthing1/wox) - 受 Make 启发的高度灵活的配方构建系统
 
 
 <a name="ide"></a>
@@ -184,7 +185,7 @@
 * [Dexed](https://gitlab.com/basile.b/dexed) - D 编程语言及其编译器、工具和库的 IDE.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - 集成各种D开发工具的Vim插件
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\] - 使用 serve-d 的 Visual Studio Code 扩展
-* [ide-d](https://atom.io/packages/ide-d) - 使用 serve-d 对 D 的 Atom 扩展
+* [ide-d](https://atom.io/packages/ide-d) - 使用 serve-d 的 D 原子扩展
 
 <br/>
 
@@ -215,7 +216,7 @@
 * [hunt-validation](https://github.com/huntlabs/hunt-validation) - 基于 hunt 库的 DLang 数据验证库.
 
 ## Containers
-* [EMSI containers](https://github.com/dlang-community/containers) -  Containers that do not use the GC 
+* [EMSI containers](https://github.com/dlang-community/containers) - 不使用 GC 的容器 
 - [memutils](https://github.com/etcimon/memutils) - 开销分配器、分配器感知容器和 D 对象的生命周期管理
 - [dlib.container](https://github.com/gecko0307/dlib) - 通用数据结构（无 GC 的动态和关联数组等）
 - [std.rcstring](https://github.com/burner/std.rcstring) - 用于 D 的内置字符串构造的引用计数字符串实现
@@ -301,7 +302,7 @@
 * [vibe.d](https://github.com/vibe-d/vibe.d)  - Vibe.d 内部支持 Redis 和 MongoDB，非常稳定. 很快，数据库驱动程序将被分离到独立的项目中.
 * [mysql-native](https://github.com/mysql-d/mysql-native) - 在本机 D 中实现的 MySQL 客户端.
 * [ddb](https://github.com/pszturmaj/ddb)  - D2 的数据库访问. 目前只支持 PostgreSQL.
-* [arsd](https://github.com/adamdruppe/arsd)  - Adam D. Ruppe 的图书馆； 除了 Web 后端之外，它还支持使用 database.d、sqlite.d、mysql.d 和 postgres.d 访问数据库.
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [ddbc](https://github.com/buggins/ddbc)  - DDBC 是 D 语言的 DB 连接器（类似于 JDBC）.  HibernateD（见下文）使用 ddbc 进行数据库抽象.
 * [hibernated](https://github.com/buggins/hibernated) - HibernateD 是 D 的 ORM（类似于 [Hibernate](https://hibernate.org/)).
 * [dvorm](https://github.com/rikkimax/Dvorm)  - 支持 Vibe 的 D 的 ORM. 与 vibe.d 和 mysql-d 一起工作，使其能够访问 MongoDB 和 MySQL.
@@ -426,7 +427,7 @@
 
 ## Video applications
 
-* [DerelictGL3](https://github.com/DerelictOrg/DerelictGL3) - 动态绑定到 OpenGL 的 D 编程语言.
+* [DerelictGL3](https://github.com/DerelictOrg/DerelictGL3) - 为 D 编程语言动态绑定到 OpenGL.
 
 ## Image Processing
 
