@@ -95,13 +95,13 @@
 
 ### AWS
 
-- [AWS Lambda the Terraform Way](https://github.com/nsriram/lambda-the-terraform-way)  - 使用 Terraform 深入了解 AWS Lambda，超越执行功能. 还包括与 S3、API 网关、DynamoDB、Kinesis、SQS 集成的指南.
+- [AWS Lambda the Terraform Way](https://github.com/nsriram/lambda-the-terraform-way) - Understand AWS Lambda in-depth, beyond executing functions, using Terraform. Also includes guides for integration with S3, API Gateway, DynamoDB, Kinesis, SQS.
 - [Managing AWS Lambda Functions with Terraform](https://spacelift.io/blog/terraform-aws-lambda) - AWS Lambda 的用途是什么以及如何使用 Terraform 来管理 AWS Lambda 函数？
 
 ### Google Cloud
 - [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/architecture/managing-infrastructure-as-code) - 使用 Terraform、Cloud Build 和 GitOps 设置和管理基础架构即代码.
 - [Getting started with Terraform on Google Cloud](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform) - 使用 Terraform 在 Google Cloud 中创建虚拟机并启动基本的 Python Flask 服务器.
-- [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - 使用 Terraform 部署 Kubernetes 负载均衡器服务、使用 Terraform 的基于 HTTPS 内容的负载均衡器、使用 Terraform 的模块化负载平衡 - 区域负载均衡器、使用 Terraform 的自定义提供程序、使用 Terraform 的 Cloud SQL、使用 Terraform 在 Google Cloud 和 AWS 之间构建 VPN.
+- [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - 使用 Terraform 部署 Kubernetes 负载均衡器服务，使用 Terraform 部署基于 HTTPS 内容的负载均衡器，使用 Terraform 进行模块化负载均衡 - 区域负载均衡器，使用 Terraform 的自定义提供程序，使用 Terraform 的 Cloud SQL，使用 Terraform 在 Google Cloud 和 AWS 之间构建 VPN.
 - [Hashicorp Terraform Tutorials for Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) - 开始在 Google Cloud 上使用 Terraform.
 
 ### Miscellaneous
@@ -252,7 +252,7 @@
 - [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础架构. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfexport](https://github.com/Azure/aztfexport) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -262,6 +262,7 @@
 - [flora](https://github.com/ketchoop/flora) - Terraform 版本管理器.
 - [fogg](https://github.com/chanzuckerberg/fogg) - 消除管理 Terraform 存储库的麻烦的工具.
 - [former2](https://github.com/iann0036/former2) - 从您的 AWS 账户中的现有资源生成地形配置.
+- [fuzzy-terraform-rm](https://github.com/paololazzari/fuzzy-terraform-rm) - 用于从 terraform 状态中删除资源的模糊查找器命令行工具.
 - [gaia](https://github.com/gaia-app/gaia) - 用于导入和运行 Terraform 模块的 Web 应用程序.
 - [hcldump](https://github.com/magodo/hcldump) - 转储 HCL (v2) 抽象语法树.
 - [hcledit](https://github.com/minamijoyo/hcledit) - HCL 的命令行编辑器.
@@ -321,7 +322,7 @@
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt 是 Terraform 的薄包装器，它提供了额外的工具来保持 Terraform 配置干燥、使用多个 Terraform 模块以及管理远程状态.
 - [Terrahaxs](https://www.terrahaxs.com) - GitOps Terraform CI/CD GitHub 应用程序：heavy_dollar_sign：
 - [terrahelp](https://github.com/opencredo/terrahelp) - 旨在提供补充功能的命令行实用程序，有时在使用 Terraform 时证明是有用的.
-- [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 Terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时地形执行，以及历史地形运行的审计和报告功能.  :heavy_dollar_sign:
+- [terrahub](https://github.com/TerraHubCorp/terrahub)  - TerraHub 是 Terraform 自动化和编排工具. 无缝集成到 console.terrahub.io，企业友好的 GUI 显示实时 terraform 执行，以及历史 terraform 运行的审计和报告功能.  :heavy_dollar_sign:
 - [terramate](https://github.com/mineiros-io/terramate) - 用于管理多个 Terraform 堆栈的工具，支持更改检测和代码生成
 - [terrascan](https://github.com/accurics/terrascan) - Terraform 模板静态代码分析的安全和最佳实践测试合集
 - [terraspace](https://terraspace.cloud) - Terraform 框架
@@ -395,7 +396,7 @@
 - [How to Extend the Terraform Provider List](https://www.youtube.com/watch?v=2BvpqmFpchI) - 在本次演讲中，Paul 将介绍如何创建 Terraform 提供程序.
 - [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul) - Mitchell Hashimoto 展示了如何使用 Terraform 来部署和扩展容器化工作负载.
 - [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g) - DigitalOcean 如何使用 Terraform 运行生产集成测试.
-- [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0) - Running Terraform at scale with hundreds of AWS accounts.
+- [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0) - 使用数百个 AWS 账户大规模运行 Terraform.
 - [Setup Continuous Integration for a Terraform module](https://www.youtube.com/watch?v=vuJ6bjYKUcA) - 将 CI 与 Kitchen-Terraform 结合使用来测试、标记和发布我们的 Terraform 模块的示例，该模块创建了一个 Google 计算实例.
 - [State of Terraform Providerland](https://www.youtube.com/watch?v=ar1PF5iDtbg) - Terraform 提供者如何工作以及如何编写一个.
 - [Terraform At Scale](https://www.youtube.com/watch?v=RldRDryLiXs) - Segment 如何使用 Terraform.

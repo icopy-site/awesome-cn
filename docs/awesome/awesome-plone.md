@@ -13,9 +13,11 @@
 
 此列表旨在填补这一空白，并创建关于常见产品和技术的共享知识.
 
+有关从 PyPi 聚合所有 Plone 相关包的可过滤插件列表，请参阅 https://pag.derico.tech.
+
 此列表仅涵盖适用于最新主要版本 Plone（目前为 5.2 和 6）的附加组件，并且仅涵盖那些支持 Python 3 的附加组件.
 
- Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 `plone.restapi` 与 Plone 进行通信.  Volto 本身具有很强的可扩展性. 签出 [awesome-volto list](https://github.com/collective/awesome-volto) 用于 Volto 的附加组件.
+ Plone 6 带有一个名为 Volto 的新默认前端，它是用 React 编写的，并使用 `plone.restapi` 与 Plone 进行通信.  Volto 本身具有很强的可扩展性. 签出 [awesome-volto list](https://github.com/collective/awesome-volto) for add-ons to Volto.
 
 
 
@@ -59,7 +61,7 @@ _扩展布局编辑器 plone.app.mosaic._ 的附加组件
 
 * [plone.app.standardtiles](https://github.com/plone/plone.app.standardtiles) - Mosaic 使用的一组标准图块，但可以从任何其他图块管理器使用.
 * [collective.tiles.carousel](https://github.com/collective/collective.tiles.carousel) - 基于 Bootstrap 5 轮播组件的 plone.app.mosaic 滑块.
-* [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) - 显示 html 文本的磁贴（类似于静态文本 portlet），带有一些额外的配置，例如添加自定义 css 类的可能性.
+* [collective.tiles.advancedstatic](https://github.com/collective/collective.tiles.advancedstatic) - 一个显示 html 文本的磁贴（类似于静态文本 portlet），带有一些额外的配置，例如添加自定义 css 类的可能性.
 * [collective.tiles.collection](https://github.com/collective/collective.tiles.collection) - 显示一组集合结果的磁贴，可以选择（和开发）自定义布局.
 
 
@@ -94,7 +96,7 @@ _帮助管理多语言网站的插件._
 
 _处理图像、视频和音频内容的附加组件._
 
-* [collective.autoscaling](https://github.com/collective/collective.autoscaling)  - 大图像的自动缩放. 当编辑上传太大的图像时，有助于减小数据库大小.
+* [collective.autoscaling](https://github.com/collective/collective.autoscaling)  - 自动缩放大图像. 当编辑上传太大的图像时，有助于减小数据库大小.
 * [collective.behavior.banner](https://github.com/collective/collective.behavior.banner) - 从横幅创建横幅和滑块的行为.
 * [collective.lazysizes](https://github.com/collective/collective.lazysizes) - 集成 lazysizes，一个轻量级的延迟加载器，到 Plone.
 * [collective.wavesurfer](https://github.com/collective/collective.wavesurfer) - 为 Plone 实施 https://wavesurfer-js.org 音频播放器.
@@ -201,7 +203,7 @@ _帮助管理员部署和维护 Plone 的附加组件_
 如果您找不到 100% 符合您要求的东西，您可以：
 
 * 使您的要求适应可用的条件.
-* Invest the time & money to customize an existing add-ons to better fit your needs.
+* 投入时间和金钱来定制现有的附加组件，以更好地满足您的需求.
 * 创建一个完全满足您需要的新插件.
 
 ## Official resources

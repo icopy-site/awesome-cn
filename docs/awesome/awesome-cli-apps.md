@@ -295,7 +295,7 @@
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器、终端、墙纸、Slack 等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为墙纸.
 - [pywal](https://github.com/dylanaraps/pywal) - 生成和更改配色方案，然后在系统范围内将它们应用到您喜欢的所有程序中.
-- [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
 - [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
 ### Shell Utilities
@@ -321,10 +321,11 @@
 
 ### Markdown
 
-- [DocToc](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files.
+- [DocToc](https://github.com/thlorenz/doctoc) - 为降价文件生成目录.
 - [grip](https://github.com/joeyespo/grip) - 预览降价文件，因为 GitHub 会呈现它们.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 风格化的终端降价查看器.
 - [glow](https://github.com/charmbracelet/glow) - 风格降价渲染.
+- [gtree](https://github.com/ddddddO/gtree) - 使用 markdown 生成目录树和目录本身.
 
 ### Security
 
@@ -442,9 +443,9 @@
 - [transmission-cli](https://transmissionbt.com) - 命令行的 Torrent 客户端.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) - 流媒体客户端.
 - [entr](https://github.com/eradman/entr) - 文件更改时运行任意命令.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) - 自动组织您的文件.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - 在 Rust 中组织 cli，具有更多自定义功能.
-- [RecoverPy](https://github.com/PabloLec/RecoverPy) - 恢复被覆盖或删除的文件.
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 
 ### File Sync/Sharing
 

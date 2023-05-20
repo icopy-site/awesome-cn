@@ -30,6 +30,8 @@
 - [Computronics](https://wiki.vexatos.com/wiki:computronics) - 添加各种外围设备的模组，特别是用于检测世界中的事件和处理声音. 
 - [Plethora](https://plethora.madefor.cc)  - 添加外围设备并允许访问许多块的模组. 此外，它还允许将播放器作为外围设备进行操作. 
 - [CC:C Bridge](https://www.curseforge.com/minecraft/mc-mods/cccbridge) - 一个增加了对 [Create mod](https://ftb.fandom.com/wiki/Create) 到 ComputerCraft. 
+- [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - 一个最终目标是让海龟变得如此有用的模组，所以你永远不需要任何其他自动化模组！
+- [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks)  - 添加各种外围设备以扩展 CC:T 功能的模组. 还为其他模组添加了很多外围设备.
 
 ### Resource packs
 

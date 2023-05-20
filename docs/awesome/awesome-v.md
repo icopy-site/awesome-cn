@@ -93,6 +93,7 @@
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
+- [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - 用 V 编写的后端框架.
 
 ## Libraries
 
@@ -149,7 +150,7 @@
 
 ### Graphics
 
-- [V Earcut](https://github.com/Larpon/earcut) - 基于的快速（实时）多边形三角剖分库 [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
+- [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
 - [vgl](https://github.com/justicesuh/vgl) - 低级图形 API 访问.
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - 一个 libSDL2 包装器.
@@ -193,7 +194,7 @@
 
 ### Text processing
 
-- [ascii_robot](https://github.com/Delta456/ascii_robot) - ASCII Robot generator written in V.
+- [ascii_robot](https://github.com/Delta456/ascii_robot) - 用 V 编写的 ASCII 机器人生成器.
 - [chalk](https://github.com/etienne-napoleone/chalk) - 为终端中的字符串着色.
 - [cjson](https://github.com/lydiandy/cjson) - 为 vlang 包装 cJSON.
 - [crayon](https://github.com/thecodrr/crayon)  - 像毕加索一样绘制你的终端输出.  ️
