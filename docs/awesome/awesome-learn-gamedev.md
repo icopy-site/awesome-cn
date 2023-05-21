@@ -124,10 +124,10 @@
 [Data Structure Implementation and Analysis](https://web.archive.org/web/20220405031903/https://www.ics.uci.edu/~thornton/ics46/Schedule.html) - 加州大学欧文分校数据结构和算法课程的讲义、作业和材料（免费访问！）
 
 
-[Game Programming Patterns](https://gameprogrammingpatterns.com/) - 一本关于游戏编程模式的免费书籍.
+[Game Programming Patterns](https://gameprogrammingpatterns.com/) 🟪 - A free book on programming patterns for games.
 
 
-[A Study Path for Game Programmers](https://github.com/miloyip/game-programmer)  - 大量游戏编程书名和封面，按专业分类，每个书名之间有精美的流程图，推荐阅读顺序！ 请注意，这些书_不_包括在内 - 快速搜索应该可以帮助您解决问题；]
+[A Study Path for Game Programmers](https://github.com/miloyip/game-programmer)  - 大量游戏编程书名和封面按专业分类，每个书名之间有精美的流程图推荐阅读顺序！ 请注意，这些书_不_包括在内 - 快速搜索应该可以帮助您解决问题；]
 
 
 [How to Learn Software Design and Architecture](https://www.freecodecamp.org/news/software-design/) - 软件架构资源列表.
@@ -193,6 +193,9 @@
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 一个视频系列，作为线性代数课程的补充，由 3Blue1Brown 制作.
 
 
+[How to make Games for Gameboy](https://laroldsjubilantjunkyard.com/tutorials/how-to-make-a-gameboy-game/)  - 关于为 Gameboy 开发游戏的综合教程系列. 还包括指向其他​​相关教程系列的链接，例如 C 编程教程.
+
+
 [Understanding ECS](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/) - 关于实体组件系统设计和实现的博客文章.
 
 
@@ -235,7 +238,7 @@
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Nvidia 关于 GPU 编程和架构的三 (3) 本免费书籍.
 
 
-[Render Hell](http://simonschreibt.de/gat/renderhell/)  - 图形概述和为程序员呈现的所有内容. 涵盖概述，以及大量书籍和其他资源的参考资料，以便进行更深入的阅读.
+[Render Hell](http://simonschreibt.de/gat/renderhell/)  - 图形概述和为程序员呈现的所有内容. 涵盖概述，包含大量书籍和其他资源的参考资料，以供更深入的阅读.
 
 
 ["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - 关于_非常_技术艺术形式的 YouTube 系列
@@ -299,7 +302,7 @@
 
 [The Case of the Missing Rewards](https://www.bungie.net/en/Explore/Detail/News/50140) - 对命运中一个特别棘手的错误的非常有趣的分解，以及它是如何被发现和修复的.
 
-[C is not a Low-Level Language](https://queue.acm.org/detail.cfm?id=3212479) - 一篇关于为什么 C 不是低级语言的文章，以及由此产生的性能.
+[C is not a Low-Level Language](https://queue.acm.org/detail.cfm?id=3212479) - 一篇关于为什么 C 不是低级语言以及由此产生的性能的文章.
 
 [Sigbovik](http://sigbovik.org) -仔细阅读这个好笑：P
 
@@ -371,7 +374,7 @@
 
 [Procedural Rigging Python](https://www.pluralsight.com/courses/procedural-rigging-python-maya-2283)  - 关于创建 Python 工具以在 Maya 中程序化装配角色的课程. 注意：有 10 天的免费试用期，但之后会变得非常昂贵.
 
-[Stop Staring: Facial Modeling and Animation Done Right](https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907) - A book on facial modeling, animation, and rigging. Fair warning: this is $80 new. I would recommend getting it used, if possible.
+[Stop Staring: Facial Modeling and Animation Done Right](https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907)  - 一本关于面部建模、动画和绑定的书. 公平警告：这是 80 美元的新品. 如果可能的话，我建议使用它.
 
 [Mastering Rigging and Python Scripting in Maya](https://www.thegnomonworkshop.com/tutorials/master-rigging-python-scripting-in-maya)  - 知名艺术大学Gnomon的一门课程. 公平警告：7 天内前 2 小时的内容是免费的，但之后的订阅费用为每月 54 美元. 
 
@@ -442,7 +445,7 @@
 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) - 关于如何绘画的网络漫画，更重要的是，如何_学习_绘画.
 
 
-[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist)  - 自学艺术课程. 如果您想_真正_磨练自己的技能，这无疑值得您花时间.
+[Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist)  - 自学艺术课程. 如果你想_真正_磨练你的技能，这无疑是值得你花时间的.
 
 
 [DrawABox](https://drawabox.com/) - 详尽的艺术基础课程（完全免费！）
@@ -522,7 +525,7 @@
 
 ### Resources for Non-Artists
 
-请注意，那里还有很多很多资源——这些资源主要是作为构建外观精美的游戏的一种方式，即使在学习不同学科的同时也是如此.
+Note that there are many, many more resources out there - these are primarily included as a way to build a polished-looking game even while learning a different discipline.
 
 免版税游戏美术！ 不要忘记检查许可证.
 - [Open Game Art](https://opengameart.org/)
@@ -557,7 +560,7 @@
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - 关于编写游戏设计文档 (GDD) 的教程.
 
 
-[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/) 💠🟪 - A database of common design patterns presented as problem solutions, compiled from the book _Pattern Language for Game Design_. Also contains work from students and designers completing excercises from the book.
+[Pattern Language for Game Design](https://patternlanguageforgamedesign.com/)  - 作为问题解决方案呈现的常见设计模式的数据库，由《游戏设计模式语言》一书编译​​而成. 还包含学生和设计师完成本书练习的作品.
 
 
 [The Evolution of Trust](https://ncase.me/trust/)  - 一些博弈论的交互式演练. 可能是游戏设计课上的必读内容.

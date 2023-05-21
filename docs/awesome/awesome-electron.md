@@ -9,7 +9,7 @@
 
 <br>
 
-<!-- ---
+---
 
 <br>
 <br>
@@ -17,15 +17,13 @@
 	<sub>查看我的最新应用</sub>
 	<br>
 	<h2>
-		<a href="https://www.producthunt.com/posts/today-14">今天</a>
+		<a href="https://www.producthunt.com/posts/hyperduck">超级鸭</a>
 		<br>
-		<sup>在 macOS 菜单栏中快速查看您的日程安排</sup>
+		<sup>将链接从您的 iOS 设备发送到您的 Mac（比 AirDrop 更好）</sup>
 	</h2>
 </div>
 <br>
 <br>
-
--->
 
 ---
 
@@ -56,36 +54,6 @@
 			<b>Strapi 是领先的开源无头 CMS.</b>
 			<div>
 				<sup>它是 100% JavaScript、完全可定制且开发人员优先.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>使数据发挥作用的文书工作.</b>
-			<div>
-				<sub>
-				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
-				<br>
-				将文书工作自动化构建到您的产品中的最简单方法.
-				</sub>
-			</div>
-		</a>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>使数据发挥作用的文书工作.</b>
-			<div>
-				<sub>
-				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
-				<br>
-				将文书工作自动化构建到您的产品中的最简单方法.
-				</sub>
 			</div>
 		</a>
 		<br>
@@ -208,7 +176,7 @@
 - [GitKraken](http://www.gitkraken.com) - Git 客户端.
 - [1Clipboard](http://1clipboard.io) - 通用剪贴板管理器.
 - [Postman](https://www.getpostman.com) - 创建和发送 HTTP 请求.
-- [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - 桌面版.
+- [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
 - [Avocode](http://avocode.com) - 共享设计和协作.
 - [Prepros](https://prepros.io) - 通过实时浏览器刷新编译几乎任何预处理语言.
 - [Stremio](http://www.strem.io) - 媒体中心.
@@ -309,7 +277,7 @@
 - [trilogy](https://github.com/citycide/trilogy) - 支持原生 C++ 和纯 JavaScript 后端的 TypeScript SQLite 数据库层.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - 阻止广告和追踪器.
 - [electronmon](https://github.com/catdad/electronmon) - 在开发过程中监控和重新加载进程外的应用程序.
-- [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+- [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式.
 - [UpdateRocks!](https://www.update.rocks)  - 自动更新服务. 免费用于开源项目.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - 构建可通过插件扩展的应用程序.
 

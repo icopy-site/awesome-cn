@@ -310,7 +310,7 @@ _用于配置解析的库._
 - [gookit/config](https://github.com/gookit/config)  - 应用程序配置管理（加载、获取、设置）. 支持 JSON、YAML、TOML、INI、HCL. 多文件加载，数据覆盖合并.
 - [harvester](https://github.com/beatlabs/harvester) - Harvester，一个易于使用的静态和动态配置包，支持播种、env vars 和 Consul 集成.
 - [hjson](https://github.com/hjson/hjson-go)  - 人类 JSON，人类的配置文件格式. 宽松的语法，更少的错误，更多的评论.
-- [hocon](https://github.com/gurkankaymak/hocon) - 用于处理 HOCON（一种人性化的 JSON 超集）格式的配置库，支持环境变量、引用其他值、注释和多个文件等功能.
+- [hocon](https://github.com/gurkankaymak/hocon) - 用于处理 HOCON（人性化的 JSON 超集）格式的配置库，支持环境变量、引用其他值、注释和多个文件等功能.
 - [ingo](https://github.com/schachmat/ingo) - 标志保留在类似 ini 的配置文件中.
 - [ini](https://github.com/go-ini/ini) - Go包读写INI文件.
 - [ini](https://github.com/wlevene/ini) - INI 解析器和写入库，解组到结构，编组到 Json，写入文件，监视文件.
@@ -381,7 +381,7 @@ _用于预处理 CSS 文件的库._
 - [bloom](https://github.com/yourbasic/bloom) - Golang 布隆过滤器实现.
 - [bloomfilter](https://github.com/OldPanda/bloomfilter) - Go 中的另一个 Bloomfilter 实现，与 Java 的 Guava 库兼容.
 - [boomfilters](https://github.com/tylertreat/BoomFilters) - 用于处理连续、无界流的概率数据结构.
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合的布谷鸟过滤器，与其他工具相比，它是可配置的和空间优化的，并且提供了原始论文中提到的所有功能.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - 布谷鸟过滤器：一个综合的布谷鸟过滤器，与其他工具相比，它是可配置的和空间优化的，并且提供了原论文中提到的所有功能.
 - [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo 过滤器：Go 中实现的计数布隆过滤器的一个很好的替代品.
 - [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
 
@@ -653,6 +653,7 @@ _用于构建和使用 SQL 的库._
 - [pq](https://github.com/lib/pq) - 用于数据库/sql 的纯 Go Postgres 驱动程序.
 - [Sqinn-Go](https://github.com/cvilsmeier/sqinn-go) - 带有纯 Go 的 SQLite.
 - [sqlhooks](https://github.com/qustavo/sqlhooks) - 将挂钩附加到任何数据库/sql 驱动程序.
+- [surrealdb.go](https://github.com/surrealdb/surrealdb.go) - 用于 Go 的 SurrealDB 驱动程序.
 - [ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - 本机和数据库/sql 驱动程序 YDB（Yandex 数据库）
 
 ### NoSQL Database Drivers
@@ -935,7 +936,7 @@ _用于处理表单的库._
 - [form](https://github.com/go-playground/form)  - 将 url.Values 解码为 Go 值并将 Go 值编码为 url.Values. 双阵列和全地图支持.
 - [formam](https://github.com/monoculum/formam) - 将表单的值解码为结构.
 - [forms](https://github.com/albrow/forms) - 与框架无关的库，用于解析和验证支持多部分表单和文件的表单/JSON 数据.
-- [gbind](https://github.com/bdjimmy/gbind)  - 将数据绑定到任何 Go 值. 可以使用内置和自定义表达式绑定功能； 支持数据验证
+- [gbind](https://github.com/bdjimmy/gbind)  - 将数据绑定到任何 Go 值. 可以使用内置和自定义表达式绑定功能； 支持数据校验
 - [gorilla/csrf](https://github.com/gorilla/csrf) - 对 Go web 应用程序和服务的 CSRF 保护.
 - [httpin](https://github.com/ggicci/httpin) - 将 HTTP 请求解码为自定义结构，包括查询字符串、表单、HTTP 标头等.
 - [nosurf](https://github.com/justinas/nosurf) - Go 的 CSRF 保护中间件.
@@ -1145,7 +1146,7 @@ _用于处理图像的库._
 - [color-extractor](https://github.com/marekm4/color-extractor) - 没有外部依赖性的主色提取器.
 - [darkroom](https://github.com/gojek/darkroom) - 具有可变存储后端和图像处理引擎的图像代理，专注于速度和弹性.
 - [draft](https://github.com/lucasepe/draft) - 使用简单的 YAML 语法为 GraphViz 生成高级微服务架构图.
-- [geopattern](https://github.com/pravj/geopattern) - 从字符串创建美丽的生成图像模式.
+- [geopattern](https://github.com/pravj/geopattern) - 从字符串创建漂亮的生成图像模式.
 - [gg](https://github.com/fogleman/gg) - 纯 Go 中的 2D 渲染.
 - [gift](https://github.com/disintegration/gift) - 图像处理过滤器包.
 - [gltf](https://github.com/qmuntal/gltf) - 高效且强大的 glTF 2.0 阅读器、编写器和验证器.
@@ -1254,7 +1255,7 @@ _用于处理 JSON 的库._
 - [jsonf](https://github.com/miolini/jsonf) - 用于突出显示格式和结构查询获取 JSON 的控制台工具.
 - [jsongo](https://github.com/ricardolonga/jsongo) - 流畅的 API 可以更轻松地创建 Json 对象.
 - [jsonhal](https://github.com/RichardKnop/jsonhal) - 简单的 Go 包，使自定义结构编组为 HAL 兼容的 JSON 响应.
-- [jsonhandlers](https://github.com/abusomani/jsonhandlers) - JSON 库公开简单的处理程序，使您可以轻松地从各种来源读取和写入 json.
+- [jsonhandlers](https://github.com/abusomani/jsonhandlers) - JSON 库公开简单的处理程序，让您轻松地从各种来源读取和写入 json.
 - [jsonic](https://github.com/sinhashubham95/jsonic) - 无需以类型安全方式定义结构即可处理和查询 JSON 的实用程序.
 - [jzon](https://github.com/zerosnake0/jzon) - 具有标准兼容 API/行为的 JSON 库.
 - [kazaam](https://github.com/Qntfy/kazaam) - 用于任意转换 JSON 文档的 API.
@@ -1373,7 +1374,7 @@ _机器学习库._
 - [probab](https://github.com/ThePaw/probab)  - 概率分布函数. 贝叶斯推理. 用纯 Go 编写.
 - [randomforest](https://github.com/malaschitz/randomForest) - 易于使用的 Go 随机森林库.
 - [regommend](https://github.com/muesli/regommend) - 推荐和协同过滤引擎.
-- [shield](https://github.com/eaigner/shield) - 贝叶斯文本分类器，具有灵活的分词器和 Go 的存储后端.
+- [shield](https://github.com/eaigner/shield) - 具有灵活分词器和 Go 存储后端的贝叶斯文本分类器.
 - [tfgo](https://github.com/galeone/tfgo)  - 易于使用的 Tensorflow 绑定：简化官方 Tensorflow Go 绑定的使用. 在 Go 中定义计算图，加载和执行在 Python 中训练的模型.
 - [Varis](https://github.com/Xamber/Varis) - Golang 神经网络.
 
@@ -1411,7 +1412,7 @@ _实现消息传递系统的库._
 - [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster 是一个去推送服务器集群.
 - [gorush](https://github.com/appleboy/gorush) - 推送通知服务器使用 [APNs2](https://github.com/sideshow/apns2) 和谷歌 [GCM](https://github.com/google/go-gcm).
 - [gosd](https://github.com/alexsniffin/gosd) - 用于安排何时将消息发送到频道的库.
-- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase Cloud Messaging、Apple Push Notification 服务、SMS）以及 websockets 的消息服务器，一个 REST API，具有分布式操作和消息持久性.
+- [guble](https://github.com/smancke/guble) - 使用推送通知（Google Firebase Cloud Messaging、Apple Push Notification 服务、SMS）以及 websockets 和 REST API 的消息服务器，具有分布式操作和消息持久性的特点.
 - [hare](https://github.com/leozz37/hare) - 一个用户友好的库，用于发送消息和监听 TCP 套接字.
 - [hub](https://github.com/leandro-lugaresi/hub) - 用于 Go 应用程序的消息/事件中心，使用发布/订阅模式，支持别名，如 rabbitMQ 交换.
 - [jazz](https://github.com/socifi/jazz) - 一个简单的 RabbitMQ 抽象层，用于队列管理以及消息的发布和消费.
@@ -2036,7 +2037,7 @@ _用于测试代码库和生成测试数据的库._
 
 - 测试框架
 
-  - [apitest](https://apitest.dev) - 简单且可扩展的行为测试库，用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序.
+  - [apitest](https://apitest.dev) - 用于基于 REST 的服务或支持模拟外部 http 调用和序列图呈现的 HTTP 处理程序的简单且可扩展的行为测试库.
   - [assert](https://github.com/go-playground/assert) - 与原生 go 测试一起使用的基本断言库，以及用于自定义断言的构建块.
   - [badio](https://github.com/cavaliercoder/badio) - Go 的 `testing/iotest` 包的扩展.
   - [baloo](https://github.com/h2non/baloo) - 富有表现力和多功能的端到端 HTTP API 测试变得简单.
@@ -2231,7 +2232,7 @@ _用于解析和操作文本的库._
 - [go-runewidth](https://github.com/mattn/go-runewidth) - 获取字符或字符串的固定宽度的函数.
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Go 的零宽度字符检测和删除.
 - [kace](https://github.com/codemodus/kace) - 涵盖常见首字母缩写词的常见案例转换.
-- [petrovich](https://github.com/striker2000/petrovich) - Petrovich 是将俄语名字变形为给定语法格的库.
+- [petrovich](https://github.com/striker2000/petrovich) - Petrovich 是将俄语名字变形为给定语法格的图书馆.
 - [radix](https://github.com/yourbasic/radix) - 快速字符串排序算法.
 - [TySug](https://github.com/Dynom/TySug) - 关于键盘布局的替代建议.
 
@@ -2287,7 +2288,7 @@ _用于访问第三方 API 的库._
 - [go-trending](https://github.com/和ygrunwald/go-trending) - 去图书馆访问 [trending repositories](https://github.com/trending) 和 [developers](https://github.com/trending/developers) 在 Github.
 - [go-twitter](https://github.com/dghubble/go-twitter) - 用于 Twitter v1.1 API 的客户端库.
 - [go-unsplash](https://github.com/hbagdi/go-unsplash) - 去客户端库 [Unsplash.com](https://unsplash.com) 应用程序接口.
-- [go-xkcd](https://github.com/nishanths/go-xkcd) - xkcd API 的 Go 客户端.
+- [go-xkcd](https://github.com/nishanths/go-xkcd) - XKCD API 的 Go 客户端.
 - [go-yapla](https://git.iglou.eu/Production/go-yapla) - 用于 Yapla v2.0 API 的客户端库.
 - [goagi](https://github.com/staskobzar/goagi) - 转到库以构建 Asterisk PBX agi/fastagi 应用程序.
 - [goami2](https://github.com/staskobzar/goami2) - Asterisk PBX 的 AMI v2 库.
@@ -2383,7 +2384,7 @@ _让您的生活更轻松的通用实用程序和工具._
 - [equalizer](https://github.com/reugn/equalizer) - Go 的配额管理器和速率限制器集合.
 - [ergo](https://github.com/cristianoliveira/ergo) - 管理在不同端口上运行的多个本地服务变得容易.
 - [evaluator](https://github.com/nullne/evaluator)  - 根据 s 表达式动态评估表达式. 它简单且易于扩展.
-- [filetype](https://github.com/h2non/filetype) - 用于推断检查幻数签名的文件类型的小包.
+- [filetype](https://github.com/h2non/filetype) - 用于推断文件类型检查幻数签名的小包.
 - [filler](https://github.com/yaronsumel/filler) - 使用“fill”标签填充结构的小工具.
 - [filter](https://github.com/gookit/filter) - 提供 Go 数据的过滤、清理和转换.
 - [fzf](https://github.com/junegunn/fzf) - 用 Go 编写的命令行模糊查找器.
@@ -2393,7 +2394,7 @@ _让您的生活更轻松的通用实用程序和工具._
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - 在一个地方管理您的 git 存储库.
 - [go-actuator](https://github.com/sinhashubham95/go-actuator) - 用于基于 Go 的 Web 框架的生产就绪功能.
 - [go-astitodo](https://github.com/asticode/go-astitodo) - 在您的 GO 代码中解析 TODO.
-- [go-bind-plugin](https://github.com/wendigo/go-bind-plugin) - go:generate 用于包装由 golang 插件导出的符号的工具（仅限 1.8）.
+- [go-bind-plugin](https://github.com/wendigo/go-bind-plugin) - go:generate 工具，用于包装由 golang 插件导出的符号（仅限 1.8）.
 - [go-bsdiff](https://github.com/gabstv/go-bsdiff) - 纯 Go bsdiff 和 bspatch 库和 CLI 工具.
 - [go-clip](https://github.com/prashantgupta24/go-clip) - 适用于 Mac 的简约剪贴板管理器.
 - [go-convert](https://github.com/Eun/go-convert) - 包 go-convert 使您能够将值转换为另一种类型.
@@ -2921,7 +2922,7 @@ _用 Go 编写的软件._
 - [script](https://github.com/bitfield/script) - 使在 Go 中为 DevOps 和系统管理任务编写类似 shell 的脚本变得容易.
 - [sg](https://github.com/ChristopherRabotin/sg) - 对一组 HTTP 端点（如 ab）进行基准测试，可以根据其先前的响应在每次调用之间使用响应代码和数据来应对特定的服务器压力.
 - [skm](https://github.com/TimothyYe/skm) - SKM 是一个简单而强大的 SSH 密钥管理器，它可以帮助您轻松管理多个 SSH 密钥！
-- [StatusOK](https://github.com/sanathp/statusok) - 监控您的网站和 REST API.当您的服务器停机或响应时间超过预期时，通过 Slack、电子邮件获得通知.
+- [StatusOK](https://github.com/sanathp/statusok) - 监控您的网站和 REST API.当您的服务器出现故障或响应时间超过预期时，通过 Slack、电子邮件获得通知.
 - [terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) - Terraform 提供程序插件，可在运行时根据包含公开 API 定义的 OpenAPI 文档（以前称为 swagger 文件）动态配置自身.
 - [traefik](https://github.com/containous/traefik) - 支持多个后端的反向代理和负载均衡器.
 - [trubka](https://github.com/xitonix/trubka) - 一个 CLI 工具，用于管理 Apache Kafka 集群并对其进行故障排除，具有向/从 Kafka 一般发布/使用协议缓冲区和纯文本事件的能力.

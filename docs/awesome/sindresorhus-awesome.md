@@ -18,9 +18,9 @@
 		<sub>查看我的最新应用</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/today-14">今天</a>
+			<a href="https://www.producthunt.com/posts/hyperduck">超级鸭</a>
 			<br>
-			<sup>在 macOS 菜单栏中快速查看您的日程安排</sup>
+			<sup>将链接从您的 iOS 设备发送到您的 Mac（比 AirDrop 更好）</sup>
 		</h2>
 	</div>
 	<br>
@@ -73,70 +73,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/bitio-logo.svg" width="190" alt="bit.io">
-			</div>
-			<b>即时、可共享的云 PostgreSQL 数据库</b>
-			<div>
-				<sup>在几秒钟内导入任何数据集，单击即可与任何人共享，无需注册即可尝试</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
-			</div>
-			<br>
-			<div>
-				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
-			</div>
-		</a>
-		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="220" alt="Stream">
-			</div>
-			<br>
-			<div>
-				<b>使用强大的 API 和前端组件构建可扩展的提要和聊天应用程序</b>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>使数据发挥作用的文书工作.</b>
-			<div>
-				<sub>
-				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
-				<br>
-				将文书工作自动化构建到您的产品中的最简单方法.
-				</sub>
-			</div>
-		</a>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>使数据发挥作用的文书工作.</b>
-			<div>
-				<sub>
-				用于文书工作的简单 API.  PDF 生成、电子签名和可嵌入的无代码网络表单.
-				<br>
-				将文书工作自动化构建到您的产品中的最简单方法.
-				</sub>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
 		<a href="https://serpapi.com#gh-light-mode-only">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
@@ -161,7 +97,7 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="awesome.md">什么是很棒的清单？</a>
 	<a href="contributing.md">投稿指南</a>
 	<a href="create-list.md">创建列表</a>
 	<a href="https://twitter.com/awesome__re">推特</a>
@@ -315,7 +251,7 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - 用于表达量子算法的领域特定编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) - 受 Ruby 和 Python 启发并编译为高性能 JavaScript 的编程语言.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - 旨在充分利用 GLib 和 GNOME 生态系统的编程语言，同时保持 C 代码的速度.
-- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) - 用于编程和规范的正式语言和环境，有助于机器检查证明的交互式开发.
 - [V](https://github.com/vlang/awesome-v#readme) - 用于开发可维护软件的简单、快速、安全的编译语言.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - 用于维护稳健、优化和可重用软件的通用编程语言和工具链.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - 用于编写安全智能合约的特定领域编程语言.
@@ -369,7 +305,7 @@
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS 工具.
+- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - React 的富文本编辑器框架.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
@@ -385,7 +321,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -429,7 +365,7 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java 网络应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础设施的工具.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python 网络应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python 网络应用程序框架.
@@ -502,7 +438,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套数据结构.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - 算法的算法审计.
-- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - 通用人工智能 (AGI) 和计算认知科学 (CoCoSci) 的交互作用.
 
 ## Books
 
@@ -546,7 +482,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - 游戏引擎.
 
@@ -599,8 +535,8 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - 帮助使用非关系、分布式、开源和水平可扩展的数据库.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - 使使用数据库更容易的一切.
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - 逻辑数据库，将庞大而复杂的数据网络组织为一个知识体系.
-- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
-- [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - 具有高性能、可扩展性和 SQL 支持的开源时间序列数据库.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - 开源、分布式、宽列存储、NoSQL 数据库管理系统.
+- [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - Firebase 的开源替代品.
 
 ## Media
@@ -835,7 +771,7 @@
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - 通过将实施连接到不断发展的模型来满足复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - 通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - 对于数字设计师.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - 编程一些有表现力的东西而不是功能性的东西.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - 无需登录即可运行的 Web 应用程序.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - 自由自在.
 - [Framer](https://github.com/podo/awesome-framer#readme) - 原型交互 UI 设计.
@@ -869,7 +805,7 @@
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - 使用计算机解决复杂的科学问题.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
-- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - 设计产品从最初的概念到生产.
+- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将您的数据库变成 GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及访问条件.

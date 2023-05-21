@@ -181,7 +181,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 
 相关回购：
 
-* [aws-sdk-rails :fire::fire:](https://github.com/aws/aws-sdk-rails)
+* [aws-sdk-rails :fire::fire::fire:](https://github.com/aws/aws-sdk-rails)
 * [appoxy/aws :fire::fire:](https://github.com/appoxy/aws)
 * [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws)
 
@@ -834,7 +834,7 @@ AWS 回购协议：
 
 AWS 回购协议：
 
-* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性扫描器.
+* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性扫描仪.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - 用于匿名注册的令牌自动售货机.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - 用于身份注册的令牌自动售货机.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
@@ -875,7 +875,7 @@ AWS 回购协议：
 * [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - 来自 re:Invent 2014 的移动照片共享应用程序.
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - 来自 re:Invent 2014 的可扩展站点管理示例.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - 来自 re:Invent 2015 的大规模指标分析.
-* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析示例.
+* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析样本.
 * [todo-sample-app](https://github.com/awslabs/todo-sample-app) - 来自 RailsConf 2014 的简单“Todo”应用程序.
 
 社区回购：
@@ -923,7 +923,7 @@ AWS 回购协议：
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash)  - 开源 LaunchRock 替代品. 构建漂亮的初始页面.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - 用于管理资源以构建基础设施的 Puppet 模块.
 * [mhart/react-server-routing-example :fire::fire:](https://github.com/mhart/react-server-routing-example) - React 中的通用客户端/服务器路由和数据示例.
-* [Similarweb/finala :fire::fire::fire:](https://github.com/similarweb/finala) - 资源云扫描器，分析和报告浪费和未使用的资源以减少不必要的开支.
+* [Similarweb/finala :fire::fire::fire:](https://github.com/similarweb/finala) - 资源云扫描仪，分析和报告浪费和未使用的资源以减少不必要的开支.
 * [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - 企业级网络、移动和事件分析，由 Hadoop、Kafka、Kinesis、Redshift 和 Elasticsearch 提供支持.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - asgard 支持管道等的继任者.
 * [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - 允许您的 python 测试轻松模拟 boto 库.
@@ -1077,7 +1077,7 @@ AWS 博客：
 
 社区博客：
 
-* [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels，AWS 首席技术官.
+* [All Things Distributed](http://www.allthingsdistributed.com/) - AWS 首席技术官 Werner Vogels.
 * [Things I Like...](http://jeff-barr.com/) - AWS 首席宣传官 Jeff Barr.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -1304,7 +1304,7 @@ AWS 会议：
 * [ElastiCache](https://aws.amazon.com/elasticache/) - 为网络应用程序（Memcached、Redis）提供内存缓存.
 * [Redshift](https://aws.amazon.com/redshift/) - 提供具有列存储和多节点计算的 PB 级数据仓库.
 * [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - 提供可扩展的数据库服务器，支持 MySQL、Oracle、SQL Server、PostgreSQL 和 MariaDB.
-* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - 帮助您将数据库模式从 Oracle 或 Microsoft SQL Server 数据库转换为 RDS MySQL 数据库实例或 Aurora 数据库集群的应用程序.
+* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - 可帮助您将数据库架构从 Oracle 或 Microsoft SQL Server 数据库转换为 RDS MySQL 数据库实例或 Aurora 数据库集群的应用程序.
 * [SimpleDB](https://aws.amazon.com/simpledb/) - 允许开发人员对结构化数据运行查询.
 
 ### Application Services
