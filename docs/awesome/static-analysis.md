@@ -105,7 +105,7 @@
 
 - [cppcheck](https://cppcheck.sourceforge.io) — C/C++ 代码的静态分析.
 
-- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
+- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
 
@@ -199,7 +199,7 @@
 
 - [cppcheck](https://cppcheck.sourceforge.io) — C/C++ 代码的静态分析.
 
-- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
+- [CppDepend](https://www.cppdepend.com) :warning: :copyright: — 测量、查询和可视化您的代码，避免意外问题、技术债务和复杂性.
 
 - [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) — 遵循 Google 风格指南的自动 C++ 检查器.
 
@@ -277,7 +277,7 @@
 
 - [Dart Code Metrics](https://pub.dev/packages/dart_code_metrics)  — Dart 的额外 linter. 报告代码指标、检查反模式并为 Dart 分析器提供附加规则.
 
-- [effective_dart](https://pub.dev/packages/effective_dart) — 与 Effective Dart 指南相对应的 Linter 规则
+- [effective_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 
 - [lint](https://github.com/passsy/dart-lint)  — 一套自以为是的、社区驱动的 lint 规则集，用于 Dart 和 Flutter 项目. 喜欢迂腐但更严格
 
@@ -297,7 +297,7 @@
 <h2 id="dlang">党</h2>
 
 
-- [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是分析 D 源代码的工具.
+- [D-scanner](https://github.com/dlang-community/D-Scanner) — D-Scanner 是分析D 源代码的工具.
 
 
 <h2 id="elixir">长生不老药</h2>
@@ -305,7 +305,7 @@
 
 - [credo](https://github.com/rrrene/credo) — 专注于代码一致性和教学的静态代码分析工具.
 
-- [dialyxir](https://github.com/jeremyjh/dialyxir) — 混合任务以简化 Dialyzer 在 Elixir 项目中的使用.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) — Mix tasks to simplify use of Dialyzer in Elixir projects.
 
 - [sobelow](https://github.com/nccgroup/sobelow) — Phoenix Framework 的以安全为中心的静态分析.
 
@@ -493,13 +493,13 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [Diffblue](https://www.diffblue.com/) :copyright: — Diffblue 是一家软件公司，为软件开发团队提供基于 AI 的代码分析和测试解决方案.
 它的技术可帮助开发人员在其软件开发过程中实现自动化测试、查找错误并减少人工劳动. 该公司的主要产品 Diffblue Cover 使用 AI 为 Java 代码生成和运行单元测试，有助于发现错误并提高代码质量.
 
-- [Doop](https://bitbucket.org/yanniss/doop)  — Doop 是一个用于 Java/Android 程序静态分析的声明式框架，以指针分析算法为中心.  Doop 提供了种类繁多的分析以及周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
+- [Doop](https://bitbucket.org/yanniss/doop)  — Doop 是一个用于 Java/Android 程序静态分析的声明式框架，以指针分析算法为中心.  Doop 提供了种类繁多的分析和周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
 
 - [Error-prone](https://errorprone.info) — 将常见的 Java 错误捕获为编译时错误.
 
 - [fb-contrib](http://fb-contrib.sourceforge.net) — 带有附加错误检测器的 FindBugs 插件.
 
-- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis) — Detects and forbids invocations of specific method/class/field (like reading from a text stream without a charset). Maven/Gradle/Ant compatible.
+- [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  — 检测并禁止调用特定方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
 
 - [google-java-format](https://github.com/google/google-java-format) — 重新格式化 Java 源代码以符合 Google Java 样式
 
@@ -789,7 +789,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Dlint](https://github.com/dlint-py/dlint) — 确保 Python 代码安全的工具.
 
-- [Dodgy](https://github.com/landscapeio/dodgy)  — Dodgy 是一个非常基本的工具，可以针对您的代码库运行以搜索“狡猾”的值. 它是一系列简单的正则表达式，旨在检测意外的 SCM 差异签入或硬编码到文件中的密码或密钥.
+- [Dodgy](https://github.com/landscapeio/dodgy)  — Dodgy 是一个非常基本的工具，可以针对您的代码库运行以搜索“狡猾”的值. 它是一系列简单的正则表达式，旨在检测诸如意外的 SCM 差异签入或硬编码到文件中的密码或密钥等内容.
 
 - [fixit](https://pypi.org/project/fixit) — 用于创建 lint 规则和相应的源代码自动修复的框架.
 
@@ -801,7 +801,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将它们作为拉取请求的评论报告给 Github.
 
-- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂度.
+- [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 复杂性.
 
 - [multilint](https://github.com/adamchainz/multilint) — `flake8`、`isort` 和 `modernize` 的包装器.
 
@@ -920,7 +920,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: — Ruby 的静态代码分析.
 
-- [rubycritic](https://github.com/whitesmith/rubycritic) — 一位 Ruby 代码质量报告者.
+- [rubycritic](https://github.com/whitesmith/rubycritic) — A Ruby code quality reporter.
 
 - [rufo](https://github.com/ruby-formatter/rufo) — 一个自以为是的 ruby​​ 格式化程序，旨在通过命令行用作文本编辑器插件，以在保存或按需时自动格式化文件.
 
@@ -958,7 +958,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [cargo-show-asm](https://github.com/pacak/cargo-show-asm) — cargo 子命令显示为 Rust 代码生成的程序集、LLVM-IR 和 MIR
 
-- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — Checks all your documentation for spelling and grammar mistakes  with hunspell (ready) and languagetool (preview)
+- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) — 使用 hunspell (ready) 和 languagetool (preview) 检查所有文件的拼写和语法错误
 
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features)  — 查找潜在未使用的已启用功能标志并修剪它们. 您可以从 json 生成简单的 HTML 报告，以便更轻松地检查结果.
 它删除依赖项的功能，然后编译项目以查看它是否仍然可以编译. 如果是这样，则可能会删除功能标志，但它可能是误报.
@@ -1015,7 +1015,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [squawk](https://squawkhq.com)  — Linter for PostgreSQL，专注于迁移. 防止由数据库迁移引起的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
 
-- [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL 特定的 linter.
+- [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 
 - [TSqlRules](https://github.com/ashleyglee/TSqlRules) — SQL Server 的 TSQL 静态代码分析规则.
 
@@ -1202,7 +1202,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [DeepSource](https://deepsource.io)  :copyright: — 深入的静态分析，以发现错误风险、安全性、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的原生集成. 误报率低于 5%.
 
-- [Depends](https://github.com/multilang-depends/depends) — 分析了Java、C/C++、Ruby 代码元素的综合依赖性.
+- [Depends](https://github.com/multilang-depends/depends) — 全面分析Java、C/C++、Ruby代码元素的依赖关系.
 
 - [DevSkim](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
@@ -1272,7 +1272,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Putout](https://github.com/coderaiser/putout) — 可插入和可配置的代码转换器，内置 eslint，支持 js、jsx typescript、flow、markdown、yaml 和 json 的 babel 插件.
 
-- [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, OWASP ASVS, MISRA, AUTOSAR and SEI CERT coding standards.
+- [PVS-Studio](https://pvs-studio.com) ：版权：-一个（[conditionally free](https://pvs-studio.com/en/order/open-source-license) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) . 支持 CWE 映射、OWASP ASVS、MISRA、AUTOSAR 和 SEI CERT 编码标准.
 
 - [pylama](https://klen.github.io/pylama/) — Code audit tool for Python and JavaScript. Wraps pycodestyle, pydocstyle, PyFlakes, Mccabe, Pylint, and more
 
@@ -1295,6 +1295,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [Roslyn Security Guard](https://security-code-scan.github.io) — 专注于识别潜在漏洞的项目，例如 SQL 注入、跨站点脚本 (XSS)、CSRF、密码学弱点、硬编码密码等等.
 
 - [SafeQL](https://safeql.dev)  — 从 PostgreSQL 中的原始 SQL 查询验证和自动生成 TypeScript 类型.  SafeQL 是一个 ESLint 插件，用于以类型安全的方式编写 SQL 查询.
+
+- [SAST Online](https://sast.online/)  :copyright: — 彻底检查 Android 源代码以发现并解决潜在的安全问题和漏洞. 静态应用安全测试（Static Code Analysis）工具在线
 
 - [Scanmycode CE (Community Edition)](http://www.scanmycode.today) — Scanmycode - 代码扫描/SAST/Linting 使用许多工具/扫描器和一份报告
 
@@ -1491,7 +1493,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [dotenv-linter (Rust)](https://dotenv-linter.github.io/#/)  — .env 文件的快如闪电的 linter. 用 Rust 编写
 
-- [gixy](https://github.com/yandex/gixy)  — 分析 Nginx 配置的工具. 主要目标是防止错误配置和自动化缺陷检测.
+- [gixy](https://github.com/yandex/gixy) — A tool to analyze Nginx configuration. The main goal is to prevent misconfiguration and automate flaw detection.
 
 
 <h2 id="configmanagement">配置管理</h2>
@@ -1580,7 +1582,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [PullRequest](https://www.pullrequest.com)  :copyright: — 代码审查作为具有内置静态分析的服务. 通过由一流自动化支持的专家工程师进行质量代码审查，提高速度并减少技术债务.
+- [PullRequest](https://www.pullrequest.com)  :copyright: — 代码审查作为具有内置静态分析的服务. 通过一流自动化支持的专家工程师的质量代码审查，提高速度并减少技术债务.
 
 - [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
 
@@ -1596,7 +1598,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="deno">不是</h2>
 
 
-- [deno_lint](https://github.com/denoland/deno_lint) — Official linter for Deno.
+- [deno_lint](https://github.com/denoland/deno_lint) — Deno 的官方 linter.
 
 
 <h2 id="embedded">嵌入式</h2>
@@ -1634,7 +1636,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [HTML Inspector](https://github.com/philipwalton/html-inspector) :warning: — HTML Inspector 是一种代码质量工具，可帮助您和您的团队编写更好的标记.
 
-- [HTML Tidy](http://www.html-tidy.org) — Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
+- [HTML Tidy](http://www.html-tidy.org) — 通过修复标记错误并将遗留代码升级到现代标准来更正和清理 HTML 和 XML 文档.
 
 - [HTML-Validate](https://html-validate.org/) — 离线 HTML5 验证器.
 
@@ -1679,7 +1681,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 
-- [kubeconform](https://github.com/yannh/kubeconform) — 一个快速的 Kubernetes 清单验证器，支持自定义资源.
+- [kubeconform](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
 它的灵感来自于，包含来自的代码，并且旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进：*高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中*可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源（CRD）和离线验证功能*使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自我更新分支——它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
 - [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中代表的应用程序符合最佳实践.
@@ -1716,11 +1718,11 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 <h2 id="markdown">降价</h2>
 
 
-- [markdownlint](https://github.com/DavidAnson/markdownlint) — 用于 Markdown/CommonMark 文件的基于 Node.js 的样式检查器和 lint 工具.
+- [markdownlint](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
 - [mdformat](https://mdformat.rtfd.io) — CommonMark 兼容的 Markdown 格式化程序
 
-- [mdl](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
+- [mdl](https://github.com/mivok/markdownlint) — 检查 Markdown 文件和标记样式问题的工具.
 
 - [remark-lint](https://remark.js.org) — 用 Ja​​vaScript 编写的可插入 Markdown 代码样式 linter.
 
@@ -1761,8 +1763,6 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [qark](https://github.com/linkedin/qark) — 用于查找多个与安全相关的 Android 应用程序漏洞的工具.
 
 - [redex](https://fbredex.com)  — Redex 提供了一个读取、写入和分析.dex 文件的框架，以及一组使用该框架改进字节码的优化通道. 经过 Redex 优化的 APK 应该更小更快.
-
-- [SAST Online](https://sast.online/) :copyright: — 检查 Android 源代码以确定任何安全问题或漏洞.
 
 
 <h2 id="nix">尼克斯</h2>
@@ -1882,7 +1882,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [mythril](https://github.com/ConsenSys/mythril) — 一个包含电池的符号执行框架，可用于自动查找和利用智能合约中的漏洞.
 
-- [MythX](https://mythx.io)  :copyright: — MythX 是一个易于使用的分析平台，它集成了多种分析方法，如模糊测试、符号执行和静态分析，以高精度发现漏洞. 它可以与 Remix 或 VSCode 等工具链集成，也可以从命令行调用.
+- [MythX](https://mythx.io) :copyright: — MythX is an easy to use analysis platform which integrates several analysis methods like fuzzing, symbolic execution and static analysis to find vulnerabilities with high precision. It can be integrated with toolchains like Remix or VSCode or called from the command-line.
 
 - [slither](https://github.com/trailofbits/slither) — 运行一套漏洞检测器的静态分析框架，打印关于合约细节的视觉信息，并提供一个 API 来轻松编写自定义分析.
 
@@ -1972,7 +1972,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 <h2 id="git">混帐</h2>
 
 
-- [commitlint](https://commitlint.js.org) — 检查你的提交信息是否符合常规的提交格式
+- [commitlint](https://commitlint.js.org) — checks if your commit messages meet the conventional commit format
 
 
 ## More Collections
@@ -1989,7 +1989,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Matthias Endler](https://endler.dev) 已放弃该作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Matthias Endler](https://endler.dev) 已放弃该作品的所有版权和相关或邻接权.
 用于格式化和显示该内容的底层源代码已获得 MIT 许可.
 
 

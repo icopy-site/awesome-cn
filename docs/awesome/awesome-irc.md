@@ -94,9 +94,10 @@ IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进�
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot)  - 大型默认插件集，基于 Cinch.  `红宝石`
 - [helga](https://github.com/shaunduncan/helga)  - 支持多种协议的可插拔聊天机器人.  `蟒蛇`
 - [EveIRC](https://github.com/Inspyre-Technologies/EveIRC)  - 可扩展的聊天/频道/服务器管理服务提供机器人. 使用 [Cinch Framework](https://github.com/cinchrb/cinch) .  `红宝石`
-- [BitBot](https://github.com/bitbot-irc/bitbot)  - 模块化、事件驱动的机器人，具有 REST API、个人用户设置等.  ([bitbot.dev](https://bitbot.dev))`蟒蛇`
+- [BitBot](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev))`蟒蛇`
 - [Cardinal](https://github.com/JohnMaguire/Cardinal)  - 专注于简化插件开发的 Python Twisted IRC 机器人.  `蟒蛇`
 - [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/)  - 专注于简化插件开发的 Python Twisted IRC 机器人.  ([source](https://github.com/pyhoneybot/honeybot))`蟒蛇`
+- [wayback](https://github.com/wabarc/wayback) - 带有 IRC 接口的归档工具，集成了各种归档服务.
 
 ## Frameworks
 
@@ -109,7 +110,7 @@ IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进�
 - [slate-irc](https://github.com/slate/slate-irc)  - 插件系统、简单的 api、任意输入流、调试支持.  `JavaScript`
 - [PircBotX](https://github.com/pircbotx/pircbotx) - 基于事件的 IRC 库，具有简单的 API（更新的分支 [PircBot](http://www.jibble.org/pircbot.php) ).  `爪哇`
 - [IRC::Client](https://github.com/lizmat/IRC-Client) - 基于 `Perl6` 的可扩展 IRC 客户端框架.
-- [irccd](https://projects.malikania.fr/irccd/) - Flexible IRC bot customizable with JavaScript. `C++`.
+- [irccd](https://projects.malikania.fr/irccd/)  - 可使用 JavaScript 自定义的灵活 IRC 机器人.  `C++`.
 
 ### Bridges
 

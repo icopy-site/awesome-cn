@@ -131,7 +131,7 @@
   * [ring](https://github.com/ring-clojure/ring) : HTTP 服务器抽象
   * [kvlt](https://github.com/nervous-systems/kvlt) ：跨 JVM / 节点 / 浏览器的 HTTP 统一、异步客户端接口
   * [aleph](https://github.com/clj-commons/aleph) : 基于 Netty 的异步客户端/服务器，默认为 HTTP、TCP 和 UDP
-  * [hato](https://github.com/gnarroway/hato) : Clojure 的 HTTP 客户端，包装了 JDK 11 的 HttpClient
+  * [hato](https://github.com/gnarroway/hato) : Clojure 的 HTTP 客户端，包装 JDK 11 的 HttpClient
 
 ## Database
 
@@ -373,7 +373,7 @@
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
-  * [buran](https://github.com/alekseysotnikov/buran) - RSS/Atom 订阅消费者和生产者
+  * [buran](https://github.com/alekseysotnikov/buran) - RSS/Atom feed 消费者和生产者
   
 ## Exceptions and Error Handling
   * [Ex](https://github.com/mpenet/ex)
@@ -450,6 +450,7 @@
   * [figwheel](https://github.com/bhauman/lein-figwheel)
   * [ultra](https://github.com/venantius/ultra)
   * [mate-clj](https://github.com/AppsFlyer/mate-clj)
+  * [scope-capture](https://github.com/vvvvalvalval/scope-capture)
 
 ## CI
 

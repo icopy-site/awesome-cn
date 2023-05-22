@@ -16,7 +16,6 @@
 <!-- TOC -->
 <!-- /TOC -->
 
-
 ## Mods
 ### ComputerCraft mods
 
@@ -71,6 +70,7 @@
 - [ecnet](https://github.com/migeyel/ecnet) - 在 ComputerCraft 中保护网络通信.
 - [GuiH](https://guih.madefor.cc) - 强大的 GUI 和图形库.
 - [IsometriH](https://github.com/9551-Dev/IsometriH) - 一个 [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) 引擎.
+- [Luz](https://github.com/MCJack123/Luz) - 一种极轻的 Lua 文件压缩算法.
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system) ) - 制作和库存管理系统. 请注意，这取决于 OpusOS 和 Plethora.
 - [Pine3D](https://github.com/Xella37/Pine3D) - 专为快速设计的 3D 渲染引擎.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) - 一个用于在退出程序后在 CraftOS 后台运行进程的小型库，类似于 DOS TSR.
@@ -80,7 +80,7 @@
 ### Fun
 
 - [AUKit austream](https://github.com/MCJack123/AUKit/blob/master/austream.lua) - 基于AUKit，一个简单的音频播放器，支持WAV、DFPWM、AIFF、AU和FLAC.
-- [battleship](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4) - 流行的双人游戏的实现*[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*.
+- [battleship](https://gist.github.com/MCJack123/7082da1d2ac725c33ff77389877ad7f4) - 流行的双人游戏的实现 *[Battleship](https://en.wikipedia.org/wiki/Battleship_(game))*.
 - [CCDoom](https://github.com/Xella37/CCDoom) - 这 [*Doom* shooter](https://en.wikipedia.org/wiki/Doom_(1993_video_game)) 使用 Pine3D 移植到 ComputerCraft.
 - [CC-Minecraft](https://github.com/Xella37/CC-Minecraft) - *Minecraft* 使用 Pine3D 移植到 ComputerCraft.
 - [LuaGB](https://github.com/MCJack123/LuaGB)  - ComputerCraft 的 Game Boy（Color）模拟器端口. 在 CraftOS-PC 上效果最好.

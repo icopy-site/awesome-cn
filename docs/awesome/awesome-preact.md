@@ -32,9 +32,9 @@
 - [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) - 带有 TypeScript 和 SASS 的 PWA Starter (131kb)
 - [Electron TypeScript Preact Boilerplate](https://github.com/yoctopuce-examples/electron-typescript-preact-boilerplate) - 支持 TypeScript 和 Preact 的 Electron 启动项目，由 esbuild 提供支持.
 - [Preact Modern Startupper](https://github.com/kolodziejczakM/preact-modern-startupper) - 支持 TypeScript、Goober、Unistore 和 Plop 的 PWA 样板.
-- [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例的服务器端渲染.
+- [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例的服务器端呈现.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA 专注于原始性能、服务器端渲染、预渲染、redux、express、rollup.
-- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
+- [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - 全功能 Preact Chrome 扩展入门套件.
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ 带有 Preact 的 WebExtension Vite 入门模板.
 - [Preact Neutralino TypeScript Starter](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - 用于使用 Preact 和 neutralino.js 构建轻量级桌面应用程序的入门项目.
 
@@ -98,6 +98,7 @@
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head)  - 操纵 ` 的钩子<head> ` DOM 部分. 这有一个带有核心 preact 支持的子包（使用 `preact/hooks`）.
 - [Teaful](https://github.com/teafuljs/teaful) - 小巧 (800B)、简单而强大的 (P)React 状态管理.
 - [Nano Stores](https://github.com/nanostores/nanostores) - 一个微型（199 字节）状态管理器，具有许多原子树可摇动存储.
+- [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Preact 的模块化、类型安全和基于信号的表单库.
 
 
 ### Testing Utils
@@ -119,7 +120,7 @@
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) - 用于将 Hacker News 构建为 PWA 的 Preact 演示.
 - [TodoMVC](https://github.com/developit/preact-todomvc)  - TodoMVC 在 Preact 中完成. 小于 6kb 并且速度很快.
-- [Colors App](https://github.com/lukeed/colors-app)  - 用于从流行调色板复制值的 PWA. 支持 HEX、RGB 和 HSL 格式.
+- [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [Tracks](https://github.com/jordic/tracks_preact/)  - 用于跟踪一般事物的 PWA.  Gdrive 同步.
 - [Hueify](https://github.com/kvartborg/hueify) - 适用于飞利浦 Hue 灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) - 足球数据 mnmlist 方式.
@@ -158,7 +159,7 @@
 - [Rax](https://github.com/alibaba/rax) - 通用的 React 兼容渲染引擎.
 
 ### Tips
-贡献一些；）
+贡献一些 ;)
 
 ---
 ### Contribution

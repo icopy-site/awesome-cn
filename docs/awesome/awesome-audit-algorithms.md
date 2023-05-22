@@ -12,6 +12,7 @@
 ## Papers
 ### 2023
 - [Confidential-PROFITT: Confidential PROof of FaIr Training of Trees](https://openreview.net/pdf?id=iIfDQVyuFD) -（ICLR）*提出公平决策树学习算法以及零知识证明协议，以获得被审计服务器的公平性证明.*
+- [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://arxiv.org/pdf/2302.03251.pdf) - (ICLR) *考虑在机器学习即服务 (MLaaS) 应用程序的黑盒设置下进行后门检测.*
 ### 2022
 - [Two-Face: Adversarial Audit of Commercial Face Recognition Systems](https://ojs.aaai.org/index.php/ICWSM/article/view/19300/19072) -（ICWSM）*对多个系统 API 和数据集进行对抗性审计，进行一些相关观察.*
 - [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) -（信息科学杂志） [(Code)](https://github.com/gesiscss/WebBot) *使用虚拟代理的模拟浏览行为审核多个搜索引擎.*
@@ -38,7 +39,7 @@
 - [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) - (AIES) *对 Telefónica 开发的健康推荐应用程序的实际审核（主要是基于偏见）.*
 - [Extracting Training Data from Large Language Models](https://arxiv.org/pdf/2012.07805) - (arxiv) *通过查询语言模型执行训练数据提取攻击以恢复单个训练示例.*
 ### 2019
-- [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (神经计算与应用) [(Alternative implementation)](https://github.com/dunky11/adversarial-frontier-stitching) *检查远程机器学习模型是否“泄露”：通过对远程模型的标准 API 请求，提取（或不提取）零位水印，该水印被插入到水印有价值的模型（例如，大型深度神经网络）中.*
+- [Adversarial Frontier Stitching for Remote Neural Network Watermarking](https://arxiv.org/abs/1711.01894) - (神经计算与应用) [(Alternative implementation)](https://github.com/dunky11/adversarial-frontier-stitching) *检查远程机器学习模型是否是“泄漏”模型：通过对远程模型的标准 API 请求，提取（或不提取）零位水印，该水印被插入到水印有价值的模型（例如，大型深度神经网络）中.*
 - [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766.pdf) -（CVPR）*询问对手可以在多大程度上仅基于黑盒交互窃取此类“受害者”模型的功能：图像输入，预测输出.*
 - [Opening Up the Black Box:Auditing Google's Top Stories Algorithm](https://par.nsf.gov/servlets/purl/10101277) - (Flairs-32) * 对 Google 的热门故事面板的审计，该面板提供了对其用于选择和排名新闻发布者的算法选择的见解 *
 - [Making targeted black-box evasion attacks effective andefficient](https://arxiv.org/pdf/1906.03397.pdf) -（arXiv）*研究对手如何最佳地使用其查询预算来针对深度神经网络进行有针对性的规避攻击.*
@@ -52,7 +53,7 @@
 - [Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/abs/1710.06169) -（AIES）*将黑盒模型视为教师，训练透明的学生模型以模仿黑盒模型分配的风险分数.*
 - [Towards Reverse-Engineering Black-Box Neural Networks](https://arxiv.org/abs/1711.01768) - (ICLR) [(Code)](https://github.com/coallaoh/WhitenBlackBox) *通过分析远程神经网络模型对某些输入的响应模式，推断其内部超参数（例如层数、非线性激活类型）.*
 - [Data driven exploratory attacks on black box classifiers in adversarial domains](https://www.sciencedirect.com/science/article/pii/S092523121830136X) -（神经计算）*逆向工程远程分类器模型（例如，用于逃避验证码测试）.*
-- [xGEMs: Generating Examplars to Explain Black-Box Models](https://arxiv.org/pdf/1806.08867.pdf)  - (arXiv) *通过训练无监督隐式生成模型来搜索黑盒模型中的偏差. 然后通过沿数据流形扰动数据样本来定量总结黑盒模型行为. *
+- [xGEMs: Generating Examplars to Explain Black-Box Models](https://arxiv.org/pdf/1806.08867.pdf)  - (arXiv) *通过训练无监督的隐式生成模型来搜索黑盒模型中的偏差. 然后通过沿数据流形扰动数据样本来定量总结黑盒模型行为. *
 - [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) -（NIPS）*通过观察一些随机步行通勤时间来反转图表.*
 - [Identifying the Machine Learning Family from Black-Box Models](https://rd.springer.com/chapter/10.1007/978-3-030-00374-6_6) -（CAEPIA）*确定返回的预测背后是哪种机器学习模型.* 
 - [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) -（arXiv）*通过使用查询的定时攻击窃取/近似模型.*
