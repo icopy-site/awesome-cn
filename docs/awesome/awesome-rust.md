@@ -109,7 +109,7 @@ Rust 代码和资源的精选列表.
 ### Database
 
 * [Atomic-Server](https://github.com/atomicdata-dev/atomic-server/) [[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL 图形数据库，具有实时更新、动态索引和易于使用的 GUI，用于 CMS 目的. [![Release](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-server/actions/workflows/docker.yml)
-* [CozoDB](https://github.com/cozodb/cozo)  - 使用 Datalog 并专注于图形数据和算法的事务性关系数据库. 具有时间旅行能力，而且速度很快！ [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
+* [CozoDB](https://github.com/cozodb/cozo)  - 使用 Datalog 并专注于图形数据和算法的事务性关系数据库. 时间旅行能力，速度快！ [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cozodb/cozo/build.yml?branch=main)](https://github.com/cozodb/cozo/actions/workflows/build.yml)
 * [Databend](https://github.com/datafuselabs/databend) - 具有云原生架构的现代实时数据处理和分析 DBMS [![Release](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml)
 * [DB3 Network](https://github.com/dbpunk-labs/db3) — DB3 是一个社区驱动的区块链 layer2 去中心化数据库网络 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main&style=flat-square)
 * [indradb](https://crates.io/crates/indradb) — 基于 Rust 的图形数据库
@@ -293,7 +293,7 @@ Rust 代码和资源的精选列表.
 * [nushell/nushell](https://github.com/nushell/nushell) - 一种新型外壳
 * [ogham/exa](https://github.com/ogham/exa) — 替代“ls”
 * [orhun/kmon](https://github.com/orhun/kmon) — Linux 内核管理器和活动监视器 ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
-* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代方案 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代品 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 * [ouch](https://github.com/ouch-org/ouch) - 命令行无痛压缩和解压缩 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
@@ -360,6 +360,7 @@ Rust 代码和资源的精选列表.
 * [tversteeg/emplace](https://github.com/tversteeg/emplace) — 在多台机器上同步安装的包
 * [vamolessa/verco](https://github.com/vamolessa/verco) [[verco](https://crates.io/crates/verco)] — 一个专注于键盘快捷键的简单 Git/Hg tui 客户端
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) — Alternative implementation of the Bitwarden server API written in Rust
+* [warpdotdev/Warp](https://github.com/warpdotdev/Warp) — Warp 是一个速度极快的基于现代 Rust 的 GPU 加速终端，旨在提高您和您的团队的工作效率.
 * [yaa110/cb](https://github.com/yaa110/cb) — 管理剪贴板的命令行界面
 
 ### Video
@@ -520,7 +521,7 @@ Rust 代码和资源的精选列表.
   * [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) — Rust 的 Lua 5.3 绑定
   * [lilyball/rust-lua](https://github.com/lilyball/rust-lua) — Lua 5.1 的安全 Rust 绑定
   * [tickbh/td_rlua](https://github.com/tickbh/td_rlua) [[td_rlua](https://crates.io/crates/td_rlua)] — 用于 Rust 的零成本高级 lua 5.3 包装器
-  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 接口的 Rust 库
+  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 交互的 Rust 库
 * 姆鲁比
   * [anima-engine/mrusty](https://github.com/anima-engine/mrusty) — Rust 的 mruby 安全绑定
 * 节点.js
@@ -658,7 +659,7 @@ Rust 代码和资源的精选列表.
 
 #### Genetic algorithms
 
-* [innoave/genevo](https://github.com/innoave/genevo) — 以可定制和可扩展的方式执行遗传算法 (GA) 模拟.
+* [innoave/genevo](https://github.com/innoave/genevo) — Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust 中的遗传算法库. 处于维护模式.
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决了 N = 255 的 N Queens 问题，并且使用了不到 1 MB 的 RAM.
 * [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够为有监督、无监督和强化学习问题发展解决方案. 带有 NEAT 和 Evtree 的完整和可定制的实现.![Crates.io](https://img.shields.io/crates/v/radiate)
@@ -754,7 +755,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 新的 AWS SDK for Rust
   * [rusoto/rusoto](https://github.com/rusoto/rusoto) —
 * 负载均衡器
-  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载平衡器.
+  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载均衡器.
 * 多云
   * [Qovery/engine](https://github.com/Qovery/engine) - 抽象层库，只需几分钟即可在云提供商上轻松部署应用程序
 
@@ -784,7 +785,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [hniksic/rust-subprocess](https://github.com/hniksic/rust-subprocess) [[subprocess](https://crates.io/crates/subprocess)] — 与外部管道交互的设施
   * [imp/pager-rs](https://gitlab.com/imp/pager-rs) [[pager](https://crates.io/crates/pager)] — 通过外部寻呼机管道输出
   * [oconnor663/duct.rs](https://github.com/oconnor663/duct.rs) [[duct](https://crates.io/crates/duct)] — 子流程管道和 IO 重定向的构建器
-  * [rust-cli/rexpect](https://github.com/rust-cli/rexpect) [[rexpect](https://crates.io/crates/rexpect)] — 自动化交互式应用程序，如 ssh、ftp、passwd 等 [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
+  * [rust-cli/rexpect](https://github.com/rust-cli/rexpect) [[rexpect](https://crates.io/crates/rexpect)] — 自动化交互式应用程序，例如 ssh、ftp、passwd 等 [![CI](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml/badge.svg)](https://github.com/rust-cli/rexpect/actions/workflows/ci.yml)
   * [zhiburt/expectrl](https://github.com/zhiburt/expectrl) [[expectrl](https://crates.io/crates/expectrl)] — 用于在伪终端中控制交互式程序的库 [![build badge](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/expectrl/actions/workflows/ci.yml)
 * 进步
   * [a8m/pb](https://github.com/a8m/pb) [[pbr](https://crates.io/crates/pbr)] — Rust 的控制台进度条
@@ -882,7 +883,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [conradkleinespel/rooster](https://github.com/conradkleinespel/rooster) [[rooster](https://crates.io/crates/rooster)] — 在终端中使用的简单密码管理器
 * [cossacklabs/themis](https://github.com/cossacklabs/themis) [[themis](https://crates.io/crates/themis)] — 一个高级密码库，用于解决典型的数据安全任务，最适合多平台应用程序. [![build badge](https://circleci.com/gh/cossacklabs/themis/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/cossacklabs/themis)
 * [DaGenix/rust-crypto](https://github.com/DaGenix/rust-crypto) — Rust 中的密码算法
-* [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) — Pure Rust implementation of Curve25519 operations
+* [dalek-cryptography/curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) — Curve25519 操作的纯 Rust 实现
 * [dalek-cryptography/ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) — Ed25519 数字签名的纯 Rust 实现
 * [dalek-cryptography/x25519-dalek](https://github.com/dalek-cryptography/x25519-dalek) — X25519 密钥交换的纯 Rust 实现
 * [debris/tiny-keccak](https://github.com/debris/tiny-keccak) — Keccak 家族 (SHA3) 的纯 Rust 实现

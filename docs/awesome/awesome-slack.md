@@ -55,6 +55,7 @@
 - [First Contributors](https://firstcontributors.slack.com/join/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM#/) - 为开源贡献者提供帮助/指导.
 - [IT Pro Community](https://www.electric.ai/it-pro-slack) - 与 IT 从业者和决策者建立联系并建立联系
 - [SaaS Community](https://join.slack.com/t/saas-hgv7803/shared_invite/zt-qwvrywyr-8DmSpEzBiSWD2WQuB9r9pw) - SaaS 产品构建者社区，讨论所涉及的挑战.
+- [Developer Marketing](https://marketingto.dev/) - 从事 API 营销、开发人员工具或积极向开发人员营销的热情营销人员.
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)

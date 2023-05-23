@@ -21,7 +21,7 @@
 
 * [.NET Rocks!](https://www.dotnetrocks.com/) - 与 Carl Franklin 和 Richard Campbell 一起为 .NET 开发人员举办的互联网音频脱口秀.
 * [/dev/hell](http://devhell.info/)  - Chris Hartjes 和 Ed Finkler 被困在开发地狱中，他们主要谈论 PHP、Web、他们的开发经验以及特邀嘉宾.  (2020年停产)
-* [a16z Podcast](https://a16z.com/podcasts/) - 播客讨论技术和文化趋势、新闻和未来.
+* [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future.
 * [Accidental Tech Podcast](http://atp.fm/) - 三个书呆子讨论技术、Apple、编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://podcasts.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) - 女性在科学、技术、工程和数学 (STEM) 方面的成就.
 * [AdminAdmin Podcast](https://adminadminpodcast.co.uk) - 关于系统管理和（越来越多的）DevOps 和云操作的播客.
@@ -64,14 +64,14 @@
 * [Developing Perspective](https://github.com/ayr-ton/awesome-geek-podcasts/blob/master/	http://developingperspective.com/)  - 从开发和设计到营销和支持，Under the Radar 都是关于独立应用程序开发的. 永远不会超过 30 分钟.
 * [DevOps Cafe](http://devopscafe.org/) - 在这个由采访驱动的节目中，John Willis 和 Damon Edwards 以务实的眼光审视了新兴 DevOps 运动背后的技术、工具和业务发展.
 * [Digital Human](https://www.bbc.co.uk/programmes/b01n7094) - BBC 系列探索由 Aleks Krotoski 呈现的数字世界.
-* [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive) - Researchers at the Wyss Institute for Biologically Inspired Engineering use Nature's design principles to develop bioinspired materials and devices that will transform medicine and create a more sustainable world. In this podcast series, Terrence McNally speaks directly with Institute researchers, exploring their motivations and how they envision our future as it might be impacted by their disruptive technologies.
+* [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive)  - Wyss 生物启发工程研究所的研究人员利用大自然的设计原则开发生物启发材料和设备，这些材料和设备将改变医学并创造一个更可持续的世界. 在这个播客系列中，Terrence McNally 直接与研究所的研究人员交谈，探讨他们的动机以及他们如何设想我们的未来，因为它可能会受到他们的颠覆性技术的影响.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - 在节目中，我们将与热情的人们讨论与开发人员相关的广泛话题.
 * [Elixir Foundation](http://feeds.soundcloud.com/users/soundcloud:users:24638646/sounds.rss) - 您每周播客，了解来自 Elixirlang 社区的新闻和采访.
 * [Elixir Outlaws](https://elixiroutlaws.com) - 关于 Elixir 开发及其相关主题的小组讨论.
 * [Embedded.fm](https://www.embedded.fm/) - 谈论工程（通常是设备）的方式、原因和内容.
 * [Ember Weekend](https://emberweekend.com/episodes) - 每周（结束）一次关于 Ember 的播客，由 Jon 和 Chase 主持.
 * [Entreprogrammers](http://entreprogrammers.com/)  - 从 4 名开发人员转变为企业家的人那里获得一个飞速发展的观点，因为他们在业务中挣扎并从艰难的方式中吸取教训. 这是 entreprogrammers 的每周策划小组.
-* [FiveJS](https://www.pluralsight.com/codeschool) - JavaScript 社区的最新消息.
+* [FiveJS](https://www.pluralsight.com/codeschool) - The latest news in the JavaScript community.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - 采访来自自由软件/开源社区的知名嘉宾.
 * [Founders Talk](https://changelog.com/founderstalk)  – 与创始人、首席执行官和制造商进行深入的一对一对话. 旅程、经验教训和斗争. 我们开工吧！
 * [Fragmented](https://fragmentedpodcast.com/) - Android 开发者播客.
@@ -81,7 +81,7 @@
 * [Get Up and Code](https://simpleprogrammer.com/)  - Get Up and Code 是一个关于程序员和软件开发人员健身的播客. 约翰·桑梅兹 (John Sonmez) 每周都会帮助您减肥、调整饮食并保持体形.
 * [GitMinutes](http://www.gitminutes.com/) - 为熟练的 Git 用户准备的节目.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/)  - Google Cloud Platform 播客，每周为您播客. 讨论从 Google Cloud Platform 上的一切，从 App Engine 到 Big Query.
-* [Go Time](https://changelog.com/gotime) - 围绕 Go 编程语言、构建系统、社区以及介于两者之间的一切的有趣主题.
+* [Go Time](https://changelog.com/gotime) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
 * [Hackaday Podcast](https://hackaday.com/category/podcasts/) - Hackaday 的播客，谈论发表的最佳文章和 hackaday 竞赛.
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - 在“Hardcore History”中，非常规的 Dan Carlin 将他的“火星式”、跳出框框的思维方式应用于过去.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
@@ -95,9 +95,9 @@
 * [Javascript Jabber](https://devchat.tv/podcasts/js-jabber/) - 关于前端和后端 Javascript 的每周播客讨论.
 * [JS Party](https://changelog.com/jsparty) – JavaScript 和网络的社区庆典
 * [Ladybug Podcast](https://ladybug.dev/) – 一个由女士主持的技术播客，面向所有开发人员，围绕如何开始编码、当前的热门技术、如何获得第一份开发人员工作、冒名顶替综合症、如何编写 CSS 等展开精彩讨论.
-* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  - Facebook. 苹果. 亚马逊.  Netflix. 谷歌. 这个播客探讨了它是如何获得它的力量的，它用它做了什么，以及未来可能发生什么.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  - Facebook. 苹果. 亚马逊.  Netflix. 谷歌. 这个播客探讨了它是如何获得它的力量的，它用它做了什么，以及未来可能会发生什么.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) - Laravel 新闻播客为您带来所有与 Laravel 相关的最新消息和事件.
-* [Linear Digressions](http://lineardigressions.com/) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
+* [Linear Digressions](http://lineardigressions.com/) - 通过真实世界的故事和示例，以一种易于理解的方式探索数据科学和机器学习的主题.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) - 关于 Linux 和开源世界的每周新闻.
 * [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  - 一个关于桌面 Linux、开源软件和创建它的社区的精彩世界的节目. 对于初学者和退伍军人一样！ 由福布斯的 Jason Evangelho 和朋友主持.
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/)  - Jeff Barr 讨论了 Amazon Web Services (AWS) 产品的各个方面. 每个播客都包含 AWS 新闻、技术提示以及对初创公司、AWS 合作伙伴和 AWS 员工的采访.
@@ -118,7 +118,7 @@
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall 是 PHP 开发人员每周与不同的嘉宾就 PHP 社区中的当前事件（或即将发生的事情）提出问题的一种方式.
 * [Podcast.\__init__](https://www.pythonpodcast.com/) - 关于 Python 和让它变得伟大的人的播客.
 * [Practical AI](https://changelog.com/practicalai) – 使人工智能变得实用、高效并为所有人所用.
-* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - 这个每周一次的播客提出了一些想法，可以帮助您成为数字隐身者、远离网络威胁并使您成为更好的在线调查员.
+* [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - 这个每周一次的播客提出了一些想法，可以帮助您变得数字隐形，远离网络威胁，并使您成为更好的在线调查员.
 * [Python Bytes](https://pythonbytes.fm/) - Python 头条新闻直接发送到您的耳塞.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab)  - Radiolab 是一个关于好奇心的节目. 声音照亮思想，科学、哲学和人类经验之间的界限模糊.
 * [React Podcast](https://reactpodcast.com/) - 关于 React.js 的播客
@@ -150,7 +150,7 @@
 * [Syscast Podcast](http://podcast.sysca.st/) - 谈 Linux、开源、Web 开发和系统管理 (DevOps).
 * [Talking Kotlin](http://talkingkotlin.com/) - 关于 Kotlin 的双月播客，更多内容由 Hadi Hariri 主持.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines 是您进入机器学习世界的窗口.
-* [Talk Python to Me](https://talkpython.fm/) - 涵盖各种 Python 主题的每周播客（30 分钟）.
+* [Talk Python to Me](https://talkpython.fm/) - 涵盖广泛 Python 主题的每周播客（30 分钟）.
 * [Teaching Python](https://www.teachingpython.fm/) - 两位中学教师学习和教授 Python.
 * [TechStuff](https://www.stuffmedia.com/techstuff-podcast.htm)  - TechStuff 涉及的主题从基本电子学到大型强子对撞机以及介于两者之间的所有内容.  TechStuff 致力于揭开技术及其在我们的社会和文化中的作用的神秘面纱.
 * [Test and Code Podcast](https://testandcode.com/) - 关于软件开发、软件测试和 Python 的播客.
@@ -169,7 +169,7 @@
 * [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - HackerSploit 播客旨在教育任何对信息安全、黑客或网络安全感兴趣的人. 
 * [The Hanselminutes podcast](https://hanselminutes.com/) - 开发人员的新鲜空气.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - Laravel 播客为您带来 Laravel 和 PHP 开发新闻和讨论.
-* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Jim Al-Khalili 教授与顶尖科学家谈论他们的生活和工作，找出启发和激励他们的因素，并询问他们的发现可能对人类有何帮助.
+* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) - Jim Al-Khalili 教授与顶尖科学家谈论他们的生活和工作，找出是什么激发和激励他们，并询问他们的发现可能对人类有什么帮助.
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth 和 Matt Frost 结合他们作为 Web 开发人员数十年的经验来谈论开发人员的生活.
 * [The Manifest](https://manifest.fm) - 一个关于包管理的播客.
 * [The Ship Show](http://theshipshow.com/) - 构建工程、DevOps、发布管理以及介于两者之间的一切！
@@ -194,7 +194,7 @@
 ## In Portuguese
 
 * [Laravel Portugal Live](https://laravel.pt)  - Laravel 葡萄牙成员聚在一起讨论 Laravel、PHP、葡萄牙社区、想法等等.  @joselaborges
-* [Ubuntu Portugal (podcast)](https://ubuntu-pt.org/) - A comunidade Ubuntu Portugal (Ubuntu-PT) é a comunidade Portuguesa de suporte à distribuição de GNU/Linux, Ubuntu. Esta comunidade consiste num grupo de pessoas que voluntariamente se dedica não só a promover a utilização do sistema operativo Ubuntu e do software livre em geral, mas também a dar suporte aos utilizadores portugueses desta distribuição de GNU/Linux.
+* [Ubuntu Portugal (podcast)](https://ubuntu-pt.org/)  - Ubuntu 葡萄牙社区 (Ubuntu-PT) 是支持 GNU/Linux 发行版 Ubuntu 的葡萄牙社区. 这个社区由一群人组成，他们不仅自愿致力于促进 Ubuntu 操作系统和一般自由软件的使用，而且还支持这个 GNU/Linux 发行版的葡萄牙用户.
 * [10deploys](https://www.10deploys.com/) - 讨论 DevOps 背后的起源、趋势、影响和概念，以帮助组织将自己转变为高性能组织.
 * [99Vidas](http://99vidas.com.br/) - 怀旧、有趣和对电子游戏的很多看法.
 * [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - 关于系统开发和 ArchCode 技术的播客.
@@ -204,7 +204,7 @@
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - 第一个关于数据库的巴西播客.
 * [DevDrops](https://anchor.fm/devdrops) - 您关于软件开发的播客.
 * [DataHackers](https://datahackers.com.br/podcast) - 每月播客，让数据科学专业人士谈论就业市场、职业和新闻.
-* [DASH](https://jogabilida.de/category/podcasts/podcast-games/dash/) - 关于游戏的播客，其中每一集都深入探讨游戏、主题、系列或开发商，甚至可以作为音频迷你文档.
+* [DASH](https://jogabilida.de/category/podcasts/podcast-games/dash/) - 关于游戏的播客，其中每一集都深入探讨游戏、主题、特许经营权或开发商，甚至可以作为音频迷你文档.
 * [DevNaEstrada](https://devnaestrada.com.br/) - 关于 Web 开发的每周播客，带有一点幽默感.
 * [Elemencast](https://elemencast.github.io) - 该提案旨在为听众带来有关前端世界、NodeJs、函数式编程等的各种内容.
 * [Enciclopédia do Teatro Impossível](https://open.spotify.com/show/36EnYAg6C1szSmbryeavXb?si=Htx1pbzGSp61pqyVvxbrRw)  - The Enciclopédia do Teatro Impossível 是巴西戏剧的平行历史，从它的失败来看. 它们部分是虚构的，部分是关于不可能的戏剧作品的现实故事.
@@ -255,7 +255,7 @@
 * [Python en español](https://podcast.jcea.es/python/) - 用你的语言编写的 Python
 * [WeDevelopers](http://wedevelopers.com/) - 开发者播客（一些英文剧集/一些英文播客）.
 * [Atareao Podcast](https://www.atareao.es/podcasts) - 关于 Linux、Ubuntu、Android 和开源的播客.
-* [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - 由 Bricolabs 协会组织的创客世界、免费软件和硬件、项目、活动和事件.
+* [Bricolabs Podcast](https://archive.org/details/BricolabsPodcast) - 由 Bricolabs 协会组织的创客世界、免费软件和硬件、项目、活动和活动.
 * [Davidochobits podcast](https://www.ochobitshacenunbyte.com/category/miscelaneos/) - 自由软件，GNU 和 Linux.
 * [deployando.me](https://deployando.me/) - 面向系统管理员和开发人员的技术播客.
 * [Eduardo Collado](https://www.eduardocollado.com/)  - 网络管理. 人不仅仅生活在托管和网络上.
@@ -349,8 +349,9 @@
 
 * [De Appels en Peren Show](http://appelsenperenshow.nl/)  - 一个关于未来的脱口秀节目. 技术、媒体、文化和一切让未来成为可能的事物.
 * [Tech45](https://tech45.eu/)  - Tech45 是每周一次的技术播客. 在大约 45 分钟内，一群极客将引导您浏览过去一周最有趣的科技新闻.
-* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)  - 每周播客，书呆子们在这里喝 Spa Rood 并谈论技术话题. 与常客书呆子和餐桌常客 Daniel Kegel、Floris Diemel、Joost Schellevis、Jurian Ubachs 和 Randal Peelen 一起.
+* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/) - Wekelijkse podcast waarin nerds Spa Rood drinken en praten over tech-onderwerpen. Met regelmatig gastnerds en vaste tafelnerds Daniel Kegel, Floris Diemel, Joost Schellevis, Jurian Ubachs en Randal Peelen.
 * [ZeepCast](https://twitter.com/Zeepcast)  - 关于科学、技术和流行文化最新发展的播客. 由 Sander Bijleveld 和 David van Dorsten 主持.
+* [Nerdland Maandoverzicht](https://maandoverzicht.nerdland.be/) - 由 Lieven Scheire 主持的月度播客，概述和讨论过去一个月的科技新闻.
 
 ## In Arabic
 * [Ask Developer](http://www.askdeveloper.com/) - 埃及阿拉伯语在线音频播客讨论了埃及和中东的技术和软件开发前景.

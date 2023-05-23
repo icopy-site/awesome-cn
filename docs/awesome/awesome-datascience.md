@@ -84,6 +84,7 @@
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+- [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 
 
 ### Free Courses
@@ -196,7 +197,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 装袋
+  - 套袋
   - 随机森林
   -AdaBoost
 
@@ -457,7 +458,7 @@
 | [Amazon Textract](https://aws.amazon.com/textract/)  | 从任何文档中自动提取打印的文本、手写内容和数据.  |
 | [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规情况，以进行全面的质量控制.|
 | [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
-| [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成关于拉取/合并请求的可视化报告.  |
+| [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成有关拉取/合并请求的可视化报告.  |
 | [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松将您的分析代码转换为分布式计算系统（大数据）|
 | [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 一个基于 Python 的推论统计、假设检验和回归框架 |
 | [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库 |
@@ -687,6 +688,7 @@
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering、MLOps 以及 ML 在初创公司中的使用
 - [Maria Khalusova](https://www.mariakhalusova.com/) - 数据科学博客
 - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - 机器学习、深度学习、数据科学博客
+- [Santiago Basulto](https://medium.com/@santiagobasulto) - 使用 Python 进行数据科学
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
