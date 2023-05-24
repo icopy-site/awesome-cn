@@ -60,7 +60,7 @@
   
   * [PopSQL](https://education.github.com/pack/redeem/popsql) [免费] - 适用于您的团队的现代协作 SQL 编辑器 — 编写查询、可视化数据并共享您的结果.在您还是学生期间免费订阅 PopSQL 高级版.
   
-  * [SQLGate](https://www.sqlgate.com/student-pack) [FREE] - Simple but powerful IDE for multiple SQL databases.Access to most Standard Subscription features for 1 year.
+  * [SQLGate](https://www.sqlgate.com/student-pack) [免费] - 用于多个 SQL 数据库的简单但功能强大的 IDE.在 1 年内访问大多数标准订阅功能.
   
   * [Kodika](https://education.github.com/pack/redeem/kodika) [免费] - 通过拖放构建 iOS 应用程序.Kodika Unlimited Pro 订阅免费 6 个月.
   
@@ -116,7 +116,7 @@
 
 * [Bip](https://bip.sh/students)  [折扣] - 静态网络托管.  Bip 为学生提供 30% 的经常性折扣 [on all plans](https://bip.sh/pricing).
 
-* [Education Host](https://education.github.com/pack/redeem/educationhost) [免费] - Designer 套餐中的学生可免费使用 1 年的网络托管服务和折扣升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
+* [Education Host](https://education.github.com/pack/redeem/educationhost) [免费] - Designer 套餐中的学生可以免费使用 1 年的网络托管和折扣升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 * [NodeHost](https://nodehost.ca/education)  [免费] - PHP 托管. 每个站点 500MB 存储空间、80GB 带宽、1 个数据库和 2 个电子邮件帐户，28 天备份历史记录.
 
@@ -143,6 +143,7 @@
 
 * [Themeisle](https://themeisle.com/github-students/) [免费] - Neve 的移动优先方法、与 AMP 和流行的页面构建器的兼容性使每个人都可以访问网站. 免费一年的 Neve Agency WordPress 主题专为学生设计.
 
+* [MDBootstrap](https://mdbootstrap.com/general/mdb-edu/)  [免费/折扣] - 一组灵活、响应迅速的页面模板、布局、组件和小部件，可快速构建网页. 所有教育项目的免费工具每年价值 2049 美元，学生可享受 50% 的折扣.
 
 
 ## SaaS
@@ -151,7 +152,7 @@
 
 * [Taskade - Team Productivity](https://www.taskade.com/)  [折扣] - 学生在订阅 Taskade Pro 时可获得 50% 的永久折扣. 在结账时使用优惠券代码“students50”并开始在 Taskade 上与团队任务、笔记和聊天进行协作.
 
-* [Notion.so](https://www.notion.so/product/notion-for-education) [免费] 关于编写、计划、协作和组织的概念的免费专业计划.
+* [Notion.so](https://www.notion.so/product/notion-for-education) [免费] 关于写作、计划、协作和组织的概念的免费专业计划.
 
 * [Netlicensing](https://netlicensing.io/github-students/)  [免费] - 一种经济高效且集成的许可即服务 (LaaS) 解决方案，适用于从桌面到物联网和 SaaS 的任何平台上的软件.  Basic Plan 在您就读期间免费 [GitHub Student Developer Pack](https://education.github.com/pack).  
 
@@ -188,7 +189,7 @@
 
 * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费] - 强大的 API，使您能够毫不费力地发送、接收和跟踪电子邮件.每月 20,000 封免费电子邮件和 100 次免费电子邮件验证，最多 12 个月，可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Testmail.app](https://testmail.app/github-students)  [免费] - 获取无限的电子邮件地址和邮箱，以使用我们强大的 API 自动进行电子邮件测试. 在您还是学生期间免费使用 Essential 计划.
+* [Testmail.app](https://testmail.app/github-students)  [免费] - 获取无限的电子邮件地址和邮箱，以便使用我们强大的 API 自动进行电子邮件测试. 在您还是学生期间免费使用 Essential 计划.
 
 
 ## CI / CD
@@ -216,7 +217,7 @@
 
 * [SQLSmash](https://student.sqlsmash.com/) [免费] - SQL Server Management Studio 的生产力插件，用于编写可维护的 SQL 脚本和更快的导航.学生的免费标准许可.
 
-* [PushBots](https://pushbots.com/for/education/)  [免费] - 通过推送通知吸引您的移动和网络应用程序用户的最简单方法. 免费高级帐户 6 个月.
+* [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
 
 * [EverSQL](https://www.eversql.com/github-students/) [免费] - 通过自动优化您的 SQL 查询来提高您的数据库性能.免费订阅基本计划 6 个月
 
@@ -258,7 +259,7 @@
 
 * [.tech](https://get.tech/students) [折扣] - 在 .tech TLD 上注册一年只需 0.99 美元，推荐人可免费续订.
 
-* [name.com](https://www.name.com/partner/github-students)[FREE] - Domain names, web hosting, and websites. One free domain name and free Advanced Security (SSL, privacy protection, and more) via [Github Student Developer Pack](https://education.github.com/pack).
+* [name.com](https://www.name.com/partner/github-students) [免费] - 域名、虚拟主机和网站. 一个免费域名和免费高级安全（SSL、隐私保护等）通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## Security
@@ -288,11 +289,11 @@
 
 * [Vertabelo](https://my.vertabelo.com/sign-up/create-academic)  [免费] - 在线可视化数据库设计. 为学习或教授数据库建模的学生和讲师提供 100% 免费的学术帐户.
 
-* [Invision](https://www.invisionapp.com/education-signup) [免费] - 原型制作和模型工具
+* [Invision](https://www.invisionapp.com/education-signup) [免费] - 原型设计和模型工具
 
 * [Framer](https://www.framer.com/pricing/)  [折扣] - 原型制作工具. 获得教育许可证时可享受 50% 的折扣.
 
-* [Vaadin](https://vaadin.com/student-program) [免费] - 用于构建渐进式 Web 应用程序的最佳开源 Java 框架.免费 Pro 订阅许可证可通过以下方式访问商业组件和工具 [Github Student Developer Pack](https://education.github.com/pack).
+* [Vaadin](https://vaadin.com/student-program) [FREE] - Best open source Java framework for building Progressive Web Applications.Free Pro subscription license to access the commercial components and tools via [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## Visual Analytics
@@ -333,7 +334,7 @@
 
 ## 3D Animation and Modeling Software
 
- * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [免费] - 免费的 Autodesk 教育许可证包括 Autodesk Maya、3DS MAX、Softimage、Motion Builder、Mudbox、Inventor Professional...
+ * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [免费] - 免费的 Autodesk 教育许可包括 Autodesk Maya、3DS MAX、Softimage、Motion Builder、Mudbox、Inventor Professional...
 
 
 ## Password Managers
@@ -361,7 +362,7 @@
 
 * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
 
-* [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [免费] - 免费访问精选的英特尔® 软件开发产品，包括：英特尔® XDK、英特尔® Video Pro Analyzer、英特尔® System Studio、英特尔® Parallel Studio XE Composer Edition 和英特尔® Parallel Studio XE Cluster Edition（包括 Fortran和 C/C++）.
+* [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [免费] - 免费使用精选的英特尔® 软件开发产品，包括：英特尔® XDK、英特尔® Video Pro Analyzer、英特尔® System Studio、英特尔® Parallel Studio XE Composer Edition 和英特尔® Parallel Studio XE Cluster Edition（包括 Fortran和 C/C++）.
 
 * [IBM Student Developer Community](https://developer.ibm.com/students/)  [免费] - 轻松访问开发下一件伟大事物所需的工具. 享受来自 IBM 的强大技术和战略资源.
 
@@ -380,7 +381,7 @@
 
 * [GO RAILS](https://gorails.com/github-students)  [免费] - Web 开发人员学习 Ruby、Rails、Javascript、Turbolinks、Stimulus.js、Vue.js 等的教程.  12 个月内免费访问所有视频和课程.
 
-* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [免费] - 学习 Web 开发基础知识以启动您作为开发人员的职业生涯.1 个月的 Web 开发课程访问权限.
+* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [免费] - 学习 Web 开发基础知识以启动您作为开发人员的职业生涯.1 个月访问 Web 开发课程.
 
 * [SymfonyCasts](https://symfonycasts.com/github-student)  [免费] - 通过视频教程和代码挑战掌握 Symfony 和 PHP. 学生可免费订阅 3 个月. 
 

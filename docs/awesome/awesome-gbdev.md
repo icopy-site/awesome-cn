@@ -115,7 +115,7 @@
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - 提供有关实现三个 8 位双向并行端口的硬件和详细结构信息的研究.
 - [Related custom hardware](https://github.com/Gekkio/gb-hardware) - 通过 Gekkio.
 - [ESP8266 GB Dev Board](https://github.com/applefreak/esp8266-gameboy-dev-board) - 用于 Game Boy 配件开发的开发板，由 ESP8266 提供支持.
-- [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 一种模拟 GB 打印机并允许您使用 WiFi 检索图像的设备.
+- [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) - 模拟 GB 打印机并允许您使用 WiFi 检索图像的设备.
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - 包含大量硬件信息的页面、用于与控制台和其他相关项目交互的自定义​​板.
 - [Game Boy hardware database](https://gbhwdb.gekkio.fi/) - 各种类型的 Game Boy 控制台的数据和照片.
 - [dmg-schematics](https://github.com/msinger/dmg-schematics)  - DMG-CPU B 芯片的原理图和带注释的覆盖图，从芯片照片中提取，使用 KiCad 制作. 还包含 Electric VLSI 库，其中包含一些单元和存储器的布局.
@@ -126,7 +126,7 @@
 - [Edge of Emulation](https://shonumi.github.io/articles.html) ，一系列关于模拟和研究 Game Boy 配件的文章. 也可作为 [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) 在 GBE 仿真器文档中.
   - [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) - Game Boy Color 上的互联网连接和 DLC.
   - [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
-  - [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - A blue cart with built-in sonar hardware.
+  - [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - 带有内置声纳硬件的蓝色手推车.
   - [Zok Zok Heroes](https://shonumi.github.io/articles/art8.html)  - Zok Zok Heroes 的 Full Changer，一种运动激活的配件.
   - [Infrared Madness](https://shonumi.github.io/articles/art11.html) - Game Boy Color 上的红外通信.
   - [Game Boy 4-Player Adapter](https://shonumi.github.io/articles/art9.html) - DMG-07.
@@ -234,7 +234,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 #### Experimental/Proof of Concepts
 
 - [RGBDS-Live](https://daid.github.io/rgbds-live/) - 用于试用 RGBDS 的浏览器内编码环境.
-- [Wiz](https://github.com/wiz-lang/wiz) - 一种高级汇编语言，用于在复古控制台平台（Game Boy、NES、Atari 2600 等）上编写自制软件.
+- [Wiz](https://github.com/wiz-lang/wiz) - 一种高级汇编语言，用于在复古控制台平台（Game Boy、NES、Atari 2600 等）上编写自制程序.
 - [gbforth](https://github.com/ams-hackers/gbforth) - 基于 Forth 的 Game Boy 开发工具包.
 - [gbasm-rs](https://gitlab.com/BonsaiDen/gbasm-rs) - 用于 Game Boy z80 汇编代码的基于 Rust 的固执己见的编译器.
 - [gbasm](https://github.com/BonsaiDen/gbasm) - 用于 Game Boy z80 汇编代码的基于 JavaScript 的编译器.
@@ -269,7 +269,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - [GBExtended](https://www.tensi.eu/thomas/programming/utilities/gbx_library/gbx_library.html) - 扩展 gbdk 的 C 库.
 - [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) - Michael Hope 的 Game Boy 开发工具包的一小部分资源和工具.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 用于 Game Boy 编程的 IDE，使用称为 GBL 的类 C 语言，具有许多其他功能，如瓦片和地图提取、WLA-DX 汇编等.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - 用于 Game Boy 编程的 IDE，使用称为 GBL 的类 C 语言，具有许多其他功能，如瓦片和地图提取、WLA-DX 组装等.
 - [mgbdis](https://github.com/mattcurrie/mgbdis) - 具有 RGBDS 兼容输出的 Game Boy ROM 反汇编程序.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) - 检查和修改 ROM 标头数据（包括徽标）的在线工具.
 - [romusage](https://github.com/bbbbbr/romusage)  - 用于从 .map、.noi 或 ihx 文件估算 Game Boy ROM 使用情况（可用空间）的命令行工具. 适用于 GBDK-2020 和 RGBDS.
@@ -322,7 +322,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 - **[gb asm tutorial](https://eldred.fr/gb-asm-tutorial)** - 分步教程，构建多个 ROM 以配合其解释.
 - [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - Duo 提供的一组关于 GB/GBC 汇编编码和反汇编的课程.
-- [hardware.inc](https://github.com/tobiasvl/hardware.inc) - 包含用于 RGBDS 项目的 Game Boy 硬件定义的标准包含文件.
+- [hardware.inc](https://github.com/tobiasvl/hardware.inc) - 标准包含文件，其中包含用于 RGBDS 项目的 Game Boy 硬件定义.
 - [Assembly tutorial by David Pello](https://gb-archive.github.io/salvage/tutorial_de_ensamblador/tutorial_de_ensamblador_la_decadence.html)  - 学习为 gb 生成工作 asm 代码的好文档. 许多重要主题的简要说明. 许多带有注释源代码的示例.
 - [assemblydigest](https://github.com/assemblydigest/gameboy) - 探索 Game Boy 编程技术：
   - [Making an Empty Game Boy ROM (in Wiz)](http://assemblydigest.tumblr.com/post/77203696711/tutorial-making-an-empty-game-boy-rom-in-wiz)
@@ -370,7 +370,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - 另一个用于 RGBDS 汇编的 Vim 语法高亮文件.
 - [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) - 用于 RGBDS 的 Sublime Text 3 包，包括语法突出显示和一些完成片段.
 - [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode)
-- [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) - 用于 RGBDS GBZ80 程序集的 Visual Studio Code 语言扩展.
+- [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
 - [rgbds-mode](https://github.com/japanoise/rgbds-mode) - 用于 RGBDS 汇编的 Emacs 主要模式.
 
 ### C
@@ -540,7 +540,7 @@ Game Boy 打印机仿真（例如从相机中检索图像）：
   - [Dedicated Discord](https://discord.gg/knRryZWGcm)
 - [ArduinoBoy](https://github.com/trash80/Arduinoboy) - 从 Arduino 到 Game Boy 的串行通信 (MIDI)，用于 LittleSoundDJ、Nanoloop 和 mGB 等音乐应用程序.
 - [papiGB](https://github.com/diegovalverde/papiGB) - 从零开始的 Game Boy Classic 全功能 FPGA 实现.
-- [fpgaboy](https://github.com/trun/fpgaboy) - 在 FPGA 上实施任天堂的 Game Boy 控制台.
+- [fpgaboy](https://github.com/trun/fpgaboy) - 在 FPGA 上实现任天堂的 Game Boy 控制台.
 - [Piglet](https://github.com/danShumway/Piglet)  - 一个 LUA 驱动的 AI，可以通过实验来玩经典的 Game Boy 彩色游戏. 在积极发展中.
 - [Ostrich](https://github.com/PumpMagic/ostrich) - 用 Swift 编写的 Game Boy 音响系统播放器.
 - [mGB](https://github.com/trash80/mGB) - 一个 Game Boy 卡带程序，使 Game Boy 可以充当完全支持 MIDI 的声音模块.
@@ -555,7 +555,7 @@ Game Boy 打印机仿真（例如从相机中检索图像）：
 - [Virtual Game Boy Printer with an STM32F4](https://dhole.github.io/post/gameboy_serial_2/)
 - [Printing on the Game Boy Printer using an STM32F4](https://dhole.github.io/post/gameboy_serial_3/)
 - [Programming Game Boy Chinese cartridges with an STM32F4](https://dhole.github.io/post/gameboy_cartridge_rw_1/)
-- [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊代码.
+- [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - 绕过任天堂标志检查.
  - 2017 年制作 Game Boy 游戏：“Sheep It Up!” 验尸（[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
 - [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒都必须显示真实标识才能被视为有效并可以运行，但显然有些公司设法利用了检查系统.
@@ -602,4 +602,4 @@ See [LICENSE](LICENSE) 了解更多信息.
 
 ### Sponsors
 
-特别感谢我们的朋友 [DigitalOcean](https://www.digitalocean.com/), 赞助我们 Game Boy 开发社区的开源活动 ([announcement](https://twitter.com/avivace4/status/992188011990409216)).
+特别感谢我们的朋友 [DigitalOcean](https://www.digitalocean.com/) 和 [Incube8 Games](https://incube8games.com/)，赞助我们 Game Boy 开发社区的开源活动.

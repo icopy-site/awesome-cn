@@ -277,7 +277,7 @@
 
 - [Dart Code Metrics](https://pub.dev/packages/dart_code_metrics)  — Dart 的额外 linter. 报告代码指标、检查反模式并为 Dart 分析器提供附加规则.
 
-- [effective_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
+- [effective_dart](https://pub.dev/packages/effective_dart) — 与 Effective Dart 指南相对应的 Linter 规则
 
 - [lint](https://github.com/passsy/dart-lint)  — 一套自以为是的、社区驱动的 lint 规则集，用于 Dart 和 Flutter 项目. 喜欢迂腐但更严格
 
@@ -950,7 +950,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [cargo-call-stack](https://github.com/japaric/cargo-call-stack) — 整个程序静态堆栈分析 该工具将程序的完整调用图生成为点文件.
 
-- [cargo-deny](https://embarkstudios.github.io/cargo-deny)  — 一个 cargo 插件，用于检查您的依赖项. 它也可以用作命令行、Rust crate 或 CI 的 Github 操作. 它会检查有效的许可证信息、重复的包装箱、安全漏洞等.
+- [cargo-deny](https://embarkstudios.github.io/cargo-deny) — A cargo plugin for linting your dependencies. It can be used either as a command line too, a Rust crate, or a Github action for CI. It checks for valid license information, duplicate crates, security vulnerabilities, and more.
 
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) — Cargo subcommand to show result of macro expansion  and #[derive] expansion applied to the current crate.  This is a wrapper around a more verbose compiler command.
 
@@ -974,6 +974,8 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 - [herbie](https://github.com/mcarton/rust-herbie-lint) — 在使用数值不稳定的浮点表达式时向您的板条箱添加警告或错误.
 
 - [linter-rust](https://github.com/AtomLinter/linter-rust) — 使用 rustc 和 cargo 在 Atom 中检查你的 Rust 文件.
+
+- [lockbud](https://github.com/BurtonQin/lockbud)  — 静态检测 Rust 死锁错误. 它目前检测两种常见的死锁错误：双锁和顺序冲突的锁. 它将以 JSON 格式打印错误以及源代码位置和每个错误的解释.
 
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) — 以及在 Rust 的中级中间语言上运行的抽象解释器，并根据污点分析提供警告.
 
@@ -1015,7 +1017,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [squawk](https://squawkhq.com)  — Linter for PostgreSQL，专注于迁移. 防止由数据库迁移引起的意外停机，并鼓励围绕 Postgres 模式和 SQL 的最佳实践.
 
-- [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+- [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL 特定的 linter.
 
 - [TSqlRules](https://github.com/ashleyglee/TSqlRules) — SQL Server 的 TSQL 静态代码分析规则.
 
@@ -1479,11 +1481,11 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [sass-lint](https://github.com/sasstools/sass-lint) :warning: — 用于 sass 和 scss 语法的仅限节点的 Sass linter.
 
-- [scsslint](https://github.com/brigade/scss-lint) :warning: — SCSS 文件的 Linter.
+- [scsslint](https://github.com/brigade/scss-lint) :warning: — Linter for SCSS files.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS 特异性图生成器.
 
-- [Stylelint](http://stylelint.io) — SCSS/CSS 文件的 Linter.
+- [Stylelint](http://stylelint.io) — Linter for SCSS/CSS files.
 
 
 <h2 id="configfile">配置文件</h2>
@@ -1545,7 +1547,7 @@ Fprettify 是一种工具，可在代码中提供一致的空格、缩进和定�
 
 - [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) — Lint 和验证 Dockerfile 标签.
 
-- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — 更智能的 Dockerfile linter，可帮助您构建最佳实践 Docker 映像.
+- [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) — A smarter Dockerfile linter that helps you build best practice Docker images.
 
 - [kics](https://kics.io/)  — 在您的基础设施即代码中查找安全漏洞、合规性问题和基础设施配置错误. 支持 Terraform、Kubernetes、Docker、AWS CloudFormation 和 Ansible
 

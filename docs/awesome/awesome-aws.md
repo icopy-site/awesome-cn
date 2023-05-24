@@ -317,7 +317,7 @@ AWS 回购协议：
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - 增强型 AWS 命令​​行界面.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - 轻松通过命令行访问 Amazon EC2、S3、SQS、ELB 和 SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - Go 中用于 EC2、IAM 和 S3 的强大 CLI.
-* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用 Go 编写的用于安全存储 AWS 凭证的工具.
+* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用于安全存储 AWS 凭证的工具，用 Go 编写.
 
 ### CloudFormation
 
@@ -326,7 +326,7 @@ AWS 回购协议：
 * [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) - 在代码中定义云基础设施的框架.
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - 自定义资源示例.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - 自定义资源框架.
-* [cfn-python-lint :fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - 用于检查/验证 CloudFormation 的工具.
+* [cfn-python-lint :fire::fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - 用于检查/验证 CloudFormation 的工具.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) - 样本食谱.
 * [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) - 部署和维护 HPC 集群的框架.
 
@@ -341,7 +341,7 @@ AWS 回购协议：
 * [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - 用于管理 CloudFormation 堆栈的 CLI 工具.
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - 用于堆栈管理的 CLI.
 * [sparkleformation/sparkle_formation :fire::fire:](https://github.com/sparkleformation/sparkle_formation) - 用于模板创建的 Ruby DSL.
-* [Stelligent/cfn_nag :fire::fire::fire:](https://github.com/stelligent/cfn_nag) - CloudFormation 模板的 Linting 工具
+* [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - CloudFormation 模板的 Linting 工具
 
 ### CloudSearch
 
@@ -834,7 +834,7 @@ AWS 回购协议：
 
 AWS 回购协议：
 
-* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性扫描仪.
+* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性扫描器.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - 用于匿名注册的令牌自动售货机.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - 用于身份注册的令牌自动售货机.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
@@ -875,7 +875,7 @@ AWS 回购协议：
 * [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - 来自 re:Invent 2014 的移动照片共享应用程序.
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - 来自 re:Invent 2014 的可扩展站点管理示例.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - 来自 re:Invent 2015 的大规模指标分析.
-* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析样本.
+* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析示例.
 * [todo-sample-app](https://github.com/awslabs/todo-sample-app) - 来自 RailsConf 2014 的简单“Todo”应用程序.
 
 社区回购：
@@ -1077,7 +1077,7 @@ AWS 博客：
 
 社区博客：
 
-* [All Things Distributed](http://www.allthingsdistributed.com/) - AWS 首席技术官 Werner Vogels.
+* [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels，AWS 首席技术官.
 * [Things I Like...](http://jeff-barr.com/) - AWS 首席宣传官 Jeff Barr.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)

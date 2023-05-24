@@ -30,6 +30,7 @@
 - [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （已存档）
 - [vcli](https://github.com/changhz/vcli) - 一个 CLI 工具，根据 [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 - [vgoogle](https://github.com/changhz/vgoogle) - 在终端上进行谷歌搜索.
+- [vindex](https://github.com/wenxuanjun/vindex) - 一个生成 json 字符串的简单文件列表服务器，与 nginx 的 autoindex 模块兼容.
 - [vzcc](https://github.com/malisipi/vzcc) - 基于 Zig CC for V 的 CLI 交叉编译工具.
 
 ### Editors
@@ -41,6 +42,7 @@
 
 ### Games
 
+- [2048](https://github.com/wenxuanjun/2048) - 一款集成了多种传统AI的2048游戏.
 - [Boundstone](https://github.com/organization/boundstone) - 高性能/快速编译/轻量级 Minecraft：基岩版服务器.
 - [flappylearning-v](https://github.com/vlang/v/tree/master/examples/flappylearning) - v 中的一个简单的 flappy 学习演示.
 - [Kurarin](https://github.com/FireRedz/kurarin)  - 奥苏！ 用 V 制作的 beatmap 可视化器. [Example video](https://p153.p0.n0.cdn.getcloudapp.com/items/6quvQjb5/ce3ea737-eb29-4b8c-a5f3-65a804a2f56f.mp4).
@@ -150,7 +152,7 @@
 
 ### Graphics
 
-- [V Earcut](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
+- [V Earcut](https://github.com/Larpon/earcut) - 基于的快速（实时）多边形三角剖分库 [mapbox/Earcut](https://github.com/mapbox/earcut) 处理孔、扭曲的多边形、退化和自相交.
 - [vgl](https://github.com/justicesuh/vgl) - 低级图形 API 访问.
 - [viup](https://github.com/kjlaw89/viup) - 基于 C 的跨平台 UI 库 IUP 的 V 包装器.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - 一个 libSDL2 包装器.
@@ -321,7 +323,7 @@
 - [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
 - [V by Example](https://github.com/v-community/v_by_example) - V 书作为 [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - 节点 js 开发人员的 Vlang.
-- [V learning notes](https://github.com/lydiandy/vlang_note) - 中文个人学习笔记.
+- [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
 - [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - VOSCA 博客上的教程类别.
 
 ### Videos

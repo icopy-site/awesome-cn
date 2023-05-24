@@ -91,6 +91,7 @@
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows 批处理脚本和 Unix Bash 脚本，用于在事件响应期间全面收集主机取证数据.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - 从基于 Windows、OSX 和 \*nix 的操作系统收集易失数据的自动化工具.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 命令行实用程序（适用于或不适用 Amazon EC2 实例）以并行化远程内存获取.
+* [SPECTR3](https://github.com/alpine-sec/SPECTR3) - 通过便携式 iSCSI 只读访问获取、分类和调查远程证据
 * [UAC](https://github.com/tclahr/uac) - UAC（类 Unix 工件收集器）是用于事件响应的实时响应收集脚本，它利用本机二进制文件和工具自动收集 AIX、Android、ESXi、FreeBSD、Linux、macOS、NetBSD、NetScaler、OpenBSD 和 Solaris系统工件.
 
 ### Incident Management
@@ -205,7 +206,7 @@
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT 目录树重建和记录信息.
 * [Munin](https://github.com/Neo23x0/munin) - VirusTotal 和其他服务的在线哈希检查器.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse 是一个 PowerShell 模块，专注于在安全事件响应期间进行有针对性的遏制和补救.
-* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - 非常简单的多线程多规则到多文件 YARA 扫描 Python 脚本，用于恶意软件动物园和 IR.
+* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - 非常简单的多线程多规则到多文件 YARA 扫描恶意软件动物园和 IR 的 Python 脚本.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - 允许在 Windows、Linux 和 OS X 上使用 YARA 扫描磁盘和内存以查找 IOC.
 * [RaQet](https://raqet.github.io/) - 非常规的远程采集和分类工具，允许对使用专门构建的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
 * [Raccine](https://github.com/Neo23x0/Raccine) - 简单的勒索软件保护

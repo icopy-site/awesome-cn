@@ -49,7 +49,7 @@
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - 了解如何通过前沿论坛激发未来的想法和战略.
-- [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
+- [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Simon Wardley 的书的视频章节摘要、15 分钟的介绍性课程和快速参考.
 - [GCATI](https://gcati.org/community/wardley-mapping-community)  - 全球认可的 Wardley 测绘培训和认证； 意识、基础、实践者、战略发展研讨会和 Wardley Mapping BattleCamp.
 - [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Coursera 项目网络的 Tricia Bagley.
 - [Business Stragy with Wardley Mapping](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/courses.coryfoy.com/p/business-strategy-with-wardley-mapping) - [Cory Foy](https://twitter.com/cory_foy).
@@ -66,7 +66,7 @@
 - [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0)  - 关于如何使用 OpenAI、Streamlit 和 Python 创建 Wardley Map 聊天机器人的博文. 提供完整的源代码.
 - [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - 关于 Wardley Mapping Prompt Engineering for ChatGPT 的 Twitter 线程有很多例子.
 - [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - 中国、EEUU 和欧洲情景比较.
-- [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/)  - Max Langenkamp 的工程硕士论文的 4k 字摘要.  2022 年 9 月 27 日.
+- [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
 - [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  -华金·佩尼亚·费尔南德斯 (Joaquín Peña Fernández).  2022 年 8 月 29 日.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  -华金·佩尼亚·费尔南德斯 (Joaquin Peña Fernandez).  9月16日，
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 西蒙·沃德利 (Simon Wardley) 为什么电子游戏将成为一个国家灵魂的新战场.  2021 年 9 月 8 日.
@@ -87,7 +87,7 @@
 - [On the diversity of values](https://swardley.medium.com/on-the-diversity-of-values-af1f91217be5)  ——论价值观的包容性和排他性.  2020 年 2 月 24 日.
 - [From HS2 to China and … back again](https://swardley.medium.com/from-hs2-to-china-and-back-again-6bce5764ea14)  - 关于不断变化的地缘政治世界.  2020 年 2 月 23 日.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - 审视组织中的团队和阶层，以及用于满足组织需求（如一致性、报告等）的实践.2020 年 2 月 9 日.
-- [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/) - Wardley mapping shows blockchain is following the same maturity evolution as other mainstream technologies. 28 Jan, 2020.
+- [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  - Wardley 映射显示区块链正在遵循与其他主流技术相同的成熟度演变.  2020 年 1 月 28 日.
 - [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - 2020 年 1 月 23 日.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html)  - 使用 Wardley 地图查看喷气发动机的演变.  2020 年 1 月 5 日.
 - [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x)  - 因为你雇用的那个专家没有灵丹妙药.  2019 年 11 月 4 日.
@@ -175,6 +175,7 @@
 - [Q&A with Simon Wardley Videos](https://simongpt.streamlit.app/)  - 一个 OpenAI/Streamlit/Python 应用程序，用于从 Simon 在 YouTube 上的任何视频中询问有关 Wardley Mapping 的任何问题. 它从 YouTube 中提取文本，您可以与视频进行 AI 聊天.
 - [Q&A with Wardley Community Videos](https://wardleygpt.streamlit.app/)  - 一个 OpenAI/Streamlit/Python 应用程序，用于从 YouTube 上的任何社区视频中询问有关 Wardley Mapping 的任何问题. 它从 YouTube 中提取文本，您可以与视频进行 AI 聊天.
 - [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - 与 WardleyGPT 聊天的 OpenAI/Streamlit/Python 应用程序.
+- [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - 通过两个简单的步骤创建您自己的 Wardley 映射代码编辑器.
 
 ## Templates
 
@@ -225,7 +226,7 @@
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   - 挪威
     - [Oslo](https://www.meetup.com/oslo-wardley-mapping)    
-  - 塞尔维亚
+  - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
   - 西班牙
     - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/) - 组织变革 - 沃德利地图

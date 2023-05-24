@@ -10,7 +10,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 构建、分析和可
 
 &gt; 美国政治博客网络 [Adamic and Glance (2004)](https://dl.acm.org/citation.cfm?doid=1134271.1134277) ([preprint](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)).
 
-__Note:__ searching for ‘@’ will return all Twitter accounts listed on this page.
+__注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 
 - __[Books](#books)__
@@ -138,7 +138,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Theories of Communication Networks](https://global.oup.com/academic/product/theories-of-communication-networks-9780195160376)_, by Peter Monge and Nosh Contractor (2003).
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
- - _[事物的联系. 网络和网络的文化历史 [事物的连通性. 网络和网络的文化史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，塞巴斯蒂安·吉斯曼 (Sebastian Gießmann)，德语 (2014).
+ - _[事物的联系. 网络和网络的文化历史 [事物的连通性. 网络和网络的文化历史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，塞巴斯蒂安·吉斯曼 (Sebastian Gießmann)，德语 (2014).
  - _[涵盖国家社会主义下的社交网络. 柏林受迫害犹太人援助网络的出现和工作方法[国家社会主义中的隐藏社会网络：柏林受迫害犹太人援助网络的起源和工作方法]](http://www.degruyter.com/view/product/432196 )_ ，作者 Marten Düring，德语（2015 年； [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
@@ -169,7 +169,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Graphs and Networks](https://sites.google.com/a/yale.edu/462-562-graphs-and-networks/), 作者：Dan Spielman（耶鲁大学，2013 年）.
 -   [Network Analysis and Modeling (Computer Science)](https://aaronclauset.github.io/courses/5352/), 作者 Aaron Clauset - 完整的演讲幻灯片和阅读材料（科罗拉多大学，2022 年）.
 -   [Networks, Complexity and Its Applications (Media Arts and Sciences)](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/), 作者 Cesar Hidalgo（麻省理工学院，2011 年）.
--   [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2), 大卫·伊斯利、乔恩·克莱因伯格和伊娃·塔多斯 ([presentation](https://www.cornell.edu/video/cornellx-networks-crowds-and-markets) ; 康奈尔大学通过 edX，2016 年）.
+-   [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2), 大卫·伊斯利 (David Easley)、乔恩·克莱因伯格 (Jon Kleinberg) 和伊娃·塔多斯 (Eva Tardos)[presentation](https://www.cornell.edu/video/cornellx-networks-crowds-and-markets) ; 康奈尔大学通过 edX，2016 年）.
 -   [Networks (Economics)](https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/)，作者：Mardavij Roozbehani 和 Evan Sadler（麻省理工学院，2018 年）.
     -   [Networks (Economics)](https://hdl.handle.net/1721.1/119628)，作者：Daron Acemoglu 和 Asu Ozdaglar（麻省理工学院，2009 年）.
 -   [Network Science (Computer Science)](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci/), Constantine Dovrolis - 主要是开放获取阅读材料（佐治亚理工学院，2015 年）.
@@ -210,7 +210,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 -   [Philosophers Networks from Randall Collins’s _The Sociology of Philosophies_](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html#tab_1).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
--   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - 通过获取的网络数据 [SocioPatterns](http://www.sociopatterns.org/) 传感平台.
+-   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - 通过获取的网络数据 [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
 -   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
 -   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - 美国州与州之间的关系变量，包括边界、旅行、贸易等.
 -   [tnet Datasets](https://toreopsahl.com/datasets/) - 加权网络数据.
@@ -305,11 +305,11 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Network Dynamics](http://networkdynamics.org/) - 麦吉尔大学研究实验室，由 [Derek Ruths](http://www.derekruths.com/)
 -   [Netzwerkerei](http://netzwerkerei.org/) - 关于犹太知识分子之间联系的历史研究项目.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - 关于网络和监管的研究计划.
-    -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - 研讨会在法国巴黎的巴黎政治学院举办.
+    -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - 研讨会设在法国巴黎的巴黎政治学院.
 -   [Redes-Sociales](http://www.redes-sociales.net/), 西班牙语 - 位于巴塞罗那自治大学的信息网络.
 -   [RES-HIST : Réseaux et histoire](https://reshist.hypotheses.org/), 法语 - 来自历史网络研究小组的博客文章.
     -   [RES-HIST Conferences](https://reshist.hypotheses.org/?s=res-hist).
--   [SocioPatterns](http://www.sociopatterns.org/) - 使用无线传感器研究社交网络数据的跨学科研究小组.
+-   [SocioPatterns](http://www.sociopatterns.org/) - Interdisciplinary research group that uses wireless sensors to study social network data.
 -   [SoNAR-C - Social Network Analysis Research Center, University of Italian Switzerland (USi)](http://www.sonarcenter.eco.usi.ch/).
 -   [Topographies of Entanglements. Mapping Medieval Networks](https://oeaw.academia.edu/TopographiesofEntanglements) - 位于奥地利科学院的研究平台，专注于将网络理论和可视化应用于中世纪历史.
 -   [UCL Centre for Organisational Network Analysis (CONA)](https://www.ucl.ac.uk/cona).
@@ -508,7 +508,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [vosonR](http://vosonlab.net/tools) - VOSON 软件的 R 客户端（开发中）.
 -   [UNISoN](http://unison.sleonard.co.uk/) - 用于下载和可视化 Usenet 数据的跨平台程序. [Developed for a Masters degree](https://github.com/leonarduk/unison/wiki/MSc-Report-Abstract).
 -   [VennMaker: An Actor-Centered Interactive Network Mapping Tool](http://www.vennmaker.com/?lang=en) - 用于自我网络分析的跨平台 Java 程序.
-    -   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) (also available in Spanish; 2011).
+    -   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) （也有西班牙语版本；2011 年）.
 -   [Visone](https://visone.ethz.ch/) - 跨平台 Java 网络分析和可视化程序，非商业用途免费.
     -   [Visone Tutorials](https://visone.ethz.ch/wiki/index.php/Tutorials) - 包括一个使用考古案例研究的案例 (2017).
 -   [Vizster](http://vis.stanford.edu/jheer/projects/vizster/) - 跨平台 Java 程序可视化在线社交网络.
@@ -675,13 +675,14 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - 估计和模拟具有局部依赖性的分层指数族随机图模型（HERGM）.
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) – 确定社交网络随时间发展形成社交等级的路径和状态.
--   [igraph](http://igraph.org/r/) - A collection of network analysis tools.
+-   [igraph](http://igraph.org/r/) - 网络分析工具的集合.
     -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [influenceR](https://CRAN.R-project.org/package=influenceR) - 计算 Burt、Borgatti 和其他人的各种节点中心网络度量.
 -   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - 实施多项网络中心措施.
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - 网络对象的潜在位置和集群模型.
 -   [levelnet](https://github.com/schochastics/levelnet)  - 用于分析二分（双模）网络的单模投影的实验包. 另见：`bipartite` R 包.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - 旨在推断生物（信号、基因）网络的线性规划模型.
+-   [mlergm](https://cran.r-project.org/package=mlergm) - 多级指数族随机图模型，用于对嵌套在已知块中的节点进行建模.
 -   [multigraphr](https://github.com/termehs/multigraphr) - 随机多图模型、多图属性统计和拟合优度检验.
 -   [multinet](https://CRAN.R-project.org/package=multinet) - 多层社交网络工具.
     - [Related book and data](http://multilayer.it.uu.se/)， 和 [presentation article](http://multilayer.it.uu.se/papers/jss.pdf) . 参见 `uunet` 了解 Python 版本.
@@ -701,7 +702,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [networkDynamic](https://CRAN.R-project.org/package=networkDynamic) - 支持动态、（间）时间网络.
 -   [networksis](https://CRAN.R-project.org/package=networksis) - 用于模拟具有固定和指定节点度数的二分网络图的工具.
 -   [PAFit](https://CRAN.R-project.org/package=PAFit) - 时间复杂网络中优先连接和节点适应度的非参数估计.
--   [PCIT](https://CRAN.R-project.org/package=PCIT) - 实施与信息论的偏相关，以识别加权网络（例如基因共表达网络）中有意义的相关性.
+-   [PCIT](https://CRAN.R-project.org/package=PCIT) - 实施与信息论的偏相关，以便识别加权网络（例如基因共表达网络）中有意义的相关性.
 -   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - R 和最新版本的 Cytoscape 之间的接口.
 -   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - R 和 Cytoscape.js 之间的接口.
 -   [qgraph](https://CRAN.R-project.org/package=qgraph)  - 建模和可视化心理测量网络的工具； 也针对加权图形模型）.
@@ -734,7 +735,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [tnam](https://CRAN.R-project.org/package=tnam) - 适合时间和横截面网络自相关模型 (TNAM) 的工具.
 -   [tnet](https://CRAN.R-project.org/package=tnet) - 加权、双模和纵向网络的网络测量.
 -   [tsna](https://CRAN.R-project.org/package=tsna) - 时间社交网络分析工具.
--   [visNetwork](https://github.com/DataKnowledge/visNetwork) - 使用 vis.js 库进行网络可视化.
+-   [visNetwork](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 -   [xergm](https://CRAN.R-project.org/package=xergm) - 指数随机图模型的扩展（ERGM、GERGM、TERGM、TNAM 和 REM）.
 
 ### Stata
@@ -774,7 +775,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 &gt; 不适合其他类别的资源.
 
 -   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - 网络分析的各种应用的长列表，带有西班牙语的短裤描述.
--   [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Comprehensive list of graph embedding papers with title, authors, link to the paper and reference implementation.
+-   [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - 图形嵌入论文的综合列表，包括标题、作者、论文链接和参考实现.
 -   [Awesome community detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 社区检测论文的完整列表，包括标题、作者、论文链接和参考实现.
 -   [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - 分析真实世界的人物网络.
 -   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - 组装和操作网络数据时要记住的基本概念.
@@ -890,7 +891,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [The Invasion of the Physicists](https://doi.org/10.1016/j.socnet.2004.06.002) - “网络_科学_”是如何出现的.
 -   [Isolated Social Networkers](https://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 早于“网络科学”作为流行词出现的一系列博客文章，但涉及的问题与现在在该标题下讨论的问题相同.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - 2002-2003年出版的网络科学书籍回顾.
--   [Predicting Highly Cited Papers](https://arxiv.org/abs/1310.8220) - 预测网络科学领域下一篇高被引论文.
+-   [Predicting Highly Cited Papers](https://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 -   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 -   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 -   [A Twenty-First Century Science](http://www.nature.com/nature/journal/v445/n7127/full/445489a.html) - 邓肯·J·瓦茨 (Duncan J. Watts) 的文章.

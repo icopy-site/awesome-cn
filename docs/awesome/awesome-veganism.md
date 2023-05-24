@@ -4,7 +4,7 @@
 &gt; 精选资源、建议和技巧的精选列表，让每个人都能轻松享受纯素食主义.
 
 [Veganism](https://en.wikipedia.org/wiki/Veganism) 是一种以植物为基础的生活方式，尽可能避免使用动物产品.
-此列表试图创建一种社区驱动的方法来保证严肃的内容，100% 符合纯素食生活方式，以最大限度地减少获得令人敬畏的体验所需的努力.
+此列表试图创建一种社区驱动的方法来保证严肃的内容，100% 与素食生活方式保持一致，以最大限度地减少获得令人敬畏的体验所需的努力.
 
 
 
@@ -17,7 +17,7 @@
 
 - [Adidas Superstar Vegan](https://www.adidas.com/us/superstar-vegan-shoes/FW2295.html) - 老式滑板鞋的全新素食版模型.
 - [Etnies](https://www.etnies.com/us/collections/vegan/) - 轻便且非常舒适的鞋子.
-- [Vegano Shoes](https://www.veganoshoes.com.br/) - Boots, shoes and sneakers reference in Brazil.
+- [Vegano Shoes](https://www.veganoshoes.com.br/) - 巴西的靴子、鞋子和运动鞋参考.
 
 ## Bakeries
 
@@ -29,14 +29,21 @@
 - 柏林，德国
   - [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - 柏林最美味的高品质素食甜甜圈.
 
+- 美国犹他州米德韦尔
+  - [Sweet Hazel & Co](https://sweethazelandco.com/)  - 美味的糖果、食物等等.  LGBTQ+ 友好！
+
 - 怪物，荷兰
   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - 精选蛋糕、马卡龙、荷兰特色菜等.
 
-- 荷兰赞代克
-  - [Vegan bakery](https://www.veganbakery.nl/) - 荷兰纯素面包店，提供各种纯素蛋糕、松饼和其他美味佳肴.
-  
 - 美国俄勒冈州波特兰
   - [Shoofly bakery](https://www.shooflyveganbakery.com/) - 提供纯素食品.
+
+- 美国犹他州盐湖城
+    - [Yumz Vegan Bakery & Cafe](https://www.toasttab.com/yumz-llc-3490-s-state-st/v3/) - 墨西哥素食面包店，提供一流的食物选择.
+
+- 荷兰赞代克
+  - [Vegan bakery](https://www.veganbakery.nl/) - 荷兰纯素面包店，提供各种纯素蛋糕、松饼和其他美味佳肴.
+
 
 ## Restaurants
 
@@ -53,12 +60,15 @@
   - [Vegan Junk Food Bar](https://www.veganjunkfoodbar.com/) - 高品质汉堡、精美热狗、Bitterballen 等荷兰特色菜、鸡尾酒等.
   - [Yemayá's Vegan Corner](https://yemaya.estate/) - 由可持续的当地社区努力推动的超级美味食物.
 
+- 美国俄勒冈州阿什兰
+  - [NW Raw](https://nwraw.com/) - 果汁和小吃、素食冰淇淋.
+
 - 美国加利福尼亚州伯克利
   - [The Butcher's Son](https://www.thebutchersveganson.com/)  - 舒适的食物从您的盘子里溢出. 拿一个主菜，几个配菜和大量餐巾纸.
-  
+
 - 德国波恩
   - [Kaiserhüttn](https://kaiserhuettn.com/) - 像在奥地利一样吃.
-   
+
 - 荷兰埃因霍温
   - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - 镇上最舒适的起居室，提供可口的朴素菜肴和美酒.
   - [Bij Albrecht](https://www.bijalbrecht.nl/) - 使用时令农产品的素食和有机食品体验.
@@ -75,14 +85,14 @@
   - [Eat By Cloe](https://eatbychloe.com/) - 对于强制性的炸鱼和薯条，这个地方绝对值得一游.
 
 - 美国纽约
-  - [Berben & Wolff's](https://berbenandwolffs.com/)  - 轻松愉快的柜台式熟食店，氛围欢快，专营素食便餐和甜点. 位于纽约州奥尔巴尼和特洛伊的地点. 
-  
+  - [Berben & Wolff's](https://berbenandwolffs.com/)  - 轻松愉快的柜台式熟食店，氛围欢快，专营素食便餐和甜点. 位于纽约州奥尔巴尼和特洛伊的地点.
+
 - 美国奥克兰
   - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - 与您的普通素食餐厅大不相同，因为它需要亲自动手，从零开始制作食物，确保每次都是新鲜的、本地的、有机的和自制的产品.
-  
-- 美国俄勒冈州阿什兰
-  - [NW Raw](https://nwraw.com/) - 果汁和小吃、素食冰淇淋.
- 
+
+- 美国犹他州盐湖城
+  - [Mark of the Beastro](https://markofthebeastro.com/) - 优质的素食和餐饮.
+
 -荷兰乌得勒支
   - [Oproer](https://www.oproerbrouwerij.nl/) - 提供美味啤酒和素食街头美食的当地啤酒厂.
 
@@ -103,11 +113,11 @@
 - [Beyond Meat](https://www.beyondmeat.com/) - 非常有说服力的汉堡、香肠、肉丸等，全部以植物为原料.
 - [Dandies](https://dandies.com/) - 美味、柔软、融化的纯天然棉花糖，带有香草、南瓜或薄荷口味.
 - [Daiya](https://daiyafoods.com/) - 令人惊叹的芝士蛋糕、冷冻比萨饼、各种芝士产品和更多甜点.
-- [Eat Real](https://www.eatreal.co.uk/)  - 大量吃薯条、棍子和泡芙的零食； 提供酸奶油和细香葱、辣椒粉、辣椒奶酪、地中海等口味.
+- [Eat Real](https://www.eatreal.co.uk/) - Snacking galore with chips, sticks, and puffs; offering tastes like sour cream & chives, paprika, chilli cheese, mediterranean, and others.
 - [Happy Cashew](https://happy-cheeze.com/) - 奶油味、美味的腰果奶制品替代品，以及种类繁多的布里干酪等.
 - [Nurishh](https://nurishhplantbased.com/) - 精选不同口味的不同奶酪.
 - [Oatly](https://www.oatly.com/int/) - 来自瑞典的各种燕麦产品.
-- [Peas of Heaven](https://peasofheaven.com/) - 以豌豆为基础的各种美味产品，从鸡尾酒香肠、多味腊肠到切片.
+- [Peas of Heaven](https://peasofheaven.com/) - 范围广泛的以豌豆为基础的美味产品，从鸡尾酒香肠、多味腊肠到切片.
 - [Petit Veganne](https://petit-veganne.com/) - 令人惊叹的法国手工奶酪，柔软的奶油布里干酪，口味各异.
 - [Provamel](https://www.provamel.com/) - 美味的有机和生物植物酸奶、乳饮料和大豆甜点.
 - [Tofuture](https://www.tofuture.com/) - 很棒的豆腐压榨机，使用起来超级简单可靠，可以放在冰箱里.
