@@ -23,7 +23,7 @@
   - 支持 GM 3 和 GM 4 用户脚本.
 - [USI](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - 火狐
   - 支持一些 GM 3 用户脚本.
-- [Violentmonkey](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+- [Violentmonkey](https://violentmonkey.github.io/) - Chrome、Firefox、Maxthon、Opera
   - 支持 GM 3 和 GM 4 用户脚本.
 
 最流行的用户脚本管理器是 Greasemonkey、Tampermonkey 和 Violentmonkey.
@@ -40,7 +40,7 @@
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - 将纯文本 URL 转换为链接.
 * [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - 禁用链接拖动和选择文本.
 * [Show and reload broken images](https://greasyfork.org/scripts/790-show-and-reload-broken-images) - 显示并重新加载损坏的图像，即使它包含“alt”标签.
-* [Show Password onMouseOver](https://greasyfork.org/scripts/32-show-password-onmouseover) - 将鼠标悬停在密码字段上时显示密码.
+* [Show Password onMouseOver](https://greasyfork.org/scripts/32-show-password-onmouseover) - Show password when mouseover on password field.
 * [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener)  - 在缩短的 URL 旁边添加小按钮，用它们的真实位置替换缩短的 URL，反之亦然. 当您不想盲目单击链接时很有用.
 
 
@@ -58,6 +58,7 @@
 
 ### ChatGPT
 
+* [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) - 自动继续生成多个 ChatGPT 响应.
 * [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) - 自动发送后台请求以保持会话新鲜并防止 Cloudflare 检查 + 网络错误.
 * [ChatGPT Infinity](https://chatgptevo.com/infinity) - 从无所不知的 ChatGPT 生成无穷无尽的答案（任何语言！） 
 * [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) - 为 ChatGPT 添加宽屏 + 全窗口模式.

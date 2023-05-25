@@ -15,7 +15,7 @@
 ### API Management
  *API 管理解决方案提供了一种处理整个 API 生命周期的综合方法. 它们使开发人员能够创建、发布、保护和监控 API，确保系统之间高效可靠的通信. 这些工具具有身份验证、速率限制和分析等功能，可提供集中控制和增强的安全性，从而更轻松地跨不同平台和环境管理和扩展 API.*
 - [Akana API Management Platform](https://www.akana.com/products/api-platform) - 一个综合平台，可加速数字化转型，管理完整的 API 生命周期，并在跨多个云部署时确保合规性.
-- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 来自 Mulesoft 的单一统一平台，结合了 API 管理和集成功能，使您可以轻松设计、构建和管理 API.
+- [Anypoint Platform](https://www.mulesoft.com/platform/api/manager) - 来自 Mulesoft 的单一统一平台，结合了 API 管理和集成功能，让您可以轻松设计、构建和管理 API.
 - [Amazon API Management](https://aws.amazon.com/api-gateway/api-management/) - 一种安全且可扩展的 API 管理解决方案，使您能够以灵活高效的方式监控和管理 API.
 - [Amplify API Management Platform](https://www.axway.com/en/products/amplify-api-management-platform) - 来自 Axway 的 API 管理开放平台，提供全面的 API 管理能力，让您轻松构建、运行和管理 API.
 - [Apigee](https://cloud.google.com/apigee) - 来自 Google 的领先 API 管理解决方案，提供全面的 API 管理功能，可帮助您轻松创建、保护和扩展 API.
@@ -25,7 +25,7 @@
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - 一个完整、直观且可扩展的 API 平台，允许您跨云创建、公开、管理 API 并从中获利.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - 全面的服务连接平台，提供丰富的API管理能力，让您轻松管理API、微服务和服务网格.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - 来自 Broadcom 的持续 API 管理解决方案，提供全面的 API 管理功能并帮助您在 API 的整个生命周期内对其进行管理.
-- [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 一种云原生API管理解决方案，简化API的开发并使其更加灵活.
+- [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - 一个云原生的API管理方案，简化API的开发，让API更加灵活.
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - 全生命周期API管理平台，提供完善的API管理能力，帮助您对API进行全生命周期管理.
 - [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - 来自 TIBCO 的云原生 API 平台，使您能够在任何地方部署 API 并从任何地方管理它们.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - 强大的 API 管理解决方案，让您轻松连接、构建和控制 API.
@@ -66,7 +66,7 @@
 - [Apinto](https://github.com/eolinker/goku) - 基于 Golang 的微服务网关，提供动态路由、服务编排、多租户管理和 API 访问控制.
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - 一个 Kubernetes 原生 API 网关，通过其可定制的路由、身份验证和速率限制功能帮助大规模管理 API.
 - [Apache APISIX](https://github.com/apache/apisix) - 一个动态、实时和高性能的 API 网关，它利用 Apache 插件来增强功能.
-- [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
+- [Gloo Edge](https://www.solo.io/products/gloo-edge/) - 基于 Envoy 代理的 API 网关，为现代微服务架构提供高级流量管理、安全性和可观察性功能.
 - [Kong API Gateway](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 - [KrakenD API Gateway](https://github.com/devopsfaith/krakend-ce) - 超高性能 API 网关，利用中间件进行快速高效的 API 管理.
 - [Ocelot](https://github.com/ThreeMammals/Ocelot) - 一个 .NET API 网关，通过其直观的路由和中间件配置提供了一种简单而优雅的 API 管理方式.
@@ -126,10 +126,10 @@
 - [Appian BPM Suite](https://appian.com/platform/complete-automation/business-process-management-bpm.html) - 一个将低代码开发与流程管理相结合的平台，允许 IT 和公民开发人员构建以流程为中心和以案例为中心的应用程序.
 - [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - 一种用于协调业务流程、推动业务敏捷性和提高成本效率的工具.
 - [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - 用于开发和管理业务应用程序的综合业务流程管理平台.
-- [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - An integrated environment for developing, administering, and using business applications that are centered around business processes.
+- [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - 用于开发、管理和使用以业务流程为中心的业务应用程序的集成环境.
 - [Pega Platform](https://www.pega.com/products/platform) - 具有高级劳动力分析功能的业务流程管理和机器人流程自动化 (RPA) 平台.
 - [Red Hat Process Automation Manager](https://www.redhat.com/en/technologies/jboss-middleware/process-automation-manager) - 应用程序开发平台，使开发人员和业务专家能够创建可自动化业务运营的云原生应用程序.
-- [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - 业务流程管理产品和应用程序基础架构. 
+- [SAP Process Orchestration](https://www.sap.com/products/process-orchestration.html) - A business process management offering and application infrastructure. 
 - [TIBCO BPM Enterprise](https://www.tibco.com/products/business-process-management) - 业务流程管理平台，提供流程自动化、文档、人力资本管理、流程模式和预测性运营分析功能.
 
 <!--lint disable-->
@@ -291,18 +291,19 @@
 <!--lint enable-->
 ### Workflow engine
 *Software tools that enable the design, execution, and monitoring of complex workflows or business processes. Workflow engines provide a way to automate and streamline business processes, while orchestration engines help to manage the interactions between different systems or services.*
-- [Activiti](https://github.com/Activiti/Activiti) - 一个轻量级和以 Java 为中心的开源引擎，用于执行 BPMN（业务流程模型和表示法）工作流.
+- [Activiti](https://github.com/Activiti/Activiti) - 用于执行 BPMN（业务流程模型和表示法）工作流的轻量级和以 Java 为中心的开源引擎.
 - [Apache Airflow](https://github.com/apache/airflow) - 一个平台，允许您以编程方式创建、安排和监控工作流，从而更轻松地管理和自动化复杂的数据管道.
 - [Argo Workflows](https://github.com/argoproj/argo-workflows) - 一个开源的容器原生工作流引擎，旨在在 Kubernetes 上编排并行作业，从而更轻松地在云原生环境中管理和自动化复杂的工作流.
 - [Azkaban](https://github.com/azkaban/azkaban) - 一个分布式工作流管理器，帮助解决Hadoop作业依赖问题，使得在大规模数据处理环境中更容易调度和管理工作流.
-- [Bonita](https://github.com/bonitasoft/bonita-engine) - 带有设计器和可选开发环境的开源 BPMN 引擎，可以更轻松地构建和自动化复杂的业务流程.
+- [Bonita](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
 - [Cadence](https://github.com/uber/cadence) - 一个容错的、有状态的代码平台，可以更轻松地构建和管理复杂的、长时间运行的应用程序.
 - [Camunda](https://github.com/camunda/camunda-bpm-platform) - 一个开源工作流和决策自动化平台，可帮助您以灵活且可扩展的方式自动化业务流程和决策.
-- [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在在微服务架构中运行和管理工作流.
+- [Conductor](https://github.com/Netflix/conductor) - 基于云的编排引擎，旨在运行和管理微服务架构中的工作流.
 - [Elsa Core](https://github.com/elsa-workflows/elsa-core) - 一个库，可以在任何 .NET Core 应用程序中执行工作流，从而更容易在 .NET 环境中自动化业务流程.
 - [Flowable](https://github.com/flowable/flowable-engine) - 一组紧凑高效的开源业务流程引擎，可以更轻松地以可扩展且可靠的方式实现业务流程自动化.
 - [jBPM](https://github.com/kiegroup/jbpm) - 用于构建业务应用程序的工具包，可帮助您自动化业务流程和决策，从而更轻松地管理复杂的工作流程.
 - [StackStorm](https://github.com/StackStorm/st2) - 一个强大的自动化引擎，提供传感器、触发器、规则、工作流和操作，以帮助您自动化和编排复杂的工作流和应用程序.
+- [Temporal](https://github.com/temporalio/temporal) - 一个开源平台，使用工作流即代码方法使您的应用程序更加可靠和可扩展. 
 
 <!--lint disable-->
 <!--lint enable-->
@@ -341,7 +342,7 @@
 - [Message Expiration](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageExpiration.html) - 发件人如何指示消息何时应被视为过时且因此不应处理？
 - [Message Translator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageTranslator.html) - 使用不同数据格式的系统如何使用消息传递相互通信？  
 - [Message Broker](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBroker.html) - 如何将消息的目的地与发送者分离并保持对消息流的集中控制？
-- [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么是使独立的应用程序能够一起工作的体系结构，但以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序？  
+- [Message Bus](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html) - 什么架构可以让独立的应用程序协同工作，但又以解耦的方式使应用程序可以轻松添加或删除而不影响其他应用程序？  
 - [Message Channel](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageChannel.html) - 一个应用程序如何使用消息传递与另一个应用程序通信？
 - [Message Endpoint](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageEndpoint.html) - 应用程序如何连接到消息通道以发送和接收消息？
 - [Message Filter](https://www.enterpriseintegrationpatterns.com/patterns/messaging/Filter.html) - 组件如何避免接收无趣的消息？
@@ -585,7 +586,7 @@
 - [AsyncAPI](https://github.com/asyncapi/spec) - 开发事件驱动架构 (EDA) 的重要工具，使工程师能够构建更好的工具生态系统.
 - [GraphQL](https://github.com/graphql/graphql-spec) - 用于构建高效 API 的复杂查询语言和运行时，使工程师能够轻松地从现有系统检索数据.
 - [JSON:API](https://github.com/json-api/json-api) - 用于构建 API 的标准化规范，简化了资源、关系和元数据的表示，使软件工程师更容易创建高效的 API.
-- [OpenAPI (ex.Swagger)](https://github.com/OAI/OpenAPI-Specification) - 一种与语言无关的规范，用于创建 RESTful API，使人和机器都能理解服务的功能，而无需源代码或文档.
+- [OpenAPI (ex.Swagger)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
 - [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) - 一种 RESTful API 建模语言，允许软件工程师通过对资源、端点和交互进行建模来设计和创建高效的 API.
 - [WSDL](http://www.w3.org/TR/wsdl20) - 用于基于 SOAP 的服务的强大的基于 XML 的接口描述语言，使软件工程师能够描述 Web 服务的功能并自动创建客户端代码.
 
@@ -594,8 +595,8 @@
 ### Articles
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - 关于 REST API 安全性的最佳实践.
 - [建筑风格和
-the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding's dissertation defining REST.
-- [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - Discusses the constraints and flexibility that you have with nonpublic APIs, and lessons learned from doing large scale RESTful integration across multiple teams.
+基于网络的软件架构的设计](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Fielding 定义 REST 的论文.
+- [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) - 讨论非公共 API 的限制和灵活性，以及​​从跨多个团队进行大规模 RESTful 集成中吸取的经验教训.
 - [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) - 由 Martin Fowler 解释，最初由 Leonard Richardson 提出.
 - [Web API Design: Crafting interfaces that developers love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - 为开发人员创建一致、直观且用户友好的 Web API.
 
@@ -651,7 +652,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 <summary>Mulesoft</summary>
   
 - [MuleSoft Certified Developer - Level 1](https://training.mulesoft.com/certification/developer-mule4-level1) - 验证您使用 MuleSoft 设计、构建、测试和调试、部署和管理基本 API 和集成的知识和技能.
-- [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - 验证您在生产就绪的 Mule 应用程序上工作的能力，这些应用程序可以解决和平衡关键的非功能性需求，包括监控、性能、可维护性、可靠性和安全性.
+- [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - Validate your ability to work on production-ready Mule applications that address and balance critical non-functional requirements including monitoring, performance, maintainability, reliability, and security.
 - [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - 验证您将功能和非功能需求转化为集成接口和实现的知识和技能.
 - [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - Validate your knowledge and skills to direct the emergence of an effective application network out of individual integration solutions following API-led connectivity across an organization using Anypoint Platform.
 
@@ -780,7 +781,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Protocols
 - [AMQP 0-9-1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)  - 一种消息队列协议，支持在应用程序或系统之间交换消息.  AMQP 0-9-1 提供可靠性、安全性和灵活性来处理复杂的消息传递场景.
 - [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/os/amqp-core-overview-v1.0-os.html)  - 一种广泛接受的消息队列协议，可在系统之间提供可靠、可互操作且高效的消息传递.  AMQP 1.0 支持广泛的消息传递场景，非常适合复杂的企业级应用程序.
-- [CoAP](http://coap.technology/)  - 专为物联网 (IoT) 生态系统中的受限设备设计的专用应用程序协议.  CoAP 提供了一种轻量级、低开销的通信机制来支持资源受限的设备.
+- [CoAP](http://coap.technology/)  - 专门为物联网 (IoT) 生态系统中的受限设备设计的应用程序协议.  CoAP 提供了一种轻量级、低开销的通信机制来支持资源受限的设备.
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  - 一种广泛使用的协议，可促进 Web 服务器和客户端之间的通信.  HTTP 支持通过 Internet 传输数据，从而使 Web 应用程序可以无缝运行.
 - [JSON-RPC](https://www.jsonrpc.org/specification)  - 一种简单轻量级的远程过程调用协议，支持使用 JSON 数据在系统之间进行通信.  JSON-RPC 提供无状态通信，适用于资源受限的设备.
 - [MQTT](https://mqtt.org/mqtt-specification/)  - 一种轻量级高效的发布-订阅协议，支持设备间的消息传递.  MQTT 支持低开销通信，是物联网和移动应用程序的理想选择.

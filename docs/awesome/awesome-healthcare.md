@@ -33,7 +33,7 @@
 ### Specifications
   * [FHIR](https://www.hl7.org/fhir/) - 快速健康互操作性资源.
   * [OpenEHR](https://www.openehr.org) - 可以构建软件的开放规范.
-  * [Open mHealth](https://www.openmhealth.org) - 移动健康数据开放标准.
+  * [Open mHealth](https://www.openmhealth.org) - Open Standard For Mobile Health Data.
   * [SMART on FHIR](https://docs.smarthealthit.org/) - 基于开放标准的技术平台.
   * [StandardHealthRecord](http://standardhealthrecord.org/) - 开放健康记录格式规范，旨在比现有格式更精确.
   * [Continuity of Care Document](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - 护理文档规范的连续性（需要免费帐户）.
@@ -96,6 +96,7 @@
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - FHIR 标准的 .NET Core 实现.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - GoLang 中的通用 FHIR 服务器实现.
   * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) - HL7 FHIR 规范第 4 版的模块化 Java 实现.
+  * [Medblocks UI](https://github.com/medblocks/medblocks-ui) - 用于快速开发 openEHR 和 FHIR 系统的 Web 组件.
   * [Opal](https://opal.openhealthcare.org.uk/) - 构建临床应用程序的框架.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - 使为医学研究或其他研究项目创建应用程序变得容易的软件框架.
   * [Spark](https://github.com/FirelyTeam/spark) - Public domain FHIR server developed in C#.
@@ -106,7 +107,7 @@
   * [Android FHIR SDK](https://github.com/google/android-fhir) - Android FHIR SDK 
   * [Archie](https://github.com/openehr/archie) - 用 Ja​​va 编写的 OpenEHR 库.
   * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) - HL7 FHIR 规范的安全 REST 实现.
-  * [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+  * [Datamol](https://github.com/datamol-io/datamol)  - 分子操作变得简单. 在 RDKit 之上构建的轻型 Python 包装器.
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM 工具包.
   * [dicom](https://github.com/suyashkumar/dicom) - GoLang 中的高性能 DICOM 医学图像解析器.
   * [ehrapy](https://github.com/theislab/ehrapy/) - Python 中的电子健康记录分析.
@@ -164,12 +165,12 @@
 
 ### Bioinformatics
   * [ADAM](https://github.com/bigdatagenomics/adam) - 基因组学分析平台.
-  * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - 经过验证、可扩展、社区开发的变体调用、RNA-seq 和小 RNA 分析.
+  * [Bcbio](https://github.com/bcbio/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - 用于数据密集型生物医学研究的开放式网络平台.
   * [Wregex](https://ehubio.ehu.eus/wregex/) - 带有可选位置特异性评分矩阵的氨基酸基序搜索软件.
 
 ### Data
-  * [Atlas BI Library](https://github.com/atlas-bi/atlas-bi-library) 统一的报表库.
+  * [Atlas BI Library](https://github.com/atlas-bi/Library) 统一的报表库.
   * [Caisis](http://www.caisis.org/) - 带有患者数据管理系统的肿瘤学研究软件.
   * [Cedar](https://github.com/mitre/cedar) - 用于测试电子临床质量测量强度的开源工具.
   * [cTAKES](https://ctakes.apache.org/) - 用于从电子病历临床自由文本中提取信息的自然语言处理系统.
