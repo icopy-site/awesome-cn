@@ -133,7 +133,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [geoip2.cr](https://github.com/delef/geoip2.cr) - GeoIP2 阅读器
  * [HAR](https://github.com/NeuraLegion/har) - HAR（HTTP 存档）解析器
  * [INI](https://crystal-lang.org/api/INI.html) - INI 文件解析器 (Crystal stdlib)
- * [JSON](https://crystal-lang.org/api/JSON.html) - 解析和生成 JSON 文档（Crystal stdlib）
+ * [JSON](https://crystal-lang.org/api/JSON.html) - 解析和生成 JSON 文档 (Crystal stdlib)
  * [json-schema](https://github.com/spider-gazelle/json-schema) - 将 JSON 可序列化类转换为 [JSON Schema](https://json-schema.org/) 表示
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) - 轻松处理和改变 JSON 文档
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB 阅读器
@@ -169,7 +169,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
 * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` 用于 `pp` 风格调试的宏
 
 ## Dependency Injection
- * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - 健壮的依赖注入服务容器框架
+ * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) - Robust dependency injection service container framework
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - 轻量级 DI 容器
  * [HardWire](https://github.com/jerometwell/hardwire) - 编译时非侵入式依赖注入系统
  * [syringe](https://github.com/Bonemind/syringe) - 一个简单而基本的水晶依赖注入碎片
@@ -254,7 +254,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [celestine](https://github.com/celestinecr/celestine) - 使用 DSL 创建 SVG 图像
  * [ffmpeg](https://github.com/spider-gazelle/ffmpeg) - 与 StumpyPNG 一起使用以提取帧的 FFmpeg 绑定
  * [Pluto](https://github.com/phenopolis/pluto) - 一个快速方便的图像处理库
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - 读写PNG图像
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) - 查理编程语言
@@ -493,11 +493,10 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
 
 ## Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - 引导您的水晶之旅的免费书籍
- * [Crystal Mastery](https://crystalmastery.io/) - 学习 Crystal 的截屏视频
+ * [Crystal Shards for Ruby Gems](https://github.com/crystal-lang/crystal/wiki/Crystal-Shards-for-Ruby-Gems) - 红宝石及其水晶碎片等价物清单
  * [crystal-koans](https://github.com/ilmanzo/crystal-koans) - 通过编写单元测试来学习 Crystal
  * [crystal-lang.org](https://crystal-lang.org) - 官方语言网站
  * [devdocs.io](https://devdocs.io/crystal/) - 支持 Crystal 的 API 文档浏览器
- * [getgood.at](https://getgood.at/in-a-day/crystal) - 一天学会水晶
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - 开始您的水晶之旅的 PragProg 书
 
 ## Official Documentation Translations
@@ -519,7 +518,7 @@ Search [Crystal Shards](https://crystalshards.org) 或关注公告 [Crystal [ANN
  * [Invidious](https://github.com/iv-org/invidious) - Invidious 是 YouTube 的替代前端
  * [mpngin](https://github.com/thewalkingtoast/mpngin) - 具有简单统计信息的 URL 缩短器
  * [procodile](https://github.com/crystal-china/procodile_cr) - 从 Procfile（用于生产和/或开发环境）在 Mac 和 Linux 的后台（和前台）运行进程
- * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化程序
+ * [quicktype](https://quicktype.io/) - 从 JSON、JSON Schema、GraphQL 和 TypeScript 生成模型和序列化器
  * [shards.info](http://shards.info/)  - 列出 GitHub 上所有包含 Crystal 代码的存储库的 Web 服务. 来源可在 [GitHub](https://github.com/mamantoha/shards-info)
 
 ## Tools

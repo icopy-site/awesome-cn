@@ -317,7 +317,7 @@ AWS 回购协议：
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - 增强型 AWS 命令​​行界面.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - 轻松通过命令行访问 Amazon EC2、S3、SQS、ELB 和 SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - Go 中用于 EC2、IAM 和 S3 的强大 CLI.
-* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用于安全存储 AWS 凭证的工具，用 Go 编写.
+* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用 Go 编写的用于安全存储 AWS 凭证的工具.
 
 ### CloudFormation
 
@@ -414,7 +414,7 @@ AWS 回购协议：
 * [amazon-cognito-dotnet](https://github.com/aws/amazon-cognito-dotnet) - .NET 的同步 SDK.
 * [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) - 适用于 iOS 的同步 SDK.
 * [amazon-cognito-js :fire::fire:](https://github.com/aws/amazon-cognito-js) - 用于 JavaScript 的同步 SDK.
-* [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - 消费流示例.
+* [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - 消费流样本.
 * [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) - Node.js 的示例应用程序.
 
 社区回购：
@@ -472,7 +472,7 @@ AWS 回购协议：
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - 使用 Lambda 自动缩放 DynamoDB 配置的容量.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - 存储秘密，静态加密.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - 提供自动缩放.
-* [sensedeep/dynamodb-onetable :fire::fire:](https://github.com/sensedeep/dynamodb-onetable) - 使用 NodeJS 进行单表设计的 DynamoDB 库.
+* [sensedeep/dynamodb-onetable :fire::fire::fire:](https://github.com/sensedeep/dynamodb-onetable) - 使用 NodeJS 进行单表设计的 DynamoDB 库.
 
 ### Elastic Beanstalk
 
@@ -774,7 +774,7 @@ AWS 回购协议：
 
 * [aws-flow-ruby :fire:](https://github.com/aws/aws-flow-ruby) - 创建后台作业和多步骤工作流程.
 * [aws-flow-ruby-samples](https://github.com/awslabs/aws-flow-ruby-samples) - 适用于 Ruby 示例的 AWS Flow Framework.
-* [aws-flow-ruby-opsworks-helloworld](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - 你好世界样本.
+* [aws-flow-ruby-opsworks-helloworld](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - 你好世界示例.
 
 社区回购：
 
@@ -834,7 +834,7 @@ AWS 回购协议：
 
 AWS 回购协议：
 
-* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性扫描器.
+* [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 代理兼容性扫描仪.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - 用于匿名注册的令牌自动售货机.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - 用于身份注册的令牌自动售货机.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - TLS/SSL 协议的实现.
@@ -875,7 +875,7 @@ AWS 回购协议：
 * [reinvent2013-mobile-photo-share](https://github.com/awslabs/reinvent2013-mobile-photo-share) - 来自 re:Invent 2014 的移动照片共享应用程序.
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - 来自 re:Invent 2014 的可扩展站点管理示例.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - 来自 re:Invent 2015 的大规模指标分析.
-* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析示例.
+* [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - 来自 2015 re:Invent 2015 的安全分析样本.
 * [todo-sample-app](https://github.com/awslabs/todo-sample-app) - 来自 RailsConf 2014 的简单“Todo”应用程序.
 
 社区回购：
@@ -1077,7 +1077,7 @@ AWS 博客：
 
 社区博客：
 
-* [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels，AWS 首席技术官.
+* [All Things Distributed](http://www.allthingsdistributed.com/) - AWS 首席技术官 Werner Vogels.
 * [Things I Like...](http://jeff-barr.com/) - AWS 首席宣传官 Jeff Barr.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)

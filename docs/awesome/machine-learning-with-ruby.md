@@ -69,6 +69,8 @@ the word using the `#RubyML` hash tag!
 
 ### Frameworks
 
+- [LangChain.rb](https://github.com/andreibondarev/langchainrb) -
+  使用 Ruby 的 LangChain 构建 ML/AI 增压应用程序.
 - [weka](https://github.com/paulgoetze/weka-jruby) -
   Weka 的 JRuby 绑定，通过 Weka 实现的不同 ML 算法.
 - [ai4r](https://github.com/SergioFierens/ai4r) -
@@ -117,7 +119,7 @@ the word using the `#RubyML` hash tag!
   基于 JRuby 的前馈神经网络
   [brains](https://github.com/jedld/brains).
 - [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench/tree/master/lib/machine_learning_workbench/neural_network) -
-  框架包括前馈和循环神经网络的纯 Ruby 实现
+  框架包括前馈和递归神经网络的纯 Ruby 实现
    （完全连接）. 使用神经进化（自然进化策略算法）进行训练.
 - [rann](https://github.com/mikecmpbll/rann) -
   具有反向传播的灵活的 Ruby ANN 实现（通过时间，用于循环
@@ -275,7 +277,7 @@ the word using the `#RubyML` hash tag!
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
   -_深度学习：Ruby 开发人员简介_作者： [Geoffrey Litt](https://twitter.com/geoffreylitt)
     <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
-  - _我如何使纯 Ruby word2vec 程序快 3 倍以上_ by [Kei Sawada](https://twitter.com/remore)
+  -_我如何使纯 Ruby word2vec 程序快 3 倍以上_作者： [Kei Sawada](https://twitter.com/remore)
     <sup>[[slides](https://speakerdeck.com/remore/how-i-made-a-pure-ruby-word2vec-program-more-than-3x-faster)]</sup>
   - _Dōmo arigatō，Roboto 先生：使用 Ruby 进行机器学习_ 作者： [Eric Weinstein](https://twitter.com/ericqweinstein)
     <sup>[[slides](https://speakerdeck.com/ericqweinstein/domo-arigato-mr-roboto-machine-learning-with-ruby) |

@@ -51,7 +51,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   _[A First Course in Network Science](https://www.cambridge.org/us/academic/subjects/physics/statistical-physics/first-course-network-science)_, by Filippo Menczer, Santo Fortunato, and Clayton A. Davis - Tutorials, datasets and other resouces [on GitHub](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience) (2020).
 -   _[Encyclopedia of Social Networks](http://sk.sagepub.com/reference/socialnetworks)_, edited by George A. Barnett - Covers all sorts of network-related themes (many of them not formal) as well as social network analysis (2011).
 -   _[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, edited by Reda Alhajj and Jon Rokne (2014).
--   _[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)_, by Laurent Beauguitte, in French (2023).
+-   _[L'analyse de réseau en sciences sociales. Petit guide pratique](https://hal.science/hal-04052709)_, by Laurent Beauguitte, in French (2023). [Readable online](https://beauguitte.github.io/analyse-de-reseau-en-shs/).
 -   _[Network Science](http://networksciencebook.com)_, by Albert-László Barabási - Full book online (2016).
 -   _[Network Science](http://www.nap.edu/catalog/11516/network-science)_, by the U.S. National Research Council - Full book online (2005).
 -   _[Network Science: Theory and Practice](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118211014.html)_, by Ted G. Lewis (2011).
@@ -138,7 +138,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   _[Theories of Communication Networks](https://global.oup.com/academic/product/theories-of-communication-networks-9780195160376)_, by Peter Monge and Nosh Contractor (2003).
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
- - _[事物的联系. 网络和网络的文化历史 [事物的连通性. 网络和网络的文化历史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，塞巴斯蒂安·吉斯曼 (Sebastian Gießmann)，德语 (2014).
+ - _[事物的联系. 网络和网络的文化历史 [事物的连通性. 网络和网络的文化史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，塞巴斯蒂安·吉斯曼 (Sebastian Gießmann)，德语 (2014).
  - _[涵盖国家社会主义下的社交网络. 柏林受迫害犹太人援助网络的出现和工作方法[国家社会主义中的隐藏社会网络：柏林受迫害犹太人援助网络的起源和工作方法]](http://www.degruyter.com/view/product/432196 )_ ，作者 Marten Düring，德语（2015 年； [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
@@ -169,7 +169,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Graphs and Networks](https://sites.google.com/a/yale.edu/462-562-graphs-and-networks/), 作者：Dan Spielman（耶鲁大学，2013 年）.
 -   [Network Analysis and Modeling (Computer Science)](https://aaronclauset.github.io/courses/5352/), 作者 Aaron Clauset - 完整的演讲幻灯片和阅读材料（科罗拉多大学，2022 年）.
 -   [Networks, Complexity and Its Applications (Media Arts and Sciences)](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-961-networks-complexity-and-its-applications-spring-2011/), 作者 Cesar Hidalgo（麻省理工学院，2011 年）.
--   [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2), 大卫·伊斯利 (David Easley)、乔恩·克莱因伯格 (Jon Kleinberg) 和伊娃·塔多斯 (Eva Tardos)[presentation](https://www.cornell.edu/video/cornellx-networks-crowds-and-markets) ; 康奈尔大学通过 edX，2016 年）.
+-   [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2), 大卫·伊斯利、乔恩·克莱因伯格和伊娃·塔多斯 ([presentation](https://www.cornell.edu/video/cornellx-networks-crowds-and-markets) ; 康奈尔大学通过 edX，2016 年）.
 -   [Networks (Economics)](https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/)，作者：Mardavij Roozbehani 和 Evan Sadler（麻省理工学院，2018 年）.
     -   [Networks (Economics)](https://hdl.handle.net/1721.1/119628)，作者：Daron Acemoglu 和 Asu Ozdaglar（麻省理工学院，2009 年）.
 -   [Network Science (Computer Science)](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci/), Constantine Dovrolis - 主要是开放获取阅读材料（佐治亚理工学院，2015 年）.
@@ -199,7 +199,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - 除其他事项外，包括 DBpedia 和维基百科中的协作网络、GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
     <!-- -   [James H. Fowler’s Cosponsorship Network Data Page](http://jhfowler.ucsd.edu/cosponsorship.htm). -->
 -   [Linton Freeman’s Network Data](http://moreno.ss.uci.edu/data.html) - 超过 300 个各种类型的数据集，采用 UCINET 格式.
--   [Mangal](http://mangal.io/) - 分析、归档和共享生态网络数据的在线平台（[preprint](https://doi.org/10.1101/002634), [Python package](https://github.com/mangal-wg/pymangal), [R package](https://github.com/mangal-wg/rmangal)).
+-   [Mangal](http://mangal.io/) - 在线生态网络数据分析、存档和共享平台（[preprint](https://doi.org/10.1101/002634), [Python package](https://github.com/mangal-wg/pymangal), [R package](https://github.com/mangal-wg/rmangal)).
 -   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 -   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 -   [Network Repository](http://networkrepository.com/) - 包含数百个真实世界网络的完全可搜索的数据库.
@@ -418,9 +418,9 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
  &gt; 自愿选择的应用、认识论和方法论文章清单，其中许多已成为网络分析课程的经典读物. 适用于积极主动的社会科学学生，他们之前很少或没有接触过网络分析.
 
--   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm), Pascal Cristofoli, 法语 - 根据大规模在线数据回顾关系社会学和网络分析的现状 (_Réseaux_, 2008).
+-   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm), Pascal Cristofoli, 法文 - 根据大规模在线数据回顾关系社会学和网络分析的现状 (_Réseaux_, 2008).
 -   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/)，作者：Steven M. Goodreau、James A. Kitts 和 Martina Morris - 指数随机图建模的逻辑和应用的通俗易懂的介绍（_Demography_，2001 年）.
--   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf), by Peter S. Bearman, James Moody 和 Katherine Stovel - 应用于情感和性关系网络的拓扑网络分析的经典示例（_美国社会学杂志_，2004 年）.
+-   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)，作者：Peter S. Bearman、James Moody 和 Katherine Stovel - 应用于情感和性关系网络的拓扑网络分析的经典示例（_美国社会学杂志_，2004 年）.
 -   [Coauthorship and Citation Patterns in the _Physical Review_](https://doi.org/10.1103/PhysRevE.88.012814), Travis Martin _et al._ - 通过时间网络分析对科学出版生产力和协作的高度典型研究（[preprint](https://arxiv.org/abs/1304.0473) ;  _物理评论 E_，2013）.
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf)，作者 Jon Kleinberg - 在互联网和社交媒体的背景下讨论小世界效应和社会传染（ACM 的通讯，2008 年）.
 -   [Deux traditions d’analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm), 迈克尔·夏娃 ([English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS) ;  _网络_, 2002).
@@ -428,7 +428,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://doi.org/10.4000/communicationorganisation.4093)，作者：Alain Barrat，法语 - 复杂网络研究的通俗易懂的介绍（_Communication &amp; Organisation_，2013 年）.
 -   [Network Analysis, Culture, and the Problem of Agency](https://www.mustafaemirbayer.com/network-analysis-culture-and-the-pr), Mustafa Emirbayer 和 Jeff Goodwin (_American Journal of Sociology_, 1994), 和 [Manifesto for a Relational Sociology](https://www.mustafaemirbayer.com/copy-3-of-bourdieu), Mustafa Emirbayer (_American Journal of Sociology_, 1997) - 社会关系科学的社会学基础.
 -   [Network Theory, Plot Analysis](https://sydney.edu.au/intellectual-history/documents/moretti_network_theory_plot_analysis.pdf)，作者 Franco Moretti -（虚构的）网络分析在文学研究中的应用示例（_New Left Review_，2011 年）.
--   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](https://doi.org/10.1016/j.socnet.2010.03.006)，作者：Tore Opsahl、Filip Agneessens 和 John Skvoretz - 探索网络中心性和距离度量对（正）值图的泛化（_社交网络_，2010 年； [companion website](https://toreopsahl.com/tnet/)).
+-   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](https://doi.org/10.1016/j.socnet.2010.03.006)，作者：Tore Opsahl、Filip Agneessens 和 John Skvoretz - 探索将网络中心性和距离度量推广到（正）值图（_社交网络_，2010 年； [companion website](https://toreopsahl.com/tnet/)).
 -   [Scale-Free Networks](https://barabasi.com/f/124.pdf)，作者：Albert-László Barabási 和 Eric Bonabeau - “网络无处不在”论点的早期、易于理解的表述（_Scientific American_，2003 年）.
 -   [Social Networks and Causal Inference](http://link.springer.com/chapter/10.1007/978-94-007-6094-3_17)，由 Tyler J. VanderWeele 和 Weihua An - 回顾网络分析产生有意义的因果陈述的不同方式，以及网络分析这样做的固有局限性（_[Handbook of Causal Analysis for Social Research](http://link.springer.com/book/10.1007/978-94-007-6094-3)_, 2013).
 -   [The Performativity of Networks](https://kieranhealy.org/files/papers/performativity.pdf), by Kieran Healy - 网络分析与科学研究相结合：社交网络，如金融市场，高度受表演性影响，即现实可能被其理论探究改变的可能性（_欧洲社会学杂志_，2015）.
@@ -436,7 +436,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf), John F. Padgett 和 Christopher K. Ansell - 文艺复兴时期佛罗伦萨国家权力关系的经典分析（_美国社会学杂志_，1993）.
 -   [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf), by Mark Granovetter - 将网络分析应用于社会问题的经典示例：求职（_美国社会学杂志_，1973）.
 -   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) （_经济史杂志_，2005）和 [The Empirics of International Currencies: Network Externalities, History and Persistence](https://doi.org/10.1111/j.1468-0297.2009.02219.x) (_The Economic Journal_, 2009), both by Marc Flandreau 和 Clemens Jobst - 19 世纪后期外汇系统的网络分析 ([data](http://eh.net/database/international-currencies-1890-1910/)).
--   [Topics in Social Network Analysis and Network Science](https://arxiv.org/abs/1404.0067)，由 A. James O&#39;Malley 和 Jukka-Pekka Onnela 撰写 - 50 页的网络分析介绍，对它的各个方面都有恰到好处的详细信息（_卫生服务研究手册_，即将出版，2017 年）.
+-   [Topics in Social Network Analysis and Network Science](https://arxiv.org/abs/1404.0067)，由 A. James O&#39;Malley 和 Jukka-Pekka Onnela 撰写 - 50 页的网络分析介绍，并在其各个方面提供了恰到好处的详细信息（_卫生服务研究手册_，即将于 2017 年出版）.
 
 ## Software
 
@@ -749,7 +749,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 -   [DOT](http://www.graphviz.org/doc/info/lang.html) - Graphviz 软件使用的图形绘制语法.
 -   [GEXF](https://gephi.org/gexf/format/) - Gephi 软件使用的文件格式.
--   [GraphML](http://graphml.graphdrawing.org/) - 全面且易于使用的图形文件格式（[handbook chapter](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BrEiLe10.pdf)).
+-   [GraphML](http://graphml.graphdrawing.org/) - 全面且易于使用的图表文件格式（[handbook chapter](https://www.uni-konstanz.de/mmsp/pubsys/publishedFiles/BrEiLe10.pdf)).
 -   [JGraphT](https://jgrapht.org/) - 用于图形数据结构和算法的 Java 图形库（[example algorithms](https://github.com/agouge/Java-Network-Analyzer)).
 -   [JUNG - Java Universal Network/Graph Framework](https://jung.sourceforge.net/) - 表示网络对象的可扩展库.
 -   [PGF/TikZ](http://www.ctan.org/tex-archive/graphics/pgf/) - [Tandem](https://en.wikipedia.org/wiki/PGF/TikZ) 可用于在图形中绘制图形的矢量图形语言 [LaTeX](https://latex-project.org/) 排版环境.
@@ -889,7 +889,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
     -   [Taming Complexity](https://barabasi.com/f/182.pdf).
     -   [The Network Takeover](https://barabasi.com/f/362.pdf).
 -   [The Invasion of the Physicists](https://doi.org/10.1016/j.socnet.2004.06.002) - “网络_科学_”是如何出现的.
--   [Isolated Social Networkers](https://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 早于“网络科学”作为流行词出现的一系列博客文章，但涉及的问题与现在在该标题下讨论的问题相同.
+-   [Isolated Social Networkers](https://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 早于“网络科学”作为流行词出现的一系列博客文章，但涉及与现在在该标题下讨论的问题相同的问题.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - 2002-2003年出版的网络科学书籍回顾.
 -   [Predicting Highly Cited Papers](https://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
 -   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013](https://github.com/raffaelevacca/EUSN-co-citation-networks).

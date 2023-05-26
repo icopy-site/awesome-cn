@@ -127,7 +127,7 @@
 #### FTP
 
 * [micropython-ftplib](https://github.com/SpotlightKid/micropython-ftplib) - MicroPython 的 FTP 客户端库.
-* [FTP-Server-for-ESP8266-ESP32-and-PYBD](https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD) - MicroPython 平台上用于 ​​ESP8266/ESP32/Pyboard 的小型 FTP 服务器.
+* [FTP-Server-for-ESP8266-ESP32-and-PYBD](https://github.com/robert-hh/FTP-Server-for-ESP8266-ESP32-and-PYBD) - Small FTP server for ESP8266/ESP32/Pyboard on the MicroPython platform.
 * [MicroFTPServer](https://github.com/cpopp/MicroFTPServer) - 可以在带有 MicroPython 的 ESP8266 上运行的最小 FTP 服务器.
 * [micropython-uaioftp](https://github.com/cwyark/micropython-uaioftp) - 用于 MicroPython 的轻量级 FTP 库.
 
@@ -173,7 +173,7 @@
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) - 使用 MicroPython 的 ESP32 符合 LoRa 和 LoRaWAN.
 * [SX127x_driver_for_MicroPython_on_ESP8266](https://github.com/Wei1234c/SX127x_driver_for_MicroPython_on_ESP8266) - 用于 ESP8266/ESP32/Raspberry Pi 上的 (Micro)Python 的 SX127x（LoRa 收发器）驱动程序.
 * [LightLora_MicroPython](https://github.com/MZachmann/LightLora_MicroPython) - 用于 MicroPython 的轻量级中断驱动的 Semtech SX127x 库.
-* [u-lora](https://github.com/martynwheeler/u-lora) - Raspi-lora for MicroPython.
+* [u-lora](https://github.com/martynwheeler/u-lora) - 用于 MicroPython 的 Raspi-lora.
 * [sx127x_esp](https://github.com/azorg/sx127x_esp) - 将基于 LoRaTM sx127x 芯片的 Ra-01 模块连接到 MicroPython 下的 ESP8266/ESP32.
 * [nanoserver](https://github.com/gradoj/nanoserver) - MicroPython 嵌入式 LoRaWAN 服务器.
 * [micropySX126X](https://github.com/ehong-tl/micropySX126X) - 用于 MicroPython 和 CircuitPython 的 Semtech SX126X LoRa 驱动程序.
@@ -237,7 +237,7 @@
 * [micropython-radio](https://github.com/peterhinch/micropython-radio) - nRF24L01 2.4GHz 无线电模块的协议.
 * [micropython-rfsocket](https://github.com/wuub/micropython-rfsocket) - 流行的基于 433MHz 的 RFSockets 的 MicroPython 实现.
 * [Official nRF24L01](https://github.com/micropython/micropython-lib/tree/master/micropython/drivers/radio/nrf24l01) - nRF24L01 2.4GHz 无线电模块的官方驱动程序.
-* [micropython_remote](https://github.com/peterhinch/micropython_remote) - Capture and replay 433MHz remote control codes. Control remote switched power adaptors.
+* [micropython_remote](https://github.com/peterhinch/micropython_remote)  - 捕获和回放 433MHz 遥控代码. 控制远程开关电源适配器.
 * [micropython-ys-rf34t](https://github.com/mcauser/micropython-ys-rf34t) - 使用 YS-RF34T 433MHz ASK/OOK UART 收发器的 MicroPython 示例.
 * [FM_Talkie](https://github.com/Wei1234c/FM_Talkie) - 使用 RDA5820N 的 FM 对讲机.
 * [micropython-TEA5767](https://github.com/alankrantas/micropython-TEA5767) - 用于 TEA5767 FM 收音机模块的 MicroPython ESP8266/ESP32 驱动程序.
@@ -366,7 +366,7 @@
 
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) - 一个面向对象、基于组件的高级 GUI 库，具有 MicroPython 绑定.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) - 用于 Pyboard 和 LCD160CR 彩色显示器的基于简单触摸驱动事件的 GUI.
-* [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
+* [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) - 用于基于 RA8875 的显示器的 MicroPython 设备驱动程序和 nano-GUI.
 * [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  - 一个微型的仅显示 GUI，带有一组有限的 GUI 对象（小部件），用于显示器，其显示驱动程序是从 `framebuf` 类子类化的. 带有用于 TFT、电子纸和 OLED 显示器的驱动程序.
 * [micro-gui](https://github.com/peterhinch/micropython-micro-gui) - 源自 nano-gui 并支持相同的显示器和主机，这为用户提供
 通过按钮或导航操纵杆和可选的旋转编码器输入.
@@ -437,16 +437,16 @@
 * [max7219_8digit](https://github.com/pdwerryhouse/max7219_8digit) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
-* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动程序.
-* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动程序.
-* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动程序.
+* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动器.
+* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动器.
+* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动器.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 用于由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动程序.
 
 #### LEDs
 
 * [micropython-morsecode](https://github.com/mampersat/micropython-morsecode) - 闪烁带有摩尔斯编码信息的 LED.
-* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - SeeedStudio 的 Grove 可链接 RGB LED 中使用的 P9813 RGB LED 驱动器.
+* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - SeeedStudio 的 Grove 可链接 RGB LED 中使用的 P9813 RGB LED 驱动程序.
 * [micropython-ws2812-7seg](https://github.com/HubertD/micropython-ws2812-7seg) - 使用 WS2812 RGB LED 的 7 段显示器.
 * [micropython-ws2812](https://github.com/JanBednarik/micropython-ws2812) - WS2812 RGB LED 驱动程序.
 * [Official APA102](https://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) - ESP8266 APA102/DotStar RGB LED 驱动器.
@@ -473,10 +473,11 @@
 * [SH1106](https://github.com/robert-hh/SH1106) - SH1106 OLED 显示器的驱动程序.
 * [micropython-ssd1309](https://github.com/rdagger/micropython-ssd1309) - MicroPython SSD1309 单色 OLED 显示驱动程序.
 * [sh1107-micropython](https://github.com/nemart69/sh1107-micropython) - 用于基于 SH1107 的 OLED 显示器 (64x128) 的 MicroPython 驱动程序.
+* [SH1107](https://github.com/peter-l5/SH1107) - SH1107 OLED 显示器（128x128 和 128x64 像素）的驱动程序.
 
 #### Printer
 
-* [micropython-thermal-printer](https://github.com/ayoy/micropython-thermal-printer) - The MicroPython port of Python Thermal Printer by Adafruit.
+* [micropython-thermal-printer](https://github.com/ayoy/micropython-thermal-printer) - Adafruit 的 Python 热敏打印机的 MicroPython 端口.
 
 ### IO
 
@@ -561,12 +562,12 @@
 
 #### DC Motor
 
-* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动器.
+* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动程序.
 * [MicroPython-L298](https://gitlab.com/olivierlenoir/MicroPython-L298) - 使用 MicroPython 驱动 L298 双 H 桥.
 
 #### Servo
 
-* [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16 通道 12 位 PWM/伺服驱动器.
+* [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
 * [micropython-servo](https://github.com/redoxcode/micropython-servo) - 以整洁的方式使用直接 PWM 输出控制 RC 伺服系统的库.
 
 #### Stepper
@@ -604,7 +605,7 @@
 #### Barometer
 
 * [micropython-bme280](https://github.com/kevbu/micropython-bme280) - Driver for the Bosch BME280 temperature/pressure/humidity sensor.
-* [micropython-bmp180](https://github.com/micropython-IMU/micropython-bmp180) - 博世 BMP180 温度、压力和高度传感器的驱动程序.
+* [micropython-bmp180](https://github.com/micropython-IMU/micropython-bmp180) - Driver for Bosch BMP180 temperature, pressure and altitude sensor.
 * [mpy_bme280_esp8266](https://github.com/catdog2/mpy_bme280_esp8266) - 博世 BME280 温度/压力/湿度传感器.
 * [BME280](https://github.com/robert-hh/BME280) - BME280 传感器的 MicroPython 驱动程序，目标平台 Pycom 设备.
 * [micropython-bmp280](https://github.com/dafvid/micropython-bmp280) - BMP280 传感器模块.
@@ -687,6 +688,7 @@
 * [MQ135](https://github.com/rubfi/MQ135) - MQ135 气体传感器的驱动程序.
 * [CCS811](https://github.com/Notthemarsian/CCS811) - ESP8266 板上 CCS811 的基本 MicroPython 驱动程序.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - 用于 Sensirion SCD30 CO2 传感器模块的 MicroPython I2C 驱动程序.
+* [MicroPython_SCD4X](https://github.com/peter-l5/MicroPython_SCD4X) - 用于 Sensirion SCD40 和 SCD41 CO2 传感器的 MicroPython I2C 驱动程序.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - 用于 SGP40 VOC 传感器模块的 MicroPython I2C 驱动程序.
 * [MICS6814-Micropython-driver](https://gitlab.com/DanNduati/MICS6814-Micropython-driver) - 用于 Pimoroni MICS6814 分线板的 ESP32 MicroPython 驱动程序.
 
@@ -769,7 +771,7 @@
 * [micropython-tmp1075](https://github.com/mattytrentini/micropython-tmp1075) - TI TMP1075 温度传感器的驱动程序.
 * [micropython-sht11](https://github.com/2black0/micropython-sht11) - Sensirion SHT11 温度和湿度传感器的驱动程序.
 * [micropython-lm75a](https://github.com/mcauser/micropython-lm75a) - NXP LM75A 数字温度传感器的驱动程序.
-* [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
+* [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - BME680 传感器的 MicroPython 驱动程序.
 * [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266) - 这是一个 MicroPython 模块/类，用于测量来自 HTU21D 的数据.
 * [HTU21D](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - HTU21D温湿度传感器异步驱动.
 * [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) - 用于带有 MicroPython 的 ESP8266/ESP32 的 SHT3x (SHT30/31/35) 库.
@@ -937,7 +939,7 @@
 
 #### On Device
 
-* [upy-shell](https://github.com/dhylands/upy-shell) - 一个简单的基于命令行的 MicroPython shell.
+* [upy-shell](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
 * [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - 用 Python 编写的用于 Pyboard、WiPy、ESP8266、ESP32、PyCom 和 Adafruit 设备的小型板载编辑器.
 
 #### On Host
