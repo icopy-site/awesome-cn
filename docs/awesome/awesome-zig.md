@@ -11,13 +11,13 @@
 ## Algorithms and data structures
 * [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
-* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的数组.
+* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) - 适用于任何 C ABI 兼容目标的生产就绪布谷鸟过滤器.
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort 实施.
 * [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) - 容器库.
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - 稀疏集，同时支持 SOA 和 AOS 风格.
-* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
+* [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor 过滤器，用于检查一个键是否是一个集合的一部分.
 * [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - UTF-8 字符串数据结构.
 
 
@@ -220,7 +220,7 @@
 * [sreehax/zig-ini](https://github.com/sreehax/zig-ini) - .this 解析器.
 * [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .this 解析器.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - 一个正则表达式的实现.
-* [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - 港口 [ryu](https://github.com/ulfjack/ryu).
+* [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - Port of [ryu](https://github.com/ulfjack/ryu).
 * [Vexu/zuri](https://github.com/Vexu/zuri) - 你是一个解析器.
 * [vi/zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) 解析器.
 * [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) - 解析命令行参数.
@@ -234,6 +234,7 @@
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - 学习 Zig 的小项目和教程的集合.
 * [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Zig 学习资源.
+* [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - 通过修复微小的示例程序来学习 Zig.
 
 
 ## Other

@@ -32,11 +32,12 @@
 - [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) - 带有 TypeScript 和 SASS 的 PWA Starter (131kb)
 - [Electron TypeScript Preact Boilerplate](https://github.com/yoctopuce-examples/electron-typescript-preact-boilerplate) - 支持 TypeScript 和 Preact 的 Electron 启动项目，由 esbuild 提供支持.
 - [Preact Modern Startupper](https://github.com/kolodziejczakM/preact-modern-startupper) - 支持 TypeScript、Goober、Unistore 和 Plop 的 PWA 样板.
-- [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例的服务器端呈现.
+- [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用 Redux 示例的服务器端渲染.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA 专注于原始性能、服务器端渲染、预渲染、redux、express、rollup.
 - [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - 全功能 Preact Chrome 扩展入门套件.
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ 带有 Preact 的 WebExtension Vite 入门模板.
 - [Preact Neutralino TypeScript Starter](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - 用于使用 Preact 和 neutralino.js 构建轻量级桌面应用程序的入门项目.
+- [Simple Deno Starter](https://github.com/nesterow/minizavr) - 带有 Preact 和 Deno 的微型入门模板，用于构建单页应用程序.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - Preact 的 URL 路由器.
@@ -68,12 +69,12 @@
 - [Preact Codemod](https://github.com/vutran/preact-codemod) - 将您的 React 代码转换为 Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) - Preact 的文档主管.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - 委托 DOM 事件.
-- [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - 跳过组件的服务器端渲染.
+- [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - 跳过组件的服务器端呈现.
 - [Preact Head](https://github.com/matthewmueller/preact-head)  - 独立的，声明式的\<Head /\> 对于 Preact.
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) - 创建其嵌套属性更改映射到全局副作用的组件.
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - 预整合 [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) - 实时更新 Preact 的 leveldb 列表组件.
-- [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - 基于为 Preact 制作的 bootstrap 3 的国家/地区选择器.
+- [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
 - [Preact Fluid](https://github.com/ajainvivek/preact-fluid) - Preact 的最小 UI 工具包.
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Preact 的羽毛图标.
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - 在属性更改时添加 CSS3 动画.
@@ -87,6 +88,7 @@
 - [Pant](https://github.com/webyom/pant) - 基于 Preact 构建的移动 UI 组件 *([docs and demos](https://webyom.github.io/pant) )*. 从 awesome Vue 组件移植而来 [Vant](https://github.com/youzan/vant).
 - [Preact Transitioning](https://github.com/fakundo/preact-transitioning) - 公开 Preact 组件，以便轻松实现基本的 CSS 动画和过渡.
 - [Preact Nominal Allocator](https://github.com/TimDaub/preact-nominal-allocator) - 一个数字输入元素，也可以使用两个按钮 (-/+) 进行操作.
+- [Tailored Components](https://github.com/nesterow/tailored) - Preact 和 Deno 的无样式组件和挂钩.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - 基于 Redux 的轻量级状态容器，具有单个存储且没有缩减器.
@@ -120,7 +122,7 @@
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) - 用于将 Hacker News 构建为 PWA 的 Preact 演示.
 - [TodoMVC](https://github.com/developit/preact-todomvc)  - TodoMVC 在 Preact 中完成. 小于 6kb 并且速度很快.
-- [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
+- [Colors App](https://github.com/lukeed/colors-app)  - 用于从流行调色板复制值的 PWA. 支持 HEX、RGB 和 HSL 格式.
 - [Tracks](https://github.com/jordic/tracks_preact/)  - 用于跟踪一般事物的 PWA.  Gdrive 同步.
 - [Hueify](https://github.com/kvartborg/hueify) - 适用于飞利浦 Hue 灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) - 足球数据 mnmlist 方式.

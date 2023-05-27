@@ -15,6 +15,7 @@
   
   
   
+  - [AI in Planning Tools and Platforms](#ai-in-planning-tools-and-platforms) 
   
   
 - [Other Resources](#other-resources)   
@@ -73,22 +74,22 @@
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
 - [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
-- [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林业局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
+- [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
 ### Equity and Environmental Justice
 
-- [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社区的社会脆弱性水平确定在灾难发生之前、期间或之后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
+- [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)  - CDC 社会脆弱性指数 (CDC SVI) 使用 15 个美国人口普查变量来帮助地方官员根据社区的社会脆弱性程度确定在灾难发生之前、期间或之后可能需要支持的社区. 附加信息： [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results)  - EJSCREEN 使用地图和报告来呈现三种信息：环境指标、人口指标和 EJ 索引. 附加信息： [Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
 - [H+T Index](https://htaindex.cnt.org/)  - 住房和交通 (H+T®) 负担能力指数提供了一个全面的负担能力视图，包括社区级别的住房成本和交通成本. 由邻里技术中心提供.
 - [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - 位置负担能力指数 (LAI) 通过提供邻里级别的家庭住房和交通成本估算以及建筑环境和人口统计数据来缩小这一差距.  
 - [Opportunity Atlas](https://www.opportunityatlas.org/) - 这些 [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) 允许您按社区、大学、父母收入水平和种族背景分析社会流动性和从预期寿命到专利率的各种其他结果. 
-- [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 将经过地理校正的房主贷款公司 (HOLC) 地图叠加到美国现代底图上的交互式地图. 这些颜色编码的 HOLC 地图是被称为*红线*的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国本土 48 个州的主要大都市区 (1935-1940).
+- [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/)  - 将经过地理校正的房主贷款公司 (HOLC) 地图叠加到美国现代底图上的交互式地图. 这些颜色编码的 HOLC 地图是被称为 *redlining* 的房地产实践的物理体现. 附加信息：许可证：CC BY-NC-SA 4.0，地理覆盖范围：美国本土 48 个州的主要大都市区 (1935-1940).
 - [Justice40](https://screeningtool.geoplatform.gov/en/methodology)  - 该工具的目的是帮助联邦机构识别因污染而被边缘化、服务不足和负担过重的弱势社区. 跨八类标准在人口普查区级别组合多个数据源. 
 
 ### Health
 
-- [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
+- [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了健康如何受到我们生活、学习、工作和娱乐场所的影响.
 - [HealthData.gov](https://healthdata.gov/) - 本网站致力于让美国的高价值健康数据更容易被企业家、研究人员和政策制定者获取，以期为所有人带来更好的健康结果.  
 - [CDC Places](https://www.cdc.gov/places/index.html) - 与 CDC 合作，无论人口规模和城乡状况如何，地方卫生部门和辖区都可以更好地了解其所在地区与健康相关的结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 - [USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) - 2010 年至 2015 年美国大部分人口普查区的出生时预期寿命估计值，即一个人预期可活的平均年数.
@@ -247,7 +248,7 @@ Python 库和相关资源.
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
 - [Peartree](https://github.com/kuanb/peartree) - Peartree 帮助探索 GTFS 数据及其网络特征. 
-- [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
+- [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个用于构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息：许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据的地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -262,7 +263,7 @@ Python 库和相关资源.
 - [Geoplot](https://residentmario.github.io/geoplot/)  - Geoplot 是一个高级 Python 地理空间绘图库. 它是对 cartopy 和 matplotlib 的扩展，使制图变得容易：就像用于地理空间的 seaborn 一样.
 - [Gleam](https://github.com/dgrtwo/gleam) - 受 R-Shiny 启发的绘图库，用于创建交互式绘图. 
 - [Urbansprawl](https://github.com/lgervasoni/urbansprawl)  - urbansprawl 项目提供了一个开源框架，用于使用开放数据评估城市蔓延. 它使用 OpenStreetMap (OSM) 数据来计算其庞大的指数，分为可达性、土地利用组合和分散性.
-- [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial 使用 Numba 实现常用的栅格分析功能，并提供易于安装、易于扩展的栅格分析代码库.
+- [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial 使用 Numba 实现常用的栅格分析功能，并为栅格分析提供易于安装、易于扩展的代码库.
 - [Momepy](http://docs.momepy.org/en/stable/)  - Momepy 是一个用于城市形态定量分析的库 - 城市形态计量学. 它是 PySAL（Python 空间分析库）的一部分，构建在 GeoPandas、其他 PySAL 模块和 networkX 之上.
 - [rasterio](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - 地理信息系统使用 GeoTIFF 和其他格式来组织和存储网格栅格数据集，例如卫星图像和地形模型.
 
@@ -282,7 +283,7 @@ R 包及相关资源.
 - [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - 提供一种整洁的空间网络分析方法. 
 - [Stars](https://cran.r-project.org/web/packages/stars/index.html) - 在“R”中读取、操作、写入和绘制时空数组（栅格和矢量数据立方体）.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - 交通规划工具，重点是空间交通数据和非机动模式，包括 OD 数据处理和其他功能. 
-- [Tmap](https://cran.r-project.org/web/packages/tmap/)  - 专题地图是空间数据分布可视化的地理地图. 该软件包提供了一种灵活、基于图层且易于使用的方法来创建专题地图，例如等值线图和气泡图.
+- [Tmap](https://cran.r-project.org/web/packages/tmap/)  - 专题地图是其中可视化空间数据分布的地理地图. 该软件包提供了一种灵活、基于图层且易于使用的方法来创建专题地图，例如等值线图和气泡图.
 - [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - 一种访问和操作 GTFS 数据的简洁方法，包括公交路线、时间表和站点.
 - [tidycensus](https://walker-data.com/tidycensus/) - 一种从美国人口普查局 API 访问数据以进行操作或空间分析的简洁方法.
 
@@ -312,16 +313,22 @@ R 包及相关资源.
 面向规划人员和对建筑环境感兴趣的人员的软件和平台. 
 
 ---
+### AI in Planning Tools and Platforms
+使用模型的软件、工具和平台从对城市规划应用具有特定效用的数据中得出推论. 美国规划协会的技术部编写了一份 [open letter](https://apa-technology-division.github.io/2023-ai-ethics-letter) 确定以道德方式使用这些工具的需求. 
+
+- [ChatGPT](https://chat.openai.com/)  - ChatGPT 是一种高级语言模型，旨在生成类似人类的文本响应并参与会话交互. 附加信息： [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
+- [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - 一个博客，对大学研究人员和当地政策专家编制的现有人工智能资源进行分类.
+
 ### Environmental and Climate Planning Tools and Platforms
 旨在帮助环境规划或气候适应和缓解规划的软件、工具和平台. 
 
-- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 恢复力和适应性气候制图 (CMRA) 整合了来自整个联邦政府的信息，以帮助人们考虑当地对气候相关危害的暴露程度. 在社区组织或公共机构工作的人可以使用该站点来帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
+- [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool)  - 恢复力和适应性气候测绘 (CMRA) 整合了来自整个联邦政府的信息，以帮助人们考虑当地对气候相关危害的暴露程度. 在社区组织或公共机构工作的人可以使用该网站帮助他们制定公平的气候恢复计划，以保护人员、财产和基础设施. 附加信息： [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 - [iTree](https://www.itreetools.org/)  - 量化世界各地树木的效益和价值. 基于同行评审的美国农业部林务局研究.
 - [HAZUS](https://www.fema.gov/flood-maps/products-tools/hazus)  - FEMA 的 Hazus 计划提供标准化工具和数据，用于估计地震、洪水、海啸和飓风的风险.  Hazus 计划的风险评估资源和工具始终免费提供且开发透明. 
 - [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - 这个用户友好的工具是由 Azavea 与 ICLEI USA 合作开发的，其主要目的是在几乎没有或没有专门资源来规划气候变化影响的中小型社区中促进以数据为依据的适应规划过程.
 - [City Energy Analyst](https://cityenergyanalyst.com/) - 一系列 [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) 用于分析和优化城市能源系统的工具. 
 - [EPA WARM Model](https://www.epa.gov/warm) - EPA 创建了废物减少模型 (WARM)，以提供对潜在温室气体 (GHG) 减排、节能和几种不同废物管理实践的经济影响的高级估计. 
-- [ENCORE](https://encore.naturalcapital.finance/en) - United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
+- [ENCORE](https://encore.naturalcapital.finance/en) - 联合国赞助的资源旨在探索对我们世界自然资本储备的依赖和影响.
 
 ### Geospatial Data and Visualization
 用于地理空间可视化的软件、工具和平台. 
@@ -348,6 +355,12 @@ R 包及相关资源.
 - [Unity](https://unity.com/) - 一个强大且流行的跨平台游戏引擎，用于创建 2D 和 3D 交互式体验和游戏.
 - [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.   
 
+### Planning Management and Administrative Tools and Platforms
+旨在帮助规划管理和管理的软件、工具和平台. 这包括用于许可、开发审查、数字计划开发和其他规划管理任务的软件. 
+- [Encode Plus](https://www.encodeplus.com/) - 帮助使规划和分区条例现代化并简化县或市法规和章程管理的软件.
+- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的用于许可和办公室流程的数字政府解决方案（提供商在技术上是公共机构）.
+- [Digiplan](https://digeplan.com/) - 为完全集成的电子计划审查和接收流程提供软件.
+- [OpenGov](https://opengov.com/products/citizen-services/) - 云解决方案，通过用户友好的工作流程为每项许可、执照和检查提供支持. 
 
 ### Public Engagement Tools and Platforms
 旨在帮助公众参与和外展活动的软件、工具和平台. 
@@ -375,7 +388,7 @@ R 包及相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精选的城市、环境和经济数据，并为他们提供分析能力，以更快、更好和更低的成本规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划人员和建模人员设计，可使用 [UrbanSim](https://github.com/UDST/urbansim) 告知区域交通计划. 
 
@@ -387,15 +400,8 @@ R 包及相关资源.
 - [Space Syntax](https://www.spacesyntax.net/software/) - 空间和网络分析软件可供专业从业者和学术研究人员用于商业和非商业用途. 
 - [ITHIM](https://www.mrc-epid.cam.ac.uk/research/research-areas/public-health-modelling/ithim)  - 综合交通和健康影响模型 (ITHIM) 是指一系列相关模型和工具，用于对城市和国家层面的交通情景和政策的健康影响进行综合评估. 这个页面指向不同的文献，R代码，和 [US specific resources](https://skylab.cdph.ca.gov/HealthyMobilityOptionTool-ITHIM/).
 
-### Planning Management and Administrative Tools and Platforms
-旨在帮助规划管理和管理的软件、工具和平台. 这包括用于许可、开发审查、数字计划开发和其他规划管理任务的软件. 
-- [Encode Plus](https://www.encodeplus.com/) - 帮助使规划和分区条例现代化并简化县或市法规和章程管理的软件.
-- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的用于许可和办公室流程的数字政府解决方案（供应商在技术上是一个公共机构）.
-- [Digiplan](https://digeplan.com/) - 为完全集成的电子计划审查和接收流程提供软件.
-- [OpenGov](https://opengov.com/products/citizen-services/) - 云解决方案，通过用户友好的工作流程为每项许可、执照和检查提供支持. 
-
 ## Educational and Informational Resources
-Collections of planning related literature, information aggregators, or similar resources.
+规划相关文献、信息聚合器或类似资源的集合.
 
 ---
 
@@ -428,7 +434,7 @@ Collections of planning related literature, information aggregators, or similar 
 ### Podcasts
 涉及建筑环境或社区的播客. 
 - [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways 播客是一个关于交通和城市设计的每周播客.
-- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
+- [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
 - [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在经济上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
 - [The Urban Planner's Podcast](https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446) - 此播客面向城市规划人员、城市规划学生和对城市规划主题感兴趣的人.
@@ -456,11 +462,10 @@ Collections of planning related literature, information aggregators, or similar 
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - Harvard Dataverse 是研究数据的存储库. 它包含跨越科学的各种数据集，其中许多具有公共领域的奉献精神. 
-- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包.
+- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究新的机动性、自动驾驶汽车、电子商务和其他创新将对城市和社区产生的潜在影响，并对与之相关的各种资源和工具进行分类.
 - [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并以如何理解其应用的分类为特色. 
 - [Digital.Gov](https://digital.gov/) - 关于在政府中建立更好的数字服务的指导和资源.
-- [AI Tools & Applications](https://favird.com/l/ai-tools-and-applications) - 用户 onebird 在 Favird 上的 AI 工具和应用程序的完整列表. 
 
 ---
 
@@ -477,6 +482,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGp_XC5V-uIzafsVBhR4xKX9YhgNOz22w84Sg0
 与其他类似 [resources aggregators](https://github.com/NABSA/micromobility-tools-and-resources/blob/master/README.md) ，此存储库已发布到 CC 1.0. 我们不需要引用，但为了产生更多的贡献和对该资源的理解，我们非常感谢共享此存储库或在适当的地方引用它. 
 
 
-If you do cite this repository you can as: 
+如果你确实引用了这个存储库，你可以： 
 
 城市和区域规划资源.  (2020) APA 技术部. 摘自：来自 https://github.com/APA-Technology-Division
