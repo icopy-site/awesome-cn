@@ -7,7 +7,7 @@
 
 * 访问 [our website](https://30secondsofcode.org) 查看我们的片段集合.
  * 搜索适合您需要的片段. 您可以按名称、标签、语言或使用片段描述进行搜索. 只需开始输入一个术语，看看会出现什么.
-* 浏览全部 [snippets](https://30secondsofcode.org/snippes/p/1) 或个人 [snippet collections](https://30secondsofcode.org/collections/p/1) 对于每个主题.
+* 浏览全部 [snippets](https://30secondsofcode.org/snippets/p/1) 或个人 [snippet collections](https://30secondsofcode.org/collections/p/1) 对于每个主题.
 * 单击每个代码片段卡可查看整个代码片段，包括代码、解释和示例.
 * 您可以使用右上角的复制按钮复制任何片段卡上的代码块.
  * 如果您喜欢这个项目，请给它一个星标. 这对维护它的人来说意义重大.

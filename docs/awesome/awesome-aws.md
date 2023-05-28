@@ -742,7 +742,7 @@ AWS 回购协议：
 * [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - 烧瓶扩展.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - 咕噜插件.
 * [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) - S3 的现代 Web 客户端.
-* [minio/mc :fire::fire::fire::fire:](https://github.com/minio/mc) - 用于文件系统和云存储的 Minio 客户端.
+* [minio/mc :fire::fire::fire::fire::fire:](https://github.com/minio/mc) - 用于文件系统和云存储的 Minio 客户端.
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - 与 S3 兼容的对象存储服务器.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - 通过 Python 并行上传/下载到 S3.
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - 用于各种云存储提供商的 Rsync，例如 S3.

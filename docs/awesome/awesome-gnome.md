@@ -91,7 +91,7 @@
 
 - [Lutris](https://github.com/lutris/lutris) - 开源游戏平台.
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - 游戏启动器和 libretro 的仿真前端.
-- [Cartridges](https://github.com/kra-mo/cartridges) - 带有 Steam、Lutris、Heroic、Bottles 和 itch 库导入的游戏启动器.
+- [Cartridges](https://github.com/kra-mo/cartridges)  - 带有 Steam、Lutris、Heroic、Bottles 和 itch 库导入的游戏启动器.  ![GNOME 圈子][GNOME 圈子]
 
 ### System and Customization
 
@@ -145,6 +145,7 @@
 - [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/)  - 在不使用随机网站的情况下转换文本.  ![GNOME 圈子][GNOME 圈子]
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - 配置应用程序或整个系统.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - 用于浏览和搜索 API 文档的开发人员工具.
+- [Escambo](https://github.com/CleoMenezesJr/escambo) - 基于 HTTP 的 API 测试应用程序.
 
 #### Design Tooling
 
