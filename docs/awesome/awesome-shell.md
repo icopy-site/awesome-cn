@@ -36,8 +36,8 @@
 * [oksh](https://github.com/ibara/oksh) - 便携式 OpenBSD ksh
 * [osh](https://www.oilshell.org) - Bash 兼容，与新的/现代的 Unix shell 语言称为 Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - 公共域 Korn shell
-* [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) 跨平台任务自动化和配置管理框架，由命令行 shell 和脚本语言组成
-* [shell++](https://github.com/alexst07/shell-plus-plus) - 友好和现代的功能和面向对象的 shell 脚本语言
+* [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language
+* [shell++](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
 * [shenv](https://github.com/shenv/shenv) - 简单的shell版本管理
 * [tcsh](https://www.tcsh.org/) - 具有文件名补全和命令行编辑功能的 C shell
 * [xonsh](https://xon.sh) - Python-ish，BASHwards-looking shell 语言和命令提示符
@@ -49,7 +49,7 @@
 *搜索、书签、多路复用和其他工具，让您的终端体验更加高效.*
 
 * [AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile)  - 以递归方式快速创建文件和目录. 受 Vim 插件的启发.
-* [ag](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
+* [ag](https://github.com/ggreer/the_silver_searcher) - 通过目录层次结构进行超快速字符串搜索
 * [aliases](https://github.com/sebglazebrook/aliases) - bash 的上下文、动态、有组织的别名
 * [arttime](https://github.com/reportaman/arttime) - 文字艺术之美与时钟、计时器、番茄钟++时间管理器的功能相得益彰
 * [autoenv](https://github.com/inishchith/autoenv) - 基于目录的环境
@@ -59,10 +59,11 @@
 * [boilr](https://github.com/tmrts/boilr) - 一个极快的 CLI 工具，用于从样板模板创建项目.
 * [boom](https://github.com/holman/boom) - 在命令行中存储链接和片段
 * [borg](https://github.com/ok-borg/borg) - 基于终端的 bash 命令搜索引擎
+* [broot](https://github.com/Canop/broot) - 更好的目录导航方式
 * [browsh](https://github.com/browsh-org/browsh) - 现代的基于文本的浏览器
 * [Buku](https://github.com/jarun/Buku) - 强大的命令行书签管理器
 * [byobu](https://www.byobu.org) - 基于文本的窗口管理器和终端多路复用器
-* [cod](https://github.com/dim-an/cod) — shell 的完成守护进程，它会在您调用“--help”命令时进行学习
+* [cod](https://github.com/dim-an/cod) — 一个 shell 的完成守护进程，它会在您调用 `--help` 命令时进行学习
 * [CloudClip](https://github.com/skywind3000/CloudClip) - 您自己的云端剪贴板，在不同系统之间复制和粘贴带有要点的文本
 * [ddgr](https://github.com/jarun/ddgr) - 来自终端的 DuckDuckGo
 * [desk](https://github.com/jamesob/desk) - 外壳的轻量级工作区管理器
@@ -71,7 +72,7 @@
 * [eureka](https://github.com/simeg/eureka/) - :bulb: CLI 工具，无需离开终端即可输入和存储您的想法
 * [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对文件和目录的快速访问
 * [fd](https://github.com/sharkdp/fd) - 一个简单、快速和用户友好的替代选择.
-* [foxy](https://github.com/s-p-k/foxy) - Firefox 和冲浪浏览器的纯文本书签.
+* [foxy](https://github.com/s-p-k/foxy) - 用于 Firefox 和冲浪浏览器的纯文本书签.
 * [fselect](https://github.com/jhspetersson/fselect) - 使用类似 SQL 的查询查找文件.
 * [funky](https://github.com/bbugyi200/funky) - 扩展 shell 函数的功能，使它们更加强大和灵活.
 * [fz](https://github.com/changyuheng/fz) - z 的无缝模糊选项卡完成
@@ -101,7 +102,7 @@
 * [parallel](https://www.gnu.org/software/parallel/) - 从标准输入并行构建和执行 shell 命令行
 * [pass](https://www.passwordstore.org/) - 使用 GPG 加密和可选的 git 集成从命令行管理密码.
 * [pathpicker](https://github.com/facebook/PathPicker)  - 接受 grep、搜索、git 等输入； 允许从输入结果中选择文件，然后您可以打开这些文件或将其作为参数提供给命令.
-* [pdd](https://github.com/jarun/pdd) - 带定时器的微型日期、时差计算器
+* [pdd](https://github.com/jarun/pdd) - 带有计时器的微型日期、时差计算器
 * [percol](https://github.com/mooz/percol) - 为 UNIX shell 的传统管道概念添加交互式过滤的风格
 * [q](https://github.com/cal2195/q) - 类似 Vim 的 Bash 和 Zsh Shell 宏寄存器
 * [qfc](https://github.com/pindexis/qfc) - Bash 和 Zsh 的文件完成小部件
@@ -123,6 +124,7 @@
 * [surfraw](https://gitlab.com/surfraw/Surfraw) - 浏览特定站点并在没有浏览器的情况下从您的终端搜索网络.
 * [task-manager](https://github.com/lingtalfi/task-manager) - 只需两三个击键即可执行所有脚本.
 * [td-cli](https://github.com/darrikonn/td-cli) - 一个待办事项命令行管理器，用于跨多个项目组织和管理您的待办事项.
+* [tere](https://github.com/mgunyho/tere) - 比 cd + ls 更快的替代方法
 * [thefuck](https://github.com/nvbn/thefuck) - 使用易于记忆的命令修复常见的 shell 错误
 * [tldr](https://github.com/raylee/tldr-sh-client) - 用于 tldr、简化和社区驱动的手册页的全功能 bash 客户端
 * [tmux](https://tmux.github.io/) - 惊人的终端多路复用器
@@ -158,7 +160,7 @@
 
 * [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — 简约的 Aphrodite 主题（提示），适用于 bash、fish 和 zsh 的性感终端
 * [base16-builder](https://github.com/base16-builder/base16-builder) - Base16-Builder
-* [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
+* [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - 带有屏幕、tmux、git 支持等的强大提示
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - 为 Git 用户提供信息丰富且精美的 Bash 提示
 * [bash-powerline](https://github.com/riobard/bash-powerline) - 纯 Bash 脚本中的电力线式 Bash 提示符
 * [bashstrap](https://github.com/barryclark/bashstrap) - 美化 OSX 终端的快速方法
@@ -170,10 +172,10 @@
 * [gittify](https://github.com/momeni/gittify) - 丰富多彩的 Bash 提示符 + 定制的 Git 别名
 * [Gogh - Color Scheme](https://github.com/Mayccoll/Gogh) - Gnome 终端的配色方案
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - 为 Bash &amp; Zsh 精心设计的全功能自适应提示
-* [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) - mysql命令行客户端的着色
+* [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) - mysql 命令行客户端的着色
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - bash 和 zsh 的自以为是的 git 提示符
 * [oh-my-posh](https://ohmyposh.dev) - 为任何用 go 编写的 shell 和平台提示主题引擎.
-* [polyglot](https://github.com/agkozak/polyglot) - 一个信息丰富的 Git 提示符，适用于 bash、zsh、ksh、mksh、pdksh、dash、yash 和 busybox sh
+* [polyglot](https://github.com/agkozak/polyglot) - 信息丰富的 Git 提示符，适用于 bash、zsh、ksh、mksh、pdksh、oksh、dash、yash、busybox sh 和 osh
 * [powerlevel10k](https://github.com/romkatv/powerlevel10k) - 超级灵活的电力线 ZSH 主题
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 带有颜色、Git 状态和 Git 分支的 Bash 提示符
 * [starship](https://starship.rs/) - 用 rust 编写的快速、可定制、跨 shell 提示
@@ -228,10 +230,10 @@
 * [btop](https://github.com/aristocratos/btop) - Linux/OSX/FreeBSD 资源监视器
 * [catcli](https://github.com/deadc0de6/catcli) - 离线数据的命令行目录工具
 * [exa](https://github.com/ogham/exa) - `ls` 的现代版本.
-* [progress](https://github.com/Xfennec/progress) - 用于显示 `cp`、`rm`、`dd` 等进度的 Linux 工具...
+* [progress](https://github.com/Xfennec/progress) - 显示 `cp`、`rm`、`dd` 等进度的 Linux 工具...
 * [stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置 MacOS 安全设置.
 * [glances](https://github.com/nicolargo/glances) - 看一眼你的系统
-* [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
+* [goaccess](https://github.com/allinurl/goaccess) - GoAccess 是一个实时网络日志分析器和交互式查看器，在 \*nix 系统的终端中运行.
 * [hblock](https://github.com/hectorm/hblock) - 基于主机文件的广告拦截器
 * [histstat](https://github.com/vesche/histstat) - netstat 的历史记录
 * [htop](https://github.com/hishamhm/htop) - 基于 ncurses 的交互式流程查看器，旨在成为更好的“顶级”
@@ -278,7 +280,7 @@
 
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen)  - 用于 Android ROM 定制的基于文本的厨房. 使用 shell 脚本并与 Cygwin/OS X/Linux 一起工作
 * [Beets](https://github.com/beetbox/beets) - 音乐库管理器和 MusicBrainz 标注器
-* [cmus](https://github.com/cmus/cmus) - Cross-platform cli audio player.
+* [cmus](https://github.com/cmus/cmus) - 跨平台 cli 音频播放器.
 * [dasel](https://github.com/tomwright/dasel)  - 使用命令行中的选择器查询和更新数据结构. 相当于 [jq](https://github.com/stedolan/jq) / [yq](https://github.com/kislyuk/yq) 但支持具有零运行时依赖性的 JSON、YAML、TOML 和 XML.
 * [dzr](https://github.com/yne/dzr) - 跨平台 Deezer.com 音频播放器.
 * [fx](https://github.com/antonmedv/fx) - 匿名 JavaScript 函数的命令行 JSON 处理工具
@@ -311,7 +313,7 @@
 * [editly](https://github.com/mifi/editly) - 命令行视频编辑器
 * [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行工具
 * [fanyi](https://github.com/afc163/fanyi) - 在终端中将英文翻译成中文
-* [gcalcli](https://github.com/insanum/gcalcli) - 谷歌日历命令行界面
+* [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar command line interface
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) - 命令行印象笔记客户端
 * [haxor-news](https://github.com/donnemartin/haxor-news) - 像 haxor 一样浏览 Hacker News
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) - 从您的终端舒适地浏览黑客新闻
@@ -335,7 +337,6 @@
 * [taskwarrior](https://taskwarrior.org/) - 命令行 TODO 列表管理器
 * [terjira](https://github.com/keepcosmos/terjira) - Jira 的命令行强大工具
 * [ticker](https://github.com/achannarasappa/ticker) — 具有实时更新和头寸跟踪功能的终端股票报价机
-* [transfer.sh](https://transfer.sh/) — 从您的 shell 快速上传和共享文件
 * [vl](https://github.com/ellisonleao/vl) - 文本文档的 URL 链接检查器
 * [wego](https://github.com/schachmat/wego) - 终端的天气应用程序
 * [whales](https://github.com/Gueils/whales) - 自动对接应用程序的工具
@@ -384,7 +385,7 @@
 * [bashly](https://bashly.dannyb.co/) - Bash 命令行框架和 CLI 生成器
 * [bashmanager](https://github.com/lingtalfi/bashmanager) - 用于创建命令行工具的迷你 bash 框架
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) - 一个为测试、依赖管理和打包而编写的 Bash 框架
-* [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)基于 Bash 语言的服务器
+* [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)-based Bash language server
 * [bash-modules](https://github.com/vlisivka/bash-modules) - 开发功能 [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/) 启用.
 * [bats](https://github.com/bats-core/bats-core) - Bash自动化测试系统
 * [composure](https://github.com/erichs/composure) - 编写、记录、版本化和组织您的 shell 函数
@@ -396,7 +397,7 @@
 * [getoptions](https://github.com/ko1nksm/getoptions) - 用于 shell 脚本（sh、bash 和所有 POSIX shell）的优雅选项解析器
 * [getopts.fish](https://github.com/jorgebucaran/getopts.fish) - 鱼的 CLI 解析器
 * [is.sh](https://github.com/qzb/is.sh) - 内置测试命令的替代方法，它会让你的“if”语句更漂亮
-* [lumberjack](https://github.com/molovo/lumberjack) - 用于 shell 脚本的日志记录界面
+* [lumberjack](https://github.com/molovo/lumberjack) - 用于 shell 脚本的日志记录接口
 * [mo](https://github.com/tests-always-included/mo) - 纯 bash 中的小胡子模板
 * [optparse](https://github.com/nk412/optparse) - 用于 getopts 的 BASH 包装器，用于简单的命令行参数.
 * [rerun](https://github.com/rerun/rerun) - 一个模块化的 shell 自动化框架来组织你的 keeper 脚本

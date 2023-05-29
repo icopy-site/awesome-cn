@@ -146,7 +146,7 @@
 ### Node.js
 
 * [Napalm](https://github.com/nix-community/napalm) - 支持使用轻量级 npm 注册表在 Nix 中构建 npm 包.
-* [node2nix](https://github.com/svanderburg/node2nix) - 从 `package.json`（或 `package-lock.json`）（存储为文件）生成 Nix 表达式.
+* [node2nix](https://github.com/svanderburg/node2nix) - 从 `package.json`（或 `package-lock.json`）生成 Nix 表达式（存储为文件）.
 * [npmlock2nix](https://github.com/nix-community/npmlock2nix) - 从 `package-lock.json`（内存中）生成 Nix 表达式，主要用于 Web 项目.
 
 ### OCaml
@@ -169,8 +169,8 @@
 ### Python
 
 * [mach-nix](https://github.com/DavHau/mach-nix) - 创建高度可重现的 python 环境的工具.
+* [pip2nix](https://github.com/nix-community/pip2nix) - 与存储库无关的 Python 包生成器工具.
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接从构建 Python 包 [Poetry's](https://python-poetry.org/)  `诗歌锁`. 无需转换步骤.
-* [pypi2nix](https://github.com/nix-community/pypi2nix) - 为 Python 包生成 Nix 表达式.
 
 ### Ruby
 

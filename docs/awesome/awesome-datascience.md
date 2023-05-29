@@ -20,7 +20,6 @@
 <br>
 
 
-  - [Podcasts](#podcasts)]
 
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -45,7 +44,7 @@
 
  Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
 
-与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的软件包列表，但这四个软件包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
+与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的包列表，但这四个包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
 
  在踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 各有利弊. 选择一种您喜欢的语言，然后查看其中一种 [Free courses](#free-courses) 我们在下面列出了！
  
@@ -197,7 +196,7 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 套袋
+  - 装袋
   - 随机森林
   -AdaBoost
 

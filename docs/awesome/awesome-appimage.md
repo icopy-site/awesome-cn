@@ -48,7 +48,7 @@
 
 ### Desktop integration
 
-- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - 详细解释了如何在不需要更多软件的情况下管理 AppImages.
+- [Getting Started Managing Software with AppImage on Ubuntu](https://adamtheautomator.com/appimage-ubuntu/) - Verbosely explains how to manage AppImages without the need for further software.
 - [go-appimaged](https://github.com/probonopd/go-appimage/tree/master/src/appimaged) - 将 AppImages 集成到系统中的可选守护进程（实验性）.
 - [appimaged](https://github.com/AppImage/appimaged) - 将 AppImages 集成到系统中的可选守护程序（已弃用）.
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - 集成到用户的系统中并建立一个单一的`~/Applications`目录，帮助用户将AppImages移动到那里，支持通过应用程序启动器更新和删除AppImages.
@@ -61,6 +61,7 @@
 - [AppImage To Gnome](https://github.com/DejfCold/ATG) - 从 Gnome 桌面监控和（卸载）安装 AppImages.
 - [AppImage-Integrator](https://github.com/w-j-r/AppImage-Integrator) - 一个用 Qt6 编写的将 AppImages 集成到 Linux 桌面的简单程序.
 - [gnome_appimage_installer](https://github.com/knork-fork/gnome_appimage_installer)  - 用词不当（AppImages 不需要“安装”），为您的 AppImage 文件创建一个遵循 freedesktop.org 规范的桌面文件； 用 bash 写的.
+- [Gear lever](https://github.com/mijorus/gearlever/) - 通过拖放到变速杆应用程序将 AppImages 集成到 Gnome 桌面.
 
 ### Updaters
 
@@ -85,7 +86,7 @@
 - [RookiePM](https://github.com/18fadly-anthony/rookie) - AppImages 和 Shell 脚本的包管理器.
 - [AppMan](https://github.com/ivan-hc/AppMan) - 像 APT 或 Pacman 一样工作的 AppImage 管理器.
 - [jewelrystore](https://rubygems.org/gems/jewelrystore) - 用 ruby​​ 制作的命令行 AppImage 商店.
-- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一、静态、无依赖的二进制文件. 用围棋写的.
+- [ayy](https://github.com/lawl/ayy)  - AppImage 的包管理器. 单一的、静态的、无依赖性的二进制文件. 用围棋写的.
 - [leap](https://github.com/lnxcz/leap)  - 快速简单的 AppImage 管理器. 用 Rust 编写.
 - [Bread](https://github.com/pegvin/bread) - 在命令行上从 GitHub 下载、更新、删除和运行 AppImages，并将应用程序集成到桌面.
 
@@ -149,7 +150,7 @@
 ### Deployment tools for .NET Core (Mono) applications
 
 - [Publish-AppImage for .NET](https://github.com/kuiperzone/Publish-AppImage) - 为 .NET 应用程序发布 AppImages.
-- [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - 如何使用 `.cs` 程序中的 `dotnet publish -f netcoreapp3.1 -r linux-x64` 将 .NET Core (Mono) 应用程序部署为 AppImage 的示例.
+- [.NET Core AppImage example](https://github.com/ppy/osu-deploy/blob/697a49e9602502a2b7a899c0dff5383f6512d5d2/Program.cs#L207-L243) - Example of how to deploy .NET Core (Mono) applications as an AppImage using `dotnet publish -f netcoreapp3.1 -r linux-x64` from within a `.cs` program.
 - [PupNet Deploy](https://github.com/kuiperzone/PupNet-Deploy) - 跨平台部署实用程序，可一步发布您的 .NET 项目并将其打包为准备发布的安装文件.
 
 ### Deployment tools for Flash applications
@@ -172,6 +173,7 @@
 - [appimage-bash](https://github.com/valicm/appimage-bash) - GitHub Action，用于从 .tar.gz 存档中的二进制文件创建 AppImage 版本.
 - [Package-to-appimage](https://github.com/CausaPrincipalis71/package-to-appimage) - 使用 Docker 将 .deb 和 .rpm 包转换为 AppImage 格式的工具.
 - [GMAppImager](https://github.com/time-killer-games/GMAppImager) - 以图形方式将 GameMaker Studio 2 游戏转换为 AppImage 包.
+- [AppImaGen](https://github.com/ivan-hc/AppImaGen) - 从 Debian 或您选择的 PPA 为以前的版本（不幸的是不是推荐的最旧的）生成一个 AppImage，并且仍然支持 Ubuntu LTS.
 
 ### Metadata tools
 
@@ -186,7 +188,7 @@
 ### Continuous integration
 
 - [GitHub Actions example](https://github.com/probonopd/Zoom.AppImage/blob/master/.github/workflows/main.yml) - 如何将使用 GitHub Actions 构建的 AppImages 上传到 GitHub Releases 的示例.
-- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - Bigger, more complex example of how to build and upload AppImages using GitHub Actions.
+- [appimage.yml](https://github.com/iotang/Project_LemonLime/blob/master/.github/workflows/appimage.yml) - 关于如何使用 GitHub Actions 构建和上传 AppImages 的更大、更复杂的示例.
 - [build-appimage-action](https://github.com/AppImageCrafters/build-appimage-action) - 使用 appimage-builder 生成 AppImages 的 GitHub Action.
 - [jniltinho/packages](https://github.com/jniltinho/packages) - 使用 go-appimagetool 生成 AppImages 的 Drone.io 示例.
 - [Link to the latest build artifact on GitLab CI](https://gitlab.com/linuxappimage/element-desktop/-/jobs/artifacts/master/raw/Element.AppImage?job=run-build) - 如何直接链接到 GitLab CI 上的最新构建工件的示例（可能很棘手）.
@@ -218,7 +220,7 @@
 ### Documentation
 
 - [docs.appimage.org](https://docs.appimage.org/) - 官方 AppImage 文档.
-- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - Documentation of appimage-builder, includes tutorials, examples, and more.
+- [appimage-builder.readthedocs.io](https://appimage-builder.readthedocs.io/) - appimage-builder 的文档，包括教程、示例等.
 
 ### Tutorials
 

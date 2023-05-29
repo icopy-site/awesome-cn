@@ -178,12 +178,13 @@
 - [JtlReporter](https://github.com/ludeknovy/jtl-reporter) - 在线报告应用程序通过上传 JTL 文件生成报告.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - 解析 JMeter 测试结果并生成带有图表的详细报告的 Maven 插件.
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - 基于 Web 的应用程序，用于整理、分析和报告 JMeter 测试结果.
+- [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - 使用 CMDRunner 和 Filter Results Tools 创建图表和过滤结果的 Maven 插件 [JMeter Plugins](#plugins) ; 通常与 [JMeter Maven Plugin](#tools--plugins) 和一套 ["companion" plugins](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools).
 - 数据库结果收集器
   - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - 启用将结果记录到数据库中以进行更有效报告的插件.
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - 配置侦听器以登录 MySQL 数据库的补丁.
-- [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - 基于 JAMon 的 JMeter HTML 报告生成器.
-- [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter 插件，用于根据自定义 KPI（关键绩效指标）生成 XML 格式的 JUnit 报告.
-- [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - 使用 CMDRunner 和 Filter Results Tools 创建图表和过滤结果的 Maven 插件 [JMeter Plugins](#plugins) ; 通常与 [JMeter Maven Plugin](#tools--plugins) 和一套 ["companion" plugins](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools).
+- SLA 和 KPI
+  - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - 基于 JAMon 的 JMeter HTML 报告生成器.
+  - [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter 插件，用于根据自定义 KPI（关键绩效指标）生成 XML 格式的 JUnit 报告.
 
 ### Reporting & Visualization
 
@@ -358,7 +359,7 @@
 - [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik 工程博客.
 - [TestAutomationGuru Blog](https://www.testautomationguru.com/category/jmeter/) - 关于测试自动化的技术博客.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - RedLine13 博客中的 JMeter 文章.
-- [Flood.io Blog](https://www.flood.io/blog) - 从 Flood IO 加载测试思想、故事和想法.
+- [Flood.io Blog](https://www.flood.io/blog) - 从 Flood IO 加载测试思想、故事和创意.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - 另一个使用 JMeter 进行性能和自动化测试的博客.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - 关于 JMeter 和负载测试的 OctoPerf 博客.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - 关于 JMeter 的抽象博客.

@@ -11,7 +11,7 @@
 ## Algorithms and data structures
 * [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
-* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
+* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的数组.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) - 适用于任何 C ABI 兼容目标的生产就绪布谷鸟过滤器.
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort 实施.
@@ -133,7 +133,7 @@
 * [kassane/QML-zig](https://github.com/kassane/qml_zig) - QML 绑定.
 * [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - [Learn OpenGL](https://learnopengl.com) 教程移植到 Zig.
 * [ifreund/river](https://github.com/ifreund/river) - 从 dwm 和 bspwm 中汲取灵感的动态 Wayland 合成器.
-* [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - “一个周末的光线追踪”一书的实现.
+* [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - “一个周末的光线追踪”一书的实施.
 * [SpexGuy/Zig-Gltf-Display](https://github.com/SpexGuy/Zig-Gltf-Display) - 使用 Vulkan 显示 glTF 文件的程序.
 * [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) - 简单的光线追踪器.
 * [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK 桌面阅读器.
@@ -173,6 +173,7 @@
 * [frmdstryr/zhp](https://github.com/frmdstryr/zhp) - 功能强大的 HTTP 服务器.
 * [axgdev/telegram_echobot_zig](https://github.com/axgdev/telegram_echobot_zig) - 电报回声机器人.
 * [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - HTTP/1.1 服务器.
+* [zigzap/zap](https://github.com/zigzap/zap) - 极快、健壮的 HTTP 服务器.
 
 
 ## Web
@@ -220,7 +221,7 @@
 * [sreehax/zig-ini](https://github.com/sreehax/zig-ini) - .this 解析器.
 * [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .this 解析器.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - 一个正则表达式的实现.
-* [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - Port of [ryu](https://github.com/ulfjack/ryu).
+* [tiehuis/zig-ryu](https://github.com/tiehuis/zig-ryu) - 港口 [ryu](https://github.com/ulfjack/ryu).
 * [Vexu/zuri](https://github.com/Vexu/zuri) - 你是一个解析器.
 * [vi/zigmkv](https://github.com/vi/zigmkv) - Matroska/webm (mkv) 解析器.
 * [winksaville/zig-parse-args](https://github.com/winksaville/zig-parse-args) - 解析命令行参数.
@@ -239,10 +240,10 @@
 
 ## Other
 * [All Your Codebase](https://allyourcodebase.com/) - Zig及其生态系统的发展状况.
-* [zig.pm](https://zig.pm/) - 社区维护的 Zig 软件包存储库.
+* [zig.pm](https://zig.pm/) - 社区维护的 Zig 包存储库.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito 在 Zig 中重写.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - 用于组装 x86 的库.
-* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - 国际劳工组织许可证密钥库.
+* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
 * [vegecode/svd2zig](https://github.com/vegecode/svd2zig) - 将系统视图描述 (svd) 文件转换为用于裸机开发的 Zig 标头.
 * [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) - MQTT IotMonitor 工具，节省监控 mqtt 代理或设备的时间.
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) 客户.
