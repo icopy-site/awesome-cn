@@ -78,8 +78,6 @@
 - [ipycytoscape](https://github.com/cytoscape/ipycytoscape) - 使用 cytoscape.js 在 Jupyter 中进行交互式图形可视化的小部件.<!--lint disable double-link-->
 - [ipydagred3](https://github.com/timkpaine/ipydagred3) - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) 使用 dagre-d3 在 jupyterlab 中绘制有向无环图的库.<!--lint enable double-link-->
 - [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Jupyter 笔记本中用于 Leaflet.js 地图的交互式可视化库.
-- [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
-- [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) - Jupyter 笔记本的原型网络可视化前端.
 - [ipytree](https://github.com/QuantStack/ipytree/) - Jupyter 的树 UI 元素.
 - [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - 动画数据叙事工具.
@@ -96,12 +94,20 @@
 - [Perspective](https://github.com/finos/perspective) - 数据可视化和分析组件，尤其适用于大型/流数据集.
 - [pyecharts](https://github.com/pyecharts/pyecharts) - Python接口 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.
 - [pythreejs](https://github.com/jovyan/pythreejs) - 利用 Jupyter 小部件基础结构的 Python / ThreeJS 桥.
-- [Qgrid](https://github.com/quantopian/qgrid) - 用于在 Jupyter 笔记本中排序、过滤和编辑 DataFrame 的交互式网格.
 - [tqdm](https://github.com/tqdm/tqdm) - 用于循环和迭代的快速、可扩展的进度条.
 - [tributary](https://github.com/timkpaine/tributary) - 支持 Jupyter 的 Python 数据流.
 - [xleaflet](https://github.com/QuantStack/xleaflet) - ipyleaflet 的 C++ 后端.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) - ipywebrtc 的 C++ 后端.
 - [xwidgets](https://github.com/QuantStack/xwidgets) - ipywidgets 的 C++ 后端.
+
+## Tables
+
+- [buckaroo](https://github.com/paddymul/buckaroo) - 用于 Jupyter 和 pandas 的 GUI 数据整理工具.
+- [ipyaggrid](https://github.com/widgetti/ipyaggrid) - Jupyter 中 ag-Grid 的强大功能.
+- [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Jupyter 的快速数据网格小部件.
+- [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) - Jupyter 中的高性能、可编辑、可样式化的数据网格.
+- [ipysheet](https://github.com/QuantStack/ipysheet/) - Jupyter 中的交互式电子表格.
+- [Qgrid](https://github.com/quantopian/qgrid) - 用于在 Jupyter 中排序、过滤和编辑 DataFrame 的交互式网格.
 
 ## Rendering/Publishing/Conversion
 
@@ -154,7 +160,7 @@
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
-- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
+- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元格完成浏览器通知.
 - [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - 对 JupyterLab 的 TensorBoard 支持.
 - [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - 在 JupyterLab 中自动对笔记本进行版本控制.
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
@@ -175,7 +181,7 @@
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - 显示系统指标的扩展.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI 自动完成扩展.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - Jupyterlab 的漂亮 Darcula 主题.
-- [toc](https://github.com/jupyterlab/jupyterlab-toc) - 为笔记本提供目录的扩展.
+- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) - JupyterLab 的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - 显示变量及其值的变量检查器扩展.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim 笔记本单元绑定.
@@ -215,7 +221,7 @@
 - [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - 在谷歌云平台上配置了支持 GPU 的机器学习框架的托管 JupyterLab 笔记本实例.
 - [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) - 使用 Google Cloud Dataproc 的 Apache Spark 的 Jupyter 和 JupyterLab.
 - [Google Colaboratory](https://colab.research.google.com) - 基于云的 Jupyter 环境，旨在机器学习教育和研究.<!--lint disable double-link-->
-- [Kyso](https://kyso.io) - 数据科学平台，用于发布和共享 Jupyter 笔记本作为数据博客和 Web 应用程序.<!--lint enable double-link-->
+- [Kyso](https://kyso.io) - Data science platform to publish and share Jupyter notebooks as data blogs and web applications.  <!--lint enable double-link-->
 - [Mineo.app](https://mineo.app) - 具有 Jupyter 兼容笔记本的 Data Ops 平台，无代码块，并支持创建仪表板.
 - [Naas](https://naas.ai) - 具有神奇调度/通知功能和资产/依赖/秘密管理的 JupyterLab 环境.
 - [Noteable](https://noteable.io/) - Noteable 是一个协作笔记本，用于组合代码（SQL、Python 和 R）和交互式可视化.
@@ -233,7 +239,7 @@
 
 ## Community Resources
 
-- Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- 会议会谈 - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - GitHub - 搜索： [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - GitHub - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - 网格 - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)

@@ -12,8 +12,9 @@
 - [mypy](https://github.com/python/mypy) - 可选的静态类型 (PEP 484).
 - [pyanalyze](https://github.com/quora/pyanalyze) - 可扩展的静态分析器和类型检查器.
 - [pycharm](https://www.jetbrains.com/pycharm/) - 专业开发人员的 IDE.
+- [pylyzer](https://github.com/mtshiba/pylyzer/) - 用于 Python 的快速静态代码分析器和语言服务器，用 Rust 编写.
 - [pyre](https://pyre-check.org/) - 高性能类型检查器.
-- [pyright](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+- [pyright](https://github.com/Microsoft/pyright)  - 用于大型 Python 源代码库的快速类型检查器. 它可以以“监视”模式运行，并在文件被修改时执行快速增量更新.
 - [pytype](https://github.com/google/pytype) - 检查和推断类型的工具 - 无需类型注释.
 
 ## Dynamic type checkers
@@ -75,7 +76,7 @@
 - [flake8-pyi](https://github.com/ambv/flake8-pyi) - Flake8 插件，为类型提示存根文件提供专业化.
 - [flake8-type-checking](https://github.com/snok/flake8-type-checking) - 帮助您正确保护任何仅类型注释导入的插件.
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) - 检查键入导入是否受到适当保护的插件.
-- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件，帮助识别将哪些导入放入类型检查块，以及如何在导入移动后调整类型注释.
+- [flake8-typing-only-imports](https://github.com/sondrelg/flake8-typing-only-imports) - flake8 插件有助于识别将哪些导入放入类型检查块，以及如何在导入移动后调整类型注释.
 - [flake8-type-ignore](https://gitlab.com/jonafato/flake8-type-ignore/) - flake8 插件禁止输入：忽略输入的 Python 代码中的注释.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格、最自以为是的 Python linter.
 
@@ -106,13 +107,13 @@
 - [autotyping](https://github.com/JelleZijlstra/autotyping) - 自动为函数添加简单的返回类型注释（bool、None、Optional）.
 - [infer-types](https://github.com/orsinium-labs/infer-types) - 用于自动推断类型注释并将其添加到 Python 代码中的 CLI 工具.
 - [jsonschema-gentypes](https://github.com/camptocamp/jsonschema-gentypes) - 根据 JSON 模式中的 TypedDict 生成 Python 类型.
-- [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的代码中.
+- [monkeytype](https://github.com/instagram/MonkeyType) - 收集函数参数和返回值的运行时类型，并可以根据运行时收集的类型自动生成存根文件甚至直接在您的代码中添加草稿类型注释.
 - [pyannotate](https://github.com/dropbox/pyannotate) - 根据在运行时观察到的调用参数和返回类型，将注释插入到您的源代码中.
 - [PyTypes](https://github.com/pvs-hd-tea/PyTypes) - 通过 Python 跟踪推断类型.
 - [pyre infer](https://github.com/facebook/pyre-check)  - Pyre 具有将代码库迁移到类型化格式的强大功能. 这 [infer](https://pyre-check.org/docs/pysa-coverage/) 命令行选项提取文件或目录，对使用的类型进行有根据的猜测，并将注释应用于文件.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest 的 Pyannotate 插件.
 - [pytest-monkeytype](https://github.com/mariusvniekerk/pytest-monkeytype) - pytest 的 MonkeyType 插件.
-- [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在进行的工具，用于使用 Python 类型注释 AST 的节点.
+- [pytype annotate-ast](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - 一个正在开发中的工具，用于使用 Python 类型注释 AST 的节点.
 - [type4py](https://github.com/saltudelft/type4py) - 基于深度相似性学习的类型推断.
 - [typilus](https://github.com/typilus/typilus)  - 一种用于预测 Python 类型的深度学习算法. 也可作为 [GitHub action](https://github.com/typilus/typilus-action)
 - [auto-optional](https://github.com/Luttik/auto-optional) - 当默认参数为“无”时，使类型化参数可选.
@@ -147,7 +148,7 @@
 - [PEP-526](https://www.python.org/dev/peps/pep-0526/) - 变量注释的语法.
 - [PEP-544](https://www.python.org/dev/peps/pep-0544/) - 协议：结构子类型（静态鸭子类型）.
 - [PEP-557](https://www.python.org/dev/peps/pep-0557/) - 数据类.
-- [PEP-560](https://www.python.org/dev/peps/pep-0560/) - 对输入模块和通用类型的核心支持.
+- [PEP-560](https://www.python.org/dev/peps/pep-0560/) - Core support for typing module and generic types.
 - [PEP-561](https://www.python.org/dev/peps/pep-0561/) - 分发和包装类型信息.
 - [PEP-563](https://www.python.org/dev/peps/pep-0563/) - 推迟评估注释.
 - [PEP-585](https://www.python.org/dev/peps/pep-0585/) - 在标准集合中键入提示泛型.

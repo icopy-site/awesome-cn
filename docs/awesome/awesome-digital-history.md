@@ -17,7 +17,7 @@
 
 ### Asia
 
-- [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles 是亚洲地区外国贸易商的参考书，由香港日报出版社每年出版，出版时间为 1863 年至 1941 年.
+- [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles 是亚洲地区外商的参考书，由香港日报出版社每年出版，出版时间为 1863 年至 1941 年.
 
 ### Austria
 
@@ -55,7 +55,7 @@
 - [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - 纳粹时代受迫害音乐家的百科全书.
 - [MARCHIVUM](https://druckschriften-digital.marchivum.de/) - 关于曼海姆历史的曼海姆报纸和历史印刷品合集.
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - 包含 2,000 多位德语作者的 10,000 部作品.
-- [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - 超过 180 万种图形媒体（照片、地图、绘图）.
+- [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - Over 1.8 million graphic media (photographs, maps, drawings).
 - [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) - 自 1947 年以来的 SPIEGEL 档案.
 - [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) - 手稿、文件、地图和文献.
 - [Uni Frankfurt](http://sammlungen.ub.uni-frankfurt.de/) - 稀有版画、手稿、遗赠等.
@@ -91,7 +91,7 @@
 ### Netherlands
 
 - [Delpher](https://www.delpher.nl/) - 荷兰报纸、书籍和杂志.
-- [Nationaal Archief](https://www.nationaalarchief.nl/) - Rich collection of the National Archives of the Netherlands.
+- [Nationaal Archief](https://www.nationaalarchief.nl/) - 丰富的荷兰国家档案馆藏品.
 
 ### North America
 
@@ -138,6 +138,7 @@
 - [Schweizerisches Wirtschaftsarchiv](https://ub.unibas.ch/de/historische-bestaende/wirtschaftsarchive/) - 该馆藏包括从 1750 年至今的 500 多个商业档案，重点是巴塞尔地区.
 - [swisscollections](https://swisscollections.ch/) - 瑞士图书馆和档案馆历史和现代馆藏的元搜索引擎.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - 联邦委员会向议会报告过去几年的收支情况.
+- [transcriptiones](http://transcriptiones.ch) - 创建、共享和访问历史手稿的抄本.
 
 ## Learning
 
@@ -148,6 +149,7 @@
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - 打开 HGIS 课程和资源.
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - 数字历史方法和读物在线课程.
 - [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - 学生历史工具包.
+- [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - 本指南创建于 2022 年秋季学期，伴随着巴塞尔大学的历史入门课程，旨在提供对数字历史领域的初步了解.
 - [Local Linkages](https://locallinkages.org/) - 介绍历史研究方法和数字历史技能的专业发展课程.
 - [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html) - Jupyter Book（德语）面向正在寻找 Python 编程语言的第一个面向应用程序和交互式介绍的历史学家.
 - [The CTP Book](https://comp-think.github.io/) - 一本向具有人文学科背景的人教授计算思维和编程技能的书.

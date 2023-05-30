@@ -30,7 +30,7 @@
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
 - [Reddit](https://www.reddit.com/r/sveltejs/)
-- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte日本.
+- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
 ### Conferences
 
@@ -58,7 +58,7 @@
 - [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) - @lihautan（YouTube）.
 - [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan（YouTube）.
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - 拉德文.
-- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint，由 Chrome DevTools 工程师 @Jack_Franklin 提供.
+- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/) - SitePoint，由 Chrome DevTools 工程师 @Jack_Franklin 提供.
 - [Create your blog with SvelteKit](https://svelteland.github.io/svelte-kit-blog-demo/) - @zhuzilin（Github）.
 - [Typescript + Svelte Cheatsheet](https://github.com/ivanhofer/sveltekit-typescript-showcase) - Svelte 和 SvelteKit 的所有 TypeScript 相关主题的概述 - @ivanhofer (Github).
 - [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
@@ -90,15 +90,17 @@ _Svelte框架的学习和研究._
 
 _移动用户界面框架._
 
-- [Svelte Native](https://svelte-native.technology/) - 通过 Nativescript Svelte 控制本机组件.
+- [Svelte Native](https://svelte-native.technology/) - Svelte controlling native components via Nativescript.
 - [Framework7](https://framework7.io/svelte/) - 用于构建 iOS 和 Android 应用程序的全功能 HTML 框架.
 - [Capacitor](https://capacitorjs.com/solution/svelte) - 使用网络技术和 Svelte 构建原生移动应用程序.
 
 ## State Libraries
+
 - [Svelte-Domain](https://github.com/thegenius/svelte-domain) - 苗条的状态管理.
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - 支持异步值的 Svelte 存储合约.
 
 ## UI Libraries
+
 - [AgnosticUI](https://github.com/agnosticui/agnosticui) - 可访问的 Svelte 组件原语（也适用于 React、Vue 3 和 Angular）.
 - [Flowbite Svelte](https://flowbite-svelte.com/) - 使用 Tailwind CSS 和 Flowbite 构建的开源 Svelte UI 组件.
 - [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 和 5 组件.
@@ -119,7 +121,7 @@ _表格和数据网格._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - Svelte 的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - 允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表格.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - 带有分页器的 Svelte-generic-crud-table.
 
 ### Notification
@@ -150,8 +152,9 @@ _Toaster / snackbar - 使用无模式的临时小弹出窗口通知用户._
 
 _在日历中显示不可编辑的事件._
 
-- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+- [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - 围绕 FullCalendar 的组件包装器.
 - [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - 具有简洁动画和独特用户体验的轻量级日期选择器.
+- [date-picker-svelte](https://github.com/probablykasper/date-picker-svelte) - 具有简洁用户体验的 Svelte 日期和时间选择器.
 
 ### Maps
 
@@ -237,7 +240,6 @@ _对于单页应用程序 (SPA) 等._
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte 客户端路由器是您在路由 SPA 时需要和想到的一切.
 - [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - 一个简单易用的 SPA 路由器，开发时考虑了页面转换.
 - [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - 另一个受 vue-router 启发的 Svelte 路由器.
-
 
 ## Frameworks
 

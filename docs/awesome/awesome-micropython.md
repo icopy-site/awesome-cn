@@ -35,7 +35,7 @@
 
 * [uMath](https://github.com/albaEDA/uMath) - 微控制器的计算机代数.
 * [micropython-ulab](https://github.com/v923z/micropython-ulab) - 用于 MicroPython 的类似 NumPy 的快速矢量模块.
-* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - MicroPython 的内联 ARM 汇编器中的快速傅立叶变换.
+* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - MicroPython 的内联 ARM 汇编器中的快速傅里叶变换.
 * [Filters](https://github.com/peterhinch/micropython-filters)  - 使用 ARM Thumb 汇编程序的 FIR 滤波器. 使用在线实用程序，您可以从图表
 滤波器实现所需的频率响应.
 * [ulinalg](https://github.com/jalawson/ulinalg) - 小型矩阵处理模块，带有一些专门用于 MicroPython (Python 3) 的线性代数运算.
@@ -149,7 +149,7 @@
 
 * [microhomie](https://github.com/microhomie/microhomie) - 用于物联网的 Homie MQTT 约定的 MicroPython 实现.
 * [uPyEcho](https://github.com/lemariva/uPyEcho) - 在 ESP32 上使用 MicroPython 模拟 Belkin WeMo 设备，该设备可与 Amazon Echo (Alexa) 配合使用.
-* [SonosRemote](https://github.com/foosel/SonosRemote) - 在 ESP8266 上运行并使用 Sonos HTTP API 的 Sonos 安装遥控器.
+* [SonosRemote](https://github.com/foosel/SonosRemote) - 用于在 ESP8266 上运行并使用 Sonos HTTP API 的 Sonos 安装的遥控器.
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - 基于 MicroPython 的脚本，用于扩展您的 Home Assistant 驱动的家庭自动化项目.
 * [micropython-iot](https://github.com/peterhinch/micropython-iot) - 一种使用 ESP8266、ESP32 或 Pyboard D 端点设计物联网应用的方法.
 * [iot-core-micropython](https://github.com/GoogleCloudPlatform/iot-core-micropython) - 使用 MicroPython 连接到 Google Cloud IoT Core.
@@ -273,7 +273,7 @@
 #### Serial
 
 * [mpy-miniterm](https://github.com/jeffmakes/mpy-miniterm) - 通过串行 REPL 与 MicroPython 设备进行无缝串行调试和文件同步的工具.
-* [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - 使用带有 MicroPython 的微控制器的国际摩尔斯电码.
+* [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - 使用微控制器和 MicroPython 的国际摩尔斯电码.
 * [I2C Slave](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md)  - 使用 Pyboard 的 I2C 从模式实现全双工异步链接. 主要用例是针对只有一个 UART 的 ESP8266.
 
 #### Serialization
@@ -353,6 +353,7 @@
 * [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - 一个 Python 3 实用程序，用于将字体转换为能够作为字节码冻结的 Python 源代码.
 * [writer](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - 一种将 Python 字体以上渲染到显示器的简单方法，其驱动程序是 `framebuf` 的子类.
 * [ssd1306big](https://github.com/nickpmulder/ssd1306big) - 128x64 像素 SSD1306 OLED 显示屏上的 MicroPython 字体.
+* [framebuf2](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer 扩展：更大和旋转的字体、三角形和圆形.
 
 #### Graphics
 
@@ -408,7 +409,7 @@
 * [ST7735](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - ST7735 TFT LCD 的驱动程序.
 * [micropython-ili9341](https://github.com/rdagger/micropython-ili9341) - MicroPython ILI9341 显示器和 XPT2046 触摸屏驱动程序.
 * [st7789_mpy](https://github.com/devbis/st7789_mpy) - 用于 MicroPython 的快速纯 C 驱动程序，可以处理 ST7789 芯片上的显示模块.
-* [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - 用于 240x240 ST7789 显示器的慢速 MicroPython 驱动程序，没有全球速卖通的 CS 引脚，用 MicroPython 编写.
+* [st7789py_mpy](https://github.com/devbis/st7789py_mpy) - 慢速 MicroPython 驱动程序，用于 240x240 ST7789 显示器，不带来自全球速卖通的 CS 引脚，用 MicroPython 编写.
 * [micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) - 用于 ILI9341 显示器的 MicroPython 驱动程序.
 * [micropython-ili9341](https://github.com/tkurbad/micropython-ili9341) - ESP32 上用于 MicroPython 的 ILI9341 TFT 驱动程序.
 * [st7789_mpy](https://github.com/russhughes/st7789_mpy) - 用 C 编写的用于 ST7789 显示模块的快速 MicroPython 驱动程序.
@@ -437,16 +438,16 @@
 * [max7219_8digit](https://github.com/pdwerryhouse/max7219_8digit) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
-* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动器.
-* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动器.
-* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动器.
+* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动程序.
+* [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动程序.
+* [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动程序.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 用于由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
 * [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动程序.
 
 #### LEDs
 
 * [micropython-morsecode](https://github.com/mampersat/micropython-morsecode) - 闪烁带有摩尔斯编码信息的 LED.
-* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - SeeedStudio 的 Grove 可链接 RGB LED 中使用的 P9813 RGB LED 驱动程序.
+* [micropython-p9813](https://github.com/mcauser/micropython-p9813) - SeeedStudio 的 Grove 可链接 RGB LED 中使用的 P9813 RGB LED 驱动器.
 * [micropython-ws2812-7seg](https://github.com/HubertD/micropython-ws2812-7seg) - 使用 WS2812 RGB LED 的 7 段显示器.
 * [micropython-ws2812](https://github.com/JanBednarik/micropython-ws2812) - WS2812 RGB LED 驱动程序.
 * [Official APA102](https://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) - ESP8266 APA102/DotStar RGB LED 驱动器.
@@ -562,7 +563,7 @@
 
 #### DC Motor
 
-* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动程序.
+* [L298N](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - L298N 双 H 桥电机控制器的驱动器.
 * [MicroPython-L298](https://gitlab.com/olivierlenoir/MicroPython-L298) - 使用 MicroPython 驱动 L298 双 H 桥.
 
 #### Servo
@@ -588,7 +589,7 @@
 
 * [ADXL345-with-Pyboard](https://github.com/AbhinayBandaru/ADXL345-with-Pyboard) - ADXL345 16g 3 轴加速度计的驱动程序.
 * [adxl345_micropython](https://github.com/fanday/adxl345_micropython) - ADXL345 16g 3 轴加速度计的驱动程序.
-* [MicroPython-LIS3DH](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - LIS3DH 3 轴加速度计的 I2C 驱动程序.
+* [MicroPython-LIS3DH](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - 用于 LIS3DH 3 轴加速度计的 I2C 驱动程序.
 * [micropython-lis2hh12](https://github.com/tuupola/micropython-lis2hh12) - 用于 LIS2HH12 3 轴加速度计的 I2C 驱动程序.
 * [MMA7660](https://github.com/Bucknalla/MicroPython-3-Axis-Accelerometer/blob/master/MMA7660.py) - MMA7660 1.5g 3 轴加速度计的驱动程序.
 * [ADXL345_spi_micropython](https://github.com/AlekseyFedorovich/ADXL345_spi_micropython) - 用于通过 SPI 协议与来自 MCU 的“Analog Devices ADXL345”加速度计进行交互的库，使用 MicroPython 进行闪存.
@@ -622,7 +623,7 @@
 #### Biometric
 
 * [micropython-fingerprint](https://github.com/chrisb2/micropython-fingerprint) - 用于读取 Grow 和 ZhianTec 指纹传感器的 MicroPython 库.
-* [MAX30102-MicroPython-driver](https://github.com/n-elia/MAX30102-MicroPython-driver)  - 移植到 MicroPython 的 MAX30102 驱动程序. 它也适用于 MAX30105.
+* [MAX30102-MicroPython-driver](https://github.com/n-elia/MAX30102-MicroPython-driver) - A MAX30102 driver ported to MicroPython. It should also work for MAX30105.
 
 #### Camera
 

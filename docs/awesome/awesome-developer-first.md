@@ -37,7 +37,7 @@
 * [Auth0](https://auth0.com/) - 身份验证和授权即服务.
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - 用于企业 SSO 和目录同步的开源 API.
-* [Clerk](https://clerk.com/) - React、React Native 和 Next.js 的身份验证和用户管理平台.
+* [Clerk](https://clerk.com/) - 用于 React、React Native 和 Next.js 的身份验证和用户管理平台.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 的身份验证.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
 * [Hanko](https://www.hanko.io/) - 无密码（WebAuthn API）PSD2、eIDAS 和 GDPR 兼容.
@@ -73,7 +73,7 @@
 *操纵和检测视觉数据.*
 * [Clarifai](https://www.clarifai.com/) - 一组计算机视觉 API.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌识别.
-* [Google Vision AI](https://cloud.google.com/vision) - Google 的 AI 视觉 API.
+* [Google Vision AI](https://cloud.google.com/vision) - 谷歌的 AI 视觉 API.
 * [Roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
 * [Scanbot SDK](https://scanbot.io/) - 从应用程序的图像中提取结构化数据.
 
@@ -104,7 +104,7 @@
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
 * [Qoddi](https://qoddi.com/) - Git 连接的应用程序托管平台.
-* [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动缩放、数据库、秘密和回滚.
+* [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
 * [Render](https://render.com/) - 使用 SSL 从 git 部署到 CDN.
 * [Vercel](https://vercel.com/) - 用于构建和部署无服务器 Web 应用程序、静态网站和 Jamstack（主要是 Next.js）项目的云平台.
 
@@ -146,7 +146,7 @@
 * [SmartyStreets](https://www.smartystreets.com/) - 美国反向地理编码和地址验证 API.
 
 ## IDE
-*Products that extend your IDE and help development.*
+*扩展您的 IDE 并帮助开发的产品.*
 * [Codota](https://www.codota.com/) - 为您的 IDE 完成 AI 代码.
     * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
 * [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
@@ -159,6 +159,7 @@
 ## Integrations
 *简化集成开发的集成管理系统或产品.*
 * [Apideck](https://www.apideck.com) - 集成市场构建器，与第 3 方的单一 API 以实现快速开发.
+* [Vessel](https://www.vessel.dev/) - 开发人员优先的 GTM 工具原生集成平台.
 
 ## Localization
 *翻译您的产品（也称为 i18n）.*
@@ -222,6 +223,7 @@
 ## Payments & Pricing
 *处理付款、信用卡处理和发票.*
 * [Braintree](https://www.braintreepayments.com/) - Paypal 对 API 优先付款的看法.
+* [Increase](https://increase.com/) - 裸机银行 API.
 * [Paddle](https://paddle.com/) - 具有广泛地理支持的 SaaS 收入交付平台（与目前的 stripe 不同）.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
 * [Stigg](https://www.stigg.io) - API 优先定价计划.

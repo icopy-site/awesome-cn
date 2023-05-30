@@ -3,7 +3,7 @@
 
 &gt; 现代生成人工智能项目和服务的精选列表.
 
-生成式人工智能是一种通过使用基于大量数据训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
+生成式人工智能是一种通过使用在大量数据上训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的 AI 不同，它能够创建独特且前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些输出通常有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术和计算机科学等领域有着广泛的应用.
 
 欢迎对此列表做出贡献. 通过添加链接 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
 
@@ -19,9 +19,9 @@
 
 ### Milestones
 
-- [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布用于基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
+- [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 - [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)  - 发布 Copilot，这是一种新的 AI 结对编程器，可帮助您编写更好的代码.  GitHub 博客，2021 年 6 月 29 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
@@ -31,10 +31,11 @@
 
 ### Models
 
-- [GPT-3](https://openai.com/api/) - OpenAI 的 API 提供对执行各种自然语言任务的 GPT-3 和将自然语言转换为代码的 Codex 的访问.
+- [OpenAI API](https://openai.com/api/) - OpenAI 的 API 提供对执行各种自然语言任务的 GPT-3 和 GPT-4 模型以及将自然语言转换为代码的 Codex 的访问.
 - [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval) - DeepMind 的 Gopher 是一个 2800 亿参数的语言模型.
 - [OPT](https://huggingface.co/facebook/opt-350m) - Facebook 的 Open Pretrained Transformers (OPT) 是一套仅解码器的预训练变压器. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) 由阿尔帕主办.
-- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - Hugging Face 的 BLOOM 是一个类似于 GPT-3 的模型，已经在 46 种不同的语言和 13 种编程语言上进行了训练.
+- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
+- [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
 
 ### Chatbots
 
@@ -42,7 +43,7 @@
 - [Bing Chat](https://www.bing.com/chat) - 由 Microsoft Bing 提供支持的对​​话式 AI 语言模型.
 - [Bard](https://bard.google.com) - Google 的实验性 AI 聊天机器人，由 LaMDA 模型提供支持.
 - [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
-- [ChatPDF](https://www.chatpdf.com/) - 与任何 PDF 聊天.
+- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - 支持文本和图像创建的 AI 助手.
 
 ### Search engines
@@ -106,8 +107,7 @@
 - [genei](https://www.genei.io/) - 在几秒钟内总结学术文章，节省 80% 的研究时间.
 - [Explainpaper](https://www.explainpaper.com/)  - 阅读学术论文的更好方式. 上传一篇论文，突出令人困惑的文本，获得解释.
 - [Galactica](https://galactica.org/)  - 用于科学的大型语言模型. 可以总结学术文献、解决数学问题、生成 Wiki 文章、编写科学代码、注释分子和蛋白质等等. [Model API](https://github.com/paperswithcode/galai).
-- [GPTZero](https://gptzero.me/) - 为教育工作者量身定制的解决方案，以负责任地在学校采用人工智能技术.
-- [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+- [Consensus](https://consensus.app/search/) - Consensus 是一个搜索引擎，利用人工智能在科学研究中寻找答案.
 
 ### Other text generators
 
@@ -144,7 +144,7 @@
 ### Models
 
 - [DALL·E 2](https://openai.com/dall-e-2/) - OpenAI 的 DALL·E 2 是一个新的人工智能系统，可以根据自然语言的描述创建逼真的图像和艺术.
-- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stability AI 的 Stable Diffusion 是一种最先进的文本到图像模型，可从文本生成图像.
+- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
 - [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，探索新的思想媒介并扩展人类的想象力.
 - [Imagen](https://imagen.research.google/) - Imagen by Google 是一种文本到图像扩散模型，具有前所未有的逼真度和深层次的语言理解能力.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成式 AI 方法，通过允许用户通过文本描述和自由形式的草图来描述和说明他们的愿景，将创意控制权交到用户手中.
@@ -154,7 +154,7 @@
 - [Craiyon](https://www.craiyon.com/) - Craiyon，前身为 DALL-E mini，是一种 AI 模型，可以根据任何文本提示绘制图像.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio 是一个易于使用的界面，用于使用稳定扩散图像生成模型创建图像.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder 是一种新型的创意工具，通过使协作和探索变得更容易来增强用户的创造力.
-- [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 是一个强大的工具，可以结合文字和绘图来创建逼真的艺术作品，因为它在单个模型中集成了分割映射、修复和文本到图像的生成.
+- [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 是一款强大的工具，可结合文字和绘图创建逼真的艺术作品，因为它在单个模型中集成了分割映射、修复和文本到图像生成.
 - [Magic Eraser](https://www.magiceraser.io/) - 在几秒钟内从图像中删除不需要的东西.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - Magic Studio 的一款工具，可让您通过描述自己的想法来表达自己.
 - [Alpaca](https://www.getalpaca.io/) - 稳定的 Diffusion Photoshop 插件.
@@ -165,10 +165,10 @@
 - [modyfi](https://www.modyfi.io/)  - 您一直想要的图像编辑器. 浏览器中的人工智能创意工具. 实时协作.
 - [Ponzu](https://www.ponzu.ai/)  - Ponzu 是您的免费 AI 徽标生成器. 只需使用您的想象力，在几秒钟内用创意设计的徽标打造您的品牌.
 - [PhotoRoom](https://www.photoroom.com/)  - 仅使用您的手机创建产品和肖像图片. 删除背景、更改背景和展示产品.
-- [Avatar AI](https://avatarai.me/) - 创建您自己的 AI 生成头像.
+- [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
 - [ClipDrop](https://clipdrop.co/) - 无需照相馆即可创建专业的视觉效果.
 - [Lensa](https://prisma-ai.com/lensa) - 一款一体化图像编辑应用程序，包括使用 Stable Diffusion 生成个性化头像.
-- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作空间.
+- [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作区.
 - [ClipDrop](https://clipdrop.co/) - 在没有照相馆的情况下创建专业的视觉效果，由
 
 ### Image libraries
@@ -203,16 +203,19 @@
 
 ### Speech
 
-- [Resemble AI](https://www.resemble.ai/) - 用于文本到语音的 AI 语音生成器和语音克隆.
+- [Eleven Labs](https://beta.elevenlabs.io/) - 人工智能语音发生器.
+- [Resemble AI](https://www.resemble.ai/) - 人工智能语音生成器和文本到语音的语音克隆.
 - [WellSaid](https://wellsaidlabs.com/) - 实时将文本转换为语音.
 - [Play.ht](https://play.ht/)  - 人工智能语音发生器. 使用 AI 在线生成逼真的文本转语音语音. 将文本转换为音频.
 - [Coqui](https://coqui.ai/) - 语音生成人工智能.
-- [podcast.ai](https://podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
+- [podcast.ai](https://podcast.ai/) - 完全由人工智能生成的播客，由 Play.ht 文本到语音 AI 提供支持.
 - [VALL-E X](https://vallex-demo.github.io/) - 用于跨语言语音合成的跨语言神经编解码器语言模型.
+- [TorToiSe](https://github.com/neonbjb/tortoise-tts) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
+- [Bark](https://github.com/suno-ai/bark) - A transformer-based text-to-audio model. #opensource
 
 ### Music
 
-- [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
+- [Harmonai](https://www.harmonai.org/) - 我们是一个社区驱动的组织，发布开源生成音频工具，让每个人都能更轻松、更有趣地制作音乐.
 - [Mubert](https://mubert.com/) - 面向内容创作者、品牌和开发商的免版税音乐生态系统.
 - [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) - Google Research 的一个模型，用于从文本描述中生成高保真音乐.
 

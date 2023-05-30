@@ -37,7 +37,7 @@
 
 ## Bootables
 * [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - 实验操作系统.
-* [andrewrk/clashos](https://github.com/andrewrk/clashos) - 适用于裸机 Raspberry Pi 3 B+ 的多人街机游戏.
+* [andrewrk/clashos](https://github.com/andrewrk/clashos) - Multiplayer arcade game for bare metal Raspberry Pi 3 B+.
 * [andrewrk/HellOS](https://github.com/andrewrk/HellOS) - “hello world” x86 内核示例.
 * [chivay/vmt](https://github.com/chivay/vmt) - 玩具操作系统.
 * [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) - 带有 Rust 微服务的微内核.
@@ -238,12 +238,39 @@
 * [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - 通过修复微小的示例程序来学习 Zig.
 
 
+## C/C++ libraries packaged for Zig
+
+这些 C/C++ 库被打包用于 Zig 构建和打包系统 (build.zig.)
+
+### C
+
+* [andrewrk/SDL](https://github.com/andrewrk/SDL) - 简单的直接媒体层.
+* [andrewrk/ffmpeg](https://github.com/andrewrk/ffmpeg) - 仅限图书馆.
+* [andrewrk/libgroove](https://github.com/andrewrk/libgroove)
+* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+* [kassane/openssl](https://github.com/kassane/openssl) - 仅限加密、提供商和 ssl 库.
+* [kassane/libbpf](https://github.com/kassane/libbpf) - BPF CO-RE（一次编译——随处运行）.
+* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread 库.
+
+### C++
+
+* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint)
+* [kassane/asio](https://github.com/kassane/asio) -（非提升）网络 I/O 库（带事件循环，C++14/17/20）.
+* [kassane/fmt](https://github.com/kassane/fmt)
+* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) 元编程库（仅标头，C++14/17/20）.&gt;
+* [kassane/catch2](https://github.com/kassane/catch2) - 单元测试库 (C++14/17/20).
+* [kassane/outcome](https://github.com/kassane/outcome) -（非提升）错误处理程序（C++14/17/20）.
+* [kassane/json](https://github.com/kassane/json) - jsoncpp 移植到 Zig 包装.
+* [kassane/range](https://github.com/kassane/range-v3) - 现代范围库 (C++14/17/20).
+* [kassane/libzmq](https://github.com/kassane/libzmq) - C++ 库中的 ZeroMQ 核心引擎.
+
+
 ## Other
 * [All Your Codebase](https://allyourcodebase.com/) - Zig及其生态系统的发展状况.
-* [zig.pm](https://zig.pm/) - 社区维护的 Zig 包存储库.
+* [zig.pm](https://zig.pm/) - 社区维护的 Zig 软件包存储库.
 * [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Geteltorito 在 Zig 中重写.
 * [momumi/x86-zig](https://github.com/momumi/x86-zig) - 用于组装 x86 的库.
-* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - ILO license key library.
+* [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - 国际劳工组织许可证密钥库.
 * [vegecode/svd2zig](https://github.com/vegecode/svd2zig) - 将系统视图描述 (svd) 文件转换为用于裸机开发的 Zig 标头.
 * [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) - MQTT IotMonitor 工具，节省监控 mqtt 代理或设备的时间.
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) 客户.

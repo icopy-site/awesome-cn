@@ -64,7 +64,7 @@
 * [Kite](http://kitesdk.org/docs/current/) - 是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.
 * [Metamarkets Druid](http://druid.io/) - 大型数据集实时分析框架.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) - 编译为 Apache Pig 的 Clojure 的 map-reduce.
-* [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
+* [Nokia Disco](http://discoproject.org/) - 诺基亚开发的 MapReduce 框架.
 * [Onyx](http://www.onyxplatform.org/) - 云的分布式计算.
 * [Pinterest Pinlater](https://medium.com/@Pinterest_Engineering/pinlater-an-asynchronous-job-execution-system-b8664cb8aa7d) - 异步作业执行系统.
 * [Pydoop](http://crs4.github.io/pydoop/) - 用于 Hadoop 的 Python MapReduce 和 HDFS API.
@@ -77,7 +77,7 @@
 * [Tuktu](https://github.com/UnderstandLingBV/Tuktu) - 易于使用的批处理和流计算平台，使用 Scala、Akka 和 Play 构建！
 * [Twitter Heron](https://github.com/twitter/heron) - Heron 是来自 Twitter 的实时、分布式、容错流处理引擎，取代了 Storm.
 * [Twitter Scalding](https://github.com/twitter/scalding) - 用于 Map Reduce 作业的 Scala 库，基于级联构建.
-* [Twitter Summingbird](https://github.com/twitter/summingbird) - 通过 Twitter 使用 Scalding 和 Storm 流式处理 MapReduce.
+* [Twitter Summingbird](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 * [Twitter TSAR](https://blog.twitter.com/engineering/en_us/a/2014/tsar-a-timeseries-aggregator.html) - Twitter 的 TimeSeries AggregatoR.
 * [Wallaroo](http://www.wallaroolabs.com/community)  - 超快和弹性的数据处理引擎. 大数据或快速数据 - 无需大惊小怪，无需 Java.
 
@@ -121,7 +121,7 @@
 
  **注意**：业界存在一些术语混淆，两个不同的东西被称为“列式数据库”. 此处列出的一些是围绕“键映射”数据模型构建的分布式持久数据库：所有数据都有一个（可能是复合的）键，键值对的映射与该键相关联. 在一些系统中，多个这样的值映射可以与一个键相关联，并且这些映射被称为“列族”（值映射键被称为“列”）.
 
-另一组也可称为“列式数据库”的技术的特点是它如何在磁盘或内存中存储数据——而不是以传统方式存储数据，在传统方式中，给定键的所有列值都彼此相邻存储，“逐行”，这些系统将所有*列*值彼此相邻存储. 因此，需要更多的工作来获取给定键的所有列，但获取给定列的所有值所需的工作更少.
+另一组也可称为“列式数据库”的技术的特点是它在磁盘或内存中存储数据的方式——而不是以传统方式存储数据，在传统方式中，给定键的所有列值都彼此相邻存储，“逐行”，这些系统将所有*列*值彼此相邻存储. 因此，需要更多的工作来获取给定键的所有列，但获取给定列的所有值所需的工作更少.
 
 前一组在这里被称为“关键地图数据模型”. 这些和之间的界线 [Key-value Data Model](#key-value-data-model) 商店相当模糊.
 
@@ -151,7 +151,7 @@
 * [BTDB](https://github.com/Bobris/BTDB) - .Net 中的键值数据库，具有对象数据库层、RPC、动态 IL 等
 * [BuntDB](https://github.com/tidwall/buntdb) - 一个快速的、可嵌入的、内存中的键/值数据库，用于 Go，具有自定义索引和地理空间支持.
 * [Edis](https://github.com/cbd/edis) - 是 Redis 的协议兼容服务器替代品.
-* [ElephantDB](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
+* [ElephantDB](https://github.com/nathanmarz/elephantdb) - 专门用于从 Hadoop 导出数据的分布式数据库.
 * [EventStore](https://geteventstore.com/) - 分布式时间序列数据库.
 * [GhostDB](https://github.com/jakekgrog/GhostDB) - a distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
 * [Graviton](https://github.com/deroproject/graviton) - 一个简单、快速、版本化、经过身份验证、可嵌入的纯 Go(lang) 键值存储数据库.
@@ -185,9 +185,9 @@
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - 图形处理框架.
 * [GraphLab PowerGraph](https://turi.com/products/create/docs/) - 一个核心 C++ GraphLab API 和一组构建在 GraphLab API 之上的高性能机器学习和数据挖掘工具包.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - Spark 上的弹性分布式图形系统.
-* [Gremlin](https://github.com/tinkerpop/gremlin) - graph traversal Language.
+* [Gremlin](https://github.com/tinkerpop/gremlin) - 图遍历语言.
 * [Infovore](https://github.com/paulhoule/infovore) - 以 RDF 为中心的 Map/Reduce 框架.
-* [Intel GraphBuilder](https://01.org/graphbuilder/) - 在 Hadoop 之上构建大规模图形的工具.
+* [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
 * [JanusGraph](http://janusgraph.org) - 开源、分布式图形数据库
   具有多种存储后端选项（Bigtable、HBase、Cassandra 等）
   和索引后端（Elasticsearch、Solr、Lucene）.
@@ -230,7 +230,7 @@
 * [Cockroach](https://github.com/cockroachdb/cockroach) - 可扩展、异地复制、交易数据存储.
 * [Comdb2](https://github.com/bloomberg/comdb2) - 基于乐观并发控制技术构建的集群 RDBMS.
 * [Datomic](http://www.datomic.com/) - 旨在实现可扩展、灵活和智能应用程序的分布式数据库.
-* [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
+* [FoundationDB](https://foundationdb.com/) - 分布式数据库，灵感来自 F1.
 * [Google F1](https://research.google.com/pubs/pub41344.html) - 基于 Spanner 构建的分布式 SQL 数据库.
 * [Google Spanner](https://research.google.com/archive/spanner.html) - 全球分布式半关系数据库.
 * [H-Store](http://hstore.cs.brown.edu/) - 是一个实验性的主内存并行数据库管理系统，针对联机事务处理 (OLTP) 应用程序进行了优化.
@@ -336,11 +336,12 @@
 * [StreamSets Data Collector](https://github.com/streamsets/datacollector) - 具有简单易用的 IDE 的连续大数据摄取基础设施.
 * [Alooma](https://www.alooma.com/integrations/mysql) - 数据管道即服务，支持将 MySQL 等数据源移动到数据仓库中.
 * [RudderStack](https://github.com/rudderlabs/rudder-server) - 用 go 编写的开源客户数据基础设施（分段、mParticle 替代方案）.
+* [Zilla](https://github.com/aklivity/zilla) - 为事件驱动架构和流构建的 API 网关，支持 HTTP、SSE、gRPC、MQTT 和原生 Kafka 协议等标准协议.
 
 ## Service Programming
 
 * [Akka Toolkit](http://akka.io/) - JVM 上分布式和容错事件驱动应用程序的运行时.
-* [Apache Avro](http://avro.apache.org/) - 数据序列化系统.
+* [Apache Avro](http://avro.apache.org/) - data serialization system.
 * [Apache Curator](http://curator.apache.org/) - Apache ZooKeeper 的 Java 库.
 * [Apache Karaf](http://karaf.apache.org/) - 在任何 OSGi 框架之上运行的 OSGi 运行时.
 * [Apache Thrift](http://thrift.apache.org//) - 构建二进制协议的框架.
@@ -398,7 +399,7 @@
 * [MOA](http://moa.cms.waikato.ac.nz) - MOA实时进行大数据流挖掘，大规模机器学习.
 * [MonkeyLearn](https://monkeylearn.com/)  - 文本挖掘变得容易. 从文本中提取和分类数据.
 * [ND4J](https://github.com/deeplearning4j/nd4j)  - JVM 的矩阵库. 用于 Java 的 Numpy. 
-* [nupic](https://github.com/numenta/nupic) - Numenta 智能计算平台：一个类脑机器智能平台，以及基于皮层学习算法的生物学精确神经网络.
+* [nupic](https://github.com/numenta/nupic) - Numenta 智能计算平台：仿脑机器智能平台，以及基于皮层学习算法的生物学精确神经网络.
 * [PredictionIO](http://predictionio.incubator.apache.org/index.html) - 基于 Hadoop、Mahout 和 Cascading 的机器学习服务器.
 * [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - PyTorch Geometric 的时间扩展库.
 * [RL4J](https://github.com/deeplearning4j/rl4j)  - Java 和 Scala 的强化学习. 包括 Deep-Q 学习和 A3C 算法，并与 Open AI 的 Gym 集成. 在 Deeplearning4j 生态系统中运行. 
@@ -423,6 +424,7 @@
 * [PUMA Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-5116) - MapReduce 应用程序的基准套件.
 * [Yahoo Gridmix3](http://yahoohadoop.tumblr.com/post/98294079296/gridmix3-emulating-production-workload-for) - 来自雅虎工程师团队的 Hadoop 集群基准测试.
 * [Deeplearning4j Benchmarks](https://github.com/deeplearning4j/dl4j-benchmark)
+* [UCSB](https://github.com/unum-cloud/ucsb) - 针对 NoSQL 数据库的扩展 Yahoo Cloud Serving Benchmark.
 
 ## Security
 * [Apache Ranger](http://ranger.apache.org/) - 中央安全管理员和 Hadoop 的细粒度授权
@@ -483,6 +485,7 @@
 * [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - Spark 的 R 前端.
 * [Splunk](https://www.splunk.com/) - 机器生成数据的分析器.
 * [Sumo Logic](https://www.sumologic.com/) - 基于云的机器生成数据分析器.
+* [Substation](https://github.com/brexhq/substation) - Substation 是一个用 Go 编写的云原生数据管道和转换工具包.
 * [Talend](http://www.talend.com/products/big-data/) - YARN、Hadoop、HBASE、Hive、HCatalog 和 Pig 的统一开源环境.
 
 ## Search engine and framework
@@ -495,7 +498,7 @@
 * [Google Caffeine](https://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html) - 连续索引系统.
 * [Google Percolator](https://research.google.com/pubs/pub36726.html) - 连续索引系统.
 * [HBase Coprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) - 实施 Percolator，HBase 的一部分.
-* [LinkedIn Bobo](http://senseidb.github.io/bobo/) - 是一个完全用 Java 编写的分面搜索实现，是 Apache Lucene 的扩展.
+* [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) - 是一个灵活的软件库，用于快速开发部分、乱序和实时预输入搜索.
 * [LinkedIn Galene](https://engineering.linkedin.com/search/did-you-mean-galene) - LinkedIn 的搜索架构.
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) - 是一个用 Java 编写的实时搜索/索引系统.
@@ -578,9 +581,9 @@
 * [Airpal](https://github.com/airbnb/airpal) - PrestoDB 的网页用户界面.
 * [AnyChart](http://www.anychart.com) - 具有纯 JS API 的快速、简单和灵活的 JavaScript (HTML5) 图表库.
 * [Arbor](https://github.com/samizdatco/arbor) - 使用网络工作者和 jQuery 的图形可视化库.
-* [Banana](https://github.com/LucidWorks/banana)  - 可视化存储在 Solr 中的日志和带时间戳的数据. 基巴纳港.
+* [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 * [Bloomery](https://github.com/ufukomer/bloomery) - Impala 的网页用户界面.
-* [Bokeh](http://bokeh.pydata.org/en/latest/) - 一个强大的 Python 交互式可视化库，以现代 Web 浏览器为目标进行演示，目标是提供优雅、简洁的 D3.js 风格的新颖图形构造，同时还提供这种功能，在超大或流媒体上具有高性能交互性数据集.
+* [Bokeh](http://bokeh.pydata.org/en/latest/) - 一个强大的 Python 交互式可视化库，以现代 Web 浏览器为目标进行演示，目标是提供优雅、简洁的 D3.js 风格的新颖图形构造，同时也提供这种能力，在超大或流媒体上提供高性能交互数据集.
 * [C3](http://c3js.org/) - 基于 D3 的可重用图表库
 * [CartoDB](https://github.com/CartoDB/cartodb) - 具有强大的前端编辑功能和强大的 API 的地理空间数据库的开源或免费增值托管.
 * [chartd](http://chartd.co/) - 响应迅速、与视网膜兼容的图表，只有一个 img 标签.
@@ -627,7 +630,7 @@
 * [DataSphere Studio](https://github.com/WeBankFinTech/DataSphereStudio) - 一站式数据应用开发管理门户.
 
 ## Internet of things and sensor data
-* [Apache Edgent (Incubating)](http://edgent.apache.org/) - 可以嵌入网关和小型边缘设备的编程模型和微内核风格的运行时，支持在边缘设备上进行本地实时分析.
+* [Apache Edgent (Incubating)](http://edgent.apache.org/) - 可以嵌入网关和小型边缘设备的编程模型和微内核样式运行时，支持在边缘设备上进行本地实时分析.
 * [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - 基于云的双向监控和消息中心
 * [TempoIQ](https://www.tempoiq.com/) - 基于云的传感器分析.
 * [2lemetry](http://2lemetry.com/) - 物联网平台.
@@ -635,7 +638,7 @@
 * [ThingWorx](https://www.thingworx.com/) - 智能系统的快速开发和连接
 * [IFTTT](https://ifttt.com/) - 如果这样那么那样
 * [Evrything](https://evrythng.com/)- 使产品智能化
-* [NetLytics](https://github.com/marty90/netlytics/) - 在 Spark 上处理网络数据的分析平台.
+* [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 * [Ably](https://ably.com/) - 用于物联网的发布/订阅消息传递平台 
 
 ## Interesting Readings
@@ -667,7 +670,7 @@
 用于 Twitter 的数据分析.
 * [2012](https://www.usenix.org/system/files/login/articles/zaharia.pdf) - **AMPLab** - 使用 Spark 对 Hadoop 数据进行快速交互式分析.
 * [2012](https://www.usenix.org/legacy/event/nsdi11/tech/full_papers/Bolosky.pdf) - **Microsoft** - Paxos 复制状态机作为高性能数据存储的基础.
-* [2012](http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf) - **微软** - Paxos 并行.
+* [2012](http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf) - **微软** - Paxos 并行化.
 * [2012](https://arxiv.org/pdf/1203.5485.pdf) - **AMPLab** - BlinkDB：​​对非常大的数据进行有界错误和有界响应时间的查询.
 * [2012](http://vldb.org/pvldb/vol5/p1436_alexanderhall_vldb2012.pdf) - **Google** - 每次鼠标点击处理一万亿个细胞.
 
@@ -677,7 +680,7 @@
 * [2010](http://kowshik.github.io/JPregel/pregel_paper.pdf) - **Google** - Pregel：大规模图形处理系统.
 * [2010](http://leoneu.github.io/) - **Yahoo** - S4：分布式流计算平台.
 * [2009](http://www.cs.umd.edu/~abadi/papers/hadoopdb.pdf) - HadoopDB：用于分析工作负载的 MapReduce 和 DBMS 技术的架构混合体.	
-* [2008](https://cwiki.apache.org/confluence/download/attachments/120729877/chukwa_cca08.pdf?version=1&modificationDate=1562667399000&api=v2) - **AMPLab** - Chukwa: A large-scale monitoring system.
+* [2008](https://cwiki.apache.org/confluence/download/attachments/120729877/chukwa_cca08.pdf?version=1&modificationDate=1562667399000&api=v2) - **AMPLab** - Chukwa：大型监控系统.
 * [2007](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - **Amazon** - Dynamo：Amazon 的高可用性键值存储.
 
 ## Videos
@@ -726,7 +729,7 @@
 - 分析 [awesome-analytics](https://github.com/onurakpolat/awesome-analytics).
 - 公共数据集 [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets).
 - 图分类 [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification).
-- Network Embedding [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
+- 网络嵌入 [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding).
 - 社区检测 [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection).
 - 决策树论文 [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
 - 欺诈检测论文 [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
