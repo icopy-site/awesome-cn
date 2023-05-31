@@ -64,6 +64,8 @@
 - [Inline Form Interface](https://github.com/hanneskuettner/directus-extension-inline-form-interface) - 以父记录中包含的内联形式编辑 M2O 关系.
 - [Tab Group Interface](https://github.com/hanneskuettner/directus-extension-group-tabs-interface) - 将组显示为选项卡面板，作为手风琴组的一种漂亮、节省空间的替代方案.
 - [Woodpecker Build Status](https://github.com/sguter90/directus-extension-woodpecker-build-status) - 添加状态栏 [Woodpecker](https://woodpecker-ci.org/) 管道构建状态到 Direct UI.
+- [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) - 挂钩文件上传以自动标记图像 [Imagga API](https://imagga.com/).
+- [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) - Tiptap 富文本编辑器界面和显示.
 
 ## Articles
 
