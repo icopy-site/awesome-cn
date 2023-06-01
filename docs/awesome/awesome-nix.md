@@ -14,18 +14,20 @@
 ### Learning
 
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - 就像 Let&#39;s Play，但用于晦涩的软件文档.
+* [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - 使用 Nix 功能、Flakes 和使用 Nix 进行开发的现代速成课程.
 * [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/justinwoo/nix-shorts/) - 关于 Nix 的简短笔记集.
 * [nix.dev](https://nix.dev/) - 针对开发人员使用 Nix 生态系统完成工作的自以为是的指南.
 * [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线交互式教程.
+* [Zero to Nix](https://zero-to-nix.com/) - 以 flake 为中心的 Nix 指南及其由 Determinate Systems 创建的概念，旨在帮助初学者快速上手.
 
 ### Discovery
 
 * [Hound](https://search.nix.gsc.io) - 轻松搜索所有或选定的 Nix 相关存储库.
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - 查找频道中可用的软件包的所有版本以及您可以从中下载它的修订版.
 * [Noogle](https://noogle.dev/) - Nix API 搜索引擎允许根据类型和其他属性搜索函数.
-* [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 包的数据库.
+* [Pkgs on Nix](https://pkgs.on-nix.com/) - A database with Nix packages at all versions, from all channels.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - 搜索所有 2000 多个 Home Manager 选项并阅读如何使用它们.
 
 ### Newsletters
@@ -185,7 +187,7 @@
 * [naersk](https://github.com/nmattia/naersk)  - 直接从 `Cargo.lock` 构建 Rust 包. 无需转换步骤.
 * [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - 一个允许轻松轻松地集成 Cargo 项目的库.
 * [nixpkgs-mozilla](https://github.com/mozilla/nixpkgs-mozilla) - Mozilla 与 Rust 工具链和 Firefox 的叠加.
-* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+* [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - 为 Rust 项目生成 Nix 构建和开发文件.
 * [rust-overlay](https://github.com/oxalica/rust-overlay) - 二进制分布式 Rust 工具链的纯粹且可重现的 nix 覆盖.
 
 ### Scala

@@ -6,7 +6,7 @@
   <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>
 </div>
 
-&gt; 棋盘游戏是在桌面上玩的，通常结合策略、技巧和运气，是与朋友和爱人消磨时光的好方法.
+&gt; 棋盘游戏是在桌面上玩的，通常结合策略、技巧和运气，是与朋友和爱人消磨时间的好方法.
 
 
 
@@ -26,7 +26,7 @@
 
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
- &gt; Balduin，房子的幽灵，在城堡的地窖里发现了一台旧相机. 当他出没时，他立即拍摄了他喜欢让一切消失的一切——当然包括他自己. 不幸的是，魔法相机拍下了许多颜色错误的照片. 有时绿色瓶子是白色的，有时是蓝色的. 看着这些照片，Balduin 已经不记得他接下来想让什么消失了. 你能帮他解决困扰并快速命名正确的项目，甚至自己让它消失吗？ 如果你快速抓住正确的物品，你就有很大的机会获胜......
+ &gt; Balduin，房子的幽灵，在城堡的地窖里发现了一台旧相机. 当他出没时，他立即拍摄了他喜欢让一切消失的一切——当然包括他自己. 不幸的是，魔法相机拍下了许多颜色错误的照片. 有时绿色瓶子是白色的，有时是蓝色的. 看着这些照片，Balduin 真的不记得他接下来想让什么消失了. 你能帮他解决困扰并快速命名正确的项目，甚至自己让它消失吗？ 如果你快速抓住正确的物品，你就有很大的机会获胜......
 
 ![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
 
@@ -46,7 +46,7 @@
 
 ### [Pandemic](https://wikipedia.org/wiki/Pandemic_(board_game))
 
- &gt; 你能在这个致命病毒在全球蔓延的合作游戏中拯救人类吗？ 你们将一起治疗疾病，分享知识，飞遍全球，预防疫情，减缓疫情.
+ &gt; 你能在这个致命病毒在全球蔓延的合作游戏中拯救人类吗？ 你们将一起治疗疾病，分享知识，飞越世界各地，预防疫情，减缓疫情.
 
 ![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
 
@@ -170,7 +170,7 @@
 
 ### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
 
- &gt; 滑动、碰撞并得分，赢得 Sorry 游戏！ 抽牌以查看您将棋盘上的一个棋子移动多远. 如果您降落在滑梯上，您可以滑到尽头并撞到对手的棋子或您自己的棋子！
+ &gt; 滑动、碰撞并得分，赢得 Sorry 游戏！ 抽牌以查看您将棋盘上的一个棋子移动多远. 如果您落在滑梯上，您可以滑到尽头并撞到对手的棋子或您自己的棋子！
 
 ![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
 
@@ -210,7 +210,7 @@
 
 ### [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido)
 
- &gt; 在东海道，每位玩家都是穿越日本最宏伟道路之一“东海路”的旅人. 旅行时，你会遇到人，品尝美味佳肴，收集精美物品，发现美丽的全景，参观寺庙和野外，但在一天结束时，当每个人都到达路的尽头时，你将不得不最主动的旅行者——这意味着您必须是发现最有趣和最多样化事物的人.  Tokaido 中的所有动作都非常简单，结合独特的图形设计，Tokaido 为玩家提供了一种平静的禅意.
+ &gt; 在东海道，每位玩家都是穿越日本最宏伟道路之一“东海路”的旅人. 旅行时，你会遇到人，品尝美食，收集美丽的物品，发现美丽的全景，参观寺庙和野外，但在一天结束时，当每个人都到达路的尽头时，你将不得不最主动的旅行者——这意味着您必须是发现最有趣和最多样化事物的人.  Tokaido 中的所有动作都非常简单，结合独特的图形设计，Tokaido 为玩家提供了一种平静的禅意.
 
 ![Tokaido Image](https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png)
 
@@ -337,7 +337,7 @@
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
- &gt; Antike Duellum——在 2011 年 Spiel 上以 Casus Belli 的名义预览——是一款基于 Mac Gerdts 的 Antike 修改规则的双人战略游戏. 游戏包括两个场景：布匿战争（罗马对迦太基）在棋盘的一侧，波斯战争（希腊人对波斯人）在另一侧. 游戏的目标是成为第一个获得九个古代人物（国王，学者，将军，公民，航海家）的人.
+ &gt; Antike Duellum——在 2011 年 Spiel 游戏展上预演，名为 Casus Belli——是一款基于 Mac Gerdts 的 Antike 修改规则的双人战略游戏. 游戏包括两个场景：布匿战争（罗马对迦太基）在棋盘的一侧，波斯战争（希腊人对波斯人）在另一侧. 游戏的目标是成为第一个获得九个古代人物（国王，学者，将军，公民，航海家）的人.
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
@@ -399,7 +399,7 @@
 
 ### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
- &gt; Anachrony 是一款竞争激烈的欧洲风格策略游戏，背景设定在沿着四种不同的意识形态路径重建的后世界末日世界中. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四大道路的标志性领袖角色，不仅要为人民的至高无上和福祉而奋斗，还要为他们的生存而奋斗. 第四纪元之后，一颗小行星撞击地球，地球最后一座独立城市世界之都面临着毁灭性的威胁.  Paths 应该为即将到来的灾难做好准备，并在时机成熟时参与撤离崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
+ &gt; Anachrony 是一款竞争激烈的欧洲风格策略游戏，背景设定在沿着四种不同的意识形态路径重建的后世界末日世界中. 游戏通过一系列称为 Eras 的回合进行，过去的回合可以在游戏后期通过时间旅行到达. 玩家扮演四大道路的标志性领袖角色，不仅要为人民的至高无上和福祉而奋斗，还要为他们的生存而奋斗. 第四纪元之后，一颗小行星撞击地球，地球最后一座独立城市世界之都面临着毁灭性的威胁.  Paths 应该为即将到来的灾难做好准备，并在时机成熟时参与撤离正在崩溃的首都. 最终，其中一条道路将成为改革后的世界理事会的新家，引领人类走向新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -459,7 +459,7 @@
 
 ### [Commonspoly](https://commonspoly.cc/)
 
- &gt; Commonspoly 是一款有趣的策略和回合制 RPG 游戏，游戏中的玩家共同努力保卫他们的世界免遭投机者接管. 该游戏与 Monopoly 游戏中的操作完全相反. 因为在 Commonspoly 中，拥有私有物品是不受欢迎的，将私有物品转换为公共物品或社区物品将是玩家的任务. 这个游戏真的很有趣，因为它是一个对抗善恶的坑，游戏中的投机者角色描绘了邪恶. 投机者绕过游戏并试图破坏防御者的努力. 此外，该游戏是根据同行生产许可证发布的，可以免费下载并打印在家玩.
+ &gt; Commonspoly 是一款有趣的策略和回合制 RPG 游戏，游戏中的玩家共同努力保卫他们的世界不被投机者接管. 该游戏与 Monopoly 游戏中的操作完全相反. 因为在 Commonspoly 中，拥有私有物品是不受欢迎的，将私有物品转换为公共物品或社区物品将是玩家的任务. 这个游戏真的很有趣，因为它是一个对抗善恶的坑，游戏中的投机者角色描绘了邪恶. 投机者绕过游戏并试图破坏防御者的努力. 此外，该游戏是根据同行生产许可证发布的，可以免费下载并打印在家玩.
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
@@ -499,7 +499,7 @@
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
- &gt; Connect Four 是一款两人连线游戏，玩家首先选择一种颜色，然后轮流从顶部将一个彩色圆盘放入七列六行的垂直悬挂网格中. 棋子直接落下，占据了列内最低的可用空间. 游戏的目标是成为第一个将自己的四个棋子形成水平、垂直或对角线的人.  Connect Four 是一款解谜游戏. 第一个玩家总是可以通过正确的动作获胜.
+ &gt; Connect Four 是一款两人连线游戏，玩家首先选择一种颜色，然后轮流从顶部将一个彩色圆盘放入七列六行的垂直悬挂网格中. 棋子直接落下，占据了列内最低的可用空间. 游戏的目标是成为第一个将自己的四个棋子形成水平、垂直或对角线的人.  Connect Four 是一款已解决的游戏. 第一个玩家总是可以通过正确的动作获胜.
 
 ![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
 
@@ -530,7 +530,7 @@
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
-&gt; Persian Wars 是一款卡牌驱动的战争游戏，描绘了从公元前 494 年到公元前 466 年的希腊-波斯冲突雅典人 Xanthippus、Miltiades 和 Themistocles 以及斯巴达人、Leonidas 和 Pausanias.
+&gt; 波斯战争是一款卡牌驱动的战争游戏，描绘了公元前 494 年至公元前 466 年的希腊-波斯冲突.雅典人 Xanthippus、Miltiades 和 Themistocles 以及斯巴达人、Leonidas 和 Pausanias.
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
@@ -600,7 +600,7 @@
 
 ### [The Estates](https://boardgamegeek.com/boardgame/249381/estates)
 
- &gt; 玩家扮演投资者的角色，寻求通过开发 The Estates 的建筑物来赚取最多的钱.  The Estates 是一个新的城市开发项目，以高端基础设施和为市民营造的现代氛围为特色. 市议会最近批准了 The Estates 的分区图. 它需要两排，每排四栋建筑，位于河流和主街之间. 河对岸的草地将继续作为城市的休闲区. 玩家将竞标各种建筑部件，并将它们放置在 The Estates 中以对他们有利. 已完成行中的所有建筑物均获得正分，而未完成行中的所有建筑物均获得负分. 建筑物的完整行数可能为零. 最后，得分最高的玩家赢得庄园！
+ &gt; 玩家扮演投资者的角色，寻求通过在 The Estates 开发建筑物来赚取最多的钱.  The Estates 是一个新的城市开发项目，以高端基础设施和为市民营造的现代氛围为特色. 市议会最近批准了 The Estates 的分区图. 它需要两排，每排四栋建筑，位于河流和主街之间. 河对岸的草地将继续作为城市的休闲区. 玩家将竞标各种建筑部件，并将它们放置在 The Estates 中以对他们有利. 已完成行中的所有建筑物均获得正分，而未完成行中的所有建筑物均获得负分. 建筑物的完整行数可能为零. 最后，得分最高的玩家赢得 The Estates！
 
 ![The Estates image](https://cf.geekdo-images.com/AvC3AzHo8JlcvgKtQ3PDWA__itemrep/img/fKXzvy-mkwqrTORbPC-aNLB_ei8=/fit-in/246x300/filters:strip_icc()/pic4071903.jpg)
 
@@ -610,7 +610,7 @@
  |  2 - 5 |  10 |  40-60米 |
 ### [Telepathy](https://boardgamegeek.com/boardgame/40182/telepathy)
 
- &gt; 在这个推理、逻辑和直觉相结合的解谜挑战中，玩家们正面交锋，看看谁能第一个猜出对手的秘密方块. 每一个行动回合都会让您离找到隐藏的古老符号更近一步. 但是要小心； 你的对手可能比你想象的更接近解决你的秘密广场！  Telepathy 棋盘游戏是一款出色的逻辑构建工具，非常适合教育工作者和解谜者等. 如果您喜欢数独、Mastermind 或 Battleship，这款游戏适合您.
+ &gt; 在这个推理、逻辑和直觉的解谜挑战中，玩家们将展开正面交锋，看看谁能第一个猜出对手的秘密方块. 每一个行动回合都会让您离找到隐藏的古老符号更近一步. 但是要小心； 你的对手可能比你想象的更接近解决你的秘密广场！  Telepathy 棋盘游戏是一款出色的逻辑构建工具，非常适合教育工作者和解谜者等. 如果您喜欢数独、Mastermind 或 Battleship，这款游戏适合您.
 
 ![Telepathy Image](https://cf.geekdo-images.com/HUrpAkrqZVwcjN8HXzaZaQ__itemrep/img/glE42FIgi4qCUEiDZxT_qJ1Vckk=/fit-in/246x300/filters:strip_icc\(\)/pic5283740.jpg)
 
@@ -702,7 +702,7 @@
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
 
- &gt; 作为一个团队，从最近被谋杀的鬼魂那里得到消息，以解决这个协作侦探单元中的谋杀案. 对于初学者和有经验的玩家来说，每场比赛都同样容易玩到新的东西.
+ &gt; 作为一个团队，从最近被谋杀的鬼魂那里得到消息，以解决这个协作侦探单元中的谋杀案. 对于初学者和经验丰富的游戏玩家来说，每场比赛都同样容易玩到新的东西.
 
 ![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
 
@@ -722,7 +722,7 @@
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
- &gt; 在不久的将来，政府将由跨国公司 CEO 组成的新“皇室阶层”以营利为目的运作.  ... 要取得成功，您必须摧毁对手的影响力并将他们驱逐出境. 在这个动荡的时代，只有一个人可以生存.
+ &gt; 在不久的将来，政府将由跨国公司 CEO 组成的新“皇室阶层”以营利为目的运作.  ... 要想成功，您必须摧毁对手的影响力并将他们驱逐出境. 在这个动荡的时代，只有一个人可以生存.
 
 ![Coup game image](https://cf.geekdo-images.com/iwjc_79Aqz3lMb6orn7XhDplgKc=/fit-in/246x300/pic2016054.jpg)
 
@@ -943,7 +943,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
 
-### [SuperFight](https://www.superfightgame.com/)
+### [SuperFight](https://boardgamegeek.com/boardgame/139443/superfight)
 
 > A game of absurd arguments
 
@@ -1099,7 +1099,7 @@
 
 ### [Noir](https://boardgamegeek.com/boardgame/242483/noir)
 
- &gt; Noir 是一种“结局”游戏，每轮只持续几分钟.  “结局机制”是一种特殊类型的叙事游戏，故事事件的关键元素由游戏决定，然后玩家必须以最有创意的方式将它们编织在一起.
+ &gt; Noir 是一种“结局”游戏，每轮只持续几分钟.  “结局机制”是一种特殊类型的讲故事游戏，故事事件的关键元素由游戏决定，然后玩家必须以最有创意的方式将它们编织在一起.
  &gt; Noir 充满了冷酷的蛇蝎美人、胶鞋侦探、卑鄙的黑帮和冷酷的杀手. 该剧讲述的故事时而阴暗、时而滑稽、时而富有创意，时而令人难忘.
 &gt; 在痛苦的结局中，最好的游戏结局获胜！
 
@@ -1111,7 +1111,7 @@
 
 ### [The Game of Life](https://en.wikipedia.org/wiki/The_Game_of_Life)
 
- &gt; 开启一段充满冒险、家庭、意想不到的惊喜和宠物的过山车生活！ 想走家族的道路，开始职业生涯，还是冒险走上冒险的道路？ 在这个游戏中，玩家可以在人生的曲折中做出自己激动人心的选择. 在游戏板上移动汽车标记，从 Start 到 Retirement，体验与家庭、事业和其他人生里程碑相关的意想不到的惊喜. 玩家可以在此版本的 The Game of Life 游戏中收养宠物. 游戏结束时钱最多的玩家获胜！
+ &gt; 开启一段充满冒险、家庭、意想不到的惊喜和宠物的过山车生活！ 想走家族的道路，开始职业生涯，还是冒险走上冒险的道路？ 在这个游戏中，玩家可以在人生的曲折中做出自己激动人心的选择. 在游戏板上移动汽车标记，从 Start 到 Retirement，体验与家庭、事业和其他人生里程碑相关的意想不到的惊喜. 玩家可以在此版本的 The Game of Life 游戏中领养宠物. 游戏结束时钱最多的玩家获胜！
 &gt; 需要成人组装.
 &gt; 这款棋盘游戏还有数字应用程序版本.
 
@@ -1196,7 +1196,7 @@
 
  | 球员 | 分钟年龄 | 时间 |
 |--------:|---------:|-------:|
- |  2 - 6 |  10 |  20-40米 
+ |  2 - 6 |  10 |  20-40m 
 
 ### [Muse](https://boardgamegeek.com/boardgame/234396/muse)
 

@@ -163,6 +163,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) - deno 的 Dotenv 处理.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) - 从 .env 为 Deno 项目加载环境变量.
+- [deno-envconfig](https://github.com/fernandolguevara/deno-envconfig) - 配置管理实用程序.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - 一个极其简单的 JavaScript 解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) - globrex 到 deno 的端口，glob 到正则表达式的端口.
 - [deno_notify](https://github.com/PandawanFr/deno_notify) - 在所有平台上发送桌面通知.
@@ -329,7 +330,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ## Integrations
 
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
-- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流程.
+- [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions 是服务器端的 TypeScript 函数，分布在全球边缘.
 - [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端呈现的 Astro 站点部署到 Deno Deploy.
 
@@ -378,7 +379,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 - [Bert Belder - Deno - dotJS 2019](https://www.youtube.com/watch?v=puXyo1jGQys)
 - [Kitson P. Kelly - Deno, and The Future of JavaScript Runtimes - CityJS Conf 2020](https://www.youtube.com/watch?v=2eRyZpX4qvI)
-- [Matías Insaurralde - Deno：V8 互操作性的实验方法 [EN 字幕] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
+- [Matías Insaurralde - Deno：一种关于 V8 互操作性的实验方法 [EN 字幕] - NodeConf Argentina 2019](https://www.youtube.com/watch?v=N0BRE-0n2cU)
   - [Slides](https://speakerdeck.com/matiasinsaurralde/deno-an-experimental-approach-on-v8-interoperability)
 
 ## Resources

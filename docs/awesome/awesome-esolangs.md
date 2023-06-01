@@ -27,6 +27,7 @@
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) - 看起来像烹饪食谱的程序.
 * [Chicken](https://esolangs.org/wiki/Chicken) - 只有 1 个有效符号：“鸡”.
 * [ChuckScript](https://github.com/angrykoala/chuckscript) - 基于一元的语言，其中代码是单个数字.
+* [COW](https://esolangs.org/wiki/COW) - Brainfuck 变体使用 *moos* 的十二种变体作为说明.
 * [DNA#](https://esolangs.org/wiki/DNA-Sharp) - 基于 DNA 结构的语言.
 * [Dots](https://github.com/josconno/dots)  - 使用“.”的图灵完备语言仅符号.
 * [Electra](https://github.com/DolphyWind/Electra-Lang) - 像电工一样编码.
@@ -48,7 +49,7 @@
 * [LolCode](http://lolcode.org) - 带有基于 lolcat 模因表达式的关键字的语言.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - 以第 8 层地狱命名，设计为尽可能难以编程.
 * [Monicelli](https://github.com/esseks/monicelli) - 使用类似意大利语的胡言乱语进行编程.
-* [Ni](https://github.com/DeybisMelendez/ni) - 以 Brainfuck 为基础，提供更多有用的说明.
+* [Ni](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - 类似于 Internet 俚语的语法.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - 基于 Brainfuck 的语言，其中的命令是猩猩的话.
 * [Orca](https://hundredrabbits.itch.io/orca) - 用于快速创建程序音频音序器的实时编码环境.
@@ -103,7 +104,7 @@
 
 ## Articles
 
-* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - Series of articles explaining the basics of compilers and interpreters and how to build one.
+* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - 解释编译器和解释器基础知识以及如何构建它们的系列文章.
 * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) - Yevgeniy Brikman 的帖子描述了不常用的不同编程范例.
 * [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) - 通过示例直接介绍深奥的语言.
 * [On the Turing Completeness Of MS PowerPoint](http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf) - PowerPoint 上的图灵机.

@@ -2,7 +2,7 @@
 <!--lint ignore awesome-github-->
 ## Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-网络存档是收集部分万维网的过程，以确保信息保存在档案中，供未来的研究人员、历史学家和公众使用. 由于网络规模庞大，网络档案管理员通常会使用网络爬虫进行自动捕获. 不断发展的 Web 标准要求归档工具不断发展以跟上 Web 技术的变化，以确保可靠和有意义地捕获和重放归档网页.
+网络存档是收集部分万维网的过程，以确保信息保存在档案中，供未来的研究人员、历史学家和公众使用. 由于网络规模庞大，网络档案管理员通常会使用网络爬虫进行自动捕获. 不断发展的 Web 标准要求归档工具不断发展以跟上 Web 技术的变化，以确保可靠和有意义的捕获和重放归档网页.
 
 
 
@@ -13,10 +13,10 @@
   * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) - 来自的视频 [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 存档生命周期模型试图将 Web 存档的技术和程序化武器合并到一个框架中，该框架将与任何寻求从 Web 存档内容的组织相关.  Archive-It 是 Internet Archive 的网络存档服务，它在与世界各地的记忆机构合作的基础上开发了该模型.
+  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - Web 存档生命周期模型试图将 Web 存档的技术和程序化武器合并到一个框架中，该框架将与任何寻求从 Web 存档内容的组织相关.  Archive-It 是 Internet Archive 的 Web 存档服务，它在与世界各地的记忆机构合作的基础上开发了该模型.
   * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
   * [UNT Web Archiving Course 2022](https://github.com/vphill/web-archiving-course)
-  * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/) 
+  * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
 * WARC 标准：
   * 这 [warc-specifications](https://iipc.github.io/warc-specifications/) 官方规范和新提案中心的社区 HTML 版本.
   * 这 [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
@@ -42,10 +42,10 @@
 ### Acquisition
 
 * [ArchiveBox](https://github.com/pirate/ArchiveBox)  - 一种使用 wget、Chrome headless 和其他方法（以前称为“Bookmark Archiver”）维护来自 RSS 提要、书签和链接的附加存档的工具.  *（开发中）*
-* [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
+* [archivenow](https://github.com/oduwsdl/archivenow) - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) 将网络资源推送到点播网络档案中.  *（稳定的）*
 * [ArchiveWeb.Page](https://archiveweb.page)  - 适用于 Chrome 和其他基于 Chromium 的浏览器的插件，可让您以交互方式存档网页、重播它们并将它们导出为 WARC 数据. 也可用作基于 Electron 的桌面应用程序.
 * [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - 基于 Chrome 的高保真爬行系统，旨在在单个 Docker 容器中运行复杂的、可定制的基于浏览器的爬行.
-* [Brozzler](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
+* [Brozzler](https://github.com/internetarchive/brozzler)  - 使用真实浏览器（Chrome 或 Chromium）获取页面和嵌入式 URL 并提取链接的分布式网络爬虫（爬虫）.  *（稳定的）*
 * [Cairn](https://github.com/wabarc/cairn)  - 用于保存网页的 npm 包和 CLI 工具.  *（稳定的）*
 * [Chronicler](https://github.com/CGamesPlay/chronicler)  - 具有记录和重播功能的网络浏览器.  *（开发中）*
 * [crau](https://github.com/turicas/crau)  - crau 是（大多数）巴西人发音 crawl 的方式，它是用于存档 Web 和播放存档的最简单的命令行工具：您只需要一个 URL 列表.  *（稳定的）*
@@ -64,7 +64,7 @@
 * [Obelisk](https://github.com/go-shiori/obelisk)  - 用于将网页保存为单个 HTML 文件的 Go 包和 CLI 工具.  *（稳定的）*
 * [Scoop](https://github.com/harvard-lil/scoop)  - 高保真、基于浏览器的单页 Web 存档库和用于见证 Web 的 CLI.  *（稳定的）*
 * [SingleFile](https://github.com/gildas-lormeau/SingleFile)  - Firefox/Chrome 的浏览器扩展和 CLI 工具，用于将完整页面的忠实副本保存为单个 HTML 文件.  *（稳定的）*
-* [SiteStory](http://mementoweb.github.com/SiteStory/)  - 有选择地捕获和存储 Web 客户端（浏览器）和 Web 服务器之间发生的事务的事务存档.  *（稳定的）*
+* [SiteStory](http://mementoweb.github.com/SiteStory/)  - 有选择地捕获和存储发生在 Web 客户端（浏览器）和 Web 服务器之间的事务的事务存档.  *（稳定的）*
 * [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/)  - 开源软件，使用户能够从 Twitter、Tumblr、Flickr 和新浪微博公共 API 创建社交媒体收藏.  *（稳定的）*
 * [Squidwarc](https://github.com/N0taN3rd/Squidwarc) - 一个 [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) 直接使用 Chrome 或 Chrome Headless 的档案爬虫.  *（开发中）*
 * [StormCrawler](http://stormcrawler.net/)  - 用于在 Apache Storm 上构建低延迟、可扩展网络爬虫的资源集合.  *（稳定的）*
@@ -95,8 +95,9 @@
 ### Search & Discovery
 
 * [Mink](https://github.com/machawk1/mink) - A [Google Chrome](https://www.google.com/intl/en/chrome/) 在浏览和集成实时存档的 Web 导航时查询 Memento 聚合器的扩展.  *（稳定的）*
+<!--lint ignore double-link-->
 * [playback](https://github.com/wabarc/playback) - 用于搜索存档网页的工具包 [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) 超越.  *（开发中）*
-* [SecurityTrails](https://securitytrails.com/)  - WHOIS 和 DNS 记录的基于 Web 的存档.  REST API 免费提供. 
+* [SecurityTrails](https://securitytrails.com/)  - WHOIS 和 DNS 记录的基于 Web 的存档.  REST API 免费提供.
 * [Tempas v1](http://tempas.L3S.de/v1) - 基于时间网络档案搜索 [Delicious](https://en.wikipedia.org/wiki/Delicious_(website) ) 标签.  *（稳定的）*
 * [Tempas v2](http://tempas.L3S.de/v2) - 基于 1996 年至 2013 年从德国网络中提取的链接和锚文本的时间网络档案搜索（结果不限于德国网页，例如， [Obama@2005-2009 in Tempas](http://tempas.l3s.de/v2/query?q=obama&from=2005&to=2009) ).  *（稳定的）*
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery)  - WARC 和 ARC 全文索引和发现工具，以及一些能够使用如下所示索引的相关工具.  *（稳定的）*
@@ -109,6 +110,8 @@
 ### Utilities
 
 * [ArchiveTools](https://github.com/recrm/ArchiveTools) - 用于提取 WARC 文件并与之交互的工具集合 (Python).
+<!--lint ignore double-link-->
+* [Go Get Crawl](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) 和 [Common Crawl](https://commoncrawl.org/) .  *（稳定的）*
 * [gowarcserver](https://github.com/nlnwa/gowarcserver) - [BadgerDB](https://github.com/dgraph-io/badger)基于捕获索引 (CDX) 和 WARC 记录服务器，用于索引和提供 WARC 文件 (Go).
 * [har2warc](https://github.com/webrecorder/har2warc) - 转换 HTTP 存档 (HAR) -&gt; Web 存档 (WARC) 格式 (Python).
 * [httpreserve.info](http://httpreserve.info/)  - 返回网页状态或将其保存到 Internet Archive 的服务. 使用 GET（Golang 包）通过 CURL 通过浏览器或命令行返回 JSON.  *（稳定的）*
@@ -147,7 +150,7 @@
 * [Archives Research Compute Hub](https://github.com/internetarchive/arch)  - 用于对 Archive-It 网络档案馆藏进行分布式计算分析的网络应用程序.  *（稳定的）*
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark)  - 用于 Web Archives 的 Apache Spark 框架（不仅如此），可轻松进行数据处理、提取和派生.  *（稳定的）*
 * [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks)  - 用于使用 Archives Unleashed Toolkit 处理网络档案的笔记本，以及 Archives Unleashed Toolkit 生成的衍生产品.  *（稳定的）*
-* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut)  - Archives Unleashed Toolkit (AUT) 是一个开源平台，用于使用 Apache Spark 分析 Web 档案.  *（稳定的）*
+* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
 * [Tweet Archvies Unleashed Toolkit](https://github.com/archivesunleashed/twut)  - 一个开源工具包，用于使用 Apache Spark 分析面向行的 JSON Twitter 档案.  *（开发中）*
 
 ### Quality Assurance

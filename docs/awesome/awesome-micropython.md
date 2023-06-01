@@ -35,7 +35,7 @@
 
 * [uMath](https://github.com/albaEDA/uMath) - 微控制器的计算机代数.
 * [micropython-ulab](https://github.com/v923z/micropython-ulab) - 用于 MicroPython 的类似 NumPy 的快速矢量模块.
-* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - MicroPython 的内联 ARM 汇编器中的快速傅里叶变换.
+* [micropython-fourier](https://github.com/peterhinch/micropython-fourier) - MicroPython 的内联 ARM 汇编器中的快速傅立叶变换.
 * [Filters](https://github.com/peterhinch/micropython-filters)  - 使用 ARM Thumb 汇编程序的 FIR 滤波器. 使用在线实用程序，您可以从图表
 滤波器实现所需的频率响应.
 * [ulinalg](https://github.com/jalawson/ulinalg) - 小型矩阵处理模块，带有一些专门用于 MicroPython (Python 3) 的线性代数运算.
@@ -56,8 +56,9 @@
 * [micropython-midi](https://github.com/cjbarnes18/micropython-midi) - MicroPython 的 MIDI 实现示例.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) - 用于铃声文本传输语言 (RTTTL) 的 Python 解析器.
 * [micropython-i2s-examples](https://github.com/miketeachman/micropython-i2s-examples) - 运行 MicroPython 的微控制器上的 I2S 支持示例.
-* [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - 用于 MicroPython 的最小 OSC 客户端和服务器库.
+* [micropython-osc](https://github.com/SpotlightKid/micropython-osc) - A minimal OSC client and server library for MicroPython.
 * [micropython-sgtl5000](https://github.com/rdagger/micropython-sgtl5000) - 带耳机放大器的 SGTL5000 低功耗立体声编解码器库.
+* [umidiparser](https://github.com/bixb922/umidiparser) - 用于 MicroPython、CircuitPython 和 Python 的 MIDI 文件解析器.
 
 ### Communications
 
@@ -273,7 +274,7 @@
 #### Serial
 
 * [mpy-miniterm](https://github.com/jeffmakes/mpy-miniterm) - 通过串行 REPL 与 MicroPython 设备进行无缝串行调试和文件同步的工具.
-* [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - 使用微控制器和 MicroPython 的国际摩尔斯电码.
+* [MicroPython-MorseCode](https://gitlab.com/olivierlenoir/MicroPython-MorseCode) - 使用带有 MicroPython 的微控制器的国际摩尔斯电码.
 * [I2C Slave](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/I2C.md)  - 使用 Pyboard 的 I2C 从模式实现全双工异步链接. 主要用例是针对只有一个 UART 的 ESP8266.
 
 #### Serialization
@@ -438,7 +439,7 @@
 * [max7219_8digit](https://github.com/pdwerryhouse/max7219_8digit) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) - MAX7219 8 位 7 段 LED 模块的驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) - MY9221 10 段 LED 条形图模块的驱动程序.
-* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动程序.
+* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - TM1637 四路 7 段 LED 模块的驱动器.
 * [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 用于带开关的 TM1638 双四路 7 段 LED 模块的驱动程序.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动程序.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - 用于由 TM1640 控制的 16 位 7 段显示器的 MicroPython 库.
@@ -568,7 +569,7 @@
 
 #### Servo
 
-* [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16-channel 12-bit PWM/servo driver.
+* [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16 通道 12 位 PWM/伺服驱动器.
 * [micropython-servo](https://github.com/redoxcode/micropython-servo) - 以整洁的方式使用直接 PWM 输出控制 RC 伺服系统的库.
 
 #### Stepper
@@ -642,7 +643,7 @@
 #### Compass
 
 * [micropython-esp8266-hmc5883l](https://github.com/gvalkov/micropython-esp8266-hmc5883l) - ESP8266 上的 3 轴数字罗盘.
-* [QMC5883](https://github.com/robert-hh/QMC5883) - QMC5883 三轴数字罗盘 IC 的 Python 类.
+* [QMC5883](https://github.com/robert-hh/QMC5883) - Python class for the QMC5883 Three-Axis Digital Compass IC.
 * [microPython_AS5600L](https://github.com/capella-ben/microPython_AS5600L) - 用于 AS5600L 磁体旋转位置传感器的 MicroPython 驱动程序.
 
 #### Current
@@ -940,7 +941,7 @@
 
 #### On Device
 
-* [upy-shell](https://github.com/dhylands/upy-shell) - A simple command line-based shell for MicroPython.
+* [upy-shell](https://github.com/dhylands/upy-shell) - 一个简单的基于命令行的 MicroPython shell.
 * [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) - 用 Python 编写的用于 Pyboard、WiPy、ESP8266、ESP32、PyCom 和 Adafruit 设备的小型板载编辑器.
 
 #### On Host
