@@ -47,7 +47,7 @@
 * [JSFuck](https://github.com/aemkei/jsfuck) - 基于 JavaScript 原子部分的深奥编程风格.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) - 没有额外功能的最小的、图灵完备的纯函数式语言.
 * [LolCode](http://lolcode.org) - 带有基于 lolcat 模因表达式的关键字的语言.
-* [Malbolge](http://www.lscheffer.com/malbolge.shtml) - 以第 8 层地狱命名，设计为尽可能难以编程.
+* [Malbolge](https://esolangs.org/wiki/Malbolge) - 以第 8 层地狱命名，设计为尽可能难以编程.
 * [Monicelli](https://github.com/esseks/monicelli) - 使用类似意大利语的胡言乱语进行编程.
 * [Ni](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) - 类似于 Internet 俚语的语法.

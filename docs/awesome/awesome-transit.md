@@ -55,13 +55,13 @@
 #### National government datasets
 - [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - 有关美国交通系统的信息和统计数据，由联邦交通管理局管理.
 - [transport.data.gouv (France)](https://transport.data.gouv.fr/) - 法国交通生态系统的数据平台.
-- [European long-distance transport operators (EU) *(Unofficial)*](https://github.com/public-transport/european-transport-operators) - 可用 API 端点、GTFS 提要和客户端库的非官方列表
+- [European long-distance transport operators (EU) *(Unofficial)*](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/)  - 用于英国聚合交通数据的 REST API. 收费访问.
 - [TransLoc OpenAPI](https://market.mashape.com/transloc/openapi-1-2) - REST API，用于美国 60 多个已购买 TransLoc 的 AVL 硬件和软件的交通系统的实时车辆、路线、站点和到达数据.
 - [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) - REST API，用于为已购买 NextBus 的硬件和/或软件的机构提供实时车辆、路线、站点和到达数据.
-- [Navitia.io](http://www.navitia.io/) - REST API，用于美国和欧盟的旅程规划、停靠时刻表、等角线等. [Navitia](https://github.com/hove-io/navitia) 是实时 API 背后的开源引擎.
+- [Navitia.io](http://www.navitia.io/) - REST API，用于美国和欧盟的旅程规划、停靠时刻表、等时线等. [Navitia](https://github.com/hove-io/navitia) 是实时 API 背后的开源引擎.
 - [CityBikes](http://api.citybik.es)  - 用于聚合来自世界各地的共享单车数据的 REST API. 供电 [pyBikes](https://github.com/eskerda/pybikes).
 - [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – 专有公共交通管理软件 [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
 - [Citymapper API](https://docs.external.citymapper.com/api/) - 用于公交行程规划、实时公交数据和步行、骑车、踏板车旅行时间的 REST API.
@@ -179,7 +179,7 @@
 ### Visualizations
 
 - [All Transit](https://all-transit.com)  - 使用 Mapbox GL JS、Deck.gl 和 Transitland 的交互式 GTFS 路线和时间表动画（适用于美国城市）.  Github 仓库 [here](https://github.com/kylebarron/all-transit).
-- [fastest-bus-analysis-in-the-west](https://github.com/vta/fastest-bus-analysis-in-the-west)  - 一个 python Pandas 脚本，它结合了 Ridership/APC、Swiftly 速度和停留数据、公交车站库存、GTFS 和地理空间形状，以创建一个站点一个站点、一个路由一个路由、时间分组可过滤数据集以进行交叉分析. 然后将数据集可视化 [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) 帮助 VTA 规划者找到地方，通过站点合并和专用车道等加速方法使公共汽车和铁路网络更快、更可靠.
+- [fastest-bus-analysis-in-the-west](https://github.com/vta/fastest-bus-analysis-in-the-west)  - 一个 python Pandas 脚本，它结合了 Ridership/APC、Swiftly 速度和停留数据、公交车站库存、GTFS 和地理空间形状，以创建逐站、逐路、时间分组的可过滤数据集以进行交叉分析. 然后将数据集可视化 [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) 帮助 VTA 规划者找到地方，通过站点合并和专用车道等加速方法使公共汽车和铁路网络更快、更可靠.
 - [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) - 用于 GTFS 数据动画和可视化的 Web 应用程序 [gtfspy](https://github.com/CxAalto/gtfspy).
 - [gtfs-visualizations](https://github.com/cmichi/gtfs-visualizations) - 用于可视化 GTFS 数据集路径的开源 NodeJS 应用程序.
 - [Mapnificent](https://www.mapnificent.net/)  - 显示在给定时间内您可以乘坐公共交通工具到达的区域. 开源 [on GitHub](https://github.com/mapnificent/mapnificent)，住在 https://www.mapnificent.net/.
@@ -228,7 +228,7 @@
 - [Node-GTFS](https://github.com/BlinkTagInc/node-gtfs)  - 从 GTFS 文件加载传输数据，将其解压缩并将其存储到 SQLite 数据库中. 提供一些查询机构、路线、站点和时间的方法.
 
 ##### PostgreSQL
-- [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - 用于 GTFS 提要的 PostgreSQL 架构.
+- [gtfs-schema](https://github.com/tyleragreen/gtfs-schema) - 用于 GTFS 提要的 PostgreSQL 模式.
 - [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) – 另一个使用 PostgreSQL 处理 GTFS 的工具.
 
 ##### Python
@@ -236,7 +236,7 @@
 - [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - 用于将 GTFS 文件转换为关系数据库的 Python 库.
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) - python 中的一个开源库，用于读取 GTFS 文件和计算有关公共交通网络的各种统计数据和指标.
 - [gtfsman](https://github.com/geops/gtfsman) - Python 中类似存储库的工具，用于管理和更新大量 GTFS 提要.
-- [gtfspy](https://github.com/CxAalto/gtfspy)  - 使用 Python3 进行公共交通网络分析和旅行时间计算. 与 Postgres/PostGIS、Oracle、MySQL 和 SQLite 兼容. 被使用 [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz).
+- [gtfspy](https://github.com/CxAalto/gtfspy)  - 使用 Python3 的公共交通网络分析和旅行时间计算. 与 Postgres/PostGIS、Oracle、MySQL 和 SQLite 兼容. 被使用 [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz).
 - [GTFS Kit](https://github.com/mrcagney/gtfs_kit)  - 用于分析通用传输数据规范 (GTFS) 数据的 Python 3.8+ 工具包. 取代 [GTFSTK](https://github.com/araichev/gtfstk).
 - [GTFSTK](https://github.com/araichev/gtfstk)  - 用于分析内存中 GTFS 数据的 Python 3 工具包. 使用 Pandas 和 Shapely 来提高速度. 被取代 [GTFS Kit](https://github.com/mrcagney/gtfs_kit).
 - [Make GTFS](https://github.com/mrcagney/make_gtfs) - 一个 Python 库，用于根据基本路线信息制作 GTFS 提要.
@@ -276,7 +276,7 @@
 - [onebusaway-vdv-modules](https://github.com/OneBusAway/onebusaway-vdv-modules) - 用于处理 VDV 格式的运输数据的 Java 库，包括将 VDV-452 计划数据转换为 GTFS.
 - [osm2gtfs](https://github.com/grote/osm2gtfs) - 将 OpenStreetMap 数据和时间表信息转换为 GTFS.
 - [transit_model](https://github.com/hove-io/transit_model) - 用于与以下格式相互转换的 Rust 库：GTFS、NTFS（对于 Navitia，请参阅 [Software for Creating APIs](#software-for-creating-apis)), 交易交换 ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) 或 NeTEx ([European standard format](http://netex-cen.eu/)).
-- [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - 尝试将 GTFS stop_ids 分配给的 Python 应用程序 [TransLoc](http://transloc.com/) 使用的 ID [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 不在他们的 API 中提供 GTFS `stop_ids`）.
+- [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - 尝试将 GTFS stop_ids 分配给的 Python 应用程序 [TransLoc](http://transloc.com/) 使用的 ID [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 不在其 API 中提供 GTFS `stop_ids`）.
 - [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration)  - 导入和同步（Transmodel）BISON Koppelvlak1，IFF（由 HP/EDS 编写的格式，有点类似于 ATCO CIF）以导入铁路网络的时间表. 内部伪 NETeX 数据结构允许导出到 GTFS，并且有导出到其他格式（如 NETeX、GTFS 和 IFF）的概念验证.
 
 #### GTFS Data Collection and Maintenance Tools
@@ -290,7 +290,7 @@
 - [TransitWand](https://github.com/conveyal/transit-wand)  - 用于收集交通数据的开源网络和移动应用程序. 使用它来创建 GTFS 提要、捕获乘客人数或生成 GIS 数据集.
 - [IBI Data Tools](https://github.com/ibi-group/datatools-ui)  - 处理 GTFS 编辑、验证、质量检查和部署到 OpenTripPlanner 的 Web 应用程序.  （结合并建立在已弃用的功能之上 [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) 和 [GTFS Editor](https://github.com/conveyal/gtfs-editor).)
 - [GTFS.html](https://gtfs.pleasantprogrammer.com)  - 一个完全基于浏览器的工具，用于查看 GTFS 提要. 用它来查看路线、站点、时间表等.
-- [pfaedle](https://github.com/ad-freiburg/pfaedle) - 使用 OpenStreetMap 数据为 GTFS 进行精确的地图匹配
+- [pfaedle](https://github.com/ad-freiburg/pfaedle) - 使用 OpenStreetMap 数据为 GTFS 进行精确地图匹配
 - [GTFS shape mapfit](https://github.com/HSLdevcom/gtfs_shape_mapfit)  - 适用于 GTFS 形状文件并停止给定 OSM 地图文件的 Python 工具. 用途 [pymapmatch](https://github.com/tru-hy/pymapmatch) 为匹配.
 - [GTFS Builder](http://nationalrtap.org/Web-Apps/GTFS-Builder)  - 基于 Web 的免费应用程序，可帮助您创建 GTFS 文件. 由国家农村交通援助计划 (RTAP) 维护.
 - [gtfs-station-builder](https://github.com/kostjerry/gtfs-station-builder) - 帮助构建站点内部结构的 UI 工具（包括 pathways.txt）
@@ -406,7 +406,7 @@
 - [SIRI to GTFS-realtime](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki) - 一个基于 Java 的命令行实用程序，用于从 [SIRI format](https://www.siri.org.uk/) 到 GTFS 实时.
 - [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - 从（非常好）带注释的 SIRI 2.0 模式定义自动生成文档.
 - [King County Metro Legacy AVL to SIRI](https://github.com/bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri) - 基于Java的转换工具 [King County Metro's](http://metro.kingcounty.gov/) SIRI 的旧版 AVL 格式.
-- [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源 Android 库，用于与实时传输数据的 RESTful SIRI 接口交互，例如当前正在使用的数据 [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
+- [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源 Android 库，用于与实时交通数据的 RESTful SIRI 接口交互，例如当前正在使用的数据 [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
 - [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki)  - Android 兼容的普通旧 Java 对象 (POJOS)，用于 SIRI v1.3 API 的数据绑定（反序列化 XML/JSON）响应. 由使用 [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 - [pysiri2validator](https://github.com/laidig/pysiri2validator) - 用 Python 3 编写的 SIRI 2.0 的简单验证器.
 - [Edwig](https://github.com/af83/edwig) - 用于实时公共交通数据交换的 golang 服务器，使用 SIRI 协议.
@@ -484,7 +484,7 @@
 
 #### Community-maintained lists
 - [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - 添加新的供应商 [here](http://goo.gl/forms/YDbPSPmufS).
-- [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - Add new entities [here](http://goo.gl/forms/cc6kcVERuP).
+- [Entities Providing Transportation Software Development Consulting Services](https://docs.google.com/spreadsheets/u/1/d/1n44CNMCK1vt1nyrsdYz-KD_hYxUMNIm6Me69M6ROBIg/pubhtml) - 添加新实体 [here](http://goo.gl/forms/cc6kcVERuP).
 
 ## License
 

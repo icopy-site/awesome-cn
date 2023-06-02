@@ -23,7 +23,7 @@
   </p>
   <p>
     <i>
-      Want to contribute with some resource? Great! Please, read the <a href="contributing.md">contribution guidelines</a> before contributing.
+      想贡献一些资源？ 伟大的！ 请在贡献之前阅读<a href="contributing.md">贡献指南</a>.
     </i>
   </p>
   <br /><br />
@@ -39,6 +39,7 @@
 - [Jamstack resources](https://jamstack.org/resources/) - 关于 Jamstack 的视频和文章.
 - [the New Dynamic](https://www.thenewdynamic.org/)  - 在我们的目录中挑选工具来使用 Jamstack. 浏览我们的展示柜并获得灵感.
 - [Statichunt](https://statichunt.com/) - Jamstack 主题和资源目录.
+- [Built At Lightspeed](https://www.builtatlightspeed.com/) - 大量 Jamstack 主题、启动器和 UI 工具包目录.
 
 ## Chats
 
@@ -105,7 +106,7 @@
 - [NetlifyCMS](https://netlifycms.org/) - 基于 Git 的开源 CMS.
 - [ButterCMS](https://buttercms.com/) - 无头 CMS 和内容 API.
 - [Scrivito](https://scrivito.com) - 为数字机构和大中型企业构建的基于云的 JavaScript CMS.
-- [GraphCMS](https://graphcms.com) - GraphQL 无头 CMS.
+- [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
 - [Apito](https://apito.io) - 基于云的 Headless CMS，具有 CDN、Webhooks、团队协作、内容修订、云功能.
 - [Prismic](https://prismic.io) - 面向开发人员和营销人员的无头 API CMS.
 - [Siteleaf](https://siteleaf.com) - 适用于静态站点的友好 CMS.
@@ -133,6 +134,7 @@
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - 带来全套身份验证功能，由 [GoTrue API](https://www.gotrueapi.org).
 - [Jexia UMS](https://jexia.com) - 用于您网站的 REST API 用户管理系统，带有具有 JWT + 额外功能的身份提供者.
 - [Stytch](https://stytch.com) - 无密码身份验证和会话管理 API，试试吧 [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+- [Clerk](https://clerk.com) – 完整的用户管理 UI 和 API，专为 React、Next.js 和现代网络而构建.
 
 ### Comments
 
@@ -189,10 +191,10 @@
 
 ## Serverless
 
-- [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify 允许您在没有 AWS 账户的情况下部署 Lambda 函数，并直接在 Netlify 中处理函数管理.
+- [Netlify Functions](https://www.netlify.com/docs/functions/) - Netlify 允许您在没有 AWS 帐户的情况下部署 Lambda 函数，并直接在 Netlify 中处理函数管理.
 - [Amazon Lambda](https://aws.amazon.com/lambda/) - 让您无需配置或管理服务器即可运行代码.
 - 微软Azure
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础设施.
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - Serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure.
   - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - 简化构建可跨云服务和本地系统集成应用程序和数据的自动化可扩展工作流.
 - 谷歌云
   - [App Engine](https://cloud.google.com/appengine/) - 完全抽象化基础架构的无服务器应用程序，因此您只关注代码.
@@ -270,7 +272,7 @@
 ## Books
 - [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - 作者：Mathias Billmann 和 Phil Hawksworth（由 O&#39;Reilly 出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
-- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino
+- [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - 克里斯托弗·佩科拉罗 (Christopher Pecoraro) 和文森佐·甘比诺 (Vincenzo Gambino)
 - [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) - 雷蒙德·卡姆登和布赖恩·里纳尔迪
 
 ## License

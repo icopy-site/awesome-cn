@@ -11,7 +11,7 @@
 ## Algorithms and data structures
 * [ziglibs/s2s](https://github.com/ziglibs/s2s) - 二进制序列化格式和库.
 * [BarabasGitHub/LZig4](https://github.com/BarabasGitHub/LZig4) - LZ4 实施.
-* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的数组.
+* [DutchGhost/ArrayVec](https://github.com/DutchGhost/ArrayVec) - 具有矢量感觉的阵列.
 * [emekoi/deque.zig](https://github.com/emekoi/deque.zig) - 一个无锁的 chase-lev 双端队列.
 * [kristoff-it/zig-cuckoofilter](https://github.com/kristoff-it/zig-cuckoofilter) - 适用于任何 C ABI 兼容目标的生产就绪布谷鸟过滤器.
 * [marijnfs/zigtimsort](https://github.com/marijnfs/zigtimsort) - TimSort 实施.
@@ -37,7 +37,7 @@
 
 ## Bootables
 * [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - 实验操作系统.
-* [andrewrk/clashos](https://github.com/andrewrk/clashos) - Multiplayer arcade game for bare metal Raspberry Pi 3 B+.
+* [andrewrk/clashos](https://github.com/andrewrk/clashos) - 适用于裸机 Raspberry Pi 3 B+ 的多人街机游戏.
 * [andrewrk/HellOS](https://github.com/andrewrk/HellOS) - “hello world” x86 内核示例.
 * [chivay/vmt](https://github.com/chivay/vmt) - 玩具操作系统.
 * [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) - 带有 Rust 微服务的微内核.
@@ -93,7 +93,7 @@
 * [GrooveStomp/chip8-zig](https://github.com/GrooveStomp/chip8-zig) - CHIP-8 仿真器.
 * [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) - 虚拟男孩模拟器.
 * [floooh/kc85.zig](https://github.com/floooh/kc85.zig) - KC85 模拟器.
-* [Arwalk/ChipZ](https://github.com/Arwalk/ChipZ) 一个简单的 Chip8 仿真器（库和可执行文件）.
+* [Arwalk/ChipZ](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
 
 
 ## Game tools and libraries
@@ -211,6 +211,7 @@
 
 ## Parser
 * [darithorn/zig-toml](https://github.com/darithorn/zig-toml) - 一个 TOML 解析器.
+* [Himujjal/zig-json5](https://github.com/Himujjal/zig-json5) - 类似于 `std.json` API 的 JSON5 解析器.
 * [chwayne/rem](https://github.com/chwayne/rem) - 一个 HTML 解析库.
 * [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID 解析/字符串化.
 * [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - 简单的命令行参数解析库.
