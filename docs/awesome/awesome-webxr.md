@@ -21,6 +21,7 @@
 - [Prehistoric Domain](https://www.prehistoricdomain.com/) - 浏览器中的侏罗纪公园式体验，有多种恐龙展品可供选择，未来还有更多计划.
 - [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - 由 Paradowski Creative 设计的 WebXR 迷你高尔夫游戏，具有分布在独特而多样的环境中的 9 个球洞.
 - [Yolopia](https://www.yolopia.com/) - 结合了流、拳和姿势匹配的节奏游戏.
+- [f60](https://heyvr.io/game/f60) - 以苏联监狱为背景的跨平台 WebXR 逃生室系列.
 
 ## Art
 
@@ -36,7 +37,7 @@
 
 *以音频和视听体验为中心的项目.*
 
-- [beats](https://beats.gatunes.com/) - 具有各种房间的半协作应用程序，任何人都可以在其中创建或修改现有的音乐循环.
+- [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
 - [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听派对的录制部分仍然可供查看.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用程序 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家云.
 - [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
@@ -46,7 +47,7 @@
 
 *在沉浸式体验中创建和使用 3D 化身的资源.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿部 IK、通过视位的面部动画等. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
+- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿 IK、通过视位进行面部动画等功能. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以下载 glTF 格式.
 - [VRoid](https://vroid.com/en) - 让您创建动漫风格的 3D 头像，导出为高度兼容的 .vrm 格式.
 
@@ -92,7 +93,7 @@
 - [Hatsumi](https://www.hatsumivr.com/) - 设计工作室在医疗保健和艺术的交汇处开发经验.
 - [Immers Space](https://web.immers.space/) - 一个分布式合作组织 (DisCO)，专注于启用开放和联合的沉浸式 Web 内容.
 - [Laguna Labs](https://lagunalabs.io/) - 身临其境的网络技术机构.
-- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR 代理和 WebXR 游戏开发工作室.
 - [REM5](https://www.rem5forgood.com/) - 专注于教育和社会公平倡议的数字沉浸式体验设计工作室.
 - [Sketchfab](https://sketchfab.com/) - 提供 VR 预览器的 3D 模型市场.
 - [Third Axis](https://thirdaxis.io/) - 位于纽约市的设计工作室，可在网络上创建 3D、AR 和 VR 内容.
@@ -101,8 +102,8 @@
 
 
 - [2WSZ](https://2wsz.com/) - WebXR 内容的聚合器，具有评级、推荐系统以及英语和韩语支持.
-- [Construct Arcade](https://constructarcade.com/) - 一个精选的 WebXR 游戏中心，其中包含来自 Vhite Rabbit 的外部开发人员和内部开发人员的游戏.
 - [Extended Collection](https://extendedcollection.com/) - 由维护的另一个 WebXR 内容管理中心 [Joseph Simpson](https://github.com/vrhermit/).
+- [heyVR](https://heyvr.io/) - 用于发布 WebXR 游戏的精选平台.
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
 - [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.
 

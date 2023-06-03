@@ -113,7 +113,7 @@
 
 - [apollo-server](https://github.com/apollographql/apollo-server)  - 符合规范且生产就绪的 JavaScript GraphQL 服务器，可让您以模式优先的方式进行开发. 专为 Express、Connect、Hapi、Koa 等构建.
 - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用 Hapi 创建一个 GraphQL HTTP 服务器.
-- [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
+- [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于 GraphiQL 集成的 HAPI 插件.
 - [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa 中间件，从头开始实现 GraphQL.js 并支持原生 ESM.
 - [koa-graphql](https://github.com/chentsulin/koa-graphql) -GraphQL Koa 中间件.
 - [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts)  - 简化了 GraphQL Koa 1 文件. 对快速测试有用
@@ -198,7 +198,7 @@
 
 - [Node.js API Starter](https://github.com/kriasoft/nodejs-api-starter) - 基于 Yarn v2 的 monorepo 模板（代码优先的 GraphQL API、PostgreSQL、PnP、零安装、无服务器）.
 - [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - 专注于开发人员体验的 Next.js 入门项目.
-- [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - TypeScript + Node Express + Apollo GraphQL API 的样板.
+- [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
 - [Mocked Managed Federation - Apollo Server 3](https://github.com/setchy/apollo-server-3-mocked-federation) - 如何使用 Apollo Server 3.x 模拟托管联邦 Supgraph 的示例
 - [Mocked Managed Federation - Apollo Server 4](https://github.com/setchy/apollo-server-4-mocked-federation) - 如何使用 Apollo Server 4.x 模拟托管联邦 Supgraph 的示例
 
@@ -231,7 +231,7 @@
 
 - [graphql-php](https://github.com/webonyx/graphql-php) - GraphQL 参考实现的 PHP 端口.
 - [graphql-relay-php](https://github.com/ivome/graphql-relay-php) - 用于 GraphQL 的 webonyx/graphql-php 实现的中继助手.
-- [lighthouse](https://github.com/nuwave/lighthouse) - 一个 PHP 包，允许从您的 Laravel 应用程序提供 GraphQL 端点.
+- [lighthouse](https://github.com/nuwave/lighthouse) - 一个 PHP 包，允许从 Laravel 应用程序提供 GraphQL 端点.
 - [graphql-laravel](https://github.com/rebing/graphql-laravel) - 用于 Facebook 的 GraphQL 的 Laravel 包装器.
 - [overblog/graphql-bundle](https://github.com/overblog/GraphQLBundle)  - 这个包提供了在你的 Symfony 应用程序中构建一个完整的 GraphQL 服务器的工具. 支持反应中继.
 - [wp-graphql](https://github.com/wp-graphql/wp-graphql) - 用于 WordPress 的 GraphQL API.
@@ -370,7 +370,7 @@
 
 ### Scala
 
-- [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL 服务器实现.
+- [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL server implementation.
 - [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - 桑格利亚汽酒中继支持.
 - [caliban](https://github.com/ghostdogpr/caliban) - Caliban 是一个纯函数库，用于在 Scala 中创建 GraphQL 后端.
 
@@ -564,7 +564,7 @@
 - [graphql](https://github.com/graphql-crystal/graphql) - GraphQL 服务器库.
 - [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - 灵感来自图书馆 [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser).
 - [crystal-gql](https://github.com/itsezc/crystal-gql) - 受 Apollo 客户端启发的 GraphQL 客户端分片.
-- [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL 分片.
+- [graphql.cr](https://github.com/garymardell/graphql.cr) -GraphQL 分片.
 
 <a name="tools" />
 
@@ -576,6 +576,7 @@
 - [GraphQL Editor](https://github.com/graphql-editor/graphql-editor) - 可视化编辑器和 GraphQL IDE.
 - [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - 将任何 GraphQL API 表示为交互式图形.
 - [Altair GraphQL Client](https://github.com/altair-graphql/altair) - 适用于所有平台的功能丰富的精美 GraphQL 客户端.
+- [Brangr](https://github.com/networkimprov/brangr) - 一个独特的、用户友好的数据浏览器/查看器，适用于任何 GraphQL 服务，具有吸引人的结果布局.
 - [Insomnia](https://insomnia.rest/) - 具有第一方 GraphQL 查询编辑器的全功能 API 客户端.
 - [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - 支持编辑 GraphQL 查询的 HTTP 客户端.
 - [Escape GraphMan](https://github.com/Escape-Technologies/graphman) - 从 GraphQL 端点生成完整的 Postman 集合.
@@ -598,7 +599,7 @@
 
 ### Tools - Security
 
-- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
+- [GraphCrawler - The all-in-one GraphQL Security toolkit](https://github.com/gsmith257-cyber/GraphCrawler) - 用于 GraphQL 的多合一自动化渗透测试工具包，用 Python 编写
 - [Escape - The GraphQL Security Scanner](https://graphql.security/)  - 一键式安全扫描您的 GraphQL 端点. 免费，无需登录.
 - [Escape Graphinder - GraphQL Subdomain Enumeration](https://github.com/Escape-Technologies/graphinder) – 使用子域枚举、脚本分析和暴力破解的快速 GraphQL 端点查找器.
 - [StackHawk - GraphQL Vulnerability Scanner](https://www.stackhawk.com/blog/automated-graphql-security-testing) - [StackHawk](https://www.stackhawk.com)
@@ -629,7 +630,7 @@
 
 - [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - 丰富的编辑器支持与 Apollo 平台无缝集成的 GraphQL 客户端和服务器开发
 - [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - 对 IntelliJ IDEA 和 WebStorm 的 GraphQL 语言支持，包括 JavaScript 和 TypeScript 中的 Relay.QL 标记模板.
-- [vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
+- [vim-graphql](https://github.com/jparise/vim-graphql) - 提供 GraphQL 文件检测和语法高亮显示的 Vim 插件.
 - [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - 帮助您使用 Apollo Federation 开发和模拟联合模式的工具.
 - [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) - 从 Atom 中的 GraphQL 端点自动完成和 lint.
 
@@ -674,7 +675,7 @@
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
 - [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它会为您的模型自动生成一个 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器后端即服务. 您的 GraphQL 和 REST over GraphQL 后端只需几分钟.
-- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
+- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代品
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 当前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
@@ -757,7 +758,7 @@
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 了解 GraphQL 安全性、性能、测试以及使用 GraphQL 生态系统的最新工具和最佳实践构建生产就绪 API.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)

@@ -101,7 +101,7 @@
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网络动画、动画设计和 UX 资源.
-- [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与网络动画和动画设计的精彩世界有关的好东西！
+- [Web Animation Weekly](http://webanimationweekly.com/) . 精心挑选的文章、视频、书评和其他与精彩的网络动画和动画设计世界相关的好东西！
 - [Design Systems News](http://news.design.systems/) . 关于设计系统、模式库和样式指南的最新消息、文章、存储库、代码、框架、视频和播客. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/) .  Designgest 是获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和优秀的设计相关内容来自最好的 subreddits.
@@ -138,6 +138,8 @@
 - [A Byte of Coding](https://abyteofcoding.com) . 一份每日精选的时事通讯，其中包含对软件工程所有事物的技术深入探讨.
 - [Pointer](https://www.pointer.io/) . 了解当前和未来的 CTO 正在阅读和思考的内容的窗口. 仅限与工程相关的超高质量内容.
 - [Embedsys Weekly](https://embedsysweekly.com/) . 每周精选嵌入式软件和硬件文章.
+- [Big Tech Digest](https://bigtechdigest.substack.com/) . 一份手动策划的时事通讯，汇集了来自大型科​​技公司和初创工程博客的最新技术文章，供软件工程师和 AI/ML 人员使用.
+
 
 ### ObjectiveC
 

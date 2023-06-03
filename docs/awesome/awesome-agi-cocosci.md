@@ -202,7 +202,7 @@
 
 * [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯解释.
 
-* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 解释溯因推理的概率观点.
+* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5)]. A probabilistic perspective for interpreting Abductive Reasoning.
 
 * [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true) - ***人工智能实验与理论杂志***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=3803536062463585043&hl=en&as_sdt=0,5)].
 
@@ -383,7 +383,7 @@
 
 * [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***统计科学***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995&hl=en&as_sdt=0,5)].
 
-* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 层次主题模型在科技论文分析中的应用.
+* [Finding scientific topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17382767110929995134) ]. 分层主题模型在科学论文分析中的应用.
 
 * [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS&#39;03***，2003 年. [[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700&hl=en&as_sdt=0,5) ]. 嵌套中餐厅流程的原论文.
 
@@ -443,7 +443,7 @@
 
 * [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
 
-* [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***心理学前沿***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似性度量和二阶关系度量.
+* [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***心理学前沿***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
 
 
 #### AI Concept Representation
@@ -876,7 +876,7 @@
 
 * [Spontaneous Metatool Use by New Caledonian Crows](https://www.sciencedirect.com/science/article/pii/S0960982207017708) - ***当代生物学***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=9263531730425342443&hl=en&as_sdt=0,5) ]. 有证据表明智能动物可以利用 matatools 制作解决问题的工具.
 
-* [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962) - ***Psychological Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)].
+* [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962) - ***心理科学***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)].
 
 * [The cognitive bases of human tool use](https://www.eva.mpg.de/documents/Cambridge/Tennie_Cultural_BehBrainSci_2012_1566208.pdf) - ***行为与脑科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=4648150119820414671&hl=en&as_sdt=0,5)].
 
@@ -1235,7 +1235,7 @@
 
 * [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763&hl=en&as_sdt=0,5) ]. 通过朴素效用演算框架理解社会互动的观点.
 
-* [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***认知科学趋势***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047&hl=en&as_sdt=0,5) ]. 通过由抽象结构化因果表示组成的计划来理解心理理论的观点，并支持从无数可能的行动中进行有效的搜索和选择. 
+* [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***认知科学趋势***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047&hl=en&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. 
 
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025&hl=en&as_sdt=0,5)]. 
@@ -1633,7 +1633,7 @@
 
 * [The origins of inquiry: inductive inference and exploration in early childhood](https://www.sciencedirect.com/science/article/pii/S1364661312001301) - ***认知科学趋势***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=5189329081728071335&hl=en&as_sdt=0,5) ]. 劳拉·舒尔茨 (Laura Schulz) 对儿童探索游戏的评论.
 
-* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5) ].  Laura Schulz 对儿童探索性游戏的评论，提出探索性游戏的新视角来解释游戏中非理性行为的出现.
+* [Play, Curiosity, and Cognition](https://www.annualreviews.org/doi/abs/10.1146/annurev-devpsych-070120-014806) - ***发展心理学年度回顾***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10278208468154249192&hl=en&as_sdt=2005&sciodt=0,5) ].  Laura Schulz 对儿童探索性游戏的评论，提出探索性游戏的新视角来解释游戏中非理性行为的出现.
 
 * [From exploration to play: A cross-sectional study of infant free play behavior](https://psycnet.apa.org/record/1981-32566-001) - ***发展心理学***，1981 年. [[All Versions](https://scholar.google.com/scholar?cluster=15547331535034599545&hl=en&as_sdt=0,5)].
 
@@ -1657,7 +1657,7 @@
 
 * [Knowing when to quit: Children consider access to solutions when deciding whether to persist](https://cognitivesciencesociety.org/cogsci20/papers/0716/0716.pdf) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=15997297570269958414&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Bayesian Models of Conceptual Development: Learning as Building Models of the World](https://psyarxiv.com/aq3rp/) - ***Annual Review of Developmental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=646614032563248495&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Bayesian Models of Conceptual Development: Learning as Building Models of the World](https://psyarxiv.com/aq3rp/) - ***发展心理学年度回顾***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=646614032563248495&hl=en&as_sdt=2005&sciodt=0,5)].
 
 * [Sticking to the Evidence? A Behavioral and Computational Case Study of Micro-Theory Change in the Domain of Magnetism](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12765) - ***认知科学***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4409900195679222965&hl=en&as_sdt=2005&sciodt=0,5)].
 
