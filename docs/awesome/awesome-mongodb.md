@@ -67,15 +67,26 @@
  - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - 轻量级队列发布/订阅处理库
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
+### D
+ - [vibe.d](https://vibed.org/docs#mongo) - 带有 MongoDB 驱动程序的 D web 框架
+
+### Dart
+ - [mongo_dart](https://github.com/mongo-dart/mongo_dart) - 社区飞镖司机
+
 ### Delphi
+ - [Alcinoe](https://github.com/MagicFoundation/Alcinoe) - 包含 MongoDB 客户端的 Delphi 库
  - [TMongoWire](https://github.com/stijnsanders/TMongoWire) - 最小社区 Delphi 驱动程序
 
 ### Elixir
+ - [elixir-mongodb-driver](https://github.com/zookzook/elixir-mongodb-driver) - 社区 Elixir 驱动程序
  - [mongodb](https://github.com/kobil-systems/mongodb) - 社区 Elixir 驱动程序
  - [mongodb_ecto](https://github.com/kobil-systems/mongodb_ecto) - Ecto 数据库包装器的适配器
 
 ### Erlang
  - [mongodb-erlang](https://github.com/comtihon/mongodb-erlang) - 社区 Erlang 驱动程序
+
+### Fantom
+ - [afMongo](https://github.com/Fantom-Factory/afMongo) - 社区 Fantom 驱动程序
 
 ### Go
  - [Bongo](https://github.com/go-bongo/bongo) - 基于mgo的ODM
@@ -100,12 +111,13 @@
 
 ### JavaScript
  - [Camo](https://github.com/scottwrobinson/camo) - 用于类 Mongo 数据库的基于类的 ES6 ODM
+ - [deno_mongo](https://github.com/denodrivers/mongo) - 社区 Deno 驱动程序
  - [DeriveJS](https://github.com/yuval-a/derivejs) - 使用 Javascript 代理启用透明数据库持久性的反应式 ODM
  - [MEAN.JS](https://github.com/meanjs/mean) - 基于 MongoDB、Express、AngularJS 和 Node.js 的完整堆栈
  - [MERN (mern-starter)](https://github.com/Hashnode/mern-starter) - 基于 MongoDB、Express、React 和 Node.js 的完整堆栈
  - [Meteor](https://github.com/meteor/meteor) - 基于 MongoDB 的实时/反应式客户端-服务器框架，具有许多功能
  - [Mongoose](https://github.com/Automattic/mongoose) - Node.js 异步 ODM
- - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
+ - [CASL Mongoose](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - 与 Mongoose 集成的权限管理库
  - [mongration](https://github.com/awapps/mongration) - Node.js 迁移框架
  - [Moonridge](https://github.com/capaj/Moonridge) - 在 Mongoose 和 socket.io 之上进行实时查询的框架
  - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - 官方 Node.js 驱动程序
@@ -124,17 +136,24 @@
 ### Mathematica
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - 社区 Mathematica 驱动程序
 
+### OCaml
+ - [Mongo.ml](http://massd.github.io/mongo/) - 社区 OCaml 驱动程序
+
 ### PHP
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - 建立在 laravel-mongodb 之上的存储库实现
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Laravel 的 Eloquent 模型和查询构建器
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - 存储库实现
+ - [mongo-php-adapter](https://github.com/alcaeus/mongo-php-adapter) - 适用于使用 `ext-mongo` 的应用程序的适配器
  - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - 官方 PHP 驱动程序
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - 基于 PHP Mongo PECL 扩展的 ODM
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - 基于PHPMongo ODM的迁移工具
  - [yadm](https://github.com/formapro/yadm) - 快速无模式 ODM
 
+### PowerShell
+ - [Mdbc](https://github.com/nightroman/Mdbc) - 用于 PowerShell 的 MongoDB cmdlet
+
 ### Python
- - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/)，它支持开箱即用的迁移
+ - [Beanie](https://github.com/roman-right/beanie) - 基于异步ODM [Motor](https://motor.readthedocs.io/en/stable/) 和 [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - 与 Django ORM 兼容的 Django 的 MongoDB 连接器
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - 将 PyMongo 支持添加到 Flask 的 Flask 扩展
  - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 适用于 MongoDB 和 Python 的强大无模式 ODM（同步 + 异步）
@@ -146,13 +165,14 @@
  - [minimongo](https://github.com/slacy/minimongo) - 轻量级、无模式、Pythonic 面向对象的接口
  - [ODMantic](https://github.com/art049/odmantic) - 在 pydantic 之上的异步 ODM
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - 用于 Scrapy 的 MongoDB 管道
+ - [TxMongo](https://github.com/twisted/txmongo) - Twisted 的 MongoDB 驱动程序
  - [μMongo](https://github.com/Scille/umongo) - 基于棉花糖的独立于驱动程序（异步/同步）的 ODM
 
 ### R
  - [mongolite](https://github.com/jeroen/mongolite) - 快速简单的 R 客户端
 
 ### Ruby
- - [awesome_explain](https://github.com/sandboxws/awesome_explain) - 解释 Mongoid 查询的简单全局方法
+ - [awesome_explain](https://github.com/sandboxws/awesome_explain) - 一个简单的全局方法来解释 Mongoid 查询
  - [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) - 官方 Ruby 驱动程序
  - [Mongoid](https://github.com/mongodb/mongoid) - ODM框架
 
@@ -163,6 +183,12 @@
  - [driver-scala](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - 官方 Scala 驱动程序
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - 非阻塞 Scala 驱动程序
  - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - 使用 Spark SQL 读取/写入数据
+
+### Smalltalk
+ - [MongoTalk](https://github.com/pharo-nosql/mongotalk) - 社区 Smalltalk 驱动程序
+
+### Swift
+ - [MongoKitten](https://github.com/orlandos-nl/MongoKitten) - 社区异步 Swift 驱动程序
 
 ## Tools
 ### Administration

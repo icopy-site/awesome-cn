@@ -19,7 +19,7 @@
 - [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - 用于在 Heroku Dyno 上运行 Playwright 的 Heroku buildpack.
 - [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - 剧作家使用 axe-core 运行可访问性 (a11y) 检查的自定义命令.
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - 期望匹配器在您的 Playwright 测试中执行 Axe 可访问性测试.
-- [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 用于使用 Typescript 编写基于 Cucumber 和 Playwright 的 E2E 测试的入门回购.
+- [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 用于使用 Typescript 使用 Playwright 编写基于 Cucumber 的 E2E 测试的入门回购协议.
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - 使用 Playwright 进行负载测试.
 
 ## Language Support
@@ -36,6 +36,7 @@
 
 ## Utils
 
+- [Ask Playwright](https://ray.run/ask) - 由受过最新剧作家文档培训的 LLM 提供的剧作家问题的准确答案.
 - [Try Playwright](https://try.playwright.tech) - 用于运行 Playwright 测试的交互式游乐场.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - 通过选择 Shadow DOM 根来扩展选择器引擎.
 - [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - 围绕 Playwright 的 Fluent API Wrapper.

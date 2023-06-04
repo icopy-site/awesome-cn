@@ -61,7 +61,6 @@
 - [Melbourne](https://www.meetup.com/GraphQL-Melbourne/)
 - [Munich](https://www.meetup.com/GraphQL-Munich/)
 - [New York City](https://www.meetup.com/GraphQL-NYC/)
-- [Portland](https://www.meetup.com/GraphQLPDX/)
 - [San Francisco](https://www.meetup.com/GraphQL-SF/)
 - [Seattle](https://www.meetup.com/Seattle-GraphQL/)
 - [Sydney](https://www.meetup.com/GraphQL-Sydney/)
@@ -330,7 +329,7 @@
 - [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 模式优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Kotlin example](#example-kotlin) 以下.
 - [KGraphQL](https://github.com/aPureBase/KGraphQL)：用于设置 GraphQL 服务器的纯 Kotlin 实现.
 - [Kobby](https://github.com/ermadmi78/kobby) - 的Codegen插件 [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) 通过 GraphQL 架构. 生成的 DSL 支持使用类似于原生 GraphQL 语法的语法在 Kotlin 中执行复杂的 GraphQL 查询、变异和订阅.
-- [Graphkt](https://github.com/cufyorg/graphkt) - 基于 DSL 的 kotlin graphql 服务器库，由 graphql-java 支持. 
+- [Graphkt](https://github.com/cufyorg/graphkt) - 基于 DSL 的 kotlin graphql 服务器库，由 graphql-java 支持.
 
 <a name="kotlin-example" />
 
@@ -654,7 +653,7 @@
 - [microfiber](https://github.com/anvilco/graphql-introspection-tools) - 以有用的方式查询和操作 GraphQL 自省查询结果.
 - [ILLA Cloud](https://www.illacloud.com/) – 开源低代码工具构建平台提供了一种以最少配置与 GraphQL 集成的简便方法
 - [DronaHQ](https://www.dronahq.com/) - 在几分钟内在 GraphQL 数据之上构建内部工具、仪表板、管理面板
-<a name="databases" />
+  <a name="databases" />
 
 ## Databases
 
@@ -675,7 +674,7 @@
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
 - [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它会为您的模型自动生成一个 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器后端即服务. 您的 GraphQL 和 REST over GraphQL 后端只需几分钟.
-- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代品
+- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 当前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 

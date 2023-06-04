@@ -36,7 +36,7 @@
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
-- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 功能搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的网络应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷器.
@@ -54,7 +54,7 @@
 - [wasm-2048](https://github.com/dev-family/wasm-2048) - 用 Rust 和 Yew 实现并编译为 Wasm 的 2048 游戏.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) - 我的个人网站通过 Yew/Wasm 用 Rust 编写.
 - [KeyPress](https://github.com/rayylee/keypress) - 为中文练习英语的 Rust WebAssembly 网站示例.
-- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - 一个 Rust WebAssembly [Webapp](http://118.190.37.169:8002) 示例基于 Yew 最新的 hooks 和函数式 API，代码风格非常像 React Function Component.
+- [yew-train-ticket](https://github.com/anthhub/yew-train-ticket) - 一个 Rust WebAssembly [Webapp](http://118.190.37.169:8002) 基于 Yew 最新的 hooks 和函数式 API 的例子，代码风格非常像 React Function Component.
 - [yew-d3-example](https://github.com/ivanschuetz/yew-d3-example) - 显示带有 Yew 的 d3 图表.
 - [Oxfeed](https://github.com/sanpii/oxfeed) - 用 Rust 编写的带有 Yew 前端的提要阅读器.
 - [Flow.er](https://github.com/LighghtEeloo/flow.er)  - 与待办事项列表实用程序集成的笔记本应用程序. 使用 Rust、WebAssembly、Yew 和 Trunk 开发.
@@ -88,6 +88,7 @@
 - [hurlurl](https://github.com/lucasmerlin/hurlurl) - 随机链接缩短器， [Live Demo](https://hurlurl.com/).
 - [Macige](https://github.com/tramlinehq/macige) - 用于移动应用程序开发的 CI 工作流生成器， [Live Demo](https://macige.tramline.app).
 - [Spaceman](https://github.com/eliaperantoni/spaceman) - Spaceman 是一个跨平台的 gRPC 客户端，旨在使用起来愉快且外观漂亮.
+- [Crypto-helper](https://github.com/TheBestTvarynka/crypto-helper)  - 可以在客户端对数据进行散列、加密和签名的 Web 应用程序. 还包括一个 JWT 调试器. [Website](https://crypto.qkation.com).
 
 ## Templates
 
@@ -145,7 +146,7 @@
 
 - [Yewdux](https://github.com/intendednull/yewdux) - Yew 应用程序的类似 Redux 的状态容器.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于样式组件，但适用于 Yew.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
@@ -200,7 +201,7 @@
 
 ## Books
 
-- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
+- [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - 使用网络并生成 .wasm 文件.
 - [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - 如何绑定 Rust 和 JavaScript API.
 - [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - 如何构建和使用 rust 生成的 WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - 包括关于使用 Yew 创建应用程序的“与 Yew 的高级 JavaScript 集成”一章.

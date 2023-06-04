@@ -138,7 +138,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现、收集和收听来自 YouTube 的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
-- [Pomotroid](https://github.com/Splode/pomotroid) - 定时器番茄.
+- [Pomotroid](https://github.com/Splode/pomotroid) - 计时器番茄.
 - [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的可视化工具.
 - [Etcher](https://github.com/resin-io/etcher) - 将操作系统映像闪存到 SD 卡和 USB 驱动器.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记记录.
@@ -163,6 +163,7 @@
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - macOS 的浏览器提示器.
 - [linked](https://github.com/lostdesign/linked) - 日报.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代文件管理器.
+- [Ostara](https://github.com/krud-dev/ostara) - 通过 Actuator 监控 Spring Boot 应用程序并与之交互.
 
 ### Closed Source
 
