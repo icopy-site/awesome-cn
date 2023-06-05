@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="manuzhang/awesome-streaming"></div>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg)](https://github.com/manuzhang/awesome-streaming/actions)
 
-精选清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 框架、应用程序、阅读材料和其他资源. 灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
+A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 框架、应用程序、阅读材料和其他资源. 灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
 
 ## Website
 
@@ -31,14 +31,14 @@
 - [s4](https://github.com/apache/incubator-s4) [Java] - 通用、分布式、可伸缩、容错、可插入的平台，允许程序员轻松开发用于处理连续无界数据流的应用程序.
 - [SABER](https://github.com/lsds/Saber) [Java/C] - 基于窗口的混合 CPU/GPU 流处理引擎.
 - [Scramjet Cloud Platform](https://github.com/scramjetorg/transform-hub) [Python/JavaScript/Node.js] - 用于运行用 Python、JavaScript 或 TypeScript 编写的多个数据处理应用程序（序列）的数据处理引擎 
-- [SPQR](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
+- [SPQR](https://github.com/ottogroup/SPQR) [Java] - 通过管道处理大量数据流的动态框架.
 - [tigon](https://github.com/caskdata/tigon) [C++/Java] - 基于 Hadoop 和 HBase 构建的高吞吐量实时流处理框架.
 - [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java] - 使用交互式原型外壳 SOL（Stream Operator Language）进行简单优雅的流处理
 Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [Trill](https://github.com/Microsoft/trill) [.NET/C#] - Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research.
 - [Wallaroo](https://github.com/WallarooLabs/wallaroo)  [Python] - 一个快速的流处理框架.  Wallaroo 使实时对数据做出反应变得容易. 通过消除基础设施的复杂性，从原型到生产变得前所未有的简单.
 - [LightSaber](https://github.com/lsds/LightSaber)  [C++] - 多核基于窗口的流处理引擎.  LightSaber 使用代码生成来实现高效的窗口聚合.
-- [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - 为物联网数据存储和实时处理而构建的流式数据库.
+- [HStreamDB](https://github.com/hstreamdb/hstream) [Haskell] - The streaming database built for IoT data storage and real-time processing.
 - [Kuiper](https://github.com/emqx/kuiper) [Golang] - 由 Golang 实现的边缘轻量级物联网数据分析/流媒体软件，可以在各种资源受限的边缘设备上运行.
 - [WindFlow](https://paragroup.github.io/WindFlow) [C++] - 用于多核和 GPU 的 C++17 数据流处理并行库
 
@@ -51,7 +51,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Benthos](https://github.com/Jeffail/benthos) [Go] - Benthos 是一种高性能和弹性的消息流服务，能够连接各种源和接收器并对有效负载执行任意操作、转换和过滤器
 - [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala] - Scala 的组合式流式 I/O 库.
 - [monix](https://github.com/monix/monix) [Scala] - 用于编写异步和基于事件的程序的高性能 Scala / Scala.js 库.
-- [Quix Streams](https://github.com/quixio/quix-streams) [Python] - 一个流媒体库，最初是为迈凯伦一级方程式赛车队设计的，它可以使用 Apache Kafka 作为消息代理来处理大量时间序列数据，精度高达纳秒.
+- [Quix Streams](https://github.com/quixio/quix-streams) [Python] - 一个流媒体库，最初是为迈凯伦一级方程式赛车队设计的，可以使用 Apache Kafka 作为消息代理来处理大量时间序列数据，精度高达纳秒.
 - [Scramjet Node.js](https://github.com/scramjetorg/framework-js) - [Node.js] 在 Node.js 对象流之上编写的函数式反应流编程框架 + [the legacy Scramjet.js version](https://github.com/scramjetorg/scramjet)
 - [Scramjet Python](https://github.com/scramjetorg/framework-python) - [Python] 函数式反应流编程框架，从头开始编写，对对象、字符串和缓冲流进行操作.
 - [Scramjet C++](https://github.com/scramjetorg/framework-cpp) - [C++] 在 Node.js 对象流之上编写的函数式反应流编程框架.
@@ -61,7 +61,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [Streamz](https://github.com/python-streamz/streamz)  [Python] - 用于构建管道以管理连续数据流的轻量级库； 支持涉及分支、连接、流量控制、反馈、背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java] - 用于 Java 的完全可嵌入的数据流引擎和流处理 API.
 - [Substation](https://github.com/brexhq/substation) [Go] - Substation 是用 Go 编写的云原生数据管道和转换工具包.
-- [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 python 库. 支持使用模拟复杂事件处理器的 python 生成器构建的同步、反应性数据流，以及延迟评估的非循环图和函数式 currying 流.
+- [Tributary](https://github.com/timkpaine/tributary)  [Python] - 用于构建数据流图的 python 库. 支持使用模仿复杂事件处理器的 python 生成器构建的同步、反应式数据流，以及延迟评估的非循环图和函数式 currying 流.
 - [YoMo](https://github.com/yomorun/yomo)  [Go] - 用于构建低延迟地理分布式系统的开源流式无服务器框架.  YoMo 建立在 [QUIC Transport Protocol](https://en.wikipedia.org/wiki/QUIC) 和功能反应式编程接口. 
 - [Mediapipe](https://github.com/google/mediapipe) - 适用于直播和流媒体的跨平台、可定制的 ML 解决方案.
 
@@ -69,6 +69,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 
 - [straw](https://github.com/rwalk/straw) [Python/Java] - 实时流式搜索平台.
 - [storm-crawler](https://github.com/DigitalPebble/storm-crawler) [Java] - 基于 Apache Storm 的网络爬虫 SDK.
+- [Zilla](https://github.com/aklivity/zilla) [Java] - 为事件驱动架构和流构建的跨平台 API 网关，支持 HTTP、SSE、gRPC、MQTT 和本机 Kafka 协议等标准协议.
 
 ### IoT
 
@@ -148,7 +149,7 @@ Mesos，专为需要灵活性和控制力的高性能数据处理作业而设计
 - [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C++] - 在 Apache 之上用 C++ 构建的分布式流处理框架.
 - [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  [Python/Java/Scala] - 分布式处理和实时分析平台. 提供开箱即用的高级分析工具包，如地理空间、时间序列等.
 - [jubatus](http://jubat.us/en/) [C++] - 分布式处理框架和流式机器学习库.
-- [millwheel](http://research.google.com/pubs/pub41378.html) - framework for building low-latency data-processing applications that is widely used at Google.
+- [millwheel](http://research.google.com/pubs/pub41378.html) - 构建谷歌广泛使用的低延迟数据处理应用程序的框架.
 - [NVIDIA Deep Stream](https://developer.nvidia.com/deepstream-sdk) [Python/C/C++] - 实时图像、视频和音频处理平台，最好在边缘设备或云端使用.
 
 ### Readings

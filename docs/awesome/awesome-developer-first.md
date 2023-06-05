@@ -26,7 +26,7 @@
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
-* [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型 Web 分析.
+* [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
 * [Plausible](https://plausible.io/) - 简单、隐私友好且开源的网络分析工具.
 * [PoeticMetric](https://poeticmetric.com/) - 隐私至上、合规、速度极快的分析工具.
 * [PostHog](https://posthog.com/) - 开源产品分析平台.
@@ -73,9 +73,8 @@
 *操纵和检测视觉数据.*
 * [Clarifai](https://www.clarifai.com/) - 一组计算机视觉 API.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌识别.
-* [Google Vision AI](https://cloud.google.com/vision) - 谷歌的 AI 视觉 API.
+* [Google Vision AI](https://cloud.google.com/vision) - Google 的 AI 视觉 API.
 * [Roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
-* [Scanbot SDK](https://scanbot.io/) - 从应用程序的图像中提取结构化数据.
 
 ## Databases & Spreadsheets
 *存储数据并对其进行处理.*
@@ -104,7 +103,7 @@
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
 * [Qoddi](https://qoddi.com/) - Git 连接的应用程序托管平台.
-* [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
+* [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动缩放、数据库、秘密和回滚.
 * [Render](https://render.com/) - 使用 SSL 从 git 部署到 CDN.
 * [Vercel](https://vercel.com/) - 用于构建和部署无服务器 Web 应用程序、静态网站和 Jamstack（主要是 Next.js）项目的云平台.
 
@@ -187,6 +186,7 @@
 
 ## Messaging
 *消息传递 API - SMS、通知、聊天和 VoIP.*
+* [Ably](https://ably.com) - 发布/订阅、实时消息、通知、聊天、多人游戏和数据同步.
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息.
 * [Knock](https://knock.app) - 通知即服务.
 * [MagicBell](https://www.magicbell.com/) - 具有 API 和 UI 组件的实时通知系统.
@@ -239,7 +239,7 @@
 * [Carbone](https://carbone.io/) - 将 JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API 专门为 Paged Media 使用 [Prince](https://www.princexml.com/) PDF 库.
 * [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
-* [PDFBlade](https://pdfblade.com/) - 基于 HTML 到 PDF API 使用的定价.
+* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 
 ## Scraping
 *不是通过预期的 API 从网站获取数据.*

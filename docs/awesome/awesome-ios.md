@@ -207,7 +207,7 @@
 - [Graphs](https://github.com/recruit-mtl/Graphs) - 适用于 iOS 的轻量级图表视图生成器.
 - [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap)  - 一个图表库，用于在 iOS 上可视化矢量地图并与之交互. 它类似于 Geochart，但适用于 iOS.
 - [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) - iOS 开源雷达图实现.
-- [TKRadarChart](https://github.com/TBXark/TKRadarChart) - Swift 中的可定制雷达图.
+- [TKRadarChart](https://github.com/TBXark/TKRadarChart) - Swift 中的可自定义雷达图.
 - [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)  - 很棒的基于图层的饼图. 非常快速且完全可定制.  MagicPie 提供令人惊叹的动画.
 - [PieCharts](https://github.com/i-schuetz/PieCharts) - 易于使用且高度可定制的 iOS 饼图库.
 - [CSPieChart](https://github.com/youkchansim/CSPieChart)  - iOS 饼图开源. 这非常易于使用和定制.
@@ -558,7 +558,7 @@
 
 - [Forbind](https://github.com/ulrikdamm/Forbind) - Swift 中的功能链接和承诺.
 - [Funky](https://github.com/brynbellomy/Funky) - Swift 中的函数式编程工具和实验.
-- [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备的功能性 Swift 工具集.
+- [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备的功能性 Swift 工具集合.
 - [Oriole](https://github.com/tptee/Oriole) - 作为 Swift 协议扩展实现的功能实用工具带.
 - [Prelude](https://github.com/robrix/Prelude) - 简单函数式编程工具的 Swift µframework.
 - [Swiftx](https://github.com/typelift/Swiftx) - 任何项目的功能数据类型和功能.
@@ -907,7 +907,7 @@
 - [VectorMath](https://github.com/nicklockwood/VectorMath) - 适用于 Mac 和 iOS 的 Swift 库，可实现常见的 2D 和 3D 矢量和矩阵函数，对游戏或基于矢量的图形很有用.
 - [Expression](https://github.com/nicklockwood/Expression) - 用于在运行时评估数值表达式的 Mac 和 iOS 库.
 - [Metron](https://github.com/toineheuvelmans/Metron) - Metron 是几何函数和类型的综合集合，扩展了 CoreGraphics 提供的 2D 几何基元.
-- [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex 补充了 Swift 标准库中提供的数字功能.
+- [NumericAnnex](https://github.com/xwu/NumericAnnex) - NumericAnnex 补充了 Swift 标准库中提供的数字工具.
 - [Matft](https://github.com/jjjkkkjjj/Matft)  - Matft 是 Swift 中类似 Numpy 的库.  Matft 允许我们在 Swift 中轻松处理 n 维数组.
 
 ## Media
@@ -1044,7 +1044,7 @@
 - [OverlayComposite](https://github.com/aaronjsutton/OverlayComposite) - 用 Swift 编写的异步、多线程、图像合成框架.
 - [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) - 自定义 ImageView，用于像刮刮卡一样覆盖其他视图的表面，用户可以滑动覆盖物以查看下面的视图.
 - [MetalPetal](https://github.com/MetalPetal/MetalPetal) - 基于GPU加速的图像/视频处理框架 [Metal](https://developer.apple.com/metal/).
-- [ShadowImageView](https://github.com/olddonkey/ShadowImageView) - ShadowImageView 是一个 iOS 10 Apple Music 风格的图像视图，帮助您创建带有阴影的优雅图像.
+- [ShadowImageView](https://github.com/olddonkey/ShadowImageView) - ShadowImageView 是一个 iOS 10 Apple Music 风格的图像视图，帮助您创建带阴影的优雅图像.
 - [Avatar](https://github.com/wvabrinskas/Avatar) - 使用 CoreGraphics 和 QuartzCore 生成随机用户头像图像.
 - [Serrata](https://github.com/horitaku46/Serrata) - 类似于 Twitter 和 LINE 的幻灯片图像查看器库.
 - [StyleArt](https://github.com/ileafsolutions/StyleArt) - 风格艺术库使用 COREML 和一组预训练的机器学习模型处理图像，并将它们转换为艺术风格.
@@ -1128,6 +1128,7 @@
 - [Messenger Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - 与 Firebase Firestore 集成的 Swift 消息聊天应用程序.
 - [SwiftKafka](https://github.com/IBM-Swift/SwiftKafka) - IBM 的 Apache Kafka Swift SDK.
 - [ChatLayout](https://github.com/ekazaev/ChatLayout) - 一个用于构建聊天 UI 的轻量级框架，它使用自定义 `UICollectionViewLayout` 来提供对演示文稿的完全控制以及 `UICollectionView` 中可用的所有工具.
+- [ExyteChat](https://github.com/exyte/Chat) - SwiftUI 聊天 UI 框架，具有完全可定制的消息单元格、输入视图和内置媒体选择器.
 
 ## Networking
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - 一个令人愉快的 iOS 和 macOS 网络框架.
@@ -1376,7 +1377,7 @@
 - [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - 一个简单而优雅的 3D-Flyover 位置请求屏幕，用 Swift 编写.
 - [PAPermissions](https://github.com/pascalbros/PAPermissions) - 在 iOS 上请求权限的统一 API.
 - [AREK](https://github.com/ennioma/arek) - AREK 是一个干净且易于使用的包装器，可以覆盖任何类型的 iOS 权限.
-- [SPPermissions](https://github.com/ivanvorobei/SPPermissions)  - 在 Swift 上询问权限. 可用列表、对话框和本机界面. 可以检查状态许可.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions)  - 在 Swift 上询问权限. 可用列表、对话框和本机界面. 可以检查状态权限.
 
 ## Reactive Programming
 - [RxSwift](https://github.com/ReactiveX/RxSwift) - Swift 中的反应式编程.
@@ -2093,7 +2094,7 @@
 - [TOActionSheet](https://github.com/TimOliver/TOActionSheet) - 为 iOS 定制设计的 UIActionSheet 控件的重新实现
 - [XLActionController](https://github.com/xmartlabs/XLActionController) - 用 Swift 编写的完全可定制和可扩展的操作表控制器.
 - [PopMenu](https://github.com/CaliCastle/PopMenu) - 一个很酷且可自定义的弹出式操作表
-- [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - 使用 iPhone X 的缺口空间来显示创意提醒.
+- [NotchyAlert](https://github.com/TheAbstractDev/NotchyAlert) - 使用 iPhone X 的缺口空间来显示创意提示.
 - [Sheet](https://github.com/ParkGwangBeom/Sheet) - SHEET 可帮助您轻松创建各种具有 Flipboard 应用程序中使用的导航功能的操作表
 - [ALRT](https://github.com/mshrwtnb/alrt)  - 更简单的 UIAlertController 构造函数. 从任何地方发出警报.
 - [CatAlertController](https://github.com/ImKcat/CatAlertController) - 像老板一样使用 UIAlertController.
@@ -2243,7 +2244,7 @@
 - [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel/)  - Swift UIView，用于在更改值时显示带有递增和递减步长动画的数字标签. 对于显示货币等场景很有用.
 - [JSLabel](https://github.com/jogendra/JSLabel) - UILabel 上的一个简单的可设计子类，具有额外的 IBDesignable 和 Blinking 功能.
 - [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)  - 动画蒙版标签是一个很好的渐变动画标签. 这是一种向应用程序中的任何视图添加闪烁效果的简单方法.
-- [STULabel](https://github.com/stephan-tolksdorf/STULabel) - 比 UILabel 更快并支持异步渲染的标签视图、与 UIDragInteraction 的链接、非常灵活的文本截断、自动布局、UIAccessibility 等等.
+- [STULabel](https://github.com/stephan-tolksdorf/STULabel) - 比 UILabel 更快的标签视图，支持异步渲染、与 UIDragInteraction 的链接、非常灵活的文本截断、自动布局、UIAccessibility 等.
 
 ### Login
 - [LFLoginController](https://github.com/awesome-labs/LFLoginController) - 可自定义的登录屏幕，用 Swift 编写.
@@ -2413,7 +2414,7 @@
 - [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - :chocolate_bar: 完全可定制的 iOS 分段控制.
 - [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - iOS 的自定义 UISegmentedControl 替换，用 Swift 编写.
 - [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)  - 具有自定义外观和交互式动画的分段控件. 用 Swift 3.0 编写.
-- [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - UISegmentedControl 的直接替代品，模仿 Google Currents 和各种其他 Google 产品中使用的分段控件的样式.
+- [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - 模仿 Google Currents 和各种其他 Google 产品中使用的分段控件样式的 UISegmentedControl 的替代品.
 - [YUSegment](https://github.com/afishhhhh/YUSegment)  - 适用于 iOS 的可自定义分段控件. 支持文本和图像.
 - [MultiSelectSegmentedControl](https://github.com/yonat/MultiSelectSegmentedControl) - 将多选添加到标准的“UISegmentedControl”中.
 - [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - 具有动态文本遮罩效果的分段切换器
@@ -2841,7 +2842,7 @@
 - [swift-package-manager](https://github.com/apple/swift-package-manager) - Swift 编程语言的包管理器.
 - [punic](https://github.com/schwa/punic) - Carthage 工具的无尘室重新实现.
 - [Rome](https://github.com/tmspzz/Rome) - Carthage 构建框架的缓存工具.
-- [Athena](https://github.com/yunarta/works-athena-gradle-plugin) - Gradle 插件通过将存档框架上传到 Maven 存储库来增强 Carthage，目前仅支持 Bintray、Artifactory 和 Mavel 本地.
+- [Athena](https://github.com/yunarta/works-athena-gradle-plugin) - Gradle 插件通过将归档框架上传到 Maven 存储库来增强 Carthage，目前仅支持 Bintray、Artifactory 和 Mavel 本地.
 - [Accio](https://github.com/JamitLabs/Accio) - 基于 SwiftPM 的 iOS &amp; Co. 依赖管理器，对 Carthage 进行了改进.
 
 ## Tools
