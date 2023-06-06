@@ -12,7 +12,7 @@
 ### Wikipedia
 
 - [Blockchain](https://en.wikipedia.org/wiki/Blockchain) - “区块链是一个不断增长的记录列表，称为块，它们使用密码学链接.”
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - “在计算机科学领域，人工智能 (AI)，有时也称为机器智能，是机器展示的智能，与人类和其他动物展示的自然智能形成对比.”
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - “机器学习 (ML) 是对算法和统计模型的科学研究，计算机系统使用这些算法和统计模型有效地执行特定任务，而无需使用明确的指令，而是依赖于模式和推理.”
 
 ### Blockchain, AI and Machine Learning
@@ -26,7 +26,7 @@
 ## Blockchains for AI algorithms
 
 - [SingularityNET](https://singularitynet.io/) - SingularityNET是以太坊区块链上的分布式人工智能平台，每个区块链节点备份一个人工智能算法.
-- [Intuition Fabric](https://intuitionfabric.com) - Intuition Fabric 的目标是通过存储在星际文件系统上并通过以太坊区块链访问的深度学习模型网络使对 AI 的访问民主化.
+- [Intuition Fabric](https://intuitionfabric.com) - Intuition Fabric 的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络使对 AI 的访问民主化.
 - [OpenMined](https://openmined.org/)  - OpenMined 是一个专注于为数据和智能的去中心化所有权构建开源技术的社区. 借助 OpenMined，可以对 AI 从未访问过的数据进行训练.
 - [Raven Protocol](https://www.ravenprotocol.com/) - Raven Protocol 是一个去中心化和分布式的深度学习训练协议.
 - [Thought Network](https://thought.live/) - Thought 的支持区块链的 Fabric 通过将人工智能嵌入到每一位数据中，从而从根本上改变了应用程序，使其敏捷、可操作且本质上安全.
@@ -35,6 +35,7 @@
 - [Fetch.ai](https://fetch.ai/) - Fetch.ai 是一个基于分布式账本的去中心化机器学习平台，可实现基于全球任何数据的安全共享、连接和交易.
 - [Oraichain](https://orai.io/) - Oraichain 是世界上第一个针对新兴 Web3、可扩展 Dapps 和去中心化 AI 的智能和安全解决方案.
 - [Bittensor](https://bittensor.com/) - Bittensor 是一种开源协议，为分散的、基于区块链的机器学习网络提供支持. [Related resources.](https://taostats.io/links/)
+- [Alethea AI](https://alethea.ai/) - 位于生成人工智能和区块链交叉点的研发工作室大楼.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) - 基于区块链的协议，用于在以太坊等公共区块链上评估和购买 ML 模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -49,6 +50,7 @@
 - [TrueBit](https://truebit.io/) - TrueBit 为以太坊智能合约提供计算提升.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - 一个去中心化的人工智能计算平台，为寻求开发人工智能技术的公司提供处理能力.
 - [Nunet](https://www.nunet.io/) - 一个全球分散的计算框架，它将全球独立拥有的计算设备的潜在计算能力结合到一个动态的计算资源市场中.
+- [Phala Network](https://phala.network/) - 用于 Web3 开发的去中心化链下计算基础设施.
 
 ## Blockchains for AI in finance
 
@@ -64,7 +66,7 @@
 ## Blockchains for AI in supply chains
 
 ## Academic Research
-- [Coin.AI](https://doi.org/10.3390/e21080723)  - Baldominos, A., &amp; Saez, Y. (2019).  Coin.AI：一种基于区块链的分布式深度学习的有用工作证明方案.  *熵*，21(8)，723.
+- [Coin.AI](https://doi.org/10.3390/e21080723)  - Baldominos, A., &amp; Saez, Y. (2019).  Coin.AI：基于区块链的分布式深度学习的有用工作证明方案.  *熵*，21(8)，723.
 - [WekaCoin](https://doi.org/10.1109/DAPPCON.2019.00023)  - Bravo-Marquez, F.、Reeves, S. 和 Ugarte, M.（2019 年 4 月）. 学习证明：基于机器学习竞赛的区块链共识机制.  *2019 年 IEEE 去中心化应用程序和基础设施国际会议 (DAPPCON)*（第 119-124 页）.  IEEE.
 - [Deep Learning-Based Consensus](https://arxiv.org/abs/1904.07349)  - Li, B.、Chenli, C.、Xu, X.、Shi, Y. 和 Jung, T. (2019).  DLBC：深度学习服务区块链中基于深度学习的共识.  *arXiv 预印本 arXiv:1904.07349*.
 - [Proof of Deep Learning](https://doi.org/10.1109/BLOC.2019.8751419)  - Chenli, C.、Li, B.、Shi, Y. 和 Jung, T.（2019 年 5 月）. 具有深度学习证明的能量回收区块链.  *2019 年 IEEE 区块链和加密货币国际会议 (ICBC)*（第 19-23 页）.  IEEE.
@@ -75,7 +77,7 @@
 - [Decentralized and Collaborative AI on Blockchain](https://doi.org/10.1007/978-3-030-59638-5_10)  - 哈里斯，法学博士（2020 年 9 月）. 区块链上分散和协作人工智能模型分析. 在*国际区块链会议*（第 142-153 页）中. 施普林格，查姆.
 - [Hyperparameter Optimization](https://doi.org/10.3389/fbloc.2020.00023)  - Mittal, A., &amp; Aggarwal, S. (2020). 使用区块链中可持续的工作量证明进行超参数优化.  *区块链前沿*, 3, 23.
 - [Proof of Federated Learning](https://doi.org/10.1109/TPDS.2021.3056773)  - Qu, X., Wang, S., Hu, Q., &amp; Cheng, X. (2021). 联邦学习的证明：一种新颖的能量回收共识算法.  *关于并行和分布式系统的 IEEE 事务*，32(8)，2074-2085.
-- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067)  - Li, B., Lu, Q., Jiang, W., Jung, T., &amp; Shi, Y.（2021 年 5 月）. 一种用于新型神经架构证明共识的矿池解决方案.  *2021 年 IEEE 区块链和加密货币国际会议 (ICBC)*（第 1-3 页）.  IEEE.
+- [Proof of neural architecture](https://doi.org/10.1109/ICBC51069.2021.9461067) - Li, B., Lu, Q., Jiang, W., Jung, T., & Shi, Y. (2021, May). A mining pool solution for novel proof-of-neural-architecture consensus. In *2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)* (pp. 1-3). IEEE.
 
 ## License
 

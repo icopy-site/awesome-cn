@@ -108,7 +108,7 @@ the word using the `#RubyML` hash tag!
 ### Neural networks
 
 - [neural-net-ruby](https://github.com/gbuesing/neural-net-ruby) -
-  Neural network written in Ruby.
+  用 Ruby 编写的神经网络.
 - [ruby-fann](https://github.com/tangledpath/ruby-fann) -
   Ruby 绑定到 [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [cerebrum](https://github.com/irfansharif/cerebrum) -
@@ -170,17 +170,12 @@ the word using the `#RubyML` hash tag!
 
 ### Clustering
 
-- [flann](https://github.com/mariusmuja/flann) -
-  近似最近邻的快速库.
-  <sup>[[flann](#flann)]</sup>
 - [kmeans-clusterer](https://github.com/gbuesing/kmeans-clusterer) -
   Ruby 中的 k-均值聚类.
 - [k_means](https://github.com/reddavis/K-Means) -
   尝试构建一个快速、内存高效的 K-Means 程序.
 - [knn](https://github.com/reddavis/knn) -
   简单的 K 最近邻算法.
-- [annoy-rb](https://github.com/yoshoku/annoy.rb) -
-  的绑定 [Annoy](https://github.com/spotify/annoy) （近似最近的邻居哦，是的）.
 
 ### Linear classifiers
 
@@ -192,7 +187,7 @@ the word using the `#RubyML` hash tag!
 ### Statistical models
 
 - [rtimbl](https://github.com/maspwr/rtimbl) -
-  来自 Timbl 框架的基于记忆的学习者.
+  Memory based learners from the Timbl framework.
 - [lda-ruby](https://github.com/ealdent/lda-ruby) -
   红宝石实现 [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
   （潜在狄利克雷分配）用于自动主题建模和文档聚类.
@@ -215,8 +210,18 @@ the word using the `#RubyML` hash tag!
 - [lightgbm](https://github.com/ankane/lightgbm) —
   LightGBM 的 Ruby 绑定.
   <sup>[[dep: LightGBM](#lightgbm)]</sup>
-  
+
 ### Vector search
+
+- [flann](https://github.com/mariusmuja/flann) -
+  Ruby 绑定 [FLANN](https://github.com/flann-lib/flann) （近似最近邻的快速库）.
+  <sup>[[flann](#flann)]</sup>
+- [annoy-rb](https://github.com/yoshoku/annoy.rb) -
+  Ruby 绑定 [Annoy](https://github.com/spotify/annoy) （近似最近的邻居哦，是的）.
+- [hnswlib.rb](https://github.com/yoshoku/hnswlib.rb) -
+  Ruby 绑定 [Hnswlib](https://github.com/nmslib/hnswlib) 它使用分层可导航小世界图实现近似最近邻搜索.
+- [ngt-ruby](https://github.com/ankane/ngt-ruby) -
+  Ruby 绑定 [NGT](https://github.com/yahoojapan/NGT) （用于索引高维数据的邻域图和树）.
 - [milvus](https://github.com/andreibondarev/milvus) —
   Milvus Vector DB 的 Ruby 客户端.
 - [pinecone](https://github.com/ScotterC/pinecone) —

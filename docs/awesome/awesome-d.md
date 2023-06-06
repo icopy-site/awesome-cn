@@ -18,7 +18,7 @@
 	- 网络/网络相关
 	- 数据库
 	- GUI
-	- OS
+	- 你
 	- 游戏
 	- 国际化 (i18n) / 全球化
 	- 视频
@@ -75,7 +75,7 @@
 * [DlangScience](https://github.com/DlangScience) - 科学图书馆和 D 工具的焦点和第一停靠港.
 * [Circular Studios](https://github.com/Circular-Studios)  - 我们是罗彻斯特理工学院的一群游戏开发人员，他们致力于构建游戏和游戏技术. 主持 [Dash](https://github.com/Circular-Studios/Dash)，一个用 D 语言编写的 3D 游戏引擎，以及其他相关库.
 * [EMSI](https://github.com/economicmodeling)  - 一家以 D 为主要语言的职业建设公司. 托管他们的开源项目.
-* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
+* [infognition](http://www.infognition.com/company.html)  - Infognition 是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术. 他们提供了几个用 D 语言编写的开源视频相关应用程序和工具，托管在 [bitbucket](https://bitbucket.org/infognition/) . 他们也在移植他们的主要产品——[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从 C/C++ 到 D.
 * [libmir](https://github.com/libmir) - D的数值库开发团队
 * [sociomantic labs](https://www.sociomantic.com)  - 总部位于柏林的公司，专门从事在线广告实时竞价. 主要赞助商 [annual D language conference](http://dconf.org) . 开源了他们代码库的大部分作为 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP 是一家投资管理公司，截至 2018 年 12 月 31 日管理的资产约为 47 亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) . 赞助了以下项目的开发 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
@@ -90,7 +90,7 @@
 * [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - 无论您是 D 世界的新手，还是已经在 D 中开发过应用程序，或者如果您想利用 D 的强大功能进行 Web 开发，那么本书都是您的理想选择.
 
 ## Tutorials
-*D相关教程*
+*D related tutorials.*
 * [The Dlang Tour](https://tour.dlang.org/) - 受 Golang Tour 启发的 D 交互式教程.
 * [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV&ab_channel=MikeShah) - 关于 D 语言编程的介绍性视频系列. 
 * [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html)  - 这是对 D 编程语言的实用介绍. 安德烈亚斯·茨温考着.
@@ -100,6 +100,7 @@
 * [Functional image processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/) - 关于在 D 中编写图像处理库的非常有趣的教程.展示了 D 的模板/CTFE/Ranges/UFCS 用于函数式编程的强大功能.
 * [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) - D 中的 OpenGL 教程.
 * [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D 元编程教程系列
+* [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-&ab_channel=KiRill) - 与 Ki Rill 的 D 一起学习游戏开发的视频系列. [His channel](https://www.youtube.com/@rillki-dev/) 还发布与 D 编程相关的其他视频.
 
 ### Bare metal / kernel development
 * [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - D 中的内核 hello world（使用 GDC 编译器）

@@ -18,7 +18,7 @@ platform.
 - [DJGPP](http://www.delorie.com/djgpp/) - DJ Delorie 针对 Intel 80386 的完整 32 位 C/C++ 开发环境.用于 Quake.
 - [Open Watcom](https://web.archive.org/web/20220627162043/http://www.openwatcom.org/) - 以前用于 16 位和 32 位 DOS 的商业 C/C++ 开发环境和
   视窗. 目前正式版为1.9.  GitHub 分支也可用. 用于 Doom I-II、Warcraft I-II、Duke Nukem 3D、Full Throttle、Dark Forces 和 Retro City Rampage.
-  - 这 [documentation](https://web.archive.org/web/20220630162351/http://www.openwatcom.org/doc.php) 对于理解使用 1.9 版和 V2 分支来说非常有价值.
+  - 这 [documentation](https://web.archive.org/web/20220630162351/http://www.openwatcom.org/doc.php) 对于理解使用版本 1.9 和 V2 分支非常有价值.
   - [Arch Wiki page](https://wiki.archlinux.org/index.php/Open_Watcom)
 - [Open Watcom V2](https://github.com/open-watcom/open-watcom-v2) - 积极维护的 GitHub 分支
   移植到 64 位 Windows 和 Linux.
@@ -28,6 +28,7 @@ platform.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
 - [T3X](https://t3x.org/t3x/#t3x7) - Nils M. Holm 的一种小型、可移植、过程化、块结构、递归、几乎无类型且在某种程度上面向对象的编程语言.
 - [SmallerC](https://github.com/alexfru/SmallerC.git) - 能够为多种平台生成可执行文件的便携式自托管 C 编译器，包括实模式和保护模式 DOS 程序，由 Alexei A. Frounze 编写.
+- [Small-C Toolkit](https://github.com/humbertocsjr/Small-C.git)  - 用于 DOS(8086) 的自托管小型 C 编译器工具包，带有：K&amp;R C 编译器、Make、链接器、汇编器.  1982 年由 Jim E. Hendrix 首次发布.
 
 ### Memory managers
 

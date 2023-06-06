@@ -23,7 +23,9 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
 </p>
 
-顺便说一下，您还可以与 AI 聊天机器人聊天，网址为 [AwesomeAlgo AI Chat](https://chat.awesomealgo.com/) 获得有关此存储库和自述文件中可用资源的问题的答案
+您可以通过与 AI 聊天机器人互动来增强您的体验，网址为 [AwesomeAlgo Search](https://chat.awesomealgo.com/) . 它旨在回答您可能对此存储库和自述文件中的资源提出的任何问题.
+
+&gt; **另外**，使用可下载的 AwesomeAlgo Search 桌面版增强您的可访问性 [here](https://github.com/aorumbayev/awesome-algorand/releases/tag/v0.1.0).
 
 
 
@@ -41,7 +43,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## Wallets
 
  &gt; Algorand 钱包提供商列表. 请注意，此列表并非详尽无遗，也不代表任何钱包提供商的背书.
-&gt; ⚠️鉴于 [attacks](https://twitter.com/myalgo_/status/1632862464244162560) 对于 MyAlgo 钱包用户，相关 sdk 已被排除在列表之外.
+&gt; ⚠️鉴于 [attacks](https://twitter.com/myalgo_/status/1632862464244162560) on MyAlgo wallet users, related sdk has been excluded from the list.
 
 - [Pera Wallet](https://github.com/perawallet)  - 适用于移动和桌面设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件网络钱包和 JS 库，用于在浏览器中签署交易.
@@ -117,7 +119,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### AlgoKit Templates
 
-- [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - 官方 AlgoKit 烧杯模板为开发和部署烧杯智能合约提供了生产就绪基线.
+- [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
 - [algokit-tealish-template](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit 社区模板，用于使用 tealish 和 algojig 快速启动智能合约项目.
 
 ### Languages
@@ -188,7 +190,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### Ruby
 
-- [TEALrb](https://github.com/joe-p/TEALrb) - A Ruby DSL for writing Algorand smart contracts.
+- [TEALrb](https://github.com/joe-p/TEALrb) - 用于编写 Algorand 智能合约的 Ruby DSL.
 
 ### IDEs
 
@@ -352,7 +354,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器来自 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 语言编写的 Algorand 虚拟地址生成器.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
-- [genpyteal](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
+- [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
 - [AgorHash](https://github.com/bafio89/agorhash) - 公开的、无需许可的、去中心化的和不可审查的言论自由协议.
 - [AlgoPOAP](https://github.com/AlgoPOAP) - Algorand 上的出勤证明协议（以及更多）. [Mint your first POAP on Algorand!](https://algopoap.com).
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)

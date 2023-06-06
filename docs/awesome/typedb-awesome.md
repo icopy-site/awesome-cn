@@ -32,10 +32,10 @@
 
 ## Example projects
 
-- [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life 是一个数据库，包含超过 450 万个目前已知的生物学分类群，由一百多个不同的来源编制而成. 
+- [`TypeDB Examples - Catalogue of Life`](https://github.com/vaticle/typedb-driver-examples/tree/master/biology/catalogue_of_life) - Catalogue of Life 是一个数据库，包含超过 450 万个目前已知的生物学分类群，由一百多个不同的来源编制而成. 
 TypeDB Loader 加载这个巨大的数据集，这样我们就可以使用基于规则的推理 TypeQL 查询优雅地查询它.
-- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-examples/tree/master/gaming/xcom)  - XCOM 2 是一款大型科幻战略游戏，人类必须在其中应对日益增长的外星威胁. 使用 TypeDB 和 TypeQL 探索有​​关 XCOM 2 技术树的数据.
-- [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-examples/tree/master/software/github)  - GitHub，您现在所在的站点，是一个包含高度互连数据的巨大池. 请参阅将 TypeDB 和 TypeQL 集成到 GUI 中的示例.
+- [`TypeDB Examples - XCOM`](https://github.com/vaticle/typedb-driver-examples/tree/master/gaming/xcom)  - XCOM 2 是一款大型科幻战略游戏，人类必须在其中应对日益增长的外星威胁. 使用 TypeDB 和 TypeQL 探索有​​关 XCOM 2 技术树的数据.
+- [`TypeDB Examples - GitHub`](https://github.com/vaticle/typedb-driver-examples/tree/master/software/github)  - GitHub，您现在所在的站点，是一个包含高度互连数据的巨大池. 请参阅将 TypeDB 和 TypeQL 集成到 GUI 中的示例.
 
 ## Blog posts
 

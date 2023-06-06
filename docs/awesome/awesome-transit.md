@@ -43,7 +43,7 @@
 访问 GTFS 和其他运输和多式联运数据集合的地方
 
 #### 3rd party GTFS URL directories
-- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  - 以前是 GTFS 提要 URL 的权威目录.  2016 年关闭.但可根据要求提供 2008 年至 2016 年的 93 GB 数据.
+- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  - 以前是 GTFS 提要 URL 的最终目录.  2016 年关闭.但可根据要求提供 2008 年至 2016 年的 93 GB 数据.
 - [~~OpenMobilityData~~ (Deprecated)](https://openmobilitydata.org/) - GTFS列表和 [GTFS-RT](https://openmobilitydata.org/search?q=gtfsrt) 饲料. [Archives 和 validates](https://openmobilitydata.org/p/capital-metro/24) GTFS 提要并允许您预览两者 [GTFS](https://openmobilitydata.org/p/capital-metro/24/latest) 和 [GTFS-RT](https://openmobilitydata.org/p/capital-metro/495) 通过浏览器. 前身为 TransitFeeds.com. [MobilityData announced](https://database.mobilitydata.org/#h.u71vp6xgkckf) 它将于 2022 年初停产，关闭日期待定.
 - [The Mobility Database](https://database.mobilitydata.org/) - JSON 和 CSV 文件 [on GitHub](https://github.com/MobilityData/mobility-database-catalogs) 这是一个包含全球 1300 多个移动数据集的存储库. 包含 OpenMobilityData/TransitFeeds.com 的内容.
 - [TransitData.io](https://transitdata.io/)  - 拉丁美洲部分地区的 GTFS 数据列表. 必须直接联系网站维护者才能访问提要，因为它们不公开.
@@ -55,7 +55,7 @@
 #### National government datasets
 - [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - 有关美国交通系统的信息和统计数据，由联邦交通管理局管理.
 - [transport.data.gouv (France)](https://transport.data.gouv.fr/) - 法国交通生态系统的数据平台.
-- [European long-distance transport operators (EU) *(Unofficial)*](https://github.com/public-transport/european-transport-operators) - Unofficial list of available API endpoints, GTFS feeds and client libraries
+- [European long-distance transport operators (EU) *(Unofficial)*](https://github.com/public-transport/european-transport-operators) - 可用 API 端点、GTFS 提要和客户端库的非官方列表
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/)  - 用于英国聚合交通数据的 REST API. 收费访问.
@@ -110,7 +110,7 @@
 - [RidePilot](https://github.com/camsys/ridepilot) - 一个开源计算机辅助调度和调度 (CASD) 软件系统，以满足小型人力服务运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) 是一种基于网络的软件工具，开发用于俄勒冈州区域和全州交通网络的可视化、分析和报告.
 - 路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)) - 一个 R Shiny 应用程序，用于获取乘车时间序列，并根据 [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
-- [TBEST](https://tbest.org/)  - TBEST（Transit Boardings Estimation and Simulation Tool）致力于开发基于 GIS 的多方面建模、规划和分析工具，将社会经济、土地利用和公交网络数据集成到基于场景的公交乘客量平台中估计和分析. 由佛罗里达州交通部资助. 免费使用但不开源.
+- [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
 
 ### Hardware
 
@@ -234,6 +234,7 @@
 ##### Python
 - [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) - 在 ArcGIS 中处理公共交通数据的工具（需要 ArcGIS 许可）.
 - [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - 用于将 GTFS 文件转换为关系数据库的 Python 库.
+- [gtfs-segments](https://github.com/UTEL-UIUC/gtfs_segments) - Python package that represents GTFS data for buses in a concise tabular manner using segments.
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) - python 中的一个开源库，用于读取 GTFS 文件和计算有关公共交通网络的各种统计数据和指标.
 - [gtfsman](https://github.com/geops/gtfsman) - Python 中类似存储库的工具，用于管理和更新大量 GTFS 提要.
 - [gtfspy](https://github.com/CxAalto/gtfspy)  - 使用 Python3 的公共交通网络分析和旅行时间计算. 与 Postgres/PostGIS、Oracle、MySQL 和 SQLite 兼容. 被使用 [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz).
@@ -304,6 +305,7 @@
 
 #### GTFS Analysis Tools
 
+- [GTFS Kit](https://github.com/mrcagney/gtfs_kit)  - 用于分析通用传输数据规范 (GTFS) 数据的 Python 3.6+ 工具包. 取代 [GTFSTK](https://github.com/araichev/gtfstk).
 - [gtfstools](https://github.com/ipeaGIT/gtfstools) - 一组方便的工具，用于在 R 中编辑和分析 GTFS 格式的传输提要.
 - [transit_service_analyst](https://github.com/psrc/transit_service_analyst) - 支持交通服务分析的 Python 库.
 - [Peartree](https://github.com/kuanb/peartree) - 用于将传输数据转换为用于网络分析的有向图的 Python 库.
@@ -316,7 +318,8 @@
 
 #### GTFS Timetable Publishing Tools
 
-- [GTFS-to-HTML](https://gtfstohtml.com) - 直接从 GTFS 生成 HTML 或 PDF 格式的人类可读时间表. 
+- [GTFS-to-HTML](https://gtfstohtml.com) - 直接从 GTFS 生成 HTML 或 PDF 格式的人类可读时间表.
+- [Timetable Kit](https://github.com/neroden/timetable_kit) - 一个开源 Python 3.10 模块和脚本取决于 [GTFS Kit](https://github.com/mrcagney/gtfs_kit) ，旨在创建具有灵活布局的复杂打印/PDF 时间表. 目前仅适用于 Amtrak 的 GTFS，但正在积极开发中. 
 - [TimeTablePublisher (TTPUB)](https://github.com/OpenTransitTools/ttpub) - 由 TriMet 开发的网络发布系统，允许运输机构检查、修改原始调度数据并将其转换为易于阅读的时间表，以供客户参考
 
 #### GTFS Validators
@@ -325,7 +328,6 @@
 - [Conveyal's gtfs-lib](https://github.com/conveyal/gtfs-lib/) - Conveyal 的继任者 [gtfs-validator](https://github.com/conveyal/gtfs-validator)，一个基于 Java 的库，用于加载和保存具有磁盘支持存储的任意大小的 GTFS 提要.
 - [Google's feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google 支持的基于 Python 的 GTFS 验证器.
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 完成验证 [Good Tables](http://goodtables.okfnlabs.org/) . 包括数据包、模式、测试，并以东南昆士兰 GTFS 数据为例.
-- [GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - 一个基于 Web 的 GTFS 验证器，同时运行 [the Google Python feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [Conveyal's gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的 GTFS 文件上.
 - [gtfstidy](https://github.com/patrickbr/gtfstidy) - 基于 Go 的工具，用于整理和验证 GTFS 提要.
 - [gtfs-validator-api](https://github.com/cal-itp/gtfs-validator-api) - 这个 Python 包是一个薄的包装器 [MobilityData/gtfs-validator](https://github.com/MobilityData/gtfs-validator) 处理生成的中间文件并查找 gtfs-validator 的输出文件，因此可以为其指定特定名称或作为字符串返回.
 - [GTFSVTOR](https://github.com/mecatran/gtfsvtor) - 以 Java 实现的开源 GTFS 验证器，在 GPLv3 下获得许可，由 [Mecatran](https://www.mecatran.com/).
@@ -351,7 +353,7 @@
 
 #### GTFS Realtime Validators
 
-- [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) - 最初由 GTFS Realtime 开发的验证工具 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](https://www.usf.edu/) 现在由维护 [MobilityData](https://mobilitydata.org/).
+- [gtfs-realtime-validator](https://github.com/MobilityData/gtfs-realtime-validator) - 最初由 GTFS Realtime 开发的验证工具 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](https://www.usf.edu/) 现在由维护 [MobilityData](https://mobilitydata.org/).
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
 
@@ -406,7 +408,7 @@
 - [SIRI to GTFS-realtime](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli/wiki) - 一个基于 Java 的命令行实用程序，用于从 [SIRI format](https://www.siri.org.uk/) 到 GTFS 实时.
 - [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - 从（非常好）带注释的 SIRI 2.0 模式定义自动生成文档.
 - [King County Metro Legacy AVL to SIRI](https://github.com/bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri) - 基于Java的转换工具 [King County Metro's](http://metro.kingcounty.gov/) SIRI 的旧版 AVL 格式.
-- [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源 Android 库，用于与实时交通数据的 RESTful SIRI 接口交互，例如当前正在使用的数据 [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
+- [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源 Android 库，用于与实时传输数据的 RESTful SIRI 接口交互，例如当前正在使用的数据 [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
 - [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki)  - Android 兼容的普通旧 Java 对象 (POJOS)，用于 SIRI v1.3 API 的数据绑定（反序列化 XML/JSON）响应. 由使用 [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 - [pysiri2validator](https://github.com/laidig/pysiri2validator) - 用 Python 3 编写的 SIRI 2.0 的简单验证器.
 - [Edwig](https://github.com/af83/edwig) - 用于实时公共交通数据交换的 golang 服务器，使用 SIRI 协议.
@@ -490,10 +492,10 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) 已放弃该作品的所有版权和相关或邻接权.
+在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/) 已放弃该作品的所有版权和相关或邻接权.
 
 ## About
 
-最初创建于 [Luqmaan Dawoodjee](https://github.com/luqmaan), 现在由 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/).
+最初创建于 [Luqmaan Dawoodjee](https://github.com/luqmaan), 现在由 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/).
 
 此列表旨在作为仅供参考的社区资源 - 列出项目/产品并不意味着认可.

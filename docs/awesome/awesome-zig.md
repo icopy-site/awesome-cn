@@ -93,7 +93,7 @@
 * [GrooveStomp/chip8-zig](https://github.com/GrooveStomp/chip8-zig) - CHIP-8 仿真器.
 * [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) - 虚拟男孩模拟器.
 * [floooh/kc85.zig](https://github.com/floooh/kc85.zig) - KC85 模拟器.
-* [Arwalk/ChipZ](https://github.com/Arwalk/ChipZ) A simple Chip8 emulator (library and executable).
+* [Arwalk/ChipZ](https://github.com/Arwalk/ChipZ) 一个简单的 Chip8 仿真器（库和可执行文件）.
 
 
 ## Game tools and libraries
@@ -194,7 +194,7 @@
 * [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) - 用 Zig 编写的 BSD/Linux 核心实用程序.
 * [hspak/brightnessztl](https://github.com/hspak/brightnessztl) - 用于控制设备背光的 CLI.
 * [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) - 生成带注释的 zip 文件的 hexdump.
-* [kubkon/zacho](https://github.com/kubkon/zacho) - Zig 的 Mach-O 解析器.
+* [kubkon/zacho](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
 
 
 ## Zig development tools
@@ -247,22 +247,24 @@
 
 * [andrewrk/SDL](https://github.com/andrewrk/SDL) - 简单的直接媒体层.
 * [andrewrk/ffmpeg](https://github.com/andrewrk/ffmpeg) - 仅限图书馆.
-* [andrewrk/libgroove](https://github.com/andrewrk/libgroove)
-* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+* [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - 流式音频处理库.
+* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - 实时音频输入和输出库.
 * [kassane/openssl](https://github.com/kassane/openssl) - 仅限加密、提供商和 ssl 库.
+* [kassane/wolfssl](https://github.com/kassane/wolfssl) - wolfssl 库.
 * [kassane/libbpf](https://github.com/kassane/libbpf) - BPF CO-RE（一次编译——随处运行）.
-* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread 库.
+* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - MinGW 的 PThread 库.
 
 ### C++
 
-* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint)
+* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint) - 用于生成 AcoustID 使用的音频指纹的库.
 * [kassane/asio](https://github.com/kassane/asio) -（非提升）网络 I/O 库（带事件循环，C++14/17/20）.
-* [kassane/fmt](https://github.com/kassane/fmt)
-* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) 元编程库（仅标头，C++14/17/20）.&gt;
+* [kassane/fmt](https://github.com/kassane/fmt) - 现代格式库.
+* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) 元编程库（仅标头，C++14/17/20）.
+* [kassane/intrusive](https://github.com/kassane/intrusive) - (boost-intrusive) 侵入式容器 (header-only, C++03/11/14).
 * [kassane/catch2](https://github.com/kassane/catch2) - 单元测试库 (C++14/17/20).
 * [kassane/outcome](https://github.com/kassane/outcome) -（非提升）错误处理程序（C++14/17/20）.
 * [kassane/json](https://github.com/kassane/json) - jsoncpp 移植到 Zig 包装.
-* [kassane/range](https://github.com/kassane/range-v3) - 现代范围库 (C++14/17/20).
+* [kassane/range-v3](https://github.com/kassane/range-v3) - 现代范围库 (C++14/17/20).
 * [kassane/libzmq](https://github.com/kassane/libzmq) - C++ 库中的 ZeroMQ 核心引擎.
 
 

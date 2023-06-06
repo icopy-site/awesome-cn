@@ -14,13 +14,13 @@ Prometheus 是一个开源系统监控和警报工具包.
 - [Website](https://prometheus.io/) - 官方普罗米修斯项目网站.
 - [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus 的源代码、问题讨论和协作.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) - 官方普罗米修斯文档.
-- [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
+- [Blog](https://prometheus.io/blog/) - 官方普罗米修斯博客.
 - [Official Prometheus demo](https://demo.do.prometheus.io) - 由 Cloud Alchemy Ansible 角色管理的官方 Prometheus 演示站点使用来自的配置每天更新 [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
 - [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) - 使用 Prometheus 进行 Kubernetes 监控，Mateo Burillo 的终极指南.
-- [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - 关于如何在 CentOS 7 上安装 Prometheus 的演练.
-- [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - 关于如何使用 Prometheus 监控 CentOS 7 服务器的演练.
+- [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) - 演练如何在 CentOS 7 上安装 Prometheus.
+- [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) - 演练如何使用 Prometheus 监控 CentOS 7 服务器.
 - [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - 有关如何将 Prometheus 仪表板添加到 Grafana 的演练.
 - [Instructions and example code for a Prometheus workshop](https://github.com/juliusv/prometheus_workshop) - Julius Volz 的普罗米修斯研讨会的说明和示例代码.
 - [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - 有关如何使用 Blackbox Exporter 检查 SSH 是否响应的演练，作者 Brian Brazil.
@@ -47,7 +47,7 @@ Prometheus 是一个开源系统监控和警报工具包.
 - [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) - PromCon 2017：最佳实践和野兽陷阱 - Julius Volz.
 - [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - Cloud Native Con - 2017 - Counting with Prometheus - Brian Brazil，Robust Perception.
 - [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) - Cloud Native Con - 2017 - 了解和扩展 Prometheus AlertManager - Lee Calcote，SolarWinds.
-- [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) - Devoxx - 2017 年 5 月 17 日在 Devoxx UK - Marco Pas.
+- [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) - Devoxx - May 17, 2017 at Devoxx UK - Marco Pas.
 - [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) - Devoxx 比利时 - 2016 年 11 月 8 日 - Fabian Stäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) - Docker - 2016 年 10 月 14 日 - Julius Volz.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) - PromCon Berlin - 2016 年 8 月 25 日至 26 日 - 来自柏林 PromCon 2016 的谈话录音.
@@ -88,8 +88,8 @@ Prometheus 是一个开源系统监控和警报工具包.
 
 ## Deployment tools
 - [Ansitheus](https://github.com/ntk148v/ansitheus) - 用于容器化、配置和部署 Prometheus 生态系统的 Ansible 剧本 _by ntk148v_.
-- [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - 管理 Prometheus、Alertmanager、Grafana 和通用 Prometheus 导出器的 Ansible 角色.
-- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) - 用于安装 Prometheus 监控系统的 Ansible 剧本，导出器如：node、snmp、blackbox，因此警报管理器和推送网关 _by Ernestas Poskus_.
+- [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) - 管理 Prometheus、Alertmanager、Grafana 和普通 Prometheus 导出器的 Ansible 角色.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) - 用于安装 Prometheus 监控系统的 Ansible 剧本，导出器如：node、snmp、blackbox，因此警报管理器和推送网关_by Ernestas Poskus_.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) - Google Click to Deploy Prometheus 解决方案的来源_by GoogleCloudPlatform_ 在 Google Cloud Marketplace 上列出.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Prometheus Operator 在 Kubernetes _by CoreOS_ 上创建/配置/管理 Prometheus 集群.
 
@@ -101,7 +101,7 @@ Prometheus 是一个开源系统监控和警报工具包.
 下面的列表包含由 [Prometheus GitHub 或者ganization](https://github.com/prometheus) . 有关出口商的完整列表，包括任何非官方出口商，请参阅 [prometheus.io](https://prometheus.io/docs/instrumenting/exp或者ters/) 或者 [exp或者terhub.io](https://exp或者terhub.io) f或者 a curated list of Prometheus exp或者ters.
 
 ### Databases
-- [Consol exporter](https://github.com/prometheus/consul_exporter) - Consul 指标的导出器.
+- [Consul exporter](https://github.com/prometheus/consul_exporter) - Consul 指标的导出器.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) - Memcached 导出器定期抓取 Memcached 统计信息.
 - [MySQL server exporter](https://github.com/prometheus/mysqld_exporter) - MySQL 服务器导出器定期抓取 MySQL 统计信息.
 
