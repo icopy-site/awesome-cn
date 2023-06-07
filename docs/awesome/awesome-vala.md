@@ -44,6 +44,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 ### Productivity
 
+- [Annotator](https://github.com/phase1geo/Annotator) - 注释图像以便更好地交流.
 - [Badger](https://github.com/elfenware/badger) - 提醒自己不要坐着盯着屏幕看太久.
 - [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - 漂亮的 GTK 4 终端.
 - [Dino](https://github.com/dino/dino) - 使用 GTK+/Vala 的现代 Jabber/XMPP 客户端.
@@ -52,12 +53,15 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - GNOME 桌面的计算器应用程序.
 - [graphui](https://github.com/artemanufrij/graphui) - 基于 graphviz 的图形可视化.
 - [Ideogram](https://github.com/cassidyjames/ideogram) - 表情符号选择器应用程序.
+- [Minder](https://github.com/phase1geo/Minder) - 思维导图应用程序.
 - [Notejot](https://github.com/lainsce/notejot) - 非常简单的笔记应用程序.
 - [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown 笔记编辑器和管理器.
-- [Paper](https://gitlab.com/posidon_software/paper/) - 在 Markdown 中做笔记.
+- [Outliner](https://github.com/phase1geo/Outliner) - 轻松写大纲.
+- [Paper](https://gitlab.com/posidon_software/paper/) - 在 Markdown 中记笔记.
 - [pdfpc](https://github.com/pdfpc/pdfpc) - 具有 PDF 文件多显示器支持的 GTK 演示器应用程序.
 - [Planner](https://github.com/alainm23/planner) - 为 GNU/Linux 设计的具有 Todoist 支持的任务管理器.
 - [Spice-up](https://github.com/Philip-Scott/Spice-up) - 适用于现代 Linux 桌面的演示应用程序.
+- [TextShine](https://github.com/phase1geo/TextShine) - 转换和操作文本.
 - [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - 轻松复制图像中的文本.
 
 ### System Tools
@@ -112,7 +116,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 - [Graphene](https://github.com/ebassi/graphene)  - 用于图形库的薄层类型. 它提供处理 3D 变换所需的常见类型：点、三角形、矩形、四边形、四元数、向量、矩阵、球体等.
 - [Libgee](https://wiki.gnome.org/Projects/Libgee) - 为常用数据结构（列表、映射、队列、树等）提供基于 GObject 的接口和类的实用程序库.
-- [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
+- [Numeric-GLib](https://github.com/arteymix/numeric-glib)  - 通过 GCC 扩展为 GLib（和 Vala）提供的数字数据类型集合. 它包括 128 位整数和浮点数、复杂类型、向量化运算和小数类型.
 - [United](https://github.com/lcallarec/united) - 用于单位操作的库（如千克、米等）.
 - [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - 一组用于 Vala 的实用程序库，添加：文本流处理（输入和输出）、JSON 序列化和反序列化，以及存档压缩和提取.
 
@@ -128,7 +132,7 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 - [GRX](https://github.com/ev3dev/grx)  - 用于简单图形显示的图形库（想想 1 位显示器或 Adafruit 的 PiTFT 显示器）. 它还包括键盘、鼠标、操纵杆和触摸屏输入支持.
 - [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG 致力于提供 W3C 标准 API 的 GLib GObject 实现.
 - [live-chart](https://github.com/lcallarec/live-chart) - 基于 Cairo 的 Vala 和 GTK3 实时图表库.
-- [SDL2](https://www.libsdl.org/)  - 一个跨平台开发库，旨在通过 OpenGL、Direct3D 和 Vulkan 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问. 绑定包含在 Vala 中，将从 Vala 0.52 开始提供.
+- [SDL2](https://www.libsdl.org/)  - 一个跨平台开发库，旨在通过 OpenGL、Direct3D 和 Vulkan 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问. 绑定包含在 Vala 中，将从 Vala 0.52 开始可用.
 
 ### GUI Programming
 
@@ -165,4 +169,4 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 - [GXML](https://gitlab.gnome.org/GNOME/gxml/) - 用于操作 XML 的 GObject API 和从 GObject 到 XML 的可序列化框架.
 - [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - 使用 GLib 和 GObject 实现完整的 JSON 解析器和生成器，并将 JSON 与 GLib 数据类型集成.
-- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - libyaml 的 GLib 绑定​​，以及理解 YAML 的 GObject 构建器.
+- [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.

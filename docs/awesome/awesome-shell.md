@@ -37,7 +37,7 @@
 * [osh](https://www.oilshell.org) - Bash 兼容，与新的/现代的 Unix shell 语言称为 Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) - 公共域 Korn shell
 * [powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview) a cross-platform task automation and configuration management framework, consisting of a command-line shell and scripting language
-* [shell++](https://github.com/alexst07/shell-plus-plus) - Friendly and modern functional and object oriented shell script language
+* [shell++](https://github.com/alexst07/shell-plus-plus) - 友好和现代的功能和面向对象的 shell 脚本语言
 * [shenv](https://github.com/shenv/shenv) - 简单的shell版本管理
 * [tcsh](https://www.tcsh.org/) - 具有文件名补全和命令行编辑功能的 C shell
 * [xonsh](https://xon.sh) - Python-ish，BASHwards-looking shell 语言和命令提示符
@@ -93,7 +93,7 @@
 * [lf.sh](https://github.com/suewonjp/lf.sh) - 以更少的输入快速搜索文件并执行更多操作（grepping、将路径复制到剪贴板等）
 * [lowcharts](https://github.com/juan-leon/lowcharts) - 在终端绘制低分辨率图形
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - 基于 Lua 的环境模块，在向后兼容的同时增强了基于 Tcl 的模块（与模块相比）
-* [loop](https://github.com/Miserlou/Loop) - 使用单行代码编写和控制复杂循环
+* [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
 * [marker](https://github.com/pindexis/marker) - 为你的 shell 命令添加书签
 * [mackup](https://github.com/lra/mackup/) - 使您的应用程序设置保持同步 (OS X/Linux)
 * [mcfly](https://github.com/cantino/mcfly)  - 浏览你的 shell 历史. 伟大的苏格兰人！
@@ -143,7 +143,7 @@
 * [autojump](https://github.com/wting/autojump) - 学习的 cd 命令 - 从命令行轻松导航目录
 * [bashmarks](https://github.com/huyng/bashmarks) - 外壳的目录书签
 * [bd](https://github.com/vigneshwaranr/bd) - 快速返回父目录
-* [commacd](https://github.com/shyiko/commacd) - 一种在 Bash 中移动的更快方法
+* [commacd](https://github.com/shyiko/commacd) - 一种在 Bash 中移动的更快方式
 * [enhancd](https://github.com/b4b4r07/enhancd) - :rocket: 带有交互式过滤器的下一代 cd 命令
 * [goto](https://github.com/iridakos/goto) - 用于导航到支持自动完成的别名目录的 shell 实用程序
 * [jump](https://github.com/gsamokovarov/jump) - Jump 通过学习您的习惯来帮助您更快地浏览您的文件系统.
@@ -287,6 +287,7 @@
 * [gifgen](https://github.com/lukechilds/gifgen) - 简单的高质量 GIF 编码
 * [image-scraper](https://github.com/sananth12/ImageScraper) - 一个很酷的命令行图像抓取工具，具有很多功能.
 * [imgp](https://github.com/jarun/imgp) - 超快的批量图像缩放器和旋转器
+* [jc](https://github.com/kellyjonbrazil/jc) - 将命令输出、文件类型和常用字符串转换为 JSON 或 YAML，以便于在脚本中使用.
 * [jo](https://github.com/jpmens/jo) - 一个从命令行参数创建 JSON 对象的小工具.
 * [jq](https://github.com/stedolan/jq)  - 用于 json 数据的 Sed. 您可以使用它来切片和过滤以及映射和转换结构化数据
 * [korkut](https://github.com/oguzhaninan/korkut) - 在命令行进行快速简单的图像处理.
@@ -379,7 +380,7 @@
 
 * [ansi](https://github.com/fidian/ansi) - 纯 bash 中的 ANSI 转义码 - 更改文本颜色、定位光标等等
 * [assert.sh](https://github.com/lehmannro/assert.sh) - Bash 单元测试框架
-* [bashew](https://github.com/pforret/bashew) - bash 脚本创建器 - 从小型独立脚本到具有 CI/CD 和测试的复杂项目
+* [bashew](https://github.com/pforret/bashew) - bash 脚本创建者 - 从小型独立脚本到具有 CI/CD 和测试的复杂项目
 * [bashful](https://github.com/jmcantrell/bashful) - 用于简化 Bash 脚本编写的库集合
 * [Bashlets](https://github.com/reale/bashlets) - Bash 的模块化可扩展工具箱
 * [bashly](https://bashly.dannyb.co/) - Bash 命令行框架和 CLI 生成器

@@ -48,7 +48,7 @@ Read the Docs 是一个完全开源的平台，可以构建和发布文档.
 - [Ray](https://docs.ray.io/)  - Ray 是一个跨越多个软件组件的文档项目. 它使用了 Executable Book 项目的几个扩展. 功能展示在 [this twitter thread](https://twitter.com/readthedocs/status/1663923671470047234). **#sphinx** **#themes** **#large-project**.
 - [Scrapy](https://docs.scrapy.org/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx**.
 - [setuptools](https://setuptools.pypa.io/) - 许多功能，使用 Furo 主题. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#themes**.
-- [sphinxcontrib-needs](https://sphinxcontrib-needs.readthedocs.io/) - Documentation of `sphinxcontrib-needs`. **#sphinx** **#themes**.
+- [sphinx-needs](https://sphinx-needs.readthedocs.io/) - Documentation of `sphinx-needs`. **#sphinx** **#themes**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#themes**.
 - [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx** **#themes** **#custom-theme**.
 - [Wagtail](https://docs.wagtail.org/)  - Wagtail 是一个基于 Django 的 CMS，具有全球社区. 该文档涉及多个利益相关者（编辑和开发人员），拥有自己美丽的主题，并且主要围绕 Diátaxis 理想构建. 这 [Release Notes](https://docs.wagtail.org/en/stable/releases/index.html) 和 [Contribution guide](https://docs.wagtail.org/en/stable/contributing/index.html) are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. **#sphinx** **#themes** **#diataxis**.

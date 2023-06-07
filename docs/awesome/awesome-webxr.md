@@ -37,17 +37,15 @@
 
 *以音频和视听体验为中心的项目.*
 
-- [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
-- [Cybr](https://cybrxr.com/)  - 为现场沉浸式聆听派对提供平台. 他们第一次收听派对的录制部分仍然可供查看.
+- [beats](https://beats.gatunes.com/) - 具有各种房间的半协作应用程序，任何人都可以在其中创建或修改现有的音乐循环.
 - [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用程序 Fathom 的 WebXR 版本，可让您搜索和探索具有空间化音频的相关艺术家云.
-- [Helicon](https://www.helicon.live/) - 身临其境的多节奏介绍.
 - [TRACK](https://demos.littleworkshop.fr/track) - 通过由开发的身临其境的视听体验线性骑行 [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
-*在沉浸式体验中创建和使用 3D 化身的资源.*
+*Resources for creating and utilizing 3D avatars in immersive experiences.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿 IK、通过视位进行面部动画等功能. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
+- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿部 IK、通过视位的面部动画等. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以下载 glTF 格式.
 - [VRoid](https://vroid.com/en) - 让您创建动漫风格的 3D 头像，导出为高度兼容的 .vrm 格式.
 
@@ -96,7 +94,6 @@
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR 代理和 WebXR 游戏开发工作室.
 - [REM5](https://www.rem5forgood.com/) - 专注于教育和社会公平倡议的数字沉浸式体验设计工作室.
 - [Sketchfab](https://sketchfab.com/) - 提供 VR 预览器的 3D 模型市场.
-- [Third Axis](https://thirdaxis.io/) - 位于纽约市的设计工作室，可在网络上创建 3D、AR 和 VR 内容.
 - [Vhite Rabbit](https://vhiterabbit.com/) - Construct Arcade 背后的母公司.
 
 
@@ -105,7 +102,6 @@
 - [Extended Collection](https://extendedcollection.com/) - 由维护的另一个 WebXR 内容管理中心 [Joseph Simpson](https://github.com/vrhermit/).
 - [heyVR](https://heyvr.io/) - 用于发布 WebXR 游戏的精选平台.
 - [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合站点.
-- [XRSites](https://xrsites.com/) - WebXR 游戏和体验的聚合器.
 
 ## Development
 
@@ -146,14 +142,11 @@
 
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - JanusVR 的浏览器内实现，可让您构建社交 VR 体验.
 
-- [LÖVR](https://lovr.org/) - 基于 Lua 的框架，可让您跨 Web 和本机平台创建 VR 内容.
-  - [Official Documentation](https://lovr.org/docs/)
-
 - [p5.xr](https://p5xr.org/) - 库 p5.js 的附加组件，可让您创建身临其境的 p5 草图.
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - 一个用于 three.js 的 React 渲染器. 额外的 WebXR 特定的钩子和组件在 [React XR](https://github.com/pmndrs/react-xr) 以及.
 
-- [Spaces VR](https://github.com/spacesvr/spacesvr) - 基于react-three-fiber的快速创建VR网站的前端框架.
+- [Spaces VR](https://github.com/musehq/spacesvr) - 基于react-three-fiber的快速创建VR网站的前端框架.
 
 - [three.js](https://threejs.org/) - 一个用于使用 WebGL 渲染 3D 内容的 JavaScript 库，为许多现有的 WebXR 体验和工具提供支持.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
@@ -163,28 +156,25 @@
 - [Verge3D](https://www.soft8soft.com/verge3d/) - 一个工具包，允许 3D 艺术家导出他们的场景并轻松创建身临其境的网络体验.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
 
-## E-Commerce
-
-*WebXR 电子商务平台.*
-
-- [Ozone Universe](https://ozoneuniverse.com/) - 用于会议、营销和电子商务的虚拟企业平台.
-- [VR Cybershop](https://vrshop.rebuffreality.com/) - Rebuff Reality 的虚拟店面.
-
 ## Learning Resources
 
 
 - [Learn A-Frame (VR)](https://www.codecademy.com/learn/learn-a-frame) - 与 A-Frame 合作编写的大约 6 小时的 Codecademy 课程.
 - [babylon.js Guided Learning](https://doc.babylonjs.com/guidedLearning) - 补充文档中其他说明页面的详细文本和视频教程.
 
+## Monetization
+
+
+- [Zesty Market](https://www.zesty.market)  - XR 中可出租横幅空间的市场. 提供与大多数主要 WebXR 创建工具的集成.
+
 ## Social Spaces
 
 *专注于为用户创建社交空间以进行聚会和/或协作的项目.*
 
-- [Dreamwave](https://dreamwave.tech/)  - 一个基于网络的平台，用于举办可扩展的虚拟活动. 为虚拟音乐节提供动力 [Secret Sky 2021](https://dreamwave.tech/secret-sky-2021).
+- [Dreamwave](https://dreamwave.tech/)  - 一个基于网络的平台，用于举办可扩展的虚拟活动. 为虚拟音乐节 Secret Sky 2021 提供支持.
 - [Emerald City](https://hubculture.city/) - 由 Hub Culture 开发的虚拟活动空间.
 - [FRAME](https://framevr.io/) - 一个专注于在虚拟空间中实现轻松 3D 协作的平台.
 - [Hubs](https://hubs.mozilla.com/) - Mozilla 的平台，使用户能够虚拟地收集和协作.
-- [Raspberry Dream Land](https://www.rdland.io/) - 一个进步的 WebXR 事件平台，专注于包容性、激进的自我表达和虚拟关系.
 
 ## Web3XR
 
@@ -197,14 +187,12 @@
 - [oncyber](https://oncyber.io/) - 提供免费和可收藏的画廊空间，以展示跨多个不同链的 NFT.
 - [RareRooms](https://www.rarerooms.io/) - 允许您创建身临其境的 NFT 画廊，支持多个不同的连锁店/市场.
 
-### Monetization
-
-- [Zesty Market](https://zesty.market)  - XR 中可出租 NFT 横幅空间的市场. 自 2021 年 7 月以来，截至 2021 年 11 月 9 日，已为 WebXR 开发人员创造了超过 3000 美元的收入.
-
 ### Realms
 
-- [Cryptovoxels](https://www.cryptovoxels.com/) - 一个由以太坊驱动的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等等.
+- [Voxels](https://www.voxels.com/) - 一个由以太坊驱动的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等等.
 - [Hyperfy](https://hyperfy.io/)  - 一个托管多达 10,000 个可定制、跨平台和身临其境的虚拟世界的平台. 建立在 three.js 之上，由以太坊提供支持.
+- [Ozone Metaverse](https://ozonemetaverse.io/) - 一个空间计算云平台，提供具有 Web3 集成和货币化的世界创建工具.
+- [Raspberry Dream Land](https://www.rdland.io/)  - 一个专注于包容性、激进的自我表达和虚拟关系的进步活动平台. 也有自己的NFT头像收藏.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - 一个网络查看器，可让您探索来自 [Somnium Space](https://www.somniumspace.com/) 在您的浏览器中，Oculus Quest 浏览器支持 VR.
 - [vrland](https://vrland.io/) - 一个支持展示 NFT 的聚会和虚拟展示平台.
 - [Webaverse](https://webaverse.com/)  - 由以太坊提供支持的开源虚拟世界，支持自定义头像. 专注于数字所有权、开放经济和互操作性.

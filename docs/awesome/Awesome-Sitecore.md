@@ -26,7 +26,7 @@
 ## Analytics
 
 - [Sitecore Goal Description](https://github.com/islaytitans/SitecoreGoalDescription) - 在体验档案中显示目标描述.
-- [Sitecore Goal Conversion Demo](https://github.com/martinrayenglish/GoalConversions.Demo) - 演示如何获得访问者互动期间触发的目标，在他们的会话结束后，可以将此数据发送到外部系统以用于帮助营销人员告知他们客户和潜在客户在他们的网站上做什么.
+- [Sitecore Goal Conversion Demo](https://github.com/martinrayenglish/GoalConversions.Demo) - 演示如何获得在访问者互动期间触发的目标，在他们的会话结束后，可以将此数据发送到外部系统以用于帮助营销人员告知他们客户和潜在客户在他们的网站上做什么.
 - [Custom Timeline Eras](https://github.com/coreyasmith/sitecore-custom-timeline-eras) - 演示如何触发结果并将自定义结果显示为 Sitecore 中体验档案时间轴上的时代.
 
 ## Audit and performance
@@ -111,7 +111,7 @@
 
 
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben's coordinates return London).
-- [Sitecore Solr Schema](https://github.com/konabos/solr-sitecore-schema) - Solr 8.1.1 和 8.4.0 的 Sitecore 配置集（架构）.
+- [Sitecore Solr Schema](https://github.com/konabos/solr-sitecore-schema) - Solr 8.1.1 和 8.4.0 的 Sitecore 配置集（模式）.
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - 一种用于从 Sitecore 网络应用程序外部重建搜索索引的工具，特别适合长时间运行的构建.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell 脚本库有助于在 Windows 上安装 SolrCloud 集群. 
 - [Docker SolrCloud for Sitecore 10](https://github.com/jermdavis/Sitecore-SolrCloud-Docker)  - 创建一个 SolrCloud 容器，该容器可与 Docker 下的 Sitecore 10 实例一起使用. 这些文件已根据 Sitecore Docker 示例存储库中的 Solr 容器文件进行了调整. 可以使用这些文件替换 Sitecore 提供的默认“solr”服务.
@@ -139,7 +139,7 @@
 - [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - 一组实用程序和脚本示例，可帮助安装 Sitecore Experience Platform、安装 Sitecore Experience Commerce、安装 Sitecore 模块、预热 Sitecore 实例、安全强化 Sitecore 实例等.
 - [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - 与外部贡献者和合作伙伴一起演示资产.
 - [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - 共享 Sitecore JSS PWA 演示资产和未来的“Sitecore Omni”相关演示资产.
-- [Sitecore.Demo.Group](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group 演示站点 - 基于 Habitat 的演示的开发人员示例.
+- [Sitecore.Demo.Group](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo 站点 - Habitat Based Demo 的开发人员示例.
 - [Sitecore User Group UK](https://github.com/steviemcg/scuguk) - JAMstack 架构的演示，使用 Git 作为单一事实来源，使用 Netlify 进行持续部署和 CDN 分发，使用 Gatsby v2 构建.
 - [Sitecore DXP Demo](https://github.com/Sitecore/Sitecore.Demo.Edge) - XM、Experience Edge、Content Hub DAM 和 CMP、Content Hub Edge、JSS、CDP、Sitecore Personalize、Next.js 和 Vercel 的演示.
 - [Sitecore Developer Portal](https://github.com/Sitecore/developer-portal)  - Sitecore 开发人员门户是使用 Next.js、Typescript、Tailwind CSS 构建的，并托管在 Vercel 上. 它使用静态站点生成 (SSG) 在构建时创建所有页面. 它还利用增量静态再生 (ISR) 在页面内容发生更改时自动更新应用程序. 许多页面是用 Markdown 编写的，并在构建时转换为 HTML. 使用的图像在 Sitecore DAM 中管理并发布到 CDN.
@@ -193,7 +193,7 @@
 - [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - 向表单创建器添加一些功能，例如发送邮件、时间跨度验证、订阅列表、条件、Azure Blob 存储提供程序等等.
 - [WFFM Conversion Tool](https://github.com/afaniuolo/WFFM-Conversion-Tool) - 一个控制台应用程序，它提供了一个自动化解决方案，用于将 Web Forms For Marketers (WFFM) 项目及其数据转换和迁移到 Sitecore Forms.
 - [SendMail for Experience Forms](https://github.com/KayeeNL/Sitecore.ExperienceForms.Modules.SendMail) - 为 Sitecore 9 Forms 带来了新的发送电子邮件操作，支持使用 MainUtil.SendMail 方法提交电子邮件，该方法将使用 SMTP 服务器以 HTML 或纯文本格式提交电子邮件.
-- [Forms Cloud Upload](https://github.com/jbluemink/Sitecore-Forms-Cloud-Upload) - 使用 Azure Storage Queue 和 Azure Storage Blob 存储 Sitecore 9.3+ Forms 上传加密，使用来自 Azure Key Fault 的密钥 - 一旦用户上传敏感数据，这对于合规性很方便.
+- [Forms Cloud Upload](https://github.com/jbluemink/Sitecore-Forms-Cloud-Upload) - 使用 Azure Storage Queue 和 Azure Storage Blob 来存储 Sitecore 9.3+ 表单上传加密，使用来自 Azure Key Fault 的密钥 - 一旦用户上传敏感数据，这对于合规性来说很方便.
 
 ## Frameworks
 
@@ -248,6 +248,11 @@
 
 - [Integration Blueprints](https://github.com/Sitecore/Integration-Blueprints) - 显示如何将 Sitecore 产品相互集成以及如何与第 3 方系统集成的示例代码.
 
+## Item Resource Files
+
+- [Sitecore IAR Management](https://github.com/GAAOPS/Sitecore.IAR.Management) - 用于将项目作为资源进行管理的 PowerShell 脚本.
+- [Sitecore Item as Resource Explorer](https://github.com/GAAOPS/Sitecore.Protobuf.Browser) - 允许您浏览 Sitecore 静态数据库文件 (.dat) 的 WPF 应用程序
+
 ## Languages
 
 - [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) - An item Translator module integrates Google translate seamlessly so that with a click of a button you are able to translate your text to any language that Google translate supports.
@@ -270,7 +275,7 @@
 ## Media
 
 - [Autocropper](https://github.com/zkniebel/Autocropper) - 根据预定义的尺寸和指定的原点自动生成图像的裁剪版本，用于响应式网站.
-- [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - 用于 Sitecore 媒体框架的 Brightcove 连接器.
+- [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) - Sitecore 媒体框架的 Brightcove 连接器.
 - [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration)  - 在您的网站上显示来自 YouTube 频道的视频的一种简单方法，YouTube 集成模块可能就是您正在寻找的. 在媒体库中，您有一个 YouTube 文件夹，通过键入频道名称，该频道中的所有视频现在都由一个项目表示，当您在频道上创建新视频时，它会自动更新媒体库中的频道.
 - [Shrink](https://github.com/robhabraken/shrink) - 深入了解媒体库的使用情况，类似于硬盘驱动器的磁盘使用统计查看器，还向您显示实际使用和发布的项目，因此您可以轻松找到不必要地占用数据库空间的媒体项目，为您提供多种清理媒体库的方法！
 - [Dianoga](https://github.com/kamsar/Dianoga)  - Sitecore 媒体库的自动图像优化器，完全自动地将 Sitecore 提供的图像大小减少 8-70%. 当请求媒体图像时，Dianoga 会在图像数据放入 Sitecore 媒体缓存后立即自动运行 mozjpeg、PNGOptimizer、SVGO 或 WebP.
@@ -282,10 +287,10 @@
 ## ORM
 
 - [Glass.Mapper](https://github.com/mikeedwards83/Glass.Mapper)  - Glass.Mapper 是非常流行的 Glass.Sitecore.Mapper 项目的重新开发. 该项目旨在创建一个更强大、更灵活的解决方案，不仅适用于许多不同的 CMS.
-- [TemplateModelHelper](https://github.com/lowedown/TemplateModelHelper) - 使用生成的 Sitecore 模板模型（通过 Glass.Mapper 或其他框架映射）的辅助方法，其主要目标是让开发人员使用生成的模板模型轻松查询 Sitecore 数据库.
+- [TemplateModelHelper](https://github.com/lowedown/TemplateModelHelper) - 使用生成的 Sitecore 模板模型（通过 Glass.Mapper 或其他框架映射）的辅助方法，其主要目标是使开发人员可以轻松地使用生成的模板模型查询 Sitecore 数据库.
 - [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) - TDS 的 T4 模型生成.
 - [Sitecore.CodeGenerator](https://github.com/ParTech/sitecore.codegenerator) - 使用不带 TDS 的 T4 模板生成 Glass Mapper 界面.
-- [Synthesis](https://github.com/blipson89/Synthesis)  - Sitecore 的对象映射框架，与传统的 Sitecore 开发相比，它能够在更短的时间内开发出更可靠和可维护的站点. 它是一个强类型的模板对象生成器，对于具有 Sitecore 或传统 .NET 背景的开发人员来说很容易理解. 它巧妙地与 Sitecore MVC（通过 Synthesis.Mvc 包）集成，作为视图渲染模型提供者和控制器渲染的 IoC 依赖项.
+- [Synthesis](https://github.com/blipson89/Synthesis)  - Sitecore 的对象映射框架，与传统的 Sitecore 开发相比，它能够在更短的时间内开发出更可靠和可维护的站点. 它是一个强类型的模板对象生成器，对于具有 Sitecore 或传统 .NET 背景的开发人员来说很容易理解. 它与 Sitecore MVC（通过 Synthesis.Mvc 包）巧妙地集成，作为视图渲染模型提供者和控制器渲染的 IoC 依赖项.
 
 ## Other
 
@@ -299,7 +304,7 @@
 
 ## Packaging
 
-- [Package Autoloader](https://github.com/JeffDarchuk/PackageAutoloader) - 一种自动应用 Sitecore 包以将某些内容作为部署的一部分的工具. 
+- [Package Autoloader](https://github.com/JeffDarchuk/PackageAutoloader) - 作为部署的一部分自动应用 Sitecore 包来补充某些内容的工具. 
 - [Sitecore.Ship](https://github.com/kevinobee/Sitecore.Ship) - 一种通过 HTTP 请求安装 Sitecore 更新包的轻量级方法.
 - [UpdatePackageInstaller](https://github.com/HedgehogDevelopment/UpdatePackageInstaller) - 从命令行在 Sitecore 中安装更新包.
 - [Sitecore Package Deployer](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - 使用 Sitecore 作业从 Sitecore 服务器上的文件系统文件夹自动部署更新包.
@@ -325,7 +330,7 @@
 - [ItemNamingRules](https://github.com/seankearney/Sitecore-ItemNamingRules)  - 为规则引擎提供条件和操作以自动执行项目名称约定. 您可以使用 ItemNamingRules 项目在内容树的不同分支中应用不同的项目命名规则.
 - [MenuItemRules](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules) - 基于规则的上下文项目菜单可见性.
 - [Sitecore adaptive rules](https://github.com/boro2g/sitecore-adaptive-rules) - 添加对 Sitecore 规则引擎自适应规则的支持：当条件和操作的属性相互依赖时，它们很有用.
-- [Organize Insert Options Rules](https://github.com/coreyasmith/OrganizeInsertOptionsRules) - 用于 uiGetMasters 管道的管道处理器，允许您在内容树中按照您喜欢的方式组织插入选项规则.
+- [Organize Insert Options Rules](https://github.com/coreyasmith/OrganizeInsertOptionsRules) - uiGetMasters 管道的管道处理器，允许您在内容树中按照您喜欢的方式组织您的插入选项规则.
 - [Conditional Placeholder Settings](https://github.com/matthewkenny/ConditionalPlaceholderSettings) - 允许 Sitecore 规则引擎支持 Sitecore 附带的现有占位符设置功能的模块.
 - [Sitecore Adaptive Rules](https://github.com/adamconn/sitecore-adaptive-rules) - 添加规则引擎对自适应规则的支持（当条件和操作的属性相互依赖时，这些规则很有用）.
 

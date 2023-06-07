@@ -3,7 +3,7 @@
 
 
 精选的开发人员优先产品列表.  
-我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
+我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
 你可以关注我 [Twitter](https://twitter.com/agammore) 更多与开发相关的内容:) 
 
 这个 repo 的 developer-first 的定义是：
@@ -26,7 +26,7 @@
 * [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
 * [Heap](https://heap.io/) - 用于网络和移动设备的产品分析 API，捕获所有事件. 
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
-* [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
+* [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型 Web 分析.
 * [Plausible](https://plausible.io/) - 简单、隐私友好且开源的网络分析工具.
 * [PoeticMetric](https://poeticmetric.com/) - 隐私至上、合规、速度极快的分析工具.
 * [PostHog](https://posthog.com/) - 开源产品分析平台.
@@ -38,6 +38,7 @@
 * [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
 * [BoxyHQ Enterprise SSO](https://boxyhq.com) - 用于企业 SSO 和目录同步的开源 API.
 * [Clerk](https://clerk.com/) - 用于 React、React Native 和 Next.js 的身份验证和用户管理平台.
+* [Corbado](https://corbado.com) - 密码优先身份验证即服务.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 的身份验证.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
 * [Hanko](https://www.hanko.io/) - 无密码（WebAuthn API）PSD2、eIDAS 和 GDPR 兼容.
@@ -239,7 +240,7 @@
 * [Carbone](https://carbone.io/) - 将 JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS... API.
 * [DocRaptor](https://docraptor.com) - HTML to PDF API 专门为 Paged Media 使用 [Prince](https://www.princexml.com/) PDF 库.
 * [Export SDK](https://exportsdk.com) - 带有可视化模板编辑器的 PDF 生成器 API.
-* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
+* [PDFBlade](https://pdfblade.com/) - 基于 HTML 到 PDF API 使用的定价.
 
 ## Scraping
 *不是通过预期的 API 从网站获取数据.*
@@ -273,7 +274,7 @@
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.
-* [Loadmill](https://www.loadmill.com/) - 根据用户行为生成测试.
+* [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
 * [Percy](https://percy.io/) - 连续视觉测试.
 * [Testim](https://www.testim.io/) - 前端测试.
 
