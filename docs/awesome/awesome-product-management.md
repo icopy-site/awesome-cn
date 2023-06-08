@@ -14,7 +14,7 @@ In day-to-day activities, product managers need to rely on tools to help them ma
 
 ### OneNote
 
-高效的笔记记录和卓越的组织能力. 与基于团队的工作流轻松集成，其中来自同一笔记本的笔记可以与许多人共享.
+高效的笔记记录和卓越的组织能力. 与基于团队的工作流程轻松集成，其中来自同一笔记本的笔记可以与许多人共享.
 
 ![OneNote](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-onenote.gif)
 
@@ -204,6 +204,16 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
 有很多人写了很棒的内容，可以帮助那些想要在产品管理领域脱颖而出和成长的人获得新的视角. 将下面的列表视为意见、经验和模式的结合，而不是确定的“始终要做的事情列表”.
 
+- [How to Deliver More Software Projects on Time](https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - 经过 [Mark Suster](https://www.linkedin.com/in/marksuster/).
+- [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - 经过 [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
+- [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - 经过 [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - 经过 [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) - 经过 [Joel Spolsky](https://www.joelonsoftware.com).
+- [Painless Functional Specifications – Part 4: Tips](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/) - 经过 [Joel Spolsky](https://www.joelonsoftware.com).
+- [How Am I Going To Move My Product Forward Today?](https://www.sachinrekhi.com/how-am-i-going-to-move-my-product-forward-today) - 经过 [Sachin Rekhi](https://www.sachinrekhi.com/).
+- [How to Listen to Customers](https://www.bringthedonuts.com/essays/how-to-listen-to-customers.html) - 经过 [Ken Norton](https://www.bringthedonuts.com/).
+- [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - 经过 [Julie Zhuo](https://www.juliezhuo.com/).
+- [The work is never just “the work”](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/) - 经过 [Dave Stewart](https://davestewart.co.uk/).
 - [You Won't Regret Positive Feedback](https://zachholman.com/posts/positive-feedback/) - 经过 [Zach Holman](https://zachholman.com).
 - [A Minimum Viable Product Is Not a Product, It's a Process](https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - 经过 [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
 - [Being Glue](https://noidea.dog/glue) - 经过 [Tanya Reilly](https://noidea.dog/about).
@@ -295,7 +305,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
  | 播客 | 主持人 | 网址 | 说明 |
 |----------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------|-------------|
-| <img alt="The Work Item" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-the-work-item.png" width="100px" />             | 德利马尔斯基 |  https://theworkitem.com | 每周，Den Delimarsky 都会与来自不同行业、角色和背景的人们坐下来，详细了解他们的职业旅程、经验教训，以及如何规划您自己的独特轨道.  |
+| <img alt="The Work Item" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-the-work-item.png" width="100px" />             | 德利马尔斯基 |  https://theworkitem.com | 每周，Den Delimarsky 都会与来自不同行业、角色和背景的人们坐下来，详细了解他们的职业旅程、经验教训，以及如何规划您自己的非常独特的轨道.  |
 | <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpg" width="100px" />       | 里德霍夫曼 |  https://mastersofscale.com/ | 公司如何从零发展到亿万？ 传奇的硅谷投资者/企业家里德霍夫曼与著名创始人一起检验他的理论. 嘉宾包括 Facebook 的马克扎克伯格和谢丽尔桑德伯格、Netflix 的里德黑斯廷斯、谷歌的埃里克施密特和 Spanx 的萨拉布莱克利. 凭借原创音乐和滑稽的诚实故事，该节目听起来是您从未听过的.  |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />             | 多个 |  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787 | 这是您的产品管理播客，其中包含来自 Google、Facebook、LinkedIn、Spotify、Twitter 和其他科技公司/初创公司的 PM. 如果您是想要了解最新最佳实践的经理、设计师、工程师、企业家或营销人员，请收听.  |
 | <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                        | 多个 |  https://www.gimletmedia.com/startup | 您永远听不到的商业起源故事.  |
@@ -318,7 +328,7 @@ Screeb 是一个以产品为导向的用户研究平台，可帮助产品团队�
 
 - [Industry](https://industryconference.com/)  - 在 3 天的时间里，与会者将向著名的产品领导者学习，并分享他们用于构建、发布和扩展世界级软件产品的最新方法、工具和框架. 构建世界一流的软件产品非常困难. 在 INDUSTRY，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
 - [ProductCon](https://www.productschool.com/productcon/)  - ProductCon 由 Product School 组织，每年在旧金山、洛杉矶、纽约、西雅图和伦敦举办五次. 演讲者阵容包括来自 Google、Slack、Amazon、Airbnb、Netflix、Facebook 等的产品负责人. 您将了解最成功产品背后的最佳实践，以及人工智能、虚拟现实、物联网和区块链领域的新趋势. 您还将有机会与我们所有对招聘 PM 感兴趣的赞助公司互动.
-- [La Product Conf](https://www.laproductconf.com/)  - 由 Thiga 组织的 La Product Conf (LPC) 每年在巴黎（法国）和马德里（西班牙）举办一次. 演讲者阵容包括来自 Pinterest、Carrefour、Payfit、Google、Meetic 等的产品领导者.
+- [La Product Conf](https://www.laproductconf.com/)  - 由 Thiga 组织的 La Product Conf (LPC) 每年在巴黎（法国）和马德里（西班牙）举办一次. 演讲者阵容包括来自 Pinterest、家乐福、Payfit、谷歌、Meetic 等的产品领导者.
 
 ## Additional resources
 

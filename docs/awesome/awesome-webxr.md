@@ -43,7 +43,7 @@
 
 ## Avatars
 
-*Resources for creating and utilizing 3D avatars in immersive experiences.*
+*在沉浸式体验中创建和使用 3D 化身的资源.*
 
 - [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的化身系统，可以加载多种不同模型格式的人形化身，并具有手臂+腿部 IK、通过视位的面部动画等. 原来的 repo 不再维护，但是有一个更新的 fork 可用 [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，您可以下载 glTF 格式.
@@ -195,14 +195,13 @@
 - [Raspberry Dream Land](https://www.rdland.io/)  - 一个专注于包容性、激进的自我表达和虚拟关系的进步活动平台. 也有自己的NFT头像收藏.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - 一个网络查看器，可让您探索来自 [Somnium Space](https://www.somniumspace.com/) 在您的浏览器中，Oculus Quest 浏览器支持 VR.
 - [vrland](https://vrland.io/) - 一个支持展示 NFT 的聚会和虚拟展示平台.
-- [Webaverse](https://webaverse.com/)  - 由以太坊提供支持的开源虚拟世界，支持自定义头像. 专注于数字所有权、开放经济和互操作性.
 
 ## YouTube
 
 *重点关注 WebXR 的 YouTube 频道.*
 
 - [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - 官方 M3 频道.
-- [Sorskoot](https://youtube.com/sorskoot) - 教程和其他 WebXR 相关内容.
+- [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
 - [WebXR](https://www.youtube.com/c/WebXR) - 官方 WebXR 频道.
 - [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - 包含来自 WebXR 峰会系列的剪辑、VOD 和其他视频.
 - [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - 官方仙境引擎频道.

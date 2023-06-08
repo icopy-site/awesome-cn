@@ -69,7 +69,7 @@
 - [ecmascript-compat](https://github.com/robatwilliams/es-compat) - 禁用浏览器列表目标不支持的 ECMAScript 语言功能.
 - [es](https://github.com/mysticatea/eslint-plugin-es) - 禁用特定的 ECMAScript 语言版本或个别功能.
 - [es5](https://github.com/nkt/eslint-plugin-es5) - ES5 用户的 ESLint 插件（禁止使用 ES2015+）.
-- [ie11](https://github.com/Volox/eslint-plugin-ie11) - 检测 IE11 中不支持的 ES6 功能.
+- [ie11](https://github.com/Volox/eslint-plugin-ie11) - 检测 IE11 中不受支持的 ES6 功能.
 
 ### CSS in JS
 
@@ -129,7 +129,7 @@
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - 用于 JSON、JSONC 和 JSON5 的 ESLint 插件.
   - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - 使用 JSON Schema Validator 验证在 JavaScript、JSON、YAML 和 TOML 中定义的数据.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - 用于 MDX 的 ESLint 解析器/插件.
-- [Node](https://github.com/mysticatea/eslint-plugin-node) - Node.js 的附加 ESLint 规则.
+- [Node](https://github.com/mysticatea/eslint-plugin-node) - 附加 ESLint 的 Node.js 规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - ESLint 的 SQL linting 规则.
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - 用于 TOML 的 ESLint 插件.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - TypeScript 的 Linting 规则.
@@ -180,7 +180,7 @@ Lodash
 <!-- lint ignore awesome-spell-check -->
 - [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - 针对 `Math.max(...args)` 等可能导致大型数组堆栈溢出的表达式进行检查.
 - [no-comments](https://github.com/wisniewski94/eslint-plugin-no-comments) - 防止在未使用捆绑器的情况下将注释泄漏到生产环境中，并阻止开发人员注释掉旧代码行.
-- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告使用 `this` 和 `bind` 或在构造函数中设置状态来鼓励使用类属性.
+- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告将“this”与“bind”一起使用或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - ESLint 的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 都 2019 年了，你还在用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - 在消息中显示查询语法的内容.
@@ -213,6 +213,7 @@ Lodash
 - [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) - 从中导出规则 [`.editorconfig`](https://editorconfig.org/).
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - 确保 JavaScript 文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
+- [perfectionist sorting](https://github.com/azat-io/eslint-plugin-perfectionist) - 对对象、导入、TypeScript 类型、枚举、JSX 道具等进行排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - ESLint 的 Switch-case-specific linting 规则.
 - [padding](https://github.com/mu-io/eslint-plugin-padding) - 允许/禁止语句之间的填充.
 

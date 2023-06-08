@@ -2208,7 +2208,7 @@ _用于解析和操作文本的库._
 - [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - 简单轻量级的通配符模式匹配.
 - [goregen](https://github.com/zach-klippenstein/goregen) - 用于从正则表达式生成随机字符串的库.
 - [regroup](https://github.com/oriser/regroup) - 使用 struct 标签和自动解析将正则表达式命名组匹配到 go struct 中.
-- [rex](https://github.com/hedhyw/rex) - Regular expressions builder.
+- [rex](https://github.com/hedhyw/rex) - 正则表达式生成器.
 
 ### Sanitation
 
@@ -2607,6 +2607,7 @@ _全栈网络框架._
 - [Beego](https://github.com/beego/beego) - beego 是一个用于 Go 编程语言的开源、高性能 Web 框架.
 - [Buffalo](https://gobuffalo.io) - 将 Rails 的生产力带到 Go！
 - [Confetti Framework](https://confetti-framework.github.io/docs/)  - Confetti 是一个 Go 网络应用程序框架，具有富有表现力的优雅语法.  Confetti 结合了 Laravel 的优雅和 Go 的简单性.
+- [Don](https://github.com/abemedia/go-don) - 一个高性能且易于使用的 API 框架.
 - [Echo](https://github.com/labstack/echo) - 高性能、极简的 Go Web 框架.
 - [Fiber](https://github.com/gofiber/fiber) - 基于 Fasthttp 构建的受 Express.js 启发的 Web 框架.
 - [Fireball](https://github.com/zpatrick/fireball) - 更“自然”的感觉网络框架.
@@ -3082,7 +3083,7 @@ _在哪里可以发现新的 Go 库._
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 - [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [Go 101](https://go101.org) - 一本专注于 Go 语法/语义和各种细节的书.
-- [Go AST Book (Chinese)](https://github.com/chai2010/go-ast-book) - 一本专注于 Go `go/*` 包的书.
+- [Go AST Book (Chinese)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
 - [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - 波斯语.
 - [GoBooks](https://github.com/dariubs/GoBooks) - 精选的围棋书籍清单.
 - [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - 针对初学者的 600 页 Go 介绍.

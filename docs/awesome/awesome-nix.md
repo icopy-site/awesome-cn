@@ -31,10 +31,6 @@
 * [Pkgs on Nix](https://pkgs.on-nix.com/) - 包含来自所有渠道的所有版本的 Nix 包的数据库.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - 搜索所有 2000 多个 Home Manager 选项并阅读如何使用它们.
 
-### Newsletters
-
-* [NixOS Weekly](https://weekly.nixos.org/) - *The* 时事通讯随时了解社区更新.
-
 ## Installation Media
 
 * [nixos-generators](https://github.com/nix-community/nixos-generators) - 采用 NixOS 配置并构建多种不同的图像类型，包括 VirtualBox VM、Azure 图像和安装 ISO.
@@ -84,7 +80,8 @@
 * [nix-du](https://github.com/symphorien/nix-du) - 可视化要删除哪些 gc-roots 以释放 Nix 存储中的一些空间.
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位带有特定文件的 Nix 包.
 * [nix-init](https://github.com/nix-community/nix-init) - 通过散列预取、依赖关系推断、许可证检测等从 URL 生成 Nix 包.
-* [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
+* [nix-melt](https://github.com/nix-community/nix-melt) - 类似游侠的 flake.lock 查看器.
+* [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
 * [nurl](https://github.com/nix-community/nurl) - 从存储库 URL 生成 Nix 提取器调用.
 * [nvd](https://gitlab.com/khumba/nvd)  - 两个商店路径之间的差异包版本； 它对于比较重建时的 NixOS 代特别有用.
@@ -141,7 +138,7 @@
 ### Haskell
 
 * [cabal2nix](https://github.com/NixOS/cabal2nix) - 将 Cabal 文件转换为 Nix 构建表达式.
-* [haskell-flake](https://github.com/srid/haskell-flake) - A `flake-parts` Nix module for Haskell development.
+* [haskell-flake](https://github.com/srid/haskell-flake) - 用于 Haskell 开发的 `flake-parts` Nix 模块.
 * [haskell.nix](https://github.com/input-output-hk/haskell.nix) - Nixpkgs 的替代 Haskell 基础设施.
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - 在 Emacs 中自动设置 Haskell.
 * [nixkell](https://github.com/pwm/nixkell) - 使用 Nix 和 direnv 的 Haskell 项目模板.

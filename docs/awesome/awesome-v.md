@@ -61,6 +61,7 @@
 - [v](https://github.com/vlang/v)  - V 本身. 用于开发可维护软件的简单、快速、安全的编译语言.
 - [vas](https://github.com/v420v/vas) - 用 V 编写的简单 x86-64 汇编器.
 - [vbf](https://github.com/vpervenditti/vbf) - 一个 brainfuck 解释器/编译器.
+- [vfuck](https://github.com/ShayokhShorfuddin/VFuck) - 用 V 编写的 brainfuck 解释器.
 - [vcc](https://github.com/lemoncmd/vcc) - 用 V 编写的 AC 编译器.
 - [Vork](https://github.com/Itay2805/Vork) - 用 Python 编写的替代 V 编译器/解释器.
 
