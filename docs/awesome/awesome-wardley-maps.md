@@ -62,12 +62,13 @@
 ## Maps in the Wild
 
 博客文章和 Wardley 地图的其他有趣示例. 按日期排序，最新的在前.
+- [What do I use maps for?](https://blog.gardeviance.org/2023/06/what-do-i-use-maps-for.html)  - Simon Wardley 列举了一系列例子.  6月08日，
 - [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411)  - 关于如何使用 OpenAI、Streamlit 和 Python 创建问答应用程序 AI 应用程序的博客文章. 提供完整的源代码.
 - [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0)  - 关于如何使用 OpenAI、Streamlit 和 Python 创建 Wardley Map 聊天机器人的博文. 提供完整的源代码.
 - [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - 关于 Wardley Mapping Prompt Engineering for ChatGPT 的 Twitter 线程有很多例子.
 - [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - 中国、EEUU 和欧洲情景比较.
 - [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
-- [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  -华金·佩尼亚·费尔南德斯 (Joaquín Peña Fernández).  2022 年 8 月 29 日.
+- [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  -华金·佩尼亚·费尔南德斯 (Joaquin Peña Fernandez).  2022 年 8 月 29 日.
 - [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  -华金·佩尼亚·费尔南德斯 (Joaquin Peña Fernandez).  9月16日，
 - [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 西蒙·沃德利 (Simon Wardley) 为什么电子游戏将成为一个国家灵魂的新战场.  2021 年 9 月 8 日.
 - [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) 我们使用工作角色的方式容易产生偏见、阻碍创新并拖慢组织的发展. 盖伊·狄金森 (Guy Dickinson) 着.  2021 年 6 月 13 日
@@ -187,7 +188,7 @@
 - [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Microsoft Visio 和 PowerPoint 的模板.
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - 使用此模板进行映射的操作指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - Figma 的映射模板.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - 用于 OmniGraffle 的 Wardley 映射模具.
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - 用于 OmniGraffle 的 Wardley 映射模板.
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - 图 8 和图 11 来自 Simon Wardley 的书，用于演示在 LaTeX 中绘制 Wardley 地图.
 - [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley 为 yEd 绘制调色板.
 - [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - 谷歌幻灯片模板.

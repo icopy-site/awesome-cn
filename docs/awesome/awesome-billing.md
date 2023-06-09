@@ -7,6 +7,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sponsors/kdeldycke">
+    <strong>Yᴏᴜʀ Pᴀʏᴍᴇɴᴛ &amp; Bɪʟʟɪɴɢ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ！</strong>
+    <br/>
+    <sup>在此处添加指向您的公司或项目的链接：通过 GitHub 赞助支持我.</sup>
+  </a>
+</p>
+
+______________________________________________________________________
+
 <p>任何公司都需要在某一时刻从客户那里获得资金. 这就是我们开发人员的事情变得一团糟的时候，因为我们试图用我们的软件堆栈来协调业务的复杂性.</p>
 
 <p>这<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
@@ -73,7 +83,7 @@
 
 - [Allen's interval algebra](https://en.wikipedia.org/wiki/Allen%27s_interval_algebra)  - 实施基于使用的定价是棘手的，这个代数将帮助您组织时间推理. 也看到这个 [Stack Overflow question with clean schema](https://stackoverflow.com/questions/12069082/allens-interval-algebra-operations-in-sql?rq=1).
 
-- [Reconcile Your Monthly GCP Invoice with BigQuery Billing Export](https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e)  - 在这个开发者追踪其费用的追求的背后，您可以瞥见云计费的困难. 虽然没有明确指出，但云资源的定价是困难的，是空间、时间和货币之间量化、粒度和舍入的结果.
+- [Reconcile Your Monthly GCP Invoice with BigQuery Billing Export](https://medium.com/@lukwam/reconcile-your-monthly-gcp-invoice-with-bigquery-billing-export-b36ae0c961e)  - 在这个开发者追踪其费用的追求背后，您可以瞥见云计费的困难. 虽然没有明确指出，但云资源的定价是困难的，是空间、时间和货币之间量化、粒度和舍入的结果.
 
 - [AWS EC2 T2 Instances Demystified: Don't Learn The Hard Way](https://roberttisdale.com/aws-ec2-t2-instances-demystified-dont-learn-hard-way/) - 一个非常棘手的可突发实例的示例，它会累积并限制其自身的 CPU 使用信用量.
 
@@ -97,7 +107,7 @@
 
 ### Hybrid
 
-Uncommon pricing schemes.
+不常见的定价方案.
 
 - [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费套餐.
 
@@ -121,7 +131,7 @@ Uncommon pricing schemes.
 
 调查方法和价格发现技术，以找到合适的价格点.
 
-- [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542)  - “在保险中，价格就是产品.  (...) 我如何改变价格来赚大钱？” 或者如何提供结果（客户的最优价格）而不是提供数据（计算客户的风险，这是精算师以前使用的标准方法）.
+- [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542) - “In insurance, the price is the product. (…) How do I change price to make shitload of money?” Or how to deliver results (optimal price for a customer) instead of delivering data (calculating a customer's risk, which had been the standard approach used by actuaries previously).
 
 - [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method)  - 用于调查以确定新产品或服务的价格. 结果可用于生成需求图表和收入曲线.
 
@@ -135,7 +145,7 @@ Uncommon pricing schemes.
 
 ## Product Catalog
 
-The central repository of all available services, products, variants, options and pricing available to the customer to purchase. Catalogs for cloud services are most of the time tailor-made, but there is some classic PDM solutions ([Product Data Management](https://en.wikipedia.org/wiki/Product_information_management)，又名产品信息管理的 PIM）可能符合要求.
+可供客户购买的所有可用服务、产品、变体、选项和定价的中央存储库. 云服务的目录大部分时间都是量身定制的，但也有一些经典的 PDM 解决方案（[Product Data Management](https://en.wikipedia.org/wiki/Product_information_management)，又名产品信息管理的 PIM）可能符合要求.
 
 - [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - 所有 GCP SKU 都可作为 API 使用.
 
@@ -239,7 +249,7 @@ The central repository of all available services, products, variants, options an
 
 - [Accounting for Developers 101](https://docs.google.com/document/d/1HDLRa6vKpclO1JtxbGB5NeAYWf8cf1UMGy22o8OZZq4) - 会计历史和词汇的一般介绍.
 
-- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何体现在小公司的财务报表中.
+- [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html) - 描述如何以资金流动的图表形式查看会计，然后这些变动如何在小公司的财务报表中具体化.
 
 - [The Double-Entry Counting Method](https://beancount.github.io/docs/the_double_entry_counting_method.html) - 与上述相同的前提，但更加详细和完整，因为它添加了报告和实施细节.
 
@@ -255,7 +265,7 @@ The central repository of all available services, products, variants, options an
 
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - 广泛的开源个人理财项目列表，可以很好地研究复式记账和簿记方面的灵感.
 
-- 以及图形会计工具列表： [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) （C）， [Firefly III](https://firefly-iii.org) （PHP）.
+- And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) （C）， [Firefly III](https://firefly-iii.org) （PHP）.
 
 - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - 使用 GnuCash 跟踪个人财务的完整教程.
 
@@ -269,7 +279,7 @@ The central repository of all available services, products, variants, options an
 
 - [Ledger](https://github.com/numary/ledger) - 可编写脚本的财务分类账，旨在简化复杂金融交易的建模.
 
-- [Akaunting](https://github.com/akaunting/akaunting) - 专为小型企业和自由职业者设计的开源软件.
+- [Akaunting](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ### Software design and implementation
 
@@ -279,7 +289,7 @@ The central repository of all available services, products, variants, options an
 
 - [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - 解释 Square 内部使用的依赖 Google Spanner 的复式记账系统的基本数据模型.
 
-- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+- [TigerBeetle](https://github.com/coilhq/tigerbeetle) - 一个分布式财务会计数据库，以确保资金要么移动，要么不动，它不会在两者之间的某个地方丢失.
 
 - [Django Hordak](https://django-hordak.readthedocs.io) - Django 复式记账系统的核心功能.
 
@@ -371,7 +381,7 @@ The central repository of all available services, products, variants, options an
 
 ### Integrity
 
-发票一旦发出，就必须是不可更改的.
+发票一旦开具，就必须是不可更改的.
 
 - [Digital signatures: how Sleek leverages Cloud HSM to guarantee the integrity of legal documents](https://medium.com/google-developers/digital-signatures-how-sleek-leverages-cloud-hsm-to-guarantee-the-integrity-of-legal-documents-a7bd3b82faf6)  - 这是依靠 GCP 的 HSM 对文档进行数字签名并提供不可变审计跟踪的好方法. 可能适用于发票和合同协议.
 
@@ -399,7 +409,7 @@ The central repository of all available services, products, variants, options an
 
 ### Electronic invoices
 
-- [Factur-X](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+- [Factur-X](https://github.com/akretion/factur-x) - 支持法国和德国电子发票标准的 Python 库.
 
 - [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - 大多数发票软件可以读写UBL文件（XML）进行数据传输.
 
@@ -407,7 +417,7 @@ The central repository of all available services, products, variants, options an
 
 ## Payments
 
-- [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
+- [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - 顶级支付提供商的基准、他们的定价和模型.
 
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)  - RDBMS 是为银行围绕交易构建的，以解决该特定问题. 然后 NoSQL 的出现迫使我们仔细实施系统以避免双重支出.
 
@@ -489,15 +499,15 @@ The central repository of all available services, products, variants, options an
 
 - [Driving Global Fraud Losses Down While Empowering Business Growth](https://youtu.be/yJKWpTBVTiI?t=60)  - 在 Uber Eats 的这次演讲中，我们从最大的支付处理商那里了解到“亏损率下降的成长型企业在业内极为罕见”. 此外，欺诈可以采取多种形式：对不易腐烂的商品进行拒付、滥用促销、退款……
 
-- [KYC and AML: beyond the acronyms](https://www.bitsaboutmoney.com/archive/kyc-and-aml-beyond-the-acronyms/) - KYC 是微妙和模糊的，因为它是一个降低风险的随机过程.
+- [KYC and AML: beyond the acronyms](https://www.bitsaboutmoney.com/archive/kyc-and-aml-beyond-the-acronyms/) - KYC is nuanced and fuzzy, because it is a stochastic process to reduce risk.
 
-- [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - 论文来自关于各种欺诈的多个会议：信用卡、支付交易、贷款、海关检查、洗钱网络等等.
+- [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Papers sourced from several conferences on all sort of fraud: credit card, payment transactions, loans, customs inspections, money laundering networks, and more.
 
 ### Cards
 
 大多数欺诈都在利用最常见的流行支付设备：信用卡.
 
-- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - A practical handbook on how to identify patterns in transactions.
+- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - 关于如何识别交易模式的实用手册.
 
 - [How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/) - 描述一种称为“卡测试”的欺诈技术，其中根据您的 API 检查大量被盗卡的有效性.
 
@@ -507,7 +517,7 @@ The central repository of all available services, products, variants, options an
 
 - [Credit Card Fraud Detection using Autoencoders in Keras](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) - 关于如何依靠异常检测来实施可疑卡交易的教程.
 
-- [Training an ML model to score chargebacks](https://twitter.com/patio11/status/1315452323330621440) - 一个平台网络效应的例子，可以预测赢得争议的可能性.
+- [Training an ML model to score chargebacks](https://twitter.com/patio11/status/1315452323330621440) - 平台网络效应的一个例子，可以预测赢得争议的可能性.
 
 - [How credit card thieves use free-to-play apps to launder gains](https://kromtech.com/blog/security-center/digital-laundry) - 为防止滥用，服务提供商必须加强信用卡验证和帐户创建过程.
 
@@ -589,7 +599,7 @@ The central repository of all available services, products, variants, options an
 
 - [Churn Prediction](https://towardsdatascience.com/churn-prediction-3a4a36c2129a)  - “如何以简单的方式使用 Python，通过将预测方法应用于您的所有行动来推动公司的发展.” 依赖于 XGBoost 二进制分类.
 
-- [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - 一个功能齐全的 Python 包，用于根据用户的“存活”和“死亡”状态分析您的用户.
+- [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - 一个功能齐全的 Python 包，用于根据用户的“活着”和“死亡”状态来分析您的用户.
 
 - [`retentionizer`](https://github.com/chrisclark/retentionizer) - Python 包显示每个队列的预计保留率并计算该队列中给定客户的 LTV.
 
@@ -645,17 +655,23 @@ The central repository of all available services, products, variants, options an
 
 - [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - 近期 GCP 定价功能的总结.
 
-- [Orbitera](https://www.orbitera.com) - GCP 的计费子公司.
+- [Orbitera](https://www.orbitera.com) - GCP's billing subsidiary.
 
 - [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - DO 上的所有最新账单更新.
 
 ## History
 
-- [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - 会计画是荷兰艺术中的一个重要流派.
+ - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接联系.
 
 - [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
- - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接联系.
+- [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - 会计画是荷兰艺术中的一个重要流派.
+
+## Humour
+
+计费并不好笑.
+
+- [Detax](https://detax.framer.website) - 小型企业避税产品的网站模型.
 
 ## Contributing
 

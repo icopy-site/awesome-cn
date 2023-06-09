@@ -64,7 +64,7 @@
   
 ### Employment
 
-- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划结合了这些行政数据以及来自人口普查和调查的数据. 根据这些数据，该程序可以在地理和行业的详细级别以及不同人口群体中创建有关就业、收入和工作流的统计数据. 附加信息： [On The Map Download Page](https://onthemap.ces.census.gov/).
+- [Longitudinal Employer-Household Dynamics (LEHD)](https://lehd.ces.census.gov/)  - LEHD 计划结合了行政数据以及来自人口普查和调查的数据. 根据这些数据，该程序可以在地理和行业的详细级别以及不同人口群体中创建有关就业、收入和工作流的统计数据. 附加信息： [On The Map Download Page](https://onthemap.ces.census.gov/).
 - [Bureau of Labor Statistics](https://www.bls.gov/) - 劳工统计局衡量并提供有关美国经济中劳动力市场活动、工作条件、价格变化和生产率的数据，以支持公共和私人决策.
 
 ### Environment and Ecosystem Services
@@ -73,7 +73,7 @@
 - [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas 是一个交互式工具和资源的集合，允许用户探索人们从自然中获得的许多好处，在美国通常被称为生态系统服务.
 - [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products)  - NHDPlus 高分辨率 (NHDPlus HR)、国家水文数据集 (NHD) 和流域边界数据集 (WBD) 可供下载并作为地图服务提供. 这些数据集有助于为美国的环境规划和雨水管理工作提供信息. 
 - [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) - 美国鱼类和野生动物管理局 (FWS) 国家湿地名录 (NWI) 是一种公开可用的资源，提供有关美国湿地的丰度、特征和分布的详细信息.
-- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了全面评估. 
+- [Park Score](https://www.tpl.org/parkscore) - 公共土地信托组织对美国 100 个最大城市的公园使用权和质量进行了综合评估. 
 - [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - 美国林务局 (USFS) 地理空间技术和应用中心 (GTAC) 建立和维护树冠覆盖 (TCC) 数据集.
 - [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - 大自然保护协会的地理空间门户网站包括网络地图、应用程序、地图库、地方倡议门户网站、保护数据和其他资源.
 
@@ -89,7 +89,7 @@
 
 ### Health
 
-- [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了健康如何受到我们生活、学习、工作和娱乐场所的影响.
+- [County Health Rankings](https://www.countyhealthrankings.org/) - 年度排名揭示了我们的生活、学习、工作和娱乐场所如何影响健康.
 - [HealthData.gov](https://healthdata.gov/) - 本网站致力于让美国的高价值健康数据更容易被企业家、研究人员和政策制定者获取，以期为所有人带来更好的健康结果.  
 - [CDC Places](https://www.cdc.gov/places/index.html) - 与 CDC 合作，无论人口规模和城乡状况如何，地方卫生部门和辖区都可以更好地了解其所在地区与健康相关的结果的负担和地理分布，并协助他们规划公共卫生干预措施.
 - [USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) - 2010 年至 2015 年美国大部分人口普查区的出生时预期寿命估计值，即一个人预期可活的平均年数.
@@ -183,7 +183,7 @@
 ### Urban Observation
 
 - [Numina](https://numina.co/)  - 利用边缘计算设备测量各种路边活动.  Numina 以匿名和汇总的方式提供旅行者和街道上物体的数量、路径和交通行为.
-- [Transoft](https://safety.transoftsolutions.com/)  - Transoft ITS Safety 解决方案利用计算机视觉来识别街道上的“未遂”行为. 这项技术被 Planning Magazine 刊登在 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
+- [Transoft](https://safety.transoftsolutions.com/)  - Transoft ITS 安全解决方案利用计算机视觉来识别街道上的“未遂”行为. 这项技术被 Planning Magazine 刊登在 [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 - [Automotus](https://www.automotus.co/)  - 基于计算机视觉的平台，可帮助城市、机场、车队和企业实时监控路边. 启用路边管理政策，增加收入，同时减少街道拥堵，更可持续，更公平. 
 - [curbFlow](https://www.curbflow.com/) - 基于计算机视觉的服务，以经济实惠的方式快速量化建筑环境中发生的事件. 
 - [Vade](https://www.vade.ai/) - 使用定制的物联网摄像头和计算机视觉，通过基于网络的 API 轻松查询实时停车位可用性. 
@@ -248,7 +248,7 @@ Python 库和相关资源.
 - [Geopandas](https://geopandas.org/)  - GeoPandas 是一个开源项目，可以更轻松地在 Python 中处理地理空间数据.  GeoPandas 扩展了 pandas 使用的数据类型，以允许对几何类型进行空间操作.
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge 是一个 Python 3.6+ 库，用于使用 pandas DataFrames 处理 GTFS 提要.
 - [Peartree](https://github.com/kuanb/peartree) - Peartree 帮助探索 GTFS 数据及其网络特征. 
-- [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
+- [Pandana](https://udst.github.io/pandana/)  - 旨在帮助规划者计算快速可达性指标或最短路径的城市网络分析库. 附加信息：许可证：AGPL-3.0 许可证：提供商：UrbanSim Inc. (UDST).
 - [UrbanSim](https://github.com/udst/urbansim)  - UrbanSim 是一个用于构建城市和地区统计模型的平台. 这些模型有助于预测各种政策情景下房地产开发、人口统计和相关结果的长期模式. 信息：许可证：BSD 许可证：提供商：UrbanSim Inc. (UDST).
 - [Geosnap](https://github.com/spatialucr/geosnap) - 使用美国人口普查数据的地理空间和时间邻域分析.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
@@ -269,7 +269,7 @@ Python 库和相关资源.
 
 
 ### R
-R 包及相关资源.
+R Packages & Related Resources.
 
 - [R Shiny](https://shiny.rstudio.com/) - 使用 R 创建动态的、网络友好的数据可视化.附加信息： [Shiny Tutorial](https://shiny.rstudio.com/tutorial/).
 - [simplefeatures(sf)](https://cran.r-project.org/web/packages/sf/index.html) - 支持简单的特征，一种在 R 中编码空间矢量数据的标准化方法. 
@@ -277,13 +277,13 @@ R 包及相关资源.
 - [tidytext](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) - 用于文本挖掘的首选库——通常与 ggplot 或其他文本挖掘库一起使用.
 - [leafgl](https://github.com/r-spatial/leafgl) - 用于传单地图快速 web-gl 渲染的 R 包.
 - [Motif](https://cran.r-project.org/web/packages/motif/index.html)  - 描述任何定义的规则和不规则区域的分类栅格数据的空间模式. 它支持对空间模式执行搜索、变化检测和聚类等空间分析.
-- [Raster](https://cran.r-project.org/web/packages/raster/index.html)  - 空间数据的读取、写入、操作、分析和建模. 该包实现了栅格数据和矢量数据操作（如交叉点）的基本和高级功能. 
+- [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections. 
 - [Rgee](https://github.com/r-spatial/rgee) - 是一个 R 绑定包，用于从 R 中调用 Google Earth Engine API.实现了各种功能以简化与 R 空间生态系统的连接.
 - [r5r](https://github.com/ipeaGIT/r5r) - 是一个 R 包，用于利用 Conveyal R5 路由引擎在多式联运网络（步行、自行车、公共交通和汽车）上快速逼真的路由. 
 - [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - 提供一种整洁的空间网络分析方法. 
 - [Stars](https://cran.r-project.org/web/packages/stars/index.html) - 在“R”中读取、操作、写入和绘制时空数组（栅格和矢量数据立方体）.
 - [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - 交通规划工具，重点是空间交通数据和非机动模式，包括 OD 数据处理和其他功能. 
-- [Tmap](https://cran.r-project.org/web/packages/tmap/)  - 专题地图是其中可视化空间数据分布的地理地图. 该软件包提供了一种灵活、基于图层且易于使用的方法来创建专题地图，例如等值线图和气泡图.
+- [Tmap](https://cran.r-project.org/web/packages/tmap/)  - 专题地图是空间数据分布可视化的地理地图. 该软件包提供了一种灵活、基于图层且易于使用的方法来创建专题地图，例如等值线图和气泡图.
 - [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - 一种访问和操作 GTFS 数据的简洁方法，包括公交路线、时间表和站点.
 - [tidycensus](https://walker-data.com/tidycensus/) - 一种从美国人口普查局 API 访问数据以进行操作或空间分析的简洁方法.
 
@@ -358,7 +358,7 @@ R 包及相关资源.
 ### Planning Management and Administrative Tools and Platforms
 旨在帮助规划管理和管理的软件、工具和平台. 这包括用于许可、开发审查、数字计划开发和其他规划管理任务的软件. 
 - [Encode Plus](https://www.encodeplus.com/) - 帮助使规划和分区条例现代化并简化县或市法规和章程管理的软件.
-- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的用于许可和办公室流程的数字政府解决方案（提供商在技术上是公共机构）.
+- [MyGovernmentOnline](https://www.mygovernmentonline.org/) - 政府为政府设计的用于许可和办公室流程的数字政府解决方案（供应商在技术上是一个公共机构）.
 - [Digiplan](https://digeplan.com/) - 为完全集成的电子计划审查和接收流程提供软件.
 - [OpenGov](https://opengov.com/products/citizen-services/) - 云解决方案，通过用户友好的工作流程为每项许可、执照和检查提供支持. 
 
@@ -376,7 +376,7 @@ R 包及相关资源.
 ### Urban Design Tools and Platforms
 协助城市设计和建筑环境中类似创意应用的软件、工具和平台. 这包括 3D 建模工具、渲染和不同的 XR 应用程序. 
 
-- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)  - CityEngine 是先进的 3D 建模软件，用于创建巨大的、交互式的和身临其境的城市环境，比传统建模技术花费的时间更短. 您使用 CityEngine 创建的城市可以基于真实世界的 GIS 数据和有助于快速创建的程序规则 [streets](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
+- [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview)  - CityEngine 是一种先进的 3D 建模软件，用于创建巨大的、交互式的和身临其境的城市环境，比传统建模技术花费的时间更少. 您使用 CityEngine 创建的城市可以基于真实世界的 GIS 数据和有助于快速创建的程序规则 [streets](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 - [SketchUp](https://www.sketchup.com/)  - 易于使用的交互式 3D 建模软件，用于规划和设计应用程序. 由丰富的资产库支持，用于创建社区设计. 
 - [Rhino](https://www.rhino3d.com/)  - 这是一款商用3D计算机图形和计算机辅助设计应用软件.  Rhino 在其之上构建了多个插件，包括 Grasshopper 和 Urban Network Analysis 工具箱，以实现复杂的建模和分析. 
 - [Adobe Creative Suite](https://www.adobe.com/creativecloud.html)  - Adob​​e 的 20 多个桌面和移动应用程序和服务的集合，用于摄影、设计、视频、Web、UX 等. 流行的产品包括 Photoshop、Adobe Illustrator 等. 
@@ -388,7 +388,7 @@ R 包及相关资源.
 ### Urban Planning Tools and Platforms
 旨在协助一般城市规划任务和流程的软件、工具和平台. 
 
-- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment. 
+- [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban 使规划人员和设计专业人员能够发布生活计划并使用支持场景规划和影响评估的基于 Web 的 3D 应用程序跨团队协作. 
 - [UrbanFootPrint](https://urbanfootprint.com/) - 基于网络的规划工具，为城市从业者提供精选的城市、环境和经济数据，并为他们提供分析能力，以更快、更好和更低的成本规划和改善社区.
 - [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler 是一个基于网络的平台，专为规划人员和建模人员设计，可使用 [UrbanSim](https://github.com/UDST/urbansim) 告知区域交通计划. 
 
@@ -435,7 +435,7 @@ R 包及相关资源.
 涉及建筑环境或社区的播客. 
 - [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways 播客是一个关于交通和城市设计的每周播客.
 - [99% Invisible](https://99percentinvisible.org/) - 99% Invisible 是一个声音丰富的叙事播客，讲述了我们没有想到的所有想法——塑造我们世界的不为人知的建筑和设计.
-- [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯到 2010 年的规划主题采访和讨论. 
+- [APA Podcast](https://www.planning.org/podcast/) - 美国规划协会的播客，其中包含可追溯至 2010 年的规划主题采访和讨论. 
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - 播客探讨了我们如何在经济上加强我们的城市、城镇和社区，并在此过程中使它们成为更好的居住地. 
 - [The Urban Planner's Podcast](https://podcasts.apple.com/us/podcast/the-urban-planners-podcast/id1502943446) - 此播客面向城市规划人员、城市规划学生和对城市规划主题感兴趣的人.
 
@@ -446,7 +446,7 @@ R 包及相关资源.
 ---
 
 ### Other GitHub Resource Lists
-此页面已注册为 [awesome-list](https://github.com/topics/awesome-list) , 但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源管理策展. 
+This page is registered as an [awesome-list](https://github.com/topics/awesome-list) , 但可以在此处列出类似的 GitHub 存储库. 这些是与不同主题相关的资源管理策展. 
 
 - [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - 交通数据工具和资源的集合.
 - [micromobility-tools-and-resources](https://github.com/NABSA/micromobility-tools-and-resources) - 微型交通工具和数据资源的集合.
@@ -462,7 +462,7 @@ R 包及相关资源.
 - [Urban Computing Foundation](https://github.com/ucfoundation)  - 加速开源和社区发展，改善互联城市的移动性、安全性、基础设施、交通和能源消耗. 附加信息： [Landscape](https://landscape.uc.foundation/). 
 - [Data.Gov](https://www.data.gov/) - 美国联邦数据、工具和资源存储库，用于开展研究、开发网络和移动应用程序、设计数据可视化等.
 - [Harvard Dataverse](https://dataverse.harvard.edu/)  - Harvard Dataverse 是研究数据的存储库. 它包含跨越科学的各种数据集，其中许多具有公共领域的奉献精神. 
-- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
+- [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - 与此 repo 类似，Civic Tech Field Guide 的一系列资源已由来自全球 100 多个国家/地区的公民技术从业者众包.
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Nexus 研究新的机动性、自动驾驶汽车、电子商务和其他创新将对城市和社区产生的潜在影响，并对与之相关的各种资源和工具进行分类.
 - [Data Standards Directory](http://datastandards.directory/) - 这个开放的数据标准目录汇总了已知的数据标准示例，并以如何理解其应用的分类为特色. 
 - [Digital.Gov](https://digital.gov/) - 关于在政府中建立更好的数字服务的指导和资源.

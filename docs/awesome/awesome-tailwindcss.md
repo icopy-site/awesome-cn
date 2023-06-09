@@ -40,7 +40,7 @@
 - [Play](https://play.tailwindcss.com/) - Tailwind CSS 的高级在线游乐场.
 - [Just-in-time](https://github.com/tailwindlabs/tailwindcss-jit) - 用于 Tailwind CSS 的即时编译器.
 - [Tailwind Weekly](https://tailwindweekly.com/) - 关于所有 Tailwind CSS 的每周时事通讯.
-- [Built With Tailwind](https://builtwithtailwind.com/) - 由社区驱动的使用 Tailwind CSS 构建的很棒的网站集合.
+- [Built With Tailwind](https://builtwithtailwind.com/) - 使用 Tailwind CSS 构建的社区驱动的很棒的网站集合.
 
 ## IDE Extensions
 
@@ -195,7 +195,6 @@
 - [Play](https://play.tailwindcss.com/) - Tailwind CSS 的高级在线游乐场.
 - 🌍 [Updrafts.app](https://updrafts.app/) - 用于 Tailwind CSS 的高级在线无代码拖放编辑器.
 - 🌍 [tailwind.run](https://tailwind.run) - 具有内置功能的 Tailwind CSS fiddle（在线）.
-- 🌍 [tailzilla.app](https://tailzilla.app) - Tailwind CSS 的在线游乐场.
 - 🌍 [Flowrift](https://flowrift.com) - 设计精美的 Tailwind CSS UI 块.
 - [Tailwindhelper](https://www.tailwindhelper.com/) - 可视化 Tailwind CSS 类和单位转换器.
 - [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) - Tailwind 类的前缀工具.

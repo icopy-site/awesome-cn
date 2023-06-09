@@ -281,6 +281,7 @@
 - [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式.
 - [UpdateRocks!](https://www.update.rocks)  - 自动更新服务. 免费用于开源项目.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - 构建可通过插件扩展的应用程序.
+- [Hydraulic Conveyor](https://hydraulic.dev) - 无需任何特殊更新服务器、多平台 CI 或代码更改即可部署应用程序的 CLI 工具.
 
 ### Using Electron
 

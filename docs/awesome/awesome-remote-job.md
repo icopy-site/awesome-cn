@@ -142,6 +142,7 @@
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - 位置过滤器 -&gt; *远程*
   1. [Daily Remote](https://dailyremote.com) 过滤并找到每个角色的远程工作！
+  1. [Dev Employ](https://devemploy.com) 精心挑选的开发人员职位
   1. [Diversify Tech](https://www.diversifytech.co/job-board) - 公司对其多元化和包容性努力保持透明 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
@@ -167,7 +168,7 @@
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - 特定于女性
   1. [Remote Backend Jobs](https://remotebackendjobs.com/) - 从全球排名前 22 位的招聘网站中找到专门的远程后端工作.
-  1. [Remote Frontend Jobs](https://remotefrontendjobs.com/) - 从全球排名前 22 的工作委员会中找到专门的远程前端工作.
+  1. [Remote Frontend Jobs](https://remotefrontendjobs.com/) - 查找从世界前 22 名工作委员会汇总的独家远程前端工作.
   1. [PyJobs.com](https://www.pyjobs.com/?remoteLevel[0]=1&remoteLevel[1]=2) - Python 开发人员的工作
   1. [Remote Game Jobs](https://remotegamejobs.com/) - 在游戏行业寻找远程工作和人才.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - 提供具有西班牙合同的全职远程工作的存储库上市公司
@@ -252,11 +253,11 @@
   1. [remoteinterview.io](https://www.remoteinterview.io/) - 编码测试和结对编程面试工具
   1. [skillmeter.com](https://skillmeter.com/) - 面向招聘人员和公司的在线技能测试平台
   1. [hackerrank.com](https://www.hackerrank.com/) - 代码学习和招聘的在线平台也提供工作机会
-  1. [Codility](https://www.codility.com/) - 提供赞助挑战的在线平台
+  1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
   1. [Meetapro](https://meetapro.com/) - 一个拥有顶级 FAANG 面试官的 Airbnb 风格模拟面试平台
 
 ## Events
-  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
+  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10天静修
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
   1. [Recurse Center](https://www.recurse.com/) - 3个月的免费静修
 
@@ -382,7 +383,7 @@
   1. [Hanzo](https://www.hanzo.co/about-us/careers-uk)  - 网络存档公司. 完全远程. 蟒蛇，AWS.
   1. [Harvest](https://www.getharvest.com/careers) - 时间跟踪软件.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html)  - 用于自动化现代数据中心的开源工具.  Go、Ruby、Rails、Ember、JavaScript.
-  1. [Hatica](https://www.hatica.io) - 工程团队的工作分析：Hatica 为工程领导者和经理提供可操作的见解，以促进工作协调、加速交付、推动团队参与并促进团队福祉.
+  1. [Hatica](https://www.hatica.io) - 工程团队的工作分析：Hatica 为工程领导和经理提供可操作的见解，以促进工作协调、加速交付、推动团队参与并促进团队福祉.
   1. [Healthfinch](https://www.healthfinch.com/careers)  - 使医疗保健系统更有用. 总部位于美国威斯康星州麦迪逊. 红宝石，JavaScript.
   1. [Heap](https://heapanalytics.com/careers/jobs) – 网络和移动分析，我们 8 名队友中有 2 名是远程的.
   1. [Heetch](https://jobs.heetch.com)  – 在欧洲和非洲运营的叫车服务. 完全远离欧洲或类似时区. 去吧，AWS.
@@ -563,7 +564,7 @@
   1. [Fleep](https://fleep.io/) - 开发团队的内部聊天和协作工具
   1. [Floobits](https://floobits.com)  - 通过屏幕共享进行远程配对编程. 与 Sublime、IntelliJ、Atom 等集成
   1. [Flowdock](https://www.flowdock.com/)  – 团队基于浏览器的群聊. 与 GitHub、Jira、Jenkins 等集成.
-  1. [Gather](https://gather.town/) - Gather 是一个视频通话空间，可让多人同时进行单独的对话，就像在现实生活中一样轻松地进出这些对话.
+  1. [Gather](https://gather.town/) - Gather 是一个视频通话空间，可以让多人同时进行单独的对话，就像在现实生活中一样轻松地进出这些对话.
   1. [IRCCloud](https://www.irccloud.com) – 具有永久存储的基于浏览器的 IRC 客户端.
   1. [Jitsi](https://jitsi.org) - 多平台开源视频会议
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix 是分布式团队的在线开源工作场所.
