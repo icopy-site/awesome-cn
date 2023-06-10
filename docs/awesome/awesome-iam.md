@@ -8,17 +8,13 @@
 </p>
 
 <p align="center">
-  <strong>有关管理帐户、用户、角色、</strong>
-权限、身份验证和授权.
-  <br/>
   <a href="https://raw.githubusercontent.com/kdeldycke/awesome-iam#readme" hreflang="en"><img src="https://img.shields.io/badge/lang-English-blue?style=flat-square" lang="en" alt="English"></a>
   <a href="https://raw.githubusercontent.com/kdeldycke/awesome-iam/blob/main/readme.zh.md" hreflang="zh"><img src="https://img.shields.io/badge/lang-汉语-blue?style=flat-square" lang="zh" alt="汉语"></a>
-  <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ＆Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ Pʀᴏᴅᴜᴄᴛʜᴇʀᴇ！</strong>
+    <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ＆AᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴPʀᴏᴅᴜᴄᴛʜᴇʀᴇ！</strong>
     <br/>
     <sup>在此处添加指向您的公司或项目的链接：通过 GitHub 赞助支持我.</sup>
   </a>
@@ -33,9 +29,9 @@
 
 <!--lint disable double-link-->
 
-[IAM](https://en.wikipedia.org/wiki/Identity_management) 代表身份和访问管理. 但这不仅仅是处理用户帐户：它包含身份验证、授权和隐私，使这个边界变得相当复杂. 它是云堆栈的重要支柱，用户、产品和安全性在这里相遇. 这 [other pillar being billing & payments 💰](https://github.com/kdeldycke/awesome-billing/).
+[IAM](https://en.wikipedia.org/wiki/Identity_management) 代表身份和访问管理. 它是一个复杂的域，涵盖**用户帐户、身份验证、授权、角色、权限和隐私**. 它是云堆栈的重要支柱，用户、产品和安全性在这里相遇. 这 [other pillar being billing & payments 💰](https://github.com/kdeldycke/awesome-billing/).
 
-该知识库以全面且可操作的方式公开该领域的所有技术、协议和行话.
+这个策划 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 列表以全面且可操作的方式公开该领域的所有技术、协议和行话.
 
 <!--lint enable double-link-->
 
@@ -167,7 +163,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/)  - 密码不是用户身份验证的全部和最终结果. 这篇文章试图告诉你为什么.
 
-- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - What are magic links, their origin, pros and cons.
+- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - 什么是魔法链接，它们的来源、优点和缺点.
 
 - [WebAuthn guide](https://webauthn.guide) - 一个非常容易理解的 WebAuthn 指南，一个标准允许“服务器使用公钥加密而不是密码来注册和验证用户”，所有主要浏览器都支持.
 
@@ -191,7 +187,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Beyond Passwords: 2FA, U2F and Google Advanced Protection](https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/) - 全面了解所有这些技术.
 
-- [A Comparative Long-Term Study of Fallback Authentication](https://www.mobsec.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2019/02/20/usec2019-30-wip-fallback-long-term-study-finalv2.pdf)  - 要点：“基于电子邮件和短信的方案更有用. 另一方面，基于指定受托人和个人知识问题的机制在便利性和效率方面都存在不足.”
+- [A Comparative Long-Term Study of Fallback Authentication](https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
 
 - [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)  - “我们的分析证实，秘密问题通常提供的安全级别远低于用户选择的密码.  (...) 令人惊讶的是，我们发现造成这种不安全感的一个重要原因是用户通常不会如实回答.  (...) 在可用性方面，我们表明秘密答案的记忆力出奇地差”.
 
@@ -255,7 +251,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Learn how to use JWT for Authentication](https://github.com/dwyl/learn-json-web-tokens) - 了解如何使用 JWT 来保护您的网络应用程序.
 
-- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供细粒度安全性、同质身份验证架构、去中心化发行、OAuth2 合规性、可调试性、过期控制、设备管理.
+- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供精细的安全性、同质身份验证架构、去中心化发行、OAuth2 合规性、可调试性、过期控制、设备管理.
 
 - [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) - JWT 具有各种灵活性，因此很难很好地使用.
 
@@ -303,15 +299,15 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
-- [PKCE Explained](https://www.loginradius.com/engineering/blog/pkce/) - “PKCE 用于为 OAuth 和 OpenID Connect 中的授权代码流提供更多的安全层.”
+- [PKCE Explained](https://www.loginradius.com/blog/engineering/pkce/) - “PKCE 用于为 OAuth 和 OpenID Connect 中的授权代码流提供更多的安全层.”
 
 - [Hydra](https://gethydra.sh) - 开源 OIDC 和 OAuth2 服务器.
 
 - [Cierge](https://web.archive.org/web/20190402111431/https://pwdless.github.io/Cierge-Website/) - 处理用户注册、登录、配置文件、管理等的开源身份验证服务器 (OIDC).
 
-- [Keycloak](https://www.keycloak.org)  - 开源身份和访问管理. 支持 OIDC、OAuth 2 和 SAML 2、LDAP 和 AD 目录、密码策略.
+- [Keycloak](https://www.keycloak.org) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
 
-- [Casdoor](https://github.com/casbin/casdoor)  - 基于 UI 优先的集中式身份验证/单点登录 (SSO) 平台. 支持 OIDC 和 OAuth 2、社交登录、用户管理、基于电子邮件和短信的 2FA.
+- [Casdoor](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 - [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - 用于 ASP.NET Core 的免费开源 OpenID Connect 和 OAuth 2.0 框架.
 
@@ -323,11 +319,13 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Logto](https://github.com/logto-io/logto) - 使用此基于 OIDC 的身份服务构建登录、身份验证和用户身份.
 
+- [OAuth 2.0 and the Road to Hell](https://gist.github.com/nckroy/dd2d4dfc86f7d13045ad715377b6a48f) - Oauth 2.0 规范的主要作者和编辑的辞职信.
+
 ### SAML
 
 安全断言标记语言 (SAML) 2.0 是一种在服务之间交换授权和身份验证的方法，例如上面的 OAuth/OpenID 协议.
 
-Typical SAML identity provider is an institution or a big corporation's internal SSO, while the typical OIDC/OAuth provider is a tech company that runs a data silo.
+典型的 SAML 身份提供者是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供者是运行数据孤岛的科技公司.
 
 - [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/)  - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场. 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室.”
 
@@ -423,11 +421,13 @@ Typical SAML identity provider is an institution or a big corporation's internal
 
 - [ConsoleMe](https://github.com/Netflix/consoleme) - 一种适用于 AWS 的自助服务工具，它根据跨多个账户管理权限的授权级别，为最终用户和管理员提供登录账户的凭据和控制台访问权限，同时鼓励最低权限.
 
+- [IAMbic](https://github.com/noqdev/iambic)  - IAM 的 GitOps.  Cloud IAM 的 Terraform.  IAMbic 是一个多云身份和访问管理 (IAM) 控制平面，可集中和简化云访问和权限. 它在版本控制中维护 IAM 的最终一致、人类可读的双向表示.
+
 ### Macaroons
 
 分发和委托授权的巧妙好奇心.
 
-- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/2014/12/04/macaroons.html) - 如果给我一个 Macaroon 授权我在某些限制下执行某些操作，我可以非交互地构建第二个 Macaroon，然后我可以给你更严格的限制.
+- [Google's Macaroons in Five Minutes or Less](https://blog.bren2010.io/blog/googles-macaroons) - 如果给我一个 Macaroon 授权我在某些限制下执行某些操作，我可以非交互地构建第二个 Macaroon，然后我可以给你更严格的限制.
 
 - [Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud](https://ai.google/research/pubs/pub41892) - 谷歌的原始论文.
 
@@ -523,7 +523,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/)  - “你可以通过考虑三个维度来思考这个问题的解决方案空间：成本、准确性和速度. 两种方法：人工审查和机器审查. 人类在这些方面之一很出色：准确性. 缺点是人力成本高且速度慢. 机器或机器人在其他两个方面表现出色：成本和速度——它们更便宜、更快. 但我们的目标是找到一种机器人解决方案，它也能足够准确地满足您的需求.”
 
-- [Keep out the bad apples: How to moderate a marketplace](https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate)  - “拥有权利的同时也被赋予了重大的责任. 我的一些提示和技巧可以让您的市场变得更安全.”
+- [Keep out the bad apples: How to moderate a marketplace](https://www.twosided.io/p/keep-out-the-bad-apples-how-to-moderate)  - “拥有权利的同时也被赋予了重大的责任. 我的一些提示和技巧可以让您的市场变得更安全.”
 
 - [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/)  - 大量的外包分包商负责管理庞大的社交网络. 这些人暴露在最坏的情况下，通常最终会患上创伤后应激障碍.
 
@@ -547,7 +547,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [SecLists](https://github.com/danielmiessler/SecLists)  - 收集安全评估中使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、模糊测试负载、Web shell 等等.
 
-- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - 威胁行为者在网络钓鱼工具包中使用的电子邮件地址的 CSV 数据库.
+- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
 
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)  - 仅使用免费资源扫描电话号码的工具. 目标是首先以非常准确的方式收集任何国际电话号码的标准信息，例如国家、地区、运营商和线路类型. 然后在搜索引擎上搜索足迹以尝试找到 VoIP 提供商或确定所有者.
 
@@ -627,7 +627,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 作为用户数据的守护者，IAM 堆栈深受隐私尊重的约束.
 
-- [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.ca/PETs_Decision_Tree.png) - 根据数据类型和上下文选择正确工具的流程图.
+- [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.com/wp-content/uploads/2021/10/PETs-Decision-Tree.pdf) - 根据数据类型和上下文选择正确工具的流程图.
 
 - [Paper we love: Privacy](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - 通过设计提供隐私的方案的科学研究集.
 
@@ -655,11 +655,11 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [Presidio](https://github.com/microsoft/presidio) - 文本和图像的上下文感知、可插入和可定制的数据保护和 PII 数据匿名化服务.
 
-- [Diffix: High-Utility Database Anonymization](https://aircloak.com/wp-content/uploads/apf17-reprint.pdf) - Diffix 尝试提供匿名化，避免假名化并保持数据质量. [Written in Elixir at Aircloak](https://elixirforum.com/t/aircloak-anonymized-analitycs/10930)，它充当分析师和未修改的实时数据库之间的 SQL 代理.
+- [Diffix: High-Utility Database Anonymization](https://aircloak.com/wp-content/uploads/apf17-aspen.pdf) - Diffix 尝试提供匿名化，避免假名化并保持数据质量. [Written in Elixir at Aircloak](https://elixirforum.com/t/aircloak-anonymized-analitycs/10930)，它充当分析师和未修改的实时数据库之间的 SQL 代理.
 
 ### GDPR
 
-著名的欧洲隐私框架
+The well-known European privacy framework
 
 - [GDPR Tracker](https://gdpr.eu) - 欧洲的参考网站.
 
@@ -674,8 +674,6 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 - [Dark Patterns after the GDPR](https://arxiv.org/pdf/2001.02479.pdf) - 本文表明，由于缺乏 GDPR 执法，黑暗模式和默示同意无处不在.
 
 - [GDPR Enforcement Tracker](http://enforcementtracker.com) - GDPR 罚款和处罚清单.
-
-- [Ship Your Enemies GDPR](https://shipyourenemiesgdpr.com) - 将 GDPR 武器化，帮助您向敌人发送数据请求，旨在尽可能多地浪费他们的时间.
 
 ## UX/UI
 
@@ -699,7 +697,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)  - “在这篇文章中，我们将看看不起眼的 `<input>  ` 元素和 HTML 属性将有助于加快我们用户的双因素身份验证体验”.
 
-- [Remove password masking](http://passwordmasking.com) - Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.
+- [Remove password masking](http://passwordmasking.com) - 总结了一项学术研究的结果，该研究调查了消除密码屏蔽对消费者信任的影响.
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221)  - 通知很难. 真的很难.
 
@@ -719,7 +717,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws)  - 帮助理解他们庞大的服务目录. 本着同样的精神： [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
-- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+- [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - 用不超过 4 个词描述所有 GCP 产品.
 
 ## History
 
@@ -727,7 +725,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 
@@ -735,4 +733,4 @@ The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awe
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Poison Study*](https://amzn.com/0778324338/?tag=kevideld-20) (Mira, 2007). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1\]</a>: [*Poison Study*](https://www.amazon.com/dp/0778324338?&linkCode=ll1&tag=kevideld-20&linkId=0b92c3d92371bd53daca5457bdad327e&language=en_US&ref_=as_li_ss_tl) (Mira, 2007). [\[↑\]](#intro-quote-ref)

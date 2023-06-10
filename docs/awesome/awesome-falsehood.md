@@ -1,7 +1,5 @@
 <div class="github-widget" data-repo="kdeldycke/awesome-falsehood"></div>
-## 😱 Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
-
-**程序员相信的谎言精选列表.**
+<!--lint disable awesome-heading-->
 
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-falsehood/">
@@ -24,7 +22,7 @@ ______________________________________________________________________
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-*错误* 是您最初认为是正确的 ***想法*，但在现实中，它被 **证明是错误的**.
+一个策划 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 程序员相信的谎言列表.*错误*是一个 ***想法*，您最初认为它是真实的**，但实际上，它已被**证明是假的**.
 
 例如*idea*：有效的电子邮件地址正好有一个“@”字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 正确的？ 错误的！  *现实*是：电子邮件可以有多个“@”字符. 因此，您的实施应该允许这样做. 最初的*想法*是您相信的谎言.
 
@@ -57,7 +55,7 @@ ______________________________________________________________________
 - [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/)  - 与上述 Google Ads 中的错误相同，或者将您的便士与美元分开的危险，其中 250 美元的内部优惠券变成了 25,000 美元. 我的建议： [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 - [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - 因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) , 黑客利用它们注册 `\&quot;&gt;<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，还有`;  DROP TABLE &quot;COMPANIES&quot;;-- LTD`、`BETTS &amp; TWINE LTD` 和 `SAFDASD &amp; SFSAF \&#39; SFDAASF\&quot; LTD`.
 - [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - 特拉华州和美国国税局的规则如何不相交.
-- [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - 由于叛乱、入侵、新宪法和计划采用缓慢，货币有效期范围重叠.
+- [CLDR currency definitions](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 - [`tax`](https://github.com/commerceguys/tax) - 一个 PHP 5.4+ 税务管理库.
 
 ## Cryptocurrency
@@ -87,7 +85,7 @@ ______________________________________________________________________
 - [How to choose between UT1, TAI and UTC](https://news.ycombinator.com/item?id=28047376) - 取决于您在 SI 秒、地球自转同步、避免闰秒之间的优先级.
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - 臭名昭著的 Stack Overflow 回答关于复杂的历史时区，以及历史日期如何被新版本的软件重新解释.
 - [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) - 从 Y2K 到 Unix 纪元的 32 位秒溢出，根据系统需要注意的特殊日期列表.
- - “我要去佛蒙特州的一个公社，将处理比一个季节更短的时间单位.”  - 是 70 年代一位辞职的工程师在他的终端上留下的便条，在亚秒级计时问题上付出了太多努力之后. 来源： [The Soul of a New Machine](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491705/?tag=kevideld-20).
+ - “我要去佛蒙特州的一个公社，将处理比一个季节更短的时间单位.”  - 是 70 年代一位辞职的工程师在他的终端上留下的便条，在亚秒级计时问题上付出了太多努力之后. 来源： [The Soul of a New Machine](https://www.amazon.com/dp/0316491705?&linkCode=ll1&tag=kevideld-20&linkId=ec2881e22fb26c2d43de0daeebd5424d&language=en_US&ref_=as_li_ss_tl).
 
 ## Education
 
@@ -220,11 +218,11 @@ ______________________________________________________________________
 - [Falsehoods about Cars](https://github.com/driveto/falsehoods-about-cars) - 即使像定义汽车这样常见的事情也充满了陷阱.
 - [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - 航空公司座位图远比整齐排列的座位复杂得多.
 - [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - 有多个国际和国家机构试图调和历史、实用性和物流，使代码遵循神秘的规则.
-- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
+- [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - 旧的航空公司预订系统将 `MR` 后缀视为 `Mister` 并将其删除.
 
 ## Typography
 
-- [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - 关于网络和桌面应用程序排版的假设.
+- [Falsehoods about Fonts](https://github.com/RoelN/Font-Falsehoods) - Assumptions about typography on the web and in desktop applications.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 关于大小写主题（如大写和小写文本）的错误格式的完全反转.
 
 ## Video Games
@@ -249,4 +247,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1\]</a>: [*Notebooks, 1914-1916*](https://www.amazon.com/dp/1324090804?&linkCode=ll1&tag=kevideld-20&linkId=a1903c3fbfdc82fbe2e566fca40718fb&language=en_US&ref_=as_li_ss_tl) （利莱特，2022 年）- [source: page 14e](https://archive.org/details/notebooks191419100witt/page/n35). [\[↑\]](#intro-quote-ref)

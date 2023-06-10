@@ -64,7 +64,8 @@ Rust 代码和资源的精选列表.
 
 ### Cryptocurrencies
 
-* [beerus](https://github.com/keep-starknet-strange/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ and powered by Rust 🦀 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml)
+* [artemis](https://github.com/paradigmxyz/artemis) - 一个简单、模块化和快速的框架，用于在 Rust 中编写 MEV 机器人.
+* [beerus](https://github.com/keep-starknet-strange/beerus) - Beerus 是一个无需信任的 StarkNet 轻客户端， ⚡ 速度极快 ⚡ 并由 Rust 提供支持 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml)
 * [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) [[sv](https://crates.io/crates/sv)] — 用于处理比特币 SV 的 Rust 库.
 * [cairo](https://github.com/starkware-libs/cairo)  - Cairo 是第一个图灵完备的语言，用于为通用计算创建可证明的程序. 这也是母语 [StarkNet](https://www.starknet.io/)，一个使用 STARK 证明的 ZK-Rollup ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square&logo=github)
 * [cairo-rs](https://github.com/lambdaclass/cairo-rs) — Cairo VM 的 Rust 实现 [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
@@ -188,7 +189,7 @@ Rust 代码和资源的精选列表.
 
 ### Graphics
 
-* [ivanceras/svgbob](https://github.com/ivanceras/svgbob) — converts ASCII diagrams into SVG graphics
+* [ivanceras/svgbob](https://github.com/ivanceras/svgbob) — 将 ASCII 图表转换为 SVG 图形
 * [Limeth/euclider](https://github.com/Limeth/euclider) — 实时 4D CPU 光线追踪器
 * [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) — 一个 SVG 渲染库.
 * [turnage/valora](https://crates.io/crates/valora) — 生成美术的图书馆 ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
@@ -299,7 +300,7 @@ Rust 代码和资源的精选列表.
 * [ouch](https://github.com/ouch-org/ouch) - 命令行无痛压缩和解压缩 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
-* [pueue](https://github.com/nukesor/pueue) — Manage your long running shell commands. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
+* [pueue](https://github.com/nukesor/pueue) — 管理长时间运行的 shell 命令. [![GitHub Actions Workflow](https://github.com/nukesor/pueue/workflows/Test%20build/badge.svg?branch=master)](https://github.com/nukesor/pueue/actions)
 * [qarmin/cakawka](https://github.com/qarmin/czkawka) - 用于查找重复项、空文件夹、相似图像等的多功能应用程序. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 * [redox-os/ion](https://github.com/redox-os/ion) — 下一代系统外壳
 * [sharkdp/bat](https://github.com/sharkdp/bat) — 一只长着翅膀的猫 (1) 克隆体. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
@@ -317,7 +318,7 @@ Rust 代码和资源的精选列表.
 
 ### Text editors
 
-* [amp](https://amp.rs) — Inspired by Vi/Vim.
+* [amp](https://amp.rs) — 受 Vi/Vim 启发.
 * [emacs-ng](https://github.com/emacs-ng/emacs-ng) — 用 Rust 代码补充 C 代码库以引入新功能.
 * [gchp/iota](https://github.com/gchp/iota) — 一个简单的文本编辑器
 * [helix](https://github.com/helix-editor/helix) — 受 Neovim/Kakoune 启发的后现代模态文本编辑器. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
@@ -485,6 +486,7 @@ Rust 代码和资源的精选列表.
   * [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust) — 官方 Rust Docker 图像
 *英雄联盟
   * [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) — Heroku 上 Rust 应用程序的构建包
+* [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) [[release-plz](https://crates.io/crates/release-plz)] — 从 CI 发布 Rust crates，生成变更日志和 semver 检查. [![build badge](https://github.com/MarcoIeni/release-plz/workflows/CI/badge.svg)](https://github.com/MarcoIeni/release-plz/actions)
 
 ### Embedded
 
@@ -533,7 +535,7 @@ Rust 代码和资源的精选列表.
 * 目标-C
   * [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) — Rust 的 Objective-C 运行时绑定和包装器
 * PHP
-  * [phper-framework/phper](https://github.com/phper-framework/phper) — 允许我们尽可能使用纯粹和安全的 Rust 编写 PHP 扩展的框架
+  * [phper-framework/phper](https://github.com/phper-framework/phper) — The framework that allows us to write PHP extensions using pure and safe Rust whenever possible
 * Python
   * [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython) — Python 绑定
   * [getsentry/milksnake](https://github.com/getsentry/milksnake) — python setuptools 的扩展，允许您以可想象的最便携的方式在 Python wheels 中分发动态链接库.
@@ -550,7 +552,7 @@ Rust 代码和资源的精选列表.
 ### Formatters
 
 * [dprint](https://github.com/dprint/dprint) — 一个可插入和可配置的代码格式化平台 [![build badge](https://github.com/dprint/dprint/workflows/CI/badge.svg)](https://github.com/dprint/dprint/actions?query=workflow%3ACI)
-* [Prettier Rust](https://github.com/jinxdash/prettier-plugin-rust) — 一个自以为是的 Rust 代码格式化程序，可以自动修复错误的语法 ([Prettier](https://prettier.io/) community plugin)
+* [Prettier Rust](https://github.com/jinxdash/prettier-plugin-rust) — 一个自以为是的 Rust 代码格式化程序，可以自动修复错误的语法 ([Prettier](https://prettier.io/) 社区插件）
 * [rustfmt](https://github.com/rust-lang/rustfmt) — Rust 代码格式化程序由 Rust 团队维护并包含在 cargo 中
 
 ### IDEs
@@ -572,7 +574,7 @@ Rust 代码和资源的精选列表.
     * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) —
   * [Kakoune](http://kakoune.org/)
     * [kak-lsp/kak-lsp](https://github.com/kak-lsp/kak-lsp/) — [LSP](https://microsoft.github.io/language-server-protocol/) 客户. 用 Rust 实现并支持开箱即用的 rls.
-  * [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
+  * [lapce](https://github.com/lapce/lapce) — 用 Rust 编写的闪电般快速且功能强大的代码编辑器. [![build badge](https://github.com/lapce/lapce/actions/workflows/release.yml/badge.svg)](https://github.com/lapce/lapce/actions/workflows/release.yml)
   * [Ride](https://github.com/madeso/ride) —
   * [Sublime Text](https://www.sublimetext.com/)
     * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) — 官方 Rust 包
@@ -589,7 +591,7 @@ Rust 代码和资源的精选列表.
     * [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - vscode 中的 TOML 支持
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — 一个 LLDB 扩展
     * [crates](https://github.com/serayuzgur/crates) — crates 是 crates.io 依赖项的扩展. [![build badge](https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg)](https://github.com/serayuzgur/crates)
-    * [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — 自动修复错误语法的自以为是的 Rust 代码格式化程序 ([Prettier](https://prettier.io/) community plugin)
+    * [Prettier - Code formatter (Rust)](https://marketplace.visualstudio.com/items?itemName=jinxdash.prettier-rust) — 自动修复错误语法的自以为是的 Rust 代码格式化程序 ([Prettier](https://prettier.io/) 社区插件）
     * [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) — RLS 的替代 Rust 语言服务器
     * [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — 对 Visual Studio Code 的 Rust 支持（同时支持 RLS 和 rust-analyzer）
 
@@ -632,7 +634,7 @@ Rust 代码和资源的精选列表.
   * [rstest](https://crates.io/crates/rstest) — Rust 基于夹具的测试框架 [![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
   * [speculate](https://crates.io/crates/speculate) — RSpec 启发了 Rust 的最小测试框架
 * 模拟和测试数据
-  * [asomers/mockall](https://github.com/asomers/mockall) [[mockall](https://crates.io/crates/mockall)] — 一个强大的 Rust 模拟对象库. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+  * [asomers/mockall](https://github.com/asomers/mockall) [[mockall](https://crates.io/crates/mockall)] — A powerful mock object library for Rust. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
   * [fake-rs](https://github.com/cksac/fake-rs) — 用于生成假数据的库
   * [goldenfile](https://github.com/calder/rust-goldenfile) [[goldenfile](https://crates.io/crates/goldenfile)] - 一个为 goldenfile 测试提供简单 API 的库.
   * [httpmock](https://github.com/alexliesenfeld/httpmock) — HTTP 模拟 [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2&branchName=master)
@@ -651,7 +653,7 @@ Rust 代码和资源的精选列表.
 ### Transpiling
 
 * [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) — 一个 CLI 工具，用于将经过训练的经典机器学习模型转换为具有零依赖性的本机 Rust 代码. [![GitHub Actions Status](https://github.com/BayesWitnesses/m2cgen/workflows/GitHub%20Actions/badge.svg?branch=master)](https://github.com/BayesWitnesses/m2cgen/actions)
-* [immunant/c2rust](https://github.com/immunant/c2rust) — C 到 Rust 的翻译器和交叉检查器构建在 Clang/LLVM 之上.
+* [immunant/c2rust](https://github.com/immunant/c2rust) — C to Rust translator and cross checker built atop Clang/LLVM.
 * [jameysharp/corrode](https://github.com/jameysharp/corrode) — 用 Haskell 编写的 AC 到 Rust 转换器.
 
 ## Libraries
@@ -675,7 +677,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 也可以看看 [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f) 和 [Are we learning yet?](https://www.arewelearningyet.com).
 
 * [autumnai/leaf](https://github.com/autumnai/leaf)  — Open Machine Intelligence framework.. 废弃的项目. 最新的叉子是 [spearow/juice](https://github.com/rust-unofficial/awesome-rust/blob/master/ https://github.com/spearow/juice).
-* [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - Hugging Face 用于现代 NLP 管道的分词器，用 Rust（原始实现）编写，带有 Python 绑定. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
+* [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines written in Rust (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 * [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — PyTorch 的 Rust 语言绑定.
 * [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — Rust 的机器学习箱. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
 * [rust-ml/linfa](https://github.com/rust-ml/linfa) — 机器学习框架.
@@ -853,7 +855,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) — GSL 绑定
 * [LAPACK](https://en.wikipedia.org/wiki/LAPACK)
   * [stainless-steel/lapack](https://github.com/blas-lapack-rs/lapack) — LAPACK 绑定
-* 平行线
+* Parallel
   * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) 绑定
   * [autumnai/collenchyma](https://github.com/autumnai/collenchyma) — 一个可扩展、可插入、与后端无关的框架，用于在 CUDA、OpenCL 和通用主机 CPU 上进行并行、高性能计算.
   * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) 绑定
@@ -1497,7 +1499,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 
 ### Text search
 
-* [andylokandy/simsearch-rs](https://github.com/andylokandy/simsearch-rs) [[simsearch](https://crates.io/crates/simsearch)] — 一个简单轻量级的模糊搜索引擎，在内存中工作，搜索相似的字符串
+* [andylokandy/simsearch-rs](https://github.com/andylokandy/simsearch-rs) [[simsearch](https://crates.io/crates/simsearch)] — A simple and lightweight fuzzy search engine that works in memory, searching for similar strings
 * [BurntSushi/fst](https://github.com/BurntSushi/fst) [[fst](https://crates.io/crates/fst)] —
 * [CurrySoftware/perlin](https://github.com/CurrySoftware/perlin) [[perlin](https://crates.io/crates/perlin)]
 * [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) — 超相关、即时和容错的全文搜索 API. [![Build Status](https://github.com/meilisearch/MeiliSearch/workflows/Cargo%20test/badge.svg?branch=master)](https://github.com/meilisearch/MeiliSearch/actions)

@@ -8,11 +8,6 @@
 </p>
 
 <p align="center">
-  <strong>一份供软件开发人员过渡到工程管理角色的精选清单.</strong>
-  <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Yᴏᴜʀ M &amp; T Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ！</strong>
     <br/>
@@ -27,7 +22,7 @@ ______________________________________________________________________
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-建议、轶事、知识花絮、讨论、行业闲谈和咆哮的汇编. 一种参考书目，收集了过去几年的时间 [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/) . 后来从经理到经理的经理（你们都喜欢递归吧？ʘ‿ʘ）.
+一个策划 [![Awesome](https://awesome.re/badge-flat.svg) ](https://github.com/sindresorhus/awesome) 列出**软件开发人员过渡到工程管理角色**. 汇编建议、轶事、知识花絮、讨论、行业闲谈和咆哮. 一种参考书目，收集了过去几年的时间 [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/) . 后来从经理到经理的经理（你们都喜欢递归吧？ʘ‿ʘ）.
 
 - 你是一名开发人员，想知道成为一名经理是什么感觉？
 - 你刚刚开始担任团队领导者的第一个职位？
@@ -64,17 +59,17 @@ ______________________________________________________________________
 
 - [How to be a Manager – A step-by-step guide to leading a team](https://getweeklyupdate.com/manager-guide) - 关于现代管理实践的完整、详细的指南.
 
-- [On being an Engineering Manager](https://ruiper.es/f746f5b7fff042c0a2565b6e36d236a4) - 其中一些要点需要细微差别，但其他要点对于新任经理来说是一种很好的体验.
+- [On being an Engineering Manager](https://ruiper.es/posts/engineer-manager-2017/) - 其中一些要点需要细微差别，但其他要点对于新任经理来说是一种很好的体验.
 
-- [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - 经理（负责）和工程师（负责）之间最大的区别：“&#39;坏事&#39;发生在负责人身上，而负责人可以继续进行下一个项目.”
+- [Responsibility vs. accountability](https://news.ycombinator.com/item?id=21892816) - 经理（负责）和工程师（负责）之间最大的区别：“&#39;坏事&#39;发生在负责人身上，而负责人可以继续下一个项目.”
 
  - “计算机永远不会被追究责任. 因此，计算机绝不能做出管理决策.”  - 一个 [IBM slide from 1979](https://twitter.com/mit_csail/status/1604884273789603842).
 
- - “在这份工作中，你的目标是尝试以最慢的速度让人们失望.”  ([source](https://news.ycombinator.com/item?id=18222488)).
+- “It is a job where your goal is to try disappoint people most slowly.” ([source](https://news.ycombinator.com/item?id=18222488)).
 
- - “所以诀窍基本上是让他们（你的直接下属）负责，而不是你. 你是配角，他们可以向你要东西. 但目标需要非常明确.”  ([source](https://news.ycombinator.com/item?id=23973859)) - 关于如何与你的直接下属合作的秘诀，来自 [7 habits of highly effective people](https://amzn.com/B01069X4H0/?tag=kevideld-20).
+ - “所以诀窍基本上是让他们（你的直接下属）负责，而不是你. 你是配角，他们可以向你要东西. 但目标需要非常明确.”  ([source](https://news.ycombinator.com/item?id=23973859)) - 关于如何与你的直接下属合作的秘诀，来自 [7 habits of highly effective people](https://www.amazon.com/dp/1982137274?&linkCode=ll1&tag=kevideld-20&linkId=5920a3d486de941b37430f948d377bc9&language=en_US&ref_=as_li_ss_tl).
 
-- [The One Minute Manager Meets the Monkey](https://amzn.com/0688103804/?tag=kevideld-20)  - 作者使用了一个寓言，其中问题是猴子. 没有经验的管理者让猴子被转移到他们身边，堆积在他们的背上和化合物上. 由此，这本书教你如何从承担责任转变为委派责任，这样你就不会成为瓶颈.
+- [The One Minute Manager Meets the Monkey](https://www.amazon.com/dp/0688103804?&linkCode=ll1&tag=kevideld-20&linkId=704eff2e2cddae6d97ef082a6f25bafd&language=en_US&ref_=as_li_ss_tl)  - 作者使用了一个寓言，其中问题是猴子. 没有经验的管理者让猴子被转移到他们身边，堆积在他们的背上和化合物上. 由此，这本书教你如何从承担责任转变为委派责任，这样你就不会成为瓶颈.
 
 ## Building Teams
 
@@ -96,13 +91,13 @@ ______________________________________________________________________
 
 高管是公司的高级/最高管理层. 他们向大公司的董事会报告，或直接向小公司的股东报告. 期望在这个级别上发挥领导作用. 作为经理，这些是您要向其报告的人.
 
-- [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - 释义 [Andy Grove's book, High Output Management](https://amzn.com/0679762884/?tag=kevideld-20) ，“高管的工作是：为整个组织定义和实施文化和价值观，并批准正确的决策.” 文章还详细介绍了 CEO 的失败模式：将自己的决定强加于下游，或者各种不解决冲突的方式.
+- [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - 释义 [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0394532341?&linkCode=ll1&tag=kevideld-20&linkId=f80a2e0610594cad92d301c587380f0a&language=en_US&ref_=as_li_ss_tl) ，“高管的工作是：为整个组织定义和实施文化和价值观，并批准正确的决定.” 文章还详细介绍了 CEO 的失败模式：将自己的决定强加于下游，或者各种不解决冲突的方式.
 
 - [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - 提炼上述适应的概念 [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 
 - [Army Leadership and the Profession](https://fas.org/irp/doddir/army/adp6_22.pdf) - 建立并描述领导者应该是什么和做什么.
 
-- [US Air Force's Strategic Leadership Studies](http://leadership.au.af.mil/sls-skil.htm) - 领导能力和技能的参考.
+- [US Air Force's Strategic Leadership Studies](https://web.archive.org/web/20190308062113/http://leadership.au.af.mil/sls-skil.htm) - 领导能力和技能的参考.
 
 - [What Only the CEO Can Do](https://hbr.org/2009/05/what-only-the-ceo-can-do)  - “1. 定义和解释公司有意义的“外部”；  2. 回答由两部分组成的问题：我们从事什么业务，不从事什么业务？  3. 平衡当前充足的收益和未来必要的投资；  4. 塑造组织的价值观和标准.
 
@@ -144,7 +139,7 @@ ______________________________________________________________________
 
 - [Good Boss, Bad Boss: A Peek Inside the Minds of the Best (and Worst)](https://www.youtube.com/watch?v=lmBSh1FGQyY) - 一个好老板：摆脱烂苹果（没有混蛋规则）并保护人们免受高处的白痴.
 
-- “你的角色之一是在两个方向上充当信息过滤器”（[source](https://news.ycombinator.com/item?id=19187593)) - 关于如何平衡需要共享或静音的信息的一些提示.
+- “你的角色之一是在两个方向上充当信息过滤器”（[source](https://news.ycombinator.com/item?id=19187593)) - 关于如何平衡需要共享或静音的信息的一些技巧.
 
 - [Great PMs don't spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions/)  - 不是关于解决方案，不是. 但是关于客户的问题.
 
@@ -224,9 +219,9 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - 对招聘流程的详细描述，当您的公司规模大到足以开始正规化时，这是一个很好的灵感来源.
 
-- [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs 发布了他们的流程，“为求职者创造熟悉感并解决偏见，从而带来更好的求职者体验和雇用决策.”
+- [Open Sourced Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process) - Cockroach Labs 发布了他们的流程，“让候选人熟悉并解决偏见，从而带来更好的候选人体验和雇用决策.”
 
-- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “在程序员实际上不擅长的事情上测试他们，并期望了解他们在贵公司的工作方式是一种妄想，我认为这种面试只会让招聘团队感觉更聪明，并确保具有传统 CS 背景的工程师可以获得更好的结果.”
+- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring) - “在程序员实际上并不擅长的事情上测试他们，并期望了解他们在贵公司的工作方式是一种妄想，我认为这种面试只会让招聘团队感觉更聪明，并确保具有传统 CS 背景的工程师可以获得更好的结果.”
 
 ### Interview
 
@@ -246,7 +241,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
 
-- [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - 的本质 [*Who*, a popular book](https://amzn.com/0345504194/?tag=kevideld-20) 关于招聘高管.
+- [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - 的本质 [*Who*, a popular book](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194?_encoding=UTF8&qid=1686402298&sr=1-1&linkCode=ll1&tag=kevideld-20&linkId=d4a63bc5d11e6d00d942c293a640e2c1&language=en_US&ref_=as_li_ss_tl) 关于招聘高管.
 
  - “的确，并非所有开发人员都做出了积极贡献，但是，我认为指责“降低招聘标准”(...) 完全是转移注意力.”  ([source](https://news.ycombinator.com/item?id=13209317)) - 开发人员可能顺利通过艰难的工作面试，但后来却带来负面价值的例子.
 
@@ -254,15 +249,15 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 缺乏编码练习将为欺诈敞开大门.  OTOH，如果精英挑战减少了误报的数量，那么您将传递完全有能力和优秀的开发人员. 现在，作为经理，您的工作是在这两个极端之间找到平衡，并为如何让候选人展示编码技能定下基调.
 
-- [How to Freaking Find Great Developers By Having Them Read Code](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)  - “与其编写代码，不如考虑让候选人阅读现有代码并讨论它是如何工作的.  1) 阅读代码占开发人员工作的 95%.  2) 候选人可以在阅读的前五分钟内告诉您很多关于他们的编程技能.  3) 压力是你的敌人，因为它会增加肾上腺素，从而降低智商数点，导致你错过优秀的候选人.”
+- [How to Freaking Find Great Developers By Having Them Read Code](https://web.archive.org/web/20230416055512/https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)  - “与其编写代码，不如考虑让候选人阅读现有代码并讨论它是如何工作的.  1) 阅读代码占开发人员工作的 95%.  2) 候选人可以在阅读的前五分钟内告诉您很多关于他们的编程技能.  3) 压力是你的敌人，因为它会增加肾上腺素，从而降低智商数点，导致你错过优秀的候选人.”
 
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html) - “在编写代码时，最重要的技能是如何防止混乱的功能在其自身复杂性的重压下崩溃.”
 
-- [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - 过分依赖算法挑战的阴暗面.
+- [The Horrifically Dystopian World of Software Engineering Interviews](https://web.archive.org/web/20210911031845/https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) - 过分依赖算法挑战的阴暗面.
 
 - [Fizz Buzz Test](https://wiki.c2.com/?FizzBuzzTest) - “旨在帮助过滤掉 99.5% 的编程求职者，他们似乎无法从湿纸袋中脱颖而出.”
 
-- [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - 五个选择题，可轻松将真正的软件工程师与其他人区分开来.
+- [FizzBuzz 2.0: Pragmatic Programming Questions for Software Engineers](https://web.archive.org/web/20211020130141/https://triplebyte.com/blog/fizzbuzz-2-0-pragmatic-programming-questions-for-software-engineers) - 五个选择题，可轻松将真正的软件工程师与其他人区分开来.
 
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - 讽刺企业级软件的过度工程.
 
@@ -274,7 +269,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)  - “一个好的谈判者是富有同情心和合作精神的. 他们不会试图控制您或发出最后通牒. 相反，他们会尝试创造性地思考如何满足您和他们的需求.”
 
-- [How to answer the “What's your current salary?” job interview question](https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad#.izg4ips52) - 这篇文章解释了这个偷偷摸摸的问题的动态以及如何化解它.
+- [How to answer the “What's your current salary?” job interview question](https://web.archive.org/web/20190228034111/https://42hire.com/how-to-answer-the-whats-your-current-salary-job-interview-question-486254cb59ad?gi=a7f878096392) - 这篇文章解释了这个偷偷摸摸的问题的动态以及如何化解它.
 
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/) - “你的薪资谈判——通常不到 5 分钟就能结束——对你的薪酬有很大的影响.”
 
@@ -286,7 +281,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [The Most Important Performance Management Rule For Software Engineers](https://staysaasy.com/startups/2022/04/03/performance-management.html)  - “每周合并代码. 这就是你应该对你的新软件工程雇员说的话.”
 
-- [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html)  - “您的组织的入职速度非常缓慢. 没完没了的 HR 视频、缓慢的安全流程、堆积如山的脆弱技术设置——所有这些都会导致一家公司的开局糟糕且适得其反. 优化您的入职培训，让人们做您雇用他们做的事情.”
+- [Optimize Onboarding](https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html)  - “您的组织的入职速度非常缓慢. 没完没了的人力资源视频、缓慢的安全流程、堆积如山的脆弱技术设置——所有这些都会导致一家公司的开局低劣且适得其反. 优化您的入职培训，让人们做您雇用他们做的事情.”
 
 - [As a manager of a new employee I make an absolute point of being a "helicopter mom" from the moment they hit the area until about week 2 or 3](https://news.ycombinator.com/item?id=24404676) - 在新组织的头几周会很艰难，经理的存在可以帮助加快速度.
 
@@ -306,7 +301,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 ### Happiness
 
-- [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://amzn.com/1595621113/?tag=kevideld-20)  - 我们在本书中了解到，员工幸福与公司成功无关. 对 HN 的评论详细说明了 [questions that were highly correlated to company success](https://news.ycombinator.com/item?id=20571219).
+- [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.amazon.com/dp/1595621113?&linkCode=ll1&tag=kevideld-20&linkId=cc8ac8de84cb23f23ca5577dcb7af139&language=en_US&ref_=as_li_ss_tl)  - 我们在本书中了解到，员工幸福与公司成功无关. 对 HN 的评论详细说明了 [questions that were highly correlated to company success](https://news.ycombinator.com/item?id=20571219).
 
 - [What makes developers happy? Contributing to open source](https://www.techrepublic.com/article/what-makes-developers-happy-contributing-to-open-source/)  - “今天有 59% 的开发人员为开源软件做出贡献. 他们为什么贡献？ 最主要的两个原因是：提高编码技能以及因为他们相信开源. 想让那些开发人员满意并与您一起工作吗？ 让他们做出贡献.”
 
@@ -402,9 +397,9 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [I coached CEOs, founders, VCs and other executive: These are the biggest takeaways](https://leowid.com/2019-2)  - 摘录：“我们都是大而复杂的情感袋，四处走动； 权力来自接受拒绝的能力； 学会管理你的注意力，而不是你的时间.”
 
-- [Intellectual Humility Cheat Sheet](https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “是关于开放并能够改变你对重要事情的看法，并且能够在你应该的时候辨别出来.”
+- [Intellectual Humility Cheat Sheet](https://web.archive.org/web/20200526135036/https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “是关于开放并能够改变你对重要事情的看法，并且能够在你应该的时候辨别出来.”
 
-- [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false)  - 如此期待一个重要的结果，人类天生就容易引入微妙的确认偏差. 为了对抗 IPL，您可能会引入随机未知数来抑制任何试图将系统游戏到您想要的对象的尝试. 即避免欺骗自己获得成功.
+- [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false) - Anticipating an important result so much, humans by nature are susceptible to introduce subtle confirmation bias. To combat IPL, you might introduce random unknowns to suppress any attempt to game the system toward the object of your desire. I.e. avoid to cheat yourself to success.
 
 - [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 用于说服商业专业人士的 6 条普遍影响力原则：互惠、一致性、社会认同、让人们喜欢你、权威和稀缺性.
 
@@ -418,13 +413,13 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) - “获得对责任的共同理解的工具”.
 
-- [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)  - 在公共场合强调看不见的工作可以让管理人员认识到他们的下属所做的努力. 不过，在某些情况下，它可能会让您的同事陷入困境. 所以总是先问问是否可以.
+- [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) - Highlighting unseen work in public allows managers to recognize efforts their reports are doing. Still, there is some cases in which it might put your collegue in a tight spot. So always ask if it's ok first.
 
 - [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/)  - 复述作者在 Apple 的工作：“John Louch 是我的老板.  (...) John 总是与我们分享一切，甚至*不要与您的团队分享*东西. 我们是他信任的人，理所当然. 这让你觉得自己是更伟大事物的一部分.” 或者为什么分享一些公开的秘密会促进您对随行人员的强烈信任.
 
 - [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203)  - 在一个拥有非常有才华的贡献者的团队中，每个人都是总工程师：你应该挑战现状并质疑其他部门的限制. 这让聪明的工程师可以避免为一开始就不应该存在的东西进行优化的陷阱.
 
-- [Symptoms of Groupthink](https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - 过度自信、目光短浅和从众压力会使团队误入歧途.
+- [Symptoms of Groupthink](https://web.archive.org/web/20210925184712/https://courses.washington.edu/psii101/Powerpoints/Symptoms%20of%20Groupthink.htm) - 过度自信、目光短浅和从众压力会使团队误入歧途.
 
 - [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) - 某种退缩不应被解释为故意破坏，而应被解释为溺水者为了自救而使救生艇沉没.
 
@@ -446,7 +441,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
  - “我遇到的最好的经理往往是那些如果情况需要，可以完成下面两个级别的工作的人.”  ([source](https://news.ycombinator.com/item?id=23891984)) - 另一种说法：管理人员需要领域知识并了解他们的报告所做的工作.
 
- - “多年来，我们制定了一项政策，即主管必须彻底了解和理解其团队的工作.”  ([source](https://news.ycombinator.com/item?id=20683609)) - This quote is [from David Packard](https://amzn.com/0060845791/?tag=kevideld-20) （惠普联合创始人），比现在早几十年 [management fad](https://en.wikipedia.org/wiki/Management_fad).
+ - “多年来，我们制定了一项政策，即主管必须彻底了解和理解其团队的工作.”  ([source](https://news.ycombinator.com/item?id=20683609)) - This quote is [from David Packard](https://www.amazon.com/HP-Way-Hewlett-Built-Company/dp/0887307477?_encoding=UTF8&qid=1686404404&sr=1-1&linkCode=ll1&tag=kevideld-20&linkId=e6069674f9b0b4ef884b0f8f70eb8f94&language=en_US&ref_=as_li_ss_tl) （惠普联合创始人），比现在早几十年 [management fad](https://en.wikipedia.org/wiki/Management_fad).
 
 ### Systems Complexity
 
@@ -454,9 +449,9 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Second-system effect](https://en.wikipedia.org/wiki/Second-system_effect) - “小型、优雅和成功的系统的趋势，被过度设计、臃肿的系统所取代”.
 
-- [Living with Complexity, by Donald A. Norman](https://amzn.com/0262014866/?tag=kevideld-20) - 我们从中了解到，基于 [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity) ，“系统的总复杂度是一个常数：当你使人的交互变得更简单时，幕后隐藏的复杂性就会增加. 特斯勒说，让系统的一部分变得更简单，系统的其余部分就会变得更加复杂.”
+- [Living with Complexity, by Donald A. Norman](https://www.amazon.com/Living-Complexity-Donald-Norman-2010/dp/B00DEKM5GK?_encoding=UTF8&qid=1686404524&sr=1-1&linkCode=ll1&tag=kevideld-20&linkId=497ae387bbd398624d897bdfbf90f7b6&language=en_US&ref_=as_li_ss_tl) - 我们从中了解到，基于 [Tesler's law of the conservation of complexity](https://en.wikipedia.org/wiki/Law_of_conservation_of_complexity) ，“系统的总复杂度是一个常数：当你使人的交互变得更简单时，幕后隐藏的复杂性就会增加. 特斯勒说，让系统的一部分变得更简单，系统的其余部分就会变得更加复杂.”
 
-- [The Efficiency-Destroying Magic of Tidying Up](https://florentcrivello.com/index.php/2019/09/04/the-efficiency-destroying-magic-of-tidying-up/)  - “效率往往看起来杂乱无章，好看的往往效率低下.” 提醒我们有时应该接受 [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
+- [The Efficiency-Destroying Magic of Tidying Up](https://flocrivello.com/the-efficiency-destroying-magic-of-tidying-up/)  - “效率往往看起来杂乱无章，好看的往往效率低下.” 提醒我们有时应该接受 [the messiness of the world](https://github.com/kdeldycke/awesome-falsehood).
 
 - [I try to optimize my code around reducing state, coupling, complexity and code, in that order](https://news.ycombinator.com/item?id=11042400) - 工程师关于应该首先解决哪些优先级以提高系统的健壮性的观点.
 
@@ -488,7 +483,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Embedded Rules of Thumb](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/)  - 在开发嵌入式设备时提供合理的真实近似值的指南和启发式方法. 大多数也适用于一般的软件项目.
 
-- [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf)  - “如果你的测试套件的一部分在覆盖率可以检测到的方式上很弱，那么它也可能在覆盖率无法检测到的方式上很弱.” 即覆盖率报告的最大好处是它告诉您在编写测试套件本身时忘记考虑的内容（[source](https://news.ycombinator.com/item?id=28678098)).
+- [How to Misuse Code Coverage](https://web.archive.org/web/20180508120159/http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf)  - “如果你的测试套件的一部分在覆盖率可以检测到的方式上很弱，那么它也可能在覆盖率无法检测到的方式上很弱.” 即覆盖率报告的最大好处是它告诉您在编写测试套件本身时忘记考虑的内容（[source](https://news.ycombinator.com/item?id=28678098)).
 
 ### Technical Debt
 
@@ -498,7 +493,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/)  - “问题在于“从不重新组织\[代码\]来反映你的理解.”  (...) 在组织上，您支付速度和营业额； 有才能的人，说几句废话就走了.”
 
-- [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development)  - 默认框架是围绕积压的，这导致了一种不对称，其中失败被归咎于开发人员绩效不足，而成功则被庆祝为 PM 愿景的完全实现. 但是“技术是提供信贷的银行”，技术债务应该称为产品债务，“因为产品利用信贷来更快地获得功能，并且必须通过投入时间进行清理来偿还.” 替代方案？  “今天的公司需要一个影响框架. 在这种世界观中，成功是由影响来定义的.”
+- [The Framing of the Developer](https://www.amazingcto.com/develop-for-impact-not-for-backlog/)  - 默认框架是围绕积压的，这导致了一种不对称，其中失败被归咎于开发人员绩效不足，而成功则被庆祝为 PM 愿景的完全实现. 但是“技术是提供信贷的银行”，技术债务应该称为产品债务，“因为产品利用信贷来更快地获得功能，并且必须通过投入时间进行清理来偿还.” 替代方案？  “今天的公司需要一个影响框架. 在这种世界观中，成功是由影响来定义的.”
 
 - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)  - “我的老板邀请我进行一对一的聊天，他们礼貌地要求我恢复我的改变. 我吓坏了. 旧代码一团糟，而我的代码很干净！  (...) 我现在看到我的“重构”在两个方面是一场灾难：我没有与编写它的人交谈； 我的代码以改变需求为代价来减少重复”.
 
@@ -512,7 +507,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)  - “GitLab 是世界上最大的全远程公司”. 这是它的含义和工作原理.
 
-- [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - “远程工作人员比办公室工作人员更有效率.”
+- [Asynchronous Communication: The Real Reason Remote Workers Are More Productive](https://doist.com/blog/asynchronous-communication/) - “Remote workers are more productive than their office-bound counterparts.”
 
 - [A guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/) - 很好地总结了拥有高效分布式团队所需的众多配置.
 
@@ -542,7 +537,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 敏捷礼仪的主要内容，经常被误用.
 
-- [Your daily standups should be async. Here's why](https://www.cadencework.com/blog/async-standups.html) - “每日实时会议对于远程团队来说不切实际”可能是最实际的理由.
+- [Your daily standups should be async. Here's why](https://web.archive.org/web/20200515171636/https://www.cadencework.com/blog/async-standups.html) - “每日实时会议对于远程团队来说不切实际”可能是最实际的理由.
 
 - [The Good, the Bad and the Ugly Standup](https://kristoff.it/blog/good-bad-ugly-standup/) - 作者经历了 3 种形式的站立会议，最后为他的团队工作了一次，并得出结论：“构成良好会议的细节是微妙的，追求人为的审美标准将阻止你进行必要的实验从丑陋的平衡中改善”.
 
@@ -562,7 +557,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 产品经理应该是*市场的代言人*. 以下是有关该角色及其影响范围的更多链接.
 
- - “你是大量非结构化信息的中间人，必须抵御各种破坏性影响才能到达你想要去的地方甚至更近的地方.”  ([source](https://news.ycombinator.com/item?id=19050555))
+ - “你是大量非结构化信息的中间人，必须抵御各种破坏性影响，才能到达离你要去的地方更近的地方.”  ([source](https://news.ycombinator.com/item?id=19050555))
 
 - [Awesome Product Management](https://github.com/dend/awesome-product-management)  - 一个参考. 所有丢失的部分都在下面找到.
 
@@ -614,7 +609,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect)  - “客户取消或推迟对当前即将过时的产品的订单的社会现象是公司过早宣布未来产品的意外缺陷.” 这是为草率的营销行动付出的代价.
 
-- [Reverse Engineering A Successful Lifestyle Business](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式的企业家，但仍然充满了参考书中关于客户关系、定价和产品营销的精彩引语.
+- [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式的企业家，但仍然充满了参考书中关于客户关系、定价和产品营销的精彩引述.
 
 - [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400)  - 你的组织最终会选择 Atlassian 产品，因为“他们的商业模式是： 1. 从客户和潜在客户那里收集需求清单；  2. 确保他们的产品检查每一个该死的盒子，无论多么愚蠢.
 
@@ -626,7 +621,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [The product roadmap is dead: welcome to the age of problem roadmaps](https://medium.com/product-managers-at-work/the-product-roadmap-is-dead-welcome-to-the-age-of-problem-roadmaps-7c7745ac8ae0) - “爱上你的问题，而不是你的解决方案.”
 
-- [Kasparov's Law](https://curatedintelligence.com/2017/10/20/kasparovs-law/) - 弱人类 + 机器 &gt; 机器 &gt; 强人类.
+- [Kasparov's Law](https://web.archive.org/web/20220120220730/https://curatedintelligence.wordpress.com/2017/10/20/kasparovs-law/) - 弱人类 + 机器 &gt; 机器 &gt; 强人类.
 
 - [The Psychology of Design](https://growth.design/psychology/) - 广泛的认知偏差和设计原则列表，以及用于微调您的产品和用户体验的示例和技巧.
 
@@ -654,9 +649,9 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 ### Specifications
 
- - “如果两者都冻结，那么在水面上行走和根据规范开发软件就很容易了.” 爱德华诉贝拉德 - [Essays on object-oriented software engineering](https://amzn.com/0132888955/?tag=kevideld-20).
+ - “如果两者都冻结，那么在水面上行走和根据规范开发软件就很容易了.” 爱德华诉贝拉德 - [Essays on object-oriented software engineering](https://www.amazon.com/dp/0132888955?&linkCode=ll1&tag=kevideld-20&linkId=559e579e5b00fde12559bbbb91ec1b95&language=en_US&ref_=as_li_ss_tl).
 
-- [The art of destroying software](https://vimeo.com/108441214)  - Greg Young 描述了一种处理需求波动的好方法：从一开始就进行优化，以便能够删除您的代码，并构建您的代码，使其任何部分不超过 1 周的编码时间. 这样任何部分都可以在 1 周内重写.
+- [The art of destroying software](https://www.youtube.com/watch?v=Ed94CfxgsCA)  - Greg Young 描述了一种处理需求波动的好方法：从一开始就进行优化，以便能够删除您的代码，并构建您的代码，使其任何部分不超过 1 周的编码时间. 这样任何部分都可以在 1 周内重写.
 
 - [Requirements volatility is the core problem of software engineering](https://stackoverflow.blog/2020/02/20/requirements-volatility-is-the-core-problem-of-software-engineering/)  - “首先接受改变是不可避免的.  (...) 因此，软件永远不会完成，只会被放弃.  (...) 这意味着没有软件产品能够完全、完美地令人满意.”
 
@@ -670,13 +665,13 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Escalation of commitment](https://en.wikipedia.org/wiki/Escalation_of_commitment) - 又名沉没成本谬误，或者对为什么我们仍然非理性地继续投资于一个糟糕的项目的理性解释.
 
-- [Who are you trying to impress with your deadlines?](http://jatins.gitlab.io/me/why-deadline/)  - “有些公司的最后期限是一成不变的，错过最后期限就会被解雇. 那就是问题开始的时候.”
+- [Who are you trying to impress with your deadlines?](https://web.archive.org/web/20200102054540/http://jatins.gitlab.io/me/why-deadline/)  - “有些公司的最后期限是一成不变的，错过最后期限就会被解雇. 那就是问题开始的时候.”
 
 - [Apple Aperture: Senior QA](https://techreflect.net/2019/12/10/aperture-senior-qa-2004-2005/)  - 如何不管理临近截止日期的项目：“削减完成的功能，对人们大喊大叫，让人们工作到精神崩溃的地步. 然后他们想到了一个绝妙的主意：让我们从其他团队挖来 100 多名工程师，然后项目就会神奇地按时完成.”
 
 - [Robert "Uncle Bob" Martin talk about professionalism in software development](https://youtu.be/LmRl0D-RkPU?t=3202)  - 唯一诚实的估计是“我不知道”. 但是你可以想出某种可能性评估，它将告知风险的形状. 这与 PERT 没有什么不同，在 PERT 中，活动受限于 [optimistic, pessimistic and most-likely time](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique#Time) . 现在，如果经理们不接受一个范围作为答案，就不要掉进那个陷阱. 告诉他们你已经在尽你所能地尝试了.  “然后经理将不得不做一些非常外国的事情：他们必须管理. 这就是管理：管理风险.”
 
-- [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html) - “Confirms the hunch that developers estimate the median well, but the mean ends up being much higher.”
+- [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html) - “证实了开发人员对中位数的估计很好，但平均数最终要高得多的预感.”
 
 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)  - “关于当前系统的手绘图片是一种信念. 决策永远不应基于信念. 不在工程领域.  (...) 由于软件是高度上下文相关的，我们无法预测具体问题. 我们只能预测问题的类别.” 这就是为什么很难估计软件项目的原因：因为开发人员的主要活动是一个漫长的过程，即推导出系统所基于的假设.
 
@@ -706,7 +701,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成功与否.
 
- - “为其他人设定的数字目标，没有实现目标的路线图，所产生的效果与所寻求的效果相反.”  - [W. Edwards Deming](https://quotes.deming.org/authors/W._Edwards_Deming/quote/2068-2)
+ - “为其他人设定的数字目标，没有实现目标的路线图，所产生的效果与所寻求的效果相反.”  - [W. Edwards Deming](https://www.amazon.com/Out-Crisis-W-Edwards-Deming/dp/0911379010?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=kevideld-20&linkId=ec7a442a2cd5bfcfb5b6c32ea1409f2f&language=en_US&ref_=as_li_ss_tl)
 
 - [SRE fundamentals: SLIs, SLAs and SLOs](https://cloudplatform.googleblog.com/2018/07/sre-fundamentals-slis-slas-and-slos.html) - 如果您从事云服务业务，这些指标肯定是很好的 KPI.
 
@@ -758,7 +753,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 在知道如何写作之前，您需要知道如何阅读.
 
-- [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) - 概述了阅读研究论文的实用且有效的三遍方法.
+- [How to Read a Paper](http://svr-sk818-web.cl.cam.ac.uk/keshav/papers/07/paper-reading.pdf) - 概述了阅读研究论文的实用且有效的三遍方法.
 
 ### Documentation
 
@@ -816,19 +811,17 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Marketing BS Detector](http://marketingbs.whiterhino.com) - 同上，但给出了一些提示.
 
-- [Watson Text Tone Analyzer Demo](https://tone-analyzer-demo.ng.bluemix.net) - 分析文本以了解文档的整体语气或句子级别.
-
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - 关于如何（以及为什么）使用这些特殊字符的简单参考.
 
 - [Improve Your Writing With The GNU Style Checkers](https://www.linux.com/news/improve-your-writing-gnu-style-checkers/) - 如何使用 `style` 和 `diction` 这两个古老的 GNU 实用程序.
 
-- [JStylo & Anonymouth](https://psal.cs.drexel.edu/index.php/JStylo-Anonymouth) - 作者归属分析工具和规避（匿名）框架.
+- [JStylo & Anonymouth](https://github.com/spencermwoo/anonymouth) - 作者归属分析工具和规避（匿名）框架.
 
 ### Presentations
 
 - [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html) - 关于“Jeff Bezos 在互联网时代禁止在亚马逊内部使用 PowerPoint 的政策”，以及“这既不是关于 PowerPoint 也不是关于阅读——而是关于思考.”
 
-- [Presentation Rules](http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - 一套 16 条规则，可避免乏味和无效的演示，并让您的信息传达给您的听众.
+- [Presentation Rules](https://web.archive.org/web/20220720230551/http://www.jilles.net/perma/2020/06/05/presentation-rules.html) - 一套 16 条规则，可避免乏味和无效的演示，并让您的信息传达给您的听众.
 
 - [The Greatest Sales Deck I've Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)  - “1. 说出世界上的重大变化；  2.显示有赢家和输家；  3.戏弄应许之地；  4.引入“神奇礼物”功能；  5. 提供证据证明你可以让故事成真.
 
@@ -872,7 +865,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 ### Performance Reviews
 
-评论和绩效评估是行业解锁促销的工具. 作为经理，您要为您的团队成员编写和检测它们，以获得他们应得的加薪. 并像其他任何员工一样通过它们来提升你的职业生涯.
+评论和绩效评估是行业解锁促销的工具. 作为一名经理，您要为您的团队成员编写和检测它们，以获得他们应得的加薪. 并像其他任何员工一样通过它们来提升你的职业生涯.
 
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)  - 有这样一种想法，如果你在工作中表现出色，人们会（或应该！）自动认识到这项工作并通过晋升/加薪来奖励你. 实际上，它通常比这更复杂.
 
@@ -908,7 +901,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Equity Compensation](https://www.holloway.com/g/equity-compensation) - 股票期权、RSU、工作机会和税收——详细的参考资料，包括数百种资源，从头开始解释并随着时间的推移不断改进.
 
-- “Public RSUs for stock you can sell immediately on the open market are fantastic.” ([source](https://news.ycombinator.com/item?id=22386728)).
+ - “可以立即在公开市场上出售的股票的公共 RSU 非常棒.”  ([source](https://news.ycombinator.com/item?id=22386728)).
 
 ## Politics
 
@@ -922,9 +915,9 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [The Prince](https://en.wikipedia.org/wiki/The_Prince)  - 马基雅维利关于如何作为领导者积累荣誉和权力的想法. 在公司中诉诸这种级别的政治肯定会导致文化剧毒，并会腐蚀和打击各级组织的士气.
 
-- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - 基于*The Office* 的管理阶梯，愤世嫉俗、凄凉但仍然引人入胜.
+- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - 基于*The Office* 的管理阶梯的愤世嫉俗、凄凉，但仍然引人入胜.
 
-- [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20)  ——罗伯特·格林. 可以教您如何掩饰自己的屁股并在高度政治化的组织中发挥作用.
+- [The 48 Laws of Power](https://www.amazon.com/dp/0140280197?&linkCode=ll1&tag=kevideld-20&linkId=bf129d7f7a3495a445cf2bf667d3d3c6&language=en_US&ref_=as_li_ss_tl)  ——罗伯特·格林. 可以教您如何掩饰自己的屁股并在高度政治化的组织中发挥作用.
 
 - [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory)  - “在选择理论中，三组人会影响领导者. 这些团体是名义选举人、实际选举人和获胜联盟.  （……）为了继续掌权，领导人必须维持他们的获胜联盟.”
 
@@ -944,13 +937,13 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
  - “当你读到有关你应该拥有的功能的新闻时，你就知道你的游戏失败了.”  ([source](https://news.ycombinator.com/item?id=20220484) ). 一个团队在与公众同时了解其路线图的情况下，肯定会出现问题.
 
- - “在一个高度政治化的环境中，有两种方法可以创造变化，一种是通过公开操纵，即为自己收集政治权力，然后运用它来实施改变，另一种是隐蔽操纵，即巧妙地实施改变足以让政治有机体不做出反应.  （有时称为“触发抗体”）.  ([source](https://news.ycombinator.com/item?id=5541517)).
+ - “在高度政治化的环境中，有两种方式可以创造变革，一种是通过公开操纵，即为自己收集政治权力，然后运用它来实施变革，另一种是隐蔽操纵，即巧妙地实施变革足以让政治有机体不做出反应.  （有时称为“触发抗体”）.  ([source](https://news.ycombinator.com/item?id=5541517)).
 
 - [Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)  - “大多数初创公司的大多数事情都在不断地火上浇油，但如果你能接受这一点，就会有很多值得喜欢的东西. 一个众所周知的例子是：在一家快速成长的初创公司，一个勤奋、有才华的人在公司领导层的支持下，通常可以很快获得一个令人印象深刻的头衔（或者至少是很多事实上的权力）.”
 
  - “提拔某人以摆脱那个人是很常见的 :) 有时提拔比解雇更容易.”  ([source](https://news.ycombinator.com/item?id=21767734)).
 
-- [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - 源自二战时期 [Simple Sabotage Field Manual](https://www.cia.gov/news-information/featured-story-archive/2012-featured-story-archive/CleanedUOSSSimpleSabotage_sm.pdf)，一本发现骚扰和士气低落行为的经典读物.
+- [US spy manual has tips for coping with toxic bosses](https://qz.com/work/1717297/how-to-cope-with-a-toxic-boss-according-to-a-us-spy-manual-from-wwii/) - 源自二战时期 [Simple Sabotage Field Manual](https://archive.org/details/SimpleSabotageFieldManual)，一本发现骚扰和士气低落行为的经典读物.
 
 - [4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/)  - “1. 我有点大不了！  2.这一切都不是我的错！  3.照我说的做！  4.相信我； 我从来没有错.”
 
@@ -984,7 +977,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/)  - “如果你知道你正在解决什么问题并且你知道如何解决它，那么官僚组织就可以了. 坚持你所知道的. 如果您正在编写软件，那是一种生成活动. 您需要一个高弹性的组织结构图. 更少的盒子，更多的灵活性.”
 
-- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重蹈重组的覆辙，我们开始研究一种结构，使重组能够像由团队而不是上级人员推动的反馈推动的进步一样运作.” 这是试图从根本上提取指向结构不当的信号. 我的警示故事：这可能只在一定程度上起作用，具体取决于公司的文化.
+- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重蹈重组错误的覆辙，我们开始研究一种结构，使重组能够像由团队而不是上级人员推动的反馈推动的进步一样运作.” 这是试图从根本上提取指向结构不当的信号. 我的警示故事：这可能只在一定程度上起作用，具体取决于公司的文化.
 
  - “当一切都取得巨大成功时，成功背后的人会影响未来可能取得成功的人.  (...) Netflix 是一个很好的例子，说明了如何正确地进行大的转变.  Netflix 从事邮寄 DVD 出租业务. 当决定转向流媒体时，Netflix CEO 不允许负责 DVD 租赁业务的经理参加计划未来的会议.”  ([source](https://news.ycombinator.com/item?id=21395557)).
 
@@ -1034,7 +1027,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Average tenure of a CISO is just 26 months due to high stress and burnout](https://www.zdnet.com/article/average-tenure-of-a-ciso-is-just-26-months-due-to-high-stress-and-burnout/) - “如今，CISO 的工作预算低、工作时间长、执行委员会缺乏权力、他们可以雇用的训练有素的专业人员越来越少，而且还面临着没有采取足够措施保护公司基础设施免受网络攻击的持续压力- 攻击，新出现的威胁带来的持续压力，以及对所做的出色工作的一点感谢，但如果一切都出错了，那就全怪了.”
 
-- [What makes you resilient?](https://www.skylyte.io/self-assessment) - 快速测试以分析您的能量来源、您处理压力的方式以及它如何影响您的团队.
+- [Burnout Stage Analysis](https://catarina.skylyte.com) - 更好地了解您在倦怠范围内的位置.
 
 ## Setbacks and Failures
 
@@ -1056,7 +1049,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - 关于销售和营销如何接管以产品为中心的公司.
 
-- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - 当公司缺乏技术领导力时：开发人员将时间浪费在代价高昂的重构、过度设计的系统上，并最终脱离业务和产品.
+- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - 当公司缺乏技术领导力时：开发人员将时间浪费在成本高昂的重构、过度设计的系统上，并最终脱离业务和产品.
 
 ## Exits
 
@@ -1082,11 +1075,11 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8)  - Hideo Kojima 如何创造性地使用可玩的预告片作为绕过 NDA 的方式，并讲述他在 Konami 的动荡导致他离开公司的故事. 但这只有在您是有影响力且受欢迎的游戏设计师时才有效.
 
-- [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph Ⅴ, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
+- [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf)  - “今天有很多关于高管“中年危机”的讨论. 这主要是无聊. 大多数高管在 45 岁时就已经达到了他们商业生涯的顶峰并且知道这一点.” 在第五段，你会发现为什么知识工作者需要自我管理，并为他们的后半生做计划.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-engineering-team-management/blob/master/.github/contributing.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-engineering-team-management/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 
@@ -1094,4 +1087,4 @@ The [header image](https://github.com/kdeldycke/awesome-engineering-team-managem
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1\]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://www.amazon.com/dp/0321934113?&linkCode=ll1&tag=kevideld-20&linkId=9a6c692819b070f38feb70816e6635ab&language=en_US&ref_=as_li_ss_tl) (Addison-Wesley Professional, 3rd edition, 2013). [\[↑\]](#intro-quote-ref)

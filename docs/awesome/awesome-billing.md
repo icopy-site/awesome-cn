@@ -17,9 +17,14 @@
 
 ______________________________________________________________________
 
-<p>任何公司都需要在某一时刻从客户那里获得资金. 这就是我们开发人员的事情变得一团糟的时候，因为我们试图用我们的软件堆栈来协调业务的复杂性.</p>
+<p align="center">
+  <br>
+  — Yuval Noah Harari<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
+</p>
 
-<p>这<img src="https://awesome.re/badge-flat.svg" alt="Awesome">list 帮助软件工程师<strong>引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能</strong>.</p>
+任何公司都需要在某一时刻从客户那里获得资金. 这就是我们开发人员的事情变得一团糟的时候，因为我们试图用我们的软件堆栈来协调业务的复杂性.
+
+This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 列表帮助软件工程师**引导计费和支付系统，并理解发票、定价、会计、市场、欺诈和商业智能**.
 
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
@@ -107,11 +112,9 @@ ______________________________________________________________________
 
 ### Hybrid
 
-不常见的定价方案.
+Uncommon pricing schemes.
 
 - [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费套餐.
-
-- [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - 有上限的实际值：每月滚动，这是一种优化的定价方案，以限制客户的意外，我们或多或少地出售配额.
 
 ### Strategy
 
@@ -131,7 +134,7 @@ ______________________________________________________________________
 
 调查方法和价格发现技术，以找到合适的价格点.
 
-- [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542) - “In insurance, the price is the product. (…) How do I change price to make shitload of money?” Or how to deliver results (optimal price for a customer) instead of delivering data (calculating a customer's risk, which had been the standard approach used by actuaries previously).
+- [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542)  - “在保险中，价格就是产品.  (...) 我如何改变价格来赚大钱？” 或者如何提供结果（客户的最佳价格）而不是提供数据（计算客户的风险，这是精算师以前使用的标准方法）.
 
 - [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method)  - 用于调查以确定新产品或服务的价格. 结果可用于生成需求图表和收入曲线.
 
@@ -205,13 +208,13 @@ ______________________________________________________________________
 
 本小节重点介绍将资源生产者与消费者相匹配的出价/询价机制. 大多数时候，这些都是单方面的市场，大平台试图摊销未充分利用的库存.
 
-- [Incentive Engineering for Computational Resource Management](https://agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf) - 探讨“与编程实践和市场机制兼容的处理器时间和存储分配机制”的论文.
+- [Incentive Engineering for Computational Resource Management](https://papers.agoric.com/assets/pdf/papers/incentive-engineering-for-computational-resource-management.pdf) - 探讨“与编程实践和市场机制兼容的处理器时间和存储分配机制”的论文.
 
 - [Pricing of Service in Clouds: Optimal Response and Strategic Interactions](http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf)  - “消费者应该如何调节其需求以优化其利润？  （……）供应商和消费者应该如何协商他们将采用的具体定价结构？” 涵盖非线性模型、分层定价、弹性需求、消费者和供应商策略.
 
 - [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf)  - “亚马逊的现货价格不太可能根据市场供需情况来设定. 相反，价格大部分时间都在一个非常窄的区间内波动，这很可能是某些具有预定底价的定价算法的产物.”
 
-- [Usage Patterns and the Economics of the Public Cloud](https://vita.mcafee.cc/PDF/EconPublicCloud.pdf)  - “我们研究了云计算中需求和供应的经济学.  (...) 这些结果解释了为什么尽管看似需要随时间变化的动态，但固定价格目前仍然盛行. 检查实际的 CPU 利用率为未来提供了一个镜头.  (...) 需求波动将与动态定价很重要的三个经典行业（酒店、电力、航空公司）相当，动态价格对于效率至关重要.”
+- [Usage Patterns and the Economics of the Public Cloud](https://mc4f.ee/Papers/PDF/EconPublicCloud.pdf)  - “我们研究了云计算中需求和供应的经济学.  (...) 这些结果解释了为什么尽管看似需要随时间变化的动态，但固定价格目前仍然盛行. 检查实际的 CPU 利用率为未来提供了一个镜头.  (...) 需求波动将与动态定价很重要的三个经典行业（酒店、电力、航空公司）相当，动态价格对于效率至关重要.”
 
 - [Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a Dynamic Pricing Strategy based on Ski-Rental Problem](https://arxiv.org/pdf/1507.02545.pdf)  - “我们算法的关键思想是使用定价信号来调节用户需求. 有人可能会争辩说，这种算法会为用户提供糟糕的服务，因为它会将任务推出队列以最大化云代理的利润.”
 
@@ -231,7 +234,7 @@ ______________________________________________________________________
 
 ### Online Ads
 
-有针对性的在线广告市场与传统的云市场有很多共同之处. 那里有一些很好的灵感，从概念到技术.
+有针对性的在线广告市场与传统的云市场有很多共同点. 那里有一些很好的灵感，从概念到技术.
 
 - [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - 用于有针对性的在线广告的预算进度资源集合.
 
@@ -259,13 +262,13 @@ ______________________________________________________________________
 
 关于保持会计数据整洁的日常做法，您需要了解的一切.
 
-- [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - 专注于记录和维护企业交易的日常运作.
+- [So, you want to learn Bookkeeping!](https://www.dwmbeancounter.com/BCTutorials/BCIntro/index.html) - 专注于记录和维护企业交易的日常运作.
 
 - [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/)  - “对账是一个业务流程，它的出现几乎完全是因为在企业之间传送资金的管道中缺乏结构化数据”. 有一些 hack 可以简化流程，比如添加任意折扣以产生唯一的尾随小数，或者设置几个虚拟银行账户作为代理.
 
 - [Plain text accounting tools](https://plaintextaccounting.org/#software) - 广泛的开源个人理财项目列表，可以很好地研究复式记账和簿记方面的灵感.
 
-- And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) （C）， [Firefly III](https://firefly-iii.org) （PHP）.
+- 以及图形会计工具列表： [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) （C）， [Firefly III](https://firefly-iii.org) （PHP）.
 
 - [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - 使用 GnuCash 跟踪个人财务的完整教程.
 
@@ -307,15 +310,15 @@ ______________________________________________________________________
 
 整理好帐户后，您就可以开始从财务数据中提取见解和指标.
 
-- [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://amzn.com/0273744704/?tag=kevideld-20) - 帮助您学习如何分析和监控公司的财务业绩.
+- [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://www.amazon.com/dp/0273744704?&linkCode=ll1&tag=kevideld-20&linkId=f491ee18c48fdaf3226904a39612cc22&language=en_US&ref_=as_li_ss_tl) - 帮助您学习如何分析和监控公司的财务业绩.
 
 - [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/)  - “马龙创造了一种新的会计指标，他称之为‘利息、折旧和税前利润’，或 EBITDA.” 这就是有线电视公司 CEO 理解现金流的方式，就像房地产企业那样. 本文从这个例子开始，描述了 SaaS 模型的其他现金流博弈.
 
-- [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://amzn.com/1422119157/?tag=kevideld-20) - 让您充分了解如何使用财务数据为您的业务做出更好的决策.
+- [Financial Intelligence for Entrepreneurs: What You Really Need to Know About the Numbers](https://www.amazon.com/dp/1422119157?&linkCode=ll1&tag=kevideld-20&linkId=8d87e9235a1a05c4e0bec4b25230f28d&language=en_US&ref_=as_li_ss_tl) - 让您充分了解如何使用财务数据为您的业务做出更好的决策.
 
 - [What is FinOps](https://www.finops.org/introduction/what-is-finops/) - 技术金融和业务领导团队共享云运营和管理的相同语言和流程的框架.
 
-- [Algebraic Models for Accounting Systems](https://amzn.com/9814287113/?tag=kevideld-20) - 应用于会计系统分析的高级抽象代数.
+- [Algebraic Models for Accounting Systems](https://www.amazon.com/dp/9814287113?&linkCode=ll1&tag=kevideld-20&linkId=3d8973d09f9143db8db8639615d12413&language=en_US&ref_=as_li_ss_tl) - 应用于会计系统分析的高级抽象代数.
 
 ## Contracts
 
@@ -425,11 +428,11 @@ ______________________________________________________________________
 
 - [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - 支付操作架构的重要性.
 
-- [EU's Late Payment Directive](https://ec.europa.eu/growth/smes/support/late-payment_en) - 关于延迟付款适用费用的欧洲规则.
+- [EU's Late Payment Directive](https://single-market-economy.ec.europa.eu/smes/sme-strategy/late-payment-directive_en) - 关于延迟付款适用费用的欧洲规则.
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944)  - 根本原因？ 人们在低湿度空气中穿着大量羊毛，产生大量静电.
 
-- ACH 的工作原理：开发人员的观点， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
+- ACH 的工作原理：从开发人员的角度来看， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox 试图解决不可靠支付服务提供商的问题.
 
@@ -457,7 +460,7 @@ ______________________________________________________________________
 
 - [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - 一种检查客户帐单地址与信用卡关联地址是否匹配的系统.
 
-- [pci-blackbox](https://github.com/trustly/pci-blackbox) - 基于 PostgreSQL 和 PL/pgSQL 构建的 PCI-DSS 兼容卡系统.
+- [pci-blackbox](https://github.com/pjfoley/pci-blackbox) - 基于 PostgreSQL 和 PL/pgSQL 构建的 PCI-DSS 兼容卡系统.
 
 ### Bank Accounts
 
@@ -475,7 +478,7 @@ ______________________________________________________________________
 
 通常的汇款服务.
 
-- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付接口. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
+- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付界面. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)  - 过去 20 年的支付 API 中出现问题的大量集合，现在仍然如此. 本文中暴露的任何未解决的问题最终都将成为赃款.
 
@@ -499,7 +502,7 @@ ______________________________________________________________________
 
 - [Driving Global Fraud Losses Down While Empowering Business Growth](https://youtu.be/yJKWpTBVTiI?t=60)  - 在 Uber Eats 的这次演讲中，我们从最大的支付处理商那里了解到“亏损率下降的成长型企业在业内极为罕见”. 此外，欺诈可以采取多种形式：对不易腐烂的商品进行拒付、滥用促销、退款……
 
-- [KYC and AML: beyond the acronyms](https://www.bitsaboutmoney.com/archive/kyc-and-aml-beyond-the-acronyms/) - KYC is nuanced and fuzzy, because it is a stochastic process to reduce risk.
+- [KYC and AML: beyond the acronyms](https://www.bitsaboutmoney.com/archive/kyc-and-aml-beyond-the-acronyms/) - KYC 是微妙和模糊的，因为它是一个降低风险的随机过程.
 
 - [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Papers sourced from several conferences on all sort of fraud: credit card, payment transactions, loans, customs inspections, money laundering networks, and more.
 
@@ -507,7 +510,7 @@ ______________________________________________________________________
 
 大多数欺诈都在利用最常见的流行支付设备：信用卡.
 
-- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - 关于如何识别交易模式的实用手册.
+- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - A practical handbook on how to identify patterns in transactions.
 
 - [How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/) - 描述一种称为“卡测试”的欺诈技术，其中根据您的 API 检查大量被盗卡的有效性.
 
@@ -559,7 +562,7 @@ ______________________________________________________________________
 
 当涉及到金钱时，用户很容易生气.  UX 和 UI 可能有助于减少挫败感.
 
-- [Apple Subscriptions HIG](https://developer.apple.com/design/human-interface-guidelines/subscriptions/overview/) - 关于如何制作的指南和建议 [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) 方便使用的.
+- [Apple In-app purchase Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/in-app-purchase#Autorenewable-subscriptions) - 关于如何制作的指南和建议 [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) 方便使用的.
 
 - [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - 首先关注购物车中的其他东西，例如通过在信用卡和完成步骤附近添加保证（信任标记、推荐）以及您可能在产品探索早期使用过的一些保证语言来缓解焦虑和事后猜测过程.
 
@@ -583,7 +586,7 @@ ______________________________________________________________________
 
 - [An Overview of Visa](http://minesafetydisclosures.com/blog/2019/7/23/part-ll-an-overview-of-visa) - Visa 业务模型和指标的重大细分.
 
-- [The SaaS Financial Model You'll Actually Use](https://baremetrics.com/blog/saas-financial-model) - 全面了解一家公司的财务状况，为您提供额外的背景信息，让您了解您生成的指标如何适应更大的图景.
+- [The SaaS Financial Model You'll Actually Use](https://web.archive.org/web/20230205234207/https://baremetrics.com/blog/saas-financial-model) - 全面了解一家公司的财务状况，为您提供额外的背景信息，让您了解您生成的指标如何适应更大的图景.
 
 ### Customer Lifetime Value
 
@@ -617,7 +620,7 @@ ______________________________________________________________________
 
 - [Never Use Floats for Money](https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html)  - “这正是我们在尝试用二进制表示 10^-1 或 0.1 时遇到的问题. 没有 0.1 或 0.01 的精确二进制表示.”
 
-- [European Spreadsheet Risks Interest Group - Horror Stories](http://www.eusprig.org/horror-stories.htm) - 一系列案例，其中不受控制和未经测试的电子表格模型导致收入损失、定价错误、决策失误、欺诈和系统性财务失败.
+- [European Spreadsheet Risks Interest Group - Horror Stories](https://eusprig.org/research-info/horror-stories/) - 一系列案例，其中不受控制和未经测试的电子表格模型导致收入损失、定价错误、决策失误、欺诈和系统性财务失败.
 
 ### Tools
 
@@ -647,7 +650,7 @@ ______________________________________________________________________
 
 - [AWS Cost Management announcements](https://aws.amazon.com/about-aws/whats-new/aws-cost-management/) - 添加到计费边界的所有新功能的来源.
 
-- [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/ris_and_savings_plans.png) - 不同方案的特征矩阵及其平均折扣.
+- [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/2022/01/ris_and_savings_plans.png) - 不同方案的特征矩阵及其平均折扣.
 
 - [GCP billing release notes](https://cloud.google.com/billing/docs/release-notes) - GCP 计费功能的最新变化.
 
@@ -655,13 +658,13 @@ ______________________________________________________________________
 
 - [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - 近期 GCP 定价功能的总结.
 
-- [Orbitera](https://www.orbitera.com) - GCP's billing subsidiary.
+- [Orbitera](https://en.wikipedia.org/wiki/Orbitera) - GCP 的计费子公司.
 
 - [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - DO 上的所有最新账单更新.
 
 ## History
 
- - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接联系.
+ - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接关联.
 
 - [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
@@ -680,3 +683,7 @@ ______________________________________________________________________
 ## Footnotes
 
 The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) 是基于修改 [photo](https://unsplash.com/photos/u2zSzMTwIjQ) 经过 [Denny Müller](https://unsplash.com/@redaquamedia).
+
+<!--lint disable no-undefined-references-->
+
+<a name="intro-quote-def">\[1\]</a>: [*Sapiens: A Brief History of Humankind*](https://www.amazon.com/dp/0062316095?_encoding=UTF8&psc=1&linkCode=ll1&tag=kevideld-20&linkId=71ccb002da0dbe49c502954960175b66&language=en_US&ref_=as_li_ss_tl) (Harper, 2015). [\[↑\]](#intro-quote-ref)
