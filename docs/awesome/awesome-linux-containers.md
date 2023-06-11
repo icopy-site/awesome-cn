@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="Friz-zy/awesome-linux-containers"></div>
 ## Awesome Linux Containers
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://voicesfrombelarus.org/) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+[Stand with Belarus against dictatorship <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://bysol.org/en/)  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -121,7 +121,7 @@ Libct 是一个容器管理库，它为前端程序提供了方便的 API，以�
 * [libvirt](https://libvirt.org/drvlxc.html)  
 一个大型工具包，用于与最新版本的 Linux（和其他操作系统）的虚拟化功能进行交互.
 * [systemd-nspawn](https://wiki.archlinux.org/index.php/Systemd-nspawn)  
-生成用于调试、测试和构建的名称空间容器. 部分 [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
+生成用于调试、测试和构建的命名空间容器. 部分 [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
 * [porto](https://github.com/yandex/porto)  
 Porto 的主要目标是在多个 Linux 内核机制（如 cgroup、命名空间、挂载、网络等）上创建一个方便、可靠的接口.
 * [udocker](https://github.com/indigo-dc/udocker)  
@@ -146,13 +146,15 @@ Firecracker 在称为 microVM 的轻型虚拟机中运行工作负载，它结�
 Sysbox 是一个“runc”，它创建安全（无根）容器/pod，这些容器/pod 不仅可以运行微服务，还可以无缝运行在 VM（例如 systemd、Docker 和 Kubernetes）中运行的大多数工作负载.
 * [youki](https://github.com/containers/youki)  
 用 Rust 编写的容器运行时.
+* [footloose](https://github.com/weaveworks/footloose)  
+看起来像虚拟机的容器.
 
 ## Sandboxes
 
 * [Firejail](https://l3net.wordpress.com/projects/firejail/)  
 Firejail 是一个 SUID 沙箱程序，它通过使用 Linux 命名空间、seccomp-bpf 和 Linux 功能限制不受信任的应用程序的运行环境来降低安全漏洞的风险.
 * [NsJail](https://github.com/google/nsjail)  
-NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
+ NsJail 是 Linux 的进程隔离工具. 它利用了 Linux 内核的命名空间、资源控制和 seccomp-bpf 系统调用过滤器子系统.
 * [Subuser](https://github.com/subuser-security/subuser)  
 使用 Docker 保护 Linux 桌面.
 * [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)  
@@ -302,7 +304,7 @@ CAP_SYS_MODULE 插入/删除内核模块
 CAP_SYS_RAWIO 修改内核内存  
 CAP_SYS_PACCT 配置进程记账  
 CAP_SYS_NICE 修改进程优先级  
-CAP_SYS_RESOURCE 覆盖资源限制  
+CAP_SYS_RESOURCE 	Override Resource Limits  
 CAP_SYS_TIME 修改系统时钟  
 CAP_SYS_TTY_CONFIG 配置 tty 设备  
 CAP_AUDIT_WRITE 写入审计日志  

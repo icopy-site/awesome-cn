@@ -153,7 +153,7 @@
 *  [LunarG's Samples](https://github.com/LunarG/VulkanSamples)
 *  [vkcube](https://github.com/krh/vkcube) - 来自 krh 的 &#39;vkcube&#39; 示例，在 X、wayland 和 VT 控制台下工作
 drm/kms.
-*  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - Stardust 示例应用程序使用 Vulkan 图形 API 来高效渲染动画粒子云. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 *  [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Overv 教程的端口 [SharpVk](https://github.com/FacticiusVir/SharpVk) [和]
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)  - VFPR - Vulkan Forward Plus 渲染器.  [和]
@@ -191,7 +191,7 @@ drm/kms.
    *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)  - 使用 C++11 的 Vulkan 抽象库用于内存、资源管理、类型和线程安全以及系统独立性.  [阿帕奇]
    *  [FrameGraph](https://github.com/azhirnov/FrameGraph)  - 将框架表示为任务图的 Vulkan 抽象层.  [BSD 2-子句]
    *  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)  - 面向专业工作站 ISV 的 Vulkan API 的轻量级中间件层.  [麻省理工学院]
-   *  [Vookoo](https://github.com/andy-thomason/Vookoo)  - Vookoo 是一组无依赖性实用程序，可协助构建和更新 Vulkan 图形数据结构.  [麻省理工学院]
+   *  [Vookoo](https://github.com/andy-thomason/Vookoo)  - Vookoo 是一组无依赖性实用程序，用于协助构建和更新 Vulkan 图形数据结构.  [麻省理工学院]
    *  [vpp](https://github.com/nyorain/vpp)  - 现代 C++ Vulkan 抽象专注于性能和简单的界面.  [麻省理工学院]
    *  [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 场景图项目，继任者 [OpenSceneGraph](http://www.openscenegraph.org).
    *  [Vulkan-WSIWindow](https://github.com/renelindsay/Vulkan-WSIWindow)  - 用于创建 Vulkan 窗口和处理输入事件的多平台库.  [Apache 许可证 2.0]
@@ -221,6 +221,7 @@ drm/kms.
    *  [small3d](https://www.gamedev.net/projects/515-small3d/), Tiny Vulkan 基于 C++ 的跨平台游戏开发框架 [BSD 3-clause]
    *  [Spectrum](https://github.com/mwalczyk/spectrum_core) - 围绕 Vulkan 进行中的框架和抽象层.
    *  [The-Forge](https://github.com/ConfettiFX/The-Forge)  - DirectX 12、Vulkan、macOS Metal 2 渲染框架.  [Apache 许可证 2.0]
+   *  [VKFS](https://github.com/MHDtA-dev/VKFS)  - 跨平台易于使用的 C++ 框架，可让您快速初始化 Vulkan 并获得现成的环境. 提供对基本 Vulkan 对象的高级抽象.
    *  [VkHLF](https://github.com/nvpro-pipeline/VkHLF)  - Vulkan 高级框架.  [[许可证]](https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt)
    *  [Vulkan Launchpad](https://github.com/cg-tuwien/VulkanLaunchpad)  - 适用于 Windows、macOS 和 Linux 的 Vulkan 框架. 特别适合 Vulkan 初学者，由 TU Wien 计算机图形学研究单位用于大学教育.  [麻省理工学院]
        * [Vulkan Launchpad Starter](https://github.com/cg-tuwien/VulkanLaunchpadStarter)  - 包含附加功能和资产的入门模板.  [[许可证]](https://github.com/cg-tuwien/VulkanLaunchpadStarter/blob/main/LICENSE)
@@ -233,7 +234,7 @@ drm/kms.
    *  [VUDA](https://github.com/jgbit/vuda)  - 提供 CUDA 运行时 API 接口的仅标头库.  [麻省理工学院]
    *  [clspv](https://github.com/google/clspv)  - OpenCL C 子集到 Vulkan 计算着色器的原型编译器.  [Apache 许可证 2.0]
    *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)  - 在 iOS 和 macOS 上运行 Vulkan.  [Apache-2.0]
-   *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. [MIT]
+   *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink)  - 在 Vulkan 之上的 OpenGL 实现，Mesa 项目的一部分.  [麻省理工学院]
    *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - 基于 Vulkan 的 OpenGL 实现.
    *  [gfx-portability](https://github.com/gfx-rs/portability) - 基于 Metal 和 D3D12 的 Vulkan 可移植性实现 [gfx-rs](https://github.com/gfx-rs/gfx/).
 

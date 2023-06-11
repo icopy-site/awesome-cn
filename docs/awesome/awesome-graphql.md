@@ -142,6 +142,7 @@
 - [graphql-nexus](https://github.com/graphql-nexus/nexus) - 代码优先、类型安全、GraphQL 模式构建.
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)：GraphQL 代码生成器，灵活支持自定义插件和模板，如 TypeScript（前端和后端）、React Hooks、解析器签名等.
 - [pothos](https://github.com/hayes/pothos)  - Pothos 是一个基于插件的 GraphQL 模式构建器，用于打字稿. 它使在 typescript 中构建 graphql 模式变得简单、快速和愉快.
+- [fast-graphql](https://github.com/idurar/fast-graphql) - 为 Node.js、Next.Js 和 Graphql Apollo 服务器构建、组合解析器和合并模式定义的 Graphql 工具
 
 #### Miscellaneous
 
@@ -197,9 +198,10 @@
 
 - [Node.js API Starter](https://github.com/kriasoft/nodejs-api-starter) - 基于 Yarn v2 的 monorepo 模板（代码优先的 GraphQL API、PostgreSQL、PnP、零安装、无服务器）.
 - [Next.js Apollo TypeScript Starter](https://github.com/borisowsky/nextjs-apollo-ts-starter) - 专注于开发人员体验的 Next.js 入门项目.
-- [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
+- [GraphQL Starter](https://github.com/cerino-ligutom/GraphQL-Starter) - TypeScript + Node Express + Apollo GraphQL API 的样板.
 - [Mocked Managed Federation - Apollo Server 3](https://github.com/setchy/apollo-server-3-mocked-federation) - 如何使用 Apollo Server 3.x 模拟托管联邦 Supgraph 的示例
 - [Mocked Managed Federation - Apollo Server 4](https://github.com/setchy/apollo-server-4-mocked-federation) - 如何使用 Apollo Server 4.x 模拟托管联邦 Supgraph 的示例
+- [Next.js Advanced Graphql Crud MongoDB Starter](https://github.com/idurar/starter-advanced-graphql-crud-next-js-mongodb) - 带有 Next.js 和 Mongodb (TypeScript) 的高级 Apollo Graphql 服务器的入门通用 CRUD
 
 <a name="rb" />
 
@@ -328,7 +330,7 @@
 - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin 实现.
 - [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 模式优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器，没有 POJO，没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 见 [Kotlin example](#example-kotlin) 以下.
 - [KGraphQL](https://github.com/aPureBase/KGraphQL)：用于设置 GraphQL 服务器的纯 Kotlin 实现.
-- [Kobby](https://github.com/ermadmi78/kobby) - 的Codegen插件 [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) 通过 GraphQL 架构. 生成的 DSL 支持使用类似于原生 GraphQL 语法的语法在 Kotlin 中执行复杂的 GraphQL 查询、变异和订阅.
+- [Kobby](https://github.com/ermadmi78/kobby) - Codegen plugin of [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) 通过 GraphQL 架构. 生成的 DSL 支持使用类似于原生 GraphQL 语法的语法在 Kotlin 中执行复杂的 GraphQL 查询、变异和订阅.
 - [Graphkt](https://github.com/cufyorg/graphkt) - 基于 DSL 的 kotlin graphql 服务器库，由 graphql-java 支持.
 
 <a name="kotlin-example" />
@@ -353,7 +355,7 @@
 - [graphql](https://github.com/graphql-go/graphql) - GraphQL for Go 的实现遵循 graphql-js
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - 专注于易用性的 GraphQL 服务器.
 - [gqlgen](https://github.com/99designs/gqlgen) - Go 生成基于 graphql 服务器库.
-- [graphql-relay-go](https://github.com/graphql-go/relay) - 一个 Go/Golang 库，用于帮助构建支持 react-relay 的服务器.
+- [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 - [graphjin](https://github.com/dosco/graphjin) ：使用 GraphQL 在 5 分钟内构建 API. 即时 GraphQL 到 SQL 编译器.
 
 <a name="go-example" />
@@ -362,14 +364,14 @@
 
 - [golang-relay-starter-kit](https://github.com/sogko/golang-relay-starter-kit) - 使用 Golang GraphQL 服务器的中继应用程序的准系统起点.
 - [todomvc-relay-go](https://github.com/sogko/todomvc-relay-go) - React/Relay TodoMVC 应用程序的端口，由 Golang GraphQL 后端驱动.
-- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 架构和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
+- [go-graphql-subscription-example](https://github.com/ccamel/go-graphql-subscription-example) - 演示 GraphQL 的 GraphQL 模式和服务器 [subscriptions](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) （通过 Websocket）消费 [Apache Kafka](https://kafka.apache.org/) 消息.
 - [Go Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/go/) - 展示如何使用代码生成制作 Go GraphQL 服务器和客户端的教程.
 
 <a name="scala" />
 
 ### Scala
 
-- [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL server implementation.
+- [sangria](https://github.com/sangria-graphql/sangria) - Scala GraphQL 服务器实现.
 - [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - 桑格利亚汽酒中继支持.
 - [caliban](https://github.com/ghostdogpr/caliban) - Caliban 是一个纯函数库，用于在 Scala 中创建 GraphQL 后端.
 
@@ -563,7 +565,7 @@
 - [graphql](https://github.com/graphql-crystal/graphql) - GraphQL 服务器库.
 - [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - 灵感来自图书馆 [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser).
 - [crystal-gql](https://github.com/itsezc/crystal-gql) - 受 Apollo 客户端启发的 GraphQL 客户端分片.
-- [graphql.cr](https://github.com/garymardell/graphql.cr) -GraphQL 分片.
+- [graphql.cr](https://github.com/garymardell/graphql.cr) - GraphQL 分片.
 
 <a name="tools" />
 
@@ -674,7 +676,7 @@
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - 用于查找功能和性能问题的 GraphQL 分析和监控服务.
 - [Booster framework](https://booster.cloud/)  - 一个开源框架，让您_完全_忘记基础设施，让您专注于您的业务逻辑. 它会为您的模型自动生成一个 GraphQL API，支持突变、查询和订阅.
 - [Hypi](https://hypi.io/)  - 低代码、可扩展、无服务器后端即服务. 您的 GraphQL 和 REST over GraphQL 后端只需几分钟.
-- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代方案
+- [Nhost](https://nhost.io/) - 使用 GraphQL 的开源 Firebase 替代品
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first 无头电子商务平台.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - 当前支持 Apache Cassandra® 和 DataStax Enterprise 的开源数据网关.
 
@@ -757,7 +759,7 @@
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 使用 GraphQL 生态系统的最新工具和最佳实践了解 GraphQL 安全性、性能、测试和构建生产就绪 API.
+- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - 了解 GraphQL 安全性、性能、测试以及使用 GraphQL 生态系统的最新工具和最佳实践构建生产就绪 API.
 - [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)

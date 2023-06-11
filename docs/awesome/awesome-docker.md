@@ -47,11 +47,11 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -  [Docker Latest Tutorial](https://www.techgeekbuzz.com/tutorial/docker/what-is-docker/) — 这是一系列最新的 docker 教程，在这里您可以了解什么是 docker、docker 生命周期、如何在 Docker 中运行 Nginx Web Server？、如何在 docker 容器上运行 mysql、如何在 doceker 上使用 Python 以及许多其他重要主题.  
 -   [Docker simplified in 55 seconds](https://www.youtube.com/watch?v=vP_4DlOH1G4) ：Docker 的动画高级介绍. 将其视为视觉 tl;dr，可以更轻松地研究更复杂的学习材料.
 -   [Docker Training](https://training.mirantis.com) :heavy_dollar_sign:
--   [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)  — 在此 Docker 教程中，您将学习所有基础知识并学习如何容器化 Node.js 和 Go 应用程序. 即使您不熟悉这些语言，您也应该可以轻松地按照本教程进行操作并使用任何其他语言.
+-   [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)  — 在本 Docker 教程中，您将学习所有基础知识并学习如何容器化 Node.js 和 Go 应用程序. 即使您不熟悉这些语言，您也应该可以轻松地按照本教程进行操作并使用任何其他语言.
 -   [Learn Docker](https://github.com/dwyl/learn-docker)：分步教程和更多资源（视频、文章、备忘单），作者： [@dwyl](https://github.com/dwyl)
 -   [Play With Docker](https://training.play-with-docker.com/) ：PWD 是从初学者到高级用户开始使用 Docker 的好方法.  Docker 直接在您的浏览器中运行.
 -   [Practical Guide about Docker Commands in Spanish](https://github.com/brunocascio/docker-espanol) 本西班牙语指南包含基本 docker 命令的使用和现实生活中的示例.
--   [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction) 容器技术的前景不仅仅局限于 docker. 如果不能很好地掌握术语，就很难掌握 docker 和（选择你最喜欢的 CRI-O、rkt、lxc/lxd）之间的主要区别，或者理解开放容器倡议正在为容器技术标准化所做的工作.
+-   [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction) 容器技术的前景不仅仅局限于 docker. 如果不能很好地掌握术语，就很难掌握 docker 和（选择你最喜欢的 CRI-O、rkt、lxc/lxd）之间的主要区别，或者理解 Open Container Initiative 正在做些什么来标准化容器技术.
 -   [The Docker Handbook](https://docker-handbook.farhan.dev/) 一本教您基础知识、最佳实践和一些中级 Docker 功能的开源书籍. 本书托管于 [fhsinchy/the-docker-handbook](https://github.com/fhsinchy/the-docker-handbook) 并且项目托管在 [fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects) 存储库.
    
 
@@ -108,7 +108,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [draw-compose](https://github.com/Alexis-benoist/draw-compose) :skull: - 绘制 docker 架构的实用程序 [@Alexis-benoist](https://github.com/Alexis-benoist)
 -   [elsy](https://github.com/cisco/elsy) - 基于 Docker 和 Docker Compose 的自以为是的多语言构建工具
 -   [habitus](https://github.com/cloud66-oss/habitus) - Docker 的构建流程工具，作者： [@cloud66](https://github.com/cloud66)
--   [kompose](https://github.com/kubernetes/kompose) - 从 Docker Compose 到 Kubernetes
+-   [kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
 -   [Maestro](https://github.com/toscanini/maestro) :skull: -Maestro 提供了将多个 Docker 容器作为一个单元轻松启动、编排和管理的能力 [@tascanini](https://github.com/toscanini)
 -   [percheron](https://github.com/ashmckenzie/percheron) :skull: - 用肌肉和智慧组织你的 Docker 容器 [@ashmckenzie](https://github.com/ashmckenzie)
 -   [plash](https://github.com/ihucos/plash) - 容器运行和构建引擎 - 在 docker 中运行.
@@ -142,9 +142,9 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 - [Autoheal](https://github.com/willfarrell/docker-autoheal) - 自动监控并重启不健康的 docker 容器.
 - [Axibase Collector](https://github.com/axibase/docker-axibase-collector) - Axibase Collector 将来自 Docker 引擎的性能计数器、配置更改和生命周期事件流式传输到 Axibase 时间序列数据库中，用于汇总仪表板并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  - 分析正在运行的容器的资源使用情况和性能特征. 由 [@Google][google] 创建
-- [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) - Monitor and send alerts based on docker container resource usage/statistics
+- [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) - 根据 docker 容器资源使用/统计数据监控和发送警报
 - [Docker-Flow-Monitor](https://github.com/docker-flow/docker-flow-monitor) - 当 [@docker-flow][docker-flow] 自动更新或部署新服务时重新配置 Prometheus
-- [Dockerana](https://github.com/dockerana/dockerana) :skull: -Graphite 和 Grafana 的打包版本，专门针对 Docker 的指标.
+- [Dockerana](https://github.com/dockerana/dockerana) :skull: - Graphite 和 Grafana 的打包版本，专门针对 Docker 的指标.
 - [DockProc](https://gitlab.com/n0r1sk/dockproc) - 进程级容器的 I/O 监控.
 - [dockprom](https://github.com/stefanprodan/dockprom) - 使用 Prometheus、Grafana、cAdvisor、NodeExporter 和 AlertManager 监控 Docker 主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Doku](https://github.com/amerkurev/doku) - Doku 是一个简单的基于 Web 的应用程序，可让您监控 Docker 磁盘使用情况. [@amerkurev](https://github.com/amerkurev)
@@ -262,7 +262,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [oscap-docker](https://github.com/OpenSCAP/openscap)  - OpenSCAP 提供了用于扫描 Docker 容器和镜像的 oscap-docker 工具. 经过 [OpenSCAP](https://github.com/OpenSCAP)
 -   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy_dollar_sign: -（以前的 Twistlock 安全套件）检测漏洞，强化容器映像，并在应用程序的整个生命周期中实施安全策略.
 -   [Sysdig Falco](https://github.com/falcosecurity/falco)  - Sysdig Falco 是一个开源容器安全监视器. 它可以监控应用程序、容器、主机和网络活动，并对未经授权的活动发出警报.
--   [Sysdig Secure](https://sysdig.com/use-cases/cloud-threat-detection-and-response/) ：heavy_dollar_sign： - Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
+-   [Sysdig Secure](https://sysdig.com/use-cases/cloud-threat-detection-and-response/) ：heavy_dollar_sign：-Sysdig Secure 通过行为监控和防御解决运行时安全问题，并提供基于开源 Sysdig 的深度取证以进行事件响应.
 -   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy_dollar_sign: - Trend Micro DeepSecurity 为容器工作负载和主机提供运行时保护，以及图像的运行前扫描以识别漏洞、恶意软件和硬编码秘密等内容.
 -   [Trivy](https://github.com/aquasecurity/trivy) - Aqua Security 的开源简单而全面的容器漏洞扫描器（适用于 CI）.
 
@@ -294,7 +294,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 #### IDE integrations
 
 - JetBrains IDE（IntelliJ IDEA、GoLand、WebStorm、CLion 等）具有 [built-in Docker plugin](https://www.jetbrains.com/help/idea/docker.html#managing-images)
-- 日食 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
+- 日蚀 [Docker Tooling plugin](https://www.eclipse.org/community/eclipse_newsletter/2016/july/article2.php)
 -   [docker.vim](https://github.com/skanehira/docker.vim)  - 在 Vim 中管理 docker 容器和图像. 通过 [@skanehira]
 -   [docker.el](https://github.com/Silex/docker.el) Manage docker from Emacs by [@Silex](https://github.com/Silex)
 
@@ -387,7 +387,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 
 -   [amicontained](https://github.com/genuinetools/amicontained)  - 容器内省工具. 找出正在使用的容器运行时以及 [@genuinetools][genuinetools] 提供的功能
 -   [Chaperone](https://github.com/garywiz/chaperone)  - 为 docker 容器设计的单个 PID1 进程. 用户管理、日志管理、启动、僵尸收割，都在一个小包里. 经过 [@garywiz](https://github.com/garywiz)
--   [ckron](https://github.com/nicomt/ckron) - 用于 docker 的 cron 风格的作业调度程序，作者： [@nicomt](https://github.com/nicomt)
+-   [ckron](https://github.com/nicomt/ckron) - 用于 docker 的 cron 风格的作业调度程序，由 [@nicomt](https://github.com/nicomt)
 - [CoreOS][coreos] - 用于大规模服务器部署的 Linux
 -   [distroless](https://github.com/GoogleContainerTools/distroless) - 以语言为中心的 docker 图像，减去操作系统，来自 [@GoogleContainerTools][googlecontainertools]
 -   [docker-alpine](https://github.com/gliderlabs/docker-alpine) - [@gliderlabs][gliderlabs] 使用 Alpine Linux 的超小型 Docker 基础映像 _(5MB)_
@@ -399,7 +399,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) - [@NVIDIA][nvidia] 的 Docker NVIDIA 容器运行时
 -   [Ofelia](https://github.com/mcuadros/ofelia/)  - Ofelia 是一个现代且低占用空间的作业调度程序，适用于 docker 环境，构建于 Go 之上.  Ofelia 旨在取代老式的 cron. 支持来自容器标签和/或配置文件的配置.
 -   [su-exec](https://github.com/ncopa/su-exec)  - 这是一个简单的工具，可以简单地执行具有不同权限的程序. 该程序将直接执行，而不是像 su 和 sudo 那样作为子程序运行，从而避免了 TTY 和信号问题. 为什么要重塑 gosu？ 这或多或少与 gosu 完全相同，但它只有 10kb 而不是 1.8MB. 经过 [ncopa](https://github.com/ncopa)
--   [sue](https://github.com/theAkito/sue)  - 以与运行 sue 的用户不同的用户身份执行程序. 这是 ncopa/su-exec 的可维护替代品，后者是更好的 tianon/gosu. 这个比原来的 gosu 好得多（性能更高，体积更小），但是它比用普通 C 编写的 su-exec 更容易维护.由 [Akito][akito] 制作
+-   [sue](https://github.com/theAkito/sue)  - 以与运行 sue 的用户不同的用户身份执行程序. 这是 ncopa/su-exec 的可维护替代品，后者是更好的 tianon/gosu. 这个比原来的 gosu 好得多（性能更高，体积更小），但是它比用纯 C 编写的 su-exec 更容易维护.由 [Akito][akito] 制作
 -   [supercronic](https://github.com/aptible/supercronic) - 与 crontab 兼容的作业运行器，专为在容器中运行而设计 [@aptible](https://github.com/aptible/)
 -   [TrivialRC](https://github.com/vorakl/TrivialRC) - 容器的简约运行时配置系统和进程管理器 [@vorakl](https://github.com/vorakl)
 
@@ -447,7 +447,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   [dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph)  - 可视化您的多阶段 Dockerfile. 经过 [@PatrickHoefler](https://github.com/patrickhoefler)
 -   [Dockershelf](https://github.com/Dockershelf/dockershelf)  - 一个存储库，用作通用、高效和苗条的 docker 食谱的收集器. 图像通过 Travis cron 作业每天更新、测试和发布. 维护者 [@CollageLabs](https://github.com/CollageLabs).
 -   [dockmoor](https://github.com/MeneDev/dockmoor)  ：构造： - 管理 docker 图像引用并帮助使用 Docker 创建可重现的构建. 经过 [@MeneDev](https://github.com/MeneDev)
--   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 图像
+-   [Vektorcloud](https://github.com/vektorcloud) - 一组最小的、基于 Alpine 的 Docker 镜像
 
 示例：
 
@@ -680,12 +680,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker/)
 -   **[Valuable Docker Links](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/) ** 关于docker的高质量文章！  **必看**
 -   [Become a Docker Power User with Visual Studio Code](https://www.thebyte.io/become-docker-power-user-with-vs-code) - :heavy_dollar_sign: 帮助你成为 Visual Studio Code 的 Docker Power 用户的培训课程
 -   [Cloud Native Landscape](https://github.com/cncf/landscape)
+-   [Docker Blog](https://www.docker.com/blog/) - 有关 Docker、社区和工具的定期更新
 -   [Docker Certification](https://intellipaat.com/docker-training-course/?US) :heavy_dollar_sign: 将帮助您通过实践项目和案例研究学习 Docker 容器化、运行 Docker 容器、图像创建、Dockerfile、Docker 编排、安全最佳实践等，并有助于清除 Docker Certified Associate.
 -   [Docker Community on Hashnode](https://hashnode.com/n/docker)
 -   [Docker dev bookmarks](https://www.codever.dev/search?q=docker) - 使用标签 [docker](https://www.codever.dev/bookmarks/t/docker)
 -   [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 -   [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
--   [Docker Newsletter](https://www.docker.com/newsletter-subscription/) 定期更新的 Docker 时事通讯
 -   [Docker packaging guide for Python](https://pythonspeed.com/docker/) - 一系列关于 Python 的 Docker 打包细节的详细文章.
 -   [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches)
 -   [Learn Docker](https://coursesity.com/blog/best-docker-tutorials/) - 学习 Docker - 顶级在线 Docker 教程和课程的精选列表.

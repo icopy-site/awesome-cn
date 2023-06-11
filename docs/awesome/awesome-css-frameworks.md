@@ -35,7 +35,7 @@
   [Repo](https://github.com/hankchizljaw/modern-css-reset)
   | #CSS
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展、可缩放、基于 Sass 的 OOCSS 框架，适用于大型且持久的 UI 项目.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -74,12 +74,6 @@
 - [**Tacit**](https://yegor256.github.io/tacit/) - 没有类的傻瓜 CSS 框架.  
   ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
   [Repo](https://github.com/yegor256/tacit/)
-  | #SCSS
-
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css/) - 没有类、属性等的语义 HTML 标记的 CSS 库.  
-  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
-  [Demo](https://igoradamenko.github.io/awsm.css/elements.html),
-  [Repo](https://github.com/igoradamenko/awsm.css)
   | #SCSS
 
 
@@ -157,7 +151,7 @@
   [Repo](https://github.com/carbon-design-system/carbon)
   | #SCSS
 
-- [**Fomantic-UI**](https://fomantic-ui.com/) - Build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging.  
+- [**Fomantic-UI**](https://fomantic-ui.com/) - 使用简洁的 HTML、直观的 javascript 和简化的调试，快速构建漂亮的网站.  
   ![](https://img.shields.io/github/stars/fomantic/fomantic-ui.svg?style=social&label=Star)
   [Docs](https://fomantic-ui.com/introduction/getting-started.html),
   [Repo](https://github.com/fomantic/fomantic-ui/)
@@ -318,8 +312,7 @@
 - [**Bourbon**](https://www.bourbon.io/) - 轻量级 Sass 工具集.  
   ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
   [Docs](https://www.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/bourbon/),
-  [Scaffold](https://bitters.bourbon.io/)
+  [Repo](https://github.com/thoughtbot/bourbon/)
   | #SCSS
 
 
@@ -355,38 +348,9 @@
   [Repo](https://github.com/picturepan2/spectre)
   | #SCSS
 
-- [**Flexbox Grid**](https://flexboxgrid.com) - 基于 CSS3 flexbox 的网格.  
-  ![](https://img.shields.io/github/stars/kristoferjoseph/flexboxgrid.svg?style=social&label=Star)
-  [Repo](https://github.com/kristoferjoseph/flexboxgrid)
-
 - [**Basscss**](https://basscss.com) - 低级 CSS 工具包.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
-
-- [**Neat**](https://neat.bourbon.io/) - 轻巧灵活的 Sass 网格.  
-  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
-  [Demo](https://neat.bourbon.io/examples/),
-  [Docs](https://neat.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/neat)
-  | #SCSS
-
-- [**mini.css**](https://minicss.org) - 最小的、响应式的、风格不可知的 CSS 框架.  
-  ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
-  [Docs](https://minicss.org/docs),
-  [Repo](https://github.com/Chalarangelo/mini.css)
-  | #SCSS
-
-- [**Mobi.css**](https://getmobicss.com) - 轻量级、可扩展、移动优先的 CSS 框架.  
-  ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
-  [Docs](https://getmobicss.com/docs/introduction.html),
-  [Repo](https://github.com/mobi-css/mobi.css)
-  | #CSS
-
-- [**Wing**](https://kbrsh.github.io/wing/) - 为极简主义者设计的漂亮的 CSS 框架.  
-  ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
-  [Docs](https://kbrsh.github.io/wing/#installation),
-  [Repo](https://github.com/kbrsh/wing)
-  | #Stylus
 
 - [**CSS Remedy**](https://github.com/jensimmons/cssremedy) - 用 CSS 技术债务的补救措施开始你的项目.  
   ![](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=social&label=Star)

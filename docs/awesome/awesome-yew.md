@@ -36,7 +36,7 @@
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) - 一个简单的、支持网络的 Rust 卡拉 OK 播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) - 手机游戏 I Love Hue in Yew (Rust) 的克隆.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) - 这是紫杉框架风格的初始项目.
-- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 功能搜索.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) - Rust 特征搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) - 使用电子将基于 Rust 的网络应用程序 (Yew) 构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) - 全球 CoVID-19 数据的实时图表.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) - 使用 Rust、Yew 和 WebAssembly 构建的扫雷器.
@@ -68,7 +68,7 @@
 - [Marc Portfolio](https://gitlab.com/marcempunkt/maeurerdev) - 软件开发人员组合， [Live Demo](https://maeurer.dev/).
 - [zzhack](https://github.com/zzhack-stack/zzhack) - 基于 Rust &amp; Yew 的个人博客， [Live Demo](https://www.zzhack.fun/).
 - [Rquote](https://github.com/Altair-Bueno/rquote)  - Rquote 是一个使用 Rust 和 WebAssembly 构建的 Web 应用程序. 它从 Animechan API 获取动漫名言. [Live Demo](https://rquote.vercel.app/).
-- [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - 该示例演示了带有潮汐和冲浪的 Yew 服务器端渲染，它需要 Yew 的**开发版本**.
+- [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - The example demonstrates Yew server-side rendering with tide & surf, it needs the **development version** of Yew.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - 该示例演示使用actix-web 和reqwest 的Yew 服务器端渲染，它需要Yew 的**开发版本**.
 - [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser 是一款现实生活中的派对游戏，玩家可以在其中尝试尽快猜出图像的内容. 
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - 用 Rust 编写的快速打字网络应用程序.
@@ -135,7 +135,7 @@
 - [yew-hooks](https://github.com/jetli/yew-hooks) - Yew 的自定义 Hooks 库，灵感来自 [streamich/react-use](https://github.com/streamich/react-use) 和 [alibaba/hooks](https://github.com/alibaba/hooks).
 - [yew-side-effect](https://github.com/futursolo/yew-side-effect) - 调和 Yew 应用程序中的副作用，灵感来自 [react-side-effect](https://github.com/gaearon/react-side-effect) 和 [react-helmet](https://github.com/nfl/react-helmet).
 - [Bounce](https://github.com/bounce-rs/bounce) - Yew 的简单状态管理库，灵感来自 [Redux](https://github.com/reduxjs/redux) 和 [Recoil](https://github.com/facebookexperimental/Recoil).
-- [yewv](https://github.com/yewv/yewv) - 以性能和简单性为第一要务的 Yew 闪电般快速状态管理模块.
+- [yewv](https://github.com/yewv/yewv) - Yew 的闪电般快速状态管理模块，以性能和简单性为第一要务.
 
 ### Javascript Library Ports
 
@@ -146,7 +146,7 @@
 
 - [Yewdux](https://github.com/intendednull/yewdux) - Yew 应用程序的类似 Redux 的状态容器.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) - 通过 Typescript 类型定义从 React 组件生成 Yew 组件.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) - Rust 中的 CSS，类似于样式组件，但适用于 Yew.
 - [stylist-rs](https://github.com/futursolo/stylist-rs) - 用于 WebAssembly 应用程序的 CSS-in-Rust 样式解决方案.
 - [Yew Interop](https://github.com/Madoshakalaka/yew-interop) - 在 Yew 中异步加载 JavaScript 和 CSS.
 - [Tailwind RS](https://github.com/oovm/tailwind-rs) - Rust 中的 Tailwind 样式跟踪器，JIT + AOT 解释器.
@@ -154,6 +154,7 @@
 - [yew_icons](https://github.com/finnbear/yew_icons) - 轻松将各种 svg 图标（Feather/Font Awesome/Octicons）包含到您的 Yew 应用程序中.
 - [Yew-Template](https://github.com/INSAgenda/yew-template) - 使用 Yew 时用于分离 HTML 和 Rust 代码的箱子.
 - [yew-nested-router](https://github.com/ctron/yew-nested-router) - 支持嵌套的路由器，带有 Yew 0.20.
+- [turf](https://github.com/myFavShrimp/turf) - 受 CSS 模块启发的基于宏的编译时 SCSS 转译、CSS 缩小和类名唯一化工具链.
 
 ### Wasm
 

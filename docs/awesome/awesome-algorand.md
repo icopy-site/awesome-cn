@@ -28,7 +28,6 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 &gt; **另外**，使用可下载的 AwesomeAlgo Search 桌面版增强您的可访问性 [here](https://github.com/aorumbayev/awesome-algorand/releases/tag/v0.1.0).
 
 
-
 ## Official Resources
 
 &gt; Algorand 的官方资源.
@@ -43,7 +42,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 ## Wallets
 
  &gt; Algorand 钱包提供商列表. 请注意，此列表并非详尽无遗，也不代表任何钱包提供商的背书.
-&gt; ⚠️鉴于 [attacks](https://twitter.com/myalgo_/status/1632862464244162560) on MyAlgo wallet users, related sdk has been excluded from the list.
+&gt; ⚠️鉴于 [attacks](https://twitter.com/myalgo_/status/1632862464244162560) 对于 MyAlgo 钱包用户，相关 sdk 已被排除在列表之外.
 
 - [Pera Wallet](https://github.com/perawallet)  - 适用于移动和桌面设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
 - [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件网络钱包和 JS 库，用于在浏览器中签署交易.
@@ -51,6 +50,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Defly Wallet](https://defly.app/) - Defly 是一款 Algorand 钱包，具有出色的集成 DeFi 功能.
 - [Daffi Wallet](https://www.daffi.me/) - Daffi 是 Algorand 的移动钱包，可集成访问 Daffi 平台.
 - [Exodus](https://www.exodus.com/) - Exodus 是一款支持 Algorand 的多加密货币钱包.
+- [A-Wallet](https://a-wallet.net/) - AWallet 是一个开源、纯 HTML、企业友好且安全的 Algorand 钱包.
 
 ## Blockchain Explorers
 
@@ -64,7 +64,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand 账户的 3D 图表.
 - [Algoscan](https://algoscan.app/)  - Algoscan 是一个区块链浏览器和分析平台. 建立在 Algorand 网络之上.
 - [Asalytic](https://www.asalytic.app/) - 分析 Algorand NFT 空间.
-- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙盒）.
+- [Dappflow](https://explorer.dappflow.org/) - Algorand Private Network Explorer（支持“localhost”中的沙箱）.
 - [Bitquery](https://explorer.bitquery.io/algorand)  - 适用于 30 多个区块链的可操作、有洞察力的区块链 GraphQL API. 突出显示的功能之一是能够查询 Algorand 区块提议者列表.
 
 ## Portfolio Trackers
@@ -104,7 +104,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Stateless session management with the Pera wallet](https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/) - Pera 钱包与 Nextjs 和 Redux 的连接示例.
 - [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - 使用 Python、AlgoSigner 和 Anvil Platform 构建用于铸造资产的 Web 应用程序.
 - [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - 来自 algorand 开发者门户的教程.
-- [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - 使用 Algorand 多重签名账户的去中心化合作联盟.
+- [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - Decentralised co-operative unions with Algorand Multisignature Account.
 - [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - 使用 Python 读取和写入交易记录字段.
 - [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - 使用有状态智能合约创建 Algorand 标准资产.
 
@@ -119,7 +119,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ### AlgoKit Templates
 
-- [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - Official AlgoKit beaker template provides a production-ready baseline for developing and deploying Beaker smart contracts.
+- [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - 官方 AlgoKit 烧杯模板为开发和部署烧杯智能合约提供了生产就绪基线.
 - [algokit-tealish-template](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit 社区模板，用于使用 tealish 和 algojig 快速启动智能合约项目.
 
 ### Languages
@@ -128,7 +128,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 #### C/C++
 
-- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - Vertices SDK 为开发人员提供了与区块链交互的简单设备访问.
+- [vertices-algorand-sdk](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
 - [unreal-algorand-sdk](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Algorand 区块链平台的官方虚幻引擎插件.
 - [cplusplus-algorand-sdk](https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK) - Algorand C++ SDK：这个 repo 在 algorand 链上提供 C++ sdk.
 
@@ -258,37 +258,20 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [use-wallet](https://github.com/txnlab/use-wallet)  - React hooks 用于将 Algorand 兼容钱包与 Web 应用程序一起使用. 由开发 [txnlab](https://www.txnlab.dev/).
 
-## NFT Marketplaces
-
-&gt; Algorand 上很棒的 NFT 市场和画廊.
-
-- [AB2](https://ab2.gallery/) - 在 Algorand 区块链上保护加密艺术资产的去中心化市场 [@ab2_gallery](https://twitter.com/AB2_Gallery).
-- [Rand Gallery](https://www.randgallery.com/) - Algorand 标准资产 (ASA) 浏览器和市场由 [Chris Antaki](https://github.com/ChrisAntaki).
-- [AlgoGems](https://algogems.io/) - 面向 NFT 收藏家的 Algorand 标准资产 (ASA) 市场和交易平台.
-- [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和画廊 [@aorumbayev](https://twitter.com/aorumbayev).
-- [AlgoMart](https://github.com/deptagency/algomart) - 开源 NFT 市场白标解决方案.
-- [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
-- [Dartroom](https://dartroom.xyz/overview) - 去中心化 NFT 浏览器、铸造和交易.
-- [Alchemon](https://alchemon.net/) - 怪物收集 NFT 纸牌游戏.
-- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
-- [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
-- [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏品市场.
-- [Aorist](https://aorist.art/) - NFT 艺术画廊和市场.
-- [ASA cafe](https://asa.cafe/) - Algorand 标准资产平台和去中心化市场由 [@CryptoRUSHGav](https://github.com/CryptoRUSHGav) .  ASA cafe 允许用户使用最现代的标准（例如 ARC-19）在 Algo、USDC 或 ASA cafe 不断扩大的精选非网络代币列表中自由铸造和交易.
-- [Grid](https://grid.zestbloom.com/)  - 网格是一个轻量级的静态站点，在客户端前端执行以检索任意的实时合约列表，供用户浏览和交互. 网格是高度可配置的，允许显示任何 ZestBloom 支持的合同和销售类型，但是通过一个简单的配置文件，可以很容易地将显示的内容限制为特定的集合或精选的销售列表.
-
 ## DeFi Platforms
 
  &gt; Algorand 上很棒的 DeFi 平台和协议. 请注意，此列表并非旨在推广任何特定项目，而是提供对生态系统的全面概述. 在投资或使用此处列出的任何项目之前，请自行研究.
 
-- [Yieldly](https://yieldly.finance/) - 用于跨链交换、ASA 质押和彩票游戏的 DeFI 套件.
 - [Tinyman](https://tinyman.org/) - 去中心化交易协议、AMM 和平台.
 - [Algofi](https://www.algofi.org/) - Algorand 区块链上的去中心化借贷市场和稳定币.
 - [Pact](https://www.pact.fi/) - 基于 Algorand 协议构建的去中心化自动做市商 (AMM).
-- [Lofty.ai](https://www.lofty.ai/) - 代币化房地产投资平台.
+- [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
 - [Folks.finance](https://folks.finance/) - 去中心化资本市场协议.
 - [C3](https://c3.io/) - 交叉保证金交叉抵押清算引擎协议.
 - [Cometa.farm](https://cometa.farm/) - 去中心化的流动性即服务.
+- [aramid.finance/](https://www.aramid.finance/) - 支持 Algorand、Polygon、Ethereum 和其他 EVM 链的去中心化跨链协议.
+- [stabilitas.finance](https://stabilitas.finance/) - 稳定和安全的数字资产，用于各种目的，例如购买、汇款和作为价值储存.
+- [vestige.fi](https://vestige.fi/)  - 一个去中心化的工具生态系统，主要用作跟踪和趋势整个生态系统中的 Algorand 标准资产和流动资金池的工具. 该平台还提供去中心化交换和启动平台.
 
 ## Subscription Management
 
@@ -362,7 +345,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [algorewards](https://algorewards.github.io/)  - 免费和非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer：非官方的开发者资源.
 - [Pipeline-UI](https://www.pipeline-ui.com/) - 基于 React.js 的组件库，用于快速部署 Algorand Dapps.
-- [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
+- [STOI](https://stoi.org/) - 歌曲所有权通过 microDAO 去中心化.
 - [AlgoTables](https://github.com/algotables/algotables.github.io) - 一套工具，旨在帮助参与 Algorand 生态系统的 ALGO 日常持有者.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - 一个微小的 cron 作业，它发出一个 [tweet](https://twitter.com/algoping) 如果公共 Algorand 节点（AlgoExplorer、AlgoNode 等）不健康.
 - [SliceSwap](https://app.sliceswap.com)  - 一个在主要 Dex 之间交易您的资产的地方. 所有交换均由@deflexfi 提供支持.
@@ -387,6 +370,33 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algorand Mempool](https://www.iamnotabot.com/pool) - Algorand 内存池浏览器.
 - [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand 网络性能和账户监控.
 - [Algorand Stats](https://www.algorandstats.com/) - 关于 Algorand 治理的所有统计数据.
+
+## Decentralized voting
+
+&gt; 由 Algorand 提供支持的链上投票工具
+
+- [nft_voting_tool](https://github.com/algorandfoundation/nft_voting_tool)  - Algorand 基金会的官方投票工具. 该存储库包含一个投票工具，允许使用 Algorand 区块链创建和促进不可变的、防篡改的投票.
+- [vote-coin-demo](https://github.com/scholtz/vote-coin-demo) - 由@scholtz 开发的用于在 Algorand 上进行链上投票的去中心化消息标准.
+
+## NFT Marketplaces
+
+&gt; Algorand 上很棒的 NFT 市场和画廊.
+
+- [AB2](https://ab2.gallery/) - 在 Algorand 区块链上保护加密艺术资产的去中心化市场 [@ab2_gallery](https://twitter.com/AB2_Gallery).
+- [Rand Gallery](https://www.randgallery.com/) - Algorand 标准资产 (ASA) 浏览器和市场由 [Chris Antaki](https://github.com/ChrisAntaki).
+- [AlgoGems](https://algogems.io/) - 面向 NFT 收藏家的 Algorand 标准资产 (ASA) 市场和交易平台.
+- [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和画廊 [@aorumbayev](https://twitter.com/aorumbayev).
+- [AlgoMart](https://github.com/deptagency/algomart) - 开源 NFT 市场白标解决方案.
+- [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
+- [Dartroom](https://dartroom.xyz/overview) - 去中心化 NFT 浏览器、铸造和交易.
+- [Alchemon](https://alchemon.net/) - 怪物收集 NFT 纸牌游戏.
+- [Otherverse](https://otherverse.io/) - NFT 收藏市场.
+- [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
+- [Flatter](https://www.flatternft.com/) - NFT 艺术和收藏品市场.
+- [Aorist](https://aorist.art/) - NFT 艺术画廊和市场.
+- [ASA cafe](https://asa.cafe/) - Algorand 标准资产平台和去中心化市场由 [@CryptoRUSHGav](https://github.com/CryptoRUSHGav) .  ASA cafe 允许用户使用最现代的标准（例如 ARC-19）在 Algo、USDC 或 ASA cafe 不断扩大的精选非网络代币列表中自由铸造和交易.
+- [Grid](https://grid.zestbloom.com/)  - 网格是一个轻量级的静态站点，在客户端前端执行以检索任意的实时合约列表，供用户浏览和交互. 网格是高度可配置的，允许显示任何 ZestBloom 支持的合同和销售类型，但是通过一个简单的配置文件，可以很容易地将显示的内容限制为特定的集合或精选的销售列表.
+
 
 ## Contributing
 

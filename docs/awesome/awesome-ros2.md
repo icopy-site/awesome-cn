@@ -87,7 +87,7 @@
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的 2D 和 3D 实时同时定位和映射 (SLAM). ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [slam_gmapping](https://github.com/Project-MANAS/slam_gmapping) - ROS2 的大满贯 Gmapping. ![slam_gmapping](https://img.shields.io/github/stars/Project-MANAS/slam_gmapping.svg)
 - [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam 工具箱，用于使用 ROS 在潜在的大型地图中进行终身映射和定位. ![slam_toolbox](https://img.shields.io/github/stars/SteveMacenski/slam_toolbox.svg)
-- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - ROS2 package of 3D lidar slam using ndt/gicp registration and pose-optimization. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
+- [lidarslam_ros2](https://github.com/rsasaki0109/lidarslam_ros2) - 使用 ndt/gicp 注册和姿势优化的 3D 激光雷达 slam 的 ROS2 包. ![lidarslam_ros2](https://img.shields.io/github/stars/rsasaki0109/lidarslam_ros2.svg)
 - [li_slam_ros2](https://github.com/rsasaki0109/li_slam_ros2) - 从 LIO-SAM 引用的紧耦合激光雷达惯性 ndt/gicp slam 的 ROS2 包. ![li_slam_ros2](https://img.shields.io/github/stars/rsasaki0109/li_slam_ros2.svg)
 - [octomap_server2](https://github.com/iKrishneel/octomap_server2)  - 用于使用 OctoMap 进行映射的 ROS2 堆栈.  ROS1的端口 [octomap_mapping](https://github.com/OctoMap/octomap_mapping) 包裹. ![octomap_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - 用于将 ROS2 与 OpenCV 连接的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
@@ -115,6 +115,7 @@
 - [easy_perception_deployment](https://github.com/ros-industrial/easy_perception_deployment) - 加速行业计算机视觉模型培训和部署的软件包. ![easy_perception_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
 - [easy_manipulation_deployment](https://github.com/ros-industrial/easy_manipulation_deployment) - 集成感知元素以建立端到端拾取和放置任务的包. ![easy_manipulation_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 - [ros2_pid_library](https://github.com/dottantgal/ros2_pid_library) - 一个 ROS2 Humble 完全可配置的 PID 库 ![ros2_pid_library](https://img.shields.io/github/stars/dottantgal/ros2_pid_library.svg)
+- [wayp_plan_tools](https://github.com/jkk-research/wayp_plan_tools) - 用于 ROS 2 的航路点和规划器工具，具有最小的依赖性和可选的 Gazebo Fortress 模拟. ![wayp_plan_tools](https://img.shields.io/github/stars/jkk-research/wayp_plan_tools.svg)
 
 ### Middleware
 
@@ -151,12 +152,12 @@
 - [ros2_usb_camera](https://github.com/klintan/ros2_usb_camera) - ROS2 通用 USB 摄像头驱动程序. ![ros_astra_camera](https://img.shields.io/github/stars/klintan/ros2_usb_camera.svg)
 - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - 多个 Android 传感器的 ROS2 驱动程序集合. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - 用于英特尔® 实感™ 设备的 ROS2 包装器. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
-- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - Raspberry Pi 相机模块的 ROS2 节点. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
+- [raspicam2_node](https://github.com/christianrauch/raspicam2_node) - ROS2 node for camera module of Raspberry Pi. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
 - [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - 用于 TrackIMU IMU 传感器的 ROS2 节点![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
 - [HRIM](https://github.com/AcutronicRobotics/HRIM) - 机器人模块的标准接口.
 - [FIROS2](https://github.com/eProsima/FIROS2) - ROS2 可集成工具，专注于 ROS2 和 FIWARE 之间的相互通信. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) - ROS2 上的 Linorobot. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
-- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于 MiniRys 机器人的 ROS2 软件栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
+- [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于 MiniRys 机器人的 ROS2 软件堆栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) - 用于将 PX4 与 ROS 通信的 ROS2/ROS 包. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
 - [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - 用于 MultiWii 和 Cleanflight 飞行控制器的 ROS2 节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) - ydlidar 的 ROS2 包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
@@ -239,7 +240,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) - 用于微型 ROS 的官方 NuttX 分支.
-- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT 是一个实时多线程操作系统（...，）实时功能，小内存占用，（...）API 提供部分 POSIX 合规性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT 是一个实时多线程操作系统（...，）实时功能，内存占用小，（...）API 提供部分 POSIX 合规性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - 符合 POSIX 标准的实时操作系统，适用于未来有望支持 AUTOSAR 的多核处理器.
 - [PYNQ](http://www.pynq.io/) - 在 XILINX FPGA 上运行的高性能 ML 应用程序的基于 Python 的快速原型设计.
 - [ReconROS](https://github.com/Lien182/ReconROS)  - 基于 ROS2 FPGA 的硬件加速框架. 基于 [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
@@ -287,7 +288,7 @@
 
 ## Books
 
-**尚未出版任何书籍**
+- [A Concise Introduction to Robot Programming with ROS2](https://github.com/fmrico/book_ros2)
 
 ## Courses
 
@@ -468,7 +469,7 @@ DDS 安全.
 - [Acutronic Robotics](https://github.com/AcutronicRobotics)  - 不存在了. 硬件机器人信息模型（HRIM）、硬件机器人操作系统（H-ROS）的发起人，世界第一台模块化工业机械臂MARA的创造者.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) - “前沿计算”.
 - [Alias Robotics](https://aliasrobotics.com/) - 机器人网络安全背景下的产品和服务.
-- [Amazon](https://github.com/aws-robotics) - 亚马逊亚马逊网络服务 (AWS) 的机器人团队.
+- [Amazon](https://github.com/aws-robotics) - Amazon Amazon Web Services (AWS) 的机器人团队.
 - [Apex.AI](https://www.apex.ai/) - “用于自主移动的安全且经过认证的软件”.
 - [AutonomouStuff](https://autonomoustuff.com) - “自治系统和解决方案的世界领导者”.
 - [Bosch](https://github.com/boschresearch) - 博世研究机器人团队.
@@ -512,7 +513,7 @@ DDS 安全.
   - [ros-security/community](https://github.com/ros-security/community) - 概述了 ROS 2 安全工作组的治理.
 - 技术指导委员会
   - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
-- 工具工作组
+- Tooling Working Group
   - [Discourse threads tagged "wg-tooling"](https://discourse.ros.org/tags/wg-tooling)
 
 ## License
