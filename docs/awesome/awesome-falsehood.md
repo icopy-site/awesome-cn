@@ -15,7 +15,7 @@
   </a>
 </p>
 
-______________________________________________________________________
+---
 
 <p align="center">
   <br>
@@ -37,7 +37,7 @@ ______________________________________________________________________
 ## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/)  - 常见谎言的简要清单. 对谎言世界的一个很好的概述和快速介绍.
-- [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 关于编程和程序员本身的谦逊而有趣的列表.
+- [Falsehoods about Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 关于编程和程序员本身的谦逊而有趣的清单.
 - [Falsehoods about Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) - 关于不应如何处理这些谎言的元评论.
 
 ## Arts

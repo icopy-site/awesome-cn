@@ -1323,7 +1323,7 @@ _Related: [Inventory Management](#inventory-management), [Resource Planning - En
 
 软件用于 [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) 系统、网络、应用程序和网站. 
 
-**请拜访 [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metric and Metric Collection](https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection)**
+**请拜访 [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring), [awesome-sysadmin/Metrics and Metric Collection](https://github.com/awesome-foss/awesome-sysadmin#metrics--metric-collection)**
 
 
 

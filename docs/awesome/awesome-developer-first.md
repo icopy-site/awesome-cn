@@ -3,7 +3,7 @@
 
 
 精选的开发人员优先产品列表.  
-我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
+我确定你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
 你可以关注我 [Twitter](https://twitter.com/agammore) 更多与开发相关的内容:) 
 
 这个 repo 的 developer-first 的定义是：
@@ -137,6 +137,7 @@
 * [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台.
 * [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
 * [Split](https://www.split.io/) - 具有数据分析功能的标志平台.
+* [Unleash](https://www.getunleash.io/) - 开源、隐私优先和企业就绪的功能管理解决方案.
 
 ## GEO
 *位置服务.*
@@ -153,7 +154,7 @@
 
 ## Infrastructure as Code
 *声明您的基础设施并从中可重复地配置云基础设施.*
-* [Pulumi](https://www.pulumi.com/) - 开发人员优先的 IaC，使用 Python、TypeScript、Go 和更多语言......
+* [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
 * [Terraform](https://www.hashicorp.com/products/terraform) - DSL、开源和免费（付费解决方案增加了团队管理、策略即代码……）.
 
 ## Integrations
@@ -233,7 +234,7 @@
 ## Repo
 *存储库和工件管理.*
 * [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的包存储库.
-* [Cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
+* [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ## Reports Generation
 *生成报告，主要是 PDF.*
@@ -274,7 +275,8 @@
 * [Beeceptor](https://beeceptor.com/) - REST API 模拟.
 * [Blackfire.io](https://blackfire.io/) - 性能测试.
 * [Chromatic](https://www.chromatic.com/) - 故事书的视觉用户界面测试.
-* [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
+* [Ddosify](https://ddosify.com/) - 分布式性能测试平台.
+* [Loadmill](https://www.loadmill.com/) - 根据用户行为生成测试.
 * [Percy](https://percy.io/) - 连续视觉测试.
 * [Testim](https://www.testim.io/) - 前端测试.
 

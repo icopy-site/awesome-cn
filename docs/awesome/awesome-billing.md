@@ -234,7 +234,7 @@ Uncommon pricing schemes.
 
 ### Online Ads
 
-有针对性的在线广告市场与传统的云市场有很多共同点. 那里有一些很好的灵感，从概念到技术.
+有针对性的在线广告市场与传统的云市场有很多共同之处. 那里有一些很好的灵感，从概念到技术.
 
 - [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - 用于有针对性的在线广告的预算进度资源集合.
 
@@ -432,7 +432,7 @@ Uncommon pricing schemes.
 
 - [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944)  - 根本原因？ 人们在低湿度空气中穿着大量羊毛，产生大量静电.
 
-- ACH 的工作原理：从开发人员的角度来看， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
+- ACH 的工作原理：开发人员的观点， [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
 - [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox 试图解决不可靠支付服务提供商的问题.
 
@@ -478,7 +478,7 @@ Uncommon pricing schemes.
 
 通常的汇款服务.
 
-- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付界面. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
+- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付接口. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)  - 过去 20 年的支付 API 中出现问题的大量集合，现在仍然如此. 本文中暴露的任何未解决的问题最终都将成为赃款.
 
@@ -646,6 +646,8 @@ Uncommon pricing schemes.
 
 - [Patents on billing systems of the dot-com era](https://news.ycombinator.com/item?id=34773821)  - 全部被废弃，构成现有技术. 这意味着没有什么可以阻止任何人实施或商业化这些概念.
 
+- “你需要一个稍微复杂一点的开发团队来拼凑一个计费平台”（[source](https://www.techemails.com/i/124009734/google-pms-on-stripe) ) - Google 的产品总监负责构建计费系统：您需要某种类型的工程师来处理该领域. 它并不适合所有人.
+
 ### Cloud providers
 
 - [AWS Cost Management announcements](https://aws.amazon.com/about-aws/whats-new/aws-cost-management/) - 添加到计费边界的所有新功能的来源.
@@ -658,13 +660,13 @@ Uncommon pricing schemes.
 
 - [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - 近期 GCP 定价功能的总结.
 
-- [Orbitera](https://en.wikipedia.org/wiki/Orbitera) - GCP 的计费子公司.
+- [Orbitera](https://en.wikipedia.org/wiki/Orbitera) - GCP's billing subsidiary.
 
 - [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - DO 上的所有最新账单更新.
 
 ## History
 
- - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接关联.
+ - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接联系.
 
 - [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 

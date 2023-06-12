@@ -25,6 +25,7 @@ Neovim 支持多种 UI.
 您可以在 [Neovim wiki](https://github.com/neovim/neovim/wiki/Related-projects#gui)
 
 ## Starter Templates
+
 - [tokiory/neovim-boilerplate](https://github.com/tokiory/neovim-boilerplate) - 用于制作新配置的入门样板.
 - [frans-johansson/lazy-nvim-starter](https://github.com/frans-johansson/lazy-nvim-starter) - 带有惰性插件管理器的入门样板.
 
@@ -43,7 +44,7 @@ Neovim 支持多种 UI.
 #### (requires Neovim 0.5)
 
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - LSP 客户端的快速启动配置.
-- [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - This is a plugin/library for generating statusline components from the built-in LSP client.
+- [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - 这是一个用于从内置 LSP 客户端生成状态行组件的插件/库.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - nvim-lsp 操作的更好默认值.
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - 基于 Neovim 内置 LSP 的轻量级 LSP 插件，具有高性能 UI.
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - 只要当前光标位置有“textDocument/codeAction”可用，插件就会在符号栏中显示一个灯泡.
@@ -74,7 +75,7 @@ Neovim 支持多种 UI.
 - [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) - 对 eclipse.jdt.ls 的内置 LSP 支持的扩展.
 - [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - 内联诊断弹出突出显示很像 coc-nvim，但基于 `vim.diagnostic`.
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) - Neovim 与 Haskell 开发工具（如 haskell-language-server 和 Hoogle）的无缝集成.
-- [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - 使用 ccls LSP 的非规范扩展并浏览 AST.
+- [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) - 将 LSP 功能添加到特定的 Neovim 缓冲区.
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - 用于预览、导航和编辑 LSP 位置的漂亮窗口.
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Neovim 的另一个 lsp 进度状态.
@@ -157,7 +158,7 @@ Neovim 支持多种 UI.
 ### Language
 
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - 使用交互式翻译窗口翻译您的文本.
-- [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) - 通过 shell 命令调用任何翻译引擎.
+- [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 
 ### Syntax
 
@@ -177,6 +178,7 @@ Neovim 支持多种 UI.
 - [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - 在最常见的代码片段格式之间转换代码片段，并使用几行 Lua 代码修改它们.
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) - 用 Lua 编写的代码片段插件，支持 [vim-snippets](https://github.com/honza/vim-snippets).
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) - 直接从 Neovim 创建漂亮的代码片段.
+- [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) - 在 Neovim 中使用创建代码片段 [ray.so](https://ray.so).
 
 ### Register
 
@@ -299,7 +301,7 @@ Neovim 支持多种 UI.
 - [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - 受 spacemacs 启发的深色和浅色配色方案.
 - [yonlu/omni.vim](https://github.com/yonlu/omni.vim) - Vim 的 Omni 配色方案.
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 支持 Tree-sitter 和 LSP 的 24 位深色主题.
-- [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - 现代 Neovim 配色方案的集合：材料、月光、吸血鬼（血）、莫诺凯、马里亚纳、祖母绿、早夏、午夜蓝、暗太阳.
+- [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - 现代 Neovim 配色方案的集合：材料、月光、德古拉（血）、莫诺凯、马里亚纳、祖母绿、早夏、午夜蓝、暗太阳.
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - 用 Lua 编写的 Monokai 主题.
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - 旨在感觉像 Sublime Text 的 Monokai 主题.
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - 用 Lua 编写的暖色方案，支持各种终端仿真器.
@@ -327,13 +329,13 @@ Neovim 支持多种 UI.
 - [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - 一组 Vim/Neovim 配色方案，旨在使用对比和字体变化来突出显示代码.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim)  - 温暖的中色调深色主题，炫耀你充满活力的自我！ 支持原生 LSP、Tree-sitter 等！
 - [FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim) - 深色但充满活力的配色方案.
-- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for lsp, treesitter and a variety of plugins.
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 柔和的深色、完全可定制的 Neovim 主题，支持 lsp、treesitter 和各种插件.
 - [kvrohit/substrata.nvim](https://github.com/kvrohit/substrata.nvim) - 用 Lua 编写的冷暗配色方案，移植自 [arzg/vim-substrata](https://github.com/arzg/vim-substrata) 主题.
 - [ldelossa/vimdark](https://github.com/ldelossa/vimdark)  - 夜间的最小 Vim 主题. 松散地基于 vim-monotonic 和 chrome 的黑暗阅读器扩展. 白天也包括一个浅色主题.
 - [Everblush/everblush.nvim](https://github.com/Everblush/everblush.nvim) - 用 Lua 编写的深色、充满活力和美丽的配色方案.
 - [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim) - 基于 Lua 编写的配色方案 [Apprentice](https://github.com/romainl/Apprentice) 带有 Tree-sitter 和内置 lsp 支持的彩色图案.
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim)  - 一个 Dark Pro 主题，用 Lua 编写并基于 VS Code 主题. 包括具有完全可定制的颜色、样式和亮点的深色和浅色主题.
-- [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 结合了 Nord 和 Atom One Dark 调色板的 Neovim 主题，提供更生动的编程体验.
+- [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [RishabhRD/gruvy](https://github.com/RishabhRD/gruvy) - 没有使用 Lush 的 colorbuddy 的 Gruvbuddy.
 - [echasnovski/mini.nvim#colorschemes](https://github.com/echasnovski/mini.nvim#plugin-colorschemes)  - `mini.nvim` 插件中包含的配色方案. 他们都优先考虑在感知均匀的色彩空间中阅读文本和计算调色板的高对比度.
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - 现代 gruvbox 主题，具有完整的 treesitter 支持.
@@ -358,6 +360,7 @@ Neovim 支持多种 UI.
 - [embark-theme/vim](https://github.com/embark-theme/vim) - 深墨紫色主题利用鲜艳的色彩.
 - [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) - 新世纪福音战士，但适用于维默斯.
 - [maxmx03/FluoroMachine.nvim](https://github.com/maxmx03/FluoroMachine.nvim) - Synthwave x Fluoromachine 端口.
+- [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - 现代黑色 Neovim 主题，具有舒适的色彩对比，带来愉悦的视觉体验，支持 LSP 和 Tree-sitter.
 
 #### Lua Colorscheme
 
@@ -372,7 +375,7 @@ Neovim 支持多种 UI.
 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim)  - 配色方案助手. 用 Lua 写的！ 快速简单的配色方案.
 - [norcalli/nvim-base16.lua](https://github.com/norcalli/nvim-base16.lua) - 用于设置 base16 主题的程序化 Lua 库.
-- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in Lua, with real-time feedback.
+- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - 将 Neovim 主题定义为 Lua 中的 DSL，并提供实时反馈.
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - 一个颜色方案生成器，对开发人员来说是“精简版”逻辑.
 - [echasnovski/mini.nvim#mini.base16](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-base16.md) - `mini.nvim` 模块，为手动提供的调色板快速实现 base16 主题.
 - [ThemerCorp/themer.lua](https://github.com/themercorp/themer.lua)  - 一个简单的 neovim 荧光笔插件. 它有大量的配色方案. 它还能够为 Vim/Neovim 和其他支持的应用程序（例如 kitty 和 alacritty）创建配色方案.
@@ -387,7 +390,7 @@ Neovim 支持多种 UI.
 ### Bars and Lines
 
 - [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) - 动态显示您的颜色列.
-- [ecthelionvi/NeoColumn.nvim](https://github.com/ecthelionvi/NeoColumn.nvim) - Toggleable colorcolumn highlighting specific characters.
+- [ecthelionvi/NeoColumn.nvim](https://github.com/ecthelionvi/NeoColumn.nvim) - 可切换的颜色列突出显示特定字符​​.
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) - 在不需要时隐藏您的颜色列.
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - 像 winbar 这样的 VS 代码.
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - 类似 IDE 的面包屑，开箱即用.
@@ -419,7 +422,7 @@ Neovim 支持多种 UI.
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) - 一个用 Lua 编写的简单的 tabline.
 - [johann2357/nvim-smartbufs](https://github.com/johann2357/nvim-smartbufs) - 智能缓冲区管理.
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) - “缓冲区和选项卡”标语.
-- [noib3/cokeline.nvim](https://github.com/noib3/cokeline.nvim) - 为具有令人上瘾的个性的人提供的 Neovim 缓冲线.
+- [noib3/cokeline.nvim](https://github.com/noib3/cokeline.nvim) - A Neovim bufferline for people with addictive personalities.
 - [echasnovski/mini.nvim#mini.tabline](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-tabline.md) - `mini.nvim` 的模块，用于在一个选项卡的情况下显示列出的缓冲区的最小选项卡行，否则回退到默认值.
 - [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) - 用户友好的框架，用于在几行代码中构建您梦想中的标签.
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim)  - 一个最小的、可配置的、Neovim 风格的标题栏. 使用您的 Neovim 选项卡作为工作区多路复用器.
@@ -452,7 +455,7 @@ Neovim 支持多种 UI.
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - 用于从剪贴板粘贴图像的 Neovim Lua 插件.
 - [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) - 从剪贴板粘贴图像并插入参考代码.
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看您的图像.
+- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo-core 的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模态键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - 来自 Neovim 的远程控制 Reaper DAW.
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - SuperCollider 的 Neovim 前端.
@@ -490,7 +493,7 @@ Neovim 支持多种 UI.
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) - Acid + 即兴曲 = 爵士乐.
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) - 可搜索备忘单.
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits)  - 什锦饼干的 Neovim 端口. 最终也有更多支持的语言.
-- [Pocco81/AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) - Manage Vim abbreviations.
+- [Pocco81/AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) - 管理 Vim 缩写.
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - 根据不同条件删除多个 Vim 缓冲区.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - 将选择或缓冲区发布到在线粘贴箱.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - 一个奇特的、可配置的、通知管理器.
@@ -523,10 +526,10 @@ Neovim 支持多种 UI.
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) - 简化和改进您与宏的交互方式.
 - [echasnovski/mini.nvim#mini.animate](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - `mini.nvim` 模块为常见的内置操作（光标移动、滚动、调整大小、窗口打开/关闭）添加开箱即用的动画.
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) - 在不重启 Neovim 的情况下运行 `nix develop`.
-- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign) - 在标志栏上显示折叠.
+- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign) - Display folds on sign column.
 - [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) - Neovim API 实用程序包装器，使用 Lua 键盘映射、高亮显示、自动命令和选项更加方便.
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) - 轻松创建您自己的运算符（如 `d` 和 `y`）.
-- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - 在数字和相对数字之间平滑切换，支持多种数字组合，高度可定制.
+- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) - 在数字和相对数字之间平滑切换，支持各种数字组合，高度可定制.
 - [nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) - 通过在 x 分钟不活动后自动关闭缓冲区来提前退休.
 - [hbac.nvim](https://github.com/axkirillov/hbac.nvim) - 自动关闭您不在使用的缓冲区.
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - 简化宏观管理，提高生产力，创造和谐的工作流程.
@@ -611,7 +614,7 @@ Neovim 支持多种 UI.
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - Lua 和 Neovim 的 SQLite/LuaJIT 绑定.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - 用户界面组件库.
 - [echasnovski/mini.nvim#mini.doc](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-doc.md)  - `mini.nvim` 模块，用于从类似 EmmyLua 的注释生成帮助文件. 允许通过挂钩函数灵活定制输出.
-- [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
+- [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - vimdoc 格式的 luv 文档.
 - [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - 内置 Lua 函数的参考.
 - [echasnovski/mini.nvim#mini.test](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-test.md)  - `mini.nvim` 模块，带有用于编写广泛的 Neovim 插件测试的框架. 支持分层测试、挂钩、参数化、过滤、屏幕测试、“busted-style”仿真、可定制的记者等.
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - 保险箱需要更换为精致物品.
@@ -692,7 +695,7 @@ Neovim 支持多种 UI.
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim)  - 创建自定义子模式和菜单.  Emacs Hydra 端口.
 - [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) - 修改现有的键盘映射.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - 创建快捷方式以立即退出插入模式.
-- [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - Utility to keymappings configuration using declarative cascading trees, optionally integrates with `which-key`.
+- [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) - 使用声明性级联树的键映射配置实用程序，可选择与“which-key”集成.
 - [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) - 自动翻译非英语输入法的映射.
 
 ### Mouse
@@ -760,7 +763,7 @@ Neovim 支持多种 UI.
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - 将当前聚焦的缓冲区居中到终端的中间.
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - 一个望远镜扩展，用于可视化您的撤消树和其中的模糊搜索更改.
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - 捆绑了大约十几个自定义文本对象.
-- [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) - 很棒的文本对象插件与 nvim-surround 一起工作.
+- [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
 - [~nedia/auto-save.nvim](https://git.sr.ht/~nedia/auto-save.nvim)  - 在 `InsertLeave` 和 `TextChanged` 上极其简单的自动保存. 基于 Pocco81/AutoSave 但更轻.
 - [echasnovski/mini.nvim#mini.basics](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-basics.md) - `mini.nvim` 模块，具有可自定义的配置预设，用于常用选项、映射和自动命令.
 - [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) - 单独编辑文件的一部分.
@@ -780,12 +783,12 @@ Neovim 支持多种 UI.
 - [danymat/neogen](https://github.com/danymat/neogen)  - 更好的注释生成器. 支持多种语言和注释约定.
 - [echasnovski/mini.nvim#mini.comment](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-comment.md)  - 用于每行注释的 `mini.nvim` 模块. 完全支持点重复.
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - 使用方框和线条澄清和美化您的评论.
-- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)  - 根据光标在文件中的位置设置 commentstring 选项. 通过 treesitter 查询检查位置.
+- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)  - 根据光标在文件中的位置设置 `commentstring` 选项. 通过 treesitter 查询检查位置.
 - [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) - 总是单行，评论敏感，缩进保留评论.
 
 ### Formatting
 
-- [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - 用茴香编写的 EditorConfig 插件.
+- [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) - An EditorConfig plugin written in Fennel.
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) - 用 Lua 编写的格式运行程序.
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - 围绕 Neovims 原生 LSP 格式的包装器.
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - 用于格式化代码的 (Neo)vim 插件.
@@ -807,7 +810,7 @@ Neovim 支持多种 UI.
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) - 用 Lua 编写的愚蠢的自动快速缩进检测.
 - [Abstract-IDE/penvim](https://github.com/Abstract-IDE/penvim) - 项目的根目录和文档缩进检测器，带有基于项目的配置加载器.
 - [yaocccc/nvim-hlchunk](https://github.com/yaocccc/nvim-hlchunk) - 突出显示一个 `{}` 块.
-- [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
+- [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - `nvim-hlchunk` 的 Lua 实现，包含更多功能，例如突出显示 `{}` 块、缩进线、空格等.
 
 ### Command Line
 
@@ -817,18 +820,18 @@ Neovim 支持多种 UI.
 ### Session
 
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - 一个小型的自动化会话管理器.
-- [echasnovski/mini.nvim#mini.sessions](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md) - 用于会话管理（读取、写入、删除）的 `mini.nvim` 模块.
+- [echasnovski/mini.nvim#mini.sessions](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md) - Module of `mini.nvim` for session management (read, write, delete).
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) - 严肃的会话管理器.
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 使用 git 分支、自动保存/自动加载和 Telescope 支持的简单会话管理.
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) - 一个简单的包装器：mksession.
 - [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) - 灵活的会话管理，任意持久数据存储为 JSON.
-- [niuiic/multiple-session.nvim](https://github.com/niuiic/multiple-session.nvim) - 提供多会话管理能力.
+- [niuiic/multiple-session.nvim](https://github.com/niuiic/multiple-session.nvim) - 提供多会话管理功能.
 - [RutaTang/spectacle.nvim](https://github.com/RutaTang/spectacle.nvim) - 通过望远镜集成轻松管理多个会话.
 
 ### Remote Development
 
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 在舒适的本地环境中在远程计算机上编辑文件、运行程序和使用 LSP.
-- [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - 在 docker 容器内开发，就像 VSCode 一样.
+- [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode.
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) - Neovim devcontainer.json 和通用开发容器支持.
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) - Lua 驱动的网络资源管理器.
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) - 使用 rsync 自动将上/下项目同步到远程.
@@ -880,7 +883,7 @@ Neovim 支持多种 UI.
 
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - 摘要，Neovim 配置实现了现代 IDE 的强大功能.
 - [SpaceVim/SpaceVim](https://spacevim.org) - 社区驱动的模块化 Vim/Neovim 发行版，类似于 spacemacs，但适用于 Vim/Neovim.
-- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+- [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim 是用于 Web 开发的轻量级和自以为是的 Neovim 配置，专门设计用于提供 COSMIC 编程体验！
 - [artart222/CodeArt](https://github.com/artart222/CodeArt) - 一个完全用 Lua 编写的快速通用 IDE，带有适用于 Linux/Windows/macOS 的安装程序，并内置用于更新它的 `:CodeArtUpdate` 命令.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - 由 **lazy.nvim** 提供支持的成熟 IDE，可以轻松自定义和扩展您的配置.
 - [NTBBloodbath/doom-nvim](https://github.com/NTBBloodbath/doom-nvim) - doom-emacs 框架的端口，其目标是向 Neovim 添加有用的功能，以在稳定高效的开发环境中开始工作，而无需花费大量时间配置所有内容.

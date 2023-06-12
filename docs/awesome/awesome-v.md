@@ -136,9 +136,9 @@
 
 ### Eventing
 
-- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - 一个简单的 V 事件总线系统.
+- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
 
-### Files
+### File handling
 
 - [v-mime](https://github.com/nedpals/v-mime) - V 的 MIME 检测库.
 - [vmon](https://github.com/Larpon/vmon)  - 异步监视目录中的文件更改. 该模块本质上是 `septag/dmon` 的 V 包装器. 它适用于 Windows、macOS 和 Linux.
@@ -167,6 +167,7 @@
 
 ### Networking
 
+- [vibe](https://github.com/tobealive/vibe) - 带有易于访问层的 libcurl 绑定，用于快速可靠的请求.
 - [vmq](https://github.com/jordan-bonecutter/vmq) - V 包装对于 [ZMQ](https://zeromq.org/) （又名 ZeroMQ、ØMQ、0MQ：高性能异步消息传递库）.
 
 ### Operating system
@@ -332,7 +333,7 @@
 - [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
 - [V by Example](https://github.com/v-community/v_by_example) - V 书作为 [GitBook](https://v-community.gitbook.io/v-by-example/).
 - [V for Node Devs](https://github.com/Thigidu/vlang-for-nodejs-developers) - 节点 js 开发人员的 Vlang.
-- [V learning notes](https://github.com/lydiandy/vlang_note) - Personal learning notes in Chinese.
+- [V learning notes](https://github.com/lydiandy/vlang_note) - 中文个人学习笔记.
 - [VOSCA Blog Tutorials](https://blog.vosca.dev/categories/tutorials/) - VOSCA 博客上的教程类别.
 
 ### Videos

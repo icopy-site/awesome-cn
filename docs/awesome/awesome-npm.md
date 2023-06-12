@@ -28,8 +28,6 @@
 ### Web
 
 - [npms](https://npms.io) - 精湛的包裹搜索，使用深度分析包裹质量 [myriad of metrics](https://npms.io/about).
-	- [npm-introspect](http://npm-introspect.z3d.tech) - 基于 npms 的实用程序，用于直观地探索包依赖性的质量.
-- [node-modules](http://node-modules.com) - 基于您的 GitHub 社交图的个性化包搜索.
 - [NodeICO](https://nodei.co/) - 包裹徽章.
 - [Libraries.io](https://libraries.io/npm) - 包发现.
 - [npm-stat](http://npm-stat.com) - 包的统计图表.
@@ -37,12 +35,9 @@
 - [npm trends](http://www.npmtrends.com) - 比较一段时间内的包下载次数.
 - [npm-compare](https://npmcompare.com) - 轻松搜索和比较包.
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - 通过下载 npm 用户.
-- [npm semver calculator](http://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
+- [npm semver calculator](http://semver.npmjs.com) - 直观地探索一个 semver 范围匹配的包版本.
 - [ghub.io](https://ghub.io) - 重定向到 npm 包的 GitHub 存储库.
-- [npm addict](https://npmaddict.com) - 你每天注入 npm 包.
 - [moiva](https://moiva.io) - 发现和比较包.
-- [Openbase](https://openbase.com) - 将开源软件包与强大的指标和用户评论进行比较.
-- [Codelib.club](https://codelib.club) - 按依赖项搜索和发现开源应用程序.
 
 ### Browser extensions
 
@@ -173,7 +168,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script) 通过将它们添加到 package.json 中的“scripts”字段并使用 npm run 运行它们来使用 npm<script-name>  `. 运行“npm run”以查看可用的脚本. 本地安装包的二进制文件在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
+您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script) 通过将它们添加到 package.json 中的“脚本”字段并使用 npm run 运行它们来使用 npm<script-name>  `. 运行“npm run”以查看可用的脚本. 本地安装包的二进制文件在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable))，因此您可以按名称运行它们.
 
 ```json
 {
@@ -308,13 +303,13 @@ $ npm 开始
 $ npm 测试
 ```
 
-这将在运行测试之前检查您的文件. 如果 linting 失败，测试将不会运行. 或者更一般地说：如果按顺序运行的脚本之一以非 0 的退出代码退出，则不会执行以下脚本.
+这将在运行测试之前检查您的文件. 如果 linting 失败，测试将不会运行. 或者更通俗地说：如果按顺序运行的脚本之一以非 0 的退出代码退出，则不会执行以下脚本.
 
  *注意：`pre` 和 `post` 脚本也可以用于您的自定义 npm 脚本. 所以如果定义了 `npm run foo` 也会运行 `prefoo` 和 `postfoo`.*
 
 ### Run script with `npx`
 
-`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)  with `npx` (Since v5.2.0) — 一个执行包二进制文件的工具. 每个命令都从本地 `node_modules/.bin` 目录或中央缓存执行，安装所需的任何包以执行 `<command>  ` 运行.
+`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)  with `npx` (Since v5.2.0) — 一个执行包二进制文件的工具. 每个命令都从本地 `node_modules/.bin` 目录或中央缓存执行，安装所需的任何包以`<command>  ` 运行.
 
 ```json
 {
@@ -356,7 +351,7 @@ v6.11.0
 ```
 $ CD 彩虹
 $ npm 链接
-$ cd ../独角兽
+$ cd ../unicorn
 $ npm 链接彩虹
 ```
 
@@ -364,7 +359,7 @@ $ npm 链接彩虹
 
 ### Install a package from GitHub
 
-npm 支持使用简写形式直接从 GitHub 存储库安装包：
+npm 支持使用简写直接从 GitHub 存储库安装包：
 
 ```
 $ npm 安装 sindresorhus/粉笔
