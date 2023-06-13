@@ -60,11 +60,11 @@
 ### Online Books
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks 上有一本编程书籍.
 - [ada-distilled](https://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) - 为 Ada 2005 蒸馏的 Ada.
-- [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.
+- [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95：面向对象编程的技巧.
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - 适用于 C++ 或 Java 开发人员的 Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - 采用 SPARK 的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  - 安全可靠的软件.  Ada 2012 的邀请.
-- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初级概念到高级概念的书，包括源文件.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - 一本从 Ada 95 的初学者到高级概念的书，包含源文件.
 
 ### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810091/81341/cover/9781009181341.jpg">[Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.)](https://www.cambridge.org/core/books/programming-in-ada-2012-with-a-preview-of-ada-2022/AD30275F35CCECB97EAB80ABC32B019C#) - 综合的.  
@@ -96,7 +96,7 @@
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) - Gitter 有一个频道.
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet 新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Stack Overflow 的 Ada.
-- [subreddit-ada](https://www.reddit.com/r/ada/) - Reddit 上的 Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) -Reddit 上的 Ada.
 - [subreddit-spark](https://www.reddit.com/r/spark/) - 火花在 Reddit.
 - [telegram-ada](https://t.me/ada_lang) - Telegram 上有一个群组.
 - [libera-chat-ada](https://libera.chat/) - IRC 的 Ada 频道.
@@ -104,7 +104,7 @@
 
 ### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - 深入了解 AdaCore 生态系统.
-- [ada-europe](http://www.ada-europe.org/) - Ada-Europe 是一个国际组织，旨在促进 Ada 的使用.
+- [ada-europe](https://www.ada-europe.org/) - Ada-Europe 是一个国际组织，旨在促进 Ada 的使用.
 - [acm-sig-ada](https://www.sigada.org/) - Ada 特别兴趣小组.
 - [ada-resource-association](https://www.adaic.org/community/) - 自 1990 年以来，Ada 资源协会的主要使命一直是“确保 Ada 用户的持续成功并促进 Ada 在软件行业中的使用”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - Ada 编程语言的新闻和资源.
@@ -114,7 +114,7 @@
 
 ### Competition
 <div align="center">
-	<a href="https://www.makewithada.org/">
+	<a href="http://www.makewithada.org/">
 		<img width="800px" src="https://hackster.imgix.net/uploads/attachments/1164282/_UAa0j7WX8u.blob?auto=compress%2Cformat&w=800&h=200&fit=min"/>
 	</a>
 </div>
@@ -267,7 +267,7 @@
 
 ### Terminal User Interface
 
-- [curses](https://github.com/annexi-strayline/Curses) - 高级 UNIX 终端用户界面 Ada 绑定包.
+- [curses](https://github.com/annexi-strayline/Curses) - Advanced UNIX Terminal UI Ada Binding Package.
 - [ncurses-ada95](https://invisible-island.net/ncurses/ncurses-Ada95.html) - ncurses 的 Ada95 绑定.
 - [linenoise-ada](https://git.sr.ht/~nytpu/linenoise-ada) - 绑定到 Linenoise 行编辑库（修补以支持 UTF-8）.
 
@@ -439,7 +439,7 @@
 - [json-ada](https://github.com/onox/json-ada) - 用于解析 JSON 的 Ada 2012 库.
 - [jwx](https://github.com/Componolit/jwx) - SPARK 中经过正式验证的 JSON 库.
 - [xmlada](https://github.com/AdaCore/xmlada) - XML/Ada 工具包.
-- [xml-ez](http://www.mckae.com/xmlEz.html) - 用于从 Ada 程序发出 XML 的库.
+- [xml-ez-out](https://github.com/alire-project/xmlezout) - 用于从 Ada 程序发出 XML 的库.
 - [spark-xml](https://github.com/Componolit/SXML) - SPARK 中经过正式验证的 XML 库.
 - [excel-writer](https://github.com/zertovitch/excel-writer) - 创建具有基本格式的 Excel 文件.
 - [generic-image-decoder](https://github.com/zertovitch/gid) - Ada 的多格式图像解码器库.
@@ -619,7 +619,7 @@
 - [pascal-to-ada](https://github.com/zertovitch/pascal-to-ada) - Pascal 到 Ada 翻译器.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) - Tiled 地图编辑器的代码生成器.
 - [j2ada](https://github.com/Blady-Com/j2ada) - Ada 源代码中 Java 有效源代码的翻译器.
-- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  - SofCheck AdaMagic 是经过 ACATS 验证和认证的针对 C 和/或 C++ 的 Ada 编译器（4 个用于微调的命令行开关）.  ObjectAda 和其他几个商业编译器与 AdaMagic 共享引擎.  MapuSoft 将 AdaMagic 作为 AppCOE 的组成部分进行分发.
+- [ada-magic](https://www.mapusoft.com/ada-to-c-changer/)  - SofCheck AdaMagic 是 ACATS 验证和认证的针对 C 和/或 C++ 的 Ada 编译器（4 个命令行开关用于微调）.  ObjectAda 和其他几个商业编译器与 AdaMagic 共享引擎.  MapuSoft 将 AdaMagic 作为 AppCOE 的组成部分进行分发.
 - [cappulada](https://github.com/Componolit/Cappulada) - C++ 的 Ada 绑定生成器.
 - [asis2xml](https://github.com/simonjwright/asis2xml) - 将 Ada 源的 ASIS 表示形式转换为 XML，以便更容易地使用（例如）XSLT 开发报告和转换工具.
 

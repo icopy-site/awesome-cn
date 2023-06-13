@@ -468,7 +468,7 @@ Rust 代码和资源的精选列表.
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — 一个示例项目，显示 CMake 与 Rust 的用法
 * [Fleet](https://github.com/dimensionhq/fleet) [[fleet-rs](https://crates.io/crates/fleet-rs)] - Rust 的快速构建工具.
 * Github actions
-  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 动作
+  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 行动
   * [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook 的 GitHub 操作
 * [Nix](https://nixos.org/)
   * [nix-community/fenix](https://github.com/nix-community/fenix) — 用于 nix 的 Rust 工具链和 Rust 分析器 [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
@@ -531,7 +531,7 @@ Rust 代码和资源的精选列表.
   * [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) — Rust 的 Lua 5.3 绑定
   * [lilyball/rust-lua](https://github.com/lilyball/rust-lua) — Lua 5.1 的安全 Rust 绑定
   * [tickbh/td_rlua](https://github.com/tickbh/td_rlua) [[td_rlua](https://crates.io/crates/td_rlua)] — 用于 Rust 的零成本高级 lua 5.3 包装器
-  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 接口的 Rust 库
+  * [tomaka/hlua](https://github.com/tomaka/hlua) — 与 Lua 交互的 Rust 库
 * 姆鲁比
   * [anima-engine/mrusty](https://github.com/anima-engine/mrusty) — Rust 的 mruby 安全绑定
 * 节点.js
@@ -710,7 +710,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [mio](https://github.com/tokio-rs/mio) — MIO 是 Rust 的轻量级 IO 库，专注于在 OS 抽象上添加尽可能少的开销
 * [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) — Rust 中的零成本期货
 * [TeaEntityLab/fpRust](https://github.com/TeaEntityLab/fpRust) — Monad/MonadIO、Handler、Coroutine/doNotation、Rust 的函数式编程特性
-* [Xudong-Huang/may](https://github.com/Xudong-Huang/may) — rust stackful 协程库
+* [Xudong-Huang/may](https://github.com/Xudong-Huang/may) — rust stackful协程库
 * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) — 带有工作窃取调度程序的协程 I/O 库
 
 ### Audio and Music
@@ -718,7 +718,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 [[audio](https://crates.io/keywords/audio)]
 
 * [hound](https://crates.io/crates/hound) — 一个 WAV 编码和解码库
-* [insomnimus/nodi](https://github.com/insomnimus/nodi) [[nodi](https://crates.io/crates/nodi)] — 用于播放和抽象 MIDI 文件的库. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
+* [insomnimus/nodi](https://github.com/insomnimus/nodi) [[nodi](https://crates.io/crates/nodi)] — 用于播放和提取 MIDI 文件的库. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 * [jhasse/ears](https://github.com/jhasse/ears) — 在 OpenAL 和 libsndfile 之上播放声音和音乐的简单库
 * [musitdev/portmidi-rs](https://github.com/musitdev/portmidi-rs) — [PortMidi](https://portmedia.sourceforge.net/portmidi/) 绑定
 * [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) — 一个 Rust 音乐理论库
@@ -735,7 +735,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) 生锈的库
 * [oauth2](https://github.com/ramosbugs/oauth2-rs) — 可扩展的强类型 Rust OAuth2 客户端库
 * [oxide-auth](https://github.com/HeroicKatora/oxide-auth) — OAuth2 服务器库，与 actix 或其他前端结合使用，具有一组可配置和可插入的后端 [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流的异步库
+* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流程的异步库
 * [yup-oauth2](https://github.com/dermesser/yup-oauth2) — 提供设备、安装和服务帐户流的 oauth2 客户端实现
 
 ### Automotive
@@ -766,7 +766,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 新的 AWS SDK for Rust
   * [rusoto/rusoto](https://github.com/rusoto/rusoto) —
 * 负载均衡器
-  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载均衡器.
+  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载平衡器.
 * 多云
   * [Qovery/engine](https://github.com/Qovery/engine) - 抽象层库，只需几分钟即可在云提供商上轻松部署应用程序
 
@@ -874,7 +874,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – 支持 Rust 中的并行性和低级并发
 * [orium/archery](https://github.com/orium/archery) [[archery](https://crates.io/crates/archery)] — 从 `Rc`/`Arc` 指针类型中抽象出来的库. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
 * [Rayon](https://github.com/rayon-rs/rayon) – A data parallelism library for Rust
-* [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) – Rust 中的协程库
+* [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) – Rust 协程库
 * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) – Rust 的协程 I/O
 
 ### Configuration
@@ -1380,7 +1380,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [mozilla/neqo](https://github.com/mozilla/neqo) — 用 Rust 编写的 QUIC 实现
   * [quinn-rs/quinn](https://github.com/quinn-rs/quinn) — Rust 中基于 Futures 的 QUIC 实现 [![build badge](https://dev.azure.com/dochtman/Projects/_apis/build/status/Quinn?branchName=master)](https://dev.azure.com/dochtman/Projects/_build)
 * 智能网
-  * [b23r0/rust-raknet](https://github.com/b23r0/rust-raknet) — Rust 实现的 RakNet 协议 [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+  * [b23r0/rust-raknet](https://github.com/b23r0/rust-raknet) — Rust 的 RakNet 协议实现 [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 * 远程过程调用
   * [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc) [[remoc](https://crates.io/crates/remoc)] - Remoc 提供类似于 Tokio 的频道（广播、mpsc、oneshot、观看），并通过任何远程传输进行特征调用. [![build badge](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/ENQT-GmbH/remoc/actions/workflows/rust.yml)
   * [smallnest/rpcx-rs](https://github.com/smallnest/rpcx-rs) — 用于 Rust 的 RPC 库，用于以简单易行的方式开发微服务.
@@ -1617,6 +1617,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
   * [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — 提出者 [Michael Gattozzi](https://github.com/mgattozzi) @RustConf 2017
 * [Discover Rust Libraries & Code Snippets](https://kandi.openweaver.com/explore/rust) - 关于 kandi 的 Rust 库、作者、工具包、教程和学习资源的精选列表
 * 学习
+  * [Aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Rust 在编译时和运行时的交互式可视化
   * [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming) - 关于 Rust 的社区精选直播列表.
   * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) — 乐于助人的 Rust 导师名单，他们愿意接受学员并向他们传授 Rust 和编程知识.
   * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)

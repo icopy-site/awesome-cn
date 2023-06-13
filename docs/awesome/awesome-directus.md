@@ -85,6 +85,7 @@
 如果您在开源项目中使用 Directus，非常欢迎您在此处链接该项目.
 
 - [Official Examples](https://github.com/directus/examples) - 与 Direct 的集成示例.
+- [Nuxt 3 Demo](https://github.com/bryantgillespie/nuxt3-directus-starter) - 带有 Tailwind CSS 的自以为是的 Nuxt 3 / Directus Starter.
 
 ## Contributing
 

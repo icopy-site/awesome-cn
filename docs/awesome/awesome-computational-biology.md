@@ -10,9 +10,10 @@
 
 
 ## Databases
-### RNA Sequence
+### scRNA
 - [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) - 公共功能基因组学数据库.
 - [Single Cell PORTAL](https://singlecell.broadinstitute.org/single_cell) - 单细胞 RNA 公共数据库.
+- [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home) - 单细胞 RNA 公共数据库.
 ### Compound
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - 最大的化学数据库之一，例如化合物、基因和蛋白质.
 - [ChEBI](https://www.ebi.ac.uk/chebi/) - 专注于小化合物的化学数据库.
@@ -21,7 +22,7 @@
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) - 收集小分子和生物聚合物.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) - 脂质数据库.
 ### Pathway
-- [PathwayCommon](https://www.pathwaycommons.org/) - 途径和相互作用的数据库.
+- [PathwayCommons](https://www.pathwaycommons.org/) - 途径和相互作用的数据库.
 - [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - 绘制路径图的集合.
 - [WikiPathways](https://wikipathways.org/) - 生物途径数据库.
 ### Mass Spectra
@@ -38,6 +39,7 @@
 - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) 一个专注于 60 种癌细胞系和多种药物的数据库.
 - [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - 药物敏感性数据库，包含 1000 种人类癌细胞系和 100 多种化合物.
 - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/)  - 癌细胞系数据库. 这有 1000 个细胞系.
+- [cBioPortal](https://www.cbioportal.org/)  - 癌症基因组学数据库. 这对很多患者都有整体的元观点.
 ### Disease
 - [KEGG DRUG](https://www.genome.jp/kegg/drug/) - 已批准药物的综合药物信息资源.
 - [DrugBank](https://www.drugbank.com/) - 由阿尔伯塔大学维护的药物和目标数据库.
@@ -46,6 +48,8 @@
   - [DGIdb](https://www.dgidb.org/) - 药物基因相互作用和药物基因组的数据库.
   - [Comparative Toxicogenomics Database](http://ctdbase.org/) - 化学-基因相互作用、化学-疾病关联、基因-疾病关联和化学-表型关联的数据库.
   - [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - 包含药物基因相互作用的数据集. 
+  - [Comparative Toxicogenomics Database](https://ctdbase.org/) - 药物-靶标相互作用的数据库.
+  - [Therapeutics Data Commons](https://tdcommons.ai/) - 用于许多任务的数据库，例如药物靶点、药物反应、药物-药物相互作用.
 - 化学蛋白质相互作用
   - [STITCH](http://stitch.embl.de/) - 化学蛋白质相互作用的数据库.
 
@@ -53,6 +57,8 @@
 
 - [Chemistry Development Kit](https://github.com/cdk/cdk) - 化学信息学和机器学习软件.
 - [RDKit](https://github.com/rdkit/rdkit) - 化学信息学和机器学习软件.
+- [Scanpy](https://scanpy.readthedocs.io/en/stable/) - Python 中的 scRNA 分析库.
+- [Seurat](https://satijalab.org/seurat/) - R 中的 scRNA 分析库.
 
 ## Machine Learning Tasks and Models
 
@@ -67,5 +73,5 @@
 
 ### Compound Protein Interaction
 
-- [MCPINN](https://github.com/mhlee0903/multi_channels_PINN) - 使用化合物蛋白质相互作用和机器学习进行药物发现的库.
+- [MCPINN](https://github.com/mhlee0903/multi_channels_PINN) - 使用复合蛋白质相互作用和机器学习进行药物发现的库.
 - [TransformerCPI](https://github.com/lifanchen-simm/transformerCPI) - 使用 Transformer 进行复合蛋白质相互作用预测的库. 
