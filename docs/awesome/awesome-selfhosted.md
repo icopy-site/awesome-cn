@@ -41,6 +41,7 @@ _Related: [Database Management](#database-management), [Personal Dashboards](#pe
 - [Offen](https://www.offen.dev/)  - 公平、轻量级和开放的网络分析工具. 在您的用户可以完全访问其数据的同时获得洞察力.  ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
 - [Open Web Analytics](http://www.openwebanalytics.com/)  - Web 分析框架，让您可以控制如何检测和分析您的网站和应用程序的使用情况.  ([Source Code](https://github.com/padams/Open-Web-Analytics))`GPL-2.0``PHP`
 - [Plausible Analytics](https://plausible.io/)  - 简单、开源、轻量级 (&lt; 1 KB) 且保护隐私的 Web 分析.  ([Source Code](https://github.com/plausible/analytics/)）`麻省理工学院``长生不老药`
+- [PoeticMetric](https://www.poeticmetric.com)  - 自由、开源、隐私优先和符合法规的网络分析工具.  ([Demo](https://www.poeticmetric.com/s?d=www.poeticmetric.com), [Source Code](https://github.com/th0th/poeticmetric))`AGPL-3.0``Docker`
 - [PostHog](https://posthog.com)  - 您可以自行托管的产品分析、会话记录、功能标记和 a/b 测试.  Mixpanel/Amplitude/Heap/HotJar/Optimizely 的替代方案.  ([Source Code](https://github.com/posthog/posthog)) `WITH` `Python`
 - [Redash](http://redash.io)  - 连接和查询您的数据源，构建仪表板以可视化数据并与您的公司共享.  ([Source Code](https://github.com/getredash/redash)) `BSD-2-Clause` `Docker`
 - [RudderStack](https://rudderstack.com/)  - 收集、统一、转换和存储您的客户数据，并将其路由到各种常见的、流行的营销、销售和产品工具. 替代段.  ([Source Code](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Docker/K8S/Go/Nodejs`
@@ -88,9 +89,9 @@ _Related: [Internet of Things (IoT)](#internet-of-things-iot)_
 - [betanin](https://github.com/sentriz/betanin)  - 音乐组织中间人在您的 Torrent 客户端和音乐播放器中. 基于 beets.io，类似于 Sonarr 和 Radarr.  `GPL-3.0` `Python`
 - [ChiefOnboarding](https://chiefonboarding.com)  - 员工入职平台，允许您配置用户帐户并创建包含待办事项、资源、文本/电子邮件/Slack 消息等的序列！ 可用作 Web 门户和 Slack 机器人.  ([Source Code](https://github.com/chiefonboarding/ChiefOnboarding))`AGPL-3.0``Python`
 - [Eonza](https://www.eonza.org)  - Eonza 用于在服务器或 VPS 托管上创建脚本和自动化任务. 从任何设备上的任何浏览器管理您的服务器.  ([Demo](https://playground.eonza.org/), [Source Code](https://github.com/gentee/eonza)）`麻省理工学院``去`
-- [Exadel CompreFace](https://exadel.com/solutions/compreface/)  - 人脸识别系统，提供人脸识别、人脸检测等人脸服务的REST API，使用docker轻松部署. 有适用于 Python 和 JavaScript 语言的 SDK. 可以在没有机器学习技能的情况下使用.  ([Source Code](https://github.com/exadel-inc/CompreFace))`Apache-2.0``Docker/Java/Nodejs`
+- [Exadel CompreFace](https://exadel.com/solutions/compreface/) - Face recognition system that provides REST API for face recognition, face detection, and other face services, and is easily deployed with docker. There are SDKs for Python and JavaScript languages. Can be used without prior machine learning skills. ([Source Code](https://github.com/exadel-inc/CompreFace))`Apache-2.0``Docker/Java/Nodejs`
 - [feed2toot](https://feed2toot.readthedocs.io/en/latest/)  - Feed2toot 解析 RSS 提要，提取最后的条目并将它们发送到 Mastodon.  ([Source Code](https://gitlab.com/chaica/feed2toot))`GPL-3.0``Python`
-- [feedmixer](https://github.com/cristoper/feedmixer)  - FeedMixer 是一个 WSGI (Python3) 微型 Web 服务，它获取提要 URL 列表并返回一个新提要，其中包含每个给定提要的最新 n 个条目（返回 Atom、RSS 或 JSON）.  ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1))`WTFPL``Python`
+- [feedmixer](https://github.com/cristoper/feedmixer)  - FeedMixer 是一个 WSGI (Python3) 微型 Web 服务，它获取提要 URL 列表并返回一个新提要，该提要由每个给定提要中的最新 n 个条目组成（返回 Atom、RSS 或 JSON）.  ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest&f=https://americancynic.net/atom.xml&n=1))`WTFPL``Python`
 - [Headphones](https://github.com/rembo10/headphones)  - 用于 NZB 和 Torrent 的自动音乐下载器，用 Python 编写. 它支持 SABnzbd、NZBget、Transmission、µTorrent、Deluge 和 Blackhole.  `GPL-3.0` `Python`
 - [Healthchecks](https://healthchecks.io/)  - 侦听 ping 并在 ping 延迟时发送警报的 Django 应用程序.  ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD-3-Clause` `Python`
 - [homebank-converter](https://github.com/Binnette/homebank-converter)  - 将导出银行文件转换为兼容的 Homebank csv 的 Web 应用程序.  ([Demo](https://binnette.github.io/homebank-converter/))`AGPL-3.0``HTML5`
@@ -417,7 +418,7 @@ _也可以看看： [Comparison of CalDAV and CardDAV implementations - Wikipedi
 - [Kamailio](https://www.kamailio.org/w/)  - 模块化 SIP 服务器（注册商/代理/路由器/等）.  ([Source Code](https://github.com/kamailio/kamailio))`GPL-2.0``C`
 - [Kazoo](https://2600hz.org/)  - KAZOO 是一个开源、高度可扩展的软件平台，旨在提供运营商级 VoIP 交换机功能和特性.  ([Source Code](https://github.com/2600hz/KAZOO))`MPL-1.1``Erlang`
 - [openSIPS](https://opensips.org/)  - OpenSIPS 是用于语音、视频、IM、状态和任何其他 SIP 扩展的开源 SIP 代理/服务器.  ([Source Code](https://github.com/OpenSIPS/opensips))`GPL-2.0``C`
-- [Routr](https://routr.io)  - 轻量级 sip 代理、位置服务器和注册器，用于可靠和可扩展的 SIP 基础设施.  ([Source Code](https://github.com/fonoster/routr)) `WITH` `Docker`
+- [Routr](https://routr.io)  - 一个轻量级的 sip 代理、位置服务器和注册器，用于可靠和可扩展的 SIP 基础设施.  ([Source Code](https://github.com/fonoster/routr)) `WITH` `Docker`
 - [SIP3](https://sip3.io/)  - VoIP 故障排除和监控平台.  ([Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)) `Apache-2.0` `Kotlin`
 - [SIPCAPTURE Homer](https://www.sipcapture.org/)  - 故障排除和监控 VoIP 呼叫.  ([Source Code](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`
 - [Wazo](https://wazo-platform.org/)  - 基于 Asterisk 构建的全功能 IPBX 解决方案，具有集成的 Web 管理界面和 REST-ful API.  ([Source Code](https://github.com/wazo-platform))`GPL-3.0``Python`
@@ -499,7 +500,7 @@ _Related: [Conference Management](#conference-management)_
 - [Galene](https://galene.org/)  - Galène（或 Galene）是一种易于部署且需要适度服务器资源的视频会议服务器（“SFU”）.  ([Source Code](https://github.com/jech/galene)）`麻省理工学院``去`
 - [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet)  - Jitsi Meet 是一个开源 (MIT) WebRTC Javascript 应用程序，它使用 Jitsi Videobridge 提供高质量、可扩展的视频会议.  ([Source Code](https://github.com/jitsi/jitsi-meet)) `Apache-2.0` `Nodejs/Docker`
 - [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge)  - 允许多用户视频通信的 WebRTC 兼容选择性转发单元 (SFU).  ([Source Code](https://github.com/jitsi/jitsi-videobridge))`Apache-2.0``Java`
-- [LiveKit](https://livekit.io/)  - 带有客户端 SDK 的现代、可扩展的 WebRTC 会议平台.  ([Demo](https://livekit.io/playground), [Source Code](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
+- [LiveKit](https://livekit.io/)  - 带有客户端 SDK 的现代、可扩展的 WebRTC 会议平台.  ([Demo](https://github.com/livekit/livekit#live-demos), [Source Code](https://github.com/livekit/livekit-server)) `Apache-2.0` `Go`
 - [MiroTalk C2C](https://c2c.mirotalk.com)  - 实时 cam-2-cam 视频通话和屏幕共享，端到端加密，可通过简单的 iframe 嵌入任何网站.  ([Source Code](https://github.com/miroslavpejic85/mirotalkc2c)) `WITH` `Nodejs/Docker`
 - [MiroTalk P2P](https://p2p.mirotalk.com)  - 简单、安全、快速的实时视频会议，最高可达 4k 和 60fps，兼容所有浏览器和平台.  ([Demo](https://p2p.mirotalk.com/newcall), [Source Code](https://github.com/miroslavpejic85/mirotalk))`AGPL-3.0``Nodejs/Docker`
 - [MiroTalk SFU](https://sfu.mirotalk.com)  - 简单、安全、可扩展的高达 4k 的实时视频会议，兼容所有浏览器和平台.  ([Demo](https://sfu.mirotalk.com/newroom), [Source Code](https://github.com/miroslavpejic85/mirotalksfu))`AGPL-3.0``Nodejs/Docker`
@@ -529,7 +530,7 @@ _Related: [Conference Management](#conference-management)_
 
 [Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) Web 客户端/界面.
 
-- [Converse.js](https://conversejs.org/)  - 浏览器中的免费开源 XMPP 聊天客户端.  ([Source Code](https://github.com/conversejs/converse.js)) `MPL-2.0` `Javascript`
+- [Converse.js](https://conversejs.org/)  - 浏览器中的免费开源 XMPP 聊天客户端.  ([Source Code](https://github.com/conversejs/converse.js))`MPL-2.0``Javascript`
 - [JSXC](https://jsxc.org)  - 具有视频通话、文件传输和加密通信功能的实时 XMPP 网络聊天应用程序. 还有 Nextcloud/Owncloud 和 SOGo 的版本.  ([Source Code](https://github.com/jsxc/jsxc)) `WITH` `Javascript`
 - [Libervia](https://repos.goffi.org/libervia-web)  - 来自 Salut à toi 的 Web 前端.  `AGPL-3.0` `Python`
 - [Salut à Toi](https://www.salut-a-toi.org/)  - 多用途、多前端、自由和分散的通信工具.  ([Source Code](https://repos.goffi.org/libervia-backend))`AGPL-3.0``Python`
@@ -953,7 +954,7 @@ _Related: [Groupware](#groupware)_
 - [ARRCON](https://github.com/radj307/ARRCON)  - 基于终端的 RCON 客户端与使用 Source RCON 协议的任何游戏服务器兼容.  `GPL-3.0` `C++`
 - [EasyWI](https://easy-wi.com)  - Easy-Wi 是一个 Web 界面，可让您管理游戏服务器等服务器守护进程. 此外，它还为您提供了一个 CMS，其中包括全自动游戏和语音服务器借贷服务.  ([Source Code](https://github.com/easy-wi/developer/))`GPL-3.0``PHP/Bash`
 - [Lancache](https://lancache.net)  `⚠` - 局域网派对游戏缓存变得容易.  ([Source Code](https://github.com/lancachenet/monolithic)) `WITH` `Docker/Shell`
-- [LinuxGSM](https://linuxgsm.com/)  - 用于在 Linux 上部署和管理专用游戏服务器的 CLI 工具：支持超过 120 种游戏.  ([Source Code](https://github.com/GameServerManagers/LinuxGSM)) `WITH` `Shell`
+- [LinuxGSM](https://linuxgsm.com/)  - 用于在 Linux 上部署和管理专用游戏服务器的 CLI 工具：支持超过 120 款游戏.  ([Source Code](https://github.com/GameServerManagers/LinuxGSM)) `WITH` `Shell`
 - [Pterodactyl](https://pterodactyl.io/)  - 游戏服务器管理面板，为最终用户提供直观的用户界面.  ([Source Code](https://github.com/pterodactyl/panel)) `WITH` `PHP`
 - [PufferPanel](https://www.pufferpanel.com/) - PufferPanel is an open source game server management panel, designed for both small networks and game server providers. ([Source Code](https://github.com/pufferpanel/pufferpanel)) `Apache-2.0` `Go`
 - [RconCli](https://github.com/gorcon/rcon-cli)  - 使用 RCON 协议在远程 Valve Source 专用服务器上执行查询的 CLI.  `麻省理工学院``去`
@@ -1257,7 +1258,7 @@ _也可以看看： [List of streaming media systems - Wikipedia](https://en.wik
 - [Speed Test by OpenSpeedTest™](https://openspeedtest.com/)  - 免费和开源 HTML5 网络性能评估工具.  ([Source Code](https://github.com/openspeedtest/Speed-Test)) `WITH` `Docker`
 - [OpenZiti](https://openziti.github.io/)  - 功能齐全、可自托管、零信任、全网状覆盖网络. 包括开箱即用的 2FA 支持，适用于所有主要桌面/移动操作系统的客户端.  ([Source Code](https://github.com/openziti/ziti)) `Apache-2.0` `Go`
 - [OS.js](https://www.os-js.org/)  - 浏览器的桌面实现，具有成熟的窗口管理器、应用程序 API、GUI 工具包和文件系统抽象.  ([Demo](https://demo.os-js.org/), [Source Code](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
-- [OTS-Share](https://github.com/rpgeeganage/ots-share-app)  - 一个用于共享秘密的自托管应用程序，文件支持最大 1MB.  ([Source Code](https://github.com/rpgeeganage/ots-share-app)) `WITH` `Docker`
+- [OTS-Share](https://github.com/rpgeeganage/ots-share-app) - A self-hosting app to share secrets with file support upto 1MB. ([Source Code](https://github.com/rpgeeganage/ots-share-app)) `WITH` `Docker`
 - [Overseerr](https://overseerr.dev/)  `⚠` - Overseerr 是一个免费的开源软件应用程序，用于管理对您的媒体库的请求. 它与您现有的服务集成，例如 Sonarr、Radarr 和 Plex!.  ([Source Code](https://github.com/sct/overseerr)) `WITH` `Docker`
 - [PassCheck](https://passcheck.anhur.xyz/)  - 一个网络应用程序，具有一些方便的密码工具，包括密码生成器、强度检查器和 HaveIBeenPwned 泄露检查器.  ([Source Code](https://github.com/apacketofsweets/PassCheck)) `WITH` `Javascript`
 - [penpot](https://penpot.app/)  - 一个基于网络的设计和原型制作平台，适用于跨领域团队.  ([Source Code](https://github.com/penpot/penpot))`MPL-2.0``Docker`
@@ -1331,7 +1332,7 @@ _Related: [Inventory Management](#inventory-management), [Resource Planning - En
 
 **[`^        back to top        ^`](#awesome-selfhosted)**
 
-[Note taking](https://en.wikipedia.org/wiki/Note-taking) editors.
+[Note taking](https://en.wikipedia.org/wiki/Note-taking) 编辑.
 
 _Related: [Wikis](#wikis)_
 
@@ -1341,7 +1342,7 @@ _Related: [Wikis](#wikis)_
 - [Dnote](https://www.getdnote.com)  - 具有多设备同步和 Web 界面的简单命令行笔记本.  ([Source Code](https://github.com/dnote/dnote))`AGPL-3.0``去`
 - [DocPHT](https://docpht.org/)  - 使用 DocPHT，您可以做笔记并快速记录任何内容，而无需使用任何数据库.  ([Demo](https://demo.docpht.org/), [Source Code](https://github.com/docpht/docpht)) `WITH` `PHP`
 - [draw.io](https://draw.io)  - 用于制作流程图、流程图、组织结构图、UML、ER 和网络图的图表软件.  ([Source Code](https://github.com/jgraph/drawio))`Apache-2.0``Javascript`
-- [flatnotes](https://github.com/dullage/flatnotes)  - 一个自托管的、无数据库的笔记网络应用程序，它使用 markdown 文件的平面文件夹进行存储.  ([Demo](https://demo.flatnotes.io)) `WITH` `Docker`
+- [flatnotes](https://github.com/dullage/flatnotes)  - 一个自托管的、无数据库的笔记网络应用程序，它使用降价文件的平面文件夹进行存储.  ([Demo](https://demo.flatnotes.io)) `WITH` `Docker`
 - [HedgeDoc](https://demo.hedgedoc.org/)  - 所有平台上的实时协作降价笔记，以前称为 CodiMD 和 HackMD CE.  ([Source Code](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `Docker/Nodejs`
 - [Joplin](https://joplinapp.org/)  - Joplin 是一款带有 Markdown 编辑器和移动和桌面平台加密支持的笔记应用程序. 通过自托管的 Nextcloud 或类似工具运行客户端并同步. 将其视为 Evernote 的开源替代品.  ([Source Code](https://github.com/laurent22/joplin))`麻省理工学院``Nodejs`
 - [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/)  - 用于从 ZIM 文件提供维基服务的 HTTP 守护程序.  ([Source Code](https://github.com/kiwix/kiwix-tools))`GPL-3.0``C++`
@@ -1370,7 +1371,7 @@ _Related: [Wikis](#wikis)_
 
 An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) 是生产力软件的集合，通常至少包含文字处理器、电子表格和演示程序.
 
-- [Collabora Online Development Edition](https://www.collaboraoffice.com/code)  - Collabora Online Development Edition (CODE) 是一个强大的基于 LibreOffice 的在线办公室，支持所有主要的文档、电子表格和演示文稿文件格式，您可以将它们集成到您自己的基础架构中.  ([Source Code](https://cgit.freedesktop.org/libreoffice/online/))`MPL-2.0``C++`
+- [Collabora Online Development Edition](https://www.collaboraoffice.com/code)  - Collabora Online Development Edition (CODE) 是一款基于 LibreOffice 的强大在线办公软件，支持所有主要的文档、电子表格和演示文稿文件格式，您可以将其集成到自己的基础架构中.  ([Source Code](https://cgit.freedesktop.org/libreoffice/online/))`MPL-2.0``C++`
 - [CryptPad](https://cryptpad.org)  - CryptPad 是一个端到端加密和开源的协作套件. 它旨在实现协作，实时同步对文档的更改.  ([Source Code](https://github.com/cryptpad/cryptpad))`AGPL-3.0``Nodejs`
 - [EtherCalc](https://ethercalc.net/)  - 网络电子表格.  ([Source Code](https://github.com/audreyt/ethercalc))`CPAL-1.0/Artistic-2.0``Nodejs`
 - [Etherpad](https://etherpad.org/)  - Etherpad 是一个高度可定制的开源在线编辑器，提供真正实时的协作编辑.  ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad-lite))`Apache-2.0``Nodejs`
@@ -1527,6 +1528,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [Framadate](https://framadate.org/abc/)  - 用于计划约会或快速轻松地做出决定的在线服务：进行投票，定义要选择的日期或主题，将投票链接发送给您的朋友或同事，讨论并做出决定.  ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://framagit.org/framasoft/framadate?))`CECILL-B``PHP`
 - [Gancio](https://gancio.org/)  - 当地社区的共同议程.  ([Source Code](https://framagit.org/les/gancio))`AGPL-3.0``Nodejs`
 - [hitobito](https://hitobito.com/en)  - 一个 Web 应用程序，用于管理具有成员、事件等的复杂组层次结构.  ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code](https://github.com/hitobito/hitobito))`AGPL-3.0``红宝石`
+- [Input](https://getinput.co)  - 一个注重隐私、无代码、开源的表单生成器，旨在实现简单性和品牌一致性.  ([Source Code](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 - [LimeSurvey](https://www.limesurvey.org)  - 功能丰富的开源网络投票软件. 支持广泛的调查逻辑.  ([Demo](https://demo.limesurvey.org), [Source Code](https://github.com/LimeSurvey/LimeSurvey))`GPL-2.0``PHP`
 - [Meetable](https://events.indieweb.org)  - 一个最小的事件聚合器.  ([Source Code](https://github.com/aaronpk/Meetable)) `WITH` `PHP`
 - [Mobilizon](https://mobilizon.org)  - 一个联合工具，可帮助您查找、创建和组织事件和组.  ([Demo](https://demo.mobilizon.org/), [Source Code](https://framagit.org/framasoft/mobilizon/))`GPL-3.0``长生不老药`

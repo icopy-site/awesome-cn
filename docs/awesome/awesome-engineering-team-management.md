@@ -15,7 +15,7 @@
   </a>
 </p>
 
-______________________________________________________________________
+---
 
 <p align="center">
   <br>
@@ -65,7 +65,7 @@ ______________________________________________________________________
 
  - “计算机永远不会被追究责任. 因此，计算机绝不能做出管理决策.”  - 一个 [IBM slide from 1979](https://twitter.com/mit_csail/status/1604884273789603842).
 
-- “It is a job where your goal is to try disappoint people most slowly.” ([source](https://news.ycombinator.com/item?id=18222488)).
+ - “在这份工作中，你的目标是尝试以最慢的速度让人们失望.”  ([source](https://news.ycombinator.com/item?id=18222488)).
 
  - “所以诀窍基本上是让他们（你的直接下属）负责，而不是你. 你是配角，他们可以向你要东西. 但目标需要非常明确.”  ([source](https://news.ycombinator.com/item?id=23973859)) - 关于如何与你的直接下属合作的秘诀，来自 [7 habits of highly effective people](https://www.amazon.com/dp/1982137274?&linkCode=ll1&tag=kevideld-20&linkId=5920a3d486de941b37430f948d377bc9&language=en_US&ref_=as_li_ss_tl).
 
@@ -75,7 +75,7 @@ ______________________________________________________________________
 
 你得到了头衔和薪资等级. 恭喜！ 这还不能让你成为经理. 无论您继承现有的团队还是必须从头开始，您都需要练习构建（和巩固）它们的艺术.
 
-- [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
+- [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html)  - 工程师想要什么？ 金钱、目的和尊重.
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  - “谷歌的数据表明，心理安全比其他任何东西都更重要，这对团队工作至关重要.  (...) 创造心理安全的行为——对话轮换和同理心——是我们作为个人在需要建立联系时经常求助的不成文规则的一部分.”
 
@@ -91,7 +91,7 @@ ______________________________________________________________________
 
 高管是公司的高级/最高管理层. 他们向大公司的董事会报告，或直接向小公司的股东报告. 期望在这个级别上发挥领导作用. 作为经理，这些是您要向其报告的人.
 
-- [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - 释义 [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0394532341?&linkCode=ll1&tag=kevideld-20&linkId=f80a2e0610594cad92d301c587380f0a&language=en_US&ref_=as_li_ss_tl) ，“高管的工作是：为整个组织定义和实施文化和价值观，并批准正确的决定.” 文章还详细介绍了 CEO 的失败模式：将自己的决定强加于下游，或者各种不解决冲突的方式.
+- [What do executives do, anyway?](https://apenwarr.ca/log/20190926) - 释义 [Andy Grove's book, High Output Management](https://www.amazon.com/dp/0394532341?&linkCode=ll1&tag=kevideld-20&linkId=f80a2e0610594cad92d301c587380f0a&language=en_US&ref_=as_li_ss_tl) ，“高管的工作是：为整个组织定义和实施文化和价值观，并批准正确的决策.” 文章还详细介绍了 CEO 的失败模式：将自己的决定强加于下游，或者各种不解决冲突的方式.
 
 - [Executives ratify decisions made on the spot](https://twitter.com/kdeldycke/status/1088001688722644992) - 提炼上述适应的概念 [Tolstoy's thesis to business](https://news.ycombinator.com/item?id=18089716).
 
@@ -133,7 +133,7 @@ ______________________________________________________________________
 
 - [What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133) - “具有讽刺意味的是，你并没有真正注意到一位伟大的经理.”
 
-- [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/)  - 谷歌试图证明管理者无关紧要. 反而发现 [10 Traits of the Very Best Ones](https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
+- [Identify what makes a great manager](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/)  - 谷歌试图证明管理者无关紧要. 反而发现 [10 Traits of the Very Best Ones](https://web.archive.org/web/20200811104655/https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html).
 
 - [As a product manager, how do you earn the respect and trust of your team?](https://twitter.com/johncutlefish/status/1124938723093766144)
 
@@ -150,8 +150,6 @@ ______________________________________________________________________
 - [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956)  - 122 条格言提供了对 NASA 项目管理成功的见解. 涵盖设计、决策、管理员工、与上级和承包商合作.
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) - 巨大的名单，但需要一些策展.
-
-- [The Leadership Library for Engineers](https://leadership-library.dev) - 帮助工程领导升级的书籍清单.
 
 - [A vitally important part of the job: being a crap shield](https://news.ycombinator.com/item?id=24802483) - “EM 的很多工作都是用铲子涉水进入泥浆坑，这样你的团队就可以自由地完成工作”.
 
@@ -205,8 +203,6 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - 没有与不良面试实践相关的那种 CS 琐事问题的公司列表.
 
-- [TechMeAbroad](https://techmeabroad.com) - 列出将从国外招聘的科技初创公司和科技公司的招聘职位.
-
 ### Hiring Process
 
 高增长公司都需要在某一时刻实现招聘流程的工业化.
@@ -227,7 +223,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 审查潜在候选人时可以使用的问题列表，以及从中汲取灵感以用作对话开始者的主题.
 
-- [The Technical Interview is an Ego Trip](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/)  - 从开发人员使用工作面试作为展示其优势的工具的轶事开始. 然后作者详细介绍了一个合理的面试过程，尽量不浪费任何人的时间.
+- [The Technical Interview is an Ego Trip](https://web.archive.org/web/20221101193146/https://kowsheek.com/the-technical-interview-is-an-ego-trip/)  - 从开发人员使用工作面试作为展示其优势的工具的轶事开始. 然后作者详细介绍了一个合理的面试过程，尽量不浪费任何人的时间.
 
 - [The Intangible Skills You Can't Interview For](https://staysaasy.com/leadership/2021/04/12/the-intangible-skills-you-cant-interview-for.html)  - “1) 直通蹩脚的任务；  2）知道如何完成；  3）知道如何开始；  4) 提供（和接收）对角线反馈；  5) 利用无形资产的价值.
 
@@ -319,9 +315,9 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 开发人员会发现有用的法律、理论、原则和模式.
 
-- [Adaptation vs adaptability](https://people.clas.ufl.edu/ulan/files/Conrad.pdf)  - 在完美效率和完全灵活之间存在一个范围. 本文探讨了生态系统以及生态系统内不同生物之间的物质和能量流动.  ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
+- [Adaptation vs adaptability](https://sci-hub.st/10.1016/s0303-2647%2801%2900170-8)  - 在完美效率和完全灵活之间存在一个范围. 本文探讨了生态系统以及生态系统内不同生物之间的物质和能量流动.  ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
-- [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - 如果您仍然怀疑管理文化能否成就或破坏一个行业：“低效的管理实践使南欧公司无法充分利用 IT 革命”.
+- [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - If you still doubt management culture could make or break an industry: “inefficient management practices have kept southern European firms from taking full advantage of the IT revolution”.
 
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - “人们更聪明，你的经理（和他们的经理）非常关心你，而且很容易调动.”
 
@@ -387,7 +383,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 ### Brainstorming
 
-- [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...)  - “即兴喜剧的经验法则 (...). 它还在商业和其他组织中用作提高头脑风暴过程的有效性、促进有效沟通并鼓励自由分享想法的原则.”
+- [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - “A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.”
 
 - [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)  - “让你的直觉引导你得出结论，无论多么不完美——这是‘强烈意见’部分. 然后——这是‘弱势’部分——证明你自己错了.”
 
@@ -547,7 +543,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 我们工作的环境塑造了我们. 津贴也.
 
-- [The impact of the 'open' workspace on human collaboration](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - 开放式办公室减少了面对面的协作.
+- [The impact of the 'open' workspace on human collaboration](https://sci-hub.st/https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0239) - 开放式办公室减少了面对面的协作.
 
 - [Noise, Cognitive Function, and Worker Productivity](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) - “增加 10 dB 会使生产率降低大约 5%.”
 
@@ -609,7 +605,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect)  - “客户取消或推迟对当前即将过时的产品的订单的社会现象是公司过早宣布未来产品的意外缺陷.” 这是为草率的营销行动付出的代价.
 
-- [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式的企业家，但仍然充满了参考书中关于客户关系、定价和产品营销的精彩引述.
+- [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式的企业家，但仍然充满了参考书中关于客户关系、定价和产品营销的精彩引语.
 
 - [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400)  - 你的组织最终会选择 Atlassian 产品，因为“他们的商业模式是： 1. 从客户和潜在客户那里收集需求清单；  2. 确保他们的产品检查每一个该死的盒子，无论多么愚蠢.
 
@@ -773,7 +769,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Technical Writing Courses](https://developers.google.com/tech-writing)  - 这一系列课程和学习资源旨在改进您的技术文档. 了解如何规划和编写技术文档. 您还可以了解技术作家在公司中的作用.
 
-- [Algorithm for writing a scientific manuscript](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - 指导手稿准备和完善的过程.
+- [Algorithm for writing a scientific manuscript](https://sci-hub.st/https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.20329) - 指导手稿准备和完善的过程.
 
 - [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - “写科学论文最有效的方法是在你还在做实验的时候写作”.
 
@@ -805,7 +801,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft 关于如何改进写作以使其更具包容性和多样性的指南.
 
-- [alex](https://github.com/get-alex/alex) - 无论是您自己的还是其他人的作品，alex 都可以帮助您找到文本中的性别偏爱、两极分化、种族相关、宗教不体贴或其他不平等的措辞.
+- [alex](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
 
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - 生成文本废话内容的标准化指标.
 
@@ -865,7 +861,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 ### Performance Reviews
 
-评论和绩效评估是行业解锁促销的工具. 作为一名经理，您要为您的团队成员编写和检测它们，以获得他们应得的加薪. 并像其他任何员工一样通过它们来提升你的职业生涯.
+评论和绩效评估是行业解锁促销的工具. 作为经理，您要为您的团队成员编写和检测它们，以获得他们应得的加薪. 并像其他任何员工一样通过它们来提升你的职业生涯.
 
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)  - 有这样一种想法，如果你在工作中表现出色，人们会（或应该！）自动认识到这项工作并通过晋升/加薪来奖励你. 实际上，它通常比这更复杂.
 
@@ -911,11 +907,11 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
  - “政治是中层管理人员进行干预并制造干扰的方式，以确保你看不到他们、绕过他们或看穿他们，而他们背后更接近金钱的人也看不到你.”  ([source](https://news.ycombinator.com/item?id=22808280)).
 
-- [HiPPO FAQ](http://bitly.com/HIPPOExplained) - HiPPO 代表“最高薪酬人士的意见”，这是一种功能失调文化的特征，在这种文化中，强权政治胜过数据.
+- [HiPPO FAQ](https://exp-platform.com/hippo/) - HiPPO 代表“最高薪酬人士的意见”，这是一种功能失调文化的特征，在这种文化中，强权政治胜过数据.
 
 - [The Prince](https://en.wikipedia.org/wiki/The_Prince)  - 马基雅维利关于如何作为领导者积累荣誉和权力的想法. 在公司中诉诸这种级别的政治肯定会导致文化剧毒，并会腐蚀和打击各级组织的士气.
 
-- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - 基于*The Office* 的管理阶梯的愤世嫉俗、凄凉，但仍然引人入胜.
+- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
 
 - [The 48 Laws of Power](https://www.amazon.com/dp/0140280197?&linkCode=ll1&tag=kevideld-20&linkId=bf129d7f7a3495a445cf2bf667d3d3c6&language=en_US&ref_=as_li_ss_tl)  ——罗伯特·格林. 可以教您如何掩饰自己的屁股并在高度政治化的组织中发挥作用.
 
@@ -929,7 +925,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - 催促经理的策略，以及公司对这种经理的反应如何成就或毁掉一个好工作场所.
 
-- [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “It behooves organizations that want to develop highly authentic supervisors or organizational climates to seek to hire supervisors that are lower (or at least not higher) on symbolized moral identity.”
+- [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “想要培养高度真实的主管或组织氛围的组织有必要聘请在象征性道德认同方面较低（或至少不较高）的主管.”
 
  - “高层管理人员实际掌握的权力通常与其管理的组织规模成反比.”  （来源： [comment](https://news.ycombinator.com/item?id=20260498) 在 [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 
@@ -967,7 +963,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
  - “这是管理主义者的梦想. 用流程和管理方法取代员工的判断和能力.  （……）它永远行不通.”  ([source](https://news.ycombinator.com/item?id=20881308) ). 以及为什么上面的再培训答案是最好的.
 
-- [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “Few folks understand probability, and most executives don't care about the data, regardless of what it says.”
+- [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “很少有人了解概率，而且大多数高管都不关心数据，不管它说的是什么.”
 
 ### Company-level
 
@@ -977,7 +973,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/)  - “如果你知道你正在解决什么问题并且你知道如何解决它，那么官僚组织就可以了. 坚持你所知道的. 如果您正在编写软件，那是一种生成活动. 您需要一个高弹性的组织结构图. 更少的盒子，更多的灵活性.”
 
-- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重蹈重组错误的覆辙，我们开始研究一种结构，使重组能够像由团队而不是上级人员推动的反馈推动的进步一样运作.” 这是试图从根本上提取指向结构不当的信号. 我的警示故事：这可能只在一定程度上起作用，具体取决于公司的文化.
+- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重蹈重组的覆辙，我们开始研究一种结构，使重组能够像由团队而不是上级人员推动的反馈推动的进步一样运作.” 这是试图从根本上提取指向结构不当的信号. 我的警示故事：这可能只在一定程度上起作用，具体取决于公司的文化.
 
  - “当一切都取得巨大成功时，成功背后的人会影响未来可能取得成功的人.  (...) Netflix 是一个很好的例子，说明了如何正确地进行大的转变.  Netflix 从事邮寄 DVD 出租业务. 当决定转向流媒体时，Netflix CEO 不允许负责 DVD 租赁业务的经理参加计划未来的会议.”  ([source](https://news.ycombinator.com/item?id=21395557)).
 
@@ -1047,9 +1043,9 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 <!--lint enable double-link-->
 
-- [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=yfeWhYj5zkQ) - 关于销售和营销如何接管以产品为中心的公司.
+- [Steve Jobs explains - Why companies fail?](https://www.youtube.com/watch?v=B-fAinNDbQU&t=6s) - 关于销售和营销如何接管以产品为中心的公司.
 
-- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - 当公司缺乏技术领导力时：开发人员将时间浪费在成本高昂的重构、过度设计的系统上，并最终脱离业务和产品.
+- [The failure of Scaling Etsy](https://twitter.com/mcfunley/status/1194713711337852928) - 当一家公司缺乏技术领导力时：开发人员将时间浪费在成本高昂的重构、过度设计的系统上，最终与业务和产品脱节.
 
 ## Exits
 

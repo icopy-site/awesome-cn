@@ -21,6 +21,7 @@
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - 期望匹配器在您的 Playwright 测试中执行 Axe 可访问性测试.
 - [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 用于使用 Typescript 使用 Playwright 编写基于 Cucumber 的 E2E 测试的入门回购协议.
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - 使用 Playwright 进行负载测试.
+- [playwright-bdd](https://github.com/vitalets/playwright-bdd) - 使用 Playwright runner 和 CucumberJS 进行 BDD 测试.
 
 ## Language Support
 

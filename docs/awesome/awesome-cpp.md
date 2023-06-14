@@ -381,6 +381,7 @@
 
 ## Documentation
 
+* [Doxide](https://github.com/lawmurray/doxide)  - 现代 C++ 的现代文档，使用 YAML 配置，输出 Markdown.  [阿帕奇 2.0] [website](https://doxide.org)
 * [doxygen](https://github.com/doxygen/doxygen)  :zap: - 用于从带注释的 C++ 源代码生成文档的事实上的标准工具.  [GPL2] [website](https://www.doxygen.org)
 * [doxyrest](https://github.com/vovkos/doxyrest)  - 从 Doxygen XML 到 Sphinx 的 reStructuredText 的编译器.  [麻省理工学院]
 * [hdoc](https://github.com/hdoc/hdoc)  - C++ 的现代文档工具.  [AGPL/商业] [website](https://hdoc.io)
@@ -866,7 +867,7 @@
 * [protobuf](https://github.com/protocolbuffers/protobuf)  - Protocol Buffers - Google 的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - C 中的 Protocol Buffers 实现 [BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)  - 为低延迟应用程序以二进制格式编码和解码应用程序消息.  [阿帕奇2]
-* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现.[BSD]
+* [upb](https://github.com/protocolbuffers/upb) - C 中的一个小型 protobuf 实现. [BSD]
 * [YAS](https://github.com/niXman/yas)  - 非常快的 **Y**et **A**nother **S** 序列化库支持二进制/文本/json 格式.  [促进]
 * [zpp_bits](https://github.com/eyalz800/zpp_bits)  - 实际上，最快的现代 **S** 序列化库. 只需检查 [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE&ab_channel=CppCon).
 

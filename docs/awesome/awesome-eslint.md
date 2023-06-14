@@ -18,7 +18,7 @@
 - [Airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb 的 ESLint 配置，支持 TypeScript.
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) - 用于 React/Vue/TypeScript 项目的渐进式 ESLint 配置.
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - 包含用于 ESLint 团队维护的项目的 ESLint 配置.
-- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
+- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Facebook 风格指南的可共享配置.
 - [Feedzai](https://github.com/feedzai/eslint-config-feedzai) - Feedzai 用于 JavaScript/React 项目的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) - 可共享的配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - 可共享配置 [React](https://reactjs.org) 项目.
@@ -58,7 +58,7 @@
 ### Code Quality
 
 - [GitHub](https://github.com/github/eslint-plugin-github)  - 杂项. 来自 GitHub 的规则.
-- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
+- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - 检测错误和可疑模式的规则.
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - 各种很棒的 ESLint 规则.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  - 杂项. 规则.
 - [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin)  - 杂项. 规则. 没有个人配置的@mysticatea.
@@ -96,7 +96,7 @@
 - [Angular](https://github.com/angular-eslint/angular-eslint) - Angular (v2+) 的 Linting 规则.
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) - 要遵守的 Linting 规则 [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Astro](https://github.com/ota-meshi/eslint-plugin-astro) - 插件 [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
-- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - 骨干网的检查规则.
+- [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone.
 - [Custom Elements](https://github.com/github/eslint-plugin-custom-elements) - GitHub 的自定义元素规则.
 - [Ember](https://github.com/ember-cli/eslint-plugin-ember) - Ember 的检查规则.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) - hapi 的检查规则.
@@ -129,7 +129,7 @@
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - 用于 JSON、JSONC 和 JSON5 的 ESLint 插件.
   - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - 使用 JSON Schema Validator 验证在 JavaScript、JSON、YAML 和 TOML 中定义的数据.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - 用于 MDX 的 ESLint 解析器/插件.
-- [Node](https://github.com/mysticatea/eslint-plugin-node) - 附加 ESLint 的 Node.js 规则.
+- [Node](https://github.com/mysticatea/eslint-plugin-node) - Node.js 的附加 ESLint 规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - ESLint 的 SQL linting 规则.
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - 用于 TOML 的 ESLint 插件.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - TypeScript 的 Linting 规则.
@@ -179,7 +179,7 @@ Lodash
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用 `new` 抛出错误.
 <!-- lint ignore awesome-spell-check -->
 - [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - 针对 `Math.max(...args)` 等可能导致大型数组堆栈溢出的表达式进行检查.
-- [no-comments](https://github.com/wisniewski94/eslint-plugin-no-comments) - 防止在未使用捆绑器的情况下将注释泄漏到生产环境中，并阻止开发人员注释掉旧代码行.
+- [no-comments](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 - [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - 通过报告将“this”与“bind”一起使用或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - ESLint 的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 都 2019 年了，你还在用循环吗？
@@ -238,6 +238,7 @@ Lodash
 - 摩卡
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) - 摩卡的检查规则.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
+- [Playwright](https://github.com/playwright-community/eslint-plugin-playwright) - 剧作家的检查规则.
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) - QUnit 的 Linting 规则.
 - [TestCafe-Community](https://github.com/testcafe-community/eslint-plugin-testcafe-community) - 带有 env 全局变量的 TestCafe linting 规则（来自 [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe)).
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) - 测试库的 Linting 规则.

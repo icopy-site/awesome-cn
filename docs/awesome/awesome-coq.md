@@ -34,6 +34,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 - [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - 用于与 Coq 交互的独立图形工具.
 - [Coqtail](https://github.com/whonore/Coqtail) - 基于 Vim 文本编辑器的 Coq 界面.
+- [Coq LSP](https://github.com/ejgallego/coq-lsp) - 带有自定义文档检查引擎的 Visual Studio Code 和 VSCodium 编辑器的语言服务器和扩展.
 - [Proof General](https://proofgeneral.github.io) - 基于可扩展、可定制的文本编辑器 Emacs 的证明助手的通用界面.
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - Proof General 的 Coq 模式的 IDE 扩展.
 - [jsCoq](https://github.com/ejgallego/jscoq) - Coq 到 JavaScript 的端口，可以在浏览器中运行 Coq 项目.
@@ -85,9 +86,9 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Plugins
 
-- [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些运算符的普遍量化方程、模结合律和交换律的策略.
-- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和策略.
-- [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转换为自动证明器以及重建已找到的证明相结合.
+- [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些算子的普遍量化方程、模结合律和交换律的策略.
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和战术.
+- [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转化为自动证明和重建已找到的证明相结合.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现浮点运算和舍入误差目标的策略.
 - [Hierarchy Builder](https://github.com/math-comp/hierarchy-builder) - 用于声明基于打包类的 Coq 层次结构的命令集合.
@@ -98,7 +99,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Paramcoq](https://github.com/coq-community/paramcoq) - 用于生成 Coq 术语的参数化翻译的插件.
 - [QuickChick](https://github.com/QuickChick/QuickChick) - 用于基于属性的随机测试的插件.
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - 检查来自外部 SAT 和 SMT 求解器的证明证人的工具.
-- [Tactician](https://coq-tactician.github.io) - 交互式工具，它从所有已安装的 Coq 包中先前编写的策略脚本中学习，并建议下一个要执行的策略或尝试完全自动化证明合成.
+- [Tactician](https://coq-tactician.github.io) - 交互式工具，它从以前编写的策略脚本中学习所有已安装的 Coq 包，并建议下一个要执行的策略或尝试完全自动化证明合成.
 - [Unicoq](https://github.com/unicoq/unicoq) - 用增强的统一算法替换现有统一算法的插件.
 
 ### Puzzles and Games
@@ -124,7 +125,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [coq-tools](https://github.com/JasonGross/coq-tools) - 用于操纵 Coq 开发的脚本.
   - [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - 自动最小化产生错误的源文件，为 Coq 错误创建小测试用例.
   - [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - 处理源文件以使依赖项的加载对文件名的阴影具有鲁棒性.
-  - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载从开发中创建独立的源文件.
+  - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载，从开发中创建独立的源文件.
   - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
   - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
   - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提取许多白话命令和内部引理.
@@ -155,7 +156,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Gaia](https://github.com/coq-community/gaia) - 布尔巴基数学基础书籍的实施，包括集合论和数论.
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - 基于塔斯基公理系统的几何形式化.
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
-- [Homotopy Type Theory](https://github.com/HoTT/HoTT) - 同伦论思想的发展.
+- [Homotopy Type Theory](https://github.com/HoTT/Coq-HoTT) - 同伦论思想的发展.
 - [Infotheo](https://github.com/affeldt-aist/infotheo) - 信息论和线性纠错码的形式化.
 - [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 - [Math Classes](https://github.com/coq-community/math-classes) - 基于类型类的数学结构的抽象接口.
@@ -176,7 +177,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Rust 核心语言和类型系统的正式模型、类型系统的逻辑关系以及一些 Rust 库的安全证明.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - 实时系统可调度性分析的定义和证明.
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - RISC-V 处理器指令集架构和扩展的定义.
-- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 验证了用于拓扑排序和在有限图中查找强连通分量的算法的实现.
+- [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - 已验证用于拓扑排序和在有限图中查找强连通分量的算法的实现.
 - [Vélus](http://velus.inria.fr) - 经过验证的 Lustre/Scade 类数据流同步语言的编译器.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Raft 分布式共识协议的实现，使用 Verdi 框架在 Coq 中验证.
 
@@ -232,7 +233,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Course Material
 
-- [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑推理 Coq 中的顺序命令式程序.
+- [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - 介绍使用分离逻辑来推理 Coq 中的顺序命令式程序.
 - [Floating-Point Numbers and Formal Proof](https://github.com/thery/FlocqLecture) - 来自 Flocq 库的 Coq 实数和浮点数入门课程.
 - [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - 形式化以支持计算理论的本科课程，包括语言和图灵机.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.

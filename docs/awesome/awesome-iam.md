@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ＆AᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴPʀᴏᴅᴜᴄᴛʜᴇʀᴇ！</strong>
+    <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ＆Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ Pʀᴏᴅᴜᴄᴛʜᴇʀᴇ！</strong>
     <br/>
     <sup>在此处添加指向您的公司或项目的链接：通过 GitHub 赞助支持我.</sup>
   </a>
@@ -63,7 +63,7 @@
 
 - [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（配置错误、访问控制不当、共享租户漏洞和供应链漏洞）”.
 
-- [Cartography](https://github.com/lyft/cartography)  - 基于 Neo4J 的工具，用于映射服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
+- [Cartography](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
 
 - [Open guide to AWS Security and IAM](https://github.com/open-guides/og-aws#security-and-iam)
 
@@ -139,7 +139,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Password-based
 
-- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性指南.
+- [The new NIST password guidance](https://pciguru.wordpress.com/2019/03/11/the-new-nist-password-guidance/) - 总结 [NIST Special Publication 800-63B](https://pages.nist.gov/800-63-3/sp800-63b.html) 涵盖新的密码复杂性准则.
 
 - [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html) - 减缓离线攻击的唯一方法是仔细选择尽可能占用资源的哈希算法.
 
@@ -251,7 +251,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Learn how to use JWT for Authentication](https://github.com/dwyl/learn-json-web-tokens) - 了解如何使用 JWT 来保护您的网络应用程序.
 
-- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供精细的安全性、同质身份验证架构、去中心化发行、OAuth2 合规性、可调试性、过期控制、设备管理.
+- [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - 与 API 密钥相比，JWT 提供细粒度安全性、同质身份验证架构、去中心化发行、OAuth2 合规性、可调试性、过期控制、设备管理.
 
 - [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) - JWT 具有各种灵活性，因此很难很好地使用.
 
@@ -305,11 +305,11 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Cierge](https://web.archive.org/web/20190402111431/https://pwdless.github.io/Cierge-Website/) - 处理用户注册、登录、配置文件、管理等的开源身份验证服务器 (OIDC).
 
-- [Keycloak](https://www.keycloak.org) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
+- [Keycloak](https://www.keycloak.org)  - 开源身份和访问管理. 支持 OIDC、OAuth 2 和 SAML 2、LDAP 和 AD 目录、密码策略.
 
 - [Casdoor](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
-- [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - 用于 ASP.NET Core 的免费开源 OpenID Connect 和 OAuth 2.0 框架.
+- [IdentityServer](https://github.com/IdentityServer/IdentityServer4) - 用于 ASP-NET Core 的免费开源 OpenID Connect 和 OAuth 2.0 框架.
 
 - [authentik](https://goauthentik.io/?#correctness) - 类似于 Keycloak 的开源身份提供者.
 
@@ -327,7 +327,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 典型的 SAML 身份提供者是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供者是运行数据孤岛的科技公司.
 
-- [SAML vs. OAuth](https://www.cloudflare.com/learning/access-management/what-is-oauth/)  - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场. 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室.”
+- [SAML vs. OAuth](https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth/)  - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场. 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室.”
 
 - [The Difference Between SAML 2.0 and OAuth 2.0](https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/)  - “尽管 SAML 实际上被设计为广泛适用，但其当代用途通常转向企业 SSO 场景. 另一方面，OAuth 被设计用于 Internet 上的应用程序，尤其是委托授权.”
 
@@ -377,7 +377,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Open-source policy frameworks
 
-如果您希望推出自己的政策实施，请收集开源项目.
+Collection of open-source projects if you're looking to roll your own policy implementation.
 
 - [Keto](https://github.com/ory/keto)  - 政策决策点. 它使用一组访问控制策略，类似于 AWS 策略，以确定主体是否有权对资源执行特定操作.
 
@@ -507,7 +507,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 作为在线服务提供商，您会面临欺诈、犯罪和滥用职权的风险. 你会惊讶于人们在金钱方面变得如此聪明. 预计您的工作流程中的任何错误或差异都会被利用以获取经济利益.
 
-- [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://archive.is/MuNrZ) - 为什么背景调查有时是必要的.
+- [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://web.archive.org/web/20230526073109/https://www.bloomberg.com/news/articles/2019-07-11/mercedes-thieves-showed-just-how-vulnerable-car-sharing-can-be) - 为什么背景调查有时是必要的.
 
 - [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf)  - 对 OpenStreetMap 上可疑贡献者注册的真正详细分析. 这份精美而高层次的报告展示了一场精心策划和定向的活动，可以作为欺诈报告的模板.
 
@@ -547,7 +547,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [SecLists](https://github.com/danielmiessler/SecLists)  - 收集安全评估中使用的多种类型的列表，收集在一个地方. 列表类型包括用户名、密码、URL、敏感数据模式、模糊测试负载、Web shell 等等.
 
-- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
+- [PhishingKitTracker](https://github.com/neonprimetime/PhishingKitTracker) - 威胁行为者在网络钓鱼工具包中使用的电子邮件地址的 CSV 数据库.
 
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)  - 仅使用免费资源扫描电话号码的工具. 目标是首先以非常准确的方式收集任何国际电话号码的标准信息，例如国家、地区、运营商和线路类型. 然后在搜索引擎上搜索足迹以尝试找到 VoIP 提供商或确定所有者.
 
@@ -561,7 +561,7 @@ HSM是在硬件层面保证秘密管理安全的物理设备.
 
 - [reCaptcha](https://www.google.com/recaptcha) - 当您的公司负担不起专门的团队来打击互联网规模的机器人程序和垃圾邮件发送者时，reCaptcha 仍然是一种有效、经济且快速的解决方案.
 
-- [You (probably) don't need ReCAPTCHA](https://kevv.net/you-probably-dont-need-recaptcha/) - 首先是抱怨该服务如何成为隐私噩梦并且在用户界面方面乏味乏味，然后列出替代方案.
+- [You (probably) don't need ReCAPTCHA](https://web.archive.org/web/20190611190134/https://kevv.net/you-probably-dont-need-recaptcha/) - 首先是抱怨该服务如何成为隐私噩梦并且在用户界面方面乏味乏味，然后列出替代方案.
 
 - [Anti-captcha](https://anti-captcha.com) - 验证码解决服务.
 
@@ -725,7 +725,7 @@ The well-known European privacy framework
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
+随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 

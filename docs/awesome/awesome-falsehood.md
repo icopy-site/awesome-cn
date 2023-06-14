@@ -22,7 +22,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-一个策划 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 程序员相信的谎言列表.*错误*是一个 ***想法*，您最初认为它是真实的**，但实际上，它已被**证明是假的**.
+一个策划 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) 程序员相信的谎言列表. *错误* 是一个 ***想法* 你最初认为是真的**，但实际上，它被**证明是假的**.
 
 例如*idea*：有效的电子邮件地址正好有一个“@”字符. 因此，您将使用此规则来实现您的电子邮件字段验证逻辑. 正确的？ 错误的！  *现实*是：电子邮件可以有多个“@”字符. 因此，您的实施应该允许这样做. 最初的*想法*是您相信的谎言.
 
@@ -104,7 +104,7 @@
 - [Falsehoods about Geography](https://wiesmann.codiferes.net/wordpress/archives/15187) - 承担地方，他们的名字和位置.
 - [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 涵盖坐标、投影和 GIS.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com) - 地理空间从业者诊断和解决坐标系常见问题的指南.
-- [Top 5 most insane kanji place names in Japan](https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%e3%80%90weird-top-five%e3%80%91/) - “有一组特殊的汉字即使日本人也很难阅读：地名.”
+- [Top 5 most insane kanji place names in Japan](https://web.archive.org/web/20210310050932/https://soranews24.com/2016/12/01/w-t-f-japan-top-5-most-insane-kanji-place-names-in-japan%E3%80%90weird-top-five%E3%80%91/) - “有一组特殊的汉字即使日本人也很难阅读：地名.”
 
 ## Human Identity
 

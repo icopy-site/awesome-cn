@@ -15,7 +15,7 @@
   </a>
 </p>
 
-______________________________________________________________________
+---
 
 <p align="center">
   <br>
@@ -298,7 +298,7 @@ Uncommon pricing schemes.
 
 - [Managed accounts for Django](https://github.com/django-oscar/django-oscar-accounts) - “管理账户”是可以借记和贷记的资金分配.
 
-- [Triple‐entry accounting with blockchain: How far have we come?](https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.12556)  - “三次记账是解决困扰当前会计系统的基本信任和透明度问题的一种新的、更有效的方法. 如果实施得当，使用区块链的三式记账可以从根本上改善会计.”
+- [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556)  - “三次记账是解决困扰当前会计系统的基本信任和透明度问题的一种新的、更有效的方法. 如果实施得当，使用区块链的三式记账可以从根本上改善会计.”
 
 ### Currencies
 
@@ -328,7 +328,7 @@ Uncommon pricing schemes.
 
 - [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://www.cloudbakers.com/blog/cuds-vs.-commit-contracts-vs.-suds-in-google-cloud) - 解释 GCP 中各种类型的折扣和承诺之间的区别.
 
-- [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://www.pnas.org/content/pnas/113/27/7323.full.pdf) - “对大宗采购实施 9-70% 的降价，我们发现对收入的影响非常小，无论是积极的还是消极的.”
+- [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113) - “对大宗采购实施 9-70% 的降价，我们发现对收入的影响非常小，无论是积极的还是消极的.”
 
 ## Coupons and Vouchers
 
@@ -378,7 +378,7 @@ Uncommon pricing schemes.
 
 <!--lint disable double-link-->
 
-- [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - 关于增值税共同制度的理事会指令 2006/112/EC 第 226 条第 4 节（发票内容）详细说明了欧盟发票上所需的信息.
+- [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - 关于欧盟增值税共同制度的理事会指令 2006/112/EC 第 226 条第 4 节（发票内容）详细说明了欧盟发票上所需的信息.
 
 <!--lint enable double-link-->
 
@@ -446,7 +446,7 @@ Uncommon pricing schemes.
 
 收据实现付款交易.
 
-- [The humble receipt gets a brilliant redesign](https://www.fastcompany.com/90347782/the-humble-receipt-gets-a-brilliant-redesign) - 当 Netflix 数据工程师重新查看收据时.
+- [The humble receipt gets a brilliant redesign](https://susielu.com/data-viz/reviziting-the-receipt) - 当 Netflix 数据工程师重新查看收据时.
 
 - [The long, long history of long, long CVS receipts](https://www.vox.com/the-goods/2018/10/10/17956950/why-are-cvs-pharmacy-receipts-so-long) - “CVS 是一家与其他药店非常相似的药店，有一个重要的区别：收据很长.”
 
@@ -478,7 +478,7 @@ Uncommon pricing schemes.
 
 通常的汇款服务.
 
-- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付接口. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
+- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付界面. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)  - 过去 20 年的支付 API 中出现问题的大量集合，现在仍然如此. 本文中暴露的任何未解决的问题最终都将成为赃款.
 
@@ -666,7 +666,7 @@ Uncommon pricing schemes.
 
 ## History
 
- - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接联系.
+ - “Larry Page 去了密歇根大学并使用了密歇根终端系统.  (...) 当谷歌在开发 App Engine 时，佩奇从 MTS 中​​获得灵感，并告诫工程师们以其为榜样.  (...) 当我现在查看我的 AWS 和 GCP 账单时，感觉非常熟悉！”  ([source](https://news.ycombinator.com/item?id=35123587)) - 老式大学大型机与当前云服务之间的直接关联.
 
 - [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 

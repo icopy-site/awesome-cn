@@ -51,7 +51,7 @@
 
 ### Graphics
 
-- [mpv-v](https://github.com/xjunko/mpv-v) - 世界上最简单的视频播放器.
+- [mpv-v](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
 - [vRayTracer](https://github.com/ali-raheem/vraytracer) - 用 V 编写的简单光线追踪器.
 
 ### Interpreters/Compilers
@@ -136,7 +136,7 @@
 
 ### Eventing
 
-- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - A simple event bus system for V.
+- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) - 一个简单的 V 事件总线系统.
 
 ### File handling
 
@@ -205,6 +205,7 @@
 - [iconv](https://github.com/fanlia/iconv) - 为 vlang 包装 iconv.
 - [pcre2](https://github.com/srackham/pcre2) - 用于处理 PCRE 正则表达式的库.
 - [Rosie-RPL](https://github.com/jdonnerstag/vlang-rosie) - Rosie 模式语言 (RPL) 实现.
+- [slugify](https://github.com/Coachonko/slugify) - 将 Unicode 字符串转换为 url 友好的人类可读 ASCII slug.
 - [strfmt](https://github.com/BenStigsen/strfmt) - 非常适合模板化的小巧快速的字符串格式化库.
 - [text-processing](https://github.com/ArtemkaKun/text-processing) - V 文本处理库，包含处理文本数据的常用工具.
 - [v-regex](https://github.com/spytheman/v-regex) - 一个简单的 V 正则表达式库.
