@@ -237,6 +237,7 @@
 - [Tailiscope.nvim](https://github.com/danielvolchek/tailiscope.nvim) - Neovim 中集成的 Tailwind CSS 备忘单.
 - [Supertweak](https://supertweak.dev) - 用于 Tailwind CSS 的可视化开发工具.
 - [Tailscan](https://tailscan.com) - 用于 Tailwind CSS v3 的终极开发工具，能够检查 CSS 并将其转换为 Tailwind CSS 类.
+- [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - 在 Raycast Launcher 中搜索类、文档和颜色.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS 的代码生成器.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
@@ -266,7 +267,7 @@
 - [Headless UI Float](https://headlessui-float.vercel.app) - Headless UI 的浮动 UI 集成.
 - [Vanilla Components](https://vanilla-components.com) - 一组完全可定制的 Vue 组件.
 - [Sailboat UI](https://sailboatui.com/) - Tailwind CSS 的现代 UI 框架.
-- [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
+- [Built At Lightspeed](https://www.builtatlightspeed.com/) - 包含 500 多个 Tailwind 模板、启动器和 UI 套件的海量目录.
 - [Statichunt](https://statichunt.com/tailwind-templates) - 精选的免费和高级 Tailwind 模板和 Starters 的开源目录.
 - [Tailkits](https://tailkits.com/) - 精选的 Tailwind CSS 组件、模板、UI 工具包、资源、工具等.
 - [TailBlocks](https://mertjf.github.io/tailblocks) - 60 多种不同的即用型 Tailwind CSS 块.
@@ -293,7 +294,7 @@
 - [Material Tailwind](https://material-tailwind.com/) - 易于使用的 Tailwind CSS 和 Material Design 组件库.
 - [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Tailwind CSS 的布局和 UI 模式.
 - [HyperUI](https://hyperui.dev/) - 开源营销和电子商务 Tailwind CSS 组件.
-- [Snippets](https://snippets.alexandru.so/) - 为 Tailwind CSS 制作的动画片段的开源集合.
+- [Snippets](https://snippets.alexandru.so/) - Open source collection of animation snippets made for Tailwind CSS.
 - [Fancy Tailwind](https://fancytailwind.com/) - 大量 Tailwind CSS UI 组件 (700+).
 - [Myna UI](https://mynaui.com/) - 使用 Tailwind CSS 制作的开源 UI 组件和营销元素.
 - [Sira UI](https://sira.riccox.com) - 可定制和可访问的设计系统，提供 TailwindCSS 组件类名称库来构建现代 UI.

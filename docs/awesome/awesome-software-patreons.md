@@ -49,7 +49,7 @@ _使用开源许可证发布的项目._
 - [LibrePCB](https://www.patreon.com/librepcb) - 开发印刷电路板的软件. 
 - [LogSeq](https://opencollective.com/logseq) - 知识管理
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) - 适合所有人的廉价、简单、自托管的云.
-- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - 联合社交网络服务器.  
+- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - 用于安全、去中心化通信的开放网络.
 - [Memcode](https://www.patreon.com/memcode) - 抽认卡平台
 - [MissKey](https://www.patreon.com/syuilo) - 联合微博平台.
@@ -57,6 +57,8 @@ _使用开源许可证发布的项目._
 - [MyPaint](https://opencollective.com/mypaint) - 与压敏平板电脑及其动态画笔引擎库完美配合的绘画程序.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) - 使用 NativeScript 和 Vue 的原生移动应用程序.
 - [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork 专注于可扩展性和可用性.
+- [NewPipe](https://liberapay.com/TeamNewPipe) - Android 上的 FLOSS 视频播放器，用于 YouTube、Soundcloud 等服务.
+- [Nitter](https://www.patreon.com/nitter), [#2](https://liberapay.com/zedeus), [#3](https://github.com/sponsors/zedeus) - 专注于隐私的免费开源 Twitter 客户端.
 - [OctoPrint](https://www.patreon.com/foosel) - 3D 打印机的 Web 界面.
 - [Olive](https://www.patreon.com/olivevideoeditor) - 高质量的视频编辑和合成软件.
 - [Oni](https://www.patreon.com/onivim) - 模态代码编辑器.
@@ -110,6 +112,7 @@ _库和框架._
 - [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - C++ 的即时模式图形用户界面.
 - [Hapi.js](https://opencollective.com/hapijs) - Node.js 框架.
 - [HaxeUI](https://www.patreon.com/haxeui) - 用户界面工具包.
+- [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - 受 Elm 启发的 Rust 跨平台 GUI 库.
 - [Laravel](https://www.patreon.com/taylorotwell) - PHP框架.
 - [LibGDX](https://www.patreon.com/libgdx) - 游戏开发框架.
 - [MicroG](https://github.com/sponsors/mar-v-in), [#2](https://liberapay.com/microG/) - 谷歌专有的 Android 用户空间应用程序和库的免费重新实现.
@@ -163,10 +166,10 @@ _游戏和游戏相关项目._
 - [MelonDS](https://www.patreon.com/m/Arisotura) - 任天堂 DS 模拟器.
 - [Play!](https://www.patreon.com/jpd002) - PS2模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 模拟器.
-- [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.
+- [Ryujinx](https://www.patreon.com/ryujinx) - 任天堂开关模拟器.
 - [Xemu](https://www.patreon.com/mborgerson) - Xbox 模拟器.
 - [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 模拟器.
-- [yuzu](https://www.patreon.com/yuzuteam) - Nintendo Switch emulator.
+- [yuzu](https://www.patreon.com/yuzuteam) - 任天堂开关模拟器.
 
 ### Open Source Art
 _创建艺术项目并为与艺术相关的开源工具和库做出贡献的开发人员._
@@ -193,6 +196,7 @@ _硬件相关的项目和创客._
 - [Geoffrey D. Bennett](https://liberapay.com/gdb) - Linux Focusrite Scarlett 软件.
 - [Hector Martin "marcan"](https://www.patreon.com/marcan), [#2](https://github.com/sponsors/marcan) - Asahi，Linux 支持 Apple Silicon Mac.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - 视频和硬件. 
+- [Martin Povišer](https://github.com/sponsors/povik) - 对 Apple Silicon Mac 上的音频硬件进行逆向工程和编写 Linux 驱动程序.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) - 用于 Sony DualShock 控制器和其他控制器的 Windows 驱动程序.
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - 各种微控制器的引脚图.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - 复古游戏. 
@@ -213,7 +217,7 @@ _为多个项目做出贡献的开发人员要求支持他们的工作._
 - [Daniël Klabbers](https://www.patreon.com/luceos) - Flarum 和其他 PHP 项目的贡献者.
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.
 - [David Hewitt](https://github.com/users/davidmhewitt/sponsorship) - ElementaryOS 贡献者，Torrential，Clipped.
-- [Dimitri Fontaine](https://github.com/sponsors/dimitri) - 对 PostgreSQL 生态系统（pgloader、pg_auto_failover）、Emacs 库（el-get）的各种贡献，作者.
+- [Dimitri Fontaine](https://github.com/sponsors/dimitri) - Various contributions to the PostgreSQL ecosystem (pgloader, pg_auto_failover), Emacs libraries (el-get), author.
 - [Dominik Honnef](https://www.patreon.com/dominikh), [#2](https://github.com/users/dominikh/sponsorship) - 致力于 Go 编程语言的工具.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) - Uncomplicate 的创建者，这是一个用于 AI、ML 和 GPU 高性能计算的 Clojure 库系列.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - 摇摆、wlroots、sr.ht、scdoc、aerc 等.
@@ -284,9 +288,11 @@ _文章、视频、播客等……_
 ### Articles and Tutorials
 
 - [Alecaddd](https://www.patreon.com/alecaddd) - 各种编程教程.
+- [Boiling Steam](https://www.patreon.com/boiling_steam_linux) - Linux 游戏新闻、评论、指南.
 - [Chris Bradfield](https://www.patreon.com/kidscancode) - 儿童编程教程. 
 - [DistroWatch](https://www.patreon.com/distrowatch) - Linux/BSD 的评论和教程.
 - [Fluent C++](https://www.patreon.com/fluentcpp) - C++ 文章.
+- [GamingOnLinux](https://www.patreon.com/liamdawe) - 关于 Linux、Steam Deck、SteamOS 游戏的文章和视频.
 - [Kyle Simpson](https://www.patreon.com/getify)  - “你不知道的 JS”系列丛书的作者. 做文章、播客和 OSS 贡献.
 - [Meeting C++](https://www.patreon.com/meetingcpp) - C++ 文章.
 - [Modernes C++](https://www.patreon.com/rainer_grimm) - C++ 文章.
@@ -303,7 +309,7 @@ _文章、视频、播客等……_
 
 ### Podcasts
 
-- [CPP Cast](https://www.patreon.com/CppCast) - Podcast for C++ developers.
+- [CPP Cast](https://www.patreon.com/CppCast) - 面向 C++ 开发人员的播客.
 - [Destination Linux](https://www.patreon.com/destinationlinux) - Linux 讨论和新闻相关播客.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) - Linux 和新闻.
 - [More Than Just Code](https://www.patreon.com/mtjc) - 适用于 iOS 开发人员的播客.

@@ -75,7 +75,7 @@
 - [Deploying Django to AWS ECS with Terraform](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/) - 查看如何使用 Terraform 启动所需的 AWS 基础设施，以便在 ECS 上运行 Django 应用程序.
 - [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - 说明如何将 Terraform 合并到微服务部署管道中.
 - [Terraform for a Highly Available VPN between AWS and Azure](https://web.archive.org/web/20210616132857/https://deployeveryday.com/2020/04/13/vpn-aws-azure-terraform.html) - 用于在 AWS 和 Azure 之间部署高度可用的 VPN 的 Terraform 代码.
-- [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - How 1Password migrated from CloudFormation to Terraform.
+- [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) - 1Password 如何从 CloudFormation 迁移到 Terraform.
 - [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](https://web.archive.org/web/20170611135511/http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用 OpenStack Terraform 提供程序部署 Web 服务器是多么容易.
 - [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - 确保基础设施的零停机时间.
 - [Google Cloud Platform for 10$ a month using terraform](https://github.com/nufailtd/terraform-budget-gcp) - 展示如何使用 Terraform 创建安全的 Google Kubernetes 集群、Google Cloud Run 服务和其他基础设施元素 [10$](https://nufailtd.github.io/budget-gcp/) 一个月.
@@ -178,7 +178,7 @@
 - [tapir](https://github.com/PacoVK/tapir)  - 具有提供者和模块支持的模块化私有 Terraform 注册平台. 提供强大的 UI 生成安全指标、依赖关系可视化和自动生成文档.
 - [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Terraform 注册表协议的简单实现.
 - [terraform-registry](https://github.com/philips-labs/terraform-registry) - 服务由 GitHub 版本支持的 terraform 提供商注册表.
-- [terrareg](https://github.com/matthewjohn/terrareg) - 具有 UI 和 git 支持的索引/导入的私有 Terraform 模块注册表
+- [Terrareg](https://github.com/matthewjohn/terrareg) - 具有 UI 和 git 支持的索引/导入、成本估算、安全分析、资源图形、API 和单点登录的私有 Terraform 模块注册表
 
 ## Private Provider Registries
 
@@ -199,6 +199,7 @@
 ### Vendor supported providers
 
 - [terraform-provider-alicloud](https://github.com/aliyun/terraform-provider-alicloud) - 阿里云的提供商.
+- [terraform-provider-artifactory](https://github.com/jfrog/terraform-provider-artifactory) - 提供者 [JFrog Artifactory](https://jfrog.com/artifactory/).
 - [terraform-provider-atlas](https://github.com/ariga/terraform-provider-atlas) - 提供者 [Atlas](https://atlasgo.io/).
 - [terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Azure 资源管理器 Rest API 提供程序
 - [terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) - Azure DevOps (VSTS) 提供商.
@@ -216,7 +217,7 @@
 - [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - 提供者来管理 healthchecks.io 资源.
 - [terraform-provider-heroku](https://github.com/heroku/terraform-provider-heroku) - Heroku 的提供商.
 - [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - IBM Cloud 的提供商.
-- [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) - Simple Kubernetes Provider, works with any manifest.
+- [terraform-provider-k8s](https://github.com/banzaicloud/terraform-provider-k8s) - 简单的 Kubernetes 提供程序，适用于任何清单.
 - [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - 供应商来管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供者服务器.
 - [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Linode 的提供商.
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - OpenStack 插件.
@@ -233,7 +234,7 @@
 - [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) - 提供程序对您的目标端点进行托管和非托管 API 调用.
 - [terraform-provider-ucloud](https://github.com/ucloud/terraform-provider-ucloud) - 提供者来管理 UCloud 资源.
 - [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - 供应商管理 uptimerobot 资源.
-- [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - 通过 Terraform 加密的 HashiCorp Vault 机密可以存储在 Git 等 SCM 中.
+- [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - Encrypted HashiCorp Vault secrets via Terraform that can be stored in SCM such as Git.
 - [terraform-provider-iterative](https://github.com/iterative/terraform-provider-iterative) - 考虑到机器学习而构建的 Terraform 插件.
 
 ## Testing
@@ -252,7 +253,7 @@
 - [Argonaut](https://argonaut.dev/)  - 在几分钟内在您的云上部署应用程序和基础设施. 自动生成 Terraform 模块，通过 PR 自定义配置. 支持在 Kubernetes 和 Lambda 环境中部署应用程序.
 - [astro](https://github.com/uber/astro/)  - Astro 是一种将多个 Terraform 执行作为单个命令进行管理的工具.  ：鬼：
 - [atmos](https://github.com/cloudposse/atmos)  - 将深度合并的 YAML 转换为模块输入的通用工具.  ：外星人：
-- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流.
+- [atlantis](https://github.com/runatlantis/atlantis) - 通过 GitHub 在 Terraform 上进行协作的统一工作流程.
 - [aws2tf](https://github.com/aws-samples/aws2tf) - 自动将现有 AWS 资源导入 Terraform 并输出 Terraform HCL 代码.
 - [aztfexport](https://github.com/Azure/aztfexport) - 将现有 Azure 资源置于 Terraform 管理之下的工具.
 - [blast radius](https://github.com/28mm/blast-radius)  - Terraform 依赖关系图的交互式可视化.  ：颅骨：
@@ -338,7 +339,7 @@
 - [tfsec](https://github.com/aquasecurity/tfsec) - 支持 terraform &lt;0.12 &amp; &gt;=0.12 的 Terraform 静态分析工具，直接与 HCL 解析器集成以获得更好的结果.
 - [tfenv](https://github.com/tfutils/tfenv) - 受 rbenv 启发的 Terraform 版本管理器.
 - [tfjson](https://github.com/palantir/tfjson)  - 用于读取 Terraform 计划文件并将其转储为 JSON 的实用程序.  ：颅骨：
-- [tflint](https://github.com/terraform-linters/tflint) - 用于检测“terraform plan”无法检测到的错误的 Terraform linter
+- [tflint](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [tfmask](https://github.com/cloudposse/tfmask) - 用于屏蔽“terraform plan”和“terraform apply”的选择输出的 Terraform 实用程序
 - [tfmigrate](https://github.com/minamijoyo/tfmigrate) - GitOps 的 Terraform 状态迁移工具.
 - [tfmigrator](https://github.com/tfmigrator/cli) - 转到库和 CLI 以迁移 Terraform 配置和状态
@@ -346,7 +347,7 @@
 - [tfrepl](https://github.com/andreineculau/tfrepl)  - 一个 Terraform REPL，给你一个完整的 shell 体验. 基于阅读线. 没有依赖性. 保存配置更改. 历史.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 Terraform 管理的 AWS 基础设施的框架.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Terraform 提供商的模式检查器.
-- [tftree](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+- [tftree](https://github.com/busser/tftree) - 在您的终端中显示您的 Terraform 模块调用堆栈.
 - [tftarget](https://github.com/future-architect/tftarget) - 以交互方式执行 `terraform xxx -target={...}` 的 CLI 工具.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - 更新 Terraform 配置中的版本限制.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv 从 HashiCorp Vault 中读取秘密，并使用这些秘密为各种 Terraform 提供者输出环境变量.
@@ -355,7 +356,7 @@
 - [tpm](https://github.com/Madh93/tpm) - Terraform 提供商的包管理器.
 - [validIaC](https://github.com/gofireflyio/validiac) - ValidIaC 结合了最好的开源工具，以帮助确保 Terraform 最佳实践、卫生和安全.
 - [xterrafile](https://github.com/devopsmakers/xterrafile) 系统地管理来自模块注册表、git 或本地目录的外部模块，以便在 Terraform 中使用（用 Go 编写）.
-- [yor](https://github.com/bridgecrewio/yor) - 将基础设施自动标记和跟踪为代码框架（Terraform、Cloudformation 和 Serverless）.
+- [yor](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## Libraries
 
