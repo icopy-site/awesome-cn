@@ -75,7 +75,7 @@
 
 你得到了头衔和薪资等级. 恭喜！ 这还不能让你成为经理. 无论您继承现有的团队还是必须从头开始，您都需要练习构建（和巩固）它们的艺术.
 
-- [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html)  - 工程师想要什么？ 金钱、目的和尊重.
+- [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html) - What DO engineers want? Money, purpose and respect.
 
 - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  - “谷歌的数据表明，心理安全比其他任何东西都更重要，这对团队工作至关重要.  (...) 创造心理安全的行为——对话轮换和同理心——是我们作为个人在需要建立联系时经常求助的不成文规则的一部分.”
 
@@ -317,7 +317,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Adaptation vs adaptability](https://sci-hub.st/10.1016/s0303-2647%2801%2900170-8)  - 在完美效率和完全灵活之间存在一个范围. 本文探讨了生态系统以及生态系统内不同生物之间的物质和能量流动.  ([hinted by HN comment](https://news.ycombinator.com/item?id=20963513))
 
-- [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - If you still doubt management culture could make or break an industry: “inefficient management practices have kept southern European firms from taking full advantage of the IT revolution”.
+- [The IT revolution and southern Europe's two lost decades](https://voxeu.org/article/it-revolution-and-southern-europes-two-lost-decades) - 如果您仍然怀疑管理文化能否成就或破坏一个行业：“低效的管理实践使南欧公司无法充分利用 IT 革命”.
 
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) - “人们更聪明，你的经理（和他们的经理）非常关心你，而且很容易调动.”
 
@@ -383,7 +383,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 ### Brainstorming
 
-- [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...) - “A rule-of-thumb in improvisational comedy (…). It is also used in business and other organizations as a principle that improves the effectiveness of the brainstorming process, fosters effective communication, and encourages the free sharing of ideas.”
+- [Yes, and…](https://en.wikipedia.org/wiki/Yes,_and...)  - “即兴喜剧的经验法则 (...). 它也被用于商业和其他组织，作为提高头脑风暴过程的有效性、促进有效沟通和鼓励自由分享想法的原则.”
 
 - [Strong Opinions, Weakly Held — a framework for thinking](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)  - “让你的直觉引导你得出结论，无论多么不完美——这是‘强烈意见’部分. 然后——这是‘弱势’部分——证明你自己错了.”
 
@@ -395,7 +395,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Intellectual Humility Cheat Sheet](https://web.archive.org/web/20200526135036/https://images.squarespace-cdn.com/content/v1/53419b80e4b0cccdfc3bbcf8/1579371627532-SANUEQ1REPX09L8NE1XM/ke17ZwdGBToddI8pDm48kI9Q46LYBJG1wKj9b7EvhSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmWp-RWlGnWD_Yv5axNBE_gjfhPXbI2t7MOi3WVleCqN9URFC-c33mY-I6dtTBVWXC/ih-cheat-sheet-v2.jpg) - “是关于开放并能够改变你对重要事情的看法，并且能够在你应该的时候辨别出来.”
 
-- [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false) - Anticipating an important result so much, humans by nature are susceptible to introduce subtle confirmation bias. To combat IPL, you might introduce random unknowns to suppress any attempt to game the system toward the object of your desire. I.e. avoid to cheat yourself to success.
+- [Avoiding Intellectual Phase Lock](https://books.google.com/books?id=__CnDwAAQBAJ&lpg=PT21&dq=intellectual%20phase%20lock%20Frank%20Dunnington&pg=PT21#v=onepage&q=intellectual%20phase%20lock%20Frank%20Dunnington&f=false)  - 如此期待一个重要的结果，人类天生就容易引入微妙的确认偏差. 为了对抗 IPL，您可能会引入随机未知数来抑制任何试图将系统游戏到您想要的对象的尝试. 即避免欺骗自己获得成功.
 
 - [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 用于说服商业专业人士的 6 条普遍影响力原则：互惠、一致性、社会认同、让人们喜欢你、权威和稀缺性.
 
@@ -425,7 +425,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 ## Engineering
 
-你不再是工程师了. 尽管如此，您的团队仍要对系统、技术和围绕它们的所有流程负责. 你最好了解一点工程原则.
+你不再是工程师了. 尽管如此，您的团队仍要对系统、技术和围绕它们的所有流程负责. 你最好了解一点工程原理.
 
 ### The Technical Engineering Manager
 
@@ -593,7 +593,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Sustainable Sources of Competitive Advantage](https://www.collaborativefund.com/blog/sustainable-sources-of-competitive-advantage/)  - “比竞争对手学得更快的能力； 比竞争对手更能体谅客户； 比您的竞争对手更有效地沟通； 比竞争对手更愿意失败； 比你的竞争对手等待的时间更长”.
 
-- [Coglode: bite-size behavioral research analysis](https://www.coglode.com) - 主要应用行为洞察力来帮助您在产品、设计和规划方面建立战略和战术.
+- [Coglode: bite-size behavioral research analysis](https://www.coglode.com) - 主要应用行为洞察力来帮助您在产品、设计和规划方面建立战略和策略.
 
 - [“Why does the tire company rate restaurants”](https://mobile.twitter.com/trevmckendrick/status/1218748974321954816) - 一个很好的例子，说明为什么你应该调查互补业务.
 
@@ -605,7 +605,7 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Osborne effect](https://en.wikipedia.org/wiki/Osborne_effect)  - “客户取消或推迟对当前即将过时的产品的订单的社会现象是公司过早宣布未来产品的意外缺陷.” 这是为草率的营销行动付出的代价.
 
-- [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式的企业家，但仍然充满了参考书中关于客户关系、定价和产品营销的精彩引语.
+- [Reverse Engineering A Successful Lifestyle Business](https://web.archive.org/web/20230129184848/http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/) - 针对生活方式的企业家，但仍然充满了参考书中关于客户关系、定价和产品营销的精彩引述.
 
 - [The Atlassian Syndrome](https://twitter.com/maikzumstrull/status/1309497246946406400)  - 你的组织最终会选择 Atlassian 产品，因为“他们的商业模式是： 1. 从客户和潜在客户那里收集需求清单；  2. 确保他们的产品检查每一个该死的盒子，无论多么愚蠢.
 
@@ -671,6 +671,8 @@ By targeting the right place to post your job offer to, you're increasing your c
 
 - [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/)  - “关于当前系统的手绘图片是一种信念. 决策永远不应基于信念. 不在工程领域.  (...) 由于软件是高度上下文相关的，我们无法预测具体问题. 我们只能预测问题的类别.” 这就是为什么很难估计软件项目的原因：因为开发人员的主要活动是一个漫长的过程，即推导出系统所基于的假设.
 
+- [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) - “NASA 数据集包含 93 行（这不是错字，没有遗漏 10 的幂），COCOMO 63 行，Desharnais 81 行，以及（……）中国数据集包含 499 行.”
+
 ### Tickets
 
 - [There Are No Bugs, Just TODOs](https://almad.blog/essays/no-bugs-just-todos/)  - 问题跟踪器需要具体化所有权、队列位置、状态、任务分解和主动关闭. 优先级、票证类型、软件版本、严重性和长期票证是反模式.
@@ -684,6 +686,8 @@ By targeting the right place to post your job offer to, you're increasing your c
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - 这篇文章中有一张有趣的表格，介绍了公司的刻板印象、他们的融资模式、主要工程参与者和他们的核心方法.
 
 - [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)  - 因为专注于短期的 Scrum 流程“似乎适合特定类型的开发，最显着的是咨询或合同编程，其中客户在组织外部，因为他们为开发付费而主持节目，并且可以改变主意任何时候”. 尽管如此，谷歌工程师已经实践了一种类似于最初的 10 点敏捷宣言的文化. 但仅此而已.
+
+- [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - 据称故事点的发明者说他们可能是个错误.
 
 - [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) - 美国国防部指南，用于检测真正使用敏捷开发的软件项目与那些披着敏捷外衣的简单瀑布式或螺旋式开发（“agile-scrum-fall”）.
 
@@ -773,7 +777,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [The Baldwin Formula for scientific writing: writing papers and reviews](https://www.ice.mpg.de/ext/fileadmin/extranet/dept_itb/The_Baldwin_Formula_for_writing_a_scientific_paper_and_reviewing_papers.pdf) - “写科学论文最有效的方法是在你还在做实验的时候写作”.
 
-- [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full) - “着眼于读者如何消费信息，我们提出了一套 10 条简单规则，以帮助您理解论文的主要思想.”
+- [Ten simple rules for structuring papers](https://www.biorxiv.org/content/10.1101/088278v5.full.pdf) - “着眼于读者如何消费信息，我们提出了一套 10 条简单规则，以帮助您理解论文的主要思想.”
 
 - [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - 另一组技巧，特别是使用描述算法改进的技术论文示例.
 
@@ -801,7 +805,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication) - Microsoft 关于如何改进写作以使其更具包容性和多样性的指南.
 
-- [alex](https://github.com/get-alex/alex) - Whether your own or someone else's writing, alex helps you find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in text.
+- [alex](https://github.com/get-alex/alex) - 无论是您自己的还是其他人的作品，alex 都可以帮助您找到文本中的性别偏爱、两极分化、种族相关、宗教不体贴或其他不平等的措辞.
 
 - [BlaBlaMeter - Bullshit detection tool](http://www.blablameter.com/) - 生成文本废话内容的标准化指标.
 
@@ -911,7 +915,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [The Prince](https://en.wikipedia.org/wiki/The_Prince)  - 马基雅维利关于如何作为领导者积累荣誉和权力的想法. 在公司中诉诸这种级别的政治肯定会导致文化剧毒，并会腐蚀和打击各级组织的士气.
 
-- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
+- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - 基于*The Office* 的管理阶梯，愤世嫉俗、凄凉但仍然引人入胜.
 
 - [The 48 Laws of Power](https://www.amazon.com/dp/0140280197?&linkCode=ll1&tag=kevideld-20&linkId=bf129d7f7a3495a445cf2bf667d3d3c6&language=en_US&ref_=as_li_ss_tl)  ——罗伯特·格林. 可以教您如何掩饰自己的屁股并在高度政治化的组织中发挥作用.
 
@@ -925,7 +929,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) - 催促经理的策略，以及公司对这种经理的反应如何成就或毁掉一个好工作场所.
 
-- [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “想要培养高度真实的主管或组织氛围的组织有必要聘请在象征性道德认同方面较低（或至少不较高）的主管.”
+- [Making Nice or Faking Nice? Exploring Supervisors' Two-Faced Response to their Past Abusive Behavior](https://onlinelibrary.wiley.com.sci-hub.st/doi/10.1111/peps.12424) - “It behooves organizations that want to develop highly authentic supervisors or organizational climates to seek to hire supervisors that are lower (or at least not higher) on symbolized moral identity.”
 
  - “高层管理人员实际掌握的权力通常与其管理的组织规模成反比.”  （来源： [comment](https://news.ycombinator.com/item?id=20260498) 在 [Why large companies are so difficult to rescue](https://news.ycombinator.com/item?id=20260114)).
 
@@ -933,7 +937,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
  - “当你读到有关你应该拥有的功能的新闻时，你就知道你的游戏失败了.”  ([source](https://news.ycombinator.com/item?id=20220484) ). 一个团队在与公众同时了解其路线图的情况下，肯定会出现问题.
 
- - “在高度政治化的环境中，有两种方式可以创造变革，一种是通过公开操纵，即为自己收集政治权力，然后运用它来实施变革，另一种是隐蔽操纵，即巧妙地实施变革足以让政治有机体不做出反应.  （有时称为“触发抗体”）.  ([source](https://news.ycombinator.com/item?id=5541517)).
+ - “在一个高度政治化的环境中，有两种方法可以创造变化，一种是通过公开操纵，即为自己收集政治权力，然后运用它来实施改变，另一种是隐蔽操纵，即巧妙地实施改变足以让政治有机体不做出反应.  （有时称为“触发抗体”）.  ([source](https://news.ycombinator.com/item?id=5541517)).
 
 - [Power Bends Light](https://honkathon.com/2019-08-18-power-bends-light/)  - “大多数初创公司的大多数事情都在不断地火上浇油，但如果你能接受这一点，就会有很多值得喜欢的东西. 一个众所周知的例子是：在一家快速成长的初创公司，一个勤奋、有才华的人在公司领导层的支持下，通常可以很快获得一个令人印象深刻的头衔（或者至少是很多事实上的权力）.”
 
@@ -963,7 +967,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
  - “这是管理主义者的梦想. 用流程和管理方法取代员工的判断和能力.  （……）它永远行不通.”  ([source](https://news.ycombinator.com/item?id=20881308) ). 以及为什么上面的再培训答案是最好的.
 
-- [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “很少有人了解概率，而且大多数高管都不关心数据，不管它说的是什么.”
+- [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) - “Few folks understand probability, and most executives don't care about the data, regardless of what it says.”
 
 ### Company-level
 
@@ -973,7 +977,7 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/)  - “如果你知道你正在解决什么问题并且你知道如何解决它，那么官僚组织就可以了. 坚持你所知道的. 如果您正在编写软件，那是一种生成活动. 您需要一个高弹性的组织结构图. 更少的盒子，更多的灵活性.”
 
-- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重蹈重组的覆辙，我们开始研究一种结构，使重组能够像由团队而不是上级人员推动的反馈推动的进步一样运作.” 这是试图从根本上提取指向结构不当的信号. 我的警示故事：这可能只在一定程度上起作用，具体取决于公司的文化.
+- [An Alternative Approach to Re-Orgs At Your Company](https://caseyaccidental.com/alternative-approach-re-orgs/)  - “为了不重蹈重组错误的覆辙，我们开始研究一种结构，使重组能够像由团队而不是上级人员推动的反馈推动的进步一样运作.” 这是试图从根本上提取指向结构不当的信号. 我的警示故事：这可能只在一定程度上起作用，具体取决于公司的文化.
 
  - “当一切都取得巨大成功时，成功背后的人会影响未来可能取得成功的人.  (...) Netflix 是一个很好的例子，说明了如何正确地进行大的转变.  Netflix 从事邮寄 DVD 出租业务. 当决定转向流媒体时，Netflix CEO 不允许负责 DVD 租赁业务的经理参加计划未来的会议.”  ([source](https://news.ycombinator.com/item?id=21395557)).
 
@@ -1071,11 +1075,11 @@ KPI 是一组在团队或组织级别的量化度量，用于衡量业务的成�
 
 - [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8)  - Hideo Kojima 如何创造性地使用可玩的预告片作为绕过 NDA 的方式，并讲述他在 Konami 的动荡导致他离开公司的故事. 但这只有在您是有影响力且受欢迎的游戏设计师时才有效.
 
-- [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf)  - “今天有很多关于高管“中年危机”的讨论. 这主要是无聊. 大多数高管在 45 岁时就已经达到了他们商业生涯的顶峰并且知道这一点.” 在第五段，你会发现为什么知识工作者需要自我管理，并为他们的后半生做计划.
+- [Management Challenges for the 21st Century - Managing Oneself](http://academic.udayton.edu/lawrenceulrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf) - “There is a great deal of talk today about the "mid-life crisis" of the executive. It is mostly boredom. At age forty-five most executives have reached the peak of their business career and know it.” In paragraph Ⅴ, you'll find why knowledge workers needs to manage themselves, and plan for the second half of their life.
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/kdeldycke/awesome-engineering-team-management/blob/master/.github/contributing.md) 第一的.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-engineering-team-management/blob/master/.github/contributing.md) 第一的.
 
 ## Footnotes
 

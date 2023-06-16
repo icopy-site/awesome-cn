@@ -112,7 +112,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 ### Hybrid
 
-Uncommon pricing schemes.
+不常见的定价方案.
 
 - [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - 除了线性定价之外，定价结构中还有额外的平台费用和免费套餐.
 
@@ -176,7 +176,7 @@ Uncommon pricing schemes.
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - “全面介绍预测方法，并就每种方法提供足够的信息，以便读者能够明智地使用它们.”
 
-- [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) - 讨论优步如何在其财务规划平台中应用数据科学和机器学习.
+- [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://www.uber.com/blog/transforming-financial-forecasting-machine-learning/) - 讨论优步如何在其财务规划平台中应用数据科学和机器学习.
 
 - [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) （哪个 [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/))，似乎值得检查以在考虑季节性的同时实施成本预测工具.
 
@@ -234,7 +234,7 @@ Uncommon pricing schemes.
 
 ### Online Ads
 
-有针对性的在线广告市场与传统的云市场有很多共同之处. 那里有一些很好的灵感，从概念到技术.
+有针对性的在线广告市场与传统的云市场有很多共同点. 那里有一些很好的灵感，从概念到技术.
 
 - [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - 用于有针对性的在线广告的预算进度资源集合.
 
@@ -288,7 +288,7 @@ Uncommon pricing schemes.
 
 现在您已经对会计的概念和实践有所了解，这里有一些资源可以帮助您将这些知识应用到软件系统中.
 
-- [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html)  - 计费和会计系统背后的设计决策. 要点：一些公司仍然通过支票付款； 不要使用花车； 复杂的客户工作流程； 日期和时间问题； 可变数据.
+- [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
 
 - [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - 解释 Square 内部使用的依赖 Google Spanner 的复式记账系统的基本数据模型.
 
@@ -322,17 +322,21 @@ Uncommon pricing schemes.
 
 ## Contracts
 
-所有发票和付款条款和条件均由最终用户与服务提供商之间签订的合同具体化. 我们从中得出所有计费周期规则的来源.
+所有发票条款和条件均由最终用户与服务提供商之间签订的合同具体化. 这是我们得出所有计费周期规则的来源.
 
-- [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394)  - 一个设计糟糕的合同管理用例疏远了大企业客户. 见 [associated HN comments](https://news.ycombinator.com/item?id=27053246) 购买批量许可证.
+- [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394)  - 当合同、发票和付款不能协同工作时，您最终会疏远您的大企业客户. 查看相关的 HN 评论 [on bulk license purchase](https://news.ycombinator.com/item?id=27053246).
 
-- [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://www.cloudbakers.com/blog/cuds-vs.-commit-contracts-vs.-suds-in-google-cloud) - 解释 GCP 中各种类型的折扣和承诺之间的区别.
+- [Entitlements untangled: The modern way to software monetization](https://www.stigg.io/blog-posts/entitlements-untangled-the-modern-way-to-software-monetization)  - “权利的概念封装了各种产品变体（又名定价计划或套餐）下的功能访问设置，弥合了产品销售方式与变体行为方式之间的差距. 本质上，权利是一组权限，定义了客户（付费或非付费）可以使用您的软件应用程序做什么.”
 
-- [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113) - “对大宗采购实施 9-70% 的降价，我们发现对收入的影响非常小，无论是积极的还是消极的.”
+- [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://66degrees.com/blog/cloud-optimization/cuds-suds-commits-in-google-cloud/) - 解释 GCP 中各种类型的折扣和使用承诺之间的区别.
+
+- [Quantity discounts on a virtual good: The results of a massive pricing experiment](https://sci-hub.st/https://www.pnas.org/doi/pdf/10.1073/pnas.1510501113)  - “对大宗采购实施 9-70% 的降价，我们发现对收入的影响非常小，无论是积极的还是消极的.” 如果折扣是一种安慰剂并且在行业中仍然广泛使用，那么它们也许是一种吸引大客户的营销手段？
+
+ - “过去，我可以一次性付清，让 Google Ads 发挥作用，直到没有更多预算为止. 不再.”  - ([source](https://news.ycombinator.com/item?id=36325785) ) - Google Ads 用于实施上限实际值的概念. 一种带有滚动的每月预算，这是一种最佳的计费方案，可以减少给客户带来的意外. 在我看来，它一直是出售配额的一种方式.
 
 ## Coupons and Vouchers
 
-- [Raising Prices is Hard](https://www.backblaze.com/blog/raising-prices-is-hard/)  - Backblaze 对提高主要报价的价格进行了事后分析. 他们想创建一个基于信用系统的扩展程序. 这成为他们少数最高级工程师的全职工作，并导致了一个为期六个月的项目.
+- [Raising Prices is Hard](https://www.backblaze.com/blog/raising-prices-is-hard/) - Backblaze post-mortem on raising prices on their main offer. They wanted to create an extension program based on credit system. This became a full-time job for a handful of their most senior engineers, and resulted in a six month project.
 
 - [Details on Expiring DigitalOcean Credits](https://blog.digitalocean.com/details-on-expiring-digitalocean-credits/) - 您必须为贷项添加时间限制的原因：未使用的账户作为我们资产负债表上的负债.
 
@@ -378,7 +382,7 @@ Uncommon pricing schemes.
 
 <!--lint disable double-link-->
 
-- [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - 关于欧盟增值税共同制度的理事会指令 2006/112/EC 第 226 条第 4 节（发票内容）详细说明了欧盟发票上所需的信息.
+- [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - 关于增值税共同制度的理事会指令 2006/112/EC 第 226 条第 4 节（发票内容）详细说明了欧盟发票上所需的信息.
 
 <!--lint enable double-link-->
 
@@ -417,6 +421,8 @@ Uncommon pricing schemes.
 - [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - 大多数发票软件可以读写UBL文件（XML）进行数据传输.
 
 - [EU eInvoicing](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing) - 欧洲电子发票标准.
+
+- [GOBL](https://gobl.org) - JSON Schema、开源Go库、全球税务数据库、转换工具，一应俱全.
 
 ## Payments
 
@@ -478,7 +484,7 @@ Uncommon pricing schemes.
 
 通常的汇款服务.
 
-- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付界面. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
+- [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/)  - “在本文中，我们将了解印度的统一支付接口. 一项已有四年历史的支付计划，占印度数字支付的 40-45%.”
 
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/)  - 过去 20 年的支付 API 中出现问题的大量集合，现在仍然如此. 本文中暴露的任何未解决的问题最终都将成为赃款.
 
@@ -504,7 +510,7 @@ Uncommon pricing schemes.
 
 - [KYC and AML: beyond the acronyms](https://www.bitsaboutmoney.com/archive/kyc-and-aml-beyond-the-acronyms/) - KYC 是微妙和模糊的，因为它是一个降低风险的随机过程.
 
-- [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Papers sourced from several conferences on all sort of fraud: credit card, payment transactions, loans, customs inspections, money laundering networks, and more.
+- [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - 论文来自关于各种欺诈的多个会议：信用卡、支付交易、贷款、海关检查、洗钱网络等等.
 
 ### Cards
 

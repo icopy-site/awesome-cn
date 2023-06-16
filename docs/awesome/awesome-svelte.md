@@ -121,7 +121,7 @@ _表格和数据网格._
 
 - [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - Svelte 的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) - 允许排序和过滤的表实现.
-- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表格.
+- [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table)  - 具有 CRUD 功能的对象数组的不可知 Web 组件. 对列进行排序和调整大小. 每页多个表.
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - 带有分页器的 Svelte-generic-crud-table.
 
 ### Notification
@@ -240,6 +240,7 @@ _对于单页应用程序 (SPA) 等._
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte 客户端路由器是您在路由 SPA 时需要和想到的一切.
 - [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - 一个简单易用的 SPA 路由器，开发时考虑了页面转换.
 - [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - 另一个受 vue-router 启发的 Svelte 路由器.
+- [Elegua](https://github.com/howesteve/elegua) - 小巧（&lt; 180LoC）、快速、简单、全功能的 SPA 路由器
 
 ## Frameworks
 

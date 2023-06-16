@@ -202,7 +202,7 @@
 
 * [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯解释.
 
-* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5)]. A probabilistic perspective for interpreting Abductive Reasoning.
+* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 解释溯因推理的概率观点.
 
 * [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true) - ***人工智能实验与理论杂志***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=3803536062463585043&hl=en&as_sdt=0,5)].
 
@@ -233,7 +233,7 @@
 
 * [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***国际人机研究杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678&hl=en&as_sdt=2005&sciodt=0,5) ]. 双空间搜索的迭代版本（深度和宽度）.
 
-* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***认知心理学***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5) ]. 一项关于儿童具有基本科学思维能力的证据.
+* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***认知心理学***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5)]. A piece of evidence on children have basic scientific thinking skills.
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
@@ -443,14 +443,14 @@
 
 * [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
 
-* [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***心理学前沿***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
+* [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***Frontiers in Psychology***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
 
 
 #### AI Concept Representation
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大型语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022.通过 Fodor 的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会汇刊***，2022 年.通过 Fodor 的概念理论测试神经网络的概念表示.
 
 
 
@@ -647,7 +647,7 @@
 
 * [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***神经机器人学前沿***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353&hl=en&as_sdt=0,5)].
 
-* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
+* [Adapting Behavior via Intrinsic Reward: A Survey and Empirical Study](https://www.jair.org/index.php/jair/article/view/12087) - ***人工智能研究杂志***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5309595875334344707&hl=en&as_sdt=0,5)].
 
 * [Curiosity-driven Exploration by Self-supervised Prediction](https://proceedings.mlr.press/v70/pathak17a.html) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9379743003299559904&hl=en&as_sdt=0,5) ]. 关于好奇心作为内在动机的原始论文.
 
@@ -1020,7 +1020,7 @@
 
 * [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5) ]. 对 AutoRL 的全面回顾.
 
-* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)]. Chelsea Finn's original paper on Model-Agnostic Meta-Learning (MAML).
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878) ].  Chelsea Finn 关于模型无关元学习 (MAML) 的原始论文.
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 
@@ -1132,7 +1132,7 @@
 
 * [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
 
-* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
+* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***美国国家科学院院刊***，2021 年. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么每年在一个领域发表太多论文会导致停滞而不是进步. 
 
@@ -1231,11 +1231,11 @@
 
 * [Memory](https://plato.stanford.edu/entries/memory/) - ***柏拉图·斯坦福***.--&gt;
 
-<!-- * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM. -->
+<!-- * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/)  - ***柏拉图·斯坦福***.  ToM 上的计算哲学帐户.  --&gt;
 
 * [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763&hl=en&as_sdt=0,5) ]. 通过朴素效用演算框架理解社会互动的观点.
 
-* [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***认知科学趋势***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047&hl=en&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions. 
+* [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***认知科学趋势***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047&hl=en&as_sdt=0,5) ]. 通过由抽象结构化因果表示组成的计划来理解心理理论的观点，并支持从无数可能的行动中进行有效的搜索和选择. 
 
 
 * [Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf) - ***CogSci&#39;11***，2011 年. [[All Versions](https://scholar.google.com/scholar?cluster=7454981153033683025&hl=en&as_sdt=0,5)]. 
@@ -1463,6 +1463,8 @@
 * [Second-order and Higher-order Logic](https://plato.stanford.edu/entries/logic-higher-order/) - ***柏拉图·斯坦福***. 
 
 
+* [When and How to Develop Domain-Specific Languages](https://people.cs.ksu.edu/~schmidt/505f14/Lectures/WhenDSL.pdf) - ***ACM 计算调查***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027&hl=en&as_sdt=0,5) ]. 对 DSL 开发方法的回顾，这些方法确定了 DSL 开发的决策、分析、设计和实施阶段的模式.
+
 * [The Discovery of the Equator or Concept Driven Learning](https://www.ijcai.org/Proceedings/83-1/Papers/109.pdf) - ***IJCAI'83***, 1983. [[All Versions](https://scholar.google.com/scholar?cluster=15712225225140903169&hl=en&as_sdt=0,5) ]. 关于二阶元规则的原始论文.
 
 * [Towards combining inductive logic programming with Bayesian networks](https://link.springer.com/chapter/10.1007%2F3-540-44797-0_10) - ***ILP&#39;01***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=2904180673047700407&hl=en&as_sdt=0,5)].
@@ -1491,7 +1493,7 @@
 
 * [Turning 30: New Ideas in Inductive Logic Programming](https://www.ijcai.org/proceedings/2020/673) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17980870844719684257&hl=en&as_sdt=0,5)].
 
-* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***Journal of Artificial Intelligence Research***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5) ]. 对归纳逻辑编程 30 年的全面回顾.
+* [Inductive logic programming at 30: a new introduction](https://arxiv.org/abs/2008.07912) - ***人工智能研究杂志***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=317114056670544302&hl=en&as_sdt=0,5) ]. 对归纳逻辑编程 30 年的全面回顾.
 
 * [Learning programs by learning from failures](https://arxiv.org/pdf/2005.02259.pdf) - ***机器学习***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=6797200487935462023&hl=en&as_sdt=0,5)].
 
@@ -1541,7 +1543,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图·斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 随附在另一组 B 上，以防万一两个事物在 A 属性方面不同，而在 B 属性方面也不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，它是一种基于对话的逻辑和论证方法，植根于可以追溯到希腊古代辩证法的研究传统，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图·斯坦福***. 一种基于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其研究传统可以追溯到希腊古代的辩证法，当时问题是通过对话来解决的，在对话中，对立方通过问答来讨论一个论点.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图·斯坦福***. 
 
@@ -1675,7 +1677,7 @@
 
 * [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***自然通讯***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)].
 
-* [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***儿童发展***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)].
+* [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***Child Development***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)].
 
 * [Rethinking Executive Function and Its Development](https://journals.sagepub.com/doi/pdf/10.1177/1745691620904771) - ***心理科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=16570230278367237499&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -1686,7 +1688,7 @@
 
 * [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X) - ***数学心理学杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8036476579458645432&scipsc=)].
 
-* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***关于模式分析和机器智能的 IEEE 汇刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5) ]. 零样本学习的全面回顾.
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***关于模式分析和机器智能的 IEEE 汇刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5) ]. 对零样本学习的全面回顾.
 
 * [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM 计算调查***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464&hl=en&as_sdt=0,5)].
 
@@ -1735,7 +1737,7 @@
 
 * [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)  - ***维基百科***. 维基百科关于准确度和精确度之间的区别和权衡.
 
-* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***Annual Review of Psychology***, 1989. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)].
+* [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***心理学年度回顾***，1989 年. [[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475&hl=en&as_sdt=0,5)].
 
 * [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***心理评论***，1987 年. [[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446&hl=en&as_sdt=0,5) ]. 关于按组件识别理论的原始论文.
 

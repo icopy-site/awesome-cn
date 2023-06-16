@@ -52,6 +52,11 @@
 * [Userfront](https://userfront.com/) - 使用预建的后台仪表板进行简单的用户身份验证.
 * [WorkOS](https://workos.com/) - 企业 SSO 和更多开箱即用的企业功能.
 
+## Automation
+*通过 API 和 SDK 自动化工作流程.*
+* [n8n](http://n8n.io/) - 免费且源代码可用的公平代码许可工作流自动化工具.
+* [Trigger.dev](http://trigger.dev/) - 开源平台，可按计划或按需从 API 创建工作流程.
+
 ## CI/CD
 *持续集成/交付.*
 * [CircleCI](https://circleci.com/) - YML 来配置您的构建、并行作业、就业市场.
@@ -94,7 +99,7 @@
 * [Rookout](https://www.rookout.com)  - 通过基于云的调试器调试生产服务器. 支持 Java、.Net、Node.js、Python 和 Ruby.
 
 ## Deployment Hosting
-*帮助您部署应用程序/网站的产品.*
+*Products that help you deploy your app/website.*
 * [Adaptable](https://adaptable.io/) - 通过通用模板部署应用程序和数据库.
 * [Cyclic.sh](https://www.cyclic.sh/) - 全栈应用程序托管（包括 dynamo db 和 s3）.
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署并且不关心基础设施，适用于所有主要框架.
@@ -154,7 +159,7 @@
 
 ## Infrastructure as Code
 *声明您的基础设施并从中可重复地配置云基础设施.*
-* [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
+* [Pulumi](https://www.pulumi.com/) - 开发人员优先的 IaC，使用 Python、TypeScript、Go 和更多语言......
 * [Terraform](https://www.hashicorp.com/products/terraform) - DSL、开源和免费（付费解决方案增加了团队管理、策略即代码……）.
 
 ## Integrations
@@ -224,7 +229,7 @@
 
 ## Payments & Pricing
 *处理付款、信用卡处理和发票.*
-* [Braintree](https://www.braintreepayments.com/) - Paypal 对 API 优先付款的看法.
+* [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
 * [Increase](https://increase.com/) - 裸机银行 API.
 * [Paddle](https://paddle.com/) - 具有广泛地理支持的 SaaS 收入交付平台（与目前的 stripe 不同）.
 * [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
@@ -234,7 +239,7 @@
 ## Repo
 *存储库和工件管理.*
 * [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的包存储库.
-* [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
+* [Cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 
 ## Reports Generation
 *生成报告，主要是 PDF.*
@@ -247,7 +252,7 @@
 *不是通过预期的 API 从网站获取数据.*
 * [Apify](https://apify.com/) - 将网站变成 API.
 * [Crawlbase](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
-* [ScrapingANT](https://scrapingant.com/) - 用无头镀铬刮擦.
+* [ScrapingANT](https://scrapingant.com/) - 用无头铬刮擦.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不会被阻止.
 * [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取 API.
 

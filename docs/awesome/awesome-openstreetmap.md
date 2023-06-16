@@ -7,7 +7,7 @@
 
  OpenStreetMap 是一种开放地图，每天有数百万设备和用户在使用它. 任何人都可以免费编辑和使用它.
 
-This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated to improving OpenStreetMap.
+此列表包含出于创意目的使用 OpenStreetMap 数据的项目，以及致力于改进 OpenStreetMap 的项目.
 
 我们还有一个<a href="UNMAINTAINED.md">未维护的项目</a>列表. 如果您是开发人员，请考虑采用一个！
 
@@ -148,7 +148,8 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ### Map Games
 
 * [Back Of Your Hand](https://backofyourhand.com/)  - 一个网络地图游戏，通过让您在给定区域中找到一条街道来测试您的知识.  ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
-* [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper)  - GPS 游戏服务器，用于制作围绕探索现实世界的手机游戏.  ([Source Code](https://github.com/drakewill-CRL/PraxisMapper))
+* [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS 游戏服务器，用于制作围绕探索现实世界的手机游戏.
+* [Arnis](https://github.com/louis-e/arnis) - 使用 Python 从 Minecraft 中的现实生活中生成城市.
 
 ### Goal Tracking
 
@@ -184,7 +185,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ### Java
 
 * [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner)  - 开源多式联运旅行计划器.  ([Wiki](https://wiki.openstreetmap.org/wiki/OpenTripPlanner))
-* [GraphHopper](https://github.com/graphhopper/graphhopper)  - 使用 OpenStreetMap 的开源路线规划库和服务器.  ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
+* [GraphHopper](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
 * [OSM2World](http://osm2world.org)  - OSM2World 是一个转换器，可以从 OpenStreetMap 数据创建世界的三维模型. 它可以在服务器上用作独立工具，也可以用作 Java 程序中的库.  ([Source Code](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 
 ## Public APIs

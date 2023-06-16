@@ -137,7 +137,7 @@
 * [agar.io](https://agar.io/) - 目标是通过吃比玩家细胞小的琼脂和细胞来获得尽可能多的质量，同时避免吃比玩家细胞大的琼脂和细胞.
 * [paper-io](http://paper-io.com)  - 游戏的目标是控制 100% 的竞技场. 您将扮演一个不断移动的小方块，并有一个与您的方块颜色相对应的小起始区域.
 * [diep.io](https://diep.io/)  - Diepio 是一款你扮演坦克并射击东西的游戏. 射击形状以升级您的坦克，然后射击玩家以获得大量积分.
-* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但没有说出它是什么，而其他玩家必须识别它.
+* [skribbl.io](https://skribbl.io/) - 几个玩家连接到一个大厅，其中一个玩家得到一个词，他们需要画一个词，但不说是什么，而其他玩家必须识别它.
 * [surviv.io](https://surviv.io/)  - Surviv.io 是一款 2D 大逃杀游戏. 每场比赛你只有一个活人，没有重生.
 * [nitrome](https://www.nitrome.com/)  - 收集免费的像素艺术游戏. 新游戏不需要 Flash.
 * [Orion](https://orion.lukasbach.com/)  - 棋盘/益智游戏. 巧妙地组合袋中的方块以填满棋盘.
@@ -249,7 +249,7 @@
 * [CSS Matic](https://www.cssmatic.com/) - CSS 工具，快速生成渐变、边框半径、噪声纹理和框阴影，并获得相应的 CSS 或 SASS.
 * [Carbon](https://carbon.now.sh) - 创建和分享源代码的精美图片.
 * [jsonstore.io](https://www.jsonstore.io/)  - jsonstore.io 为小型项目提供免费、安全的基于 JSON 的 API 端点. 它支持常见类型的 HTTP 操作，如 POST、GET、PUT、DELETE 等.
-* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅输入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
+* [ObjGen](http://www.objgen.com/) - 当您使用基于文本的语法仅键入关键词、类型和属性时，此应用程序可帮助您实时生成代码（JSON、HTML 等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - 以人类可读的形式查看 json.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - 测试站点速度和 Core Web Vitals.
 
@@ -336,7 +336,7 @@
 * [AlarmDJ](https://alarmdj.com) - 在线闹钟，使用 MP3 文件和 YouTube 视频作为闹钟.
 * [Morsify](https://morsify.net) - 在线摩尔斯电码翻译器.
 * [Dub](https://dub.sh/) - 开源链接缩短器.
-
+* [3dHousePlanner](https://www.3dhouseplanner.com/) - 网络上的 3D 家居设计应用程序.
 -----
 
 ## License

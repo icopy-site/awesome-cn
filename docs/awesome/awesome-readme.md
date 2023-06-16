@@ -14,10 +14,10 @@
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme)  - 清楚地描述项目的作用.  GIF 演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示.  TOC 便于导航. 徽章. 进一步阅读的链接. 简单的安装说明.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme)  - 项目标志. 它是什么的极简主义描述. 项目的 GIF 演示. 主要特征. 如何安装指南. 学分.
-- [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标识. 简要说明. 所有功能解释. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
+- [amplication/amplication](https://github.com/amplication/amplication#readme)  - 清晰的项目标志. 简要说明. 所有功能解释. 清洁文档. 有用的链接（网站、文档、不和谐）. 贡献者名单及其照片和用户名.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme)  - 多个徽章. 干净的标志. 简单的安装说明. 清晰的项目概览并附有示意图.  GIF 演示. 广泛的代码示例.
 - [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - 带有简短显示可以实现的目标的项目徽标、用于轻松导航的目录、重要徽章、干净的安装指南以及显示如何使用该功能的多个代码片段.
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 带有解释图形的项目和用例描述. 使用多种工具和集成说明进行构建，参考创建第一个项目的指南. 例子. 项目标志. 多个徽章. 带有图形的标题.  TOC 便于导航.
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme)  - 标识. 多个信息和统计徽章. 带图片的贡献者和观星者列表.  TOC 和“返回顶部”链接，便于导航. 带有图形的标题. 主题隐藏/显示菜单. 项目描述和理念. 克隆和集成说明. 使用多种工具快速构建. 工具配置说明. 参考示例和演示项目. 参考用例. 对指南和 Wiki 页面的引用. 与徽章联系的链接. 带有徽章的链接可在社交网络中共享项目.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Markdown 功能丰富，布局现代，描述清晰，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  - 多个徽章. 干净的屏幕截图. 简单的安装说明.  TOC 便于导航. 好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  - 项目横幅. 徽章. 轻松导航.
@@ -36,7 +36,7 @@
 - [httpie/httpie](https://github.com/httpie/httpie#readme)  - 项目做什么的描述. 演示截图. 项目标志.  TOC 便于导航. 制作徽章. 快速简单的安装和使用部分. 包括示例部分.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme)  - 项目登陆页面. 清楚地描述项目的作用. 演示截图. 简单的安装和使用部分. 包括一个具有常见用途的示例部分和一个移动演示部分.
 - [iterative/dvc](https://github.com/iterative/dvc#readme)  - ReStructuredText 格式示例，与 PyPi 兼容. 徽标，自定义网站式菜单. 流畅的工作原理动画. 徽章. 不错的贡献部分与名人堂.
-- [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa#readme)  - 清晰的描述. 功能列表.  TOC 便于导航. 简单的安装说明. 使用代码示例. 带有 GIF 的项目样本和应用程序商店的链接. 文档和出版物. 清晰的开发/贡献规则.
+- [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
 - [karan/joe](https://github.com/karan/joe#readme)  - 项目标志. 清楚地描述项目的作用.  GIF 演示. 易于安装和使用部分.
 - [kopach/karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter#readme)  - 项目标志. 有用的徽章、清晰的自述文件和用于快速演示的屏幕截图. 简洁的目录.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme)  - 项目标志. 极简主义描述. 徽章.  GIF 演示. 关于该项目. 如何使用. 例子. 学分. 附加示例. 
@@ -52,7 +52,7 @@
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme)  - 项目标志.  GIF 演示. 使用艺术品. 使用代码示例.
 - [OliverOverend/gym-simplifiedtetris](https://github.com/OliverOverend/gym-simplifiedtetris#readme)  - GIF 演示. 项目的简短描述. 徽章. 目录. 安装和使用说明，以及可复制粘贴的注释和依赖项. 贡献文件. 提供的环境和代理概述.
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 多个徽章、项目徽标、屏幕截图、分步安装和升级说明、易于导航的目录.
-- [PostHog/posthog](https://github.com/PostHog/posthog#readme) - 定制部分图标、演示 GIF、部署按钮、贡献者的个人资料图像、简洁、清晰的结构、项目徽标.
+- [PostHog/posthog](https://github.com/PostHog/posthog#readme) - 定制部分图标、演示 GIF、部署按钮、贡献者个人资料图像、简洁、清晰的结构、项目徽标.
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme)  - 易于导航的目录. 清楚地介绍项目的作用. 回购中所有文件的完整列表及其功能. 使用部分. 干净简洁的桌子.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - 项目徽标、展示主要思想的漫画、徽章、带有代码片段的示例、演示项目、api 文档、编辑器配置.
 - [React Parallax Tilt](https://github.com/mkosir/react-parallax-tilt#readme)  - GIF 演示. 多个徽章. 功能列表. 带有代码示例的精彩现场演示. 易于遵循本地开发设置的说明.
@@ -127,7 +127,7 @@
 
 ## Contribute
 
-Contributions are always welcome!
+贡献总是受欢迎的！
 请阅读 [contribution guidelines](https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) 第一的.
 
 ## License

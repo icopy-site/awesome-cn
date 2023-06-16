@@ -64,7 +64,7 @@ Rust 代码和资源的精选列表.
 
 ### Cryptocurrencies
 
-* [artemis](https://github.com/paradigmxyz/artemis) - 一个简单、模块化和快速的框架，用于在 Rust 中编写 MEV 机器人.
+* [artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 * [beerus](https://github.com/keep-starknet-strange/beerus) - Beerus 是一个无需信任的 StarkNet 轻客户端， ⚡ 速度极快 ⚡ 并由 Rust 提供支持 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml)
 * [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) [[sv](https://crates.io/crates/sv)] — 用于处理比特币 SV 的 Rust 库.
 * [cairo](https://github.com/starkware-libs/cairo)  - Cairo 是第一个图灵完备的语言，用于为通用计算创建可证明的程序. 这也是母语 [StarkNet](https://www.starknet.io/)，一个使用 STARK 证明的 ZK-Rollup ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square&logo=github)
@@ -104,7 +104,7 @@ Rust 代码和资源的精选列表.
 * [Solana](https://github.com/solana-labs/solana) — 使用历史证明的极快、高度可扩展的区块链.
 * [Substrate](https://github.com/paritytech/substrate) — 用 Rust 编写的通用模块化区块链模板
 * [svm-rs](https://github.com/alloy-rs/svm-rs) - Solidity-编译器版本管理器.
-* [tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Tendermint 区块链数据结构和客户端的 Rust 实现
+* [tendermint-rs](https://github.com/informalsystems/tendermint-rs) - Rust implementation of Tendermint blockchain data structures and clients
 * [wagyu](https://github.com/AleoHQ/wagyu) [[wagyu](https://crates.io/crates/wagyu)] — 用于生成加密货币钱包的 Rust 库
 * [zcash](https://github.com/zcash/zcash) — Zcash 是“Zerocash”协议的一个实现.
 
@@ -176,6 +176,7 @@ Rust 代码和资源的精选列表.
 * [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium) — Ferium 是一个快速且功能丰富的 CLI 程序，用于从 Modrinth、CurseForge 和 GitHub Releases 下载和更新 Minecraft 模组，以及从 Modrinth 和 CurseForge 下载和更新模组包 ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 * [lifthrasiir/angolmois-rust](https://github.com/lifthrasiir/angolmois-rust) — 一款支持 BMS 格式的简约音乐视频游戏
 * [mara214/rsnake](https://github.com/mara214/rsnake) — 用 Rust 编写的 Snake.
+* [mtkennerly/ludusavi](https://github.com/mtkennerly/ludusavi) — PC 游戏存档备份工具 [![build badge](https://img.shields.io/github/actions/workflow/status/mtkennerly/ludusavi/main.yaml?logo=github)](https://github.com/mtkennerly/ludusavi/actions/workflows/main.yaml) [![crate](https://img.shields.io/crates/v/ludusavi?logo=rust)](https://crates.io/crates/ludusavi)
 * [ozkriff/zemeroth](https://github.com/ozkriff/zemeroth) — 一款小型 2D 回合制六角策略游戏
 * [rhex](https://github.com/dpc/rhex) — 六边形 ascii roguelike
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) — Rust 中的 roguelike 游戏
@@ -183,7 +184,7 @@ Rust 代码和资源的精选列表.
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) — 推箱子实现
 * [thetawavegame/thetawave-legacy](https://github.com/thetawavegame/thetawave-legacy) - 一款太空射击游戏，力求成为新游戏开发者首次贡献的切入点. ![build badge](https://github.com/thetawavegame/thetawave-legacy/actions/workflows/ci.yml/badge.svg?branch=master)
 * [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Rust 中的 Quake 地图渲染器
-* [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) - Single player typing test game written for the terminal
+* [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) - 为终端编写的单人打字测试游戏
 * [Veloren](https://gitlab.com/veloren/veloren) — 开放世界、开源多人体素 RPG 游戏，目前处于 alpha 开发阶段 [![build badge](https://gitlab.com/veloren/veloren/badges/master/pipeline.svg)](https://gitlab.com/veloren/veloren/-/pipelines)
 * [Zone of Control](https://github.com/ozkriff/zoc) — 一款回合制六角策略游戏
 
@@ -225,7 +226,7 @@ Rust 代码和资源的精选列表.
 
 ### Payments
 
-* [hyperswitch](https://github.com/juspay/hyperswitch) — An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
+* [hyperswitch](https://github.com/juspay/hyperswitch) — 一个开源支付协调器，可让您轻松连接多个支付处理器并路由支付流量，所有这些都通过单个 API 集成 ![GitHub last commit](https://img.shields.io/github/last-commit/juspay/hyperswitch?style=flat-square)
 
 ### Productivity
 
@@ -248,6 +249,7 @@ Rust 代码和资源的精选列表.
 * [cargo-crev](https://crates.io/crates/cargo-crev) - 用于货物 (Rust) 包管理器的加密可验证代码审查系统.
 * [cargo-deny](https://crates.io/crates/cargo-deny) - Cargo 插件可帮助您管理大型依赖关系图
 * [Cherrybomb](https://github.com/blst-security/cherrybomb) - 使用 CLI 工具停止完成一半的 API 规范，该工具通过验证 API 规范帮助您避免未定义的用户行为.
+* [cotp](https://github.com/replydev/cotp) - 具有导入功能的值得信赖的加密命令行 TOTP/HOTP 身份验证器应用程序.
 * [Inspektor](https://github.com/inspektor-dev/inspektor) - 用于执行访问策略的数据库协议感知代理
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) — 可编写脚本的网络身份验证破解程序
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) — 一个 TCP 连接劫持者，shijack 的 rust 重写
@@ -735,7 +737,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) 生锈的库
 * [oauth2](https://github.com/ramosbugs/oauth2-rs) — 可扩展的强类型 Rust OAuth2 客户端库
 * [oxide-auth](https://github.com/HeroicKatora/oxide-auth) — OAuth2 服务器库，与 actix 或其他前端结合使用，具有一组可配置和可插入的后端 [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流程的异步库
+* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流的异步库
 * [yup-oauth2](https://github.com/dermesser/yup-oauth2) — 提供设备、安装和服务帐户流的 oauth2 客户端实现
 
 ### Automotive
@@ -766,7 +768,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - 新的 AWS SDK for Rust
   * [rusoto/rusoto](https://github.com/rusoto/rusoto) —
 * 负载均衡器
-  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载平衡器.
+  * [Convey](https://github.com/bparli/convey) - 具有动态配置加载的第 4 层负载均衡器.
 * 多云
   * [Qovery/engine](https://github.com/Qovery/engine) - 抽象层库，只需几分钟即可在云提供商上轻松部署应用程序
 
@@ -874,7 +876,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – 支持 Rust 中的并行性和低级并发
 * [orium/archery](https://github.com/orium/archery) [[archery](https://crates.io/crates/archery)] — 从 `Rc`/`Arc` 指针类型中抽象出来的库. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
 * [Rayon](https://github.com/rayon-rs/rayon) – A data parallelism library for Rust
-* [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) – Rust 协程库
+* [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) – Rust 中的协程库
 * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) – Rust 的协程 I/O
 
 ### Configuration
@@ -1063,7 +1065,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 [[email](https://crates.io/keywords/email), [imap](https://crates.io/keywords/imap), [smtp](https://crates.io/keywords/smtp)]
 
 * [gsquire/sendgrid-rs](https://github.com/gsquire/sendgrid-rs) — SendGrid API 的非官方 Rust 库
-* [jdrouet/catapulte](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML](https://github.com/jdrouet/mrml) 模板.
+* [jdrouet/catapulte](https://github.com/jdrouet/catapulte) - 使用微服务发送电子邮件 [MRML](https://github.com/jdrouet/mrml) 模板.
 * [jdrouet/jolimail](https://github.com/jdrouet/jolimail) - 要构建的 Web 应用程序 [MRML](https://github.com/jdrouet/mrml) 模板.
 * [jdrouet/mrml](https://github.com/jdrouet/mrml) - 一个用于生成适用于任何邮件客户端的漂亮电子邮件模板的库.
 * [lettre/lettre](https://github.com/lettre/lettre) — Rust 的 SMTP 库 [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
@@ -1338,7 +1340,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * 蓝牙
   * [bluez/bluer](https://github.com/bluez/bluer) [[bluer](https://crates.io/crates/bluer)] — Rust 的官方 BlueZ 绑定. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
-* 合作社
+* CoAP
   * [Covertness/coap-rs](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) Rust 库.
 * 码头工人
   * [fussybeaver/bollard](https://github.com/fussybeaver/bollard) — Rust 中的 Docker 守护进程 API
