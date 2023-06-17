@@ -81,6 +81,7 @@
 * [nix-index](https://github.com/bennofs/nix-index) - 快速定位带有特定文件的 Nix 包.
 * [nix-init](https://github.com/nix-community/nix-init) - 通过散列预取、依赖关系推断、许可证检测等从 URL 生成 Nix 包.
 * [nix-melt](https://github.com/nix-community/nix-melt) - 类似游侠的 flake.lock 查看器.
+* [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - 在构建推导时生成有用图表和统计数据的工具.
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
 * [nurl](https://github.com/nix-community/nurl) - 从存储库 URL 生成 Nix 提取器调用.

@@ -24,7 +24,7 @@
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - 2ndQuadrant 的 PostgreSQL 备份和恢复管理器.
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - 用于 PostgreSQL 的高级 WAL 文件管理工具.
-* [pg\_probackup](https://github.com/postgrespro/pg_probackup) – pg\_arman 的一个分支，由@PostgresPro 改进，支持增量备份、从副本备份、多线程备份和恢复，以及没有存档命令的匿名备份.
+* [pg\_probackup](https://github.com/postgrespro/pg_probackup) – pg\_arman 的一个分支，由@PostgresPro 改进，支持增量备份、从副本备份、多线程备份和恢复，以及没有归档命令的匿名备份.
 * [pgBackRest](https://pgbackrest.org/)  - 可靠的 PostgreSQL 备份和恢复.
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back 是一个简单的备份脚本
 * [pghoard](https://github.com/aiven/pghoard) - 用于云对象存储（AWS S3、Azure、谷歌云、OpenStack Swift）的备份和恢复工具.
@@ -59,7 +59,7 @@
 * [SQL Tabs](http://www.sqltabs.com/) - 用 JS 编写的 PostgreSQL 跨平台桌面客户端.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - 用于 macOS（商业软件）的简单、强大的 PostgreSQL 管理器.
 * [temBoard](https://github.com/dalibo/temboard) - 基于 Web 的 PostgreSQL GUI 和监控.
-* [TablePlus](https://tableplus.com/)  - 让您编辑数据库和结构的本机应用程序. 确保高端安全性（商业软件）.
+* [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 跨平台数据库管理工具（免费/商业）
 * [DbGate](https://dbgate.org) - 最聪明的（无）SQL 数据库客户端
 
@@ -88,7 +88,7 @@
 * [Instrumental](https://github.com/Instrumental/instrumentald) - 实时性能监控，包括 [pre-made graphs](https://instrumentalapp.com/docs/instrumentald/postgresql#suggested-graphs) 为了便于设置（商业软件）
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Zabbix 的综合 PostgreSQL 监控模块.
 * [PMM](https://github.com/percona/pmm) - Percona 监控和管理 (PMM) 是一个免费的开源平台，用于监控和管理 PostgreSQL、MySQL 和 MongoDB.
-* [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
+* [Pome](https://github.com/rach/pome)  - Pome 代表 PostgreSQL 指标.  Pome 是一个 PostgreSQL 指标仪表板，用于跟踪数据库的健康状况.
 * [pgmetrics](https://pgmetrics.io/) - pgmetrics 是一个开源、零依赖、单一二进制工具，可以从正在运行的 PostgreSQL 服务器收集大量信息和统计数据，并以易于阅读的文本格式显示或将其导出为 JSON 和 CSV 以用于脚本.
 * [pg\_view](https://github.com/zalando/pg_view) - 显示全局系统统计信息、每个分区信息、内存统计信息和其他信息的开源命令行工具.
 * [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活且易于上手的 PostgreSQL 指标监控器专注于 Grafana 仪表板.
@@ -108,7 +108,7 @@
 * [pg\_shard](https://github.com/citusdata/pg_shard) - 扩展以扩展实时读取和写入.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - 将 CPU 密集型工作负载卸载到 GPU 的扩展.
 * [pgxn](https://pgxn.org/) PostgreSQL 扩展网络 - 许多开源 PostgreSQL 扩展的中央分发点
-* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
+* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - 一个 PostgreSQL 扩展，它在流上连续运行 SQL 查询，将结果增量存储在表中.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - 允许检查 plpgsql 源代码的扩展.
 * [PostGIS](http://postgis.net/) - PostgreSQL 的空间和地理对象.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres 绑定作为加密库 Themis 的扩展，在 PgSQL 端提供各种安全服务.
@@ -139,13 +139,13 @@
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy 从数据库生成实体关系 (ER) 图.
 * [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - 具有细粒度访问控制的 Postgres 上快速、即时的实时 GraphQL API，还可以触发数据库事件的 webhook.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - 从 YML 和 LDAP 同步角色和权限.
-* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd 的 MySQL 到 PostgreSQL 的转换脚本.
+* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [ora2pg](http://ora2pg.darold.net) - 用于将 Oracle 数据库模式导出到 PostgreSQL 兼容模式的 Perl 模块.
 * [pg\_activity](https://github.com/dalibo/pg_activity) - 用于 PostgreSQL 服务器活动监控的顶级应用程序.
 * [pg-formatter](https://github.com/gajus/pg-formatter) - 一个 PostgreSQL SQL 语法美化器 (Node.js).
 * [pganalyze](https://pganalyze.com) - PostgreSQL 性能监控（商业软件）.
 * [pgbadger](https://github.com/darold/pgbadger) - 快速 PostgreSQL 日志分析器.
-* [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
+* [PgBouncer](http://www.pgbouncer.org/) - PostgreSQL 的轻量级连接池.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - 为各种统计、管理任务、重新加载服务、查看日志文件和取消或终止数据库后端提供方便的接口.
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 从 MySQL 到 PostgreSQL 的实时副本，具有可选的类型覆盖迁移和迁移功能.
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - 将数据从 PostgreSQL 导出为不同的数据格式.
@@ -156,7 +156,7 @@
 * [pgloader](https://github.com/dimitri/pgloader) - 使用 COPY 流协议将数据加载到 PostgreSQL 中，并使用单独的线程来读取和写入数据.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - 可以部署到裸机、虚拟机或 Kubernetes 的 Postgres 指标收集和可视化.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池、复制、负载平衡和限制超出连接的中间件.
-* [pgsync](https://github.com/ankane/pgsync) - 将 PostgreSQL 数据同步到本地计算机的工具.
+* [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - 与 PostgreSQL 扩展网络交互的命令行工具
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - 为您的 PostgreSQL 数据库提取和提供指标的工具.
 * [PostgREST](https://github.com/PostgREST/postgrest) - 提供来自任何现有 PostgreSQL 数据库的完全 RESTful API.
@@ -204,6 +204,7 @@
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)  - 从免费到庞大的计划，由 PostgreSQL 专家操作. 不需要在 Heroku 上运行您的应用程序. 免费计划包括 10,000 行、20 个连接、最多两个备份，并支持 PostGIS.
 * [Render Managed PostgreSQL](https://render.com/docs/databases)  - 安全、可靠且完全不干涉的托管 PostgreSQL. 所有计划均包含静态加密、自动备份和可扩展的 SSD 存储.  256MB RAM 和 1GB 存储空间的计划起价为每月 7 美元（前 90 天免费）.
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/)  - 完全托管的 PostgreSQL 数据库，具有 HA、扩展和自动备份，托管在欧盟. 每月 10 欧元起.
+* [Neon](https://neon.tech)  - 完全托管的无服务器 PostgreSQL.  Neon 将存储和计算分开，以提供无服务器、分支、无底存储等现代开发人员功能.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/)  - 带有 citus 扩展的 Citus 官方图像. 基于官方 Postgres 容器.

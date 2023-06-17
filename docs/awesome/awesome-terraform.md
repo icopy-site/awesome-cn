@@ -5,7 +5,7 @@
 > [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 &gt; 你 [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform 使您能够安全且可预测地创建、更改和改进生产基础架构. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
+ Terraform 使您能够安全且可预测地创建、更改和改进生产基础设施. 它是一种开源工具，可将 API 编入声明性配置文件，这些文件可以在团队成员之间共享、作为代码处理、编辑、审查和版本控制.
 
 
 
@@ -363,6 +363,7 @@
 - [pyhcl](https://github.com/virtuald/pyhcl) - Python 中的 HCL 解析器
 - [python-hcl2](https://github.com/amplify-education/python-hcl2/) - Python 中的 HCL2 解析器
 - [rhcl](https://github.com/winebarrel/rhcl) - 纯 Ruby HCL 解析器
+- [nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl) - HCL 解析器插件 [Nushell](https://github.com/nushell/nushell)
 
 ## Boilerplates
 

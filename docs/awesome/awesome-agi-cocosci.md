@@ -422,7 +422,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -441,7 +441,7 @@
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
 
 * [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***Frontiers in Psychology***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
 
@@ -1427,6 +1427,8 @@
 
 * [Human-like property induction is a challenge for large language models](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci&#39;22***，2022 年. 
 
+* [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - 2023.
+
 
 #### Commonsense Knowledgebase
 
@@ -1527,7 +1529,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1688,7 +1690,7 @@
 
 * [Online learning of symbolic concepts](https://www.sciencedirect.com/science/article/abs/pii/S002224961730010X) - ***数学心理学杂志***，2017 年. [[All Versions](https://scholar.google.com/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8036476579458645432&scipsc=)].
 
-* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***关于模式分析和机器智能的 IEEE 汇刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5) ]. 对零样本学习的全面回顾.
+* [Zero-Shot Learning—A Comprehensive Evaluation of the Good, the Bad and the Ugly](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8413121) - ***关于模式分析和机器智能的 IEEE 汇刊***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=11909080239486864961&hl=en&as_sdt=0,5) ]. 零样本学习的全面回顾.
 
 * [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM 计算调查***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464&hl=en&as_sdt=0,5)].
 

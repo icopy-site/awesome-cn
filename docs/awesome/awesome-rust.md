@@ -64,7 +64,7 @@ Rust 代码和资源的精选列表.
 
 ### Cryptocurrencies
 
-* [artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
+* [artemis](https://github.com/paradigmxyz/artemis) - 一个简单、模块化和快速的框架，用于在 Rust 中编写 MEV 机器人.
 * [beerus](https://github.com/keep-starknet-strange/beerus) - Beerus 是一个无需信任的 StarkNet 轻客户端， ⚡ 速度极快 ⚡ 并由 Rust 提供支持 [![GitHub Workflow Status](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/beerus/actions/workflows/test.yml)
 * [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) [[sv](https://crates.io/crates/sv)] — 用于处理比特币 SV 的 Rust 库.
 * [cairo](https://github.com/starkware-libs/cairo)  - Cairo 是第一个图灵完备的语言，用于为通用计算创建可证明的程序. 这也是母语 [StarkNet](https://www.starknet.io/)，一个使用 STARK 证明的 ZK-Rollup ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square&logo=github)
@@ -234,6 +234,7 @@ Rust 代码和资源的精选列表.
 * [espanso](https://github.com/espanso/espanso) — 用 Rust 编写的跨平台文本扩展器[![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 * [eureka](https://crates.io/crates/eureka) — 无需离开终端即可输入和存储您的想法的 CLI 工具
 * [illacloud/illa](https://github.com/illacloud/illa) [[ILLA Cloud](https://www.illacloud.com/)] - 用 Rust 编写的低代码内部工具构建器.
+* [LLDAP](https://github.com/lldap/lldap) - 用于身份验证的简化 LDAP 界面.
 * [pier-cli/pier](https://github.com/pier-cli/pier) — 用于管理（添加、搜索元数据等）所有单行代码、脚本、工具和 CLI 的中央存储库
 
 ### Routing protocols
@@ -303,7 +304,7 @@ Rust 代码和资源的精选列表.
 * [nushell/nushell](https://github.com/nushell/nushell) - 一种新型外壳
 * [ogham/exa](https://github.com/ogham/exa) — 替代“ls”
 * [orhun/kmon](https://github.com/orhun/kmon) — Linux 内核管理器和活动监视器 ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
-* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代方案 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
+* [orhun/systeroid](https://github.com/orhun/systeroid) — 具有终端用户界面的 sysctl(8) 更强大的替代品 ![https://github.com/orhun/systeroid/actions](https://img.shields.io/github/workflow/status/orhun/systeroid/Continuous%20Integration/main?label=build)
 * [ouch](https://github.com/ouch-org/ouch) - 命令行无痛压缩和解压缩 [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3 和 CLI 实用程序，用于并行刷新多个 USB 设备
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) — 带有 CLI 工具的 Linux 电源管理守护进程（DBus 接口）.
@@ -457,7 +458,7 @@ Rust 代码和资源的精选列表.
   * [cargo-make](https://crates.io/crates/cargo-make) — Rust 任务运行器和构建工具. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions)
   * [cargo-modules](https://crates.io/crates/cargo-modules) — 一个 cargo 插件，用于显示板条箱模块的树状概览.
   * [cargo-multi](https://crates.io/crates/cargo-multi) — 在多个 crate 上运行指定的 cargo 命令
-  * [cargo-outdated](https://crates.io/crates/cargo-outdated) — 在新版本的 Rust 依赖项可用或已过时时显示
+  * [cargo-outdated](https://crates.io/crates/cargo-outdated) — displays when newer versions of Rust dependencies are available, or out of date
   * [cargo-rdme](https://github.com/orium/cargo-rdme) [[cargo-rdme](https://crates.io/crates/cargo-rdme)] — Cargo 子命令，用于从您的 crate 文档创建您的 README. [![build badge](https://github.com/orium/cargo-rdme/workflows/CI/badge.svg)](https://github.com/orium/cargo-rdme/actions?query=workflow%3ACI)
   * [cargo-release](https://crates.io/crates/cargo-release) — 用于发布 git 管理的货物项目、构建、标记、发布、文档和推送的工具 [![Rust](https://github.com/crate-ci/cargo-release/actions/workflows/ci.yml/badge.svg)](https://github.com/crate-ci/cargo-release/actions/workflows/rust.yml)
   * [cargo-script](https://crates.io/crates/cargo-script) — 让人们快速轻松地运行可以利用 Cargo 包生态系统的 Rust “脚本”
@@ -470,7 +471,7 @@ Rust 代码和资源的精选列表.
   * [SiegeLord/RustCMake](https://github.com/SiegeLord/RustCMake) — 一个示例项目，显示 CMake 与 Rust 的用法
 * [Fleet](https://github.com/dimensionhq/fleet) [[fleet-rs](https://crates.io/crates/fleet-rs)] - Rust 的快速构建工具.
 * Github actions
-  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 行动
+  * [icepuma/rust-action](https://github.com/icepuma/rust-action) — 生锈 github 动作
   * [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook 的 GitHub 操作
 * [Nix](https://nixos.org/)
   * [nix-community/fenix](https://github.com/nix-community/fenix) — 用于 nix 的 Rust 工具链和 Rust 分析器 [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
@@ -585,7 +586,7 @@ Rust 代码和资源的精选列表.
   * [Ride](https://github.com/madeso/ride) —
   * [Sublime Text](https://www.sublimetext.com/)
     * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) — 官方 Rust 包
-  * [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
+  * [Vim](https://vim.sourceforge.io/) — 无处不在的文本编辑器
     * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) 客户. 用 Rust 实现并支持开箱即用的 rls.
     * [crates.nvim](https://github.com/Saecki/crates.nvim) - 有助于管理 crates.io 依赖项的插件.
     * [rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) - 使用 neovim 的内置 lsp 更好地开发 Rust 的工具
@@ -674,7 +675,7 @@ Rust 代码和资源的精选列表.
 * [innoave/genevo](https://github.com/innoave/genevo) — 以可定制和可扩展的方式执行遗传算法 (GA) 模拟.
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust 中的遗传算法库. 处于维护模式.
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  — 快速、并行、可扩展和适应性强的遗传算法库. 使用此库的示例仅在几秒钟内解决了 N = 255 的 N Queens 问题，并且使用了不到 1 MB 的 RAM.
-* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够针对有监督、无监督和强化学习问题发展解决方案. 带有 NEAT 和 Evtree 的完整和可定制的实现.![Crates.io](https://img.shields.io/crates/v/radiate)
+* [pkalivas/radiate](https://github.com/pkalivas/radiate)  — 一个可定制的并行遗传编程引擎，能够为有监督、无监督和强化学习问题发展解决方案. 带有 NEAT 和 Evtree 的完整和可定制的实现.![Crates.io](https://img.shields.io/crates/v/radiate)
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — Rust 的进化算法
 
 #### Machine learning
@@ -737,7 +738,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) 生锈的库
 * [oauth2](https://github.com/ramosbugs/oauth2-rs) — 可扩展的强类型 Rust OAuth2 客户端库
 * [oxide-auth](https://github.com/HeroicKatora/oxide-auth) — OAuth2 服务器库，与 actix 或其他前端结合使用，具有一组可配置和可插入的后端 [![Build Status](https://api.cirrus-ci.com/github/HeroicKatora/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
-* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流的异步库
+* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) — 用于管理和编排 JWT 工作流程的异步库
 * [yup-oauth2](https://github.com/dermesser/yup-oauth2) — 提供设备、安装和服务帐户流的 oauth2 客户端实现
 
 ### Automotive
@@ -875,7 +876,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) – 支持 Rust 中的并行性和低级并发
 * [orium/archery](https://github.com/orium/archery) [[archery](https://crates.io/crates/archery)] — 从 `Rc`/`Arc` 指针类型中抽象出来的库. [![build badge](https://github.com/orium/archery/workflows/CI/badge.svg)](https://github.com/orium/archery/actions?query=workflow%3ACI)
-* [Rayon](https://github.com/rayon-rs/rayon) – A data parallelism library for Rust
+* [Rayon](https://github.com/rayon-rs/rayon) – Rust 的数据并行库
 * [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) – Rust 中的协程库
 * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) – Rust 的协程 I/O
 
@@ -1069,6 +1070,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [jdrouet/jolimail](https://github.com/jdrouet/jolimail) - 要构建的 Web 应用程序 [MRML](https://github.com/jdrouet/mrml) 模板.
 * [jdrouet/mrml](https://github.com/jdrouet/mrml) - 一个用于生成适用于任何邮件客户端的漂亮电子邮件模板的库.
 * [lettre/lettre](https://github.com/lettre/lettre) — Rust 的 SMTP 库 [![CI](https://github.com/lettre/lettre/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lettre/lettre/actions/workflows/test.yml)
+* [mailtutan/mailtutan](https://github.com/mailtutan/mailtutan) 用于测试和开发环境的 SMTP 服务器.
 * [staktrace/mailparse](https://github.com/staktrace/mailparse) [[mailparse](https://crates.io/crates/mailparse)] — 用于解析真实世界电子邮件文件的库
 * [stalwartlabs/mail-auth](https://github.com/stalwartlabs/mail-auth) [[mail-auth](https://crates.io/crates/mail-auth)] - DKIM、ARC、SPF 和 DMARC 消息认证库 [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 * [stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser) [[mail-parser](https://crates.io/crates/mail-parser)] - 一个快速而强大的电子邮件解析库，具有完整的 MIME 支持 [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)
@@ -1255,7 +1257,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [servo/core-foundation-rs](https://github.com/servo/core-foundation-rs) —
 * [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) - 一个可移植的、高性能的、符合人体工程学的框架，用于在 Rust 中构建跨平台用户界面. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
 * [emilk/egui](https://github.com/emilk/egui)  - 用于 Rust 的简单、快速和高度可移植的即时模式 GUI 库.  egui 在 Web 上本地运行，并在您最喜欢的游戏引擎中运行. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
-* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型设计
+* [emoon/rust_minifb](https://github.com/emoon/rust_minifb)  — minifb 是一个跨平台的窗口设置，带有可选的位图渲染. 它还带有简单的鼠标和键盘输入. 主要用于原型制作
 * [FLTK](https://www.fltk.org/)
   * [fltk-rs](https://github.com/fltk-rs/fltk-rs) — FLTK Rust 绑定 [![Build](https://github.com/fltk-rs/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/fltk-rs/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)
@@ -1285,7 +1287,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) — [nativefiledialog](https://github.com/mlabbe/nativefiledialog) 绑定
 * [Sciter](https://sciter.com/)
   * [sciter-sdk/rust-sciter](https://github.com/sciter-sdk/rust-sciter) — Sciter 绑定 [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
-* [slint-ui/slint](https://github.com/slint-ui/slint) [[slint](https://crates.io/crates/slint)] — [Slint](https://slint-ui.com) 是一个工具包，可以有效地为嵌入式设备和桌面应用程序开发流畅的图形用户界面. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
+* [slint-ui/slint](https://github.com/slint-ui/slint) [slint](https://crates.io/crates/slint) — [Slint](https://slint.dev/) 是一个工具包，可以有效地为嵌入式设备和桌面应用程序开发流畅的图形用户界面. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 * [tauri-apps/tauri](https://github.com/tauri-apps/tauri) — 使用 Web 前端构建更小、更快、更安全的桌面应用程序，由 [WRY](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 * [tauri-apps/wry](https://github.com/tauri-apps/wry) - Webview 渲染库.
 * [xilem](https://github.com/linebender/xilem) — 数据优先 Rust-native UI 设计工具包的继任者 [druid](https://github.com/linebender/druid).
@@ -1372,7 +1374,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 *吴
   * [neachdainn/nng-rs](https://gitlab.com/neachdainn/nng-rs) [[Nng](https://crates.io/crates/nng)] — [Nng (nanomsg v2)](https://nng.nanomsg.org/index.html) 绑定 [![build badge](https://gitlab.com/neachdainn/nng-rs/badges/master/pipeline.svg)](https://gitlab.com/neachdainn/nng-rs/-/pipelines)
 * NNTP
-  * [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp) [[nntp](https://crates.io/crates/nntp)] - 一个 [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) Rust 客户端
+  * [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp) [[nntp](https://crates.io/crates/nntp)] — an [NNTP](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol) Rust 客户端
 * 点对点
   * [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) — libp2p 网络堆栈的 Rust 实现. [![Circle CI](https://circleci.com/gh/libp2p/rust-libp2p.svg?style=svg)](https://app.circleci.com/pipelines/github/libp2p/rust-libp2p)
 * POP3
@@ -1496,7 +1498,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 * [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) [[fancy-regex](https://crates.io/crates/fancy-regex)] - 正则表达式实现旨在支持一组相对丰富的功能，例如环视和回溯. [![crates](https://img.shields.io/crates/v/fancy-regex.svg)](https://crates.io/crates/fancy-regex) [![build badge](https://github.com/fancy-regex/fancy-regex/workflows/ci/badge.svg)](https://github.com/fancy-regex/fancy-regex/actions/workflows/ci.yml)
 * [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) — 基于三元组的自然语言检测库
 * [Lucretiel/joinery](https://github.com/Lucretiel/joinery) [[joinery](https://crates.io/crates/joinery)] – 通用字符串 + 可迭代连接
-* [mgeisler/textwrap](https://github.com/mgeisler/textwrap) [[textwrap](https://crates.io/crates/textwrap)] — 自动换行文本（支持断字）
+* [mgeisler/textwrap](https://github.com/mgeisler/textwrap) [[textwrap](https://crates.io/crates/textwrap)] — Word wrap text (with support for hyphenation)
 * [null8626/decancer](https://github.com/null8626/decancer) [[decancer](https://crates.io/crates/decancer)] — 一个小包，可以从字符串中删除常见的 unicode 混淆/同形文字. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 * [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) — 允许在大文件行中向前、向后和随机导航而不使用迭代器的阅读器
 * [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams) [[ngrams](https://crates.io/crates/ngrams)] — 构建 [n-grams](https://en.wikipedia.org/wiki/N-gram) 来自任意迭代器

@@ -177,7 +177,7 @@
 
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/)  - Microsoft Azure 是一组不断扩展的云服务，可帮助您构建、管理和部署应用程序. 通过学习云计算技能来提升你的想法，并使用你的免费 Azure for Students 帐户获得 100 美元的信用——不需要信用卡.
 
-* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [免费] - Kaltura VPaaS 简化了在全球范围内构建智能、交互式 VOD、直播和实时视频体验和应用程序.当您还是学生时，每年可获得 1 万美元的 Kaltura VPaaS 学分.
+* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
 
 * [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，支持多种开箱即用的语言和 Docker 支持. 每个人 100 美元的免费积分 + 学生计划每年 1000 美元的免费积分（询问 support@flashdrive.io）
 
@@ -189,7 +189,7 @@
 
 * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费] - 强大的 API，使您能够毫不费力地发送、接收和跟踪电子邮件.每月 20,000 封免费电子邮件和 100 次免费电子邮件验证，最多 12 个月，可通过以下方式获得 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Testmail.app](https://testmail.app/github-students)  [免费] - 获取无限的电子邮件地址和邮箱，以便使用我们强大的 API 自动进行电子邮件测试. 在您还是学生期间免费使用 Essential 计划.
+* [Testmail.app](https://testmail.app/github-students)  [免费] - 获取无限的电子邮件地址和邮箱，以使用我们强大的 API 自动进行电子邮件测试. 在您还是学生期间免费使用 Essential 计划.
 
 
 ## CI / CD
@@ -257,7 +257,7 @@
 
   * [NameCheap](https://nc.me)  [免费/折扣] - 在 .me TLD 上注册一年域名，在 .io、.tech、.com 和 .website 上注册可享受大幅折扣. 包括可选的一年免费托管 Ghost 博客平台或 Exposure 照片网站.
 
-* [.tech](https://get.tech/students) [折扣] - 在 .tech TLD 上注册一年只需 0.99 美元，推荐人可免费续订.
+* [.tech](https://get.tech/students) [折扣] - 在 .tech TLD 上注册一年只需 0.99 美元，推荐免费续订.
 
 * [name.com](https://www.name.com/partner/github-students) [免费] - 域名、虚拟主机和网站. 一个免费域名和免费高级安全（SSL、隐私保护等）通过 [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -293,7 +293,7 @@
 
 * [Framer](https://www.framer.com/pricing/)  [折扣] - 原型制作工具. 获得教育许可证时可享受 50% 的折扣.
 
-* [Vaadin](https://vaadin.com/student-program) [FREE] - Best open source Java framework for building Progressive Web Applications.Free Pro subscription license to access the commercial components and tools via [Github Student Developer Pack](https://education.github.com/pack).
+* [Vaadin](https://vaadin.com/student-program) [免费] - 用于构建渐进式 Web 应用程序的最佳开源 Java 框架.免费 Pro 订阅许可证可通过以下方式访问商业组件和工具 [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## Visual Analytics
@@ -369,6 +369,8 @@
 * [Figure Eight](https://www.figure-eight.com/) [免费] - CrowdFlower 现在是图八.图八是数据科学和机器学习团队必不可少的 Human-in-the-Loop AI 平台.
 
 * [Exploratory](https://exploratory.io/) [免费] - Exploratory 的简单 UI 体验使任何人都可以使用数据科学中最新和最先进的创新来发现深刻的见解.学生注册可用于定价.
+
+* [Github Student Developer Pack](https://education.github.com/pack/)  [免费] - GitHub 学生开发包是一组可供学生免费使用的工具和资源. 它包括对各种开发人员工具、云服务和学习资源的访问.
 
 
 ## Learning Resources
