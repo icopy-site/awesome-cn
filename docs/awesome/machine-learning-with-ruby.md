@@ -251,6 +251,9 @@ the word using the `#RubyML` hash tag!
 
 ## Articles, Posts, Talks, and Presentations
 
+- 2022
+  -_在 Ruby 中发现机器学习_作者： [Justin Bowen](https://twitter.com/TonsOfFun111)
+   <sup>[[video](https://www.youtube.com/watch?v=HPbizNgcyFk)]</sup>
 - 2019
   - _TensorStream：将机器学习引入 Ruby_，作者： [Joseph Emmanuel Dayo](https://www.linkedin.com/in/jdayo/)
     <sup>[[post](https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d)]</sup>

@@ -48,7 +48,7 @@
 ### Entry Point
 - [learn](https://learn.adacore.com/) - 旨在教授 Ada 和 SPARK 编程语言的交互式学习平台.
 - [ada-lang-io](https://ada-lang.io) - Ada 的社区站点.
-- [celebrating-ada](https://www.celebratingada.com/) - Ada历史关键时刻.
+- [celebrating-ada](https://www.celebratingada.com/) - 阿达历史关键时刻.
 - [ada-logo-editor](https://ada-lang-io.github.io/ada-logo-editor/) - “Ada horizo​​n”标志制作网站.
 
 ### Tutorials
@@ -259,7 +259,7 @@
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw.on.drv.tw/AdaStudio/qt6ada/qt6ada.html) - Ada-2012 端口到 Qt 6 框架.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 端口到 VTK 8.1（可视化工具包）.
 - [fltk-ada](http://jedbarber.id.au/fltkada.xhtml) - Ada-2012 绑定到 FLTK（快光工具包）.
-- [ada-gui](https://github.com/jrcarter/Ada_GUI)  - GUI 在它自己的任务上实现，所以它不需要它的客户端放弃控制线程. 源自[gnoga].
+- [ada-gui](https://github.com/jrcarter/Ada_GUI)  - GUI 在它自己的任务上实现，所以它不需要它的客户端放弃控制线程. 源自 [gnoga].
 - [adawebui](https://github.com/godunko/adawebui) - 基于 [adawebpack] 的 GUI.
 
 [诺加]：https://sourceforge.net/projects/noga/
@@ -420,7 +420,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/)  - Libadalang 是一个用于 Ada 代码解析和语义分析的库. 它意味着作为集成到其他工具（IDE、静态分析器等）中的构建块.
-- [aflex-ayacc](http://thiberlog.free.fr/) - Ada95 扫描器和解析器生成器.
+- [aflex-ayacc](https://blog.vacs.fr/vacs/blogs/post.html?post=2021/12/18/Aflex-1.5-and-Ayacc-1.3.0) - Ada 扫描器和解析器生成器.
 - [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - WisiToken 是 LALR、LR1 和 Packrat 解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - Ada 代码分析器.
 - [anagram](https://github.com/reznikmm/anagram) - 语法处理和解析器生成 Ada 库.

@@ -1203,6 +1203,8 @@
 
 * [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900&hl=en&as_sdt=0,10)].
 
+* [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***自然***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824&hl=en&as_sdt=0,5)].
+
 * [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***公共科学图书馆医学***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908&hl=en&as_sdt=0,10)].
 
 

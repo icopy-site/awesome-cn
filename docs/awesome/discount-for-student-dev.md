@@ -177,7 +177,7 @@
 
 * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/)  - Microsoft Azure 是一组不断扩展的云服务，可帮助您构建、管理和部署应用程序. 通过学习云计算技能来提升你的想法，并使用你的免费 Azure for Students 帐户获得 100 美元的信用——不需要信用卡.
 
-* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [FREE] - Kaltura VPaaS simplifies building smart, interactive VOD, Live and real-time video experiences and apps at global scale.$10K/year in Kaltura VPaaS credits while you are a student.
+* [Kaltura](https://developer.kaltura.com/github-student-developer-pack) [免费] - Kaltura VPaaS 简化了在全球范围内构建智能、交互式 VOD、直播和实时视频体验和应用程序.当您还是学生时，每年可获得 1 万美元的 Kaltura VPaaS 学分.
 
 * [FlashDrive.io](https://flashdrive.io)  - 直接从 Git 部署任何代码，支持多种开箱即用的语言和 Docker 支持. 每个人 100 美元的免费积分 + 学生计划每年 1000 美元的免费积分（询问 support@flashdrive.io）
 
@@ -217,7 +217,7 @@
 
 * [SQLSmash](https://student.sqlsmash.com/) [免费] - SQL Server Management Studio 的生产力插件，用于编写可维护的 SQL 脚本和更快的导航.学生的免费标准许可.
 
-* [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
+* [PushBots](https://pushbots.com/for/education/)  [免费] - 通过推送通知吸引您的移动和网络应用程序用户的最简单方法. 免费高级帐户 6 个月.
 
 * [EverSQL](https://www.eversql.com/github-students/) [免费] - 通过自动优化您的 SQL 查询来提高您的数据库性能.免费订阅基本计划 6 个月
 
@@ -372,7 +372,6 @@
 
 * [Github Student Developer Pack](https://education.github.com/pack/)  [免费] - GitHub 学生开发包是一组可供学生免费使用的工具和资源. 它包括对各种开发人员工具、云服务和学习资源的访问.
 
-
 ## Learning Resources
 
 * [Association of Computing Machinery with Digital Library](https://www.acm.org) [折扣] - 通常访问 ACM 及其数字图书馆的费用为每年 198 美元，但是，当前的 IT 和计算机科学专业的学生每年只需 42 美元即可获得访问权限.
@@ -383,7 +382,7 @@
 
 * [GO RAILS](https://gorails.com/github-students)  [免费] - Web 开发人员学习 Ruby、Rails、Javascript、Turbolinks、Stimulus.js、Vue.js 等的教程.  12 个月内免费访问所有视频和课程.
 
-* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [免费] - 学习 Web 开发基础知识以启动您作为开发人员的职业生涯.1 个月访问 Web 开发课程.
+* [Thinkful](https://www.thinkful.com/getstarted/software-engineering/intro-course/) [FREE] - Learn Fundamentals of Web Development to launch your career as a developer.1 month of access to a web development course.
 
 * [SymfonyCasts](https://symfonycasts.com/github-student)  [免费] - 通过视频教程和代码挑战掌握 Symfony 和 PHP. 学生可免费订阅 3 个月. 
 
@@ -406,6 +405,8 @@
 * [Drovio](https://www.drovio.com/github-students/)  [免费] - 远程结对编程和团队协作工具. 学生期间免费标准订阅，每 6 个月续订一次.
 
 * [Github Campus Experts](https://apply.githubcampus.expert/) [免费] - GitHub Campus 专家是在 GitHub 的培训和支持下在校园内建立技术社区的学生.在学生期间申请成为该计划的一部分.
+
+* [Scrimba](https://apply.githubcampus.expert/)  [免费] - 通过交互式课程、项目和挑战提升您的编码技能. 学习 JavaScript、CSS、React、Python 等. 享受 1 个月的免费访问权限，以完全访问 Scrimba 的 Pro 课程、项目和编码挑战，其中包括 40 多门课程，可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ##  Data science
 
