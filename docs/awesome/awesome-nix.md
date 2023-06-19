@@ -19,7 +19,7 @@
 * [Nix Notes](https://github.com/noteed/nix-notes) - 关于 Nix 的一系列简短说明，每个说明都对同一个虚拟机映像有贡献.
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - 最好的学习方式，有例子.
 * [Nix Shorts](https://github.com/alper/nix-shorts) - 一系列关于如何使用 Nix 的简短说明，已针对 Nix Flakes 进行更新.
-* [nix.dev](https://nix.dev/) - 针对开发人员使用 Nix 生态系统完成工作的自以为是的指南.
+* [nix.dev](https://nix.dev/) - 为开发人员提供的关于使用 Nix 生态系统完成工作的自以为是的指南.
 * [Tour of Nix](https://nixcloud.io/tour) - 关于 Nix 语言结构的在线交互式教程.
 * [Zero to Nix](https://zero-to-nix.com/) - 以 flake 为中心的 Nix 指南及其由 Determinate Systems 创建的概念，旨在帮助初学者快速上手.
 
@@ -43,6 +43,7 @@
 * [Channel History](https://channels.nix.gsc.io) - 获取 Nix 频道的历史 git 提交.
 * [Nix Infra Status](https://status.nixos.org) - 获取每个 Nix 频道的年龄和当前 git 提交.
 * [Nix Review Tools Reports](https://malob.github.io/nix-review-tools-reports/) - 显示主要 Hydra 作业集的问题依赖项（导致构建失败最多的依赖项）的报告.
+* [Nixpkgs Bot](https://git.maralorn.de/nixos-config/tree/packages/nixpkgs-bot) - 用于跟踪 Nixpkgs 拉取请求何时到达相关分支的 Matrix 机器人.
 * [nixpkgs PR tracker](https://nixpk.gs/pr-tracker.html) - 一个 PR 是否已经进入频道的跟踪器.
 
 ## Deployment Tools
@@ -82,8 +83,8 @@
 * [nix-init](https://github.com/nix-community/nix-init) - 通过散列预取、依赖关系推断、许可证检测等从 URL 生成 Nix 包.
 * [nix-melt](https://github.com/nix-community/nix-melt) - 类似游侠的 flake.lock 查看器.
 * [nix-output-monitor](https://git.maralorn.de/nix-output-monitor/) - 在构建推导时生成有用图表和统计数据的工具.
-* [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
-* [nix-tree](https://github.com/utdemir/nix-tree) - 交互式浏览 Nix 派生的依赖关系图.
+* [nix-prefetch](https://github.com/msteen/nix-prefetch) - 用于更新源校验和的通用工具.
+* [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 * [nurl](https://github.com/nix-community/nurl) - 从存储库 URL 生成 Nix 提取器调用.
 * [nvd](https://gitlab.com/khumba/nvd)  - 两个商店路径之间的差异包版本； 它对于比较重建时的 NixOS 代特别有用.
 * [statix](https://github.com/nerdypepper/statix) - 用于检查和修复 Nix 代码中的反模式的 linter/fixer.
@@ -108,6 +109,7 @@
 * [niv](https://github.com/nmattia/niv/) - 通过包固定对 Nix 项目进行简单的依赖管理.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - 用于 direnv 环境自动加载器的快速加载器和 flake 兼容配置.
 * [nix-update](https://github.com/Mic92/nix-update) - 更新版本/nix 包的源散列.
+* [nixd](https://github.com/nix-community/nixd) - Nix 语言服务器，基于 Nix 库.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - 验证 Nixpkgs 中的拉取请求是否正确构建的最佳工具.
 * [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - 在提交时和在您的 CI 上运行 linters/formatters.
 * [rnix-lsp](https://github.com/nix-community/rnix-lsp) - Nix 的语法检查语言服务器.
@@ -218,6 +220,7 @@
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算套件.
+* [chaotic-nyx](https://github.com/chaotic-cx/nyx)  - 每日更新最先进的软件包，如 `mesa_git` 和其他尚未在 Nixpkgs 中的软件包. 由制造商创建 [Chaotic-AUR](https://github.com/chaotic-aur/). 
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 像在 NixOS 上一样管理 macOS 配置.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - 为 macOS 自动更新 Firefox 二进制包.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 前沿的 Wayland 软件包.

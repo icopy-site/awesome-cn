@@ -95,14 +95,15 @@
 - [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt)  - 用于连续测量 WebPageTest 的 Grunt 插件.  ([Demo](http://sideroad.github.io/sample-wpt-page/))
 - [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - 使用无头 WebKit 浏览器 PhantomJS 测试页面性能的 Grunt 任务.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - 执行性能预算的 Grunt.js 任务（[more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
-- [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
+- [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework 是一组用于跟踪和调查复杂 Web 应用程序的库、工具和可视化工具
 - [Yandex.Tank](https://github.com/yandex/yandex-tank) - 适用于高级 Linux 用户的可扩展开源负载测试工具，作为自动化负载测试套件的一部分特别好.
-- [Yellow Lab Tools](http://yellowlab.tools) - 在线快速简便的工具，可以审计前端的不良做法，揭示性能问题和分析 JavaScript.
+- [Yellow Lab Tools](http://yellowlab.tools) - 在线快速简便的工具，可以审计前端的不良做法，揭示性能问题并分析 JavaScript.
 - [Pagelocity](http://pagelocity.com/) - 一个网络性能优化和分析工具.
 - [Varvy](https://varvy.com/pagespeed/) - 测试您的网站，看它是否符合 Google 的速度指南.
 - [Web Bloat Score Calculator](http://www.webbloatscore.com/) - 将页面大小与同一页面的压缩图像进行比较
 - [Speed Racer](https://github.com/ngryman/speedracer) - 使用 Chrome headless 为您的库/应用程序收集性能指标.
 - [Speedrank](https://speedrank.app/)  - Speedrank 在后台监控您网站的性能. 它随时间显示 Lighthouse 报告并提供改进建议.  Speedrank 是一款付费产品，试用期为 14 天.
+- [Lightest App](https://lightest.app/)  - 网页加载时间对于转换和收入极为重要. 可视化 Web 性能与竞争对手的对比.
 
 ## Analyzers - API
 
@@ -115,7 +116,7 @@
 - [BetterUptime](https://betteruptime.com) - 一个很好的网站监控工具（捆绑状态页面，事件通知）
 - [Pingdom](https://pingdom.com) - 获取网站正常运行时间的工具（使用来自不同位置的探测器）
 - [UptimeRobot](https://uptimerobot.com) - 另一个正常运行时间监控工具（有一个慷慨的免费计划）
-- [RoboMiri](https://robomiri.com)  - RoboMiri 是一款稳定的正常运行时间监视器，提供广泛的监视器：cronjob、关键字、网站、端口、ping.  25 次正常运行时间检查，每 3 分钟免费检查一次. 通过电话、短信、电子邮件和 Web Hook 发出警报.
+- [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
 - [StatusList](https://statuslist.app) - 正常运行时间、带有调试详细信息的性能监控和一个简单仪表板中的托管状态页面.
 
 ## Bundle Analyzer
@@ -142,7 +143,7 @@
 - [Benchmark.js](http://benchmarkjs.com/) - 一个强大的基准测试库，适用于几乎所有 JavaScript 平台，支持高分辨率计时器，并返回具有统计意义的结果.
 - [JSlitmus](https://github.com/broofa/jslitmus) - JSLitmus 是一种用于创建临时 JavaScript 基准测试的轻量级工具.
 - [Matcha](https://github.com/logicalparadox/matcha)  - Matcha 允许您设计测量代码性能的实验. 建议每个工作台都专注于您的应用程序中的特定影响点.
-- [Timing.js](https://github.com/addyosmani/timing.js)  - Timing.js 是一小组帮助程序，用于使用 Navigation Timing API 来确定您的应用程序将时间花在哪里. 作为独立脚本、DevTools Snippet 或 bookmarklet 很有用.
+- [Timing.js](https://github.com/addyosmani/timing.js)  - Timing.js 是一小组帮助程序，用于使用导航计时 API 来确定您的应用程序将时间花在哪里. 作为独立脚本、DevTools Snippet 或 bookmarklet 很有用.
 - [Stats.js](https://github.com/mrdoob/stats.js) - 此类提供了一个简单的信息框，可帮助您监控代码性能.
 - [PerfTests](https://github.com/kogarashisan/PerfTests) - JavaScript 继承模型的性能测试.
 - [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - 通过性能内存对 JS 堆大小进行最小监控.
@@ -192,6 +193,7 @@
 ## Image Optimizers
 &gt; 如何删除所有这些不必要的数据并在不降低质量的情况下为您提供文件.
 
+- [Shortpixel](https://shortpixel.com/online-image-compression) - 通过删除不必要的图像字节并将其转换为 WebP/AVIF 来压缩您的图像 
 - [Grunt-smushit](https://github.com/heldr/grunt-smushit) - 使用 Yahoo Smushit 删除不必要的 PNG 和 JPG 字节的 Grunt 插件.
 - [Gulp-smushit](https://github.com/heldr/gulp-smushit)  - 使用 Yahoo Smushit 优化 PNG 和 JPG 的 Gulp 插件. 在 smosh 之上制作.
 - [Smush it](http://www.imgopt.com/)  - Smush 它使用特定于图像格式的优化技术从图像文件中删除不必要的字节. 它是一种“无损”工具，这意味着它可以在不改变图像外观或视觉质量的情况下优化图像.
@@ -226,13 +228,13 @@
 ## Lazyloaders
 
 - [lazyload](https://github.com/vvo/lazyload) - 使用独立的 JavaScript 延迟加载器延迟加载图像、iframe、小部件 ~1kb
-- [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 高性能、轻型 ~0.9kb 和纯 JS 中的可配置延迟加载器，不依赖于响应式图像、iframe 等
+- [lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light ~0.9kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 
 ## Loaders
 
 - [HeadJS](https://github.com/headjs/headjs) - 你头上唯一的脚本. 用于响应式设计、特征检测和资源加载.
-- [RequireJS](http://requirejs.org/)  - RequireJS 是一个 JavaScript 文件和模块加载器. 它针对在浏览器中使用进行了优化，但它也可以在其他 JavaScript 环境中使用，例如 Rhino 和 Node.js.
-- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可证）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
+- [RequireJS](http://requirejs.org/)  - RequireJS 是一个 JavaScript 文件和模块加载器. 它针对浏览器内使用进行了优化，但也可用于其他 JavaScript 环境，如 Rhino 和 Node.js.
+- [Labjs](http://labjs.com/)  - 是 Getify Solutions 支持的开源（MIT 许可）项目.  LABjs 的核心目的是成为一个通用的、按需的 JavaScript 加载器，能够随时从任何位置将任何 JavaScript 资源加载到任何页面中.
 - [Defer.js](https://github.com/wessman/defer.js) - Async Everything：使用这个 JS 代码让你的页面内容加载得更快.
 - [InstantClick](https://github.com/dieulot/instantclick) - InstantClick 使您网站中的以下链接即时.
 - [JIT](https://github.com/shootaroo/jit-grunt)  - Grunt 的 JIT（及时）插件加载器. 即使有很多插件，Grunt 的加载时间也不会减慢.
@@ -274,10 +276,10 @@
 - [Grunt-htmlcompressor](https://github.com/jney/grunt-htmlcompressor) - 用于 HTML 压缩的 Grunt 插件，使用 htmlcompressor.
 - [HTML_minifier](https://github.com/stereobooster/html_minifier) - kangax html-minifier 的 Ruby 包装器.
 - [HTML_press](https://github.com/stereobooster/html_press) - 用于压缩 html 的 Ruby gem，删除所有空白垃圾，只留下 HTML.
-- [Koa HTML Minifier](https://github.com/koajs/html-minifier)  - 使用 html-minifier 缩小 HTML 响应的中间件. 它使用 html-minifier 的默认选项，这些选项在默认情况下都是关闭的，所以你必须设置选项，否则它不会做任何事情.
+- [Koa HTML Minifier](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 - [HTML Minifier Online](http://kangax.github.io/html-minifier/) - kangax (HTMLMinifier Creator) 的 HTML min 工具.
 - [Minimize](https://github.com/Swaagie/minimize)  - Minimize 是一个基于node-htmlparser 的HTML 压缩器，目前，HTML 压缩器只能在服务器端使用. 客户端缩小将在未来的版本中添加.
-- [Html-minifier](https://github.com/deanhume/html-minifier) - 一个简单的 Windows 命令行工具，用于缩小 HTML、Razor 视图和 Web 窗体视图
+- [Html-minifier](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views
 
 ## Minifiers - JS & CSS
 
@@ -293,7 +295,7 @@
 - [JShrink](https://github.com/tedious/JShrink) - JShrink 是一个 PHP 类，它缩小了 JavaScript，以便它可以更快地交付给客户端.
 - [JSCompress](http://jscompress.com/) - 最简约的在线 JS 压缩工具.
 - [CSSshrink](https://github.com/stoyan/cssshrink)  - 因为 CSS 是渲染页面的关键路径. 一定很小！ 要不然！
-- [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - 这只是 CSS Shrink 的 grunt 包装器.
+- [Grunt-cssshrink](https://github.com/JohnCashmore/grunt-cssshrink) - 这只是 CSS 收缩的简单包装器.
 - [Gulp-cssshrink](https://github.com/torrottum/gulp-cssshrink) - 使用 cssshrink for Gulp 缩小 CSS 文件.
 - [Prettyugly](https://github.com/stoyan/prettyugly) - 丑化（去除空格）或美化（添加一致的空格）CSS 代码.
 - [Grunt-contrib-cssmin](https://github.com/gruntjs/grunt-contrib-cssmin) - Grunt 的 CSS 压缩器.
@@ -309,13 +311,13 @@
 - [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
 - [Lazysizes](https://github.com/aFarkas/lazysizes) - 用于图像（响应式和正常）、iframe 和脚本的高性能延迟加载器，无需配置即可检测通过用户交互、CSS 或 JavaScript 触发的任何可见性更改.
 - [Perf-Tooling](http://perf-tooling.today/) - Perf Tooling 是一种共享资源，用于跟踪新的和现有的性能工具.
-- [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
+- [TMI](https://github.com/addyosmani/tmi) - TMI（图像太多）- 在网络上发现您的图像权重.
 
 ## Generators
 
 - [AtBuild](https://github.com/jarred-sumner/atbuild)  - JavaScript 代码生成工具，可让您编写输出 JavaScript 的 JavaScript. 适用于展开循环和编写编译运行时的库
 - [Glue](https://github.com/jorgebastida/glue) - Glue 是一个简单的命令行工具来生成精灵：
-- [Pitomba-spriter](https://github.com/pitomba/spriter)  - Spriter 是一个简单灵活的 CSS 动态精灵生成器，使用 Python. 它可以处理同步和异步的 CSS，因为它提供了要在您的 Python 代码中使用的类，还提供了一个侦听您的文件系统并在静态更改后立即更改 CSS 和 sprite 的观察器.
+- [Pitomba-spriter](https://github.com/pitomba/spriter)  - Spriter 是一个简单灵活的 CSS 动态精灵生成器，使用 Python. 它可以处理同步和异步的 CSS，因为它提供了在您的 Python 代码中使用的类，还提供了一个侦听您的文件系统并在静态更改后立即更改 CSS 和 sprite 的观察器.
 - [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) - 将一组图像转换为 spritesheet 和相应的 CSS 变量的 Grunt 任务.
 - [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - 从样式表中引用的图像生成 sprite 的 Grunt 任务，然后使用新的 sprite 图像和位置更新引用.
 - [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites &amp; stacks galore — Grunt 插件环绕 svg-sprite，读取一堆 SVG 文件，优化它们并创建各种风格的 SVG 精灵和 CSS 资源.
@@ -336,7 +338,7 @@
 - [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) - 使用 SVGO for Grunt 缩小 SVG.
 - [Gulp-svgmin](https://www.npmjs.com/package/gulp-svgmin) - 使用 SVGO 为 Gulp 缩小 SVG.
 - [Scour](http://www.codedread.com/scour/) - Scour 是一种开源 Python 脚本，可积极清理 SVG 文件，删除某些工具或作者嵌入到其文档中的大量“垃圾”.
-- [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
+- [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)  - SVG Cleaner 可以帮助您清除 SVG 文件中不需要的数据. 它有很多清理和优化选项，以批处理模式工作，在多核处理器上提供线程处理.
 
 ## Web Components
 
@@ -347,7 +349,7 @@
 
 - [HTTPerf](https://github.com/httperf/httperf)  - httperf 是一个衡量网络服务器性能的工具. 它为生成各种 HTTP 工作负载和测量服务器性能提供了灵活的工具.
 - [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - 开源负载测试工具：它是一个Java平台应用程序.
-- [Locust](http://locust.io) - An open source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
+- [Locust](http://locust.io)  - 一个开源负载测试工具. 使用 Python 代码定义用户行为，让数百万并发用户涌入您的系统.
 - [Autoperf](https://github.com/igrigorik/autoperf) - Autoperf 是 httperf 的 ruby​​ 驱动程序，旨在帮助您自动化任何 Web 应用程序的负载和性能测试 - 针对单个端点，或通过日志重放.
 - [HTTPerf.rb](https://github.com/jmervine/httperfrb) - 用于 httperf 的简单 Ruby 接口，用 Ruby 编写.
 - [PHP-httperf](https://github.com/jmervine/php-httperf) - HTTPerf.rb 的 PHP 端口.

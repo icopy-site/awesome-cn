@@ -51,7 +51,7 @@ Read the Docs 是一个完全开源的平台，可以构建和发布文档.
 - [sphinx-needs](https://sphinx-needs.readthedocs.io/) - Documentation of `sphinx-needs`. **#sphinx** **#themes**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#themes**.
 - [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx** **#themes** **#custom-theme**.
-- [Wagtail](https://docs.wagtail.org/)  - Wagtail 是一个基于 Django 的 CMS，具有全球社区. 该文档涉及多个利益相关者（编辑和开发人员），拥有自己美丽的主题，并且主要围绕 Diátaxis 理想构建. 这 [Release Notes](https://docs.wagtail.org/en/stable/releases/index.html) 和 [Contribution guide](https://docs.wagtail.org/en/stable/contributing/index.html) are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. **#sphinx** **#themes** **#diataxis**.
+- [Wagtail](https://docs.wagtail.org/) - Wagtail is a Django-based CMS with a global community. The documentation spans multiple stakeholders (editors 和 developers), has it's own beautiful theme 和 is largely structured around Diátaxis ideals. The [Release Notes](https://docs.wagtail.org/en/stable/releases/index.html) 和 [Contribution guide](https://docs.wagtail.org/en/stable/contributing/index.html) are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. **#sphinx** **#themes** **#diataxis**.
 - [Weblate](https://docs.weblate.org/) - Weblate is a translation platform with a large documentation project with many translations and customized Read the Docs theme. Documentation aimed at all segments: users, administrators and developers. Also features an extensive Changelog. **#sphinx** **#themes** **#translation**.
 
 ## MkDocs projects
@@ -63,7 +63,7 @@ Read the Docs 是一个完全开源的平台，可以构建和发布文档.
 
 ## API Reference
 
-- [disnake](https://docs.disnake.dev/) - 这个项目非常丰富的 Python API 参考使用自定义扩展来快速概览属性和方法表 + `sphinx-hoverxref` 用于带有 API 参考的工具提示 + GitHub 源代码的源链接参考，另请参阅 [Twitter thread](https://twitter.com/readthedocs/status/1541830875037503489) with some examples. **#apidocs** **#sphinx** **#themes**
+- [discord.py](https://discordpy.readthedocs.io/) - This projects very rich Python API reference uses custom extension for quick overview tables of attributes and methods + `sphinx-hoverxref` for tooltips with API reference + source link references for GitHub source code. **#apidocs** **#sphinx** **#themes**
 
 ## Science projects
 

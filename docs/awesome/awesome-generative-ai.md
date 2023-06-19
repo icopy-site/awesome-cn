@@ -21,7 +21,7 @@
 
 - [OpenAI API](https://openai.com/blog/openai-api/)  - 宣布基于 GPT-3 的文本到文本通用 AI 模型的 OpenAI API.  OpenAI 博客，2020 年 6 月 11 日.
 - [GitHub Copilot](https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer/)  - 发布 Copilot，这是一种新的 AI 结对编程器，可帮助您编写更好的代码.  GitHub 博客，2021 年 6 月 29 日.
-- [DALL·E 2](https://openai.com/blog/dall-e-2/) - Announcement of the release of DALL·E 2, an advanced image generation system with improved resolution, expanded image creation capabilities, and various safety mitigations. OpenAI blog, April 6, 2022.
+- [DALL·E 2](https://openai.com/blog/dall-e-2/)  - 发布 DALL·E 2 的公告，这是一种高级图像生成系统，具有更高的分辨率、扩展的图像创建功能和各种安全缓解措施.  OpenAI 博客，2022 年 4 月 6 日.
 - [Stable Diffusion Public Release](https://stability.ai/blog/stable-diffusion-public-release)  - 宣布公开发布 Stable Diffusion，这是一种基于 AI 的图像生成模型，在广泛的互联网抓取上进行训练，并在 Creative ML OpenRAIL-M 许可下获得许可. 稳定扩散博客，2022 年 8 月 22 日.
 - [ChatGPT](https://openai.com/blog/chatgpt/)  - 发布 ChatGPT，这是一种对话模型，经过训练可以回答后续问题、承认错误、挑战不正确的前提并拒绝不适当的请求.  OpenAI 博客，2022 年 11 月 30 日.
 - [Bing Search](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)  - 微软宣布推出其搜索引擎 Bing 的新版本，由下一代 OpenAI 模型提供支持. 微软博客，2023 年 2 月 7 日.
@@ -41,9 +41,9 @@
 
 - [ChatGPT](https://chat.openai.com/chat) - OpenAI 的 ChatGPT 是一种以对话方式进行交互的大型语言模型.
 - [Bing Chat](https://www.bing.com/chat) - 由 Microsoft Bing 提供支持的对​​话式 AI 语言模型.
-- [Bard](https://bard.google.com) - Google 的实验性 AI 聊天机器人，由 LaMDA 模型提供支持.
+- [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
 - [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
-- [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
+- [ChatPDF](https://www.chatpdf.com/) - 与任何 PDF 聊天.
 - [ChatSonic](https://writesonic.com/chat) - 支持文本和图像创建的 AI 助手.
 
 ### Search engines
@@ -51,7 +51,7 @@
 - [Perplexity AI](https://www.perplexity.ai/) - 人工智能驱动的搜索工具.
 - [Metaphor](https://metaphor.systems/) - 语言模型驱动的搜索.
 - [Phind](https://phind.com/) - 基于人工智能的搜索引擎.
-- [You.com](https://you.com/) - 一个基于 AI 的搜索引擎，为用户提供定制的搜索体验，同时保持他们的数据 100% 私密.
+- [You.com](https://you.com/) - 基于 AI 的搜索引擎，可为用户提供定制的搜索体验，同时将其数据 100% 保密.
 
 ### Writing assistants
 
@@ -63,7 +63,7 @@
 - [Moonbeam](https://www.gomoonbeam.com/) - 在很短的时间内更好的博客.
 - [copy.ai](https://www.copy.ai/) - 使用 AI 撰写更好的营销文案和内容.
 - [Anyword](https://anyword.com/) - Anyword 的 AI 写作助手为任何人生成有效的文案.
-- [Contenda](https://contenda.co/) - 从您已经制作的内容中创建您的观众想要的内容.
+- [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - 将几个关键词变成原创的、有洞察力的文章、产品描述和社交媒体文案.
 - [Lavender](https://www.lavender.ai/) - 薰衣草电子邮件助手可帮助您在更短的时间内获得更多回复.
 - [Lex](https://lex.page/) - 内置人工智能的文字处理器，让您可以更快地书写.
@@ -105,7 +105,7 @@
 
 - [Elicit](https://elicit.org/) - Elicit 使用语言模型来帮助您自动化研究工作流程，例如部分文献综述.
 - [genei](https://www.genei.io/) - 在几秒钟内总结学术文章，节省 80% 的研究时间.
-- [Explainpaper](https://www.explainpaper.com/)  - 阅读学术论文的更好方式. 上传一篇论文，突出令人困惑的文本，获得解释.
+- [Explainpaper](https://www.explainpaper.com/)  - 阅读学术论文的更好方式. 上传一篇论文，突出令人困惑的文本，得到解释.
 - [Galactica](https://galactica.org/)  - 用于科学的大型语言模型. 可以总结学术文献、解决数学问题、生成 Wiki 文章、编写科学代码、注释分子和蛋白质等等. [Model API](https://github.com/paperswithcode/galai).
 - [Consensus](https://consensus.app/search/) - Consensus 是一个搜索引擎，利用人工智能在科学研究中寻找答案.
 
@@ -124,7 +124,7 @@
 
 ## Code
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个功能.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从您的编辑器中实时建议代码和整个函数.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译成代码.
 - [Ghostwriter](https://blog.replit.com/ai) - replit 的人工智能结对程序员.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 驱动的编码伴侣更快地构建应用程序.
@@ -136,7 +136,7 @@
 - [Pygma](https://pygma.app/) - 将 Figma 设计转化为高质量代码.
 - [CodiumAI](https://www.codium.ai/) - 使用 CodiumAI，您会在 IDE 中获得重要的测试建议，因此您在推动时保持自信.
 - [MutableAI](https://mutable.ai/) - 人工智能加速软件开发.
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南.
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API.
 - [TurboPilot](https://github.com/ravenscroftj/turbopilot) - 一个自托管的副驾驶克隆，它使用 llama.cpp 背后的库在 4GiB 的 RAM 中运行 60 亿参数的 Salesforce Codegen 模型. 
 
 ## Image
@@ -154,7 +154,7 @@
 - [Craiyon](https://www.craiyon.com/) - Craiyon，前身为 DALL-E mini，是一种 AI 模型，可以根据任何文本提示绘制图像.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio 是一个易于使用的界面，用于使用稳定扩散图像生成模型创建图像.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder 是一种新型的创意工具，通过使协作和探索变得更容易来增强用户的创造力.
-- [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 是一款强大的工具，可结合文字和绘图创建逼真的艺术作品，因为它在单个模型中集成了分割映射、修复和文本到图像生成.
+- [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 是一款强大的工具，可以结合文字和绘图来创建逼真的艺术作品，因为它在单个模型中集成了分割映射、修复和文本到图像的生成.
 - [Magic Eraser](https://www.magiceraser.io/) - 在几秒钟内从图像中删除不需要的东西.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - Magic Studio 的一款工具，可让您通过描述自己的想法来表达自己.
 - [Alpaca](https://www.getalpaca.io/) - 稳定的 Diffusion Photoshop 插件.
@@ -165,7 +165,7 @@
 - [modyfi](https://www.modyfi.io/)  - 您一直想要的图像编辑器. 浏览器中的人工智能创意工具. 实时协作.
 - [Ponzu](https://www.ponzu.ai/)  - Ponzu 是您的免费 AI 徽标生成器. 只需使用您的想象力，在几秒钟内用创意设计的徽标打造您的品牌.
 - [PhotoRoom](https://www.photoroom.com/)  - 仅使用您的手机创建产品和肖像图片. 删除背景、更改背景和展示产品.
-- [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
+- [Avatar AI](https://avatarai.me/) - 创建您自己的 AI 生成头像.
 - [ClipDrop](https://clipdrop.co/) - 无需照相馆即可创建专业的视觉效果.
 - [Lensa](https://prisma-ai.com/lensa) - 一款一体化图像编辑应用程序，包括使用 Stable Diffusion 生成个性化头像.
 - [RunDiffusion](https://rundiffusion.com/) - 用于创建 AI 生成艺术的基于云的工作区.
@@ -226,7 +226,7 @@
 - [This Image Does Not Exist](https://thisimagedoesnotexist.com/) - 测试您判断图像是人为还是计算机生成的能力.
 - [Have I Been Trained?](https://haveibeentrained.com/) - 检查您的图像是否已用于训练流行的 AI 艺术模型.
 - [AI Dungeon](https://aidungeon.io/) - 一款基于文本的冒险故事游戏，由您执导（并主演），而 AI 将其变为现实.
-- [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的精美、品牌一致且转化率高的广告.
+- [Clickable](https://www.clickable.so/)  - 使用 AI 在几秒钟内生成广告. 适用于所有营销渠道的美观、品牌一致且转化率高的广告.
 - [Scale Spellbook](https://scale.com/spellbook) - 使用 Scale Spellbook 构建、比较和部署大型语言模型应用程序.
 - [Scenario](https://www.scenario.com/) - 人工智能生成的游戏资产.
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
@@ -262,3 +262,4 @@
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) - 使 GPT-4 完全自主的实验性开源尝试.
 - [babyagi](https://github.com/yoheinakajima/babyagi) - 人工智能驱动的任务管理系统.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - 在浏览器中组装、配置和部署自治 AI 代理.
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - 指定你想要它建造什么，人工智能要求澄清，然后建造它.
