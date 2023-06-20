@@ -101,7 +101,7 @@
 ### Google Cloud
 - [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/architecture/managing-infrastructure-as-code) - 使用 Terraform、Cloud Build 和 GitOps 设置和管理基础架构即代码.
 - [Getting started with Terraform on Google Cloud](https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform) - 使用 Terraform 在 Google Cloud 中创建虚拟机并启动基本的 Python Flask 服务器.
-- [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - 使用 Terraform 部署 Kubernetes 负载均衡器服务，使用 Terraform 部署基于 HTTPS 内容的负载均衡器，使用 Terraform 进行模块化负载均衡 - 区域负载均衡器，使用 Terraform 的自定义提供程序，使用 Terraform 的 Cloud SQL，使用 Terraform 在 Google Cloud 和 AWS 之间构建 VPN.
+- [Managing Cloud Infrastructure with Terraform](https://www.cloudskillsboost.google/quests/44) - 使用 Terraform 部署 Kubernetes 负载均衡器服务、使用 Terraform 的基于 HTTPS 内容的负载均衡器、使用 Terraform 的模块化负载平衡 - 区域负载均衡器、使用 Terraform 的自定义提供程序、使用 Terraform 的 Cloud SQL、使用 Terraform 在 Google Cloud 和 AWS 之间构建 VPN.
 - [Hashicorp Terraform Tutorials for Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) - 开始在 Google Cloud 上使用 Terraform.
 
 ### Miscellaneous
@@ -380,7 +380,7 @@
 - [env0](https://env0.com) - 具有 OPA 集成、自定义流程和 Terragrunt 支持的 Terraform Cloud/Enterprise 替代方案：heavy_dollar_sign：
 - [Brainboard](https://www.brainboard.co) - 从任何云提供商 - AWS、GCP、Azure 开始，以可视化方式设计、部署和管理现代云基础设施：heavy_dollar_sign：
 - [OTF](https://github.com/leg100/otf) - Open Terraforming Framework，Terraform Enterprise 的开源替代品，具有完整的 Terraform CLI 集成.
-- [Terrakube](https://terrakube.org) - Terraform Enterprise 的开源替代品，具有私有注册表、远程状态、自定义流、预定工作区和视觉状态.
+- [Terrakube](https://docs.terrakube.io) - Terraform Enterprise 的开源替代品，具有私有注册表、远程状态、自定义流、预定工作区和视觉状态.
 - [Spacelift](https://spacelift.io/)  - 替代 Terraform 云/企业.  Terraform 的协作基础设施交付平台：heavy_dollar_sign：
 - [Terrateam](https://terrateam.io)  - 具有成本估算、静态分析、访问控制、偏差检测和自定义工作流的 Terraform GitOps.  :heavy_dollar_sign:
 - [Digger](https://digger.dev) - Terraform Cloud 的开源替代品 - 在您的 CI 中运行 Terraform 计划和应用作业.

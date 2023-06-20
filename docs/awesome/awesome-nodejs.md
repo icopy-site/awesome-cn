@@ -238,7 +238,7 @@
 
 - [pino](https://github.com/pinojs/pino) - 受 Bunyan 启发的极快记录器.
 - [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
-- [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+- [console-log-level](https://github.com/watson/console-log-level) - 支持日志级别和自定义前缀的最简单的记录器.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端的、分层的、实时的、丰富多彩的日志和故事.
 - [consola](https://github.com/unjs/consola) - 控制台记录器.
 
@@ -295,6 +295,7 @@
 - [Brunch](https://github.com/brunch/brunch) - 前端 Web 应用程序构建工具，具有简单的声明性配置、快速增量编译和自以为是的工作流程.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - 结合了 webpack、JSPM 和 SystemJS 的强大功能以及一流的 TypeScript 支持的快速构建系统.
 - [pkg](https://github.com/vercel/pkg) - 将您的 Node.js 项目打包成可执行文件.
+- [Vite](https://github.com/vitejs/vite) - 具有热模块替换和静态资产捆绑的前端构建工具.
 
 ### Hardware
 
@@ -306,6 +307,7 @@
 - [spi-device](https://github.com/fivdi/spi-device) - SPI 串行总线访问.
 - [pigpio](https://github.com/fivdi/pigpio) - Raspberry Pi 上的快速 GPIO、PWM、伺服控制、状态更改通知和中断处理.
 - [gps](https://github.com/infusion/GPS.js) - 用于处理 GPS 接收器的 NMEA 解析器.
+- [modbus-serial](https://github.com/yaacov/node-modbus-serial) - MODBUS-RTU（串行和 TCP）的纯 JavaScript 实现.
 
 ### Templating
 
@@ -717,7 +719,7 @@
 
 ### Weird
 
-- [cows](https://github.com/sindresorhus/cows) - ASCII 奶牛.
+- [cows](https://github.com/sindresorhus/cows) - ASCII cows.
 - [superb](https://github.com/sindresorhus/superb) - 获得精湛的喜欢的话.
 - [cat-names](https://github.com/sindresorhus/cat-names) - 获取流行的猫名.
 - [dog-names](https://github.com/sindresorhus/dog-names) - 获取流行的狗名.
@@ -784,7 +786,7 @@
 - [Nodeschool](https://github.com/nodeschool) - 通过交互式课程学习 Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - Node.js 简介.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的 npm 模块时的一些良好做法.
-- [The Node Way](https://github.com/FredKSchott/the-node-way) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和实际上令人愉悦阅读的代码.
+- [The Node Way](https://github.com/FredKSchott/the-node-way) - 存在 Node.js 最佳实践和指导原则的完整哲学，用于编写可维护的模块、可扩展的应用程序和真正令人愉悦的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - 介绍 Node.js 核心特性和异步 JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 关于如何编写可移植/跨平台 Node.js 代码的实用指南.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - 一组视频教程/直播，可帮助您使用一些简单的库和核心 Node.js 模块构建和部署真实的实时 Web 应用程序.
@@ -816,7 +818,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - 关于 V8 垃圾收集器的废话.
-- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Node.js 的创建者关于它的一些局限性的深刻见解.
+- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Node.js 的创建者关于它的一些限制的有见地的谈话.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - 关于如何使用 Node.js 制作 REST API 的视频课程.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - 在不使用 Express 等框架的情况下构建 REST API.
 - [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) - V8 架构的基础知识以及它如何优化 JavaScript 执行.
@@ -852,6 +854,7 @@
 - [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Wes Bos 的视频课程.
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
+- [Node.js Full Stack Developer Course](https://kinsta.com/academy/course/node-js-full-stack-developer/)
 
 ### Cheatsheets
 
@@ -865,8 +868,10 @@
 - [npm-hub](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展，用于在 repo 的自述文件底部显示 npm 依赖项.
 - [RunKit](https://runkit.com) - 在任何网站上嵌入 Node.js 环境.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上显示 npm 下载统计信息的 Chrome 扩展.
-- [npm semver calculator](https://semver.npmjs.com) - 直观地探索 semver 范围匹配的包版本.
-- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型制作.
+- [npm semver calculator](https://semver.npmjs.com) - 直观地探索一个 semver 范围匹配的包版本.
+- [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - 在线 IDE 和原型设计.
+- [Amplication](https://github.com/amplication/amplication) - 自动生成功能齐全的应用程序.
+- [RunJS](https://runjs.app) - 桌面 JavaScript 游乐场.
 
 ### Community
 

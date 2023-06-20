@@ -115,7 +115,7 @@
 - [Bookbook](https://github.com/takluyver/bookbook) - Bookbook 将目录中的一组笔记本转换为 HTML 或 PDF，保留笔记本内和笔记本之间的交叉引用.
 - [ContainDS Dashboards](https://github.com/ideonate/cdsdashboards) - JupyterHub 扩展，用于在任何框架（Voilà、Streamlit、Plotly Dash 等）中托管经过身份验证的脚本或笔记本.
 - [Ganimede](https://github.com/manugraj/ganimede) - 在沙盒中存储、版本化、编辑和执行笔记本，并通过 REST 接口直接集成它们.
-- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文档.
+- [Jupyter Book](https://github.com/executablebooks/jupyter-book) - 从计算材料中构建出版质量的书籍和文件.
 - [jupyterlab_nbconvert_nocode](https://github.com/timkpaine/jupyterlab_nbconvert_nocode) - 用于 PDF/HTML 导出的 NBConvert 导出器，无需代码单元.
 - [Jupytext](https://github.com/mwouts/jupytext) - 使用在版本控制下运行良好的文本格式（例如 Python 或 Markdown 文件）转换和同步笔记本.
 - [jut](https://github.com/kracekumar/jut) - CLI 在终端中很好地显示笔记本.
@@ -160,7 +160,7 @@
 - [jupyter-panel-proxy](https://github.com/holoviz/jupyter-panel-proxy) - 自动将笔记本作为 [Panel](https://panel.holoviz.org) Jupyter 服务器的 /panel 端点上的数据应用程序.<!--lint enable double-link-->
 - [jupyterlab-executor](https://github.com/gavincyi/jupyterlab-executor) - 从 Jupyterlab 文件浏览器执行脚本的扩展.<!--lint disable double-link-->
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 将笔记本发布到的扩展 [Kyso](https://kyso.io) 来自 Jupyterlab 的平台.<!--lint enable double-link-->
-- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - JupyterLab 的可定制笔记本单元格完成浏览器通知.
+- [jupyterlab-notifications](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
 - [jupyterlab-tensorboard-pro](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - 对 JupyterLab 的 TensorBoard 支持.
 - [jupyterlab_autoversion](https://github.com/timkpaine/jupyterlab_autoversion) - 在 JupyterLab 中自动对笔记本进行版本控制.
 - [jupyterlab_commands](https://github.com/timkpaine/jupyterlab_commands) - 将任意 python 命令添加到 JupyterLab 命令面板.
@@ -181,7 +181,7 @@
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) - 显示系统指标的扩展.
 - [tabnine](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI 自动完成扩展.
 - [theme-darcula](https://github.com/telamonian/theme-darcula) - Jupyterlab 的漂亮 Darcula 主题.
-- [toc](https://github.com/jupyterlab/jupyterlab-toc) - Extension that provides a table of contents for notebooks.
+- [toc](https://github.com/jupyterlab/jupyterlab-toc) - 为笔记本提供目录的扩展.
 - [topbar](https://github.com/jtpio/jupyterlab-topbar) - JupyterLab 的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) - 显示变量及其值的变量检查器扩展.
 - [vim](https://github.com/jwkvam/jupyterlab-vim) - Vim 笔记本单元绑定.
@@ -227,6 +227,7 @@
 - [Noteable](https://noteable.io/) - Noteable 是一个协作笔记本，用于组合代码（SQL、Python 和 R）和交互式可视化.
 - [Paperspace Gradient](https://gradient.run/) - 具有加速硬件 (GPU) 和 MLOps 功能的 Jupyter 支持的数据科学 IDE.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与维基媒体 wiki 交互而定制的 Jupyter 笔记本部署.
+- [Pinggy](https://pinggy.io) - 为您的 Jupyter 实例创建一个隧道，即使它位于防火墙或 NAT 后面.
 - [Saturn Cloud](https://saturncloud.io/) - 无需切换工具即可将您的数据科学团队转移到云端.
 
 ## Official Resources and Documentation
@@ -267,6 +268,7 @@
 - [List of Jupyter notebooks II](https://github.com/jupyter-naas/awesome-notebooks)
 - [pytudes](https://github.com/norvig/pytudes) - Peter Norvig 的 Jupyter 笔记本列表.
 - [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
+- [Sharing Jupyter Notebooks from localhost](https://pinggy.io/blog/share_jupyter_notebook_from_localhost/) - 从本地主机共享 Jupyter 笔记本.
 - [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/)  - 在单个服务器上为 1-50 个用户分发 JupyterHub； 比零到 JupyterHub 设置更轻量级.
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - 帮助安装和管理 JupyterHub 的教程.
 

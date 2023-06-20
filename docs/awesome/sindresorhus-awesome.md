@@ -166,7 +166,7 @@
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一套软件库和工具，可帮助您构建机器人应用程序.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN、DNS、DDoS 保护和站点安全.
-- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - 谷歌助手的开发者平台.
+- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Google Assistant 的开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - 具有 WiFi 和广泛物联网应用的低成本微控制器.
 - [Deno](https://github.com/denolib/awesome-deno#readme) - 使用 V8 并在 Rust 中构建的 JavaScript 和 TypeScript 的安全运行时.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 用于基于 x86 的个人计算机的操作系统，在 1980 年代和 90 年代初期流行.
@@ -321,7 +321,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的 React 应用程序框架.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - 用于使用声明性模板系统构建 Web 组件的库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术栈.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - 以 WordPress 为后端，以 Gatsby 为前端的 Web 开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - UI 组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -365,7 +365,7 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java 网络应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在 JVM 上构建反应式应用程序的工具包.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础架构的工具.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本控制基础设施的工具.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Swift 中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python 网络应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python 网络应用程序框架.
@@ -482,7 +482,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70 年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏来学习编程语言.
-- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的视频游戏.
+- [Esports](https://github.com/strift/awesome-esports#readme) - 作为一项运动进行的电子游戏.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - 视频游戏创作的工艺.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - 游戏引擎.
 
@@ -622,6 +622,7 @@
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - 用于专业机器人开发的免费开放工具.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - 通过用激光照射目标来测量距离的传感器.
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - 开源硬件项目.
+- [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - 开放与无人机/无人机相关的硬件和软件.
 
 ## Business
 
@@ -637,7 +638,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - 将开发人员作为用户的产品.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - 支付、发票、定价、会计、市场、欺诈和商业智能.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程策略.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - 如何为技术领导设计和执行工程战略.
 
 ## Work
 

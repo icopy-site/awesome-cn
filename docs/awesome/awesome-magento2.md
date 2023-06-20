@@ -31,14 +31,14 @@
 客户购买产品的店面）和后端（客户和产品所在的 Magento 管理面板）
 管理）. 开源位是指 Magento 的源代码（PHP、HTML、CSS、JS、XML 等）
 在开放源代码许可 (OSLv3) 下分发，允许任何人重用代码并对其进行更改. 这
-开源方面导致产品Magento的大量流行，以至于我们经常使用Magento这个词来表示
+开源方面导致了产品Magento的大量流行，以至于我们经常使用Magento这个词来表示
 指产品、产品周围的社区或两者.
 
 Magento 由一家名为 Varien 的公司创立，随着 Magento 版本 1（于 2008 年首次发布），人气开始增长.
 Magento 版本 2 于 2015 年 11 月首次发布，但由于其复杂性而面临采用问题
 体系结构和过时的功能（KnockoutJS、RequireJS、Zend Framework 1）. 在店面部分，
 这导致了各种新的前端.  2018 年，Magento 被 Adob​​e 收购. 后来整合了Magento Enterprise
-作为 Adob​​e Commerce Cloud 进入 Adob​​e 云，而 Magento Community Edition 被重新标记为 Magento Open Source. 在
+into the Adobe cloud as Adobe Commerce Cloud, while the Magento Community Edition was relabeled Magento Open Source. In
 社区，从长远来看，Adobe 是否会以这种方式维护 Magento 开源存在不确定性
 社区会认为合适. 这种不确定性导致了一项名为 Mage-OS 的社区倡议.
 
@@ -64,7 +64,7 @@ Meet Magento Events 将商家、开发人员、解决方案和技术提供商等
 ## Frontends
 Magento 2 的店面可以通过多种方式设计：
 
- - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更常见的是，Luma 这个名字指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
+ - **Luma** (`Magento/luma`) - 这实际上是 Magento 2 本身的默认演示主题，它再次从核心扩展的 `Magento/blank` 扩展而来. 但更多时候，Luma 这个名字指的是整个堆栈：XML 布局生成块和容器的树结构，最终通过 PHTML 模板呈现. 服务器端呈现的 HTML 丰富了 CSS（从 LESS 源文件编译）和 JavaScript（RequireJS、KnockoutJS、jQuery）.
  - **Adobe PWA Studio** - 一个新的无头前端，由 Adob​​e/Magento 创建，基于 ReactJS. 它使 GraphQL 调用 Magento GraphQL API 来检索数据. 前端提供 Venia（一个演示主题和 UI 组件库）、Peregrine（React hooks）、Buildpack（Webpack 配置）和 UPWARD（用于 SSR 和图像优化的中间件）. 
 - **好的** （[hyva.io](https://hyva.io/) ) - Luma 的替代品，它用 TailwindCSS 代替 LESS/CSS，用 AlpineJS 代替 JavaScript. 目前，它只能通过商业许可获得. 但对于这个价格，团队努力为 3rd 方模块创建兼容性模块，提供支持并使整个解决方案越来越通用.
 - **店面视图**
@@ -75,6 +75,7 @@ Magento 2 的店面可以通过多种方式设计：
 ## Tools
 
 - [n98-magerun2](https://github.com/netz98/n98-magerun2) - 用于 Magento 2 的 CLI 瑞士军刀.
+- [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - 使重试 RabbitMQ 失败消息成为可能的 Magento 2 扩展
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - 容易地
   将官方 Magento 2 搜索集成到您的 Alfred 工作流程中.
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - 使用在线工具生成 Tablerates.
@@ -190,7 +191,7 @@ Magento 2 的店面可以通过多种方式设计：
   访问某些页面.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - 扩展以快速测试结帐更改.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - 快速和
-  easily preview and test your order confirmation page, without the need to placing a new order each time.
+  轻松预览和测试您的订单确认页面，无需每次都下新订单.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) -Magento 2 的包装器
   ImportExport 功能，从数组中导入产品和客户
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - 支持通用 Magento 2 导入的库
@@ -228,7 +229,7 @@ Magento 2 的店面可以通过多种方式设计：
 
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) - PAYONE 支付集成.
 - [Stripe](https://github.com/pmclain/module-stripe) -Magento 2 的条纹支付.
-- [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) - 官方 Braintree 集成
+- [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) - 官方 Braintree 整合
   对于 Magento2.
 
 ### Infrastructure
@@ -237,7 +238,7 @@ Magento 2 的店面可以通过多种方式设计：
 - [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) - Cron 作业管理器
   马根托 2.
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok 集成
-- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media
+- [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - 提供有关媒体信息的模块
   文件和潜在的删除选项.
 
 ---
@@ -330,7 +331,7 @@ Magento 2 的店面可以通过多种方式设计：
     - [Peter Jaap Blaakmeer](https://twitter.com/PeterJaap) - 首席技术官 [elgentos](https://www.elgentos.nl/)
     - Carmen Bremen - 自由职业者 [neoshops](http://neoshops.de/)
     - Tony Brown - 技术总监 [space48](http://www.space48.com/)
-    - 西博和
+    - Hirokazu Nishi
     - 布伦特彼得森
     - 索尼娅·里斯特勒
     - 克里斯托夫林格夫

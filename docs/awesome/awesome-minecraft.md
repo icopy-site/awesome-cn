@@ -91,7 +91,7 @@
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam&#39;s HarvestCraft 是 Minecraft 的模组，目前添加了多种农作物和食物.
 - [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) - 一个添加了更复杂的作物系统的模组，例如具有基因突变的能力并且还添加了更多的作物.
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) - 基本上增加了一个方块大的迷你林场.
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - 一个很棒的 skyblocks 模组，它过滤沙子和砾石等有用资源，如铁和钻石，与许多模组兼容.
@@ -113,7 +113,7 @@
 ### Utilities
 
 - [TNTUtils](https://github.com/ljfa-ag/TNTUtils) - 更好地控制 Minecraft 中的爆炸.
-- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - 基于 Morph-o-Tool 的模组，主要提供合并不同模组文档书籍的功能.
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - 基于 Morph-o-Tool 的模组，主要提供合并不同模组文档书籍的能力.
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - 这个模组不会改变任何现有的机制，只是让现有的饥饿饱和度和疲惫水平在默认 GUI 中可见.
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - 这个模组修复了 Minecraft 中的属性系统，它处理装甲点等事情，因为许多其他模组无意中受到这个系统限制的影响.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - 这个 mod 修改了 Minecraft 计算漏斗碰撞盒的方式，这样你就可以访问它后面的任何可见块.
@@ -131,7 +131,7 @@
 
 ### Exploration
 
-- [Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world) - 这个模组增加了一个额外的维度，以采矿为目的，这意味着主世界将不再被诸如 Buildcraft 采石场之类的东西填满.
+- [Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world) - 这个模组增加了一个额外的维度，用于采矿的预期目的，这意味着主世界将不再被诸如 Buildcraft 采石场之类的东西填满.
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) - 添加一个新的暮色森林维度，其中包含新的结构、首领和需要完成的任务.
 
 ### Building
@@ -184,6 +184,8 @@
 - [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) - 使用 Docker 容器的自托管 Minecraft 服务器.
 - [Glowstone](https://glowstone.net/)  - 以前称为 Spout 和 BukkitContrib. 从头开始编写的 Spigot 服务器替代方案，性能类似于 Paper.
 - [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - 为 1.7.10 实现 Forge 和 Bukkit API 的服务器.
+- [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - 使用 docker 的开箱即用的 Geyser 和 Floodgate 支持的 PaperMC 服务器.
+- [minecraft-docker](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) 它嵌入了一个 discord 机器人，可以轻松启动和停止服务器.
 - [Minestom](https://minestom.net/) - 轻量级的从头开始的服务器实现.
 - [Mohist](https://mohistmc.com/) - 实现 Forge 和 Bukkit API 的服务器.
 - [Paper](https://papermc.io/) - Spigot 和 BungeeCord 的各种补丁提供了更好的性能和更多的配置选项.

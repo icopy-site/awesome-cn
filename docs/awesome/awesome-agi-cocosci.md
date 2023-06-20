@@ -202,7 +202,7 @@
 
 * [Probabilistic alternatives to Bayesianism: the case of explanationism](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.00459/full) - ***心理学前沿***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=9016714668469830914&hl=en&as_sdt=0,5) ]. 绑架的非贝叶斯解释.
 
-* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 解释溯因推理的概率观点.
+* [A Probabilistic Theory of Abductive Reasoning](https://www.scitepress.org/Link.aspx?doi=10.5220/0010195405620571) - ***ICAART***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=450937566244876051&hl=en&as_sdt=0,5) ]. 解释溯因推理的概率观点.
 
 * [The order effect in human abductive reasoning: an empirical and computational study](https://www.tandfonline.com/doi/full/10.1080/09528130600558141?scroll=top&needAccess=true) - ***人工智能实验与理论杂志***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=3803536062463585043&hl=en&as_sdt=0,5)].
 
@@ -231,9 +231,9 @@
 
 * [Complexity Management in a Discovery Task](https://www.cmu.edu/dietrich/psychology/pdf/klahr/PDFs/schunn-klahr.pdf) - ***CogSci&#39;92***，1992 年. [[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974&hl=en&as_sdt=2005&sciodt=0,5) ]. 对偶空间搜索的高级实验.
 
-* [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***国际人机研究杂志***，1996 年. [[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678&hl=en&as_sdt=2005&sciodt=0,5) ]. 双空间搜索的迭代版本（深度和宽度）.
+* [A dual-space model of iteratively deepening exploratory learning](https://www.sciencedirect.com/science/article/pii/S1071581996900324) - ***International Journal of Human-Computer Studies***, 1996. [[All Versions](https://scholar.google.com/scholar?cluster=17337189265334825678&hl=en&as_sdt=2005&sciodt=0,5) ]. 双空间搜索的迭代版本（深度和宽度）.
 
-* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***认知心理学***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5)]. A piece of evidence on children have basic scientific thinking skills.
+* [Heuristics for Scientific Experimentation: A Developmental Study](https://www.sciencedirect.com/science/article/abs/pii/S0010028583710030) - ***认知心理学***，1993 年. [[All Versions](https://scholar.google.com/scholar?cluster=2469515962071844494&hl=en&as_sdt=2005&sciodt=0,5) ]. 一项关于儿童具有基本科学思维能力的证据.
 
 * [A 4-Space Model of Scientific Discovery](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.645.248&rep=rep1&type=pdf) - ***CogSci&#39;95***，1995 年. [[All Versions](https://scholar.google.com/scholar?cluster=1063157789682040473&hl=en&as_sdt=2005&sciodt=0,5) ]. 扩展对偶空间搜索.
 
@@ -422,7 +422,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) - ***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ].  Susan Carey 关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——一种对知识和意义起源的看法对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·高普尼克 (Alison Gopnik) 的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样通过形成和修正理论来了解世界的观点——一种对知识和意义起源的看法对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论 theory 的原始论文.
 
@@ -441,9 +441,9 @@
 
 * [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***心理科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308&hl=en&as_sdt=0,5) ]. 揭示个体间词义分歧的认知和神经起源.
 
-* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，从而恢复人类对各种对象类别和属性的判断. 
+* [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***自然人类行为***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654&hl=en&as_sdt=0,5) ]. 提出一种从词嵌入中提取上下文相关关系的领域通用方法：将词向量“语义投影”到代表多维特征的线上，恢复人类对各种对象类别和属性的判断. 
 
-* [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***Frontiers in Psychology***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
+* [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***心理学前沿***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
 
 
 #### AI Concept Representation
@@ -525,7 +525,7 @@
 
 * [Pragmatics](https://plato.stanford.edu/entries/pragmatics/)  - ***柏拉图·斯坦福***. 语用学的计算哲学说明，它研究特定上下文中的话语.
 
-* [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5) ]. 关于理性言语行为 (RSA) 的原始论文.
+* [Predicting Pragmatic Reasoning in Language Games](https://langcog.stanford.edu/papers_new/frank-2012-science.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=15533081031935746054&hl=en&as_sdt=0,5) ]. 关于理性言语行为 (RSA) 的原始论文.
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130&hl=en&as_sdt=0,5) ]. 诺亚·古德曼 (Noah Goodman) 和迈克尔·弗兰克 (Micheal Frank) 对理性言语行为的评论.
 
@@ -592,7 +592,7 @@
 * [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***科学***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312&hl=en&as_sdt=0,5) ].  Daniel Kahneman 的经典思想前瞻性理论.
 
 
-* [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***科学***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773&hl=en&as_sdt=0,5) ]. 支持规则转换的神经科学证据.
+* [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773&hl=en&as_sdt=0,5) ]. 支持规则转换的神经科学证据.
 
 * [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***自然***，2013 年. [[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220&hl=en&as_sdt=0,5) ]. 介绍混合选择性与高维神经表征的原始论文.
 
@@ -607,7 +607,7 @@
 
 * [Representations in distributed cognitive tasks](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog1801_3) - ***认知科学***，1994 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14781266698447195483)].
 
-* [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***认知科学***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
+* [The nature of external representations in problem solving](https://www.sciencedirect.com/science/article/abs/pii/S0364021399800226) - ***Cognitive Science***, 1997. [[All Versions](https://scholar.google.com/scholar?cluster=10698887231200401430&hl=en&as_sdt=0,5)].
 
 
 * [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.&btnG=)].
@@ -623,7 +623,7 @@
 
 * [Learning to act by integrating mental simulations and physical experiments](https://cpilab.org/pubs/Dasgupta2018Learning.pdf) - ***CogSci&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=7342920174595829739&hl=en&as_sdt=0,5)]. [[Code](https://github.com/ishita-dg/SimulationVSAction)].
 
-* [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939&hl=en&as_sdt=0,5)].
+* [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939&hl=en&as_sdt=0,5)].
 
 
 #### Planning
@@ -746,7 +746,7 @@
 
 #### Neural-Symbolic AI
 
-* [Regression Analysis for Interval-Valued Data](https://link.springer.com/chapter/10.1007/978-3-642-59789-3_58) - ***数据分析、分类和相关方法***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=9407097855380377791&hl=en&as_sdt=0,5)]. The original paper on symbolic regression.
+* [Regression Analysis for Interval-Valued Data](https://link.springer.com/chapter/10.1007/978-3-642-59789-3_58) - ***数据分析、分类和相关方法***，2000 年. [[All Versions](https://scholar.google.com/scholar?cluster=9407097855380377791&hl=en&as_sdt=0,5) ]. 关于符号回归的原始论文.
 
 * [Symbolic data analysis: what is it?](https://link.springer.com/chapter/10.1007/978-3-7908-1709-6_20) - ***计算统计论文集***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=3730437602749399283&hl=en&as_sdt=0,5)].
 
@@ -911,7 +911,7 @@
 
 ### Evolutionary Intelligence
 
-* [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080&hl=en&as_sdt=0,5) ]. 一篇将生物权衡与帕累托最优演化相关联的经典论文.
+* [Evolutionary trade-offs, Pareto optimality, and the geometry of phenotype space](http://websites.umich.edu/~zhanglab/clubPaper/06_08_2012.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16162252507845975080&hl=en&as_sdt=0,5) ]. 一篇将生物权衡与帕累托最优演化相关联的经典论文.
 
 * [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***应用数学与优化***，1977 年. [[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354&hl=en&as_sdt=0,5) ]. 关于多目标问题中帕累托最优的原始论文.
 
@@ -971,7 +971,7 @@
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***心理评论***，1972 年. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5) ]. 赫伯特·西蒙 (Herbert Simon) 在计算机辅助行为研究方面的早期实验.
 
-* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***知识与认知***，1974 年. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
+* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
 
 
 
@@ -997,7 +997,7 @@
 
 * [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001 年. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 的第 3 年审查.
 
-* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***社会心理学和无意识：高级心理过程的自动化（第 265-292 页），心理学出版社 ***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT 的第 7 年审查.
+* [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***社会心理学和无意识：高级心理过程的自动化（第 265-292 页），心理学出版社 ***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5)]. The 7th year review for the IAT.
 
 * [A Meta-Analysis on the Correlation Between the Implicit Association Test and Explicit Self-Report Measures](http://faculty.washington.edu/agg/IATmaterials/PDFs/Hofmann%20&%20al%20(PSPB,2005).pdf) - ***人格与社会心理学公报***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=4888328728717829047&hl=en&as_sdt=0,5)].
 
@@ -1045,7 +1045,7 @@
 
 * [Levels of Analysis in Computational Social Science](https://people.csail.mit.edu/pkrafft/papers/krafft-griffiths-levels-css.pdf) - ***CogSci&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=10178929388985626844&hl=en&as_sdt=0,5) ]. 马尔关于计算社会科学的范式说明.
 
-* [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR&#39;20 桥接人工智能和认知科学研讨会***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5) ]. 马尔关于机器学习的范式说明.
+* [Levels of Analysis for Machine Learning](https://baicsworkshop.github.io/pdf/BAICS_6.pdf) - ***ICLR&#39;20 桥接人工智能和认知科学研讨会***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=13819038971626384115&hl=en&as_sdt=0,5)]. A Marr's paradigm account on machine learning.
 
 
 #### Gestalt
@@ -1132,7 +1132,7 @@
 
 * [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***美国国家科学院院刊***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134&hl=zh-CN&as_sdt=0,5) ].  Thomas L. Griffiths 使用贝叶斯模型对科学主题进行分析.
 
-* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5)]. An analysis of bias patterns and risk factors in science.
+* [Meta-assessment of Bias in Science](https://www.pnas.org/doi/10.1073/pnas.1618569114) - ***美国国家科学院院刊***，2017 年. [[All Verisions](https://scholar.google.com/scholar?cluster=14575889060982308028&hl=zh-CN&as_sdt=0,5) ]. 对科学中的偏见模式和风险因素的分析.
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***美国国家科学院院刊***，2021 年. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5) ]. 分析为什么每年在一个领域发表太多论文会导致停滞而不是进步. 
 
@@ -1173,7 +1173,7 @@
 
 * [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7#Sec1) - ***自然***，2023 年. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)].
 
-* [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf) - ***科学***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682&hl=en&as_sdt=0,5)].
+* [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682&hl=en&as_sdt=0,5)].
 
 * [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
 
@@ -1201,11 +1201,13 @@
 
 * [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***科学***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279&hl=en&as_sdt=0,10)].
 
-* [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900&hl=en&as_sdt=0,10)].
+* [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900&hl=en&as_sdt=0,10)].
 
 * [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***自然***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824&hl=en&as_sdt=0,5)].
 
 * [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***公共科学图书馆医学***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908&hl=en&as_sdt=0,10)].
+
+* [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***自然广告***.
 
 
 
@@ -1248,7 +1250,7 @@
 
 * [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5) ]. 没有显式概率计算的人类概率建模的观点.
 
-* [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***自然人类行为***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
+* [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
 
 * [The Bayesian Brain: An Introduction to Predictive Processing](https://www.mindcoolness.com/blog/bayesian-brain-predictive-processing/) - 2018. 
 
@@ -1531,7 +1533,7 @@
 
 * [Handbook of Knowledge Representation](https://1lib.net/book/511192/9eab86) - ***爱思唯尔***，2008 年. [[All Versions](https://scholar.google.com/scholar?cluster=14732064619564679879&hl=en&as_sdt=0,5) ]. 各种知识表示模式的实用手册.
 
-* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 一个关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
+* [Logic and Ontology](https://plato.stanford.edu/entries/logic-ontology/)  - ***柏拉图·斯坦福***. 关于逻辑和本体论的计算哲学说明，主要是关于逻辑和本体论在许多重要哲学问题中的交叉点.
 
 * [The Language of Thought Hypothesis](https://plato.stanford.edu/entries/language-thought/)  - ***柏拉图·斯坦福***. 一种计算哲学解释了思维假设，它提出思维发生在一种心理语言中.
 
@@ -1653,7 +1655,7 @@
 
 * [Where science starts: Spontaneous experiments in preschoolers' exploratory play](https://www.sciencedirect.com/science/article/pii/S0010027711000916) - ***认知***，2011 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16321989770180281706)].
 
-* [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***科学***，2012 年. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)].
+* [Scientific thinking in young children: Theoretical advances, empirical research, and policy implications](http://alisongopnik.com/Papers_Alison/Scientific%20Thinking%20in%20young%20Children.pdf) - ***Science***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=9103846738385460508&hl=en&as_sdt=2005)].
 
 * [Finding New Facts; Thinking New Thoughts](http://eccl.scripts.mit.edu/papers/Finding%20New%20Facts_%20Thinking%20New%20Thoughts.pdf) - ***儿童发展和行为的进展***，2012 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Finding+new+facts%3B+thinking+new+thoughts&btnG=)]. 
 
@@ -1681,7 +1683,7 @@
 
 * [Children's exploratory play tracks the discriminability of hypotheses](https://www.nature.com/articles/s41467-021-23431-2) - ***自然通讯***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=12389351553206792907&hl=en&as_sdt=0,5&as_ylo=2020)].
 
-* [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***Child Development***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)].
+* [A Developmental Perspective on Executive Function](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8624.2010.01499.x?saml_referrer) - ***儿童发展***，2010 年. [[All Versions](https://scholar.google.com/scholar?cluster=11347590808138984649&hl=en&as_sdt=0,5)].
 
 * [Rethinking Executive Function and Its Development](https://journals.sagepub.com/doi/pdf/10.1177/1745691620904771) - ***心理科学***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=16570230278367237499&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -2077,4 +2079,4 @@
 
 The [initiator](https://github.com/YuzheSHI) 这个 repo 一直在努力对相关主题进行分类，因为有太多的观点可以遵循，例如面向任务的、面向技术的和面向形而上学的. 最后他决定把重点放在 ***The Sciences of Intelligence*** 的观点上——每个主题都描述了一种智能现象，或者一种智能行为——它们展示了为计算方法对人类智能进行逆向工程的目标. 这些主题从不局限于特定的技术方法或任务，而是试图从*软件角度*和*硬件角度*来组织智能的本质.
 
-Obviously, this reading list is far from covering the every aspect of AGI and CoCoSci. Since the list is a by-product of the literature reviews when the initiator is working on Abduction and Bayesian modeling, other topics are also collected with biases, more or less. Abduction may be the way humans explain the world with the known, and discover the unknown, requiring much more investigations into its computational basis, cognitive underpinnings, and applications to AI. Please feel free to reach out!
+显然，这份阅读清单远不能涵盖 AGI 和 CoCoSci 的方方面面. 由于该列表是发起者在进行溯因推理和贝叶斯建模时文献综述的副产品，因此其他主题也或多或少地带有偏见. 溯因可能是人类用已知解释世界并发现未知的方式，需要对其计算基础、认知基础和人工智能应用进行更多调查. 请随时与我们联系！

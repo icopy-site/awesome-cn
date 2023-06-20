@@ -172,7 +172,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [clj-ml](https://github.com/joshuaeckroth/clj-ml/) - 建立在 Weka 和朋友之上的 Clojure 机器学习库.
 * [clj-boost](https://gitlab.com/alanmarazzi/clj-boost) - XGBoost 的包装器
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B 测试库.
-* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 遗传编程系统.
+* [Clojush](https://github.com/lspector/Clojush) - 在Clojure 中实现的Push 编程语言和PushGP 基因编程系统.
 * [lambda-ml](https://github.com/cloudkj/lambda-ml) - Clojure 中机器学习技术和实用程序的简单、简洁的实现.
 * [Infer](https://github.com/aria42/infer)  - Clojure 中的推理和机器学习.  **[弃用]**
 * [Encog](https://github.com/jimpil/enclog)  - Encog (v3) 的 Clojure 包装器（专门研究神经网络的机器学习框架）.  **[弃用]**
@@ -767,7 +767,7 @@ _如果您想为此列表做出贡献（请这样做），请向我发送拉取�
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  - .NET Core 和 .NET Framework 的多平台遗传算法库. 该库有几种 GA 运算符的实现，例如：选择、交叉、变异、重新插入和终止.
 * [Infer.NET](https://dotnet.github.io/infer/)  - Infer.NET 是在图形模型中运行贝叶斯推理的框架. 可以使用 Infer.NET 解决许多不同类型的机器学习问题，从分类、推荐或聚类等标准问题到针对特定领域问题的定制解决方案.  Infer.NET 已被广泛用于各种领域，包括信息检索、生物信息学、流行病学、视觉等.
 * [ML.NET](https://github.com/dotnet/machinelearning)  - ML.NET 是一个跨平台的开源机器学习框架，它使 .NET 开发人员可以访问机器学习.  ML.NET 最初由 Microsoft Research 开发，并在过去十年中发展成为一个重要的框架，并在 Microsoft 的许多产品组中使用，如 Windows、Bing、PowerPoint、Excel 等.
-* [Neural Network Designer](https://sourceforge.net/projects/nnd/)  - 神经网络的 DBMS 管理系统和设计器. 设计器应用程序是使用 WPF 开发的，它是一个用户界面，允许您设计神经网络、查询网络、创建和配置能够提出问题并从您的反馈中学习的聊天机器人. 聊天机器人甚至可以在互联网上抓取信息以返回其输出并用于学习.
+* [Neural Network Designer](https://sourceforge.net/projects/nnd/)  - 神经网络的 DBMS 管理系统和设计器. 设计器应用程序使用 WPF 开发，是一个用户界面，允许您设计神经网络、查询网络、创建和配置能够提出问题并从您的反馈中学习的聊天机器人. 聊天机器人甚至可以在互联网上抓取信息以返回其输出并用于学习.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Neural network library in F#.
 * [Vulpes](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 * [MxNet.Sharp](https://github.com/tech-quantum/MxNet.Sharp) - .NET Standard bindings for Apache MxNet with Imperative, Symbolic and Gluon Interface for developing, training and deploying Machine Learning models in C#. https://mxnet.tech-quantum.com/
@@ -956,6 +956,7 @@ be
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
 
+ * [Aim](https://github.com/aimhubio/aim) -&gt; 易于使用且功能强大的开源 AI 元数据跟踪器.
  * [RexMex](https://github.com/AstraZeneca/rexmex) -&gt; 用于公平评估的通用推荐指标库.
  * [ChemicalX](https://github.com/AstraZeneca/chemicalx) -&gt; 基于 PyTorch 的药物配对评分深度学习库
  * [Microsoft ML for Apache Spark](https://github.com/Azure/mmlspark) -&gt; 分布式机器学习框架 Apache Spark
@@ -1080,7 +1081,7 @@ be
 * [Catalyst](https://github.com/catalyst-team/catalyst)  - 用于 PyTorch DL 和 RL 研究的高级实用程序. 它的开发重点是可重复性、快速实验和代码/想法的重用. 能够研究/开发新的东西，而不是编写另一个常规的火车循环.
 * [Fastai](https://github.com/fastai/fastai) - 构建在 Pytorch 之上的高级包装器，支持视觉、文本、表格数据和协同过滤.
 * [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) - 用于多输出/多标签和流数据的机器学习框架.
-* [Lightwood](https://github.com/mindsdb/lightwood) - 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目标是用一行代码构建预测模型.
+* [Lightwood](https://github.com/mindsdb/lightwood) - 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目的是通过一行代码构建预测模型.
 * [bayeso](https://github.com/jungtaekkim/bayeso) - 一个简单但必不可少的贝叶斯优化包，用 Python 编写.
 * [mljar-supervised](https://github.com/mljar/mljar-supervised)  - 用于表格数据的自动机器学习 (AutoML) python 包. 它可以处理：二元分类、多类分类和回归. 它提供解释和降价报告.
 * [evostra](https://github.com/alirezamika/evostra) - Python 中的快速进化策略实现.
@@ -1106,7 +1107,7 @@ be
 * [Eurybia](https://github.com/MAIF/eurybia)：Eurybia 监控数据和模型随时间的漂移，并通过数据验证确保模型部署安全.
 * [Colossal-AI](https://github.com/hpcaitech/ColossalAI): 一个开源的深度学习系统，用于高效低成本的大规模模型训练和推理.
 * [dirty_cat](https://github.com/dirty-cat/dirty_cat)  - 促进机器学习肮脏的、非策划的类别. 它提供了对词法变体（例如打字错误）具有鲁棒性的转换器和编码器.
-* [Upgini](https://github.com/upgini/upgini)：用于机器学习的免费自动化数据和功能丰富库 - 自动搜索来自公共和社区共享数据源的数千个即用型功能，并仅使用提高准确性的功能来丰富您的训练数据集.
+* [Upgini](https://github.com/upgini/upgini)：用于机器学习的免费自动化数据和功能丰富库 - 自动搜索来自公共和社区共享数据源的数千个现成功能，并仅使用提高准确性的功能来丰富您的训练数据集.
 * [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)：帮助机器学习研究人员自动获得优化机器学习模型的教程，该模型在任何特定任务上具有最佳学习性能.
 * [SKBEL](https://github.com/robinthibaut/skbel): 用于贝叶斯证据学习 (BEL) 的 Python 库，用于估计预测的不确定性.
 * [NannyML](https://bit.ly/nannyml-github-machinelearning) : Python 库能够完全捕获数据漂移对性能的影响. 允许在不访问目标的情况下评估部署后模型的性能.

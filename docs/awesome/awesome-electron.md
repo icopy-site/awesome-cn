@@ -138,7 +138,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现、收集和收听来自 YouTube 的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 从免费来源流式传输的音乐播放器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览 Markdown 编辑器.
-- [Pomotroid](https://github.com/Splode/pomotroid) - 计时器番茄.
+- [Pomotroid](https://github.com/Splode/pomotroid) - 定时器番茄.
 - [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的可视化工具.
 - [Etcher](https://github.com/resin-io/etcher) - 将操作系统映像闪存到 SD 卡和 USB 驱动器.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于 Markdown 的笔记记录.
@@ -162,6 +162,7 @@
 - [VIR](https://github.com/TommyX12/VIR) - 具有自动计划功能的智能时间管理器.
 - [Browserosaurus](https://github.com/will-stone/browserosaurus) - macOS 的浏览器提示器.
 - [linked](https://github.com/lostdesign/linked) - 日报.
+- [shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - 跨平台的 Shadowsocks 客户端.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - 现代文件管理器.
 - [Ostara](https://github.com/krud-dev/ostara) - 通过 Actuator 监控 Spring Boot 应用程序并与之交互.
 
@@ -177,7 +178,7 @@
 - [GitKraken](http://www.gitkraken.com) - Git 客户端.
 - [1Clipboard](http://1clipboard.io) - 通用剪贴板管理器.
 - [Postman](https://www.getpostman.com) - 创建和发送 HTTP 请求.
-- [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - Desktop version.
+- [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - 桌面版.
 - [Avocode](http://avocode.com) - 共享设计和协作.
 - [Prepros](https://prepros.io) - 通过实时浏览器刷新编译几乎任何预处理语言.
 - [Stremio](http://www.strem.io) - 媒体中心.
@@ -278,8 +279,9 @@
 - [trilogy](https://github.com/citycide/trilogy) - 支持原生 C++ 和纯 JavaScript 后端的 TypeScript SQLite 数据库层.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - 阻止广告和追踪器.
 - [electronmon](https://github.com/catdad/electronmon) - 在开发过程中监控和重新加载进程外的应用程序.
-- [electronegativity](https://github.com/doyensec/electronegativity) - 识别错误配置和安全反模式.
+- [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 - [UpdateRocks!](https://www.update.rocks)  - 自动更新服务. 免费用于开源项目.
+- [electron-vite](https://github.com/alex8088/electron-vite) - 与 Vite 集成的快速且易于使用的构建工具.
 - [pluggable-electron](https://github.com/dutchigor/pluggable-electron) - 构建可通过插件扩展的应用程序.
 - [Hydraulic Conveyor](https://hydraulic.dev) - 无需任何特殊更新服务器、多平台 CI 或代码更改即可部署应用程序的 CLI 工具.
 

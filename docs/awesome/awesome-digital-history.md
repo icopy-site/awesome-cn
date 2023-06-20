@@ -17,7 +17,7 @@
 
 ### Asia
 
-- [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles 是亚洲地区外商的参考书，由香港日报出版社每年出版，出版时间为 1863 年至 1941 年.
+- [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles 是亚洲地区外国贸易商的参考书，由香港日报出版社每年出版，出版时间为 1863 年至 1941 年.
 
 ### Austria
 
@@ -32,7 +32,7 @@
 - [Encyclopédie d'histoire numérique](https://ehne.fr/) - 欧洲历史，通过更新的史学对象和主要的当代挑战.
 - [Europeana](https://www.europeana.eu/) - 欧洲文本和非文本档案来源的搜索引擎.
 - [Mapire](https://mapire.eu/) - 交互式历史地图.
-- [Monasterium](https://www.monasterium.net/mom/home) - 来自欧洲各地的事迹.
+- [Monasterium](https://www.monasterium.net/mom/home) - Deeds from all over Europe.
 - [Project Gutenberg](https://www.gutenberg.org/) - 拥有 60,000 多本免费电子书的图书馆.
 - [Visual Archive Southeastern Europe](http://gams.uni-graz.at/context:vase) - 来自东南欧的历史和当代视觉材料.
 
@@ -51,11 +51,12 @@
 - [Digitale Sammlungen](https://www.digitale-sammlungen.de/) - 慕尼黑数字化中心的收藏.
 - [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) - 关于德国妇女运动历史的互动门户.
 - [Docupedia](https://docupedia.de/) - 当代历史研究中的术语、方法和争论.
+- [historicum.net](https://www.historicum.net/home/) - 为历史学家提供的专门信息服务，提供对研究工具和服务的访问.
 - [leo bw](https://www.leo-bw.de/) - 巴登-符腾堡州国家档案馆平台.
 - [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - 纳粹时代受迫害音乐家的百科全书.
 - [MARCHIVUM](https://druckschriften-digital.marchivum.de/) - 关于曼海姆历史的曼海姆报纸和历史印刷品合集.
 - [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - 包含 2,000 多位德语作者的 10,000 部作品.
-- [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - Over 1.8 million graphic media (photographs, maps, drawings).
+- [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - 超过 180 万种图形媒体（照片、地图、绘图）.
 - [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) - 自 1947 年以来的 SPIEGEL 档案.
 - [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) - 手稿、文件、地图和文献.
 - [Uni Frankfurt](http://sammlungen.ub.uni-frankfurt.de/) - 稀有版画、手稿、遗赠等.

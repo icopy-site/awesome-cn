@@ -39,7 +39,8 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - Proof General 的 Coq 模式的 IDE 扩展.
 - [jsCoq](https://github.com/ejgallego/jscoq) - Coq 到 JavaScript 的端口，可以在浏览器中运行 Coq 项目.
 - [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq 支持 Jupyter Notebook 网络环境.
-- [VsCoq](https://github.com/coq-community/vscoq) - Visual Studio Code 和 VSCodium 编辑器的扩展.
+- [VsCoq1](https://github.com/coq-community/vscoq/tree/vscoq1) - 使用 Coq 的遗留 XML 协议扩展 Visual Studio Code 和 VSCodium 编辑器.
+- [VsCoq2](https://github.com/coq-community/vscoq) - Visual Studio Code 和 VSCodium 编辑器的实验语言服务器和扩展.
 
 ### Libraries
 
@@ -87,7 +88,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 ### Plugins
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - 重写一些算子的普遍量化方程、模结合律和交换律的策略.
-- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和战术.
+- [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - 基于 λProlog 的扩展框架提供了广泛的 API 来实现命令和策略.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - 通用的自动推理锤工具，它将从以前的证明中学习与将问题转化为自动证明和重建已找到的证明相结合.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Coq 的函数定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - 实现浮点运算和舍入误差目标的策略.
@@ -114,7 +115,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 
 ### Tools
 
-- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集.
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - 用于编写混合 Coq 代码和散文的技术文档的工具集合.
 - [Autosubst 2](https://github.com/uds-psl/autosubst2) - 生成 Coq 代码的工具，用于在语法中处理绑定程序，例如重命名和替换.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - 用于在分离逻辑中证明 OCaml 程序属性的工具.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Coq 的替代 HTML 文档生成器.
@@ -126,7 +127,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
   - [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - 自动最小化产生错误的源文件，为 Coq 错误创建小测试用例.
   - [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - 处理源文件以使依赖项的加载对文件名的阴影具有鲁棒性.
   - [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - 通过内联所有依赖项的加载，从开发中创建独立的源文件.
-  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - 删除未使用的依赖项的加载.
+  - [`minimize-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/minimize-requires.py) - Removes loading of unused dependencies.
   - [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - 将所有依赖加载语句移动到源文件的顶部.
   - [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - 从证明脚本块中提取许多白话命令和内部引理.
   - [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - 修改源文件以包含证明注释以加快并行证明.
@@ -158,7 +159,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供一种形式化语言来�
 - [Graph Theory](https://github.com/coq-community/graph-theory) - 形式化的图论结果.
 - [Homotopy Type Theory](https://github.com/HoTT/Coq-HoTT) - 同伦论思想的发展.
 - [Infotheo](https://github.com/affeldt-aist/infotheo) - 信息论和线性纠错码的形式化.
-- [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
+- [Mathematical Components](http://math-comp.github.io) - 数学理论的形式化，特别关注群论.
 - [Math Classes](https://github.com/coq-community/math-classes) - 基于类型类的数学结构的抽象接口.
 - [Monae](https://github.com/affeldt-aist/monae) - 单子效应和等式推理.
 - [Odd Order Theorem](https://github.com/math-comp/odd-order) - 奇阶定理的正式证明，这是有限群论的里程碑式成果.

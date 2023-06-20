@@ -3,7 +3,7 @@
 
 ## Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 游戏创作者学习资源的巨型清单 
+&gt; 游戏创作者学习资源的巨型列表 
 
 <p>
 
@@ -28,7 +28,7 @@
 
 几乎所有的资源都是免费的，任何有价格标签的东西都会被清楚地标明. 只有在相关学科的行业专业人士亲自认可的情况下，才包括付费资源.
 
-随时欢迎提出建议和面向未来的努力！ 有关贡献指南，请参阅“Contributing.md”，并查看 [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) for tasks that need completing, such as archival work.
+随时欢迎提出建议和面向未来的努力！ 有关贡献指南，请参阅“Contributing.md”，并查看 [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) 对于需要完成的任务，例如档案工作.
 
 通常，此列表会避免使用工具和资产. 但是，它包含角色所需的特定工具的课程/教程，以及可以使人们更有效地学习其角色的资产（例如，动画部分包含装备）. 有关工具、资产、社区和更详细的单个工具（如 Unity）列表，请查看 [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
@@ -727,6 +727,9 @@ Note that there are many, many more resources out there - these are primarily in
 
 
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - 对高级制作人弗兰克·罗根的采访.
+
+
+[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
 
 
 <br />
