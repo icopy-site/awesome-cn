@@ -3,7 +3,7 @@
 
 涵盖 Nginx、Nginx + Lua、OpenResty 和 Tengine 的资源集合.
 
-此列表由维护 [Frederic Cambus](https://www.cambus.net) . 如需更新，请在 Twitter 上关注我： [@fcambus](https://twitter.com/fcambus)
+该列表由以下人员维护 [Frederic Cambus](https://www.cambus.net) . 如需更新，请在 Twitter 上关注我： [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -40,6 +40,7 @@
 - [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 - [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 - [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy)
+- [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration)
 
 ## Tutorials
 

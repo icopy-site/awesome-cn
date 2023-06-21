@@ -5,15 +5,15 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-**一个开源数据科学存储库，用于学习和应用于解决现实世界的问题.**
+**一个开源数据科学存储库，用于学习和应用来解决现实世界的问题.**
 
-这是开始学习**数据科学**的捷径. 只需按照以下步骤回答问题，“什么是数据科学，我应该学习什么来学习数据科学？”
+这是开始学习**数据科学**的捷径. 只需按照步骤回答“什么是数据科学以及我应该学习什么来学习数据科学？”的问题.
 
 ## Sponsors
 
- | 赞助 | 间距 |
+ | 赞助 | 推介|
 | --- | --- |
- |  --- | 抢先赞助！  `github@academic.io` |
+ |  --- | 成为第一个赞助者！  `github@academic.io` |
 
 
 
@@ -24,29 +24,29 @@
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
 
-数据科学是当今计算机和互联网领域最热门的话题之一. 直到今天，人们一直在从应用程序和系统中收集数据，现在是分析它们的时候了. 接下来的步骤是根据数据提出建议并对未来做出预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到**数据科学**的最大问题以及来自专家的数百个答案.
+数据科学是当今计算机和互联网领域最热门的话题之一. 直到今天，人们已经从应用程序和系统中收集了数据，现在是分析它们的时候了. 接下来的步骤是根据数据提出建议并创建对未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到**数据科学**的最大问题以及专家的数百个答案.
 
 
  | 链接 | 预览 |
 | --- | --- |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力结合起来. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理定义非常广泛的问题：“这里有很多数据，你能从中得到什么？”_ |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的多个方面的组合，例如技术、算法开发和数据干扰，以研究数据、分析数据并找到解决难题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据和推动业务增长.  |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 1980 年代和 90 年代的华尔街“宽客”. 在那些日子里，具有物理和数学背景的人涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，许多大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才.  1990 年代后期，搜索工程师重复了这种模式，他们精湛的技能很快就在计算机科学课程中得到教授.
-| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、过程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
-| [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争论者，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们分析、处理和建模数据，然后解释结果，为公司和其他组织制定可操作的计划._ |
-| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _关于数据科学家如何变得性感的故事，主要是成熟的统计学学科与一门非常年轻的学科——计算机科学相结合的故事.  “数据科学”一词最近才出现，专门指一种有望理解海量大数据的新职业. 但是理解数据的意义由来已久，科学家、统计学家、图书馆员、计算机科学家和其他人已经讨论了多年. 以下时间线追溯了术语“数据科学”及其使用的演变，尝试定义它和相关术语._ |
-|[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) |数据科学家专注于通过探索性分析、统计和模型来理解数据. 软件开发人员使用不同的工具应用一组单独的知识. 尽管他们的重点似乎无关紧要，但数据科学团队可以从采用软件开发最佳实践中受益. 版本控制、自动化测试和其他开发技能有助于创建可重现的、生产就绪的代码和工具.|
+| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将创业精神与耐心、逐步构建数据产品的意愿、探索能力以及迭代解决方案的能力结合起来. 它们本质上是跨学科的. 他们可以解决问题的各个方面，从最初的数据收集和数据调节到得出结论. 他们可以跳出框框思考，想出新的方法来看待问题，或者处理非常广泛定义的问题：“这里有很多数据，你能从中得到什么？”_ |
+| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是结合数据技术、算法开发、数据干扰等多个方面来研究数据、分析数据并找到困难问题的创新解决方案. 基本上，数据科学就是通过寻找创造性的方法来分析数据并推动业务增长.  |
+| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _今天的数据科学家类似于 20 世纪 80 年代和 90 年代的华尔街“宽客”. 那时，具有物理和数学背景的人们涌入投资银行和对冲基金，在那里他们可以设计全新的算法和数据策略. 随后，多所大学开设了金融工程硕士课程，培养了主流公司更容易接触到的第二代人才. 这种模式在 20 世纪 90 年代后期在搜索工程师中得到了重复，他们的精湛技能很快就在计算机科学课程中得到教授.
+| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法、流程、算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘、机器学习和大数据有关._ |
+| [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据管理员，收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学、统计学和数学. 他们对数据进行分析、处理和建模，然后解释结果，为公司和其他组织制定可行的计划.
+| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _数据科学家如何变得性感的故事主要是成熟的统计学学科与非常年轻的学科（计算机科学）结合的故事.  “数据科学”一词最近才出现，专门指代一种有望理解海量大数据的新职业. 但理解数据有着悠久的历史，科学家、统计学家、图书馆员、计算机科学家和其他人多年来一直在讨论这一问题. 以下时间线追溯了“数据科学”一词的演变及其使用，尝试定义它以及相关术语._ |
+|[Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) |数据科学家专注于通过探索性分析、统计和模型来理解数据. 软件开发人员使用不同的工具应用一组单独的知识. 尽管他们的重点似乎无关，但数据科学团队可以从采用软件开发最佳实践中受益. 版本控制、自动化测试和其他开发技能有助于创建可重复的、可用于生产的代码和工具.
 
 ## Where do I Start?
 **[`^        back to top        ^`](#awesome-data-science)**
 
-虽然并非绝对必要，但拥有编程语言是成为数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用的脚本语言，其应用领域非常广泛.  R 是一种特定领域的统计语言，它包含许多开箱即用的常用统计工具.
+虽然不是绝对必要的，但拥有一门编程语言是成为一名有效的数据科学家的一项关键技能. 目前，最流行的语言是_Python_，紧随其后的是_R_.  Python 是一种通用脚本语言，在各个领域都有应用.  R 是一种用于统计的领域特定语言，其中包含许多开箱即用的常用统计工具.
 
- Python 是迄今为止科学界最流行的语言，这在很大程度上要归功于它的易用性和用户生成包的活跃生态系统. 要安装包，有两种主要方法：Pip（调用为 `pip install`），与 Python 捆绑在一起的包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个功能强大的包管理器，可以为 Python、R 安装包，还可以下载 Git 等可执行文件. 
+ Python 是迄今为止科学界最流行的语言，这在很大程度上归功于它的易用性以及用户生成的包的充满活力的生态系统. 要安装软件包，有两种主要方法：Pip（称为“pip install”），与 Python 捆绑在一起的软件包管理器，以及 [Anaconda](https://www.anaconda.com) （调用为 `conda install`），一个强大的包管理器，可以安装 Python、R 的包，并可以下载 Git 等可执行文件. 
 
-与 R 不同，Python 并不是从一开始就考虑到数据科学而构建的，但是有很多第三方库可以弥补这一点. 可以在本文档后面找到更详尽的包列表，但这四个包是开始您的数据科学之旅的一组很好的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法——它还包括丰富的文档、教程和它实现的模型示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是对您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，可以将他们的数据收集并分析成一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/), 本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种快速生成漂亮的数据可视化的方法，有许多开箱即用的良好默认值，以及展示如何生成许多常见的数据可视化的图库.
+与 R 不同，Python 并不是从头开始构建时就考虑到了数据科学，但有大量第三方库可以弥补这一点. 可以在本文档后面找到更详尽的包列表，但这四个包是开始数据科学之旅的一组不错的选择： [Scikit-Learn](https://scikit-learn.org/stable/index.html) 是一个通用数据科学包，它实现了最流行的算法 - 它还包括丰富的文档、教程和它实现的模型的示例. 即使您更喜欢编写自己的实现，Scikit-Learn 也是您会发现的许多常见算法背后的具体细节的宝贵参考. 和 [Pandas](https://pandas.pydata.org/)，人们可以收集数据并将其分析为一种方便的表格格式. [Numpy](https://numpy.org/) 为数学运算提供非常快速的工具，重点是向量和矩阵. [Seaborn](https://seaborn.pydata.org/)，本身基于 [Matplotlib](https://matplotlib.org/) 包，是一种生成漂亮的数据可视化效果的快速方法，具有许多开箱即用的良好默认值，以及一个展示如何生成许多常见数据可视化效果的库.
 
- 在踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 各有利弊. 选择一种您喜欢的语言，然后查看其中一种 [Free courses](#free-courses) 我们在下面列出了！
+ 当踏上成为数据科学家的旅程时，语言的选择并不是特别重要，Python 和 R 都有各自的优点和缺点. 选择您喜欢的语言，然后查看其中一种 [Free courses](#free-courses) 我们在下面列出了！
  
 ## Real World
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -56,20 +56,20 @@
 ### Disaster
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi)  （超过 25,000 名开发人员）正在尝试使用人工智能帮助灾难响应. 一切都是开源 [afet.org](https://afet.org). 
+- [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi)  （+25,000 名开发人员）正在尝试使用人工智能帮助灾难响应. 一切都是开源 [afet.org](https://afet.org). 
 
  
 
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
 
-你如何学习数据科学？ 当然是通过数据科学！ 好吧，好吧——当你刚开始的时候，这可能不是特别有用. 在本节中，我们列出了一些学习资源，按照承诺从最少到最多的粗略顺序排列 - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs)， 和 [Colleges](#colleges).
+你如何学习数据科学？ 当然是通过数据科学！ 好吧，好吧——当你刚开始的时候，这可能不是特别有帮助. 在本节中，我们列出了一些学习资源，按照从最小到最大承诺的粗略顺序 - [Tutorials](#tutorials), [Massively Open Online Courses (MOOCs)](#moocs), [Intensive Programs](#intensive-programs)， 和 [Colleges](#colleges).
 
 
 ### Tutorials
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用 IPython 在浏览器上运行.
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) 您可以使用IPython在浏览器上运行.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) 针对 R 生态系统的每周数据项目.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
@@ -79,7 +79,7 @@
 - [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 - [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 - [Tutorials to get started on signal processings for machine learning](https://github.com/jinglescode/python-signal-processing)
-- [Realtime deployment](https://www.microprediction.com/python-1) Python 时间序列模型部署教程.
+- [Realtime deployment](https://www.microprediction.com/python-1) Python时序模型部署教程.
 - [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
@@ -92,14 +92,15 @@
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
-- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - 成为人工智能专家的路线图
-- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析基础；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优性条件、对偶理论……）
-- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多门免费在线数据科学课程
-- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - 机器学习概论，涵盖基础理论、算法和应用
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - 凸优化（凸分析的基础知识；最小二乘、线性和二次规划、半定规划、极小极大、极值体积和其他问题；最优条件、对偶理论...）
+- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000 多个免费在线数据科学课程
+- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - 机器学习简介，涵盖基础理论、算法和应用
 - [Kaggle](https://www.kaggle.com/learn) - 了解数据科学、机器学习、Python 等
-- [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - 了解如何监控和根本原因生产 ML 问题.
+- [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - 了解如何监控生产机器学习问题并找出根本原因.
 - [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - 使用 W&amp;B 构建端到端机器的免费课程和认证
 - [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - 使用最强大的编程语言之一 Python 开始您的机器学习之旅.
+- [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/)  - 本课程旨在帮助初学者掌握在当今数据驱动的世界中脱颖而出的基本技能. 全面的课程将为您在统计、编程、数据可视化和机器学习方面打下坚实的基础.
 
 ### MOOC's
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -136,10 +137,11 @@
 - [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 - [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是专注于 Coursera 平台上的推荐系统的中级/高级专业.
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) 是一个中级/高级专业课程，专注于 Coursera 平台上的推荐系统.
 - [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 - [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
+- [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
 
 
 
@@ -171,7 +173,7 @@
 ## The Data Science Toolbox
 **[`^        back to top        ^`](#awesome-data-science)**
 
-本节是数据科学领域的包、工具、算法和其他有用项目的集合.
+本节是数据科学领域中的包、工具、算法和其他有用项目的集合.
 
 ### Algorithms
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -196,9 +198,9 @@
 - [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
   - 提升
   - 堆叠
-  - 装袋
+  - 套袋
   - 随机森林
-  -AdaBoost
+  - AdaBoost
 
 #### Unsupervised Learning
 - [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
@@ -213,9 +215,9 @@
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
   - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 - 神经网络
-- 自组织地图
+- 自组织映射
 - 自适应共振理论
-- 隐马尔可夫模型 (HMM)
+- 隐马尔可夫模型（HMM）
 
 #### Semi-Supervised Learning
 
@@ -228,31 +230,31 @@
 
 #### Reinforcement Learning
 
-- 问学习
-- SARSA（State-Action-Reward-State-Action）算法
+- Q学习
+- SARSA（状态-行动-奖励-状态-行动）算法
 - 时间差异学习
 
 #### Data Mining Algorithms
 
 - C4.5
 - k-均值
--支持向量机
+- 支持向量机
 - 先验
 - 在
 - 网页排名
--AdaBoost
--kNN
+- AdaBoost
+- kNN
 - 朴素贝叶斯
 - 购物车
 
 #### Deep Learning architectures
 
 - 多层感知器
-- 卷积神经网络 (CNN)
-- 循环神经网络 (RNN)
+- 卷积神经网络（CNN）
+- 递归神经网络（RNN）
 - 玻尔兹曼机
 - 自动编码器
-- 生成对抗网络 (GAN)
+- 生成对抗网络（GAN）
 - 自组织地图
 - 变压器
 - 条件随机场（CRF）
@@ -389,41 +391,41 @@
 
  | 链接 | 说明 |
 | --- | --- |
-| [The Data Science Lifecycle Process](https://github.com/dslp/dslp)  | 数据科学生命周期过程是一个让数据科学团队反复和可持续地从想法到价值的过程. 这个过程记录在这个 repo |
+| [The Data Science Lifecycle Process](https://github.com/dslp/dslp)  | 数据科学生命周期过程是一个反复、可持续地将数据科学团队从想法转变为价值的过程. 该过程记录在此存储库中 |
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template)  | 数据科学生命周期项目的模板存储库 |
 | [RexMex](https://github.com/AstraZeneca/rexmex)  | 用于公平评估的通用推荐指标库.  |
 | [ChemicalX](https://github.com/AstraZeneca/chemicalx)  | 基于 PyTorch 的深度学习库，用于药物对评分.  |
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | 动态图的表示学习.  |
-| [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，带有类似 Scikit-Learn 的 API.  |
-| [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，带有类似 Scikit-Learn 的 API.  |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的一体化 IDE. 工作区部署为 Docker 容器，并预加载了各种流行的数据科学库（例如，Tensorflow、PyTorch）和开发工具（例如，Jupyter、VS Code）|
-| [Neptune.ai](https://neptune.ai)  | 支持数据科学家创建和共享机器学习模型的社区友好型平台.  Neptune 促进团队合作、基础设施管理、模型比较和可重复性.  |
-| [steppy](https://github.com/minerva-ml/steppy)  | 轻量级的 Python 库，用于快速且可重现的机器学习实验. 引入非常简单的界面，使干净的机器学习管道设计成为可能.  |
-| [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、转换器和模型的精选集合，使您的机器学习工作更快、更有效.  |
+| [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur)  |  NetworkX 的图形采样库，具有类似 Scikit-Learn 的 API.  |
+| [Karate Club](https://github.com/benedekrozemberczki/karateclub)  |  NetworkX 的无监督机器学习扩展库，具有类似 Scikit-Learn 的 API.  |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)  | 用于机器学习和数据科学的基于 Web 的一体化 IDE. 工作区部署为 Docker 容器，并预装了各种流行的数据科学库（例如 Tensorflow、PyTorch）和开发工具（例如 Jupyter、VS Code）|
+| [Neptune.ai](https://neptune.ai)  | 社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune 促进团队合作、基础设施管理、模型比较和再现性.  |
+| [steppy](https://github.com/minerva-ml/steppy)  | 用于快速且可重复的机器学习实验的轻量级 Python 库. 引入了非常简单的界面，可以实现干净的机器学习管道设计.  |
+| [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit)  | 神经网络、变压器和模型的精选集合，使您的机器学习工作更快、更有效.  |
 | [Datalab from Google](https://cloud.google.com/datalab/docs/)  | 使用熟悉的语言（例如 Python 和 SQL）以交互方式轻松探索、可视化、分析和转换数据.  |
-| [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html)  | 是一个个人的、可移植的 Hadoop 环境，带有十几个交互式 Hadoop 教程.  |
+| [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html)  | 是一个个人、便携式 Hadoop 环境，附带十几个交互式 Hadoop 教程.  |
 | [R](https://www.r-project.org/)  | 是一个用于统计计算和图形的免费软件环境.  |
-| [Tidyverse](https://www.tidyverse.org/)  | 是专为数据科学设计的 R 包的自以为是的集合. 所有包都共享一个基本的设计理念、语法和数据结构.  |
-| [RStudio](https://www.rstudio.com)  |  IDE – R 的强大用户界面.它是免费和开源的，适用于 Windows、Mac 和 Linux.  |
-| [Python - Pandas - Anaconda](https://www.anaconda.com)  | 用于大规模数据处理、预测分析和科学计算的完全免费的企业级 Python 发行版 |
-| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形 |
+| [Tidyverse](https://www.tidyverse.org/)  | 是专为数据科学设计的 R 软件包的固执己见的集合. 所有包都共享底层设计理念、语法和数据结构.  |
+| [RStudio](https://www.rstudio.com)  |  IDE – 强大的 R 用户界面.它是免费且开源的，适用于 Windows、Mac 和 Linux.  |
+| [Python - Pandas - Anaconda](https://www.anaconda.com)  | 完全免费的企业级 Python 发行版，用于大规模数据处理、预测分析和科学计算 |
+| [Pandas GUI](https://github.com/adrotog/PandasGUI)  | 熊猫图形用户界面 |
 | [Scikit-Learn](https://scikit-learn.org/stable/)  |  Python 中的机器学习 |
 | [NumPy](https://numpy.org/)  |  NumPy 是使用 Python 进行科学计算的基础. 它支持大型多维数组和矩阵，并包含各种高级数学函数来对这些数组进行操作.  |
 | [Vaex](https://vaex.io/)  |  Vaex 是一个 Python 库，可让您可视化大型数据集并高速计算统计数据.  |
-| [SciPy](https://scipy.org/)  |  SciPy 使用 NumPy 数组并为数值积分和优化提供高效的例程.  |
+| [SciPy](https://scipy.org/)  |  SciPy 与 NumPy 数组配合使用，并为数值积分和优化提供有效的例程.  |
 | [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera 课程 |
 | [Data Science Toolbox](https://datasciencetoolbox.org/)  | 博客 |
-| [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/)  | 获取数字、文本、图像、GIS 或其他数据，并对其进行 Wolfram 处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告——所有这些都由革命性的基于知识的 Wolfram 语言提供支持.  |
-| [Datadog](https://www.datadoghq.com/)  | 大规模数据科学的解决方案、代码和开发运营.  |
-| [Variance](https://variancecharts.com/)  | 无需编写 JavaScript 即可为 Web 构建强大的数据可视化 |
-| [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0），或简称为 Kite，是一组库、工具、示例和文档，专注于使在 Hadoop 生态系统之上构建系统变得更加容易.  |
+| [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/)  | 采用数值、文本、图像、GIS 或其他数据并对其进行 Wolfram 处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告 - 所有这些都由革命性的基于知识的 Wolfram 语言提供支持.  |
+| [Datadog](https://www.datadoghq.com/)  | 适用于大规模数据科学的解决方案、代码和开发运营.  |
+| [Variance](https://variancecharts.com/)  | 无需编写 JavaScript 即可构建强大的 Web 数据可视化 |
+| [Kite Development Kit](https://kitesdk.org/docs/current/index.html)  |  Kite 软件开发工具包（Apache 许可证，版本 2.0）（简称 Kite）是一组库、工具、示例和文档，致力于让您更轻松地在 Hadoop 生态系统之上构建系统.  |
 | [Domino Data Labs](https://www.dominodatalab.com) | Run, scale, share, and deploy your models — without any infrastructure or setup. |
-| [Apache Flink](https://flink.apache.org/)  | 一个用于高效、分布式、通用数据处理的平台.  |
+| [Apache Flink](https://flink.apache.org/)  | 高效、分布式、通用数据处理平台.  |
 | [Apache Hama](https://hama.apache.org/)  |  Apache Hama 是一个 Apache 顶级开源项目，允许您进行 MapReduce 之外的高级分析.  |
 | [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  |  Weka 是用于数据挖掘任务的机器学习算法的集合.  |
-| [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.（免费 Matlab）|
+| [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave 是一种高级解释语言，主要用于数值计算.（免费 Matlab） |
 | [Apache Spark](https://spark.apache.org/)  | 快如闪电的集群计算 |
-| [Hydrosphere Mist](https://github.com/Hydrospheredata/mist)  | 一种将 Apache Spark 分析作业和机器学习模型公开为实时、批处理或反应式 Web 服务的服务.  |
+| [Hydrosphere Mist](https://github.com/Hydrospheredata/mist)  | 用于将 Apache Spark 分析作业和机器学习模型公开为实时、批处理或反应式 Web 服务的服务.  |
 | [Data Mechanics](https://www.datamechanics.co)  | 一个数据科学和工程平台，使 Apache Spark 对开发人员更加友好且更具成本效益.  |
 | [Caffe](https://caffe.berkeleyvision.org/)  | 深度学习框架 |
 | [Torch](https://torch.ch/)  |  LUAJIT 的科学计算框架 |
@@ -431,65 +433,65 @@
 | [Skale](https://github.com/skale-me/skale)  |  NodeJS 中的高性能分布式数据处理 |
 | [Aerosolve](https://airbnb.io/aerosolve/)  | 为人类构建的机器学习包.  |
 | [Intel framework](https://github.com/intel/idlf)  | 英特尔® 深度学习框架 |
-| [Datawrapper](https://www.datawrapper.de/)  | 一个开源数据可视化平台，帮助每个人创建简单、正确和可嵌入的图表. 也于 [github.com](https://github.com/datawrapper/datawrapper) |
+| [Datawrapper](https://www.datawrapper.de/)  | 一个开源数据可视化平台，帮助每个人创建简单、正确和可嵌入的图表. 也在 [github.com](https://github.com/datawrapper/datawrapper) |
 | [Tensor Flow](https://www.tensorflow.org/)  |  TensorFlow 是一个用于机器智能的开源软件库 |
-| [Natural Language Toolkit](https://www.nltk.org/)  | 一个介绍性但功能强大的自然语言处理和分类工具包 |
-| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和 DL 模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
+| [Natural Language Toolkit](https://www.nltk.org/)  | 用于自然语言处理和分类的介绍性但功能强大的工具包 |
+| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/)  | 用于文本注释和深度学习模型训练/调整的免费端到端无代码平台. 对命名实体识别、分类、关系提取和断言状态 Spark NLP 模型的开箱即用支持. 对用户、团队、项目、文档的无限支持.  |
 | [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | .  |
-| [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言|
-| [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 结合 Jupyter 交互环境的 Julia 语言后端 |
+| [Julia](https://julialang.org)  | 用于技术计算的高级、高性能动态编程语言 |
+| [IJulia](https://github.com/JuliaLang/IJulia.jl)  | 与 Jupyter 交互环境相结合的 Julia 语言后端 |
 | [Apache Zeppelin](https://zeppelin.apache.org/)  | 基于 Web 的笔记本，支持使用 SQL、Scala 等进行数据驱动、交互式数据分析和协作文档 |
-| [Featuretools](https://github.com/alteryx/featuretools)  | 一个用 python 编写的用于自动化特征工程的开源框架 |
+| [Featuretools](https://github.com/alteryx/featuretools)  | 用 python 编写的自动化特征工程开源框架 |
 | [Optimus](https://github.com/hi-primus/optimus)  | 使用 PySpark 后端进行清理、预处理、特征工程、探索性数据分析和简单的机器学习.  |
-| [Albumentations](https://github.com/albumentations-team/albumentations)  |  А 快速且与框架无关的图像增强库，可实现多种增强技术. 支持开箱即用的分类、分割、检测. 曾在 Kaggle、Topcoder 和 CVPR 研讨会的一些深度学习竞赛中获胜.  |
-| [DVC](https://github.com/iterative/dvc)  | 一个开源数据科学版本控制系统. 它有助于跟踪、组织和使数据科学项目可重现. 在其非常基本的场景中，它有助于版本控制和共享大数据和模型文件.  |
-| [Lambdo](https://github.com/asavinov/lambdo)  | 是一种工作流引擎，通过将 (i) 特征工程和机器学习 (ii) 模型训练和预测 (iii) 表填充和列评估结合在一个分析管道中，显着简化了数据分析.  |
+| [Albumentations](https://github.com/albumentations-team/albumentations)  | 快速且与框架无关的图像增强库，实现了多种增强技术. 支持开箱即用的分类、分割、检测. 曾在 Kaggle、Topcoder 和 CVPR 研讨会的一些深度学习竞赛中获胜.  |
+| [DVC](https://github.com/iterative/dvc)  | 开源数据科学版本控制系统. 它有助于跟踪、组织数据科学项目并使之可重复. 在其非常基本的场景中，它有助于版本控制并共享大型数据和模型文件.  |
+| [Lambdo](https://github.com/asavinov/lambdo)  | 是一种工作流引擎，通过将 (i) 特征工程和机器学习 (ii) 模型训练和预测 (iii) 表填充和列评估结合到一个分析管道中，显着简化了数据分析.  |
 | [Feast](https://github.com/feast-dev/feast)  | 用于管理、发现和访问机器学习功能的功能存储.  Feast 为模型训练和模型服务提供一致的特征数据视图.  |
-| [Polyaxon](https://github.com/polyaxon/polyaxon)  | 一个可重现和可扩展的机器学习和深度学习平台.  |
+| [Polyaxon](https://github.com/polyaxon/polyaxon)  | 一个用于可重复和可扩展的机器学习和深度学习的平台.  |
 | [LightTag](https://www.lighttag.io/)  | 团队文本注释工具 |
-| [UBIAI](https://ubiai.tools)  | 易于使用的文本注释工具，适用于具有最全面的自动注释功能的团队. 支持 NER、关系和文档分类以及发票标签的 OCR 注释 |
-| [Trains](https://github.com/allegroai/clearml)  |  AI 的 Auto-Magical Experiment Manager、版本控制和 DevOps |
-| [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有特征存储的开源数据密集型机器学习平台. 获取和管理在线（MySQL Cluster）和离线（Apache Hive）访问的功能，大规模训练和服务模型.  |
-| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是一个面向开发人员的可解释的 AutoML 框架. 借助 MindsDB，您只需编写一行代码即可构建、训练和使用最先进的 ML 模型.  |
-| [Lightwood](https://github.com/mindsdb/lightwood)  | 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝粘合在一起，目的是通过一行代码构建预测模型.  |
-| [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，将 Pandas 库的功能扩展到 AWS 连接 DataFrames 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
-| [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到他们的应用程序中. 编目资产、自动化工作流程并从您的媒体和应用程序中提取意义.|
-| [Amazon Textract](https://aws.amazon.com/textract/)  | 从任何文档中自动提取打印的文本、手写内容和数据.  |
-| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以自动进行质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规情况，以进行全面的质量控制.|
-| [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 使用 ML 支持的建议自动执行代码审查并优化应用程序性能.|
-| [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类生产环境中自动训练和测试模型，并自动生成有关拉取/合并请求的可视化报告.  |
-| [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松将您的分析代码转换为分布式计算系统（大数据）|
-| [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 一个基于 Python 的推论统计、假设检验和回归框架 |
-| [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库 |
-| [spaCy](https://spacy.io/)  | 一个高性能的自然语言处理工具包 |
-| [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid Studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
+| [UBIAI](https://ubiai.tools)  | 易于使用的文本注释工具，为团队提供最全面的自动注释功能. 支持 NER、关系和文档分类以及发票标签的 OCR 注释 |
+| [Trains](https://github.com/allegroai/clearml)  |  Auto-Magical Experiment Manager、AI 版本控制和 DevOps |
+| [Hopsworks](https://github.com/logicalclocks/hopsworks)  | 具有特征存储的开源数据密集型机器学习平台. 摄取和管理在线（MySQL Cluster）和离线（Apache Hive）访问、大规模训练和服务模型的功能.  |
+| [MindsDB](https://github.com/mindsdb/mindsdb)  |  MindsDB 是一个为开发人员提供的可解释的 AutoML 框架. 借助 MindsDB，您只需一行代码即可构建、训练和使用最先进的 ML 模型.  |
+| [Lightwood](https://github.com/mindsdb/lightwood)  | 一种基于 Pytorch 的框架，可将机器学习问题分解为更小的块，这些块可以无缝地粘合在一起，目标是用一行代码构建预测模型.  |
+| [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源 Python 包，可将 Pandas 库的功能扩展到 AWS，连接 DataFrame 和 AWS 数据相关服务（Amazon Redshift、AWS Glue、Amazon Athena、Amazon EMR 等）.  |
+| [Amazon Rekognition](https://aws.amazon.com/rekognition/)  |  AWS Rekognition 是一项服务，可让使用 Amazon Web Services 的开发人员将图像分析添加到其应用程序中. 编目资产、自动化工作流程并从媒体和应用程序中提取意义.|
+| [Amazon Textract](https://aws.amazon.com/textract/)  | 自动从任何文档中提取打印文本、手写内容和数据.  |
+| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)  | 使用计算机视觉发现产品缺陷以实现自动化质量检查. 识别缺失的产品组件、车辆和结构损坏以及违规行为，以进行全面的质量控制.
+| [Amazon CodeGuru](https://aws.amazon.com/codeguru/)  | 通过 ML 支持的建议自动进行代码审查并优化应用程序性能.
+| [CML](https://github.com/iterative/cml)  | 用于在数据科学项目中使用持续集成的开源工具包. 使用 GitHub Actions 和 GitLab CI 在类似生产的环境中自动训练和测试模型，并自动生成有关拉取/合并请求的可视化报告.  |
+| [Dask](https://dask.org/)  | 一个开源 Python 库，可轻松将您的分析代码转移到分布式计算系统（大数据）|
+| [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于Python的推论统计、假设检验和回归框架|
+| [Gensim](https://radimrehurek.com/gensim/)  | 用于自然语言文本主题建模的开源库 |
+| [spaCy](https://spacy.io/)  | 高性能自然语言处理工具包 |
+| [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio 是一个基于 Web 的电子表格应用程序，完全集成了 Python 编程语言.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python 数据科学手册：Jupyter Notebooks 中的全文|
 | [Shapley](https://github.com/benedekrozemberczki/shapley)  | 一个数据驱动的框架，用于量化机器学习集成中分类器的价值.  |
 | [DAGsHub](https://dagshub.com)  | 一个基于开源工具构建的平台，用于数据、模型和管道管理.  |
-| [Deepnote](https://deepnote.com)  | 一种新型的数据科学笔记本. 与 Jupyter 兼容，实时协作并在云端运行.  |
-| [Valohai](https://valohai.com)  | 处理机器编排、自动再现性和部署的 MLOps 平台.  |
-| [PyMC3](https://docs.pymc.io/)  | 用于概率编程的 Python 库（贝叶斯推理和机器学习）|
+| [Deepnote](https://deepnote.com)  | 一种新型数据科学笔记本. 兼容 Jupyter，可实时协作并在云端运行.  |
+| [Valohai](https://valohai.com)  | 一个处理机器编排、自动再现和部署的 MLOps 平台.  |
+| [PyMC3](https://docs.pymc.io/)  | 用于概率编程（贝叶斯推理和机器学习）的 Python 库 |
 | [PyStan](https://pypi.org/project/pystan/)  |  Stan 的 Python 接口（贝叶斯推理和建模）|
-| [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习与推理|
-| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 用于异常值/异常检测和根本原因分析的 ML 分析引擎 |
-| [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者从他们的 Web 浏览器发现、创建和启动多云应用程序.  |
+| [hmmlearn](https://pypi.org/project/hmmlearn/)  | 隐马尔可夫模型的无监督学习和推理 |
+| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/)  | 机器学习驱动的分析引擎，用于异常值/异常检测和根本原因分析 |
+| [Nimblebox](https://nimblebox.ai/)  | 一个全栈 MLOps 平台，旨在帮助世界各地的数据科学家和机器学习从业者通过网络浏览器发现、创建和启动多云应用程序.  |
 | [Towhee](https://github.com/towhee-io/towhee)  | 一个 Python 库，可帮助您将非结构化数据编码为嵌入.  |
-| [LineaPy](https://github.com/LineaLabs/lineapy)  | 曾经因为清理又长又乱的 Jupyter 笔记本而感到沮丧吗？ 使用开源 Python 库 LineaPy，只需两行代码即可将杂乱的开发代码转换为生产流水线.  |
+| [LineaPy](https://github.com/LineaLabs/lineapy)  | 是否曾因清理又长又乱的 Jupyter 笔记本而感到沮丧？ 使用开源 Python 库 LineaPy，只需两行代码即可将混乱的开发代码转换为生产管道.  |
 | [envd](https://github.com/tensorchord/envd)  |  ️ 数据科学和 AI/ML 工程团队的机器学习开发环境 |
-| [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找流行和新图书馆、顶级作者、热门项目工具包、讨论、教程和学习资源的精选列表 |
-| [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则对 ML 模型进行版本控制和部署 |
-| [MLflow](https://mlflow.org/)  | 用于在整个生命周期内管理 ML 模型的 MLOps 框架 |
+| [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)  | 一个搜索引擎工具，用于发现和查找流行和新图书馆、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表|
+| [MLEM](https://github.com/iterative/mlem)  | 遵循 GitOps 原则版本和部署 ML 模型 |
+| [MLflow](https://mlflow.org/)  | 用于在整个生命周期中管理 ML 模型的 MLOps 框架 |
 | [cleanlab](https://github.com/cleanlab/cleanlab)  | 用于以数据为中心的 AI 并自动检测 ML 数据集中的各种问题的 Python 库 |
-| [AutoGluon](https://github.com/awslabs/autogluon)  |  AutoML 可轻松为图像、文本、表格、时间序列和多模态数据生成准确的预测 |
-| [Arize AI](https://arize.com/)  |  Arize AI 社区层可观察性工具，用于监控生产中的机器学习模型和数据质量和性能漂移等根本问题.  |
-| [Aureo.io](https://aureo.io)  |  Aureo.io 是一个专注于构建人工智能的低代码平台. 它为用户提供了创建管道、自动化并将它们与人工智能模型集成的能力——所有这些都带有他们的基本数据.  |
-| [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的基于云的免费实体关系图 (ERD) 工具.
-| [Arize-Phoenix](https://docs.arize.com/phoenix)  | 笔记本中的 MLOps - 发现洞察力、表面问题、监控和微调您的模型.  |
+| [AutoGluon](https://github.com/awslabs/autogluon)  |  AutoML 可轻松对图像、文本、表格、时间序列和多模态数据进行准确预测 |
+| [Arize AI](https://arize.com/)  |  Arize AI 社区层可观察性工具，用于监控生产中的机器学习模型以及数据质量和性能漂移等根本原因问题.  |
+| [Aureo.io](https://aureo.io)  |  Aureo.io 是一个专注于构建人工智能的低代码平台. 它为用户提供了创建管道、自动化并将其与人工智能模型集成的能力——所有这些都带有他们的基本数据.  |
+| [ERD Lab](https://www.erdlab.io/) - 为开发人员制作的免费的基于云的实体关系图 (ERD) 工具.
+| [Arize-Phoenix](https://docs.arize.com/phoenix)  | 笔记本中的 MLOps - 发现见解、揭示问题、监控和微调模型.  |
 
 ## Literature and Media
 **[`^        back to top        ^`](#awesome-data-science)**
 
-本节包括一些额外的阅读材料、观看的频道和收听的演讲.
+本部分包括一些额外的阅读材料、可供观看的频道和可供收听的演讲.
 
 ### Books
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -508,8 +510,8 @@
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) & [(cheaper PDF version)](https://gum.co/everydaydata)
-- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - 免费电子书样本
-- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - 免费电子书样本
+- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) - 免费电子书采样器
+- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - 免费电子书采样器
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) 抢先体验
 - [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) 抢先体验
@@ -527,7 +529,7 @@
 - [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - 免费下载
 - [Global Optimization Algorithms: Theory and Application](https://www.it-weise.de/projects/book.pdf) - 免费下载
 - [Genetic Algorithms and Evolutionary Computation](https://www.talkorigins.org/faqs/genalg/genalg.html) - 免费下载
-- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - 斯蒂芬·博伊德 (Stephen Boyd) 着的《凸优化》一书 - 免费下载
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Stephen Boyd 所著的凸优化书籍 - 免费下载
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) - 抢先体验
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
@@ -549,7 +551,7 @@
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com)
 - [Deep Learning Cookbook](https://www.oreilly.com/library/view/deep-learning-cookbook/9781491995839/)
 - [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
-- [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](https://artint.info/index.html) - 免费的 HTML 版本
+- [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](https://artint.info/index.html) - 免费 HTML 版本
 - [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - 免费下载
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) - 抢先体验
 - [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - 抢先体验
@@ -578,34 +580,34 @@
 ### Journals, Publications and Magazines
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [ICML](https://icml.cc/2015/) - 机器学习国际会议
-- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - 遗传和进化计算会议 (GECCO)
+- [ICML](https://icml.cc/2015/) - 国际机器学习会议
+- [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
 - [epjdatascience](https://epjdatascience.springeropen.com/)
-- [Journal of Data Science](https://jds-online.org/journal/JDS) - 一本致力于统计方法应用的国际期刊
+- [Journal of Data Science](https://jds-online.org/journal/JDS) - an international journal devoted to applications of statistical methods at large
 - [Big Data Research](https://www.journals.elsevier.com/big-data-research)
 - [Journal of Big Data](https://journalofbigdata.springeropen.com/)
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
 - [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
-- [datatau.com/news](https://www.datatau.com/news) - 与 Hacker News 类似，但用于数据
+- [datatau.com/news](https://www.datatau.com/news) - 类似于黑客新闻，但针对数据
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
-- [Medium Data Science Topic](https://medium.com/tag/data-science) - 媒体上的数据科学相关出版物
-- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -关于Towards Data Science的遗传算法相关刊物
+- [Medium Data Science Topic](https://medium.com/tag/data-science) - 媒体上数据科学相关出版物
+- [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -关于数据科学的遗传算法相关出版物
 - [all AI news](https://allainews.com/) - 人工智能/机器学习/大数据新闻聚合平台
 
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [AI Digest](https://aidigest.net/) . 每周时事通讯，了解 AI、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
-- [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周时事通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
+- [AI Digest](https://aidigest.net/) . 每周通讯，了解人工智能、机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+- [DataTalks.Club](https://datatalks.club) . 关于数据相关事物的每周通讯. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about) . 关于数据科学的时事通讯. [Archive](https://roundup.getdbt.com/archive).
 
 ### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [Wes McKinney](https://wesmckinney.com/archives.html) - 韦斯麦金尼档案馆.
+- [Wes McKinney](https://wesmckinney.com/archives.html) - 韦斯·麦金尼档案馆.
 - [Matthew Russell](https://miningthesocialweb.com/) - 挖掘社交网络.
-- [Greg Reda](https://www.gregreda.com/) - Greg Reda 个人博客
-- [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
+- [Greg Reda](https://www.gregreda.com/) - 格雷格·雷达个人博客
+- [Kevin Davenport](https://kldavenport.com/) - 凯文·达文波特个人博客
 - [Julia Evans](https://jvns.ca/) - 递归中心校友
 - [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - 个人网页
 - [Sean J. Taylor](https://seanjtaylor.com/) - 个人网页
@@ -614,31 +616,31 @@
 - [Noah Iliinsky](https://complexdiagrams.com/) - 个人博客
 - [Matt Harrison](https://hairysun.com/) - 个人博客
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings 数据科学
-- [Prash Chan](https://www.mdmgeek.com/) - 主数据管理技术博客及其相关话题
+- [Prash Chan](https://www.mdmgeek.com/) - 有关主数据管理及其相关话题的技术博客
 - [Clare Corthell](https://datasciencemasters.org/) - 开源数据科学大师
-- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国，业务遍及全球，可帮助客户了解将数据及更多内容迁移到云端的影响.
-- [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于免费、开放和传播数据科学的非营利组织.
+- [Paul Miller](https://cloudofdata.com/) Cloud of Data 的咨询服务总部位于英国，业务遍及全球，可帮助客户了解将数据等传输到云端的影响.
+- [Data Science London](https://datasciencelondon.org/) Data Science London 是一个致力于自由、开放、传播数据科学的非营利组织.
   我们是欧洲最大的数据科学社区.
-  我们社区中有超过 3,190 名数据科学家和数据极客.
-- [Datawrangling](http://www.datawrangling.org) 彼得斯科莫罗奇. 机器学习、数据挖掘等
+  我们的社区中有超过 3,190 名数据科学家和数据极客.
+- [Datawrangling](http://www.datawrangling.org) 作者：彼得·斯科莫罗奇. 机器学习、数据挖掘等
 - [Quora Data Science](https://www.quora.com/topic/Data-Science) - 专家的数据科学问答
-- [Siah](https://openresearch.wordpress.com/) 伯克利的博士生
-- [Louis Dorard](https://www.ownml.co/blog/) 一个对网络和大小数据情有独钟的技术人员
+- [Siah](https://openresearch.wordpress.com/) 伯克利分校的博士生
+- [Louis Dorard](https://www.ownml.co/blog/) 一个对网络和大大小小的数据有着浓厚兴趣的技术人员
 - [Machine Learning Mastery](https://machinelearningmastery.com/) 关于帮助专业程序员自信地应用机器学习算法来解决复杂问题.
 - [Daniel Forsyth](https://www.danielforsyth.me/) - 个人博客
 - [Data Science Weekly](https://www.datascienceweekly.org/) - 每周新闻博客
 - [Revolution Analytics](https://blog.revolutionanalytics.com/) - 数据科学博客
-- [R Bloggers](https://www.r-bloggers.com/) -R 博主
+- [R Bloggers](https://www.r-bloggers.com/) - R 博主
 - [The Practical Quant](https://practicalquant.blogspot.com/) 大数据
 - [另一个数据博客](https://yet-another-data-blog.blogspot.com/) 另一个数据博客
 - [Spenczar](https://spenczar.com/)  _Twitch_ 的数据科学家. 我处理整个数据管道，从跟踪到模型构建再到报告.
 - [KD Nuggets](https://www.kdnuggets.com/) 数据挖掘、分析、大数据、数据、科学不是博客而是门户
 - [Meta Brown](https://www.metabrown.com/blog/) - 个人博客
 - [Data Scientist](https://datascientists.net/) 正在建设数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分、全部或远不止于此，本博客探讨了它对信息技术、商业世界、政府机构和我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的部分、全部或更多内容，本博客探讨了它对信息技术、商业世界、政府机构和我们生活的影响.
 - [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - 重要通知
 - [New Data Scientist](https://newdatascientist.blogspot.com/) 社会科学家如何进入大数据世界
-- [Harvard Data Science](https://harvarddatascience.com/) - 对统计计算和可视化的思考
+- [Harvard Data Science](https://harvarddatascience.com/) - 统计计算与可视化的思考
 - [Data Science 101](https://ryanswanstrom.com/datascience101/) - 学习成为一名数据科学家
 - [Kaggle Past Solutions](https://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
@@ -647,11 +649,11 @@
 - [Dataists](https://www.dataists.com/)
 - [Data-Mania](https://www.data-mania.com/)
 - [Data-Magnum](https://data-magnum.com/)
-- [P-value](https://www.p-value.info/) - 关于数据科学、机器学习和统计的思考.
+- [P-value](https://www.p-value.info/) - 对数据科学、机器学习和统计的思考.
 - [datascopeanalytics](https://datascopeanalytics.com/blog/)
 - [Digital transformation](https://tarrysingh.com/)
 - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
-- [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said 的科学博客
+- [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - 克里斯·赛义德的科学博客
 - [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
 - [DataNews](https://datanews.tumblr.com/)
 - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
@@ -668,26 +670,26 @@
 - [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
 - [Dominodatalab](https://blog.dominodatalab.com/)
 - [i am trask](https://iamtrask.github.io/) - 机器学习工艺博客
-- [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - 现实世界问题的数据驱动解决方案手册和秘诀
+- [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - 现实世界问题的数据驱动解决方案的手册和秘诀
 - [Dataconomy](https://dataconomy.com/) - 关于新兴数据经济的博客
-- [Springboard](https://www.springboard.com/blog/) - 一个为数据科学学习者提供资源的博客
+- [Springboard](https://www.springboard.com/blog/) - 为数据科学学习者提供资源的博客
 - [Analytics Vidhya](https://www.analyticsvidhya.com/) - 一个关于数据科学和分析学习材料的成熟网站.
 - [Occam's Razor](https://www.kaushik.net/avinash/) - 专注于网络分析.
 - [Data School](https://www.dataschool.io/) - 适合初学者的数据科学教程！
-- [Colah's Blog](https://colah.github.io) - 了解神经网络的博客！
-- [Sebastian's Blog](https://ruder.io/#open) - NLP 和迁移学习的博客！
+- [Colah's Blog](https://colah.github.io) - 用于了解神经网络的博客！
+- [Sebastian's Blog](https://ruder.io/#open) - NLP 和迁移学习博客！
 - [Distill](https://distill.pub) - 致力于机器学习的清晰解释！
 - [Chris Albon's Website](https://chrisalbon.com/) - 数据科学和人工智能笔记
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - 使用深奥编程语言的数据科学
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - 进化算法博客
-- [Jingles](https://jinglescode.github.io/) - 审查并提取学术论文中的关键概念
+- [Jingles](https://jinglescode.github.io/) - 回顾并提取学术论文中的关键概念
 - [nbshare](https://www.nbshare.io/notebooks/data-science/) - 数据科学笔记本
-- [Deep and Shallow](https://deep-and-shallow.com/) - 数据科学中深与浅的所有事物
+- [Deep and Shallow](https://deep-and-shallow.com/) - 数据科学中深浅的一切
 - [Loic Tetrel](https://ltetrel.github.io/) - 数据科学博客
-- [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering、MLOps 以及 ML 在初创公司中的使用
+- [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML 工程、MLOps 以及 ML 在初创企业中的使用
 - [Maria Khalusova](https://www.mariakhalusova.com/) - 数据科学博客
-- [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - 机器学习、深度学习、数据科学博客
-- [Santiago Basulto](https://medium.com/@santiagobasulto) - 使用 Python 进行数据科学
+- [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML、DL、数据科学博客
+- [Santiago Basulto](https://medium.com/@santiagobasulto) - 使用Python进行数据科学
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -805,79 +807,79 @@
 
  | 推特 | 说明 |
 | --- | --- |
-| [Big Data Combine](https://twitter.com/BigDataCombine)  | 寻求将其模型作为交易策略货币化的数据科学家的快速、现场试用 |
- | 大数据狂潮 |  Data Viz Wiz，数据记者，Growth Hacker，《傻瓜数据科学》（2015 年）作者 |
+| [Big Data Combine](https://twitter.com/BigDataCombine)  | 数据科学家寻求将其模型作为交易策略货币化的快速现场试用
+ | 大数据狂热 |  Data Viz Wiz，数据记者，Growth Hacker，《Data Science for Dummies》作者 (2015) | Data Viz Wiz
 | [Big Data Science](https://twitter.com/analyticbridge)  | 大数据、数据科学、预测建模、业务分析、Hadoop、决策和运筹学.  |
  | 查理·格林巴克 |  @ExploreAltamira 数据科学总监 |
 | [Chris Said](https://twitter.com/Chris_Said)  |  Twitter 的数据科学家 |
 | [Clare Corthell](https://twitter.com/clarecorthell) | Dev, Design, Data Science @mattermark #hackerei |
 | [DADI Charles-Abner](https://twitter.com/DadiCharles) | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
-| [Data Science Central](https://twitter.com/DataScienceCtrl)  |  Data Science Central 是业界为大数据从业者提供的单一资源.  |
-| [Data Science London](https://twitter.com/ds_ldn)   | 数据科学. 大数据. 数据黑客. 数据迷. 数据初创公司. 开放数据 |
+| [Data Science Central](https://twitter.com/DataScienceCtrl)  | 数据科学中心是业界为大数据从业者提供的单一资源.  |
+| [Data Science London](https://twitter.com/ds_ldn)   | 数据科学. 大数据. 数据黑客. 数据迷. 数据初创公司. 开放数据|
 | [Data Science Renee](https://twitter.com/BecomingDataSci)  | 记录我从攻读工程硕士学位的 SQL 数据分析师到数据科学家的历程 |
-| [Data Science Report](https://twitter.com/TedOBrien93)  | 使命是帮助指导和推进数据科学与分析领域的职业生涯 |
+| [Data Science Report](https://twitter.com/TedOBrien93)  | 使命是帮助指导和推进数据科学与分析领域的职业生涯
 | [Data Science Tips](https://twitter.com/datasciencetips) | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
-| [Data Vizzard](https://twitter.com/DataVisualizati) | DataViz, Security, Military |
+| [Data Vizzard](https://twitter.com/DataVisualizati)  |  DataViz、安全、军事 |
 | [DataScienceX](https://twitter.com/DataScienceX) |  |
  | 深度学习4j |  |
-| [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管，@ RelateIQ 副总裁.  |
+| [DJ Patil](https://twitter.com/dpatil)  | 白宫数据主管、RelateIQ 副总裁.  |
 | [Domino Data Lab](https://twitter.com/DominoDataLab) | |
 | [Drew Conway](https://twitter.com/drewconway) | Data nerd, hacker, student of conflict. |
 | Emilio Ferrara | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
-| [Greg Reda](https://twitter.com/gjreda)   | 在 _GrubHub_ 工作关于数据和 pandas |
-| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD &amp; SIGKDD 联合创始人，曾担任 2 家初创公司的首席科学家，兼职哲学家.  |
+| [Greg Reda](https://twitter.com/gjreda)   | 在@_GrubHub_ 工作关于数据和pandas |
+| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets 总裁，分析/大数据/数据挖掘/数据科学专家，KDD &amp; SIGKDD 联合创始人，曾任 2 家初创公司首席科学家，兼职哲学家.  |
 | [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio 首席科学家，奥克兰大学、斯坦福大学和莱斯大学统计学兼职教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家 |
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel 的常驻数据科学家.  |
 | [Jeff Hammerbacher](https://twitter.com/hackingdata)   | 转发有关数据科学的推文 |
-| [John Myles White](https://twitter.com/johnmyleswhite)   |  Facebook 科学家和 Julia 开发者. 黑客机器学习和网站优化强盗算法的作者. 推文仅反映我的观点.  |
+| [John Myles White](https://twitter.com/johnmyleswhite)   |  Facebook 科学家和 Julia 开发人员.  《黑客机器学习》和《网站优化强盗算法》的作者. 推文仅反映我的观点.  |
 | [Juan Miguel Lavista](https://twitter.com/BDataScientist)  | 微软数据科学团队首席数据科学家 |
-| [Julia Evans](https://twitter.com/b0rk)  | 黑客-Pandas-数据分析|
-| [Kenneth Cukier](https://twitter.com/kncukier)  | 经济学人的数据编辑和大数据 (http://www.big-data-book.com/) 的合著者.  |
- | 凯文·达文波特 |  https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ 组织者 |
-| [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师，创始人 [Data School](https://www.dataschool.io/) |
-| [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据漫游者.  |
+| [Julia Evans](https://twitter.com/b0rk)  | 黑客 - Pandas - 数据分析 |
+| [Kenneth Cukier](https://twitter.com/kncukier)  |  《经济学人》的数据编辑和《大数据》(http://www.big-data-book.com/) 的合著者.  |
+ | 凯文·达文波特 |  https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ 的组织者 |
+| [Kevin Markham](https://twitter.com/justmarkham)  | 数据科学讲师、创始人 [Data School](https://www.dataschool.io/) |
+| [Kim Rees](https://twitter.com/krees)  | 交互式数据可视化和工具. 数据闲逛者.  |
 | [Kirk Borne](https://twitter.com/KirkDBorne) | DataScientist, PhD Astrophysicist, Top #BigData Influencer. |
- | 琳达·雷格伯 | 数据讲故事的人，可视化.  |
-| [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程，移动，网络. 人工智能、智能机器人机器学习、数据挖掘、自然语言处理、数据科学.  |
- | 马克·史蒂文森 |  Salt 的数据分析招聘专家 (@SaltJobs) Analytics - Insight - Big Data - Datascience |
-| [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师的意见，目前是数据科学家. 偶尔做父亲，做家务，有机园艺.  |
+ | 琳达·雷伯| 数据讲故事，可视化.  |
+| [Luis Rei](https://twitter.com/lmrei)  | 博士生. 编程、移动、网络. 人工智能、智能机器人、机器学习、数据挖掘、自然语言处理、数据科学.  |
+ | 马克·史蒂文森 |  Salt (@SaltJobs) 数据分析招聘专家
+| [Matt Harrison](https://twitter.com/__mharrison__)  | 全栈 Python 人、作者、讲师、目前担任数据科学家的观点. 偶尔做父亲、做丈夫、做有机园艺.  |
 | [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
-| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify 的数据科学家，开发人员 |
-| [Monica Rogati](https://twitter.com/mrogati)  | 数据@颚骨. 在 LinkedIn 将数据转化为故事和产品. 文本挖掘、应用机器学习、推荐系统. 前游戏玩家，前机器编码员； 名字.  |
-| [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手.  vis书籍作者：https://www.oreilly.com/pub/au/4419 |
+| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify 数据科学家、开发人员 |
+| [Monica Rogati](https://twitter.com/mrogati)  | 数据@Jawbone. 在 LinkedIn 将数据转化为故事和产品. 文本挖掘、应用机器学习、推荐系统. 前游戏玩家、前机器编码员； 命名者.  |
+| [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍作者：https://www.oreilly.com/pub/au/4419 |
 | [Paul Miller](https://twitter.com/PaulMiller)  | 云计算/大数据/开放数据分析师和顾问. 作家、演讲者和主持人.  Gigaom 研究分析师.  |
-| [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动执行任务并改进决策. 企业家，前首席数据科学家@LinkedIn. 机器学习、ProductRei、网络 |
-| [Prash Chan](https://twitter.com/MDMGeek)  |  IBM 解决方案架构师，主数据管理、数据质量和数据治理博​​主. 数据科学、Hadoop、大数据和云.  |
-| [Quora Data Science](https://twitter.com/q_datascience)   |  Quora 的数据科学话题 |
-| [R-Bloggers](https://twitter.com/Rbloggers)  | 发布来自 R 博客圈、数据科学会议和（！）数据科学家空缺职位的博客文章.  |
+| [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统来自动执行任务并改进决策. 企业家、前首席数据科学家@LinkedIn. 机器学习、ProductRei、网络 |
+| [Prash Chan](https://twitter.com/MDMGeek)  |  IBM 解决方案架构师、主数据管理、数据质量和数据治理博​​客. 数据科学、Hadoop、大数据和云.  |
+| [Quora Data Science](https://twitter.com/q_datascience)   |  Quora 的数据科学主题 |
+| [R-Bloggers](https://twitter.com/Rbloggers)  | 在 R 博客圈、数据科学会议和（！）数据科学家的空缺职位上发表推文.  |
 | [Rand Hindi](https://twitter.com/randhindi) |  |
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
 | [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学极客@UALR |
 | [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家、基因折纸师、硬件爱好者 |
-| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计、机器学习、经济学.  |
+| [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook 数据科学团队. 关键词：实验、因果推理、统计学、机器学习、经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
-| [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 的数据科学家 |
-| [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据书呆子 |
-| [Talha Oz](https://twitter.com/tozCSS)  | 喜欢 ABM、SNA、DM、ML、NLP、HI、Python、Java. 百分位最高的 kaggler/数据科学家 |
+| [Harsh B. Gupta](https://twitter.com/harshbg)  |  BBVA Compass 数据科学家 |
+| [Spencer Nelson](https://twitter.com/spenczar_n)  | 数据迷 |
+| [Talha Oz](https://twitter.com/tozCSS)  | 喜欢 ABM、SNA、DM、ML、NLP、HI、Python、Java. 顶尖百分位 Kaggler/数据科学家 |
 | [Tasos Skarlatidis](https://twitter.com/anskarl)  | 复杂事件处理、大数据、人工智能和机器学习. 热衷于编程和开源.  |
 | [Terry Timko](https://twitter.com/Terry_Timko)  | 信息政府； 大数据; 数据即服务； 数据科学； 开放、社交和商业数据融合 |
-| [Tony Baer](https://twitter.com/TonyBaer)  |  Ovum 的 IT 分析师涵盖大数据和数据管理，并涉及一些系统工程.
+| [Tony Baer](https://twitter.com/TonyBaer)  |  Ovum 的 IT 分析师涵盖大数据和数据管理以及一些系统工程.
 | [Tony Ojeda](https://twitter.com/tonyojeda3) | Data Scientist , Author , Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
 | [Vamshi Ambati](https://twitter.com/vambati) | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com ) |
 | [Wes McKinney](https://twitter.com/wesmckinn)  |  Pandas（Python 数据分析库）.  |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
-| [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC 的数据新闻团队. 实践数据驱动的新闻，使其可视化并展示我们的工作.  |
+| [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC 的数据新闻团队. 实践数据驱动的新闻报道，使其可视化并展示我们的工作.  |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor)  | 数据科学作者 |
-| [İlker Arslan](https://twitter.com/ilkerarslan_35)  | 数据科学作者. 主要分享关于 Julia 编程的信息 |
+| [İlker Arslan](https://twitter.com/ilkerarslan_35)  | 数据科学作者. 主要分享有关 Julia 编程的内容 |
 
 ### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [Open Data Science](https://t.me/opendatascience)  – 第一个电报数据科学频道. 涵盖所有与数据科学相关的技术人员和热门人员：人工智能、大数据、机器学习、统计学、普通数学和前者的应用.
-- [Loss function porn](https://t.me/loss_function_porn) — 带有视频或图形可视化的关于 DS/ML 主题的精美帖子.
-- [Machinelearning](https://t.me/ai_machinelearning_big_data) – 每日 ML 新闻.
+- [Open Data Science](https://t.me/opendatascience)  – 第一个 Telegram 数据科学频道. 涵盖与数据科学相关的所有技术和流行人员：人工智能、大数据、机器学习、统计学、普通数学及其应用.
+- [Loss function porn](https://t.me/loss_function_porn) — 关于 DS/ML 主题的精美帖子，带有视频或图形可视化.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) – 每日机器学习新闻.
 
 
 ### Slack Communities
@@ -908,34 +910,34 @@
  | 预览 | 说明 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [<img src="https://i.imgur.com/0OoLaa5.png" width="150" />](https://i.imgur.com/0OoLaa5.png)                                                                                                                                                | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)                                                                                         |
-| [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)                     | 通过 8 个步骤成为数据科学家的视觉指南 [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)                                                              |
+| [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)                     |  8 个步骤成为数据科学家的视觉指南 [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)                                                              |
 | [<img src="https://i.imgur.com/W2t2Roz.png" width="150" />](https://i.imgur.com/FxsL3b8.png)                                                                                                                                                 | 所需技能的思维导图（[img](https://i.imgur.com/FxsL3b8.png))                                                                                                                                                                                          |
-| [<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](https://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)                                                                                               |  Swami Chandrasekaran 做了一个 [Curriculum via Metro map](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/).                                                                                                                                            |
+| [<img src="https://i.imgur.com/rb9ruaa.png" width="150" />](https://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)                                                                                               | 斯瓦米·钱德拉塞卡兰 (Swami Chandrasekaran) 做了一个 [Curriculum via Metro map](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/).                                                                                                                                            |
 | [<img src="https://i.imgur.com/XBgKF2l.png" width="150" />](https://i.imgur.com/4ZBBvb0.png)                                                                                                                                                 | 经过 [@kzawadz](https://twitter.com/kzawadz) 通过 [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)                                                                                                                                      |
 | [<img src="https://i.imgur.com/l9ZGtal.jpg" width="150" />](https://i.imgur.com/xLY3XZn.jpg)                                                                                                                                                 | 经过 [Data Science Central](https://www.datasciencecentral.com/)                                                                                                                                                                                                |
-| [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                 | 数据科学战争：R vs Python |
-| [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                 | 如何选择统计或机器学习技术 |
-| [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](https://scikit-learn.org/stable/_static/ml_map.png)                                                                                                            | 选择合适的估算器 |
-| [<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png)                                                                                                                                                 | 数据科学行业：谁做什么 |
-| [<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png)                                                                                                                                                 | 数据科学 ~~维恩~~ 欧拉图 |
-| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色来自 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 通过跳板 |
-| [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 一种简单友好的方式来教授非数据科学家/非统计学家的同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自 Geckoboard  [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
+| [<img src="https://i.imgur.com/TWkB4X6.png" width="150" />](https://i.imgur.com/0TydZ4M.png)                                                                                                                                                 | 数据科学大战：R 与 Python |
+| [<img src="https://i.imgur.com/gtTlW5I.png" width="150" />](https://i.imgur.com/HnRwlce.png)                                                                                                                                                 | 如何选择统计或机器学习技术|
+| [<img src="https://scikit-learn.org/stable/_static/ml_map.png" width="150" />](https://scikit-learn.org/stable/_static/ml_map.png)                                                                                                            | 选择正确的估算器 |
+| [<img src="https://i.imgur.com/3JSyUq1.png" width="150" />](https://i.imgur.com/uEqMwZa.png)                                                                                                                                                 | 数据科学行业：谁做什么？
+| [<img src="https://i.imgur.com/DQqFwwy.png" width="150" />](https://i.imgur.com/RsHqY84.png)                                                                                                                                                 | 数据科学~~维恩~~欧拉图|
+| [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  | 不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 通过跳板|
+| [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)                                                  | 以简单友好的方式教授非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) . 来自壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [Academic Torrents](https://academictorrents.com/)
-- [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - 飞机和自动相关监视广播 (ADS-B) 源的特定数据集.
+- [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - 飞机和广播自动相关监视 (ADS-B) 源的特定数据集.
 - [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [data.gov](https://catalog.data.gov/dataset) - 美国政府开放数据之家
 - [United States Census Bureau](https://www.census.gov/)
 - [usgovxml.com](https://usgovxml.com/)
-- [enigma.com](https://enigma.com/) - 浏览公共数据世界 - 快速搜索和分析政府、公司和组织发布的数十亿条公共记录.
+- [enigma.com](https://enigma.com/) - 浏览公共数据世界 - 快速搜索和分析政府、公司和组织发布的数十亿公共记录.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://datacite.org/)
 - [The official portal for European data](https://data.europa.eu/en)
-- [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link 金融、经济和替代数据集的主要来源.
+- [NASDAQ:DATA](https://data.nasdaq.com/) - 纳斯达克数据链接 金融、经济和另类数据集的主要来源.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
@@ -946,8 +948,8 @@
 - [Google Public Data](https://www.google.com/publicdata/directory)
 - [World Bank Data](https://data.worldbank.org/)
 - [NYC Taxi data](https://chriswhong.github.io/nyctaxi/)
-- [Open Data Philly](https://www.opendataphilly.org/) 将人们与费城的数据联系起来
-- [grouplens.org](https://grouplens.org/datasets/) Sample movie (with ratings), book and wiki datasets
+- [Open Data Philly](https://www.opendataphilly.org/) 将费城的人员与数据联系起来
+- [grouplens.org](https://grouplens.org/datasets/) 示例电影（带有评级）、书籍和 wiki 数据集
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/) - 包含有利于机器学习的数据集
 - [research-quality data sets](https://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 经过 [Hilary Mason](https://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
@@ -963,8 +965,8 @@
 - [NASA SocioEconomic Data and Applications Center - SEDAC](https://sedac.ciesin.columbia.edu/)
 - [The GDELT Project](https://www.gdeltproject.org/)
 - [Sweden, Statistics](https://www.scb.se/en/)
-- [StackExchange Data Explorer](https://data.stackexchange.com) - 一个开源工具，用于对来自 Stack Exchange 网络的公共数据运行任意查询.
-- [SocialGrep](https://socialgrep.com/datasets) - 一组开放的 Reddit 数据集.
+- [StackExchange Data Explorer](https://data.stackexchange.com) - 一个开源工具，用于对 Stack Exchange 网络中的公共数据运行任意查询.
+- [SocialGrep](https://socialgrep.com/datasets) - 开放 Reddit 数据集的集合.
 - [San Fransisco Government Open Data](https://datasf.org/opendata/)
 - [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 - [Open data Index](https://index.okfn.org/)
@@ -988,7 +990,7 @@
 
 ## Other Awesome Lists
 
-- 其他非常棒的列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- 其他令人惊叹的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [lists](https://github.com/jnv/lists)
 - [awesome-dataviz](https://github.com/javierluraschi/awesome-dataviz)
