@@ -41,6 +41,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ESL](https://github.com/ecomfe/esl) - 模块加载器浏览器优先，支持惰性定义和AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - 轻量级 JavaScript 模块系统.
 
+## Transpilers
+*将现代 JavaScript 语法转换为旧 JavaScript 语法的软件.*
+
+* [SWC](https://swc.rs/) - 基于 Rust 的可扩展编译平台.
+
 ## Bundlers
 
 * [webpack](https://github.com/webpack/webpack) - 为浏览器打包 CommonJs/AMD 模块.
@@ -108,7 +113,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - 由 Google Chrome 官方团队提供的 Headless Chrome Node.js API.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Node.js 的下一代 WebDriver 测试自动化框架.
 * [taiko](https://github.com/getgauge/taiko) - 一个 Node.js 库，具有简单的 API，可自动化基于 Chromium 的浏览器.
-* [Playwright](https://github.com/microsoft/playwright) - Node.js 库，用于使用单个 API 自动化 Chromium、Firefox 和 WebKit.
+* [Playwright](https://github.com/microsoft/playwright) - Node.js 库可使用单个 API 自动化 Chromium、Firefox 和 WebKit.
 
 ## QA Tools
 
@@ -127,7 +132,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## MVC Frameworks and Libraries
 
-* [angular.js](https://github.com/angular/angular.js)  - 针对网络应用程序增强了 HTML.  （弃用）
+* [angular.js](https://github.com/angular/angular.js)  - 针对网络应用程序增强了 HTML.  （已弃用）
 * [angular](https://github.com/angular/angular) - Angular 是一个使用 Typescript/JavaScript 和其他语言构建移动和桌面 Web 应用程序的开发平台.
 * [aurelia](http://aurelia.io) - 适用于移动、桌面和 Web 的 JavaScript 客户端框架.
 * [backbone](https://github.com/jashkenas/backbone) - 为您的 JS 应用程序提供一些带有模型、视图、集合和事件的主干.
@@ -231,7 +236,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Chart.js](https://github.com/chartjs/Chart.js) - 使用 &lt;canvas&gt; 标签的简单 HTML5 图表.
 * [paper.js](https://github.com/paperjs/paper.js) - 矢量图形脚本的瑞士军刀 – Scriptographer 使用 HTML5 Canvas 移植到 JavaScript 和浏览器.
 * [fabric.js](https://github.com/kangax/fabric.js) - JavaScript Canvas 库、SVG 到 Canvas（和 canvas 到 SVG）解析器.
-* [peity](https://github.com/benpickles/peity)  - 渐进式<svg>条形图、折线图和饼图.
+* [peity](https://github.com/benpickles/peity)  - 进步<svg>条形图、折线图和饼图.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript 向量库.
 * [echarts](https://github.com/apache/echarts) - 企业图表.
 * [visjs](https://github.com/visjs) - 用于动态、基于浏览器的数据可视化的多个库.
@@ -324,7 +329,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [coddoc](http://doug-martin.github.io/coddoc/) 是一个jsdoc解析库.  Coddoc 的不同之处在于，它允许用户通过使用 coddoc.addTagHandler 和 coddoc.addCodeHandler 添加标签和代码解析器，从而可以轻松扩展.  coddoc 还解析要在 API 中使用的源代码.
 * [sphinx](http://www.sphinx-doc.org/) 一个可以轻松创建智能且美观的文档的工具
 * [Beautiful docs](https://github.com/beautiful-docs/beautiful-docs) 是一个基于 Markdown 文件的文档查看器.
-* [documentation.js](http://documentation.js.org) - 支持 ES2015+ 和流注释的 API 文档生成器.
+* [documentation.js](http://documentation.js.org) - API 文档生成器，支持 ES2015+ 和流程注释.
 * [jsduck](https://github.com/senchalabs/jsduck) - 为 Sencha JavaScript 框架制作的 API 文档生成器，但也可用于其他框架.
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) 是一种通过在源代码中添加面包屑来学习和记录代码库的可视化工具.
 
@@ -346,7 +351,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [lazy.js](https://github.com/dtao/lazy.js) - 与 Underscore 类似，但更懒.
 * [ramda](https://github.com/ramda/ramda) - 面向 JavaScript 程序员的实用函数库.
 * [mout](https://github.com/mout/mout) - 模块化 JavaScript 实用程序.
-* [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+* [preludejs](https://github.com/alanrsoares/prelude-js) - JavaScript 的核心函数式编程.
 * [rambda](https://github.com/selfrefactor/rambda) - 更快、更小的 *Ramda* 替代方案.
 * [fxts](https://github.com/marpple/FxTS) - 惰性求值和并发.
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 带有通配符和正则表达式的对象属性路径.
@@ -721,7 +726,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook 风格的 jQuery 工具提示插件.
 * [opentip](https://github.com/enyo/opentip) - 基于原型框架的开源 JavaScript 工具提示.
-* [qTip2](https://github.com/qTip2/qTip2) - 相当强大的工具提示.
+* [qTip2](https://github.com/qTip2/qTip2) - 非常强大的工具提示.
 * [tooltipster](https://github.com/iamceege/tooltipster) - 一个 jQuery 工具提示插件.
 * [simptip](https://github.com/arashmanteghi/simptip) - 用 Sass 制作的简单 CSS 工具提示.
 * [toolbar](https://github.com/paulkinzett/toolbar) - 工具提示样式工具栏 jQuery 插件
@@ -769,7 +774,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Menu
 
-* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)  - 当用户的光标指向特定下拉菜单项时触发事件的 jQuery 插件. 用于制作像亚马逊这样的响应式大型下拉菜单.
+* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)  - 当用户的光标指向特定下拉菜单项时触发事件的 jQuery 插件. 用于制作像亚马逊那样的响应式大型下拉菜单.
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - 上下文菜单管理器.
 * [Slideout](https://github.com/mango/slideout) - 适用于移动网络应用程序的响应式触摸滑出式导航菜单.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - 与 touchSwipe 库配合使用的滑动菜单.
@@ -813,7 +818,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
  * [Drift](https://github.com/imgix/drift)  - 轻松地将“悬停缩放”功能添加到您网站的图像中. 轻量级、无依赖的 JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - 使用 jQuery 进行响应式缩放、图像等.
- * [Panolens.js](https://github.com/pchen66/panolens.js)  - Panolens.js 是一个事件驱动且基于 WebGL 的全景查看器. 轻巧灵活
+ * [Panolens.js](https://github.com/pchen66/panolens.js)  - Panolens.js 是一个事件驱动且基于 WebGL 的全景查看器. 轻便灵活
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - 用于多点触摸手势的 JavaScript 库.
@@ -840,7 +845,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 适用于网络的 HTML5 视频播放器
  <https://flowplayer.com/>
  * [mediaelement](https://github.com/johndyer/mediaelement)  - HTML5<audio> 或者<video>带有 Flash 和 Silverlight shims 的播放器模仿 HTML5 MediaElement API，从而在所有浏览器中实现一致的 UI.<http://www.mediaelementjs.com/>
- * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使网络上的音频处理变得更容易的库. 它为在不同浏览器中播放音频提供了一致的API.
+ * [SoundJS](https://github.com/CreateJS/SoundJS)  - 一个使网络音频处理变得更容易的库. 它为在不同浏览器中播放音频提供了一致的API.
  * [video.js](https://github.com/videojs/video.js) - Video.js - 开源 HTML5 和 Flash 视频播放器.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级、易于使用的 jQuery 插件，用于流畅的视频嵌入.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - 任何网页上的简单声音.
@@ -939,7 +944,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - 过滤和排序插件.
 * [grid](https://github.com/hootsuite/grid) - 用于二维、可调整大小和响应式列表的拖放库.
-* [jquery-match-height](https://github.com/liabru/jquery-match-height) - jQuery 的响应式等高插件.
+* [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [SurveyJS](https://github.com/surveyjs/survey-library)  - SurveyJS 是一个 JavaScript 调查和表单库.  https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://objectexplorer.netlify.app/) - 帮助确定在任何给定时间最好使用哪种本机 JavaScript 方法的资源.
 * [Clipboard.js](https://clipboardjs.com/) - “复制到剪贴板”，无需 Flash 或使用框架.
@@ -998,4 +1003,4 @@ https://listjs.com
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [chencheng](https://github.com/sorrycc) 已放弃该作品的所有版权和相关或邻接权.
+在法律允许的范围内， [chencheng](https://github.com/sorrycc) 已放弃本作品的所有版权以及相关或邻接权.
