@@ -63,32 +63,24 @@ Fiber 框架中包含的中间件列表.
 - [fibernewrelic](https://github.com/gofiber/contrib/tree/main/fibernewrelic)  - 用于 Fiber 的 NewRelic 中间件. 中间件处理 NewRelic 仪器.
 - [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry) - 哨兵支持光纤.
 - [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap) - 对 Fiber 的 Zap 日志记录支持.
-- [jwt](https://github.com/gofiber/jwt) - JWT 返回 JSON Web 令牌 (JWT) 身份验证中间件.
+- [jwt](https://github.com/gofiber/contrib/tree/main/jwt) - JWT 返回 JSON Web 令牌 (JWT) 身份验证中间件.
 - [opafiber](https://github.com/gofiber/contrib/tree/main/opafiber)  - 针对 Fiber 的开放策略代理中间件. 中间件处理运行的 Rego 策略.
 - [otelfiber](https://github.com/gofiber/contrib/tree/main/otelfiber) - 对光纤的 OpenTelemetry 支持.
 - [paseto](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO 返回 Web 令牌 (PSETO) 身份验证中间件.
 - [swagger](https://github.com/gofiber/contrib/tree/main/swagger)  - 用于 Fiber 的 Swagger 中间件. 中间件处理 Swagger UI.
-- [websocket](https://github.com/gofiber/websocket) - 基于 Fasthttp WebSocket for Fiber，具有本地支持！
+- [websocket](https://github.com/gofiber/contrib/tree/main/websocket) - 基于 Fasthttp WebSocket for Fiber，具有本地支持！
 
 ### 🌱 Third Party
 Fiber 社区创建的中间件列表.
-- [arsmn/fiber-swagger](https://github.com/arsmn/fiber-swagger) - Fiber 中间件可使用 Swagger 2.0 自动生成 RESTful API 文档.
-- [arsmn/fiber-casbin](https://github.com/arsmn/fiber-casbin) - Fiber 的 Casbin 中间件.
 - [shareed2k/fiber_tracing](https://github.com/shareed2k/fiber_tracing) - 使用 OpenTracing API 对 Fiber 框架进行中间件跟踪请求.
 - [shareed2k/fiber_limiter](https://github.com/shareed2k/fiber_limiter) - 使用 Redis 作为速率限制存储的限制器，具有两种选择滑动窗口、gcra 漏桶的算法.
-- [arsmn/fastgql](https://github.com/arsmn/fastgql) - 用于构建 GraphQL 服务器的 Go 库，无需任何麻烦，但具有 fasthttp 支持.
-- [kiyonlin/fiber_limiter](https://github.com/kiyonlin/fiber_limiter) - 限制器基于 golang.org/x/time/rate 的分叉速率.
-- [juandiii/go-jwk-security](https://github.com/juandiii/go-jwk-security) - 用于光纤的 JWT 中间件. 
 - [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 go Fiber 的 Prometheus 中间件.
-- [LdDl/fiber-long-poll](https://github.com/LdDl/fiber-long-poll) - 用于名为 Fiber 的基于 fasthttp 的 Web 框架的 Golang 长轮询库.
-- [K0enM/fiber_vhost](https://github.com/K0enM/fiber_vhost) - Fiber 的 Vhost（虚拟主机）中间件，允许使用基于主机标头的虚拟主机.
 - [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - 光纤 Firebase 身份验证中间件.
-- [theArtechnology/fiber-inertia](https://github.com/theArtechnology/fiber-inertia) - 这是一个基于 Inertia-laravel 的 Inertia.js 服务器端适配器，但适用于 Fiber 框架.
 - [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - 健康检查中间件支持 Fiber️ 框架的健康检查.
 - [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - Go Fiber 的 APM 代理.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - 用于 Fiber 的 LDAP 身份验证中间件.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC 标准，可作为中间件替代 Varnish.
-- [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制工作量证明挑战的反 DDoS/Bot 中间件.
+- [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 提供光纤 OPA 中间件集成.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - 一个中间件，用于根据 W3C 服务器计时规范添加服务器计时标头.
 - [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - 报告性能数据（路线统计数据）的 Airbrake 中间件.
@@ -108,7 +100,6 @@ Fiber 的预制样板.
 - [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template)  - 一个生产就绪、容器优先的固执己见的 go Fiber 项目模板. 通过 envvars 进行配置，通过 go.uber.org/fx 进行 DI，通过 uptrace/bun 进行数据库，具有开箱即用的 MVC 文件夹结构和 CI/CD 支持.
 - [mikhail-bigun/go-app-template](https://github.com/mikhail-bigun/go-app-template) - 简洁的架构 Go 应用程序样板，具有丰富的 Fiber 实现.
 
-
 ## 📁 Recipes
 纤维食谱.
 - [gofiber/recipes](https://github.com/gofiber/recipes) - 官方纤维食谱.
@@ -120,7 +111,7 @@ Fiber 的预制样板.
 
 ## 🛠️ Tools
 多种使 Fiber 使用更轻松的工具.
-- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn 是一个固执己见的 Web 框架，提供基于 Fiber 的快速开发功能.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - 为 Fiber 或 Gin REST API 生成样板 + 端点.
 - [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve 是一个轻量级应用程序或 docker 镜像，用于服务前端和负载均衡器应用程序.
 
