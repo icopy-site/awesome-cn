@@ -78,7 +78,7 @@
 
 #### Hackerspace Brussels (HSBXL)
 
-> Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
+ &gt; 布鲁塞尔黑客空间 (HSBXL) 是一个致力于建设性和创造性黑客各个方面的空间. 空间约300平方米，有一个小型电子实验室，里面有9000多个元件、一个图书馆和大量工具. 我们随时欢迎您参加其中一个研讨会或参加每周二的会议、黑客之夜或其他聚会活动.
 
 网页：https://hsbxl.be/
 
@@ -560,7 +560,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 无线网络| 电源| 地址 | 营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky)  | 每日：00:00-23:59
+✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59
 
 ![](http://www.speedtest.net/result/5787230824.png)
 
@@ -589,7 +589,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
  &gt; 与书店相连的咖啡馆. 对永不离开的黑客类型非常宽容.  Wifi大约8Mbps，相当稳定. 大多数人都会说足够的英语，你可以点一杯咖啡，而且咖啡很好. 仅限牛奶.
 
-Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
+网页：https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
 无线网络| 电源| 地址 | 营业时间
 ---- | ----- | ------- | ----------
@@ -687,7 +687,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 #### Lugar 34
 
- &gt; 非常舒适和寒冷的地方. 啤酒和挪威其他地方一样贵得要命，但他们也提供优质的咖啡. 有嬉皮风格.  8兆/1兆无线网络. 开放时间很好.
+ &gt; 非常舒适和凉爽的地方. 啤酒和挪威其他地方一样贵得要命，但他们也提供优质的咖啡. 有嬉皮风格.  8兆/1兆无线网络. 开放时间很好.
 
 网页：https://facebook.com/lugar34
 
@@ -855,7 +855,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 #### Centro Comercial Nova Arcada
 
- &gt; 布拉加郊外的购物中心，令人惊讶的是，工作日非常安静，很多人去那里学习/工作. 商场有提供免费WiFi，只需每隔45分钟左右重新登录一次即可（我黑掉了 [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) 为了使该过程自动化，似乎工作了一整个下午）. 提供电源插头，餐厅和咖啡馆位于同一楼层，并且每周都有往返市中心的免费巴士.
+ &gt; 布拉加郊外的购物中心，令人惊讶的是，工作日非常安静，很多人去那里学习/工作. 商场有提供免费WiFi，只需每隔45分钟左右重新登录一次即可（我黑掉了 [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb) to automate the process, seemed to work for a whole afternoon). There are power plugs available, restaurants and cafes are on the same floor and free bus from/to city center during the week.
 
 网页：http://www.novaarcada.pt/
 
@@ -1255,6 +1255,26 @@ Naver 地图：http://naver.me/FjThMRso
 
 ## Barcelona
 
+#### Federal Café
+
+&gt; 拥有绝佳自然光线和美味食物的咖啡馆
+
+网页：http://federalcafe.es/barcelona-gotic/
+
+无线网络| 电源| 地址 | 营业时间
+---- | ----- | -------------- | -------
+✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+
+#### Frenesi Cafe
+
+&gt; 舒适的小咖啡店，座位舒适，有很多插头（甚至还有 USB 插头）
+
+网页：http://frenesicafe.com
+
+无线网络| 电源| 地址 | 营业时间
+---- | ----- | -------------- | -------
+✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  | 周一：休息，周二至周四：9-19，周五至周日：10-17
+
 #### Ideal
 
  &gt; 舒适的咖啡厅还提供天然果汁和美味食物. 后面有一个漂亮的露台.
@@ -1279,25 +1299,25 @@ Naver 地图：http://naver.me/FjThMRso
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
-#### Frenesi Cafe
+#### Morrow Coffee
 
-&gt; 舒适的小咖啡店，座位舒适，有很多插头（甚至还有 USB 插头）
+ &gt; 具有多元文化氛围的咖啡馆. 好的音乐和很棒的人.
 
-网页：http://frenesicafe.com
-
-无线网络| 电源| 地址 | 营业时间
----- | ----- | -------------- | -------
-✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  | 周一：休息，周二至周四：9-19，周五至周日：10-17
-
-#### Federal Café
-
-&gt; 拥有绝佳自然光线和美味食物的咖啡馆
-
-网页：http://federalcafe.es/barcelona-gotic/
+网页：https://morrowcoffee.com/
 
 无线网络| 电源| 地址 | 营业时间
----- | ----- | -------------- | -------
-✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+---- | ----- | ------- | ----------
+✔ | ✔ | [Av. Gran Vía de les Corts Catalanes 403 Barcelona, Spain, 08015 Barcelonaa](https://goo.gl/maps/qymLhQmKQrRC9MDFA) |
+
+#### ÖSS Kaffe Barcelona
+
+ &gt; El Raval 是一个友好的工作场所和喝咖啡的地方. 工作人员很棒.
+
+网页：https://www.instagram.com/osskaffe.es/
+
+无线网络| 电源| 地址 | 营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [C/ de Joaquín Costa, 26, 08001 Barcelona, Espanha](https://goo.gl/maps/PhKVDsLp1WbHLA2z7) |
 
 #### 52 Moments
 
@@ -1334,7 +1354,7 @@ Naver 地图：http://naver.me/FjThMRso
 
 #### Café Fåtöljen
 
- &gt; 咖啡还可以. 开放接入点，平均下降约 7 兆位，上升 1 兆位. 动力充足. 非常安静，离地铁也很近.
+> Coffee is okay. Open access point, ~7mbit down on average, 1mbit up. Ample power. Very quiet and very close to the metro.
 
 网页：http://cafefatoljen.com
 
@@ -1531,7 +1551,7 @@ Naver 地图：http://naver.me/FjThMRso
 
 &gt; 历史悠久的大学剧院所在地，提供免费和可预订的座位、精心调整的无线网络和蓝瓶咖​​啡.
 
-网页：http://hanahaus.com/
+Webpage: http://hanahaus.com/
 
 无线网络| 电源| 地址 | 营业时间
 ---- | ----- | ------- | ----------
@@ -1614,7 +1634,7 @@ Naver 地图：http://naver.me/FjThMRso
 
 无线网络| 电源| 地址 | 营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00
+✔ | ✔ | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92)  | 周一至周五 7:00-16:00，周六至周日 8:00-15:00
 
 #### The Perfect Cup
 
@@ -1837,7 +1857,7 @@ Notes:
 
 &gt; 不错的咖啡店，浓咖啡很棒，比较繁忙.
 
-Webpage: http://zeitgeistcoffee.com/
+网页：http://zeitgeistcoffee.com/
 
 无线网络| 电源| 咖啡| 地址 | 营业时间
 ---- | ----- | ------ | ------- | ----------

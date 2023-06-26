@@ -301,7 +301,7 @@ Neovim 支持多种 UI.
 - [Th3Whit3Wolf/one-nvim](https://github.com/Th3Whit3Wolf/one-nvim) - 受 Atom One 启发的深色和浅色配色方案.
 - [PHSix/nvim-hybrid](https://github.com/PHSix/nvim-hybrid) - 用 Lua 编写的 Neovim 配色方案.
 - [Th3Whit3Wolf/space-nvim](https://github.com/Th3Whit3Wolf/space-nvim) - 受 spacemacs 启发的深色和浅色配色方案.
-- [yonlu/omni.vim](https://github.com/yonlu/omni.vim) - Omni color scheme for Vim.
+- [yonlu/omni.vim](https://github.com/yonlu/omni.vim) - Vim 的 Omni 配色方案.
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 24 位深色主题，支持 Tree-sitter 和 LSP.
 - [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) - 现代 Neovim 配色方案的集合：材质、月光、德古拉（血）、monokai、玛丽安娜、翡翠、初夏、午夜蓝、暗太阳能.
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - 用 Lua 编写的 Monokai 主题.
@@ -541,6 +541,7 @@ Neovim 支持多种 UI.
 - [RutaTang/compter.nvim](https://github.com/RutaTang/compter.nvim)  - 增强和扩展`的能力<C-a> ` 和 `<C-x>  ` 具有定制图案.
 - [reggie/licenses.nvim](https://git.sr.ht/~reggie/licenses.nvim) - 插入并写入许可证标头和/或文件.
 - [yagiziskirik/AirSupport.nvim](https://github.com/yagiziskirik/AirSupport.nvim) - 用于自定义快捷方式和命令的可搜索提醒窗口.
+- [aPeoplesCalendar/apc.nvim](https://github.com/aPeoplesCalendar/apc.nvim) - “今天”风格的日历，提供有关全球工人阶级运动和解放斗争历史的信息.
 
 ### Terminal Integration
 
@@ -575,7 +576,7 @@ Neovim 支持多种 UI.
 
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - nvim-bqf 的目标是使 Neovim 的快速修复窗口变得更好.
 - [gitlab.com/yorickpeterse/nvim-pqf](https://gitlab.com/yorickpeterse/nvim-pqf) - 更漂亮的快速修复/位置列表窗口.
-- [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua)  - 有时您会想要稍后修复某些线路. 将行存储到 qf 中并附上一些注释，这样当您真正想要修复它时就知道该怎么做.
+- [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua)  - 有时您会想要稍后修复某些线路. 将行存储到 qf 中并附上一些注释，以便您知道当您真正想要修复它时该怎么做.
 
 ### Test
 
@@ -610,7 +611,7 @@ Neovim 支持多种 UI.
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - 帮助用 Lua 或任何基于 Lua 的语言编写 .vimrc 的命令.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - 在 Neovim 中使用 Lua 的指南.
 - [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) - 用于嵌入式 Lua 引擎的交互式实时 Neovim 便笺本 - 键入并观看！
-- [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim)  - 全体会议：全体会议； 完全的; 全部的; 绝对; 不合格. 所有的Lua函数我都不想写两次.
+- [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - Vim 的 Popup API 的实现.
 - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) - 单个文件，无依赖性，轻松复制和粘贴日志文件以添加到您的 Neovim Lua 插件中.
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev)  - REPL/调试控制台 Lua 插件.  `:Luadev` 命令将打开一个草稿窗口，其中显示执行 Lua 代码的输出.
@@ -618,7 +619,7 @@ Neovim 支持多种 UI.
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - Lua 和 Neovim 的 SQLite/LuaJIT 绑定.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI 组件库.
 - [echasnovski/mini.nvim#mini.doc](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-doc.md)  - `mini.nvim` 模块，用于从类似 EmmyLua 的注释生成帮助文件. 允许通过钩子函数灵活定制输出.
-- [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - The luv docs in vimdoc format.
+- [nanotee/luv-vimdocs](https://github.com/nanotee/luv-vimdocs) - vimdoc 格式的 luv 文档.
 - [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) - 内置 Lua 函数的参考.
 - [echasnovski/mini.nvim#mini.test](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-test.md)  - `mini.nvim` 模块，带有用于编写广泛 Neovim 插件测试的框架. 支持分层测试、挂钩、参数化、过滤、屏幕测试、“busted-style”仿真、可定制报告器等.
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) - 保险箱需要更换，但要精致.
@@ -810,7 +811,7 @@ Neovim 支持多种 UI.
 #### Indent
 
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - 使用 nvim_set_decoration_provide api 的最小且快速的缩进插件.
-- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Lua 中的 IndentLine 替换，具有更多功能和树木管理员支持.
+- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - IndentLine replacement in Lua with more features and treesitter support.
 - [LucasTavaresA/simpleIndentGuides.nvim](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - 使用内置变量的缩进指南.
 - [echasnovski/mini.nvim#mini.indentscope](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-indentscope.md)  - 用于在缩进范围内可视化和操作的“mini.nvim”模块. 支持自定义去抖延迟、动画风格以及范围计算算法的不同粒度选项.
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - 自动压痕样式检测.
