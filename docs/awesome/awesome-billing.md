@@ -40,7 +40,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 <!--lint disable double-link-->
 
-计费是生态系统的横向支柱之一，客户、产品和业务在此交汇. 这 [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/).
+Billing is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/).
 
 <!--lint enable double-link-->
 
@@ -170,7 +170,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 - [Cloudorado](https://www.cloudorado.com) - 使用ECU（亚马逊的vCPU）作为CPU功率测量单位的比较矩阵.
 
-- [EC2Instances.info](https://ec2instances.info) - 简单的 Amazon EC2 实例比较.
+- [EC2Instances.info](https://ec2instances.info) - Easy Amazon EC2 Instance Comparison.
 
 ## Cost Forecast
 
@@ -205,6 +205,8 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 - [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem)  - “供给还是需求，哪个先出现？ 先有鸡还是先有蛋？”
 
 - 如何启动和扩展市场业务： [Constrain the marketplace](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace) ; 决定专注于市场的哪一方面； 推动初始供应； 推动初始需求. 该系列由 4 部分组成，对数十位具有构建和扩展市场直接经验的人士进行了采访.
+
+- [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/)  - 一些词汇：“在赌场中，术语*佣金*指的是赌场通过经营扑克游戏赚取的佣金.  （……）虽然赌场使用“佣金”这个术语，但存在大量有趣的词语选择，它们都描述了同一件事——为运营该服务的公司保留一点收入.”
 
 ### Cloud Resources
 
@@ -290,7 +292,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 现在您已经对会计的概念和实践有所了解，这里有一些资源可以帮助您将这些知识应用到软件系统中.
 
-- [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
+- [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html)  - 计费和会计系统背后的设计决策. 要点：一些公司仍然通过支票付款； 不要使用漂浮物； 复杂的客户工作流程； 日期和时间问题； 可变数据.
 
 - [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - 解释 Square 内部使用的、依赖 Google Spanner 的复式记账系统的基本数据模型.
 
@@ -518,7 +520,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 大多数欺诈都是利用最常见的支付设备：信用卡.
 
-- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - A practical handbook on how to identify patterns in transactions.
+- [Reproducible Machine Learning for Credit Card Fraud detection](https://fraud-detection-handbook.github.io/fraud-detection-handbook/) - 关于如何识别交易模式的实用手册.
 
 - [How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/) - 描述一种称为“卡测试”的欺诈技术，其中根据您的 API 检查大量被盗卡的有效性.
 
@@ -616,7 +618,7 @@ This [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindreso
 
 ### Data Engineering
 
-To industrialize data production and consumption, your need data engineers to clean up, persist and consolidate data. Only after you get these data foundation you might think of onboarding data scientists.
+为了实现数据生产和消费的工业化，您需要数据工程师来清理、保存和整合数据. 只有在获得这些数据基础后，您可能会考虑聘请数据科学家.
 
 - [AI vs Data Science vs Data Engineering](https://blog.insightdatascience.com/how-emerging-ai-roles-fit-in-the-data-landscape-d4cd922c389b)  -“数据工程师构建数据管道和基础设施，以确保转换数据的持续可用性. 数据科学家根据这些数据分析并构建模型，以开发新产品功能或推动业务盈利.” 对于人工智能专业人士来说，他们的重点是认知自动化.
 
@@ -624,7 +626,7 @@ To industrialize data production and consumption, your need data engineers to cl
 
 - [Cargo cult data science](http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html)  - “数据科学最好被视为一种公司文化形式，而不是一组技术. 然而，许多公司将尝试通过获取数据科学技术来创造这种公司文化，而不是致力于他们的文化.”
 
-- [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - 由于精度：浮点数和双精度数无法准确表示我们用于货币的以 10 为基数的倍数.
+- [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
 
 - [Never Use Floats for Money](https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html)  - “这正是我们在尝试用二进制表示 10^-1 或 0.1 时遇到的问题.  0.1 或 0.01 没有精确的二进制表示.”
 

@@ -37,6 +37,8 @@
 
 * [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***和***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5) ]. 关于应用结构、过程和元语言抽象来解决计算问题的经典课程.
 
+* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) . 离散数学基础经典课程.
+
 
 
 ### Programming
@@ -1143,7 +1145,7 @@
 
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) -***人工智能元***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5) ]. 在大规模科学语料库上训练的大型语言模型.
 
-* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
+* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) -***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 * [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL&#39;21 演示曲目***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5) ]. 文献检索中查询关键词知识图谱的构建和可视化工具.
 
@@ -1460,7 +1462,7 @@
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)  - ***柏拉图斯坦福***. 关于归纳逻辑的计算哲学解释，归纳逻辑是证据支持的逻辑.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，一阶模型理论是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 关于次相一致逻辑的计算哲学解释，其中任何逻辑只要不是爆炸性的，都是次相一致的.
 
@@ -1553,7 +1555,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 叠加在另一组 B 上，以防万一没有两个事物可以在 A 属性方面有所不同，而在 B 属性方面也不会有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可追溯到古希腊辩证法，当时通过对话来解决问题，其中反对方通过问题和答案讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可以追溯到古希腊辩证法的研究传统，当时通过对话来解决问题，其中反对方通过问题和答案讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -2038,13 +2040,13 @@
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***基础书籍***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
-* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
+* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) -***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
 
 
 ### Susan Carey
 
-发展心理学家提出“物体”作为人类智能的核心知识. 
+发展心理学家提出“物体”作为人类智力的核心知识. 
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)].
 

@@ -365,7 +365,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [flen](https://github.com/lafolle/flen) — 获取有关 Go 包中函数长度的信息.
 
-- [Go Meta Linter](https://github.com/alecthomas/gometalinter) :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
+- [Go Meta Linter](https://github.com/alecthomas/gometalinter)  :warning: — 同时运行 Go lint 工具并标准化其输出. 对新项目使用“golangci-lint”.
 
 - [go tool vet --shadow](https://golang.org/cmd/vet#hdr-Shadowed_variables) — 报告可能被无意隐藏的变量.
 
@@ -493,7 +493,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 - [Diffblue](https://www.diffblue.com/) ：版权： — Diffblue 是一家软件公司，为软件开发团队提供人工智能驱动的代码分析和测试解决方案.
 其技术可帮助开发人员自动化测试、查找错误并减少软件开发过程中的体力劳动. 该公司的主要产品 Diffblue Cover 使用 AI 生成和运行 Java 代码的单元测试，有助于捕获错误并提高代码质量.
 
-- [Doop](https://bitbucket.org/yanniss/doop)  — Doop 是一个用于 Java/Android 程序静态分析的声明式框架，以指针分析算法为中心.  Doop 提供了各种各样的分析以及周围的脚手架来运行端到端分析（事实生成、处理、统计等）.
+- [Doop](https://bitbucket.org/yanniss/doop)  — Doop 是一个用于 Java/Android 程序静态分析的声明式框架，以指针分析算法为中心.  Doop 提供了各种各样的分析以及周围的脚手架来运行端到端的分析（事实生成、处理、统计等）.
 
 - [Error-prone](https://errorprone.info) — 将常见的 Java 错误捕获为编译时错误.
 
@@ -569,7 +569,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
-- [retire.js](https://retirejs.github.io/retire.js) — 扫描器检测具有已知漏洞的 JavaScript 库的使用.
+- [retire.js](https://retirejs.github.io/retire.js) — 扫描器检测具有已知漏洞的 JavaScript 库的使用情况.
 
 - [RSLint](http://rslint.org/) — 用 Rust 编写的（WIP）JavaScript linter，旨在尽可能快、可定制且易于使用.
 
@@ -608,7 +608,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [luacheck](https://github.com/mpeterv/luacheck) — Lua 代码的 linting 和静态分析工具.
 
-- [lualint](https://github.com/philips/lualint) — lualint performs luac-based static analysis of global variable usage in Lua source code.
+- [lualint](https://github.com/philips/lualint) — lualint 对 Lua 源代码中的全局变量使用情况进行基于 luac 的静态分析.
 
 - [Luanalysis](https://plugins.jetbrains.com/plugin/14698-luanalysis) — 用于静态类型 Lua 开发的 IDE.
 
@@ -638,7 +638,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="php">PHP</h2>
 
 
-- [churn-php](https://github.com/bmitch/churn-php) — 帮助发现重构的良好候选对象.
+- [churn-php](https://github.com/bmitch/churn-php) — 帮助发现重构的良好候选者.
 
 - [dephpend](https://github.com/mihaeu/dephpend) — 依赖性分析工具.
 
@@ -815,7 +815,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [pyanalyze](https://pyanalyze.readthedocs.io/en/latest/)  — 一种以编程方式检测 Python 代码中常见错误的工具，例如对未定义变量的引用和类型错误. 它可以扩展以添加额外的规则并执行特定于特定功能的检查.
 
-- [PyCodeQual](https://pycodequ.al)  :copyright: — PyCodeQual 让您深入了解复杂性和错误风险. 它会为您的拉取请求添加自动审查.
+- [PyCodeQual](https://pycodequ.al)  :copyright: — PyCodeQual 让您深入了解复杂性和错误风险. 它将自动审查添加到您的拉取请求中.
 
 - [pycodestyle](https://pycodestyle.pycqa.org/en/latest) —（以前称为“pep8”）根据 PEP 8 中的一些样式约定检查 Python 代码.
 
@@ -871,6 +871,12 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 - [lintr](https://github.com/jimhester/lintr) — R 的静态代码分析.
 
 - [styler](https://styler.r-lib.org) — R 源代码文件的格式化和 R 代码的漂亮打印.
+
+
+<h2 id="rego">沟</h2>
+
+
+- [Regal](https://github.com/styrainc/regal)  — Regal 是策略语言 Rego 的 linter.  Regal 的目标是发现策略代码中的 bug 和错误，同时帮助人们学习语言、最佳实践和惯用结构.
 
 
 <h2 id="ruby">红宝石</h2>
@@ -948,7 +954,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  — 找出可执行文件中占用大部分空间的内容. 支持 ELF（Linux、BSD）、Mach-O（macOS）和 PE（Windows）二进制文件.
 
-- [cargo-breaking](https://github.com/iomentum/cargo-breaking) —cargo-breaking 比较两个不同分支之间的 crate 公共 API，显示更改的内容，并根据 semver 建议下一个版本.
+- [cargo-breaking](https://github.com/iomentum/cargo-breaking) ——cargo-breaking 比较两个不同分支之间的 crate 公共 API，显示更改的内容，并根据 semver 建议下一个版本.
 
 - [cargo-call-stack](https://github.com/japaric/cargo-call-stack) — 整个程序静态堆栈分析 该工具将程序的完整调用图生成为点文件.
 
@@ -1355,7 +1361,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 - [trivy](https://github.com/aquasecurity/trivy)  — 适用于 CI 的简单而全面的容器和其他工件漏洞扫描器.  Trivy 检测操作系统软件包（Alpine、RHEL、CentOS 等）和应用程序依赖项（Bundler、Composer、npm、yarn 等）的漏洞. 检查容器和文件系统.
 
 
-- [trunk](https://trunk.io)  :copyright: — 现代存储库包含许多技术，每种技术都有自己的一组 linter. 凭借 30 多个 linter 和计数，Trunk 使识别、安装、配置和运行所有存储库的正确 linter、静态分析器和格式化程序变得非常简单.
+- [trunk](https://trunk.io)  :copyright: — 现代存储库包含许多技术，每种技术都有自己的一组 linter. 凭借 30 多个 linters 和计数，Trunk 使识别、安装、配置和运行所有存储库的正确 linters、静态分析器和格式化程序变得非常简单.
 
 - [TscanCode](https://github.com/Tencent/TscanCode) — A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.
 
@@ -1586,7 +1592,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Nitpick CI](https://nitpick-ci.com) :copyright: — 自动 PHP 代码审查.
 
-- [PullRequest](https://www.pullrequest.com)  ：版权： - 代码审查作为具有内置静态分析的服务. 由专家工程师在一流的自动化支持下进行质量代码审查，提高速度并减少技术债务.
+- [PullRequest](https://www.pullrequest.com) :copyright: — Code review as a service with built-in static analysis.  Increase velocity and reduce technical debt through quality code review by expert engineers backed by best-in-class automation.
 
 - [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
 
@@ -1683,14 +1689,14 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [kube-lint](https://github.com/viglesiasce/kube-lint)  — 具有可定制规则集的 Kubernetes 资源的 linter. 您定义一个要根据您的资源验证的规则列表，kube-lint 将根据它们评估这些规则.
 
-- [kube-linter](https://github.com/stackrox/kube-linter) KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中代表的应用程序遵循最佳实践.
+- [kube-linter](https://github.com/stackrox/kube-linter) KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序遵循最佳实践.
 
 - [kube-score](https://kube-score.com) — Kubernetes 对象定义的静态代码分析.
 
 - [kubeconform](https://github.com/yannh/kubeconform) — A fast Kubernetes manifests validator with support for custom resources.
 它的灵感来自于，包含代码，并且旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自更新分支 - 它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
-- [KubeLinter](https://github.com/stackrox/kube-linter) KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中代表的应用程序遵循最佳实践.
+- [KubeLinter](https://github.com/stackrox/kube-linter) KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中表示的应用程序遵循最佳实践.
 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
@@ -1740,7 +1746,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [flake8](https://github.com/PyCQA/flake8) — `pyflakes`、`pycodestyle` 和 `mccabe` 的​​包装.
 
-- [Go Meta Linter](https://github.com/alecthomas/gometalinter) :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
+- [Go Meta Linter](https://github.com/alecthomas/gometalinter)  :warning: — 同时运行 Go lint 工具并标准化其输出. 对新项目使用“golangci-lint”.
 
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) — 同时运行许多 linter 并将其输出标准化为报告.
 
@@ -1802,7 +1808,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="protobuf">协议缓冲区</h2>
 
 
-- [buf](https://buf.build) — 提供 CLI linter，强制执行良好的 API 设计选择和结构
+- [buf](https://buf.build) — 提供 CLI linter，强制实施良好的 API 设计选择和结构
 
 - [protolint](https://github.com/yoheimuta/protolint) — 可插入的 linter 和修复程序以强制执行 Protocol Buffer 样式和约定.
 
@@ -1954,7 +1960,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [alex](https://alexjs.com) — 捕捉麻木不仁、不体贴的写作
 
-- [codespell](https://github.com/codespell-project/codespell) — 检查代码中常见的拼写错误.
+- [codespell](https://github.com/codespell-project/codespell) — 检查代码中是否存在常见拼写错误.
 
 - [languagetool](https://languagetool.org)  — 超过 25 种语言的风格和语法检查器. 它可以发现许多简单的拼写检查器无法检测到的错误.
 

@@ -137,7 +137,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Reaktoro](https://github.com/reaktoro/reaktoro)  - 用于化学反应系统建模的 C++ 和 Python 计算框架.  [LGPL] [website](https://reaktoro.org)
 * [LAMMPS](https://github.com/lammps/lammps)  - 经典的分子动力学代码，重点关注材料建模. 它是大规模原子/分子大规模并行模拟器的缩写.  [通用公共许可证] [website](https://lammps.sandia.gov/)
 * [MADNESS](https://github.com/m-a-d-n-e-s-s/madness)  - 用于科学模拟的多分辨率自适应数值环境.  [通用公共许可证] [website](https://github.com/m-a-d-n-e-s-s/madness)
-* [MPQC](https://github.com/ValeevGroup/mpqc)  - 大规模并行量子化学程序 MPQC 使用与时间无关的薛定谔方程从第一原理计算原子和分子的属性.  [通用公共许可证] [website](https://mpqc.org/)
+* [MPQC](https://github.com/ValeevGroup/mpqc)  - 大规模并行量子化学程序 MPQC 使用与时间无关的薛定谔方程根据第一原理计算原子和分子的属性.  [通用公共许可证] [website](https://mpqc.org/)
 * [ORCA](https://en.wikipedia.org/wiki/ORCA_(quantum_chemistry_program) ) - 一个从头算的量子化学程序包，包含现代电子结构方法.  [学术的] [website](https://orcaforum.kofo.mpg.de/)
 * [Psi](https://github.com/psi4/psi4)  - 从头计算化学包.  [通用公共许可证] [website](https://psicode.org/)
 
@@ -257,8 +257,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Containers
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree)  - 一个模板库，它实现基于 B 树数据结构的有序内存容器.  [阿帕奇2]
-* [Colony](https://github.com/mattreecebentley/plf_colony)  - 无序的“袋”型容器，在高修改场景中优于标准容器，同时无论插入/擦除如何都保持指向非擦除元素的永久指针.  [z库] [website](http://www.plflib.org/colony.htm)
-* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - C++17 仅标头动态位集.  [麻省理工学院]
+* [Colony](https://github.com/mattreecebentley/plf_colony)  - 无序的“包”型容器，在高修改场景中优于标准容器，同时无论插入/擦除如何都保持指向非擦除元素的永久指针.  [z库] [website](http://www.plflib.org/colony.htm)
+* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - 仅包含 C++17 标头的动态位集.  [麻省理工学院]
 * [Hashmaps](https://github.com/goossaert/hashmap)  - 用 C++ 实现开放寻址哈希表算法.  [麻省理工学院]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)  - 快速的仅标头哈希映射，使用跳房子哈希来解决冲突.  [麻省理工学院]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)  - 局部敏感哈希（LSH）的C++工具箱，提供了几种流行的LSH算法，还支持Python和MATLAB.  [通用公共许可证]
@@ -293,7 +293,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  - 用于检测文件中 SHA-1 冲突的库和命令行工具.  [麻省理工学院]
 * [Tink](https://github.com/google/tink)  - 多语言、跨平台库，提供安全、易于正确使用且难以误用的加密 API.  [阿帕奇-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - C 语言中的小型便携式 AES128/192/256. [公共领域]
-* [Themis](https://github.com/cossacklabs/themis)  - 用于无痛数据安全的加密库，为移动和服务器平台提供对称和非对称加密、具有前向保密性的安全套接字.  [阿帕奇2]
+* [Themis](https://github.com/cossacklabs/themis)  - 用于轻松数据安全的加密库，为移动和服务器平台提供对称和非对称加密、具有前向保密性的安全套接字.  [阿帕奇2]
 * [HEhub](https://github.com/primihub/HEhub)  - 同态加密及其应用程序库.  [阿帕奇2]
 
 ## CSV
@@ -362,7 +362,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FakeIt](https://github.com/eranpeer/FakeIt)  - C++ 的简单模拟框架.  [麻省理工学院]
 * [fff](https://github.com/meekrosoft/fff)  - 用于创建假 C 函数的微框架.  [麻省理工学院]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
-* [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
+* [Google Test](https://github.com/google/googletest)  - Google C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆对于跟踪内存错误很有用.  [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - 用 C 语言编写测试. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有适用于多个平台的网络视图的分析器.  [无执照]
@@ -392,7 +392,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Font
 *用于解析和操作字体文件的库.*
 
-* [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和自定义库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
+* [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和定制库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 * [FreeType](https://www.freetype.org/)  - FreeType 是一个免费提供的软件库，用于渲染字体.  [FTL 和 GPLv2]
 * [otfcc](https://github.com/caryll/otfcc)  - 用于解析和写入 OpenType 字体文件的 AC 库和实用程序.  [阿帕奇-2.0]
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz)  - 文本塑造引擎.  [老麻省理工学院]
@@ -548,7 +548,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [frozen](https://github.com/cesanta/frozen)  - C/C++ 的 JSON 解析器和生成器.  [GPL 和 GPL2]
 * [Glaze](https://github.com/stephenberry/glaze)  - 速度极快，在内存、JSON 和现代 C++ 接口库中.  [麻省理工学院]
 * [Jansson](https://github.com/akheron/jansson)  - 用于编码、解码和操作 JSON 数据的 C 库.  [麻省理工学院]
-* [jbson](https://github.com/chrismanning/jbson)  - jbson 是一个用于在 C++14 中构建和迭代 BSON 数据和 JSON 文档的库.  [促进]
+* [jbson](https://github.com/chrismanning/jbson)  - jbson 是一个用于在 C++14 中构建和迭代 BSON 数据以及 JSON 文档的库.  [促进]
 * [JeayeSON](https://github.com/jeaye/jeayeson)  - 一个非常健全的（仅标头）C++ JSON 库.  [BSD]
 * [Jsmn](https://github.com/zserge/jsmn) - C 语言的简约 JSON 解析器. [MIT]
 * [json](https://github.com/nlohmann/json)  :zap: - 现代 C++ 的 JSON.  [麻省理工学院] [website](https://json.nlohmann.me)
@@ -661,7 +661,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Versor](http://versor.mat.ucsb.edu/) - 用于几何代数的（快速）通用 C++ 库，包括欧几里德、射影、共形、时空等.
 * [Wykobi](https://www.wykobi.com)  - 高效、强大且易于使用的面向 C++ 2D/3D 的计算几何例程的 C++ 库.  [麻省理工学院]
 * [xtensor](https://github.com/xtensor-stack/xtensor)  - 受 NumPy 语法启发，用于使用多维数组表达式进行数值分析的 C++14 库.  [BSD 3 条款] [website](https://xtensor-stack.github.io/xtensor)
-* [universal](https://github.com/stillwater-sc/universal)  - 实现任意位置算术的 C++14 仅头文件库. 正数系统是一种比 IEEE 浮点更高效的锥形浮点. 假设使可重复的计算科学成为可能.  [麻省理工学院许可证]
+* [universal](https://github.com/stillwater-sc/universal)  - 实现任意位置算术的 C++14 仅头文件库. 位置数字系统是一种比 IEEE 浮点更高效的锥形浮点. 假设使可重复的计算科学成为可能.  [麻省理工学院许可证]
 
 ## Memory Allocation
 
@@ -702,7 +702,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库的集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容. [Boost]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快、低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速、低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 现代 C++ HTTP 请求库，具有简单但功能强大的界面. 模仿 Python Requests 模块.  [麻省理工学院] [website](https://docs.libcpr.org)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
@@ -1168,6 +1168,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Talks
 
+* [C++ Conferences](https://github.com/eoan-ermine/cpp-conferences) - C++ 会议目录
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) :zap: - C++ 会议.
 * [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - Vittorio Romeo 在 CppCon 2014 上的演讲.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)

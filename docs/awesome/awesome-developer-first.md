@@ -54,7 +54,7 @@
 * [WorkOS](https://workos.com/) - 企业 SSO 和更多开箱即用的企业功能.
 
 ## Automation
-*Automate workflows via APIs and SDKs.*
+*通过 API 和 SDK 实现工作流程自动化.*
 * [n8n](http://n8n.io/) - 免费且可获取源代码的公平代码许可工作流程自动化工具.
 * [Trigger.dev](http://trigger.dev/) - 开源平台，可按计划或按需从 API 创建工作流程.
 
@@ -146,7 +146,7 @@
 * [Unleash](https://www.getunleash.io/) - 开源、隐私第一、企业级功能管理解决方案.
 
 ## GEO
-*位置服务.*
+*Location services.*
 * [Mapbox](https://www.mapbox.com/) - 供开发人员使用的地图和位置产品.
 * [PlaceKit](https://placekit.io/) - 位置搜索 API.
 * [Radar](https://radar.io/) - 地理围栏和地理 API.
@@ -154,7 +154,7 @@
 
 ## IDE
 *扩展 IDE 并帮助开发的产品.*
-* [Codota](https://www.codota.com/) - 适用于您的 IDE 的 AI 代码补全.
+* [Codota](https://www.codota.com/) - AI code completions for your IDE.
     * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
 * [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
 
@@ -210,10 +210,9 @@
 * [Nylas](https://www.nylas.com/) - 用于生产力工作流程的 API（电子邮件、日历、联系人...） - 例如用于生产力的格子图案.
 * [Plain](https://plain.com) - API 优先的客户服务平台（支持、反馈、评级小部件...）.
 * [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
-* [Zigi](https://www.zigi.ai/) - 开发人员的助手，通过 Slack 执行普通的非编码任务.
 
 ## Monitoring
-*监控您的生产应用程序.*
+*监控您的生产应用.*
 * [KeenIO](https://keen.io/) - 事件流平台.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
@@ -232,8 +231,9 @@
 *处理付款、信用卡处理和发票.*
 * [Braintree](https://www.braintreepayments.com/) - Paypal 采用 API 优先支付方式.
 * [Increase](https://increase.com/) - 裸机银行 API.
+* [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS 支付 - 覆盖更多国家并负责增值税.
 * [Paddle](https://paddle.com/) - 具有广泛地理支持的 SaaS 收入交付平台（与目前的 stripe 不同）.
-* [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+* [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
 * [Stigg](https://www.stigg.io) - API 优先定价计划.
 * [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
 
