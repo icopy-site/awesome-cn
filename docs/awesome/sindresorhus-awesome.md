@@ -438,7 +438,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套数据结构.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - 算法的算法审计.
-- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - 通用人工智能（AGI）和计算认知科学（CoCoSci）的交互作用.
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## Books
 
@@ -490,7 +490,7 @@
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - 对于 macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
@@ -608,7 +608,7 @@
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS 注重灵活性和用户体验.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - 基于 PHP 的轻量级 CMS.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - 可扩展的基于 PHP 的 CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - 内容优先的CMS.
 - [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET 数字营销平台，将 CMS 与管理多个网站的工具相结合.
@@ -828,7 +828,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - 将信贷申请人分为风险类别的方法.
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - 基于 Python 的开源 IT 配置管理和自动化平台.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - 网络上生物数据的交互式可视化.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - 一种矩阵条形码，可用于存储和共享少量信息.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - 使植物性生活方式变得简单易行.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - 将文本的含义从一种语言转移到另一种语言.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - 一个用于 JavaScript 自动化的 iOS 应用程序.
@@ -838,6 +838,8 @@
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - 应用于生物学问题的计算方法.
 - [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - 示例文档项目，以激发和帮助引导新的文档项目.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - 基于Pandoc构建的科技开源发布系统.
+- [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - OpenAI 开发的人工智能聊天机器人.
+- [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - 由 OpenAI 开发的开源人工智能语音识别系统.
 
 ## Related
 

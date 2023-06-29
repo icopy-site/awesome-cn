@@ -239,6 +239,7 @@
 - [Supertweak](https://supertweak.dev) - Tailwind CSS 的可视化开发工具.
 - [Tailscan](https://tailscan.com) - Tailwind CSS v3 的终极开发工具，能够检查 CSS 并将其转换为 Tailwind CSS 类.
 - [Raycast Extension](https://www.raycast.com/vimtor/tailwindcss) - 在 Raycast Launcher 中搜索类、文档和颜色.
+- [DivMagic](https://divmagic.com) - 将任何 Web 元素和样式复制为 Tailwind CSS 组件.
 - [re-tailwind](https://github.com/phthhieu/re-tailwind) - 生成 Tailwind 类的 ReasonML 实用程序.
 - [Protoship Codegen](https://protoship.io) - 代码生成器，可从 Sketch 设计创建基于 Tailwind CSS 的 HTML 和 CSS.
 - [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) - Tailwind CSS 的插件脚手架.
@@ -295,7 +296,7 @@
 - [Material Tailwind](https://material-tailwind.com/) - 易于使用的 Tailwind CSS 和 Material Design 组件库.
 - [Layouts for Tailwind](https://layoutsfortailwind.lalokalabs.dev/) - Tailwind CSS 的布局和 UI 模式.
 - [HyperUI](https://hyperui.dev/) - 开源营销和电子商务 Tailwind CSS 组件.
-- [Snippets](https://snippets.alexandru.so/) - Open source collection of animation snippets made for Tailwind CSS.
+- [Snippets](https://snippets.alexandru.so/) - 为 Tailwind CSS 制作的开源动画片段集合.
 - [Fancy Tailwind](https://fancytailwind.com/) - 大量 Tailwind CSS UI 组件（700 多个）.
 - [Myna UI](https://mynaui.com/) - 使用 Tailwind CSS 制作的开源 UI 组件和营销元素.
 - [Sira UI](https://sira.riccox.com) - 可定制且可访问的设计系统，提供 TailwindCSS 组件类名称库来构建现代 UI.
@@ -412,7 +413,7 @@
 - [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) - 使用 Tailwind CSS 重建 Netlify.
 - [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) - 使用 Tailwind CSS 重建 Resolute.
 - [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - 使用 Tailwind CSS 构建电影制作登陆页面.
-- [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - 使用 Tailwind CSS 构建响应式导航栏.
+- [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 - [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - 使用 Tailwind CSS 运球投篮.
 - [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Tailwind CSS 的完整演练，从安装到部署优化.
 - [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - 使用 Tailwind CSS 构建 Tweet 组件.

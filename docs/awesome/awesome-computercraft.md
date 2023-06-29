@@ -9,7 +9,7 @@
 
  **ComputerCraft** 是 Minecraft 的一个模组，它添加了可以使用 Lua 编程语言进行编程的计算机.  **ComputerCraft：Tweaked** 是较新的 Minecraft 版本的 mod 分支.
 
-如果您想贡献，请参阅 [CONTRIBUTING.md](https://github.com/tomodachi94/awesome-computercraft/blob/master/./CONTRIBUTING.md) . 如果您还有其他问题，请参阅 [FAQ](https://github.com/tomodachi94/awesome-computercraft/wiki/FAQ).
+如果您想贡献，请参阅 [CONTRIBUTING.md](https://github.com/tomodachi94/awesome-computercraft/blob/master/./CONTRIBUTING.md) . 如果您还有其他问题，请参阅 [FAQ](https://github.com/tomodachi94/awesome-computercraft/blob/master/./FAQ.md).
 
 关于缩写的说明：“CC”是 ComputerCraft，“CC:T”是 ComputerCraft: Tweaked，“CC:R”是 ComputerCraft: Restitched.
 
@@ -42,9 +42,10 @@
 - [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) - ComputerCraft 的 Bourne 兼容外壳. 
 - [Consult](https://consult.madefor.cc) - 文本编辑器强调易用性和与许多系统的兼容性. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) - Consult for Recrafted 系统的一个分支.
-- [gist](https://pastebin.com/zSLPYpqs) - 一个 GitHub Gist 下载/上传程序，旨在扩展内置的 `pastebin` 程序，但适用于 Gists. 
+- [GEMU](https://github.com/9551-Dev/GEMU) - 基于 Pixelbox 的 CraftOS-PC 图形模式模拟器.
+- [gist](https://pastebin.com/zSLPYpqs) - 一个 GitHub Gist 下载/上传程序，旨在扩展内置的 `pastebin` 程序，但适用于 Gists.
 - [Howl](https://github.com/SquidDev-CC/Howl) - CC 和 CC:T 的构建系统.
-- [LuaIDE](http://www.computercraft.info/forums2/index.php?/topic/12347-) - 用于在游戏中编辑 Lua 文件的成熟 IDE.
+- [LuaIDE](http://www.computercraft.info/forums2/index.php?/topic/12347-) -  A full-fledged IDE for editing Lua files in-game.
 - [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) - 改进的外壳，包括回滚和改进的完成分辨率.
 - [ModemShark](https://gist.github.com/MCJack123/56ca71555d9c0f78d4c985f1e9ad28e8) - 具有简单用户界面的调制解调器数据包嗅探器.
 - [netshell](https://github.com/lyqyd/cc-netshell) - 从另一台计算机访问计算机的外壳.
@@ -55,6 +56,7 @@
 
 ### Library
 
+- [Acidity](https://github.com/9551-Dev/acidity) - 一个简单 [procedual world generation](https://cdn.discordapp.com/attachments/477911902152949771/1078015614712565770/image.png)面向噪声生成库.
 - [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) - 实施 [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305).
 - Anavrins 的哈希库：
     - [MD5](https://pastebin.com/6PVSRckQ) - 实施 [MD5](https://en.wikipedia.org/wiki/MD5).
@@ -63,7 +65,7 @@
 - [AUKit](https://mcjack123.github.io/AUKit/) - ComputerCraft 的典型音频处理和转换库. 
 - [Basalt](https://basalt.madefor.cc/) - 强调用户体验的GUI库.
 - [Bigfont](https://pastebin.com/3LfWxRWh) - 一个库，可以轻松地以不同的字体大小编写内容.
-- [C3D](https://c3d.madefor.cc/) -  An advanced 3D rendering API.
+- [C3D](https://c3d.madefor.cc/) - 先进的 3D 渲染 API.
 - [CC-Archive](https://github.com/MCJack123/CC-Archive) - 用于归档和取消归档文件的各种库.
 - [dbprotect](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363) - “调试”API 上的保护包装器，允许限制对受保护函数中的上值的访问.
 - [ecc.lua](https://www.computercraft.info/forums2/index.php?/topic/29803-) - 实施 [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography).
@@ -73,8 +75,11 @@
 - [Luz](https://github.com/MCJack123/Luz) - Lua 文件的极轻压缩算法.
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system) ) - 制作和库存管理系统. 请注意，这取决于 OpusOS 和 Plethora.
 - [Pine3D](https://github.com/Xella37/Pine3D) - 专为快速而设计的 3D 渲染引擎.
+- [PngLua](https://github.com/9551-Dev/pngLua) - 专为 ComputerCraft 设计的 PNG 解析库.
+- [Pixelbox Lite](https://github.com/9551-Dev/apis/blob/main/pixelbox_lite.lua) - 速度快得惊人 [drawing character](https://cdn.discordapp.com/attachments/876936991256743947/1123213991813058751/image.png) 处理库.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) - 退出程序后在 CraftOS 后台运行进程的小型库，类似于 DOS TSR.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) - 允许轻松创建设置菜单的库.
+- [Tampl](https://github.com/9551-Dev/tampl) - Lua 标记化和解析库，专为动态代码生成和将代码注入现有程序而设计.
 - [VeriCode](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750) - 提供简单的代码签名功能，以便通过调制解调器安全地传输代码.
 
 ### Fun
