@@ -67,7 +67,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - 用于批量转换的 Windows GUI.
 - ：然后： [Pngyu](http://nukesaq88.github.io/Pngyu/) - 简单的PNG图像文件压缩工具.
 - ：然后： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)  — Mac 和 Windows. 与“保存为网页”的比较
-- :money_with_wings: [TinyPNG](https://tinypng.com/) - 对 PNG 图像进行高级有损压缩，保留完整的 alpha 透明度.
+- :money_with_wings: [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 
 #### Texture Tools
 
@@ -98,7 +98,7 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 用于自动装配和 3D 人形模型动画的工具，
 - ：然后： [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - 强大的基于节点的像素艺术视觉特效编辑器
 - ：钱袋子： [Spine](http://esotericsoftware.com/) - Spine 致力于 2D 动画，为创建令人惊叹的动画并将其集成到游戏中提供了高效的工作流程.
-- ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 用于精灵动画的现代工具.
+- ：钱袋子： [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - 精灵动画的现代工具.
 
 #### Vector/Image Editor
 
@@ -126,20 +126,25 @@ _出色的图形占位符和工具，可将方形游戏变成毕加索画作_
 - ：自由的： [Timanthes](http://csdb.dk/release/?id=75871) - 适用于 Windows 上运行的 Commodore 64 计算机的像素艺术编辑器
 - ：自由的： [Charas](http://charas-project.net/index.php) - Charas 是 RPG Maker 的字符集生成器.
 - ：自由的： [Spritemate](http://www.spritemate.com) - Commodore 64 Sprites 在线编辑器
-- ：然后： [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
+- ：然后： [SVGcode](https://svgco.de/) - SVGcode 是一款渐进式 Web 应用程序，可让您将 JPG、PNG、GIF、WebP、AVIF 等光栅图像转换为 SVG 格式的矢量图形.
 - :money_with_wings: [Vector mMgic](https://vectormagic.com/) - 免费光栅到矢量图形转换器
 - ：然后： [VTracer](https://www.visioncortex.org/vtracer/) - 建立在视觉皮层之上的光栅到矢量图形转换器
 
 #### Modeling
 
-- ：然后： [Blender](http://www.blender.org/)
-- ：自由的： [MakeHuman](http://www.makehumancommunity.org/)
-- ：自由的： [sculptris](http://pixologic.com/sculptris/)
-- ：钱袋子： [Maya](http://www.autodesk.com/products/maya/overview)
 - ：钱袋子： [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
-- ：钱袋子： [modo](https://www.foundry.com/products/modo)
+- :money_with_wings: [Besel](https://www.bezel.it/hq) - 在 VR 耳机或移动 AR 中制作 3D 实时协作设计和原型.
+- ：然后： [Blender](http://www.blender.org/) - 世界上免费软件和开源 3D 格栅
 - ：自由的： [Clara.io](https://clara.io/)
+- :money_with_wings: [Daz 3D](https://www.daz3d.com/) - 3D 软件可让您在几秒钟内轻松创建自定义场景和角色.
+- ：自由的： [MakeHuman](http://www.makehumancommunity.org/)
+- ：钱袋子： [Maya](http://www.autodesk.com/products/maya/overview)
+- ：钱袋子： [modo](https://www.foundry.com/products/modo)
+- ：自由的： [sculptris](https://sculptris.br.uptodown.com/windows) - Pixologic 的版本和原始版本 [1.01](https://www.moddb.com/downloads/sculptris)
+- :money_with_wings: [Spline](https://spline.design/) - 3D实时协作
+- ：自由的： [Womp](https://womp.com/) - 3D 直观且易于使用，可直接在浏览器中创建
 - ：钱袋子： [ZBrush](https://pixologic.com/)
+- ：自由的： [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - MAXON 的新版本 sculpris
 
 #### Terrain Generators
 
@@ -190,7 +195,7 @@ _游戏框架、引擎和平台集_
 - ：钱袋子： [Construct](https://www.scirra.com/)  - HTML5 游戏制作者，这意味着您实际上并不是在编写 JavaScript. 相反，您可以使用操作、事件和条件来完成繁重的工作.
 - :money_with_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube 是一款一体化 3D 游戏引擎.非常易于使用.
 - ：然后： [Coquette](http://coquette.maryrosecook.com/)  - JavaScript 游戏的微型框架. 处理碰撞检测、游戏更新循环、画布渲染以及键盘和鼠标输入.
-- ：然后： [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
+- ：然后： [ct.js](https://ctjs.rocks/) — 这个 2D 游戏引擎通过其可视化工具、优秀的文档和灵活的模块化库，使学习编程变得有趣，并使游戏开发变得容易.
 - ：然后： [Dash](https://github.com/Circular-Studios/Dash) - 用 D 语言编写的免费开放的 3D 游戏引擎.
 - ：然后： [Dear Imgui](https://github.com/ocornut/imgui/) - 用于 C++ 的无膨胀即时模式 GUI，具有最小的依赖性.
 - ：然后： [Defold](http://www.defold.com/) - 用于跨平台发布的免费 2D 游戏引擎
@@ -218,7 +223,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Godot](http://www.godotengine.org/) - 先进、功能齐全的多平台 2D 和 3D 开源游戏引擎.
 - ：然后： [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 - ：然后： [Grid](https://github.com/Planimeter/game-engine-2d) - Lua 的多人优先游戏引擎.
-- ：然后： [HaxeFlixel](http://haxeflixel.com/) - 更轻松、免费地创建跨平台游戏.
+- ：然后： [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 - ：然后： [Heaps](https://heaps.io/) - 高性能游戏的跨平台图形.
 - ：然后： [Horde3D](http://www.horde3d.org/) - 小型开源 3D 渲染引擎.
 - ：然后： [iio.js](https://github.com/iioinc/iio.js) - 一个 JavaScript 库，可加速 HTML5 Canvas 应用程序的创建和部署
@@ -293,7 +298,7 @@ _游戏框架、引擎和平台集_
 - ：然后： [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - ：然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 协作 2D/3D 游戏制作器
 - ：然后： [TIC-80](https://tic.computer/) - TIC-80 是一款用于制作、玩和分享小游戏的梦幻计算机.
-- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一种小型、完全公共领域的定点，物理上不准确的纯 C 标头 3D 物理引擎，专为在微型计算机（例如嵌入式计算机甚至裸机计算机）上运行而构建.
+- ：然后： [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE 是一种小型、完全公共领域的定点，物理上不精确的纯 C 标头 3D 物理引擎，专为在微型计算机（例如嵌入式计算机甚至裸机计算机）上运行而构建.
 - ：然后： [Three.js](http://threejs.org/) - JavaScript 3D 库.
 - ：然后： [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz 提供了构建、发布、迭代和货币化高质量游戏的能力，这些游戏的反应与众不同，具有身临其境的 3D 效果和实时物理效果，开辟了一个前所未有的非凡网络内容的全新世界.
 - ：然后： [Twine](http://twinery.org/)  - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine 不仅支持文本，还支持音乐、图像和声音效果. 基本文本冒险游戏所需的编码知识很少.

@@ -37,7 +37,7 @@
 
 * [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***和***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5) ]. 关于应用结构、过程和元语言抽象来解决计算问题的经典课程.
 
-* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) . 离散数学基础经典课程.
+* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) . 离散数学基础经典课程，包括数学逻辑、集合论、图论、形式语言、基础数论等相关主题.
 
 
 
@@ -49,7 +49,7 @@
 
 ### Paper Writing
 
-* [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty)  - ***乳胶***. 配置文件的 LaTex 模板，具有优雅的参考样式（灰色参考、页面向后参考）.
+* [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
 
 * [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/BibTex/references_header.bib)  - ***BibTex***.  BibTex 模板，用于包含人工智能、数学和认知科学领域的期刊和会议的缩写.
 
@@ -177,7 +177,7 @@
 
 * [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
 * [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***实验心理学杂志***，2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201) ]. 绑架的主观概率解释.
 
@@ -360,7 +360,7 @@
 
 * [Parameter Expansion for Data Augmentation](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf) - ***美国统计协会杂志***，1999 年. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=15342818142955984734)].
 
-* [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE 模式分析和机器智能汇刊***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491&hl=en&as_sdt=0,5) ]. 通过生成建模进行图像分割的经典方法.
+* [Image segmentation by data-driven markov chain monte carlo](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf) - ***IEEE 模式分析和机器智能汇刊***，2002 年. [[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491&hl=en&as_sdt=0,5)]. Classic method for image segmentation via generative modeling.
 
 * [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760&hl=en&as_sdt=0,5)].
 
@@ -847,7 +847,7 @@
 
 #### Explainable Deep Learning
 
-* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+* [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - 2021. 在 Pytorch 中实现的类激活映射方法，具有许多优雅的功能.
 
 * [Network dissection: Quantifying interpretability of deep visual representations](https://ieeexplore.ieee.org/document/8099837) - ***CVPR'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=18069685615852396783&hl=en&as_sdt=0,5)]. [[Project](http://netdissect.csail.mit.edu/)]. [[Dataset: Places365](http://places2.csail.mit.edu/index.html) ]. 关于可视化类激活图以解释卷积神经网络的原始论文.
 
@@ -975,7 +975,7 @@
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***心理学评论***，1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5) ]. 赫伯特·西蒙关于计算机辅助行为研究的早期实验.
 
-* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
+* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***知识和认知***，1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
 
 
 
@@ -1102,7 +1102,7 @@
 
 #### Cognitive Architecture
 
-* [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5) ]. 将大脑作为生成模型的神经科学解释.
+* [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***认知科学趋势***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
 
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***人工智能***，1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
 
@@ -1829,7 +1829,7 @@
   * [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_41) - ***ECCV'20***, 2020.
   * [Rolling-Unrolling LSTMs for Action Anticipation from First-Person Video](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9088213)  - ***翻译. 其中***，2020 年.
   * [View-Action Representation Learning for Active First-Person Vision](https://ieeexplore.ieee.org/document/9064828)  - ***翻译.  CSVT***，2021 年.
-  * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727) - ***IROS'04***, 2004. [[Project](http://gazebosim.org/)].
+  * [Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator](https://ieeexplore.ieee.org/abstract/document/1389727) - ***IROS&#39;04***，2004 年. [[Project](http://gazebosim.org/)].
   * [ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://arxiv.org/pdf/1605.02097v2.pdf) - ***CIG&#39;16***，2016 年. [[Project](http://vizdoom.cs.put.edu.pl/)].
   * [Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset](https://arxiv.org/abs/2011.12263), 2020.  
   * **视觉体验数据库** [[Project](http://visualexperiencedatabase.org/research.html)]. [[Publications](http://visualexperiencedatabase.org/publications.html)].
