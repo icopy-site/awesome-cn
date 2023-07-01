@@ -17,7 +17,7 @@
 - [Friday Front-end](https://zendev.com/friday-frontend.html) . 每周五 15 篇精彩的前端文章、教程和公告.  CSS/SCSS、JavaScript 和其他精彩内容的部分. [Archive](https://zendev.com/category/friday-frontend.html).
 - [Unreadit/Frontend](https://unread.it/n/frontend/) . 最佳前端开发新闻来自最佳 Reddit 子版块.
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads) . 与用户界面开发相关的文章、教程、意见和工具的手工列表.
-- [Frontend Snacks](https://frontendsnacks.dev/) . 获取每周零食 - 直观地教授复杂主题的代码片段、最新的前端八卦/新闻以及免费的职业开发工具包，在您的收件箱中新鲜发送.
+- [Frontend Snacks](https://frontendsnacks.dev/) . 获取每周零食 - 直观地教授复杂主题的代码片段、最新的前端八卦/新闻和免费的职业开发工具包，在您的收件箱中新鲜发送.
 
 ### General Web Development
 
@@ -324,7 +324,7 @@
 
 - [kubelist](https://kubelist.com) . 您策划的每周 Kubernetes 信息协调循环.
 - [KubeWeekly](https://kube.news) . 以时事通讯的形式提供有关 Kubernetes 的有趣每周新闻.
-- [LWKD](http://lwkd.info) .  LWKD 是一份每周通讯，总结 Kubernetes 项目中的代码活动：合并、PR、弃用、版本更新、发布时间表和每周社区会议.
+- [LWKD](http://lwkd.info) .  LWKD 是一份每周简讯，总结 Kubernetes 项目中的代码活动：合并、PR、弃用、版本更新、发布时间表和每周社区会议.
 - [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter) . 关于 Kubernetes 策划的聚会、会议、培训和网络研讨会的每周通讯.
 
 ## Mobile
@@ -386,6 +386,7 @@
 - [Startup Curated](https://startup.curated.co) . 创业社区的时事通讯，包含来自创始人和为创始人提供的最佳内容. [Archive](https://startup.curated.co/issues).
 - [Unvalidated Ideas](https://unvalidatedideas.com) . 您每周都可以拿出新的创业和 SaaS 创意并进行市场验证.
 - [Generated.Company](https://generated.company) . 通过人工智能驱动的公司创意释放您的创业潜力. 每周 10 个公司创意.
+- [Indie Hackers Newsletter](https://www.indiehackers.com/newsletter) . 对于创始人而不是消费者来说这是最好的消息.
 
 ## Awesome news
 
@@ -414,7 +415,7 @@
 - [this week in security](https://twitter.us18.list-manage.com/subscribe?u=e1ad6038c994abec17dafb116&id=a2457dc8ad) . 每周 tl;dr 网络安全时事通讯，包括新闻、快乐角落、每周网络猫等. 每个星期日都会发送.
 - [tl;dr sec](https://tldrsec.com/) . 每周精选最佳安全工具、博客文章和会议演讲，涵盖应用安全、云和容器安全、DevSecOps 等.
 - [Advisory Week](https://advisoryweek.com/) . 每周发送一封电子邮件，其中包含主要软件供应商发布的安全建议摘要.
-- [Shift Security Left](https://shift-security-left.curated.co/) . 为具有安全意识的开发人员提供的免费双周通讯，涵盖应用程序安全、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）破坏者有用. 与 @cossacklabs 的虚构吉祥物兼安全工程师 Felix 一起更深入地了解安全漏洞的原因、设计防御、发明和实施安全控制.
+- [Shift Security Left](https://shift-security-left.curated.co/) . 面向具有安全意识的开发人员的免费双周通讯，涵盖应用程序安全、安全架构、DevSecOps、密码学、事件等，对构建者和（在较小程度上）破坏者有用. 与 @cossacklabs 的虚构吉祥物兼安全工程师 Felix 一起更深入地了解安全漏洞的原因、设计防御、发明和实施安全控制.
 - [RTC Security Newsletter](https://www.rtcsec.com/newsletter/) .  Enable Security 提供的每月通讯，提供实时通信安全新闻、研究和不定期更新.
 
 ## Entrepreneurship

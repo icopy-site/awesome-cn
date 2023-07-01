@@ -80,13 +80,13 @@ Fiber 社区创建的中间件列表.
 - [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - Go Fiber 的 APM 代理.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - 用于 Fiber 的 LDAP 身份验证中间件.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC 标准，可作为中间件替代 Varnish.
-- [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+- [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制工作量证明挑战的反 DDoS/Bot 中间件.
 - [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 提供光纤 OPA 中间件集成.
 - [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - 一个中间件，用于根据 W3C 服务器计时规范添加服务器计时标头.
 - [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - 报告性能数据（路线统计数据）的 Airbrake 中间件.
 - [samber/slog-fiber](https://github.com/samber/slog-fiber) - 使用 Go slog 库的记录器中间件.
 - [mikhail-bigun/fiberlogrus](https://github.com/mikhail-bigun/fiberlogrus) - 使用 logrus 及其结构化日志记录功能的记录器中间件.
-- [Idan-Fishman/validation](https://github.com/Idan-Fishman/validation) - 数据验证中间件，用于验证请求正文、查询字符串参数和路由参数等源.
+- [Idan-Fishman/fiber-bind](https://github.com/Idan-Fishman/fiber-bind) - 请求模式验证器中间件，用于验证请求正文、查询字符串参数、路由参数甚至表单文件等源.
 
 ## 🚧 Boilerplates
 Fiber 的预制样板.
@@ -114,6 +114,7 @@ Fiber 的预制样板.
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn 是一个固执己见的 Web 框架，提供基于 Fiber 的快速开发功能.
 - [tompston/gomakeme](https://github.com/tompston/gomakeme) - 为 Fiber 或 Gin REST API 生成样板 + 端点.
 - [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve 是一个轻量级应用程序或 docker 镜像，用于服务前端和负载均衡器应用程序.
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - 根据 OpenAPI 3 规范生成 Go 客户端和服务器样板.
 
 ## 📖 Articles
 社区撰写的有关 Fiber 的文章.

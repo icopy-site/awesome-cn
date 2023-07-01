@@ -37,7 +37,7 @@
 
 * [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***和***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5) ]. 关于应用结构、过程和元语言抽象来解决计算问题的经典课程.
 
-* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) . 离散数学基础经典课程，包括数学逻辑、集合论、图论、形式语言、基础数论等相关主题.
+* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf) . 基础离散数学的经典课程，包括数学逻辑、集合论、图论、形式语言（和自动机）、基础数论（例如计数）和其他相关主题.
 
 
 
@@ -177,7 +177,7 @@
 
 * [The Role of Explanatory Considerations in Updating](https://www.sciencedirect.com/science/article/pii/S0010027715000955) - ***认知***，2015. [[All Versions](https://scholar.google.com/scholar?cluster=3089358487428261042&hl=en&as_sdt=0,5)].
 
-* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***Journal of Cognitive Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
+* [Explanation, updating, and accuracy](https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1230122) - ***认知心理学杂志***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=967127146748155733&hl=en&as_sdt=0,5)]. 
 
 * [Best, second-best, and good-enough explanations: How they matter to reasoning](https://psycnet.apa.org/record/2018-03972-001) - ***实验心理学杂志***，2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=3067550385175104201) ]. 绑架的主观概率解释.
 
@@ -454,7 +454,7 @@
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022.通过福多的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会汇刊***，2022.通过福多的概念理论测试神经网络的概念表示.
 
 
 
@@ -975,7 +975,7 @@
 
 * [Elimination by aspects: A theory of choice](https://psycnet.apa.org/record/1973-00249-001) - ***心理学评论***，1972. [[All Versions](https://scholar.google.com/scholar?cluster=1633792484482810297&hl=en&as_sdt=0,5) ]. 赫伯特·西蒙关于计算机辅助行为研究的早期实验.
 
-* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***知识和认知***，1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
+* [Problem Solving and Rule Induction: A Unified View](https://stacks.stanford.edu/file/druid:qv796fc9687/qv796fc9687.pdf) - ***Knowledge and cognition***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=12943734683291006234&hl=en&as_sdt=0,5)].
 
 
 
@@ -1145,7 +1145,7 @@
 
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) -***人工智能元***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5) ]. 在大规模科学语料库上训练的大型语言模型.
 
-* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) -***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
+* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 * [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL&#39;21 演示曲目***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5) ]. 文献检索中查询关键词知识图谱的构建和可视化工具.
 
@@ -1199,7 +1199,7 @@
 
 * [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872&hl=en&as_sdt=0,5) ]. 预测股市走势、分析财经文件、生成经济新闻文章摘要，帮助传播财经知识.
 
-* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获得.
+* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获取.
 
 * [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082&hl=en&as_sdt=0,5) ]. 完成代码、生成编程文档、提供技术支持，让非专家更容易掌握编程知识.
 
@@ -1555,7 +1555,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 叠加在另一组 B 上，以防万一没有两个事物可以在 A 属性方面有所不同，而在 B 属性方面也不会有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可以追溯到古希腊辩证法的研究传统，当时通过对话来解决问题，其中反对方通过问题和答案讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可追溯到古希腊辩证法，当时通过对话来解决问题，其中对立双方通过问题和答案讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1577,7 +1577,7 @@
 
 * [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***人工智能***，1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9033452473914228535)].
 
-* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***综合***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
+* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***综合***，2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***知识获取***，1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
 
@@ -2040,7 +2040,7 @@
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***基础书籍***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
-* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) -***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
+* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
 
 

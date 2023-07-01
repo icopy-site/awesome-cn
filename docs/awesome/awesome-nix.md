@@ -23,6 +23,7 @@
 * [nix.dev](https://nix.dev/) - 为开发人员提供的关于使用 Nix 生态系统完成工作的固执己见的指南.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) - 一本针对初学者的非官方且固执己见的 NixOS &amp; Flakes 书籍.
 * [Tour of Nix](https://nixcloud.io/tour) - 有关 Nix 语言结构的在线交互式教程.
+* [Wombat's Book of Nix](https://mhwombat.codeberg.page/nix-book/) - 对 Nix 和 flake 的全书介绍.
 * [Zero to Nix](https://zero-to-nix.com/) - 由确定系统创建的以薄片为中心的 Nix 及其概念指南，可帮助初学者快速入门.
 
 ### Discovery

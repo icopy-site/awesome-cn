@@ -166,7 +166,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) - Visual Studio 2017 的 Ada 语言集成.
 
 ### Editors
-- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似脚本世界的“外观和感觉”，同时允许访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
+- [lea](https://github.com/zertovitch/lea)  - LEA 是 Ada 的轻量级编辑器，旨在为开发任何规模和级别的 Ada 项目提供简单的、类似于脚本世界的“外观和感觉”，同时允许访问 GNAT 等全面的开发工具.  LEA 包括 HAC，即 HAC Ada 编译器.
 
 ### Text Modes
 - [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源代码的 Gnu Emacs 主模式.
@@ -300,7 +300,7 @@
 ### Unit Test, Testing
 - [ahven](http://ahven.stronglytyped.org/) - Ahven 是一个简单的单元测试库和 Ada 编程框架.
 语言. 它是在 JUnit 和 AUnit 的一些想法之后松散建模的.
-- [aunit](https://libre.adacore.com/tools/aunit/) - Ada 单元测试框架.
+- [aunit](https://github.com/AdaCore/aunit) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.
 

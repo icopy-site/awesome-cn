@@ -8,8 +8,9 @@
 
 ## Build tools, setup and CI
 * [Gradle](https://www.gradle.org/) - 强大的 JVM 构建系统
-* [GMavenPlus](https://github.com/groovy/GMavenPlus) - A rewrite of GMaven, a Maven plugin for Groovy
+* [GMavenPlus](https://github.com/groovy/GMavenPlus) - 重写 GMaven，Groovy 的 Maven 插件
 * [SDKMAN](https://sdkman.io) - 软件开发套件管理器（以前称为 GVM）
+* [skeletal](https://github.com/cbmarcum/skeletal) - 一个使用打包模板的简单项目创建工具（Lazybones 的后继者）
 * [Lazybones](https://github.com/pledbrook/lazybones) - 一个简单的项目创建工具，使用打包的项目模板.
 * [Jenkins job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - Jenkins Jobs 的 Groovy DSL
 * [travis-groovy](https://github.com/kdabir/travis-groovy) - 在 travis-ci 上执行 groovy 脚本
@@ -127,7 +128,7 @@
 * [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) - Groovy 是 32 种语言中的 3 种之一，已完成 100% 的 PLEAC 示例.
 
 ## Staying up to date
-* [Groovy Calamari](http://groovycalamari.com/) - 关于 Groovy 生态系统的每周精选出版物
+* [Groovy Calamari](http://groovycalamari.com/) - Weekly curated publication about the Groovy Ecosystem
 * [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) - Groovy 每周通讯
 * [Grails Diary](https://grydeske.dk/news/index) - 对 Grails 开发人员特别有用
 * [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) - Ken Kousen 和 Baruch Sadogursky 讨论来自 Groovy 生态系统的新闻和见解.
