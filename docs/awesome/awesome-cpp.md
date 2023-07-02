@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="fffaraz/awesome-cpp"></div>
 ## Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
-A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+精彩的 C++（或 C）框架、库、资源和闪亮事物的精选列表. 灵感来自于很棒的东西.
 
 
 ## Standard Libraries
@@ -137,7 +137,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Reaktoro](https://github.com/reaktoro/reaktoro)  - 用于化学反应系统建模的 C++ 和 Python 计算框架.  [LGPL] [website](https://reaktoro.org)
 * [LAMMPS](https://github.com/lammps/lammps)  - 经典的分子动力学代码，重点关注材料建模. 它是大规模原子/分子大规模并行模拟器的缩写.  [通用公共许可证] [website](https://lammps.sandia.gov/)
 * [MADNESS](https://github.com/m-a-d-n-e-s-s/madness)  - 用于科学模拟的多分辨率自适应数值环境.  [通用公共许可证] [website](https://github.com/m-a-d-n-e-s-s/madness)
-* [MPQC](https://github.com/ValeevGroup/mpqc)  - 大规模并行量子化学程序 MPQC 使用与时间无关的薛定谔方程根据第一原理计算原子和分子的属性.  [通用公共许可证] [website](https://mpqc.org/)
+* [MPQC](https://github.com/ValeevGroup/mpqc)  - 大规模并行量子化学程序 MPQC 使用与时间无关的薛定谔方程从第一原理计算原子和分子的属性.  [通用公共许可证] [website](https://mpqc.org/)
 * [ORCA](https://en.wikipedia.org/wiki/ORCA_(quantum_chemistry_program) ) - 一个从头算的量子化学程序包，包含现代电子结构方法.  [学术的] [website](https://orcaforum.kofo.mpg.de/)
 * [Psi](https://github.com/psi4/psi4)  - 从头计算化学包.  [通用公共许可证] [website](https://psicode.org/)
 
@@ -233,7 +233,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Quantum](https://github.com/bloomberg/quantum) - 一个强大的 C++ 协程调度程序框架，构建于 [Boost.Coroutine2](https://boost.org/libs/coroutine2).
 * [RaftLib](http://raftlib.io/)  - RaftLib C++ 库，通过类似 C++ iostream 的运算符实现流/数据流并发.  [阿帕奇2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)  - 用于 C++ 的快速单生产者、单消费者无锁队列.  [BSD]
-* [stdgpu](https://github.com/stotko/stdgpu)  - GPU 上高效的类似 STL 的数据结构.  [阿帕奇2]
+* [stdgpu](https://github.com/stotko/stdgpu) - Efficient STL-like Data Structures on the GPU. [Apache2]
 * [Thrust](http://thrust.github.io/)  - 类似于 C++ 标准模板库 (STL) 的并行算法库.  [阿帕奇2]
 * [transwarp](https://github.com/bloomen/transwarp)  - 用于任务并发的纯标头 C++ 库.  [麻省理工学院]
 * [VexCL](https://github.com/ddemidov/vexcl)  - OpenCL/CUDA 的 C++ 向量表达模板库.  [麻省理工学院]
@@ -245,7 +245,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [inifile-cpp](https://github.com/Rookfighter/inifile-cpp)  - 用于 C++ 的仅标头且易于使用的 Ini 文件解析器.  [麻省理工学院]
 * [inih](https://github.com/benhoyt/inih)  - C 语言的简单 .INI 文件解析器，适用于嵌入式系统.  [BSD-3 条款]
-* [inih](https://github.com/jtilly/inih) - Single header only C++ version of [inih](https://github.com/benhoyt/inih) .  [BSD-3 条款]
+* [inih](https://github.com/jtilly/inih) - 仅单头文件的 C++ 版本 [inih](https://github.com/benhoyt/inih) .  [BSD-3 条款]
 * [ini-cpp](https://github.com/SSARCandy/ini-cpp) - 仅单头 C++ 版本，带有一些方便的读/写接口，扩展自 [inih](https://github.com/benhoyt/inih) .  [BSD-3 条款] [website](https://ssarcandy.tw/ini-cpp/index.html)
 * [iniparser](https://github.com/ndevilla/iniparser)  - INI 文件解析器.  [麻省理工学院]*
 * [inipp](https://github.com/mcmtroffaes/inipp)  - 简单的仅标头 C++ ini 解析器和生成器.  [麻省理工学院]
@@ -258,7 +258,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree)  - 一个模板库，它实现基于 B 树数据结构的有序内存容器.  [阿帕奇2]
 * [Colony](https://github.com/mattreecebentley/plf_colony)  - 无序的“包”型容器，在高修改场景中优于标准容器，同时无论插入/擦除如何都保持指向非擦除元素的永久指针.  [z库] [website](http://www.plflib.org/colony.htm)
-* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - 仅包含 C++17 标头的动态位集.  [麻省理工学院]
+* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  - C++17 仅标头动态位集.  [麻省理工学院]
 * [Hashmaps](https://github.com/goossaert/hashmap)  - 用 C++ 实现开放寻址哈希表算法.  [麻省理工学院]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)  - 快速的仅标头哈希映射，使用跳房子哈希来解决冲突.  [麻省理工学院]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)  - 局部敏感哈希（LSH）的C++工具箱，提供了几种流行的LSH算法，还支持Python和MATLAB.  [通用公共许可证]
@@ -290,7 +290,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenSSL](https://github.com/openssl/openssl)  - 一个强大的、商业级的、功能齐全的开源加密库.  [阿帕奇] [website](http://www.openssl.org/)
 * [retter](https://github.com/MaciejCzyzewski/retter) - 与密码学相关的哈希函数、密码、工具、库和材料的集合.
 * [s2n](https://github.com/awslabs/s2n)  - TLS/SSL 协议的实现.  [阿帕奇]
-* [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  - 用于检测文件中 SHA-1 冲突的库和命令行工具.  [麻省理工学院]
+* [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection) - Library and command line tool to detect SHA-1 collision in a file. [MIT]
 * [Tink](https://github.com/google/tink)  - 多语言、跨平台库，提供安全、易于正确使用且难以误用的加密 API.  [阿帕奇-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - C 语言中的小型便携式 AES128/192/256. [公共领域]
 * [Themis](https://github.com/cossacklabs/themis)  - 用于轻松数据安全的加密库，为移动和服务器平台提供对称和非对称加密、具有前向保密性的安全套接字.  [阿帕奇2]
@@ -303,7 +303,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Csv::Parser](https://github.com/ashaduri/csv-parser)  - 用 C++17 编写的编译时和运行时 CSV 解析器.  [Zlib]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)  - 小型、易于使用且快速的仅标头库，用于读取 CSV 文件.  [BSD-3 条款]
 * [lazycsv](https://github.com/ashtum/lazycsv)  - 适用于现代 C++ 的快速、轻量级单标头 csv 解析器.  [麻省理工学院]
-* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)  - 快速、独立、流式 C++17 CSV 解析器，具有可选的类型转换和统计信息.  [麻省理工学院]
 
 ## Database
 *数据库库、SQL Server、ODBC 驱动程序和工具*
@@ -312,7 +312,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [hiberlite](https://github.com/paulftw/hiberlite)  - sqlite3 的 C++ 对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)  - Redis 数据库的简约 C 客户端库.  [BSD]
 * [Kvrocks](https://github.com/apache/incubator-kvrocks)  - 采用RocksDB作为存储引擎、兼容Redis协议的分布式键值NoSQL数据库.  [阿帕奇2]
-* [LevelDB](https://github.com/google/leveldb)  - Google 编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
+* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
 * [libpqxx](https://github.com/jtv/libpqxx)  - PostgreSQL 的官方 C++ 客户端 API.  [BSD-3 条款]
 * [LMDB](https://www.symas.com/lmdb)  - 非常快速的嵌入式键/值存储，具有完整的 ACID 语义.  [OpenLDAP]
 * [LMDB++](https://github.com/bendiken/lmdbxx)  - LMDB 嵌入式数据库库的 C++11 包装器.  [公共区域]
@@ -362,9 +362,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FakeIt](https://github.com/eranpeer/FakeIt)  - C++ 的简单模拟框架.  [麻省理工学院]
 * [fff](https://github.com/meekrosoft/fff)  - 用于创建假 C 函数的微框架.  [麻省理工学院]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)  - 用于编写和使用 C++ 模拟类的库.  [BSD]
-* [Google Test](https://github.com/google/googletest)  - Google C++ 测试框架.  [BSD]
+* [Google Test](https://github.com/google/googletest)  - 谷歌 C++ 测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)  - 多平台调试堆对于跟踪内存错误很有用.  [BSD]
-* [libtap](https://github.com/zorgnax/libtap) - 用 C 语言编写测试. [GPL2]
+* [libtap](https://github.com/zorgnax/libtap) - Write tests in C. [GPL2]
 * [microprofile](https://github.com/jonasmr/microprofile)  - 具有适用于多个平台的网络视图的分析器.  [无执照]
 * [MinUnit](https://github.com/siu/minunit)  - 一个最小的 C 单元测试框架，独立于单个头文件中.  [麻省理工学院]
 * [Mockator](http://www.mockator.com) - 用于 C++ Seams 和 Mock 对象的 Eclipse CDT 插件.
@@ -392,7 +392,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Font
 *用于解析和操作字体文件的库.*
 
-* [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和定制库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
+* [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)  - 字体配置和自定义库.  [麻省理工学院] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 * [FreeType](https://www.freetype.org/)  - FreeType 是一个免费提供的软件库，用于渲染字体.  [FTL 和 GPLv2]
 * [otfcc](https://github.com/caryll/otfcc)  - 用于解析和写入 OpenType 字体文件的 AC 库和实用程序.  [阿帕奇-2.0]
 * [harfbuzz](https://github.com/harfbuzz/harfbuzz)  - 文本塑造引擎.  [老麻省理工学院]
@@ -445,7 +445,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  - 单头 ANSI C gui 库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)  - Qt 绘图小部件无需进一步依赖.  [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/)  - 用于技术应用的 Qt 小部件.  [基于 LGPL 拥有]
-* [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]
+* [QwtPlot3D](http://qwtplot3d.sourceforge.net/)  - 功能丰富的基于 Qt/OpenGL 的 C++ 编程库，本质上提供了一堆 3D 小部件.  [zlib]
 * [RmlUi](https://github.com/mikke89/RmlUi)  - HTML/CSS 用户界面库不断发展.  libRocket 的分叉.  [麻省理工学院]
 * [Sciter](http://sciter.com/)  - Sciter 是一个嵌入式 HTML/CSS/脚本引擎，旨在用作现代桌面应用程序的 UI 层.  [免费/商业]
 * [Slint](https://github.com/slint-ui/slint)  - 适用于桌面和嵌入式的轻量级 GUI 工具包.  [GPL/免费/商业] [website](https://slint-ui.com)
@@ -538,6 +538,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [nng](https://github.com/nanomsg/nng)  - nanomsg-next- Generation，一个轻量级无代理消息传递库.  [麻省理工学院] [website](https://nanomsg.github.io/nng/)
 * [rpclib](https://github.com/rpclib/rpclib)  - 现代 C++ msgpack-RPC 服务器和客户端库.  [麻省理工学院]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)  - C/C++ 函数的简单 RPC 包装生成器.  [BSD]
+* [SRPC](https://github.com/sogou/srpc)  - 一个轻量级的RPC系统，支持多种协议和OpenTelemetry.  [阿帕奇2]
 * [WAMP](http://wamp.ws/)  - 提供 RPC 和发布/订阅消息传递模式.  （各种实现，各种语言）
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/)  - 基于 XML 和 HTTP 的轻量级 RPC 库.  [BSD]
 
@@ -548,7 +549,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [frozen](https://github.com/cesanta/frozen)  - C/C++ 的 JSON 解析器和生成器.  [GPL 和 GPL2]
 * [Glaze](https://github.com/stephenberry/glaze)  - 速度极快，在内存、JSON 和现代 C++ 接口库中.  [麻省理工学院]
 * [Jansson](https://github.com/akheron/jansson)  - 用于编码、解码和操作 JSON 数据的 C 库.  [麻省理工学院]
-* [jbson](https://github.com/chrismanning/jbson)  - jbson 是一个用于在 C++14 中构建和迭代 BSON 数据以及 JSON 文档的库.  [促进]
+* [jbson](https://github.com/chrismanning/jbson)  - jbson 是一个用于在 C++14 中构建和迭代 BSON 数据和 JSON 文档的库.  [促进]
 * [JeayeSON](https://github.com/jeaye/jeayeson)  - 一个非常健全的（仅标头）C++ JSON 库.  [BSD]
 * [Jsmn](https://github.com/zserge/jsmn) - C 语言的简约 JSON 解析器. [MIT]
 * [json](https://github.com/nlohmann/json)  :zap: - 现代 C++ 的 JSON.  [麻省理工学院] [website](https://json.nlohmann.me)
@@ -618,7 +619,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [RNNLIB](https://github.com/szcom/rnnlib)  - RNNLIB 是一个用于序列学习问题的循环神经网络库.  [GPLv3]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)  - 幕府将军机器学习工具箱.  [GPLv3]
 * [sofia-ml](https://code.google.com/p/sofia-ml/)  - 用于机器学习的快速增量算法套件.  [阿帕奇2]
-* [VLFeat](https://github.com/vlfeat/vlfeat)  - VLFeat 开源库实现了流行的计算机视觉算法，专门从事图像理解和局部特征提取和匹配.  [BSD-2 条款] [website](http://www.vlfeat.org/)
+* [VLFeat](https://github.com/vlfeat/vlfeat)  - VLFeat 开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2 条款] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost)  - 可扩展、可移植和分布式梯度提升（GBDT、GBRT 或 GBM）库，适用于 Python、R、Java、Scala、C++ 等. 可在单机、Hadoop、Spark、Flink 和 DataFlow 上运行.  [阿帕奇2]
 * [ncnn](https://github.com/Tencent/ncnn)  - 针对移动平台优化的高性能神经网络推理计算框架.  [BSD]
 
@@ -661,7 +662,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Versor](http://versor.mat.ucsb.edu/) - 用于几何代数的（快速）通用 C++ 库，包括欧几里德、射影、共形、时空等.
 * [Wykobi](https://www.wykobi.com)  - 高效、强大且易于使用的面向 C++ 2D/3D 的计算几何例程的 C++ 库.  [麻省理工学院]
 * [xtensor](https://github.com/xtensor-stack/xtensor)  - 受 NumPy 语法启发，用于使用多维数组表达式进行数值分析的 C++14 库.  [BSD 3 条款] [website](https://xtensor-stack.github.io/xtensor)
-* [universal](https://github.com/stillwater-sc/universal)  - 实现任意位置算术的 C++14 仅头文件库. 位置数字系统是一种比 IEEE 浮点更高效的锥形浮点. 假设使可重复的计算科学成为可能.  [麻省理工学院许可证]
+* [universal](https://github.com/stillwater-sc/universal)  - 实现任意位置算术的 C++14 仅头文件库. 正数系统是一种比 IEEE 浮点更高效的锥形浮点. 假设使可重复的计算科学成为可能.  [麻省理工学院许可证]
 
 ## Memory Allocation
 
@@ -680,7 +681,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/)  - 用于构建媒体处理组件图的库.  [LGPL]
-* [libass](https://github.com/libass/libass)  - ASS/SSA 字幕格式的便携式字幕渲染器.  [国际标准委员会]
+* [libass](https://github.com/libass/libass) - Portable subtitle renderer for the ASS/SSA subtitle format. [ISC]
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)  - 使用开放标准协议（RTP/RTCP、RTSP、SIP）的多媒体流媒体库.  [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC)  - libVLC（VLC SDK）媒体框架.  [通用公共许可证]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)  - 方便地统一显示视频和音频文件最相关的技术和标签数据.  [BSD]
@@ -702,14 +703,14 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  - 单个文件 C++11 仅标头 HTTP/HTTPS 服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  - 用于高级网络编程的开源库的集合.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) - C++ 的 URI 解析器/构建器库，与 RFC 3986 和 RFC 3987 兼容. [Boost]
-* [CppServer](https://github.com/chronoxor/CppServer)  - 超快速、低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
+* [CppServer](https://github.com/chronoxor/CppServer)  - 超快、低延迟的异步套接字服务器和客户端 C++ 库，支持 TCP、SSL、UDP、HTTP、HTTPS、WebSocket 协议和 10K 连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  - 现代 C++ HTTP 请求库，具有简单但功能强大的界面. 模仿 Python Requests 模块.  [麻省理工学院] [website](https://docs.libcpr.org)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  - CURL(libcurl) 的面向对象的 C++ 包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  - 用于快速数据包处理的数据平面开发套件、库和驱动程序.  [BSD-3 条款和 GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) - C 的异步网络. [MIT]
 * [ENet](https://github.com/lsalzman/enet)  - 可靠的 UDP 网络库.  [麻省理工学院] [website](http://enet.bespin.org/)
 * [evpp](https://github.com/Qihoo360/evpp)  - 使用 TCP/UDP/HTTP 协议的 C++ 高性能网络.  [BSD]
-* [H2O](https://github.com/h2o/h2o) - An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. [MIT]
+* [H2O](https://github.com/h2o/h2o)  - 优化的 HTTP 服务器，支持 HTTP/1.x 和 HTTP/2. 它也可以用作图书馆.  [麻省理工学院]
 * [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - C 的 http 请求/响应解析器. [MIT]
 * [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)  - 快速可靠的 ARQ 协议，可帮助应用程序减少网络延迟.  [麻省理工学院]
 * [libcurl](http://curl.haxx.se/libcurl/)  - 多协议文件传输库.  [MIT/X 衍生许可证]
@@ -725,7 +726,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C)  - 适用于嵌入式系统和 PC 的便携式 MQTT C 客户端.  [麻省理工学院] [website](https://liambindle.ca/MQTT-C)
 * [mTCP](https://github.com/mtcp-stack/mtcp)  - 适用于多核系统的高度可扩展的用户级 TCP 堆栈.  [修改BSD]
 * [Muduo](https://github.com/chenshuo/muduo)  - 用于 Linux 中多线程服务器的 C++ 非阻塞网络库.  [BSD]
-* [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. [MIT] [website](https://nghttp2.org/)
+* [nghttp2](https://github.com/nghttp2/nghttp2)  - HTTP/2 C 库.  [麻省理工学院] [website](https://nghttp2.org/)
 * [Onion](https://github.com/davidmoreno/onion)  - C 语言的 HTTP 服务器库设计得轻量且易于使用.  [Apache2/GPL2]
 * [PF_RING™](https://github.com/ntop/PF_RING)  - 高速数据包处理框架.  [LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser)  - 一个小型、原始、快速的 HTTP 请求/响应解析器.  [麻省理工学院]
@@ -762,7 +763,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Bullet](https://github.com/bulletphysics/bullet3)  - 游戏的 3D 物理引擎.  [zlib] [website](http://bulletphysics.org)
 * [Chipmunk](https://github.com/slembcke/Chipmunk2D)  - 快速且轻量级的 2D 游戏物理库.  [麻省理工学院] [website](https://chipmunk-physics.net/)
 * [LiquidFun](https://github.com/google/liquidfun)  - 游戏的 2D 物理引擎.  [类似 BSD]
-* [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics)  - 物理环境实时模拟的集成解决方案.  [zlib]
+* [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. [zlib]
 * [ODE](http://www.ode.org/)  - 开放动力学引擎 - 用于模拟刚体动力学的开源高性能库.  [BSD&amp;LGPL]
 * [Kratos](https://github.com/KratosMultiphysics/Kratos)  - 用于构建并行、多学科仿真软件的框架，旨在实现模块化、可扩展性和高性能.  [BSD] [website](http://www.cimne.com/kratos/)
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  - Box2D 的 openFrameworks 包装器.  [类似 BSD]
@@ -876,11 +877,11 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [pdqsort](https://github.com/orlp/pdqsort)  - 击败模式的快速排序.  [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort)  - 模板化的稳定排序函数，对于反向或半排序数据，其性能优于基于快速排序的算法，包括 std::sort.  [麻省理工学院]
-* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 排序包装器，允许将 std::sort （及其他随机访问排序函数）与非随机访问容器一起使用，并且还提高了随机访问容器中大型/非平凡可复制类型的排序性能数组.  [z库] [website](https://plflib.org/indiesort.htm)
+* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  - 排序包装器，允许将 std::sort （和其他随机访问排序函数）与非随机访问容器一起使用，并且还提高了随机访问容器中大型/非平凡可复制类型的排序性能和数组.  [z库] [website](https://plflib.org/indiesort.htm)
 
 ## Video
 
-* [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
+* [libvpx](http://www.webmproject.org/code/)  - VP8/VP9 编解码器 SDK.  [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)  - 用于录制、转换和流式传输音频和视频的完整的跨平台解决方案.  [LGPL2/GPL2]
 * [libde265](https://github.com/strukturag/libde265)  - 打开 h.265 视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265_git/src)  - 打开 h.265 视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/master/)
@@ -926,20 +927,20 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TinyXML](http://sourceforge.net/projects/tinyxml/)  - 一个简单、小型、最小的 C++ XML 解析器，可以轻松集成到其他程序中.  [zlib]
 * [TinyXML2](https://github.com/leethomason/tinyxml2)  - 一个简单、小型、高效的 C++ XML 解析器，可以轻松集成到其他程序中.  [zlib]
 * [TinyXML++](https://github.com/rjpcomputing/ticpp)  - TinyXML 的全新接口，使用了许多 C++ 的优点. 模板、异常和更好的错误处理.  [麻省理工学院]
-* [Xerces-C++](http://xerces.apache.org/xerces-c/)  - 用 C++ 的可移植子集编写的验证 XML 解析器.  [阿帕奇2]
+* [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. [Apache2]
 
 ## Yaml
 
 * [mini-yaml](https://github.com/jimmiebergmann/mini-yaml)  - 单标头 YAML 1.0 C++11 序列化器/反序列化器.  [麻省理工学院]
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp)  - C++ 中的 YAML 解析器和发射器.  [麻省理工学院]
-* [rapidyaml](https://github.com/biojppm/rapidyaml)  - Rapid YAML 是一个用于解析和发出 YAML 的 C++ 库.  [麻省理工学院]
+* [rapidyaml](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. [MIT]
 
 ## Miscellaneous
 *不属于上述类别或可能尚未分类的有用库或工具*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  - 一个统计 C++ 程序中成员变量访问次数的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) 又名 afl-fuzz - 疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [阿帕奇2]
-* [Argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC. [CC0/Apache2]
+* [Argon2](https://github.com/P-H-C/phc-winner-argon2)  - 密码哈希 Argon2，PHC 获胜者.  [CC0/阿帕奇2]
 * [Better String](http://bstring.sourceforge.net)  - C 字符串库的替代方案，功能更强大并且不存在缓冲区溢出问题. 还包括一个 C++ 包装器.  [BSD、GPL2]
 * [Boost.Signals2](https://github.com/boostorg/signals2)  - 托管信号和槽系统的实现.  [促进] [website](https://boost.org/libs/signals2)
 * [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - 算法、视图、容器、随机性等的酷备忘单和信息图表.
@@ -954,7 +955,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)  - 该 Qt 库基于 C++ VerbalExpressions 库.  [麻省理工学院]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)  - 用于调试目的的小型打印库.  [麻省理工学院]
-* [gcc-poison](https://github.com/leafsr/gcc-poison) - 一个简单的头文件，供开发人员禁止应用程序中不安全的 C/C++ 函数.
+* [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp)  - 用于在 C++ 中创建和验证 JSON Web 令牌的仅标头库.  [麻省理工学院]
 * [Kangaru](https://github.com/gracicot/kangaru)  - C++11 和 C++14 的依赖注入容器.  [麻省理工学院]
 * [Klib](https://github.com/attractivechaos/klib)  - 常见算法和数据结构的小型轻量级实现.  [麻省理工学院]
@@ -1000,7 +1001,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - 由英特尔开发.
 * [LLVM](http://llvm.org/) - 模块化和可重用的编译器和工具链技术的集合.
 * [Microsoft Visual C++](https://docs.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-160) - MSVC，由微软开发.
-* [Open WatCom](https://github.com/open-watcom) - Watcom C, C++, and Fortran cross compilers and tools. [Sybase Open Watcom Public License]
+* [Open WatCom](https://github.com/open-watcom)  - Watcom C、C++ 和 Fortran 交叉编译器和工具.  [Sybase 开放 Watcom 公共许可证]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)  - 适用于 SPARC 和 x86 的 C、C++ 和 Fortran 编译器. 支持 C++11. 可在 Linux 和 Solaris 上使用.  【OTN开发者许可】
 * [TCC](http://bellard.org/tcc/)  - Tiny C 编译器.  [LGPL]
 
@@ -1025,7 +1026,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *C 或 C++ 调试器列表*
 
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
-* [GDB](https://www.gnu.org/software/gdb/) - GNU 调试器.
+* [GDB](https://www.gnu.org/software/gdb/) - GNU Debugger.
 * [LLDB](http://lldb.llvm.org/) - LLDB 调试器.
 * [Metashell](https://metashell.readthedocs.org) - 交互式模板元编程 shell，其中包括 MDB 元调试器.
 * [Valgrind](http://valgrind.org/) - 用于内存调试、内存泄漏检测和分析的工具.
@@ -1038,7 +1039,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [AppCode](http://www.jetbrains.com/objc/) - 一个基于 JetBrains IntelliJ IDEA 平台构建的用于 Objective-C、C、C++ 和 JavaScript 开发的 IDE.
 * [Cevelop](https://www.cevelop.com) - 基于 Eclipse CDT 的跨平台 C 和 C++ IDE，带有附加插件.
 * [CLion](http://www.jetbrains.com/clion/) - JetBrains 的跨平台 C 和 C++ IDE.
-* [Code::Blocks](http://www.codeblocks.org/) - 免费的 C、C++ 和 Fortran IDE.
+* [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
 * [CodeLite](http://codelite.org/)  - 另一个跨平台、免费的 C 和 C++ IDE.  [GPL2，插件例外]
 * [color_coded](https://github.com/jeaye/color_coded)  - 用于基于 libclang 突出显示的 vim 插件.  [麻省理工学院]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 便携式 C/C++/C++11 IDE.
@@ -1062,13 +1063,13 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Bazel](https://bazel.build)  - 来自 Google 的多语言、快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)  - 为 clang 工具生成编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  - 快速构建系统，鼓励通过各种平台和语言（包括 Facebook 开发和使用的 C++）创建小型、可重用的模块. 用Java编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck)  - 快速构建系统，鼓励在各种平台和语言（包括 Facebook 开发和使用的 C++）上创建小型、可重用的模块. 用Java编写.  [阿帕奇]
 * [build2](https://build2.org/)  - 用于开发和打包 C/C++ 项目的跨平台构建、打包和依赖管理工具链.  [麻省理工学院]
 * [clib](https://github.com/clibs/clib)  - C 编程语言的包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  - 跨平台免费开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
 * [Cget](https://github.com/pfultz2/cget)  - Cmake 包检索.  [促进] [website](http://cget.readthedocs.io)
 * [Conan](https://conan.io/)  - C/C++ 包管理器，开源.  [麻省理工学院]
-* [CPM](https://github.com/iauns/cpm) - 基于 CMake 和 Git 的 C++ 包管理器.
+* [CPM](https://github.com/iauns/cpm) - A C++ Package Manager based on CMake and Git.
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - 高性能、开源构建系统，支持高度可扩展的编译、缓存和网络分发.
 * [Hunter](https://www.github.com/ruslo/hunter)  - CMake 驱动的 C++ 跨平台包管理器.  [BSD-2]
 * [MesonBuild](http://mesonbuild.com) - 开源构建系统意味着速度极快，更重要的是，尽可能用户友好.
@@ -1138,7 +1139,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - 在 C++Now 2012 上展示的演示材料.
 
 ## Books
-*Fantastic C or C++ related books.*
+*精彩的 C 或 C++ 相关书籍.*
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - 甚高频/免费编程书籍/C.
@@ -1242,7 +1243,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 精选的精彩清单.
 * [awesome](https://github.com/sindresorhus/awesome) :zap: - 精选的精彩列表.
 * [C++ links](https://github.com/MattPD/cpplinks) - C++ 资源的分类列表.
-* [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
+* [Awesome C++](https://cpp.libhunt.com/) - LibHunt 的镜子.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代 C++ 资源集合.

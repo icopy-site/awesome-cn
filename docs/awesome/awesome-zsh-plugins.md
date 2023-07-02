@@ -706,7 +706,7 @@ Znap 可以：
 - [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - 添加一些 ZLE 小部件 [fzf](https://github.com/junegunn/fzf).
 - [fzf-z](https://github.com/andrewferrier/fzf-z) - 汇集了 *z- 插件和 *[fzf](https://github.com/junegunn/fzf)- 允许您在命令行上的任何位置轻松浏览最近使用的目录.
 - [fzy](https://github.com/aperezdc/zsh-fzy) - 使用的插件 [fzy](https://github.com/jhawthorn/fzy) 用于某些模糊匹配操作.
-- [gcloud-project](https://github.com/avivl/gcloud-project) - Easy selection of Google Cloud Projects.
+- [gcloud-project](https://github.com/avivl/gcloud-project) - 轻松选择 Google Cloud 项目.
 - [gdbm](https://github.com/zdharma-continuum/zgdbm) - 添加 GDBM 作为插件.
 - [geeknote](https://github.com/s7anley/zsh-geeknote) - [Geeknote](https://www1.geeknote.me) ZSH 的插件.
 - [gentoo](https://github.com/MattiaG-afk/gentoo-ohmyzsh) - 添加了一些别名和函数以与 Gentoo Linux 配合使用.
@@ -1264,7 +1264,7 @@ Znap 可以：
 - [zinit-annex-unscope](https://github.com/zdharma-continuum/zinit-annex-unscope) - 允许安装插件 [zinit](https://github.com/zdharma-continuum/zinit) 无需通过查询Github API指定用户名.
 - [zinit-console](https://github.com/z-shell/zinit-console) - 半图形（诅咒）控制台 [zinit](https://github.com/zdharma-continuum/zinit) 插件管理器.
 - [zinsults](https://github.com/ahmubashshir/zinsults) - 如果命令失败则打印侮辱.
-- [zjump](https://github.com/qoomon/zjump)  - 简化ZSH目录导航； 跳转到已访问过的父文件夹或子文件夹.
+- [zjump](https://github.com/qoomon/zjump) - Simplify ZSH directory navigation; jump to already visited, parent or sub folders.
 - [zlitefetch](https://github.com/ippee/zlitefetch) - 轻量级系统信息插件.
 - [zlong_alert](https://github.com/kevinywlui/zlong_alert.zsh) - 当需要很长时间（默认：15 秒）的命令完成时，使用“notify-send”并敲响铃声来提醒您.
 - [zman](https://github.com/mattmc3/zman) - 使用 [fzf](https://github.com/junegunn/fzf) 快速浏览ZSH手册.
@@ -1494,6 +1494,7 @@ Znap 可以：
 - [agnoster-gentoo](https://github.com/r7l/agnoster-gentoo-zsh-theme) - Gentoo 风格的版本 [Agnoster ZSH Theme](https://github.com/agnoster/agnoster-zsh-theme) 其中包括 user@hostname 和 `git` 状态装饰. 使用 unicode 字体效果更好.
 - [agnoster-j](https://github.com/apjanke/agnosterj-zsh-theme) - 优化用于 [solarized](https://ethanschoonover.com/solarized/) 配色方案、`git` 或其他 VCS 工具以及 unicode 兼容字体. 包括最后一个命令运行状态的装饰器、用户@主机名、`git`状态、工作目录、是否以 root 身份运行、后台作业是否正在运行以及其他信息.
 - [agnoster-mod](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) 带有右侧提示的变体.
+- [agnoster-multiline](https://github.com/mxkrsv/agnoster-multiline) - 基于 [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) . 包括当前目录和“git”状态的装饰器. 需要带有 powerline 和 `git` 字形的字体. 自动禁用 Linux tty 上的非 ASCII 字形.
 - [agnoster-plus](https://github.com/jiahut/agnoster-plus.zsh-theme) - [Agnoster](https://gist.github.com/agnoster/3712874) 优化后的变体可用于 [Solarized Dark](https://github.com/altercation/solarized/blob/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors) 终端配色方案. 包括“git”状态.
 - [agnoster-refresh](https://github.com/fusion94/Agnoster-refresh) - [Agnoster](https://gist.github.com/agnoster/3712874) 变体，包括电池和在线状态.
 - [agnoster-repopath](https://github.com/ivanfurlan/agnoster-repopath-theme) - 基于 [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) 和 [Passion](https://github.com/ChesterYue/ohmyzsh-theme-passion) themes. Includes `git` 和 `mercurial` status, current time 和 time the last comm和 took decorations in the prompt.
@@ -2163,6 +2164,7 @@ Znap 可以：
 - [risbow](https://github.com/waddupp00/risbow) - A [risto](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/risto.zsh-theme) 灵感来自 ZSH 主题，具有类似彩虹效果的 lolcat.
 - [river](https://github.com/revir/river-zsh-config) - 带有“git”信息的深色主题.
 - [river_dreams](https://github.com/skippyr/river_dreams) - 包括`git`信息、机器的IP地址、时间、`/`上的磁盘使用情况、当前Python`venv`、当前目录、根状态和最后一个命令的退出状态的装饰器.
+- [riverside](https://github.com/skippyr/riverside) - 更便携的后代 [River Dreams](https://github.com/skippyr/river_dreams) 灵感来自罗比拉塞尔和卡菲图. 包括 `git` 状态、user@hostname、当前目录和当前 python 虚拟环境的装饰器.
 - [rkj-logik](https://github.com/logik93/rkj-logik.zsh-theme) - 基于 omz  [rkj](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/rkj.zsh-theme) . 包括 user@host、当前目录、时间和日期的装饰器.
 - [robbyolivier](https://github.com/YuyeQingshan/robbyolivier) - 基于来自的想法 [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) 主题和项目 [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).
 - [robbyrussell-WIP](https://github.com/ecbrodie/robbyrussell-WIP-theme) - 用输出装饰 `robbyrussell` 主题以指示 **WIP** 提交.
