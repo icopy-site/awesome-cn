@@ -43,7 +43,7 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
  
  | 名称 | 描述 | 地址 | 域名 |
 | :--- | :--- | :---: | :--- |
- | 通宵书店和咖啡馆| 友好的本地论坛 |  `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | 不适用 |
+| The All-Night Bookstore and Cafe | A Friendly Local Forum | `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | N/A |
  | 无限畅谈 | 对于那些受限于 ZeroTalk 限制的人 |  `1HMLvnRWViMnuvZc5LK4Dm86sZNcSH1jdh` | 不适用 |
  |  ThreadIt |  ZeroNetX 团队的去中心化论坛 |  `15UYrA7aXr2Nto1Gg4yWXpY3EAJwafMTNk` |  `ThreadIt.bit` |
  | 网络谈话| 关于互联网和其他电子产品的讨论|  `1LfvE91ZF18jdG3wW62Dw7NtfTZh737KPL` | 不适用 |
@@ -70,7 +70,8 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
 
  | 名称 | 描述 | 地址 | 域名 |
 | :--- | :--- | :---: | :--- |
-| XeroMe | ZeroMe with an easy-on-eyes theme | `1JgcgZQ5a2Gxc4Cfy32szBJC68mMGusBjC` | N/A |
+ |  XeroMe|  ZeroMe 具有易于浏览的主题 |  `1JgcgZQ5a2Gxc4Cfy32szBJC68mMGusBjC` | 不适用 |
+ |  0集线器 |  ZeroMe 集线器列表 |  `1GLndW2MJn7japuF3X2tbfBqgPMR52zaLQ` |  `0hub.bit` |
 
 ### Movies
 
@@ -126,7 +127,7 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
 
  | 名称 | 地址 | 域名 |
 | :--- | :---: | :---: |
- | 同步凝石 |  `15CEFKBRHFfAP9rmL6hhLmHoXrrgmw4B5o` | 不适用 |
+ | 同步凝石|  `15CEFKBRHFfAP9rmL6hhLmHoXrrgmw4B5o` | 不适用 |
  | 洋葱 V3 追踪器 |  `13hNAdge5ntxJmcnKzAxeLCuyowJkdvFxF` | 不适用 |
  | 追踪网站 |  `1EsjAWNxu7iWVNdtAp7zZyTZmuM52jgiLQ` | 不适用 |
  | 世界树追踪器 |  `1Bd2mgwbxQAHdHnWyDD7URBLDuwxxybw8t` | 不适用 |
@@ -207,9 +208,10 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
 
 ### Support/Donation
 
-您可以通过分享或向我发送加密货币来支持我和这个项目:)
+如果您发现这个项目有帮助并想表达您的谢意，请考虑捐款. 您的贡献帮助我将更多时间投入到免费和开源项目上：heart：
 
-- 门罗币 ([QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/xmr_qr.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
-- 比特币（[QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/btc_qr.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
-- 莱特币（[QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/ltc_qr.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
-- 比特币现金（[QR](https://raw.githubusercontent.com/zolagonano/zolagonano.github.io/master/qrcodes/bch_qr.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
+- 门罗币（[QR](https://zolagonano.github.io/assets/qrcodes/monero.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
+- 维鲁斯币 ([QR](https://zolagonano.github.io/assets/qrcodes/veruscoin.png)):`R9V91vQbP75A5H3Nn3RrXnK8zVZyaRBYHG`
+- 比特币（[QR](https://zolagonano.github.io/assets/qrcodes/bitcoin.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
+- 莱特币（[QR](https://zolagonano.github.io/assets/qrcodes/litecoin.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
+- 比特币现金（[QR](https://zolagonano.github.io/assets/qrcodes/bitcoincash.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`

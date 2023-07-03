@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/kdeldycke/awesome-iam#readme">
-    <img src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/raw/main/assets/awesome-iam-header.jpg" alt="Awesome IAM">
+    <img src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/awesome-iam-header.jpg" alt="Awesome IAM">
   </a>
 </p>
 
@@ -13,11 +13,28 @@
 </p>
 
 <p align="center">
+  <sup>This list is <a href="#sponsor-def">sponsored<sup id="sponsor-ref">[0]</sup></a> by:</sup><br>
+</p>
+
+<p align="center">
+  <a href="https://www.descope.com/?utm_source=awesome-iam&utm_medium=referral&utm_campaign=awesome-iam-oss-sponsorship">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/descope-logo-dark-background.svg?sanitize=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/descope-logo-light-background.svg?sanitize=true">
+      <img width="300" src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/descope-logo-light-background.svg">
+    </picture>
+    <br/>
+    <strong>拖放您的身份验证.</strong><br/>
+    使用几行代码向您的应用程序添加身份验证、用户管理和授权.
+  </a>
+  <!-- Comment this sponsorship call-to-action if there is a sponsor logo to increase its impact. -->
+  <!--
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ &amp; Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ！</strong>
     <br/>
     <sup>在此处添加指向您的公司或项目的链接：通过 GitHub 赞助支持我.</sup>
   </a>
+  -->
 </p>
 
 ---
@@ -63,7 +80,7 @@
 
 - [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “本文档将云漏洞分为四类（配置错误、访问控制不良、共享租赁漏洞和供应链漏洞）”.
 
-- [Cartography](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+- [Cartography](https://github.com/lyft/cartography)  - 一个基于 Neo4J 的工具，用于绘制服务和资源之间的依赖关系和关系. 支持 AWS、GCP、GSuite、Okta 和 GitHub.
 
 - [Open guide to AWS Security and IAM](https://github.com/open-guides/og-aws#security-and-iam)
 
@@ -165,7 +182,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - 什么是魔法链接，它们的起源，优点和缺点.
 
-- [WebAuthn guide](https://webauthn.guide) - WebAuthn 的易于理解的指南，该标准允许“服务器使用公钥加密技术而不是密码来注册和验证用户”，受到所有主要浏览器的支持.
+- [WebAuthn guide](https://webauthn.guide) - 非常容易理解的 WebAuthn 指南，该标准允许“服务器使用公钥加密技术而不是密码来注册和验证用户”，受到所有主要浏览器的支持.
 
 ### Security Key
 
@@ -187,7 +204,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Beyond Passwords: 2FA, U2F and Google Advanced Protection](https://www.troyhunt.com/beyond-passwords-2fa-u2f-and-google-advanced-protection/) - 对所有这些技术的出色讲解.
 
-- [A Comparative Long-Term Study of Fallback Authentication](https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf) - Key take-away: “schemes based on email and SMS are more usable. Mechanisms based on designated trustees and personal knowledge questions, on the other hand, fall short, both in terms of convenience and efficiency.”
+- [A Comparative Long-Term Study of Fallback Authentication](https://maximiliangolla.com/files/2019/papers/usec2019-30-wip-fallback-long-term-study-finalv5.pdf)  - 要点：“基于电子邮件和短信的方案更有用. 另一方面，基于指定受托人和个人知识问题的机制在便利性和效率方面都存在不足.”
 
 - [Secrets, Lies, and Account Recovery: Lessons from the Use of Personal Knowledge Questions at Google](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43783.pdf)  - “我们的分析证实，秘密问题通常提供的安全级别远低于用户选择的密码.  (…) 令人惊讶的是，我们发现这种不安全感的一个重要原因是用户经常不如实回答.  （……）在可用性方面，我们表明秘密答案的记忆力出奇地差”.
 
@@ -293,7 +310,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 - [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/)  - 中央身份验证服务 (CAS) 协议的 OAuth2 友好改编. 您会发现很好的 OAuth 用户流程图.
 
-- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展了 OAuth 2.0 安全威胁模型，以纳入自 OAuth 2.0 发布以来收集的实际经验，并涵盖由于更广泛的应用而相关的新威胁”.
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “更新和扩展了 OAuth 2.0 安全威胁模型，以纳入自 OAuth 2.0 发布以来收集的实践经验，并涵盖由于更广泛的应用而相关的新威胁”.
 
 - [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - 如何识别和利用 OAuth 2.0 身份验证机制中发现的一些关键漏洞.
 
@@ -345,7 +362,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ## Authorization
 
-现在我们知道你就是你. 但你可以做你想做的事吗？
+Now we know you are you. But are you allowed to do what you want to do?
 
 政策规范是科学，执行是艺术.
 
@@ -375,7 +392,7 @@ IAM的基础：用户、组、角色和权限的定义和生命周期.
 
 ### Open-source policy frameworks
 
-Collection of open-source projects if you're looking to roll your own policy implementation.
+如果您希望实施自己的政策，请收集开源项目.
 
 - [Keto](https://github.com/ory/keto)  - 政策决策点. 它使用一组访问控制策略（类似于 AWS 策略）来确定主体是否有权对资源执行特定操作.
 
@@ -387,7 +404,7 @@ Collection of open-source projects if you're looking to roll your own policy imp
 
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - 开源通用决策引擎，用于创建和实施基于属性的访问控制 (ABAC) 策略.
 
-- [Topaz](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
+- [Topaz](https://github.com/aserto-dev/topaz) - 一个开源项目，它将 OPA 的策略即代码和决策日志记录与桑给巴尔建模目录相结合.
 
 - [Open Policy Administration Layer](https://github.com/permitio/opal)  - OPA 的开源管理层，实时检测策略和策略数据的变化，并将实时更新推送到 OPA 代理.  OPAL 使开放策略达到实时应用程序所需的速度.
 
@@ -409,7 +426,7 @@ Collection of open-source projects if you're looking to roll your own policy imp
 
 - [Policy Sentry](https://github.com/salesforce/policy_sentry)  - 手动编写具有安全意识的 IAM 策略可能非常乏味且效率低下.  Policy Sentry 可帮助用户在几秒钟内创建最低权限策略.
 
-- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是，新事物的默认策略是拒绝所有，然后它监视 cloudtrail 的权限失败并重新配置 IAM 以允许尽可能小的权限来摆脱该拒绝消息.
+- [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e)  - Netflix 工具在 AWS 上强制执行最低权限. 这个想法是，新事物的默认策略是全部拒绝，然后它监视 cloudtrail 的权限失败并重新配置 IAM 以允许尽可能小的权限来摆脱该拒绝消息.
 
 - [Principal Mapper](https://github.com/nccgroup/PMapper) - 快速评估权限.
 
@@ -433,11 +450,11 @@ Collection of open-source projects if you're looking to roll your own policy imp
 
 ## Secret Management
 
-允许存储和使用秘密的架构、软件和硬件，以允许身份验证和授权，同时维护信任链.
+Architectures, software and hardware allowing the storage and usage of secrets to allow for authentication and authorization, while maintaining the chain of trust.
 
 - [Secret at Scale at Netflix](https://www.youtube.com/watch?v=K0EOPddWpsE)  - 基于盲签名的解决方案. 请参阅 [slides](https://rwc.iacr.org/2018/Slides/Mehta.pdf).
 
-- [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso)  - 不是 GCP 的 KMS，而是其基础设施的核心. 请参阅 [slides](https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
+- [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso) - Not GCP's KMS, but the one at the core of their infrastructure. See the [slides](https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
 
 - [`vault`](https://www.vaultproject.io) - 保护、存储和严格控制对令牌、密码、证书、加密密钥的访问.
 
@@ -505,7 +522,7 @@ HSM是在硬件层面保证机密管理安全的物理设备.
 
 作为在线服务提供商，您面临着欺诈、犯罪和滥用行为的风险. 你会惊讶地发现人们在金钱方面变得如此聪明. 预计工作流程中的任何错误或差异都会被利用来获取经济利益.
 
-- [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://web.archive.org/web/20230526073109/https://www.bloomberg.com/news/articles/2019-07-11/mercedes-thieves-showed-just-how-vulnerable-car-sharing-can-be) - 为什么背景调查有时是必要的.
+- [After Car2Go eased its background checks, 75 of its vehicles were stolen in one day.](https://web.archive.org/web/20230526073109/https://www.bloomberg.com/news/articles/2019-07-11/mercedes-thieves-showed-just-how-vulnerable-car-sharing-can-be) - Why background check are sometimes necessary.
 
 - [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf)  - 对 OpenStreetMap 上可疑贡献者注册的真正详细分析. 这份精美且高水平的报告展示了精心策划和定向的活动，可以作为欺诈报告的模板.
 
@@ -633,9 +650,9 @@ HSM是在硬件层面保证机密管理安全的物理设备.
 
 - [Have I been Pwned?](https://haveibeenpwned.com) - 数据泄露指数.
 
-- [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf)  - 大多数隐私泄露都是由第三方依赖项中的已知漏洞造成的. 以下是如何通过 CI/CD 的方式检测它们.
+- [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf) - Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.
 
-- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
+- [Email marketing regulations around the world](https://github.com/threeheartsdigital/email-marketing-regulations) - 随着世界联系日益紧密，电子邮件营销监管环境变得越来越复杂.
 
 - [World's Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - 不要成为下一个泄露客户数据的公司.
 
@@ -649,7 +666,7 @@ HSM是在硬件层面保证机密管理安全的物理设备.
 
 - [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - 解释背后的直觉 [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy) ，一个理论框架，允许在不损害机密性的情况下共享聚合数据. 请参阅后续文章 [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) 和 [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 
-- [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - An alternative anonymity privacy model.
+- [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - 另一种匿名隐私模型.
 
 - [Presidio](https://github.com/microsoft/presidio) - 上下文感知、可插入和可定制的数据保护以及文本和图像的 PII 数据匿名化服务.
 
@@ -727,8 +744,10 @@ HSM是在硬件层面保证机密管理安全的物理设备.
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 是基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) 经过 [Ben Sweet](https://unsplash.com/@benjaminsweet).
+The [header image](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) 是基于修改 [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
 
 <!--lint disable no-undefined-references-->
+
+<a name="sponsor-def">\[0\]</a>: You can <a href="https://github.com/sponsors/kdeldycke">add your Identity & Authentication product in the list of sponsors via a GitHub sponsorship</a>. [\[↑\]](#sponsor-ref)
 
 <a name="intro-quote-def">\[1\]</a>: [*Poison Study*](https://www.amazon.com/dp/0778324338?&linkCode=ll1&tag=kevideld-20&linkId=0b92c3d92371bd53daca5457bdad327e&language=en_US&ref_=as_li_ss_tl) (Mira, 2007). [\[↑\]](#intro-quote-ref)

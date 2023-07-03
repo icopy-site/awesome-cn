@@ -17,7 +17,7 @@ Rust 代码和资源的精选列表.
 
 * [alacritty](https://github.com/alacritty/alacritty) — 跨平台、GPU 增强的终端模拟器
 * [Arti](https://gitlab.torproject.org/tpo/core/arti)  — Tor 的一个实现，用 Rust 实现.  （到目前为止，这是一个不是很完整的客户端.但是请注意这个空间！） [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
-* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 用 Rust 编写的交互式程序集外壳.
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 用 Rust 编写的交互式程序集 shell.
 * [broot](https://github.com/Canop/broot) 一种查看和导航目录树的新方法（获得目录的概述，即使是大目录；找到一个目录，然后“cd”到它；在搜索时永远不会丢失文件层次结构；操作文件，...） ，进一步阅读 [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间 WireGuard VPN 实施 [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 * [datafusion](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion 和 Ballista 查询引擎
@@ -27,7 +27,7 @@ Rust 代码和资源的精选列表.
 * [fend](https://github.com/printfn/fend) - 任意精度单位感知计算器 [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 * [Fractalide](https://github.com/fractalide/fractalide) — 简单的 Rust 微服务
 * [habitat](https://github.com/habitat-sh/habitat) — Chef 创建的用于构建、部署和管理应用程序的工具.
-* [Herd](https://github.com/imjacobclark/Herd) — 一个实验性 HTTP 负载测试应用程序
+* [Herd](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
 * [innernet](https://github.com/tonarino/innernet) - 在底层使用 Wireguard 的覆盖网络或专用网状网络
 * [jedisct1/flowgger](https://github.com/awslabs/flowgger) — 快速、简单、轻量级的数据收集器
 * [kalker](https://github.com/PaddiM8/kalker)  - 一个科学计算器，支持类似数学的语法，包括用户定义的变量、函数、推导、积分和复数. 跨平台+WASM支持 [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
@@ -193,6 +193,7 @@ Rust 代码和资源的精选列表.
 * [ivanceras/svgbob](https://github.com/ivanceras/svgbob) — 将 ASCII 图表转换为 SVG 图形
 * [Limeth/euclider](https://github.com/Limeth/euclider) — 实时 4D CPU 光线追踪器
 * [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) — SVG 渲染库.
+* [rustq/vue-skia](https://github.com/rustq/vue-skia)  — 基于 Skia 的 2d 图形 vue 渲染库. 它基于 Rust 来实现软件光栅化来执行渲染.
 * [turnage/valora](https://crates.io/crates/valora) — 生成美术图书馆 ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 * [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) — 光线追踪器
 
@@ -788,7 +789,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [ksk001100/seahorse](https://github.com/ksk001100/seahorse) [[seahorse](https://crates.io/crates/seahorse)] — 用 Rust 编写的最小 CLI 框架 [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
   * [TeXitoi/structopt](https://github.com/TeXitoi/structopt) [[structopt](https://crates.io/crates/structopt)] — 通过定义结构来解析命令行参数
 * 数据可视化
-  * [nukesor/comfy-table](https://github.com/nukesor/comfy-table) [[comfy-table](https://crates.io/crates/comfy-table)] — 为您的 cli 工具提供漂亮的动态表格. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+  * [nukesor/comfy-table](https://github.com/nukesor/comfy-table) [[comfy-table](https://crates.io/crates/comfy-table)] — 为您的 cli 工具提供漂亮的动态表. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
   * [zhiburt/tabled](https://github.com/zhiburt/tabled) [[tabled](https://crates.io/crates/tabled)] — 一个易于使用的库，用于漂亮地打印 Rust 结构和枚举表. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 * 以人为本的设计
   * [rust-cli/human-panic](https://github.com/rust-cli/human-panic) [[human-panic](https://crates.io/crates/human-panic)]——给人类的恐慌信息
@@ -852,7 +853,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * 活泼
   * [JeffBelgum/rust-snappy](https://github.com/JeffBelgum/rust-snappy) — [snappy](https://github.com/google/snappy) 绑定
 * 需要
-  * [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) — 用 Rust 读/写 tar 档案
+  * [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) — 用 Rust 读/写 tar 存档
 * 压缩
   * [zip-rs/zip](https://github.com/zip-rs/zip) — 读取和写入 ZIP 档案
 
@@ -1025,7 +1026,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * SQL [[sql](https://crates.io/keywords/sql)]
   * 通用
     * [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 具有强类型支持的异步 PostgreSQL/MySQL/SQLite 连接池 [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx)
-    * [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 适用于 MySQL、Postgres 和 SQLite 的动态 SQL 查询构建器 [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
+    * [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 适用于 MySQL、Postgres 和 SQLite 的动态 SQL 查询生成器 [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
     * [SeaQL/sea-schema](https://github.com/SeaQL/sea-schema) - SQL模式定义和发现 [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
   * 微软SQL
     * [prisma/tiberius](https://github.com/prisma/tiberius) — [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)
@@ -1167,13 +1168,13 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 ### Finance
 
-* [avhz/RustQuant](https://github.com/avhz/RustQuant) [[RustQuant](https://crates.io/crates/RustQuant)] — 一个量化金融图书馆. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+* [avhz/RustQuant](https://github.com/avhz/RustQuant) [[RustQuant](https://crates.io/crates/RustQuant)] — 一个量化金融库. ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 * [d-e-s-o/apca](https://github.com/d-e-s-o/apca) [[apca](https://crates.io/crates/apca)] — 对 [Alpaca API](https://alpaca.markets/) 用于股票交易等. ![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ### Functional Programming
 
 [[functional programming](https://crates.io/keywords/fp)]
-* Prelude
+* 前奏
   * [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) — Rust 函数式编程库
   * [myrrlyn/tap](https://github.com/myrrlyn/tap) - 后缀位置管道行为
 
@@ -1283,7 +1284,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [imgui-rs](https://github.com/imgui-rs/imgui-rs) — ImGui 的 Rust 绑定 [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) — 基于 IUP 构建的简单 UI 框架
-* [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native)  - 真正的本机跨平台 GUI 库. 一种统一的代码可以作为本机 GUI、Html Web 和 TUI 运行.
+* [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native)  - 一个真正的本机和跨平台 GUI 库. 一种统一的代码可以作为本机 GUI、Html Web 和 TUI 运行.
 * [libui](https://github.com/andlabs/libui)
   * [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) — 扬声器绑定.
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
@@ -1512,7 +1513,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 * [mgeisler/textwrap](https://github.com/mgeisler/textwrap) [[textwrap](https://crates.io/crates/textwrap)] — 自动换行文本（支持连字符）
 * [null8626/decancer](https://github.com/null8626/decancer) [[decancer](https://crates.io/crates/decancer)] — 一个小包，可从字符串中删除常见的 unicode 易混淆/同形文字. [![crates](https://img.shields.io/crates/v/decancer.svg)](https://crates.io/crates/decancer) [![build badge](https://github.com/null8626/decancer/workflows/CI/badge.svg)](https://github.com/null8626/decancer/actions/workflows/CI.yml)
 * [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) — 允许在大文件行中向前、向后和随机导航而不消耗迭代器的阅读器
-* [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams) [[ngrams](https://crates.io/crates/ngrams)] — 构造 [n-grams](https://en.wikipedia.org/wiki/N-gram) 来自任意迭代器
+* [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams) [[ngrams](https://crates.io/crates/ngrams)] — 构建 [n-grams](https://en.wikipedia.org/wiki/N-gram) 来自任意迭代器
 * [rust-lang/regex](https://github.com/rust-lang/regex) — 正则表达式（RE2 风格）
 * [strsim-rs](https://crates.io/crates/strsim) — 字符串相似度度量
 * [yaa110/rake-rs](https://github.com/yaa110/rake-rs) [[rake](https://crates.io/crates/rake)] — Rust 的 RAKE 算法的多语言实现

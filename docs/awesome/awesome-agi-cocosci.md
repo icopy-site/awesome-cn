@@ -16,7 +16,7 @@
 
 ## Contributing
 
-非常欢迎您的贡献！ 请阅读 [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/Contributing.md) 在采取任何行动之前.
+非常欢迎您的贡献！ 请参阅 [Contribution Guidelines](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/Contributing.md) 在采取任何行动之前.
 
 
 
@@ -342,7 +342,7 @@
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计模型的三个系列的回顾.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计解释.
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计说明.
 
 * [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
@@ -454,7 +454,7 @@
 
 * [Semantic features of object concepts generated with GPT-3](https://arxiv.org/abs/2202.03753) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=16958563995984242923&hl=en&as_sdt=0,5) ]. 测试大语言模型 GPT-3 生成的概念的语义属性.
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会汇刊***，2022.通过福多的概念理论测试神经网络的概念表示.
+* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***计算语言学协会会刊***，2022.通过福多的概念理论测试神经网络的概念表示.
 
 
 
@@ -1199,7 +1199,7 @@
 
 * [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872&hl=en&as_sdt=0,5) ]. 预测股市走势、分析财经文件、生成经济新闻文章摘要，帮助传播财经知识.
 
-* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获取.
+* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获得.
 
 * [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082&hl=en&as_sdt=0,5) ]. 完成代码、生成编程文档、提供技术支持，让非专家更容易掌握编程知识.
 
@@ -1363,7 +1363,7 @@
 
 * [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***IEEE 会议记录***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对将因果推理视为表征学习问题的观点进行了回顾.
 
-* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的评论.
+* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的回顾.
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
@@ -1462,7 +1462,7 @@
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)  - ***柏拉图斯坦福***. 关于归纳逻辑的计算哲学解释，归纳逻辑是证据支持的逻辑.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，一阶模型理论是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 关于次相一致逻辑的计算哲学解释，其中任何逻辑只要不是爆炸性的，都是次相一致的.
 
@@ -1561,7 +1561,7 @@
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***. 关于情境微积分的维基百科，这是一种逻辑形式主义，旨在表示和推理动态域.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，是对表达式“这是必要的”和“这是可能的”的演绎行为的研究.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对表达式“这是必要的”和“这是可能的”的演绎行为的研究.
 
 * [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 关于认识逻辑的计算哲学解释，认识论是认识论的一个子领域，涉及知识、信仰和相关概念的逻辑方法.
 
@@ -1577,7 +1577,7 @@
 
 * [Qualitative and quantitative simulation: bridging the gap](https://www.sciencedirect.com/science/article/pii/S0004370297000507) - ***人工智能***，1997. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=9033452473914228535)].
 
-* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***综合***，2004. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
+* [Logics for Epistemic Programs](https://link.springer.com/article/10.1023/B:SYNT.0000024912.56773.5e) - ***综合***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=11403619699670839488&hl=en&as_sdt=0,5&as_vis=1)].
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***知识获取***，1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
 

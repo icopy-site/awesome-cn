@@ -19,7 +19,7 @@
 
 您可以在其他地方查找 MicroPython 库：
 
-* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython)  - 此过滤器仅显示 PyPi 上的 MicroPython 库. 注意：您无法“pip install”MicroPython 库. 请参阅 [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html) 有关使用 MicroPython 管理包的更多信息.
+* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython)  - 此过滤器仅显示 PyPi 上的 MicroPython 库. 注意：您无法“pip install”MicroPython 库. 请参阅 [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html) for more information on managing packages with MicroPython.
 * [GitHub Search](https://github.com/search?q=micropython) - 在 GitHub 中搜索包含 MicroPython 的存储库.
 * [GitHub Topic - MicroPython](https://github.com/topics/micropython) - 浏览 GitHub 主题以查找带有 MicroPython 标记的项目.
 * [Libraries.io](https://libraries.io/search?q=micropython) - Libraries.io 查询 MicroPython.
@@ -252,7 +252,7 @@
 #### OTA
 
 * [micropython-ota-updater](https://github.com/rdehuyss/micropython-ota-updater) - MicroPython 的 OTA 更新程序.
-* [Micropython-ESP32-OTA](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - MicroPython updater based on rdehuyss/micropython-ota-updater.
+* [Micropython-ESP32-OTA](https://github.com/AkhileshThorat/Micropython-ESP32-OTA) - 基于 rdehuyss/micropython-ota-updater 的 MicroPython 更新程序.
 * [senko](https://github.com/RangerDigital/senko) - 适用于您的 MicroPython 项目的最简单的 OTA 更新解决方案.
 
 #### Radio
@@ -292,7 +292,7 @@
 * [micropython-mcp7940](https://github.com/mattytrentini/micropython-mcp7940) - Microchip MCP7940 RTC 的驱动程序.
 * [micropython-ds1302-rtc](https://github.com/omarbenhamid/micropython-ds1302-rtc) - DS1302 RTC Clock driver for MicroPython.
 * [DS3231micro](https://github.com/notUnique/DS3231micro) - DS3231 的 MicroPython 库.
-* [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) - DS1307 RTC 的 MicroPython 驱动程序.
+* [micropython-ds1307](https://github.com/brainelectronics/micropython-ds1307) - MicroPython driver for DS1307 RTC.
 * [esp-ds3231-micropython](https://github.com/HAIZAKURA/esp-ds3231-micropython) - 使用 MicroPython 的用于 ESP8266/ESP32 的 DS3231 库.
 * [PCF8563_PythonLibrary](https://github.com/lewisxhe/PCF8563_PythonLibrary) - 适用于 NXP PCF8563 实时时钟/日历的 MicroPython 库.
 * [DS3231](https://github.com/octaprog7/DS3231) - Maxim Integrated 的 DS3231 时钟的 MicroPython 模块.
@@ -397,7 +397,7 @@
 
 * [micropython-font-to-py](https://github.com/peterhinch/micropython-font-to-py) - 一个 Python 3 实用程序，用于将字体转换为能够冻结为字节码的 Python 源代码.
 * [writer](https://github.com/peterhinch/micropython-font-to-py/blob/master/writer/WRITER.md) - 渲染上述 Python 字体以显示其驱动程序是“framebuf”子类的简单方法.
-* [ssd1306big](https://github.com/nickpmulder/ssd1306big) - A font for MicroPython on 128x64 pixel SSD1306 OLED display.
+* [ssd1306big](https://github.com/nickpmulder/ssd1306big) - 128x64 像素 SSD1306 OLED 显示屏上的 MicroPython 字体.
 * [framebuf2](https://github.com/peter-l5/framebuf2) - MicroPython FrameBuffer 扩展：更大且旋转的字体、三角形和圆形.
 * [micropython_GT30L24T3Y_big5_font](https://github.com/alankrantas/micropython_GT30L24T3Y_big5_font) - MicroPython 驱动程序，用于从 GT30L24T3Y / ER3303-1 SPI 模块读取 BIG-5 汉字.
 * [ttgo-hershey-fonts](https://github.com/russhughes/ttgo-hershey-fonts) - 用于 TTGO-LCD 板的 MicroPython Hershey 字体演示.
@@ -693,6 +693,7 @@
 * [MicroPython_QMC5883L](https://github.com/jposada202020/MicroPython_QMC5883L) - QMC5883L 加速度计的 MicroPython 驱动程序.
 * [Micropython_MC3479](https://github.com/jposada202020/Micropython_MC3479) - MC3479 加速度计的 MicroPython 驱动程序.
 * [MicroPython_MMA8451](https://github.com/jposada202020/MicroPython_MMA8451) - 用于 MMA8451 3 轴加速度计的 MicroPython 模块.
+* [MicroPython_MMA8452Q](https://github.com/jposada202020/MicroPython_MMA8452Q) - NXP MMA8452Q 加速计的 MicroPython 驱动程序.
 
 #### Air Quality
 
@@ -797,7 +798,7 @@
 
 * [micropython-MQ](https://github.com/kartun83/micropython-MQ) - MQ 系列气体传感器的驱动程序.
 * [MQ135](https://github.com/rubfi/MQ135) - MQ135 气体传感器驱动程序.
-* [CCS811](https://github.com/Notthemarsian/CCS811) - Basic MicroPython driver for CCS811 on ESP8266 boards.
+* [CCS811](https://github.com/Notthemarsian/CCS811) - ESP8266 板上 CCS811 的基本 MicroPython 驱动程序.
 * [micropython-scd30](https://github.com/agners/micropython-scd30) - 适用于 Sensirion SCD30 CO2 传感器模块的 MicroPython I2C 驱动程序.
 * [MicroPython_SCD4X](https://github.com/peter-l5/MicroPython_SCD4X) - 适用于 Sensirion SCD40 和 SCD41 CO2 传感器的 MicroPython I2C 驱动程序.
 * [micropython-sgp40](https://github.com/agners/micropython-sgp40) - 用于 SGP40 VOC 传感器模块的 MicroPython I2C 驱动程序.
@@ -808,7 +809,7 @@
 
 #### Humidity
 
-* [MicroPython_HTS221](https://github.com/jposada202020/MicroPython_HTS221) - HTS221 湿度传感器的 MicroPython 驱动程序.
+* [MicroPython_HTS221](https://github.com/jposada202020/MicroPython_HTS221) - MicroPython Driver for the HTS221 Humidity Sensor.
 
 #### Light
 
@@ -851,6 +852,7 @@
 * [MicroPython_ICM20948](https://github.com/jposada202020/MicroPython_ICM20948) - 用于 TDK ICM20948 加速度计/陀螺仪传感器的 MicroPython 驱动程序.
 * [MicroPython_BMI160](https://github.com/jposada202020/MicroPython_BMI160) - 适用于 Bosch BMI160 加速度计/陀螺仪传感器的 MicroPython 驱动程序.
 * [micropython-mpu6050](https://github.com/wybiral/micropython-mpu6050) - 用于读取 MPU-6050 加速度计和陀螺仪模块的 MicroPython 库.
+* [MicroPython_ICG20660](https://github.com/jposada202020/MicroPython_ICG20660) - 用于 TDK ICG20660 加速度计/陀螺仪传感器的 MicroPython 驱动程序.
 
 #### Pressure
 
@@ -910,7 +912,7 @@
 * [micropython-sht11](https://github.com/2black0/micropython-sht11) - Sensirion SHT11 温度和湿度传感器的驱动程序.
 * [micropython-lm75a](https://github.com/mcauser/micropython-lm75a) - NXP LM75A 数字温度传感器的驱动程序.
 * [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - BME680 传感器的 MicroPython 驱动程序.
-* [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266) - This is a MicroPython module / class to measure data from the HTU21D.
+* [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266) - 这是一个 MicroPython 模块/类，用于测量来自 HTU21D 的数据.
 * [HTU21D](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - HTU21D温度和湿度传感器的异步驱动器.
 * [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) - 使用 MicroPython 的用于 ESP8266/ESP32 的 SHT3x (SHT30/31/35) 库.
 * [sht25-micropython](https://gitlab.com/miceuz/sht25-micropython) - SHT25湿度和温度传感器API的MicroPython实现.
@@ -934,7 +936,7 @@
 * [TMP117](https://github.com/octaprog7/TMP117) - 适用于 Texas Instruments 的 TMP117 温度传感器的 MicroPython 模块.
 * [BME680](https://github.com/octaprog7/BME680) - 适用于 BME680（博世低功率气体、压力、温度和湿度传感器）的 MicroPython 模块.
 * [SHT30](https://github.com/robert-hh/SHT30) - 适用于 Sensirion SHT3x 传感器的 MicroPython 驱动程序.
-* [MicroPython_AS6212](https://github.com/jposada202020/MicroPython_AS6212) - ASM AS6212 温度传感器的 MicroPython 库.
+* [MicroPython_AS6212](https://github.com/jposada202020/MicroPython_AS6212) - MicroPython Library for the ASM AS6212 Temperature Sensor.
 
 #### Temperature IR
 
@@ -1065,7 +1067,7 @@
 ### Code Generation
 
 * [micropy-cli](https://github.com/BradenM/micropy-cli) - Micropy CLI 是一个项目管理/生成工具，用于在现代 IDE（例如 Visual Studio Code）中编写 MicroPython 代码.
-* [micropython-stubber](https://github.com/Josverl/micropython-stubber) - 为不同的 MicroPython 固件生成并使用存根，以便与 Visual Studio Code 或任何 IDE 和 linter 一起使用.
+* [micropython-stubber](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with Visual Studio Code or any IDE and linter.
 * [micropython-stubs](https://github.com/Josverl/micropython-stubs) - 大多数 MicroPython 端口、板和版本的存根，使编写代码变得更加简单.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) - 为 Micropy-Cli 和其他人自动生成存根包.
 * [micropython-extmod-generator](https://github.com/prusnak/micropython-extmod-generator) - 用 C 编写的 MicroPython 外部模块生成器.
