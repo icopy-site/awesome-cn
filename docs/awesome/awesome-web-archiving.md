@@ -75,7 +75,7 @@
 * [Warcworker](https://github.com/peterk/warcworker)  - 一个开源、dockerized、排队、高保真 Web 存档器，基于 Squidwarc，具有简单的 Web GUI.  *（稳定的）*
 * [Wayback](https://github.com/wabarc/wayback)  - 用于将网页快照到 Internet Archive、archive.today、IPFS 等的工具包.  *（稳定的）*
 * [Waybackpy](https://github.com/akamhy/waybackpy) - Python 中的 Wayback Machine Save、CDX 和可用性 API 接口以及命令行工具 *（稳定）*
-* [Web2Warc](https://github.com/helgeho/Web2Warc)  - 一个易于使用且高度可定制的爬虫程序，使任何人都可以创建自己的小型 Web 档案 (WARC/CDX).  *（稳定的）*
+* [Web2Warc](https://github.com/helgeho/Web2Warc) - An easy-to-use and highly customizable crawler that enables anyone to create their own little Web archives (WARC/CDX). *(Stable)*
 * [Web Curator Tool](https://webcuratortool.org)  - 用于选择性网络存档的开源工作流程管理.  *（稳定的）*
 * [WebMemex](https://github.com/WebMemex)  - 适用于 Firefox 和 Chrome 的浏览器扩展，可让您存档您访问的网页.  *（开发中）*
 * [Webrecorder](https://webrecorder.io/)  - 创建您浏览的任何网站的高保真交互式录音.  *（稳定的）*
@@ -111,7 +111,8 @@
 
 * [ArchiveTools](https://github.com/recrm/ArchiveTools) - 用于提取 WARC 文件并与之交互的工具集合 (Python).
 <!--lint ignore double-link-->
-* [Go Get Crawl](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) 和 [Common Crawl](https://commoncrawl.org/) .  *（稳定的）*
+* [cdx-toolkit](https://pypi.org/project/cdx-toolkit/)  - 用于查阅 cdx 索引并创建子集的 WARC 提取的库和 CLI. 抽象出 Common Crawl 不寻常的爬行结构.  *（稳定的）*
+* [Go Get Crawl](https://github.com/karust/gogetcrawl) - 使用提取网络存档数据 [Wayback Machine](https://web.archive.org/) 和 [Common Crawl](https://commoncrawl.org/) .  *（稳定的）*
 * [gowarcserver](https://github.com/nlnwa/gowarcserver) - [BadgerDB](https://github.com/dgraph-io/badger)基于捕获索引（CDX）和WARC记录服务器，用于索引和服务WARC文件（Go）.
 * [har2warc](https://github.com/webrecorder/har2warc) - 转换 HTTP 存档 (HAR) -&gt; Web 存档 (WARC) 格式 (Python).
 * [httpreserve.info](http://httpreserve.info/)  - 返回网页状态或将其保存到互联网档案馆的服务. 使用 GET（Golang 包）通过浏览器或命令行通过 CURL 返回 JSON.  *（稳定的）*
@@ -141,7 +142,7 @@
 * [Sparkling](https://github.com/internetarchive/Sparkling)  - 互联网档案馆的闪闪发光的数据处理库.  *（稳定的）*
 * [Unwarcit](https://github.com/emmadickson/unwarcit) - 用于解压缩 WARC 和 WACZ 文件的命令行界面 (Python).
 * [Warcat](https://github.com/chfoo/warcat)  - 用于处理 Web ARChive (WARC) 文件的工具和库 (Python).  *（稳定的）*
-* [warcio](https://github.com/webrecorder/warcio) - 用于快速 Web 存档 IO 的流式 WARC/ARC 库 (Python).
+* [warcio](https://github.com/webrecorder/warcio)  - 用于快速 Web 存档 IO 的流式 WARC/ARC 库 (Python).  *（稳定的）*
 * [warctools](https://github.com/internetarchive/warctools) - 用于处理 ARC 和 WARC 文件的库 (Python).
 * [webarchive](https://github.com/richardlehane/webarchive) - ARC 和 WARC 网络存档格式的 Golang 阅读器（Golang）.
 
@@ -150,8 +151,12 @@
 * [Archives Research Compute Hub](https://github.com/internetarchive/arch)  - 用于 Archive-It Web 档案馆藏的分布式计算分析的 Web 应用程序.  *（稳定的）*
 * [ArchiveSpark](https://github.com/helgeho/ArchiveSpark)  - 用于 Web Archives 的 Apache Spark 框架（不仅如此），可以轻松进行数据处理、提取和派生.  *（稳定的）*
 * [Archives Unleashed Notebooks](https://github.com/archivesunleashed/notebooks)  - 用于使用 Archives Unleashed Toolkit 处理网络档案的笔记本，以及由 Archives Unleashed Toolkit 生成的衍生产品.  *（稳定的）*
-* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) - Archives Unleashed Toolkit (AUT) is an open-source platform for analyzing web archives with Apache Spark. *(Stable)*
+* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut)  - Archives Unleashed Toolkit (AUT) 是一个使用 Apache Spark 分析 Web 档案的开源平台.  *（稳定的）*
+* [Common Crawl Columnar Index](https://commoncrawl.org/tag/columnar-index/)  - SQL 可查询索引，带有 CDX 信息和语言分类.  *（稳定的）*
+* [Common Crawl Web Graph](https://commoncrawl.org/category/web-graph/)  - 带有排名信息的主机或域级网络图表.  *（稳定的）*
+* [Common Crawl Jupyter notebooks](https://github.com/commoncrawl/cc-notebooks)  - 使用 Common Crawl 的各种数据集的笔记本集合.  *（稳定的）*
 * [Tweet Archvies Unleashed Toolkit](https://github.com/archivesunleashed/twut)  - 一个开源工具包，用于使用 Apache Spark 分析面向行的 JSON Twitter 档案.  *（开发中）*
+* [Web Data Commons](http://webdatacommons.org/)  - 从 Common Crawl 中提取的结构化数据.  *（稳定的）*
 
 ### Quality Assurance
 
@@ -192,6 +197,7 @@
 
 ### Mailing Lists
 
+* [Common Crawl](https://groups.google.com/g/common-crawl)
 * [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 * [OpenWayback](https://groups.google.com/g/openwayback-dev)
 * [WASAPI](https://groups.google.com/g/wasapi-community)
