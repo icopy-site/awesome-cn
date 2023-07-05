@@ -83,7 +83,7 @@
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 真正最小的 Markdown 编辑器，具有无缝实时预览功能.
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac、iPad 和 iPhone 的终极写作应用程序.
-* [Zettlr](https://www.zettlr.com/)  - 21 世纪的 Markdown 编辑器.  [![开源软件][OSS 图标]](https://github.com/Zettlr/Zettlr) ![免费软件][免费软件图标]
+* [Zettlr](https://www.zettlr.com/)  - 21世纪的Markdown编辑器.  [![开源软件][OSS 图标]](https://github.com/Zettlr/Zettlr) ![免费软件][免费软件图标]
 
 #### Note-taking
 
@@ -245,7 +245,7 @@
 * [Timelane](http://timelane.tools)  - 直观地分析您的异步代码.  [![开源软件][OSS 图标]](https://github.com/icanzilb/Timelane) ![免费软件][免费软件图标]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)  - 在任何 Mac 上使用 Touch Bar.  ![开源软件][OSS 图标] ![免费软件][免费软件图标]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - 用于敏捷、EA TOGAF ADM 流程管理的一体化 UML、SysML、BPMN 建模平台.
-* [Woodpecker](http://www.woodpeck.cn)  - 在 Mac 上查看 iOS 应用程序的沙箱文件、用户默认值、钥匙串项目.  [![应用程序商店][应用程序商店图标]](https://itunes.apple.com/app/woodpecker/id1333548463)
+* [Woodpecker](http://www.woodpeck.cn)  - 在 Mac 上查看 iOS 应用程序的沙盒文件、用户默认值、钥匙串项目.  [![应用程序商店][应用程序商店图标]](https://itunes.apple.com/app/woodpecker/id1333548463)
 * [WWDC](https://github.com/insidegui/WWDC)  - Mac OS 非官方 WWDC 应用程序.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
 * [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp)  - 探索来自 Swift 和 iOS 社区的代码片段，查看和编辑片段，然后将它们方便地添加到 Xcode.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/MarcoEidinger/XCSnippetsApp)
@@ -400,7 +400,7 @@
 * [Bdash](https://github.com/bdash-app/bdash) - 现代 SQL 客户端应用程序，支持 MySQL、PostgreSQL (Redshift) 和 BigQuery.[![开源软件][OSS 图标]](https://github.com/bdash-app/bdash) ![免费软件][免费软件图标]
 * [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin)  - 强大的 Chrome 应用程序来管理您的 MySQL.  [![开源软件][OSS图标] ![免费软件][免费软件图标]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor)  - 核心数据编辑器让您轻松查看、编辑和分析应用程序的数据.  [![开源软件][OSS 图标]](https://github.com/luin/medis) ![免费软件][免费软件图标]
-* [DB Browser for SQLite](http://sqlitebrowser.org/)  - SQLite 数据库浏览器的官方主页.  [![开源软件][OSS图标]](https://github.com/sqlitebrowser/sqlitebrowser) ![免费软件][免费软件图标]
+* [DB Browser for SQLite](http://sqlitebrowser.org/)  - SQLite 数据库浏览器的官方主页.  [![开源软件][OSS 图标]](https://github.com/sqlitebrowser/sqlitebrowser) ![免费软件][免费软件图标]
 * [DBeaver](https://dbeaver.io/) - 通用 SQL 客户端.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/)  - 现代 MySQL CRUD 应用程序.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/garrylachman/ElectroCRUD)
 * [FastoNoSQL](https://fastonosql.com/)  - 适用于 Redis、Memcached、SSDB、LevelDB、RocksDB、UnQLite、LMDB、ForestDB、Pika 和 Dynomite 键值数据库的跨平台 GUI 客户端.  [![开源软件][OSS 图标]](https://github.com/fastogt/fastonosql) ![免费软件][免费软件图标]
@@ -494,7 +494,7 @@
 * [SimpleMind](https://simplemind.eu/) - 跨平台思维导图工具的世界领先者.
 * [WriteMapper](https://writemapper.com/) - 立即从想法变成最终草案.
 * [XMind](http://www.xmind.net) - 全球最流行的思维导图工具.
-* [Simple Diagrams](https://www.simplediagrams.com/) - 一款桌面应用程序，用于创建类似手绘的、快速、清晰的问题、流程、工作流程、想法等草图！
+* [Simple Diagrams](https://www.simplediagrams.com/) - 一款桌面应用程序，用于创建类似手绘、快速、清晰的问题、流程、工作流程、想法等草图！
 * [yGraph Editor](https://www.yworks.com/products/yed) - 高质量图表变得简单.
 
 #### Screencapturing Software
@@ -619,7 +619,7 @@
 ## Audio and Video Tools
 
 * [Adapter](https://macroplant.com/adapter)  - 免费的音频、视频和图像转换软件.  ![免费软件][免费软件图标]
-* [Aegisub](https://github.com/Aegisub/Aegisub)  - 用于创建和修改字幕的免费跨平台开源工具.  Aegisub 可以快速轻松地为音频字幕计时，并具有许多强大的工具来设计字幕，包括内置的实时视频预览.  [![开源软件][OSS图标]](https://github.com/Aegisub/Aegisub/) ![免费软件][免费软件图标]
+* [Aegisub](https://github.com/Aegisub/Aegisub)  - 用于创建和修改字幕的免费跨平台开源工具.  Aegisub 可以快速轻松地为音频字幕计时，并具有许多强大的样式工具，包括内置的实时视频预览.  [![开源软件][OSS图标]](https://github.com/Aegisub/Aegisub/) ![免费软件][免费软件图标]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)  - 允许您为连接设备的每个特定组合固定输入/输出设备. 可能会禁止选择 HDMI 显示器.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;mt=12)
 * [Ardour](https://ardour.org/)  - 用于多轨录音和编辑的跨平台音频软件.  [![开源软件][OSS图标]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/)  - 免费、开源、跨平台音频软件，用于多轨录音和编辑.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/audacity/audacity)
@@ -657,6 +657,7 @@
 * [Plug](https://plugformac.com)  - 发现并聆听 Hype Machine 中的音乐.  [![开源软件][OSS 图标]](https://github.com/wulkano/Plug) ![免费软件][免费软件图标][![App Store][app-store 图标]](https: //apps.apple.com/app/id1514182074)
 * [Popcorn Time](https://popcorntime.co/)  - 立即观看种子电影，此 Popcorn Time 服务将永远不会被删除. 下载并享受.  ![免费软件][免费软件图标] 
 * [Potplayer X](https://okaapps.com/product/1612400976) - 视频音频播放器.  ![免费软件][免费软件图标] [![App Store][app-store 图标]](https://apps.apple.com/cn/app/potplayer-x-%E9%9F%B3%E8%A7 %86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8/id1612400976?mt=12)
+* [Pulp](https://github.com/bazalp/pulp/releases)  - 音频样本管理器.  ![免费软件][免费软件图标] [![开源软件][OSS 图标]](https://github.com/bazalp/pulp)
 * [ScreenFlow](http://www.telestream.net/screenflow/) - 截屏和视频编辑软件.
 * [Shotcut](https://www.shotcut.org)  - 免费的开源视频编辑器.  [![开源软件][OSS 图标]](https://github.com/mltframework/shotcut) ![免费软件][免费软件图标]
 * [Sonora](https://github.com/sonoramac/Sonora)  - 最小、设计精美的音乐播放器.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/sonoramac/Sonora)
@@ -715,7 +716,7 @@
 
 ## Browsers
 
-* [Arc](https://arc.net/)  - Arc 是您在互联网上呼吸的空间. 这款浏览器适合 2022 年我们使用互联网的方式，也是我们希望未来如何使用互联网的基础.  ![免费软件][免费软件图标]
+* [Arc](https://arc.net/)  - Arc 是您在互联网上呼吸的空间. 这款浏览器适合我们 2022 年使用互联网的方式，也是我们希望未来如何使用互联网的基础.  ![免费软件][免费软件图标]
 * [Brave](https://brave.com/)  - 注重隐私和速度的网络浏览器.  [![开源软件][OSS 图标]](https://github.com/brave/brave-browser/) ![免费软件][免费软件图标]
 * [Chrome](https://www.google.com/chrome/) - Chrome，由 Google 开发！[免费软件][免费软件图标]
 * [Chromium](https://www.chromium.org/Home)  - Google 的开源、免费网络浏览器项目，为 Google Chrome 提供源代码.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://chromium.googlesource.com/chromium/src/)
@@ -809,7 +810,7 @@
 #### Menu Bar Tools
 
 * [Anvil](https://anvilformac.com/)  - Anvil 是一个漂亮的菜单栏应用程序，用于管理本地网站. 使用简单的 URL 和零配置提供静态站点和 Rack 应用程序.  ![免费软件][免费软件图标]
-* [Bartender](https://www.macbartender.com) - 整理或隐藏 Mac 上的菜单栏图标.
+* [Bartender](https://www.macbartender.com) - 组织或隐藏 Mac 上的菜单栏图标.
 * [BeardedSpice](https://github.com/beardedspice/beardedspice)  - 允许您使用 Mac 键盘上的媒体键控制基于 Web 的媒体播放器（SoundCloud、YouTube 等）和一些本机应用程序.  [![开源软件][OSS 图标]](https://github.com/beardedspice/beardedspice) ![免费软件][免费软件图标]
 * [BitBar](https://getbitbar.com/)  - 将任何脚本或程序的输出直接放在 Mac OS X 菜单栏中.  [![开源软件][OSS 图标]](https://github.com/matryer/bitbar) ![免费软件][免费软件图标]
 * [Dato](https://sindresorhus.com/dato)  - 更好的菜单栏时钟，包含日历、事件和时区.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/us/app/dato/id1470584107)
@@ -914,7 +915,7 @@
 * [iCMD](https://icmd.app) - 模糊菜单栏搜索和 vim/easymotion 仿真，适用于每个本机 MacOS 应用程序.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 适用于 OS X 的强大且稳定的键盘定制器. [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/tekezo/Karabiner)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘、菜单、位置、添加设备等的触发器自动执行日常操作.
-* [Keytty](http://keytty.com)  - 让您的手保持在键盘上的应用程序. 只需几下即可进行移动、单击、滚动、拖动等操作.
+* [Keytty](http://keytty.com)  - 让您的手保持在键盘上的应用程序. 只需几下即可移动、单击、滚动、拖动等.
 * [Lazy](https://www.lazy-app.com/) - 键盘驱动的命令可直接从您的 Mac 管理您的周围环境.
 * [Mos](https://mos.caldis.me/)  - 简单的工具可以在您的 Mac 上提供平滑滚动和反转鼠标滚动方向.  [![开源软件][OSS 图标]](https://github.com/Caldis/Mos) ![免费软件][免费软件图标]
 * [OmniPlan](https://www.omnigroup.com/omniplan/)  - 可视化、维护和简化项目的最佳方式. 项目管理变得简单.
@@ -941,7 +942,7 @@
 * [AltTab](https://alt-tab-macos.netlify.app)  - 带有窗口预览的开源窗口切换器.  [![开源软件][OSS图标]](https://github.com/lwouis/alt-tab-macos)
 * [Amethyst](http://ianyh.com/amethyst/)  - 平铺窗口管理器.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/ianyh/Amethyst)
 * [contexts](https://contexts.co/)  - 提供比本机 Mac Dock 更多的功能. 尤其是当你有多个屏幕时，它可以帮助你更快地切换.
-* [Dissolv](https://www.7sols.com/dissolv/)  - 隐藏并关闭不活动的应用程序.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/app/dissolv/id1640893012)
+* [Dissolv](https://www.7sols.com/dissolv/)  - 隐藏和关闭不活动的应用程序.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/app/dissolv/id1640893012)
 * [Divvy](http://mizage.com/divvy/) - 凭借其令人惊叹的 Divvy Grid 系统实现最佳的窗口管理.
 * [Hummingbird](https://hummingbirdapp.site/) - 无需单击鼠标，即可从窗口内的任何位置轻松移动窗口并调整窗口大小.
 * [IntelliDock](https://mightymac.app/intellidock/) - 自动隐藏 Dock.

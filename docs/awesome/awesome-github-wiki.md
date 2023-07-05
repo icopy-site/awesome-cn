@@ -1,12 +1,12 @@
 <div class="github-widget" data-repo="MyHoneyBadger/awesome-github-wiki"></div>
 ## Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-&gt; 精选的 GitHub Wiki 列表
+&gt; 精彩 GitHub Wiki 的精选列表
 
-每个存储库 [GitHub.com](https://github.com/) 配备了一个用于托管文档的部分，称为 [Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) .  Repository 的 Wiki 共享有关项目的长篇内容，例如如何使用它、您如何设计它或它的核心原则.  README 文件快速说明项目可以做什么，同时使用 Wiki 提供额外的文档.
+每个存储库上 [GitHub.com](https://github.com/) 配备了一个用于托管文档的部分，称为 [Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) .  Repository 的 Wiki 分享有关项目的长篇内容，例如如何使用它、如何设计它或其核心原则. 自述文件可以快速告诉您项目可以做什么，同时使用 Wiki 来提供附加文档.
 
 
 ## Examples
- Wiki 应该是详细的、最新的和结构良好的. 查找所需信息和浏览页面应该很容易. 在 Wiki 格式化中使用 Markdown 的丰富可能性.  Wiki 不会完全重复 README 中已经提供的信息. 以下示例列表代表了提到的良好做法：    
+ Wiki 应该详细、最新且结构良好. 应该很容易找到所需的信息并浏览页面. 在 Wiki 格式中使用 Markdown 的丰富可能性.  Wiki 不会完全重复自述文件中已提供的信息. 以下示例列表代表了提到的良好实践：    
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
 - [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
 - [mbostock/d3](https://github.com/d3/d3/wiki)
@@ -24,6 +24,7 @@
 - [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 - [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 - [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
+- [Search wiki of the repository on GitHub](https://github.com/linyows/github-wiki-search)
 - [How To Add Images To A GitHub Wiki](http://mikehadlow.blogspot.com/2014/03/how-to-add-images-to-github-wiki.html)
 - [GitHub Wiki Markdown tips and examples](https://medium.com/@apcoyne100/github-wiki-markdown-tips-and-examples-1bab1f0c0d25)
 - [GitHub Projects, Teams, Fork & Wiki For Documenting Projects](https://www.softwaretestinghelp.com/github-projects-teams-fork-wiki)
@@ -50,4 +51,4 @@
 - [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
 
 ## Contributing
-非常欢迎投稿！ 请阅读 [contribution guideline](https://github.com/MyHoneyBadger/awesome-github-wiki/blob/master/contributing.md) 第一的.
+非常欢迎您的贡献！ 请阅读 [contribution guideline](https://github.com/MyHoneyBadger/awesome-github-wiki/blob/master/contributing.md) 第一的.

@@ -36,6 +36,8 @@ Hydrogen 是 Shopify 用于无头商务的开源堆栈.
 ## Apps & Integrations
 
 - [Crossing Minds](https://github.com/Crossing-Minds/hydrogen-demo-store) - 产品推荐引擎.
+- [Dynamic Yield](https://github.com/DynamicYield/shopify-hydrogen-demo) - 个性化.
+- [Nosto](https://github.com/Nosto/shopify-hydrogen-demo) - 个性化.
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo) - 顾客评论.
 - [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - 无头 CMS.
 
