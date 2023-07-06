@@ -149,6 +149,7 @@
 - [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，致力于探索新的思维媒介并扩展人类的想象力.
 - [Imagen](https://imagen.research.google/) - Google 的 Imagen 是一种文本到图像的扩散模型，具有前所未有的真实感和深层次的语言理解.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成人工智能方法，将创造性控制权交给使用它的人，允许他们通过文本描述和自由草图来描述和说明他们的愿景.
+- [DragGAN](https://github.com/XingangPan/DragGAN) - 拖动您的 GAN：在生成图像流形上进行基于点的交互式操作.
 
 ### Services
 
@@ -159,7 +160,7 @@
 - [Magic Eraser](https://www.magiceraser.io/) - 在几秒钟内从图像中删除不需要的东西.
 - [Imagine by Magic Studio](https://magicstudio.com/imagine) - Magic Studio 的一款工具，让您通过描述您的想法来表达自己.
 - [Alpaca](https://www.getalpaca.io/) - 稳定的扩散 Photoshop 插件.
-- [Patience.ai](https://www.patience.ai/) - Patience.ai 是一款使用 Stable Diffusion 创建图像的应用程序，Stable Diffusion 是 Stability.AI 开发的尖端人工智能.
+- [Patience.ai](https://www.patience.ai/) - Patience.ai 是一款使用稳定扩散（Stability.AI 开发的尖端人工智能）创建图像的应用程序.
 - [GenShare](https://www.genshare.io/)  - 在几秒钟内免费生成艺术作品. 拥有并分享您所创造的东西. 多媒体生成工作室，使设计和创造力民主化.
 - [Playground AI](https://playgroundai.com/)  - Playground AI 是一款免费的在线人工智能图像创建器. 用它来创作艺术、社交媒体帖子、演示文稿、海报、视频、徽标等.
 - [Pixelz AI Art Generator](https://pixelz.ai/)  - Pixelz AI 艺术生成器使您能够从文本创建令人难以置信的艺术. 提供稳定扩散、CLIP 引导扩散和 PXL·E 逼真算法.
@@ -233,8 +234,14 @@
 - [Brandmark](https://brandmark.io/) - 基于人工智能的标志设计工具.
 - [Teleprompter](https://github.com/danielgross/teleprompter) - 设备上的人工智能会议可以倾听您的声音并提出富有魅力的报价建议.
 - [Gamma](https://gamma.app/) - 创建精美的演示文稿和网页，无需任何格式化和设计工作.
-- [Learn Prompting](https://learnprompting.org/) - 关于与人工智能通信的免费开源课程.
 - [FinChat](https://finchat.io/) - FinChat 使用人工智能生成有关上市公司和投资者问题的答案.
+
+## Learning resources
+
+- [Learn Prompting](https://learnprompting.org/) - 关于与人工智能通信的免费开源课程.
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 快速工程指南和资源.
+- [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Isa Fulford (OpenAI) 和 Andrew Ng (DeepLearning.AI) 的短期课程.
+  [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - 使用 OpenAI API 的示例和指南.
 
 ## More lists
 
@@ -247,7 +254,6 @@
 - [GPT-3 Demo](https://gpt3demo.com/) - 展示 GPT-3 示例、演示、应用程序、展示和 NLP 用例.
 - [GPT-4 Demo](https://gpt4demo.com/) - GPT-4 应用程序和用例.
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - 一系列很棒的生成式人工智能应用程序.
-- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 快速工程指南和资源.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - 使用生成人工智能和深度学习的分子设计列表.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - 可用于商业用途的开放式法学硕士列表.
 

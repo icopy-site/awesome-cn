@@ -16,7 +16,7 @@
 坚定地认为它们成为了社区标准. 你不会错
 他们.  Quicklisp、BordeauxThreads 和
 这样的. 用 a 表示的库是我们喜欢并且想要的库
-在 Awesome-cl 列表中进行推广. 他们被证明是可靠的，他们可以解决
+promote here at the Awesome-cl list. They proved solid, they may solve
 一个比社区标准更好的问题，但它们并不那么好
 广泛存在，或不被认为是稳定的. 例如，我们更喜欢
 Cl-Who 上方的喷丝板.
@@ -585,10 +585,10 @@ Lambda 简写
 * [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  - Common Lisp 到 ISO Prolog 实现的通用接口.  [麻省理工学院][200].
 * [Screamer](https://github.com/nikodemus/screamer) - 增强通用性
   Lisp 几乎具有 Prolog 和 Prolog 的所有功能
-  约束逻辑编程
+  constraint logic programming
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
   解决欧拉计划难题.  [麻省理工学院][200].
-* [Screamer+](https://github.com/yakovzaytsev/screamer-plus)  - 增加 SCREAMER 的表现力.  [麻省理工学院][200].
+* [Screamer+](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT][200].
 * [Temperance](https://github.com/sjl/temperance)  - 逻辑编程.  [麻省理工学院][200]. 注重性能，考虑一般游戏玩法.
 
 反应式编程
@@ -671,6 +671,11 @@ Web开发
 Reference
 ---------
 
+* 新的！ [CL CommunitySpec](https://cl-community-spec.github.io/pages/index.html) - Common Lisp ANSI 规范草案的演绎版.
+   * 具有交互式搜索、语法高亮！ 并且开源.
+* 新的！ [novaspec](https://novaspec.org/) - CL ANSI 草案的现代版本.
+  * 不是开源的？
+
 * [Common Lisp Quick Reference](http://clqr.boundp.org/index.html)  - ANSI CL 规范的精炼袖珍版本. 可供下载 PDF 版本.
 * [CLHS](http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm)  - Common Lisp HyperSpec； 超文本形式的 ANSI CL 标准.
 * [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - 《元对象协议的艺术》第 5 章和第 6 章的现代公共领域在线版本
@@ -708,7 +713,7 @@ Advanced
 其他书籍
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由 Ken Forbus 和 Johan de Kleer 撰写，由麻省理工学院出版社免费提供 - 这是标准人工智能文本中的一本独特的书，结合了科学与工程、理论和工艺来描述人工智能推理系统的构建，并包括说明这些想法的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由 Ken Forbus 和 Johan de Kleer 撰写，由麻省理工学院出版社免费提供 - 这是标准人工智能文本中的一本独特的书，结合了科学与工程、理论和工艺来描述人工智能推理系统的构建，并包括说明想法的代码.
 
 Community
 ---------
@@ -737,7 +742,7 @@ Community
 * [Qlot](https://github.com/fukamachi/qlot)  - 项目本地库安装程序，类似于 Bundler 或 Virtualenv.  [外籍人士][14].
   * 如何 [use it from the Lisp REPL](https://github.com/svetlyak40wt/qlot-without-roswell) 没有罗斯威尔.
 * [Quicksys](https://lisp.com.br/quicksys/)  - 从多个 Quicklisp 发行版安装系统.  [麻省理工学院][200].
-* [Quickutil](https://github.com/stylewarning/quickutil)  - 实用程序管理器，类似于 Quicklisp，但适用于小型实用程序而不是整个库.  [3 条款 BSD][15].
+* [Quickutil](https://github.com/stylewarning/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
 
 也可以看看：
 
@@ -1002,7 +1007,7 @@ Websockets
 * [cl-cookieweb](https://github.com/vindarel/cl-cookieweb)  - 用于启动 Web 项目的 Cookiecutter 模板.  [BSD_3 条款][15]. 不在 Quicklisp 中.
   * 提供一个可运行的玩具 Web 应用程序，其中包含 Hunchentoot Web 服务器、简单路线、Djula 模板、Bulma 样式、基于 SQLite、迁移、示例表定义和使用 FiveAM 的测试套件.
 * [make-like](https://github.com/container-lisp/make-like)  - LIKE（Lisp In Kubernetes + Emacs）应用程序的应用程序模板构建器.  [Apache2.0][51].
-  * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 样式 config.ini、预配置健康检查的简单路由等.
+  * Makefile、podman 支持、GitHub Actions、Prometheus 指标支持、TOML 风格的 config.ini、预配置健康检查的简单路由等.
 * [cl-webapp-seed](https://github.com/rajasegar/cl-webapp-seed)  - 一个简单的 Web 应用程序样板. 使用 Hunchentoot、cl-who，轻松部署到 Heroku.  [麻省理工学院][200].
 
 Others
@@ -1043,7 +1048,7 @@ Others
 ### Static site generators
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 和它
-  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - Flexible
+  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - 灵活
    Lisp Blogware 类似于 Frog、Jekyll 或 Hakyll.  [BSD][15].
 
 ### Third-party APIs
@@ -1092,10 +1097,10 @@ Others
 * [linear-programming](https://neil-lindquist.github.io/linear-programming/)  – 用于解决线性规划问题的库.  [麻省理工学院][200].
 * [avm](https://github.com/takagi/avm)  - 高效且富有表现力的阵列向量数学库，具有多线程和 CUDA 支持.  [麻省理工学院][200].
 * [array-operations](https://github.com/bendudson/array-operations)  - 用于操作 Common Lisp 数组并用它们执行数值计算的函数和宏的集合.  [麻省理工学院][200].
-* [cl-geometry](https://github.com/Ramarren/cl-geometry/) - a system for two dimensional computational geometry for Common Lisp. [MIT][200].
+* [cl-geometry](https://github.com/Ramarren/cl-geometry/)  - Common Lisp 的二维计算几何系统.  [麻省理工学院][200].
 * [Vellum](https://github.com/sirherrbatka/vellum)  - Common Lisp 的数据框架.  BSD_2 条款.
-* [rtg-math](https://github.com/cbaggers/rtg-math/)  - 在 Lisp 中制作实时图形最常用的数学例程的选择（2、3 和 4 个分量向量、3x3 和 4x4 矩阵、四元数、球面和极坐标）.  BSD_2 条款.
-* [origin](https://github.com/mfiano/origin)  - 原生 Lisp 图形数学库，强调性能和正确性. 包括：向量、矩阵（高达 4x4）、四元数、单/双浮点支持、破坏性/非破坏性操作、整形和交集.  [麻省理工学院][200].
+* [rtg-math](https://github.com/cbaggers/rtg-math/)  - 选择在 lisp 中制作实时图形最常用的数学例程（2、3 和 4 个分量向量、3x3 和 4x4 矩阵、四元数、球坐标和极坐标）.  BSD_2 条款.
+* [origin](https://github.com/mfiano/origin)  - 原生 Lisp 图形数学库，强调性能和正确性. 包括：向量、矩阵（高达 4x4）、四元数、单/双浮点支持、破坏性/非破坏性操作、整形和交叉.  [麻省理工学院][200].
 
 矩阵库
 ----------------
@@ -1301,6 +1306,7 @@ Lisp 实用程序：
   - [Slime breakpoints](https://github.com/mmontone/slime-breakpoints)
   - [Slite](https://github.com/tdrhq/slite/) - FiveAM 的测试运行程序.
   - [Quicklisp-apropos](https://github.com/mmontone/quicklisp-apropos) - 在 Quicklisp 中跨库执行“apropos”查询（对符号名称、类、文档等进行全文搜索）.
+  - [slime-critic](https://github.com/mmontone/slime-critic) - Lisp 评论家温和地批评你的代码是否存在不良模式.
 
 ## Vim & Neovim ##
 
@@ -1389,7 +1395,7 @@ Lisp 实用程序：
 * [parseq](https://github.com/mrossini-ethz/parseq)  - 使用解析表达式语法解析序列（例如字符串和列表）的库. 受到 Esrap 的启发.  GPL2.
 * [texp](https://github.com/eugeneia/texp/)  - 用于生成 TeX 的 DSL.  [AGPL-3.0][agpl3].
 
-Text Processing
+文本处理
 ===============
 
 * [montezuma](https://github.com/sharplispers/montezuma/)  - Common Lisp 的全文索引和搜索.  [外籍人士][14].
@@ -1533,7 +1539,7 @@ Lisp 核心.
 文档构建者
 ----------------------
 
-* [Staple](https://github.com/Shinmera/staple)  - 使用 HTML 模板生成文档页面的工具. 使用现有的 README，添加文档字符串、交叉引用和 CLHS 链接.  [zlib][33].
+* [Staple](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib][33].
 * [mgl-pax](https://github.com/melisgl/mgl-pax) - 探索性
 编程环境和文档生成器. 一个可能
 实现与文学编程类似的效果，但是
@@ -1598,7 +1604,7 @@ i18n
 * [oxenfurt](https://github.com/Shinmera/oxenfurt)  - 牛津词典 API 的客户端库.  [zlib][33].
 * [language-codes](https://shinmera.github.io/language-codes)  - ISO 语言代码数据库.  [zlib][33]
 * [system-locale](https://shinmera.github.io/system-locale)  - 用于检索用户首选语言的库，以便您的应用程序可以选择合理的默认值.  [zlib][33].
-* [multilang-documentation](https://shinmera.github.io/multilang-documentation) - Allows writing docstrings in multiple languages, for truly internationally documented libraries. [zlib][33].
+* [multilang-documentation](https://shinmera.github.io/multilang-documentation)  - 允许用多种语言编写文档字符串，以实现真正的国际文档库.  [zlib][33].
 
 Linting、代码格式化
 ------------------------

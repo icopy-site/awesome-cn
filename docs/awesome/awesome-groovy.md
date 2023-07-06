@@ -91,6 +91,9 @@
   * [gbench](https://github.com/gperfutils/gbench) - Groovy 的基准测试模块
 * [Fuzzy-CSV](https://github.com/kayr/fuzzy-csv) - 简单的轻量级数据处理库，可用于在其他服务或库使用表格数据之前对表格数据进行整形/处理.
 
+## Data Processing
+* [Nextflow](https://www.nextflow.io/) - 用于数据驱动计算管道的 Groovy DSL
+
 ## File System Utilities
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - Apache VFS2 之上的 Groovy DSL
 * [Directree](https://github.com/kdabir/directree) - 使用文本文件创建目录树的简单 DSL
