@@ -63,6 +63,8 @@
 * [ChatGPT Infinity](https://chatgptinfinity.com) - 从无所不知的 ChatGPT 中生成无尽的答案（任何语言！） 
 * [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - 向 ChatGPT 添加宽屏 + 全屏模式.
 * [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - 访问 chat.openai.com 时自动清除聊天记录，以实现最大程度的隐私保护.
+* [BraveGPT](https://bravegpt.com/greasemonkey) - 在 Brave Search 侧边栏中显示 ChatGPT 答案.
+* [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - 在 DuckDuckGo 侧边栏中显示 ChatGPT 答案.
 
 
 ### DuckDuckGo

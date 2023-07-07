@@ -159,7 +159,7 @@ MVC == 模型视图控制器
 |用户界面|[domkit](https://github.com/ncannasse/domkit)                              |基于 CSS 组件的严格类型 UI 框架.|
 |_                    |[flixel-ui](https://github.com/HaxeFlixel/flixel-ui)                       |HaxeFlixel 的 GUI 库.|
 |_                    |[HaxeUI](http://haxeui.org/)                                               |具有多个框架后端的 UI 库（HTML5、Kha、OpenFL、PixiJS、WxWidgets 以及许多其他正在进行的工作）|
-|_                    |[Feathers UI](http://haxeui.org/)                                          |用于创意前端项目的跨平台图形用户界面组件|
+|_                    |[Feathers UI](https://feathersui.com/)                                          |用于创意前端项目的跨平台图形用户界面组件|
  | 视频 |[hxCodec](https://github.com/polybiusproxy/hxCodec)                        |在 HaxeFlixel 和 OpenFL 上添加本机视频播放|
 
 ## Articles

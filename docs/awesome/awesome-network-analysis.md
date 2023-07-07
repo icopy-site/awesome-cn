@@ -404,7 +404,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) （ESRC NCRM 讨论文件，2010 年）.
 -   [Network Analysis and Political Science](https://doi.org/10.1146/annurev.polisci.12.040907.115949) （_政治学年度评论_，2011）.
 -   [Network Analysis for International Relations](https://www.cambridge.org/core/journals/international-organization/article/div-classtitlenetwork-analysis-for-international-relationsdiv/DE2910979C1B5C44C4CC13F336C5DE97) （_国际组织_，2009）.
--   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) （_科学_，2009）.
+-   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) (_Science_, 2009).
 -   [Networks and Trade](https://doi.org/10.1146/annurev-economics-080217-053506) （_经济学年度评论_，2018）.
 -   [Networks in Social Psychology, Beginning with Kurt Lewin](http://link.springer.com/10.1007%2F978-1-4614-6170-8_79) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/Networks_in_Socia_Psychology_Lewin.docx);  -->_[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, 2014).
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) （《经济展望杂志》，2014 年）.
@@ -661,6 +661,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - 实现了一个扩展 [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - 连接 R、RStudio 和 JavaScript 库来绘制图表（[blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [dodgr](https://CRAN.R-project.org/package=dodgr) - 使用优先队列最短路径计算双加权有向图（例如街道网络）上的距离.
+-   [edgebundle](https://github.com/schochastics/edgebundle) - 边缘捆绑算法，可用于绘制交通地图网络等.
 -   [egor](https://CRAN.R-project.org/package=egor) - 用于导入、分析和可视化各种格式的以自我为中心的网络数据的工具.
 -   [EpiModel](https://CRAN.R-project.org/package=EpiModel) - 模拟传染病动力学数学模型的工具（[presentation paper](https://doi.org/10.18637%2Fjss.v084.i08)).
 -   [ergm](https://CRAN.R-project.org/package=ergm) - 指数随机图模型（ERGM）的估计.
@@ -916,7 +917,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 ### Two-Mode Networks
 
-&gt; 也称为二分图.
+&gt; 也称为二部图.
 
 -   [L’analyse des graphes bipartis](https://shs.hal.science/halshs-00794976)，法语（2013）.
 -   [Basic Notions for the Analysis of Large Two-mode Networks](https://doi.org/10.1016/j.socnet.2007.04.006)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/) ;  _社交网络_，2008）.

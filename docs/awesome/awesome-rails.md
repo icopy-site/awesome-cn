@@ -291,7 +291,7 @@
 - [hours](https://github.com/defactosoftware/hours) - 时间跟踪应用程序（使用 Rails 4.2）.
 - [human-essentials](https://github.com/rubyforgood/human-essentials)  - 必需品银行的库存管理系统（使用 Rails 7.0）.  - [:earth_africa:](https://humanessentials.app/)
 - [inaturalist](https://github.com/inaturalist/inaturalist)  - 自然和相关内容的社区应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.inaturalist.org)
-- [intercityup.com](https://github.com/intercity/intercity-next) - 用于应用程序部署的控制面板应用程序（使用 Rails 4.1）.
+- [intercityup.com](https://github.com/intercity/intercity-next) - A control panel app for app deployment (using Rails 4.1).
 - [kanban](https://github.com/seanomlor/kanban) - Trello 克隆（使用 Rails 4.2）.
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - 动漫发现平台（使用 Rails 4.1）.
 - [lavish](https://github.com/mquan/lavish) - 配色方案生成器（使用 Rails 4.2）.
@@ -310,6 +310,7 @@
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher)  - 密码传送应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) - 加密货币兑换应用程序（使用 Rails 4.0）.
 - [planningalerts-app](https://github.com/openaustralia/planningalerts)  - 计划中的应用程序跟踪应用程序（使用 Rails 6.1）.  - [:earth_africa:](https://www.planningalerts.org.au)
+- [podiscover](https://github.com/enderahmetyurt/podiscover)  - 一个用于发现新播客的开源社交媒体平台.  （使用 Rails 7.0）- [:earth_africa:](https://www.podiscover.me)
 - [popHealth](https://github.com/pophealth/popHealth) - 人口健康报告应用程序（使用 Rails 4.1）.
 - [postal](https://github.com/postalserver/postal) - 邮件传递平台（使用 Rails 5.2）.
 - [publify](https://github.com/publify/publify) - 博客应用程序（使用 Rails 6.1）.
@@ -317,7 +318,7 @@
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - 自行车比赛组织应用程序（使用 Rails 6.1）.
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) - 援助人员的信息提供应用程序（使用 Rails 4.0）.
 - [redmine](https://github.com/edavis10/redmine)  - 项目管理应用程序（使用 Rails 6.1）.  - [:earth_africa:](http://demo.redmine.org)
-- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
+- [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - 市场应用程序 - （使用 Rails 4.0）.
 - [reservations](https://github.com/YaleSTC/reservations)  - 库存管理应用程序（使用 Rails 6.0）.  - [:earth_africa:](http://yalestc.github.io/reservations/)
 - [retrospring](https://github.com/retrospring/retrospring) - 遵循Q/A（问答）原则的社交网络 - [:earth_africa:](https://retrospring.net)
 - [rletters](https://codeberg.org/rletters/rletters) - 研究人员期刊文章数据库的前端（使用 Rails 6.0）.
@@ -464,12 +465,12 @@
 - [default_rails_template](https://github.com/infinum/default_rails_template) - 用于生成新 Rails 应用程序的默认模板.
 - [docker-Rails-Template](https://github.com/Ruby-Starter-Kits/Docker-Rails-Template) - “rails new”的最新更新版本，预先配置为与 Docker 一起运行.
 - [docker-rails](https://github.com/ledermann/docker-rails)
-- [jumpstart(excid3)](https://github.com/excid3/jumpstart) - Easily jumpstart a new Rails application with a bunch of great features by default.
+- [jumpstart(excid3)](https://github.com/excid3/jumpstart) - 默认情况下，可以轻松启动具有一系列出色功能的新 Rails 应用程序.
 - [jumpstart(thomasvanholder)](https://github.com/thomasvanholder/jumpstart) - 用于设置 Rails 6、Tailwind 2.0 和 Devise 的模板.
 - [kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - 与 Tailwind CSS 捆绑在一起的供个人使用的快速 Rails 6 应用程序模板.
 - [rails-devise-graphql](https://github.com/zauberware/rails-devise-graphql)  - 用于创建下一个 Saas 产品的 Rails 6 样板. 预装了 graphQL、devise、JWT、CanCanCan、RailsAdmin、Rubocop、Rspec 等.
 - [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template)  - Rails 6项目的应用程序模板； 预装了 TDD、安全性、部署和开发人员生产力的最佳实践.
-- [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - 您的下一个 Rails 应用程序的模板
+- [rails-template(TristanToye)](https://github.com/TristanToye/rails-template) - MVP Ready Rails - A Template for Your Next Rails App
 - [rails-template(ackama)](https://github.com/ackama/rails-template)  - Rails 6.1项目的应用程序模板； 预装了 TDD、安全性、部署和开发人员生产力的最佳实践.
 - [rails-template(astrocket)](https://github.com/astrocket/rails-template) - Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let&#39;s Encrypt 的模板.
 - [rails-template(dao42)](https://github.com/dao42/rails-template) - 适合高级 Rails 开发人员的最佳、最新、最快的 Rails 6.x 模板.
