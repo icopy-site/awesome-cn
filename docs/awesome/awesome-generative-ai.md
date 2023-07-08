@@ -52,7 +52,10 @@
 - [Metaphor](https://metaphor.systems/) - 语言模型驱动的搜索.
 - [Phind](https://phind.com/) - 基于人工智能的搜索引擎.
 - [You.com](https://you.com/) - 基于人工智能的搜索引擎，为用户提供定制的搜索体验，同时保持数据 100% 的私密性.
+
+### Local search engines
 - [privateGPT](https://github.com/imartinez/privateGPT) - 利用法学硕士的力量，在没有互联网连接的情况下对您的文档提出问题.
+- [quivr](https://github.com/StanGirard/quivr) - 使用法学硕士和嵌入，转储所有文件并使用生成人工智能第二大脑与其聊天.
 
 ### Writing assistants
 
@@ -83,7 +86,7 @@
 - [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - 在 Google、Bing 和 DuckDuckGo 搜索结果旁边显示 ChatGPT 响应.
 - [ShareGPT](https://sharegpt.com/) - 分享您的 ChatGPT 对话并探索其他人分享的对话.
 - [Merlin](https://merlin.foyer.work/) - 所有网站上的 ChatGPT Plus 扩展.
-- [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
+- [ChatGPT Writer](https://chatgptwriter.ai/) - 使用 ChatGPT AI 生成完整的电子邮件和消息.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - 在由 ChatGPT 提供支持的 Jupyter Notebooks 和 Jupyter Lab 中添加各种帮助程序功能.
 - [editGPT](https://www.editgpt.app/) - 在 chatGPT 中轻松校对、编辑和跟踪内容更改.
 - [Chatbot UI](https://www.chatbotui.com/) - 开源 ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
@@ -205,7 +208,7 @@
 
 ### Speech
 
-- [Eleven Labs](https://beta.elevenlabs.io/) - 人工智能语音发生器.
+- [Eleven Labs](https://beta.elevenlabs.io/) - AI voice generator.
 - [Resemble AI](https://www.resemble.ai/) - 用于文本转语音的人工智能语音生成器和语音克隆.
 - [WellSaid](https://wellsaidlabs.com/) - 将文本实时转换为语音.
 - [Play.ht](https://play.ht/)  - 人工智能语音生成器. 使用 AI 在线生成逼真的文本到语音语音. 将文本转换为音频.

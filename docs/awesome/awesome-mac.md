@@ -83,7 +83,7 @@
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/) - 真正最小的 Markdown 编辑器，具有无缝实时预览功能.
 * [Ulysses](https://www.ulyssesapp.com/features/) - 适用于 Mac、iPad 和 iPhone 的终极写作应用程序.
-* [Zettlr](https://www.zettlr.com/)  - 21世纪的Markdown编辑器.  [![开源软件][OSS 图标]](https://github.com/Zettlr/Zettlr) ![免费软件][免费软件图标]
+* [Zettlr](https://www.zettlr.com/)  - 21 世纪的 Markdown 编辑器.  [![开源软件][OSS 图标]](https://github.com/Zettlr/Zettlr) ![免费软件][免费软件图标]
 
 #### Note-taking
 
@@ -116,7 +116,7 @@
 * [Standard Notes](https://standardnotes.com/)  - 面向数字专家和专业人士的端到端加密笔记应用程序.  [![开源软件][OSS 图标]](https://github.com/standardnotes/app) ![免费软件][免费软件图标]
 * [QOwnNotes](http://www.qownnotes.org/)  - 开源记事本，支持降价和待办事项列表管理器.  [![开源软件][OSS 图标]](https://github.com/pbek/QOwnNotes) ![免费软件][免费软件图标]
 * [Quiver](http://happenapps.com/#quiver) - 程序员笔记本，让您可以在一个笔记中轻松混合文本、代码、Markdown 和 LaTeX，使用出色的代码编辑器编辑代码，并实时预览 Markdown 和 LaTeX.
-* [AliYuQue](https://www.yuque.com/install/desktop) - 云笔记知识管理、协作平台，基于Markdown写作，支持嵌入流程图、脑图、时序图、代码渲染、画板创作、个人知识分享等.相比有道云笔记、印象笔记同类产品，包含其所有功能，支持知识分享和更强大的创作、协作和编辑，来自阿里巴巴蚂蚁金服.！[免费软件][免费软件图标]
+* [AliYuQue](https://www.yuque.com/install/desktop) - 云笔记知识管理、协作平台，基于Markdown写作，支持嵌入流程图、脑图、时序图、代码渲染、画板创作、个人知识分享等.相比有道云笔记、印象笔记同类产品，包含其所有功能，支持知识共享和更强大的创作、协作和编辑，来自阿里巴巴蚂蚁金服.！[免费软件][免费软件图标]
 * [Skiff](https://skiff.com/)  - 端到端加密和去中心化电子邮件、实时文档协作以及采用零信任隐私设计的文件存储 - 可在 Web、iOS/Android 和 macOS 上使用.  ![免费软件][免费软件图标][![开源软件][OSS图标]](https://github.com/skiff-org)
 * [VNote](https://app.vnote.fun/)  - 基于 Qt 的应用程序，旨在提供令人愉快的笔记平台和出色的编辑体验.  [![开源软件][OSS 图标]](https://github.com/vnotex/vnote/) ![免费软件][免费软件图标]
 
@@ -490,6 +490,7 @@
 * [Origami Studio](http://origami.design/) - 用于设计现代界面的工具，由 Facebook 的设计师构建和使用.
 * [pencil](http://pencil.evolus.vn/)  - 用于制作图表和 GUI 原型的免费开源工具.  [![开源软件][OSS 图标]](https://github.com/evolus/pencil) ![免费软件][免费软件图标]
 * [ProtoPie](https://www.protopie.io/) - 创建最先进的原型就像馅饼一样简单.
+* [QuikFlow](https://quikflow.app) - 使用思维导图工作流程创建流程图.
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 实用的思维导图软件，具有免费的白板式布局.
 * [SimpleMind](https://simplemind.eu/) - 跨平台思维导图工具的世界领先者.
 * [WriteMapper](https://writemapper.com/) - 立即从想法变成最终草案.
@@ -562,7 +563,7 @@
 * [DingTalk](https://www.dingtalk.com/en)  - 免费、强大、专业的办公工具，全球超过500万家企业和组织使用.  ![免费软件][免费软件图标]
 * [Discord](https://discordapp.com/) - 为游戏玩家提供一体化语音和文本聊天，免费、安全，并且可以在桌面和手机上使用.
 * [Ferdium](https://ferdium.org/)  - 桌面应用程序，通过将您喜爱的应用程序组合到一个应用程序中来帮助您组织如何使用它们. 它基于 Franz，不同之处在于 Ferdium 为您提供了许多附加功能并且不限制其使用.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/ferdium/ferdium-app)
-* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) 基于网络聊天的多协议包装器. 一个应用程序，23 种通讯服务.  ![免费软件][免费软件图标]
+* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) 基于网络聊天的多协议包装器. 一个应用程序，23 个通讯服务.  ![免费软件][免费软件图标]
 * [Gitter](https://gitter.im)  - 面向开发人员和 GitHub 用户的即时消息和聊天室系统. 开发人员友好，支持 Markdown 语法.
 * [Keybase](https://keybase.io/)  - 为每个人提供安全的群组、文件和聊天！  [![开源软件][OSS 图标]](https://github.com/keybase) ![免费软件][免费软件图标]
 * [Krisp](https://krisp.ai/) - 一款人工智能驱动的降噪应用程序，可在通话期间消除背景噪音.
@@ -619,7 +620,7 @@
 ## Audio and Video Tools
 
 * [Adapter](https://macroplant.com/adapter)  - 免费的音频、视频和图像转换软件.  ![免费软件][免费软件图标]
-* [Aegisub](https://github.com/Aegisub/Aegisub)  - 用于创建和修改字幕的免费跨平台开源工具.  Aegisub 可以快速轻松地为音频字幕计时，并具有许多强大的样式工具，包括内置的实时视频预览.  [![开源软件][OSS图标]](https://github.com/Aegisub/Aegisub/) ![免费软件][免费软件图标]
+* [Aegisub](https://github.com/Aegisub/Aegisub)  - 用于创建和修改字幕的免费跨平台开源工具.  Aegisub 可以快速轻松地为音频字幕计时，并具有许多强大的工具来设计字幕，包括内置的实时视频预览.  [![开源软件][OSS 图标]](https://github.com/Aegisub/Aegisub/) ![免费软件][免费软件图标]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)  - 允许您为连接设备的每个特定组合固定输入/输出设备. 可能会禁止选择 HDMI 显示器.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&amp;mt=12)
 * [Ardour](https://ardour.org/)  - 用于多轨录音和编辑的跨平台音频软件.  [![开源软件][OSS图标]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/)  - 免费、开源、跨平台音频软件，用于多轨录音和编辑.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/audacity/audacity)
@@ -665,7 +666,7 @@
 * [Stremio](https://www.stremio.com/)  - 电影、电视节目、连续剧、直播电视或 YouTube 和 Twitch.tv 等网络频道 - 您可以在 Stremio 上找到这一切.  ![免费软件][免费软件图标]
 * [Stringed 2](http://stringed.buenosapps.com/) - 音乐练习软件旨在帮助用户学习如何演奏自己喜欢的歌曲.
 * [Synfig Studio](http://synfig.org)  - Synfig Studio 是免费的开源 2D 动画软件.  [![开源软件][OSS 图标]](https://github.com/synfig/synfig) ![免费软件][免费软件图标]
-* [VLC](http://www.videolan.org/index.html)  - 免费、开源、跨平台多媒体播放器以及播放大多数多媒体文件、DVD、音频 CD、VCD 和各种流协议的框架.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/videolan/vlc)
+* [VLC](http://www.videolan.org/index.html)  - 免费、开源、跨平台多媒体播放器以及播放大多数多媒体文件、DVD、音频 CD、VCD 和各种流媒体协议的框架.  [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/videolan/vlc)
 * [VOX Player](https://vox.rocks/mac-music-player)  - 适用于 Mac 和 iPhone 的高清音频播放器. 音乐听起来更好！  ![免费软件][免费软件图标]
 * [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [Recordia](https://sindresorhus.com/recordia)  - 直接从菜单栏或使用全局键盘快捷键录制音频.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/app/id1529006487)
@@ -768,6 +769,7 @@
 * [ParetoSecurity](https://paretosecurity.com/)  - 一个 MenuBar 应用程序，可自动审核您的 Mac 的基本安全卫生.  [![开源软件][OSS图标]](https://github.com/ParetoSecurity/pareto-mac)
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) - 通用勒索软件检测.
 * [stronghold](https://github.com/alichtman/stronghold)  - 从终端轻松配置 MacOS 安全设置.  [![开源软件][OSS 图标]](https://github.com/alichtman/stronghold) ![免费软件][免费软件图标]
+* [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)  - 用于检查 macOS 安装程序包的应用程序.  ![免费软件][免费软件图标]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - 使用 TaskExplorer 探索 Mac 上运行的所有进程.
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) - 将菜单项添加到 Finder.app 以显示任何文件的加密签名信息.
 
@@ -799,7 +801,7 @@
 * [ClipTools](https://macmost.com/cliptools)  - ClipTools 是一个状态菜单应用程序，可让您访问各种简单的剪贴板实用程序.  ![免费软件][免费软件图标] [![应用程序商店][应用程序商店图标]](https://apps.apple.com/us/app/cliptools/id1619348240?mt=12)
 * [Clipy](https://clipy-app.com/)  - Clipy 是一款适用于 macOS 的剪贴板扩展应用程序. 基于剪辑菜单.  [![开源软件][OSS图标]](https://github.com/Clipy/Clipy) ![免费软件][免费软件图标]
 * [CopyQ](https://hluk.github.io/CopyQ)  - 具有高级功能的剪贴板管理器.  [![开源软件][OSS 图标]](https://github.com/hluk/CopyQ) ![免费软件][免费软件图标]
-* [iPaste](https://en.toolinbox.net/iPaste)  - 轻量级且高效的剪贴板工具.  ![免费软件][免费软件图标] [![App Store][应用程序商店图标]](https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_me)
+* [iPaste](https://en.toolinbox.net/iPaste)  - 轻量级且高效的剪贴板工具.  ![免费软件][免费软件图标] [![应用程序商店][应用程序商店图标]](https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_me)
 * [Paste](http://pasteapp.me)  - 智能剪贴板历史记录和片段管理器.  [![应用程序商店][应用程序商店图标]](https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 * [PasteBot](https://tapbots.com/pastebot/)  - 强大的剪贴板管理器.  [![应用程序商店][应用程序商店图标]](https://itunes.apple.com/us/app/pastebot/id1179623856)
 * [Pure Paste](https://sindresorhus.com/pure-paste)  - 默认情况下粘贴为纯文本.  ![免费软件][免费软件图标] [![App Store][应用程序商店图标]](https://apps.apple.com/app/id1611378436)
@@ -810,7 +812,7 @@
 #### Menu Bar Tools
 
 * [Anvil](https://anvilformac.com/)  - Anvil 是一个漂亮的菜单栏应用程序，用于管理本地网站. 使用简单的 URL 和零配置提供静态站点和 Rack 应用程序.  ![免费软件][免费软件图标]
-* [Bartender](https://www.macbartender.com) - 组织或隐藏 Mac 上的菜单栏图标.
+* [Bartender](https://www.macbartender.com) - 整理或隐藏 Mac 上的菜单栏图标.
 * [BeardedSpice](https://github.com/beardedspice/beardedspice)  - 允许您使用 Mac 键盘上的媒体键控制基于 Web 的媒体播放器（SoundCloud、YouTube 等）和一些本机应用程序.  [![开源软件][OSS 图标]](https://github.com/beardedspice/beardedspice) ![免费软件][免费软件图标]
 * [BitBar](https://getbitbar.com/)  - 将任何脚本或程序的输出直接放在 Mac OS X 菜单栏中.  [![开源软件][OSS 图标]](https://github.com/matryer/bitbar) ![免费软件][免费软件图标]
 * [Dato](https://sindresorhus.com/dato)  - 更好的菜单栏时钟，包含日历、事件和时区.  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/us/app/dato/id1470584107)
@@ -911,7 +913,7 @@
 * [HapticKey](https://github.com/niw/HapticKey/releases)  - 一款适用于带 Touch Bar 的 MacBook 的简单实用应用程序，点击 Touch Bar 时会触发触觉反馈.  [![开源软件][OSS 图标]](https://github.com/niw/HapticKey) ![免费软件][免费软件图标]
 * [HazeOver](https://hazeover.com)  - 应用程序可以调暗您的后台应用程序窗口，以便您可以更加专注于您的主要任务！  [![应用程序商店][应用程序商店图标]](https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12)
 * [Hook for Mac](https://hookproductivity.com/) - 快速轻松地将文件挂钩在一起，使您能够通过简单的键盘快捷键找到任何相关内容.
-* [Hungrymark](https://zhengying.github.io/hungrymark) - 有用的应用程序，可以为您的文件、文件夹和网站添加书签，通过菜单栏快速访问您的书签 [![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/ id1482778901?l=en&amp;mt=12)
+* [Hungrymark](https://zhengying.github.io/hungrymark) - 有用的应用程序，可以为您的文件、文件夹和网站添加书签，通过菜单栏快速访问您的书签[![App Store][app-store Icon]](https://apps.apple.com/us/app/hungrymark/ id1482778901?l=en&amp;mt=12)
 * [iCMD](https://icmd.app) - 模糊菜单栏搜索和 vim/easymotion 仿真，适用于每个本机 MacOS 应用程序.
 * [Karabiner](https://pqrs.org/osx/karabiner/) - 适用于 OS X 的强大且稳定的键盘定制器. [![开源软件][OSS 图标] ![免费软件][免费软件图标]](https://github.com/tekezo/Karabiner)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘、菜单、位置、添加设备等的触发器自动执行日常操作.

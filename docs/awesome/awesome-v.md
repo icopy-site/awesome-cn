@@ -51,7 +51,7 @@
 
 ### Graphics
 
-- [mpv-v](https://github.com/xjunko/mpv-v) - World's Simplest Video Player.
+- [mpv-v](https://github.com/xjunko/mpv-v) - 世界上最简单的视频播放器.
 - [vRayTracer](https://github.com/ali-raheem/vraytracer) - 用 V 编写的简单光线追踪器.
 
 ### Interpreters/Compilers
@@ -92,8 +92,8 @@
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - 用V编写的后端骨架.
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*.
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表*[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
@@ -114,7 +114,7 @@
 
 - [bartender](https://github.com/tobealive/bartender) - V 术语应用程序的无麸质棒.
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！
-- [lol](https://github.com/0xLeif/lol) - V 版 lolcat（文本/角色彩虹化器）.
+- [lol](https://github.com/0xLeif/lol) - V 版 lolcat（文本/角色彩虹化者）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [spinners](https://github.com/rhygg/spinners) - 在您的终端中创建旋转器！
 - [termtable](https://github.com/serkonda7/termtable) - V 终端表：简单且高度可定制的库，用于在终端中显示表格.
@@ -238,6 +238,7 @@
 - [validate](https://github.com/endeveit/v-validate) - 一个简单的库，用于验证 V 中的字符串.
 - [valval](https://github.com/taojy123/valval) - 用V编写的Web框架，由vweb改进.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API 包装器（用 V 编写） [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [vest](https://github.com/alexferl/vest) - V 中的 REST 客户端.
 - [vex](https://github.com/nedpals/vex) - 受 Express 和 Sinatra 启发，在 V 上编写的 Web 框架.
 - [vigest](https://github.com/withs/vigest) - 用于摘要身份验证的简单客户端（用 V 编写）.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  - V 的内置网络框架. 由沃鲁姆使用.
