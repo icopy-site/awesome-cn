@@ -211,7 +211,7 @@
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是适用于嵌入式应用程序的硬实时操作系统，遵循最小实时 POSIX.13 子集. 它提供了一个易于使用和控制的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) - 高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
-- [bare-bones](https://github.com/Lucretia/bare_bones) - Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小 32 位 x86 内核.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小 32 位 x86 内核.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace 致力于使用 Ada 2012 语言编写类 Unix 操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA 是一种用 Ada95 编写的类似 Mac Plus 的操作系统.
 - [cxos](https://github.com/ajxs/cxos) - Ada操作系统开发示例.
@@ -229,7 +229,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
 - [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是一款“三消”类型的游戏，在 [gnoga] 中实现.
-- [buttons](https://github.com/andreacervetti/buttons) - 一个简单的[gtkada]按钮狂热游戏.
+- [buttons](https://github.com/andreacervetti/buttons) - A simple [gtkada] Button Mania game.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - 地雷探测器：一款无需猜测的探雷游戏.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 玩2048！ 是流行的 2048 游戏的克隆，在 Ada 中实现，使用 [asfml] 进行图形处理，使用 [ada-toml] 保存状态.
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果应用程序.
@@ -238,7 +238,7 @@
 ## Frameworks
 
 ### Components
-- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  - ASN.1、MQTT 客户端和服务器/代理实现、B 树、多连接 TCP 服务器、切比雪夫系列、互斥体、密码学、对象和句柄、双向链接网络和列表、ODBC 绑定、黑板（无锁） 、OpenSSL 绑定、ELV/eQ-3 MAX！ 客户端实现、解析器、事件（普通、脉冲、数组）、持久对象和句柄、GNUTLS 绑定、持久存储和句柄、图形（有向、加权、非循环、树）、池、HTTP 实现、集合和映射、 FIFO（无锁）、SMTP 客户端实现、IEEE 754、SQLite 绑定、进程间通信、堆栈、Julia 语言接口、流、JSON、字符串编辑、LDAP、表（字符串映射）、MODBUS 客户端实现、无界数组.
+- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.
 - [ada-util](https://github.com/stcarrez/ada-util/) - 接近Java log4j框架的日志框架，对属性的支持，XML / JSON / CSV的序列化/反序列化框架，Ada beans框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（ raw、文件、缓冲区、管道、套接字）、多种并发工具（引用计数器、计数器、池、fifo、数组）、进程创建和管道、支持加载共享库（在 Windows 或 Unix 上）、HTTP 客户端库CURL 或 AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) - 这是 GNAT 组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - 这是 GNAT 组件集合的绑定模块.
@@ -252,7 +252,7 @@
 - [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB 提供了一个统一的解决方案来构建依赖于中间件标准的分布式应用程序.
 
 ### Graphical User Interface
-- [gnoga](https://sourceforge.net/projects/gnoga/) - Ada 的 GNU Omnificent GUI.
+- [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
 - [gwindows](https://github.com/zertovitch/gwindows) - GNU Ada 可视化界面.
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW，适用于 Microsoft Windows 的高级、可移植、Ada 95 绑定.
 - [gtkada](https://github.com/AdaCore/gtkada) - 基于Gtk3组件的Ada图形工具包.
@@ -275,7 +275,7 @@
 - [globe-3d](https://github.com/zertovitch/globe-3d) - GL 基于对象的 3D 引擎.
 - [engine-3d](https://github.com/zertovitch/engine-3d) - DOS-talgics 的 3D 引擎.
 - [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) - Ada OpenGL 框架.
-- [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
+- [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - 采用 Ada 编程语言的 Id Software 的 Id-tech-4-BFG.
 
 ### Database
 - [ada-ado](https://github.com/stcarrez/ada-ado)  - Ada Database Objects 是一个 Ada05 库，它提供对象关系映射来访问 Ada05 中的数据库. 该库支持 Postgresql、MySQL、SQLite 作为数据库. 为 ADO 开发的大多数概念都来自 Java Hibernate ORM.
@@ -291,7 +291,7 @@
     - [ada-el](https://github.com/stcarrez/ada-el) - 该库提供对接近 Java 统一表达式语言 (EL) 的简单表达式语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（请参阅 JSR 252、JSR 314 和 JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet 允许使用与 Java Servlet 相同的模式创建 Web 应用程序（请参阅 JSR 154、JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 支持 Swagger codegen：OpenAPI Generator 是一个代码生成器，支持在给定 OpenAPI 规范的情况下自动生成 API 客户端库、服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 支持 Swagger codegen：OpenAPI Generator 是一个代码生成器，支持根据 OpenAPI 规范自动生成 API 客户端库、服务器存根和文档.
 - [ews](https://github.com/simonjwright/ews) - 嵌入式 Web 服务器是一个 Web 服务器构建套件，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
 - [matreshka](https://github.com/godunko/matreshka) - Matreshka 是一个用于开发信息系统的 Ada 框架，由五个主要组件组成：联盟、XML 处理器、Web 框架、SQL 访问和建模框架.
 
@@ -482,9 +482,10 @@
 - [adagl](https://github.com/godunko/adagl) - 多平台 Ada/OpenGL 绑定（移植到本机/OpenGL、A2JS/WebGL 和 WASM/WebGL）.
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 与 SDL 2 的绑定.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada 与 NanoVG 的结合.
-- [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
+- [free-type-ada](https://github.com/flyx/FreeTypeAda) - Ada 2005 的 FreeType 绑定.
 - [asfml](https://github.com/mgrojo/ASFML) - Ada 绑定到简单快速的多媒体库.
 - [plplot](https://sourceforge.net/projects/plplot/) - 跨平台、科学图形绘图库，包括 Ada 绑定.
+- [vulkada](https://phasercat.com/vulkada/) - Ada 2012 的完整 Vulkan 1.1 厚装订.
 
 [asfml]：https://github.com/mgrojo/ASFML
 [plplot]：https://sourceforge.net/projects/plplot/
@@ -503,7 +504,8 @@
 - [coreland-openal-ada](https://github.com/io7m/coreland-openal-ada) - Ada 绑定到 OpenAL.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
 - [scala](https://www.huygens-fokker.org/scala) - Scala 是一款功能强大的软件工具，用于实验音乐调音，例如纯音阶、平均律和历史律、微音阶和宏音阶以及非西方音阶.
-- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
+- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - 用于 Ada 应用程序的 linux-sound-playing 包，可以异步启动和停止音乐循环，以及启动瞬态声音.
+- [adaogg] - 完整的精简接口层，将 Ogg、Vorbis 和 Theora 库引入 Ada 2012 编程语言.
 
 ### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - Ada 包允许将应用程序消息外部化到属性文件中.

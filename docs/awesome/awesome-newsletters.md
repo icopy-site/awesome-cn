@@ -84,12 +84,12 @@
 
 - [Web Design Weekly](https://web-design-weekly.com/) . 只是本周互联网上最好的新闻和文章的精彩链接.
 - [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
-- [Web Designer News](https://www.webdesignernews.com) . 为设计师策划的故事.
+- [Web Designer News](https://www.webdesignernews.com). Curated stories for designers.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 每周一次免费的响应式设计文章、工具、技巧、教程和鼓舞人心的链接的综述.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 有关界面可用性、网站设计和用户体验研究的最新文章.
 - [UI Movement](https://uimovement.com) . 只有最好的 UI 设计灵感就在您的收件箱中.
 - [Designer News](https://www.designernews.co) . 设计社区聚会的地方.
-- [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
+- [Hack Design](https://hackdesign.org) . 这是一门简单易懂的设计课程，适合那些做出令人惊叹的事情的人.
 - [Hacking UI](http://hackingui.com/) . 每周为前端开发人员和产品经理精心挑选的资源.
 - [eWebDesign](https://ewebdesign.com/) . 来自行业专家的最新网络新闻和文章.
 - [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI 动画通讯让您了解最新的最佳网页动画、动作设计和用户体验资源.
@@ -166,7 +166,7 @@
 - [Go Newsletter](https://golangweekly.com/) . 关于 Go 编程语言的每周通讯. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 每周概述最流行的 Go 新闻、文章和库.
 - [Go Gazette](http://www.go-gazette.com/) . 每周为 Golang 老年人策划博客和工具.
-- [GoNotícias](https://gonoticias.substack.com/). A weekly newsletter about the Go programming language in Portuguese.
+- [GoNotícias](https://gonoticias.substack.com/) . 关于 Go 编程语言的葡萄牙语每周通讯.
 
 ### R
 
@@ -305,7 +305,7 @@
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified) . 系统管理员视频 - 简短的系统管理员截屏视频（每周发布）.
 - [Server Admin for Programmers](https://serversforhackers.com/) . 教授开发和生产所需的服务器技术. 消除服务器配置的麻烦.
 - [Cron.Weekly](https://www.cronweekly.com) . 每周日通讯，每周日发送给您，其中包含为 Linux 系统管理员量身定制的新闻和工具. [Archige](https://www.cronweekly.com/archives/).
-- [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) . 很棒的系统管理工具、软件和资源的精选列表.
+- [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 - [Monitoring Weekly](https://monitoring.love/) .  《监控周刊》将最新的监控新闻、文章和工具直接发送到您的收件箱.
 - [SRE Weekly](http://sreweekly.com/) .  SRE Weekly 是一份时事通讯，致力于与尽可能保持站点或服务持续可用相关的所有内容.
 - [StatusCode Weekly](https://weekly.statuscode.com/) . 关于 Web 操作、基础设施、性能和工具（从浏览器到金属）的每周新闻通讯.
@@ -351,7 +351,7 @@
 
 ## Blockchain / Cryptocurrencies
 
-- [Inside Cryptocurrency](https://inside.com/cryptocurrency) . 跟踪比特币和加密货币的趋势、新闻和分析.
+- [Inside Cryptocurrency](https://inside.com/cryptocurrency). Tracking trends, news, and analysis around Bitcoin and cryptocurrencies.
 - [Crypto Weekly](https://cryptoweekly.co/) . 每周都会向您的收件箱发送最好的加密货币新闻和见解.
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) . 没有牛市的区块链技术——每周一次的区块链现实，严重偏向于技术.
 
@@ -364,6 +364,7 @@
 - [Unzip.dev](https://unzip.dev/) . 开发者趋势时事通讯，一次揭示一种趋势.
 - [Daily Tech](https://dailytech.email) .  Daily Tech 是一份有关技术、初创公司、产品和软件工程的精选新闻通讯.
 - [SaaS Bites](https://saasbites.substack.com) . 有关 SaaS 增长、营销和产品管理的最新新闻、技巧和工具.
+- [MindByte Weekly Pulse](https://mindbyte.beehiiv.com) 使用 MindByte Weekly Pulse 为您的一周加油，这是您在 GitHub、Azure 和 .NET 的动态世界中导航的不可或缺的指南. 了解由行业专家策划的最新见解、技巧和趋势，每周发送到您的收件箱.
 
 ## Leadership
 
@@ -374,7 +375,7 @@
 ## Marketing
 
 - [tldrMarketing](https://tldrmarketing.com) . 轻松获取有关数字营销的最新突发新闻和趋势.
-- [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
+- [Zero to Marketing](https://zerotomarketing.com/) . 每周发送一封电子邮件，其中包含 5 分钟的案例研究和可行的提示.
 - [The Content Odyssey](https://newsletter.mktodyssey.com/) . 每两周进行一次尝试和测试的内容增长实验.
 
 ## Business/Finance

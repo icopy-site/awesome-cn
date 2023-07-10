@@ -98,10 +98,11 @@
 * [Groovy-Vfs](https://github.com/ysb33r/groovy-vfs) - Apache VFS2 之上的 Groovy DSL
 * [Directree](https://github.com/kdabir/directree) - 使用文本文件创建目录树的简单 DSL
 
-## File Format DSL
+## DSLs
 * [document-builder](https://github.com/craigburke/document-builder) - 用于 Groovy 的 PDF 或 Word 文档的文档生成器.
 * [spreadsheet-builder](http://spreadsheet.dsl.builders/) - 电子表格生成器提供了创建 MS Excel OfficeOpenXML 文档 (XSLX) 的便捷方法
 * [GroovyCSV](http://xlson.com/groovycsv/) - 一个简单的groovy CSV解析库
+* [Groogle](https://groogle.gitlab.io/groogle/latest/index.html) - 为使用 Google 服务 API 编写的 Groovy DSL.
 
 ## Scripting Tools
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) - Gradle 脚本插件，用于通过 Dokka 文档引擎为 Java 和 Kotlin 生成文档

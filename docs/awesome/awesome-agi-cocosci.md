@@ -1083,6 +1083,8 @@
 
 * [What Makes an Insight Problem? The Roles of Heuristics, Goal Conception, and Solution Recoding in Knowledge-Lean Problems](https://www.researchgate.net/profile/Thomas-Ormerod/publication/8909475_What_Makes_an_Insight_Problem_The_Roles_of_Heuristics_Goal_Conception_and_Solution_Recoding_in_Knowledge-Lean_Problems/links/00b7d5159f3c057eb5000000/What-Makes-an-Insight-Problem-The-Roles-of-Heuristics-Goal-Conception-and-Solution-Recoding-in-Knowledge-Lean-Problems.pdf) - ***实验心理学杂志***，2004年. [[All Versions](https://scholar.google.com/scholar?cluster=17529631069707671285&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2003-10949-002)]. 
 
+* [Constraint relaxation and chunk decomposition in insight problem solving](https://www.hf.uni-koeln.de/data/fgpsych/File/Haider/Knoblich_etal_1999.pdf) - ***实验心理学杂志***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=8057214169831054227&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/1999-01477-011)].
+
 * [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***实验心理学杂志***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2002-01361-014)].
 
 
@@ -1251,7 +1253,7 @@
 
 <!-- * [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/)  - ***柏拉图斯坦福***.  ToM 上的计算哲学帐户.  --&gt;
 
-* [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763&hl=en&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
+* [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***认知科学趋势***，2016 年. [[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763&hl=en&as_sdt=0,5) ]. 通过朴素的效用演算框架理解社会互动的视角.
 
 * [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***认知科学趋势***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047&hl=en&as_sdt=0,5) ]. 通过规划来理解心理理论的视角，该规划由抽象的结构化因果表示组成，并支持从无数可能的行动中进行有效的搜索和选择. 
 
@@ -2004,7 +2006,7 @@
 
 * [Yixin Zhu](https://yzhu.io/) - ***北京大学人工智能学院及人工智能研究院***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) -***北京大学***.
 
-* [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***约翰·霍普金斯大学 (JHU) 心理与脑科学系***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
+* [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
 * [Mark Ho](https://markkho.github.io/) - ***史蒂文斯理工学院 (SIT) 计算机科学系***.
 
@@ -2048,7 +2050,7 @@
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***基础书籍***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
-* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
+* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) -***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
 
 

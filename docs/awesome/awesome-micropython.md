@@ -55,7 +55,7 @@
 
 * [micropython-utelegram](https://github.com/jordiprats/micropython-utelegram) - MicroPython 的 Telegram API 包装器.
 * [uEagle](https://github.com/jcalbert/uEagle) - MicroPython Rainforest EAGLE 客户端.
-* [micropython-youtube-api](https://github.com/UnexpectedMaker/micropython-youtube-api) - MicroPython 中的 YouTube API.
+* [micropython-youtube-api](https://github.com/UnexpectedMaker/micropython-youtube-api) - YouTube API in MicroPython.
 * [micropython_esp8266_tweetbot](https://github.com/ayoko/micropython_esp8266_tweetbot) - 适用于 MicroPython v1.8.4 (ESP8266) 的推文机器人.
 * [telegram-upy](https://github.com/gabrielebarola/telegram-upy) - MicroPython 的 Telegram API 包装器.
 * [micropython-thingspeak](https://github.com/radeklat/micropython-thingspeak) - 用于从运行 MicroPython 的 IoT 设备（例如 ESP8266）向 thingspeak.com 发送数据的库.
@@ -100,7 +100,7 @@
 * [micropython-aes](https://github.com/piaca/micropython-aes) - 纯Python实现的AES算法.
 * [ucrypto](https://github.com/dmazzella/ucrypto)  - MicroPython 包，用于执行快速 RSA 和椭圆曲线加密，特别是数字签名.  ECDSA API 设计灵感来自 fastecdsa 并基于 tomsfastmath 实现.
 * [ucryptoauthlib](https://github.com/dmazzella/ucryptoauthlib) - 使用纯 Python 为 MicroPython 编写的 Microchip 加密身份验证安全元素的轻量级驱动程序.
-* [embit](https://github.com/diybitcoinhardware/embit) - 适用于 MicroPython 和 Python 3 的最小比特币库，重点关注嵌入式系统.
+* [embit](https://github.com/diybitcoinhardware/embit) - A minimal Bitcoin library for MicroPython and Python 3 with a focus on embedded systems.
 * [microotp](https://github.com/gdassori/microotp) - ESP8266 MicroPython OTP 生成器.
 * [micropython-rsa-signing](https://github.com/artem-smotrakov/micropython-rsa-signing) - MicroPython 上的 RSA 签名.
 * [micropython-cryptomsg](https://github.com/jacklinquan/micropython-cryptomsg) - 使用 AES CBC 模式加密和解密消息的 MicroPython 模块.
@@ -156,7 +156,7 @@
 
 #### IoT
 
-* [microhomie](https://github.com/microhomie/microhomie) - IoT 的 Homie MQTT 约定的 MicroPython 实现.
+* [microhomie](https://github.com/microhomie/microhomie) - MicroPython implementation of the Homie MQTT convention for IoT.
 * [uPyEcho](https://github.com/lemariva/uPyEcho) - 在 ESP32 上使用 MicroPython 模拟 Belkin WeMo 设备，与 Amazon Echo (Alexa) 配合使用.
 * [SonosRemote](https://github.com/foosel/SonosRemote) - 在 ESP8266 上运行并使用 Sonos HTTP API 的 Sonos 安装遥控器.
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) - 基于 MicroPython 的脚本，可扩展您的 Home Assistant 驱动的家庭自动化项目.
@@ -179,7 +179,7 @@
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Grid-EYE 热红外阵列传感器 (Adafruit 3538) 的驱动程序.
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - YS-IRTM 5V NEC 红外 UART 收发器的 MicroPython 示例.
 * [esp8266_ir](https://github.com/ruoyu0088/esp8266_ir) - 通过WebSocket控制红外信号.
-* [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython ESP32 IR Transceiver.
+* [micropython_espX_IR_Transceiver](https://github.com/gamefunc/micropython_espX_IR_Transceiver) - MicroPython ESP32 红外收发器.
 * [pico-ir](https://github.com/bartoszadamczyk/pico-ir) - Raspberry Pi Pico 的 IR 库.
 * [esp32-ir-remote](https://github.com/cbrand/esp32-ir-remote) - 用于运行 ESP32 IR 遥控器的 MicroPython 项目.
 
@@ -224,7 +224,7 @@
 * [uMQTT](https://github.com/andrewmk/uMQTT) - WiPy 板上针对 MicroPython 的 MQTT 发布.
 * [micropython-mqtt](https://github.com/chrismoorhouse/micropython-mqtt) - 异步 MQTT 库，可自动重新连接 MicroPython 设备，例如 ESP32 或 Pycom 设备.
 * [micropython-adafruit-mqtt-esp8266](https://github.com/miketeachman/micropython-adafruit-mqtt-esp8266)  - 使用 MQTT 发布/订阅 Adafruit IO.  ESP8266/ESP32 上的 MicroPython/CircuitPython 实现.
-* [MicropythonCayenneMQTTClient](https://github.com/uraich/MicropythonCayenneMQTTClient) - A port of the Python Cayenne MQTT Client to MicroPython.
+* [MicropythonCayenneMQTTClient](https://github.com/uraich/MicropythonCayenneMQTTClient) - Python Cayenne MQTT 客户端到 MicroPython 的端口.
 * [mqtt_upython](https://github.com/matbgn/mqtt_upython) - 在 ESP8266 上使用 MicroPython 的 MQTT 客户端.
 * [tinymqtt](https://github.com/belyalov/tinymqtt) - MicroPython 的异步 MQTT 客户端.
 * [micropython-mqtt-thingspeak](https://github.com/miketeachman/micropython-mqtt-thingspeak) - 使用 MQTT 和 MicroPython 发布和订阅 ThingSpeak.
@@ -243,7 +243,7 @@
 
 * [esp8266_ntp_webserver](https://github.com/Roterfux/esp8266_ntp_webserver) - MicroPython + ESP8266 + NTP + 网络服务器.
 * [micropython-ntpd](https://github.com/dave2/micropython-ntpd) - MicroPython 中 NTP 守护进程的实现.
-* [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - 为 MicroPython 编写的 NTP 服务器.
+* [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
 * [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - 使用 uasyncio 的 MicroPython NTP 客户端.
 
 #### OneWire
@@ -288,7 +288,7 @@
 
 #### RFID
 
-* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - NXP MFRC522 RFID 读写器的驱动程序.
+* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
 * [micropython-wiegand](https://github.com/pjz/micropython-wiegand) - 韦根协议阅读器.
 * [urdm6300](https://github.com/membermatters/urdm6300) - 适用于流行的 RDM6300 RFID 读卡器的 MicroPython 驱动程序.
 
@@ -375,6 +375,7 @@
 * [thimble](https://github.com/DavesCodeMusings/thimble) - MicroPython 的小型 Web 框架.
 * [CaptiveWebServer](https://github.com/joewez/CaptiveWebServer) - 简单的 MicroPython Web 服务器，用于从强制门户提供网站服务.
 * [micropython-urouter](https://github.com/whales-chen/micropython-urouter) - A lightweight HTTP request routing processing support library based on MicroPython. The previous name was micro-route.
+* [wlan-relays](https://github.com/oliver-joos/wlan-relays) - 用 MicroPython 编写的非常简单的 HTTP 服务器，用于控制 ESP32 板的引脚.
 
 #### WiFi
 
@@ -512,7 +513,7 @@
 * [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) - 带开关的 TM1638 双四 7 段 LED 模块驱动器.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) - TM1740 8x8 LED 矩阵模块的驱动器.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) - MicroPython 库，用于由 TM1640 控制的 16 位 7 段显示器.
-* [TM74HC595](https://github.com/Sakartu/TM74HC595) - Driver for shift register-controlled 5 pin display modules.
+* [TM74HC595](https://github.com/Sakartu/TM74HC595) - 移位寄存器控制的 5 针显示模块的驱动器.
 * [micropython-tm1638spi](https://gitlab.com/robhamerling/micropython-tm1638spi) - 适用于流行板的 MicroPython 库，具有 8 个 7 段数字、8 个独立的 LED 和 8 个由 TM1638 控制的按钮.
 
 #### LEDs
@@ -700,7 +701,7 @@
 * [MicroPython_BMA220](https://github.com/jposada202020/MicroPython_BMA220) - 适用于博世 BMA220 加速度计的 MicroPython 驱动程序.
 * [MicroPython_BMA400](https://github.com/jposada202020/MicroPython_BMA400) - 适用于博世 BMA400 加速度计的 MicroPython 驱动程序.
 * [MicroPython_LIS3DH](https://github.com/jposada202020/MicroPython_LIS3DH) - LIS3DH 3 轴加速度计的 MicroPython 驱动程序.
-* [MicroPython_KX132](https://github.com/jposada202020/MicroPython_KX132) - MicroPython Driver for the Kionix KX132 Accelerometer.
+* [MicroPython_KX132](https://github.com/jposada202020/MicroPython_KX132) - Kionix KX132 加速度计的 MicroPython 驱动程序.
 * [MicroPython_H3LIS200DL](https://github.com/jposada202020/MicroPython_H3LIS200DL) - ST H3LIS200DL 加速度计的 MicroPython 驱动程序.
 * [MicroPython_QMC5883L](https://github.com/jposada202020/MicroPython_QMC5883L) - QMC5883L 加速度计的 MicroPython 驱动程序.
 * [Micropython_MC3479](https://github.com/jposada202020/Micropython_MC3479) - MC3479 加速度计的 MicroPython 驱动程序.
@@ -790,7 +791,7 @@
 
 #### Distance Ultrasonic
 
-* [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - HC-SR04 超声波距离传感器驱动程序.
+* [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
 * [micropython-us100](https://github.com/kfricke/micropython-us100) - US-100 声纳距离传感器的 MicroPython 驱动程序.
 * [micropython-i2c-ultrasonic](https://github.com/HowManyOliversAreThere/micropython-i2c-ultrasonic) - 用于基于 RCWL-9620 的 M5 I2C 超声波距离单元的 MicroPython 驱动程序.
 
@@ -923,7 +924,7 @@
 * [micropython-tmp1075](https://github.com/mattytrentini/micropython-tmp1075) - TI TMP1075 温度传感器的驱动程序.
 * [micropython-sht11](https://github.com/2black0/micropython-sht11) - Sensirion SHT11 温度和湿度传感器的驱动程序.
 * [micropython-lm75a](https://github.com/mcauser/micropython-lm75a) - NXP LM75A 数字温度传感器的驱动程序.
-* [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - MicroPython driver for the BME680 sensor.
+* [BME680-Micropython](https://github.com/robert-hh/BME680-Micropython) - BME680 传感器的 MicroPython 驱动程序.
 * [htu21d-esp8266](https://github.com/julianhille/htu21d-esp8266) - 这是一个 MicroPython 模块/类，用于测量来自 HTU21D 的数据.
 * [HTU21D](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/HTU21D.md) - HTU21D温度和湿度传感器的异步驱动器.
 * [esp-sht3x-micropython](https://github.com/HAIZAKURA/esp-sht3x-micropython) - 使用 MicroPython 的用于 ESP8266/ESP32 的 SHT3x (SHT30/31/35) 库.
@@ -931,7 +932,7 @@
 * [micropython-sht30](https://github.com/schinckel/micropython-sht30) - 基于 I2C 总线的纯 Python 中的 SHT30 传感器驱动程序.
 * [micropython_ahtx0](https://github.com/targetblank/micropython_ahtx0) - 适用于 AHT10 和 AHT20 温度和湿度传感器的 MicroPython 驱动程序.
 * [sht85](https://github.com/octaprog7/sht85) - MicroPython 驱动程序 [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) 湿度和温度传感器.
-* [micropython-zacwire](https://github.com/mdaeron/micropython-zacwire) - MicroPython driver for the ZACwire protocol used in TSic 506F temperature sensors.
+* [micropython-zacwire](https://github.com/mdaeron/micropython-zacwire) - 用于 TSic 506F 温度传感器中使用的 ZACwire 协议的 MicroPython 驱动程序.
 * [MicroPython_HTU31D](https://github.com/jposada202020/MicroPython_HTU31D) - 适用于 TE HTU31D 温度和湿度传感器的 MicroPython 库.
 * [MicroPython_SHTC3](https://github.com/jposada202020/MicroPython_SHTC3) - 适用于 Sensirion SHTC3 温度和湿度传感器的 MicroPython 驱动程序.
 * [MicroPython_TMP117](https://github.com/jposada202020/MicroPython_TMP117) - TMP117 温度传感器的 MicroPython 驱动程序.
@@ -1033,7 +1034,7 @@
 
 ## Tutorials
 
-* [uasyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - 编写与硬件设备交互的异步代码.
+* [uasyncio](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md) - 编写与硬件设备接口的异步代码.
 * [Asynchronous drivers](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/DRIVERS.md) - 开关、按钮、编码器和 ADC 异步接口的教程和代码.
 * [Pyboard micropower](https://github.com/peterhinch/micropython-micropower) - Pyboard 1.x 和 Pyboard D 上低功耗应用程序的教程和代码.
 * [3D rotation with quaternions](https://github.com/peterhinch/micropython-samples/blob/master/QUATERNIONS.md) - 进行 3D 旋转的简单方法的教程和代码.
