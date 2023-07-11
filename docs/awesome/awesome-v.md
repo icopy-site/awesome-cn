@@ -35,6 +35,7 @@
 
 ### Editors
 
+- [polygon-editor](https://github.com/ArtemkaKun/polygon-editor) - 使用精灵查找创建和编辑 2D 多边形的工具，在 V 中创建.
 - [text_editor](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - 来自官方 V 示例的小型文本编辑器.
 - [ved](https://github.com/vlang/ved)  - 用 V 编写的 1 MB 文本编辑器，具有硬件加速文本渲染功能. 编译时间 &lt;1 秒.
 - [vee](https://github.com/Larpon/vee)  - V 编辑器引擎.  AV 模块提供文本编辑器的功能. 配有 [TUI editor example](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
@@ -93,7 +94,7 @@
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表*[Is V still fast?](https://fast.vlang.io/)*.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
@@ -114,7 +115,7 @@
 
 - [bartender](https://github.com/tobealive/bartender) - V 术语应用程序的无麸质棒.
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！
-- [lol](https://github.com/0xLeif/lol) - V 版 lolcat（文本/角色彩虹化者）.
+- [lol](https://github.com/0xLeif/lol) - V 版 lolcat（文本/角色彩虹化器）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [spinners](https://github.com/rhygg/spinners) - 在您的终端中创建旋转器！
 - [termtable](https://github.com/serkonda7/termtable) - V 终端表：简单且高度可定制的库，用于在终端中显示表格.

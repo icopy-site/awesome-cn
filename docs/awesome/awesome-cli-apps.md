@@ -208,7 +208,7 @@
 
 - [Timetrap](https://github.com/samg/timetrap) - 简单的时间追踪器.
 - [moro](https://github.com/omidfi/moro) - 用于跟踪工作时间的简单工具.
-- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 具有简单秒表、基于日历的回填和灵活报告的实用程序.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - 为客户生成报告并管理您的时间.
 - [utt](https://github.com/larose/utt) - 简单的时间跟踪工具.
 - [Bartib](https://github.com/nikolassv/bartib) - 易于使用的时间跟踪工具.
@@ -261,6 +261,7 @@
 - [crawley](https://github.com/s0rg/crawley) - Unix 方式的网络爬虫.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有 Chrome 标签.
 - [alex](https://github.com/get-alex/alex) - 发现不敏感、不考虑他人的写作.
+- [clevercli](https://github.com/clevercli/clevercli) - ChatGTP 支持的实用程序集合.
 
 ### macOS
 
@@ -294,7 +295,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面壁纸.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器、终端、壁纸、Slack 等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为壁纸.
-- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后将它们应用于系统范围内的所有您喜爱的程序.
+- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后将它们应用于系统范围内的所有您喜欢的程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
 - [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
@@ -359,7 +360,7 @@
 ### Internet Speedtest
 
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用 speedtest.net 测试互联网连接速度和 ping.
-- [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同 UI 的“speedtest-net”包装器.
+- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用 speedtest.net 测试互联网带宽.
 - [bandwhich](https://github.com/imsnif/bandwhich) - 按进程跟踪带宽利用率.
 
@@ -374,6 +375,7 @@
 - [Wat](https://github.com/dthree/wat) - 即时、集中、社区构建的文档.
 - [teachcode](https://github.com/madlabsinc/teachcode) - 最早的编码课程指南.
 - [navi](https://github.com/denisidoro/navi) - 交互式备忘单工具.
+- [yai](https://github.com/ekkinox/yai) - 人工智能终端助手.
 
 ## Data Manipulation
 
@@ -381,7 +383,7 @@
 
 ### Processors
 
-- [jq](https://github.com/stedolan/jq) - JSON processor.
+- [jq](https://github.com/stedolan/jq) - JSON 处理器.
 - [yq](https://github.com/kislyuk/yq) - YAML 处理器.
 - [dasel](https://github.com/tomwright/dasel) - JSON/YAML/TOML/XML 处理器（如 jq/yq）.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - 查询/更新 YAML.
@@ -446,7 +448,7 @@
 - [entr](https://github.com/eradman/entr) - 文件更改时运行任意命令.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - Rust 中的organize-cli 具有更多自定义功能.
-- [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
+- [RecoverPy](https://github.com/PabloLec/RecoverPy) - 恢复被覆盖或删除的文件.
 
 ### File Sync/Sharing
 

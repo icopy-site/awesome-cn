@@ -344,7 +344,7 @@
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计模型的三个系列的回顾.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计解释.
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计说明.
 
 * [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
@@ -607,7 +607,6 @@
 * [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***认知科学趋势***，2023 年. [[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651&hl=en&as_sdt=2005&sciodt=0,5) ]. 概述了计算和生物学原理的综述，这些原理使大脑能够通过创建灵活适应不断变化的目标的抽象来计算选项或行动的有用性.
 
 * [Value signals guide abstraction during learning](https://elifesciences.org/articles/68943) -***eLife***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=10324834842795908439&hl=en&as_sdt=0,5)].
-
 
 * [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***机器学习***，1991. [[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473&hl=en&as_sdt=0,5)].
 
@@ -1086,6 +1085,7 @@
 * [Constraint relaxation and chunk decomposition in insight problem solving](https://www.hf.uni-koeln.de/data/fgpsych/File/Haider/Knoblich_etal_1999.pdf) - ***实验心理学杂志***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=8057214169831054227&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/1999-01477-011)].
 
 * [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***实验心理学杂志***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2002-01361-014)].
+
 
 
 #### Rationality
@@ -2050,7 +2050,7 @@
 
 * [The Book of Why: The New Science of Cause and Effect](http://bayes.cs.ucla.edu/WHY/) - ***基础书籍***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=2505901292485349932&hl=en&as_sdt=0,5)].
 
-* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) -***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
+* [Causality: Models, Reasoning and Inference](https://hk1lib.org/book/2780725/2ec8f1?id=2780725&secret=2ec8f1) - ***剑桥大学出版社***，2009 年. [[All Versions](https://scholar.google.com/scholar?cluster=10996260119229499611&hl=en&as_sdt=0,5&as_vis=1)].
 
 
 

@@ -4,7 +4,7 @@
 
 精选的开发人员优先产品列表.  
 我确信你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
-你可以关注我 [Twitter](https://twitter.com/agammore) 了解更多与开发相关的内容:) 
+您可以关注 [Agam](https://twitter.com/agammore) 和 [flo](https://twitter.com/fmerian) 了解更多与开发相关的内容:) 
 
 此存储库的开发人员优先的定义是：
 * 开发者是目标受众.
@@ -212,7 +212,7 @@
 * [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
 
 ## Monitoring
-*监控您的生产应用.*
+*监控您的生产应用程序.*
 * [KeenIO](https://keen.io/) - 事件流平台.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.

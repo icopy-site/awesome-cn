@@ -113,7 +113,7 @@
 
 - [apollo-server](https://github.com/apollographql/apollo-server)  - 符合规范且可用于生产的 JavaScript GraphQL 服务器，可让您以模式优先的方式进行开发. 专为 Express、Connect、Hapi、Koa 等而构建.
 - [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用 Hapi 创建 GraphQL HTTP 服务器.
-- [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
+- [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于 GraphiQL 集成的 HAPI 插件.
 - [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa 中间件，从头开始实现 GraphQL.js 并支持原生 ESM.
 - [koa-graphql](https://github.com/chentsulin/koa-graphql) - GraphQL Koa 中间件.
 - [graphql-koa-scripts](https://github.com/ryanhs/graphql-koa-scripts)  - 简化了 GraphQL Koa 1 文件. 对于快速测试很有用
@@ -127,7 +127,7 @@
 
 - [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL 的 Sequelize 助手.
 - [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 一些帮助围绕 BookshelfJS 模型定义 GraphQL 模式.
-- [join-monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+- [join-monster](https://github.com/acarl005/join-monster) - 用于批量数据获取的 GraphQL 到 SQL 查询执行层.
 
 ##### PubSub
 
@@ -240,7 +240,7 @@
 - [graphqlite](https://github.com/thecodingmachine/graphqlite) - 与框架无关的库，允许您通过注释 PHP 类来编写 GraphQL 服务器.
 - [siler](https://github.com/leocavalcante/siler) - 普通的旧函数为具有订阅支持的 GraphQL 服务器提供声明性 API.
 - [graphql-request-builder](https://github.com/dpauli/php-graphql-request-builder) - 在 GraphQL 结构中构建请求负载.
-- [drupal/graphql](https://www.drupal.org/project/graphql) - 为 Drupal 8+ 制作并公开 GraphQL 架构.
+- [drupal/graphql](https://www.drupal.org/project/graphql) - 为 Drupal 8+ 制作并公开 GraphQL 模式.
 
 <a name="php-example" />
 
@@ -277,7 +277,7 @@
 
 #### Python Examples
 
-- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - A GraphQL schema and server using [Graphene](https://graphene-python.org).
+- [swapi-graphene](https://github.com/graphql-python/swapi-graphene) - GraphQL 架构和服务器使用 [Graphene](https://graphene-python.org).
 - [Python Backend Tutorial](https://hasura.io/learn/graphql/backend-stack/languages/python/) - 有关创建 GraphQL 服务器的教程 [Strawberry](https://strawberry.rocks/) 和一个客户 [Qlient](https://qlient-org.github.io/python-qlient/site/).
 
 <a name="java" />
@@ -303,7 +303,7 @@
 - [Light Java GraphQL](https://github.com/networknt/light-graphql-4j)：一个轻量级、快速的微服务框架，解决了所有横切问题并准备插入 GraphQL 模式.
 - [Elide](https://elide.io)：一个 Java 库，可以将 JPA 带注释的数据模型公开为任何关系数据库上的 GraphQL 服务.
 - [federation-jvm](https://github.com/apollographql/federation-jvm) - JVM 上的 Apollo Federation.
-- [graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/网关库，支持架构缝合和 Apollo Federation 指令，将多个 GraphQL 微服务的架构组合成一个统一的架构.
+- [graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway 库，支持架构缝合和 Apollo Federation 指令，将多个 GraphQL 微服务的架构组合成一个统一的架构.
 - [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation) - 为 graphql-java 提供字段和字段参数的扩展验证.
 - [dgs-extended-formatters](https://github.com/setchy/dgs-extended-formatters) - 用于常见格式化用例的一组实验性 DGS 指令.
 
@@ -331,7 +331,7 @@
 - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin 实现.
 - [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  - 全面的 GraphQL 客户端使用. 模式优先. 类型安全的 GraphQL 类型、查询和结果，没有代码生成器、没有 POJO、没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 使用 IntelliJ IDEA 和 Android Studio. 请参阅 [Kotlin example](#example-kotlin) 以下.
 - [KGraphQL](https://github.com/aPureBase/KGraphQL)：用于设置 GraphQL 服务器的纯 Kotlin 实现.
-- [Kobby](https://github.com/ermadmi78/kobby) - Codegen插件 [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) 通过 GraphQL 模式. 生成的 DSL 支持在 Kotlin 中执行复杂的 GraphQL 查询、突变和订阅，其语法类似于原生 GraphQL 语法.
+- [Kobby](https://github.com/ermadmi78/kobby) - Codegen plugin of [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) 通过 GraphQL 模式. 生成的 DSL 支持在 Kotlin 中执行复杂的 GraphQL 查询、突变和订阅，其语法类似于原生 GraphQL 语法.
 - [Graphkt](https://github.com/cufyorg/graphkt) - 一个基于 DSL 的 kotlin graphql 服务器库，由 graphql-java 支持.
 
 <a name="kotlin-example" />
@@ -356,7 +356,7 @@
 - [graphql](https://github.com/graphql-go/graphql) - GraphQL for Go 的实现遵循 graphql-js
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - 注重易用性的 GraphQL 服务器.
 - [gqlgen](https://github.com/99designs/gqlgen) - 生成基于 graphql 服务器库.
-- [graphql-relay-go](https://github.com/graphql-go/relay) - 一个 Go/Golang 库，可帮助构建支持 React-relay 的服务器.
+- [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 - [graphjin](https://github.com/dosco/graphjin) ：使用 GraphQL 在 5 分钟内构建 API. 即时 GraphQL 到 SQL 编译器.
 
 <a name="go-example" />
@@ -557,7 +557,7 @@
 ### Julia
 
 - [Diana.jl](https://github.com/codeneomatrix/Diana.jl) - Julia GraphQL 客户端/服务器实现.
-- [GraphQLClient.jl](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
+- [GraphQLClient.jl](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - Julia GraphQL 客户端，用于与服务器无缝集成.
 
 <a name="crystal" />
 
@@ -690,7 +690,7 @@
 
 - [DatoCMS](https://www.datocms.com/) - 基于 CDN 的 GraphQL 无头内容管理系统.
 - [Apito](https://apito.io/) - 基于云的无头 CMS，具有 CDN、Webhooks、团队协作、内容修订、云功能.
-- [GraphCMS](https://graphcms.com/) - 基于 GraphQL 的无头内容管理系统.
+- [Hygraph](https://hygraph.com/) - 构建可扩展的内容体验.
 - [Cosmic](https://www.cosmicjs.com/) - GraphQL 支持的 Headless CMS 和 API 工具包.
 
 <a name="book" />
@@ -698,7 +698,7 @@
 ## Books
 
 - [The GraphQL Guide](https://graphql.guide) 作者：约翰·雷西格和洛伦·桑兹·拉姆肖
-- [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
+- [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) 作者：布鲁斯·威廉姆斯和本·威尔逊
 - [The Road to GraphQL](https://www.roadtographql.com/)
 - [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) 通过萨梅尔·布纳
 - [Practical GraphQL](https://leanpub.com/book-graphql) 丹尼尔·施密茨

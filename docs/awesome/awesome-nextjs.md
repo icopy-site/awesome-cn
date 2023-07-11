@@ -182,6 +182,8 @@ _列表的灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列
 - [Tottem](https://github.com/poulainv/tottem) - 使用 NextJs / Auth0 / Apollo Tools / Prisma2 构建的类固醇书签管理器
 - [Slow TV Map](https://slowtvmap.com)  - 一种发现轻松虚拟体验的有趣方式.  Next.js + Chakra UI + MySQL 托管在 Vercel 上.
 - [Twitter Clone](https://github.com/AlandSleman/t3-twitter-clone) - 使用 Next.js + T3 Stack + NextAuth + Supabase + Prisma 构建的 Twitter 克隆.
+- [Taxonomy](https://github.com/shadcn/taxonomy) - 使用 Next.js 13 服务器组件构建的示例应用程序.
+- [shadcn/ui](https://github.com/shadcn/ui) - 设计精美的组件，您可以将其复制并粘贴到您的应用程序中.
 
 ## Books
 

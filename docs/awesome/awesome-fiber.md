@@ -36,7 +36,7 @@ Fiber 框架中包含的中间件列表.
 - [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - Fiber 的文件系统中间件，特别感谢 Alireza Salary.
 - [Helmet](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - 通过设置各种 HTTP 标头来帮助保护您的应用程序.
 - [Idempotency](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Fiber 的幂等性中间件允许在重复请求时使用容错 API.
-- [Keyauth](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - 密钥身份验证中间件提供基于密钥的身份验证.
+- [Keyauth](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
 - [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter)  - 限速中间件. 用于限制对公共 API 和/或端点的重复请求，例如密码重置.
 - [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP 请求/响应记录器.
 - [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - 受express-status-monitor启发，报告服务器指标的监控中间件.
@@ -108,6 +108,7 @@ Fiber 的预制样板.
 - [firebase007/go-rest-api-with-fiber](https://github.com/firebase007/go-rest-api-with-fiber) - 带有 Fiber、日志记录、basicAuth 和 postgresql 的演示项目.
 - [chawk/go_fiber_quickstart](https://github.com/chawk/go_fiber_quickstart) - 光纤快速启动示例项目.
 - [EricLau1/go-fiber-auth-api](https://github.com/EricLau1/go-fiber-auth-api) - 使用 Fiber MongoDB 和 JWT 的 Golang 身份验证 API.
+- [alpody/golang-fiber-realworld-example-app](https://github.com/alpody/golang-fiber-realworld-example-app) - 使用 Fiber、Gorm、Swagger 构建的真实后端 API 示例. 
 
 ## 🛠️ Tools
 多种使 Fiber 使用更轻松的工具.

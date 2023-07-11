@@ -14,9 +14,11 @@
 ### Admin
 
 - [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin)  - 功能管理面板，提供用于对数据执行 CRUD 操作的用户界面. 目前仅适用于 Tortoise ORM.
+- [FastAPI Amis Admin](https://github.com/amisadmin/fastapi-amis-admin) - 高性能、高效且易于扩展的 FastAPI 管理框架.
 - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) - 强大且现代的管理 GUI，使用 Piccolo ORM.
-- [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) - 适用于 SQLAlchemy 模型的 FastAPI/Starlette 管理面板.
+- [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 - [Starlette Admin](https://github.com/jowilf/starlette-admin) - FastAPI/Starlette 的管理框架，支持 SQLAlchemy、SQLModel、MongoDB 和 ODMantic.
+
 
 ### Auth
 
@@ -92,7 +94,7 @@
 - [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) - 请求ID记录中间件.
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) - 一个简单的轻量级缓存系统.
 - [FastAPI Cache](https://github.com/long2ice/fastapi-cache) - 缓存 FastAPI 响应和函数结果的工具，支持 Redis、Memcached、DynamoDB 和内存后端.
-- [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+- [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) - 添加 Chameleon 模板语言与 FastAPI 的集成.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - 一套自以为是的实用程序：分页、身份验证中间件、权限、自定义异常处理程序、MongoDB 支持和 Opentracing 中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) - FastAPI 路由器，可自动为您的模型创建和记录 CRUD 路由.
 - [FastAPI Events](https://github.com/melvinkcx/fastapi-events) - FastAPI 和 Starlette 的异步事件调度/处理库.
@@ -130,7 +132,7 @@
 
 ### External Resources
 
-- [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) - 多篇特定于 FastAPI 的文章，重点关注开发和测试可用于生产的 RESTful API、提供机器学习模型等.
+- [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) - 多篇特定于 FastAPI 的文章，重点关注开发和测试生产就绪的 RESTful API、提供机器学习模型等.
 
 ### Podcasts
 
@@ -140,7 +142,7 @@
 ### Articles
 
 - [FastAPI has Ruined Flask Forever for Me](https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da)
-- [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - 深入了解您可能想要从 Flask 迁移到 FastAPI 的原因.
+- [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
 
 ### Tutorials
 
@@ -219,11 +221,11 @@ Frameworks:
 
 - [Chalice](https://github.com/aws/chalice)
 - [Mangum](https://mangum.io/) - 用于使用 AWS Lambda 和 API Gateway 运行 ASGI 应用程序的适配器.
-- [Vercel](https://vercel.com/) -（以前的时间）（[example](https://github.com/paul121/fastapi-zeit-now)).
+- [Vercel](https://vercel.com/) -（以前的时间）（[example](https://github.com/Snailedlt/Markdown-Videos)).
 
 Compute:
 
-- [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code](https://github.com/iwpnd/fastapi-aws-lambda-example))
+- [AWS Lambda](https://aws.amazon.com/lambda/) ([example](https://github.com/iwpnd/fastapi-aws-lambda-example))
 - [Google Cloud Functions](https://cloud.google.com/functions/)
 - [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 - [Google Cloud Run](https://cloud.google.com/run) ([example](https://github.com/anthonycorletti/cloudrun-fastapi))
@@ -245,7 +247,7 @@ Compute:
 - [FastAPI template](https://github.com/s3rius/FastAPI-template)  - 灵活、轻量级的 FastAPI 项目生成器. 它包括对 SQLAlchemy、多个数据库、CI/CD、Docker 和 Kubernetes 的支持.
 - [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi) - 使用 FastAPI、SQLModel 和 Google Cloud Run 构建 API 的样板.
 - [FastAPI with Firestore](https://github.com/anthonycorletti/firestore-fastapi) - 使用 FastAPI 和 Google Cloud Firestore 构建 API 的样板.
-- [fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
+- [fastapi-alembic-sqlmodel-async](https://github.com/jonra1993/fastapi-alembic-sqlmodel-async) - 这是一个使用 FastAPI、Alembic 和异步 SQLModel 作为 ORM 的项目模板.
 - [fastapi-starter-project](https://github.com/mirzadelic/fastapi-starter-project) - 使用 FastAPI、SQLModel、Alembic、Pytest、Docker、GitHub Actions CI 的项目模板.
 
 ### Docker Images
@@ -267,12 +269,14 @@ Compute:
 - FastAPI CRUD 示例：
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
+- [FastAPI with Observability](https://github.com/Blueswen/fastapi-observability) - 通过 OpenTelemetry 和 OpenMetrics 在 Grafana 上观察具有可观测性三大支柱的 FastAPI 应用程序：跟踪 (Tempo)、指标 (Prometheus)、日志 (Loki).
 - [DogeAPI](https://github.com/yezz123/DogeAPI) - 具有高性能的 API，可使用 OAuth2PasswordBearer 创建简单的博客和 CRUD.
 - [FastAPI Websocket Broadcast](https://github.com/kthwaite/fastapi-websocket-broadcast) - Websocket“广播”演示.
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) - 利用 FastAPI 和 Celery 以及 RabbitMQ 作为任务队列、Redis 作为 Celery 后端以及 Flower 来监控 Celery 任务的最小示例.
 - [JeffQL](https://github.com/yezz123/JeffQL/) - 使用 GraphQL 和 JWT 的简单身份验证和登录 API.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - 基于 FastAPI 的 JSON-RPC 服务器.
 - [Mailer](https://github.com/rclement/mailer) - 用于静态网站的极其简单的邮件程序微服务.
+- [Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos) - 用于生成缩略图以嵌入到您的 Markdown 内容中的 API.
 - [Nemo](https://github.com/harshitsinghai77/nemo-backend) - 与 Nemo 一起提高工作效率.
 - [OPAL (Open Policy Administration Layer)](https://github.com/authorizon/opal)  - 基于开放策略的实时授权更新； 使用 FastAPI、Typer 和 FastAPI WebSocket pub/sub 构建.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
