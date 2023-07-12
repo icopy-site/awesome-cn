@@ -29,6 +29,7 @@
 | [SatSale](https://github.com/SatSale/SatSale)  | 不收费 | 是的 | 是的 | 弱点： [swap to USDT on Liquid](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101) ，无 KYC |  Python. 比特币节点、闪电节点和 WooCommerce 可选.  |
 | [CypherpunkPay](https://cypherpunkpay.org/)  | 不收费 | 没有 | 是的 | 没有 |  Linux（1GB 内存）|
 | [Keagate](https://github.com/dilan-dio4/Keagate)  | 不收费 | 没有 | 是的 | 没有 |  1 GB 内存，Unix |
+| [LNURL Daemon](https://github.com/yanascz/lnurld)  | 不收费 | 是的 | 是的 | 没有 |  LND节点|
 
 ## Hosted Bitcoin Payment Processors
 

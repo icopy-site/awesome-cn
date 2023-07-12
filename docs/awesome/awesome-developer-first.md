@@ -31,6 +31,7 @@
 * [PoeticMetric](https://poeticmetric.com/) - 隐私第一、符合法规、速度极快的分析工具.
 * [PostHog](https://posthog.com/) - 开源产品分析平台.
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
+* [Tinybird](https://www.tinybird.co/) - 实时数据流至 API.
 
 ## Authentication & Identity
 *为您处理身份验证和用户身份的产品.*
@@ -81,7 +82,7 @@
 * [Clarifai](https://www.clarifai.com/) - 计算机视觉 API 集.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌认知度.
 * [Google Vision AI](https://cloud.google.com/vision) - Google 的 AI 视觉 API.
-* [Roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
+* [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
 
 ## Databases & Spreadsheets
 *存储数据并处理它.*
@@ -106,7 +107,7 @@
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署且不关心基础设施，适用于所有主要框架.
 * [Fly.io](https://fly.io/) - 通过位置感知服务部署 Docker 化的全栈应用程序（减少延迟）.
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展服务器.
-* [Koyeb](https://www.koyeb.com/) - 无服务器平台，可在几分钟内部署全栈应用程序和 API.
+* [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
 * [Qoddi](https://qoddi.com/) - Git 连接的应用程序托管平台.
@@ -146,7 +147,7 @@
 * [Unleash](https://www.getunleash.io/) - 开源、隐私第一、企业级功能管理解决方案.
 
 ## GEO
-*Location services.*
+*位置服务.*
 * [Mapbox](https://www.mapbox.com/) - 供开发人员使用的地图和位置产品.
 * [PlaceKit](https://placekit.io/) - 位置搜索 API.
 * [Radar](https://radar.io/) - 地理围栏和地理 API.
@@ -154,7 +155,7 @@
 
 ## IDE
 *扩展 IDE 并帮助开发的产品.*
-* [Codota](https://www.codota.com/) - AI code completions for your IDE.
+* [Codota](https://www.codota.com/) - 适用于您的 IDE 的 AI 代码补全.
     * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
 * [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
 
@@ -198,6 +199,7 @@
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息传递.
 * [Knock](https://knock.app) - 通知即服务.
 * [MagicBell](https://www.magicbell.com/) - 带有 API 和 UI 组件的实时通知系统.
+* [Novu](https://novu.co/) - 开源通知（电子邮件、短信、直接和推送）管理.
 * [Stream](https://getstream.io/) - 喂食和聊天即服务.
 * [Twilio](https://www.twilio.com/) - SMS、推送通知和 VoIP API.
 * [Vonage](https://www.vonage.com) - 视频、短信、聊天和语音 API.
@@ -212,7 +214,7 @@
 * [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
 
 ## Monitoring
-*监控您的生产应用程序.*
+*监控您的生产应用.*
 * [KeenIO](https://keen.io/) - 事件流平台.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.

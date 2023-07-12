@@ -32,6 +32,7 @@ Hydrogen 是 Shopify 用于无头商务的开源堆栈.
 ## Examples
 
 - [Hydrogen NodeJS Express Example](https://github.com/Shopify/hydrogen/tree/2023-04/examples/express)
+- [Tokengated Storefront Example](https://github.com/Shopify/gated-hydrogen-example)
 
 ## Apps & Integrations
 

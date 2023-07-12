@@ -127,7 +127,7 @@
 
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  ：版权： — 嵌入式软件的企业级静态分析. 支持 MISRA、CERT 和 AUTOSAR 编码标准.
 
-- [IKOS](https://github.com/nasa-sw-vnv/ikos) — A sound static analyzer for C/C++ code based on LLVM.
+- [IKOS](https://github.com/nasa-sw-vnv/ikos) — 基于 LLVM 的 C/C++ 代码健全静态分析器.
 
 - [Joern](https://joern.io) — 基于代码属性图的C/C++开源代码分析平台
 
@@ -217,7 +217,7 @@
 
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  ：版权： — 嵌入式软件的企业级静态分析. 支持 MISRA、CERT 和 AUTOSAR 编码标准.
 
-- [IKOS](https://github.com/nasa-sw-vnv/ikos) — A sound static analyzer for C/C++ code based on LLVM.
+- [IKOS](https://github.com/nasa-sw-vnv/ikos) — 基于 LLVM 的 C/C++ 代码健全静态分析器.
 
 - [Joern](https://joern.io) — 基于代码属性图的C/C++开源代码分析平台
 
@@ -371,7 +371,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [go vet](https://golang.org/cmd/vet) — 检查 Go 源代码并报告可疑情况.
 
-- [go-consistent](https://github.com/Quasilyte/go-consistent) :warning: — 分析器可帮助您使 Go 程序更加一致.
+- [go-consistent](https://github.com/Quasilyte/go-consistent) — 分析器可帮助您使 Go 程序更加一致.
 
 - [go-critic](https://github.com/go-critic/go-critic) — Go 源代码 linter，维护当前在其他 linter 中未实现的检查.
 
@@ -638,7 +638,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="php">PHP</h2>
 
 
-- [churn-php](https://github.com/bmitch/churn-php) — 帮助发现重构的良好候选者.
+- [churn-php](https://github.com/bmitch/churn-php) — 帮助发现重构的良好候选对象.
 
 - [dephpend](https://github.com/mihaeu/dephpend) — 依赖性分析工具.
 
@@ -841,7 +841,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :警告: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新型分析.
 
-- [radon](https://radon.readthedocs.io/en/latest) — 一个从源代码计算各种指标的 Python 工具.
+- [radon](https://radon.readthedocs.io/en/latest) — A Python tool that computes various metrics from the source code.
 
 - [refurb](https://github.com/dosisod/refurb)  — 用于翻新和现代化 Python 代码库的工具.  Refurb 很大程度上受到了 Clippy（Rust 的内置 linter）的启发.
 
@@ -888,7 +888,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [cane](https://github.com/square/cane) :warning: — 代码质量阈值检查作为构建的一部分.
 
-- [Churn](https://github.com/danmayer/churn)  :warning: — 为给定签入的项目提供流失文件、类和方法的项目. 随着时间的推移，该工具会累加改动的历史记录，以给出文件、类或方法在项目生命周期中更改的次数.
+- [Churn](https://github.com/danmayer/churn)  :warning: — 为给定签入的项目提供流失文件、类和方法的项目. 随着时间的推移，该工具会累加改动的历史记录，以给出文件、类或方法在项目生命周期内更改的次数.
 
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner)  — 用于 ruby​​ 编写的 Web 应用程序的静态分析安全扫描器. 它支持 Sinatra、Padrino 和 Ruby on Rails 框架.
 
@@ -1202,7 +1202,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: — Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 
-- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — 用于集成 clang-tidy 和 clang-format 的 linting C/C++ 代码的 Github Action，以收集以线程注释和/或注释形式提供的反馈.
+- [cpp-linter-action](https://cpp-linter.github.io/cpp-linter-action/) — 用于对 C/C++ 代码进行 linting 的 Github Action，集成 clang-tidy 和 clang-format 以收集以线程注释和/或注释形式提供的反馈.
 
 - [cqc](https://github.com/xcatliu/cqc) :warning: — 检查 js、jsx、vue、css、less、scss、sass 和 styl 文件的代码质量.
 
@@ -1694,7 +1694,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 - [kubeconform](https://github.com/yannh/kubeconform) — 快速 Kubernetes 清单验证器，支持自定义资源.
 它的灵感来自于，包含代码，并且旨在保持接近 [Kubeval](https://analysis-tools.dev/tool/kubeval)，但具有以下改进： * 高性能：将通过多个例程验证和下载清单，将下载的文件缓存在内存中 * 可配置的远程或本地模式位置列表，启用验证 Kubernetes 自定义资源 (CRD) 和离线验证功能 * 使用默认情况下，由 kubernetes-json-schema 项目维护的模式注册表的自更新分支 - 它保证所有最新版本的 Kubernetes 的模式都是最新的.
 
-- [KubeLinter](https://github.com/stackrox/kube-linter) — KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [KubeLinter](https://github.com/stackrox/kube-linter) KubeLinter 是一种静态分析工具，用于检查 Kubernetes YAML 文件和 Helm 图表，以确保其中代表的应用程序遵循最佳实践.
 
 - [kubeval](https://kubeval.instrumenta.dev) — 验证您的 Kubernetes 配置文件并支持多个 Kubernetes 版本.
 
@@ -1806,7 +1806,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="protobuf">协议缓冲区</h2>
 
 
-- [buf](https://buf.build) — 提供 CLI linter，强制实施良好的 API 设计选择和结构
+- [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 
 - [protolint](https://github.com/yoheimuta/protolint) — 可插入的 linter 和修复程序以强制执行 Protocol Buffer 样式和约定.
 
