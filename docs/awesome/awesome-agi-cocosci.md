@@ -161,7 +161,7 @@
 
 * [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789&secret=f39e15) -***劳特利奇***，1991. [[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895&hl=en&as_sdt=0,5) ]. 利普顿的《最佳解释推理》一书是绑架的一个特例.
 
-* [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) -***劳特利奇***，1956 年. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5) ]. 一本关于思维模式的经典书籍.
+* [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5) ]. 一本关于思维模式的经典书籍.
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) -***施普林格***，2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5) ]. 溯因推理的介绍性说明.
 
@@ -268,7 +268,7 @@
 
 #### Applications in AI
 
-* [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) -***自然***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5) ]. 逻辑溯因在生物设计中的典型应用.
+* [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) -***自然***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5)]. A canonical application of logical abduction on biodesign.
 
 * [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) -***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=6286436358625670901&hl=en&as_sdt=0,5) ]. 基于观察和解释的蛋白质结构预测方法的规范应用，而不是基于第一原理的方法.
 
@@ -399,7 +399,7 @@
 
 * [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***机器学习研究杂志***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5) ].  Tom Griffiths 和 Zoubin Ghahramani 对无限模型的评论，包括中式餐厅流程 (CRP) 和印度自助餐流程 (IBP).
 
-* [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI'05***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095&hl=en&as_sdt=0,5) ]. 第一篇将逻辑集成到非参数模型中的论文.
+* [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI&#39;05***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095&hl=en&as_sdt=0,5) ]. 第一篇将逻辑集成到非参数模型中的论文.
 
 * [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -1429,7 +1429,7 @@
 
 * [Towards a theory of commonsense visual reasoning](https://link.springer.com/chapter/10.1007%2F3-540-53487-3_59) - ***FSTTCS***，1990. [[All Versions](https://scholar.google.com/scholar?cluster=13178231862265713961&hl=en&as_sdt=0,5) ]. 关于视觉常识的原始论文.
 
-* [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - ***ACM 通讯***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203&hl=en&as_sdt=0,5) ]. 加里·马库斯 (Gary Marcus) 对人工智能常识性知识的评论.
+* [Commonsense reasoning and commonsense knowledge in artificial intelligence](http://cs.wellesley.edu/~cs125/reading/commonsenseAI.pdf) - ***ACM 通讯***，2015 年. [[All Versions](https://scholar.google.com/scholar?cluster=13786590180441485203&hl=en&as_sdt=0,5)]. Gary Marcus's review on commonsense knowledge in AI.
 
 * [From Recognition to Cognition: Visual Commonsense Reasoning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8953217) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=15467433880059136365&hl=en&as_sdt=0,5)]. [[Project](http://visualcommonsense.com/)].
 
@@ -1593,7 +1593,7 @@
 
 * [A Translation Approach to Portable Ontology Specifications](https://tomgruber.org/writing/ontolingua-kaj-1993.pdf) - ***知识获取***，1993. [[All Versions](https://scholar.google.com/scholar?cluster=14668658395073605123&hl=en&as_sdt=0,5)].
 
-* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5) ]. 关于答案集编程 (ASP) 的原始论文.
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) -***ICLPNR&#39;99***，1999 年. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5) ]. 关于答案集编程 (ASP) 的原始论文.
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***逻辑编程范式***，1999. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)]. 
 
@@ -1647,7 +1647,7 @@
 
 ### Cognitive Development
 
-* [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) -***DARPA***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5) ].  DARPA 将发展心理学的核心知识整合到机器智能系统中的观点.
+* [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5) ].  DARPA 将发展心理学的核心知识整合到机器智能系统中的观点.
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***维基百科***. 
 
@@ -1882,7 +1882,7 @@
   
 #####  **Cognitive Science**
   * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139) - ***DiGRA***，2018.
-  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) - ***Spatial Cognition'20***, 2020.
+  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) -***空间认知&#39;20***，2020.
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf) - ***ICCC&#39;20***，
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial&#39;20***，2020 年.
@@ -1980,11 +1980,11 @@
 
 ### UCSD
 
-* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***UCSD***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
+* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***加州大学圣地亚哥分校***， [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
 
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***加州大学圣地亚哥分校***， [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
 
-* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***加州大学圣地亚哥分校***， [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
 
 
 

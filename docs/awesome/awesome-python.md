@@ -274,7 +274,7 @@
 * [jsonschema](https://github.com/Julian/jsonschema) - 实施 [JSON Schema](http://json-schema.org/) 对于Python.
 * [schema](https://github.com/keleshev/schema) - 用于验证 Python 数据结构的库.
 * [Schematics](https://github.com/schematics/schematics) - 数据结构验证.
-* [valideer](https://github.com/podio/valideer) - 轻量级可扩展数据验证和适配库.
+* [valideer](https://github.com/podio/valideer) - 轻量级可扩展数据验证和适应库.
 * [voluptuous](https://github.com/alecthomas/voluptuous) - Python 数据验证库.
 
 ## Data Visualization
@@ -383,6 +383,7 @@
 * [SerpentAI](https://github.com/SerpentAI/SerpentAI)  - 游戏代理框架. 使用任何视频游戏作为深度学习沙箱.
 * [tensorflow](https://github.com/tensorflow/tensorflow) - Google 创建的最受欢迎的深度学习框架.
 * [Theano](https://github.com/Theano/Theano) - 用于快速数值计算的库.
+* [lightning](https://github.com/Lightning-AI/lightning) - 深度学习框架，可快速训练、部署和交付人工智能产品.
 
 ## DevOps Tools
 
@@ -485,7 +486,7 @@
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - 官方 VSCode 扩展，对 Python 提供丰富的支持.
 * 去
     * [PyCharm](https://www.jetbrains.com/pycharm/)  - JetBrains 的商业 Python IDE. 有免费的社区版可用.
-    * [spyder](https://github.com/spyder-ide/spyder) - 开源 Python IDE.
+    * [spyder](https://github.com/spyder-ide/spyder) - Open Source Python IDE.
 
 ## Email
 
@@ -625,7 +626,7 @@
 * [pyquery](https://github.com/gawel/pyquery) - 一个类似 jQuery 的库，用于解析 HTML.
 * [untangle](https://github.com/stchris/untangle) - 将 XML 文档转换为 Python 对象以便于访问.
 * [WeasyPrint](http://weasyprint.org) - 可以导出为 PDF 的 HTML 和 CSS 视觉渲染引擎.
-* [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
+* [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - 简单的 XML 解析.
 * [xmltodict](https://github.com/martinblech/xmltodict) - 使用 XML 就像使用 JSON 一样.
 
 ## HTTP Clients
@@ -693,7 +694,7 @@
 *交互式 Python 解释器 (REPL).*
 
 * [bpython](https://github.com/bpython/bpython) - Python 解释器的精美界面.
-* [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
+* [Jupyter Notebook (IPython)](https://jupyter.org) - 丰富的工具包可帮助您充分利用 Python 交互功能.
     * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 * [ptpython](https://github.com/jonathanslenders/ptpython) - 建立在高级 Python REPL 之上 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 
@@ -999,7 +1000,7 @@
     * [ReportLab](https://www.reportlab.com/opensource/) - 允许快速创建丰富的 PDF 文档.
 * 降价
     * [Mistune](https://github.com/lepture/mistune) - 最快且功能齐全的 Markdown 纯 Python 解析器.
-    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber’s Markdown.
+    * [Python-Markdown](https://github.com/waylan/Python-Markdown) - John Gruber 的 Markdown 的 Python 实现.
 * yaml
     * [PyYAML](http://pyyaml.org/) - Python 的 YAML 实现.
 * CSV
@@ -1140,7 +1141,7 @@
 *用于操作视频和 GIF 的库.*
 
 * [moviepy](https://zulko.github.io/moviepy/) - 用于基于脚本的电影编辑模块，具有多种格式，包括动画 GIF.
-* [scikit-video](https://github.com/aizvorski/scikit-video) - SciPy 的视频处理例程.
+* [scikit-video](https://github.com/aizvorski/scikit-video) - Video processing routines for SciPy.
 * [vidgear](https://github.com/abhiTronix/vidgear) - 最强大的多线程视频处理框架.
 
 ## Web Asset Management
@@ -1256,7 +1257,7 @@
 
 随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) 第一的.
 
-如果我不确定这些库是否很棒，我会保留一些拉取请求，你可以 [vote for them](https://github.com/vinta/awesome-python/pulls) 通过添加 :+1: 给它们. 当投票达到 **20** 时，Pull 请求将被合并.
+如果我不确定这些库是否很棒，我会保留一些拉取请求，您可以 [vote for them](https://github.com/vinta/awesome-python/pulls) 通过添加 :+1: 给它们. 当投票达到 **20** 时，Pull 请求将被合并.
 
 - - -
 
