@@ -81,6 +81,7 @@ Neovim 支持多种 UI.
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - 包装 LSP 操作的现代且有用的 UI.
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - 在函数定义上方显示函数引用，如 IDEA codelens.
 - [chrisgrieser/nvim-dr-lsp](https://github.com/chrisgrieser/nvim-dr-lsp) - 状态行组件显示LSP定义的数量和光标下令牌的引用.
+- [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - 为 efm-langserver 配置的非官方的 linter 和格式化程序集合，以便与内置 LSP 一起使用.
 
 ##### LSP Installer
 
@@ -364,7 +365,7 @@ Neovim 支持多种 UI.
 - [dasupradyumna/midnight.nvim](https://github.com/dasupradyumna/midnight.nvim) - 现代黑色 Neovim 主题，具有舒适的色彩对比，带来愉悦的视觉体验，并支持 LSP 和 Tree-sitter.
 - [sonjiku/yawnc.nvim](https://github.com/sonjiku/yawnc.nvim) - 使用 pywal 进行主题化，并带有 Base16 风格.
 - [sekke276/dark_flat.nvim](https://github.com/sekke276/dark_flat.nvim) - 用 Lua 编写的 Neovim 颜色方案，从 Dark Flat iTerm2 主题移植而来，支持 LSP 和 Tree-sitter.
-- [zootedb0t/citruszest.nvim](https://github.com/zootedb0t/citruszest.nvim) - 色彩方案结合了明亮多汁的颜色，让人想起各种柑橘类水果，并有 LSP 和 Tree-sitter 支持.
+- [zootedb0t/citruszest.nvim](https://github.com/zootedb0t/citruszest.nvim) - 色彩方案，结合了明亮多汁的颜色，让人想起各种柑橘类水果，并有 LSP 和 Tree-sitter 支持.
 - [2nthony/vitesse.nvim](https://github.com/2nthony/vitesse.nvim) - Vitesse 主题 Lua 端口.
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim)  - 受树林启发的深色柔和配色方案. 使用 lush 构建，支持 Tree-sitter、诊断、CMP、Git-Signs、Telescope、Which-key、Lazy 等.
 
@@ -580,7 +581,7 @@ Neovim 支持多种 UI.
 
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - nvim-bqf 的目标是使 Neovim 的快速修复窗口变得更好.
 - [gitlab.com/yorickpeterse/nvim-pqf](https://gitlab.com/yorickpeterse/nvim-pqf) - 更漂亮的快速修复/位置列表窗口.
-- [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua)  - 有时您会想要稍后修复某些线路. 将行存储到 qf 中并附上一些注释，这样当您真正想要修复它时就知道该怎么做.
+- [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua)  - 有时您会想要稍后修复某些线路. 将行存储到 qf 中并附上一些注释，以便您知道当您真正想要修复它时该怎么做.
 
 ### Test
 

@@ -87,14 +87,17 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 
 ### Image
 - [ImageScript](https://github.com/matmen/ImageScript) - JavaScript 中的图像处理，利用 WebAssembly 提高性能.
+- [monke](https://github.com/retraigo/monke) - 带有额外图像过滤器（模糊、反转等）的颜色量化和抖动库.
 
 ### Logging
 - [sentry_deno](https://github.com/GJZwiers/sentry_deno) - 用于 JavaScript 的 Sentry SDK 到 Deno 的非官方端口.
 - [dlog](https://github.com/dpmland/dlog) - 一个完整的记录器，用于带有图标或简单版本的提示！
 
 ### Machine learning
+- [classy-lala](https://github.com/retraigo/classy-lala) - 回归和分类库.
 - [netsaur](https://github.com/denosaurs/netsaur) - 强大的机器学习，由 WebGPU 加速
 - [synaptic](https://github.com/load1n9/synaptic) - 无依赖神经网络库移植到 deno
+- [vectorizer](https://github.com/retraigo/vectorizer) - 将文本转换为向量.
 
 ### Mail
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) - deno 的 smtp 邮件发送器.
@@ -154,7 +157,6 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [colors](https://github.com/retraigo/colors) - TypeScript 中的颜色转换和操作.
 - [croner](https://github.com/hexagon/croner) - Cron 库具有高级调度功能、记录完善的 API 和零依赖性.
 - [computed_types](https://github.com/neuledge/computed-types) - Joi 类似 Typescript 和 Deno 的验证器.
-- [cubic-bezier](https://github.com/retraigo/cubic-bezier) - 获取三次贝塞尔曲线中的点数组或在画布中可视化.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) - Deno Cache Clean，下次运行时重新加载 deps.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) - 带有等待生成器的文件观察器.
 - [deno-config](https://github.com/yooneskh/deno-config) - 通过 cli、.env 和 json 文件简化 deno 应用程序配置管理的实用程序
@@ -184,11 +186,10 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [fossil](https://github.com/matteocrippa/fossil) - 值类型验证套件.
 - [garn-yaml](https://github.com/jupegarnica/garn-yaml) - 读取或写入 yaml 插值环境变量.
 - [garn-validator](https://github.com/jupegarnica/garn-validator) - 轻松创建验证.
-- [invert-kv](https://github.com/denorg/invert-kv) - 反转 Deno 中的键值对.
+- [invert-kv](https://github.com/denorg/invert-kv) - Invert key-value pairs in Deno.
 - [lazy](https://github.com/luvies/lazy) - 类似 linq 的惰性求值迭代模块.
 - [locale-kit](https://deno.land/x/localekit) ([GitHub](https://github.com/locale-kit/locale-kit)) - 一个国际化/本地化/翻译 (i18n/l10n/t9n) 库，带有 Fresh 包装器并支持复数和动态替换.
 - [maze_generator](https://github.com/mjrlowe/maze_generator) - 用于生成、求解、分析和显示迷宫的 Javascript 模块.
-- [monke](https://github.com/retraigo/monke) - TypeScript 中的颜色量化和抖动.
 - [ms](https://github.com/denolib/ms) - 轻松将各种时间格式转换为毫秒.
 - [online](https://github.com/denorg/online) - 检查您当前在 Deno 是否在线.
 - [optionals](https://github.com/OliverBrotchie/optionals) - 类似 Rust 的错误处理和具有详尽模式匹配的选项.
@@ -215,9 +216,9 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 ### Web framework
 - [abc](https://github.com/zhmushan/abc) - 一个更好的 Deno 框架来创建 Web 应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) - Alosaur - 具有许多装饰器的 Deno Web 框架.
-- [attain](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
+- [attain](https://github.com/aaronwlee/Attain)  - Deno 的中间件 Web 框架，它使用受 Express 和 Oak 启发的 http 标准库. 快速稳定，内存使用适当.
 - [aqua](https://github.com/l2ig/aqua) - 一个最小且快速的 Deno Web 框架.
-- [cheetah](https://github.com/azurystudio/cheetah) - 现代网络的极快框架.
+- [cheetah](https://github.com/azurystudio/cheetah) - 现代网络的极速框架.
 - [danet](https://github.com/Savory/Danet) - Deno 的 Savory Web 框架深受启发 [Nest.js](https://nestjs.com).
 - [deno-express](https://github.com/NMathar/deno-express) - Node Express 移植到 Deno.
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra 类似 deno 的轻量级 Web 应用程序框架.
@@ -334,7 +335,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [Slack Custom Functions](https://api.slack.com/future/functions/custom) - 使用 Deno 构建自定义 Run On Slack 函数.
 - [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions 连接 Netlify 平台和工作流程.
 - [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - 边缘函数是服务器端 TypeScript 函数，分布在边缘的全局范围内.
-- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
+- [Astro](https://docs.astro.build/en/guides/deploy/deno/) - 将服务器端渲染的 Astro 站点部署到 Deno Deploy.
 
 ## Blogs/Newsletters
 - [Craig's Deno Diary](https://deno-blog.com) - 专注于 Deno 技术和 lib howtos 的博客.
@@ -357,7 +358,7 @@ Deno 是一个简单、现代且安全的 JavaScript 和 TypeScript 运行时，
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
 - [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
-- Deno REST API 与 Oak 教程系列 [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
+- Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Dissecting Deno](https://fettblog.eu/dissecting-deno/)
 - [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
 - [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)

@@ -4,7 +4,7 @@
 
 An [awesome list](https://github.com/sindresorhus/awesome) 用于构建、分析和可视化网络数据的资源.
 
-灵感来自 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math](https://github.com/rossant/awesome-math) 和别的.  2016年开始，此后不定期更新.
+灵感来自 [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -122,6 +122,8 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 -   _[Communities and Networks: Using Social Network Analysis to Rethink Urban and Community Studies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0745654207.html)_, by Katherine Giuffre (2013).
 -   _[Comparing Policy Networks. Labor Politics in the U.S., Germany, and Japan](http://www.cambridge.org/ar/academic/subjects/politics-international-relations/comparative-politics/comparing-policy-networks-labor-politics-us-germany-and-japan)_, by David Knoke _et al._ (1996).
+-   _[Conducting Personal Network Research: A Practical Guide](https://www.routledge.com/Conducting-Personal-Network-Research-A-Practical-Guide/McCarty-Lubbers-Vacca-Molina/p/book/9781462538386)_, by Christopher McCarty _et al._ (2019).
+    - _[Egocentric Network Analysis with R](https://raffaelevacca.github.io/egocentric-r-book/)_ - An online book/tutorial that covers a lot of similar ground.
 -   _[The Connected Past. Challenges to Network Studies in Archaeology and History](https://global.oup.com/academic/product/the-connected-past-9780198748519)_ edited by Tom Brughmans, Anna Collar and Fiona Coward (2016; [companion website](http://connectedpast.net/)).
 -   _[The Development of Social Network Analysis: A Study in the Sociology of Science](http://moreno.ss.uci.edu/)_, by Linton C. Freeman, in English and several other languages (2004; [follow-up paper, 2011](http://moreno.ss.uci.edu/91.pdf)).
 -   _[Dynamical Networks in Psychology: More Than A Pretty Picture?](https://www.researchgate.net/publication/308874807_Dynamical_networks_in_psychology_More_than_a_pretty_picture)_, by Laura Bringmann (2016; PhD dissertation).
@@ -138,7 +140,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   _[Theories of Communication Networks](https://global.oup.com/academic/product/theories-of-communication-networks-9780195160376)_, by Peter Monge and Nosh Contractor (2003).
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
- - _[事物的关联性. 网络和网络的文化史[物联网. 网络和网络的文化史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，作者：Sebastian Gießmann，德语（2014）.
+ - _[事物的关联性. 网络和网络的文化史[物联网. 网络和网络的文化史]](http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html)_，作者：Sebastian Gießmann，德语（2014 年）.
  - _[覆盖国家社会主义下的社交网络. 柏林受迫害犹太人援助网络的出现和工作方法【国家社会主义中隐藏的社交网络：柏林受迫害犹太人援助网络的起源和工作方法】](http://www.degruyter.com/view/product/432196 )_ ，作者：Marten Düring，德语（2015 年； [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
@@ -178,7 +180,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline)，作者 Matthew O. Jackson（斯坦福大学，Coursera，2015 年）.
 -   [Social Network Analysis](https://www.coursera.org/course/sna)，Lada Adamic（密歇根大学，通过 Coursera，尚未运行）.
 -   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) 和 [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes 和 slides (2014–5).
--   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
+-   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/)，作者：Andrej Mrvar（卢布尔雅那大学，2016 年）.
 -   [Social Networks](http://dennisfeehan.org/teaching/201701_demog260.html)，作者：Dennis M. Feehan（伯克利大学，2017 年）.
 -   [The Structure of Information Networks](https://www.cs.cornell.edu/Courses/cs6850/2008fa/)，作者 Jon Kleinberg - 链接到许多不同的读物（康奈尔大学，2008 年）.
 
@@ -203,7 +205,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Manlio De Domenico’s Complex Multilayer Networks](https://manliodedomenico.com/data.php).
 -   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 -   [Network Repository](http://networkrepository.com/) - 完全可搜索的数据库，包含数百个真实世界的网络.
--   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html)  - 来自 Albert-László Barabási 的《网络科学》一书的网络数据集. 包括有关 IMDB 参与者、arXiv 科学合作、路由器网络、美国电网、蛋白质间相互作用、手机用户、引文网络、代谢反应、电子邮件网络和 nd.edu 网页的数据.
+-   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html)  - 来自 Albert-László Barabási 的《网络科学》一书的网络数据集. 包括有关 IMDB 参与者、arXiv 科学合作、路由器网络、美国电网、蛋白质-蛋白质相互作用、手机用户、引文网络、代谢反应、电子邮件网络和 nd.edu 网页的数据.
     <!-- -   [Nexus](http://nexus.igraph.org/)  - GraphML 和 igraph 格式的网络数据集存储库.  --&gt;
 -   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - 挪威公司性别代表性的两种模式和一种模式数据.
 -   [Movie galaxies](http://moviegalaxies.com/) - 电影角色互动图数据库.
@@ -220,7 +222,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 ## Journals
 
- &gt; 不完全开放获取的期刊被标记为“门禁”. 另请注意，下面列出的一些出版商是 [deeply hurting](https://twitter.com/costofknowledge) 科学出版.
+ &gt; 不完全开放获取的期刊被标记为“门控”. 另请注意，下面列出的一些出版商是 [deeply hurting](https://twitter.com/costofknowledge) 科学出版.
 
 -   _[Applied Network Science](http://appliednetsci.springeropen.com/)_ (Springer Open).
 -   _[ARCS – Analyse de réseaux pour les sciences sociales / Network Analysis for the Social Sciences](http://arcs.episciences.org/)_, in English and in French ([GDR ARSHS](https://arshs.hypotheses.org/)).
@@ -286,7 +288,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Centre for Business Network Analysis, University of Greenwich](http://www.gre.ac.uk/business/research/centres/cbna/home) - 专注于经济/组织网络分析.
 -   [Center for Network Science, Central European University, Budapest](http://cns.ceu.edu/) - 拥有网络科学博士学位.
 -   [Complex Networks](http://www.complexnetworks.fr/) - 位于巴黎的研究小组.
--   [Cx-Nets](http://www.cxnets.org/) - 四个复杂网络研究小组之间的虚拟协作.
+-   [Cx-Nets](http://www.cxnets.org/) - Virtual collaboration between four complex networks research groups.
 -   [Data Science Group](http://datasciencegroup.pl/) - 位于弗罗茨瓦夫的研究小组，研究复杂网络和其他网络相关主题.
 -   [Digital Humanities](http://cmb.huma-num.fr/) - 柏林马克布洛赫中心的跨学科研究小组，拥有许多网络科学项目.
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/)， 在德国.
@@ -377,7 +379,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 - [网络分析统计模型简史和开放挑战][fienberg2012]（_计算与图形统计杂志_，2012）.
 -   [Basic Models and Questions in Statistical Network Analysis](https://projecteuclid.org/euclid.ssu/1504836152) （_统计调查_，2017 年）.
--   [Introduction to Stochastic Actor-Based Models for Network Dynamics](https://doi.org/10.1016/j.socnet.2009.02.004) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf) ;  _社交网络_，2010）.
+-   [Introduction to Stochastic Actor-Based Models for Network Dynamics](https://doi.org/10.1016/j.socnet.2009.02.004) ([preprint](http://www.stats.ox.ac.uk/~snijders/SnijdersSteglichVdBunt2009.pdf); _Social Networks_, 2010).
 -   [Navigating the Range of Statistical Tools for Inferential Network Analysis](https://doi.org/10.1111/ajps.12263) （_美国政治学杂志_，2017）.
 -   [Positional Analysis and Blockmodeling](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4614-1800-9_138) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/chapters/Positional_Analysis_and_Blockmodeling.pdf) ;  --&gt;_计算复杂性_，2012）.
 -   [Social Network Evolution and Actor Oriented Models](https://doi.org/10.4000/msh.2750) （_数学与社会科学_，1997）.
@@ -404,7 +406,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Mixed-Method Approaches to Social Network Analysis](http://eprints.ncrm.ac.uk/842/) （ESRC NCRM 讨论文件，2010 年）.
 -   [Network Analysis and Political Science](https://doi.org/10.1146/annurev.polisci.12.040907.115949) （_政治学年度评论_，2011）.
 -   [Network Analysis for International Relations](https://www.cambridge.org/core/journals/international-organization/article/div-classtitlenetwork-analysis-for-international-relationsdiv/DE2910979C1B5C44C4CC13F336C5DE97) （_国际组织_，2009）.
--   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) (_Science_, 2009).
+-   [Network Analysis in the Social Sciences](http://science.sciencemag.org/content/323/5916/892) （_科学_，2009）.
 -   [Networks and Trade](https://doi.org/10.1146/annurev-economics-080217-053506) （_经济学年度评论_，2018）.
 -   [Networks in Social Psychology, Beginning with Kurt Lewin](http://link.springer.com/10.1007%2F978-1-4614-6170-8_79) (<!-- [preprint](http://patrickdoreian.com/NEW/wp-content/papers_resources/new_papers_4-13/Networks_in_Socia_Psychology_Lewin.docx);  -->_[Encyclopedia of Social Network Analysis and Mining](https://www.springer.com/us/book/9781461461692)_, 2014).
 -   [Networks in the Understanding of Economic Behaviors](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.3) （《经济展望杂志》，2014 年）.
@@ -419,7 +421,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
  &gt; 自愿列出的应用、认识论和方法论文章的简短列表，其中许多已成为网络分析课程的经典读物. 面向积极主动的社会科学学生，之前很少或没有接触过网络分析.
 
 -   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm)，帕斯卡·克里斯托弗里 (Pascal Cristofoli)，法语 - 根据大规模在线数据回顾关系社会学和网络分析的现状（_Réseaux_，2008）.
--   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/)，作者：Steven M. Goodreau、James A. Kitts 和 Martina Morris - 指数随机图建模的逻辑和应用的简单介绍（_人口统计学_，2001 年）.
+-   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/)，作者：Steven M. Goodreau、James A. Kitts 和 Martina Morris - 指数随机图建模的逻辑和应用的简单介绍（人口统计学，2001 年）.
 -   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)，作者：Peter S. Bearman、James Moody 和 Katherine Stovel - 应用于情感和性关系网络的拓扑网络分析的经典示例（美国社会学杂志，2004 年）.
 -   [Coauthorship and Citation Patterns in the _Physical Review_](https://doi.org/10.1103/PhysRevE.88.012814)，作者：Travis Martin_et al._ - 通过时间网络分析对科学出版生产力和协作进行高度典型的研究（[preprint](https://arxiv.org/abs/1304.0473) ;  _物理评论E_，2013）.
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf)，乔恩·克莱因伯格 (Jon Kleinberg) - 讨论互联网和社交媒体背景下的小世界效应和社会传染（_ACM 通信_，2008 年）.
@@ -435,7 +437,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [Revisiting the Foundations of Network Analysis](http://science.sciencemag.org/content/325/5939/414)，作者：Carter T. Butts - 选择正确的网络表示来构建研究问题.
 -   [Robust Action and the Rise of the Medici, 1400-1434](http://home.uchicago.edu/~jpadgett/papers/published/robust.pdf)，作者：John F. Padgett 和 Christopher K. Ansell - 对文艺复兴时期佛罗伦萨国家权力关系的经典分析（_美国社会学杂志_，1993 年）.
 -   [The Strength of Weak Ties](https://sociology.stanford.edu/sites/default/files/publications/the_strength_of_weak_ties_and_exch_w-gans.pdf)，作者：Mark Granovetter - 将网络分析应用于社会问题的经典示例：求职（_美国社会学杂志_，1973 年）.
--   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) （《经济史杂志》，2005 年）和 [The Empirics of International Currencies: Network Externalities, History and Persistence](https://doi.org/10.1111/j.1468-0297.2009.02219.x) (_The Economic Journal_, 2009), both by Marc Flandreau and Clemens Jobst - Network analysis of the foreign exchange system in the late 19th century ([data](http://eh.net/database/international-currencies-1890-1910/)).
+-   [The Ties that Divide: A Network Analysis of the International Monetary System, 1890–1910](http://www.stats.ox.ac.uk/~snijders/FlandreauJobst2005.pdf) （《经济史杂志》，2005 年）和 [The Empirics of International Currencies: Network Externalities, History and Persistence](https://doi.org/10.1111/j.1468-0297.2009.02219.x) （《经济杂志》，2009 年），Marc Flandreau 和 Clemens Jobst 共同撰写 - 19 世纪末外汇体系的网络分析（[data](http://eh.net/database/international-currencies-1890-1910/)).
 -   [Topics in Social Network Analysis and Network Science](https://arxiv.org/abs/1404.0067)，作者：A. James O&#39;Malley 和 Jukka-Pekka Onnela - 50 页的网络分析介绍，对网络分析的各个方面都有适当的细节（_健康服务研究手册_，即将于 2017 年出版）.
 
 ## Software
@@ -463,7 +465,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - 用于预测人类流行病的跨平台工具.
 -   [Graph Commons](https://graphcommons.com/) - 用于绘制、分析和发布数据网络的协作平台.
 -   [Graphia](https://graphia.app/) - 用于可视化大型复杂网络的跨平台工具（[announcement](https://www.cnn.group.cam.ac.uk/news/Graphia-April19)).
--   [Graphviz](http://www.graphviz.org/) - 使用 DOT 图形绘制语言绘制图形的跨平台软件.
+-   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
 -   [Graphy](https://github.com/bruce/graphy) - 用 Ruby 编写的图论库.
 -   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) 模块执行图相关的并行计算.
 -   [Linkage](https://linkage.fr/) - 用于可视化和建模具有文本边缘的网络的在线工具.
@@ -502,7 +504,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [StOCNET](http://www.gmw.rug.nl/~stocnet/StOCNET.htm) - 多个 Windows 程序由与 Siena 相同的团队开发.
 -   [Tulip](http://tulip.labri.fr/)  - 构建在 C++ 库之上的跨平台网络分析和可视化框架，带有专用于特定生物和物理网络的插件. 也可通过其 [Python package](http://tulip.labri.fr/Documentation/current/tulip-python/html/index.html).
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - 用于分析社交网络数据的Windows商业软件包.
--   [Uberlink](http://www.uberlink.com/) - Software suite for online (hyperlink) network analysis, by the [VOSON](http://vosonlab.net/) 研究项目.
+-   [Uberlink](http://www.uberlink.com/) - 用于在线（超链接）网络分析的软件套件，由 [VOSON](http://vosonlab.net/) 研究项目.
     -   [VOSON System](http://www.uberlink.com/software#voson) - 基于网络的软件，用于收集和分析在线网络数据.
     -   [VOSON Data Provider for NodeXL](http://www.uberlink.com/software#voson-nodexl) ([quick tutorial](https://blogs.k-state.edu/it-news/2013/04/09/the-nodexl-series-using-voson-for-hyperlink-network-analysis-part-9/) ; 将于 2016 年停产）.
     -   [vosonR](http://vosonlab.net/tools) - VOSON 软件的 R 客户端（正在开发中）.
@@ -608,7 +610,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 ### Python
 
-&gt; 以下许多物品均来自 [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) 米哈乌·博雅诺夫斯基 (Michał Bojanowski) 等人.  
+&gt; 以下许多物品均来自 [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) 作者：米哈乌·博雅诺夫斯基 (Michał Bojanowski) 等人.  
 &gt; 另请参阅 [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q)，Maksim Tsvetovat 和 Alex Kouznetsov 在 PyCon US 2012 上提供的 3 小时教程（[code](https://github.com/maksim2042/PyCon2012)).  
 &gt; 有关更多精彩的 Python 包，请参阅 [Awesome Python](https://github.com/vinta/awesome-python) 和 [Awesome Python Books](https://github.com/Junnplus/awesome-python-books) 列表.
 
@@ -623,7 +625,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [karateclub](https://github.com/benedekrozemberczki/karateclub) - 使用类似 scikit-learn 的 API 对图形结构化数据进行无监督学习的 Python 包.
 -   [linkpred](https://github.com/rafguns/linkpred) - 评估未来网络快照中潜在链接的可能性.
 -   [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - 用于使用类似 scikit-learn 的 API 从图形结构化数据中采样的 Python 包.
--   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
+-   [metaknowledge](http://networkslab.org/metaknowledge/) - Python 包将文献计量数据转化为作者身份和引用网络.
 -   [networkx](https://networkx.org/) - 用于创建、操作和研究复杂网络的结构、动力学和功能的 Python 包.
     -   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304)，使用 networkx 和 numpy (2014).
     -   [nxviz](https://github.com/ericmjl/nxviz/) - NetworkX 的可视化包.
@@ -658,7 +660,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [btergm](https://CRAN.R-project.org/package=btergm)  - 通过自举伪似然拟合时间 ERGM 的工具. 还提供 MCMC 最大似然估计、ERGM、TERGM 和随机参与者导向模型 (SAOM) 的拟合优度，以及用于 ERGM 和 TERGM 微观层面解释的工具.
 -   [CCAS](https://github.com/matthewjdenny/CCAS) - 通信网络的统计模型.
 -   [concoR](https://github.com/aslez/concoR) - CONCOR网络块建模算法的实现（[blog post](http://badhessian.org/2015/05/concor-in-r/)).
--   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - 实现了一个扩展 [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
+-   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - 连接 R、RStudio 和 JavaScript 库来绘制图表（[blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [dodgr](https://CRAN.R-project.org/package=dodgr) - 使用优先队列最短路径计算双加权有向图（例如街道网络）上的距离.
 -   [edgebundle](https://github.com/schochastics/edgebundle) - 边缘捆绑算法，可用于绘制交通地图网络等.
@@ -676,20 +678,22 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [goldfish](https://github.com/snlab-ch/goldfish) - 动态网络参与者导向模型（DyNAM），用于随时间对协调网络进行统计分析.
 -   [graphlayouts](https://CRAN.R-project.org/package=graphlayouts) - 基于概念的布局算法 [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
     -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
-    -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
+    -   [Network Visualizations in R using ggraph and graphlayouts](https://mr.schochastics.net/material/netVizR/).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - 估计和模拟具有局部依赖性的分层指数族随机图模型 (HERGM).
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) – 确定社交网络随着时间的推移发展形成社会等级制度的路径和状态.
 -   [igraph](http://igraph.org/r/) - 网络分析工具的集合.
     -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [influenceR](https://CRAN.R-project.org/package=influenceR) - 由 Burt、Borgatti 等人计算各种节点中心性网络度量.
 -   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - 实施多项网络中心性措施.
--   [latentnet](https://CRAN.R-project.org/package=latentnet) - 网络对象的潜在位置和聚类模型.
+-   [latentnet](https://CRAN.R-project.org/package=latentnet) - 网络对象的潜在位置和集群模型.
 -   [levelnet](https://github.com/schochastics/levelnet)  - 用于分析二分（双模）网络的单模投影的实验包. 另请参阅：`bipartite` R 包.
--   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - 线性规划模型旨在推断生物（信号、基因）网络.
+-   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - Linear programming model aimed at infering biological (signalling, gene) networks.
 -   [mlergm](https://cran.r-project.org/package=mlergm) - 多级指数族随机图模型，用于对嵌套在已知块内的节点进行建模.
--   [multigraphr](https://github.com/termehs/multigraphr) - 随机多图模型、多图属性统计以及拟合优度检验.
+-   [multigraph](https://cran.r-project.org/package=multigraph) - 构建和可视化各种多重图的功能.
+-   [multigraphr](https://cran.r-project.org/package=multigraphr) - 随机多图模型、多图属性统计以及拟合优度检验.
 -   [multinet](https://CRAN.R-project.org/package=multinet) - 多层社交网络的工具.
     - [Related book and data](http://multilayer.it.uu.se/)， 和 [presentation article](http://multilayer.it.uu.se/papers/jss.pdf) . 请参阅“uunet”了解 Python 版本.
+-   [multinets](https://cran.r-project.org/package=multinets) - 用于处理“igraph”中的多级网络的包.
 -   [migraph](https://CRAN.R-project.org/web/packages/migraph/) - 一组扩展常见社交网络分析包的工具，用于分析多模式和多级网络.
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - 用于构建各种格式的动态网络数据的动画可视化的工具.
 -   [neo4r](https://github.com/neo4j-rstats/neo4r) - 用于 R 的 Neo4J 驱动程序.
@@ -701,7 +705,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
     -   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
 -   [netseg](https://mbojan.github.io/netseg/) - 网络隔离和同质性的各种措施.
 -   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - 模拟并结合微观模型，研究其对社交网络宏观特征的影响.
--   [netUtils](https://github.com/schochastics/netUtils) - Various network functions and methods, e.g. computing the Cartesian product of two graphs or fitting a discrete core periphery model.
+-   [netUtils](https://github.com/schochastics/netUtils) - 各种网络函数和方法，例如计算两个图的笛卡尔积或拟合离散核心外围模型.
 -   [network](https://CRAN.R-project.org/package=network) - 在 R 中操作关系数据的基本工具.
 -   [networkdata](https://github.com/schochastics/networkdata) - 包括 979 个网络数据集，其中包含 2135 个网络.
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - 模拟和可视化网络中基本的流行病扩散.
@@ -721,7 +725,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 -   [rgexf](https://CRAN.R-project.org/package=rgexf) - 将网络对象从 R 导出到 GEXF，以便使用 Gephi 或 Sigma 等软件进行操作.
 -   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - 支持在 R 中使用 Graphviz 库及其 DOT 图形绘制语言.
 -   [RSiena](http://r-forge.r-project.org/R/?group_id=461)  - 实证网络分析的模拟研究； 将模型拟合到纵向网络数据.
--   [signnet](https://github.com/schochastics/signnet) 分析签名网络的方法（结构平衡、块建模、中心性等）
+-   [signnet](http://signnet.schochastics.net/) 分析签名网络的方法（结构平衡、块建模、中心性等）.
 -   [sna](https://CRAN.R-project.org/package=sna) - 基本网络构造器、测量和可视化工具.
 -   [snahelper](https://CRAN.R-project.org/package=snahelper) - RStudio 插件提供 GUI 来可视化和分析网络
     - [Introduction to snahelper (Part 1)](http://blog.schochastics.net/post/an-rstudio-addin-for-network-analysis-and-visualization/)
@@ -772,6 +776,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 &gt; 不专注于单个特定软件包或程序的教程.
 
 -   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
+-   [Basic Network Analysis in R using igraph and related packages](https://mr.schochastics.net/material/netAnaR/) (2022).
 -   [Interactive and Dynamic Network Visualization in R](http://curleylab.psych.columbia.edu/netviz/) 和 JavaScript 库（2016）.
 -   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - 针对人文主义者（2015）.
 -   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - 涵盖 igraph、network、ggraph、network、networkD3、ndtv、 Threejs 和 visNetwork 软件包（2019）.
@@ -917,7 +922,7 @@ __注意：__ 搜索“@”将返回此页面上列出的所有 Twitter 帐户.
 
 ### Two-Mode Networks
 
-&gt; 也称为二部图.
+&gt; 也称为二分图.
 
 -   [L’analyse des graphes bipartis](https://shs.hal.science/halshs-00794976)，法语（2013）.
 -   [Basic Notions for the Analysis of Large Two-mode Networks](https://doi.org/10.1016/j.socnet.2007.04.006)  ([preprint](https://www-complexnetworks.lip6.fr/~latapy/Publis/socnet07.pdf), [related code](https://www-complexnetworks.lip6.fr/~latapy/Bip/) ;  _社交网络_，2008）.

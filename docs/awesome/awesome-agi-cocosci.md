@@ -336,6 +336,8 @@
 
 #### Generative Model
 
+* [Generative Modeling Explained](https://github.com/YuzheSHI/generative-modeling-explained)  - ***统计机器学习教程***，2022 年.本关于生成建模的教程是 UCLA 统计学院 Ying Nian Wu 撰写的统计机器学习教程的一部分. 本教程介绍了学习最新生成模型的关键方程和算法，包括基于能量的模型、基于扩散/评分的模型、自回归/基于流的模型、VAE 和 GAN，并解释了这些模型之间的联系.
+
 * [Bayesian Data Analysis](https://www.taylorfrancis.com/books/mono/10.1201/9780429258411/bayesian-data-analysis-andrew-gelman-donald-rubin-john-carlin-hal-stern) - ***查普曼和霍尔/CRC***，1995. [[All Versions](https://scholar.google.com/scholar?cluster=5067275302121330689&hl=en&as_sdt=0,5) ].  Don Rubin 关于贝叶斯模型的介绍性书籍.
 
 * [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1) - ***国际计算机视觉杂志***，1998. [[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240&hl=en&as_sdt=0,5) ].  Song-Chun Zhu 关于基于能量的生成纹理建模的原始论文.
@@ -344,7 +346,7 @@
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计模型的三个系列的回顾.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计说明.
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计解释.
 
 * [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
@@ -399,7 +401,7 @@
 
 * [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***机器学习研究杂志***，2011. [[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943&hl=en&as_sdt=0,5) ].  Tom Griffiths 和 Zoubin Ghahramani 对无限模型的评论，包括中式餐厅流程 (CRP) 和印度自助餐流程 (IBP).
 
-* [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) - ***UAI&#39;05***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095&hl=en&as_sdt=0,5) ]. 第一篇将逻辑集成到非参数模型中的论文.
+* [Nonparametric Bayesian Logic](https://www.cs.ubc.ca/~nando/papers/npblog.pdf) -***UAI&#39;05***，2005 年. [[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095&hl=en&as_sdt=0,5) ]. 第一篇将逻辑集成到非参数模型中的论文.
 
 * [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI&#39;06***，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -1004,7 +1006,7 @@
 
 * [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***人格与社会心理学杂志***，1998. [[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580&hl=en&as_sdt=0,5) ]. 介绍内隐联想测试的原始论文.
 
-* [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT 第三年审查.
+* [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***实验心理学杂志***，2001. [[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588&hl=en&as_sdt=0,5) ].  IAT第三年审查.
 
 * [The Implicit Association Test at Age 7: A Methodological and Conceptual Review](https://faculty.washington.edu/agg/pdf/Nosek%20&%20al.IATatage7.2007.pdf) - ***社会心理学和无意识：高级心理过程的自动性（第 265-292 页），心理学出版社***，2007 年. [[All Versions](https://scholar.google.com/scholar?cluster=16189750920013376566&hl=en&as_sdt=0,5) ].  IAT第七年回顾.
 
@@ -1092,7 +1094,7 @@
 
 #### Rationality
 
-* [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/) - ***Plato Stanford***. A computational philosophy account on Bounded Rationality, an elementary hypothesis of human intelligence in psychology and ecology.
+* [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)  - ***柏拉图斯坦福***. 关于有限理性的计算哲学解释，有限理性是心理学和生态学中人类智能的基本假设.
 
 * [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/)  - ***柏拉图斯坦福***. 关于工具理性的计算哲学解释，关于主体的决策是有意做出的还是出于理性一致性的争论.
 
@@ -1474,7 +1476,7 @@
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)  - ***柏拉图斯坦福***. 关于归纳逻辑的计算哲学解释，归纳逻辑是证据支持的逻辑.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，一阶模型理论是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/) - ***Plato Stanford***. A computational philosophy account on First-order Model Theory, which is a branch of mathematics that deals with the relationships between descriptions in first-order languages and the structures that satisfy these descriptions.
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 关于次相一致逻辑的计算哲学解释，其中任何逻辑只要不是爆炸性的，都是次相一致的.
 
@@ -1882,7 +1884,7 @@
   
 #####  **Cognitive Science**
   * [How Players Speak to an Intelligent GameCharacter Using Natural Language Messages](http://todigra.org/index.php/todigra/article/view/88/139) - ***DiGRA***，2018.
-  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) -***空间认知&#39;20***，2020.
+  * [Minecraft as a Generative Platform for Analyzing and Practicing Spatial Reasoning](https://link.springer.com/chapter/10.1007%2F978-3-030-57983-8_22) - ***空间认知&#39;20***，2020.
   * [Generative Design in Minecraft: Chronicle Challenge](http://computationalcreativity.net/iccc2019/papers/iccc19-lbp-7.pdf) - ***ICCC&#39;20***，
   * [Minecraft as a Platform for Project-Based Learning in AI](https://aaai.org/ojs/index.php/AAAI/article/view/7070) - ***AAAI'20***, 2020.
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial&#39;20***，2020 年.
@@ -1980,11 +1982,11 @@
 
 ### UCSD
 
-* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***加州大学圣地亚哥分校***， [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
+* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***加州大学圣地亚哥分校***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
 
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***加州大学圣地亚哥分校***， [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***加州大学圣地亚哥分校***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
 
-* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***加州大学圣地亚哥分校***， [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***加州大学圣地亚哥分校***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
 
 
 

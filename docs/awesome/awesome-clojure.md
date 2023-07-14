@@ -1,8 +1,8 @@
 <div class="github-widget" data-repo="razum2um/awesome-clojure"></div>
 ## Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-  - [Penpot](https://penpot.app/)：设计和原型制作平台
-  - [LightTable (IDE)](http://lighttable.com/) （存档）
+  - [Penpot](https://penpot.app/)：设计和原型平台
+  - [LightTable (IDE)](http://lighttable.com/) （已存档）
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
@@ -16,12 +16,12 @@
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [meins](https://github.com/matthiasn/meins)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
-  - [Braid](https://github.com/braidchat/braid)：具有新颖 UI 的团队聊天应用程序，可带来更好的对话
-  - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：一个自然语言生成环境（后端：Clojure，前端：JS）
-  - [Ziggurat](https://github.com/gojek/ziggurat): 为简化 Kafka 上的流处理而构建的框架
-  - [Nightcode](https://github.com/oakes/Nightcode): Clojure 的 IDE（已存档）
-  - [Nightlight](https://github.com/oakes/Nightlight): 文本编辑器（存档）
-  - [Atea](https://github.com/pkamenarsky/atea)：用于 MacOS 的简约菜单栏时间跟踪器（旧版，需要 jvm 1.6）
+  - [Braid](https://github.com/braidchat/braid)：一款团队聊天应用程序，具有新颖的 UI，可带来更好的对话
+  - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：自然语言生成环境（后端：Clojure，前端：JS）
+  - [Ziggurat](https://github.com/gojek/ziggurat)：一个为简化 Kafka 上的流处理而构建的框架
+  - [Nightcode](https://github.com/oakes/Nightcode)：Clojure 的 IDE（已存档）
+  - [Nightlight](https://github.com/oakes/Nightlight)：文本编辑器（已存档）
+  - [Atea](https://github.com/pkamenarsky/atea)：适用于 MacOS 的简约菜单栏时间跟踪器（旧版，需要 jvm 1.6）
   - [herfi](https://github.com/ertugrulcetin/herfi) - 用 Clojure 和 ClojureScript 编写的 3D 多人游戏原型
   - [racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) - 使用 ClojureScript、React 和 ThreeJS 构建的 3D 赛车游戏
   - [Logseq](https://github.com/logseq/logseq)：知识管理和协作（开放前端）
@@ -35,32 +35,32 @@
 
 ## Awesome macros usage
 
-*回答为什么 lisp 闪耀，杀手功能在行动*
+*解答为什么 lisp 如此出色，杀手级功能正在发挥作用*
 
   * [core.async](https://github.com/clojure/core.async) - 将 AST 转换为 CSP 程序
-  * [cloroutine](https://github.com/leonoel/cloroutine) - 挂起和延续（协程）
+  * [cloroutine](https://github.com/leonoel/cloroutine) - 暂停和继续（协程）
   * [missionary](https://github.com/leonoel/missionary) - 反应式数据流编程工具包
   * [photon](https://github.com/venantius/photon) - 实时网络，如 Meteor，但适用于 Clojure（脚本）
   * [metaclj](https://github.com/brandonbloom/metaclj) - 分阶段编译
-  * [meander](https://github.com/noprompt/meander) - 使用数据结构模式匹配的透明数据转换
-  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只是学习如何将你的思想映射到不可变的世界）
+  * [meander](https://github.com/noprompt/meander) - 使用数据结构模式匹配进行透明数据转换
+  * [proteus](https://github.com/ztellman/proteus) - 引入可变变量（不要使用，只是学习如何将你的思维映射到不可变的世界）
 ## Advanced datastructures
 
-  * [specter](https://github.com/redplanetlabs/specter): 用于查询和转换嵌套和递归数据的优雅 API
+  * [specter](https://github.com/redplanetlabs/specter)：一个优雅的 API，用于查询和转换嵌套和递归数据
   * [meander](https://github.com/noprompt/meander)：透明数据转换（定义为模式匹配）
   * [Persistent AVL trees](https://github.com/clojure/data.avl)：具有日志时间排名查询的持久排序映射和集合
-  * [Finger Tree](https://github.com/clojure/data.finger-tree)：双列表，计数双列表，计数排序集
-  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速、可快照、可大规模扩展的数据库
+  * [Finger Tree](https://github.com/clojure/data.finger-tree)：双列表、计数双列表、计数排序集
+  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速、可快照、大规模可扩展的数据库
   * [Hierarchical set](https://github.com/llasram/hier-set)
-  * [Ordered](https://github.com/amalloy/ordered)：有序集合和映射
-  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): 其值仅在访问时计算
+  * [Ordered](https://github.com/amalloy/ordered)：有序集和地图
+  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure)：其值仅在访问时计算
   * [Duratom](https://github.com/jimpil/duratom)：持久原子
-  * [Durable Queue](https://github.com/Factual/durable-queue): 队列保存在磁盘上
-  * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (在内存中连续存储条目), ;writtern in java, but test suite (read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [Durable Queue](https://github.com/Factual/durable-queue)：队列保留在磁盘上
+  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/集合/列表（在内存中连续存储条目），;用java编写，但测试套件（阅读：使用示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
-*这里其实不用搜rails/django，而是自己组合*
+*其实这里不要搜索rails/django，而是自己编写*
   * [Compojure](https://github.com/weavejester/compojure)
   * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Luminus](http://www.luminusweb.net/)
@@ -74,6 +74,7 @@
   * [Reitit](https://github.com/metosin/reitit)
   * [Tadam](https://www.tadam-framework.dev/)
   * [Column](https://gitlab.com/demonshreder/column)
+  * [Biff](https://biffweb.com/)
 
 ## Dependency injection
 
@@ -89,12 +90,12 @@
 
 ## Build Automation and Package management
 
-*用于项目构建自动化和包/依赖管理的库.*
+*用于项目构建自动化和包/依赖项管理的库.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
   * [tools.build](https://www.clojure.org/guides/tools_build)
-  * [clojurephant](https://github.com/clojurephant/clojurephant) （摇篮插件）
+  * [clojurephant](https://github.com/clojurephant/clojurephant) （梯度插件）
   * [shadow-cljs](https://github.com/thheller/shadow-cljs) （Clojurescript）
 
 ## Version Control Management
@@ -110,7 +111,7 @@
   * [clj-time](https://github.com/clj-time/clj-time)
   * [clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 日期时间 API
   * [timewords](https://github.com/tokenmill/timewords)
-  * [tick](https://github.com/juxt/tick): Clojure(Script) 库，旨在替代 clj-time
+  * [tick](https://github.com/juxt/tick)：Clojure（Script）库，旨在替代 clj-time
 
 ## GUI
 
@@ -125,14 +126,14 @@
 
 ## HTTP
 
-*用于 HTTP 的库.*
+*用于使用 HTTP 的库.*
 
-  * [clj-http](https://github.com/dakrone/clj-http) : Apache HttpComponents 客户端包装器
-  * [http-kit](https://github.com/http-kit/http-kit) : 简单、高性能的事件驱动的 HTTP 客户端和服务器
-  * [ring](https://github.com/ring-clojure/ring) : HTTP 服务器抽象
-  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨 JVM / 节点 / 浏览器的 HTTP 统一、异步客户端接口
-  * [aleph](https://github.com/clj-commons/aleph) : 基于 Netty 的异步客户端/服务器，默认为 HTTP、TCP 和 UDP
-  * [hato](https://github.com/gnarroway/hato) : Clojure 的 HTTP 客户端，包装了 JDK 11 的 HttpClient
+  * [clj-http](https://github.com/dakrone/clj-http) ：Apache HttpComponents 客户端包装器
+  * [http-kit](https://github.com/http-kit/http-kit) ：简单、高性能的事件驱动的HTTP客户端和服务器
+  * [ring](https://github.com/ring-clojure/ring) ：HTTP服务器抽象
+  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨 JVM / Node / 浏览器的 HTTP 统一异步客户端接口
+  * [aleph](https://github.com/clj-commons/aleph) ：基于Netty的异步客户端/服务器，默认为HTTP、TCP和UDP
+  * [hato](https://github.com/gnarroway/hato) ：Clojure 的 HTTP 客户端，包装 JDK 11 的 HttpClient
 
 ## Database
 
@@ -147,15 +148,15 @@
   * [clojure.java.jdbc](https://github.com/clojure/java.jdbc)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
-  * [Monger](http://clojuremongodb.info/): 对于 MongoDB
-  * [Monglorious](https://baumandm.github.io/monglorious/): 对于 MongoDB
-  * [clj-rethinkdb](https://github.com/apa512/clj-rethinkdb): 对于 RethinkDB
-  * [Revise](https://github.com/bitemyapp/revise): 对于 RethinkDB
-  * [Spandex](https://github.com/mpenet/spandex): 对于弹性搜索
-  * [Elastisch](http://clojureelasticsearch.info/): 对于弹性搜索
-  * [neocons](http://clojureneo4j.info/): 对于 Neo4j
+  * [Monger](http://clojuremongodb.info/)：对于 MongoDB
+  * [Monglorious](https://baumandm.github.io/monglorious/)：对于 MongoDB
+  * [clj-rethinkdb](https://github.com/apa512/clj-rethinkdb)：对于 RethinkDB
+  * [Revise](https://github.com/bitemyapp/revise)：对于 RethinkDB
+  * [Spandex](https://github.com/mpenet/spandex)：对于 ElasticSearch
+  * [Elastisch](http://clojureelasticsearch.info/)：对于 ElasticSearch
+  * [neocons](http://clojureneo4j.info/)：对于 Neo4j
   * [Alia](https://github.com/mpenet/alia)：对于卡桑德拉
-  * [aerospike-clj](https://github.com/AppsFlyer/aerospike-clj): 对于 Aerospike
+  * [aerospike-clj](https://github.com/AppsFlyer/aerospike-clj)：用于 Aerospike
 
 ## Connection pools
 
@@ -193,7 +194,7 @@
 
 ## ORM and SQL generation
 
-*用于生成 SQL 的 DSL.*
+*用于 SQL 生成的 DSL.*
   * [Walkable](https://github.com/walkable-server/walkable)
   * [Korma](https://github.com/korma/Korma)
   * [Specql](https://github.com/tatut/specql/)
@@ -205,10 +206,10 @@
 
 ## Security
 
-*认证、授权和其他安全相关的库.*
+*身份验证、授权和其他安全相关的库.*
 
   * [Buddy](https://github.com/funcool/buddy)
-  * [caesium](https://github.com/lvh/caesium) （libsodium 绑定）
+  * [caesium](https://github.com/lvh/caesium) （lib钠结合）
   * [Friend](https://github.com/cemerick/friend)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
   * [bolt](https://github.com/juxt/bolt)
@@ -314,8 +315,8 @@
 
 ## Science and Data Analysis
 
-*用于科学和统计数据的库、扩展 REPL 和其他工具
-分析和可视化. *
+*库、扩展 REPL 以及其他科学和统计数据工具
+分析和可视化.*
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
@@ -333,10 +334,10 @@
 
 ## Machine Learning
 
-  * [neanderthal](https://github.com/uncomplicate/neanderthal): 快速矩阵库
+  * [neanderthal](https://github.com/uncomplicate/neanderthal)：快速矩阵库
   * [clojurecuda](https://github.com/uncomplicate/clojurecuda)
   * [clojurecl](https://github.com/uncomplicate/clojurecl)
-  * [bayadera](https://github.com/uncomplicate/bayadera): GPU上的贝叶斯数据分析
+  * [bayadera](https://github.com/uncomplicate/bayadera)：GPU上的贝叶斯数据分析
   * [cortex](https://github.com/originrose/cortex)
   * [Flare](https://github.com/aria42/flare)
   * [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
@@ -358,7 +359,7 @@
 
 ## Computer Vision
 
-  * [origami](https://github.com/hellonico/origami): OpenCV 4 包装器
+  * [origami](https://github.com/hellonico/origami)：OpenCV 4 包装器
   * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)
   * [vision](http://nakkaya.com/vision.html)
 
@@ -407,7 +408,7 @@
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
-  * [Notepad++](https://github.com/linpengcheng/ClojureBoxNpp): 修改了 Lisp 的配置文件
+  * [Notepad++](https://github.com/linpengcheng/ClojureBoxNpp)：修改Lisp的配置文件
 
 ## Documentation
 
@@ -426,7 +427,7 @@
 
 ## Miscellaneous
 
- * [potemkin](https://github.com/ztellman/potemkin) - 在另一个 ns 中重新导出 vars / 像 clojure 映射一样
+ * [potemkin](https://github.com/ztellman/potemkin) - 在另一个 ns 中重新导出变量/就像 clojure 映射一样
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [virgil](https://github.com/ztellman/virgil)
@@ -476,7 +477,7 @@
   * [viz.cljc](https://github.com/jebberjeb/viz.cljc)
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
-  * [re-frame-flow](https://github.com/ertugrulcetin/re-frame-flow) - 基于图形的可视化工具，用于重新构建事件链 (ClojureScript)
+  * [re-frame-flow](https://github.com/ertugrulcetin/re-frame-flow) - 基于图形的可视化工具，用于重新构建事件链（ClojureScript）
 
 ## Game Development
   * [jme-clj](https://github.com/ertugrulcetin/jme-clj) - Clojure 3D 游戏引擎（包装器），由 jMonkeyEngine 提供支持
@@ -497,12 +498,12 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解列表理解、线程宏、生成测试、解构、core.match 等概念，以及使用 Clojure 进行 Light Table、Datomic 和游戏开发的介绍
-  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure): Clojure 函数式编程和 TDD 简介
-  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos): Clojure 一次介绍一个函数
-  * [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos): 与整个 clojure 生态系统相关的有趣且对初学者友好的内容
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解列表理解、线程宏、生成测试、解构、core.match 等概念，以及 Light Table、Datomic 和 Clojure 游戏开发简介
+  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用 Clojure 介绍函数式编程和 TDD
+  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：Clojure 简介，一次一个函数
+  * [Clojure Pills screencast](https://www.youtube.com/c/onthecodeagain/videos)：与整个 clojure 生态系统相关的有趣且适合初学者的内容
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于 core.async、传感器、瞬态、逻辑编程和“每日函数”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关 core.async、传感器、瞬态、逻辑编程和“每日函数”系列的更多高级视频.
 
 ## Websites
 

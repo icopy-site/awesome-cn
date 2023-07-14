@@ -14,7 +14,9 @@
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
   * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  - 网络归档生命周期模型试图将网络归档的技术和程序化部分合并到一个框架中，该框架与任何寻求从网络归档内容的组织相关.  Archive-It 是互联网档案馆的网络归档服务，根据与世界各地的记忆机构的合作开发了该模型.
-  * [Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
+  * [Retrieving and Archiving Information from Websites by Wael Eskandar and Brad Murray](https://kit.exposingtheinvisible.org/en/web-archive.html/)
+* 培训教材：
+  * [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
   * [UNT Web Archiving Course 2022](https://github.com/vphill/web-archiving-course)
   * [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
 * WARC 标准：
@@ -50,7 +52,7 @@
 * [Chronicler](https://github.com/CGamesPlay/chronicler)  - 具有记录和重播功能的网络浏览器.  *（开发中）*
 * [crau](https://github.com/turicas/crau)  - crau 是（大多数）巴西人发音“crawl”的方式，它是用于归档网络和播放档案的最简单的命令行工具：您只需要一个 URL 列表.  *（稳定的）*
 * [Crawl](https://git.autistici.org/ale/crawl)  - Golang 中的一个简单的网络爬虫.  *（稳定的）*
-* [crocoite](https://github.com/promyloph/crocoite)  - 使用无头 Google Chrome/Chromium 抓取网站并将资源、静态 DOM 快照和页面屏幕截图保存到 WARC 文件中.  *（开发中）*
+* [crocoite](https://github.com/promyloph/crocoite)  - 使用无头 Google Chrome/Chromium 抓取网站，并将资源、静态 DOM 快照和页面屏幕截图保存到 WARC 文件中.  *（开发中）*
 * [DiskerNet](https://github.com/dosyago/DiskerNet)  - 一种非基于 WARC 的工具，可连接到 Chrome 浏览器并存档您浏览的所有内容，使其可用于离线重播.  *（开发中）*
 * [F(b)arc](https://github.com/justinlittman/fbarc) - 用于归档数据的命令行工具和 Python 库 [Facebook](https://www.facebook.com/) 使用 [Graph API](https://developers.facebook.com/docs/graph-api) .  *（稳定的）*
 * [freeze-dry](https://github.com/WebMemex/freeze-dry)  - JavaScript 库将页面转换为静态、独立的 HTML 文档； 对于浏览器扩展很有用.  *（开发中）*

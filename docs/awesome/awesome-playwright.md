@@ -1,72 +1,73 @@
 <div class="github-widget" data-repo="mxschmitt/awesome-playwright"></div>
 ## Awesome Playwright [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 使用 Playwright 的很棒的工具、实用程序和项目的精选列表
+&gt; 使用 Playwright 的精彩工具、实用程序和项目的精选列表
 
-[Playwright](https://github.com/microsoft/playwright) 是一个 Node.js 库，用于通过单个 API 自动化基于 Firefox、WebKit 和 Chromium 的浏览器.
+[Playwright](https://github.com/microsoft/playwright) 是一个 Node.js 库，可通过单个 API 自动化基于 Firefox、WebKit 和 Chromium 的浏览器.
 
 
 
 ## Integrations
 
 - [jest-playwright](https://github.com/playwright-community/jest-playwright/) - 用于运行 Playwright 的 Jest 适配器.
-- [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 用于 Node.js 的增压 End 2 端测试框架.
+- [CodeceptJS](https://github.com/Codeception/CodeceptJS) - Node.js 的增压 End 2 End 测试框架.
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda#usage-with-playwright) - 支持在 AWS Lambda 和 Google Cloud Functions 上运行 Microsoft 的 Playwright.
-- [playwright-chrome-recorder](https://github.com/AndrewUsher/playwright-chrome-recorder) - 以编程方式从 Google Chrome DevTools 的记录中导出 Playwright 测试.
-- [Playwright Chrome Recorder Extension](https://github.com/AndrewUsher/playwright-recorder-extension) - 直接从 DevTools 记录器面板将 DevTools 记录导出为 Playwright 测试.
+- [playwright-chrome-recorder](https://github.com/AndrewUsher/playwright-chrome-recorder) - 以编程方式从 Google Chrome DevTools 的录音中导出 Playwright 测试.
+- [Playwright Chrome Recorder Extension](https://github.com/AndrewUsher/playwright-recorder-extension) - 直接从 DevTools 录制器面板将 DevTools 录制导出为剧作家测试.
 - [playwright-github-action](https://github.com/microsoft/playwright-github-action) - GitHub Action 安装所有必需的依赖项.
-- [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - 用于将 Playwright 页面与固定装置一起使用的官方 Pytest 插件.
-- [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - 用于在 Heroku Dyno 上运行 Playwright 的 Heroku buildpack.
-- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - 剧作家使用 axe-core 运行可访问性 (a11y) 检查的自定义命令.
+- [playwright-pytest](https://github.com/microsoft/playwright-pytest/) - 官方 Pytest 插件，用于使用带有固定装置的 Playwright 页面.
+- [heroku-playwright-buildpack](https://github.com/mxschmitt/heroku-playwright-buildpack) - Heroku 构建包，用于在 Heroku Dyno 上运行 Playwright.
+- [axe-playwright](https://github.com/abhinaba-ghosh/axe-playwright) - Playwright 使用 axe-core 运行可访问性 (a11y) 检查的自定义命令.
 - [expect-axe-playwright](https://github.com/Widen/expect-axe-playwright) - 期望匹配器在您的 Playwright 测试中执行 Axe 可访问性测试.
-- [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 用于使用 Typescript 使用 Playwright 编写基于 Cucumber 的 E2E 测试的入门回购协议.
+- [cucumber-playwright](https://github.com/Tallyb/cucumber-playwright) - 用于使用 Typescript 和 Playwright 编写基于 Cucumber 的 E2E 测试的入门存储库.
 - [artillery-engine-playwright](https://github.com/artilleryio/artillery-engine-playwright) - 使用 Playwright 进行负载测试.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - 使用 Playwright runner 和 CucumberJS 进行 BDD 测试.
 
 ## Language Support
 
-- [playwright](https://git.io/JT2bj) - Node.js（JavaScript 和 TypeScript）的官方编剧.
-- [playwright-python](https://github.com/microsoft/playwright-python) - Python 的官方 Playwright 端口.
-- [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET 的官方 Playwright 端口.
-- [playwright-java](https://github.com/microsoft/playwright-java) - Java 的官方 Playwright 端口.
-- [playwright-go](https://github.com/playwright-community/playwright-go) - Golang 的编剧端口.
-- [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Ruby 的编剧端口.
-- [playwright-cr](https://github.com/naqvis/playwright-cr) - 水晶的剧作家端口.
+- [playwright](https://git.io/JT2bj) - Node.js（JavaScript 和 TypeScript）的官方剧作家.
+- [playwright-python](https://github.com/microsoft/playwright-python) - 官方 Playwright 移植到 Python.
+- [playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - 官方剧作家移植到.NET.
+- [playwright-java](https://github.com/microsoft/playwright-java) - 官方 Playwright 移植到 Java.
+- [playwright-go](https://github.com/playwright-community/playwright-go) - Golang 的剧作家端口.
+- [playwright-ruby-client](https://github.com/YusukeIwaki/playwright-ruby-client) - Ruby 的剧作家移植.
+- [playwright-cr](https://github.com/naqvis/playwright-cr) - 水晶的剧作家移植.
 - [playwright-rust](https://github.com/octaltree/playwright-rust) - Rust 的剧作家端口.
-- [playwright-perl](https://github.com/teodesian/playwright-perl) - Perl 的剧作家端口.
+- [playwright-perl](https://github.com/teodesian/playwright-perl) - Perl 的剧作家移植.
 
 ## Utils
 
-- [Ask Playwright](https://ray.run/ask) - 由受过最新剧作家文档培训的 LLM 提供的剧作家问题的准确答案.
-- [Try Playwright](https://try.playwright.tech) - 用于运行 Playwright 测试的交互式游乐场.
+- [Ask Playwright](https://ray.run/ask) - 由受过最新剧作家文档培训的法学硕士提供的剧作家问题的准确答案.
+- [Try Playwright](https://try.playwright.tech) - 用于运行剧作家测试的交互式游乐场.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) - 通过选择 Shadow DOM 根来扩展选择器引擎.
-- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - 围绕 Playwright 的 Fluent API Wrapper.
-- [headless-testing](https://headlesstesting.com) - 将您的 Playwright 测试与云端浏览器连接起来.
-- [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect 实用程序匹配器函数可简化与 Playwright Test 或 Jest Playwright 一起使用的 expect 语句.
-- [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - 满足您的 Playwright 测试需求的 ESLint 插件.
+- [playwright-fluent](https://github.com/hdorgeval/playwright-fluent) - Playwright 的流畅 API 包装器.
+- [headless-testing](https://headlesstesting.com) - 将您的 Playwright 测试与云中的浏览器连接.
+- [expect-playwright](https://github.com/playwright-community/expect-playwright) - Expect 实用程序匹配器函数可简化 Playwright Test 或 Jest Playwright 的预期语句.
+- [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint 插件满足您的 Playwright 测试需求.
 - [Moon](https://github.com/aerokube/moon) - 用于在 Kubernetes 集群中并行执行 Playwright 测试的工具.
-- [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - 从运行 Playwright 测试中收集代码覆盖率的插件.
+- [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - 用于从运行 Playwright 测试中收集代码覆盖率的插件.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - VS Code 的官方 Playwright 测试扩展.
-- [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - IntelliJ 的剧作家插件.
-- [playwright-elements](https://www.npmjs.com/package/playwright-elements) - 更强大的页面对象实现的 Playwright 测试扩展.
-- [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - 一个 Playwright 清理工具，通过撤消对测试环境的任何更改来简化测试清理.
-- [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - 一个插件，通过使用 Playwright 测量和分析任何经过测试的流程的性能，帮助您优化 Web 应用程序的速度和效率.
-- [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - 在 PyCharm 中使用 `python-playwright` 时 CSS/JS 语法突出显示的语言注入定义.
+- [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - IntelliJ 的 Playwright 插件.
+- [playwright-elements](https://www.npmjs.com/package/playwright-elements) - Playwright 测试扩展以实现更强大的页面对象实现.
+- [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - Playwright 清理工具，通过撤消对测试环境的任何更改来简化测试清理.
+- [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - 该插件可通过使用 Playwright 测量和分析任何测试流程的性能来帮助您优化 Web 应用程序的速度和效率.
+- [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - 在 PyCharm 中使用“python-playwright”时 CSS/JS 语法突出显示的语言注入定义.
 
 
 ## Reporters
 
-- [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - 用于将测试结果上传到 Playwright 的 Tesults 的库.
+- [playwright-tesults-reporter](https://github.com/tesults/playwright-tesults-reporter) - 用于将测试结果从 Playwright 上传到 Tesults 的库.
 - [monocart-reporter](https://github.com/cenfun/monocart-reporter) - 剧作家测试记者，在 html 网格中显示套件/案例/步骤.
-- [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - 与 Playwright 测试框架的 Allure 集成.
+- [allure-playwright](https://github.com/allure-framework/allure-js/tree/master/packages/allure-playwright) - Allure 与 Playwright 测试框架集成.
 - [playwright-xray](https://github.com/inluxc/playwright-xray) - 剧作家 Xray Reporter，将测试执行发送到 Jira / Xray.
+- [currents-dev](https://currents.dev/) - 用于调试、故障排除和分析并行 Playwright CI 测试的云仪表板.
 
 ## Showcases
 
-- [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - 使用 Playwright 的各种测试场景，使用官方测试运行程序和在 TypeScript 中编写的脚本.
-- [playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - 结合 Jest Playwright 工具测试流行网站的示例.
-- [VS Code](https://github.com/microsoft/vscode) - Playwright 用于在其网络构建上运行跨浏览器测试.
-- [TypeScript](https://github.com/microsoft/TypeScript) - 剧作家用于跨浏览器测试 typescript.js.
+- [Demo.Playwright](https://github.com/MarcusFelling/Demo.Playwright) - 使用 Playwright 的各种测试场景，使用官方测试运行器和用 TypeScript 编写的脚本.
+- [playwright-jest-examples](https://github.com/playwright-community/playwright-jest-examples) - 组合使用 Jest Playwright 工具来测试热门网站的示例.
+- [VS Code](https://github.com/microsoft/vscode) - Playwright 用于在其 Web 构建上运行跨浏览器测试.
+- [TypeScript](https://github.com/microsoft/TypeScript) - Playwright 用于跨浏览器测试 typescript.js.
 - [Elastic APM JS agent](https://github.com/elastic/apm-agent-rum-js) - Playwright 用于跨浏览器运行基准测试.
 - [Blockstack](https://github.com/blockstack/ux) - Playwright 用于运行跨浏览器 UI 测试.
 - [xterm.js](https://github.com/xtermjs/xterm.js) - Playwright 用于运行跨浏览器集成测试.
@@ -75,9 +76,9 @@
 
 ## Guides
 
-- [theheadless.dev](https://theheadless.dev) - 关于 Playwright（和 Puppeteer）的实用指南和可运行示例.
-- [playwright.tech](https://playwright.tech) - 教程、工具和 Playwright 生态系统展示的中心主页.
-- [playwrightsolutions.com](https://playwrightsolutions.com) - 剧作家自动化测试问题和解决方案的精选.
+- [theheadless.dev](https://theheadless.dev) - Playwright（和 Puppeteer）的实用指南和可运行示例.
+- [playwright.tech](https://playwright.tech) - Playwright 生态系统的教程、工具和展示的中心主页.
+- [playwrightsolutions.com](https://playwrightsolutions.com) - 精选剧作家自动化测试问题和解决方案.
 
 ## Contribute
 

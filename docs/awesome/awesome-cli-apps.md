@@ -295,7 +295,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面壁纸.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器、终端、壁纸、Slack 等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为壁纸.
-- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后将它们应用于系统范围内的所有您喜欢的程序.
+- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后将它们应用于系统范围内的所有您喜爱的程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
 - [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
@@ -366,7 +366,7 @@
 
 ## Command Line Learning
 
-- [cmdchallenge](https://cmdchallenge.com) - 通过用户提交的解决方案提出小型 shell 挑战.
+- [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
 - [explainshell](https://www.explainshell.com/) - 输入片段以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) - 即时编码答案.
 - [how2](https://github.com/santinic/how2) - Howdoi 的 Node.js 实现.
@@ -425,6 +425,7 @@
 - [lf](https://github.com/gokcehan/lf) - 快速、可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) - 快速、简单的文件管理器.
 - [clifm](https://github.com/leo-arch/clifm) - 命令行文件管理器.
+- [far2l](https://github.com/elfmz/far2l) - 正统的文件管理器.
 
 ### Deleting, Copying, and Renaming
 
@@ -446,7 +447,7 @@
 - [transmission-cli](https://transmissionbt.com) - 命令行的 Torrent 客户端.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – 流媒体 torrent 客户端.
 - [entr](https://github.com/eradman/entr) - 文件更改时运行任意命令.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files automatically.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) - 自动整理您的文件.
 - [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) - Rust 中的organize-cli 具有更多自定义功能.
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - 恢复被覆盖或删除的文件.
 
