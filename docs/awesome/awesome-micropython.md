@@ -145,7 +145,7 @@
 
 #### GSM
 
-* [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - 使用 Pyboard 和 SIM800l 的 GSM 手机.
+* [micropython-upyphone](https://github.com/jeffmer/micropython-upyphone) - 使用 Pyboard 和 SIM800l 的 GSM 电话.
 * [micropython-sim800](https://github.com/olablt/micropython-sim800) - SIM800 的 MicroPython 驱动程序.
 * [sim800](https://github.com/basanovase/sim800) - 用于与 MicroPython 中的 SIM800 模块连接的库.
 * [MicroPython-AM7020](https://github.com/JiekangHuang/MicroPython-AM7020) - AM7020 窄带物联网 (NBIoT) 模块的 MicroPython 驱动程序.
@@ -174,7 +174,7 @@
 #### IR
 
 * [micropython-necir](https://github.com/MattMatic/micropython-necir) - 用于 TL1838 IR 接收器 LED 的 NEC 红外捕获.
-* [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard 红外远程嗅探和重放.
+* [Micropython-IR](https://github.com/designerPing/Micropython-IR) - Pyboard 红外远程嗅探和重播.
 * [micropython_ir](https://github.com/peterhinch/micropython_ir) - 从红外遥控器和红外“blaster”应用程序接收的非阻塞设备驱动程序.
 * [micropython-amg88xx](https://github.com/peterhinch/micropython-amg88xx) - Grid-EYE 热红外阵列传感器 (Adafruit 3538) 的驱动程序.
 * [micropython-ys-irtm](https://github.com/mcauser/micropython-ys-irtm) - YS-IRTM 5V NEC 红外 UART 收发器的 MicroPython 示例.
@@ -288,7 +288,7 @@
 
 #### RFID
 
-* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+* [micropython-mfrc522](https://github.com/wendlers/micropython-mfrc522) - NXP MFRC522 RFID 读写器的驱动程序.
 * [micropython-wiegand](https://github.com/pjz/micropython-wiegand) - 韦根协议阅读器.
 * [urdm6300](https://github.com/membermatters/urdm6300) - 适用于流行的 RDM6300 RFID 读卡器的 MicroPython 驱动程序.
 
@@ -568,6 +568,7 @@
 * [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - HX711 称重传感器的 Micropython 驱动程序.
 * [MCP342x_LoPy](https://github.com/jajberni/MCP342x_LoPy) - MCP342x ADC 的 MicroPython 驱动程序.
 * [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) - ADS1220 24 位模数转换器的 MicroPython 库.
+* [PCF8591_micropython_library](https://github.com/xreef/PCF8591_micropython_library) - 适用于 PCF8591 8 位 ADC/DAC 的 MicroPython 库.
 
 #### DAC
 

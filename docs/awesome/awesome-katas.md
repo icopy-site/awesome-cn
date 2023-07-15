@@ -2,12 +2,12 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
 ## Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt; 精选的代码类型列表
+&gt; 精选的代码套路列表
 
 
 
 ## Introduction
- kata 或代码 kata 被定义为编程练习，它有助于通过练习和重复磨练您的技能. 戴夫托马斯 [@pragdave](https://twitter.com/pragdave) ，开始了这场编程运动. 该项目旨在为您提供我在 Internet 和 Github 社区中找到的一些 kata 练习的列表. 这些练习从一般到更复杂的算法和现实生活情况不等，供您尝试使用您喜欢的编程语言. 请记住，代码型不是测验或谜题. 您不仅应该尝试“解决”它，还应该按照您正在使用的编程语言的最佳实践找到一个非常好的解决方案.
+ kata（或代码 kata）被定义为一种编程练习，可通过练习和重复来帮助磨练您的技能. 戴夫·托马斯 [@pragdave](https://twitter.com/pragdave) ，开始了这场编程运动. 这个项目旨在为您提供我在互联网和 Github 社区中找到的一些 kata 练习的列表. 这些练习从一般算法到更复杂的算法以及现实生活中的情况各不相同，供您尝试使用您喜欢的编程语言. 请记住，代码套路不是测验或谜题. 您不仅应该尝试“解决”它，而且应该遵循您所使用的编程语言的最佳实践找到一个非常好的解决方案.
 
 ## [CodeKata](http://codekata.com/)
   - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
@@ -102,6 +102,7 @@
   - [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf)
   - [Promotion Text Kata](https://github.com/nealhu/promotion-text-kata)
   - [Args Kata](https://github.com/nealhu/args-kata)
+  - [CodeCrafters(Build your own Git, Redis, Docker etc.)](https://app.codecrafters.io/tracks?r=8Ol)
   
 ## Contribution
   

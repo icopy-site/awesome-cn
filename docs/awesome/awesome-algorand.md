@@ -45,7 +45,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 &gt; ⚠️ 鉴于 [attacks](https://twitter.com/myalgo_/status/1632862464244162560) 对于MyAlgo钱包用户，相关sdk已被排除在列表之外.
 
 - [Pera Wallet](https://github.com/perawallet)  - 适用于移动和桌面设备的安全、开源和社区驱动的钱包. 由官方 Algorand 钱包背后的团队维护.
-- [AlgoSigner](https://github.com/PureStake/algosigner) - 浏览器插件 Web Wallet 和 JS 库，用于在浏览器中签署交易.
+- [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser.
 - [Method Wallet](https://methodwallet.app/) - 您一定会喜欢的 Algorand 钱包.
 - [Defly Wallet](https://defly.app/) - Defly 是一款 Algorand 钱包，具有出色的集成 DeFi 功能.
 - [Daffi Wallet](https://www.daffi.me/) - Daffi 是 Algorand 的移动钱包，可集成访问 Daffi 平台.
@@ -121,6 +121,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [algokit-beaker-default-template](https://github.com/algorandfoundation/algokit-beaker-default-template) - 官方 AlgoKit beaker 模板为开发和部署 Beaker 智能合约提供了生产就绪基线.
 - [algokit-tealish-template](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit 社区模板，用于使用 tealish 和 algojig 快速启动智能合约项目.
+- [algokit-goracle-template](https://github.com/GoracleNetwork/algokit_default_template) - Algokit 社区模板，用于快速启动与 goracle 交互的智能合约项目.
 
 ### Languages
 
@@ -225,7 +226,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [pyteal-utils](https://github.com/algorand/pyteal-utils) - PyTEAL 实用程序库.
 - [reach](https://docs.reach.sh) - 用于构建跨链去中心化应用程序（DApp）的特定领域语言.
 - [aqua-compiler](https://github.com/optio-labs/aqua-compiler) - 用于 Algorand 区块链的富有表现力的高级语言，可编译为 TEAL 代码.
-- [algoml](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
+- [algoml](https://github.com/petitnau/algoml) - 用于指定 Algorand 智能合约的领域特定语言，可编译为 TEAL 脚本.
 - [tealang](https://github.com/pzbitskiy/tealang) - Algorand ASC1 和 TEAL 的高级语言.
 - [ASC Builder](https://ascbuilderapp.com) - 用于开发和部署 Algorand 智能合约的 GUI（拖放）工具 [Algoknox](https://twitter.com/Algoknox).
 - [tealish](https://github.com/Hipo/tealish)  - Tealish 是 Algorand 虚拟机的一种可读语言. 它使开发人员能够以针对可读性进行优化的程序风格编写 TEAL.
@@ -243,7 +244,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 #### Testing
 
 - [graviton](https://github.com/algorand/graviton) - Algorand 的 TEAL 黑盒测试工具包.
-- [tealer](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
+- [tealer](https://github.com/crytic/tealer) - 带有一组漏洞检测器的静态 TEAL 分析器，用于快速合同审查.
 - [irulan](https://irulan.dev/) - 用于部署+测试智能合约的Web应用程序（[open source! + PRs welcome](https://github.com/thencc/irulan)).
 - [algojig](https://github.com/Hipo/algojig) - 用于测试 Algorand 智能合约的工具.
 
@@ -310,7 +311,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Name Services
 
-&gt; 允许人类可读地址的名称服务列表.
+> A list of name services that allow for human-readable addresses.
 
 - [NFDomains](https://nf.domains/) - Algorand 名称服务和不可替代域名 (NFD) 市场 — 钱包地址的唯一、可读别名.
 - [Algorand Name Service](https://algonameservice.com/home)  - ANS 是一种去中心化命名服务.  Algorand 智能合约存储名称并管理命名政策.
@@ -333,7 +334,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algodesk](https://www.algodesk.io/) - 在 Algorand 区块链上创建、配置和管理您的资产.
 - [algonim](https://github.com/cusma/algonim)  - 第一款 Algorand 迷你益智游戏. 由Python+PyTEAL编写 [@cusma](https://twitter.com/cusma_b).
 - [algorealm](https://github.com/algorealm/algorealm)  - 夺​​取 Algorand 领域的王冠和权杖！ 由Python+PyTEAL编写 [@cusma](https://github.com/cusma).
-- [algorealm-ui](https://github.com/algorealm/algorealm-ui) - A web CLI Emulator version of algorealm cli game by @aorumbayev.
+- [algorealm-ui](https://github.com/algorealm/algorealm-ui) - @aorumbayev 的 algorealm cli 游戏的 Web CLI 模拟器版本.
 - [minter](https://github.com/algofishexe/minter)  - 遵循 ARC-69 社区标准的批量铸造 Algorand NFT. 由 Node.js 编写 [@fish.exe](https://twitter.com/AlgofishExe).
 - [algovanity](https://algovanity.com/) - Algorand 虚荣地址生成器 [Ripe](https://github.com/Ripe/algovanity).
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity 是用 Go 编写的 Algorand 虚荣地址生成器.
@@ -389,7 +390,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和画廊 [@aorumbayev](https://twitter.com/aorumbayev).
 - [AlgoMart](https://github.com/deptagency/algomart) - 开源 NFT 市场白标解决方案.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
-- [Dartroom](https://dartroom.xyz/overview) - 去中心化的 NFT 浏览器、铸造和交易.
+- [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
 - [Alchemon](https://alchemon.net/) - 怪物收集NFT卡牌游戏.
 - [Otherverse](https://otherverse.io/) - NFT 收藏品市场.
 - [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
