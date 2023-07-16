@@ -211,7 +211,7 @@
 - [marte-os](https://marte.unican.es/)  - MaRTE OS 是适用于嵌入式应用程序的硬实时操作系统，遵循最小实时 POSIX.13 子集. 它提供了一个易于使用和控制的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) - 高保证的 x86/64 分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK 是一个针对微控制器和嵌入式系统的微内核.
-- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小 32 位 x86 内核.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - Ada 端口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小 32 位 x86 内核.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace 致力于使用 Ada 2012 语言编写类 Unix 操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA 是一种用 Ada95 编写的类似 Mac Plus 的操作系统.
 - [cxos](https://github.com/ajxs/cxos) - Ada操作系统开发示例.
@@ -291,7 +291,7 @@
     - [ada-el](https://github.com/stcarrez/ada-el) - 该库提供对接近 Java 统一表达式语言 (EL) 的简单表达式语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) - Ada Server Faces 允许使用与 Java Server Faces 相同的模式创建 Web 应用程序（请参阅 JSR 252、JSR 314 和 JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) - Ada Servlet 允许使用与 Java Servlet 相同的模式创建 Web 应用程序（请参阅 JSR 154、JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 支持 Swagger codegen：OpenAPI Generator 是一个代码生成器，支持根据 OpenAPI 规范自动生成 API 客户端库、服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) - Ada 支持 Swagger codegen：OpenAPI Generator 是一个代码生成器，支持在给定 OpenAPI 规范的情况下自动生成 API 客户端库、服务器存根和文档.
 - [ews](https://github.com/simonjwright/ews) - 嵌入式 Web 服务器是一个 Web 服务器构建套件，专为使用 GNAT Ada 编译器的嵌入式应用程序而设计.
 - [matreshka](https://github.com/godunko/matreshka) - Matreshka 是一个用于开发信息系统的 Ada 框架，由五个主要组件组成：联盟、XML 处理器、Web 框架、SQL 访问和建模框架.
 
@@ -505,7 +505,7 @@
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - 在 Ada 中实现的声音合成器库.
 - [scala](https://www.huygens-fokker.org/scala) - Scala 是一款功能强大的软件工具，用于实验音乐调音，例如纯音阶、平均律和历史律、微音阶和宏音阶以及非西方音阶.
 - [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - 用于 Ada 应用程序的 linux-sound-playing 包，可以异步启动和停止音乐循环，以及启动瞬态声音.
-- [adaogg] - 完整的精简接口层，将 Ogg、Vorbis 和 Theora 库引入 Ada 2012 编程语言.
+- [adaogg](https://phasercat.com/adaogg/) - 完整的薄接口层，将 Ogg、Vorbis 和 Theora 库引入 Ada 2012 编程语言.
 
 ### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - Ada 包允许将应用程序消息外部化到属性文件中.

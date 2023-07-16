@@ -38,6 +38,7 @@
 * [Vökuró](https://github.com/phalcon/vokuro) - Phalcon 框架的示例应用程序（Acl、Auth、Security）
 * [Webird](https://github.com/perchlabs/webird) - 创建 Webird 的目的是将最新的 PHP 和 Node.js 创新合并到单个应用程序堆栈中
 * [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) - 具有 API/后端和前端的示例应用程序 + 使用 JWT 进行身份验证 + 使用 GitHub Actions + Docker 进行 Cypress 测试.
+* [PhalconTool](https://github.com/corentin-begne/phalconTool) - Phalcon 开发工具的替代方案，具有完整的前端堆栈，无需任何框架，但帮助系统允许使用 Phalcon 5、PHP 8、Apache、MYSQL、SASS、ES6 和 jQuery 自动绑定 HTML 事件.
 
 
 ## Authentication & OAuth
@@ -65,7 +66,7 @@
 
 *命令行应用程序和工具.*
 
-* [phalcon-console](https://github.com/viebig/phalcon-console) - 使用出色的 Phalcon 框架的命令行应用程序的示例引导应用程序
+* [phalcon-console](https://github.com/viebig/phalcon-console) - 使用优秀的 Phalcon 框架的命令行应用程序的示例引导应用程序
 * [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) - Phalcon 的 Cron 组件
 
 
@@ -225,7 +226,7 @@
 * [Phalcon Russian Community Chat](https://app.gitter.im/#/room/#phalcon-rus_chat:gitter.im) - Gitter.im 中的俄语社区聊天
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) - StackOverflow 标记问题
 * [Telegram](https://t.me/phalcon_news) - Telegram 上的 Phalcon
-* [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
+* [Twitter](https://twitter.com/phalconphp) - Phalcon 在 Twitter 上
 
 ## Books
 
@@ -237,7 +238,7 @@
 
 ## Magazines
 
-* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - 生态设计的 10 条戒律（文章提到 Phalcon 作为一个轻型生态框架）
+* [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) - The 10 commandments of eco-design (article mentioning Phalcon as a light and ecological Framework)
 * [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) - Phalcon：新的必须了解的 PHP 框架
 
 ## Websites

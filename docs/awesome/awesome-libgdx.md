@@ -35,6 +35,7 @@ _可在 libGDX 代码中使用的资源来增强框架的功能._
 
 ### Editors
 - [HyperLap2D](https://github.com/rednblackgames/HyperLap2D) - 用于复杂 2D 世界和场景的可视化编辑器，具有 libGDX 运行时.
+- [Mundus](https://github.com/JamesTKhan/Mundus) - 3D 世界的世界/关卡编辑器，具有 libGDX 运行时.
 - [Spine](http://esotericsoftware.com/) - 基于骨架的动画工具，专门专注于游戏的 2D 动画.
 
 ### Entity Component System (ECS)

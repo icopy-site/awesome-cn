@@ -8,7 +8,7 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **人工智能通用智能**的**精彩且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智能的标志.
+ **人工智能通用智能**的**精彩且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 这种智力通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智力的标志.
 
  ***Awesome AGI &amp; CoCoSci*** 是一个一体化的集合，包括从基础课程和教程到从多个角度围绕不同主题的论文和书籍的资源. 无论是初级研究人员还是高级研究人员，无论是学习、从事 AGI 和 CoCoSci 工作还是围绕 AGI 和 CoCoSci 工作，都可以在这里满足他们的兴趣.
 
@@ -428,7 +428,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) -***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里（Susan Carey）关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) -***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——这是一种关于知识和意义起源的观点，对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) -***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐述并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——这是一种关于知识和意义起源的观点，对认知科学的广泛影响.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论理论的原创论文.
 
@@ -451,7 +451,7 @@
 
 * [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***心理学前沿***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
 
-* [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***大脑皮层***，2023. [[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081&hl=en&as_sdt=0,5) ]. 视觉和触觉形状感知功能磁共振成像实验表明，中层形状特征在腹侧和背侧流中均以与模态无关的方式表示.
+* [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***大脑皮层***，2023. [[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081&hl=en&as_sdt=0,5) ]. 视觉和触觉形状感知功能磁共振成像实验表明，中层形状特征在腹侧和背侧流中以独立于模态的方式表示.
 
 
 #### AI Concept Representation
@@ -709,7 +709,7 @@
 
 * [Constrained Policy Optimization](http://proceedings.mlr.press/v70/achiam17a/achiam17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=6114366704163518185&hl=en&as_sdt=0,5) ]. 关于约束强化学习（安全强化学习）的原始论文.
 
-* [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707&hl=en&as_sdt=0,5)].
+* [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS&#39;19***，2019 年. [[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707&hl=en&as_sdt=0,5)]. [[Post](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)].
 
 * [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
 
@@ -1379,7 +1379,7 @@
 
 * [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***IEEE 会议记录***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对将因果推理视为表征学习问题的观点进行了回顾.
 
-* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的评论.
+* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的回顾.
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
