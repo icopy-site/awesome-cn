@@ -271,6 +271,7 @@
 - [dgidb](https://github.com/dgidb/dgidb) - 药物基因相互作用平台 - 使用Rails 6.0
 - [diaspora](https://github.com/diaspora/diaspora) - 社交网络应用程序 - 使用 Rails 6.1 - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse)  - 社区讨论平台（使用 Rails 7.0）.  - [:earth_africa:](https://try.discourse.org/)
+- [docuseal](https://github.com/docusealco/docuseal)  - 填写和签署数字文档的平台（使用 Rails 7.0）.  - [:earth_africa:](https://www.docuseal.co/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) - 农场管理应用程序（使用 Rails 5.0）.
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 具有加密支持的消息应用程序（使用 Rails 4.2）.
 - [eol](https://github.com/EOL/deprecated_eol) - 百科全书应用程序 - 使用 Rails 3.2 - [:earth_africa:](https://eol.org/)

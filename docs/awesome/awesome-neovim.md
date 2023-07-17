@@ -113,7 +113,7 @@ Neovim 支持多种 UI.
 
 - [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - Neovim 支持 [Lean Theorem Prover](https://leanprover.github.io/).
 - [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) - 使用原生 LSP 构建 Flutter 和 Dart 应用程序.
-- [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor Vim plugin to take advantage of the latest Neovim features.
+- [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) - Lua 版本的 Phpactor Vim 插件可以利用最新的 Neovim 功能.
 - [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) - Mix（来自 Elixir）包装插件.
 - [AckslD/swenv.nvim](https://github.com/AckslD/swenv.nvim) - 无需重新启动即可快速切换 Python 虚拟环境的小插件.
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - JSON 文件的交互界面.
@@ -464,7 +464,7 @@ Neovim 支持多种 UI.
 ### Media
 
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua 插件用于从剪贴板粘贴图像.
-- [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) - 从剪贴板粘贴图像并插入参考代码.
+- [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) - Paste image from clipboard and insert the reference code.
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) - 基于 picgo 核心的 Neovim 插件，用 Lua 编写，允许您将图像上传到图像床，这意味着您可以从互联网上的任何地方查看图像.
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) - Reaper DAW 的模式键绑定.
 - [madskjeldgaard/reaper-nvim](https://github.com/madskjeldgaard/reaper-nvim) - Neovim 远程控制 Reaper DAW.
@@ -816,6 +816,7 @@ Neovim 支持多种 UI.
 - [~nedia/auto-format.nvim](https://git.sr.ht/~nedia/auto-format.nvim) - 本身不进行格式化，但设置自动命令以在保存时进行格式化，与 LSP 客户端格式化相比，更喜欢 null-ls.
 - [tenxsoydev/tabs-vs-spaces.nvim](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) - 提示并修复偏离的缩进.
 - [bennypowers/svgo.nvim](https://github.com/bennypowers/svgo.nvim) - 优化 SVG 文件.
+- [niuiic/format.nvim](https://github.com/niuiic/format.nvim) - 异步、多任务和高度可配置的格式化插件.
 
 #### Indent
 

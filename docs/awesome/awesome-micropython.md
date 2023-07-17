@@ -644,6 +644,7 @@
 * [ad9850_signalgen](https://github.com/brenn/ad9850_signalgen) - AD9850 合成器的 MicroPython 库.
 * [pico-wave-vibration-generator](https://github.com/gurgleapps/pico-wave-vibration-generator) - 适用于 Raspberry Pi Pico 的基于 MicroPython 的频率发生器，旨在在螺线管或扬声器上产生振动，从而实现在家中进行波实验和探索.
 * [micropython-m5stack-dds](https://github.com/mattytrentini/micropython-m5stack-dds) - M5Stack DDS 频率发生器的 MicroPython 驱动程序.
+* [AD9833-MicroPython-Module](https://github.com/owainm713/AD9833-MicroPython-Module) - MicroPython 模块使用 AD9833 可编程波形发生器.
 
 ### Mathematics
 

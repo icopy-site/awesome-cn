@@ -1033,7 +1033,7 @@
 
 * [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf) - 2022. [[All Versions](https://scholar.google.com/scholar?cluster=9025378857688824887&hl=en&as_sdt=0,5) ]. 对 AutoRL 的全面回顾.
 
-* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878) ].  Chelsea Finn 关于模型无关元学习 (MAML) 的原始论文.
+* [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://proceedings.mlr.press/v70/finn17a/finn17a.pdf) - ***ICML'17***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17278604844873996878)]. [[Post](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) ].  Chelsea Finn 关于模型无关元学习 (MAML) 的原始论文. 
 
 * [Bayesian Model-Agnostic Meta-Learning](https://proceedings.neurips.cc/paper/2018/hash/e1021d43911ca2c1845910d84f40aeae-Abstract.html) - ***NeurIPS&#39;18***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=7370333111335795917&hl=en&as_sdt=0,5) ].  MAML 上的贝叶斯帐户.
 

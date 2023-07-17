@@ -47,7 +47,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook 命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) - 推特客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上有一个智能且漂亮的 Twitter 客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [tuir](https://gitlab.com/ajak/tuir) - 应该是途易.
 - [WeeChat](https://weechat.org/) - 快速、轻便且可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) - IRC 聊天客户端.
@@ -181,7 +181,7 @@
 
 ### HTTP Server
 
-- [serve](https://github.com/vercel/serve) - 提供静态文件（https、CORS、GZIP 压缩等）.
+- [serve](https://github.com/vercel/serve) - Serve static files (https, CORS, GZIP compression, etc).
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过 HTTP 轻松提供本地目录.
 - [shell2http](https://github.com/msoap/shell2http) - 基于 Shell 脚本的 HTTP 服务器.
 
@@ -208,7 +208,7 @@
 
 - [Timetrap](https://github.com/samg/timetrap) - 简单的时间追踪器.
 - [moro](https://github.com/omidfi/moro) - 用于跟踪工作时间的简单工具.
-- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 具有简单秒表、基于日历的回填和灵活报告的实用程序.
 - [Watson](https://github.com/TailorDev/Watson) - 为客户生成报告并管理您的时间.
 - [utt](https://github.com/larose/utt) - 简单的时间跟踪工具.
 - [Bartib](https://github.com/nikolassv/bartib) - 易于使用的时间跟踪工具.
@@ -217,7 +217,7 @@
 
 - [idea](https://github.com/IonicaBizau/idea) - 一款轻量级工具，可快速轻松地将创意保存在安全的地方.
 - [geeknote](https://github.com/jeffkowalski/geeknote) - 印象笔记客户端.
-- [Taskwarrior](https://taskwarrior.org/) - 管理您的待办事项列表.
+- [Taskwarrior](https://taskwarrior.org/) - Manage your TODO list.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 快速记笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 输入并存储您的想法.
 - [sncli](https://github.com/insanum/sncli) - Simplenote 客户端.
@@ -295,7 +295,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面壁纸.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器、终端、壁纸、Slack 等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将 Unsplash 中的图像设置为壁纸.
-- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后将它们应用于系统范围内的所有您喜爱的程序.
+- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后将它们应用于系统范围内的所有您喜欢的程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - 直接从 Unsplash 设置壁纸.
 - [oh-my-posh](https://ohmyposh.dev) - 提示主题引擎.
 
@@ -360,13 +360,13 @@
 ### Internet Speedtest
 
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用 speedtest.net 测试互联网连接速度和 ping.
-- [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
+- [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同 UI 的“speedtest-net”包装器.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用 speedtest.net 测试互联网带宽.
 - [bandwhich](https://github.com/imsnif/bandwhich) - 按进程跟踪带宽利用率.
 
 ## Command Line Learning
 
-- [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
+- [cmdchallenge](https://cmdchallenge.com) - 通过用户提交的解决方案提出小型 shell 挑战.
 - [explainshell](https://www.explainshell.com/) - 输入片段以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) - 即时编码答案.
 - [how2](https://github.com/santinic/how2) - Howdoi 的 Node.js 实现.
@@ -398,7 +398,7 @@
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - 用于破解 JSON 和 Javascript 的实用工具带.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) - 从 JSON 中删除注释.
 - [GROQ](https://github.com/sanity-io/groq-cli) – 具有查询和投影功能的 JSON 处理器.
-- [gron](https://github.com/tomnomnom/gron) - 使 JSON grep 化.
+- [gron](https://github.com/tomnomnom/gron) - 使 JSON 可读取.
 
 ### YAML
 
@@ -491,6 +491,7 @@
 - [broot](https://github.com/Canop/broot) - 模糊查找器类似于 fzf，但具有空间使用可视化功能.
 - [rare](https://github.com/zix99/rare) - 实时正则表达式聚合和分析.
 - [skim](https://github.com/lotabout/skim) - 用 Rust 编写的通用模糊查找器，类似于 fzf.
+- [ast-grep](https://github.com/ast-grep/ast-grep) - 用于代码结构搜索、检查和重写的工具.
 
 ## Version Control
 
