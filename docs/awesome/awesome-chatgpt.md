@@ -43,7 +43,7 @@
 - [IntelliBar](https://intellibar.app)  - 可以使用键盘快捷键显示的 macOS 应用程序.  ($·电子)
 - [Ask AI](https://sindresorhus.com/ask-ai)  - 原生 watchOS 应用程序.  ($)
 - [Chat Answer](https://github.com/bapaws/answer) - 本机 iOS 和 Android 应用程序.
-- [Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) - Cross-platform web UI wrapper.
+- [Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) - 跨平台 Web UI 包装器.
 - [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)  - 跨平台 Web UI 包装器.  （电子）
 - [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - 本机Android应用程序.
 - [ChatARKit](https://github.com/trzy/ChatARKit) - 用于使用自然语言创建 AR 体验的 iOS 应用程序.
@@ -53,9 +53,10 @@
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)  - 本机 Android 应用程序，支持 Azure 语音、自定义提示等.  ($)
 - [Developer Duck](https://apps.apple.com/app/id1662283032)  - 以本机开发人员为中心的 macOS 应用程序，带有 Xcode 插件和命令行支持.  ($)
 - [Hello History](https://hellohistory.ai)  - 在 iOS 和 Android 上与历史人物聊天.  ($)
-- [Actions](https://github.com/sindresorhus/Actions) - 从 iOS 和 macOS 上的“快捷方式”应用程序中使用 ChatGPT.
+- [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
 - [EasyChat AI](https://easychat-ai.app) - 使用最新 Windows 11 设计语言的本机 Windows 应用程序.
 - [pgMagic](https://pgmagic.app)  - macOS 应用程序可让您使用自然语言查询 PostgreSQL 数据库.  ($)
+- [Atua](https://atua.app)  - macOS 应用程序可在任何应用程序中使用 ChatGPT.  ($)
 
 ## Web apps
 
@@ -85,6 +86,7 @@
 - [TaskMatrix](https://github.com/microsoft/TaskMatrix) - 将 ChatGPT 与视觉模型相结合，以增强图像聊天交互.
 - [OpenChat](https://github.com/openchatai/OpenChat) - 个性化 ChatGPT 聊天机器人.
 - [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - 与 ChatGPT 集成的代码解释器.
+- [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 个性化 ChatGPT AI 聊天机器人.
 
 ### Hosted
 
@@ -182,12 +184,13 @@
 - [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes 机器人.
 - [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions 机器人.
 - [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions 机器人.
-- [chatgpt-创建单元测试
-](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions 机器人，用于分析拉取请求并在必要时添加单元测试.
+- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions 机器人，用于分析拉取请求并在必要时添加单元测试.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 用于大型 PDF 文件的聊天机器人.
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - 微信机器人.
 - [Chat Bling](https://chatbling.net) - WhatsApp 机器人.
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - 支持语音消息的 Telegram 机器人.
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo 机器人.
+- [BraveGPT](https://github.com/kudoai/bravegpt) - 勇敢的搜索机器人.
 
 ## Integrations
 
@@ -211,6 +214,7 @@
 - [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - 在 Google 幻灯片中创建人工智能驱动的演示文稿.
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - 将 ChatGPT 功能集成到 scikit-learn 中.
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT 与 Obsidian 笔记软件集成.
+- [Chapyter](https://github.com/chapyter/chapyter) - 将 ChatGPT 功能集成到 Jupyter Notebook 中.
 
 ## Packages
 

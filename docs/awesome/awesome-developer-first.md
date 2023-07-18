@@ -27,9 +27,9 @@
 * [Heap](https://heap.io/) - 适用于网络和移动设备的产品分析 API，捕获所有事件. 
 * [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
 * [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型网络分析.
-* [Plausible](https://plausible.io/) - 简单、保护隐私的开源网络分析工具.
+* [Plausible](https://plausible.io/) - 简单、保护隐私的开源网络分析工具. ![Plausible](https://img.shields.io/github/contributors-anon/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [PoeticMetric](https://poeticmetric.com/) - 隐私第一、符合法规、速度极快的分析工具.
-* [PostHog](https://posthog.com/) - 开源产品分析平台.
+* [PostHog](https://posthog.com/) - 开源产品分析平台. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
 * [Tinybird](https://www.tinybird.co/) - 实时数据流至 API.
 
@@ -43,34 +43,34 @@
 * [Corbado](https://corbado.com) - 密钥优先身份验证作为服务.
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
 * [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
-* [Hanko](https://www.hanko.io/) - 符合无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR.
+* [Hanko](https://www.hanko.io/) - 符合无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
 * [Magic.link](https://magic.link) - 无密码（基于电子邮件）登录作为服务.
 * [Okta](https://developer.okta.com/) - 使用 SSO 的嵌入式身份验证.
 * [Ory](https://ory.sh/) - 开源身份和访问控制解决方案（也作为服务提供）.
 * [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
 * [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
-* [SuperTokens](https://supertokens.io/) - 具有预构建 UI 的开源和托管电子邮件和 Oauth 身份验证.
+* [SuperTokens](https://supertokens.io/) - 具有预构建 UI 的开源和托管电子邮件和 Oauth 身份验证. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Userfront](https://userfront.com/) - 使用预构建的后台仪表板简化用户身份验证.
 * [WorkOS](https://workos.com/) - 企业 SSO 和更多开箱即用的企业功能.
 
 ## Automation
 *通过 API 和 SDK 实现工作流程自动化.*
-* [n8n](http://n8n.io/) - 免费且可获取源代码的公平代码许可工作流程自动化工具.
-* [Trigger.dev](http://trigger.dev/) - 开源平台，可按计划或按需从 API 创建工作流程.
+* [n8n](http://n8n.io/) - 免费且可获取源代码的公平代码许可工作流程自动化工具. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Trigger.dev](http://trigger.dev/) - 开源平台，可按计划或按需从 API 创建工作流程. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## CI/CD
 *持续集成/交付.*
 * [CircleCI](https://circleci.com/) - YML 配置您的构建、并行作业、就业市场.
 * [Depot](https://depot.dev) - 直接替换以在 CI 中更快地构建 Docker 映像.
 * [GitLab](https://gitlab.com/) - 具有类似 Github 功能的开源 CI 和托管解决方案.
-* [Gitpod](https://www.gitpod.io/) - 自动化云开发环境. 
+* [Gitpod](https://www.gitpod.io/) - 自动化云开发环境. ![Gitpod](https://img.shields.io/github/contributors-anon/gitpod-io/gitpod?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Spacelift](https://spacelift.io/) - 用于基础设施即代码的 CI/CD 平台，目前支持 Terraform、Pulumi、AWS CloudFormation 和 Kubernetes.
 
 ## CMS (headless)
 * [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 构建器.
-* [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如 [with Hexo](https://ghost.org/docs/api/v3/hexo/)).
-* [Strapi](https://strapi.io/) - 开源无头 CMS，100% JavaScript.
+* [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如 [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Strapi](https://strapi.io/) - 开源无头 CMS，100% JavaScript. ![Strapi](https://img.shields.io/github/contributors-anon/strapi/strapi?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Code Quality
 *检查您的代码质量.*
@@ -88,10 +88,10 @@
 *存储数据并处理它.*
 * [Airtable](https://airtable.com/) - 数据库和电子表格与 API 的混合.
 * [Apitable](https://apitable.com/) - 面向 API 的 Airtable 替代方案.
-* [CrateDB](https://crate.io/) - 用于实时分析的分布式开源 SQL 数据库. 
+* [CrateDB](https://crate.io/) - 用于实时分析的分布式开源 SQL 数据库. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Neuledge](https://neuledge.com/) - 具有适用于任何类型数据库的通用模式语言的抽象 ORM.
 * [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动扩展.
-* [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase.
+* [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Upstash](https://upstash.com/) - 无服务器定制的 Redis 提供商.
 
 ## Debugging 
@@ -126,7 +126,7 @@
 *文档解决方案.*
 * [Bump.sh](https://bump.sh/) - API 文档和变更管理解决方案.
 * [DeveloperHub](https://developerhub.io/) - 协作开发人员文档平台.
-* [Mintlify](https://www.mintlify.com/) - AI 支持的代码文档、IDE 扩展（开源）.
+* [Mintlify](https://www.mintlify.com/) - AI 支持的代码文档、IDE 扩展（开源）. ![Mintlify](https://img.shields.io/github/contributors-anon/mintlify/writer?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [ReadMe](https://readme.com/) - 个性化和动态的开发人员文档.
 * [Swimm](https://swimm.io/) - 与您的代码相结合、自动同步的文档，可与您的 IDE 配合使用.
 
@@ -141,10 +141,10 @@
 ## Feature Flags
 *使用代码中的条件标志控制生产功能.*
 * [Flagsmith](https://flagsmith.com/) - 简化了标记即服务平台的功能.
-* [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台.
+* [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台. ![GrowthBook](https://img.shields.io/github/contributors-anon/growthbook/growthbook?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
 * [Split](https://www.split.io/) - 具有数据分析功能的标记平台.
-* [Unleash](https://www.getunleash.io/) - 开源、隐私第一、企业级功能管理解决方案.
+* [Unleash](https://www.getunleash.io/) - 开源、隐私第一、企业级功能管理解决方案. ![Unleash](https://img.shields.io/github/contributors-anon/unleash/unleash?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## GEO
 *位置服务.*
@@ -162,7 +162,7 @@
 ## Infrastructure as Code
 *声明您的基础设施并从中可重复地配置云基础设施.*
 * [Pulumi](https://www.pulumi.com/) - 开发人员优先的 IaC，使用 Python、TypeScript、Go 和更多语言...
-* [Terraform](https://www.hashicorp.com/products/terraform) - DSL，开源且免费（付费解决方案添加了团队管理、策略即代码...）.
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL，开源且免费（付费解决方案添加了团队管理、策略即代码...）. ![Terraform](https://img.shields.io/github/contributors-anon/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Integrations
 *简化集成开发的集成管理系统或产品.*
@@ -199,7 +199,7 @@
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息传递.
 * [Knock](https://knock.app) - 通知即服务.
 * [MagicBell](https://www.magicbell.com/) - 带有 API 和 UI 组件的实时通知系统.
-* [Novu](https://novu.co/) - 开源通知（电子邮件、短信、直接和推送）管理.
+* [Novu](https://novu.co/) - 开源通知（电子邮件、短信、直接和推送）管理. ![Novu](https://img.shields.io/github/contributors-anon/novuhq/novu?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Stream](https://getstream.io/) - 喂食和聊天即服务.
 * [Twilio](https://www.twilio.com/) - SMS、推送通知和 VoIP API.
 * [Vonage](https://www.vonage.com) - 视频、短信、聊天和语音 API.
@@ -214,7 +214,7 @@
 * [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
 
 ## Monitoring
-*监控您的生产应用.*
+*监控您的生产应用程序.*
 * [KeenIO](https://keen.io/) - 事件流平台.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
@@ -261,9 +261,9 @@
 
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
-* [Meilisearch](https://www.meilisearch.com/) - 开源、快速且相关的搜索引擎.
+* [Meilisearch](https://www.meilisearch.com/) - 开源、快速且相关的搜索引擎. ![Meilisearch](https://img.shields.io/github/contributors-anon/meilisearch/meilisearch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
-* [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务.
+* [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务. ![Typesense](https://img.shields.io/github/contributors-anon/typesense/typesense?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.
 
 ## Security
