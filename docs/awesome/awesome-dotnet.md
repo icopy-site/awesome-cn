@@ -44,7 +44,7 @@
 * [FFImageLoading - Fast & Furious Image Loading](https://github.com/luberda-molinet/FFImageLoading) - 该库可在 Xamarin.iOS、Xamarin.Android、Xamarin.Forms、Xamarin.Mac / Xamarin.Tizen 和 Windows（UWP、WinRT）上快速轻松地加载图像
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET核心API网关
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - ASP.NET Core 的命令查询分离⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions ASP.NET Web API 2
-* [Cloud Storage](https://github.com/managedcode/Storage)：- 该库提供了一个通用接口，用于访问和操作不同云 blob 存储提供商（Azure 存储、AWS S3、Google 云存储）中的数据.它可以轻松地在提供商之间切换或同时使用多个提供商，而无需学习和操作使用多个 API.
+* [Cloud Storage](https://github.com/managedcode/Storage)：- 该库提供了一个通用接口，用于访问和操作不同云 blob 存储提供商（Azure 存储、AWS S3、Google 云存储）中的数据.它可以轻松地在提供商之间切换或同时使用多个提供商，而无需学习和使用多个 API.
 
 ## Application Frameworks
 
@@ -57,7 +57,7 @@
 * [CSLA .NET](https://github.com/MarimerLLC/csla) - 业务层开发框架 https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) - Mono.Addins 是一个通用框架，用于创建可扩展应用程序以及创建扩展这些应用程序的加载项
-* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，提供易于使用且灵活的规则引擎，旨在解决常见挑战，例如并发处理、事务支持、容错、线程、可扩展性、异步和多客户端支持以及易于测试性等没有巨大的学习曲线！
+* [peasy](https://github.com/peasy/Peasy.NET) - Peasy 是一个中间层框架，提供易于使用且灵活的规则引擎，旨在解决并发处理、事务支持、容错、线程、可扩展性、异步和多客户端支持以及易于测试等常见挑战，所有这些都不需要巨大的学习曲线！
 * [Plastic](https://github.com/sang-hyeon/Plastic)  - Plastic 提供对域、应用程序规则、业务规则或应用程序中的业务逻辑等内容的封装. 为此，使用命令模式.
 * [Signals](https://github.com/EmitKnowledge/Signals) - Signals 是一个基于 .NET5 的框架，专注于通过为开发团队提供工具、方面和流程来提高开发团队的质量和生产力.
 * [Spring.Net](https://github.com/spring-projects/spring-net) - Spring.NET 是一个开源应用程序框架，使构建企业 .NET 应用程序变得更加容易
@@ -106,6 +106,7 @@
 * [IdentityServer](https://github.com/IdentityServer) - 可扩展的 OAuth2 和 OpenID Connect 提供商框架.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - 一个非常轻量级的库，用于生成用 C 编写的 OAuth 1.0a 签名#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman 是一个在开发过程中利用 .NET Claims Identity 模拟用户的库.
+* [Topaz](https://www.topaz.sh) - .NET 应用程序的开源授权项目.  
 
 ## Blazor
 
@@ -640,7 +641,7 @@
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) - MVC 的 Elmah
 * [Logary](https://github.com/logary/logary)  - Logary 是一个适用于 Mono 和 .NET 的高性能、多目标日志记录、指标、跟踪和运行状况检查库.  .NET 对 DropWizard 的回答. 支持许多为微服务构建的目标.
 * [Log4Net](https://logging.apache.org/log4net/) - Apache log4net库是帮助程序员将日志语句输出到各种输出目标的工具
-* [Rollbar.NET](https://github.com/rollbar/Rollbar.NET)  - 简化使用 Rollbar.com 时的实时远程错误监控. 适用于任何基于 .NET 的技术堆栈的开源 Rollbar Notifier SDK. 该 SDK 可用于基于以下 .NET 版本构建的任何应用程序：.NET Core 2.0+、.NET Standard 2.0+、.NET Full Framework 4.5.1+、Mono、Xamarin 以及一般情况下的任何实现.NET 标准 2.0+. 它简化了基于异常数据、跟踪数据、信息消息和遥测数据的数据有效负载的构建，并将有效负载发送到 Rollbar API 以远程监控和分析托管应用程序的行为.
+* [Rollbar.NET](https://github.com/rollbar/Rollbar.NET)  - 简化使用 Rollbar.com 时的实时远程错误监控. 适用于任何基于 .NET 的技术堆栈的开源 Rollbar Notifier SDK. 该 SDK 可在基于以下 .NET 版本构建的任何应用程序中使用：.NET Core 2.0+、.NET Standard 2.0+、.NET Full Framework 4.5.1+、Mono、Xamarin 以及通常的 .NET Standard 2.0+ 的任何实现. 它简化了基于异常数据、跟踪数据、信息消息和遥测数据的数据有效负载的构建，并将有效负载发送到 Rollbar API 以远程监控和分析托管应用程序的行为.
 * [Sejil](https://github.com/alaatm/Sejil)  - 直接从您的应用程序捕获、查看和过滤 ASP.NET Core 应用程序的日志. 它支持结构化日志记录、查询以及保存日志查询.
 * [Sentry](https://github.com/getsentry/sentry-dotnet) - .NET SDK 用于 [Sentry](https://sentry.io/welcome/) 开源错误跟踪可帮助开发人员实时监控和修复崩溃.
 * [Serilog](https://github.com/serilog/serilog)  - NoSQL 时代的严肃日志库. 将传统诊断日志记录和结构化诊断日志记录的优点结合在一个易于使用的软件包中.
@@ -807,7 +808,7 @@
 * [NPOI](https://github.com/tonyqus/npoi) - 该项目是 POI Java 项目的 .NET 版本，位于 https://poi.apache.org/.
 * [EPPlus](https://github.com/JanKallman/EPPlus) - EPPlus 是一个 .NET 库，它使用 Open Office XML 格式 (xlsx) 读取和写入 Excel 2007/2010 文件.
 * [Open XML SDK](https://github.com/officedev/open-xml-sdk) - Open XML SDK 提供用于处理 Open XML 文档（DOCX、XLSX 和 PPTX）的开源库.
-* [DocX](https://github.com/xceedsoftware/DocX) - DocX 是一个 .NET 库，允许开发人员操作 Word 2007/2010/2013 文件，不需要安装 Microsoft Word 或 Office.
+* [DocX](https://github.com/xceedsoftware/DocX) - DocX是一个.NET库，允许开发人员操作Word 2007/2010/2013文件，它不需要安装Microsoft Word或Office.
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 * [NetOffice](https://github.com/NetOfficeFw/NetOffice) - Microsoft Office 应用程序的.NET 包装程序集.
 * [GemBox.Bundle](https://www.gemboxsoftware.com/bundle)  - .NET 组件包，可快速、简单且高效地处理办公文件（Excel、Word、PowerPoint、PDF 和电子邮件）.  **[$]****[免费精简版]**

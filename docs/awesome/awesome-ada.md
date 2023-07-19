@@ -72,12 +72,12 @@
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) - 一般、中级.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.amazon.com/Ada-Plus-Data-Structures-Oriented/dp/0763737941) - 数据结构.  
-<img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-84882-314-3"> [Ada for Software Engineers](https://link.springer.com/book/10.1007/978-1-84882-314-3) - 习语、建筑.  
+<img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-84882-314-3"> [Ada for Software Engineers](https://link.springer.com/book/10.1007/978-1-84882-314-3) - Idioms, Architecture.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - 并发、容器、调度.  
 <img height="50px" width="36px" hspace="10px" src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4612-1854-8">[Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95](https://link.springer.com/book/10.1007/978-1-4612-1854-8) - 数据结构、算法.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) - 并发、分布式.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) - 日程安排.  
-<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - 形式验证.  
+<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) - Formal verification.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.lulu.com/cover_thumbs/1/e/1erpwvkr-front-shortedge-384.jpg">[Ada and SPARK on ARM Cortex-M](https://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) - 嵌入式.  
 
 ### Specialties
@@ -172,7 +172,7 @@
 - [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源代码的 Gnu Emacs 主模式.
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - 维护的 Ada Bundle：Vim/NeoVim 的完整 Ada 模式.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate 支持 Ada.
-- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit 对 Ada 的支持.
+- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK 对 org-babel 的支持：使用 Gnu Emacs 和 org 文件评估源代码块.
 
 ### VSCode Extensions
@@ -187,7 +187,7 @@
 - [aura](https://github.com/annexi-strayline/AURA)  - 集成的构建和源/包管理工具，具有更实用的版本控制方法.  Alire 和 gprbuild 的替代品. 针对 CI/CD 管道进行了优化.
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore 多语言软件构建工具.
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Ravenports 的管理工具 http://www.ravenports.com.
-- [synth](https://github.com/jrmarino/synth) - 用于实时系统的下一个 D/Ports 构建工具（Portmaster 和 Portupgrade 工具的替代品）.
+- [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
 - [ada4cmake](https://github.com/mosteo/ada4cmake) - 用于简单 gnat 项目包含的 CMake 宏.
 - [cmake-ada-offa](https://github.com/offa/cmake-ada) - CMake 的 Ada 语言支持.
 - [cmake-ada-cho3](https://github.com/cho3/cmake-ada) - CMake 语言支持 Ada，[plplot] 跨平台支持代码的分支.
@@ -218,6 +218,7 @@
 - [havk](https://github.com/RavSS/HAVK) - 使用 SPARK 创建 x86-64 注重安全的操作系统.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS 是一个多处理器、64 位、（部分）经过正式验证的通用操作系统，目前适用于 x86-64 架构.
 - [ironclad](https://nongnu.org/ironclad) - 适用于多种架构的内核，致力于 POSIX 兼容性，用于多种发行版，例如 [Gloire](https://github.com/streaksu/Gloire).
+- [hirtos](https://github.com/jgrivera67/HiRTOS) - 用 SPARK Ada 编写的高完整性 RTOS.
 
 ## Games
 - [steamsky](https://www.laeran.pl/repositories/steamsky) - 蒸汽朋克风格的 Roguelike 天空游戏.
@@ -229,7 +230,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台的终端中运行的复古游戏.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以足球为主题的 3D 推箱子益智游戏，可在 Windows、Mac OS-X 和 GNU Linux 上运行.
 - [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是一款“三消”类型的游戏，在 [gnoga] 中实现.
-- [buttons](https://github.com/andreacervetti/buttons) - A simple [gtkada] Button Mania game.
+- [buttons](https://github.com/andreacervetti/buttons) - 一个简单的[gtkada]按钮狂热游戏.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) - 地雷探测器：一款无需猜测的探雷游戏.
 - [play-2048](https://github.com/mgrojo/play_2048)  - 玩2048！ 是流行的 2048 游戏的克隆，在 Ada 中实现，使用 [asfml] 进行图形处理，使用 [ada-toml] 保存状态.
 - [bingada](https://github.com/jfuica/bingada) - [gtkada] 中的宾果应用程序.
@@ -238,8 +239,8 @@
 ## Frameworks
 
 ### Components
-- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm) - ASN.1, MQTT client and server/broker implementation, B-trees, Multiple connection TCP servers, Chebyshev series, Mutexes, Cryptography, Objects and handles to, Doubly-linked webs and lists, ODBC bindings, Blackboards (lock-free), OpenSSL bindings, ELV/eQ-3 MAX! client implementation, Parsers, Events (plain, pulse, array of), Persistent objects and handles to, GNUTLS bindings, Persistent storage and handles to, Graphs (directed, weighted, acyclic, trees), Pools, HTTP implementation, Sets and maps, FIFO (lock-free), SMTP client implementation, IEEE 754, SQLite bindings, Inter-process communication, Stacks, Interfacing Julia language, Streams, JSON, Strings editing, LDAP, Tables (maps of strings), MODBUS client implementation, Unbounded arrays.
-- [ada-util](https://github.com/stcarrez/ada-util/) - 接近Java log4j框架的日志框架，对属性的支持，XML / JSON / CSV的序列化/反序列化框架，Ada beans框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（ raw、文件、缓冲区、管道、套接字）、多种并发工具（引用计数器、计数器、池、fifo、数组）、进程创建和管道、支持加载共享库（在 Windows 或 Unix 上）、HTTP 客户端库CURL 或 AWS.
+- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  - ASN.1、MQTT 客户端和服务器/代理实现、B 树、多连接 TCP 服务器、切比雪夫系列、互斥体、密码学、对象和句柄、双向链接 Web 和列表、ODBC 绑定、黑板（无锁）、OpenSSL 绑定、ELV/eQ-3 MAX！ 客户端实现、解析器、事件（普通、脉冲、数组）、持久对象和句柄、GNUTLS 绑定、持久存储和句柄、图形（有向、加权、非循环、树）、池、HTTP 实现、集合和映射、FIFO（无锁）、SMTP 客户端实现、IEEE 754、SQLite 绑定、进程间通信、堆栈、Julia 语言接口、流、JSON、字符串编辑、LDAP、表（字符串映射）、MODBUS 客户端实现、无界数组.
+- [ada-util](https://github.com/stcarrez/ada-util/) - 接近Java log4j框架的日志框架，对属性的支持，XML / JSON / CSV的序列化/反序列化框架，Ada beans框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始，文件，缓冲区，管道，套接字），几个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端CURL 或 AWS 之上的库.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) - 这是 GNAT 组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - 这是 GNAT 组件集合的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - 这是 GNAT 组件集合的数据库模块.
@@ -252,7 +253,7 @@
 - [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB 提供了一个统一的解决方案来构建依赖于中间件标准的分布式应用程序.
 
 ### Graphical User Interface
-- [gnoga](https://sourceforge.net/projects/gnoga/) - The GNU Omnificent GUI for Ada.
+- [gnoga](https://sourceforge.net/projects/gnoga/) - Ada 的 GNU Omnificent GUI.
 - [gwindows](https://github.com/zertovitch/gwindows) - GNU Ada 可视化界面.
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) - CLAW，适用于 Microsoft Windows 的高级、可移植、Ada 95 绑定.
 - [gtkada](https://github.com/AdaCore/gtkada) - 基于Gtk3组件的Ada图形工具包.
@@ -544,6 +545,7 @@
 ## Hardware and Embedded
 
 ### Frameworks
+- [SweetAda](https://github.com/gabriele-galeotti/SweetAda)  - 一个轻量级开发框架，其目的是实现基于 Ada 的软件系统. 它支持多种 CPU 架构和开发板.
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 采用 Ada、ARM 和乐高的机器人技术.
 
 ### Firmwares
@@ -579,7 +581,7 @@
 - [etherscope](https://github.com/stcarrez/etherscope) - STM32F746 板上的以太网流量监控器.
 
 ### Bindings
-- [svd2ada](https://github.com/AdaCore/svd2ada) - 来自裸板 ARM 设备 SVD 描述的 Ada 绑定生成器.
+- [svd2ada](https://github.com/AdaCore/svd2ada) - An Ada binding generator from SVD descriptions for bare board ARM devices.
 - [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) - Pebble Time 智能手表的 Ada 绑定.
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) - 用于 WiringPi 的 Ada 绑定.
 

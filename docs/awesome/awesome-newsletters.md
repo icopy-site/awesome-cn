@@ -41,7 +41,7 @@
 - [JSter](http://jster.net/blog) . 没有废话的策划 JavaScript 链接列表每两周一次到您的邮箱. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
 - [Best of JavaScript](https://weekly.bestofjs.org/) . 与 Node.js 和 Web 平台相关的最受欢迎的开源项目的每周排名.
 - [JavaScript Kicks](https://javascriptkicks.com/) .  JavaScript 开发者社区每周发送的最受好评文章的精选列表.
-- [Bytes](https://bytes.dev/) . 成为更聪明的 JavaScript 开发人员. 了解 JavaScript 生态系统从未如此有趣. 每周一免费送货.
+- [Bytes](https://bytes.dev/). Become a smarter JavaScript developer. Staying informed on the JavaScript ecosystem has never been so entertaining. Delivered every Monday, for free.
 - [Deno Weekly](https://denoweekly.com/) . 来自 Deno（最新的 JavaScript 运行时）领域的每周新闻、教程和项目综述.
 
 #### React
@@ -84,7 +84,7 @@
 
 - [Web Design Weekly](https://web-design-weekly.com/) . 只是本周互联网上最好的新闻和文章的精彩链接.
 - [Sidebar](https://sidebar.io) . 每天五个以设计为中心的帖子.
-- [Web Designer News](https://www.webdesignernews.com). Curated stories for designers.
+- [Web Designer News](https://www.webdesignernews.com) . 为设计师策划的故事.
 - [Responsive Design Weekly](http://responsivedesignweekly.com) . 每周一次免费的响应式设计文章、工具、技巧、教程和鼓舞人心的链接的综述.
 - [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  Nielsen Norman Group 有关界面可用性、网站设计和用户体验研究的最新文章.
 - [UI Movement](https://uimovement.com) . 只有最好的 UI 设计灵感就在您的收件箱中.
@@ -181,6 +181,7 @@
 - [Women on Rails Newsletter](https://womenonrailsinternational.substack.com/) . 有关 Ruby on Rails 和 Web 的双月刊通讯. 有英语、法语、西班牙语和意大利语版本.
 - [Short Ruby Newsletter](https://newsletter.shortruby.com) . 关于 Ruby 世界中发生的一切的视觉每周通讯.
 - [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/) . 关于 Hotwire 堆栈的每月通讯：Turbo (Native)、Stimulus 和 Strada 文章、代码和课程.
+- [The RailsNotes Newsletter](https://railsnotes.xyz/newsletter) . 您希望拥有的 Ruby on Rails 指南 — 现在是每周通讯！
 
 ### PHP
 
@@ -426,7 +427,7 @@
 - [Hungry Minds](https://hungryminds.dev) . 一份免费的每周时事通讯，其中包含塑造思维的想法、高信号人工智能/科技/商业新闻以及不为人知的趋势和工具，让您保持饥饿感.
 - [Product Hunt](https://www.producthunt.com/newsletter) . 每日精选科技产品和初创公司.
 - [Founder Weekly](http://www.founderweekly.com/) . 为企业家提供的免费每周时事通讯，其中包含最佳策划内容、必读文章、操作指南、提示和技巧、资源、活动等.
-- [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
+- [Founders Grid](https://smash.vc/founders-grid/) . 为初创企业创始人提供的每周通讯，汇集了初创企业生态系统中的最佳资源.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) . 有关创业、成长、投资和初创公司的前沿新闻源自 Reddit 最佳帖子.
 
 ## Miscellaneous

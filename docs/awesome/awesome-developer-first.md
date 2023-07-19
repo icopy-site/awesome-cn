@@ -6,7 +6,7 @@
 我确信你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
 您可以关注 [Agam](https://twitter.com/agammore) 和 [flo](https://twitter.com/fmerian) 了解更多与开发相关的内容:) 
 
-此存储库的开发人员优先的定义是：
+The definition of developer-first for this repo is:
 * 开发者是目标受众.
 * “Headless”、“API-first”、“SaaS”是常用的关键词.
 * 通常，这意味着首页有一些代码示例.
@@ -82,7 +82,7 @@
 * [Clarifai](https://www.clarifai.com/) - 计算机视觉 API 集.
 * [CloudSight](https://cloudsight.ai/) - 数字媒体品牌认知度.
 * [Google Vision AI](https://cloud.google.com/vision) - Google 的 AI 视觉 API.
-* [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
+* [Roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
 
 ## Databases & Spreadsheets
 *存储数据并处理它.*
@@ -107,7 +107,7 @@
 * [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署且不关心基础设施，适用于所有主要框架.
 * [Fly.io](https://fly.io/) - 通过位置感知服务部署 Docker 化的全栈应用程序（减少延迟）.
 * [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展服务器.
-* [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
+* [Koyeb](https://www.koyeb.com/) - 无服务器平台，可在几分钟内部署全栈应用程序和 API.
 * [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
 * [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
 * [Qoddi](https://qoddi.com/) - Git 连接的应用程序托管平台.
@@ -257,7 +257,7 @@
 * [Crawlbase](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
 * [ScrapingANT](https://scrapingant.com/) - 用无头镀铬刮擦.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不被阻止.
-* [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取API.
+* [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
@@ -270,6 +270,7 @@
 *保护您的代码库的产品.*
 * [Bearer](https://www.bearer.com/) - 用于 JavaScript 和 Ruby 堆栈的静态应用程序安全测试 (SAST) 工具.
 * [GitGuardian](https://www.gitguardian.com/) - 实时 GitHub 活动扫描器.
+* [Infisical](https://infisical.com) - 开源、端到端加密秘密管理器. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Snyk](https://snyk.io/) - 针对代码、依赖项、容器和基础设施即代码的漏洞扫描器.
 * [Socket](https://socket.dev/) - 检测并阻止开源供应链攻击.
 

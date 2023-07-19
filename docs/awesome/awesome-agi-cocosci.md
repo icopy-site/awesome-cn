@@ -8,7 +8,7 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **人工智能通用智能**的**精彩且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 这种智力通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智力的标志.
+ **人工智能通用智能**的**令人敬畏且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智能的标志.
 
  ***Awesome AGI &amp; CoCoSci*** 是一个一体化的集合，包括从基础课程和教程到从多个角度围绕不同主题的论文和书籍的资源. 无论是初级研究人员还是高级研究人员，无论是学习、从事 AGI 和 CoCoSci 工作还是围绕 AGI 和 CoCoSci 工作，都可以在这里满足他们的兴趣.
 
@@ -346,7 +346,7 @@
 
 * [A tale of three probabilistic families: Discriminative, descriptive, and generative models](http://www.stat.ucla.edu/~ywu/QAM2018.pdf) - ***应用数学季刊***，2018. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6129609629126793774) ]. 吴英年对统计模型的三个系列的回顾.
 
-* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计解释.
+* [From information scaling of natural images to regimes of statistical models](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf) - ***应用数学季刊***，2008 年. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=17387130978932998303) ]. 从纹理到纹理转变的统计说明.
 
 * [A Theory of Generative ConvNet](https://proceedings.mlr.press/v48/xiec16.html) - ***ICML'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11062907630625111054&hl=en&as_sdt=2005&sciodt=0,5)]. 
 
@@ -428,7 +428,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) -***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里（Susan Carey）关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) -***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐述并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——这是一种关于知识和意义起源的观点，对认知科学的广泛影响.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) -***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐述并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——这是一种对认知科学具有广泛影响的知识和意义起源的观点.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论理论的原创论文.
 
@@ -451,7 +451,7 @@
 
 * [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***心理学前沿***，2014 年. [[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295&hl=en&as_sdt=0,5) ]. 词嵌入的一阶相似度和二阶关系度量.
 
-* [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***大脑皮层***，2023. [[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081&hl=en&as_sdt=0,5) ]. 视觉和触觉形状感知功能磁共振成像实验表明，中层形状特征在腹侧和背侧流中以独立于模态的方式表示.
+* [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***大脑皮层***，2023. [[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081&hl=en&as_sdt=0,5) ]. 视觉和触觉形状感知功能磁共振成像实验表明，中层形状特征在腹侧和背侧流中均以与模态无关的方式表示.
 
 
 #### AI Concept Representation
@@ -955,7 +955,7 @@
 
 * [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) -***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350&hl=en&as_sdt=0,5)].
 
-* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) -***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5)]. A piece of evidence for the merits brought by large-scale behavioral studies in social science.
+* [Using large-scale experiments and machine learning to discover theories of human decision-making](https://cocosci.princeton.edu/jpeterson/papers/peterson2021-science.pdf) -***科学***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=7456250222852859810&hl=en&as_sdt=0,5) ]. 社会科学中大规模行为研究带来的优点的证据.
 
 * [Integrating explanation and prediction in computational social science](http://jakehofman.com/pdfs/integrating-prediction-and-explanation.pdf) -***自然***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=288245575125750925&hl=en&as_sdt=0,5)].
 
@@ -1093,6 +1093,8 @@
 * [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***实验心理学杂志***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2002-01361-014)].
 
 
+* [Insight Is Not in the Problem: Investigating Insight in Problem Solving across Task Types](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01424/full) - ***心理学前沿***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=4564128114316001308&hl=en&as_sdt=2005&sciodt=0,5)].
+
 
 #### Rationality
 
@@ -1109,7 +1111,7 @@
 
 * [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***认知科学主题***，2015. [[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368&hl=en&as_sdt=0,5) ]. 上述论文的早期版本.
 
-* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403) ]. 汤姆·格里菲斯（Tom Griffiths）通过人类局限性的三个方面来理解人类智能的独特性的评论.
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
 
 * [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***自然人类行为***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405&hl=en&as_sdt=0,5) ]. 有证据表明，人们拥有“直觉力量分析”的一些基础，这有助于人们使用直觉统计推理和元认知策略来估计他们可能需要多少信息来解决不同的歧视问题.
 
@@ -1159,7 +1161,7 @@
 
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) -***人工智能元***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5) ]. 在大规模科学语料库上训练的大型语言模型.
 
-* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
+* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 * [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL&#39;21 演示曲目***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5) ]. 文献检索中查询关键词知识图谱的构建和可视化工具.
 
@@ -1362,7 +1364,7 @@
 
 ### Causality
 
-* [Causality](https://en.wikipedia.org/wiki/Causality)  - ***维基百科***. 维基百科上关于因果关系的解释是，一个事件、过程、状态或对象（原因）对另一个事件、过程、状态或对象（结果）的产生产生影响，其中原因对结果负有部分责任，其结果部分取决于原因.
+* [Causality](https://en.wikipedia.org/wiki/Causality)  - ***维基百科***. 维基百科上关于因果关系的解释是，一个事件、过程、状态或对象（原因）对另一个事件、过程、状态或对象（结果）的产生产生影响，其中原因对结果负有部分责任，而结果部分依赖于原因.
 
 * [Causal Models](https://plato.stanford.edu/entries/causal-models/)  - ***柏拉图斯坦福***. 关于因果模型的计算哲学解释，因果模型是表示单个系统或群体内因果关系的数学模型.
 
@@ -1379,7 +1381,7 @@
 
 * [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***IEEE 会议记录***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对将因果推理视为表征学习问题的观点进行了回顾.
 
-* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的回顾.
+* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的评论.
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
@@ -1389,7 +1391,7 @@
 
 * [Constraints on Hypothesis Selection in Causal Learning](https://cogsci.mindmodeling.org/2015/papers/0418/paper0418.pdf) - ***CogSci&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=16920774374067505248&scipsc=&q=Constraints+on+hypothesis+selection+in+causal+learning&btnG=)].
 
-* [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***心理科学***，2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17518200401109470519)].
+* [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17518200401109470519)].
 
 * [What happened? Reconstructing the past through vision and sound](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d0TfP8EAAAAJ&sortby=pubdate&citation_for_view=d0TfP8EAAAAJ:S16KYo8Pm5AC) - 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12975579257004398798)].
 
@@ -1478,7 +1480,7 @@
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)  - ***柏拉图斯坦福***. 关于归纳逻辑的计算哲学解释，归纳逻辑是证据支持的逻辑.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/) - ***Plato Stanford***. A computational philosophy account on First-order Model Theory, which is a branch of mathematics that deals with the relationships between descriptions in first-order languages and the structures that satisfy these descriptions.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 关于次相一致逻辑的计算哲学解释，其中任何逻辑只要不是爆炸性的，都是次相一致的.
 
@@ -1571,7 +1573,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 叠加在另一组 B 上，以防万一没有两个事物可以在 A 属性方面有所不同，而在 B 属性方面也不会有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可以追溯到古希腊辩证法的研究传统，当时通过对话来解决问题，其中反对方通过问题和答案讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可追溯到古希腊辩证法的研究传统，即通过对话来解决问题，其中反对方通过问题和答案讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1737,7 +1739,7 @@
 
 * [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151&hl=en&as_sdt=0,5)]. [[Project](https://github.com/JosephKJ/OWOD)].
 
-* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
+* [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes&hl=en&as_sdt=0,5)].
 
 * [Ontology-guided Semantic Composition for Zero-Shot Learning](https://proceedings.kr.org/2020/87/kr2020-0087-chen-et-al.pdf) -***KR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=1825132732653262003&hl=en&as_sdt=0,5)].
 
@@ -1773,7 +1775,7 @@
 
 * [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***工程***，2020. [[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161&hl=en&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
 
-* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5) ]. 通过近乎自然的共现频率估计进行概念学习.
+* [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NeurIPS&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299&hl=en&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
 
 * [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) -***ICLR&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338&hl=en&as_sdt=0,5)].
 
@@ -2062,7 +2064,7 @@
 
 ### Susan Carey
 
-发展心理学家提出“物体”作为人类智能的核心知识. 
+发展心理学家提出“物体”作为人类智力的核心知识. 
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)].
 
