@@ -61,7 +61,7 @@
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于 OpenSSL 的书.
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 适合开发人员使用的现代密码学书籍（哈希、MAC 代码、对称和非对称密码、密钥交换、椭圆曲线、数字签名），包含大量代码示例.
 - [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术来理解和应用系统和应用程序各个级别的安全性.
-- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 有一本非凡的教科书，由剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）撰写.
+- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 有一本非凡的教科书，由剑桥大学计算机安全教授罗斯·​​安德森（Ross Anderson）编写.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) - 现代加密实用介绍，作者：Jean-Philippe Aumasson.
 - [The Code Book](https://simonsingh.net/books/the-code-book/)  - 本书是密码学历史的摘要，涵盖古代和较新的密码学方法. 最后有练习，完成这些练习将获得 10,000 美元的奖励.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - 本书提供了计算机和互联网安全各个主题的全面指南.
@@ -126,7 +126,7 @@
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)  - 小型、独立且快速的开源加密库. 它支持 RSA、ECDH、ECIES、ECDSA、AES-GCM、SHA2、SHA3 和基于配对的加密技术.
 - [monocypher](https://monocypher.org) - 小型、便携、易于使用的加密库，灵感来自 libsodium 和 TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - 用于网络通信、加密、解密、签名等的高速库.
-- [nettle](https://github.com/gnutls/nettle) - 是一个加密库，旨在轻松适应或多或少的任何上下文：在面向对象语言（C++、Python、Pike...）的加密工具包中，在 LSH 或 GNUPG 等应用程序中，甚至在内核空间中.
+- [nettle](https://github.com/gnutls/nettle) - 是一个加密库，旨在轻松适应或多或少的任何上下文：在面向对象语言（C++、Python、Pike 等）的加密工具包中，在 LSH 或 GNUPG 等应用程序中，甚至在内核空间中.
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL 和加密库.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL 使开发人员可以轻松地将加密和 SSL/TLS 功能纳入其（嵌入式）产品中，从而以最少的编码足迹实现此功能.
 - [RHash](https://github.com/rhash/RHash) - 计算哈希和的强大实用程序.
@@ -194,7 +194,6 @@
 ### Go
 
 - [crypto](https://golang.org/pkg/crypto/) - 官方网站资源.
-- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - 加密安全的在线投票.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - 将 Google 的 Keyczar 加密库移植到 Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - 《Practical Crypto with Go》一书的示例源代码.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
@@ -333,6 +332,7 @@ algorithm.
 ### Rust
 
 - [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - 是 BLAKE3 加密哈希函数的官方 Rust 和 C 实现.
+- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - 加密安全的在线投票.
 - [dalek cryptography](https://github.com/dalek-cryptography/) - 用于 ECC、Bulletproofs 等的快速而安全的中级 API.
 - [mundane](https://github.com/google/mundane) - 是一个由 BoringSSL 支持的 Rust 加密库，难以误用、符合人体工程学且高性能.
 - [ockam](https://github.com/ockam-network/ockam) - 是一个用于端到端加密和相互身份验证的 Rust 库.

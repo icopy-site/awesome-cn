@@ -43,7 +43,7 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
  
  | 名称 | 描述 | 地址 | 域名 |
 | :--- | :--- | :---: | :--- |
-| The All-Night Bookstore and Cafe | A Friendly Local Forum | `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | N/A |
+ | 通宵书店和咖啡馆| 友好的本地论坛 |  `13gLfTixjjktySEGHBMnmrQu4qMJpoRuXw` | 不适用 |
  | 无限畅谈 | 对于那些受限于 ZeroTalk 限制的人 |  `1HMLvnRWViMnuvZc5LK4Dm86sZNcSH1jdh` | 不适用 |
  |  ThreadIt |  ZeroNetX 团队的去中心化论坛 |  `15UYrA7aXr2Nto1Gg4yWXpY3EAJwafMTNk` |  `ThreadIt.bit` |
  | 网络谈话| 关于互联网和其他电子产品的讨论|  `1LfvE91ZF18jdG3wW62Dw7NtfTZh737KPL` | 不适用 |
@@ -171,6 +171,10 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
 
 ## Guides And Documentations
 
+ | 描述 | 网址 |
+| :--- | :--- |
+ | 从技术角度看 ZeroNet |  https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet |
+
 ### Installation
 
  | 描述 | 网址 |
@@ -185,7 +189,7 @@ ZeroNet 是一个由点对点用户组成的分散式网络网络.
  |  ZeroNet 网站开发原创指南 |  https://zeronet.io/docs/site_development/getting_started/ | https://zeronet.io/docs/site_development/getting_started/
  | 关于 ZeroNet 的真相 [imachug](https://github.com/imachug) | https://github.com/imachug/The-Truth-about-ZeroNet |
  | 如何在 ZeroNet 中构建去中心化聊天室 |  http://127.0.0.1:43110/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+教程 ([mirror](https://proxy.zeronet.dev/Blog.ZeroNetwork.bit/?Post:99:ZeroChat+tutorial)) |
- | 网站和插件开发教程 |  http://127.0.0.1:43110/DevCenter.bit/?/（[mirror](https://https://0net-preview.com/DevCenter.bit/?/)) |
+| Tutorials on site and plugin development | http://127.0.0.1:43110/DevCenter.bit/?/ ([mirror](https://https://0net-preview.com/DevCenter.bit/?/)) |
  |  ZeroNet 站点开发上的 Wiki |  http://127.0.0.1:43110/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP ([mirror](https://0net-preview.com/138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP)) |
 
 ## Proxies(Instances)

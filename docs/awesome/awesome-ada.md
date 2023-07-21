@@ -172,7 +172,7 @@
 - [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - 用于编辑 Ada 源代码的 Gnu Emacs 主模式.
 - [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - 维护的 Ada Bundle：Vim/NeoVim 的完整 Ada 模式.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate 支持 Ada.
-- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
+- [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit 对 Ada 的支持.
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK 对 org-babel 的支持：使用 Gnu Emacs 和 org 文件评估源代码块.
 
 ### VSCode Extensions
@@ -187,7 +187,7 @@
 - [aura](https://github.com/annexi-strayline/AURA)  - 集成的构建和源/包管理工具，具有更实用的版本控制方法.  Alire 和 gprbuild 的替代品. 针对 CI/CD 管道进行了优化.
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore 多语言软件构建工具.
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Ravenports 的管理工具 http://www.ravenports.com.
-- [synth](https://github.com/jrmarino/synth) - Next D/Ports build tool for live systems (Alternative for Portmaster and Portupgrade tools).
+- [synth](https://github.com/jrmarino/synth) - 用于实时系统的下一个 D/Ports 构建工具（Portmaster 和 Portupgrade 工具的替代品）.
 - [ada4cmake](https://github.com/mosteo/ada4cmake) - 用于简单 gnat 项目包含的 CMake 宏.
 - [cmake-ada-offa](https://github.com/offa/cmake-ada) - CMake 的 Ada 语言支持.
 - [cmake-ada-cho3](https://github.com/cho3/cmake-ada) - CMake 语言支持 Ada，[plplot] 跨平台支持代码的分支.
@@ -303,7 +303,7 @@
 语言. 它是在 JUnit 和 AUnit 的一些想法之后松散建模的.
 - [aunit](https://github.com/AdaCore/aunit) - Ada 单元测试框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Ada 中的行为驱动开发.
-- [scripted-testing](https://github.com/simonjwright/scripted_testing) - 支持使用 Tcl 脚本进行功能测试.
+- [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog 是 Ada 的可堆叠日志框架.
@@ -357,7 +357,9 @@
 
 ### Science
 - [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - SI 单位已选中和未选中.
-
+- [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - 通过尺寸检查管理测量单位的库.
+- [si_units](https://github.com/HeisenbugLtd/si_units) - 实用程序库，以正确的公制单位漂亮地打印物理值.
+ 
 ### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Ada 和 SPARK 的 Microsoft 语言协议的 Adacore 服务器实现.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) - Ada 语言服务器协议.
@@ -538,7 +540,7 @@
 
 ### Windows and .NET
 - [win32ada](https://github.com/AdaCore/win32ada) - Windows 库的 Ada API.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada 与 Microsoft NetFramework Api 的绑定.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) - Microsft WinRT Api 的 Ada 绑定.
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Microsoft Win32 Api 的 Ada 绑定.
 

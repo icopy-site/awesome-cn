@@ -102,7 +102,7 @@
 * [Quanta Magazine](https://www.quantamagazine.org/mathematics/) - 以非专家易于理解的方式呈现最新的研究突破. 
 * [Bulletin of the American Mathematical Society](https://www.ams.org/journals/bull/all_issues.html) - 关于当代数学研究的说明性文章，其撰写方式可以为可能不是特定主题专家的数学家提供见解.
 * [Notices of the American Mathematical Society](http://www.ams.org/cgi-bin/notices/amsnotices.pl?article_id=fullissue&article_type=gallery&gallery_type=fullissue) - 宣传协会的活动，并提供有关行业趋势、学术界和研究的调查、报告、新闻、公告和意见.
-* [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - 该杂志包含有关会议和大会的公告、概述当前科学发展趋势的文章、会员协会的报告以及许多其他信息项目.
+* [European Mathematical Society Magazine](https://euromathsoc.org/magazine) - 该杂志包含有关会议和会议的公告、概述当前科学发展趋势的文章、会员协会的报告以及许多其他信息项目.
 * [Mathematics Today by Institute of Mathematics and its Applications](https://ima.org.uk/publications/mathematics-today/) - 与数学相关的新闻、观点和文章，以便读者随时了解最新动态.
 * [Crux Mathematicorum by Canadian Mathematical Society](https://cms.math.ca/publications/crux/)  - 为中学和本科水平设计的独特且具有挑战性的数学问题的来源. 它包括一个有助于数学竞赛的奥林匹克角.
 
@@ -135,7 +135,7 @@
 
 * [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) - Ivo Düntsch、Günther Gediga
 * [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) ——威廉·AR·韦斯
-* [Set Theory and Foundations of Mathematics](http://www.settheory.net/) ——西尔万·普瓦里尔
+* [Set Theory and Foundations of Mathematics](http://www.settheory.net/) ——西尔万·普瓦里埃
 * [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
 ### Logic
@@ -160,7 +160,7 @@
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) ——托马斯·施特赖歇尔
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) ——哈罗德·西蒙斯
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) - Steve Awodey（卡内基梅隆大学）
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. Pareigis
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) - B. 位置
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) ——迈克尔·巴尔、查尔斯·威尔斯
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) ——迈克尔·巴尔、查尔斯·威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) ——彼得·弗雷德
@@ -281,7 +281,7 @@
 * [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - 米切尔·T·凯勒、威廉·T·特罗特
 * [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - 彼得·J·卡梅伦
 * [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - 菲利普·弗拉乔莱、罗伯特·塞奇威克
-* [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) ——赫伯特·维尔夫
+* [generatingfunctionology](http://www.math.upenn.edu/~wilf/DownldGF.html) ——赫伯特·威尔夫
 
 ### Graph Theory
 
@@ -323,6 +323,11 @@
 * [Algebraic Geometry](http://www.mathematik.uni-kl.de/~gathmann/class/alggeom-2002/main.pdf) - Andreas Gathmann（凯泽斯劳滕大学）
 * [The Stacks Project](https://stacks.math.columbia.edu/) - 由 Aise Johan de Jong（哥伦比亚）维护
 
+### Algebraic Statistics
+* [Lectures on Algebraic Statistics](https://math.berkeley.edu/~bernd/owl.pdf) - 马蒂亚斯·德顿、贝恩德·斯特姆菲尔斯、塞斯·沙利文特
+* [An Introduction to Algebraic Statistics](https://www3.diism.unisi.it/~chiantini/did/00Book.pdf) - 克里斯蒂亚诺·博奇、卢卡·基安蒂尼和安东尼·V·杰拉米塔
+* [Algebraic Statistics for Computational Biology](http://yaroslavvb.com/papers/pachter-algebraic.pdf) - 帕切特和风暴石.
+
 ### Topology
 
 * [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - 罗伯特·格里斯特（宾夕法尼亚大学）
@@ -350,7 +355,7 @@
 ### Real Analysis
 
 * [MIT OpenCourseWare Lectures on Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/) ——G·斯特朗
-* [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - H.杰罗姆·凯斯勒教授
+* [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) - Professor H. Jerome Keisler
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) - 约翰·K·亨特（加州大学戴维斯分校）
 * [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) - William F. Trench（德克萨斯州三一大学）
 * [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - 伊日·莱布尔
@@ -384,7 +389,7 @@
 
 ### Complex Analysis
 
-* [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - 约翰·P·德安吉洛（伊利诺伊大学）
+* [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) - 约翰·P·德安杰洛（伊利诺伊大学）
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - 马蒂亚斯·贝克、杰拉尔德·马尔凯西、丹尼斯·皮克斯顿、卢卡斯·萨巴尔卡
 * [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) - 史蒂文·G·克兰茨
 * [Complex Analysis](http://www.maths.manchester.ac.uk/~cwalkden/complex-analysis/complex_analysis.pdf) ——查尔斯·沃克登
@@ -394,7 +399,7 @@
 * [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - 唐纳德·E·马歇尔
 * [A Concise Course in Complex Analysis and Riemann Surfaces](https://gauss.math.yale.edu/~ws442/complex.pdf) ——威廉·施拉格
 * [Complex Analysis](http://people.math.gatech.edu/%7Ecain/winter99/complex.html) - G. Cain（佐治亚理工学院）
-* [Complex Analysis](https://complex-analysis.com/) ——胡安·卡洛斯·庞塞·坎普萨诺
+* [Complex Analysis](https://complex-analysis.com/) ——胡安·卡洛斯·庞塞·坎普扎诺
 
 ### Functional Analysis
 

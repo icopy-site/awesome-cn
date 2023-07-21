@@ -5,8 +5,6 @@
 
 Hydrogen 是 Shopify 用于无头商务的开源堆栈.
 
- ⚠️ 这些是 Hydrogen v2 资源. 氢v1资源可以是 [found here](https://github.com/Shopify/awesome-hydrogen/tree/h1). ⚠️
-
 
 
 ## Official Resources
@@ -41,6 +39,12 @@ Hydrogen 是 Shopify 用于无头商务的开源堆栈.
 - [Nosto](https://github.com/Nosto/shopify-hydrogen-demo) - 个性化.
 - [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo) - 顾客评论.
 - [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - 无头 CMS.
+- 内容丰富（即将推出）
+- Yotpo（即将推出）
+- 阿尔戈利亚（即将推出）
+- 重新购买（即将推出）
+- Netlify（即将推出）
+- 高尔吉亚（即将推出）
 
 ## Blog Posts
 

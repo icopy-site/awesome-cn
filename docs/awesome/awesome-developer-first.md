@@ -182,6 +182,7 @@ The definition of developer-first for this repo is:
 * [Imitate Email](https://imitate.email) - 端到端电子邮件测试工具.
 * [Lob](https://www.lob.com/) - 电子邮件和地址验证.
 * [Mailgun](https://www.mailgun.com/) - 发送、跟踪和接收电子邮件.
+* [Resend](https://resend.com/) - 用于构建、测试和发送交易电子邮件的电子邮件 API.
 * [Sendgrid](https://sendgrid.com/) - 电子邮件 API.
 
 ## Media
@@ -214,7 +215,7 @@ The definition of developer-first for this repo is:
 * [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
 
 ## Monitoring
-*监控您的生产应用程序.*
+*监控您的生产应用.*
 * [KeenIO](https://keen.io/) - 事件流平台.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.

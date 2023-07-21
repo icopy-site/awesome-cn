@@ -60,6 +60,7 @@
 - [Learn Ruby on Rails (thoughtbot)](https://thoughtbot.com/upcase/rails)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 - [Explore Ruby](https://kandi.openweaver.com/explore/ruby) - 发现并查找跨所有语言的流行和新 Ruby 库、顶级作者、趋势项目工具包、讨论、教程和学习资源的精选列表. 
+- [RailsNotes Blog](https://railsnotes.xyz) — 您希望拥有的 Ruby on Rails 指南！
 
 [返回顶部][link_toc]
 

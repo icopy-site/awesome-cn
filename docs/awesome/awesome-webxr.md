@@ -20,7 +20,7 @@
 - [Castle Builder](https://castle.needle.tools/) - 一款协作式跨平台城堡建造游戏，利用独特的 Unity-to Three.js 管道.
 - [Prehistoric Domain](https://www.prehistoricdomain.com/) - 在浏览器中体验侏罗纪公园式的体验，提供多个恐龙展览，并且未来还会有更多展览.
 - [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - 由 Paradowski Creative 设计的 WebXR 迷你高尔夫游戏，拥有 9 个洞，分布在独特且多样化的环境中.
-- [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
+- [Yolopia](https://www.yolopia.com/) - 结合了流动、拳击和姿势匹配的节奏游戏.
 - [f60](https://heyvr.io/game/f60) - 以苏联监狱为背景的跨平台 WebXR 密室逃脱系列.
 
 ## Art
@@ -43,7 +43,7 @@
 
 ## Avatars
 
-*用于在沉浸式体验中创建和利用 3D 化身的资源.*
+*Resources for creating and utilizing 3D avatars in immersive experiences.*
 
 - [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的头像系统，可以加载多种不同模型格式的人形头像，并具有手臂+腿 IK、通过视位进行面部动画等功能. 原始存储库不再维护，但有一个更新的分支可用 [here](https://github.com/msub2/avatars).
 - [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，并可以以 glTF 格式下载.
@@ -150,6 +150,9 @@
 
 - [three.js](https://threejs.org/) - 用于使用 WebGL 渲染 3D 内容的 JavaScript 库，为许多现有的 WebXR 体验和工具提供支持.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+
+- [X3DOM](https://x3dom.org)  - 用于将 X3D 场景集成和操作为 HTML5/DOM 元素的框架. 版本 1.8.3 中将包含支持. 在那之前，从 master 分支构建 [GitHub repository](https://github.com/x3dom/x3dom).
+  - [Official Documentation](https://doc.x3dom.org/)
 
 ### Other
 

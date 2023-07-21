@@ -53,7 +53,7 @@
 - [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)  - 本机 Android 应用程序，支持 Azure 语音、自定义提示等.  ($)
 - [Developer Duck](https://apps.apple.com/app/id1662283032)  - 以本机开发人员为中心的 macOS 应用程序，带有 Xcode 插件和命令行支持.  ($)
 - [Hello History](https://hellohistory.ai)  - 在 iOS 和 Android 上与历史人物聊天.  ($)
-- [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
+- [Actions](https://github.com/sindresorhus/Actions) - 从 iOS 和 macOS 上的“快捷方式”应用程序中使用 ChatGPT.
 - [EasyChat AI](https://easychat-ai.app) - 使用最新 Windows 11 设计语言的本机 Windows 应用程序.
 - [pgMagic](https://pgmagic.app)  - macOS 应用程序可让您使用自然语言查询 PostgreSQL 数据库.  ($)
 - [Atua](https://atua.app)  - macOS 应用程序可在任何应用程序中使用 ChatGPT.  ($)
@@ -140,6 +140,7 @@
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 保持 ChatGPT 会话最新以避免网络错误和 Cloudflare 检查.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - 将 ChatGPT 的魔力带入搜索结果.
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - 让 ChatGPT 自动回答随机问题以增加您的知识.
+- [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - 当响应被中断时自动单击“继续生成”.
 
 **Bookmarklets**
 
@@ -215,6 +216,7 @@
 - [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - 将 ChatGPT 功能集成到 scikit-learn 中.
 - [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT 与 Obsidian 笔记软件集成.
 - [Chapyter](https://github.com/chapyter/chapyter) - 将 ChatGPT 功能集成到 Jupyter Notebook 中.
+- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 在 VS Code 中自动生成提交消息和推送操作.
 
 ## Packages
 

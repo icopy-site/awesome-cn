@@ -17,8 +17,8 @@ Rust 代码和资源的精选列表.
 
 * [alacritty](https://github.com/alacritty/alacritty) — 跨平台、GPU 增强的终端模拟器
 * [Arti](https://gitlab.torproject.org/tpo/core/arti)  — Tor 的一个实现，用 Rust 实现.  （到目前为止，这是一个不是很完整的客户端.但是请注意这个空间！） [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
-* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 用 Rust 编写的交互式程序集 shell.
-* [broot](https://github.com/Canop/broot) 一种查看和导航目录树的新方法（获得目录的概述，即使是大目录；找到一个目录，然后“cd”到它；在搜索时永远不会丢失文件层次结构；操作文件，...） ，进一步阅读 [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) — 用 Rust 编写的交互式程序集外壳.
+* [broot](https://github.com/Canop/broot) 一种查看和导航目录树的新方法（获取目录的概述，即使是大目录；找到一个目录，然后“cd”到它；在搜索时永远不会丢失文件层次结构；操作文件，...），进一步阅读 [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 * [cloudflare/boringtun](https://github.com/cloudflare/boringtun) — 用户空间 WireGuard VPN 实施 [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 * [datafusion](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion 和 Ballista 查询引擎
 * [denoland/deno](https://github.com/denoland/deno) — 使用 V8、Rust 和 Tokio 构建的安全 JavaScript/TypeScript 运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
@@ -41,6 +41,7 @@ Rust 代码和资源的精选列表.
 * [Rio](https://github.com/raphamorim/rio) - 由 WebGPU 提供支持的硬件加速 GPU 终端模拟器，专注于在桌面和浏览器中运行.
 * [rx](https://github.com/cloudhead/rx) — Vi 启发的现代像素艺术编辑器
 * [Servo](https://github.com/servo/servo) — 原型网络浏览器引擎
+* [shoes](https://github.com/cfal/shoes) - 多协议代理服务器
 * [shuttle](https://github.com/shuttle-hq/shuttle) — 为 Rust 构建的无服务器平台
 * [Sniffnet](https://github.com/GyulyVGC/sniffnet) — 跨平台应用程序轻松监控您的网络流量 [![build badge](https://img.shields.io/github/actions/workflow/status/gyulyvgc/sniffnet/rust.yml?logo=github)](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/sniffnet?logo=rust)](https://crates.io/crates/sniffnet)
 * [SWC](https://github.com/swc-project/swc) — 超快速 TypeScript / JavaScript 编译器
@@ -78,7 +79,7 @@ Rust 代码和资源的精选列表.
 * [ethaddrgen](https://github.com/Limeth/ethaddrgen) — 用 Rust 制作的自定义以太坊虚荣地址生成器
 * [ethers-rs](https://github.com/gakonst/ethers-rs) - 在 Rust 中完成以太坊和 Celo 库和钱包实现. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
 * [etk](https://github.com/quilt/etk) - etk 是用于编写、读取和分析 EVM 字节码的工具集合.
-* [Forest](https://github.com/ChainSafe/forest) - Rust Filecoin 实现 [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+* [Forest](https://github.com/ChainSafe/forest) - Rust Filecoin 实施 [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 * [Foundry](https://github.com/foundry-rs/foundry) - Foundry 是一个用 Rust 编写的用于以太坊应用程序开发的快速、可移植和模块化工具包. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
 * [Grin](https://github.com/mimblewimble/grin/) — MimbleWimble 协议的演变
 * [hdwallet](https://github.com/jjyr/hdwallet) [[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD 钱包相关的密钥派生实用程序.
@@ -151,7 +152,7 @@ Rust 代码和资源的精选列表.
 * 游戏男孩前进
   * [michelhe/rustboyadvance-ng](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng 是一款 Gameboy Advance 模拟器，支持桌面版、安卓版和 [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) 支持. [![build badge](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
 * 游戏制作者
-  * [OpenGMK](https://github.com/OpenGMK/OpenGMK) — OpenGMK 是专有 GameMaker Classic 引擎的现代重写，提供运行器的完整源端口、反编译器、TASing 框架以及用于您自己处理游戏数据的库.
+  * [OpenGMK](https://github.com/OpenGMK/OpenGMK) — OpenGMK 是专有 GameMaker Classic 引擎的现代重写，提供运行程序的完整源端口、反编译器、TASing 框架以及用于您自己处理游戏数据的库.
 * 英特尔8080CPU
   * [mohanson/i8080](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust
 * iOS
@@ -396,7 +397,7 @@ Rust 代码和资源的精选列表.
 
 ### Web
 
-* [cfal/tobaru](https://github.com/cfal/tobaru) - 具有允许列表、IP 和 TLS SNI/ALPN 基于规则的路由、iptables 支持、循环转发（负载平衡）和热重载的端口转发器.
+* [cfal/tobaru](https://github.com/cfal/tobaru) - 具有白名单、IP 和 TLS SNI/ALPN 基于规则的路由、iptables 支持、循环转发（负载平衡）和热重载的端口转发器.
 * [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) — fediverse 的链接聚合器/reddit 克隆 [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 * [libreddit](https://github.com/libreddit/libreddit) - Reddit 的替代私有前端
 * [Plume-org/Plume](https://github.com/Plume-org/Plume) — ActivityPub 联合博客应用程序
@@ -513,6 +514,8 @@ Rust 代码和资源的精选列表.
   * [japaric/xargo](https://github.com/japaric/xargo) — 将 Rust 程序轻松交叉编译为自定义裸机目标，例如 ARM Cortex-M
 * 乐鑫
   * [esp-rs](https://github.com/esp-rs) 是许多社区项目的所在地，支持在 Espressif Systems 生产的各种 SoC 和模块上使用 Rust 编程语言.
+* 固件
+  * [oreboot/oreboot](https://github.com/oreboot/oreboot) — oreboot 是 coreboot 的一个分支，删除了 C，用 Rust 编写
 * 射频
   * [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) — 适用于 nRF 系列设备的 Rust HAL
 
@@ -528,7 +531,7 @@ Rust 代码和资源的精选列表.
   * [rust-cpp](https://crates.io/crates/cpp) - 将 C++ 代码直接嵌入 Rust. [![Build status](https://ci.appveyor.com/api/projects/status/uu76vmcrwnjqra0u/branch/master?svg=true)](https://ci.appveyor.com/project/mystor/rust-cpp/branch/master)
   * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — Rust 绑定生成器
 * 埃尔兰
-  * [rusterlium/rustler](https://github.com/rusterlium/rustler) — safe Rust bridge for creating Erlang NIF functions
+  * [rusterlium/rustler](https://github.com/rusterlium/rustler) — 用于创建 Erlang NIF 函数的安全 Rust 桥
 * 爪哇
   * [bennettanderson/rjni](https://github.com/benanders/rjni) — 从 Rust 使用 Java
   * [drrb/java-rust-example](https://github.com/drrb/java-rust-example) — 从 Java 使用 Rust
@@ -792,7 +795,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [ksk001100/seahorse](https://github.com/ksk001100/seahorse) [[seahorse](https://crates.io/crates/seahorse)] — 用 Rust 编写的最小 CLI 框架 [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
   * [TeXitoi/structopt](https://github.com/TeXitoi/structopt) [[structopt](https://crates.io/crates/structopt)] — 通过定义结构来解析命令行参数
 * 数据可视化
-  * [nukesor/comfy-table](https://github.com/nukesor/comfy-table) [[comfy-table](https://crates.io/crates/comfy-table)] — 为您的 cli 工具提供漂亮的动态表格. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
+  * [nukesor/comfy-table](https://github.com/nukesor/comfy-table) [[comfy-table](https://crates.io/crates/comfy-table)] — 为您的 cli 工具提供漂亮的动态表. [![Build status](https://github.com/Nukesor/comfy-table/workflows/Tests/badge.svg?branch=master)](https://github.com/nukesor/comfy-table/actions)
   * [zhiburt/tabled](https://github.com/zhiburt/tabled) [[tabled](https://crates.io/crates/tabled)] — 一个易于使用的库，用于漂亮地打印 Rust 结构和枚举表. [![Build Status](https://github.com/zhiburt/tabled/actions/workflows/ci.yml/badge.svg)](https://github.com/zhiburt/tabled/actions)
 * 以人为本的设计
   * [rust-cli/human-panic](https://github.com/rust-cli/human-panic) [[human-panic](https://crates.io/crates/human-panic)]——给人类的恐慌信息
@@ -1232,6 +1235,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
 * [DaveKram/coord_transforms](https://github.com/DaveKram/coord_transforms) [[coord_transforms](https://crates.io/crates/coord_transforms)] — 坐标变换（2-d、3-d 和地理空间）
 * [Georust](https://github.com/georust) — 用 Rust 编写的地理空间工具和库
+* [MapLibre/Martin](https://github.com/maplibre/martin) — 具有 PostGIS、MBTiles、PMTiles 和 sprite 支持的地图切片服务器. [![CI build](https://github.com/maplibre/martin/workflows/CI/badge.svg)](https://github.com/maplibre/martin/actions)[![crates.io version](https://img.shields.io/crates/v/martin.svg)](https://crates.io/crates/martin)[![Book](https://img.shields.io/badge/docs-Book-informational)](https://maplibre.org/martin/)
 * [rust-reverse-geocoder](https://github.com/gx0r/rrgeo) — Rust 中的快速离线反向地理编码器，灵感来自 [thampiman/reverse-geocoder](https://github.com/thampiman/reverse-geocoder)
 * [vlopes11/geomorph](https://github.com/vlopes11/geomorph) [[geomorph](https://crates.io/crates/geomorph)] — UTM、LatLon 和 MGRS 坐标之间的转换
 
@@ -1288,7 +1292,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   * [imgui-rs](https://github.com/imgui-rs/imgui-rs) — ImGui 的 Rust 绑定 [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 * [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) — 基于 IUP 构建的简单 UI 框架
-* [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native)  - 真正的本机跨平台 GUI 库. 一种统一的代码可以作为本机 GUI、Html Web 和 TUI 运行.
+* [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native)  - 一个真正的本机和跨平台 GUI 库. 一种统一的代码可以作为本机 GUI、Html Web 和 TUI 运行.
 * [libui](https://github.com/andlabs/libui)
   * [rust-native-ui/libui-rs](https://github.com/rust-native-ui/libui-rs) — 扬声器绑定.
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
@@ -1625,7 +1629,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 
 * [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/product/formats/cargo-registry)  — 完全托管的包管理 SaaS，为公共和私人 Cargo/Rust 注册中心（以及许多其他注册中心）提供一流的支持. 拥有慷慨的免费套餐，并且完全免费开源.
 * [Crates](https://crates.io) — Rust/Cargo 的官方公共注册表.
-* [w4/chartered](https://github.com/w4/chartered) - 私人、经过身份验证、获得许可的货物登记处 [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
+* [w4/chartered](https://github.com/w4/chartered) - A private, authenticated, permissioned Cargo registry [![CI](https://github.com/w4/chartered/actions/workflows/ci.yml/badge.svg)](https://github.com/w4/chartered/actions/workflows/ci.yml)
 
 ## Resources
 

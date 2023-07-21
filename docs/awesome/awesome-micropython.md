@@ -381,7 +381,7 @@
 
 * [HueBridge](https://github.com/FRC4564/HueBridge) - 飞利浦色调桥.
 * [micropython-wifimanager](https://github.com/mitchins/micropython-wifimanager) - ESP8266 板上 MicroPython 的简单网络配置实用程序.
-* [WiFiManager](https://github.com/tayfunulu/WiFiManager) - ESP8266 - ESP12 - ESP32 - MicroPython 的 WiFi 管理器.
+* [WiFiManager](https://github.com/tayfunulu/WiFiManager) - WiFi manager for ESP8266 - ESP12 - ESP32 - MicroPython.
 * [Micropython-ESP-WiFi-Manager](https://github.com/brainelectronics/Micropython-ESP-WiFi-Manager) - WiFi 管理器用于配置和连接到网络.
 * [mpy-wpa_supplicant](https://github.com/Carglglz/mpy-wpa_supplicant) - MicroPython 模块连接到最近的已知 Wifi AP.
 * [micropython-wifi_manager](https://github.com/ferreira-igor/micropython-wifi_manager) - 使用 MicroPython 的 ESP8266 和 ESP32 WiFi 管理器.
@@ -675,6 +675,7 @@
 * [micropython-pca9685](https://github.com/mcauser/deshipu-micropython-pca9685) - 16 通道 12 位 PWM/伺服驱动器.
 * [micropython-servo](https://github.com/redoxcode/micropython-servo) - 使用直接 PWM 输出以整洁的方式控制 RC 伺服系统的库.
 * [MicroPython_PCA9685](https://github.com/jposada202020/MicroPython_PCA9685) - PCA9685 PWM 控制 IC 的 MicroPython 驱动程序，通常用于控制伺服系统、LED 和电机.
+* [MicroPython_MOTOR](https://github.com/jposada202020/MicroPython_MOTOR) - MicroPython Helper 用于控制基于 PWM 的电机.
 
 #### Stepper
 
@@ -832,7 +833,7 @@
 
 * [MicroPython-SI1145](https://github.com/neliogodoi/MicroPython-SI1145) - SI1145 紫外线指数、红外线、可见光和接近传感器.
 * [micropython-tsl2561](https://github.com/kfricke/micropython-tsl2561) - TAOS/ams 的 TSL2561 照明传感器驱动程序.
-* [mpy_bh1750fvi_esp8266](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - ESP8266 driver for BH1750FVI sensor.
+* [mpy_bh1750fvi_esp8266](https://github.com/catdog2/mpy_bh1750fvi_esp8266) - BH1750FVI 传感器的 ESP8266 驱动程序.
 * [bh1750](https://github.com/PinkInk/upylib/tree/master/bh1750) - BH1750 I2C 数字光传感器驱动器.
 * [micropython-max44009](https://github.com/mcauser/micropython-max44009) - MAX44009 环境光传感器的 MicroPython 驱动程序.
 * [veml7700](https://github.com/palouf34/veml7700) - 用于 VEML7700 光传感器的 MicroPython 库.
@@ -866,7 +867,7 @@
 * [micropython-mpu6050-mqtt-streamer](https://github.com/mozanunal/micropython-mpu6050-mqtt-streamer) - 在 ESP8266 上使用 MicroPython 将数据从 MPU6050 流式传输到 MQTT 服务器.
 * [upy-motion](https://github.com/OneMadGypsy/upy-motion) - 用 MicroPython 编写的简单 MPU6050 驱动程序.
 * [micropython-bno08x-rvc](https://github.com/rdagger/micropython-bno08x-rvc) - BNO08x 的 MicroPython 库.
-* [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C driver.
+* [micropython-mpu9250](https://gitlab.com/nnayo/micropython-mpu9250) - MicroPython MPU-9250 (MPU-6500 + AK8963) I2C 驱动程序.
 * [MicroPython_ICM20948](https://github.com/jposada202020/MicroPython_ICM20948) - 用于 TDK ICM20948 加速度计/陀螺仪传感器的 MicroPython 驱动程序.
 * [MicroPython_BMI160](https://github.com/jposada202020/MicroPython_BMI160) - 适用于 Bosch BMI160 加速度计/陀螺仪传感器的 MicroPython 驱动程序.
 * [micropython-mpu6050](https://github.com/wybiral/micropython-mpu6050) - 用于读取 MPU-6050 加速度计和陀螺仪模块的 MicroPython 库.
@@ -1107,7 +1108,7 @@
 * [JetBrains IntelliJ/PyCharm MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) - IntelliJ 和 PyCharm 中 MicroPython 设备的插件.
 * [MicroPython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - 适用于 Visual Studio Code 的 MicroPython IDE.
 * [MicroPython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) - 与 MicroPython REPL 终端交互的便捷快捷方式.
-* [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - 一个扩展，可让您从 Visual Studio Code 中轻松访问 mremote 的某些功能.
+* [MPRemote for VSCode](https://marketplace.visualstudio.com/items?itemName=DavesCodeMusings.mpremote) - An extension to provide easy access to some of mpremote's functionality from within Visual Studio Code.
 * [Mu Editor](https://codewith.mu/) - Code with Mu：适合初学者的简单 Python/MicroPython/CircuitPython 编辑器.
 * [Thonny IDE](https://thonny.org/) - Thonny：适合初学者的 Python IDE.
 * [Pyboard File Manager](https://github.com/joewez/PyboardFileManager) - Pyboard 文件管理器：Pyboard.py 兼容设备的 Windows GUI.
