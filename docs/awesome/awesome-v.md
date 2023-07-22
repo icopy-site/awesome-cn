@@ -30,7 +30,7 @@
 - [vinit](https://github.com/pranavbaburaj/vinit) - 生成 v 项目的工具.
 - [vLogQL](https://github.com/lmangani/vLogQL) - 一个用于查询 LogQL API 的小型命令行实用程序.
 - [vqrcode](https://github.com/carlosqsilva/vqrcode) - 用于创建 QR 码的 CLI.
-- [vspect](https://github.com/zakuro9715/vspect)  - 检查 vlang 源文件的工具.  （已存档）
+- [vspect](https://github.com/zakuro9715/vspect) - A tool to inspect vlang source file. ( Archived )
 - [vzcc](https://github.com/malisipi/vzcc) - 基于 Zig CC for V 的 CLI 交叉编译工具.
 
 ### Editors
@@ -93,8 +93,8 @@
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - 用V编写的后端骨架.
 - [vblog](https://github.com/scurty-labs/vblog) - 一个简单、快速且响应迅速的博客系统.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - 用 V 编写的 Electron/Neutralino.JS 替代方案.
-- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
-- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表 *[Is V still fast?](https://fast.vlang.io/)*.
+- [Vieter](https://github.com/ChewingBever/vieter) - Archlinux 存储库服务器和包构建系统，用 V 编写.
+- [Vlang Benchmarks Visualization](https://github.com/ArtemkaKun/VlangBenchmarksVisualization) - 精美的统计数据和图表*[Is V still fast?](https://fast.vlang.io/)*.
 - [vorum](https://github.com/vlang/vorum) - 用 V 编写的开源博客/论坛软件.
 - [vss](https://github.com/vssio/vss) - 易于使用的静态站点生成器.
 - [VTik](https://github.com/Sharqo78/VTik) - TikTok 和 Twitter 视频下载应用程序（CLI / Telegram Bot）.
@@ -216,6 +216,7 @@
 
 ### User Interface toolkits
 
+- [iUI](https://github.com/isaiahpatton/ui) - Isaiah 的 V 跨平台 GUI 库.受到 Java Swing 语法的启发.
 - [mui](https://github.com/malisipi/mui) - 适用于 Windows、Linux、Android 和 Web 的跨平台 UI 库.
 - [V UI](https://github.com/vlang/ui) - 适用于 Windows、macOS、Linux、Android、iOS 和 Web 的集成跨平台 UI 工具包.
 - [vgtk3](https://github.com/vgtk/vgtk3) - V 中 GTK3 的包装.

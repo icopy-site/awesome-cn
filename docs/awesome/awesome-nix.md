@@ -120,7 +120,7 @@
 
 ## DevOps
 
-* [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于从任何地方以任何语言构建、测试和发布项目. 
+* [Makes](https://github.com/fluidattacks/makes) - 基于 Nix 的 CI/CD 管道框架，用于从任何地方以任何语言构建、测试和发布项目.
 * [Standard](https://github.com/divnix/std) - 一个固执己见的 Nix Flakes 框架，可让大型项目中的 Nix 代码井井有条，并配有针对 DevOps 场景优化的友好 CLI/TUI.
 
 ## Programming Languages
@@ -174,7 +174,6 @@
 
 ### Python
 
-* [mach-nix](https://github.com/DavHau/mach-nix) - 创建高度可重复的 python 环境的工具.
 * [pip2nix](https://github.com/nix-community/pip2nix) - 与存储库无关的 Python 包生成器工具.
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - 直接构建Python包 [Poetry's](https://python-poetry.org/)  `诗.锁`. 无需转换步骤.
 
@@ -223,7 +222,7 @@
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - 高性能计算包集.
-* [chaotic-nyx](https://github.com/chaotic-cx/nyx)  - 每日更新诸如“mesa_git”之类的前沿软件包以及其他尚未包含在 Nixpkgs 中的软件包. 由制作者创建 [Chaotic-AUR](https://github.com/chaotic-aur/). 
+* [chaotic-nyx](https://github.com/chaotic-cx/nyx)  - 每日更新诸如“mesa_git”之类的前沿软件包以及其他尚未包含在 Nixpkgs 中的软件包. 由制作者创建 [Chaotic-AUR](https://github.com/chaotic-aur/).
 * [nix-darwin](https://github.com/LnL7/nix-darwin) - 管理 macOS 配置，就像在 NixOS 上一样.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - 自动更新适用于 macOS 的 Firefox 二进制包.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - 尖端的 Wayland 软件包.

@@ -8,9 +8,9 @@
 
 ## Awesome Artificial General Intelligence and Computational Cognitive Sciences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- **人工智能通用智能**的**令人敬畏且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 而这种智能通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智能的标志.
+ **人工智能通用智能**的**令人敬畏且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 这种智力通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智力的标志.
 
- ***Awesome AGI &amp; CoCoSci*** 是一个一体化的集合，包括从基础课程和教程到从多个角度围绕不同主题的论文和书籍的资源. 无论是初级研究人员还是高级研究人员，无论是学习、从事 AGI 和 CoCoSci 工作还是围绕 AGI 和 CoCoSci 工作，都可以在这里满足他们的兴趣.
+ ***Awesome AGI &amp; CoCoSci*** 是一个一体化的集合，包括从基础课程和教程到围绕多个角度的不同主题的论文和书籍的资源. 无论是初级研究人员还是高级研究人员，无论是学习、从事 AGI 和 CoCoSci 工作还是围绕 AGI 和 CoCoSci 工作，都可以在这里满足他们的兴趣.
 
 
 
@@ -1092,6 +1092,8 @@
 
 * [Dynamics and constraints in insight problem solving](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=818fec7c896ea3716eeb637da095293e9e6d1806) - ***实验心理学杂志***，2002. [[All Versions](https://scholar.google.com/scholar?cluster=12067671710370549516&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2002-01361-014)].
 
+* [Insight solutions are correct more often than analytic solutions](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/a/699/files/2015/11/Salvi_etal_Insight-is-right_TR2016-2n3ns9l.pdf) - ***思考与推理***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=883561570778414219&hl=en&as_sdt=0,5)].
+
 
 * [Insight Is Not in the Problem: Investigating Insight in Problem Solving across Task Types](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01424/full) - ***心理学前沿***，2016. [[All Versions](https://scholar.google.com/scholar?cluster=4564128114316001308&hl=en&as_sdt=2005&sciodt=0,5)].
 
@@ -1217,7 +1219,7 @@
 
 * [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872&hl=en&as_sdt=0,5) ]. 预测股市走势、分析财经文件、生成经济新闻文章摘要，帮助传播财经知识.
 
-* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获取.
+* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获得.
 
 * [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082&hl=en&as_sdt=0,5) ]. 完成代码、生成编程文档、提供技术支持，让非专家更容易掌握编程知识.
 
@@ -1383,7 +1385,7 @@
 
 * [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***IEEE 会议记录***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对将因果推理视为表征学习问题的观点进行了回顾.
 
-* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的评论.
+* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的回顾.
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
@@ -1482,7 +1484,7 @@
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)  - ***柏拉图斯坦福***. 关于归纳逻辑的计算哲学解释，归纳逻辑是证据支持的逻辑.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，一阶模型理论是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 关于次相一致逻辑的计算哲学解释，其中任何逻辑只要不是爆炸性的，都是次相一致的.
 
@@ -1513,9 +1515,9 @@
 
 * [Learning efficient logic programs](http://andrewcropper.com/pubs/mlj18-metaopt.pdf) - ***机器学习***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=17955696870252443734&hl=en&as_sdt=0,5)].
 
-* [Learning higher-order logic programs](http://andrewcropper.com/pubs/mlj19-metaho.pdf) - ***机器学习***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=6723896359456002413&hl=en&as_sdt=0,5)].
+* [Learning higher-order logic programs](http://andrewcropper.com/pubs/mlj19-metaho.pdf) - ***Machine Learning***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=6723896359456002413&hl=en&as_sdt=0,5)].
 
-* [Logical reduction of metarules](http://andrewcropper.com/pubs/mlj19-reduce.pdf) - ***机器学习***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=4577603126537024540&hl=en&as_sdt=0,5)].
+* [Logical reduction of metarules](http://andrewcropper.com/pubs/mlj19-reduce.pdf) - ***Machine Learning***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4577603126537024540&hl=en&as_sdt=0,5)].
 
 * [Playgol: Learning Programs Through Play](http://andrewcropper.com/pubs/ijcai19-playgol.pdf) - ***IJCAI'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=556522464212000763&hl=en&as_sdt=0,5)].
 
@@ -1581,7 +1583,7 @@
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus)  - ***维基百科***. 关于情境微积分的维基百科，这是一种逻辑形式主义，旨在表示和推理动态域.
 
-* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，它是对表达式“这是必要的”和“这是可能的”的演绎行为的研究.
+* [Modal Logic](https://plato.stanford.edu/entries/logic-modal/)  - ***柏拉图斯坦福***. 关于模态逻辑的计算哲学解释，是对表达式“这是必要的”和“这是可能的”的演绎行为的研究.
 
 * [Epistemic Logic](https://plato.stanford.edu/entries/logic-epistemic/)  - ***柏拉图斯坦福***. 关于认识逻辑的计算哲学解释，认识论是认识论的一个子领域，涉及知识、信仰和相关概念的逻辑方法.
 
@@ -1655,7 +1657,7 @@
 
 ### Cognitive Development
 
-* [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) - ***DARPA***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5) ].  DARPA 将发展心理学的核心知识整合到机器智能系统中的观点.
+* [Machine Common Sense Concept Paper](https://arxiv.org/abs/1810.07528) -***DARPA***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=1603121108181262769&hl=en&as_sdt=0,5) ].  DARPA 将发展心理学的核心知识整合到机器智能系统中的观点.
 
 * [Cognitive Development](https://en.wikipedia.org/wiki/Cognitive_development) - ***维基百科***. 
 
@@ -1988,11 +1990,11 @@
 
 ### UCSD
 
-* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***加州大学圣地亚哥分校***, [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
+* [Judith Fan](https://psychology.ucsd.edu/people/profiles/jefan.html) - ***加州大学圣地亚哥分校***， [Cognitive Tools Lab](https://cogtoolslab.github.io/) - ***加州大学圣地亚哥分校***.
 
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***加州大学圣地亚哥分校***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***加州大学圣地亚哥分校***， [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***加州大学圣地亚哥分校***.
 
-* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***加州大学圣地亚哥分校***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***加州大学圣地亚哥分校***， [Computational Cognition Lab](http://www.evullab.org/index.html) - ***加州大学圣地亚哥分校***.
 
 
 
@@ -2066,7 +2068,7 @@
 
 ### Susan Carey
 
-发展心理学家提出“物体”作为人类智力的核心知识. 
+发展心理学家提出“物体”作为人类智能的核心知识. 
 
 * [The Origin of Concepts](https://hk1lib.org/book/844457/42178f?id=844457&secret=42178f) - ***牛津大学出版社***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=11493102398422813821&hl=en&as_sdt=0,5)].
 

@@ -40,6 +40,8 @@
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/) - 关于如何编写和记录工程策略的指南.
 - [Architecture Modernization Enabling Teams (AMET)](https://esilva.net/articles/architecture-modernization-enabling-team) - 解释 AMET 如何在现代化计划中协调所有团队和利益相关者并提高其技能.
 - [When and when *not* to do an engineering strategy](https://learnings.aleixmorgadas.dev/p/when-and-when-not-to-do-an-engineering) - 使用 Cynefin 框架，它可以分享在哪些领域设计工程策略比仅仅执行更有意义.
+- [Emergent Platform and Evolution in Sociotechnical Systems](https://esilva.net/articles/emergent-platforms) - 平台如何应对业务挑战以及不同类型的团队（例如支持团队和平台团队）与流程一致的团队协作，为平台的发展创造空间和机会.
+- [Interim Platform Teams](https://learnings.aleixmorgadas.dev/p/interim-platform-team)  - 当流一致的团队开始支持内部客户并充当临时平台团队时. 如何在为外部客户提供功能的同时提供出色的内部体验.
 
 ## Videos
 

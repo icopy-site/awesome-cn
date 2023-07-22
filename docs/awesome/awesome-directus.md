@@ -67,6 +67,7 @@
 - [Imagga Hook](https://github.com/gbicou/directus-extension-imagga) - 文件上传挂钩，自动标记图像 [Imagga API](https://imagga.com/).
 - [Tiptap Interface & Display](https://github.com/gbicou/directus-extension-tiptap) - Tiptap 富文本编辑器界面和显示.
 - [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) - 直接从模块查看和运行 API 查询.
+- [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) - 具有 JSON 输出的富文本编辑器 (WYSIWYG)，允许集成 M2A 关系，使其极其灵活.
 
 ## Articles
 

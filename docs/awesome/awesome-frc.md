@@ -38,6 +38,7 @@
 - [Limelight](https://limelightvision.io/) - 专为 FRC 打造的即插即用视觉解决方案.
 - [ChickenVision](https://github.com/team3997/ChickenVision) - 由 Team 3997 创建的易于实施的视觉系统.
 - [SERT Vision](https://github.com/SouthEugeneRoboticsTeam/vision) - Jetson 支持的 OpenCV 视觉跟踪解决方案，配有状态 GUI 和 NetworkTable 挂钩.
+- [GRIP](https://github.com/WPIRoboticsProjects/GRIP) - 用于快速原型设计和部署计算机视觉算法的应用程序.
 
 ## Scouting
 
