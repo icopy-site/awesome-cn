@@ -10,7 +10,7 @@
 
  **人工智能通用智能**的**令人敬畏且精心策划的**列表，这是一个新兴的跨学科领域，将人工智能和计算认知科学结合在一起，其中包括概率和统计、形式逻辑、认知和发展心理学、计算哲学、认知神经科学和计算社会学. 我们正在通过从人类学习和思考的方式中获得灵感，同时获得对人类认知的更深入的理解，来促进高水平的机器智能. 我们相信，这种交互研究是实现我们的大局的潜在途径：构建具有抽象、解释、学习、规划和决策等能力的人类水平的智能系统. 这种智力通常可以帮助人们提高科学研究、工程和艺术，而这些是人类智力的标志.
 
- ***Awesome AGI &amp; CoCoSci*** 是一个一体化的集合，包括从基础课程和教程到围绕多个角度的不同主题的论文和书籍的资源. 无论是初级研究人员还是高级研究人员，无论是学习、从事 AGI 和 CoCoSci 工作还是围绕 AGI 和 CoCoSci 工作，都可以在这里满足他们的兴趣.
+ ***Awesome AGI &amp; CoCoSci*** 是一个一体化的集合，包括从基础课程和教程到从多个角度围绕不同主题的论文和书籍的资源. 无论是初级研究人员还是高级研究人员，无论是学习、从事 AGI 和 CoCoSci 工作还是围绕 AGI 和 CoCoSci 工作，都可以在这里满足他们的兴趣.
 
 
 
@@ -91,7 +91,7 @@
 
 * [Semantic Scholar](https://www.semanticscholar.org/)  - ***艾伦人工智能研究所***. 人工智能驱动的科学文献研究工具.
 
-* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) -***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 语义学者从原始纸张数据中提取特征和元数据.
+* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5) ]. 语义学者从原始纸张数据中提取特征和元数据.
 
 * [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) -***ACL&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5) ].  Semantic Sc​​holar 发布的开放学术论文语料库.
 
@@ -428,7 +428,7 @@
 
 * [Conceptual Change in Childhood](https://hk1lib.org/book/3659332/11fa44) -***麻省理工学院出版社***，1985 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=conceptual+change+in+childhood+susan+carey&btnG=) ]. 苏珊·凯里（Susan Carey）关于儿童发展概念理论的书.
 
-* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) -***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐述并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——这是一种对认知科学具有广泛影响的知识和意义起源的观点.
+* [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) -***麻省理工学院出版社***，1997 年. [[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克（Alison Gopnik）的书阐明并捍卫了认知和语义发展的“理论理论”，即婴儿和幼儿像科学家一样，通过形成和修正理论来了解世界——这是一种对认知科学具有广泛影响的知识和意义起源的观点.
 
 * [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***映射思维：认知和文化的领域特异性，剑桥大学出版社***，1994 年. [[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662&hl=en&as_sdt=0,5) ]. 艾莉森·戈普尼克 (Alison Gopnik) 关于理论理论的原创论文.
 
@@ -545,7 +545,7 @@
 
 * [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***儿童发展***，2019. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920&hl=en&as_sdt=0,5) ]. 儿童社交语用能力的证据.
 
-* [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) -***NAACL&#39;18***，2018 年. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
+* [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
 
 * [Pragmatic Issue-Sensitive Image Captioning](https://aclanthology.org/2020.findings-emnlp.173/?ref=https://githubhelp.com) - ***ACL 研究结果：EMNLP&#39;20***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=10608257248144445301&hl=en&as_sdt=0,5) ]. 理性言语行为在图像字幕中的应用. 
 
@@ -573,7 +573,7 @@
 
 * [On The Emergence Of Compositionality](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.60.3235) - ***语言进化会议&#39;06*** 论文集，2006 年. [[All Versions](https://scholar.google.com/scholar?cluster=16315741180717951222&hl=en&as_sdt=0,5) ]. 关于组合性出现的原始论文.
 
-* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) -***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5) ]. 关于多智能体强化学习中语言的出现的原始论文.
+* [Multi-Agent Cooperation and the Emergence of (Natural) Language](https://arxiv.org/pdf/1612.07182.pdf) -***ICLR&#39;17***，2017 年. [[All Versions](https://scholar.google.com/scholar?cluster=1931070702879918446&hl=en&as_sdt=0,5)]. The original paper on the emergence of language in multi-agent reinforcement learning.
 
 * [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html) - ***NeurIPS&#39;18***，2018. [[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808&hl=en&as_sdt=0,5)].
 
@@ -887,7 +887,7 @@
 
 * [The neural bases of complex tool use in humans](https://www.sciencedirect.com/science/article/pii/S1364661303003231) - ***认知科学趋势***，2004 年. [[All Versions](https://scholar.google.com/scholar?cluster=3612212926196611828&hl=en&as_sdt=0,5) ]. 对人类工具使用的神经科学描述.
 
-* [Spontaneous Metatool Use by New Caledonian Crows](https://www.sciencedirect.com/science/article/pii/S0960982207017708) - ***当前生物学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=9263531730425342443&hl=en&as_sdt=0,5) ]. 有证据表明，聪明的动物可以利用 matatool 来制造解决问题的工具.
+* [Spontaneous Metatool Use by New Caledonian Crows](https://www.sciencedirect.com/science/article/pii/S0960982207017708) - ***当前生物学***，2007. [[All Versions](https://scholar.google.com/scholar?cluster=9263531730425342443&hl=en&as_sdt=0,5)]. A piece of evidence that intelligent animals can take advantage of matatools to make tools for problem solving.
 
 * [Rapid Assimilation of External Objects Into the Body Schema](https://journals.sagepub.com/doi/abs/10.1177/0956797610371962) - ***心理科学***，2010. [[All Versions](https://scholar.google.com/scholar?cluster=854636910326733489&hl=en&as_sdt=0,5)].
 
@@ -1099,6 +1099,8 @@
 
 * [Multiple Causes of Difficulty in Insight: The Case of the Nine-Dot Problem](https://www.researchgate.net/profile/Trina-Kershaw/publication/8909474_Multiple_Causes_of_Difficulty_in_Insight_The_Case_of_the_Nine-Dot_Problem/links/55dca27e08aeb38e8a8d23b6/Multiple-Causes-of-Difficulty-in-Insight-The-Case-of-the-Nine-Dot-Problem.pdf) - ***实验心理学杂志***，2004年. [[All Versions](https://scholar.google.com/scholar?cluster=15600199808825346018&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2003-10949-001)].
 
+* [Investigating the effect of Mental Set on Insight Problem Solving](https://www.researchgate.net/profile/Gary-Jones-14/publication/23152585_Investigating_the_Effect_of_Mental_Set_on_Insight_Problem_Solving/links/0fcfd50abb767b1102000000/Investigating-the-Effect-of-Mental-Set-on-Insight-Problem-Solving.pdf) - ***实验心理学***，2008. [[All Versions](https://scholar.google.com/scholar?cluster=11054712671934144981&hl=en&as_sdt=0,5)].
+
 
 #### Rationality
 
@@ -1115,7 +1117,7 @@
 
 * [Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12142) - ***认知科学主题***，2015. [[All Versions](https://scholar.google.com/scholar?cluster=16305499937147933368&hl=en&as_sdt=0,5) ]. 上述论文的早期版本.
 
-* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403)]. Tom Griffiths's review on understanding the uniqueness of human intelligence through three aspects of human limitations.
+* [Understanding Human Intelligence through Human Limitations](https://cocosci.princeton.edu/papers/griffiths_understanding.pdf) - ***认知科学趋势***，2020. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=6469796133334580403) ]. 汤姆·格里菲斯（Tom Griffiths）通过人类局限性的三个方面来理解人类智能的独特性的评论.
 
 * [Foundations of intuitive power analyses in children and adults](https://eccl.mit.edu/s/Pelz_Foundations-of-intuitive-power-analyses-in-children-and-adults.pdf) - ***自然人类行为***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=4370839893505978405&hl=en&as_sdt=0,5) ]. 有证据表明，人们拥有“直觉力量分析”的一些基础，这有助于人们使用直觉统计推理和元认知策略来估计他们可能需要多少信息来解决不同的歧视问题.
 
@@ -1165,7 +1167,7 @@
 
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) -***人工智能元***，2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5) ]. 在大规模科学语料库上训练的大型语言模型.
 
-* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
+* [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL&#39;22***，2022 年. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 * [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL&#39;21 演示曲目***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5) ]. 文献检索中查询关键词知识图谱的构建和可视化工具.
 
@@ -1219,7 +1221,7 @@
 
 * [Finbert: A pre-trained financial language representation model for financial text mining](https://dl.acm.org/doi/abs/10.5555/3491440.3492062) - ***IJCAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17844713837232165872&hl=en&as_sdt=0,5) ]. 预测股市走势、分析财经文件、生成经济新闻文章摘要，帮助传播财经知识.
 
-* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获得.
+* [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5) ]. 搜索和综合科学文献，帮助研究人员产生假设，并协助实验设计，使科学知识更容易获取.
 
 * [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082&hl=en&as_sdt=0,5) ]. 完成代码、生成编程文档、提供技术支持，让非专家更容易掌握编程知识.
 
@@ -1385,7 +1387,7 @@
 
 * [Toward Causal Representation Learning](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf) - ***IEEE 会议记录***，2021 年. [[All Versions](https://scholar.google.com/scholar?cluster=15629454810797806102&hl=en&as_sdt=0,5) ].  Yoshua Bengio 对将因果推理视为表征学习问题的观点进行了回顾.
 
-* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的回顾.
+* [Theory-Based Causal Induction](https://cocosci.princeton.edu/tom/papers/tbci.pdf) - ***心理学评论***，2009. [[All Versions](https://scholar.google.com/scholar?cluster=13980129728092173387&hl=en&as_sdt=0,5) ]. 托马斯·格里菲斯 (Thomas Griffiths) 对因果贝叶斯理论归纳的评论.
 
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5) ]. 因果转移的计算帐户.
 
@@ -1395,7 +1397,7 @@
 
 * [Constraints on Hypothesis Selection in Causal Learning](https://cogsci.mindmodeling.org/2015/papers/0418/paper0418.pdf) - ***CogSci&#39;15***，2015 年. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=16920774374067505248&scipsc=&q=Constraints+on+hypothesis+selection+in+causal+learning&btnG=)].
 
-* [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17518200401109470519)].
+* [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***心理科学***，2017. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17518200401109470519)].
 
 * [What happened? Reconstructing the past through vision and sound](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=d0TfP8EAAAAJ&sortby=pubdate&citation_for_view=d0TfP8EAAAAJ:S16KYo8Pm5AC) - 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=12975579257004398798)].
 
@@ -1484,7 +1486,7 @@
 
 * [Inductive Logic](https://plato.stanford.edu/entries/logic-inductive/)  - ***柏拉图斯坦福***. 关于归纳逻辑的计算哲学解释，归纳逻辑是证据支持的逻辑.
 
-* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，一阶模型理论是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
+* [First-order Model Theory](https://plato.stanford.edu/entries/modeltheory-fo/)  - ***柏拉图斯坦福***. 关于一阶模型理论的计算哲学解释，它是数学的一个分支，处理一阶语言的描述与满足这些描述的结构之间的关系.
 
 * [Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)  - ***柏拉图斯坦福***. 关于次相一致逻辑的计算哲学解释，其中任何逻辑只要不是爆炸性的，都是次相一致的.
 
@@ -1577,7 +1579,7 @@
 
 * [Supervenience](https://plato.stanford.edu/entries/supervenience/)  - ***柏拉图斯坦福***. 一种关于随附性的计算哲学解释，其中一组属性 A 叠加在另一组 B 上，以防万一没有两个事物可以在 A 属性方面有所不同，而在 B 属性方面也不会有所不同.
 
-* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可追溯到古希腊辩证法的研究传统，即通过对话来解决问题，其中反对方通过问题和答案讨论论文.
+* [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/)  - ***柏拉图斯坦福***. 关于对话逻辑的计算哲学解释，这是一种基于对话的逻辑和论证方法，其根源可以追溯到古希腊辩证法的研究传统，即通过对话来解决问题，其中反对方通过问题和答案讨论论文.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***柏拉图斯坦福***. 
 
@@ -1726,7 +1728,7 @@
 
 * [Generalizing from a few examples: A survey on few-shot learning](https://www.4paradigm.com/upload/file/20210427/20210427225045_12063.pdf) - ***ACM 计算调查***，2020 年. [[All Versions](https://scholar.google.com/scholar?cluster=7932202448069313464&hl=en&as_sdt=0,5)].
 
-* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529&hl=en&as_sdt=0,5) ]. 第一篇介绍开放世界识别问题的论文.
+* [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529&hl=en&as_sdt=0,5)]. The first paper introducing the problem of open-world recognition.
 
 * [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780542) - ***CVPR'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3571743951915089896&hl=en&as_sdt=0,5)].
 
@@ -2018,7 +2020,7 @@
 
 * [Yixin Zhu](https://yzhu.io/) - ***北京大学人工智能学院及人工智能研究院***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) -***北京大学***.
 
-* [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
+* [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***约翰·霍普金斯大学 (JHU) 心理与脑科学系***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
 * [Mark Ho](https://markkho.github.io/) - ***史蒂文斯理工学院 (SIT) 计算机科学系***.
 

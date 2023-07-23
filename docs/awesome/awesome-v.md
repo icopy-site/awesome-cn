@@ -113,9 +113,9 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-- [bartender](https://github.com/tobealive/bartender) - V 术语应用程序的无麸质棒.
+- [bartender](https://github.com/tobealive/bartender) - V 终端应用程序的可定制进度指示器.
 - [boxx](https://github.com/thecodrr/boxx) - 创建高度可定制的接线盒，看起来也很棒！
-- [lol](https://github.com/0xLeif/lol) - V 版 lolcat（文本/角色彩虹化器）.
+- [lol](https://github.com/0xLeif/lol) - V 版 lolcat（文本/角色彩虹化者）.
 - [progressbar](https://github.com/Waqar144/progressbar) - 一个易于使用的 V 库，用于在 cli 中创建进度条.
 - [spinners](https://github.com/rhygg/spinners) - 在您的终端中创建旋转器！
 - [termtable](https://github.com/serkonda7/termtable) - V 终端表：简单且高度可定制的库，用于在终端中显示表格.
@@ -168,7 +168,7 @@
 
 ### Networking
 
-- [vibe](https://github.com/tobealive/vibe) - 具有易于访问层的 libcurl 绑定，可实现快速可靠的请求.
+- [vibe](https://github.com/tobealive/vibe) - 包装 libcurl 的请求库，以实现快速可靠的请求，同时提供更高级别的 API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) - V 型包装纸 [ZMQ](https://zeromq.org/) （又名 ZeroMQ、ØMQ、0MQ：高性能异步消息传递库）.
 
 ### Operating system
