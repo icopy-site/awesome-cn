@@ -160,7 +160,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - Algorand JavaScript SDK 和示例.
 - [algofi-js-sdk](https://github.com/Algofiorg/algofi-js-sdk) - Algofi JavaScript SDK.
 - [algo-builder](https://github.com/scale-it/algo-builder) - 自动开发 Algorand 资产和智能合约的框架.
-- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Algo Builder 的 Dapps 模板.
+- [algo-builder-templates](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
 - [algonaut.js](https://github.com/thencc/algonautjs) - 用于前端 dapps 的更简单的 Algo sdk（打字稿）.
 - [perawallet-connect](https://github.com/perawallet/connect) - 用于将 Pera Wallet 集成到 Web 应用程序的 JavaScript SDK.
 - [defly-connect](https://github.com/blockshake-io/defly-connect) - 用于将 Defly Wallet 集成到 Web 应用程序的 JavaScript SDK.
@@ -238,7 +238,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 - [Algorand Sandbox](https://github.com/algorand/sandbox) - 创建和配置 Algorand 开发环境的快速方法.
 - [Algorand Sandbox Dev](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub 映像可加快本地开发和 CI/CD 使用速度.
-- [Official Algod Container](https://hub.docker.com/r/algorand/algod) - 来自 Algorand Inc. 的 Algod Docker Hub 镜像
+- [Official Algod Container](https://hub.docker.com/r/algorand/algod) - Algod Docker Hub image from Algorand Inc.
 - [Official Conduit Container](https://hub.docker.com/r/algorand/conduit) - 来自 Algorand Inc. 的 Conduit Docker Hub 图像.
 
 #### Testing
@@ -311,7 +311,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 
 ## Name Services
 
-> A list of name services that allow for human-readable addresses.
+&gt; 允许人类可读地址的名称服务列表.
 
 - [NFDomains](https://nf.domains/) - Algorand 名称服务和不可替代域名 (NFD) 市场 — 钱包地址的唯一、可读别名.
 - [Algorand Name Service](https://algonameservice.com/home)  - ANS 是一种去中心化命名服务.  Algorand 智能合约存储名称并管理命名政策.
@@ -341,7 +341,7 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [Algocurator](https://www.algocurator.com/home) - Algorand 最大的非官方一站式中心.
 - [genpyteal](https://github.com/runvnc/genpyteal) - 从（大部分）普通 Python 生成 PyTeal.
 - [AgorHash](https://github.com/bafio89/agorhash) - 公开、无需许可、去中心化且不可审查的自由言论协议.
-- [AlgoPOAP](https://github.com/AlgoPOAP) - Algorand 上的出勤证明协议（以及更多）. [Mint your first POAP on Algorand!](https://algopoap.com).
+- [GoPlausible](https://github.com/GoPlausible) - 任何协议的证明，建立在 Algorand 上. [Create or claim your first PLAUS on Algorand!](https://goplausible.com).
 - [QRCode Generator](https://github.com/emg110/algorand-qrcode)
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint 随机生成带有嵌入 ARC69 标签的曼德尔布罗分形.
 - [algorewards](https://algorewards.github.io/)  - 免费且非官方的 Algorand 治理奖励计算器. 托管在 GitHub 页面上.
@@ -390,8 +390,8 @@ Algorand 是一个开源的权益证明区块链和智能合约计算平台.
 - [AlgoWorldExplorer](https://algoworldexplorer.io/) - 由 AlgoWorld NFT 开发的 NFT 市场、浏览器和画廊 [@aorumbayev](https://twitter.com/aorumbayev).
 - [AlgoMart](https://github.com/deptagency/algomart) - 开源 NFT 市场白标解决方案.
 - [ALGOxNFT](https://algoxnft.com/listings/live) - NFT 画廊和市场.
-- [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
-- [Alchemon](https://alchemon.net/) - 怪物收集NFT卡牌游戏.
+- [Dartroom](https://dartroom.xyz/overview) - 去中心化的 NFT 浏览器、铸造和交易.
+- [Alchemon](https://alchemon.net/) - 怪物收集 NFT 卡牌游戏.
 - [Otherverse](https://otherverse.io/) - NFT 收藏品市场.
 - [Musa](https://www.musanft.io/) - 音乐、艺术和时尚 NFT 画廊和市场.
 - [Flatter](https://www.flatternft.com/) - NFT 艺术品和收藏品市场.

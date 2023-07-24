@@ -22,8 +22,8 @@
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) - 转动所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc) 使用 grbl 固件将其转换为基于 G 代码的运动控制器.  （[adafruit](https://www.adafruit.com/product/1750))
-- [TinyG](https://github.com/synthetos/TinyG)  - 功能更强大、更强大的基于 G 代码的 6 轴运动控制硬件.  （[adafruit](https://www.adafruit.com/product/1749))
+- [grblShield](https://github.com/synthetos/grblShield) - 转动所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc) 使用 grbl 固件将其转换为基于 G 代码的运动控制器.  ([adafruit](https://www.adafruit.com/product/1750))
+- [TinyG](https://github.com/synthetos/TinyG)  - 功能更强大、更强大的基于 G 代码的 6 轴运动控制硬件.  ([adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 适用于 Arduino 的 Grbl 兼容步进电机控制扩展板，类似于 grblShield.
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  - 带步进控制器和运行 grbl 的微控制器的 Raspberry Pi 附加板. 与 Pi 的串行引脚接口.
 - [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - 基于 USB 的双步进电机控制器板，最初为 EggBot 设计.
@@ -96,14 +96,14 @@ HPGL 是一种基于串行/文本的协议，大多数旧笔式绘图仪甚至�
 
 ### Vector Creation
 
-Tools to create vector artwork from scratch or by conversion from other formats.
+从头开始或通过从其他格式转换来创建矢量图稿的工具.
 
 - [Inkscape](https://inkscape.org) - 流行的跨平台开源矢量图形编辑器.
 - [p5.js](https://p5js.org) - “JavaScript 库使艺术家、设计师、教育工作者和初学者可以轻松编码”.
 - [Paper.js](http://paperjs.org) - “矢量图形脚本的瑞士军刀”.
 - [ln](https://github.com/fogleman/ln) - 用 Go 编写的基于矢量的 3D 渲染器.
 - [autotrace](https://github.com/autotrace/autotrace) - 将位图图像转换为矢量图形.
-- [stipplegen](https://github.com/evil-mad/stipplegen)  - 从位图图像创建有趣的点画.  （[blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+- [stipplegen](https://github.com/evil-mad/stipplegen)  - 从位图图像创建有趣的点画.  ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
 - [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - “SquiggleDraw 将从图像创建 SVG 文件，使用亮度来改变正弦波的幅度”.
 - [svgurt](https://svgurt.com) - 基于网络的 PNG 到 SVG 创意面条机.
 - [maptrace](https://github.com/mzucker/maptrace) - 通过跟踪光栅图像生成无懈可击的多边形矢量图.
@@ -113,7 +113,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [penplot](https://github.com/mattdesl/penplot) - JavaScript 绘图仪艺术的开发环境.
 - [penkit](https://github.com/paulgb/penkit) - 用于创建基于线的 SVG 图形的 Python 库.
 - [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - 生成可绘制 PDF 的示例处理代码.
-- [Let's make map](https://svg-exporter.netlify.com) - 基于 Web 的工具，用于从 Mapzen 切片导出 SVG 地图.
+- [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 - [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 生成线条艺术网络应用程序.
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) - 处理中的乱写图像转换.
 - [Maker.js](https://maker.js.org) - 用于为 CNC 和激光切割机创建 2D 矢量绘图的库.
@@ -125,6 +125,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [Components AI](https://components.ai/) - 用于探索生成空间的实验计算设计平台.
 - [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - 用于将图像转换为线条图的跨平台软件.
 - [linedraw](https://github.com/LingDong-/linedraw) - 将图像转换为粗略矢量线图的 Python 工具.
+- [plotter.vision](https://plotter.vision/)  - 交互式网站，用于删除 STL 文件的隐藏线以生成可绘制的 SVG. 还支持红/蓝 3D 眼镜.
 
 ### Vector Utilities
 
@@ -142,7 +143,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 
 单行矢量字体或“雕刻字体”.
 
-- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息以及其他资源和字体的链接.
+- [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代的矢量字体“.fnt”格式. 包括对字体原始数据格式的良好概述.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - Hershey 字体的 C 库和原始字体数据.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - SVG 格式的单行字体，主要用于 [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape 插件.
@@ -156,7 +157,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - 另一篇有关现代笔式绘图仪的入门文章.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 向量路径编程的一些基础知识，包括排序、连接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分精彩演练.
-- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
+- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - 罗兰平板绘图仪快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 有趣算法的详细解释和示例.
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图艺术家.
 - [Hektor](http://juerglehni.com/works/hektor) - 2002 年最初的基于电缆的绘图机器人.

@@ -6,7 +6,7 @@
 我确信你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
 您可以关注 [Agam](https://twitter.com/agammore) 和 [flo](https://twitter.com/fmerian) 了解更多与开发相关的内容:) 
 
-The definition of developer-first for this repo is:
+此存储库的开发人员优先的定义是：
 * 开发者是目标受众.
 * “Headless”、“API-first”、“SaaS”是常用的关键词.
 * 通常，这意味着首页有一些代码示例.
@@ -114,6 +114,7 @@ The definition of developer-first for this repo is:
 * [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动扩展、数据库、秘密和回滚功能.
 * [Render](https://render.com/) - 使用 SSL 从 git 部署到 CDN.
 * [Vercel](https://vercel.com/) - 用于构建和部署无服务器 Web 应用程序、静态网站和 Jamstack（主要是 Next.js）项目的云平台.
+* [Zeabur](https://zeabur.com/) - 一键部署前端、后端和数据库服务.
 
 ## Discussions
 *评论和论坛.*
@@ -195,7 +196,7 @@ The definition of developer-first for this repo is:
 * [Pintura](https://pqina.nl/pintura) - 完全可配置的 JavaScript 图像编辑器 SDK.
 
 ## Messaging
-*消息 API - 短信、通知、聊天和 VoIP.*
+*Messaging APIs - SMS, notifications, chats, and VoIP.*
 * [Ably](https://ably.com) - 发布/订阅、实时消息传递、通知、聊天、多人游戏和数据同步.
 * [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息传递.
 * [Knock](https://knock.app) - 通知即服务.
@@ -215,7 +216,7 @@ The definition of developer-first for this repo is:
 * [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
 
 ## Monitoring
-*监控您的生产应用.*
+*监控您的生产应用程序.*
 * [KeenIO](https://keen.io/) - 事件流平台.
 * [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
 * [Rollbar](https://rollbar.com/) - 报告生产中的错误.
@@ -242,7 +243,7 @@ The definition of developer-first for this repo is:
 
 ## Repo
 *存储库和工件管理.*
-* [Artifactory](https://jfrog.com/artifactory/) - 创建您自己的包存储库.
+* [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
 * [Cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
 
 ## Reports Generation
@@ -258,7 +259,7 @@ The definition of developer-first for this repo is:
 * [Crawlbase](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
 * [ScrapingANT](https://scrapingant.com/) - 用无头镀铬刮擦.
 * [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不被阻止.
-* [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
+* [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取API.
 
 ## Search
 * [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.

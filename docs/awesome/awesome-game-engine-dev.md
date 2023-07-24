@@ -9,7 +9,7 @@
 
 与游戏引擎（改进和加速游戏创建的工具）开发相关的资源的精选列表. 特别是开发高水平、功能齐全的游戏引擎（例如，Godot / Unity）.
 
-这包括低级游戏引擎、应用程序/游戏框架或图形库（例如 MonoGame/SDL）中通常找不到的东西. 其中最重要的是视觉场景编辑器，还有脚本、物理、资产管理、特效、货币化等功能.
+This includes things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities like scripting, physics, asset management, special effects, monetization, etc.
 
 <br />
 
@@ -82,7 +82,7 @@ _有关设计和开发游戏引擎所需主题的信息._
     - [Awesome Demoscene](https://github.com/psykon/awesome-demoscene) - 探索计算机图形和声音的地下计算机艺术文化.
     - [Awesome Graphics Libraries](https://github.com/jslee02/awesome-graphics-libraries#readme) - 3D 图形库和资源的精选列表.
 - 博客文章
-    - [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - 现代图形 API 与旧 API 的比较.
+    - [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - 现代图形 API 与旧 API 的对比.
     - [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/) - 常见的与艺术相关的表演问题.
 - 书籍
     - [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - 实时图形的编程技术、提示和技巧.
@@ -166,7 +166,7 @@ _有关设计和开发游戏引擎所需主题的信息._
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 教你编程语言的游戏.
 - [Geeks for Geeks](https://www.geeksforgeeks.org) - 教程、文章、课程、编码竞赛、工作等.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme) - 学习编程的教育资源.
-- [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated monthly.
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/) - 流行的编程语言，每月更新.
 
 <br />
 <br />
@@ -392,6 +392,7 @@ _特定语言的游戏引擎开发库/框架/代码._
     - [Magnum Engine](https://github.com/mosra/magnum) - 用于游戏和应用程序的模块化 C++11 图形中间件.
     - [Ogre](https://github.com/OGRECave/ogre) - 面向场景、灵活的3D引擎.
     - [OSRE](https://github.com/kimkulling/osre) - 只是另一个“开源渲染引擎”.
+    - [StratusGFX](https://github.com/KTStephano/StratusGFX) - 实施现代图形技术的实时 3D 渲染引擎.
     - [Threepp](https://github.com/markaren/threepp) - 流行 3D JavaScript 库 Three.js (r129) 的跨平台 C++17 端口.
     - [Tungsten](https://github.com/tunabrain/tungsten) - C++11 中基于物理的高性能渲染器.
     - [Wicked Engine](https://github.com/turanszkij/WickedEngine) - 引擎专注于性能和现代渲染技术.
@@ -496,7 +497,7 @@ _特定语言的游戏引擎开发库/框架/代码._
 - C#: Game Framework
     - [FNA](https://github.com/FNA-XNA/FNA) - 重新实现 Microsoft XNA Game Studio 4.0 库.
     - [Monofoxe](https://github.com/Martenfur/Monofoxe) - 游戏引擎旨在简化 MonoGame 的使用.
-    - [MonoGame](https://github.com/MonoGame/MonoGame) - 创建跨平台游戏的框架. [[Website](https://www.monogame.net/)]
+    - [MonoGame](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - [Nez](https://github.com/prime31/Nez) - 基于 _MonoGame_ 构建的功能丰富的 2D 框架.
     - [Protogame](https://github.com/RedpointGames/Protogame) - 基于 _MonoGame_ 构建的跨平台 2D/3D 游戏引擎.
 - C#: Graphics - 3D
@@ -623,12 +624,12 @@ _特定语言的游戏引擎开发库/框架/代码._
 - [MDN](https://developer.mozilla.org/en-US/) - Mozilla 开发者网络，优秀的学习资源.
 - [W3 Schools](https://www.w3schools.com/default.asp) - 通过世界上最大的网络开发者网站学习编码.
 - JavaScript：动画
-    - [Animate.css](https://github.com/animate-css/animate.css) - Ready-to-use, pure CSS animations. [[Examples](https://animate.style/)]
+    - [Animate.css](https://github.com/animate-css/animate.css) - 即用型纯 CSS 动画. [[Examples](https://animate.style/)]
     - [D3.js](https://github.com/d3/d3)  - 数据驱动文档. 使用 SVG、canvas 和 HTML 让数据栩栩如生. [[Examples](https://observablehq.com/@d3/gallery) | [Website](https://d3js.org)]
     - [GreenSock](https://github.com/greensock/GSAP) - 强大的动画工具集. [[Website](https://greensock.com)]
     - [Ossos](https://github.com/sketchpunklabs/ossos) - 基于网络的角色动画系统.
     - [React-Spring](https://github.com/pmndrs/react-spring) - 基于 Spring 物理的 React 动画库.
-    - [Scene.js](https://github.com/daybrush/scenejs) - 基于 JavaScript 和 CSS 时间轴的动画库.
+    - [Scene.js](https://github.com/daybrush/scenejs) - 基于 JavaScript 和 CSS 时间线的动画库.
     - [Theatre](https://github.com/theatre-js/theatre) - 网络运动设计编辑器.
     - [Tween.js](https://github.com/tweenjs/tween.js) - 使用 Robert Penner 方程轻松制作动画的补间引擎.
     - [TweenJS](https://github.com/CreateJS/TweenJS) - 补间/动画库，CreateJS 套件的一部分.
@@ -822,7 +823,7 @@ _特定语言的游戏引擎开发库/框架/代码._
     - [Remotion](https://github.com/remotion-dev/remotion) - 在 React 中以编程方式创建视频. [[Website](https://www.remotion.dev/)]
 - JavaScript：可视化编程/节点
     - [Butterfly](https://github.com/alibaba/butterfly) - 图表库集中于_Alibaba_的流程和字段布局.
-    - [Drawflow](https://github.com/jerosoler/Drawflow) - 简单的 JavaScript 流程库. [[Demo](https://jerosoler.github.io/Drawflow/)]
+    - [Drawflow](https://github.com/jerosoler/Drawflow) - 简单的 JavaScript 流库. [[Demo](https://jerosoler.github.io/Drawflow/)]
     - [Flow](https://github.com/sunag/flow) - 节点图库.
     - [Litegraph.js](https://github.com/jagenjo/litegraph.js) - 在浏览器中创建类似于虚幻蓝图的图表. [[Demo](https://tamats.com/projects/litegraph/editor/)]
     - [Node-RED](https://github.com/node-red/node-red) - 事件驱动应用程序的低代码编程.
@@ -975,7 +976,7 @@ _探索专业游戏引擎/游戏开发主题和功能._
 - [Fluid Simulation on the GPU](https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu) - GPU Gems 第 38 章 - 在 GPU 上进行快速、稳定的流体模拟.
 - [Fluids-2D](https://www.csc.kth.se/~mathar/fluids-2d/) - 借助 WebGL 和 Three.js 在 GPU 上实现实时流体动力学. [[Source](https://github.com/mharrys/fluids-2d)]
 - [GPU Fluid Experiments](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - 跨平台 GPU 流体模拟. [[Source](https://github.com/haxiomic/GPU-Fluid-Experiments)]
-- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - 在浏览器中玩流体（甚至在移动设备上）. [[Source](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)]
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). [[Source](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)]
 
 ### Geometry
 - 算法
@@ -1065,7 +1066,7 @@ _探索专业游戏引擎/游戏开发主题和功能._
 - [Geeks3D Shader Library](https://www.geeks3d.com/shader-library/) - 后处理、照明、公用设施等等.
 - [Review of Shader Languages](https://alain.xyz/blog/a-review-of-shader-languages) - HLSL、GLSL、MSL 和 WGSL 之间的差异.
 - [Ronja Tutorials](https://www.ronja-tutorials.com/) - 涵盖许多着色器技术的教程.
-- [Shader Park](https://github.com/shader-park/shader-park-core) - Shader programming in JavaScript.
+- [Shader Park](https://github.com/shader-park/shader-park-core) - 使用 JavaScript 进行着色器编程.
 - [SHADERed](https://github.com/dfranx/SHADERed) - Shader IDE，用 C++ 编写. [[Online Editor](https://shadered.org/app)]
 - [Shadertoy](https://www.shadertoy.com) - 在线构建和共享着色器.
 - 布鲁姆
@@ -1140,7 +1141,7 @@ _帮助游戏引擎/视频游戏开发的软件._
 - [Cascadeur](https://cascadeur.com) - 用于基于物理的角色动画的 3D 动画软件.
 - [DragonBones](https://dragonbones.github.io/en/index.html) - 开源2D游戏骨骼动画解决方案. [[Source](https://github.com/DragonBones/)]
 - [Mixamo](https://www.mixamo.com/#/)  - 为游戏、电影等制作 3D 角色动画. 由 _Adobe_ 提供.
-- [Spine](http://esotericsoftware.com/) - 游戏的 2D 动画.
+- [Spine](http://esotericsoftware.com/) - 2D animation for games.
 
 ### Audio Tools
 - 音乐
@@ -1218,6 +1219,7 @@ _帮助游戏引擎/视频游戏开发的软件._
 
 ### Pixel Art
 - [Aseprite](https://www.aseprite.org) - 动画精灵编辑器和像素艺术工具. [[Source](https://github.com/aseprite/aseprite)]
+- [Ditherdragon](https://winterveil.itch.io/ditherdragon) - 将艺术、草图和图像重新采样为像素艺术.
 - [Fluid FX](https://codemanu.itch.io/fluid-fx) - 使用流体模拟实现爆炸、鲜血、烟雾等动画.
 - [Juice FX](https://codemanu.itch.io/juicefx) - 轻松为您的精灵和动画添加风格.
 - [Piskel](https://www.piskelapp.com) - 动画精灵和像素艺术的在线编辑器. [[Source](https://github.com/piskelapp/piskel)]
@@ -1299,7 +1301,7 @@ _表情符号背后的含义._
     - - 部分免费
 - 其他
     - - 文章、博客、收藏、列表、教程
-    - - 热门、惊人的资源！
+     - - 热的！ 惊人的资源！
     - - 网站
 
 <br />

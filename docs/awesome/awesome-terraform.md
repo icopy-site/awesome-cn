@@ -52,6 +52,7 @@
 - [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 - [Terraform: Up & Running, 3rd ed.](https://www.terraformupandrunning.com/)
 - [The Terraform Book](https://terraformbook.com/)
+- [IaC starting with Terraform(Korean)](https://product.kyobobook.co.kr/detail/S000202478097)
 
 ## Tutorials and Blog Posts
 
@@ -349,9 +350,10 @@
 - [tfrepl](https://github.com/andreineculau/tfrepl)  - Terraform REPL，为您提供完整的 shell 体验. 基于Readline. 没有依赖性. 保存配置更改. 历史.
 - [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件 terraform 管理的 AWS 基础设施的框架.
 - [tfschema](https://github.com/minamijoyo/tfschema) - Terraform 提供商的架构检查器.
-- [tftree](https://github.com/busser/tftree) - 在终端中显示 Terraform 模块调用堆栈.
 - [tftarget](https://github.com/future-architect/tftarget) - 用于交互执行 `terraform xxx -target={...}` 的 CLI 工具.
-- [tfupdate](https://github.com/minamijoyo/tfupdate) - 更新 Terraform 配置中的版本约束.
+- [tftree](https://github.com/busser/tftree) - 在终端中显示 Terraform 模块调用堆栈.
+- [tftui](https://github.com/idoavrah/terraform-tui) - Terraform 状态的文本用户界面.
+- [tfupdate](https://github.com/minamijoyo/tfupdate) - 更新 Terraform 配置中的版本限制.
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv 从 HashiCorp Vault 读取机密，并使用这些机密输出各种 Terraform 提供程序的环境变量.
 - [tfvar](https://github.com/shihanng/tfvar) - tfvar 扫描您的 Terraform 配置或模块，并将变量提取为您选择的格式（tfvar、环境变量等）以进行编辑.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem 提供 rake 任务以正常运行 Hashicorp Terraform.

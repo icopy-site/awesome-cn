@@ -5,13 +5,15 @@
 
 生成人工智能是一种通过使用经过大量数据训练的机器学习算法来创建图像、声音和文本等原始内容的技术. 与其他形式的人工智能不同，它能够创造独特的、前所未见的输出，例如逼真的图像、数字艺术、音乐和写作. 这些产出往往有自己独特的风格，甚至很难与人类创作的作品区分开来. 生成式人工智能在艺术、娱乐、营销、学术界和计算机科学等领域有着广泛的应用.
 
-欢迎对此列表做出贡献. 添加链接通过 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
+欢迎对此列表做出贡献. 在提交您的建议之前，请先查看 [Contribution Guidelines](https://github.com/steven2358/awesome-generative-ai/blob/master/CONTRIBUTING.md) 以确保您的参赛作品符合标准. 添加链接通过 [pull requests](https://github.com/steven2358/awesome-generative-ai/pulls) 或创建一个 [issue](https://github.com/steven2358/awesome-generative-ai/issues) 开始讨论.
+
+另外，探索我们的特别展示， [Discoveries List](https://github.com/steven2358/awesome-generative-ai/blob/master/DISCOVERIES.md)，我们展示了各种新兴的生成式人工智能项目.
 
 
 
 ## Recommended reading
 
-- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai)  - 文章总结了 GPT-3 模型的功能和局限性及其对社会的潜在影响. 作者：Alex Tamkin 和 Deep Ganguli，2021 年 2 月 5 日.
+- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
 - [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/)  - 对生成人工智能行业进行全面审视，提供行业生态系统的历史视角和深入分析. 作者：Sonya Huang、Pat Grady 和 GPT-3，2022 年 9 月 19 日.
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html)  - 关于生成式人工智能的兴起，特别是稳定扩散图像生成器的成功以及相关争议的文章. 纽约时报，2022 年 10 月 21 日.
 - [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/)  - 关于生成式人工智能初创公司日益增长的炒作和投资的文章，各个行业都在探索其潜在应用. 连线，2022 年 10 月 27 日.
@@ -36,12 +38,14 @@
 - [OPT](https://huggingface.co/facebook/opt-350m) - Facebook 的 Open Pretrained Transformers (OPT) 是一套仅限解码器的预训练 Transformer. [Announcement](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/). [OPT-175B text generation](https://opt.alpa.ai/) 由阿尔帕主办.
 - [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom) - BLOOM by Hugging Face is a model similar to GPT-3 that has been trained on 46 different languages and 13 programming languages. #opensource
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. #opensource
+- [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. #opensource
+- [Claude 2](https://claude.ai/) - 与 Anthropic 的人工智能助手 Claude 交谈.
 
 ### Chatbots
 
 - [ChatGPT](https://chat.openai.com/chat) - OpenAI 的 ChatGPT 是一种以对话方式交互的大型语言模型.
 - [Bing Chat](https://www.bing.com/chat) - 由 Microsoft Bing 支持的对话式 AI 语言模型.
-- [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [Bard](https://bard.google.com) - Google 的实验性人工智能聊天机器人，由 LaMDA 模型提供支持.
 - [Character.AI](https://character.ai/) - Character.AI 可让您创建角色并与他们聊天.
 - [ChatPDF](https://www.chatpdf.com/) - 与任何 PDF 聊天.
 - [ChatSonic](https://writesonic.com/chat) - 人工智能助手，支持文本和图像创建.
@@ -49,7 +53,7 @@
 ### Search engines
 
 - [Perplexity AI](https://www.perplexity.ai/) - 人工智能驱动的搜索工具.
-- [Metaphor](https://metaphor.systems/) - 语言模型驱动的搜索.
+- [Metaphor](https://metaphor.systems/) - Language model powered search.
 - [Phind](https://phind.com/) - 基于人工智能的搜索引擎.
 - [You.com](https://you.com/) - 基于人工智能的搜索引擎，为用户提供定制的搜索体验，同时保持数据 100% 的私密性.
 
@@ -68,7 +72,7 @@
 - [Moonbeam](https://www.gomoonbeam.com/) - 只需一小部分时间即可获得更好的博客.
 - [copy.ai](https://www.copy.ai/) - 使用人工智能编写更好的营销文案和内容.
 - [Anyword](https://anyword.com/) - Anyword 的人工智能写作助手可以为任何人生成有效的文案.
-- [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
+- [Contenda](https://contenda.co/) - 根据您已经制作的内容创建观众想要的内容.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - 将一些关键词转化为原创、富有洞察力的文章、产品描述和社交媒体文案.
 - [Lavender](https://www.lavender.ai/) - 薰衣草电子邮件助手可帮助您在更短的时间内获得更多回复.
 - [Lex](https://lex.page/) - 内置人工智能的文字处理器，让您可以更快地写作.
@@ -87,7 +91,7 @@
 - [ChatGPT for Search Engines](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - 在 Google、Bing 和 DuckDuckGo 搜索结果旁边显示 ChatGPT 响应.
 - [ShareGPT](https://sharegpt.com/) - 分享您的 ChatGPT 对话并探索其他人分享的对话.
 - [Merlin](https://merlin.foyer.work/) - 所有网站上的 ChatGPT Plus 扩展.
-- [ChatGPT Writer](https://chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
+- [ChatGPT Writer](https://chatgptwriter.ai/) - 使用 ChatGPT AI 生成完整的电子邮件和消息.
 - [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension) - 在由 ChatGPT 提供支持的 Jupyter Notebooks 和 Jupyter Lab 中添加各种帮助程序功能.
 - [editGPT](https://www.editgpt.app/) - 在 chatGPT 中轻松校对、编辑和跟踪内容更改.
 - [Chatbot UI](https://www.chatbotui.com/) - 开源 ChatGPT UI. [Source code](https://github.com/mckaywrigley/chatbot-ui).
@@ -132,7 +136,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot 使用 OpenAI Codex 直接从编辑器实时建议代码和整个功能.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - OpenAI 的人工智能系统，可将自然语言翻译为代码.
 - [Ghostwriter](https://blog.replit.com/ai) - 由 replit 开发的人工智能结对程序员.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - 使用 ML 支持的编码伴侣更快地构建应用程序.
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - [tabnine](https://www.tabnine.com/) - 通过全行和全功能代码完成来更快地编码.
 - [Stenography](https://stenography.dev/) - 自动代码文档.
 - [Mintlify](https://mintlify.com/) - 人工智能驱动的文档编写器.
@@ -149,7 +153,7 @@
 
 - [DALL·E 2](https://openai.com/dall-e-2/) - OpenAI 的 DALL·E 2 是一种新的人工智能系统，可以根据自然语言的描述创建逼真的图像和艺术.
 - [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state of the art text-to-image model that generates images from text. #opensource
-- [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立研究实验室，致力于探索新的思维媒介并扩展人类的想象力.
+- [Midjourney](https://www.midjourney.com/) - Midjourney 是一个独立的研究实验室，致力于探索新的思维媒介并扩展人类的想象力.
 - [Imagen](https://imagen.research.google/) - Google 的 Imagen 是一种文本到图像的扩散模型，具有前所未有的真实感和深层次的语言理解.
 - [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Meta 的 Make-A-Scene 是一种多模式生成人工智能方法，将创造性控制权交给使用它的人，允许他们通过文本描述和自由草图来描述和说明他们的愿景.
 - [DragGAN](https://github.com/XingangPan/DragGAN) - 拖动您的 GAN：在生成图像流形上进行基于点的交互式操作.
@@ -266,6 +270,7 @@
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - 用于 ChatGPT 模型的提示示例集合.
 - [FlowGPT](https://flowgpt.com/) - 通过最佳提示来扩大您的工作流程.
 - [ChatGPT Prompts for Data Science](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - ChatGPT 有用数据科学提示的存储库.
+- [Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt) - ChatGPT 的另一个很棒的列表.
 
 ## Autonomous agents
 

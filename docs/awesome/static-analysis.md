@@ -61,9 +61,9 @@
 <h2 id="abap">ABAP</h2>
 
 
-- [abaplint](https://abaplint.org) — Linter for ABAP, written in TypeScript.
+- [abaplint](https://abaplint.org) — ABAP 的 Linter，用 TypeScript 编写.
 
-- [abapOpenChecks](https://docs.abapopenchecks.org) — 通过新的可自定义检查增强 SAP Code Inspector.
+- [abapOpenChecks](https://docs.abapopenchecks.org) — Enhances the SAP Code Inspector with new and customizable checks.
 
 
 <h2 id="ada">有</h2>
@@ -79,7 +79,7 @@
 <h2 id="asm">集会</h2>
 
 
-- [STOKE](https://github.com/StanfordPL/stoke)  — 用于 x86_64 指令集的与编程语言无关的随机优化器. 它使用随机搜索来探索所有可能的程序转换的极高维空间.
+- [STOKE](https://github.com/StanfordPL/stoke)  :warning: — 用于 x86_64 指令集的与编程语言无关的随机优化器. 它使用随机搜索来探索所有可能的程序转换的极高维空间.
 
 
 <h2 id="awk">awk</h2>
@@ -159,7 +159,7 @@
 <h2 id="csharp">C#</h2>
 
 
-- [.NET Analyzers](https://github.com/DotNetAnalyzers) — An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
+- [.NET Analyzers](https://github.com/DotNetAnalyzers) — 使用 .NET 编译器平台开发分析器（诊断和代码修复）的组织.
 
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET) — A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 
@@ -287,7 +287,7 @@
 <h2 id="delphi">德尔福</h2>
 
 
-- [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp) :copyright: — A free IDE Plugin for static code analysis. A _Pro_ edition includes a command line tool for automation purposes.
+- [Fix Insight](https://www.tmssoftware.com/site/fixinsight.asp)  :copyright: — 用于静态代码分析的免费 IDE 插件.  _Pro_ 版本包括用于自动化目的的命令行工具.
 
 - [Pascal Analyzer](https://peganza.com/products_pal.html)  :copyright: — 具有大量报告的静态代码分析工具. 免费_Lite_版本提供有限的报告.
 
@@ -365,7 +365,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [flen](https://github.com/lafolle/flen) — 获取有关 Go 包中函数长度的信息.
 
-- [Go Meta Linter](https://github.com/alecthomas/gometalinter) :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
+- [Go Meta Linter](https://github.com/alecthomas/gometalinter)  :warning: — 同时运行 Go lint 工具并标准化其输出. 对新项目使用“golangci-lint”.
 
 - [go tool vet --shadow](https://golang.org/cmd/vet#hdr-Shadowed_variables) — 报告可能被无意隐藏的变量.
 
@@ -377,7 +377,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [go/ast](https://golang.org/pkg/go/ast) —包ast声明了用于表示Go包语法树的类型.
 
-- [gochecknoglobals](https://github.com/leighmcculloch/gochecknoglobals) — 检查是否存在全局变量.
+- [gochecknoglobals](https://github.com/leighmcculloch/gochecknoglobals) — Checks that no globals are present.
 
 - [goconst](https://github.com/jgautheron/goconst) — 查找可以用常量替换的重复字符串.
 
@@ -428,11 +428,11 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [revive](https://revive.run)  — 用于 Go 的快速、可配置、可扩展、灵活且美观的 linter.  golint 的直接替代品.
 
-- [safesql](https://github.com/stripe/safesql) — Golang 静态分析工具，可防止 SQL 注入.
+- [safesql](https://github.com/stripe/safesql) :warning: — Golang 静态分析工具，可防止 SQL 注入.
 
 - [shisho](https://docs.shisho.dev/)  — 专为开发人员和安全团队设计的轻量级静态代码分析器. 它允许您使用类似于 sed 的直观 DSL 来分析和转换源代码，但针对的是代码.
 
-- [staticcheck](https://staticcheck.io) — 进行静态分析，专门用于查找错误、简化代码和提高性能.
+- [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 
 - [structcheck](https://gitlab.com/opennota/check) — 查找未使用的结构字段.
 
@@ -501,7 +501,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  — 检测并禁止调用特定方法/类/字段（例如从没有字符集的文本流中读取）.  Maven/Gradle/Ant 兼容.
 
-- [google-java-format](https://github.com/google/google-java-format) — Reformats Java source code to comply with Google Java Style
+- [google-java-format](https://github.com/google/google-java-format) — 重新格式化 Java 源代码以符合 Google Java 风格
 
 - [HuntBugs](https://github.com/amaembo/huntbugs) :警告: — 基于 Procyon 编译器工具的字节码静态分析器工具旨在取代 FindBugs.
 
@@ -571,13 +571,13 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [retire.js](https://retirejs.github.io/retire.js) — 扫描器检测具有已知漏洞的 JavaScript 库的使用情况.
 
-- [RSLint](http://rslint.org/) — 用 Rust 编写的（WIP）JavaScript linter，旨在尽可能快、可定制且易于使用.
+- [RSLint](http://rslint.org/) :warning: — 用 Rust 编写的（WIP）JavaScript linter，旨在尽可能快、可定制且易于使用.
 
 - [standard](http://standardjs.com) — 检查 Javascript 样式指南问题的 npm 模块.
 
 - [tern](https://ternjs.net) — JavaScript 代码分析器，提供深入的跨编辑器语言支持.
 
-- [TypL](https://typl.dev) — 使用 TypL，您只需编写完全标准的 JS，该工具就会通过强大的推理来找出您的类型.
+- [TypL](https://typl.dev) :警告: — 使用 TypL，您只需编写完全标准的 JS，该工具就会通过强大的推理来找出您的类型.
 
 - [xo](https://github.com/xojs/xo)  — 固执己见但可配置的 ESLint 包装器，其中包含许多好东西. 强制执行严格且可读的代码.
 
@@ -606,7 +606,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="lua">二</h2>
 
 
-- [luacheck](https://github.com/mpeterv/luacheck) :warning: — 用于 Lua 代码的 linting 和静态分析的工具.
+- [luacheck](https://github.com/mpeterv/luacheck) :warning: — A tool for linting and static analysis of Lua code.
 
 - [lualint](https://github.com/philips/lualint) — lualint 对 Lua 源代码中的全局变量使用情况进行基于 luac 的静态分析.
 
@@ -638,7 +638,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="php">PHP</h2>
 
 
-- [churn-php](https://github.com/bmitch/churn-php) — Helps discover good candidates for refactoring.
+- [churn-php](https://github.com/bmitch/churn-php) — 帮助发现重构的良好候选者.
 
 - [dephpend](https://github.com/mihaeu/dephpend) — 依赖性分析工具.
 
@@ -756,7 +756,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="perl">珀尔</h2>
 
 
-- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) Perl-Analyzer 是一组程序和模块，允许用户通过提供有关命名空间及其关系、依赖关系、继承以及包中实现、继承和重新定义的方法以及通过 SUPER 从父包调用方法的信息来分析和可视化 Perl 代码库. 
+- [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER. 
 
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — 批判 Perl 源代码以获得最佳实践.
 
@@ -789,7 +789,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [deal](https://deal.readthedocs.io/)  — 通过 Python 合约进行设计. 编写无错误的代码. 通过在代码中添加一些装饰器，您可以获得免费测试、静态分析、形式验证等等.
 
-- [Dlint](https://github.com/dlint-py/dlint) — A tool for ensuring Python code is secure.
+- [Dlint](https://github.com/dlint-py/dlint) — 确保 Python 代码安全的工具.
 
 - [Dodgy](https://github.com/landscapeio/dodgy)  — Dodgy 是一个非常基本的工具，可以针对您的代码库运行以搜索看起来“狡猾”的值. 它是一系列简单的正则表达式，旨在检测诸如意外的 SCM 差异签入、硬编码到文件中的密码或密钥等情况.
 
@@ -801,7 +801,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [jedi](https://jedi.readthedocs.io/en/latest) — Python 的自动完成/静态分析库.
 
-- [linty fresh](https://github.com/lyft/linty_fresh) — Parse lint errors and report them to Github as comments on a pull request.
+- [linty fresh](https://github.com/lyft/linty_fresh) — 解析 lint 错误并将其作为拉取请求的评论报告给 Github.
 
 - [mccabe](https://pypi.org/project/mccabe) — 检查 McCabe 的复杂性.
 
@@ -823,7 +823,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [pyflakes](https://pypi.org/project/pyflakes) — 检查 Python 源文件是否有错误.
 
-- [pylint](http://pylint.pycqa.org/en/latest) — Looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker).
+- [pylint](http://pylint.pycqa.org/en/latest)  — 查找编程错误，帮助执行编码标准并嗅出一些代码异味. 它还包括“pyreverse”（UML 图生成器）和“symilar”（相似性检查器）.
 
 - [pyre-check](https://pyre-check.org) — 适用于大型 Python 代码库的快速、可扩展的类型检查器.
 
@@ -884,7 +884,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [brakeman](https://brakemanscanner.org) — 用于 Ruby on Rails 应用程序的静态分析安全漏洞扫描器.
 
-- [bundler-audit](https://github.com/rubysec/bundler-audit) — Audit Gemfile.lock for gems with security vulnerabilities reported in [Ruby Advisory Database](https://github.com/rubysec/ruby-advisory-db).
+- [bundler-audit](https://github.com/rubysec/bundler-audit) — 审核 Gemfile.lock 中报告的存在安全漏洞的 gem [Ruby Advisory Database](https://github.com/rubysec/ruby-advisory-db).
 
 - [cane](https://github.com/square/cane) :warning: — 代码质量阈值检查作为构建的一部分.
 
@@ -910,19 +910,19 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [pelusa](https://github.com/codegram/pelusa) — 静态分析 Lint 类型的工具，用于改进您的 OO Ruby 代码.
 
-- [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
+- [quality](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 
 - [Querly](https://github.com/soutaro/querly) :warning: — Ruby 的基于模式的检查工具.
 
-- [Railroader](https://railroader.org) — 用于 Ruby on Rails 应用程序的开源静态分析安全漏洞扫描器.
+- [Railroader](https://railroader.org) :警告: — 用于 Ruby on Rails 应用程序的开源静态分析安全漏洞扫描程序.
 
 - [rails_best_practices](https://rails-bestpractices.com) — Rails 项目的代码度量工具
 
 - [reek](https://github.com/troessner/reek) — Ruby 代码气味检测器.
 
-- [Roodi](https://github.com/roodi/roodi)  — Roodi 代表 Ruby 面向对象设计干涉仪. 它会解析您的 Ruby 代码，并根据其配置的检查向您发出有关设计问题的警告.
+- [Roodi](https://github.com/roodi/roodi)  :警告: — Roodi 代表 Ruby 面向对象设计 Inferometer. 它会解析您的 Ruby 代码，并根据其配置的检查向您发出有关设计问题的警告.
 
-- [RuboCop](https://docs.rubocop.org/rubocop) — A Ruby static code analyzer, based on the community Ruby style guide.
+- [RuboCop](https://docs.rubocop.org/rubocop) — Ruby 静态代码分析器，基于社区 Ruby 风格指南.
 
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) — Ruby 类交互式依赖图生成器.
 
@@ -932,7 +932,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [rufo](https://github.com/ruby-formatter/rufo) — 一个固执己见的 ruby​​ 格式化程序，旨在通过命令行作为文本编辑器插件使用，在保存或按需时自动格式化文件.
 
-- [Saikuro](https://metricfu.github.io/Saikuro) — Ruby 圈复杂度分析器.
+- [Saikuro](https://metricfu.github.io/Saikuro) :warning: — Ruby 圈复杂度分析器.
 
 - [SandiMeter](https://rubygems.org/gems/sandi_meter) :warning: — 用于检查 Ruby 代码是否符合 Sandi Metz 规则的静态分析工具.
 
@@ -981,7 +981,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [herbie](https://github.com/mcarton/rust-herbie-lint) :warning: — 在使用数值不稳定的浮点表达式时向您的 crate 添加警告或错误.
 
-- [linter-rust](https://github.com/AtomLinter/linter-rust) :warning: — 使用 rustc 和 Cargo 在 Atom 中检查 Rust 文件.
+- [linter-rust](https://github.com/AtomLinter/linter-rust) :warning: — Linting your Rust-files in Atom, using rustc and cargo.
 
 - [lockbud](https://github.com/BurtonQin/lockbud)  — 静态检测 Rust 死锁错误. 它目前检测两种常见的死锁错误：双锁和冲突顺序锁. 它将以 JSON 格式打印错误以及源代码位置和每个错误的解释.
 
@@ -991,7 +991,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Prusti](https://www.pm.inf.ethz.ch/research/prusti.html)  — Rust 的静态验证器，基于 Viper 验证基础设施. 默认情况下，Prusti 通过证明诸如 unreachable!() 和 panic!() 之类的语句无法访问来验证是否存在恐慌.
 
-- [Rudra](https://github.com/sslab-gatech/Rudra)  — Rust 内存安全和未定义行为检测. 它能够分析单个 Rust 包以及 crates.io 上的所有包.
+- [Rudra](https://github.com/sslab-gatech/Rudra)  :警告: — Rust 内存安全和未定义行为检测. 它能够分析单个 Rust 包以及 crates.io 上的所有包.
 
 - [Rust Language Server](https://github.com/rust-lang-nursery/rls) — 支持“转到定义”、符号搜索、重新格式化和代码完成等功能，并支持重命名和重构.
 
@@ -999,13 +999,13 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [rust-audit](https://github.com/Shnatsel/rust-audit)  — 审核 Rust 二进制文件是否存在已知错误或安全漏洞. 这是通过将 JSON 格式的依赖树 (Cargo.lock) 相关数据嵌入到已编译可执行文件的专用链接器部分来实现的.
 
-- [rustfix](https://github.com/rust-lang/rustfix) — 阅读并应用 rustc 提出的建议（以及第三方 lint，例如 Clippy 提供的建议）.
+- [rustfix](https://github.com/rust-lang/rustfix) :warning: — 阅读并应用 rustc 提出的建议（以及第三方 lint，如 Clippy 提供的建议）.
 
 - [rustfmt](https://github.com/rust-lang/rustfmt) — 根据样式指南格式化 Rust 代码的工具.
 
 - [RustViz](https://github.com/rustviz/rustviz)  — RustViz 是一个从简单的 Rust 程序生成可视化效果的工具，以帮助用户更好地理解 Rust 生命周期和借用机制. 它生成带有图形指示器的 SVG 文件，这些文件与 mdbook 集成以呈现 Rust 程序中数据流的可视化.
 
-- [warnalyzer](https://github.com/est31/warnalyzer) — 显示多箱 Rust 项目中未使用的代码
+- [warnalyzer](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
 
 
 <h2 id="sql">SQL</h2>
@@ -1017,7 +1017,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [sleek](https://github.com/nrempel/sleek)  — Sleek 是一个用于格式化 SQL 的 CLI 工具. 它可以帮助您在 SQL 代码中保持一致的风格，从而提高可读性和生产力. 繁重的工作是由 sqlformat 包完成的.
 
-- [sqlcheck](https://github.com/jarulraj/sqlcheck) — 自动识别 SQL 查询中的反模式.
+- [sqlcheck](https://github.com/jarulraj/sqlcheck) :warning: — 自动识别 SQL 查询中的反模式.
 
 - [SQLFluff](https://www.sqlfluff.com/) — 多种方言 SQL linter 和格式化程序.
 
@@ -1027,7 +1027,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [tsqllint](https://github.com/tsqllint/tsqllint) — T-SQL 特定的 linter.
 
-- [TSqlRules](https://github.com/ashleyglee/TSqlRules) — SQL Server 的 TSQL 静态代码分析规则.
+- [TSqlRules](https://github.com/ashleyglee/TSqlRules) :warning: — SQL Server 的 TSQL 静态代码分析规则.
 
 - [Visual Expert](https://www.visual-expert.com) :copyright: — PowerBuilder、Oracle 和 SQL Server 的代码分析 探索、分析和记录代码 
 
@@ -1080,7 +1080,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 - [tclchecker](https://github.com/ActiveState/tdk/blob/master/docs/3.0/TDK_3.0_Checker.txt) — 静态语法分析模块（作为 [TDK](https://github.com/ActiveState/tdk)).
 
 
-<h2 id="typescript">TypeScript</h2>
+<h2 id="typescript">打字稿</h2>
 
 
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) — 用于 Angular 项目的 Linter
@@ -1089,7 +1089,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [stc](https://stc.dudy.dev) — 用 Rust 编写的 Speedy TypeScript 类型检查器
 
-- [tslint](https://palantir.github.io/tslint/) :警告: — TSLint 自 2019 年起已被弃用.请参阅 [this issue](https://github.com/palantir/tslint/issues/4534) 更多细节.  `typescript-eslint` 现在是检查 TypeScript 的最佳选择.
+- [tslint](https://palantir.github.io/tslint/) :warning: — TSLint has been deprecated as of 2019. Please see [this issue](https://github.com/palantir/tslint/issues/4534) 更多细节.  `typescript-eslint` 现在是检查 TypeScript 的最佳选择.
  TSLint 是一个可扩展的静态分析工具，用于检查 TypeScript 代码的可读性、可维护性和功能错误. 它在现代编辑器和构建系统中得到广泛支持，并且可以使用您自己的 lint 规则、配置和格式化程序进行自定义.
 
 - [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — 一组受《清洁代码手册》启发的 TSLint 规则.
@@ -1146,7 +1146,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: — Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95.
 
-- [Bearer](https://github.com/bearer/bearer) — Open-Source static code analysis tool to discover,  filter and prioritize security risks and vulnerabilities  leading to sensitive data exposures (PII, PHI, PD).  Highly configurable and easily extensible,  built for security and engineering teams.
+- [Bearer](https://github.com/bearer/bearer)  — 开源静态代码分析工具，用于发现、过滤和优先处理导致敏感数据泄露（PII、PHI、PD）的安全风险和漏洞. 高度可配置且易于扩展，专为安全和工程团队而构建.
 
 - [Better Code Hub](https://bettercodehub.com) ：版权： - Better Code Hub 根据软件质量权威 Software Improvement Group 制定的 10 条工程指南检查您的 GitHub 代码库.
 
@@ -1176,7 +1176,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [CodeFactor](https://codefactor.io) :copyright: — GitHub 或 BitBucket 上存储库的自动代码分析.
 
-- [CodeFlow](https://www.getcodeflow.com)  :copyright: — 处理技术深度的自动代码分析工具. 与 Bitbucket 和 Gitlab 集成.  （开源项目免费）
+- [CodeFlow](https://www.getcodeflow.com) :copyright: — Automated code analysis tool to deal with technical depth. Integrates with Bitbucket and Gitlab. (free for Open Source Projects)
 
 - [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: — CodeIt.Right™ 提供了一种快速、自动化的方法来确保您的源代码遵循（您的）预定义的设计和风格指南以及最佳编码实践.
 
@@ -1210,7 +1210,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [DeepSource](https://deepsource.io)  ：版权： — 深入的静态分析，以查找错误风险、安全性、反模式、性能、文档和风格等垂直领域的问题. 与 GitHub、GitLab 和 Bitbucket 的本机集成. 误报率低于 5%.
 
-- [Depends](https://github.com/multilang-depends/depends) — 分析 Java、C/C++、Ruby 代码元素的全面依赖关系.
+- [Depends](https://github.com/multilang-depends/depends) — Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.
 
 - [DevSkim](https://github.com/microsoft/devskim) — Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 
@@ -1234,7 +1234,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [graudit](http://www.justanotherhacker.com) — Grep 粗略审计 - 源代码审计工具.
 
-- [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) :copyright: — Commercial Static Code Analysis.
+- [HCL AppScan Source](https://www.hcltechsw.com/products/appscan) ：版权： - 商业静态代码分析.
 
 - [Hopper](https://github.com/cuplv/hopper) :warning: — 用 scala 编写的静态分析工具，适用于在 JVM 上运行的语言.
 
@@ -1286,7 +1286,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Qwiet AI](https://qwiet.ai/)  ：版权： - 在代码库投入生产之前识别其特有的漏洞. 利用代码属性图 (CPG) 在单个图表中同时运行分析. 自动发现开发中的业务逻辑缺陷，例如硬编码秘密和逻辑炸弹
 
-- [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
+- [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) :warning: — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 
 - [relint](https://github.com/codingjoe/relint) — 静态文件 linter，允许您使用正则表达式 (RegEx) 编写自定义规则.
 
@@ -1379,7 +1379,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) ：版权： — WhiteHat Scout（针对开发人员）与 WhiteHat Sentinel Source（针对运营）相结合，支持 WhiteHat Top 40 和 OWASP Top 10.
 
-- [Wotan](https://github.com/fimbullinter/wotan) — 可插入的 TypeScript 和 JavaScript linter.
+- [Wotan](https://github.com/fimbullinter/wotan) :warning: — 可插入 TypeScript 和 JavaScript linter.
 
 - [XCode](https://developer.apple.com/xcode) :copyright: — XCode 提供了一个相当不错的 UI [Clang's](https://clang-analyzer.llvm.org/xcode.html) 静态代码分析器（C/C++、Obj-C）.
 
@@ -1469,7 +1469,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="css">CSS/SASS/SCSS</h2>
 
 
-- [CSS Stats](https://cssstats.com) — Potentially interesting stats on stylesheets.
+- [CSS Stats](https://cssstats.com) — 样式表上可能有趣的统计数据.
 
 - [CSScomb](https://github.com/csscomb/csscomb.js)  — CSS 编码风格格式化程序. 支持自己的配置，使样式表美观一致.
 
@@ -1487,7 +1487,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [sass-lint](https://github.com/sasstools/sass-lint) :warning: — 用于 sass 和 scss 语法的仅节点 Sass linter.
 
-- [scsslint](https://github.com/brigade/scss-lint) :warning: — SCSS 文件的 Linter.
+- [scsslint](https://github.com/brigade/scss-lint) — SCSS 文件的 Linter.
 
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) — CSS 特异性图生成器.
 
@@ -1560,7 +1560,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 - [krane](https://github.com/appvia/krane) — Krane 是一个简单的 Kubernetes RBAC 静态分析工具.
 它识别了 K8s RBAC 设计中潜在的安全风险，并就如何缓解这些风险提出了建议.  Krane 仪表板显示当前 RBAC 安全状况，并让您浏览其定义.
 
-- [OpenSCAP](https://www.open-scap.org/) — 一套自动化审核工具，用于根据 NIST 认证的安全内容自动化协议 (SCAP) 检查配置和已知漏洞.
+- [OpenSCAP](https://www.open-scap.org/) — Suite of automated audit tools to examine the configuration and  known vulnerabilities following the NIST-certified Security  Content Automation Protocol (SCAP).
 
 - [Qualys Container Security](https://www.qualys.com/apps/container-security) :copyright: — 容器本机应用程序保护，提供容器化应用程序的可见性和控制.
 
@@ -1592,7 +1592,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [PullRequest](https://www.pullrequest.com)  ：版权： - 代码审查作为具有内置静态分析的服务. 由专家工程师在一流的自动化支持下进行质量代码审查，提高速度并减少技术债务.
 
-- [quality](https://github.com/apiology/quality) — 使用社区工具对您的代码进行质量检查，并确保您的代码不会随着时间的推移而变得更糟.
+- [quality](https://github.com/apiology/quality) — Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 
 - [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode)  :警告: — 自动代码审查和修复. 它可以帮助您跟踪软件项目中的问题和指标，并且可以轻松扩展以支持新型分析.
 
@@ -1636,7 +1636,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Angular ESLint](https://github.com/angular-eslint/angular-eslint#readme) — 用于 Angular 项目的 Linter
 
-- [Bootlint](https://github.com/twbs/bootlint) :warning: — Bootstrap 项目的 HTML linter.
+- [Bootlint](https://github.com/twbs/bootlint) :warning: — An HTML linter for Bootstrap projects.
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — 检查您的 ERB 或 HTML 文件
 
@@ -1670,7 +1670,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="kubernetes">库伯内斯</h2>
 
 
-- [chart-testing](https://github.com/helm/chart-testing)  — ct 是测试 Helm 图表的工具. 它旨在用于检查和测试拉取请求. 它会自动检测针对目标分支更改的图表.
+- [chart-testing](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
 
 - [clusterlint](https://github.com/digitalocean/clusterlint)  — Clusterlint 查询实时 Kubernetes 集群的资源，对这些资源执行常见的和特定于平台的检查，并向集群操作员提供可操作的反馈. 它是一种在外部运行的非侵入性工具.  Clusterlint 不会更改资源配置.
 
@@ -1744,7 +1744,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [flake8](https://github.com/PyCQA/flake8) — `pyflakes`、`pycodestyle` 和 `mccabe` 的​​包装.
 
-- [Go Meta Linter](https://github.com/alecthomas/gometalinter) :warning: — Concurrently run Go lint tools and normalise their output. Use `golangci-lint` for new projects.
+- [Go Meta Linter](https://github.com/alecthomas/gometalinter)  :warning: — 同时运行 Go lint 工具并标准化其输出. 对新项目使用“golangci-lint”.
 
 - [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) — 同时运行许多 linter 并将其输出标准化为报告.
 
@@ -1806,7 +1806,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 <h2 id="protobuf">协议缓冲区</h2>
 
 
-- [buf](https://buf.build) — 提供 CLI linter，强制实施良好的 API 设计选择和结构
+- [buf](https://buf.build) — Provides a CLI linter that enforces good API design choices and structure
 
 - [protolint](https://github.com/yoheimuta/protolint) — 可插入的 linter 和修复程序以强制执行 Protocol Buffer 样式和约定.
 
@@ -1869,7 +1869,7 @@ Fprettify 是一个在代码中提供一致的空格、缩进和分隔符对齐�
 
 - [Reshift](https://www.reshiftsecurity.com) :copyright: — 用于检测和管理 JavaScript 安全漏洞的源代码分析工具.
 
-- [Rezilion](https://www.rezilion.com/) ：版权： — 发现环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建修复计划并开具票证以升级违反安全策略的组件和/或在 CI 中自动修补.
+- [Rezilion](https://www.rezilion.com/) ：版权： — 发现环境中所有组件的漏洞，过滤掉 85% 不可利用的漏洞，并创建修复计划并开票以升级违反安全策略的组件和/或在 CI 中自动修补.
 
 - [scorecard](https://github.com/ossf/scorecard) — 安全记分卡 - 开源的安全健康指标
 
@@ -1918,7 +1918,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 
 - [haml-lint](https://github.com/sds/haml-lint) — 用于编写干净且一致的 HAML 的工具.
 
-- [slim-lint](https://github.com/sds/slim-lint) — Configurable tool for analyzing Slim templates.
+- [slim-lint](https://github.com/sds/slim-lint) — 用于分析 Slim 模板的可配置工具.
 
 - [yamllint](https://yamllint.readthedocs.io) — 检查 YAML 文件的语法有效性、键重复和外观问题，例如行长度、尾随空格和缩进.
 
@@ -1945,7 +1945,7 @@ TruffleHog 是一个开源秘密扫描引擎，可以解决公司整个技术堆
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  — 用于 VS Code 的 Vue 工具，由 vls（vue 语言服务器）提供支持.  Vetur 支持格式化嵌入式 HTML、CSS、SCSS、JS、TypeScript 等.  Vetur 只有“整个文档格式化程序”，无法格式化任意范围.
 
 
-<h2 id="wasm">网络组装</h2>
+<h2 id="wasm">Webassembly</h2>
 
 
 - [Twiggy](https://rustwasm.github.io/twiggy)  — 分析二进制文件的调用图以分析代码大小. 目标是缩小 wasm 二进制大小.

@@ -426,6 +426,7 @@
 * [Elm in the spring](https://www.elminthespring.org/)
 * [Oslo Elm day](https://osloelmday.no/)
 * [Elm Japan](https://elmjapan.org/)
+* [Elm Camp](https://elm.camp/)
 
 
 ---
