@@ -3,7 +3,7 @@
 
 ## Awesome Hydrogen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Hydrogen 是 Shopify 用于无头商务的开源堆栈.
+Hydrogen is Shopify's open source stack for headless commerce.
 
 
 
@@ -15,8 +15,8 @@ Hydrogen 是 Shopify 用于无头商务的开源堆栈.
 
 ## Getting Started
 
-- [Quickstart](https://shopify.dev/docs/custom-storefronts/hydrogen/getting-started/quickstart) - 在本地创建氢应用程序.
-- [Tutorial](https://shopify.dev/docs/custom-storefronts/hydrogen/building) - 从“Hello World”到完全构建的 Shopify 自定义店面.
+- [Quickstart](https://shopify.dev/docs/custom-storefronts/hydrogen/getting-started/quickstart) - Create a Hydrogen app locally.
+- [Tutorial](https://shopify.dev/docs/custom-storefronts/hydrogen/building) - From "Hello World" to a fully built out Shopify custom storefront.
 
 ## Tools
 
@@ -34,17 +34,18 @@ Hydrogen 是 Shopify 用于无头商务的开源堆栈.
 
 ## Apps & Integrations
 
-- [Crossing Minds](https://github.com/Crossing-Minds/hydrogen-demo-store) - 产品推荐引擎.
-- [Dynamic Yield](https://github.com/DynamicYield/shopify-hydrogen-demo) - 个性化.
-- [Nosto](https://github.com/Nosto/shopify-hydrogen-demo) - 个性化.
-- [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo) - 顾客评论.
-- [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - 无头 CMS.
-- 内容丰富（即将推出）
-- Yotpo（即将推出）
-- 阿尔戈利亚（即将推出）
-- 重新购买（即将推出）
-- Netlify（即将推出）
-- 高尔吉亚（即将推出）
+- [Algolia](https://github.com/algolia/shopify-hydrogen-algolia) - Search & discovery.
+- [Crossing Minds](https://github.com/Crossing-Minds/hydrogen-demo-store) - Product recommendation engine.
+- [Dynamic Yield](https://github.com/DynamicYield/shopify-hydrogen-demo) - Personalization.
+- [Nosto](https://github.com/Nosto/shopify-hydrogen-demo) - Personalization.
+- [Okendo](https://github.com/okendo/okendo-shopify-hydrogen-demo) - Customer reviews.
+- [Sanity](https://github.com/sanity-io/hydrogen-sanity-demo) - Headless CMS.
+- Contentful (Coming Soon)
+- Yotpo (Coming Soon)
+- Rebuy (Coming Soon)
+- Netlify (Coming Soon)
+- Gorgias (Coming Soon)
+- Pack Digital (Coming Soon)
 
 ## Blog Posts
 
