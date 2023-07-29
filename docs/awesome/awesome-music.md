@@ -1,166 +1,168 @@
 <div class="github-widget" data-repo="ciconia/awesome-music"></div>
 ## Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-很棒的音乐库、工具、框架和软件的分类集合.
+A categorized collection of awesome music libraries, tools, frameworks and software.
 
-随时欢迎贡献和建议！ 请看一下 [contribution guidelines and quality standard](https://github.com/ciconia/awesome-music/blob/master/CONTRIBUTING.md) 第一的.
+Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/ciconia/awesome-music/blob/master/CONTRIBUTING.md) first.
 
-谢谢大家 [contributors](https://github.com/ciconia/awesome-music/graphs/contributors)，你太棒了，没有你这个项目是不可能完成的！
+Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors), you're awesome and this project wouldn't be possible without you!
 
 
 ## Audio Editing
 
-* [Audacity](https://github.com/audacity/audacity) - 免费的跨平台数字音频编辑器.
-* [Ardour](http://ardour.org/) - 强调录音的跨平台数字音频工作站.
-* [LMMS](https://lmms.io/) - 另一个跨平台数字音频工作站，更倾向于制作节拍.
-* [Stargate DAW](https://github.com/stargatedaw/stargate/) - 跨平台、一体式数字音频工作站和插件套件，针对 EDM 制作进行了优化.
-* [TuneFlow](https://tuneflow.com/) - 下一代 DAW，可帮助您生成旋律、节拍或整首歌曲，同时仍然能够对其进行编辑.
+* [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+* [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
+* [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
+* [Stargate DAW](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+* [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
 
 ## Audio Libraries
 
-* [audio.js](https://github.com/kolber/audiojs) - audio.js 是一个嵌入式 javascript 库，允许在任何地方使用 HTML5 的 &lt;audio&gt; 标签.
-* [audioFlux](https://github.com/libAudioFlux/audioFlux) - 用于音频和音乐分析、特征提取的库.
-* [chord-mark](https://github.com/no-chris/chord-mark) - ChordMark 的参考实现，ChordMark 是一种用于歌词、和弦和节奏的文本符号格式.
-* [howler.js](https://github.com/goldfire/howler.js) - 用于现代网络的 Javascript 音频库.
-* [JSyn](http://www.softsynth.com/jsyn/) - 用于 Java 的音频合成软件 API.
-* [Librosa](https://github.com/librosa/librosa) - 用于音乐和音频分析的 python 包，提供创建音乐信息检索系统所需的构建块.
-* [midi.js](https://github.com/mudcube/MIDI.js) - 用于创建基于 Web 的 MIDI 应用程序的框架.
-* [mxml](https://github.com/venturemedia/mxml) - MusicXML 解析和布局库.
-* [PortAudio](http://www.portaudio.com/) - 免费、跨平台、开源、音频 I/O 库.
-* [RustAudio](https://github.com/RustAudio) - 用 Rust 编写的免费且有用的音频、DSP 和音乐库的集合.
-* [Soundpipe](https://pbat.ch/proj/soundpipe.html) - 用 C 编写的轻量级 DSP 库.
+* [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
+* [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+* [chord-mark](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+* [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
+* [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
+* [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+* [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
+* [mxml](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
+* [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
+* [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
+* [Soundpipe](https://pbat.ch/proj/soundpipe.html) - a lightweight DSP library written in C.
 
 ## Audio Tools
 
-* [Beets](http://beets.io/) - 一个强大的命令行音乐管理器和操纵器.
-* [Cecilia](https://github.com/belangeo/cecilia5) - 用于音乐和信号处理的基于 CSound 的图形环境.
-* [cyanrip](https://github.com/atomnuker/cyanrip)  - 以用户所需的最少努力翻录和编码标准音频 CD. 跨平台.
-* [fre:ac](https://github.com/enzo1982/freac)  - 免费的音频转换器. 它支持音频 CD 翻录和标签编辑.
-* [Jack](https://github.com/jack-cli-cd-ripper/jack) - 命令行 CD 开膛手.
-* [K3b](https://github.com/KDE/k3b) - 是一款功能齐全的 CD/DVD/蓝光刻录和翻录应用程序.
-* [Koel](https://github.com/phanan/koel) - 开源个人音频流服务器.
-* [Lame](http://lame.sourceforge.net/) - 高质量、免费和开源的 MP3 编码器.
-* [lltag](https://github.com/bgoglin/lltag) - 自动命令行 mp3/ogg/flac 文件标记器和重命名器.
-* [matchering](https://github.com/sergree/matchering) - 用于自动参考音频母带处理的容器化 Web 应用程序和库.
+* [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
+* [Cecilia](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+* [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
+* [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+* [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
+* [K3b](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+* [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server.
+* [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
+* [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
+* [matchering](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
-* [Musikernel](https://github.com/j3ffhubb/musikernel) - 未来的音频制作平台（硬件支持、API、主机、插件等）
-* [Rubyripper](https://github.com/bleskodev/rubyripper) - 是用于类 Unix 操作系统的安全数字音频提取应用程序（“cd ripper”）.
-* [SoX](http://sox.sourceforge.net/) - 用于播放、转换和操作音频文件的免费开源命令行实用程序.
-* [split2flac](https://github.com/ftrvxmtrx/split2flac) - 将 flac/ape/wv/wav + cue sheet 拆分为单独的轨道
-* [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper 更喜欢准确性而不是速度.
-* [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) - GTK 和 GNOME 应用程序，用于以有损和无损音频格式翻录 CD 音频和编码.
+* [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
+* [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+* [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
+* [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+* [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
+* [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ## Free Music Scores
 
-* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - 用 lilypond 排版的音乐集（主要是室内乐和大提琴音乐）.
-* [ciconia/music](https://github.com/ciconia/music) - 主要是巴洛克音乐的集合，许多 JS Bach 的神圣作品，用 lilypond/ripple 编码.
-* [CPDL](http://www.cpdl.org/) - 合唱公共领域图书馆包含超过 20K 的免费声乐乐谱.
-* [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - 巴洛克乐谱（主要是法国音乐），使用 lilypond 排版.
-* [IMSLP](http://imslp.org/) - 国际乐谱图书馆项目是网络上最大的公共领域乐谱和分谱集合.
-* [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - 基于公共领域版本的乐谱.
-* [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - 免费许可下的美丽 LilyPond 乐谱.
+* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
+* [ciconia/music](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
+* [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
+* [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
+* [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
+* [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
+* [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
 
 ## MIDI Tools & Libraries
 
-* [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - 一个完整的基于 Midi 的框架，用于自动生成背景音轨.
-* [Midifile](http://midifile.sapp.org/) - 用于解析标准 MIDI 文件的 C++ 库.
-* [Timidity](http://timidity.sourceforge.net/) - 播放 MIDI 文件的开源命令行合成器.
+* [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+* [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
+* [Polyrhythmix](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+  generator, designed for polyrhythmic parts
+* [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
 
-* [Abjad](http://abjad.mbrsi.org/) - 基于 Lilypond 的用于形式化分数控制的 Python API.
-* [ChordMark](https://chordmark.netlify.app/) - 基于文本的歌词、和弦和节奏记谱法.
-* [Denemo](http://www.denemo.org/) - 基于 Lilypond 的免费乐谱编辑器.
-* [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - 用于显示乐谱的免费网络应用程序.
-* [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - 不同音乐字体的列表和视觉比较.
-* [Frescobaldi](https://github.com/wbsoft/frescobaldi) - 免费的 Lilypond 乐谱编辑器.
-* [Guido](http://guidolib.sourceforge.net/) - 一个通用的、可移植的库和 API，用于乐谱的图形渲染.
-* [Hacklily](https://www.hacklily.org) - 基于 LilyPond 的在线乐谱编辑器（带有可选的 GitHub 集成）.
-* [i-score](http://www.i-score.org) - 一款交互式乐谱软件，具有 DAW 功能.
-* [Inknote](https://github.com/MichalPaszkiewicz/inknote) - 免费、开源、基于浏览器的乐谱和作曲软件.
-* [LibMEI](https://github.com/DDMAL/libmei) - 用于读取和写入 MEI 文件的 C++ 库.
-* [Lilybin](http://lilybin.com/) - 一个开源的基于网络的 LilyPond 编辑器.
-* [Lilypond](http://lilypond.org/) - 免费的开源音乐雕刻程序，致力于制作最高质量的乐谱.
-* [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - 充分利用 lilypond 的提示和技巧.
-* [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - Lilypond 片段想法、功能和技巧的在线数据库.
-* [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond 版本管理器.
-* [Lydown](https://github.com/ciconia/lydown) - 基于 Lilypond 的现代乐谱语言.
-* [Lyp](https://github.com/noteflakes/lyp) - Lilypond 瑞士军刀 - 轻松安装包、管理多个版本的 Lilypond 以及其他适合高级用户的工具.
-* [MuseScore](https://github.com/musescore/MuseScore) - 免费的开源音乐符号和作曲软件.
-* [MusicKit](https://github.com/venturemedia/musickit) - 适用于 iOS 和 OSX 的乐谱渲染.
-* [NOTATIO](http://notat.io/) - 一个致力于音乐符号练习的论坛.
-* [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond 工具 - 片段、模板和扩展.
-* [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - 用于在浏览器中呈现 MusicXML 的 Typescript 库.
-* [Python-ly](https://pypi.python.org/pypi/python-ly) - 用于操作 LilyPond 文件的工具和库.
-* [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - 以最少的麻烦生成乐谱和部分.
-* [Scorelib](http://scorelib.sapp.org/) - 用于解析 SCORE 数据文件的 C++ 库.
-* [Tbon](https://github.com/Michael-F-Ellis/tbon) - 音乐的印刷节拍符号.
-* [Tunefl](https://github.com/tiredpixel/tunefl) - 为音乐人提供的LilyPond小乐谱刻版分享服务.
-* [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - 用文字创作乐谱的专有软件.
-* [Verovio](https://github.com/rism-ch/verovio) - 用于将 MEI 音乐符号雕刻到 SVG 中的库和工具包.
-* [Vexflow](https://github.com/0xfe/vexflow) - 一个用于渲染乐谱和吉他指法的 JavaScript 库.
+* [Abjad](http://abjad.mbrsi.org/) - a Python API for Formalized Score Control, based on Lilypond.
+* [ChordMark](https://chordmark.netlify.app/) - a text-based notation format for lyrics, chords and rhythm.
+* [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
+* [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+* [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
+* [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
+* [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
+* [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
+* [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
+* [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
+* [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
+* [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
+* [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
+* [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
+* [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
+* [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
+* [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
+* [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+* [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
+* [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+* [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
+* [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
+* [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+* [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
+* [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
+* [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
+* [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
+* [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
+* [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
+* [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
+* [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
 ## Music Programming
 
-* [Alda](https://github.com/alda-lang/alda) - 音乐家的音乐编程语言.
-* [Bach: Automated Composer's Helper](http://www.bachproject.net/) - Max 的一组跨平台补丁和外部组件，旨在将计算机辅助合成的丰富性带入实时世界.
-* [Cane](https://github.com/Jackojc/cane) - 围绕矢量和欧氏节奏设计的小型 MIDI 音序器 DSL.
-* [Chuck](https://github.com/ccrma/chuck) - 强时序、并发和动态的音乐编程语言.
-* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider)  - 一种用于 HTML5 中实时音频合成和算法合成的语言.  “编写 CoffeeScript，并作为 SuperCollider 进行处理.”
-* [Common Music](http://commonmusic.sourceforge.net/) - 一个开源音乐作曲系统.
-* [Csound](http://csound.github.io/) - 用户可编程和用户可扩展的声音处理语言和软件合成器.
-* [Faust](http://faust.grame.fr/) - 一种专门为实时信号处理和合成而设计的函数式编程语言.
-* [Gwion](https://github.com/Gwion/Gwion)  - 一种针对音乐创作的强时序编程语言. 深受 Chuck 的启发.
-* [IanniX](https://github.com/iannix/IanniX) - 基于 Iannis Xenakis 作品的图形化开源音序器，用于数字艺术.
-* [Inscore](http://inscore.sourceforge.net/) - 用于设计交互式增强乐谱的环境.
-* [Leipzig](https://github.com/ctford/leipzig) - Overtone 的合成库.
-* [Midica](https://github.com/truj/midica) - 带有反编译器和播放器的 MIDI 编程语言，支持卡拉 OK.
-* [music21](http://web.mit.edu/music21/) - 计算音乐学工具包.
-* [Music Suite](http://music-suite.github.io/docs/ref/) - 一种基于 Haskell 的通用音乐符号和理论语言.
-* [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - 声音合成和作曲语言.
-* [OpenMusic](http://repmus.ircam.fr/openmusic/home) - 基于 Lisp 的可视化编程语言.
-* [Orca](https://github.com/hundredrabbits/Orca) - 音乐现场编程环境.
-* [Overtone](https://github.com/overtone/overtone/) - 用于设计合成器和与音乐协作的开源工具包.
-* [Platonic Music Engine](http://www.platonicmusicengine.com/) - 用 Lua 编写的开源音乐生成框架.
-* [Pure Data](http://puredata.info/) - 一种用于音频和其他多媒体的可视化编程语言.
-* [py-modular](http://py-modular.readthedocs.io/) - 一个模块化和实验性的编程环境，具有 python 中的基本 DSP 例程.
-* [Sardine](https://github.com/Bubobubobubobubo/sardine) - 用于 Python 3.10+ (MIDI/OSC/SuperCollider) 的音乐现场编码库.
-* [Sonic Pi](http://sonic-pi.net/) - 强调教育用途的实时编码合成器.
-* [Sporth](https://pbat.ch/proj/sporth.html) - 基于小型堆栈的音频语言.
-* [SuperCollider](http://supercollider.github.io/) - 一种用于实时音频合成和算法组合的编程语言.
-* [Tidal](https://tidalcycles.org/) - 一种基于 Haskell 的语言，用于实时编码模式.
-* [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - 用于下一代 DAW 的 python 插件 SDK，允许您将音乐算法和 AI 模型编程到音乐制作的所有阶段
-* [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Unison 中使用的领域特定语言.
+* [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians.
+* [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
+* [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+* [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
+* [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
+* [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
+* [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
+* [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+* [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+* [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
+* [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
+* [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+* [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
+* [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
+* [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
+* [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
+* [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music.
+* [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
+* [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
+* [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
+* [py-modular](http://py-modular.readthedocs.io/) - a modular and experimental programming environment with basic DSP routines in python.
+* [Sardine](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+* [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
+* [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
+* [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
+* [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
+* [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+* [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
 
 ## Music Theory Teaching
 
-* [Artusi](https://www.artusi.xyz) - 交互式音乐理论练习.
-* [Four Score and More](https://fourscoreandmore.org/) - 根据乐谱量身定制的乐理练习.
-* [musictheory.net](https://www.musictheory.net) - 课程和练习
-* [OpenMusicTheory](http://openmusictheory.com/) - 不断发展的在线音乐理论和听觉技能“教科书”.
-* [Theorytab](https://www.hooktheory.com/theorytab) - 带有和弦功能的歌曲数据库.
+* [Artusi](https://www.artusi.xyz) - Interactive music theory exercises.
+* [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
+* [musictheory.net](https://www.musictheory.net) - Lessons and exercises
+* [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
+* [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
 
 ## Standards
 
-* [MEI (Music Encoding Initiative)](http://music-encoding.org/) - 一项开源工作，旨在定义一种以机器可读结构对音乐文档进行编码的系统.
-* [MusicXML](http://www.musicxml.com/) - 用于交换数字乐谱的标准开放格式.
-* [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - 将音乐符号映射到 Unicode 以用于音乐字体的规范.
+* [MEI (Music Encoding Initiative)](http://music-encoding.org/) - an open-source effort to define a system for encoding musical documents in a machine-readable structure.
+* [MusicXML](http://www.musicxml.com/) - the standard open format for exchanging digital sheet music.
+* [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
 
 ## Other Awesomeness
 
 ## Related lists
 
-* [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) - 有关音频可视化的精选列表.
-* [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - 专门用于听音乐的很棒的网站列表.
-* [Awesome Music Production](https://github.com/adius/awesome-music-production) - 用于创作音乐的精选软件和资源列表.
-* [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - 与音频科学研究相关的 python 软件和软件包的精选列表.
-* [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - 很棒的活页乐谱软件、图书馆和资源的精选列表.
-* [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - 很棒的 WebAudio 包和资源的精选列表.
+* [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
+* [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+* [Awesome Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - A curated list of python software and packages related to scientific research in audio.
+* [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
+* [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
-其他非常棒的列表可以在 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 列表.
+Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sharon Rosner](http://github.com/ciconia) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.

@@ -1151,6 +1151,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152&hl=en&as_sdt=0,5)]. 
 
+* [A Computational Inflection for Scientific Discovery](https://dl.acm.org/doi/abs/10.1145/3576896) - ***Communications of the ACM***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=1756108647531090189&hl=en&as_sdt=0,5)].
+
 
 #### Science of Science
 
