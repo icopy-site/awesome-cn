@@ -87,6 +87,24 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 >
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
+#### [Chronicles of the Unhewn Throne](https://www.goodreads.com/series/116397-chronicle-of-the-unhewn-throne) (2014) _by [Brian Staveley](https://en.wikipedia.org/wiki/Brian_Staveley)_ [4.1]
+
+An assassin, a monk, and an heiress. While only one of these characters interested me from the description, each story pulled me in. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- [The Emperor's Blades](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades)
+- [The Providence of Fire](https://www.goodreads.com/book/show/24450384-the-providence-of-fire)
+- [The Last Mortal Bond](https://www.goodreads.com/book/show/27565716-the-last-mortal-bond)
+
+> The circle is closing. The stakes are high. And old truths will live again...
+>
+>The Emperor has been murdered, leaving the Annurian Empire in turmoil. Now his progeny must bury their grief and prepare to unmask a conspiracy.
+>
+>His son Valyn, training for the empire’s deadliest fighting force, hears the news an ocean away. He expected a challenge, but after several ‘accidents’ and a dying soldier’s warning, he realizes his life is also in danger. Yet before Valyn can take action, he must survive the mercenaries’ brutal final initiation.
+>
+>Meanwhile, the Emperor’s daughter, Minister Adare, hunts her father’s murderer in the capital itself. Court politics can be fatal, but she needs justice. And Kaden, heir to an empire, studies in a remote monastery. Here, the Blank God’s disciples teach their harsh ways – which Kaden must master to unlock their ancient powers. When an imperial delegation arrives, he’s learnt enough to perceive evil intent. But will this keep him alive, as long-hidden powers make their move?
+
 #### [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) (2005) _by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)_ [4.28] 🔥
 
 A great series that is a little different from your typical epic fantasy. In this world, everyone has powers, or elemental furies attached to them, except for Tavi, the main character. - [@cary-williams](https://github.com/cary-williams)
@@ -101,6 +119,16 @@ Books:
 6. [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) [4.39]
 
 > Welcome to the Realm of Alera, traveler. Written by the #1 New York Times bestselling author Jim Butcher, the Codex Alera follows the adventures—and misadventures!—of a young man, Tavi of Calderon. In a land where everyone has access to great powers called furies, being the only one without a fury to his name can be tricky, but Tavi proves time and time again that it is not all about your furies.
+
+#### [Cradle](https://www.goodreads.com/series/192821-cradle) (2016) _by [Will Wight](https://en.wikipedia.org/wiki/Will_Wight)_ [4.1]
+
+While many western themed novels have superheroes or powerful magicians, equally pleasing to read is eastern style novels with cultivators. If you're interested in seeing how it compares with _standard fantasy_ this is a great series to get started with. - [@depperm](https://github.com/depperm)
+
+> Sacred artists follow a thousand Paths to power, using their souls to control the forces of the natural world.
+>
+>Lindon is Unsouled, forbidden to learn the sacred arts of his clan.
+>
+>When faced with a looming fate he cannot ignore, he must defy his family's rules...and forge his own Path.
 
 #### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) _by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)_ [3.98]
 
@@ -202,6 +230,16 @@ Books:
 - [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
 - [The Lost Metal](https://www.goodreads.com/book/show/23947089-the-lost-metal) [4.5]
 
+#### [Mother of Learning](https://www.goodreads.com/series/336405-mother-of-learning) (2021) _by [Domagoj Kurmaic](https://www.goodreads.com/author/show/14128815.Domagoj_Kurmai_)_ [4.5]
+
+Ground hog day combined with magician school turns out to be pretty interesting. Throw in some mind spiders, liches, and magical beasts and things get more interesting. - [@depperm](https://github.com/depperm)
+
+> A teenage mage of humble birth and slightly above-average skill, Zorian is attending his third year of education at Cyoria's magical academy. A driven and quiet young man, he is consumed by a desire to ensure his own future and free himself of the influence of his family, resenting the Kazinskis for favoring his brothers over him. Consequently, Zorian has no time for pointless distractions, much less other people's problems.
+>
+>As it happens, though, time is something he is about to get plenty of.
+>
+>On the eve of Cyoria's annual summer festival, Zorian is murdered, then abruptly brought back to the beginning of the month, just before he was about to take the train to school. Finding himself trapped in a time loop with no clear end or exit, he will have to look both within and without to unravel the mystery set before him. He does have to unravel it, too, because the loop clearly wasn’t made for his sake, and in a world of magic even a time traveler isn't safe from those who wish him ill.
+
 #### [Percy Jackson](https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians) _by [Rick Riordan](https://en.wikipedia.org/wiki/Rick_Riordan)_
 
 These are really amazing and fun to read, especially the characters and how it relates with Greek mythology. - [@ankush1024](https://github.com/ankush1024)
@@ -295,6 +333,26 @@ Books:
 - [Oath of Gold](https://www.goodreads.com/book/show/17316.Oath_of_Gold)
 
 > Paksenarrion-—Paks for short-—was somebody special. Never could she have followed her father's orders and married the pig farmer down the road. Better a soldier's life than a pigfarmer's wife, and so though she knew that she could never go home again, Paks ran away to be a soldier. And so began an adventure destined to transform a simple Sheepfarmer's Daughter into a hero fit to be chosen by the gods
+
+#### [The Demon Cycle](https://www.goodreads.com/series/46817-the-demon-cycle) (2008) _by [Peter V. Brett](https://en.wikipedia.org/wiki/Peter_V._Brett)_ [4.2] :fire:
+
+This a darker fantasy series that weaves the story from different people who are not necessarily allies but allied towards a similar end goal. Different beliefs and an intricate magic system keep things interesting. - [@depperm](https://github.com/depperm)
+
+Books:
+
+- [The Warded Man](https://www.goodreads.com/book/show/24809182-o-protegido) :fire:
+- [The Desert Spear](https://www.goodreads.com/book/show/17411982-pustinjsko-koplje)
+- [The Daylight War](https://www.goodreads.com/book/show/16163983-the-daylight-war)
+- [The Skull Throne](https://www.goodreads.com/book/show/24516043-the-skull-throne)
+- [The Core](https://www.goodreads.com/book/show/36179561-the-core)
+
+> As darkness falls after sunset, the corelings rise—demons who possess supernatural powers and burn with a consuming hatred of humanity. For hundreds of years the demons have terrorized the night, slowly culling the human herd that shelters behind magical wards—symbols of power whose origins are lost in myth and whose protection is terrifyingly fragile.
+>
+>It was not always this way. Once, men and women battled the corelings on equal terms, but those days are gone. Night by night the demons grow stronger, while human numbers dwindle under their relentless assault.
+>
+>Now, with hope for the future fading, three young survivors of vicious demon attacks will do the unthinkable, stepping beyond the crumbling safety of the wards to risk everything in a desperate quest to regain the secrets of the past.
+>
+>Arlen Bales will pay any price, embrace any sacrifice, for freedom, and his grim journey will take him beyond the bounds of human power. Crippled by the demons that killed his parents, Rojer Inn seeks solace in music, only to discover that his instrument can be a weapon as well as a refuge. Wanting to cure the sick and injured, Leesha Paper overcomes great hardship to become a guardian of old world science, learning that what heals can also harm. Together, they will stand against the night.
 
 #### [The Farseer Trilogy](https://www.goodreads.com/series/41452-farseer-trilogy) _by [Robin Hobb](https://en.wikipedia.org/wiki/Robin_Hobb)_ [4.1] :fire:
 
