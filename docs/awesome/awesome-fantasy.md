@@ -256,6 +256,24 @@ Books:
 >
 > The series feel fresh and new from the eyes of these young modern heroes. From the first novel, the plot is engaging and exciting, appealing to anyone who's ever felt like they didn't belong. Between all of the action, magic and riddles, it's a truly heart-warming story about finding friends who eventually become family, and houses that eventually become homes.
 
+#### [Redwall](https://www.goodreads.com/series/40340-redwall) (1986) _by [Brian Jacques](https://en.wikipedia.org/wiki/Brian_Jacques)_ [4.1] :fire:
+
+While targeted towards a slightly younger audience, this series has length and depth that many other fantasy series lack. Characters are animals living in a medievalesque world that works quite well. - [@depperm](https://github.com/depperm)
+
+The best descriptions of food in any books ever. - [@RichardLitt](https://github.com/RichardLitt)
+
+Books:
+
+- [Redwall](https://www.goodreads.com/book/show/20209935-redwall) [4.1] :fire:
+- [Mossflower](https://www.goodreads.com/book/show/19473270-mossflower) [4.1]
+- [Mattimeo](https://www.goodreads.com/book/show/19300221-mattimeo) [4.1]
+- [Mariel](https://www.goodreads.com/book/show/20189089-mariel-of-redwall) [4.1]
+- ... 21 total
+
+> Redwall Abbey, tranquil home to a community of peace-loving mice, is threatened by the evil, one-eyed rat warlord Cluny the Scourge and his battle-hardened horde of predators.
+>
+>Cluny is certain that Redwall will fall easily to his fearsome army but he hasn't bargained for the courage and strength of the Redwall mice and their loyal woodland friends
+
 #### [The Belgariad](https://www.goodreads.com/book/show/44660.The_Belgariad_Boxed_Set?ac=1&from_search=true&qid=wv9xaSskqn&rank=3) _by [David Eddings](https://en.wikipedia.org/wiki/David_Eddings)_ [4.3] :star2:
 
 The Belgariad was my first foray into an epic series and I was hooked from the start because of the characters, humor, and adventure created by David and Leigh Eddings. The series starts with Pawn of Prophecy and spans a total of 16 novels each as well developed as the one before. Inspired by the continued printing of Lord of the Rings, Eddings created the Belgariad as a trilogy, but was eventually convinced by the publisher to print it as a series of five books. The story continues on in the equally as developed 5-book series known as the [Mallorean](https://www.goodreads.com/series/42429-the-malloreon). - [@codercarly](https://github.com/codercarly)

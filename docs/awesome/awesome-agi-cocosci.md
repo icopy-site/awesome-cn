@@ -1199,7 +1199,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 
-#### Democratization
+#### Democratization of Science
 
 * [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7#Sec1) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)].
 
