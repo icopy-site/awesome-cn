@@ -3,13 +3,13 @@
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
 
-&gt; 适用于 GNOME 桌面环境的 _awesome_ 应用程序、扩展、模块、主题和工具的精选列表.
+> A curated list of _awesome_ apps, extensions, modules, themes and tools for the GNOME Desktop Environment.
 
-[GNOME](https://www.gnome.org/) 是一个适用于 Linux 和 Unix 的桌面环境，旨在让用户掌控并完成工作. 它使用 GTK 作为其应用程序，并使用 Clutter 和 JavaScript 作为其官方桌面 shell.
+[GNOME](https://www.gnome.org/) is a desktop environment for Linux and Unix-like operating systems, designed to put the user in control and get things done. It uses GTK for its applications and Clutter and JavaScript for its official desktop shell.
 
-&gt; 标有 ![GNOME Core][GNOME Core] 的项目是由 GNOME 项目正式维护和分发的应用程序，作为核心应用程序和工具集的一部分，或者是作为经典模式的一部分维护和分发的扩展.
+> Items marked with ![GNOME Core][GNOME Core] are applications officially maintained and distributed by the GNOME Project as part of the core set of applications and tools, or extensions that are maintained and distributed as part of the Classic mode.
 
-&gt; 标有 ![GNOME Circle][GNOME Circle] 的项目是由 [GNOME Circle](https://circle.gnome.org/) 该倡议旨在展示 GNOME 的最佳应用程序和库.
+> Items marked with ![GNOME Circle][GNOME Circle] are applications championed by the [GNOME Circle](https://circle.gnome.org/) initiative that aims to showcase the best apps and libraries for GNOME.
 
 
 
@@ -19,205 +19,206 @@
 
 ### Internet and Networking
 
-- [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/)  - GNOME 的官方网络浏览器项目.  ![GNOME 核心][GNOME 核心]
-- [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/)  - BitTorrent 客户端.  ![GNOME 圈子][GNOME 圈子]
-- [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/)  - RSS 提要阅读器.  ![GNOME 圈子][GNOME 圈子]
-- [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/)  - 从在线源安装字体.  ![GNOME 圈子][GNOME 圈子]
-- [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/)  - 固定标签的浏览器.  ![GNOME 圈子][GNOME 圈子]
-- [Polari](https://apps.gnome.org/app/org.gnome.Polari/)  - 在 IRC 上与人们交谈.  ![GNOME 圈子][GNOME 圈子]
-- [Wrap](https://apps.gnome.org/app/app.drey.Warp/)  - 快速、安全的文件传输.  ![GNOME 圈子][GNOME 圈子]
-- [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/)  - 搜索和阅读维基百科文章.  ![GNOME 圈子][GNOME 圈子]
-- [Geary](https://wiki.gnome.org/Apps/Geary) - 现代邮件客户端，最初由 Yorba 创建.
-- [Feeds](https://gitlab.gnome.org/World/gfeeds) - RSS/Atom 提要阅读器.
-- [Cawbird](https://ibboard.co.uk/cawbird/) - 推特客户端.
-- [Haguichi](https://www.haguichi.net/) - Hamachi 的图形前端.
-- [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` 图形正面.
+- [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
+- [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - BitTorrent client. ![GNOME Circle][GNOME Circle]
+- [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
+- [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle][GNOME Circle]
+- [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle][GNOME Circle]
+- [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
+- [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
+- [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
+- [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
+- [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
+- [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
+- [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
+- [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
 
 ### Office
 
-- [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/)  - 无干扰的 Markdown 编辑器.  ![GNOME 圈子][GNOME 圈子]
-- [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/)  - 管理您的参考书目.  ![GNOME 圈子][GNOME 圈子]
-- [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - NFO 文件的简单查看器，具有预设字体和编码设置以及可单击超链接支持的击败文本编辑器.
-- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 用于扫描文档和 PDF 的个人文档管理器.
-- [Foliate](https://github.com/johnfactotum/foliate) - 简单而现代的电子书阅读器.
-- [Pdftag](https://github.com/arrufat/pdftag) - PDF 的简单元数据编辑器.
-- [Marker](https://github.com/fabiocolacio/Marker) - 带有集成预览器的 Markdown 编辑器.
-- [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF 元数据编辑器.
+- [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
+- [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
+- [NFO Viewer](https://flathub.org/apps/details/io.otsaloma.nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+- [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
+- [Pdftag](https://github.com/arrufat/pdftag) - Simple metadata editor for PDFs.
+- [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
+- [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
 
 ### Productivity and Time
 
-- [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/)  - 平衡工作时间和休息时间.  ![GNOME 圈子][GNOME 圈子]
-- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/)  - 记录完成任务所花费的时间.  ![GNOME 核心][GNOME 核心]
-- [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - 管理您的任务.
-- [GTimeLog](https://github.com/gtimelog/gtimelog) - 用于记录时间的简单应用程序.
-- [Gnome Pomodoro](http://gnomepomodoro.org/) - 简单的番茄计时器.
-- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - 时间追踪器.
+- [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
+- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
+- [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
+- [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
+- [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
+- [Teleprompter](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
 
 ### Well Being
 
-- [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/)  - 听不同的声音.  ![GNOME 圈子][GNOME 圈子]
-- [Health](https://apps.gnome.org/app/dev.Cogitri.Health/)  - 健康追踪.  ![GNOME 圈子][GNOME 圈子]
+- [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
+- [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking. ![GNOME Circle][GNOME Circle]
 
 ### Multimedia
 
-- [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/)  - 基于网络的广播客户端.  ![GNOME 圈子][GNOME 圈子]
-- [Cozy](https://apps.gnome.org/app/com.github.geigi.cozy/)  - 有声读物播放器.  ![GNOME 圈子][GNOME 圈子]
-- [Video Trimer](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/)  - 快速修剪视频.  ![GNOME 圈子][GNOME 圈子]
-- [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/)  - 播放音乐，不做任何其他事情.  ![GNOME 圈子][GNOME 圈子]
-- [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/)  - 在几秒钟内识别任何歌曲.  ![GNOME 圈子][GNOME 圈子]
-- [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/)  - 收听您最喜欢的播客.  ![GNOME 圈子][GNOME 圈子]
-- [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/)  - 从音板播放声音.  ![GNOME 圈子][GNOME 圈子]
-- [Vocal](https://github.com/needle-and-thread/vocal) - 功能强大、美观且简单的播客客户端，适用于现代免费桌面.
-- [Celluloid](https://github.com/celluloid-player/celluloid) - mpv 的简单前端.
-- [Lollypop](https://gitlab.gnome.org/World/lollypop) - 美丽的音乐应用程序.
-- [Parlatype](http://gkarsay.github.io/parlatype/) - 专门用于转录的音频播放器.
-- [Easy Effects](https://github.com/wwmm/easyeffects) - PipeWire 应用程序的音频效果.
-- [Pitivi](http://www.pitivi.org/) - 美丽而强大的视频编辑器.
-- [Spot](https://github.com/xou816/spot) - Spotify 客户端.
-- [Clapper](https://github.com/Rafostar/clapper) - 简单而现代的媒体播放器.
-- [Footage](https://gitlab.com/adhami3310/Footage) - 用于修剪、翻转、旋转和裁剪单个剪辑的应用程序.
+- [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
+- [Cozy](https://apps.gnome.org/app/com.github.geigi.cozy/) - Audiobook player. ![GNOME Circle][GNOME Circle]
+- [Video Trimer](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/) - Trim video quickly. ![GNOME Circle][GNOME Circle]
+- [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - Plays music, and nothing else. ![GNOME Circle][GNOME Circle]
+- [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Identify any songs in seconds. ![GNOME Circle][GNOME Circle]
+- [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
+- [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/) - Play sounds from a soundboard. ![GNOME Circle][GNOME Circle]
+- [Vocal](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
+- [Celluloid](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
+- [Lollypop](https://gitlab.gnome.org/World/lollypop) - Beautiful music application.
+- [Parlatype](http://gkarsay.github.io/parlatype/) - Audio player specialized for transcription.
+- [Easy Effects](https://github.com/wwmm/easyeffects) -  Audio effects for PipeWire applications .
+- [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
+- [Spot](https://github.com/xou816/spot) - Spotify Client.
+- [Clapper](https://github.com/Rafostar/clapper) - Simple and modern media player.
+- [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 
 ### Graphics
 
-- [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail)  - 简单实用的图像压缩器.  ![GNOME 圈子][GNOME 圈子]
-- [Drawing](https://apps.gnome.org/app/com.github.maoschanz.drawing/)  - 响应式绘图应用程序.  ![GNOME 圈子][GNOME 圈子]
-- [Identity](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/)  - 比较图像和视频.  ![GNOME 圈子][GNOME 圈子]
-- [Coulr](https://github.com/Huluti/Coulr) - 在 RGB 和十六进制颜色代码之间进行转换.
-- [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle，适用于 X11 和 Wayland.
-- [GThumb](https://wiki.gnome.org/Apps/Gthumb) - 强大且先进的应用程序来管理您的照片和图像.
+- [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail) - Simple & useful image compressor. ![GNOME Circle][GNOME Circle]
+- [Drawing](https://apps.gnome.org/app/com.github.maoschanz.drawing/) - Responsive drawing application. ![GNOME Circle][GNOME Circle]
+- [Identity](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/) - Compare image and video. ![GNOME Circle][GNOME Circle]
+- [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
+- [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
+- [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 
 ### Scientific Tooling
 
-- [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/)  - 简单的图表绘制.  ![GNOME 圈子][GNOME 圈子]
+- [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
 
 ### Gaming
 
-- [Lutris](https://github.com/lutris/lutris) - 开源游戏平台.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - 游戏启动器和 libretro 的模拟前端.
-- [Cartridges](https://github.com/kra-mo/cartridges)  - 带有 Steam、Lutris、Heroic、Bottles 和 itch 库导入的游戏启动器.  ![GNOME 圈子][GNOME 圈子]
+- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform.
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
 
 ### System and Customization
 
-- [Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/)  - 基于borg的简单备份.  ![GNOME 圈子][GNOME 圈子]
-- [Déjà Dup Backups](https://apps.gnome.org/app/org.gnome.DejaDup/)  - 简单的备份工具.  ![GNOME 圈子][GNOME 圈子]
-- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - 高级 GNOME 设置的图形界面.
-- [Tilix](https://github.com/gnunn1/terminix/) - 平铺终端模拟器.
-- [Menulibre](https://smdavis.us/projects/menulibre/) - 如果您使用 Arc 或应用程序菜单等传统应用程序菜单，请管理您的应用程序类别.
-- [HydraPaper](https://hydrapaper.gabmus.org/) - 为每个显示器设置不同的背景.
-- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - 用于编辑 GNOME XML 壁纸的实用程序
-- [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - MacOS 画廊，例如动态壁纸，以及安装它们的简单脚本
-- [GDM Settings](https://gdm-settings.github.io) - GDM（GNOME 的登录屏幕，又名 GNOME 显示管理器）的设置应用程序.
-- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) 皮肤安装程序.
-- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak 权限管理器.
-- [Mission Center](https://missioncenter.io/) - 监控您的 CPU、内存、磁盘、网络和 GPU 使用情况
+- [Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/) - Simple backups based on borg. ![GNOME Circle][GNOME Circle]
+- [Déjà Dup Backups](https://apps.gnome.org/app/org.gnome.DejaDup/) - Simple backups tool. ![GNOME Circle][GNOME Circle]
+- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) - Graphical interface for advanced GNOME settings.
+- [Tilix](https://github.com/gnunn1/terminix/) - Tiling terminal emulator.
+- [Menulibre](https://smdavis.us/projects/menulibre/) - Manage your applications categories if you use a traditional application menu like Arc or the Application Menu.
+- [HydraPaper](https://hydrapaper.gabmus.org/) - Set a different background for each monitor.
+- [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
+- [Dynamic Gnome Wallpapers](https://github.com/manishprivet/dynamic-gnome-wallpapers) - Gallery of MacOS like dynamic wallpapers, and easy scripts to install them
+- [GDM Settings](https://gdm-settings.github.io) - A settings app for GDM (GNOME's Login Screen a.k.a GNOME Display Manager).
+- [AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) skin installer.
+- [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission manager.
+- [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage
 
 ### Utilities
 
-- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/)  - 翻译文本.  ![GNOME 圈子][GNOME 圈子]
-- [Markets](https://apps.gnome.org/app/com.bitstower.Markets/)  - 跟踪您的投资.  ![GNOME 圈子][GNOME 圈子]
-- [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/)  - 分享您的计算机音频.  ![GNOME 圈子][GNOME 圈子]
-- [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/)  - 控制您的 Elgato Stream Deck.  ![GNOME 圈子][GNOME 圈子]
-- [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/)  - 扫描并生成二维码.  ![GNOME 圈子][GNOME 圈子]
-- [Junction](https://apps.gnome.org/app/re.sonny.Junction/)  - Junction 允许您选择打开文件和链接的应用程序.  ![GNOME 圈子][GNOME 圈子]
-- [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/)  - 优雅地录制您的屏幕.  ![GNOME 圈子][GNOME 圈子]
-- [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/)  - 保持节奏.  ![GNOME 圈子][GNOME 圈子]
-- [GPaste](https://github.com/Keruspe/GPaste) - 剪贴板管理器（由应用程序和 gnome-shell 扩展组成）.
-- [Catfish](https://launchpad.net/catfish-search) - 简单的搜索应用程序.
-- [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - 用于删除重复文件的简单快速的工具.
-- [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - 烹饪应用程序.
-- [Sunflower](http://sunflower-fm.org) - 小型且高度可定制的双面板文件管理器.
+- [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - Translate text. ![GNOME Circle][GNOME Circle]
+- [Markets](https://apps.gnome.org/app/com.bitstower.Markets/) - Keep track of your investments. ![GNOME Circle][GNOME Circle]
+- [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/) - Share your computer audio. ![GNOME Circle][GNOME Circle]
+- [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
+- [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
+- [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
+- [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
+- [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
+- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
+- [Catfish](https://launchpad.net/catfish-search) - Simple search application.
+- [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
+- [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
+- [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 
 ### Security and Privacy
 
-- [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/)  - 审查私人信息.  ![GNOME 圈子][GNOME 圈子]
-- [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/)  - 查看和清理文件中的元数据.  ![GNOME 圈子][GNOME 圈子]
-- [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/)  - Keepass 兼容的密码管理器.  ![GNOME 圈子][GNOME 圈子]
-- [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/)  - 生成双因素代码.  ![GNOME 圈子][GNOME 圈子]
-- [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/)  - 检查文件的哈希值.  ![GNOME 圈子][GNOME 圈子]
-- [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/)  - 安全删除您的文件.  ![GNOME 圈子][GNOME 圈子]
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - 与免费桌面秘密兼容的密码管理器.
+- [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
+- [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/) - View and clean metadata in files. ![GNOME Circle][GNOME Circle]
+- [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
+- [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
+- [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
+- [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 
 ### Development and Design
 
-- [GNOME Builder](https://apps.gnome.org/app/org.gnome.Builder/)  - 用于创建 GNOME 应用程序的官方 IDE.  ![GNOME 核心][GNOME 核心]
-- [Gaphor](https://gaphor.org)  - UML 和 SysML 的简单建模工具.  ![GNOME 圈子][GNOME 圈子]
-- [Webfont Kit Generator](https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/)  - 轻松创建@font-face 套件.  ![GNOME 圈子][GNOME 圈子]
-- [Commit](https://apps.gnome.org/app/re.sonny.Commit/)  - 提交消息编辑器.  ![GNOME 圈子][GNOME 圈子]
-- [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/)  - 使用 GNOME 技术学习并制作原型.  ![GNOME 圈子][GNOME 圈子]
-- [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/)  - 生成占位符文本.  ![GNOME 圈子][GNOME 圈子]
-- [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/)  - 在本地测试社交媒体卡.  ![GNOME 圈子][GNOME 圈子]
-- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/)  - 无需使用随机网站即可转换文本.  ![GNOME 圈子][GNOME 圈子]
-- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - 分析应用程序或整个系统.
-- [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - 用于浏览和搜索 API 文档的开发人员工具.
-- [Escambo](https://github.com/CleoMenezesJr/escambo) - 基于 HTTP 的 API 测试应用程序.
+- [GNOME Builder](https://apps.gnome.org/app/org.gnome.Builder/) - Official IDE for creating GNOME applications. ![GNOME Core][GNOME Core]
+- [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle][GNOME Circle]
+- [Webfont Kit Generator](https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
+- [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
+- [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Learn and prototype with GNOME technologies. ![GNOME Circle][GNOME Circle]
+- [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/) - Generate placeholder text. ![GNOME Circle][GNOME Circle]
+- [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/) - Test social media cards locally. ![GNOME Circle][GNOME Circle]
+- [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
+- [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
+- [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
+- [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 
 #### Design Tooling
 
-- [App Icon Preview](https://apps.gnome.org/app/org.gnome.design.AppIconPreview/) - 预览图标的简单实用程序.
-- [Palette](https://apps.gnome.org/app/org.gnome.design.Palette/) - 用于查看 GNOME 调色板的工具.
-- [Contrast](https://apps.gnome.org/app/org.gnome.design.Contrast/) - 检查两种颜色之间的对比度.
-- [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - 您的应用程序的符号图标.
-- [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - 符号变得简单.
-- [Emblem](https://apps.gnome.org/app/org.gnome.design.Emblem/) - 生成项目头像.
+- [App Icon Preview](https://apps.gnome.org/app/org.gnome.design.AppIconPreview/) - Simple utility to preview icons.
+- [Palette](https://apps.gnome.org/app/org.gnome.design.Palette/) - Tool for viewing the GNOME colour palette.
+- [Contrast](https://apps.gnome.org/app/org.gnome.design.Contrast/) - Check the contrast between two colors.
+- [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - Symbolic icons for your apps.
+- [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - Symbolics Made Easy.
+- [Emblem](https://apps.gnome.org/app/org.gnome.design.Emblem/) - Generate project avatars.
 
 ### Others
 
-- [Boxes](https://apps.gnome.org/en/app/org.gnome.Boxes/) - 查看、访问和管理远程和虚拟系统.
+- [Boxes](https://apps.gnome.org/en/app/org.gnome.Boxes/) - View, access, and manage remote and virtual systems.
 
 ## Third-party Apps Plugins
 
-- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - 使用 Adwaita 将 Firefox 集成到基于 GNOME 的桌面中.
-- [Nautilus Terminal](https://github.com/flozz/nautilus-terminal) - 将终端集成到 Nautilus 中.
+- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+- [Nautilus Terminal](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
 
 ### Docks and Panels
-- [Dash-to-Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - 功能齐全的底座.
-- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - 让您的桌面更类似于W7/KDE.
-- [Dock-from-Dash](https://extensions.gnome.org/extension/4703/dock-from-dash/) - 只需将您的 Dash 转变为 Dock.
+- [Dash-to-Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A fully-featured dock.
+- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
+- [Dock-from-Dash](https://extensions.gnome.org/extension/4703/dock-from-dash/) - Simply transform your Dash into a Dock.
 
 ### Customization and Tweaks
-- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - 自定义 GNOME Shell.
-- [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - 自定义热点角.
-- [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) - 在所有 gnome 安装中同步 gnome shell 键绑定、调整设置和扩展及其配置.
-- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - 调整您的快速设置菜单.
+- [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
+- [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
+- [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+- [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - Tweak your quick settings menu.
 
 ### Menus
-- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/)  - 基于类别的应用程序菜单.  ![GNOME 经典][GNOME 核心]
-- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)  - 提供快速访问文件夹的菜单.  ![GNOME 经典][GNOME 核心]
-- [Arc Menu](https://extensions.gnome.org/extension/3628/arcmenu/) - 类似 Windows7 的应用程序菜单，灵感源自 Zorin OS 中的菜单.
+- [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
+- [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic][GNOME Core]
+- [Arc Menu](https://extensions.gnome.org/extension/3628/arcmenu/) - Windows7-like application menu inspired by the one in Zorin OS.
 - [Fly-Pie](https://extensions.gnome.org/extension/3433/fly-pie/) - Mouse-based menu.
 
 ### Applets
-- [RunCat](https://github.com/win0err/gnome-runcat) — 猫通过运行速度告诉你CPU使用情况.
-- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - 可让您停用 GNOME 锁定屏幕的小程序.
-- [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - 状态菜单显示您的可移动驱动器.
-- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - 天气小程序.
-- [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - 简单的剪贴板小程序.
-- [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer/) - 壁纸幻灯片小程序.
-- [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) - 表情符号选择器小程序.
-- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - todo.txt 的接口.
-- [Time ++](https://extensions.gnome.org/extension/1238/time/) - todo.txt 管理器、时间跟踪器、计时器、秒表、番茄钟和闹钟.
-- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE 连接实施.
-- [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator 系统托盘.
+- [RunCat](https://github.com/win0err/gnome-runcat) — The cat tells you the CPU usage by running speed.
+- [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
+- [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
+- [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
+- [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - Simple clipboard applet.
+- [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer/) - Wallpaper slideshow applet.
+- [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) - Emoji picker applet.
+- [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
+- [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
+- [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation.
+- [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 
 ### Windows
-- [PaperWM](https://github.com/paperwm/PaperWM) - 平铺可滚动窗口管理.
-- [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - 高级全屏应用程序切换器.
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
+- [Coverflow Alt-Tab](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio
-- [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) - 控制每个应用程序的音量输出.
+- [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
 
 ### Visual Changes
-- [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - 对概览和顶部面板背景应用模糊效果.
-- [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - 使一些 UI 元素透明.
-- [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - 为窗口添加摇摆效果.
-- [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - 出于美观目的，在平铺和最大化的窗户周围添加无用的间隙.
-- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - GNOME Shell 的桌面立方体
-- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows/) - 以时尚的方式打开/关闭窗户.
+- [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
+- [Transparent Shell](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
+- [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
+- [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+- [Desktop Cube](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+- [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
 ### Services integration
-- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - 将 GMail 与您的桌面集成.
+- [GMail Message Tray](https://github.com/shumingch/GmailMessageTray) - Integrate GMail with your desktop.
 
 ## Look and Feel
 
@@ -225,44 +226,45 @@
 
 #### Upstream Style
 
-- [GNOME++](https://github.com/Bonandry/gnome-plus) - 第三方应用程序图标与 GNOME 当前指南兼容.
-- [Pop!](https://github.com/pop-os/icon-theme) - System76 的 Pop!\_OS 官方图标主题.
+- [MoreWaita](https://github.com/somepaulo/MoreWaita) - An Adwaita-style icon theme for Gnome Shell.
+- [GNOME++](https://github.com/Bonandry/gnome-plus) - Third-party application icons compatible with GNOME's current guidelines.
+- [Pop!](https://github.com/pop-os/icon-theme) - Official icon theme of Pop!\_OS by System76.
 
 #### Material Icons
 
-- [Paper](https://snwh.org/paper) - 材质图标主题.
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material 图标主题，最初基于 Paper.
+- [Paper](https://snwh.org/paper) - Material icon theme.
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Material icon theme, initially based on Paper.
 
 #### Flat Icons
 
-- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - 图标灵感来自 macOS 和 Material Design 指南.
+- [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) - Icon inspired by macOS and Material Design guidelines.
 
 #### Homogeneous Icons
 
-- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - 著名的法恩扎主题的延续.
-- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - 扁平圆形图标主题.
-- [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - 扁平方形图标主题.
+- [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) - Continuation of the famous Faenza theme.
+- [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) - Flat rounded icon theme.
+- [Numix Square](https://github.com/numixproject/numix-icon-theme-square) - Flat square icon theme.
 
 #### Skeumorphic Icons
 
-- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - 基本操作系统图标的桌面不可知版本.
+- [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - Desktop-agnostic version of the icons of elementary OS.
 
 ### Cursors
- - [ComixCursors](https://www.gnome-look.org/p/999996/) - 带有漫画感觉的X11鼠标主题.
- - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - 基于 Silm 材质的光标主题.
- - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)  - 受 macOS 启发并基于 KDE Breeze 的 x 光标主题. 专为与 La Capitaine 图标搭配而设计.
+ - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling.
+ - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
+ - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
 
 ## Community
 
 ### Official Venues
 
-- [GNOME News Feed](https://www.gnome.org/news/) - 官方新闻帖子.
-- [This Week in GNOME](https://thisweek.gnome.org/) - 来自社区的项目维护者的每周新闻.
+- [GNOME News Feed](https://www.gnome.org/news/) - Official news posts.
+- [This Week in GNOME](https://thisweek.gnome.org/) - Weekly news from project maintainers from the community.
 - [Apps for GNOME](https://apps.gnome.org/)
-- [Planet GNOME](http://planet.gnome.org/) - GNOME 开发者博客联盟.
+- [Planet GNOME](http://planet.gnome.org/) - Federation of GNOME Developers' blogs.
 - [GNOME's Discourse](https://discourse.gnome.org)
 - [GNOME Wiki](https://wiki.gnome.org/)
-- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用 GNOME IRC 频道（[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
+- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - General-purpose GNOME IRC channel ([complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
 
 ### GNOME Communities
 
@@ -281,23 +283,23 @@
 
 ### Libraries
 
-- [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/) - 包含官方 GNOME 模式和小部件的库 (GTK4)
-- [libhandy](https://gitlab.gnome.org/GNOME/libhandy) - 现代自适应 GNOME 应用程序的构建块 (GTK3)
-- [Relm4](https://relm4.org/) - 使用 Rust 和 GTK4 构建本机应用程序
+- [libadwaita](https://gitlab.gnome.org/GNOME/libadwaita/) - Library that contain official GNOME patterns and widgets (GTK4)
+- [libhandy](https://gitlab.gnome.org/GNOME/libhandy) - Building blocks for modern adaptive GNOME apps (GTK3)
+- [Relm4](https://relm4.org/) - Building native applications with Rust and GTK4
 
 ### Examples
 
-- [Hello](https://gitlab.gnome.org/chergert/hello) - 不同语言的 GNOME/GTK 的 Hello World 示例集.
+- [Hello](https://gitlab.gnome.org/chergert/hello) - Set of Hello World examples for GNOME/GTK in different languages.
 
 ### Documentations
 
-- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - 开始为 GNOME 做出贡献的完美场所.
-- [GNOME Developer Center](https://developer.gnome.org/) - 包含所有官方 GNOME 文档.
-- [GTK Documentation](https://docs.gtk.org) - GTK 官方文档.
-- [Valadoc](https://valadoc.org/) - 有关 Vala 的文档.
-- [GJS Documentation](https://gjs-docs.gnome.org/) - JavaScript GTK 绑定的文档.
-- [GJS Guide](https://gjs.guide/) - GJS 指南.
-- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - 介绍用 Python 编写 GTK+ 3 应用程序.
+- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
+- [GNOME Developer Center](https://developer.gnome.org/) - Contains all the official GNOME documentations.
+- [GTK Documentation](https://docs.gtk.org) - Official GTK documentation.
+- [Valadoc](https://valadoc.org/) - Documentation about Vala.
+- [GJS Documentation](https://gjs-docs.gnome.org/) - Documentation for the JavaScript GTK bindings.
+- [GJS Guide](https://gjs.guide/) - Guide for GJS.
+- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) - Introduction to writing GTK+ 3 applications in Python.
 
-[GNOME 核心]：https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
-[GNOME 圈子]：https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png
+[GNOME Core]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
+[GNOME Circle]: https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png
