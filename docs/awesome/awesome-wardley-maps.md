@@ -1,248 +1,252 @@
 <div class="github-widget" data-repo="wardley-maps-community/awesome-wardley-maps"></div>
 ## Wardley Maps Community Hub [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种帮助您检查环境、识别即将发生的变化并正确选择您的行动的技术. 通过检查需要什么、将使用哪些组件、它们的依赖性和特征是什么，您可以构建您的世界的可视化表示、玩假设游戏，并选择您的方向和支持它的最佳行动.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
-这是有用的 Wardley 映射资源和示例的列表. 短网址： [list.wardleymaps.com](https://list.wardleymaps.com) . 欢迎投稿！ [Contribution guidelines](https://list.wardleymaps.com/contributing) 用于向列表中添加内容. 
+This is a list of useful Wardley mapping resources and examples. Short URL: [list.wardleymaps.com](https://list.wardleymaps.com). Contributions welcome! [Contribution guidelines](https://list.wardleymaps.com/contributing) for adding something to the list. 
 
 
 
 ## Quick Start
 
-- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - 态势感知如何让您的企业出名 (5:51).
-- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - 在 11 个图表中 [Simon Wardley](https://twitter.com/swardley).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - 引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
-- [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA ) - Simon Wardley (9:56) 使用 Wardley 地图的概念对 IT 行业的变化进行了基本介绍.
+- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - An engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA ) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
 
 ## Community
 
-- [Wardley Mapping Forum](https://community.wardleymaps.com/) - 讨论与 Wardley Maps 相关的所有内容的地方.
-- [mapcamp.slack.com](https://mapcamp.slack.com/) - 在 Slack 上加入 Map Camp [here](https://map-camp-slack-invite.herokuapp.com/).
-- [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - 沃德利地图社区.
-- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - 订阅 [here](https://bit.ly/2QlF0Wx) . 通讯 [archive](https://bit.ly/2P9MEPu).
-- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - 加入对话.
+- [Wardley Mapping Forum](https://community.wardleymaps.com/) - A place to discuss everything connected with Wardley Maps.
+- [mapcamp.slack.com](https://mapcamp.slack.com/) - Join Map Camp on Slack [here](https://map-camp-slack-invite.herokuapp.com/).
+- [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
+- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - Subscribe [here](https://bit.ly/2QlF0Wx). Newsletter [archive](https://bit.ly/2P9MEPu).
+- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - Join the conversation.
 
 ## Reading
 
-- [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - 知识共享书籍 [Simon Wardley](https://twitter.com/swardley).
-  - 电子书 - PDF 和 Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
-  - 有声读物 - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
-  - [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/)  - 沃德利的地图. 地形智能在商业战略中的应用.
-- [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - 一组关于一系列主题的有用的演示幻灯片.
+- [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
+  - E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+  - Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
+  - [Spanish Translation](https://mapasdewardley.com/estrategia/el-libro-de-simon-wardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
+- [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
-- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - 致力于介绍西蒙·沃德利开创的战略映射技术的维基百科全书.
-- [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - 维基百科条目.
-- [Bits or pieces?](https://blog.gardeviance.org/) - 西蒙沃德利的博客.
-- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - 创建和使用 Wardley Maps 的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF/iPad/Kindle.
-- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu、Boyd 和 Wardley 关于态势感知、OODA“循环”和 Wardley 映射 [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
-- [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - 第 2.3 章绘制您的路径.
-- [Draw your company strategy: A practical workbook for mapping business strategy](https://www.amazon.com/-/es/Joaqu%C3%ADn-Pe%C3%B1a-Fern%C3%A1ndez/dp/B09QFJ4QDG/)  - 视觉卡片审查概念作为用户需求、气候模式、学说、游戏玩法. 修订概念、示例和其他策略主题.
-- [Cuaderno de trabajo para dibujar estrategias: Método y práctica para la estrategia empresarial (Spanish Edition)](https://www.amazon.com/Cuaderno-trabajo-para-dibujar-estrategias/dp/B09KN2M1FP/)  - 视觉表，其中审查了用户需求、天气模式、学说、游戏计划等概念. 审查概念、示例和其他策略主题.
+- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
+- [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
+- [Bits or pieces?](https://blog.gardeviance.org/) - Simon Wardley's blog.
+- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
+- [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
+- [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - Chapter 2.3 Mapping Your Way Through.
+- [Draw your company strategy: A practical workbook for mapping business strategy](https://www.amazon.com/-/es/Joaqu%C3%ADn-Pe%C3%B1a-Fern%C3%A1ndez/dp/B09QFJ4QDG/) - Visual cards reviewing concepts as user needs, climatic patterns, doctrines, gameplays. Revision of concepts, examples and other strategy topics.
+- [Cuaderno de trabajo para dibujar estrategias: Método y práctica para la estrategia empresarial (Spanish Edition)](https://www.amazon.com/Cuaderno-trabajo-para-dibujar-estrategias/dp/B09KN2M1FP/) -Fichas visuales en las que se repasan conceptos como necesidades de los usuarios, patrones climáticos, doctrinas, esquemas de juego. Repaso de conceptos, ejemplos y otros temas de estrategia.
 
 ## Videos
 
-- [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - 社区 YouTube 频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
-- [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Simon Wardley 和 Wardley 制图社区的谈话.
-- [Wardley Maps BarCamp 2020](https://www.youtube.com/playlist?list=PLP0vnsXbJsRVZSbkzWUA-q0eRU5R5bBu1) - 17 位演讲者进行了超过 10 小时的演讲.
-- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - 在 InfoQ 上观看演示文稿和视频记录.
+- [Wardley Maps](https://www.youtube.com/c/WardleyMaps) - Community YouTube channel and [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
+- [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Talks by Simon Wardley and the Wardley mapping community.
+- [Wardley Maps BarCamp 2020](https://www.youtube.com/playlist?list=PLP0vnsXbJsRVZSbkzWUA-q0eRU5R5bBu1) - Over 10 hours of presentations by 17 speakers.
+- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
   
 ## Courses
 
-- [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - 了解如何通过前沿论坛激发未来的想法和战略.
-- [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Simon Wardley 的书的视频章节摘要、15 分钟的介绍性课程和快速参考.
-- [GCATI](https://gcati.org/community/wardley-mapping-community)  - 全球认可的 Wardley 测绘培训和认证； 意识、基础、实践者、战略发展研讨会和 Wardley Mapping BattleCamp.
-- [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Coursera 项目网络的 Tricia Bagley.
+- [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - Learn how to stimulate future ideas and strategies with the Leading Edge Forum.
+- [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
+- [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
+- [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
 - [Business Stragy with Wardley Mapping](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/courses.coryfoy.com/p/business-strategy-with-wardley-mapping) - [Cory Foy](https://twitter.com/cory_foy).
-- [Spanish, Acelera tu aprendizaje en Mapas de Wardley](https://mapasdewardley.com/estrategia/acelera-tu-aprendizaje/) - Joaquín Peña Fernández，MapasdeWardley.com.
+- [Spanish, Acelera tu aprendizaje en Mapas de Wardley](https://mapasdewardley.com/estrategia/acelera-tu-aprendizaje/) - Joaquín Peña Fernández, MapasdeWardley.com.
 
 ## Certifications
 
-- [GCATI](https://gcati.org/certificate/foundation-wardley-mapping)  - Wardley Mapping 的基础. 对于那些需要使用 Wardley Mapping 了解和理解战略基础知识以成为从业者或需要与从业者有效合作的人. 获得 Wardley Mapping 使用基金会认证的候选人能够熟练阅读和理解 Wardley Maps.
+- [GCATI](https://gcati.org/certificate/foundation-wardley-mapping) - Foundation in Wardley Mapping. For those who need to know and understand the basics of Strategy using Wardley Mapping either with a view to becoming a Practitioner or with a need to work effectively with Practitioners. A certified Foundation in using Wardley Mapping candidate has proficiency in reading and understanding Wardley Maps.
 
 ## Maps in the Wild
 
-博客文章和 Wardley 地图的其他有趣示例. 按日期排序，最新的在前.
-- [What do I use maps for?](https://blog.gardeviance.org/2023/06/what-do-i-use-maps-for.html)  - Simon Wardley 列举了一系列例子.  6月08日，
-- [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411)  - 关于如何使用 OpenAI、Streamlit 和 Python 创建问答应用程序 AI 应用程序的博客文章. 提供完整的源代码.
-- [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0)  - 关于如何使用 OpenAI、Streamlit 和 Python 创建 Wardley Map 聊天机器人的博文. 提供完整的源代码.
-- [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - 关于 Wardley Mapping Prompt Engineering for ChatGPT 的 Twitter 线程有很多例子.
-- [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - 中国、EEUU 和欧洲情景比较.
+Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
+- [What do I use maps for?](https://blog.gardeviance.org/2023/06/what-do-i-use-maps-for.html) - Simon Wardley lists a range of examples. Jun 08, 2023.
+- [How to Build a YouTube Video Query AI Model on Wardley Mapping with Python and OpenAI](https://medium.com/prompt-engineering/how-to-build-a-youtube-video-query-ai-model-with-python-and-openai-5b4b26cf9411) - Blog post on how to create a question & answer application AI app using OpenAI, Streamlit and Python. Full source code provided.
+- [How to Create a Powerful Chatbot in Minutes with Streamlit and OpenAI GPT-3.5](https://medium.com/prompt-engineering/how-to-create-a-powerful-chatbot-in-minutes-with-streamlit-and-openai-gpt-3-5-7954e8e05db0) - Blog post on how to create a Wardley Map chatbot using OpenAI, Streamlit and Python. Full source code provided.
+- [Twitter thread on Wardley Mapping ChatGPT Prompt Enineering](https://twitter.com/mcraddock/status/1641537955507347476) - Twitter thread on Wardley Mapping Prompt Engineering for ChatGPT with many examples.
+- [Central Bank Digital Currency competitive analysis](https://joapen.com/blog/2022/12/15/central-bank-digital-currency-competitive-analysis/) - Comparison of scenarios between China, EEUU and Europe.
 - [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
-- [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/)  -华金·佩尼亚·费尔南德斯 (Joaquin Peña Fernandez).  2022 年 8 月 29 日.
-- [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/)  -华金·佩尼亚·费尔南德斯 (Joaquin Peña Fernandez).  9月16日，
-- [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0)  - 西蒙·沃德利 (Simon Wardley) 为什么电子游戏将成为一个国家灵魂的新战场.  2021 年 9 月 8 日.
-- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) 我们使用工作角色的方式容易产生偏见、阻碍创新并拖慢组织的发展. 盖伊·狄金森 (Guy Dickinson) 着.  2021 年 6 月 13 日
-- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 西蒙·沃德利 (Simon Wardley) 的《飞跃前请三思》.  2020 年 10 月 22 日.
-- [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - 2020 年 9 月 15 日.
-- [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  - 与西蒙·沃德利的对话.  2020 年 8 月 4 日.
-- [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7)  - 以友好的方式挑战您的 Wardley 映射假设.  2020 年 8 月 2 日.
-- [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/)  - 向不同群体介绍 Wardley Mapping 的最佳方式是什么？  2020 年 7 月 22 日.
-- [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html)  - 了解需求和结果很重要. 了解所需的价值至关重要.  2020 年 7 月 17 日.
-- [Would you survive the loss of your phone?](https://www.kda.zone/post/would-you-survive-the-loss-of-your-phone)  - 如何使用 Wardley 映射来提高弹性，以个人安全为例.  2020 年 6 月 18 日.
+- [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
+- [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
+- [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0) - Why video games will become a new battleground for the soul of a country by Simon Wardley. Sep 8, 2021.
+- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) the way we use job rolesis prone to bias, blocks innovation, and slows down organisations. by Guy Dickinson. June 13, 2021
+- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap by Simon Wardley. Oct 22, 2020.
+- [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
+- [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
+- [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7) - Challenge your Wardley mapping assumptions in a friendly way. Aug 2, 2020.
+- [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
+- [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
+- [Would you survive the loss of your phone?](https://www.kda.zone/post/would-you-survive-the-loss-of-your-phone) - How to use Wardley mapping to increase resilience using personal security as an example. Jun 18, 2020.
 - [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/) - Jun 7, 2020.
-- [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/)  - 使用 Wardley 地图和战略领域驱动设计分析 ERP 系统.  2020 年 6 月 2 日.
-- [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8)  - 游戏玩法、分形模式、反馈循环、学说.  2020 年 5 月 9 日.
-- [Mapping the blog](https://www.onyszko.com/mapping-the-blog/)  - 将 Wardley 地图应用于个人博客用户需求.  2020 年 4 月 20 日.
-- [Research Skills Framework](https://www.researchskills.net/) - RSF [Map](https://www.researchskills.net/framework/map) 和 Mapping Kit 建立在 Simon Wardley 的地图之上.  2020 年 3 月 30 日检索.
-- [Me versus We](https://swardley.medium.com/me-versus-we-975f518b8219)  - 不走寻常路——枢轴.  2020 年 3 月 27 日.
-- [On the diversity of values](https://swardley.medium.com/on-the-diversity-of-values-af1f91217be5)  ——论价值观的包容性和排他性.  2020 年 2 月 24 日.
-- [From HS2 to China and … back again](https://swardley.medium.com/from-hs2-to-china-and-back-again-6bce5764ea14)  - 关于不断变化的地缘政治世界.  2020 年 2 月 23 日.
-- [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - 审视组织中的团队和阶层，以及用于满足组织需求（如一致性、报告等）的实践.2020 年 2 月 9 日.
-- [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  - Wardley 映射显示区块链正在遵循与其他主流技术相同的成熟度演变.  2020 年 1 月 28 日.
-- [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - 2020 年 1 月 23 日.
-- [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html)  - 使用 Wardley 地图查看喷气发动机的演变.  2020 年 1 月 5 日.
-- [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x)  - 因为你雇用的那个专家没有灵丹妙药.  2019 年 11 月 4 日.
-- [Embedded in memory](https://swardley.medium.com/embedded-in-memory-b05b0e7c183f)  - 文化周期.  2019 年 10 月 2 日.
-- [Exploring value](https://swardley.medium.com/exploring-value-e1ff89cfe019)  - 价值观、弹性、原则、支持系统.  2019 年 10 月 1 日.
-- [From values to rituals](https://swardley.medium.com/from-values-to-rituals-b6f6ae7787bd) - 2019 年 9 月 9 日.
-- [Exploring Brexit](https://swardley.medium.com/exploring-brexit-2ea2f3f283c8)  - 英国脱欧的第一条规则是“你错了”.  2019 年 9 月 5 日.
-- [Exploring Culture](https://swardley.medium.com/mapping-culture-ac164c0e17f0)  - 测绘文化.  2019 年 9 月 4 日.
-- [Building a working map of Ethereum 1.0](https://chainstrat.substack.com/p/building-a-working-map-of-ethereum)  - 以太坊用户需求和能力的 10,000 英尺视图.  2019 年 8 月 13 日.
-- [What culture is right for you?](https://swardley.medium.com/what-culture-is-right-for-you-ba892f1f3bc5) - 2019 年 7 月 31 日.
-- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  - 映射路易斯·郭士纳 (Louis Gerstner) 的“谁说大象不会跳舞”.  2019 年 6 月 18 日.
-- [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  - 描绘推出新型支付解决方案的挑战.  2019 年 6 月 14 日.
-- [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  - 通过 Wardley 地图了解加密生态系统.  2019 年 6 月 2 日.
-- [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/)  - 了解测试策略是如何基于底层环境的.  2019 年 4 月 19 日
-- [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  - 绿色网络基金会.  2019 年 3 月 20 日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  - 涵盖使用 Wardley Maps 预测未来的 IT 战略发展，了解哪些方法最适合开发和交付信息管理系统. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建 IT 战略手册.  2019 年 3 月 13 日.
-- [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  - 两个用例：让国家统计局访问新的（敏感）大数据来源； 并支持跨多个 NSO 的大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019 年 3 月 12 日.
-- [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  - 沃德利映射示例的精选图集.  2019 年 3 月 6 日 - 至今.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  - 将 Samo Burja 的帝国理论与类似于 Simon Wardley 首创的映射形式相结合.  2019 年 1 月 2 日.
-- [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  - 思考用户需求和用户研究的三种方式，以及 Wardley 地图如何帮助我们思考在哪里进行用户研究.  2018 年 11 月 2 日.
-- [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - 2018 年 10 月 31 日.
-- [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  - 如何通过关注教条和支出控制来阻止组织主动伤害自己.  2018 年 10 月 30 日.
-- [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3)  - 在可再生能源背景下探索和设计平台.  2019 年 10 月 28 日.
-- [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa)  - 为什么平台的 Wardley（价值链）图是 Z 形的？  2018 年 10 月 11 日.
-- [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html)  - 我们如何才能最好地利用技术来支持医疗保健？  2018 年 7 月 19 日.
-- [Value Chains](https://design4services.com/concepts/value-chains/)  - Porter 价值链分析、Wardley 价值链分析和 Tim Manning 的价值映射.  2018 年 7 月 17 日.
-- [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315)  - 上下文特定的成熟度模型与 Cynefin 通知的 Wardley 图.  2018 年 5 月 11 日.
-- [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f)  - 使用 Wardley 地图构建路线图.  2018 年 1 月 9 日.
-- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a)  - 西蒙·沃德利.  2017 年 9 月 11 日.
-- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b)  - Simon Wardley 的学说和学说阶段.  2017 年 5 月 25 日.
-- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693)  - 西蒙·沃德利.  2017 年 5 月 12 日.
-- [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629)  ——詹姆斯·厄克特.  2017 年 3 月 24 日.
-- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270)  ——詹姆斯·厄克特.  2017 年 2 月 4 日. 
-- [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974)  - 先驱者、定居者和城市规划者（Wardley PST）.  2017 年 1 月 31 日.
-- [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9)  - 我未来的职业是 Harmony Designer.  2017 年 1 月 17 日.
-- [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6)  - 你如何从 James Urquhart 的组件和价值关系的混乱中提取价值.  2017 年 1 月 12 日.
-- [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb)  - 从 James Urquhart 的“实时业务自动化”价值链构建 Wardley 地图.  2016 年 12 月 30 日.
-- [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8)  - 使用 James Urquhart 的数据流基本架构探索价值链.  2016 年 12 月 22 日.
-- [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) - 2016 年 12 月 3 日.
-- [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) - 2016 年 12 月 1 日.
-- [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - 2016 年 11 月 30 日.
-- [The map is not the territory](https://swardley.medium.com/the-map-is-not-the-territory-257a3c258a83) - 2016 年 11 月 24 日.
-- [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0)  - 建筑实践的演变和共同演变以及基于价值的开发.  2016 年 11 月 23 日.
-- [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html)  - Simon Wardley 专注于映射中最重要的部分之一 - 锚点.  2016 年 4 月 11 日.
-- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - 2015 年 10 月 17 日.
-- [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  - 第 2 部分 Mark Thompson 概述了使政府成为更具凝聚力的综合组织的数字愿景.  2015 年 10 月 9 日.
-- [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  - 第 1 部分 Mark Thompson 概述了使政府成为更具凝聚力的综合组织的数字愿景.  2015 年 10 月 9 日.
-- [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  - 对于新任命的高管，帮助您进入一个可以开始学习和谈论战略的位置.  2015 年 8 月 21 日.
-- [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html)  - Simon Wardley 讨论了他在绘图中使用的其他一些工具.  2015 年 3 月 6 日.
-- [Guest post: mapping the way to a strategy](https://governmenttechnology.blog.gov.uk/2014/04/16/guest-post-mapping-the-way-to-a-strategy/)  - GOV.UK 政府数字服务.  2014 年 4 月 16 日.
-- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  - tl; 买者自负博士.  2014 年 2 月 4 日.
+- [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/) - Analyse eines ERP-Systems mit Wardley Maps und strategischem Domain-driven Design. Jun 2, 2020.
+- [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8) - Gameplay, fractal patterns, feedback loops, doctrine. May 9, 2020.
+- [Mapping the blog](https://www.onyszko.com/mapping-the-blog/) - Applying Wardley maps to personal blog user needs. Apr 20, 2020.
+- [Research Skills Framework](https://www.researchskills.net/) - The RSF [Map](https://www.researchskills.net/framework/map) and Mapping Kit build upon Simon Wardley's maps. Retrieved Mar 30, 2020.
+- [Me versus We](https://swardley.medium.com/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
+- [On the diversity of values](https://swardley.medium.com/on-the-diversity-of-values-af1f91217be5) - On the inclusive and exclusive nature of values. Feb 24, 2020.
+- [From HS2 to China and … back again](https://swardley.medium.com/from-hs2-to-china-and-back-again-6bce5764ea14) - On the changing world of geopolitics. Feb 23, 2020.
+- [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) - Looking across teams and strata in an organisation and the practices used to meet organisational needs like alignment, reporting, etc. Feb 9, 2020.
+- [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/) - Wardley mapping shows blockchain is following the same maturity evolution as other mainstream technologies. 28 Jan, 2020.
+- [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - Jan 23, 2020.
+- [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html) - Using Wardley maps to look at the evolution of the jet engine. Jan 5, 2020.
+- [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x) - Because that expert you hired has no magical bullets. Nov 4, 2019.
+- [Embedded in memory](https://swardley.medium.com/embedded-in-memory-b05b0e7c183f) - Cultural cycles. Oct 2, 2019.
+- [Exploring value](https://swardley.medium.com/exploring-value-e1ff89cfe019) - Values, resilience, principles, enablement systems. Oct 1, 2019.
+- [From values to rituals](https://swardley.medium.com/from-values-to-rituals-b6f6ae7787bd) - Sep 9, 2019.
+- [Exploring Brexit](https://swardley.medium.com/exploring-brexit-2ea2f3f283c8) - The first rule of Brexit is “you’re wrong”. Sep 5, 2019.
+- [Exploring Culture](https://swardley.medium.com/mapping-culture-ac164c0e17f0) - Mapping Culture. Sep 4, 2019.
+- [Building a working map of Ethereum 1.0](https://chainstrat.substack.com/p/building-a-working-map-of-ethereum) - 10,000 feet view of Ethereum's user needs and capabilities. Aug 13, 2019.
+- [What culture is right for you?](https://swardley.medium.com/what-culture-is-right-for-you-ba892f1f3bc5) - Jul 31, 2019.
+- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/) - Mapping "Who Says Elephants Can't Dance" by Louis Gerstner. Jun 18, 2019.
+- [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/) - Mapping the challenges of launching novel payment solutions. Jun 14, 2019.
+- [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/) - Understanding the crypto ecosystem through Wardley maps. Jun 2, 2019.
+- [Broaden the scope of the SUT](https://jlottosen.wordpress.com/2019/04/20/broaden-the-scope-of-sut/) - Understanding how test strategies are based on the underlying landscape. Apr 19, 2019
+- [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/) - The Green Web Foundation. Mar 20, 2019.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy) - Covers the development of your IT strategy using Wardley Maps to predict the future, understand which methodologies are best suited to developing and delivery information management systems. Download the [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) used to create the Handbook on IT Strategy. Mar 13, 2019.
+- [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook) - Two use cases: giving NSOs access to new sources of (sensitive) Big Data; and enabling Big Data Collaborations Across Multiple NSO. Download [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc). Mar 12, 2019.
+- [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad) - A curated atlas of Wardley mapping examples. Mar 6, 2019 - Present.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
+- [Research heresies](https://www.myddelton.co.uk/blog/research-heresies) - Three ways to think about user needs and user research and how Wardley maps can help us think about where to do user research. Nov 2, 2018.
+- [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) - Oct 31, 2018.
+- [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa) - How to stop the organisation from actively harming itself by focusing on doctrine and spend control. Oct 30, 2018.
+- [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3) - Exploring and designing a platform in the renewable energy context. Oct 28, 2019.
+- [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
+- [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html) - How can we make best use of technology to support healthcare? Jul 19, 2018.
+- [Value Chains](https://design4services.com/concepts/value-chains/) - Porter Value Chain Analysis, Wardley Value Chain Analysis and Value Mapping by Tim Manning. Jul 17, 2018.
+- [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin. May 11, 2018.
+- [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f) - Using a Wardley map to build a roadmap. Jan 9, 2018.
+- [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - By Simon Wardley. Sep 11, 2017.
+- [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases by Simon Wardley. May 25, 2017.
+- [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - By Simon Wardley. May 12, 2017.
+- [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629) - By James Urquhart. Mar 24, 2017.
+- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270) - By James Urquhart. Feb 4, 2017. 
+- [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974) - Pioneer, Settler and Town Planner (Wardley PST). Jan 31, 2017.
+- [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
+- [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6) - How do you extract value from the jumble of components and value relationships by James Urquhart. Jan 12, 2017.
+- [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb) - Building a Wardley Map from a value chain for "real time business automation" by James Urquhart. Dec 30, 2016.
+- [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8) - Exploring a value chain using a basic architecture of data flow by James Urquhart. Dec 22, 2016.
+- [Thank you Amazon. Boom! Everything in business will change](https://medium.com/hackernoon/building-a-business-from-a-great-idea-some-future-monday-42ba794fdae5) - Dec 3, 2016.
+- [Something that will change the world of competition](https://swardley.medium.com/something-that-will-change-the-world-of-competition-94af044a5a37) - Dec 1, 2016.
+- [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) - Nov 30, 2016.
+- [The map is not the territory](https://swardley.medium.com/the-map-is-not-the-territory-257a3c258a83) - Nov 24, 2016.
+- [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0) - Evolution and co-evolution of architectural practice and worth based development. Nov 23, 2016.
+- [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html) - Simon Wardley focuses on one of the most important parts of mapping - the anchor. April 11, 2016.
+- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) - Oct 17, 2015.
+- [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government) - Part 2 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
+- [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight) - Part 1 Mark Thompson outlines a digital vision to make government a more cohesive, integrated organisation. Oct 9, 2015.
+- [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html) - For the newly-appointed executive, to help get you into a position from which you can start to learn and talk about strategy. Aug 21, 2015.
+- [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
+- [Guest post: mapping the way to a strategy](https://governmenttechnology.blog.gov.uk/2014/04/16/guest-post-mapping-the-way-to-a-strategy/) - GOV.UK Government Digital Service. 16 Apr, 2014.
+- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html) - tl;dr Caveat Emptor. Feb 4, 2014.
 
 ## Research Papers
 
-- [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/)  - Pujadas, R.； 汤普森，男； 文特斯，W. 等.  2019 年 3 月.
-- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper)  - 前沿论坛发表的一系列立场文件.  2018年6月13日-2019年1月28日.
+- [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/) - Pujadas, R; Thompson, M; Venters, W; et al. March 2019.
+- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
 ## Apps
 
 ### Mapping
 
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  - 在线开源制图工具. 更新请关注 [@MapsAsCode](https://twitter.com/MapsAsCode) 在推特上. 提供托管版本 [here](https://onlinewardleymaps.com/) . 在线文档 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
-- [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps)  - 在 Visual Studio Code 中渲染和编辑 Wardley 地图. 这个 VSCode 扩展利用了来自 OnlineWardleyMaps.com 的引擎. 在线文档 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
-- [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) - 用于在 Jupyter 笔记本中生成 Wardley 地图的插件.
-- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript)  - 注意 MapScript 是建立在 Observable 之上的. 阅读他们 [Terms of Service](https://observablehq.com/terms-of-service) . 地图脚本 [feature requests](https://mapscript.canny.io/feature-requests) . 提供托管版本 [here](https://mapscript.org).
-- [Go-Wardley](https://github.com/DavidGamba/go-wardley) - 从基于 HCL 的地图描述文件生成 SVG 格式的 Wardley 地图.
-- [Mapkeep](https://mapkeep.com/)  - Mapkeep 是保存您的 Wardley 地图的地方. 与他人创建、共享和讨论地图. 使用无限的公共存储库免费托管您的地图. 如需更新，您可以关注 [@mapkeep](https://twitter.com/mapkeep) 在推特上，订阅 [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), 或订阅 [News and Updates blog](https://mapkeep.substack.com/).
-- [Glamorous Toolkit](https://gtoolkit.com)  - 一个可塑造和可编程的环境，Wardley 地图可以在其中与知识管理和多语言笔记本交织在一起. 跟随 [@feenkcom](https://twitter.com/feenkcom) 了解更多.
-- [Excalidraw](https://excalidraw.com)  - 在线图表工具可快速轻松地创建手绘图表和地图. 键盘快捷键“0”，浏览库并添加“Wardley Maps Symbols”库.
-- [Flowchart fun](https://flowchart.fun)  - 基于文本的工具来生成快速流程图. 快速创建价值链的绝佳方式 - 在对话或会议期间非常有用.
-- [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) 是一个 SDK，用于执行地图即代码**和** 一种高级语言 (`wtg`) 来表达地图即数据. 这套工具允许在 CI 中轻松集成地图，在线演示允许在线设计地图.
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+- [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+- [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
+- [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
+- [Mapkeep](https://mapkeep.com/) - Mapkeep is a place to keep 😉 your Wardley Maps. Create, share, and discuss maps with others. Host your maps for free with unlimited public repositories. For updates, you can follow [@mapkeep](https://twitter.com/mapkeep) on Twitter, subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), or subscribe to the [News and Updates blog](https://mapkeep.substack.com/).
+- [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
+- [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
+- [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
+- [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
 
 ### Doctrine Assessement
 
-- [Doctrine](https://github.com/cdaniel/doctrine/)  - 一个简单的工具，用于根据 Wardley 的原则可视化公司的竞争力. 提供托管版本 [here](https://doctrine.wardleymaps.com/).
+- [Doctrine](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ### Commercial Enterprise Platforms
 
-- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - 一个可视化转换平台，提供态势感知，以理解您相互关联的需求、想法、服务组件、供应合同和变更活动的网络.
+- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - A visual transformation platform that provides the situational awareness to make sense of your interconnected web of needs, ideas, service components, supply contracts and change activities.
 
 ## Tools & Scripts
 
-- [Convert WM format to JSON](https://wm2json.streamlit.app/) - 一个简单的 streamlit 应用程序，用于将 onlinewardleymaps wm 格式转换为 JSON.
-- [Chat with your Map](https://chatwithwardleymap.streamlit.app/)  - 一个 OpenAI/Streamlit/Python 应用程序，用于与您的 Wardley 地图聊天. 它从在线 wardleymaps 中提取您的 Wardley 地图，您可以与您的地图进行 AI 聊天.
-- [Q&A with Simon Wardley Videos](https://simongpt.streamlit.app/)  - 一个 OpenAI/Streamlit/Python 应用程序，用于从 Simon 在 YouTube 上的任何视频中询问有关 Wardley Mapping 的任何问题. 它从 YouTube 中提取文本，您可以与视频进行 AI 聊天.
-- [Q&A with Wardley Community Videos](https://wardleygpt.streamlit.app/)  - 一个 OpenAI/Streamlit/Python 应用程序，用于从 YouTube 上的任何社区视频中询问有关 Wardley Mapping 的任何问题. 它从 YouTube 中提取文本，您可以与视频进行 AI 聊天.
-- [Chat with WardleyGPT](https://wardleychatbot.streamlit.app/) - 与 WardleyGPT 聊天的 OpenAI/Streamlit/Python 应用程序.
-- [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - 通过两个简单的步骤创建您自己的 Wardley 映射代码编辑器.
+### AI
+
+- [Chat with your Map](https://chatwithwardleymap.streamlit.app/) - Chat to your Wardley Map. It pulls your Wardley Map from OnlineWardleyMaps or GitHub and you can have an AI chat with your map. It creates structured output that can be downloaded and used within documents. It highlights key responses that you can follow up.
+- [Q&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
+- [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
+- [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
+
+### Development
+- [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
+- [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
 
 ## Templates
 
-- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - 对映射工具问题空间的半认真反思，以及各种映射工具和技术的概述.
+- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
 - 
 ### Mapping
 
-- [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - 使用动画和一系列开源 Wardley 地图图标的操作指南.
-- [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Microsoft Visio 和 PowerPoint 的模板.
-- [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - 使用此模板进行映射的操作指南.
-- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - Figma 的映射模板.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - 用于 OmniGraffle 的 Wardley 映射模板.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - 图 8 和图 11 来自 Simon Wardley 的书，用于演示在 LaTeX 中绘制 Wardley 地图.
-- [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley 为 yEd 绘制调色板.
-- [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - 谷歌幻灯片模板.
+- [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
+- [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
+- [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
+- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
+- [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+- [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 
 ### Doctrine Assessement
 
-- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - 基于谷歌表格和谷歌表格.
+- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) - Based on Google Forms and Google Sheets.
 
 ## Events
 
-- [Map Camp 2021](https://www.mapcamp.co.uk/) - 2021 年 10 月 13 日的虚拟活动.
-- [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - 2020 年 10 月 13 日免费的全天在线活动.
-- [Map Camp](https://www.map-camp.com/) - 关注地图营地 [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
+- [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
+- [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
+- [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
 ## Workshops
 
-- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - 工作坊规则、卡片和材料.
-- [Workshop Building Block - New Year's Eve Party](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - 帮助研讨会参与者获得在业务中立环境中进行映射的信心.
+- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+- [Workshop Building Block - New Year's Eve Party](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
 ## Meetups
 
-- 澳大利亚
+- Australia
   - [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
-- 欧洲
-  - 比利时
+- Europe
+  - Belgium
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
-  - 捷克共和国
+  - Czech Republic
     - [Prague](https://www.meetup.com/Prague-Mapping-Meetup)
-  - 法国
+  - France
     - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
-  - 德国
+  - Germany
     - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
     - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
     - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
-  - 荷兰
+  - Netherlands
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
-  - 挪威
+  - Norway
     - [Oslo](https://www.meetup.com/oslo-wardley-mapping)    
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
-  - 西班牙
-    - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/) - 组织变革 - 沃德利地图
-    - [Barcelona](https://www.meetup.com/en-AU/wardley-maps-strategy-meetup-group-by-aktia-solutions/) - 沃德利地图策略
-  - 瑞士
+  - Spain
+    - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/) - Organizational Change - Wardley Maps
+    - [Barcelona](https://www.meetup.com/en-AU/wardley-maps-strategy-meetup-group-by-aktia-solutions/) - Wardley Maps Strategy
+  - Switzerland
     - [Basel](https://www.meetup.com/de-DE/Wardley-Mapping-Group-Switzerland/)
-  - 英国
+  - UK
     - [London](https://www.meetup.com/Wardley-Maps-London/)
-- 北美
-  - 美国
-    - 加州
+- North America
+  - USA
+    - California
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，Wardley Maps Community 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, the Wardley Maps Community has waived all copyright and related or neighboring rights to this work.
