@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="lvwzhen/tools"></div>
 ## Web Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;用于 Web 开发的托管工具的绝佳列表.
+>An awesome list of hosted tools for web development.
 
 ## Sponsors
 
@@ -23,7 +23,7 @@
 
 ### Placeholder
 
-* [placehold.it](http://placehold.it/)
+* [placehold.it](https://place-hold.it/)
 * [temp.im](http://temp.im/)
 * [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
@@ -194,3 +194,4 @@
 
 ### Tools collection
 * [SmallDev.tools](https://smalldev.tools/)
+* [Hreflang checker](https://localizely.com/hreflang-checker/)

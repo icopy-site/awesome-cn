@@ -108,7 +108,6 @@
 - 🧬 [Localized](https://github.com/hdodov/tailwindcss-localized) - Adds variants based on the HTML `lang` attribute, to use utilities only with certain languages.
 - 🧬 [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) - Adds variants for matching nested border radii.
 - 🧬 [Fluid](https://github.com/soberwp/tailwindcss-fl) - Generates `fl:` variants.
-- 🧬 [Marker](https://github.com/RadishIO/tailwindcss-marker) - Provides utilities for styling lists and `<summary>` markers.
 - 🧬 [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) - Adds variants for the pseudo-classes and pseudo-elements that Tailwind CSS doesn't have by default.
 - 🧬 [Container Queries](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 - 🧬 [FormKit](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
@@ -125,8 +124,6 @@
 
 > 🛑 - _The plugins below offer functionalities that are now fully or partially implemented in Tailwind CSS._
 
-- 🛑💼 [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) - Adds `caret` color utilities.
-- 🛑💼 [Caret Color](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
 - 🛑💼 [benface's gradients](https://github.com/benface/tailwindcss-gradients) - Adds gradient utilities.
 - 🛑💼 [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 - 🛑💼 [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) - Adds screen reader utilities.
@@ -188,7 +185,6 @@
 - 🎨🔧💼 [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) - A Babel plugin to add custom dark class when compiling your code using Babel.
 - 🌍🔧💼 [Twind](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 - 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) - OpenAI GPT-3 powered Tailwind CSS code generator.
-- 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) - Template generator with Tailwind (online).
 - 🌍🔧 [tail-animista](https://tail-animista.vercel.app) - Configurable custom animation utilities generator for Tailwind CSS.
 - 🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
 - 🌍🔧 [Windframe](https://www.devwares.com/windframe/) - Tailwind CSS drag and drop builder to rapidly build and prototype websites.
@@ -205,7 +201,6 @@
 - 🔼 [RustyWind](https://github.com/avencera/rustywind) - CLI tool for sorting Tailwind CSS classes.
 - 🔼 [Windy](https://usewindy.com) - Browser extension to convert HTML elements to Tailwind CSS.
 - 🅰 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React Native typing system.
-- 🅰 [typed-tailwind](https://github.com/dvkndn/typed-tailwind) - TypeScript typings for Tailwind CSS.
 - 💼 [Gatsby Plugin](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) - Tailwind CSS integration for Gatsby.
 - 💼 [Gridsome Plugin](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) - Tailwind CSS integration for Gridsome.
 - 💼 [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) - Fast Tailwind CSS documentation search application.
@@ -420,6 +415,7 @@
 - 🎬 [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) - Dribbble shot with Tailwind CSS.
 - 💙🎬 [Tailwind CSS: From Zero to Production](https://www.youtube.com/playlist?list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0) - Complete walkthrough of Tailwind CSS, from installation to optimization for deployment.
 - 🎬 [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
+- 🎬 [10 Tailwind CSS Tips and Tricks](https://www.youtube.com/watch?v=aSlK3GhRuXA) - 10 Tailwind CSS tricks you should know.
 - 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) - Creating a modal dialog with Tailwind CSS.
 - 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) - Building UIs of Shopify, Spotify, Netlify and Atlassian.
 - 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) - Rebuilding FreshBooks with Tailwind CSS.

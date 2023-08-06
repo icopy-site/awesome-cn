@@ -1914,15 +1914,15 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu/) - ***NSF***.
 
-* [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***.
+* [Josh Tenenbaum](https://cocosci.mit.edu/josh) - ***Department of Brain and Cognitive Sciences, CSAIL, MIT***, [Computational Cognitive Science Group (CoCoSci Group)](https://cocosci.mit.edu/) - ***MIT***.
 
-* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Rebecca Saxe](https://saxelab.mit.edu/people/rebecca-saxe) - ***Department of Brain and Cognitive Sciences, MIT***, [Social Cognitive Neuroscience Laboratory (SaxeLab)](https://saxelab.mit.edu/) - ***MIT***.
 
-* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***Department of Brain and Cognitive Sciences, MIT***.
+* [Laura Schulz](https://cbmm.mit.edu/about/people/schulz) - ***Department of Brain and Cognitive Sciences, MIT***, [Early Childhood Cognition Lab](https://eccl.mit.edu/) - ***MIT***.
 
-* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+* [Leslie Kaelbling](https://people.csail.mit.edu/lpk/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [The Learning & Intelligent Systems Group](https://lis.csail.mit.edu/) - ***MIT***.
 
-* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***.
+* [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) - ***Department of Electrical Engineering and Computer Science, CSAIL, MIT***, [Computer-Aided Programming Group](http://groups.csail.mit.edu/cap/) - ***MIT***.
 
 
 
