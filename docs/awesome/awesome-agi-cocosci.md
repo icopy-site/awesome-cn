@@ -713,7 +713,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [When to Trust Your Model: Model-Based Policy Optimization](https://proceedings.neurips.cc/paper_files/paper/2019/hash/5faf461eff3099671ad63c6f3f094f7f-Abstract.html) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4248859125840907707&hl=en&as_sdt=0,5)]. [[Post](https://bair.berkeley.edu/blog/2019/12/12/mbpo/)].
 
-* [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)].
+* [SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning](http://proceedings.mlr.press/v139/lee21g.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=8840831494454574191&hl=en&as_sdt=0,5)]. [[Code](https://github.com/pokaxpoka/sunrise)].
 
 * [The Quest for a Common Model of the Intelligent Decision Maker](https://arxiv.org/abs/2202.13252) - ***Multi-disciplinary Conference on Reinforcement Learning and Decision Making'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=7652784232757502910&hl=en&as_sdt=0,5)]. Richard Sutton's perspective on the future directions of reinforcement learning research.
 
