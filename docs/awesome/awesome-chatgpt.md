@@ -10,7 +10,7 @@
 		<br>
 	</div>
 	<p>
-		<a href="https://chat.openai.com">ChatGPT</a>是<a href="https://openai.com">OpenAI</a>开发的人工智能 (AI) 聊天机器人
+		<a href="https://chat.openai.com">ChatGPT</a> is an artificial intelligence (AI) chatbot developed by <a href="https://openai.com">OpenAI</a>
 	</p>
 	<br>
 	<a href="https://awesome.re">
@@ -32,191 +32,192 @@
 
 ## Apps
 
-- [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) - 从菜单栏、Dock 或使用 macOS 上的键盘快捷键访问 ChatGPT Web UI.
-- [MacGPT](https://www.macgpt.com) - 具有全局提示和 Web UI 包装器的本机 macOS 应用程序.
-- [Chatterbox](https://manuelkehl.gumroad.com/l/chatterbox) - 可以使用键盘快捷键显示的本机 macOS 应用程序.
-- [WriteMage](https://writemage.com)  - 本机 macOS 应用程序可在任何应用程序中使用 ChatGPT.  ($)
-- [PaletteBrain](https://palettebrain.com)  - 本机 macOS 应用程序可在任何应用程序中使用 ChatGPT.  ($)
-- [Machato](https://untimelyunicorn.gumroad.com/l/machato)  - 本机 macOS 应用程序.  ($)
-- [wonderGPT](https://wondergpt.co) - 注重简单性的原生 macOS 应用程序.
-- [Petey](https://apps.apple.com/app/id6446047813)  - 本机 iOS 和 watchOS 应用程序.  ($)
-- [IntelliBar](https://intellibar.app)  - 可以使用键盘快捷键显示的 macOS 应用程序.  ($·电子)
-- [Ask AI](https://sindresorhus.com/ask-ai)  - 原生 watchOS 应用程序.  ($)
-- [Chat Answer](https://github.com/bapaws/answer) - 本机 iOS 和 Android 应用程序.
-- [Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) - 跨平台 Web UI 包装器.
-- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT)  - 跨平台 Web UI 包装器.  （电子）
-- [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - 本机Android应用程序.
-- [ChatARKit](https://github.com/trzy/ChatARKit) - 用于使用自然语言创建 AR 体验的 iOS 应用程序.
-- [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - 本机跨平台应用程序.
-- [Chatbox](https://github.com/Bin-Huang/chatbox) - 跨平台应用程序.
-- [Short Circuit](https://apps.apple.com/app/id1638522784)  - 本机 iOS 和 macOS 应用程序，支持 Siri、快捷方式等.  ($)
-- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)  - 本机 Android 应用程序，支持 Azure 语音、自定义提示等.  ($)
-- [Developer Duck](https://apps.apple.com/app/id1662283032)  - 以本机开发人员为中心的 macOS 应用程序，带有 Xcode 插件和命令行支持.  ($)
-- [Hello History](https://hellohistory.ai)  - 在 iOS 和 Android 上与历史人物聊天.  ($)
-- [Actions](https://github.com/sindresorhus/Actions) - 从 iOS 和 macOS 上的“快捷方式”应用程序中使用 ChatGPT.
-- [EasyChat AI](https://easychat-ai.app) - 使用最新 Windows 11 设计语言的本机 Windows 应用程序.
-- [pgMagic](https://pgmagic.app)  - macOS 应用程序可让您使用自然语言查询 PostgreSQL 数据库.  ($)
-- [Atua](https://atua.app)  - macOS 应用程序可在任何应用程序中使用 ChatGPT.  ($)
+- [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) - Access the ChatGPT web UI from the menu bar, Dock, or using a keyboard shortcut on macOS.
+- [MacGPT](https://www.macgpt.com) - Native macOS app with a global prompt and also a web UI wrapper.
+- [Chatterbox](https://manuelkehl.gumroad.com/l/chatterbox) - Native macOS app that can be shown with a keyboard shortcut.
+- [WriteMage](https://writemage.com) - Native macOS app to use ChatGPT in any app. ($)
+- [PaletteBrain](https://palettebrain.com) - Native macOS app to use ChatGPT in any app. ($)
+- [Machato](https://untimelyunicorn.gumroad.com/l/machato) - Native macOS app. ($)
+- [wonderGPT](https://wondergpt.co) - Native macOS app with a focus on simplicity.
+- [Petey](https://apps.apple.com/app/id6446047813) - Native iOS and watchOS app. ($)
+- [IntelliBar](https://intellibar.app) - macOS app that can be shown with a keyboard shortcut. ($ · Electron)
+- [Ask AI](https://sindresorhus.com/ask-ai) - Native watchOS app. ($)
+- [Chat Answer](https://github.com/bapaws/answer) - Native iOS and Android app.
+- [Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) - Cross-platform web UI wrapper.
+- [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) - Cross-platform web UI wrapper. (Electron)
+- [ChatGPT Android](https://github.com/skydoves/chatgpt-android) - Native Android app.
+- [ChatARKit](https://github.com/trzy/ChatARKit) - iOS app for creating AR experiences with natural language.
+- [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) - Native cross-platform app.
+- [Chatbox](https://github.com/Bin-Huang/chatbox) - Cross-platform app.
+- [Short Circuit](https://apps.apple.com/app/id1638522784) - Native iOS and macOS app with support for Siri, Shortcuts, and more. ($)
+- [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost) - Native Android app with support for Azure voice, custom prompts, and more. ($)
+- [Developer Duck](https://apps.apple.com/app/id1662283032) - Native developer-focused macOS app with Xcode plugin and command line support. ($)
+- [Hello History](https://hellohistory.ai) - Chat with historical figures on iOS and Android. ($)
+- [Actions](https://github.com/sindresorhus/Actions) - Use ChatGPT from the Shortcuts app on iOS and macOS.
+- [EasyChat AI](https://easychat-ai.app) - Native Windows app using the latest Windows 11 design lanquage.
+- [pgMagic](https://pgmagic.app) - macOS app that lets you query your PostgreSQL database using natural language. ($)
+- [Atua](https://atua.app) - macOS app to use ChatGPT in any app. ($)
 
 ## Web apps
 
 ### Hosted and self-hosted
 
-- [ShareGPT](https://github.com/domeccleston/sharegpt) - 共享 ChatGPT 对话的永久链接.
-- [Anse](https://github.com/anse-app/anse) - 替代 ChatGPT 网络用户界面.
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 替代 ChatGPT 网络用户界面.
-- [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 替代 ChatGPT 网络用户界面.
-- [roomGPT](https://github.com/Nutlope/roomGPT) - 生成你梦想的房间.
-- [DocsGPT](https://github.com/arc53/DocsGPT) - 文档助理.
-- [promptsandbox](https://github.com/eg9y/promptsandbox.io) - 用于试验 ChatGPT 的可视化编程工具.
-- [Adrenaline](https://github.com/shobrook/adrenaline/) - 与您的代码库交谈.
-- [DeepWrite AI](https://github.com/simplysabir/AI-Writing-Assistant) - 博客文章生成器.
-- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) - 带语音的开源 ChatGPT Web 应用程序.
-- [FastChat](https://github.com/lm-sys/FastChat) - 用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台.
-- [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 在您的 Kindle 亮点上搜索和聊天.
-- [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) - 从示例代码生成 ESLint 规则.
-- [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - 本地化您的网站.
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - 浏览器中的自主人工智能代理.
-- [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - 使用 OP 堆栈（OpenAI + Pinecone 矢量数据库）赋予 ChatGPT 长期记忆.
-- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPT 的最小 Web UI.
-- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - 与 PDF 文件内容进行互动对话.
-- [Chat Chat](https://github.com/okisdev/ChatChat) - 你自己的统一人工智能界面.
-- [VLog](https://github.com/showlab/VLog) - 将视频转换为文档.
-- [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT 具有视频理解和交流功能.
-- [TaskMatrix](https://github.com/microsoft/TaskMatrix) - 将 ChatGPT 与视觉模型相结合，以增强图像聊天交互.
-- [OpenChat](https://github.com/openchatai/OpenChat) - 个性化 ChatGPT 聊天机器人.
-- [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - 与 ChatGPT 集成的代码解释器.
-- [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 个性化 ChatGPT AI 聊天机器人.
+- [ShareGPT](https://github.com/domeccleston/sharegpt) - Share permanent links to ChatGPT conversations.
+- [Anse](https://github.com/anse-app/anse) - Alternative ChatGPT web UI.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Alternative ChatGPT web UI.
+- [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - Alternative ChatGPT web UI.
+- [roomGPT](https://github.com/Nutlope/roomGPT) - Generate your dream room.
+- [DocsGPT](https://github.com/arc53/DocsGPT) - Documentation assistant.
+- [promptsandbox](https://github.com/eg9y/promptsandbox.io) - Visual programming tool for experimenting with ChatGPT.
+- [Adrenaline](https://github.com/shobrook/adrenaline/) - Talk to your codebase.
+- [DeepWrite AI](https://github.com/simplysabir/AI-Writing-Assistant) - Blog post generator.
+- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) - Open-source ChatGPT web app with a voice.
+- [FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language model based chatbots.
+- [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - Search and chat on your Kindle highlights.
+- [eslint-gpt](https://github.com/ycjcl868/eslint-gpt) - Generate ESLint rules from example code.
+- [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) - Localize your websites.
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - Autonomous AI agents in your browser.
+- [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database).
+- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - Interactive conversations with the contents of PDF files.
+- [Chat Chat](https://github.com/okisdev/ChatChat) - Your own unified AI interface.
+- [VLog](https://github.com/showlab/VLog) - Convert videos to documents.
+- [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - ChatGPT with video understanding and communication.
+- [TaskMatrix](https://github.com/microsoft/TaskMatrix) - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
+- [OpenChat](https://github.com/openchatai/OpenChat) - Personalized ChatGPT chatbot.
+- [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - Code interpreter integrated with ChatGPT.
+- [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Personalized ChatGPT AI chatbot.
 
 ### Hosted
 
-- [TypingMind](https://www.typingmind.com) - 替代网络用户界面.
-- [ChatKit](https://chatkit.app) - 改进的 ChatGPT UI，支持插件和访问外部资源.
-- [Humata.ai](https://www.humata.ai) - 询问有关您的文件的任何信息.
-- [Epic Music Quiz](https://epicmusicquiz.com) - 创建您自己的自定义音乐视频测验.
-- [FlexGPT](https://flexgpt.io) - 与 ChatGPT 类似，但针对专业人士，具有长期记忆、互联网访问、无限制的 GPT-4，且无需订阅.
-- [LearnGPT](https://learngpt.art)  - 基于标题的书籍创作.  ($)
+- [TypingMind](https://www.typingmind.com) - Alternative web UI.
+- [ChatKit](https://chatkit.app) - Refined ChatGPT UI with support for plugins and accessing external resources.
+- [Humata.ai](https://www.humata.ai) - Ask anything about your files.
+- [Epic Music Quiz](https://epicmusicquiz.com) - Create your own custom music video quiz.
+- [FlexGPT](https://flexgpt.io) - Like ChatGPT but for pros, with long-term memory, internet access, unlimited GPT-4, and no subscription.
+- [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 
 ### Self-hosted
 
-- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - 一项让 GPT-4 完全自治的实验性开源尝试.
-- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) - 阅读并总结学术论文.
-- [Sidekick](https://github.com/ai-sidekick/sidekick) - 通过仪表板将外部数据连接到 ChatGPT API.
-- [twitterbio](https://github.com/Nutlope/twitterbio) - 生成您的 Twitter 简介.
-- [Beelzebub](https://github.com/mariocandela/beelzebub) - 安全蜜罐框架.
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) - Read and summarize academic papers.
+- [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
+- [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
+- [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
 
 ### Examples
 
-- [ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - Python Web 应用程序的集合.
+- [ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - A collection of Python web apps.
 
 ## Browser extensions
 
-- [ChatGPT for Google](https://chatgpt4google.com) - 在搜索引擎结果旁边显示 ChatGPT 响应.
-- [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - 发现、共享、导入和使用 ChatGPT 的最佳提示.
-- [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - 浏览器中的深度 ChatGPT 集成.
-- [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) - 将您的 ChatGPT 历史记录下载为 PNG、PDF 或可共享链接.
-- [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) - 通过搜索历史记录、创建文件夹、导出所有聊天、固定消息以及访问数千个提示来增强 ChatGPT Web UI.
-- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 在 Google 搜索结果、YouTube 视频等旁边显示 ChatGPT 摘要.
-- [FancyGPT](https://chrome.google.com/webstore/detail/fancygpt/meonalmakdjaojaoipfhahcfccoecegk) - 将精美的 ChatGPT 片段保存为图像、PDF 和文本文件并进行共享.
-- [WritingMate.ai](https://chrome.google.com/webstore/detail/writingmateai-1-chatgpt-a/iihamopomflffiecicbgelncanmfionp) - 写作助理.
-- [Summarize](https://github.com/clmnin/summarize.site) - 总结网站.
-- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) - 在 ChatGPT 中启用 Web 访问.
-- [ChatGPT for Chrome & YouTube Summary](https://chrome.google.com/webstore/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb) - 从 Chrome 工具栏访问 ChatGPT，查看 YouTube 视频的文字记录，并总结 YouTube 视频.
-- [ChatGPT Enhancement Extension](https://github.com/sailist/chatgpt-enhancement-extension) - ChatGPT Web UI 的增强.
-- [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) - Chrome 浏览器扩展，嵌入 ChatGPT 作为免提语音助手.
-- [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - 使用语音与 ChatGPT 交谈并听取答案.
-- [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - 将 ChatGPT 嵌入 Google Colab 中.
-- [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - 审查您的拉取请求.
-- [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - 将您的 ChatGPT 对话导出到 Markdown.
-- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - 向 ChatGPT 添加宽屏和全屏模式.
-- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - 让 ChatGPT 自动回答随机问题以增加您的知识.
+- [ChatGPT for Google](https://chatgpt4google.com) - Display ChatGPT response alongside search engine results.
+- [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Discover, share, import, and use the best prompts for ChatGPT.
+- [ChatGPT Box](https://github.com/josStorer/chatGPTBox) - Deep ChatGPT integrations in your browser.
+- [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) - Download your ChatGPT history to PNG, PDF or a sharable link.
+- [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) - Enhance the ChatGPT web UI with search history, create folders, export all chats, pin messages, and access thousands of prompts.
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Display ChatGPT summaries alongside Google search results, YouTube videos, etc.
+- [FancyGPT](https://chrome.google.com/webstore/detail/fancygpt/meonalmakdjaojaoipfhahcfccoecegk) - Save and share beautiful ChatGPT snippets as images, PDFs, and text files.
+- [WritingMate.ai](https://chrome.google.com/webstore/detail/writingmateai-1-chatgpt-a/iihamopomflffiecicbgelncanmfionp) - Writing assistant.
+- [Summarize](https://github.com/clmnin/summarize.site) - Summarize websites.
+- [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) - Enable web access in ChatGPT.
+- [ChatGPT for Chrome & YouTube Summary](https://chrome.google.com/webstore/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb) - Access ChatGPT from the Chrome toolbar, see transcripts of YouTube videos, and summarize YouTube videos.
+- [ChatGPT Enhancement Extension](https://github.com/sailist/chatgpt-enhancement-extension) - Enhancements to the ChatGPT web UI.
+- [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) - Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
+- [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk with ChatGPT using your voice and listen to answers.
+- [ChatGPT for Google Colab](https://github.com/ali-h-kudeir/ChatGPT-Google-Colab) - Embed ChatGPT inside Google Colab.
+- [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) - Reviews your pull requests.
+- [GPT2Markdown](https://github.com/0xreeko/gpt2markdown) - Export your ChatGPT conversations to Markdown.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
+- [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
 
-**用户脚本**
+**User scripts**
 
-- [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter) - 导出和共享 ChatGPT 对话历史记录.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/README_EN.md) - 修复了常见的网络错误和 ChatGPT 问题.
-- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - 向 ChatGPT 添加宽屏和全屏模式.
-- [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - 自动清除 ChatGPT 对话历史记录以增强隐私.
-- [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 保持 ChatGPT 会话最新以避免网络错误和 Cloudflare 检查.
-- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - 将 ChatGPT 的魔力带入搜索结果.
-- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - 让 ChatGPT 自动回答随机问题以增加您的知识.
-- [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - 当响应被中断时自动单击“继续生成”.
+- [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and share ChatGPT conversation history.
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/README_EN.md) - Fixes common networks errors and problems with ChatGPT.
+- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
+- [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clear ChatGPT conversation history for increased privacy.
+- [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
+- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
+- [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses are cut off.
 
 **Bookmarklets**
 
-- [Conversation Saving](https://github.com/jcubic/chat-gpt) - 保存您的 ChatGPT 对话.
-- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - 将 ChatGPT 对话导出到 Markdown 文件.
+- [Conversation Saving](https://github.com/jcubic/chat-gpt) - Save your ChatGPT conversation.
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) - Export ChatGPT conversations to Markdown files.
 
 ## CLI tools
 
-- [Assistant CLI](https://github.com/diciaup/assistant-cli) - 从命令行使用 ChatGPT.
-- [SearchGPT](https://github.com/tobiasbueschel/search-gpt) - 将 ChatGPT 连接到互联网.
-- [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - 与 ChatGPT 进行对话.
-- [CLI for ChatGPT](https://github.com/j178/chatgpt) - ChatGPT 的交互界面.
-- [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - 自动生成 PowerPoint 演示文稿.
-- [StackExplain](https://github.com/shobrook/stackexplain) - 用简单的英语解释您的错误消息.
-- [clevercli](https://github.com/clevercli/clevercli) - ChatGPT 支持的命令行实用程序.
-- [README-AI](https://github.com/eli64s/README-AI) - 自动生成自述文件.
-- [aicommits](https://github.com/Nutlope/aicommits) - 自动生成 Git 提交消息.
-- [happycommit](https://github.com/jackbackes/happycommit) - 自动生成 Git 提交消息.
-- [commit-assist](https://github.com/dejorrit/commit-assist) - 自动生成 Git 提交消息.
-- [cz-git](https://github.com/Zhengqbbb/cz-git) - 自动生成 Git 提交消息.
-- [ai-commit](https://github.com/guanguans/ai-commit) - 自动生成传统的 Git 提交消息.
-- [gptcommit](https://github.com/zurawiki/gptcommit) - 用于创作提交消息的 Git 挂钩.
-- [autodoc](https://github.com/context-labs/autodoc) - 自动生成代码库文档.
-- [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - 生成 WordPress 博客文章.
-- [aiac](https://github.com/gofireflyio/aiac) - 基础设施即代码生成器.
-- [tenere](https://github.com/pythops/tenere) - 用 Rust 编写的 ChatGPT 终端界面 (TUI).
-- [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - 从命令行使用 ChatGPT.
-- [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - 用简单的英语与终端进行交互.
-- [ShellGPT](https://github.com/TheR1D/shell_gpt) - 从命令行使用 ChatGPT.
-- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli)  - 从命令行使用 ChatGPT. 外壳脚本.
-- [aifiles](https://github.com/jjuliano/aifiles) - 使用人工智能组织和管理您的文件.
+- [Assistant CLI](https://github.com/diciaup/assistant-cli) - Use ChatGPT from the command-line.
+- [SearchGPT](https://github.com/tobiasbueschel/search-gpt) - Connect ChatGPT with the Internet.
+- [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - Have a conversation with ChatGPT.
+- [CLI for ChatGPT](https://github.com/j178/chatgpt) - Interactive interface for ChatGPT.
+- [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - Automatically generate PowerPoint presentations.
+- [StackExplain](https://github.com/shobrook/stackexplain) - Have your error messages explained in plain English.
+- [clevercli](https://github.com/clevercli/clevercli) - ChatGPT-powered command-line utilities.
+- [README-AI](https://github.com/eli64s/README-AI) - Automatically generate README files.
+- [aicommits](https://github.com/Nutlope/aicommits) - Automatically generate Git commit messages.
+- [happycommit](https://github.com/jackbackes/happycommit) - Automatically generate Git commit messages.
+- [commit-assist](https://github.com/dejorrit/commit-assist) - Automatically generate Git commit messages.
+- [cz-git](https://github.com/Zhengqbbb/cz-git) - Automatically generate Git commit messages.
+- [ai-commit](https://github.com/guanguans/ai-commit) - Automatically generate conventional Git commit messages.
+- [gptcommit](https://github.com/zurawiki/gptcommit) - Git hook for authoring commit messages.
+- [autodoc](https://github.com/context-labs/autodoc) - Automatically generate codebase documentation.
+- [GPT3 WordPress Post Generator](https://github.com/nicolaballotta/gpt3-wordpress-post-generator) - Generate WordPress blog posts.
+- [aiac](https://github.com/gofireflyio/aiac) - Infrastructure-as-Code generator.
+- [tenere](https://github.com/pythops/tenere) - Terminal interface (TUI) for ChatGPT written in Rust.
+- [shellChatGPT](https://github.com/mountaineerbr/shellChatGPT) - Use ChatGPT from the command-line.
+- [Shell Genie](https://github.com/dylanjcastillo/shell-genie) - Interact with the terminal in plain English.
+- [ShellGPT](https://github.com/TheR1D/shell_gpt) - Use ChatGPT from the command-line.
+- [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) - Use ChatGPT from the command-line. Shell script.
+- [aifiles](https://github.com/jjuliano/aifiles) - Organize and manage your files using AI.
 
 ## Bots
 
-- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - 推特机器人.
-- [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - 电报机器人.
-- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - 电报机器人.
-- [myGPTReader](https://github.com/madawei2699/myGPTReader) - 松弛机器人.
-- [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - 松弛机器人.
-- [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) - 不和谐机器人.
-- [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - 不和谐机器人.
-- [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes 机器人.
-- [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions 机器人.
-- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions 机器人.
-- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions 机器人，用于分析拉取请求并在必要时添加单元测试.
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 用于大型 PDF 文件的聊天机器人.
-- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - 微信机器人.
-- [Chat Bling](https://chatbling.net) - WhatsApp 机器人.
-- [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - 支持语音消息的 Telegram 机器人.
-- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo 机器人.
-- [BraveGPT](https://github.com/kudoai/bravegpt) - 勇敢的搜索机器人.
+- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot.
+- [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - Telegram bot.
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Telegram bot.
+- [myGPTReader](https://github.com/madawei2699/myGPTReader) - Slack bot.
+- [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - Slack bot.
+- [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) - Discord bot.
+- [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Discord bot.
+- [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes bot.
+- [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) - GitHub Actions bot.
+- [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) - GitHub Actions bot.
+- [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - Chatbot for large PDF files.
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Wechat bot.
+- [Chat Bling](https://chatbling.net) - WhatsApp bot.
+- [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
+- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
+- [BraveGPT](https://github.com/kudoai/bravegpt) - Brave Search bot.
 
 ## Integrations
 
-- [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - 光线投射扩展.
-- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode 扩展.
-- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - VSCode 扩展.
-- [org-ai](https://github.com/rksm/org-ai) - Emacs 组织模式.
-- [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) -Vim 插件.
-- [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neo 的插件.
-- [ChatGPT Jetbrains](https://github.com/dromara/ChatGPT) - Jetbrains 插件.
-- [DocGPT](https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252) - Google 文档的写作助手.
-- [docGPT](https://github.com/cesarhuret/docGPT) - 在 Google 文档中使用 ChatGPT.
-- [WordGPT](https://github.com/filippofinke/WordGPT) - 在 Microsoft Word 中使用 ChatGPT.
-- [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - 如何将 ChatGPT 与 Microsoft Word 集成.
-- [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - 使用 ChatGPT 改进 Open Assistant.
-- [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio（Delphi 和 C++ Builder）插件.
-- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT 与 Unity 编辑器集成.
-- [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT 支持的 Unity 着色器生成器.
-- [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - 一个 fastlane 插件，提供使用 ChatGPT 翻译可本地化字符串的操作.
-- [PandasAI](https://github.com/gventuri/pandas-ai) - 将 ChatGPT 功能集成到 Pandas 中.
-- [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - 在 Google 幻灯片中创建人工智能驱动的演示文稿.
-- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - 将 ChatGPT 功能集成到 scikit-learn 中.
-- [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT 与 Obsidian 笔记软件集成.
-- [Chapyter](https://github.com/chapyter/chapyter) - 将 ChatGPT 功能集成到 Jupyter Notebook 中.
-- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 在 VS Code 中自动生成提交消息和推送操作.
+- [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - Raycast extension.
+- [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode extension.
+- [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - VSCode extension.
+- [org-ai](https://github.com/rksm/org-ai) - Emacs org-mode.
+- [vim-chatgpt](https://github.com/CoderCookE/vim-chatgpt) - Vim plugin.
+- [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin.
+- [ChatGPT Jetbrains](https://github.com/dromara/ChatGPT) - Jetbrains plugin.
+- [DocGPT](https://workspace.google.com/u/0/marketplace/app/docgpt_ai_writer_for_docs/466607203252) - Writing assistant for Google Docs.
+- [docGPT](https://github.com/cesarhuret/docGPT) - Use ChatGPT in Google Docs.
+- [WordGPT](https://github.com/filippofinke/WordGPT) - Use ChatGPT in Microsoft Word.
+- [Add ChatGPT to Microsoft Word](https://github.com/analyticsinmotion/add-chatgpt-to-microsoft-word) - How to integrate ChatGPT with Microsoft Word.
+- [Open Assistant Helper](https://github.com/AnotiaWang/open-assistant-helper) - Improve Open Assistant with ChatGPT.
+- [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - Embarcadero RAD Studio (Delphi & C++ Builder) plugin.
+- [AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor.
+- [AI Shader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity.
+- [Translate GPT](https://github.com/ftp27/fastlane-plugin-translate_gpt) - A fastlane plugin that provides an action to translate localizable strings using ChatGPT.
+- [PandasAI](https://github.com/gventuri/pandas-ai) - Integrate ChatGPT capabilities into Pandas.
+- [Plus AI for Google Slides](https://www.plusdocs.com/plus-ai-for-google-slides) - Create AI-powered presentations in Google Slides.
+- [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) - Integrate ChatGPT capabilities into scikit-learn.
+- [ChatGPT-MD](https://github.com/bramses/chatgpt-md) - ChatGPT integration with Obsidian note-taking software.
+- [Chapyter](https://github.com/chapyter/chapyter) - Integrate ChatGPT capabilities into Jupyter Notebook.
+- [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
 
 ## Packages
 
@@ -226,25 +227,26 @@
 - [Node.js](https://github.com/transitive-bullshit/chatgpt-api)
 - [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 - [Delphi](https://github.com/HemulGM/DelphiOpenAI)
+- [PHP](https://github.com/openai-php/client)
 
 ### JavaScript
 
-- [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 与 ChatGPT DOM 轻松交互.
-- [Vercel AI SDK](https://github.com/vercel-labs/ai) - 用于构建人工智能驱动的用户界面的开源库.
+- [chatgpt.js](https://github.com/kudoai/chatgpt.js) - Easy interaction with the ChatGPT DOM.
+- [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces.
 
 ### Python
 
-- [GPTCache](https://github.com/zilliztech/GPTCache) - 用于存储 LLM 查询响应的语义缓存.
-- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - 从信息源中提取知识.
+- [GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache to store responses from LLM queries.
+- [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from information sources.
 
 ### Go
 
-- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - 使用 ChatGPT 诊断 Web 应用程序日志错误.
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Diagnosing web app log errors with ChatGPT.
 
 ## Articles
 
-- [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/) - 了解如何构建一个应用程序，使用户能够通过重新措辞文本来提高写作水平.
-- [Stream data from ChatGPT with JavaScript](https://umaar.com/dev-tips/269-web-streams-openai/) - 了解如何使用普通 JavaScript 从 ChatGPT 消费流数据.
+- [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/) - Learn how to build an app that enables users to improve their writing by rephrasing text.
+- [Stream data from ChatGPT with JavaScript](https://umaar.com/dev-tips/269-web-streams-openai/) - Learn how to consume streaming data from ChatGPT using vanilla JavaScript.
 
 ## Community
 
@@ -253,5 +255,5 @@
 
 ## Related lists
 
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - 及时策展.
-- [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper 是一种人工智能驱动的语音识别系统.
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Prompt curation.
+- [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - Whisper is an AI-powered speech recognition system.

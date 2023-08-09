@@ -46,7 +46,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ## GUI
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
-- [Arctype](https://arctype.com) - The SQL client and database management tool that's fun to use.
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
@@ -168,6 +167,7 @@ Building API for your Data
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 - [VulcanSQL](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+- [Graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ## Application platforms
 Low-code and no-code platforms for application building
