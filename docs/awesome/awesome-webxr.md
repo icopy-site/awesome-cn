@@ -3,208 +3,208 @@
 
 [<img src="https://raw.githubusercontent.com/msub2/awesome-webxr/master/webxr-logo.svg?sanitize=true" align="right" width="100">](https://immersiveweb.dev/)
 
-&gt; WebXR 链接和资源的精选列表.
+> A curated list of WebXR links and resources.
 
-[WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) 包含一组允许浏览器访问虚拟和增强现实设备的标准，使开发人员能够创建可轻松在线访问的沉浸式内容，而无需安装或店面管理.
+[WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API) comprises a group of standards that allow browsers to access virtual and augmented reality devices, enabling developers to create immersive content that's easily accessible online without the need for installations or storefront curation.
 
 
 
 ## Standout Projects
 
-*令人印象深刻且著名的 WebXR 项目.*
+*Impressive and notable WebXR projects.*
 
-- [Hello WebXR](https://msub2.github.io/hello-webxr/) - 为纪念 WebXR 1.0 API 的发布而制作，展示了 WebXR 的一些功能.
-  - 这链接到我自己的分叉上的体验镜像，因为它不再可以在其原始域中访问.
-- [Moonrider](https://moonrider.xyz/) - Supermedium打造的一款类似于Beat Saber的节奏游戏.
-- [Plockle](https://plockle.com/) - 超过 40 个关卡的空间方块益智游戏.
-- [Castle Builder](https://castle.needle.tools/) - 一款协作式跨平台城堡建造游戏，利用独特的 Unity-to Three.js 管道.
-- [Prehistoric Domain](https://www.prehistoricdomain.com/) - 在浏览器中体验侏罗纪公园式的体验，提供多个恐龙展览，并且未来还会有更多展览.
-- [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - 由 Paradowski Creative 设计的 WebXR 迷你高尔夫游戏，拥有 9 个洞，分布在独特且多样化的环境中.
-- [Yolopia](https://www.yolopia.com/) - 结合了流动、拳击和姿势匹配的节奏游戏.
-- [f60](https://heyvr.io/game/f60) - 以苏联监狱为背景的跨平台 WebXR 密室逃脱系列.
+- [Hello WebXR](https://msub2.github.io/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
+  - This links to a mirror of the experience on my own fork, as it is no longer accessible at its original domain.
+- [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
+- [Plockle](https://plockle.com/) - A spatial block puzzle game with over 40 levels.
+- [Castle Builder](https://castle.needle.tools/) - A collaborative and cross-platform castle-building game utilizing a unique Unity-to-three.js pipeline.
+- [Prehistoric Domain](https://www.prehistoricdomain.com/) - A Jurassic Park-esque experience in the browser, with multiple dinosaur exhibits available and more planned for the future.
+- [Above Par-adowski WebXR Mini Golf](https://aboveparadowski.com/) - A WebXR minigolf game designed by Paradowski Creative, featuring 9 holes spread across a unique and varied environment.
+- [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
+- [f60](https://heyvr.io/game/f60) - A cross-platform WebXR escape room series set within a Soviet prison.
 
 ## Art
 
-*以艺术创作为中心的项目.*
+*Projects centered around artistic creations.*
 
-- [Brushwork VR](https://brushworkvr.com/) - 一款 VR 应用程序，可使用虚拟画布、调色板、颜色混合等模拟绘画过程.
-- [SoulPaint](https://hatsumi.netlify.app/) - 一款 VR 应用程序，为您提供 3D 绘图工具和虚拟身体来展示生活体验.
-- [Obscura](https://obscura.world/) - 漂浮并探索受卡洛·斯卡帕 (Carlo Scarpa) 建筑启发的建筑.
-- [Silk Brush](https://www.silkbrush.app/) - Tilt Brush 到 WebXR 的端口以及未来扩展的计划.
-- [VARTISTE](https://vartiste.xyz/) - 用于 2D 绘图和图像编辑以及 3D 模型纹理的 VR 应用程序.
+- [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
+- [SoulPaint](https://hatsumi.netlify.app/) - A VR app that provides you with 3D drawing tools and a virtual body to illustrate lived experiences.
+- [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
+- [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
+- [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
 
 ## Audio
 
-*以音频和视听体验为中心的项目.*
+*Projects centered around audio and audiovisual experiences.*
 
-- [beats](https://beats.gatunes.com/) - 具有多个房间的半协作应用程序，任何人都可以在其中创建或修改现有的音乐循环.
-- [Fathom VR](https://www.letsfathom.com/vr/play) - 音乐发现应用程序 Fathom 的 WebXR 版本，可让您通过空间化音频搜索和探索相关艺术家的云.
-- [TRACK](https://demos.littleworkshop.fr/track) - 线性乘坐沉浸式视听体验 [Little Workshop](https://www.littleworkshop.fr/).
+- [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
+- [Fathom VR](https://www.letsfathom.com/vr/play) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
+- [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
-- [Exokit Avatars](https://github.com/exokitxr/avatars)  - 基于网络的头像系统，可以加载多种不同模型格式的人形头像，并具有手臂+腿 IK、通过视位进行面部动画等功能. 原始存储库不再维护，但有一个更新的分支可用 [here](https://github.com/msub2/avatars).
-- [ReadyPlayerMe](https://readyplayer.me/) - 让您快速轻松地在线创建 3D 头像，并可以以 glTF 格式下载.
-- [VRoid](https://vroid.com/en) - 让您创建动漫风格的 3D 头像，并导出为高度兼容的 .vrm 格式.
+- [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars).
+- [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
+- [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 
 ## Communities
 
-*WebXR 开发人员聚集、提出问题、共享项目等的地方*
+*Where WebXR developers gather, ask questions, share projects, etc.*
 
 ### Discord
 
-- [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - M3（Metaverse Makers Mastermind 小组）的官方服务器.
-- [WebXR Discord](https://discord.gg/Jt5tfaM) - WebXR 的官方 Discord 服务器，拥有超过 1000 名成员.
-- [WebXR Francophone Discord](https://discord.gg/JGsaYQJeuM) - 用于 WebXR 的法语 Discord 服务器.
-- [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland 引擎 Discord 服务器.
-- [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - XR基金会的官方服务器，负责XREngine和各种其他与元宇宙相关的项目.
-- [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Zesty Market 的官方服务器.
+- [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
+- [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
+- [WebXR Francophone Discord](https://discord.gg/JGsaYQJeuM) - French-speaking Discord server for WebXR.
+- [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
+- [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - Official server for XR Foundation, responsible for XREngine and various other metaverse-related projects.
+- [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
 ### Facebook
 
-- [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - 最古老的 WebXR 相关小组，最初是为 WebVR 制作的.
-- [WebXR](https://www.facebook.com/groups/arvrweb/) - 稍新的以 WebXR 为中心的小组.
-- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - 由 Belivvr 创建的韩国 WebXR 小组.
-- [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - WebXR Paris 小组的合作伙伴 [Meetup](https://www.meetup.com/WebXR-Paris/).
+- [Immersive Web](https://www.facebook.com/groups/immersiveweb/) - Oldest WebXR-related group, originally made for WebVR.
+- [WebXR](https://www.facebook.com/groups/arvrweb/) - Slightly newer WebXR-centric group.
+- [WebXR Korea](https://www.facebook.com/groups/webxrko/) - Korean WebXR group created by Belivvr.
+- [WebXR Paris](https://www.facebook.com/groups/548527285323630/) - Companion to the WebXR Paris group on [Meetup](https://www.meetup.com/WebXR-Paris/).
 
 ### Forums
 
-- [Babylon.js Forum](https://forum.babylonjs.com/) - Babylon.js 官方论坛.
-- [three.js Forum](https://discourse.threejs.org/) - 官方 Three.js 论坛.
-- [PlayCanvas Forum](https://forum.playcanvas.com/) - PlayCanvas 官方论坛.
-- [WebXR Community Forum](https://www.webxr.community/)  - WebXR 所有内容的官方论坛.  WebXR Discord 的姐妹社区.
+- [Babylon.js Forum](https://forum.babylonjs.com/) - Official Babylon.js forum.
+- [three.js Forum](https://discourse.threejs.org/) - Official three.js forum.
+- [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
+- [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
 ### Reddit
 
-- [r/WebVR](https://www.reddit.com/r/WebVR/) - 最初是 WebVR 讨论的主要 Reddit 子版块，现在包含一般 WebXR 内容以及 [r/WebXR](https://www.reddit.com/r/WebXR/).
+- [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
 - [r/WonderlandEngine](https://www.reddit.com/r/WonderlandEngine/) - Wonderland Engine subreddit.
 
 ## Companies and Cooperatives
 
-*以 WebXR 为中心/开展工作的公司和合作社.*
+*Companies and cooperatives centered around/doing work in WebXR.*
 
-- [Active Replica](https://www.activereplica.com/) - 通过 Mozilla Hub 提供虚拟活动托管.
-- [Active Theory](https://activetheory.net/) - 开发Dreamwave平台.
-- [Aircards](https://www.aircards.co/) - WebAR 广告/营销机构.
-- [Hatsumi](https://www.hatsumivr.com/) - 一家设计工作室，在医疗保健和艺术的交叉领域开发经验.
-- [Immers Space](https://web.immers.space/) - 分布式合作组织 (DisCO)，专注于实现开放和联合的沉浸式 Web 内容.
-- [Laguna Labs](https://lagunalabs.io/) - 沉浸式网络技术机构.
-- [Playko Software](https://www.playko.com/) - VR/AR/WebXR 机构和 WebXR 游戏开发工作室.
-- [REM5](https://www.rem5forgood.com/) - 数字沉浸式体验设计工作室，专门从事教育和社会公平倡议.
-- [Sketchfab](https://sketchfab.com/) - 提供 VR 预览器的 3D 模型市场.
-- [Vhite Rabbit](https://vhiterabbit.com/) - Construct Arcade 背后的母公司.
+- [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
+- [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
+- [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
+- [Hatsumi](https://www.hatsumivr.com/) - A design studio developing experiences at the intersection of healthcare and art.
+- [Immers Space](https://web.immers.space/) - A Distributed Cooperative Organization (DisCO) focused on enabling open and federated immersive web content.
+- [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
+- [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
+- [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
+- [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
+- [Vhite Rabbit](https://vhiterabbit.com/) - Parent company behind Construct Arcade.
 
 
 
-- [2WSZ](https://2wsz.com/) - WebXR 内容聚合器，具有评级、推荐系统以及英语和韩语支持.
-- [Extended Collection](https://extendedcollection.com/) - 一个精心策划的沉浸式网络链接库，由以下人员维护 [vrhermit](https://vrhermit.com/).
-- [heyVR](https://heyvr.io/) - 用于发布 WebXR 游戏的精选平台.
-- [XR Swim](https://xrswim.com/) - WebXR 和 Web3 内容的聚合网站.
+- [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
+- [Extended Collection](https://extendedcollection.com/) - A curated library of links to the Immersive Web maintained by [vrhermit](https://vrhermit.com/).
+- [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
+- [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 
 ## Development
 
 
 ### Engines
 
-- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - 基于 Three.js 和 bitECS 构建的全栈 MMO 引擎，支持 WebXR.
+- [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
-- [Godot](https://godotengine.org/) - 自版本 3.2.4 起支持 WebXR 的跨平台开源引擎.
+- [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
 
-- [Needle](https://needle.tools/) - Blender 和 Unity 的引擎和导出器.
+- [Needle](https://needle.tools/) - An engine and exporter for Blender and Unity.
   - [Official Documentation](https://engine.needle.tools/docs/)
 
-- [nunuStudio](https://www.nunustudio.org/) - 一个基于 Three.js 构建的多平台开源引擎，可以在本机或浏览器中使用.
+- [nunuStudio](https://www.nunustudio.org/) - A multiplatform, open-source engine built on three.js that can be used natively or in the browser.
   - [Official Documentation](https://www.nunustudio.org/docs/)
 
-- [PlayCanvas](https://playcanvas.com/) - 基于浏览器的 WebGL 引擎，支持 WebXR 内容、移动浏览器、协作编辑等.
+- [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
 
-- [Rogue Engine](https://rogueengine.io/) - 基于 Three.js 和 TypeScript 的 HTML5 游戏引擎.
+- [Rogue Engine](https://rogueengine.io/) - An HTML5 Game Engine based on Three.js and TypeScript.
   - [Official Documentation](https://rogueengine.io/docs/manual/getting-started/installation/) 
   
-- [Unity](https://unity.com/) - 一个非常流行的游戏引擎，带有社区包，可以将内容导出到 WebXR.
-  - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - 出口商 [De-Panther](https://github.com/De-Panther/)
-  - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - 出口商 [Rufus31415](https://github.com/Rufus31415)
+- [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
+  - [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+  - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 
-- [Wonderland Engine](https://wonderlandengine.com/) - 专为构建 WebXR 应用程序而设计的开发平台.
+- [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
   - [Official Documentation](https://wonderlandengine.com/documentation/)
 
 ### Frameworks and Libraries
 
-- [A-Frame](https://aframe.io/) - 允许您使用基于 Three.js 构建的声明性 HTML 和自定义 JavaScript 组件来创建 VR 体验.
+- [A-Frame](https://aframe.io/) - Lets you create VR experiences using declarative HTML and custom JavaScript components built on top of three.js.
   - [Official Documentation](https://aframe.io/docs/)
 
-- [Babylon.js](https://www.babylonjs.com/) - 一个强大且功能丰富的渲染引擎，打包到 JavaScript 框架中.
+- [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
   - [Official Documentation](https://doc.babylonjs.com/)
 
-- [JanusWeb](https://github.com/jbaicoianu/janusweb) - JanusVR 的浏览器内实现，可让您构建社交 VR 体验.
+- [JanusWeb](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 
-- [p5.xr](https://p5xr.org/) - p5.js 库的附加组件，可让您创建身临其境的 p5 草图.
+- [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)  - Three.js 的 React 渲染器. 其他特定于 WebXR 的挂钩和组件可在 [React XR](https://github.com/pmndrs/react-xr) 以及.
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) as well.
 
-- [Spaces VR](https://github.com/musehq/spacesvr) - 一个前端框架，用于快速创建基于 React-Three Fiber 的 VR 网站.
+- [Spaces VR](https://github.com/musehq/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
 
-- [three.js](https://threejs.org/) - 用于使用 WebGL 渲染 3D 内容的 JavaScript 库，为许多现有的 WebXR 体验和工具提供支持.
+- [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
-- [X3DOM](https://x3dom.org)  - 用于将 X3D 场景集成和操作为 HTML5/DOM 元素的框架. 版本 1.8.3 中将包含支持. 在那之前，从 master 分支构建 [GitHub repository](https://github.com/x3dom/x3dom).
+- [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
   - [Official Documentation](https://doc.x3dom.org/)
 
 ### Other
 
-- [Verge3D](https://www.soft8soft.com/verge3d/) - 一个工具包，允许 3D 艺术家导出场景并轻松创建身临其境的网络体验.
+- [Verge3D](https://www.soft8soft.com/verge3d/) - A toolkit that allows 3D artists to export their scenes and create immersive web experiences with ease.
   - [Official Documentation](https://www.soft8soft.com/support-documentation/)
 
 ## Learning Resources
 
 
-- [Learn A-Frame (VR)](https://www.codecademy.com/learn/learn-a-frame) - Codecademy 与 A-Frame 合作编写的大约 6 小时的课程.
-- [babylon.js Guided Learning](https://doc.babylonjs.com/guidedLearning) - 详细的文本和视频教程，补充文档中的其他指导页面.
+- [Learn A-Frame (VR)](https://www.codecademy.com/learn/learn-a-frame) - A roughly 6-hour Codecademy course written in partnership with A-Frame.
+- [babylon.js Guided Learning](https://doc.babylonjs.com/guidedLearning) - Detailed text and video tutorials that complement the other instructional pages in the documentation.
 
 ## Monetization
 
 
-- [Zesty Market](https://www.zesty.market)  - XR 中可出租横幅空间的市场. 提供与大多数主要 WebXR 创建工具的集成.
+- [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
 
 ## Social Spaces
 
-*项目专注于为用户聚集和/或协作创建社交空间.*
+*Projects focused on creating social spaces for users to gather and/or collaborate in.*
 
-- [Dreamwave](https://dreamwave.tech/)  - 用于举办可扩展虚拟活动的基于网络的平台. 为 2021 年虚拟音乐节 Secret Sky 提供支持.
-- [Emerald City](https://hubculture.city/) - 由 Hub Culture 开发的虚拟活动空间.
-- [FRAME](https://framevr.io/) - 一个专注于在虚拟空间中实现轻松 3D 协作的平台.
-- [Hubs](https://hubs.mozilla.com/) - Mozilla 的平台，使用户能够进行虚拟收集和协作.
+- [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival Secret Sky 2021.
+- [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
+- [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
+- [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
 
 ## Web3XR
 
-*WebXR 和加密/区块链技术交叉的项目.*
+*Projects at the intersection of WebXR and crypto/blockchain technologies.*
 
 ### Galleries
 
-- [3XR](https://www.3xr.space/) - 一个项目 [microchipgnu](https://github.com/microchipgnu) 已与 Mintbase 集成，为 NEAR 上的 NFT 艺术品创建虚拟画廊.
-- [glry.xyz](https://glry.xyz/) - 一个在 Tezos 区块链上托管 NFT 艺术虚拟画廊的网站.
-- [oncyber](https://oncyber.io/) - 提供免费和可收藏的画廊空间来展示跨多个不同链的 NFT.
-- [RareRooms](https://www.rarerooms.io/) - 允许您创建沉浸式 NFT 画廊，支持多个不同的链/市场.
+- [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
+- [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
+- [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
+- [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
 
 ### Realms
 
-- [Voxels](https://www.voxels.com/) - 由以太坊提供支持的虚拟世界，玩家可以在其中购买土地、建造商店、展示艺术品等.
-- [Hyperfy](https://hyperfy.io/)  - 一个托管多达 10,000 个可定制、跨平台、沉浸式虚拟世界的平台. 基于 Three.js 构建，由以太坊提供支持.
-- [Ozone Metaverse](https://ozonemetaverse.io/) - 一个空间计算云平台，提供具有 Web3 集成和货币化功能的世界创建工具.
-- [Raspberry Dream Land](https://www.rdland.io/)  - 一个专注于包容性、激进的自我表达和虚拟关系的进步活动平台. 还拥有自己的 NFT 头像集合.
-- [Somnium Space Web](https://somniumspace.com/parcel/) - 一个网络查看器，可让您浏览以下位置的地块 [Somnium Space](https://www.somniumspace.com/) 在您的浏览器中，并在 Oculus Quest 浏览器上支持 VR.
-- [vrland](https://vrland.io/) - 支持展示 NFT 的聚会和虚拟展示平台.
+- [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
+- [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
+- [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
+- [Raspberry Dream Land](https://www.rdland.io/) - A progressive events platform focused on inclusivity, radical self-expression, and virtual relationships. Also has its own NFT avatar collection.
+- [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
+- [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
 ## YouTube
 
-*YouTube 频道重点关注 WebXR.*
+*YouTube channels with a heavy focus on WebXR.*
 
-- [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - M3 官方频道.
-- [Sorskoot](https://youtube.com/sorskoot) - 教程和其他 WebXR 相关内容.
-- [WebXR](https://www.youtube.com/c/WebXR) - 官方WebXR频道.
-- [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - 包含 WebXR 峰会系列的剪辑、VOD 和其他视频.
-- [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Wonderland 引擎官方频道.
+- [M3](https://www.youtube.com/channel/UCSNCMWhEojiVjUySdI7J_wg) - Official M3 channel.
+- [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
+- [WebXR](https://www.youtube.com/c/WebXR) - Official WebXR channel.
+- [WebXR Summit Series](https://www.youtube.com/channel/UCM5HgDdpKgMejq5HX9EoGHg) - Contains clips, VODs, and other videos from the WebXR Summit Series.
+- [Wonderland Engine](https://www.youtube.com/channel/UCgaPCwqmAmre7mW0J7K8IkA) - Official Wonderland Engine channel.
