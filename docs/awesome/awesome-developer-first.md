@@ -2,297 +2,298 @@
 ## Awesome Developer-First [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-精选的开发人员优先产品列表.  
-我确信你会喜欢 [unzip.dev](https://unzip.dev?ref=github-adf) （我创建的开发者趋势通讯）.  
-您可以关注 [Agam](https://twitter.com/agammore) 和 [flo](https://twitter.com/fmerian) 了解更多与开发相关的内容:) 
+A curated list of awesome developer-first products.  
+I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
+You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :) 
 
-此存储库的开发人员优先的定义是：
-* 开发者是目标受众.
-* “Headless”、“API-first”、“SaaS”是常用的关键词.
-* 通常，这意味着首页有一些代码示例.
-* 产品——人们付费购买的工具/服务.
+The definition of developer-first for this repo is:
+* Developers are the target audience.
+* "Headless", "API-first", "SaaS" are frequently used keywords.
+* Usually, this means that the front page has some code examples.
+* Products - tools/services that people pay for.
 
 ```diff
-+ 观看此存储库以获取有关我们发现的新产品的通知
++ 👀 Watch this repo to get notifications about new products we find
 ```
 
-对于最新的补充 [click here](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here](https://github.com/agamm/awesome-developer-first/commits/main).
 
  
 ---
 
 ## Analytics
-*跟踪网络/应用程序访问者.*
-* [Baremetrics](https://baremetrics.com/) - Stripe 的订阅分析.
-* [Heap](https://heap.io/) - 适用于网络和移动设备的产品分析 API，捕获所有事件. 
-* [Mixpanel](https://mixpanel.com/) - 产品分析和仪表板.
-* [Pirsch](https://pirsch.io/) - 具有后端集成和 API 的隐私友好型网络分析.
-* [Plausible](https://plausible.io/) - 简单、保护隐私的开源网络分析工具. ![Plausible](https://img.shields.io/github/contributors-anon/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [PoeticMetric](https://poeticmetric.com/) - 隐私第一、符合法规、速度极快的分析工具.
-* [PostHog](https://posthog.com/) - 开源产品分析平台. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Segment](https://segment.com/) - 收集用户数据并将其发送到您的其他工具.
-* [Tinybird](https://www.tinybird.co/) - 实时数据流至 API.
+*Track web/app visitors.*
+* [Baremetrics](https://baremetrics.com/) - Subscription analytics for Stripe.
+* [Heap](https://heap.io/) - Product analytics API for web and mobile, captures all events. 
+* [Mixpanel](https://mixpanel.com/) - Product analytics and dashboards.
+* [Pirsch](https://pirsch.io/) - Privacy-friendly web analytics with a backend integration and API.
+* [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. ![Plausible](https://img.shields.io/github/contributors-anon/plausible/analytics?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, blazingly fast analytics tool.
+* [PostHog](https://posthog.com/) - Open-source product analytics platform. ![PostHog](https://img.shields.io/github/contributors-anon/posthog/posthog?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Segment](https://segment.com/) - Collect user data and send it to your other tools.
+* [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs.
 
 ## Authentication & Identity
-*为您处理身份验证和用户身份的产品.*
-* [Aserto](https://www.aserto.com) - 应用程序和 API 的云原生授权.
-* [Auth0](https://auth0.com/) - 身份验证和授权即服务.
-* [AWS cognito](https://aws.amazon.com/cognito/) - AWS 的身份验证即服务.
-* [BoxyHQ Enterprise SSO](https://boxyhq.com) - 用于企业 SSO 和目录同步的开源 API.
-* [Clerk](https://clerk.com/) - React、React Native 和 Next.js 的身份验证和用户管理平台.
-* [Corbado](https://corbado.com) - 密钥优先身份验证作为服务.
-* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase 对身份验证的看法.
-* [FusionAuth](https://fusionauth.io/) - 以安全为中心的身份验证即服务，包括自托管.
-* [Hanko](https://www.hanko.io/) - 符合无密码 (WebAuthn API) PSD2、eIDAS 和 GDPR. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [LoginRadius](https://www.loginradius.com/) - 使用 SSO 管理用户身份验证服务.
-* [Magic.link](https://magic.link) - 无密码（基于电子邮件）登录作为服务.
-* [Okta](https://developer.okta.com/) - 使用 SSO 的嵌入式身份验证.
-* [Ory](https://ory.sh/) - 开源身份和访问控制解决方案（也作为服务提供）.
-* [Oso](https://www.osohq.com/) - 授权框架（RBAC）.
-* [Permit.io](https://www.permit.io/) - 权限和访问控制即服务.
-* [SuperTokens](https://supertokens.io/) - 具有预构建 UI 的开源和托管电子邮件和 Oauth 身份验证. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Userfront](https://userfront.com/) - 使用预构建的后台仪表板简化用户身份验证.
-* [WorkOS](https://workos.com/) - 企业 SSO 和更多开箱即用的企业功能.
+*Products that handle authentication and user identity for you.*
+* [Aserto](https://www.aserto.com) - Cloud-native authorization for applications and APIs.
+* [Auth0](https://auth0.com/) - Authentication & authorization as a service.
+* [AWS cognito](https://aws.amazon.com/cognito/) - AWS's authentication as a service.
+* [BoxyHQ Enterprise SSO](https://boxyhq.com) - Open-source API for enterprise SSO and Directory Sync.
+* [Clerk](https://clerk.com/) - Authentication and user management platform for React, React Native, and Next.js.
+* [Corbado](https://corbado.com) - Passkey-first authentication as a service.
+* [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
+* [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
+* [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
+* [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
+* [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
+* [Ory](https://ory.sh/) - Open-source identity & access-control solutions (also available as a service).
+* [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
+* [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
+* [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. ![SuperTokens](https://img.shields.io/github/contributors-anon/supertokens/supertokens-core?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
+* [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
 ## Automation
-*通过 API 和 SDK 实现工作流程自动化.*
-* [n8n](http://n8n.io/) - 免费且可获取源代码的公平代码许可工作流程自动化工具. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Trigger.dev](http://trigger.dev/) - 开源平台，可按计划或按需从 API 创建工作流程. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+*Automate workflows via APIs and SDKs.*
+* [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## CI/CD
-*持续集成/交付.*
-* [CircleCI](https://circleci.com/) - YML 配置您的构建、并行作业、就业市场.
-* [Depot](https://depot.dev) - 直接替换以在 CI 中更快地构建 Docker 映像.
-* [GitLab](https://gitlab.com/) - 具有类似 Github 功能的开源 CI 和托管解决方案.
-* [Gitpod](https://www.gitpod.io/) - 自动化云开发环境. ![Gitpod](https://img.shields.io/github/contributors-anon/gitpod-io/gitpod?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Spacelift](https://spacelift.io/) - 用于基础设施即代码的 CI/CD 平台，目前支持 Terraform、Pulumi、AWS CloudFormation 和 Kubernetes.
+*Continuous Integration/Delivery.*
+* [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
+* [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
+* [GitLab](https://gitlab.com/) - Open-source CI and hosted solution with Github-like abilities.
+* [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments. ![Gitpod](https://img.shields.io/github/contributors-anon/gitpod-io/gitpod?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
 ## CMS (headless)
-* [ElegantCMS](https://www.elegantcms.io/) - 无头 CMS 构建器.
-* [Ghost](https://ghost.org/) - 博客平台，可用作无头 CMS（例如 [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Strapi](https://strapi.io/) - 开源无头 CMS，100% JavaScript. ![Strapi](https://img.shields.io/github/contributors-anon/strapi/strapi?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
+* [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). ![Ghost](https://img.shields.io/github/contributors-anon/tryghost/ghost?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript. ![Strapi](https://img.shields.io/github/contributors-anon/strapi/strapi?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Code Quality
-*检查您的代码质量.*
-* [Codacy](https://www.codacy.com/) - 自动代码质量检查.
-* [Sonar](https://www.sonarsource.com/) - Lint 和代码质量检查.
+*Check your code quality.*
+* [Codacy](https://www.codacy.com/) - Automatic code quality checks.
+* [Sonar](https://www.sonarsource.com/) - Lint and code quality checks.
 
 ## Computer Vision
-*操纵和检测视觉数据.*
-* [Clarifai](https://www.clarifai.com/) - 计算机视觉 API 集.
-* [CloudSight](https://cloudsight.ai/) - 数字媒体品牌认知度.
-* [Google Vision AI](https://cloud.google.com/vision) - Google 的 AI 视觉 API.
-* [Roboflow](https://roboflow.com/) - 为开发人员简化了计算机视觉模型的创建.
+*Manipulate and detect visual data.*
+* [Clarifai](https://www.clarifai.com/) - Set of computer vision APIs.
+* [CloudSight](https://cloudsight.ai/) - Digital media brand recognition.
+* [Google Vision AI](https://cloud.google.com/vision) - Google's AI vision APIs.
+* [Roboflow](https://roboflow.com/) - Simplified computer vision model creation for developers.
 
 ## Databases & Spreadsheets
-*存储数据并处理它.*
-* [Airtable](https://airtable.com/) - 数据库和电子表格与 API 的混合.
-* [Apitable](https://apitable.com/) - 面向 API 的 Airtable 替代方案.
-* [CrateDB](https://crate.io/) - 用于实时分析的分布式开源 SQL 数据库. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Neuledge](https://neuledge.com/) - 具有适用于任何类型数据库的通用模式语言的抽象 ORM.
-* [PlanetScale](https://planetscale.com/) - 托管托管 MySQL 数据库、CI 集成和自动扩展.
-* [Supabase](https://supabase.io/) - 托管和开源管理的 postgres 数据库，如 firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Upstash](https://upstash.com/) - 无服务器定制的 Redis 提供商.
+*Storing data and processing it.*
+* [Airtable](https://airtable.com/) - Database and spreadsheet hybrid with an API.
+* [Apitable](https://apitable.com/) - API-oritented Airtable alternative.
+* [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
+* [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
+* [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging 
-*有助于跟踪错误的工具.*
-* [Lightrun](https://www.lightrun.com) - 使用支持 Java、Node.js 和 Python 的 IDE（本地或 SaaS）中的插件调试生产服务器.
-* [Linear](https://linear.app/) - 为开发人员构建的问题跟踪.
-* [Rookout](https://www.rookout.com)  - 通过基于云的调试器调试生产服务器. 支持 Java、.Net、Node.js、Python 和 Ruby.
+*Tools that help in tracking bugs.*
+* [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
+* [Linear](https://linear.app/) - Issue tracking built for developers.
+* [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
 
 ## Deployment Hosting
-*帮助您部署应用程序/网站的产品.*
-* [Adaptable](https://adaptable.io/) - 通过通用模板部署应用程序和数据库.
-* [Cyclic.sh](https://www.cyclic.sh/) - 全栈应用程序托管（包括 dynamo db 和 s3）.
-* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - 部署且不关心基础设施，适用于所有主要框架.
-* [Fly.io](https://fly.io/) - 通过位置感知服务部署 Docker 化的全栈应用程序（减少延迟）.
-* [Heroku](https://www.heroku.com/) - 通过 CLI 部署到可扩展服务器.
-* [Koyeb](https://www.koyeb.com/) - 无服务器平台，可在几分钟内部署全栈应用程序和 API.
-* [Netlify](https://www.netlify.com/) - 通过 CLI 部署 JAMStack（主要是 Gatsby）.
-* [Platform.sh](https://platform.sh/) - 持续部署全栈应用程序.
-* [Qoddi](https://qoddi.com/) - Git 连接的应用程序托管平台.
-* [Railway](https://railway.app/) - 开箱即用的 git 部署，具有自动扩展、数据库、秘密和回滚功能.
-* [Render](https://render.com/) - 使用 SSL 从 git 部署到 CDN.
-* [Vercel](https://vercel.com/) - 用于构建和部署无服务器 Web 应用程序、静态网站和 Jamstack（主要是 Next.js）项目的云平台.
-* [Zeabur](https://zeabur.com/) - 一键部署前端、后端和数据库服务.
+*Products that help you deploy your app/website.*
+* [Adaptable](https://adaptable.io/) - Deploy apps and DBs via common templates.
+* [Cyclic.sh](https://www.cyclic.sh/) - Full stack app hosting (including dynamo db and s3).
+* [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) - Deploy and don't care about infrastructure, works with all major frameworks.
+* [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
+* [Heroku](https://www.heroku.com/) - Deploy via CLI to scalable servers.
+* [Koyeb](https://www.koyeb.com/) - Serverless platform for deploying full-stack apps and APIs in minutes.
+* [Netlify](https://www.netlify.com/) - Deploy JAMStack (mainly Gatsby) via CLI.
+* [Platform.sh](https://platform.sh/) - Continuously deploy full-stack apps.
+* [Qoddi](https://qoddi.com/) - Git connected app hosting platform.
+* [Railway](https://railway.app/) - Out-of-the-box git to deployment with auto scaling, DBs, secrets and rollbacks.
+* [Render](https://render.com/) - Deploy from git to a CDN with SSL.
+* [Vercel](https://vercel.com/) - Cloud platform for building and deploying serverless web applications, static websites, and Jamstack (mainly Next.js) projects.
+* [Zeabur](https://zeabur.com/) - One click deployment for frontend, backend and databases services.
 
 ## Discussions
-*评论和论坛.*
-* [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - 评级、评论即服务.
-* [Commento](https://commento.io/) - 以隐私为中心的嵌入式评论系统.
-* [MuutIo](https://muut.io/) - 创建社区驱动的应用程序的工具.
-* [Yotpo](https://www.yotpo.com/platform/reviews/) - 评论评级和问答作为服务.
+*Comments and forums.*
+* [Bazaarvoice](https://www.bazaarvoice.com/ratings-and-reviews/) - Ratings, reviews as a service.
+* [Commento](https://commento.io/) - Privacy centric embeddable comment system.
+* [MuutIo](https://muut.io/) - Tools to create a community-driven app.
+* [Yotpo](https://www.yotpo.com/platform/reviews/) - Reviews ratings and Q&A as a service.
 
 ## Documentation
-*文档解决方案.*
-* [Bump.sh](https://bump.sh/) - API 文档和变更管理解决方案.
-* [DeveloperHub](https://developerhub.io/) - 协作开发人员文档平台.
-* [Mintlify](https://www.mintlify.com/) - AI 支持的代码文档、IDE 扩展（开源）. ![Mintlify](https://img.shields.io/github/contributors-anon/mintlify/writer?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [ReadMe](https://readme.com/) - 个性化和动态的开发人员文档.
-* [Swimm](https://swimm.io/) - 与您的代码相结合、自动同步的文档，可与您的 IDE 配合使用.
+*Documentation solutions.*
+* [Bump.sh](https://bump.sh/) - API documentation and change management solution.
+* [DeveloperHub](https://developerhub.io/) - Collaborative developer documentation platform.
+* [Mintlify](https://www.mintlify.com/) - AI powered code documentation, IDE extension (open source). ![Mintlify](https://img.shields.io/github/contributors-anon/mintlify/writer?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [ReadMe](https://readme.com/) - Personalized and dynamic developer docs.
+* [Swimm](https://swimm.io/) - Docs that are coupled with your code, auto-synced, works with your IDE.
 
 ## Environment & Secret Management
-*管理多个应用程序或项目的环境变量和机密.*
-* [1Password Secrets Automation](https://1password.com/secrets/) - 与 1Password 集成的秘密管理.
-* [Doppler](https://doppler.com/) - 在一个地方进行跨项目的环境变量管理.
-* [Envkey](https://www.envkey.com/) - 具有所有应用程序同步机制的环境管理.
-* [Ubiq](https://www.ubiqsecurity.com/) - 具有秘密管理的加密 API.
-* [Vault](https://www.vaultproject.io/) - API 驱动的密钥管理.
+*Manage environment variables and secrets for multiple apps or projects.*
+* [1Password Secrets Automation](https://1password.com/secrets/) - Secrets management with integration to 1Password.
+* [Doppler](https://doppler.com/) - Environment variable management across projects, in one place.
+* [Envkey](https://www.envkey.com/) - Environment management with syncing mechanism for all apps.
+* [Ubiq](https://www.ubiqsecurity.com/) - Encryption APIs wiht secret management.
+* [Vault](https://www.vaultproject.io/) - API driven secret key management.
 
 ## Feature Flags
-*使用代码中的条件标志控制生产功能.*
-* [Flagsmith](https://flagsmith.com/) - 简化了标记即服务平台的功能.
-* [GrowthBook](https://www.growthbook.io/) - 开源功能标志和实验平台. ![GrowthBook](https://img.shields.io/github/contributors-anon/growthbook/growthbook?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [LaunchDarkly](https://launchdarkly.com/) - 功能标志即服务平台.
-* [Split](https://www.split.io/) - 具有数据分析功能的标记平台.
-* [Unleash](https://www.getunleash.io/) - 开源、隐私第一、企业级功能管理解决方案. ![Unleash](https://img.shields.io/github/contributors-anon/unleash/unleash?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+*Control production features with conditional flags in your code.*
+* [Flagsmith](https://flagsmith.com/) - Feature flags-as-a-service platform simplified.
+* [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform. ![GrowthBook](https://img.shields.io/github/contributors-anon/growthbook/growthbook?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [LaunchDarkly](https://launchdarkly.com/) - Feature flags-as-a-service platform.
+* [Split](https://www.split.io/) - Feature flags platform with data analytics.
+* [Unleash](https://www.getunleash.io/) - Open-source, privacy-first, and enterprise-ready feature management solution. ![Unleash](https://img.shields.io/github/contributors-anon/unleash/unleash?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## GEO
-*位置服务.*
-* [Mapbox](https://www.mapbox.com/) - 供开发人员使用的地图和位置产品.
-* [PlaceKit](https://placekit.io/) - 位置搜索 API.
-* [Radar](https://radar.io/) - 地理围栏和地理 API.
-* [SmartyStreets](https://www.smartystreets.com/) - 美国反向地理编码和地址验证 API.
+*Location services.*
+* [Mapbox](https://www.mapbox.com/) - Maps and locations products for devs.
+* [PlaceKit](https://placekit.io/) - Locations search API.
+* [Radar](https://radar.io/) - Geofencing and geo APIs.
+* [SmartyStreets](https://www.smartystreets.com/) - US Reverse Geocoding and Address Verification APIs.
 
 ## IDE
-*扩展 IDE 并帮助开发的产品.*
-* [Codota](https://www.codota.com/) - 适用于您的 IDE 的 AI 代码补全.
-    * [TabNine](https://www.tabnine.com/) - 深度学习完成（codota 的一部分）.
-* [Kite](https://www.kite.com/) - IDE 中的 AI 助手（Python 或 JS）.
+*Products that extend your IDE and help development.*
+* [Codota](https://www.codota.com/) - AI code completions for your IDE.
+    * [TabNine](https://www.tabnine.com/) - Deep learning completion (part of codota).
+* [Kite](https://www.kite.com/) - AI assistant in your IDE (Python or JS).
 
 ## Infrastructure as Code
-*声明您的基础设施并从中可重复地配置云基础设施.*
-* [Pulumi](https://www.pulumi.com/) - 开发人员优先的 IaC，使用 Python、TypeScript、Go 和更多语言...
-* [Terraform](https://www.hashicorp.com/products/terraform) - DSL，开源且免费（付费解决方案添加了团队管理、策略即代码...）. ![Terraform](https://img.shields.io/github/contributors-anon/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+*Declare your infrastructure and reproducibly provision cloud infrastrucure from it.*
+* [Pulumi](https://www.pulumi.com/) -  Developer-first IaC with Python, TypeScript, Go and more languages...
+* [Terraform](https://www.hashicorp.com/products/terraform) - DSL, open-source and free (paid solution adds team management, policy-as-code...). ![Terraform](https://img.shields.io/github/contributors-anon/hashicorp/terraform?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## Integrations
-*简化集成开发的集成管理系统或产品.*
-* [Apideck](https://www.apideck.com) - 集成市场构建器、与第三方的单一 API，以实现快速开发.
-* [Vessel](https://www.vessel.dev/) - 开发人员优先的 GTM 工具本机集成平台.
+*Integration management systems or products that ease integration development.*
+* [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+* [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization
-*翻译您的产品（也表示 i18n）.*
-* [Localazy](https://localazy.com/) - 为开发人员构建的应用程序翻译.
-* [Tolgee](https://tolgee.io) - 开发人员和翻译人员友好的基于网络的本地化平台.
+*Translating your product (also denoted i18n).*
+* [Localazy](https://localazy.com/) - App translation built for developers.
+* [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform.
 
 ## Mail
-*发送电子邮件作为一项服务.*
-* [Anymail finder](https://anymailfinder.com) - 验证并查找电子邮件 API.
-* [FormSpree](https://formspree.io/) - 通过电子邮件接收表单提交.
-* [Hunter.io](https://hunter.io/) - 电子邮件线索和验证 API.
-* [Imitate Email](https://imitate.email) - 端到端电子邮件测试工具.
-* [Lob](https://www.lob.com/) - 电子邮件和地址验证.
-* [Mailgun](https://www.mailgun.com/) - 发送、跟踪和接收电子邮件.
-* [Resend](https://resend.com/) - 用于构建、测试和发送交易电子邮件的电子邮件 API.
-* [Sendgrid](https://sendgrid.com/) - 电子邮件 API.
+*Sending emails as a service.*
+* [Anymail finder](https://anymailfinder.com) - Verify and find email APIs.
+* [FormSpree](https://formspree.io/) - Receive form submissions by email.
+* [Hunter.io](https://hunter.io/) - Email lead and validation APIs.
+* [Imitate Email](https://imitate.email) - End-to-end email testing tool.
+* [Lob](https://www.lob.com/) - Email and address verification.
+* [Mailgun](https://www.mailgun.com/) - Send, track, and receive emails.
+* [Resend](https://resend.com/) - Email API to build, test, and deliver transactional emails.
+* [Sendgrid](https://sendgrid.com/) - Email API.
 
 ## Media
-*媒体 API（优化、CDN）.*
-* [APITemplate.io](https://apitemplate.io/) - 用于从可重复使用的模板生成图像和 PDF 的 API.
-* [Cloudinary](https://cloudinary.com/) - 优化、创建、管理和交付图像和视频.
-* [ImageKit](https://imagekit.io/) - 自动执行图像优化、转换和交付.
-* [imgix](https://www.imgix.com/) - 转换、优化和缓存图像.
-* [Mux](https://mux.com/) - 用于上传、管理和流式传输视频的 API.
-* [Pintura](https://pqina.nl/pintura) - 完全可配置的 JavaScript 图像编辑器 SDK.
+*Media APIs (optimization, CDN).*
+* [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
+* [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
+* [ImageKit](https://imagekit.io/) - Automate image optimization, transformation, and delivery.
+* [imgix](https://www.imgix.com/) - Transforms, optimizes, and cache images.
+* [Mux](https://mux.com/) - APIs to upload, manage, and stream video.
+* [Pintura](https://pqina.nl/pintura) - A fully configurable JavaScript image editor SDK.
 
 ## Messaging
 *Messaging APIs - SMS, notifications, chats, and VoIP.*
-* [Ably](https://ably.com) - 发布/订阅、实时消息传递、通知、聊天、多人游戏和数据同步.
-* [Applozic](https://www.applozic.com/) - 聊天 SDK，实时消息传递.
-* [Knock](https://knock.app) - 通知即服务.
-* [MagicBell](https://www.magicbell.com/) - 带有 API 和 UI 组件的实时通知系统.
-* [Novu](https://novu.co/) - 开源通知（电子邮件、短信、直接和推送）管理. ![Novu](https://img.shields.io/github/contributors-anon/novuhq/novu?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Stream](https://getstream.io/) - 喂食和聊天即服务.
-* [Twilio](https://www.twilio.com/) - SMS、推送通知和 VoIP API.
-* [Vonage](https://www.vonage.com) - 视频、短信、聊天和语音 API.
+* [Ably](https://ably.com) - Pub/sub, real-time messaging, notifications, chat, multiplayer and data synchronization.
+* [Applozic](https://www.applozic.com/) - Chat SDKs, real-time messaging.
+* [Knock](https://knock.app) - Notifications as a service.
+* [MagicBell](https://www.magicbell.com/) - Real-time notification system with API & UI components.
+* [Novu](https://novu.co/) - Open-source notification (Email, SMS, Direct, and Push) management. ![Novu](https://img.shields.io/github/contributors-anon/novuhq/novu?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Stream](https://getstream.io/) - Feed and chat as a service.
+* [Twilio](https://www.twilio.com/) - SMS, push notifications, and VoIP APIs.
+* [Vonage](https://www.vonage.com) - Video, SMS, chat, and voice APIs.
 
 ## Misc
-*可能没有类别的不同产品.*
-* [Actyx](https://www.actyx.com/) - 开发商优先的厂房.
-* [Interval](https://interval.com/) - SDK 为您的产品构建内部工具和脚本.
-* [ngrok](https://ngrok.com/) - 为内部服务器（NAT/防火墙后面）生成公共 URL.
-* [Nylas](https://www.nylas.com/) - 用于生产力工作流程的 API（电子邮件、日历、联系人...） - 例如用于生产力的格子图案.
-* [Plain](https://plain.com) - API 优先的客户服务平台（支持、反馈、评级小部件...）.
-* [Volta](https://volta.net) - 快速、优雅的 GitHub 桌面和 Web 应用程序.
+*Different products that probably don't have a category.*
+* [Actyx](https://www.actyx.com/) - Developer-first factory building.
+* [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
+* [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
+* [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
+* [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
+* [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 
 ## Monitoring
-*监控您的生产应用程序.*
-* [KeenIO](https://keen.io/) - 事件流平台.
-* [LogRocket](https://logrocket.com/) - 重播用户遇到的错误.
-* [Rollbar](https://rollbar.com/) - 报告生产中的错误.
-* [Sentry](https://sentry.io/) - 应用程序错误和性能监控.
+*Monitoring your production application.*
+* [KeenIO](https://keen.io/) - Event streaming platform.
+* [LogRocket](https://logrocket.com/) - Replay bugs users had.
+* [Rollbar](https://rollbar.com/) - Reports errors in production.
+* [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
 ## Natural Language Processing
-*与自然语言的互动.*
-* [DialogFlow](https://cloud.google.com/dialogflow) - Google 的语音/文本聊天机器人框架.
+*Interactions with natural language.*
+* [DialogFlow](https://cloud.google.com/dialogflow) - Voice/text chatbot framework by Google.
 
 ## Orchestration
-*用于（微）服务的编排工具.*
-* [AWS Step Functions](https://aws.amazon.com/step-functions/) - 可视化工作流程服务，用于构建分布式应用程序和自动化流程
-* [Camunda- Platform](https://camunda.com/) - 工作流引擎提供可扩展的、按需的流程自动化.
+*Orchestration tools for (micro) services.*
+* [AWS Step Functions](https://aws.amazon.com/step-functions/) - Visual workflow service to build distributed applications and automate processes
+* [Camunda- Platform](https://camunda.com/) - Workflow engine that delivers scalable, on-demand process automation.
 
 ## Payments & Pricing
-*处理付款、信用卡处理和发票.*
-* [Braintree](https://www.braintreepayments.com/) - Paypal 采用 API 优先支付方式.
-* [Increase](https://increase.com/) - 裸机银行 API.
-* [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS 支付 - 覆盖更多国家并负责增值税.
-* [Paddle](https://paddle.com/) - 具有广泛地理支持的 SaaS 收入交付平台（与目前的 stripe 不同）.
-* [Plaid](https://plaid.com/) - 接受、发送 ACH（银行转账）并获取银行信息.
-* [Stigg](https://www.stigg.io) - API 优先定价计划.
-* [Stripe Payments](https://stripe.com/payments) - 使用 API 接受付款并在全球范围内转移资金.
+*Handling payments, credit card processing, and invoices.*
+* [Braintree](https://www.braintreepayments.com/) - Paypal's take on API-first payments.
+* [Increase](https://increase.com/) - Bare-metal banking APIs.
+* [LemonSqueezy](https://www.lemonsqueezy.com/) - SaaS payments - covers more countries and takes care of VAT Tax.
+* [Paddle](https://paddle.com/) - Revenue delivery platform for SaaS with broad geographical support (unlike stripe at the moment).
+* [Plaid](https://plaid.com/) - Accept, send ACH (bank transfers) and get bank information.
+* [Stigg](https://www.stigg.io) - API-first pricing plans.
+* [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
 ## Repo
-*存储库和工件管理.*
+*Repository and artifacts management.*
 * [Artifactory](https://jfrog.com/artifactory/) - Create your own package repository.
-* [Cloudsmith](https://cloudsmith.com/) - 云原生私有包管理.
+* [Cloudsmith](https://cloudsmith.com/) - Cloud-native private package management.
 
 ## Reports Generation
-*生成报告，主要是 PDF.*
-* [Carbone](https://carbone.io/) - JSON 转换为 PDF、DOCX、XLSX、PPTX、ODS...API.
-* [DocRaptor](https://docraptor.com) - HTML 到 PDF API 专门为分页媒体构建，使用 [Prince](https://www.princexml.com/) PDF 库.
-* [Export SDK](https://exportsdk.com) - 带可视化模板编辑器的 PDF 生成器 API.
-* [PDFBlade](https://pdfblade.com/) - 基于 HTML 到 PDF API 使用的定价.
+*Generating reports, mainly PDFs.*
+* [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
+* [DocRaptor](https://docraptor.com) - HTML to PDF API built specifically for Paged Media using the [Prince](https://www.princexml.com/) PDF library.
+* [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
+* [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 
 ## Scraping
-*不通过预期的 API 从网站获取数据.*
-* [Apify](https://apify.com/) - 将网站转变为 API.
-* [Crawlbase](https://proxycrawl.com/) - 使用代理抓取难以抓取的网站.
-* [ScrapingANT](https://scrapingant.com/) - 用无头镀铬刮擦.
-* [ScrapingBee](https://www.scrapingbee.com/) - 使用无头浏览器和代理进行抓取而不被阻止.
-* [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取API.
+*Fetching data from websites not via an intended API.*
+* [Apify](https://apify.com/) - Turn websites to an API.
+* [Crawlbase](https://proxycrawl.com/) - Scrape hard-to-scrape websites with proxies.
+* [ScrapingANT](https://scrapingant.com/) - Scrape with headless chrome.
+* [ScrapingBee](https://www.scrapingbee.com/) - Using headless browsers and proxies to scrape without being blocked.
+* [SearchApi](https://www.searchapi.io/) - Real-time Google SERP API.
+* [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
 ## Search
-* [Algolia](https://www.algolia.com/) - 搜索即服务和全套搜索 API.
-* [Meilisearch](https://www.meilisearch.com/) - 开源、快速且相关的搜索引擎. ![Meilisearch](https://img.shields.io/github/contributors-anon/meilisearch/meilisearch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Swiftype](https://swiftype.com/) - 搜索即服务（爬虫和 React 就绪）.
-* [Typesense Cloud](https://cloud.typesense.org/) - 开源和托管搜索即服务. ![Typesense](https://img.shields.io/github/contributors-anon/typesense/typesense?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Websolr](https://www.websolr.com/) - 使用 Solr 进行开源和托管搜索.
+* [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
+* [Meilisearch](https://www.meilisearch.com/) - Open-source, fast and relevant search engine. ![Meilisearch](https://img.shields.io/github/contributors-anon/meilisearch/meilisearch?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
+* [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. ![Typesense](https://img.shields.io/github/contributors-anon/typesense/typesense?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Websolr](https://www.websolr.com/) - Open-source and hosted search with Solr.
 
 ## Security
-*保护您的代码库的产品.*
-* [Bearer](https://www.bearer.com/) - 用于 JavaScript 和 Ruby 堆栈的静态应用程序安全测试 (SAST) 工具.
-* [GitGuardian](https://www.gitguardian.com/) - 实时 GitHub 活动扫描器.
-* [Infisical](https://infisical.com) - 开源、端到端加密秘密管理器. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
-* [Snyk](https://snyk.io/) - 针对代码、依赖项、容器和基础设施即代码的漏洞扫描器.
-* [Socket](https://socket.dev/) - 检测并阻止开源供应链攻击.
+*Products that secure your codebase.*
+* [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
+* [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
+* [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. ![Infisical](https://img.shields.io/github/contributors-anon/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
+* [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
 
 ## Shipping
-*创建和处理货物运输.*
-* [EasyPost](https://www.easypost.com/) - 用于电子商务的运输 API. 
+*Creating and handling the shipment of goods.*
+* [EasyPost](https://www.easypost.com/) - Shipping APIs for e-commerce. 
 
 ## Testing
-*测试工具.*
-* [Applitools](https://applitools.com/) - 自动视觉测试.
-* [Beeceptor](https://beeceptor.com/) - REST API 模拟.
-* [Blackfire.io](https://blackfire.io/) - 性能测试.
-* [Chromatic](https://www.chromatic.com/) - 故事书的可视化 UI 测试.
-* [Ddosify](https://ddosify.com/) - 分布式性能测试平台.
-* [Loadmill](https://www.loadmill.com/) - 根据用户行为生成测试.
-* [Percy](https://percy.io/) - 连续视觉测试.
-* [Testim](https://www.testim.io/) - 前端测试.
+*Testing tools.*
+* [Applitools](https://applitools.com/) - Automated visual testing.
+* [Beeceptor](https://beeceptor.com/) - REST API mocking.
+* [Blackfire.io](https://blackfire.io/) - Performance testing.
+* [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+* [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
+* [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.
+* [Percy](https://percy.io/) - Continuous visual testing.
+* [Testim](https://www.testim.io/) - Frontend testing.
 
 ---
 
 ## Contributing
 
-看这里： [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
