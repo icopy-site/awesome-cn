@@ -147,6 +147,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Tools
 
+- [ComputerCraft Music Converter](https://music.madefor.cc) - A web app to convert various sound formats to DFPWM (ComputerCraft's sound format).
 - [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG format.
 - [cc-tstl-template](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
 - [sanjuuni](https://github.com/MCJack123/sanjuuni) -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
