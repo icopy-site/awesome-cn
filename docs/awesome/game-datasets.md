@@ -37,6 +37,7 @@ API 是_“一组函数和程序，允许创建访问操作系统、应用程序
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - 阅读超级马里奥制造商保存的课程.
 - [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - 从 Super Mario Maker 游戏中获取用户配置文件.
 - [Steam Database](https://github.com/SteamDatabase) - Steam 数据系列工具. [Website](https://steamdb.info/).
+- [Steambase](https://github.com/Steambase) - Steam 数据系列工具. [Website](https://steambase.io/).
 - [Steam Spy](https://github.com/topics/steamspy) - 来自 Steam 用户配置文件的游戏统计数据.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - 来自 Steam 的查询工具.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - 来自任何平台的游戏的一般信息. [Website](https://thegamesdb.net/).
