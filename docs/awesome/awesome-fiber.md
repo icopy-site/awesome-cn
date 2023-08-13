@@ -8,117 +8,119 @@
   </picture>
 </a>
 
-&gt; **纤维**是一种 [Express](https://github.com/expressjs/express) 受启发的**网络框架**构建于 [Fasthttp](https://github.com/valyala/fasthttp)，**最快** HTTP 引擎 [Go](https://golang.org/doc/) . 旨在**简化**工作，实现**快速**开发，并考虑到**零内存分配**和**性能**.
+> **Fiber** is an [Express](https://github.com/expressjs/express) inspired **web framework** built on top of [Fasthttp](https://github.com/valyala/fasthttp), the **fastest** HTTP engine for [Go](https://golang.org/doc/). Designed to **ease** things up for **fast** development with **zero memory allocation** and **performance** in mind.
 
-精彩的 Fiber 中间件、样板、配方、文章和工具的精选列表.
+A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.
 <br>
 
 <!--lint disable awesome-toc-->
 <!--lint disable awesome-git-repo-age-->
 
 ## ⚙️ Middlewares
-哪里可以找到 Fiber 中间件.
+Where to discover Fiber middlewares.
 
 ### 🧬 Core
-Fiber 框架中包含的中间件列表.
-- [Adaptor](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - net/http 处理程序与 Fiber 请求处理程序之间的转换器.
-- [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth)  - 基本身份验证中间件提供 HTTP 基本身份验证. 它会调用下一个处理程序来获取有效凭据，并调用 401 Unauthorized 来处理丢失或无效的凭据.
-- [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache) - 拦截并缓存响应.
-- [Compress](https://github.com/gofiber/fiber/tree/master/middleware/compress) - Fiber 的压缩中间件，默认支持 `deflate`、`gzip` 和 `brotli`.
-- [CORS](https://github.com/gofiber/fiber/tree/master/middleware/cors) - 通过各种选项启用跨域资源共享 (CORS).
-- [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - 防止 CSRF 攻击.
-- [Earlydata](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - 对光纤的早期数据支持.
-- [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - 加密中间件，对 cookie 值进行加密.
-- [EnvVar](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - 通过提供可选配置来公开环境变量.
-- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag 中间件使缓存更加高效并节省带宽，因为如果内容未更改，Web 服务器不需要重新发送完整响应.
-- [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar 中间件通过其 HTTP 服务器运行时公开 JSON 格式的变体.
-- [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - 如果提供了文件路径，则忽略日志中的图标或从内存中提供服务.
-- [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - Fiber 的文件系统中间件，特别感谢 Alireza Salary.
-- [Helmet](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - 通过设置各种 HTTP 标头来帮助保护您的应用程序.
-- [Idempotency](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Fiber 的幂等性中间件允许在重复请求时使用容错 API.
+List of middlewares that are included within the Fiber framework.
+- [Adaptor](https://github.com/gofiber/fiber/tree/master/middleware/adaptor) - Converter for net/http handlers to/from Fiber request handlers.
+- [BasicAuth](https://github.com/gofiber/fiber/tree/master/middleware/basicauth) - Basic auth middleware provides an HTTP basic authentication. It calls the next handler for valid credentials and 401 Unauthorized for missing or invalid credentials.
+- [Cache](https://github.com/gofiber/fiber/tree/master/middleware/cache) - Intercept and cache responses.
+- [Compress](https://github.com/gofiber/fiber/tree/master/middleware/compress) - 	Compression middleware for Fiber, it supports `deflate`, `gzip` and `brotli` by default.
+- [CORS](https://github.com/gofiber/fiber/tree/master/middleware/cors) - Enable cross-origin resource sharing (CORS) with various options.
+- [CSRF](https://github.com/gofiber/fiber/tree/master/middleware/csrf) - Protect from CSRF exploits.
+- [Earlydata](https://github.com/gofiber/fiber/tree/master/middleware/earlydata) - Early data support for Fiber.
+- [Encrypt Cookie](https://github.com/gofiber/fiber/tree/master/middleware/encryptcookie) - Encrypt middleware which encrypts cookie values.
+- [EnvVar](https://github.com/gofiber/fiber/tree/master/middleware/envvar) - Expose environment variables with providing an optional config.
+- [ETag](https://github.com/gofiber/fiber/tree/master/middleware/etag) - ETag middleware that lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content has not changed.
+- [Expvar](https://github.com/gofiber/fiber/tree/master/middleware/expvar) - Expvar middleware that serves via its HTTP server runtime exposed variants in the JSON format.
+- [Favicon](https://github.com/gofiber/fiber/tree/master/middleware/favicon) - Ignore favicon from logs or serve from memory if a file path is provided.
+- [FileSystem](https://github.com/gofiber/fiber/tree/master/middleware/filesystem) - FileSystem middleware for Fiber, special thanks and credits to Alireza Salary.
+- [Helmet](https://github.com/gofiber/fiber/tree/master/middleware/helmet) - Helps secure your apps by setting various HTTP headers.
+- [Idempotency](https://github.com/gofiber/fiber/tree/master/middleware/idempotency) - Idempotency middleware for Fiber allows for fault-tolerant APIs where duplicate requests.
 - [Keyauth](https://github.com/gofiber/fiber/tree/master/middleware/keyauth) - Key auth middleware provides a key based authentication.
-- [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter)  - 限速中间件. 用于限制对公共 API 和/或端点的重复请求，例如密码重置.
-- [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP 请求/响应记录器.
-- [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - 受express-status-monitor启发，报告服务器指标的监控中间件.
-- [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof 中间件，通过其 HTTP 服务器运行时以 pprof 可视化工具期望的格式提供分析数据.
-- [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - 允许您将请求代理到多个服务器.
-- [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - 恢复中间件从堆栈链中任何位置的恐慌中恢复，并将控制权交给集中的ErrorHandler.
-- [Redirect](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Fiber 的重定向中间件.
-- [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - 为每个请求添加一个 requestid.
-- [Rewrite](https://github.com/gofiber/fiber/tree/master/middleware/rewrite)  - 重写中间件根据提供的规则重写 URL 路径. 它有助于向后兼容或只是创建更清晰和更具描述性的链接.
-- [Session](https://github.com/gofiber/fiber/tree/master/middleware/session)  - 会话中间件. 注意：此中间件使用我们的存储包.
-- [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - 如果谓词为真，则跳过包装处理程序的跳过中间件.
-- [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - 添加请求的最长时间，如果超过则转发到 ErrorHandler.
+- [Limiter](https://github.com/gofiber/fiber/tree/master/middleware/limiter) - Rate-limiting middleware. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+- [Logger](https://github.com/gofiber/fiber/tree/master/middleware/logger) - HTTP request/response logger.
+- [Monitor](https://github.com/gofiber/fiber/tree/master/middleware/monitor) - Monitor middleware that reports server metrics, inspired by express-status-monitor.
+- [Pprof](https://github.com/gofiber/fiber/tree/master/middleware/pprof) - Pprof middleware that serves via its HTTP server runtime profiling data in the format expected by the pprof visualization tool.
+- [Proxy](https://github.com/gofiber/fiber/tree/master/middleware/proxy) - Allows you to proxy requests to a multiple servers.
+- [Recover](https://github.com/gofiber/fiber/tree/master/middleware/recover) - Recover middleware recovers from panics anywhere in the stack chain and handles the control to the centralized ErrorHandler.
+- [Redirect](https://github.com/gofiber/fiber/tree/master/middleware/redirect) - Redirect middleware for Fiber.
+- [RequestID](https://github.com/gofiber/fiber/tree/master/middleware/requestid) - Adds a requestid to every request.
+- [Rewrite](https://github.com/gofiber/fiber/tree/master/middleware/rewrite) - Rewrite middleware rewrites the URL path based on provided rules. It can be helpful for backward compatibility or just creating cleaner and more descriptive links.
+- [Session](https://github.com/gofiber/fiber/tree/master/middleware/session) - Session middleware. NOTE: This middleware uses our Storage package.
+- [Skip](https://github.com/gofiber/fiber/tree/master/middleware/skip) - Skip middleware that skips a wrapped handler is a predicate is true.
+- [Timeout](https://github.com/gofiber/fiber/tree/master/middleware/timeout) - Adds a max time for a request and forwards to ErrorHandler if it is exceeded.
 
 ### 🔗 External
-外部托管的中间件模块列表并由 [Fiber team](https://github.com/orgs/gofiber/people).
-- [storage](https://github.com/gofiber/storage) - 实现存储接口的预制存储驱动程序，旨在与各种光纤中间件一起使用.
-- [template](https://github.com/gofiber/template) - 此包包含 8 个模板引擎，可与 Fiber v1.10.x Go 版本 1.13 或更高版本一起使用.
+List of externally hosted middleware modules and maintained by the [Fiber team](https://github.com/orgs/gofiber/people).
+- [storage](https://github.com/gofiber/storage) - Premade storage drivers that implement the Storage interface, designed to be used with various Fiber middlewares.
+- [template](https://github.com/gofiber/template) - This package contains 8 template engines that can be used with Fiber v1.10.x Go version 1.13 or higher is required.
 
 
 ### ‍💻 Contrib
-由 Fiber 团队和社区维护的第三方中间件列表.
-- [casbin](https://github.com/gofiber/contrib/tree/main/casbin) - Fiber 的 Casbin 中间件.
-- [fiberi18n](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Fiber 中 i18n 支持的中间件.
-- [fibernewrelic](https://github.com/gofiber/contrib/tree/main/fibernewrelic)  - 用于 Fiber 的 NewRelic 中间件. 中间件处理 NewRelic 仪器.
-- [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry) - 哨兵支持光纤.
-- [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap) - 对 Fiber 的 Zap 日志记录支持.
-- [jwt](https://github.com/gofiber/contrib/tree/main/jwt) - JWT 返回 JSON Web 令牌 (JWT) 身份验证中间件.
-- [opafiber](https://github.com/gofiber/contrib/tree/main/opafiber)  - 针对 Fiber 的开放策略代理中间件. 中间件处理运行的 Rego 策略.
-- [otelfiber](https://github.com/gofiber/contrib/tree/main/otelfiber) - 对光纤的 OpenTelemetry 支持.
-- [paseto](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO 返回 Web 令牌 (PSETO) 身份验证中间件.
-- [swagger](https://github.com/gofiber/contrib/tree/main/swagger)  - 用于 Fiber 的 Swagger 中间件. 中间件处理 Swagger UI.
-- [websocket](https://github.com/gofiber/contrib/tree/main/websocket) - 基于 Fasthttp WebSocket for Fiber，具有本地支持！
+List of third party middlewares and maintained by the Fiber team and community.
+- [casbin](https://github.com/gofiber/contrib/tree/main/casbin) - Casbin middleware for Fiber.
+- [fiberi18n](https://github.com/gofiber/contrib/tree/main/fiberi18n) - Middleware for i18n support in Fiber.
+- [fibernewrelic](https://github.com/gofiber/contrib/tree/main/fibernewrelic) - NewRelic middleware for Fiber. The middleware handles NewRelic insturmentation.
+- [fibersentry](https://github.com/gofiber/contrib/tree/main/fibersentry) - Sentry support for Fiber.
+- [fiberzap](https://github.com/gofiber/contrib/tree/main/fiberzap) - Zap logging support for Fiber.
+- [jwt](https://github.com/gofiber/contrib/tree/main/jwt) - JWT returns a JSON Web Token (JWT) auth middleware.
+- [opafiber](https://github.com/gofiber/contrib/tree/main/opafiber) - Open Policy Agent middleware for Fiber. The middleware handles running Rego policies.
+- [otelfiber](https://github.com/gofiber/contrib/tree/main/otelfiber) - OpenTelemetry support for Fiber.
+- [paseto](https://github.com/gofiber/contrib/tree/main/paseto) - PASETO returns a Web Token (PASETO) auth middleware.
+- [swagger](https://github.com/gofiber/contrib/tree/main/swagger) - Swagger middleware for Fiber. The middleware handles Swagger UI.
+- [websocket](https://github.com/gofiber/contrib/tree/main/websocket) - Based on Fasthttp WebSocket for Fiber with Locals support!
 
 ### 🌱 Third Party
-Fiber 社区创建的中间件列表.
-- [shareed2k/fiber_tracing](https://github.com/shareed2k/fiber_tracing) - 使用 OpenTracing API 对 Fiber 框架进行中间件跟踪请求.
-- [shareed2k/fiber_limiter](https://github.com/shareed2k/fiber_limiter) - 使用 Redis 作为速率限制存储的限制器，具有两种选择滑动窗口、gcra 漏桶的算法.
-- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - 用于 go Fiber 的 Prometheus 中间件.
-- [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - 光纤 Firebase 身份验证中间件.
-- [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - 健康检查中间件支持 Fiber️ 框架的健康检查.
-- [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - Go Fiber 的 APM 代理.
-- [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - 用于 Fiber 的 LDAP 身份验证中间件.
-- [darkweak/souin](https://github.com/darkweak/souin) - HTTP 缓存，符合 RFC 标准，可作为中间件替代 Varnish.
-- [witer33/fiberpow](https://github.com/witer33/fiberpow) - 具有可定制工作量证明挑战的反 DDoS/Bot 中间件.
-- [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - 提供光纤 OPA 中间件集成.
-- [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - 一个中间件，用于根据 W3C 服务器计时规范添加服务器计时标头.
-- [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - 报告性能数据（路线统计数据）的 Airbrake 中间件.
-- [samber/slog-fiber](https://github.com/samber/slog-fiber) - 使用 Go slog 库的记录器中间件.
-- [mikhail-bigun/fiberlogrus](https://github.com/mikhail-bigun/fiberlogrus) - 使用 logrus 及其结构化日志记录功能的记录器中间件.
-- [Idan-Fishman/fiber-bind](https://github.com/Idan-Fishman/fiber-bind) - 请求模式验证器中间件，用于验证请求正文、查询字符串参数、路由参数甚至表单文件等源.
+List of middlewares that are created by the Fiber community.
+- [shareed2k/fiber_tracing](https://github.com/shareed2k/fiber_tracing) - Middleware trace requests on Fiber framework with OpenTracing API.
+- [shareed2k/fiber_limiter](https://github.com/shareed2k/fiber_limiter) - Limiter using redis as store for rate limit with two algorithms for choosing sliding window, gcra leaky bucket.
+- [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - Prometheus middleware for gofiber.
+- [sacsand/gofiber-firebaseauth](https://github.com/sacsand/gofiber-firebaseauth) - Fiber Firebase Auth Middleware.
+- [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
+- [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
+- [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
+- [darkweak/souin](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
+- [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
+- [joffref/opa-middleware](https://github.com/Joffref/opa-middleware) - Provides an OPA middleware integration for fiber.
+- [vladfr/fiber-servertiming](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
+- [airbrake/gobrake](https://github.com/airbrake/gobrake/tree/master/examples/fiber) - An Airbrake middleware that reports performance data (route stats).
+- [samber/slog-fiber](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
+- [mikhail-bigun/fiberlogrus](https://github.com/mikhail-bigun/fiberlogrus) - A logger middleware that uses logrus and its structured logging features.
+- [Idan-Fishman/fiber-bind](https://github.com/Idan-Fishman/fiber-bind) - Request schema validator middleware that validates sources such as the request body, query string parameters, route parameters and even form files.
 
 ## 🚧 Boilerplates
-Fiber 的预制样板.
-- [gofiber/boilerplate](https://github.com/gofiber/boilerplate) - 官方纤维样板.
-- [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - 光纤网络框架的样板.
-- [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate) - 纤维网络框架顶部的样板，具有许多中间件和功能.
-- [sujit-baniya/goravel](https://github.com/sujit-baniya/goravel) - Laravel 类似的 go Go 样板，支持 Go Fiber 或 Gin.
-- [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - 用于创建 Go App CLI 的光纤后端模板.
-- [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - 简单且可扩展的样板文件，可使用 Fiber 构建强大且有组织的 REST 项目. 
-- [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - 具有许多中间件的纤维样板 API.
-- [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template)  - 一个生产就绪、容器优先的固执己见的 go Fiber 项目模板. 通过 envvars 进行配置，通过 go.uber.org/fx 进行 DI，通过 uptrace/bun 进行数据库，具有开箱即用的 MVC 文件夹结构和 CI/CD 支持.
-- [mikhail-bigun/go-app-template](https://github.com/mikhail-bigun/go-app-template) - 简洁的架构 Go 应用程序样板，具有丰富的 Fiber 实现.
+Premade boilerplates for Fiber.
+- [gofiber/boilerplate](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
+- [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
+- [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
+- [sujit-baniya/goravel](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
+- [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
+- [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber. 
+- [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
+- [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
+- [mikhail-bigun/go-app-template](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
+- [amrebada/go-modules](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
+
 
 ## 📁 Recipes
-纤维食谱.
-- [gofiber/recipes](https://github.com/gofiber/recipes) - 官方纤维食谱.
-- [kiyonlin/fiblar-demo](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + 角度演示.
-- [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - 使用 Fiber 构建 Restful api 的教程.
-- [firebase007/go-rest-api-with-fiber](https://github.com/firebase007/go-rest-api-with-fiber) - 带有 Fiber、日志记录、basicAuth 和 postgresql 的演示项目.
-- [chawk/go_fiber_quickstart](https://github.com/chawk/go_fiber_quickstart) - 光纤快速启动示例项目.
-- [EricLau1/go-fiber-auth-api](https://github.com/EricLau1/go-fiber-auth-api) - 使用 Fiber MongoDB 和 JWT 的 Golang 身份验证 API.
-- [alpody/golang-fiber-realworld-example-app](https://github.com/alpody/golang-fiber-realworld-example-app) - 使用 Fiber、Gorm、Swagger 构建的真实后端 API 示例. 
+Recipes for Fiber.
+- [gofiber/recipes](https://github.com/gofiber/recipes) - Official Fiber cookbook.
+- [kiyonlin/fiblar-demo](https://github.com/kiyonlin/fiblar-demo) - Fiber v1 + angular demo.
+- [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - Tutorial for building a restful api with fiber.
+- [firebase007/go-rest-api-with-fiber](https://github.com/firebase007/go-rest-api-with-fiber) - Demo project with fiber, logging, basicAuth and postgresql.
+- [chawk/go_fiber_quickstart](https://github.com/chawk/go_fiber_quickstart) - Fiber quick start example project.
+- [EricLau1/go-fiber-auth-api](https://github.com/EricLau1/go-fiber-auth-api) - Golang Authentication API with Fiber MongoDB and JWT.
+- [alpody/golang-fiber-realworld-example-app](https://github.com/alpody/golang-fiber-realworld-example-app) - Example real world backend API built with Fiber, Gorm, Swagger. 
 
 ## 🛠️ Tools
-多种使 Fiber 使用更轻松的工具.
-- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn 是一个固执己见的 Web 框架，提供基于 Fiber 的快速开发功能.
-- [tompston/gomakeme](https://github.com/tompston/gomakeme) - 为 Fiber 或 Gin REST API 生成样板 + 端点.
-- [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve 是一个轻量级应用程序或 docker 镜像，用于服务前端和负载均衡器应用程序.
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - 根据 OpenAPI 3 规范生成 Go 客户端和服务器样板.
+Several tools to make Fiber usage easier.
+- [go-dawn/dawn](https://github.com/go-dawn/dawn) - Dawn is an opinionated web framework that provides rapid development capabilities which on top of Fiber.
+- [tompston/gomakeme](https://github.com/tompston/gomakeme) - Generate boilerplate + endpoints for Fiber or Gin REST APIs.
+- [ryanbekhen/feserve](https://github.com/ryanbekhen/feserve) - Feserve is a lightweight application or docker image to serve frontend and load balancer applications.
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## 📖 Articles
-社区撰写的有关 Fiber 的文章.
+Articles about Fiber written by the community.
 
 - [Working with middlewares and boilerplates](https://dev.to/koddr/go-fiber-by-examples-working-with-middlewares-and-boilerplates-3p0m)
 - [Testing the application](https://dev.to/koddr/go-fiber-by-examples-testing-the-application-1ldf)
@@ -145,18 +147,18 @@ Fiber 的预制样板.
 
 
 ## 📺 Videos
-由社区创建的有关 Fiber 的视频教程.
+Video tutorials created by the community about Fiber.
 
 - [Is Fiber the best Go web framework? Better than Gin?](https://youtu.be/10miByMOGfY)
 
 
 ## 🤖 Benchmarks
-将 Fiber 与其他框架进行比较的几个基准.
-- [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=json) - 项目提供了广泛的 Web 应用程序框架领域的性能度量.
-- [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - 项目旨在衡量各种编程语言框架之间的差异.
-- [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - 该基准套件旨在比较 Go Web 框架的性能.
+Several benchmarks to compare Fiber with other frameworks.
+- [TechEmpower](https://www.techempower.com/benchmarks/#section=data-r20&hw=ph&test=json) - Project provides performance measures across a wide field of web application frameworks.
+- [web-frameworks-benchmark](https://web-frameworks-benchmark.netlify.app/result) - Project aims to measure the differences between the various programming language frameworks.
+- [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - This benchmark suite aims to compare the performance of Go web frameworks.
 
 
 ### 👍 Contributing
 
-贡献指南可以在 [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md)
+Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gofiber/awesome-fiber/blob/master/CONTRIBUTING.md)
