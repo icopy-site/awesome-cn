@@ -1946,9 +1946,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 ### Princeton
 
-* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Department of Psychology, Princeton***.
+* [Tania Lombrozo](https://psych.princeton.edu/person/tania-lombrozo) - ***Department of Psychology, Princeton***, [Concepts & Cognition Lab](https://cognition.princeton.edu/) - ***Princeton***.
 
-* [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***.
+* [Thomas Griffiths](https://cocosci.princeton.edu/tom/index.php) - ***Department of Psychology, Department of Computer Science, Princeton***, [Computational Cognitive Science Lab](https://cocosci.princeton.edu/index.php) - ***Princeton***.
 
 
 

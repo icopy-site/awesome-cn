@@ -131,6 +131,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [LangChain](https://langchain.com/) - A framework for developing applications powered by language models.
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
+- [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
 
 ## Code
 
@@ -215,6 +216,8 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
 - [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
+
+### Animation
 
 ## Audio
 
