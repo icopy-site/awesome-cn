@@ -74,7 +74,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
 - [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
-- [Lavender](https://www.lavender.ai/) - Lavender email assistent helps you get more replies in less time.
+- [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
 - [Jenni](https://jenni.ai/) - Jenni is the ultimate writing assistant that saves you hours of ideation and writing time.
 - [LAIKA](https://www.writewithlaika.com/) - LAIKA trains an artificial intelligence on your own writing to create a personalised creative partner-in-crime.
@@ -132,6 +132,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [gpt4all](https://github.com/nomic-ai/gpt4all) - A chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
 - [LMQL](https://lmql.ai/) - LMQL is a query language for large language models.
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for building LLM applications over external data.
+- [Phoenix](https://phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine tune LLM, CV and tabular models.
 
 ## Code
 

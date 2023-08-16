@@ -3,25 +3,25 @@
 
 ## 30 seconds of code
 
-&gt; 满足您所有开发需求的简短 JavaScript 代码片段
+> Short code snippets for all your development needs
 
-* 访问 [our website](https://30secondsofcode.org) 查看我们的片段集合.
- * 搜索适合您需要的片段. 您可以按名称、标签、语言或使用片段描述进行搜索. 只需开始输入一个术语，看看会出现什么.
-* 浏览全部 [snippets](https://30secondsofcode.org/snippets/p/1) 或个人 [snippet collections](https://30secondsofcode.org/collections/p/1) 对于每个主题.
-* 单击每个代码片段卡可查看整个代码片段，包括代码、解释和示例.
-* 您可以使用右上角的复制按钮复制任何片段卡上的代码块.
- * 如果您喜欢这个项目，请给它一个星标. 这对维护它的人来说意义重大.
+* Visit [our website](https://30secondsofcode.org) to view our snippet collection.
+* Search for snippets that suit your needs. You can search by name, tag, language or using a snippet's description. Just start typing a term and see what comes up.
+* Browse all [snippets](https://30secondsofcode.org/snippets/p/1) or individual [snippet collections](https://30secondsofcode.org/collections/p/1) for each topic.
+* Click on each snippet card to view the whole snippet, including code, explanation and examples.
+* You can copy code blocks on any snippet card, using the copy button at the top right.
+* If you like the project, give it a star. It means a lot to the people maintaining it.
 
 ## Want to contribute?
 
-* 如果您想帮助我们改进，请花一点时间阅读 [Contribution Guidelines](https://github.com/30-seconds/30-seconds-of-code/blob/master//CONTRIBUTING.md) 第一的.
-* 使用相关的 `template.md` 为每个集合添加新的片段.
-* 如果您发现特定片段有问题，请 [open an issue](https://github.com/30-seconds/30-seconds-of-code/issues/new).
-* 如果您发现网站有问题，请 [report it in the web repository](https://github.com/30-seconds/30-seconds-web/issues/new).
+* If you want to help us improve, take a minute to read the [Contribution Guidelines](https://github.com/30-seconds/30-seconds-of-code/blob/master//CONTRIBUTING.md) first.
+* Use the relevant `template.md` to add new snippets to each collection.
+* If you find a problem with a specific snippet, please [open an issue](https://github.com/30-seconds/30-seconds-of-code/issues/new).
+* If you find a problem with the website, please [report it in the web repository](https://github.com/30-seconds/30-seconds-web/issues/new).
 
 ## Credits
 
-* 此存储库由维护 [30 seconds of code organization on GitHub](https://github.com/30-seconds).
-* 所有片段均根据 CC-BY-4.0 许可证获得许可，除非另有明确说明.
-* 未经 30 秒代码 GitHub 组织所有者的明确同意，不得使用徽标、名称和商标.
-* 我们的网站由 [Netlify](https://www.netlify.com/), [Astro](https://astro.build/) & [GitHub](https://github.com/).
+* This repository is maintained by the [30 seconds of code organization on GitHub](https://github.com/30-seconds).
+* All snippets are licensed under the CC-BY-4.0 License, unless explicitly stated otherwise.
+* Logos, names and trademarks are not to be used without the explicit consent of the owners of the 30 seconds of code GitHub organization.
+* Our website is powered by [Netlify](https://www.netlify.com/), [Astro](https://astro.build/) & [GitHub](https://github.com/).

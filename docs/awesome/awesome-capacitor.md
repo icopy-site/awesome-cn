@@ -139,6 +139,15 @@ Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft
 - [Background Fetch](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
 - [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
+
+## [Aparajita’s plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
+Plugins written and maintained by [@aparajita](https://github.com/aparajita).
+
+- [Biometric Auth](https://github.com/aparajita/capacitor-biometric-auth) – Easy access to native biometric auth APIs on iOS and Android.
+- [Dark Mode](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
+- [Logger](https://github.com/aparajita/capacitor-logger) – Better logging for the web and native Ionic/Capacitor apps.
+- [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) – Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+
 ## Other plugins
 
 Independents plugins are listed here.
