@@ -42,6 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
+- [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
 
 ### Social Media
 
@@ -201,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Buku](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
 - [papis](https://github.com/papis/papis) - Extensible document and bibliography manager.
 - [pubs](https://github.com/pubs/pubs) - Scientific bibliography manager.
+- [fjira](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Time Tracking
 

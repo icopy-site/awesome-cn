@@ -2,150 +2,150 @@
 ## awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
 
-精选的 OpenGL 库、调试器和资源列表.
+A curated list of awesome OpenGL libraries, debuggers and resources.
 
 
 
 
 ## Articles
 
-*OpenGL 文章（非教程）*
+*OpenGL articles (non-tutorials)*
 
-* [(2014) Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) 作者 **Kai Burjack** - 关于使用 OpenGL (LWJGL) 进行光线追踪的详细教程系列.
-* [(2014) Things that drive me nuts about OpenGL](http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html) 作者 **Rich Geldreich** - 对 GL API 的建设性（或非建设性）批评.
-* [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) 作者 **Fabian Giesen** - 关于 D3D/OpenGL 图形管道的全面而丰富的系列.
-* [(2010) What is OpenGL?](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) 作者 **Joe Groff** - OpenGL 构建块简介.
+* [(2014) Ray tracing with OpenGL Compute Shaders](https://github.com/LWJGL/lwjgl3-wiki/wiki/2.6.1.-Ray-tracing-with-OpenGL-Compute-Shaders-%28Part-I%29) by **Kai Burjack** - Detailed tutorial series about ray tracing using OpenGL (LWJGL).
+* [(2014) Things that drive me nuts about OpenGL](http://richg42.blogspot.com.au/2014/05/things-that-drive-me-nuts-about-opengl.html) by **Rich Geldreich** - Constructive (or not) criticism of GL API.
+* [(2011) A trip through the graphics pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by **Fabian Giesen** - Comprehensive and rich series about the D3D/OpenGL graphics pipeline.
+* [(2010) What is OpenGL?](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) by **Joe Groff** - Brief introduction to the building blocks of OpenGL.
 
 
 ## Books
 
-*关于OpenGL的热门书籍*
+*Popular books about OpenGL*
 
-* [A Trip Down the Graphics Pipeline](http://www.amazon.com/dp/1558603875) 作者 **Jim Blinn** - 包含有关图形管道的丰富信息以及学习计算机图形学核心概念的最佳资源的热门书籍.
-* [Computer Graphics](http://www.amazon.com/dp/0321399528) 作者 **John F. Hughes 等人** - 对于任何参与计算机图形算法设计和实现的人来说，计算机图形学确实是必须的. 然而，这不是一本以 OpenGL 为重点的书，而是包含有价值的技术演示.
-* [Interactive Computer Graphics](http://www.amazon.com/dp/0132545233) 作者 **Edward Angel 和 Dave Shreiner** - 它提供了几个使用 OpenGL 的示例，它同时涵盖了多个方面，但是如果您正在尝试自己学习 OpenGL，您可能会发现这没有帮助.
-* [OpenGL ES 3.0 Programming Guide](http://www.amazon.com/dp/0321933885) 作者：**Dan Ginsburg 等人** - 它以清晰的方式提供了使用 OpenGL ES 3.0 API 的所有必要信息.
-* [OpenGL Insights](http://www.amazon.com/dp/1439893764) 作者 **Patrick Cozzi、Christophe Riccio** - 丰富而全面的学习技术和技巧的资源，涵盖了 OpenGL 的几个高级主题.
-* [OpenGL Programming Guide](http://www.amazon.com/dp/0321773039) 作者：**Dave Shreiner, et al.** - 它很好地涵盖了基础知识并提供了 API 的清晰参考.
-* [OpenGL Shading Language](http://www.amazon.com/dp/0321637631) 作者 **Randi J. Rost, et al.** - 关于着色语言的非常清晰且写得很好的书. 此外，它还提供了几种编写着色器的说明.
-* [OpenGL SuperBible](http://www.amazon.com/dp/0321712617) 作者 **Richard S. Wright 等人** - 它涵盖了计算机图形学的基本概念，并提供了使用 OpenGL 的清晰示例. 毫无疑问，这是初学者的必修课.
-* [Real-Time Rendering](http://www.amazon.com/dp/1568814240) 作者：**Tomas Akenine-Moller、Eric Haines 和 Naty Hoffman** - 它很好地解释了游戏引擎的概念、游戏客户端编程的基础以及理解 DirectX 和 OpenGL 的必要知识.
+* [A Trip Down the Graphics Pipeline](http://www.amazon.com/dp/1558603875) by **Jim Blinn** - Popular book that contains wealth information about the graphics pipeline, and of the best sources to learn the core concepts of Computer Graphics.
+* [Computer Graphics](http://www.amazon.com/dp/0321399528) by **John F. Hughes, et al.** - Computer Graphics is indeed a must for anyone being involved in the design and implementation of Computer Graphics algorithms. However, this is not a OpenGL focused book, but contains valuable demonstrations of the technology.
+* [Interactive Computer Graphics](http://www.amazon.com/dp/0132545233) by **Edward Angel and Dave Shreiner** - It provides several examples using OpenGL and it covers several aspects at once, but if you are trying to learn OpenGL on your own you might not find this helpful.
+* [OpenGL ES 3.0 Programming Guide](http://www.amazon.com/dp/0321933885) by **Dan Ginsburg, et al.** - It presents all the necessary information to use the OpenGL ES 3.0 API in a clear manner.
+* [OpenGL Insights](http://www.amazon.com/dp/1439893764) by **Patrick Cozzi, Christophe Riccio** - Rich and comprehensive resource to learn techniques and tips, covering several advanced topics of OpenGL.
+* [OpenGL Programming Guide](http://www.amazon.com/dp/0321773039) by **Dave Shreiner, et al.** - It does a good job covering the basics and providing clear reference of the API.
+* [OpenGL Shading Language](http://www.amazon.com/dp/0321637631) by **Randi J. Rost, et al.** - Very clear and well written book about Shading Language. Also, it provides several explanations of writing shaders.
+* [OpenGL SuperBible](http://www.amazon.com/dp/0321712617) by **Richard S. Wright, et al.** - It covers the basic concepts of computer graphics and provides clear examples using OpenGL. Definitely, it is a must for beginners.
+* [Real-Time Rendering](http://www.amazon.com/dp/1568814240) by **Tomas Akenine-Moller, Eric Haines and Naty Hoffman** - It does a good job at explaining concepts for game engine, basis for game client programming as well as the necessary knowledge for understanding DirectX and OpenGL.
 
 
 ## Debug
 
-*调试和分析库*
+*Debugging and profiling libraries*
 
-* [apitrace](http://apitrace.github.io) - 用于跟踪 OpenGL、Direct3D 和其他图形 API 的工具.
-* [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - AMD 的工具套件，包括调试器、分析器和帧/着色器分析.
-* [GL-SL Debugger](http://glsl-debugger.github.io) - 用于调试 OpenGL 程序的工具.
-* [GLIntercept](https://github.com/dtrebilco/glintercept) - 适用于 Windows 的 OpenGL 函数调用拦截器.
-* [Intel-GPA](https://software.intel.com/en-us/gpa) - 英特尔的 OpenGL 图形性能分析器.
-* [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - 图形应用程序的开发平台.
-* [RenderDoc](https://github.com/baldurk/renderdoc) - RenderDoc 是一个独立的图形调试工具.
-* [tracy](https://github.com/wolfpld/tracy) - 用于游戏和其他应用程序的实时远程遥测帧分析器.
-* [vogl](https://github.com/ValveSoftware/vogl) - 由 Valve 开发的 OpenGL 捕获和回放调试器.
+* [apitrace](http://apitrace.github.io) - Tools for tracing OpenGL, Direct3D, and other graphics APIs.
+* [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) - AMD's tool suite that includes debugger, profiler and frame/shader analysis.
+* [GL-SL Debugger](http://glsl-debugger.github.io) - Tool for debugging OpenGL programs.
+* [GLIntercept](https://github.com/dtrebilco/glintercept) - OpenGL function call interceptor for Windows.
+* [Intel-GPA](https://software.intel.com/en-us/gpa) - Intel's OpenGL Graphics Performance Analyzer.
+* [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) - Development platform for graphics applications.
+* [RenderDoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+* [tracy](https://github.com/wolfpld/tracy) - A real time remote telemetry frame profiler for games and other applications.
+* [vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture and playback debugger developed by Valve.
 
 
 ## GLSL Editors
 
-*在线 GLSL 编辑器*
+*Online GLSL Editors*
 
-* [GLSL Sandbox](http://glslsandbox.com) - 片段着色器的在线实时编辑器.
-* [GLSLbin](http://glslb.in) - 片段着色器沙箱支持 [glslify](https://github.com/stackgl/glslify).
-* [SHDR Editor](http://shdr.bkcore.com) - 实时 GLSL 着色器编辑器、查看器和验证器.
-* [Shader Toy](https://www.shadertoy.com) - 最流行的片段着色器实时编辑器.
-* [ShaderFrog](http://shaderfrog.com/) - WebGL 着色器编辑器和作曲家
+* [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify](https://github.com/stackgl/glslify).
+* [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
+* [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
+* [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer
 
 ## Libraries
 
-*OpenGL 应用程序的有用库*
+*Useful libraries for OpenGL applications*
 
-* [assimp](https://github.com/assimp/assimp) - 以统一方式导入 3D 模型的便携式库.
-* [Bullet](http://bulletphysics.org/wordpress) - 它提供最先进的碰撞检测、软体和刚体动力学.
-* [fltk](https://www.fltk.org/) - 可移植地生成 UI 小部件的 C++ 工具包. [LGPLv2](https://www.fltk.org/COPYING.php)
-* [freeGLUT](http://freeglut.sourceforge.net) - 允许创建/管理包含 OpenGL 上下文的窗口的成熟库.
-* [GLFW](http://www.glfw.org) - 用于使用 OpenGL 上下文创建/交互窗口的现代库.
-* [GLFM](https://github.com/brackeen/glfm) - 为移动设备和网络提供 OpenGL ES 上下文和输入事件.
-* [glm](http://glm.g-truc.net/0.9.6/index.html) - 基于 GLSL 规范的图形软件数学库.
-* [Magnum](https://github.com/mosra/magnum) - 它是现代 OpenGL 的 2D/3D 图形引擎.
-* [MathFu](http://google.github.io/mathfu/) - 主要为注重简单性和效率的游戏开发的 C++ 数学库.
-* [Newton](http://newtondynamics.com/forum/newton.php) - 这是一种跨平台的逼真物理学.
-* [OGLplus](http://oglplus.org) - 在 OpenGL 上实现面向对象外观的库集合.
-* [SDL](http://www.libsdl.org) - 旨在提供对多媒体和图形硬件的低级别访问.
-* [SFML](http://www.sfml-dev.org) - 简化游戏和多媒体应用程序开发的简单界面.
-* [SOIL](http://www.lonesock.net/soil.html)  - 主要用于将纹理上传到 OpenGL 的微型 C 库.  （看 [SOIL2](https://bitbucket.org/SpartanJ/soil2))
-* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - 用于管理 OpenGL 显示/交互和抽象视频输入的轻量级便携式快速开发库.
-* [morphologica](https://github.com/ABRG-Models/morphologica) - 用于数据可视化的 OpenGL 图形引擎，尤其是数值模拟.
-
+* [assimp](https://github.com/assimp/assimp) - Portable library to import 3D models in a uniform manner.
+* [Bullet](http://bulletphysics.org/wordpress) - It provides state of the art collision detection, soft body and rigid body dynamics.
+* [fltk](https://www.fltk.org/) - C++ Toolkit to generate UI widgets portably. [LGPLv2](https://www.fltk.org/COPYING.php)
+* [freeGLUT](http://freeglut.sourceforge.net) - Mature library that allows to create/manage windows containing OpenGL contexts.
+* [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
+* [GLFM](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
+* [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
+* [Magnum](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
+* [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
+* [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
+* [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
+* [SDL](http://www.libsdl.org) - Designed to provide low level access to multimedia and graphics hardware.
+* [SFML](http://www.sfml-dev.org) - Simple interface to ease the development of games and multimedia applications.
+* [SOIL](http://www.lonesock.net/soil.html) - Tiny C library used primarily for uploading textures into OpenGL. (see [SOIL2](https://bitbucket.org/SpartanJ/soil2))
+* [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
+* [morphologica](https://github.com/ABRG-Models/morphologica) - OpenGL graphics engine for data visualization, especially of numerical simulations.
+* [raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 
 ## Profile Loaders
 
-*OpenGL 的配置文件加载器*
+*Profile loaders for OpenGL*
 
-* [gl3w](https://github.com/skaslev/gl3w) - 简单的 OpenGL 核心配置文件加载器.
-* [glad](https://github.com/Dav1dde/glad) - 基于官方规范的多配置文件加载器生成器.
-* [glbindify](https://github.com/nnesse/glbindify) - 为 OpenGL、wgl 和 glX 生成 C 绑定的命令行工具.
-* [glbinding](https://github.com/cginternals/glbinding) - 利用 C++11 功能提供类型安全的配置文件加载器.
-* [GLEW](http://glew.sourceforge.net) - 用于加载 OpenGL 扩展的成熟跨平台库.
+* [gl3w](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader.
+* [glad](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs.
+* [glbindify](https://github.com/nnesse/glbindify) - Command line tool to generate C bindings for OpenGL, wgl, and glX.
+* [glbinding](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety.
+* [GLEW](http://glew.sourceforge.net) - Mature cross-platform library to load OpenGL extensions.
 
 
 ## References
 
-*OpenGL 参考资料*
+*OpenGL references*
 
-* [docs.GL](http://docs.gl) - 它是 OpenGL 的替代文档.
-* [OpenGL API Tables](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - 几个 OpenGL 和 GLSL 版本的 API 的快速参考.
-* [OpenGL Cheat Sheet](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - OpenGL 4.3 命令和语法的快速参考卡.
-* [OpenGL Docs](https://www.opengl.org/sdk/docs) - 官方文档网站.
-* [OpenGL Wiki](https://www.opengl.org/wiki/Main_Page) - 官方 OpenGL 维基.
+* [docs.GL](http://docs.gl) - It is an alternative documentation for OpenGL.
+* [OpenGL API Tables](http://web.eecs.umich.edu/~sugih/courses/eecs487/common/notes/APITables.xml) - Quick reference of API's for several OpenGL and GLSL versions.
+* [OpenGL Cheat Sheet](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - Quick reference card of OpenGL 4.3 commands and syntax.
+* [OpenGL Docs](https://www.opengl.org/sdk/docs) - Official documentation website.
+* [OpenGL Wiki](https://www.opengl.org/wiki/Main_Page) - Official OpenGL wiki.
 
 
 ## Talks
 
-*OpenGL相关讲座*
-* [Approaching Zero Driver Overhead in OpenGL](http://gdcvault.com/play/1020791/) - [Slides](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead) - [AMA Reddit](https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver) 作者 **Cass Everitt、Tim Foley、John McDonald、Graham Sellers** [1:15:54]
-* [How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) 作者 **Cass Everitt、John McDonald** [51:13]
-* [Moving Your Games to OpenGL](https://www.youtube.com/watch?v=45O7WTc6k2Y) 作者：**Rich Geldreich、Dan Ginsburg、Peter Lohrmann、Jason Mitchell** [54:45]
+*OpenGL related talks*
+* [Approaching Zero Driver Overhead in OpenGL](http://gdcvault.com/play/1020791/) - [Slides](http://www.slideshare.net/CassEveritt/approaching-zero-driver-overhead) - [AMA Reddit](https://www.reddit.com/r/gamedev/comments/21mbo8/we_are_the_authors_of_approaching_zero_driver) by **Cass Everitt, Tim Foley, John McDonald, Graham Sellers** [1:15:54]
+* [How Modern OpenGL Can Radically Reduce Driver Overhead](https://www.youtube.com/watch?v=-bCeNzgiJ8I) by **Cass Everitt, John McDonald** [51:13]
+* [Moving Your Games to OpenGL](https://www.youtube.com/watch?v=45O7WTc6k2Y) by **Rich Geldreich, Dan Ginsburg, Peter Lohrmann, Jason Mitchell** [54:45]
 
 
 ## Videos
 
-*OpenGL 视频教程*
+*OpenGL video tutorials*
 
-* [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - 关于现代 OpenGL 和 Qt 的综合教程.
-* [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - 关于 OpenGL 和游戏开发的视频教程（循序渐进）.
-* [SIGGRAPH](https://www.youtube.com/user/ACMSIGGRAPH/playlists) - 关于计算机图形学的热门会议.
-* [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) - C++ 中的 OpenGL 简介
-* [thebennybox](https://www.youtube.com/user/thebennybox/playlists) - 关于 OpenGL 和游戏开发的视频教程.
-* [ThinMatrix](https://www.youtube.com/user/ThinMatrix/playlists) - 关于 OpenGL 和使用 Java 进行游戏开发的视频教程.
-* [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - 关于使用 Python 的 OpenGL（即时模式）的视频教程.
-* [Sonar Systems](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - 了解新的和现代的 OpenGL 3.0+.
+* [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - Comprehensive tutorials about modern OpenGL and Qt.
+* [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
+* [SIGGRAPH](https://www.youtube.com/user/ACMSIGGRAPH/playlists) - Popular conference about computer graphics.
+* [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) - Introduction to OpenGL in C++
+* [thebennybox](https://www.youtube.com/user/thebennybox/playlists) - Videos tutorials about OpenGL and game development.
+* [ThinMatrix](https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
+* [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
+* [Sonar Systems](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - Learn about the new and modern OpenGL 3.0+.
 
 ## Websites
 
-*OpenGL教程网站*
+*OpenGL tutorial websites*
 
-* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 通过 **大卫莱蒂尔**
-* [Learn OpenGL](https://learnopengl.com) **乔伊·德弗里斯**
-* [Learning Modern 3D Graphics Programming](https://bitbucket.org/alfonse/gltut/wiki/Home) 作者：**杰森·麦克森**
-* [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) 由 **Light House 3D**
-* [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) 通过 **汤姆达林**
-* [OpenGL Examples](https://github.com/McNopper/OpenGL) 通过 **诺伯特·诺珀**
-* [OpenGL Step by Step](http://ogldev.atspace.co.uk) 来自 **伊泰美日**
-* [OpenGL Tutorial](https://open.gl) **亚历山大·奥弗沃德**
-* [OpenGL Tutorial](http://antongerdelan.net/opengl/index.html) 作者：**安东·格德兰**
-* [OpenGL Tutorial](http://www.opengl-tutorial.org) 作者 **Bonder Wu**
-* [OpenGL Tutorial](http://www.songho.ca/opengl) 作者 **Song Ho Ahn**
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) by **David Lettier**
+* [Learn OpenGL](https://learnopengl.com) by **Joey de Vries**
+* [Learning Modern 3D Graphics Programming](https://bitbucket.org/alfonse/gltut/wiki/Home) by **Jason L. McKesson**
+* [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) by **Light House 3D**
+* [Modern OpenGL](http://www.tomdalling.com/blog/category/modern-opengl) by **Tom Dalling**
+* [OpenGL Examples](https://github.com/McNopper/OpenGL) by **Norbert Nopper**
+* [OpenGL Step by Step](http://ogldev.atspace.co.uk) by **Etay Meiri**
+* [OpenGL Tutorial](https://open.gl) by **Alexander Overvoorde**
+* [OpenGL Tutorial](http://antongerdelan.net/opengl/index.html) by **Anton Gerdelan**
+* [OpenGL Tutorial](http://www.opengl-tutorial.org) by **Bonder Wu**
+* [OpenGL Tutorial](http://www.songho.ca/opengl) by **Song Ho Ahn**
 
 ## Related lists
 
-*类似的精彩列表*
-* [awesome](https://github.com/sindresorhus/awesome) - 精选的精选清单.
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - 精选的计算机视觉资源列表.
-* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - 很棒的 WebGL 库、资源等精选列表.
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - 精选的 Vulkan 项目和生态系统列表.
-* [gamedev](https://github.com/ellisonleao/magictools) - 关于游戏开发的精彩列表.
+*Similar awesome lists*
+* [awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+* [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+* [gamedev](https://github.com/ellisonleao/magictools) - A awesome list about game development.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
 
@@ -153,7 +153,7 @@
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-这项工作已获得许可 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Contributing
-请参见 [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) 了解详情.
+Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
