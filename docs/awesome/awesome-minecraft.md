@@ -168,6 +168,7 @@
 - [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
 - [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for older or restrained PCs.
 - [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition.
+- [White Wolf Shader](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
 
 ## Web Applications
 
@@ -214,6 +215,7 @@
 - [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
 - [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+- [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 
 ## Development
 
