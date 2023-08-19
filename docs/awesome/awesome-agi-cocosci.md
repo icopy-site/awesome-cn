@@ -1972,11 +1972,11 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/) - ***Department of Statistics, UCLA***.
 
-* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***Department of Statistics, Department of Psychology, UCLA***.
+* [Tao Gao](http://www.stat.ucla.edu/~taogao/Taogao.html) - ***Department of Statistics, Department of Psychology, UCLA***, [Visual Intelligence Lab](http://www.stat.ucla.edu/~taogao/index.html) - ***UCLA***.
 
-* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***Department of Psychology, Department of Statistics, UCLA***.
+* [Hongjing Lu](https://www.psych.ucla.edu/faculty/page/hongjing) - ***Department of Psychology, Department of Statistics, UCLA***, [Computational Vision and Learning Lab (CVL)](http://cvl.psych.ucla.edu/) - ***UCLA***.
 
-* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***Department of Computer Science, UCLA***.
+* [Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/) - ***Department of Computer Science, UCLA***, [StarAI Lab](http://starai.cs.ucla.edu/#) - ***UCLA***.
 
 
 

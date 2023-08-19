@@ -116,7 +116,7 @@ System integration is the process of linking together different IT systems (com
 *Business Rules Engines and Business Rules Management Systems (BRMS) are software systems that allow organizations to define, manage, and execute business rules. These rules are used to automate decision-making processes, enforce business policies, and ensure regulatory compliance. A BRMS provides a way for organizations to centrally manage their business rules and make changes to them quickly and easily, without requiring changes to the underlying code. It is a valuable tool for businesses that need to be agile and respond quickly to changing market conditions.*
 - [Drools](https://github.com/kiegroup/drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 - [Easy Rules](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
-- [NxBRE](https://github.com/ddossot/NxBRE/wiki) - Open-source rule engine specifically designed for the .NET platform.
+- [NxBRE](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
 - [OpenL Tablets](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
 <!--lint disable-->
@@ -178,7 +178,7 @@ System integration is the process of linking together different IT systems (com
 <!--lint enable-->
 ### Integration Frameworks
 *The Integration frameworks section includes software tools and libraries that help developers implement and manage integration patterns in their applications. These frameworks are based on well-established Enterprise Integration Patterns (EIPs), which provide a standard vocabulary and architecture for designing and implementing integration solutions. The frameworks in this section can help simplify the process of integrating different systems, applications, and data sources by providing pre-built connectors, message routing, and transformation capabilities.*
-- [Apache Camel](https://github.com/apache/camel/) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
+- [Apache Camel](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 - [Ballerina](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
 - [Spring Integration](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
@@ -230,7 +230,7 @@ System integration is the process of linking together different IT systems (com
 *Managed File Transfer (MFT) solutions provide secure and reliable file transfer capabilities that help organizations meet regulatory compliance requirements, improve operational efficiency, and reduce the risk of data breaches. MFT software typically includes features such as encryption, digital signatures, user access controls, and detailed audit logs to ensure that data is transmitted securely and can be tracked throughout the transfer process.*
 - [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - A comprehensive solution for enterprises seeking to streamline file transfer processes. Its user-friendly interface and powerful capabilities provide an all-in-one MFT solution that can efficiently handle file transfers.
 - [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Designed to simplify file transfer services for businesses, this MFT solution offers advanced features and security measures to ensure secure and reliable data transfer.
-- [Cornerstone MFT](https://southrivertech.com/products/cornerstone/) - An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
+- [Titan MFT Server](https://southrivertech.com/titan-mft-server/) - An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
 - [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - A fast and scalable file transfer platform that offers advanced security features and flexible architecture. It is ideal for businesses that require a reliable and secure MFT platform.
 - [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - A comprehensive MFT solution that enables secure file exchange and management, providing a reliable and efficient way for businesses to transfer data with ease.
 - [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - A centrally managed MFT platform with powerful automation capabilities and advanced security features, capable of supporting all file transfer use cases. It is an ideal choice for businesses that require a comprehensive MFT solution.
@@ -258,7 +258,9 @@ System integration is the process of linking together different IT systems (com
 - [Apache RocketMQ](https://github.com/apache/rocketmq) - A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns.
 - [Apache Qpid](https://qpid.apache.org) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 - [BlazingMQ](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
+- [Centrifugo](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
 - [Eclipse Mosquitto](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
+- [EMQX](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
 - [IBM MQ](https://www.ibm.com/products/mq) - A robust enterprise-grade messaging system that enables safe and efficient communication between applications. Offers high availability and disaster recovery capabilities and supports multiple messaging protocols.
 - [KubeMQ](https://kubemq.io/) - A Kubernetes-based message broker and queue system designed for scalability, high availability, and security. Offers seamless integration with Kubernetes and supports various messaging patterns.
 - [NATS](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
@@ -679,7 +681,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 <details>
 <summary>SAP</summary>
   
-- [SAP Certified Development Associate - SAP Integration Suite](https://training.sap.com/certification/c_cpi_14) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
+- [SAP Certified Development Associate - SAP Integration Suite](https://training.sap.com/certification/c_cpi_15-sap-certified-development-associate---sap-integration-suite-g/) - Validates that the candidate possesses the fundamental and core knowledge required of the SAP Integration Suite profile.
   
 </details>
 <details>
