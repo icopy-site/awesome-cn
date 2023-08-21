@@ -700,6 +700,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.
 * [plug_sigaws](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
 * [plug_statsd](https://github.com/jeffweiss/plug_statsd) - A plug for automatically sending timing and count metrics to statsd.
+* [pluggable](https://github.com/mruoss/pluggable) - Build `plug`-like pipelines with your own token (instead of `%Plug.Conn{}`).
 * [plugs](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 * [plugsnag](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 * [raygun](https://github.com/cobenian/raygun) - Capture bugs and send them to Raygun.
@@ -1862,6 +1863,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) - A Elixir cheat sheet, by Andy Hunt & Dave Thomas.
 * [Elixir Code Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - A catalog of Elixir-specific code smells that can harm the quality of software developed using this language.
 * [Elixir Functional Programming](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+* [Elixir Refactorings](https://github.com/lucasvegi/Elixir-Refactorings) - A catalog of refactoring strategies to promote the redesign and improve the quality of code developed with Elixir.
 * [Elixir School](https://elixirschool.com/) - Lessons about the Elixir programming language.
 * [Elixir Tab](https://github.com/efexen/elixir-tab) - Chrome Extension which helps you learn the Elixir core lib.
 * [Elixir vs Ruby | How Switching To Elixir Made Our Team Better](https://foxbox.com/blog/elixir-vs-ruby/) - Long-form post that explains in detail when and why you should choose Elixir over Ruby.
