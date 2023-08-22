@@ -20,6 +20,7 @@ A curated list of awesome niche job boards.
 * [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
+* [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
 
 ## Blockchain
 
@@ -87,10 +88,6 @@ A curated list of awesome niche job boards.
 ### Clojure
 
 * [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
-
-### Full-Stack
-
-* [Full-Stack Developer Jobs](https://fullstackjob.com/) - Job board for Full-Stack Developers
 
 ### Functional
 
@@ -180,7 +177,6 @@ A curated list of awesome niche job boards.
 
 ## Tech
 
-* [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 * [Fossfox](https://fossfox.com/) - Opportunities to work with companies that embrace open-source
@@ -206,3 +202,4 @@ A curated list of awesome niche job boards.
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 * [Privacy-First Jobs](https://privacyfirstjobs.com/) – Jobs in privacy-first companies and organisations.
+* [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, PMs, & other tech professionals, live aggregator of 600 companies' job boards, updated daily.

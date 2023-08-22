@@ -32,6 +32,9 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Name | Description | Address | Domain Name |
 |:---- | :--- | :---: | :--- |
 | ZeroSitesX | Sites of ZeroNetX | `1SitesVCdgNfHojzf2aGKQrD4dteAZR1k` | `Sites.ZeroNetX.bit` |
+| ZeroSites | Sites of ZeroNet | `1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB` | `Sites.ZeroNetwork.bit` |
+| ZeroWiki | ZeroWiki site list | `138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:list-of-zites` | N/A |
+| Search And Index Zites | Site directory by Krixano | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A |
 
 ### Chat Rooms
 
@@ -77,6 +80,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Name | Description | Address | Domain Name |
 | :--- | :--- | :---: | :--- |
+| NGnoidTV | Video site, also named KopyKate | `18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh` | big.kopykate.bit |
 | Play | Movie torrents | `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` | `0play.bit` |
 
 ### ID Providers
@@ -85,6 +89,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | ZeroId | Sample trusted authorization provider | `1iD5ZQJMNXu43w1qLB8sfdHVKppVMduGz` | `zeroid.bit` | :heavy_check_mark: | :heavy_check_mark: |
 | KaffieId | Decentralized ID provider | `1K3tM7irQqSX4Hx3JvNgkimkQzY6jPtBfz` | `kaffie.bit` | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| GateWay | Manually approved ID by Caryoscelus | `144vF644nw3X9dUb4uqsethDjjskhkpavH` | N/A | :heavy_check_mark: | :heavy_check_mark: |
 
 ### Productivity Tools
 
@@ -98,6 +103,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- | :---: | :--- |
 | Privact blocklist | Blocks websites with external files | `18zoKfKYPnVBuHtKpK1mhAuVsWXV72obA1` | N/A |
 | Kaffie's Spamlist | Mute/ban list for spammers |`1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A |
+| Pornography blocklist | ZeroNet pornography blocklist | `13CgSQeywg2ius5pjXVCk7dKUCRkz5xvW3` | N/A |
 
 ### Entertaining Zites
 
@@ -182,6 +188,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- |
 | Original ZeroNet installation guide **Note: Original ZeroNet is not maintained anymore** | https://github.com/HelloZeroNet/ZeroNet#how-to-join |
 | ZeroNetX installation guide | https://github.com/ZeroNetX/ZeroNet#how-to-join |
+| Zeronet-Conservancy installation guide | https://github.com/zeronet-conservancy/zeronet-conservancy#how-to-join |
 
 ### Site Development
 
@@ -208,6 +215,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 - ZeroNet community on Reddit https://reddit.com/r/zeronet
 - ZeroNet community on Matrix https://matrix.to/#/#zeronetx:matrix.org
+- ZeroNet community on Session https://sessioncommunities.online/#zeronet+c975
 
 ## Footnotes
 
