@@ -1982,15 +1982,15 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 ### UC Berkeley
 
-* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
+* [Anca Dragan](https://people.eecs.berkeley.edu/~anca/index.html) - ***Department of Electrical Engineering and Computer Science, UC Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***UC Berkeley***.
 
-* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***UCB***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***Department of Psychology, UCB***.
+* [Fei Xu](https://psychology.berkeley.edu/people/fei-xu) - ***Department of Psychology, UC Berkeley***, [Berkeley Early Learning Lab (Xu Lab)](https://babylab5.wixsite.com/bell) - ***UC Berkeley***.
 
-* [Alison Gopnik](http://alisongopnik.com/) - ***UCB***, [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***Department of Psychology, UCB***.
+* [Alison Gopnik](http://alisongopnik.com/) - ***Department of Psychology, UC Berkeley***, [Cognitive Development & Learning Lab (Gopnik Lab)](http://www.gopniklab.berkeley.edu/) - ***UC Berkeley***.
 
-* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) - ***UCB***, [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***Department of Psychology, UCB***.
+* [Steve Piantadosi](http://colala.berkeley.edu/people/piantadosi/) - ***Department of Psychology, UC Berkeley***, [The computation and language lab (colala)](http://colala.berkeley.edu/) - ***UC Berkeley***.
 
-* [Celeste Kidd](http://www.celestekidd.com/) - ***UCB***, [Kidd Lab](https://www.kiddlab.com/) - ***Department of Psychology, UCB***.
+* [Celeste Kidd](http://www.celestekidd.com/) - ***Department of Psychology, UC Berkeley***, [Kidd Lab](https://www.kiddlab.com/) - ***UC Berkeley***.
 
 
 
