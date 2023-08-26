@@ -1998,9 +1998,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 ### UCSD
 
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***Department of Computer Science, UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
 
-* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***Department of Psychology, UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
 
 

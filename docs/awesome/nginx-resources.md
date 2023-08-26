@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="fcambus/nginx-resources"></div>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-涵盖 Nginx、Nginx + Lua、OpenResty 和 Tengine 的资源集合.
+A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
-该列表由以下人员维护 [Frederic Cambus](https://www.cambus.net) . 如需更新，请在 Twitter 上关注我： [@fcambus](https://twitter.com/fcambus)
+This list is maintained by [Frederic Cambus](https://www.cambus.net). For updates, follow me on Twitter: [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -104,6 +104,17 @@
 - [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
 - [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua)
 
+## Nginx + njs
+- [njs scripting language reference and examples](https://nginx.org/en/docs/njs/)
+- [Collection of njs use cases](https://github.com/f5devcentral/nginx-njs-usecases)
+- [JavaScript embedded on NGINX - Getting started with njs](https://www.bluedoa.com/javascript-embedded-on-nginx-getting-started-with-njs/)
+- [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
+- [Make your nginx config even more modular and reusable with njs 0.7.7](https://www.nginx.com/blog/make-nginx-config-even-more-modular-reusable-njs-0-7-7/)
+- [Diagnostic logging with the NGINX JavaScript module](https://www.nginx.com/blog/diagnostic-logging-nginx-javascript-module/)
+- [How to log request headers with NGINX and njs](https://wildwolf.name/how-to-log-request-headers-with-nginx-and-njs/)
+- [Using NGINX as an Object Storage Gateway via njs](https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/)
+- [Easy HTTPS with NGINX and ACME via njs](https://steinkamp.us/posts/2023-08-10_easy-https-with-nginx)
+
 ## OpenResty
 
 - [OpenResty - Fast web app server by extending Nginx](https://openresty.org/en/)
@@ -137,4 +148,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
