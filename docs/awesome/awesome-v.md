@@ -58,6 +58,7 @@
 
 ### Interpreters/Compilers
 
+- [cotowali](https://github.com/cotowali/cotowali) - A statically typed scripting language that transpiles into POSIX sh.
 - [monkey_v](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 - [stas](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 - [v](https://github.com/vlang/v) - V itself. Simple, fast, safe, compiled language for developing maintainable software.
@@ -86,6 +87,10 @@
 - [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
 - [vproto](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+
+### Utilities
+
+- [emoji-mart-desktop](https://github.com/ttytm/emoji-mart-desktop) - An emoji picker created with V, webview and SvelteKit.
 
 ### Web
 
@@ -164,7 +169,7 @@
 - [viup](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
 - [vsdl](https://github.com/kjlaw89/vsdl) - V wrapper for the C-based SDL library.
 - [vsdl2](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
-- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writting programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
+- [vsl.vcl](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 
 ### IRC
 
@@ -227,7 +232,8 @@
 - [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 - [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
 - [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
-- [VWebui](https://github.com/webui-dev/v-webui) - V Library that makes easy creating WebUI.
+- [V-WebUI](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
+- [webview](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
 
 ### Utility
 
@@ -317,6 +323,7 @@
 
 - [V Playground](https://play.vlang.io)
 - [V Playground (old)](https://v-wasm.now.sh/)
+- [VOSCA V Playground](https://play.vosca.dev)
 
 ### Operating Systems & OS Development Examples
 

@@ -3,17 +3,17 @@
 
 [<img src="https://construct-static.com/images/v861/r/global/construct-3-logo_v130.png" align="right" width="100">](https://www.construct.net/)
 
- &gt; 你可以创造你梦想的游戏. 构建大脑发痒的谜题、令人惊叹的平台游戏和身临其境的角色扮演游戏——或者打破陈规，创造新事物.
-&gt; 创造你想要的，你想要的方式 [Construct](https://www.construct.net).
+> You can create the game of your dreams. Build brain tickling puzzles, stunning platformers and immersive RPGs - or break the mould and make something new.
+> Create what you want, how you want with [Construct](https://www.construct.net).
 >
-&gt; — <cite>Ashley（Scirra 创始人）</cite>
+> — <cite>Ashley (Scirra Founder)</cite>
 
-此列表包括与出色的游戏开发引擎相关的所有最佳工具、教程和示例 [Construct 2](https://www.scirra.com/construct2) 和 [Construct](https://www.construct.net).
+This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 <p align="center">  
-   :sparkles:<a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">比较 Construct 2 和 Construct 3</a> :sparkles:
+   :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
 </p>
 
 
@@ -30,65 +30,66 @@
 
 ## Games Showcase
 - [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
-- [Games on itch.io](https://itch.io/games/tag-construct-2/tag-construct-3) - 使用该引擎制作的 itch.io 游戏列表.
-- [Games made with Construct](https://www.madewithconstruct.com/) - 一个列出所有使用该引擎制作的游戏的网站.
+- [Games on itch.io](https://itch.io/games/tag-construct-2/tag-construct-3) - List of itch.io games made with the engine.
+- [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
 ## Hosting
-- [itch.io](http://www.itch.io) - 托管、展示、推广或销售您的游戏的平台 - **免费**.
-- [GitHub Pages](http://pages.github.com) - 将导出游戏托管为静态网站的平台 - **免费**.
-- [Surge](https://surge.sh/) - 将导出游戏托管为静态网站的平台 - **免费/付费**.
-- [Vercel](https://vercel.com/) - 将导出游戏托管为静态网站或云功能的平台 - **免费/付费**.
-- [Netlify](https://www.netlify.com/) - 将导出游戏托管为静态网站的平台 - **免费/付费**.
+- [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
+- [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
+- [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
+- [Vercel](https://vercel.com/) - Platform where to host an exported game as a static website or cloud functions - **Free/Paid**.
+- [Netlify](https://www.netlify.com/) - Platform where to host an exported game as a static website - **Free/Paid**.
 
 ## Tools
-- [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - Rex.Rainbow 的个人插件管理器.
-- [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - 使用 Construct 2 开发应用程序 [开发中]
+- [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
+- [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps [in development]
 
 ## Export 
-- [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - 使用 Electron 而不是 NW.js 导出游戏.
-- [Chowdren](https://mp2.dk/chowdren/) - Clickteam Fusion 和 Scirra Construct 的运行速度极快.
+- [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
+- [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
+- [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## Plugins/Behaviors/Effects
-- [[Kyatric] C2 插件和行为列表](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - 完整列表论坛上提供的插件和行为.
-- [[Kyatric] WebGL 效果列表](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - 论坛上可用的完整效果列表.
+- [[Kyatric] C2 Plugins and Behaviors List](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - Complete list of Plugins and Behaviours available on the forums.
+- [[Kyatric] WebGL Effects List](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - Complete list of Effects available on the forums.
 
 ## Tutorials
 ### YouTube
 
-- [[ArcadEdGames] Construct 2 教程](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - 关于制作各种东西的 YouTube 频道.
-- [[ScirraVideos] Construct 2 教程](https://www.youtube.com/user/ScirraVideos/playlists) - Scirra 的官方 YouTube 频道.
-- [[C2Tuts 2D 游戏开发] Construct 2 教程](https://www.youtube.com/playlist?list=PLGdBDrsyOPm9XGiq1w_8DvbEQbHmkn7fx) - 一般教程.
-- [[Nicholas Dingle] Construct 2 教程](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - 教程数量涵盖您可以创建的不同游戏和不同技巧.
-- [[John Maksym] Construct 2 教程系列](https://www.youtube.com/playlist?list=PLq6aUvz66jtfnuyOKnPXO5dZly6CB8naA) - 一般教程.
-- [[ConstructG] 使用 Construct 2 创建简单的平台游戏](https://www.youtube.com/playlist?list=PLxwakQrJudt_NQlMp6oVuBdB-WIDKgoQ3) - 关于如何制作平台游戏的教程.
-- [[Diego Lizarazo] Construct 2 教程](https://www.youtube.com/user/kanedarkon/videos?view=0&amp;flow=grid&amp;sort=da) - 随机内容.
-- [[English Acorn] Construct 2 - 教程](https://www.youtube.com/playlist?list=PLusL6SZZRaWr4zqm6GrQHmOuShwtypRJ5) - 关于编辑器界面的一般教程.
-- [[English Acorn] Construct 2 - 插件和对象](https://www.youtube.com/playlist?list=PLusL6SZZRaWqP6UmVPs9Ml8BRo2t-wvnT) - 关于插件及其在编辑器中的工作方式的教程.
-- [[游戏开发] Construct 2 - 教程](https://www.youtube.com/channel/UCCR955dujboBxEN2VJlZwJw/playlists) - 一般教程.
-- [[thenewboston] Game Development w/ Construct 2 Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAfHxsK6bji7trLS-N0nKF-) - thenewboston Game Development 的官方播放列表.
-- [[thenewboston] 平台游戏开发 w/ Construct 2 播放列表](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX) - thenewboston 平台游戏开发的官方播放列表.
-- [[thenewboston] Physics Puzzle Game Development w/ Construct 2 播放列表](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDexNbWi0uPBP6buduUZO3Q) - thenewboston Physics Puzzle Game Development Tutorials 的官方播放列表.
-- [[LividProductions] 平台游戏教程](https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7) - 本系列将教您如何制作平台游戏.
-- [[Jerementor] Construct 2 教程](https://www.youtube.com/channel/UCQkYeiHm9URZsa7nugUg1lw/playlists) - 一般教程.
-- [[Kawaerri] Scirra Construct 2 教程](https://www.youtube.com/playlist?list=PLdn9X5UVD8H1dEcWVjYU9E5fbpPGjZnQv) - 一般教程.
-- [[玩家 Z] - 教程列表](https://www.youtube.com/channel/UCXIcG5r9W_Iw6dui35g9oLQ/playlists) - 一般教程.
-- [[TodaysTuts] Construct 2 - 行为](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - 关于行为的教程.
-- 让我们制作游戏：[[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [ [Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - 关于如何制作特定游戏的教程.
-- [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - 了解如何创建 Brakeout 游戏.
+- [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff.
+- [[ScirraVideos] Construct 2 Tutorials](https://www.youtube.com/user/ScirraVideos/playlists) - Official Scirra's YouTube channel.
+- [[C2Tuts 2D Game Development] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLGdBDrsyOPm9XGiq1w_8DvbEQbHmkn7fx) - General tutorials.
+- [[Nicholas Dingle] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLsJBMeqEdtggBJBiuX8bnF10ewHjdE20e) - Number of tutorials covering different games you can create and different tricks.
+- [[John Maksym] Construct 2 Tutorial Series](https://www.youtube.com/playlist?list=PLq6aUvz66jtfnuyOKnPXO5dZly6CB8naA) - General tutorials.
+- [[ConstructG] Create Simple Platformer Game With Construct 2](https://www.youtube.com/playlist?list=PLxwakQrJudt_NQlMp6oVuBdB-WIDKgoQ3) - Tutorial about how to make a platformer game.
+- [[Diego Lizarazo] Construct 2 Tutorials](https://www.youtube.com/user/kanedarkon/videos?view=0&flow=grid&sort=da) - Random stuff.
+- [[English Acorn] Construct 2 - Tutorials](https://www.youtube.com/playlist?list=PLusL6SZZRaWr4zqm6GrQHmOuShwtypRJ5) - General tutorials about the editor interface.
+- [[English Acorn] Construct 2 - Plugins and Objects](https://www.youtube.com/playlist?list=PLusL6SZZRaWqP6UmVPs9Ml8BRo2t-wvnT) - Tutorials about plugins and how they work inside the Editor.
+- [[Game Development] Construct 2 - Tutorials](https://www.youtube.com/channel/UCCR955dujboBxEN2VJlZwJw/playlists) - General tutorials.
+- [[thenewboston] Game Development w/ Construct 2 Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAfHxsK6bji7trLS-N0nKF-) - The official playlist for thenewboston Game Development.
+- [[thenewboston] Platform Game Development w/ Construct 2 Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX) - Official playlist for thenewboston Platform Game Development.
+- [[thenewboston] Physics Puzzle Game Development w/ Construct 2 Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDexNbWi0uPBP6buduUZO3Q) - The official playlist for thenewboston Physics Puzzle Game Development Tutorials.
+- [[LividProductions] Platformer Tutorials](https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7) - This series will teach you how to make a platformer.
+- [[Jerementor] Construct 2 Tutorials](https://www.youtube.com/channel/UCQkYeiHm9URZsa7nugUg1lw/playlists) - General tutorials.
+- [[Kawaerri] Scirra Construct 2 Tutorial](https://www.youtube.com/playlist?list=PLdn9X5UVD8H1dEcWVjYU9E5fbpPGjZnQv) - General tutorials.
+- [[Gamer Z] - Tutorial List](https://www.youtube.com/channel/UCXIcG5r9W_Iw6dui35g9oLQ/playlists) - General tutorials.
+- [[TodaysTuts] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
+- Let's Make Games: [[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [[Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
+- [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
 
 ### Other Sources
 
-- [[MVA] 使用 Construct 2 进行游戏开发（基础）](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - 关于制作的基础课程游戏.
-- [[MVA] 使用 Construct 2 开发 Windows 10 游戏（高级）](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335 ) - 关于制作游戏的高级课程.
-- [[Udemy FREE!] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - 在 HTML5 中创建 Pixel Platformer.
-- [[TutPlus] Construct 2 教程](https://gamedevelopment.tutsplus.com/categories/construct-2) - 一般教程.
+- [[MVA] Game Development with Construct 2 (Basic)](https://mva.microsoft.com/en-US/training-courses/game-development-with-construct-2-8355) - Basic course about making games.
+- [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
+- [[Udemy FREE!] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
+- [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
 
 ## E-Books
-- [Level Zero](https://www.construct.net/blogs/construct-official-blog-1/level-zero-free-construct-2-book-853) - 关于如何制作游戏的完整书籍.
+- [Level Zero](https://www.construct.net/blogs/construct-official-blog-1/level-zero-free-construct-2-book-853) - Complete book on how to make games.
 
 ## Useful Links
-- [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - 用于创建游戏中使用的资产的资源和工具：图形、建模、动画、音频、音乐、视频、地图等.
-- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - “*网络上最大的游戏开发资源列表*”.
+- [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
+- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
