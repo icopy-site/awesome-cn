@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="beardicus/awesome-plotters"></div>
 ## Awesome Plotters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-计算机控制绘图机和其他视觉艺术机器人的代码和资源的精选列表.
+A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 
 
 
@@ -9,177 +9,178 @@
 
 ### Plotters
 
-- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - 笔式绘图仪 [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
-- [Line-us](https://www.line-us.com) - 一个可爱的小启动机器人绘图臂.
-- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 可 3D 打印的 AxiDraw 克隆，带有运行 grbl 固件的 Arduino CNC Shield 控制器.
-- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - 另一个可 3D 打印的 AxiDraw 克隆，带有运行 grbl 固件的 Arduino CNC Shield 控制器.
-- [WaterColorBot](https://watercolorbot.com) - XY 艺术机器人和用水彩颜料绘图的软件.
-- [EggBot](https://egg-bot.com) - 用于蛋形和球形物体的笔式绘图仪.
-- [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  - 来自 HPGL 标准创建者的老式台式和落地笔式绘图仪.  7475A 型号非常常见，通常可以在 eBay 上找到.
-- [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg)  - 老式平板 HPGL 笔式绘图仪. 在 eBay 上搜索“roland dxy”.
-- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/)  - 一个廉价而简单的绘图仪，由棍子、伺服系统和运行 Python 的 Raspberry Pi 制成. 这是 [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) 来自创造者.
-- [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - 一个相当简单的 3D 打印 AxiDraw 风格绘图仪，具有良好的视频文档.
+- [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
+- [Line-us](https://www.line-us.com) - A cute little kickstarted robotic drawing arm.
+- [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) - Yet another 3d-printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
+- [WaterColorBot](https://watercolorbot.com) - XY art robot and software to plot with watercolor paints.
+- [EggBot](https://egg-bot.com) - Pen plotter for egg-shaped and spherical objects.
+- [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24) - Vintage desktop and floor-standing pen plotters from the creator of the HPGL standard. Model 7475A is very common and can usually be found on eBay.
+- [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) - Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
+- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
+- [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) - 转动所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc) 使用 grbl 固件将其转换为基于 G 代码的运动控制器.  ([adafruit](https://www.adafruit.com/product/1750))
-- [TinyG](https://github.com/synthetos/TinyG)  - 功能更强大、更强大的基于 G 代码的 6 轴运动控制硬件.  ([adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 适用于 Arduino 的 Grbl 兼容步进电机控制扩展板，类似于 grblShield.
-- [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  - 带步进控制器和运行 grbl 的微控制器的 Raspberry Pi 附加板. 与 Pi 的串行引脚接口.
-- [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - 基于 USB 的双步进电机控制器板，最初为 EggBot 设计.
+- [grblShield](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+- [TinyG](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
+- [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
+- [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - USB-based dual stepper motor controller board, originally designed for the EggBot.
 
 ### Accessories
 
-- [WiFi232](http://biosrhythm.com/?page_id=1453)  - 通过 DB25 插头将 Wifi 转为 RS-232 串行. 无线控制您的串行绘图仪.
-- [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf)  - 适用于大多数 HP 和 Roland 绘图仪的绘图仪电缆示意图. 在 eBay 或 Amazon 上搜索“DB9 至 DB25 串行零调制解调器电缆”或类似产品，即可找到待售产品.
+- [WiFi232](http://biosrhythm.com/?page_id=1453) - Wifi to RS-232 serial via a DB25 plug. Control your serial plotter wirelessly.
+- [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf) - Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for `DB9 to DB25 Serial Null Modem Cable` or similar to find them for sale.
 
 ### Pens
 
-- [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3D 打印适配器，适合 HP-GL 绘图仪中的标准 Sharpie.
-- [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - 适用于各种笔的可调节模型打印适配器.
-- [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - 短标准绘图笔和长标准绘图笔的精确 STL 模型.
-- [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - 适合一般绘图仪滥用的笔列表.
-- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - 针对鸡蛋和玻璃的笔建议，但仍然普遍适用的信息.
-- [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - 对许多白色墨水笔的全面回顾，并附有其覆盖特性的图片.
+- [Sharpie Fine Point Plotter Adapter](https://www.printables.com/model/156721-sharpie-fine-point-plotter-adapter) - 3d-printed adapter to fit a standard Sharpie in an HP-GL plotter.
+- [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.xyz/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) - Adjustable model to print adapters for various pens.
+- [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
+- [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - List of pens suitable for general plotter abuse.
+- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - Egg- and glass-focused pen recommendations but still generally applicable information.
+- [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
 
 ## Software
 
 ### HPGL
 
-HPGL 是一种基于串行/文本的协议，大多数旧笔式绘图仪甚至许多新的乙烯基切割机都使用该协议.
+HPGL is a serial/text-based protocol used by most old pen plotters, and even many new vinyl cutters.
 
-- [Chiplotle](https://github.com/drepetto/chiplotle) - 用于生成 HPGL 并与串行绘图仪连接的 Python 库.
-- [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - 基于 HTML 的 HPGL 参考.
-- [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - 包含完整 HPGL 参考的扫描 PDF 手册.
-- [djipco/hpgl](https://github.com/djipco/hpgl) - 一个 Node.js 库，用于与 HPGL 兼容的绘图仪和打印机进行通信.
-- [hp2xx](https://www.gnu.org/software/hp2xx)  - 将 HPGL 转换为其他矢量和光栅格式的 GNU 工具. 也可以用作X11中的预览.
-- [vec](https://github.com/anachrocomputer/vec) - 用于生成带有海龟图形界面的 HPGL 的示例 C 代码.
-- [d3-hpgl](https://github.com/aubergene/d3-hpgl) - HTML Canvas API 的适配器，因此您可以使用流行的输出 HPGL [D3](https://d3js.org) 图书馆.
-- [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - 使用 JavaScript 和 HTML5 画布的 HPGL 查看器.
-- [HPGL Sender](https://github.com/LgHS/hpgl-sender) - 用于预览 HPGL 并将其发送到绘图仪的 Web 界面.
-- [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - 用于编写 HPGL 文件的处理库.
+- [Chiplotle](https://github.com/drepetto/chiplotle) - Python library for generating HPGL and interfacing with serial plotters.
+- [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) - HTML-based HPGL Reference.
+- [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) - Scanned PDF manual that contains a full HPGL reference.
+- [djipco/hpgl](https://github.com/djipco/hpgl) - A Node.js library to communicate with HPGL-compatible plotters and printers.
+- [hp2xx](https://www.gnu.org/software/hp2xx) - GNU tool to convert HPGL into other vector and raster formats. Can also be used as a previewing in X11.
+- [vec](https://github.com/anachrocomputer/vec) - Example C code for generating HPGL, with a turtle graphics interface.
+- [d3-hpgl](https://github.com/aubergene/d3-hpgl) - An adapter for the HTML Canvas API so you can output HPGL using the popular [D3](https://d3js.org) library.
+- [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
+- [HPGL Sender](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
+- [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
 
 ### G-code
 
- G 代码是用于控制 CNC 机床的基于文本的标准. 尽管它是为工业机器设计的，但它在许多爱好者 3D 打印机固件中的使用使其在小型 DIY 项目中也无处不在.
+G-code is a text-based standard for controlling CNC machines. Though it was designed for industrial machines, its use in many hobbyist 3d printer firmwares has made it ubiquitous in small-scale DIY projects as well.
 
-- [grbl](https://github.com/grbl/grbl) - 适用于 Atmega 328 微控制器和 Arduino 的高性能 G 代码解释固件.
-- [cncjs](https://github.com/cncjs/cncjs) - 基于网络的界面，控制运行 grbl、TinyG 或其他基于 G 代码的固件的 CNC 机器.
-- [node-gcode](https://github.com/ryansturmer/node-gcode) - Node.js G 代码解释器和模拟器.
-- [svg2gcode](https://github.com/em/svg2gcode) - 用于将 SVG 转换为 G 代码的 Node.js 命令行实用程序.
-- [svg2gcode](https://github.com/vishpat/svg2gcode) - 用于将 SVG 快速转换为 G 代码的 Python 实用程序.
-- [jscut](http://jscut.org/) - 一个基于 Web 的实用程序，用于将 SVG 转换为 G 代码.
-- [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - 基于 Java 的 grbl 兼容跨平台 G 代码发送器.
-- [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - 基于网络的模块化工作区，用于可视化 G 代码和控制硬件.
-- [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing)  - 处理库，旨在从简单的形状创建 gcode.  （专为与 Creality CR10 配合使用而设计）
-- [gcodeplot](https://github.com/arpruss/gcodeplot) - 用于将 SVG 和 HPGL 转换为 3 轴 CNC 机床的 G 代码的 Python 实用程序.
+- [grbl](https://github.com/grbl/grbl) - A high-performance G-code interpreting firmware for the Atmega 328 microcontroller and Arduino.
+- [cncjs](https://github.com/cncjs/cncjs) - A web-based interface controlling CNC machines running grbl, TinyG, or other G-code-based firmware.
+- [node-gcode](https://github.com/ryansturmer/node-gcode) - Node.js G-code interpreter and simulator.
+- [svg2gcode](https://github.com/em/svg2gcode) - Node.js command line utility for converting SVG to G-code.
+- [svg2gcode](https://github.com/vishpat/svg2gcode) - Python utility for fast SVG to G-code conversion.
+- [jscut](http://jscut.org/) - A web-based utility for converting SVG to G-code.
+- [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) - Java-based grbl-compatible cross-platform G-code sender.
+- [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) - Modular web-based workspaces to visualize G-code and control hardware.
+- [gcode-generative-for-processing](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
+- [gcodeplot](https://github.com/arpruss/gcodeplot) - Python utility to convert SVG and HPGL to G-code for a 3-axis CNC machine.
 
 ### Plotter Control
 
-用于控制绘图仪硬件的软件.
+Software for controlling plotter hardware.
 
-- [axidraw](https://github.com/evil-mad/axidraw) - Inkscape 的官方 AxiDraw 扩展.
-- [axi](https://github.com/fogleman/axi) - AxiDraw v3 的非官方 Python 库.
-- [xy](https://github.com/fogleman/xy) - Makeblock XY 绘图仪机器人套件的​​实用程序.
-- [LaserGRBL](https://github.com/arkypita/LaserGRBL)  - 针对 grbl 控制器的激光优化 Windows GUI. 可重新用于 DIY 笔式绘图仪，使用螺线管进行笔向上/向下运动.
-- [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - 直接从 Inkscape 将绘图发送到 Line-us 绘图仪.
-- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Line-us 绘图仪基于 G 代码的 API 的示例代码.
-- [@beardicus/line-us](https://github.com/beardicus/line-us) - 用于从 Node 或浏览器控制 Line-us 机器的 JavaScript 库.
-- [PenPlotter](https://github.com/RickMcConney/PenPlotter) - 使用重复器固件的极谱仪控制器.
-- [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Makelangelo 极坐标图机器人的固件.
-- [RoboPaint](https://github.com/evil-mad/robopaint) - WaterColorBot 软件.
-- [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - 处理中 AxiDraw 的海龟图形.
-- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - 针对 grbl 控制器的绘图仪优化 Windows GUI，具有 SVG 和 DXF 导入功能，以及灵活的笔向上/向下控制.
-- [saxi](https://github.com/nornagon/saxi)  - AxiDraw 的驱动程序和库. 使用恒定加速度运动规划并自动调整纸张大小.
-- [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - 用于将 HPGL 转换为 Graphtec 的 GPGL 格式的软件，以及用于 Graphtec 绘图仪笔适配器的 CAD 文件.
-- [Inkcut](https://github.com/inkcut/inkcut) - 用于控制 2D 绘图仪、切割机、雕刻机和 CNC 机器的应用程序.
+- [axidraw](https://github.com/evil-mad/axidraw) - Official AxiDraw extensions for Inkscape.
+- [axi](https://github.com/fogleman/axi) - Unofficial Python library for the AxiDraw v3.
+- [xy](https://github.com/fogleman/xy) - Utilities for the Makeblock XY Plotter Robot Kit.
+- [LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser-optimized Windows GUI for grbl controllers. Could be repurposed for DIY pen plotters that use a solenoid for pen up/down movements.
+- [Line-us Inkscape Plugin](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
+- [Line-us API Examples](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
+- [@beardicus/line-us](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
+- [PenPlotter](https://github.com/RickMcConney/PenPlotter) - Polargraph controller that uses repetier firmware.
+- [Makelangelo-firmware](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
+- [RoboPaint](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
+- [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
+- [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+- [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
+- [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
+- [Inkcut](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ### Vector Creation
 
-从头开始或通过从其他格式转换来创建矢量图稿的工具.
+Tools to create vector artwork from scratch or by conversion from other formats.
 
-- [Inkscape](https://inkscape.org) - 流行的跨平台开源矢量图形编辑器.
-- [p5.js](https://p5js.org) - “JavaScript 库使艺术家、设计师、教育工作者和初学者可以轻松编码”.
-- [Paper.js](http://paperjs.org) - “矢量图形脚本的瑞士军刀”.
-- [ln](https://github.com/fogleman/ln) - 用 Go 编写的基于矢量的 3D 渲染器.
-- [autotrace](https://github.com/autotrace/autotrace) - 将位图图像转换为矢量图形.
-- [stipplegen](https://github.com/evil-mad/stipplegen)  - 从位图图像创建有趣的点画.  ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-- [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - “SquiggleDraw 将从图像创建 SVG 文件，使用亮度来改变正弦波的幅度”.
-- [svgurt](https://svgurt.com) - 基于网络的 PNG 到 SVG 创意面条机.
-- [maptrace](https://github.com/mzucker/maptrace) - 通过跟踪光栅图像生成无懈可击的多边形矢量图.
-- [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - 创建用于绘图机器人的 G 代码.
-- [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - 将 PNG 图像转换为 SVG 线条图.
-- [Ribbon](https://github.com/fogleman/ribbon) - 用 Go 编写的蛋白质带状图.
-- [penplot](https://github.com/mattdesl/penplot) - JavaScript 绘图仪艺术的开发环境.
-- [penkit](https://github.com/paulgb/penkit) - 用于创建基于线的 SVG 图形的 Python 库.
-- [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - 生成可绘制 PDF 的示例处理代码.
+- [Inkscape](https://inkscape.org) - Popular cross-platform open source vector graphics editor.
+- [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
+- [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
+- [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
+- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+- [stipplegen](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
+- [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+- [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
+- [maptrace](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
+- [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
+- [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
+- [Ribbon](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
+- [penplot](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
+- [penkit](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+- [generativeExamples](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 - [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
-- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - 生成线条艺术网络应用程序.
-- [scribbleplot](https://github.com/bleeptrack/scribbleplot) - 处理中的乱写图像转换.
-- [Maker.js](https://maker.js.org) - 用于为 CNC 和激光切割机创建 2D 矢量绘图的库.
-- [Turtletoy](https://turtletoy.net) - 基于浏览器的 JavaScript 海龟图形 API，具有 SVG 导出功能.
-- [cozyvec](https://github.com/brubsby/cozyvec) - 用于绘图仪艺术和推文绘图的网络/独立终端环境.
-- [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - 一个 [Observable](https://observablehq.com/) 笔记本集合充满了绘图仪导向的工作.
-- [PlotterFun](https://mitxela.com/plotterfun/) - 基于浏览器的图像到 SVG 转换器，类似于 SquiggleDraw.
-- [SVG.js](https://svgjs.dev/) - 用于创建、操作和动画 SVG 的无依赖轻量级库.
-- [Components AI](https://components.ai/) - 用于探索生成空间的实验计算设计平台.
-- [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - 用于将图像转换为线条图的跨平台软件.
-- [linedraw](https://github.com/LingDong-/linedraw) - 将图像转换为粗略矢量线图的 Python 工具.
-- [plotter.vision](https://plotter.vision/)  - 交互式网站，用于删除 STL 文件的隐藏线以生成可绘制的 SVG. 还支持红/蓝 3D 眼镜.
+- [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
+- [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
+- [scribbleplot](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
+- [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
+- [Turtletoy](https://turtletoy.net) - Browser-based JavaScript turtle graphics API with SVG export.
+- [cozyvec](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
+- [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) - An [Observable](https://observablehq.com/) notebook collection full of plotter-oriented work.
+- [PlotterFun](https://mitxela.com/plotterfun/) - Browser-based Image to SVG converter similar to SquiggleDraw.
+- [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
+- [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
+- [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+- [linedraw](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+- [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 
 ### Vector Utilities
 
-用于操作和优化基于矢量的文件格式的工具.
+Tools to manipulate and optimize vector-based file formats.
 
-- [svgsort](https://github.com/inconvergent/svgsort) - 绘制 SVG 文件的路径规划，减少提笔移动的时间.
-- [svgo](https://github.com/svg/svgo) - 基于 Node.js 的工具，用于优化 SVG 文件.
-- [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - 优化极坐标图的绘制方案.
-- [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - SVG 优化器，使用车辆路径解算器来最大限度地减少绘图时间.
-- [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - 仅适用于 Chrome 的书签，用于从 HTML 文档中提取 SVG.
-- [vpype](https://github.com/abey79/vpype) - 以绘图仪为中心的基于 Python 的 CLI 实用程序，用于生成和操作 SVG，包括缩放和优化路径.
-- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - 一个基于浏览器的工具，用于使用不同的基元、自定义形状或其他 SVG 裁剪 SVG.
+- [svgsort](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
+- [svgo](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
+- [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
+- [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+- [svg-crowbar](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
+- [vpype](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+- [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
 
 ### Fonts
 
-单行矢量字体或“雕刻字体”.
+Single-line vector fonts or "engraving fonts".
 
 - [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - Good information and links to other resources and fonts.
-- [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  - 60 年代的矢量字体“.fnt”格式. 包括对字体原始数据格式的良好概述.
-- [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - Hershey 字体的 C 库和原始字体数据.
-- [svg-fonts](https://gitlab.com/oskay/svg-fonts) - SVG 格式的单行字体，主要用于 [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape 插件.
-- [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - 基于浏览器的好时文本工具，可导出为 SVG.
+- [Hershey Vector Font](http://paulbourke.net/dataformats/hershey) - `.fnt` format of vector fonts from the 60s. Includes a good overview of the original data format of the fonts.
+- [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+- [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
+- [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 
 ## Inspiration, Instruction, and Research
 
-博客文章、文章、教程、图库、视频等等.
+Blog posts, articles, tutorials, galleries, videos, et cetera.
 
-- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - 有关旧 HPGL 绘图仪入门的好信息.
-- [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - 另一篇有关现代笔式绘图仪的入门文章.
-- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - 向量路径编程的一些基础知识，包括排序、连接和简化.
-- [On Generative Algorithms](https://inconvergent.net/generative) - 有趣算法的 13 部分精彩演练.
-- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - 罗兰平板绘图仪快速入门指南.
-- [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - 有趣算法的详细解释和示例.
-- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - 和绘图艺术家.
-- [Hektor](http://juerglehni.com/works/hektor) - 2002 年最初的基于电缆的绘图机器人.
-- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - 创建用于绘图的生成图形的两部分介绍.
-- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - 使用 Python 和 penplot 深入研究表面投影和隐藏线去除.
-- [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - 创建基于线的分形图形的技术.
-- [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - 旅行推销员问题（单路径）艺术资源.
-- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - STL 文件线框删除的讨论和代码链接.
-- [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - 很多不错的提示，并非全部特定于 Axidraw，还有一些钢笔评论和方便的 3D 打印工具.
-- [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - AxiDraw 及其克隆的良好概述，以及一些 DIY 选项.
-- [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - 2022 年现代绘图仪的精彩视频介绍.
-- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - 关于绘图仪社区新颖工作流程的研究论文（[Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
-- [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - 带有火星地形绘图仪输出的沉浸式数字装置.
-- [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - 精彩视频展示了通过 HP 85 计算机操作 HP 7470A.
-- [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - HP 7475A 绘制一些演示的视频.
-- [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - 视频展示如何打开、清洁和填充老式 HP 绘图笔.
-- [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Commodore 1520 绘图仪的运行视频，包括该机构的掩护镜头.
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
+- [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - Another getting started article with modern pen plotters.
+- [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
+- [On Generative Algorithms](https://inconvergent.net/generative) - Nice 13-part walkthrough of interesting algorithms.
+- [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
+- [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - Detailed explanation and examples of an interesting algorithm.
+- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - OG plotter artist.
+- [Hektor](http://juerglehni.com/works/hektor) - The original cable-based drawbot from 2002.
+- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
+- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
+- [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - Techniques for creating line-based fractal graphics.
+- [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
+- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
+- [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
+- [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
+- [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
+- [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
+- [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
+- [Tech Tangents: Plotting For The First Time - HP 7470A](https://www.youtube.com/watch?v=tk4c4WMZJZ8) - Nice video showing an HP 7470A operated from an HP 85 computer.
+- [CuriousMarc: HP 7475A Plotter and HPGL Demo](https://www.youtube.com/watch?v=Tr7Mbw9gLpk) - Video of an HP 7475A plotting some demos.
+- [CuriousMarc: Refilling or Replacing Vintage HP Plotter Pens](https://www.youtube.com/watch?v=h-oj4HrTH14) - Video showing how to open, clean, and refill vintage HP plotter pens.
+- [Commodore 1520 Plotter Demonstration](https://www.youtube.com/watch?v=QwPTluBvKLU) - Video of the Commodore 1520 plotter in action, including a cover-off shot of the mechanism.
 - [Vera Molnar: Toward Aesthetic Guidelines for Paintings with the Aid of a Computer](https://rednoise.org/softas/uploads/molnar.pdf)
 
 ## Manuals and Ephemera
 
-扫描的绘图仪手册和营销蜉蝣，大部分来自 [Internet Archive](https://archive.org)
+Scanned plotter manuals and marketing ephemera, mostly from the [Internet Archive](https://archive.org)
 
 ### Manuals
 
@@ -225,40 +226,40 @@ HPGL 是一种基于串行/文本的协议，大多数旧笔式绘图仪甚至�
 - [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
 - [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 - [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
-- [[未知品牌] LP 2002 照片绘图仪附件操作手册（德语）](https://archive.org/details/lp-2002-betriebsanleitung/) - 另请参阅 [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) 附有该设备的图片.
+- [[Unknown Brand] LP 2002 Photo Plotter Attachment Operating Manual (German)](https://archive.org/details/lp-2002-betriebsanleitung/) - Also see [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) with pictures of this device.
 
 ### Ephemera
 
 - [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
-- [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - 多篇有关 HP 9872A 和 7221A 笔式绘图仪开发的文章.
-- [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - 多篇有关 HP 7580A 型绘图仪开发的文章.
-- [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - 多篇有关 HP 7580A 型绘图仪开发的文章.
+- [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - Multiple articles about the development of the HP Model 9872A and 7221A pen plotters.
+- [Hewlett-Packard Journal Volume 32 Number 10](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._10_1981-10_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
+- [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
 - [CalComp Precision Graphics System 900/728 Brochure (1970)](https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196)
 - [Digital Plotting Newsletter (1967)](https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114)
 - [Versatec Printers and Plotters Brochure (1977)](https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009)
 - [Versatec Printer/Plotters, Plotters and Output Systems (1981)](https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057)
-- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - 第 36 页上的_计算机和绘图仪取代绘图桌和铅笔_文章（PDF 第 40 页）.
+- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - _Computers and Plotters Take the Place of Drafting Tables and Pencils_ article on page 36 (PDF page 40).
 - [Omega-t Systems FasPlot Plotter Brochure](https://archive.org/details/TNM_Omega-t_Systems_-_FasPlot_Plotter_20170630_0254)
 - [Commodore Computer Plotter CBM 8075 Brochure (German)](https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE)
 - [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)
 - [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
-- [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - 一本关于绘图仪和数字化仪的书.
+- [Auerbach On Digital Plotters And Image Digitizers (1972)](https://archive.org/details/auerbachondigitalplottersandimagedigitizers) - A book about plotters and digitizers.
 - [CalComp Graphics Products Brochure (1981)](https://archive.org/details/TNM_CalComp_graphics_products_plotters_and_printe_20171101_0032)
-- [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - 展示平板 CalComp 绘图仪及其输出的宣传视频.
+- [CalComp Plotters in 1968](https://www.youtube.com/watch?v=AAc4VLR6-Dg) - Promotional video showing a flatbed CalComp plotter and its output.
 - [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 - [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 - [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
 
 ## Community
 
-在哪里可以找到其他绘图仪和绘图机器人朋友.
+Where to find other plotter and drawbot friends.
 
 - [PlotterArt Subreddit](https://www.reddit.com/r/PlotterArt)
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
-- [Plotter People](https://plotterpeople.github.io/) - 面对面的聚会（目前为止是旧金山和纽约），包括演讲和绘图艺术画廊.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - 与活跃社区的不和谐论坛.
-- [PlotterFiles](https://plotterfiles.com/) - 用于共享绘图仪 SVG 文件的社区.
+- [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
+- [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 - #PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 
 ## Plotter Art For Sale

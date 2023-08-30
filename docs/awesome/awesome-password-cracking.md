@@ -1,16 +1,16 @@
 <div class="github-widget" data-repo="n0kovo/awesome-password-cracking"></div>
 ## Awesome Password Cracking	 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-在密码分析和计算机安全中，密码破解是从计算机系统中以加密形式存储或传输的数据中恢复密码的过程. 一种常见的方法（[brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack)) 是反复尝试猜测密码，并根据密码的可用加密哈希检查它们.
+In cryptanalysis and computer security, password cracking is the process of recovering passwords from data that has been stored in or transmitted by a computer system in scrambled form. A common approach ([brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack)) is to repeatedly try guesses for the password and to check them against an available cryptographic hash of the password.
 
-这是一个精选的工具、研究、论文和其他与密码破解和密码安全相关的项目的精选列表 [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo/?l).
+This is a curated list of awesome tools, research, papers and other projects related to password cracking and password security by [@n0kovo@infosec.exchange](https://infosec.exchange/@n0kovo/?l).
 
 
-Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/blob/main/CONTRIBUTING.md) 在贡献之前！ 简而言之：
+Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/blob/main/CONTRIBUTING.md) before contributing! In short:
 
-- 列表按字母顺序排序
-- 如有疑问，请使用 [awesome-lint](https://github.com/sindresorhus/awesome-lint)
-- 如果您认为某个项目不应该出现在这里 [open an issue](https://github.com/narkopolo/awesome-password-cracking/issues/new)
+- List is alphabetically sorted
+- If in doubt, use [awesome-lint](https://github.com/sindresorhus/awesome-lint)
+- If you think an item shouldn't be here [open an issue](https://github.com/narkopolo/awesome-password-cracking/issues/new)
 
 
 
@@ -19,183 +19,188 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ## Books
-- [Hash Crack: Password Cracking Manual (v3)](https://www.amazon.com/-/en/Joshua-Picolet/dp/1793458618) - 密码破解手册 v3 是密码恢复（破解）方法、工具和分析技术的扩展参考指南.
+- [Hash Crack: Password Cracking Manual (v3)](https://www.amazon.com/-/en/Joshua-Picolet/dp/1793458618) - Password Cracking Manual v3 is an expanded reference guide for password recovery (cracking) methods, tools, and analysis techniques.
 
 
 
 ## Cloud
-- [Cloud_crack](https://github.com/lordsaibat/Cloud_crack) - 使用 Terraform 和 AWS 破解密码.
-- [Cloudcat](https://github.com/stormfleet/cloudcat) - 用于自动创建用于哈希破解的云基础设施的脚本.
-- [Cloudstomp](https://github.com/Fmstrat/cloudstomp) - 通过插件以最低的价格在 EC2 上自动部署实例，用于高 CPU/GPU 应用程序.
-- [Cloudtopolis](https://github.com/JoelGMSec/Cloudtopolis) - 一种有助于在 Google Cloud Shell 平台上安装和配置 Hashtopolis 的工具，快速且完全无人值守（而且免费！）.
-- [NPK](https://github.com/c6fc/npk) - NPK 是一个分布式哈希破解平台，完全由 AWS 中的无服务器组件构建，包括 Cognito、DynamoDB 和 S3.
-- [Penglab](https://github.com/mxrch/penglab) - 滥用 Google Colab 破解哈希.
-- [Rook](https://github.com/JumpsecLabs/Rook) - 自动创建用于基于 GPU 的密码破解的 AWS p3 实例.
+- [Cloud_crack](https://github.com/lordsaibat/Cloud_crack) - Crack passwords using Terraform and AWS.
+- [Cloudcat](https://github.com/stormfleet/cloudcat) - A script to automate the creation of cloud infrastructure for hash cracking.
+- [Cloudstomp](https://github.com/Fmstrat/cloudstomp) - Automated deployment of instances on EC2 via plugin for high CPU/GPU applications at the lowest price.
+- [Cloudtopolis](https://github.com/JoelGMSec/Cloudtopolis) - A tool that facilitates the installation and provisioning of Hashtopolis on the Google Cloud Shell platform, quickly and completely unattended (and also, free!).
+- [NPK](https://github.com/c6fc/npk) - NPK is a distributed hash-cracking platform built entirely of serverless components in AWS including Cognito, DynamoDB, and S3.
+- [Penglab](https://github.com/mxrch/penglab) - Abuse of Google Colab for cracking hashes.
+- [Rook](https://github.com/JumpsecLabs/Rook) - Automates the creation of AWS p3 instances for use in GPU-based password cracking.
 
 
 ## Conversion
-- [7z2hashcat](https://github.com/philsmd/7z2hashcat) - 从受密码保护的 .7z 档案（和 .sfx 文件）中提取信息，以便您可以使用 hashcat 破解这些“哈希”.
-- [MacinHash](https://github.com/jmagers/MacinHash) - 将 macOS plist 密码文件转换为密码破解者的哈希文件.
-- [NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - 将 John The Ripper/Cain 格式的哈希（单个或批量）转换为 HashCat 兼容的哈希格式.
-- [Rubeus-to-Hashcat](https://github.com/PwnDexter/Rubeus-to-Hashcat) - 将 Rubeus kerberoasting 输出转换/格式化为 hashcat 可读格式.
-- [WINHELLO2hashcat](https://github.com/Banaanhangwagen/WINHELLO2hashcat)  - 使用此工具可以从 WINDOWS HELLO PIN 中提取“哈希”. 这个哈希可以用 Hashcat 破解.
-- [bitwarden2hashcat](https://github.com/0x6470/bitwarden2hashcat) - 将 Bitwarden 的数据转换为适合 hashcat 的哈希的工具.
-- [hc\_to\_7z](https://github.com/philsmd/hc_to_7z) - 将 7-Zip hashcat 哈希转换回 7z 档案.
-- [hcxtools](https://github.com/ZerBea/hcxtools) - 用于将 cap/pcap/pcapng（gz 压缩）WiFi 转储文件转换为 hashcat 格式的便携式解决方案.
-- [itunes_backup2hashcat](https://github.com/philsmd/itunes_backup2hashcat) - 从 Manifest.plist 文件中提取所需的信息，将其转换为与 hashcat 兼容的哈希值.	
-- [mongodb2hashcat](https://github.com/philsmd/mongodb2hashcat) - 从 MongoDB 数据库服务器中提取哈希为 hashcat 接受的哈希格式：-m 24100 (SCRAM-SHA-1) 或 -m 24200 (SCRAM-SHA-256).
+- [7z2hashcat](https://github.com/philsmd/7z2hashcat) - Extract information from password-protected .7z archives (and .sfx files) such that you can crack these "hashes" with hashcat.
+- [MacinHash](https://github.com/jmagers/MacinHash) - Convert macOS plist password file to hash file for password crackers.
+- [NetNTLM-Hashcat](https://github.com/ins1gn1a/NetNTLM-Hashcat) - Converts John The Ripper/Cain format hashes (singular, or in bulk) to HashCat compatible hash format.
+- [Rubeus-to-Hashcat](https://github.com/PwnDexter/Rubeus-to-Hashcat) - Converts / formats Rubeus kerberoasting output into hashcat readable format.
+- [WINHELLO2hashcat](https://github.com/Banaanhangwagen/WINHELLO2hashcat) - With this tool one can extract the "hash" from a WINDOWS HELLO PIN. This hash can be cracked with Hashcat.
+- [bitwarden2hashcat](https://github.com/0x6470/bitwarden2hashcat) - A tool that converts Bitwarden's data into a hashcat-suitable hash.
+- [hc\_to\_7z](https://github.com/philsmd/hc_to_7z) - Convert 7-Zip hashcat hashes back to 7z archives.
+- [hcxtools](https://github.com/ZerBea/hcxtools) - Portable solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats.
+- [itunes_backup2hashcat](https://github.com/philsmd/itunes_backup2hashcat) - Extract the information needed from the Manifest.plist files to convert it to hashes compatible with hashcat.	
+- [mongodb2hashcat](https://github.com/philsmd/mongodb2hashcat) - Extract hashes from the MongoDB database server to a hash format that hashcat accepts: -m 24100 (SCRAM-SHA-1) or -m 24200 (SCRAM-SHA-256).
 
 
 
 ## Hashcat
-*[Hashcat](https://github.com/hashcat/hashcat) 是“世界上最快、最先进的密码恢复实用程序”. 以下是以某种方式与 Hashcat 直接相关的项目. *
+*[Hashcat](https://github.com/hashcat/hashcat) is the "World's fastest and most advanced password recovery utility." The following are projects directly related to Hashcat in one way or another.*
 
-- [Autocrack](https://github.com/pry0cc/autocrack) - 一组客户端和服务器工具，用于自动和轻松地自动破解哈希.
-- [docker-hashcat](https://github.com/dizcza/docker-hashcat) - 适用于 Ubuntu 18.04 CUDA、OpenCL 和 POCL 的最新 hashcat docker.
-- [hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - Hashcat.launcher 是一个运行和控制 hashcat 的跨平台 GUI 应用程序.
-- [Hashcat-Stuffs](https://github.com/xfox64x/Hashcat-Stuffs) - hashcat 列表和事物的集合.
-- [hashcat-utils](https://github.com/hashcat/hashcat-utils/) - 可用于高级密码破解的小型实用程序.
-- [Hashfilter](https://github.com/bharshbarger/Hashfilter) - 读取 hashcat potfile 并将不同类型解析为 sqlite 数据库.
-- [known_hosts-hashcat](https://github.com/chris408/known_hosts-hashcat) - 使用 hashcat 破解 ssh known_hosts 文件的指南和工具.
-- [pyhashcat](https://github.com/f0cker/pyhashcat) - 绑定到 libhashcat 的 Python C API.
+- [Autocrack](https://github.com/pry0cc/autocrack) - A set of client and server tools for automatically, and lightly automatically cracking hashes.
+- [docker-hashcat](https://github.com/dizcza/docker-hashcat) - Latest hashcat docker for Ubuntu 18.04 CUDA, OpenCL, and POCL.
+- [hashcat.launcher](https://github.com/s77rt/hashcat.launcher) - Hashcat.launcher is a cross-platform GUI app that run and control hashcat.
+- [Hashcat-Stuffs](https://github.com/xfox64x/Hashcat-Stuffs) - Collection of hashcat lists and things.
+- [hashcat-utils](https://github.com/hashcat/hashcat-utils/) - Small utilities that are useful in advanced password cracking.
+- [Hashfilter](https://github.com/bharshbarger/Hashfilter) - Read a hashcat potfile and parse different types into a sqlite database.
+- [known_hosts-hashcat](https://github.com/chris408/known_hosts-hashcat) - A guide and tool for cracking ssh known_hosts files with hashcat.
+- [pyhashcat](https://github.com/f0cker/pyhashcat) - Python C API binding to libhashcat.
 
 
 ### Automation
-- [autocrack](https://github.com/timbo05sec/autocrack) - Hashcat 包装器帮助自动化破解过程.
-- [hat](https://github.com/sp00ks-git/hat) - 一个用于常见单词列表和规则的自动化 Hashcat 工具，以加快在参与期间破解哈希的过程.
-- [hate_crack](https://github.com/trustedsec/hate_crack) - 通过 TrustedSec 团队的 Hashcat 自动化破解方法的工具.
-- [Naive hashcat](https://github.com/brannondorsey/naive-hashcat) - 朴素的 hashcat 是一个即插即用的脚本，它预先配置了朴素的、经过经验测试的、“足够好”的参数/攻击类型.
+- [autocrack](https://github.com/timbo05sec/autocrack) - Hashcat wrapper to help automate the cracking process.
+- [hat](https://github.com/sp00ks-git/hat) - An Automated Hashcat Tool for common wordlists and rules to speed up the process of cracking hashes during engagements.
+- [hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
+- [Naive hashcat](https://github.com/brannondorsey/naive-hashcat) - Naive hashcat is a plug-and-play script that is pre-configured with naive, emperically-tested, "good enough" parameters/attack types.
 
 ### Distributed cracking
-- [CrackLord](https://github.com/jmmcatee/cracklord) - 用于破解密码的队列和资源系统.
-- [fitcrack](https://github.com/nesfit/fitcrack) - 基于hashcat的分布式密码破解系统.
-- [Hashtopolis](https://github.com/hashtopolis/server) - 用于将 hashcat 任务分发到多台计算机的多平台客户端-服务器工具.
-- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI) - 用于 Hashtopolis API 的 CLI 工具，将一些 API 功能合并到动态 Python 包装器中.
-- [Kraken](https://github.com/arcaneiceman/kraken) - 多平台分布式暴力密码破解系统.
+- [CrackLord](https://github.com/jmmcatee/cracklord) - Queue and resource system for cracking passwords.
+- [fitcrack](https://github.com/nesfit/fitcrack) - A hashcat-based distributed password cracking system.
+- [Hashtopolis](https://github.com/hashtopolis/server) - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
+- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI) - CLI tool for Hashtopolis API incorporating some of the API functionality into a dynamic Python wrapper.
+- [Kraken](https://github.com/arcaneiceman/kraken) - A multi-platform distributed brute-force password cracking system.
 
 ### Rules
-- [clem9669 rules](https://github.com/clem9669/hashcat-rule) - hashcat 或 john 的规则.
-- [hashcat rules collection](https://github.com/narkopolo/hashcat-rules-collection) - 可能是目前最大的 hashcat 规则集.
-- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - 基于统计和行业规律的Hashcat密码破解规则.
-- [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - 来自 Kaonashi 项目（RootedCON 2019）的单词表、规则和掩码.
-- [nsa-rules](https://github.com/NSAKEY/nsa-rules) - 从破解密码生成的hashcat密码破解规则和掩码.
-- [nyxgeek-rules](https://github.com/nyxgeek/nyxgeek-rules) - Hashcat 和 John the Ripper 的自定义密码破解规则.
-- [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) - “破解所有密码的一条规则.或者至少我们希望如此.”
-- [OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - “我原来的 OneRuleToRuleThemAll hashcat 规则的改进和更新版本.”
-- [pantagrule](https://github.com/rarecoil/pantagrule) - 从现实世界中泄露的密码生成的大型 hashcat 规则集.
-- [squid rules](https://github.com/jakewnuk/HIBP-578M) - 根据 HIBPv7 测试的有效性排序的 Hashcat 规则.
+- [clem9669 rules](https://github.com/clem9669/hashcat-rule) - Rule for hashcat or john.
+- [hashcat rules collection](https://github.com/narkopolo/hashcat-rules-collection) - Probably the largest collection of hashcat rules out there.
+- [Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns.
+- [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) - Wordlist, rules and masks from Kaonashi project (RootedCON 2019).
+- [nsa-rules](https://github.com/NSAKEY/nsa-rules) - Password cracking rules and masks for hashcat generated from cracked passwords.
+- [nyxgeek-rules](https://github.com/nyxgeek/nyxgeek-rules) - Custom password cracking rules for Hashcat and John the Ripper.
+- [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) - "One rule to crack all passwords. or atleast we hope so."
+- [OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - "A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule."
+- [pantagrule](https://github.com/rarecoil/pantagrule) - Large hashcat rulesets generated from real-world compromised passwords.
+- [squid rules](https://github.com/jakewnuk/HIBP-578M) - Hashcat rules ordered by effectiveness from testing HIBPv7.
 
 ### Rule tools
-- [duprule](https://github.com/mhasbini/duprule) - 检测和过滤重复的 hashcat 规则.
-- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - 具有复杂多字节字符支持的下一代规则处理器，用于支持 Hashcat.
+- [duprule](https://github.com/mhasbini/duprule) - Detect & filter duplicate hashcat rules.
+- [ruleprocessorY](https://github.com/TheWorkingDeveloper/ruleprocessorY) - A next-gen Rule processor with complex multibyte character support built to support Hashcat.
 
 
 ### Web interfaces
-- [crackerjack](https://github.com/ctxis/crackerjack) - CrackerJack 是用 Python 开发的 Hashcat 的 Web GUI.
-- [CrackQ](https://github.com/f0cker/crackq) - 一个Python Hashcat破解队列系统.
-- [hashpass](https://github.com/dj-zombie/hashpass) - hashcat 的哈希破解 WebApp 和服务器.
+- [crackerjack](https://github.com/ctxis/crackerjack) - CrackerJack is a Web GUI for Hashcat developed in Python.
+- [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
+- [hashpass](https://github.com/dj-zombie/hashpass) - Hash cracking WebApp & Server for hashcat.
 - [Hashview](https://github.com/hashview/hashview) - A web front-end for password cracking and analytics.
-- [Wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone 的 Web 界面，用于使用 hashcat 破解密码.
-- [WebHashCat](https://github.com/hegusung/WebHashcat) - WebHashcat 是一个非常简单但高效的网页界面的 hashcat 密码破解工具.
+- [Wavecrack](https://github.com/wavestone-cdt/wavecrack) - Wavestone's web interface for password cracking with hashcat.
+- [WebHashCat](https://github.com/hegusung/WebHashcat) - WebHashcat is a very simple but efficient web interface for hashcat password cracking tool.
 
 
 
 ## John the Ripper
-*[John the Ripper](https://github.com/openwall/john) 是“可用于许多操作系统的开源密码安全审计和密码恢复工具”. 以下是以某种方式与开膛手约翰直接相关的项目. *
+*[John the Ripper](https://github.com/openwall/john) is "an Open Source password security auditing and password recovery tool available for many operating systems." The following are projects directly related to John the Ripper in one way or another.*
 
-- [BitCracker](https://github.com/e-ago/bitcracker) - BitCracker 是第一个用于使用 BitLocker 加密的内存单元的开源密码破解工具.
-- [johnny](https://github.com/openwall/johnny) - 开膛手约翰的 GUI 前端.
+- [BitCracker](https://github.com/e-ago/bitcracker) - BitCracker is the first open source password cracking tool for memory units encrypted with BitLocker.
+- [johnny](https://github.com/openwall/johnny) - GUI frontend to John the Ripper.
 
 
 
 ## Misc
-- [920mPasswordMasks](https://github.com/jakewnuk/920mPasswordMasks) - 从过滤到组中的 9.2 亿个泄露密码中提取的 Hashcat 密码掩码.
-- [hashgen](https://github.com/cyclone-github/hashgen) - Hashgen 是一个简单但非常快速的 CLI 哈希生成器，用 Go 编写，并为 Linux、Windows 和 Mac 交叉编译.
-- [hashID](https://github.com/psypanda/hashID) - 识别不同类型散列的软件.
-- [Name That Hash](https://github.com/HashPals/Name-That-Hash)  - 不知道它是什么类型的哈希？  Name That Hash 将命名该哈希类型！ 识别 MD5、SHA256 和 300 多种其他哈希值. 带有简洁的网络应用程序.
+- [920mPasswordMasks](https://github.com/jakewnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords filtered into groups.
+- [hashgen](https://github.com/cyclone-github/hashgen) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
+- [hashID](https://github.com/psypanda/hashID) - Software to identify the different types of hashes.
+- [Name That Hash](https://github.com/HashPals/Name-That-Hash) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
 
 
 ### Notable People
 - Alotdv - [Twitter](https://twitter.com/AlongExc).
-- 克莱姆9669 - [GitHub](https://github.com/clem9669).
+- Clem9669 - [GitHub](https://github.com/clem9669).
 - Coolbry95 - [GitHub](https://github.com/coolbry95) / [Twitter](https://twitter.com/coolbry95).
-- 达基基拉 - [GitHub](https://github.com/dakykilla) / [Twitter](https://twitter.com/dakykilla).
-- Droppermit - [GitHub](https://github.com/dropdeadfu) / [Twitter](https://twitter.com/dropdeadfu).
+- Dakykilla - [GitHub](https://github.com/dakykilla) / [Twitter](https://twitter.com/dakykilla).
+- Dropdeadfu - [GitHub](https://github.com/dropdeadfu) / [Twitter](https://twitter.com/dropdeadfu).
 - Epixoip - [GitHub](https://github.com/epixoip) / [Mastodon](https://infosec.exchange/@epixoip) / [Twitter](https://twitter.com/jmgosney).
-- 邪恶魔格 - [GitHub](https://github.com/evilmog/) / [Mastodon](https://infosec.exchange/@evilmog) / [Twitter](https://twitter.com/Evil_Mog).
-- 水化 - [GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze).
+- Evilmog - [GitHub](https://github.com/evilmog/) / [Mastodon](https://infosec.exchange/@evilmog) / [Twitter](https://twitter.com/Evil_Mog).
+- Hydraze - [GitHub](https://github.com/Hydraze) / [Mastodon](https://infosec.exchange/@hydraze) / [Twitter](https://twitter.com/Hydraze).
 - JakeWnuk - [GitHub](https://github.com/jakewnuk) / [Mastodon](https://infosec.exchange/@JakeWnuk).
-- 对比 23 - [GitHub](https://github.com/kontrast23) / [Twitter](https://twitter.com/marco_preuss).
+- Kontrast23 - [GitHub](https://github.com/kontrast23) / [Twitter](https://twitter.com/marco_preuss).
 - M3g9tr0n - [GitHub](https://github.com/m3g9tr0n) / [Twitter](https://twitter.com/m3g9tr0n).
-- 矩阵 - [GitHub](https://github.com/matrix) / [Twitter](https://twitter.com/gm4tr1x).
-- 荆棘 - [Twitter](https://twitter.com/mingadotcom).
-- 诺科沃 - [GitHub](https://github.com/n0kovo) / [Mastodon](https://infosec.exchange/@n0kovo) / [Twitter](https://twitter.com/n0kovos).
+- Matrix - [GitHub](https://github.com/matrix) / [Twitter](https://twitter.com/gm4tr1x).
+- Minga - [Twitter](https://twitter.com/mingadotcom).
+- N0kovo - [GitHub](https://github.com/n0kovo) / [Mastodon](https://infosec.exchange/@n0kovo) / [Twitter](https://twitter.com/n0kovos).
 - NSAKEY - [GitHub](https://github.com/NSAKEY) / [Twitter](https://twitter.com/_NSAKEY) / [Website](https://abigisp.com/).
-- 空模式 - [GitHub](https://github.com/NullMode) / [Mastodon](https://infosec.exchange/@nullmode_@twtr.plus) / [Twitter](https://twitter.com/nullmode_).
+- NullMode - [GitHub](https://github.com/NullMode) / [Mastodon](https://infosec.exchange/@nullmode_@twtr.plus) / [Twitter](https://twitter.com/nullmode_).
 - Paule965 - [Twitter](https://twitter.com/paule965).
-- 哲学家 - [GitHub](https://github.com/philsmd) / [Twitter](https://twitter.com/philsmd).
-- 罗伊斯威廉姆斯 - [GitHub](https://github.com/roycewilliams) / [Mastodon](https://infosec.exchange/@tychotithonus) / [Twitter](https://twitter.com/TychoTithonus).
+- Philsmd - [GitHub](https://github.com/philsmd) / [Twitter](https://twitter.com/philsmd).
+- Roycewilliams - [GitHub](https://github.com/roycewilliams) / [Mastodon](https://infosec.exchange/@tychotithonus) / [Twitter](https://twitter.com/TychoTithonus).
 - RuraPenthe - [GitHub](https://github.com/bitcrackcyber) / [Mastodon](https://infosec.exchange/@rurapenthe) / [Twitter](https://twitter.com/RuraPenthe0).
 - S3in!c - [GitHub](https://github.com/s3inlc) / [Mastodon](https://infosec.exchange/@s3inlc) / [Twitter](https://twitter.com/s3inlc).
-- 特恩鲁兹 - [GitHub](https://github.com/tehnlulz) / [Twitter](https://twitter.com/tehnlulz).
-- 修理工 - [GitHub](https://github.com/th3mechanic) / [Twitter](https://twitter.com/th3_m3chan1c).
-- 有毒的 - [Twitter](https://twitter.com/yiannistox).
-- 亡灵 - [GitHub](https://github.com/undeath).
-- Unix 忍者 - [GitHub](https://github.com/unix-ninja) / [Mastodon](https://infosec.exchange/@unix_ninja@twitterbridge.jannis.rocks) / [Twitter](https://twitter.com/unix_ninja).
-- 汗 - [GitHub](https://github.com/Xanadrel) / [Mastodon](https://infosec.exchange/@Xanadrel) / [Twitter](https://twitter.com/Xanadrel).
+- Tehnlulz - [GitHub](https://github.com/tehnlulz) / [Twitter](https://twitter.com/tehnlulz).
+- The_Mechanic - [GitHub](https://github.com/th3mechanic) / [Twitter](https://twitter.com/th3_m3chan1c).
+- ToXiC - [Twitter](https://twitter.com/yiannistox).
+- Undeath - [GitHub](https://github.com/undeath).
+- Unix-ninja - [GitHub](https://github.com/unix-ninja) / [Mastodon](https://infosec.exchange/@unix_ninja@twitterbridge.jannis.rocks) / [Twitter](https://twitter.com/unix_ninja).
+- Xan - [GitHub](https://github.com/Xanadrel) / [Mastodon](https://infosec.exchange/@Xanadrel) / [Twitter](https://twitter.com/Xanadrel).
 
 
 
 ## Websites
 
 ### Communities
-- [hashcat Forum](https://hashcat.net/forum/) - hashcat 开发者的论坛.
-- [Hashmob](https://hashmob.net/)  - 一个不断壮大的密码恢复社区，旨在成为密码学爱好者的协作中心. 巨大的单词列表集合和查找服务.
-- [Hashkiller Forum](https://forum.hashkiller.io/) - 拥有超过 20,000 名注册用户的密码破解论坛.
+- [hashcat Forum](https://hashcat.net/forum/) - Forum by the developers of hashcat.
+- [Hashmob](https://hashmob.net/) - A growing password recovery community aimed towards being a center point of collaboration for cryptography enthusiasts. Huge wordlist collection and a lookup service too.
+- [Hashkiller Forum](https://forum.hashkiller.io/) - A password cracking forum with over 20,000 registered users.
 
 ### Lookup services
-- [CMD5](https://www.cmd5.org/) - 提供在线MD5/sha1/mysql/sha256加解密服务.
-- [CrackStation](https://crackstation.net/) - 免费的散列查找服务也提供单词表.
-- [gohashmob](https://github.com/n0kovo/gohashmob) - Go CLI 应用程序使用 HashMob API 快速查找哈希.
-- [Hashes.com](https://hashes.com/) - 具有付费功能的哈希查找服务.
-- [Hashkiller](https://hashkiller.io/) - 带有论坛的散列查找服务.
-- [Online Hash Crack](https://www.onlinehashcrack.com/) - 云密码恢复服务.
+- [CMD5](https://www.cmd5.org/) - Provides online MD5 / sha1/ mysql / sha256 encryption and decryption services.
+- [CrackStation](https://crackstation.net/) - Free hash lookup service supplying wordlists as well.
+- [gohashmob](https://github.com/n0kovo/gohashmob) - Go CLI app to quickly lookup hashes using the HashMob API.
+- [Hashes.com](https://hashes.com/) - A hash lookup service with paid features.
+- [Hashkiller](https://hashkiller.io/) - A hash lookup service with a forum.
+- [Online Hash Crack](https://www.onlinehashcrack.com/) - Cloud password recovery service.
 
 
 
 ## Wordlist tools
-*用于分析、生成和操作词表的工具.*
+*Tools for analyzing, generating and manipulating wordlists.*
 
 ### Analysis
-- [PACK](https://github.com/iphelix/pack) - 为帮助分析密码列表而开发的一组实用程序，以便通过掩码、规则、字符集和其他密码特征的模式检测来增强密码破解.
-- [pcfg_cracker](https://github.com/lakiw/pcfg_cracker) - 该项目使用机器学习来识别用户的密码创建习惯.
-- [Pipal](https://github.com/digininja/pipal) - 密码分析器.
-- [PwdStat](https://github.com/jakewnuk/pwdstat) - 用于识别系统密码使用情况、创建密码掩码以及使用人类可读统计数据分析破解密码样本的工具，以帮助防御者.
-- [Graphcat](https://github.com/Orange-Cyberdefense/graphcat) - 根据密码破解结果生成图表.
+- [PACK](https://github.com/iphelix/pack) - A collection of utilities developed to aid in analysis of password lists in order to enhance password cracking through pattern detection of masks, rules, character-sets and other password characteristics.
+- [password-smelter](https://github.com/TheTechromancer/password-smelter) - Ingests passwords from hashcat, etc. and outputs to HTML, Markdown, XLSX, PNG, JSON. Dark and light themes supported. Compliments password-stretcher.
+- [password-stretcher](https://github.com/thetechromancer/password-stretcher) - Generate "disgusting quantities" of passwords from websites, files, or stdin. Compliments password-smelter.
+- [pcfg_cracker](https://github.com/lakiw/pcfg_cracker) - This project uses machine learning to identify password creation habits of users.
+- [Pipal](https://github.com/digininja/pipal) - THE password analyser.
+- [PwdStat](https://github.com/jakewnuk/pwdstat) - Tool for identifying systemic password usage, creating password masks, and analyzing cracked password samples with human readable statistics to help defenders.
+- [Graphcat](https://github.com/Orange-Cyberdefense/graphcat) - Generate graphs and charts based on password cracking result.
 
 ### Generation/Manipulation
 
-- [common-substr](https://github.com/sensepost/common-substr)  - 从输入文本中提取最常见子字符串的简单工具. 专为破解密码而设计.
-- [Crunch](https://sourceforge.net/projects/crunch-wordlist/)  - Crunch 是一个单词列表生成器，您可以在其中指定标准字符集或您指定的字符集.  Crunch 可以生成所有可能的组合和排列.
-- [CUPP](https://github.com/Mebus/cupp) - 一种工具，可让您通过用户分析数据（例如生日、昵称、地址、宠物或亲戚的名字等）生成词表.
-- [duplicut](https://github.com/nil0x42/duplicut) - 从 MASSIVE wordlist 中删除重复项，而不对其进行排序（用于基于字典的密码破解）.
-- [Gorilla](https://github.com/d4rckh/gorilla) - 用于生成单词列表或使用突变扩展现有单词列表的工具.
-- [Gramify](https://github.com/TheWorkingDeveloper/gramify) - 根据单词、字符或字符集创建 n-gram 单词列表，以用于离线密码攻击和数据分析.
-- [Elpscrk](https://github.com/D4Vinci/elpscrk) - Elpscrk 就像 cupp，但它基于排列和统计数据，同时具有内存效率.
-- [Keyboard-Walk-Generators](https://github.com/Rich5/Keyboard-Walk-Generators) - 生成用于破解的 Keyboard Walk 字典.
-- [kwprocessor](https://github.com/hashcat/kwprocessor) - 具有可配置的基本字符、键盘映射和路线的高级键盘行走生成器.
-- [maskcat](https://github.com/jakewnuk/maskcat) - 用于 Hashcat 掩码和密码破解的实用工具.
-- [maskprocessor](https://github.com/hashcat/maskprocessor/) - 具有按位置可配置字符集的高性能单词生成器.
-- [maskuni](https://github.com/flbdx/maskuni) - 一个独立的快速单词生成器，本着 hashcat 的掩码生成器的精神，支持 unicode.
-- [Mentalist](https://github.com/sc0tfree/mentalist)  - Mentalist 是用于自定义单词列表生成的图形工具. 它利用常见的人类范例来构建密码，并可以输出完整的单词列表以及与 Hashcat 和 John the Ripper 兼容的规则.
-- [Phraser](https://github.com/Sparell/Phraser) - Phraser 是一个短语生成器，使用 n-gram 和马尔可夫链来生成用于密码短语破解的短语.
-- [princeprocessor](https://github.com/hashcat/princeprocessor) - 使用 PRINCE 算法的独立密码候选生成器.
-- [Rephraser](https://github.com/travco/rephraser) - 基于 Python 的 Phraser 重新构想，使用马尔可夫链进行语言正确的密码破解.
-- [Rling](https://github.com/Cynosureprime/rling) - RLI Next Gen (Rling)，一种更快的多线程、功能丰富的替代品，可替代 hashcat 实用程序中的 rli.
-- [statsprocessor](https://github.com/hashcat/statsprocessor/) - 基于每个位置的马尔可夫链的单词生成器.
-- [TTPassGen](https://github.com/tp7309/TTPassGen) - 灵活且可编写脚本的密码字典生成器，支持暴力破解、组合、复杂规则模式等.
-- [token-reverser](https://github.com/dariusztytko/token-reverser) - 用于破解安全令牌的单词列表生成器.
-- [WikiRaider](https://github.com/NorthwaveSecurity/wikiraider) - WikiRaider 使您能够根据特定国家/地区的维基百科数据库生成词汇表.
+- [accent_permutator](https://github.com/cyclone-github/accent_permutator) - A tool to transform characters from ASCII / UTF-8 to accented characters such as "o" to "ò".
+- [anew](https://github.com/tomnomnom/anew) - Append lines from stdin to a file, but only if they don't already appear in the file. Outputs new lines to stdout too, making it a bit like a tee -a that removes duplicates.
+- [common-substr](https://github.com/sensepost/common-substr) - Simple tool to extract the most common substrings from an input text. Built for password cracking.
+- [Crunch](https://sourceforge.net/projects/crunch-wordlist/) - Crunch is a wordlist generator where you can specify a standard character set or a character set you specify. Crunch can generate all possible combinations and permutations.
+- [CUPP](https://github.com/Mebus/cupp) - A tool that lets you generate wordlists by user profiling data such as birthday, nickname, address, name of a pet or relative etc.
+- [duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking).
+- [Gorilla](https://github.com/d4rckh/gorilla) - Tool for generating wordlists or extending an existing one using mutations.
+- [Gramify](https://github.com/TheWorkingDeveloper/gramify) - Create n-grams of wordlists based on words, characters, or charsets to use in offline password attacks and data analysis.
+- [Elpscrk](https://github.com/D4Vinci/elpscrk) - Elpscrk is like cupp, but it's based on permutations and statistics while being memory efficient.
+- [Keyboard-Walk-Generators](https://github.com/Rich5/Keyboard-Walk-Generators) - Generate Keyboard Walk Dictionaries for cracking.
+- [kwprocessor](https://github.com/hashcat/kwprocessor) - Advanced keyboard-walk generator with configureable basechars, keymap and routes.
+- [maskcat](https://github.com/jakewnuk/maskcat) - Utility tool for Hashcat Masks and Password Cracking.
+- [maskprocessor](https://github.com/hashcat/maskprocessor/) - High-performance word generator with a per-position configureable charset.
+- [maskuni](https://github.com/flbdx/maskuni) - A standalone fast word generator in the spirit of hashcat's mask generator with unicode support.
+- [Mentalist](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
+- [Phraser](https://github.com/Sparell/Phraser) - Phraser is a phrase generator using n-grams and Markov chains to generate phrases for passphrase cracking.
+- [princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm.
+- [Rephraser](https://github.com/travco/rephraser) - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
+- [Rling](https://github.com/Cynosureprime/rling) - RLI Next Gen (Rling), a faster multi-threaded, feature rich alternative to rli found in hashcat utilities.
+- [statsprocessor](https://github.com/hashcat/statsprocessor/) - Word generator based on per-position markov-chains.
+- [StringZilla](https://github.com/ashvardanian/StringZilla) - Fastest string sort, search, split, and shuffle for long strings and multi-gigabyte files in Python and C.
+- [TTPassGen](https://github.com/tp7309/TTPassGen) - Flexible and scriptable password dictionary generator which supportss brute-force, combination, complex rule modes etc.
+- [token-reverser](https://github.com/dariusztytko/token-reverser) - Words list generator to crack security tokens.
+- [WikiRaider](https://github.com/NorthwaveSecurity/wikiraider) - WikiRaider enables you to generate wordlists based on country specific databases of Wikipedia.
 
 
 
@@ -203,39 +208,40 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ## Wordlists
 ### Laguage specific
 - [Albanian wordlist](https://github.com/its0x08/albanian-wordlist) - A mix of names, last names and some albanian literature.
-- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - 此工具可以按地区和/或用途（手机、固定电话等）生成丹麦电话号码的词表.对于破解密码或模糊丹麦语目标很有用.
-- [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) - 用于破解丹麦语密码的丹麦语词汇表集合.
-- [French Wordlists](https://github.com/clem9669/wordlists) - 该项目旨在提供有关人们可以用作基本密码的所有内容的法语单词列表.
+- [Danish Phone Wordlist Generator](https://github.com/narkopolo/danish_phone_wordlist_generator) - This tool can generate wordlists of Danish phone numbers by area and/or usage (Mobile, landline etc.) Useful for password cracking or fuzzing Danish targets.
+- [Danish Wordlists](https://github.com/narkopolo/danish-wordlists) - Collection of danish wordlists for cracking danish passwords.
+- [French Wordlists](https://github.com/clem9669/wordlists) - This project aim to provide french word list about everything a person could use as a base password.
 
 ### Other
-- [Packet Storm Wordlists](https://packetstormsecurity.com/Crackers/wordlists/page1/) - 多种语言的大量不同单词列表.
-- [Rocktastic](https://labs.nettitude.com/tools/rocktastic/) - 包括许多在野外观察到的密码和模式排列.
-- [RockYou2021](https://github.com/ohmybahgosh/RockYou2021.txt) - RockYou2021.txt 是一个由各种其他单词列表编译而成的 MASSIVE WORDLIST.
-- [WeakPass](https://weakpass.com/) - 大型词汇表的集合.
+- [Packet Storm Wordlists](https://packetstormsecurity.com/Crackers/wordlists/page1/) - A substantial collection of different wordlists in multiple languages.
+- [Rocktastic](https://labs.nettitude.com/tools/rocktastic/) - Includes many permutations of passwords and patterns that have been observed in the wild.
+- [RockYou2021](https://github.com/ohmybahgosh/RockYou2021.txt) - 	RockYou2021.txt is a MASSIVE WORDLIST compiled of various other wordlists.
+- [WeakPass](https://weakpass.com/) - Collection of large wordlists.
 
 
 
 ## Specific file formats
 ### PDF
-- [pdfrip](https://github.com/mufeedvh/pdfrip) - 多线程 PDF 密码破解实用程序，配备常见的密码格式生成器和字典攻击.
+- [pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 
 ### PEM
-- [pemcracker](https://github.com/bwall/pemcracker) - 破解加密 PEM 文件的工具.
+- [pemcracker](https://github.com/bwall/pemcracker) - Tool to crack encrypted PEM files.
 
 ### JKS
-- [JKS private key cracker](https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat) - 破解JKS文件中私钥条目的密码Cracking passwords of private key entries in a JKS file.
+- [JKS private key cracker](https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat) - Cracking passwords of private key entries in a JKS fileCracking passwords of private key entries in a JKS file.
 
 ### ZIP
-- [bkcrack](https://github.com/kimci86/bkcrack) - 使用 Biham 和 Kocher 已知的明文攻击破解旧版 zip 加密.
-- [frackzip](https://github.com/hyc/fcrackzip) - 破解加密 ZIP 压缩文件的小工具.
+- [bkcrack](https://github.com/kimci86/bkcrack) - Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+- [frackzip](https://github.com/hyc/fcrackzip) - Small tool for cracking encrypted ZIP archives.
 
 
 
 ## Artificial Intelligence
-- [adams](https://github.com/TheAdamProject/adams) - 通过深度学习和动态词典减少对真实世界密码强度建模的偏差.
-[](https://github.com/cupslab/neural_network_cracking) - 使用神经网络破解密码的代码.
-- [RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords) - 使用 char-rnn 学习和猜测密码.
-- [rulesfinder](https://github.com/synacktiv/rulesfinder) - 此工具为给定的字典和密码列表找到有效的密码修改规则（对于 John the Ripper 或 Hashcat）.
+- [adams](https://github.com/TheAdamProject/adams) - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries.
+[](https://github.com/cupslab/neural_network_cracking) - Code for cracking passwords with neural networks.
+- [RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords) - Using the char-rnn to learn and guess passwords.
+- [rulesfinder](https://github.com/synacktiv/rulesfinder) - This tool finds efficient password mangling rules (for John the Ripper or Hashcat) for a given dictionary and a list of passwords.
+- [PassGPT](https://github.com/javirandor/passgpt) - PassGPT is a GPT-2 model trained from scratch on password leaks.
 
 
 
@@ -253,6 +259,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries (2020)](https://arxiv.org/abs/2010.12269)
 - [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks (2016)](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 - [PassGAN: A Deep Learning Approach for Password Guessing (2017)](https://arxiv.org/pdf/1709.00440)
+- [PassGPT: Password Modeling and (Guided) Generation with LLMs](https://arxiv.org/abs/2306.01545)
 
 ### Talks
 - [BsidesKY2023 - Leveling Up Password Attacks with Breach Data](https://github.com/JakeWnuk/Security-Conferences/blob/main/BsidesKY2023%20-%20Leveling%20Up%20Password%20Attacks%20with%20Breach%20Data.pdf)
@@ -263,5 +270,5 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [Tailored, Machine Learning-driven Password Guessing Attacks and Mitigation at DefCamp](https://www.youtube.com/watch?v=iK6ZbD6v9Gg)
 - [UNHash - Methods for better password cracking](https://media.ccc.de/v/31c3_-_5966_-_en_-_saal_1_-_201412292245_-_unhash_-_methods_for_better_password_cracking_-_tonimir_kisasondi)
 - [USENIX Security '21 - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries](https://www.youtube.com/watch?v=Jvp3UTdCeag)
-- [USENIX Security &#39;16 - 快速、精益和准确：使用神经网络对密码可猜测性进行建模
+- [USENIX Security '16 - Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks
 ](https://www.youtube.com/watch?v=GgaZ_LxsL_8)
