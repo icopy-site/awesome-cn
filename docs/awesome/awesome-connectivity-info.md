@@ -117,7 +117,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) - Reasonably up-to-date list of mobile networks around the world and their associated frequencies.
 - [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - Updated:February 28, 2020.
 - [IPinfo.io - Country Pages](https://ipinfo.io/countries) - Summary of country-level IP data covering top ASNs, important routers, city-level information, carrier IPs, and other IP data.
-  
+- [Cloudflare Radar's Internet Quality Index](https://radar.cloudflare.com/quality) - Estimated country-level internet download speeds and performance.
 <!-- END RESOURCE LIST -->  
 
 ## License

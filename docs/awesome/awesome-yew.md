@@ -143,6 +143,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 
 - [Plotly.rs](https://github.com/igiagkiozis/plotly) - Rust bindings for the popular [Plotly](https://plotly.com/javascript/) charting library.
 - [ag-grid-rs](https://github.com/mfreeborn/ag-grid-rs) - Rust bindings for the [AG Grid](https://www.ag-grid.com/javascript-data-grid/) datatable library.
+- [popper-rs](https://github.com/ctron/popper-rs/) - [Popper JS](https://popper.js.org/) bindings for Rust.
 
 ### Utils
 
@@ -157,6 +158,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Yew-Template](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 - [yew-nested-router](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 - [turf](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
+- [browser-panic-hook](https://github.com/ctron/browser-panic-hook) - A panic handler for browser environments, allowing to fail in an end-user friendly way.
 
 ### Wasm
 
