@@ -2018,9 +2018,12 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 
-### Others
+### BNU
 
 * [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
+
+
+### Others
 
 * [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
 

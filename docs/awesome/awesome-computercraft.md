@@ -131,6 +131,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Krist Server](https://github.com/tmpim/Krist) -  A server for the Krist virtual currency, intended for use with CC and CC:T.
     - [KristForge](https://github.com/tmpim/kristforge) -  A miner for the Krist virtual currency.
     - [KristWeb2](https://github.com/tmpim/KristWeb2) -  A web wallet for Krist, written in React.
+- [Netmount](https://github.com/tmpim/netmountcc) - Configurable WebSocket and WebDAV remote storage solution.
 - [Ultron Control](https://gitlab.com/Merith-TK/ultron-control) -  A program which exposes a web API for controlling turtles.
 
 ### Emulators
