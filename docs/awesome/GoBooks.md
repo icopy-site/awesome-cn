@@ -1,13 +1,11 @@
 <div class="github-widget" data-repo="dariubs/GoBooks"></div>
-Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/dariubs/GoBooks/actions/workflows/main.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-====
+## Awesome Go Books
+
+[![Links](https://github.com/dariubs/GoBooks/actions/workflows/links.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/links.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-**Books**
-====
+## Starter Books
 
-**Starter Books**
-----
 ### 2018 - [Learning Go](https://www.miek.nl/go) *Free*
 
 <img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
@@ -154,6 +152,8 @@ In gRPC Go for Professionals, you'll begin by learning the core concepts such as
 
 ### 2023 - [Learn Go with Pocket-Sized Projects](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
 
+<img src="https://drek4537l1klr.cloudfront.net/latour/Figures/cover.jpg" width="120px"/>
+
 Learn Go with Pocket-Sized Projects teaches you to write professional-level Go code by creating handy tools and fun apps. Each small, self-contained project introduces important practical skills, including ensuring that your code is thoroughly tested and documented! You’ll make architectural decisions for your projects and organize your code in a maintainable way. Everything you learn is easy to scale-up to full-size Go applications.
 
 ### 2023 - [Go Faster](https://leanpub.com/gofaster)
@@ -181,8 +181,8 @@ In Shipping Go you will learn how to:
 
 
 
-**Advanced Books**
----
+## Advanced Books
+
 ### 2018 - [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51%2B8EdihuKL._SX404_BO1,204,203,200_.jpg" width="120px"/>
@@ -387,7 +387,7 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 
 ### 2022 - [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
 
-<a href="(https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
+<a href="https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
 
 Use Golang to create simple, maintainable systems to solve complex business problems.
 
@@ -401,7 +401,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 
 ### 2024 - [The Power of Go: Tools](https://bitfieldconsulting.com/books/tools)
 
-<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1673518599537-351B71KV6BG97TGS4DRW/cover.png?format=750w" width="120px"/></a>
+<a href="https://bitfieldconsulting.com/books/tools"><img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1692633122737-F5BODKTKIVDRHVEMY7Z4/cover+2024.png?format=1500w" width="120px"/></a>
 
 Go is a popular choice for writing DevOps and systems programs, and command-line tools in particular. How can we write simple, powerful, idiomatic, and even beautiful tools in Go? This book covers all the necessary techniques: functional options, flags and arguments, files and filesystems, executing commands, writing shells and pipelines, JSON and YAML wrangling, and even sophisticated API clients.
 
@@ -426,7 +426,7 @@ It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Comm
 The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
-### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
+### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) *Free*
 
 <img src="https://raw.githubusercontent.com/blasrodri/spaceship-go/master/src/img/cover.svg" width="120px"/>
 
@@ -447,8 +447,8 @@ This notebook has been designed to provide a reference to everything mentioned i
 
 
 
-**Web Development**
-----
+## Web Development
+
 ### 2019 - [Learn Data Structures and Algorithms with Golang](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
 
 <img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
@@ -459,7 +459,7 @@ By the end of the book, you'll have become adept at implementing classic data st
 ### 2020 - [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
 <a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
 
-A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) guidelines and how to implement them with Go and Docker.
+A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](https://12factor.net/) guidelines and how to implement them with Go and Docker.
 
 ### 2021 - [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
@@ -554,8 +554,7 @@ A good resource for start Building Web Apps with Go.
 Another awesome book for learning Web Development in Golang.
 
 
-Resources
-====
+## Resources
 
 ### [A tour of Go](https://tour.golang.org/)
 ### [Video: Learn Go Syntax in one video](https://www.youtube.com/watch?v=CF9S4QZuV30)
