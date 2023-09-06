@@ -68,6 +68,10 @@ It is written natively in ZSH, is well tested, and picks up where [Antibody](htt
 
 **Ax-ZSH** integrates well with [Powerlevel10k](https://github.com/romkatv/powerlevel10k) and other extensions, including plugins compatible with [oh-my-zsh](https://ohmyz.sh/).
 
+### [deer](https://github.com/ArtixLabs/deer)
+
+A minimalist ZSH plugin manager.
+
 ### [dotzsh](https://github.com/dotphiles/dotzsh)
 
 **Dotzsh** strives to be platform and version independent. Some functionality may be lost when running under older versions of ZSH, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OSes without problems.
