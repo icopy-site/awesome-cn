@@ -91,6 +91,7 @@
 - [Hatsumi](https://www.hatsumivr.com/) - A design studio developing experiences at the intersection of healthcare and art.
 - [Immers Space](https://web.immers.space/) - A Distributed Cooperative Organization (DisCO) focused on enabling open and federated immersive web content.
 - [Laguna Labs](https://lagunalabs.io/) - Immersive web tech agency.
+- [MetaVRse](https://metavrse.com/) - Enterprise-focused metaverse creation company. Parent company of MetaVRse Engine, MetaVRse Studio, and MetaVRse Properties such as TheMall.
 - [Playko Software](https://www.playko.com/) - VR/AR/WebXR agency and WebXR game development studio.
 - [REM5](https://www.rem5forgood.com/) - Digital immersive experience design studio specializing in education and social equity initiatives.
 - [Sketchfab](https://sketchfab.com/) - 3D model marketplace that offers a VR previewer.
@@ -112,6 +113,9 @@
 
 - [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
   - [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
+
+- [MetaVRse Engine](https://metavrse.com/engine) - Web-based tool designed to make XR and 3D content creation. No-code/low-code template system, automatic embedding for business and education.
+  - [Official Documentation](https://metavrse.com/api/index.html)
 
 - [Needle](https://needle.tools/) - An engine and exporter for Blender and Unity.
   - [Official Documentation](https://engine.needle.tools/docs/)

@@ -13,11 +13,11 @@ This is a JavaScript browser API that allows the creation of a payment stream fr
 ## About Web Monetization
 
 - [Webmonetization.org](https://webmonetization.org/)
-- [Documentation](https://webmonetization.org/docs/getting-started)
-- [How Web Monetization work for paying payments](https://webmonetization.org/docs/sending)
-- [How Web Monetization work for receiving payments](https://webmonetization.org/docs/receiving)
-- [Specifications](https://webmonetization.org/specification.html)
-- [ILP Forum](https://forum.interledger.org/)
+- [Documentation](https://webmonetization.org/docs/)
+- [How Web Monetization work for paying payments](https://webmonetization.org/docs/intro/sending-payments/)
+- [How Web Monetization work for receiving payments](https://webmonetization.org/docs/intro/receiving-payments/)
+- [Specifications](https://webmonetization.org/specification/)
+- [ILP Forum (read only)](https://forum.interledger.org/)
 - [Grant For The Web](https://www.grantfortheweb.org/)
 
 ---
@@ -47,7 +47,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 </p>
 </details>
 
-On your webpage, intregate your `monetization` tag on meta
+On your webpage, integrate your `monetization` tag on meta
 
 ```html
 <meta name="monetization" content="$ilp.example.com/123456789" />
@@ -71,15 +71,14 @@ if (document.monetization) {
 
 _Any packages/modules and plugins_
 
-- [svelte-monetization](https://github.com/wobsoriano/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/svelte.png)
 - [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [types-wm](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/typescript.png)
-- [ngx-monetization](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/angular.png)
+- [ngx-monetization (archived)](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/angular.png)
 - [react-hook-wm](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
 - [react-monetize](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/react.png)
 - [ep_monetization](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png)
-- [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/) - Wordpress Widget based on XRPTIPBOT embed code to donate content creators. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png)
+- [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/) - WordPress Widget based on XRPTIPBOT embed code to donate content creators. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/wordpress.png)
 - [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/11ty.png)
 - [web-monetization-components](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
 - [revshare](https://github.com/kewbish/revshare) - A JS library for revenue sharing. ![](https://raw.githubusercontent.com/thomasbnt/awesome-web-monetization/master/assets/small_icons/javascript.png)
@@ -101,9 +100,8 @@ _Any packages/modules and plugins_
 
 ### Tutorials
 
-- [Getting started](https://webmonetization.org/docs/getting-started) - Official documents from webmonetization.org.
-- [Exclusive content](https://webmonetization.org/docs/exclusive-content) - Put exclusive content on your website.
-- [Exclusive content in a Godot web game](https://innkeepergames.com/how-to-monetize-a-godot-game-with-web-monetization) - Put exclusive content in a web game made with the Godot Game Engine.
+- [Getting started](https://webmonetization.org/docs/guides/monetize-page/) - Official documents from webmonetization.org.
+- [Exclusive content](https://webmonetization.org/docs/guides/provide-exclusive-content/) - Put exclusive content on your website.
 - ['A Web Monetization Story'](https://esse-dev.github.io/a-web-monetization-story/) - An interactive, story-based Web Monetization tutorial for online creators.
 - [Web Monetization like I'm 5](https://dev.to/hacksultan/web-monetization-like-i-m-5-1418) - Monetizing the web!
 
@@ -118,6 +116,13 @@ _Any packages/modules and plugins_
 
 ### Tools
 
+- [Probabilistic Revshare Generator - Web Monetization](https://webmonetization.org/prob-revshare/) - Probabilistic revenue sharing (revshare) is one way to share a portion of a web monetized pages earnings between multiple payment pointers.
+
+  > Use this tool to define a list of payment pointers and their weights.
+  > Then, add the generated monetization link element to your site.
+  > The link will contain a unique URL hosted on https://webmonetization.org/api/revshare/pay/.
+  > If you'd prefer to not use a hosted URL, you can set up revshare by adding a script to your site.
+
 - [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
   > ```bash
@@ -127,7 +132,7 @@ _Any packages/modules and plugins_
   >
   > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
 
-- [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place.
+- [Paytrackr](https://github.com/thomasbnt/paytrackr) - (Forked from [wobsoriano/paytrackr](https://github.com/wobsoriano)) - Track and manage your micropayments into one place.
 
   > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
@@ -135,7 +140,7 @@ _Any packages/modules and plugins_
 
   > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
-- [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
+- [Open Monetization Wallet](https://github.com/kristianfreeman/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
 
   > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
   >
@@ -150,7 +155,6 @@ _Any packages/modules and plugins_
 
 - [Web Monetization Community](https://community.interledger.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
-- [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
 - [Web Monetization tag on DEV](https://dev.to/t/webmonetization)
 
 ---

@@ -1,132 +1,131 @@
 <div class="github-widget" data-repo="zachflower/awesome-open-source-supporters"></div>
 ## Awesome Open Source Supporters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的优秀公司列表，这些公司免费为开源和公共项目提供工具和服务.
+A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 
-**注意：虽然有许多公司提供很好的免费套餐（例如 Slack），但此列表特别关注那些通过提供额外产品对开源社区做出公开承诺的组织.**
+**Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community through additional offerings.**
 
 
 
 ## Code Coverage
 
-- [Codecov](https://codecov.io/) - 测试覆盖率监控和警报.
-- [Coveralls](https://coveralls.io/) - 测试覆盖率历史和统计数据.
+- [Codecov](https://codecov.io/) - Test coverage monitoring & alerting.
+- [Coveralls](https://coveralls.io/) - Test coverage history & statistics.
 
 ## Code Quality
 
-- [Better Code Hub](https://bettercodehub.com/) - 源代码可维护性分析.
-- [Codacy](https://www.codacy.com/) - 自动代码审查和分析.
-- [Code Climate](https://codeclimate.com/) - 自动代码审查和健康分析.
-- [codebeat](https://codebeat.co/) - 移动和网络的自动代码审查.
+- [Better Code Hub](https://bettercodehub.com/) - Source code maintainability analysis.
+- [Codacy](https://www.codacy.com/) - Automated code reviews & analytics.
+- [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
+- [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
-- [Ebert](https://ebertapp.io/) - 连续静态分析.
-- [Hound](https://houndci.com/) - 源代码风格审查.
-- [lgtm](https://lgtm.com/) - 开发人员的自动代码审查.
-- [PullApprove](https://about.pullapprove.com/) - 通过代码审查批准 GitHub 拉取请求.
-- [Reviewable](https://reviewable.io/) - 自动 GitHub 代码审查.
-- [Scrutinizer](https://scrutinizer-ci.com/) - 持续的代码质量分析.
-- [Sider](https://sider.review/) - 自动代码审查.
-- [SonarCloud](https://sonarcloud.io/) - 持续的代码检查.
-- [StyleCI](https://styleci.io/) - PHP 代码风格审查.
+- [Ebert](https://ebertapp.io/) - Continuous static analysis.
+- [Hound](https://houndci.com/) - Source code style review.
+- [lgtm](https://lgtm.com/) - Automated code reviews for developers.
+- [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
+- [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
+- [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
+- [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
+- [StyleCI](https://styleci.io/) - PHP code style review.
 
 ## Continuous Integration
 
-- [AppVeyor](https://www.appveyor.com/) - 适用于 Windows 开发人员的 CI/CD.
-- [Bitrise](https://www.bitrise.io/) - 适用于 Android 和 iOS 的托管 CI/CD，公共项目免费.
-- [CircleCI](https://circleci.com/) - 基于 Docker 的构建，支持自定义工作流程.
-- [Codefresh](https://codefresh.io/) - Docker 原生 CI/CD.
-- [Codeship](https://codeship.com/) - 持续集成、交付和部署.
-- [DeployHQ](https://www.deployhq.com/) `requires-approval` - 部署自动化.
-- [Sauce Labs](https://saucelabs.com/) - 跨浏览器测试、Selenium 测试和移动测试.
-- [Semaphore](https://semaphoreci.com/) - 快速自动化 CI/CD.
-- [Travis-CI](https://travis-ci.org/) - 开源的自动化 CI/CD.
+- [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
+- [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
+- [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
+- [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
+- [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
+- [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+- [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
+- [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
+- [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
 
 ## Dependency Management
 
-- [Dependabot](https://dependabot.com/) - 自动更新 Ruby、Python、JavaScript 和 PHP 的依赖项.
-- [Greenkeeper](https://greenkeeper.io/) - NPM 包的自动依赖管理（在 GitHub 上）.
-- [pyup.io](https://pyup.io/) - Python 依赖管理.
-- [Snyk](https://snyk.io/) - 持续依赖漏洞评估.
-- [Tachikoma.io](http://tachikoma.io/) - 依赖更新即服务.
+- [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, Python, JavaScript and PHP.
+- [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
+- [pyup.io](https://pyup.io/) - Python dependency management.
+- [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
+- [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
 
 ## Documentation
 
-- [GitBook](https://www.gitbook.com/) - 协作应用程序文档.
-- [Read the Docs](https://readthedocs.com/) - 文档托管平台.
+- [GitBook](https://www.gitbook.com/) - Collaborative application documentation.
+- [Read the Docs](https://readthedocs.com/) - Documentation hosting platform.
 
 ## Exception Reporting
 
-- [BugSnag](https://www.bugsnag.com/) `requires-approval` - 异常跟踪和报告.
-- [Honeybadger](https://www.honeybadger.io) `requires-approval` `non-commercial` - Ruby 的异常和正常运行时间监控.
+- [BugSnag](https://www.bugsnag.com/) `requires-approval` - Exception tracking and reporting.
+- [Honeybadger](https://www.honeybadger.io) `requires-approval` `non-commercial` - Exception and uptime monitoring for Ruby.
 
 ## Package Management
 
-- [MyGet](https://myget.org/) `requires-approval` - NuGet、npm、Bower、Maven 和 Vsix 包托管.
-- [packagecloud](https://packagecloud.io/pricing) `requires-approval` - Maven、RPM、DEB、PyPi 和 RubyGem 托管.
+- [MyGet](https://myget.org/) `requires-approval` - NuGet, npm, Bower, Maven, and Vsix package hosting.
+- [packagecloud](https://packagecloud.io/pricing) `requires-approval` - Maven, RPM, DEB, PyPi, and RubyGem hosting.
 
 ## Project Management
 
-- [Taiga.io](https://taiga.io/) - 敏捷开发人员的项目管理.
-- [ZenHub](https://www.zenhub.com/) - 敏捷的 GitHub 项目管理.
-- [Zube](https://zube.io/) - GitHub 问题的项目管理.
+- [Taiga.io](https://taiga.io/) - Project management for agile developers.
+- [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
+- [Zube](https://zube.io/) - Project management for GitHub issues.
 
 ## Monitoring
 
-- [Check my Website](https://checkmy.ws/) `requires-approval` - 自动网站监控.
-- [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron 作业监控.
+- [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
+- [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
 
 ## Localization
 
-- [Crowdin](https://crowdin.com/) `requires-approval` - 本地化管理平台.
-- [LingoHub](https://lingohub.com/) `requires-approval` - 翻译管理.
-- [Locale](https://www.localeapp.com/) - 本地化和翻译.
-- [Lokalise](https://lokalise.com/) `requires-approval` - 本地化和翻译软件工具.
-- [POEditor](https://poeditor.com/) `requires-approval` - 本地化管理平台.
-- [Transifex](https://www.transifex.com/) `requires-approval` - 用于翻译数字内容的本地化平台.
-- [Weblate](https://weblate.org/) `requires-approval` - 基于 Web 的持续本地化.
+- [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
+- [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
+- [Locale](https://www.localeapp.com/) - Localization and Translation.
+- [Lokalise](https://lokalise.com/) `requires-approval` - Localization and Translation Software Tool.
+- [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
+- [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.
+- [Weblate](https://weblate.org/) `requires-approval` - Web-based continuous localization.
 
 ## Version Control
 
-- [BitBucket](https://bitbucket.org/) - Git 和 Mercurial 存储库托管.
-- [GitHub](https://github.com/) - Git 项目托管.
-- [GitLab](https://about.gitlab.com/) - Git 项目托管.
-- [Plastic SCM](https://www.plasticscm.com/) `requires-approval` - 分布式 Git 项目托管.
+- [BitBucket](https://bitbucket.org/) - Git and Mercurial repository hosting.
+- [GitHub](https://github.com/) - Git project hosting.
+- [GitLab](https://about.gitlab.com/) - Git project hosting.
+- [Plastic SCM](https://www.plasticscm.com/) `requires-approval` - Distributed Git project hosting.
 
 ## Miscellaneous
 
-- [Algolia](https://www.algolia.com/for-open-source/) - `requires-approval` 搜索作为服务 API.
-- [Apiary](https://apiary.io/) `requires-approval` - API 设计、开发和文档平台.
-- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - 团队生产力工具（Jira、Confluence、Bamboo、HipChat）.
-- [Auth0](https://auth0.com/) `requires-approval` - SSO 和基于令牌的身份验证.
-- [BackHub](https://backhub.co/) - 自动 GitHub 存储库备份.
-- [BrowserStack](https://www.browserstack.com/) `requires-approval` - 跨浏览器测试工具.
-- [Cloud9](https://c9.io/) - 基于云的开发环境.
-- [Codota](https://www.codota.com/) - AI结对编程助手.
-- [Firezone](https://www.firezone.dev/) `requires-approval` - 基于 WireGuard 构建的自托管远程访问.
-- [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - 开源项目的 SSL 证书.
-- [Helpmonks](https://helpmonks.com/) `requires-approval` - 协作团队电子邮件收件箱.
-- [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - 专门创建智能开发工具的软件供应商.
-- [Libraries.io](https://libraries.io/) - 开源发现服务.
-- [LoginRadius](https://www.loginradius.com/)  `requires-approval` - 身份验证和 SSO 变得简单.
-- [Mailman 3](https://mailman3.com/) `requires-approval` - 分布式团队的邮件列表.
-- [Mailtrap](https://mailtrap.io/) `requires-approval` - 伪造的 SMTP 测试服务器.
-- [Netlify](https://www.netlify.com) `requires-approval` - 托管静态站点.
-- [Sourcegraph](https://sourcegraph.com/) - 智能源代码透明度.
-- [Siteleaf](https://www.siteleaf.com/) - 用于静态站点的 CMS.
-- [testmail.app](https://testmail.app/) `requires-approval` - 使用无限邮箱和 GraphQL API 自动化端到端电子邮件测试.
-- [Transloadit](https://transloadit.com/) `requires-approval` - 用于文件上传和编码的 API.
-- [Zulip](https://zulip.com) `requires-approval` - 分布式团队聊天.
+- [Algolia](https://www.algolia.com/for-open-source/) - `requires-approval` Search as a service API.
+- [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
+- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
+- [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
+- [BackHub](https://backhub.co/) - Automated GitHub repository backups.
+- [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
+- [Cloud9](https://c9.io/) - Cloud-based development environments.
+- [Codota](https://www.codota.com/) - AI pair programming assistant.
+- [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
+- [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
+- [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
+- [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
+- [Libraries.io](https://libraries.io/) - Open source discovery service.
+- [LoginRadius](https://www.loginradius.com/)  `requires-approval`  - Authentication and SSO Made Simple.
+- [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
+- [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
+- [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
+- [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
+- [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
+- [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
+- [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
+- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
 
 ## Contributing
 
-请参阅 [contributor guidelines](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CONTRIBUTING.md) 和 [code of conduct](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CODE-OF-CONDUCT.md) 了解详情.
+Please see the [contributor guidelines](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CONTRIBUTING.md) and [code of conduct](https://github.com/zachflower/awesome-open-source-supporters/blob/master/.github/CODE-OF-CONDUCT.md) for details.
 
 ## Tags
 
 ### `requires-approval`
 
-虽然许多公司使用 GitHub、Bitbucket 和 GitLab 的公共存储库功能来确定项目的开源状态，但还有一些公司需要更多验证. 这些公司标有“requires-approval”标签，表明需要申请流程才能利用其开源优势.
+While many companies use the public repositories feature of GitHub, Bitbucket, and GitLab to determine the Open Source status of a project, there are others who require more verification. These companies have been marked with a `requires-approval` tag, indicating that an application process is required to take advantage of their Open Source benefits.
 
 ### `non-commercial`
 
-一些公司将他们的产品用于开源，但仅限于非商业项目. 这些公司都被打上了“非商业”的标签.
+Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.
