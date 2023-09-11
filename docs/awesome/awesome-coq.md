@@ -90,6 +90,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
+- [coq-waterproof](https://github.com/impermeable/coq-waterproof) - Plugin for writing Coq proof scripts in a style that resembles non-mechanized mathematical proof.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
@@ -241,7 +242,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - Formalization to support an undergraduate course on the theory of computation, including languages and Turing machines.
 - [Lectures on Software Foundations](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
 - [MathComp School](https://github.com/gares/math-comp-school-2022) - Coq sources for lessons and exercises that introduce the SSReflect proof language and the Mathematical Components library.
-- [Mechanized Semantics](https://github.com/xavierleroy/cdf-mech-sem) - Coq sources for a course on programming language semantics at Collège de France.
+- [Mechanized Semantics](https://github.com/xavierleroy/cdf-mech-sem) - Companion Coq sources for a course on programming language semantics at Collège de France.
+- [Program Logics](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
 - [Proofs and Reliable Programming using Coq](https://team.inria.fr/stamp/proofs-and-reliable-programming-using-coq-2022/) - Introduction to developing and verifying programs with Coq.
 
 ### Tutorials and Hints
