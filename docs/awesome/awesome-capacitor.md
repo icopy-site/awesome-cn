@@ -110,9 +110,13 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Native market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-- [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
 - [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+- [Shake](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
+- [Navigation bar](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
+- [Video Player IVS](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
+- [Home indicator](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
+- [Naitve Purchases](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 
 ## [Capawesome plugins](https://capawesome.io/)
@@ -165,9 +169,9 @@ Independents plugins are listed here.
 	- [Camera Preview](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
 	- [Document Normalizer](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-document-normalizer) - Scan documents using Dynamsoft Document Normalizer.
 	- [Label Recognizer](https://github.com/tony-xlh/capacitor-plugin-dynamsoft-label-recognizer) - Recognize text on labels like MRZ on passports using Dynamsoft Label Recognizer.
+- [Purchases](https://github.com/RevenueCat/purchases-capacitor) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
 - [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
-
 - Firebase
     - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
