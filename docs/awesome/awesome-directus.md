@@ -50,7 +50,6 @@
 - [Group Modal](https://github.com/dimitrov-adrian/directus-extension-group-modal-interface) - Group interface fields into a modal that can be opened with a button.
 - [Display Link](https://github.com/jacoborus/directus-extension-display-link) - Display URLs with an "open in new tab" button.
 - [SQL Panel](https://github.com/harish2704/directus-sql-panel) - Panel component which shows result of stored SQL query as a table.
-- [Websocket Subscribe](https://github.com/br41nslug/directus-websocket-subscribe) - An extension to subscribe to Directus updates over a websocket. 
 - [SVG Map Picker Interface](https://github.com/dimitrov-adrian/directus-extension-svgmap-picker-interface) - Select a value from a SVG Map box.
 - [Directus Mailer](https://github.com/ryntab/Directus-Mailer) - An endpoint for sending emails with the Directus Nodemailer service.
 - [Data Grid Interface](https://github.com/seymoe/directus-extension-vgrid-interface) - A data grid interface width `@revolist/vue3-datagrid` for Directus 9.

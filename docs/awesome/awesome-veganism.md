@@ -15,7 +15,6 @@ This list is an attempt to create a community driven approach to guarantee no-no
 
 ## Shoes
 
-- [Adidas Superstar Vegan](https://www.adidas.com/us/superstar-vegan-shoes/FW2295.html) - New and vegan version model of old school skater shoes.
 - [Etnies](https://www.etnies.com/us/collections/vegan/) - Light and very comfortable shoes.
 - [Vegano Shoes](https://www.veganoshoes.com.br/) - Boots, shoes and sneakers reference in Brazil.
 

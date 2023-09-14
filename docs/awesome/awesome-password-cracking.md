@@ -179,6 +179,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 - [accent_permutator](https://github.com/cyclone-github/accent_permutator) - A tool to transform characters from ASCII / UTF-8 to accented characters such as "o" to "ò".
 - [anew](https://github.com/tomnomnom/anew) - Append lines from stdin to a file, but only if they don't already appear in the file. Outputs new lines to stdout too, making it a bit like a tee -a that removes duplicates.
+- [bopscrk](https://github.com/r3nt0n/bopscrk) - Generate smart and powerful wordlists for targeted attacks. Includes song lyrics fetching and different transforms.
 - [common-substr](https://github.com/sensepost/common-substr) - Simple tool to extract the most common substrings from an input text. Built for password cracking.
 - [Crunch](https://sourceforge.net/projects/crunch-wordlist/) - Crunch is a wordlist generator where you can specify a standard character set or a character set you specify. Crunch can generate all possible combinations and permutations.
 - [CUPP](https://github.com/Mebus/cupp) - A tool that lets you generate wordlists by user profiling data such as birthday, nickname, address, name of a pet or relative etc.
