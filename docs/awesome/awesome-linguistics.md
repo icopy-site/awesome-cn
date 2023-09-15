@@ -2,38 +2,38 @@
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-与语言学相关的所有内容的精选列表，按字母顺序排序.
+A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
 
 ### Programming
-*可用于开发应用程序的库、框架和应用程序.*
+*Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
-* [CLARIN-D web tools](https://www.clarin-d.net/en/analysing) - 分析研究数据的工具 
-* [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)  - 面向语料库语言学家和文本/数据挖掘爱好者的软件.  CorpusExplorer 在用户友好的界面下结合了 50 多种交互式可视化.
-* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Haxe 的早期语言分析和自然语言处理库.
-* [Natural](https://github.com/NaturalNode/natural) - 用于 Node.js 的通用自然语言工具.
-* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - 构建 Python 程序以处理人类语言数据的最完整平台.
-* [Snowball](https://snowballstem.org/) - Snowball 是一种可以轻松表示词干算法的语言.
-* [Spacy](https://spacy.io/) - Python 中的工业级国家语言处理.
-* [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), 网络服务通过 [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
-* [UBIAI](https://ubiai.tools/)  - 易于使用的文本注释工具，适用于具有最全面的自动注释功能的团队. 支持 NER、关系和文档分类以及发票标签的 OCR 注释.
-* [textblob-de](https://github.com/markuskiller/textblob-de) - spacy 的不错选择（见上文）.
-* [UralicNLP](https://github.com/mikahama/uralicNLP)  - 一个开源 Python 库，用于处理形态丰富且大部分濒临灭绝的 Uralic 语言. 它可以对许多乌拉尔语进行词法分析、生成、词形还原、消歧和词法查找.
+* [CLARIN-D web tools](https://www.clarin-d.net/en/analysing) - Tools for Analysing Research Data 
+* [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 50 interactive visualizations under a user-friendly interface.
+* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
+* [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
+* [Snowball](https://snowballstem.org/) - Snowball is a language in which stemming algorithms can be easily represented.
+* [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
+* [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
+* [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
+* [textblob-de](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
+* [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
-* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自 snowball 的各种词干算法.
-* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 由其作者 Martin Porter 编写和维护的用于分发 Porter 词干算法的“官方”主页.
+* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - Various stemming algorithms from snowball.
+* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
 
 ### Data sets
-* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON 格式的 Pan-Romance 单词列表.
+* [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 * [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
-* [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638) - 基于CommonCrawl的德语语料库
+* [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638) - German corpus based on CommonCrawl
 * [Digitales Wörterbuch der deutschen Sprache (DWDS)](https://dwds.de)
-* [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html) （普通爬行）
-* [IDS Corpora](https://www1.ids-mannheim.de/kl/projekte/korpora) - 德国参考语料库
-* [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/) - 不同语言的例句.
-* [SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html) - 大型德国互联网语料库
+* [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html) (CommonCrawl)
+* [IDS Corpora](https://www1.ids-mannheim.de/kl/projekte/korpora) - German Reference Corpus
+* [Leipzig Corpora Collection](https://wortschatz.uni-leipzig.de/en/download/) - sampled sentences in different languages.
+* [SdeWaC](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html) - big german internet corpus
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
 * [DysList (list of dyslexic errors)](https://github.com/Rauschii/DysListGerman)
 * [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
@@ -41,9 +41,9 @@
 * [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 ### Resources
-* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - 管理大型语言注释项目的指南.
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - 用于保护、开发和记录低资源（人类）语言的资源列表.
-* [Language Science Press](https://langsci-press.org/) - Language Science Press 是一家天生的数字学者主导的语言学开放获取出版商.
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+* [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 ### Deep learning models and transformers
 
@@ -52,7 +52,7 @@
 * [Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://github.com/DFKI-NLP/gevalm)
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model)
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training)
-* [GermLM](https://github.com/tonianelope/Multilingual-BERT) （NER探索）
+* [GermLM](https://github.com/tonianelope/Multilingual-BERT) (NER exploration)
 * [GerPT2](https://github.com/bminixhofer/gerpt2)
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 
@@ -69,16 +69,16 @@
 * [Vector space model](https://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
-* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - 马里兰大学计算语言学课程讲座.
-* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - CC 许可的教育视频与马尔堡大学的同名电子学习平台互连.
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - Lectures for University of Maryland class on computational linguistics.
+* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) - CC-licensed educational videos interconnected with Marburg University's e-learning platform of the same name.
 
 ### Books
-*一些更有趣和完整的书.*
+*Some of the more interesting and complete books.*
 
 #### Free
-* [Essentials of Linguistics, 2nd edition](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/) - 介绍性书籍（第 2 版）.
+* [Essentials of Linguistics, 2nd edition](https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/) - An introductory book (2nd edition).
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing with Python](https://www.nltk.org/book/) - NLTK 包中的书.
+* [Natural Language Processing with Python](https://www.nltk.org/book/) - The book from the NLTK package.
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free
@@ -97,7 +97,7 @@
 
 ### Lists
 * [15 most popular books on good reads](https://www.goodreads.com/shelf/show/natural-language-processing)
-* GitHub 主题 [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
+* GitHub topics [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
@@ -114,7 +114,6 @@
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](https://martinweisser.org/corpora_site/comp_ling_resources.html)
 * [NLP tools (Saarland University)](https://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
-* [W. Roberts' Computational Linguistics Links](https://amor.cms.hu-berlin.de/~robertsw/links.html)
 
 ### Communities
 * [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)

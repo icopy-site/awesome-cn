@@ -2004,6 +2004,18 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 
+### BNU
+
+* [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
+
+
+
+### PKU
+
+* [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+
+
+
 ### NYU
 
 * [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
@@ -2015,18 +2027,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html) - ***Department of Psychology, NYU***, [Computation & Cognition Lab](http://gureckislab.org/) - ***NYU***.
 
 * [Wei Ji Ma](http://www.cns.nyu.edu/malab/people.html) - ***Department of Psychology, Center for Neural Science, NYU***, [Wei Ji Ma Lab](http://www.cns.nyu.edu/malab/) - ***NYU***.
-
-
-
-### BNU
-
-* [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
-
-
-
-### PKU
-
-* [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
 
 
 
