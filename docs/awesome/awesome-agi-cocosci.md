@@ -1996,14 +1996,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 
-### UCSD
-
-* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***Department of Computer Science, UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
-
-* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***Department of Psychology, UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
-
-
-
 ### BNU
 
 * [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
@@ -2013,6 +2005,14 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 ### PKU
 
 * [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+
+
+
+### UCSD
+
+* [Zhuowen Tu](https://pages.ucsd.edu/~ztu/) - ***Department of Computer Science, UCSD***, [Machine Learning, Perception, and Cognition Lab (mlPC)](https://pages.ucsd.edu/~ztu/Group.htm) - ***UCSD***.
+
+* [Ed Vul](https://psychology.ucsd.edu/people/profiles/evul.html) - ***Department of Psychology, UCSD***, [Computational Cognition Lab](http://www.evullab.org/index.html) - ***UCSD***.
 
 
 
