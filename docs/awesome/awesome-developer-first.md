@@ -3,7 +3,7 @@
 
 
 A curated list of awesome developer-first products.  
-I'm sure that you'd like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
+(Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
 You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :) 
 
 The definition of developer-first for this repo is:
@@ -170,6 +170,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Integrations
 *Integration management systems or products that ease integration development.*
 * [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
+* [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. ![Revert](https://img.shields.io/github/contributors-anon/revertinc/revert?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Vessel](https://www.vessel.dev/) - Developer-first, native integration platform for GTM tools.
 
 ## Localization

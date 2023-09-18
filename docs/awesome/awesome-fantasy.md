@@ -808,6 +808,25 @@ This was a delightful book. Short and sweet, it exhibits both Gaiman's ability t
 >
 > A groundbreaking work from a master, The Ocean at the End of the Lane is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.
 
+#### [The Second Apocalypse](https://www.goodreads.com/series/83561-the-second-apocalypse) by [R. Scott Bakker](https://en.wikipedia.org/wiki/R._Scott_Bakker)
+
+A huge world, much inspired by our own, rife with conflict, religious strife, and extremely powerful magic. There is plenty of darkness, horror, cruelty, heroism, sacrifice, and any content trigger you can imagine. If you are not easily impressed, you will find a deeply philosophical series, with compelling characters, and amazing prose. Perhaps the darkest fantasy series out there (so far), it is made of a trilogy (The Prince of Nothing) and a quadrilogy (The Aspect-Emperor) that directly follows the events of the first three books. Possibly a closing trilogy will be published, but the author has not promised anything. A masterpiece, but not for everybody. [@Donearm](https://github.com/Donearm)
+
+> R. Scott Bakker's work is dominated by a sprawling series informally known as The Second Apocalypse which he began developing while in college in the 1980s. The series was originally planned to be a trilogy with the first two books entitled The Prince of Nothing and The Aspect-Emperor.
+
+Prince of Nothing trilogy:
+
+1. [The Darkness that Comes Before](https://www.goodreads.com/book/show/301538.The_Darkness_That_Comes_Before) [3.82]
+2. [The Warrior Prophet](https://www.goodreads.com/book/show/18877.The_Warrior_Prophet) [3.97]
+3. [The Thousandfold Thought](https://www.goodreads.com/book/show/13806.The_Thousandfold_Thought) [3.94]
+
+Aspect-Emperor quadrilogy:
+
+1. [The Judging Eye](https://www.goodreads.com/book/show/4117865-the-judging-eye) [4.01]
+2. [The White Luck Warrior](https://www.goodreads.com/book/show/7704943-the-white-luck-warrior) [4.11]
+3. [The Great Ordeal](https://www.goodreads.com/book/show/27160926-the-great-ordeal) [4.07]
+4. [The Unholy Consult](https://www.goodreads.com/book/show/9968073-the-unholy-consult) [3.88]
+
 #### [The Smith of Wooten Major](http://www.goodreads.com/book/show/1018117.Smith_of_Wooten_Major_and_Farmer_Giles_of_Ham) _by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)_ [4.0]
 
 Smith of Wooton Major is my favourite story by Tolkien, hands down. Lord of the Rings and all of Middle Earth can rot in comparison to this small, finely crafted story about a smith who goes to Faery, and a cook who bakes a cake. - [@RichardLitt](https://github.com/RichardLitt)
