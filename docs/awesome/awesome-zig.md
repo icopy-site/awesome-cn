@@ -66,6 +66,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [dantecatalfamo/brainfuck-zig](https://github.com/dantecatalfamo/brainfuck-zig) - Brainfuck interpreter.
 * [dantecatalfamo/mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - [mruby](https://mruby.org/) bindings.
 * [dantecatalfamo/wren-zig](https://github.com/dantecatalfamo/wren-zig) - [wren](https://wren.io/) bindings.
+* [fulcrum-so/ziggy-pydust](https://github.com/fulcrum-so/ziggy-pydust) - [Python](https://python.org/) bindings.
 * [fubark/cyber](https://github.com/fubark/cyber) - Fast and concurrent scripting.
 
 

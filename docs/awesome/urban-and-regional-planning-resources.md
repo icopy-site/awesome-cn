@@ -334,6 +334,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
 - [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
+- [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence. 
 
 ### Environmental and Climate Planning Tools and Platforms
 Software, tools, and platforms intended to aid environmental planning or climate adaptation & mitigation planning.
