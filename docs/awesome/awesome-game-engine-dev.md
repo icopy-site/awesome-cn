@@ -362,6 +362,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Delaunator-Cpp](https://github.com/soerendd/delaunator-cpp) - Really fast library for Delaunay triangulation of 2D points.
     - 🔒 [Easy3D](https://github.com/LiangliangNan/Easy3D) - Easy-to-use library for 3D modeling, geometry processing, and rendering.
     - 🎉 [Extrude](https://github.com/stevinz/extrude) - Converts 2D images into 3D extruded meshes.
+    - 🔒 [Generator](https://github.com/ilmola/generator) - Procedural geometry generation library for C++11.
     - 🎉 [Geometric Tools](https://www.geometrictools.com/index.html) - Mathematics, geometry, graphics, image analysis and physics in C++14.
     - 🎉 [GeometronLib](https://github.com/LukasBanana/GeometronLib) - Meshes for 3D shapes (cube, sphere, etc.) and ray / geometry intersection.
     - 🔒 [Libigl](https://github.com/libigl/libigl) - Simple geometry processing library.
@@ -730,6 +731,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Babylon.js](https://github.com/BabylonJS/Babylon.js) 🔥 - Powerful web rendering engine. [[Extensions](https://github.com/BabylonJS/Extensions) | [Website](https://www.babylonjs.com/)]
     - 🎉 [CopperLicht](https://ambiera.com/copperlicht/) - Open source 3D library for WebGL. [[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
     - 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, Filament. [[Demos](https://google.github.io/filament/webgl/)]
+    - 🎉 [Four](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative.
     - 🎉 [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL 3D rendering engine by _Alibaba_.
     - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
     - 🎉 [LUME](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
@@ -981,14 +983,13 @@ _Exploring specialty game engine / game development topics and features._
 - 🎉 [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - Play with fluids in your browser (even on mobile). [[Source](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)]
 
 ### Geometry
-- Algorithms
-    - 📚 [Practical Geometry Algorithms](http://geomalgorithms.com/index.html) - Geometries, convex hulls, polyline simplification and more.
 - CSG (Constructive Solid Geometry)
     - 📚 [Constructive Solid Geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry) - Technique using boolean operations to combine primitive objects.
     - 🎉 [csg.js](https://github.com/evanw/csg.js/) - JavaScript library implementing CSG. [[Examples](https://evanw.github.io/csg.js/)]
     - 🎉 [three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) - Fast and dynamic CSG on top of three-mesh-bvh.
     - 🎉 [three-csgmesh](https://github.com/manthrax/THREE-CSGMesh) - Conversion of the csg.js library for use with Three.js.
 - Meshes
+    - 📚 [Geometry, Surfaces, Curves, Polyhedra](https://paulbourke.net/geometry/) - Geometry topics including meshes, shapes, textures and more.
     - 📚 [Mesh Transforms](https://ciechanow.ski/mesh-transforms/) - Apple's private API for manipulation of UIView meshes. [[Source](https://github.com/olegtyshcneko/CAMeshTransform)]
 - Smoothing
     - 📚 [Laplacian Smoothing](http://rodolphe-vaillant.fr/entry/70/laplacian-smoothing-c-code-to-smooth-a-mesh) - Draft notes with C++ code for laplacian smoothing of meshes.

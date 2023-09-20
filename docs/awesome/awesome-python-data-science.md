@@ -26,8 +26,6 @@
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
 * [dlib](https://github.com/davisking/dlib) - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
-* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
-* [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ### Automated Machine Learning
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
@@ -63,14 +61,33 @@
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 * [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 
-**[DISCONTINUED PROJECTS](https://github.com/krzjoa/awesome-python-data-science/blob/master/other/deprecated.md#deep-learning)**
+## Reinforcement Learning
+* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym)).
+* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+* [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
+* [Acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
+* [Catalyst-RL](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
+* [d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
+* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
+* [Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
+* [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
+* [Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
 
-## Web Scraping
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
-* [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
-* [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
-* [Pattern](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
-* [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
+## Graph Machine Learning
+* [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
+* [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+
+## Probabilistic Graphical Models
+* [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.
+* [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
+
+## Probabilistic Methods
+* [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
+* [PyStan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface).
+* [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
+* [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
+* [pyhsmm](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
 
 ## Data Manipulation
 
@@ -165,28 +182,7 @@
 * [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
 * [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
-## Reinforcement Learning
-* [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym)).
-* [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
-* [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
-* [Acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
-* [Catalyst-RL](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
-* [d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
-* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
-* [Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
-* [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
-* [Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
 
-## Probabilistic Graphical Models
-* [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.
-* [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.
-
-## Probabilistic Methods
-* [PyMC](https://github.com/pymc-devs/pymc) - Bayesian Stochastic Modelling in Python.
-* [PyStan](https://github.com/stan-dev/pystan) - Bayesian inference using the No-U-Turn sampler (Python interface).
-* [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.
-* [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
-* [pyhsmm](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
 
 ## Genetic Programming
 * [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
@@ -294,6 +290,13 @@
 * [quaternion](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 * [adaptive](https://github.com/python-adaptive/adaptive) - Tools for adaptive and parallel samping of mathematical functions.
 * [NumExpr](https://github.com/pydata/numexpr) - A fast numerical expression evaluator for NumPy that comes with an integrated computing virtual machine to speed calculations up by avoiding memory allocation for intermediate results.
+
+## Web Scraping
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): The easiest library to scrape static websites for beginners
+* [Scrapy](https://scrapy.org/): Fast and extensible scraping library. Can write rules and create customized scraper without touching the core
+* [Selenium](https://selenium-python.readthedocs.io/installation.html#introduction): Use Selenium Python API to access all functionalities of Selenium WebDriver in an intuitive way like a real user.
+* [Pattern](https://github.com/clips/pattern): High level scraping for well-establish websites such as Google, Twitter, and Wikipedia. Also has NLP, machine learning algorithms, and visualization
+* [twitterscraper](https://github.com/taspinar/twitterscraper): Efficient library to scrape Twitter
 
 ## Spatial Analysis
 * [PySal](https://github.com/pysal/pysal) - Python Spatial Analysis Library.
