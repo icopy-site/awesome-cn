@@ -21,7 +21,7 @@
 ## Machine Learning
 
 ### General Purpose Machine Learning
-* [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
+* [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
 * [dlib](https://github.com/davisking/dlib) - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
@@ -29,6 +29,7 @@
 
 ### Automated Machine Learning
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+* [AutoKeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning.
 * [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
 
 ### Ensemble Methods
@@ -44,6 +45,7 @@
 * [liquidSVM](https://github.com/liquidSVM/liquidSVM) - An implementation of SVMs.
 
 ### Gradient Boosting
+* [NGBoost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
 
 ## Deep Learning
 
@@ -53,13 +55,55 @@
 
 ### MXNet
 
-### Others
+### JAX
 * [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+
+### Others
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
-* [Myia](https://github.com/mila-udem/myia) - Deep Learning framework (pre-alpha).
-* [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
 * [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
+* [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
+
+## Time Series
+* [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
+* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
+* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
+* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
+* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
+* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
+* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
+* [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+
+## Natural Language Processing
+* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
+* [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+* [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
+* [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
+* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
+* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
+* [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
+
+## Computer Audition
+* [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
+* [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
+* [aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.
+* [Essentia](https://github.com/MTG/essentia) - Library for audio and music analysis, description, and synthesis.
+* [LibXtract](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
+* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
+* [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
+* [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
+
+## Computer Vision
+* [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
+* [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
+* [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
+* [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
+* [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
+* [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 
 ## Reinforcement Learning
 * [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly [Gym](https://github.com/openai/gym)).
@@ -89,40 +133,53 @@
 * [hsmmlearn](https://github.com/jvkersch/hsmmlearn) - A library for hidden semi-Markov models with explicit durations.
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
 
-## Data Manipulation
+## Model Explanation
 
-### Data Frames
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
-* [polars](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
-* [Arctic](https://github.com/manahl/arctic) - High-performance datastore for time series and tick data.
-* [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
-* [xpandas](https://github.com/alan-turing-institute/xpandas) - Universal 1d/2d data containers with Transformers .functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/).
-* [swifter](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
-* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package that allows providing feedback about basic pandas operations and finds both business logic and performance issues.
-* [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
-* [xarray](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
+* [Shapley](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
+* [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
+* [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
+* [aequitas](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
+* [ELI5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
+* [L2X](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
+* [PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
+* [PyCEbox](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox.
+* [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation.
+* [AI Explainability 360](https://github.com/IBM/AIX360) - Interpretability and explainability of data and machine learning models.
+* [Auralisation](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
+* [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
+* [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
+* [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
+* [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
+* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
 
+## Genetic Programming
+* [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
+* [monkeys](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python.
 
-### Pipelines
-* [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
-* [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy, and Pytorch.
-* [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
-* [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
-* [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
-* [Hamilton](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
-
-### Data-centric AI
-* [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-* [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
-* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
-
-### Synthetic Data
-
+<a name="opt"></a>
+## Optimization
+* [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
+* [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
+* [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+* [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
+* [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
+* [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
+* [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+* [SafeOpt](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization.
+* [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
+* [Solid](https://github.com/100/Solid) - A comprehensive gradient-free optimization framework written in Python.
+* [PySwarms](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python.
+* [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization.
+* [POT](https://github.com/rflamary/POT) - Python Optimal Transport library.
+* [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
+* [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
+* [OR-Tools](https://developers.google.com/optimization) - An open-source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
 
 ## Feature Engineering
 
 ### General
 * [Featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering.
+* [OpenFE](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
 
 
 ### Feature Selection
@@ -163,91 +220,7 @@
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 * [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 
-## Model Explanation
 
-* [Shapley](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
-* [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
-* [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.
-* [aequitas](https://github.com/dssg/aequitas) - Bias and Fairness Audit Toolkit.
-* [ELI5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions.
-* [L2X](https://github.com/Jianbo-Lab/L2X) - Code for replicating the experiments in the paper *Learning to Explain: An Information-Theoretic Perspective on Model Interpretation*.
-* [PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
-* [PyCEbox](https://github.com/AustinRochford/PyCEbox) - Python Individual Conditional Expectation Plot Toolbox.
-* [Skater](https://github.com/datascienceinc/Skater) - Python Library for Model Interpretation.
-* [AI Explainability 360](https://github.com/IBM/AIX360) - Interpretability and explainability of data and machine learning models.
-* [Auralisation](https://github.com/keunwoochoi/Auralisation) - Auralisation of learned features in CNN (for audio).
-* [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) - A visualization of the CapsNet layers to better understand how it works.
-* [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
-* [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models (no Python code, but visualizes models from most Python Deep Learning frameworks).
-* [FlashLight](https://github.com/dlguys/flashlight) - Visualization Tool for your NeuralNetwork.
-* [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) - Tensorboard for PyTorch (and chainer, mxnet, numpy, ...).
-
-
-
-## Genetic Programming
-* [DEAP](https://github.com/DEAP/deap) - Distributed Evolutionary Algorithms in Python.
-* [monkeys](https://github.com/hchasestevens/monkeys) - A strongly-typed genetic programming framework for Python.
-
-<a name="opt"></a>
-## Optimization
-* [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
-* [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
-* [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
-* [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
-* [Optunity](https://github.com/claesenm/optunity) - Is a library containing various optimizers for hyperparameter tuning.
-* [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python.
-* [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
-* [SafeOpt](https://github.com/befelix/SafeOpt) - Safe Bayesian Optimization.
-* [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
-* [Solid](https://github.com/100/Solid) - A comprehensive gradient-free optimization framework written in Python.
-* [PySwarms](https://github.com/ljvmiranda921/pyswarms) - A research toolkit for particle swarm optimization in Python.
-* [Platypus](https://github.com/Project-Platypus/Platypus) - A Free and Open Source Python Library for Multiobjective Optimization.
-* [POT](https://github.com/rflamary/POT) - Python Optimal Transport library.
-* [Talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models.
-* [nlopt](https://github.com/stevengj/nlopt) - Library for nonlinear optimization (global and local, constrained or unconstrained).
-* [OR-Tools](https://developers.google.com/optimization) - An open-source software suite for optimization by Google; provides a unified programming interface to a half dozen solvers: SCIP, GLPK, GLOP, CP-SAT, CPLEX, and Gurobi.
-
-## Time Series
-* [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-* [statsforecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-* [mlforecast](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-* [neuralforecast](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
-* [greykite](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-* [Prophet](https://github.com/facebook/prophet) - Automatic Forecasting Procedure.
-* [PyFlux](https://github.com/RJT1990/pyflux) - Open source time series library for Python.
-* [bayesloop](https://github.com/christophmark/bayesloop) - Probabilistic programming framework that facilitates objective model selection for time-varying parameter models.
-* [luminol](https://github.com/linkedin/luminol) - Anomaly Detection and Correlation library.
-* [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
-* [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones
-* [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
-
-## Natural Language Processing
-* [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing.
-* [NLTK](https://github.com/nltk/nltk) -  Modules, data sets, and tutorials supporting research and development in Natural Language Processing.
-* [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkik.
-* [gensim](https://radimrehurek.com/gensim/) - Topic Modelling for Humans.
-* [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - Python binding for <a href="https://github.com/morfologik/morfologik-stemming">Morfologik</a>.
-* [Phonemizer](https://github.com/bootphon/phonemizer) - Simple text-to-phonemes converter for multiple languages.
-* [flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP.
-
-
-## Computer Audition
-* [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
-* [Yaafe](https://github.com/Yaafe/Yaafe) - Audio features extraction.
-* [aubio](https://github.com/aubio/aubio) - A library for audio and music analysis.
-* [Essentia](https://github.com/MTG/essentia) - Library for audio and music analysis, description, and synthesis.
-* [LibXtract](https://github.com/jamiebullock/LibXtract) - A simple, portable, lightweight library of audio feature extraction functions.
-* [Marsyas](https://github.com/marsyas/marsyas) - Music Analysis, Retrieval, and Synthesis for Audio Signals.
-* [muda](https://github.com/bmcfee/muda) - A library for augmenting annotated audio data.
-* [madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library.
-
-## Computer Vision
-* [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
-* [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
-* [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
-* [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
-* [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library in Python for machine learning.
-* [albumentations](https://github.com/albu/albumentations) - Fast image augmentation library and easy-to-use wrapper around other libraries.
 
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
@@ -255,6 +228,36 @@
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) - A pandas-based utility to calculate weighted means, medians, distributions, standard deviations, and more.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Pairwise Multiple Comparisons Post-hoc Tests.
 * [Alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors.
+
+
+## Data Manipulation
+
+### Data Frames
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/) - Powerful Python data analysis toolkit.
+* [polars](https://github.com/pola-rs/polars) - A fast multi-threaded, hybrid-out-of-core DataFrame library.
+* [Arctic](https://github.com/manahl/arctic) - High-performance datastore for time series and tick data.
+* [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+* [xpandas](https://github.com/alan-turing-institute/xpandas) - Universal 1d/2d data containers with Transformers .functionality for data analysis by [The Alan Turing Institute](https://www.turing.ac.uk/).
+* [swifter](https://github.com/jmcarpenter2/swifter) - A package that efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package that allows providing feedback about basic pandas operations and finds both business logic and performance issues.
+* [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second.
+* [xarray](https://github.com/pydata/xarray) - Xarray combines the best features of NumPy and pandas for multidimensional data selection by supplementing numerical axis labels with named dimensions for more intuitive, concise, and less error-prone indexing routines.
+
+### Pipelines
+* [pdpipe](https://github.com/shaypal5/pdpipe) - Sasy pipelines for pandas DataFrames.
+* [SSPipe](https://sspipe.github.io/) - Python pipe (|) operator with support for DataFrames and Numpy, and Pytorch.
+* [Dataset](https://github.com/analysiscenter/dataset) - Helps you conveniently work with random or sequential batches of your data and define data processing.
+* [meza](https://github.com/reubano/meza) - A Python toolkit for processing tabular data.
+* [Prodmodel](https://github.com/prodmodel/prodmodel) - Build system for data science pipelines.
+* [Hamilton](https://github.com/DAGWorks-Inc/hamilton) - A microframework for dataframe generation that applies Directed Acyclic Graphs specified by a flow of lazily evaluated Python functions.
+
+### Data-centric AI
+* [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+* [snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision.
+* [dataprep](https://github.com/sfu-db/dataprep) - Collect, clean, and visualize your data in Python with a few lines of code.
+
+### Synthetic Data
+
 
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) - Distributed machine learning platform.

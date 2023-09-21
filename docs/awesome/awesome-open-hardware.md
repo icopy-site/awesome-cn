@@ -29,6 +29,7 @@
 * [Open Gamma Detector](https://github.com/Open-Gamma-Project/Open-Gamma-Detector) - Hackable, low-cost gamma-ray spectrometer.
 * [Opulo](https://docs.opulo.io/) - Project that develops a pick and place machine.
 * [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
+* [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 
 ## Talks
 

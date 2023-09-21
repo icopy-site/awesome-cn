@@ -68,6 +68,10 @@
 - [API Viewer](https://github.com/u12206050/directus-extension-api-viewer-module) - View and run API queries directly from a Module.
 - [Flexible Editor](https://github.com/formfcw/directus-extension-flexible-editor) - A Rich Text Editor (WYSIWYG) with JSON output, that allows to integrate M2A relations to make it extremely flexible.
 - [BlurHash](https://github.com/pixielabs/directus-extension-blurhash/) - A Directus extension that generates blurhashes for uploaded images.
+- [Media AI Bundle](https://github.com/Arood/directus-extension-media-ai-bundle) - Two operations to perform image description and OCR.
+- [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
+- [OpenAI Automatic Translation](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
+- [Machine Learning Operations](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
 
 ## Articles
 
