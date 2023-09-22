@@ -56,7 +56,9 @@
 ### MXNet
 
 ### JAX
-* [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+* [JAX](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+* [FLAX](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
+* [Optax](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
 
 ### Others
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
@@ -110,17 +112,18 @@
 * [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - A set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 * [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Scalable Reinforcement Learning.
 * [Acme](https://github.com/google-deepmind/acme) - A library of reinforcement learning components and agents.
-* [Catalyst-RL](https://github.com/catalyst-team/catalyst-rl) - PyTorch framework for RL research.
 * [d3rlpy](https://github.com/takuseno/d3rlpy) - An offline deep reinforcement learning library.
-* [Tianshou](https://github.com/thu-ml/tianshou/#comprehensive-functionality) - An elegant PyTorch deep reinforcement learning library.
 * [Dopamine](https://github.com/google/dopamine) - A research framework for fast prototyping of reinforcement learning algorithms.
 * [garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 * [Horizon](https://github.com/facebookresearch/Horizon) - A platform for Applied Reinforcement Learning.
+* [cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
 
 ## Graph Machine Learning
-* [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+* [Auto Graph Learning](https://github.com/THUMNLab/AutoGL) -An autoML framework & toolkit for machine learning on graphs.
+* [Auto Graph Learning](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+* [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 
 ## Probabilistic Graphical Models
 * [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.

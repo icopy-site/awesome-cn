@@ -244,6 +244,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration
 - [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A Module that provides information about Media
   Files and potential removal options.
+- [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2
 
 ---
 
