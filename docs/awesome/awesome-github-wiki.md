@@ -1,12 +1,12 @@
 <div class="github-widget" data-repo="MyHoneyBadger/awesome-github-wiki"></div>
 ## Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-&gt; 精彩 GitHub Wiki 的精选列表
+> A curated list of awesome GitHub Wikis
 
-每个存储库上 [GitHub.com](https://github.com/) 配备了一个用于托管文档的部分，称为 [Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) .  Repository 的 Wiki 分享有关项目的长篇内容，例如如何使用它、如何设计它或其核心原则. 自述文件可以快速告诉您项目可以做什么，同时使用 Wiki 来提供附加文档.
+Every repository on [GitHub.com](https://github.com/) comes equipped with a section for hosting documentation, called a [Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis). Repository's Wiki shares long-form content about project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what project can do, while use a Wiki to provide additional documentation.
 
 
 ## Examples
- Wiki 应该详细、最新且结构良好. 应该很容易找到所需的信息并浏览页面. 在 Wiki 格式中使用 Markdown 的丰富可能性.  Wiki 不会完全重复自述文件中已提供的信息. 以下示例列表代表了提到的良好实践：    
+Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:    
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
 - [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
 - [mbostock/d3](https://github.com/d3/d3/wiki)
@@ -15,6 +15,7 @@
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 - [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
 - [google/guava](https://github.com/google/guava/wiki)
+- [hyperledger/cacti](https://github.com/hyperledger/cacti/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
 - [golang/go](https://github.com/golang/go/wiki)
@@ -51,4 +52,4 @@
 - [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
 
 ## Contributing
-非常欢迎您的贡献！ 请阅读 [contribution guideline](https://github.com/MyHoneyBadger/awesome-github-wiki/blob/master/contributing.md) 第一的.
+Contributions are very welcome! Please read the [contribution guideline](https://github.com/MyHoneyBadger/awesome-github-wiki/blob/master/contributing.md) first.
