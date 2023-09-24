@@ -83,7 +83,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
 - [Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
-- [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
+- [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://web.archive.org/web/20220815084025/https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
 - [Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
 - [Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
@@ -470,9 +470,6 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - A searchable repository of extremely diverse reference images for humans, with filters for easy search (IE "1 woman age 20-40 with dog from the front" or "3 people sitting in a home")
 
 
-[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - A list of art resources, primarily human figure reference material.
-
-
 [Drawing the Head and Hands](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf) - A book on figure construction by Andrew Loomis. Free in the public domain!
 
 [Figure Drawing for All its Worth](https://archive.org/details/loomis_FIGURE_draw) - A book on figure drawing by Andrew Loomis. Free in the public domain!
@@ -503,6 +500,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 
 [Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU) 🟪 - An explanation of photorealism and how it is achieved in CG.
+
+
+[Realtime Hair Tutorial](https://flippednormals.com/product/realtime-hair-tutorial-29017) - A course delving into a hair pipeline for characters.
 
 
 Royalty-Free Textures, Models, HDRIs, and Assets!
@@ -555,7 +555,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
-[The Design of Everyday Things](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
+[The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
 
 
 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) 🟪 - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
@@ -733,7 +733,7 @@ Royalty free music! Don't forget to check the license.
 [Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - A collection of books, tools, conference talks, and other resources for producers.
 
 
-[How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - An interview with Frank Rogan, a senior producer.
+[How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/) - An interview with Merric Shank, a senior producer, on the role, with  hiring advice for entry-level producers.
 
 
 [Awesome Game Production](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
@@ -807,9 +807,6 @@ Royalty free music! Don't forget to check the license.
 [How to Get a Job as a Game Producer](https://www.gamesindustry.biz/how-to-get-a-job-as-a-game-producer) - Career advice for those seeking a job in production.
 
 
-[Game Industry Portfolio Best Practices](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit) - Dos and Donts for game portfolios.
-
-
 [GameDevMap](https://www.gamedevmap.com) - A map of game development studios
 
 
@@ -833,6 +830,9 @@ Royalty free music! Don't forget to check the license.
 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
+[The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
+
+
 [Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
 
 
@@ -840,6 +840,9 @@ Royalty free music! Don't forget to check the license.
 
 
 [EA Spouse](https://ea-spouse.livejournal.com/274.html) - A cautionary tale on crunch. For all of our sakes, don't let the industry return to this.
+
+
+[Where the Water Tastes Like Wine Postmortem](https://johnnemann.medium.com/where-the-water-tastes-like-wine-postmortem-211a1f9d791a) - A must-read for aspiring independent game developers. Making money from the art is hard, even for industry veterans, but there are other things that are valuable.
 
 
 [Surveillance Self-Defense](https://ssd.eff.org/en) - Tips, Tools, and Tutorials for privacy and online self-defense

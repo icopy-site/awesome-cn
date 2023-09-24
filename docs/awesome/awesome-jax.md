@@ -35,6 +35,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [TensorLy](https://raw.githubusercontent.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 - [NetKet](https://raw.githubusercontent.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 - [Fortuna](https://raw.githubusercontent.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
+- [BlackJAX](https://raw.githubusercontent.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
 
 <a name="new-libraries" />
 
@@ -100,6 +101,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [SCICO](https://raw.githubusercontent.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
 - [BrainPy](https://raw.githubusercontent.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
 - [OTT-JAX](https://raw.githubusercontent.com/ott-jax/ott) - Optimal transport tools in JAX. <img src="https://img.shields.io/github/stars/ott-jax/ott?style=social" align="center">
+- [QDax](https://raw.githubusercontent.com/adaptive-intelligent-robotics/QDax) - Quality Diversity optimization in Jax. <img src="https://img.shields.io/github/stars/adaptive-intelligent-robotics/QDax?style=social" align="center">
 
 <a name="models-and-projects" />
 
