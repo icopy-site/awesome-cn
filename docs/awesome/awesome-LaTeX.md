@@ -68,7 +68,6 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 - [TeXShop](https://pages.uoregon.edu/koch/texshop/) - No-nonsense editor for LaTeX documents which is included in MacTeX. ![mac]
 - [TeXWorks](https://www.tug.org/texworks/) - No-nonsense editor for LaTeX code, modeled after TeXShop, but this one is cross-platform. ![foss]
 - [BakomaTex](https://www.bakoma-tex.com) - Commercial LaTeX editor that allows to edit your document both using its source code and WYSIWYG.
-- [Inlage](https://www.inlage.com/home) - Commercial LaTeX editor with handwritten formula recognition, Excel importing and more nifty features. ![windows]
 - [Texpad](https://www.texpad.com) - Commercial LaTeX editor for macOS and iOS, with excellent features (document overview, synchronised PDF display, autocompletion, sync across devices, etc.) that never get in the way of writing. ![mac]
 
 ### General purpose text editors
@@ -267,6 +266,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [TeXblog](https://texblog.net) - Blog about LaTeX and everything related.
 - [texblog.org](https://texblog.org) - Blog on LaTeX and related topics (tutorials, packages, code snippets, etc.).
 - [TeX Talk](https://tex-talk.net) - Blog for the TeX Stack Exchange site with news and interviews.
+- [TeX Hour](https://texhour.github.io/) - A weekly video meeting
 
 ## Social media
 

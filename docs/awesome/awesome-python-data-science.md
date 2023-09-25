@@ -27,10 +27,12 @@
 * [dlib](https://github.com/davisking/dlib) - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
 * [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
 
+### Gradient Boosting
+* [NGBoost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
-* [AutoKeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning.
 * [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 ### Ensemble Methods
 
@@ -38,14 +40,11 @@
 
 ### Random Forests
 
-### Extreme Learning Machine
-* [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
-
 ### Kernel Methods
 * [liquidSVM](https://github.com/liquidSVM/liquidSVM) - An implementation of SVMs.
 
-### Gradient Boosting
-* [NGBoost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+### Extreme Learning Machine
+* [Python Extreme Learning Machine (ELM)](https://github.com/acba/elm) - A machine learning technique used for classification/regression tasks.
 
 ## Deep Learning
 
