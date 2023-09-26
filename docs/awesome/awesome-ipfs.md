@@ -1,41 +1,44 @@
 <div class="github-widget" data-repo="ipfs/awesome-ipfs"></div>
 ## Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a community list for awesome projects, apps, tools, and services related to IPFS.
+This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
-If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in [our IPFS Discuss Forums](https://discuss.ipfs.tech).
+If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in the [IPFS  Forums](https://discuss.ipfs.tech).
 
 
 
 ## Apps
 
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
-- [AirSecure](https://github.com/airsecure/airsecure) - Decentralized two factor authentication app built on Textile & IPFS.
-- [Arbore](https://github.com/MichaelMure/Arbore) - A friend-to-friend file-sharing app build on top of IPFS.
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [brig](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
 - [Diffuse](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
-- [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
+- [Durin](https://durin.site/) - Mobile app for accessing and uploading content on the IPFS network.
 - [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
-- [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) - A realtime service to scrape COVID-19 and SARS-CoV-2, storing on IPFS, DNSLink, and streaming over LibP2P pubsub
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-- [ipfs-search](https://github.com/ipfs-search/ipfs-search) - IPFS search engine Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search API's available.
+
 - [IPGit](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
-- [Valist](https://github.com/valist-io/valist) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
+
+## Browsers
+A list of web browsers with IPFS integrations
+- [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+- [Brave](https://brave.com/ipfs-support/) - A privacy-focused browser with many future forward features.
+- [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 
 ## Tools
 
+- [bifrost-gateway](https://github.com/ipfs/bifrost-gateway) - [EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
 - [create-ipfs-app](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
@@ -66,11 +69,11 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [mahuta](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 - [orbit-db](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+- [Pin Tweet to IPFS](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 - [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
 - [rivet](https://github.com/wabarc/rivet) - A toolkit makes it easier to archive webpages to IPFS.
 - [SimpleAsWater Bot](https://github.com/simpleaswater/twitter-pinbot) - A twitter bot that adds, pins, unpins your tweets to public IPFS network using IPFS Cluster.
 - [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
-- [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android.
 - [Tellit](https://gitlab.com/terceranexus6/tellit) - Encrypt files before uploading them using a keypair or a passphrase.
 - [VIPFS](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
 - [wbipfs](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
@@ -82,14 +85,19 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
+- [Valist](https://www.valist.io/) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
 
-
-### Pinning services
+## Pinning services
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 - [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
+
+## Stale Projects
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a pr and we'll get it into the right place.
+
+[View the list here](https://github.com/ipfs/awesome-ipfs/blob/master/./stale.md)
 
 ## Contribute
 

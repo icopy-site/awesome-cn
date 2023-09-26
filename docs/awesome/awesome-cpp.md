@@ -337,6 +337,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
 * [upscaledb](https://upscaledb.com) - An embedded "typed" key/value store with a built-in query interface. [GPLv3]
+* [TigerBeetleDB C++ client (Community)](https://github.com/kassane/tigerbeetle-cpp) - TigerBeetle is a financial accounting database designed for mission critical safety and performance to power the future of financial services. [BSL-1.0]
 
 ## Data visualization
 *Data visualization Libraries*
@@ -565,6 +566,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [Boost.PropertyTree](https://github.com/boostorg/property_tree) - A property tree parser/generator that can be used to parse XML/JSON/INI/Info files. [Boost] [website](https://boost.org/libs/property_tree)
 * [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. [MIT]
+* [DAW JSON Link](https://github.com/beached/daw_json_link) - Fast, convenient JSON serialization and parsing in C++. [BSL-1.0]
 * [frozen](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. [GPL & GPL2]
 * [Glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. [MIT]
 * [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data. [MIT]

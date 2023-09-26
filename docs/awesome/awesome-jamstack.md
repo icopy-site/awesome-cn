@@ -43,7 +43,6 @@
 
 ## Chats
 
-- [Appernetic Gitter Chat](https://gitter.im/appernetic/issues)
 - [Jamstack Gitter Chat](https://gitter.im/jamstack/community)
 - [Netlify Gitter Chat](https://gitter.im/netlify/community)
 - [NetlifyCMS Gitter Chat](https://gitter.im/netlify/NetlifyCMS)
@@ -51,7 +50,6 @@
 
 ## Platforms
 
-- [Appernetic](https://appernetic.io) - Visual content management for static web sites, with Hugo and GitHub Pages.
 - [Netlify](https://netlify.com) - All-in-one platform for automating modern web projects.
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
 - [Layer0](https://layer0.co) - All-in-one Jamstack platform focused on large, dynamic websites and best-in-class performance through an integrated CDN, EdgeJS, predictive prefetching, and performance monitoring.
@@ -113,7 +111,6 @@
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 - [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.
 - [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
-- [Tipe](https://tipe.io) - Next Generation API-first CMS.
 - [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 - [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
@@ -133,7 +130,6 @@
 
 - [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
 - [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 - [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 
@@ -150,7 +146,6 @@
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
-- [StaticKit](https://statickit.com) - Modern forms for static sites, with client libraries for React and HTML.
 - [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 - [Static Forms](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code. After user submits the form we'll send you content of the form to your registered email.
 
@@ -166,7 +161,6 @@
 - [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 - [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
-- [LiveMart](https://www.livemart.store) - GraphQL headless eCommerce solution.
 
 ### Search
 
@@ -212,7 +206,6 @@
 - [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for Jamstack to make it easy to manage media, CDN, storage, transformations, and more.
 - [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 - [TwicPics](https://twicpics.com/) - Serverless images & videos optimization and transformation service. TwicPics can be plugged into any stack to optimize medias in real-time by giving full control to frontend developers.
-- [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
 
 
 *For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
@@ -240,7 +233,6 @@
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
-- [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
 - [Jamstack and Netlify: Do We really need another buzzword?](https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword)
 - [The Jamstack Startup Landscape](https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917)
 - [How I built my blog using Gatsby and Netlify](https://blog.pavsidhu.com/how-i-built-my-blog-using-gatsby-and-netlify/)
@@ -260,7 +252,6 @@
 - [Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
 - [State of Jamstack 2020 report](https://kontent.ai/resources/state-of-jamstack-2020-report)
 - [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
-- [State of the Headless CMS Market 2020 report](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020)
 - [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
 - [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - Leverage the JAMstack with Python and Flask by creating a static site and deploying it to Netlify.
 - [Static Site Comments: A Jamstack How-To](https://snipcart.com/blog/jamstack-static-site-comments)
