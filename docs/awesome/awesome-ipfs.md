@@ -22,9 +22,9 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-
 - [IPGit](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
+- [orbitchat.dev](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
@@ -40,6 +40,7 @@ A list of web browsers with IPFS integrations
 
 - [bifrost-gateway](https://github.com/ipfs/bifrost-gateway) - [EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
 - [create-ipfs-app](https://github.com/alexbakers/create-ipfs-app) - Set up a decentralized web3 app by running one command.
+- [dScan](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - Adds support for deploying Gatsby websites to IPFS by ensuring that assets are relative.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS.
@@ -82,16 +83,20 @@ A list of web browsers with IPFS integrations
 ## Services & Platforms
 
 - [Ceramic](https://ceramic.network/) - Ceramic combines IPFS content addressing with advanced cryptography and blockchain timestamps to guarantee security and verifiability of data.
+- [dAppling](https://www.dappling.network/) - Hosting platform with automated deployments from GitHub to IPFS
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.
 - [Valist](https://www.valist.io/) - A trustless universal package repository enabling you to digitally sign and distribute software in just a few steps.
 
 ## Pinning services
+- [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 - [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
-- [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application
+- [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
+- [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
+- [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects

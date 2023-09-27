@@ -244,6 +244,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Extra People Icons](https://github.com/jermdavis/ExtraPeopleIcons) - Some extra "people" icons for your Sitecore instances.
 - [sitecore-icon-build](https://github.com/richardszalay/sitecore-icon-build) - MSBuild extensions for building Sitecore icon zip archives and including them in the published website.
+- [Sitecore Icons](https://github.com/Antonytm/sitecore-icons) - An instalable collection of 1800+ FA and 2500+ MUI icons X 4 colors (Black, Blue, Green, Red).
 
 ## Integration
 

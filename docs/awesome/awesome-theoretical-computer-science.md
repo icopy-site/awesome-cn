@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="mostafatouny/awesome-theoretical-computer-science"></div>
 ![banner](https://raw.githubusercontent.com/mostafatouny/awesome-theoretical-computer-science/master/./TCS-banner.png)
 ## Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathematical technique and rigour.
+The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour.
 
 ---
 
@@ -279,6 +279,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Aaronson. Quantum Computing Since Democritus](https://assets.cambridge.org/97805211/99568/frontmatter/9780521199568_frontmatter.pdf) - It covers an amazing array of topics. Beginning in antiquity with Democritus, it progresses through logic and set theory,computability and complexity theory, quantum computing, cryptography, the information content of quantum states, and the interpretation of quantum mechanics.
 - [Deutsch. The Fabric of Reality: The Science of Parallel Universes and Its Implications](http://www.daviddeutsch.org.uk/books/the-fabric-of-reality/) - The Fabric of Reality presents a startlingly integrated, rational and optimistic world view – the result of taking seriously the deepest ideas of modern science and the philosophy of science.
 - [Papadimitriou. Turing: A Novel About Computation](https://mitpress.mit.edu/books/turing-novel-about-computation) - The world of computation according to Turing, an interactive tutoring program, as told to star-crossed lovers: a novel.
+- [Teuscher. Alan Turing: Life and Legacy of a Great. Springer](https://link.springer.com/book/10.1007/978-3-662-05642-4) - Essays which spans the entire rich spectrum of Turing's life, research work and legacy.
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694) - Interviews with era's greatest scientists about their inspirations, discoveries, and personal interests.
 ## Cheat Sheets<a name=other_resources_cheat_sheets></a>

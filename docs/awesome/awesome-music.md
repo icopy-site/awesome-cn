@@ -13,6 +13,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
+* [snd](https://sourceforge.net/projects/snd/) - Snd is a sound editor modelled loosely after Emacs.
 * [Stargate DAW](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 * [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
 
@@ -118,14 +119,17 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
+* [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 * [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
 * [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
+* [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
 * [py-modular](http://py-modular.readthedocs.io/) - a modular and experimental programming environment with basic DSP routines in python.
 * [Sardine](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
+* [slippery chicken](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.

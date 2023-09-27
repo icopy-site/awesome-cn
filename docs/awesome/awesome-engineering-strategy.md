@@ -43,6 +43,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Emergent Platform and Evolution in Sociotechnical Systems](https://esilva.net/articles/emergent-platforms) - How platforms emerge from business challenges and the different types of teams like enabling and platform teams collaborate with stream-aligned teams to create the space and opportunities for platforms to evolve.
 - [Interim Platform Teams](https://learnings.aleixmorgadas.dev/p/interim-platform-team) - When a stream-aligned team starts supporting internal customers and acting as an interim platform team. How to deliver a great internal experience while delivering features for external clients.
 - [Creating an integrated business and technology strategy](https://martinfowler.com/articles/creating-integrated-tech-strategy.html) - Eleven prevalent strategic directions that organisations traverse with examples.
+- [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - A unified theory of Engineering strategy, with a particular emphasis on how you can drive strategy.
 
 ## Videos
 

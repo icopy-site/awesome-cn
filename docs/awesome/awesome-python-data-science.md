@@ -127,6 +127,11 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 
+## Learning-to-Rank & Recommender Systems
+* [LightFM](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
+* [Spotlight](https://maciejkula.github.io/spotlight/) - Deep recommender models using PyTorch.
+* [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems.
+
 ## Probabilistic Graphical Models
 * [pgmpy](https://github.com/pgmpy/pgmpy) - A python library for working with Probabilistic Graphical Models.
 * [pyAgrum](https://agrum.gitlab.io/) - A GRaphical Universal Modeler.

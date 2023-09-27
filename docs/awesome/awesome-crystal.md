@@ -60,6 +60,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
  * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - Bindings for `syslog`
+ * [v4l2.cr](https://github.com/spider-gazelle/v4l2.cr) - Bindings for [Video4Linux2](https://en.wikipedia.org/wiki/Video4Linux)
  * [wasmer-crystal](https://github.com/naqvis/wasmer-crystal) - Bindings for the `wasmer` WebAssembly runtime
  * [win32cr](https://github.com/mjblack/win32cr) - Bindings for Win32 API
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) - Bindings for libxdo ([`xdotool`](https://github.com/jordansissel/xdotool))
@@ -481,7 +482,7 @@ described in [RFC 8032]
  * [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
  * [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
  * [Crystal Forum](https://forum.crystal-lang.org/)
- * [Crystal weekly newsletters](http://crystalweekly.com/)
+ * [Crystal newsletters](https://crystal-lang.org/#newsletter)
  * [Gitter](https://gitter.im/crystal-lang/crystal)
  * [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
