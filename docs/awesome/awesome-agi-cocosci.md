@@ -436,7 +436,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Reconstructing constructivism: Causal models, Bayesian learning mechanisms, and the theory theory](https://psycnet.apa.org/record/2012-12791-001) - ***Psychological Bulletin***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=11218217347365817167&hl=en&as_sdt=0,5)]. Alison Gopnik's review on the constructivism idea of developmental research, including the theory theory of concepts.
 
-* [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784&hl=en&as_sdt=0,5)]. Gentner's theory on similarity judgement by attributes and relations.
+* [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784&hl=en&as_sdt=0,5)]. Theory on similarity judgement by attributes and relations.
+
+* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147&hl=en&as_sdt=0,5)]. [[Code](https://github.com/YuzheSHI/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization. 
 
 
 #### Human Concept Representation

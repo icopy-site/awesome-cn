@@ -100,6 +100,7 @@
 
 ## Computer Vision
 * [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library.
+* [Decord](https://github.com/dmlc/decord) - An efficient video loader for deep learning with smart shuffling that's super easy to digest.
 * [scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing SciKit (Toolbox for SciPy).
 * [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 * [imgaug_extension](https://github.com/cadenai/imgaug_extension) - Additional augmentations for imgaug.
@@ -222,14 +223,14 @@
 ### NLP
 * [pyLDAvis](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
 
-
 ## Deployment
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), a web framework for building APIs with Python
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy the machine learning model
+* [streamsync](https://github.com/streamsync-cloud/streamsync) - No-code in the front, Python in the back. An open-source framework for creating data apps.
 * [gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
+* [Vizro](https://github.com/mckinsey/vizro) - A toolkit for creating modular data visualization applications.
 * [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 * [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
-
 
 
 ## Statistics
@@ -324,6 +325,7 @@
 * [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators to C, Java, JavaScript, and others.
 * [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -  A set of tools to help users inter-operate among different deep learning frameworks.
+* [treelite](https://github.com/dmlc/treelite) - Universal model exchange and serialization format for decision tree forests.
 
 ## Contributing
 Contributions are welcome! :sunglasses: </br>
@@ -331,8 +333,3 @@ Read the <a href=https://github.com/krzjoa/awesome-python-datascience/blob/maste
 
 ## License
 This work is licensed under the Creative Commons Attribution 4.0 International License - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-<div align="center">
-    <a href="other/deprecated.md">Deprecated Libs</a>&nbsp;&nbsp;&nbsp;
-    <a href="other/waiting-room.md">Waiting Room</a>&nbsp;&nbsp;&nbsp;
-<div>

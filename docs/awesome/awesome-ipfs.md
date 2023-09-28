@@ -10,6 +10,7 @@ If you have an idea for an awesome thing to do with IPFS, a good place to ask ab
 ## Apps
 
 - [Agregore](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+- [Anytype](https://github.com/anyproto) - Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol.
 - [archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [brig](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
@@ -84,6 +85,7 @@ A list of web browsers with IPFS integrations
 
 - [Ceramic](https://ceramic.network/) - Ceramic combines IPFS content addressing with advanced cryptography and blockchain timestamps to guarantee security and verifiability of data.
 - [dAppling](https://www.dappling.network/) - Hosting platform with automated deployments from GitHub to IPFS
+- [Fileverse](https://fileverse.io/) - Encrypted file sharing based on IPFS. Share any files with or without a wallet
 - [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer.
 - [Fission](https://fission.codes) - Fission builds open source protocols and managed solutions that empower developers to construct scalable and secure software applications.
 - [Peergos](https://peergos.org) - Your private, but social, space online. Store and edit documents and media. Share files or folders with friends.

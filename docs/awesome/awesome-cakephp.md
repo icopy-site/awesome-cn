@@ -69,7 +69,7 @@ Additional lists you might find useful:
 
 - [CakeDC/PHPStan](https://github.com/CakeDC/cakephp-phpstan) - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 - 🍰 [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
-- [IdeHelperExtra plugin](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
+- 🍰 [IdeHelperExtra plugin](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
 - [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ## Debugging
@@ -163,7 +163,7 @@ Additional lists you might find useful:
 
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - A plugin to add enumeration list support to your app.
-- [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+- 🍰 [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 - [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate) - A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 - [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
@@ -176,7 +176,7 @@ Additional lists you might find useful:
 ## Navigation
 *Tools for building navigation structures.*
 
-- [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+- 🍰 [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
@@ -200,7 +200,7 @@ Additional lists you might find useful:
 - [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 - [Connehito/CakephpMasterReplica plugin](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
 - [Itosho/EasyQuery plugin](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
-- [Icings/Partitionable plugin](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
+- 🍰 [Icings/Partitionable plugin](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## PDF
 *Plugins and software for working with PDF files.*
@@ -265,7 +265,7 @@ Additional lists you might find useful:
 - [Bake plugin](https://github.com/cakephp/bake) - Provides code generation functionality.
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
-- [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
+- 🍰 [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
 - [TwigView plugin](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
