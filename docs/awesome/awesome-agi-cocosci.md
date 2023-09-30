@@ -1200,6 +1200,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 #### Science Education
 
 
+* [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890&hl=en&as_sdt=0,5)]. Research on facilitating the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework, for scientific research training in higher education.
+
 
 #### Democratization of Science
 

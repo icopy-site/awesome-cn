@@ -9,9 +9,9 @@
 
 </div>
 
-搜索列表位于 [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/).
+Search the list at [https://ebookfoundation.github.io/free-programming-books-search/](https://ebookfoundation.github.io/free-programming-books-search/) [![https://ebookfoundation.github.io/free-programming-books-search/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://ebookfoundation.github.io/free-programming-books-search/).
 
-该页面是一个易于阅读的网站. 通过单击访问它 [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
+This page is available as an easy-to-read website. Access it by clicking on [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
 
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
@@ -23,9 +23,9 @@
 
 ## Intro
 
-这个列表最初是一个克隆 [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) 卡兰·班吉 (Karan Bhangui) 和乔治·斯托克 (George Stocker) 做出了贡献.
+This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-该列表已被 Victor Felder 移至 GitHub 进行协作更新和维护. 它已发展成为其中之一 [GitHub's most popular repository](https://octoverse.github.com/).
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repository](https://octoverse.github.com/).
 
 <div align="center" markdown="1">
 
@@ -38,14 +38,14 @@
 
 </div>
 
-The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这是一个非营利组织，致力于促进免费电子书的创建、分发、存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会的图书在美国可以免税.
+The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ## How To Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md) . 如果您是 GitHub 新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md) ！ 请记住遵守我们的改编自 ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md) 也 （[translations](https://github.com/EbookFoundation/free-programming-books/blob/master/#translations) 也提供）.
+Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md) too ([translations](https://github.com/EbookFoundation/free-programming-books/blob/master/#translations) also available).
 
-单击这些徽章即可查看您可以如何提供帮助：
+Click on these badges to see how you might be able to help:
 
 <div align="center" markdown="1">
 
@@ -62,16 +62,16 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 <div align="left" markdown="1">
 
-<a href="http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">分享到Twitter</a><br>
-<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=">在脸书上分享</a><br>
-<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=">在领英上分享</a><br>
-<a href="https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books">分享到电报</a><br>
+<a href="http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on Twitter</a><br>
+<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=">Share on Facebook</a><br>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=">Share on LinkedIn</a><br>
+<a href="https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books">Share on Telegram</a><br>
 
 </div>
 
 ## Resources
 
-该项目列出了按类型分组的书籍和其他资源：
+This project lists books and other resources grouped by genres:
 
 ### Books
 
@@ -102,7 +102,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Indonesian / Bahasa Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md)
 + [Italian / italiano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ja.md)
-+ [Korean / 한국어[韩国语]](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ko.md)
++ [Korean / 한국어](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ko.md)
 + [Latvian / Latviešu](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-lv.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-fa_IR.md)
@@ -144,7 +144,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ja.md)
 + [Kazakh / қазақша](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-km.md)
-+ [Korean / 한국어[韩国语]](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ko.md)
++ [Korean / 한국어](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ml.md)
 + [Nepali / नेपाली](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ne.md)
 + [Norwegian / Norsk](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-no.md)
@@ -180,7 +180,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ### Podcast - Screencast
 
-免费播客和截屏视频：
+Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-zh.md)
@@ -205,7 +205,7 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ### Programming Playgrounds
 
-在浏览器中编写、编译和运行您的代码. 试试看！
+Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)
@@ -213,17 +213,17 @@ The [Free Ebook Foundation](https://ebookfoundation.org) 现在管理 repo，这
 
 ## Translations
 
-志愿者已将我们的许多贡献、操作方法和行为准则文档翻译成我们列表中涵盖的语言.
+Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
-+ 英语
++ English
   + [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CODE_OF_CONDUCT.md)
   + [Contributing](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md)
   + [How-to](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/HOWTO.md)
 + ... *[More languages](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations)* ...
 
-您可能会注意到有 [some missing translations here](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations) - 也许你想帮忙 [contributing a translation](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
+You might notice that there are [some missing translations here](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](https://github.com/EbookFoundation/free-programming-books/blob/master/docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
 ## License
 
-此存储库中包含的每个文件均已获得许可 [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE).
+Each file included in this repository is licensed under the [CC BY License](https://github.com/EbookFoundation/free-programming-books/blob/master/LICENSE).
