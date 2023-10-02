@@ -428,6 +428,7 @@ additional ordered map implementations.
 - [hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
 - [hilbert](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
 - [hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
+- [plinko](https://github.com/shipt/plinko) - A finite state machine and workflow orchestrator that compiles for fast execution, easy debugging, auto-generated documentation. Includes advanced features such as side-effect hooks. 
 - [quadtree](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
 - [slices](https://github.com/srfrog/slices) - Functions that operate on slices; like `package strings` but adapted to work with slices.
 - [slices](https://github.com/twharmon/slices) - Pure, generic functions for slices.
@@ -1186,7 +1187,6 @@ _Libraries for manipulating images._
 - [mpo](https://github.com/donatj/mpo) - Decoder and conversion tool for MPO 3D Photos.
 - [picfit](https://github.com/thoas/picfit) - An image resizing server written in Go.
 - [pt](https://github.com/fogleman/pt) - Path tracing engine written in Go.
-- [resize](https://github.com/nfnt/resize) - Image resizing for Go with common interpolation methods.
 - [rez](https://github.com/bamiaux/rez) - Image resizing in pure Go and SIMD.
 - [scout](https://github.com/jonoton/scout) - Scout is a standalone open source software solution for DIY video security.
 - [smartcrop](https://github.com/muesli/smartcrop) - Finds good crops for arbitrary images and crop sizes.
@@ -1416,6 +1416,7 @@ _Libraries that implement messaging systems._
 - [EventBus](https://github.com/asaskevich/EventBus) - The lightweight event bus with async compatibility.
 - [gaurun-client](https://github.com/osamingo/gaurun-client) - Gaurun Client written in Go.
 - [Glue](https://github.com/desertbit/glue) - Robust Go and Javascript Socket Library (Alternative to Socket.io).
+- [go-eventbus](https://github.com/stanipetrosyan/go-eventbus) - Simple Event Bus package for Go.
 - [go-mq](https://github.com/cheshir/go-mq) - RabbitMQ client with declarative configuration.
 - [go-notify](https://github.com/TheCreeper/go-notify) - Native implementation of the freedesktop notification spec.
 - [go-nsq](https://github.com/nsqio/go-nsq) - the official Go package for NSQ.
@@ -1436,7 +1437,6 @@ _Libraries that implement messaging systems._
 - [melody](https://github.com/olahol/melody) - Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
 - [Mercure](https://github.com/dunglas/mercure) - Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
 - [messagebus](https://github.com/vardius/message-bus) - messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
-- [mob](https://github.com/erni27/mob) - mob is a generic-based, simple mediator / event aggregator library. It supports in-process requests / events processing.
 - [NATS Go Client](https://github.com/nats-io/nats) - Lightweight and high performance publish-subscribe and distributed queueing messaging system - this is the Go library.
 - [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) - A tiny wrapper around NSQ topic and channel.
 - [oplog](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
@@ -2909,6 +2909,7 @@ _Software written in Go._
 - [Dropship](https://github.com/chrismckenzie/dropship) - Tool for deploying code via cdn.
 - [easyssh-proxy](https://github.com/appleboy/easyssh-proxy) - Golang package for easy remote execution through SSH and SCP downloading via `ProxyCommand`.
 - [fac](https://github.com/mkchoi212/fac) - Command-line user interface to fix git merge conflicts.
+- [Flannel](https://github.com/flannel-io/flannel) - Flannel is a network fabric for containers, designed for Kubernetes.
 - [Fleet device management](https://github.com/fleetdm/fleet) - Lightweight, programmable telemetry for servers and workstations.
 - [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Gitea, and Bitbucket.

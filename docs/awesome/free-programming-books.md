@@ -168,6 +168,7 @@ This project lists books and other resources grouped by genres:
 
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md)
++ [German](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ja.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ru.md)
