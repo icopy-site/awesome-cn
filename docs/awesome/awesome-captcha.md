@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="ZYSzys/awesome-captcha"></div>
 ## Awesome Captcha [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 精选的验证码库和验证码破解工具列表.
+> Curated list of awesome captcha libraries and captcha crack tools.
 
-[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) 是一种用于计算的挑战-响应测试，用于确定用户是否为人类.
+[CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.
 
 
 [English](https://github.com/ZYSzys/awesome-captcha/blob/master/README.md) | [中文](https://github.com/ZYSzys/awesome-captcha/blob/master/README-zh.md) | [Polish](https://github.com/ZYSzys/awesome-captcha/blob/master/README-pl.md)
@@ -13,78 +13,78 @@
 
 ## Libraries
 
-- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Laravel 5 的验证码.
-- [CGregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP 验证码库.
-- [trekjs/captcha](https://github.com/trekjs/captcha)  - 用于 Node.js 的轻量级纯 JavaScript 验证码. 没有 C/C++，没有 ImageMagick，没有画布.
-- [pusuo/patchca](https://github.com/pusuo/patchca) - 用 Ja​​va 编写的简单而强大的验证码库.
-- [google/recaptcha](https://github.com/google/recaptcha) - reCAPTCHA 的 PHP 客户端库，这是一项保护您的网站免受垃圾邮件和滥用的免费服务.
-- [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - 用于 ruby​​ 应用程序的 ReCaptcha 助手.
-- [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - Laravel 没有验证码 reCAPTCHA.
-- [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - 用于不同验证码解决服务的通用 python API.
+- [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5.
+- [CGregwar/Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library.
+- [trekjs/captcha](https://github.com/trekjs/captcha) - A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.
+- [patchca](https://code.google.com/archive/p/patchca) - Simple yet powerful CAPTCHA library written in Java.
+- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
+- [ambethia/recaptcha](https://github.com/ambethia/recaptcha) - ReCaptcha helpers for ruby apps.
+- [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
+- [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 
 
 ## Generation
-- [captcha-api](https://captcha-api.akshit.me) - 由 AI 提供支持的免费、快速和可靠的验证码 API
-- [dchest/captcha](https://github.com/dchest/captcha) - Go package 验证码实现图像和音频验证码的生成和验证.
-- [lepture/captcha](https://github.com/lepture/captcha) - 生成音频和图像验证码的验证码库.
-- [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - 在 Node.js 中生成 svg 验证码.
-- [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) - Node.js 使用 C++ 库 CImg 生成验证码，无需安装任何其他库或软件.
-- [contra/captchagen](https://github.com/contra/captchagen) - Node.js 的验证码生成.
-- [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - 自定义 ImageView 以生成验证码图像.
-- [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - 安卓平台刷卡验证码.
-- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha 支持数字、数字、字母、算术、音频和数字字母验证码.
-- [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - 用 Rust 编写的具有单个 API 端点的简单验证码服务.
-- [Captcheck](https://captcheck.netsyms.com)  - 用 PHP 7 和 MySQL 编写的轻量级、可自托管的验证码服务. 使用 Font-Awesome 中的一系列图标. 纯文本辅助功能模式和对纯键盘操作的支持.
-- [Securimage](https://www.phpcaptcha.org) - 开源免费的 PHP 验证码脚本.
-- [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - 用于人工身份验证的可视化、基于点击的验证码.
-- [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - 滑块验证码支持移动.
+- [captcha-api](https://captcha-api.akshit.me) - Free, fast and reliable Captcha API POWERED BY AI
+- [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
+- [lepture/captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
+- [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
+- [DoubleSpout/ccap](https://github.com/DoubleSpout/ccap) - Node.js generate captcha using c++ library CImg without install any other lib or software.
+- [contra/captchagen](https://github.com/contra/captchagen) - Captcha generation for Node.js.
+- [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - Custom ImageView to generate captcha image.
+- [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) - Swipe captcha of Android platform.
+- [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - Golang base64-captcha supports digits, numbers,alphabet, arithmetic, audio and digit-alphabet captcha.
+- [koto-bank/kocaptcha](https://github.com/koto-bank/kocaptcha) - A simple captcha service with a single API endpoint, written in Rust.
+- [Captcheck](https://captcheck.netsyms.com) - Lightweight, self-hostable CAPTCHA service written in PHP 7 and MySQL. Uses a selection of icons from Font-Awesome. Text-only accessibility mode and support for keyboard-only operation.
+- [Securimage](https://www.phpcaptcha.org) - Open-source free PHP Captcha script.
+- [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
+- [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
 
 
 ## Crack
 
 ### General
-- [arunpatala/captcha](https://github.com/arunpatala/captcha) - 使用手电筒破解验证码.
-- [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA) - 在 TensorFlow 中实现 CAPTCHA 分类.
-- [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - 基于 opencv2、tesseract-ocr 和一些机器学习算法的验证码破解.
-- [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - 使用 CNN 和 Keras 进行验证码破解.
-- [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - python 中的简单验证码求解器.
-- [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - 无需手动标记训练集即可解决验证码问题.
-- [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) - 使用深度学习以 98% 的准确率读取 irctc 验证码.
-- [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - 使用 TensorFlow 和 CNN 模型解决图像验证码问题.
+- [arunpatala/captcha](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
+- [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
+- [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
+- [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - Captcha break using CNN with Keras.
+- [ptigas/simple-captcha-solver](https://github.com/ptigas/simple-captcha-solver) - Simple CAPTCHA solver in python 🐍.
+- [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
+- [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
+- [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
 - [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
-- [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - 无需图像分割的图像识别验证码.
-- [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - 使用 svm 破解简单的验证码.
-- [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - 使用 CNN 破解验证码.
-- [chxj1992/slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - 使用Canny算法破解幻灯片验证码的解决方案.
-- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - 基于CNN的简单验证码求解器和模仿验证码风格的训练集生成器.
-- [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - 打破验证码.
-- [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - 以 85% 的准确率击败谷歌的音频验证码.
-- [dessant/buster](https://github.com/dessant/buster) - 人类和怪物的验证码求解器扩展.
-- [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer)  - 基于CNN5/DenseNet+BLSTM/LSTM+CTC实现验证码识别. 仅用于训练模型.
+- [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
+- [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
+- [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
+- [chxj1992/slide_captcha_cracker](https://github.com/chxj1992/slide_captcha_cracker) - Crack solution for slide captcha with Canny algorithm.
+- [JasonLiTW/simple-railway-captcha-solver#english-version](https://github.com/JasonLiTW/simple-railway-captcha-solver#english-version) - Simple captcha solver based on CNN and a training set generator by imitating the style of captcha.
+- [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - Breaking the captcha.
+- [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - Defeating Google's audio reCaptcha with 85% accuracy.
+- [dessant/buster](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
+- [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 
 ### Chinese
-- [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - 手写中文识别.
-- [taosir/cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - 顾名思义，handwritten_chinese_recognition with cnn.
-- [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - 该项目展示了如何使用 CNN 执行汉字识别，与 MNIST 数字识别相比，这是一项复杂得多的任务.
-- [muchrooms/zheye](https://github.com/muchrooms/zheye) - 知乎倒立字中文验证码识别程序.
-- [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - 通过深度学习识别12306验证码.
-- [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - 使用 cnn 通过 tensorflow 识别验证码.
+- [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
+- [taosir/cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten_chinese_recognition with cnn.
+- [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
+- [muchrooms/zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
+- [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
+- [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
 
 
 ## Tools
 
-- [Tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract 开源 OCR 引擎.
-- [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery 插件 - 停止垃圾邮件，绘制形状.
-- [Negative-captcha](https://github.com/subwindow/negative-captcha) - 一个插件，使在 Rails 中创建否定验证码的过程变得不那么痛苦.
-- [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) - 一个极其简单但高度可定制的 Django 应用程序，用于将验证码图像添加到任何 Django 表单.
-- [Securimage](https://github.com/dapphp/securimage) - PHP 验证码脚本.
-- [Captcha_solver](https://github.com/lorien/captcha_solver) - 验证码解决服务的通用 API.
+- [Tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine.
+- [MotionCAPTCHA](https://github.com/wjcrowcroft/MotionCAPTCHA) - MotionCAPTCHA jQuery Plugin - Stop Spam, Draw Shapes.
+- [Negative-captcha](https://github.com/subwindow/negative-captcha) - A plugin to make the process of creating a negative captcha in Rails much less painful.
+- [Django-simple-captcha](https://github.com/mbi/django-simple-captcha) - An extremely simple, yet highly customizable Django application to add captcha images to any Django form.
+- [Securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
+- [Captcha_solver](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services.
 
 
 ## Other
 
-- [VisualCaptcha](https://github.com/emotionLoop/visualCaptcha) - visualCaptcha 的所有不同版本/回购的集合.
-- [Hashcash for PHP/JavaScript forms](https://github.com/007/hashcash-js) - 基于工作量证明的验证码替代方法来对抗垃圾邮件.
+- [VisualCaptcha](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
+- [Hashcash for PHP/JavaScript forms](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
 
 ## Maintainers
@@ -94,11 +94,11 @@
 
 ## Contribute
 
-请做！ 查看 [https://github.com/ZYSzys/awesome-captcha/blob/master/contributing.md](https://github.com/ZYSzys/awesome-captcha/blob/master/contributing.md) 文件，或 [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
+Please do! Check out the [https://github.com/ZYSzys/awesome-captcha/blob/master/contributing.md](https://github.com/ZYSzys/awesome-captcha/blob/master/contributing.md) file, or [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [ZYSzys](https://github.com/ZYSzys) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [ZYSzys](https://github.com/ZYSzys) has waived all copyright and related or neighboring rights to this work.

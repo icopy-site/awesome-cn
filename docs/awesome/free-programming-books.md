@@ -210,7 +210,7 @@ Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)
-
++ [German](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-de.md)
 
 ## Translations
 

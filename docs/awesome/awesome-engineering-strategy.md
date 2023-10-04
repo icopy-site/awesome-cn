@@ -44,6 +44,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Interim Platform Teams](https://learnings.aleixmorgadas.dev/p/interim-platform-team) - When a stream-aligned team starts supporting internal customers and acting as an interim platform team. How to deliver a great internal experience while delivering features for external clients.
 - [Creating an integrated business and technology strategy](https://martinfowler.com/articles/creating-integrated-tech-strategy.html) - Eleven prevalent strategic directions that organisations traverse with examples.
 - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/) - A unified theory of Engineering strategy, with a particular emphasis on how you can drive strategy.
+- [Engineering Strategy is a Fractal](https://learnings.aleixmorgadas.dev/p/engineering-strategy-is-a-fractal) - How to apply organization engineering strategy to the local context while keeping aligned with organization goals.
 
 ## Videos
 

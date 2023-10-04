@@ -3,9 +3,14 @@
 
 This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
-If you have an idea for an awesome thing to do with IPFS, a good place to ask about it might be in the [IPFS  Forums](https://discuss.ipfs.tech).
+To submit your project, read the [Content Policy](https://github.com/ipfs/awesome-ipfs/blob/main/CONTRIBUTING.md#content-policy), and [**submit a PR**](https://github.com/ipfs/awesome-ipfs/edit/main/README.md)
 
 
+
+## Implementations
+IPFS is an open-source project that encourages the development of multiple implementations of the protocol, each of which seeks to optimize for various use cases.
+
+Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipfs-implementations/#popular-or-actively-maintained) in the IPFS docs.
 
 ## Apps
 

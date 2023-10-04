@@ -1089,7 +1089,7 @@ _Tools for managing and working with Goroutines._
 - [kyoo](https://github.com/dirkaholic/kyoo) - Provides an unlimited job queue and concurrent worker pools.
 - [neilotoole/errgroup](https://github.com/neilotoole/errgroup) - Drop-in alternative to `sync/errgroup`, limited to a pool of N worker goroutines.
 - [nursery](https://github.com/arunsworld/nursery) - Structured concurrency in Go.
-- [oversight](https://cirello.io/oversight) - Oversight is a complete implementation of the Erlang supervision trees.
+- [oversight](https://pkg.go.dev/cirello.io/oversight) - Oversight is a complete implementation of the Erlang supervision trees.
 - [parallel-fn](https://github.com/rafaeljesus/parallel-fn) - Run functions in parallel.
 - [pond](https://github.com/alitto/pond) - Minimalistic and High-performance goroutine worker pool written in Go.
 - [pool](https://github.com/go-playground/pool) - Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.
@@ -2546,6 +2546,7 @@ _General utilities and tools to make your life easier._
 - [toolbox](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
 - [ugo](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
 - [UNIS](https://github.com/esemplastic/unis) - Common Architecture™ for String Utilities in Go.
+- [upterm](https://github.com/owenthereal/upterm) - A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more.
 - [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases.
 - [util](https://github.com/shomali11/util) - Collection of useful utility functions. (strings, concurrency, manipulations, ...).
 - [watchhttp](https://github.com/nikolaydubina/watchhttp) - Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
@@ -3080,7 +3081,7 @@ _Where to discover new Go libraries._
 - [GopherCon Australia](https://gophercon.com.au/) - Sydney, Australia.
 - [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, Brazil.
 - [GopherCon Europe](https://gophercon.eu/) - Berlin, Germany.
-- [GopherCon India](https://www.gophercon.in/) - Pune, India.
+- [GopherCon India](https://gopherconindia.org/) - Pune, India.
 - [GopherCon Israel](https://www.gophercon.org.il/) - Tel Aviv, Israel.
 - [GopherCon Russia](https://www.gophercon-russia.ru) - Moscow, Russia.
 - [GopherCon Singapore](https://gophercon.sg) - Mapletree Business City, Singapore.
