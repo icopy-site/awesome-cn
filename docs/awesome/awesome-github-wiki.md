@@ -9,7 +9,6 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:    
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
 - [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
-- [mbostock/d3](https://github.com/d3/d3/wiki)
 - [facebook/hhvm](https://github.com/facebook/hhvm/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)

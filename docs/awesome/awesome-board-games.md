@@ -1238,6 +1238,17 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        7 |  5-15m |
 
+### [Magic: The Gathering](https://boardgamegeek.com/boardgame/463/magic-gathering)
+
+> In the Magic game, you play the role of a planeswalker—a powerful wizard who fights other planeswalkers for glory, knowledge, and conquest. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you. This is the grandfather of the collectible card game (or CCG) genre. Cards are categorized as common, uncommon, rare, and mythic rare. Players collect cards and build decks out of their collection. Players build a deck of cards and duel against an opponent's deck. Players are wizards attempting to reduce their opponent's life total to zero. The first player to reduce his opponent's life to zero (or meet another set win condition) wins the game. An important part of the game is deck construction, which is done prior to the actual game by selecting what cards are included in a particular deck. There are over 25,000 different cards from which to build your deck! Cards can be lands, which usually generate mana of various colors, or spells, which require a certain amount of mana to be used. Some cards (creatures, artifacts, and enchantments) stay on the board and continue to affect the game, while others have a one-time effect. Players randomly draw spells to see what they get and can play each turn. Although this limits your choices, there is a lot of strategy in how you play those spells. A robust list of game mechanics, including intricate rules for reactive card play called "the stack," provide for rich tactics and tough choices each turn. Though traditionally a two-player duel, there are several casual and tournament formats to Magic that allow more players to play. 
+ 
+![MTG image](https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__itemrep/img/kBqgXHgOkEqyADW3Fk9c8KcCJRk=/fit-in/246x300/filters:strip_icc()/pic163749.jpg)
+
+| Players | Min. Age | Time |
+|--------:|---------:|-----:|
+|     2   |        13 |  20m |
+
+
 ## Contribute
 
 Contributions are welcome and encouraged! Read the [contribution guidelines][contrib-guide] first.
