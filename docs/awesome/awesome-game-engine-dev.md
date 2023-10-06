@@ -68,6 +68,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 🎉 [GB Studio](https://github.com/chrismaltby/gb-studio) - Retro adventure game creator for _Game Boy_.
 - 🔒 [HARFANG 3D](https://github.com/harfang3d/harfang3d) - 3D visualization library for industry professionals, usable in C++, Python, Lua, Go.
 - 💰 [Platforming Engine](https://robvansaaze.itch.io/platforming-engine) - Everything you need to create your own platformer in _GameMaker_.
+- 🎉 [Ren'Py](https://github.com/renpy/renpy) - Visual novel engine. [[Website](https://www.renpy.org/)]
 - 💰 [RPG in a Box](https://www.rpginabox.com) - Turn your stories and ideas into games, built with _Godot_.
 - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
 - 🔒 [Twine](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
@@ -222,6 +223,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Vertext](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
     - ⭐ [AVA](https://github.com/r-lyeh/AVA) - Tiny, minimalistic 3D game engine.
+    - 🎉 [TIC-80](https://github.com/nesbox/TIC-80) - Virtual computer for making & sharing tiny games. [[Website](https://tic80.com/)]
 - C: Game Framework
     - 🎉 [CGL](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
     - 🎉 [Entrypoint](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
@@ -494,6 +496,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Game Engine w/Editor
     - 🎉 [Duality](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
     - 🎉 [Flat Red Ball](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Gui Editor](http://vchelaru.github.io/Gum/) | [Website](https://flatredball.com/)]
+    - 🎉 [Murder](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
     - 🎉 [Stride](https://github.com/stride3d/stride) - Game engine for realistic rendering and VR. Formerly _Xenko_. [[Website](https://www.stride3d.net/)]
     - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 - C#: Game Framework

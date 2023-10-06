@@ -1,8 +1,8 @@
 <div class="github-widget" data-repo="matchai/awesome-pinned-gists"></div>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/4658208/57482610-14f64480-7273-11e9-862e-80d9fe332311.png" width="535">
-  <h3 align="center">很棒的固定要点</h3>
-  <p align="center">用于将动态数据添加到固定要点的开源工具的精选列表.<p>
+  <h3 align="center">Awesome Pinned Gists</h3>
+  <p align="center">A curated list of open source tools for adding dynamic data to pinned gists.<p>
   <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Lists"></a>
   </p>
@@ -12,77 +12,78 @@
 
 ## External Services
 
-在固定要点中显示来自外部服务的数据.
+Displaying data from external services in a pinned gist.
 
-- [bilibili-box](https://github.com/KeJunMao/bilibili-box) - 更新固定要点以包含您最新的 Bilibili 视频.
-- [bird-box](https://github.com/matchai/bird-box) - 更新固定要点以包含 Twitter 用户的最新推文.
-- [blog-box](https://github.com/Aveek-Saha/blog-box) - 更新固定要点以显示您最新的 dev.to 博客文章.
-- [book-box](https://github.com/amorriscode/book-box) - 更新固定要点以包含您从 Goodreads 中最新阅读的内容
-- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - 更新固定要点以包含您的 Chess.com 评级.
-- 代码::统计 (https://codestats.net/)
-    - [codestats-box](https://github.com/Ancientwood/codestats-box) - 更新固定要点以包含您的每日 Code::Stats.
-    - [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  - codestats-box 的 Python 实现. 更新固定要点以包含您的 Code::Stats 统计信息.
-- [covid-box](https://github.com/puf17640/covid-box) - 更新要点以包含全球或国家/地区特定的冠状病毒统计数据.
-- [douban-box](https://github.com/CodeDaraW/douban-box) - 更新固定要点以包含有关豆瓣书籍/电影/音乐的最新用户状态.
-- [goodreads-box](https://github.com/mdluo/goodreads-box) - 更新固定要点以显示您当前在 Goodreads 上阅读的书籍和进度.
-- [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - 更新固定要点以包含随机 hitokoto.
+- [bilibili-box](https://github.com/KeJunMao/bilibili-box) - Update a pinned gist to contain your latest Bilibili videos.
+- [bird-box](https://github.com/matchai/bird-box) - Update a pinned gist to contain the latest tweets of a Twitter user.
+- [blog-box](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
+- [book-box](https://github.com/amorriscode/book-box) - Update a pinned gist to contain your latest reads from goodreads
+- [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) - Update a pinned gist to contain your Chess.com Ratings.
+- Code::Stats (https://codestats.net/)
+    - [codestats-box](https://github.com/Ancientwood/codestats-box) - Update a pinned gist to contain your daily Code::Stats.
+    - [codestats-box-python](https://github.com/aksh1618/codestats-box-python) - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
+- [covid-box](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
+- [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
+- [goodreads-box](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+- [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 - LeetCode (https://leetcode.com/)
-    - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - 更新固定要点以显示您的 LeetCode 统计数据.
-    - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - 更新固定要点以显示 leetcode 已解决的问题.
-    - [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) - 更新固定要点以展示您的顶级 leetcode 技能.
-- [mal-box](https://github.com/jckli/mal-box) - 更新固定要点以包含 MyAnimeList 中的最新活动.
-- [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - 更新固定要点以显示您的中等统计数据和最新文章.
-- [movie-box](https://github.com/LuisAlejandro/movie-box) - 更新固定要点以包含来自 Trakt.tv 的媒体中心统计数据.
-- [music-box](https://github.com/jacc/music-box) - 更新固定要点以包含您在 Last.fm 上的每周收听报告.
-- [neko-box](https://github.com/RangerDigital/neko-box) - 更新固定要点以包含 AniList 的最新活动.
-- [netease-music-box](https://github.com/Leecason/netease-music-box) - 更新固定要点以包含您在网易云音乐上的每周收听报告.
-- [playstation-box](https://github.com/Swilder-M/playstation-box) - 更新固定要点以包含您的 PlayStation 游戏时间排行榜.
-- [rescue-box](https://github.com/joshghent/rescue-box) - 更新固定要点以包含 RescueTime 中的每日生产力统计数据.
-- [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - 更新包含最常用端口的固定要点，如所观察到 [Shodan](https://www.shodan.io/).
-- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - 更新固定要点以包含随机 IDE 快捷方式
+    - [leetcode-box](https://github.com/puiiyuen/leetcode-box) - Update a pinned gist to show your LeetCode stats.
+    - [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) - Update a pinned gist to show leetcode solved problem.
+    - [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) - Update a pinned gist to show your top leetcode skills.
+- [mal-box](https://github.com/jckli/mal-box) - Update a pinned gist to contain your latest activity from MyAnimeList.
+- [medium-stat-box](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
+- [movie-box](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
+- [music-box](https://github.com/jacc/music-box) - Update a pinned gist to contain your weekly listening report on Last.fm.
+- [neko-box](https://github.com/RangerDigital/neko-box) - Update a pinned gist to contain the latest activity from AniList.
+- [netease-music-box](https://github.com/Leecason/netease-music-box) - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
+- [osu-box](https://github.com/AiverAiva/osu-box) - Update a pinned gist to display your osu! stats.
+- [playstation-box](https://github.com/Swilder-M/playstation-box) - Update a pinned gist to contain your PlayStation playtime leaderboard.
+- [rescue-box](https://github.com/joshghent/rescue-box) - Update a pinned gist to contain your daily productivity stats from RescueTime.
+- [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) - Update a pinned gist to contain random IDE shortcut
 - Spotify (https://spotify.com/)
-    - [spotify-box](https://github.com/izayl/spotify-box) - 更新固定要点以包含 Spotify 上每周热门曲目.
-    - [spotify-box](https://github.com/Aveek-Saha/spotify-box) - 更新固定要点以显示您每周/每月/历史上最热门的 Spotify 曲目/艺术家.
-    - [spotify-gist](https://github.com/mporracindie/spotify-gist) - 更新固定要点以包含 Spotify 上的每月最佳艺术家.
-- [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - 更新固定要点以显示堆栈溢出统计信息.
-- [steam-box](https://github.com/YouEclipse/steam-box) - 更新固定要点以包含您的 Steam 游戏时间排行榜.
-- [strava-box](https://github.com/JohnPhamous/strava-box) - 更新固定要点以包含 Strava 中您的年初至今锻炼指标.
-- [toggl-box](https://github.com/tobimori/toggl-box) - 更新固定要点以包含您每周的 Toggl 时间跟踪统计数据
-- [trivia-box](https://github.com/ChrisCarini/trivia-box) - 使用开放琐事数据库中的每日琐事问题更新固定要点.
-- [typeracer-box](https://github.com/tobimori/typeracer-box) - 更新固定要点以包含您最新的 TypeRacer 比赛
+    - [spotify-box](https://github.com/izayl/spotify-box) - Update a pinned gist to contain your weekly top tracks on Spotify.
+    - [spotify-box](https://github.com/Aveek-Saha/spotify-box) - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
+    - [spotify-gist](https://github.com/mporracindie/spotify-gist) - Update a pinned gist to contain your monthly top artist on Spotify.
+- [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) - Update a pinned gist to show stack overflow stats.
+- [steam-box](https://github.com/YouEclipse/steam-box) - Update a pinned gist to contain your Steam playtime leaderboard.
+- [strava-box](https://github.com/JohnPhamous/strava-box) - Update a pinned gist to contain your YTD exercise metrics from Strava.
+- [toggl-box](https://github.com/tobimori/toggl-box) - Update a pinned gist to contain your weekly Toggl time tracking stats
+- [trivia-box](https://github.com/ChrisCarini/trivia-box) - Update a pinned gist with a daily trivia question from Open Trivia DB.
+- [typeracer-box](https://github.com/tobimori/typeracer-box) - Update a pinned gist to contain your latest TypeRacer races
 - WakaTime (https://wakatime.com/)
-    - [waka-box](https://github.com/matchai/waka-box) - 更新固定要点以包含您每周的 WakaTime 统计数据.
-    - [waka-box-go](https://github.com/YouEclipse/waka-box-go)  - waka-box 的 Golang 实现. 更新固定要点以包含您每周的 WakaTime 统计数据.
-- [youtube-box](https://github.com/SinaKhalili/youtube-box) - 更新固定要点以显示您最新的 YouTube 视频
+    - [waka-box](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
+    - [waka-box-go](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
+- [youtube-box](https://github.com/SinaKhalili/youtube-box) - Update a pinned gist to show your latest YouTube videos
 
 ## GitHub
 
-在固定要点中显示更详细的 GitHub 用户数据.
+Displaying more detailed GitHub user data in a pinned gist.
 
-- [activity-box](https://github.com/JasonEtco/activity-box) - 更新固定要点以包含 GitHub 用户的最新活动.
-- [github-stats-box](https://github.com/bokub/github-stats-box) - 更新固定要点以包含您的 GitHub 统计信息.
-- [lang-box](https://github.com/inokawa/lang-box) - 更新固定要点以包含您最近在 GitHub 中提交的语言
-- [productive-box](https://github.com/maxam2017/productive-box) - 更新固定要点以包含一天中最高效的时间.
+- [activity-box](https://github.com/JasonEtco/activity-box) - Update a pinned gist to contain the latest activity of a GitHub user.
+- [github-stats-box](https://github.com/bokub/github-stats-box) - Update a pinned gist to contain your GitHub statistics.
+- [lang-box](https://github.com/inokawa/lang-box) - Update a pinned gist to contain languages of your recent commits in GitHub
+- [productive-box](https://github.com/maxam2017/productive-box) - Update a pinned gist to contain your most productive hours during the day.
 
 ## User Defined
 
-显示固定要点中用户定义（例如在 GitHub 操作输入参数中配置）内容的数据.
+Displaying data from user-defined (e.g. configured in the GitHub Action input parameters) content in a pinned gist.
 
-- [date-box](https://github.com/kf-liu/date-box) - 更新固定要点以包含您的周年纪念日和倒计时天（或小时）.
+- [date-box](https://github.com/kf-liu/date-box) - Update a pinned gist to contain your anniversaries and countdown days (or hours).
 
 ## Resources
 
-用于保持固定要点更新的资源.
+Resources for keeping pinned gists updated.
 
-- [gist-box](https://github.com/JasonEtco/gist-box) - 用于更新单文件要点的帮助程序类.
+- [gist-box](https://github.com/JasonEtco/gist-box) - A helper class for updating single-file Gists.
 
 ## Contribute
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/matchai/awesome-pinned-gists/blob/master/contributing.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/matchai/awesome-pinned-gists/blob/master/contributing.md) first.
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内， [Matan Kushner](https://github.com/matchai) 已放弃所有版权并且
-本作品的相关或邻接权.
+To the extent possible under law, [Matan Kushner](https://github.com/matchai) has waived all copyright and
+related or neighboring rights to this work.
