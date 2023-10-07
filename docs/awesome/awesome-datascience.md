@@ -161,6 +161,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 - [Data Science Degree @ UVA](https://datascience.virginia.edu/)
 - [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
+- [BS in Data Science & Applications](https://study.iitm.ac.in/ds/)
 - [MS in Computer Information Systems @ Boston University](https://www.bu.edu/online/programs/graduate-programs/computer-information-systems-masters-degree/)
 - [MS in Business Analytics @ ASU Online](https://asuonline.asu.edu/online-degree-programs/graduate/master-science-business-analytics/)
 - [MS in Applied Data Science @ Syracuse](https://ischool.syr.edu/academics/applied-data-science-masters-degree/)
@@ -224,7 +225,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
   - [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
-- Neural Networks
+- [Neural Networks](https://en.wikipedia.org/wiki/Neural_network)
 - Self-organizing map
 - Adaptive resonance theory
 - Hidden Markov Models (HMM)
@@ -259,15 +260,15 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### Deep Learning architectures
 
-- Multilayer Perceptron
-- Convolutional Neural Network (CNN)
-- Recurrent Neural Network (RNN)
-- Boltzmann Machines
-- Autoencoder
-- Generative Adversarial Network (GAN)
-- Self-Organized Maps
-- Transformer
-- Conditional Random Field (CRF)
+- [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+- [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+- [Recurrent Neural Network (RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+- [Boltzmann Machines](https://en.wikipedia.org/wiki/Boltzmann_machine)
+- [Autoencoder](https://www.tensorflow.org/tutorials/generative/autoencoder)
+- [Generative Adversarial Network (GAN)](https://developers.google.com/machine-learning/gan/gan_structure)
+- [Self-Organized Maps](https://en.wikipedia.org/wiki/Self-organizing_map)
+- [Transformer](https://www.tensorflow.org/text/tutorials/transformer)
+- [Conditional Random Field (CRF)](https://towardsdatascience.com/conditional-random-fields-explained-e5b8256da776)
 
 ### General Machine Learning Packages
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -890,6 +891,7 @@ Below are some Social Media links. Connect with other data scientists!
 | [WNYC Data News Team](https://twitter.com/datanews) | The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work. |
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 | [İlker Arslan](https://twitter.com/ilkerarslan_35) | Data science author. Shares mostly about Julia programming |
+| [INEVITABLE](https://twitter.com/WeAreInevitable) | AI & Data Science Start-up Company based in England, UK |
 
 ### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
