@@ -152,7 +152,7 @@
 
 > The race is woven around a storyline about finding King Kandy, the lost king of Candy Land...game requires no reading and minimal counting skills, making it suitable for young children...players are never required to make choices, just follow directions.
 
-![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Candy_land_mb_cover_1949.jpg/250px-Candy_land_mb_cover_1949.jpg)
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
@@ -691,7 +691,7 @@
 
 > Dune: Imperium uses deck-building to add a hidden-information angle to traditional worker placement. You start with a unique leader card, as well as a deck identical to those of your opponents. As you acquire cards and build your deck, your choices will define your strengths and weaknesses. Cards allow you to send your Agents to certain spaces on the game board, so how your deck evolves affects your strategy.
 
-![Dune: Imperium image](https://ccdn.anyfinder.eu/assets/cQK9Bx79FSvDbwJQhJtnr5k7StyaUhOq7rBH00sbLEu0SSLFQQ8FcMoHNQMT36cf?height=200)
+![Dune: Imperium image](https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__itemrep/img/3_xJ0tO5L62bUp2oRfjeVS0DHX0=/fit-in/246x300/filters:strip_icc()/pic5666597.jpg)
 
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
