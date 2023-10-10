@@ -257,4 +257,5 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 * [Awesome CosmWasm](https://github.com/InterWasm/cw-awesome)
 * [Awesome Crypto.com Chain](https://github.com/crypto-org-chain/awesome)
 * [Awesome Evmos](https://github.com/evmos/awesome)
+* [Awesome IRISnet](https://github.com/irisnet/awesome)
 * [Awesome Osmosis](https://github.com/osmosis-labs/awesome)
