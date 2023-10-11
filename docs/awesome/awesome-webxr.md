@@ -102,7 +102,9 @@
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Extended Collection](https://extendedcollection.com/) - A curated library of links to the Immersive Web maintained by [vrhermit](https://vrhermit.com/).
 - [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
+- [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
+- [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
 ## Development
 

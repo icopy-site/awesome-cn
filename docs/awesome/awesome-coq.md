@@ -42,6 +42,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
 - [VsCoq1](https://github.com/coq-community/vscoq/tree/vscoq1) - Extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
 - [VsCoq2](https://github.com/coq-community/vscoq) - Experimental language server and extension for the Visual Studio Code and VSCodium editors.
+- [Waterproof editor](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
 
 ### Libraries
 
@@ -90,7 +91,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
-- [coq-waterproof](https://github.com/impermeable/coq-waterproof) - Plugin for writing Coq proof scripts in a style that resembles non-mechanized mathematical proof.
+- [Waterproof proof language](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.

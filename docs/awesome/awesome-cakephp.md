@@ -41,7 +41,7 @@ Additional lists you might find useful:
 
 - [AuditStash plugin](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 - 🍰 [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) - Simple and stand-alone logging to database instead of files.
-- [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
+- 🍰 [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) - Plugin to allow passing currently logged in user to model layer.
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
 ## Authentication and Authorization
@@ -188,13 +188,13 @@ Additional lists you might find useful:
 ## ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*
 
-- [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+- 🍰 [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - 🍰 [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
-- [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+- 🍰 [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 - [Lampager/Cake plugin](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
-- [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
+- 🍰 [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Sti plugin](https://github.com/UseMuffin/Sti) - Single Table Inheritance for CakePHP. 
-- [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+- 🍰 [Muffin/Trash plugin](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
@@ -238,14 +238,14 @@ Additional lists you might find useful:
 - [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) - Simple way to add Brute Force Protection to your installation without involving database.
 - [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobstrusive and extendable captcha solution providing by default an image based math captcha.
 - [Expose plugin](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
-- [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
+- 🍰 [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 - 🍰 [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 - [Recaptcha plugin](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ## SEO
 *Search Engine Optimization.*
 
-- [Muffin/Slug plugin](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+- 🍰 [Muffin/Slug plugin](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 - 🍰 [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
@@ -266,7 +266,7 @@ Additional lists you might find useful:
 - 🍰 [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 - 🍰 [Feed plugin](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
-- [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
+- 🍰 [Meta plugin](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
 - 🍰 [Tools:Tree](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 - 🍰 [TwigView plugin](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
@@ -275,7 +275,7 @@ Additional lists you might find useful:
 
 - [CakePHP Codeception module](https://github.com/cakephp/codeception) - The official CakePHP integration with [Codeception](https://codeception.com).
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-- [CakephpFixtureFactories plugin](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintainance of your tests.
+- 🍰 [CakephpFixtureFactories plugin](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintainance of your tests.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 - [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).

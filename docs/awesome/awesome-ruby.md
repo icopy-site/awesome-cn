@@ -375,7 +375,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days.
 * [ByStar](https://github.com/radar/by_star) - Find ActiveRecord objects by year, month, fortnight, week and more!
 * [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
-* [date_range_formatter](https://github.com/darkleaf/date_range_formatter) - The simple tool to make work with date ranges in Ruby more enjoyable. 
+* [date_range_formatter](https://github.com/darkleaf/date_range_formatter) - The simple tool to make work with date ranges in Ruby more enjoyable.
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 * [holidays](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
@@ -630,6 +630,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [HappyMapper](https://github.com/dam5s/happymapper) - Object to XML mapping library, using Nokogiri.
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) - HTML processing filters and utilities.
 * [Nokogiri](https://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
+* [Nokolexbor](https://github.com/serpapi/nokolexbor) - High-performance HTML5 parser based on Lexbor, with support for both CSS selectors and XPath.
 * [Oga](https://gitlab.com/yorickpeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
 * [Ox](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 * [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
@@ -840,6 +841,7 @@ Where to discover new Ruby libraries, projects and trends.
   * [ranked-model](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
 * Tree
   * [ActsAsTree](https://github.com/amerine/acts_as_tree) - Extends ActiveRecord to add simple support for organizing items into parent–children relationships.
+  * [ActsAsRecursiveTree](https://github.com/1and1/acts_as_recursive_tree) - ActsAsTree but recursive.
   * [Ancestry](https://github.com/stefankroes/ancestry) - Organise ActiveRecord model into a tree structure using a variation on the materialised path pattern.
   * [Awesome Nested Set](https://github.com/collectiveidea/awesome_nested_set) - Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
   * [Closure Tree](https://github.com/mceachen/closure_tree) - Easily and efficiently make your ActiveRecord models support hierarchies using a Closure Table.
@@ -979,6 +981,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [que-scheduler](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - A light-weight job scheduling system built on top of Resque.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) - Job scheduler for Ruby (at, cron, in and every jobs).
+* [ruby-clock](https://github.com/jjb/ruby-clock) - A job scheduler which runs jobs each in their own thread in a persistent process.
 * [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) - A scheduling add-on for Sidekiq.
 * [Simple Scheduler](https://github.com/simplymadeapps/simple_scheduler) - An enhancement for Heroku Scheduler + Sidekiq for scheduling jobs at specific times with a readable YML file.
 * [Whenever](https://github.com/javan/whenever) - A Ruby gem that provides a clear syntax for writing and deploying cron jobs.
