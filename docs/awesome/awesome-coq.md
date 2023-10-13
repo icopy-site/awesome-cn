@@ -79,6 +79,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Coq Package Index](https://coq.inria.fr/opam/www/) - Collection of Coq packages based on opam.
 - [Coq Platform](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 - [coq-community Templates](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
+- [Debian Coq packages](https://people.debian.org/~jpuydt/coq_platform.html) - Coq-related packages available in the testing distribution of Debian.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
 - [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) - Docker images for many combinations of versions of Coq and the Mathematical Components library.
 - [Docker-Coq GitHub Action](https://github.com/marketplace/actions/docker-coq-action) - GitHub container action that can be used with Docker-Coq or Docker-MathComp.

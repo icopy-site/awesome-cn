@@ -12,6 +12,18 @@
 
 ## Family
 
+### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
+
+> In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
+> 
+> This new version of The Crew has the same innovative co-operative trick-taking mechanism as the highly lauded original game — but with some exciting new surprises! While communication between your crew members is severely limited by your submerged state, it is also critical to your success; finding the hidden land in the murky depths depends not only on winning tricks, but also on carefully negotiating the order in which they are won. If things don't go as planned, you might just be able to salvage the operation, but it will take near flawless execution and perhaps a little luck to finally reach Mu.
+
+![The Crew: Mission Deep Sea game image](https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__itemrep/img/tgB3g7PECxG14yQ0FkMiMaXaOFE=/fit-in/246x300/filters:strip_icc()/pic5988903.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        10 | 20m |
+
 ### [Dungeon Mayhem](https://boardgamegeek.com/boardgame/260300/dungeon-mayhem)
 
 > In this action-packed Dungeons & Dragons card game, you win by being the last adventurer standing.
@@ -24,6 +36,20 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  10m |
 
+### [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan)
+
+> Wingspan is a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features over 170 birds illustrated by Beth Sobel, Natalia Rojas, and Ana Maria Martinez.
+> 
+> You are bird enthusiasts—researchers, bird watchers, ornithologists, and collectors—seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats focus on several key aspects of growth:
+> - Gain food tokens via custom dice in a birdfeeder dice tower
+> - Lay eggs using egg miniatures in a variety of colors
+
+![Wingspan game image](https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__itemrep/img/DR7181wU4sHT6gn6Q1XccpPxNHg=/fit-in/246x300/filters:strip_icc()/pic4458123.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 5 |        10 | 40-70m |
+
 ### [Ghost Blitz](https://boardgamegeek.com/boardgame/83195/ghost-blitz)
 
 > Balduin, the house ghost, found an old camera in the castle cellar. Immediately he photographed everything that he loves to make disappear when he is haunting  – including himself, of course. Unfortunately, the enchanted camera takes many photos in the wrong colors. Sometimes the green bottle is white, at other times it's blue. Looking at the photos, Balduin doesn't really remember any more what he wanted to make disappear next. Can you help him with his haunting and quickly name the right item, or even make it disappear by yourself? If you grab the right items quickly, you have a good chance of winning...
@@ -33,6 +59,18 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  20m |
+
+### [Lost Ruins of Arnak](https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak)
+
+> On an uninhabited island in uncharted seas, explorers have found traces of a great civilization. Now you will lead an expedition to explore the island, find lost artifacts, and face fearsome guardians, all in a quest to learn the island's secrets.
+> 
+> Lost Ruins of Arnak combines deck-building and worker placement in a game of exploration, resource management, and discovery. In addition to traditional deck-builder effects, cards can also be used to place workers, and new worker actions become available as players explore the island. Some of these actions require resources instead of workers, so building a solid resource base will be essential. You are limited to only one action per turn, so make your choice carefully... what action will benefit you most now? And what can you afford to do later... assuming someone else doesn't take the action first!?
+
+![Lost Ruins of Arnak game image](https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__itemrep/img/ETni1QwddAVjM-xLhciF0UM0FxQ=/fit-in/246x300/filters:strip_icc()/pic5674958.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |      12 | 30-120 |
 
 ### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
@@ -63,6 +101,20 @@
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 5 |       10 |  45m |
+
+### [Everdell](https://boardgamegeek.com/boardgame/199792/everdell)
+
+> Within the charming valley of Everdell, beneath the boughs of towering trees, among meandering streams and mossy hollows, a civilization of forest critters is thriving and expanding. From Everfrost to Bellsong, many a year have come and gone, but the time has come for new territories to be settled and new cities established. You will be the leader of a group of critters intent on just such a task. There are buildings to construct, lively characters to meet, events to host—you have a busy year ahead of yourself. Will the sun shine brightest on your city before the winter moon rises?
+> 
+> Everdell is a game of dynamic tableau building and worker placement.
+> 
+> On their turn a player can take one of three actions:
+
+![Everdell game image](https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__itemrep/img/nyVhVuXdmw-1sigbocTKG81UInM=/fit-in/246x300/filters:strip_icc()/pic3918905.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        13 | 40-80m |
 
 ### [Forbidden Sky](https://boardgamegeek.com/boardgame/245271/forbidden-sky)
 
@@ -96,6 +148,21 @@
 | ------: | -------: | ---: |
 |   3 - 6 |       13 |  60m |
 
+### [Crokinole](https://boardgamegeek.com/boardgame/521/crokinole)
+
+> Crokinole is a traditional dexterity game.
+> 
+> Crokinole is played on a circular wooden board, with wooden circular disks as playing pieces.
+> Players take turns shooting disks across the circular wooden board by flicking the disks with their fingers. Players try to land their disks in scoring regions on the board, with the highest scoring area the recessed hole in the very center of the board. Each round, each player/side alternately shoots a set number of disks (usually 12 or 8), shooting one disk each turn.
+> 
+> As a traditional game, there are often many variations played, but the following method is based on the National Crokinole Association's rules which also govern the World Crokinole Championship.
+
+![Crokinole game image](https://cf.geekdo-images.com/7ejbxsn-UtLl3ehamuAEdw__itemrep/img/5OXvXz34AnlF9eCXZtNFMJ89JNc=/fit-in/246x300/filters:strip_icc()/pic79413.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30m |
+
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
 > Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
@@ -125,6 +192,18 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 8 |       14 | 30-45m |
+
+### [Cascadia](https://boardgamegeek.com/boardgame/295947/cascadia)
+
+> Cascadia is a puzzly tile-laying and token-drafting game featuring the habitats and wildlife of the Pacific Northwest.
+> 
+> In the game, you take turns building out your own terrain area and populating it with wildlife. You start with three hexagonal habitat tiles (with the five types of habitat in the game), and on a turn you choose a new habitat tile that's paired with a wildlife token, then place that tile next to your other ones and place the wildlife token on an appropriate habitat. (Each tile depicts 1-3 types of wildlife from the five types in the game, and you can place at most one tile on a habitat.) Four tiles are on display, with each tile being paired at random with a wildlife token, so you must make the best of what's available — unless you have a nature token to spend so that you can pick your choice of each item.
+
+![Cascadia game image](https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__itemrep/img/RjD03wEf_LoX0EF4DhnW6f0xNHU=/fit-in/246x300/filters:strip_icc()/pic5100691.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        10 | 30-45m |
 
 ### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
 
@@ -198,6 +277,18 @@
 | ------: | -------: | ---: |
 |       2 |        8 |  45m |
 
+### [Heat: Pedal to the Metal](https://boardgamegeek.com/boardgame/366013/heat-pedal-metal)
+
+> Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!
+> 
+> Drivers can compete in a single race or use the "Championship System" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.
+
+![Heat: Pedal to the Metal game image](https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__itemrep/img/mSj0nZUY3ofhIXFZJLGzF-6MQTg=/fit-in/246x300/filters:strip_icc()/pic6940449.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |        10 | 30-60m |
+
 ### [Parcheesi](https://en.wikipedia.org/wiki/Parcheesi)
 
 > Pachisi, the national game of India, dates back to 4 AD and remains popular today. Parcheesi is the westernized version. Parcheesi is typically played with two dice, four pieces per player and a gameboard with a track around the outside, four corner spaces and four home paths leading to a central end space. Moving all four pieces to the home position wins the game.
@@ -249,6 +340,30 @@
 | ------: | -------: | -----: |
 |   1 - 5 |       10 |40 -70m |
 
+### [The Quest for El Dorado](https://boardgamegeek.com/boardgame/217372/quest-el-dorado)
+
+> In The Quest for El Dorado, players take the roles of expedition leaders who have embarked on a search for the legendary land of gold in the dense jungles of South America. Each player assembles and equips their own team, hiring various helpers from the scout to the scientist to the aborigine. All of them have one goal in mind: Reaching the golden border first and winning all of the riches for themselves. Whoever chooses the best tactics will be rewarded!
+
+![The Quest for El Dorado game image](https://cf.geekdo-images.com/GLXfUI72Qph2136CxWIJww__itemrep/img/dD5tKXielG7vTwuJWeyv2PmVsds=/fit-in/246x300/filters:strip_icc()/pic7648372.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        10 | 30-60m |
+
+### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks-quedlinburg)
+
+> In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
+> 
+> Each player has their own bag of ingredient chips. During each round, they simultaneously draw chips from their bags and add them to their pots. The higher the face value of the drawn chip, the further it is placed in the pot's swirling pattern, increasing how much the potion will be worth. Push your luck as far as you can, but if you add too many cherry bombs, your pot will explode!
+> 
+> At the end of each round, players gain victory points and coins to spend on new ingredients, depending on how well they managed to fill up their pots. But players whose pots have exploded must choose points or coins — not both! The player with the most victory points at the end of nine rounds wins the game.
+
+![The Quacks of Quedlinburg game image](https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__itemrep/img/qe9ywOTxtPr_n4DoXZgEY-C2qU0=/fit-in/246x300/filters:strip_icc()/pic6137509.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       10 |  45m |
+
 ### [Kingdomino](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
 > In Kingdomino, you are playing as a lord who is seeking new lands to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, to spot the best plots, while competing with other lords to acquire them first. This game is like Dominoes. It uses tiles with two sections. Each turn, player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid and then points are counted based on number of connecting tiles and crowns symbol.
@@ -258,6 +373,18 @@
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 4 |        8 |    15m |
+
+### [SCOUT](https://boardgamegeek.com/boardgame/291453/scout)
+
+> SCOUT is a ladder-climbing game in which cards have two potential values, players may not rearrange their hand of cards, and players may pass their turn to take a card from the current high set of cards into their hand.
+> 
+> More specifically, cards are dual-indexed, with different values on each half of the card, with the 45 cards having all possible combinations of the numbers 1-10. During set-up, whoever is shuffling the cards should randomize both the order of the cards in the deck and their orientation. Once each player has been dealt their entire hand of cards, they pick up that hand without rearranging any of the cards; if they wish, they can rotate their entire hand of cards in order to use the values on the other end of each card, but again they cannot rearrange the order of cards in their hand.
+
+![SCOUT game image](https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__itemrep/img/SBOXfC-WOg_Iko_2lHw3VMymsow=/fit-in/246x300/filters:strip_icc()/pic6398727.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |        9 | 15m |
 
 ### [Cobra Paw](https://boardgamegeek.com/boardgame/220700/cobra-paw)
 
@@ -295,6 +422,41 @@
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
 
+### [Azul](https://boardgamegeek.com/boardgame/230802/azul)
+
+> Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.
+> 
+> In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.
+
+![Azul game image](https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |        8 | 30-45m |
+
+### [Patchwork](https://boardgamegeek.com/boardgame/163412/patchwork)
+
+> In Patchwork, two players compete to build the most aesthetic (and high-scoring) patchwork quilt on a personal 9x9 game board. To start play, lay out all of the patches at random in a circle and place a marker directly clockwise of the 2-1 patch. Each player takes five buttons — the currency/points in the game — and someone is chosen as the start player.
+> 
+> On a turn, a player either purchases one of the three patches standing clockwise of the spool or passes. To purchase a patch, you pay the cost in buttons shown on the patch, move the spool to that patch's location in the circle, add the patch to your game board, then advance your time token on the time track a number of spaces equal to the time shown on the patch. You're free to place the patch anywhere on your board that doesn't overlap other patches, but you probably want to fit things together as tightly as possible. If your time token is behind or on top of the other player's time token, then you take another turn; otherwise the opponent now goes. Instead of purchasing a patch, you can choose to pass; to do this, you move your time token to the space immediately in front of the opponent's time token, then take one button from the bank for each space you moved.
+
+![Patchwork game image](https://cf.geekdo-images.com/wLW7pFn0--20lEizEz5p3A__itemrep/img/rJ1GPoOG_t9d3H2mnfROcR5OhNQ=/fit-in/246x300/filters:strip_icc()/pic2270442.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 |        8 | 15-30m |
+
+### [Cartographers](https://boardgamegeek.com/boardgame/263918/cartographers)
+
+> Queen Gimnax has ordered the reclamation of the northern lands. As a cartographer in her service, you are sent to map this territory, claiming it for the Kingdom of Nalos. Through official edicts, the queen announces which lands she prizes most, and you will increase your reputation by meeting her demands. But you are not alone in this wilderness. The Dragul contest your claims with their outposts, so you must draw your lines carefully to reduce their influence. Reclaim the greatest share of the queen’s desired lands and you will be declared the greatest cartographer in the kingdom.
+> 
+> In Cartographers: A Roll Player Tale, players compete to earn the most reputation stars by the time four seasons have passed. Each season, players draw on their map sheets and earn reputation by carrying out the queen's edicts before the season is over. The player with the most reputation stars at the end of winter wins!
+
+![Cartographers game image](https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__itemrep/img/0wjmkvfHlWU5_l9dnaoDanV0s5U=/fit-in/246x300/filters:strip_icc()/pic4397932.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 100 |        10 | 30-45m |
 
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
@@ -307,6 +469,32 @@
 | ------: | -------: | ------: |
 |    2 -6 |        9 | 90-240m |
 
+### [Welcome to the Moon](https://boardgamegeek.com/boardgame/339789/welcome-moon)
+
+> You've built housing for humanity in neighborhoods and New Las Vegas. Now you need to save humanity through space colonization...
+> 
+> Welcome to the Moon uses the same flip-and-write game mechanisms as the earlier title Welcome To..., but now you can play in a campaign across eight adventure sheets. On a turn, you flip cards from three stacks to create three different combinations of a starship number and a corresponding action, then all players choose one of these three combinations. You use the number to fill a space in a zone on your adventure sheet in numerical order, and everyone is racing to be the first to complete common missions.
+> 
+> The eight adventure sheets feature very different mechanisms from the classic concept, and when you play in campaign mode, you'll make choices that change the next adventure, which means that each campaign will differ from the previous one.
+
+![Welcome to the Moon game image](https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__itemrep/img/S8KJaJ1UfomzoC4XGob6pIkresI=/fit-in/246x300/filters:strip_icc()/pic6204967.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |        10 | 25-30m |
+
+### [Wingspan Asia](https://boardgamegeek.com/boardgame/366161/wingspan-asia)
+
+> In this third expansion to Wingspan, we welcome new species to our habitats by exploring the vibrant, intriguing, and magnificent birds of Asia. These birds were chosen from the over 2,800 species that live in Asia.
+> Wingspan Asia is several different things: A stand-alone game for 1 player or 2 players (Duet mode that can be used with any bird/bonus cards), a card expansion to the original Wingspan (any bird/bonus cards across any Wingspan game or expansion can be combined), and a 6-7 player expansion via the new Flock mode (for which the player components from the core game are necessary).
+> —description from the publisher
+
+![Wingspan Asia game image](https://cf.geekdo-images.com/h1dRxq4lNMpuSUSGdgCmfA__itemrep/img/0qPO5ec-o8lueYYpLW2Hb2ikahU=/fit-in/246x300/filters:strip_icc()/pic7107431.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|    1 - 2 |        10 | 40-70m |
+
 ### [The Witcher: Old World](https://boardgamegeek.com/boardgame/331106/witcher-old-world)
 
 > The Witcher: Old World immerses you in the legendary universe of The Witcher franchise. In the time when monsters roamed the Continent, the well-trained Witchers were in high demand. Competing schools prepared them for perilous adventures and helping those in trouble in exchange for coins.
@@ -317,6 +505,22 @@
 | Players | Min. Age |    Time |
 | ------: | -------: | ------: |
 |    1 -5 |       14 | 90-150m |
+
+### [The Isle of Cats](https://boardgamegeek.com/boardgame/281259/isle-cats)
+
+> The Isle of Cats is a competitive, medium-weight, card-drafting, polyomino cat-placement board game for 1-4 players (6 with expansions).
+> 
+> In the game, you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique tile and belongs to a family, you must find a way to make them all fit on your boat while keeping families together. You will also need to manage resources as you:
+> - Explore the island (by drafting cards)
+> - Rescue cats
+> - Find treasures
+> - Befriend Oshax
+
+![The Isle of Cats game image](https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__itemrep/img/UTvJuevXkKm8HYOJYtUms_7iC2I=/fit-in/246x300/filters:strip_icc()/pic4781085.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |        8 | 60-90m |
 
 ## Strategy
 
