@@ -76,6 +76,10 @@
 - [PlayCanvas Forum](https://forum.playcanvas.com/) - Official PlayCanvas forum.
 - [WebXR Community Forum](https://www.webxr.community/) - Official forum for all things WebXR. Sister community to the WebXR Discord.
 
+### LinkedIn
+
+- [WebXR](https://www.linkedin.com/groups/9019254/) - WebXR LinkedIn Group
+
 ### Reddit
 
 - [r/WebVR](https://www.reddit.com/r/WebVR/) - Initially the main subreddit for WebVR discussion, now features general WebXR content along with [r/WebXR](https://www.reddit.com/r/WebXR/).
