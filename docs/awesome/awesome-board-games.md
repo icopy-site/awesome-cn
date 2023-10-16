@@ -651,6 +651,19 @@
 | ------: | -------: | ---: |
 |       2 |       10 |  30m |
 
+### [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist)
+
+> This age of art and capitalism has created a need for a new occupation - The Gallerist.
+> Combining the elements of an Art dealer, museum curator, and Artists’ manager, you are about to take on that job! You will promote and nurture Artists; buy, display, and sell their Art; and build and exert your international reputation. As a result, you will achieve the respect needed to draw visitors to your Gallery from all over the world.
+> There's a lot of work to be done, but don't worry, you can hire assistants to help you achieve your goals. Build your fortune by running the most lucrative Gallery and secure your reputation as a world-class Gallerist!
+> Maximize your money and thus win the game by:
+
+![The Gallerist game image](https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__itemrep/img/HBQJFsyK0mDMgd_DKxD4Xmhi4UA=/fit-in/246x300/filters:strip_icc()/pic2503200.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        13 | 60–150 Min |
+
 ### [Barrage](https://boardgamegeek.com/boardgame/251247/barrage)
 
 > In the dystopic 1930s, the industrial revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.
@@ -891,6 +904,18 @@
 | ------: | -------: | -------: |
 |    2-10 |       10 |  40-180m |
 
+
+### [Paladins of the West Kingdom](https://boardgamegeek.com/boardgame/266810/paladins-west-kingdom)
+
+> Paladins of the West Kingdom is set at a turbulent time of West Francia's story, circa 900 AD. Despite recent efforts to develop the city, outlying townships are still under threat from outsiders. Saracens scout the borders, while Vikings plunder wealth and livestock. Even the Byzantines from the east have shown their darker side. As noble men and women, players must gather workers from the city to defend against enemies, build fortifications and spread faith throughout the land. Fortunately you are not alone. In his great wisdom, the King has sent his finest knights to help aid in our efforts. So ready the horses and sharpen the swords. The Paladins are approaching.
+> The aim of Paladins of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by building outposts and fortifications, commissioning monks and confronting outsiders. Each round, players will enlist the help of a specific Paladin and gather workers to carry out tasks. As the game progresses, players will slowly increase their faith, strength and influence. Not only will these affect their final score, but they will also determine the significance of their actions. The game is concluded at the end of the seventh round.
+
+![Paladins of the West Kingdom game image](https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__itemrep/img/2YT-EqfAb6vwxDSrFQMSm-luQAs=/fit-in/246x300/filters:strip_icc()/pic4462987.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 90–120 Min |
+
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
 > Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.
@@ -1044,6 +1069,19 @@
 | Players | Min. Age | Time    |
 | ------: | -------: | ------: |
 |   1 - 4 |      14+ | 90-150m |
+
+### [Clans of Caledonia](https://boardgamegeek.com/boardgame/216132/clans-caledonia)
+
+> Clans of Caledonia is a mid-to-heavy economic game set in 19th-century Scotland. At this time, Scotland made the transition from an agricultural to an industrialized country that heavily relied on trade and export. In the following years, food production increased significantly to feed the population growth. Linen was increasingly substituted by the cheaper cotton and raising sheep was given high importance. More and more distilleries were founded and whisky became the premium alcoholic beverage in Europe.
+> Players represent historic clans with unique abilities and compete to produce, trade and export agricultural goods and of course whisky!
+> The game ends after five rounds. Each round consists of the three phases:
+
+![Clans of Caledonia game image](https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__itemrep/img/xxhvhwGExrMMiLD9lcsUvQoKxU8=/fit-in/246x300/filters:strip_icc()/pic3511783.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–4 |        12 | 30–120 Min |
+
 
 ### [Rising Sun](https://boardgamegeek.com/boardgame/205896/rising-sun)
 
@@ -1242,6 +1280,19 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | ------: |
 |   2 - 4 |       14 | 60-120m |
+
+
+
+### [Le Havre](https://boardgamegeek.com/boardgame/35677/le-havre)
+
+> In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.
+> After every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.
+
+![Le Havre game image](https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__itemrep/img/4Ks1jgI4QIqGjDjsOPIk9fJuLIE=/fit-in/246x300/filters:strip_icc()/pic6091101.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1–5 |        12+ | 30–150 Min |
 
 ### [Power Grid](https://en.wikipedia.org/wiki/Power_Grid)
 

@@ -49,7 +49,7 @@ Additional lists you might find useful:
 
 - [Acl plugin](https://github.com/cakephp/acl/) - Managing ACL as database approach.
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
-- [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) social sign on library.
+- 🍰 [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) social sign on library.
 - [ApiTokenAuthenticator plugin](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
 - 🍰 [Authentication plugin](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
 - 🍰 [Authorization plugin](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.

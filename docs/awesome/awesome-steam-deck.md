@@ -34,6 +34,7 @@ Choose what you find more suitable for you:
 - [Use Xbox Cloud Gaming](https://support.microsoft.com/en-us/topic/xbox-cloud-gaming-in-microsoft-edge-with-steam-deck-43dd011b-0ce8-4810-8302-965be6d53296) - How to use Xbox Cloud Gaming.
 - [Install NonSteamLaunchers](https://www.steamdeckgaming.net/post/easy-launchers-install-on-steam-deck) - How to install NonSteamLaunchers.
 - [Activate SFTP](https://www.youtube.com/watch?v=Cb1U0_KbtLQ) - How to transfer files from PC to Steam Deck with SFTP.
+- [Install ProtonDB Badges Plugin](https://steamdecklife.com/2022/10/18/protondb-badges-steam-deck-plugin/) - How to install ProtonDB Badges Plugin which gives you games compatibility rating from the ProtonDB website.
 
 ## Hardware
 - [Sabrent Rocket 2230 SSD](https://www.amazon.com/SABRENT-Rocket-2230-Performance-SB-2130-1TB/dp/B0BQG6JCRP/) - Suggested SSD made by Sabrent.
@@ -102,13 +103,20 @@ Choose what you find more suitable for you:
 
 ## Community
 - [r/SteamDeck](https://reddit.com/r/SteamDeck) - Official subreddit.
+- [r/EmuDeck](https://www.reddit.com/r/EmuDeck) - Subreddit of EmuDeck, emulators on Steam Deck.
 - [Steam Deck Italia](https://t.me/SteamDeckIta) - Telegram italian community.
+- [Steam Deck Espana](https://t.me/SteamDeckPortatil) - Telegram spanish community.
+- [Steam Deck Group](https://t.me/steamdecktalk) - Telegram chinese community.
+- [Steam Deck Чат](https://t.me/steamdeckschat) - Telegram russian community.
 - [protondb.com](https://protondb.com) - Official ProtonDB site with games reviews and compatibility lists.
 - [Steam Deck Community](https://steamdeck.community/) - An independent community.
 - [Steam Deck Discord](https://discord.com/channels/865611969661632521/) - A Discord community.
+- [Steam Deck Italia](https://www.facebook.com/groups/340493584341055/) - Facebook italian group.
+- [Steam Deck](https://www.facebook.com/groups/steamdeck/) - Facebook english group.
 
 ## Blog
 - [Steam Deck Life](https://steamdecklife.com/) - A blog about Steam Deck.
+- [Steam Deck HQ](https://steamdeckhq.com/) - A blog focused on Steam Deck Games but not only games, everything deck related.
 
 ## Podcast
 - [On Deck](https://open.spotify.com/show/5oH7NqKxSPiVFANLuYgDSn) - A podcast on Spotify by Nerdnest.

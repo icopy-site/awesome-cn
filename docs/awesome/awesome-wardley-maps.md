@@ -177,7 +177,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Q&A with Simon's Book](https://wardley-book-chat.streamlit.app/) - Ask Simon's book anything. Have a chat with the book.
 - [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
 - [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
-
+- [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
+- 
 ### Development
 - [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 - [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.

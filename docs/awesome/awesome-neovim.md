@@ -228,6 +228,7 @@
 - [echasnovski/mini.nvim#mini.fuzzy](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 - [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a brand new fzf plugin build from scratch, focused on usability, customization and performance.
+- [echasnovski/mini.nvim#mini.pick](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 
 ## File Explorer
 
@@ -384,6 +385,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
 - [cryptomilk/nightcity.nvim](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 - [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
+- [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
 
 ### Lua Colorscheme
 
@@ -426,6 +428,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - Galaxyline componentizes Vim's statusline by having a provider for each text area. This means you can use the api provided by galaxyline to create the statusline that you want, easily.
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - Supports co-routines, functions and jobs.
+- [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure Neovim statusline.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - A light statusline/tabline plugin using Lua.
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A statusline / bufferline. It is inspired by [vim-airline](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
@@ -954,7 +957,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [antonk52/bad-practices.nvim](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ## Preconfigured Configuration
-
+- [sontungexpt/stinvim](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 - [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
 - [SpaceVim/SpaceVim](https://spacevim.org) - A community-driven modular Vim/Neovim distribution, like spacemacs but for Vim/Neovim.
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!

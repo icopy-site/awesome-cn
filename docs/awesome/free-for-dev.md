@@ -1128,6 +1128,7 @@ Update Time, five active automations, webhooks.
 
 ## IaaS
 
+  * [4EVERLAND](https://www.4everland.org/) — Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
   * [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. The free plan provides 1 Project, 25 GB storage, and 25 GB monthly bandwidth.
@@ -1326,6 +1327,7 @@ Update Time, five active automations, webhooks.
   * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
   * [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a complete coding platform where teams build, document, publish, scale, and maintain Design Systems. The free plan allows up to 3 editors to work on one design system with unlimited viewers.
   * [BoxySVG](https://boxy-svg.com/app) — A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
+  * [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
   * [Circum Icons](https://circumicons.com) - Consistent open-source icons such as SVG for React, Vue, and Svelte.
   * [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
   * [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. Two hundred eight supported formats including videos and gifs.
