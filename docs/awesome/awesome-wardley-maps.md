@@ -167,7 +167,6 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Commercial Enterprise Platforms
 
-- [Wemvula](https://wemvu.la/docs/pg.why.us.php) - A visual transformation platform that provides the situational awareness to make sense of your interconnected web of needs, ideas, service components, supply contracts and change activities.
 
 ## Tools & Scripts
 

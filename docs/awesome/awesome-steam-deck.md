@@ -44,6 +44,19 @@ Choose what you find more suitable for you:
 - [Spigen Rugged Armor Protective Case](https://www.amazon.com/Protective-Shock-Absorption-Anti-Scratch-Accessories-nintendo-switch/dp/B0B75N73N9/) - Suggested protective case made by Spigen.
 - [Maglass Screen Protector](https://www.amazon.com/Magglass-Tempered-Designed-Protector-Anti-Glare/dp/B09X82S4XL/) - Suggested screen protector made by Maglass.
 - [JSAUX Cooling Fans](https://jsaux.com/products/fan-cooler-for-steam-deck-gp0200) - Cooling fans for reducing overall temperatures made by JSAUX.
+- [NexDock](https://nexdock.com/features/) - Turn Steam Deck into a laptop.
+- [Killswitch](https://dbrand.com/killswitch) - Protective case made by dbrand for Steam Deck.
+- [Carrying Case](https://jsaux.com/products/upgraded-carrying-case-for-steam-deck-bg0106) - Protective case for Steam Deck for accessories, chargers and cables.
+- [Standing Case](https://jsaux.com/products/upgraded-protective-standing-case-for-steam-deck-pc0105) - Protective Standing Case for Steam Deck.
+- [Silicon Case](https://jsaux.com/products/steam-deck-protective-case) - Silicon Protective Case for Steam Deck.
+- [6-in-1 Docking Station](https://jsaux.com/products/upgraded-docking-station-for-steam-deck) - JSAUX 6-in-1 Docking Station for Steam Deck.
+- [Steam Deck Dock](https://store.steampowered.com/steamdeckdock) - Steam Deck Docking Station by Valve.
+- [iVoler Dock](https://www.ivoler.com/products/upgraded-docking-station-for-steam-deck) - iVoler 6in-1 Docking Station for Steam Deck.
+- [Syntech Dock](https://syntechhome.com/products/syntech-docking-station-compatible-with-steam-deck) - Syntech 6-in-1 Docking Station for Steam Deck.
+- [UGREEN Dock](https://eu.ugreen.com/collections/docking-station/products/copy-of-snap-deal-ugreen-docking-station-for-steam-deck) - UGREEN Docking Station for Steam Deck.
+- [Extreme Rate Shells](https://extremerate.com/collections/steam-deck-shells) - Extreme Rate Steam Deck Shells.
+- [GamingCobra Shells](https://www.gamingcobra.com/collections/steam-deck-shells) - Gaming Cobra Steam Deck Shells.
+- [JSAUX Transparent Back Plate](https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106) - JSAUX Transparent Back Plate for Steam Deck.
 
 ## Software
 - [Distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal.
@@ -91,6 +104,7 @@ Choose what you find more suitable for you:
 - [Cryoutilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts and utilities to improve performance and manage storage.
 - [Steam Deck Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Script to purge Steam Deck shader cache.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves.
+- [Deck Verified](https://www.steamdeck.com/en/verified) - Steam games compatible with Steam Deck by Valve.
 
 ## Plugin
 - [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Plugin launcher.
