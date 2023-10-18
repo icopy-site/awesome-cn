@@ -3,17 +3,17 @@
 <!--lint ignore double-link-->
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-gatling/master/assets/images/gatling-logo.svg?sanitize=true" align="right" width="260" alt="Gatling">](https://gatling.io/)
 <!--lint ignore double-link-->
-精选的资源集合，涵盖使用负载测试的所有方面 [Gatling](https://gatling.io/) 以及相关的东西：插件、集成、测试技术、DevOps 实践等.
+A curated collection of resources covering all aspects of load testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
 <!--lint ignore double-link-->
-> [Gatling](https://gatling.io/) 是一个基于 Scala、Akka 和 Netty 的开源负载和性能测试框架.
+> [Gatling](https://gatling.io/) is an open-source load and performance testing framework based on Scala, Akka and Netty.
 
 
 
 ## Official Resources
 <!--lint ignore double-link-->
 - [Homepage](https://gatling.io/)
-  - [Gatling](https://gatling.io/open-source/) - 开源版本.
-  - [Gatling Enterprise](https://gatling.io/enterprise/) - 企业版（以前称为 Gatling FrontLine），具有高级分析和集成.
+  - [Gatling](https://gatling.io/open-source/) - Open-source version.
+  - [Gatling Enterprise](https://gatling.io/enterprise/) - Enterprise version (formerly known as Gatling FrontLine), with advanced analytics and integrations.
 - [Documentation](https://gatling.io/docs/gatling/)
 - [Source code](https://github.com/gatling/gatling)
 
@@ -33,85 +33,85 @@
 
 ## Distributed Testing
 
-- [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - 使用来自官方 Gatling 文档的多台机器托管的多个 Gatling 实例的配方.
+- [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
 - [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 - [Gatling – Scaling Out Your Load Tests](https://web.archive.org/web/20210625094528/http://www.nimrodstech.com/gatling-cluster-load-testing/)
-- [Distributed Gatling](https://github.com/Abiy/distGatling) - 在分布式/集群环境中运行 Gatling 模拟测试的解决方案.
-- [gatling-operator](https://github.com/st-tech/gatling-operator) - 使用 Kubernetes 运算符自动化分布式 Gatling 负载测试.
+- [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
+- [gatling-operator](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
 ## Tools
 
 ### Plugins
 
-- [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT 插件将 Gatling 与 SBT 集成，允许使用 Gatling 作为测试框架.
-- [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - 一个 SBT 插件，用于在 Gatling 的项目构建中共享通用设置.
-- [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - 加特林 Maven 扩展.
-- [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) - Gradle 的 Gatling 插件.
-- [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) - 用于 Gatling 负载测试的远程执行插件.
-- [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) - 围绕 Gatling 模拟的 JUnit 包装器.
-- [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - gRPC 的 Gatling 负载测试插件.
-- [gatling-aws](https://github.com/callistaenterprise/gatling-aws) - AWS Lambda 的 Gatling 自定义协议.
-- [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) - 使用 Gatling 对 XMPP 服务器进行压力测试的 XMPP 协议.
-- [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - Gatling 2.0 的扩展，以帮助发出 JWT 签名的请求.
-- [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) - 用于压力测试 MQTT 的 Gatling 插件.
-- [gatling-kafka](https://github.com/mnogu/gatling-kafka) - 用于压力测试 Apache Kafka 协议的 Gatling 插件.
-- [gatling-kafka-plugin](https://github.com/Tinkoff/gatling-kafka-plugin) - 用于在 Gatling 中支持 Kafka 的插件.
-- [gatling-amqp-plugin](https://github.com/Tinkoff/gatling-amqp-plugin) - 支持在 Gatling (3.2.x) 中使用 AMQP 进行性能测试的插件.
-- [gatling-jdbc-plugin](https://github.com/Tinkoff/gatling-jdbc-plugin) - 用于 JDBC 支持的简单 Gatling 插件.
-- [gatling-picatinny](https://github.com/Tinkoff/gatling-picatinny) - 具有许多扩展 Gatling DSL 的有用功能的库.
-- [gatling-sql](https://github.com/tmcgrath/gatling-sql) - 用于 JDBC 或 Spark Thrift 服务器压力测试的 Gatling 扩展.
-- [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) - Gatling 的 TCP 扩展.
-- [gatling-thrift](https://github.com/3tty0n/gatling-thrift) - Apache Thrift 的 Gatling 第三方插件.
-- [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) - 支持 Gatling 的 Neo4j Bolt 协议.
-- [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) - ZeroMQ 协议的 Gatling 压力测试插件.
-- [gatling-dubbo](https://github.com/youzan/gatling-dubbo) - 用于在 Apache Dubbo 上运行负载测试的 Gatling 插件.
-- [gatling-cql](https://github.com/gatling-cql/GatlingCql) - 对 Apache Cassandra CQL 的 Gatling 支持.
+- [gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+- [gatling-build-plugin](https://github.com/gatling/gatling-build-plugin) - An SBT plugin to share common settings across Gatling's projects' builds.
+- [gatling-maven-plugin](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
+- [gatling-gradle-plugin](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
+- [gatling-remote-sbt](https://github.com/Pravoru/gatling-remote-sbt) - Remote execution plugin for Gatling load tests.
+- [gatling-junitrunner](https://github.com/Pravoru/gatling-junitrunner) - JUnit wrapper around Gatling simulations.
+- [gatling-grpc](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
+- [gatling-aws](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
+- [gatling-xmpp-protocol](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
+- [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
+- [gatling-mqtt](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
+- [gatling-kafka](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
+- [gatling-kafka-plugin](https://github.com/Tinkoff/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+- [gatling-amqp-plugin](https://github.com/Tinkoff/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+- [gatling-jdbc-plugin](https://github.com/Tinkoff/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
+- [gatling-picatinny](https://github.com/Tinkoff/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+- [gatling-sql](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
+- [gatling-tcp-extensions](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
+- [gatling-thrift](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
+- [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
+- [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
+- [gatling-dubbo](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+- [gatling-cql](https://github.com/gatling-cql/GatlingCql) - Gatling support for Apache Cassandra CQL.
 
 ### Frameworks
 
-- [Kraken](https://github.com/OctoPerf/kraken) - 基于 Gatling 的负载测试 IDE by [OctoPerf](https://octoperf.com/categories/kraken/).
-- [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - 重新使用 Karate API 测试作为 Gatling 执行的性能测试.
-- [Taurus](https://gettaurus.org/docs/Gatling/) - Taurus 框架中的 Gatling Executor.
-- [Carrier](https://getcarrier.io/) - 连续测试执行平台，能够使用定制的 JMeter 和 Gatling 容器执行负载测试.
+- [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://octoperf.com/categories/kraken/).
+- [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
+- [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
+- [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
 ### Reporting
 
-- [gatling-report](https://github.com/nuxeo/gatling-report) - 解析 Gatling simulation.log 文件以输出 CSV 统计数据或使用 Plotly 图表构建 HTML 报告.
-- [gatling2allure](https://github.com/biski/gatling2allure) - 将 Gatling 日志转换为 Allure 报告.
+- [gatling-report](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+- [gatling2allure](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 
 ### Sandbox
 
-- [gatling-scaffold](https://github.com/robsonbittencourt/gatling-scaffold) - 使用 Gatling、InfluxDB 和 Grafana 的负载测试项目的基础.
-- [perfiz](https://github.com/znsio/perfiz) - 基于 Gatling 的 dockerised API 性能测试设置，带有 Grafana 仪表板和 Prometheus 监控.
+- [gatling-scaffold](https://github.com/robsonbittencourt/gatling-scaffold) - Base for load test project using Gatling, InfluxDB and Grafana.
+- [perfiz](https://github.com/znsio/perfiz) - A dockerised API performance test setup based on Gatling with Grafana dashboards and Prometheus monitoring.
 
 ### Miscellaneous
 
-- [dakiya](https://github.com/rupeshmore/dakiya) - 将 Postman 集合转换为 Gatling 脚本.
-- [gatling.g8](https://github.com/gatling/gatling.g8) - Gatling 的 Giter8 模板.
-- [gatling-template.g8](https://github.com/Tinkoff/gatling-template.g8) - Gatling 性能测试项目的 Giter8 模板.
+- [dakiya](https://github.com/rupeshmore/dakiya) - Convert Postman collections to Gatling scripts.
+- [gatling.g8](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
+- [gatling-template.g8](https://github.com/Tinkoff/gatling-template.g8) - A Giter8 template for Gatling performance test project.
 
 ## CI
 
-- [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) 对于加特林.
-- [run-gatling](https://github.com/liatrio/run-gatling) - GitHub Action 可轻松将 Gatling 性能测试集成到 GitHub 工作流中.
+- [Gatling Jenkins Plugin](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
+- [run-gatling](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
 ## Trainings & Courses
 
 - [Gatling Academy](https://gatling.io/academy/)
-- [Gatling Courses](https://www.udemy.com/topic/gatling/) - 由乌迪米.
-- [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - 通过教育.
+- [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
+- [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
 ## Videos
 
 ### Talks
 
 - [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - Stéphane Landelle @ Voxxed Days Belgrade 2015.
-- [Load Testing Crash Course with Gatling](https://www.youtube.com/watch?v=RiM1GsVSbzM) - Stéphane Landelle @ Devoxx 比利时 2022.
+- [Load Testing Crash Course with Gatling](https://www.youtube.com/watch?v=RiM1GsVSbzM) - Stéphane Landelle @ Devoxx Belgium 2022.
 
 ### Video Tutorials
 
-- [Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz) - Tomi Tiihonen 的教程系列.
-- [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - James Willett 的教程系列.
+- [Performance Testing with Gatling](https://www.youtube.com/playlist?list=PLd4gvNaNZ4T3NCWsv3zwHYlLGtr9s1-Fz) - Tutorial series by Tomi Tiihonen.
+- [Gatling Tutorials for Beginners](https://www.youtube.com/playlist?list=PLw_jGKXm9lIYpTotIJ-R31pXS7qqwXstt) - Tutorial series by James Willett.
 
 ## Community
 
@@ -123,19 +123,19 @@
 
 ### Awesome Lists
 
-- [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - 免费软件测试和验证资源列表.
-- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - 精选的测试资源列表.
-- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - 开源负载测试和性能测量工具，用 Java 编写.
-- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - 开源多协议分布式负载测试工具，使用 Erlang 开发.
-- [Awesome k6](https://github.com/grafana/awesome-k6) - 开源、以开发人员为中心的性能监控和负载测试解决方案.
-- [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - 用 Python 编写的开源可扩展负载测试框架.
+- [Awesome Software Quality](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+- [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+- [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+- [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ### Other
 
-- [How They Load Test](https://github.com/aliesbelik/how-they-load) - 关于世界各地的公司如何执行负载测试的公开可用资源的精选集合.
-- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - 用于调试、基准测试、负载和压力测试您的代码或服务的开源工具集合.
+- [How They Load Test](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## Contributing
 
-欢迎投稿！<br>
-请看一下 [CONTRIBUTING](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md) 准则第一.
+Contributions are welcome!<br>
+Please take a look at the [CONTRIBUTING](https://github.com/aliesbelik/awesome-gatling/blob/master/CONTRIBUTING.md) guidelines first.

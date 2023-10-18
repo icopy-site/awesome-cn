@@ -3,7 +3,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
-This is a list of useful Wardley mapping resources and examples. Short URL: [list.wardleymaps.com](https://list.wardleymaps.com). Contributions welcome! [Contribution guidelines](https://list.wardleymaps.com/contributing) for adding something to the list. 
+This is a list of useful Wardley mapping resources and examples. Short URL: [list.wardleymaps.com](https://list.wardleymaps.com). Contributions welcome! [Contribution guidelines](https://list.wardleymaps.com/contributing) for adding something to the list.
 
 
 
@@ -45,7 +45,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Talks by Simon Wardley and the Wardley mapping community.
 - [Wardley Maps BarCamp 2020](https://www.youtube.com/playlist?list=PLP0vnsXbJsRVZSbkzWUA-q0eRU5R5bBu1) - Over 10 hours of presentations by 17 speakers.
 - [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
-  
+
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - Learn how to stimulate future ideas and strategies with the Leading Edge Forum.
@@ -121,7 +121,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases by Simon Wardley. May 25, 2017.
 - [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - By Simon Wardley. May 12, 2017.
 - [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629) - By James Urquhart. Mar 24, 2017.
-- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270) - By James Urquhart. Feb 4, 2017. 
+- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270) - By James Urquhart. Feb 4, 2017.
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974) - Pioneer, Settler and Town Planner (Wardley PST). Jan 31, 2017.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
 - [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6) - How do you extract value from the jumble of components and value relationships by James Urquhart. Jan 12, 2017.
@@ -155,7 +155,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
-- [Mapkeep](https://mapkeep.com/) - Mapkeep is a place to keep 😉 your Wardley Maps. Create, share, and discuss maps with others. Host your maps for free with unlimited public repositories. For updates, you can follow [@mapkeep](https://twitter.com/mapkeep) on Twitter, subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), or subscribe to the [News and Updates blog](https://mapkeep.substack.com/).
+- [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 - [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 - [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 - [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
@@ -177,7 +177,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Research Map Chat](https://wardleyresearchchat.streamlit.app/) - Have an AI chat with Simon's Research 2022 Wardley Maps.
 - [Learn Wardley Mapping Bot](https://wardleymapbot.streamlit.app/) - Learn Wardley Mapping by chatting to a specially configured bot.
 - [Chat with Wardley YouTube content](https://wardleygpt.streamlit.app/) - Have a chat with all of Simon's YouTube content.
-- 
+-
 ### Development
 - [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 - [Convert WM format to JSON](https://wm2json.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON.
@@ -185,7 +185,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ## Templates
 
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) - A semi-serious reflection on the problem space of tools for mapping, and an overview of all sorts of mapping tools and techniques.
-- 
+-
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
@@ -226,11 +226,11 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
   - Germany
     - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
     - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
-    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
+    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)
   - Netherlands
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   - Norway
-    - [Oslo](https://www.meetup.com/oslo-wardley-mapping)    
+    - [Oslo](https://www.meetup.com/oslo-wardley-mapping)
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
   - Spain

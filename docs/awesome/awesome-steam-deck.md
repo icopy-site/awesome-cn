@@ -39,6 +39,7 @@ Choose what you find more suitable for you:
 ## Hardware
 - [Sabrent Rocket 2230 SSD](https://www.amazon.com/SABRENT-Rocket-2230-Performance-SB-2130-1TB/dp/B0BQG6JCRP/) - Suggested SSD made by Sabrent.
 - [SanDisk Extreme microSD](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter/dp/B09X7MPX8L/) - Suggested microSD made by SanDisk.
+- [Steam Deck Refurbished](https://store.steampowered.com/sale/steamdeckrefurbished) - Certified Refurbished Steam Deck.
 
 ## Accessory
 - [Spigen Rugged Armor Protective Case](https://www.amazon.com/Protective-Shock-Absorption-Anti-Scratch-Accessories-nintendo-switch/dp/B0B75N73N9/) - Suggested protective case made by Spigen.
@@ -57,6 +58,18 @@ Choose what you find more suitable for you:
 - [Extreme Rate Shells](https://extremerate.com/collections/steam-deck-shells) - Extreme Rate Steam Deck Shells.
 - [GamingCobra Shells](https://www.gamingcobra.com/collections/steam-deck-shells) - Gaming Cobra Steam Deck Shells.
 - [JSAUX Transparent Back Plate](https://jsaux.com/products/transparent-back-plate-for-steam-deck-pc0106) - JSAUX Transparent Back Plate for Steam Deck.
+- [Corsair K70 Pro Mini](https://www.amazon.com/dp/B0B4SW81GW/) - 60% wireless mechanical keyboard.
+- [Razer Viper V2 Pro](https://www.amazon.com/dp/B09VCR969M) - Premium gaming mouse with great set of features.
+- [8BitDo Wireless 2.4g Controller](https://www.amazon.com/dp/B0B9BR6H7N/) - Great controller for those who want a console-like gaming experience.
+- [HyperX Cloud II Wireless](https://www.amazon.com/dp/B00SAYCXWG/) - Value-for-money wireless headset for your Steam Deck.
+- [Razer Hammerhead (2021)](https://www.amazon.com/dp/B099LZ2BGB/) - Wireless earbuds for your Steam Deck.
+- [Acer Nitro XV272U Vbmiiprx 27" Monitor](https://www.amazon.com/dp/B09R26XXFW/) - 27-inch WQHD gaming monitor from Asus.
+- [ViewSonic VX1755](https://www.amazon.com/dp/B09CQJ39YS/) - Large-screen gaming experience with this portable gaming monitor from ViewSonic.
+- [Anker 7-in-1 USB-C Hub](https://www.amazon.com/dp/B07ZVKTP53) - 7-in-1 USB-C hub from Anker is a great alternative to a dedicated Steam Deck dock.
+- [Spigen Rugged Armor Case](https://www.amazon.com/dp/B0B75N73N9) - Protect your shiny-new Steam Deck from scratches and drops.
+- [Spigen Tempered Glass](https://www.amazon.com/dp/B0BGQSZJTG) - Spigen's Tempered Glass Screen Protector for Steam Deck.
+- [Anker PowerCore](https://www.amazon.com/dp/B09VPHVT2Z) - Anker 737 PowerCore portable charger with 24,000mAh battery and offers 140W output.
+- [Deckmate Detachable Kickstand System](https://www.amazon.com/dp/B0BV8N5JS2) - Mount Anything to your Steam Deck.
 
 ## Software
 - [Distrobox](https://github.com/89luca89/distrobox) - Use any Linux distribution inside your terminal.
@@ -65,6 +78,8 @@ Choose what you find more suitable for you:
 - [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) - An app for managing ROMs in Steam.
 - [Discord Overlay](https://trigg.github.io/Discover/deckaddnonsteamgame) - Discord Overlay for Steam.
 - [SteamOS Btrfs](https://gitlab.com/popsulfr/steamos-btrfs) - Convert the /home partition from ext4 to btrfs.
+- [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage third-party compatibility tools for Steam Games.
+- [Clover](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) - Graphical boot manager for the Steam Deck.
 
 ## Emulation
 - [EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator.
@@ -104,7 +119,6 @@ Choose what you find more suitable for you:
 - [Cryoutilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts and utilities to improve performance and manage storage.
 - [Steam Deck Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) - Script to purge Steam Deck shader cache.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves.
-- [Deck Verified](https://www.steamdeck.com/en/verified) - Steam games compatible with Steam Deck by Valve.
 
 ## Plugin
 - [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Plugin launcher.
@@ -114,10 +128,13 @@ Choose what you find more suitable for you:
 - [Steam Deck](https://www.steamdeck.com/) - Official Steam Deck website.
 - [Great On Deck](https://store.steampowered.com/steamdeck/mygames) - A list of verified Steam Deck games.
 - [CheckMyDeck](https://checkmydeck.ofdgn.com/) - Check compatibility with Steam Deck of your games library.
+- [Deck Verified](https://www.steamdeck.com/en/verified) - Steam games compatible with Steam Deck by Valve.
+- [Repair Steam Deck](https://www.ifixit.com/Device/Steam_Deck) - Repair, disassembly, and troubleshooting information for the Steam Deck.
 
 ## Community
 - [r/SteamDeck](https://reddit.com/r/SteamDeck) - Official subreddit.
 - [r/EmuDeck](https://www.reddit.com/r/EmuDeck) - Subreddit of EmuDeck, emulators on Steam Deck.
+- [r/WindowsOnDeck](https://www.reddit.com/r/WindowsOnDeck/) - Subreddit for Windows users on Steam Deck.
 - [Steam Deck Italia](https://t.me/SteamDeckIta) - Telegram italian community.
 - [Steam Deck Espana](https://t.me/SteamDeckPortatil) - Telegram spanish community.
 - [Steam Deck Group](https://t.me/steamdecktalk) - Telegram chinese community.
