@@ -50,7 +50,6 @@ Content about: JavaScript, JavaScript frameworks \
 Featured playlists: `Code Wars Code Katas`. \
 <br />
 
-
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzCCG7r_PWNZBE9SOTRKKGMiBGcTG8XAA33BT2Axw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/derekbanas)
 
 [**Derek Banas**](https://www.youtube.com/c/derekbanas) \
@@ -93,7 +92,6 @@ Featured playlists: `DevOps Tutorial for Beginners`, `Artificial Intelligence Tu
 [**ProgrammingKnowledge**](https://www.youtube.com/c/ProgrammingKnowledge) \
 Content about: Backend, APIs \
 Featured playlists: `Node.js Tutorial for Beginners`, `Python 3 Tutorial for Beginners`, `C++ Programming Tutorial for Beginners`, `other videos about different programming languages`.
-
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXTGNb9fHAe65rAIHAHkq0D227_WF4IsvdIXw-6Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/smartherd)
 
@@ -459,6 +457,12 @@ Featured playlists: `Wordpress theme development`, `Learn CSS`. \
 Content about: Javascript, CSS, HTML, Vue.js, React.js, Tailwind CSS, MongoDB, Express.js, Web development \
 Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI in 60 minutes`, `Full Stack Vue.js, Express and MongoDB`, `Async JS crash course`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/APkrFKayeWNVehgthRdZYIzWAQMjF9c3jndNKh07l_Kx=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Frankslaboratory)
+
+[**Franks laboratory**](https://www.youtube.com/@Frankslaboratory) \
+Content about: CSS, HTML, JavaScript \
+Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Effects Masterclass`, `CSS3 Experiments`, `Game Development with Vanilla JavaScript`.
+
 ### Backend
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwaVSApA3XTqXzAzHlt-4Rji44iwWdY49_d1RqxdDw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/swyxTV)
@@ -479,8 +483,7 @@ Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message
 
 [**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) \
 Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
-Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`. \
-<br />
+Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@dreamsofcode)
 

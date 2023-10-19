@@ -767,6 +767,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting, and status pages in a single product. The free plan includes ten monitors with 3-minute check frequency and status pages.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.
   * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
+  * [Xitoring.com](https://xitoring.com/) — Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
 
 
 ## Crash and Exception Handling
@@ -1398,7 +1399,7 @@ Update Time, five active automations, webhooks.
   * [Wdrfree SVG](https://wdrfree.com/free-svg) - Black and White Free SVG Cut files.
   * [Lucide](https://lucide.dev) - Free customizable and consistent SVG icon toolkit.
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & colossal community.
-  * [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+  * [TW Elements](https://tw-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
   * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
   * [Scrollbar.app](https://scrollbar.app) -- Simple free web app for designing custom scrollbars for the web.
   * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS.

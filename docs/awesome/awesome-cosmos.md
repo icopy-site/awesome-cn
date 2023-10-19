@@ -62,6 +62,7 @@ Please read the [Contributing guide](https://github.com/cosmos/awesome-cosmos/bl
 * [pyCosmicWrap](https://github.com/ChihuahuaChain/pyCosmicWrap/) - A python3 wrapper around Cosmos API/RPC.
 * [mospy](https://github.com/ctrl-Felix/mospy) - A Python library to create and sign transactions for Cosmos SDK based coins.
 * [cosmospy-protobuf](https://github.com/ctrl-Felix/cosmospy-protobuf) - A Python library containing all compiled protobuf files (works very good for grpc).
+* [fx-py-sdk](https://github.com/functionx/fx-py-sdk) - The Cosmos Python client library.
 
 ### Rust
 

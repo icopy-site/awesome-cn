@@ -41,6 +41,7 @@ This is a curated list for when naming things is done right.
 ## Functions
 
 - [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)) - Like a blanket being folded up, this function iterates a collection and in each step combines the current item with everything that has already been folded.
+- [munch](https://hackage.haskell.org/package/base-4.19.0.0/docs/Text-ParserCombinators-ReadP.html#v:munch) - Parser function that greedily consumes an input stream until it's satisfied.
 - [trampoline](https://clojuredocs.org/clojure.core/trampoline) - Continuously runs functions which itself return functions. Like a child on a trampoline that _returns_ and bounces back up. 
 - [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) - Merges two lists into one list of pairs like the interlocking teeth of a zipper.
 

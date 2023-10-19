@@ -518,6 +518,30 @@
 | ------: | -------: | -----: |
 |   1 - 100 |        10 | 30-45m |
 
+### [Tide of Fortune](https://boardgamegeek.com/boardgame/3354/tide-fortune)
+
+> This is an evolution of the Westwar series first introduced by Vanguard Games with Pas de Calais. Other games using a similar system are To the Far Shore and the Italian Campaign series (Sicily, Salerno, Anzio and Med War).
+>
+> Tide of Fortune features the September-October Allied campaign in northern Belgium and in the Low countries, culminating with the Arnhem operation.
+>
+> Scale is 1-2 days/turn (variable because of the Impulse system), 3 km/hex. Units are regiments/brigades.
+>
+> The game has 2 22"x34" maps, 300 counters.
+>
+> The heart of the system is the Operations phase where players alternate activating formations (divisions) which execute Orders (Assault, Advance, Maneuver etc.).
+>
+> Players bid for Initiative and there are possibilities for the Reaction player to foil the initiative player's moves by having units react and do spoiling attacks.
+>
+> Losses can be applied to the HQ of a formation, not only directly to units.
+>
+> Low counter density, high maneuver. Medium-high complexity.
+
+<img src="https://cf.geekdo-images.com/vkDLqn-CMvTelKH0BvBBRA__imagepage/img/k2e0JHeSt5AwvNJco2rzFAXXaKM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3446255.jpg" width="270" height="285">
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|    1 -2 |      12  |   360m  |
+
 ### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
 
 > Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
@@ -2208,6 +2232,26 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | ------: | -------: | -----: |
 |   2 - 4 |        6 | 30-35m |
 
+### [Forest Shuffle](https://boardgamegeek.com/boardgame/391163/forest-shuffle)
+
+> In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.On a turn, either draw two cards — whether face down from the deck or face up from the clearing — and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.Each tree and dweller shows a cost, and to pay this cost, you must discard cards from your hand into the clearing face up. If you play a tree, flip the top card of the deck into the clearing, then place the tree in front of you. If you play a dweller, pay only the cost on the dweller you choose, then slide this card under a tree that has an empty side that matches the dweller you want to play. (A tree can have cards played on all four sides of it: top, bottom, left, and right.)
+
+![Forest Shuffle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk96Soxg16hec_i8-hs_hOnxn7dNJhRFfqBfomV7lc48kaTczCHxUyWCJw2GGZwfQzOl4&usqp=CAU)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |       10 | 40-60m |
+
+### [Frosthaven](https://boardgamegeek.com/boardgame/295770/frosthaven)
+
+> Frosthaven is a standalone adventure from the designer and publisher of Gloomhaven that features sixteen new characters, three new races, more than twenty new enemies, more than one hundred new items, and a new, 100-scenario campaign. Characters and items from Gloomhaven will be usable in Frosthaven, and vice versa.In addition to having the well-known combat mechanisms of Gloomhaven, Frosthaven will feature much more to do outside of combat, such as numerous mysteries to solve, a seasonal event system to live through, and player control over how this ramshackle village expands, with each new building offering new ways to progress.Frosthaven has a whole new set of items but there is a mechanic for bringing items over from 'Gloomhaven'. However, as it is a remote location, these products get imported and are not there as standard. Resources are much more valuable and you have to build items through a crafting system rather than just buy them.
+
+![Frosthaven](https://cf.geekdo-images.com/iEBr5o8AbJi9V9cgQcYROQ__itemrep/img/Z2XUvMkSdxK4qiewCLTJvUl41gA=/fit-in/246x300/filters:strip_icc()/pic6177719.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       14 |30-120m |
+
 ### [Outfoxed](https://boardgamegeek.com/boardgame/172931/outfoxed)
 
 > This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
@@ -2217,6 +2261,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
 |   2 - 4 |       5  |  20m   |
+
+### [Dice Forge](https://boardgamegeek.com/boardgame/194594/dice-forge)
+
+> Dice Forge is a unique and exciting board game that challenges players to become gods by defeating their rivals. In this game, players are given divine dice that they can customize by snapping new faces onto them. The game combines some of the best mechanics of resource collection, dice rolling, and ability usage, making it a fun and engaging experience for players of all ages. To set up the game, players choose a hero and take a reserve board and four tracking cubes in their color, and start everything off at zero.
+
+![Dice Forge](https://cf.geekdo-images.com/4BTVGQWO0M9ayxyku3FW6Q__itemrep/img/0hqPt1oo9J1GxmHqluUP-QC7xII=/fit-in/246x300/filters:strip_icc()/pic3477004.jpg)
+
+| Players | Min. Age | Time   |
+|-------: | -------: | ------:|
+|   2 - 4 |       10 |  45m   |
 
 ## Contribute
 
