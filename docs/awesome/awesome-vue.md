@@ -1540,6 +1540,7 @@ _Display non-editable events in a Calendar_
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 - [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
+- [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 - [qalendar](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 #### Map
@@ -2355,6 +2356,8 @@ _Set of components + responsive layout system_
 - [Vuetensils](https://vuetensils.com) - A 'naked' component library for building accessible, lightweight, bespoke applications.
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
+- [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+
 
 #### Mobile
 
@@ -2407,7 +2410,7 @@ _Set of components without layout system_
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
 - [element-pro-components](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
-- [Tailwind Elemetns for Vue](https://tailwind-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind Elements - a free, open-source UI Kit
+- [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) -  Vue integration with Tailwind CSS - a free, open-source UI Kit
 
 #### Admin Template
 
@@ -2974,6 +2977,7 @@ _LocalStorage etc._
 - [pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [hami-vuex](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
+- [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ##### Redux
 
