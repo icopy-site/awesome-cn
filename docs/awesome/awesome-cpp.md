@@ -254,6 +254,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. [ISC]
 * [simpleini](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. [MIT]
 * [toml++](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. [MIT] [website](https://marzer.github.io/tomlplusplus/)
+* [toml11](https://github.com/ToruNiina/toml11) -  a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library. [MIT]
 
 ## Containers
 
@@ -270,6 +271,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. [MIT]
 * [robin-map](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. [MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. [BSD 3-clause]
+* [unordered_dense](https://github.com/martinus/unordered_dense) - A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]
 
 ## Cryptography
 *Cryptography and Encryption Libraries*

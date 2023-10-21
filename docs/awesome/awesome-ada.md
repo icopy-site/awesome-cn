@@ -135,7 +135,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 #### MIT
 
 - [hac](https://github.com/zertovitch/hac) - HAC Ada Compiler - a small, quick Ada compiler fully in Ada.
-- [byron](https://github.com/OneWingedShark/Byron) - The Byron project is a community-driven Ada compiler, toolchain, and IDE-system.
+- [byron](https://github.com/OneWingedShark/Byron) - Byron is a community project to build an Ada compiler, toolchain, and IDE-system.
+
+#### Apache License
+
+- [augusta](https://github.com/pchapin/augusta) - Ada compiler written in Scala that targets LLVM.
 
 ### Commercial / Open source
 
