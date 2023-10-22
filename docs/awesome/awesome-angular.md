@@ -7,7 +7,7 @@
 
 ## Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/PatrickJS/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/PatrickJS/awesome-angular)
 
-Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/)
+Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://PatrickJS.github.io/awesome-angular/).
 
 > If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
 
@@ -33,18 +33,18 @@ Table of contents:
 
 #### Community
 
-* `#angular2` channel on Freenode IRC Server
-* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+* `#angular2` channel on Freenode IRC Server.
+* [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter.
 * [Gitter Channel](https://gitter.im/angular/angular)
 * [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
 * [AngularJS on Google+](https://plus.google.com/+AngularJS)
-* [AngularAir](https://angularair.com/) podcast and live broadcast
-* [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast
-* [Angular Expo](https://angularexpo.com/) showcase
-* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies
+* [AngularAir](https://angularair.com/) podcast and live broadcast.
+* [Adventures in Angular](https://devchat.tv/adv-in-angular) podcast.
+* [Angular Expo](https://angularexpo.com/) showcase.
+* [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard] (https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
@@ -131,10 +131,10 @@ Table of contents:
 
 * [Official Angular Material Design (GitHub)](https://github.com/angular/material2)
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
-* [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
-* [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
-* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...)
-* [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
+* [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core.
+* [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite.
+* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...).
+* [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library.
 * [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 * [Blox Material](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
 * [Material Web Components](https://trimox.github.io/angular-mdc-web) Material Web Components for Angular. A faithful and accurate representation of Material Design as envisioned on the web.
@@ -806,8 +806,8 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 Apache Cordova is a popular mobile application development framework using CSS3, HTML5, and JavaScript instead of relying on platform-specific APIs.
 
-* [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova
-* [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova
+* [Cordova Framework](https://cordova.apache.org/) Official Website for Apache Cordova.
+* [Cordova Documentation](https://cordova.apache.org/docs/en/latest/) Official Documentation for Apache Cordova.
 
 ##### Cordova Seed Projects
 
@@ -821,11 +821,11 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Dart General Resources
 
-* [Dart](https://www.dartlang.org/) Official Website for Dart
+* [Dart](https://www.dartlang.org/) Official Website for Dart.
 * [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
 * [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
 * [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
-* [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+* [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community.
 * [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 #### Dart Seed Projects
@@ -834,7 +834,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Dart Demo, Samples, and Examples
 
-* [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+* [Hackernews App](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart.
 * [Router Demo](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
@@ -842,11 +842,11 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 ### Angular 2 in Traceur
 
-> Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+> Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
 
 #### Traceur Seed Projects
 
@@ -861,9 +861,9 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel General Resources
 
-* [Babel](https://babeljs.io/) Official Website for Babel
-* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel
+* [Babel](https://babeljs.io/) Official Website for Babel.
+* [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser.
+* [Babel Repository (GitHub)](https://github.com/babel/babel) Official GitHub Repo for Babel.
 
 #### Babel Angular 2 Online Playground
 
@@ -906,7 +906,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Meteor in Angular 2
 
-> Build Realtime Web and Mobile Apps With Angular and Meteor
+> Build Realtime Web and Mobile Apps With Angular and Meteor.
 
 ##### Meteor General Resources
 
@@ -939,7 +939,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Angular 2 in React Native
 
-> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript
+> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript.
 
 ##### React Native General Resources
 
@@ -977,7 +977,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Haxe Seed Projects
 
-* [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+* [angular2haxe](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2.
 * [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
@@ -1011,7 +1011,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Security
 
-* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
+* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
   ##### Authentication
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)

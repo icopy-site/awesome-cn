@@ -52,6 +52,7 @@
 - [WhisperScript](https://store.getwavery.com/l/whisperscript) - Audio transcription macOS app. (Freemium · Electron)
 - [Audio Podium](https://apps.apple.com/app/id6449008295) - Audio/video management macOS app.
 - [superwhisper](https://superwhisper.com) - Global audio transcription macOS menu bar app.
+- [Speech Note](https://github.com/mkiol/dsnote) - Audio transcription Linux app.
 
 ## Web apps
 
@@ -76,6 +77,7 @@
 - [phonix](https://github.com/platisd/phonix) - Generate captions for videos.
 - [whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) - Standalone Windows executable for Whisper and Faster Whisper.
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command-line tool based on CTranslate2, compatible with the original.
+- [insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - Achieve transcription speeds near 30x real-time with several optimizations.
 
 ## Playgrounds
 
