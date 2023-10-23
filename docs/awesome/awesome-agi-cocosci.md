@@ -1729,6 +1729,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Rethinking Executive Function and Its Development](https://journals.sagepub.com/doi/pdf/10.1177/1745691620904771) - ***Psychological Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=16570230278367237499&hl=en&as_sdt=2005&sciodt=0,5)].
 
 
+* [Age-of-acquisition ratings for 30,000 English words](https://link.springer.com/article/10.3758/s13428-012-0210-4) - ***Behavior Research Methods***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=6752414178722956940&hl=en&as_sdt=0,5)]. [[Project](http://crr.ugent.be/archives/806)]. A database for age-of-acquisition ratings for over 30k English words.
+
 
 
 ### Learning in the Open World

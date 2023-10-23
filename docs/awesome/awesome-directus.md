@@ -72,6 +72,10 @@
 - [Directus Copilot](https://github.com/programmarchy/directus-extension-copilot/) - A bundle including a panel to ask data-aware questions in a chat interface.
 - [OpenAI Automatic Translation](https://github.com/timio23/directus-operation-auto-translate/) - An operaiton to automatically translate new items via OpenAI.
 - [Machine Learning Operations](https://github.com/karamokoisrael/directus-hackathon-submission/) - A set of extensions to train, test and use machine learning models.
+- [Tab Group](https://github.com/formfcw/directus-extension-tab-group) - A group interface with a tab menu for toggling the visibility of fields within the group.
+- [Drawer Notice](https://github.com/formfcw/directus-extension-drawer-notice) - A notice field that is only visible in the drawer.
+- [Classified Group](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
+- [Tokenized Preview](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
 ## Articles
 
