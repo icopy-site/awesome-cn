@@ -132,7 +132,7 @@
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Tribals](https://tribals.io/) - First-person multiplayer survival game.
 - [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
-- [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza) - Multiplayer restaurant game.
+- [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
 - [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 - [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
