@@ -30,10 +30,6 @@
 ### Gradient Boosting
 * [NGBoost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
 
-### Automated Machine Learning
-* [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
-
 ### Ensemble Methods
 
 ### Imbalanced Datasets
@@ -64,6 +60,10 @@
 * [autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 * [Caffe](https://github.com/BVLC/caffe) - A fast open framework for deep learning.
 * [nnabla](https://github.com/sony/nnabla) - Neural Network Libraries by Sony.
+
+## Automated Machine Learning
+* [AutoGluon](https://github.com/awslabs/autogluon) - AutoML for Image, Text, Tabular, Time-Series, and MultiModal Data.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
 
 ## Time Series
 * [darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
