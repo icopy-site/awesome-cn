@@ -12,6 +12,21 @@
 
 ## Family
 
+### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-brimstone-swamps-death)
+
+> Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome. 
+>
+> Players can even find portals to other worlds, stepping through to continue their adventures on the other side!
+>
+> In Swamps of Death, players will encounter portals to the otherworld Jargono, a humid swampland inhabited by sentient reptiles, vicious dinosaurs and a tribe of humanoids, cut off from return to their homeworld untold years after their own portal closed.
+
+![Shadows of Brimstone: Swamps of Death game image](https://cf.geekdo-images.com/qRyYKK4IxR9QBwyr7OMvzw__itemrep/img/inbrCrbkzm-36PykegNeHmOD7yc=/fit-in/246x300/filters:strip_icc()/pic2037826.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 | 90 - 180m |
+
+
 ### [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/crew-mission-deep-sea)
 
 > In the trick-taking card game The Crew: Mission Deep Sea, you and the other players work together to search for the lost continent of Mu. This new adventure takes your crew deep down into the abyss on a search for the fabled sunken land. How far you get depends entirely on how well you work together as a team. Card by card, trick by trick, your search party will discover the challenges that lie ahead and forge a path to Mu.
@@ -1514,6 +1529,22 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        12 | 80m |
 
+### [The Old King's Crown](https://boardgamegeek.com/boardgame/357873/old-kings-crown)
+
+> The Old King’s Crown is a game of card-driven conquest, where you play as heirs to a vacant throne, vying for control of an ancient, overgrown kingdom. Wield unique abilities and leverage your followers’ traits to best outwit your opponents across a map that stretches from the teetering heights of the castle to the dappled light of the necropolis.
+>
+> As leader of your faction you will be staking claims with Heralds openly as well as positioning your forces in secret, hoping to claim the locations that fit your designs. However, keep an eye on your rivals, as they too have agents and agendas, poised to undo your best laid plans.
+>
+> Royalty, rebels or ruses. What crown will you wear?
+>
+> In The Old King's Crown, players move their Herald to locations, hoping to claim them. Then simultaneously players play cards from their hand, facedown to regions of the board. These are then revealed and resolved. Winning these clashes will result in different rewards that further their position and grant them the game's primary goal, influence. When a player is able to reach a set number of influence, dependent on player count, and is able to retain it until the end of a round, they win the game.
+
+![The Old King's Crown game image](https://cf.geekdo-images.com/hQG2-XQoEhXCITIORvx24A__itemrep/img/nxjDR_nK5kmSdApd5YJDeoPoQnc=/fit-in/246x300/filters:strip_icc()/pic7508098.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 4 |       12 | 60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -2719,6 +2750,16 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   1 - 4 |       10 | 30-45m |
+
+### [Star Wars: The Deckbuilding Game](https://en.wikipedia.org/wiki/Star_Wars:_The_Deckbuilding_Game) 
+
+> Star Wars is a deckbuilding game released by Fantasy Flight Games and Asmodee.Each player controls a base that represent that player's life pool, and is able to obtain another base if theirs is destroyed. The object is to destroy three bases to win the game, which is achieved by attacking the opposing player.On their turn, a player uses the resources from the five cards in their hand to obtain new cards from a central "galaxy row", which contains cards of the Empire and Rebel factions. The player may only select from cards of their faction, and the galaxy row is reconstituted with cards from the "galaxy deck".One innovate game mechanic is the ability of a player to attack cards still in the galaxy row before they have been obtained by other players, known as sabotage for the Rebel faction and bounty hunting for the Empire faction. These provide a reward to the player taking that action, and also deny other players from obtaining targeted cards.Throughout the game, a Force meter records the balance in The Force, which may alter the effect of cards in favour of a particular faction.
+
+![Star Wars](https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Star_Wars_The_Deckbuilding_Game.webp/229px-Star_Wars_The_Deckbuilding_Game.webp.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|       2 |       12 | 30-45m |
 
 ### [Kill Doctor Lucky](https://boardgamegeek.com/boardgame/257/kill-doctor-lucky)
 

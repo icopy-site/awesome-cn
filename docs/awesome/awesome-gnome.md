@@ -53,6 +53,7 @@
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 - [Teleprompter](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
+- [Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 
 ### Well Being
 
@@ -84,8 +85,9 @@
 - [Drawing](https://apps.gnome.org/app/com.github.maoschanz.drawing/) - Responsive drawing application. ![GNOME Circle][GNOME Circle]
 - [Identity](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.Identity/) - Compare image and video. ![GNOME Circle][GNOME Circle]
 - [Coulr](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
-- [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
+- [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color picker, working on both X11 and Wayland.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
+- [ASCII Draw](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 
 ### Scientific Tooling
 
@@ -127,6 +129,7 @@
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
+- [Impression](https://gitlab.com/adhami3310/Impression) - Bootable driver flasher application ![GNOME Circle][GNOME Circle]
 
 ### Security and Privacy
 
@@ -151,6 +154,8 @@
 - [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 - [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
+- [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
+- [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 
 #### Design Tooling
 
