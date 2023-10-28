@@ -94,7 +94,6 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
-    - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples](https://github.com/microsoft/DirectX-Graphics-Samples)]
@@ -226,6 +225,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [TIC-80](https://github.com/nesbox/TIC-80) - Virtual computer for making & sharing tiny games. [[Website](https://tic80.com/)]
 - C: Game Framework
     - 🎉 [CGL](https://github.com/Jaysmito101/cgl) - Single-header file, lots of graphics & utility functions.
+    - 🎉 [DOME](https://github.com/domeengine/dome) - Melds SDL2 and the Wren scripting language. [[Website](https://domeengine.com/)]
     - 🎉 [Entrypoint](https://github.com/jimon/entrypoint) - Lightweight entry point for games.
     - ⭐ [FWK](https://github.com/r-lyeh/FWK) - 3D game framework.
     - 🎉 [Gunslinger](https://github.com/MrFrenik/gunslinger) - Header-only C99 framework for multimedia apps.
@@ -329,7 +329,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Overload](https://github.com/adriengivry/Overload) - Well documented 3D game engine inspired by industry standards.
     - 🎉 [Razix Engine](https://github.com/Pikachuxxxx/Razix) - High-performance research engine for production pipeline.
     - 🎉 [Rootex](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
-    - 🎉 [SGEEngine](https://github.com/ongamex/SGEEngine) - Game engine with an editor usable as a sandbox.
     - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
     - 🎉 [Toolkit](https://github.com/Oyun-Teknolojileri/ToolKit) - Simple 2D/3D game and app develepment kit.
@@ -348,6 +347,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Koala Engine](https://github.com/phisko/kengine) - Framework with an ECS architecture, aka _Kengine_.
     - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
+    - 🎉 [nCine](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
     - 🎉 [ORX](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
@@ -505,6 +505,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [MonoGame](https://github.com/MonoGame/MonoGame) 🔥 - Framework for creating cross-platform games. [[Website](https://www.monogame.net/)]
     - 🎉 [Nez](https://github.com/prime31/Nez) - Feature-rich 2D framework built on _MonoGame_.
     - 🎉 [Protogame](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
+- C#: Geometry
+    - 🎉 [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 - C#: Graphics - 3D
     - 🎉 [OpenTK](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
@@ -1112,8 +1114,6 @@ _Exploring specialty game engine / game development topics and features._
 - Upscaling
     - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Upscaling shader code.
     - 📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
-- Water / Refraction
-    - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
 - Wireframe
     - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
 
@@ -1282,7 +1282,6 @@ _Resources to help bring video games and game engines alive._
 - 🆓 [Pmndrs Materials](https://market.pmnd.rs/materials) - Collection of public domain materials.
 
 ### Model Assets
-- 🆓 [3D Models CC0](https://www.3dmodelscc0.com) - Public domain 3D models.
 - 🆓 [Pmndrs Market](https://market.pmnd.rs) - Collection of public domain models.
 - 🆓 [Poly Pizza](https://poly.pizza) - Build something beautiful with thousands of free low poly models.
 - 🆓 [Quaternius](https://quaternius.com) - Collection of CC0 1.0 3D models.
