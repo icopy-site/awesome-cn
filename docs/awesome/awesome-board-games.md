@@ -633,6 +633,16 @@
 
 ## Strategy
 
+### [Ashtapada](https://en.wikipedia.org/wiki/Ashtapada)
+
+> Ashtapada, an ancient game originating in India, is played on an 8x8 grid featuring marked spaces. The game can be played by two to four players, with the objective being to enter and exit both pieces strategically. Players use cowrie shells to determine movement. If a player lands on an opponent's piece, it's sent off the board for re-entry, except on 'crosscut' spaces, where pieces remain safe.
+
+![Ashtapada game image](https://cf.geekdo-images.com/kg1eP5Vdj6LoFqQ2E2Kxew__opengraph/img/lykEixPPGFGql26yrwEYvhj3XMo=/fit-in/1200x630/filters:strip_icc()/pic55539.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2–4 |          8 | 30–60 Min |
+
 ### [Blood Rage](https://boardgamegeek.com/boardgame/170216/blood-rage)
 
 > "Life is Battle; Battle is Glory; Glory is ALL"
@@ -872,6 +882,16 @@
 | Players | Min. Age |  Time   |
 | ------: | -------: | -----:  |
 |       2 |        6 |     30m |
+
+### [Chaupar](https://en.wikipedia.org/wiki/Chaupar)
+
+> Chaupar, chopad or chaupad is a cross and circle board game very similar to pachisi, played in Pakistan & Ancient India. The board is made of wool or cloth, with wooden pawns and seven cowry shells to be used to determine each player's move, although others distinguish chaupur from pachisi by the use of three four-sided long dice. Variations are played throughout India. It is similar in some ways to Pachisi, Parcheesi and Ludo. In most of the villages of India, this game is played by old people.
+
+![Chaupar image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Chopat.jpg/330px-Chopat.jpg)
+
+| Players | Min. Age |  Time   |
+| ------: | -------: | -----:  |
+|       4 |       15 |     30m |
 
 ### [Lotería](https://boardgamegeek.com/boardgame/5878/loteria)
 
