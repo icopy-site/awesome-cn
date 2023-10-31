@@ -75,6 +75,18 @@
 | ------: | -------: | -----: |
 |   1 - 5 |        10 | 40-70m |
 
+### [Stationfall](https://boardgamegeek.com/boardgame/316624/stationfall)
+
+> A game of blackmail and betrayal, murder and mayhem, danger and destruction.
+> What is Stationfall? Well, imagine a dozen or so random humans, robots, and none-of-the-aboves, each with their own abilities, goals, and secret relationships, have been turned loose on a space station that is going to be incinerated upon its inevitable reentry into Earth's atmosphere. You are one of these characters, and the others are collaborators you have on hand ready to assist you in achieving your goals. But choose them wisely, as any one of them could secretly be another player waiting to betray you!
+> - Stationfall is a box full of creative solutions, but that box is going to morph, twist, and grow teeth over the course of play. Your best turns will exploit the unique tactical freedom of being a secret conspiracy, as well as deductions about your opponents’ identities and motives. Stationfall is messy, intricate, and full of dangerous variables.
+
+![Stationfall game image](https://cf.geekdo-images.com/eUiju5SqZbkNt8gnEofrTw__itemrep/img/lpTPPEk14XV1RzIhRYVIWNHD0I4=/fit-in/246x300/filters:strip_icc()/pic6035127.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 9 |        12 | 90-120m |
+
 ### [Clank!: Catacombs](https://boardgamegeek.com/boardgame/365717/clank-catacombs)
 
 > The catacombs of the skeletal dragon Umbrok Vessna are mysterious and dangerous. Portals transport you all around the dungeon depths. Wayshrines offer vast riches to intrepid explorers. Prisoners are counting on you to free them. Ghosts, once disturbed, may haunt you to death. Despite all that, it's time to leave the board behind with Clank! Catacombs, a standalone deck-building adventure.
@@ -2547,7 +2559,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > This game is like Clue but for younger kids – and yet still fun for adults too. A fox stole a pot pie, and you have to figure out which fox it was before they escape into the foxhole. My kids regularly play this cooperative whodunnit game independently, and I love watching them work together as a team to solve the mystery. This is a fun little game to build your child’s logic and deductive reasoning skills!
 
-![Outfoxed](https://upload.wikimedia.org/wikipedia/commons/f/f6/Outfoxed.webp)
+![Outfoxed](https://cf.geekdo-images.com/v0FCI-wY8YlPn39XKd3F8w__itemrep/img/KGnNOM0FA8nwFXtKFsamxkx5v2E=/fit-in/246x300/filters:strip_icc()/pic2401324.jpg)
 
 | Players | Min. Age | Time   |
 |-------: | -------: | ------:|
@@ -2810,6 +2822,83 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
 |   2 - 6 |      12+ |90-120m |
+
+### [The Gilded Realms](https://boardgamegeek.com/boardgame/397099/gilded-realms)
+
+> The Gilded Realms is a euro-style kingdom builder board game set in a medieval fantasy world, where players will be tasked with ruling over their young but ambitious kingdoms. In this hybrid simultaneous turn-based game of economic management and risk assessment, you and up to three other players will command a unique Faction and compete for the title of ultimate regent.Through careful planning of two builds a turn and management of your resources you must develop your five provinces and construct a thriving income, all the while, fending off competing kingdoms and the invading Sarrukar forces with your armies and fortifications. Players can also earn Gold and Gems from successful caravan trading and management of their kingdom’s stance during economic events. Or they can send armies into other player’s Hinterlands to raid their Caravans and take Endeavour cards for themselves! At the end of the 12th round of play, players earn prestigious titles based on their Victory Points, the highest earning the Serpens Champion and declared winner of The Gilded Realms!
+
+![The Gilded Realms](https://cf.geekdo-images.com/gWNSCaB9gE-cPNHhH33uQQ__itemrep/img/ulauk-nriJFsto6y8EJA76FH1z4=/fit-in/246x300/filters:strip_icc()/pic7666055.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |      14+ |90-180m |
+
+### [Saboteur](https://boardgamegeek.com/boardgame/9220/saboteur)
+
+> With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret until the end of the round. As miners, they are hunting for gold. The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try to be too obvious about it, however, lest they be immediately discovered.
+>
+> The Start Card and the three Goal Cards are placed face-down onto the table, each seven cards away from the start and one card between each Goal Card. The gold is on one of the Goal Cards, but nobody knows which. Players have cards in hand. On a player's turn, they must do one of three things: place a Path Card into the mine, play an Action Card in front of a player, or pass. Action Cards can be placed in front of any player, including oneself. 
+>
+> Action Cards let the players help or hinder one another, as well as obtain information about the Goal Cards. Once a player places a Path Card that reaches the gold, the round is over. The miners have won and would receive cards with gold pieces as their reward. The round is also over if the gold could not be reached. In that case, the saboteurs have won and would receive the gold pieces.
+>
+> After three rounds, the player with the most gold is the winner.
+
+![Saboteur](https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__itemrep/img/aJcXGhYr8XxyKEK6EqbG0bePrOk=/fit-in/246x300/filters:strip_icc()/pic3989824.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|  3 - 10 |       8+ |    30m |
+
+### [The Last Bottle of Rum](https://boardgamegeek.com/boardgame/275557/last-bottle-rum)
+
+> A pirate board game for 2 to 5 players, where you play as a pirate looking to trade its treasures for the very last bottle of rum of the archipelago... Prepare to explore uncharted waters, plunder your enemies and avoid the Kraken! To win the game, a player will have to score the most victory points by digging up hidden treasures.
+
+> On each turn, choose two cards from your hand. The cards you play determines the actions you may take. Cleverly combo actions and effects to overcome obstacles and keep pace with rival captains. Fire your cannons on your opponents to slow down their treasure-hunting. Push your luck at the risk of being cursed and chased by the deadly Kraken! Play one of the unique characters and use your game-changing abilities when it’s least expected!
+
+> The first Captain to collect 10 booty points gets the last bottle of the archipelago and wins the game.
+
+![The Last Bottle of Rum](https://cf.geekdo-images.com/W-28SI7dtFwOM6KYD9egrQ__itemrep/img/UIIbwvNMAHbyDJriFpltV-7nHd4=/fit-in/246x300/filters:strip_icc()/pic5715210.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 5 |      10+ | 45-60m |
+
+### [Zoo Vadis](https://boardgamegeek.com/boardgame/368061/zoo-vadis)
+
+> What if the animals were the ones who ran the zoo? Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors. Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters. And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way. How does one gain support and earn laurels? Through crafty politicking, clever negotiations, and ruthless schemes. There can only be one Zoo Mascot, after all. Where are you going? That is the ultimate question of Zoo Vadis.
+>
+> Zoo Vadis is an evolution of Reiner Knizia’s classic negotiation game, Quo Vadis? It retains the elegant, political gameplay that fans have come to love while introducing many innovations and improvements by: a) Enhancing the 3-player game and tailoring the board to all player counts through neutral, bribable figures—roaming peacocks, b) Widening the player count with a second game board for 6-7 players, c) Expanding the possibilities for strategic negotiation with asymmetric animal abilities, d) Increasing tactical opportunities with new special laurel tokens, e) Broadening the appeal of the theme and presentation with vibrant zoo art by Kwanchai Moriya and Brigette Indelicato, f) Enlivening the production with chunky animal figures and functional player screens.
+>
+> Like the original design, the game ends immediately when the Star Exhibit is full. Only the animals who have reached the Star Exhibit qualify for victory, and the winner is the player with the most laurels.
+
+![Zoo Vadis](https://cf.geekdo-images.com/Kl3NjtNKpuJNPjdBQtdsow__itemrep/img/mmVsnLtn3T4zkeNbjWpfrWZKS5c=/fit-in/246x300/filters:strip_icc()/pic6988937.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   3 - 7 |      10+ |20-40m |
+
+
+### [Twilight Inscription](https://boardgamegeek.com/boardgame/361545/twilight-inscription)
+> Roll your way through the Twilight Imperium universe.
+> The Lazax Empire has burned to ash, rejected by its subjects. The aftermath was tragedy and petty conflict in equal measure, a time of loss and exhaustion. In the ensuing Dark Years, the factions of the galaxy retreated and recovered their strength. Now, they look upon the stars and see an opportunity—a chance to reclaim what was lost. A chance to redefine galactic civilization. A chance to leave their mark upon the stars.
+> Twilight Inscription, an epic roll-and-write game for one to eight players, offers an experience unlike anything Fantasy Flight Games has done before. With a limited pool of resources at your disposal, you’ll need to carefully manage Navigation, Expansion, Industry, and Warfare as you amass victory points and earn your right to the throne on Mecatol Rex. Will your faction become the new rulers of the galaxy? Or will your fledgling empire fade into obscurity? Anything can happen in this strategic, infinitely-replayable game!
+
+![Twilight Inscription](https://cf.geekdo-images.com/g36va6ofPCzNZXF-9GEpCg__itemrep/img/V3Cny2dR0eXaJjFkqkOCOoKP9Tg=/fit-in/246x300/filters:strip_icc()/pic7132023.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 8 |      14+ |90-120m |
+
+### [Hadrian's Wall](https://boardgamegeek.com/boardgame/304783/hadrians-wall)
+> When visiting the North of Britannia in 122 AD, the Roman Emperor Hadrian Augustus witnessed the aftermath of war between his armies and the savage Picts. In a show of Roman might, he ordered a wall to be built that would separate the Pict tribes from the rest of England. Grand in its design, the wall stretched 80 Roman miles, from coast to coast. Hadrian's Wall stood in service to the Roman Empire for nearly 300 years before its eventual decline. Today, Hadrian's Wall is a UNESCO World Heritage Site and the remains of the forts, towers, and turrets can still be explored.
+>
+> In Hadrian's Wall, players take on the role of a Roman General placed in charge of the construction of a milecastle and bordering wall. Over six years (rounds), players will construct their fort and wall, man the defenses, and attract civilians by building services and providing entertainment — all while defending the honor of the Roman Empire from the warring Picts. The player who can accumulate the most renown, piety, valor and discipline, whilst avoiding disdain, will prove to the Emperor they are the model Roman citizen and be crowned Legatus Legionis!
+
+![Hadrian's Wall](https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__itemrep/img/V1Db0T3MlAicjsL1C_PrOLfm_xY=/fit-in/246x300/filters:strip_icc()/pic5608818.png)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   1 - 6 |      12+ |30-60m |
 
 ## Contribute
 

@@ -174,7 +174,6 @@ This project lists books and other resources grouped by genres:
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md)
 + [German](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ja.md)
-+ [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ru.md)
 
 
@@ -188,6 +187,7 @@ This project lists books and other resources grouped by genres:
 Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-ar.md)
++ [Burmese / မြန်မာဘာသာ](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-my.md)
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-cs.md)
 + [Dutch / Nederlands](https://github.com/EbookFoundation/free-programming-books/blob/master/casts/free-podcasts-screencasts-nl.md)
