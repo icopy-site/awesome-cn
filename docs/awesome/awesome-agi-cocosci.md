@@ -1129,6 +1129,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Cognitive Architecture
 
+* [Epistemology](https://plato.stanford.edu/entries/epistemology/) - ***Plato Stanford***.
+
 * [The secret life of predictive brains: what's spontaneous activity for?](https://www.sciencedirect.com/science/article/pii/S1364661321001285) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=719229834892860829&hl=en&as_sdt=0,5)]. A neuroscience account on brain as a generative model.
 
 * [SOAR: An architecture for general intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370287900506) - ***Artificial Intelligence***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=10873259207109132615&hl=en&as_sdt=0,5)].
@@ -1263,8 +1265,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 <!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***Plato Stanford***.
 
 * [Intentionality](https://plato.stanford.edu/entries/intentionality/) - ***Plato Stanford***.
-
-* [Epistemology](https://plato.stanford.edu/entries/epistemology/) - ***Plato Stanford***.
 
 * [The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/) - ***Plato Stanford***.
 

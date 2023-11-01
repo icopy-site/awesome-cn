@@ -118,6 +118,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [FHFA Public Data](https://www.fhfa.gov/DataTools/Downloads) - The Federal Housing Finance Agency provides a series of public datasets regarding housing and mortgages in the United States. It including all states, about activity in the U.S. mortgage market through its House Price Index, Refinance Report, Foreclosure Prevention Report, Mortgage acquisition datasets, and Performance Reports.
 - [Home Attainability Index](https://www.policymap.com/newmaps#/widget/11888/2BYFMAXETO4YXNIX5M1HRKOHIQWDLITM) - The latest (2022) Urban Land Institute Terwilliger Center Home Attainability Index. A resource for understanding the extent to which a housing market provides a range of choices attainable to regional workforces providing insights into a wide range of factors for selected communities across the United States.
+- [National Housing Preservation Database](https://preservationdatabase.org/) - The National Housing Preservation Database contains property and subsidy-level data pulled from nine different HUD and USDA data sources.  The database contains information on over 70,000 properties nationwide.
 
 ### Land Use and Land Cover
 
