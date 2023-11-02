@@ -457,6 +457,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***Cerebral Cortex***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081&hl=en&as_sdt=0,5)]. Visual and haptic shape perception fMRI experiments suggesting that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
+* [The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies](https://www.nature.com/articles/s41597-019-0341-x) - ***Scientific Data***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4039754406289857135&hl=en&as_sdt=0,5)]. [[Database](https://clics.clld.org/)]. CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research.
+
 
 #### AI Concept Representation
 
