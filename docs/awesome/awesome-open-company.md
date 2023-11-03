@@ -67,6 +67,7 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 ![Tessel favicon](http://i.imgur.com/Xe9AYlw.png) [**Tessel**](https://tessel.io/) | [Open Source - Tessel](https://tessel.io/opensource) | :octocat:[Tessel](https://github.com/tessel/project) |  |
 ![Transloadit favicon](https://www.google.com/s2/favicons?domain=transloadit.com) [**Transloadit**](https://transloadit.com/) | [Open Source](https://transloadit.com/open-source/) | :octocat:[Uppy](https://uppy.io) | [Jobs & Culture](https://transloadit.com/jobs/) |
 ![wemake.services favicon](https://www.google.com/s2/favicons?domain=wemake.services) [**wemake.services**](https://wemake.services/) | [wemake-services/meta § Purpose](https://github.com/wemake-services/meta/blob/master/README.md#purpose) | :octocat:[wemake.services](https://github.com/wemake-services) |
+![watermelon favicon](https://www.google.com/s2/favicons?domain=watermelontools.com) [**Watermelon**](https://www.watermelontools.com/) | [Promoting Openness, Starting With the Codebase](https://www.watermelontools.com/post/promoting-openness-starting-with-the-codebase) | :octocat:[Watermelon](https://github.com/watermelontools/watermelon) |
 
 ## Resources
 

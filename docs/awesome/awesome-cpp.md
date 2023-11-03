@@ -193,7 +193,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [smaz](https://github.com/antirez/smaz) - Small strings compression library. [BSD]
 * [Snappy](https://google.github.io/snappy/) - A fast compressor/decompressor. [BSD]
 * [ZLib](http://zlib.net/) - A very compact compression library for data streams. [zlib]
-* [zlib-ng](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. [zlib]
+* [zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. [zlib]
 * [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm. Developed by Facebook. [BSD]
 * [ZZIPlib](http://zziplib.sourceforge.net/) - Provides read access on ZIP-archives. [MPL/LGPL]
 
@@ -1159,6 +1159,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Articles
 *Fantastic C++ related articles.*
 
+* [CppCon 2023 Presentation Materials](https://github.com/CppCon/CppCon2023) - CppCon 2023 Presentation Materials.
+* [CppCon 2022 Presentation Materials](https://github.com/CppCon/CppCon2022) - CppCon 2022 Presentation Materials.
+* [CppCon 2021 Presentation Materials](https://github.com/CppCon/CppCon2021) - CppCon 2021 Presentation Materials.
 * [CppCon 2020 Presentation Materials](https://github.com/CppCon/CppCon2020) - CppCon 2020 Presentation Materials.
 * [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019) - CppCon 2019 Presentation Materials.
 * [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018) - CppCon 2018 Presentation Materials.
@@ -1166,6 +1169,9 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
 * [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
+* [C++Now 2023 Presentations](https://github.com/boostcon/cppnow_presentations_2023) - Presentation materials presented at C++Now 2023.
+* [C++Now 2022 Presentations](https://github.com/boostcon/cppnow_presentations_2022) - Presentation materials presented at C++Now 2022.
+* [C++Now 2021 Presentations](https://github.com/boostcon/cppnow_presentations_2021) - Presentation materials presented at C++Now 2021.
 * [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 * [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
 * [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.

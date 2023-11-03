@@ -85,6 +85,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [vrischmann/zig-cassandra](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
 * [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper.
 * [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
+* [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig) - Native PostgreSQL client.
 
 
 ## Editor plugins

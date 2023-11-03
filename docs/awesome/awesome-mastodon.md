@@ -100,6 +100,7 @@ This list is a collection of the best Mastodon resources.
 
 ## Similar Projects
 
+- [aether](https://getaether.net) - Peer-to-peer ephemeral public communications.
 - [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
 - [GNU social](https://gnusocial.rocks/) - Oldest microblogging platform.
 - [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
@@ -112,6 +113,7 @@ This list is a collection of the best Mastodon resources.
 - [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
 - [Misskey Hub](https://misskey-hub.net/en/) - Interplanetary microblogging platform.
 - [Lemmy](https://join-lemmy.org/) - Link aggregation platform.
+- [Kbin](https://kbin.social) - Link aggregation platform.
 
 ## Bots
 
