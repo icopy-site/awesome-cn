@@ -1,166 +1,166 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-npm"></div>
 
-&gt; 太棒了 [npm](https://www.npmjs.com) 资源和提示
+> Awesome [npm](https://www.npmjs.com) resources and tips
 
-[npm](https://en.wikipedia.org/wiki/Npm_(software)) 是 JavaScript 编程语言的包管理器，捆绑在 [Node.js](https://en.wikipedia.org/wiki/Node.js) 运行.
+[npm](https://en.wikipedia.org/wiki/Npm_(software)) is a package manager for the JavaScript programming language and comes bundled in the [Node.js](https://en.wikipedia.org/wiki/Node.js) runtime.
 
-*请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) 在贡献之前.*
+*Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
 
 
 ## Articles
 
 - [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
-- [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - 编写只做一件事并把它做好的程序.
+- [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
 - [Writing small modules](https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules)
-- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *（必读！）*
+- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 - [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 - [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
 - [How to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
-- [The Art of Node](https://github.com/maxogden/art-of-node#modules) - 介绍 Node.js 和使用 npm 进行客户端开发.
-- [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - 介绍带有通用包和脚本的 npm 脚本，以及样板项目.
+- [The Art of Node](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
+- [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.
 
 ## Tools
 
 ### Web
 
-- [npms](https://npms.io) - 精湛的包裹搜索，使用深度分析包裹质量 [myriad of metrics](https://npms.io/about).
-- [NodeICO](https://nodei.co/) - 包裹徽章.
-- [Libraries.io](https://libraries.io/npm) - 包发现.
-- [npm-stat](http://npm-stat.com) - 包的统计图表.
-- [npmgraph](http://npm.anvaka.com) - 依赖关系的可视化.
-- [npm trends](http://www.npmtrends.com) - 比较一段时间内的包下载次数.
-- [npm-compare](https://npmcompare.com) - 轻松搜索和比较包.
-- [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - 通过下载 npm 用户.
-- [npm semver calculator](http://semver.npmjs.com) - 直观地探索一个 semver 范围匹配的包版本.
-- [ghub.io](https://ghub.io) - 重定向到 npm 包的 GitHub 存储库.
-- [moiva](https://moiva.io) - 发现和比较包.
+- [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
+- [NodeICO](https://nodei.co/) - Package badges.
+- [Libraries.io](https://libraries.io/npm) - Package discovery.
+- [npm-stat](http://npm-stat.com) - Statistics charts for packages.
+- [npmgraph](http://npm.anvaka.com) - Visualization of dependencies.
+- [npm trends](http://www.npmtrends.com) - Compare package download counts over time.
+- [npm-compare](https://npmcompare.com) - Easily search and compare packages.
+- [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
+- [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
+- [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
+- [moiva](https://moiva.io) - Discover and compare packages.
 
 ### Browser extensions
 
-- [Octo-Linker](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome 扩展，可轻松浏览 GitHub 上的 npm 包.
-- [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome 扩展，用于探索 GitHub 存储库上的 npm 依赖项.
-- [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - 在 GitHub 上查看 npm 下载统计信息.
-- [npm-search-update](https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh) - Chrome 扩展，可快速搜索依赖项并监控 npm 注册表中的更改.
+- [Octo-Linker](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension to navigate across npm packages on GitHub with ease.
+- [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to explore npm dependencies on GitHub repos.
+- [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - View npm download stats on GitHub.
+- [npm-search-update](https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh) - Chrome extension to quickly search for dependencies and monitor changes from the npm registry.
 
 ### CLI
 
-- [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - 更好地为 npm 完成 ZSH.
-- [npkill](https://github.com/voidcosmos/npkill) - 轻松找到并删除旧的和繁重的 node_modules 文件夹.
+- [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+- [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
 
 ## Packages
 
 ### Publishing
 
-- [np](https://github.com/sindresorhus/np) - 更好的 `npm publish`.
-- [publish-please](https://github.com/inikulin/publish-please) - 安全优雅地发布包.
-- [npm-release](https://github.com/phuu/npm-release) - 使发布到 npm 变得如此简单，小猫可能会做到™.
-- [pkgfiles](https://github.com/timoxley/pkgfiles) - 列出将在包中发布的所有文件.
-- [release-it](https://github.com/webpro/release-it)  - 自动发布 Git 存储库和/或 npm 包. 变更日志生成、GitHub/GitLab 发布等.
-- [semantic-release](https://github.com/semantic-release/semantic-release) - 全自动包发布.
+- [np](https://github.com/sindresorhus/np) - A better `npm publish`.
+- [publish-please](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+- [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
+- [pkgfiles](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-- [npm-name](https://github.com/sindresorhus/npm-name-cli) - 检查包名称是否在 npm 上可用.
-- [package-json](https://github.com/sindresorhus/package-json) - 从 npm 注册表获取包的 package.json.
-- [latest-version](https://github.com/sindresorhus/latest-version-cli) - 获取最新版本的 npm 包.
-- [npm-keyword](https://github.com/sindresorhus/npm-keyword) - 获取带有特定关键字的 npm 包列表.
-- [npm-user](https://github.com/sindresorhus/npm-user) - 获取 npm 用户的用户信息.
-- [npm-email](https://github.com/sindresorhus/npm-email) - 获取 npm 用户的电子邮件.
-- [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - 由 npm 用户获取包.
-- [dpn](https://github.com/gillstrom/dpn) - 获取用户 npm 包的依赖项.
-- [npm-stats](https://github.com/hughsk/npm-stats) - 从 npm 注册表获取数据.
-- [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - 登录 npm.
-- [nrm](https://github.com/Pana/nrm) - 注册管理器.
-- [npm-register](https://github.com/dickeyxxx/npm-register) - 易于设置和维护 npm 注册表和代理.
-- [verdaccio](https://github.com/verdaccio/verdaccio) - 轻量级私有 npm 代理注册表.
-- [cloudsmith](https://cloudsmith.io/l/npm-registry/) - 一个完全托管的包管理 SaaS，支持公共和私人 npm 注册表（以及许多其他注册表）.
+- [npm-name](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+- [package-json](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+- [latest-version](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
+- [npm-keyword](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
+- [npm-user](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
+- [npm-email](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
+- [npm-user-packages](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
+- [dpn](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
+- [npm-stats](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
+- [npm-cli-login](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+- [nrm](https://github.com/Pana/nrm) - Registry manager.
+- [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+- [verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+- [cloudsmith](https://cloudsmith.io/l/npm-registry/) - A fully managed package management SaaS with support for public and private npm registries (and many others).
 
 ### Other
 
-- [npm-home](https://github.com/sindresorhus/npm-home) - 打开包的 npm 页面.
-- [gh-home](https://github.com/sindresorhus/gh-home) - 打开包的 GitHub 页面.
-- [david](https://github.com/alanshaw/david) - 检查您的软件包依赖项是否已过期.
-- [npm-check](https://github.com/dylang/npm-check) - 检查过时的、不正确的和未使用的依赖项，以及交互式更新.
-- [npm-upgrade](https://github.com/th0r/npm-upgrade) - 以交互方式更新过时的 npm 依赖项.
-- [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - 一致的收缩包装工具.
-- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - 在 Windows 上升级 npm.
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - 搭建一个 npm 包.
-- [pkg-up](https://github.com/sindresorhus/pkg-up) - 找到最近的 package.json 文件.
-- [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - 阅读最近的 package.json 文件.
-- [normalize-package-data](https://github.com/npm/normalize-package-data) - 标准化包元数据.
-- [pkg-conf](https://github.com/sindresorhus/pkg-conf) - 从最近的 package.json 获取命名空间配置.
-- [npm-run-path](https://github.com/sindresorhus/npm-run-path) - 按名称在终端中运行本地安装的二进制文件，就像全局二进制文件一样.
-- [local-npm](https://github.com/nolanlawson/local-npm) - 使用 npm [offline](https://addyosmani.com/blog/using-npm-offline/).
-- [npe](https://github.com/zeke/npe) - 用于检查和编辑 package.json 中的属性的 CLI.
-- [engine-deps](https://github.com/samccone/engine-deps) - 轻松管理 Node.js 版本特定的依赖项.
-- [enpeem-search](https://github.com/amovah/enpeem-search) - 通过抓取 npm 网络搜索来搜索包.
-- [npm-issues](https://github.com/seanzarrin/npm-issues) - 一次搜索所有包的已知问题.
-- [john](https://github.com/davej/john) - 使 npm3 的平面依赖项更易于查找和排序.
-- [ntl](https://github.com/ruyadorno/ntl) - 用于列出和运行 npm 任务的交互式 CLI 菜单.
-- [decheck](https://github.com/egoist/decheck) - 在命令行中探索 npm 包的依赖关系.
-- [shrinkpack](https://github.com/JamieMason/shrinkpack) - 锁定您的依赖项并离线安装.
-- [redrun](https://github.com/coderaiser/redrun) - 扩展 package.json 中的脚本以提高执行速度.
-- [package-size](https://github.com/egoist/package-size) - 获取 npm 包的包大小.
-- [synp](https://github.com/imsnif/synp) - 将 yarn.lock 转换为 package-lock.json，反之亦然.
-- [npm-run-all](https://github.com/mysticatea/npm-run-all) - 用于并行或串行运行多个 npm 脚本的 CLI 工具.
-- [onchange](https://github.com/Qard/onchange) - 监视文件和文件夹并在发生变化时运行命令.
-- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - 当 npm 脚本失败时发送本机桌面通知.
-- [luna](https://github.com/rvpanoz/luna) - 用于管理 npm 依赖项的应用程序.
-- [emma-cli](https://github.com/maticzav/emma-cli) - 交互式 CLI 包搜索实用程序.
-- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - 用于改进安全性和信任策略的 Lint 锁文件，以减轻恶意包注入和不安全的锁文件资源.
+- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+- [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+- [npm-upgrade](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+- [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+- [package-up](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+- [read-package-up](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
+- [normalize-package-data](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+- [package-config](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
+- [npm-run-path](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
+- [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
+- [npe](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
+- [engine-deps](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
+- [enpeem-search](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
+- [npm-issues](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
+- [john](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort.
+- [ntl](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+- [decheck](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
+- [shrinkpack](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+- [redrun](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+- [synp](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+- [onchange](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+- [luna](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
+- [emma-cli](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## Clients
 
-- [yarn](https://github.com/yarnpkg/yarn) - 快速、可靠和安全的依赖管理.
-- [npm](https://github.com/npm/cli) - 官方客户端.
-- [pnpm](https://github.com/pnpm/pnpm) - 快速、节省磁盘空间的包管理器.
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [npm](https://github.com/npm/cli) - The official client.
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## Tips
 
 ### Update to the latest npm version
 
 ```
-$ npm 安装 --global npm
+$ npm install --global npm
 ```
 
 *[Windows users, read more.](https://github.com/felixrieseberg/npm-windows-upgrade)*
 
 ### Command aliases
 
--`npm i`→`npm install`
+- `npm i ` → `npm install`
 - `npm i -D` → `npm install --save-dev`
 - `npm t` → `npm test`
-- `npm it` → `npm install &amp;&amp; npm test`
+- `npm it` → `npm install && npm test`
 - `npm r` → `npm uninstall`
 - `npm un` → `npm uninstall`
 - `npm up` → `npm update`
 
 ### Shell aliases
 
-加速您的常见 npm 任务.
+Speed up your common npm tasks.
 
-在你的 `.zshrc`/`.bashrc` 中：
+In your `.zshrc`/`.bashrc`:
 
 ```sh
-别名 ni=&#39;npm 安装&#39;
-别名 nid=&#39;npm install --save-dev&#39;
-别名 nig=&#39;npm install --global&#39;
-别名 nt=&#39;npm 测试&#39;
-别名 nit=&#39;npm install &amp;&amp; npm test&#39;
-别名 nk=&#39;npm 链接&#39;
-别名 nr=&#39;npm run&#39;
-别名 ns=&#39;npm 开始&#39;
-别名 nf=&#39;npm 缓存清理 &amp;&amp; rm -rf node_modules &amp;&amp; npm install&#39;
-别名 nlg=&#39;npm list --global --depth=0&#39;
+alias ni='npm install'
+alias nid='npm install --save-dev'
+alias nig='npm install --global'
+alias nt='npm test'
+alias nit='npm install && npm test'
+alias nk='npm link'
+alias nr='npm run'
+alias ns='npm start'
+alias nf='npm cache clean && rm -rf node_modules && npm install'
+alias nlg='npm list --global --depth=0'
 ```
 
 ### Don't add to package.json when installing
 
-默认情况下，npm 将您安装的包添加到 package.json 中的“dependencies”字段（自 v5 起）. 您可以通过指定 `--no-save` 标志来防止这种情况. 您可以使用 `--save-dev`/`-D` 将包添加到 `devDependencies`：
+By default npm adds packages you install to the `dependencies` field in package.json (since v5). You can prevent this by specifying the `--no-save` flag. You can add a package to `devDependencies` with `--save-dev`/`-D`:
 
 ```
 $ npm install --save-dev ava
@@ -168,212 +168,212 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script) 通过将它们添加到 package.json 中的“脚本”字段并使用 npm run 运行它们来使用 npm<script-name>  `. 运行“npm run”以查看可用的脚本. 本地安装包的二进制文件在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable))，因此您可以按名称运行它们.
+You can easily [run scripts](https://docs.npmjs.com/cli/run-script) using npm by adding them to the `"scripts"` field in package.json and run them with `npm run <script-name>`. Run `npm run` to see available scripts. Binaries of locally install packages are made available in the [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“猫”：“猫的名字”
+	"name": "awesome-package",
+	"scripts": {
+		"cat": "cat-names"
 	},
-	“依赖”：{
-		“猫名”：“^1.0.0”
+	"dependencies": {
+		"cat-names": "^1.0.0"
 	}
 }
 ```
 
 ```
-$ npm 运行猫
+$ npm run cat
 Max
 ```
 
-所有 package.json 属性都是 [exposed](https://docs.npmjs.com/misc/scripts#packagejson-vars) 作为环境变量：
+All package.json properties are [exposed](https://docs.npmjs.com/misc/scripts#packagejson-vars) as environment variables:
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“名称”：“回声 $npm_package_name”
+	"name": "awesome-package",
+	"scripts": {
+		"name": "echo $npm_package_name"
 	}
 }
 ```
 
 ```
-$ npm 运行名称
+$ npm run name
 awesome-package
 ```
 
 #### Passing options to commands
 
-您可以通过添加 `-- --flag` 将选项传递给您在 npm 脚本中使用的命令，如下例所示.  `--` [marks the end of options parsing](https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash)，因此 `npm run` 将忽略它并将其传递给命令.
+You can pass options to the command you are using in your npm script by adding `-- --flag` like in the example below. The `--` [marks the end of options parsing](https://unix.stackexchange.com/questions/11376/what-does-double-dash-mean-also-known-as-bare-double-dash), so `npm run` will just ignore it and pass it to the command.
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“xo”：“xo”，
-		&quot;xo:fix&quot;: &quot;npm run xo -- --fix&quot;,
+	"name": "awesome-package",
+	"scripts": {
+		"xo": "xo",
+		"xo:fix": "npm run xo -- --fix",
 	}
 }
 ```
 
-*添加 `-- --fix ` 选项就像执行 `xo --fix`*.
+*Adding the `-- --fix ` option is like executing `xo --fix`*.
 
 #### Silent option
 
-`npm run` 有一个 `--silent` 选项，在组合 npm 脚本时特别有用.
+`npm run` has a `--silent` option which is especially useful when combining npm scripts.
 
-想象一下，您有一个像下面这样对 JavaScript 文件进行 linting 的设置：
+Imagine you have a setup for linting your JavaScript files like the following:
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“xo”：“xo”，
-		&quot;xo:fix&quot;: &quot;npm run xo --silent -- --fix&quot;,
+	"name": "awesome-package",
+	"scripts": {
+		"xo": "xo",
+		"xo:fix": "npm run xo --silent -- --fix",
 	}
 }
 ```
 
- *使用 `--silent` 选项减少终端中的输出. 看 [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
+*Using the `--silent` option reduces the output in the terminal. See [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
 
 ### Lifecycle scripts
 
-npm 自带预定义 [lifecyle scripts](https://docs.npmjs.com/misc/scripts) 如果它们在您的 package.json 中定义，它们将在特定条件下执行.
+npm comes with predefined [lifecyle scripts](https://docs.npmjs.com/misc/scripts) which are excuted under specific conditions if they are defined in your package.json.
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“prepublishOnly”：“nsp 检查”
+	"name": "awesome-package",
+	"scripts": {
+		"prepublishOnly": "nsp check"
 	},
-	“devDependencies”：{
-		“nsp”：“^3.0.0”
+	"devDependencies": {
+		"nsp": "^3.0.0"
 	}
 }
 ```
 
-这将在您的 npm 包通过“npm publish”发布到注册表之前自动执行，以检查您的依赖项中的已知漏洞.
+This will be executed automatically before your npm package is published to the registry via `npm publish` to check for known vulnerabilties in your dependencies.
 
- *注意：**prepublishOnly** 从 npm v4.0.0 开始可用. 看 [npm docs](https://docs.npmjs.com/misc/scripts#deprecation-note).*
+*Note: **prepublishOnly** is available since npm v4.0.0. See [npm docs](https://docs.npmjs.com/misc/scripts#deprecation-note).*
 
 #### `npm start` and `npm test`
 
-`npm start` 和 `npm test` 也是生命周期脚本，但不会自动执行.
+`npm start` and `npm test` are also lifecycle scripts but are not executed automatically.
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“开始”：“节点服务器.js”，
-		“测试”：“艾娃”
+	"name": "awesome-package",
+	"scripts": {
+		"start": "node server.js",
+		"test": "ava"
 	},
-	“devDependencies”：{
-		“ava”：“^1.0.0”
+	"devDependencies": {
+		"ava": "^1.0.0"
 	}
 }
 ```
 
-因此它们可以简单地执行：
+Therefore they can be executed simply with:
 
 ```console
-$ npm 测试
-$ npm 开始
+$ npm test
+$ npm start
 ```
 
 #### `pre` and `post` scripts
 
-这些是特殊的生命周期脚本，可用于按顺序自动运行脚本.
+These are special lifecycle scripts which can be used to run scripts automatically in sequence.
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“脚本”：{
-		“预测试”：“eslint.”，
-		“测试”：“艾娃”
+	"name": "awesome-package",
+	"scripts": {
+		"pretest": "eslint .",
+		"test": "ava"
 	},
-	“devDependencies”：{
-		&quot;eslint&quot;: &quot;^4.19.0&quot;,
-		“ava”：“^1.0.0”
+	"devDependencies": {
+		"eslint": "^4.19.0",
+		"ava": "^1.0.0"
 	}
 }
 ```
 
 ```console
-$ npm 测试
+$ npm test
 ```
 
-这将在运行测试之前检查您的文件. 如果 linting 失败，测试将不会运行. 或者更通俗地说：如果按顺序运行的脚本之一以非 0 的退出代码退出，则不会执行以下脚本.
+This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.
 
- *注意：`pre` 和 `post` 脚本也可以用于您的自定义 npm 脚本. 所以如果定义了 `npm run foo` 也会运行 `prefoo` 和 `postfoo`.*
+*Note: `pre` and `post` scripts can also be used for your custom npm scripts. So `npm run foo` will also run `prefoo` and `postfoo` if defined.*
 
 ### Run script with `npx`
 
-`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)  with `npx` (Since v5.2.0) — 一个执行包二进制文件的工具. 每个命令都从本地 `node_modules/.bin` 目录或中央缓存执行，安装所需的任何包以`<command>  ` 运行.
+`npm` [comes bundled](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) with `npx` (Since v5.2.0) — a tool to execute package binaries. Each command is executed either from the local `node_modules/.bin` directory, or from a central cache, installing any packages needed in order for `<command>` to run.
 
 ```json
 {
-	&quot;name&quot;: &quot;awesome-package&quot;,
-	“依赖”：{
-		“猫名”：“^1.0.0”
+	"name": "awesome-package",
+	"dependencies": {
+		"cat-names": "^1.0.0"
 	}
 }
 ```
 
-如果二进制文件已经安装，它将从 `node_modules/.bin` 执行.
+If the binary is already installed, it will be executed from `node_modules/.bin`.
 
 ```
-$ npx 猫名
+$ npx cat-names
 Max
 ```
 
-但是如果二进制文件丢失，它将首先安装.
+But if the binary is missing, it will be installed first.
 
 ```
-$ npx 狗名
-npx：在 3.136 秒内安装了 46 个
+$ npx dog-names
+npx: installed 46 in 3.136s
 Bentley
 ```
 
 ### Run commands with different Node.js versions
 
-使用 `npx`（与 npm v5.2.0 或更新版本捆绑在一起）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 包，您可以轻松地在不同的 Node.js 版本中尝试代码，而无需使用像这样的版本管理器 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 或者 [`n`](https://github.com/tj/n).
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n`](https://github.com/tj/n).
 
 ```
-$ npx --package=node-bin@6.11.0 -- 节点 --version
+$ npx --package=node-bin@6.11.0 -- node --version
 v6.11.0
 ```
 
 ### Link local packages
 
-有时将包的本地版本作为依赖项可能很有用. 您可以使用“npm link”将一个本地包链接到另一个本地包. 在您要使用的包中运行“npm link”. 这将创建一个全局引用. 然后进入你的原始包并运行`npm link<package-name>  ` 链接到另一个包中.
+Sometimes it can be useful to have a local version of a package as a dependency. You can use `npm link` to link one local package into another. Run `npm link` in the package you want to use. This creates a global reference. Then go into your original package and run `npm link <package-name>` to link in the other package.
 
 ```
-$ CD 彩虹
-$ npm 链接
+$ cd rainbow
+$ npm link
 $ cd ../unicorn
-$ npm 链接彩虹
+$ npm link rainbow
 ```
 
-您现在可以将 rainbow 用作 unicorn 包中的依赖项.
+You can now use `rainbow` as a dependency in the `unicorn` package.
 
 ### Install a package from GitHub
 
-npm 支持使用简写直接从 GitHub 存储库安装包：
+npm supports using a shorthand for installing a package directly from a GitHub repo:
 
 ```
-$ npm 安装 sindresorhus/粉笔
+$ npm install sindresorhus/chalk
 ```
 
-让我们定位一个特定的提交，因为主分支是一个移动的目标：
+Let's target a specific commit as the main branch is a moving target:
 
 ```
 $ npm install 'sindresorhus/chalk#51b8f32'
 ```
 
-指定提交 SHA、分支、标记或什么都不指定.
+Specify either a commit SHA, branch, tag, or nothing.
 
-您还可以使用 semver 安装 Git 依赖项：*（需要 npm v5 或更新版本）*
+You can also install Git dependencies with semver: *(Requires npm v5 or newer)*
 
 ```
 $ npm install 'sindresorhus/chalk#semver:^2.0.0'
@@ -382,7 +382,7 @@ $ npm install 'sindresorhus/chalk#semver:^2.0.0'
 ### Install a specific version of a package
 
 ```
-$ npm 安装 chalk@1.0.0
+$ npm install chalk@1.0.0
 ```
 
 
@@ -394,21 +394,21 @@ $ npm ls --depth=0
 
 ### Command help
 
-获取命令的帮助文档：
+Get help docs for a command:
 
 ```
-$ npm 帮助<command>
+$ npm help <command>
 ```
 
 Example:
 
 ```
-$ npm 帮助安装
+$ npm help install
 ```
 
 ### Standalone version of a package
 
-快速获取独立版本的包，该版本已浏览器化并可在浏览器中使用.
+Quickly get a standalone version of a package that is browserified and usable in the browser.
 
 ```
 https://wzrd.in/standalone/<package-name>[@<version>]
@@ -419,7 +419,7 @@ Examples:
 - <https://wzrd.in/standalone/object-assign>
 - <https://wzrd.in/standalone/object-assign@4.0.0>
 
-非常适合原型制作，但下载文件或自己使用 Browserify 进行生产.
+Great for prototyping, but download the file or use Browserify yourself for production.
 
 ## FAQ
 

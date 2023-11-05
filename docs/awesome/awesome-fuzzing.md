@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="cpuu/awesome-fuzzing"></div>
 ## Awesome Fuzzing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) 或模糊测试是一种自动化软件测试技术，涉及提供无效、意外或随机数据作为计算机程序的输入. 然后监视程序是否存在崩溃、失败的内置代码断言或潜在的内存泄漏等异常. 通常，模糊器用于测试采用结构化输入的程序. 
+> [Fuzzing](https://en.wikipedia.org/wiki/Fuzzing) or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, failing built-in code assertions, or potential memory leaks. Typically, fuzzers are used to test programs that take structured inputs. 
 
-用于安全测试的令人敬畏的模糊测试的精选参考列表. 此外，还有一系列免费提供的学术论文、工具等.
+A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 
-没有列出您最喜欢的工具或您自己的论文？ 分叉并创建一个合并请求来添加它！
+Your favorite tool or your own paper is not listed? Fork and create a Pull Request to add it!
 
 
 
@@ -15,23 +15,23 @@
 - [Fuzzing-101](https://github.com/antonio-morales/Fuzzing101)
 - [The Fuzzing Book](https://www.fuzzingbook.org/) (2019)
 - [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - 
-实际上，这份文件是一篇论文，但它包含的内容比任何其他书籍都更重要、更重要.
+Actually, this document is a paper, but it contains more important and essential content than any other book.
 - [Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/) (2018)
 - [Fuzzing: Brute Force Vulnerability Discovery, 1st Edition](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/) (2007)
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
 
 
 ## Talks
-- [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ)， YouTube
-- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8), 黑帽欧洲 2016
-- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0), 纽约大学讲座 2018
-- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo), NDC 会议 2018
+- [Fuzzing Labs - Patrick Ventuzelo](https://www.youtube.com/channel/UCGD1Qt2jgnFRjrfAITGdNfQ), Youtube
+- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8), Black Hat Europe 2016
+- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0), NYU Talk 2018
+- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo), NDC Conferences 2018
 
 ## Papers
-为了达到一个明确定义的范围，我选择在 4 的最后一期中包括关于模糊测试的出版物
-2008 年 1 月至 2019 年 7 月的顶级主要安全会议和其他会议.
-它包括 (i) 网络和分布式系统安全研讨会 (NDSS)，(ii) IEEE 研讨会
-安全和隐私 (S&amp;P)，(iii) USENIX 安全研讨会 (USEC)，以及 (iv) ACM 计算机和通信安全会议 (CCS).
+To achieve a well-defined scope, I have chosen to include publications on fuzzing in the last proceedings of 4
+top major security conferences and others from Jan 2008 to Jul 2019.
+It includes (i) Network and Distributed System Security Symposium (NDSS), (ii) IEEE Symposium on
+Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM Conference on Computer and Communications Security (CCS).
 
 
 ### The Network and Distributed System Security Symposium (NDSS)
@@ -202,59 +202,33 @@
 
 
 ## Tools
-有关可用于利用模糊测试的各种开源工具的信息.
-### General-purpose
-- [radamsa](https://gitlab.com/akihe/radamsa) - 通用模糊器.
-- [zzuf](https://github.com/samhocevar/zzuf) - 透明的应用程序输入模糊器.
-- [FireCracker](https://github.com/blst-security/firecracker) - BLST CLI 工具获取您的 HTTP 日志，使用它们来映射您的 API 流并发现风险.
-### Binary
-- [American Fuzzy Lop plus plus (AFL++)](https://github.com/AFLplusplus/AFLplusplus)  - 比 Google 的 AFL 更好的分支. 更快的速度，更多更好的突变，更多更好的仪器，自定义模块支持等. [paper](https://www.usenix.org/conference/woot20/presentation/fioraldi)
-- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - 一种面向安全的模糊器，它采用一种新型的编译时检测和遗传算法来自动发现干净、有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
-- [WinAFL](https://github.com/googleprojectzero/winafl) - 用于模糊测试 Windows 二进制文件的 AFL 分支.
-- [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - 用于覆盖引导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
-- [Driller](https://github.com/shellphish/driller) - 的实施 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) . 这个实现建立在 AFL 之上，angr 被用作符号跟踪器.
-- [shellphish fuzzer](https://github.com/shellphish/fuzzer) - AFL 的 Python 接口，允许轻松注入测试用例和其他功能.
-- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) - 一种基于二进制的模糊测试工具，通过利用一种称为灰盒混合测试的新技术改进了经典的基于覆盖的模糊测试.
-- [Jazzer](https://github.com/CodeIntelligenceTesting/jazzer)  - 用于 Java 虚拟机的覆盖率引导的进程内模糊器. 它基于 libFuzzer，可以直接应用于已编译的应用程序.
-### Web, JavaScript
-- [jsfunfuzz](https://github.com/MozillaSecurity/funfuzz) - JavaScript 引擎模糊器.
-- [IFuzzer](https://github.com/vspandan/IFuzzer) - 使用遗传编程的进化解释器模糊器.
-- [domato](https://github.com/googleprojectzero/domato) - 来自的 DOM 模糊器 [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
-- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - 一个（覆盖）引导的 Javascript 引擎模糊器，由 Samuel Groß 编写.
-- [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript 引擎模糊器，由 KAIST SoftSec Lab 编写.
-- [test-each](https://github.com/ehmicky/test-each) - 使用不同的输入重复测试.
-- [gremlins.js](https://github.com/marmelab/gremlins.js) - gremlins.js 是一个用 JavaScript 编写的猴子测试库.
-### Network protocol
-- [dtls-fuzzer](https://github.com/assist-project/dtls-fuzzer) - 执行 DTLS 服务器协议状态模糊测试的 Java 工具.
-- [T-Fuzz](https://github.com/HexHive/T-Fuzz) - T-Fuzz 利用覆盖引导模糊器生成输入.
-- [TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) - 用于分析 TLS 库的基于 Java 的框架.
-- [DELTA](https://github.com/seungsoo-lee/DELTA) - SDN 安全评估框架.
-- [boofuzz](https://github.com/jtpereyda/boofuzz)  - 人类网络协议模糊测试. 文档位于 http://boofuzz.readthedocs.io/，包括漂亮的快速入门指南.
-- [LL-Fuzzer](https://github.com/mit-ll/LL-Fuzzer) - 适用于 Android 设备的自动 NFC 模糊测试框架.
-- [tlsfuzzer](https://github.com/tomato42/tlsfuzzer) - SSL 和 TLS 协议测试套件和模糊器.
-- [TumbleRF](https://github.com/riverloopsec/tumblerf) - 一个将模糊测试技术应用到 RF 系统的框架. 
-- [PULSAR](https://github.com/hgascon/pulsar) - 一种专有网络协议的有状态黑盒模糊测试方法.
-- [SPIKE](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - 类似sulley的fuzzer开发框架，sulley的前身.
-- [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - 协议实施的安全测试.
-- [MTF](https://github.com/artemiosv/etfa2015) - 用于测试互联工业系统的 Modbus/TCP Fuzzer
-- [MTF-Storm](https://github.com/ntinosk-mtf/etfa2018) - 用于 Modbus/TCP 的高性能模糊器.
-- [Scapy](https://github.com/secdev/scapy)  - 数据包处理程序和库. 可以模糊任何协议. 请参阅“模糊”功能.
-### Driver
-- [Charm](https://github.com/trusslab/charm) - 一种有助于动态分析移动系统设备驱动程序的系统解决方案.
-## Platform
-- [certfuzz](https://github.com/CERTCC/certfuzz) - 它包含 CMU CERT 基本模糊测试框架 (BFF) 和 CERT 故障观察引擎 (FOE) 的源代码.
-- [Peach Fuzzer Platform](https://www.peach.tech/products/peach-fuzzer/) - 一个自动化安全测试平台，通过发现硬件和软件系统中的漏洞来防止零日攻击.
-- [Blackhat USA 2018 AFL workshop training materials](https://github.com/wrauner/afl-fuzzing-training) - 来自三星研究院的@wrauner.
-- [CI Fuzz](https://code-intelligence.com) - 一个与 CI/CD 无关的平台，用于对本机应用程序和 Java Web 应用程序进行基于反馈的模糊测试.
+Information about the various open source tools you can use to leverage fuzz testing. The items in this section have been organized and classified based on the standards set by the https://fuzzing-survey.org/ website. Although there are currently more than 35 categories, we have selected the most relevant ones to provide efficient information. Additionally, items that are outdated and deprecated have been excluded, and only those that are currently usable are listed.
+### File
+- [AFL++](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+- [Angora](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based coverage guided fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.
+### Kernel
+### Network
+### API
+### JavaScript
+### Firmware
+### Hypervisor
+### CPU
+### Lib
+### Argument
+### DOM
+### UI
+### Blockchain
+### AI
+
 
 ## Contribute
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/cpuu/awesome-fuzzing/blob/master/contributing.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/cpuu/awesome-fuzzing/blob/master/contributing.md) first.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，cpuu 已放弃所有版权和
-本作品的相关或邻接权利.
+To the extent possible under law, cpuu has waived all copyright and
+related or neighboring rights to this work.
