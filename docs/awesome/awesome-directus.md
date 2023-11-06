@@ -77,7 +77,7 @@
 - [Classified Group](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 - [Tokenized Preview](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 
-### Extension scripts
+### Extension Scripts
 
 - [Directus Hook Library](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
