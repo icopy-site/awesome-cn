@@ -3172,6 +3172,7 @@ _Where to discover new Go libraries._
 - [Belgrade Golang Meetup](https://www.meetup.com/golang-serbia/)
 - [Berlin Golang](https://www.meetup.com/golang-users-berlin/)
 - [Brisbane Gophers](https://www.meetup.com/Brisbane-Golang-Meetup/)
+- [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
 - [Canberra Gophers](https://www.meetup.com/Canberra-Gophers/)
 - [Go Language NYC](https://www.meetup.com/golanguagenewyork/)
 - [Go London User Group](https://www.meetup.com/Go-London-User-Group/)
@@ -3227,6 +3228,7 @@ _Where to discover new Go libraries._
 - [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
 - [Utah Go User Group](https://www.meetup.com/utahgophers/)
 - [Women Who Go - San Francisco, CA](https://www.meetup.com/Women-Who-Go/)
+- [Zürich Gophers - Zurich, Switzerland](https://www.meetup.com/zurich-gophers/)
 
 _Add the group of your city/country here (send **PR**)_
 

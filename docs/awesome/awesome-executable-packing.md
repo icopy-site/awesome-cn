@@ -294,6 +294,7 @@
 - [Malheur](https://www.sec.cs.tu-bs.de/data/malheur) - Contains the recorded behavior of malicious software (malware) and has been used for developing methods for classifying and clustering malware behavior (see the JCS article from 2011).
 - [Malicia](http://malicia-project.com/dataset.html) - Dataset of 11,688 malicous PE files collected from 500 drive-by download servers over a period of 11 months in 2013 (DISCONTINUED).
 - [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
+- [The Malware Museum](https://archive.org/details/malwaremuseum) - The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers.
 - [MalwareBazaar](https://bazaar.abuse.ch/browse) - Project operated by abuse.ch aimed to collect and share malware samples, helping IT-security researchers and threat analysts protecting their constituency and customers from cyber threats.
 - [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
 - [MalwareTips](https://malwaretips.com/) - MalwareTips is a community-driven platform providing the latest information and resources on malware and cyber threats.
@@ -380,7 +381,7 @@
 - [Simple-PE32-Packer](https://github.com/z3r0d4y5/Simple-PE32-Packer) - Simple PE32 Packer with aPLib compression library.
 - [SimpleDPack](https://github.com/YuriSizuku/SimpleDpack) - A very simple windows EXE packing tool for learning or investigating PE structure.
 - [Smart Packer](https://www.smartpacker.nl) - Packs 32 & 64bit applications with DLLs, data files, 3rd party run-time into one single executable that runs instantly, with no installs or hassles.
-- [Squishy](https://logicoma.io/squishy/) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
+- [Squishy](https://logicoma.io/squishy) - Modern packer developed for 64kb demoscene productions, targets 32bit and 64bit executables.
 - [theArk](https://github.com/aaaddress1/theArk) - Windows x86 PE Packer In C++.
 - [Themida](https://www.oreans.com/themida.php) - From Renovo paper: Themida converts the original x86 instructions into virtual instructions in its own randomized instruction set, and then interpret these virtual instructions at run-time.
 - [UPX](https://upx.github.io/) - Ultimate Packer for eXecutables.
@@ -402,6 +403,7 @@
 - [AverCryptor](https://web.archive.org/web/20071012084924/http://secnull.org) - Small and very handy utility designed to encrypt notes in which you can store any private information - it helps to hide your infection from antiviruses.
 - [BurnEye](https://packetstormsecurity.com/files/29691/burneye-1.0-linux-static.tar.gz.html) - Burneye ELF encryption program, x86-linux binary.
 - [ByteBoozer](https://csdb.dk/release/?id=33093) - Commodore 64 executable packer.
+- [CryptExec](http://phrack.org/issues/63/13.html) - Next-generation runtime binary encryption using on-demand function extraction.
 - [EXE Guarder](http://www.exeicon.com/exeguarder) - Licensing tool for PE files allowing to compress and specify a password notice.
 - [EXE Wrapper](https://web.archive.org/web/20160331144211/http://533soft.com/exewrapper) - Protects any EXE file with a password from non-authorized execution.
 - [Exe32Pack](https://exe32pack.apponic.com/) - Compresses Win32 EXEs, DLLs, etc and dynamically expands them upon execution.
@@ -456,6 +458,7 @@
 - [EPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/epack16.zip) - EXE and COM file compressor ; works with DOS/Windows95 files.
 - [ExeGuard](https://defacto2.net/f/a520164?packer=exeguard) - DOS EXE files free protector using anti-debugging ticks to prevent hacking, analysis and unpacking.
 - [EXELOCK 666](https://defacto2.net/f/a520164?packer=exelock666) - Utility for protecting .EXE files so no lamers can hack out the copyright.
+- [Fire-Pack](http://files.dhs.nu/files_source/axe.zip?fire-pack)
 - [FSE](https://defacto2.net/f/a520164?packer=fse) - Final Fantasy Security Envelope freeware for protecting COM and EXE progams.
 - [Gardian Angel](https://defacto2.net/f/a520164?packer=gardian-angel) - COM and EXE encrypter and protector using a variety of anti-debugging tricks.
 - [JMCryptExe](https://defacto2.net/f/a520164?packer=jmce) - DOS EXE encrypter.
@@ -467,6 +470,7 @@
 - [Morphine](https://github.com/bowlofstew/rootkit.com/blob/master/hf/Morphine27) - Application for PE files encryption.
 - [Neolite](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/neolte20.zip) - Compresses Windows 32-bit EXE files and DLLs.
 - [PACK](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pack201.zip) - Executable files compressor.
+- [Pack-Ice](http://files.dhs.nu/files_source/axe.zip?pack-ice)
 - [PCShrink](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pcsnk071.zip) - Windows 9x/NT executable file compressor relying on the aPLib compression library.
 - [PE Diminisher](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/ped.zip) - Simple PE packer relying on the aPLib compression library.
 - [PE-Protector](https://web.archive.org/web/20030324043555/https://www.exetools.com/files/protectors/win/pe-protector10.zip) - Encrypter/protector for Windows 9x/ME to protect executable files PEagainst reverse engineering or cracking with a very strong protection.
