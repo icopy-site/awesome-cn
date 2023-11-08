@@ -438,8 +438,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://groups.psych.northwestern.edu/gentner/newpdfpapers/MedinGoldstoneGentner90.pdf) - ***Psychological Science***, 1990. [[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784&hl=en&as_sdt=0,5)]. Theory on similarity judgement by attributes and relations.
 
-* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147&hl=en&as_sdt=0,5)]. [[Code](https://github.com/YuzheSHI/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization. 
-
 
 #### Human Concept Representation
 
@@ -487,6 +485,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)]. Chaitin's original paper on Algorithmic Information Theory.
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
+
+* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147&hl=en&as_sdt=0,5)]. [[Code](https://github.com/YuzheSHI/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization. 
 
 
 #### Dimensionality Reduction

@@ -80,13 +80,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Containers
 
+- [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
 - [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
 - [Sitecore Containers Prerequisites](https://github.com/nickwesselman/sitecore-containers-prerequisites) - Checks the machine for Sitecore Container compatibility, enables Hyper-V, downloads and installs software including Sitecore 10.1
 - [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.*, including 'getting-started' XP0 container environment.
 - [Container Deployment](https://github.com/Sitecore/container-deployment) - Provides examples on how to deploy Sitecore containers using various methods.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 - [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
-- [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that set up a Linux container on a host running solr with SSL using a generated certificate.
 - [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
