@@ -101,7 +101,7 @@ Supplementary files and tools.
  spell Checker.
 - [LanguageCheck](https://github.com/JohannesBuchner/languagecheck) - Analyses scientific LaTeX papers, suggesting improvements from a list of common mistakes/ambiguities, tense consistency, a vs. an, spell check, and paragraph topic sentences.
 - [Markdown lint tool](https://github.com/markdownlint/markdownlint) - Markdown linter.
-- [proselint](http://proselint.com/) - Linter for prose.
+- [proselint](https://github.com/amperser/proselint) - Linter for prose.
 - [remarklint](https://github.com/remarkjs/remark-lint) - Markdown linter.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) - reStructuredText linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text
@@ -151,14 +151,14 @@ Reusable minimalist examples.
 
 How to generate articles and presentations for scientific purposes.
 
-- [3 frameworks into one — Write your next paper with R Studio!](https://www.ds-econ.com/write-your-whole-paper-in-r-it-is-better/) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers. 
+- [3 frameworks into one — Write your next paper with R Studio!](https://blog.devgenius.io/write-your-whole-paper-in-r-it-is-better-77e1843f0c09) - Article provides an overview to a workflow that combines R Markdown (bookdown), Zotero (literature management), and Notion (note taking on research papers) to write academic papers. 
 - [Book on Riemann solvers](https://github.com/clawpack/riemann_book/#readme) - This
    example uses a custom `nbconvert` template and shows how to store your
    notebooks with no output (for version control) while automatically executing
    them before running `bookbook`, so that PDF and HTML versions include the
    output.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
-- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://www.ds-econ.com/quarto/) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
+- [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://blog.devgenius.io/heads-up-quarto-is-here-to-stay-aa861ef87491) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
 - [Katrin Leinweber's Ph.D.
    thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
    work flow involving several tools, but primarily Pandoc, `latexmk` and
