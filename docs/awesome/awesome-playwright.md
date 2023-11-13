@@ -54,6 +54,7 @@
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.
 - [playwright-ui5](https://github.com/detachhead/playwright-ui5) - Custom selector engine for sapui5.
 - [playwright-xpath](https://github.com/detachhead/playwright-xpath) - Custom selector engine for xpath 2 and 3.
+- [ZeroStep](https://github.com/zerostep-ai/zerostep) - AI actions and assertions for Playwright.
 
 
 ## Reporters

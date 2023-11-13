@@ -81,6 +81,7 @@ This project lists books and other resources grouped by genres:
 #### Other Languages
 
 + [Arabic / al arabiya / العربية](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ar.md)
++ [Armenian / Հայերեն](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-hy.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-az.md)
 + [Bengali / বাংলা](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-bn.md)
 + [Bulgarian / български](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-bg.md)

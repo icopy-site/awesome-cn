@@ -104,6 +104,7 @@
 - [surify-cli](https://github.com/dgenzer/surify-cli) - Generate suricata-rules from collection of IOCs (JSON, CSV or flags) based on your suricata template.
 - [suricata-prettifier](https://github.com/theY4Kman/suricata-prettifier) - Command-line tool to format and syntax highlight Suricata rules.
 - [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) - Create rules and configuration for Suricata to alert on indicators from an OTX account.
+- [Aristotle](https://github.com/secureworks/aristotle) - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
 
 
 ## Systems Using Suricata

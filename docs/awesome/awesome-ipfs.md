@@ -28,13 +28,13 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 - [ipfs-chat](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 - [IPFS-FPS](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-- [IPGit](https://github.com/meyer1994/ipgit) - Remote Git repository that mirrors your code to IPFS
 - [killcord](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
-- [Mintter](https://github.com/MintterHypermedia/mintter) - an app for knowledge communities. Powered by the Hypermedia protocol.
+- [Mintter](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 - [orbitchat.dev](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 - [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 - [Peergos](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
+- [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 - [Skiff](https://github.com/skiff-org/skiff-mail) - Privacy-first, end-to-end encrypted email, file storage, and collaboration platform using IPFS storage.
 
 ## Browsers
@@ -112,9 +112,9 @@ A list of web browsers with IPFS integrations
 - [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects
-We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a pr and we'll get it into the right place.
+We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](https://github.com/ipfs/awesome-ipfs/blob/master/./stale.md) and optionally add the reason why it's marked as stale with an indented comment.
 
-[View the list here](https://github.com/ipfs/awesome-ipfs/blob/master/./stale.md)
+[View the list of stale projects here](https://github.com/ipfs/awesome-ipfs/blob/master/./stale.md)
 
 ## Contribute
 
