@@ -30,6 +30,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- TOC -->
 
+<!-- omit in toc -->
 
 
 <!-- CONTENT -->
@@ -56,7 +57,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 > **Note**
 > The aggregators below are displayed per category based on the number of feeders on **27-02-2023**. You can check out real-time stats about all listed aggregators by clicking the Grafana button below. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
 
-[![Grafana](https://img.shields.io/badge/Aggregators%20grafana%20dashboard-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://dashboards.adsb.cool)
+[![Grafana](https://img.shields.io/badge/Aggregators%20grafana%20dashboard-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://dashboards.adsb.cool/aggregators)
 
 <!-- List ADS-B aggregators. -->
 
@@ -188,12 +189,14 @@ Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issue
 
 <!-- REPO INFO -->
 
+<!-- omit in toc -->
 ## Contributing
 
 Contributions of any kind are welcome 💙! Please check out the [contributing guidelines](https://github.com/rickstaa/awesome-adsb/blob/master/contributing.md).
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+<!-- omit in toc -->
 ### Contributors
 
 <!--lint ignore double-link-->
