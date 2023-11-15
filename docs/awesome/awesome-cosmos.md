@@ -50,7 +50,6 @@ Please read the [Contributing guide](https://github.com/cosmos/awesome-cosmos/bl
 * [telescope](https://github.com/osmosis-labs/telescope) - Typescript library generator built on top of CosmJS.
 * [chainapsis/cosmosjs](https://github.com/chainapsis/cosmosjs) - Chainapsis Signing & API Library.
 * [cosmos-client/cosmos-client-ts](https://github.com/cosmos-client/cosmos-client-ts) - JavaScript / TypeScript client for Cosmos SDK blockchains.
-* [cosmos/sig](https://github.com/cosmos/sig) - Cosmos Signing Library.
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 * [strangelove-ventures/graz](https://github.com/strangelove-ventures/graz) - Collection of React hooks to interact with wallets, signers, signing clients, etc.
 * [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) - A npm package to bootstrap a Cosmos Web UI.
@@ -101,7 +100,7 @@ Explore Cosmos SDK blockchains via a terminal.
 A registry containing standardized metadata from most Cosmos chains.
 
 * [cosmos/chain-registry](https://github.com/cosmos/chain-registry/)
-* [Cosmos Directory](https://cosmos.directory) - [Source](https://github.com/eco-stake/cosmos-directory)
+* [Cosmos directory](https://cosmos.directory) - [Source](https://github.com/eco-stake/cosmos-directory)
 * [cosmology-tech/chain-registry](https://github.com/cosmology-tech/chain-registry) - A npm package for the official Cosmos Chain Registry.
 
 ## Validators
@@ -186,12 +185,15 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [cosmos-sdk-codeql](https://github.com/crypto-com/cosmos-sdk-codeql) - CodeQL queries for common Cosmos SDK bugs.
 * [tm-load-test](https://github.com/informalsystems/tm-load-test) - CometBFT load test application.
 * [cosmosloadtester](https://github.com/orijtech/cosmosloadtester) - Load tester for Cosmos SDK blockchains.
+* [CometMock](https://github.com/informalsystems/CometMock) - Drop-in replacement for CometBFT in end-to-end tests.
+* [quint](https://github.com/informalsystems/quint) - Executable specification language with delightful tooling.
+* [apalache](https://github.com/informalsystems/apalache) - APALACHE: symbolic model checker for TLA+ and Quint.
 
 ## Tools
 
 ### CLI
 
-* [iqlusioninc/tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
+* [tmkms](https://github.com/iqlusioninc/tmkms) - Key Management System for Tendermint validators.
 * [cosmosvisor](https://github.com/cosmos/cosmos-sdk/tree/main/cosmovisor#readme) - Automates Cosmos SDK application binary upgrades.
 * [cosmosvanity](https://github.com/hukkinj1/cosmosvanity) - CLI tool for generating Cosmos vanity addresses.
 * [findaccount](https://github.com/blockpane/findaccount) - Helps identify if an account exists on multiple Cosmos chains with the same address.
@@ -227,6 +229,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 ### Utilities
 
 * [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
+* [cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
 
 ## Ecosystem
 
