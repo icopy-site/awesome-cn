@@ -1,18 +1,18 @@
 <div class="github-widget" data-repo="ocaml-community/awesome-ocaml"></div>
-很棒的 OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
+Awesome OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
 =============
 
 <img src="https://raw.githubusercontent.com/ocaml-community/awesome-ocaml/master/colour-logo.png" width="70%" />
 
-&gt; _**你在掌握 OCaml 的道路上所需要的一切.**_
+> _**Everything you'll ever need on the road to mastering OCaml.**_
 
-精选的 OCaml 工具、框架、库和文章的参考列表. 此外，还有一系列免费提供 [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) 和 [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
+A curated list of references to awesome OCaml tools, frameworks, libraries and articles. Additionally there is a collection of freely available [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
-如果您正在寻找有关 OCaml 的综合社区驱动内容，请访问[OCamlverse](https://ocamlverse.github.io/)!
+If you're looking for comprehensive community-driven content about OCaml visit 📚[OCamlverse](https://ocamlverse.github.io/)!
 
-有关现代 OCaml 开发工作流程的快速介绍，请参阅 [**Up and Running with OCaml**](https://ocaml.org/learn/tutorials/up_and_running.html) 教程.
+For a quick introduction to the modern OCaml development workflow consult the [**Up and Running with OCaml**](https://ocaml.org/learn/tutorials/up_and_running.html) tutorial.
 
-没有列出您喜欢的包？ 叉和 [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) 添加它！
+Your favorite package is not listed? Fork and [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) to add it!
 
 
 
@@ -32,33 +32,33 @@
 ## Algorithms and Data Structures
 
 - [Comparing a Machine Learning Algorithm Implemented in F# and OCaml](https://philtomson.github.io/blog/2014-05-29-comparing-a-machine-learning-algorithm-implemented-in-f-sharp-and-ocaml/)
-- [OCamlgraph](https://github.com/backtracking/ocamlgraph) – OCaml 的通用图形库.
-- [ods](https://github.com/owainlewis/ods) – OCaml 的大量数据结构和算法.
-- [combine](https://github.com/backtracking/combine)  – 用于组合学的 OCaml 库<https://www.lri.fr/~filliatr/combine/> .
-- [Decompress](https://github.com/mirage/decompress) - Zlib 的纯 OCaml 实现.
-- [Ke](https://github.com/mirage/ke) - 在 OCaml 中快速实现队列 (FIFO).
-- [Duff](https://github.com/mirage/duff) - P. MacDonald 在 OCaml 中实现 Rabin 的指纹和增量压缩（与 [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
-- [ORaft](https://github.com/komamitsu/oraft) - 图书馆 [Raft consensus algorithm](https://raft.github.io/raft.pdf) 在 OCaml 中实现
-
+- [OCamlgraph](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
+- [ods](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
+- [combine](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
+- [Decompress](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+- [Ke](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
+- [Duff](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+- [ORaft](https://github.com/komamitsu/oraft) - Library of [Raft consensus algorithm](https://raft.github.io/raft.pdf) implemented in OCaml
+- [ODiff](https://github.com/dmtrKovalenko/odiff) – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
 
 ## Application Libraries
 
-- [Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) – 用于 OCaml 项目的社区维护基础库.
-- [Cmdliner](https://github.com/dbuenzli/cmdliner) – OCaml 命令行界面的声明性定义.
-- [Core](https://github.com/janestreet/core)  – Jane Street Capital 成熟的标准库覆盖.  Core 的可移植子集也可用： [Core_kernel](https://github.com/janestreet/core_kernel).
-- [Base](https://github.com/janestreet/base) - Jane Street Capital 的无依赖、快速编译、完全可移植的跨越任何可以运行 OCaml 代码的环境的标准库.
-- [React](http://erratique.ch/software/react)  – React 是用于函数式反应式编程 (FRP) 的 OCaml 模块. 它为具有时变值的程序提供支持：声明性事件和信号.
-- [Minicli](https://github.com/UnixJunkie/minicli) - 用于命令行解析的极简库.
-- [easy-format](https://github.com/mjambon/easy-format) – OCaml 的漂亮打印库.
-- [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – 用于处理 OCaml 中的 RPC 的轻型库.
-- [ocaml-containers](https://github.com/c-cube/ocaml-containers)  – 一个轻量级的、模块化的标准库扩展、字符串库和各种库的接口（bigarrays、unix 等）.  BSD 许可证.
+- [Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+- [Cmdliner](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+- [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core_kernel](https://github.com/janestreet/core_kernel).
+- [Base](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library.
+- [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
+- [Minicli](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
+- [easy-format](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
+- [ocaml-rpc](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+- [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A lightweight, modular standard library extension, string library and interfaces to various libraries (bigarrays, unix, etc...). BSD license.
 
 
 ## Benchmarking
 
-- [core_bench](https://github.com/janestreet/core_bench) – Jane Street 的 OCaml 微基准测试库.
+- [core_bench](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
   - [Getting Started with Core_bench](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
-- [benchmark](https://github.com/Chris00/ocaml-benchmark) – 用于使用延迟或吞吐量测量函数运行时间的基准函数.
+- [benchmark](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
 
 
 ## Blogs
@@ -70,114 +70,117 @@
 
 ## Books
 
-- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  – 在更多 OCaml 中 John Whitington 用 OCaml 进行了函数式编程的曲折之旅，介绍了各种语言特性并描述了一些经典算法. 本书以处理 PDF 文件生成的大型实例结尾. 每章都有问题以及有效的答案和提示.
-- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html) 作者：Allen Downey 和 Nicholas Monje – 如何像计算机科学家一样思考是一本基于 OCaml 语言的编程入门教科书. 它是 Allen Downey 的 Think Python 的修改版本. 它适用于编程新手，也适用于那些了解一些编程但想在面向函数范式中学习编程的人，或者那些只想学习 OCaml 的人.
-- [OCaml from the Very Beginning](http://ocaml-book.com/) 作者：J. Whitington - OCaml from the Very Beginning 将吸引新程序员和渴望探索 OCaml 等函数式语言的经验丰富的程序员.
-- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) 作者 Richard Bird - 它总结了函数编程世界中的 30 个硬算法问题. 虽然是Haskell，但是算法题很有意思，尝试用OCaml解决也有助于函数式编程的思考.  OCaml 中的部分解决方案是 [here](https://github.com/MassD/pearls).
-- [Real World OCaml](https://realworldocaml.org/) Y. Minsky、A. Madhavapeddy 和 J. Hickey - 面向大众的函数式编程.
-- [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) 作者：X. Leroy 和 D. Rémy – Unix 系统编程简介，重点是进程之间的通信.
-- [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) – 本书描述了 OCaml 语言及其强大类型系统背后的理论基础.
-- [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures)  - 这是第一本也是唯一一本关注 FP 世界中各种数据结构的书. 必读之作.
-- [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - 乔恩哈罗普.
-- [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/) - 康奈尔大学 OCaml CS 3110 函数式编程教科书.
+- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/) – In More OCaml John Whitington takes a meandering tour of functional programming with OCaml, introducing various language features and describing some classic algorithms. The book ends with a large worked example dealing with the production of PDF files. There are questions for each chapter together with worked answers and hints.
+- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html) by Allen Downey and Nicholas Monje – How to Think Like a Computer Scientist is an introductory programming textbook based on the OCaml language. It is a modified version of Think Python by Allen Downey. It is intended for newcomers to programming and also those who know some programming but want to learn programming in the function-oriented paradigm, or those who simply want to learn OCaml.
+- [OCaml from the Very Beginning](http://ocaml-book.com/) by J. Whitington - OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml.
+- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here](https://github.com/MassD/pearls).
+- [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
+- [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
+- [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
+- [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures) - This is the first or only book focus on various data structures in FP world. A must-read one.
+- [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) - by Jon Harrop.
+- [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/) - Textbook for CS 3110 Functional Programming in OCaml, Cornell University.
 
 
 
 ## Code Analysis and Linters
 
-- [Mascot](http://mascot.x9c.fr/) - Mascot 是 OCaml 源代码的样式检查器
-- [pfff](https://github.com/returntocorp/pfff) – pfff 是一组工具和 API，用于执行一些静态分析、动态分析、代码可视化、代码导航或保持样式的源到源转换，例如源代码重构.
-- [Infer](https://github.com/facebook/infer) - Infer 是 Java、C 和 Objective-C 的静态分析器
-- [Frama-C](http://frama-c.com) - Frama-C 是 C 和 C++ 的静态分析和形式证明框架
-- [flow](https://github.com/facebook/flow) - flow 是 JavaScript 的静态类型检查器
-- [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer 是一种自动形式化验证工具，它使用分离逻辑来验证C 程序的内存安全性.
-- [MemCAD](https://github.com/Antique-team/memcad)  - MemCAD 是用于形状分析的抽象解释器.  MemCAD 可以验证处理复杂数据结构的 C 程序.
-- [Camelot](https://github.com/upenn-cis1xx/camelot) - Camelot 是一个模块化且完全可配置的 OCaml linter 和 stylechecker.
-- [coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) - 从 OCaml 到 Coq 的翻译器，以正式验证 OCaml 代码.
+- [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
+- [pfff](https://github.com/returntocorp/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [Infer](https://github.com/facebook/infer) - Infer is a static analyzer for Java, C and Objective-C
+- [Frama-C](http://frama-c.com) - Frama-C is a static analysis and formal proof framework for C and C++
+- [flow](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
+- [SLAyer](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+- [MemCAD](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
+- [Camelot](https://github.com/upenn-cis1xx/camelot) - Camelot is a modular and fully configurable OCaml linter and stylechecker.
+- [coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+- [MOPSA](https://gitlab.com/mopsa/mopsa-analyzer) - MOPSA is a generic framework for building sound static analyzers based on the theory of abstract interpretation.
+
 
 ## Program analysis
-- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP 是一个针对二进制程序的逆向工程和程序分析平台.
-- [BinCat](https://github.com/airbus-seclab/bincat) - BinCat 是一个二进制代码静态分析工具包.
-- [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker 在二进制可执行文件中发现易受攻击的模式.
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
+- [BinCat](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 
 ## Compilers and Compiler Tools
 
-- **语言和编译器**：
-  - [Caramel](https://caramel.run/) - Caramel 是一种函数式语言，用于构建类型安全、可扩展和可维护的应用程序.
-  - [cDuce](http://www.cduce.org/) - cDuce 是一种具有创新功能的现代面向 XML 的函数式语言.
-  - [Compcert C Compiler](http://compcert.inria.fr/) - 它是一个支持大多数 ISO C90 和 C99 / ANSI C 特性的 C 编译器.
-  - [Eff Programming Language](http://www.eff-lang.org/) - Eff 是一种函数式语言，不仅可以处理异常，还可以处理其他计算效果，例如状态或 I/O.
+- **Languages and Compilers**:
+  - [Caramel](https://caramel.run/) - Caramel is a functional language for building type-safe, scalable, and maintainable applications.
+  - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
+  - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
+  - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
   - [Hack Programming Language](https://hacklang.org/)
   - [Haxe Programming Language](https://haxe.org/)
-  - [Neko Programming Language](https://nekovm.org/) - 最初编译器是用 OCaml 编写的.
-  - [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo 是 ML 传统中的一种编程语言，它非常强调对别名的控制和对可变内存的访问.
-  - [OCaml-Java](http://www.ocamljava.org/) - OCaml 到 Java 字节码编译器.
+  - [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
+  - [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
+  - [OCaml-Java](http://www.ocamljava.org/) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
-  - [Rhine](https://github.com/artagnon/rhine-ml) – 用 OCaml 编写的 LLVM 上的 Lisp.
-  - [Rust Programming Language](https://www.rust-lang.org/) - 最初在引导之前用 OCaml 编写.
-  - [Quick C-- Target Language](http://www.cminusminus.org/) - 它现在是一个死项目. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
-  - [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - 用于查找用标准 C 编写的程序中的细微错误的解释器
+  - [Rhine](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
+  - [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
+  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+  - [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
-  - [Reason](http://facebook.github.io/reason/) - Facebook 的 OCaml 友好语法和工具链.
-  - [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) 是一种自动和静态计算 OCaml 程序的资源使用范围的工具.
+  - [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
+  - [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
+  - [Liquid ML](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
-- **解析器和词法分析器生成器**：
-  - [Opal](https://github.com/pyrocat101/opal) – 用于 OCaml 的独立单子解析器组合器.
-  - [Sedlex](https://github.com/ocaml-community/sedlex) 是一个现代的、与编码无关的（阅读：支持 Unicode 的）词法分析器生成器（基于 ppx 的继任者 [ulex](http://www.cduce.org/download.html#side).)
-  - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir 是 OCaml 的 LR(1) 解析器生成器.
-    - 看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
-    - ... 和 [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个简洁的项目，可以为您的语法生成可读的 LaTeX、HTML 或纯文本 EBNF 样式的文档.
-  - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – OCaml 的 lex 和 yacc 实现.
-  - [Angstrom](https://github.com/inhabitedtype/angstrom) - 为速度和内存效率而构建的解析器组合器
-- **文章**：
+- **Parser and Lexer Generators**:
+  - [Opal](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+  - [Sedlex](https://github.com/ocaml-community/sedlex) is a modern, encoding-agnostic (read: Unicode-supporting) lexer generator (the ppx-based successor to [ulex](http://www.cduce.org/download.html#side).)
+  - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir is a LR(1) parser generator for OCaml.
+    - See [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) for a clearer example of using Menhir and Sedlex to produce a useful parser,
+    - ... and [Obelisk](https://github.com/Lelio-Brun/Obelisk), a neat project to produce readable LaTeX, HTML, or plain-text EBNF-style documentation for your grammar.
+  - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
+  - [Angstrom](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
+- **Articles**:
   - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
 
 
 ## Concurrency
 
- OCaml 中存在两个并发库：_Lwt_ 和 _Async_. 它们提供非常相似的功能，但在错误处理和内部实现细节方面做出截然不同的决定（有关更多详细信息，请参见下面的链接）. [Real World OCaml](https://realworldocaml.org/) 使用 Async 但一个版本 [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) 也可用.
+Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async but a version of the [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
 
-- **图书馆**：
-  - [Lwt](http://ocsigen.org/lwt/) — OCaml 的协作线程库.
-  - [Async](https://opensource.janestreet.com/async/) — 与核心库一起使用的单子并发库.
-- **文章**：
+- **Libraries**:
+  - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
+  - [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
+- **Articles**:
   - [The blog post that introduced Async](https://blog.janestreet.com/announcing-async/)
   - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)
   - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
 
-还有一个正在进行的实验项目，使 OCaml 多处理器和多核感知在 [OCaml multicore](https://github.com/ocamllabs/ocaml-multicore) 叉.
+There is also an ongoing experimental project to make OCaml multiprocessor and multicore aware at [OCaml multicore](https://github.com/ocamllabs/ocaml-multicore) fork.
 
 ## Databases
 
-- **绑定**
-  - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — 绑定到 NDBM/GDBM Unix“数据库”.
-  - [Mongo.ml](https://massd.github.io/mongo/) – Mongodb 的 OCaml 驱动程序
-  - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — 纯 OCaml 中 PostgreSQL 的类型安全接口.
-    - [ppx_pgsql](https://github.com/tizoc/ppx_pgsql) – 使用 PG&#39;OCaml 的嵌入式 SQL 查询的语法扩展.
-  - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — 通过 C API (`libpq`) 到 PostgreSQL 的接口.
-  - [SQLite3](https://github.com/mmottl/sqlite3-ocaml) — OCaml 绑定到 SQLite3 数据库.
-  - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — 具有简化界面的 SQLite3 的瘦包装器.
-  - [ocaml-redis](https://github.com/0xffea/ocaml-redis) – OCaml 的 Redis 绑定.
-  - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – 绑定到 libmysqlclient 以与 MySQL 数据库交互.
-  - [pgx](https://github.com/arenadotio/pgx) – 纯 OCaml PostgreSQL 客户端库
-.
-  - [mysql_protocol](https://github.com/slegrand45/mysql_protocol) – 使用 Bitstring 库实施 MySQL 协议.
-- **新实现**
-  - [Irmin](https://github.com/mirage/irmin) — 遵循与 Git 相同设计原则的分布式数据库.
-  - [Obigstore](http://obigstore.forge.ocamlcore.org/) — 在 LevelDB 之上具有类似 BigTable 数据模型的数据库.
-  - [RunOrg](https://github.com/RunOrg/RunOrg) - 这是一个用 OCaml 编写的 WIP 数据库服务器.
-  - [dokeysto](https://github.com/UnixJunkie/dokeysto) - 愚蠢的 OCaml 键值存储、字符串键和字符串
-  值. 可选的动态 LZ4 值压缩或 tokyocabinet 后端.
-
-- **叠加**
-  - [Sequoia](https://github.com/andrenth/sequoia) - Sequoia 是用于 MySQL/MariaDB 和 PostgreSQL 的类型安全查询生成器
-  - [Macaque](https://github.com/ocsigen/macaque) — Macaque 是一个在 PG&#39;OCaml 之上使用推导式进行安全灵活的数据库查询的库.
-  - [ORM](https://github.com/mirage/orm) — SQLite 的 ORM.
-  - [Caqti](https://github.com/paurkedal/ocaml-caqti) - 对关系数据的协作线程访问
-- **文章**：
+- **Bindings**
+  - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
+  - [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
+  - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
+    - [ppx_pgsql](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
+  - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
+  - [SQLite3](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
+  - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
+  - [ocaml-redis](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+  - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
+  - [pgx](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
+  - [mysql_protocol](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
+- **New Implementations**
+  - [Irmin](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
+  - [Obigstore](http://obigstore.forge.ocamlcore.org/) — A database with BigTable-like data model atop LevelDB.
+  - [RunOrg](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
+  - [dokeysto](https://github.com/UnixJunkie/dokeysto) - dumb OCaml key-value store, string keys and string
+  values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
+- **Overlays**
+  - [Sequoia](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
+  - [Macaque](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
+  - [ORM](https://github.com/mirage/orm) — ORM for SQLite.
+  - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+  - [Caqti setence preparation, ppx_rapper](https://github.com/roddyyaga/ppx_rapper)
+- **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
   - [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
-  - [Caqti setence preparation, ppx_rapper](https://github.com/roddyyaga/ppx_rapper)
+  - [Finally, Type-Safe, Extensible and Efficient Language Integrated Query](https://www.cs.tsukuba.ac.jp/~kam/papers/pepm2016a.pdf) by Oleg and Co. 
+    The proposed approach is to describe SQL queries in type-safe manner and optimize them (using term rewriting or normalization-by evaluation) before sending to database engine. It potentially could optimize O(n^2) queries to O(n) ones.
 
 
 ## Datetime
@@ -190,53 +193,53 @@
 
 ## Developer Tools
 
-- [Try OCaml](https://try.ocamlpro.com/) – 在您的网络浏览器中试用 OCaml.
-- [BetterOCaml](https://betterocaml.ml) – 一个高效、直观和跨平台的 Web IDE，您的 OCaml 代码可以在浏览器中解释和运行！
-- [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – 在线编译和执行 OCaml 代码.
-- [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - 从您的 iPhone/iPad/Mac 学习和执行 OCaml 代码.
-- [Jupyter](https://github.com/akabe/ocaml-jupyter) – 用于 Jupyter notebook 的 OCaml 内核.
-- [utop](https://github.com/ocaml-community/utop) – OCaml 的通用顶层，支持多行版本、历史、实时和上下文敏感的完成、颜色等.
-- [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - 用于格式化 OCaml 代码的命令行工具.
-- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  – 源代码和编译界面浏览器，使用 LablTk 编写. 包含在 ocaml &lt;= 4.01 的标准发行版中，以及 ocaml &gt;= 4.02 的 labltk 中.
-- [ghim](https://github.com/samoht/ghim) – 管理 Github Issues 的命令行工具.
-- [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – 用于构建 OCaml 模块的 Yeoman 生成器.
+- [Try OCaml](https://try.ocamlpro.com/) – Try OCaml in your web browser.
+- [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
+- [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
+- [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
+- [Jupyter](https://github.com/akabe/ocaml-jupyter) – An OCaml kernel for the Jupyter notebook.
+- [utop](https://github.com/ocaml-community/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
+- [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) - A command-line tool to format OCaml code.
+- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) – A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
+- [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+- [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 
-- **外部函数接口**：
-  - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – 使用纯 OCaml 绑定到 C 库的库.
-  - [ocaml-main-program-in-c](https://github.com/johnwhitington/ocaml-main-program-in-c) – 用于制作混合 C/Ocaml 二进制文件的示例构建系统，其中主程序在 C 中.
+- **Foreign Function Interface**:
+  - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+  - [ocaml-main-program-in-c](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
-  - [Py.ml](https://github.com/thierry-martinez/pyml) - Python 的 OCaml 绑定.
-- **编辑器集成**：
-  - [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - 用于 OCaml 的 LSP 语言服务器，可与任何理解 LSP 的编辑器集成，例如 [VSCode](https://github.com/microsoft/vscode)、Vim 和 Emacs.
-  - [merlin](https://github.com/ocaml/merlin) – Vim 和 Emacs 中 Ocaml 的上下文敏感完成.
-  - [tuareg](https://github.com/ocaml/tuareg) - Emacs 的 OCaml 模式，可以在 Emacs 中运行顶层和调试器.
-  - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs 包通过 eldoc 提供 merlin 的功能.
-  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – 提供 OCaml 语言支持的扩展 [VSCode](https://github.com/microsoft/vscode)
-  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – 提供 OCaml 调试器的扩展 [VSCode](https://github.com/microsoft/vscode)
-  - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – 用于 Sublime Text 的更好的 OCaml 模式.
+  - [Py.ml](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
+- **Editor Integration**:
+  - [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode), Vim and Emacs.
+  - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
+  - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+  - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
+  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode)
+  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode)
+  - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) – Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
-  - [ocp-index](http://www.typerex.org/ocp-index.html)  – 轻松访问已安装的 OCaml 库的接口信息. 提供诸如 ocp-browser 和 ocp-grep 之类的独立工具.
-    - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – 基于 ncurses 的小型 API 和文档浏览器.
-    - [ocp-index-top](https://github.com/reynir/ocp-index-top) – 使用 ocp-index 查找文档的顶级指令.
+  - [ocp-index](http://www.typerex.org/ocp-index.html) – Easy access to the interface information of installed OCaml libraries. Provides standalone tools like `ocp-browser` and `ocp-grep`.
+    - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) – Small ncurses-based API and documentation browser.
+    - [ocp-index-top](https://github.com/reynir/ocp-index-top) – Toplevel directive for looking up documentation using ocp-index.
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
-  - [ocp-indent](http://www.typerex.org/ocp-indent.html) – OCaml 的缩进工具，可从 Emacs 和 Vim 等编辑器中使用.
+  - [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     - [Vim plugin](https://github.com/def-lkb/ocp-indent-vim).
-- **代码覆盖率**：
+- **Code coverage**:
   - [Bisect_ppx](https://github.com/aantron/bisect_ppx)
 
 
 ## Exercises and Short Examples
 
-- [99 problems](https://ocaml.org/learn/tutorials/99problems.html) .  99%的解决方案是 [here](https://github.com/MassD/99).
+- [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
-- [OCaml at Exercism](http://exercism.io/languages/ocaml)  – Exercism 是您进行深思熟虑的代码对话的场所. 探索简单性、惯用的语言特性和富有表现力的可读代码. [Solutions](https://github.com/exercism/xocaml).
-- [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - 本书的 OCaml 部分是使用 OCaml 解决常见编程问题的免费参考.
+- [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions](https://github.com/exercism/xocaml).
+- [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - The OCaml section of the book is a free reference for solving common programming problems using OCaml.
 
 ## Formal Software Verification
 
-- [Coq](https://coq.inria.fr/)  – Coq 是一个正式的证明管理系统. 它提供了一种形式化语言来编写数学定义、可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
-- [Why3](http://why3.lri.fr/)  – Why3 是一个用于演绎程序验证的平台. 它为规范和编程提供了丰富的语言，称为 WhyML，并依赖于自动化和交互式的外部定理证明器来满足验证条件.
-- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo 是一个开源的 SMT 求解器，专门用于证明在程序验证的上下文中生成的数学公式.
+- [Coq](https://coq.inria.fr/) – Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
+- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
+- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
 
 
 ## General
@@ -251,142 +254,142 @@
 - [Why OCaml, why now?](http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/)
 - [A blog about game development in OCaml](http://cranialburnout.blogspot.ca/)
 - [(Functional) Alternatives to inheritance](http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html)
-- [camlPDF](https://github.com/johnwhitington/camlpdf) – 用于阅读、编写和修改 PDF 文件的 OCaml 库.
-- [slacko](https://github.com/Leonidas-from-XIV/slacko) – OCaml 中 Slack 的简洁界面.
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/ocaml/) - 其中 X=OCaml.
+- [camlPDF](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+- [slacko](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/ocaml/) - Where X=OCaml.
 
 
 ## Graphics
 
 - **2D**
-  - [archimedes](http://archimedes.forge.ocamlcore.org/) — 二维绘图库.
-  - [cairo2](https://github.com/Chris00/ocaml-cairo)  — 绑定到开罗，一个二维矢量图形库. 与 lablgtk 很好地集成.
-  - [Vg](https://github.com/dbuenzli/vg) – OCaml 的声明性二维矢量图形.
+  - [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
+  - [cairo2](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
+  - [Vg](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 - **3D**
-  - [glMLite](https://github.com/fccm/glMLite)  — OCaml 的 OpenGL 绑定. 提供一个（实验性的）功能 API.  ([homepage](http://decapode314.free.fr/ocaml/GL/))
-  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/)  — OpenGL 接口. 与 lablgtk 很好地集成.
-  - [tgls](http://erratique.ch/software/tgls) — 精简绑定 OpenGL 3.{2,3},4.{0,1,2,3,4} 和 OpenGL ES {2,3}.
+  - [glMLite](https://github.com/fccm/glMLite) — OpenGL bindings for OCaml. Provides an (experimental) functional API. ([homepage](http://decapode314.free.fr/ocaml/GL/))
+  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
+  - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 
 
 ## Internationalization
 
-- [Camomile](https://github.com/yoriyuki/Camomile/) — OCaml 的 Unicode 库.
-- [ocaml-m17n](https://github.com/whitequark/ocaml-m17n)  — OCaml 源代码的多语言化. 允许在 OCaml 源代码中使用 Unicode 标识符.
-- [Uucd](https://github.com/dbuenzli/uucd) — OCaml 的 Unicode 字符数据库解码器.
-- [Uucp](https://github.com/dbuenzli/uucp) — OCaml 的 Unicode 字符属性.
-- [Uunf](https://github.com/dbuenzli/uunf) — OCaml 的 Unicode 文本规范化.
-- [Uuseg](https://github.com/dbuenzli/uuseg) — OCaml 的 Unicode 文本分割.
-- [Uutf](https://github.com/dbuenzli/uutf) — OCaml 的非阻塞流式 Unicode 编解码器.
+- [Camomile](https://github.com/yoriyuki/Camomile/) — A Unicode library for OCaml.
+- [ocaml-m17n](https://github.com/whitequark/ocaml-m17n) — Multilingualization for OCaml source code. Allows using Unicode identifiers in OCaml source code.
+- [Uucd](https://github.com/dbuenzli/uucd) — Unicode character database decoder for OCaml.
+- [Uucp](https://github.com/dbuenzli/uucp) — Unicode character properties for OCaml.
+- [Uunf](https://github.com/dbuenzli/uunf) — Unicode text normalization for OCaml.
+- [Uuseg](https://github.com/dbuenzli/uuseg) — Unicode text segmentation for OCaml.
+- [Uutf](https://github.com/dbuenzli/uutf) — Non-blocking streaming Unicode codec for OCaml.
 
 
 ## User Interface
 
-- [lablgtk](https://garrigue.github.io/lablgtk/) — OCaml 的 GTK2 和 GTK3 绑定以及用于定义 GUI 的各种高级工具.
-- [lablqml](https://github.com/Kakadu/lablqml) – OCaml 的 QML Qt5 绑定.
-- [labltk](https://forge.ocamlcore.org/projects/labltk/)  — Tcl/Tk GUI 框架的接口. 在 ocaml &lt;= 4.01 的标准分布中.
-- [TSDL](http://erratique.ch/software/tsdl) – Tsdl 是一个 OCaml 模块，提供到跨平台 SDL 库的精简绑定.
-- [Lambda-Term](https://github.com/ocaml-community/lambda-term)  – Lambda-Term 是一个用于操作终端的跨平台库. 它为键、鼠标事件、颜色以及一组小部件提供了抽象，以编写类似 curses 的应用程序.
-- [Notty](https://github.com/pqwy/notty) - Notty 是 OCaml 的声明性终端库，围绕可组合图像的概念构建.
-- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - 独立的 OCaml 绑定到 linenoise，OCaml 中简单的高级 readline 功能.
+- [lablgtk](https://garrigue.github.io/lablgtk/) — GTK2 and GTK3 bindings for OCaml with various higher-level facilities to define GUIs.
+- [lablqml](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+- [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
+- [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
+- [Lambda-Term](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
+- [Notty](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
+- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - Self-contained OCaml bindings to linenoise, easy high level readline functionality in OCaml.
 
 
 ## Language-related
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
-- [mikmatch](https://github.com/mjambon/mikmatch) – 使用正则表达式扩展的 OCaml 模式匹配
+- [mikmatch](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
 - [Inlined records in constructors](https://www.lexifi.com/ocaml/inlined-records-constructors/)
 - [Algebraic Data Types](https://espertech.wordpress.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
-- [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - 另见：[[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html)，[[2]](http://www.cs. cornell.edu/Courses/cs312/2001sp/style.html)，[[3]](https://www.seas.upenn.edu/~cis120/20fa/ocaml_style/).
+- [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/20fa/ocaml_style/).
 - [A safe but strange way of modifying OCaml compiler](https://camlspotter.blogspot.com/2012/09/a-safe-but-strange-way-of-modifying.html)
 - [Fiddling with the OCaml Type System](https://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
 
 
 ## Large Source Code Examples
 
-- [Base](https://github.com/janestreet/base) - OCaml 的标准库
-- [cil](https://github.com/cil-project/cil) - C 中间语言
-- [coq](https://github.com/coq/coq) - 正式证明管理系统
-- [Dark](https://github.com/darklang/dark) - 一种组合的语言、编辑器和基础架构，可以轻松构建后端
-- [frama-c](https://git.frama-c.com/pub/frama-c) - 专门用于分析用 C 编写的源代码的平台
-- [libguestfs](https://github.com/libguestfs/libguestfs) - 用于访问和修改虚拟机磁盘映像的库和工具
-- [Liquidsoap](https://github.com/savonet/liquidsoap) - 用于多媒体流媒体的瑞士军刀，尤其适用于 netradios 和 webtv
-- [mirage](https://github.com/mirage/mirage) - 为跨各种云计算和移动平台的安全、高性能网络应用构建 unikernel 的图书馆操作系统
-- [MLDonkey](https://github.com/ygrek/mldonkey) - 跨平台多网络点对点守护进程
-- [Oni2](https://github.com/onivim/oni2) - 本机、轻量级模态代码编辑器
-- [pfff](https://github.com/returntocorp/pfff) - 一个 OCaml API，用于编写静态分析、动态分析、代码可视化、代码导航或保持样式的源到源转换，例如源代码重构.
-- [WHY3](https://gitlab.inria.fr/why3/why3) - 演绎程序验证平台
-- [xen-api](https://github.com/xapi-project/xen-api) - 配置和控制支持 Xen 的主机和资源池并协调池内资源的管理堆栈
+- [Base](https://github.com/janestreet/base) - Standard library for OCaml
+- [cil](https://github.com/cil-project/cil) - C Intermediate Language
+- [coq](https://github.com/coq/coq) - formal proof management system
+- [Dark](https://github.com/darklang/dark) - a combined language, editor, and infrastructure to make it easy to build backends
+- [frama-c](https://git.frama-c.com/pub/frama-c) - platform dedicated to the analysis of source code written in C
+- [libguestfs](https://github.com/libguestfs/libguestfs) - library and tools for accessing and modifying virtual machine disk images
+- [Liquidsoap](https://github.com/savonet/liquidsoap) - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
+- [mirage](https://github.com/mirage/mirage) -  library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
+- [MLDonkey](https://github.com/ygrek/mldonkey) - cross-platform multi-network peer-to-peer daemon
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+- [pfff](https://github.com/returntocorp/pfff) - an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [WHY3](https://gitlab.inria.fr/why3/why3) - platform for deductive program verification
+- [xen-api](https://github.com/xapi-project/xen-api) - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool
 
 ## Logging
 
-- [dolog](https://github.com/UnixJunkie/dolog) – 一个愚蠢的 OCaml 记录器.
-- [Volt](https://github.com/codinuum/volt) – Bolt OCaml 日志记录工具的变体.
-- [Logs](http://erratique.ch/software/logs) - Logs 为 OCaml 提供日志记录基础设施.
+- [dolog](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
+- [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
+- [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
 ## Machine Learning
 
-- **图书馆**
-	- [Ocaml-sklearn](https://github.com/lehy/ocaml-sklearn) 用于 OCaml 的 scikit-learn.
-	- [Owl](https://ocaml.xyz/) - 具有神经网络、算法微分和 ONNX 支持的科学图书馆.
+- **Libraries**
+	- [Ocaml-sklearn](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
+	- [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
 	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
-	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) - PyTorch 的 OCaml 绑定.
-- **文章**
+	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+- **Articles**
 	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
 	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
 	- [Reinforcement Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/).
 
 ## Messaging
 
-- [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – 带有异步和 Lwt 包装器的 OCaml 的 ZeroMQ 绑定.
-- [onanomsg](https://github.com/rgrinberg/onanomsg) – OCaml 的 nanomsg 绑定.
-- [Kafka](https://github.com/didier-wenzek/ocaml-kafka) – Apache Kafka 的 OCaml 绑定.
-- [AMQP](https://github.com/andersfugmann/amqp-client) – 用于 Async 和 Lwt 的 AMQP 客户端库.
-- [MPI](https://github.com/xavierleroy/ocamlmpi) – OCaml 的消息传递接口绑定.
-- [MQTT](https://github.com/j0sh/ocaml-mqtt) – MQTT pubsub 协议的 OCaml 实现.
-- [capnp-ocaml](https://github.com/capnproto/capnp-ocaml) – 用于 Cap&#39;n Proto 序列化框架的 OCaml 代码生成器插件.
+- [ocaml-zmq](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml with Async and Lwt wrappers.
+- [onanomsg](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
+- [Kafka](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
+- [AMQP](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
+- [MPI](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
+- [MQTT](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
+- [capnp-ocaml](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ## Metaprogramming
 
-- **文章**：
+- **Articles**:
   - [A Guide to Extension Points in OCaml](http://whitequark.org/blog/2014/04/16/a-guide-to-extension-points-in-ocaml/)
   - [Extension Points, or how OCaml is becoming more like Lisp](https://blogs.janestreet.com/extension-points-or-how-ocaml-is-becoming-more-like-lisp)
   - [Syntax extensions without Camlp4: let's do it!](https://www.lexifi.com/ocaml/syntax-extensions-without-camlp4-lets-do-it/)
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
-- **语法扩展**：
-  - [ppx_import](https://github.com/ocaml-ppx/ppx_import) – Import 是一种语法扩展，允许从其他已编译的接口文件中提取类型或签名.
-  - [ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate) – 一个简单的 ppx 过滤器，支持字符串插值，如 `[%str &quot;value of foo is $(foo)&quot;]`.
-  - [ppx_monad](https://github.com/rizo/ppx_monad) – OCaml 的 Monad 语法扩展.
-  - [ppx_deriving_yojson](https://github.com/whitequark/ppx_deriving_yojson) – 用于 OCaml 的 Yojson 编解码器生成器.
-- **工具和语言扩展**：
-  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – 用于多阶段编程的 OCaml 方言.
-  - [Fan](http://zhanghongbo.me/fan/)  – Fan 是 OCaml 的编译时元编程系统，最初受到 Camlp4 的启发. 它是 OCaml 和 Lispy 宏的组合. 它与 OCaml 共享相同的具体语法.
-  - [camlp5](https://camlp5.github.io/) - Camlp5 是 OCaml 的预处理器漂亮打印机.
-  - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 是标准 OCaml 发行版的一部分，与 Camlp5 不同.
+- **Syntax Extensions**:
+  - [ppx_import](https://github.com/ocaml-ppx/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+  - [ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
+  - [ppx_monad](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
+  - [ppx_deriving_yojson](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+- **Tools and Language Extensions**:
+  - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
+  - [Fan](http://bobzhang.github.io/fan/) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
+  - [camlp5](https://camlp5.github.io/) - Camlp5 is a preprocessor-pretty-printer of OCaml.
+  - [camlp4](http://caml.inria.fr/pub/docs/manual-camlp4/manual002.html) - Camlp4 is part of the standard OCaml distribution and is different from Camlp5.
 
 ## Metrics
 
-- [prometheus](https://github.com/mirage/prometheus) – 用于 Prometheus 监控的 OCaml 客户端库.
+- [prometheus](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ## Mobile Applications
 
-- **文章**：
+- **Articles**:
   - [OCaml on iOS 7 Released](http://psellos.com/2014/08/2014.08.ocamlxarm-402.html)
   - [OCaml + Cordova = more secured, typed and hybrid mobile applications](https://dannywillems.github.io/2016/07/14/ocaml-cordova-secured-typed-hybrid-mobile-applications.html)
-- **绑定**：
-  - [Cordova plugins](https://github.com/dannywillems/ocaml-cordova-plugin-list)  – 与 Cordova 插件的绑定列表. 在 OCaml 中访问本地设备组件，如加速度计、SMS、地理定位等.
+- **Bindings**:
+  - [Cordova plugins](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
 
 ## Networking
 
-- **HTTP 工具**：
-  - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – 使用 Lwt 或 Async 的非常轻量级的 HTTP 服务器.
+- **HTTP Tools**:
+  - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-  - [httpaf](https://github.com/inhabitedtype/httpaf) – 用 OCaml 编写的高性能、内存高效且可扩展的 Web 服务器.
-  - [piaf](https://github.com/anmonteiro/piaf) - 完全用 OCaml 编写的 HTTP/1.X / HTTP/2 的客户端/服务器库.
-- [ocaml-dns](https://github.com/mirage/ocaml-dns) – DNS 协议的纯 OCaml 实现.
-- [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – OCaml 的 Fluentd 记录器.
-- [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix 是一个基于 Unix DHCP 守护进程 [charrua-core](https://github.com/haesbaert/charrua-core).
+  - [httpaf](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+  - [piaf](https://github.com/anmonteiro/piaf) - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+- [ocaml-dns](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+- [fluent-logger](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
+- [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
 
 ## Online Courses
@@ -394,68 +397,71 @@
 - [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about).
 - [Cornell University – Data Structures and Functional Programming](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php).
 - [Princeton University - Functional programming in OCaml](http://www.cs.princeton.edu/~dpw/courses/cos326-12/).
-- [University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/) - 使用 OCaml 教授函数式编程和编程语言设计的课程
+- [University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/) - Course that uses OCaml to teach functional programming and programming language design
 
 
 ## Package Management
-- **分配**：
-  - [OPAM](http://opam.ocamlpro.com/) – 灵活的 Git 友好包管理器，支持多种编译器.
-  - [ocamlfind](http://projects.camlcity.org/projects/findlib.html)  — 本地 OCaml 库管理器. 被大多数 OCaml 生态系统使用.
-  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - 适用于 Windows 的 opam 存储库和实验版本（自 2021 年起弃用）.
-  - [Diskuv OCaml](https://github.com/diskuv/dkml-installer-ocaml#readme) - 适用于 Windows 的 Diskuv OCaml 发行版.
-  - [makorel](https://github.com/sagotch/makorel) – 轻松发布 OPAM 包.
-  - [esy](https://github.com/esy/esy) - 使用 Reason/OCaml 进行本机开发的 package.json 工作流.
+- **Distribution**:
+  - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
+  - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
+  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
+  - [Diskuv OCaml](https://github.com/diskuv/dkml-installer-ocaml#readme) - Diskuv OCaml distribution for Windows.
+  - [makorel](https://github.com/sagotch/makorel) – Release OPAM packages easily.
+  - [esy](https://github.com/esy/esy) - package.json workflow for native development with Reason/OCaml.
 
-- **构建工具**：
-  - [dune](https://github.com/ocaml/dune) – 用于 OCaml（以前的 jbuilder）的可组合和自以为是的构建系统
-  - [Oasis](http://oasis.forge.ocamlcore.org/)  - 在您的 OCaml 项目中集成配置、构建和安装系统的工具. 它有助于在您的构建系统中创建标准入口点，并允许外部工具轻松分析您的项目.
-    - [oasis2opam](https://github.com/ocaml/oasis2opam) — 将 OASIS 元数据转换为 OPAM 包描述的工具.
+- **Build Tools**:
+  - [dune](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
+  - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
+    - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
   - [obuild](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-  - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — 易于使用的 Makefile 用于中小型 OCaml 项目.
-  - [topkg](https://github.com/dbuenzli/topkg) — 使用 ocamlbuild 的 OPAM 感知打包系统.
-  - [Bazel](https://github.com/jin/rules_ocaml) - OCaml 规则 [Bazel](https://bazel.build/)，谷歌的多语言和平台构建工具.
+  - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
+  - [topkg](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+  - [Bazel](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
 ## Parallelism
 
-（_注：从易用到灵活排序._）
+(_Note: Sorted from the easier to use to the more flexible._)
 
-- **图书馆**：
-  - [Parmap](http://rdicosmo.github.io/parmap/) — 提供易于使用的平行映射和折叠功能.
-  - [ForkWork](https://github.com/mlin/forkwork) — 一个简单的库，用于分叉子进程以在多个核心上执行工作.
-  - [Functory](http://functory.lri.fr/About.html) — 一个分布式计算库，它有助于以无缝方式分布式执行可并行计算.
-  - [Rpc.Parallel](https://github.com/janestreet/rpc_parallel) — 用于在机器集群上生成进程并在它们之间传递类型化消息的库.
-  - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)  — 增强的系统平台库. 包含“netmulticore”库以根据需要在尽可能多的机器内核上计算任务.
-  - [Nproc](https://github.com/MyLifeLabs/nproc) – OCaml 的进程池实现.
-  - [Parany](https://github.com/UnixJunkie/parany) – 对独立项目进行并行计算，即使它们的数量是无限的.
-  - [Sklml](http://sklml.inria.fr) – 用于 OCaml 程序的功能性并行骨架编译器和编程系统.
-  - [SPOC](https://github.com/mathiasbourgoin/SPOC) - 用于将密集计算卸载到并行加速器（多核 CPU、GPU 和其他与 GPGPU 框架兼容的加速器）的库和语法扩展.
+- **Libraries**:
+  - [Parmap](http://rdicosmo.github.io/parmap/) — Provides easy-to-use parallel map and fold functions.
+  - [ForkWork](https://github.com/mlin/forkwork) — A simple library for forking child processes to perform work on multiple cores.
+  - [Functory](http://functory.lri.fr/About.html) — A distributed computing library which facilitates distributed execution of parallelizable computations in a seamless fashion.
+  - [Rpc.Parallel](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
+  - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
+  - [Nproc](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
+  - [Parany](https://github.com/UnixJunkie/parany) – Parallelize computation over independent items, even if there is an infinite number of them.
+  - [Sklml](http://sklml.inria.fr) – Functional parallel skeleton compiler and programming system for OCaml programs.
+  - [SPOC](https://github.com/mathiasbourgoin/SPOC) - Libraries and syntax extensions to offload intensive computations to parallel accelerators (multicore CPUs, GPUs and other accelerators compatible with GPGPU frameworks).
 
-- **文章**：
+- **Articles**:
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
+  - [Parallel programming in multicore OCaml](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+  - [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual 
+  - [Awesome multicore OCaml](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ## Printers helpers
 
-- 理性的本机 [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything)
+- Reason's native [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything)
 - [**Dum**](https://github.com/mjambon/dum#readme)
 - [**Inspect**](https://github.com/krohrer/caml-inspect#readme)
-- [**ppx_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage)的`[@@deriving show]`.
-- [**refl** ](https://github.com/thierry-martinez/refl#basic-usage), 类似 ppx_deriving 的.
-- [**lrt** ](https://github.com/LexiFi/lrt#getting-started)，另一个类似 ppx_deriving 的.
-- [**tpf** ](https://github.com/pqwy/tpf#readme)，又是类似 ppx_deriving 的.
-- [**typerep** ](https://github.com/janestreet/typerep)，可能是 ppx_deriving-like 与 ppx_typerep_conv.
-- [**repr**](https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json)，除了让用户在需要的地方传递它之外，它似乎让用户从组合器手动构建类型表示.
-- [**data-encoding**](https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding)，也完全手动.
-- [**cmon** ](https://github.com/let-def/cmon#documentation)，全手动.
-- [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) 在沙丘. 似乎也是完全手动
+- [**ppx_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage)’s `[@@deriving show]`.
+- [**refl** ](https://github.com/thierry-martinez/refl#basic-usage), a ppx_deriving-like.
+- [**lrt** ](https://github.com/LexiFi/lrt#getting-started), another ppx_deriving-like.
+- [**tpf** ](https://github.com/pqwy/tpf#readme), again a ppx_deriving-like.
+- [**typerep** ](https://github.com/janestreet/typerep), probably a ppx_deriving-like with ppx_typerep_conv.
+- [**repr**](https://mirage.github.io/repr/repr/Repr/index.html#val-pp_json), which appears to have the user build the type representation manually from combinators in addition to also having the user pass it where needed.
+- [**data-encoding**](https://gitlab.com/nomadic-labs/data-encoding/-/blob/master/src/tutorial.md#how-to-build-an-encoding), also fully manual.
+- [**cmon** ](https://github.com/let-def/cmon#documentation), fully manual.
+- [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) in Dune. Appears to also be fully manual
 - [**Genprint** ](https://github.com/progman1/genprintlib#readme)
 - [**OCaml@p** ](https://github.com/tsubame-sp/ocaml_at_p#readme)
 
 
 ## Project Starter Templates
 
-- [drom](https://github.com/OCamlPro/drom/) - drom 工具是 opam/dune 的包装器，旨在提供类似货物的用户体验.
-- [spin](https://github.com/tmattio/spin) - Reason 和 Ocaml 项目生成器
-- [modern-ocaml](https://github.com/Khady/modern-ocaml) - 使用现代工具的 ocaml 项目模板
+- [drom](https://github.com/OCamlPro/drom/) - The drom tool is a wrapper over opam/dune in an attempt to provide a cargo-like user experience.
+- [spin](https://github.com/tmattio/spin) - Reason and Ocaml project generator
+- [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling
 
 ## Questions
 
@@ -465,127 +471,130 @@
 
 ## Science and Technical Computing
 
-- [biocaml](https://github.com/biocaml/biocaml)  – OCaml 生物信息学库<http://biocaml.org> .
-- [bistro](https://github.com/pveber/bistro) – 用于构建生物信息学管道的 OCaml 库.
-- [lacaml](https://mmottl.github.io/lacaml/) - 用于 BLAS/LAPACK（高性能线性代数 Fortran 库）的 OCaml 绑定.
-- [obandit](http://freux.fr/oss/obandit.html) - 用于多臂强盗的 OCaml 库.
-- [onumerical](https://github.com/cheshire/onumerical) – OCaml 的数字库.
-- [oml](https://github.com/hammerlab/oml) - 用于一般数值工作的 OCaml 库.
-- [ocephes](https://github.com/rleonid/ocephes) - 绑定到常用的“C”特殊函数库.
-- [slap](https://github.com/akabe/slap) - OCaml 中的线性代数库，具有针对矩阵运算的基于类型的静态大小检查.
-- [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – TensorFlow 的 OCaml 绑定.
-- [owl](https://github.com/owlbarn/owl) - OCaml 数值库：密集和稀疏矩阵、线性代数、回归、数学和统计函数.
+- [biocaml](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+- [bistro](https://github.com/pveber/bistro) – OCaml library for building bioinformatics pipelines.
+- [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
+- [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
+- [onumerical](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
+- [oml](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
+- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special functions library.
+- [slap](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+- [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+- [owl](https://github.com/owlbarn/owl) - OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.
+- [WHIZARD](https://whizard.hepforge.org/) - A system designed for the efficient calculation of multi-particle scattering cross sections and simulated event samples.
 
 
 ## Regular Expressions
 
-- [Re](https://github.com/ocaml/ocaml-re) – 带有组合器的纯 OCaml 正则表达式库，支持多种格式（glob、posix、str ...）
-- [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – 绑定到 PCRE 库（perl 兼容的正则表达式）
-- [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re 试图为 90% 的正则表达式需求提供一个简单的界面，由 ocaml-re 提供
-- [Tyre](https://github.com/Drup/tyre) - Tire 是一组组合器，用于构建类型安全的正则表达式，允许自动提取和修改匹配组.
+- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+- [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+- [Humane-re](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+- [Tyre](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 
 ## Security and Cryptography
 
-- [ocaml-tls](https://github.com/mirleft/ocaml-tls) – 纯 OCaml 中的 TLS.
-- [Digestif](https://github.com/mirage/digestif) - OCaml 和 C 中的哈希算法（如 SHA* 或 BLAKE2*）.
-- [cryptokit](https://github.com/xavierleroy/cryptokit) – OCaml 的 Cryptokit 库提供了多种加密原语，可用于在安全敏感应用程序中实施加密协议.
-- [nocoiner](https://github.com/marcoonroad/nocoiner) - 用于多方计算的承诺方案库，例如在线拍卖和赌博.
-- [nocrypto](https://github.com/mirleft/ocaml-nocrypto)  – ocaml-tls 项目背后的小型加密库. 它被构建为易于使用，遵循函数式编程原则并能够在基于 Xen 的 unikernel 中运行.
+- [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+- [Digestif](https://github.com/mirage/digestif) - Hash algorithms (like SHA* or BLAKE2*) in OCaml and C.
+- [cryptokit](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+- [nocoiner](https://github.com/marcoonroad/nocoiner) - A Commitment Schemes library for Multi-party Computations such as online Auctions and Gambling.
+- [nocrypto](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
-&gt; 注意：`nocrypto` 和 `cryptokit` 加密库之间的区别在以下博客文章中进行了描述： [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
+> Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 
 
 ## Semantic Technology
 
-- [OCaml-RDF](https://framagit.org/zoggy/ocaml-rdf) – OCaml 库，用于操作 RDF 图和执行 Sparql 查询.
+- [OCaml-RDF](https://framagit.org/zoggy/ocaml-rdf) – OCaml library to manipulate RDF graphs and execute Sparql queries.
 
 
 ## Serialization
 
-- [bencode](https://github.com/rgrinberg/bencode) — Bencode（.torrent 文件格式）读取器/写入器.
-- [biniou](https://github.com/mjambon/biniou) – 可扩展的二进制数据格式，如 JSON 但速度更快.
-- [cbor](https://github.com/ygrek/ocaml-cbor) — OCaml 本机 [CBOR](https://cbor.io/) 解码器/编码器.
-- [jsonm](http://erratique.ch/software/jsonm) — OCaml 的非阻塞流式 JSON 编解码器.
-- [xmlm](http://erratique.ch/software/xmlm) — 用于解码和编码 XML 数据格式的流式编解码器.
-- [yojson](https://github.com/ocaml-community/yojson) — 针对 JSON 格式优化的解析和打印库.
-- [sexplib](https://github.com/janestreet/sexplib) – S 表达式解析器和打印机
+- [atdgen](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+- [bencode](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
+- [biniou](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+- [cbor](https://github.com/ygrek/ocaml-cbor) —  OCaml native [CBOR](https://cbor.io/) decoder/encoder.
+- [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
+- [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
+- [yojson](https://github.com/ocaml-community/yojson) — An optimized parsing and printing library for the JSON format.
+- [sexplib](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
 ## System Programming
 
-- [Mirage OS](https://github.com/mirage/mirage) – Mirage 是一种编程框架，用于跨各种云计算和移动平台构建安全、高性能的网络应用程序.
-- [ocaml-fat](https://github.com/mirage/ocaml-fat) – 从 OCaml 读取和写入 FAT 格式的文件系统.
-- [ocaml-git](https://github.com/mirage/ocaml-git) – 纯 OCaml 低级 git 绑定.
-- [ocaml-vchan](https://github.com/mirage/ocaml-vchan) – “vchan”共享内存通信协议的纯 OCaml 实现.
+- [Mirage OS](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
+- [ocaml-fat](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+- [ocaml-git](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
+- [ocaml-vchan](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
-- **嵌入式系统**
-  - [OMicroB](https://github.com/stevenvar/omicrob) - 设计用于在 AVR（例如 Arduino）微控制器上运行 OCaml 字节码的虚拟机.
-  - [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - 用于 PIC18 微控制器的 OCaml 虚拟机.
-  - [ocaml-esp32](https://github.com/sadiqj/ocaml-esp32) - ESP32 SoC 的编译器.
+- **Embedded systems**
+  - [OMicroB](https://github.com/stevenvar/omicrob) - A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.
+  - [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) - An OCaml virtual machine for PIC18 micro-controlers.
+  - [ocaml-esp32](https://github.com/sadiqj/ocaml-esp32) - A compiler for ESP32 SoC.
 
 
 ## Testing
 
-- [Alcotest](https://github.com/mirage/alcotest) - 一个轻量级和丰富多彩的测试框架.
-- [OUnit](http://ounit.forge.ocamlcore.org/)  – OUnit 是 OCaml 的单元测试框架. 它允许人们轻松地为 OCaml 代码创建单元测试. 它基于 HUnit，Haskell 的单元测试框架.
-- [QCheck](https://github.com/c-cube/qcheck) — QCheck 是一个属性测试库，灵感来自 Haskell 的 QuickCheck
-- [iTeML](https://github.com/vincent-hugot/iTeML) （原名 [qtest](http://batteries.vhugot.com/qtest/)) — 支持内联编译指示以生成测试.
-- [Kaputt](http://kaputt.x9c.fr/) — 全面的测试框架.
-- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) — 通用内联测试宏.
-- [TestSimple](https://github.com/hcarty/ocaml-testsimple) - 兼容的轻量级单元测试框架 [Test Anything Protocol](https://testanything.org/).
-- [expect-test](https://github.com/janestreet/ppx_expect) — 在 OCaml 中编写测试的框架，类似于 [Cram](https://bitheap.org/cram/)， 由开发 [JaneStreet](https://blog.janestreet.com/testing-with-expectations/). 
+- [Alcotest](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+- [OUnit](http://ounit.forge.ocamlcore.org/) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
+- [QCheck](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+- [iTeML](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
+- [Kaputt](http://kaputt.x9c.fr/) —  comprehensive testing framework.
+- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
+- [TestSimple](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
+- [expect-test](https://github.com/janestreet/ppx_expect) — A framework for writing tests in OCaml, similar to [Cram](https://bitheap.org/cram/), developed by [JaneStreet](https://blog.janestreet.com/testing-with-expectations/). 
 
 
 ## Utilities
 
-- [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - 用于服务器可扩展性和数据库性能的抗冲突 ID.
-- [Uuidm](https://erratique.ch/software/uuidm) - Uuidm 是一个 OCaml 模块，根据 RFC 4122 实现 128 位通用唯一标识符版本 3、5（基于 MD5、SHA-1 哈希的名称）和 4（基于随机）.
+- [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
+- [Uuidm](https://erratique.ch/software/uuidm) - Uuidm is an OCaml module implementing 128 bits universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122.
 
 
 ## Web Development
 
-- **构架**：
-  - [Opium](https://github.com/rgrinberg/opium) – 类似 Sinatra 的 OCaml 网络工具包.
-  - [Ocsigen Eliom](http://ocsigen.org/eliom/)  – Eliom 是一个功能齐全的多层框架，用于将多平台 Web 和移动应用程序开发为 100% OCaml 分布式应用程序. 它还可以用于更传统的 Web 或移动应用程序：网站、单页应用程序、REST API 等.
-  - [Dream](https://aantron.github.io/dream/) - OCaml 和 ReasonML 的 Tidy Web 框架
-  - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine)  – OCaml 的 REST 工具包.  OCaml webmachine 是 cohttp 之上的一个层，它实现了一个基于状态机的 HTTP 请求处理器. 它特别适合编写 RESTful API. 顾名思义，这是 webmachine 项目的 OCaml 端口.
-  - [incr_dom](https://github.com/janestreet/incr_dom) - 使用 Js_of_ocaml 构建动态网络应用程序的库
-  - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - OCaml 的 Elm 架构和 (V)DOM
+- **Frameworks**:
+  - [Opium](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+  - [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
+  - [Dream](https://aantron.github.io/dream/) - Tidy Web framework for OCaml and ReasonML
+  - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
+  - [incr_dom](https://github.com/janestreet/incr_dom) - A library for building dynamic webapps, using Js_of_ocaml
+  - [fmlib_browser](https://hbr.github.io/fmlib/odoc/fmlib_browser/doc_overview.html) - a library which helps to write web applications which run in the browser in a pure functional style.
+  - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml
 
-- **工具**：
-  - [COW](https://github.com/mirage/ocaml-cow) – Web 上的 Caml (COW) 是一组解析器和语法扩展，可让您直接从 OCaml 代码操作 HTML、CSS、XML、JSON 和 Markdown.
+- **Tools**:
+  - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
-    有很多相关的网络图书馆——
+    has many relevant web libraries —
     [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
-    html解析器，
+    html parser,
     [Netasn1](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netasn1.html)
-    对于 ASN.1 解析，
+    for ASN.1 parsing,
     [Netencoding](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netencoding.html)
-    对于 Base64、Quoted Printable、URL 编码和 HTML 转义，
+    for Base64, Quoted Printable, URL encoding and HTML escaping,
     [Netmime](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netmime.html)
-    用于 MIME 处理等.请参阅 [list of
-    模块](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html)
-    在 Ocamlnet 的手册中.
-  - [tyxml](http://ocsigen.org/tyxml) — 构建有效（根据 W3C 规范）Html 和 Svg 树的库.
-  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml 是 OCaml 字节码到 Javascript 的编译器. 它使得在 Web 浏览器中运行 Ocaml 程序成为可能.
-    - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - 从 js_of_ocaml 项目轻松导入和导出 CommonJS 模块.
-  - [ReScript](https://rescript-lang.org/) - ReScript 是一种强类型语言，可编译为高效且人类可读的 JavaScript.
-  - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI 解析库.
-  - [Goji](https://github.com/klakplok/goji) – 用于 JavaScript 库的 OCaml 绑定生成器.
-  - [Syndic](https://github.com/Cumulus/Syndic) – RSS 和 Atom 提要解析
-  - [ocaml-mustache](https://github.com/rgrinberg/ocaml-mustache) – OCaml 中的 mustache.js 无逻辑模板.
-  - [atdjs](https://github.com/barko/atdjs) – OCaml/js_of_ocaml 的 atd 代码生成器.
-  - [jingoo](https://github.com/tategakibunko/jingoo) – OCaml 模板引擎几乎与 jinja2 兼容.
-  - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – 客户端和服务器端应用程序的基于路径的调度.
-  - [Lambda Soup](https://github.com/aantron/lambda-soup) - 使用 CSS 选择器进行功能性 HTML 抓取和操作，就像 Python 的 Beautiful Soup.
-  - [Markup.ml](https://github.com/aantron/markup.ml) - 错误恢复流式 HTML5 和 XML 解析器、序列化器.
-  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api 旨在简化为 Javascript 库创建 OCaml 绑定.
-  - [routes](https://github.com/anuragsoni/routes) - OCaml/ReasonML 网络应用程序的类型化路由.
+    for MIME processing, etc. See the [list of
+    modules](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html)
+    in Ocamlnet's manual.
+  - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
+  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
+    - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
+  - [ReScript](https://rescript-lang.org/) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
+  - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+  - [Goji](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
+  - [Syndic](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
+  - [ocaml-mustache](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
+  - [atdjs](https://github.com/barko/atdjs) – atd code generator (serialization) for OCaml/js_of_ocaml.
+  - [jingoo](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+  - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
+  - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+  - [Markup.ml](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
+  - [gen_js_api](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+  - [routes](https://github.com/anuragsoni/routes) - Typed routes for OCaml/ReasonML web applications.
 
-- **开源项目**：
-  - [Cumulus](https://github.com/Cumulus/Cumulus) – 黑客新闻，例如使用 OCaml 框架 Ocsigen 的网站
+- **Open Source Projects**:
+  - [Cumulus](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 * * *
 
- _受 awesome projects 系列的启发. 发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
+_Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
