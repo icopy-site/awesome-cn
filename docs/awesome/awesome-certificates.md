@@ -91,15 +91,15 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [MongoDB for Python Developers](https://university.mongodb.com/courses/M220P/about) | MongoDB |Intermediate| 6.5 | 🏆|
 | [Diagnostics and Debugging for MongoDB](https://university.mongodb.com/courses/M312/about) | MongoDB |Professional| 6.5 | 🏆|
 | [MongoDB Data Modeling](https://university.mongodb.com/courses/M320/about) | MongoDB |Professional| 7 | 🏆|
-| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3hr     | 🏆     |
-| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4hr     | 🏆     |
+| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)                            | Kaggle          | Beginner      | 3     | 🏆     |
+| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)                            | Kaggle          | Intermediate | 4     | 🏆     |
 
 
 ## Blockchain
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev) | IBM / Cognitive Class |Beginner|6 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-foundation-developer-v2.1)|
-| [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/ibm-blockchain-essentials-v2)|
+| [Blockchain Masterclass](https://courses.cfte.education/free-online-blockchain-masterclass/) | Centre for Finance, Technology and Entrepreneurship |Beginner| - | 🏅|
+| [Blockchain Basics](https://www.mygreatlearning.com/academy/learn-for-free/courses/blockchain-basics) | Great Learning |Beginner| 2.5 | 🏆|
 | [Bitcoin for Developers](https://learn.saylor.org/course/view.php?id=500) | Saylor Academy |Beginner| 18 | 🏆|
 
 
@@ -111,8 +111,8 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-using-python)|
 | [Data Visualization with R](https://cognitiveclass.ai/courses/data-visualization-with-r/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-visualization-with-r)|
 | [Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) | FreeCodeCamp |Professional|300 | 🏆|
-| [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4hr     | 🏆     |
-| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4hr     | 🏆     |
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization)             | Kaggle          | Beginner      | 4     | 🏆     |
+| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)                         | Kaggle          | Intermediate | 4     | 🏆     |
 
 
 ## Statistics
@@ -154,15 +154,15 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/machine-learning-with-python-level-1)|
 | [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Elements of AI](https://www.elementsofai.com/) | University of Helsinki |Beginner|30 | 🏆|
-| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Kaggle          | Beginner      | 3hr     | 🏆     |
-| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4hr     | 🏆     |
-| [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4hr     | 🏆     |
-| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4hr     | 🏆     |
-| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5hr     | 🏆     |
-| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                | Kaggle          | Intermediate | 4hr     | 🏆     |
-| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4hr | 🏆 |
-| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5hr     | 🏆     |
-| [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4hr     | 🏆     |
+| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Kaggle          | Beginner      | 3     | 🏆     |
+| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | Kaggle | Intermediate | 4     | 🏆     |
+| [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | Kaggle | Intermediate | 4     | 🏆     |
+| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)       | Kaggle          | Intermediate | 4     | 🏆     |
+| [Time Series](https://www.kaggle.com/learn/time-series)                               | Kaggle          | Intermediate | 5     | 🏆     |
+| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics)                | Kaggle          | Intermediate | 4     | 🏆     |
+| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Kaggle | Intermediate | 4 | 🏆 |
+| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)           | Kaggle          | Intermediate | 5     | 🏆     |
+| [Computer Vision](https://www.kaggle.com/learn/computer-vision)                     | Kaggle          | Intermediate | 4     | 🏆     |
 
 
 ## Networking
@@ -257,9 +257,9 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | FreeCodeCamp |Professional|300 | 🏆|
 | [Python](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Intro to Graph Analytics in Python free course](https://memgraph.com/blog/learn-graph-analytics-with-python) | Memgraph |Intermediate| 3 | 🏅|
-| [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5hr     | 🏆     |
-| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4hr     | 🏆     |
-| [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5hr     | 🏆     |
+| [Python](https://www.kaggle.com/learn/python)                                        | Kaggle          | Beginner      | 5     | 🏆     |
+| [Pandas](https://www.kaggle.com/learn/pandas)                                      | Kaggle          | Beginner      | 4     | 🏆     |
+| [Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)           | Kaggle          | Beginner      | 5     | 🏆     |
 
 
 ## Theories and Concepts
@@ -275,7 +275,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_basic) | HackerRank |Beginner| 1.5 | 🏆|
 | [Problem Solving](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) | HackerRank |Intermediate| 1.5 | 🏆|
 | [Graph Modeling Email Course](https://memgraph.com/learn-graph-modeling) | Memgraph |Beginner| 1 | 🏅|
-| [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)             | Kaggle          | Intermediate | 4hr     | 🏆     |
+| [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis)             | Kaggle          | Intermediate | 4     | 🏆     |
 
 ## Business
 

@@ -3,102 +3,102 @@
 
 ## Awesome Haxe Game Development [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-** 的游戏开发资源精选列表[Haxe 4](https://haxe.org/)**，一种高级严格类型编程语言，用于生成跨平台本机代码.
+A curated list of game development resources for **[Haxe 4](https://haxe.org/)**, a high level strictly typed programming language which is used to produce cross-platform native code.
 
-请随时更新.
+Feel free to update it.
 
 
 ## Game engines
 
-这些是 Haxe 4 兼容的游戏引擎
-* [Armory (Kha)](https://github.com/armory3d/armory) - 具有完整 Blender 集成的开源 3D 游戏引擎（“Web”、“Mobile”、“Desktop”、“Consoles”）.
-* [Away3D](https://github.com/openfl/away3d) - OpenFL 的开源实时 3D 引擎（“Web”、“Mobile”、“Desktop”）.
-* [ceramic](https://github.com/ceramic-engine/ceramic) - 跨平台 2D 框架（“Web”、“Mobile”、“Desktop”、“Unity”）.
-* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) - 由 OpenFL 提供支持的免费跨平台 2D 游戏引擎（“Web”、“Mobile”、“Desktop”、“Consoles”）.
-* [Haxegon (OpenFL)](https://github.com/haxegon/haxegon)  - 适合初学者的编程库. 由 OpenFL 和 Starling（“Web”、“Mobile”、“Desktop”、“Consoles”）提供支持.
-* [Heaps](https://github.com/HeapsIO/heaps) - 高性能游戏框架（“Web”、“移动”、“桌面”、“控制台”）.
-* [hxdefold](https://github.com/hxdefold/hxdefold) - Defold 游戏引擎的 Haxe/Lua 外部（`Web`、`Mobile`、`Desktop`）.
-* [OpenFL](https://github.com/openfl/openfl) - 交互式游戏和应用程序开发库（“Web”、“Mobile”、“Desktop”、“Consoles”）.
-* [Starling](https://github.com/openfl/starling) - “跨平台游戏引擎”，一种流行的 Stage3D 框架（“Web”、“Mobile”、“Desktop”）.
-* [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) - 无需代码即可创建 Flash、HTML5、iOS、Android 和桌面游戏（“移动”、“桌面”）.
-* [unreal.hx](https://github.com/proletariatgames/unreal.hx) - Haxe 虚幻集成（`Web`、`Mobile`、`Desktop`、`Consoles`）.
-* [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) - Godot 4 的 Haxe GDExtension（`Web`、`Mobile`、`Desktop`、`Consoles`）.
+Those are Haxe 4 compatible game engines
+* [Armory (Kha)](https://github.com/armory3d/armory) - An open-source 3D game engine with full Blender integration (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Away3D](https://github.com/openfl/away3d) - An open source, real-time 3D engine for OpenFL (`Web`, `Mobile`, `Desktop`).
+* [ceramic](https://github.com/ceramic-engine/ceramic) - Cross-platform 2D framework (`Web`, `Mobile`, `Desktop`, `Unity`).
+* [HaxeFlixel (OpenFL)](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by OpenFL (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Haxegon (OpenFL)](https://github.com/haxegon/haxegon) - A programming library for beginners. Powered by OpenFL and Starling (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Heaps](https://github.com/HeapsIO/heaps) - High Performance Game Framework (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [hxdefold](https://github.com/hxdefold/hxdefold) - Haxe/Lua externs for Defold game engine (`Web`, `Mobile`, `Desktop`).
+* [OpenFL](https://github.com/openfl/openfl) - Interactive game and app development library (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [Starling](https://github.com/openfl/starling) - The "Cross-Platform Game Engine", a popular Stage3D framework (`Web`, `Mobile`, `Desktop`).
+* [Stencyl (OpenFL)](https://github.com/Stencyl/stencyl-engine) - Create Flash, HTML5, iOS, Android, and desktop games with no code (`Mobile`, `Desktop`).
+* [unreal.hx](https://github.com/proletariatgames/unreal.hx) - Haxe Integration for Unreal (`Web`, `Mobile`, `Desktop`, `Consoles`).
+* [HxGodot (Godot 4.0)](https://github.com/HxGodot/hxgodot) - A Haxe GDExtension for Godot 4 (`Web`, `Mobile`, `Desktop`, `Consoles`).
 
 ## Low-level Engine
-* [Kha](https://github.com/Kode/Kha) - 超便携、高性能、开源多媒体框架（“Web”、“Mobile”、“Desktop”、“Consoles”）.    
-* [Lime](https://github.com/openfl/lime) - 为 Haxe 跨平台开发人员（“Web”、“移动”、“桌面”）提供灵活、轻量级的层.      
-* [linc_glfw](https://github.com/Sunjammer/linc_glfw) - 桌面 - GLFW 绑定（OpenGL、OpenGL ES 和 Vulkan 的多平台库）_（桌面）_.
-* [NME](https://github.com/haxenme/nme) - 跨平台本机后端（“Web”、“Mobile”、“Desktop”）.
-* [3DSHaxe](https://github.com/Krismowo/3DSHaxe)  - 制作 3ds 自制软件！  （`3DS`）.
+* [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework (`Web`, `Mobile`, `Desktop`, `Consoles`).    
+* [Lime](https://github.com/openfl/lime) - A flexible, lightweight layer for Haxe cross-platform developers (`Web`, `Mobile`, `Desktop`).      
+* [linc_glfw](https://github.com/Sunjammer/linc_glfw) - Desktop - GLFW binding (multi-platform library for OpenGL, OpenGL ES and Vulkan) _(Desktop)_.
+* [NME](https://github.com/haxenme/nme) - A cross-platform native backend (`Web`, `Mobile`, `Desktop`).
+* [3DSHaxe](https://github.com/Krismowo/3DSHaxe) - Make 3ds homebrew! (`3DS`).
 
 ## Physics
-* [echo](https://github.com/AustinEast/echo/) - 简单的物理库.
-* [haxebullet](https://github.com/armory3d/haxebullet) - 子弹 3D 物理.
-* [nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4) - 物理引擎（颈背的原始 Haxe3 版本可以找到 [here](https://github.com/deltaluca/nape)).
+* [echo](https://github.com/AustinEast/echo/) - Simple Physics Library.
+* [haxebullet](https://github.com/armory3d/haxebullet) - Bullet 3D Physics.
+* [nape-haxe4](https://github.com/HaxeFlixel/nape-haxe4) - Physics Engine (the original Haxe3 version of nape can be found [here](https://github.com/deltaluca/nape)).
 
 
 
 ## Architecture
 ```
-IoC == 控制反转  
-EC == 实体组件  
-ECS == 实体组件系统
-FSM == 有限状态机
-MVC == 模型视图控制器
+IoC == Inversion of Control  
+EC == Entity Component  
+ECS == Entity-Component-System
+FSM == Finite State Machine
+MVC == Model View Controller
 ```
 
-* [awe6](https://github.com/hypersurge/awe6) - `IoC`、`EC` - 倒置游戏框架，是一款专注于Future Proofing的开发工具.
-* [ecx](https://github.com/eliasku/ecx) - `ECS` - 实体组件系统框架.
-* [hexMachina](https://github.com/DoclerLabs/hexCore) - `MVC` - 一个强大的多模块 MVC 框架.
-* [OSIS](https://github.com/Dvergar/OSIS) - `ECS` - 具有网络支持的实体组件系统架构.
+* [awe6](https://github.com/hypersurge/awe6) - `IoC`, `EC` - The inverted game framework, is a development tool focused on Future Proofing.
+* [ecx](https://github.com/eliasku/ecx) - `ECS` - An Entity Component System framework.
+* [hexMachina](https://github.com/DoclerLabs/hexCore) - `MVC` - A powerful multi-modular MVC framework.
+* [OSIS](https://github.com/Dvergar/OSIS) - `ECS` - Entity Component System architecture with networking support.
 
 
 ## Networking
-* [Anette](https://github.com/Dvergar/Anette) - 简单的网络库（无UDP）.
-* [colyseus-hx](https://github.com/colyseus/colyseus-hx) - 多人游戏客户端.
-* [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) - Hax externs 用于简单对等.
-* [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) - 适用于所有平台的 Websocket.
-* 内置 - Heaps、OpenFL (HaxeFlixel &amp; co)、Kha (Armory).
+* [Anette](https://github.com/Dvergar/Anette) - Simple network library (no UDP).
+* [colyseus-hx](https://github.com/colyseus/colyseus-hx) - Multiplayer Game Client.
+* [haxe-simple-peer (js)](https://github.com/melonin/haxe-simple-peer) - Haxe externs for simple-peer.
+* [hxWebSockets](https://github.com/ianharrigan/hxWebSockets) - Websockets for all platforms.
+* Built-in - Heaps, OpenFL (HaxeFlixel & co), Kha (Armory).
 
 
 ## Serialization and storage
-* [Bits](https://github.com/RealyUniqueName/Bits) - 具有无限数量位的二进制位标志.
-* [CastleDB](https://github.com/ncannasse/castle) - 结构化静态数据库简化了协作.
-* [hxbit](https://github.com/ncannasse/hxbit) - 二进制序列化和网络同步库.
-* [PODStream](https://github.com/Dvergar/PODStream) - 普通旧数据序列化器.
+* [Bits](https://github.com/RealyUniqueName/Bits) - Binary bit flags with unlimited amount of bits.
+* [CastleDB](https://github.com/ncannasse/castle) - A structured static database easing collaboration.
+* [hxbit](https://github.com/ncannasse/hxbit) - A binary serialization and network synchronization library.
+* [PODStream](https://github.com/Dvergar/PODStream) - Plain Old Data serializer.
 
 
 
 <!--lint disable awesome-list-item-->
 ## Games
-* [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) - 堆 - `桌面`.
+* [Darksburg](https://store.steampowered.com/app/939100/Darksburg/) - Heaps - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/darksburg.jpg)
-* [Dead Cells](https://dead-cells.com/) - 堆 - `桌面`、`控制台`.
+* [Dead Cells](https://dead-cells.com/) - Heaps - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dead-cells.jpg)
-* [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - `桌面`、`控制台`.
+* [Defender's Quest](http://www.defendersquest.com/) - HaxeFlixel (OpenFL) - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest.jpg)
-* [Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - `桌面`.
+* [Defender's Quest 2](https://store.steampowered.com/app/252190/Defenders_Quest_2_Mists_of_Ruin/) - HaxeFlixel (OpenFL) - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/defenders-quest-2.jpg)
-* [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - `桌面`、`控制台`.
+* [Dicey Dungeons](http://diceydungeons.com/) - Haxegon (OpenFL) - `Desktop`, `Consoles`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/dicey-dungeons.jpg)
-* [Evoland](http://evoland.shirogames.com/) - 堆 - `桌面`、`移动`.
+* [Evoland](http://evoland.shirogames.com/) - Heaps - `Desktop`, `Mobile`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/evoland.jpg)
-* [Northgard](http://northgard.net/) - 堆 - `桌面`.
+* [Northgard](http://northgard.net/) - Heaps - `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/northgard.jpg)
-* [Papers, Please](http://papersplea.se/) - OpenFL - `桌面`、`iOS`、`PsVita`.
+* [Papers, Please](http://papersplea.se/) - OpenFL - `Desktop`, `iOS`, `PsVita`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/papers-please.jpg)
-* [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) - HaxePunk (OpenFL)-“桌面”.
+* [Pocket Kingdom](https://store.steampowered.com/app/462620/Pocket_Kingdom/) - HaxePunk (OpenFL)- `Desktop`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/pocket-kingdom.jpg)
-* [rymdkapsel](https://rymdkapsel.com/) - OpenFL - “桌面”、“移动”.
+* [rymdkapsel](https://rymdkapsel.com/) - OpenFL - `Desktop`, `Mobile`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/rymdkapsel.jpg)
-* [Spellbreak](https://playspellbreak.com/) - unreal.hx - `PC`、`PS`、`Xbox`、`Switch`.
+* [Spellbreak](https://playspellbreak.com/) - unreal.hx -  `PC`, `PS`, `Xbox`, `Switch`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/spellbreak.jpg)
-* [The Westport Independent](http://www.doublezeroonezero.com/westport.html) - 豪华 - “桌面”、“移动”.
+* [The Westport Independent](http://www.doublezeroonezero.com/westport.html) - Luxe - `Desktop`, `Mobile`.
     * ![Screenshot](https://raw.githubusercontent.com/Dvergar/awesome-haxe-gamedev/main/images/westport-independent.jpg)
 <!--lint enable-->
 
 
-更多展示：
+More showcase :
 * [OpenFL showcase](https://www.openfl.org/showcase)
 * [HaxeFlixel showcase](https://haxeflixel.com/showcase/)
 * [itch.io showcase](https://itch.io/games/made-with-haxe)
@@ -109,96 +109,98 @@ MVC == 模型视图控制器
 ## Miscellaneous
 
 ### 3rd party API
-* [SteamWrap](https://github.com/larsiusprime/SteamWrap) - SteamAPI 的本机扩展.
+* [SteamWrap](https://github.com/larsiusprime/SteamWrap) - Native extension for the SteamAPI.
 * [newgrounds](https://lib.haxe.org/p/newgrounds) - Newgrounds API.
-* [hxgamejolt-api](https://github.com/MAJigsaw77/hxgamejolt-api) - GameJolt API 的 Haxe 绑定.
+* [hxgamejolt-api](https://github.com/MAJigsaw77/hxgamejolt-api) - Haxe bindings for GameJolt API.
 
 ### AI
-[goap](https://gitlab.com/haath/goap) - 以目标为导向的人工智能行动规划器.
+[goap](https://gitlab.com/haath/goap) - Goal-oriented action planner for AI.
 
 ### Animation
-* [spine-hx](https://github.com/jeremyfa/spine-hx) - Spine 运行时自动从官方 Java/libgdx 运行时转换而来.
-* HaxeFlixel - Spine 解析器.
-* [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine) - 堆的脊柱播放器.
-* [heaps-aseprite](https://github.com/AustinEast/heaps-aseprite) - 以 Aseprite 格式加载和渲染精灵和动画.
-* [openfl-aseprite](https://github.com/miriti/openfl-aseprite) - 以 Aseprite 格式加载和渲染精灵和动画.
-* [openfl-spine](https://github.com/rainyt/openfl-spine) - 在OpenFL引擎中渲染Spine动画，渲染处理可以通过Sprite和Tilemap来实现.
-* [ase](https://github.com/miriti/ase) - .ase/.aseprite 的文件格式读取器/写入器，无需外部依赖.
-* [flxgif](https://github.com/MAJigsaw77/flxgif) - Yagp 的 HaxeFlixel 的 Gif 播放器.
+* [spine-hx](https://github.com/jeremyfa/spine-hx) - Spine runtime automatically converted from the official Java/libgdx runtime.
+* HaxeFlixel - Spine parser.
+* [Heaps-Spine](https://github.com/Beeblerox/Heaps-Spine) - Spine player for heaps.
+* [heaps-aseprite](https://github.com/AustinEast/heaps-aseprite) - Load and render sprites and animations in Aseprite format.
+* [openfl-aseprite](https://github.com/miriti/openfl-aseprite) - Load and render sprites and animations in Aseprite format.
+* [openfl-spine](https://github.com/rainyt/openfl-spine) - Render Spine animation in the OpenFL engine, rendering processing can be achieved throughSprite and Tilemap.
+* [ase](https://github.com/miriti/ase) - File format reader/writer for .ase/.aseprite without external dependencies.
+* [flxgif](https://github.com/MAJigsaw77/flxgif) - Yagp's Gif Player for HaxeFlixel.
 
 ### Audio
-* [sfxr-hx](https://github.com/jobf/sfxr-hx) - Sfxr 的纯 haxe 实现.
+* [sfxr-hx](https://github.com/jobf/sfxr-hx) - Pure haxe implementation of Sfxr.
 
 ### Color manipulation
-* [nxColor](https://github.com/oscarcs/nxColor) - 颜色处理库.
+* [nxColor](https://github.com/oscarcs/nxColor) - Color manipulation library.
 
 ### Collision
-* [differ](https://github.com/snowkit/differ) - 分离轴定理碰撞库.
+* [differ](https://github.com/snowkit/differ) - A separation axis theorem collision library.
 
 ### Computer Vision
-* [Vision](https://github.com/ShaharMS/Vision) - 跨平台计算机视觉库.
+* [Vision](https://github.com/ShaharMS/Vision) - Cross platform computer vision library.
 
 ### Data structures
-* [polygonal-ds](https://github.com/polygonal/ds) - 游戏的数据结构.
+* [polygonal-ds](https://github.com/polygonal/ds) - Data structures for games.
 
 ### Editor
-* [flixel-studio](https://github.com/Dovyski/flixel-studio) - HaxeFlixel 的游戏内编辑器.
+* [flixel-studio](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
 
 ### Helpers
-* [deepnightLibs](https://github.com/deepnight/deepnightLibs) - 通用游戏开发目的库.
-|程序生成|[Dungeon builder](https://github.com/julsam/dungeon-builder) - 一组地下城生成算法（适用于 hx4，略有改动）.
+* [deepnightLibs](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
+
+### Procedural generation
+* [Dungeon builder](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ### Localization
-* [firetongue](https://github.com/larsiusprime/firetongue) - 翻译/本地化框架.
+* [firetongue](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
 
 ### Map parser
-* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer) - 由编辑器 PyxelEdit 生成的地图的解析器.
-* Heaps - Tiled 的内置解析器.
-* HaxeFlixel - Tiled 和 Ogmo 的解析器.
-* [LEd](https://github.com/deepnight/led-haxe-api) - 带有类型化编译时加载器的 2D 关卡编辑器.
-* [TiledHX](https://github.com/yanrishatum/tiledhx) - 一个全面的现代 Tiled 解析器.
+* [PyxelEdit Map Importer](https://github.com/Dvergar/PyxelEdit-Map-Importer) - Parser for maps generated by the editor PyxelEdit.
+* Heaps - Built-in parser for Tiled.
+* HaxeFlixel - Parser for Tiled & Ogmo.
+* [LEd](https://github.com/deepnight/led-haxe-api) - 2D level editor with a typed compile time loader.
+* [TiledHX](https://github.com/yanrishatum/tiledhx) - A comprehensive modern Tiled parser.
 
 ### Math helpers
-* [hxmath](https://github.com/tbrosman/hxmath) - 面向游戏的数学库.
-* [haxe-glm](https://github.com/hamaluik/haxe-glm) - 使用 2、3 和 4 维向量和矩阵以及四元数的工具集.
-* [hx-vector2d](https://github.com/markknol/hx-vector2d)  - 世界上最完整的 Vector2d / Point 类. 具有运算符重载.
+* [hxmath](https://github.com/tbrosman/hxmath) - A game-oriented math library.
+* [haxe-glm](https://github.com/hamaluik/haxe-glm) - A toolset for using 2, 3, and 4 dimensional vectors and matrices, as well as quaternions.
+* [hx-vector2d](https://github.com/markknol/hx-vector2d) - Worlds most complete Vector2d / Point class. With operator overloading.
 
 ### Modding
-* [polymod](https://github.com/larsiusprime/polymod) - 游戏/应用程序的原子模组框架.
+* [polymod](https://github.com/larsiusprime/polymod) - An atomic modding framework for games/apps.
 
 ### Particles
-* [Sparkler](https://github.com/RudenkoArts/sparkler) - 模块化粒子系统.
+* [Sparkler](https://github.com/RudenkoArts/sparkler) - Modular Particle System.
 
 ### Monetization
 * [extension-iap](https://github.com/charmdev/extension-iap) - Provides an access to in-app purchases (iOS) and in-app billing (Android) for OpenFL projects using a common API. Fork of [this](https://github.com/HaxeExtension/extension-iap).
 
 ### Pathfinding
-* [pathfinder](https://github.com/hypersurge/pathfinder) - 简单的 A* 寻路算法.
-* [astar](https://gitlab.com/haath/astar) - 与框架无关的多功能 A-star 求解器库.
+* [pathfinder](https://github.com/hypersurge/pathfinder) - Easy A* pathfinding algorithm.
+* [astar](https://gitlab.com/haath/astar) - Versatile framework-agnostic A-star solver Library.
 
 ### Shaders
 * [HGSL](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
-* [parasol](https://github.com/47rooks/parasol) - HaxeFlixel 着色器库.
+* [parasol](https://github.com/47rooks/parasol) - HaxeFlixel library of shaders.
 
 ### Sprite 
-* [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) - .ase 和 .aseprite 文件的解析器.
+* [haxe-aseprite](https://github.com/PongoEngine/haxe-aseprite) - Parser for .ase and .aseprite files.
 
 ### Texture Packer 
-* [hxpk](https://github.com/bendmorris/hxpk) - libGDX 纹理打包器的端口.
+* [hxpk](https://github.com/bendmorris/hxpk) - Port of the libGDX Texture Packer.
 
 ### Tweening 
-* [actuate](https://github.com/jgranick/actuate) - 灵活、快速的“补间”库.
-* [YATL](https://github.com/Yanrishatum/yatl) - 另一个（Haxe）补间库.
-* [TweenX/TweenXCore](https://github.com/shohei909/tweenx) - 补间库.
+* [actuate](https://github.com/jgranick/actuate) - A flexible, fast "tween" library.
+* [YATL](https://github.com/Yanrishatum/yatl) - Yet Another (Haxe) Tweening Library.
+* [TweenX/TweenXCore](https://github.com/shohei909/tweenx) - Tween library.
 
 ### UI 
-* [domkit](https://github.com/ncannasse/domkit) - 基于 CSS 组件的严格类型 UI 框架.
-* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) - HaxeFlixel 的 GUI 库.
-* [HaxeUI](http://haxeui.org/) - 具有多个框架后端的 UI 库（HTML5、Kha、OpenFL、PixiJS、WxWidgets 以及许多其他正在进行的工作）.
-* [Feathers UI](https://feathersui.com/) - 用于创意前端项目的跨平台图形用户界面组件.
+* [domkit](https://github.com/ncannasse/domkit) - CSS Components based strictly typed UI framework.
+* [flixel-ui](https://github.com/HaxeFlixel/flixel-ui) - GUI library for HaxeFlixel.
+* [HaxeUI](http://haxeui.org/) - UI library with multiple framework backends (HTML5, Kha, OpenFL, PixiJS, WxWidgets, and a number of others as works in progress).
+* [Feathers UI](https://feathersui.com/) - Cross-platform graphical user interface components for creative frontend projects.
 
 ### Video
-* [hxCodec](https://github.com/polybiusproxy/hxCodec) - 添加 HaxeFlixel 和 OpenFL 上的本机视频播放.
+* [hxCodec](https://github.com/polybiusproxy/hxCodec) - Adds native video playback on HaxeFlixel and OpenFL.
 
 ## Articles
 * [Flash is dead, long live OpenFL!](http://gamasutra.com/blogs/LarsDoucet/20140318/213407/Flash_is_dead_long_live_OpenFL.php)

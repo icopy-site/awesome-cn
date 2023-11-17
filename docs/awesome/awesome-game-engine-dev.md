@@ -473,6 +473,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Utility
     - 🎉 [Any-Lite](https://github.com/martinmoene/any-lite) - Header-only 'any' type for C++98 and above.
     - 🎉 [EASTL](https://github.com/electronicarts/EASTL/) - Electronic Arts STL replacement, emphasis on performance.
+    - 🎉 [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development.
     - 🎉 [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) - Header-only, fast and memory-friendly hashmap and binary tree containers.
     - 🎉 [Spdlog](https://github.com/gabime/spdlog) - Fast logging library.
     - 🎉 [Tiny-Process-Library](https://gitlab.com/eidheim/tiny-process-library) - Making it simple to create and stop new processes.
