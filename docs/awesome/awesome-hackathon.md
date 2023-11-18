@@ -1,101 +1,125 @@
 <div class="github-widget" data-repo="dribdat/awesome-hackathon"></div>
 ## Awesome Hackathon [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-一个精选的平台和工具开放列表，可以帮助您**组织和运行**宽容且富有成效的黑客马拉松. 
+A curated open list of platforms and tools that can help you to **organize and run** tolerant and productive hackathons. 
 
-&gt; 这个列表试图涵盖什么是 ⚡️awesome⚡️ [hackathons](https://en.wikipedia.org/wiki/Hackathon) 、hackdays 和 hacknights，以及运行它们的组织者社区！ 如果您正在寻找工具以作为黑客马拉松的_参与者_使用，请参阅 [Awesome Hackathon Starters](https://github.com/geekcamp-ph/awesome-hackathon-starters) . 要增强此列表，请参阅 [Contributing](#Contributing) 部分.
+> This list tries to cover what is ⚡️awesome⚡️ about [hackathons](https://en.wikipedia.org/wiki/Hackathon), hackdays and hacknights, and the community of organizers who run them! If you are looking for tools to use as a _participant_ of a hackathon, see [Awesome Hackathon Starters](https://github.com/geekcamp-ph/awesome-hackathon-starters). To enhance this list, please refer to the [Contributing](#Contributing) section.
 
 
 
 ## Platforms
 
- &gt; _awesome hackathon platforms_，我们指的是专门为运行 hackathon 设计的网络或移动应用程序，或者已经有效地适应用于此类事件的应用程序. 它们通常允许组织者宣布日程和主题、注册参与者并记录结果.
+By _awesome hackathon platforms_, we mean web or mobile applications that are specifically designed to run a hackathon, or which have effectively adapted for use in events of this type. They typically allow organizers to announce the schedule and topics, register participants, and document the results.
 
 ### Open Source
 
- &gt; 这些可以与云提供商一起运行或自行托管，以完全控制数据. 作为开源项目，他们通常采用开放标准. 其中一些是由非营利组织和志愿者社区开发的.
+> These can be run with a cloud provider or self-hosted, to take full control of the data. Being open source efforts, they typically embrace open standards. Several are developed by non-profits and volunteer communities. 
 
-- [Dribdat](https://github.com/dribdat/dribdat) - 基于开放数据和网络标准的具有影响力的黑客马拉松.
-- [HackDash](https://github.com/impronunciable/hackdash) - 将 hackaton 想法组织到仪表板中.
-- [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - 为黑客马拉松整理 gdoc 和 hackpad 文档.
-- [JunctionApp](https://github.com/hackjunction/JunctionApp) - 由 Junction 维护的面向组织者的一体化黑客马拉松平台.
-- [Quill](https://github.com/techx/quill) - 专为大型编程马拉松设计的注册系统，由 HackMIT 维护.
-- [VersusVirus-App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - 用于管理大型在线黑客马拉松的团队建设，目前未维护.
-- [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - 民主实验室项目的在线平台.
+- [Dribdat](https://github.com/dribdat/dribdat) - Hackathons with impact, based on open data and web standards.
+- [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
+- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
+- [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
+- [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
+- [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
+- [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
+- [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
+
+### Unmaintained
+
+> These projects, while open source, are currently not showing signs of active development (🧊). Please contact us if you think otherwise! They might need your help, or have valuable content that could be reused.
+
+- [Find Hackathon](https://github.com/Find-Hackathon) - A Cross-Platform Mobile Application for finding Hackathons.
+- [Hackathon Manager](https://github.com/codeRIT/hackathon-manager) -  All-in-one platform for hackathon registration & logistics.
+- [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
+- [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
+- [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed especially for hackathons and similar competitions.
+- [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
+- [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
 
 ### Closed Source
 
-&gt; 尽管在 GitHub 上存在，但这些应用程序的核心资源目前已关闭 (). 
+> Despite having a presence on GitHub, the core sources of these applications are at this time closed (🔒). 
 
-- [Agorize](https://github.com/agorize) - 一家提供开放式创新软件的法国公司.
-- [Devfolio](https://github.com/devfolioco) - 支持印度“最大、发展最快的建设者社区”.
-- [Devpost](https://github.com/challengepost) - 美国公司，其客户向社区推销开发人员工具和工作.
-- [TAIKAI](https://github.com/taikai) - 通过黑客马拉松、赏金和招聘挑战将创作者和公司联系起来.
+- [Agorize](https://.com/agorize) - A French company that provides open innovation software.
+- [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
+- [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
+- [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
 ### Organisations
 
-&gt; 为编程马拉松提供产品和服务或定期组织编程马拉松的公司.
+> Companies that provide products and services for, or regularly organise, hackathons.
 
-- [Eventornado](https://eventornado.com/) 提供了一个用于组织黑客马拉松的一体化平台.
-- [Hackathon.com](https://hackathon.com/) 从 [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) 在全球推广活动，并提供 [commercial services](https://corporate.hackathon.com/).
-- [HackerEarth](https://www.hackerearth.com/) 是一个用于采购、评估、面试和提升开发人员技能的商业平台.
-- [HYPE](https://www.hypeinnovation.com/en/about) 提供软件来帮助创意和创新经理收集和管理创意.
-- [Mercer | Mettl](https://mettl.com/about/) 看见 [hackathons as a tool](https://mettl.com/online-hackathons/) 用于建立技术团队和促进协作.
-- [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) 赞助和组织黑客马拉松，以及 [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) 使用他们的产品来举办活动.
-- [R和om Hacks of Kindness](https://github.com/r和omhacks) 是一个针对慈善机构、非营利组织和社会企业的全球黑客马拉松系列，其衍生产品如 [RHOK, Jr.](https://rhokjr.org/) 和 [RHOK CPH](https://www.rhok-cph.org/) 仍然活跃.
-- [Tulula](https://tulu.la/hackathons-and-challenges) 基于 [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
-- [Unstop](https://unstop.com/) 提供虚拟活动平台来组织黑客马拉松和编码测试.
+- [Eventornado](https://eventornado.com/) provides an all-in-one platform for organising a hackathon.
+- [Hackathon.com](https://hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
+- [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
+- [HYPE](https://www.hypeinnovation.com/en/about) provides software to help idea and innovation managers collect and manage ideas.
+- [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
+- [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and organises hackathons, and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for using their products to run an event.
+- [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprises, whose spin-offs like [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/) are still active.
+- [Tulula](https://tulu.la/hackathons-and-challenges) runs online competitions and hackathons based on an [online platform](https://tulula.gitbook.io/docs/setup-guide/quick-start).
+- [Unstop](https://unstop.com/) provides virtual event platforms to organize hackathons and coding tests.
 
 ## Tooling
 
- &gt; 这些是用于解决黑客马拉松组织者通常面临的各种问题的框架、实用程序和在线工具. 他们通常有一些与上述平台集成的方法.  
-
-### Promoting
-
-- [Hackalist](https://github.com/Hackalist/Hackalist.github.io) - 来自世界各地即将举行的黑客马拉松列表. 
+> These are frameworks, utilities and online tools for solving a variety of issues that hackathon organizers commonly face. They often have some way of integrating with the platforms above.  
 
 ### Organizing
 
-- [BoilerBot](https://github.com/BoilerMake/boilerbot) - 通过创建组、分配任务等来控制您的 Slack.
-- [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) - 也 [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) 通过 HackMIT 是 [Hubot](https://hubot.github.com/) 使组织更容易的插件.
+- [BoilerBot](https://github.com/BoilerMake/boilerbot) - Take control of your Slack by creating groups, assigning tasks, and more.
+- [Hubot-RedisRed](https://github.com/Detry322/hubot-redisred) - As well as [hubot-group](https://github.com/anishathalye/hubot-group), [hubot-conf](https://github.com/anishathalye/hubot-conf), [hubot-shortcut](https://github.com/anishathalye/hubot-shortcut) by HackMIT are [Hubot](https://hubot.github.com/) plugins to make organizing easier.
+- [Planning Kit](https://hackathon-planning-kit.org/) - Get information about how to design a hackathon that fits your needs.
+
+### Promoting
+
+- [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
+- [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
+- [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
+- [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons.
+- [Upcoding](https://github.com/sahanmndl/UpCoding-Web) - Get event details of competitive programming contests, hackathons etc.
 
 ### Teambuilding
 
-- [Dridbot](https://github.com/dribdat/dridbot) - 基于 Hubot 框架构建的聊天机器人，用于提升黑客马拉松参与者和组织者的体验.
+- [Dridbot](https://github.com/dribdat/dridbot) - Chat bot built on the Hubot framework, for pepping up the experience for participants and organizers of hackathons.
+- [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form their own team based on challenges they want to tackle.
 
 ### Coaching
 
-- [HackMIT-HELPq](https://github.com/ehzhang/helpq) - 带有界面的队列应用程序，供导师和黑客分别回答/提交问题.
+- [HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
+- [Hangar](https://github.com/AmericanAirlines/Hangar) - A Slack bot to help with judging and coaching at hackathons.
 - [Treehacks-MentorBot](https://github.com/TreeHacks/slack-mentorship) - Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
+- [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
 
 ### Evaluating
 
-- [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) - 创建 Devpost Expo 表前端.
-- [Gavel](https://github.com/anishathalye/gavel) - HackMIT 的一个项目博览会评审系统，它使用花哨的数学来获得好的结果.
+- [@CivicWhitaker Anthology](https://smartchicagocollaborative.org/launch-the-civicwhitaker-anthology/) - Evaluates three years of organizing hackathons in Chicago civic tech.
+- [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) - Create a Devpost Expo table frontend.
+- [Gavel](https://github.com/anishathalye/gavel) - A project expo judging system by HackMIT that uses fancy math to get good results.
 
 ## Guides
 
-&gt; 这些有用的手册和文章可为您提供一些方向，并帮助您准备组织活动的计划.
+> These are helpful handbooks and articles that will give you some orientation, and help you to prepare a plan for organizing your event.
 
-- [Dribdat wiki](https://github.com/dribdat/docs/wiki) - 来自开源项目的社区指南.
-- [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - 收集优质的黑客马拉松资源.
-- [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - 由经验丰富的组织者 Joshua Tauberer 提供的分步指南.
-- [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) -（德语）市政当局印刷指南.
-- [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) -（德语）组织青年活动的深入指南.
-- [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - 来自瑞士社区的开放数据黑客马拉松的简短原则列表.
-- [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - 来自开源 Mattermost 聊天服务器的实用指南.
-- [McKinsey: Demystifying the hackathon](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon) - 用于大型组织的数字化转型.
-- [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - 来自 Mediawiki 社区（支持维基百科）的建议.
-- [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - 美国学校流行的 Major League Hacking 指南.
-- [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - 从一个欧盟项目中打开 4 Citizens 编程马拉松手册.
-- [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - 来自流行的 Web3 社区.
+- [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
+- [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
+- [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
+- [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
+- [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
+- [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
+- [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
+- [Opendata.ch Guidelines](http://make.opendata.ch/wiki/information:rules) - A short principled list for open data hackathons from the Swiss community.
+- [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
+- [McKinsey: Demystifying the hackathon](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon) - For digital transformation of large organizations.
+- [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
+- [MLH Organizer Guide](https://github.com/MLH/mlh-hackathon-organizer-guide) - Guide from Major League Hacking, popular at US schools.
+- [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
+- [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
 
 ## Contributing
 
-欢迎投稿！ 请仅在积极维护的情况下推荐工具. 阅读 [contribution guidelines](https://github.com/dribdat/awesome-hackathon/blob/master/contributing.md) 首先了解其他细节. 确保按字母顺序提供名称、链接、描述. 人们对开源和开放访问有强烈的偏好，但请用锁定图标 () 标记付费专区后面的任何_awesome_但封闭源代码的工具或文章.
+Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](https://github.com/dribdat/awesome-hackathon/blob/master/contributing.md) first for other details. Make sure to provide a name, link, description, in alphabetical order. There is a strong preference on open source and open access, but please mark any _awesome_ yet closed-source tools or articles behind paywalls with a lock icon (🔒).
 
 ## Footnotes
 
-这个回购是用 [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) 由 Darshak Parikh 和 :heart: 动机 [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) 卡米尔·康斯戴恩 (Camille Considine).
+This repo is made with [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) by Darshak Parikh and :heart: motivated by [awesome-hackathons](https://github.com/cconsidine/awesome-hackathons) by Camille Considine.
 
 Licensed [CC0 - Creative Commons Public Domain](https://github.com/dribdat/awesome-hackathon/blob/master/LICENSE)

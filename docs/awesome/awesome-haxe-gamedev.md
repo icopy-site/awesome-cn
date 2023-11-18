@@ -141,14 +141,14 @@ More showcase :
 ### Data structures
 * [polygonal-ds](https://github.com/polygonal/ds) - Data structures for games.
 
+### Dialogues
+* [hxyarn](https://github.com/cxsquared/hxyarn) - Parser and runner for Yarn dialogue files.
+
 ### Editor
 * [flixel-studio](https://github.com/Dovyski/flixel-studio) - In-game editor for HaxeFlixel.
 
 ### Helpers
 * [deepnightLibs](https://github.com/deepnight/deepnightLibs) - General gamedev purpose libs.
-
-### Procedural generation
-* [Dungeon builder](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ### Localization
 * [firetongue](https://github.com/larsiusprime/firetongue) - A translation/localization framework.
@@ -177,6 +177,9 @@ More showcase :
 ### Pathfinding
 * [pathfinder](https://github.com/hypersurge/pathfinder) - Easy A* pathfinding algorithm.
 * [astar](https://gitlab.com/haath/astar) - Versatile framework-agnostic A-star solver Library.
+
+### Procedural generation
+* [Dungeon builder](https://github.com/julsam/dungeon-builder) - A set of dungeon generation algorithm (works w/ hx4 w/ minor changes).
 
 ### Shaders
 * [HGSL](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.
