@@ -161,6 +161,8 @@
 - [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
+- [Threlte](https://threlte.xyz/) - A Svelte renderer and component library for three.js. WebXR-specific hooks and components are available in the [`@threlte/xr` package](https://threlte.xyz/docs/reference/xr/getting-started).
+
 - [X3DOM](https://x3dom.org) - A framework for integrating and manipulating X3D scenes as HTML5/DOM elements.
   - [Official Documentation](https://doc.x3dom.org/)
 
