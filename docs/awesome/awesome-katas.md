@@ -2,12 +2,12 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
 ## Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt; 精选的代码套路列表
+> A curated list of code katas
 
 
 
 ## Introduction
- kata（或代码 kata）被定义为一种编程练习，可通过练习和重复来帮助磨练您的技能. 戴夫·托马斯 [@pragdave](https://twitter.com/pragdave) ，开始了这场编程运动. 这个项目旨在为您提供我在互联网和 Github 社区中找到的一些 kata 练习的列表. 这些练习从一般算法到更复杂的算法以及现实生活中的情况各不相同，供您尝试使用您喜欢的编程语言. 请记住，代码套路不是测验或谜题. 您不仅应该尝试“解决”它，而且应该遵循您所使用的编程语言的最佳实践找到一个非常好的解决方案.
+A kata, or code kata, is defined as an exercise in programming which helps hone your skills through practice and repetition. Dave Thomas [@pragdave](https://twitter.com/pragdave), started this movement for programming. This project aims to provide you with a list of some kata exercises that I've found in the Internet and the Github community. These exercises vary from general to more complex algorithms and real life situations for you to try using your preferred programming language. Remember that code katas are not quizzes or puzzles. You should not only try to 'solve' it, but find a very good solution, following best practices of the programming language you are using.
 
 ## [CodeKata](http://codekata.com/)
   - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
@@ -95,6 +95,7 @@
   - [RPG Game kata](https://github.com/ardalis/kata-catalog/blob/master/katas/RPG%20Combat.md)
   - [Train Reservation kata](https://github.com/emilybache/KataTrainReservation)
   - [Password-strength Checker TDD Kata](https://github.com/xpepper/PasswordStrengthChecker)
+  - [Parrot Refactoring Kata](https://github.com/emilybache/Parrot-Refactoring-Kata)
   - [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
   - [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose)
   - [Java by Comparison Kata](https://java.by-comparison.com/kata)

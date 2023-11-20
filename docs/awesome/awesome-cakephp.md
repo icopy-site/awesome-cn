@@ -104,7 +104,7 @@ Additional lists you might find useful:
 ## File Manipulation
 *Plugins for file manipulation.*
 
-- [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+- 🍰 [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 - [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
 - 🍰 [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 

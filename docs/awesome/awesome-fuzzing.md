@@ -136,6 +136,11 @@ Security and Privacy (S&P), (iii) USENIX Security Symposium (USEC), and (iv) ACM
 
 
 ### ACM Conference on Computer and Communications Security (ACM CCS)
+- [Fuzz on the Beach: Fuzzing Solana Smart Contracts, 2023](https://arxiv.org/pdf/2309.03006.pdf)
+- [NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic, 2023](https://secsys.fudan.edu.cn/_upload/article/files/56/ed/788960544d56a38258aca7d3c8b5/216e599a-d6f6-4308-aa0b-ef45166a8431.pdf)
+- [Profile-Driven System Optimizations for Accelerated Greybox Fuzzing, 2023](https://users.cs.utah.edu/~snagy/papers/23CCS.pdf)
+- [Hopper: Interpretative Fuzzing for Libraries, 2023](https://arxiv.org/pdf/2309.03496.pdf)
+- [Greybox Fuzzing of Distributed Systems, 2023](https://arxiv.org/pdf/2305.02601.pdf)
 - [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities, 2022](https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf)
 - [SFuzz: Slice-based Fuzzing for Real-Time Operating Systems, 2022](https://huhong789.github.io/papers/chen:sfuzz.pdf)
 - [MC^2: Rigorous and Efficient Directed Greybox Fuzzing, 2022](https://arxiv.org/pdf/2208.14530.pdf)
@@ -209,16 +214,32 @@ Information about the various open source tools you can use to leverage fuzz tes
 ### Kernel
 ### Network
 ### API
+- [IvySyn](https://gitlab.com/brown-ssl/ivysyn) - IvySyn is a fully-automated framework for discovering memory error vulnerabilities in Deep Learning (DL) frameworks.
+- [MINER](https://github.com/puppet-meteor/MINER) - MINER is a REST API fuzzer that utilizes three data-driven designs working together to guide the sequence generation, improve the request generation quality, and capture the unique errors caused by incorrect parameter usage.
+- [RestTestGen](https://github.com/SeUniVr/RestTestGen) - RestTestGen is a robust tool and framework designed for automated black-box testing of RESTful web APIs.
+- [GraphFuzz](https://github.com/ForAllSecure/GraphFuzz) - GraphFuzz is an experimental framework for building structure-aware, library API fuzzers.
+- [Minerva](https://github.com/ChijinZ/Minerva) - Minerva is a browser fuzzer augmented by API mod-ref relations, aiming to synthesize highly-relevant browser API invocations in each test case.
+- [FANS](https://github.com/iromise/fans) - FANS is a fuzzing tool for fuzzing Android native system services. It contains four components: interface collector, interface model extractor, dependency inferer, and fuzzer engine.
 ### JavaScript
 ### Firmware
 ### Hypervisor
 ### CPU
+- [DifuzzRTL](https://github.com/compsec-snu/difuzz-rtl) - DifuzzRTL is a differential fuzz testing approach for CPU verification. 
+- [MorFuzz](https://github.com/sycuricon/MorFuzz) - MorFuzz is a generic RISC-V processor fuzzing framework that can efficiently detect software triggerable functional bugs.
+- [SpecFuzz](https://github.com/tudinfse/SpecFuzz) - SpecFuzz is a tool to enable fuzzing for Spectre vulnerabilities
+- [Transynther](https://github.com/vernamlab/Medusa) - Transynther automatically generates and tests building blocks for Meltdown attacks with various faults and microcode assists.
 ### Lib
-### Argument
+### Web
+- [TEFuzz](https://github.com/seclab-fudan/TEFuzz/) - TEFuzz is a tailored fuzzing-based framework to facilitate the detection and exploitation of template escape bugs.
+- [Witcher](https://github.com/sefcom/Witcher) - Witcher is a web application fuzzer that utilizes mutational fuzzing to explore web applications and fault escalation to detect command and SQL injection vulnerabilities.
+- [CorbFuzz](https://github.com/shouc/corbfuzz) - CorbFuzz is a state-aware fuzzer for generating as much reponses from a web application as possible without need of setting up database, etc.
 ### DOM
-### UI
+### Argument
 ### Blockchain
-### AI
+- [Fluffy](https://github.com/snuspl/fluffy) - Fluffy is a multi-transaction differential fuzzer for finding consensus bugs in Ethereum. 
+- [LOKI](https://github.com/ConsensusFuzz/LOKI) - LOKI is a blockchain consensus protocol fuzzing framework that detects the consensus memory related and logic bugs.
+### DBMS
+- [Squirrel](https://github.com/s3team/Squirrel) - Squirrel is a fuzzer for database managment systems (DBMSs).
 
 
 ## Contribute

@@ -22,6 +22,7 @@
 
 ### Community
 
+- [Directus Extensions](https://directusextensions.com) - A searchable index of Directus extensions, themes, OSes, and more.
 - [Portuguese YouTube Channel](https://www.youtube.com/c/DirectusBR)
 
 ## Integration

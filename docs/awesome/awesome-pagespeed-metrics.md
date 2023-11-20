@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="csabapalfi/awesome-pagespeed-metrics"></div>
 ## Awesome Page Speed Metrics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 有助于了解页面速度和用户体验的指标.
+> Metrics to help understand page speed and user experience.
 
-If you're just getting started check out [web.dev/metrics](https://web.dev/metrics/) 第一的.
+If you're just getting started check out [web.dev/metrics](https://web.dev/metrics/) first.
 
 
 <!-- toc -->
@@ -15,113 +15,113 @@ If you're just getting started check out [web.dev/metrics](https://web.dev/metri
 
 ### Lab Data (Synthetic Measurements)
 
-使用工具向您的页面发出请求并评估性能. 务必使其符合实际（例如通过限制网络和 CPU）并减少噪音（例如通过多次运行）.
+Make a request to your page with a tool and evaluate performance. Be sure to make it realistic (e.g. by throttling network and CPU) and reduce noise (e.g. by running multiple times).
 
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse/)  - 基于 Google Chrome 构建的用于审核网页的工具. 您可以从 Chrome DevTools、Chrome 扩展程序或命令行（即使是无头 Chrome）运行它.
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Google 提供的免费托管 Lighthouse 报告（以及更多）.
-- [WebpageTest](https://www.webpagetest.org/) - 免费和托管的网络性能测试（也是一个开源项目）.
-- [Sitespeed.io](https://www.sitespeed.io/) - 一套开源性能监控工具.
-- [Calibre](https://calibreapp.com) - Web 性能监控 SaaS.
-- [treo.sh](https://treo.sh/) - Web 性能监控 SaaS.
-- [SpeedCurve](https://speedcurve.com/) - Web 性能监控 SaaS.
-- [AwesomeTechStack](https://awesometechstack.com/) - 网站敬畏监控工具.
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - A tool built on Google Chrome to audit web pages. You can run it from Chrome DevTools, a Chrome Extension or from the command line (even with headless Chrome).
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Free and hosted Lighthouse reporting (and more) by Google.
+- [WebpageTest](https://www.webpagetest.org/) - Free and hosted web performance testing (also an open source project).
+- [Sitespeed.io](https://www.sitespeed.io/) - A set of open source performance monitoring tools.
+- [Calibre](https://calibreapp.com) - Web performance monitoring SaaS.
+- [treo.sh](https://treo.sh/) - Web performance monitoring SaaS.
+- [SpeedCurve](https://speedcurve.com/) - Web performance monitoring SaaS.
+- [AwesomeTechStack](https://awesometechstack.com/) - Website awesomeness monitoring Tool.
 
 ---
 
 ### Field Data (Real User Monitoring - RUM)
 
-从访问您页面的真实用户那里收集性能数据. 请注意实际开销，因为它在您用户的浏览器中运行，并注意浏览器对更新指标的支持（例如，与您的用户群相比）.
+Collect performance data from real users visiting your page. Be mindful of the actual overhead, as it runs in your user's browser and watch out for browser support of more recent metrics (e.g. compared to your user-base).
 
 - [Performance tracking with Google Analytics (GA)](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/#performance-tracking)
 - [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report/)
-- [Load abandonment](https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics#load_abandonment) - 跟踪“visibilitychange”以解决幸存者偏差.
-- [SpeedCurve LUX](https://speedcurve.com/features/lux/) - 真实用户监控 SaaS.
-- [Akamai mPulse](https://www.akamai.com/uk/en/products/performance/mpulse-real-user-monitoring.jsp) - 真实用户监控 SaaS.
-- [Sematext Experience](https://sematext.com/experience/) - 真实用户监控 SaaS.
-- [Perfume.js](https://zizzamia.github.io/perfume/) - 开源库以收集现场数据.
-- [Web Vitals](https://github.com/GoogleChrome/web-vitals) - 开源库以收集现场数据.
-- [Vercel Analytics](https://vercel.com/docs/analytics) - 基于 Web Vitals 的真实用户监控.
+- [Load abandonment](https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics#load_abandonment) - Track  `visibilitychange` to account for survivorship bias.
+- [SpeedCurve LUX](https://speedcurve.com/features/lux/) - Real User Monitoring SaaS.
+- [Akamai mPulse](https://www.akamai.com/uk/en/products/performance/mpulse-real-user-monitoring.jsp) - Real User Monitoring SaaS.
+- [Sematext Experience](https://sematext.com/experience/) - Real User Monitoring SaaS.
+- [Perfume.js](https://zizzamia.github.io/perfume/) - Open Source Library to collect Field Data.
+- [Web Vitals](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
+- [Vercel Analytics](https://vercel.com/docs/analytics) - Real User Monitoring based on Web Vitals.
 
 ### Critical rendering path
 
-关键渲染路径是**接收网络字节和在屏幕上渲染某些东西之间发生的一切**. 优化任何渲染指标，例如 [First Contentful Paint (FCP)](#first-contentful-paint-fcp) 或者 [Speed Index](#speed-index) you have to understand how the critical rendering path w或者ks.
+The critical rendering path is **everything that happens between receiving network bytes and rendering something on the screen**. To optimize any rendering metrics like [First Contentful Paint (FCP)](#first-contentful-paint-fcp) or [Speed Index](#speed-index) you have to understand how the critical rendering path works.
 
 - [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 
 ### Long tasks
 
-处理用户输入的浏览器主线程也是执行 JavaScript 的线程（以及许多其他内容）. 阻塞主线程时间过长会使您的页面无响应.
+The browser Main Thread that handles user input is also the one executing JavaScript (among many other things). Blocking the Main Thread for too long can make your page unresponsive.
 
-用户认为 100 毫秒内的任何视觉变化都是即时的. 任何阻塞主线程的任务**花费超过 50 毫秒都被认为是一项长任务**（因为它可能使浏览器对用户输入无响应）.
+A user perceives any visual change within 100ms as instant. Any task blocking the Main Thread by **taking longer than 50ms is considered a long task** (as it might make the browser unresponsive to user input).
 
-优化交互指标，例如 [Total Blocking Time (TBT)](#total-blocking-time-tbt) 和 [First Input Delay (FID)](#first-input-delay-fid) you have to underst和 long tasks 和 how to avoid them as much as possible.
+To optimize interactivity metrics like [Total Blocking Time (TBT)](#total-blocking-time-tbt) and [First Input Delay (FID)](#first-input-delay-fid) you have to understand long tasks and how to avoid them as much as possible.
 
 - [Spec - Long Tasks](https://w3c.github.io/longtasks/)
 - [Blogpost - Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api/)
 
 ### User-centric metrics
 
-跟踪与用户及其体验相关的指标非常重要. 为了衡量感知性能，我们可以通过围绕几个关键问题构建指标来选择指标.
+It's important to track metrics relevant to users and their experience. To measure the perceived performance we can choose metrics by framing them around a few key questions.
 
 - [Docs - User-centric Performance Metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
- - 它正在发生吗？  - 导航是否启动成功？ 服务器响应了吗？  （例如 [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
- - 它有用/有意义吗？  - 呈现的内容是否足以让用户参与其中？  （例如 [LCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
- - 它是否可用 - 用户是否可以与页面交互，或者它是否仍在忙于加载？  （例如 [TBT](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
- - 它令人愉快/流畅吗？  - 交互是否顺畅自然，没有滞后和卡顿？
+- Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+- Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
+- Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
+- Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ---
 
 ## Rendering metrics
 
 
- First Contentful Paint (FCP) 指标测量从页面开始加载到页面内容的任何部分呈现在屏幕上的时间. 对于此指标，“内容”是指文本、图像（包括背景图像）、`<svg>  ` 元素，或非白色 `<canvas>  ` 元素.
+The First Contentful Paint (FCP) metric measures the time from when the page starts loading to when any part of the page's content is rendered on the screen. For this metric, "content" refers to text, images (including background images), `<svg>` elements, or non-white `<canvas>` elements.
 
-- 实验室：灯塔
-- 领域：Chrome 60+，CrUX
+- Lab: Lighthouse
+- Field: Chrome 60+, CrUX
 - [Docs - FCP - web.dev](https://web.dev/fcp/)
 - [Spec - Paint Timing - W3C](https://w3c.github.io/paint-timing/)
 
 
-Largest Contentful Paint (LCP) 指标报告视口内可见的最大内容元素的呈现时间.
+The Largest Contentful Paint (LCP) metric reports the render time of the largest content element visible within the viewport.
 
-- 实验室：Lighthouse/WPT
-- 领域：Chrome 77+
+- Lab: Lighthouse/WPT
+- Field: Chrome 77+
 - [Docs - LCP - web.dev](https://web.dev/largest-contentful-paint/)
 - [Spec - LCP - W3C](https://github.com/WICG/largest-contentful-paint#readme)
 
 ### Cumulative Layout Shift (CLS)
 
- 每当可见元素将其位置从一帧更改到下一帧时，就会发生布局偏移.  CLS 衡量页面整个生命周期内发生的每个意外布局偏移的所有单独布局偏移分数的总和.
+ A layout shift occurs any time a visible element changes its position from one frame to the next. CLS measures the sum total of all individual layout shift scores for every unexpected layout shift that occurs during the entire lifespan of the page.
 
-- 实验室：Lighthouse/WPT
-- 领域：Chrome 77+
+- Lab: Lighthouse/WPT
+- Field: Chrome 77+
 - [Docs - CLS - web.dev](https://web.dev/cls/)
 - [Spec - Layout Instability API - W3C](https://github.com/WICG/layout-instability)
 
 ### Visually Complete
 
-视觉上的完整时间是指从初始导航开始到页面的**可见（首屏）部分不再发生变化**的时间.  （例如，WPT 使用基于视频/屏幕截图记录的页面颜色直方图来衡量这一点）.
+The Visually Complete is the time from the start of the initial navigation until the **visible (above the fold) part of your page is no longer changing**. (e.g. WPT measures this using a color histogram of the page based on video/screenshots recording).
 
-- 实验室：WPT
-- 领域：不适用
+- Lab: WPT
+- Field: N/A
 - [Docs - Visually Complete - WPT](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index)
 
 ### Speed Index
 
- Speed Index 显示**页面内容明显填充的速度**（数字越低越好）. 这是通过在加载过程中经常测量视觉完整性来完成的. 页面越快视觉上越完整，价值越低.
+Speed Index shows **how quickly the contents of a page are visibly populated** (lower numbers are better). This is done by frequently measuring visual completeness during loading. The quicker the page is more visually complete the lower the value.
 
-- 实验室：Lighthouse、WPT（但规格略有不同）
-- 领域：不适用
+- Lab: Lighthouse, WPT (but slightly different spec)
+- Field: N/A
 - [Docs - Speed Index - web.dev](https://web.dev/speed-index/)
 - [Docs - Speed Index - WPT](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index)
 - [Talk - Speed Perception and Lighthouse](https://ldnwebperf.org/sessions/speed-perception-and-lighthouse/)
 
 ### (Hero) Element Timing
 
- Element Timing 捕获**特定元素何时被浏览器绘制**. 英雄元素可以定义为最大的 h1、img 或背景图像（或使用 Element Timing API 自定义的）
+Element Timing captures **when specific elements are painted** by the browser. Hero elements can be defined as the largest h1, img or background image (or custom ones using the Element Timing API)
 
-- 实验室：WPT
-- 领域：Chrome 77+
+- Lab: WPT
+- Field: Chrome 77+
 - [Docs - Last Painted Hero - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
 - [Spec - Element Timing API](https://wicg.github.io/element-timing/)
 - [Blogpost - Hero Element Timing - SpeedCurve](https://speedcurve.com/blog/web-performance-monitoring-hero-times/)
@@ -132,44 +132,44 @@ Largest Contentful Paint (LCP) 指标报告视口内可见的最大内容元素�
 
 ### Time to Interactive (TTI)
 
-交互时间是**页面完全交互所需的时间**（如主线程安静 5 秒）. 有时称为一致交互，不要与首次交互或首次 CPU 空闲混淆.  （警告：最令人困惑和误解的指标之一）.
+Time to interactive is **the time it takes for the page to become fully interactive** (as in Main Thread quiet for 5s). Sometimes called Consistently Interactice and not to be confused with First Interactive or First CPU Idle. (Warning: one of the most confusing and misunderstood metrics).
 
-- 实验室：Lighthouse、WPT
-- 现场：不推荐，因为与您的页面交互的用户可能会扭曲 TTI 的现场测量
+- Lab: Lighthouse, WPT
+- Field: Not recommended as users interacting with your page can skew field measurements of TTI
 - [Docs - TTI - web.dev](https://web.dev/tti/)
 - [Spec - TTI - Lighthouse](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit)
 - [Blogpost - TTI](https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/)
 
 ### Total Blocking Time (TBT)
 
-Total Blocking Time (TBT) 度量标准测量 First Contentful Paint (FCP) 和 Time to Interactive (TTI) 之间的总时间量，其中主线程被阻塞的时间足够长以防止输入响应.
+The Total Blocking Time (TBT) metric measures the total amount of time between First Contentful Paint (FCP) and Time to Interactive (TTI) where the main thread was blocked for long enough to prevent input responsiveness.
 
-- 实验室：灯塔
-- 领域：不适用
+- Lab: Lighthouse
+- Field: N/A
 - [Docs - TBT - web.dev](https://web.dev/tbt/)
 
 ### First Input Delay (FID)
 
-首次输入延迟 (FID) 衡量**从用户首次与您的网站交互到浏览器实际能够响应**该交互的时间. 交互可以是用户单击链接、点击按钮或使用自定义的 JavaScript 驱动的控件.
+First Input Delay (FID) measures **the time from when a user first interacts with your site to the time when the browser is actually able to respond** to that interaction. An interaction can be when users click a link, tap on a button, or use a custom, JavaScript-powered control.
 
-- 实验室：N/A（因为它需要用户与页面交互）
-- 领域：IE9+（和 Safari、Chrome、Firefox）（带 polyfill - 0.4KB）
+- Lab: N/A (as it requires the user to interact with the page)
+- Field: IE9+ (and Safari, Chrome, Firefox) (with polyfill - 0.4KB)
 - [Docs - FID - web.dev](https://web.dev/fid/)
 - [Polyfill - FID](https://github.com/GoogleChromeLabs/first-input-delay)
 
 ### Max Potential First Input Delay
 
-最大潜力 [First Input Delay](#first-input-delay-fid) 您的用户可以体验到. 基本上等于最长的持续时间 [long task](#long-tasks) 在浏览器主线程上.
+The maximum potential [First Input Delay](#first-input-delay-fid) that your users could experience. Basically equals to the duration of the longest [long task](#long-tasks) on the browser Main Thread.
 
-- 实验室：灯塔
-- 领域：不适用
+- Lab: Lighthouse
+- Field: N/A
 - [Docs - Max Potential FID - web.dev](https://web.dev/lighthouse-max-potential-fid/)
 
 ---
 
 ## Network metrics
 
-网络时序字段数据可以揭示未优化的 TLS 设置、缓慢的 DNS 查找或服务器端处理以及 CDN 配置问题. 另请参阅有关测量的单独部分 [transferred bytes](#transferred-bytes).
+Network timing field data can uncover a non-optimized TLS setup, slow DNS lookups or server side processing and issues with CDN configuration. See also a separate section about measuring [transferred bytes](#transferred-bytes).
 
 - [Blogpost - Navigation and Resource Timing](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 - [Spec - Navigation Timing](https://www.w3.org/TR/navigation-timing-2/)
@@ -177,37 +177,37 @@ Total Blocking Time (TBT) 度量标准测量 First Contentful Paint (FCP) 和 Ti
 
 ### DNS latency
 
-- 实验室：DNS 性能测试工具
-- 领域：IE9+，Safari 9+
+- Lab: DNS performance testing tools
+- Field: IE9+, Safari 9+
 
 ```js
-// 测量 DNS 查找时间
-var pageNav = performance.getEntriesByType(&quot;导航&quot;)[0];
+// Measuring DNS lookup time
+var pageNav = performance.getEntriesByType("navigation")[0];
 var dnsTime = pageNav.domainLookupEnd - pageNav.domainLookupStart;
 ```
 
 ### TCP and SSL/TLS latency
 
-- 实验室：见 [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) 审计
-- 领域：IE9+，Safari 9+
+- Lab: See [Qualys SSL Labs](https://www.ssllabs.com/ssltest/index.html) for an audit
+- Field: IE9+, Safari 9+
 
 ```js
-// 量化总连接时间
-var pageNav = performance.getEntriesByType(&quot;导航&quot;)[0];
+// Quantifying total connection time
+var pageNav = performance.getEntriesByType("navigation")[0];
 var connectionTime = pageNav.connectEnd - pageNav.connectStart;
- var tlsTime = 0;  // &lt;-- 默认假设为 0
+var tlsTime = 0; // <-- Assume 0 by default
 
-// 是否发生了任何 TLS 事件？
-如果（pageNav.secureConnectionStart &gt; 0）{
-   // 惊人的！ 计算一下！
+// Did any TLS stuff happen?
+if (pageNav.secureConnectionStart > 0) {
+  // Awesome! Calculate it!
   tlsTime = pageNav.connectEnd - pageNav.secureConnectionStart;
 }
 ```
 
 ### Time to First Byte (TTFB)
 
-- 实验室：大多数服务器负载测试工具都报告了这一点
-- 领域：IE9+，Safari 9+
+- Lab: most server load testing tools report this
+- Field: IE9+, Safari 9+
 
 ```js
 var ttfb = pageNav.responseStart - pageNav.requestStart;
@@ -215,12 +215,12 @@ var ttfb = pageNav.responseStart - pageNav.requestStart;
 
 ### Transferred bytes
 
-您可以使用多种工具测量资产的字节重量. 您通常只会跟踪这些实验室，因为现场的数字通常相同（但请注意设备类型或地理位置特定页面）.
+You can measure the byte weight of your assets with a number of tools. You would normally track these Lab only as the numbers are usually the same in the Field (but be mindful of device type or geographical location specific pages).
 
-测量自己（和第三方）的 JavaScript 字节是至关重要的，因为 JavaScript 是高 [TTI](#time-to-interactive-tti) 或者 [FID](#first-input-delay-fid) 值.
+Measuring own (and third-party) JavaScript bytes is crucial as JavaScript is the main cause of high [TTI](#time-to-interactive-tti) or [FID](#first-input-delay-fid) values.
 
-- 实验室：Lighthouse（预算）、Sitespeed.io、自定义工具
-- 字段：N/A - 但数字通常与实验室中的数字相同
+- Lab: Lighthouse (budgets), Sitespeed.io, custom tools
+- Field: N/A - but numbers usually the same as in Lab
 - [Sitespeed.io PageXray](https://www.sitespeed.io/documentation/pagexray/)
 - [Lighthouse Performance Budgets](https://developers.google.com/web/tools/lighthouse/audits/budgets)
 - [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
@@ -236,28 +236,26 @@ var ttfb = pageNav.responseStart - pageNav.requestStart;
 - [What's in the Google PageSpeed score](https://medium.com/expedia-group-tech/whats-in-the-google-pagespeed-score-a5fc93f91e91)
 - [How Google Pagespeed works](https://calibreapp.com/blog/how-pagespeed-works/)
 
-
 ### User Timing
 
- User Timing API 允许开发人员创建特定于应用程序的时间戳，这些时间戳是浏览器性能时间线的一部分. 例如，您可以创建一个用户计时标记来测量您的 JS 何时为页面上的特定组件加载.
+The User Timing API allows the developer to create application specific timestamps that are part of the browser's performance timeline. e.g. you can create a user timing mark to measure when your JS has loaded for a specific component on the page.
 
-- 实验室：Lighthouse、WPT
-- 领域：IE 10+、Safari 11+（当然还有 Chrome、Firefox）
+- Lab: Lighthouse, WPT
+- Field: IE 10+, Safari 11+ (and Chrome, Firefox of course)
 - [Spec - User Timing](https://www.w3.org/TR/user-timing/)
 
 ### Server Timing
 
-在用户浏览器的开发人员工具或 PerformanceServerTiming 界面中显示任何后端服务器计时指标（例如数据库延迟等）.
+Surface any backend server timing metrics (e.g. database latency, etc.) in the developer tools in the user's browser or in the PerformanceServerTiming interface.
 
 - [Docs - Server Timing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)
 
-
 ### Frame rate
 
- 帧率是**浏览器可以显示帧的频率**. 一帧表示浏览器在一个事件循环迭代中所做的工作量，例如处理 DOM 事件、调整大小、滚动、渲染、CSS 动画等.60 fps（每秒帧数）的帧速率是一个好的目标的常见目标响应式用户体验. 这意味着浏览器应该在大约 16.7 毫秒内处理一个帧.
+ The frame rate is the **frequency at which the browser can display frames**. A frame represents the amount of work a browser does in one event loop iteration such as processing DOM events, resizing, scrolling, rendering, CSS animations, etc. A frame rate of 60 fps (frames per second) is a common target for a good responsive user experience. This means the browser should process a frame in about 16.7 ms.
 
-- 实验室：Chrome 和 FF Devtools
-- Field：还没有浏览器实现 Frame Timing API，但您可以使用 `requestAnimationFrame` 滚动您自己的 fps 计
+- Lab: Chrome and FF Devtools
+- Field: No browser implements the Frame Timing API yet but you can roll your own fps meter using `requestAnimationFrame`
 - [Docs - Frame Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Frame_Timing_API)
 - [Docs - Chrome Devtools - FPS](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/#analyze_frames_per_second)
 - [Docs - Firefox Developer Tools - Frame rate](https://developer.mozilla.org/en-US/docs/Tools/Performance/Frame_rate)
@@ -273,4 +271,4 @@ var ttfb = pageNav.responseStart - pageNav.requestStart;
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，Csaba Palfi 已放弃对本作品的所有版权和相关或邻接权.
+To the extent possible under law, Csaba Palfi has waived all copyright and related or neighboring rights to this work.
