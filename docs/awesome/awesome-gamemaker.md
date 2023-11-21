@@ -22,7 +22,7 @@
 ### Recommendations
 
 - If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
-- For pixel art, [AESprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
+- For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -313,8 +313,6 @@
 - [Smile](https://github.com/zbanack/smile) - Sentiment analysis.
 - [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine.
 - [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) - Accurate framework to make classic Sonic games.
-- [Dynamic Turn System](https://gentoogames.itch.io/turn-based-combat-system-for-gamemaker) - Great to use as a base for building turn based combat/gameplay.
-- [Isometric Tactical RPG Framework](https://gentoogames.itch.io/isometric-tactical-rpg-framework) - Provides starter assets to create an isometric board game. Dynamic Turn System is included.
 - [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
 - [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) - A script to generate starfields in GameMaker's GML language.
 - [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) - Antialiased primitives library for GameMaker.

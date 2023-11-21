@@ -29,6 +29,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 - [Designing an Engineering Strategy Post Series by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/designing-an-engineering-strategy) - How to build an engineering strategy from 0.
 - [Engineering strategy by Will Larson](https://lethain.com/engineering-strategy/) - What's an engineering strategy.
+- [Engineering strategy notes](https://lethain.com/strategy-notes/) - A collection of links on the topic gathered by Will Larson
 - [Defining a Tech Strategy by Sarah Taraporewalla](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy) - A high-level guideline on defining a tech strategy.
 - [Tech Strategy: You Need it, But What is it? by Nick Tune](https://medium.com/nick-tune-tech-strategy-blog/tech-strategy-you-need-it-but-what-is-it-af292421e422) - In-depth reflection of what is a tech strategy. 
 - [🗺🧭 Using Wardley Mapping to understand why Google made G. Appointments to compete in the Calendly market by Aleix Morgadas](https://learnings.aleixmorgadas.dev/p/-using-wardley-mapping-to-understand) - Using wardley mapping to understand google appointments.

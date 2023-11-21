@@ -115,6 +115,7 @@
 - [gsuuon/llm.nvim](https://github.com/gsuuon/llm.nvim) - Integrate LLM's via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 - [jpmcb/nvim-llama](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+- [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) - Generate text using LLMs (via Ollama) with customizable prompts.
 
 ## Programming Languages Support
 
@@ -244,6 +245,7 @@
 - [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) - E(x)tended commands missing in fzf.vim, a fzf-based fuzzy finder running on the dynamic engine that parsing user query and selection on every keystroke, with friendly features, good performance and maximized customization.
 - [echasnovski/mini.nvim#mini.pick](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 - [echasnovski/mini.nvim#mini.extra](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
+- [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 
 ## File Explorer
 
@@ -434,6 +436,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
 - [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
+- [linrongbin16/colorbox.nvim](https://github.com/linrongbin16/colorbox.nvim) - Ultra colors all-in-one! It weekly collect and update the most popurlar colorschemes, install them via git submodules instead of copy-paste source code, and allow you do any switches with multiple policies and timings.
 
 ## Bars and Lines
 
@@ -753,6 +756,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
+- [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap.
+- [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) - Spooky (Leap) actions at a distance.
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration.
 - [echasnovski/mini.nvim#mini.jump](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump.md) - Module of `mini.nvim` for smarter jumping to a single character.
 - [echasnovski/mini.nvim#mini.jump2d](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-jump2d.md) - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
@@ -873,6 +878,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [00sapo/visual.nvim](https://github.com/00sapo/visual.nvim) - Provides keybindings for creating a Kakoune/Helix-like experience: first select and then choose the editing command.
 - [chrisgrieser/nvim-puppeteer](https://github.com/chrisgrieser/nvim-puppeteer) - Automatically convert strings to f-strings or template strings and back.
 - [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) - Toggle booleans and common string values.
+- [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter-based structural search and replace.
 
 ### Comment
 

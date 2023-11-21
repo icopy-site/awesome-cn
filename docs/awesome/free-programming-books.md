@@ -173,7 +173,7 @@ This project lists books and other resources grouped by genres:
 
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md)
-+ [German](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-de.md)
++ [German / Deutsch](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ja.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-ru.md)
 
@@ -215,7 +215,7 @@ Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-zh.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds.md)
-+ [German](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-de.md)
++ [German / Deutsch](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-playgrounds-de.md)
 
 ## Translations
 
