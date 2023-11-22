@@ -408,8 +408,6 @@ Once issued, an invoice must be immutable.
 
 - [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
-- [Volcano](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
-
 - [InvoiceGenerator](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 
 - [Ruby Invoicing Framework](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.

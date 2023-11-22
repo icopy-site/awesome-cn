@@ -573,11 +573,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
 
 
-#### Coordination
-
-* [From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL](https://arxiv.org/pdf/2304.14656.pdf) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=12114270828108588849&hl=en&as_sdt=0,5)].
-
-
 #### Pointing & Pantomime
 
 * [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)]. The original paper on child pointing.
@@ -602,6 +597,11 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)].
 
 * [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
+
+
+#### Coordination
+
+* [From Explicit Communication to Tacit Cooperation: A Novel Paradigm for Cooperative MARL](https://arxiv.org/pdf/2304.14656.pdf) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=12114270828108588849&hl=en&as_sdt=0,5)].
 
 
 
