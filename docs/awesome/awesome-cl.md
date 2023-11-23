@@ -1046,7 +1046,7 @@ Others
 
 ### OpenAPI, OData, OpenRPC
 
-* [openapi-generator](https://codeberg.org/kilianmh/openapi-generator) - OpenAPI client code generator. [AGPL-3.0][51].
+* NEW! [openapi-generator](https://codeberg.org/kilianmh/openapi-generator) - OpenAPI client code generator. [AGPL-3.0][51].
   * Generation of OpenAPI ASDF/Quicklisp-loadable projects within one command,
   * Support for path, (arbitrary) query, (arbitrary) header, (json) content parameters,
   * Conversion of an OpenAPI spec into CLOS object -> explore API within inspector,
@@ -1701,6 +1701,11 @@ Security
 --------
 
 * [cl-isolated](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0][agpl3].
+
+System interface
+--------------------
+
+* [machine-state](https://github.com/Shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
 
 XML
 ---

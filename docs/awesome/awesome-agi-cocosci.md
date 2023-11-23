@@ -579,7 +579,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 
-#### Language Compositionality
+#### Emergence of Language
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***. A computational philosophy account on compositionality, one of the distinctive feature of language.
 
