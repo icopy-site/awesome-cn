@@ -541,6 +541,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 
+* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)]. The original paper on child pointing.
+
+
 
 #### Pragmatics
 
@@ -571,12 +574,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***Philosophical Studies***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257&hl=en&as_sdt=0,5)].
 
 * [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
-
-
-#### Pointing & Pantomime
-
-* [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)]. The original paper on child pointing.
-
 
 
 #### Emergence of Language
