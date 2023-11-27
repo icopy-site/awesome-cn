@@ -131,6 +131,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Azimutt](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+- [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
 
 ### Documentations
 - [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
@@ -398,6 +399,7 @@ Useful SQL-scripts for various purposes
 
 ### Compare
 - [data-diff](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
+- [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
 
 ## Papers
 Documents, articles, manifestos and other theoretical materials on database tools
