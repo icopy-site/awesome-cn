@@ -118,6 +118,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 - [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
     - [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The above program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
+- [cc-mek-scada](https://github.com/MikaylaFischler/cc-mek-scada) - Integral management of a Mekanism factory.
 
 ## Non-Lua programs
 

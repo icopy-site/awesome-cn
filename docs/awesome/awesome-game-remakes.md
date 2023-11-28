@@ -21,6 +21,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
 - [TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
+- [TR1X](https://github.com/LostArtefacts/TR1X) - Open source implementation of the classic Tomb Raider I game.
 
 ## Adventure
 - [engge](https://github.com/scemino/engge) - Experimental game engine for Thimbleweed Park.
