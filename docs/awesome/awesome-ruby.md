@@ -15,6 +15,24 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
+<div align="center">
+  <hr>
+  <sup><b>Sponsored by:</b></sup>
+  <br>
+  <br>
+  <a href="https://betterstack.com">
+    <div>
+      <img src="https://raw.githubusercontent.com/markets/awesome-ruby/master/media/sponsors/betterstack.png" width="200" alt="Better Stack">
+    </div>
+    <div>
+      Better Stack lets you see inside any stack,<br>
+      debug any issue, and resolve any incident.
+    </div>
+  </a>
+  <br>
+  <hr>
+</div>
+
 
 ## Admin Interface
 

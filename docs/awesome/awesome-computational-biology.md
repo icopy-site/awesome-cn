@@ -22,6 +22,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) - Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) - Database of lipids.
 - [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
+- [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) - Collections of drug repurposing data containing drug, moa, target etc.
 ### Pathway
 - [PathwayCommons](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 - [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
@@ -33,6 +34,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [THE HUMAN PROTEIN ATLAS](https://www.proteinatlas.org/) - One of the biggest human protein database contained cells, tissues, and organs. 
 - [PROTEIN DATA BANK](https://www.rcsb.org/) - Database of the 3D shapes of proteins, nucleic acids, and complex assemblies.
 - [UniProt](https://www.uniprot.org/) - The collection of functional information on proteins.
+- [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) - Database of 3D protein structures.
 ### Genome
 - [Human Genome Resources at NCBI](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) - Database of image, proteomics, transcriptomics and systems biology.
 - [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) - Database of genetic sequence offered by NCBI.
@@ -55,6 +57,10 @@ A knowledge collection of databases, software and papers related to computationa
 - Chemical Protein Interaction
   - [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
   - [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
+- Protein-Protein Interaction
+  - [STRING](https://string-db.org/) - Protein-Protein Interaction Networks for several organisms.
+  - [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
+  - [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 
 ## Preprocess
 

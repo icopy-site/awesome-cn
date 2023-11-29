@@ -1040,6 +1040,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [How Immersive Is Enough? A Meta-Analysis of the Effect of Immersive Technology on User Presence](https://stanfordvr.com/mm/2015/cummings-mp-how-immersive.pdf) - ***Media Psychology***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9218122072360464558&hl=en&as_sdt=0,5)]. A meta-analysis on the extent to which technologies need to be immersive in order to generate a sense of presence.
 
+* [Towards an Understanding of Distributed Asymmetric Collaborative Visualization on Problem-solving](https://ieeexplore.ieee.org/document/10108427) - ***VR'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11228377215337222005&hl=en&as_sdt=0,5)].
+
 
 
 ### Meta-Level Considerations
