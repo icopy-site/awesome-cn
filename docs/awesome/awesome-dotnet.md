@@ -107,6 +107,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
+* [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
 
 ## Blazor
 
@@ -120,31 +121,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [Nethermind](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
-## Books
-
-* [The Little ASP.NET Core Book](https://recaffeinate.co/book/) - A free, open-source, tutorial-based book aiming to provide a simple introduction to ASP.NET Core.
-* [.NET in Action, Second Edition](https://www.manning.com/books/dotnet-in-action-second-edition) - An introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. **[$]**
-* [.NET Maui in Action](https://www.manning.com/books/dot-net-maui-in-action) - A book about creating mobile and desktop apps using a common set of .NET tools. **[$]**
-* [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/asp-net-core-in-action-third-edition) - Build professional-grade full-stack web applications using C# and ASP.NET Core. **[$]**
-* [ASP.NET Core Razor Pages in Action](https://www.manning.com/books/asp-net-core-razor-pages-in-action) - A comprehensive guide to how to use Razor Pages to create dynamic websites that are easy to test and scale. **[$]**
-* [ASP.NET Core Security](https://www.manning.com/books/asp-net-core-security) - A practical and hands-on guide to securing web applications built with ASP.NET. **[$]**
-* [ASP.NET Core Web API](https://www.manning.com/books/asp-net-core-web-api) - A book about designing and implementing APIs using the REST and GraphQL standards. **[$]**
-* [Blazor in Action](https://www.manning.com/books/blazor-in-action) - A guide to building  UIs and client-side applications using C# and .NET. **[$]**
-* [Building Web APIs with ASP.NET Core](https://www.manning.com/books/building-web-apis-with-asp-net-core) - Practical beginner’s guide to creating your first web APIs using ASP.NET Core. **[$]**
-* [C# in Depth, Fourth Edition](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) - deep dive into the details of the C# language. **[$]**
-* [CLR via C#, Fourth Edition](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
-* [Code Like a Pro in C#](https://www.manning.com/books/code-like-a-pro-in-c-sharp) - Build on your existing programming skills and upskill to professional-level C# programming. **[$]**
-* [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-principles-practices-patterns) - teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. **[$]**
-* [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action) - teaches how to use Entity Framework Core, including lighter weight data access alternatives such as Dapper. **[$]**
-* [Functional Programming in C#, Second edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C# without the jargon and theory. **[$]**
-* [Microservices in .NET Core, Second edition](https://www.manning.com/books/microservices-in-net-core-second-edition) - A comprehensive guide to building microservice systems using the .NET stack. **[$]**
-* [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **[$]**
-* [Pro .NET Benchmarking](https://link.springer.com/book/10.1007/978-1-4842-4941-3) - Provides an in-depth look at software benchmarking for accurate performance measurement. Helps you get maximum performance impact by identifying and targeting the right bottlenecks. Includes coverage of the latest compilers and processors. **[$]**
-* [Pro .NET Framework with the Base Class Library](https://link.springer.com/book/10.1007/978-1-4842-4191-2) - Shows valuable tips and examples that reinforce the correct use of manage types, including how to avoid boxing/unboxing and better use of memory resources. **[$]**
-* [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4) - Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. **[$]**
-* [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1) - The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. **[$]**
-* [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8) - Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. **[$]**
-
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
@@ -155,6 +131,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
 
 ## Business Intelligence
 
@@ -769,6 +746,7 @@ metadata in media files, including video, audio, and photo formats
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
+* [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
 
 ## MVVM
 
@@ -938,6 +916,7 @@ metadata in media files, including video, audio, and photo formats
 ## Regular Expression
 
 * [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+* [Gigantor](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading. 
 
 ## Scheduling
 

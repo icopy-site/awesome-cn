@@ -434,6 +434,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Godot](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. [MIT]
 * [Grit](https://github.com/grit-engine/grit-engine) - Community project to build a free game engine for implementing open world 3D games. [MIT]
 * [Halley](https://github.com/amzeratul/halley) - A lightweight game engine written in C++14 with a "true" entity-component system. [Apache 2.0]
+* [JNGL](https://github.com/jhasse/jngl/) - 2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. [zlib] [website](https://bixense.com/jngl/)
 * [KlayGE](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. [GPLv2] [website](http://www.klayge.org/)
 * [nCine](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. [MIT] [website](https://ncine.github.io/)
 * [o3de](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. [Apache2] [website](https://o3de.org/)
@@ -611,6 +612,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [RapidJSON](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT] [website](https://rapidjson.org)
 * [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
 * [simdjson](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. [Apache-2.0]
+* [Sonic-Cpp](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD. [Apache-2.0]
 * [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson) - µjson is a a small, C++11, UTF-8, JSON library. [MIT]
 * [UltraJSON](https://github.com/ultrajson/ultrajson) - Ultra fast JSON decoder and encoder written in C. [BSD-3-Clause]
@@ -790,6 +792,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [libharu](https://github.com/libharu/libharu) - A free, cross platform, open-sourced software library for generating PDF. [zlib]
 * [MuPDF](https://mupdf.com/) - A lightweight PDF, XPS, and E-book viewer. [AGPL/Proprietary]
 * [PDF-Writer](https://github.com/galkahana/PDF-Writer) - High performance library for creating, modiyfing and parsing PDF files in C++ [Apache-2.0] [website](https://www.pdfhummus.com/)
+* [pdfio](https://github.com/michaelrsweet/pdfio) - A simple C library for reading and writing PDF files. [Apache-2] [website](https://www.msweet.org/pdfio/)
 * [PDFium](https://pdfium.googlesource.com/pdfium/) - PDF generation and rendering library. [BSD-3-Clause]
 * [PoDoFo](http://podofo.sourceforge.net/) - A library to work with the PDF file format. [LGPL]
 * [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. [GPLv2/GPLv3]
