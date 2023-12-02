@@ -14,7 +14,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/">Check out: Capgo — Live updates for capacitor</a></h2>
+<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
 </div>
 <br>
 
@@ -197,6 +197,7 @@ Independents plugins are listed here.
 - [Print](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
+- [Safe Area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
 - [Sentry](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.

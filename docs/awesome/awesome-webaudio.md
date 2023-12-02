@@ -78,7 +78,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
 - [Audio-motion interface](https://github.com/MaxAlyokhin/audio-motion-interface) - A web synthesizer that generates sound using smartphone gestures in the space.
 - [Topos](https://topos.raphaelforment.fr) - A Web based live coding environment inspired by the Monome Teletype. Uses Web Audio and MIDI.
-
+- [Online Sequencer](https://onlinesequencer.net) - A simple and easy-to-use sequencer with plenty of functionality, based around the Web Audio API.
 
 ## Resources
 
