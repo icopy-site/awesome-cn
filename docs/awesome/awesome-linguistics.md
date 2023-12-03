@@ -93,7 +93,6 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [DTA Basisformat](https://www.deutschestextarchiv.de/doku/basisformat/)
 * [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
 * [UIMA](https://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html)
-* [UIMA CAS XMI](https://uima.apache.org/d/uimaj-current/references.html#ugr.ref.xmi)
 
 ### Lists
 * [15 most popular books on good reads](https://www.goodreads.com/shelf/show/natural-language-processing)
