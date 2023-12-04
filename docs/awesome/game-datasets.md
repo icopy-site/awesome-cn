@@ -1,23 +1,29 @@
 <div class="github-widget" data-repo="leomaurodesenv/game-datasets"></div>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.   
+[![GitHub](https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=flat-square)](https://github.com/leomaurodesenv/game-datasets)
+[![CC-BY-4.0 license](https://img.shields.io/static/v1?label=License&message=CC-BY-4.0&color=blue&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/blob/master/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml)
 
-Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets _Han (2011)_.  
+In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.
 
-This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.  
+Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets _Han (2011)_.
 
-**Contributing**  
+This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.
 
-Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](https://github.com/leomaurodesenv/game-datasets/blob/master/CONTRIBUTING.md) and make a "pull request".  
-   
----
+**Contributing**
+
+Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](https://github.com/leomaurodesenv/game-datasets/blob/master/CONTRIBUTING.md) and make a "pull request".
+
+______________________________________________________________________
 
 
----
+
+______________________________________________________________________
+
 ## API
 
-API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).  
+API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).
 
 - [Battle.net](https://develop.battle.net/) - Collection of games developed by [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) - Stats, rankings, and progression of a player.
@@ -45,7 +51,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [Website](https://xboxapi.com/), [paper](https://doi.org/10.1145/1943552.1943569).
 
----
+______________________________________________________________________
+
 ## Artificial Intelligence
 
 - [AI Birds](http://aibirds.org) - Artificial intelligence competition.
@@ -103,7 +110,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [TapAI](https://github.com/leomaurodesenv/TapAI) - User interactions with a tap on screen game. [Play](http://projects.leonardomauro.com/tapai/).
 - [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 
----
+______________________________________________________________________
+
 ## Books
 
 - Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). _Games user research_. Oxford.
@@ -115,16 +123,19 @@ API is _"a set of functions and procedures allowing the creation of applications
 - Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
 - Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
 
----
+______________________________________________________________________
+
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
 - [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - Strategy games from the Apple App Store.
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for teams participating in the World Cup.
+- [320K Roblox App Google Store Reviews](https://www.kaggle.com/datasets/bwandowando/322k-roblox-app-google-store-reviews) - Google Store reviews of Roblox.
 - [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) - Real-world game data of guessing a number.
-- [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches. 
+- [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches.
 - [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
+- [Board Games Dataset](https://www.kaggle.com/datasets/sujaykapadnis/board-games) - Board Games Dataset from [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
 - [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
@@ -200,6 +211,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
 - [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - Questions about video games.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
+- [Steam Games Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset) - Dataset scraped from Steam search system.
 - [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 - [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - Information about 27,000 games scraped from Steam and SteamSpy APIs.
 - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) - Steam user interactions.
@@ -207,11 +219,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video games released.
 - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
 - [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from games.
+- [Video Games Data](https://www.kaggle.com/datasets/maso0dahmed/video-games-data) - Video games synopse.
 - [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) - Reviews on [JeuxVideo.com](http://www.jeuxvideo.com/).
 - [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019) - Sales and scores for games.
 - [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) - Global game revenue.
 
----
+______________________________________________________________________
+
 ## Market Research
 
 - [Euro-Monitor, Video Games](https://www.euromonitor.com/) - Strategic Market Researcher.
@@ -219,7 +233,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
 
----
+______________________________________________________________________
+
 ## Miscellaneous
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
@@ -240,7 +255,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Datasets.
 
----
+______________________________________________________________________
+
 ## License
 
 <a rel="license" href="LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>
