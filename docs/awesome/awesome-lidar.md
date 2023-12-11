@@ -65,9 +65,11 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
   - [GitHub organization :octocat:](https://github.com/aevainc)
 - [XenomatiX](https://www.xenomatix.com/) - XenomatiX offers true solid-state lidar sensors based on a multi-beam lasers concept. XenomatiX is headquartered in Leuven, Belgium.
   - [YouTube channel :red_circle:](https://www.youtube.com/@XenomatiXTruesolidstatelidar)
-- [MicroVision](https://microvision.com/) - A pioneer in MEMS-based laser beam scanning technology, the main focus is on building Automotive grade Lidar sensors
+- [MicroVision](https://microvision.com/) - A pioneer in MEMS-based laser beam scanning technology, the main focus is on building Automotive grade Lidar sensors, located in Hamburg, Germany.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/mvisvideo)
-  - GitHub organization :octocat:](https://github.com/MicroVision-Inc)
+  - [GitHub organization :octocat:](https://github.com/MicroVision-Inc)
+- [PreAct](https://www.preact-tech.com/) - PreAct's mission is to make life safer and more efficient for the automotive industry and beyond. The headquarter is located in Portland, Oregon, USA.
+  - [YouTube channel :red_circle:](https://www.youtube.com/@PreActTechnologies)
 
 ## Datasets
 

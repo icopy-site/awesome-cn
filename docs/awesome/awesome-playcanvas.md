@@ -94,7 +94,7 @@
 - [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
 - [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
 - [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
-- [Continental Marble Adventure](https://marble-adventure.continental.com/) - Marble game for Continental's 150 year anniversary.
+- [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 - [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
