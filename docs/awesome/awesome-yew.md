@@ -104,6 +104,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [rust-yew-axum-tauri-desktop](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 - [Yew PWA Minimal](https://github.com/fkohlgrueber/yew-pwa-minimal) - A minimal Progressive Web App using Yew.
 - [Yew HTTP Starter](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
+- [Yew minimlistic template](https://github.com/averichev/yew-starter-template) - A minimalistic template for quickly starting a project on yew.
 
 ## Crates
 
