@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/desiderantes/awesome-vala/master/vala.svg?sanitize=true" align="right" width="100">](https://vala.dev)
 
-Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不强加额外的运行时要求，依靠 GLib 和 GObject.
+A curated list of resources for Vala - A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
 
 
 
@@ -11,102 +11,102 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 ### Cryptography & Security
 
-- [Integrity Check](https://gitlab.com/vinarisoftware/integrity-check-gtk) - 用 Vala 和 GTK 编写的 Linux 应用程序，旨在获取文件的验证总和（MD5、SHA1、SHA256）并与文件创建者提供的验证总和进行比较.
+- [Integrity Check](https://gitlab.com/vinarisoftware/integrity-check-gtk) -  Linux application written in Vala and GTK, designed to get the verification sum of a file (MD5, SHA1, SHA256) and compare to the sum of verification provided by the file creator.
 
 ### Design Tools
 
-- [Akira](https://github.com/akiraux/Akira) - 在 Vala 和 GTK 中构建的用于 UI 和 UX 设计的原生 Linux 应用程序.
-- [Birdfont](https://github.com/johanmattssonm/birdfont) - 用于创建 TTF、EOT、SVG 和 BIRDFONT 格式字体的字体编辑器.
+- [Akira](https://github.com/akiraux/Akira) -  Native Linux App for UI and UX Design built in Vala and GTK.
+- [Birdfont](https://github.com/johanmattssonm/birdfont) - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
 
-- [GitG](https://gitlab.gnome.org/GNOME/gitg) - 图形用户界面 [git](https://git-scm.com/).
-- [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - 使用 GTK 3 GUI 管理 LAMP 服务.
+- [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
+- [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
 ### Games
 
-- [GameHub](https://github.com/tkashkin/GameHub) - 适用于所有游戏的统一库.
-- [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - GNOME 桌面的复古游戏应用程序.
-- [Sage](https://github.com/antolius/sage) - 为 elementary OS 制作的密码破解游戏.
-- [Warble](https://github.com/avojak/warble) - 在 Vala 和 Gtk 中为 elementary OS 构建的原生 Linux 猜字游戏.
+- [GameHub](https://github.com/tkashkin/GameHub) - A unified library for all your games.
+- [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
+- [Sage](https://github.com/antolius/sage) - A code breaking game made for elementary OS.
+- [Warble](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
 
 ### Internet Browsers
 
-- [Starfish](https://github.com/starfish-app/Starfish) - 适用于 elementary OS 的 Gemini 浏览器.
+- [Starfish](https://github.com/starfish-app/Starfish) - A Gemini browser for elementary OS.
 
 ### Music
 
-- [g4music](https://gitlab.gnome.org/neithern/g4music) - 用 GTK4 编写的漂亮、快速、流畅、轻量级的音乐播放器.
+- [g4music](https://gitlab.gnome.org/neithern/g4music) - A beautiful, fast, fluent, light weight music player written in GTK4.
 
 ### Personalization
 
-- [Korembi](https://github.com/cheesecakeufo/komorebi) - 用于 Linux 的漂亮且可自定义的壁纸管理器.
+- [Korembi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-- [Annotator](https://github.com/phase1geo/Annotator) - 注释图像以便更好地交流.
-- [Badger](https://github.com/elfenware/badger) - 提醒自己不要坐着盯着屏幕看太久.
-- [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - 漂亮的 GTK 4 终端.
-- [Dino](https://github.com/dino/dino) - 使用 GTK+/Vala 的现代 Jabber/XMPP 客户端.
-- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 免费番茄钟.
-- [geary](https://gitlab.gnome.org/GNOME/geary) - Geary 是一个围绕对话构建的电子邮件应用程序，适用于 GNOME 3 桌面.
-- [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - GNOME 桌面的计算器应用程序.
-- [graphui](https://github.com/artemanufrij/graphui) - 基于 graphviz 的图形可视化.
-- [Ideogram](https://github.com/cassidyjames/ideogram) - 表情符号选择器应用程序.
-- [Minder](https://github.com/phase1geo/Minder) - 思维导图应用程序.
-- [Notejot](https://github.com/lainsce/notejot) - 非常简单的笔记应用程序.
-- [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown 笔记编辑器和管理器.
-- [Outliner](https://github.com/phase1geo/Outliner) - 轻松写大纲.
-- [Paper](https://gitlab.com/posidon_software/paper/) - 在 Markdown 中记笔记.
-- [pdfpc](https://github.com/pdfpc/pdfpc) - 具有 PDF 文件多显示器支持的 GTK 演示器应用程序.
-- [Planner](https://github.com/alainm23/planner) - 为 GNU/Linux 设计的具有 Todoist 支持的任务管理器.
-- [Spice-up](https://github.com/Philip-Scott/Spice-up) - 适用于现代 Linux 桌面的演示应用程序.
-- [TextShine](https://github.com/phase1geo/TextShine) - 转换和操作文本.
-- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - 轻松复制图像中的文本.
+- [Annotator](https://github.com/phase1geo/Annotator) - Annotate images for better communication.
+- [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
+- [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
+- [Dino](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+- [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
+- [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
+- [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
+- [graphui](https://github.com/artemanufrij/graphui) - Graph Visualization based on graphviz.
+- [Ideogram](https://github.com/cassidyjames/ideogram) -  Emoji Picker app.
+- [Minder](https://github.com/phase1geo/Minder) - Mind-mapping application.
+- [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
+- [Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager.
+- [Outliner](https://github.com/phase1geo/Outliner) - Write outlines easily.
+- [Paper](https://gitlab.com/posidon_software/paper/) - Take notes in Markdown.
+- [pdfpc](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
+- [Planify](https://github.com/alainm23/planify) - Task manager with Todoist support designed for GNU/Linux.
+- [Spice-up](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
+- [TextShine](https://github.com/phase1geo/TextShine) - Convert and manipulate text.
+- [TextSnatcher](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ### System Tools
 
-- [Connections](https://gitlab.gnome.org/GNOME/connections) - GNOME 桌面环境的远程桌面客户端.
-- [elementary OS App Center](https://github.com/elementary/appcenter) - elementary OS 的 Pay-what-you-can 应用商店.
-- [Man Helper](https://github.com/akarin123/manhelper) - 用于手册页的轻量级 GTK 前端.
-- [Monitor](https://github.com/stsdc/monitor) - 管理进程和监控系统资源.
-- [Peek](https://github.com/phw/peek) - 简单的动画 GIF 屏幕录像机，界面易于使用.
-- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) - 一个简单的基于 GTK 的 SwayWM 通知守护进程.
+- [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
+- [elementary OS App Center](https://github.com/elementary/appcenter) - Pay-what-you-can app store for elementary OS.
+- [Man Helper](https://github.com/akarin123/manhelper) -  A lightweight GTK front-end for man pages.
+- [Monitor](https://github.com/stsdc/monitor) - Manage processes and monitor system resources.
+- [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
+- [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) - A simple GTK based notification daemon for SwayWM.
 
 ### Virtualization
 
-- [GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - 用于访问虚拟机的简单 GNOME 3 应用程序.
+- [GNOME Boxes](https://gitlab.gnome.org/GNOME/gnome-boxes) - A simple GNOME 3 application to access virtual machines.
 
 ### Weather
 
-- [Meteo](https://gitlab.com/bitseater/meteo) - 使用 OpenWeatherMap API 的 GTK 天气应用程序.
+- [Meteo](https://gitlab.com/bitseater/meteo) - GTK Weather app using the OpenWeatherMap API.
 
 ## CLI Tools
 
-- [EasyDocs](https://github.com/watsonprojects/EasyDocs) - 快速阅读开发者文档.
-- [Spider](https://github.com/colinkiama/spider) - 快速生成 HTML5 站点结构.
-- [Valdo](https://github.com/vala-lang/valdo) - 从模板创建新的 Vala 项目.
+- [EasyDocs](https://github.com/watsonprojects/EasyDocs) -  Quickly read developer documentation.
+- [Spider](https://github.com/colinkiama/spider) - Quickly generate a HTML5 site structure.
+- [Valdo](https://github.com/vala-lang/valdo) - Create new Vala projects from templates.
 
 ## Editor Plugins
 
-- [Vala VSCode](https://github.com/vala-lang/vala-vscode) - Visual Studio Code 的插件，可为 Vala 启用基本的自动完成和语法突出显示.
-- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) - 提供 Vala 语法高亮、代码完成等功能的 TextMate 包.Sublime Text 3 也可以使用此插件.
-- [language-vala-modern](https://atom.io/packages/language-vala-modern)  - 在 Atom 中提供 Vala 语言支持. 它是未维护的“language-vala 包”的一个分支.
-- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - 提供语法高亮显示的 Sublime Text 3 基本插件.
+- [Vala VSCode](https://github.com/vala-lang/vala-vscode) - A plugin for Visual Studio Code that enables basic autocompletion and syntax highlighting for Vala.
+- [Vala-TMBundle](https://github.com/technosophos/Vala-TMBundle) - A TextMate bundle that provides Vala syntax highlighting, code completion, etc. Sublime Text 3 can also use this plugin.
+- [language-vala-modern](https://atom.io/packages/language-vala-modern) - Provides Vala language support in Atom. It's a fork of the unmaintained "language-vala package".
+- [Vala Syntax 4 Sublime Text](https://launchpad.net/valasyntax4sublimetext) - A basic plugin for Sublime Text 3 that provides syntax highlighting.
 
 ## Language Servers
 
-- [vala-language-server](https://github.com/vala-lang/vala-language-server) - 一种语言服务器，旨在根据语言服务器规范提供代码完成、格式化、语法突出显示和其他所有功能.
+- [vala-language-server](https://github.com/vala-lang/vala-language-server) - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ## Libraries
 
 ### Command-line
 
-- [console-command](https://github.com/naaando/console-command) - 将命令行参数路由到命令模式对象的库，当前实现包括通过继承或使用闭包进行扩展.
+- [console-command](https://github.com/naaando/console-command) - Library to route command-line arguments to a Command pattern object, current implementation covers extension by inheritance or using closures.
 
 ### Concurrency
 
-- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - Vala 和 GObject 的并行库.
+- [gpseq](https://gitlab.com/kosmospredanie/gpseq) - A parallelism library for Vala and GObject.
 
 ### Cryptography & Security
 
@@ -114,59 +114,59 @@ Vala 的精选资源列表 - 一种使用现代高级抽象的编程语言，不
 
 ### Data Structures & Data Types
 
-- [Graphene](https://github.com/ebassi/graphene)  - 用于图形库的薄层类型. 它提供处理 3D 变换所需的常见类型：点、三角形、矩形、四边形、四元数、向量、矩阵、球体等.
-- [Libgee](https://wiki.gnome.org/Projects/Libgee) - 为常用数据结构（列表、映射、队列、树等）提供基于 GObject 的接口和类的实用程序库.
-- [Numeric-GLib](https://github.com/arteymix/numeric-glib)  - 通过 GCC 扩展为 GLib（和 Vala）提供的数字数据类型集合. 它包括 128 位整数和浮点数、复杂类型、向量化运算和小数类型.
-- [United](https://github.com/lcallarec/united) - 用于单位操作的库（如千克、米等）.
-- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - 一组用于 Vala 的实用程序库，添加：文本流处理（输入和输出）、JSON 序列化和反序列化，以及存档压缩和提取.
+- [Graphene](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+- [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
+- [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
+- [United](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
+- [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - A set of utility libraries for Vala that add: Text stream handling (input and output), JSON serialization and deserialization, and, Archive compression and extraction.
 
 ### Databases
 
-- [Almanna ORM](https://github.com/AmbitionFramework/almanna) - 用于 Vala/GLib 的 Almanna ORM.
+- [Almanna ORM](https://github.com/AmbitionFramework/almanna) -  The Almanna ORM for Vala/GLib.
 
 ### Graphics Libraries
 
-- [Babl](http://gegl.org/babl/) - 一个动态的、任意到任意的像素格式翻译库.
-- [Cairo](https://cairographics.org/)  - 支持多种输出设备的 2D 图形库. 这几乎是您在 Vala 中获得的默认库.
-- [GEGL](http://gegl.org/)  - 基于数据流的图像处理框架，提供浮点处理和无损图像处理能力. 将其视为“图像的反应式编程”.
-- [GRX](https://github.com/ev3dev/grx)  - 用于简单图形显示的图形库（想想 1 位显示器或 Adafruit 的 PiTFT 显示器）. 它还包括键盘、鼠标、操纵杆和触摸屏输入支持.
-- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG 致力于提供 W3C 标准 API 的 GLib GObject 实现.
-- [live-chart](https://github.com/lcallarec/live-chart) - 基于 Cairo 的 Vala 和 GTK3 实时图表库.
-- [SDL2](https://www.libsdl.org/)  - 一个跨平台开发库，旨在通过 OpenGL、Direct3D 和 Vulkan 提供对音频、键盘、鼠标、操纵杆和图形硬件的低级访问. 绑定包含在 Vala 中，将从 Vala 0.52 开始可用.
+- [Babl](http://gegl.org/babl/) - A dynamic, any to any, pixel format translation library.
+- [Cairo](https://cairographics.org/) - A 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
+- [GEGL](http://gegl.org/) - A data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
+- [GRX](https://github.com/ev3dev/grx) - A graphics library for simple graphics displays (think 1-bit displays or Adafruit's PiTFT displays). It also includes keyboard, mouse, joystick and touchscreen input support.
+- [GSVG (GObject SVG Library)](https://gitlab.com/gsvg/gsvg) - GSVG is an effort to provide a GLib GObject implementation of W3C standard API.
+- [live-chart](https://github.com/lcallarec/live-chart) - A real-time charting library for Vala and GTK3 based on Cairo.
+- [SDL2](https://www.libsdl.org/) - A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL, Direct3D, and Vulkan. Bindings are included in Vala and will be available starting with Vala 0.52.
 
 ### GUI Programming
 
-- [GTK](https://www.gtk.org/)  - Vala 中用于 GUI 开发的事实上的库. 绑定包含在 vala 编译器中.
+- [GTK](https://www.gtk.org/) - The de facto library for GUI development in Vala. Bindings are included with the vala compiler.
 
 ### IoC and Dependency Injection
 
-- [Vadi](https://github.com/nahuelwexd/Vadi) - 为方便 Vala 开发人员使用依赖注入而开发的 IoC 容器.
+- [Vadi](https://github.com/nahuelwexd/Vadi) - An IoC Container developed in order to facilitate the usage of dependency injection for Vala developers.
 
 ### Multimedia Processing
 
-- [GStreamer](http://gstreamer.freedesktop.org/) - 用于创建多媒体应用程序的强大框架.
+- [GStreamer](http://gstreamer.freedesktop.org/) - A powerful framework for creating multimedia applications.
 
 ### Numerical Computation
 
-- [balistica](https://github.com/fusilero/libbalistica)  - 一个开源弹道模拟库. 有一个完整的计算器 [here](https://github.com/fusilero/balistica).
-- [vast](https://github.com/rainwoodman/vast)  - Vala 中的生成建模项目. 想想用 Vala 重写的 TensorFlow.
+- [balistica](https://github.com/fusilero/libbalistica) - An open source ballistic simulation library. There's a complete calculator [here](https://github.com/fusilero/balistica).
+- [vast](https://github.com/rainwoodman/vast) - A project for generative modeling in Vala. Think of TensorFlow rewritten in Vala.
 
 ### Templating
 
-- [Compose](https://github.com/arteymix/compose) - Vala 的功能模板库.
-- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - 模板扩展库，支持从模板调用 GObject Introspection.
+- [Compose](https://github.com/arteymix/compose) - A functional templating library for Vala.
+- [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
 
 ### Text Processing
 
-- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - libcmark 的 Vala 绑定，C 中的 CommonMark 解析和渲染库.
+- [libcmark-vapi](https://github.com/fabrixxm/libcmark-vapi) - Vala bindings for libcmark, the CommonMark parsing and rendering library in C.
 
 ### Web Development
 
-- [Ambition](https://github.com/AmbitionFramework/ambition)  - 用 Vala 编写的 Web 框架，考虑了 MVC 模式. 有点无人维护（有人可以重构它以在引擎盖下使用 Valum，并可能将其移至 Meson ）.
-- [Valum](https://github.com/valum-framework/valum) - 一个完全用 Vala 编写的 Web 微框架.
+- [Ambition](https://github.com/AmbitionFramework/ambition) - A web framework written in Vala, with the MVC pattern in mind. Kinda unmaintained (someone could refactor it to use Valum under the hood, and maybe move it to Meson 😉).
+- [Valum](https://github.com/valum-framework/valum) - A Web micro-framework entirely written in Vala.
 
 ### XML & Data Serialization
 
-- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - 用于操作 XML 的 GObject API 和从 GObject 到 XML 的可序列化框架.
-- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - 使用 GLib 和 GObject 实现完整的 JSON 解析器和生成器，并将 JSON 与 GLib 数据类型集成.
+- [GXML](https://gitlab.gnome.org/GNOME/gxml/) - A GObject API for manipulating XML and a Serializable framework from GObject to XML.
+- [Json-GLib](https://gitlab.gnome.org/GNOME/json-glib/) - Implements a full JSON parser and generator using GLib and GObject, and integrates JSON with GLib data types.
 - [libyaml-glib](https://github.com/rainwoodman/libyaml-glib) - The GLib binding of libyaml, plus a GObject builder that understands YAML.
