@@ -263,12 +263,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ## Containers
 
 * [C++ B-tree](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
-* [Colony](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] [website](http://www.plflib.org/colony.htm)
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) - A C++17 header-only dynamic bitset. [MIT]
 * [Hashmaps](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
 * [PGM-index](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. [Apache2] [website](https://pgm.di.unipi.it)
+* [plf::colony](https://github.com/mattreecebentley/plf_colony) - An unordered "bag"-type container which outperforms std containers in high-modification scenarios while maintaining permanent pointers to non-erased elements regardless of insertion/erasure. [zLib] [website](http://www.plflib.org/colony.htm)
 * [plf::list](https://github.com/mattreecebentley/plf_list) - A std::list implementation which removes range splicing in order to enable cache-friendlier structure, yielding significant performance gains. [zLib] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack) - A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context. [zLib] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring_span implementation ie. a circular buffer view. [MIT]
@@ -901,6 +901,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
 * [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](https://v8.dev) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
+* [v8pp](https://github.com/pmed/v8pp) - Header-only library to expose C++ classes and functions into V8 to use them in JavaScript code. [BOOST] [website](https://pmed.github.io/v8pp/)
 * [ChakraCore](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]
 
 ## Serialization

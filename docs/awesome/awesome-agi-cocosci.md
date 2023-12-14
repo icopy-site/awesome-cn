@@ -1224,6 +1224,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Democratization of Science
 
+* [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592&hl=en&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
+
 * [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)]. [[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
 
 * [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501&hl=en&as_sdt=0,5)].
@@ -1275,8 +1277,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
 
 * [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***Transactions on Knowledge and Data Engineering***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369&hl=en&as_sdt=0,10)].
-
-* [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592&hl=en&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 
 
 
