@@ -573,7 +573,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [When Lingens meets Frege: communication without common ground](https://link.springer.com/article/10.1007/s11098-020-01490-3) - ***Philosophical Studies***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=10912415595149303257&hl=en&as_sdt=0,5)].
 
-* [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)].
+* [Language as shaped by the environment: linguistic construal in a collaborative spatial task](https://www.nature.com/articles/s41599-020-0404-9.pdf) - ***Nature Humanities and Social Sciences Communications***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7842508027049437987&hl=en&as_sdt=0,5)]. [[Code & Data](https://osf.io/sxtaq)].
 
 * [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733&hl=en&as_sdt=0,5)]. [[OSMnx Tool](https://github.com/gboeing/osmnx)]. [[OpenStreetMap Website](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/ https://www.openstreetmap.org/)].
 
