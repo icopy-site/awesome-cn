@@ -47,13 +47,14 @@
 ### Productivity and Time
 
 - [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
-- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
+- [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
 - [Teleprompter](https://github.com/Nokse22/teleprompter) - Simple application to read scrolling text from your screen.
 - [Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
+- [Planify](https://github.com/alainm23/planify) - Project and task manager with Todoist support.
 
 ### Well Being
 
@@ -79,6 +80,7 @@
 - [Clapper](https://github.com/Rafostar/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Decibels](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
+- [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
 
 ### Graphics
 

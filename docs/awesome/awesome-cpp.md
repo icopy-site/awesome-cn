@@ -312,6 +312,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [csv2](https://github.com/p-ranav/csv2) - Fast CSV parser for modern C++. [MIT]
 * [Csv::Parser](https://github.com/ashaduri/csv-parser) - Compile-time and runtime CSV parser written in C++17. [Zlib]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
+* [Glaze](https://github.com/stephenberry/glaze) - High performance, header only, CSV library with reflection support. [MIT]
 * [lazycsv](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. [MIT]
 * [ssp](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. [MIT]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
@@ -1002,6 +1003,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - Cool cheat sheets and infographics for algorithms, views, containers, randomness, etc.
 * [Concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. [MIT] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
+* [CSerialPort](https://github.com/itas109/CSerialPort) - lightweight cross-platform serial port library. [LGPL3]
 * [date](https://github.com/HowardHinnant/date) - A date and time library based on the C++11/14/17 <chrono> header. [MIT] [website](https://howardhinnant.github.io/date/date.html)
 * [D++ (DPP)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] [website](https://dpp.dev)
 * [DuckX](https://github.com/amiremohamadi/DuckX) - C++ library for creating and modifying Microsoft Word (.docx) files. [MIT]
