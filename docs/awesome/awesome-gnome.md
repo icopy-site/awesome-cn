@@ -32,6 +32,9 @@
 - [Cawbird](https://ibboard.co.uk/cawbird/) - Twitter client.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - `yt-dlp` graphical fronted.
+- [Geopard](https://ranfdev.com/projects/geopard/) - Colorful Gemini client.
+- [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
+- [Dino](https://dino.im/) - XMPP Client.
 
 ### Office
 
@@ -81,6 +84,8 @@
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Decibels](https://github.com/vixalien/decibels) - Simple music player with waveform view. ![GNOME Circle][GNOME Circle]
 - [Aviator](https://github.com/gianni-rosato/aviator) - Utility for encoding with SVT-AV1 & Opus.
+- [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
+- [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 
 ### Graphics
 
@@ -126,8 +131,8 @@
 - [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
 - [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
 - [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
-- [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
 - [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
+- [Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 - [Catfish](https://launchpad.net/catfish-search) - Simple search application.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
