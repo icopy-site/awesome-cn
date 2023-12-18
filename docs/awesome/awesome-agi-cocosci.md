@@ -579,6 +579,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Exploring Urban Form Through Openstreetmap Data: A Visual Introduction](https://arxiv.org/abs/2008.12142) - ***Urban Experience and Design: Contemporary Perspectives on Improving the Public Realm***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7094530618542001733&hl=en&as_sdt=0,5)]. [[OSMnx Tool](https://github.com/gboeing/osmnx)]. [[OpenStreetMap Website](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/ https://www.openstreetmap.org/)].
 
+* [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544&hl=en&as_sdt=0,5)].
+
 
 #### Emergence of Language
 
