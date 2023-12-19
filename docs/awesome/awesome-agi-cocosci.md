@@ -581,6 +581,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Saying what you mean in dialogue: A study in conceptual and semantic co-ordination](https://www.speech.kth.se/~edlund/bielefeld/references/garrod-and-anderson-1987.pdf) - ***Cognition***, 1987. [[All Versions](https://scholar.google.com/scholar?cluster=15377075954534820544&hl=en&as_sdt=0,5)].
 
+* [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700&hl=en&as_sdt=0,5)].
+
 
 #### Emergence of Language
 
