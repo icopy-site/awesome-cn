@@ -911,6 +911,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game scripting. [MIT] [website](https://pocketpy.dev/)
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python. [BSD]
+* [QuickJS](https://bellard.org/quickjs/) - a small and embeddable Javascript engine. [MIT]
 * [SIP](https://riverbankcomputing.com/software/sip/intro) - C or C++ Bindings Generator for Python v2 and v3. [GPL]
 * [sol2](https://github.com/ThePhD/sol2) - A C++ <-> Lua API wrapper with advanced features and top notch performance. [MIT]
 * [SWIG](https://github.com/swig/swig) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed] [website](http://www.swig.org/)
@@ -931,6 +932,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers) - A Memory efficient serialization library. [Apache2]
 * [Kaitai Struct](http://kaitai.io) - A declarative language to describe various binary data structures and a compiler to generate C++ parser code. [GPLv3+][MIT][Apache2]
+* [iguana](https://github.com/qicosmos/iguana) - a modern, universal and easy-to-use serialization engine developed in C++20 and C++17. [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
 * [mrpt-serialization](https://github.com/mrpt/mrpt/) - Versioned serialization to binary or text formats. [BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 * [nanopb](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. [Zlib]

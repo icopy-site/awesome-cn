@@ -61,6 +61,8 @@ Digital [archiving](https://en.wikipedia.org/wiki/Archival_science) and [preserv
 
 _Related: [Content Management Systems (CMS)](#content-management-systems-cms)_
 
+_See also: [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving)_
+
 - [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source Code](https://github.com/artefactual/atom)) `AGPL-3.0` `PHP`
 - [ArchiveBox](https://archivebox.io/) - Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code](https://github.com/ArchiveBox/ArchiveBox)) `MIT` `Python/Docker`
 - [Archivematica](https://www.archivematica.org/en/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](https://sandbox.archivematica.org/administration/accounts/login/), [Source Code](https://github.com/artefactual/archivematica)) `AGPL-3.0` `Python`
@@ -228,7 +230,6 @@ _See also: [Comparison of CalDAV and CardDAV implementations - Wikipedia](https:
 [Communication software](https://en.wikipedia.org/wiki/Communication_software) used to provide remote access to systems and exchange files and messages in text, audio and/or video formats between different computers or users, using their own custom protocols.
 
 - [Apprise](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker/deb`
-- [BluetoothCommunicatorExample](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 - [Centrifugo](https://centrifugal.dev/) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo), [Source Code](https://github.com/centrifugal/centrifugo)) `MIT` `Go/Docker/K8S`
 - [Chatwoot](https://www.chatwoot.com) - Self-hosted customer communication platform (alternative to Intercom & Zendesk). ([Source Code](https://github.com/chatwoot/chatwoot)) `MIT` `Ruby/Docker/K8S`
 - [Chitchatter](https://chitchatter.im/) - A peer-to-peer chat app that is serverless, decentralized, and ephemeral. ([Source Code](https://github.com/jeremyckahn/chitchatter)) `GPL-2.0` `Nodejs`
@@ -606,6 +607,7 @@ _Related: [Analytics](#analytics), [Automation](#automation)_
 _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 
 - [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code](https://github.com/vrana/adminer/)) `Apache-2.0/GPL-2.0` `PHP`
+- [Azimutt](https://azimutt.app) - Visual database exploration made for real world databases (big and messy). Explore your database schema as well as data, document them, extend them and even get analysis and guidelines. ([Demo](https://azimutt.app/gallery/gospeak), [Source Code](https://github.com/azimuttapp/azimutt)) `MIT` `Elixir/Nodejs/Docker`
 - [Baserow](https://baserow.io/) - Create your own database without technical experience (alternative to Airtable). ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Docker`
 - [Bytebase](https://www.bytebase.com/) - Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ([Demo](https://demo.bytebase.com), [Source Code](https://github.com/bytebase/bytebase)) `MIT` `Docker/K8S/Go`
 - [Chartbrew](https://chartbrew.com) - Web application that can connect directly to databases and APIs and use the data to create beautiful charts. ([Demo](https://app.chartbrew.com/live-demo), [Source Code](https://github.com/chartbrew/chartbrew)) `MIT` `Nodejs/Docker`
@@ -618,6 +620,7 @@ _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 - [Mathesar](https://mathesar.org/) - An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres – connect an existing DB or set up a new one. ([Demo](https://demo.mathesar.org/), [Source Code](https://github.com/centerofci/mathesar)) `GPL-3.0` `Docker/Python`
 - [MindsDB](https://mindsdb.com/) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ([Source Code](https://github.com/mindsdb/mindsdb)) `GPL-3.0` `Docker/Python`
 - [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ([Source Code](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs/Docker`
+- [WebDB](https://webdb.app) - Efficient database IDE. ([Demo](https://demo.webdb.app/), [Source Code](https://gitlab.com/web-db/app)) `AGPL-3.0` `Docker`
 
 
 ### DNS

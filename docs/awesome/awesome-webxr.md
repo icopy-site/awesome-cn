@@ -128,6 +128,8 @@
 
 - [nunuStudio](https://www.nunustudio.org/) - A multiplatform, open-source engine built on three.js that can be used natively or in the browser.
   - [Official Documentation](https://www.nunustudio.org/docs/)
+ 
+- [Onirix Studio](https://www.onirix.com/) - A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible.
 
 - [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
   - [Official Documentation](https://developer.playcanvas.com/en/)
@@ -151,6 +153,8 @@
   - [Official Documentation](https://doc.babylonjs.com/)
 
 - [JanusWeb](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+
+- [JSAR-DOM](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
 - [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 

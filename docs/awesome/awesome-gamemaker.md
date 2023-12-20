@@ -13,9 +13,9 @@
 
 ## Getting Started
 
-- [GameMaker Manual](https://manual.yoyogames.com/#t=Content.htm)
+- [GameMaker Manual](https://manual.gamemaker.io/)
 - [GameMaker Release Notes](https://gms.yoyogames.com/ReleaseNotes.html)
-- [GameMaker Marketplace](https://marketplace.yoyogames.com/)
+- [GameMaker Marketplace](https://marketplace.gamemaker.io/)
 - [Beginner GameMaker Tutorials](https://www.youtube.com/watch?v=nBCDzE9MDbk&list=PLPRT_JORnIur4v19PHXCtJ5P05vaokFdP) - Tutorials from Shaun Spalding. A comprehensive introduction to basic features of the IDE. Highly recommended to check out the full playlist if you're a complete beginner. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Advanced GameMaker Tutorials](https://www.youtube.com/watch?v=n8-MuIuOQFE&list=PL_hT--4HOvrfuDcYrTufdpgwoALAczPR2) - Tutorials from DragoniteSpam that dive into more advanced topics related to the GML language. They also have comprehensive 3D and shader introduction videos. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 
@@ -23,6 +23,7 @@
 
 - If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 - For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
+  - [Aseprite's source code](https://github.com/aseprite/aseprite) can be compiled for free.
 - Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 - Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -114,7 +115,7 @@
 ## User Interface
 
 - [Scribble](https://github.com/JujuAdams/scribble) - Efficient multi-effects text renderer.
-- [Scripture](https://pixelatedpope.itch.io/scripture) - Another easy to use, highly compatible text renderer. 💸
+- [Scripture](https://pixelatedpope.itch.io/scripture) - Another easy to use, highly compatible text renderer.
 - [Chatterbox](https://github.com/JujuAdams/chatterbox) - Narrative scripting tool.
 - [Textboxy](https://github.com/glitchroy/textboxy) - Simple textboxes.
 - [Crochet](https://github.com/FaultyFunctions/Crochet) - An interactive dialogue editor for writers and programmers.
@@ -126,15 +127,15 @@
 - [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 - [Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
 - [Pause Menu](https://jasontomlee.itch.io/pause-menu-gamemaker-1-2) - Another smaller implementation but has a cool animation between menu options.
-- [Shampoo](https://zackbanack.itch.io/shampoo) - GUIs using a markup-like language. 💸
 - [Magpie](https://dragonite.itch.io/magpie) - Generic Inventory System.
 - [ImGuiGML](https://rousr.itch.io/imguigml) - DLL/GML wrapper of Dear ImGui.
 - [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
 - [Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - PixelatedPope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 - [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
+- [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
 
 ## Localization
 
@@ -152,7 +153,7 @@
 - [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) - A library for working with inverse kinematics.
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
 - [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
-- [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from the pope. 💸
+- [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
 
 ## Sprites
 
@@ -182,7 +183,7 @@
 
 - [LDtk to GMS](https://shynif.itch.io/ldtk-to-gms) - LDtk Importer.
 - [LDtkParser](https://github.com/evolutionleo/LDtkParser) - Advanced LDtk Importer.
-- [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use. 
+- [Room Data Inspector](https://github.com/heygleeson/GM-RoomInspector) - Collects room data and stores it into a JSON for later use.
 - [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 - [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker.
 - [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
@@ -279,7 +280,7 @@
 
 ## Camera
 
-- [GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pope's guide on GameMaker's camera system. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pixelated Pope's guide on GameMaker's camera system. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GameMaker.
 - [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) - An example of pixel-perfect yet smooth camera.
 - [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
@@ -296,7 +297,7 @@
 - [SnowState](https://github.com/sohomsahaun/SnowState) - Robust finite state machine.
 - [FastSM](https://github.com/JulianDicken/FastSM) - Lightweight alternative to SnowState.
 - [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
-- [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects. 💸
+- [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
 - [Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
 
 ## Pathing
@@ -328,7 +329,7 @@
 - [GameMaker Repo Badges](https://github.com/matthiaszarzecki/MadeWithGameMakerStudioBadges) - Fancy badges to add to your README files.
 - [GameMaker Discord Community GitHub](https://github.com/GameMakerDiscord) - Have you made a gamemaker tool you want to share? Consider submitting it to the official Discord's GitHub.
 - [Source Control with Git & GameMaker](https://www.youtube.com/watch?v=UZG-P68xWio&list=PLSFMekK0JFgzmyDxVxj5Cctafu5UX_vUC) - FriendlyCosmonaut. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Game Resolution & Aspect Ratio Management](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - PixelatedPope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [Game Resolution & Aspect Ratio Management](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
@@ -338,8 +339,9 @@
 ## Blogs
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
-- [Tony Str](https://tonystr.net/articles) - Some great articles on working with json, regular expressions, and drawing circles in gml.
-- [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced gml topics.
+- [Tony Str](https://tonystr.net/articles) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
+- [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
+- [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 
 ## YouTube
 
@@ -347,7 +349,7 @@
 - [DragoniteSpam](https://www.youtube.com/c/DragoniteSpam) - Covers highly technical elements of GameMaker with a focus on 3D.
 - [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding) - Previous community manager at YoYo Games. Has a wide variety of beginner-friendly GameMaker tutorials and helpful updates on new GameMaker features.
 - [FriendlyCosmonaut](https://www.youtube.com/c/FriendlyCosmonaut) - Great playlist on building a farming RPG in GameMaker with several other tutorials.
-- [PixelatedPope](https://www.youtube.com/c/PixelatedPope) - Guides on GameMaker resolution management, cameras, GUI, and more.
+- [Pixelated Pope](https://www.youtube.com/c/PixelatedPope) - Guides on GameMaker resolution management, cameras, GUI, and more.
 - [Xor](https://www.youtube.com/c/XorDev) - Tons of shader demonstrations with a focus on 3D.
 - [GamingEngineer](https://www.youtube.com/c/GamingEngineer) - A GameMaker developer that has been in the community for many years. They have a wide variety videos showcasing what GameMaker is capable of, with a focus on 3D.
 - [TheSnidr](https://www.youtube.com/c/TheSnidr) - A lot of awesome 3D showcases and tutorials for GameMaker.
@@ -358,6 +360,7 @@
 - [GravityShift Games](https://www.youtube.com/c/SlasherXGAMES/) - A couple of genre-specific GameMaker tutorials, integrating databases into GameMaker, and more.
 - [Slyddar](https://www.youtube.com/c/Slyddar/) - A channel dedicated to both DnD and GML tutorials.
 - [SamSpadeGameDev](https://www.youtube.com/@SamSpadeGameDev) - In-depth coding tutorials for the hobbyist game maker.
+- [gentoo's iceberg Playlist](https://www.youtube.com/playlist?list=PLks6h7R6jAUGrofUAQB178r6K8h43Ml5-) - Series based on iceberg to display advanced programming ideas in GameMaker.
 
 ## Community
 
@@ -367,12 +370,12 @@
 
 ## Special Thanks
 
-JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, PixelatedPope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson, Lojemiru
+JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick Ver Voort, Pixelated Pope, Tony Strømsnæs, HeartBeast, Xor, Gaming Reverends, Matharoo, YellowAfterlife, Gizmo199, Avis, Josh Wilson, Lojemiru
 
 ## Footnotes
 
 - This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli with additional links/details.
-- A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. ☺
+- A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 - If you need more general game development resources, check out [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev) or [MagicTools](https://github.com/ellisonleao/magictools#readme).
 
 *GameMaker® is the property of YoYo Games™. This list is not affiliated with YoYo Games.*
@@ -380,5 +383,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 ## Contributing
 
 Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md).
+
+## GameMaker Keybindings
 
 ![Keybindings](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png)
