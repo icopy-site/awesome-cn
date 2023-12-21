@@ -955,6 +955,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429&hl=en&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
+* [Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic](https://www.nature.com/articles/s41586-019-1153-z) - ***Nature***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13913123623752818925&hl=en&as_sdt=0,5)]. This work performs a Bayesian phylogenetic analysis to examine two competing hypotheses of the origin of the Sino-Tibetan language family: the ‘northern-origin hypothesis’ and the ‘southwestern-origin hypothesis’. The northern-origin hypothesis states that the initial expansion of Sino-Tibetan languages occurred approximately 4,000–6,000 years before present (BP; taken as AD 1950) in the Yellow River basin of northern China, and that this expansion is associated with the development of the Yangshao and/or Majiayao Neolithic cultures. Consistent with the northern-origin hypothesis, the Bayesian phylogenetic analysis of 109 languages with 949 lexical root-meanings produced an estimated time depth for the divergence of Sino-Tibetan languages of approximately 4,200–7,800 years BP, with an average value of approximately 5,900 years BP. In addition, the phylogeny supported a dichotomy between Sinitic and Tibeto-Burman languages.
+
 
 
 ### Methodologies for Experiments
