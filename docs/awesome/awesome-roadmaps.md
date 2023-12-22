@@ -1,62 +1,62 @@
 <div class="github-widget" data-repo="liuchong/awesome-roadmaps"></div>
 ## Awesome Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/liuchong/awesome-roadmaps.svg?branch=master)](https://travis-ci.org/liuchong/awesome-roadmaps)
 
-一份精选的路线图列表，主要与软件开发有关，为您提供了提高知识或技能的清晰途径.
+A curated list of roadmaps, mostly about software development, which give you a clear route to improve your knowledge or skills.
 
-欢迎投稿.
-通过拉取请求添加链接或创建问题以开始讨论.
-请阅读 [contribution guidelines](https://github.com/liuchong/awesome-roadmaps/blob/master/contributing.md)， 谢谢你！
+Contributions welcome.
+Add links through pull requests or create an issue to start a discussion.
+Please read [contribution guidelines](https://github.com/liuchong/awesome-roadmaps/blob/master/contributing.md), thank you!
 
 
 
 ## Programming Language
-- [C++ Developer Roadmap](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap) - 路线图侧重于 2022 年有关 C++ 的一般能力和技能 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap).
-- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - 2021 年成为 Go 开发者的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
-- [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - 2021 年成为 Java 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
-- [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) - 2021 年成为 Node.js 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
-- [PHP Developer roadmap](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap) - 遵循这条道路将保证在 2021 年成为一名 PHP 开发人员 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap) [<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube">](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap).
-- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap) - 2021 年成为 Rust Web 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap).
+- [C++ Developer Roadmap](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/salmer/CppDeveloperRoadmap).
+- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
+- [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
+- [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) - Roadmap to becoming a Node.js developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
+- [PHP Developer roadmap](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap) - Following this path will guarantee to Become a PHP Developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap) [<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube">](https://raw.githubusercontent.com/thecodeholic/php-developer-roadmap).
+- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/anshulrgoyal/rust-web-developer-roadmap).
 
 
 ## Web Development
-- [Angular Developer Roadmap](https://raw.githubusercontent.com/sulco/angular-developer-roadmap) - 成为 Angular 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://raw.githubusercontent.com/sulco/angular-developer-roadmap).
-- [Angular Developer Roadmap 2](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap) - 2021 年成为 Angular 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap).
-- [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - 2021 年成为 ASP .NET Core 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
-- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - 面向开发人员的社区驱动路线图、文章和资源 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
-- [Frontend development roadmap](https://raw.githubusercontent.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf) - 前端开发面试清单和路线图 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/blob/main/2022_FE_roadmap.pdf).
-- [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) - 2020 年成为 Laravel 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
-- [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - 2019 年成为 React 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
-- [Vue Developer Roadmap](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap) - 2019 年成为 Vue.js 开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap).
+- [Angular Developer Roadmap](https://raw.githubusercontent.com/sulco/angular-developer-roadmap) - Roadmap to becoming an Angular developer [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://raw.githubusercontent.com/sulco/angular-developer-roadmap).
+- [Angular Developer Roadmap 2](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap) - Roadmap to becoming an Angular developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/saifaustcse/angular-developer-roadmap).
+- [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
+- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
+- [Frontend development roadmap](https://raw.githubusercontent.com/sadanandpai/frontend-learning-kit/blob/main/public/2022_FE_roadmap.pdf) - Frontend development interview checklist & roadmap [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/blob/main/2022_FE_roadmap.pdf).
+- [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
+- [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
+- [Vue Developer Roadmap](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/flaviocopes/vue-developer-roadmap).
 
 ## Mobile Development
-- [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) - 2020 年成为 Android 开发者的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
-- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) - 使用 Google 的 Flutter SDK 创建混合应用程序的路线图.
-- [iOS Developer Roadmap](https://raw.githubusercontent.com/BohdanOrlov/iOS-Developer-Roadmap) - 2020 年成为 iOS 开发者的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/BohdanOrlov/iOS-Developer-Roadmap).
+- [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) - Roadmap to becoming an Android developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
+- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK.
+- [iOS Developer Roadmap](https://raw.githubusercontent.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/BohdanOrlov/iOS-Developer-Roadmap).
 
 ## Game Development
-- [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) - 2022 年成为游戏开发者的路线图 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
-- [Game Programming Roadmap](https://github.com/miloyip/game-programmer) - 成为游戏程序员的路线图.
+- [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
+- [Game Programming Roadmap](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer.
 
 ## AI / Machine Learning / Data Science
-- [AI Expert Roadmap](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap) - 2021 年成为人工智能专家的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap).
-- [Deep Learning Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - 通过开创性的深度学习论文的路线图.
-- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - 深度学习入门路线图.
-- [Data Engineer Roadmap](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap) - 2021 年成为数据工程师的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap).
-- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - 成为数据科学家的路线图.
-- [Data scientist Roadmap 2](https://github.com/MrMimic/data-scientist-roadmap) - 为对数据科学感兴趣的人提供的教程路线图.
-- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) - 2019年自然语言处理学习路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
+- [AI Expert Roadmap](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/AMAI-GmbH/AI-Expert-Roadmap).
+- [Deep Learning Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers.
+- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) - Roadmap to getting started with deep learning.
+- [Data Engineer Roadmap](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/datastacktv/data-engineer-roadmap).
+- [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) - Roadmap to becoming a data scientist.
+- [Data scientist Roadmap 2](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science.
+- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) - Roadmap for Natural Language Processing learning in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
 
 ## Miscellaneous
-- [Awesome Quality Assurance Roadmap](https://raw.githubusercontent.com/fityanos/awesome-quality-assurance-roadmap) - 您可能需要开始旅程的 QA 路线图和软件测试学习曲线 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/fityanos/awesome-quality-assurance-roadmap).
-- [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - 业余渗透测试人员路线图和一系列黑客工具、资源和参考资料.
-- [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - 成为软件架构师的路线图.
-- [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - 适用于任何开发人员的软件设计和架构路线图.
-- [System Design Roadmap](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan) - 学习系统设计和架构的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan).
-- [UI/UX Designer Roadmap](https://raw.githubusercontent.com/togiberlin/ui-ux-designer-roadmap) - 2017 年成为 UI/UX 设计师的路线图 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://raw.githubusercontent.com/togiberlin/ui-ux-designer-roadmap).
-- [University Degree Roadmap](https://raw.githubusercontent.com/nietsymerej/collecobrary) - 参加各种学位科目的在线大学课程的路线图 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/nietsymerej/collecobrary).
+- [Awesome Quality Assurance Roadmap](https://raw.githubusercontent.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/fityanos/awesome-quality-assurance-roadmap).
+- [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references.
+- [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
+- [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+- [System Design Roadmap](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/mohsenshafiei/system-design-master-plan).
+- [UI/UX Designer Roadmap](https://raw.githubusercontent.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://raw.githubusercontent.com/togiberlin/ui-ux-designer-roadmap).
+- [University Degree Roadmap](https://raw.githubusercontent.com/nietsymerej/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://raw.githubusercontent.com/nietsymerej/collecobrary).
 
 ## Articles
-- [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - 一系列文章，提供了成为更好的 Android 开发人员的正确路线图.
+- [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
 ## License
 

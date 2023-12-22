@@ -62,6 +62,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 
 
+## Artificial Intelligence
+
+_Libraries for building programs that leverage AI._
+
+- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally.
+
+
 ## Audio and Music
 
 _Libraries for manipulating audio._
@@ -1533,7 +1542,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 _Libraries for working with strings._
 
-- [bexp](https://github.com/mkungla/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
+- [bexp](https://github.com/happy-sdk/happy-go/tree/main/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
 - [caps](https://github.com/chanced/caps) - A case conversion library.
 - [go-formatter](https://gitlab.com/tymonx/go-formatter) - Implements **replacement fields** surrounded by curly braces `{}` format strings.
 - [gobeam/Stringy](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
