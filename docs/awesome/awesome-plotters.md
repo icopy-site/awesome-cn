@@ -128,6 +128,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [DrawingBotV3](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 - [linedraw](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 - [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
+- [plotting-maps](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 
 ### Vector Utilities
 

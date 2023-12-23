@@ -97,6 +97,7 @@ This list is a collection of the best Mastodon resources.
 - [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
 - [toot.io](https://toot.io/mastodon_hosting.html) - Managed Mastodon Hosting, used by ACM, Microsoft Dynamics, etc.
 - [Cloudplane](https://cloudplane.org) - Fully manged hosting for open-source apps.
+- [elestio](https://elest.io/open-source/mastodon) - Fully-managed Mastodon hosting.
 
 ## Similar Projects
 

@@ -968,7 +968,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [jsdelivr.com](https://www.jsdelivr.com/) — A free, fast, and reliable open-source CDN. Supports npm, GitHub, WordPress, Deno, and more.
   * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) — Free DDoS protection and SSL certificate
-  * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone and free Private CDN for open source/nonprofits.
   * [Skypack](https://www.skypack.dev/) — The 100% Native ES Module JavaScript CDN. Free for 1 million requests per domain per month.
   * [raw.githack.com](https://raw.githack.com/) — A modern replacement of **rawgit.com** which simply hosts file using Cloudflare
   * [section.io](https://www.section.io/) — A simple way to spin up and manage a complete Varnish Cache solution. Supposedly free forever for one site
@@ -1570,7 +1569,6 @@ Update Time, five active automations, webhooks.
 
 ## Visitor Session Recording
 
-   * [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
    * [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, three heatmaps, three widgets, free bug tracking
    * [OpenReplay.com](https://www.openreplay.com) - Open-source session replay with dev tools for bug reproduction, live session for real-time support, and product analytics suite. One thousand sessions/month with access to all features and 7-day retention.
    * [LogRocket.com](https://www.logrocket.com) - 1,000 sessions/month with 30-day retention, error tracking, live mode
