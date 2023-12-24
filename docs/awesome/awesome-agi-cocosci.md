@@ -473,7 +473,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Connecting Touch and Vision via Cross-Modal Prediction](https://ieeexplore.ieee.org/document/8953737) - ***CVPR'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=17326564895972374001&hl=en&as_sdt=0,5)]. [[Project](https://github.com/YunzhuLi/VisGel)].
 
-* [Unit Testing for Concepts in Neural Networks](https://arxiv.org/abs/2202.03753) - ***Transactions of the Association for Computational Linguistics***, 2022. Testing the concept representation by neural networks through Fodor's theory of concepts.
+* [Unit Testing for Concepts in Neural Networks](https://aclanthology.org/2022.tacl-1.69/) - ***Transactions of the Association for Computational Linguistics***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=3036662275506971282&hl=en&as_sdt=0,5)]. Testing the concept representation by neural networks through Fodor's theory of concepts.
 
 
 
