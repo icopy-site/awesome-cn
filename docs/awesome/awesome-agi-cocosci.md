@@ -588,7 +588,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Conversation, co-ordination and convention: an empirical investigation of how groups establish linguistic conventions](http://www.sfs.uni-tuebingen.de/~gjaeger/lehre/ws0708/spieltheorie/garrod.pdf) - ***Cognition***, 1994. [[All Versions](https://scholar.google.com/scholar?cluster=3784850469297049700&hl=en&as_sdt=0,5)].
 
 
-#### Emergence of Language
+#### Language Compositionality
 
 * [Compositionality](https://plato.stanford.edu/entries/compositionality/) - ***Plato Stanford***. A computational philosophy account on compositionality, one of the distinctive feature of language.
 
