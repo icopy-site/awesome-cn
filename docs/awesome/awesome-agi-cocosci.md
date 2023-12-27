@@ -607,6 +607,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
 
+* [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968&hl=en&as_sdt=0,5)].
+
 
 #### Coordination
 

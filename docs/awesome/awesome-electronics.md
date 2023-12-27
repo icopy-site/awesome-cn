@@ -7,7 +7,7 @@ Electronic Engineering (EE) is the practice of understanding, designing and buil
 
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
-This list is for websites, services, software, tools and more: everything that you think is awesome in the world of Electronic Engineering. If you have anything to add please follow the instructions in [https://github.com/kitspace/awesome-electronics/blob/master/contributing.md](https://github.com/kitspace/awesome-electronics/blob/master/contributing.md).
+This list is for websites, services, software, tools and more: everything that you think is awesome in the world of Electronic Engineering. If you have anything to add please follow the instructions in [https://github.com/kitspace/awesome-electronics/blob/master/contributing.md](https://github.com/kitspace/awesome-electronics/blob/master/contributing.md). 
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
