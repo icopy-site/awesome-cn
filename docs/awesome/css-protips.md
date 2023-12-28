@@ -5,9 +5,9 @@
 
 ## CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-一系列技巧可帮助您提高 CSS 技能.
+A collection of tips to help take your CSS skills pro.
 
-&gt; 如需其他精彩列表，请查看 [@sindresorhus](https://github.com/sindresorhus/)的精选清单 [awesome lists](https://github.com/sindresorhus/awesome/).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
 
@@ -20,44 +20,44 @@
 
 ### Use a CSS Reset
 
- CSS 重置有助于在不同浏览器之间强制执行样式一致性，并为样式元素提供干净的状态. 您可以使用 CSS 重置库，例如 [Normalize](http://necolas.github.io/normalize.css/)，_et al._，或者您可以使用更简化的重置方法：
+CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. You can use a CSS reset library like [Normalize](http://necolas.github.io/normalize.css/), _et al._, or you can use a more simplified reset approach:
 
 ```css
 *,
 *::before,
-*：：后 {
-  框大小：边框框；
-  保证金：0；
-  填充：0；
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 ```
 
-现在，元素将被去除边距和填充，并且“box-sizing”可让您使用 CSS 盒模型管理布局.
+Now elements will be stripped of margins and padding, and `box-sizing` lets you manage layouts with the CSS box model.
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
-**注意：** 如果您遵循 [Inherit `box-sizing`](#inherit-box-sizing) 下面的提示您可能会选择在 CSS 重置中不包含“box-sizing”属性.
+**Note:** If you follow the [Inherit `box-sizing`](#inherit-box-sizing) tip below you might opt to not include the `box-sizing` property in  your CSS reset.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Inherit `box-sizing`
 
-让 `box-sizing` 继承自 `html`：
+Let `box-sizing` be inherited from `html`:
 
 ```css
-html{
-  框大小：边框框；
+html {
+  box-sizing: border-box;
 }
 
 *,
 *::before,
-*：：后 {
-  盒子大小：继承；
+*::after {
+  box-sizing: inherit;
 }
 ```
 
-这使得在插件或利用其他行为的其他组件中更改“盒子大小”变得更容易.
+This makes it easier to change `box-sizing` in plugins or other components that leverage other behavior.
 
 #### [Demo](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
@@ -66,123 +66,123 @@ html{
 
 ### Use `unset` Instead of Resetting All Properties
 
-重置元素的属性时，无需重置每个单独的属性：
+When resetting an element's properties, it's not necessary to reset each individual property:
 
 ```css
-按钮 {
-  背景：无；
-  边框：无；
-  颜色：继承；
-  字体：继承；
-  概要：无；
-  填充：0；
+button {
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  outline: none;
+  padding: 0;
 }
 ```
 
-您可以使用“all”简写来指定元素的所有属性. 将值设置为“unset”会将元素的属性更改为其初始值：
+You can specify all of an element's properties using the `all` shorthand. Setting the value to `unset` changes an element's properties to their initial values:
 
 ```css
-按钮 {
-  全部：未设置；
+button {
+  all: unset;
 }
 ```
 
-**注意：** IE11 不支持 `all` 和 `unset` 简写.
+**Note:** the `all` and `unset` shorthand isn't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `:not()` to Apply/Unapply Borders on Navigation
 
-而不是把边界...
+Instead of putting on the border...
 
 ```css
-/* 添加边框 */
-.name in {
+/* add border */
+.nav li {
   border-right: 1px solid #666;
 }
 ```
 
-...然后把它从最后一个元素上取下来...
+...and then taking it off the last element...
 
 ```css
-/* 去除边框 */
-.nav li:最后一个子项 {
-  右边界：无；
+/* remove border */
+.nav li:last-child {
+  border-right: none;
 }
 ```
 
-...使用 `:not()` 伪类仅应用于您想要的元素：
+...use the `:not()` pseudo-class to only apply to the elements you want:
 
 ```css
-.nav li:not(:最后一个孩子) {
+.nav li:not(:last-child) {
   border-right: 1px solid #666;
 }
 ```
 
-在这里，CSS 选择器被解读为人类对它的描述.
+Here, the CSS selector is read as a human would describe it.
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/LkymvO)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/LkymvO)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Check If Font Is Installed Locally
 
-您可以在远程获取字体之前检查本地是否安装了字体，这也是一个很好的性能提示.
+You can check if a font is installed locally before fetching it remotely, which is a good performance tip, too.
 
 ```css
 @font-face {
-  字体系列：“Dank Mono”；
-  源代码：
-    /* 全名 */
-    本地（“丹克单声道”），
-    /* 后记名称 */
-    本地（“丹克单声道”），
-     /* 否则，下载它！  */
-    url(&quot;//...a.server/fonts/DankMono.woff&quot;);
+  font-family: "Dank Mono";
+  src:
+    /* Full name */
+    local("Dank Mono"),
+    /* Postscript name */
+    local("Dank-Mono"),
+    /* Otherwise, download it! */
+    url("//...a.server/fonts/DankMono.woff");
 }
 
-代码 {
-  字体系列：“Dank Mono”，system-ui-monospace；
+code {
+  font-family: "Dank Mono", system-ui-monospace;
 }
 ```
 
-感谢 Adam Argyle 分享此专业提示并 [demo](https://codepen.io/argyleink/pen/VwYJpgR).
+H/T to Adam Argyle for sharing this protip and [demo](https://codepen.io/argyleink/pen/VwYJpgR).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Add `line-height` to `body`
 
-您不需要为每个`添加`line-height`<p>  `,`<h*>  `，_et al_. 分别地. 相反，将其添加到“body”中：
+You don't need to add `line-height` to each `<p>`, `<h*>`, _et al_. separately. Instead, add it to `body`:
 
 ```css
-身体 {
-  行高：1.5；
+body {
+  line-height: 1.5;
 }
 ```
 
-这样文本元素就可以轻松地从“body”继承.
+This way textual elements can inherit from `body` easily.
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/VjbdYd)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/VjbdYd)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Set `:focus` for Form Elements
 
-有视力的键盘用户依靠焦点来确定键盘事件在页面中的位置. 使表单元素的焦点比浏览器的默认实现更加突出和一致：
+Sighted keyboard users rely on focus to determine where keyboard events go in the page. Make focus for form elements stand out and consistent than a browser's default implementation:
 
 ```css
 a:focus,
 button:focus,
 input:focus,
 select:focus,
-文本区域：焦点{
-  盒子阴影：无；
+textarea:focus {
+  box-shadow: none;
   outline: #000 dotted 2px;
-  轮廓偏移：0.05em；
+  outline-offset: .05em;
 }
 ```
 
@@ -193,56 +193,53 @@ select:focus,
 
 ### Vertically-Center Anything
 
-不，这不是黑魔法，你确实可以将元素垂直居中. 你可以用 Flexbox 来做到这一点......
+No, it's not black magic, you really can center elements vertically. You can do this with flexbox...
 
 ```css
 html,
-身体 {
-  高度：100%；
-  保证金：0；
+body {
+  height: 100%;
+  margin: 0;
 }
 
-身体 {
-  -webkit-align-items：居中；
-  -ms-flex-align：居中；
-  对齐项目：居中；
-  显示：-webkit-flex；
-  显示：柔性；
+body {
+  align-items: center;
+  display: flex;
 }
 ```
 
-...还有 CSS 网格：
+...and also with CSS Grid:
 
 ```css
-身体 {
-  显示：网格；
-  高度：100vh；
-  保证金：0；
-  地点项目：中心中心；
+body {
+  display: grid;
+  height: 100vh;
+  margin: 0;
+  place-items: center center;
 }
 ```
 
 
-想要集中其他东西吗？ 垂直、水平……任何时间、任何地点？  CSS-Tricks 有 [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) 做这一切.
+Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
-**注意：** 注意一些 [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) 在 IE11 中使用 Flexbox.
+**Note:** Watch for some [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Comma-Separated Lists
 
-使列表项看起来像一个真实的、以逗号分隔的列表：
+Make list items look like a real, comma-separated list:
 
 ```css
-ul &gt; li:not(:last-child)::after {
-  内容： ”，”;
+ul > li:not(:last-child)::after {
+  content: ",";
 }
 ```
 
-使用 `:not()` 伪类，最后一项不会添加逗号.
+Use the `:not()` pseudo-class and no comma will be added to the last item.
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -250,50 +247,50 @@ ul &gt; li:not(:last-child)::after {
 
 ### Select Items Using Negative `nth-child`
 
-在 CSS 中使用负数“nth-child”来选择项目 1 到 n.
+Use negative `nth-child` in CSS to select items 1 through n.
 
 ```css
-那 {
-  显示：无；
+li {
+  display: none;
 }
 
-/* 选择项目 1 到 3 并显示它们 */
-li:第n个孩子(-n+3) {
-  显示：块；
+/* select items 1 through 3 and display them */
+li:nth-child(-n+3) {
+  display: block;
 }
 ```
 
-或者，既然你已经了解了一些 [using `:not()`](#use-not-to-applyunapply-borders-on-navigation)， 尝试：
+Or, since you've already learned a little about [using `:not()`](#use-not-to-applyunapply-borders-on-navigation), try:
 
 ```css
-/* 选择除前 3 项之外的所有项并显示它们 */
-li:not(:第n个孩子(-n+3)) {
-  显示：块；
+/* select all items except the first 3 and display them */
+li:not(:nth-child(-n+3)) {
+  display: block;
 }
 ```
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/WxjKZp)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/WxjKZp)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use SVG for Icons
 
-没有理由不使用 SVG 来制作图标：
+There's no reason not to use SVG for icons:
 
 ```css
-.标识 {
-  背景： url(&quot;logo.svg&quot;);
+.logo {
+  background: url("logo.svg");
 }
 ```
 
-SVG 可以很好地适应所有分辨率类型，并且在所有浏览器中都受支持 [back to IE9](http://caniuse.com/#search=svg) . 放弃 .png、.jpg 或 .gif-jif-whatev 文件.
+SVG scales well for all resolution types and is supported in all browsers [back to IE9](http://caniuse.com/#search=svg). Ditch your .png, .jpg, or .gif-jif-whatev files.
 
 **Note:** If you have SVG icon-only buttons for sighted users and the SVG fails to load, this will help maintain accessibility:
 
 ```css
 .no-svg .icon-only::after {
-  内容：attr(aria-label);
+  content: attr(aria-label);
 }
 ```
 
@@ -302,292 +299,320 @@ SVG 可以很好地适应所有分辨率类型，并且在所有浏览器中都�
 
 ### Use the "Lobotomized Owl" Selector
 
-它可能有一个奇怪的名字，但使用通用选择器（“*”）和相邻的同级选择器（“+”）可以提供强大的 CSS 功能：
+It may have a strange name but using the universal selector (`*`) with the adjacent sibling selector (`+`) can provide a powerful CSS capability:
 
 ```css
 * + * {
-  顶部边距：1.5em；
+  margin-top: 1.5em;
 }
 ```
 
-在此示例中，文档流中其他元素后面的所有元素都将接收“margin-top: 1.5em”.
+In this example, all elements in the flow of the document that follow other elements will receive `margin-top: 1.5em`.
 
-有关“脑白质切除猫头鹰”选择器的更多信息，请阅读 [Heydon Pickering's post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) 在*A List Apart*上.
+For more on the "lobotomized owl" selector, read [Heydon Pickering's post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) on *A List Apart*.
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/grRvWq)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/grRvWq)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `max-height` for Pure CSS Sliders
 
-使用隐藏溢出的“max-height”实现纯 CSS 滑块：
+Implement CSS-only sliders using `max-height` with overflow hidden:
 
 ```css
-.滑块{
-  最大高度：200px；
-  溢出-y：隐藏；
-  宽度：300px；
+.slider {
+  max-height: 200px;
+  overflow-y: hidden;
+  width: 300px;
 }
 
-.slider:悬停{
-  最大高度：600px；
-  溢出-y：滚动；
+.slider:hover {
+  max-height: 600px;
+  overflow-y: scroll;
 }
 ```
 
-元素在悬停时扩展到“最大高度”值，并且滑块由于溢出而显示.
+The element expands to the `max-height` value on hover and the slider displays as a result of the overflow.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Equal-Width Table Cells
 
-使用表格可能会很痛苦. 尝试使用“table-layout:fixed”来保持单元格宽度相等：
+Tables can be a pain to work with. Try using `table-layout: fixed` to keep cells at equal width:
 
 ```css
-.日历 {
-  表格布局：固定；
+.calendar {
+  table-layout: fixed;
 }
 ```
 
-无痛的表格布局.
+Pain-free table layouts.
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/jALALm)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/jALALm)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Get Rid of Margin Hacks With Flexbox
 
-使用列装订线时，您可以通过使用 Flexbox 的“space- Between”属性来摆脱“nth-”、“first-”和“last-child”黑客行为：
+When working with column gutters you can get rid of `nth-`, `first-`, and `last-child` hacks by using flexbox's `space-between` property:
 
 ```css
-.列表 {
-  显示：柔性；
-  justify-content：空间之间；
+.list {
+  display: flex;
+  justify-content: space-between;
 }
 
-.列表.人{
-  弹性基础：23%；
+.list .person {
+  flex-basis: 23%;
 }
 ```
 
-现在，列装订线总是显示均匀间隔.
+Now column gutters always appear evenly-spaced.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use Attribute Selectors with Empty Links
 
-当 ` <a>` 元素没有文本值但 `href` 属性有链接时显示链接：</a>
+Display links when the `<a>` element has no text value but the `href` attribute has a link:
 
 ```css
-a[href^=&quot;http&quot;]:empty::before {
-  内容：attr(href)；
+a[href^="http"]:empty::before {
+  content: attr(href);
 }
 ```
 
-那是相当方便的.
+That's pretty convenient.
 
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/zBzXRx)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/zBzXRx)
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Control Specificity Better with `:is()`
+
+The `:is()` pseudo-class is used to target multiple selectors at onece, reducing redundancy and enhancing code readability. This is incredibly useful for writing large selectors in a more compact form.
+
+```css
+:is(section, article, aside, nav) :is(h1, h2, h3, h4, h5, h6) {
+  color: green;
+}
+```
+
+The above ruleset is equivalent to the following number selector rules...
+
+```css
+section h1, section h2, section h3, section h4, section h5, section h6,
+article h1, article h2, article h3, article h4, article h5, article h6,
+aside h1, aside h2, aside h3, aside h4, aside h5, aside h6,
+nav h1, nav h2, nav h3, nav h4, nav h5, nav h6 {
+  color: green;
+}
+```
+
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/rNRVxdx)
+
+**Note:** The `:is()` pseudo-class isn't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Style "Default" Links
 
-添加“默认”链接的样式：
+Add a style for "default" links:
 
 ```css
 a[href]:not([class]) {
   color: #008000;
-  文本装饰：下划线；
+  text-decoration: underline;
 }
 ```
 
-现在，通过 CMS 插入的链接（通常没有“class”属性）将具有区别，而不会普遍影响级联.
+Now links that are inserted via a CMS, which don't usually have a `class` attribute, will have a distinction without generically affecting the cascade.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Intrinsic Ratio Boxes
 
-要创建具有固有比例的框，您所需要做的就是将顶部或底部填充应用于 div：
+To create a box with an intrinsic ratio, all you need to do is apply top or bottom padding to a div:
 
 ```css
-.容器 {
-  高度：0；
-  底部填充：20%；
-  位置：相对；
+.container {
+  height: 0;
+  padding-bottom: 20%;
+  position: relative;
 }
 
-.容器div {
+.container div {
   border: 2px dashed #ddd;
-  高度：100%；
-  左：0；
-  位置：绝对；
-  顶部：0；
-  宽度：100%；
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 ```
 
-使用 20% 进行填充会使框的高度等于其宽度的 20%. 无论视口的宽度如何，子 div 都将保持其纵横比 (100% / 20% = 5:1).
+Using 20% for padding makes the height of the box equal to 20% of its width. No matter the width of the viewport, the child div will keep its aspect ratio (100% / 20% = 5:1).
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/jALZvE)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/jALZvE)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Style Broken Images
 
-使用一点 CSS 让破碎的图像更加美观：
+Make broken images more aesthetically-pleasing with a little bit of CSS:
 
 ```css
-图像{
-  显示：块；
-  字体系列：无衬线字体；
-  字体粗细：300；
-  高度：自动；
-  行高：2；
-  位置：相对；
-  文本对齐：居中；
-  宽度：100%；
+img {
+  display: block;
+  font-family: sans-serif;
+  font-weight: 300;
+  height: auto;
+  line-height: 2;
+  position: relative;
+  text-align: center;
+  width: 100%;
 }
 ```
 
-现在添加伪元素规则来显示用户消息和损坏图像的 URL 引用：
+Now add pseudo-elements rules to display a user message and URL reference of the broken image:
 
 ```css
-img::之前{
-  content: &quot;很抱歉，下面的图片已损坏:(&quot;;
-  显示：块；
-  底部边距：10px；
+img::before {
+  content: "We're sorry, the image below is broken :(";
+  display: block;
+  margin-bottom: 10px;
 }
 
-图像::之后{
-  内容：“（url：“attr（src）”）”；
-  显示：块；
-  字体大小：12px；
+img::after {
+  content: "(url: " attr(src) ")";
+  display: block;
+  font-size: 12px;
 }
 ```
 
-了解有关此模式样式的更多信息 [Ire Aderinokun](https://github.com/ireade/)'s [original post](http://bitsofco.de/styling-broken-images/).
+Learn more about styling for this pattern in [Ire Aderinokun](https://github.com/ireade/)'s [original post](http://bitsofco.de/styling-broken-images/).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `rem` for Global Sizing; Use `em` for Local Sizing
 
-在根部设置基本字体大小（`html { font-size: 100%; }`）后，将文本元素的字体大小设置为 `em`：
+After setting the base font size at the root (`html { font-size: 100%; }`), set the font size for textual elements to `em`:
 
 ```css
 h2 {
-  字体大小：2em；
+  font-size: 2em;
 }
 
 p {
-  字体大小：1em；
+  font-size: 1em;
 }
 ```
 
-然后将模块的字体大小设置为“rem”：
+Then set the font-size for modules to `rem`:
 
 ```css
-文章 {
-  字体大小：1.25rem；
+article {
+  font-size: 1.25rem;
 }
 
-放在一边.module {
-  字体大小：.9rem；
+aside .module {
+  font-size: .9rem;
 }
 ```
 
-现在，每个模块都变得分区化，更容易设计样式、更易于维护且更灵活.
+Now each module becomes compartmentalized and easier to style, more maintainable, and flexible.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Hide Autoplay Videos That Aren't Muted
 
-对于自定义用户样式表来说，这是一个很棒的技巧. 避免页面加载时自动播放的视频声音给用户造成负担. 如果声音未静音，则不显示视频：
+This is a great trick for a custom user stylesheet. Avoid overloading a user with sound from a video that autoplays when the page is loaded. If the sound isn't muted, don't show the video:
 
 ```css
-视频[自动播放]:not([静音]) {
-  显示：无；
+video[autoplay]:not([muted]) {
+  display: none;
 }
 ```
 
-我们再次利用 [`:not()`](#use-not-to-applyunapply-borders-on-navigation) 伪类.
+Once again, we're taking advantage of using the [`:not()`](#use-not-to-applyunapply-borders-on-navigation) pseudo-class.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use `:root` for Flexible Type
 
-响应式布局中的字体大小应该能够根据每个视口进行调整. 您可以使用`:root`根据视口高度和宽度计算字体大小：
+The type font size in a responsive layout should be able to adjust with each viewport. You can calculate the font size based on the viewport height and width using `:root`:
 
 ```css
-：根 {
-  字体大小： calc(1vw + 1vh + .5vmin);
+:root {
+  font-size: calc(1vw + 1vh + .5vmin);
 }
 ```
 
-现在您可以根据 `:root` 计算的值使用 `root em` 单位：
+Now you can utilize the `root em` unit based on the value calculated by `:root`:
 
 ```css
-身体 {
-  字体：1rem/1.6 无衬线；
+body {
+  font: 1rem/1.6 sans-serif;
 }
 ```
 
-#### [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Inherit `font` on Form Elements for a Better Mobile Experience
 
-默认情况下，某些表单控件不继承印刷样式. 避免移动浏览器（iOS Safari 等）在“”时放大 HTML 表单元素<select>点击`下拉菜单，为了减少浏览器之间样式不一致的情况，请将`font`规则设置为`inherit`：
+Some form controls do not inherit typographical styles by default. To avoid mobile browsers (iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, and to mitigate styling inconsistencies across browsers, set the `font` rule to `inherit`:
 
 ```css
 input,
 button,
 select,
-文本区域{
-  字体：继承；
+textarea {
+  font: inherit;
 }
 ```
 
-了解更多信息 [MDN's guide to styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms).
+Learn more in [MDN's guide to styling web forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Use Pointer Events to Control Mouse Events
 
-[Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) 允许您指定鼠标如何与其所触摸的元素交互. 要禁用按钮上的默认指针事件，例如：
+[Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) allow you to specify how the mouse interacts with the element it's touching. To disable the default pointer event on a button, for instance:
 
 ```css
-按钮：禁用{
-  不透明度：.5；
-  指针事件：无；
+button:disabled {
+  opacity: .5;
+  pointer-events: none;
 }
 ```
 
-就是这么简单.
+It's that simple.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Set `display: none` on Line Breaks Used as Spacing
 
-As [Harry Roberts pointed out](https://twitter.com/csswizardry/status/1170835532584235008)，这可以帮助防止 CMS 用户使用额外的换行符作为间距：
+As [Harry Roberts pointed out](https://twitter.com/csswizardry/status/1170835532584235008), this can help prevent CMS users from using extra line breaks for spacing:
 
 ```css
 br + br {
-  显示：无；
+  display: none;
 }
 ```
 
@@ -596,29 +621,29 @@ br + br {
 
 ### Use `:empty` to Hide Empty HTML Elements
 
-如果您有空的 HTML 元素，即内容尚未由 CMS 设置或动态注入（例如，`<p class="error-message"></p>  `) 并且它在布局上创建了不需要的空间，请使用 `:empty` 伪类隐藏布局上的元素. 
+If you have HTML elements that are empty, i.e., the content has yet to be set either by a CMS or dynamically injected (e.g., `<p class="error-message"></p>`) and it's creating unwanted space on your layout, use the `:empty` pseudo-class to hide the element on the layout. 
 
 ```css
-：空的 {
-  显示：无；
+:empty {
+  display: none;
 }
 ```
 
- **注意：** 请记住，带有空格的元素不被视为空，例如`<p class="error-message"></p>  `.
+**Note:** Keep in mind that elements with whitespace aren't considered empty, e.g., `<p class="error-message"> </p>`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Support
 
-Chrome、Firefox、Safari、Opera、Edge 和 IE11 的当前版本.
+Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ## Translations
 
- **注意：** 我没有足够的时间来维护不断增长的翻译提示列表； 添加新的提示需要包含十几个翻译. 因此，翻译后的自述文件可能不包含主自述文件中列出的所有提示.
+**Note:** I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files may not include all the tips listed on the main README file.
 
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 * [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)

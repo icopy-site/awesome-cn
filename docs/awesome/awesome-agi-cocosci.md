@@ -605,7 +605,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767&hl=en&as_sdt=0,5)].
 
-* [Word formation supports efficient communication: The case of compounds](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022.
+* [Word formation supports efficient communication: The case of compounds](https://escholarship.org/uc/item/5kv636c5) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=17465553221758916299&hl=en&as_sdt=0,5)].
 
 * [War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars](https://arxiv.org/abs/2311.17227) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3598519753107761968&hl=en&as_sdt=0,5)].
 
