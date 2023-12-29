@@ -1,6 +1,7 @@
 <div class="github-widget" data-repo="razum2um/awesome-clojure"></div>
 ## Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+  - [OneKeePass](https://github.com/OneKeePass/desktop): A secure password manager and [mobile app in ClojureScript](https://github.com/OneKeePass/mobile)
   - [Penpot](https://penpot.app/): design and prototyping platform
   - [LightTable (IDE)](http://lighttable.com/) (archived)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
@@ -297,6 +298,7 @@
   * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha](https://github.com/lambdaisland/kaocha)
   * [StateFlow](https://github.com/nubank/state-flow)
+  * [Datest](https://github.com/amokfa/datest)
 
 ## Webdriver automation
 
