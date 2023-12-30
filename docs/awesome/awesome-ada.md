@@ -194,6 +194,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 ### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - SPARK formal verification automated with Travis CI.
 - [ada-actions](https://github.com/ada-actions/toolchain) - Ada Toolchains for GitHub Actions.
+- [porion](https://gitlab.com/stcarrez/porion) - Continuous integration server and agent that helps automate the building, testing and deployment.
 
 ## Runtimes
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) - GNAT bare metal board support package (BSP).
@@ -322,6 +323,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### DevOps
 - [septum](https://github.com/pyjarrett/septum) - An interactive context-based text search tool for searching large codebases.
 - [powerjoular](https://github.com/joular/powerjoular) - PowerJoular allows monitoring power consumption of multiple platforms and processes.
+- [mat](https://github.com/stcarrez/mat) - MAT is a simple memory analysis tool intended to help understand where the memory is used in a program.
 
 ### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
@@ -337,6 +339,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [automate](https://github.com/Blady-Com/Automate) - Finite-state machine generator.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - Generator of JUnit-compatible XML reports in Ada.
 - [record-flux](https://github.com/Componolit/RecordFlux) - RecordFlux: Toolset for the formal specification of messages and the generation of verifiable binary parsers and message generators in SPARK.
+- [resource-embedder](https://gitlab.com/stcarrez/resource-embedder) - Advanced Resource Embedder to embed files in binaries by producing C, Ada or Go source files.
 
 ### UML
 - [ada-ml](https://github.com/rocher/AdaML) - Ada-tailored UML Modeling Language.
@@ -434,7 +437,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
 
-### Format Readers and Writers
+### Format Readers, Writers and Checkers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
 - [protobuf-ada](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
 - [protobuf](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka].
@@ -453,6 +456,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 - [ada-toml](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 - [uri-ada](https://git.sr.ht/~nytpu/uri-ada) - URI and MIME parser & manipulation library.
+- [ada-libmagic](https://gitlab.com/stcarrez/ada-libmagic) - Magic Number Recognition Library Ada binding (libmagic (3)).
 
 [ada-toml]: https://github.com/pmderodat/ada-toml
 
@@ -512,6 +516,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Localization
 - [zanyblue](https://sourceforge.net/projects/zanyblue/) - An Ada package allowing the externalization of application messages into a properties file.
+- [ada-intl](https://gitlab.com/stcarrez/ada-intl) - NLS thin Ada binding (gettext (3), textdomain (3), bindtextdomain (3)).
 
 ### Utilities
 - [auto-counters](https://github.com/jhumphry/auto_counters) - Reference counting approaches to resource management.
