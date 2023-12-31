@@ -56,7 +56,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > List of blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.
 
-- [AlgoExplorer](https://www.algoexplorer.io/) - Algorand blockchain explorer built by [RandLabs](https://randlabs.io/).
+- [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by [Nodely](https://algonode.io) team. 
 - [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet) - Algorand blockchain explorer built by [PureStake](https://www.purestake.com/).
 - [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
 - [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
