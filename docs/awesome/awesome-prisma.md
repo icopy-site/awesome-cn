@@ -9,9 +9,9 @@
 
 ## :tipping_hand_woman: About this List
 
-这是一个关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：心眼：
+This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
 
- **Prisma 是一个开源 ORM**. 它通过类型安全和为 TypeScript 和 Node.js 自动生成的查询构建器使数据库访问变得容易.
+**Prisma is an open-source ORM**. It makes database access easy with type safety and an auto-generated query builder for TypeScript & Node.js.
 
 ## :books: Docs
 
@@ -69,6 +69,7 @@
 - [Prismaliser - Visualise your Prisma schema models and relations](https://prismaliser.app/)
 - [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 - [Prisma Editor - A powerful tool to visualize and edit Prisma Schema](https://github.com/mohammed-bahumaish/prisma-editor)
+- [`prisma-markdown` - Markdown generator, including ERD and descriptions](https://github.com/samchon/prisma-markdown)
 
 
 ## :thinking: How Tos
@@ -115,24 +116,24 @@
 - [Tottem](https://github.com/poulainv/tottem)
 - [Tomorrow](https://www.tomorrowapp.io/)
 - [Predict Covid](https://predictcovid.com/)
-- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - 用于使用 NestJS 和 Prisma 构建的 restful api 的 Crud（使用 [NestJSX CRUD](https://github.com/nestjsx/crud))
-- [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - 使用 Prisma + Next.js + CI + 测试 + E2E 类型安全的入门项目 [tRPC](https://trpc.io)
-- [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - 带有 Prisma、next-auth、next.js、tailwindcss 和 graphql-shield 的 Fullstack starter
-- [Wasp](https://github.com/wasp-lang/wasp) Wasp 是一种声明性领域特定语言，用于开发、构建和部署现代 Javascript 全栈 Web 应用程序，代码更少.
+- [NestJS Crud Prisma](https://github.com/silicon-hills/nestjs-crud-prisma) - Crud for restful api's built with NestJS and Prisma (uses [NestJSX CRUD](https://github.com/nestjsx/crud))
+- [tRPC Prisma Starter](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
+- [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
+- [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
 
 ## Prisma 1
 
-这是很棒的 Prisma 的第二次迭代，专注于 Prisma 2.
-查看 [Awesome Prisma 1 list](https://github.com/catalinmiron/awesome-prisma/blob/master/awesome-prisma1.md)
+This is the second iteration of the awesome Prisma and focuses on Prisma 2.
+Check out the [Awesome Prisma 1 list](https://github.com/catalinmiron/awesome-prisma/blob/master/awesome-prisma1.md)
 
 ## Contribute
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) first.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，Catalin Miron 已放弃所有版权和
-本作品的相关或邻接权利.
+To the extent possible under law, Catalin Miron has waived all copyright and
+related or neighboring rights to this work.

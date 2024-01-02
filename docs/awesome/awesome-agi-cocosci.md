@@ -1151,6 +1151,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/) - ***Plato Stanford***. A computational philosophy account on Instrumental Rationality, a dabate on whether an agent's decision is made intentionally or out of rational coherence.
 
 
+* [Task switching](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(03)00028-7?large_figure=true&mobileUi=0) - ***Trends in Cognitive Sciences***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=676255515965300942&hl=en&as_sdt=0,5)]. [[Preprint](http://psychfiles.net/experimental/Monsell_2003.pdf)]. The original paper on ``switch cost'', where subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch.
+
 * [Computational Rationality: Linking Mechanism and Behavior Through Bounded Utility Maximization](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12086) - ***Topics in Cognitive Science***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=15813211310327194798&hl=en&as_sdt=0,5)]. Introducing the computational rationality framework for including information-processing bounds in rational analyses, which emphasizes the incorporation of computational mechanism into the definition of rational action. 
 
 * [Computational rationality: A converging paradigm for intelligence in brains, minds, and machines](https://gershmanlab.com/pubs/GershmanHorvitzTenenbaum15.pdf) - ***Science***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=7744057022238735461&hl=en&as_sdt=0,5)]. A comprehensive review on the rationality of Bayesian computational models.
