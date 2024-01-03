@@ -36,7 +36,7 @@ Now elements will be stripped of margins and padding, and `box-sizing` lets you 
 
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
-**Note:** If you follow the [Inherit `box-sizing`](#inherit-box-sizing) tip below you might opt to not include the `box-sizing` property in  your CSS reset.
+⚠️ **Note:** If you follow the [Inherit `box-sizing`](#inherit-box-sizing) tip below you might opt to not include the `box-sizing` property in  your CSS reset.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -87,7 +87,7 @@ button {
 }
 ```
 
-**Note:** the `all` and `unset` shorthand isn't supported in IE11.
+⚠️ **Note:** the `all` and `unset` keywords aren't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -127,7 +127,7 @@ Here, the CSS selector is read as a human would describe it.
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
-### Check If Font Is Installed Locally
+### Check if Font Is Installed Locally
 
 You can check if a font is installed locally before fetching it remotely, which is a good performance tip, too.
 
@@ -219,12 +219,30 @@ body {
 }
 ```
 
-
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
-**Note:** Watch for some [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
-
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/GqmGqZ)
+
+⚠️ **Note:** Watch for some [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Use `aspect-ratio` Instead of Height/Width
+
+The `aspect-radio` property allows you to easily size elements and maintain consistent width-to-height ratio. This is incredibly useful in responsive web design to prevent layout shift.
+
+```css
+img {
+  aspect-ratio: 16 / 9; /* width / height */
+}
+```
+
+Learn more about the `aspect-ratio` property in this [web.dev post](https://web.dev/articles/aspect-ratio).
+
+#### [Demo](https://codepen.io/AllThingsSmitty/pen/MWxwoNx/)
+
+⚠️ **Note:** `aspect-ratio` isn't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -241,6 +259,7 @@ ul > li:not(:last-child)::after {
 
 Use the `:not()` pseudo-class and no comma will be added to the last item.
 
+⚠️ **Note:** This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn't work with CSS-generated content. Proceed with caution.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -387,8 +406,9 @@ a[href^="http"]:empty::before {
 
 That's pretty convenient.
 
-
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/zBzXRx)
+
+⚠️ **Note:** This tip may not be ideal for accessibility, specifically screen readers. And copy/paste from the browser doesn't work with CSS-generated content. Proceed with caution.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -416,7 +436,7 @@ nav h1, nav h2, nav h3, nav h4, nav h5, nav h6 {
 
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/rNRVxdx)
 
-**Note:** The `:is()` pseudo-class isn't supported in IE11.
+⚠️ **Note:** The `:is()` pseudo-class isn't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -498,7 +518,7 @@ img::after {
 }
 ```
 
-Learn more about styling for this pattern in [Ire Aderinokun](https://github.com/ireade/)'s [original post](http://bitsofco.de/styling-broken-images/).
+Learn more about styling for this pattern in [Ire Aderinokun's post](http://bitsofco.de/styling-broken-images/).
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -629,7 +649,7 @@ If you have HTML elements that are empty, i.e., the content has yet to be set ei
 }
 ```
 
-**Note:** Keep in mind that elements with whitespace aren't considered empty, e.g., `<p class="error-message"> </p>`.
+⚠️ **Note:** Keep in mind that elements with whitespace aren't considered empty, e.g., `<p class="error-message"> </p>`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -643,7 +663,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 ## Translations
 
-**Note:** I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files may not include all the tips listed on the main README file.
+⚠️  **Note:** I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files are likely to not include all the tips listed on the main README file.
 
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 * [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)

@@ -1498,6 +1498,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [PHYRE: A New Benchmark for Physical Reasoning](https://proceedings.neurips.cc/paper/2019/hash/4191ef5f6c1576762869ac49281130c9-Abstract.html) - ***NeurIPS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=9555658528231205655&hl=en&as_sdt=0,5)]. A benchmark for AI physical reasoning.
 
+* [Phy-Q as a measure for physical reasoning intelligence](https://www.nature.com/articles/s42256-022-00583-4) - ***Nature Machine Intelligence***, 2023. [[NMI Challenge](https://www.nature.com/articles/s42256-019-0072-x)]. An interactive benchmark for AI physical reasoning.
+
 
 #### AI Commonsense Reasoning
 
