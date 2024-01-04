@@ -871,6 +871,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Trustworthy AI
 
+* [Bayesian modeling of human–AI complementarity](https://www.pnas.org/doi/full/10.1073/pnas.2111547119) - ***Proceedings of the National Academy of Sciences***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15735143859968841009&hl=en&as_sdt=0,5)]. A Bayesian framework for combining the predictions and different types of confidence scores from humans and machines.
+
 * [A tale of two explanations: Enhancing human trust by explaining robot behavior](https://yzhu.io/publication/openbottle2019scirob/paper.pdf) - ***Science Robotics***, 2019. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=3985046411399524590)]. The original paper on human believable robot, a result of the DAPAR-XAI.
 
 * [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/pdf/1909.06907.pdf) - 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923&hl=en&as_sdt=0,5)]. Introducing the idea of AI estimating human users' knowledge in to explainable AI.
@@ -991,7 +993,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***Brain and Behavioral Sciences***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936&hl=en&as_sdt=0,5)]. The original paper on rethinking and tackling the sample bias in behaivoral studies, where most subjects are drawn from Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies.
 
-* [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
+* [Scaling up psychology via Scientific Regret Minimization](https://www.pnas.org/doi/10.1073/pnas.1915841117) - ***Proceedings of the National Academy of Sciences***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8011895688226766944&hl=en&as_sdt=0,5)]. The statistical and ecological basis for scaling up behavioral studies.
 
 * [Machine-generated theories of human decision-making](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/a/511/files/2021/06/Bhatia-He-Science.pdf) - ***Science***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=7065547001880027350&hl=en&as_sdt=0,5)].
 
@@ -1484,7 +1486,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [Intuitive Physics: Current Research and Controversies](https://www.sciencedirect.com/science/article/pii/S1364661317301262) - ***Trends in Cognitive Sciences***, 2018. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=12085981794958916203)]. Hongjing Lu's review on intuitive physics.
 
 
-* [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***Proceedings of National Academy of Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402&hl=en&as_sdt=0,5)]. A piece of evidence for the functional part of intuitive physics in human brain.
+* [Functional neuroanatomy of intuitive physical inference](https://www.pnas.org/doi/pdf/10.1073/pnas.1610344113) - ***Proceedings of the National Academy of Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1792195093536891402&hl=en&as_sdt=0,5)]. A piece of evidence for the functional part of intuitive physics in human brain.
 
 * [Mind Games: Game Engines as an Architecture for Intuitive Physics](https://www.sciencedirect.com/science/article/pii/S1364661317301134) - ***Trends in Cognitive Sciences***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=14527964477161848029&hl=en&as_sdt=2005&sciodt=0,5)]. Tomer Ullman's review on simulation-based intuitive physics.
 
