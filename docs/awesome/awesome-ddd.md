@@ -175,6 +175,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Sample in GO](https://github.com/takashabe/go-ddd-sample) - Just another sample application implementing the four layers of DDD.
 - [Evolutive CRUD API](https://github.com/friendsofgo/gopherapi) - API implementation with full CRUD using a SOLID, Hexagonal Architecture. There is a series of blog post written for it at <https://blog.friendsofgo.tech/>.
 - [Simple Hexagonal Architecture PoC API](https://github.com/tomiok/patients-API) - PoC for a patients API using the hexagonal architecture pattern.
+- [Azure DDD boilerplate](https://github.com/joshpme/azure-go-ddd-boilerplate) - A boilerplate project for DDD in Azure using a custom handler and Cosmos DB for event sourcing
 
 ### .NET (C#/F#)
 - [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd) - solution presents usage of DDD tactical patterns to achieve better readability and expressiveness of the code. Applying DDD patterns together with ubiquitous language closes the gap between language spoken by experts and the team and language used in the code.
@@ -236,6 +237,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [https://github.com/felipexw/clean-arch-ddd-intro](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
 
 ### PHP
+- [CodefyPHP Framework](https://github.com/codefyphp/codefy) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [DDD CQRS Todo Sample](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
@@ -310,6 +312,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Lagom](https://www.lagomframework.com) - The Lagom Framework is a microservices framework for the Java Virtual Machine, with APIs for the Java and Scala languages. It includes an Event Sourcing/CQRS based persistence module.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - A set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
 - [Spine Event Engine](https://spine.io/) - a CQRS/ES framework for building cloud applications. Defines Bounded Contexts with their Commands, Events, and Entity states in Protobuf. The backend logic is written in Java, on top of the Proto-generated code. Client code in Java, JS or Dart communicates with the backend via gRPC.
+- [Ahoo-Wang/Wow](https://github.com/Ahoo-Wang/Wow) - A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.
 
 ### PHP
 - [Broadway](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
@@ -358,6 +361,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Belgium](http://www.meetup.com/dddbelgium/)
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
+- [Copenhagen](https://www.meetup.com/copenhagen-domain-driven-design-meetup/)
 - [Cracow](http://www.meetup.com/ddd-krk/)
 - [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 - [Denver](https://www.meetup.com/ddd-denver/)

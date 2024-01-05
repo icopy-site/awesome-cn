@@ -348,6 +348,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
+* [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
 * [Patchwork](https://patchwork2.org/) - A library for redefining userland functions.
 * [Pipeline](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 * [Porter](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
@@ -461,9 +462,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
 * [Dompdf](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
 * [Gotenberg](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
-* [PHPPdf](https://github.com/psliwa/PHPPdf) - A library for generating PDFs and images from XML.
 * [Snappy](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
-* [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
 
 ### Office
 *Libraries for working with office suite documents.*
@@ -502,6 +501,7 @@ Libraries to help manage database schemas and migrations.
 ### NoSQL
 *Libraries for working with "NoSQL" backends.*
 
+* [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 * [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/predis/predis) - A feature-complete Redis library.
 
